@@ -65,14 +65,14 @@
 
 ---
 
-### 📺 Latest YouTube Videos
+### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
 ---
 
-### 📕 Latest Blog Posts
+### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
