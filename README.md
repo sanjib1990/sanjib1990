@@ -68,6 +68,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Log4J &amp; JNDI Exploit: Why So Bad? - Computerphile](https://www.youtube.com/watch?v=Opqgwn8TdlM)
+- [i&#39;m buying everyone NFTs for Christmas](https://www.youtube.com/watch?v=rHCwI4K7afY)
+- [Golang Tutorial for Beginners | Full Go Course](https://www.youtube.com/watch?v=yyUHQIec83I)
+- [How to get a Million YouTube Subscribers in 100 Seconds](https://www.youtube.com/watch?v=j_q0D_jbMk8)
+- [I believe in OpenCourseWare’s mission](https://www.youtube.com/watch?v=Qf7qXw7sHk4)
 <!-- YOUTUBE:END -->
 
 ---
@@ -75,6 +80,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What 7 combined decades in tech taught us about perseverance and reinvention](https://techcrunch.com/2021/12/29/what-7-combined-decades-in-tech-taught-us-about-perseverance-and-reinvention/)
+- [Webb Team Begins Process of Extending Deployable Tower Assembly](https://blogs.nasa.gov/webb/2021/12/29/webb-team-begins-process-of-extending-deployable-tower-assembly/)
+- [6 things in cybersecurity we didn’t know last year](https://techcrunch.com/2021/12/29/six-things-we-learned-cybersecurity/)
+- [NASA Says Webb’s Excess Fuel Likely to Extend its Lifetime Expectations](https://blogs.nasa.gov/webb/2021/12/29/nasa-says-webbs-excess-fuel-likely-to-extend-its-lifetime-expectations/)
+- [Fiverr rolls out new Pinterest-like personalized discovery feature](https://techcrunch.com/2021/12/29/fiverr-rolls-out-new-pinterest-like-personalized-visual-discovery-feature/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
