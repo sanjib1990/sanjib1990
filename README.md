@@ -68,6 +68,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Log4J &amp; JNDI Exploit: Why So Bad? - Computerphile](https://www.youtube.com/watch?v=Opqgwn8TdlM)
+- [i&#39;m buying everyone NFTs for Christmas](https://www.youtube.com/watch?v=rHCwI4K7afY)
+- [Golang Tutorial for Beginners | Full Go Course](https://www.youtube.com/watch?v=yyUHQIec83I)
+- [How to get a Million YouTube Subscribers in 100 Seconds](https://www.youtube.com/watch?v=j_q0D_jbMk8)
+- [I believe in OpenCourseWare’s mission](https://www.youtube.com/watch?v=Qf7qXw7sHk4)
 <!-- YOUTUBE:END -->
 
 ---
