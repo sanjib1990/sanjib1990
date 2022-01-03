@@ -94,6 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The fish is driving again](https://techcrunch.com/2022/01/03/the-fish-is-driving-again/)
 - [These balls tell you how zen you are](https://techcrunch.com/2022/01/03/reflect-orb-biofeedback-ball/)
 - [Please effect a golf clap as Apple’s value reaches $3 trillion](https://techcrunch.com/2022/01/03/please-effect-a-golf-clap-as-apples-value-reaches-3-trillion/)
 - [3 views: Pay attention to these startup theses in 2022](https://techcrunch.com/2022/01/03/3-views-pay-attention-to-these-startup-theses-in-2022/)
@@ -103,7 +104,6 @@
 - [Samsung’s 2022 Smart TVs to support cloud gaming, video chat and even NFTs](https://techcrunch.com/2022/01/03/samsungs-2022-smart-tvs-to-support-cloud-gaming-video-chat-and-even-nfts/)
 - [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
 - [Mercedes-Benz’s vision for the future is an ultra-efficient, luxury EV with 620-mile range](https://techcrunch.com/2022/01/03/mercedes-benzs-vision-for-the-future-is-an-ultra-efficient-luxury-620-mile-range-ev/)
-- [Why Delivery Hero is acquiring a majority stake in Spanish delivery company Glovo](https://techcrunch.com/2022/01/03/why-delivery-hero-is-acquiring-a-majority-stake-in-spanish-delivery-company-glovo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
