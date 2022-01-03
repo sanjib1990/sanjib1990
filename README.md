@@ -77,6 +77,16 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Git Overview - Computerphile](https://www.youtube.com/watch?v=92sycL8ij-U)
+- [Log4J &amp; JNDI Exploit: Why So Bad? - Computerphile](https://www.youtube.com/watch?v=Opqgwn8TdlM)
+- [i&#39;m buying everyone NFTs for Christmas](https://www.youtube.com/watch?v=rHCwI4K7afY)
+- [Golang Tutorial for Beginners | Full Go Course](https://www.youtube.com/watch?v=yyUHQIec83I)
+- [How to get a Million YouTube Subscribers in 100 Seconds](https://www.youtube.com/watch?v=j_q0D_jbMk8)
+- [I believe in OpenCourseWare’s mission](https://www.youtube.com/watch?v=Qf7qXw7sHk4)
+- [KILL Linux processes!! &lpar;also manage them&rpar; // Linux for Hackers // EP 7](https://www.youtube.com/watch?v=LfC6pv8VISk)
+- [Joining Point Cloud Scans &lpar;ICP&rpar; - Computerphile](https://www.youtube.com/watch?v=4uWSo8v3iQA)
+- [S3:E3: Learning about Life through Laboratory Chemistry with Drs. John Dolhun &amp; Sarah Hewett](https://www.youtube.com/watch?v=u-Ms5v20cVw)
+- [CSS in 100 Seconds](https://www.youtube.com/watch?v=OEV8gMkCHXQ)
 <!-- YOUTUBE:END -->
 
 ---
