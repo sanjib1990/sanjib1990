@@ -94,16 +94,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [We may finally be able to test one of Stephen Hawking&#39;s most far-out ideas](https://www.space.com/testable-primordial-black-holes-theory)
+- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
+- [On This Day in Space! Jan. 3, 2004: NASA&#39;s Spirit rover lands on Mars](https://www.space.com/39251-on-this-day-in-space.html)
+- [Toxic gas released by ancient microbes may have worsened Earth&#39;s largest mass extinction](https://www.space.com/permian-extinction-microbes-hydrogen-sulfide.html)
+- [Tour Mars&#39; Jezero Crater with this gorgeous Perseverance rover mosaic &lpar;video&rpar;](https://www.space.com/mars-rover-perseverance-jezero-crater-mosaic)
 - [The Station: TuSimple loses the driver, Nikola settles and transpo predictions for 2022](https://techcrunch.com/2022/01/03/the-station-tusimple-loses-the-driver-nikola-settles-and-transpo-predictions-for-2022/)
 - [Smarter Health gets $5.15M SGD to reduce healthcare costs in Southeast Asia](https://techcrunch.com/2022/01/03/smarter-health-gets-5-15m-sgd-to-reduce-healthcare-costs-in-southeast-asia/)
 - [Alienware’s Concept Nyx is an at-home gaming server that may never exist](https://techcrunch.com/2022/01/02/alienwares-concept-nyx-is-an-at-home-gaming-server-that-may-never-exist/)
 - [Gillmor Gang: Rage On](https://techcrunch.com/2022/01/02/gillmor-gang-rage-on/)
 - [AIMMO bags $12M Series A to advance data labeling technology](https://techcrunch.com/2022/01/02/aimmo-grabs-12m-series-a-to-advance-data-labeling-technology/)
-- [NASA delays tightening James Webb Space Telescope sunshield to study power system](https://www.space.com/james-webb-space-telescope-sunshield-tension-delay)
-- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
-- [Twitter bans Rep. Marjorie Taylor-Greene’s personal account over COVID-19 misinformation](https://techcrunch.com/2022/01/02/twitter-bans-rep-marjorie-taylor-greenes-personal-account-over-covid-19-misinformation/)
-- [Deployment Timeline Adjusted as Team Focuses on Observatory Operations](https://blogs.nasa.gov/webb/2022/01/02/deployment-timeline-adjusted-as-team-focuses-on-observatory-operations/)
-- [Titan Comics&#39; new &#39;Cowboy Bebop&#39; miniseries sends Spike and the gang after a lucky vest](https://www.space.com/cowboy-bebop-titan-comic-series)
 <!-- BLOG-POST-LIST:END -->
 
 ---
