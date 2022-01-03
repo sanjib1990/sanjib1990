@@ -94,16 +94,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Mercedes-Benz’s vision for the future is an ultra efficient luxury 620-mile range EV](https://techcrunch.com/2022/01/03/mercedes-benzs-vision-for-the-future-is-an-ultra-efficient-luxury-620-mile-range-ev/)
-- [Why Delivery Hero is acquiring a majority stake in Spanish delivery company Glovo](https://techcrunch.com/2022/01/03/why-delivery-hero-is-acquiring-a-majority-stake-in-spanish-delivery-company-glovo/)
+- [Samsung’s 2022 Smart TVs to support cloud gaming, video chat and even NFTs](https://techcrunch.com/2022/01/03/samsungs-2022-smart-tvs-to-support-cloud-gaming-video-chat-and-even-nfts/)
 - [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
+- [Mercedes-Benz’s vision for the future is an ultra-efficient, luxury EV with 620-mile range](https://techcrunch.com/2022/01/03/mercedes-benzs-vision-for-the-future-is-an-ultra-efficient-luxury-620-mile-range-ev/)
+- [Why Delivery Hero is acquiring a majority stake in Spanish delivery company Glovo](https://techcrunch.com/2022/01/03/why-delivery-hero-is-acquiring-a-majority-stake-in-spanish-delivery-company-glovo/)
 - [Comet Leonard makes its closest approach to the sun today, one year after its discovery](https://www.space.com/comet-leonard-closest-approach-to-sun)
 - [Seriously, it’s time to get rid of that classic BlackBerry, for real now](https://techcrunch.com/2022/01/03/seriously-its-time-to-get-rid-of-that-classic-blackberry-for-real-now/)
 - [Assimilate this shiny new Borg Queen Replica Skull from &#39;Star Trek: First Contact&#39;](https://www.space.com/star-trek-first-contact-borg-queen-skull-prop)
 - [Twitter completes sale of MoPub to AppLovin for $1.05 billion](https://techcrunch.com/2022/01/03/twitter-completes-sale-of-mopub-to-applovin-for-1-05-billion/)
 - [Brazil’s Abstra lands Accenture as a customer and $2.3M to help teams make apps with its no-code tool](https://techcrunch.com/2022/01/03/brazils-abstra-lands-accenture-as-a-customer-and-2-3m-to-help-teams-make-apps-with-its-no-code-tool/)
 - [Equity Monday: Big Tesla numbers juice EV companies](https://techcrunch.com/2022/01/03/equity-monday-big-tesla-numbers-juice-ev-companies/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
