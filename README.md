@@ -94,6 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Smarter Health gets $5.15M SGD to reduce healthcare costs in Southeast Asia](https://techcrunch.com/2022/01/03/smarter-health-gets-5-15m-sgd-to-reduce-healthcare-costs-in-southeast-asia/)
 - [Alienware’s Concept Nyx is an at-home gaming server that may never exist](https://techcrunch.com/2022/01/02/alienwares-concept-nyx-is-an-at-home-gaming-server-that-may-never-exist/)
 - [Gillmor Gang: Rage On](https://techcrunch.com/2022/01/02/gillmor-gang-rage-on/)
 - [AIMMO bags $12M Series A to advance data labeling technology](https://techcrunch.com/2022/01/02/aimmo-grabs-12m-series-a-to-advance-data-labeling-technology/)
@@ -103,7 +104,6 @@
 - [Deployment Timeline Adjusted as Team Focuses on Observatory Operations](https://blogs.nasa.gov/webb/2022/01/02/deployment-timeline-adjusted-as-team-focuses-on-observatory-operations/)
 - [Titan Comics&#39; new &#39;Cowboy Bebop&#39; miniseries sends Spike and the gang after a lucky vest](https://www.space.com/cowboy-bebop-titan-comic-series)
 - [&#39;Star Trek: Klingons&#39; will reveal the legend of Kahless in new IDW comic](https://www.space.com/star-trek-klingons-idw-comic-book)
-- [On This Day in Space! Jan. 2, 2004: Stardust encounters Comet Wild 2](https://www.space.com/39251-on-this-day-in-space.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
