@@ -94,6 +94,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [First Layer of Webb’s Sunshield Tightened](https://blogs.nasa.gov/webb/2022/01/03/first-layer-of-webbs-sunshield-tightened/)
+- [AWS will buy a SaaS company, and other 2022 enterprise predictions](https://techcrunch.com/2022/01/03/aws-will-buy-a-saas-company-and-other-2022-enterprise-predictions/)
+- [BlackBerry phones once ruled the world, then the world changed](https://techcrunch.com/2022/01/03/blackberry-phones-once-ruled-the-world-then-the-world-changed/)
 - [The fish is driving again](https://techcrunch.com/2022/01/03/the-fish-is-driving-again/)
 - [These balls tell you how zen you are](https://techcrunch.com/2022/01/03/reflect-orb-biofeedback-ball/)
 - [Please effect a golf clap as Apple’s value reaches $3 trillion](https://techcrunch.com/2022/01/03/please-effect-a-golf-clap-as-apples-value-reaches-3-trillion/)
@@ -101,9 +104,6 @@
 - [Things are getting tense for NASA&#39;s James Webb Space Telescope, literally](https://www.space.com/james-webb-space-telescope-begins-tensioning-sunshield)
 - [Webb Team Moving Forward With Sunshield Tensioning](https://blogs.nasa.gov/webb/2022/01/03/webb-team-moving-forward-with-sunshield-tensioning/)
 - [Your mom owns Web 2.0](https://techcrunch.com/2022/01/03/your-mom-owns-web-2-0/)
-- [Samsung’s 2022 Smart TVs to support cloud gaming, video chat and even NFTs](https://techcrunch.com/2022/01/03/samsungs-2022-smart-tvs-to-support-cloud-gaming-video-chat-and-even-nfts/)
-- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
-- [Mercedes-Benz’s vision for the future is an ultra-efficient, luxury EV with 620-mile range](https://techcrunch.com/2022/01/03/mercedes-benzs-vision-for-the-future-is-an-ultra-efficient-luxury-620-mile-range-ev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
