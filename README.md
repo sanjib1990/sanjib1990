@@ -96,9 +96,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [LG’s best-selling OLED TVs get an upgrade for the new year](https://techcrunch.com/2022/01/03/lg-oled-tv-at-ces/)
 - [Samsung’s budget flagship Galaxy S21 FE arrives next week, starting at $699](https://techcrunch.com/2022/01/03/samsungs-budget-flagship-galaxy-s21-fe-arrives-next-week-starting-at-699/)
-- [Liquid Death lands $75 million more to expand the brand](https://techcrunch.com/2022/01/03/liquid-death-lands-75-million-more-in-funding-including-to-roll-out-flavored-water/)
+- [Liquid Death lands $75M more to expand the brand](https://techcrunch.com/2022/01/03/liquid-death-lands-75-million-more-in-funding-including-to-roll-out-flavored-water/)
 - [VC Joe Lonsdale’s tweets about ‘woke’ tech diversity spark investor pushback](https://techcrunch.com/2022/01/03/vc-joe-lonsdales-tweets-about-woke-tech-diversity-spark-investor-pushback/)
-- [Exotel raises $40 million for its full-stack customer engagement platform](https://techcrunch.com/2022/01/03/exotel-raises-40-million-for-its-full-stack-customer-engagement-platform/)
+- [Exotel raises $40M for its full-stack customer engagement platform](https://techcrunch.com/2022/01/03/exotel-raises-40-million-for-its-full-stack-customer-engagement-platform/)
 - [Withings launches an even smarter scale to measure you from top to toe](https://techcrunch.com/2022/01/03/withings-body-scan/)
 - [Second and Third Layers of Sunshield Fully Tightened](https://blogs.nasa.gov/webb/2022/01/03/second-and-third-layers-of-sunshield-fully-tightened/)
 - [Elizabeth Holmes convicted of 4 of 11 fraud counts in Theranos trial](https://techcrunch.com/2022/01/03/elizabeth-holmes-verdict-guilty-theranos-fraud/)
