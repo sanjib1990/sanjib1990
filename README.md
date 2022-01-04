@@ -94,16 +94,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Intel doubles down on hybrid chip architecture, unveils 28 new 12th-gen Intel Core mobile processors and 22 desktop processors](https://techcrunch.com/2022/01/04/intel-ces-2/)
+- [The convergence of deep neural networks and immunotherapy](https://techcrunch.com/2022/01/04/the-convergence-of-deep-neural-networks-and-immunotherapy/)
+- [Israel’s cybersecurity startups post another record year in 2021](https://techcrunch.com/2022/01/04/israels-cybersecurity-startups-post-another-record-year-in-2021/)
+- [Webb Team Tensions Fifth Layer, Sunshield Fully Deployed](https://blogs.nasa.gov/webb/2022/01/04/webb-team-tensions-fifth-layer-sunshield-fully-deployed/)
+- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
 - [Happy perihelion! Earth reaches its closest point to the sun of 2022](https://www.space.com/earth-closest-to-sun-perihelion-2022)
 - [Formlabs promises up to 40% speed increase with new 3D printers](https://techcrunch.com/2022/01/04/formlabs-promises-up-to-40-speed-increase-with-new-3d-printers/)
 - [Nvidia expands its Omniverse](https://techcrunch.com/2022/01/04/nvidia-expands-its-omniverse/)
 - [Nvidia launches the $249 GeForce RTX 3050](https://techcrunch.com/2022/01/04/nvidia-launches-the-249-geforce-rtx-3050/)
 - [Nvidia expands its GeForce Now game streaming ecosystem](https://techcrunch.com/2022/01/04/nvidia-expands-its-geforce-now-game-streaming-ecosystem/)
-- [With Intel Mobileye’s newest chip, automakers can bring automated driving to cars](https://techcrunch.com/2022/01/04/intels-mobileye-autonomous-driving-chip-for-consumer-vehicles/)
-- [Starlink India head steps down after government order](https://techcrunch.com/2022/01/04/starlink-india-head-steps-down-after-government-order/)
-- [These speakers power themselves so the party never stops](https://techcrunch.com/2022/01/04/mayht-and-powerfoyle/)
-- [Calm makes its first foray into physical activity and video content with new ‘Daily Move’ feature](https://techcrunch.com/2022/01/04/calm-makes-its-first-foray-into-physical-activity-and-video-content-with-new-daily-move-feature/)
-- [Schlage’s new locks open your front door with your Apple Watch](https://techcrunch.com/2022/01/04/open-schlage-open-sesame/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
