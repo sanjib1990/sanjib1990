@@ -94,16 +94,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Secondary Mirror Deployment Begins Tomorrow](https://blogs.nasa.gov/webb/2022/01/04/secondary-mirror-deployment-begins-tomorrow/)
+- [BMW unveils the iX M60](https://techcrunch.com/2022/01/04/bmw-unveils-the-ix-m60/)
+- [Hyundai sends Boston Dynamics’ Spot robot into the metaverse](https://techcrunch.com/2022/01/04/hyundai-plans-to-incorporate-robots-into-the-metaverse-to-help-users-reach-out-and-touch-someone/)
+- [Where will our data go when cookies disappear?](https://techcrunch.com/2022/01/04/where-will-our-data-go-when-cookies-disappear/)
+- [Exploding meteor &#39;booms&#39; over Pennsylvania on New Year&#39;s Day](https://www.space.com/exploding-meteor-boom-pittsburgh-new-years-day)
 - [Anker debuts a 2K webcam with built-in lighting, speakers and more for $220](https://techcrunch.com/2022/01/04/anker-debuts-a-2k-webcam-with-built-in-lighting-speakers-and-more-for-220/)
 - [Panasonic to use Redwood’s recycled materials in battery cell production at Tesla gigafactory](https://techcrunch.com/2022/01/04/panasonic-redwood-battery-cell-production-tesla/)
 - [With James Webb Space Telescope’s huge sunshield in place, focus shifts to big mirrors](https://www.space.com/james-webb-space-telescope-deployment-next-steps)
 - [John Deere’s self-driving tractor arrives later this fall](https://techcrunch.com/2022/01/04/john-deeres-self-driving-tractor-arrives-later-this-fall/)
 - [TechCrunch+ roundup: 2022 enterprise predictions, Justworks IPO, startup theses to watch for](https://techcrunch.com/2022/01/04/techcrunch-roundup-2022-enterprise-predictions-justworks-ipo-startup-theses-to-watch-for/)
-- [4 trends that will define e-commerce in 2022](https://techcrunch.com/2022/01/04/4-trends-that-will-define-e-commerce-in-2022/)
-- [GE Lighting adds smart thermostats, security cameras and other bright ideas](https://techcrunch.com/2022/01/04/ge-lighting-adds-smart-thermostats-security-cameras-and-other-bright-ideas/)
-- [Kiddo picks up $16Mfor a kids’ wearable aimed at four chronic conditions](https://techcrunch.com/2022/01/04/kiddo-picks-up-16mfor-a-kids-wearable-aimed-at-four-chronic-conditions/)
-- [TikTok tests its own version of the retweet with a new ‘Repost’ button](https://techcrunch.com/2022/01/04/tiktok-tests-its-own-version-of-the-retweet-with-a-new-repost-button/)
-- [Qualcomm commits to auto sector, locking in new clients for its Snapdragon Digital Chassis](https://techcrunch.com/2022/01/04/qualcomm-ces-auto-snapdragon-digital-chassis/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
