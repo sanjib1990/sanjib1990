@@ -94,6 +94,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ford to double production capacity of its all-electric  F-150 Lightning pickup truck](https://techcrunch.com/2022/01/04/ford-double-production-lightning-pickup/)
+- [Kindle’s China future in doubt after disappearing from online shelves](https://techcrunch.com/2022/01/04/amazon-kindle-china/)
 - [Fintechs in Africa continue to overshadow all other startups in funding gained](https://techcrunch.com/2022/01/04/fintechs-in-africa-continue-to-overshadow-all-other-startups-in-funding-gained/)
 - [LG’s best-selling OLED TVs get an upgrade for the new year](https://techcrunch.com/2022/01/03/lg-oled-tv-at-ces/)
 - [Samsung’s budget flagship Galaxy S21 FE arrives next week, starting at $699](https://techcrunch.com/2022/01/03/samsungs-budget-flagship-galaxy-s21-fe-arrives-next-week-starting-at-699/)
@@ -102,8 +104,6 @@
 - [Exotel raises $40M for its full-stack customer engagement platform](https://techcrunch.com/2022/01/03/exotel-raises-40-million-for-its-full-stack-customer-engagement-platform/)
 - [Withings launches an even smarter scale to measure you from top to toe](https://techcrunch.com/2022/01/03/withings-body-scan/)
 - [Second and Third Layers of Sunshield Fully Tightened](https://blogs.nasa.gov/webb/2022/01/03/second-and-third-layers-of-sunshield-fully-tightened/)
-- [Elizabeth Holmes convicted of 4 of 11 fraud counts in Theranos trial](https://techcrunch.com/2022/01/03/elizabeth-holmes-verdict-guilty-theranos-fraud/)
-- [The coming reckoning: Showing ROI from threat intelligence](https://techcrunch.com/2022/01/03/the-coming-reckoning-showing-roi-from-threat-intelligence/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
