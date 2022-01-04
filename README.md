@@ -94,16 +94,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Ford to double production capacity of its all-electric  F-150 Lightning pickup truck](https://techcrunch.com/2022/01/04/ford-double-production-lightning-pickup/)
-- [Kindle’s China future in doubt after disappearing from online shelves](https://techcrunch.com/2022/01/04/amazon-kindle-china/)
-- [Fintechs in Africa continue to overshadow all other startups in funding gained](https://techcrunch.com/2022/01/04/fintechs-in-africa-continue-to-overshadow-all-other-startups-in-funding-gained/)
+- [&#39;Cosmic monster&#39; star spits energy with the force of a billion suns](https://www.space.com/magnetar-giant-flare-oscillations-ai)
+- [Some black holes are anything but black – and we&#39;ve found more than 75,000 of the brightest ones](https://www.space.com/black-holes-anything-but-black-75000-brightest-ones)
+- [Watch &#39;coronal streamers&#39; streak off the sun in close-up video from Parker Solar Probe](https://www.space.com/sun-coronal-streamers-parker-solar-probe-video)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [LG’s best-selling OLED TVs get an upgrade for the new year](https://techcrunch.com/2022/01/03/lg-oled-tv-at-ces/)
 - [Samsung’s budget flagship Galaxy S21 FE arrives next week, starting at $699](https://techcrunch.com/2022/01/03/samsungs-budget-flagship-galaxy-s21-fe-arrives-next-week-starting-at-699/)
 - [Liquid Death lands $75M more to expand the brand](https://techcrunch.com/2022/01/03/liquid-death-lands-75-million-more-in-funding-including-to-roll-out-flavored-water/)
 - [VC Joe Lonsdale’s tweets about ‘woke’ tech diversity spark investor pushback](https://techcrunch.com/2022/01/03/vc-joe-lonsdales-tweets-about-woke-tech-diversity-spark-investor-pushback/)
 - [Exotel raises $40M for its full-stack customer engagement platform](https://techcrunch.com/2022/01/03/exotel-raises-40-million-for-its-full-stack-customer-engagement-platform/)
 - [Withings launches an even smarter scale to measure you from top to toe](https://techcrunch.com/2022/01/03/withings-body-scan/)
-- [Second and Third Layers of Sunshield Fully Tightened](https://blogs.nasa.gov/webb/2022/01/03/second-and-third-layers-of-sunshield-fully-tightened/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
