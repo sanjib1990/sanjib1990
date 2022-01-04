@@ -94,16 +94,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GE Lighting adds smart thermostats, security cameras and other bright ideas](https://techcrunch.com/2022/01/04/ge-lighting-adds-smart-thermostats-security-cameras-and-other-bright-ideas/)
+- [Kiddo picks up $16Mfor a kids’ wearable aimed at four chronic conditions](https://techcrunch.com/2022/01/04/kiddo-picks-up-16mfor-a-kids-wearable-aimed-at-four-chronic-conditions/)
+- [TikTok tests its own version of the Retweet with a new ‘Repost’ button](https://techcrunch.com/2022/01/04/tiktok-tests-its-own-version-of-the-retweet-with-a-new-repost-button/)
+- [Qualcomm commits to auto sector, locking in new clients for its Snapdragon Digital Chassis](https://techcrunch.com/2022/01/04/qualcomm-ces-auto-snapdragon-digital-chassis/)
+- [VCs and founders are max bullish as public markets flash warning signs](https://techcrunch.com/2022/01/04/vcs-and-founders-are-max-bullish-as-public-markets-flash-warning-signs/)
+- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html)
 - [DriveU.auto to power remote piloting of EasyMile’s autonomous shuttles, Coco’s sidewalk robots](https://techcrunch.com/2022/01/04/driveu-auto-to-power-remote-piloting-of-easymiles-autonomous-shuttles-cocos-sidewalk-robots/)
 - [Chipolo takes on Tile with a new ‘lost wallet’ tracker that works with Apple’s Find My](https://techcrunch.com/2022/01/04/chipolo-takes-on-tile-with-a-new-lost-wallet-tracker-that-works-with-apples-find-my/)
 - [James Webb Space Telescope completes tricky sunshield deployment](https://www.space.com/james-webb-space-telescope-completes-sunshield-deployment)
 - [Last astronauts to visit Hubble Space Telescope sign coins for AMF fundraiser](https://www.space.com/astronauts-memorial-sts-125-hubble-coins)
-- [Recorded Future acquires internet inventory startup SecurityTrails for $65M](https://techcrunch.com/2022/01/04/recorded-future-securitytrails/)
-- [Skydio debuts updated $1099 self-flying drone with new bells and whistles](https://techcrunch.com/2022/01/04/skydio-debuts-updated-1099-self-flying-drone-with-new-bells-and-whistles/)
-- [&#39;Space Force&#39; Season 2 will land on Netflix in February](https://www.space.com/netflix-space-force-season-2-february-2022)
-- [Mobileye and Zeekr plan to build an autonomous EV for Chinese consumers](https://techcrunch.com/2022/01/04/mobileye-and-zeekr-plan-to-build-an-autonomous-ev-for-chinese-consumers/)
-- [Intel doubles down on hybrid chip architecture, unveils 28 new 12th-gen Intel Core mobile processors and 22 desktop processors](https://techcrunch.com/2022/01/04/intel-ces-2/)
-- [The convergence of deep neural networks and immunotherapy](https://techcrunch.com/2022/01/04/the-convergence-of-deep-neural-networks-and-immunotherapy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
