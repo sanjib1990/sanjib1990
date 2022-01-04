@@ -94,16 +94,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Schlage’s new locks open your front door with your Apple Watch](https://techcrunch.com/2022/01/04/open-schlage-open-sesame/)
+- [Google confirms it acquired cybersecurity specialist Siemplify, reportedly for $500M, to become part of Google Cloud’s Chronicle](https://techcrunch.com/2022/01/04/google-confirms-it-acquired-cybersecurity-specialist-siemplify-reportedly-for-500m-to-become-part-of-google-clouds-chronicle/)
+- [Justworks targets multibillion-dollar valuation in upcoming IPO](https://techcrunch.com/2022/01/04/justworks-targets-multibillion-dollar-valuation-in-upcoming-ipo/)
+- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
 - [Tensioning Begins for Two Layers of Webb’s Sunshield](https://blogs.nasa.gov/webb/2022/01/04/tensioning-begins-for-two-layers-of-webbs-sunshield/)
 - [Seoul Robotics introduces V2X sensor tower to automate BMW fleets at Munich manufacturing facility](https://techcrunch.com/2022/01/04/seoul-robotics-introduces-v2x-sensor-tower-to-automate-bmw-fleets-at-munich-manufacturing-facility/)
 - [ianacare picks up $12.1M to fundamentally change the family caregiver experience](https://techcrunch.com/2022/01/04/ianacare-picks-up-12-1m-to-fundamentally-change-the-family-caregiver-experience/)
 - [Atmosphere raises $100M as its business-focused streaming TV service passes 19K venues and 20M viewers](https://techcrunch.com/2022/01/04/atmosphere-raises-100m-as-its-business-focused-streaming-tv-service-passes-19k-venues-and-20m-viewers/)
 - [Opportunity not fear: Reframing cybersecurity to build a safer net for all](https://techcrunch.com/2022/01/04/2252633/)
 - [Refinery Ventures’ second fund aimed at getting startups to Series A](https://techcrunch.com/2022/01/04/refinery-ventures-second-fund-aimed-at-getting-startups-to-series-a/)
-- [Smart contact lens startup Mojo Vision partners with Adidas and other sports brands](https://techcrunch.com/2022/01/04/smart-contact-lens-startup-mojo-vision-partners-with-adidas-and-other-sports-brands/)
-- [Labrador set to deliver a robotic helping hand to homes in 2023](https://techcrunch.com/2022/01/04/labrador-set-to-deliver-a-robotic-helping-hand-to-homes-in-2023/)
-- [SpaceX’s Starlink to refund pre-orders in India following government order](https://techcrunch.com/2022/01/04/spacex-starlink-to-refund-india-government-order/)
-- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
