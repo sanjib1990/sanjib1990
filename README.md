@@ -94,6 +94,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tensioning Begins for Two Layers of Webb’s Sunshield](https://blogs.nasa.gov/webb/2022/01/04/tensioning-begins-for-two-layers-of-webbs-sunshield/)
+- [Seoul Robotics introduces V2X sensor tower to automate BMW fleets at Munich manufacturing facility](https://techcrunch.com/2022/01/04/seoul-robotics-introduces-v2x-sensor-tower-to-automate-bmw-fleets-at-munich-manufacturing-facility/)
+- [ianacare picks up $12.1M to fundamentally change the family caregiver experience](https://techcrunch.com/2022/01/04/ianacare-picks-up-12-1m-to-fundamentally-change-the-family-caregiver-experience/)
 - [Atmosphere raises $100M as its business-focused streaming TV service passes 19K venues and 20M viewers](https://techcrunch.com/2022/01/04/atmosphere-raises-100m-as-its-business-focused-streaming-tv-service-passes-19k-venues-and-20m-viewers/)
 - [Opportunity not fear: Reframing cybersecurity to build a safer net for all](https://techcrunch.com/2022/01/04/2252633/)
 - [Refinery Ventures’ second fund aimed at getting startups to Series A](https://techcrunch.com/2022/01/04/refinery-ventures-second-fund-aimed-at-getting-startups-to-series-a/)
@@ -101,9 +104,6 @@
 - [Labrador set to deliver a robotic helping hand to homes in 2023](https://techcrunch.com/2022/01/04/labrador-set-to-deliver-a-robotic-helping-hand-to-homes-in-2023/)
 - [SpaceX’s Starlink to refund pre-orders in India following government order](https://techcrunch.com/2022/01/04/spacex-starlink-to-refund-india-government-order/)
 - [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
-- [On This Day in Space! Jan. 4, 1970: NASA cancels Apollo 20 moon mission](https://www.space.com/39251-on-this-day-in-space.html)
-- [&#39;Cosmic monster&#39; star spits energy with the force of a billion suns](https://www.space.com/magnetar-giant-flare-oscillations-ai)
-- [TuSimple integrates Nvidia’s newest auto-grade chip to scale autonomous trucking](https://techcrunch.com/2022/01/04/tusimple-integrates-nvidias-newest-auto-grade-chip-to-scale-autonomous-trucking/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
