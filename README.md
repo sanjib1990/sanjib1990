@@ -94,16 +94,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DriveU.auto to power remote piloting of EasyMile’s autonomous shuttles, Coco’s sidewalk robots](https://techcrunch.com/2022/01/04/driveu-auto-to-power-remote-piloting-of-easymiles-autonomous-shuttles-cocos-sidewalk-robots/)
+- [Chipolo takes on Tile with a new ‘lost wallet’ tracker that works with Apple’s Find My](https://techcrunch.com/2022/01/04/chipolo-takes-on-tile-with-a-new-lost-wallet-tracker-that-works-with-apples-find-my/)
+- [James Webb Space Telescope completes tricky sunshield deployment](https://www.space.com/james-webb-space-telescope-completes-sunshield-deployment)
+- [Last astronauts to visit Hubble Space Telescope sign coins for AMF fundraiser](https://www.space.com/astronauts-memorial-sts-125-hubble-coins)
+- [Recorded Future acquires internet inventory startup SecurityTrails for $65M](https://techcrunch.com/2022/01/04/recorded-future-securitytrails/)
+- [Skydio debuts updated $1099 self-flying drone with new bells and whistles](https://techcrunch.com/2022/01/04/skydio-debuts-updated-1099-self-flying-drone-with-new-bells-and-whistles/)
+- [&#39;Space Force&#39; Season 2 will land on Netflix in February](https://www.space.com/netflix-space-force-season-2-february-2022)
+- [Mobileye and Zeekr plan to build an autonomous EV for Chinese consumers](https://techcrunch.com/2022/01/04/mobileye-and-zeekr-plan-to-build-an-autonomous-ev-for-chinese-consumers/)
 - [Intel doubles down on hybrid chip architecture, unveils 28 new 12th-gen Intel Core mobile processors and 22 desktop processors](https://techcrunch.com/2022/01/04/intel-ces-2/)
 - [The convergence of deep neural networks and immunotherapy](https://techcrunch.com/2022/01/04/the-convergence-of-deep-neural-networks-and-immunotherapy/)
-- [Israel’s cybersecurity startups post another record year in 2021](https://techcrunch.com/2022/01/04/israels-cybersecurity-startups-post-another-record-year-in-2021/)
-- [Webb Team Tensions Fifth Layer, Sunshield Fully Deployed](https://blogs.nasa.gov/webb/2022/01/04/webb-team-tensions-fifth-layer-sunshield-fully-deployed/)
-- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
-- [Happy perihelion! Earth reaches its closest point to the sun of 2022](https://www.space.com/earth-closest-to-sun-perihelion-2022)
-- [Formlabs promises up to 40% speed increase with new 3D printers](https://techcrunch.com/2022/01/04/formlabs-promises-up-to-40-speed-increase-with-new-3d-printers/)
-- [Nvidia expands its Omniverse](https://techcrunch.com/2022/01/04/nvidia-expands-its-omniverse/)
-- [Nvidia launches the $249 GeForce RTX 3050](https://techcrunch.com/2022/01/04/nvidia-launches-the-249-geforce-rtx-3050/)
-- [Nvidia expands its GeForce Now game streaming ecosystem](https://techcrunch.com/2022/01/04/nvidia-expands-its-geforce-now-game-streaming-ecosystem/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
