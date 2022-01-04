@@ -94,16 +94,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Liquid Death lands $75 million more to expand the brand](https://techcrunch.com/2022/01/03/liquid-death-lands-75-million-more-in-funding-including-to-roll-out-flavored-water/)
+- [VC Joe Lonsdale’s tweets about ‘woke’ tech diversity spark investor pushback](https://techcrunch.com/2022/01/03/vc-joe-lonsdales-tweets-about-woke-tech-diversity-spark-investor-pushback/)
+- [Exotel raises $40 million for its full-stack customer engagement platform](https://techcrunch.com/2022/01/03/exotel-raises-40-million-for-its-full-stack-customer-engagement-platform/)
+- [Withings launches an even smarter scale to measure you from top to toe](https://techcrunch.com/2022/01/03/withings-body-scan/)
+- [Second and Third Layers of Sunshield Fully Tightened](https://blogs.nasa.gov/webb/2022/01/03/second-and-third-layers-of-sunshield-fully-tightened/)
 - [Elizabeth Holmes convicted of 4 of 11 fraud counts in Theranos trial](https://techcrunch.com/2022/01/03/elizabeth-holmes-verdict-guilty-theranos-fraud/)
 - [The coming reckoning: Showing ROI from threat intelligence](https://techcrunch.com/2022/01/03/the-coming-reckoning-showing-roi-from-threat-intelligence/)
 - [Fintech-focused Ribbit Capital raises $1.15B in seventh fund, according to SEC filing](https://techcrunch.com/2022/01/03/fintech-focused-ribbit-capital-raises-1-15b-in-seventh-fund-according-to-sec-filing/)
 - [GAF Energy’s easy-install solar shingles aim to outshine Tesla roofs and traditional panels](https://techcrunch.com/2022/01/03/gaf-energys-easy-install-solar-shingles-aim-to-outshine-tesla-roofs-and-traditional-panels/)
 - [Connecting the dots on diversity in cybersecurity recruitment](https://techcrunch.com/2022/01/03/connecting-the-dots-on-diversity-in-cybersecurity-recruitment/)
-- [Daily Crunch: No-code app development platform Abstra raises $2.3M](https://techcrunch.com/2022/01/03/daily-crunch-no-code-app-development-platform-abstra-raises-2-3m/)
-- [First Layer of Webb’s Sunshield Tightened](https://blogs.nasa.gov/webb/2022/01/03/first-layer-of-webbs-sunshield-tightened/)
-- [AWS will buy a SaaS company, and other 2022 enterprise predictions](https://techcrunch.com/2022/01/03/aws-will-buy-a-saas-company-and-other-2022-enterprise-predictions/)
-- [BlackBerry phones once ruled the world, then the world changed](https://techcrunch.com/2022/01/03/blackberry-phones-once-ruled-the-world-then-the-world-changed/)
-- [The fish is driving again](https://techcrunch.com/2022/01/03/the-fish-is-driving-again/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
