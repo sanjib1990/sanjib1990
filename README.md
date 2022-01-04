@@ -94,6 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [LG’s best-selling OLED TVs get an upgrade for the new year](https://techcrunch.com/2022/01/03/lg-oled-tv-at-ces/)
 - [Samsung’s budget flagship Galaxy S21 FE arrives next week, starting at $699](https://techcrunch.com/2022/01/03/samsungs-budget-flagship-galaxy-s21-fe-arrives-next-week-starting-at-699/)
 - [Liquid Death lands $75 million more to expand the brand](https://techcrunch.com/2022/01/03/liquid-death-lands-75-million-more-in-funding-including-to-roll-out-flavored-water/)
 - [VC Joe Lonsdale’s tweets about ‘woke’ tech diversity spark investor pushback](https://techcrunch.com/2022/01/03/vc-joe-lonsdales-tweets-about-woke-tech-diversity-spark-investor-pushback/)
@@ -103,7 +104,6 @@
 - [Elizabeth Holmes convicted of 4 of 11 fraud counts in Theranos trial](https://techcrunch.com/2022/01/03/elizabeth-holmes-verdict-guilty-theranos-fraud/)
 - [The coming reckoning: Showing ROI from threat intelligence](https://techcrunch.com/2022/01/03/the-coming-reckoning-showing-roi-from-threat-intelligence/)
 - [Fintech-focused Ribbit Capital raises $1.15B in seventh fund, according to SEC filing](https://techcrunch.com/2022/01/03/fintech-focused-ribbit-capital-raises-1-15b-in-seventh-fund-according-to-sec-filing/)
-- [GAF Energy’s easy-install solar shingles aim to outshine Tesla roofs and traditional panels](https://techcrunch.com/2022/01/03/gaf-energys-easy-install-solar-shingles-aim-to-outshine-tesla-roofs-and-traditional-panels/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
