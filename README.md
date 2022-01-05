@@ -94,16 +94,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google brings Android and &lpar;some&rpar; Windows PCs closer together](https://techcrunch.com/2022/01/05/google-brings-android-and-some-windows-pcs-closer-together/)
-- [Google Home, YouTube integrate with Volvo Cars](https://techcrunch.com/2022/01/05/google-home-youtube-integrate-with-volvo-cars/)
-- [Google expands Fast Pairing beyond headphones](https://techcrunch.com/2022/01/05/google-expands-fast-pairing-beyond-headphones/)
-- [Instagram’s chronological feed is back](https://techcrunch.com/2022/01/05/instagram-chronological-feed/)
-- [New pet tech at CES treats dogs and cats like the complex beings they are](https://techcrunch.com/2022/01/05/new-pet-tech-at-ces-treats-dogs-and-cats-like-the-complex-beings-they-are/)
-- [HBO, including HBO Max, ends 2021 with 73.8 million global subscribers](https://techcrunch.com/2022/01/05/hbo-including-hbo-max-ends-2021-with-73-8-million-global-subscribers/)
-- [FTC settles with data analytics firm after millions of Americans’ mortgage files exposed](https://techcrunch.com/2022/01/05/ftc-settle-mortgage-files-exposed/)
-- [GM aims to sell personal autonomous vehicles by mid decade](https://techcrunch.com/2022/01/05/gm-personal-autonomous-vehicles/)
-- [Effa’s tiny but tip-top team tools up for a tiff with trivial toothbrushes on their own turf](https://techcrunch.com/2022/01/05/effa-retail-launch/)
-- [GM’s BrightDrop brings on Walmart as new EV customer as FedEx ups existing order](https://techcrunch.com/2022/01/05/gms-brightdrop-brings-on-walmart-as-new-ev-customer-fedex-ups-existing-order/)
+- [BMW wants to turn your car into a rolling cinema](https://techcrunch.com/2022/01/05/bmw-wants-to-turn-your-car-into-a-rolling-cinema/)
+- [BMW shows off a color-changing car](https://techcrunch.com/2022/01/05/bmw-shows-off-a-color-changing-car/)
+- [Electric Chevrolet Equinox, Chevrolet Blazer SUVs are coming in 2023](https://techcrunch.com/2022/01/05/electric-chevrolet-equinox-chevrolet-blazer-suvs-are-coming-in-2023/)
+- [The Chevy Silverado finally goes electric](https://techcrunch.com/2022/01/05/the-chevy-silverado-finally-goes-electric/)
+- [Secondary Mirror Deployment Confirmed](https://blogs.nasa.gov/webb/2022/01/05/secondary-mirror-deployment-confirmed/)
+- [Mars helicopter Ingenuity gearing up for 19th Red Planet flight on Friday](https://www.space.com/mars-helicopter-ingenuity-19th-flight-preview)
+- [Constant compliance is security theater](https://techcrunch.com/2022/01/05/constant-compliance-is-security-theater/)
+- [Why it matters having Matter support for your new smart home device](https://techcrunch.com/2022/01/05/why-it-matters-having-matter-support-for-your-new-smart-home-device/)
+- [A quick check-in on the neoinsurance unicorn public meltdown](https://techcrunch.com/2022/01/05/a-quick-check-in-on-the-neoinsurance-unicorn-public-meltdown/)
+- [&#39;Orion&#39;s Fireplace&#39;: Flame Nebula is ablaze with color in stunning new image](https://www.space.com/orion-flame-nebula-image-eso-telescope)
 <!-- BLOG-POST-LIST:END -->
 
 ---
