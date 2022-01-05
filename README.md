@@ -94,6 +94,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Homey brings a veil of privacy to the US smart home market](https://techcrunch.com/2022/01/05/homey-us-launch/)
+- [Meez keeps recipes in one place so chefs can continue whipping up culinary delights](https://techcrunch.com/2022/01/05/meez-keeps-recipes-in-one-place-so-chefs-can-continue-whipping-up-culinary-delight/)
+- [Alto raises $40 million to help individuals make tax-savvy investments in assets like crypto and artwork](https://techcrunch.com/2022/01/05/alto-raises-40-billion-to-help-individuals-make-tax-savvy-investments-in-assets-like-crypto-and-artwork/)
 - [Meet Bob, a cute little dishwasher that saves water and zaps bacteria](https://techcrunch.com/2022/01/05/bob-the-magic-dishwasher-dragon/)
 - [TikTok taps Atmosphere to bring TikTok videos to out of home screens in commercial venues for the first time](https://techcrunch.com/2022/01/05/tiktok-taps-atmosphere-to-bring-tiktok-videos-to-out-of-home-screens-in-commercial-venues-for-the-first-time/)
 - [With $8M seed round, Protai leverages the proteome to speed up drug discovery](https://techcrunch.com/2022/01/05/with-8m-seed-round-protai-leverages-the-proteome-to-speed-up-drug-discovery/)
@@ -101,9 +104,6 @@
 - [Amazon to bolster delivery fleet with all-electric Ram ProMaster vans](https://techcrunch.com/2022/01/05/amazon-delivery-fleet-electric-ram-promaster-vans/)
 - [Germany’s antitrust probe of Google products steps up a gear](https://techcrunch.com/2022/01/05/germany-fco-google-decision/)
 - [PWRboard promises to charge all your creator gadgets all at once](https://techcrunch.com/2022/01/05/that-is-a-lot-of-power-you-guys/)
-- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
-- [Visual collaboration company Miro valued at $17.5B following $400M in new funding](https://techcrunch.com/2022/01/05/visual-collaboration-company-miro-valued-at-17-5b-following-400m-in-new-funding/)
-- [On This Day in Space! Jan. 5, 2005: Discovery of Eris ignites Pluto-planet debate](https://www.space.com/39251-on-this-day-in-space.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
