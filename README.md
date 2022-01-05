@@ -94,16 +94,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Einstein&#39;s theory of general relativity](https://www.space.com/17661-theory-general-relativity.html)
+- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
+- [&#39;Alexa, take me to the moon&#39;: Amazon, Cisco Webex to fly on Artemis 1](https://www.space.com/alexa-webex-flying-artemis-moon-mission)
+- [Making sense of OpenSea at a $13B valuation](https://techcrunch.com/2022/01/05/making-sense-of-opensea-at-a-13b-valuation/)
+- [Formant is solving the robotic Tower of Babel with a unified platform](https://techcrunch.com/2022/01/05/formant-series-a/)
 - [Meet Bankaya, a Mexican fintech that is going offline for customer acquisition](https://techcrunch.com/2022/01/05/meet-bankaya-a-mexican-fintech-that-is-going-offline-for-customer-acquisition/)
+- [This &#39;UFO&#39; rover could hover on the moon and asteroids one day](https://www.space.com/levitating-rover-concept-mit-moon-asteroids.html)
 - [Amazon Fire TV is coming to more cars in 2022](https://techcrunch.com/2022/01/05/amazon-fire-tv-is-coming-to-more-cars-in-2022/)
 - [Xage snags $30M Series B to help secure critical infrastructure](https://techcrunch.com/2022/01/05/xage-snags-30m-series-b-to-help-secure-critical-infrastructure/)
 - [MIRI Instrument Marks a First Milestone in Space](https://blogs.nasa.gov/webb/2022/01/05/miri-instrument-marks-a-first-milestone-in-space/)
-- [Perseid meteor shower 2022: When, where &amp; how to see it](https://www.space.com/32868-perseid-meteor-shower-guide.html)
-- [Where do black holes lead to?](https://www.space.com/where-do-black-holes-lead.html)
-- [Tata’s seat squeals if your successors are sizzling in the seat in the sun](https://techcrunch.com/2022/01/05/tata-filo/)
-- [Homey brings a veil of privacy to the US smart home market](https://techcrunch.com/2022/01/05/homey-us-launch/)
-- [Meez keeps recipes in one place so chefs can continue whipping up culinary delights](https://techcrunch.com/2022/01/05/meez-keeps-recipes-in-one-place-so-chefs-can-continue-whipping-up-culinary-delight/)
-- [Alto raises $40 million to help individuals make tax-savvy investments in assets like crypto and artwork](https://techcrunch.com/2022/01/05/alto-raises-40-billion-to-help-individuals-make-tax-savvy-investments-in-assets-like-crypto-and-artwork/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
