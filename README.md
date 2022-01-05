@@ -94,6 +94,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Petal nears unicorn status with fresh $140M in capital to upend ‘broken’ traditional credit system](https://techcrunch.com/2022/01/05/petal-nears-unicorn-status-with-fresh-140m-in-capital-to-upend-broken-traditional-credit-system/)
+- [Satellite images show epic snowstorm that shut down part of Interstate 95](https://www.space.com/us-snowstorm-january-2022-satellite-images)
 - [James Webb Space Telescope nails secondary mirror deployment](https://www.space.com/james-webb-space-telescope-secondary-mirror-deployed)
 - [BMW wants to turn your car into a rolling cinema](https://techcrunch.com/2022/01/05/bmw-wants-to-turn-your-car-into-a-rolling-cinema/)
 - [BMW shows off a color-changing car](https://techcrunch.com/2022/01/05/bmw-shows-off-a-color-changing-car/)
@@ -102,8 +104,6 @@
 - [Secondary Mirror Deployment Confirmed](https://blogs.nasa.gov/webb/2022/01/05/secondary-mirror-deployment-confirmed/)
 - [Mars helicopter Ingenuity gearing up for 19th Red Planet flight on Friday](https://www.space.com/mars-helicopter-ingenuity-19th-flight-preview)
 - [Constant compliance is security theater](https://techcrunch.com/2022/01/05/constant-compliance-is-security-theater/)
-- [Why it matters having Matter support for your new smart home device](https://techcrunch.com/2022/01/05/why-it-matters-having-matter-support-for-your-new-smart-home-device/)
-- [A quick check-in on the neoinsurance unicorn public meltdown](https://techcrunch.com/2022/01/05/a-quick-check-in-on-the-neoinsurance-unicorn-public-meltdown/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
