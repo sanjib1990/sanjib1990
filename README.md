@@ -94,6 +94,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [LiLz uses computer vision to read gauges and dials where humans prefer not to tread](https://techcrunch.com/2022/01/04/lilz-uses-computer-vision-to-read-gauges-and-dials-where-humans-prefer-not-to-tread/)
+- [Daily Crunch: Israel-based cybersecurity startup Siemplify sells to Google for $500M](https://techcrunch.com/2022/01/04/daily-crunch-israel-based-cybersecurity-startup-siemplify-sells-to-google-for-500m/)
 - [Secondary Mirror Deployment Begins Tomorrow](https://blogs.nasa.gov/webb/2022/01/04/secondary-mirror-deployment-begins-tomorrow/)
 - [BMW unveils the iX M60](https://techcrunch.com/2022/01/04/bmw-unveils-the-ix-m60/)
 - [Hyundai sends Boston Dynamics’ Spot robot into the metaverse](https://techcrunch.com/2022/01/04/hyundai-plans-to-incorporate-robots-into-the-metaverse-to-help-users-reach-out-and-touch-someone/)
@@ -102,8 +104,6 @@
 - [Anker debuts a 2K webcam with built-in lighting, speakers and more for $220](https://techcrunch.com/2022/01/04/anker-debuts-a-2k-webcam-with-built-in-lighting-speakers-and-more-for-220/)
 - [Panasonic to use Redwood’s recycled materials in battery cell production at Tesla gigafactory](https://techcrunch.com/2022/01/04/panasonic-redwood-battery-cell-production-tesla/)
 - [With James Webb Space Telescope’s huge sunshield in place, focus shifts to big mirrors](https://www.space.com/james-webb-space-telescope-deployment-next-steps)
-- [John Deere’s self-driving tractor arrives later this fall](https://techcrunch.com/2022/01/04/john-deeres-self-driving-tractor-arrives-later-this-fall/)
-- [TechCrunch+ roundup: 2022 enterprise predictions, Justworks IPO, startup theses to watch for](https://techcrunch.com/2022/01/04/techcrunch-roundup-2022-enterprise-predictions-justworks-ipo-startup-theses-to-watch-for/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
