@@ -94,6 +94,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Walmart to expand InHome grocery delivery to 30 million U.S. households in 2022](https://techcrunch.com/2022/01/04/walmart-to-expand-inhome-grocery-delivery-to-30-million-u-s-households-in-2022/)
+- [Stellantis to transform Chrysler into an all-electric brand by 2028](https://techcrunch.com/2022/01/04/stellantis-airflow-chrysler-all-electric-brand-by-2028/)
+- [The year of the disappearing lock-up](https://techcrunch.com/2022/01/04/the-year-of-the-disappearing-lock-up/)
 - [Southeast Asian open finance startup Brankas gets $20M Series B led by Insignia Ventures](https://techcrunch.com/2022/01/04/2253551/)
 - [Waverly Labs brings its translation tech to retail transactions with Subtitles](https://techcrunch.com/2022/01/04/waverly-labs-brings-its-translation-tech-to-retail-transactions-with-subtitles/)
 - [NFT kingpin OpenSea lands monster $13.3B valuation in new raise](https://techcrunch.com/2022/01/04/nft-kingpin-opensea-lands-13-3b-valuation-in-300m-raise-from-paradigm-and-coatue/)
@@ -101,9 +104,6 @@
 - [Sony shows off SUV, will explore building electric cars as ‘Sony Mobility Inc’](https://techcrunch.com/2022/01/04/sony-mobility/)
 - [OnePlus 10 Pro will launch with a beefy battery and latest Snapdragon](https://techcrunch.com/2022/01/04/oneplus-10-pro-will-launch-with-a-beefy-battery-and-latest-snapdragon/)
 - [This lightbulb can monitor your vital signs](https://techcrunch.com/2022/01/04/this-lightbulb-can-monitor-your-vital-signs/)
-- [LiLz uses computer vision to read gauges and dials where humans prefer not to tread](https://techcrunch.com/2022/01/04/lilz-uses-computer-vision-to-read-gauges-and-dials-where-humans-prefer-not-to-tread/)
-- [Daily Crunch: Israel-based cybersecurity startup Siemplify sells to Google for $500M](https://techcrunch.com/2022/01/04/daily-crunch-israel-based-cybersecurity-startup-siemplify-sells-to-google-for-500m/)
-- [Secondary Mirror Deployment Begins Tomorrow](https://blogs.nasa.gov/webb/2022/01/04/secondary-mirror-deployment-begins-tomorrow/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
