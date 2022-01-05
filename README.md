@@ -94,16 +94,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sony gives first details on next-gen PSVR2 headset for PS5](https://techcrunch.com/2022/01/04/sony-psvr2-ps5-first-details-ces/)
+- [Sony shows off SUV, will start commercializing electric cars with Sony Mobility Inc](https://techcrunch.com/2022/01/04/sony-mobility/)
+- [OnePlus 10 Pro will launch with a beefy battery and latest Snapdragon](https://techcrunch.com/2022/01/04/oneplus-10-pro-will-launch-with-a-beefy-battery-and-latest-snapdragon/)
+- [This lightbulb can monitor your vital signs](https://techcrunch.com/2022/01/04/this-lightbulb-can-monitor-your-vital-signs/)
 - [LiLz uses computer vision to read gauges and dials where humans prefer not to tread](https://techcrunch.com/2022/01/04/lilz-uses-computer-vision-to-read-gauges-and-dials-where-humans-prefer-not-to-tread/)
 - [Daily Crunch: Israel-based cybersecurity startup Siemplify sells to Google for $500M](https://techcrunch.com/2022/01/04/daily-crunch-israel-based-cybersecurity-startup-siemplify-sells-to-google-for-500m/)
 - [Secondary Mirror Deployment Begins Tomorrow](https://blogs.nasa.gov/webb/2022/01/04/secondary-mirror-deployment-begins-tomorrow/)
 - [BMW unveils the iX M60](https://techcrunch.com/2022/01/04/bmw-unveils-the-ix-m60/)
 - [Hyundai sends Boston Dynamics’ Spot robot into the metaverse](https://techcrunch.com/2022/01/04/hyundai-plans-to-incorporate-robots-into-the-metaverse-to-help-users-reach-out-and-touch-someone/)
 - [Where will our data go when cookies disappear?](https://techcrunch.com/2022/01/04/where-will-our-data-go-when-cookies-disappear/)
-- [Exploding meteor &#39;booms&#39; over Pennsylvania on New Year&#39;s Day](https://www.space.com/exploding-meteor-boom-pittsburgh-new-years-day)
-- [Anker debuts a 2K webcam with built-in lighting, speakers and more for $220](https://techcrunch.com/2022/01/04/anker-debuts-a-2k-webcam-with-built-in-lighting-speakers-and-more-for-220/)
-- [Panasonic to use Redwood’s recycled materials in battery cell production at Tesla gigafactory](https://techcrunch.com/2022/01/04/panasonic-redwood-battery-cell-production-tesla/)
-- [With James Webb Space Telescope’s huge sunshield in place, focus shifts to big mirrors](https://www.space.com/james-webb-space-telescope-deployment-next-steps)
 <!-- BLOG-POST-LIST:END -->
 
 ---
