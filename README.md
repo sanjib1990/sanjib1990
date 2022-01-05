@@ -94,16 +94,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Waverly Labs brings its translation tech to retail transactions with Subtitles](https://techcrunch.com/2022/01/04/waverly-labs-brings-its-translation-tech-to-retail-transactions-with-subtitles/)
+- [NFT kingpin OpenSea lands monster $13.3B valuation in new raise](https://techcrunch.com/2022/01/04/nft-kingpin-opensea-lands-13-3b-valuation-in-300m-raise-from-paradigm-and-coatue/)
 - [Sony gives first details on next-gen PSVR2 headset for PS5](https://techcrunch.com/2022/01/04/sony-psvr2-ps5-first-details-ces/)
-- [Sony shows off SUV, will start commercializing electric cars with Sony Mobility Inc](https://techcrunch.com/2022/01/04/sony-mobility/)
+- [Sony shows off SUV, will explore building electric cars as ‘Sony Mobility Inc’](https://techcrunch.com/2022/01/04/sony-mobility/)
 - [OnePlus 10 Pro will launch with a beefy battery and latest Snapdragon](https://techcrunch.com/2022/01/04/oneplus-10-pro-will-launch-with-a-beefy-battery-and-latest-snapdragon/)
 - [This lightbulb can monitor your vital signs](https://techcrunch.com/2022/01/04/this-lightbulb-can-monitor-your-vital-signs/)
 - [LiLz uses computer vision to read gauges and dials where humans prefer not to tread](https://techcrunch.com/2022/01/04/lilz-uses-computer-vision-to-read-gauges-and-dials-where-humans-prefer-not-to-tread/)
 - [Daily Crunch: Israel-based cybersecurity startup Siemplify sells to Google for $500M](https://techcrunch.com/2022/01/04/daily-crunch-israel-based-cybersecurity-startup-siemplify-sells-to-google-for-500m/)
 - [Secondary Mirror Deployment Begins Tomorrow](https://blogs.nasa.gov/webb/2022/01/04/secondary-mirror-deployment-begins-tomorrow/)
 - [BMW unveils the iX M60](https://techcrunch.com/2022/01/04/bmw-unveils-the-ix-m60/)
-- [Hyundai sends Boston Dynamics’ Spot robot into the metaverse](https://techcrunch.com/2022/01/04/hyundai-plans-to-incorporate-robots-into-the-metaverse-to-help-users-reach-out-and-touch-someone/)
-- [Where will our data go when cookies disappear?](https://techcrunch.com/2022/01/04/where-will-our-data-go-when-cookies-disappear/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
