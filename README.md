@@ -94,16 +94,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meet Bob, a cute little dishwasher that saves water and zaps bacteria](https://techcrunch.com/2022/01/05/bob-the-magic-dishwasher-dragon/)
+- [TikTok taps Atmosphere to bring TikTok videos to out of home screens in commercial venues for the first time](https://techcrunch.com/2022/01/05/tiktok-taps-atmosphere-to-bring-tiktok-videos-to-out-of-home-screens-in-commercial-venues-for-the-first-time/)
+- [With $8M seed round, Protai leverages the proteome to speed up drug discovery](https://techcrunch.com/2022/01/05/with-8m-seed-round-protai-leverages-the-proteome-to-speed-up-drug-discovery/)
+- [Amazon’s tech is headed to millions of Stellantis vehicles in 2024](https://techcrunch.com/2022/01/05/stellantis-draft/)
+- [Amazon to bolster delivery fleet with all-electric Ram ProMaster vans](https://techcrunch.com/2022/01/05/amazon-delivery-fleet-electric-ram-promaster-vans/)
+- [Germany’s antitrust probe of Google products steps up a gear](https://techcrunch.com/2022/01/05/germany-fco-google-decision/)
+- [PWRboard promises to charge all your creator gadgets all at once](https://techcrunch.com/2022/01/05/that-is-a-lot-of-power-you-guys/)
+- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
 - [Visual collaboration company Miro valued at $17.5B following $400M in new funding](https://techcrunch.com/2022/01/05/visual-collaboration-company-miro-valued-at-17-5b-following-400m-in-new-funding/)
-- [China livestreams New Year&#39;s view from new space station](https://www.space.com/china-live-stream-new-space-station)
-- [Comet Leonard puts on a final, spectacular display with ion tail in solar wind](https://www.space.com/comet-leonard-tail-shaped-by-space-weather)
-- [Scientists create never-before-seen isotope of magnesium](https://www.space.com/news/scientists-create-never-before-seen-isotope-of-magnesium)
-- [Resonado takes speakers to a brave new form factor](https://techcrunch.com/2022/01/05/resonado-speakers/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [SoftBank in talks to back India’s ElasticRun](https://techcrunch.com/2022/01/05/softbank-in-talks-to-back-india-elastic-run/)
-- [mPharma raises $35million in round participated by Tinder co-founder’s JAM fund, Bharti executive](https://techcrunch.com/2022/01/05/mpharma-raises-35million-in-round-participated-by-tinder-co-founders-jam-fund-bharti-executive/)
-- [AI startup Fractal becomes unicorn with $360 million investment from TPG](https://techcrunch.com/2022/01/05/ai-startup-fractal-becomes-unicorn-with-360-million-investment-from-tpg/)
-- [Indian e-commerce Udaan raises $250 million](https://techcrunch.com/2022/01/04/indian-e-commerce-udaan-raises-250-million/)
+- [On This Day in Space! Jan. 5, 2005: Discovery of Eris ignites Pluto-planet debate](https://www.space.com/39251-on-this-day-in-space.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
