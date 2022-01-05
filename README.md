@@ -94,6 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [James Webb Space Telescope nails secondary mirror deployment](https://www.space.com/james-webb-space-telescope-secondary-mirror-deployed)
 - [BMW wants to turn your car into a rolling cinema](https://techcrunch.com/2022/01/05/bmw-wants-to-turn-your-car-into-a-rolling-cinema/)
 - [BMW shows off a color-changing car](https://techcrunch.com/2022/01/05/bmw-shows-off-a-color-changing-car/)
 - [Electric Chevrolet Equinox, Chevrolet Blazer SUVs are coming in 2023](https://techcrunch.com/2022/01/05/electric-chevrolet-equinox-chevrolet-blazer-suvs-are-coming-in-2023/)
@@ -103,7 +104,6 @@
 - [Constant compliance is security theater](https://techcrunch.com/2022/01/05/constant-compliance-is-security-theater/)
 - [Why it matters having Matter support for your new smart home device](https://techcrunch.com/2022/01/05/why-it-matters-having-matter-support-for-your-new-smart-home-device/)
 - [A quick check-in on the neoinsurance unicorn public meltdown](https://techcrunch.com/2022/01/05/a-quick-check-in-on-the-neoinsurance-unicorn-public-meltdown/)
-- [&#39;Orion&#39;s Fireplace&#39;: Flame Nebula is ablaze with color in stunning new image](https://www.space.com/orion-flame-nebula-image-eso-telescope)
 <!-- BLOG-POST-LIST:END -->
 
 ---
