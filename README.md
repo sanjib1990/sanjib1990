@@ -94,6 +94,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [mPharma raises $35million in round participated by Tinder co-founder’s JAM fund, Bharti executive](https://techcrunch.com/2022/01/05/mpharma-raises-35million-in-round-participated-by-tinder-co-founders-jam-fund-bharti-executive/)
+- [AI startup Fractal becomes unicorn with $360 million investment from TPG](https://techcrunch.com/2022/01/05/ai-startup-fractal-becomes-unicorn-with-360-million-investment-from-tpg/)
 - [Indian e-commerce Udaan raises $250 million](https://techcrunch.com/2022/01/04/indian-e-commerce-udaan-raises-250-million/)
 - [Tencent offloads stakes in allies as it continues investment spree](https://techcrunch.com/2022/01/04/tencent-divestment/)
 - [Walmart to expand InHome grocery delivery to 30 million U.S. households in 2022](https://techcrunch.com/2022/01/04/walmart-to-expand-inhome-grocery-delivery-to-30-million-u-s-households-in-2022/)
@@ -102,8 +104,6 @@
 - [Southeast Asian open finance startup Brankas gets $20M Series B led by Insignia Ventures](https://techcrunch.com/2022/01/04/2253551/)
 - [Waverly Labs brings its translation tech to retail transactions with Subtitles](https://techcrunch.com/2022/01/04/waverly-labs-brings-its-translation-tech-to-retail-transactions-with-subtitles/)
 - [NFT kingpin OpenSea lands monster $13.3B valuation in new raise](https://techcrunch.com/2022/01/04/nft-kingpin-opensea-lands-13-3b-valuation-in-300m-raise-from-paradigm-and-coatue/)
-- [Sony gives first details on next-gen PSVR2 headset for PS5](https://techcrunch.com/2022/01/04/sony-psvr2-ps5-first-details-ces/)
-- [Sony shows off SUV, will explore building electric cars as ‘Sony Mobility Inc’](https://techcrunch.com/2022/01/04/sony-mobility/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
