@@ -94,6 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Southeast Asian open finance startup Brankas gets $20M Series B led by Insignia Ventures](https://techcrunch.com/2022/01/04/2253551/)
 - [Waverly Labs brings its translation tech to retail transactions with Subtitles](https://techcrunch.com/2022/01/04/waverly-labs-brings-its-translation-tech-to-retail-transactions-with-subtitles/)
 - [NFT kingpin OpenSea lands monster $13.3B valuation in new raise](https://techcrunch.com/2022/01/04/nft-kingpin-opensea-lands-13-3b-valuation-in-300m-raise-from-paradigm-and-coatue/)
 - [Sony gives first details on next-gen PSVR2 headset for PS5](https://techcrunch.com/2022/01/04/sony-psvr2-ps5-first-details-ces/)
@@ -103,7 +104,6 @@
 - [LiLz uses computer vision to read gauges and dials where humans prefer not to tread](https://techcrunch.com/2022/01/04/lilz-uses-computer-vision-to-read-gauges-and-dials-where-humans-prefer-not-to-tread/)
 - [Daily Crunch: Israel-based cybersecurity startup Siemplify sells to Google for $500M](https://techcrunch.com/2022/01/04/daily-crunch-israel-based-cybersecurity-startup-siemplify-sells-to-google-for-500m/)
 - [Secondary Mirror Deployment Begins Tomorrow](https://blogs.nasa.gov/webb/2022/01/04/secondary-mirror-deployment-begins-tomorrow/)
-- [BMW unveils the iX M60](https://techcrunch.com/2022/01/04/bmw-unveils-the-ix-m60/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
