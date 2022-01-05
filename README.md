@@ -94,16 +94,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Tencent offloads stakes in allies as it continues investment spree](https://techcrunch.com/2022/01/04/tencent-divestment/)
-- [Walmart to expand InHome grocery delivery to 30 million U.S. households in 2022](https://techcrunch.com/2022/01/04/walmart-to-expand-inhome-grocery-delivery-to-30-million-u-s-households-in-2022/)
-- [Stellantis to transform Chrysler into an all-electric brand by 2028](https://techcrunch.com/2022/01/04/stellantis-airflow-chrysler-all-electric-brand-by-2028/)
-- [The year of the disappearing lock-up](https://techcrunch.com/2022/01/04/the-year-of-the-disappearing-lock-up/)
-- [Southeast Asian open finance startup Brankas gets $20M Series B led by Insignia Ventures](https://techcrunch.com/2022/01/04/2253551/)
-- [Waverly Labs brings its translation tech to retail transactions with Subtitles](https://techcrunch.com/2022/01/04/waverly-labs-brings-its-translation-tech-to-retail-transactions-with-subtitles/)
-- [NFT kingpin OpenSea lands monster $13.3B valuation in new raise](https://techcrunch.com/2022/01/04/nft-kingpin-opensea-lands-13-3b-valuation-in-300m-raise-from-paradigm-and-coatue/)
-- [Sony gives first details on next-gen PSVR2 headset for PS5](https://techcrunch.com/2022/01/04/sony-psvr2-ps5-first-details-ces/)
-- [Sony shows off SUV, will explore building electric cars as ‘Sony Mobility Inc’](https://techcrunch.com/2022/01/04/sony-mobility/)
-- [OnePlus 10 Pro will launch with a beefy battery and latest Snapdragon](https://techcrunch.com/2022/01/04/oneplus-10-pro-will-launch-with-a-beefy-battery-and-latest-snapdragon/)
+- [Secondary Mirror Deployment Begins Tomorrow](https://blogs.nasa.gov/webb/2022/01/04/secondary-mirror-deployment-begins-tomorrow/)
+- [Exploding meteor &#39;booms&#39; over Pennsylvania on New Year&#39;s Day](https://www.space.com/exploding-meteor-boom-pittsburgh-new-years-day)
+- [With James Webb Space Telescope’s huge sunshield in place, focus shifts to big mirrors](https://www.space.com/james-webb-space-telescope-deployment-next-steps)
+- [John Deere’s self-driving tractor arrives later this fall](https://techcrunch.com/2022/01/04/john-deeres-self-driving-tractor-arrives-later-this-fall/)
+- [TechCrunch+ roundup: 2022 enterprise predictions, Justworks IPO, startup theses to watch for](https://techcrunch.com/2022/01/04/techcrunch-roundup-2022-enterprise-predictions-justworks-ipo-startup-theses-to-watch-for/)
+- [4 trends that will define e-commerce in 2022](https://techcrunch.com/2022/01/04/4-trends-that-will-define-e-commerce-in-2022/)
+- [GE Lighting adds smart thermostats, security cameras and other bright ideas](https://techcrunch.com/2022/01/04/ge-lighting-adds-smart-thermostats-security-cameras-and-other-bright-ideas/)
+- [Kiddo picks up $16M for a kids’ wearable aimed at four chronic conditions](https://techcrunch.com/2022/01/04/kiddo-picks-up-16mfor-a-kids-wearable-aimed-at-four-chronic-conditions/)
+- [TikTok tests its own version of the retweet with a new ‘Repost’ button](https://techcrunch.com/2022/01/04/tiktok-tests-its-own-version-of-the-retweet-with-a-new-repost-button/)
+- [Qualcomm commits to auto sector, locking in new clients for its Snapdragon Digital Chassis](https://techcrunch.com/2022/01/04/qualcomm-ces-auto-snapdragon-digital-chassis/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
