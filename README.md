@@ -94,16 +94,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
-- [Let the space games begin! Ideas for off-Earth sports move to center court](https://www.space.com/space-sports-ideas-microgravity-games)
-- [Inspiration4: The first all-civilian spaceflight on SpaceX Dragon](https://www.space.com/inspiration4-spacex.html)
-- [Einstein&#39;s theory of general relativity](https://www.space.com/17661-theory-general-relativity.html)
-- [&#39;Alexa, take me to the moon&#39;: Amazon, Cisco Webex to fly on Artemis 1](https://www.space.com/alexa-webex-flying-artemis-moon-mission)
-- [This &#39;UFO&#39; rover could hover on the moon and asteroids one day](https://www.space.com/levitating-rover-concept-mit-moon-asteroids.html)
-- [MIRI Instrument Marks a First Milestone in Space](https://blogs.nasa.gov/webb/2022/01/05/miri-instrument-marks-a-first-milestone-in-space/)
-- [Perseid meteor shower 2022: When, where &amp; how to see it](https://www.space.com/32868-perseid-meteor-shower-guide.html)
-- [Where do black holes lead to?](https://www.space.com/where-do-black-holes-lead.html)
-- [Homey brings a veil of privacy to the US smart home market](https://techcrunch.com/2022/01/05/homey-us-launch/)
+- [Google brings Android and &lpar;some&rpar; Windows PCs closer together](https://techcrunch.com/2022/01/05/google-brings-android-and-some-windows-pcs-closer-together/)
+- [Google Home, YouTube integrate with Volvo Cars](https://techcrunch.com/2022/01/05/google-home-youtube-integrate-with-volvo-cars/)
+- [Google expands Fast Pairing beyond headphones](https://techcrunch.com/2022/01/05/google-expands-fast-pairing-beyond-headphones/)
+- [Instagram’s chronological feed is back](https://techcrunch.com/2022/01/05/instagram-chronological-feed/)
+- [New pet tech at CES treats dogs and cats like the complex beings they are](https://techcrunch.com/2022/01/05/new-pet-tech-at-ces-treats-dogs-and-cats-like-the-complex-beings-they-are/)
+- [HBO, including HBO Max, ends 2021 with 73.8 million global subscribers](https://techcrunch.com/2022/01/05/hbo-including-hbo-max-ends-2021-with-73-8-million-global-subscribers/)
+- [FTC settles with data analytics firm after millions of Americans’ mortgage files exposed](https://techcrunch.com/2022/01/05/ftc-settle-mortgage-files-exposed/)
+- [GM aims to sell personal autonomous vehicles by mid decade](https://techcrunch.com/2022/01/05/gm-personal-autonomous-vehicles/)
+- [Effa’s tiny but tip-top team tools up for a tiff with trivial toothbrushes on their own turf](https://techcrunch.com/2022/01/05/effa-retail-launch/)
+- [GM’s BrightDrop brings on Walmart as new EV customer as FedEx ups existing order](https://techcrunch.com/2022/01/05/gms-brightdrop-brings-on-walmart-as-new-ev-customer-fedex-ups-existing-order/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
