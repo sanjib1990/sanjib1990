@@ -94,16 +94,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dear Sophie: With the H-1B lottery looming, how should we approach overseas hiring?](https://techcrunch.com/2022/01/05/dear-sophie-with-the-h-1b-lottery-looming-how-should-we-approach-overseas-hiring/)
+- [Daily Crunch: $360M funding round values Fractal ‘well north of $1 billion,’ says co-founder](https://techcrunch.com/2022/01/05/daily-crunch-111/)
 - [Doosan announces $33.7M raise, as it introduces a robotic camera system at CES](https://techcrunch.com/2022/01/05/doosan-announces-33-7m-raise-as-it-introduces-a-robotic-camera-system-at-ces/)
-- [Giant hunk of Russian space junk crashes to Earth](https://www.space.com/russian-space-junk-angara-a5-rocket-fall)
+- [&#39;The Book of Boba Fett&#39; episode 1 reveals just how he escaped the Sarlacc pit and more](https://www.space.com/book-of-boba-fett-episode-1-star-wars-recap)
+- [Big hunk of failed Russian rocket crashes to Earth as space junk](https://www.space.com/russian-space-junk-angara-a5-rocket-fall)
 - [Power1 is an iPhone battery case with a spot for your AirPods](https://techcrunch.com/2022/01/05/power1-is-an-iphone-battery-case-with-a-spot-your-airpods/)
 - [5 growth marketing predictions for 2022](https://techcrunch.com/2022/01/05/5-growth-marketing-predictions-for-2022/)
 - [Cadillac’s new self-driving concept is a luxury loveseat on wheels](https://techcrunch.com/2022/01/05/cadillacs-new-self-driving-concept-is-a-luxury-loveseat-on-wheels/)
 - [MVP versus EVP: Is it time to introduce ethics into the agile startup model?](https://techcrunch.com/2022/01/05/mvp-versus-evp-is-it-time-to-introduce-ethics-into-the-agile-startup-model/)
 - [Software stocks get punched in the face &lpar;again&rpar;](https://techcrunch.com/2022/01/05/software-stocks-get-punched-in-the-face-again/)
-- [Petal nears unicorn status with fresh $140M in capital to upend ‘broken’ traditional credit system](https://techcrunch.com/2022/01/05/petal-nears-unicorn-status-with-fresh-140m-in-capital-to-upend-broken-traditional-credit-system/)
-- [Satellite images show epic snowstorm that shut down part of Interstate 95](https://www.space.com/us-snowstorm-january-2022-satellite-images)
-- [James Webb Space Telescope nails secondary mirror deployment](https://www.space.com/james-webb-space-telescope-secondary-mirror-deployed)
 <!-- BLOG-POST-LIST:END -->
 
 ---
