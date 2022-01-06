@@ -94,6 +94,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is the Planck time?](https://www.space.com/what-is-the-planck-time)
+- [YC-backed Namibian startup JABU gets $3.2M for its B2B e-commerce and retail play](https://techcrunch.com/2022/01/06/yc-backed-namibian-startup-jabu-gets-3-2m-for-its-b2b-e-commerce-and-retail-play/)
 - [Payroll startup PayFit is France’s latest unicorn as it raises $289 million](https://techcrunch.com/2022/01/05/payroll-startup-payfit-is-frances-latest-unicorn-as-it-raises-289-million/)
 - [AARP Innovation Labs takes a holistic approach to age-tech at CES](https://techcrunch.com/2022/01/05/aarp-innovation-labs-takes-a-holistic-approach-to-age-tech-at-ces/)
 - [Korean car-sharing startup SOCAR has filed for an IPO](https://techcrunch.com/2022/01/05/korean-car-sharing-startup-socar-has-filed-for-an-ipo/)
@@ -102,8 +104,6 @@
 - [Dear Sophie: With the H-1B lottery looming, how should we approach overseas hiring?](https://techcrunch.com/2022/01/05/dear-sophie-with-the-h-1b-lottery-looming-how-should-we-approach-overseas-hiring/)
 - [Daily Crunch: $360M funding round values Fractal ‘well north of $1 billion,’ says co-founder](https://techcrunch.com/2022/01/05/daily-crunch-111/)
 - [Doosan announces $33.7M raise, as it introduces a robotic camera system at CES](https://techcrunch.com/2022/01/05/doosan-announces-33-7m-raise-as-it-introduces-a-robotic-camera-system-at-ces/)
-- [&#39;The Book of Boba Fett&#39; episode 1 reveals just how he escaped the Sarlacc pit and more](https://www.space.com/book-of-boba-fett-episode-1-star-wars-recap)
-- [Big hunk of failed Russian rocket crashes to Earth as space junk](https://www.space.com/russian-space-junk-angara-a5-rocket-fall)
 <!-- BLOG-POST-LIST:END -->
 
 ---
