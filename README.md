@@ -77,6 +77,7 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [The Dark Side of Open Source // What really happened to Faker.js?](https://www.youtube.com/watch?v=d15DP5zqnYE)
 - [Binary Explained in 01100100 Seconds](https://www.youtube.com/watch?v=zDNaUi2cjv4)
 - [Git Overview - Computerphile](https://www.youtube.com/watch?v=92sycL8ij-U)
 - [Log4J &amp; JNDI Exploit: Why So Bad? - Computerphile](https://www.youtube.com/watch?v=Opqgwn8TdlM)
@@ -86,7 +87,6 @@
 - [I believe in OpenCourseWare’s mission](https://www.youtube.com/watch?v=Qf7qXw7sHk4)
 - [KILL Linux processes!! &lpar;also manage them&rpar; // Linux for Hackers // EP 7](https://www.youtube.com/watch?v=LfC6pv8VISk)
 - [Joining Point Cloud Scans &lpar;ICP&rpar; - Computerphile](https://www.youtube.com/watch?v=4uWSo8v3iQA)
-- [S3:E3: Learning about Life through Laboratory Chemistry with Drs. John Dolhun &amp; Sarah Hewett](https://www.youtube.com/watch?v=u-Ms5v20cVw)
 <!-- YOUTUBE:END -->
 
 ---
