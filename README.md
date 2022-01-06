@@ -94,16 +94,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Doesn’t Webb Have Deployment Cameras?](https://blogs.nasa.gov/webb/2022/01/06/why-doesnt-webb-have-deployment-cameras/)
+- [The New York Times plans to buy The Athletic for $550M](https://techcrunch.com/2022/01/06/the-new-york-times-plans-to-buy-the-athletic-for-550m/)
+- [Amazon expands its Sidewalk IoT network with an enterprise-grade bridge](https://techcrunch.com/2022/01/06/amazon-expands-its-sidewalk-iot-network-with-an-enterprise-grade-bridge/)
+- [Look upon my CES 2022 work from home setup and despair](https://techcrunch.com/2022/01/06/look-upon-my-ces-2022-work-from-home-setup-and-despair/)
+- [3 things startup founders need to know about M&amp;A](https://techcrunch.com/2022/01/06/3-things-startup-founders-need-to-know-about-ma/)
+- [New trailer for &#39;Moonfall&#39; promises a disaster movie on a scale like no other, but how accurate is the physics?](https://www.space.com/moonfall-new-trailer-vfx-interview)
+- [Mosqitter’s machine murders mosquitos with much mirth](https://techcrunch.com/2022/01/06/mosqitter/)
+- [SpaceX will launch 49 Starlink satellites on a Falcon 9 rocket today. Watch it live!](https://www.space.com/spacex-starlink-launch-webcast-january-2022)
 - [Morphée triples down on your relaxation with the Zen](https://techcrunch.com/2022/01/06/morphee-zen/)
 - [Little Otter raises $22M to scale its personalized pediatric mental health platform](https://techcrunch.com/2022/01/06/little-otter-raises-22m-to-scale-its-personalized-pediatric-mental-health-platform/)
-- [James Webb Space Telescope deploys radiator to keep cool](https://www.space.com/james-webb-space-telescope-radiator-deployed)
-- [EV charging companies push faster at-home charges, V2G and connectivity at CES](https://techcrunch.com/2022/01/06/ev-charging-companies-push-faster-at-home-charges-v2g-and-connectivity-at-ces/)
-- [This $199 laser pointer points out mosquitos without harming them](https://techcrunch.com/2022/01/06/look-there-it-is-the-little-flying-jerk/)
-- [Frzr injects frosty, sub-zero air into your gaming laptop to eke out those extra frames per second](https://techcrunch.com/2022/01/06/line-frzr/)
-- [LinkedIn is launching interactive, Clubhouse-style audio events this month in beta; a video version will come this spring](https://techcrunch.com/2022/01/06/linkedin-is-launching-interactive-clubhouse-style-audio-events-this-month-in-beta-a-video-version-will-come-this-spring/)
-- [Mark Cuban-backed fintech Dave’s public offering puts SPACs to the test](https://techcrunch.com/2022/01/06/mark-cuban-backed-fintech-daves-public-offering-puts-spacs-to-the-test/)
-- [Spotify introduces a new ad format for podcasts that puts clickable cards inside shows](https://techcrunch.com/2022/01/06/spotify-introduces-a-new-ad-format-for-podcasts-that-puts-clickable-cards-inside-shows/)
-- [NFT-backed vault on space station to showcase prized goods for sale](https://www.space.com/uplift-aerospace-constellation-vault-nft)
 <!-- BLOG-POST-LIST:END -->
 
 ---
