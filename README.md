@@ -94,16 +94,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GM taps Qualcomm to power new hands-free driver assistance system](https://techcrunch.com/2022/01/06/gm-taps-qualcomm-to-power-new-hands-free-driver-assistance-starting-with-cadillac/)
+- [Sounding rocket launch might be visible on US east coast Thursday night](https://www.space.com/sounding-rocket-launch-visible-east-coast-january-2022)
+- [Reflections on another strange pandemic-era CES](https://techcrunch.com/2022/01/06/reflections-on-another-strange-pandemic-era-ces/)
+- [Meta’s Oculus VR companion app gained ~2M downloads since Christmas](https://techcrunch.com/2022/01/06/meta-had-a-good-holiday-as-its-oculus-vr-companion-app-gained-2m-downloads-since-christmas/)
 - [Why Doesn’t Webb Have Deployment Cameras?](https://blogs.nasa.gov/webb/2022/01/06/why-doesnt-webb-have-deployment-cameras/)
 - [The New York Times plans to buy The Athletic for $550M](https://techcrunch.com/2022/01/06/the-new-york-times-plans-to-buy-the-athletic-for-550m/)
 - [Amazon expands its Sidewalk IoT network with an enterprise-grade bridge](https://techcrunch.com/2022/01/06/amazon-expands-its-sidewalk-iot-network-with-an-enterprise-grade-bridge/)
 - [Look upon my CES 2022 work from home setup and despair](https://techcrunch.com/2022/01/06/look-upon-my-ces-2022-work-from-home-setup-and-despair/)
 - [3 things startup founders need to know about M&amp;A](https://techcrunch.com/2022/01/06/3-things-startup-founders-need-to-know-about-ma/)
 - [New trailer for &#39;Moonfall&#39; promises a disaster movie on a scale like no other, but how accurate is the physics?](https://www.space.com/moonfall-new-trailer-vfx-interview)
-- [Mosqitter’s machine murders mosquitos with much mirth](https://techcrunch.com/2022/01/06/mosqitter/)
-- [SpaceX will launch 49 Starlink satellites on a Falcon 9 rocket today. Watch it live!](https://www.space.com/spacex-starlink-launch-webcast-january-2022)
-- [Morphée triples down on your relaxation with the Zen](https://techcrunch.com/2022/01/06/morphee-zen/)
-- [Little Otter raises $22M to scale its personalized pediatric mental health platform](https://techcrunch.com/2022/01/06/little-otter-raises-22m-to-scale-its-personalized-pediatric-mental-health-platform/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
