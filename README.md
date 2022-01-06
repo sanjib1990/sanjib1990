@@ -94,16 +94,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [“How can you understand life if you don’t look at it live?” — Eikon Therapeutics rakes in $518M](https://techcrunch.com/2022/01/06/how-can-you-understand-life-if-you-dont-look-at-it-live-eikon-therapeutics-rakes-in-518m/)
+- [HealthLeap raises $1.1M pre-seed to reduce malnutrition in hospitals with clinical AI assistant](https://techcrunch.com/2022/01/06/healthleap-raises-1-1m-pre-seed-to-reduce-malnutrition-in-hospitals-with-clinical-ai-assistant/)
+- [Reliance Retail backs Dunzo in $240 million funding](https://techcrunch.com/2022/01/06/reliance-retail-backs-dunzo-in-240-million-funding/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [France spanks Google $170M, Facebook $68M over cookie consent dark patterns](https://techcrunch.com/2022/01/06/cnil-facebook-google-cookie-consent-eprivacy-breaches/)
 - [The Milky Way&#39;s outer reaches may have lumpy, choppy arms](https://www.space.com/hubble-shows-clumpy-milky-way)
 - [Astronaut snaps spectacular shot of crescent moon glowing over stunning sunset](https://www.space.com/crescent-moon-above-orbital-sunrise)
 - [This amazing 4K video is the last view we&#39;ll ever have of the James Webb Space Telescope](https://www.space.com/james-webb-space-telescope-last-view-4k-video)
 - [What is the Planck time?](https://www.space.com/what-is-the-planck-time)
 - [YC-backed Namibian startup JABU gets $3.2M for its B2B e-commerce and retail play](https://techcrunch.com/2022/01/06/yc-backed-namibian-startup-jabu-gets-3-2m-for-its-b2b-e-commerce-and-retail-play/)
-- [Payroll startup PayFit is France’s latest unicorn as it raises $289 million](https://techcrunch.com/2022/01/05/payroll-startup-payfit-is-frances-latest-unicorn-as-it-raises-289-million/)
-- [AARP Innovation Labs takes a holistic approach to age-tech at CES](https://techcrunch.com/2022/01/05/aarp-innovation-labs-takes-a-holistic-approach-to-age-tech-at-ces/)
-- [Korean car-sharing startup SOCAR has filed for an IPO](https://techcrunch.com/2022/01/05/korean-car-sharing-startup-socar-has-filed-for-an-ipo/)
-- [Your kids can get lost in Disney with these storytelling headphones](https://techcrunch.com/2022/01/05/once-upon-a-time/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
