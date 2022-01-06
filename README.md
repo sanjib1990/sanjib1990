@@ -94,16 +94,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mark Cuban-backed fintech Dave’s public offering puts SPACs to the test](https://techcrunch.com/2022/01/06/mark-cuban-backed-fintech-daves-public-offering-puts-spacs-to-the-test/)
+- [Spotify introduces a new ad format for podcasts that puts clickable cards inside shows](https://techcrunch.com/2022/01/06/spotify-introduces-a-new-ad-format-for-podcasts-that-puts-clickable-cards-inside-shows/)
+- [NFT-backed vault on space station to showcase prized goods for sale](https://www.space.com/uplift-aerospace-constellation-vault-nft)
+- [Rupifi raises $25 million for its B2B payments platform in India](https://techcrunch.com/2022/01/06/rupifi-raises-25-million-for-its-b2b-payments-platform-in-india/)
+- [Are early-stage funding rounds out of control?](https://techcrunch.com/2022/01/06/are-early-stage-funding-rounds-out-of-control/)
+- [Webb’s Specialized Heat Radiator Deployed Successfully](https://blogs.nasa.gov/webb/2022/01/06/webbs-specialized-heat-radiator-deployed-successfully/)
+- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
+- [Does every star have planets?](https://www.space.com/does-every-star-have-planets)
 - [Emotional wellness app Mine’d raises $3.5M led by Listen Ventures](https://techcrunch.com/2022/01/06/emotional-wellness-app-mined-raises-3-5m-led-by-listen-ventures/)
 - [Verb Data puts $3M to work so companies can build better in-product dashboards](https://techcrunch.com/2022/01/06/verb-data-puts-3m-to-work-so-companies-can-build-better-in-product-dashboards/)
-- [Asterisms: definition, facts and examples](https://www.space.com/what-is-an-asterism)
-- [Steering innovation toward the public good](https://techcrunch.com/2022/01/06/steering-innovation-toward-the-public-good/)
-- [Canada’s Assent Compliance lands $350M from Vista Equity for supply chain data management](https://techcrunch.com/2022/01/06/canadas-assent-compliance-lands-350m-from-vista-equity-for-supply-chain-data-management/)
-- [Illegal movie streaming service Popcorn Time shuts down](https://techcrunch.com/2022/01/06/illegal-movie-streaming-service-popcorn-time-shuts-down/)
-- [iProov snaps up $70M for its facial verification technology, already in use by Homeland Security, the NHS and others](https://techcrunch.com/2022/01/06/iproov-snaps-up-70m-for-its-facial-verification-technology-already-in-use-by-homeland-security-the-nhs-and-others/)
-- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
-- [“How can you understand life if you don’t look at it live?” — Eikon Therapeutics rakes in $518M](https://techcrunch.com/2022/01/06/how-can-you-understand-life-if-you-dont-look-at-it-live-eikon-therapeutics-rakes-in-518m/)
-- [This amazing HD video is the last view we&#39;ll ever have of the James Webb Space Telescope](https://www.space.com/james-webb-space-telescope-last-view-4k-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
