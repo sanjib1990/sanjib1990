@@ -94,16 +94,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Morphée triples down on your relaxation with the Zen](https://techcrunch.com/2022/01/06/morphee-zen/)
+- [Little Otter raises $22M to scale its personalized pediatric mental health platform](https://techcrunch.com/2022/01/06/little-otter-raises-22m-to-scale-its-personalized-pediatric-mental-health-platform/)
+- [James Webb Space Telescope deploys radiator to keep cool](https://www.space.com/james-webb-space-telescope-radiator-deployed)
+- [EV charging companies push faster at-home charges, V2G and connectivity at CES](https://techcrunch.com/2022/01/06/ev-charging-companies-push-faster-at-home-charges-v2g-and-connectivity-at-ces/)
+- [This $199 laser pointer points out mosquitos without harming them](https://techcrunch.com/2022/01/06/look-there-it-is-the-little-flying-jerk/)
+- [Frzr injects frosty, sub-zero air into your gaming laptop to eke out those extra frames per second](https://techcrunch.com/2022/01/06/line-frzr/)
+- [LinkedIn is launching interactive, Clubhouse-style audio events this month in beta; a video version will come this spring](https://techcrunch.com/2022/01/06/linkedin-is-launching-interactive-clubhouse-style-audio-events-this-month-in-beta-a-video-version-will-come-this-spring/)
 - [Mark Cuban-backed fintech Dave’s public offering puts SPACs to the test](https://techcrunch.com/2022/01/06/mark-cuban-backed-fintech-daves-public-offering-puts-spacs-to-the-test/)
 - [Spotify introduces a new ad format for podcasts that puts clickable cards inside shows](https://techcrunch.com/2022/01/06/spotify-introduces-a-new-ad-format-for-podcasts-that-puts-clickable-cards-inside-shows/)
 - [NFT-backed vault on space station to showcase prized goods for sale](https://www.space.com/uplift-aerospace-constellation-vault-nft)
-- [Rupifi raises $25 million for its B2B payments platform in India](https://techcrunch.com/2022/01/06/rupifi-raises-25-million-for-its-b2b-payments-platform-in-india/)
-- [Are early-stage funding rounds out of control?](https://techcrunch.com/2022/01/06/are-early-stage-funding-rounds-out-of-control/)
-- [Webb’s Specialized Heat Radiator Deployed Successfully](https://blogs.nasa.gov/webb/2022/01/06/webbs-specialized-heat-radiator-deployed-successfully/)
-- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
-- [Does every star have planets?](https://www.space.com/does-every-star-have-planets)
-- [Emotional wellness app Mine’d raises $3.5M led by Listen Ventures](https://techcrunch.com/2022/01/06/emotional-wellness-app-mined-raises-3-5m-led-by-listen-ventures/)
-- [Verb Data puts $3M to work so companies can build better in-product dashboards](https://techcrunch.com/2022/01/06/verb-data-puts-3m-to-work-so-companies-can-build-better-in-product-dashboards/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
