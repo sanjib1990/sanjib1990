@@ -94,16 +94,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lululemon names Twitch exec Mike Aragon CEO of Mirror](https://techcrunch.com/2022/01/06/lululemon-names-twitch-exec-mike-aragon-ceo-of-mirror/)
+- [Mozilla Foundation hits pause on crypto donations following backlash](https://techcrunch.com/2022/01/06/mozilla-foundation-crypto/)
+- [Khosla Ventures debuts first opportunity fund](https://techcrunch.com/2022/01/06/khosla-ventures-debuts-first-opportunity-fund/)
 - [Tinder is developing a feature called ‘Swipe Party’ that invites friends to join your swiping sessions](https://techcrunch.com/2022/01/06/tinder-is-developing-a-feature-called-swipe-party-that-invites-friends-to-join-your-swiping-sessions/)
 - [How will the crypto selloff impact the NFT market?](https://techcrunch.com/2022/01/06/how-will-the-crypto-selloff-impact-the-nft-market/)
 - [Goldfinch raises $25M from a16z to power its DeFi lending protocol for borrowers in developing countries](https://techcrunch.com/2022/01/06/goldfinch-raises-25m-from-a16z-to-power-its-defi-lending-protocol-for-borrowers-in-developing-countries/)
 - [The solar system belongs to us all, not just Jeff Bezos](https://www.space.com/solar-system-belongs-to-us-all)
-- [NASA&#39;s TESS exoplanet mission reveals dusty mystery, puzzling astronomers](https://www.space.com/tess-dust-mystery-binary-star)
+- [NASA&#39;s TESS exoplanet mission reveals mystery of strange signals from dusty object](https://www.space.com/tess-dust-mystery-binary-star)
 - [North Korea tests another new hypersonic weapon: reports](https://www.space.com/north-korea-hypersonic-weapon-test-january-2022)
 - [Four weeks as an Ultrahuman ‘Cyborg’](https://techcrunch.com/2022/01/06/four-weeks-as-an-ultrahuman-cyborg/)
-- [5 NFT trends that will bring social media audiences into web3](https://techcrunch.com/2022/01/06/5-nft-trends-that-will-bring-social-media-audiences-into-web3/)
-- [Zuddl raises $13M for its simple but powerful virtual events platform](https://techcrunch.com/2022/01/06/zuddl-raises-13m-for-its-simple-but-powerful-virtual-events-platform/)
-- [Dazzled and damned by the demo: The best tech industry critique in ‘Don’t Look Up’](https://techcrunch.com/2022/01/06/dazzled-and-damned-by-the-demo-the-best-tech-industry-critique-in-dont-look-up/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
