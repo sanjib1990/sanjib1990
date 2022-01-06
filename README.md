@@ -94,6 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Payroll startup PayFit is France’s latest unicorn as it raises $289 million](https://techcrunch.com/2022/01/05/payroll-startup-payfit-is-frances-latest-unicorn-as-it-raises-289-million/)
 - [AARP Innovation Labs takes a holistic approach to age-tech at CES](https://techcrunch.com/2022/01/05/aarp-innovation-labs-takes-a-holistic-approach-to-age-tech-at-ces/)
 - [Korean car-sharing startup SOCAR has filed for an IPO](https://techcrunch.com/2022/01/05/korean-car-sharing-startup-socar-has-filed-for-an-ipo/)
 - [Your kids can get lost in Disney with these storytelling headphones](https://techcrunch.com/2022/01/05/once-upon-a-time/)
@@ -103,7 +104,6 @@
 - [Doosan announces $33.7M raise, as it introduces a robotic camera system at CES](https://techcrunch.com/2022/01/05/doosan-announces-33-7m-raise-as-it-introduces-a-robotic-camera-system-at-ces/)
 - [&#39;The Book of Boba Fett&#39; episode 1 reveals just how he escaped the Sarlacc pit and more](https://www.space.com/book-of-boba-fett-episode-1-star-wars-recap)
 - [Big hunk of failed Russian rocket crashes to Earth as space junk](https://www.space.com/russian-space-junk-angara-a5-rocket-fall)
-- [Power1 is an iPhone battery case with a spot for your AirPods](https://techcrunch.com/2022/01/05/power1-is-an-iphone-battery-case-with-a-spot-your-airpods/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
