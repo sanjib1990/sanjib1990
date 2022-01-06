@@ -94,6 +94,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Emotional wellness app Mine’d raises $3.5M led by Listen Ventures](https://techcrunch.com/2022/01/06/emotional-wellness-app-mined-raises-3-5m-led-by-listen-ventures/)
+- [Verb Data puts $3M to work so companies can build better in-product dashboards](https://techcrunch.com/2022/01/06/verb-data-puts-3m-to-work-so-companies-can-build-better-in-product-dashboards/)
+- [Asterisms: definition, facts and examples](https://www.space.com/what-is-an-asterism)
 - [Steering innovation toward the public good](https://techcrunch.com/2022/01/06/steering-innovation-toward-the-public-good/)
 - [Canada’s Assent Compliance lands $350M from Vista Equity for supply chain data management](https://techcrunch.com/2022/01/06/canadas-assent-compliance-lands-350m-from-vista-equity-for-supply-chain-data-management/)
 - [Illegal movie streaming service Popcorn Time shuts down](https://techcrunch.com/2022/01/06/illegal-movie-streaming-service-popcorn-time-shuts-down/)
@@ -101,9 +104,6 @@
 - [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
 - [“How can you understand life if you don’t look at it live?” — Eikon Therapeutics rakes in $518M](https://techcrunch.com/2022/01/06/how-can-you-understand-life-if-you-dont-look-at-it-live-eikon-therapeutics-rakes-in-518m/)
 - [This amazing HD video is the last view we&#39;ll ever have of the James Webb Space Telescope](https://www.space.com/james-webb-space-telescope-last-view-4k-video)
-- [On This Day in Space! Jan. 6, 1968: NASA&#39;s last Surveyor spacecraft launches to the moon](https://www.space.com/39251-on-this-day-in-space.html)
-- [HealthLeap raises $1.1M pre-seed to reduce malnutrition in hospitals with clinical AI assistant](https://techcrunch.com/2022/01/06/healthleap-raises-1-1m-pre-seed-to-reduce-malnutrition-in-hospitals-with-clinical-ai-assistant/)
-- [Reliance Retail backs Dunzo in $240 million funding](https://techcrunch.com/2022/01/06/reliance-retail-backs-dunzo-in-240-million-funding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
