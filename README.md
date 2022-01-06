@@ -94,6 +94,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tinder is developing a feature called ‘Swipe Party’ that invites friends to join your swiping sessions](https://techcrunch.com/2022/01/06/tinder-is-developing-a-feature-called-swipe-party-that-invites-friends-to-join-your-swiping-sessions/)
+- [How will the crypto selloff impact the NFT market?](https://techcrunch.com/2022/01/06/how-will-the-crypto-selloff-impact-the-nft-market/)
+- [Goldfinch raises $25M from a16z to power its DeFi lending protocol for borrowers in developing countries](https://techcrunch.com/2022/01/06/goldfinch-raises-25m-from-a16z-to-power-its-defi-lending-protocol-for-borrowers-in-developing-countries/)
 - [The solar system belongs to us all, not just Jeff Bezos](https://www.space.com/solar-system-belongs-to-us-all)
 - [NASA&#39;s TESS exoplanet mission reveals dusty mystery, puzzling astronomers](https://www.space.com/tess-dust-mystery-binary-star)
 - [North Korea tests another new hypersonic weapon: reports](https://www.space.com/north-korea-hypersonic-weapon-test-january-2022)
@@ -101,9 +104,6 @@
 - [5 NFT trends that will bring social media audiences into web3](https://techcrunch.com/2022/01/06/5-nft-trends-that-will-bring-social-media-audiences-into-web3/)
 - [Zuddl raises $13M for its simple but powerful virtual events platform](https://techcrunch.com/2022/01/06/zuddl-raises-13m-for-its-simple-but-powerful-virtual-events-platform/)
 - [Dazzled and damned by the demo: The best tech industry critique in ‘Don’t Look Up’](https://techcrunch.com/2022/01/06/dazzled-and-damned-by-the-demo-the-best-tech-industry-critique-in-dont-look-up/)
-- [Consumer Robotics Show](https://techcrunch.com/2022/01/06/consumer-robotics-show/)
-- [GM taps Qualcomm to power new hands-free driver assistance system](https://techcrunch.com/2022/01/06/gm-taps-qualcomm-to-power-new-hands-free-driver-assistance-starting-with-cadillac/)
-- [Sounding rocket launch might be visible on US east coast Thursday night](https://www.space.com/sounding-rocket-launch-visible-east-coast-january-2022)
 <!-- BLOG-POST-LIST:END -->
 
 ---
