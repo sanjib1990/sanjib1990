@@ -94,16 +94,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Steering innovation toward the public good](https://techcrunch.com/2022/01/06/steering-innovation-toward-the-public-good/)
+- [Canada’s Assent Compliance lands $350M from Vista Equity for supply chain data management](https://techcrunch.com/2022/01/06/canadas-assent-compliance-lands-350m-from-vista-equity-for-supply-chain-data-management/)
+- [Illegal movie streaming service Popcorn Time shuts down](https://techcrunch.com/2022/01/06/illegal-movie-streaming-service-popcorn-time-shuts-down/)
+- [iProov snaps up $70M for its facial verification technology, already in use by Homeland Security, the NHS and others](https://techcrunch.com/2022/01/06/iproov-snaps-up-70m-for-its-facial-verification-technology-already-in-use-by-homeland-security-the-nhs-and-others/)
+- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
 - [“How can you understand life if you don’t look at it live?” — Eikon Therapeutics rakes in $518M](https://techcrunch.com/2022/01/06/how-can-you-understand-life-if-you-dont-look-at-it-live-eikon-therapeutics-rakes-in-518m/)
+- [This amazing HD video is the last view we&#39;ll ever have of the James Webb Space Telescope](https://www.space.com/james-webb-space-telescope-last-view-4k-video)
+- [On This Day in Space! Jan. 6, 1968: NASA&#39;s last Surveyor spacecraft launches to the moon](https://www.space.com/39251-on-this-day-in-space.html)
 - [HealthLeap raises $1.1M pre-seed to reduce malnutrition in hospitals with clinical AI assistant](https://techcrunch.com/2022/01/06/healthleap-raises-1-1m-pre-seed-to-reduce-malnutrition-in-hospitals-with-clinical-ai-assistant/)
 - [Reliance Retail backs Dunzo in $240 million funding](https://techcrunch.com/2022/01/06/reliance-retail-backs-dunzo-in-240-million-funding/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [France spanks Google $170M, Facebook $68M over cookie consent dark patterns](https://techcrunch.com/2022/01/06/cnil-facebook-google-cookie-consent-eprivacy-breaches/)
-- [The Milky Way&#39;s outer reaches may have lumpy, choppy arms](https://www.space.com/hubble-shows-clumpy-milky-way)
-- [Astronaut snaps spectacular shot of crescent moon glowing over stunning sunset](https://www.space.com/crescent-moon-above-orbital-sunrise)
-- [This amazing 4K video is the last view we&#39;ll ever have of the James Webb Space Telescope](https://www.space.com/james-webb-space-telescope-last-view-4k-video)
-- [What is the Planck time?](https://www.space.com/what-is-the-planck-time)
-- [YC-backed Namibian startup JABU gets $3.2M for its B2B e-commerce and retail play](https://techcrunch.com/2022/01/06/yc-backed-namibian-startup-jabu-gets-3-2m-for-its-b2b-e-commerce-and-retail-play/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
