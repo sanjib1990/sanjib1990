@@ -94,6 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Korean car-sharing startup SOCAR has filed for an IPO](https://techcrunch.com/2022/01/05/korean-car-sharing-startup-socar-has-filed-for-an-ipo/)
 - [Your kids can get lost in Disney with these story-telling headphones](https://techcrunch.com/2022/01/05/once-upon-a-time/)
 - [As CES goes hybrid, connected fitness companies have another big year](https://techcrunch.com/2022/01/05/as-ces-goes-hybrid-connected-fitness-companies-have-another-big-year/)
 - [Dear Sophie: With the H-1B lottery looming, how should we approach overseas hiring?](https://techcrunch.com/2022/01/05/dear-sophie-with-the-h-1b-lottery-looming-how-should-we-approach-overseas-hiring/)
@@ -103,7 +104,6 @@
 - [Big hunk of failed Russian rocket crashes to Earth as space junk](https://www.space.com/russian-space-junk-angara-a5-rocket-fall)
 - [Power1 is an iPhone battery case with a spot for your AirPods](https://techcrunch.com/2022/01/05/power1-is-an-iphone-battery-case-with-a-spot-your-airpods/)
 - [5 growth marketing predictions for 2022](https://techcrunch.com/2022/01/05/5-growth-marketing-predictions-for-2022/)
-- [Cadillac’s new self-driving concept is a luxury loveseat on wheels](https://techcrunch.com/2022/01/05/cadillacs-new-self-driving-concept-is-a-luxury-loveseat-on-wheels/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
