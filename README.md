@@ -94,16 +94,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The solar system belongs to us all, not just Jeff Bezos](https://www.space.com/solar-system-belongs-to-us-all)
+- [NASA&#39;s TESS exoplanet mission reveals dusty mystery, puzzling astronomers](https://www.space.com/tess-dust-mystery-binary-star)
+- [North Korea tests another new hypersonic weapon: reports](https://www.space.com/north-korea-hypersonic-weapon-test-january-2022)
+- [Four weeks as an Ultrahuman ‘Cyborg’](https://techcrunch.com/2022/01/06/four-weeks-as-an-ultrahuman-cyborg/)
+- [5 NFT trends that will bring social media audiences into web3](https://techcrunch.com/2022/01/06/5-nft-trends-that-will-bring-social-media-audiences-into-web3/)
+- [Zuddl raises $13M for its simple but powerful virtual events platform](https://techcrunch.com/2022/01/06/zuddl-raises-13m-for-its-simple-but-powerful-virtual-events-platform/)
+- [Dazzled and damned by the demo: The best tech industry critique in ‘Don’t Look Up’](https://techcrunch.com/2022/01/06/dazzled-and-damned-by-the-demo-the-best-tech-industry-critique-in-dont-look-up/)
+- [Consumer Robotics Show](https://techcrunch.com/2022/01/06/consumer-robotics-show/)
 - [GM taps Qualcomm to power new hands-free driver assistance system](https://techcrunch.com/2022/01/06/gm-taps-qualcomm-to-power-new-hands-free-driver-assistance-starting-with-cadillac/)
 - [Sounding rocket launch might be visible on US east coast Thursday night](https://www.space.com/sounding-rocket-launch-visible-east-coast-january-2022)
-- [Reflections on another strange pandemic-era CES](https://techcrunch.com/2022/01/06/reflections-on-another-strange-pandemic-era-ces/)
-- [Meta’s Oculus VR companion app gained ~2M downloads since Christmas](https://techcrunch.com/2022/01/06/meta-had-a-good-holiday-as-its-oculus-vr-companion-app-gained-2m-downloads-since-christmas/)
-- [Why Doesn’t Webb Have Deployment Cameras?](https://blogs.nasa.gov/webb/2022/01/06/why-doesnt-webb-have-deployment-cameras/)
-- [The New York Times plans to buy The Athletic for $550M](https://techcrunch.com/2022/01/06/the-new-york-times-plans-to-buy-the-athletic-for-550m/)
-- [Amazon expands its Sidewalk IoT network with an enterprise-grade bridge](https://techcrunch.com/2022/01/06/amazon-expands-its-sidewalk-iot-network-with-an-enterprise-grade-bridge/)
-- [Look upon my CES 2022 work from home setup and despair](https://techcrunch.com/2022/01/06/look-upon-my-ces-2022-work-from-home-setup-and-despair/)
-- [3 things startup founders need to know about M&amp;A](https://techcrunch.com/2022/01/06/3-things-startup-founders-need-to-know-about-ma/)
-- [New trailer for &#39;Moonfall&#39; promises a disaster movie on a scale like no other, but how accurate is the physics?](https://www.space.com/moonfall-new-trailer-vfx-interview)
 <!-- BLOG-POST-LIST:END -->
 
 ---
