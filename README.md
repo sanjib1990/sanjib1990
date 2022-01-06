@@ -94,16 +94,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How sweet is your blood? Scanbo gives an answer without poking holes in you](https://techcrunch.com/2022/01/06/scanbo-non-invasive-blood-glucose/)
+- [SpaceX lofts 49 Starlink internet satellites to orbit in 1st launch of 2022](https://www.space.com/spacex-starlink-launch-success-january-2022)
+- [After talking to marketing leaders for a year, here’s my advice for CEOs](https://techcrunch.com/2022/01/06/after-talking-to-marketing-leaders-for-a-year-heres-my-advice-for-ceos/)
+- [Twitter wants you to retweet with TikTok-like reaction videos](https://techcrunch.com/2022/01/06/twitter-tweet-takes-video-replies/)
 - [Lululemon names Twitch exec Mike Aragon CEO of Mirror](https://techcrunch.com/2022/01/06/lululemon-names-twitch-exec-mike-aragon-ceo-of-mirror/)
-- [Mozilla Foundation hits pause on crypto donations following backlash](https://techcrunch.com/2022/01/06/mozilla-foundation-crypto/)
+- [Mozilla hits pause on crypto donations following backlash](https://techcrunch.com/2022/01/06/mozilla-foundation-crypto/)
 - [Khosla Ventures debuts first opportunity fund](https://techcrunch.com/2022/01/06/khosla-ventures-debuts-first-opportunity-fund/)
 - [Tinder is developing a feature called ‘Swipe Party’ that invites friends to join your swiping sessions](https://techcrunch.com/2022/01/06/tinder-is-developing-a-feature-called-swipe-party-that-invites-friends-to-join-your-swiping-sessions/)
 - [How will the crypto selloff impact the NFT market?](https://techcrunch.com/2022/01/06/how-will-the-crypto-selloff-impact-the-nft-market/)
 - [Goldfinch raises $25M from a16z to power its DeFi lending protocol for borrowers in developing countries](https://techcrunch.com/2022/01/06/goldfinch-raises-25m-from-a16z-to-power-its-defi-lending-protocol-for-borrowers-in-developing-countries/)
-- [The solar system belongs to us all, not just Jeff Bezos](https://www.space.com/solar-system-belongs-to-us-all)
-- [NASA&#39;s TESS exoplanet mission reveals mystery of strange signals from dusty object](https://www.space.com/tess-dust-mystery-binary-star)
-- [North Korea tests another new hypersonic weapon: reports](https://www.space.com/north-korea-hypersonic-weapon-test-january-2022)
-- [Four weeks as an Ultrahuman ‘Cyborg’](https://techcrunch.com/2022/01/06/four-weeks-as-an-ultrahuman-cyborg/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
