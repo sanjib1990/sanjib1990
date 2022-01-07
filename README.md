@@ -94,6 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Startups at CES showed that age-tech can help everyone](https://techcrunch.com/2022/01/06/startups-at-ces-showed-that-age-tech-can-help-everyone/)
 - [At CES 2022, metaverses metaversed the metaverse](https://techcrunch.com/2022/01/06/at-ces-2022-metaverses-metaversed-the-metaverse/)
 - [Daily Crunch: France’s data watchdog bites Google and Facebook over cookie consent violations](https://techcrunch.com/2022/01/06/daily-crunch-frances-data-watchdog-bites-google-and-facebook-over-cookie-consent-violations/)
 - [How sweet is your blood? Scanbo gives an answer without poking holes in you](https://techcrunch.com/2022/01/06/scanbo-non-invasive-blood-glucose/)
@@ -103,7 +104,6 @@
 - [Lululemon names Twitch exec Mike Aragon CEO of Mirror](https://techcrunch.com/2022/01/06/lululemon-names-twitch-exec-mike-aragon-ceo-of-mirror/)
 - [Mozilla hits pause on crypto donations following backlash](https://techcrunch.com/2022/01/06/mozilla-foundation-crypto/)
 - [Khosla Ventures debuts first opportunity fund](https://techcrunch.com/2022/01/06/khosla-ventures-debuts-first-opportunity-fund/)
-- [Tinder is developing a feature called ‘Swipe Party’ that invites friends to join your swiping sessions](https://techcrunch.com/2022/01/06/tinder-is-developing-a-feature-called-swipe-party-that-invites-friends-to-join-your-swiping-sessions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
