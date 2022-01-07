@@ -94,16 +94,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Abbott tells CES it’s getting into consumer biowearables](https://techcrunch.com/2022/01/07/abbott-lingo/)
+- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
+- [On This Day in Space! Jan. 7, 1610: Galileo discovers 3 moons of Jupiter](https://www.space.com/39251-on-this-day-in-space.html)
+- [1 billion seconds in space! NASA&#39;s Hubble Space Telescope surpasses major milestone](https://www.space.com/hubble-space-telescope-one-billion-seconds)
 - [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [Matter and antimatter respond to gravity in the same way, study finds](https://www.space.com/matter-antimatter-same-response-to-gravity)
 - [Death star: In cosmic first, scientists observe red supergiant just before it explodes](https://www.space.com/supernova-observations-what-happens-before-star-explodes)
 - [Avataar raises $45 million to improve consumer shopping experience with life-sized 3D product evaluation](https://techcrunch.com/2022/01/07/avataar-raises-45-million-to-improve-consumer-shopping-experience-with-life-sized-3d-product-evaluation/)
 - [Nigerian ethical credit-recovery fintech Bfree secures $1.7M, expands to Asia, Europe, South America and across Africa](https://techcrunch.com/2022/01/06/nigerian-ethical-credit-recovery-fintech-bfree-secures-1-7m-expands-to-asia-europe-south-america-and-across-africa/)
 - [Roblox pauses service in China as it takes ‘important transitory actions’](https://techcrunch.com/2022/01/06/roblox-transition-china-luobulesi-tencent/)
-- [Startups at CES showed that age-tech can help everyone](https://techcrunch.com/2022/01/06/startups-at-ces-showed-that-age-tech-can-help-everyone/)
-- [At CES 2022, metaverses metaversed the metaverse](https://techcrunch.com/2022/01/06/at-ces-2022-metaverses-metaversed-the-metaverse/)
-- [Daily Crunch: France’s data watchdog bites Google and Facebook over cookie consent violations](https://techcrunch.com/2022/01/06/daily-crunch-frances-data-watchdog-bites-google-and-facebook-over-cookie-consent-violations/)
-- [How sweet is your blood? Scanbo gives an answer without poking holes in you](https://techcrunch.com/2022/01/06/scanbo-non-invasive-blood-glucose/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
