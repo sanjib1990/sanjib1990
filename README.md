@@ -77,8 +77,8 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [REFACTOR: The Dark Side of Open Source // What really happened to Faker.js?](https://www.youtube.com/watch?v=R6S-b_k-ZKY)
 - [Man in the Middle &amp; Needham–Schroeder Protocol - Computerphile](https://www.youtube.com/watch?v=EtpdLBeIaus)
-- [The Dark Side of Open Source // What really happened to Faker.js?](https://www.youtube.com/watch?v=d15DP5zqnYE)
 - [Binary Explained in 01100100 Seconds](https://www.youtube.com/watch?v=zDNaUi2cjv4)
 - [Git Overview - Computerphile](https://www.youtube.com/watch?v=92sycL8ij-U)
 - [Log4J &amp; JNDI Exploit: Why So Bad? - Computerphile](https://www.youtube.com/watch?v=Opqgwn8TdlM)
