@@ -94,6 +94,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Primary Mirror Deployment Has Begun](https://blogs.nasa.gov/webb/2022/01/07/primary-mirror-deployment-has-begun/)
+- [Peter Reinhardt leaves Twilio to run his carbon mitigation startup](https://techcrunch.com/2022/01/07/peter-reinhardt-leaves-twilio-to-run-his-carbon-mitigation-startup/)
 - [Abbott tells CES it’s getting into consumer biowearables](https://techcrunch.com/2022/01/07/abbott-lingo/)
 - [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
 - [On This Day in Space! Jan. 7, 1610: Galileo discovers 3 moons of Jupiter](https://www.space.com/39251-on-this-day-in-space.html)
@@ -102,8 +104,6 @@
 - [Matter and antimatter respond to gravity in the same way, study finds](https://www.space.com/matter-antimatter-same-response-to-gravity)
 - [Death star: In cosmic first, scientists observe red supergiant just before it explodes](https://www.space.com/supernova-observations-what-happens-before-star-explodes)
 - [Avataar raises $45 million to improve consumer shopping experience with life-sized 3D product evaluation](https://techcrunch.com/2022/01/07/avataar-raises-45-million-to-improve-consumer-shopping-experience-with-life-sized-3d-product-evaluation/)
-- [Nigerian ethical credit-recovery fintech Bfree secures $1.7M, expands to Asia, Europe, South America and across Africa](https://techcrunch.com/2022/01/06/nigerian-ethical-credit-recovery-fintech-bfree-secures-1-7m-expands-to-asia-europe-south-america-and-across-africa/)
-- [Roblox pauses service in China as it takes ‘important transitory actions’](https://techcrunch.com/2022/01/06/roblox-transition-china-luobulesi-tencent/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
