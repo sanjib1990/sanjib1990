@@ -94,16 +94,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India hits Google with antitrust investigation over alleged abuse in news aggregation](https://techcrunch.com/2022/01/07/india-hits-google-with-antitrust-investigation-over-alleged-abuse-in-news-aggregation/)
+- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
+- [James Webb Space Telescope has unfolded 1st wing of massive golden mirror](https://www.space.com/james-webb-space-telescope-1st-primary-mirror-deploy)
+- [Here’s how startups can prevent tech debt from piling up](https://techcrunch.com/2022/01/07/heres-how-startups-can-prevent-tech-debt-from-piling-up/)
+- [First of Two Primary Mirror Wings Unfolds](https://blogs.nasa.gov/webb/2022/01/07/first-of-two-primary-mirror-wings-unfolds/)
 - [Watch the James Webb Space Telescope soar through space in this livestream today!](https://www.space.com/virtual-telescope-project-james-webb-space-telescope-webcast)
 - [How to upgrade your DEI metrics to influence change](https://techcrunch.com/2022/01/07/how-to-upgrade-your-dei-metrics-to-influence-change/)
 - [Smarter, more powerful e-bikes and scooters take charge at CES 2022](https://techcrunch.com/2022/01/07/smarter-powerful-electric-scooters-bikes-ces-2022/)
 - [Astronomers discover &#39;Maggie,&#39; a giant atomic cloud stretching across the Milky Way](https://www.space.com/discovery-largest-structure-milky-way-galaxy-maggie)
 - [Northern lights &lpar;aurora borealis&rpar;: What they are &amp; how to see them](https://www.space.com/15139-northern-lights-auroras-earth-facts-sdcmp.html)
-- [Apple Fitness+ introduces new ‘Collections’ feature and ‘Time to Run’ series](https://techcrunch.com/2022/01/07/apple-fitness-introduces-new-collections-feature-and-time-to-run-series/)
-- [Andreessen Horowitz raises $9B in new capital for venture, growth, bio funds](https://techcrunch.com/2022/01/07/andreessen-horowitz-raises-9b-in-new-capital-for-venture-growth-bio-funds/)
-- [How today’s startup market isn’t like 1999, and what you need to raise a hot Series A](https://techcrunch.com/2022/01/07/how-todays-startup-market-isnt-like-1999-and-what-you-need-to-raise-a-hot-series-a/)
-- [FanDuel founder and Sequoia bet on Spanish-language fantasy sports app Draftea](https://techcrunch.com/2022/01/07/mexicos-draftea-scores-backing-from-sequoia-fanduel-founder-for-spanish-language-fantasy-sports-app/)
-- [Twitter Spaces continues testing podcast-like features](https://techcrunch.com/2022/01/07/twitter-spaces-continues-testing-podcast-like-features/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
