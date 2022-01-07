@@ -77,6 +77,7 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Man in the Middle &amp; Needham–Schroeder Protocol - Computerphile](https://www.youtube.com/watch?v=EtpdLBeIaus)
 - [The Dark Side of Open Source // What really happened to Faker.js?](https://www.youtube.com/watch?v=d15DP5zqnYE)
 - [Binary Explained in 01100100 Seconds](https://www.youtube.com/watch?v=zDNaUi2cjv4)
 - [Git Overview - Computerphile](https://www.youtube.com/watch?v=92sycL8ij-U)
@@ -86,7 +87,6 @@
 - [How to get a Million YouTube Subscribers in 100 Seconds](https://www.youtube.com/watch?v=j_q0D_jbMk8)
 - [I believe in OpenCourseWare’s mission](https://www.youtube.com/watch?v=Qf7qXw7sHk4)
 - [KILL Linux processes!! &lpar;also manage them&rpar; // Linux for Hackers // EP 7](https://www.youtube.com/watch?v=LfC6pv8VISk)
-- [Joining Point Cloud Scans &lpar;ICP&rpar; - Computerphile](https://www.youtube.com/watch?v=4uWSo8v3iQA)
 <!-- YOUTUBE:END -->
 
 ---
