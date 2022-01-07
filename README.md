@@ -94,16 +94,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Fitness+ introduces new ‘Collections’ feature and ‘Time to Run’ series](https://techcrunch.com/2022/01/07/apple-fitness-introduces-new-collections-feature-and-time-to-run-series/)
+- [Andreessen Horowitz raises $9B in new capital for venture, growth, bio funds](https://techcrunch.com/2022/01/07/andreessen-horowitz-raises-9b-in-new-capital-for-venture-growth-bio-funds/)
+- [How today’s startup market isn’t like 1999, and what you need to raise a hot Series A](https://techcrunch.com/2022/01/07/how-todays-startup-market-isnt-like-1999-and-what-you-need-to-raise-a-hot-series-a/)
+- [FanDuel founder and Sequoia bet on Spanish-language fantasy sports app Draftea](https://techcrunch.com/2022/01/07/mexicos-draftea-scores-backing-from-sequoia-fanduel-founder-for-spanish-language-fantasy-sports-app/)
+- [Twitter Spaces continues testing podcast-like features](https://techcrunch.com/2022/01/07/twitter-spaces-continues-testing-podcast-like-features/)
+- [FarmSense uses sensors and machine learning to bug-proof crops](https://techcrunch.com/2022/01/07/farmsense-agtech-machine-learning-crops/)
 - [Tech stocks manage modest rally after lackluster US jobs report](https://techcrunch.com/2022/01/07/tech-stocks-manage-modest-rally-after-lackluster-us-jobs-report/)
 - [Pendulum raises $5.9M to help organizations track harmful narratives](https://techcrunch.com/2022/01/07/pendulum-raises-5-9m-to-help-organizations-track-harmful-narratives/)
 - [Can you build centralized islands in a decentralized ocean?](https://techcrunch.com/2022/01/07/can-you-build-centralized-islands-in-a-decentralized-ocean/)
 - [Finalsite ransomware attack forces 5,000 school websites offline](https://techcrunch.com/2022/01/07/finalsite-ransomware-school-websites-offline/)
-- [Primary Mirror Deployment Has Begun](https://blogs.nasa.gov/webb/2022/01/07/primary-mirror-deployment-has-begun/)
-- [Peter Reinhardt leaves Twilio to run his carbon mitigation startup](https://techcrunch.com/2022/01/07/peter-reinhardt-leaves-twilio-to-run-his-carbon-mitigation-startup/)
-- [Abbott tells CES it’s getting into consumer biowearables](https://techcrunch.com/2022/01/07/abbott-lingo/)
-- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
-- [On This Day in Space! Jan. 7, 1610: Galileo discovers 3 moons of Jupiter](https://www.space.com/39251-on-this-day-in-space.html)
-- [1 billion seconds in space! NASA&#39;s Hubble Space Telescope surpasses major milestone](https://www.space.com/hubble-space-telescope-one-billion-seconds)
 <!-- BLOG-POST-LIST:END -->
 
 ---
