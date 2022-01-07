@@ -94,6 +94,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Right-wing social app Parler raises $20M in funding](https://techcrunch.com/2022/01/07/right-wing-social-app-parler-raises-20m-in-funding/)
+- [TechCrunch+ roundup: VC advice for CEOs, 2022 e-commerce trends, OpenSea’s valuation](https://techcrunch.com/2022/01/07/techcrunch-roundup-vc-advice-for-ceos-2022-e-commerce-trends-openseas-valuation/)
+- [Regulating crypto could create American super apps](https://techcrunch.com/2022/01/07/regulating-crypto-could-create-american-super-apps/)
 - [India hits Google with antitrust investigation over alleged abuse in news aggregation](https://techcrunch.com/2022/01/07/india-hits-google-with-antitrust-investigation-over-alleged-abuse-in-news-aggregation/)
 - [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
 - [James Webb Space Telescope has unfolded 1st wing of massive golden mirror](https://www.space.com/james-webb-space-telescope-1st-primary-mirror-deploy)
@@ -101,9 +104,6 @@
 - [First of Two Primary Mirror Wings Unfolds](https://blogs.nasa.gov/webb/2022/01/07/first-of-two-primary-mirror-wings-unfolds/)
 - [Watch the James Webb Space Telescope soar through space in this livestream today!](https://www.space.com/virtual-telescope-project-james-webb-space-telescope-webcast)
 - [How to upgrade your DEI metrics to influence change](https://techcrunch.com/2022/01/07/how-to-upgrade-your-dei-metrics-to-influence-change/)
-- [Smarter, more powerful e-bikes and scooters take charge at CES 2022](https://techcrunch.com/2022/01/07/smarter-powerful-electric-scooters-bikes-ces-2022/)
-- [Astronomers discover &#39;Maggie,&#39; a giant atomic cloud stretching across the Milky Way](https://www.space.com/discovery-largest-structure-milky-way-galaxy-maggie)
-- [Northern lights &lpar;aurora borealis&rpar;: What they are &amp; how to see them](https://www.space.com/15139-northern-lights-auroras-earth-facts-sdcmp.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
