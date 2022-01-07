@@ -94,7 +94,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to upgrade your DEI metrics to influence change](https://techcrunch.com/2022/01/07/how-to-upgrade-your-dei-metrics-to-influence-change/)
 - [Smarter, more powerful e-bikes and scooters take charge at CES 2022](https://techcrunch.com/2022/01/07/smarter-powerful-electric-scooters-bikes-ces-2022/)
+- [Astronomers discover &#39;Maggie,&#39; a giant atomic cloud stretching across the Milky Way](https://www.space.com/discovery-largest-structure-milky-way-galaxy-maggie)
 - [Northern lights &lpar;aurora borealis&rpar;: What they are &amp; how to see them](https://www.space.com/15139-northern-lights-auroras-earth-facts-sdcmp.html)
 - [Apple Fitness+ introduces new ‘Collections’ feature and ‘Time to Run’ series](https://techcrunch.com/2022/01/07/apple-fitness-introduces-new-collections-feature-and-time-to-run-series/)
 - [Andreessen Horowitz raises $9B in new capital for venture, growth, bio funds](https://techcrunch.com/2022/01/07/andreessen-horowitz-raises-9b-in-new-capital-for-venture-growth-bio-funds/)
@@ -102,8 +104,6 @@
 - [FanDuel founder and Sequoia bet on Spanish-language fantasy sports app Draftea](https://techcrunch.com/2022/01/07/mexicos-draftea-scores-backing-from-sequoia-fanduel-founder-for-spanish-language-fantasy-sports-app/)
 - [Twitter Spaces continues testing podcast-like features](https://techcrunch.com/2022/01/07/twitter-spaces-continues-testing-podcast-like-features/)
 - [FarmSense uses sensors and machine learning to bug-proof crops](https://techcrunch.com/2022/01/07/farmsense-agtech-machine-learning-crops/)
-- [Tech stocks manage modest rally after lackluster US jobs report](https://techcrunch.com/2022/01/07/tech-stocks-manage-modest-rally-after-lackluster-us-jobs-report/)
-- [Pendulum raises $5.9M to help organizations track harmful narratives](https://techcrunch.com/2022/01/07/pendulum-raises-5-9m-to-help-organizations-track-harmful-narratives/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
