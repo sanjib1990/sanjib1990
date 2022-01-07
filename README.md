@@ -94,6 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Roblox pauses service in China as it takes ‘important transitory actions’](https://techcrunch.com/2022/01/06/roblox-transition-china-luobulesi-tencent/)
 - [Startups at CES showed that age-tech can help everyone](https://techcrunch.com/2022/01/06/startups-at-ces-showed-that-age-tech-can-help-everyone/)
 - [At CES 2022, metaverses metaversed the metaverse](https://techcrunch.com/2022/01/06/at-ces-2022-metaverses-metaversed-the-metaverse/)
 - [Daily Crunch: France’s data watchdog bites Google and Facebook over cookie consent violations](https://techcrunch.com/2022/01/06/daily-crunch-frances-data-watchdog-bites-google-and-facebook-over-cookie-consent-violations/)
@@ -103,7 +104,6 @@
 - [Twitter wants you to retweet with TikTok-like reaction videos](https://techcrunch.com/2022/01/06/twitter-tweet-takes-video-replies/)
 - [Lululemon names Twitch exec Mike Aragon CEO of Mirror](https://techcrunch.com/2022/01/06/lululemon-names-twitch-exec-mike-aragon-ceo-of-mirror/)
 - [Mozilla hits pause on crypto donations following backlash](https://techcrunch.com/2022/01/06/mozilla-foundation-crypto/)
-- [Khosla Ventures debuts first opportunity fund](https://techcrunch.com/2022/01/06/khosla-ventures-debuts-first-opportunity-fund/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
