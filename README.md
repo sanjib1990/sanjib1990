@@ -94,6 +94,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [At CES 2022, metaverses metaversed the metaverse](https://techcrunch.com/2022/01/06/at-ces-2022-metaverses-metaversed-the-metaverse/)
+- [Daily Crunch: France’s data watchdog bites Google and Facebook over cookie consent violations](https://techcrunch.com/2022/01/06/daily-crunch-frances-data-watchdog-bites-google-and-facebook-over-cookie-consent-violations/)
 - [How sweet is your blood? Scanbo gives an answer without poking holes in you](https://techcrunch.com/2022/01/06/scanbo-non-invasive-blood-glucose/)
 - [SpaceX lofts 49 Starlink internet satellites to orbit in 1st launch of 2022](https://www.space.com/spacex-starlink-launch-success-january-2022)
 - [After talking to marketing leaders for a year, here’s my advice for CEOs](https://techcrunch.com/2022/01/06/after-talking-to-marketing-leaders-for-a-year-heres-my-advice-for-ceos/)
@@ -102,8 +104,6 @@
 - [Mozilla hits pause on crypto donations following backlash](https://techcrunch.com/2022/01/06/mozilla-foundation-crypto/)
 - [Khosla Ventures debuts first opportunity fund](https://techcrunch.com/2022/01/06/khosla-ventures-debuts-first-opportunity-fund/)
 - [Tinder is developing a feature called ‘Swipe Party’ that invites friends to join your swiping sessions](https://techcrunch.com/2022/01/06/tinder-is-developing-a-feature-called-swipe-party-that-invites-friends-to-join-your-swiping-sessions/)
-- [How will the crypto selloff impact the NFT market?](https://techcrunch.com/2022/01/06/how-will-the-crypto-selloff-impact-the-nft-market/)
-- [Goldfinch raises $25M from a16z to power its DeFi lending protocol for borrowers in developing countries](https://techcrunch.com/2022/01/06/goldfinch-raises-25m-from-a16z-to-power-its-defi-lending-protocol-for-borrowers-in-developing-countries/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
