@@ -94,6 +94,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [Matter and antimatter respond to gravity in the same way, study finds](https://www.space.com/matter-antimatter-same-response-to-gravity)
+- [Death star: In cosmic first, scientists observe red supergiant just before it explodes](https://www.space.com/supernova-observations-what-happens-before-star-explodes)
 - [Avataar raises $45 million to improve consumer shopping experience with life-sized 3D product evaluation](https://techcrunch.com/2022/01/07/avataar-raises-45-million-to-improve-consumer-shopping-experience-with-life-sized-3d-product-evaluation/)
 - [Nigerian ethical credit-recovery fintech Bfree secures $1.7M, expands to Asia, Europe, South America and across Africa](https://techcrunch.com/2022/01/06/nigerian-ethical-credit-recovery-fintech-bfree-secures-1-7m-expands-to-asia-europe-south-america-and-across-africa/)
 - [Roblox pauses service in China as it takes ‘important transitory actions’](https://techcrunch.com/2022/01/06/roblox-transition-china-luobulesi-tencent/)
@@ -101,9 +104,6 @@
 - [At CES 2022, metaverses metaversed the metaverse](https://techcrunch.com/2022/01/06/at-ces-2022-metaverses-metaversed-the-metaverse/)
 - [Daily Crunch: France’s data watchdog bites Google and Facebook over cookie consent violations](https://techcrunch.com/2022/01/06/daily-crunch-frances-data-watchdog-bites-google-and-facebook-over-cookie-consent-violations/)
 - [How sweet is your blood? Scanbo gives an answer without poking holes in you](https://techcrunch.com/2022/01/06/scanbo-non-invasive-blood-glucose/)
-- [SpaceX lofts 49 Starlink internet satellites to orbit in 1st launch of 2022](https://www.space.com/spacex-starlink-launch-success-january-2022)
-- [After talking to marketing leaders for a year, here’s my advice for CEOs](https://techcrunch.com/2022/01/06/after-talking-to-marketing-leaders-for-a-year-heres-my-advice-for-ceos/)
-- [Twitter wants you to retweet with TikTok-like reaction videos](https://techcrunch.com/2022/01/06/twitter-tweet-takes-video-replies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
