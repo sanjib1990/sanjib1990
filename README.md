@@ -94,6 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nigerian ethical credit-recovery fintech Bfree secures $1.7M, expands to Asia, Europe, South America and across Africa](https://techcrunch.com/2022/01/06/nigerian-ethical-credit-recovery-fintech-bfree-secures-1-7m-expands-to-asia-europe-south-america-and-across-africa/)
 - [Roblox pauses service in China as it takes ‘important transitory actions’](https://techcrunch.com/2022/01/06/roblox-transition-china-luobulesi-tencent/)
 - [Startups at CES showed that age-tech can help everyone](https://techcrunch.com/2022/01/06/startups-at-ces-showed-that-age-tech-can-help-everyone/)
 - [At CES 2022, metaverses metaversed the metaverse](https://techcrunch.com/2022/01/06/at-ces-2022-metaverses-metaversed-the-metaverse/)
@@ -103,7 +104,6 @@
 - [After talking to marketing leaders for a year, here’s my advice for CEOs](https://techcrunch.com/2022/01/06/after-talking-to-marketing-leaders-for-a-year-heres-my-advice-for-ceos/)
 - [Twitter wants you to retweet with TikTok-like reaction videos](https://techcrunch.com/2022/01/06/twitter-tweet-takes-video-replies/)
 - [Lululemon names Twitch exec Mike Aragon CEO of Mirror](https://techcrunch.com/2022/01/06/lululemon-names-twitch-exec-mike-aragon-ceo-of-mirror/)
-- [Mozilla hits pause on crypto donations following backlash](https://techcrunch.com/2022/01/06/mozilla-foundation-crypto/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
