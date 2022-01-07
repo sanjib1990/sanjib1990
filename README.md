@@ -94,16 +94,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Let’s talk CES gadgets](https://techcrunch.com/2022/01/07/lets-talk-ces-gadgets/)
+- [VR and AR continue to simmer at CES 2022](https://techcrunch.com/2022/01/07/vr-and-ar-continue-to-simmer-at-ces-2022/)
+- [With more data available than ever, are companies making smarter decisions?](https://techcrunch.com/2022/01/07/with-more-data-available-than-ever-are-companies-making-smarter-decisions/)
+- [IBM reportedly shopping Watson Health just as healthcare gets hot](https://techcrunch.com/2022/01/07/ibm-reportedly-shopping-watson-health-just-as-healthcare-gets-hot/)
+- [When will the sun die?](https://www.space.com/14732-sun-burns-star-death.html)
 - [US regulator rules that Google infringed on Sonos speaker patents](https://techcrunch.com/2022/01/07/us-regulator-rules-that-google-infringed-on-sonos-speaker-patents/)
 - [Meta is testing a new meta privacy control center across apps](https://techcrunch.com/2022/01/07/meta-privacy-center-facebook-privacy-controls/)
 - [The best &lpar;and weirdest&rpar; future car tech at CES 2022](https://techcrunch.com/2022/01/07/ces-2022-best-weirdest-car-tech/)
 - [Use alternative financing to fuel VC-level growth without diluting ownership](https://techcrunch.com/2022/01/07/use-alternative-financing-to-fuel-vc-level-growth-without-diluting-ownership/)
 - [Look up to spot the tricky planet Mercury at its &#39;greatest elongation&#39; from the sun tonight](https://www.space.com/mercury-greatest-elongation-january-2022)
-- [Virgin Orbit lands in Times Square NYC to ring NASDAQ bell](https://www.space.com/virgin-orbit-times-square-rocket-nasdaq)
-- [Right-wing social app Parler raises $20M in funding](https://techcrunch.com/2022/01/07/right-wing-social-app-parler-raises-20m-in-funding/)
-- [TechCrunch+ roundup: VC advice for CEOs, 2022 e-commerce trends, OpenSea’s valuation](https://techcrunch.com/2022/01/07/techcrunch-roundup-vc-advice-for-ceos-2022-e-commerce-trends-openseas-valuation/)
-- [Regulating crypto could create American super apps](https://techcrunch.com/2022/01/07/regulating-crypto-could-create-american-super-apps/)
-- [India hits Google with antitrust investigation over alleged abuse in news aggregation](https://techcrunch.com/2022/01/07/india-hits-google-with-antitrust-investigation-over-alleged-abuse-in-news-aggregation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
