@@ -94,6 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch the James Webb Space Telescope soar through space in this livestream today!](https://www.space.com/virtual-telescope-project-james-webb-space-telescope-webcast)
 - [How to upgrade your DEI metrics to influence change](https://techcrunch.com/2022/01/07/how-to-upgrade-your-dei-metrics-to-influence-change/)
 - [Smarter, more powerful e-bikes and scooters take charge at CES 2022](https://techcrunch.com/2022/01/07/smarter-powerful-electric-scooters-bikes-ces-2022/)
 - [Astronomers discover &#39;Maggie,&#39; a giant atomic cloud stretching across the Milky Way](https://www.space.com/discovery-largest-structure-milky-way-galaxy-maggie)
@@ -103,7 +104,6 @@
 - [How today’s startup market isn’t like 1999, and what you need to raise a hot Series A](https://techcrunch.com/2022/01/07/how-todays-startup-market-isnt-like-1999-and-what-you-need-to-raise-a-hot-series-a/)
 - [FanDuel founder and Sequoia bet on Spanish-language fantasy sports app Draftea](https://techcrunch.com/2022/01/07/mexicos-draftea-scores-backing-from-sequoia-fanduel-founder-for-spanish-language-fantasy-sports-app/)
 - [Twitter Spaces continues testing podcast-like features](https://techcrunch.com/2022/01/07/twitter-spaces-continues-testing-podcast-like-features/)
-- [FarmSense uses sensors and machine learning to bug-proof crops](https://techcrunch.com/2022/01/07/farmsense-agtech-machine-learning-crops/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
