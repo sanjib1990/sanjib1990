@@ -94,6 +94,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Smarter, more powerful e-bikes and scooters take charge at CES 2022](https://techcrunch.com/2022/01/07/smarter-powerful-electric-scooters-bikes-ces-2022/)
+- [Northern lights &lpar;aurora borealis&rpar;: What they are &amp; how to see them](https://www.space.com/15139-northern-lights-auroras-earth-facts-sdcmp.html)
 - [Apple Fitness+ introduces new ‘Collections’ feature and ‘Time to Run’ series](https://techcrunch.com/2022/01/07/apple-fitness-introduces-new-collections-feature-and-time-to-run-series/)
 - [Andreessen Horowitz raises $9B in new capital for venture, growth, bio funds](https://techcrunch.com/2022/01/07/andreessen-horowitz-raises-9b-in-new-capital-for-venture-growth-bio-funds/)
 - [How today’s startup market isn’t like 1999, and what you need to raise a hot Series A](https://techcrunch.com/2022/01/07/how-todays-startup-market-isnt-like-1999-and-what-you-need-to-raise-a-hot-series-a/)
@@ -102,8 +104,6 @@
 - [FarmSense uses sensors and machine learning to bug-proof crops](https://techcrunch.com/2022/01/07/farmsense-agtech-machine-learning-crops/)
 - [Tech stocks manage modest rally after lackluster US jobs report](https://techcrunch.com/2022/01/07/tech-stocks-manage-modest-rally-after-lackluster-us-jobs-report/)
 - [Pendulum raises $5.9M to help organizations track harmful narratives](https://techcrunch.com/2022/01/07/pendulum-raises-5-9m-to-help-organizations-track-harmful-narratives/)
-- [Can you build centralized islands in a decentralized ocean?](https://techcrunch.com/2022/01/07/can-you-build-centralized-islands-in-a-decentralized-ocean/)
-- [Finalsite ransomware attack forces 5,000 school websites offline](https://techcrunch.com/2022/01/07/finalsite-ransomware-school-websites-offline/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
