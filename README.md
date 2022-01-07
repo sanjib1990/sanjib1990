@@ -94,16 +94,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tech stocks manage modest rally after lackluster US jobs report](https://techcrunch.com/2022/01/07/tech-stocks-manage-modest-rally-after-lackluster-us-jobs-report/)
+- [Pendulum raises $5.9M to help organizations track harmful narratives](https://techcrunch.com/2022/01/07/pendulum-raises-5-9m-to-help-organizations-track-harmful-narratives/)
+- [Can you build centralized islands in a decentralized ocean?](https://techcrunch.com/2022/01/07/can-you-build-centralized-islands-in-a-decentralized-ocean/)
+- [Finalsite ransomware attack forces 5,000 school websites offline](https://techcrunch.com/2022/01/07/finalsite-ransomware-school-websites-offline/)
 - [Primary Mirror Deployment Has Begun](https://blogs.nasa.gov/webb/2022/01/07/primary-mirror-deployment-has-begun/)
 - [Peter Reinhardt leaves Twilio to run his carbon mitigation startup](https://techcrunch.com/2022/01/07/peter-reinhardt-leaves-twilio-to-run-his-carbon-mitigation-startup/)
 - [Abbott tells CES it’s getting into consumer biowearables](https://techcrunch.com/2022/01/07/abbott-lingo/)
 - [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
 - [On This Day in Space! Jan. 7, 1610: Galileo discovers 3 moons of Jupiter](https://www.space.com/39251-on-this-day-in-space.html)
 - [1 billion seconds in space! NASA&#39;s Hubble Space Telescope surpasses major milestone](https://www.space.com/hubble-space-telescope-one-billion-seconds)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [Matter and antimatter respond to gravity in the same way, study finds](https://www.space.com/matter-antimatter-same-response-to-gravity)
-- [Death star: In cosmic first, scientists observe red supergiant just before it explodes](https://www.space.com/supernova-observations-what-happens-before-star-explodes)
-- [Avataar raises $45 million to improve consumer shopping experience with life-sized 3D product evaluation](https://techcrunch.com/2022/01/07/avataar-raises-45-million-to-improve-consumer-shopping-experience-with-life-sized-3d-product-evaluation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
