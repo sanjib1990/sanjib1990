@@ -94,16 +94,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Starboard Primary Mirror Wing Deployment Underway](https://blogs.nasa.gov/webb/2022/01/08/starboard-primary-mirror-wing-deployment-underway/)
+- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
+- [This NASA sounding rocket launch may be visible on US East Coast tonight](https://www.space.com/sounding-rocket-launch-visible-east-coast-january-2022)
+- [Weird structures near Earth&#39;s core may be scars from a primordial interplanetary collision](https://www.space.com/ulvz-giant-impact-hypothesis.html)
+- [On This Day in Space! Jan. 8, 1973: Soviet Union launches 2nd lunar rover](https://www.space.com/39251-on-this-day-in-space.html)
 - [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html)
 - [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html)
-- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
 - [Kazakhstan unrest not affecting Baikonur Cosmodrome spaceport, Russia says](https://www.space.com/kazakhstan-unrest-baikonur-cosmodrome-roscosmos-nasa)
 - [The Selene V crew hit the moonwalk jackpot — Commander&#39;s report: lunar day 10](https://www.space.com/hi-seas-selene-v-moon-analog-mission-commander-report-3)
 - [Google Doodle celebrates the life of cosmologist Stephen Hawking for his 80th birthday](https://www.space.com/stephen-hawking-google-doodle-80th-birthday)
-- [This week in TechCrunch Experts: E-commerce trends, growth marketing predictions](https://techcrunch.com/2022/01/07/this-week-in-techcrunch-experts-e-commerce-trends-growth-marketing-predictions/)
-- [Daily Crunch: Avataar raises $45M Series B to improve 3D e-commerce product visualizations](https://techcrunch.com/2022/01/07/avataar-raises-45m-series-b-to-improve-3d-e-commerce-product-visualizations/)
-- [Let’s talk CES gadgets](https://techcrunch.com/2022/01/07/lets-talk-ces-gadgets/)
-- [VR and AR continue to simmer at CES 2022](https://techcrunch.com/2022/01/07/vr-and-ar-continue-to-simmer-at-ces-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
