@@ -95,6 +95,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
+- [Watch the James Webb Space Telescope soar through space in this livestream Saturday](https://www.space.com/virtual-telescope-project-james-webb-space-telescope-webcast)
 - [James Webb Space Telescope, the biggest ever built, fully unfolds giant mirror to gaze at the cosmos](https://www.space.com/james-webb-space-telescope-fully-deployed)
 - [This Week in Apps: Instagram brings back the chronological feed, South Korea bans P2E games, Google looks for ecosystem integrations](https://techcrunch.com/2022/01/08/this-week-in-apps-instagram-brings-back-the-chronological-feed-south-korea-bans-p2e-games-google-looks-for-ecosystem-integrations/)
 - [The end of the demo day, dilution and other startup accelerator resolutions](https://techcrunch.com/2022/01/08/the-end-of-the-demo-day-dilution-and-other-startup-accelerator-resolutions/)
@@ -103,7 +104,6 @@
 - [Apple’s biggest scandal of 2022 is already happening](https://techcrunch.com/2022/01/08/apples-biggest-scandal-of-2022-is-already-happening/)
 - [Venture water, biotech investing and 2021’s carnage](https://techcrunch.com/2022/01/08/venture-water-biotech-investing-and-2021s-carnage/)
 - [What’s left to learn from Theranos? Have friends.](https://techcrunch.com/2022/01/08/theranos-elizabeth-holmes-startup-friends/)
-- [4 ways to navigate a post-acquisition partnership](https://techcrunch.com/2022/01/08/4-ways-to-navigate-a-post-acquisition-partnership/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
