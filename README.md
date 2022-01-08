@@ -94,8 +94,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Starboard Primary Mirror Wing Deployment Underway](https://blogs.nasa.gov/webb/2022/01/08/starboard-primary-mirror-wing-deployment-underway/)
 - [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
+- [4 ways to navigate a post-acquisition partnership](https://techcrunch.com/2022/01/08/4-ways-to-navigate-a-post-acquisition-partnership/)
+- [Starboard Primary Mirror Wing Deployment Underway](https://blogs.nasa.gov/webb/2022/01/08/starboard-primary-mirror-wing-deployment-underway/)
 - [This NASA sounding rocket launch may be visible on US East Coast tonight](https://www.space.com/sounding-rocket-launch-visible-east-coast-january-2022)
 - [Weird structures near Earth&#39;s core may be scars from a primordial interplanetary collision](https://www.space.com/ulvz-giant-impact-hypothesis.html)
 - [On This Day in Space! Jan. 8, 1973: Soviet Union launches 2nd lunar rover](https://www.space.com/39251-on-this-day-in-space.html)
@@ -103,7 +104,6 @@
 - [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html)
 - [Kazakhstan unrest not affecting Baikonur Cosmodrome spaceport, Russia says](https://www.space.com/kazakhstan-unrest-baikonur-cosmodrome-roscosmos-nasa)
 - [The Selene V crew hit the moonwalk jackpot — Commander&#39;s report: lunar day 10](https://www.space.com/hi-seas-selene-v-moon-analog-mission-commander-report-3)
-- [Google Doodle celebrates the life of cosmologist Stephen Hawking for his 80th birthday](https://www.space.com/stephen-hawking-google-doodle-80th-birthday)
 <!-- BLOG-POST-LIST:END -->
 
 ---
