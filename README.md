@@ -94,6 +94,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Venture water, biotech investing and 2021’s carnage](https://techcrunch.com/2022/01/08/venture-water-biotech-investing-and-2021s-carnage/)
+- [James Webb Space Telescope, the biggest ever built, fully unfolds giant mirror to gaze at the cosmos](https://www.space.com/james-webb-space-telescope-fully-deployed)
 - [What’s left to learn from Theranos? Have friends.](https://techcrunch.com/2022/01/08/theranos-elizabeth-holmes-startup-friends/)
 - [Watch live: James Webb Space Telescope completes unfolding](https://www.space.com/news/live/james-webb-space-telescope-updates)
 - [4 ways to navigate a post-acquisition partnership](https://techcrunch.com/2022/01/08/4-ways-to-navigate-a-post-acquisition-partnership/)
@@ -102,8 +104,6 @@
 - [Weird structures near Earth&#39;s core may be scars from a primordial interplanetary collision](https://www.space.com/ulvz-giant-impact-hypothesis.html)
 - [On This Day in Space! Jan. 8, 1973: Soviet Union launches 2nd lunar rover](https://www.space.com/39251-on-this-day-in-space.html)
 - [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html)
-- [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html)
-- [Kazakhstan unrest not affecting Baikonur Cosmodrome spaceport, Russia says](https://www.space.com/kazakhstan-unrest-baikonur-cosmodrome-roscosmos-nasa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
