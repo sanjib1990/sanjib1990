@@ -94,16 +94,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Avataar raises $45M Series B to improve 3D e-commerce product visualizations](https://techcrunch.com/2022/01/07/avataar-raises-45m-series-b-to-improve-3d-e-commerce-product-visualizations/)
 - [Let’s talk CES gadgets](https://techcrunch.com/2022/01/07/lets-talk-ces-gadgets/)
 - [VR and AR continue to simmer at CES 2022](https://techcrunch.com/2022/01/07/vr-and-ar-continue-to-simmer-at-ces-2022/)
+- [Starlink: SpaceX&#39;s satellite internet project](https://www.space.com/spacex-starlink-satellites.html)
 - [With more data available than ever, are companies making smarter decisions?](https://techcrunch.com/2022/01/07/with-more-data-available-than-ever-are-companies-making-smarter-decisions/)
 - [IBM reportedly shopping Watson Health just as healthcare gets hot](https://techcrunch.com/2022/01/07/ibm-reportedly-shopping-watson-health-just-as-healthcare-gets-hot/)
 - [When will the sun die?](https://www.space.com/14732-sun-burns-star-death.html)
 - [US regulator rules that Google infringed on Sonos speaker patents](https://techcrunch.com/2022/01/07/us-regulator-rules-that-google-infringed-on-sonos-speaker-patents/)
 - [Meta is testing a new meta privacy control center across apps](https://techcrunch.com/2022/01/07/meta-privacy-center-facebook-privacy-controls/)
 - [The best &lpar;and weirdest&rpar; future car tech at CES 2022](https://techcrunch.com/2022/01/07/ces-2022-best-weirdest-car-tech/)
-- [Use alternative financing to fuel VC-level growth without diluting ownership](https://techcrunch.com/2022/01/07/use-alternative-financing-to-fuel-vc-level-growth-without-diluting-ownership/)
-- [Look up to spot the tricky planet Mercury at its &#39;greatest elongation&#39; from the sun tonight](https://www.space.com/mercury-greatest-elongation-january-2022)
 <!-- BLOG-POST-LIST:END -->
 
 ---
