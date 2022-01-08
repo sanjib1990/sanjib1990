@@ -94,16 +94,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html)
+- [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html)
+- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
+- [Kazakhstan unrest not affecting Baikonur Cosmodrome spaceport, Russia says](https://www.space.com/kazakhstan-unrest-baikonur-cosmodrome-roscosmos-nasa)
+- [The Selene V crew hit the moonwalk jackpot — Commander&#39;s report: lunar day 10](https://www.space.com/hi-seas-selene-v-moon-analog-mission-commander-report-3)
+- [Google Doodle celebrates the life of cosmologist Stephen Hawking for his 80th birthday](https://www.space.com/stephen-hawking-google-doodle-80th-birthday)
 - [This week in TechCrunch Experts: E-commerce trends, growth marketing predictions](https://techcrunch.com/2022/01/07/this-week-in-techcrunch-experts-e-commerce-trends-growth-marketing-predictions/)
 - [Daily Crunch: Avataar raises $45M Series B to improve 3D e-commerce product visualizations](https://techcrunch.com/2022/01/07/avataar-raises-45m-series-b-to-improve-3d-e-commerce-product-visualizations/)
 - [Let’s talk CES gadgets](https://techcrunch.com/2022/01/07/lets-talk-ces-gadgets/)
 - [VR and AR continue to simmer at CES 2022](https://techcrunch.com/2022/01/07/vr-and-ar-continue-to-simmer-at-ces-2022/)
-- [Starlink: SpaceX&#39;s satellite internet project](https://www.space.com/spacex-starlink-satellites.html)
-- [With more data available than ever, are companies making smarter decisions?](https://techcrunch.com/2022/01/07/with-more-data-available-than-ever-are-companies-making-smarter-decisions/)
-- [IBM reportedly shopping Watson Health just as healthcare gets hot](https://techcrunch.com/2022/01/07/ibm-reportedly-shopping-watson-health-just-as-healthcare-gets-hot/)
-- [When will the sun die?](https://www.space.com/14732-sun-burns-star-death.html)
-- [US regulator rules that Google infringed on Sonos speaker patents](https://techcrunch.com/2022/01/07/us-regulator-rules-that-google-infringed-on-sonos-speaker-patents/)
-- [Meta is testing a new meta privacy control center across apps](https://techcrunch.com/2022/01/07/meta-privacy-center-facebook-privacy-controls/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
