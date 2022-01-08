@@ -94,6 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This week in TechCrunch Experts: E-commerce trends, growth marketing predictions](https://techcrunch.com/2022/01/07/this-week-in-techcrunch-experts-e-commerce-trends-growth-marketing-predictions/)
 - [Daily Crunch: Avataar raises $45M Series B to improve 3D e-commerce product visualizations](https://techcrunch.com/2022/01/07/avataar-raises-45m-series-b-to-improve-3d-e-commerce-product-visualizations/)
 - [Let’s talk CES gadgets](https://techcrunch.com/2022/01/07/lets-talk-ces-gadgets/)
 - [VR and AR continue to simmer at CES 2022](https://techcrunch.com/2022/01/07/vr-and-ar-continue-to-simmer-at-ces-2022/)
@@ -103,7 +104,6 @@
 - [When will the sun die?](https://www.space.com/14732-sun-burns-star-death.html)
 - [US regulator rules that Google infringed on Sonos speaker patents](https://techcrunch.com/2022/01/07/us-regulator-rules-that-google-infringed-on-sonos-speaker-patents/)
 - [Meta is testing a new meta privacy control center across apps](https://techcrunch.com/2022/01/07/meta-privacy-center-facebook-privacy-controls/)
-- [The best &lpar;and weirdest&rpar; future car tech at CES 2022](https://techcrunch.com/2022/01/07/ces-2022-best-weirdest-car-tech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
