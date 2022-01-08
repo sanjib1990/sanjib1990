@@ -94,16 +94,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
+- [James Webb Space Telescope, the biggest ever built, fully unfolds giant mirror to gaze at the cosmos](https://www.space.com/james-webb-space-telescope-fully-deployed)
+- [This Week in Apps: Instagram brings back the chronological feed, South Korea bans P2E games, Google looks for ecosystem integrations](https://techcrunch.com/2022/01/08/this-week-in-apps-instagram-brings-back-the-chronological-feed-south-korea-bans-p2e-games-google-looks-for-ecosystem-integrations/)
 - [The end of the demo day, dilution and other startup accelerator resolutions](https://techcrunch.com/2022/01/08/the-end-of-the-demo-day-dilution-and-other-startup-accelerator-resolutions/)
 - [Startup accelerators’ definition of ‘value add’ is due for a refresh](https://techcrunch.com/2022/01/08/startup-accelerators-definition-of-value-add-is-due-for-a-refresh/)
 - [Primary Mirror Wings Deployed, All Major Deployments Complete](https://blogs.nasa.gov/webb/2022/01/08/primary-mirror-wings-deployed-all-major-deployments-complete/)
 - [Apple’s biggest scandal of 2022 is already happening](https://techcrunch.com/2022/01/08/apples-biggest-scandal-of-2022-is-already-happening/)
 - [Venture water, biotech investing and 2021’s carnage](https://techcrunch.com/2022/01/08/venture-water-biotech-investing-and-2021s-carnage/)
-- [James Webb Space Telescope, the biggest ever built, fully unfolds giant mirror to gaze at the cosmos](https://www.space.com/james-webb-space-telescope-fully-deployed)
 - [What’s left to learn from Theranos? Have friends.](https://techcrunch.com/2022/01/08/theranos-elizabeth-holmes-startup-friends/)
-- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
 - [4 ways to navigate a post-acquisition partnership](https://techcrunch.com/2022/01/08/4-ways-to-navigate-a-post-acquisition-partnership/)
-- [Starboard Primary Mirror Wing Deployment Underway](https://blogs.nasa.gov/webb/2022/01/08/starboard-primary-mirror-wing-deployment-underway/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
