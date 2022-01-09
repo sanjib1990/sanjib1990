@@ -94,6 +94,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Chestbursters&#39; and the dark calling of the lunar underground — Commander&#39;s report: lunar day 14](https://www.space.com/hi-seas-selene-v-moon-analog-mission-commander-report-4)
+- [&#39;Fallout&#39; series from Amazon appoints showrunners, Jonathan Nolan to direct premiere](https://www.space.com/fallout-tv-show-moves-forward)
 - [&#39;We&#39;re on an incredible high&#39;: James Webb Space Telescope scientists over the moon  as observatory unfolds](https://www.space.com/james-webb-space-telescope-team-incredible-high)
 - [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
 - [Watch the James Webb Space Telescope soar through space in this livestream Saturday](https://www.space.com/virtual-telescope-project-james-webb-space-telescope-webcast)
@@ -102,8 +104,6 @@
 - [The end of the demo day, dilution and other startup accelerator resolutions](https://techcrunch.com/2022/01/08/the-end-of-the-demo-day-dilution-and-other-startup-accelerator-resolutions/)
 - [Startup accelerators’ definition of ‘value add’ is due for a refresh](https://techcrunch.com/2022/01/08/startup-accelerators-definition-of-value-add-is-due-for-a-refresh/)
 - [Primary Mirror Wings Deployed, All Major Deployments Complete](https://blogs.nasa.gov/webb/2022/01/08/primary-mirror-wings-deployed-all-major-deployments-complete/)
-- [Apple’s biggest scandal of 2022 is already happening](https://techcrunch.com/2022/01/08/apples-biggest-scandal-of-2022-is-already-happening/)
-- [Venture water, biotech investing and 2021’s carnage](https://techcrunch.com/2022/01/08/venture-water-biotech-investing-and-2021s-carnage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
