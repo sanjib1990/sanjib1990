@@ -94,16 +94,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [On This Day in Space! Jan. 9, 1643: &#39;Ashen Light&#39; discovered on Venus](https://www.space.com/39251-on-this-day-in-space.html)
+- [On China&#39;s new space station, a robotic arm test paves way for future construction](https://www.space.com/china-space-station-robotic-arm-construction-test)
+- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
+- [The James Webb Space Telescope is fully deployed. So what&#39;s next for the biggest observatory off Earth?](https://www.space.com/james-webb-space-telescope-steps-after-deployment)
 - [&#39;Chestbursters&#39; and the dark calling of the lunar underground — Commander&#39;s report: lunar day 14](https://www.space.com/hi-seas-selene-v-moon-analog-mission-commander-report-4)
 - [&#39;Fallout&#39; series from Amazon appoints showrunners, Jonathan Nolan to direct premiere](https://www.space.com/fallout-tv-show-moves-forward)
 - [&#39;We&#39;re on an incredible high&#39;: James Webb Space Telescope scientists over the moon  as observatory unfolds](https://www.space.com/james-webb-space-telescope-team-incredible-high)
-- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
 - [Watch the James Webb Space Telescope soar through space in this livestream Saturday](https://www.space.com/virtual-telescope-project-james-webb-space-telescope-webcast)
 - [James Webb Space Telescope, the biggest ever built, fully unfolds giant mirror to gaze at the cosmos](https://www.space.com/james-webb-space-telescope-fully-deployed)
 - [This Week in Apps: Instagram brings back the chronological feed, South Korea bans P2E games, Google looks for ecosystem integrations](https://techcrunch.com/2022/01/08/this-week-in-apps-instagram-brings-back-the-chronological-feed-south-korea-bans-p2e-games-google-looks-for-ecosystem-integrations/)
-- [The end of the demo day, dilution and other startup accelerator resolutions](https://techcrunch.com/2022/01/08/the-end-of-the-demo-day-dilution-and-other-startup-accelerator-resolutions/)
-- [Startup accelerators’ definition of ‘value add’ is due for a refresh](https://techcrunch.com/2022/01/08/startup-accelerators-definition-of-value-add-is-due-for-a-refresh/)
-- [Primary Mirror Wings Deployed, All Major Deployments Complete](https://blogs.nasa.gov/webb/2022/01/08/primary-mirror-wings-deployed-all-major-deployments-complete/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
