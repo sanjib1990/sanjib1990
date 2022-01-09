@@ -94,6 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;We&#39;re on an incredible high&#39;: James Webb Space Telescope scientists over the moon  as observatory unfolds](https://www.space.com/james-webb-space-telescope-team-incredible-high)
 - [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
 - [Watch the James Webb Space Telescope soar through space in this livestream Saturday](https://www.space.com/virtual-telescope-project-james-webb-space-telescope-webcast)
 - [James Webb Space Telescope, the biggest ever built, fully unfolds giant mirror to gaze at the cosmos](https://www.space.com/james-webb-space-telescope-fully-deployed)
@@ -103,7 +104,6 @@
 - [Primary Mirror Wings Deployed, All Major Deployments Complete](https://blogs.nasa.gov/webb/2022/01/08/primary-mirror-wings-deployed-all-major-deployments-complete/)
 - [Apple’s biggest scandal of 2022 is already happening](https://techcrunch.com/2022/01/08/apples-biggest-scandal-of-2022-is-already-happening/)
 - [Venture water, biotech investing and 2021’s carnage](https://techcrunch.com/2022/01/08/venture-water-biotech-investing-and-2021s-carnage/)
-- [What’s left to learn from Theranos? Have friends.](https://techcrunch.com/2022/01/08/theranos-elizabeth-holmes-startup-friends/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
