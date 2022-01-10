@@ -94,6 +94,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is cell-cultured meat ready for prime time?](https://techcrunch.com/2022/01/10/is-cell-cultured-meat-ready-for-prime-time/)
+- [Netflix gets its first Golden Globe for best motion picture &lpar;drama&rpar; in a bizarre, live tweeted event](https://techcrunch.com/2022/01/10/netflix-gets-its-first-golden-globe-for-best-motion-picture-drama-in-a-bizarre-live-tweeted-event/)
 - [Juno solves mystery of what drives Jupiter&#39;s polar cyclones](https://www.space.com/juno-solves-jupiter-cyclones-mystery)
 - [How one founder is putting the power of home ownership back in the hands of actual homeowners](https://techcrunch.com/2022/01/10/how-one-founder-is-putting-the-power-of-home-ownership-back-in-the-hands-of-actual-homeowners/)
 - [James Webb Space Telescope should have fuel for about 20 years of science](https://www.space.com/james-webb-space-telescope-fuel-20-years)
@@ -102,8 +104,6 @@
 - [Startup fundraising again sets records as public markets slash tech valuations](https://techcrunch.com/2022/01/10/startup-fundraising-again-sets-records-as-public-markets-slash-tech-valuations/)
 - [The Station: A special CES galaxy brain edition](https://techcrunch.com/2022/01/10/the-station-a-special-ces-galaxy-brain-edition/)
 - [Kodland, which teaches kids digital skills, grabs $9M to scale its online coding school](https://techcrunch.com/2022/01/10/kodland-series-a/)
-- [Equity Monday: The end of cheap money, and Take-Two buys Zynga](https://techcrunch.com/2022/01/10/equity-monday-the-end-of-cheap-money-and-take-two-buys-zynga/)
-- [Doctolib is now used by 300,000 doctors and medical workers](https://techcrunch.com/2022/01/10/doctolib-is-now-used-by-300000-doctors-and-medical-workers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
