@@ -94,16 +94,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Career Karma lands $40M to evolve into an edtech employee benefit](https://techcrunch.com/2022/01/10/career-karma-lands-40-million-to-evolve-into-a-edtech-employee-benefit/)
+- [Panasonic says hackers accessed personal data of job candidates](https://techcrunch.com/2022/01/10/panasonic-breach-data-stolen/)
+- [Should Disney reboot Alien vs. Predator?](https://www.space.com/should-disney-reboot-alien-vs-predator)
+- [Stars might be forming much faster than expected, new study suggests](https://www.space.com/stars-might-form-faster-than-expected)
 - [Is cell-cultured meat ready for prime time?](https://techcrunch.com/2022/01/10/is-cell-cultured-meat-ready-for-prime-time/)
 - [Netflix gets its first Golden Globe for best motion picture &lpar;drama&rpar; in a bizarre, live tweeted event](https://techcrunch.com/2022/01/10/netflix-gets-its-first-golden-globe-for-best-motion-picture-drama-in-a-bizarre-live-tweeted-event/)
 - [Juno solves mystery of what drives Jupiter&#39;s polar cyclones](https://www.space.com/juno-solves-jupiter-cyclones-mystery)
 - [How one founder is putting the power of home ownership back in the hands of actual homeowners](https://techcrunch.com/2022/01/10/how-one-founder-is-putting-the-power-of-home-ownership-back-in-the-hands-of-actual-homeowners/)
 - [James Webb Space Telescope should have fuel for about 20 years of science](https://www.space.com/james-webb-space-telescope-fuel-20-years)
 - [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
-- [Bitcoin slips under the $40,000 mark](https://techcrunch.com/2022/01/10/bitcoin-slips-under-the-40000-mark/)
-- [Startup fundraising again sets records as public markets slash tech valuations](https://techcrunch.com/2022/01/10/startup-fundraising-again-sets-records-as-public-markets-slash-tech-valuations/)
-- [The Station: A special CES galaxy brain edition](https://techcrunch.com/2022/01/10/the-station-a-special-ces-galaxy-brain-edition/)
-- [Kodland, which teaches kids digital skills, grabs $9M to scale its online coding school](https://techcrunch.com/2022/01/10/kodland-series-a/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
