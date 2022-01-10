@@ -94,6 +94,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Max Q: SpaceX kicks off 2022 in rocket launches](https://techcrunch.com/2022/01/10/max-q-spacex-kicks-off-2022-in-rocket-launches/)
+- [Don’t trust averages: How to assess and strengthen the health of your business](https://techcrunch.com/2022/01/10/dont-trust-averages-how-to-assess-and-strengthen-the-health-of-your-business/)
 - [Apple paid out around $60 billion to App Store developers in 2021](https://techcrunch.com/2022/01/10/apple-paid-out-around-60-billion-to-app-store-developers-in-2021/)
 - [The biggest news from CES 2022](https://techcrunch.com/2022/01/10/the-biggest-news-from-ces-2022/)
 - [Be aware: Your company is watching you](https://techcrunch.com/2022/01/10/who-watches-the-watchers/)
@@ -102,8 +104,6 @@
 - [Netflix’s ‘Hype House’ shows the dark side of the creator economy](https://techcrunch.com/2022/01/10/hype-house-creator-economy-netflix/)
 - [Following the Next Steps in Webb’s Journey](https://blogs.nasa.gov/webb/2022/01/10/following-the-next-steps-in-webbs-journey/)
 - [With funding from top investors, Gameto is aiming to delay — even eradicate — menopause](https://techcrunch.com/2022/01/10/with-funding-from-top-investors-gameto-is-aiming-to-delay-even-eradicate-menopause/)
-- [Y Combinator will now invest $500,000 in accelerator companies](https://techcrunch.com/2022/01/10/y-combinator-will-now-invest-500000-in-accelerator-companies/)
-- [Career Karma lands $40M to evolve into an edtech employee benefit](https://techcrunch.com/2022/01/10/career-karma-lands-40-million-to-evolve-into-a-edtech-employee-benefit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
