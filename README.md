@@ -94,6 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Paytm stock drops to record low](https://techcrunch.com/2022/01/10/paytm-stock-drops-to-record-low/)
 - [Nigeria’s ThankUCash secures $5.3M to build infrastructure for cashback, deals and BNPL services](https://techcrunch.com/2022/01/10/nigerias-thankucash-secures-5-3m-to-build-infrastructure-for-cashback-deals-and-bnpl-services/)
 - [Ankorstore reaches $2 billion valuation two years after launching its wholesale marketplace](https://techcrunch.com/2022/01/09/ankorstore-reaches-2-billion-valuation-two-years-after-launching-its-wholesale-marketplace/)
 - [Gillmor Gang: State Your Name](https://techcrunch.com/2022/01/09/gillmor-gang-state-your-name/)
@@ -103,7 +104,6 @@
 - [On China&#39;s new space station, a robotic arm test paves way for future construction](https://www.space.com/china-space-station-robotic-arm-construction-test)
 - [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
 - [The James Webb Space Telescope is fully deployed. So what&#39;s next for the biggest observatory off Earth?](https://www.space.com/james-webb-space-telescope-steps-after-deployment)
-- [&#39;Chestbursters&#39; and the dark calling of the lunar underground — Commander&#39;s report: lunar day 14](https://www.space.com/hi-seas-selene-v-moon-analog-mission-commander-report-4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
