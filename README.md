@@ -94,16 +94,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The biggest news from CES 2022](https://techcrunch.com/2022/01/10/the-biggest-news-from-ces-2022/)
+- [Be aware: Your company is watching you](https://techcrunch.com/2022/01/10/who-watches-the-watchers/)
+- [GM finally agrees California can set vehicle emissions rules as it preps to scale EVs](https://techcrunch.com/2022/01/10/gm-finally-agrees-california-can-set-vehicle-emissions-rules-as-it-preps-to-scale-evs/)
+- [How the mobile app ecosystem adapted to the Covid-19 pandemic in 2021](https://techcrunch.com/2022/01/10/how-the-mobile-app-ecosystem-adapted-to-the-covid-19-pandemic-in-2021/)
 - [Netflix’s ‘Hype House’ shows the dark side of the creator economy](https://techcrunch.com/2022/01/10/hype-house-creator-economy-netflix/)
 - [Following the Next Steps in Webb’s Journey](https://blogs.nasa.gov/webb/2022/01/10/following-the-next-steps-in-webbs-journey/)
 - [With funding from top investors, Gameto is aiming to delay — even eradicate — menopause](https://techcrunch.com/2022/01/10/with-funding-from-top-investors-gameto-is-aiming-to-delay-even-eradicate-menopause/)
 - [Y Combinator will now invest $500,000 in accelerator companies](https://techcrunch.com/2022/01/10/y-combinator-will-now-invest-500000-in-accelerator-companies/)
 - [Career Karma lands $40M to evolve into an edtech employee benefit](https://techcrunch.com/2022/01/10/career-karma-lands-40-million-to-evolve-into-a-edtech-employee-benefit/)
 - [Panasonic says hackers accessed personal data of job candidates](https://techcrunch.com/2022/01/10/panasonic-breach-data-stolen/)
-- [Is cell-cultured meat ready for prime time?](https://techcrunch.com/2022/01/10/is-cell-cultured-meat-ready-for-prime-time/)
-- [Netflix gets its first Golden Globe for best motion picture &lpar;drama&rpar; in a bizarre, live-tweeted event](https://techcrunch.com/2022/01/10/netflix-gets-its-first-golden-globe-for-best-motion-picture-drama-in-a-bizarre-live-tweeted-event/)
-- [Juno solves mystery of what drives Jupiter&#39;s polar cyclones](https://www.space.com/juno-solves-jupiter-cyclones-mystery)
-- [How one founder is putting the power of home ownership back in the hands of actual homeowners](https://techcrunch.com/2022/01/10/how-one-founder-is-putting-the-power-of-home-ownership-back-in-the-hands-of-actual-homeowners/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
