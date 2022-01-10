@@ -94,6 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nigeria’s ThankUCash secures $5.3M to build infrastructure for cashback, deals and BNPL services](https://techcrunch.com/2022/01/10/nigerias-thankucash-secures-5-3m-to-build-infrastructure-for-cashback-deals-and-bnpl-services/)
 - [Ankorstore reaches $2 billion valuation two years after launching its wholesale marketplace](https://techcrunch.com/2022/01/09/ankorstore-reaches-2-billion-valuation-two-years-after-launching-its-wholesale-marketplace/)
 - [Gillmor Gang: State Your Name](https://techcrunch.com/2022/01/09/gillmor-gang-state-your-name/)
 - [How ‘feature bloat’ is driving the chip shortage](https://techcrunch.com/2022/01/09/feature-bloat-cars-chip-shortage/)
@@ -103,7 +104,6 @@
 - [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
 - [The James Webb Space Telescope is fully deployed. So what&#39;s next for the biggest observatory off Earth?](https://www.space.com/james-webb-space-telescope-steps-after-deployment)
 - [&#39;Chestbursters&#39; and the dark calling of the lunar underground — Commander&#39;s report: lunar day 14](https://www.space.com/hi-seas-selene-v-moon-analog-mission-commander-report-4)
-- [&#39;Fallout&#39; series from Amazon appoints showrunners, Jonathan Nolan to direct premiere](https://www.space.com/fallout-tv-show-moves-forward)
 <!-- BLOG-POST-LIST:END -->
 
 ---
