@@ -94,6 +94,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Equity Monday: The end of cheap money, and Take-Two buys Zynga](https://techcrunch.com/2022/01/10/equity-monday-the-end-of-cheap-money-and-take-two-buys-zynga/)
+- [Doctolib is now used by 300,000 doctors and medical workers](https://techcrunch.com/2022/01/10/doctolib-is-now-used-by-300000-doctors-and-medical-workers/)
 - [AskNicely answers how companies can best connect with frontline workers](https://techcrunch.com/2022/01/10/asknicely-frontline-workers/)
 - [Best Marvel movies, ranked](https://www.space.com/best-marvel-movies-ranked)
 - [Take-Two to acquire mobile gaming giant Zynga for $12.7B](https://techcrunch.com/2022/01/10/take-two-to-acquire-mobile-gaming-giant-zynga-for-12-7b/)
@@ -102,8 +104,6 @@
 - [Tesla ‘Full Self-Driving’ beta features an ‘Assertive’ mode with rolling stops](https://techcrunch.com/2022/01/10/tesla-full-self-driving-beta-features-an-assertive-mode-with-rolling-stops/)
 - [Parrot, a tool for digitizing Mexico’s restaurants, takes in $9.5M](https://techcrunch.com/2022/01/10/parrot-a-tool-for-digitizing-mexicos-restaurants-takes-in-9-5m/)
 - [Lego Star Wars AT-AT review](https://www.space.com/lego-star-wars-at-at-walker-review-75288)
-- [Physicists crack unsolvable three-body problem using drunkard&#39;s walk](https://www.space.com/three-body-problem-solution)
-- [Yes, there is really &#39;diamond rain&#39; on Uranus and Neptune](https://www.space.com/diamond-rain-atmosphere-uranus-neptune)
 <!-- BLOG-POST-LIST:END -->
 
 ---
