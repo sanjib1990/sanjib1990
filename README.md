@@ -94,16 +94,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Physicists crack unsolvable three-body problem using drunkard&#39;s walk](https://www.space.com/three-body-problem-solution)
+- [Yes, there is really &#39;diamond rain&#39; on Uranus and Neptune](https://www.space.com/diamond-rain-atmosphere-uranus-neptune)
+- [NASA&#39;s new astronaut candidates report to Houston to begin training](https://www.space.com/nasa-astronaut-candidates-training-2022)
+- [What is the Big Bang Theory?](https://www.space.com/25126-big-bang-theory.html)
+- [Arive raises $20M for an instant delivery service beyond groceries and essentials](https://techcrunch.com/2022/01/10/arive-raises-20m-for-an-instant-delivery-service-beyond-groceries-and-essentials/)
 - [Paytm stock drops to record low](https://techcrunch.com/2022/01/10/paytm-stock-drops-to-record-low/)
 - [Nigeria’s ThankUCash secures $5.3M to build infrastructure for cashback, deals and BNPL services](https://techcrunch.com/2022/01/10/nigerias-thankucash-secures-5-3m-to-build-infrastructure-for-cashback-deals-and-bnpl-services/)
 - [Ankorstore reaches $2 billion valuation two years after launching its wholesale marketplace](https://techcrunch.com/2022/01/09/ankorstore-reaches-2-billion-valuation-two-years-after-launching-its-wholesale-marketplace/)
 - [Gillmor Gang: State Your Name](https://techcrunch.com/2022/01/09/gillmor-gang-state-your-name/)
 - [How ‘feature bloat’ is driving the chip shortage](https://techcrunch.com/2022/01/09/feature-bloat-cars-chip-shortage/)
-- [The rich get richer: Rethinking Bitcoin’s power as an inflation hedge](https://techcrunch.com/2022/01/09/the-rich-get-richer-rethinking-bitcoins-power-as-an-inflation-hedge/)
-- [On This Day in Space! Jan. 9, 1643: &#39;Ashen Light&#39; discovered on Venus](https://www.space.com/39251-on-this-day-in-space.html)
-- [On China&#39;s new space station, a robotic arm test paves way for future construction](https://www.space.com/china-space-station-robotic-arm-construction-test)
-- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
-- [The James Webb Space Telescope is fully deployed. So what&#39;s next for the biggest observatory off Earth?](https://www.space.com/james-webb-space-telescope-steps-after-deployment)
 <!-- BLOG-POST-LIST:END -->
 
 ---
