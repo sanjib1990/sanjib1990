@@ -94,16 +94,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bitcoin slips under the $40,000 mark](https://techcrunch.com/2022/01/10/bitcoin-slips-under-the-40000-mark/)
+- [Startup fundraising again sets records as public markets slash tech valuations](https://techcrunch.com/2022/01/10/startup-fundraising-again-sets-records-as-public-markets-slash-tech-valuations/)
+- [The Station: A special CES galaxy brain edition](https://techcrunch.com/2022/01/10/the-station-a-special-ces-galaxy-brain-edition/)
+- [Kodland, which teaches kids digital skills, grabs $9M to scale its online coding school](https://techcrunch.com/2022/01/10/kodland-series-a/)
 - [Equity Monday: The end of cheap money, and Take-Two buys Zynga](https://techcrunch.com/2022/01/10/equity-monday-the-end-of-cheap-money-and-take-two-buys-zynga/)
 - [Doctolib is now used by 300,000 doctors and medical workers](https://techcrunch.com/2022/01/10/doctolib-is-now-used-by-300000-doctors-and-medical-workers/)
 - [AskNicely answers how companies can best connect with frontline workers](https://techcrunch.com/2022/01/10/asknicely-frontline-workers/)
 - [Best Marvel movies, ranked](https://www.space.com/best-marvel-movies-ranked)
 - [Take-Two to acquire mobile gaming giant Zynga for $12.7B](https://techcrunch.com/2022/01/10/take-two-to-acquire-mobile-gaming-giant-zynga-for-12-7b/)
 - [On This Day in Space! Jan. 10, 1946: Radio astronomy is born!](https://www.space.com/39251-on-this-day-in-space.html)
-- [Kirk vs Picard: Who is the best Star Trek captain?](https://www.space.com/kirk-vs-picard-star-trek-captain)
-- [Tesla ‘Full Self-Driving’ beta features an ‘Assertive’ mode with rolling stops](https://techcrunch.com/2022/01/10/tesla-full-self-driving-beta-features-an-assertive-mode-with-rolling-stops/)
-- [Parrot, a tool for digitizing Mexico’s restaurants, takes in $9.5M](https://techcrunch.com/2022/01/10/parrot-a-tool-for-digitizing-mexicos-restaurants-takes-in-9-5m/)
-- [Lego Star Wars AT-AT review](https://www.space.com/lego-star-wars-at-at-walker-review-75288)
 <!-- BLOG-POST-LIST:END -->
 
 ---
