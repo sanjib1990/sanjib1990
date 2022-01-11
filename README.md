@@ -94,6 +94,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Flush with new capital, Foxtrot’s ‘convenience store of the future’ is coming to a location near you](https://techcrunch.com/2022/01/11/foxtrot-convenience-store-of-the-future/)
+- [Perseverance Mars rover collects 6th Red Planet rock sample but chokes on some pebbles](https://www.space.com/perseverance-mars-rover-sixth-rock-sample-pebbles-stuck)
 - [Arcade launches ‘try before you buy’ demo capabilities with $2.5M in new capital](https://techcrunch.com/2022/01/11/arcade-try-before-you-buy-demo/)
 - [Novo, the SMB neobank, nabs $90M at a $700M valuation](https://techcrunch.com/2022/01/11/novo-the-smb-neobank-nabs-90m-at-a-700m-valuation/)
 - [On This Day in Space! Jan. 11, 1787: William Herschel discovers 2 moons of Uranus](https://www.space.com/39251-on-this-day-in-space.html)
@@ -102,8 +104,6 @@
 - [Moon &#39;mystery hut&#39; is just a rabbit-shaped rock, Chinese rover finds](https://www.space.com/moon-mystery-hut-rabbit-shaped-rock-china-rover)
 - [Satellites reveal record high methane concentrations despite reduction pledges](https://www.space.com/climate-change-methane-high-despite-reduction-pledges)
 - [Fast-charge EV battery maker StoreDot pulls in $80M led led by Vietnam’s VinFast](https://techcrunch.com/2022/01/11/fast-charge-ev-battery-maker-storedot-pulls-in-80m-led-led-by-vietnams-vinfast/)
-- [EduMe raises $20M to scale its corporate learning platform targeting gig workers and other “deskless” employees](https://techcrunch.com/2022/01/11/edume-raises-20m-to-scale-its-corporate-learning-platform-targeting-gig-workers-and-other-deskless-employees/)
-- [GoStudent Raises $340M Series D funding round as it pushes into international markets](https://techcrunch.com/2022/01/11/gostudent-raises-340m-series-d-funding-round-as-it-pushes-into-international-markets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
