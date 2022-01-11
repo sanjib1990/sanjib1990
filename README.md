@@ -94,6 +94,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Arcade launches ‘try before you buy’ demo capabilities with $2.5M in new capital](https://techcrunch.com/2022/01/11/arcade-try-before-you-buy-demo/)
+- [Novo, the SMB neobank, nabs $90M at a $700M valuation](https://techcrunch.com/2022/01/11/novo-the-smb-neobank-nabs-90m-at-a-700m-valuation/)
 - [On This Day in Space! Jan. 11, 1787: William Herschel discovers 2 moons of Uranus](https://www.space.com/39251-on-this-day-in-space.html)
 - [China&#39;s $1 trillion &#39;artificial sun&#39; fusion reactor just got five times hotter than the sun](https://www.space.com/china-artificial-sun-fusion-reactor-five-times-hotter-than-the-sun)
 - [Drone discount: Save $52 on the Holy Stone HS720 on Amazon](https://www.space.com/holy-stone-drone-deal-amazon)
@@ -102,8 +104,6 @@
 - [Fast-charge EV battery maker StoreDot pulls in $80M led led by Vietnam’s VinFast](https://techcrunch.com/2022/01/11/fast-charge-ev-battery-maker-storedot-pulls-in-80m-led-led-by-vietnams-vinfast/)
 - [EduMe raises $20M to scale its corporate learning platform targeting gig workers and other “deskless” employees](https://techcrunch.com/2022/01/11/edume-raises-20m-to-scale-its-corporate-learning-platform-targeting-gig-workers-and-other-deskless-employees/)
 - [GoStudent Raises $340M Series D funding round as it pushes into international markets](https://techcrunch.com/2022/01/11/gostudent-raises-340m-series-d-funding-round-as-it-pushes-into-international-markets/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [Ivorian e-commerce startup ANKA, formerly Afrikrea, raises $6.2M pre-Series A](https://techcrunch.com/2022/01/11/ivorian-e-commerce-startup-anka-formerly-afrikrea-raises-6-2m-pre-series-a/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
