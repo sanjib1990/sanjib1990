@@ -94,16 +94,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;The Book of Boba Fett&#39; episode 2 kicks the live-action show up a gear and then some](https://www.space.com/book-of-boba-fett-episode-2-star-wars-recap)
+- [Here’s what happened when Mercedes-AMG got its hands on the all-electric EQS](https://techcrunch.com/2022/01/11/first-drive-2022-mercedes-amg-eqs-and-2022-mercedes-amg-sl/)
+- [Hunting galaxies far far away: Here&#39;s how anyone can explore the universe](https://www.space.com/hunting-galaxies-aladin-lite-online-tool)
+- [Save 30% on &#39;Clue: Star Wars&#39; edition on Amazon](https://www.space.com/clue-star-wars-edition-amazon-deal)
+- [Doordash co-founder and CEO joins Meta’s board of directors](https://techcrunch.com/2022/01/11/doordash-co-founder-and-ceo-joins-metas-board-of-directors/)
 - [Weird &#39;hot Jupiter&#39; exoplanet is shaped like a football](https://www.space.com/hot-jupiter-exoplanet-football-shape)
 - [The sun used to have rings like Saturn](https://www.space.com/baby-sun-had-rings-like-saturn)
 - [TechCrunch+ roundup: Cell-cultured meat, alternative financing, avoiding tech debt](https://techcrunch.com/2022/01/11/techcrunch-roundup-cell-cultured-meat-alternative-financing-avoiding-tech-debt/)
 - [Tumblr adds a sensitive content toggle on iOS to comply with App Store rules](https://techcrunch.com/2022/01/11/tumblr-sensitive-content-toggle-ios-app-store/)
 - [A &#39;rogue asteroid field&#39; almost delays the Valoria 3 analog Mars mission — Commander&#39;s Report: sol 2](https://www.space.com/hi-seas-valoria-3-mars-analog-mission-commander-report-1)
-- [A startup founder’s guide to allocating equity grants](https://techcrunch.com/2022/01/11/a-startup-founders-guide-to-allocating-equity-grants/)
-- [Back Market reaches $5.7B valuation for its refurbished device marketplace](https://techcrunch.com/2022/01/11/back-market-reaches-5-7b-valuation-for-its-refurbished-device-marketplace/)
-- [Tupu.io wants to help women thrive in tech jobs through mentorship](https://techcrunch.com/2022/01/11/tupu-io-wants-to-help-women-thrive-in-tech-jobs-through-mentorship/)
-- [Locket, an app for sharing photos to friends’ homescreens, hits the top of the App Store](https://techcrunch.com/2022/01/11/locket-an-app-for-sharing-photos-to-friends-homescreens-hits-the-top-of-the-app-store/)
-- [Twig takes $35M to turn stuff you own into a way to pay](https://techcrunch.com/2022/01/11/twig-series-a/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
