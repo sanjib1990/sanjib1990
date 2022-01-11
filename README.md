@@ -94,16 +94,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [IBM looks to sustainability with acquisition of emissions data company Envizi](https://techcrunch.com/2022/01/11/ibm-looks-to-sustainability-with-acquisition-of-emissions-data-company-envizi/)
+- [Roku adds a new ‘Live TV Zone’ to its homescreen](https://techcrunch.com/2022/01/11/roku-adds-a-new-live-tv-zone-to-its-homescreen/)
+- [NASA&#39;s newly launched X-ray space telescope is ready to start observing the cosmos](https://www.space.com/nasa-ixpe-satellite-begins-gathering-science-data)
+- [Magna acquires tech, hires engineers of autonomous vehicle startup Optimus Ride](https://techcrunch.com/2022/01/11/magna-acquires-autonomous-vehicle-startup-optimus-ride/)
+- [Orbit Fab’s on-orbit fuel shuttle will top up Astroscale’s servicing satellites](https://techcrunch.com/2022/01/11/orbit-fabs-on-orbit-fuel-shuttle-will-top-up-astroscales-servicing-satellites/)
+- [Healthcare tech platform Doctolib acquires encryption startup Tanker](https://techcrunch.com/2022/01/11/healthcare-tech-platform-doctolib-acquires-encryption-startup-tanker/)
 - [The SPAC boom was a failure, yeah?](https://techcrunch.com/2022/01/11/the-spac-boom-was-a-failure-yeah/)
 - [Powerful European Earth-observation satellite suffers anomaly in orbit](https://www.space.com/europe-sentinel-1b-earth-observation-satellite-anomaly)
 - [Australia’s Fertilis raised $2M to automate IVF embryo culturing](https://techcrunch.com/2022/01/11/fertilis-ivf-cell-culture-funding/)
 - [Turo’s S-1 filing shows that unicorns can slingshot out of the pandemic](https://techcrunch.com/2022/01/11/turos-s-1-filing-shows-that-unicorns-can-slingshot-out-of-the-pandemic/)
-- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
-- [Assemble scores $5M seed to bring order and equity to compensation](https://techcrunch.com/2022/01/11/assemble-scores-5m-seed-to-bring-order-and-equity-to-compensation/)
-- [Supermassive black hole gobbled up a star in the 1980s, and high schoolers helped discover it](https://www.space.com/scientists-missed-black-hole-eating-star)
-- [Poland’s phone spyware scandal raises doubts over 2019 election](https://techcrunch.com/2022/01/11/poland-nso-pegasus-election/)
-- [Kleiner Perkins starts 50th year with $1.8B in two new funds](https://techcrunch.com/2022/01/11/kleiner-perkins-starts-off-50th-year-with-1-8b-in-two-new-funds/)
-- [AmazeVR gets another $15M to forge the future of immersive concerts](https://techcrunch.com/2022/01/11/amazevr-gets-another-15m-to-forge-the-future-of-vr-concerts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
