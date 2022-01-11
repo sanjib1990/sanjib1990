@@ -94,6 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple to allow third party app payment options in South Korea](https://techcrunch.com/2022/01/10/apple-to-allow-third-party-app-payment-options-in-south-korea/)
 - [Bolt raises $709M at an $8.4B valuation to expand its transportation and food delivery super app](https://techcrunch.com/2022/01/10/bolt-raises-709m-at-an-8-4b-valuation-to-expand-its-transportation-and-food-delivery-super-app/)
 - [European parliament found to have broken EU rules on data transfers and cookie consents](https://techcrunch.com/2022/01/10/edps-decision-european-parliament-covid-19-test-website/)
 - [India to own 35.8% in Vodafone Idea after conversion of dues](https://techcrunch.com/2022/01/10/vodafone-idea-india-government/)
@@ -103,7 +104,6 @@
 - [3 views on CES 2022](https://techcrunch.com/2022/01/10/3-views-on-ces-2022/)
 - [Jakarta-based SME financial platform KoinWorks scoops up $108M Series C](https://techcrunch.com/2022/01/10/jakarta-based-sme-financial-platform-koinworks-scoops-up-108m-series-c/)
 - [Dallas wants to be the site of Ford and Argo AI’s next autonomous vehicle facility](https://techcrunch.com/2022/01/10/dallas-wants-to-be-the-site-of-ford-and-argo-ais-next-autonomous-vehicle-facility/)
-- [Rivian files trademark for electric bikes](https://techcrunch.com/2022/01/10/rivian-files-trademark-for-electric-bikes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
