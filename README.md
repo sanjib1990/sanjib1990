@@ -94,16 +94,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rivian produced a skosh more than 1,000 electric vehicles in 2021](https://techcrunch.com/2022/01/10/rivian-produced-a-skosh-more-than-1000-electric-vehicles-in-2021/)
+- [Moxie Marlinspike is leaving Signal; here’s where we suspect he’s headed and why](https://techcrunch.com/2022/01/10/moxie-marlinspike-is-leaving-signal-heres-where-we-suspect-hes-headed-and-why/)
+- [Peer-to-peer car-sharing company Turo files IPO to go public](https://techcrunch.com/2022/01/10/peer-to-peer-car-sharing-company-turo-files-ipo-to-go-public/)
+- [Daily Crunch: Take-Two Interactive will buy FarmVille creator Zynga for $12.7B](https://techcrunch.com/2022/01/10/daily-crunch-take-two-interactive-will-buy-farmville-creator-zynga-for-12-7b/)
 - [Max Q: SpaceX kicks off 2022 in rocket launches](https://techcrunch.com/2022/01/10/max-q-spacex-kicks-off-2022-in-rocket-launches/)
 - [Don’t trust averages: How to assess and strengthen the health of your business](https://techcrunch.com/2022/01/10/dont-trust-averages-how-to-assess-and-strengthen-the-health-of-your-business/)
 - [Apple paid out around $60 billion to App Store developers in 2021](https://techcrunch.com/2022/01/10/apple-paid-out-around-60-billion-to-app-store-developers-in-2021/)
 - [The biggest news from CES 2022](https://techcrunch.com/2022/01/10/the-biggest-news-from-ces-2022/)
 - [Be aware: Your company is watching you](https://techcrunch.com/2022/01/10/who-watches-the-watchers/)
 - [GM finally agrees California can set vehicle emissions rules as it preps to scale EVs](https://techcrunch.com/2022/01/10/gm-finally-agrees-california-can-set-vehicle-emissions-rules-as-it-preps-to-scale-evs/)
-- [How the mobile app ecosystem adapted to the COVID-19 pandemic in 2021](https://techcrunch.com/2022/01/10/how-the-mobile-app-ecosystem-adapted-to-the-covid-19-pandemic-in-2021/)
-- [Netflix’s ‘Hype House’ shows the dark side of the creator economy](https://techcrunch.com/2022/01/10/hype-house-creator-economy-netflix/)
-- [Following the Next Steps in Webb’s Journey](https://blogs.nasa.gov/webb/2022/01/10/following-the-next-steps-in-webbs-journey/)
-- [With funding from top investors, Gameto is aiming to delay — even eradicate — menopause](https://techcrunch.com/2022/01/10/with-funding-from-top-investors-gameto-is-aiming-to-delay-even-eradicate-menopause/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
