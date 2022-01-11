@@ -94,6 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Weird &#39;hot Jupiter&#39; exoplanet is shaped like a football](https://www.space.com/hot-jupiter-exoplanet-football-shape)
 - [The sun used to have rings like Saturn](https://www.space.com/baby-sun-had-rings-like-saturn)
 - [TechCrunch+ roundup: Cell-cultured meat, alternative financing, avoiding tech debt](https://techcrunch.com/2022/01/11/techcrunch-roundup-cell-cultured-meat-alternative-financing-avoiding-tech-debt/)
 - [Tumblr adds a sensitive content toggle on iOS to comply with App Store rules](https://techcrunch.com/2022/01/11/tumblr-sensitive-content-toggle-ios-app-store/)
@@ -103,7 +104,6 @@
 - [Tupu.io wants to help women thrive in tech jobs through mentorship](https://techcrunch.com/2022/01/11/tupu-io-wants-to-help-women-thrive-in-tech-jobs-through-mentorship/)
 - [Locket, an app for sharing photos to friends’ homescreens, hits the top of the App Store](https://techcrunch.com/2022/01/11/locket-an-app-for-sharing-photos-to-friends-homescreens-hits-the-top-of-the-app-store/)
 - [Twig takes $35M to turn stuff you own into a way to pay](https://techcrunch.com/2022/01/11/twig-series-a/)
-- [China’s Chang’e-5 probe finds on-site evidence of water on the Moon’s surface](https://techcrunch.com/2022/01/11/chinas-change-5-probe-finds-on-site-evidence-of-water-on-the-moons-surface/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
