@@ -94,6 +94,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A &#39;rogue asteroid field&#39; almost delays the Valoria 3 analog Mars mission — Commander&#39;s Report: sol 2](https://www.space.com/hi-seas-valoria-3-mars-analog-mission-commander-report-1)
+- [A startup founder’s guide to allocating equity grants](https://techcrunch.com/2022/01/11/a-startup-founders-guide-to-allocating-equity-grants/)
 - [Back Market reaches $5.7B valuation for its refurbished device marketplace](https://techcrunch.com/2022/01/11/back-market-reaches-5-7b-valuation-for-its-refurbished-device-marketplace/)
 - [Tupu.io wants to help women thrive in tech jobs through mentorship](https://techcrunch.com/2022/01/11/tupu-io-wants-to-help-women-thrive-in-tech-jobs-through-mentorship/)
 - [Locket, an app for sharing photos to friends’ homescreens, hits the top of the App Store](https://techcrunch.com/2022/01/11/locket-an-app-for-sharing-photos-to-friends-homescreens-hits-the-top-of-the-app-store/)
@@ -102,8 +104,6 @@
 - [Second Amazon warehouse union vote planned for next month via mail-in ballot](https://techcrunch.com/2022/01/11/second-amazon-warehouse-union-vote-planned-for-next-month-via-mail-in-ballot/)
 - [IBM looks to sustainability with acquisition of emissions data company Envizi](https://techcrunch.com/2022/01/11/ibm-looks-to-sustainability-with-acquisition-of-emissions-data-company-envizi/)
 - [Roku adds a new ‘Live TV Zone’ to its homescreen](https://techcrunch.com/2022/01/11/roku-adds-a-new-live-tv-zone-to-its-homescreen/)
-- [NASA&#39;s newly launched X-ray space telescope is ready to start observing the cosmos](https://www.space.com/nasa-ixpe-satellite-begins-gathering-science-data)
-- [Magna acquires tech, hires engineers of autonomous vehicle startup Optimus Ride](https://techcrunch.com/2022/01/11/magna-acquires-autonomous-vehicle-startup-optimus-ride/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
