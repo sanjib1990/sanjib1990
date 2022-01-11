@@ -94,16 +94,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [On This Day in Space! Jan. 11, 1787: William Herschel discovers 2 moons of Uranus](https://www.space.com/39251-on-this-day-in-space.html)
+- [China&#39;s $1 trillion &#39;artificial sun&#39; fusion reactor just got five times hotter than the sun](https://www.space.com/china-artificial-sun-fusion-reactor-five-times-hotter-than-the-sun)
+- [Drone discount: Save $52 on the Holy Stone HS720 on Amazon](https://www.space.com/holy-stone-drone-deal-amazon)
+- [Moon &#39;mystery hut&#39; is just a rabbit-shaped rock, Chinese rover finds](https://www.space.com/moon-mystery-hut-rabbit-shaped-rock-china-rover)
+- [Satellites reveal record high methane concentrations despite reduction pledges](https://www.space.com/climate-change-methane-high-despite-reduction-pledges)
+- [Fast-charge EV battery maker StoreDot pulls in $80M led led by Vietnam’s VinFast](https://techcrunch.com/2022/01/11/fast-charge-ev-battery-maker-storedot-pulls-in-80m-led-led-by-vietnams-vinfast/)
+- [EduMe raises $20M to scale its corporate learning platform targeting gig workers and other “deskless” employees](https://techcrunch.com/2022/01/11/edume-raises-20m-to-scale-its-corporate-learning-platform-targeting-gig-workers-and-other-deskless-employees/)
 - [GoStudent Raises $340M Series D funding round as it pushes into international markets](https://techcrunch.com/2022/01/11/gostudent-raises-340m-series-d-funding-round-as-it-pushes-into-international-markets/)
 - [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [Ivorian e-commerce startup ANKA, formerly Afrikrea, raises $6.2M pre-Series A](https://techcrunch.com/2022/01/11/ivorian-e-commerce-startup-anka-formerly-afrikrea-raises-6-2m-pre-series-a/)
-- [MOSTLY AI raises $25 million to further commercialize synthetic data in Europe and the US](https://techcrunch.com/2022/01/11/mostly-ai-raises-25-million-to-further-commercialize-synthetic-data-in-europe-and-the-u-s/)
-- [Fintech Brex confirms $12.3B valuation, snaps up Meta exec to serve as its head of product](https://techcrunch.com/2022/01/11/brex-confirms-12-3b-valuation-hires-meta-exec-to-serve-as-its-chief-product-officer/)
-- [Apple to allow third party app payment options in South Korea](https://techcrunch.com/2022/01/10/apple-to-allow-third-party-app-payment-options-in-south-korea/)
-- [Bolt raises $709M at an $8.4B valuation to expand its transportation and food delivery super app](https://techcrunch.com/2022/01/10/bolt-raises-709m-at-an-8-4b-valuation-to-expand-its-transportation-and-food-delivery-super-app/)
-- [European parliament found to have broken EU rules on data transfers and cookie consents](https://techcrunch.com/2022/01/10/edps-decision-european-parliament-covid-19-test-website/)
-- [India to own 35.8% in Vodafone Idea after conversion of dues](https://techcrunch.com/2022/01/10/vodafone-idea-india-government/)
-- [Business banking startup Qonto raises $552 million at $5 billion valuation](https://techcrunch.com/2022/01/10/business-banking-startup-qonto-raises-552-million-at-5-billion-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
