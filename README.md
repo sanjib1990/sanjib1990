@@ -94,6 +94,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bolt raises $709M at an $8.4B valuation to expand its transportation and food delivery super app](https://techcrunch.com/2022/01/10/bolt-raises-709m-at-an-8-4b-valuation-to-expand-its-transportation-and-food-delivery-super-app/)
+- [European parliament found to have broken EU rules on data transfers and cookie consents](https://techcrunch.com/2022/01/10/edps-decision-european-parliament-covid-19-test-website/)
+- [India to own 35.8% in Vodafone Idea after conversion of dues](https://techcrunch.com/2022/01/10/vodafone-idea-india-government/)
 - [Business banking startup Qonto raises $552 million at $5 billion valuation](https://techcrunch.com/2022/01/10/business-banking-startup-qonto-raises-552-million-at-5-billion-valuation/)
 - [Indonesia’s eFishery raises $90M from Temasek, SoftBank Vision Fund 2 and Sequoia Capital India](https://techcrunch.com/2022/01/10/indonesias-efishery-raises-90m-from-temasek-softbank-vision-fund-2-and-sequoia-capital-india/)
 - [The road to disastrous biometric data collection is paved with good intentions](https://techcrunch.com/2022/01/10/the-road-to-disastrous-biometric-data-collection-is-paved-with-good-intentions/)
@@ -101,9 +104,6 @@
 - [Jakarta-based SME financial platform KoinWorks scoops up $108M Series C](https://techcrunch.com/2022/01/10/jakarta-based-sme-financial-platform-koinworks-scoops-up-108m-series-c/)
 - [Dallas wants to be the site of Ford and Argo AI’s next autonomous vehicle facility](https://techcrunch.com/2022/01/10/dallas-wants-to-be-the-site-of-ford-and-argo-ais-next-autonomous-vehicle-facility/)
 - [Rivian files trademark for electric bikes](https://techcrunch.com/2022/01/10/rivian-files-trademark-for-electric-bikes/)
-- [Rivian produced a skosh more than 1,000 electric vehicles in 2021](https://techcrunch.com/2022/01/10/rivian-produced-a-skosh-more-than-1000-electric-vehicles-in-2021/)
-- [Moxie Marlinspike is leaving Signal](https://techcrunch.com/2022/01/10/moxie-marlinspike-is-leaving-signal-heres-where-we-suspect-hes-headed-and-why/)
-- [Peer-to-peer car-sharing company Turo files IPO to go public](https://techcrunch.com/2022/01/10/peer-to-peer-car-sharing-company-turo-files-ipo-to-go-public/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
