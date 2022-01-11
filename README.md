@@ -94,6 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Indonesia’s eFishery raises $90M from Temasek, SoftBank Vision Fund 2 and Sequoia Capital India](https://techcrunch.com/2022/01/10/indonesias-efishery-raises-90m-from-temasek-softbank-vision-fund-2-and-sequoia-capital-india/)
 - [The road to disastrous biometric data collection is paved with good intentions](https://techcrunch.com/2022/01/10/the-road-to-disastrous-biometric-data-collection-is-paved-with-good-intentions/)
 - [3 views on CES 2022](https://techcrunch.com/2022/01/10/3-views-on-ces-2022/)
 - [Jakarta-based SME financial platform KoinWorks scoops up $108M Series C](https://techcrunch.com/2022/01/10/jakarta-based-sme-financial-platform-koinworks-scoops-up-108m-series-c/)
@@ -103,7 +104,6 @@
 - [Moxie Marlinspike is leaving Signal](https://techcrunch.com/2022/01/10/moxie-marlinspike-is-leaving-signal-heres-where-we-suspect-hes-headed-and-why/)
 - [Peer-to-peer car-sharing company Turo files IPO to go public](https://techcrunch.com/2022/01/10/peer-to-peer-car-sharing-company-turo-files-ipo-to-go-public/)
 - [Daily Crunch: Take-Two Interactive will buy FarmVille creator Zynga for $12.7B](https://techcrunch.com/2022/01/10/daily-crunch-take-two-interactive-will-buy-farmville-creator-zynga-for-12-7b/)
-- [Max Q: SpaceX kicks off 2022 in rocket launches](https://techcrunch.com/2022/01/10/max-q-spacex-kicks-off-2022-in-rocket-launches/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
