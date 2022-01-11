@@ -94,16 +94,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Assemble scores $5M seed to bring order and equity to compensation](https://techcrunch.com/2022/01/11/assemble-scores-5m-seed-to-bring-order-and-equity-to-compensation/)
+- [Supermassive black hole gobbled up a star in the 1980s, and high schoolers helped discover it](https://www.space.com/scientists-missed-black-hole-eating-star)
+- [Poland’s phone spyware scandal raises doubts over 2019 election](https://techcrunch.com/2022/01/11/poland-nso-pegasus-election/)
+- [Kleiner Perkins starts 50th year with $1.8B in two new funds](https://techcrunch.com/2022/01/11/kleiner-perkins-starts-off-50th-year-with-1-8b-in-two-new-funds/)
+- [AmazeVR gets another $15M to forge the future of immersive concerts](https://techcrunch.com/2022/01/11/amazevr-gets-another-15m-to-forge-the-future-of-vr-concerts/)
 - [Flush with new capital, Foxtrot’s ‘convenience store of the future’ is coming to a location near you](https://techcrunch.com/2022/01/11/foxtrot-convenience-store-of-the-future/)
 - [Perseverance Mars rover collects 6th Red Planet rock sample but chokes on some pebbles](https://www.space.com/perseverance-mars-rover-sixth-rock-sample-pebbles-stuck)
 - [Arcade launches ‘try before you buy’ demo capabilities with $2.5M in new capital](https://techcrunch.com/2022/01/11/arcade-try-before-you-buy-demo/)
 - [Novo, the SMB neobank, nabs $90M at a $700M valuation](https://techcrunch.com/2022/01/11/novo-the-smb-neobank-nabs-90m-at-a-700m-valuation/)
 - [On This Day in Space! Jan. 11, 1787: William Herschel discovers 2 moons of Uranus](https://www.space.com/39251-on-this-day-in-space.html)
-- [China&#39;s $1 trillion &#39;artificial sun&#39; fusion reactor just got five times hotter than the sun](https://www.space.com/china-artificial-sun-fusion-reactor-five-times-hotter-than-the-sun)
-- [Drone discount: Save $52 on the Holy Stone HS720 on Amazon](https://www.space.com/holy-stone-drone-deal-amazon)
-- [Moon &#39;mystery hut&#39; is just a rabbit-shaped rock, Chinese rover finds](https://www.space.com/moon-mystery-hut-rabbit-shaped-rock-china-rover)
-- [Satellites reveal record high methane concentrations despite reduction pledges](https://www.space.com/climate-change-methane-high-despite-reduction-pledges)
-- [Fast-charge EV battery maker StoreDot pulls in $80M led led by Vietnam’s VinFast](https://techcrunch.com/2022/01/11/fast-charge-ev-battery-maker-storedot-pulls-in-80m-led-led-by-vietnams-vinfast/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
