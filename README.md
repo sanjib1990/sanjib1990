@@ -94,6 +94,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The road to disastrous biometric data collection is paved with good intentions](https://techcrunch.com/2022/01/10/the-road-to-disastrous-biometric-data-collection-is-paved-with-good-intentions/)
+- [3 views on CES 2022](https://techcrunch.com/2022/01/10/3-views-on-ces-2022/)
 - [Jakarta-based SME financial platform KoinWorks scoops up $108M Series C](https://techcrunch.com/2022/01/10/jakarta-based-sme-financial-platform-koinworks-scoops-up-108m-series-c/)
 - [Dallas wants to be the site of Ford and Argo AI’s next autonomous vehicle facility](https://techcrunch.com/2022/01/10/dallas-wants-to-be-the-site-of-ford-and-argo-ais-next-autonomous-vehicle-facility/)
 - [Rivian files trademark for electric bikes](https://techcrunch.com/2022/01/10/rivian-files-trademark-for-electric-bikes/)
@@ -102,8 +104,6 @@
 - [Peer-to-peer car-sharing company Turo files IPO to go public](https://techcrunch.com/2022/01/10/peer-to-peer-car-sharing-company-turo-files-ipo-to-go-public/)
 - [Daily Crunch: Take-Two Interactive will buy FarmVille creator Zynga for $12.7B](https://techcrunch.com/2022/01/10/daily-crunch-take-two-interactive-will-buy-farmville-creator-zynga-for-12-7b/)
 - [Max Q: SpaceX kicks off 2022 in rocket launches](https://techcrunch.com/2022/01/10/max-q-spacex-kicks-off-2022-in-rocket-launches/)
-- [Don’t trust averages: How to assess and strengthen the health of your business](https://techcrunch.com/2022/01/10/dont-trust-averages-how-to-assess-and-strengthen-the-health-of-your-business/)
-- [Apple paid out around $60 billion to App Store developers in 2021](https://techcrunch.com/2022/01/10/apple-paid-out-around-60-billion-to-app-store-developers-in-2021/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
