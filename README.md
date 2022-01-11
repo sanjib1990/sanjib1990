@@ -94,16 +94,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The SPAC boom was a failure, yeah?](https://techcrunch.com/2022/01/11/the-spac-boom-was-a-failure-yeah/)
+- [Powerful European Earth-observation satellite suffers anomaly in orbit](https://www.space.com/europe-sentinel-1b-earth-observation-satellite-anomaly)
+- [Australia’s Fertilis raised $2M to automate IVF embryo culturing](https://techcrunch.com/2022/01/11/fertilis-ivf-cell-culture-funding/)
+- [Turo’s S-1 filing shows that unicorns can slingshot out of the pandemic](https://techcrunch.com/2022/01/11/turos-s-1-filing-shows-that-unicorns-can-slingshot-out-of-the-pandemic/)
+- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
 - [Assemble scores $5M seed to bring order and equity to compensation](https://techcrunch.com/2022/01/11/assemble-scores-5m-seed-to-bring-order-and-equity-to-compensation/)
 - [Supermassive black hole gobbled up a star in the 1980s, and high schoolers helped discover it](https://www.space.com/scientists-missed-black-hole-eating-star)
 - [Poland’s phone spyware scandal raises doubts over 2019 election](https://techcrunch.com/2022/01/11/poland-nso-pegasus-election/)
 - [Kleiner Perkins starts 50th year with $1.8B in two new funds](https://techcrunch.com/2022/01/11/kleiner-perkins-starts-off-50th-year-with-1-8b-in-two-new-funds/)
 - [AmazeVR gets another $15M to forge the future of immersive concerts](https://techcrunch.com/2022/01/11/amazevr-gets-another-15m-to-forge-the-future-of-vr-concerts/)
-- [Flush with new capital, Foxtrot’s ‘convenience store of the future’ is coming to a location near you](https://techcrunch.com/2022/01/11/foxtrot-convenience-store-of-the-future/)
-- [Perseverance Mars rover collects 6th Red Planet rock sample but chokes on some pebbles](https://www.space.com/perseverance-mars-rover-sixth-rock-sample-pebbles-stuck)
-- [Arcade launches ‘try before you buy’ demo capabilities with $2.5M in new capital](https://techcrunch.com/2022/01/11/arcade-try-before-you-buy-demo/)
-- [Novo, the SMB neobank, nabs $90M at a $700M valuation](https://techcrunch.com/2022/01/11/novo-the-smb-neobank-nabs-90m-at-a-700m-valuation/)
-- [On This Day in Space! Jan. 11, 1787: William Herschel discovers 2 moons of Uranus](https://www.space.com/39251-on-this-day-in-space.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
