@@ -94,8 +94,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [Ivorian e-commerce startup ANKA, formerly Afrikrea, raises $6.2M pre-Series A](https://techcrunch.com/2022/01/11/ivorian-e-commerce-startup-anka-formerly-afrikrea-raises-6-2m-pre-series-a/)
-- [MOSTLY AI raises $25 million to further commercialize synthetic data in Europe and the U.S.](https://techcrunch.com/2022/01/11/mostly-ai-raises-25-million-to-further-commercialize-synthetic-data-in-europe-and-the-u-s/)
+- [MOSTLY AI raises $25 million to further commercialize synthetic data in Europe and the US](https://techcrunch.com/2022/01/11/mostly-ai-raises-25-million-to-further-commercialize-synthetic-data-in-europe-and-the-u-s/)
 - [Fintech Brex confirms $12.3B valuation, snaps up Meta exec to serve as its head of product](https://techcrunch.com/2022/01/11/brex-confirms-12-3b-valuation-hires-meta-exec-to-serve-as-its-chief-product-officer/)
 - [Apple to allow third party app payment options in South Korea](https://techcrunch.com/2022/01/10/apple-to-allow-third-party-app-payment-options-in-south-korea/)
 - [Bolt raises $709M at an $8.4B valuation to expand its transportation and food delivery super app](https://techcrunch.com/2022/01/10/bolt-raises-709m-at-an-8-4b-valuation-to-expand-its-transportation-and-food-delivery-super-app/)
@@ -103,7 +104,6 @@
 - [India to own 35.8% in Vodafone Idea after conversion of dues](https://techcrunch.com/2022/01/10/vodafone-idea-india-government/)
 - [Business banking startup Qonto raises $552 million at $5 billion valuation](https://techcrunch.com/2022/01/10/business-banking-startup-qonto-raises-552-million-at-5-billion-valuation/)
 - [Indonesia’s eFishery raises $90M from Temasek, SoftBank Vision Fund 2 and Sequoia Capital India](https://techcrunch.com/2022/01/10/indonesias-efishery-raises-90m-from-temasek-softbank-vision-fund-2-and-sequoia-capital-india/)
-- [The road to disastrous biometric data collection is paved with good intentions](https://techcrunch.com/2022/01/10/the-road-to-disastrous-biometric-data-collection-is-paved-with-good-intentions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
