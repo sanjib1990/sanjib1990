@@ -94,6 +94,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Back Market reaches $5.7B valuation for its refurbished device marketplace](https://techcrunch.com/2022/01/11/back-market-reaches-5-7b-valuation-for-its-refurbished-device-marketplace/)
+- [Tupu.io wants to help women thrive in tech jobs through mentorship](https://techcrunch.com/2022/01/11/tupu-io-wants-to-help-women-thrive-in-tech-jobs-through-mentorship/)
 - [Locket, an app for sharing photos to friends’ homescreens, hits the top of the App Store](https://techcrunch.com/2022/01/11/locket-an-app-for-sharing-photos-to-friends-homescreens-hits-the-top-of-the-app-store/)
 - [Twig takes $35M to turn stuff you own into a way to pay](https://techcrunch.com/2022/01/11/twig-series-a/)
 - [China’s Chang’e-5 probe finds on-site evidence of water on the Moon’s surface](https://techcrunch.com/2022/01/11/chinas-change-5-probe-finds-on-site-evidence-of-water-on-the-moons-surface/)
@@ -102,8 +104,6 @@
 - [Roku adds a new ‘Live TV Zone’ to its homescreen](https://techcrunch.com/2022/01/11/roku-adds-a-new-live-tv-zone-to-its-homescreen/)
 - [NASA&#39;s newly launched X-ray space telescope is ready to start observing the cosmos](https://www.space.com/nasa-ixpe-satellite-begins-gathering-science-data)
 - [Magna acquires tech, hires engineers of autonomous vehicle startup Optimus Ride](https://techcrunch.com/2022/01/11/magna-acquires-autonomous-vehicle-startup-optimus-ride/)
-- [Orbit Fab’s on-orbit fuel shuttle will top up Astroscale’s servicing satellites](https://techcrunch.com/2022/01/11/orbit-fabs-on-orbit-fuel-shuttle-will-top-up-astroscales-servicing-satellites/)
-- [Healthcare tech platform Doctolib acquires encryption startup Tanker](https://techcrunch.com/2022/01/11/healthcare-tech-platform-doctolib-acquires-encryption-startup-tanker/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
