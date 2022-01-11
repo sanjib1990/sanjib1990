@@ -94,16 +94,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Locket, an app for sharing photos to friends’ homescreens, hits the top of the App Store](https://techcrunch.com/2022/01/11/locket-an-app-for-sharing-photos-to-friends-homescreens-hits-the-top-of-the-app-store/)
+- [Twig takes $35M to turn stuff you own into a way to pay](https://techcrunch.com/2022/01/11/twig-series-a/)
+- [China’s Chang’e-5 probe finds on-site evidence of water on the Moon’s surface](https://techcrunch.com/2022/01/11/chinas-change-5-probe-finds-on-site-evidence-of-water-on-the-moons-surface/)
+- [Second Amazon warehouse union vote planned for next month via mail-in ballot](https://techcrunch.com/2022/01/11/second-amazon-warehouse-union-vote-planned-for-next-month-via-mail-in-ballot/)
 - [IBM looks to sustainability with acquisition of emissions data company Envizi](https://techcrunch.com/2022/01/11/ibm-looks-to-sustainability-with-acquisition-of-emissions-data-company-envizi/)
 - [Roku adds a new ‘Live TV Zone’ to its homescreen](https://techcrunch.com/2022/01/11/roku-adds-a-new-live-tv-zone-to-its-homescreen/)
 - [NASA&#39;s newly launched X-ray space telescope is ready to start observing the cosmos](https://www.space.com/nasa-ixpe-satellite-begins-gathering-science-data)
 - [Magna acquires tech, hires engineers of autonomous vehicle startup Optimus Ride](https://techcrunch.com/2022/01/11/magna-acquires-autonomous-vehicle-startup-optimus-ride/)
 - [Orbit Fab’s on-orbit fuel shuttle will top up Astroscale’s servicing satellites](https://techcrunch.com/2022/01/11/orbit-fabs-on-orbit-fuel-shuttle-will-top-up-astroscales-servicing-satellites/)
 - [Healthcare tech platform Doctolib acquires encryption startup Tanker](https://techcrunch.com/2022/01/11/healthcare-tech-platform-doctolib-acquires-encryption-startup-tanker/)
-- [The SPAC boom was a failure, yeah?](https://techcrunch.com/2022/01/11/the-spac-boom-was-a-failure-yeah/)
-- [Powerful European Earth-observation satellite suffers anomaly in orbit](https://www.space.com/europe-sentinel-1b-earth-observation-satellite-anomaly)
-- [Australia’s Fertilis raised $2M to automate IVF embryo culturing](https://techcrunch.com/2022/01/11/fertilis-ivf-cell-culture-funding/)
-- [Turo’s S-1 filing shows that unicorns can slingshot out of the pandemic](https://techcrunch.com/2022/01/11/turos-s-1-filing-shows-that-unicorns-can-slingshot-out-of-the-pandemic/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
