@@ -94,6 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GoStudent Raises $340M Series D funding round as it pushes into international markets](https://techcrunch.com/2022/01/11/gostudent-raises-340m-series-d-funding-round-as-it-pushes-into-international-markets/)
 - [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [Ivorian e-commerce startup ANKA, formerly Afrikrea, raises $6.2M pre-Series A](https://techcrunch.com/2022/01/11/ivorian-e-commerce-startup-anka-formerly-afrikrea-raises-6-2m-pre-series-a/)
 - [MOSTLY AI raises $25 million to further commercialize synthetic data in Europe and the US](https://techcrunch.com/2022/01/11/mostly-ai-raises-25-million-to-further-commercialize-synthetic-data-in-europe-and-the-u-s/)
@@ -103,7 +104,6 @@
 - [European parliament found to have broken EU rules on data transfers and cookie consents](https://techcrunch.com/2022/01/10/edps-decision-european-parliament-covid-19-test-website/)
 - [India to own 35.8% in Vodafone Idea after conversion of dues](https://techcrunch.com/2022/01/10/vodafone-idea-india-government/)
 - [Business banking startup Qonto raises $552 million at $5 billion valuation](https://techcrunch.com/2022/01/10/business-banking-startup-qonto-raises-552-million-at-5-billion-valuation/)
-- [Indonesia’s eFishery raises $90M from Temasek, SoftBank Vision Fund 2 and Sequoia Capital India](https://techcrunch.com/2022/01/10/indonesias-efishery-raises-90m-from-temasek-softbank-vision-fund-2-and-sequoia-capital-india/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
