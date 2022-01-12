@@ -94,16 +94,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Nigeria lifts ban on Twitter, says the social media giant has met some conditions](https://techcrunch.com/2022/01/12/nigeria-lifts-ban-on-twitter-says-the-social-media-giant-has-met-some-conditions/)
+- [Music app AmpMe lowers pricing after accused of being an App Store scammer](https://techcrunch.com/2022/01/12/music-app-ampme-lowers-pricing-after-accused-of-being-an-app-store-scammer/)
+- [Setting up high-conversion lead magnets that deliver value](https://techcrunch.com/2022/01/12/setting-up-high-conversion-lead-magnets-that-deliver-value/)
+- [NASA getting SLS megarockets ready for crewed moon missions](https://www.space.com/nasa-building-sls-megarockets-crewed-moon-missions)
+- [Nigeria lifts ban on Twitter, says the social media giant has met conditions](https://techcrunch.com/2022/01/12/nigeria-lifts-ban-on-twitter-says-the-social-media-giant-has-met-some-conditions/)
 - [Fact-checkers write open letter urging YouTube to get serious about COVID misinformation](https://techcrunch.com/2022/01/12/youtube-covid-misinformation-fact-checkers-letter/)
 - [The metaverse will be filled with ‘elves’](https://techcrunch.com/2022/01/12/the-metaverse-will-be-filled-with-elves/)
 - [FCC proposes stricter requirements for reporting data breaches](https://techcrunch.com/2022/01/12/fcc-proposes-stricter-requirements-for-reporting-data-breaches/)
 - [James Webb Space Telescope begins lining up its golden mirrors](https://www.space.com/james-webb-space-telescope-begins-mirror-alignment)
 - [A 3,400-foot-wide asteroid will make a safe flyby of Earth next week](https://www.space.com/mile-wide-asteroid-safe-flyby)
 - [Unicorn exits augur poorly as Justworks delays IPO, citing ‘market conditions’](https://techcrunch.com/2022/01/12/unicorn-exits-augur-poorly-as-justworks-delays-ipo-citing-market-conditions/)
-- [Dorm Room Fund returns to campus with new $10.4 million fund](https://techcrunch.com/2022/01/12/dorm-room-fund-returns-to-campus-with-new-10-4-million-fund/)
-- [NASA&#39;s InSight Mars lander hunkering down in Red Planet dust storm](https://www.space.com/nasa-insight-lander-safe-mode-dust-storm)
-- [Magic Leap grants healthcare startups access to its new AR headset ahead of mid-2022 release](https://techcrunch.com/2022/01/12/magic-leap-grants-healthcare-startups-access-to-its-new-ar-headset-ahead-of-mid-2022-release/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
