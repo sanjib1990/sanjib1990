@@ -94,6 +94,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s InSight Mars lander hunkering down in Red Planet dust storm](https://www.space.com/nasa-insight-lander-safe-mode-dust-storm)
+- [Magic Leap grants healthcare startups access to its new AR headset ahead of mid-2022 release](https://techcrunch.com/2022/01/12/magic-leap-grants-healthcare-startups-access-to-its-new-ar-headset-ahead-of-mid-2022-release/)
+- [Apple releases iOS 15.2.1 to patch iPhones and iPads against HomeKit flaw](https://techcrunch.com/2022/01/12/apple-ios-ipad-homekit-flaw/)
 - [HomeValet launches its $499 Smart Box to keep your grocery deliveries cold and packages secure](https://techcrunch.com/2022/01/12/homevalet-launches-its-499-smart-box-to-keep-your-grocery-deliveries-cold-and-packages-secure/)
 - [Webb Begins Its Months-Long Mirror Alignment](https://blogs.nasa.gov/webb/2022/01/12/webb-begins-its-months-long-mirror-alignment/)
 - [Omnichannel customer messaging platform Superchat raises $15.6M round led by Blossom](https://techcrunch.com/2022/01/12/omnichannel-customer-messaging-platform-superchat-raises-15-6m-round-led-by-blossom/)
@@ -101,9 +104,6 @@
 - [Wordle is tech born of love that asks nothing in return](https://techcrunch.com/2022/01/12/josh-wardle-interview-wordle/)
 - [Giant galactic bubble is driving star formation, new study finds](https://www.space.com/local-bubble-drives-star-formation-new-study)
 - [Dear Sophie: Do we need a visa to explore the US market?](https://techcrunch.com/2022/01/12/dear-sophie-do-we-need-a-visa-to-explore-the-us-market/)
-- [AI-powered transcription platform DeepScribe raises $30M to unburden doctors from tedious data entry](https://techcrunch.com/2022/01/12/ai-powered-transcription-platform-deepscribe-raises-30m-to-unburden-doctors-from-tedious-data-entry/)
-- [New NASA chief scientist pledges a plan to renew agency&#39;s Earth satellite fleet](https://www.space.com/nasa-earth-satellite-renewal-climate-advisor-chief-scientist)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
