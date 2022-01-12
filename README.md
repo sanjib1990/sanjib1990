@@ -94,16 +94,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New NASA chief scientist pledges a plan to renew agency&#39;s Earth satellite fleet](https://www.space.com/nasa-earth-satellite-renewal-climate-advisor-chief-scientist)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [Canalys: Worldwide PC shipments soared in 2021 to 341 million units](https://techcrunch.com/2022/01/12/canalys-worldwide-pc-shipments-soared-in-2021-to-341-million-units/)
+- [Data show 2021 was a bonkers, record-setting year for venture capital](https://techcrunch.com/2022/01/12/data-show-2021-was-a-bonkers-record-setting-year-for-venture-capital/)
+- [Instagram, still benefitting from TikTok’s ban in India, again became the top app by downloads in Q4](https://techcrunch.com/2022/01/12/instagram-still-benefitting-from-tiktoks-ban-in-india-again-become-the-top-app-by-downloads-in-q4/)
 - [How to see and track the International Space Station &lpar;ISS&rpar;](https://www.space.com/how-to-track-the-international-space-station)
 - [China&#39;s Chang&#39;e 5 lunar lander is first to find water on the moon up close](https://www.space.com/china-change-5-lander-finds-water-moon)
 - [Would you marry your investors?](https://techcrunch.com/2022/01/12/would-you-marry-your-investors/)
 - [Jitterbit acquires low-code service PrimeApps](https://techcrunch.com/2022/01/12/jitterbit-acquires-low-code-service-primeapps/)
 - [The Milky Way&#39;s supermassive black hole is leaking gas](https://www.space.com/supermassive-black-hole-leaking-in-milky-way)
-- [Merit grabs $50M Series B to expand digital credentials platform](https://techcrunch.com/2022/01/12/merit-grabs-50m-series-b-to-expand-digital-credentials-platform/)
-- [Google offers not to put News Showcase into search results in Germany as antitrust probe rolls on](https://techcrunch.com/2022/01/12/google-news-showcase-fco-offers/)
-- [Masters, an app for training with celeb athletes, closes a $2.7M Seed funding round](https://techcrunch.com/2022/01/12/masters-an-app-for-training-with-celeb-athletes-closes-a-2-7m-seed-funding-round/)
-- [Nuro’s newest autonomous delivery bot is designed for the masses](https://techcrunch.com/2022/01/12/nuro-autonomous-delivery-bot-launch/)
-- [Eureka raises $8M for its data cloud security platform](https://techcrunch.com/2022/01/12/eureka-raises-8m-for-its-data-cloud-security-platform/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
