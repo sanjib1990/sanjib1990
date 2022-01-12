@@ -94,6 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India’s Refyne raises $82 million to help workers get faster access to wages](https://techcrunch.com/2022/01/11/refyne-tiger-global-earned-wage-access-india/)
 - [Despite blockchain gaming’s play-to-earn angle, I prefer to pay](https://techcrunch.com/2022/01/11/despite-blockchain-gamings-play-to-earn-angle-i-prefer-to-pay/)
 - [Blockchain gaming survey: 7 investors discuss regulation, opportunities and NFT hype](https://techcrunch.com/2022/01/11/blockchain-gaming-survey-7-investors-discuss-regulation-opportunities-and-nft-hype/)
 - [Harry’s files paperwork for fresh $139.9M financing](https://techcrunch.com/2022/01/11/harrys-files-paperwork-for-fresh-139-9m-financing/)
@@ -103,7 +104,6 @@
 - [Hunting galaxies far far away: Here&#39;s how anyone can explore the universe](https://www.space.com/hunting-galaxies-aladin-lite-online-tool)
 - [Save 30% on &#39;Clue: Star Wars&#39; edition on Amazon](https://www.space.com/clue-star-wars-edition-amazon-deal)
 - [Doordash co-founder and CEO joins Meta’s board of directors](https://techcrunch.com/2022/01/11/doordash-co-founder-and-ceo-joins-metas-board-of-directors/)
-- [Weird &#39;hot Jupiter&#39; exoplanet is shaped like a football](https://www.space.com/hot-jupiter-exoplanet-football-shape)
 <!-- BLOG-POST-LIST:END -->
 
 ---
