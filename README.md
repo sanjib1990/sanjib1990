@@ -94,6 +94,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to see and track the International Space Station &lpar;ISS&rpar;](https://www.space.com/how-to-track-the-international-space-station)
+- [China&#39;s Chang&#39;e 5 lunar lander is first to find water on the moon up close](https://www.space.com/china-change-5-lander-finds-water-moon)
 - [Would you marry your investors?](https://techcrunch.com/2022/01/12/would-you-marry-your-investors/)
 - [Jitterbit acquires low-code service PrimeApps](https://techcrunch.com/2022/01/12/jitterbit-acquires-low-code-service-primeapps/)
 - [The Milky Way&#39;s supermassive black hole is leaking gas](https://www.space.com/supermassive-black-hole-leaking-in-milky-way)
@@ -102,8 +104,6 @@
 - [Masters, an app for training with celeb athletes, closes a $2.7M Seed funding round](https://techcrunch.com/2022/01/12/masters-an-app-for-training-with-celeb-athletes-closes-a-2-7m-seed-funding-round/)
 - [Nuro’s newest autonomous delivery bot is designed for the masses](https://techcrunch.com/2022/01/12/nuro-autonomous-delivery-bot-launch/)
 - [Eureka raises $8M for its data cloud security platform](https://techcrunch.com/2022/01/12/eureka-raises-8m-for-its-data-cloud-security-platform/)
-- [Tiger doubles down on SeekOut, which just raised $115M to help enterprises hire and retain talent](https://techcrunch.com/2022/01/12/tiger-doubles-down-on-seekout-which-just-raised-115m-to-help-enterprises-hire-and-retain-talent/)
-- [Checkout.com raises $1B round at $40B valuation](https://techcrunch.com/2022/01/12/checkout-com-raises-1b-round-at-40b-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
