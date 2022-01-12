@@ -94,16 +94,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [HomeValet launches its $499 Smart Box to keep your grocery deliveries cold and packages secure](https://techcrunch.com/2022/01/12/homevalet-launches-its-499-smart-box-to-keep-your-grocery-deliveries-cold-and-packages-secure/)
+- [Webb Begins Its Months-Long Mirror Alignment](https://blogs.nasa.gov/webb/2022/01/12/webb-begins-its-months-long-mirror-alignment/)
+- [Omnichannel customer messaging platform Superchat raises $15.6M round led by Blossom](https://techcrunch.com/2022/01/12/omnichannel-customer-messaging-platform-superchat-raises-15-6m-round-led-by-blossom/)
+- [NASA may need more astronauts for space station, moon missions, report says](https://www.space.com/nasa-astronaut-corps-size-report)
 - [Wordle is tech born of love that asks nothing in return](https://techcrunch.com/2022/01/12/josh-wardle-interview-wordle/)
 - [Giant galactic bubble is driving star formation, new study finds](https://www.space.com/local-bubble-drives-star-formation-new-study)
 - [Dear Sophie: Do we need a visa to explore the US market?](https://techcrunch.com/2022/01/12/dear-sophie-do-we-need-a-visa-to-explore-the-us-market/)
 - [AI-powered transcription platform DeepScribe raises $30M to unburden doctors from tedious data entry](https://techcrunch.com/2022/01/12/ai-powered-transcription-platform-deepscribe-raises-30m-to-unburden-doctors-from-tedious-data-entry/)
 - [New NASA chief scientist pledges a plan to renew agency&#39;s Earth satellite fleet](https://www.space.com/nasa-earth-satellite-renewal-climate-advisor-chief-scientist)
 - [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [Canalys: Worldwide PC shipments soared in 2021 to 341 million units](https://techcrunch.com/2022/01/12/canalys-worldwide-pc-shipments-soared-in-2021-to-341-million-units/)
-- [Data show 2021 was a bonkers, record-setting year for venture capital](https://techcrunch.com/2022/01/12/data-show-2021-was-a-bonkers-record-setting-year-for-venture-capital/)
-- [Instagram, still benefitting from TikTok’s ban in India, again became the top app by downloads in Q4](https://techcrunch.com/2022/01/12/instagram-still-benefitting-from-tiktoks-ban-in-india-again-become-the-top-app-by-downloads-in-q4/)
-- [How to see and track the International Space Station &lpar;ISS&rpar;](https://www.space.com/how-to-track-the-international-space-station)
 <!-- BLOG-POST-LIST:END -->
 
 ---
