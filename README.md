@@ -94,16 +94,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Would you marry your investors?](https://techcrunch.com/2022/01/12/would-you-marry-your-investors/)
+- [Jitterbit acquires low-code service PrimeApps](https://techcrunch.com/2022/01/12/jitterbit-acquires-low-code-service-primeapps/)
+- [The Milky Way&#39;s supermassive black hole is leaking gas](https://www.space.com/supermassive-black-hole-leaking-in-milky-way)
+- [Merit grabs $50M Series B to expand digital credentials platform](https://techcrunch.com/2022/01/12/merit-grabs-50m-series-b-to-expand-digital-credentials-platform/)
 - [Google offers not to put News Showcase into search results in Germany as antitrust probe rolls on](https://techcrunch.com/2022/01/12/google-news-showcase-fco-offers/)
 - [Masters, an app for training with celeb athletes, closes a $2.7M Seed funding round](https://techcrunch.com/2022/01/12/masters-an-app-for-training-with-celeb-athletes-closes-a-2-7m-seed-funding-round/)
 - [Nuro’s newest autonomous delivery bot is designed for the masses](https://techcrunch.com/2022/01/12/nuro-autonomous-delivery-bot-launch/)
 - [Eureka raises $8M for its data cloud security platform](https://techcrunch.com/2022/01/12/eureka-raises-8m-for-its-data-cloud-security-platform/)
 - [Tiger doubles down on SeekOut, which just raised $115M to help enterprises hire and retain talent](https://techcrunch.com/2022/01/12/tiger-doubles-down-on-seekout-which-just-raised-115m-to-help-enterprises-hire-and-retain-talent/)
 - [Checkout.com raises $1B round at $40B valuation](https://techcrunch.com/2022/01/12/checkout-com-raises-1b-round-at-40b-valuation/)
-- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
-- [Placer.ai, a location analytics startup, finds $100M at a $1B valuation](https://techcrunch.com/2022/01/12/placer-ai-a-location-analytics-startup-finds-100m-at-a-1b-valuation/)
-- [Headspace Health acquires AI-powered mental health and wellness company Sayana](https://techcrunch.com/2022/01/12/headspace-health-acquires-ai-powered-mental-health-and-wellness-company-sayana/)
-- [Jakarta-based investment app Pluang raises $55M led by Accel](https://techcrunch.com/2022/01/12/jakarta-based-investment-app-pluang-raises-55m-led-by-accel/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
