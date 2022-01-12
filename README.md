@@ -94,16 +94,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google offers not to put News Showcase into search results in Germany as antitrust probe rolls on](https://techcrunch.com/2022/01/12/google-news-showcase-fco-offers/)
+- [Masters, an app for training with celeb athletes, closes a $2.7M Seed funding round](https://techcrunch.com/2022/01/12/masters-an-app-for-training-with-celeb-athletes-closes-a-2-7m-seed-funding-round/)
+- [Nuro’s newest autonomous delivery bot is designed for the masses](https://techcrunch.com/2022/01/12/nuro-autonomous-delivery-bot-launch/)
+- [Eureka raises $8M for its data cloud security platform](https://techcrunch.com/2022/01/12/eureka-raises-8m-for-its-data-cloud-security-platform/)
+- [Tiger doubles down on SeekOut, which just raised $115M to help enterprises hire and retain talent](https://techcrunch.com/2022/01/12/tiger-doubles-down-on-seekout-which-just-raised-115m-to-help-enterprises-hire-and-retain-talent/)
+- [Checkout.com raises $1B round at $40B valuation](https://techcrunch.com/2022/01/12/checkout-com-raises-1b-round-at-40b-valuation/)
+- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
 - [Placer.ai, a location analytics startup, finds $100M at a $1B valuation](https://techcrunch.com/2022/01/12/placer-ai-a-location-analytics-startup-finds-100m-at-a-1b-valuation/)
 - [Headspace Health acquires AI-powered mental health and wellness company Sayana](https://techcrunch.com/2022/01/12/headspace-health-acquires-ai-powered-mental-health-and-wellness-company-sayana/)
 - [Jakarta-based investment app Pluang raises $55M led by Accel](https://techcrunch.com/2022/01/12/jakarta-based-investment-app-pluang-raises-55m-led-by-accel/)
-- [Newcomer aggregator Ecommerce Brands snags $40M in equity, debt to deploy eCaaS model](https://techcrunch.com/2022/01/12/newcomer-aggregator-ecommerce-brands-snags-40m-in-equity-debt-to-deploy-ecaas-model/)
-- [BigPanda gets its horn after securing $190M in fresh capital](https://techcrunch.com/2022/01/12/bigpandas-gets-its-horn-after-securing-190m-in-fresh-capital/)
-- [Public appoints first independent board members, details 2021 user growth](https://techcrunch.com/2022/01/12/public-appoints-first-independent-board-members-details-2021-user-growth/)
-- [Best space and astronomy books](https://www.space.com/32982-best-astronomy-books.html)
-- [Wordle is being punished by app stores for choosing the open web](https://techcrunch.com/2022/01/12/wordle-is-being-punished-by-app-stores-for-choosing-the-open-web/)
-- [On This Day in Space! Jan. 12, 2005: Deep Impact spacecraft launches to a comet](https://www.space.com/39251-on-this-day-in-space.html)
-- [Web3Auth secures $13M from Sequoia India to simplify crypto onboarding and authentication](https://techcrunch.com/2022/01/12/web3auth-secures-13m-to-drive-mass-adoption-of-web3-apps-and-wallets-through-non-custodial-authentication-infrastructure/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
