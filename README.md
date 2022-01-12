@@ -94,16 +94,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Placer.ai, a location analytics startup, finds $100M at a $1B valuation](https://techcrunch.com/2022/01/12/placer-ai-a-location-analytics-startup-finds-100m-at-a-1b-valuation/)
+- [Headspace Health acquires AI-powered mental health and wellness company Sayana](https://techcrunch.com/2022/01/12/headspace-health-acquires-ai-powered-mental-health-and-wellness-company-sayana/)
+- [Jakarta-based investment app Pluang raises $55M led by Accel](https://techcrunch.com/2022/01/12/jakarta-based-investment-app-pluang-raises-55m-led-by-accel/)
+- [Newcomer aggregator Ecommerce Brands snags $40M in equity, debt to deploy eCaaS model](https://techcrunch.com/2022/01/12/newcomer-aggregator-ecommerce-brands-snags-40m-in-equity-debt-to-deploy-ecaas-model/)
+- [BigPanda gets its horn after securing $190M in fresh capital](https://techcrunch.com/2022/01/12/bigpandas-gets-its-horn-after-securing-190m-in-fresh-capital/)
+- [Public appoints first independent board members, details 2021 user growth](https://techcrunch.com/2022/01/12/public-appoints-first-independent-board-members-details-2021-user-growth/)
+- [Best space and astronomy books](https://www.space.com/32982-best-astronomy-books.html)
+- [Wordle is being punished by app stores for choosing the open web](https://techcrunch.com/2022/01/12/wordle-is-being-punished-by-app-stores-for-choosing-the-open-web/)
+- [On This Day in Space! Jan. 12, 2005: Deep Impact spacecraft launches to a comet](https://www.space.com/39251-on-this-day-in-space.html)
 - [Web3Auth secures $13M from Sequoia India to simplify crypto onboarding and authentication](https://techcrunch.com/2022/01/12/web3auth-secures-13m-to-drive-mass-adoption-of-web3-apps-and-wallets-through-non-custodial-authentication-infrastructure/)
-- [Lime’s new e-bike has a swappable battery that also works with its scooters](https://techcrunch.com/2022/01/12/lime-new-e-bike-swappable-battery-works-with-scooters/)
-- [TravelPerk adds $115M to equity and debt Series D, discloses unicorn valuation](https://techcrunch.com/2022/01/12/travelperk-series-d-unicorn/)
-- [&#39;Space Adventure&#39; exhibition to bring 300 Apollo-era artifacts to Miami](https://www.space.com/space-adventure-apollo-exhibition-miami)
-- [&#39;Mini&#39; monster black hole discovered hiding in a dwarf galaxy](https://www.space.com/mini-supermassive-black-hole-dwarf-galaxy)
-- [Elon Musk unveils SpaceX launch and catch tower for Starship Mars rocket &lpar;video&rpar;](https://www.space.com/spacex-starship-launch-tower-elon-musk-video)
-- [MTN Uganda introduces overdraft facility as it step-ups competition in digital lending space](https://techcrunch.com/2022/01/12/mtn-uganda-introduces-overdraft-facility-as-it-step-ups-competition-in-digital-lending-space/)
-- [Outlines showers your home with recyclable options](https://techcrunch.com/2022/01/12/outlines/)
-- [Nigeria’s SeamlessHR raises $10M to expand HR and payroll solutions across Africa](https://techcrunch.com/2022/01/12/nigerias-seamlesshr-raises-10m-to-expand-hr-and-payroll-solutions-across-africa/)
-- [App Annie: Global app stores’ consumer spend up 19% to $170B in 2021, downloads grew 5% to 230B](https://techcrunch.com/2022/01/12/app-annie-global-app-stores-consumer-spend-up-19-to-170b-in-2021-downloads-grew-5-to-230b/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
