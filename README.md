@@ -94,6 +94,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TravelPerk adds $115M to equity and debt Series D, discloses unicorn valuation](https://techcrunch.com/2022/01/12/travelperk-series-d-unicorn/)
+- [MTN Uganda introduces overdraft facility as it step-ups competition in digital lending space](https://techcrunch.com/2022/01/12/mtn-uganda-introduces-overdraft-facility-as-it-step-ups-competition-in-digital-lending-space/)
 - [Outlines showers your home with recyclable options](https://techcrunch.com/2022/01/12/outlines/)
 - [Nigeria’s SeamlessHR raises $10M to expand HR and payroll solutions across Africa](https://techcrunch.com/2022/01/12/nigerias-seamlesshr-raises-10m-to-expand-hr-and-payroll-solutions-across-africa/)
 - [App Annie: Global app stores’ consumer spend up 19% to $170B in 2021, downloads grew 5% to 230B](https://techcrunch.com/2022/01/12/app-annie-global-app-stores-consumer-spend-up-19-to-170b-in-2021-downloads-grew-5-to-230b/)
@@ -102,8 +104,6 @@
 - [Blockchain gaming survey: 7 investors discuss regulation, opportunities and NFT hype](https://techcrunch.com/2022/01/11/blockchain-gaming-survey-7-investors-discuss-regulation-opportunities-and-nft-hype/)
 - [Harry’s files paperwork for fresh $139.9M financing](https://techcrunch.com/2022/01/11/harrys-files-paperwork-for-fresh-139-9m-financing/)
 - [Daily Crunch: After clinching $12.3B valuation, Brex hires Meta exec as chief product officer](https://techcrunch.com/2022/01/11/daily-crunch-after-clinching-12-3b-valuation-brex-hires-meta-exec-as-chief-product-officer/)
-- [&#39;The Book of Boba Fett&#39; episode 2 kicks the live-action show up a gear and then some](https://www.space.com/book-of-boba-fett-episode-2-star-wars-recap)
-- [Here’s what happened when Mercedes-AMG got its hands on the all-electric EQS](https://techcrunch.com/2022/01/11/first-drive-2022-mercedes-amg-eqs-and-2022-mercedes-amg-sl/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
