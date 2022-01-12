@@ -94,16 +94,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Web3Auth secures $13M from Sequoia India to simplify crypto onboarding and authentication](https://techcrunch.com/2022/01/12/web3auth-secures-13m-to-drive-mass-adoption-of-web3-apps-and-wallets-through-non-custodial-authentication-infrastructure/)
+- [Lime’s new e-bike has a swappable battery that also works with its scooters](https://techcrunch.com/2022/01/12/lime-new-e-bike-swappable-battery-works-with-scooters/)
 - [TravelPerk adds $115M to equity and debt Series D, discloses unicorn valuation](https://techcrunch.com/2022/01/12/travelperk-series-d-unicorn/)
+- [&#39;Space Adventure&#39; exhibition to bring 300 Apollo-era artifacts to Miami](https://www.space.com/space-adventure-apollo-exhibition-miami)
+- [&#39;Mini&#39; monster black hole discovered hiding in a dwarf galaxy](https://www.space.com/mini-supermassive-black-hole-dwarf-galaxy)
+- [Elon Musk unveils SpaceX launch and catch tower for Starship Mars rocket &lpar;video&rpar;](https://www.space.com/spacex-starship-launch-tower-elon-musk-video)
 - [MTN Uganda introduces overdraft facility as it step-ups competition in digital lending space](https://techcrunch.com/2022/01/12/mtn-uganda-introduces-overdraft-facility-as-it-step-ups-competition-in-digital-lending-space/)
 - [Outlines showers your home with recyclable options](https://techcrunch.com/2022/01/12/outlines/)
 - [Nigeria’s SeamlessHR raises $10M to expand HR and payroll solutions across Africa](https://techcrunch.com/2022/01/12/nigerias-seamlesshr-raises-10m-to-expand-hr-and-payroll-solutions-across-africa/)
 - [App Annie: Global app stores’ consumer spend up 19% to $170B in 2021, downloads grew 5% to 230B](https://techcrunch.com/2022/01/12/app-annie-global-app-stores-consumer-spend-up-19-to-170b-in-2021-downloads-grew-5-to-230b/)
-- [India’s Refyne raises $82 million to help workers get faster access to wages](https://techcrunch.com/2022/01/11/refyne-tiger-global-earned-wage-access-india/)
-- [Despite blockchain gaming’s play-to-earn angle, I prefer to pay](https://techcrunch.com/2022/01/11/despite-blockchain-gamings-play-to-earn-angle-i-prefer-to-pay/)
-- [Blockchain gaming survey: 7 investors discuss regulation, opportunities and NFT hype](https://techcrunch.com/2022/01/11/blockchain-gaming-survey-7-investors-discuss-regulation-opportunities-and-nft-hype/)
-- [Harry’s files paperwork for fresh $139.9M financing](https://techcrunch.com/2022/01/11/harrys-files-paperwork-for-fresh-139-9m-financing/)
-- [Daily Crunch: After clinching $12.3B valuation, Brex hires Meta exec as chief product officer](https://techcrunch.com/2022/01/11/daily-crunch-after-clinching-12-3b-valuation-brex-hires-meta-exec-as-chief-product-officer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
