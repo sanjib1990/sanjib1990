@@ -94,6 +94,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Outlines showers your home with recyclable options](https://techcrunch.com/2022/01/12/outlines/)
+- [Nigeria’s SeamlessHR raises $10M to expand HR and payroll solutions across Africa](https://techcrunch.com/2022/01/12/nigerias-seamlesshr-raises-10m-to-expand-hr-and-payroll-solutions-across-africa/)
+- [App Annie: Global app stores’ consumer spend up 19% to $170B in 2021, downloads grew 5% to 230B](https://techcrunch.com/2022/01/12/app-annie-global-app-stores-consumer-spend-up-19-to-170b-in-2021-downloads-grew-5-to-230b/)
 - [India’s Refyne raises $82 million to help workers get faster access to wages](https://techcrunch.com/2022/01/11/refyne-tiger-global-earned-wage-access-india/)
 - [Despite blockchain gaming’s play-to-earn angle, I prefer to pay](https://techcrunch.com/2022/01/11/despite-blockchain-gamings-play-to-earn-angle-i-prefer-to-pay/)
 - [Blockchain gaming survey: 7 investors discuss regulation, opportunities and NFT hype](https://techcrunch.com/2022/01/11/blockchain-gaming-survey-7-investors-discuss-regulation-opportunities-and-nft-hype/)
@@ -101,9 +104,6 @@
 - [Daily Crunch: After clinching $12.3B valuation, Brex hires Meta exec as chief product officer](https://techcrunch.com/2022/01/11/daily-crunch-after-clinching-12-3b-valuation-brex-hires-meta-exec-as-chief-product-officer/)
 - [&#39;The Book of Boba Fett&#39; episode 2 kicks the live-action show up a gear and then some](https://www.space.com/book-of-boba-fett-episode-2-star-wars-recap)
 - [Here’s what happened when Mercedes-AMG got its hands on the all-electric EQS](https://techcrunch.com/2022/01/11/first-drive-2022-mercedes-amg-eqs-and-2022-mercedes-amg-sl/)
-- [Hunting galaxies far far away: Here&#39;s how anyone can explore the universe](https://www.space.com/hunting-galaxies-aladin-lite-online-tool)
-- [Save 30% on &#39;Clue: Star Wars&#39; edition on Amazon](https://www.space.com/clue-star-wars-edition-amazon-deal)
-- [Doordash co-founder and CEO joins Meta’s board of directors](https://techcrunch.com/2022/01/11/doordash-co-founder-and-ceo-joins-metas-board-of-directors/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
