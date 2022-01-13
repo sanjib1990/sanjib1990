@@ -94,16 +94,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The hunt is on for exomoons around alien planets and scientists may have just found one](https://www.space.com/exomoon-candidate-kepler-1708-discovery)
+- [SpaceX launches 105 small satellites into orbit, nails rocket landing](https://www.space.com/spacex-launches-105-satellites-rocket-landing-success)
 - [Yahaha Studios, a platform for building no-code, immersive games, raised $50M in 3 rounds ahead of its launch this year](https://techcrunch.com/2022/01/13/yahaha-studios-a-platform-for-building-no-code-immersive-games-raised-50m-in-3-rounds-ahead-of-its-launch-this-year/)
 - [Has Y Combinator’s new deal changed the early-stage investing game?](https://techcrunch.com/2022/01/13/has-y-combinators-new-deal-changed-the-early-stage-investing-game/)
 - [PUBG Mobile maker Krafton sues Apple, Google and rival game developer Garena over clones](https://techcrunch.com/2022/01/13/pubg-mobile-maker-krafton-sues-apple-google-and-rival-game-developer-garena-over-clones/)
 - [Arc wants to build the de facto finance solution for SaaS startups](https://techcrunch.com/2022/01/13/arc-wants-to-build-the-de-facto-finance-solution-for-saas-startups/)
+- [Local Motors, the startup behind the Olli autonomous shuttle, has shutdown](https://techcrunch.com/2022/01/13/local-motors-the-startup-that-created-the-olli-autonomous-shuttle-has-shutdown/)
 - [This device attaches magnetically to a face mask to monitor the wearer’s vitals](https://techcrunch.com/2022/01/13/this-device-attaches-magnetically-to-a-face-mask-to-monitor-the-wearers-vitals/)
 - [Halo games in chronological order](https://www.space.com/halo-games-in-order)
 - [Solar eclipses: When is the next one?](https://www.space.com/15584-solar-eclipses.html)
-- [Watch live: SpaceX rocket carrying dozens of satellites in orbit](https://www.space.com/17933-nasa-television-webcasts-live-space-tv.html)
-- [UBITS snags $25M to create ‘the Netflix for corporate training’ in LatAm](https://techcrunch.com/2022/01/13/ubits-snags-25m-to-create-the-netflix-for-corporate-training-in-latam/)
-- [Venmo introduces new gift-wrapping feature with eight animated designs](https://techcrunch.com/2022/01/13/venmo-introduces-new-gift-wrapping-feature-with-eight-animated-designs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
