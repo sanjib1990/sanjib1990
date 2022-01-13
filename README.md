@@ -94,16 +94,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google’s loss to Sonos settles it: Big Tech has an IP piracy problem](https://techcrunch.com/2022/01/13/googles-loss-to-sonos-settles-it-big-tech-has-an-ip-piracy-problem/)
+- [Software stocks give up even more ground](https://techcrunch.com/2022/01/13/software-stocks-give-up-even-more-ground/)
+- [Halley&#39;s Comet: Facts about history&#39;s most famous comet](https://www.space.com/19878-halleys-comet.html)
+- [Row, row, row your phone, gently, ’till it’s charged](https://techcrunch.com/2022/01/13/row-row-your-phoe/)
 - [Fortnite is coming back to iOS, but not on the App Store](https://techcrunch.com/2022/01/13/fortnite-ios-app-store-cloud-gaming/)
 - [Dear VCs: If you want startup prices to come down, stop paying higher prices](https://techcrunch.com/2022/01/13/dear-vcs-if-you-want-startup-prices-to-come-down-stop-paying-higher-prices/)
 - [GoFundMe gets Classy &lpar;literally&rpar; with acquisition of nonprofit giving platform](https://techcrunch.com/2022/01/13/gofundme-acquires-classy/)
 - [Meta shuts down its experimental video speed-dating service, Sparked](https://techcrunch.com/2022/01/13/meta-shuts-down-its-experimental-video-speed-dating-service-sparked/)
 - [Here’s why CNET co-founder Halsey Minor is bullish on NFTs](https://techcrunch.com/2022/01/13/heres-why-cnet-co-founder-halsey-minor-is-bullish-on-nfts/)
 - [Virgin Orbit launching 7 satellites today: Watch it live](https://www.space.com/virgin-orbit-launching-seven-satellites-webcast)
-- [China&#39;s Shenzhou 13 astronauts manually fly cargo ship for emergency docking test](https://www.space.com/china-shenzhou-13-emergency-docking-test)
-- [Infamous Mars meteorite contains organic molecules, but they aren&#39;t proof of life](https://www.space.com/mars-meteorite-evidence-water-rock-interactions)
-- [Curvature of space-time measured using &#39;atomic fountain&#39;](https://www.space.com/space-time-curvature-measured-atomic-fountain)
-- [The year of living autonomously](https://techcrunch.com/2022/01/13/the-year-of-living-autonomously/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
