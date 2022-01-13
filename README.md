@@ -94,6 +94,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Second Life’s creator is returning to advise the original metaverse company](https://techcrunch.com/2022/01/13/second-life-philip-rosedale-returns-linden-lab-high-fidelity/)
+- [5 essential factors for attracting angel investment](https://techcrunch.com/2022/01/13/5-essential-factors-for-attracting-angel-investment/)
 - [Google’s loss to Sonos settles it: Big Tech has an IP piracy problem](https://techcrunch.com/2022/01/13/googles-loss-to-sonos-settles-it-big-tech-has-an-ip-piracy-problem/)
 - [Software stocks give up even more ground](https://techcrunch.com/2022/01/13/software-stocks-give-up-even-more-ground/)
 - [Halley&#39;s Comet: Facts about history&#39;s most famous comet](https://www.space.com/19878-halleys-comet.html)
@@ -102,8 +104,6 @@
 - [Dear VCs: If you want startup prices to come down, stop paying higher prices](https://techcrunch.com/2022/01/13/dear-vcs-if-you-want-startup-prices-to-come-down-stop-paying-higher-prices/)
 - [GoFundMe gets Classy &lpar;literally&rpar; with acquisition of nonprofit giving platform](https://techcrunch.com/2022/01/13/gofundme-acquires-classy/)
 - [Meta shuts down its experimental video speed-dating service, Sparked](https://techcrunch.com/2022/01/13/meta-shuts-down-its-experimental-video-speed-dating-service-sparked/)
-- [Here’s why CNET co-founder Halsey Minor is bullish on NFTs](https://techcrunch.com/2022/01/13/heres-why-cnet-co-founder-halsey-minor-is-bullish-on-nfts/)
-- [Virgin Orbit launching 7 satellites today: Watch it live](https://www.space.com/virgin-orbit-launching-seven-satellites-webcast)
 <!-- BLOG-POST-LIST:END -->
 
 ---
