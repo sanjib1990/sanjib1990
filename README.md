@@ -94,6 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Global Processing Services adds $100M to its coffers to grow its embedded finance and API payments platform](https://techcrunch.com/2022/01/13/global-processing-services-adds-100m-to-its-coffers-to-grow-its-embedded-finance-and-api-payments-platform/)
 - [Fintech Farm nabs $7.4M to launch neobanks in Nigeria and other emerging markets](https://techcrunch.com/2022/01/13/fintech-farm-nabs-7-4m-to-launch-neobanks-in-nigeria-and-other-emerging-markets/)
 - [Kenyan BNPL startup Lipa Later eyes more African markets after raising $12 million](https://techcrunch.com/2022/01/13/kenyan-bnpl-startup-lipa-later-eyes-more-african-markets-after-raising-12-million/)
 - [MycoWorks, making leather from fungi, closes $125M to scale production](https://techcrunch.com/2022/01/13/mycoworks-leather-fungi-scale-production/)
@@ -103,7 +104,6 @@
 - [India’s LEAD School becomes unicorn with fresh $100M in funding](https://techcrunch.com/2022/01/12/lead-school-india-unicorn/)
 - [Daily Crunch: Payments company Checkout.com reaches $40B valuation after $1B Series D](https://techcrunch.com/2022/01/12/daily-crunch-payments-company-checkout-com-reaches-40b-valuation-after-1b-series-d/)
 - [Music app AmpMe lowers pricing after accused of being an App Store scammer](https://techcrunch.com/2022/01/12/music-app-ampme-lowers-pricing-after-accused-of-being-an-app-store-scammer/)
-- [Setting up high-conversion lead magnets that deliver value](https://techcrunch.com/2022/01/12/setting-up-high-conversion-lead-magnets-that-deliver-value/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
