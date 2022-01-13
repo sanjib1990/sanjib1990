@@ -94,16 +94,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fortnite is coming back to iOS, but not on the App Store](https://techcrunch.com/2022/01/13/fortnite-ios-app-store-cloud-gaming/)
+- [Dear VCs: If you want startup prices to come down, stop paying higher prices](https://techcrunch.com/2022/01/13/dear-vcs-if-you-want-startup-prices-to-come-down-stop-paying-higher-prices/)
+- [GoFundMe gets Classy &lpar;literally&rpar; with acquisition of nonprofit giving platform](https://techcrunch.com/2022/01/13/gofundme-acquires-classy/)
+- [Meta shuts down its experimental video speed-dating service, Sparked](https://techcrunch.com/2022/01/13/meta-shuts-down-its-experimental-video-speed-dating-service-sparked/)
 - [Here’s why CNET co-founder Halsey Minor is bullish on NFTs](https://techcrunch.com/2022/01/13/heres-why-cnet-co-founder-halsey-minor-is-bullish-on-nfts/)
 - [Virgin Orbit launching 7 satellites today: Watch it live](https://www.space.com/virgin-orbit-launching-seven-satellites-webcast)
 - [China&#39;s Shenzhou 13 astronauts manually fly cargo ship for emergency docking test](https://www.space.com/china-shenzhou-13-emergency-docking-test)
 - [Infamous Mars meteorite contains organic molecules, but they aren&#39;t proof of life](https://www.space.com/mars-meteorite-evidence-water-rock-interactions)
 - [Curvature of space-time measured using &#39;atomic fountain&#39;](https://www.space.com/space-time-curvature-measured-atomic-fountain)
 - [The year of living autonomously](https://techcrunch.com/2022/01/13/the-year-of-living-autonomously/)
-- [Meet the 13 startups in IndieBio’s SF Cohort, and discover what about each swayed investors](https://techcrunch.com/2022/01/13/meet-the-12-startups-in-indiebios-sf-cohort-and-discover-one-key-factor-that-swayed-investors/)
-- [Mirror, Mirror…On Its Way!](https://blogs.nasa.gov/webb/2022/01/13/mirror-mirroron-its-way/)
-- [The M11 is Leica’s new flagship rangefinder](https://techcrunch.com/2022/01/13/the-m11-is-leicas-new-flagship-rangefinder/)
-- [Mosaic Flight: NASA&#39;s 100th flight director leads Mission Control](https://www.space.com/nasa-100th-flight-director-mission-control)
 <!-- BLOG-POST-LIST:END -->
 
 ---
