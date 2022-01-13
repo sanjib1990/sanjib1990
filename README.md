@@ -94,6 +94,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [In bad news for US cloud services, Austrian website’s use of Google Analytics found to breach GDPR](https://techcrunch.com/2022/01/12/austrian-dpa-schrems-ii/)
+- [Turnip raises $12.5 million for its mobile-first gaming community platform](https://techcrunch.com/2022/01/12/turnip-mobile-first-gaming-community-funding/)
 - [A peek into Web3 power player Animoca Brands](https://techcrunch.com/2022/01/12/a-peek-into-web3-power-player-animoca-brands/)
 - [India’s LEAD School becomes unicorn with fresh $100M in funding](https://techcrunch.com/2022/01/12/lead-school-india-unicorn/)
 - [Daily Crunch: Payments company Checkout.com reaches $40B valuation after $1B Series D](https://techcrunch.com/2022/01/12/daily-crunch-payments-company-checkout-com-reaches-40b-valuation-after-1b-series-d/)
@@ -102,8 +104,6 @@
 - [NASA getting SLS megarockets ready for crewed moon missions](https://www.space.com/nasa-building-sls-megarockets-crewed-moon-missions)
 - [Nigeria lifts ban on Twitter, says the social media giant has met conditions](https://techcrunch.com/2022/01/12/nigeria-lifts-ban-on-twitter-says-the-social-media-giant-has-met-some-conditions/)
 - [Fact-checkers write open letter urging YouTube to get serious about COVID misinformation](https://techcrunch.com/2022/01/12/youtube-covid-misinformation-fact-checkers-letter/)
-- [The metaverse will be filled with ‘elves’](https://techcrunch.com/2022/01/12/the-metaverse-will-be-filled-with-elves/)
-- [FCC proposes stricter requirements for reporting data breaches](https://techcrunch.com/2022/01/12/fcc-proposes-stricter-requirements-for-reporting-data-breaches/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
