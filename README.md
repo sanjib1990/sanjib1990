@@ -94,16 +94,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [UBITS snags $25M to create ‘the Netflix for corporate training’ in LatAm](https://techcrunch.com/2022/01/13/ubits-snags-25m-to-create-the-netflix-for-corporate-training-in-latam/)
+- [Venmo introduces new gift-wrapping feature with eight animated designs](https://techcrunch.com/2022/01/13/venmo-introduces-new-gift-wrapping-feature-with-eight-animated-designs/)
+- [Payment orchestration platform Gr4vy pulls in another $15M in a Series A extension](https://techcrunch.com/2022/01/13/payment-orchestration-platform-gr4vy-pulls-in-another-15m-in-a-series-a-extension/)
+- [Instacart doubles down on its ready-made meals offering with new hub and faster delivery](https://techcrunch.com/2022/01/13/instacart-doubles-down-on-its-ready-made-meals-offering-with-new-hub-and-faster-delivery/)
+- [What is wormhole theory?](https://www.space.com/20881-wormholes.html)
+- [Dogs aren’t just a vibe, they’re a lifestyle, and Fable built a brand to match](https://techcrunch.com/2022/01/13/fable-pets-9-million-series-a-dog-accessories-brand/)
 - [U.S. fintech Current introduces high-yield savings where customers earn a 4.00% APY](https://techcrunch.com/2022/01/13/u-s-fintech-current-introduces-high-yield-savings-where-customers-earn-a-4-00-apy/)
 - [A bill to ban geofence and keyword search warrants in New York gains traction](https://techcrunch.com/2022/01/13/new-york-geofence-keyword-search-warrants-bill/)
 - [Stoïk combines cyber insurance products with active security monitoring](https://techcrunch.com/2022/01/13/stoik-combines-cyber-insurance-products-with-active-security-monitoring/)
 - [Meet Paysail, the startup making B2B payments faster using crypto](https://techcrunch.com/2022/01/13/meet-paysail-the-startup-making-b2b-payments-faster-using-crypto/)
-- [Streams of stars orbiting the Milky Way shed light on galaxy’s dark matter](https://www.space.com/stellar-streams-milky-way-halo-dark-matter)
-- [Databricks launches its first industry-specific lakehouse](https://techcrunch.com/2022/01/13/databricks-launches-its-first-industry-specific-lakehouse/)
-- [Serve Robotics’ new autonomous sidewalk delivery robots don’t require human assist](https://techcrunch.com/2022/01/13/serve-robotics-new-autonomous-sidewalk-delivery-robots-dont-require-human-assist/)
-- [Germany’s SoSafe raises $73M Series B led by Highland to address human error in cyber](https://techcrunch.com/2022/01/13/germanys-sosafe-raises-73m-series-b-led-by-highland-to-address-human-error-in-cyber/)
-- [Swell takes in $20M to develop more adaptable headless commerce infrastructure](https://techcrunch.com/2022/01/13/swell-secures-20m-to-develop-more-adaptable-headless-commerce-infrastructure/)
-- [Tiger Global backs Accrue Savings’ ‘save now, pay later’ approach to consumer purchases](https://techcrunch.com/2022/01/13/tiger-global-accrue-savings-save-now-pay-later-purchases/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
