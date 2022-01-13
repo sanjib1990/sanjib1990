@@ -94,16 +94,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Yahaha Studios, a platform for building no-code, immersive games, raised $50M in 3 rounds ahead of its launch this year](https://techcrunch.com/2022/01/13/yahaha-studios-a-platform-for-building-no-code-immersive-games-raised-50m-in-3-rounds-ahead-of-its-launch-this-year/)
+- [Has Y Combinator’s new deal changed the early-stage investing game?](https://techcrunch.com/2022/01/13/has-y-combinators-new-deal-changed-the-early-stage-investing-game/)
+- [PUBG Mobile maker Krafton sues Apple, Google and rival game developer Garena over clones](https://techcrunch.com/2022/01/13/pubg-mobile-maker-krafton-sues-apple-google-and-rival-game-developer-garena-over-clones/)
+- [Arc wants to build the de facto finance solution for SaaS startups](https://techcrunch.com/2022/01/13/arc-wants-to-build-the-de-facto-finance-solution-for-saas-startups/)
+- [This device attaches magnetically to a face mask to monitor the wearer’s vitals](https://techcrunch.com/2022/01/13/this-device-attaches-magnetically-to-a-face-mask-to-monitor-the-wearers-vitals/)
+- [Halo games in chronological order](https://www.space.com/halo-games-in-order)
+- [Solar eclipses: When is the next one?](https://www.space.com/15584-solar-eclipses.html)
+- [Watch live: SpaceX rocket carrying dozens of satellites in orbit](https://www.space.com/17933-nasa-television-webcasts-live-space-tv.html)
 - [UBITS snags $25M to create ‘the Netflix for corporate training’ in LatAm](https://techcrunch.com/2022/01/13/ubits-snags-25m-to-create-the-netflix-for-corporate-training-in-latam/)
 - [Venmo introduces new gift-wrapping feature with eight animated designs](https://techcrunch.com/2022/01/13/venmo-introduces-new-gift-wrapping-feature-with-eight-animated-designs/)
-- [Payment orchestration platform Gr4vy pulls in another $15M in a Series A extension](https://techcrunch.com/2022/01/13/payment-orchestration-platform-gr4vy-pulls-in-another-15m-in-a-series-a-extension/)
-- [Instacart doubles down on its ready-made meals offering with new hub and faster delivery](https://techcrunch.com/2022/01/13/instacart-doubles-down-on-its-ready-made-meals-offering-with-new-hub-and-faster-delivery/)
-- [What is wormhole theory?](https://www.space.com/20881-wormholes.html)
-- [Dogs aren’t just a vibe, they’re a lifestyle, and Fable built a brand to match](https://techcrunch.com/2022/01/13/fable-pets-9-million-series-a-dog-accessories-brand/)
-- [U.S. fintech Current introduces high-yield savings where customers earn a 4.00% APY](https://techcrunch.com/2022/01/13/u-s-fintech-current-introduces-high-yield-savings-where-customers-earn-a-4-00-apy/)
-- [A bill to ban geofence and keyword search warrants in New York gains traction](https://techcrunch.com/2022/01/13/new-york-geofence-keyword-search-warrants-bill/)
-- [Stoïk combines cyber insurance products with active security monitoring](https://techcrunch.com/2022/01/13/stoik-combines-cyber-insurance-products-with-active-security-monitoring/)
-- [Meet Paysail, the startup making B2B payments faster using crypto](https://techcrunch.com/2022/01/13/meet-paysail-the-startup-making-b2b-payments-faster-using-crypto/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
