@@ -94,6 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India’s LEAD School becomes unicorn with fresh $100M in funding](https://techcrunch.com/2022/01/12/lead-school-india-unicorn/)
 - [Daily Crunch: Payments company Checkout.com reaches $40B valuation after $1B Series D](https://techcrunch.com/2022/01/12/daily-crunch-payments-company-checkout-com-reaches-40b-valuation-after-1b-series-d/)
 - [Music app AmpMe lowers pricing after accused of being an App Store scammer](https://techcrunch.com/2022/01/12/music-app-ampme-lowers-pricing-after-accused-of-being-an-app-store-scammer/)
 - [Setting up high-conversion lead magnets that deliver value](https://techcrunch.com/2022/01/12/setting-up-high-conversion-lead-magnets-that-deliver-value/)
@@ -103,7 +104,6 @@
 - [The metaverse will be filled with ‘elves’](https://techcrunch.com/2022/01/12/the-metaverse-will-be-filled-with-elves/)
 - [FCC proposes stricter requirements for reporting data breaches](https://techcrunch.com/2022/01/12/fcc-proposes-stricter-requirements-for-reporting-data-breaches/)
 - [James Webb Space Telescope begins lining up its golden mirrors](https://www.space.com/james-webb-space-telescope-begins-mirror-alignment)
-- [A 3,400-foot-wide asteroid will make a safe flyby of Earth next week](https://www.space.com/mile-wide-asteroid-safe-flyby)
 <!-- BLOG-POST-LIST:END -->
 
 ---
