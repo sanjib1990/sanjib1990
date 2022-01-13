@@ -94,16 +94,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meet Paysail, the startup making B2B payments faster using crypto](https://techcrunch.com/2022/01/13/meet-paysail-the-startup-making-b2b-payments-faster-using-crypto/)
+- [Databricks launches its first industry-specific lakehouse](https://techcrunch.com/2022/01/13/databricks-launches-its-first-industry-specific-lakehouse/)
+- [Serve Robotics’ new autonomous sidewalk delivery robots don’t require human assist](https://techcrunch.com/2022/01/13/serve-robotics-new-autonomous-sidewalk-delivery-robots-dont-require-human-assist/)
+- [Germany’s SoSafe raises $73M Series B led by Highland to address human error in cyber](https://techcrunch.com/2022/01/13/germanys-sosafe-raises-73m-series-b-led-by-highland-to-address-human-error-in-cyber/)
 - [Swell takes in $20M to develop more adaptable headless commerce infrastructure](https://techcrunch.com/2022/01/13/swell-secures-20m-to-develop-more-adaptable-headless-commerce-infrastructure/)
 - [Tiger Global backs Accrue Savings’ ‘save now, pay later’ approach to consumer purchases](https://techcrunch.com/2022/01/13/tiger-global-accrue-savings-save-now-pay-later-purchases/)
 - [Seel secures $17M round to infuse AI in customer product returns](https://techcrunch.com/2022/01/13/seel-secures-17m-round-to-infuse-ai-in-customer-product-returns/)
 - [Shield bags $15M Series A to address surging demand for its AI-powered communication compliance platform](https://techcrunch.com/2022/01/13/shield-bags-15m-series-a-to-address-surging-demand-for-its-ai-powered-communication-compliance-platform/)
 - [Crypto API provider Conduit wants to be the Stripe of decentralized finance](https://techcrunch.com/2022/01/13/crypto-api-provider-conduit-wants-to-be-the-stripe-of-decentralized-finance/)
 - [Tencent invests in Easy Transfer to amp up cross-border payments ambition](https://techcrunch.com/2022/01/13/tencent-easy-transfer-investment-cross-border-payment/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [Watch live @ 10:25 am ET: SpaceX launching dozens of satellites](https://www.space.com/17933-nasa-television-webcasts-live-space-tv.html)
-- [Virgin Orbit launching 7 satellites today: Watch it live](https://www.space.com/virgin-orbit-launching-seven-satellites-webcast)
-- [Give users genuine control over ad targeting, MEPs urged](https://techcrunch.com/2022/01/13/joint-statement-surveillance-ads-inferred-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
