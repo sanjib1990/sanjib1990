@@ -94,6 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A peek into Web3 power player Animoca Brands](https://techcrunch.com/2022/01/12/a-peek-into-web3-power-player-animoca-brands/)
 - [India’s LEAD School becomes unicorn with fresh $100M in funding](https://techcrunch.com/2022/01/12/lead-school-india-unicorn/)
 - [Daily Crunch: Payments company Checkout.com reaches $40B valuation after $1B Series D](https://techcrunch.com/2022/01/12/daily-crunch-payments-company-checkout-com-reaches-40b-valuation-after-1b-series-d/)
 - [Music app AmpMe lowers pricing after accused of being an App Store scammer](https://techcrunch.com/2022/01/12/music-app-ampme-lowers-pricing-after-accused-of-being-an-app-store-scammer/)
@@ -103,7 +104,6 @@
 - [Fact-checkers write open letter urging YouTube to get serious about COVID misinformation](https://techcrunch.com/2022/01/12/youtube-covid-misinformation-fact-checkers-letter/)
 - [The metaverse will be filled with ‘elves’](https://techcrunch.com/2022/01/12/the-metaverse-will-be-filled-with-elves/)
 - [FCC proposes stricter requirements for reporting data breaches](https://techcrunch.com/2022/01/12/fcc-proposes-stricter-requirements-for-reporting-data-breaches/)
-- [James Webb Space Telescope begins lining up its golden mirrors](https://www.space.com/james-webb-space-telescope-begins-mirror-alignment)
 <!-- BLOG-POST-LIST:END -->
 
 ---
