@@ -94,6 +94,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fintech Farm nabs $7.4M to launch neobanks in Nigeria and other emerging markets](https://techcrunch.com/2022/01/13/fintech-farm-nabs-7-4m-to-launch-neobanks-in-nigeria-and-other-emerging-markets/)
+- [Kenyan BNPL startup Lipa Later eyes more African markets after raising $12 million](https://techcrunch.com/2022/01/13/kenyan-bnpl-startup-lipa-later-eyes-more-african-markets-after-raising-12-million/)
 - [MycoWorks, making leather from fungi, closes $125M to scale production](https://techcrunch.com/2022/01/13/mycoworks-leather-fungi-scale-production/)
 - [In bad news for US cloud services, Austrian website’s use of Google Analytics found to breach GDPR](https://techcrunch.com/2022/01/12/austrian-dpa-schrems-ii/)
 - [Turnip raises $12.5 million for its mobile-first gaming community platform](https://techcrunch.com/2022/01/12/turnip-mobile-first-gaming-community-funding/)
@@ -102,8 +104,6 @@
 - [Daily Crunch: Payments company Checkout.com reaches $40B valuation after $1B Series D](https://techcrunch.com/2022/01/12/daily-crunch-payments-company-checkout-com-reaches-40b-valuation-after-1b-series-d/)
 - [Music app AmpMe lowers pricing after accused of being an App Store scammer](https://techcrunch.com/2022/01/12/music-app-ampme-lowers-pricing-after-accused-of-being-an-app-store-scammer/)
 - [Setting up high-conversion lead magnets that deliver value](https://techcrunch.com/2022/01/12/setting-up-high-conversion-lead-magnets-that-deliver-value/)
-- [NASA getting SLS megarockets ready for crewed moon missions](https://www.space.com/nasa-building-sls-megarockets-crewed-moon-missions)
-- [Nigeria lifts ban on Twitter, says the social media giant has met conditions](https://techcrunch.com/2022/01/12/nigeria-lifts-ban-on-twitter-says-the-social-media-giant-has-met-some-conditions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
