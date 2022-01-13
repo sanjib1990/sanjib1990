@@ -94,16 +94,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meet the 12 startups in IndieBio’s SF Cohort, and discover what about each swayed investors](https://techcrunch.com/2022/01/13/meet-the-12-startups-in-indiebios-sf-cohort-and-discover-one-key-factor-that-swayed-investors/)
+- [Mirror, Mirror…On Its Way!](https://blogs.nasa.gov/webb/2022/01/13/mirror-mirroron-its-way/)
+- [The M11 is Leica’s new flagship rangefinder](https://techcrunch.com/2022/01/13/the-m11-is-leicas-new-flagship-rangefinder/)
+- [Mosaic Flight: NASA&#39;s 100th flight director leads Mission Control](https://www.space.com/nasa-100th-flight-director-mission-control)
 - [The hunt is on for exomoons around alien planets and scientists may have just found one](https://www.space.com/exomoon-candidate-kepler-1708-discovery)
 - [SpaceX launches 105 small satellites into orbit, nails rocket landing](https://www.space.com/spacex-launches-105-satellites-rocket-landing-success)
 - [Yahaha Studios, a platform for building no-code, immersive games, raised $50M in 3 rounds ahead of its launch this year](https://techcrunch.com/2022/01/13/yahaha-studios-a-platform-for-building-no-code-immersive-games-raised-50m-in-3-rounds-ahead-of-its-launch-this-year/)
 - [Has Y Combinator’s new deal changed the early-stage investing game?](https://techcrunch.com/2022/01/13/has-y-combinators-new-deal-changed-the-early-stage-investing-game/)
 - [PUBG Mobile maker Krafton sues Apple, Google and rival game developer Garena over clones](https://techcrunch.com/2022/01/13/pubg-mobile-maker-krafton-sues-apple-google-and-rival-game-developer-garena-over-clones/)
 - [Arc wants to build the de facto finance solution for SaaS startups](https://techcrunch.com/2022/01/13/arc-wants-to-build-the-de-facto-finance-solution-for-saas-startups/)
-- [Local Motors, the startup behind the Olli autonomous shuttle, has shutdown](https://techcrunch.com/2022/01/13/local-motors-the-startup-that-created-the-olli-autonomous-shuttle-has-shutdown/)
-- [This device attaches magnetically to a face mask to monitor the wearer’s vitals](https://techcrunch.com/2022/01/13/this-device-attaches-magnetically-to-a-face-mask-to-monitor-the-wearers-vitals/)
-- [Halo games in chronological order](https://www.space.com/halo-games-in-order)
-- [Solar eclipses: When is the next one?](https://www.space.com/15584-solar-eclipses.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
