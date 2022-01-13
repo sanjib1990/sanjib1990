@@ -94,16 +94,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [Watch live @ 10:25 am ET: SpaceX launching dozens of satellites](https://www.space.com/17933-nasa-television-webcasts-live-space-tv.html)
+- [Virgin Orbit launching 7 satellites today: Watch it live](https://www.space.com/virgin-orbit-launching-seven-satellites-webcast)
+- [Give users genuine control over ad targeting, MEPs urged](https://techcrunch.com/2022/01/13/joint-statement-surveillance-ads-inferred-data/)
+- [On This Day in Space! Jan. 13, 1978: NASA hires its first female astronauts](https://www.space.com/39251-on-this-day-in-space.html)
+- [SpaceX readies for Transporter-3 launch this morning](https://www.space.com/spacex-transporter-3-launch-falcon-9)
+- [Powerful superflares discovered erupting from superdense stellar corpse](https://www.space.com/superflares-discovered-recurrent-nova-v2487-oph)
+- [&#39;Cow&#39; supernova is brightest ever seen in X-ray observations](https://www.space.com/bright-cow-supernova-shines-in-xray)
+- [Meet Relativity Space: the little 3D printing rocket company that could](https://www.space.com/relativity-space-company-terran-1-launch)
 - [HeyCharge’s underground charging solution raises $4.7M Seed led by BMW i Ventures](https://techcrunch.com/2022/01/13/heycharges-underground-charging-solution-raises-4-7m-seed-led-by-bmw-i-ventures/)
-- [Roswell Incident: the truth behind the &#39;flying saucer&#39; crash](https://www.space.com/what-is-the-truth-behind-the-roswell-ufo-incident)
-- [Global Processing Services adds $100M to its coffers to grow its embedded finance and API payments platform](https://techcrunch.com/2022/01/13/global-processing-services-adds-100m-to-its-coffers-to-grow-its-embedded-finance-and-api-payments-platform/)
-- [Fintech Farm nabs $7.4M to launch neobanks in Nigeria and other emerging markets](https://techcrunch.com/2022/01/13/fintech-farm-nabs-7-4m-to-launch-neobanks-in-nigeria-and-other-emerging-markets/)
-- [Kenyan BNPL startup Lipa Later eyes more African markets after raising $12 million](https://techcrunch.com/2022/01/13/kenyan-bnpl-startup-lipa-later-eyes-more-african-markets-after-raising-12-million/)
-- [MycoWorks, making leather from fungi, closes $125M to scale production](https://techcrunch.com/2022/01/13/mycoworks-leather-fungi-scale-production/)
-- [In bad news for US cloud services, Austrian website’s use of Google Analytics found to breach GDPR](https://techcrunch.com/2022/01/12/austrian-dpa-schrems-ii/)
-- [Turnip raises $12.5 million for its mobile-first gaming community platform](https://techcrunch.com/2022/01/12/turnip-mobile-first-gaming-community-funding/)
-- [A peek into Web3 power player Animoca Brands](https://techcrunch.com/2022/01/12/a-peek-into-web3-power-player-animoca-brands/)
-- [India’s LEAD School becomes unicorn with fresh $100M in funding](https://techcrunch.com/2022/01/12/lead-school-india-unicorn/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
