@@ -95,6 +95,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [J.B. Hunt will be Waymo’s first self-driving freight customer](https://techcrunch.com/2022/01/14/j-b-hunt-will-be-waymos-first-self-driving-freight-customer/)
+- [Daasity investing $15M in data so consumer brands can do more with it](https://techcrunch.com/2022/01/14/daasity-investing-15m-in-data-so-consumer-brands-can-do-more-with-it/)
+- [China’s robotaxis charged ahead in 2021](https://techcrunch.com/2022/01/14/2021-robotaxi-china/)
 - [Fresh round of $355M lifts online checkout company Bolt into decacorn territory](https://techcrunch.com/2022/01/14/online-checkout-bolt-decacorn/)
 - [The spaceships and vehicles of Avatar](https://www.space.com/avatar-spaceships-and-vehicles)
 - [On This Day in Space! Jan. 14, 2005: Huygens probe lands on Saturn&#39;s moon Titan](https://www.space.com/39251-on-this-day-in-space.html)
@@ -102,9 +105,6 @@
 - [SpaceX Falcon 9 rocket spotted from space before and after epic 105-satellite launch &lpar;images&rpar;](https://www.space.com/spacex-falcon-9-rocket-launch-satellite-photos-transporter-3)
 - [2021 saw record temperatures and deaths from natural disasters, NASA, NOAA reveal](https://www.space.com/2021-sixth-hottest-year-nasa-noaa-data)
 - [What will the James Webb Space Telescope look at first?](https://www.space.com/james-webb-space-telescope-first-observing-targets)
-- [Get set for &#39;Resident Alien&#39; Season 2 with this sidesplitting new trailer](https://www.space.com/resident-Alien-season-2trailer-syfy)
-- [Shell-founded startup fund receives $13 million from Canadian DFI to accelerate clean energy access in Africa](https://techcrunch.com/2022/01/14/shell-founded-startup-fund-receives-13-million-from-canadian-dfi-to-accelerate-clean-energy-access-in-africa/)
-- [Artemis 1: Going back to the moon](https://www.space.com/artemis-1-going-back-to-the-Moon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
