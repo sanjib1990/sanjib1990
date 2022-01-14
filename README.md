@@ -94,6 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [EVage raises $28M to be a driving force in India’s commercial EV revolution](https://techcrunch.com/2022/01/13/evage-raises-28m-to-be-a-driving-force-in-indias-commercial-ev-revolution/)
 - [House committee investigating Jan. 6 subpoenas Meta, YouTube, Twitter and Reddit](https://techcrunch.com/2022/01/13/jan-6-tech-subpoenas-insurrection/)
 - [Virgin Orbit sends 7 satellites to orbit in fourth mid-air launch](https://www.space.com/virgin-orbit-launches-seven-satellites-january-2022)
 - [UK class action lodged against Meta seeks $3.1B for breach of competition law](https://techcrunch.com/2022/01/13/uk-class-action-lodged-against-meta-seeks-3-1bn-for-breach-of-competition-law/)
@@ -103,7 +104,6 @@
 - [5 essential factors for attracting angel investment](https://techcrunch.com/2022/01/13/5-essential-factors-for-attracting-angel-investment/)
 - [Google’s loss to Sonos settles it: Big Tech has an IP piracy problem](https://techcrunch.com/2022/01/13/googles-loss-to-sonos-settles-it-big-tech-has-an-ip-piracy-problem/)
 - [Software stocks give up even more ground](https://techcrunch.com/2022/01/13/software-stocks-give-up-even-more-ground/)
-- [Halley&#39;s Comet: Facts about history&#39;s most famous comet](https://www.space.com/19878-halleys-comet.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
