@@ -94,6 +94,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What will the James Webb Space Telescope look at first?](https://www.space.com/james-webb-space-telescope-first-observing-targets)
+- [Get set for &#39;Resident Alien&#39; Season 2 with this sidesplitting new trailer](https://www.space.com/resident-Alien-season-2trailer-syfy)
 - [Shell-founded startup fund receives $13 million from Canadian DFI to accelerate clean energy access in Africa](https://techcrunch.com/2022/01/14/shell-founded-startup-fund-receives-13-million-from-canadian-dfi-to-accelerate-clean-energy-access-in-africa/)
 - [Artemis 1: Going back to the moon](https://www.space.com/artemis-1-going-back-to-the-Moon)
 - [EVage raises $28M to be a driving force in India’s commercial EV revolution](https://techcrunch.com/2022/01/13/evage-raises-28m-to-be-a-driving-force-in-indias-commercial-ev-revolution/)
@@ -102,8 +104,6 @@
 - [UK class action lodged against Meta seeks $3.1B for breach of competition law](https://techcrunch.com/2022/01/13/uk-class-action-lodged-against-meta-seeks-3-1bn-for-breach-of-competition-law/)
 - [Vangst ropes in $19 million more to place employees with work in the growing cannabis industry](https://techcrunch.com/2022/01/13/vangst-ropes-in-19-million-more-to-place-employees-with-work-in-the-growing-cannabis-industry/)
 - [Daily Crunch: Banking app Current amps up its savings rate to 4.00% APY](https://techcrunch.com/2022/01/13/daily-crunch-banking-app-current-amps-up-its-savings-rate-to-4-00-apy/)
-- [Second Life’s creator is returning to advise the original metaverse company](https://techcrunch.com/2022/01/13/second-life-philip-rosedale-returns-linden-lab-high-fidelity/)
-- [5 essential factors for attracting angel investment](https://techcrunch.com/2022/01/13/5-essential-factors-for-attracting-angel-investment/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
