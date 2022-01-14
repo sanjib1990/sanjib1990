@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fintech and insurtech innovation in Brazil set to take off on regulatory tailwinds](https://techcrunch.com/2022/01/14/fintech-and-insurtech-innovation-in-brazil-set-to-take-off-on-regulatory-tailwinds/)
 - [What is Astrophysics?](https://www.space.com/26218-astrophysics.html)
 - [Full moon names for 2022](https://www.space.com/39238-full-moon-names.html)
 - [What is a blood moon?](https://www.space.com/39471-what-is-a-blood-moon.html)
@@ -104,7 +105,6 @@
 - [Lawtrades aims to change how your company utilizes legal resources](https://techcrunch.com/2022/01/14/lawtrades-aims-to-change-how-your-company-utilizes-legal-resources/)
 - [A hospitable metaverse requires the basic building blocks of virtual life](https://techcrunch.com/2022/01/14/a-hospitable-metaverse-requires-the-basic-building-blocks-of-virtual-life/)
 - [How realistic is spaceflight in video games?](https://www.space.com/how-realistic-is-spaceflight-in-video-games)
-- [NFT volume, DAOs and the curious case of LooksRare](https://techcrunch.com/2022/01/14/nft-volume-daos-and-the-curious-case-of-looksrare/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
