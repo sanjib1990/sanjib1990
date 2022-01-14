@@ -95,6 +95,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lawtrades aims to change how your company utilizes legal resources](https://techcrunch.com/2022/01/14/lawtrades-aims-to-change-how-your-company-utilizes-legal-resources/)
+- [A hospitable metaverse requires the basic building blocks of virtual life](https://techcrunch.com/2022/01/14/a-hospitable-metaverse-requires-the-basic-building-blocks-of-virtual-life/)
+- [NFT volume, DAOs and the curious case of LooksRare](https://techcrunch.com/2022/01/14/nft-volume-daos-and-the-curious-case-of-looksrare/)
 - [The friends with benefits of the financial world](https://techcrunch.com/2022/01/14/the-friends-with-benefits-of-the-financial-world/)
 - [Bentley Motors blends tech and coachbuilding in the 2022 Continental GT Speed](https://techcrunch.com/2022/01/14/bentley-motors-blends-tech-and-coachbuilding-in-the-2022-continental-gt-speed/)
 - [Russia’s FSB ‘shuts down’ notorious REvil ransomware gang](https://techcrunch.com/2022/01/14/fsb-revil-ransomware/)
@@ -102,9 +105,6 @@
 - [J.B. Hunt will be Waymo’s first self-driving freight customer](https://techcrunch.com/2022/01/14/j-b-hunt-will-be-waymos-first-self-driving-freight-customer/)
 - [Daasity investing $15M in data so consumer brands can do more with it](https://techcrunch.com/2022/01/14/daasity-investing-15m-in-data-so-consumer-brands-can-do-more-with-it/)
 - [China’s robotaxis charged ahead in 2021](https://techcrunch.com/2022/01/14/2021-robotaxi-china/)
-- [Fresh round of $355M lifts online checkout company Bolt into decacorn territory](https://techcrunch.com/2022/01/14/online-checkout-bolt-decacorn/)
-- [The spaceships and vehicles of Avatar](https://www.space.com/avatar-spaceships-and-vehicles)
-- [On This Day in Space! Jan. 14, 2005: Huygens probe lands on Saturn&#39;s moon Titan](https://www.space.com/39251-on-this-day-in-space.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
