@@ -94,6 +94,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Shell-founded startup fund receives $13 million from Canadian DFI to accelerate clean energy access in Africa](https://techcrunch.com/2022/01/14/shell-founded-startup-fund-receives-13-million-from-canadian-dfi-to-accelerate-clean-energy-access-in-africa/)
+- [Artemis 1: Going back to the moon](https://www.space.com/artemis-1-going-back-to-the-Moon)
 - [EVage raises $28M to be a driving force in India’s commercial EV revolution](https://techcrunch.com/2022/01/13/evage-raises-28m-to-be-a-driving-force-in-indias-commercial-ev-revolution/)
 - [House committee investigating Jan. 6 subpoenas Meta, YouTube, Twitter and Reddit](https://techcrunch.com/2022/01/13/jan-6-tech-subpoenas-insurrection/)
 - [Virgin Orbit sends 7 satellites to orbit in fourth mid-air launch](https://www.space.com/virgin-orbit-launches-seven-satellites-january-2022)
@@ -102,8 +104,6 @@
 - [Daily Crunch: Banking app Current amps up its savings rate to 4.00% APY](https://techcrunch.com/2022/01/13/daily-crunch-banking-app-current-amps-up-its-savings-rate-to-4-00-apy/)
 - [Second Life’s creator is returning to advise the original metaverse company](https://techcrunch.com/2022/01/13/second-life-philip-rosedale-returns-linden-lab-high-fidelity/)
 - [5 essential factors for attracting angel investment](https://techcrunch.com/2022/01/13/5-essential-factors-for-attracting-angel-investment/)
-- [Google’s loss to Sonos settles it: Big Tech has an IP piracy problem](https://techcrunch.com/2022/01/13/googles-loss-to-sonos-settles-it-big-tech-has-an-ip-piracy-problem/)
-- [Software stocks give up even more ground](https://techcrunch.com/2022/01/13/software-stocks-give-up-even-more-ground/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
