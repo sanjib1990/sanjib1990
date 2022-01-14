@@ -85,6 +85,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [North Korea hacked nearly $400M in cryptocurrency last year](https://techcrunch.com/2022/01/14/north-korea-hacked-nearly-400m-in-cryptocurrency-last-year/)
+- [SpaceX Falcon 9 rocket spotted from space before and after epic 105-satellite launch &lpar;images&rpar;](https://www.space.com/spacex-falcon-9-rocket-launch-satellite-photos-transporter-3)
+- [2021 saw record temperatures and deaths from natural disasters, NASA, NOAA reveal](https://www.space.com/2021-sixth-hottest-year-nasa-noaa-data)
+- [What will the James Webb Space Telescope look at first?](https://www.space.com/james-webb-space-telescope-first-observing-targets)
+- [Get set for &#39;Resident Alien&#39; Season 2 with this sidesplitting new trailer](https://www.space.com/resident-Alien-season-2trailer-syfy)
+- [Shell-founded startup fund receives $13 million from Canadian DFI to accelerate clean energy access in Africa](https://techcrunch.com/2022/01/14/shell-founded-startup-fund-receives-13-million-from-canadian-dfi-to-accelerate-clean-energy-access-in-africa/)
+- [Artemis 1: Going back to the moon](https://www.space.com/artemis-1-going-back-to-the-Moon)
+- [EVage raises $28M to be a driving force in India’s commercial EV revolution](https://techcrunch.com/2022/01/13/evage-raises-28m-to-be-a-driving-force-in-indias-commercial-ev-revolution/)
+- [House committee investigating Jan. 6 subpoenas Meta, YouTube, Twitter and Reddit](https://techcrunch.com/2022/01/13/jan-6-tech-subpoenas-insurrection/)
+- [Virgin Orbit sends 7 satellites to orbit in fourth mid-air launch](https://www.space.com/virgin-orbit-launches-seven-satellites-january-2022)
 <!-- BLOG-POST-LIST:END -->
 
 ---
