@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch+ roundup: Allocating equity, unicorn traffic jam, blockchain gaming survey](https://techcrunch.com/2022/01/14/techcrunch-roundup-allocating-equity-unicorn-traffic-jam-blockchain-gaming-survey/)
+- [January full moon 2022: The &#39;Wolf Moon&#39; rises with winter constellations](https://www.space.com/35281-january-full-moon.html)
+- [3 newly discovered worlds risk doom orbiting too close to dying stars](https://www.space.com/newfound-exoplanets-orbit-stars-surprisingly-close)
+- [&#39;The Expanse&#39; stars Cara Gee and Keon Alexander talk about getting into character &lpar;and Marcos&#39; underwear&rpar; —  Exclusive video](https://www.space.com/the-expanse-series-finale-drummer-marco-interview)
+- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
 - [Fintech and insurtech innovation in Brazil set to take off on regulatory tailwinds](https://techcrunch.com/2022/01/14/fintech-and-insurtech-innovation-in-brazil-set-to-take-off-on-regulatory-tailwinds/)
 - [What is Astrophysics?](https://www.space.com/26218-astrophysics.html)
 - [Full moon names for 2022](https://www.space.com/39238-full-moon-names.html)
 - [What is a blood moon?](https://www.space.com/39471-what-is-a-blood-moon.html)
 - [Laika the space dog: First living creature in orbit](https://www.space.com/laika-space-dog)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [Redshift and blueshift: What do they mean?](https://www.space.com/25732-redshift-blueshift.html)
-- [Lawtrades aims to change how your company utilizes legal resources](https://techcrunch.com/2022/01/14/lawtrades-aims-to-change-how-your-company-utilizes-legal-resources/)
-- [A hospitable metaverse requires the basic building blocks of virtual life](https://techcrunch.com/2022/01/14/a-hospitable-metaverse-requires-the-basic-building-blocks-of-virtual-life/)
-- [How realistic is spaceflight in video games?](https://www.space.com/how-realistic-is-spaceflight-in-video-games)
 <!-- BLOG-POST-LIST:END -->
 
 ---
