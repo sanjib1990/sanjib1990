@@ -78,6 +78,16 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [JavaScript in 100 Seconds](https://www.youtube.com/watch?v=DHjqpvDnNGE)
+- [S3:E4: When There Isn’t a Simple Answer with Prof. Dennis McLaughlin](https://www.youtube.com/watch?v=vCxqBgcLgNg)
+- [Is Redis the ONLY database you need? // Fullstack app from scratch with Next.js &amp; Redis](https://www.youtube.com/watch?v=DOIWQddRD5M)
+- [The Dark Side of Open Source // What really happened to Faker.js?](https://www.youtube.com/watch?v=R6S-b_k-ZKY)
+- [Man in the Middle &amp; Needham–Schroeder Protocol - Computerphile](https://www.youtube.com/watch?v=EtpdLBeIaus)
+- [Binary Explained in 01100100 Seconds](https://www.youtube.com/watch?v=zDNaUi2cjv4)
+- [Git Overview - Computerphile](https://www.youtube.com/watch?v=92sycL8ij-U)
+- [Log4J &amp; JNDI Exploit: Why So Bad? - Computerphile](https://www.youtube.com/watch?v=Opqgwn8TdlM)
+- [i&#39;m buying everyone NFTs for Christmas](https://www.youtube.com/watch?v=rHCwI4K7afY)
+- [Golang Tutorial for Beginners | Full Go Course](https://www.youtube.com/watch?v=yyUHQIec83I)
 <!-- YOUTUBE:END -->
 
 ---
