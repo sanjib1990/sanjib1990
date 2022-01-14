@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is a blood moon?](https://www.space.com/39471-what-is-a-blood-moon.html)
+- [Laika the space dog: First living creature in orbit](https://www.space.com/laika-space-dog)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [Redshift and blueshift: What do they mean?](https://www.space.com/25732-redshift-blueshift.html)
 - [Lawtrades aims to change how your company utilizes legal resources](https://techcrunch.com/2022/01/14/lawtrades-aims-to-change-how-your-company-utilizes-legal-resources/)
 - [A hospitable metaverse requires the basic building blocks of virtual life](https://techcrunch.com/2022/01/14/a-hospitable-metaverse-requires-the-basic-building-blocks-of-virtual-life/)
+- [How realistic is spaceflight in video games?](https://www.space.com/how-realistic-is-spaceflight-in-video-games)
 - [NFT volume, DAOs and the curious case of LooksRare](https://techcrunch.com/2022/01/14/nft-volume-daos-and-the-curious-case-of-looksrare/)
 - [The friends with benefits of the financial world](https://techcrunch.com/2022/01/14/the-friends-with-benefits-of-the-financial-world/)
 - [Bentley Motors blends tech and coachbuilding in the 2022 Continental GT Speed](https://techcrunch.com/2022/01/14/bentley-motors-blends-tech-and-coachbuilding-in-the-2022-continental-gt-speed/)
-- [Russia’s FSB ‘shuts down’ notorious REvil ransomware gang](https://techcrunch.com/2022/01/14/fsb-revil-ransomware/)
-- [Marvel movies in chronological order](https://www.space.com/marvel-movies-in-order)
-- [J.B. Hunt will be Waymo’s first self-driving freight customer](https://techcrunch.com/2022/01/14/j-b-hunt-will-be-waymos-first-self-driving-freight-customer/)
-- [Daasity investing $15M in data so consumer brands can do more with it](https://techcrunch.com/2022/01/14/daasity-investing-15m-in-data-so-consumer-brands-can-do-more-with-it/)
-- [China’s robotaxis charged ahead in 2021](https://techcrunch.com/2022/01/14/2021-robotaxi-china/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
