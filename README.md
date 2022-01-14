@@ -50,6 +50,7 @@
 [<img align="left" title="neo4j" alt="Neo4J" width="26px" src="https://www.iotone.com/files/vendor/logo_Neo4j.jpg" />][neo4j]
 [<img align="left" title="arangodb" alt="ArangoDB" width="26px" src="https://www.arangodb.com/docs/assets/arangodb_logo_small_2016.png" />][arangodb]
 [<img align="left" title="redis" alt="Redis" width="26px" src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png" />][redis]
+[<img align="left" title="elasticsearch" alt="ElasticSearch" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/elasticsearch-logo-png-transparent.png" />][elasticsearch]
 
 
 <br />
@@ -77,16 +78,6 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [JavaScript in 100 Seconds](https://www.youtube.com/watch?v=DHjqpvDnNGE)
-- [S3:E4: When There Isn’t a Simple Answer with Prof. Dennis McLaughlin](https://www.youtube.com/watch?v=vCxqBgcLgNg)
-- [Is Redis the ONLY database you need? // Fullstack app from scratch with Next.js &amp; Redis](https://www.youtube.com/watch?v=DOIWQddRD5M)
-- [The Dark Side of Open Source // What really happened to Faker.js?](https://www.youtube.com/watch?v=R6S-b_k-ZKY)
-- [Man in the Middle &amp; Needham–Schroeder Protocol - Computerphile](https://www.youtube.com/watch?v=EtpdLBeIaus)
-- [Binary Explained in 01100100 Seconds](https://www.youtube.com/watch?v=zDNaUi2cjv4)
-- [Git Overview - Computerphile](https://www.youtube.com/watch?v=92sycL8ij-U)
-- [Log4J &amp; JNDI Exploit: Why So Bad? - Computerphile](https://www.youtube.com/watch?v=Opqgwn8TdlM)
-- [i&#39;m buying everyone NFTs for Christmas](https://www.youtube.com/watch?v=rHCwI4K7afY)
-- [Golang Tutorial for Beginners | Full Go Course](https://www.youtube.com/watch?v=yyUHQIec83I)
 <!-- YOUTUBE:END -->
 
 ---
@@ -94,16 +85,6 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [What will the James Webb Space Telescope look at first?](https://www.space.com/james-webb-space-telescope-first-observing-targets)
-- [Get set for &#39;Resident Alien&#39; Season 2 with this sidesplitting new trailer](https://www.space.com/resident-Alien-season-2trailer-syfy)
-- [Shell-founded startup fund receives $13 million from Canadian DFI to accelerate clean energy access in Africa](https://techcrunch.com/2022/01/14/shell-founded-startup-fund-receives-13-million-from-canadian-dfi-to-accelerate-clean-energy-access-in-africa/)
-- [Artemis 1: Going back to the moon](https://www.space.com/artemis-1-going-back-to-the-Moon)
-- [EVage raises $28M to be a driving force in India’s commercial EV revolution](https://techcrunch.com/2022/01/13/evage-raises-28m-to-be-a-driving-force-in-indias-commercial-ev-revolution/)
-- [House committee investigating Jan. 6 subpoenas Meta, YouTube, Twitter and Reddit](https://techcrunch.com/2022/01/13/jan-6-tech-subpoenas-insurrection/)
-- [Virgin Orbit sends 7 satellites to orbit in fourth mid-air launch](https://www.space.com/virgin-orbit-launches-seven-satellites-january-2022)
-- [UK class action lodged against Meta seeks $3.1B for breach of competition law](https://techcrunch.com/2022/01/13/uk-class-action-lodged-against-meta-seeks-3-1bn-for-breach-of-competition-law/)
-- [Vangst ropes in $19 million more to place employees with work in the growing cannabis industry](https://techcrunch.com/2022/01/13/vangst-ropes-in-19-million-more-to-place-employees-with-work-in-the-growing-cannabis-industry/)
-- [Daily Crunch: Banking app Current amps up its savings rate to 4.00% APY](https://techcrunch.com/2022/01/13/daily-crunch-banking-app-current-amps-up-its-savings-rate-to-4-00-apy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -140,3 +121,5 @@
 [kafka]: https://kafka.apache.org/
 [plsql]: https://www.postgresql.org/
 [git]: https://git-scm.com/
+[elasticsearch]: https://git-scm.com/
+[kibana]: https://git-scm.com/
