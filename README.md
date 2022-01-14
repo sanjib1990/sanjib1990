@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is Astrophysics?](https://www.space.com/26218-astrophysics.html)
+- [Full moon names for 2022](https://www.space.com/39238-full-moon-names.html)
 - [What is a blood moon?](https://www.space.com/39471-what-is-a-blood-moon.html)
 - [Laika the space dog: First living creature in orbit](https://www.space.com/laika-space-dog)
 - [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
@@ -103,8 +105,6 @@
 - [A hospitable metaverse requires the basic building blocks of virtual life](https://techcrunch.com/2022/01/14/a-hospitable-metaverse-requires-the-basic-building-blocks-of-virtual-life/)
 - [How realistic is spaceflight in video games?](https://www.space.com/how-realistic-is-spaceflight-in-video-games)
 - [NFT volume, DAOs and the curious case of LooksRare](https://techcrunch.com/2022/01/14/nft-volume-daos-and-the-curious-case-of-looksrare/)
-- [The friends with benefits of the financial world](https://techcrunch.com/2022/01/14/the-friends-with-benefits-of-the-financial-world/)
-- [Bentley Motors blends tech and coachbuilding in the 2022 Continental GT Speed](https://techcrunch.com/2022/01/14/bentley-motors-blends-tech-and-coachbuilding-in-the-2022-continental-gt-speed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
