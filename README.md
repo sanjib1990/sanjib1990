@@ -95,6 +95,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [House committee investigating Jan. 6 subpoenas Meta, YouTube, Twitter and Reddit](https://techcrunch.com/2022/01/13/jan-6-tech-subpoenas-insurrection/)
+- [Virgin Orbit sends 7 satellites to orbit in fourth mid-air launch](https://www.space.com/virgin-orbit-launches-seven-satellites-january-2022)
 - [UK class action lodged against Meta seeks $3.1B for breach of competition law](https://techcrunch.com/2022/01/13/uk-class-action-lodged-against-meta-seeks-3-1bn-for-breach-of-competition-law/)
 - [Vangst ropes in $19 million more to place employees with work in the growing cannabis industry](https://techcrunch.com/2022/01/13/vangst-ropes-in-19-million-more-to-place-employees-with-work-in-the-growing-cannabis-industry/)
 - [Daily Crunch: Banking app Current amps up its savings rate to 4.00% APY](https://techcrunch.com/2022/01/13/daily-crunch-banking-app-current-amps-up-its-savings-rate-to-4-00-apy/)
@@ -103,7 +104,6 @@
 - [Google’s loss to Sonos settles it: Big Tech has an IP piracy problem](https://techcrunch.com/2022/01/13/googles-loss-to-sonos-settles-it-big-tech-has-an-ip-piracy-problem/)
 - [Software stocks give up even more ground](https://techcrunch.com/2022/01/13/software-stocks-give-up-even-more-ground/)
 - [Halley&#39;s Comet: Facts about history&#39;s most famous comet](https://www.space.com/19878-halleys-comet.html)
-- [Row, row, row your phone, gently, ’till it’s charged](https://techcrunch.com/2022/01/13/row-row-your-phoe/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
