@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Singapore-based Sesto Robotics targets international expansion with $5.7M raise](https://techcrunch.com/2022/01/14/singapore-based-sesto-robotics-targets-international-expansion-with-5-7m-raise/)
+- [The FTC is reportedly probing Meta’s VR business for antitrust violations](https://techcrunch.com/2022/01/14/the-ftc-is-reportedly-probing-metas-vr-business-for-antitrust-violations/)
+- [LG and the hunt for the next-gen corporate incubator](https://techcrunch.com/2022/01/14/lg-and-the-hunt-for-the-next-gen-corporate-incubator/)
+- [LG reveals the first shortlisted startups for its LG Nova incubator](https://techcrunch.com/2022/01/14/lg-nova-incubator/)
 - [Largest dark energy map could reveal the fate of the universe](https://www.space.com/desi-dark-energy-largest-3d-map-universe)
 - [NASA leasing bill morphs into &#39;freedom to vote&#39; legislation](https://www.space.com/nasa-leasing-bill-voting-rights-legislation)
 - [Hear from these amazing investors and founders on TechCrunch Live this February](https://techcrunch.com/2022/01/14/hear-from-these-amazing-investors-and-founders-on-techcrunch-live-this-february/)
 - [New head of Indian space agency&#39;s &#39;biggest challenge&#39; will be human spaceflight](https://www.space.com/new-indian-space-agency-director)
 - [US residents can order free, at-home COVID-19 tests starting on January 19th](https://techcrunch.com/2022/01/14/us-residents-can-order-free-at-home-covid-19-tests-starting-on-january-19th/)
 - [Netflix raised its prices again](https://techcrunch.com/2022/01/14/netflix-raised-its-prices-again/)
-- [TechCrunch+ roundup: Allocating equity, unicorn traffic jam, blockchain gaming survey](https://techcrunch.com/2022/01/14/techcrunch-roundup-allocating-equity-unicorn-traffic-jam-blockchain-gaming-survey/)
-- [January full moon 2022: The &#39;Wolf Moon&#39; rises with winter constellations](https://www.space.com/35281-january-full-moon.html)
-- [3 newly discovered worlds risk doom orbiting too close to dying stars](https://www.space.com/newfound-exoplanets-orbit-stars-surprisingly-close)
-- [&#39;The Expanse&#39; stars Cara Gee and Keon Alexander talk about getting into character &lpar;and Marcos&#39; underwear&rpar; —  Exclusive video](https://www.space.com/the-expanse-series-finale-drummer-marco-interview)
 <!-- BLOG-POST-LIST:END -->
 
 ---
