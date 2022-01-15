@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: One-click checkout company Bolt ushered into decacorn territory on $355M Series E](https://techcrunch.com/2022/01/14/daily-crunch-one-click-checkout-company-bolt-ushered-into-decacorn-territory-on-355m-series-e/)
 - [Singapore-based Sesto Robotics targets international expansion with $5.7M raise](https://techcrunch.com/2022/01/14/singapore-based-sesto-robotics-targets-international-expansion-with-5-7m-raise/)
 - [The FTC is reportedly probing Meta’s VR business for antitrust violations](https://techcrunch.com/2022/01/14/the-ftc-is-reportedly-probing-metas-vr-business-for-antitrust-violations/)
 - [LG and the hunt for the next-gen corporate incubator](https://techcrunch.com/2022/01/14/lg-and-the-hunt-for-the-next-gen-corporate-incubator/)
@@ -104,7 +105,6 @@
 - [Hear from these amazing investors and founders on TechCrunch Live this February](https://techcrunch.com/2022/01/14/hear-from-these-amazing-investors-and-founders-on-techcrunch-live-this-february/)
 - [New head of Indian space agency&#39;s &#39;biggest challenge&#39; will be human spaceflight](https://www.space.com/new-indian-space-agency-director)
 - [US residents can order free, at-home COVID-19 tests starting on January 19th](https://techcrunch.com/2022/01/14/us-residents-can-order-free-at-home-covid-19-tests-starting-on-january-19th/)
-- [Netflix raised its prices again](https://techcrunch.com/2022/01/14/netflix-raised-its-prices-again/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
