@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Learn the backstory of Grudge the Cat with IDW&#39;s new &#39;Star Trek: Discovery&#39; comic miniseries](https://www.space.com/star-trek-discovery-adventures-in-the-32nd-century-grudge-cat-comic)
+- [Brace yourself for a peek at Boom!&#39;s new &#39;Dune&#39; comic book &#39;A Whisper of Caladan Seas #1&#39;](https://www.space.com/dune-a-whisper-of-caladan-seas-comic-book)
 - [Pentagon launches new UFO office. Not all believers are happy about it.](https://www.space.com/us-government-investigate-ufos)
 - [Explosive underwater volcano eruption in Tonga spotted from space in satellite images](https://www.space.com/tonga-volcano-eruption-satellite-photos)
 - [Daily Crunch: One-click checkout company Bolt ushered into decacorn territory on $355M Series E](https://techcrunch.com/2022/01/14/daily-crunch-one-click-checkout-company-bolt-ushered-into-decacorn-territory-on-355m-series-e/)
@@ -103,8 +105,6 @@
 - [LG and the hunt for the next-gen corporate incubator](https://techcrunch.com/2022/01/14/lg-and-the-hunt-for-the-next-gen-corporate-incubator/)
 - [LG reveals the first shortlisted startups for its LG Nova incubator](https://techcrunch.com/2022/01/14/lg-nova-incubator/)
 - [Largest dark energy map could reveal the fate of the universe](https://www.space.com/desi-dark-energy-largest-3d-map-universe)
-- [NASA leasing bill morphs into &#39;freedom to vote&#39; legislation](https://www.space.com/nasa-leasing-bill-voting-rights-legislation)
-- [Hear from these amazing investors and founders on TechCrunch Live this February](https://techcrunch.com/2022/01/14/hear-from-these-amazing-investors-and-founders-on-techcrunch-live-this-february/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
