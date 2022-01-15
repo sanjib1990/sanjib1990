@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The race to fund crypto’s future sure is expensive](https://techcrunch.com/2022/01/15/the-race-to-fund-cryptos-future-sure-is-expensive/)
 - [Raising money is catastrophically challenging for female founders](https://techcrunch.com/2022/01/15/raising-money-is-catastrophically-challenging-for-female-founders/)
 - [On This Day in Space! Jan. 15, 2006: Stardust spacecraft returns samples of comet dust](https://www.space.com/39251-on-this-day-in-space.html)
 - [Learn the backstory of Grudge the Cat with IDW&#39;s new &#39;Star Trek: Discovery&#39; comic miniseries](https://www.space.com/star-trek-discovery-adventures-in-the-32nd-century-grudge-cat-comic)
@@ -104,7 +105,6 @@
 - [Daily Crunch: One-click checkout company Bolt ushered into decacorn territory on $355M Series E](https://techcrunch.com/2022/01/14/daily-crunch-one-click-checkout-company-bolt-ushered-into-decacorn-territory-on-355m-series-e/)
 - [Singapore-based Sesto Robotics targets international expansion with $5.7M raise](https://techcrunch.com/2022/01/14/singapore-based-sesto-robotics-targets-international-expansion-with-5-7m-raise/)
 - [The FTC is reportedly probing Meta’s VR business for antitrust violations](https://techcrunch.com/2022/01/14/the-ftc-is-reportedly-probing-metas-vr-business-for-antitrust-violations/)
-- [LG and the hunt for the next-gen corporate incubator](https://techcrunch.com/2022/01/14/lg-and-the-hunt-for-the-next-gen-corporate-incubator/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
