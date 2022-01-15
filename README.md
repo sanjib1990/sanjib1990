@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Raising money is catastrophically challenging for female founders](https://techcrunch.com/2022/01/15/raising-money-is-catastrophically-challenging-for-female-founders/)
 - [On This Day in Space! Jan. 15, 2006: Stardust spacecraft returns samples of comet dust](https://www.space.com/39251-on-this-day-in-space.html)
 - [Learn the backstory of Grudge the Cat with IDW&#39;s new &#39;Star Trek: Discovery&#39; comic miniseries](https://www.space.com/star-trek-discovery-adventures-in-the-32nd-century-grudge-cat-comic)
 - [Brace yourself for a peek at Boom!&#39;s new &#39;Dune&#39; comic book &#39;A Whisper of Caladan Seas #1&#39;](https://www.space.com/dune-a-whisper-of-caladan-seas-comic-book)
@@ -104,7 +105,6 @@
 - [Singapore-based Sesto Robotics targets international expansion with $5.7M raise](https://techcrunch.com/2022/01/14/singapore-based-sesto-robotics-targets-international-expansion-with-5-7m-raise/)
 - [The FTC is reportedly probing Meta’s VR business for antitrust violations](https://techcrunch.com/2022/01/14/the-ftc-is-reportedly-probing-metas-vr-business-for-antitrust-violations/)
 - [LG and the hunt for the next-gen corporate incubator](https://techcrunch.com/2022/01/14/lg-and-the-hunt-for-the-next-gen-corporate-incubator/)
-- [LG reveals the first shortlisted startups for its LG Nova incubator](https://techcrunch.com/2022/01/14/lg-nova-incubator/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
