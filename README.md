@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [4-foot tsunami hits Tonga after explosive eruption of underwater volcano](https://www.space.com/tonga-tsunami-underwater-volcano-eruption)
 - [Is this the year that we get our dream back channeling platform?](https://techcrunch.com/2022/01/15/data-wants-to-disrupt-your-deal-flow-again/)
 - [This Week in Apps: Fortnite &lpar;sorta!&rpar; returns to iOS, PUBG Mobile maker sues over copycats, Apple plans for alternative payments in South Korea](https://techcrunch.com/2022/01/15/this-week-in-apps-fortnite-sorta-returns-to-ios-pubg-mobile-maker-sues-over-copycats-apple-plans-for-alternative-payments-in-south-korea/)
 - [The race to fund crypto’s future sure is expensive](https://techcrunch.com/2022/01/15/the-race-to-fund-cryptos-future-sure-is-expensive/)
@@ -104,7 +105,6 @@
 - [Brace yourself for a peek at Boom!&#39;s new &#39;Dune&#39; comic book &#39;A Whisper of Caladan Seas #1&#39;](https://www.space.com/dune-a-whisper-of-caladan-seas-comic-book)
 - [Pentagon launches new UFO office. Not all believers are happy about it.](https://www.space.com/us-government-investigate-ufos)
 - [Explosive underwater volcano eruption in Tonga spotted from space in satellite images](https://www.space.com/tonga-volcano-eruption-satellite-photos)
-- [Daily Crunch: One-click checkout company Bolt ushered into decacorn territory on $355M Series E](https://techcrunch.com/2022/01/14/daily-crunch-one-click-checkout-company-bolt-ushered-into-decacorn-territory-on-355m-series-e/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
