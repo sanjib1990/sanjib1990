@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pentagon launches new UFO office. Not all believers are happy about it.](https://www.space.com/us-government-investigate-ufos)
+- [Explosive underwater volcano eruption in Tonga spotted from space in satellite images](https://www.space.com/tonga-volcano-eruption-satellite-photos)
 - [Daily Crunch: One-click checkout company Bolt ushered into decacorn territory on $355M Series E](https://techcrunch.com/2022/01/14/daily-crunch-one-click-checkout-company-bolt-ushered-into-decacorn-territory-on-355m-series-e/)
 - [Singapore-based Sesto Robotics targets international expansion with $5.7M raise](https://techcrunch.com/2022/01/14/singapore-based-sesto-robotics-targets-international-expansion-with-5-7m-raise/)
 - [The FTC is reportedly probing Meta’s VR business for antitrust violations](https://techcrunch.com/2022/01/14/the-ftc-is-reportedly-probing-metas-vr-business-for-antitrust-violations/)
@@ -103,8 +105,6 @@
 - [Largest dark energy map could reveal the fate of the universe](https://www.space.com/desi-dark-energy-largest-3d-map-universe)
 - [NASA leasing bill morphs into &#39;freedom to vote&#39; legislation](https://www.space.com/nasa-leasing-bill-voting-rights-legislation)
 - [Hear from these amazing investors and founders on TechCrunch Live this February](https://techcrunch.com/2022/01/14/hear-from-these-amazing-investors-and-founders-on-techcrunch-live-this-february/)
-- [New head of Indian space agency&#39;s &#39;biggest challenge&#39; will be human spaceflight](https://www.space.com/new-indian-space-agency-director)
-- [US residents can order free, at-home COVID-19 tests starting on January 19th](https://techcrunch.com/2022/01/14/us-residents-can-order-free-at-home-covid-19-tests-starting-on-january-19th/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
