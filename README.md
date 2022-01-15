@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is this the year that we get our dream back channeling platform?](https://techcrunch.com/2022/01/15/data-wants-to-disrupt-your-deal-flow-again/)
+- [This Week in Apps: Fortnite &lpar;sorta!&rpar; returns to iOS, PUBG Mobile maker sues over copycats, Apple plans for alternative payments in South Korea](https://techcrunch.com/2022/01/15/this-week-in-apps-fortnite-sorta-returns-to-ios-pubg-mobile-maker-sues-over-copycats-apple-plans-for-alternative-payments-in-south-korea/)
 - [The race to fund crypto’s future sure is expensive](https://techcrunch.com/2022/01/15/the-race-to-fund-cryptos-future-sure-is-expensive/)
 - [Raising money is catastrophically challenging for female founders](https://techcrunch.com/2022/01/15/raising-money-is-catastrophically-challenging-for-female-founders/)
 - [On This Day in Space! Jan. 15, 2006: Stardust spacecraft returns samples of comet dust](https://www.space.com/39251-on-this-day-in-space.html)
@@ -103,8 +105,6 @@
 - [Pentagon launches new UFO office. Not all believers are happy about it.](https://www.space.com/us-government-investigate-ufos)
 - [Explosive underwater volcano eruption in Tonga spotted from space in satellite images](https://www.space.com/tonga-volcano-eruption-satellite-photos)
 - [Daily Crunch: One-click checkout company Bolt ushered into decacorn territory on $355M Series E](https://techcrunch.com/2022/01/14/daily-crunch-one-click-checkout-company-bolt-ushered-into-decacorn-territory-on-355m-series-e/)
-- [Singapore-based Sesto Robotics targets international expansion with $5.7M raise](https://techcrunch.com/2022/01/14/singapore-based-sesto-robotics-targets-international-expansion-with-5-7m-raise/)
-- [The FTC is reportedly probing Meta’s VR business for antitrust violations](https://techcrunch.com/2022/01/14/the-ftc-is-reportedly-probing-metas-vr-business-for-antitrust-violations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
