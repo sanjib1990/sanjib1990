@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [On This Day in Space! Jan. 16, 1969: 1st docking of 2 crewed spacecraft](https://www.space.com/39251-on-this-day-in-space.html)
+- [Moon phases 2022: This year&#39;s moon cycles](https://www.space.com/18880-moon-phases.html)
 - [Huge Tonga underwater volcano eruption captured in stunning satellite video](https://www.space.com/tonga-underwater-volcano-stunning-eruption-from-space-video)
 - [Climate scientist and Netflix &#39;Don&#39;t Look Up&#39; director talk comet metaphors and global warming &lpar;exclusive&rpar;](https://www.space.com/dont-look-up-climate-change-comet-metaphore-scientist-praise)
 - [China builds &#39;artificial moon&#39; for gravity experiment](https://www.space.com/china-builds-artificial-moon)
@@ -103,8 +105,6 @@
 - [Is this the year that we get our dream back channeling platform?](https://techcrunch.com/2022/01/15/data-wants-to-disrupt-your-deal-flow-again/)
 - [This Week in Apps: Fortnite &lpar;sorta!&rpar; returns to iOS, PUBG Mobile maker sues over copycats, Apple plans for alternative payments in South Korea](https://techcrunch.com/2022/01/15/this-week-in-apps-fortnite-sorta-returns-to-ios-pubg-mobile-maker-sues-over-copycats-apple-plans-for-alternative-payments-in-south-korea/)
 - [The race to fund crypto’s future sure is expensive](https://techcrunch.com/2022/01/15/the-race-to-fund-cryptos-future-sure-is-expensive/)
-- [Raising money is catastrophically challenging for female founders](https://techcrunch.com/2022/01/15/raising-money-is-catastrophically-challenging-for-female-founders/)
-- [On This Day in Space! Jan. 15, 2006: Stardust spacecraft returns samples of comet dust](https://www.space.com/39251-on-this-day-in-space.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
