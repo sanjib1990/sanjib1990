@@ -95,6 +95,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Climate scientist and Netflix &#39;Don&#39;t Look Up&#39; director talk comet metaphors and global warming &lpar;exclusive&rpar;](https://www.space.com/dont-look-up-climate-change-comet-metaphore-scientist-praise)
+- [China builds &#39;artificial moon&#39; for gravity experiment](https://www.space.com/china-builds-artificial-moon)
+- [Strange and hidden Jupiter-size exoplanet spotted by astronomers and citizen scientists](https://www.space.com/hidden-exoplanet-discovery-tess-citizen-scientists)
 - [4-foot tsunami hits Tonga after explosive eruption of underwater volcano](https://www.space.com/tonga-tsunami-underwater-volcano-eruption)
 - [Is this the year that we get our dream back channeling platform?](https://techcrunch.com/2022/01/15/data-wants-to-disrupt-your-deal-flow-again/)
 - [This Week in Apps: Fortnite &lpar;sorta!&rpar; returns to iOS, PUBG Mobile maker sues over copycats, Apple plans for alternative payments in South Korea](https://techcrunch.com/2022/01/15/this-week-in-apps-fortnite-sorta-returns-to-ios-pubg-mobile-maker-sues-over-copycats-apple-plans-for-alternative-payments-in-south-korea/)
@@ -102,9 +105,6 @@
 - [Raising money is catastrophically challenging for female founders](https://techcrunch.com/2022/01/15/raising-money-is-catastrophically-challenging-for-female-founders/)
 - [On This Day in Space! Jan. 15, 2006: Stardust spacecraft returns samples of comet dust](https://www.space.com/39251-on-this-day-in-space.html)
 - [Learn the backstory of Grudge the Cat with IDW&#39;s new &#39;Star Trek: Discovery&#39; comic miniseries](https://www.space.com/star-trek-discovery-adventures-in-the-32nd-century-grudge-cat-comic)
-- [Brace yourself for a peek at Boom!&#39;s new &#39;Dune&#39; comic book &#39;A Whisper of Caladan Seas #1&#39;](https://www.space.com/dune-a-whisper-of-caladan-seas-comic-book)
-- [Pentagon launches new UFO office. Not all believers are happy about it.](https://www.space.com/us-government-investigate-ufos)
-- [Explosive underwater volcano eruption in Tonga spotted from space in satellite images](https://www.space.com/tonga-volcano-eruption-satellite-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
