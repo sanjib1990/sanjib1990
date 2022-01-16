@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Huge Tonga underwater volcano eruption captured in stunning satellite video](https://www.space.com/tonga-underwater-volcano-stunning-eruption-from-space-video)
 - [Climate scientist and Netflix &#39;Don&#39;t Look Up&#39; director talk comet metaphors and global warming &lpar;exclusive&rpar;](https://www.space.com/dont-look-up-climate-change-comet-metaphore-scientist-praise)
 - [China builds &#39;artificial moon&#39; for gravity experiment](https://www.space.com/china-builds-artificial-moon)
 - [Strange and hidden Jupiter-size exoplanet spotted by astronomers and citizen scientists](https://www.space.com/hidden-exoplanet-discovery-tess-citizen-scientists)
@@ -104,7 +105,6 @@
 - [The race to fund crypto’s future sure is expensive](https://techcrunch.com/2022/01/15/the-race-to-fund-cryptos-future-sure-is-expensive/)
 - [Raising money is catastrophically challenging for female founders](https://techcrunch.com/2022/01/15/raising-money-is-catastrophically-challenging-for-female-founders/)
 - [On This Day in Space! Jan. 15, 2006: Stardust spacecraft returns samples of comet dust](https://www.space.com/39251-on-this-day-in-space.html)
-- [Learn the backstory of Grudge the Cat with IDW&#39;s new &#39;Star Trek: Discovery&#39; comic miniseries](https://www.space.com/star-trek-discovery-adventures-in-the-32nd-century-grudge-cat-comic)
 <!-- BLOG-POST-LIST:END -->
 
 ---
