@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ford signs 5-year agreement with Stripe to scale e-commerce](https://techcrunch.com/2022/01/17/ford-signs-5-year-agreement-with-stripe-to-scale-e-commerce/)
 - [Space startup Wyvern raises $4.5M and joins YC’s latest cohort](https://techcrunch.com/2022/01/17/space-startup-wyvern-raises-4-5m-and-joins-ycs-latest-cohort/)
 - [Rebundle raises $1.4M for plant-based hair extensions](https://techcrunch.com/2022/01/17/rebundle-raises-1-4m-for-plant-based-hair-extensions/)
 - [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
@@ -104,7 +105,6 @@
 - [Turkey’s Spyke raises $55M in a seed round to bring a social twist to casual mobile games](https://techcrunch.com/2022/01/17/turkeys-spyke-raises-55m-in-a-seed-round-to-bring-a-social-twist-to-casual-mobile-games/)
 - [Axiom Space: Building the off-Earth economy](https://www.space.com/axiom-space)
 - [Terrestrial planets: Definition &amp; facts about the inner planets and beyond](https://www.space.com/17028-terrestrial-planets.html)
-- [The Station: Cali regulators eye Tesla FSD, Turo files to go public, Local Motors shuts down](https://techcrunch.com/2022/01/17/the-station-cali-regulators-eye-tesla-fsd-turo-files-to-go-public-local-motors-shuts-down/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
