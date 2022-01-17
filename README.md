@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Launching with Blue Origin: Q&amp;A with spaceflight veteran Dylan Taylor](https://www.space.com/dylan-taylor-blue-origin-spaceflight-interview)
+- [On This Day in Space! Jan. 17, 1985: Final Aerobee sounding rocket launched](https://www.space.com/39251-on-this-day-in-space.html)
 - [Amazon rows back on threat to stop accepting UK-issued Visa cards](https://techcrunch.com/2022/01/17/amazon-ends-threat-to-not-accept-uk-visa-payments/)
 - [INDmoney raises $75M for its super finance app in India](https://techcrunch.com/2022/01/17/indmoney-super-app-finance-funding/)
 - [After Dutch antitrust order, Apple starts letting local dating apps use alternative payment options](https://techcrunch.com/2022/01/17/apple-app-store-dutch-antitrust-order/)
@@ -103,8 +105,6 @@
 - [You can watch SpaceX launch more than four dozen Starlink internet satellites tonight. Here&#39;s how.](https://www.space.com/spacex-starlink-satellite-second-january-2022-launch-webcast)
 - [Full Wolf Moon, the first full moon of 2022, rises tonight](https://www.space.com/full-wolf-moon-january-2022-rises-tonight)
 - [AI chip designer Moffett AI raises ‘tens of millions of dollars’ in Series A round](https://techcrunch.com/2022/01/17/moffett-china-series-a-round/)
-- [Nikon Nikkor Z 70-200mm f/2.8 S-Line lens review](https://www.space.com/nikon-70-200-f28-review)
-- [Nicolaus Copernicus biography: Facts &amp; discoveries](https://www.space.com/15684-nicolaus-copernicus.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
