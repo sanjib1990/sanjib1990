@@ -78,7 +78,7 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [the ultimate HACKING lab!! &lpar;docker container streaming Kali Linux!&rpar;](https://www.youtube.com/watch?v=U7e-mcJdZok)
+- [create the ULTIMATE hacking lab in 5min!! &lpar;Docker Containers STREAMING Kali Linux to your browser&rpar;](https://www.youtube.com/watch?v=U7e-mcJdZok)
 - [JavaScript in 100 Seconds](https://www.youtube.com/watch?v=DHjqpvDnNGE)
 - [S3:E4: When There Isn’t a Simple Answer with Prof. Dennis McLaughlin](https://www.youtube.com/watch?v=vCxqBgcLgNg)
 - [Is Redis the ONLY database you need? // Fullstack app from scratch with Next.js &amp; Redis](https://www.youtube.com/watch?v=DOIWQddRD5M)
