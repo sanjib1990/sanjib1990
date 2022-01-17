@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [InFlow, a science-based app for ADHD, raises $2.3M Seed led by Hoxton Ventures](https://techcrunch.com/2022/01/17/inflow-a-science-based-app-for-adhd-raises-2-3m-seed-led-by-hoxton-ventures/)
+- [Animoca, Galaxy Interactive and Polygon back gaming firm nCore in web3 push](https://techcrunch.com/2022/01/17/animoca-galaxy-interactive-and-polygon-back-gaming-firm-ncore-in-web3-push/)
 - [Ghanaian fintech Float raises $17M seed to power cash flow for commerce in Africa](https://techcrunch.com/2022/01/17/ghanaian-fintech-float-raises-17m-seed-to-power-cash-flow-for-commerce-in-africa/)
 - [Gradient, 10xFounders back Zowie’s no-code, e-commerce customer service tool](https://techcrunch.com/2022/01/17/gradient-10xfounders-back-zowies-no-code-e-commerce-customer-service-tool/)
 - [Spain’s Payflow, a salary advance startup, banks $9.1M to fuel a super app growth strategy](https://techcrunch.com/2022/01/17/payflow-series-a/)
 - [Juro draws $23M into its browser-based contract automation platform](https://techcrunch.com/2022/01/17/juro-series-b/)
-- [Ugandan lender Asaak raises $30million to support acquisition of motorbikes, smartphones by taxi operators](https://techcrunch.com/2022/01/17/ugandan-lender-asaak-raises-30million-to-support-acquisition-of-motorbikes-smartphones-by-taxi-operators/)
+- [Ugandan fintech Asaak raises $30million to support acquisition of motorbikes, smartphones by taxi operators](https://techcrunch.com/2022/01/17/ugandan-fintech-asaak-raises-30million-to-support-acquisition-of-motorbikes-smartphones-by-taxi-operators/)
 - [Tado, the German smart home energy startup, plans to go public via a SPAC at a €450M valuation](https://techcrunch.com/2022/01/16/tado-the-german-smart-home-energy-startup-plans-to-go-public-via-a-spac-at-a-e450m-valuation/)
 - [Social robotics company Furhat buys Sphero spin-out company Misty Robotics](https://techcrunch.com/2022/01/16/furhat-buys-misty/)
 - [7bridges raises $17M to automate logistics supply chains using AI](https://techcrunch.com/2022/01/16/7bridges-raises-17m-to-automate-logistics-supply-chains-using-ai/)
-- [Warehouse robotics system Exotec raises $335 million](https://techcrunch.com/2022/01/16/warehouse-robotics-system-exotec-raises-335-million/)
-- [On This Day in Space! Jan. 16, 1969: 1st docking of 2 crewed spacecraft](https://www.space.com/39251-on-this-day-in-space.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
