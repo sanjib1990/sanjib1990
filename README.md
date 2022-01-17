@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI chip designer Moffett AI raises ‘tens of millions of dollars’ in Series A round](https://techcrunch.com/2022/01/17/moffett-china-series-a-round/)
+- [Nicolaus Copernicus biography: Facts &amp; discoveries](https://www.space.com/15684-nicolaus-copernicus.html)
 - [InFlow, a science-based app for ADHD, raises $2.3M Seed led by Hoxton Ventures](https://techcrunch.com/2022/01/17/inflow-a-science-based-app-for-adhd-raises-2-3m-seed-led-by-hoxton-ventures/)
 - [Animoca, Galaxy Interactive and Polygon back gaming firm nCore in web3 push](https://techcrunch.com/2022/01/17/animoca-galaxy-interactive-and-polygon-back-gaming-firm-ncore-in-web3-push/)
 - [Ghanaian fintech Float raises $17M seed to power cash flow for commerce in Africa](https://techcrunch.com/2022/01/17/ghanaian-fintech-float-raises-17m-seed-to-power-cash-flow-for-commerce-in-africa/)
@@ -103,8 +105,6 @@
 - [Juro draws $23M into its browser-based contract automation platform](https://techcrunch.com/2022/01/17/juro-series-b/)
 - [Ugandan fintech Asaak raises $30million to support acquisition of motorbikes, smartphones by taxi operators](https://techcrunch.com/2022/01/17/ugandan-fintech-asaak-raises-30million-to-support-acquisition-of-motorbikes-smartphones-by-taxi-operators/)
 - [Tado, the German smart home energy startup, plans to go public via a SPAC at a €450M valuation](https://techcrunch.com/2022/01/16/tado-the-german-smart-home-energy-startup-plans-to-go-public-via-a-spac-at-a-e450m-valuation/)
-- [Social robotics company Furhat buys Sphero spin-out company Misty Robotics](https://techcrunch.com/2022/01/16/furhat-buys-misty/)
-- [7bridges raises $17M to automate logistics supply chains using AI](https://techcrunch.com/2022/01/16/7bridges-raises-17m-to-automate-logistics-supply-chains-using-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
