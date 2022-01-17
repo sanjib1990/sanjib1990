@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [7bridges raises $17M to automate logistics supply chains using AI](https://techcrunch.com/2022/01/16/7bridges-raises-17m-to-automate-logistics-supply-chains-using-ai/)
 - [Warehouse robotics system Exotec raises $335 million](https://techcrunch.com/2022/01/16/warehouse-robotics-system-exotec-raises-335-million/)
 - [On This Day in Space! Jan. 16, 1969: 1st docking of 2 crewed spacecraft](https://www.space.com/39251-on-this-day-in-space.html)
 - [Moon phases 2022: This year&#39;s moon cycles](https://www.space.com/18880-moon-phases.html)
@@ -104,7 +105,6 @@
 - [Strange and hidden Jupiter-size exoplanet spotted by astronomers and citizen scientists](https://www.space.com/hidden-exoplanet-discovery-tess-citizen-scientists)
 - [Launching with Blue Origin: Q&amp;A with spaceflight veteran Dylan Taylor](https://www.space.com/dylan-taylor-blue-origin-spaceflight-interview)
 - [4-foot tsunami hits Tonga after explosive eruption of underwater volcano](https://www.space.com/tonga-tsunami-underwater-volcano-eruption)
-- [Is this the year that we get our dream back-channeling platform?](https://techcrunch.com/2022/01/15/data-wants-to-disrupt-your-deal-flow-again/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
