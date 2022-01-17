@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Space startup Wyvern raises $4.5M and joins YC’s latest cohort](https://techcrunch.com/2022/01/17/space-startup-wyvern-raises-4-5m-and-joins-ycs-latest-cohort/)
+- [Rebundle raises $1.4M for plant-based hair extensions](https://techcrunch.com/2022/01/17/rebundle-raises-1-4m-for-plant-based-hair-extensions/)
 - [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [Striking satellite photo captures Mount Vesuvius peering through a hole in the clouds](https://www.space.com/mount-vesuvius-satellite-photo)
 - [What is a satellite?](https://www.space.com/24839-satellites.html)
@@ -103,8 +105,6 @@
 - [Axiom Space: Building the off-Earth economy](https://www.space.com/axiom-space)
 - [Terrestrial planets: Definition &amp; facts about the inner planets and beyond](https://www.space.com/17028-terrestrial-planets.html)
 - [The Station: Cali regulators eye Tesla FSD, Turo files to go public, Local Motors shuts down](https://techcrunch.com/2022/01/17/the-station-cali-regulators-eye-tesla-fsd-turo-files-to-go-public-local-motors-shuts-down/)
-- [Launching with Blue Origin: Q&amp;A with spaceflight veteran Dylan Taylor](https://www.space.com/dylan-taylor-blue-origin-spaceflight-interview)
-- [On This Day in Space! Jan. 17, 1985: Final Aerobee sounding rocket launched](https://www.space.com/39251-on-this-day-in-space.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
