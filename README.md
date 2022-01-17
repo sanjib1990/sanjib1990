@@ -96,6 +96,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [AI chip designer Moffett AI raises ‘tens of millions of dollars’ in Series A round](https://techcrunch.com/2022/01/17/moffett-china-series-a-round/)
+- [Nikon Nikkor Z 70-200mm f/2.8 S-Line lens review](https://www.space.com/nikon-70-200-f28-review)
 - [Nicolaus Copernicus biography: Facts &amp; discoveries](https://www.space.com/15684-nicolaus-copernicus.html)
 - [InFlow, a science-based app for ADHD, raises $2.3M Seed led by Hoxton Ventures](https://techcrunch.com/2022/01/17/inflow-a-science-based-app-for-adhd-raises-2-3m-seed-led-by-hoxton-ventures/)
 - [Animoca, Galaxy Interactive and Polygon back gaming firm nCore in web3 push](https://techcrunch.com/2022/01/17/animoca-galaxy-interactive-and-polygon-back-gaming-firm-ncore-in-web3-push/)
@@ -104,7 +105,6 @@
 - [Spain’s Payflow, a salary advance startup, banks $9.1M to fuel a super app growth strategy](https://techcrunch.com/2022/01/17/payflow-series-a/)
 - [Juro draws $23M into its browser-based contract automation platform](https://techcrunch.com/2022/01/17/juro-series-b/)
 - [Ugandan fintech Asaak raises $30million to support acquisition of motorbikes, smartphones by taxi operators](https://techcrunch.com/2022/01/17/ugandan-fintech-asaak-raises-30million-to-support-acquisition-of-motorbikes-smartphones-by-taxi-operators/)
-- [Tado, the German smart home energy startup, plans to go public via a SPAC at a €450M valuation](https://techcrunch.com/2022/01/16/tado-the-german-smart-home-energy-startup-plans-to-go-public-via-a-spac-at-a-e450m-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
