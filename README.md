@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Axiom Space: Building the off-Earth economy](https://www.space.com/axiom-space)
+- [Terrestrial planets: Definition &amp; facts about the inner planets and beyond](https://www.space.com/17028-terrestrial-planets.html)
 - [Launching with Blue Origin: Q&amp;A with spaceflight veteran Dylan Taylor](https://www.space.com/dylan-taylor-blue-origin-spaceflight-interview)
 - [On This Day in Space! Jan. 17, 1985: Final Aerobee sounding rocket launched](https://www.space.com/39251-on-this-day-in-space.html)
 - [Amazon rows back on threat to stop accepting UK-issued Visa cards](https://techcrunch.com/2022/01/17/amazon-ends-threat-to-not-accept-uk-visa-payments/)
+- [Gravitational waves play with fast spinning stars, study suggests](https://www.space.com/millisecond-pulsars-gravitational-wave-backgroun)
 - [INDmoney raises $75M for its super finance app in India](https://techcrunch.com/2022/01/17/indmoney-super-app-finance-funding/)
 - [After Dutch antitrust order, Apple starts letting local dating apps use alternative payment options](https://techcrunch.com/2022/01/17/apple-app-store-dutch-antitrust-order/)
 - [The best Hubble Space Telescope images of all time!](https://www.space.com/best-hubble-space-telescope-images.html)
 - [Scorching alien planet takes seasons to an extreme](https://www.space.com/strong-seasons-exoplanet-eccentric-orbit)
-- [You can watch SpaceX launch more than four dozen Starlink internet satellites tonight. Here&#39;s how.](https://www.space.com/spacex-starlink-satellite-second-january-2022-launch-webcast)
-- [Full Wolf Moon, the first full moon of 2022, rises tonight](https://www.space.com/full-wolf-moon-january-2022-rises-tonight)
-- [AI chip designer Moffett AI raises ‘tens of millions of dollars’ in Series A round](https://techcrunch.com/2022/01/17/moffett-china-series-a-round/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
