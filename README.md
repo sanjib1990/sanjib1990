@@ -95,6 +95,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What really makes a planet habitable? Our assumptions may be wrong](https://www.space.com/exoplanets-habitable-zone-assumptions-maybe-wrong)
+- [Shopify and China’s JD.com team up to capture cross-border sellers](https://techcrunch.com/2022/01/18/shopify-jd-china-partnership/)
+- [US airlines warn C-Band 5G could cause ‘catastrophic disruption’](https://techcrunch.com/2022/01/18/us-airlines-warn-c-band-5g-could-cause-catastrophic-disruption/)
 - [Mustard looks beyond baseball as it raises another $3.75M for sensor-free sports coaching](https://techcrunch.com/2022/01/18/mustard-looks-beyond-baseball-as-it-raises-another-3-75m-for-sensor-free-sports-coaching/)
 - [Upward plans to open a 250,000-square-foot vertical farm in PA early next year](https://techcrunch.com/2022/01/18/upward-plans-to-open-a-250000-square-foot-vertical-farm-in-pa-early-next-year/)
 - [Toyota Ventures leads seed extension into Agtonomy, turning tractors into autonomous vehicles](https://techcrunch.com/2022/01/18/toyota-ventures-agtonomy-tractors-autonomous-vehicles/)
@@ -102,9 +105,6 @@
 - [Block’s Cash App adopts Lightning Network for free bitcoin payments](https://techcrunch.com/2022/01/18/blocks-cash-app-adopts-lightning-network-for-free-bitcoin-payments/)
 - [Walnut snaps up fresh capital after growing 700% in four months](https://techcrunch.com/2022/01/18/walnut-growing-700-in-four-months/)
 - [Microsoft to buy Activision Blizzard for $68.7 billion](https://techcrunch.com/2022/01/18/microsoft-acquire-activision-blizzard/)
-- [Appcues nabs $32.1M for analytics and no-code tools to fix user onboarding](https://techcrunch.com/2022/01/18/appcues-nabs-32-1m-for-analytics-and-no-code-tools-to-fix-user-onboarding/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [Fairplay closes $35M in equity, debt to provide revenue-based financing to entrepreneurs](https://techcrunch.com/2022/01/18/fairplay-closes-35m-in-equity-debt-to-provide-revenue-based-financing-to-entrepreneurs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
