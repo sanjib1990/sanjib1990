@@ -95,6 +95,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ex-Dispo founding members launch Roll app, where creators post exclusive content](https://techcrunch.com/2022/01/18/roll-app-ex-dispo-creator-platform/)
+- [COVIDTests.gov is accepting orders for free rapid tests a day early](https://techcrunch.com/2022/01/18/covidtests-gov-is-accepting-orders-for-free-rapid-tests-a-day-early/)
+- [Open source developers, who work for free, are discovering they have power](https://techcrunch.com/2022/01/18/open-source-developers-who-work-for-free-are-discovering-they-have-power/)
 - [Join the first TechCrunch Live episode to hear how Heartbeat Health raised from Kindred Ventures](https://techcrunch.com/2022/01/18/join-the-first-techcrunch-live-episode-to-hear-how-heartbeat-health-raised-from-kindred-ventures/)
 - [Aigen’s swarm of agtech robots want to make agriculture carbon positive](https://techcrunch.com/2022/01/18/aigen-fund-round/)
 - [Apple returns to No. 1 as global smartphone shipments grapple with supply chain concerns](https://techcrunch.com/2022/01/18/apple-returns-to-no-1-as-global-smartphone-shipments-grapple-with-supply-chain-concerns/)
@@ -102,9 +105,6 @@
 - [Ford and ADT team up to prevent theft from vehicles](https://techcrunch.com/2022/01/18/ford-and-adt-launch-joint-venture-new-product-to-prevent-theft-from-vehicles/)
 - [For investors, future of work isn’t only about HR](https://techcrunch.com/2022/01/18/for-investors-future-of-work-isnt-only-about-hr/)
 - [Our expanding universe: Age, history &amp; other facts](https://www.space.com/52-the-expanding-universe-from-the-big-bang-to-today.html)
-- [Best asteroid movies, ranked](https://www.space.com/best-asteroid-movies)
-- [Twitter expands misinformation reporting feature to more international markets](https://techcrunch.com/2022/01/18/twitter-expands-misinformation-reporting-feature-to-more-international-markets/)
-- [What really makes a planet habitable? Our assumptions may be wrong](https://www.space.com/exoplanets-habitable-zone-assumptions-maybe-wrong)
 <!-- BLOG-POST-LIST:END -->
 
 ---
