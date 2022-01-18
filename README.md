@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Finclusion raises $20M to build out credit-led neobank offerings across Africa](https://techcrunch.com/2022/01/18/finclusion-raises-20m-to-build-out-credit-led-neobank-offerings-across-africa/)
+- [Kenyan low-cost ISP Poa Internet secures $28 million in round led by AfDB-backed Africa50, plans to link region with cheap, limit-free connectivity](https://techcrunch.com/2022/01/18/kenyan-low-cost-isp-poa-internet-secures-28-million-in-round-led-by-afdb-backed-africa50-plans-to-link-region-with-cheap-limit-free-connectivity/)
+- [Hero MotoCorp, Engine No. 1 join Gogoro’s PIPE, bringing it up to $285M](https://techcrunch.com/2022/01/18/hero-motocorp-engine-no-1-join-gogoros-pipe-bringing-it-up-to-285m/)
+- [Blossom Capital closes $432M fund for Series A deals in Europe](https://techcrunch.com/2022/01/18/blossom-capital-closes-432m-fund-for-series-a-deals-in-europe/)
+- [Finclusion raises $20M to build out credit-led neobank offering across Africa](https://techcrunch.com/2022/01/18/finclusion-raises-20m-to-build-out-credit-led-neobank-offerings-across-africa/)
 - [LiveHive wants to be a ‘one stop shop’ for online yoga teachers, PTs  and other coaches](https://techcrunch.com/2022/01/18/livehive-wants-to-be-a-one-stop-shop-for-online-yoga-teachers-pts-and-other-coaches/)
 - [Nigerian restaurant management platform Orda gets $1.1M, wants to be the Toast of Africa](https://techcrunch.com/2022/01/17/nigerian-restaurant-management-platform-orda-gets-1-1m-wants-to-be-the-toast-of-africa/)
 - [Spendesk is the fifth French startup to reach unicorn status this month](https://techcrunch.com/2022/01/17/spendesk-is-the-fifth-french-startup-to-reach-unicorn-status-this-month/)
 - [Crypto.com expands venture arm to $500 million to back early-stage web3 startups](https://techcrunch.com/2022/01/17/crypto-com-500-million-fund-web3/)
 - [Focused on smaller cities, Vietnamese social commerce startup Mio raises $8M Series A](https://techcrunch.com/2022/01/17/focused-on-smaller-cities-vietnamese-social-commerce-startup-mio-raises-8m-series-a/)
 - [South Korean HR automation platform flex raises $32M Series B at a $287M valuation](https://techcrunch.com/2022/01/17/south-koreas-hr-software-platform-flex-raises-32m-series-b-at-a-287m-valuation/)
-- [India’s Arya raises $60 million to provide farmers with finance and post-harvest services](https://techcrunch.com/2022/01/17/arya-post-harvest-services-india-agritech/)
-- [New York Times ad warns against Tesla’s “Full Self-Driving”](https://techcrunch.com/2022/01/17/new-york-times-ad-warns-against-teslas-full-self-driving/)
-- [Ford signs 5-year agreement with Stripe to scale e-commerce](https://techcrunch.com/2022/01/17/ford-signs-5-year-agreement-with-stripe-to-scale-e-commerce/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
