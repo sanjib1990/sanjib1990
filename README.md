@@ -95,6 +95,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Focused on smaller cities, Vietnamese social commerce startup Mio raises $8M Series A](https://techcrunch.com/2022/01/17/focused-on-smaller-cities-vietnamese-social-commerce-startup-mio-raises-8m-series-a/)
+- [South Korean HR automation platform flex raises $32M Series B at a $287M valuation](https://techcrunch.com/2022/01/17/south-koreas-hr-software-platform-flex-raises-32m-series-b-at-a-287m-valuation/)
+- [India’s Arya raises $60 million to provide farmers with finance and post-harvest services](https://techcrunch.com/2022/01/17/arya-post-harvest-services-india-agritech/)
 - [New York Times ad warns against Tesla’s “Full Self-Driving”](https://techcrunch.com/2022/01/17/new-york-times-ad-warns-against-teslas-full-self-driving/)
 - [Ford signs 5-year agreement with Stripe to scale e-commerce](https://techcrunch.com/2022/01/17/ford-signs-5-year-agreement-with-stripe-to-scale-e-commerce/)
 - [Space startup Wyvern raises $4.5M and joins YC’s latest cohort](https://techcrunch.com/2022/01/17/space-startup-wyvern-raises-4-5m-and-joins-ycs-latest-cohort/)
@@ -102,9 +105,6 @@
 - [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [Striking satellite photo captures Mount Vesuvius peering through a hole in the clouds](https://www.space.com/mount-vesuvius-satellite-photo)
 - [What is a satellite?](https://www.space.com/24839-satellites.html)
-- [Burnt Finance raises $8M led by Animoca Brands, launches DeFi-oriented NFT marketplace](https://techcrunch.com/2022/01/17/burnt-finance-raises-8m-led-by-animoca-brands-launches-defi-oriented-nft-marketplace/)
-- [Turkey’s Spyke raises $55M in a seed round to bring a social twist to casual mobile games](https://techcrunch.com/2022/01/17/turkeys-spyke-raises-55m-in-a-seed-round-to-bring-a-social-twist-to-casual-mobile-games/)
-- [Axiom Space: Building the off-Earth economy](https://www.space.com/axiom-space)
 <!-- BLOG-POST-LIST:END -->
 
 ---
