@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Possible sign of Mars life? Curiosity rover finds &#39;tantalizing&#39; Red Planet organics](https://www.space.com/mars-organics-curiosity-rover-possible-biosignature)
+- [Blink Charging to supply EV chargers to General Motors dealerships](https://techcrunch.com/2022/01/18/blink-charging-to-supply-ev-chargers-to-general-motors-dealerships/)
+- [Snapchat says it’s getting better at finding illicit drug dealers before users do](https://techcrunch.com/2022/01/18/snapchat-fentanyl-opioid-crisis-update/)
 - [Will quantum computing remain the domain of the specialist VC?](https://techcrunch.com/2022/01/18/will-quantum-computing-remain-the-domain-of-the-specialist-vc/)
-- [Ex-Dispo founding members launch Roll app, where creators post exclusive content](https://techcrunch.com/2022/01/18/roll-app-ex-dispo-creator-platform/)
+- [Roll is a new app letting you subscribe to paywalled creator content](https://techcrunch.com/2022/01/18/roll-app-creator-platform/)
 - [COVIDTests.gov is accepting orders for free rapid tests a day early](https://techcrunch.com/2022/01/18/covidtests-gov-is-accepting-orders-for-free-rapid-tests-a-day-early/)
 - [Open source developers, who work for free, are discovering they have power](https://techcrunch.com/2022/01/18/open-source-developers-who-work-for-free-are-discovering-they-have-power/)
 - [Join the first TechCrunch Live episode to hear how Heartbeat Health raised from Kindred Ventures](https://techcrunch.com/2022/01/18/join-the-first-techcrunch-live-episode-to-hear-how-heartbeat-health-raised-from-kindred-ventures/)
 - [Aigen’s swarm of agtech robots want to make agriculture carbon negative](https://techcrunch.com/2022/01/18/aigen-fund-round/)
 - [Apple returns to No. 1 as global smartphone shipments grapple with supply chain concerns](https://techcrunch.com/2022/01/18/apple-returns-to-no-1-as-global-smartphone-shipments-grapple-with-supply-chain-concerns/)
-- [Register today for DeFi and the Future of Programmable Money Summit](https://techcrunch.com/2022/01/18/register-today-for-defi-and-the-future-of-programmable-money-summit/)
-- [Ford and ADT team up to prevent theft from vehicles](https://techcrunch.com/2022/01/18/ford-and-adt-launch-joint-venture-new-product-to-prevent-theft-from-vehicles/)
-- [For investors, future of work isn’t only about HR](https://techcrunch.com/2022/01/18/for-investors-future-of-work-isnt-only-about-hr/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
