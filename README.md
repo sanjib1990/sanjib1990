@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [China’s digital yuan wallet now has 260 million individual users](https://techcrunch.com/2022/01/18/chinas-digital-yuan-wallet-now-has-260-million-individual-users/)
 - [Kenyan low-cost ISP Poa Internet secures $28 million in round led by AfDB-backed Africa50, plans to link region with cheap, limit-free connectivity](https://techcrunch.com/2022/01/18/kenyan-low-cost-isp-poa-internet-secures-28-million-in-round-led-by-afdb-backed-africa50-plans-to-link-region-with-cheap-limit-free-connectivity/)
 - [Hero MotoCorp, Engine No. 1 join Gogoro’s PIPE, bringing it up to $285M](https://techcrunch.com/2022/01/18/hero-motocorp-engine-no-1-join-gogoros-pipe-bringing-it-up-to-285m/)
 - [Blossom Capital closes $432M fund for Series A deals in Europe](https://techcrunch.com/2022/01/18/blossom-capital-closes-432m-fund-for-series-a-deals-in-europe/)
@@ -104,7 +105,6 @@
 - [Spendesk is the fifth French startup to reach unicorn status this month](https://techcrunch.com/2022/01/17/spendesk-is-the-fifth-french-startup-to-reach-unicorn-status-this-month/)
 - [Crypto.com expands venture arm to $500 million to back early-stage web3 startups](https://techcrunch.com/2022/01/17/crypto-com-500-million-fund-web3/)
 - [Focused on smaller cities, Vietnamese social commerce startup Mio raises $8M Series A](https://techcrunch.com/2022/01/17/focused-on-smaller-cities-vietnamese-social-commerce-startup-mio-raises-8m-series-a/)
-- [South Korean HR automation platform flex raises $32M Series B at a $287M valuation](https://techcrunch.com/2022/01/17/south-koreas-hr-software-platform-flex-raises-32m-series-b-at-a-287m-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
