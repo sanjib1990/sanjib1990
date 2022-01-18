@@ -95,6 +95,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Animoca Brands has raised funding at a more than $5B valuation, triple where it was in October](https://techcrunch.com/2022/01/18/animoca-brands-has-raised-funding-at-a-more-than-5b-valuation-triple-where-it-was-in-november/)
+- [Could humanlike behavior make smart devices more engaging? MIT researchers think so](https://techcrunch.com/2022/01/18/could-humanlike-behavior-make-smart-devices-more-engaging-mit-researchers-think-so/)
+- [Tesla shareholders urge judge to find Musk coerced board to buy SolarCity](https://techcrunch.com/2022/01/18/tesla-shareholders-urge-judge-to-find-musk-coerced-board-to-buy-solarcity/)
 - [Possible sign of Mars life? Curiosity rover finds &#39;tantalizing&#39; Red Planet organics](https://www.space.com/mars-organics-curiosity-rover-possible-biosignature)
 - [Blink Charging to supply EV chargers to General Motors dealerships](https://techcrunch.com/2022/01/18/blink-charging-to-supply-ev-chargers-to-general-motors-dealerships/)
 - [Snapchat says it’s getting better at finding illicit drug dealers before users do](https://techcrunch.com/2022/01/18/snapchat-fentanyl-opioid-crisis-update/)
@@ -102,9 +105,6 @@
 - [Roll is a new app letting you subscribe to paywalled creator content](https://techcrunch.com/2022/01/18/roll-app-creator-platform/)
 - [COVIDTests.gov is accepting orders for free rapid tests a day early](https://techcrunch.com/2022/01/18/covidtests-gov-is-accepting-orders-for-free-rapid-tests-a-day-early/)
 - [Open source developers, who work for free, are discovering they have power](https://techcrunch.com/2022/01/18/open-source-developers-who-work-for-free-are-discovering-they-have-power/)
-- [Join the first TechCrunch Live episode to hear how Heartbeat Health raised from Kindred Ventures](https://techcrunch.com/2022/01/18/join-the-first-techcrunch-live-episode-to-hear-how-heartbeat-health-raised-from-kindred-ventures/)
-- [Aigen’s swarm of agtech robots want to make agriculture carbon negative](https://techcrunch.com/2022/01/18/aigen-fund-round/)
-- [Apple returns to No. 1 as global smartphone shipments grapple with supply chain concerns](https://techcrunch.com/2022/01/18/apple-returns-to-no-1-as-global-smartphone-shipments-grapple-with-supply-chain-concerns/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
