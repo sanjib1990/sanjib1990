@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Castiron serves up a $6M seed round to support ‘food artisans’](https://techcrunch.com/2022/01/18/castiron-serves-up-a-6m-seed-round-to-support-food-artisans/)
+- [Faeth Therapeutics closes $20M seed to turn nutrition into a pillar of cancer treatment](https://techcrunch.com/2022/01/18/faeth-therapeutics-closes-20m-seed-to-turn-nutrition-into-a-pillar-of-cancer-treatment/)
+- [How one founder is building a sustainable platform for proactive mental health care](https://techcrunch.com/2022/01/18/how-one-founder-is-building-a-sustainable-platform-for-proactive-mental-health-care/)
+- [Wayve raises $200M Series B led by Eclipse for its AI for autonomous delivery vehicles](https://techcrunch.com/2022/01/18/wayve-raises-200m-series-b-led-by-eclipse-for-its-ai-for-autonomous-delivery-vehicles/)
+- [Ash from Tonga volcano reaches record altitude but climate cooling unlikely](https://www.space.com/tonga-volcano-eruption-wont-cool-climate)
 - [Pinwheel raises $50M Series B at $500M valuation for its income verification APIs](https://techcrunch.com/2022/01/18/pinwheel-raises-50m-series-b-at-500m-valuation-for-its-income-verification-apis/)
 - [Permiso emerges from stealth with $10M to tackle the next wave of cloud security](https://techcrunch.com/2022/01/18/permiso-stealth-cloud-security/)
 - [On This Day in Space! Jan. 18, 2002: Gemini South Observatory opens in Chile](https://www.space.com/39251-on-this-day-in-space.html)
 - [Verana Health closes $150M to glean more detail from electronic health records](https://techcrunch.com/2022/01/18/verana-health-closes-150m-to-glean-more-detail-from-electronic-health-records/)
 - [A huge asteroid flies will fly safely by Earth today. Here&#39;s how to watch it live.](https://www.space.com/huge-asteroid-1994-pc1-earth-flyby-webcast)
-- [Astronomers propose building a neutrino telescope — out of the Pacific Ocean](https://www.space.com/pacific-ocean-neutrino-detector-p-one-concept)
-- [You can watch SpaceX launch more than four dozen Starlink internet satellites tonight. Here&#39;s how.](https://www.space.com/spacex-starlink-satellite-second-january-2022-launch-webcast)
-- [Chilly, damp Mars may have hosted an ancient ocean](https://www.space.com/mars-ocean-northern-hemisphere)
-- [Score another win for Istanbul gaming startups: Dream Games raises $255M at a $2.75B valuation](https://techcrunch.com/2022/01/18/score-another-win-for-istanbul-gaming-startups-dream-games-raises-255m-at-a-2-75b-valuation/)
-- [HTC VR headsets are on sale in the UK until the end of January](https://www.space.com/htc-winter-savings-vr-headset-deals)
 <!-- BLOG-POST-LIST:END -->
 
 ---
