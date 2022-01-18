@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Join the first TechCrunch Live episode to hear how Heartbeat Health raised from Kindred Ventures](https://techcrunch.com/2022/01/18/join-the-first-techcrunch-live-episode-to-hear-how-heartbeat-health-raised-from-kindred-ventures/)
+- [Aigen’s swarm of agtech robots want to make agriculture carbon positive](https://techcrunch.com/2022/01/18/aigen-fund-round/)
+- [Apple returns to No. 1 as global smartphone shipments grapple with supply chain concerns](https://techcrunch.com/2022/01/18/apple-returns-to-no-1-as-global-smartphone-shipments-grapple-with-supply-chain-concerns/)
+- [Register today for DeFi and the Future of Programmable Money Summit](https://techcrunch.com/2022/01/18/register-today-for-defi-and-the-future-of-programmable-money-summit/)
+- [Ford and ADT team up to prevent theft from vehicles](https://techcrunch.com/2022/01/18/ford-and-adt-launch-joint-venture-new-product-to-prevent-theft-from-vehicles/)
+- [For investors, future of work isn’t only about HR](https://techcrunch.com/2022/01/18/for-investors-future-of-work-isnt-only-about-hr/)
+- [Our expanding universe: Age, history &amp; other facts](https://www.space.com/52-the-expanding-universe-from-the-big-bang-to-today.html)
 - [Best asteroid movies, ranked](https://www.space.com/best-asteroid-movies)
 - [Twitter expands misinformation reporting feature to more international markets](https://techcrunch.com/2022/01/18/twitter-expands-misinformation-reporting-feature-to-more-international-markets/)
 - [What really makes a planet habitable? Our assumptions may be wrong](https://www.space.com/exoplanets-habitable-zone-assumptions-maybe-wrong)
-- [Shopify and China’s JD.com team up to capture cross-border sellers](https://techcrunch.com/2022/01/18/shopify-jd-china-partnership/)
-- [US airlines warn C-Band 5G could cause ‘catastrophic disruption’](https://techcrunch.com/2022/01/18/us-airlines-warn-c-band-5g-could-cause-catastrophic-disruption/)
-- [Mustard looks beyond baseball as it raises another $3.75M for sensor-free sports coaching](https://techcrunch.com/2022/01/18/mustard-looks-beyond-baseball-as-it-raises-another-3-75m-for-sensor-free-sports-coaching/)
-- [Upward plans to open a 250,000-square-foot vertical farm in PA early next year](https://techcrunch.com/2022/01/18/upward-plans-to-open-a-250000-square-foot-vertical-farm-in-pa-early-next-year/)
-- [Toyota Ventures leads seed extension into Agtonomy, turning tractors into autonomous vehicles](https://techcrunch.com/2022/01/18/toyota-ventures-agtonomy-tractors-autonomous-vehicles/)
-- [Smart calendar tool Clockwise raises $45M to help remote teams avoid burnout using AI](https://techcrunch.com/2022/01/18/smart-calendar-tool-clockwise-raises-45m-to-use-ai-to-help-remote-teams-avoid-burnout/)
-- [Block’s Cash App adopts Lightning Network for free bitcoin payments](https://techcrunch.com/2022/01/18/blocks-cash-app-adopts-lightning-network-for-free-bitcoin-payments/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
