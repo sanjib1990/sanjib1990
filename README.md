@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Castiron serves up a $6M seed round to support ‘food artisans’](https://techcrunch.com/2022/01/18/castiron-serves-up-a-6m-seed-round-to-support-food-artisans/)
-- [Faeth Therapeutics closes $20M seed to turn nutrition into a pillar of cancer treatment](https://techcrunch.com/2022/01/18/faeth-therapeutics-closes-20m-seed-to-turn-nutrition-into-a-pillar-of-cancer-treatment/)
-- [How one founder is building a sustainable platform for proactive mental health care](https://techcrunch.com/2022/01/18/how-one-founder-is-building-a-sustainable-platform-for-proactive-mental-health-care/)
-- [Wayve raises $200M Series B led by Eclipse for its AI for autonomous delivery vehicles](https://techcrunch.com/2022/01/18/wayve-raises-200m-series-b-led-by-eclipse-for-its-ai-for-autonomous-delivery-vehicles/)
-- [Ash from Tonga volcano reaches record altitude but climate cooling unlikely](https://www.space.com/tonga-volcano-eruption-wont-cool-climate)
-- [Pinwheel raises $50M Series B at $500M valuation for its income verification APIs](https://techcrunch.com/2022/01/18/pinwheel-raises-50m-series-b-at-500m-valuation-for-its-income-verification-apis/)
-- [Permiso emerges from stealth with $10M to tackle the next wave of cloud security](https://techcrunch.com/2022/01/18/permiso-stealth-cloud-security/)
-- [On This Day in Space! Jan. 18, 2002: Gemini South Observatory opens in Chile](https://www.space.com/39251-on-this-day-in-space.html)
-- [Verana Health closes $150M to glean more detail from electronic health records](https://techcrunch.com/2022/01/18/verana-health-closes-150m-to-glean-more-detail-from-electronic-health-records/)
-- [A huge asteroid flies will fly safely by Earth today. Here&#39;s how to watch it live.](https://www.space.com/huge-asteroid-1994-pc1-earth-flyby-webcast)
+- [Mustard looks beyond baseball as it raises another $3.75M for sensor-free sports coaching](https://techcrunch.com/2022/01/18/mustard-looks-beyond-baseball-as-it-raises-another-3-75m-for-sensor-free-sports-coaching/)
+- [Upward plans to open a 250,000-square-foot vertical farm in PA early next year](https://techcrunch.com/2022/01/18/upward-plans-to-open-a-250000-square-foot-vertical-farm-in-pa-early-next-year/)
+- [Toyota Ventures leads seed extension into Agtonomy, turning tractors into autonomous vehicles](https://techcrunch.com/2022/01/18/toyota-ventures-agtonomy-tractors-autonomous-vehicles/)
+- [Smart calendar tool Clockwise raises $45M to help remote teams avoid burnout using AI](https://techcrunch.com/2022/01/18/smart-calendar-tool-clockwise-raises-45m-to-use-ai-to-help-remote-teams-avoid-burnout/)
+- [Block’s Cash App adopts Lightning Network for free bitcoin payments](https://techcrunch.com/2022/01/18/blocks-cash-app-adopts-lightning-network-for-free-bitcoin-payments/)
+- [Walnut snaps up fresh capital after growing 700% in four months](https://techcrunch.com/2022/01/18/walnut-growing-700-in-four-months/)
+- [Microsoft to buy Activision Blizzard for $68.7 billion](https://techcrunch.com/2022/01/18/microsoft-acquire-activision-blizzard/)
+- [Appcues nabs $32.1M for analytics and no-code tools to fix user onboarding](https://techcrunch.com/2022/01/18/appcues-nabs-32-1m-for-analytics-and-no-code-tools-to-fix-user-onboarding/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [Fairplay closes $35M in equity, debt to provide revenue-based financing to entrepreneurs](https://techcrunch.com/2022/01/18/fairplay-closes-35m-in-equity-debt-to-provide-revenue-based-financing-to-entrepreneurs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
