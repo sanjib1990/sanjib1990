@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Crypto.com expands venture arm to $500 million to back early-stage web3 startups](https://techcrunch.com/2022/01/17/crypto-com-500-million-fund-web3/)
 - [Focused on smaller cities, Vietnamese social commerce startup Mio raises $8M Series A](https://techcrunch.com/2022/01/17/focused-on-smaller-cities-vietnamese-social-commerce-startup-mio-raises-8m-series-a/)
 - [South Korean HR automation platform flex raises $32M Series B at a $287M valuation](https://techcrunch.com/2022/01/17/south-koreas-hr-software-platform-flex-raises-32m-series-b-at-a-287m-valuation/)
 - [India’s Arya raises $60 million to provide farmers with finance and post-harvest services](https://techcrunch.com/2022/01/17/arya-post-harvest-services-india-agritech/)
@@ -104,7 +105,6 @@
 - [Rebundle raises $1.4M for plant-based hair extensions](https://techcrunch.com/2022/01/17/rebundle-raises-1-4m-for-plant-based-hair-extensions/)
 - [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [Striking satellite photo captures Mount Vesuvius peering through a hole in the clouds](https://www.space.com/mount-vesuvius-satellite-photo)
-- [What is a satellite?](https://www.space.com/24839-satellites.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
