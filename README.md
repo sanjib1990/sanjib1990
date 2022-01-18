@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spendesk is the fifth French startup to reach unicorn status this month](https://techcrunch.com/2022/01/17/spendesk-is-the-fifth-french-startup-to-reach-unicorn-status-this-month/)
 - [Crypto.com expands venture arm to $500 million to back early-stage web3 startups](https://techcrunch.com/2022/01/17/crypto-com-500-million-fund-web3/)
 - [Focused on smaller cities, Vietnamese social commerce startup Mio raises $8M Series A](https://techcrunch.com/2022/01/17/focused-on-smaller-cities-vietnamese-social-commerce-startup-mio-raises-8m-series-a/)
 - [South Korean HR automation platform flex raises $32M Series B at a $287M valuation](https://techcrunch.com/2022/01/17/south-koreas-hr-software-platform-flex-raises-32m-series-b-at-a-287m-valuation/)
@@ -104,7 +105,6 @@
 - [Space startup Wyvern raises $4.5M and joins YC’s latest cohort](https://techcrunch.com/2022/01/17/space-startup-wyvern-raises-4-5m-and-joins-ycs-latest-cohort/)
 - [Rebundle raises $1.4M for plant-based hair extensions](https://techcrunch.com/2022/01/17/rebundle-raises-1-4m-for-plant-based-hair-extensions/)
 - [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [Striking satellite photo captures Mount Vesuvius peering through a hole in the clouds](https://www.space.com/mount-vesuvius-satellite-photo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
