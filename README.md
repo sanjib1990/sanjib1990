@@ -78,6 +78,8 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Build a WEB3 app to mint unlimited NFTs… But should you?](https://www.youtube.com/watch?v=meTpMP0J5E8)
+- [What is DevOps? REALLY understand it | DevOps vs SRE](https://www.youtube.com/watch?v=0yWAtQ6wYNM)
 - [create the ULTIMATE hacking lab in 5min!! &lpar;Docker Containers STREAMING Kali Linux to your browser&rpar;](https://www.youtube.com/watch?v=U7e-mcJdZok)
 - [JavaScript in 100 Seconds](https://www.youtube.com/watch?v=DHjqpvDnNGE)
 - [S3:E4: When There Isn’t a Simple Answer with Prof. Dennis McLaughlin](https://www.youtube.com/watch?v=vCxqBgcLgNg)
@@ -86,8 +88,6 @@
 - [Man in the Middle &amp; Needham–Schroeder Protocol - Computerphile](https://www.youtube.com/watch?v=EtpdLBeIaus)
 - [Binary Explained in 01100100 Seconds](https://www.youtube.com/watch?v=zDNaUi2cjv4)
 - [Git Overview - Computerphile](https://www.youtube.com/watch?v=92sycL8ij-U)
-- [Log4J &amp; JNDI Exploit: Why So Bad? - Computerphile](https://www.youtube.com/watch?v=Opqgwn8TdlM)
-- [i&#39;m buying everyone NFTs for Christmas](https://www.youtube.com/watch?v=rHCwI4K7afY)
 <!-- YOUTUBE:END -->
 
 ---
