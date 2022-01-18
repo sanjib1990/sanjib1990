@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Best asteroid movies, ranked](https://www.space.com/best-asteroid-movies)
+- [Twitter expands misinformation reporting feature to more international markets](https://techcrunch.com/2022/01/18/twitter-expands-misinformation-reporting-feature-to-more-international-markets/)
 - [What really makes a planet habitable? Our assumptions may be wrong](https://www.space.com/exoplanets-habitable-zone-assumptions-maybe-wrong)
 - [Shopify and China’s JD.com team up to capture cross-border sellers](https://techcrunch.com/2022/01/18/shopify-jd-china-partnership/)
 - [US airlines warn C-Band 5G could cause ‘catastrophic disruption’](https://techcrunch.com/2022/01/18/us-airlines-warn-c-band-5g-could-cause-catastrophic-disruption/)
@@ -103,8 +105,6 @@
 - [Toyota Ventures leads seed extension into Agtonomy, turning tractors into autonomous vehicles](https://techcrunch.com/2022/01/18/toyota-ventures-agtonomy-tractors-autonomous-vehicles/)
 - [Smart calendar tool Clockwise raises $45M to help remote teams avoid burnout using AI](https://techcrunch.com/2022/01/18/smart-calendar-tool-clockwise-raises-45m-to-use-ai-to-help-remote-teams-avoid-burnout/)
 - [Block’s Cash App adopts Lightning Network for free bitcoin payments](https://techcrunch.com/2022/01/18/blocks-cash-app-adopts-lightning-network-for-free-bitcoin-payments/)
-- [Walnut snaps up fresh capital after growing 700% in four months](https://techcrunch.com/2022/01/18/walnut-growing-700-in-four-months/)
-- [Microsoft to buy Activision Blizzard for $68.7 billion](https://techcrunch.com/2022/01/18/microsoft-acquire-activision-blizzard/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
