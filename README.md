@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Finclusion raises $20M to build out credit-led neobank offerings across Africa](https://techcrunch.com/2022/01/18/finclusion-raises-20m-to-build-out-credit-led-neobank-offerings-across-africa/)
+- [LiveHive wants to be a ‘one stop shop’ for online yoga teachers, PTs  and other coaches](https://techcrunch.com/2022/01/18/livehive-wants-to-be-a-one-stop-shop-for-online-yoga-teachers-pts-and-other-coaches/)
 - [Nigerian restaurant management platform Orda gets $1.1M, wants to be the Toast of Africa](https://techcrunch.com/2022/01/17/nigerian-restaurant-management-platform-orda-gets-1-1m-wants-to-be-the-toast-of-africa/)
 - [Spendesk is the fifth French startup to reach unicorn status this month](https://techcrunch.com/2022/01/17/spendesk-is-the-fifth-french-startup-to-reach-unicorn-status-this-month/)
 - [Crypto.com expands venture arm to $500 million to back early-stage web3 startups](https://techcrunch.com/2022/01/17/crypto-com-500-million-fund-web3/)
@@ -103,8 +105,6 @@
 - [India’s Arya raises $60 million to provide farmers with finance and post-harvest services](https://techcrunch.com/2022/01/17/arya-post-harvest-services-india-agritech/)
 - [New York Times ad warns against Tesla’s “Full Self-Driving”](https://techcrunch.com/2022/01/17/new-york-times-ad-warns-against-teslas-full-self-driving/)
 - [Ford signs 5-year agreement with Stripe to scale e-commerce](https://techcrunch.com/2022/01/17/ford-signs-5-year-agreement-with-stripe-to-scale-e-commerce/)
-- [Space startup Wyvern raises $4.5M and joins YC’s latest cohort](https://techcrunch.com/2022/01/17/space-startup-wyvern-raises-4-5m-and-joins-ycs-latest-cohort/)
-- [Rebundle raises $1.4M for plant-based hair extensions](https://techcrunch.com/2022/01/17/rebundle-raises-1-4m-for-plant-based-hair-extensions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
