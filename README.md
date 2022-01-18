@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [China’s digital yuan wallet now has 260 million individual users](https://techcrunch.com/2022/01/18/chinas-digital-yuan-wallet-now-has-260-million-individual-users/)
-- [Kenyan low-cost ISP Poa Internet secures $28 million in round led by AfDB-backed Africa50, plans to link region with cheap, limit-free connectivity](https://techcrunch.com/2022/01/18/kenyan-low-cost-isp-poa-internet-secures-28-million-in-round-led-by-afdb-backed-africa50-plans-to-link-region-with-cheap-limit-free-connectivity/)
-- [Hero MotoCorp, Engine No. 1 join Gogoro’s PIPE, bringing it up to $285M](https://techcrunch.com/2022/01/18/hero-motocorp-engine-no-1-join-gogoros-pipe-bringing-it-up-to-285m/)
-- [Blossom Capital closes $432M fund for Series A deals in Europe](https://techcrunch.com/2022/01/18/blossom-capital-closes-432m-fund-for-series-a-deals-in-europe/)
-- [Finclusion raises $20M to build out credit-led neobank offering across Africa](https://techcrunch.com/2022/01/18/finclusion-raises-20m-to-build-out-credit-led-neobank-offerings-across-africa/)
-- [LiveHive wants to be a ‘one stop shop’ for online yoga teachers, PTs  and other coaches](https://techcrunch.com/2022/01/18/livehive-wants-to-be-a-one-stop-shop-for-online-yoga-teachers-pts-and-other-coaches/)
-- [Nigerian restaurant management platform Orda gets $1.1M, wants to be the Toast of Africa](https://techcrunch.com/2022/01/17/nigerian-restaurant-management-platform-orda-gets-1-1m-wants-to-be-the-toast-of-africa/)
-- [Spendesk is the fifth French startup to reach unicorn status this month](https://techcrunch.com/2022/01/17/spendesk-is-the-fifth-french-startup-to-reach-unicorn-status-this-month/)
-- [Crypto.com expands venture arm to $500 million to back early-stage web3 startups](https://techcrunch.com/2022/01/17/crypto-com-500-million-fund-web3/)
-- [Focused on smaller cities, Vietnamese social commerce startup Mio raises $8M Series A](https://techcrunch.com/2022/01/17/focused-on-smaller-cities-vietnamese-social-commerce-startup-mio-raises-8m-series-a/)
+- [Pinwheel raises $50M Series B at $500M valuation for its income verification APIs](https://techcrunch.com/2022/01/18/pinwheel-raises-50m-series-b-at-500m-valuation-for-its-income-verification-apis/)
+- [Permiso emerges from stealth with $10M to tackle the next wave of cloud security](https://techcrunch.com/2022/01/18/permiso-stealth-cloud-security/)
+- [On This Day in Space! Jan. 18, 2002: Gemini South Observatory opens in Chile](https://www.space.com/39251-on-this-day-in-space.html)
+- [Verana Health closes $150M to glean more detail from electronic health records](https://techcrunch.com/2022/01/18/verana-health-closes-150m-to-glean-more-detail-from-electronic-health-records/)
+- [A huge asteroid flies will fly safely by Earth today. Here&#39;s how to watch it live.](https://www.space.com/huge-asteroid-1994-pc1-earth-flyby-webcast)
+- [Astronomers propose building a neutrino telescope — out of the Pacific Ocean](https://www.space.com/pacific-ocean-neutrino-detector-p-one-concept)
+- [You can watch SpaceX launch more than four dozen Starlink internet satellites tonight. Here&#39;s how.](https://www.space.com/spacex-starlink-satellite-second-january-2022-launch-webcast)
+- [Chilly, damp Mars may have hosted an ancient ocean](https://www.space.com/mars-ocean-northern-hemisphere)
+- [Score another win for Istanbul gaming startups: Dream Games raises $255M at a $2.75B valuation](https://techcrunch.com/2022/01/18/score-another-win-for-istanbul-gaming-startups-dream-games-raises-255m-at-a-2-75b-valuation/)
+- [HTC VR headsets are on sale in the UK until the end of January](https://www.space.com/htc-winter-savings-vr-headset-deals)
 <!-- BLOG-POST-LIST:END -->
 
 ---
