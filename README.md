@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tom Brady’s buzzy celebrity NFT startup Autograph banks $170M from Silicon Valley’s top crypto investors](https://techcrunch.com/2022/01/19/tom-bradys-buzzy-celebrity-nft-startup-autograph-banks-170m-from-silicon-valleys-top-crypto-investors/)
+- [Instagram launches early test of creator subscriptions in the U.S.](https://techcrunch.com/2022/01/19/instagram-launches-early-test-of-creator-subscriptions-in-the-u-s/)
+- [China sends classified satellite into space during first launch of 2022](https://www.space.com/china-first-rocket-launch-2022-classified)
+- [Israel’s Viola Ventures hits $250M for its new fund, appoints Yael Alroy as partner](https://techcrunch.com/2022/01/19/israels-viola-ventures-hits-250m-for-its-new-fund-appoints-yael-alroy-as-partner/)
+- [&#39;The Book of Boba Fett&#39; episode 3 offers colorful new additions to Tatooine culture](https://www.space.com/book-of-boba-fett-episode-3-star-wars-recap)
+- [SpaceX&#39;s Starlink satellites leave streaks in asteroid-hunting telescope&#39;s images](https://www.space.com/starlink-streaks-disrupt-asteroid-science-zwicky-observatory)
+- [The berserk pace of fintech investing outshines the global VC boom](https://techcrunch.com/2022/01/19/the-berserk-pace-of-fintech-investing-outshines-the-global-vc-boom/)
+- [NASA&#39;s Artemis 1 moon mission readies for &#39;wet dress rehearsal&#39;](https://www.space.com/artemis-1-moon-mission-wet-dress-rehearsal-soon)
 - [Inflection raises $40 million for its second crypto-focused fund](https://techcrunch.com/2022/01/19/inflection-raises-40-million-for-its-second-crypto-focused-fund/)
 - [Why aren’t female founders getting a bigger piece of the pie? Theories abound](https://techcrunch.com/2022/01/19/why-arent-female-founders-getting-a-bigger-piece-of-the-pie-theories-abound/)
-- [Mayfair Equity Partners aquires UK adtech platform LoopMe for $120M](https://techcrunch.com/2022/01/19/mayfair-equity-partners-aquires-uk-adtech-platform-loopme-for-120m/)
-- [Fintech founder Ashneer Grover takes a leave of absence after reports of questionable conduct](https://techcrunch.com/2022/01/19/ashneer-grover-bharatpe/)
-- [Voyager 1: Earth&#39;s farthest spacecraft](https://www.space.com/17688-voyager-1.html)
-- [Opera launches a dedicated crypto browser](https://techcrunch.com/2022/01/19/opera-launches-a-dedicated-crypto-browser/)
-- [Guardians of the Galaxy ships: Exploring the Milano and the Benatar](https://www.space.com/guardians-of-the-galaxy-ships)
-- [ByteDance reorganizes strategic investment team, causes panic](https://techcrunch.com/2022/01/19/tiktok-bytedance-dissolves-strategic-investment-arm/)
-- [Netflix’s gaming service adds two more titles on iOS and Android](https://techcrunch.com/2022/01/19/netflixs-gaming-service-adds-two-more-titles-on-ios-and-android/)
-- [Softr’s Series A is a reminder that the no-code boom continues](https://techcrunch.com/2022/01/19/softrs-series-a-is-a-reminder-that-the-no-code-boom-continues/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
