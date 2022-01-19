@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [QED Investors hires Gbenga Ajayi as partner to focus on investments in Africa](https://techcrunch.com/2022/01/19/qed-investors-hires-gbenga-ajayi-as-partner-to-focus-on-investments-in-africa/)
 - [Kenyan e-commerce company Copia Global raises $50M to ramp up African expansion](https://techcrunch.com/2022/01/18/kenyan-e-commerce-company-copia-global-raises-50m-to-ramp-up-african-expansion/)
 - [Sequoia Capital India looks to double down on commerce startup Bikayi](https://techcrunch.com/2022/01/18/sequoia-capital-india-tiger-global-in-talks-to-back-commerce-startup-bikayi/)
 - [Kenyan fintech Zanifu nabs $1M to bridge MSME financing gap, eyes Ghana, Uganda expansion](https://techcrunch.com/2022/01/18/kenyan-fintech-zanifu-nabs-1m-to-bridge-msme-financing-gap-eyes-ghana-uganda-expansion/)
@@ -104,7 +105,6 @@
 - [Gillmor Gang: Director’s Cut](https://techcrunch.com/2022/01/18/gillmor-gang-directors-cut/)
 - [OpenSea buys DeFi wallet startup Dharma Labs, appoints new CTO](https://techcrunch.com/2022/01/18/opensea-buys-defi-wallet-startup-dharma-labs-appoints-new-cto/)
 - [Better.com CEO Vishal Garg returns to work amid controversy regarding his leadership](https://techcrunch.com/2022/01/18/better-com-ceo-vishal-garg-returns-to-work-amid-controversy-regarding-his-leadership/)
-- [New privacy bill would put major limits on targeted advertising](https://techcrunch.com/2022/01/18/banning-surveillance-advertising-act/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
