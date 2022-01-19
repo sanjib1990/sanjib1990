@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [a16z, Avenir and Google back South African mobile games publisher Carry1st in $20M round](https://techcrunch.com/2022/01/19/a16z-avenir-and-google-back-south-african-mobile-games-publisher-carry1st-in-20m-round/)
+- [Filmhub, backed by $6.8M from a16z and others, helps filmmakers get their work streamed](https://techcrunch.com/2022/01/19/filmhub-backed-by-6-8m-from-a16z-and-others-helps-filmmakers-get-their-work-streamed/)
+- [How many unicorns are just piñatas filled with expired candy?](https://techcrunch.com/2022/01/19/how-many-unicorns-are-just-pinatas-filled-with-expired-candy/)
+- [Gale Healthcare raises $60M to match nurses with empty shifts](https://techcrunch.com/2022/01/19/gale-healthcare-raises-60m-to-match-nurses-with-empty-shifts/)
+- [When will VCs hit the brakes?](https://techcrunch.com/2022/01/19/when-will-vcs-hit-the-brakes/)
 - [Ambient.ai aims to provide AI-powered building security, minus bias and privacy pitfalls](https://techcrunch.com/2022/01/19/ambient-ai-security-without-facial-recognition/)
 - [Nowsta takes in fresh capital to show some tech love for hourly workforces](https://techcrunch.com/2022/01/19/nowsta-takes-in-fresh-capital-to-show-some-tech-love-for-hourly-workforces/)
 - [Remote work and cloud adoption lands 1Password with $620M Series C, now valued at $6.8B](https://techcrunch.com/2022/01/19/1password-series-c-funding/)
 - [Mantra Health raises $22M to scale its digital mental health clinic for young adults](https://techcrunch.com/2022/01/19/mantra-health-raises-22m-to-scale-its-digital-mental-health-clinic-for-young-adults/)
 - [Routefusion raises $10.5M round to simplify cross-border payments](https://techcrunch.com/2022/01/19/routefusion-raises-10-5m-round-to-simplify-cross-border-payments/)
-- [To reinvent itself in telehealth, Wheel lands $150 million Series C](https://techcrunch.com/2022/01/19/to-reinvent-itself-in-telehealth-wheel-lands-150-million-series-c/)
-- [Turing Labs, which uses AI to help formulate CPG products, raises $16.5M](https://techcrunch.com/2022/01/19/turing-labs-which-uses-ai-to-help-formulate-cpg-products-raises-16-5m/)
-- [Wrangle secures $2M to automate company workflows](https://techcrunch.com/2022/01/19/wrangle-secures-2m-to-automate-company-workflows/)
-- [Former SpaceX engineers bring autonomous, electric rail vehicle startup out of stealth](https://techcrunch.com/2022/01/19/former-spacex-engineers-bring-autonomous-electric-rail-vehicle-startup-out-of-stealth/)
-- [Harness releases open version of continuous delivery product with access to source code](https://techcrunch.com/2022/01/19/harness-releases-open-version-of-continuous-delivery-product-with-access-to-source-code/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
