@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ByteDance reorganizes strategic investment team, causes panic](https://techcrunch.com/2022/01/19/tiktok-bytedance-dissolves-strategic-investment-arm/)
+- [Netflix’s gaming service adds two more titles on iOS and Android](https://techcrunch.com/2022/01/19/netflixs-gaming-service-adds-two-more-titles-on-ios-and-android/)
+- [Softr’s Series A is a reminder that the no-code boom continues](https://techcrunch.com/2022/01/19/softrs-series-a-is-a-reminder-that-the-no-code-boom-continues/)
+- [If you want startup funding, don’t make VCs feel ignorant](https://techcrunch.com/2022/01/19/if-you-want-startup-funding-dont-make-vcs-feel-ignorant/)
 - [a16z, Avenir and Google back South African mobile games publisher Carry1st in $20M round](https://techcrunch.com/2022/01/19/a16z-avenir-and-google-back-south-african-mobile-games-publisher-carry1st-in-20m-round/)
 - [Filmhub, backed by $6.8M from a16z and others, helps filmmakers get their work streamed](https://techcrunch.com/2022/01/19/filmhub-backed-by-6-8m-from-a16z-and-others-helps-filmmakers-get-their-work-streamed/)
 - [How many unicorns are just piñatas filled with expired candy?](https://techcrunch.com/2022/01/19/how-many-unicorns-are-just-pinatas-filled-with-expired-candy/)
 - [Gale Healthcare raises $60M to match nurses with empty shifts](https://techcrunch.com/2022/01/19/gale-healthcare-raises-60m-to-match-nurses-with-empty-shifts/)
 - [When will VCs hit the brakes?](https://techcrunch.com/2022/01/19/when-will-vcs-hit-the-brakes/)
 - [Ambient.ai aims to provide AI-powered building security, minus bias and privacy pitfalls](https://techcrunch.com/2022/01/19/ambient-ai-security-without-facial-recognition/)
-- [Nowsta takes in fresh capital to show some tech love for hourly workforces](https://techcrunch.com/2022/01/19/nowsta-takes-in-fresh-capital-to-show-some-tech-love-for-hourly-workforces/)
-- [Remote work and cloud adoption lands 1Password with $620M Series C, now valued at $6.8B](https://techcrunch.com/2022/01/19/1password-series-c-funding/)
-- [Mantra Health raises $22M to scale its digital mental health clinic for young adults](https://techcrunch.com/2022/01/19/mantra-health-raises-22m-to-scale-its-digital-mental-health-clinic-for-young-adults/)
-- [Routefusion raises $10.5M round to simplify cross-border payments](https://techcrunch.com/2022/01/19/routefusion-raises-10-5m-round-to-simplify-cross-border-payments/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
