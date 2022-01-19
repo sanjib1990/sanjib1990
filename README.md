@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Podcasts introduces new ‘Listen With’ collections to help users discover shows](https://techcrunch.com/2022/01/19/apple-podcasts-introduces-new-listen-with-collections-to-help-users-discover-shows/)
+- [How Mayht, a small startup, is taking on the world of speaker goliaths](https://techcrunch.com/2022/01/19/mayht-vs-goliath/)
+- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
+- [Why Microsoft’s $2T+ market cap makes its $68B Activision buy a cheap bet](https://techcrunch.com/2022/01/19/why-microsofts-2t-market-cap-makes-its-78b-activision-buy-a-cheap-bet/)
+- [James Webb Space Telescope marks deployment of all mirrors](https://www.space.com/james-webb-space-telescope-mirrors-deployed)
+- [Cosmonauts on spacewalk ready new Russian docking port for future space station arrivals](https://www.space.com/cosmonauts-spacewalk-prichal-docking-port)
 - [Web3 ‘Proof of attendance’ startup raises $10M to mint shared memories as NFTs](https://techcrunch.com/2022/01/19/web3-proof-of-attendance-startup-raises-10m-to-mint-shared-memories-as-nfts/)
 - [Dovetail raises $63M to grow its researcher-focused software business](https://techcrunch.com/2022/01/19/dovetail-raises-63m-to-grow-its-researcher-focused-software-business/)
 - [Dear Sophie: How do I successfully expand my company to the US?](https://techcrunch.com/2022/01/19/dear-sophie-how-do-i-successfully-expand-my-company-to-the-us/)
 - [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [Disney’s streaming biz reorg includes an international content hub, plans to double Disney+ footprint](https://techcrunch.com/2022/01/19/disneys-streaming-biz-reorg-includes-an-international-content-hub-plans-to-double-disney-footprint/)
-- [As its data flows woes grow, Google lobbies for quickie fix to EU-US transfers](https://techcrunch.com/2022/01/19/google-lobbies-for-new-privacy-shield/)
-- [Tom Brady’s buzzy celebrity NFT startup Autograph banks $170M from Silicon Valley’s top crypto investors](https://techcrunch.com/2022/01/19/tom-bradys-buzzy-celebrity-nft-startup-autograph-banks-170m-from-silicon-valleys-top-crypto-investors/)
-- [Moon&#39;s crust may have formed from &#39;slushy&#39; magma ocean long ago](https://www.space.com/moon-crust-formation-slushy-magma-ocean)
-- [Instagram launches early test of creator subscriptions in the U.S.](https://techcrunch.com/2022/01/19/instagram-launches-early-test-of-creator-subscriptions-in-the-u-s/)
-- [China sends classified satellite into space during first launch of 2022](https://www.space.com/china-first-rocket-launch-2022-classified)
 <!-- BLOG-POST-LIST:END -->
 
 ---
