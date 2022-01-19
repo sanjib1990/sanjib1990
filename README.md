@@ -95,6 +95,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenSea buys DeFi wallet startup Dharma Labs, appoints new CTO](https://techcrunch.com/2022/01/18/opensea-buys-defi-wallet-startup-dharma-labs-appoints-new-cto/)
+- [Better.com CEO Vishal Garg returns to work amid controversy regarding his leadership](https://techcrunch.com/2022/01/18/better-com-ceo-vishal-garg-returns-to-work-amid-controversy-regarding-his-leadership/)
+- [New privacy bill would put major limits on targeted advertising](https://techcrunch.com/2022/01/18/banning-surveillance-advertising-act/)
 - [500 Global’s Christine Tsai shares her 2022 VC predictions](https://techcrunch.com/2022/01/18/500-globals-christine-tsai-shares-her-2022-vc-predictions/)
 - [Daily Crunch: ​​In an all-cash deal, Microsoft will buy Activision Blizzard for $68.7B](https://techcrunch.com/2022/01/18/daily-crunch-%e2%80%8b%e2%80%8bin-an-all-cash-deal-microsoft-will-buy-activision-blizzard-for-68-7b/)
 - [Here&#39;s how the James Webb Space Telescope is aligning its mirrors in deep space](https://www.space.com/james-webb-space-telescope-mirror-alignment-explained)
@@ -102,9 +105,6 @@
 - [Volkswagen and Bosch set up JV to push European battery production](https://techcrunch.com/2022/01/18/volkswagen-and-bosch-set-up-jv-to-push-european-battery-production/)
 - [FTC challenges consolidation in tech with review of merger guidelines](https://techcrunch.com/2022/01/18/ftc-reviews-merger-guidelines-for-big-tech/)
 - [Equity Tuesday: What to make of the Microsoft-Blizzard deal](https://techcrunch.com/2022/01/18/equity-tuesday-what-to-make-of-the-microsoft-blizzard-deal/)
-- [Animoca Brands has raised funding at a more than $5B valuation, triple where it was in October](https://techcrunch.com/2022/01/18/animoca-brands-has-raised-funding-at-a-more-than-5b-valuation-triple-where-it-was-in-november/)
-- [Lasting devastation from Tonga volcano eruption revealed in satellite images](https://www.space.com/tonga-volcano-eruption-damage-satellite-images)
-- [Could humanlike behavior make smart devices more engaging? MIT researchers think so](https://techcrunch.com/2022/01/18/could-humanlike-behavior-make-smart-devices-more-engaging-mit-researchers-think-so/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
