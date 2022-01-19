@@ -95,6 +95,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Web3 ‘Proof of attendance’ startup raises $10M to mint shared memories as NFTs](https://techcrunch.com/2022/01/19/web3-proof-of-attendance-startup-raises-10m-to-mint-shared-memories-as-nfts/)
+- [Dovetail raises $63M to grow its researcher-focused software business](https://techcrunch.com/2022/01/19/dovetail-raises-63m-to-grow-its-researcher-focused-software-business/)
+- [Dear Sophie: How do I successfully expand my company to the US?](https://techcrunch.com/2022/01/19/dear-sophie-how-do-i-successfully-expand-my-company-to-the-us/)
 - [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [Disney’s streaming biz reorg includes an international content hub, plans to double Disney+ footprint](https://techcrunch.com/2022/01/19/disneys-streaming-biz-reorg-includes-an-international-content-hub-plans-to-double-disney-footprint/)
 - [As its data flows woes grow, Google lobbies for quickie fix to EU-US transfers](https://techcrunch.com/2022/01/19/google-lobbies-for-new-privacy-shield/)
@@ -102,9 +105,6 @@
 - [Moon&#39;s crust may have formed from &#39;slushy&#39; magma ocean long ago](https://www.space.com/moon-crust-formation-slushy-magma-ocean)
 - [Instagram launches early test of creator subscriptions in the U.S.](https://techcrunch.com/2022/01/19/instagram-launches-early-test-of-creator-subscriptions-in-the-u-s/)
 - [China sends classified satellite into space during first launch of 2022](https://www.space.com/china-first-rocket-launch-2022-classified)
-- [Israel’s Viola Ventures hits $250M for its new fund, appoints Yael Alroy as partner](https://techcrunch.com/2022/01/19/israels-viola-ventures-hits-250m-for-its-new-fund-appoints-yael-alroy-as-partner/)
-- [&#39;The Book of Boba Fett&#39; episode 3 offers colorful new additions to Tatooine culture](https://www.space.com/book-of-boba-fett-episode-3-star-wars-recap)
-- [SpaceX&#39;s Starlink satellites leave streaks in asteroid-hunting telescope&#39;s images](https://www.space.com/starlink-streaks-disrupt-asteroid-science-zwicky-observatory)
 <!-- BLOG-POST-LIST:END -->
 
 ---
