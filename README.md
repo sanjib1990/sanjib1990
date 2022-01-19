@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Inflection raises $40 million for its second crypto-focused fund](https://techcrunch.com/2022/01/19/inflection-raises-40-million-for-its-second-crypto-focused-fund/)
+- [Why aren’t female founders getting a bigger piece of the pie? Theories abound](https://techcrunch.com/2022/01/19/why-arent-female-founders-getting-a-bigger-piece-of-the-pie-theories-abound/)
+- [Mayfair Equity Partners aquires UK adtech platform LoopMe for $120M](https://techcrunch.com/2022/01/19/mayfair-equity-partners-aquires-uk-adtech-platform-loopme-for-120m/)
+- [Fintech founder Ashneer Grover takes a leave of absence after reports of questionable conduct](https://techcrunch.com/2022/01/19/ashneer-grover-bharatpe/)
+- [Voyager 1: Earth&#39;s farthest spacecraft](https://www.space.com/17688-voyager-1.html)
+- [Opera launches a dedicated crypto browser](https://techcrunch.com/2022/01/19/opera-launches-a-dedicated-crypto-browser/)
+- [Guardians of the Galaxy ships: Exploring the Milano and the Benatar](https://www.space.com/guardians-of-the-galaxy-ships)
 - [ByteDance reorganizes strategic investment team, causes panic](https://techcrunch.com/2022/01/19/tiktok-bytedance-dissolves-strategic-investment-arm/)
 - [Netflix’s gaming service adds two more titles on iOS and Android](https://techcrunch.com/2022/01/19/netflixs-gaming-service-adds-two-more-titles-on-ios-and-android/)
 - [Softr’s Series A is a reminder that the no-code boom continues](https://techcrunch.com/2022/01/19/softrs-series-a-is-a-reminder-that-the-no-code-boom-continues/)
-- [If you want startup funding, don’t make VCs feel ignorant](https://techcrunch.com/2022/01/19/if-you-want-startup-funding-dont-make-vcs-feel-ignorant/)
-- [a16z, Avenir and Google back South African mobile games publisher Carry1st in $20M round](https://techcrunch.com/2022/01/19/a16z-avenir-and-google-back-south-african-mobile-games-publisher-carry1st-in-20m-round/)
-- [Filmhub, backed by $6.8M from a16z and others, helps filmmakers get their work streamed](https://techcrunch.com/2022/01/19/filmhub-backed-by-6-8m-from-a16z-and-others-helps-filmmakers-get-their-work-streamed/)
-- [How many unicorns are just piñatas filled with expired candy?](https://techcrunch.com/2022/01/19/how-many-unicorns-are-just-pinatas-filled-with-expired-candy/)
-- [Gale Healthcare raises $60M to match nurses with empty shifts](https://techcrunch.com/2022/01/19/gale-healthcare-raises-60m-to-match-nurses-with-empty-shifts/)
-- [When will VCs hit the brakes?](https://techcrunch.com/2022/01/19/when-will-vcs-hit-the-brakes/)
-- [Ambient.ai aims to provide AI-powered building security, minus bias and privacy pitfalls](https://techcrunch.com/2022/01/19/ambient-ai-security-without-facial-recognition/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
