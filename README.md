@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Turing Labs, which uses AI to help formulate CPG products, raises $16.5M](https://techcrunch.com/2022/01/19/turing-labs-which-uses-ai-to-help-formulate-cpg-products-raises-16-5m/)
+- [Wrangle secures $2M to automate company workflows](https://techcrunch.com/2022/01/19/wrangle-secures-2m-to-automate-company-workflows/)
+- [Former SpaceX engineers bring autonomous, electric rail vehicle startup out of stealth](https://techcrunch.com/2022/01/19/former-spacex-engineers-bring-autonomous-electric-rail-vehicle-startup-out-of-stealth/)
+- [Harness releases open version of continuous delivery product with access to source code](https://techcrunch.com/2022/01/19/harness-releases-open-version-of-continuous-delivery-product-with-access-to-source-code/)
+- [A hard rain is coming for UK’s crypto boom](https://techcrunch.com/2022/01/19/a-hard-rain-is-coming-for-uks-crypto-boom/)
+- [On This Day in Space! Jan. 19, 2006: New Horizons launches to Pluto!](https://www.space.com/39251-on-this-day-in-space.html)
 - [Israeli fintech Personetics raises $85M for tools to help incumbents personalize banking services to compete with neobanks](https://techcrunch.com/2022/01/19/israeli-fintech-personetics-raises-85m-for-tools-to-help-incumbents-personalize-banking-services-to-compete-with-neobanks/)
-- [Watch two Russian cosmonauts take a spacewalk outside the International Space Station today](https://www.space.com/russian-spacewalk-webcast-january-2022)
-- [Massive asteroid safely zooms by Earth, a million miles away](https://www.space.com/massive-asteroid-1994-pc1-safe-flyby-Earth)
-- [Revolut launches stock trading in the US](https://techcrunch.com/2022/01/19/revolut-launches-stock-trading-in-the-us/)
-- [Ancient8 secures $4M in seed to democratize social and financial access in the metaverse](https://techcrunch.com/2022/01/19/ancient8-secures-4m-in-seed-to-democratize-social-and-financial-access-in-the-metaverse/)
-- [First EV mass transit bus by Swedish-Kenyan startup Opibus begins operation amidst plans for regional launch by 2023](https://techcrunch.com/2022/01/19/first-ev-mass-transit-bus-by-swedish-kenyan-startup-opibus-begins-operation-amidst-plans-for-regional-launch-by-2023/)
-- [Senegalese logistics and delivery company PAPS raises $4.5M led by 4DX Ventures and Orange](https://techcrunch.com/2022/01/19/senegalese-logistics-and-delivery-company-paps-raises-4-5m-led-by-4dx-ventures-and-orange/)
-- [Lattice raises $175M at a $3B valuation for its people management platform](https://techcrunch.com/2022/01/19/lattice-raises-175m-more-at-a-3b-valuation-for-its-people-management-platform/)
-- [QED Investors hires Gbenga Ajayi as partner to focus on investments in Africa](https://techcrunch.com/2022/01/19/qed-investors-hires-gbenga-ajayi-as-partner-to-focus-on-investments-in-africa/)
-- [Kenyan e-commerce company Copia Global raises $50M to ramp up African expansion](https://techcrunch.com/2022/01/18/kenyan-e-commerce-company-copia-global-raises-50m-to-ramp-up-african-expansion/)
+- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
+- [Nerf DinoSquad Rex-Rampage blaster review](https://www.space.com/nerf-dinosquad-rex-rampage-review)
+- [The Mars rover Perseverance has pebbles stuck in its drill. NASA has a plan to fix it.](https://www.space.com/tiny-pebbles-stuck-mars-rover-drill)
 <!-- BLOG-POST-LIST:END -->
 
 ---
