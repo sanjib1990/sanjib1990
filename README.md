@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Philippines ‘buy now pay later’ startup BillEase scores $11M Series B](https://techcrunch.com/2022/01/18/philippines-buy-now-pay-later-startup-billease-scores-11m-series-b/)
+- [Gillmor Gang: Director’s Cut](https://techcrunch.com/2022/01/18/gillmor-gang-directors-cut/)
 - [OpenSea buys DeFi wallet startup Dharma Labs, appoints new CTO](https://techcrunch.com/2022/01/18/opensea-buys-defi-wallet-startup-dharma-labs-appoints-new-cto/)
 - [Better.com CEO Vishal Garg returns to work amid controversy regarding his leadership](https://techcrunch.com/2022/01/18/better-com-ceo-vishal-garg-returns-to-work-amid-controversy-regarding-his-leadership/)
 - [New privacy bill would put major limits on targeted advertising](https://techcrunch.com/2022/01/18/banning-surveillance-advertising-act/)
@@ -103,8 +105,6 @@
 - [Here&#39;s how the James Webb Space Telescope is aligning its mirrors in deep space](https://www.space.com/james-webb-space-telescope-mirror-alignment-explained)
 - [Rocket Lab acquires SolAero Holdings for $80M to boost space solar cell production](https://techcrunch.com/2022/01/18/rocket-lab-acquires-solaero-holdings-for-80m-to-boost-space-solar-cell-production/)
 - [Volkswagen and Bosch set up JV to push European battery production](https://techcrunch.com/2022/01/18/volkswagen-and-bosch-set-up-jv-to-push-european-battery-production/)
-- [FTC challenges consolidation in tech with review of merger guidelines](https://techcrunch.com/2022/01/18/ftc-reviews-merger-guidelines-for-big-tech/)
-- [Equity Tuesday: What to make of the Microsoft-Blizzard deal](https://techcrunch.com/2022/01/18/equity-tuesday-what-to-make-of-the-microsoft-blizzard-deal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
