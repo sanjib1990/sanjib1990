@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [Disney’s streaming biz reorg includes an international content hub, plans to double Disney+ footprint](https://techcrunch.com/2022/01/19/disneys-streaming-biz-reorg-includes-an-international-content-hub-plans-to-double-disney-footprint/)
+- [As its data flows woes grow, Google lobbies for quickie fix to EU-US transfers](https://techcrunch.com/2022/01/19/google-lobbies-for-new-privacy-shield/)
 - [Tom Brady’s buzzy celebrity NFT startup Autograph banks $170M from Silicon Valley’s top crypto investors](https://techcrunch.com/2022/01/19/tom-bradys-buzzy-celebrity-nft-startup-autograph-banks-170m-from-silicon-valleys-top-crypto-investors/)
+- [Moon&#39;s crust may have formed from &#39;slushy&#39; magma ocean long ago](https://www.space.com/moon-crust-formation-slushy-magma-ocean)
 - [Instagram launches early test of creator subscriptions in the U.S.](https://techcrunch.com/2022/01/19/instagram-launches-early-test-of-creator-subscriptions-in-the-u-s/)
 - [China sends classified satellite into space during first launch of 2022](https://www.space.com/china-first-rocket-launch-2022-classified)
 - [Israel’s Viola Ventures hits $250M for its new fund, appoints Yael Alroy as partner](https://techcrunch.com/2022/01/19/israels-viola-ventures-hits-250m-for-its-new-fund-appoints-yael-alroy-as-partner/)
 - [&#39;The Book of Boba Fett&#39; episode 3 offers colorful new additions to Tatooine culture](https://www.space.com/book-of-boba-fett-episode-3-star-wars-recap)
 - [SpaceX&#39;s Starlink satellites leave streaks in asteroid-hunting telescope&#39;s images](https://www.space.com/starlink-streaks-disrupt-asteroid-science-zwicky-observatory)
-- [The berserk pace of fintech investing outshines the global VC boom](https://techcrunch.com/2022/01/19/the-berserk-pace-of-fintech-investing-outshines-the-global-vc-boom/)
-- [NASA&#39;s Artemis 1 moon mission readies for &#39;wet dress rehearsal&#39;](https://www.space.com/artemis-1-moon-mission-wet-dress-rehearsal-soon)
-- [Inflection raises $40 million for its second crypto-focused fund](https://techcrunch.com/2022/01/19/inflection-raises-40-million-for-its-second-crypto-focused-fund/)
-- [Why aren’t female founders getting a bigger piece of the pie? Theories abound](https://techcrunch.com/2022/01/19/why-arent-female-founders-getting-a-bigger-piece-of-the-pie-theories-abound/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
