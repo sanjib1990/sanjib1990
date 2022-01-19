@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sequoia Capital India looks to double down on commerce startup Bikayi](https://techcrunch.com/2022/01/18/sequoia-capital-india-tiger-global-in-talks-to-back-commerce-startup-bikayi/)
 - [Kenyan fintech Zanifu nabs $1M to bridge MSME financing gap, eyes Ghana, Uganda expansion](https://techcrunch.com/2022/01/18/kenyan-fintech-zanifu-nabs-1m-to-bridge-msme-financing-gap-eyes-ghana-uganda-expansion/)
 - [SoftBank leads cash infusion into AI infrastructure company Pyxis One as it starts year with new name](https://techcrunch.com/2022/01/18/softbank-ai-infrastructure-pyxis-one-pixis/)
 - [SpaceX launches 49 Starlink internet satellites, lands rocket at sea](https://www.space.com/spacex-starlink-launch-rocket-landing-january-2022)
@@ -104,7 +105,6 @@
 - [Better.com CEO Vishal Garg returns to work amid controversy regarding his leadership](https://techcrunch.com/2022/01/18/better-com-ceo-vishal-garg-returns-to-work-amid-controversy-regarding-his-leadership/)
 - [New privacy bill would put major limits on targeted advertising](https://techcrunch.com/2022/01/18/banning-surveillance-advertising-act/)
 - [500 Global’s Christine Tsai shares her 2022 VC predictions](https://techcrunch.com/2022/01/18/500-globals-christine-tsai-shares-her-2022-vc-predictions/)
-- [Daily Crunch: ​​In an all-cash deal, Microsoft will buy Activision Blizzard for $68.7B](https://techcrunch.com/2022/01/18/daily-crunch-%e2%80%8b%e2%80%8bin-an-all-cash-deal-microsoft-will-buy-activision-blizzard-for-68-7b/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
