@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX launches 49 Starlink internet satellites, lands rocket at sea](https://www.space.com/spacex-starlink-launch-rocket-landing-january-2022)
 - [Philippines ‘buy now pay later’ startup BillEase scores $11M Series B](https://techcrunch.com/2022/01/18/philippines-buy-now-pay-later-startup-billease-scores-11m-series-b/)
 - [Gillmor Gang: Director’s Cut](https://techcrunch.com/2022/01/18/gillmor-gang-directors-cut/)
 - [OpenSea buys DeFi wallet startup Dharma Labs, appoints new CTO](https://techcrunch.com/2022/01/18/opensea-buys-defi-wallet-startup-dharma-labs-appoints-new-cto/)
@@ -104,7 +105,6 @@
 - [Daily Crunch: ​​In an all-cash deal, Microsoft will buy Activision Blizzard for $68.7B](https://techcrunch.com/2022/01/18/daily-crunch-%e2%80%8b%e2%80%8bin-an-all-cash-deal-microsoft-will-buy-activision-blizzard-for-68-7b/)
 - [Here&#39;s how the James Webb Space Telescope is aligning its mirrors in deep space](https://www.space.com/james-webb-space-telescope-mirror-alignment-explained)
 - [Rocket Lab acquires SolAero Holdings for $80M to boost space solar cell production](https://techcrunch.com/2022/01/18/rocket-lab-acquires-solaero-holdings-for-80m-to-boost-space-solar-cell-production/)
-- [Volkswagen and Bosch set up JV to push European battery production](https://techcrunch.com/2022/01/18/volkswagen-and-bosch-set-up-jv-to-push-european-battery-production/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
