@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Revolut launches stock trading in the US](https://techcrunch.com/2022/01/19/revolut-launches-stock-trading-in-the-us/)
+- [Ancient8 secures $4M in seed to democratize social and financial access in the metaverse](https://techcrunch.com/2022/01/19/ancient8-secures-4m-in-seed-to-democratize-social-and-financial-access-in-the-metaverse/)
+- [First EV mass transit bus by Swedish-Kenyan startup Opibus begins operation amidst plans for regional launch by 2023](https://techcrunch.com/2022/01/19/first-ev-mass-transit-bus-by-swedish-kenyan-startup-opibus-begins-operation-amidst-plans-for-regional-launch-by-2023/)
 - [Senegalese logistics and delivery company PAPS raises $4.5M led by 4DX Ventures and Orange](https://techcrunch.com/2022/01/19/senegalese-logistics-and-delivery-company-paps-raises-4-5m-led-by-4dx-ventures-and-orange/)
-- [Lattice raises $175M more at a $3B valuation for its people management platform](https://techcrunch.com/2022/01/19/lattice-raises-175m-more-at-a-3b-valuation-for-its-people-management-platform/)
+- [Lattice raises $175M at a $3B valuation for its people management platform](https://techcrunch.com/2022/01/19/lattice-raises-175m-more-at-a-3b-valuation-for-its-people-management-platform/)
 - [QED Investors hires Gbenga Ajayi as partner to focus on investments in Africa](https://techcrunch.com/2022/01/19/qed-investors-hires-gbenga-ajayi-as-partner-to-focus-on-investments-in-africa/)
 - [Kenyan e-commerce company Copia Global raises $50M to ramp up African expansion](https://techcrunch.com/2022/01/18/kenyan-e-commerce-company-copia-global-raises-50m-to-ramp-up-african-expansion/)
 - [Sequoia Capital India looks to double down on commerce startup Bikayi](https://techcrunch.com/2022/01/18/sequoia-capital-india-tiger-global-in-talks-to-back-commerce-startup-bikayi/)
 - [Kenyan fintech Zanifu nabs $1M to bridge MSME financing gap, eyes Ghana, Uganda expansion](https://techcrunch.com/2022/01/18/kenyan-fintech-zanifu-nabs-1m-to-bridge-msme-financing-gap-eyes-ghana-uganda-expansion/)
 - [SoftBank leads cash infusion into AI infrastructure company Pyxis One as it starts year with new name](https://techcrunch.com/2022/01/18/softbank-ai-infrastructure-pyxis-one-pixis/)
-- [SpaceX launches 49 Starlink internet satellites, lands rocket at sea](https://www.space.com/spacex-starlink-launch-rocket-landing-january-2022)
-- [Philippines ‘buy now pay later’ startup BillEase scores $11M Series B](https://techcrunch.com/2022/01/18/philippines-buy-now-pay-later-startup-billease-scores-11m-series-b/)
-- [Gillmor Gang: Director’s Cut](https://techcrunch.com/2022/01/18/gillmor-gang-directors-cut/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
