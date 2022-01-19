@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Kenyan e-commerce company Copia Global raises $50M to ramp up African expansion](https://techcrunch.com/2022/01/18/kenyan-e-commerce-company-copia-global-raises-50m-to-ramp-up-african-expansion/)
 - [Sequoia Capital India looks to double down on commerce startup Bikayi](https://techcrunch.com/2022/01/18/sequoia-capital-india-tiger-global-in-talks-to-back-commerce-startup-bikayi/)
 - [Kenyan fintech Zanifu nabs $1M to bridge MSME financing gap, eyes Ghana, Uganda expansion](https://techcrunch.com/2022/01/18/kenyan-fintech-zanifu-nabs-1m-to-bridge-msme-financing-gap-eyes-ghana-uganda-expansion/)
 - [SoftBank leads cash infusion into AI infrastructure company Pyxis One as it starts year with new name](https://techcrunch.com/2022/01/18/softbank-ai-infrastructure-pyxis-one-pixis/)
@@ -104,7 +105,6 @@
 - [OpenSea buys DeFi wallet startup Dharma Labs, appoints new CTO](https://techcrunch.com/2022/01/18/opensea-buys-defi-wallet-startup-dharma-labs-appoints-new-cto/)
 - [Better.com CEO Vishal Garg returns to work amid controversy regarding his leadership](https://techcrunch.com/2022/01/18/better-com-ceo-vishal-garg-returns-to-work-amid-controversy-regarding-his-leadership/)
 - [New privacy bill would put major limits on targeted advertising](https://techcrunch.com/2022/01/18/banning-surveillance-advertising-act/)
-- [500 Global’s Christine Tsai shares her 2022 VC predictions](https://techcrunch.com/2022/01/18/500-globals-christine-tsai-shares-her-2022-vc-predictions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
