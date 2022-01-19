@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA wants your ideas to reuse trash and waste on a Mars mission](https://www.space.com/nasa-resuse-trash-waste-mars-mission)
+- [Accessible hiring practices to solve for The Great Resignation](https://techcrunch.com/2022/01/19/accessible-hiring-practices-to-solve-for-the-great-resignation/)
 - [Apple Podcasts introduces new ‘Listen With’ collections to help users discover shows](https://techcrunch.com/2022/01/19/apple-podcasts-introduces-new-listen-with-collections-to-help-users-discover-shows/)
 - [How Mayht, a small startup, is taking on the world of speaker goliaths](https://techcrunch.com/2022/01/19/mayht-vs-goliath/)
 - [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
@@ -103,8 +105,6 @@
 - [Cosmonauts on spacewalk ready new Russian docking port for future space station arrivals](https://www.space.com/cosmonauts-spacewalk-prichal-docking-port)
 - [Web3 ‘Proof of attendance’ startup raises $10M to mint shared memories as NFTs](https://techcrunch.com/2022/01/19/web3-proof-of-attendance-startup-raises-10m-to-mint-shared-memories-as-nfts/)
 - [Dovetail raises $63M to grow its researcher-focused software business](https://techcrunch.com/2022/01/19/dovetail-raises-63m-to-grow-its-researcher-focused-software-business/)
-- [Dear Sophie: How do I successfully expand my company to the US?](https://techcrunch.com/2022/01/19/dear-sophie-how-do-i-successfully-expand-my-company-to-the-us/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
