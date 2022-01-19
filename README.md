@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Webb Mirror Segment Deployments Complete](https://blogs.nasa.gov/webb/2022/01/19/webb-mirror-segment-deployments-complete/)
 - [NASA wants your ideas to reuse trash and waste on a Mars mission](https://www.space.com/nasa-resuse-trash-waste-mars-mission)
 - [Accessible hiring practices to solve for The Great Resignation](https://techcrunch.com/2022/01/19/accessible-hiring-practices-to-solve-for-the-great-resignation/)
 - [Apple Podcasts introduces new ‘Listen With’ collections to help users discover shows](https://techcrunch.com/2022/01/19/apple-podcasts-introduces-new-listen-with-collections-to-help-users-discover-shows/)
@@ -104,7 +105,6 @@
 - [James Webb Space Telescope marks deployment of all mirrors](https://www.space.com/james-webb-space-telescope-mirrors-deployed)
 - [Cosmonauts on spacewalk ready new Russian docking port for future space station arrivals](https://www.space.com/cosmonauts-spacewalk-prichal-docking-port)
 - [Web3 ‘Proof of attendance’ startup raises $10M to mint shared memories as NFTs](https://techcrunch.com/2022/01/19/web3-proof-of-attendance-startup-raises-10m-to-mint-shared-memories-as-nfts/)
-- [Dovetail raises $63M to grow its researcher-focused software business](https://techcrunch.com/2022/01/19/dovetail-raises-63m-to-grow-its-researcher-focused-software-business/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
