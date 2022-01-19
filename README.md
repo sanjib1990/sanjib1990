@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [500 Global’s Christine Tsai shares her 2022 VC predictions](https://techcrunch.com/2022/01/18/500-globals-christine-tsai-shares-her-2022-vc-predictions/)
+- [Daily Crunch: ​​In an all-cash deal, Microsoft will buy Activision Blizzard for $68.7B](https://techcrunch.com/2022/01/18/daily-crunch-%e2%80%8b%e2%80%8bin-an-all-cash-deal-microsoft-will-buy-activision-blizzard-for-68-7b/)
 - [Here&#39;s how the James Webb Space Telescope is aligning its mirrors in deep space](https://www.space.com/james-webb-space-telescope-mirror-alignment-explained)
 - [Rocket Lab acquires SolAero Holdings for $80M to boost space solar cell production](https://techcrunch.com/2022/01/18/rocket-lab-acquires-solaero-holdings-for-80m-to-boost-space-solar-cell-production/)
 - [Volkswagen and Bosch set up JV to push European battery production](https://techcrunch.com/2022/01/18/volkswagen-and-bosch-set-up-jv-to-push-european-battery-production/)
@@ -103,8 +105,6 @@
 - [Animoca Brands has raised funding at a more than $5B valuation, triple where it was in October](https://techcrunch.com/2022/01/18/animoca-brands-has-raised-funding-at-a-more-than-5b-valuation-triple-where-it-was-in-november/)
 - [Lasting devastation from Tonga volcano eruption revealed in satellite images](https://www.space.com/tonga-volcano-eruption-damage-satellite-images)
 - [Could humanlike behavior make smart devices more engaging? MIT researchers think so](https://techcrunch.com/2022/01/18/could-humanlike-behavior-make-smart-devices-more-engaging-mit-researchers-think-so/)
-- [Tesla shareholders urge judge to find Musk coerced board to buy SolarCity](https://techcrunch.com/2022/01/18/tesla-shareholders-urge-judge-to-find-musk-coerced-board-to-buy-solarcity/)
-- [Possible sign of Mars life? Curiosity rover finds &#39;tantalizing&#39; Red Planet organics](https://www.space.com/mars-organics-curiosity-rover-possible-biosignature)
 <!-- BLOG-POST-LIST:END -->
 
 ---
