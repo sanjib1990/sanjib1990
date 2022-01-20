@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ahead of a February event, Samsung teases Galaxy S/Note merger](https://techcrunch.com/2022/01/20/ahead-of-february-event-samsung-teases-galaxy-s-note-merger/)
+- [Spotify still tops other music services, but its market share declined](https://techcrunch.com/2022/01/20/spotify-subscription-numbers-up-youtube-music-tidal/)
 - [An early bet on Solana and others has led to a new, $500M fund for Foundation Capital](https://techcrunch.com/2022/01/20/foundation-capital-tenth-fund/)
 - [ANYmal’s quadrupedal robot takes a hike](https://techcrunch.com/2022/01/20/anymals-quadrupedal-robot-takes-a-hike/)
 - [Inside Secfi’s 2021 state of stock options equity report](https://techcrunch.com/2022/01/20/inside-secfis-2021-state-of-stock-options-equity-report/)
@@ -103,8 +105,6 @@
 - [Bad weather delays SpaceX Dragon&#39;s departure from space station to Saturday](https://www.space.com/spacex-cargo-dragon-departure-weather-delay)
 - [Don’t underestimate first-time founders](https://techcrunch.com/2022/01/20/dont-underestimate-first-time-founders/)
 - [Pay Misty for me](https://techcrunch.com/2022/01/20/pay-misty-for-me/)
-- [How to build a product advisory council for your startup](https://techcrunch.com/2022/01/20/how-to-build-a-product-advisory-council-for-your-startup/)
-- [Advanced driver assistance tech in cars today won’t pass IIHS’ new safety rating](https://techcrunch.com/2022/01/20/advanced-driver-assistance-tech-in-cars-today-wont-pass-iihs-new-safety-rating/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
