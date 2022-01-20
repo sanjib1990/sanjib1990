@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Advanced driver assistance tech in cars today won’t pass IIHS’ new safety rating](https://techcrunch.com/2022/01/20/advanced-driver-assistance-tech-in-cars-today-wont-pass-iihs-new-safety-rating/)
+- [TikTok begins testing support for paid subscriptions](https://techcrunch.com/2022/01/20/tiktok-begins-testing-support-for-paid-subscriptions/)
+- [Twitter Blue subscription users are first to gain access to a new NFT Profile Picture feature](https://techcrunch.com/2022/01/20/twitter-blue-subscription-users-are-first-gain-access-to-a-new-nft-profile-picture-feature/)
+- [Prophecy raises $25M for its low-code data engineering platform](https://techcrunch.com/2022/01/20/prophecy-raises-25m-for-its-low-code-data-engineering-platform/)
+- [Peloton reportedly pauses bike and treadmill production amid slowed demand](https://techcrunch.com/2022/01/20/peloton-reportedly-pauses-bike-and-treadmill-production-amid-slowed-demand/)
+- [2FA compromise led to $34M Crypto.com hack](https://techcrunch.com/2022/01/20/2fa-compromise-led-to-34m-crypto-com-hack/)
 - [The first movie studio in space could be attached to the ISS in 2024](https://techcrunch.com/2022/01/20/the-first-movie-studio-in-space-could-be-attached-to-the-iss-in-2024/)
 - [New Greylock venture partner Mustafa Suleyman is looking for AI’s next best thing](https://techcrunch.com/2022/01/20/new-greylock-venture-partner-mustafa-suleyman-is-looking-for-ais-next-best-thing/)
 - [Google reportedly planning a new AR headset for 2024](https://techcrunch.com/2022/01/20/google-reportedly-planning-a-new-ar-headset-for-2024/)
-- [A global clash over technology dominance is mounting](https://techcrunch.com/2022/01/20/a-global-clash-over-technology-dominance-is-mounting/)
-- [Axiom&#39;s 1st private crew launch to space station delayed to March](https://www.space.com/axiom-1-launch-delay-march-2022)
-- [Neil Armstrong: First man on the moon](https://www.space.com/15519-neil-armstrong-man-moon.html)
-- [Meta researchers build an AI that learns equally well from visual, written or spoken materials](https://techcrunch.com/2022/01/20/meta-researchers-build-an-ai-that-learns-equally-well-from-visual-written-or-spoken-materials/)
-- [Metalenz PolarEyes upgrades digital sensing with polarized light](https://techcrunch.com/2022/01/20/metalenz-polareyes-upgrades-digital-sensing-with-polarized-light/)
-- [TechCrunch Early Stage 2022 is back LIVE in San Francisco](https://techcrunch.com/2022/01/20/techcrunch-early-stage-2022-is-back-live-in-san-francisco/)
-- [Cosmosphere craft beer: Space museum set to launch &#39;Space Race&#39; IPA](https://www.space.com/space-race-ipa-beer-cosmosphere)
+- [Historic Mars weather delay pushes Ingenuity helicopter&#39;s next flight to Sunday](https://www.space.com/ingenuity-mars-helicopter-weather-delay-dust-storm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
