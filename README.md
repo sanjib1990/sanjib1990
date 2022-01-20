@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Weavit’s new app wants to be a ‘Shazam for your thoughts’](https://techcrunch.com/2022/01/20/weavits-new-app-wants-to-be-a-shazam-for-your-thoughts/)
+- [Twitter is rolling out its Communities feature to all Android users](https://techcrunch.com/2022/01/20/twitter-is-rolling-out-its-communities-feature-to-all-android-users/)
+- [On a mission to be the ‘Affirm for B2B,’ Vartana secures $57M in debt, equity](https://techcrunch.com/2022/01/20/on-a-mission-to-be-the-affirm-for-b2b-vartana-secures-57m-in-debt-equity/)
+- [Changes to corporate investing rules could diminish China’s resilient venture landscape](https://techcrunch.com/2022/01/20/changes-to-corporate-investing-rules-could-diminish-chinas-resilient-venture-landscape/)
+- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
+- [Instagram now allows creators to ‘remix’ any public videos, not just reels](https://techcrunch.com/2022/01/20/instagram-now-allows-creators-to-remix-any-public-videos-not-just-reels/)
 - [Mitsubishi partners with Cartken to break into the robotic delivery world](https://techcrunch.com/2022/01/20/mitsubishi-partners-with-cartken-to-break-into-the-robotic-delivery-world/)
-- [Berlin’s Cherry Ventures launches fourth fund at $340M, for early stage tech and Web3](https://techcrunch.com/2022/01/20/berlins-cherry-ventures-launches-fourth-fund-at-340m-for-early-stage-tech-and-web3/)
-- [European parliament backs big limits on tracking ads](https://techcrunch.com/2022/01/20/meps-vote-to-limit-tracking/)
-- [Facebook and Instagram may help you create and sell NFTs](https://techcrunch.com/2022/01/20/facebook-and-instagram-may-help-you-create-and-sell-nfts/)
-- [Meta’s Workplace will integrate with WhatsApp later this year to expand communication with frontline employees](https://techcrunch.com/2022/01/20/metas-workplace-will-integrate-with-whatsapp-later-this-year-to-expand-communication-with-frontline-employees/)
-- [Diversio secures fresh capital to diagnose companies’ DEI pain points](https://techcrunch.com/2022/01/20/diversio-secures-fresh-capital-to-diagnose-companies-dei-pain-points/)
-- [Locations and contact data on 515,000 vulnerable people stolen in Red Cross data breach](https://techcrunch.com/2022/01/20/red-cross-data-breach/)
-- [Zingtree turns complex customer service processes into clear action plans](https://techcrunch.com/2022/01/20/zingtree-turns-complex-customer-service-processes-into-clear-action-plans/)
-- [CodeSee pulls in a $7M secondary seed to build out code visualization platform](https://techcrunch.com/2022/01/20/codesee-pulls-in-a-7m-secondary-seed-to-build-out-code-visualization-platform/)
-- [Caden launches with $3.4M to help consumers take control of their data](https://techcrunch.com/2022/01/20/caden-launches-with-3-4-million-to-help-consumers-take-control-of-their-data/)
+- [Radian Aerospace raises $27.5 million for new orbital space plane](https://www.space.com/radian-aerospace-funding-reusable-space-plane)
+- [Berlin’s Cherry Ventures launches fourth fund at $340M, for early-stage tech and web3](https://techcrunch.com/2022/01/20/berlins-cherry-ventures-launches-fourth-fund-at-340m-for-early-stage-tech-and-web3/)
+- [What is string theory?](https://www.space.com/17594-string-theory.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
