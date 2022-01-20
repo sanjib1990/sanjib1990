@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The pandemic trade is over](https://techcrunch.com/2022/01/20/the-pandemic-trade-is-over/)
+- [Don’t underestimate first-time founders](https://techcrunch.com/2022/01/20/dont-underestimate-first-time-founders/)
+- [Pay Misty for me](https://techcrunch.com/2022/01/20/pay-misty-for-me/)
+- [How to build a product advisory council for your startup](https://techcrunch.com/2022/01/20/how-to-build-a-product-advisory-council-for-your-startup/)
 - [Advanced driver assistance tech in cars today won’t pass IIHS’ new safety rating](https://techcrunch.com/2022/01/20/advanced-driver-assistance-tech-in-cars-today-wont-pass-iihs-new-safety-rating/)
 - [TikTok begins testing support for paid subscriptions](https://techcrunch.com/2022/01/20/tiktok-begins-testing-support-for-paid-subscriptions/)
 - [Twitter Blue subscription users are first to gain access to a new NFT Profile Picture feature](https://techcrunch.com/2022/01/20/twitter-blue-subscription-users-are-first-gain-access-to-a-new-nft-profile-picture-feature/)
 - [Prophecy raises $25M for its low-code data engineering platform](https://techcrunch.com/2022/01/20/prophecy-raises-25m-for-its-low-code-data-engineering-platform/)
+- [Astronaut spots ash clouds from Tonga volcano eruption from space &lpar;photos&rpar;](https://www.space.com/tonga-volcano-eruption-astronaut-photos)
 - [Peloton reportedly pauses bike and treadmill production amid slowed demand](https://techcrunch.com/2022/01/20/peloton-reportedly-pauses-bike-and-treadmill-production-amid-slowed-demand/)
-- [2FA compromise led to $34M Crypto.com hack](https://techcrunch.com/2022/01/20/2fa-compromise-led-to-34m-crypto-com-hack/)
-- [The first movie studio in space could be attached to the ISS in 2024](https://techcrunch.com/2022/01/20/the-first-movie-studio-in-space-could-be-attached-to-the-iss-in-2024/)
-- [New Greylock venture partner Mustafa Suleyman is looking for AI’s next best thing](https://techcrunch.com/2022/01/20/new-greylock-venture-partner-mustafa-suleyman-is-looking-for-ais-next-best-thing/)
-- [Google reportedly planning a new AR headset for 2024](https://techcrunch.com/2022/01/20/google-reportedly-planning-a-new-ar-headset-for-2024/)
-- [Historic Mars weather delay pushes Ingenuity helicopter&#39;s next flight to Sunday](https://www.space.com/ingenuity-mars-helicopter-weather-delay-dust-storm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
