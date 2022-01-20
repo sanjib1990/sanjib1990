@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mitsubishi partners with Cartken to break into the robotic delivery world](https://techcrunch.com/2022/01/20/mitsubishi-partners-with-cartken-to-break-into-the-robotic-delivery-world/)
+- [Berlin’s Cherry Ventures launches fourth fund at $340M, for early stage tech and Web3](https://techcrunch.com/2022/01/20/berlins-cherry-ventures-launches-fourth-fund-at-340m-for-early-stage-tech-and-web3/)
+- [European parliament backs big limits on tracking ads](https://techcrunch.com/2022/01/20/meps-vote-to-limit-tracking/)
+- [Facebook and Instagram may help you create and sell NFTs](https://techcrunch.com/2022/01/20/facebook-and-instagram-may-help-you-create-and-sell-nfts/)
 - [Meta’s Workplace will integrate with WhatsApp later this year to expand communication with frontline employees](https://techcrunch.com/2022/01/20/metas-workplace-will-integrate-with-whatsapp-later-this-year-to-expand-communication-with-frontline-employees/)
 - [Diversio secures fresh capital to diagnose companies’ DEI pain points](https://techcrunch.com/2022/01/20/diversio-secures-fresh-capital-to-diagnose-companies-dei-pain-points/)
-- [Confidential data on 500,000 vulnerable people stolen in Red Cross data breach](https://techcrunch.com/2022/01/20/red-cross-data-breach/)
+- [Locations and contact data on 515,000 vulnerable people stolen in Red Cross data breach](https://techcrunch.com/2022/01/20/red-cross-data-breach/)
 - [Zingtree turns complex customer service processes into clear action plans](https://techcrunch.com/2022/01/20/zingtree-turns-complex-customer-service-processes-into-clear-action-plans/)
 - [CodeSee pulls in a $7M secondary seed to build out code visualization platform](https://techcrunch.com/2022/01/20/codesee-pulls-in-a-7m-secondary-seed-to-build-out-code-visualization-platform/)
 - [Caden launches with $3.4M to help consumers take control of their data](https://techcrunch.com/2022/01/20/caden-launches-with-3-4-million-to-help-consumers-take-control-of-their-data/)
-- [Famous astronomers: How these scientists shaped astronomy](https://www.space.com/16095-famous-astronomers.html)
-- [Upcoming sci-fi movies for 2022](https://www.space.com/upcoming-sci-fi-movies)
-- [Amazon is opening its first physical clothing store](https://techcrunch.com/2022/01/20/amazon-is-opening-its-first-physical-clothing-store/)
-- [Plaid buys Cognito as it moves beyond merely connecting accounts](https://techcrunch.com/2022/01/20/plaid-buys-cognito-to-bolster-its-feature-set-as-it-moves-beyond-simply-connecting-accounts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
