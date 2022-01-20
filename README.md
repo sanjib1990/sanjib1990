@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Upcoming sci-fi movies for 2022](https://www.space.com/upcoming-sci-fi-movies)
 - [Amazon is opening its first physical clothing store](https://techcrunch.com/2022/01/20/amazon-is-opening-its-first-physical-clothing-store/)
 - [Plaid buys Cognito as it moves beyond merely connecting accounts](https://techcrunch.com/2022/01/20/plaid-buys-cognito-to-bolster-its-feature-set-as-it-moves-beyond-simply-connecting-accounts/)
 - [Nerf gun deals and discounts](https://www.space.com/nerf-gun-deals)
@@ -104,7 +105,6 @@
 - [&#39;Space archaeology&#39; research on the ISS will help design better space habitats](https://www.space.com/space-archaeology-iss-crew-culture-project)
 - [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [Clench your jaw to skip a track: That’s the magic of Wisear](https://techcrunch.com/2022/01/20/wisear/)
-- [The 10 most Earth-like exoplanets](https://www.space.com/30172-six-most-earth-like-alien-planets.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
