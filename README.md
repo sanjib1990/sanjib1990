@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta researchers build an AI that learns equally well from visual, written or spoken materials](https://techcrunch.com/2022/01/20/meta-researchers-build-an-ai-that-learns-equally-well-from-visual-written-or-spoken-materials/)
+- [Metalenz PolarEyes upgrades digital sensing with polarized light](https://techcrunch.com/2022/01/20/metalenz-polareyes-upgrades-digital-sensing-with-polarized-light/)
+- [TechCrunch Early Stage 2022 is back LIVE in San Francisco](https://techcrunch.com/2022/01/20/techcrunch-early-stage-2022-is-back-live-in-san-francisco/)
+- [Mercedes’ future vehicles will have Luminar lidar under new deal](https://techcrunch.com/2022/01/20/mercedes-future-vehicles-will-have-luminar-lidar-under-new-deal/)
 - [Weavit’s new app wants to be a ‘Shazam for your thoughts’](https://techcrunch.com/2022/01/20/weavits-new-app-wants-to-be-a-shazam-for-your-thoughts/)
+- [Join the first TechCrunch Live episode to hear how Heartbeat Health raised from Kindred Ventures](https://techcrunch.com/2022/01/20/join-the-first-techcrunch-live-episode-to-hear-how-heartbeat-health-raised-from-kindred-ventures/)
 - [Twitter is rolling out its Communities feature to all Android users](https://techcrunch.com/2022/01/20/twitter-is-rolling-out-its-communities-feature-to-all-android-users/)
 - [On a mission to be the ‘Affirm for B2B,’ Vartana secures $57M in debt, equity](https://techcrunch.com/2022/01/20/on-a-mission-to-be-the-affirm-for-b2b-vartana-secures-57m-in-debt-equity/)
 - [Changes to corporate investing rules could diminish China’s resilient venture landscape](https://techcrunch.com/2022/01/20/changes-to-corporate-investing-rules-could-diminish-chinas-resilient-venture-landscape/)
 - [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
-- [Instagram now allows creators to ‘remix’ any public videos, not just reels](https://techcrunch.com/2022/01/20/instagram-now-allows-creators-to-remix-any-public-videos-not-just-reels/)
-- [Mitsubishi partners with Cartken to break into the robotic delivery world](https://techcrunch.com/2022/01/20/mitsubishi-partners-with-cartken-to-break-into-the-robotic-delivery-world/)
-- [Radian Aerospace raises $27.5 million for new orbital space plane](https://www.space.com/radian-aerospace-funding-reusable-space-plane)
-- [Berlin’s Cherry Ventures launches fourth fund at $340M, for early-stage tech and web3](https://techcrunch.com/2022/01/20/berlins-cherry-ventures-launches-fourth-fund-at-340m-for-early-stage-tech-and-web3/)
-- [What is string theory?](https://www.space.com/17594-string-theory.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
