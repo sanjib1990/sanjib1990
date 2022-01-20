@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [French robotic exoskeleton maker Wandercraft eyes US expansion courtesy of a $45M Series C](https://techcrunch.com/2022/01/19/french-robotic-exoskeleton-maker-eyes-us-expansion-courtesy-of-a-45m-series-c/)
 - [Insurtech startup Luko acquires Coya and gains insurance license](https://techcrunch.com/2022/01/19/insurtech-startup-luko-acquires-coya-and-gains-insurance-license/)
 - [Singapore-based StaffAny gets $3.4M led by GGV to simplify shift management](https://techcrunch.com/2022/01/19/singapore-based-staffany-gets-3-4m-led-by-ggv-to-simplify-shift-management/)
 - [SaaS Labs raises $42 million for its business automation platform, acquires CallPage and Atolia](https://techcrunch.com/2022/01/19/saas-labs-raises-42-million-for-its-business-automation-platform-acquires-callpage-and-atolia/)
@@ -104,7 +105,6 @@
 - [Crypto.com CEO admits hundreds of customer accounts were hacked](https://techcrunch.com/2022/01/19/crypto-com-ceo-admits-hundreds-of-customer-accounts-were-hacked/)
 - [Webb Mirror Segment Deployments Complete](https://blogs.nasa.gov/webb/2022/01/19/webb-mirror-segment-deployments-complete/)
 - [NASA wants your ideas to reuse trash and waste on a Mars mission](https://www.space.com/nasa-resuse-trash-waste-mars-mission)
-- [Accessible hiring practices to solve for The Great Resignation](https://techcrunch.com/2022/01/19/accessible-hiring-practices-to-solve-for-the-great-resignation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
