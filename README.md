@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [YC alum Dropee, a Malaysia B2B wholesale platform, lands $7M Series A](https://techcrunch.com/2022/01/19/yc-alum-dropee-a-malaysia-b2b-wholesale-platform-lands-7m-series-a/)
 - [Google Play Games for PC, which brings Android games to Windows, enters beta testing](https://techcrunch.com/2022/01/19/google-play-games-for-pc-which-brings-android-games-to-windows-enters-beta-testing/)
 - [Daily Crunch: Electric rail vehicle startup Parallel Systems raises a $49.55M Series A](https://techcrunch.com/2022/01/19/daily-crunch-electric-rail-vehicle-startup-parallel-systems-raises-a-49-55m-series-a/)
 - [Crypto.com CEO admits hundreds of customer accounts were hacked](https://techcrunch.com/2022/01/19/crypto-com-ceo-admits-hundreds-of-customer-accounts-were-hacked/)
@@ -104,7 +105,6 @@
 - [Apple Podcasts introduces new ‘Listen With’ collections to help users discover shows](https://techcrunch.com/2022/01/19/apple-podcasts-introduces-new-listen-with-collections-to-help-users-discover-shows/)
 - [How Mayht, a small startup, is taking on the world of speaker goliaths](https://techcrunch.com/2022/01/19/mayht-vs-goliath/)
 - [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
-- [Why Microsoft’s $2T+ market cap makes its $68B Activision buy a cheap bet](https://techcrunch.com/2022/01/19/why-microsofts-2t-market-cap-makes-its-78b-activision-buy-a-cheap-bet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
