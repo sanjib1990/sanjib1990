@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [An early bet on Solana and others has led to a new, $500M fund for Foundation Capital](https://techcrunch.com/2022/01/20/foundation-capital-tenth-fund/)
+- [ANYmal’s quadrupedal robot takes a hike](https://techcrunch.com/2022/01/20/anymals-quadrupedal-robot-takes-a-hike/)
 - [Inside Secfi’s 2021 state of stock options equity report](https://techcrunch.com/2022/01/20/inside-secfis-2021-state-of-stock-options-equity-report/)
 - [TBD turns an STI into NBD with at-home testing for sexually transmitted infections](https://techcrunch.com/2022/01/20/tbd-launch/)
 - [The pandemic trade is over](https://techcrunch.com/2022/01/20/the-pandemic-trade-is-over/)
@@ -103,8 +105,6 @@
 - [Pay Misty for me](https://techcrunch.com/2022/01/20/pay-misty-for-me/)
 - [How to build a product advisory council for your startup](https://techcrunch.com/2022/01/20/how-to-build-a-product-advisory-council-for-your-startup/)
 - [Advanced driver assistance tech in cars today won’t pass IIHS’ new safety rating](https://techcrunch.com/2022/01/20/advanced-driver-assistance-tech-in-cars-today-wont-pass-iihs-new-safety-rating/)
-- [TikTok begins testing support for paid subscriptions](https://techcrunch.com/2022/01/20/tiktok-begins-testing-support-for-paid-subscriptions/)
-- [Twitter Blue subscription users are first to gain access to a new NFT Profile Picture feature](https://techcrunch.com/2022/01/20/twitter-blue-subscription-users-are-first-gain-access-to-a-new-nft-profile-picture-feature/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
