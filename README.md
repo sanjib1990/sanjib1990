@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Inside Secfi’s 2021 state of stock options equity report](https://techcrunch.com/2022/01/20/inside-secfis-2021-state-of-stock-options-equity-report/)
+- [TBD turns an STI into NBD with at-home testing for sexually transmitted infections](https://techcrunch.com/2022/01/20/tbd-launch/)
 - [The pandemic trade is over](https://techcrunch.com/2022/01/20/the-pandemic-trade-is-over/)
+- [Bad weather delays SpaceX Dragon&#39;s departure from space station to Saturday](https://www.space.com/spacex-cargo-dragon-departure-weather-delay)
 - [Don’t underestimate first-time founders](https://techcrunch.com/2022/01/20/dont-underestimate-first-time-founders/)
 - [Pay Misty for me](https://techcrunch.com/2022/01/20/pay-misty-for-me/)
 - [How to build a product advisory council for your startup](https://techcrunch.com/2022/01/20/how-to-build-a-product-advisory-council-for-your-startup/)
 - [Advanced driver assistance tech in cars today won’t pass IIHS’ new safety rating](https://techcrunch.com/2022/01/20/advanced-driver-assistance-tech-in-cars-today-wont-pass-iihs-new-safety-rating/)
 - [TikTok begins testing support for paid subscriptions](https://techcrunch.com/2022/01/20/tiktok-begins-testing-support-for-paid-subscriptions/)
 - [Twitter Blue subscription users are first to gain access to a new NFT Profile Picture feature](https://techcrunch.com/2022/01/20/twitter-blue-subscription-users-are-first-gain-access-to-a-new-nft-profile-picture-feature/)
-- [Prophecy raises $25M for its low-code data engineering platform](https://techcrunch.com/2022/01/20/prophecy-raises-25m-for-its-low-code-data-engineering-platform/)
-- [Astronaut spots ash clouds from Tonga volcano eruption from space &lpar;photos&rpar;](https://www.space.com/tonga-volcano-eruption-astronaut-photos)
-- [Peloton reportedly pauses bike and treadmill production amid slowed demand](https://techcrunch.com/2022/01/20/peloton-reportedly-pauses-bike-and-treadmill-production-amid-slowed-demand/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
