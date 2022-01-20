@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The first movie studio in space could be attached to the ISS in 2024](https://techcrunch.com/2022/01/20/the-first-movie-studio-in-space-could-be-attached-to-the-iss-in-2024/)
+- [New Greylock venture partner Mustafa Suleyman is looking for AI’s next best thing](https://techcrunch.com/2022/01/20/new-greylock-venture-partner-mustafa-suleyman-is-looking-for-ais-next-best-thing/)
+- [Google reportedly planning a new AR headset for 2024](https://techcrunch.com/2022/01/20/google-reportedly-planning-a-new-ar-headset-for-2024/)
+- [A global clash over technology dominance is mounting](https://techcrunch.com/2022/01/20/a-global-clash-over-technology-dominance-is-mounting/)
+- [Axiom&#39;s 1st private crew launch to space station delayed to March](https://www.space.com/axiom-1-launch-delay-march-2022)
+- [Neil Armstrong: First man on the moon](https://www.space.com/15519-neil-armstrong-man-moon.html)
 - [Meta researchers build an AI that learns equally well from visual, written or spoken materials](https://techcrunch.com/2022/01/20/meta-researchers-build-an-ai-that-learns-equally-well-from-visual-written-or-spoken-materials/)
 - [Metalenz PolarEyes upgrades digital sensing with polarized light](https://techcrunch.com/2022/01/20/metalenz-polareyes-upgrades-digital-sensing-with-polarized-light/)
 - [TechCrunch Early Stage 2022 is back LIVE in San Francisco](https://techcrunch.com/2022/01/20/techcrunch-early-stage-2022-is-back-live-in-san-francisco/)
-- [Mercedes’ future vehicles will have Luminar lidar under new deal](https://techcrunch.com/2022/01/20/mercedes-future-vehicles-will-have-luminar-lidar-under-new-deal/)
-- [Weavit’s new app wants to be a ‘Shazam for your thoughts’](https://techcrunch.com/2022/01/20/weavits-new-app-wants-to-be-a-shazam-for-your-thoughts/)
-- [Join the first TechCrunch Live episode to hear how Heartbeat Health raised from Kindred Ventures](https://techcrunch.com/2022/01/20/join-the-first-techcrunch-live-episode-to-hear-how-heartbeat-health-raised-from-kindred-ventures/)
-- [Twitter is rolling out its Communities feature to all Android users](https://techcrunch.com/2022/01/20/twitter-is-rolling-out-its-communities-feature-to-all-android-users/)
-- [On a mission to be the ‘Affirm for B2B,’ Vartana secures $57M in debt, equity](https://techcrunch.com/2022/01/20/on-a-mission-to-be-the-affirm-for-b2b-vartana-secures-57m-in-debt-equity/)
-- [Changes to corporate investing rules could diminish China’s resilient venture landscape](https://techcrunch.com/2022/01/20/changes-to-corporate-investing-rules-could-diminish-chinas-resilient-venture-landscape/)
-- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
+- [Cosmosphere craft beer: Space museum set to launch &#39;Space Race&#39; IPA](https://www.space.com/space-race-ipa-beer-cosmosphere)
 <!-- BLOG-POST-LIST:END -->
 
 ---
