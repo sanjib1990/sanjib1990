@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon is opening its first physical clothing store](https://techcrunch.com/2022/01/20/amazon-is-opening-its-first-physical-clothing-store/)
+- [Plaid buys Cognito as it moves beyond merely connecting accounts](https://techcrunch.com/2022/01/20/plaid-buys-cognito-to-bolster-its-feature-set-as-it-moves-beyond-simply-connecting-accounts/)
+- [Nerf gun deals and discounts](https://www.space.com/nerf-gun-deals)
+- [On This Day in Space! Jan. 20, 1978: 1st Progress cargo delivery ship launched](https://www.space.com/39251-on-this-day-in-space.html)
+- [NASA space station officials weigh in on remaining in orbit until 2030](https://www.space.com/international-space-station-2030-opportunities-challenges)
+- [Spaceflight makes the body kill red blood cells and it doesn&#39;t get better after landing](https://www.space.com/spaceflight-destroys-red-blood-cells)
+- [&#39;Space archaeology&#39; research on the ISS will help design better space habitats](https://www.space.com/space-archaeology-iss-crew-culture-project)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [Clench your jaw to skip a track: That’s the magic of Wisear](https://techcrunch.com/2022/01/20/wisear/)
-- [South Korea’s agtech startup Greenlabs raises $140M Series C to accelerate global expansion](https://techcrunch.com/2022/01/20/south-koreas-agtech-startup-greenlabs-raises-140m-series-c-to-accelerate-global-expansion/)
-- [Morocco’s Chari valued at $100M in bridge round as it looks to pilot BNPL services](https://techcrunch.com/2022/01/20/moroccos-chari-valued-at-100m-in-bridge-round-as-it-looks-to-pilot-bnpl-services/)
-- [How long does it take to get to Mars?](https://www.space.com/24701-how-long-does-it-take-to-get-to-mars.html)
-- [Customer referral platform Mention Me raises $25M Series B led by Octopus Ventures](https://techcrunch.com/2022/01/20/customer-referral-platform-mention-me-raises-25m-series-led-by-octopus-ventures/)
-- [Terra Quantum raises $60M for its Quantum-as-a-Service platform](https://techcrunch.com/2022/01/20/terra-quantum-raises-60m-for-its-quantum-as-a-service-platform/)
-- [Austria’s PlanRadar, which digitizes construction and real estate docs,  raises $70M Series B](https://techcrunch.com/2022/01/20/austrias-planradar-which-digitizes-construction-and-real-estate-docs-raises-70m-series-b/)
-- [Payments infra startup M2P Fintech valued at over $600 million in $56 million funding](https://techcrunch.com/2022/01/19/m2p-fintech-funding-insight-partners/)
-- [French robotic exoskeleton maker Wandercraft eyes US expansion courtesy of a $45M Series C](https://techcrunch.com/2022/01/19/french-robotic-exoskeleton-maker-eyes-us-expansion-courtesy-of-a-45m-series-c/)
-- [Insurtech startup Luko acquires Coya and gains insurance license](https://techcrunch.com/2022/01/19/insurtech-startup-luko-acquires-coya-and-gains-insurance-license/)
+- [The 10 most Earth-like exoplanets](https://www.space.com/30172-six-most-earth-like-alien-planets.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
