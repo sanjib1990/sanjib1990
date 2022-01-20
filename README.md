@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Singapore-based StaffAny gets $3.4M led by GGV to simplify shift management](https://techcrunch.com/2022/01/19/singapore-based-staffany-gets-3-4m-led-by-ggv-to-simplify-shift-management/)
 - [SaaS Labs raises $42 million for its business automation platform, acquires CallPage and Atolia](https://techcrunch.com/2022/01/19/saas-labs-raises-42-million-for-its-business-automation-platform-acquires-callpage-and-atolia/)
 - [YC alum Dropee, a Malaysia B2B wholesale platform, lands $7M Series A](https://techcrunch.com/2022/01/19/yc-alum-dropee-a-malaysia-b2b-wholesale-platform-lands-7m-series-a/)
 - [Google Play Games for PC, which brings Android games to Windows, enters beta testing](https://techcrunch.com/2022/01/19/google-play-games-for-pc-which-brings-android-games-to-windows-enters-beta-testing/)
@@ -104,7 +105,6 @@
 - [NASA wants your ideas to reuse trash and waste on a Mars mission](https://www.space.com/nasa-resuse-trash-waste-mars-mission)
 - [Accessible hiring practices to solve for The Great Resignation](https://techcrunch.com/2022/01/19/accessible-hiring-practices-to-solve-for-the-great-resignation/)
 - [Apple Podcasts introduces new ‘Listen With’ collections to help users discover shows](https://techcrunch.com/2022/01/19/apple-podcasts-introduces-new-listen-with-collections-to-help-users-discover-shows/)
-- [How Mayht, a small startup, is taking on the world of speaker goliaths](https://techcrunch.com/2022/01/19/mayht-vs-goliath/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
