@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta’s Workplace will integrate with WhatsApp later this year to expand communication with frontline employees](https://techcrunch.com/2022/01/20/metas-workplace-will-integrate-with-whatsapp-later-this-year-to-expand-communication-with-frontline-employees/)
+- [Diversio secures fresh capital to diagnose companies’ DEI pain points](https://techcrunch.com/2022/01/20/diversio-secures-fresh-capital-to-diagnose-companies-dei-pain-points/)
+- [Confidential data on 500,000 vulnerable people stolen in Red Cross data breach](https://techcrunch.com/2022/01/20/red-cross-data-breach/)
+- [Zingtree turns complex customer service processes into clear action plans](https://techcrunch.com/2022/01/20/zingtree-turns-complex-customer-service-processes-into-clear-action-plans/)
+- [CodeSee pulls in a $7M secondary seed to build out code visualization platform](https://techcrunch.com/2022/01/20/codesee-pulls-in-a-7m-secondary-seed-to-build-out-code-visualization-platform/)
+- [Caden launches with $3.4M to help consumers take control of their data](https://techcrunch.com/2022/01/20/caden-launches-with-3-4-million-to-help-consumers-take-control-of-their-data/)
+- [Famous astronomers: How these scientists shaped astronomy](https://www.space.com/16095-famous-astronomers.html)
 - [Upcoming sci-fi movies for 2022](https://www.space.com/upcoming-sci-fi-movies)
 - [Amazon is opening its first physical clothing store](https://techcrunch.com/2022/01/20/amazon-is-opening-its-first-physical-clothing-store/)
 - [Plaid buys Cognito as it moves beyond merely connecting accounts](https://techcrunch.com/2022/01/20/plaid-buys-cognito-to-bolster-its-feature-set-as-it-moves-beyond-simply-connecting-accounts/)
-- [Nerf gun deals and discounts](https://www.space.com/nerf-gun-deals)
-- [On This Day in Space! Jan. 20, 1978: 1st Progress cargo delivery ship launched](https://www.space.com/39251-on-this-day-in-space.html)
-- [NASA space station officials weigh in on remaining in orbit until 2030](https://www.space.com/international-space-station-2030-opportunities-challenges)
-- [Spaceflight makes the body kill red blood cells and it doesn&#39;t get better after landing](https://www.space.com/spaceflight-destroys-red-blood-cells)
-- [&#39;Space archaeology&#39; research on the ISS will help design better space habitats](https://www.space.com/space-archaeology-iss-crew-culture-project)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [Clench your jaw to skip a track: That’s the magic of Wisear](https://techcrunch.com/2022/01/20/wisear/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
