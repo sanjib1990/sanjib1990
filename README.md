@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Morocco’s Chari valued at $100M in bridge round as it looks to pilot BNPL services](https://techcrunch.com/2022/01/20/moroccos-chari-valued-at-100m-in-bridge-round-as-it-looks-to-pilot-bnpl-services/)
 - [Customer referral platform Mention Me raises $25M Series B led by Octopus Ventures](https://techcrunch.com/2022/01/20/customer-referral-platform-mention-me-raises-25m-series-led-by-octopus-ventures/)
 - [Terra Quantum raises $60M for its Quantum-as-a-Service platform](https://techcrunch.com/2022/01/20/terra-quantum-raises-60m-for-its-quantum-as-a-service-platform/)
 - [Austria’s PlanRadar, which digitizes construction and real estate docs,  raises $70M Series B](https://techcrunch.com/2022/01/20/austrias-planradar-which-digitizes-construction-and-real-estate-docs-raises-70m-series-b/)
@@ -104,7 +105,6 @@
 - [Singapore-based StaffAny gets $3.4M led by GGV to simplify shift management](https://techcrunch.com/2022/01/19/singapore-based-staffany-gets-3-4m-led-by-ggv-to-simplify-shift-management/)
 - [SaaS Labs raises $42 million for its business automation platform, acquires CallPage and Atolia](https://techcrunch.com/2022/01/19/saas-labs-raises-42-million-for-its-business-automation-platform-acquires-callpage-and-atolia/)
 - [YC alum Dropee, a Malaysia B2B wholesale platform, lands $7M Series A](https://techcrunch.com/2022/01/19/yc-alum-dropee-a-malaysia-b2b-wholesale-platform-lands-7m-series-a/)
-- [Google Play Games for PC, which brings Android games to Windows, enters beta testing](https://techcrunch.com/2022/01/19/google-play-games-for-pc-which-brings-android-games-to-windows-enters-beta-testing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
