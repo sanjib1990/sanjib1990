@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Clench your jaw to skip a track: That’s the magic of Wisear](https://techcrunch.com/2022/01/20/wisear/)
+- [South Korea’s agtech startup Greenlabs raises $140M Series C to accelerate global expansion](https://techcrunch.com/2022/01/20/south-koreas-agtech-startup-greenlabs-raises-140m-series-c-to-accelerate-global-expansion/)
 - [Morocco’s Chari valued at $100M in bridge round as it looks to pilot BNPL services](https://techcrunch.com/2022/01/20/moroccos-chari-valued-at-100m-in-bridge-round-as-it-looks-to-pilot-bnpl-services/)
+- [How long does it take to get to Mars?](https://www.space.com/24701-how-long-does-it-take-to-get-to-mars.html)
 - [Customer referral platform Mention Me raises $25M Series B led by Octopus Ventures](https://techcrunch.com/2022/01/20/customer-referral-platform-mention-me-raises-25m-series-led-by-octopus-ventures/)
 - [Terra Quantum raises $60M for its Quantum-as-a-Service platform](https://techcrunch.com/2022/01/20/terra-quantum-raises-60m-for-its-quantum-as-a-service-platform/)
 - [Austria’s PlanRadar, which digitizes construction and real estate docs,  raises $70M Series B](https://techcrunch.com/2022/01/20/austrias-planradar-which-digitizes-construction-and-real-estate-docs-raises-70m-series-b/)
 - [Payments infra startup M2P Fintech valued at over $600 million in $56 million funding](https://techcrunch.com/2022/01/19/m2p-fintech-funding-insight-partners/)
 - [French robotic exoskeleton maker Wandercraft eyes US expansion courtesy of a $45M Series C](https://techcrunch.com/2022/01/19/french-robotic-exoskeleton-maker-eyes-us-expansion-courtesy-of-a-45m-series-c/)
 - [Insurtech startup Luko acquires Coya and gains insurance license](https://techcrunch.com/2022/01/19/insurtech-startup-luko-acquires-coya-and-gains-insurance-license/)
-- [Singapore-based StaffAny gets $3.4M led by GGV to simplify shift management](https://techcrunch.com/2022/01/19/singapore-based-staffany-gets-3-4m-led-by-ggv-to-simplify-shift-management/)
-- [SaaS Labs raises $42 million for its business automation platform, acquires CallPage and Atolia](https://techcrunch.com/2022/01/19/saas-labs-raises-42-million-for-its-business-automation-platform-acquires-callpage-and-atolia/)
-- [YC alum Dropee, a Malaysia B2B wholesale platform, lands $7M Series A](https://techcrunch.com/2022/01/19/yc-alum-dropee-a-malaysia-b2b-wholesale-platform-lands-7m-series-a/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
