@@ -78,6 +78,7 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [i created a 24/7 livestream &lpar;to help you study&rpar;](https://www.youtube.com/watch?v=0scjy6Zxzwc)
 - [Build a WEB3 app to mint unlimited NFTs… But should you?](https://www.youtube.com/watch?v=meTpMP0J5E8)
 - [What is DevOps? REALLY understand it | DevOps vs SRE](https://www.youtube.com/watch?v=0yWAtQ6wYNM)
 - [create the ULTIMATE hacking lab in 5min!! &lpar;Docker Containers STREAMING Kali Linux to your browser&rpar;](https://www.youtube.com/watch?v=U7e-mcJdZok)
@@ -87,7 +88,6 @@
 - [The Dark Side of Open Source // What really happened to Faker.js?](https://www.youtube.com/watch?v=R6S-b_k-ZKY)
 - [Man in the Middle &amp; Needham–Schroeder Protocol - Computerphile](https://www.youtube.com/watch?v=EtpdLBeIaus)
 - [Binary Explained in 01100100 Seconds](https://www.youtube.com/watch?v=zDNaUi2cjv4)
-- [Git Overview - Computerphile](https://www.youtube.com/watch?v=92sycL8ij-U)
 <!-- YOUTUBE:END -->
 
 ---
