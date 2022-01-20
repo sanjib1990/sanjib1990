@@ -95,6 +95,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Play Games for PC, which brings Android games to Windows, enters beta testing](https://techcrunch.com/2022/01/19/google-play-games-for-pc-which-brings-android-games-to-windows-enters-beta-testing/)
+- [Daily Crunch: Electric rail vehicle startup Parallel Systems raises a $49.55M Series A](https://techcrunch.com/2022/01/19/daily-crunch-electric-rail-vehicle-startup-parallel-systems-raises-a-49-55m-series-a/)
+- [Crypto.com CEO admits hundreds of customer accounts were hacked](https://techcrunch.com/2022/01/19/crypto-com-ceo-admits-hundreds-of-customer-accounts-were-hacked/)
 - [Webb Mirror Segment Deployments Complete](https://blogs.nasa.gov/webb/2022/01/19/webb-mirror-segment-deployments-complete/)
 - [NASA wants your ideas to reuse trash and waste on a Mars mission](https://www.space.com/nasa-resuse-trash-waste-mars-mission)
 - [Accessible hiring practices to solve for The Great Resignation](https://techcrunch.com/2022/01/19/accessible-hiring-practices-to-solve-for-the-great-resignation/)
@@ -102,9 +105,6 @@
 - [How Mayht, a small startup, is taking on the world of speaker goliaths](https://techcrunch.com/2022/01/19/mayht-vs-goliath/)
 - [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
 - [Why Microsoft’s $2T+ market cap makes its $68B Activision buy a cheap bet](https://techcrunch.com/2022/01/19/why-microsofts-2t-market-cap-makes-its-78b-activision-buy-a-cheap-bet/)
-- [James Webb Space Telescope marks deployment of all mirrors](https://www.space.com/james-webb-space-telescope-mirrors-deployed)
-- [Cosmonauts on spacewalk ready new Russian docking port for future space station arrivals](https://www.space.com/cosmonauts-spacewalk-prichal-docking-port)
-- [Web3 ‘Proof of attendance’ startup raises $10M to mint shared memories as NFTs](https://techcrunch.com/2022/01/19/web3-proof-of-attendance-startup-raises-10m-to-mint-shared-memories-as-nfts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
