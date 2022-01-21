@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch+ roundup: 2022 VC predictions, how to hook an angel, product advisory councils](https://techcrunch.com/2022/01/21/techcrunch-roundup-2022-vc-predictions-how-to-hook-an-angel-product-advisory-councils/)
+- [3 factors to consider when adding remote visual assistance software to your tech stack](https://techcrunch.com/2022/01/21/3-factors-to-consider-when-adding-remote-visual-assistance-software-to-your-tech-stack/)
 - [Space Force satellite launch could create a luminous cloud in tonight&#39;s evening sky](https://www.space.com/atlas-v-rocket-launch-fuel-dump-visible)
 - [FCC proposal would curb ISP lock-ins at apartment complexes](https://techcrunch.com/2022/01/21/fcc-proposal-would-curb-isp-lock-ins-at-apartment-complexes/)
 - [Atlas V rocket launches 2 surveillance satellites for US Space Force](https://www.space.com/atlas-v-space-force-satellite-launch-january-2022)
@@ -103,8 +105,6 @@
 - [How our SaaS startup broke into the Japanese market without a physical presence](https://techcrunch.com/2022/01/21/how-our-saas-startup-broke-into-the-japanese-market-without-a-physical-presence/)
 - [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [How was the moon formed?](https://www.space.com/19275-moon-formation.html)
-- [VCs approached Facebook to fund a spinout of Workplace valued at over $1B, but Facebook declined](https://techcrunch.com/2022/01/21/vcs-approached-facebook-to-fund-a-spinout-of-workplace-valued-at-over-1b-but-facebook-declined/)
-- [How fast is Earth moving?](https://www.space.com/33527-how-fast-is-earth-moving.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
