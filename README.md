@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Intel eyes Ohio for a pair of chip factories amid global shortage](https://techcrunch.com/2022/01/21/intel-eyes-ohio-for-a-pair-of-chip-factories-amid-global-shortage/)
+- [Researchers detect 1st merger between black holes with eccentric orbits](https://www.space.com/first-eccentric-black-hole-merger-detected)
 - [Francisco Partners scoops up remains of IBM’s Watson Health unit](https://techcrunch.com/2022/01/21/francisco-partners-scoops-up-remains-of-ibms-watson-health-unit/)
 - [Wordle’s Blizzard of transparency](https://techcrunch.com/2022/01/21/wordles-blizzard-of-transparency/)
 - [How far is Earth from the sun?](https://www.space.com/17081-how-far-is-earth-from-the-sun.html)
@@ -103,8 +105,6 @@
 - [Israel’s Entrée Capital raises $300M for Israel-focused fund, Adi Gozes becomes Partner](https://techcrunch.com/2022/01/21/israels-entree-capital-raises-300m-for-israel-focused-fund-adi-gozes-becomes-partner/)
 - [What is the speed of light?](https://www.space.com/15830-light-speed.html)
 - [How hot is the sun?](https://www.space.com/17137-how-hot-is-the-sun.html)
-- [Europe’s top privacy regulator calls for ban on political microtargeting](https://techcrunch.com/2022/01/21/edps-calls-for-political-microtargeting-ban/)
-- [On This Day in Space! Jan. 21, 1960: &#39;Miss Sam&#39; the Rhesus Monkey Launched into Space](https://www.space.com/39251-on-this-day-in-space.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
