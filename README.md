@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Netflix had its lowest year of subscriber growth since 2015](https://techcrunch.com/2022/01/20/netflix-q4-2021-results-subscriber-numbers/)
+- [5 areas where VCs can play an outsized role in addressing climate change](https://techcrunch.com/2022/01/20/5-areas-where-vcs-can-play-an-outsized-role-in-addressing-climate-change/)
+- [Daily Crunch: Following ‘significant reduction’ in demand, Peloton puts brakes on production](https://techcrunch.com/2022/01/20/daily-crunch-following-significant-reduction-in-demand-peloton-puts-brakes-on-production/)
+- [The first big tech antitrust bill lumbers toward reality](https://techcrunch.com/2022/01/20/tech-antitrust-self-preferencing-bill-american-innovation-and-choice-online-act/)
 - [Ahead of a February event, Samsung teases Galaxy S/Note merger](https://techcrunch.com/2022/01/20/ahead-of-february-event-samsung-teases-galaxy-s-note-merger/)
+- [NASA&#39;s gamma-ray observatory is in safe mode after a possible wheel failure](https://www.space.com/nasa-swift-observatory-safe-mode-reaction-wheel)
+- [The Nearest Stars to Earth &lpar;Infographic&rpar;](https://www.space.com/18964-the-nearest-stars-to-earth-infographic.html)
+- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
 - [Spotify still tops other music services, but its market share declined](https://techcrunch.com/2022/01/20/spotify-subscription-numbers-up-youtube-music-tidal/)
 - [An early bet on Solana and others has led to a new, $500M fund for Foundation Capital](https://techcrunch.com/2022/01/20/foundation-capital-tenth-fund/)
-- [ANYmal’s quadrupedal robot takes a hike](https://techcrunch.com/2022/01/20/anymals-quadrupedal-robot-takes-a-hike/)
-- [Inside Secfi’s 2021 state of stock options equity report](https://techcrunch.com/2022/01/20/inside-secfis-2021-state-of-stock-options-equity-report/)
-- [TBD turns an STI into NBD with at-home testing for sexually transmitted infections](https://techcrunch.com/2022/01/20/tbd-launch/)
-- [The pandemic trade is over](https://techcrunch.com/2022/01/20/the-pandemic-trade-is-over/)
-- [Bad weather delays SpaceX Dragon&#39;s departure from space station to Saturday](https://www.space.com/spacex-cargo-dragon-departure-weather-delay)
-- [Don’t underestimate first-time founders](https://techcrunch.com/2022/01/20/dont-underestimate-first-time-founders/)
-- [Pay Misty for me](https://techcrunch.com/2022/01/20/pay-misty-for-me/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
