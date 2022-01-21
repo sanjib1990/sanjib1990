@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dublin’s Exergyn pulls in $35M Series A for solution which replaces GHG-causing refrigerants](https://techcrunch.com/2022/01/21/dublins-exergyn-pulls-in-35m-series-a-for-solution-which-replaces-ghg-causing-refrigerants/)
 - [Peloton CEO acknowledges corrective actions, denies ‘halting all production’ of bikes and treadmills](https://techcrunch.com/2022/01/20/peloton-ceo-acknowledges-corrective-actions-denies-halting-all-production-of-bikes-and-treadmills/)
 - [Netflix had its lowest year of subscriber growth since 2015](https://techcrunch.com/2022/01/20/netflix-q4-2021-results-subscriber-numbers/)
 - [5 areas where VCs can play an outsized role in addressing climate change](https://techcrunch.com/2022/01/20/5-areas-where-vcs-can-play-an-outsized-role-in-addressing-climate-change/)
@@ -104,7 +105,6 @@
 - [NASA&#39;s gamma-ray observatory is in safe mode after a possible wheel failure](https://www.space.com/nasa-swift-observatory-safe-mode-reaction-wheel)
 - [The Nearest Stars to Earth &lpar;Infographic&rpar;](https://www.space.com/18964-the-nearest-stars-to-earth-infographic.html)
 - [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
-- [Spotify still tops other music services, but its market share declined](https://techcrunch.com/2022/01/20/spotify-subscription-numbers-up-youtube-music-tidal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
