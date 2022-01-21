@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nourish + Bloom Market, first Black-owned, autonomous grocery, opens in Atlanta](https://techcrunch.com/2022/01/21/nourish-bloom-market-first-black-owned-autonomous-grocery-opens-in-atlanta/)
 - [Paris-based VC firm Partech unveils Chapter54 accelerator to help European startups cross into Africa](https://techcrunch.com/2022/01/21/paris-based-vc-firm-partech-unveils-chapter54-accelerator-to-help-european-startups-cross-into-africa/)
 - [Israel’s Entrée Capital raises $300M for Israel-focused fund, Adi Gozes becomes Partner](https://techcrunch.com/2022/01/21/israels-entree-capital-raises-300m-for-israel-focused-fund-adi-gozes-becomes-partner/)
 - [What is the speed of light?](https://www.space.com/15830-light-speed.html)
@@ -104,7 +105,6 @@
 - [Atlas V rocket launching 2 satellites for the US Space Force Friday: Watch it live](https://www.space.com/atlas-v-space-force-satellite-launch-january-2022)
 - [Shattered &#39;alphabet soup&#39; iceberg flushed a lot of fresh water into the ocean](https://www.space.com/shattered-iceberg-fresh-water-ocean)
 - [Do we live in a simulation? The problem with this mind-bending hypothesis.](https://www.space.com/universe-simulation-hypothesis-problems)
-- [Ghostly glow in alien skies: &#39;Zodiacal light&#39; possibly spotted on 3 exoplanets](https://www.space.com/zodiacal-light-dust-search-kepler-planets)
 <!-- BLOG-POST-LIST:END -->
 
 ---
