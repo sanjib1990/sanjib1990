@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Zuper secures $13M to take the sting out of home repairs](https://techcrunch.com/2022/01/21/zuper-secures-13m-to-take-the-sting-out-of-home-repairs/)
 - [Dublin’s Exergyn pulls in $35M Series A for solution which replaces GHG-causing refrigerants](https://techcrunch.com/2022/01/21/dublins-exergyn-pulls-in-35m-series-a-for-solution-which-replaces-ghg-causing-refrigerants/)
 - [Peloton CEO acknowledges corrective actions, denies ‘halting all production’ of bikes and treadmills](https://techcrunch.com/2022/01/20/peloton-ceo-acknowledges-corrective-actions-denies-halting-all-production-of-bikes-and-treadmills/)
 - [Netflix had its lowest year of subscriber growth since 2015](https://techcrunch.com/2022/01/20/netflix-q4-2021-results-subscriber-numbers/)
@@ -104,7 +105,6 @@
 - [Ahead of a February event, Samsung teases Galaxy S/Note merger](https://techcrunch.com/2022/01/20/ahead-of-february-event-samsung-teases-galaxy-s-note-merger/)
 - [NASA&#39;s gamma-ray observatory is in safe mode after a possible wheel failure](https://www.space.com/nasa-swift-observatory-safe-mode-reaction-wheel)
 - [The Nearest Stars to Earth &lpar;Infographic&rpar;](https://www.space.com/18964-the-nearest-stars-to-earth-infographic.html)
-- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
