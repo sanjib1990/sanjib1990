@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Atlas V rocket launches 2 surveillance satellites for US Space Force](https://www.space.com/atlas-v-space-force-satellite-launch-january-2022)
+- [Hubble telescope spots a black hole fostering baby stars in a dwarf galaxy](https://www.space.com/black-hole-star-formation-hubble-telescope-image)
+- [How should non technical founders collaborate with software developers?](https://techcrunch.com/2022/01/21/how-should-non-technical-founders-collaborate-with-software-developers/)
+- [How our SaaS startup broke into the Japanese market without a physical presence](https://techcrunch.com/2022/01/21/how-our-saas-startup-broke-into-the-japanese-market-without-a-physical-presence/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [How was the moon formed?](https://www.space.com/19275-moon-formation.html)
 - [VCs approached Facebook to fund a spinout of Workplace valued at over $1B, but Facebook declined](https://techcrunch.com/2022/01/21/vcs-approached-facebook-to-fund-a-spinout-of-workplace-valued-at-over-1b-but-facebook-declined/)
 - [How fast is Earth moving?](https://www.space.com/33527-how-fast-is-earth-moving.html)
 - [European spend management platform Moss raises $86 million](https://techcrunch.com/2022/01/21/european-spend-management-platform-moss-raises-86-million/)
 - [NASA catches the flash of a solar flare going into space](https://www.space.com/nasa-catches-solar-flare)
-- [Calii bags $22.5M to build Latin America’s grocery shopping future](https://techcrunch.com/2022/01/21/calii-bags-22-5m-to-build-latin-americas-grocery-shopping-future/)
-- [Cana Technology raises glass to new capital as it readies beverage printer for market](https://techcrunch.com/2022/01/21/cana-technology-raises-glass-to-new-capital-as-it-readies-beverage-printer-for-market/)
-- [Raven Software testers at Activision Blizzard form the first union at a major US gaming company](https://techcrunch.com/2022/01/21/activision-blizzard-union-raven-software/)
-- [Netflix’s dismal results are more evidence that the pandemic trade is over](https://techcrunch.com/2022/01/21/netflixs-dismal-results-are-more-evidence-that-the-pandemic-trade-is-over/)
-- [How big is the sun?](https://www.space.com/17001-how-big-is-the-sun-size-of-the-sun.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
