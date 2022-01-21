@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [European spend management platform Moss raises $86 million](https://techcrunch.com/2022/01/21/european-spend-management-platform-moss-raises-86-million/)
 - [NASA catches the flash of a solar flare going into space](https://www.space.com/nasa-catches-solar-flare)
 - [Calii bags $22.5M to build Latin America’s grocery shopping future](https://techcrunch.com/2022/01/21/calii-bags-22-5m-to-build-latin-americas-grocery-shopping-future/)
 - [Cana Technology raises glass to new capital as it readies beverage printer for market](https://techcrunch.com/2022/01/21/cana-technology-raises-glass-to-new-capital-as-it-readies-beverage-printer-for-market/)
@@ -104,7 +105,6 @@
 - [2022 could be a turning point in the study of UFOs](https://www.space.com/2022-turning-point-study-ufos-uap)
 - [Intel eyes Ohio for a pair of chip factories amid global shortage](https://techcrunch.com/2022/01/21/intel-eyes-ohio-for-a-pair-of-chip-factories-amid-global-shortage/)
 - [Researchers detect 1st merger between black holes with eccentric orbits](https://www.space.com/first-eccentric-black-hole-merger-detected)
-- [Francisco Partners scoops up bulk of IBM’s Watson Health unit](https://techcrunch.com/2022/01/21/francisco-partners-scoops-up-remains-of-ibms-watson-health-unit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
