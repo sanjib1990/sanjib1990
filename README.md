@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Space Force satellite launch could create a luminous cloud in tonight&#39;s evening sky](https://www.space.com/atlas-v-rocket-launch-fuel-dump-visible)
+- [FCC proposal would curb ISP lock-ins at apartment complexes](https://techcrunch.com/2022/01/21/fcc-proposal-would-curb-isp-lock-ins-at-apartment-complexes/)
 - [Atlas V rocket launches 2 surveillance satellites for US Space Force](https://www.space.com/atlas-v-space-force-satellite-launch-january-2022)
 - [Hubble telescope spots a black hole fostering baby stars in a dwarf galaxy](https://www.space.com/black-hole-star-formation-hubble-telescope-image)
 - [How should non technical founders collaborate with software developers?](https://techcrunch.com/2022/01/21/how-should-non-technical-founders-collaborate-with-software-developers/)
@@ -103,8 +105,6 @@
 - [How was the moon formed?](https://www.space.com/19275-moon-formation.html)
 - [VCs approached Facebook to fund a spinout of Workplace valued at over $1B, but Facebook declined](https://techcrunch.com/2022/01/21/vcs-approached-facebook-to-fund-a-spinout-of-workplace-valued-at-over-1b-but-facebook-declined/)
 - [How fast is Earth moving?](https://www.space.com/33527-how-fast-is-earth-moving.html)
-- [European spend management platform Moss raises $86 million](https://techcrunch.com/2022/01/21/european-spend-management-platform-moss-raises-86-million/)
-- [NASA catches the flash of a solar flare going into space](https://www.space.com/nasa-catches-solar-flare)
 <!-- BLOG-POST-LIST:END -->
 
 ---
