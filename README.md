@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA catches the flash of a solar flare going into space](https://www.space.com/nasa-catches-solar-flare)
+- [Calii bags $22.5M to build Latin America’s grocery shopping future](https://techcrunch.com/2022/01/21/calii-bags-22-5m-to-build-latin-americas-grocery-shopping-future/)
+- [Cana Technology raises glass to new capital as it readies beverage printer for market](https://techcrunch.com/2022/01/21/cana-technology-raises-glass-to-new-capital-as-it-readies-beverage-printer-for-market/)
+- [Raven Software testers at Activision Blizzard form the first union at a major US gaming company](https://techcrunch.com/2022/01/21/activision-blizzard-union-raven-software/)
+- [Netflix’s dismal results are more evidence that the pandemic trade is over](https://techcrunch.com/2022/01/21/netflixs-dismal-results-are-more-evidence-that-the-pandemic-trade-is-over/)
+- [How big is the sun?](https://www.space.com/17001-how-big-is-the-sun-size-of-the-sun.html)
+- [2022 could be a turning point in the study of UFOs](https://www.space.com/2022-turning-point-study-ufos-uap)
 - [Intel eyes Ohio for a pair of chip factories amid global shortage](https://techcrunch.com/2022/01/21/intel-eyes-ohio-for-a-pair-of-chip-factories-amid-global-shortage/)
 - [Researchers detect 1st merger between black holes with eccentric orbits](https://www.space.com/first-eccentric-black-hole-merger-detected)
-- [Francisco Partners scoops up remains of IBM’s Watson Health unit](https://techcrunch.com/2022/01/21/francisco-partners-scoops-up-remains-of-ibms-watson-health-unit/)
-- [Wordle’s Blizzard of transparency](https://techcrunch.com/2022/01/21/wordles-blizzard-of-transparency/)
-- [How far is Earth from the sun?](https://www.space.com/17081-how-far-is-earth-from-the-sun.html)
-- [Nourish + Bloom Market, first Black-owned, autonomous grocery, opens in Atlanta](https://techcrunch.com/2022/01/21/nourish-bloom-market-first-black-owned-autonomous-grocery-opens-in-atlanta/)
-- [Paris-based VC firm Partech unveils Chapter54 accelerator to help European startups cross into Africa](https://techcrunch.com/2022/01/21/paris-based-vc-firm-partech-unveils-chapter54-accelerator-to-help-european-startups-cross-into-africa/)
-- [Israel’s Entrée Capital raises $300M for Israel-focused fund, Adi Gozes becomes Partner](https://techcrunch.com/2022/01/21/israels-entree-capital-raises-300m-for-israel-focused-fund-adi-gozes-becomes-partner/)
-- [What is the speed of light?](https://www.space.com/15830-light-speed.html)
-- [How hot is the sun?](https://www.space.com/17137-how-hot-is-the-sun.html)
+- [Francisco Partners scoops up bulk of IBM’s Watson Health unit](https://techcrunch.com/2022/01/21/francisco-partners-scoops-up-remains-of-ibms-watson-health-unit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
