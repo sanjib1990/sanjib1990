@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Peloton CEO acknowledges corrective actions, denies ‘halting all production’ of bikes and treadmills](https://techcrunch.com/2022/01/20/peloton-ceo-acknowledges-corrective-actions-denies-halting-all-production-of-bikes-and-treadmills/)
 - [Netflix had its lowest year of subscriber growth since 2015](https://techcrunch.com/2022/01/20/netflix-q4-2021-results-subscriber-numbers/)
 - [5 areas where VCs can play an outsized role in addressing climate change](https://techcrunch.com/2022/01/20/5-areas-where-vcs-can-play-an-outsized-role-in-addressing-climate-change/)
 - [Daily Crunch: Following ‘significant reduction’ in demand, Peloton puts brakes on production](https://techcrunch.com/2022/01/20/daily-crunch-following-significant-reduction-in-demand-peloton-puts-brakes-on-production/)
@@ -104,7 +105,6 @@
 - [The Nearest Stars to Earth &lpar;Infographic&rpar;](https://www.space.com/18964-the-nearest-stars-to-earth-infographic.html)
 - [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
 - [Spotify still tops other music services, but its market share declined](https://techcrunch.com/2022/01/20/spotify-subscription-numbers-up-youtube-music-tidal/)
-- [An early bet on Solana and others has led to a new, $500M fund for Foundation Capital](https://techcrunch.com/2022/01/20/foundation-capital-tenth-fund/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
