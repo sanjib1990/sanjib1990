@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Paris-based VC firm Partech unveils Chapter54 accelerator to help European startups cross into Africa](https://techcrunch.com/2022/01/21/paris-based-vc-firm-partech-unveils-chapter54-accelerator-to-help-european-startups-cross-into-africa/)
+- [Israel’s Entrée Capital raises $300M for Israel-focused fund, Adi Gozes becomes Partner](https://techcrunch.com/2022/01/21/israels-entree-capital-raises-300m-for-israel-focused-fund-adi-gozes-becomes-partner/)
+- [What is the speed of light?](https://www.space.com/15830-light-speed.html)
+- [How hot is the sun?](https://www.space.com/17137-how-hot-is-the-sun.html)
 - [Europe’s top privacy regulator calls for ban on political microtargeting](https://techcrunch.com/2022/01/21/edps-calls-for-political-microtargeting-ban/)
 - [On This Day in Space! Jan. 21, 1960: &#39;Miss Sam&#39; the Rhesus Monkey Launched into Space](https://www.space.com/39251-on-this-day-in-space.html)
 - [Atlas V rocket launching 2 satellites for the US Space Force Friday: Watch it live](https://www.space.com/atlas-v-space-force-satellite-launch-january-2022)
 - [Shattered &#39;alphabet soup&#39; iceberg flushed a lot of fresh water into the ocean](https://www.space.com/shattered-iceberg-fresh-water-ocean)
 - [Do we live in a simulation? The problem with this mind-bending hypothesis.](https://www.space.com/universe-simulation-hypothesis-problems)
 - [Ghostly glow in alien skies: &#39;Zodiacal light&#39; possibly spotted on 3 exoplanets](https://www.space.com/zodiacal-light-dust-search-kepler-planets)
-- [Zuper secures $13M to take the sting out of home repairs](https://techcrunch.com/2022/01/21/zuper-secures-13m-to-take-the-sting-out-of-home-repairs/)
-- [Dublin’s Exergyn pulls in $35M Series A for solution which replaces GHG-causing refrigerants](https://techcrunch.com/2022/01/21/dublins-exergyn-pulls-in-35m-series-a-for-solution-which-replaces-ghg-causing-refrigerants/)
-- [Peloton CEO acknowledges corrective actions, denies ‘halting all production’ of bikes and treadmills](https://techcrunch.com/2022/01/20/peloton-ceo-acknowledges-corrective-actions-denies-halting-all-production-of-bikes-and-treadmills/)
-- [Netflix had its lowest year of subscriber growth since 2015](https://techcrunch.com/2022/01/20/netflix-q4-2021-results-subscriber-numbers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
