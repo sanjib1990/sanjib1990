@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Europe’s top privacy regulator calls for ban on political microtargeting](https://techcrunch.com/2022/01/21/edps-calls-for-political-microtargeting-ban/)
+- [On This Day in Space! Jan. 21, 1960: &#39;Miss Sam&#39; the Rhesus Monkey Launched into Space](https://www.space.com/39251-on-this-day-in-space.html)
+- [Atlas V rocket launching 2 satellites for the US Space Force Friday: Watch it live](https://www.space.com/atlas-v-space-force-satellite-launch-january-2022)
+- [Shattered &#39;alphabet soup&#39; iceberg flushed a lot of fresh water into the ocean](https://www.space.com/shattered-iceberg-fresh-water-ocean)
+- [Do we live in a simulation? The problem with this mind-bending hypothesis.](https://www.space.com/universe-simulation-hypothesis-problems)
+- [Ghostly glow in alien skies: &#39;Zodiacal light&#39; possibly spotted on 3 exoplanets](https://www.space.com/zodiacal-light-dust-search-kepler-planets)
 - [Zuper secures $13M to take the sting out of home repairs](https://techcrunch.com/2022/01/21/zuper-secures-13m-to-take-the-sting-out-of-home-repairs/)
 - [Dublin’s Exergyn pulls in $35M Series A for solution which replaces GHG-causing refrigerants](https://techcrunch.com/2022/01/21/dublins-exergyn-pulls-in-35m-series-a-for-solution-which-replaces-ghg-causing-refrigerants/)
 - [Peloton CEO acknowledges corrective actions, denies ‘halting all production’ of bikes and treadmills](https://techcrunch.com/2022/01/20/peloton-ceo-acknowledges-corrective-actions-denies-halting-all-production-of-bikes-and-treadmills/)
 - [Netflix had its lowest year of subscriber growth since 2015](https://techcrunch.com/2022/01/20/netflix-q4-2021-results-subscriber-numbers/)
-- [5 areas where VCs can play an outsized role in addressing climate change](https://techcrunch.com/2022/01/20/5-areas-where-vcs-can-play-an-outsized-role-in-addressing-climate-change/)
-- [Daily Crunch: Following ‘significant reduction’ in demand, Peloton puts brakes on production](https://techcrunch.com/2022/01/20/daily-crunch-following-significant-reduction-in-demand-peloton-puts-brakes-on-production/)
-- [The first big tech antitrust bill lumbers toward reality](https://techcrunch.com/2022/01/20/tech-antitrust-self-preferencing-bill-american-innovation-and-choice-online-act/)
-- [Ahead of a February event, Samsung teases Galaxy S/Note merger](https://techcrunch.com/2022/01/20/ahead-of-february-event-samsung-teases-galaxy-s-note-merger/)
-- [NASA&#39;s gamma-ray observatory is in safe mode after a possible wheel failure](https://www.space.com/nasa-swift-observatory-safe-mode-reaction-wheel)
-- [The Nearest Stars to Earth &lpar;Infographic&rpar;](https://www.space.com/18964-the-nearest-stars-to-earth-infographic.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
