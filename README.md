@@ -78,6 +78,7 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [K-d Trees - Computerphile](https://www.youtube.com/watch?v=BK5x7IUTIyU)
 - [How to Land a 100K/yr Tech Job - 10 Strategies](https://www.youtube.com/watch?v=Xg9ihH15Uto)
 - [Part 6: Finding the Nullspace: Solving Ax = 0 by Elimination](https://www.youtube.com/watch?v=JFIaRtKNP2E)
 - [i created a 24/7 livestream &lpar;to help you study&rpar;](https://www.youtube.com/watch?v=0scjy6Zxzwc)
@@ -87,7 +88,6 @@
 - [JavaScript in 100 Seconds](https://www.youtube.com/watch?v=DHjqpvDnNGE)
 - [S3:E4: When There Isn’t a Simple Answer with Prof. Dennis McLaughlin](https://www.youtube.com/watch?v=vCxqBgcLgNg)
 - [Is Redis the ONLY database you need? // Fullstack app from scratch with Next.js &amp; Redis](https://www.youtube.com/watch?v=DOIWQddRD5M)
-- [The Dark Side of Open Source // What really happened to Faker.js?](https://www.youtube.com/watch?v=R6S-b_k-ZKY)
 <!-- YOUTUBE:END -->
 
 ---
