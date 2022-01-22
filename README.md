@@ -95,6 +95,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google asks a judge to dismiss Texas antitrust lawsuit about its ad business](https://techcrunch.com/2022/01/21/google-asks-a-judge-to-dismiss-texas-antitrust-lawsuit-about-its-ad-business/)
+- [2022 crypto predictions from Prime Trust CFO Rodrigo Vicuna](https://techcrunch.com/2022/01/21/2022-crypto-predictions-from-prime-trust-cfo-rodrigo-vicuna/)
+- [Daily Crunch: IBM sells off Watson Health unit to private equity firm Francisco Partners](https://techcrunch.com/2022/01/21/daily-crunch-ibm-sells-off-watson-health-unit-to-private-equity-firm-francisco-partners/)
 - [Experts Roundup: lead magnets, e-commerce trends, software developer Q&amp;A](https://techcrunch.com/2022/01/21/experts-roundup-lead-magnets-e-commerce-trends-software-developer-qa/)
 - [Webb’s Journey to L2 Is Nearly Complete](https://blogs.nasa.gov/webb/2022/01/21/webbs-journey-to-l2-is-nearly-complete/)
 - [TechCrunch+ roundup: 2022 VC predictions, how to hook an angel, product advisory councils](https://techcrunch.com/2022/01/21/techcrunch-roundup-2022-vc-predictions-how-to-hook-an-angel-product-advisory-councils/)
@@ -102,9 +105,6 @@
 - [Red giant stars: Facts, definition &amp; the future of the sun](https://www.space.com/22471-red-giant-stars.html)
 - [Space Force satellite launch could create a luminous cloud in tonight&#39;s evening sky](https://www.space.com/atlas-v-rocket-launch-fuel-dump-visible)
 - [FCC proposal would curb ISP lock-ins at apartment complexes](https://techcrunch.com/2022/01/21/fcc-proposal-would-curb-isp-lock-ins-at-apartment-complexes/)
-- [Atlas V rocket launches 2 surveillance satellites for US Space Force](https://www.space.com/atlas-v-space-force-satellite-launch-january-2022)
-- [Hubble telescope spots a black hole fostering baby stars in a dwarf galaxy](https://www.space.com/black-hole-star-formation-hubble-telescope-image)
-- [How should non technical founders collaborate with software developers?](https://techcrunch.com/2022/01/21/how-should-non-technical-founders-collaborate-with-software-developers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
