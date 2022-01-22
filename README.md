@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Data wants to disrupt your deal flow &lpar;again&rpar;](https://techcrunch.com/2022/01/22/data-wants-to-disrupt-your-deal-flow-again-2/)
 - [Get in, nerds, we’re going to the metaverse](https://techcrunch.com/2022/01/22/get-in-nerds-were-going-to-the-metaverse/)
 - [Are embedded devices the next ransomware target?](https://techcrunch.com/2022/01/22/embedded-devices-ransomware/)
 - [SpaceX delays Dragon cargo ship departure from space station due to splashdown weather. How to watch it Sunday.](https://www.space.com/spacex-dragon-crs-24-space-station-undocking-cytoskeleton)
@@ -104,7 +105,6 @@
 - [Is algorithmic VC investment compatible with due diligence?](https://techcrunch.com/2022/01/22/algorithmic-investing-cant-entirely-eliminate-the-emotional-element-of-deal-making/)
 - [How satellites have revolutionized the study of volcanoes](https://www.space.com/how-satellites-revolutionized-study-of-volcanoes)
 - [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html)
-- [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
