@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Are embedded devices the next ransomware target?](https://techcrunch.com/2022/01/22/embedded-devices-ransomware/)
+- [SpaceX delays Dragon cargo ship departure from space station due to splashdown weather. How to watch it Sunday.](https://www.space.com/spacex-dragon-crs-24-space-station-undocking-cytoskeleton)
+- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
 - [6 cloud trends to watch in 2022](https://techcrunch.com/2022/01/22/6-cloud-trends-to-watch-in-2022/)
 - [On This Day in Space! Jan. 22, 2003: Pioneer 10 beams last signal to Earth](https://www.space.com/39251-on-this-day-in-space.html)
-- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
 - [Is algorithmic VC investment compatible with due diligence?](https://techcrunch.com/2022/01/22/algorithmic-investing-cant-entirely-eliminate-the-emotional-element-of-deal-making/)
 - [How satellites have revolutionized the study of volcanoes](https://www.space.com/how-satellites-revolutionized-study-of-volcanoes)
 - [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html)
 - [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html)
-- [A SpaceX Dragon cargo ship will depart space station today with a &#39;cytoskeleton&#39; on board. Here&#39;s how to watch.](https://www.space.com/spacex-dragon-crs-24-space-station-undocking-cytoskeleton)
 - [The mystery deepens: Ghostly neutrinos and fast radio bursts don&#39;t come from the same place](https://www.space.com/high-energy-neutrinos-fast-radio-bursts-no-connection)
-- [Paramount Plus unveils new &#39;Star Trek: Picard&#39; trailer, &#39;Discovery&#39; season 5, plus &#39;Strange New Worlds&#39; premiere date](https://www.space.com/star-trek-picard-discovery-2022-updates-paramount-plus)
 <!-- BLOG-POST-LIST:END -->
 
 ---
