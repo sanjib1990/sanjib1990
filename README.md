@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is algorithmic VC investment compatible with due diligence?](https://techcrunch.com/2022/01/22/algorithmic-investing-cant-entirely-eliminate-the-emotional-element-of-deal-making/)
+- [How satellites have revolutionized the study of volcanoes](https://www.space.com/how-satellites-revolutionized-study-of-volcanoes)
+- [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html)
+- [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html)
+- [A SpaceX Dragon cargo ship will depart space station today with a &#39;cytoskeleton&#39; on board. Here&#39;s how to watch.](https://www.space.com/spacex-dragon-crs-24-space-station-undocking-cytoskeleton)
+- [The mystery deepens: Ghostly neutrinos and fast radio bursts don&#39;t come from the same place](https://www.space.com/high-energy-neutrinos-fast-radio-bursts-no-connection)
+- [Paramount Plus unveils new &#39;Star Trek: Picard&#39; trailer, &#39;Discovery&#39; season 5, plus &#39;Strange New Worlds&#39; premiere date](https://www.space.com/star-trek-picard-discovery-2022-updates-paramount-plus)
 - [FarmRaise aims to become a financial services giant, starting with farm grants](https://techcrunch.com/2022/01/21/farmraise-aims-to-become-a-financial-services-giant-starting-with-farm-grants/)
 - [Google asks a judge to dismiss Texas antitrust lawsuit about its ad business](https://techcrunch.com/2022/01/21/google-asks-a-judge-to-dismiss-texas-antitrust-lawsuit-about-its-ad-business/)
 - [2022 crypto predictions from Prime Trust CFO Rodrigo Vicuna](https://techcrunch.com/2022/01/21/2022-crypto-predictions-from-prime-trust-cfo-rodrigo-vicuna/)
-- [Daily Crunch: IBM sells off Watson Health unit to private equity firm Francisco Partners](https://techcrunch.com/2022/01/21/daily-crunch-ibm-sells-off-watson-health-unit-to-private-equity-firm-francisco-partners/)
-- [Experts Roundup: lead magnets, e-commerce trends, software developer Q&amp;A](https://techcrunch.com/2022/01/21/experts-roundup-lead-magnets-e-commerce-trends-software-developer-qa/)
-- [Webb’s Journey to L2 Is Nearly Complete](https://blogs.nasa.gov/webb/2022/01/21/webbs-journey-to-l2-is-nearly-complete/)
-- [TechCrunch+ roundup: 2022 VC predictions, how to hook an angel, product advisory councils](https://techcrunch.com/2022/01/21/techcrunch-roundup-2022-vc-predictions-how-to-hook-an-angel-product-advisory-councils/)
-- [3 factors to consider when adding remote visual assistance software to your tech stack](https://techcrunch.com/2022/01/21/3-factors-to-consider-when-adding-remote-visual-assistance-software-to-your-tech-stack/)
-- [Red giant stars: Facts, definition &amp; the future of the sun](https://www.space.com/22471-red-giant-stars.html)
-- [Space Force satellite launch could create a luminous cloud in tonight&#39;s evening sky](https://www.space.com/atlas-v-rocket-launch-fuel-dump-visible)
 <!-- BLOG-POST-LIST:END -->
 
 ---
