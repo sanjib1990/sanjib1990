@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [FarmRaise aims to become a financial services giant, starting with farm grants](https://techcrunch.com/2022/01/21/farmraise-aims-to-become-a-financial-services-giant-starting-with-farm-grants/)
 - [Google asks a judge to dismiss Texas antitrust lawsuit about its ad business](https://techcrunch.com/2022/01/21/google-asks-a-judge-to-dismiss-texas-antitrust-lawsuit-about-its-ad-business/)
 - [2022 crypto predictions from Prime Trust CFO Rodrigo Vicuna](https://techcrunch.com/2022/01/21/2022-crypto-predictions-from-prime-trust-cfo-rodrigo-vicuna/)
 - [Daily Crunch: IBM sells off Watson Health unit to private equity firm Francisco Partners](https://techcrunch.com/2022/01/21/daily-crunch-ibm-sells-off-watson-health-unit-to-private-equity-firm-francisco-partners/)
@@ -104,7 +105,6 @@
 - [3 factors to consider when adding remote visual assistance software to your tech stack](https://techcrunch.com/2022/01/21/3-factors-to-consider-when-adding-remote-visual-assistance-software-to-your-tech-stack/)
 - [Red giant stars: Facts, definition &amp; the future of the sun](https://www.space.com/22471-red-giant-stars.html)
 - [Space Force satellite launch could create a luminous cloud in tonight&#39;s evening sky](https://www.space.com/atlas-v-rocket-launch-fuel-dump-visible)
-- [FCC proposal would curb ISP lock-ins at apartment complexes](https://techcrunch.com/2022/01/21/fcc-proposal-would-curb-isp-lock-ins-at-apartment-complexes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
