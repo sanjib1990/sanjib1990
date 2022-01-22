@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [On This Day in Space! Jan. 22, 2003: Pioneer 10 beams last signal to Earth](https://www.space.com/39251-on-this-day-in-space.html)
+- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
 - [Is algorithmic VC investment compatible with due diligence?](https://techcrunch.com/2022/01/22/algorithmic-investing-cant-entirely-eliminate-the-emotional-element-of-deal-making/)
 - [How satellites have revolutionized the study of volcanoes](https://www.space.com/how-satellites-revolutionized-study-of-volcanoes)
 - [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html)
@@ -103,8 +105,6 @@
 - [The mystery deepens: Ghostly neutrinos and fast radio bursts don&#39;t come from the same place](https://www.space.com/high-energy-neutrinos-fast-radio-bursts-no-connection)
 - [Paramount Plus unveils new &#39;Star Trek: Picard&#39; trailer, &#39;Discovery&#39; season 5, plus &#39;Strange New Worlds&#39; premiere date](https://www.space.com/star-trek-picard-discovery-2022-updates-paramount-plus)
 - [FarmRaise aims to become a financial services giant, starting with farm grants](https://techcrunch.com/2022/01/21/farmraise-aims-to-become-a-financial-services-giant-starting-with-farm-grants/)
-- [Google asks a judge to dismiss Texas antitrust lawsuit about its ad business](https://techcrunch.com/2022/01/21/google-asks-a-judge-to-dismiss-texas-antitrust-lawsuit-about-its-ad-business/)
-- [2022 crypto predictions from Prime Trust CFO Rodrigo Vicuna](https://techcrunch.com/2022/01/21/2022-crypto-predictions-from-prime-trust-cfo-rodrigo-vicuna/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
