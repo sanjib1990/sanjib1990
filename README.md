@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Get in, nerds, we’re going to the metaverse](https://techcrunch.com/2022/01/22/get-in-nerds-were-going-to-the-metaverse/)
 - [Are embedded devices the next ransomware target?](https://techcrunch.com/2022/01/22/embedded-devices-ransomware/)
 - [SpaceX delays Dragon cargo ship departure from space station due to splashdown weather. How to watch it Sunday.](https://www.space.com/spacex-dragon-crs-24-space-station-undocking-cytoskeleton)
 - [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
@@ -104,7 +105,6 @@
 - [How satellites have revolutionized the study of volcanoes](https://www.space.com/how-satellites-revolutionized-study-of-volcanoes)
 - [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html)
 - [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html)
-- [The mystery deepens: Ghostly neutrinos and fast radio bursts don&#39;t come from the same place](https://www.space.com/high-energy-neutrinos-fast-radio-bursts-no-connection)
 <!-- BLOG-POST-LIST:END -->
 
 ---
