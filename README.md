@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX Dragon cargo ship undocks from space station for trip back to Earth](https://www.space.com/spacex-dragon-crs-24-undocks-from-space-station)
 - [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
 - [On This Day in Space! Jan. 23, 1942: NASA&#39;s Glenn Research Center is founded](https://www.space.com/39251-on-this-day-in-space.html)
 - [SpaceX Dragon cargo ship to depart space station today after weather delay. How to watch it live.](https://www.space.com/spacex-dragon-crs-24-space-station-undocking-cytoskeleton)
@@ -104,7 +105,6 @@
 - [Will we ever know the true nature of &#39;Oumuamua, the first interstellar visitor?](https://www.space.com/oumuamua-first-interstellar-visitor-true-nature-mystery)
 - [Earth inhales and exhales carbon in mesmerizing animation](https://www.space.com/carbon-sinks-globe-animation)
 - [Thomas Pesquet: 1st French astronaut to command the International Space Station](https://www.space.com/astronaut-thomas-pesquet-biography)
-- [This Week in Apps: Commission battles, Twitter NFTs and Epic’s appeal begins](https://techcrunch.com/2022/01/22/this-week-in-apps-commission-battles-twitter-nfts-and-epics-appeal-begins/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
