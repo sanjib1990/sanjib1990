@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [On This Day in Space! Jan. 24, 1986: Voyager 2 flies past Uranus](https://www.space.com/39251-on-this-day-in-space.html)
+- [The James Webb Space Telescope glides to its deep-space parking spot today!](https://www.space.com/james-webb-arrival-lagrange-parking-webcast)
+- [A killer comet strikes Manhattan in new prank video for Netflix&#39;s &#39;Don&#39;t Look Up&#39;](https://www.space.com/michael-krivicka-netflix-dont-look-up)
+- [40 quintillion stellar-mass black holes are lurking in the universe, new study finds](https://www.space.com/how-many-black-holes-in-universe)
 - [Doctor Who villains, ranked](https://www.space.com/doctor-who-villains-ranked-worst-to-best)
 - [AnyCubic Photon Mono X 6K review](https://www.space.com/anycubic-photon-mono-x-6k-review)
 - [Indian food delivery giant Swiggy raises $700 million at $10.7 billion valuation](https://techcrunch.com/2022/01/24/indian-food-delivery-giant-swiggy-raises-700-million-at-10-7-billion-valuation/)
 - [Ola Electric valued at $5 billion in new funding](https://techcrunch.com/2022/01/23/ola-electric-valued-at-5-billion-in-new-funding/)
 - [Paytm, Zomato, Nykaa and PolicyBazaar shares drop to record lows](https://techcrunch.com/2022/01/23/paytm-zomato-nykaa-and-policybazaar-shares-drop-to-record-lows/)
 - [SpaceX Dragon cargo ship undocks from space station for trip back to Earth](https://www.space.com/spacex-dragon-crs-24-undocks-from-space-station)
-- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
-- [On This Day in Space! Jan. 23, 1942: NASA&#39;s Glenn Research Center is founded](https://www.space.com/39251-on-this-day-in-space.html)
-- [SpaceX Dragon cargo ship to depart space station today after weather delay. How to watch it live.](https://www.space.com/spacex-dragon-crs-24-space-station-undocking-cytoskeleton)
-- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
