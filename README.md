@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Max Q: Sports in space?](https://techcrunch.com/2022/01/24/max-q-sports-in-space/)
+- [Hundreds of Y Combinator alumni join crypto collective to back Web3 startups](https://techcrunch.com/2022/01/24/hundreds-of-y-combinator-alumni-join-crypto-collective-to-back-web3-startups/)
+- [AI2 shows off an open, Q&amp;A-focused rival to GPT3](https://techcrunch.com/2022/01/24/ai2-shows-off-an-open-qa-focused-rival-to-gpt3/)
+- [Apple extends an in-app purchase exemption for some developers impacted by pandemic](https://techcrunch.com/2022/01/24/apple-extends-an-in-app-purchase-exemption-for-some-developers-impacted-by-pandemic/)
+- [Mentor Collective shakes off its boots to scale student support services](https://techcrunch.com/2022/01/24/mentor-collective-series-a/)
+- [Not Dead Yet: IBM’s revenue growth accelerates in Q4](https://techcrunch.com/2022/01/24/not-dead-yet-ibms-revenue-growth-accelerates-in-q4/)
+- [SpaceX Dragon splashes down off Florida coast with nearly 5,000 pounds of science on board](https://www.space.com/spacex-dragon-crs24-splashdown)
 - [3 ways investors can assess the strength of an NFT opportunity](https://techcrunch.com/2022/01/24/3-ways-investors-can-assess-the-strength-of-an-nft-opportunity/)
-- [Google has a Wordle easter egg and it’s cute, okay](https://techcrunch.com/2022/01/24/google-wordle-doodle-easter-egg/)
+- [Google has a Wordle Easter egg and it’s cute, okay](https://techcrunch.com/2022/01/24/google-wordle-doodle-easter-egg/)
 - [Google gets hit with a new lawsuit over ‘deceptive’ location tracking](https://techcrunch.com/2022/01/24/google-lawsuit-location-dc-privacy/)
-- [NASA celebrates private sector deployments of space-born tech in its latest Spinoff](https://techcrunch.com/2022/01/24/nasa-celebrates-private-sector-deployments-of-space-born-tech-in-its-latest-spinoff/)
-- [James Webb Space Telescope arrives at new home in space](https://www.space.com/james-webb-arrives-destination-l2)
-- [Best Buy&#39;s flash sale has great deals on these Star Wars Lego and The Mandalorian toys](https://www.space.com/best-buy-star-wars-flash-sale)
-- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
-- [Mark Cuban on his online pharmacy: ‘Our KPI is how much we can reduce the stress of our patients’](https://techcrunch.com/2022/01/24/mark-cuban-cost-plus-pharmacy-lower-prices-reduce-stress/)
-- [Recipe app Pestle helps you organize, plan, and cook hands-free or with friends on FaceTime](https://techcrunch.com/2022/01/24/recipe-app-pestle-helps-you-organize-plan-and-cook-hands-free-or-with-friends-on-facetime/)
-- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
