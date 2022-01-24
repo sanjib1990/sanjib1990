@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NBCUniversal is partnering with TikTok for the Winter Olympics](https://techcrunch.com/2022/01/24/nbcuniversal-is-partnering-with-tiktok-for-the-winter-olympics/)
+- [Google’s Privacy Sandbox targeted by fresh EU antitrust complaint](https://techcrunch.com/2022/01/24/germany-publishers-privacy-sandbox-complaint/)
+- [Flaws in third-party software exposed dozens of Teslas to remote access](https://techcrunch.com/2022/01/24/teslamate-bug-teslas-exposed-remote/)
+- [Panasonic’s higher-capacity Tesla battery could enter production in 2023](https://techcrunch.com/2022/01/24/panasonics-higher-capacity-tesla-battery-could-enter-production-in-2023/)
+- [Meta leaps into the supercomputer game with its AI Research SuperCluster](https://techcrunch.com/2022/01/24/meta-leaps-into-the-supercomputer-game-with-its-ai-research-supercluster/)
+- [How one founder set out to solve meetings once and for all](https://techcrunch.com/2022/01/24/how-one-founder-set-out-to-solve-meetings-once-and-for-all/)
+- [Black holes: Scientists think they&#39;ve spotted the mysterious birth of one](https://www.space.com/black-hole-birth-observations)
 - [Klarity lands $18M to read scores of documents so you don’t have to](https://techcrunch.com/2022/01/24/klarity-lands-18m-to-read-scores-of-documents-so-you-dont-have-to/)
 - [Investor calls for Peloton to fire CEO, consider selling company](https://techcrunch.com/2022/01/24/investor-calls-for-peloton-to-fire-ceo-consider-selling-company/)
-- [Tekever raises $23M for industrial drone technology optimized for maritime surveillance](https://techcrunch.com/2022/01/24/tekever-raises-23m-for-industrial-drone-technology-optimized-for-maritime-surveillance/)
-- [Soona, a virtual photo shoot platform for e-commerce, raises $35 million Series B](https://techcrunch.com/2022/01/24/soona-a-virtual-photo-shoot-platform-for-e-commerce-raises-35-million-series-b/)
-- [Will the latest selloff finally shake up how investors value startups?](https://techcrunch.com/2022/01/24/will-the-latest-selloff-finally-shake-up-how-investors-value-startups/)
-- [Anyplace raises $5.3M to provide a home &lpar;office&rpar; away from home](https://techcrunch.com/2022/01/24/anyplace-raises-5-3m-to-provide-a-home-office-away-from-home/)
-- [Pandemic prompts launch of new $75M US telemedicine fund from Swiftarc Ventures](https://techcrunch.com/2022/01/24/pandemic-prompts-launch-of-new-75m-us-telemedicine-fund-from-swiftarc-ventures/)
-- [Fathom raises $4.7M for its AI notetaker](https://techcrunch.com/2022/01/24/fathom-raises-3-7m-for-its-ai-notetaker/)
-- [Rethinking the longevity of cryptocurrency’s pay-for-processing model](https://techcrunch.com/2022/01/24/rethinking-the-longevity-of-cryptocurrencys-pay-for-processing-model/)
-- [Apple fined $5.6M after Dutch dating app antitrust order](https://techcrunch.com/2022/01/24/acm-apple-fine/)
+- [Polaris: How to find the North Star](https://www.space.com/15567-north-star-polaris.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
