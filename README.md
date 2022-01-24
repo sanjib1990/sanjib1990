@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [3 ways investors can assess the strength of an NFT opportunity](https://techcrunch.com/2022/01/24/3-ways-investors-can-assess-the-strength-of-an-nft-opportunity/)
+- [Google has a Wordle easter egg and it’s cute, okay](https://techcrunch.com/2022/01/24/google-wordle-doodle-easter-egg/)
+- [Google gets hit with a new lawsuit over ‘deceptive’ location tracking](https://techcrunch.com/2022/01/24/google-lawsuit-location-dc-privacy/)
 - [NASA celebrates private sector deployments of space-born tech in its latest Spinoff](https://techcrunch.com/2022/01/24/nasa-celebrates-private-sector-deployments-of-space-born-tech-in-its-latest-spinoff/)
+- [James Webb Space Telescope arrives at new home in space](https://www.space.com/james-webb-arrives-destination-l2)
+- [Best Buy&#39;s flash sale has great deals on these Star Wars Lego and The Mandalorian toys](https://www.space.com/best-buy-star-wars-flash-sale)
+- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
 - [Mark Cuban on his online pharmacy: ‘Our KPI is how much we can reduce the stress of our patients’](https://techcrunch.com/2022/01/24/mark-cuban-cost-plus-pharmacy-lower-prices-reduce-stress/)
 - [Recipe app Pestle helps you organize, plan, and cook hands-free or with friends on FaceTime](https://techcrunch.com/2022/01/24/recipe-app-pestle-helps-you-organize-plan-and-cook-hands-free-or-with-friends-on-facetime/)
-- [Orbital Insertion Burn a Success, Webb Arrives at L2](https://blogs.nasa.gov/webb/2022/01/24/orbital-insertion-burn-a-success-webb-arrives-at-l2/)
-- [Codenotary raises $12.5M Series B to secure software supply chains](https://techcrunch.com/2022/01/24/codenotary-raises-12-5m-series-b-to-secure-software-supply-chains/)
-- [A CISO’s playbook for responding to zero-day exploits](https://techcrunch.com/2022/01/24/a-cisos-playbook-for-responding-to-zero-day-exploits/)
-- [Deliverect raises $150M at a $1.4B+ valuation to streamline online and offline food orders](https://techcrunch.com/2022/01/24/deliverect-raises-150m-at-a-1-4b-valuation-to-streamline-online-and-offline-food-orders/)
-- [NBCUniversal is partnering with TikTok for the Winter Olympics](https://techcrunch.com/2022/01/24/nbcuniversal-is-partnering-with-tiktok-for-the-winter-olympics/)
-- [Google’s Privacy Sandbox targeted by fresh EU antitrust complaint](https://techcrunch.com/2022/01/24/germany-publishers-privacy-sandbox-complaint/)
-- [Flaws in third-party software exposed dozens of Teslas to remote access](https://techcrunch.com/2022/01/24/teslamate-bug-teslas-exposed-remote/)
+- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
