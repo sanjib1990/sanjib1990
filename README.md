@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [UK’s Online Safety Bill falls short on protecting speech and tackling harms, warns committee](https://techcrunch.com/2022/01/24/dcms-committee-report-on-online-safety-bill/)
+- [The Station: How ADAS is failing drivers, Luminar’s lidar and data deal, GM expands its hydrogen fuel cell plans](https://techcrunch.com/2022/01/24/the-station-how-adas-is-failing-drivers-luminars-lidar-and-data-deal-gm-expands-its-hydrogen-fuel-cell-plans/)
+- [a16z, Monashees lead new round into inventory discovery startup Inventa](https://techcrunch.com/2022/01/24/a16z-monashees-lead-new-round-into-inventory-discovery-startup-inventa/)
+- [AccuWeather acquires air pollution startup Plume Labs](https://techcrunch.com/2022/01/24/accuweather-acquires-air-pollution-startup-plume-labs/)
+- [Spectrum Labs raises $32M for AI-based content moderation that monitors billions of conversations daily for toxicity](https://techcrunch.com/2022/01/24/spectrum-labs-b/)
 - [On This Day in Space! Jan. 24, 1986: Voyager 2 flies past Uranus](https://www.space.com/39251-on-this-day-in-space.html)
 - [The James Webb Space Telescope glides to its deep-space parking spot today!](https://www.space.com/james-webb-arrival-lagrange-parking-webcast)
 - [A killer comet strikes Manhattan in new prank video for Netflix&#39;s &#39;Don&#39;t Look Up&#39;](https://www.space.com/michael-krivicka-netflix-dont-look-up)
 - [40 quintillion stellar-mass black holes are lurking in the universe, new study finds](https://www.space.com/how-many-black-holes-in-universe)
 - [Doctor Who villains, ranked](https://www.space.com/doctor-who-villains-ranked-worst-to-best)
-- [AnyCubic Photon Mono X 6K review](https://www.space.com/anycubic-photon-mono-x-6k-review)
-- [Indian food delivery giant Swiggy raises $700 million at $10.7 billion valuation](https://techcrunch.com/2022/01/24/indian-food-delivery-giant-swiggy-raises-700-million-at-10-7-billion-valuation/)
-- [Ola Electric valued at $5 billion in new funding](https://techcrunch.com/2022/01/23/ola-electric-valued-at-5-billion-in-new-funding/)
-- [Paytm, Zomato, Nykaa and PolicyBazaar shares drop to record lows](https://techcrunch.com/2022/01/23/paytm-zomato-nykaa-and-policybazaar-shares-drop-to-record-lows/)
-- [SpaceX Dragon cargo ship undocks from space station for trip back to Earth](https://www.space.com/spacex-dragon-crs-24-undocks-from-space-station)
 <!-- BLOG-POST-LIST:END -->
 
 ---
