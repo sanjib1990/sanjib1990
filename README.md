@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sayata adds $35M to Series A for business insurance](https://techcrunch.com/2022/01/24/sayata-business-insurance-marketplace/)
+- [Caribou grabs $3M to remove the ‘unexpected’ from healthcare cost planning](https://techcrunch.com/2022/01/24/caribou-grabs-3m-to-remove-the-unexpected-from-healthcare-cost-planning/)
+- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
+- [Watch Perseverance Mars rover spit out a stuck rock after choking on sample](https://www.space.com/perseverance-mars-rover-clears-stuck-sample)
 - [UK’s Online Safety Bill falls short on protecting speech and tackling harms, warns committee](https://techcrunch.com/2022/01/24/dcms-committee-report-on-online-safety-bill/)
 - [The Station: How ADAS is failing drivers, Luminar’s lidar and data deal, GM expands its hydrogen fuel cell plans](https://techcrunch.com/2022/01/24/the-station-how-adas-is-failing-drivers-luminars-lidar-and-data-deal-gm-expands-its-hydrogen-fuel-cell-plans/)
 - [a16z, Monashees lead new round into inventory discovery startup Inventa](https://techcrunch.com/2022/01/24/a16z-monashees-lead-new-round-into-inventory-discovery-startup-inventa/)
 - [AccuWeather acquires air pollution startup Plume Labs](https://techcrunch.com/2022/01/24/accuweather-acquires-air-pollution-startup-plume-labs/)
 - [Spectrum Labs raises $32M for AI-based content moderation that monitors billions of conversations daily for toxicity](https://techcrunch.com/2022/01/24/spectrum-labs-b/)
 - [On This Day in Space! Jan. 24, 1986: Voyager 2 flies past Uranus](https://www.space.com/39251-on-this-day-in-space.html)
-- [The James Webb Space Telescope glides to its deep-space parking spot today!](https://www.space.com/james-webb-arrival-lagrange-parking-webcast)
-- [A killer comet strikes Manhattan in new prank video for Netflix&#39;s &#39;Don&#39;t Look Up&#39;](https://www.space.com/michael-krivicka-netflix-dont-look-up)
-- [40 quintillion stellar-mass black holes are lurking in the universe, new study finds](https://www.space.com/how-many-black-holes-in-universe)
-- [Doctor Who villains, ranked](https://www.space.com/doctor-who-villains-ranked-worst-to-best)
 <!-- BLOG-POST-LIST:END -->
 
 ---
