@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Doctor Who villains, ranked](https://www.space.com/doctor-who-villains-ranked-worst-to-best)
 - [AnyCubic Photon Mono X 6K review](https://www.space.com/anycubic-photon-mono-x-6k-review)
 - [Indian food delivery giant Swiggy raises $700 million at $10.7 billion valuation](https://techcrunch.com/2022/01/24/indian-food-delivery-giant-swiggy-raises-700-million-at-10-7-billion-valuation/)
 - [Ola Electric valued at $5 billion in new funding](https://techcrunch.com/2022/01/23/ola-electric-valued-at-5-billion-in-new-funding/)
@@ -104,7 +105,6 @@
 - [On This Day in Space! Jan. 23, 1942: NASA&#39;s Glenn Research Center is founded](https://www.space.com/39251-on-this-day-in-space.html)
 - [SpaceX Dragon cargo ship to depart space station today after weather delay. How to watch it live.](https://www.space.com/spacex-dragon-crs-24-space-station-undocking-cytoskeleton)
 - [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
-- [Could the Earth ever stop spinning, and what would happen if it did?](https://www.space.com/what-if-earth-stopped-spinning)
 <!-- BLOG-POST-LIST:END -->
 
 ---
