@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A CISO’s playbook for responding to zero-day exploits](https://techcrunch.com/2022/01/24/a-cisos-playbook-for-responding-to-zero-day-exploits/)
+- [Deliverect raises $150M at a $1.4B+ valuation to streamline online and offline food orders](https://techcrunch.com/2022/01/24/deliverect-raises-150m-at-a-1-4b-valuation-to-streamline-online-and-offline-food-orders/)
 - [NBCUniversal is partnering with TikTok for the Winter Olympics](https://techcrunch.com/2022/01/24/nbcuniversal-is-partnering-with-tiktok-for-the-winter-olympics/)
 - [Google’s Privacy Sandbox targeted by fresh EU antitrust complaint](https://techcrunch.com/2022/01/24/germany-publishers-privacy-sandbox-complaint/)
 - [Flaws in third-party software exposed dozens of Teslas to remote access](https://techcrunch.com/2022/01/24/teslamate-bug-teslas-exposed-remote/)
@@ -103,8 +105,6 @@
 - [How one founder set out to solve meetings once and for all](https://techcrunch.com/2022/01/24/how-one-founder-set-out-to-solve-meetings-once-and-for-all/)
 - [Black holes: Scientists think they&#39;ve spotted the mysterious birth of one](https://www.space.com/black-hole-birth-observations)
 - [Klarity lands $18M to read scores of documents so you don’t have to](https://techcrunch.com/2022/01/24/klarity-lands-18m-to-read-scores-of-documents-so-you-dont-have-to/)
-- [Investor calls for Peloton to fire CEO, consider selling company](https://techcrunch.com/2022/01/24/investor-calls-for-peloton-to-fire-ceo-consider-selling-company/)
-- [Polaris: How to find the North Star](https://www.space.com/15567-north-star-polaris.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
