@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ola Electric valued at $5 billion in new funding](https://techcrunch.com/2022/01/23/ola-electric-valued-at-5-billion-in-new-funding/)
 - [Paytm, Zomato, Nykaa and PolicyBazaar shares drop to record lows](https://techcrunch.com/2022/01/23/paytm-zomato-nykaa-and-policybazaar-shares-drop-to-record-lows/)
 - [SpaceX Dragon cargo ship undocks from space station for trip back to Earth](https://www.space.com/spacex-dragon-crs-24-undocks-from-space-station)
 - [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
@@ -104,7 +105,6 @@
 - [Could the Earth ever stop spinning, and what would happen if it did?](https://www.space.com/what-if-earth-stopped-spinning)
 - [NASA upgrades its asteroid hazard software to use sunlight](https://www.space.com/nasa-hazard-assessment-software-sunlight)
 - [Will we ever know the true nature of &#39;Oumuamua, the first interstellar visitor?](https://www.space.com/oumuamua-first-interstellar-visitor-true-nature-mystery)
-- [Earth inhales and exhales carbon in mesmerizing animation](https://www.space.com/carbon-sinks-globe-animation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
