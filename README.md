@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Sayata adds $35M to Series A for business insurance](https://techcrunch.com/2022/01/24/sayata-business-insurance-marketplace/)
-- [Caribou grabs $3M to remove the ‘unexpected’ from healthcare cost planning](https://techcrunch.com/2022/01/24/caribou-grabs-3m-to-remove-the-unexpected-from-healthcare-cost-planning/)
-- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
-- [Watch Perseverance Mars rover spit out a stuck rock after choking on sample](https://www.space.com/perseverance-mars-rover-clears-stuck-sample)
-- [UK’s Online Safety Bill falls short on protecting speech and tackling harms, warns committee](https://techcrunch.com/2022/01/24/dcms-committee-report-on-online-safety-bill/)
-- [The Station: How ADAS is failing drivers, Luminar’s lidar and data deal, GM expands its hydrogen fuel cell plans](https://techcrunch.com/2022/01/24/the-station-how-adas-is-failing-drivers-luminars-lidar-and-data-deal-gm-expands-its-hydrogen-fuel-cell-plans/)
-- [a16z, Monashees lead new round into inventory discovery startup Inventa](https://techcrunch.com/2022/01/24/a16z-monashees-lead-new-round-into-inventory-discovery-startup-inventa/)
-- [AccuWeather acquires air pollution startup Plume Labs](https://techcrunch.com/2022/01/24/accuweather-acquires-air-pollution-startup-plume-labs/)
-- [Spectrum Labs raises $32M for AI-based content moderation that monitors billions of conversations daily for toxicity](https://techcrunch.com/2022/01/24/spectrum-labs-b/)
-- [On This Day in Space! Jan. 24, 1986: Voyager 2 flies past Uranus](https://www.space.com/39251-on-this-day-in-space.html)
+- [Soona, a virtual photo shoot platform for e-commerce, raises $35 million Series B](https://techcrunch.com/2022/01/24/soona-a-virtual-photo-shoot-platform-for-e-commerce-raises-35-million-series-b/)
+- [Will the latest selloff finally shake up how investors value startups?](https://techcrunch.com/2022/01/24/will-the-latest-selloff-finally-shake-up-how-investors-value-startups/)
+- [Anyplace raises $5.3M to provide a home &lpar;office&rpar; away from home](https://techcrunch.com/2022/01/24/anyplace-raises-5-3m-to-provide-a-home-office-away-from-home/)
+- [Pandemic prompts launch of new $75M US telemedicine fund from Swiftarc Ventures](https://techcrunch.com/2022/01/24/pandemic-prompts-launch-of-new-75m-us-telemedicine-fund-from-swiftarc-ventures/)
+- [Fathom raises $3.7M for its AI notetaker](https://techcrunch.com/2022/01/24/fathom-raises-3-7m-for-its-ai-notetaker/)
+- [Rethinking the longevity of cryptocurrency’s pay-for-processing model](https://techcrunch.com/2022/01/24/rethinking-the-longevity-of-cryptocurrencys-pay-for-processing-model/)
+- [Apple fined $5.6M after Dutch dating app antitrust order](https://techcrunch.com/2022/01/24/acm-apple-fine/)
+- [Is the party over?](https://techcrunch.com/2022/01/24/is-the-party-over/)
+- [Gorillas to acquire Frichti in latest instant grocery consolidation](https://techcrunch.com/2022/01/24/gorillas-to-acquire-frichti-in-latest-instant-grocery-consolidation/)
+- [Astronauts become archaeologists to document space station &#39;dig sites&#39;](https://www.space.com/astronaut-archaeology-space-station-square-project)
 <!-- BLOG-POST-LIST:END -->
 
 ---
