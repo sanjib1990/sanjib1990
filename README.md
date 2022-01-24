@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA celebrates private sector deployments of space-born tech in its latest Spinoff](https://techcrunch.com/2022/01/24/nasa-celebrates-private-sector-deployments-of-space-born-tech-in-its-latest-spinoff/)
+- [Mark Cuban on his online pharmacy: ‘Our KPI is how much we can reduce the stress of our patients’](https://techcrunch.com/2022/01/24/mark-cuban-cost-plus-pharmacy-lower-prices-reduce-stress/)
+- [Recipe app Pestle helps you organize, plan, and cook hands-free or with friends on FaceTime](https://techcrunch.com/2022/01/24/recipe-app-pestle-helps-you-organize-plan-and-cook-hands-free-or-with-friends-on-facetime/)
+- [Orbital Insertion Burn a Success, Webb Arrives at L2](https://blogs.nasa.gov/webb/2022/01/24/orbital-insertion-burn-a-success-webb-arrives-at-l2/)
+- [Codenotary raises $12.5M Series B to secure software supply chains](https://techcrunch.com/2022/01/24/codenotary-raises-12-5m-series-b-to-secure-software-supply-chains/)
 - [A CISO’s playbook for responding to zero-day exploits](https://techcrunch.com/2022/01/24/a-cisos-playbook-for-responding-to-zero-day-exploits/)
 - [Deliverect raises $150M at a $1.4B+ valuation to streamline online and offline food orders](https://techcrunch.com/2022/01/24/deliverect-raises-150m-at-a-1-4b-valuation-to-streamline-online-and-offline-food-orders/)
 - [NBCUniversal is partnering with TikTok for the Winter Olympics](https://techcrunch.com/2022/01/24/nbcuniversal-is-partnering-with-tiktok-for-the-winter-olympics/)
 - [Google’s Privacy Sandbox targeted by fresh EU antitrust complaint](https://techcrunch.com/2022/01/24/germany-publishers-privacy-sandbox-complaint/)
 - [Flaws in third-party software exposed dozens of Teslas to remote access](https://techcrunch.com/2022/01/24/teslamate-bug-teslas-exposed-remote/)
-- [Panasonic’s higher-capacity Tesla battery could enter production in 2023](https://techcrunch.com/2022/01/24/panasonics-higher-capacity-tesla-battery-could-enter-production-in-2023/)
-- [Meta leaps into the supercomputer game with its AI Research SuperCluster](https://techcrunch.com/2022/01/24/meta-leaps-into-the-supercomputer-game-with-its-ai-research-supercluster/)
-- [How one founder set out to solve meetings once and for all](https://techcrunch.com/2022/01/24/how-one-founder-set-out-to-solve-meetings-once-and-for-all/)
-- [Black holes: Scientists think they&#39;ve spotted the mysterious birth of one](https://www.space.com/black-hole-birth-observations)
-- [Klarity lands $18M to read scores of documents so you don’t have to](https://techcrunch.com/2022/01/24/klarity-lands-18m-to-read-scores-of-documents-so-you-dont-have-to/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
