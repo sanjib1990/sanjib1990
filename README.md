@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Klarity lands $18M to read scores of documents so you don’t have to](https://techcrunch.com/2022/01/24/klarity-lands-18m-to-read-scores-of-documents-so-you-dont-have-to/)
+- [Investor calls for Peloton to fire CEO, consider selling company](https://techcrunch.com/2022/01/24/investor-calls-for-peloton-to-fire-ceo-consider-selling-company/)
+- [Tekever raises $23M for industrial drone technology optimized for maritime surveillance](https://techcrunch.com/2022/01/24/tekever-raises-23m-for-industrial-drone-technology-optimized-for-maritime-surveillance/)
 - [Soona, a virtual photo shoot platform for e-commerce, raises $35 million Series B](https://techcrunch.com/2022/01/24/soona-a-virtual-photo-shoot-platform-for-e-commerce-raises-35-million-series-b/)
 - [Will the latest selloff finally shake up how investors value startups?](https://techcrunch.com/2022/01/24/will-the-latest-selloff-finally-shake-up-how-investors-value-startups/)
 - [Anyplace raises $5.3M to provide a home &lpar;office&rpar; away from home](https://techcrunch.com/2022/01/24/anyplace-raises-5-3m-to-provide-a-home-office-away-from-home/)
 - [Pandemic prompts launch of new $75M US telemedicine fund from Swiftarc Ventures](https://techcrunch.com/2022/01/24/pandemic-prompts-launch-of-new-75m-us-telemedicine-fund-from-swiftarc-ventures/)
-- [Fathom raises $3.7M for its AI notetaker](https://techcrunch.com/2022/01/24/fathom-raises-3-7m-for-its-ai-notetaker/)
+- [Fathom raises $4.7M for its AI notetaker](https://techcrunch.com/2022/01/24/fathom-raises-3-7m-for-its-ai-notetaker/)
 - [Rethinking the longevity of cryptocurrency’s pay-for-processing model](https://techcrunch.com/2022/01/24/rethinking-the-longevity-of-cryptocurrencys-pay-for-processing-model/)
 - [Apple fined $5.6M after Dutch dating app antitrust order](https://techcrunch.com/2022/01/24/acm-apple-fine/)
-- [Is the party over?](https://techcrunch.com/2022/01/24/is-the-party-over/)
-- [Gorillas to acquire Frichti in latest instant grocery consolidation](https://techcrunch.com/2022/01/24/gorillas-to-acquire-frichti-in-latest-instant-grocery-consolidation/)
-- [Astronauts become archaeologists to document space station &#39;dig sites&#39;](https://www.space.com/astronaut-archaeology-space-station-square-project)
 <!-- BLOG-POST-LIST:END -->
 
 ---
