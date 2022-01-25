@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sylvera takes $32M to build trust in carbon offsetting ratings](https://techcrunch.com/2022/01/25/sylvera-series-a/)
+- [GM to invest $7B into four factories as electric pickup truck battle heats up](https://techcrunch.com/2022/01/25/gm-to-invest-7b-into-four-factories-as-electric-pickup-truck-battle-heats-up/)
+- [Athletic Greens valued at $1.2B after bagging $115M to expand nutrition drink footprint](https://techcrunch.com/2022/01/25/athletic-greens-valued-at-1-2b-nutrition-drink/)
+- [eBay will now authenticate trading cards worth $750 or more](https://techcrunch.com/2022/01/25/ebay-will-now-authenticate-trading-cards-worth-750-or-more/)
+- [Best camera drones for aerial photography](https://www.space.com/best-camera-drones)
 - [Scratchpad nabs $33M Series B to continue building sales workspace](https://techcrunch.com/2022/01/25/scratchpad-nabs-33m-series-b-to-continue-building-sales-workspace/)
 - [YouTube is considering NFTs, CEO’s letter suggests](https://techcrunch.com/2022/01/25/youtube-is-considering-nfts-ceos-letter-suggests/)
 - [Refract raises $8.5M SGD funding, announces new game development division](https://techcrunch.com/2022/01/25/refract-raises-8-5m-sgd-funding-announces-new-game-development-division/)
 - [Okta’s 8th ‘Businesses at Work’ cloud usage report shows increasing heterogeneity](https://techcrunch.com/2022/01/25/oktas-8th-businesses-at-work-cloud-services-report-shows-increasing-heterogeneity/)
 - [Dyspatch helps companies create emails you’ll actually want to open](https://techcrunch.com/2022/01/25/dyspatch-helps-companies-create-emails-youll-actually-want-to-open/)
-- [Bokksu bags $22M Series A at a $100M valuation to deliver traditional Asian groceries to your home](https://techcrunch.com/2022/01/25/bokksu-scoops-up-22m-series-a-at-a-100m-valuation-to-deliver-traditional-asian-groceries-to-your-home/)
-- [Collaboration platform CloudApp raises $9.3M to enhance workplace productivity](https://techcrunch.com/2022/01/25/collaboration-platform-cloudapp-raises-9-3m-to-enhance-workplace-productivity/)
-- [Hunters raises $68M Series C for its security operations platform](https://techcrunch.com/2022/01/25/hunters-raises-68m-series-c-for-its-security-operations-platform/)
-- [Dremio raises $160M Series E for its data lake platform](https://techcrunch.com/2022/01/25/dremio-raises-160m-series-e-for-its-data-lake-platform/)
-- [Startup Battlefield Winner Cellino grabs $80M Series A](https://techcrunch.com/2022/01/25/startup-battlefield-winner-cellino-grabs-80m-series-a/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
