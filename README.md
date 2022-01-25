@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter’s experimental ‘Flock’ feature will let you share tweets with your closest friends](https://techcrunch.com/2022/01/25/twitters-experimental-flock-feature-will-let-you-share-tweets-with-your-closest-friends/)
+- [Tunisian enterprise AI startup InstaDeep raises $100M from Alpha, BioNTech, Google](https://techcrunch.com/2022/01/25/tunisian-enterprise-ai-startup-instadeep-raises-100m-from-alpha-biontech-google/)
+- [Wandelbots raises another $84 million to teach robots without code](https://techcrunch.com/2022/01/25/wandelbots-raises-another-84-million-to-teach-robots-without-code/)
+- [What Kai-Fu Lee-backed AInnovation tells us about China’s smart manufacturing](https://techcrunch.com/2022/01/25/ainnovation-kai-fu-lee-china-ai-industrial-automation/)
 - [Powerful, nearby black holes could help to explain universe&#39;s origins](https://www.space.com/nearby-black-holes-galaxies-epoch-of-reionization)
 - [Tonga undersea volcano eruption released up to 18 megatons of energy](https://www.space.com/tonga-volcano-eruption-18-megatons)
 - [Watch the James Webb Space Telescope&#39;s last days on Earth in this time-lapse video](https://www.space.com/james-webb-space-telescope-launch-path-time-lapse-video)
 - [Otta, a jobs platform with a database approach, raises $20M Series A from Tiger](https://techcrunch.com/2022/01/25/otta-a-jobs-platform-with-a-database-approach-raises-20m-series-a-from-tiger/)
 - [Starship Technologies picks up €50M from the EU’s investment arm to expand its fleet of autonomous delivery robots](https://techcrunch.com/2022/01/25/starship-technologies-picks-up-e50m-from-the-eus-investment-arm-to-expand-its-fleet-of-autonomous-delivery-robots/)
 - [Zoi, a preventive care startup co-founded by a former Macron advisor, raises $23 million seed round](https://techcrunch.com/2022/01/24/zoi-a-preventive-care-startup-co-founded-by-a-former-macron-advisor-raises-23-million-seed-round/)
-- [Intellect, the mental health startup focused on APAC, raises $10M Series A](https://techcrunch.com/2022/01/24/intellect-the-mental-health-startup-focused-on-apac-raises-10m-series-a/)
-- [Gillmor Gang: Culture Clubs](https://techcrunch.com/2022/01/24/gillmor-gang-culture-clubs/)
-- [For the first time in 4 years, profitability beats growth](https://techcrunch.com/2022/01/24/for-the-first-time-in-4-years-profitability-beats-growth/)
-- [Telemedicine startups can survive and thrive under renewed regulation](https://techcrunch.com/2022/01/24/telemedicine-startups-can-survive-and-thrive-under-renewed-regulation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
