@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Gillmor Gang: Culture Clubs](https://techcrunch.com/2022/01/24/gillmor-gang-culture-clubs/)
 - [For the first time in 4 years, profitability beats growth](https://techcrunch.com/2022/01/24/for-the-first-time-in-4-years-profitability-beats-growth/)
 - [Telemedicine startups can survive and thrive under renewed regulation](https://techcrunch.com/2022/01/24/telemedicine-startups-can-survive-and-thrive-under-renewed-regulation/)
 - [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
@@ -104,7 +105,6 @@
 - [Asia HR tech platform Darwinbox becomes unicorn with TCV-led $72 million funding](https://techcrunch.com/2022/01/24/darwinbox-hr-tech-gartner-tcv-unicorn/)
 - [Daily Crunch: Peloton CEO in hot seat, activist investor says ‘the ride for Mr. Foley is over’](https://techcrunch.com/2022/01/24/daily-crunch-peloton-ceo-in-hot-seat-activist-investor-says-the-ride-for-mr-foley-is-over/)
 - [Max Q: Sports in space?](https://techcrunch.com/2022/01/24/max-q-sports-in-space/)
-- [Hundreds of Y Combinator alumni join crypto collective to back web3 startups](https://techcrunch.com/2022/01/24/hundreds-of-y-combinator-alumni-join-crypto-collective-to-back-web3-startups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
