@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Starship Technologies picks up €50M from the EU’s investment arm to expand its fleet of autonomous delivery robots](https://techcrunch.com/2022/01/25/starship-technologies-picks-up-e50m-from-the-eus-investment-arm-to-expand-its-fleet-of-autonomous-delivery-robots/)
 - [Zoi, a preventive care startup co-founded by a former Macron advisor, raises $23 million seed round](https://techcrunch.com/2022/01/24/zoi-a-preventive-care-startup-co-founded-by-a-former-macron-advisor-raises-23-million-seed-round/)
 - [Intellect, the mental health startup focused on APAC, raises $10M Series A](https://techcrunch.com/2022/01/24/intellect-the-mental-health-startup-focused-on-apac-raises-10m-series-a/)
 - [Gillmor Gang: Culture Clubs](https://techcrunch.com/2022/01/24/gillmor-gang-culture-clubs/)
@@ -104,7 +105,6 @@
 - [For scientists, relief and joy abound as James Webb Space Telescope completes monthlong journey](https://www.space.com/james-webb-space-telescope-science-excitement-relief)
 - [Gas giants: Facts about the outer planets and exoplanets](https://www.space.com/30372-gas-giants.html)
 - [TikTok is working on avatars, live audio streams, new creator tools and more](https://techcrunch.com/2022/01/24/tiktok-is-working-on-avatars-live-audio-streams-new-creator-tools-and-more/)
-- [Asia HR tech platform Darwinbox becomes unicorn with TCV-led $72 million funding](https://techcrunch.com/2022/01/24/darwinbox-hr-tech-gartner-tcv-unicorn/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
