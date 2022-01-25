@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [On-chain raises are the future of startup funding](https://techcrunch.com/2022/01/25/on-chain-raises-are-the-future-of-startup-funding/)
 - [Best Nikon cameras for 2022](https://www.space.com/best-nikon-cameras)
 - [TechCrunch+ roundup: Zero-day exploits, breaking into Japan, algorithmic VC investing](https://techcrunch.com/2022/01/25/techcrunch-roundup-zero-day-exploits-breaking-into-japan-algorithmic-vc-investing/)
 - [Sec. Raimondo warns US is far from resolving chip shortage](https://techcrunch.com/2022/01/25/sec-raimondo-warns-us-is-far-from-resolving-chip-shortage/)
@@ -104,7 +105,6 @@
 - [This startup, newly funded by a16z, is producing NFTs as if they were widgets](https://techcrunch.com/2022/01/25/this-startup-newly-funded-by-a16z-is-producing-nfts-as-if-they-were-widgets/)
 - [In photos: Michael Strahan&#39;s launch into space on Blue Origin&#39;s New Shepard](https://www.space.com/michael-strahan-blue-origin-ns-19-photos)
 - [Be just like Boba Fett with Hasbro&#39;s wicked Star Wars Nerf EE-3 Carbine Blaster](https://www.space.com/hasbro-nerf-boba-fett-blaster)
-- [Mars&#39; suspected underground lake could be just volcanic rock, new study finds](https://www.space.com/mars-underground-lake-volcanic-rock)
 <!-- BLOG-POST-LIST:END -->
 
 ---
