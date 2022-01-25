@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Startup Battlefield Winner Cellino grabs $80M Series A](https://techcrunch.com/2022/01/25/startup-battlefield-winner-cellino-grabs-80m-series-a/)
+- [Google kills off FLoC, replaces it with Topics](https://techcrunch.com/2022/01/25/google-kills-off-floc-replaces-it-with-topics/)
+- [Archive aims to put clothing brands in control of their secondhand sales](https://techcrunch.com/2022/01/25/archive-aims-to-put-clothing-brands-in-control-of-their-secondhand-sales/)
+- [Columbus-based Tribevest bags $3M for its collaborative investing platform](https://techcrunch.com/2022/01/25/columbus-based-tribevest-bags-3m-for-its-collaborative-investing-platform/)
+- [Woflow structures merchant data so food ordering can be more accurate](https://techcrunch.com/2022/01/25/woflow-merchant-data-food-ordering/)
+- [Report suggests NVIDIA is preparing to walk away from its ARM acquisition](https://techcrunch.com/2022/01/25/report-suggests-nvidia-is-preparing-to-walk-away-from-its-arm-acquisition/)
+- [Sir Isaac Newton: Quotes, facts &amp; biography](https://www.space.com/15898-isaac-newton.html)
+- [Brazilian fintech Creditas lands $4.8B valuation and Fidelity as an investor after revenue jumps in 2021](https://techcrunch.com/2022/01/25/brazilian-fintech-creditas-gets-260m-at-a-4-8b-valuation-and-a-new-investor-in-fidelity-after-revenue-jumps-in-2021/)
 - [Twitter’s experimental ‘Flock’ feature will let you share tweets with your closest friends](https://techcrunch.com/2022/01/25/twitters-experimental-flock-feature-will-let-you-share-tweets-with-your-closest-friends/)
-- [Tunisian enterprise AI startup InstaDeep raises $100M from Alpha, BioNTech, Google](https://techcrunch.com/2022/01/25/tunisian-enterprise-ai-startup-instadeep-raises-100m-from-alpha-biontech-google/)
-- [Wandelbots raises another $84 million to teach robots without code](https://techcrunch.com/2022/01/25/wandelbots-raises-another-84-million-to-teach-robots-without-code/)
-- [What Kai-Fu Lee-backed AInnovation tells us about China’s smart manufacturing](https://techcrunch.com/2022/01/25/ainnovation-kai-fu-lee-china-ai-industrial-automation/)
-- [Powerful, nearby black holes could help to explain universe&#39;s origins](https://www.space.com/nearby-black-holes-galaxies-epoch-of-reionization)
-- [Tonga undersea volcano eruption released up to 18 megatons of energy](https://www.space.com/tonga-volcano-eruption-18-megatons)
-- [Watch the James Webb Space Telescope&#39;s last days on Earth in this time-lapse video](https://www.space.com/james-webb-space-telescope-launch-path-time-lapse-video)
-- [Otta, a jobs platform with a database approach, raises $20M Series A from Tiger](https://techcrunch.com/2022/01/25/otta-a-jobs-platform-with-a-database-approach-raises-20m-series-a-from-tiger/)
-- [Starship Technologies picks up €50M from the EU’s investment arm to expand its fleet of autonomous delivery robots](https://techcrunch.com/2022/01/25/starship-technologies-picks-up-e50m-from-the-eus-investment-arm-to-expand-its-fleet-of-autonomous-delivery-robots/)
-- [Zoi, a preventive care startup co-founded by a former Macron advisor, raises $23 million seed round](https://techcrunch.com/2022/01/24/zoi-a-preventive-care-startup-co-founded-by-a-former-macron-advisor-raises-23-million-seed-round/)
+- [The Terminator streaming guide: Where to watch the The Terminator online](https://www.space.com/the-terminator-streaming-guide-where-to-watch-online)
 <!-- BLOG-POST-LIST:END -->
 
 ---
