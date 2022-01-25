@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [IBM shrugs off investor EPS concerns, sells growth story](https://techcrunch.com/2022/01/25/ibm-shrugs-off-investor-eps-concerns-sells-growth-story/)
+- [YouTube’s Head of Gaming leaves to join blockchain group Polygon](https://techcrunch.com/2022/01/25/youtubes-head-of-gaming-leaves-to-join-blockchain-group-polygon/)
+- [This startup, newly funded by a16z, is producing NFTs as if they were widgets](https://techcrunch.com/2022/01/25/this-startup-newly-funded-by-a16z-is-producing-nfts-as-if-they-were-widgets/)
+- [DJI Ryze Tello review](https://www.space.com/DJI-ryze-tello-review)
 - [Ford starts production of its new all-electric E-Transit cargo van](https://techcrunch.com/2022/01/25/ford-starts-production-of-its-new-all-electric-e-transit-cargo-van/)
 - [Crypto pioneer David Chaum says web3 is ‘computing with a conscience’](https://techcrunch.com/2022/01/25/crypto-pioneer-david-chaum-says-web3-is-computing-with-a-conscience/)
 - [A look into Boba Fett’s ship and gadgets](https://www.space.com/boba-fetts-ship-and-gadgets)
 - [Neil Young plans to pull his music from Spotify over Joe Rogan Covid misinformation](https://techcrunch.com/2022/01/25/neil-young-joe-rogan-spotify/)
 - [Can you see stars in light polluted skies?](https://www.space.com/stars-in-light-polluted-skies)
 - [Here’s all 20 companies from Alchemist Accelerator’s latest Demo Day](https://techcrunch.com/2022/01/25/alchemist-accelerator-xxix-companies/)
-- [Substack is testing a video feature, which will roll out widely in ‘the coming weeks’](https://techcrunch.com/2022/01/25/substack-is-testing-a-video-feature-which-will-roll-out-widely-in-the-coming-weeks/)
-- [Eleven Ventures closes new fund at $67.6M to invest in South-Eastern European startups](https://techcrunch.com/2022/01/25/eleven-ventures-closes-new-fund-at-67-6m-to-invest-in-south-eastern-european-startups/)
-- [Venture capitalists fell in love with Europe last year](https://techcrunch.com/2022/01/25/venture-capitalists-fell-in-love-with-europe-last-year/)
-- [Unit CEO Itai Damti and Flourish’s Emmalyn Shaw to explain fundraising strategies on TechCrunch Live](https://techcrunch.com/2022/01/25/unit-ceo-itai-damti-and-flourishs-emmalyn-shaw-to-explain-fundraising-strategies-on-techcrunch-live/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
