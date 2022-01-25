@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Best Nikon cameras for 2022](https://www.space.com/best-nikon-cameras)
+- [TechCrunch+ roundup: Zero-day exploits, breaking into Japan, algorithmic VC investing](https://techcrunch.com/2022/01/25/techcrunch-roundup-zero-day-exploits-breaking-into-japan-algorithmic-vc-investing/)
+- [Sec. Raimondo warns US is far from resolving chip shortage](https://techcrunch.com/2022/01/25/sec-raimondo-warns-us-is-far-from-resolving-chip-shortage/)
+- [Crypto startup Syndicate looks to demystify DAOs with ‘Web3 Investment Clubs’ product](https://techcrunch.com/2022/01/25/crypto-startup-syndicate-looks-to-demystify-daos-with-web3-investment-club-product/)
 - [IBM shrugs off investor EPS concerns, sells growth story](https://techcrunch.com/2022/01/25/ibm-shrugs-off-investor-eps-concerns-sells-growth-story/)
 - [YouTube’s Head of Gaming leaves to join blockchain group Polygon](https://techcrunch.com/2022/01/25/youtubes-head-of-gaming-leaves-to-join-blockchain-group-polygon/)
 - [This startup, newly funded by a16z, is producing NFTs as if they were widgets](https://techcrunch.com/2022/01/25/this-startup-newly-funded-by-a16z-is-producing-nfts-as-if-they-were-widgets/)
-- [DJI Ryze Tello review](https://www.space.com/DJI-ryze-tello-review)
-- [Ford starts production of its new all-electric E-Transit cargo van](https://techcrunch.com/2022/01/25/ford-starts-production-of-its-new-all-electric-e-transit-cargo-van/)
-- [Crypto pioneer David Chaum says web3 is ‘computing with a conscience’](https://techcrunch.com/2022/01/25/crypto-pioneer-david-chaum-says-web3-is-computing-with-a-conscience/)
-- [A look into Boba Fett’s ship and gadgets](https://www.space.com/boba-fetts-ship-and-gadgets)
-- [Neil Young plans to pull his music from Spotify over Joe Rogan Covid misinformation](https://techcrunch.com/2022/01/25/neil-young-joe-rogan-spotify/)
-- [Can you see stars in light polluted skies?](https://www.space.com/stars-in-light-polluted-skies)
-- [Here’s all 20 companies from Alchemist Accelerator’s latest Demo Day](https://techcrunch.com/2022/01/25/alchemist-accelerator-xxix-companies/)
+- [In photos: Michael Strahan&#39;s launch into space on Blue Origin&#39;s New Shepard](https://www.space.com/michael-strahan-blue-origin-ns-19-photos)
+- [Be just like Boba Fett with Hasbro&#39;s wicked Star Wars Nerf EE-3 Carbine Blaster](https://www.space.com/hasbro-nerf-boba-fett-blaster)
+- [Mars&#39; suspected underground lake could be just volcanic rock, new study finds](https://www.space.com/mars-underground-lake-volcanic-rock)
 <!-- BLOG-POST-LIST:END -->
 
 ---
