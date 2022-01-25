@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Refract raises $8.5M SGD funding, announces new game development division](https://techcrunch.com/2022/01/25/refract-raises-8-5m-sgd-funding-announces-new-game-development-division/)
+- [Okta’s 8th ‘Businesses at Work’ cloud usage report shows increasing heterogeneity](https://techcrunch.com/2022/01/25/oktas-8th-businesses-at-work-cloud-services-report-shows-increasing-heterogeneity/)
+- [Dyspatch helps companies create emails you’ll actually want to open](https://techcrunch.com/2022/01/25/dyspatch-helps-companies-create-emails-youll-actually-want-to-open/)
+- [Bokksu bags $22M Series A at a $100M valuation to deliver traditional Asian groceries to your home](https://techcrunch.com/2022/01/25/bokksu-scoops-up-22m-series-a-at-a-100m-valuation-to-deliver-traditional-asian-groceries-to-your-home/)
+- [Collaboration platform CloudApp raises $9.3M to enhance workplace productivity](https://techcrunch.com/2022/01/25/collaboration-platform-cloudapp-raises-9-3m-to-enhance-workplace-productivity/)
+- [Hunters raises $68M Series C for its security operations platform](https://techcrunch.com/2022/01/25/hunters-raises-68m-series-c-for-its-security-operations-platform/)
+- [Dremio raises $160M Series E for its data lake platform](https://techcrunch.com/2022/01/25/dremio-raises-160m-series-e-for-its-data-lake-platform/)
 - [Startup Battlefield Winner Cellino grabs $80M Series A](https://techcrunch.com/2022/01/25/startup-battlefield-winner-cellino-grabs-80m-series-a/)
 - [Google kills off FLoC, replaces it with Topics](https://techcrunch.com/2022/01/25/google-kills-off-floc-replaces-it-with-topics/)
 - [Archive aims to put clothing brands in control of their secondhand sales](https://techcrunch.com/2022/01/25/archive-aims-to-put-clothing-brands-in-control-of-their-secondhand-sales/)
-- [Columbus-based Tribevest bags $3M for its collaborative investing platform](https://techcrunch.com/2022/01/25/columbus-based-tribevest-bags-3m-for-its-collaborative-investing-platform/)
-- [Woflow structures merchant data so food ordering can be more accurate](https://techcrunch.com/2022/01/25/woflow-merchant-data-food-ordering/)
-- [Report suggests NVIDIA is preparing to walk away from its ARM acquisition](https://techcrunch.com/2022/01/25/report-suggests-nvidia-is-preparing-to-walk-away-from-its-arm-acquisition/)
-- [Sir Isaac Newton: Quotes, facts &amp; biography](https://www.space.com/15898-isaac-newton.html)
-- [Brazilian fintech Creditas lands $4.8B valuation and Fidelity as an investor after revenue jumps in 2021](https://techcrunch.com/2022/01/25/brazilian-fintech-creditas-gets-260m-at-a-4-8b-valuation-and-a-new-investor-in-fidelity-after-revenue-jumps-in-2021/)
-- [Twitter’s experimental ‘Flock’ feature will let you share tweets with your closest friends](https://techcrunch.com/2022/01/25/twitters-experimental-flock-feature-will-let-you-share-tweets-with-your-closest-friends/)
-- [The Terminator streaming guide: Where to watch the The Terminator online](https://www.space.com/the-terminator-streaming-guide-where-to-watch-online)
 <!-- BLOG-POST-LIST:END -->
 
 ---
