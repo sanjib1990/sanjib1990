@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Virtual Telescope Project captures a view of the James Webb Space Telescope at its final destination](https://www.space.com/virtual-telescope-project-jwst-l2-image)
+- [If the $40B Nvidia-Arm deal is dead, what does it mean to big tech M&amp;A?](https://techcrunch.com/2022/01/25/if-the-40b-nvidia-arm-deal-is-dead-what-does-it-mean-to-big-tech-ma/)
+- [Apple’s updated Personal Safety User Guide addresses the AirTag stalking problem](https://techcrunch.com/2022/01/25/apples-updated-personal-safety-user-guide-addresses-the-airtag-stalking-problem/)
+- [Amazing photos of Comet Leonard in the night sky](https://www.space.com/comet-leonard-photos)
 - [On-chain raises are the future of startup funding](https://techcrunch.com/2022/01/25/on-chain-raises-are-the-future-of-startup-funding/)
 - [Best Nikon cameras for 2022](https://www.space.com/best-nikon-cameras)
 - [TechCrunch+ roundup: Zero-day exploits, breaking into Japan, algorithmic VC investing](https://techcrunch.com/2022/01/25/techcrunch-roundup-zero-day-exploits-breaking-into-japan-algorithmic-vc-investing/)
 - [Sec. Raimondo warns US is far from resolving chip shortage](https://techcrunch.com/2022/01/25/sec-raimondo-warns-us-is-far-from-resolving-chip-shortage/)
 - [Crypto startup Syndicate looks to demystify DAOs with ‘Web3 Investment Clubs’ product](https://techcrunch.com/2022/01/25/crypto-startup-syndicate-looks-to-demystify-daos-with-web3-investment-club-product/)
 - [IBM shrugs off investor EPS concerns, sells growth story](https://techcrunch.com/2022/01/25/ibm-shrugs-off-investor-eps-concerns-sells-growth-story/)
-- [YouTube’s Head of Gaming leaves to join blockchain group Polygon](https://techcrunch.com/2022/01/25/youtubes-head-of-gaming-leaves-to-join-blockchain-group-polygon/)
-- [This startup, newly funded by a16z, is producing NFTs as if they were widgets](https://techcrunch.com/2022/01/25/this-startup-newly-funded-by-a16z-is-producing-nfts-as-if-they-were-widgets/)
-- [In photos: Michael Strahan&#39;s launch into space on Blue Origin&#39;s New Shepard](https://www.space.com/michael-strahan-blue-origin-ns-19-photos)
-- [Be just like Boba Fett with Hasbro&#39;s wicked Star Wars Nerf EE-3 Carbine Blaster](https://www.space.com/hasbro-nerf-boba-fett-blaster)
 <!-- BLOG-POST-LIST:END -->
 
 ---
