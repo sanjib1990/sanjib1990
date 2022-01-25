@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ford starts production of its new all-electric E-Transit cargo van](https://techcrunch.com/2022/01/25/ford-starts-production-of-its-new-all-electric-e-transit-cargo-van/)
+- [Crypto pioneer David Chaum says web3 is ‘computing with a conscience’](https://techcrunch.com/2022/01/25/crypto-pioneer-david-chaum-says-web3-is-computing-with-a-conscience/)
+- [A look into Boba Fett’s ship and gadgets](https://www.space.com/boba-fetts-ship-and-gadgets)
+- [Neil Young plans to pull his music from Spotify over Joe Rogan Covid misinformation](https://techcrunch.com/2022/01/25/neil-young-joe-rogan-spotify/)
+- [Can you see stars in light polluted skies?](https://www.space.com/stars-in-light-polluted-skies)
+- [Here’s all 20 companies from Alchemist Accelerator’s latest Demo Day](https://techcrunch.com/2022/01/25/alchemist-accelerator-xxix-companies/)
 - [Substack is testing a video feature, which will roll out widely in ‘the coming weeks’](https://techcrunch.com/2022/01/25/substack-is-testing-a-video-feature-which-will-roll-out-widely-in-the-coming-weeks/)
 - [Eleven Ventures closes new fund at $67.6M to invest in South-Eastern European startups](https://techcrunch.com/2022/01/25/eleven-ventures-closes-new-fund-at-67-6m-to-invest-in-south-eastern-european-startups/)
 - [Venture capitalists fell in love with Europe last year](https://techcrunch.com/2022/01/25/venture-capitalists-fell-in-love-with-europe-last-year/)
 - [Unit CEO Itai Damti and Flourish’s Emmalyn Shaw to explain fundraising strategies on TechCrunch Live](https://techcrunch.com/2022/01/25/unit-ceo-itai-damti-and-flourishs-emmalyn-shaw-to-explain-fundraising-strategies-on-techcrunch-live/)
-- [Electric Sheep raises $21.5M to make off-the-shelf lawnmowers autonomous](https://techcrunch.com/2022/01/25/electric-sheep-raises-21-5m-to-make-off-the-shelf-lawnmowers-autonomous/)
-- [Kencko takes in new capital to shake up how we consume our fruits, vegetables](https://techcrunch.com/2022/01/25/kencko-takes-in-new-capital-to-shake-up-how-we-consume-our-fruits-vegetables/)
-- [FTC sues to block Lockheed Martin’s $4.4B deal to buy Aerojet Rocketdyne](https://techcrunch.com/2022/01/25/ftc-sues-to-block-lockheed-martins-4-4b-deal-to-buy-aerojet-rocketdyne/)
-- [Sylvera takes $32M to build trust in carbon offsetting ratings](https://techcrunch.com/2022/01/25/sylvera-series-a/)
-- [GM to invest $7B into four factories as electric pickup truck battle heats up](https://techcrunch.com/2022/01/25/gm-to-invest-7b-into-four-factories-as-electric-pickup-truck-battle-heats-up/)
-- [Athletic Greens valued at $1.2B after bagging $115M to expand nutrition drink footprint](https://techcrunch.com/2022/01/25/athletic-greens-valued-at-1-2b-nutrition-drink/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
