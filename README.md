@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Powerful, nearby black holes could help to explain universe&#39;s origins](https://www.space.com/nearby-black-holes-galaxies-epoch-of-reionization)
+- [Tonga undersea volcano eruption released up to 18 megatons of energy](https://www.space.com/tonga-volcano-eruption-18-megatons)
+- [Watch the James Webb Space Telescope&#39;s last days on Earth in this time-lapse video](https://www.space.com/james-webb-space-telescope-launch-path-time-lapse-video)
+- [Otta, a jobs platform with a database approach, raises $20M Series A from Tiger](https://techcrunch.com/2022/01/25/otta-a-jobs-platform-with-a-database-approach-raises-20m-series-a-from-tiger/)
 - [Starship Technologies picks up €50M from the EU’s investment arm to expand its fleet of autonomous delivery robots](https://techcrunch.com/2022/01/25/starship-technologies-picks-up-e50m-from-the-eus-investment-arm-to-expand-its-fleet-of-autonomous-delivery-robots/)
 - [Zoi, a preventive care startup co-founded by a former Macron advisor, raises $23 million seed round](https://techcrunch.com/2022/01/24/zoi-a-preventive-care-startup-co-founded-by-a-former-macron-advisor-raises-23-million-seed-round/)
 - [Intellect, the mental health startup focused on APAC, raises $10M Series A](https://techcrunch.com/2022/01/24/intellect-the-mental-health-startup-focused-on-apac-raises-10m-series-a/)
 - [Gillmor Gang: Culture Clubs](https://techcrunch.com/2022/01/24/gillmor-gang-culture-clubs/)
 - [For the first time in 4 years, profitability beats growth](https://techcrunch.com/2022/01/24/for-the-first-time-in-4-years-profitability-beats-growth/)
 - [Telemedicine startups can survive and thrive under renewed regulation](https://techcrunch.com/2022/01/24/telemedicine-startups-can-survive-and-thrive-under-renewed-regulation/)
-- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
-- [For scientists, relief and joy abound as James Webb Space Telescope completes monthlong journey](https://www.space.com/james-webb-space-telescope-science-excitement-relief)
-- [Gas giants: Facts about the outer planets and exoplanets](https://www.space.com/30372-gas-giants.html)
-- [TikTok is working on avatars, live audio streams, new creator tools and more](https://techcrunch.com/2022/01/24/tiktok-is-working-on-avatars-live-audio-streams-new-creator-tools-and-more/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
