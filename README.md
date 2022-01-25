@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Zoi, a preventive care startup co-founded by a former Macron advisor, raises $23 million seed round](https://techcrunch.com/2022/01/24/zoi-a-preventive-care-startup-co-founded-by-a-former-macron-advisor-raises-23-million-seed-round/)
 - [Intellect, the mental health startup focused on APAC, raises $10M Series A](https://techcrunch.com/2022/01/24/intellect-the-mental-health-startup-focused-on-apac-raises-10m-series-a/)
 - [Gillmor Gang: Culture Clubs](https://techcrunch.com/2022/01/24/gillmor-gang-culture-clubs/)
 - [For the first time in 4 years, profitability beats growth](https://techcrunch.com/2022/01/24/for-the-first-time-in-4-years-profitability-beats-growth/)
@@ -104,7 +105,6 @@
 - [Gas giants: Facts about the outer planets and exoplanets](https://www.space.com/30372-gas-giants.html)
 - [TikTok is working on avatars, live audio streams, new creator tools and more](https://techcrunch.com/2022/01/24/tiktok-is-working-on-avatars-live-audio-streams-new-creator-tools-and-more/)
 - [Asia HR tech platform Darwinbox becomes unicorn with TCV-led $72 million funding](https://techcrunch.com/2022/01/24/darwinbox-hr-tech-gartner-tcv-unicorn/)
-- [Daily Crunch: Peloton CEO in hot seat, activist investor says ‘the ride for Mr. Foley is over’](https://techcrunch.com/2022/01/24/daily-crunch-peloton-ceo-in-hot-seat-activist-investor-says-the-ride-for-mr-foley-is-over/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
