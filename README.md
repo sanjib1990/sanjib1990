@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [For the first time in 4 years, profitability beats growth](https://techcrunch.com/2022/01/24/for-the-first-time-in-4-years-profitability-beats-growth/)
+- [Telemedicine startups can survive and thrive under renewed regulation](https://techcrunch.com/2022/01/24/telemedicine-startups-can-survive-and-thrive-under-renewed-regulation/)
+- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
+- [For scientists, relief and joy abound as James Webb Space Telescope completes monthlong journey](https://www.space.com/james-webb-space-telescope-science-excitement-relief)
+- [Gas giants: Facts about the outer planets and exoplanets](https://www.space.com/30372-gas-giants.html)
+- [TikTok is working on avatars, live audio streams, new creator tools and more](https://techcrunch.com/2022/01/24/tiktok-is-working-on-avatars-live-audio-streams-new-creator-tools-and-more/)
+- [Asia HR tech platform Darwinbox becomes unicorn with TCV-led $72 million funding](https://techcrunch.com/2022/01/24/darwinbox-hr-tech-gartner-tcv-unicorn/)
+- [Daily Crunch: Peloton CEO in hot seat, activist investor says ‘the ride for Mr. Foley is over’](https://techcrunch.com/2022/01/24/daily-crunch-peloton-ceo-in-hot-seat-activist-investor-says-the-ride-for-mr-foley-is-over/)
 - [Max Q: Sports in space?](https://techcrunch.com/2022/01/24/max-q-sports-in-space/)
-- [Hundreds of Y Combinator alumni join crypto collective to back Web3 startups](https://techcrunch.com/2022/01/24/hundreds-of-y-combinator-alumni-join-crypto-collective-to-back-web3-startups/)
-- [AI2 shows off an open, Q&amp;A-focused rival to GPT3](https://techcrunch.com/2022/01/24/ai2-shows-off-an-open-qa-focused-rival-to-gpt3/)
-- [Apple extends an in-app purchase exemption for some developers impacted by pandemic](https://techcrunch.com/2022/01/24/apple-extends-an-in-app-purchase-exemption-for-some-developers-impacted-by-pandemic/)
-- [Mentor Collective shakes off its boots to scale student support services](https://techcrunch.com/2022/01/24/mentor-collective-series-a/)
-- [Not Dead Yet: IBM’s revenue growth accelerates in Q4](https://techcrunch.com/2022/01/24/not-dead-yet-ibms-revenue-growth-accelerates-in-q4/)
-- [SpaceX Dragon splashes down off Florida coast with nearly 5,000 pounds of science on board](https://www.space.com/spacex-dragon-crs24-splashdown)
-- [3 ways investors can assess the strength of an NFT opportunity](https://techcrunch.com/2022/01/24/3-ways-investors-can-assess-the-strength-of-an-nft-opportunity/)
-- [Google has a Wordle Easter egg and it’s cute, okay](https://techcrunch.com/2022/01/24/google-wordle-doodle-easter-egg/)
-- [Google gets hit with a new lawsuit over ‘deceptive’ location tracking](https://techcrunch.com/2022/01/24/google-lawsuit-location-dc-privacy/)
+- [Hundreds of Y Combinator alumni join crypto collective to back web3 startups](https://techcrunch.com/2022/01/24/hundreds-of-y-combinator-alumni-join-crypto-collective-to-back-web3-startups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
