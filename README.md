@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Intellect, the mental health startup focused on APAC, raises $10M Series A](https://techcrunch.com/2022/01/24/intellect-the-mental-health-startup-focused-on-apac-raises-10m-series-a/)
 - [Gillmor Gang: Culture Clubs](https://techcrunch.com/2022/01/24/gillmor-gang-culture-clubs/)
 - [For the first time in 4 years, profitability beats growth](https://techcrunch.com/2022/01/24/for-the-first-time-in-4-years-profitability-beats-growth/)
 - [Telemedicine startups can survive and thrive under renewed regulation](https://techcrunch.com/2022/01/24/telemedicine-startups-can-survive-and-thrive-under-renewed-regulation/)
@@ -104,7 +105,6 @@
 - [TikTok is working on avatars, live audio streams, new creator tools and more](https://techcrunch.com/2022/01/24/tiktok-is-working-on-avatars-live-audio-streams-new-creator-tools-and-more/)
 - [Asia HR tech platform Darwinbox becomes unicorn with TCV-led $72 million funding](https://techcrunch.com/2022/01/24/darwinbox-hr-tech-gartner-tcv-unicorn/)
 - [Daily Crunch: Peloton CEO in hot seat, activist investor says ‘the ride for Mr. Foley is over’](https://techcrunch.com/2022/01/24/daily-crunch-peloton-ceo-in-hot-seat-activist-investor-says-the-ride-for-mr-foley-is-over/)
-- [Max Q: Sports in space?](https://techcrunch.com/2022/01/24/max-q-sports-in-space/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
