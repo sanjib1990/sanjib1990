@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scratchpad nabs $33M Series B to continue building sales workspace](https://techcrunch.com/2022/01/25/scratchpad-nabs-33m-series-b-to-continue-building-sales-workspace/)
+- [YouTube is considering NFTs, CEO’s letter suggests](https://techcrunch.com/2022/01/25/youtube-is-considering-nfts-ceos-letter-suggests/)
 - [Refract raises $8.5M SGD funding, announces new game development division](https://techcrunch.com/2022/01/25/refract-raises-8-5m-sgd-funding-announces-new-game-development-division/)
 - [Okta’s 8th ‘Businesses at Work’ cloud usage report shows increasing heterogeneity](https://techcrunch.com/2022/01/25/oktas-8th-businesses-at-work-cloud-services-report-shows-increasing-heterogeneity/)
 - [Dyspatch helps companies create emails you’ll actually want to open](https://techcrunch.com/2022/01/25/dyspatch-helps-companies-create-emails-youll-actually-want-to-open/)
@@ -103,8 +105,6 @@
 - [Hunters raises $68M Series C for its security operations platform](https://techcrunch.com/2022/01/25/hunters-raises-68m-series-c-for-its-security-operations-platform/)
 - [Dremio raises $160M Series E for its data lake platform](https://techcrunch.com/2022/01/25/dremio-raises-160m-series-e-for-its-data-lake-platform/)
 - [Startup Battlefield Winner Cellino grabs $80M Series A](https://techcrunch.com/2022/01/25/startup-battlefield-winner-cellino-grabs-80m-series-a/)
-- [Google kills off FLoC, replaces it with Topics](https://techcrunch.com/2022/01/25/google-kills-off-floc-replaces-it-with-topics/)
-- [Archive aims to put clothing brands in control of their secondhand sales](https://techcrunch.com/2022/01/25/archive-aims-to-put-clothing-brands-in-control-of-their-secondhand-sales/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
