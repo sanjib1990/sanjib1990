@@ -78,7 +78,7 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [I bought stocks with JavaScript &amp; GPT-3 // Algo Trading Tutorial for Dummies](https://www.youtube.com/watch?v=BrcugNqRwUs)
+- [How to buy Stocks with JavaScript // Algo Trading Tutorial for Dummies](https://www.youtube.com/watch?v=BrcugNqRwUs)
 - [K-d Trees - Computerphile](https://www.youtube.com/watch?v=BK5x7IUTIyU)
 - [How to Land a 100K/yr Tech Job - 10 Strategies](https://www.youtube.com/watch?v=Xg9ihH15Uto)
 - [Part 6: Finding the Nullspace: Solving Ax = 0 by Elimination](https://www.youtube.com/watch?v=JFIaRtKNP2E)
