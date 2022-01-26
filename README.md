@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pimloc grabs $7.5M to pitch more businesses on AI-for-privacy video tools](https://techcrunch.com/2022/01/26/pimoc-seed-expansion/)
 - [Epsilon3 lines up $2.8M seed round to modernize space and launch operations](https://techcrunch.com/2022/01/26/epsilon3-lines-up-2-8m-seed-round-to-modernize-space-and-launch-operations/)
 - [Firebolt, a data warehouse startup, raises $100M at a $1.4B valuation for faster, cheaper analytics on large data sets](https://techcrunch.com/2022/01/26/firebolt-a-data-warehouse-startup-raises-100m-at-a-1-4b-valuation-for-faster-cheaper-analytics-on-large-data-sets/)
+- [Could a spacecraft &#39;catch up&#39; to interstellar visitor &#39;Oumuamua in just 26 years?](https://www.space.com/oumuamua-space-rock-interstellar-asteroid-comet-spacecraft)
 - [More tech drama, please](https://techcrunch.com/2022/01/26/more-tech-drama-please/)
 - [Perseverance rover does the &#39;twist&#39; on Mars to shake loose stuck rocks](https://www.space.com/mars-perseverance-rover-shakes-loose-stuck-rocks)
 - [Activision Blizzard won’t voluntarily recognize the historic Raven Software QA union](https://techcrunch.com/2022/01/26/activision-blizzard-wont-voluntarily-recognize-the-historic-raven-software-qa-union/)
 - [Solar eclipse guide 2022: When, where &amp; how to see them](https://www.space.com/33784-solar-eclipse-guide.html)
 - [Marvel movies you probably haven’t seen](https://www.space.com/marvel-movies-you-probably-havent-seen)
 - [Astra test-fires rocket ahead of 1st Florida launch &lpar;video&rpar;](https://www.space.com/astra-test-fires-rocket-florida-launch-video)
-- [Byteboard nabs $5M seed to change the way engineers get hired](https://techcrunch.com/2022/01/26/byteboard-nabs-5m-seed-to-change-the-way-engineers-get-hired/)
-- [Founders Fund backs Vest, a startup out to give Latin Americans a bridge to investing in the US stock market](https://techcrunch.com/2022/01/26/founders-fund-backs-vest-a-startup-out-to-give-latin-americans-a-way-to-invest-in-the-u-s-stock-market/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
