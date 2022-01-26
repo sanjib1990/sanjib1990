@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Epsilon3 lines up $2.8M seed round to modernize space and launch operations](https://techcrunch.com/2022/01/26/epsilon3-lines-up-2-8m-seed-round-to-modernize-space-and-launch-operations/)
+- [Firebolt, a data warehouse startup, raises $100M at a $1.4B valuation for faster, cheaper analytics on large data sets](https://techcrunch.com/2022/01/26/firebolt-a-data-warehouse-startup-raises-100m-at-a-1-4b-valuation-for-faster-cheaper-analytics-on-large-data-sets/)
+- [More tech drama, please](https://techcrunch.com/2022/01/26/more-tech-drama-please/)
+- [Perseverance rover does the &#39;twist&#39; on Mars to shake loose stuck rocks](https://www.space.com/mars-perseverance-rover-shakes-loose-stuck-rocks)
 - [Activision Blizzard won’t voluntarily recognize the historic Raven Software QA union](https://techcrunch.com/2022/01/26/activision-blizzard-wont-voluntarily-recognize-the-historic-raven-software-qa-union/)
+- [Solar eclipse guide 2022: When, where &amp; how to see them](https://www.space.com/33784-solar-eclipse-guide.html)
+- [Marvel movies you probably haven’t seen](https://www.space.com/marvel-movies-you-probably-havent-seen)
+- [Astra test-fires rocket ahead of 1st Florida launch &lpar;video&rpar;](https://www.space.com/astra-test-fires-rocket-florida-launch-video)
 - [Byteboard nabs $5M seed to change the way engineers get hired](https://techcrunch.com/2022/01/26/byteboard-nabs-5m-seed-to-change-the-way-engineers-get-hired/)
 - [Founders Fund backs Vest, a startup out to give Latin Americans a bridge to investing in the US stock market](https://techcrunch.com/2022/01/26/founders-fund-backs-vest-a-startup-out-to-give-latin-americans-a-way-to-invest-in-the-u-s-stock-market/)
-- [3 views: How should founders prepare for a decline in startup valuations and investor interest?](https://techcrunch.com/2022/01/26/3-views-how-should-founders-prepare-for-a-decline-in-startup-valuations-and-investor-interest/)
-- [Snap upgrades its AR Shopping features with real-time pricing, more product details](https://techcrunch.com/2022/01/26/snap-upgrades-its-ar-shopping-features-with-real-time-pricing-more-product-details/)
-- [Kia’s EV6 pricing will start at $42,115 when it goes on sale in the coming weeks](https://techcrunch.com/2022/01/26/kias-ev6-pricing-will-start-at-42115-when-it-goes-on-sale-in-the-coming-weeks/)
-- [Ahead of planned IPO, Knightscope’s CEO discusses opportunity and controversy](https://techcrunch.com/2022/01/26/ahead-of-planned-ipo-knightscopes-ceo-discusses-opportunity-and-controversy-around-the-surveillance/)
-- [Former astronaut Mae Jemison drops by &#39;Sesame Street&#39; on Thursday &lpar;exclusive sneak peek video&rpar;](https://www.space.com/astronaut-mae-jemison-sesame-street-video)
-- [Is today’s market sad or sane?](https://techcrunch.com/2022/01/26/is-todays-market-sad-or-sane/)
-- [Alta closes $12.4M seed round led by Makers Fund and Andreessen Horowitz](https://techcrunch.com/2022/01/26/alta-closes-12-4m-seed-round-led-by-makers-fund-and-andreessen-horowitz/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
