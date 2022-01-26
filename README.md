@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [FTC fines online shop $4M for hiding reviews below 4 stars](https://techcrunch.com/2022/01/25/ftc-fines-online-shop-4m-for-hiding-reviews-below-4-stars/)
+- [Daily Crunch: Google dumps FloC plan, proposes new Topics API for ad targeting](https://techcrunch.com/2022/01/25/daily-crunch-google-dumps-floc-plan-proposes-new-topics-api-for-ad-targeting/)
 - [Hard cash and soft skills: How to successfully manage an acquisition](https://techcrunch.com/2022/01/25/hard-cash-and-soft-skills-how-to-successfully-manage-an-acquisition/)
 - [Maybe creator funds are bad](https://techcrunch.com/2022/01/25/maybe-creator-funds-are-bad/)
 - [NASA&#39;s Artemis 1 lunar mission finishes countdown test](https://www.space.com/nasa-artemis-1-countdown-test)
@@ -103,8 +105,6 @@
 - [Apple’s updated Personal Safety User Guide addresses the AirTag stalking problem](https://techcrunch.com/2022/01/25/apples-updated-personal-safety-user-guide-addresses-the-airtag-stalking-problem/)
 - [Amazing photos of Comet Leonard in the night sky](https://www.space.com/comet-leonard-photos)
 - [On-chain raises are the future of startup funding](https://techcrunch.com/2022/01/25/on-chain-raises-are-the-future-of-startup-funding/)
-- [Best Nikon cameras for 2022](https://www.space.com/best-nikon-cameras)
-- [TechCrunch+ roundup: Zero-day exploits, breaking into Japan, algorithmic VC investing](https://techcrunch.com/2022/01/25/techcrunch-roundup-zero-day-exploits-breaking-into-japan-algorithmic-vc-investing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
