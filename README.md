@@ -78,6 +78,7 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Prisma in 100 Seconds](https://www.youtube.com/watch?v=rLRIB6AF2Dg)
 - [S3:E5: The Human Element in Machine Learning w Catherine D’Ignazio, Jacob Andreas &amp; Harini Suresh](https://www.youtube.com/watch?v=MbzbbvTlL1Y)
 - [How to buy Stocks with JavaScript // Algo Trading Tutorial for Dummies](https://www.youtube.com/watch?v=BrcugNqRwUs)
 - [K-d Trees - Computerphile](https://www.youtube.com/watch?v=BK5x7IUTIyU)
@@ -87,7 +88,6 @@
 - [Build a WEB3 app to mint unlimited NFTs… But should you?](https://www.youtube.com/watch?v=meTpMP0J5E8)
 - [What is DevOps? REALLY understand it | DevOps vs SRE](https://www.youtube.com/watch?v=0yWAtQ6wYNM)
 - [create the ULTIMATE hacking lab in 5min!! &lpar;Docker Containers STREAMING Kali Linux to your browser&rpar;](https://www.youtube.com/watch?v=U7e-mcJdZok)
-- [JavaScript in 100 Seconds](https://www.youtube.com/watch?v=DHjqpvDnNGE)
 <!-- YOUTUBE:END -->
 
 ---
