@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Boom will build a supersonic jet factory in North Carolina](https://techcrunch.com/2022/01/26/boom-will-build-a-supersonic-jet-factory-in-north-carolina/)
+- [Reddit tests allowing users to set any NFT as their profile picture, similar to Twitter](https://techcrunch.com/2022/01/26/reddit-tests-allowing-users-to-set-any-nft-as-their-profile-picture-similar-to-twitter/)
+- [Apple releases iOS 15.3 with fix for ‘actively exploited’ iPhone flaw](https://techcrunch.com/2022/01/26/apple-ios-actively-exploited/)
+- [Glossier just laid off one-third of its corporate employees, mostly in tech](https://techcrunch.com/2022/01/26/glossier-just-laid-off-one-third-of-its-corporate-employees-mostly-in-tech/)
+- [Valve’s Steam Deck will go on sale February 25](https://techcrunch.com/2022/01/26/valves-steam-deck-will-go-on-sale-february-25/)
+- [Crime tracking app Citizen acquires Harbor, a disaster prep app](https://techcrunch.com/2022/01/26/crime-tracking-app-citizen-acquires-harbor-a-disaster-prep-app/)
 - [Saturn&#39;s &#39;Death Star&#39; moon could have a secret underground ocean](https://www.space.com/saturn-death-star-moon-hidden-ocean)
 - [Pimloc grabs $7.5M to pitch more businesses on AI-for-privacy video tools](https://techcrunch.com/2022/01/26/pimoc-seed-expansion/)
 - [Epsilon3 lines up $2.8M seed round to modernize space and launch operations](https://techcrunch.com/2022/01/26/epsilon3-lines-up-2-8m-seed-round-to-modernize-space-and-launch-operations/)
 - [Firebolt, a data warehouse startup, raises $100M at a $1.4B valuation for faster, cheaper analytics on large data sets](https://techcrunch.com/2022/01/26/firebolt-a-data-warehouse-startup-raises-100m-at-a-1-4b-valuation-for-faster-cheaper-analytics-on-large-data-sets/)
-- [Could a spacecraft &#39;catch up&#39; to interstellar visitor &#39;Oumuamua in just 26 years?](https://www.space.com/oumuamua-space-rock-interstellar-asteroid-comet-spacecraft)
-- [More tech drama, please](https://techcrunch.com/2022/01/26/more-tech-drama-please/)
-- [Perseverance rover does the &#39;twist&#39; on Mars to shake loose stuck rocks](https://www.space.com/mars-perseverance-rover-shakes-loose-stuck-rocks)
-- [Activision Blizzard won’t voluntarily recognize the historic Raven Software QA union](https://techcrunch.com/2022/01/26/activision-blizzard-wont-voluntarily-recognize-the-historic-raven-software-qa-union/)
-- [Solar eclipse guide 2022: When, where &amp; how to see them](https://www.space.com/33784-solar-eclipse-guide.html)
-- [Marvel movies you probably haven’t seen](https://www.space.com/marvel-movies-you-probably-havent-seen)
 <!-- BLOG-POST-LIST:END -->
 
 ---
