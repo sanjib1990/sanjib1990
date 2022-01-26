@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ahead of planned IPO, Knightscope’s CEO discusses opportunity and controversy](https://techcrunch.com/2022/01/26/ahead-of-planned-ipo-knightscopes-ceo-discusses-opportunity-and-controversy-around-the-surveillance/)
+- [Former astronaut Mae Jemison drops by &#39;Sesame Street&#39; on Thursday &lpar;exclusive sneak peek video&rpar;](https://www.space.com/astronaut-mae-jemison-sesame-street-video)
+- [Is today’s market sad or sane?](https://techcrunch.com/2022/01/26/is-todays-market-sad-or-sane/)
+- [Alta closes $12.4M seed round led by Makers Fund and Andreessen Horowitz](https://techcrunch.com/2022/01/26/alta-closes-12-4m-seed-round-led-by-makers-fund-and-andreessen-horowitz/)
+- [Boston Dynamics’ warehouse robot gets a $15M gig working for DHL](https://techcrunch.com/2022/01/26/boston-dynamics-warehouse-robot-gets-a-15m-gig-working-for-dhl/)
+- [Polly snags $37M in Menlo-led Series B to automate workflows for mortgage lenders](https://techcrunch.com/2022/01/26/polly-snags-37m-in-menlo-led-series-b-to-automate-workflows-for-mortgage-lenders/)
+- [Tinder updates its approach to handling reports of serious abuse and harassment](https://techcrunch.com/2022/01/26/tinder-updates-its-approach-to-handling-reports-of-serious-abuse-and-harassment/)
+- [Saturn: Facts about the ringed planet](https://www.space.com/48-saturn-the-solar-systems-major-ring-bearer.html)
 - [&#39;Resident Alien&#39; returns to Syfy with Season 2 premiere tonight!](https://www.space.com/resident-alien-season-2-premiere-syfy)
 - [Vecna gets $65M to replace forklifts with robots](https://techcrunch.com/2022/01/26/vecna-gets-65m-to-replace-forklifts-with-robots/)
-- [Main sequence stars: definition &amp; life cycle](https://www.space.com/22437-main-sequence-star.html)
-- [CaptivateIQ raises $100M at a $1.25B valuation to help companies design customized sales commission plans](https://techcrunch.com/2022/01/26/captivateiq-raises-100m-at-a-1-25b-valuation/)
-- [Atrium grabs fresh capital to help sales teams meet their quota](https://techcrunch.com/2022/01/26/atrium-grabs-fresh-capital-to-help-sales-teams-meet-their-quota/)
-- [“We are going to create the best environment for startups in Europe”](https://techcrunch.com/2022/01/26/spain-startup-law-interview-francisco-polo/)
-- [On This Day in Space! Jan. 26, 1978: International Ultraviolet Explorer launches into space](https://www.space.com/39251-on-this-day-in-space.html)
-- [Eta Carinae&#39;s epic supernova explosion comes to life in new visualization](https://www.space.com/eta-carinae-epic-explosion)
-- [NASA&#39;s Artemis 1 moon mission explained in photos](https://www.space.com/nasa-artemis-1-moon-mission-explained)
-- [Clean energy firm Husk signs UN energy compact as it begins solar mini-grid expansion in Nigeria, rest of Africa](https://techcrunch.com/2022/01/26/clean-energy-firm-husk-signs-un-energy-compact-as-it-begins-solar-mini-grid-expansion-in-nigeria-rest-of-africa/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
