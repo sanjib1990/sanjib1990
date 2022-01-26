@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Baidu’s electric car brand Jidu closes $400M Series A round](https://techcrunch.com/2022/01/26/baidus-electric-carmaker-jidu-series-a/)
 - [Resilience raises $45 million for its cancer care startup](https://techcrunch.com/2022/01/26/resilience-raises-45-million-for-its-cancer-care-startup/)
 - [PQShield raises $20M for its quantum-ready, future-proof cryptographic security solutions](https://techcrunch.com/2022/01/25/pqshield-raises-20m-for-its-quantum-ready-future-proof-cryptographic-security-solutions/)
 - [Ghana’s OZÉ gets $3M to scale its digital recordkeeping and embedded finance products](https://techcrunch.com/2022/01/25/ghanas-oze-gets-3m-to-scale-its-digital-recordkeeping-and-embedded-finance-products/)
@@ -104,7 +105,6 @@
 - [FTC fines online shop $4M for hiding reviews below 4 stars](https://techcrunch.com/2022/01/25/ftc-fines-online-shop-4m-for-hiding-reviews-below-4-stars/)
 - [Daily Crunch: Google dumps FloC plan, proposes new Topics API for ad targeting](https://techcrunch.com/2022/01/25/daily-crunch-google-dumps-floc-plan-proposes-new-topics-api-for-ad-targeting/)
 - [Hard cash and soft skills: How to successfully manage an acquisition](https://techcrunch.com/2022/01/25/hard-cash-and-soft-skills-how-to-successfully-manage-an-acquisition/)
-- [Maybe creator funds are bad](https://techcrunch.com/2022/01/25/maybe-creator-funds-are-bad/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
