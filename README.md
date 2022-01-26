@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Clean energy firm Husk signs UN energy compact as it begins solar mini-grid expansion in Nigeria, rest of Africa](https://techcrunch.com/2022/01/26/clean-energy-firm-husk-signs-un-energy-compact-as-it-begins-solar-mini-grid-expansion-in-nigeria-rest-of-africa/)
 - [Baidu’s electric car brand Jidu closes $400M Series A round](https://techcrunch.com/2022/01/26/baidus-electric-carmaker-jidu-series-a/)
 - [Resilience raises $45 million for its cancer care startup](https://techcrunch.com/2022/01/26/resilience-raises-45-million-for-its-cancer-care-startup/)
 - [PQShield raises $20M for its quantum-ready, future-proof cryptographic security solutions](https://techcrunch.com/2022/01/25/pqshield-raises-20m-for-its-quantum-ready-future-proof-cryptographic-security-solutions/)
@@ -104,7 +105,6 @@
 - [KKR invests $45M into GrowSari, a B2B platform for Filipino MSMEs](https://techcrunch.com/2022/01/25/kkr-invests-45m-into-growsari-a-b2b-platform-for-filipino-msmes/)
 - [FTC fines online shop $4M for hiding reviews below 4 stars](https://techcrunch.com/2022/01/25/ftc-fines-online-shop-4m-for-hiding-reviews-below-4-stars/)
 - [Daily Crunch: Google dumps FloC plan, proposes new Topics API for ad targeting](https://techcrunch.com/2022/01/25/daily-crunch-google-dumps-floc-plan-proposes-new-topics-api-for-ad-targeting/)
-- [Hard cash and soft skills: How to successfully manage an acquisition](https://techcrunch.com/2022/01/25/hard-cash-and-soft-skills-how-to-successfully-manage-an-acquisition/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
