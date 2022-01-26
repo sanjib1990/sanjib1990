@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Paack pulls in a $225M Series D led by SoftBank to scale its E-commerce delivery platform](https://techcrunch.com/2022/01/25/paack-pulls-in-a-225m-series-d-led-by-softbank-to-scale-its-e-commerce-delivery-platform/)
 - [Infermedica raises $30M to expand its AI-based medical guidance platform](https://techcrunch.com/2022/01/25/infermedica-raises-30m-to-expand-its-ai-based-medical-guidance-platform/)
 - [KKR invests $45M into GrowSari, a B2B platform for Filipino MSMEs](https://techcrunch.com/2022/01/25/kkr-invests-45m-into-growsari-a-b2b-platform-for-filipino-msmes/)
 - [FTC fines online shop $4M for hiding reviews below 4 stars](https://techcrunch.com/2022/01/25/ftc-fines-online-shop-4m-for-hiding-reviews-below-4-stars/)
@@ -104,7 +105,6 @@
 - [NASA&#39;s Artemis 1 lunar mission finishes countdown test](https://www.space.com/nasa-artemis-1-countdown-test)
 - [Virtual Telescope Project captures a view of the James Webb Space Telescope at its final destination](https://www.space.com/virtual-telescope-project-jwst-l2-image)
 - [If the $40B Nvidia-Arm deal is dead, what does it mean to big tech M&amp;A?](https://techcrunch.com/2022/01/25/if-the-40b-nvidia-arm-deal-is-dead-what-does-it-mean-to-big-tech-ma/)
-- [Apple’s updated Personal Safety User Guide addresses the AirTag stalking problem](https://techcrunch.com/2022/01/25/apples-updated-personal-safety-user-guide-addresses-the-airtag-stalking-problem/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
