@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Carbon updates its workhorse 3D printer line with shiny new M3 and M3 Max models](https://techcrunch.com/2022/01/26/carbon-m3/)
+- [Tesla closes 2021 on a high note by besting expectations in Q4](https://techcrunch.com/2022/01/26/tesla-closes-2021-on-a-high-note-by-besting-expectations-in-q4/)
 - [Will your nose know lamb? Black Sheep Foods is betting it will](https://techcrunch.com/2022/01/26/will-your-nose-know-lamb-black-sheep-foods-is-betting-it-will/)
+- [A SpaceX Falcon 9 rocket stage will slam into the moon on March 4](https://www.space.com/spacex-falcon-9-rocket-hit-moon-march-2022)
 - [Instagram rolls out a new profile banner to display users’ upcoming live streams](https://techcrunch.com/2022/01/26/instagram-rolls-out-a-new-profile-banner-to-display-users-upcoming-live-streams/)
 - [Spotify is removing Neil Young’s music after falling out over Joe Rogan](https://techcrunch.com/2022/01/26/spotify-neil-young-joe-rogan/)
 - [Blizzard is working on a brand new survival game that could define its next era](https://techcrunch.com/2022/01/26/blizzard-is-working-on-a-brand-new-survival-game-that-could-define-its-next-era/)
 - [Discord is down, it’s not just you](https://techcrunch.com/2022/01/26/discord-is-down-its-not-just-you/)
 - [Unpacking the UBS-Wealthfront deal](https://techcrunch.com/2022/01/26/unpacking-the-ubs-wealthfront-deal/)
 - [Identity verification provider Veriff raises $100M Series C co-led by Tiger Global and Alkeon](https://techcrunch.com/2022/01/26/identity-verification-provider-veriff-raises-100m-series-c-co-led-by-tiger-global-and-alkeon/)
-- [Dear Sophie: 3 questions about immigration and naturalization](https://techcrunch.com/2022/01/26/dear-sophie-3-questions-about-immigration-and-naturalization/)
-- [Meteorite hunters rejoice: Antarctica probably harbors 300,000 undiscovered space rocks](https://www.space.com/antarctica-undiscovered-meteorites-artificial-intelligence-program)
-- [Boom will build a supersonic jet factory in North Carolina](https://techcrunch.com/2022/01/26/boom-will-build-a-supersonic-jet-factory-in-north-carolina/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
