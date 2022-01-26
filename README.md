@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [KKR invests $45M into GrowSari, a B2B platform for Filipino MSMEs](https://techcrunch.com/2022/01/25/kkr-invests-45m-into-growsari-a-b2b-platform-for-filipino-msmes/)
 - [FTC fines online shop $4M for hiding reviews below 4 stars](https://techcrunch.com/2022/01/25/ftc-fines-online-shop-4m-for-hiding-reviews-below-4-stars/)
 - [Daily Crunch: Google dumps FloC plan, proposes new Topics API for ad targeting](https://techcrunch.com/2022/01/25/daily-crunch-google-dumps-floc-plan-proposes-new-topics-api-for-ad-targeting/)
 - [Hard cash and soft skills: How to successfully manage an acquisition](https://techcrunch.com/2022/01/25/hard-cash-and-soft-skills-how-to-successfully-manage-an-acquisition/)
@@ -104,7 +105,6 @@
 - [If the $40B Nvidia-Arm deal is dead, what does it mean to big tech M&amp;A?](https://techcrunch.com/2022/01/25/if-the-40b-nvidia-arm-deal-is-dead-what-does-it-mean-to-big-tech-ma/)
 - [Apple’s updated Personal Safety User Guide addresses the AirTag stalking problem](https://techcrunch.com/2022/01/25/apples-updated-personal-safety-user-guide-addresses-the-airtag-stalking-problem/)
 - [Amazing photos of Comet Leonard in the night sky](https://www.space.com/comet-leonard-photos)
-- [On-chain raises are the future of startup funding](https://techcrunch.com/2022/01/25/on-chain-raises-are-the-future-of-startup-funding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
