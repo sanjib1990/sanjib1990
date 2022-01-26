@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Saturn&#39;s &#39;Death Star&#39; moon could have a secret underground ocean](https://www.space.com/saturn-death-star-moon-hidden-ocean)
 - [Pimloc grabs $7.5M to pitch more businesses on AI-for-privacy video tools](https://techcrunch.com/2022/01/26/pimoc-seed-expansion/)
 - [Epsilon3 lines up $2.8M seed round to modernize space and launch operations](https://techcrunch.com/2022/01/26/epsilon3-lines-up-2-8m-seed-round-to-modernize-space-and-launch-operations/)
 - [Firebolt, a data warehouse startup, raises $100M at a $1.4B valuation for faster, cheaper analytics on large data sets](https://techcrunch.com/2022/01/26/firebolt-a-data-warehouse-startup-raises-100m-at-a-1-4b-valuation-for-faster-cheaper-analytics-on-large-data-sets/)
@@ -104,7 +105,6 @@
 - [Activision Blizzard won’t voluntarily recognize the historic Raven Software QA union](https://techcrunch.com/2022/01/26/activision-blizzard-wont-voluntarily-recognize-the-historic-raven-software-qa-union/)
 - [Solar eclipse guide 2022: When, where &amp; how to see them](https://www.space.com/33784-solar-eclipse-guide.html)
 - [Marvel movies you probably haven’t seen](https://www.space.com/marvel-movies-you-probably-havent-seen)
-- [Astra test-fires rocket ahead of 1st Florida launch &lpar;video&rpar;](https://www.space.com/astra-test-fires-rocket-florida-launch-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
