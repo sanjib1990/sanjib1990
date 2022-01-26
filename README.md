@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Discord is down, it’s not just you](https://techcrunch.com/2022/01/26/discord-is-down-its-not-just-you/)
+- [Unpacking the UBS-Wealthfront deal](https://techcrunch.com/2022/01/26/unpacking-the-ubs-wealthfront-deal/)
+- [Identity verification provider Veriff raises $100M Series C co-led by Tiger Global and Alkeon](https://techcrunch.com/2022/01/26/identity-verification-provider-veriff-raises-100m-series-c-co-led-by-tiger-global-and-alkeon/)
+- [Dear Sophie: 3 questions about immigration and naturalization](https://techcrunch.com/2022/01/26/dear-sophie-3-questions-about-immigration-and-naturalization/)
+- [Meteorite hunters rejoice: Antarctica probably harbors 300,000 undiscovered space rocks](https://www.space.com/antarctica-undiscovered-meteorites-artificial-intelligence-program)
 - [Boom will build a supersonic jet factory in North Carolina](https://techcrunch.com/2022/01/26/boom-will-build-a-supersonic-jet-factory-in-north-carolina/)
+- [Best telescopes 2022: Top picks for viewing planets, galaxies, stars and more](https://www.space.com/15693-telescopes-beginners-telescope-reviews-buying-guide.html)
 - [Reddit tests allowing users to set any NFT as their profile picture, similar to Twitter](https://techcrunch.com/2022/01/26/reddit-tests-allowing-users-to-set-any-nft-as-their-profile-picture-similar-to-twitter/)
 - [Apple releases iOS 15.3 with fix for ‘actively exploited’ iPhone flaw](https://techcrunch.com/2022/01/26/apple-ios-actively-exploited/)
 - [Glossier just laid off one-third of its corporate employees, mostly in tech](https://techcrunch.com/2022/01/26/glossier-just-laid-off-one-third-of-its-corporate-employees-mostly-in-tech/)
-- [Valve’s Steam Deck will go on sale February 25](https://techcrunch.com/2022/01/26/valves-steam-deck-will-go-on-sale-february-25/)
-- [Crime tracking app Citizen acquires Harbor, a disaster prep app](https://techcrunch.com/2022/01/26/crime-tracking-app-citizen-acquires-harbor-a-disaster-prep-app/)
-- [Saturn&#39;s &#39;Death Star&#39; moon could have a secret underground ocean](https://www.space.com/saturn-death-star-moon-hidden-ocean)
-- [Pimloc grabs $7.5M to pitch more businesses on AI-for-privacy video tools](https://techcrunch.com/2022/01/26/pimoc-seed-expansion/)
-- [Epsilon3 lines up $2.8M seed round to modernize space and launch operations](https://techcrunch.com/2022/01/26/epsilon3-lines-up-2-8m-seed-round-to-modernize-space-and-launch-operations/)
-- [Firebolt, a data warehouse startup, raises $100M at a $1.4B valuation for faster, cheaper analytics on large data sets](https://techcrunch.com/2022/01/26/firebolt-a-data-warehouse-startup-raises-100m-at-a-1-4b-valuation-for-faster-cheaper-analytics-on-large-data-sets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
