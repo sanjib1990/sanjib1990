@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Eta Carinae&#39;s epic supernova explosion comes to life in new visualization](https://www.space.com/eta-carinae-epic-explosion)
+- [NASA&#39;s Artemis 1 moon mission explained in photos](https://www.space.com/nasa-artemis-1-moon-mission-explained)
 - [Clean energy firm Husk signs UN energy compact as it begins solar mini-grid expansion in Nigeria, rest of Africa](https://techcrunch.com/2022/01/26/clean-energy-firm-husk-signs-un-energy-compact-as-it-begins-solar-mini-grid-expansion-in-nigeria-rest-of-africa/)
+- [5,000 possible alien worlds in less than 4 years for NASA planet-hunting mission](https://www.space.com/tess-mission-hits-5000-planet-candidates)
 - [Baidu’s electric car brand Jidu closes $400M Series A round](https://techcrunch.com/2022/01/26/baidus-electric-carmaker-jidu-series-a/)
 - [Resilience raises $45 million for its cancer care startup](https://techcrunch.com/2022/01/26/resilience-raises-45-million-for-its-cancer-care-startup/)
 - [PQShield raises $20M for its quantum-ready, future-proof cryptographic security solutions](https://techcrunch.com/2022/01/25/pqshield-raises-20m-for-its-quantum-ready-future-proof-cryptographic-security-solutions/)
 - [Ghana’s OZÉ gets $3M to scale its digital recordkeeping and embedded finance products](https://techcrunch.com/2022/01/25/ghanas-oze-gets-3m-to-scale-its-digital-recordkeeping-and-embedded-finance-products/)
 - [Paack pulls in a $225M Series D led by SoftBank to scale its E-commerce delivery platform](https://techcrunch.com/2022/01/25/paack-pulls-in-a-225m-series-d-led-by-softbank-to-scale-its-e-commerce-delivery-platform/)
 - [Infermedica raises $30M to expand its AI-based medical guidance platform](https://techcrunch.com/2022/01/25/infermedica-raises-30m-to-expand-its-ai-based-medical-guidance-platform/)
-- [KKR invests $45M into GrowSari, a B2B platform for Filipino MSMEs](https://techcrunch.com/2022/01/25/kkr-invests-45m-into-growsari-a-b2b-platform-for-filipino-msmes/)
-- [FTC fines online shop $4M for hiding reviews below 4 stars](https://techcrunch.com/2022/01/25/ftc-fines-online-shop-4m-for-hiding-reviews-below-4-stars/)
-- [Daily Crunch: Google dumps FloC plan, proposes new Topics API for ad targeting](https://techcrunch.com/2022/01/25/daily-crunch-google-dumps-floc-plan-proposes-new-topics-api-for-ad-targeting/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
