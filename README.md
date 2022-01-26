@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Activision Blizzard won’t voluntarily recognize the historic Raven Software QA union](https://techcrunch.com/2022/01/26/activision-blizzard-wont-voluntarily-recognize-the-historic-raven-software-qa-union/)
+- [Byteboard nabs $5M seed to change the way engineers get hired](https://techcrunch.com/2022/01/26/byteboard-nabs-5m-seed-to-change-the-way-engineers-get-hired/)
+- [Founders Fund backs Vest, a startup out to give Latin Americans a bridge to investing in the US stock market](https://techcrunch.com/2022/01/26/founders-fund-backs-vest-a-startup-out-to-give-latin-americans-a-way-to-invest-in-the-u-s-stock-market/)
+- [3 views: How should founders prepare for a decline in startup valuations and investor interest?](https://techcrunch.com/2022/01/26/3-views-how-should-founders-prepare-for-a-decline-in-startup-valuations-and-investor-interest/)
+- [Snap upgrades its AR Shopping features with real-time pricing, more product details](https://techcrunch.com/2022/01/26/snap-upgrades-its-ar-shopping-features-with-real-time-pricing-more-product-details/)
+- [Kia’s EV6 pricing will start at $42,115 when it goes on sale in the coming weeks](https://techcrunch.com/2022/01/26/kias-ev6-pricing-will-start-at-42115-when-it-goes-on-sale-in-the-coming-weeks/)
 - [Ahead of planned IPO, Knightscope’s CEO discusses opportunity and controversy](https://techcrunch.com/2022/01/26/ahead-of-planned-ipo-knightscopes-ceo-discusses-opportunity-and-controversy-around-the-surveillance/)
 - [Former astronaut Mae Jemison drops by &#39;Sesame Street&#39; on Thursday &lpar;exclusive sneak peek video&rpar;](https://www.space.com/astronaut-mae-jemison-sesame-street-video)
 - [Is today’s market sad or sane?](https://techcrunch.com/2022/01/26/is-todays-market-sad-or-sane/)
 - [Alta closes $12.4M seed round led by Makers Fund and Andreessen Horowitz](https://techcrunch.com/2022/01/26/alta-closes-12-4m-seed-round-led-by-makers-fund-and-andreessen-horowitz/)
-- [Boston Dynamics’ warehouse robot gets a $15M gig working for DHL](https://techcrunch.com/2022/01/26/boston-dynamics-warehouse-robot-gets-a-15m-gig-working-for-dhl/)
-- [Polly snags $37M in Menlo-led Series B to automate workflows for mortgage lenders](https://techcrunch.com/2022/01/26/polly-snags-37m-in-menlo-led-series-b-to-automate-workflows-for-mortgage-lenders/)
-- [Tinder updates its approach to handling reports of serious abuse and harassment](https://techcrunch.com/2022/01/26/tinder-updates-its-approach-to-handling-reports-of-serious-abuse-and-harassment/)
-- [Saturn: Facts about the ringed planet](https://www.space.com/48-saturn-the-solar-systems-major-ring-bearer.html)
-- [&#39;Resident Alien&#39; returns to Syfy with Season 2 premiere tonight!](https://www.space.com/resident-alien-season-2-premiere-syfy)
-- [Vecna gets $65M to replace forklifts with robots](https://techcrunch.com/2022/01/26/vecna-gets-65m-to-replace-forklifts-with-robots/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
