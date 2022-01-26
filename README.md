@@ -95,6 +95,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Resilience raises $45 million for its cancer care startup](https://techcrunch.com/2022/01/26/resilience-raises-45-million-for-its-cancer-care-startup/)
+- [PQShield raises $20M for its quantum-ready, future-proof cryptographic security solutions](https://techcrunch.com/2022/01/25/pqshield-raises-20m-for-its-quantum-ready-future-proof-cryptographic-security-solutions/)
+- [Ghana’s OZÉ gets $3M to scale its digital recordkeeping and embedded finance products](https://techcrunch.com/2022/01/25/ghanas-oze-gets-3m-to-scale-its-digital-recordkeeping-and-embedded-finance-products/)
 - [Paack pulls in a $225M Series D led by SoftBank to scale its E-commerce delivery platform](https://techcrunch.com/2022/01/25/paack-pulls-in-a-225m-series-d-led-by-softbank-to-scale-its-e-commerce-delivery-platform/)
 - [Infermedica raises $30M to expand its AI-based medical guidance platform](https://techcrunch.com/2022/01/25/infermedica-raises-30m-to-expand-its-ai-based-medical-guidance-platform/)
 - [KKR invests $45M into GrowSari, a B2B platform for Filipino MSMEs](https://techcrunch.com/2022/01/25/kkr-invests-45m-into-growsari-a-b2b-platform-for-filipino-msmes/)
@@ -102,9 +105,6 @@
 - [Daily Crunch: Google dumps FloC plan, proposes new Topics API for ad targeting](https://techcrunch.com/2022/01/25/daily-crunch-google-dumps-floc-plan-proposes-new-topics-api-for-ad-targeting/)
 - [Hard cash and soft skills: How to successfully manage an acquisition](https://techcrunch.com/2022/01/25/hard-cash-and-soft-skills-how-to-successfully-manage-an-acquisition/)
 - [Maybe creator funds are bad](https://techcrunch.com/2022/01/25/maybe-creator-funds-are-bad/)
-- [NASA&#39;s Artemis 1 lunar mission finishes countdown test](https://www.space.com/nasa-artemis-1-countdown-test)
-- [Virtual Telescope Project captures a view of the James Webb Space Telescope at its final destination](https://www.space.com/virtual-telescope-project-jwst-l2-image)
-- [If the $40B Nvidia-Arm deal is dead, what does it mean to big tech M&amp;A?](https://techcrunch.com/2022/01/25/if-the-40b-nvidia-arm-deal-is-dead-what-does-it-mean-to-big-tech-ma/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
