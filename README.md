@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [PortalOne raises $60M as it gears up to launch of its hybrid, immersive gaming platform later this year](https://techcrunch.com/2022/01/27/portalone-raises-60m-as-it-gears-up-to-launch-of-its-hybrid-immersive-gaming-platform-later-this-year/)
+- [EV battery maker LG Energy Solution becomes South Korea’s second most valuable firm in IPO debut](https://techcrunch.com/2022/01/27/ev-battery-maker-lg-energy-solution-becomes-south-koreas-second-most-valuable-firm-in-ipo-debut/)
+- [Berlin’s Mayd gets ~$34M Series A injection for fast pharmacy delivery](https://techcrunch.com/2022/01/27/mayd-series-a/)
+- [TLcom Capital targets $150M for its second fund to invest in 20 African startups](https://techcrunch.com/2022/01/27/tlcom-capital-targets-150m-for-its-second-fund-to-invest-in-20-african-startups/)
 - [Stonly, a customer onboarding platform, raises $22M series A led Northzone and Accel](https://techcrunch.com/2022/01/26/stonly-a-customer-onboarding-platform-raises-22m-series-a-led-northzone-and-accel/)
 - [Indian electronics and lifestyle startup Boat files for an IPO](https://techcrunch.com/2022/01/26/boat-ipo-india/)
 - [Singapore-based edtech Cialfo gets $40M led by Square Peg and SEEK](https://techcrunch.com/2022/01/26/singapore-based-edtech-cialfo-gets-40m-led-by-square-peg-and-seek/)
 - [Tiger Global and Sequoia India-backed FanCraze launches cricket NFTs in partnership with ICC](https://techcrunch.com/2022/01/26/cricket-nft-icc-fancraze/)
 - [Cowboy raises $80M to take its e-bike business up a gear](https://techcrunch.com/2022/01/26/cowboy-raises-80m-to-take-its-e-bike-business-up-a-gear/)
 - [&#39;The Book of Boba Fett&#39; Chapter 4 sets up a potential &#39;Star Wars&#39; series crossover](https://www.space.com/star-wars-book-of-boba-fett-episode-4-review)
-- [Daily Crunch: No-code SaaS platform CaptivateIQ spears $1.25B valuation with $100M Series C](https://techcrunch.com/2022/01/26/daily-crunch-no-code-saas-platform-captivateiq-spears-1-25b-valuation-with-100m-series-c/)
-- [New EIP fund to invest in tech that banishes emissions and gives the planet a bit of a breather](https://techcrunch.com/2022/01/26/eip-deep-decarbonization-frontier-fund/)
-- [Carbon updates its workhorse 3D printer line with shiny new M3 and M3 Max models](https://techcrunch.com/2022/01/26/carbon-m3/)
-- [Tesla closes 2021 on a high note by besting expectations in Q4](https://techcrunch.com/2022/01/26/tesla-closes-2021-on-a-high-note-by-besting-expectations-in-q4/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
