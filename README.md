@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Play is getting an ‘Offers’ tab to display deals on games and apps](https://techcrunch.com/2022/01/27/google-play-is-getting-an-offers-tab-to-display-deals-on-games-and-apps/)
+- [Apple hits record revenue as iPhone sales defy supply chain shortages](https://techcrunch.com/2022/01/27/apple-hits-record-revenue-as-iphone-sales-defy-supply-chain-shortages/)
 - [Let’s make the teen Tesla hack a teachable moment](https://techcrunch.com/2022/01/27/lets-make-the-teen-tesla-hack-a-teachable-moment/)
 - [Latest Apple OS betas deliver Face ID with a mask and Universal Control](https://techcrunch.com/2022/01/27/latest-apple-os-betas-deliver-face-id-with-a-mask-and-universal-control/)
 - [New modes of ownership: From torrents to music NFTs](https://techcrunch.com/2022/01/27/new-modes-of-ownership-from-torrents-to-music-nfts/)
@@ -103,8 +105,6 @@
 - [The Webb Team Looks Back on Successful Deployments](https://blogs.nasa.gov/webb/2022/01/27/the-webb-team-looks-back-on-successful-deployments/)
 - [Atlassian acquires Percept.AI](https://techcrunch.com/2022/01/27/atlassian-acquires-percept-ai/)
 - [TikTok is confronting Holocaust misinformation, but antisemitism persists](https://techcrunch.com/2022/01/27/tiktok-holocaust-remembrance-day-antisemitism/)
-- [European, North American edtech startups see funding triple in 2021](https://techcrunch.com/2022/01/27/european-north-american-edtech-startups-see-funding-triple-in-2021/)
-- [Laparoscopic surgery performed by a robot without human assistance](https://techcrunch.com/2022/01/27/laparoscopic-surgery-performed-by-a-robot-without-human-assistance/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
