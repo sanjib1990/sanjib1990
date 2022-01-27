@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Stonly, a customer onboarding platform, raises $22M series A led Northzone and Accel](https://techcrunch.com/2022/01/26/stonly-a-customer-onboarding-platform-raises-22m-series-a-led-northzone-and-accel/)
+- [Indian electronics and lifestyle startup Boat files for an IPO](https://techcrunch.com/2022/01/26/boat-ipo-india/)
 - [Singapore-based edtech Cialfo gets $40M led by Square Peg and SEEK](https://techcrunch.com/2022/01/26/singapore-based-edtech-cialfo-gets-40m-led-by-square-peg-and-seek/)
 - [Tiger Global and Sequoia India-backed FanCraze launches cricket NFTs in partnership with ICC](https://techcrunch.com/2022/01/26/cricket-nft-icc-fancraze/)
 - [Cowboy raises $80M to take its e-bike business up a gear](https://techcrunch.com/2022/01/26/cowboy-raises-80m-to-take-its-e-bike-business-up-a-gear/)
@@ -103,8 +105,6 @@
 - [New EIP fund to invest in tech that banishes emissions and gives the planet a bit of a breather](https://techcrunch.com/2022/01/26/eip-deep-decarbonization-frontier-fund/)
 - [Carbon updates its workhorse 3D printer line with shiny new M3 and M3 Max models](https://techcrunch.com/2022/01/26/carbon-m3/)
 - [Tesla closes 2021 on a high note by besting expectations in Q4](https://techcrunch.com/2022/01/26/tesla-closes-2021-on-a-high-note-by-besting-expectations-in-q4/)
-- [Will your nose know lamb? Black Sheep Foods is betting it will](https://techcrunch.com/2022/01/26/will-your-nose-know-lamb-black-sheep-foods-is-betting-it-will/)
-- [A SpaceX Falcon 9 rocket stage will slam into the moon on March 4](https://www.space.com/spacex-falcon-9-rocket-hit-moon-march-2022)
 <!-- BLOG-POST-LIST:END -->
 
 ---
