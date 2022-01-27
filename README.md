@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [10,000 subscribers later, This Week in Fintech has a venture fund](https://techcrunch.com/2022/01/27/10000-subscribers-later-this-week-in-fintech-has-a-venture-fund/)
+- [The Vets, a pet healthcare platform that provides at-home care, raises $40M led by Target Global](https://techcrunch.com/2022/01/27/the-vets-a-pet-healthcare-platform-that-provides-at-home-care-raises-40m-led-by-target-global/)
+- [Sirius: The brightest star in Earth&#39;s night sky](https://www.space.com/21702-sirius-brightest-star.html)
+- [WhatsApp quizzed over consumer protection concerns in EU](https://techcrunch.com/2022/01/27/whatsapp-eu-consumer-protection-probe/)
+- [South Korea’s Naver Z launches $100M fund for metaverse creators](https://techcrunch.com/2022/01/27/south-koreas-naver-z-launches-100m-fund-for-metaverse-creators/)
 - [Bug bounty giant HackerOne lands $49M, thanks to cloud adoption boon](https://techcrunch.com/2022/01/27/hackerone-series-e/)
 - [Propy launches NFT platform in the US, allowing real-world property to be bought as an NFT](https://techcrunch.com/2022/01/27/propy-launches-nft-platform-in-the-us-allowing-real-world-property-to-be-bought-as-an-nft/)
 - [Esusu becomes unicorn with SoftBank Vision Fund 2-led $130M funding](https://techcrunch.com/2022/01/27/esusu-becomes-unicorn-with-softbank-vision-fund-2-led-130m-funding/)
 - [Ascend’s BNPL approach to insurance lifted by $280M in new equity, debt](https://techcrunch.com/2022/01/27/ascends-bnpl-approach-to-insurance-lifted-by-280m-in-new-equity-debt/)
 - [IoT search engine Censys secures $35M — and a new CEO](https://techcrunch.com/2022/01/27/censys-iot-search-engine-new-ceo/)
-- [Vesta closes on $30M in an a16z-led Series A to build a new kind of mortgage infrastructure](https://techcrunch.com/2022/01/27/vesta-closes-on-30m-in-an-a16z-led-series-a-to-build-a-new-kind-of-mortgage-infrastructure/)
-- [Compound aims to be a one-stop-shop for tech employees to manage their finances](https://techcrunch.com/2022/01/27/compound-aims-to-be-a-one-stop-shop-for-tech-employees-to-manage-their-finances/)
-- [On This Day in Space! Jan. 27, 1967: Apollo 1 fire kills NASA astronauts](https://www.space.com/39251-on-this-day-in-space.html)
-- [Best space movies](https://www.space.com/best-space-movies)
-- [55 years after Apollo 1 fire, NASA&#39;s lessons live on as Orion aims for the moon](https://www.space.com/nasa-apollo-1-fire-55-years-orion-moon-return)
 <!-- BLOG-POST-LIST:END -->
 
 ---
