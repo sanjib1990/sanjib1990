@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The robotic arm of the law](https://techcrunch.com/2022/01/27/the-robotic-arm-of-the-law/)
 - [Facebook reportedly ditches Diem stablecoin with asset sale](https://techcrunch.com/2022/01/27/facebook-reportedly-ditches-diem-stablecoin-with-asset-sale/)
 - [Here’s how far VCs have lowered revenue expectations for seed through Series B](https://techcrunch.com/2022/01/27/heres-how-far-vcs-have-lowered-revenue-expectations-for-seed-through-series-b/)
 - [FTC: U.S. consumers lost $770 million in social media scams in 2021, up 18x from 2017](https://techcrunch.com/2022/01/27/ftc-u-s-consumers-lost-770-million-in-social-media-scams-in-2021-up-18x-from-2017/)
-- [&#39;X particle&#39; from the dawn of time detected inside the Large Hadron Collider](https://www.space.com/x-particle-spotted-inside-lhc)
-- [NASA&#39;s Lucy asteroid spacecraft still has a wonky solar array as it flies through space](https://www.space.com/lucy-solar-array-glitch-plan)
 - [Quan raises $1.15M from YC to tackle post-pandemic employee burnout](https://techcrunch.com/2022/01/27/quan-raises-1-15m-from-yc-to-tackle-post-pandemic-employee-burnout/)
 - [Messenger upgrades its end-to-end encrypted chat experience](https://techcrunch.com/2022/01/27/messenger-upgrades-its-end-to-end-encrypted-chat-experience/)
 - [Subscript wants to rid the world of subscription revenue metric spreadsheets](https://techcrunch.com/2022/01/27/subscript-wants-to-rid-the-world-of-subscription-revenue-metric-spreadsheets/)
 - [Disney+ is expanding to 42 more countries this summer](https://techcrunch.com/2022/01/27/disney-is-expanding-to-42-more-countries-this-summer/)
 - [Europe clears Facebook-Kustomer with API access commitments](https://techcrunch.com/2022/01/27/facebook-kustomer-eu-clearance/)
+- [bloss, which connects expectant parents with experts, raises £1M pre-seed led by Antler](https://techcrunch.com/2022/01/27/bloss-which-connects-expectant-parents-with-experts-raises-1m-pre-seed-led-by-antler/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
