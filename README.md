@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Vesta closes on $30M in an a16z-led Series A to build a new kind of mortgage infrastructure](https://techcrunch.com/2022/01/27/vesta-closes-on-30m-in-an-a16z-led-series-a-to-build-a-new-kind-of-mortgage-infrastructure/)
+- [Compound aims to be a one-stop-shop for tech employees to manage their finances](https://techcrunch.com/2022/01/27/compound-aims-to-be-a-one-stop-shop-for-tech-employees-to-manage-their-finances/)
+- [On This Day in Space! Jan. 27, 1967: Apollo 1 fire kills NASA astronauts](https://www.space.com/39251-on-this-day-in-space.html)
+- [Best space movies](https://www.space.com/best-space-movies)
+- [55 years after Apollo 1 fire, NASA&#39;s lessons live on as Orion aims for the moon](https://www.space.com/nasa-apollo-1-fire-55-years-orion-moon-return)
 - [Chinese space plane company targets suborbital tourism, point-to-point travel by 2025](https://www.space.com/private-chinese-space-plane-tourism-travel)
 - [NASA honors fallen astronauts with Day of Remembrance](https://www.space.com/nasa-day-remembrance-2022)
 - [SpaceX to launch Italian Earth-observation satellite today. How to watch live.](https://www.space.com/spacex-launch-italian-csg-2-satellite-january-2022)
 - [Crypto investors have 1099 problems, but Cointracker helps make sure filing taxes isn’t one](https://techcrunch.com/2022/01/27/crypto-investors-have-1099-problems-cointracker-helps-make-sure-the-irs-isnt-one/)
 - [Crypto infrastructure company Fireblocks nearly quadruples valuation to $8B in six months](https://techcrunch.com/2022/01/27/crypto-infrastructure-company-fireblocks-nearly-quadruples-valuation-to-8b-in-six-months/)
-- [Lego NASA Space Shuttle Discovery review](https://www.space.com/lego-nasa-space-shuttle-discovery-10283)
-- [Apple will reportedly allow iPhones to accept contactless payments](https://techcrunch.com/2022/01/27/apple-will-reportedly-allow-iphones-to-accept-contactless-payments/)
-- [What is the sun made of?](https://www.space.com/17170-what-is-the-sun-made-of.html)
-- [Tanzanian fintech NALA raises $10M seed to build Revolut for Africa](https://techcrunch.com/2022/01/27/tanzanian-fintech-nala-raises-10m-seed-to-build-revolut-for-africa/)
-- [Domestika raises $110M on a $1.3B valuation to expand its learning community for creative types](https://techcrunch.com/2022/01/27/domestika-raises-110m-on-a-1-3b-valuation-to-expand-its-learning-community-for-creative-types/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
