@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Let’s make the teen Tesla hack a teachable moment](https://techcrunch.com/2022/01/27/lets-make-the-teen-tesla-hack-a-teachable-moment/)
+- [Latest Apple OS betas deliver Face ID with a mask and Universal Control](https://techcrunch.com/2022/01/27/latest-apple-os-betas-deliver-face-id-with-a-mask-and-universal-control/)
+- [New modes of ownership: From torrents to music NFTs](https://techcrunch.com/2022/01/27/new-modes-of-ownership-from-torrents-to-music-nfts/)
+- [Animals in space](https://www.space.com/animals-in-space)
 - [Web3’s early promise for artists tainted by rampant stolen works and likenesses](https://techcrunch.com/2022/01/27/web3s-early-promise-for-artists-tainted-by-rampant-stolen-works-and-likenesses/)
 - [The Webb Team Looks Back on Successful Deployments](https://blogs.nasa.gov/webb/2022/01/27/the-webb-team-looks-back-on-successful-deployments/)
 - [Atlassian acquires Percept.AI](https://techcrunch.com/2022/01/27/atlassian-acquires-percept-ai/)
 - [TikTok is confronting Holocaust misinformation, but antisemitism persists](https://techcrunch.com/2022/01/27/tiktok-holocaust-remembrance-day-antisemitism/)
 - [European, North American edtech startups see funding triple in 2021](https://techcrunch.com/2022/01/27/european-north-american-edtech-startups-see-funding-triple-in-2021/)
 - [Laparoscopic surgery performed by a robot without human assistance](https://techcrunch.com/2022/01/27/laparoscopic-surgery-performed-by-a-robot-without-human-assistance/)
-- [New NASA video honors fallen astronauts of Apollo 1, Challenger and Columbia](https://www.space.com/nasa-video-honors-fallen-astronauts-2022)
-- [Water on Mars may have flowed for a billion years longer than thought](https://www.space.com/mars-water-flowed-more-recently-than-thought)
-- [Spacecraft anomaly stalls Astroscale space debris cleanup test](https://www.space.com/astroscale-suspends-elsa-d-space-debris-cleanup-test)
-- [The robotic arm of the law](https://techcrunch.com/2022/01/27/the-robotic-arm-of-the-law/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
