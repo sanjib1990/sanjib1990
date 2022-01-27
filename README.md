@@ -95,7 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [PortalOne raises $60M as it gears up to launch of its hybrid, immersive gaming platform later this year](https://techcrunch.com/2022/01/27/portalone-raises-60m-as-it-gears-up-to-launch-of-its-hybrid-immersive-gaming-platform-later-this-year/)
+- [Lamborghini’s NFT scheme includes real-world space treasures](https://techcrunch.com/2022/01/27/lamborghini-nft-from-space/)
+- [PortalOne raises $60M as it levels up to launch of its hybrid, immersive gaming platform later this year](https://techcrunch.com/2022/01/27/portalone-raises-60m-as-it-gears-up-to-launch-of-its-hybrid-immersive-gaming-platform-later-this-year/)
 - [EV battery maker LG Energy Solution becomes South Korea’s second most valuable firm in IPO debut](https://techcrunch.com/2022/01/27/ev-battery-maker-lg-energy-solution-becomes-south-koreas-second-most-valuable-firm-in-ipo-debut/)
 - [Berlin’s Mayd gets ~$34M Series A injection for fast pharmacy delivery](https://techcrunch.com/2022/01/27/mayd-series-a/)
 - [TLcom Capital targets $150M for its second fund to invest in 20 African startups](https://techcrunch.com/2022/01/27/tlcom-capital-targets-150m-for-its-second-fund-to-invest-in-20-african-startups/)
@@ -104,7 +105,6 @@
 - [Singapore-based edtech Cialfo gets $40M led by Square Peg and SEEK](https://techcrunch.com/2022/01/26/singapore-based-edtech-cialfo-gets-40m-led-by-square-peg-and-seek/)
 - [Tiger Global and Sequoia India-backed FanCraze launches cricket NFTs in partnership with ICC](https://techcrunch.com/2022/01/26/cricket-nft-icc-fancraze/)
 - [Cowboy raises $80M to take its e-bike business up a gear](https://techcrunch.com/2022/01/26/cowboy-raises-80m-to-take-its-e-bike-business-up-a-gear/)
-- [&#39;The Book of Boba Fett&#39; Chapter 4 sets up a potential &#39;Star Wars&#39; series crossover](https://www.space.com/star-wars-book-of-boba-fett-episode-4-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
