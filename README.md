@@ -78,6 +78,7 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [The Metaverse, Why Now? - Computerphile](https://www.youtube.com/watch?v=vw7602ULHWA)
 - [mining crypto with your internet?!?!](https://www.youtube.com/watch?v=El19X-zHt-c)
 - [Prisma in 100 Seconds](https://www.youtube.com/watch?v=rLRIB6AF2Dg)
 - [S3:E5: The Human Element in Machine Learning w Catherine D’Ignazio, Jacob Andreas &amp; Harini Suresh](https://www.youtube.com/watch?v=MbzbbvTlL1Y)
@@ -87,7 +88,6 @@
 - [Part 6: Finding the Nullspace: Solving Ax = 0 by Elimination](https://www.youtube.com/watch?v=JFIaRtKNP2E)
 - [i created a 24/7 livestream &lpar;to help you study&rpar;](https://www.youtube.com/watch?v=0scjy6Zxzwc)
 - [Build a WEB3 app to mint unlimited NFTs… But should you?](https://www.youtube.com/watch?v=meTpMP0J5E8)
-- [What is DevOps? REALLY understand it | DevOps vs SRE](https://www.youtube.com/watch?v=0yWAtQ6wYNM)
 <!-- YOUTUBE:END -->
 
 ---
