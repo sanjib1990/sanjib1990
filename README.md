@@ -79,7 +79,7 @@
 
 <!-- YOUTUBE:START -->
 - [I created a Command Line Game for you // 5-Minute Node.js CLI Project](https://www.youtube.com/watch?v=_oHByo8tiEY)
-- [The Metaverse, Why Now? - Computerphile](https://www.youtube.com/watch?v=vw7602ULHWA)
+- [Metaverse is 30yrs old - Why Facebook is late to the party - Computerphile](https://www.youtube.com/watch?v=vw7602ULHWA)
 - [mining crypto with your internet?!?!](https://www.youtube.com/watch?v=El19X-zHt-c)
 - [Prisma in 100 Seconds](https://www.youtube.com/watch?v=rLRIB6AF2Dg)
 - [S3:E5: The Human Element in Machine Learning w Catherine D’Ignazio, Jacob Andreas &amp; Harini Suresh](https://www.youtube.com/watch?v=MbzbbvTlL1Y)
