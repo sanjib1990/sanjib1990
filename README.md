@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bug bounty giant HackerOne lands $49M, thanks to cloud adoption boon](https://techcrunch.com/2022/01/27/hackerone-series-e/)
+- [Propy launches NFT platform in the US, allowing real-world property to be bought as an NFT](https://techcrunch.com/2022/01/27/propy-launches-nft-platform-in-the-us-allowing-real-world-property-to-be-bought-as-an-nft/)
+- [Esusu becomes unicorn with SoftBank Vision Fund 2-led $130M funding](https://techcrunch.com/2022/01/27/esusu-becomes-unicorn-with-softbank-vision-fund-2-led-130m-funding/)
+- [Ascend’s BNPL approach to insurance lifted by $280M in new equity, debt](https://techcrunch.com/2022/01/27/ascends-bnpl-approach-to-insurance-lifted-by-280m-in-new-equity-debt/)
+- [IoT search engine Censys secures $35M — and a new CEO](https://techcrunch.com/2022/01/27/censys-iot-search-engine-new-ceo/)
 - [Vesta closes on $30M in an a16z-led Series A to build a new kind of mortgage infrastructure](https://techcrunch.com/2022/01/27/vesta-closes-on-30m-in-an-a16z-led-series-a-to-build-a-new-kind-of-mortgage-infrastructure/)
 - [Compound aims to be a one-stop-shop for tech employees to manage their finances](https://techcrunch.com/2022/01/27/compound-aims-to-be-a-one-stop-shop-for-tech-employees-to-manage-their-finances/)
 - [On This Day in Space! Jan. 27, 1967: Apollo 1 fire kills NASA astronauts](https://www.space.com/39251-on-this-day-in-space.html)
 - [Best space movies](https://www.space.com/best-space-movies)
 - [55 years after Apollo 1 fire, NASA&#39;s lessons live on as Orion aims for the moon](https://www.space.com/nasa-apollo-1-fire-55-years-orion-moon-return)
-- [Chinese space plane company targets suborbital tourism, point-to-point travel by 2025](https://www.space.com/private-chinese-space-plane-tourism-travel)
-- [NASA honors fallen astronauts with Day of Remembrance](https://www.space.com/nasa-day-remembrance-2022)
-- [SpaceX to launch Italian Earth-observation satellite today. How to watch live.](https://www.space.com/spacex-launch-italian-csg-2-satellite-january-2022)
-- [Crypto investors have 1099 problems, but Cointracker helps make sure filing taxes isn’t one](https://techcrunch.com/2022/01/27/crypto-investors-have-1099-problems-cointracker-helps-make-sure-the-irs-isnt-one/)
-- [Crypto infrastructure company Fireblocks nearly quadruples valuation to $8B in six months](https://techcrunch.com/2022/01/27/crypto-infrastructure-company-fireblocks-nearly-quadruples-valuation-to-8b-in-six-months/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
