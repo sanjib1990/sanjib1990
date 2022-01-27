@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Chinese space plane company targets suborbital tourism, point-to-point travel by 2025](https://www.space.com/private-chinese-space-plane-tourism-travel)
+- [NASA honors fallen astronauts with Day of Remembrance](https://www.space.com/nasa-day-remembrance-2022)
+- [SpaceX to launch Italian Earth-observation satellite today. How to watch live.](https://www.space.com/spacex-launch-italian-csg-2-satellite-january-2022)
+- [Crypto investors have 1099 problems, but Cointracker helps make sure filing taxes isn’t one](https://techcrunch.com/2022/01/27/crypto-investors-have-1099-problems-cointracker-helps-make-sure-the-irs-isnt-one/)
+- [Crypto infrastructure company Fireblocks nearly quadruples valuation to $8B in six months](https://techcrunch.com/2022/01/27/crypto-infrastructure-company-fireblocks-nearly-quadruples-valuation-to-8b-in-six-months/)
+- [Lego NASA Space Shuttle Discovery review](https://www.space.com/lego-nasa-space-shuttle-discovery-10283)
+- [Apple will reportedly allow iPhones to accept contactless payments](https://techcrunch.com/2022/01/27/apple-will-reportedly-allow-iphones-to-accept-contactless-payments/)
+- [What is the sun made of?](https://www.space.com/17170-what-is-the-sun-made-of.html)
+- [Tanzanian fintech NALA raises $10M seed to build Revolut for Africa](https://techcrunch.com/2022/01/27/tanzanian-fintech-nala-raises-10m-seed-to-build-revolut-for-africa/)
 - [Domestika raises $110M on a $1.3B valuation to expand its learning community for creative types](https://techcrunch.com/2022/01/27/domestika-raises-110m-on-a-1-3b-valuation-to-expand-its-learning-community-for-creative-types/)
-- [Portugal’s Indico Capital Partners launches €50M Ocean tech ‘Blue economy’ fund](https://techcrunch.com/2022/01/27/portugals-indico-capital-partners-launches-e50m-ocean-tech-blue-economy-fund/)
-- [Lamborghini’s NFT scheme includes real-world space treasures](https://techcrunch.com/2022/01/27/lamborghini-nft-from-space/)
-- [PortalOne raises $60M as it levels up to launch its hybrid, immersive gaming platform later this year](https://techcrunch.com/2022/01/27/portalone-raises-60m-as-it-gears-up-to-launch-of-its-hybrid-immersive-gaming-platform-later-this-year/)
-- [EV battery maker LG Energy Solution becomes South Korea’s second most valuable firm in IPO debut](https://techcrunch.com/2022/01/27/ev-battery-maker-lg-energy-solution-becomes-south-koreas-second-most-valuable-firm-in-ipo-debut/)
-- [Berlin’s Mayd gets ~$34M Series A injection for fast pharmacy delivery](https://techcrunch.com/2022/01/27/mayd-series-a/)
-- [TLcom Capital targets $150M for its second fund to invest in 20 African startups](https://techcrunch.com/2022/01/27/tlcom-capital-targets-150m-for-its-second-fund-to-invest-in-20-african-startups/)
-- [Stonly, a customer onboarding platform, raises $22M series A led Northzone and Accel](https://techcrunch.com/2022/01/26/stonly-a-customer-onboarding-platform-raises-22m-series-a-led-northzone-and-accel/)
-- [Indian electronics and lifestyle startup Boat files for an IPO](https://techcrunch.com/2022/01/26/boat-ipo-india/)
-- [Singapore-based edtech Cialfo gets $40M led by Square Peg and SEEK](https://techcrunch.com/2022/01/26/singapore-based-edtech-cialfo-gets-40m-led-by-square-peg-and-seek/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
