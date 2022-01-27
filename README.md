@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Domestika raises $110M on a $1.3B valuation to expand its learning community for creative types](https://techcrunch.com/2022/01/27/domestika-raises-110m-on-a-1-3b-valuation-to-expand-its-learning-community-for-creative-types/)
 - [Portugal’s Indico Capital Partners launches €50M Ocean tech ‘Blue economy’ fund](https://techcrunch.com/2022/01/27/portugals-indico-capital-partners-launches-e50m-ocean-tech-blue-economy-fund/)
 - [Lamborghini’s NFT scheme includes real-world space treasures](https://techcrunch.com/2022/01/27/lamborghini-nft-from-space/)
 - [PortalOne raises $60M as it levels up to launch its hybrid, immersive gaming platform later this year](https://techcrunch.com/2022/01/27/portalone-raises-60m-as-it-gears-up-to-launch-of-its-hybrid-immersive-gaming-platform-later-this-year/)
@@ -104,7 +105,6 @@
 - [Stonly, a customer onboarding platform, raises $22M series A led Northzone and Accel](https://techcrunch.com/2022/01/26/stonly-a-customer-onboarding-platform-raises-22m-series-a-led-northzone-and-accel/)
 - [Indian electronics and lifestyle startup Boat files for an IPO](https://techcrunch.com/2022/01/26/boat-ipo-india/)
 - [Singapore-based edtech Cialfo gets $40M led by Square Peg and SEEK](https://techcrunch.com/2022/01/26/singapore-based-edtech-cialfo-gets-40m-led-by-square-peg-and-seek/)
-- [Tiger Global and Sequoia India-backed FanCraze launches cricket NFTs in partnership with ICC](https://techcrunch.com/2022/01/26/cricket-nft-icc-fancraze/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
