@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [bloss, which connects expectant parents with experts, raises £1M Pre-seed led by Antler](https://techcrunch.com/2022/01/27/bloss-which-connects-expectant-parents-with-experts-raises-1m-pre-seed-led-by-antler/)
+- [Subscript wants to rid the world of subscription revenue metric spreadsheets](https://techcrunch.com/2022/01/27/subscript-wants-to-rid-the-world-of-subscription-revenue-metric-spreadsheets/)
+- [Disney+ is expanding to 42 more countries this summer](https://techcrunch.com/2022/01/27/disney-is-expanding-to-42-more-countries-this-summer/)
+- [Europe clears Facebook-Kustomer with API access commitments](https://techcrunch.com/2022/01/27/facebook-kustomer-eu-clearance/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [Ten sci-fi movie monsters that could destroy humanity](https://www.space.com/sci-fi-movie-monsters-that-could-destroy-humanity)
+- [bloss, which connects expectant parents with experts, raises £1M pre-seed led by Antler](https://techcrunch.com/2022/01/27/bloss-which-connects-expectant-parents-with-experts-raises-1m-pre-seed-led-by-antler/)
 - [Parthean cares about personal finance so you don’t have to](https://techcrunch.com/2022/01/27/parthean-cares-about-personal-finance-so-you-dont-have-to/)
 - [The.com launches a low-code, collaborative website builder that uses customizable ‘blocks,’ not templates](https://techcrunch.com/2022/01/27/the-com-launches-a-low-code-collaborative-website-builder-that-uses-customizable-blocks-not-templates/)
 - [Why Black female CEOs lead 50% of the companies in our portfolio](https://techcrunch.com/2022/01/27/why-black-female-ceos-lead-50-of-the-companies-in-our-portfolio/)
 - [In blow to unicorns, the global IPO market continues to soften](https://techcrunch.com/2022/01/27/in-blow-to-unicorns-the-global-ipo-market-continues-to-soften/)
-- [As Finmark finds its footing, it moves up market and takes on additional investment](https://techcrunch.com/2022/01/27/as-finmark-finds-its-footing-it-moves-up-market-and-takes-on-additional-investment/)
-- [Renault Nissan Mitsubishi Alliance confirms plans to build 35 new EVs by 2030](https://techcrunch.com/2022/01/27/renault-nissan-mitsubishi-alliance-confirms-plans-to-build-35-new-evs-by-2030/)
-- [Sigfox, the French IoT startup that had raised more than $300M, files for bankruptcy protection as it seeks a buyer](https://techcrunch.com/2022/01/27/sigfox-the-french-iot-startup-that-had-raised-more-than-300m-files-for-bankruptcy-protection-as-it-seeks-a-buyer/)
-- [After QuizUp and Trivia Royale, Thor Fridriksson’s next act is a mobile MMO](https://techcrunch.com/2022/01/27/after-quizup-and-trivia-royale-thor-fridrikssons-next-act-is-a-mobile-mmo/)
-- [Inside All About Space issue 126: Complete guide to exoplanets](https://www.space.com/all-about-space-magazine-issue-126)
 <!-- BLOG-POST-LIST:END -->
 
 ---
