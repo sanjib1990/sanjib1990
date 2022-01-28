@@ -98,7 +98,7 @@
 - [Inside Iyin Aboyeji’s plan to build charter cities for African tech](https://techcrunch.com/2022/01/27/inside-iyin-aboyejis-plan-to-build-charter-cities-for-african-tech/)
 - [Zapp snaps up $200M to supersize its instant grocery play](https://techcrunch.com/2022/01/27/zapp-snaps-up-200m-to-supersize-its-instant-grocery-play/)
 - [Google to invest up to $1 billion in Indian telecom operator Airtel](https://techcrunch.com/2022/01/27/google-airtel-india/)
-- [India’s Moglix valued at $2.5 billion in new funding](https://techcrunch.com/2022/01/27/moglix-series-f/)
+- [India’s Moglix valued at $2.6 billion in $250 million funding](https://techcrunch.com/2022/01/27/moglix-series-f/)
 - [Edtech startups flock to the promise and potential of personalized learning](https://techcrunch.com/2022/01/27/edtech-startups-flock-to-the-promise-and-potential-of-personalized-learning/)
 - [Investors are turning their focus away from private shares to public stocks, says crossover investor](https://techcrunch.com/2022/01/27/crossover-investors-are-turning-their-focus-to-public-stocks-says-crossover-investor/)
 - [Amazon must pay $2M and end program after price-fixing investigation by Washington AG](https://techcrunch.com/2022/01/27/amazon-antitrust-lawsuit-washington/)
