@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is the cosmic microwave background?](https://www.space.com/33892-cosmic-microwave-background.html)
+- [Google will let legacy G Suite users migrate to free Google accounts](https://techcrunch.com/2022/01/28/google-will-let-legacy-g-suite-users-migrate-to-free-google-accounts/)
+- [The first ‘Super Pumped’ trailer is here to dramatize Uber’s reckless ascendance](https://techcrunch.com/2022/01/28/the-first-super-pumped-trailer-is-here-to-dramatize-ubers-reckless-ascendance/)
+- [Japanese company ispace delays its  second private moon mission to 2024](https://www.space.com/ispace-delays-second-moon-mission-2024)
+- [Astronomers detect powerful cosmic object unlike anything they&#39;ve seen before](https://www.space.com/ultra-slow-magnetar-new-stellar-object)
+- [Israel signs Artemis accords for moon exploration](https://www.space.com/israel-signs-artemis-accords)
+- [European sun probe flew through the tail of Comet Leonard](https://www.space.com/solar-orbiter-crosses-comet-leonard-tail)
+- [NASA&#39;s James Webb Space Telescope has reached its final destination. Let&#39;s celebrate the team that got it there &lpar;op-ed&rpar;](https://www.space.com/nasa-james-webb-space-telescope-success-teamwork)
 - [Inside Iyin Aboyeji’s plan to build charter cities for African tech](https://techcrunch.com/2022/01/27/inside-iyin-aboyejis-plan-to-build-charter-cities-for-african-tech/)
 - [Zapp snaps up $200M to supersize its instant grocery play](https://techcrunch.com/2022/01/27/zapp-snaps-up-200m-to-supersize-its-instant-grocery-play/)
-- [Google to invest up to $1 billion in Indian telecom operator Airtel](https://techcrunch.com/2022/01/27/google-airtel-india/)
-- [India’s Moglix valued at $2.6 billion in $250 million funding](https://techcrunch.com/2022/01/27/moglix-series-f/)
-- [Edtech startups flock to the promise and potential of personalized learning](https://techcrunch.com/2022/01/27/edtech-startups-flock-to-the-promise-and-potential-of-personalized-learning/)
-- [Investors are turning their focus away from private shares to public stocks, says crossover investor](https://techcrunch.com/2022/01/27/crossover-investors-are-turning-their-focus-to-public-stocks-says-crossover-investor/)
-- [Amazon must pay $2M and end program after price-fixing investigation by Washington AG](https://techcrunch.com/2022/01/27/amazon-antitrust-lawsuit-washington/)
-- [The Higgs boson could have kept our universe from collapsing](https://www.space.com/higgs-particle-universe-collapse-in-multiverse)
-- [SpaceX snags $102 million contract to rocket military supplies and humanitarian aid around the world: report](https://www.space.com/spacex-air-force-102-million-dollar-contract-rocket-transport)
-- [China&#39;s second launch of the year puts radar satellite in orbit](https://www.space.com/china-long-march-4c-rocket-launches-radar-satellite)
 <!-- BLOG-POST-LIST:END -->
 
 ---
