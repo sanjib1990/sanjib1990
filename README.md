@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Edtech startups flock to the promise and potential of personalized learning](https://techcrunch.com/2022/01/27/edtech-startups-flock-to-the-promise-and-potential-of-personalized-learning/)
 - [Crossover investors are turning their focus to public stocks, says crossover investor](https://techcrunch.com/2022/01/27/crossover-investors-are-turning-their-focus-to-public-stocks-says-crossover-investor/)
 - [Amazon must pay $2M and end program after price-fixing investigation by Washington AG](https://techcrunch.com/2022/01/27/amazon-antitrust-lawsuit-washington/)
 - [The Higgs boson could have kept our universe from collapsing](https://www.space.com/higgs-particle-universe-collapse-in-multiverse)
@@ -104,7 +105,6 @@
 - [SpaceX now aims to launch an Earth-observation satellite for Italy on Friday &lpar;yes, you can watch it live&rpar;](https://www.space.com/spacex-launch-italian-csg-2-satellite-january-2022)
 - [Google Play is getting an ‘Offers’ tab to display deals on games and apps](https://techcrunch.com/2022/01/27/google-play-is-getting-an-offers-tab-to-display-deals-on-games-and-apps/)
 - [Apple hits record revenue as iPhone sales defy supply chain shortages](https://techcrunch.com/2022/01/27/apple-hits-record-revenue-as-iphone-sales-defy-supply-chain-shortages/)
-- [Let’s make the teen Tesla hack a teachable moment](https://techcrunch.com/2022/01/27/lets-make-the-teen-tesla-hack-a-teachable-moment/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
