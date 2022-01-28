@@ -95,6 +95,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Smartphone shipments grew last year, for the first time since 2017](https://techcrunch.com/2022/01/28/smartphone-shipments-grew-last-year-for-the-first-time-since-2017/)
+- [See Mars shine very close to moon in Saturday&#39;s pre-dawn sky. Here&#39;s where to look.](https://www.space.com/moon-mars-conjunction-january-2022)
+- [TechCrunch+ roundup: 2021 edtech report, UBS-Wealthfront deal, falling startup revenue](https://techcrunch.com/2022/01/28/techcrunch-roundup-2021-edtech-report-ubs-wealthfront-deal-falling-startup-revenue/)
 - [Giant &#39;tree stump&#39; impact crater spotted on Mars](https://www.space.com/tree-rings-impact-crater-mars-exomars)
 - [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [To cool down China’s overheated robotics industry, go back to the basics](https://techcrunch.com/2022/01/28/to-cool-down-chinas-overheated-robotics-industry-go-back-to-the-basics/)
@@ -102,9 +105,6 @@
 - [Whistleblowers can protect crypto and DeFi](https://techcrunch.com/2022/01/28/whistleblowers-can-protect-crypto-and-defi/)
 - [The Arctic &#39;ring of fire&#39; solar eclipse of 2021 changed southern auroras. Here&#39;s how.](https://www.space.com/arctic-solar-eclipse-aurora-connection)
 - [Thinking about starting a business? Make TechCrunch Early Stage your first step](https://techcrunch.com/2022/01/28/thinking-about-starting-a-business-make-techcrunch-early-stage-2022-your-first-step/)
-- [Joby Aviation wants to conduct dramatic eVTOL flights over San Francisco Bay](https://techcrunch.com/2022/01/28/joby-aviation-wants-to-conduct-dramatic-evtol-flights-over-san-francisco-bay/)
-- [For NASA, a somber &#39;Day of Remembrance&#39; casts spotlight on astronaut safety to prevent tragedies](https://www.space.com/nasa-day-of-remembrance-astronaut-safety-2022)
-- [Space station cargo ship named in honor of late NASA astronaut Piers Sellers](https://www.space.com/northrop-grumman-ng17-piers-sellers-astronaut)
 <!-- BLOG-POST-LIST:END -->
 
 ---
