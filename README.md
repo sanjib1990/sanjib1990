@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The first Vulcan rocket will launch ashes of Star Trek actors, fans and more into space](https://www.space.com/star-trek-ashes-first-vulcan-rocket-ula)
+- [Why Robinhood is getting hammered today](https://techcrunch.com/2022/01/28/why-robinhood-is-getting-hammered-today/)
+- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
+- [Best Doctor Who audio dramas](https://www.space.com/best-doctor-who-audio-dramas)
 - [Membership, mentorship or just messy](https://techcrunch.com/2022/01/28/membership-mentorship-or-just-messy/)
 - [Rise is a new calendar app with a scheduling engine for teams](https://techcrunch.com/2022/01/28/rise-is-a-new-calendar-app-with-a-scheduling-engine-for-teams/)
 - [CausaLens gets $45M for no-code technology that introduces cause and effect into AI decision making](https://techcrunch.com/2022/01/28/causalens-gets-45m-for-no-code-technology-that-introduces-cause-and-effect-into-ai-decision-making/)
 - [Asset financiers to the rescue as Bolt plans to sign-up 200,000 new drivers in Africa to meet growing demand for ride-hailing services](https://techcrunch.com/2022/01/28/asset-financiers-to-the-rescue-as-bolt-plans-to-sign-up-200000-new-drivers-in-africa-to-meet-growing-demand-for-ride-hailing-services/)
 - [How big is the universe?](https://www.space.com/24073-how-big-is-the-universe.html)
 - [Event marketing is a ‘team sport,’ and Vendelux is coaching companies to find the best ROI](https://techcrunch.com/2022/01/28/event-marketing-vendelux/)
-- [Canvas gives non-technical teams data exploration knowledge without needing a degree in SQL](https://techcrunch.com/2022/01/28/canvas-gives-non-technical-teams-data-exploration-knowledge-without-needing-a-degree-in-sql/)
-- [Star facts: History, formation and classification](https://www.space.com/57-stars-formation-classification-and-constellations.html)
-- [South Korean proptech startup Zigbang acquires Samsung SDS’ smart home IoT business](https://techcrunch.com/2022/01/28/south-korean-proptech-startup-zigbang-acquires-samsung-sds-smart-home-iot-business/)
-- [SpaceX aims to launch an Earth-observation satellite for Italy today &lpar;yes, you can watch it live&rpar;](https://www.space.com/spacex-launch-italian-csg-2-satellite-january-2022)
 <!-- BLOG-POST-LIST:END -->
 
 ---
