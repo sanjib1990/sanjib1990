@@ -78,6 +78,7 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [the future of NetworkChuck....](https://www.youtube.com/watch?v=UiO6uFHqwbU)
 - [I created a Command Line Game for you // 5-Minute Node.js CLI Project](https://www.youtube.com/watch?v=_oHByo8tiEY)
 - [Metaverse is 30yrs old - Why Facebook is late to the party - Computerphile](https://www.youtube.com/watch?v=vw7602ULHWA)
 - [mining crypto with your internet?!?!](https://www.youtube.com/watch?v=El19X-zHt-c)
@@ -87,7 +88,6 @@
 - [K-d Trees - Computerphile](https://www.youtube.com/watch?v=BK5x7IUTIyU)
 - [How to Land a 100K/yr Tech Job - 10 Strategies](https://www.youtube.com/watch?v=Xg9ihH15Uto)
 - [Part 6: Finding the Nullspace: Solving Ax = 0 by Elimination](https://www.youtube.com/watch?v=JFIaRtKNP2E)
-- [i created a 24/7 livestream &lpar;to help you study&rpar;](https://www.youtube.com/watch?v=0scjy6Zxzwc)
 <!-- YOUTUBE:END -->
 
 ---
