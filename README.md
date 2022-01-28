@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Event marketing is a ‘team sport,’ and Vendelux is coaching companies to find the best ROI](https://techcrunch.com/2022/01/28/event-marketing-vendelux/)
+- [Canvas gives non-technical teams data exploration knowledge without needing a degree in SQL](https://techcrunch.com/2022/01/28/canvas-gives-non-technical-teams-data-exploration-knowledge-without-needing-a-degree-in-sql/)
+- [Star facts: History, formation and classification](https://www.space.com/57-stars-formation-classification-and-constellations.html)
+- [South Korean proptech startup Zigbang acquires Samsung SDS’ smart home IoT business](https://techcrunch.com/2022/01/28/south-korean-proptech-startup-zigbang-acquires-samsung-sds-smart-home-iot-business/)
+- [SpaceX will launch an Italian Earth-observation satellite today after weather delay. Watch it live.](https://www.space.com/spacex-launch-italian-csg-2-satellite-january-2022)
 - [What is the cosmic microwave background?](https://www.space.com/33892-cosmic-microwave-background.html)
 - [Google will let legacy G Suite users migrate to free Google accounts](https://techcrunch.com/2022/01/28/google-will-let-legacy-g-suite-users-migrate-to-free-google-accounts/)
 - [The first ‘Super Pumped’ trailer is here to dramatize Uber’s reckless ascendance](https://techcrunch.com/2022/01/28/the-first-super-pumped-trailer-is-here-to-dramatize-ubers-reckless-ascendance/)
 - [Japanese company ispace delays its  second private moon mission to 2024](https://www.space.com/ispace-delays-second-moon-mission-2024)
 - [Astronomers detect powerful cosmic object unlike anything they&#39;ve seen before](https://www.space.com/ultra-slow-magnetar-new-stellar-object)
-- [Israel signs Artemis accords for moon exploration](https://www.space.com/israel-signs-artemis-accords)
-- [European sun probe flew through the tail of Comet Leonard](https://www.space.com/solar-orbiter-crosses-comet-leonard-tail)
-- [NASA&#39;s James Webb Space Telescope has reached its final destination. Let&#39;s celebrate the team that got it there &lpar;op-ed&rpar;](https://www.space.com/nasa-james-webb-space-telescope-success-teamwork)
-- [Inside Iyin Aboyeji’s plan to build charter cities for African tech](https://techcrunch.com/2022/01/27/inside-iyin-aboyejis-plan-to-build-charter-cities-for-african-tech/)
-- [Zapp snaps up $200M to supersize its instant grocery play](https://techcrunch.com/2022/01/27/zapp-snaps-up-200m-to-supersize-its-instant-grocery-play/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
