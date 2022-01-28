@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Zapp snaps up $200M to supersize its instant grocery play](https://techcrunch.com/2022/01/27/zapp-snaps-up-200m-to-supersize-its-instant-grocery-play/)
 - [Google to invest up to $1 billion in Indian telecom operator Airtel](https://techcrunch.com/2022/01/27/google-airtel-india/)
 - [India’s Moglix valued at $2.5 billion in new funding](https://techcrunch.com/2022/01/27/moglix-series-f/)
 - [Edtech startups flock to the promise and potential of personalized learning](https://techcrunch.com/2022/01/27/edtech-startups-flock-to-the-promise-and-potential-of-personalized-learning/)
@@ -104,7 +105,6 @@
 - [SpaceX snags $102 million contract to rocket military supplies and humanitarian aid around the world: report](https://www.space.com/spacex-air-force-102-million-dollar-contract-rocket-transport)
 - [China&#39;s second launch of the year puts radar satellite in orbit](https://www.space.com/china-long-march-4c-rocket-launches-radar-satellite)
 - [Daily Crunch: 4 years after launch, fintech platform Esusu saddles unicorn with $130M Series B](https://techcrunch.com/2022/01/27/daily-crunch-4-years-after-launch-fintech-platform-esusu-saddles-unicorn-with-130m-series-b/)
-- [SpaceX now aims to launch an Earth-observation satellite for Italy on Friday &lpar;yes, you can watch it live&rpar;](https://www.space.com/spacex-launch-italian-csg-2-satellite-january-2022)
 <!-- BLOG-POST-LIST:END -->
 
 ---
