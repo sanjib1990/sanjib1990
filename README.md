@@ -95,8 +95,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [3 experiments for early-stage founders seeking product-market fit](https://techcrunch.com/2022/01/28/3-experiments-for-early-stage-founders-seeking-product-market-fit/)
 - [Smartphone shipments grew last year, for the first time since 2017](https://techcrunch.com/2022/01/28/smartphone-shipments-grew-last-year-for-the-first-time-since-2017/)
-- [See Mars shine very close to moon in Saturday&#39;s pre-dawn sky. Here&#39;s where to look.](https://www.space.com/moon-mars-conjunction-january-2022)
+- [See Mars shine very close to the crescent moon in the pre-dawn sky Saturday. Here&#39;s where to look.](https://www.space.com/moon-mars-conjunction-january-2022)
 - [TechCrunch+ roundup: 2021 edtech report, UBS-Wealthfront deal, falling startup revenue](https://techcrunch.com/2022/01/28/techcrunch-roundup-2021-edtech-report-ubs-wealthfront-deal-falling-startup-revenue/)
 - [Giant &#39;tree stump&#39; impact crater spotted on Mars](https://www.space.com/tree-rings-impact-crater-mars-exomars)
 - [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
@@ -104,7 +105,6 @@
 - [Tesla is selling a microphone for in-car karaoke, but only in China](https://techcrunch.com/2022/01/28/tesla-is-selling-a-microphone-for-in-car-karaoke-but-only-in-china/)
 - [Whistleblowers can protect crypto and DeFi](https://techcrunch.com/2022/01/28/whistleblowers-can-protect-crypto-and-defi/)
 - [The Arctic &#39;ring of fire&#39; solar eclipse of 2021 changed southern auroras. Here&#39;s how.](https://www.space.com/arctic-solar-eclipse-aurora-connection)
-- [Thinking about starting a business? Make TechCrunch Early Stage your first step](https://techcrunch.com/2022/01/28/thinking-about-starting-a-business-make-techcrunch-early-stage-2022-your-first-step/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
