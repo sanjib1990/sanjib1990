@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Space station cargo ship named in honor of late NASA astronaut Piers Sellers](https://www.space.com/northrop-grumman-ng17-piers-sellers-astronaut)
+- [On This Day in Space! Jan. 28, 1986: Space shuttle Challenger explodes after launch](https://www.space.com/39251-on-this-day-in-space.html)
+- [Bullish or bearish? What to expect for Europe VC activity in 2022](https://techcrunch.com/2022/01/28/bullish-or-bearish-what-to-expect-for-europe-vc-activity-in-2022/)
+- [How big is the moon?](https://www.space.com/18135-how-big-is-the-moon.html)
 - [The first Vulcan rocket will launch ashes of Star Trek actors, fans and more into space](https://www.space.com/star-trek-ashes-first-vulcan-rocket-ula)
 - [Why Robinhood is getting hammered today](https://techcrunch.com/2022/01/28/why-robinhood-is-getting-hammered-today/)
 - [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
 - [Best Doctor Who audio dramas](https://www.space.com/best-doctor-who-audio-dramas)
 - [Membership, mentorship or just messy](https://techcrunch.com/2022/01/28/membership-mentorship-or-just-messy/)
 - [Rise is a new calendar app with a scheduling engine for teams](https://techcrunch.com/2022/01/28/rise-is-a-new-calendar-app-with-a-scheduling-engine-for-teams/)
-- [CausaLens gets $45M for no-code technology that introduces cause and effect into AI decision making](https://techcrunch.com/2022/01/28/causalens-gets-45m-for-no-code-technology-that-introduces-cause-and-effect-into-ai-decision-making/)
-- [Asset financiers to the rescue as Bolt plans to sign-up 200,000 new drivers in Africa to meet growing demand for ride-hailing services](https://techcrunch.com/2022/01/28/asset-financiers-to-the-rescue-as-bolt-plans-to-sign-up-200000-new-drivers-in-africa-to-meet-growing-demand-for-ride-hailing-services/)
-- [How big is the universe?](https://www.space.com/24073-how-big-is-the-universe.html)
-- [Event marketing is a ‘team sport,’ and Vendelux is coaching companies to find the best ROI](https://techcrunch.com/2022/01/28/event-marketing-vendelux/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
