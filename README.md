@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India’s Moglix valued at $2.5 billion in new funding](https://techcrunch.com/2022/01/27/moglix-series-f/)
 - [Edtech startups flock to the promise and potential of personalized learning](https://techcrunch.com/2022/01/27/edtech-startups-flock-to-the-promise-and-potential-of-personalized-learning/)
 - [Crossover investors are turning their focus to public stocks, says crossover investor](https://techcrunch.com/2022/01/27/crossover-investors-are-turning-their-focus-to-public-stocks-says-crossover-investor/)
 - [Amazon must pay $2M and end program after price-fixing investigation by Washington AG](https://techcrunch.com/2022/01/27/amazon-antitrust-lawsuit-washington/)
@@ -104,7 +105,6 @@
 - [Daily Crunch: 4 years after launch, fintech platform Esusu saddles unicorn with $130M Series B](https://techcrunch.com/2022/01/27/daily-crunch-4-years-after-launch-fintech-platform-esusu-saddles-unicorn-with-130m-series-b/)
 - [SpaceX now aims to launch an Earth-observation satellite for Italy on Friday &lpar;yes, you can watch it live&rpar;](https://www.space.com/spacex-launch-italian-csg-2-satellite-january-2022)
 - [Google Play is getting an ‘Offers’ tab to display deals on games and apps](https://techcrunch.com/2022/01/27/google-play-is-getting-an-offers-tab-to-display-deals-on-games-and-apps/)
-- [Apple hits record revenue as iPhone sales defy supply chain shortages](https://techcrunch.com/2022/01/27/apple-hits-record-revenue-as-iphone-sales-defy-supply-chain-shortages/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
