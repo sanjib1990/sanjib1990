@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Giant &#39;tree stump&#39; impact crater spotted on Mars](https://www.space.com/tree-rings-impact-crater-mars-exomars)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [To cool down China’s overheated robotics industry, go back to the basics](https://techcrunch.com/2022/01/28/to-cool-down-chinas-overheated-robotics-industry-go-back-to-the-basics/)
 - [Tesla is selling a microphone for in-car karaoke, but only in China](https://techcrunch.com/2022/01/28/tesla-is-selling-a-microphone-for-in-car-karaoke-but-only-in-china/)
 - [Whistleblowers can protect crypto and DeFi](https://techcrunch.com/2022/01/28/whistleblowers-can-protect-crypto-and-defi/)
@@ -103,8 +105,6 @@
 - [Joby Aviation wants to conduct dramatic eVTOL flights over San Francisco Bay](https://techcrunch.com/2022/01/28/joby-aviation-wants-to-conduct-dramatic-evtol-flights-over-san-francisco-bay/)
 - [For NASA, a somber &#39;Day of Remembrance&#39; casts spotlight on astronaut safety to prevent tragedies](https://www.space.com/nasa-day-of-remembrance-astronaut-safety-2022)
 - [Space station cargo ship named in honor of late NASA astronaut Piers Sellers](https://www.space.com/northrop-grumman-ng17-piers-sellers-astronaut)
-- [On This Day in Space! Jan. 28, 1986: Space shuttle Challenger explodes after launch](https://www.space.com/39251-on-this-day-in-space.html)
-- [Bullish or bearish? What to expect for Europe VC activity in 2022](https://techcrunch.com/2022/01/28/bullish-or-bearish-what-to-expect-for-europe-vc-activity-in-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
