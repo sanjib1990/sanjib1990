@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Membership, mentorship or just messy](https://techcrunch.com/2022/01/28/membership-mentorship-or-just-messy/)
+- [Rise is a new calendar app with a scheduling engine for teams](https://techcrunch.com/2022/01/28/rise-is-a-new-calendar-app-with-a-scheduling-engine-for-teams/)
+- [CausaLens gets $45M for no-code technology that introduces cause and effect into AI decision making](https://techcrunch.com/2022/01/28/causalens-gets-45m-for-no-code-technology-that-introduces-cause-and-effect-into-ai-decision-making/)
+- [Asset financiers to the rescue as Bolt plans to sign-up 200,000 new drivers in Africa to meet growing demand for ride-hailing services](https://techcrunch.com/2022/01/28/asset-financiers-to-the-rescue-as-bolt-plans-to-sign-up-200000-new-drivers-in-africa-to-meet-growing-demand-for-ride-hailing-services/)
+- [How big is the universe?](https://www.space.com/24073-how-big-is-the-universe.html)
 - [Event marketing is a ‘team sport,’ and Vendelux is coaching companies to find the best ROI](https://techcrunch.com/2022/01/28/event-marketing-vendelux/)
 - [Canvas gives non-technical teams data exploration knowledge without needing a degree in SQL](https://techcrunch.com/2022/01/28/canvas-gives-non-technical-teams-data-exploration-knowledge-without-needing-a-degree-in-sql/)
 - [Star facts: History, formation and classification](https://www.space.com/57-stars-formation-classification-and-constellations.html)
 - [South Korean proptech startup Zigbang acquires Samsung SDS’ smart home IoT business](https://techcrunch.com/2022/01/28/south-korean-proptech-startup-zigbang-acquires-samsung-sds-smart-home-iot-business/)
-- [SpaceX will launch an Italian Earth-observation satellite today after weather delay. Watch it live.](https://www.space.com/spacex-launch-italian-csg-2-satellite-january-2022)
-- [What is the cosmic microwave background?](https://www.space.com/33892-cosmic-microwave-background.html)
-- [Google will let legacy G Suite users migrate to free Google accounts](https://techcrunch.com/2022/01/28/google-will-let-legacy-g-suite-users-migrate-to-free-google-accounts/)
-- [The first ‘Super Pumped’ trailer is here to dramatize Uber’s reckless ascendance](https://techcrunch.com/2022/01/28/the-first-super-pumped-trailer-is-here-to-dramatize-ubers-reckless-ascendance/)
-- [Japanese company ispace delays its  second private moon mission to 2024](https://www.space.com/ispace-delays-second-moon-mission-2024)
-- [Astronomers detect powerful cosmic object unlike anything they&#39;ve seen before](https://www.space.com/ultra-slow-magnetar-new-stellar-object)
+- [SpaceX aims to launch an Earth-observation satellite for Italy today &lpar;yes, you can watch it live&rpar;](https://www.space.com/spacex-launch-italian-csg-2-satellite-january-2022)
 <!-- BLOG-POST-LIST:END -->
 
 ---
