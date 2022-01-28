@@ -99,12 +99,12 @@
 - [Edtech startups flock to the promise and potential of personalized learning](https://techcrunch.com/2022/01/27/edtech-startups-flock-to-the-promise-and-potential-of-personalized-learning/)
 - [Crossover investors are turning their focus to public stocks, says crossover investor](https://techcrunch.com/2022/01/27/crossover-investors-are-turning-their-focus-to-public-stocks-says-crossover-investor/)
 - [Amazon must pay $2M and end program after price-fixing investigation by Washington AG](https://techcrunch.com/2022/01/27/amazon-antitrust-lawsuit-washington/)
-- [The Higgs boson could have kept our universe from collapsing](https://www.space.com/higgs-particle-universe-collapse-in-multiverse)
-- [SpaceX snags $102 million contract to rocket military supplies and humanitarian aid around the world: report](https://www.space.com/spacex-air-force-102-million-dollar-contract-rocket-transport)
-- [China&#39;s second launch of the year puts radar satellite in orbit](https://www.space.com/china-long-march-4c-rocket-launches-radar-satellite)
 - [Daily Crunch: 4 years after launch, fintech platform Esusu saddles unicorn with $130M Series B](https://techcrunch.com/2022/01/27/daily-crunch-4-years-after-launch-fintech-platform-esusu-saddles-unicorn-with-130m-series-b/)
-- [SpaceX now aims to launch an Earth-observation satellite for Italy on Friday &lpar;yes, you can watch it live&rpar;](https://www.space.com/spacex-launch-italian-csg-2-satellite-january-2022)
 - [Google Play is getting an ‘Offers’ tab to display deals on games and apps](https://techcrunch.com/2022/01/27/google-play-is-getting-an-offers-tab-to-display-deals-on-games-and-apps/)
+- [Apple hits record revenue as iPhone sales defy supply chain shortages](https://techcrunch.com/2022/01/27/apple-hits-record-revenue-as-iphone-sales-defy-supply-chain-shortages/)
+- [Let’s make the teen Tesla hack a teachable moment](https://techcrunch.com/2022/01/27/lets-make-the-teen-tesla-hack-a-teachable-moment/)
+- [Latest Apple OS betas deliver Face ID with a mask and Universal Control](https://techcrunch.com/2022/01/27/latest-apple-os-betas-deliver-face-id-with-a-mask-and-universal-control/)
+- [New modes of ownership: From torrents to music NFTs](https://techcrunch.com/2022/01/27/new-modes-of-ownership-from-torrents-to-music-nfts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
