@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Arctic &#39;ring of fire&#39; solar eclipse of 2021 changed southern auroras. Here&#39;s how.](https://www.space.com/arctic-solar-eclipse-aurora-connection)
+- [Thinking about starting a business? Make TechCrunch Early Start 2022 your first step](https://techcrunch.com/2022/01/28/thinking-about-starting-a-business-make-techcrunch-early-start-2022-your-first-step/)
+- [Joby Aviation wants to conduct dramatic eVTOL flights over San Francisco Bay](https://techcrunch.com/2022/01/28/joby-aviation-wants-to-conduct-dramatic-evtol-flights-over-san-francisco-bay/)
+- [For NASA, a somber &#39;Day of Remembrance&#39; casts spotlight on astronaut safety to prevent tragedies](https://www.space.com/nasa-day-of-remembrance-astronaut-safety-2022)
 - [Space station cargo ship named in honor of late NASA astronaut Piers Sellers](https://www.space.com/northrop-grumman-ng17-piers-sellers-astronaut)
 - [On This Day in Space! Jan. 28, 1986: Space shuttle Challenger explodes after launch](https://www.space.com/39251-on-this-day-in-space.html)
 - [Bullish or bearish? What to expect for Europe VC activity in 2022](https://techcrunch.com/2022/01/28/bullish-or-bearish-what-to-expect-for-europe-vc-activity-in-2022/)
 - [How big is the moon?](https://www.space.com/18135-how-big-is-the-moon.html)
 - [The first Vulcan rocket will launch ashes of Star Trek actors, fans and more into space](https://www.space.com/star-trek-ashes-first-vulcan-rocket-ula)
 - [Why Robinhood is getting hammered today](https://techcrunch.com/2022/01/28/why-robinhood-is-getting-hammered-today/)
-- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
-- [Best Doctor Who audio dramas](https://www.space.com/best-doctor-who-audio-dramas)
-- [Membership, mentorship or just messy](https://techcrunch.com/2022/01/28/membership-mentorship-or-just-messy/)
-- [Rise is a new calendar app with a scheduling engine for teams](https://techcrunch.com/2022/01/28/rise-is-a-new-calendar-app-with-a-scheduling-engine-for-teams/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
