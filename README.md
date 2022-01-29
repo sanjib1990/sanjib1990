@@ -78,7 +78,7 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [the future of NetworkChuck....](https://www.youtube.com/watch?v=UiO6uFHqwbU)
+- [i hired my replacement….kind of &lpar;the FUTURE of NetworkChuck&rpar;](https://www.youtube.com/watch?v=UiO6uFHqwbU)
 - [I created a Command Line Game for you // 5-Minute Node.js CLI Project](https://www.youtube.com/watch?v=_oHByo8tiEY)
 - [Metaverse is 30yrs old - Why Facebook is late to the party - Computerphile](https://www.youtube.com/watch?v=vw7602ULHWA)
 - [mining crypto with your internet?!?!](https://www.youtube.com/watch?v=El19X-zHt-c)
