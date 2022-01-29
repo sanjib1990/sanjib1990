@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html)
-- [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html)
+- [SpaceX to launch Earth-observation satellite for Italy today &lpar;yes, you can watch it live&rpar;](https://www.space.com/spacex-launch-italian-csg-2-satellite-january-2022)
 - [China lays out ambitious space plans for next 5 years](https://www.space.com/china-five-year-plan-space-exploration-2022)
+- [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html)
+- [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html)
+- [The James Webb Space Telescope&#39;s 1st target star is in the Big Dipper. Here&#39;s where to see it.](https://www.space.com/james-webb-space-telescope-first-target-star)
+- [How NASA&#39;s James Webb Space Telescope project chief used Jimmy Buffett quotes to thank mission team](https://www.space.com/james-webb-space-telescope-team-jimmy-buffett-thank-you)
+- [Titan Comics transforms David Bowie&#39;s &#39;The Man Who Fell To Earth&#39; into a new graphic novel](https://www.space.com/david-bowie-the-man-who-fell-to-earth-graphic-novel-titan-comics)
+- [Challenger artifacts intended for President Reagan recovered after 36 years](https://www.space.com/shuttle-challenger-reagan-artifacts-recovered)
 - [Dashworks is a search engine for your company’s sprawling internal knowledge](https://techcrunch.com/2022/01/28/dashworks-is-a-search-engine-for-your-companys-sprawling-internal-knowledge/)
 - [SpaceX delays rocket launch carrying Italian satellite due to bad weather](https://www.space.com/spacex-launch-delay-italy-earth-observation-satellite)
-- [SpaceX now aims to launch an Earth-observation satellite for Italy on Saturday &lpar;yes, you can watch it live&rpar;](https://www.space.com/spacex-launch-italian-csg-2-satellite-january-2022)
-- [Daily Crunch: Google will offer G Suite legacy edition users a ‘no-cost option’](https://techcrunch.com/2022/01/28/daily-crunch-google-will-offer-g-suite-legacy-edition-users-a-no-cost-option/)
-- [What Is Dark Matter?](https://www.space.com/20930-dark-matter.html)
-- [3 experiments for early-stage founders seeking product-market fit](https://techcrunch.com/2022/01/28/3-experiments-for-early-stage-founders-seeking-product-market-fit/)
-- [Smartphone shipments grew last year, for the first time since 2017](https://techcrunch.com/2022/01/28/smartphone-shipments-grew-last-year-for-the-first-time-since-2017/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
