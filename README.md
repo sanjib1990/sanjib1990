@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The return of the lean, green startup](https://techcrunch.com/2022/01/29/the-return-of-the-lean-green-startup/)
+- [This Week in Apps: iPhone payments, App Store upgrades, Snapchat’s AR shopping](https://techcrunch.com/2022/01/29/this-week-in-apps-iphone-payments-app-store-upgrades-snapchats-ar-shopping/)
 - [Frozen giants, and why everyone is competing with everyone regardless of what they say](https://techcrunch.com/2022/01/29/frozen-giants-and-why-everyone-is-competing-with-everyone-regardless-of-what-they-say/)
 - [Please make a dumb car](https://techcrunch.com/2022/01/29/please-make-a-dumb-car/)
 - [Lessons from a fintech founder: Solving for C by going B2B](https://techcrunch.com/2022/01/29/lessons-from-a-fintech-founder-solving-for-c-by-going-b2b/)
@@ -103,8 +105,6 @@
 - [SpaceX to launch Earth-observation satellite for Italy today &lpar;yes, you can watch it live&rpar;](https://www.space.com/spacex-launch-italian-csg-2-satellite-january-2022)
 - [China lays out ambitious space plans for next 5 years](https://www.space.com/china-five-year-plan-space-exploration-2022)
 - [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html)
-- [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html)
-- [The James Webb Space Telescope&#39;s 1st target star is in the Big Dipper. Here&#39;s where to see it.](https://www.space.com/james-webb-space-telescope-first-target-star)
 <!-- BLOG-POST-LIST:END -->
 
 ---
