@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Please make a dumb car](https://techcrunch.com/2022/01/29/please-make-a-dumb-car/)
 - [Lessons from a fintech founder: Solving for C by going B2B](https://techcrunch.com/2022/01/29/lessons-from-a-fintech-founder-solving-for-c-by-going-b2b/)
 - [On This Day in Space! Jan. 29, 1989: Phobos 2 enters orbit around Mars](https://www.space.com/39251-on-this-day-in-space.html)
 - [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
@@ -104,7 +105,6 @@
 - [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html)
 - [The James Webb Space Telescope&#39;s 1st target star is in the Big Dipper. Here&#39;s where to see it.](https://www.space.com/james-webb-space-telescope-first-target-star)
 - [How NASA&#39;s James Webb Space Telescope project chief used Jimmy Buffett quotes to thank mission team](https://www.space.com/james-webb-space-telescope-team-jimmy-buffett-thank-you)
-- [Titan Comics transforms David Bowie&#39;s &#39;The Man Who Fell To Earth&#39; into a new graphic novel](https://www.space.com/david-bowie-the-man-who-fell-to-earth-graphic-novel-titan-comics)
 <!-- BLOG-POST-LIST:END -->
 
 ---
