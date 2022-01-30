@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New &#39;Aliens Artbook&#39; celebrates the 35th anniversary of James Cameron&#39;s iconic sci-fi sequel](https://www.space.com/aliens-artbook-titan-books-movie-35th-anniversary)
+- [How NASA&#39;s James Webb Space Telescope will get ready for its first cosmic observations](https://www.space.com/james-webb-space-telescope-activation-plans)
+- [Curious Kids: How exactly does a spaceship get into space?](https://www.space.com/curious-kids-how-does-a-spaceship-get-into-space)
+- [SpaceX will now launch an Earth-observation satellite for Italy today &lpar;yes, you can watch it live&rpar;](https://www.space.com/spacex-launch-italian-csg-2-satellite-january-2022)
 - [SpaceX delays back-to-back Falcon 9 rocket launches due to bad weather](https://www.space.com/spacex-delays-back-to-back-launches-january-2022)
-- [SpaceX will now launch an Earth-observation satellite for Italy on Sunday &lpar;yes, you can watch it live&rpar;](https://www.space.com/spacex-launch-italian-csg-2-satellite-january-2022)
 - [Joni Mitchell joins Neil Young, pulls her music from Spotify over vaccine misinformation](https://techcrunch.com/2022/01/29/joni-mitchell-joins-neil-young-pulls-her-music-from-spotify-over-vaccine-misinformation/)
 - [The return of the lean, green startup](https://techcrunch.com/2022/01/29/the-return-of-the-lean-green-startup/)
 - [This Week in Apps: iPhone payments, App Store upgrades, Snapchat’s AR shopping](https://techcrunch.com/2022/01/29/this-week-in-apps-iphone-payments-app-store-upgrades-snapchats-ar-shopping/)
 - [Frozen giants, and why everyone is competing with everyone regardless of what they say](https://techcrunch.com/2022/01/29/frozen-giants-and-why-everyone-is-competing-with-everyone-regardless-of-what-they-say/)
 - [Please make a dumb car](https://techcrunch.com/2022/01/29/please-make-a-dumb-car/)
-- [Lessons from a fintech founder: Solving for C by going B2B](https://techcrunch.com/2022/01/29/lessons-from-a-fintech-founder-solving-for-c-by-going-b2b/)
-- [On This Day in Space! Jan. 29, 1989: Phobos 2 enters orbit around Mars](https://www.space.com/39251-on-this-day-in-space.html)
-- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
