@@ -78,6 +78,7 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [how to NOT be a hacking noob in 2022 // ft. John Hammond](https://www.youtube.com/watch?v=5dxuppvclxE)
 - [i hired my replacement….kind of &lpar;the FUTURE of NetworkChuck&rpar;](https://www.youtube.com/watch?v=UiO6uFHqwbU)
 - [I created a Command Line Game for you // 5-Minute Node.js CLI Project](https://www.youtube.com/watch?v=_oHByo8tiEY)
 - [Metaverse is 30yrs old - Why Facebook is late to the party - Computerphile](https://www.youtube.com/watch?v=vw7602ULHWA)
@@ -87,7 +88,6 @@
 - [How to buy Stocks with JavaScript // Algo Trading Tutorial for Dummies](https://www.youtube.com/watch?v=BrcugNqRwUs)
 - [K-d Trees - Computerphile](https://www.youtube.com/watch?v=BK5x7IUTIyU)
 - [How to Land a 100K/yr Tech Job - 10 Strategies](https://www.youtube.com/watch?v=Xg9ihH15Uto)
-- [Part 6: Finding the Nullspace: Solving Ax = 0 by Elimination](https://www.youtube.com/watch?v=JFIaRtKNP2E)
 <!-- YOUTUBE:END -->
 
 ---
