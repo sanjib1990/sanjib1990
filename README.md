@@ -95,6 +95,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Star Trek: Picard&#39; audio drama &#39;No Man&#39;s Land&#39; unites Michelle Hurd and Jeri Ryan](https://www.space.com/star-trek-picard-no-mans-land-audio-drama)
+- [South Atlantic Anomaly: Have astronomers finally explained space&#39;s Bermuda Triangle?](https://www.space.com/bermuda-triangle-in-space.html)
+- [Tonga eruption was so intense, it caused the atmosphere to ring like a bell](https://www.space.com/tonga-volcano-eruption-pressure-waves)
 - [New &#39;Aliens Artbook&#39; celebrates the 35th anniversary of James Cameron&#39;s iconic sci-fi sequel](https://www.space.com/aliens-artbook-titan-books-movie-35th-anniversary)
 - [How NASA&#39;s James Webb Space Telescope will get ready for its first cosmic observations](https://www.space.com/james-webb-space-telescope-activation-plans)
 - [Curious Kids: How exactly does a spaceship get into space?](https://www.space.com/curious-kids-how-does-a-spaceship-get-into-space)
@@ -102,9 +105,6 @@
 - [SpaceX delays back-to-back Falcon 9 rocket launches due to bad weather](https://www.space.com/spacex-delays-back-to-back-launches-january-2022)
 - [Joni Mitchell joins Neil Young, pulls her music from Spotify over vaccine misinformation](https://techcrunch.com/2022/01/29/joni-mitchell-joins-neil-young-pulls-her-music-from-spotify-over-vaccine-misinformation/)
 - [The return of the lean, green startup](https://techcrunch.com/2022/01/29/the-return-of-the-lean-green-startup/)
-- [This Week in Apps: iPhone payments, App Store upgrades, Snapchat’s AR shopping](https://techcrunch.com/2022/01/29/this-week-in-apps-iphone-payments-app-store-upgrades-snapchats-ar-shopping/)
-- [Frozen giants, and why everyone is competing with everyone regardless of what they say](https://techcrunch.com/2022/01/29/frozen-giants-and-why-everyone-is-competing-with-everyone-regardless-of-what-they-say/)
-- [Please make a dumb car](https://techcrunch.com/2022/01/29/please-make-a-dumb-car/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
