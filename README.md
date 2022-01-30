@@ -96,6 +96,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Fintech Roundup: Better.com workers leaving in ‘droves’ in wake of CEO Vishal Garg’s return](https://techcrunch.com/2022/01/30/fintech-roundup-better-com-workers-leaving-in-droves-in-wake-of-vishal-gargs-return-as-ceo/)
+- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
+- [On This Day in Space! Jan. 30, 1964: Ranger 6 launches to the moon!](https://www.space.com/39251-on-this-day-in-space.html)
 - [Investigate the retro sci-fi realm of Simon Stålenhag in new &#39;Tales From the Loop: The Board Game&#39;](https://www.space.com/tales-from-the-loop-board-game)
 - [&#39;Star Trek: Picard&#39; audio drama &#39;No Man&#39;s Land&#39; unites Michelle Hurd and Jeri Ryan](https://www.space.com/star-trek-picard-no-mans-land-audio-drama)
 - [Tonga eruption was so intense, it caused the atmosphere to ring like a bell](https://www.space.com/tonga-volcano-eruption-pressure-waves)
@@ -103,8 +105,6 @@
 - [How NASA&#39;s James Webb Space Telescope will get ready for its first cosmic observations](https://www.space.com/james-webb-space-telescope-activation-plans)
 - [Curious Kids: How exactly does a spaceship get into space?](https://www.space.com/curious-kids-how-does-a-spaceship-get-into-space)
 - [SpaceX will now launch an Earth-observation satellite for Italy today &lpar;yes, you can watch it live&rpar;](https://www.space.com/spacex-launch-italian-csg-2-satellite-january-2022)
-- [SpaceX delays back-to-back Falcon 9 rocket launches due to bad weather](https://www.space.com/spacex-delays-back-to-back-launches-january-2022)
-- [Joni Mitchell joins Neil Young, pulls her music from Spotify over vaccine misinformation](https://techcrunch.com/2022/01/29/joni-mitchell-joins-neil-young-pulls-her-music-from-spotify-over-vaccine-misinformation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
