@@ -95,8 +95,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fintech Roundup: Better.com workers leaving in ‘droves’ in wake of CEO Vishal Garg’s return](https://techcrunch.com/2022/01/30/fintech-roundup-better-com-workers-leaving-in-droves-in-wake-of-vishal-gargs-return-as-ceo/)
+- [Investigate the retro sci-fi realm of Simon Stålenhag in new &#39;Tales From the Loop: The Board Game&#39;](https://www.space.com/tales-from-the-loop-board-game)
 - [&#39;Star Trek: Picard&#39; audio drama &#39;No Man&#39;s Land&#39; unites Michelle Hurd and Jeri Ryan](https://www.space.com/star-trek-picard-no-mans-land-audio-drama)
-- [South Atlantic Anomaly: Have astronomers finally explained space&#39;s Bermuda Triangle?](https://www.space.com/bermuda-triangle-in-space.html)
 - [Tonga eruption was so intense, it caused the atmosphere to ring like a bell](https://www.space.com/tonga-volcano-eruption-pressure-waves)
 - [New &#39;Aliens Artbook&#39; celebrates the 35th anniversary of James Cameron&#39;s iconic sci-fi sequel](https://www.space.com/aliens-artbook-titan-books-movie-35th-anniversary)
 - [How NASA&#39;s James Webb Space Telescope will get ready for its first cosmic observations](https://www.space.com/james-webb-space-telescope-activation-plans)
@@ -104,7 +105,6 @@
 - [SpaceX will now launch an Earth-observation satellite for Italy today &lpar;yes, you can watch it live&rpar;](https://www.space.com/spacex-launch-italian-csg-2-satellite-january-2022)
 - [SpaceX delays back-to-back Falcon 9 rocket launches due to bad weather](https://www.space.com/spacex-delays-back-to-back-launches-january-2022)
 - [Joni Mitchell joins Neil Young, pulls her music from Spotify over vaccine misinformation](https://techcrunch.com/2022/01/29/joni-mitchell-joins-neil-young-pulls-her-music-from-spotify-over-vaccine-misinformation/)
-- [The return of the lean, green startup](https://techcrunch.com/2022/01/29/the-return-of-the-lean-green-startup/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
