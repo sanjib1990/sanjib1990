@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hubble Space Telescope: Pictures, facts &amp; history](https://www.space.com/15892-hubble-space-telescope.html)
+- [SpaceX will now launch an Earth-observation satellite for Italy today &lpar;yes, you can watch it live&rpar;](https://www.space.com/spacex-launch-italian-csg-2-satellite-january-2022)
 - [Fintech Roundup: Better.com workers leaving in ‘droves’ in wake of CEO Vishal Garg’s return](https://techcrunch.com/2022/01/30/fintech-roundup-better-com-workers-leaving-in-droves-in-wake-of-vishal-gargs-return-as-ceo/)
 - [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
 - [On This Day in Space! Jan. 30, 1964: Ranger 6 launches to the moon!](https://www.space.com/39251-on-this-day-in-space.html)
@@ -103,8 +105,6 @@
 - [Tonga eruption was so intense, it caused the atmosphere to ring like a bell](https://www.space.com/tonga-volcano-eruption-pressure-waves)
 - [New &#39;Aliens Artbook&#39; celebrates the 35th anniversary of James Cameron&#39;s iconic sci-fi sequel](https://www.space.com/aliens-artbook-titan-books-movie-35th-anniversary)
 - [How NASA&#39;s James Webb Space Telescope will get ready for its first cosmic observations](https://www.space.com/james-webb-space-telescope-activation-plans)
-- [Curious Kids: How exactly does a spaceship get into space?](https://www.space.com/curious-kids-how-does-a-spaceship-get-into-space)
-- [SpaceX will now launch an Earth-observation satellite for Italy today &lpar;yes, you can watch it live&rpar;](https://www.space.com/spacex-launch-italian-csg-2-satellite-january-2022)
 <!-- BLOG-POST-LIST:END -->
 
 ---
