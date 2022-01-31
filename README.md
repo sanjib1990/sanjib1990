@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How one founder aims to both improve women’s health right now, and the gender gap in research](https://techcrunch.com/2022/01/31/how-one-founder-aims-to-both-improve-womens-health-right-now-and-the-gender-gap-in-research/)
+- [Ember expands into cold chain medical shipping with new device, Cardinal Health partnership](https://techcrunch.com/2022/01/31/ember-expands-into-cold-chain-medical-shipping-with-new-device-cardinal-health-partnership/)
 - [Following his fiery Twitter tirades, Bolt founder Ryan Breslow is no longer CEO — and he says it’s his choice](https://techcrunch.com/2022/01/31/ryanbreslow-bolt/)
 - [Come hang with us for live recordings of TechCrunch podcasts Equity and Found](https://techcrunch.com/2022/01/31/come-hang-with-us-for-live-recordings-of-techcrunch-podcasts-equity-and-found/)
 - [Pinterest’s AR shopping feature expands to include furniture and home décor](https://techcrunch.com/2022/01/31/pinterests-ar-shopping-feature-expands-to-include-furniture-and-home-decor/)
@@ -103,8 +105,6 @@
 - [Equity Monday: If you don’t want to be criticized for your editorial choices, don’t make editorial choices](https://techcrunch.com/2022/01/31/equity-monday-if-you-dont-want-to-be-criticized-for-your-editorial-choices-dont-make-editorial-choices/)
 - [Spotify, Joe Rogan address COVID-19 content backlash](https://techcrunch.com/2022/01/31/spotify-joe-rogan-address-covid-19-content-backlash/)
 - [Joe Rogan, economics, and why capitalism is making people blame the CCP](https://techcrunch.com/2022/01/31/joe-rogan-economics-and-why-capitalism-is-making-people-blame-the-ccp/)
-- [New capital fuels Purely Elizabeth’s next natural food phase](https://techcrunch.com/2022/01/31/new-capital-fuels-purely-elizabeths-next-natural-food-phase/)
-- [What is the temperature on Mars?](https://www.space.com/16907-what-is-the-temperature-of-mars.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
