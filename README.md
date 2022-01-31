@@ -95,6 +95,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Popular puzzle game Wordle is being purchased by The New York Times](https://techcrunch.com/2022/01/31/popular-puzzle-game-wordle-is-being-purchased-by-the-new-york-times/)
+- [Following Webb’s Arrival at L2, Telescope Commissioning Set to Begin](https://blogs.nasa.gov/webb/2022/01/31/following-webbs-arrival-at-l2-telescope-commissioning-set-to-begin/)
+- [February new moon 2022: The moon swings by Jupiter while winter constellations shine](https://www.space.com/17561-new-moon-explained-lunar-phases.html)
 - [Meta brings 3D avatars to Instagram, rolls out new options for Facebook and Messenger](https://techcrunch.com/2022/01/31/meta-brings-3d-avatars-to-instagram-rolls-out-new-options-for-facebook-and-messenger/)
 - [Will the Citrix-Tibco merger create enterprise magic? Vista clearly thinks so](https://techcrunch.com/2022/01/31/will-the-citrix-tibco-merger-create-enterprise-magic-vista-clearly-thinks-so/)
 - [North Korean missile test captures photos of Earth from space: report](https://www.space.com/north-korea-missile-test-earth-space-photos)
@@ -102,9 +105,6 @@
 - [Success of web3 hinges on remedying its security challenges](https://techcrunch.com/2022/01/31/success-of-web3-hinges-on-remedying-its-security-challenges/)
 - [Paradigm invests in Solana wallet app Phantom at $1.2 billion valuation](https://techcrunch.com/2022/01/31/paradigm-invests-in-solana-wallet-app-phantom-at-1-2-billion-valuation/)
 - [An app developer’s lawsuit over rejections and scammers is allowed to proceed, judge rules](https://techcrunch.com/2022/01/31/an-app-developers-lawsuit-over-rejections-and-scammers-is-allowed-to-proceed-judge-rules/)
-- [SpaceX double vision: These photos show two Falcon 9 rockets on their pads for back-to-back launches](https://www.space.com/spacex-falcon-9-rockets-on-launch-pad-same-time-january-2022)
-- [Sony snaps up ‘Halo’ and ‘Destiny’ creator Bungie for $3.6B](https://techcrunch.com/2022/01/31/sony-snaps-up-halo-and-destiny-creator-bungie-for-3-6b/)
-- [Best flashlights 2022: essential for stargazing and night trekking](https://www.space.com/best-flashlights-stargazing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
