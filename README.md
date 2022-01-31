@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Max Q: NFTs… but for space stuff](https://techcrunch.com/2022/01/31/max-q-nfts-but-for-space-stuff/)
+- [SpaceX will now launch an Earth-observation satellite for Italy today &lpar;yes, you can watch it live&rpar;](https://www.space.com/spacex-launch-italian-csg-2-satellite-january-2022)
 - [Popular puzzle game Wordle is being purchased by The New York Times](https://techcrunch.com/2022/01/31/popular-puzzle-game-wordle-is-being-purchased-by-the-new-york-times/)
 - [Following Webb’s Arrival at L2, Telescope Commissioning Set to Begin](https://blogs.nasa.gov/webb/2022/01/31/following-webbs-arrival-at-l2-telescope-commissioning-set-to-begin/)
 - [February new moon 2022: The moon swings by Jupiter while winter constellations shine](https://www.space.com/17561-new-moon-explained-lunar-phases.html)
@@ -103,8 +105,6 @@
 - [North Korean missile test captures photos of Earth from space: report](https://www.space.com/north-korea-missile-test-earth-space-photos)
 - [How to build and maintain momentum in your fundraising process](https://techcrunch.com/2022/01/31/how-to-build-and-maintain-momentum-in-your-fundraising-process/)
 - [Success of web3 hinges on remedying its security challenges](https://techcrunch.com/2022/01/31/success-of-web3-hinges-on-remedying-its-security-challenges/)
-- [Paradigm invests in Solana wallet app Phantom at $1.2 billion valuation](https://techcrunch.com/2022/01/31/paradigm-invests-in-solana-wallet-app-phantom-at-1-2-billion-valuation/)
-- [An app developer’s lawsuit over rejections and scammers is allowed to proceed, judge rules](https://techcrunch.com/2022/01/31/an-app-developers-lawsuit-over-rejections-and-scammers-is-allowed-to-proceed-judge-rules/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
