@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New capital fuels Purely Elizabeth’s next natural food phase](https://techcrunch.com/2022/01/31/new-capital-fuels-purely-elizabeths-next-natural-food-phase/)
+- [What is the temperature on Mars?](https://www.space.com/16907-what-is-the-temperature-of-mars.html)
+- [The greatest spaceships of science fiction](https://www.space.com/42312-greatest-spaceships-of-science-fiction.html)
+- [Walmart expands its home services offerings via new partnership with Angi](https://techcrunch.com/2022/01/31/walmart-expands-its-home-services-offerings-via-new-partnership-with-angi/)
 - [Citrix to be acquired by Vista and Evergreen/Elliott in a $16.5B all-cash deal, will be merged with Tibco to create SaaS powerhouse](https://techcrunch.com/2022/01/31/citrix-to-be-acquired-by-vista-and-evergreen-elliott-in-a-16-5b-all-cash-deal-will-be-merged-with-tibco-to-create-saas-powerhouse/)
 - [Gandeeva Therapeutics raises $40m zoom in on biomolecules – and create new drugs in the process](https://techcrunch.com/2022/01/31/gandeeva-therapeutics-raises-40m-zoom-in-on-biomolecules-and-create-new-drugs-in-the-process/)
 - [AllSpice thinks hardware developers lack their own ‘GitHub,’ so it is building one](https://techcrunch.com/2022/01/31/allspice-thinks-hardware-developers-lack-their-own-github-so-it-is-building-one/)
 - [Sunday competitor Qlub emerges with $17M Seed round from Cherry and Point Nine](https://techcrunch.com/2022/01/31/sunday-competitor-qlub-emerges-with-17m-seed-round-from-cherry-and-point-nine/)
 - [TCV, looking to bond with younger startups, has raised a new $460 million fund to back them](https://techcrunch.com/2022/01/31/tcv-looking-to-bond-with-younger-startups-has-raised-a-new-460-million-fund-to-back-them/)
 - [On This Day in Space! Jan. 31, 1961: Ham the chimpanzee takes flight](https://www.space.com/39251-on-this-day-in-space.html)
-- [SpaceX will now launch an Earth-observation satellite for Italy today &lpar;yes, you can watch it live&rpar;](https://www.space.com/spacex-launch-italian-csg-2-satellite-january-2022)
-- [China prepares its Long March 8 rocket for second mission](https://www.space.com/china-long-march-8-rocket-prepares-second-flight)
-- [The Station: Waymo sues to protect trade secrets, Wisk lands more Boeing capital and a chat with Toyota’s chief scientist](https://techcrunch.com/2022/01/31/the-station-waymo-sues-to-protect-trade-secrets-wisk-lands-more-boeing-capital-and-a-chat-with-toyotas-chief-scientist/)
-- [Why it’s time for a new Stargate series](https://www.space.com/why-its-time-for-a-new-stargate-series)
 <!-- BLOG-POST-LIST:END -->
 
 ---
