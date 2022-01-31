@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Following his fiery Twitter tirades, Bolt founder Ryan Breslow is no longer CEO — and he says it’s his choice](https://techcrunch.com/2022/01/31/ryanbreslow-bolt/)
+- [Come hang with us for live recordings of TechCrunch podcasts Equity and Found](https://techcrunch.com/2022/01/31/come-hang-with-us-for-live-recordings-of-techcrunch-podcasts-equity-and-found/)
+- [Pinterest’s AR shopping feature expands to include furniture and home décor](https://techcrunch.com/2022/01/31/pinterests-ar-shopping-feature-expands-to-include-furniture-and-home-decor/)
+- [Ancient solar storm smashed Earth at the wrong part of the sun&#39;s cycle — and scientists are concerned](https://www.space.com/ancient-solar-storm-solar-minimum)
 - [Deepnote raises $20M for its collaborative data science notebooks](https://techcrunch.com/2022/01/31/deepnote-raises-20m-for-its-collaborative-data-science-notebooks/)
 - [Equity Monday: If you don’t want to be criticized for your editorial choices, don’t make editorial choices](https://techcrunch.com/2022/01/31/equity-monday-if-you-dont-want-to-be-criticized-for-your-editorial-choices-dont-make-editorial-choices/)
-- [Spotify, Joe Rogan address Covid-19 content backlash](https://techcrunch.com/2022/01/31/spotify-joe-rogan-address-covid-19-content-backlash/)
+- [Spotify, Joe Rogan address COVID-19 content backlash](https://techcrunch.com/2022/01/31/spotify-joe-rogan-address-covid-19-content-backlash/)
 - [Joe Rogan, economics, and why capitalism is making people blame the CCP](https://techcrunch.com/2022/01/31/joe-rogan-economics-and-why-capitalism-is-making-people-blame-the-ccp/)
 - [New capital fuels Purely Elizabeth’s next natural food phase](https://techcrunch.com/2022/01/31/new-capital-fuels-purely-elizabeths-next-natural-food-phase/)
 - [What is the temperature on Mars?](https://www.space.com/16907-what-is-the-temperature-of-mars.html)
-- [The greatest spaceships of science fiction](https://www.space.com/42312-greatest-spaceships-of-science-fiction.html)
-- [Walmart expands its home services offerings via new partnership with Angi](https://techcrunch.com/2022/01/31/walmart-expands-its-home-services-offerings-via-new-partnership-with-angi/)
-- [Citrix to be acquired by Vista and Evergreen/Elliott in a $16.5B all-cash deal, will be merged with Tibco to create SaaS powerhouse](https://techcrunch.com/2022/01/31/citrix-to-be-acquired-by-vista-and-evergreen-elliott-in-a-16-5b-all-cash-deal-will-be-merged-with-tibco-to-create-saas-powerhouse/)
-- [Gandeeva Therapeutics raises $40m zoom in on biomolecules – and create new drugs in the process](https://techcrunch.com/2022/01/31/gandeeva-therapeutics-raises-40m-zoom-in-on-biomolecules-and-create-new-drugs-in-the-process/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
