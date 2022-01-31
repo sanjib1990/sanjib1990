@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Station: Waymo sues to protect trade secrets, Wisk lands more Boeing capital and a chat with Toyota’s chief scientist](https://techcrunch.com/2022/01/31/the-station-waymo-sues-to-protect-trade-secrets-wisk-lands-more-boeing-capital-and-a-chat-with-toyotas-chief-scientist/)
+- [Why it’s time for a new Stargate series](https://www.space.com/why-its-time-for-a-new-stargate-series)
+- [Berlin’s Tilo raises seed round to tackle unstructured data sets with a serverless platform](https://techcrunch.com/2022/01/31/berlins-tilo-raises-seed-round-to-tackle-unstructured-data-sets-with-a-serverless-platform/)
+- [New trailer for &#39;Halo&#39; TV series reveals more from Master Chief, plus a premiere date](https://www.space.com/halo-tv-series-second-trailer)
+- [The James Webb Space Telescope will map the atmosphere of exoplanets](https://www.space.com/the-james-webb-space-telescope-will-map-the-atmosphere-of-exoplanets)
+- [Bizarre alien planet has layered atmosphere of vaporized metals](https://www.space.com/alien-planet-earth-like-atmospheric-layers)
 - [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [Tiger Global and Greycroft back Nigerian investment app Bamboo in $15M round](https://techcrunch.com/2022/01/31/tiger-global-and-greycroft-back-nigerian-investment-app-bamboo-in-15m-round/)
 - [Egyptian social commerce startup Brimore raises $25M led by IFC and Endure Capital](https://techcrunch.com/2022/01/30/egyptian-social-commerce-startup-brimore-raises-25m-led-by-the-ifc-and-endure-capital/)
 - [Pennylane wants to overhaul the accounting tech stack in France](https://techcrunch.com/2022/01/30/pennylane-wants-to-overhaul-the-accounting-tech-stack-in-france/)
-- [SpaceX delays launch of Italian satellite again, this time because of wayward ship](https://www.space.com/spacex-delays-italian-satellite-launch-wayward-ship)
-- [Norrsken, VCs and 30 unicorn founders set up $200M fund to back growth-stage startups in Africa](https://techcrunch.com/2022/01/30/norrsken-vcs-and-30-unicorn-founders-set-up-200m-fund-to-back-growth-stage-startups-in-africa/)
-- [Hubble Space Telescope: Pictures, facts &amp; history](https://www.space.com/15892-hubble-space-telescope.html)
-- [SpaceX will now launch an Earth-observation satellite for Italy Monday &lpar;yes, you can watch it live&rpar;](https://www.space.com/spacex-launch-italian-csg-2-satellite-january-2022)
-- [Fintech Roundup: Better.com workers leaving in ‘droves’ in wake of CEO Vishal Garg’s return](https://techcrunch.com/2022/01/30/fintech-roundup-better-com-workers-leaving-in-droves-in-wake-of-vishal-gargs-return-as-ceo/)
-- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
