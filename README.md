@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Egyptian social commerce startup Brimore raises $25M led by IFC and Endure Capital](https://techcrunch.com/2022/01/30/egyptian-social-commerce-startup-brimore-raises-25m-led-by-the-ifc-and-endure-capital/)
+- [Pennylane wants to overhaul the accounting tech stack in France](https://techcrunch.com/2022/01/30/pennylane-wants-to-overhaul-the-accounting-tech-stack-in-france/)
 - [SpaceX delays launch of Italian satellite again, this time because of wayward ship](https://www.space.com/spacex-delays-italian-satellite-launch-wayward-ship)
 - [Norrsken, VCs and 30 unicorn founders set up $200M fund to back growth-stage startups in Africa](https://techcrunch.com/2022/01/30/norrsken-vcs-and-30-unicorn-founders-set-up-200m-fund-to-back-growth-stage-startups-in-africa/)
 - [Hubble Space Telescope: Pictures, facts &amp; history](https://www.space.com/15892-hubble-space-telescope.html)
@@ -103,8 +105,6 @@
 - [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
 - [On This Day in Space! Jan. 30, 1964: Ranger 6 launches to the moon!](https://www.space.com/39251-on-this-day-in-space.html)
 - [Investigate the retro sci-fi realm of Simon Stålenhag in new &#39;Tales From the Loop: The Board Game&#39;](https://www.space.com/tales-from-the-loop-board-game)
-- [&#39;Star Trek: Picard&#39; audio drama &#39;No Man&#39;s Land&#39; unites Michelle Hurd and Jeri Ryan](https://www.space.com/star-trek-picard-no-mans-land-audio-drama)
-- [Tonga eruption was so intense, it caused the atmosphere to ring like a bell](https://www.space.com/tonga-volcano-eruption-pressure-waves)
 <!-- BLOG-POST-LIST:END -->
 
 ---
