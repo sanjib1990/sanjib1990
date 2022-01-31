@@ -95,7 +95,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta brings 3D avatars to Instagram, rolls out new options for Facebook and Messenger](https://techcrunch.com/2022/01/31/meta-brings-3d-avatars-to-instagram-rolls-out-new-options-for-facebook-and-messenger/)
 - [Will the Citrix-Tibco merger create enterprise magic? Vista clearly thinks so](https://techcrunch.com/2022/01/31/will-the-citrix-tibco-merger-create-enterprise-magic-vista-clearly-thinks-so/)
+- [North Korean missile test captures photos of Earth from space: report](https://www.space.com/north-korea-missile-test-earth-space-photos)
 - [How to build and maintain momentum in your fundraising process](https://techcrunch.com/2022/01/31/how-to-build-and-maintain-momentum-in-your-fundraising-process/)
 - [Success of web3 hinges on remedying its security challenges](https://techcrunch.com/2022/01/31/success-of-web3-hinges-on-remedying-its-security-challenges/)
 - [Paradigm invests in Solana wallet app Phantom at $1.2 billion valuation](https://techcrunch.com/2022/01/31/paradigm-invests-in-solana-wallet-app-phantom-at-1-2-billion-valuation/)
@@ -103,8 +105,6 @@
 - [SpaceX double vision: These photos show two Falcon 9 rockets on their pads for back-to-back launches](https://www.space.com/spacex-falcon-9-rockets-on-launch-pad-same-time-january-2022)
 - [Sony snaps up ‘Halo’ and ‘Destiny’ creator Bungie for $3.6B](https://techcrunch.com/2022/01/31/sony-snaps-up-halo-and-destiny-creator-bungie-for-3-6b/)
 - [Best flashlights 2022: essential for stargazing and night trekking](https://www.space.com/best-flashlights-stargazing)
-- [How one founder aims to both improve women’s health right now, and the gender gap in research](https://techcrunch.com/2022/01/31/how-one-founder-aims-to-both-improve-womens-health-right-now-and-the-gender-gap-in-research/)
-- [Ember expands into cold chain medical shipping with new device, Cardinal Health partnership](https://techcrunch.com/2022/01/31/ember-expands-into-cold-chain-medical-shipping-with-new-device-cardinal-health-partnership/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
