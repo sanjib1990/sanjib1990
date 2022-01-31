@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [Tiger Global and Greycroft back Nigerian investment app Bamboo in $15M round](https://techcrunch.com/2022/01/31/tiger-global-and-greycroft-back-nigerian-investment-app-bamboo-in-15m-round/)
 - [Egyptian social commerce startup Brimore raises $25M led by IFC and Endure Capital](https://techcrunch.com/2022/01/30/egyptian-social-commerce-startup-brimore-raises-25m-led-by-the-ifc-and-endure-capital/)
 - [Pennylane wants to overhaul the accounting tech stack in France](https://techcrunch.com/2022/01/30/pennylane-wants-to-overhaul-the-accounting-tech-stack-in-france/)
@@ -104,7 +105,6 @@
 - [SpaceX will now launch an Earth-observation satellite for Italy Monday &lpar;yes, you can watch it live&rpar;](https://www.space.com/spacex-launch-italian-csg-2-satellite-january-2022)
 - [Fintech Roundup: Better.com workers leaving in ‘droves’ in wake of CEO Vishal Garg’s return](https://techcrunch.com/2022/01/30/fintech-roundup-better-com-workers-leaving-in-droves-in-wake-of-vishal-gargs-return-as-ceo/)
 - [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
-- [On This Day in Space! Jan. 30, 1964: Ranger 6 launches to the moon!](https://www.space.com/39251-on-this-day-in-space.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
