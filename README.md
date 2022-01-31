@@ -95,6 +95,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX double vision: These photos show two Falcon 9 rockets on their pads for back-to-back launches](https://www.space.com/spacex-falcon-9-rockets-on-launch-pad-same-time-january-2022)
+- [Sony snaps up ‘Halo’ and ‘Destiny’ creator Bungie for $3.6B](https://techcrunch.com/2022/01/31/sony-snaps-up-halo-and-destiny-creator-bungie-for-3-6b/)
+- [Best flashlights 2022: essential for stargazing and night trekking](https://www.space.com/best-flashlights-stargazing)
 - [How one founder aims to both improve women’s health right now, and the gender gap in research](https://techcrunch.com/2022/01/31/how-one-founder-aims-to-both-improve-womens-health-right-now-and-the-gender-gap-in-research/)
 - [Ember expands into cold chain medical shipping with new device, Cardinal Health partnership](https://techcrunch.com/2022/01/31/ember-expands-into-cold-chain-medical-shipping-with-new-device-cardinal-health-partnership/)
 - [Following his fiery Twitter tirades, Bolt founder Ryan Breslow is no longer CEO — and he says it’s his choice](https://techcrunch.com/2022/01/31/ryanbreslow-bolt/)
@@ -102,9 +105,6 @@
 - [Pinterest’s AR shopping feature expands to include furniture and home décor](https://techcrunch.com/2022/01/31/pinterests-ar-shopping-feature-expands-to-include-furniture-and-home-decor/)
 - [Ancient solar storm smashed Earth at the wrong part of the sun&#39;s cycle — and scientists are concerned](https://www.space.com/ancient-solar-storm-solar-minimum)
 - [Deepnote raises $20M for its collaborative data science notebooks](https://techcrunch.com/2022/01/31/deepnote-raises-20m-for-its-collaborative-data-science-notebooks/)
-- [Equity Monday: If you don’t want to be criticized for your editorial choices, don’t make editorial choices](https://techcrunch.com/2022/01/31/equity-monday-if-you-dont-want-to-be-criticized-for-your-editorial-choices-dont-make-editorial-choices/)
-- [Spotify, Joe Rogan address COVID-19 content backlash](https://techcrunch.com/2022/01/31/spotify-joe-rogan-address-covid-19-content-backlash/)
-- [Joe Rogan, economics, and why capitalism is making people blame the CCP](https://techcrunch.com/2022/01/31/joe-rogan-economics-and-why-capitalism-is-making-people-blame-the-ccp/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
