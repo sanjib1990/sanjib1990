@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Will the Citrix-Tibco merger create enterprise magic? Vista clearly thinks so](https://techcrunch.com/2022/01/31/will-the-citrix-tibco-merger-create-enterprise-magic-vista-clearly-thinks-so/)
+- [How to build and maintain momentum in your fundraising process](https://techcrunch.com/2022/01/31/how-to-build-and-maintain-momentum-in-your-fundraising-process/)
+- [Success of web3 hinges on remedying its security challenges](https://techcrunch.com/2022/01/31/success-of-web3-hinges-on-remedying-its-security-challenges/)
+- [Paradigm invests in Solana wallet app Phantom at $1.2 billion valuation](https://techcrunch.com/2022/01/31/paradigm-invests-in-solana-wallet-app-phantom-at-1-2-billion-valuation/)
+- [An app developer’s lawsuit over rejections and scammers is allowed to proceed, judge rules](https://techcrunch.com/2022/01/31/an-app-developers-lawsuit-over-rejections-and-scammers-is-allowed-to-proceed-judge-rules/)
 - [SpaceX double vision: These photos show two Falcon 9 rockets on their pads for back-to-back launches](https://www.space.com/spacex-falcon-9-rockets-on-launch-pad-same-time-january-2022)
 - [Sony snaps up ‘Halo’ and ‘Destiny’ creator Bungie for $3.6B](https://techcrunch.com/2022/01/31/sony-snaps-up-halo-and-destiny-creator-bungie-for-3-6b/)
 - [Best flashlights 2022: essential for stargazing and night trekking](https://www.space.com/best-flashlights-stargazing)
 - [How one founder aims to both improve women’s health right now, and the gender gap in research](https://techcrunch.com/2022/01/31/how-one-founder-aims-to-both-improve-womens-health-right-now-and-the-gender-gap-in-research/)
 - [Ember expands into cold chain medical shipping with new device, Cardinal Health partnership](https://techcrunch.com/2022/01/31/ember-expands-into-cold-chain-medical-shipping-with-new-device-cardinal-health-partnership/)
-- [Following his fiery Twitter tirades, Bolt founder Ryan Breslow is no longer CEO — and he says it’s his choice](https://techcrunch.com/2022/01/31/ryanbreslow-bolt/)
-- [Come hang with us for live recordings of TechCrunch podcasts Equity and Found](https://techcrunch.com/2022/01/31/come-hang-with-us-for-live-recordings-of-techcrunch-podcasts-equity-and-found/)
-- [Pinterest’s AR shopping feature expands to include furniture and home décor](https://techcrunch.com/2022/01/31/pinterests-ar-shopping-feature-expands-to-include-furniture-and-home-decor/)
-- [Ancient solar storm smashed Earth at the wrong part of the sun&#39;s cycle — and scientists are concerned](https://www.space.com/ancient-solar-storm-solar-minimum)
-- [Deepnote raises $20M for its collaborative data science notebooks](https://techcrunch.com/2022/01/31/deepnote-raises-20m-for-its-collaborative-data-science-notebooks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
