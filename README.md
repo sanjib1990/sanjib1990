@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Citrix to be acquired by Vista and Evergreen/Elliott in a $16.5B all-cash deal, will be merged with Tibco to create SaaS powerhouse](https://techcrunch.com/2022/01/31/citrix-to-be-acquired-by-vista-and-evergreen-elliott-in-a-16-5b-all-cash-deal-will-be-merged-with-tibco-to-create-saas-powerhouse/)
 - [Gandeeva Therapeutics raises $40m zoom in on biomolecules – and create new drugs in the process](https://techcrunch.com/2022/01/31/gandeeva-therapeutics-raises-40m-zoom-in-on-biomolecules-and-create-new-drugs-in-the-process/)
 - [AllSpice thinks hardware developers lack their own ‘GitHub,’ so it is building one](https://techcrunch.com/2022/01/31/allspice-thinks-hardware-developers-lack-their-own-github-so-it-is-building-one/)
 - [Sunday competitor Qlub emerges with $17M Seed round from Cherry and Point Nine](https://techcrunch.com/2022/01/31/sunday-competitor-qlub-emerges-with-17m-seed-round-from-cherry-and-point-nine/)
@@ -104,7 +105,6 @@
 - [China prepares its Long March 8 rocket for second mission](https://www.space.com/china-long-march-8-rocket-prepares-second-flight)
 - [The Station: Waymo sues to protect trade secrets, Wisk lands more Boeing capital and a chat with Toyota’s chief scientist](https://techcrunch.com/2022/01/31/the-station-waymo-sues-to-protect-trade-secrets-wisk-lands-more-boeing-capital-and-a-chat-with-toyotas-chief-scientist/)
 - [Why it’s time for a new Stargate series](https://www.space.com/why-its-time-for-a-new-stargate-series)
-- [Berlin’s Tilo raises seed round to tackle unstructured data sets with a serverless platform](https://techcrunch.com/2022/01/31/berlins-tilo-raises-seed-round-to-tackle-unstructured-data-sets-with-a-serverless-platform/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
