@@ -95,6 +95,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Netlify acquires Quirrel](https://techcrunch.com/2022/02/01/netlify-acquires-quirrel/)
+- [Despite bumps, crypto investment starts 2022 with a roar](https://techcrunch.com/2022/02/01/despite-bumps-crypto-investment-starts-2022-with-a-roar/)
+- [How to photograph the moon using a camera: techniques, kit, and settings](https://www.space.com/how-to-photograph-the-moon-camera)
 - [Could the Great Resignation force techies to get career agents?](https://techcrunch.com/2022/02/01/free-agent-series-a/)
 - [MongoDB’s co-founder is trying to universalize robotic deployment](https://techcrunch.com/2022/02/01/mongodbs-founder-is-trying-to-universalize-robotic-deployment/)
 - [How many galaxies are there?](https://www.space.com/25303-how-many-galaxies-are-in-the-universe.html)
@@ -102,9 +105,6 @@
 - [Lunar New Year 2022 roars in with celebratory Google doodle](https://www.space.com/lunar-new-year-2022-google-doodle)
 - [Camila Cabello, Mindy Kaling, Gwyneth Paltrow pour capital into Olipop’s mission to change soda](https://techcrunch.com/2022/02/01/camilla-cabello-mindy-kaling-gwyneth-paltrow-olipop-soda/)
 - [Metronome raises $30M to help software companies shift to usage-based pricing models](https://techcrunch.com/2022/02/01/metronome-raises-30m-to-help-software-companies-shift-to-usage-based-pricing-models/)
-- [Metafy lands $25M to scale its gaming coaching platform](https://techcrunch.com/2022/02/01/metafy-lands-25m-to-scale-its-gaming-coaching-platform/)
-- [Coatue leads another infusion into Lunchbox, which sees ghost kitchens leading restaurant tech revolution](https://techcrunch.com/2022/02/01/coatue-lunchbox-ghost-kitchen-restaurant-tech/)
-- [Withco closes on $32M to help SMBs become property owners with a lease-to-own model](https://techcrunch.com/2022/02/01/withco-closes-on-32m-to-help-smbs-own-and-not-lease-the-buildings-they-occupy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
