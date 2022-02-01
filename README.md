@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Netflix adds more games, including Riot Games’ otherwise paid title ‘Hextech Mayhem’](https://techcrunch.com/2022/02/01/netflix-adds-more-games-including-riot-games-otherwise-paid-title-hextech-mayhem/)
 - [Apple News launches its first daily local newsletter, targeting Bay Area readers](https://techcrunch.com/2022/02/01/apple-news-launches-its-first-daily-local-newsletter-targeting-bay-area-readers/)
 - [Fintech outperformed the market in 2021, and it’s set to do even better](https://techcrunch.com/2022/02/01/fintech-outperformed-the-market-in-2021-and-its-set-to-do-even-better/)
 - [Reddit co-founder Alexis Ohanian’s 776 closes new $500M venture fund](https://techcrunch.com/2022/02/01/reddit-co-founder-alexis-ohanians-776-closes-new-500m-venture-fund/)
@@ -105,7 +106,6 @@
 - [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [Whose Your Landlord raises $2.1M for its rental review and data service](https://techcrunch.com/2022/02/01/whose-your-landlord-raises-2-1m-for-its-rental-review-and-data-service/)
 - [TechCrunch+ roundup: 3 customer experiments, Citrix-Tibco merger, building fundraising momentum](https://techcrunch.com/2022/02/01/techcrunch-roundup-3-customer-experiments-citrix-tibco-merger-building-fundraising-momentum/)
-- [SpaceX&#39;s next Starlink mission may fly Wednesday, setting up rocket launch doubleheader](https://www.space.com/spacex-falcon-9-starlink-nrol-87-double-launch-possible)
 <!-- BLOG-POST-LIST:END -->
 
 ---
