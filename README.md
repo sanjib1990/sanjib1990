@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [These are the biggest French startups according to the French government](https://techcrunch.com/2022/02/01/these-are-the-biggest-french-startups-according-to-the-french-government/)
 - [Nigeria’s AltSchool raises $1M pre-seed to build an alternative school for Africans](https://techcrunch.com/2022/02/01/nigerias-altschool-raises-1m-pre-seed-to-build-an-alternative-school-for-africans/)
 - [HBO Max is expanding to 15 more countries in March](https://techcrunch.com/2022/02/01/hbo-max-is-expanding-to-15-more-countries-in-march/)
 - [GWI raises $180M Series B at $850M valuation for its market research SaaS](https://techcrunch.com/2022/02/01/gwi-series-b/)
@@ -104,7 +105,6 @@
 - [European micromobility startup Dott grabs $70 million](https://techcrunch.com/2022/01/31/european-micromobility-startup-dott-grabs-70-million/)
 - [Upskilling platform Scaler tops $700 million valuation in new funding](https://techcrunch.com/2022/01/31/scaler-upskilling-working-professionals-funding/)
 - [Waymo can keep some driverless data secret for another 22 days](https://techcrunch.com/2022/01/31/waymo-can-keep-some-driverless-data-secret-for-another-22-days/)
-- [SpaceX launches Italian Earth-observation satellite, lands rocket](https://www.space.com/spacex-launch-italian-csg-2-satellite-january-2022)
 <!-- BLOG-POST-LIST:END -->
 
 ---
