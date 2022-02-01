@@ -95,16 +95,17 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Docker makes comeback with over $50M in ARR two years into restructuring](https://techcrunch.com/2022/02/01/docker-makes-comeback-reaching-over-50m-in-arr/)
+- [New Milky Way mosaic reveals nearly 
+ 1,000 strange &#39;filaments&#39; at the heart of our galaxy](https://www.space.com/meerkat-milky-way-mosaic-filaments)
+- [Mars rover Perseverance collects new sample after clearing pebble clog](https://www.space.com/mars-rover-perseverance-clears-clog-collects-sample)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [Whose Your Landlord raises $2.1M for its rental review and data service](https://techcrunch.com/2022/02/01/whose-your-landlord-raises-2-1m-for-its-rental-review-and-data-service/)
 - [TechCrunch+ roundup: 3 customer experiments, Citrix-Tibco merger, building fundraising momentum](https://techcrunch.com/2022/02/01/techcrunch-roundup-3-customer-experiments-citrix-tibco-merger-building-fundraising-momentum/)
 - [SpaceX&#39;s next Starlink mission may fly Wednesday, setting up rocket launch doubleheader](https://www.space.com/spacex-falcon-9-starlink-nrol-87-double-launch-possible)
 - [Can carbon credits for improving forests help save them — and us — from climate change?](https://techcrunch.com/2022/02/01/pina-earth-carbon-credits/)
 - [Firewalla launches its Purple gigabit home firewall](https://techcrunch.com/2022/02/01/firewalla-launches-its-purple-gigabit-home-firewall/)
 - [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html)
-- [Pendo acquires the Mind the Product to boost global product manager community](https://techcrunch.com/2022/02/01/pendo-acquires-the-mind-the-product-to-boost-global-product-manager-community/)
-- [VC-backed DAO startups are racing to define what DAOs actually are](https://techcrunch.com/2022/02/01/vc-backed-dao-startups-are-racing-to-define-what-daos-actually-are/)
-- [Space shuttle Challenger and the disaster that changed NASA forever](https://www.space.com/18084-space-shuttle-challenger.html)
-- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
-- [Cruise, loaded with another $1.35B from SoftBank, opens up driverless ride-hailing to the public](https://techcrunch.com/2022/02/01/cruise-loaded-with-another-1-35b-from-softbank-opens-up-driverless-ride-hailing-to-the-public/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
