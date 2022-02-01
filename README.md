@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Waymo can keep some driverless data secret for another 22 days](https://techcrunch.com/2022/01/31/waymo-can-keep-some-driverless-data-secret-for-another-22-days/)
 - [SpaceX launches Italian Earth-observation satellite, lands rocket](https://www.space.com/spacex-launch-italian-csg-2-satellite-january-2022)
 - [Daily Crunch: Citrix to be acquired by Vista and Evergreen/Elliott in $16.5B all-cash deal](https://techcrunch.com/2022/01/31/daily-crunch-citrix-to-be-acquired-by-vista-and-evergreen-elliott-in-16-5b-all-cash-deal/)
 - [Max Q: NFTs… but for space stuff](https://techcrunch.com/2022/01/31/max-q-nfts-but-for-space-stuff/)
@@ -104,7 +105,6 @@
 - [Meta brings 3D avatars to Instagram, rolls out new options for Facebook and Messenger](https://techcrunch.com/2022/01/31/meta-brings-3d-avatars-to-instagram-rolls-out-new-options-for-facebook-and-messenger/)
 - [Will the Citrix-Tibco merger create enterprise magic? Vista clearly thinks so](https://techcrunch.com/2022/01/31/will-the-citrix-tibco-merger-create-enterprise-magic-vista-clearly-thinks-so/)
 - [North Korean missile test captures photos of Earth from space: report](https://www.space.com/north-korea-missile-test-earth-space-photos)
-- [How to build and maintain momentum in your fundraising process](https://techcrunch.com/2022/01/31/how-to-build-and-maintain-momentum-in-your-fundraising-process/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
