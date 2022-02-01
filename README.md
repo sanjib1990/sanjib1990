@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Egypt’s YFS gets $7M to scale its on-demand logistics and delivery business across MENA](https://techcrunch.com/2022/02/01/egypts-yfs-gets-7m-to-scale-its-on-demand-logistics-and-delivery-business-across-mena/)
+- [AirTree launches three new funds totaling $700M AUD](https://techcrunch.com/2022/01/31/airtree-launches-three-new-funds-totaling-700m-aud/)
 - [India proposes 30% tax on crypto and NFTs income](https://techcrunch.com/2022/01/31/india-proposes-30-tax-on-crypto-and-nfts-income/)
 - [European micromobility startup Dott grabs $70 million](https://techcrunch.com/2022/01/31/european-micromobility-startup-dott-grabs-70-million/)
 - [Upskilling platform Scaler tops $700 million valuation in new funding](https://techcrunch.com/2022/01/31/scaler-upskilling-working-professionals-funding/)
@@ -103,8 +105,6 @@
 - [Daily Crunch: Citrix to be acquired by Vista and Evergreen/Elliott in $16.5B all-cash deal](https://techcrunch.com/2022/01/31/daily-crunch-citrix-to-be-acquired-by-vista-and-evergreen-elliott-in-16-5b-all-cash-deal/)
 - [Max Q: NFTs… but for space stuff](https://techcrunch.com/2022/01/31/max-q-nfts-but-for-space-stuff/)
 - [Popular puzzle game Wordle is being purchased by The New York Times](https://techcrunch.com/2022/01/31/popular-puzzle-game-wordle-is-being-purchased-by-the-new-york-times/)
-- [Following Webb’s Arrival at L2, Telescope Commissioning Set to Begin](https://blogs.nasa.gov/webb/2022/01/31/following-webbs-arrival-at-l2-telescope-commissioning-set-to-begin/)
-- [February new moon 2022: The moon swings by Jupiter while winter constellations shine](https://www.space.com/17561-new-moon-explained-lunar-phases.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
