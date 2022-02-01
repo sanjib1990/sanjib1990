@@ -95,6 +95,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple News launches its first daily local newsletter, targeting Bay Area readers](https://techcrunch.com/2022/02/01/apple-news-launches-its-first-daily-local-newsletter-targeting-bay-area-readers/)
+- [Fintech outperformed the market in 2021, and it’s set to do even better](https://techcrunch.com/2022/02/01/fintech-outperformed-the-market-in-2021-and-its-set-to-do-even-better/)
+- [Reddit co-founder Alexis Ohanian’s 776 closes new $500M venture fund](https://techcrunch.com/2022/02/01/reddit-co-founder-alexis-ohanians-776-closes-new-500m-venture-fund/)
 - [Docker makes comeback with over $50M in ARR two years into restructuring](https://techcrunch.com/2022/02/01/docker-makes-comeback-reaching-over-50m-in-arr/)
 - [New Milky Way mosaic reveals nearly 
  1,000 strange &#39;filaments&#39; at the heart of our galaxy](https://www.space.com/meerkat-milky-way-mosaic-filaments)
@@ -103,9 +106,6 @@
 - [Whose Your Landlord raises $2.1M for its rental review and data service](https://techcrunch.com/2022/02/01/whose-your-landlord-raises-2-1m-for-its-rental-review-and-data-service/)
 - [TechCrunch+ roundup: 3 customer experiments, Citrix-Tibco merger, building fundraising momentum](https://techcrunch.com/2022/02/01/techcrunch-roundup-3-customer-experiments-citrix-tibco-merger-building-fundraising-momentum/)
 - [SpaceX&#39;s next Starlink mission may fly Wednesday, setting up rocket launch doubleheader](https://www.space.com/spacex-falcon-9-starlink-nrol-87-double-launch-possible)
-- [Can carbon credits for improving forests help save them — and us — from climate change?](https://techcrunch.com/2022/02/01/pina-earth-carbon-credits/)
-- [Firewalla launches its Purple gigabit home firewall](https://techcrunch.com/2022/02/01/firewalla-launches-its-purple-gigabit-home-firewall/)
-- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
