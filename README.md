@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [VendorPM raises $6M to scale its marketplace for property managers and service vendors](https://techcrunch.com/2022/02/01/vendorpm-raises-6m-to-scale-its-marketplace-for-property-managers-and-service-vendors/)
+- [Island emerges from stealth with a new enterprise-focused web browser](https://techcrunch.com/2022/02/01/island-stealth-enterprise-browser/)
+- [Albert Einstein: His life, theories and impact on science](https://www.space.com/15524-albert-einstein.html)
+- [Wayflyer raises $150M on a $1.6B valuation for a new spin on providing loans to e-commerce merchants](https://techcrunch.com/2022/02/01/wayflyer-raises-150m-on-a-1-6b-valuation-for-a-new-spin-on-providing-finance-to-e-commerce-merchants/)
 - [Nestcoin raises $6.45M pre-seed to accelerate crypto and web3 adoption in Africa and frontier markets](https://techcrunch.com/2022/02/01/nestcoin-raises-6-45m-pre-seed-to-accelerate-crypto-and-web3-adoption-in-africa-and-frontier-markets/)
 - [Hubble Space Telescope spots an &#39;oddball&#39; starburst](https://www.space.com/hubble-image-galaxy-ngc1705-starburst)
 - [The first life on Earth depended on a deadly poisonous gas, study suggests](https://www.space.com/poisonous-hydrogen-cyanide-triggered-evolution-life)
 - [Kenyan tech-enabled logistics platform Amitruck raises $4 million, embarks on Uganda, Tanzania expansion](https://techcrunch.com/2022/02/01/kenyan-tech-enabled-logistics-platform-amitruck-raises-4-million-embarks-on-uganda-tanzania-expansion/)
 - [Construction tech startup RenoRun lands $142M in Tiger Global-led Series B](https://techcrunch.com/2022/02/01/construction-tech-startup-renorun-lands-142m-in-tiger-global-led-series-b/)
 - [These are the biggest French startups according to the French government](https://techcrunch.com/2022/02/01/these-are-the-biggest-french-startups-according-to-the-french-government/)
-- [Nigeria’s AltSchool raises $1M pre-seed to build an alternative school for Africans](https://techcrunch.com/2022/02/01/nigerias-altschool-raises-1m-pre-seed-to-build-an-alternative-school-for-africans/)
-- [HBO Max is expanding to 15 more countries in March](https://techcrunch.com/2022/02/01/hbo-max-is-expanding-to-15-more-countries-in-march/)
-- [GWI raises $180M Series B at $850M valuation for its market research SaaS](https://techcrunch.com/2022/02/01/gwi-series-b/)
-- [Egypt’s YFS gets $7M to scale its on-demand logistics and delivery business across MENA](https://techcrunch.com/2022/02/01/egypts-yfs-gets-7m-to-scale-its-on-demand-logistics-and-delivery-business-across-mena/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
