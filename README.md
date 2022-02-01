@@ -95,6 +95,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GM’s Chevy Silverado EV already has 110,000 reservations](https://techcrunch.com/2022/02/01/gms-chevy-silverado-ev-already-has-110000-reservations/)
+- [Vertical farming firm Kalera eyes SPAC deal](https://techcrunch.com/2022/02/01/vertical-farming-firm-kalera-eyes-spac-deal/)
+- [Powerful solar flare from recent sun eruption should reach Earth Wednesday](https://www.space.com/sunspot-ar2936-solar-flare-cme-arrival-earth)
 - [Netflix adds more games, including Riot Games’ otherwise paid title ‘Hextech Mayhem’](https://techcrunch.com/2022/02/01/netflix-adds-more-games-including-riot-games-otherwise-paid-title-hextech-mayhem/)
 - [Apple News launches its first daily local newsletter, targeting Bay Area readers](https://techcrunch.com/2022/02/01/apple-news-launches-its-first-daily-local-newsletter-targeting-bay-area-readers/)
 - [Fintech outperformed the market in 2021, and it’s set to do even better](https://techcrunch.com/2022/02/01/fintech-outperformed-the-market-in-2021-and-its-set-to-do-even-better/)
@@ -103,9 +106,6 @@
 - [New Milky Way mosaic reveals nearly 
  1,000 strange &#39;filaments&#39; at the heart of our galaxy](https://www.space.com/meerkat-milky-way-mosaic-filaments)
 - [Mars rover Perseverance collects new sample after clearing pebble clog](https://www.space.com/mars-rover-perseverance-clears-clog-collects-sample)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [Whose Your Landlord raises $2.1M for its rental review and data service](https://techcrunch.com/2022/02/01/whose-your-landlord-raises-2-1m-for-its-rental-review-and-data-service/)
-- [TechCrunch+ roundup: 3 customer experiments, Citrix-Tibco merger, building fundraising momentum](https://techcrunch.com/2022/02/01/techcrunch-roundup-3-customer-experiments-citrix-tibco-merger-building-fundraising-momentum/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
