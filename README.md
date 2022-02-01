@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nestcoin raises $6.45M pre-seed to accelerate crypto and web3 adoption in Africa and frontier markets](https://techcrunch.com/2022/02/01/nestcoin-raises-6-45m-pre-seed-to-accelerate-crypto-and-web3-adoption-in-africa-and-frontier-markets/)
+- [Hubble Space Telescope spots an &#39;oddball&#39; starburst](https://www.space.com/hubble-image-galaxy-ngc1705-starburst)
+- [The first life on Earth depended on a deadly poisonous gas, study suggests](https://www.space.com/poisonous-hydrogen-cyanide-triggered-evolution-life)
+- [Kenyan tech-enabled logistics platform Amitruck raises $4 million, embarks on Uganda, Tanzania expansion](https://techcrunch.com/2022/02/01/kenyan-tech-enabled-logistics-platform-amitruck-raises-4-million-embarks-on-uganda-tanzania-expansion/)
+- [Construction tech startup RenoRun lands $142M in Tiger Global-led Series B](https://techcrunch.com/2022/02/01/construction-tech-startup-renorun-lands-142m-in-tiger-global-led-series-b/)
 - [These are the biggest French startups according to the French government](https://techcrunch.com/2022/02/01/these-are-the-biggest-french-startups-according-to-the-french-government/)
 - [Nigeria’s AltSchool raises $1M pre-seed to build an alternative school for Africans](https://techcrunch.com/2022/02/01/nigerias-altschool-raises-1m-pre-seed-to-build-an-alternative-school-for-africans/)
 - [HBO Max is expanding to 15 more countries in March](https://techcrunch.com/2022/02/01/hbo-max-is-expanding-to-15-more-countries-in-march/)
 - [GWI raises $180M Series B at $850M valuation for its market research SaaS](https://techcrunch.com/2022/02/01/gwi-series-b/)
 - [Egypt’s YFS gets $7M to scale its on-demand logistics and delivery business across MENA](https://techcrunch.com/2022/02/01/egypts-yfs-gets-7m-to-scale-its-on-demand-logistics-and-delivery-business-across-mena/)
-- [AirTree launches three new funds totaling $700M AUD](https://techcrunch.com/2022/01/31/airtree-launches-three-new-funds-totaling-700m-aud/)
-- [India proposes 30% tax on crypto and NFTs income](https://techcrunch.com/2022/01/31/india-proposes-30-tax-on-crypto-and-nfts-income/)
-- [European micromobility startup Dott grabs $70 million](https://techcrunch.com/2022/01/31/european-micromobility-startup-dott-grabs-70-million/)
-- [Upskilling platform Scaler tops $700 million valuation in new funding](https://techcrunch.com/2022/01/31/scaler-upskilling-working-professionals-funding/)
-- [Waymo can keep some driverless data secret for another 22 days](https://techcrunch.com/2022/01/31/waymo-can-keep-some-driverless-data-secret-for-another-22-days/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
