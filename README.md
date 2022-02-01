@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India proposes 30% tax on crypto and NFTs income](https://techcrunch.com/2022/01/31/india-proposes-30-tax-on-crypto-and-nfts-income/)
 - [European micromobility startup Dott grabs $70 million](https://techcrunch.com/2022/01/31/european-micromobility-startup-dott-grabs-70-million/)
 - [Upskilling platform Scaler tops $700 million valuation in new funding](https://techcrunch.com/2022/01/31/scaler-upskilling-working-professionals-funding/)
 - [Waymo can keep some driverless data secret for another 22 days](https://techcrunch.com/2022/01/31/waymo-can-keep-some-driverless-data-secret-for-another-22-days/)
@@ -104,7 +105,6 @@
 - [Popular puzzle game Wordle is being purchased by The New York Times](https://techcrunch.com/2022/01/31/popular-puzzle-game-wordle-is-being-purchased-by-the-new-york-times/)
 - [Following Webb’s Arrival at L2, Telescope Commissioning Set to Begin](https://blogs.nasa.gov/webb/2022/01/31/following-webbs-arrival-at-l2-telescope-commissioning-set-to-begin/)
 - [February new moon 2022: The moon swings by Jupiter while winter constellations shine](https://www.space.com/17561-new-moon-explained-lunar-phases.html)
-- [Meta brings 3D avatars to Instagram, rolls out new options for Facebook and Messenger](https://techcrunch.com/2022/01/31/meta-brings-3d-avatars-to-instagram-rolls-out-new-options-for-facebook-and-messenger/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
