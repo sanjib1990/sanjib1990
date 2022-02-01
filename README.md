@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch+ roundup: 3 customer experiments, Citrix-Tibco merger, building fundraising momentum](https://techcrunch.com/2022/02/01/techcrunch-roundup-3-customer-experiments-citrix-tibco-merger-building-fundraising-momentum/)
+- [SpaceX&#39;s next Starlink mission may fly Wednesday, setting up rocket launch doubleheader](https://www.space.com/spacex-falcon-9-starlink-nrol-87-double-launch-possible)
 - [Can carbon credits for improving forests help save them — and us — from climate change?](https://techcrunch.com/2022/02/01/pina-earth-carbon-credits/)
 - [Firewalla launches its Purple gigabit home firewall](https://techcrunch.com/2022/02/01/firewalla-launches-its-purple-gigabit-home-firewall/)
 - [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html)
 - [Pendo acquires the Mind the Product to boost global product manager community](https://techcrunch.com/2022/02/01/pendo-acquires-the-mind-the-product-to-boost-global-product-manager-community/)
 - [VC-backed DAO startups are racing to define what DAOs actually are](https://techcrunch.com/2022/02/01/vc-backed-dao-startups-are-racing-to-define-what-daos-actually-are/)
 - [Space shuttle Challenger and the disaster that changed NASA forever](https://www.space.com/18084-space-shuttle-challenger.html)
-- [Cruise, loaded with another $1.35B from Softbank, opens up driverless ride-hailing to the public](https://techcrunch.com/2022/02/01/cruise-loaded-with-another-1-35b-from-softbank-opens-up-driverless-ride-hailing-to-the-public/)
 - [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
-- [Mozilla rolls out new privacy features to its mobile and desktop VPN](https://techcrunch.com/2022/02/01/mozilla-new-privacy-features-vpn/)
-- [Framework looks to expand repairability beyond the laptop](https://techcrunch.com/2022/02/01/framework-looks-to-expand-repairability-beyond-the-laptop/)
+- [Cruise, loaded with another $1.35B from SoftBank, opens up driverless ride-hailing to the public](https://techcrunch.com/2022/02/01/cruise-loaded-with-another-1-35b-from-softbank-opens-up-driverless-ride-hailing-to-the-public/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
