@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Camila Cabello, Mindy Kaling, Gwyneth Paltrow pour capital into Olipop’s mission to change soda](https://techcrunch.com/2022/02/01/camilla-cabello-mindy-kaling-gwyneth-paltrow-olipop-soda/)
+- [Metronome raises $30M to help software companies shift to usage-based pricing models](https://techcrunch.com/2022/02/01/metronome-raises-30m-to-help-software-companies-shift-to-usage-based-pricing-models/)
+- [Metafy lands $25M to scale its gaming coaching platform](https://techcrunch.com/2022/02/01/metafy-lands-25m-to-scale-its-gaming-coaching-platform/)
+- [Coatue leads another infusion into Lunchbox, which sees ghost kitchens leading restaurant tech revolution](https://techcrunch.com/2022/02/01/coatue-lunchbox-ghost-kitchen-restaurant-tech/)
 - [Withco closes on $32M to help SMBs become property owners with a lease-to-own model](https://techcrunch.com/2022/02/01/withco-closes-on-32m-to-help-smbs-own-and-not-lease-the-buildings-they-occupy/)
 - [Jellyfish aims to ‘do for engineering what Salesforce did for sales’](https://techcrunch.com/2022/02/01/jellyfish-aims-to-do-for-engineering-what-salesforce-did-for-sales/)
 - [Pesto spices up digital workplaces so remote work isn’t so … remote](https://techcrunch.com/2022/02/01/pesto-spices-up-digital-workplaces-so-remote-work-isnt-soremote/)
 - [Tesla recalls Full Self Driving feature that lets cars roll through stop signs](https://techcrunch.com/2022/02/01/tesla-recalls-full-self-driving-feature-that-lets-cars-roll-through-stop-signs/)
+- [Best monocular 2022: Kit you can use for stargazing](https://www.space.com/best-monocular)
 - [As European VC hots up, Berlin’s Earlybird expands its reach into France with an adjunct fund](https://techcrunch.com/2022/02/01/as-european-vc-hots-up-berlins-earlybird-expands-its-reach-into-france-with-an-adjunct-fund/)
-- [Superpedestrian gets $125M to expand tech that corrects unsafe scooter riding](https://techcrunch.com/2022/02/01/superpedestrian-gets-125m-to-expand-tech-that-corrects-unsafe-scooter-riding/)
-- [Full moon calendar 2022: When to see the next full moon](https://www.space.com/16830-full-moon-calendar.html)
-- [Moon phases 2022: This year&#39;s moon cycles](https://www.space.com/18880-moon-phases.html)
-- [VendorPM raises $6M to scale its marketplace for property managers and service vendors](https://techcrunch.com/2022/02/01/vendorpm-raises-6m-to-scale-its-marketplace-for-property-managers-and-service-vendors/)
-- [Island emerges from stealth with a new enterprise-focused web browser](https://techcrunch.com/2022/02/01/island-stealth-enterprise-browser/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
