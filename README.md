@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cruise, loaded with another $1.35B from Softbank, opens up driverless ride-hailing to the public](https://techcrunch.com/2022/02/01/cruise-loaded-with-another-1-35b-from-softbank-opens-up-driverless-ride-hailing-to-the-public/)
+- [Mozilla rolls out new privacy features to its mobile and desktop VPN](https://techcrunch.com/2022/02/01/mozilla-new-privacy-features-vpn/)
+- [Framework looks to expand repairability beyond the laptop](https://techcrunch.com/2022/02/01/framework-looks-to-expand-repairability-beyond-the-laptop/)
+- [SiriusXM figures out how to track audiences across its apps, including Pandora and Stitcher](https://techcrunch.com/2022/02/01/siriusxm-figures-out-how-to-track-audiences-across-its-apps-including-pandora-and-stitcher/)
+- [NASA&#39;s James Webb Space Telescope turns on cameras to look at first star target](https://www.space.com/james-webb-space-telescope-turns-on-cameras)
+- [Earth has an extra companion, a Trojan asteroid that will hang around for 4,000 years](https://www.space.com/earth-extra-moon-trojan-asteroid-2020-xl5-discovery)
 - [Netlify acquires Quirrel](https://techcrunch.com/2022/02/01/netlify-acquires-quirrel/)
 - [Despite bumps, crypto investment starts 2022 with a roar](https://techcrunch.com/2022/02/01/despite-bumps-crypto-investment-starts-2022-with-a-roar/)
 - [How to photograph the moon using a camera: techniques, kit, and settings](https://www.space.com/how-to-photograph-the-moon-camera)
 - [Could the Great Resignation force techies to get career agents?](https://techcrunch.com/2022/02/01/free-agent-series-a/)
-- [MongoDB’s co-founder is trying to universalize robotic deployment](https://techcrunch.com/2022/02/01/mongodbs-founder-is-trying-to-universalize-robotic-deployment/)
-- [How many galaxies are there?](https://www.space.com/25303-how-many-galaxies-are-in-the-universe.html)
-- [Astrophotography for beginners: How to shoot the night sky](https://www.space.com/astrophotography-for-beginners-guide)
-- [Lunar New Year 2022 roars in with celebratory Google doodle](https://www.space.com/lunar-new-year-2022-google-doodle)
-- [Camila Cabello, Mindy Kaling, Gwyneth Paltrow pour capital into Olipop’s mission to change soda](https://techcrunch.com/2022/02/01/camilla-cabello-mindy-kaling-gwyneth-paltrow-olipop-soda/)
-- [Metronome raises $30M to help software companies shift to usage-based pricing models](https://techcrunch.com/2022/02/01/metronome-raises-30m-to-help-software-companies-shift-to-usage-based-pricing-models/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
