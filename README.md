@@ -95,8 +95,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX launches Italian Earth-observation satellite, lands rocket](https://www.space.com/spacex-launch-italian-csg-2-satellite-january-2022)
+- [Daily Crunch: Citrix to be acquired by Vista and Evergreen/Elliott in $16.5B all-cash deal](https://techcrunch.com/2022/01/31/daily-crunch-citrix-to-be-acquired-by-vista-and-evergreen-elliott-in-16-5b-all-cash-deal/)
 - [Max Q: NFTs… but for space stuff](https://techcrunch.com/2022/01/31/max-q-nfts-but-for-space-stuff/)
-- [SpaceX will now launch an Earth-observation satellite for Italy today &lpar;yes, you can watch it live&rpar;](https://www.space.com/spacex-launch-italian-csg-2-satellite-january-2022)
 - [Popular puzzle game Wordle is being purchased by The New York Times](https://techcrunch.com/2022/01/31/popular-puzzle-game-wordle-is-being-purchased-by-the-new-york-times/)
 - [Following Webb’s Arrival at L2, Telescope Commissioning Set to Begin](https://blogs.nasa.gov/webb/2022/01/31/following-webbs-arrival-at-l2-telescope-commissioning-set-to-begin/)
 - [February new moon 2022: The moon swings by Jupiter while winter constellations shine](https://www.space.com/17561-new-moon-explained-lunar-phases.html)
@@ -104,7 +105,6 @@
 - [Will the Citrix-Tibco merger create enterprise magic? Vista clearly thinks so](https://techcrunch.com/2022/01/31/will-the-citrix-tibco-merger-create-enterprise-magic-vista-clearly-thinks-so/)
 - [North Korean missile test captures photos of Earth from space: report](https://www.space.com/north-korea-missile-test-earth-space-photos)
 - [How to build and maintain momentum in your fundraising process](https://techcrunch.com/2022/01/31/how-to-build-and-maintain-momentum-in-your-fundraising-process/)
-- [Success of web3 hinges on remedying its security challenges](https://techcrunch.com/2022/01/31/success-of-web3-hinges-on-remedying-its-security-challenges/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
