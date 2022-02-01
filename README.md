@@ -95,6 +95,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nigeria’s AltSchool raises $1M pre-seed to build an alternative school for Africans](https://techcrunch.com/2022/02/01/nigerias-altschool-raises-1m-pre-seed-to-build-an-alternative-school-for-africans/)
+- [HBO Max is expanding to 15 more countries in March](https://techcrunch.com/2022/02/01/hbo-max-is-expanding-to-15-more-countries-in-march/)
+- [GWI raises $180M Series B at $850M valuation for its market research SaaS](https://techcrunch.com/2022/02/01/gwi-series-b/)
 - [Egypt’s YFS gets $7M to scale its on-demand logistics and delivery business across MENA](https://techcrunch.com/2022/02/01/egypts-yfs-gets-7m-to-scale-its-on-demand-logistics-and-delivery-business-across-mena/)
 - [AirTree launches three new funds totaling $700M AUD](https://techcrunch.com/2022/01/31/airtree-launches-three-new-funds-totaling-700m-aud/)
 - [India proposes 30% tax on crypto and NFTs income](https://techcrunch.com/2022/01/31/india-proposes-30-tax-on-crypto-and-nfts-income/)
@@ -102,9 +105,6 @@
 - [Upskilling platform Scaler tops $700 million valuation in new funding](https://techcrunch.com/2022/01/31/scaler-upskilling-working-professionals-funding/)
 - [Waymo can keep some driverless data secret for another 22 days](https://techcrunch.com/2022/01/31/waymo-can-keep-some-driverless-data-secret-for-another-22-days/)
 - [SpaceX launches Italian Earth-observation satellite, lands rocket](https://www.space.com/spacex-launch-italian-csg-2-satellite-january-2022)
-- [Daily Crunch: Citrix to be acquired by Vista and Evergreen/Elliott in $16.5B all-cash deal](https://techcrunch.com/2022/01/31/daily-crunch-citrix-to-be-acquired-by-vista-and-evergreen-elliott-in-16-5b-all-cash-deal/)
-- [Max Q: NFTs… but for space stuff](https://techcrunch.com/2022/01/31/max-q-nfts-but-for-space-stuff/)
-- [Popular puzzle game Wordle is being purchased by The New York Times](https://techcrunch.com/2022/01/31/popular-puzzle-game-wordle-is-being-purchased-by-the-new-york-times/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
