@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX launches classified spy satellite for US military, lands rocket](https://www.space.com/spacex-launches-nrol-87-spy-satellite-lands-rocket)
+- [These are the 6 companies in Graham &amp; Walker’s latest accelerator class](https://techcrunch.com/2022/02/02/these-are-the-6-companies-in-graham-walkers-latest-accelerator-class/)
+- [3 views: What does ‘Line Go Up’ tell us about the state of the NFT art market?](https://techcrunch.com/2022/02/02/3-views-what-does-line-go-up-tell-us-about-the-state-of-the-nft-art-market/)
+- [Coatue leads a $69,420,000 funding round](https://techcrunch.com/2022/02/02/coatue-leads-a-69420000-funding-round/)
+- [Lamborghini is still figuring out its first EV](https://techcrunch.com/2022/02/02/lamborghini-is-still-figuring-out-its-first-ev/)
+- [Travel experiences app Headout survives the Omicron surge, grabs $30M more in funding](https://techcrunch.com/2022/02/02/travel-experiences-app-headout-survives-the-omicron-surge-grabs-30-million-more-in-funding/)
 - [NASA&#39;s Artemis 1 moon mission rocket faces new delays](https://www.space.com/nasa-artemis-1-mission-rollout-delay)
 - [Anthony Levandowski’s latest moonshot is a peer-to-peer telecom network powered by cryptocurrency](https://techcrunch.com/2022/02/02/anthony-levandowskis-latest-moonshot-is-a-peer-to-peer-telecom-network-powered-by-cryptocurrency/)
 - [Sunroom is an alternative creator platform empowering women to cash in](https://techcrunch.com/2022/02/02/sunroom-creator-platform-app-women/)
 - [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [Lego Star Wars Boba Fett&#39;s Starship is 20% off on Amazon](https://www.space.com/lego-boba-fett-starship-deal)
-- [&#39;Moonfall&#39; filmmakers saved NASA shuttle simulator now in museum](https://www.space.com/moonfall-nasa-space-shuttle-simulator)
-- [Calm acquires healthcare technology company Ripple Health Group](https://techcrunch.com/2022/02/02/calm-acquires-health-care-technology-company-ripple-health-group/)
-- [Waldo raises $15 million for its automated mobile testing service](https://techcrunch.com/2022/02/02/waldo-raises-15-million-for-its-automated-mobile-testing-service/)
-- [How the conflict in Ukraine threatens US cybersecurity](https://techcrunch.com/2022/02/02/ukraine-russia-us-cybersecurity/)
-- [GitHub introduces sponsor-only repositories](https://techcrunch.com/2022/02/02/github-introduces-sponsor-only-repositories/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
