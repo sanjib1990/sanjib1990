@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pixel Vault banks $100 million in funding to chase an NFT media empire](https://techcrunch.com/2022/02/02/pixel-vault-banks-100-million-in-funding-to-chase-an-nft-media-empire/)
+- [The Polestar Arctic Circle concept is ready for a snow day with AWD and studded tires](https://techcrunch.com/2022/02/02/the-polestar-arctic-circle-concept-is-ready-for-a-snow-day-with-awd-and-studded-tires/)
+- [With $8M seed, Onehouse builds open source data lakehouse, eyes managed service](https://techcrunch.com/2022/02/02/with-8m-seed-onehouse-builds-open-source-data-lake-house-eyes-managed-service/)
+- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates)
+- [Best sci-fi TV shows of all time](https://www.space.com/best-sci-fi-tv-shows-of-all-time)
+- [Humans should drive our transit future, not autonomous vehicles](https://techcrunch.com/2022/02/02/humans-should-drive-our-transit-future-not-robotic-vehicles/)
+- [The moon and Jupiter pair up in the night sky tonight! Here&#39;s what to expect.](https://www.space.com/moon-jupiter-conjunction-february-2022)
 - [3 ways web3 recruiters can improve their hiring game](https://techcrunch.com/2022/02/02/3-ways-web3-recruiters-can-improve-their-hiring-game/)
 - [Spotify backlash over Joe Rogan did little to boost its streaming rivals](https://techcrunch.com/2022/02/02/spotify-backlash-over-joe-rogan-did-little-to-boost-its-streaming-rivals/)
-- [Twitch partners with indie music label group Merlin](https://techcrunch.com/2022/02/02/twitch-merlin-partnership-music/)
-- [What this morning’s 25% drop in PayPal shares could mean for startups](https://techcrunch.com/2022/02/02/what-this-mornings-25-drop-in-paypal-shares-could-mean-for-startups/)
-- [Fast-growing livestream shopping platform Whatnot acquires Pastel Labs, hires VP of engineering](https://techcrunch.com/2022/02/02/fast-growing-livestream-shopping-platform-whatnot-acquires-pastel-labs-hires-vp-of-engineering/)
-- [The MariaDB SPAC deal could prove to be a key test for unicorn exits](https://techcrunch.com/2022/02/02/the-mariadb-spac-deal-could-prove-to-be-a-key-test-for-unicorn-exits/)
-- [Crisp convinces more investors that it will rid the world of empty grocery store shelves](https://techcrunch.com/2022/02/02/crisp-convinces-more-investors-that-it-will-rid-the-world-of-empty-grocery-store-shelves/)
-- [Behavioral ad industry gets hard reform deadline after IAB’s TCF found to breach Europe’s GDPR](https://techcrunch.com/2022/02/02/iab-tcf-gdpr-breaches/)
-- [The history of the universe: Big Bang to now in 10 easy steps](https://www.space.com/13320-big-bang-universe-10-steps-explainer.html)
-- [Canva acquires Flourish in mission to tell better stories with data](https://techcrunch.com/2022/02/02/canva-acquires-flourish-in-mission-to-tell-better-stories-with-data/)
+- [Twitch partners with indie music licensing group Merlin](https://techcrunch.com/2022/02/02/twitch-merlin-partnership-music/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
