@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Moonfall&#39; filmmakers saved NASA shuttle simulator now in museum](https://www.space.com/moonfall-nasa-space-shuttle-simulator)
+- [Calm acquires health care technology company Ripple Health Group](https://techcrunch.com/2022/02/02/calm-acquires-health-care-technology-company-ripple-health-group/)
+- [Waldo raises $15 million for its automated mobile testing service](https://techcrunch.com/2022/02/02/waldo-raises-15-million-for-its-automated-mobile-testing-service/)
+- [How the conflict in Ukraine threatens US cybersecurity](https://techcrunch.com/2022/02/02/ukraine-russia-us-cybersecurity/)
+- [GitHub introduces sponsor-only repositories](https://techcrunch.com/2022/02/02/github-introduces-sponsor-only-repositories/)
+- [Bird will expand access to electric scooters for public transit in Nashville](https://techcrunch.com/2022/02/02/bird-will-expand-access-to-electric-scooters-for-public-transit-in-nashville/)
 - [Co-founders of embattled EV SPAC exit after bumpy last mile](https://techcrunch.com/2022/02/02/co-founders-of-embattled-ev-spac-exit-after-bumpy-last-mile/)
 - [DeepMind’s AlphaCode AI writes code at a competitive level](https://techcrunch.com/2022/02/02/deepminds-alphacode-ai-writes-code-at-a-competitive-level/)
-- [These photos of SpaceX&#39;s Monday launch and rocket landing are amazing](https://www.space.com/spacex-csg-2-launch-rocket-landing-photos)
+- [These photos of SpaceX&#39;s Italian satellite launch and rocket landing are amazing](https://www.space.com/spacex-csg-2-launch-rocket-landing-photos)
 - [Fisher debuts Artemis, Moonwalker space pens for return to moon](https://www.space.com/fisher-space-pen-artemis-series)
-- [RudderStack raises $56M for its customer data platform](https://techcrunch.com/2022/02/02/rudderstack-raises-56m-for-its-customer-data-platform/)
-- [Abundant’s new owner looks to revive the apple-picking robot through equity crowdfunding](https://techcrunch.com/2022/02/02/abundants-new-owner-looks-to-revive-the-apple-picking-robot-through-equity-crowdfunding/)
-- [Dear Sophie: When is the H-1B lottery and what can I do if my STEM OPT runs out in June?](https://techcrunch.com/2022/02/02/dear-sophie-when-is-the-h-1b-lottery-and-what-can-i-do-if-my-stem-opt-runs-out-in-june/)
-- [F*ck creator funds, we need a creator index fund](https://techcrunch.com/2022/02/02/fck-creator-funds-we-need-a-creator-index-fund/)
-- [Pixel Vault banks $100 million in funding to chase an NFT media empire](https://techcrunch.com/2022/02/02/pixel-vault-banks-100-million-in-funding-to-chase-an-nft-media-empire/)
-- [The Polestar Arctic Circle concept is ready for a snow day with AWD and studded tires](https://techcrunch.com/2022/02/02/the-polestar-arctic-circle-concept-is-ready-for-a-snow-day-with-awd-and-studded-tires/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
