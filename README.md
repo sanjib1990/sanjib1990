@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Co-founders of embattled EV SPAC exit after bumpy last mile](https://techcrunch.com/2022/02/02/co-founders-of-embattled-ev-spac-exit-after-bumpy-last-mile/)
+- [DeepMind’s AlphaCode AI writes code at a competitive level](https://techcrunch.com/2022/02/02/deepminds-alphacode-ai-writes-code-at-a-competitive-level/)
+- [These photos of SpaceX&#39;s Monday launch and rocket landing are amazing](https://www.space.com/spacex-csg-2-launch-rocket-landing-photos)
+- [Fisher debuts Artemis, Moonwalker space pens for return to moon](https://www.space.com/fisher-space-pen-artemis-series)
+- [RudderStack raises $56M for its customer data platform](https://techcrunch.com/2022/02/02/rudderstack-raises-56m-for-its-customer-data-platform/)
+- [Abundant’s new owner looks to revive the apple-picking robot through equity crowdfunding](https://techcrunch.com/2022/02/02/abundants-new-owner-looks-to-revive-the-apple-picking-robot-through-equity-crowdfunding/)
+- [Dear Sophie: When is the H-1B lottery and what can I do if my STEM OPT runs out in June?](https://techcrunch.com/2022/02/02/dear-sophie-when-is-the-h-1b-lottery-and-what-can-i-do-if-my-stem-opt-runs-out-in-june/)
+- [F*ck creator funds, we need a creator index fund](https://techcrunch.com/2022/02/02/fck-creator-funds-we-need-a-creator-index-fund/)
 - [Pixel Vault banks $100 million in funding to chase an NFT media empire](https://techcrunch.com/2022/02/02/pixel-vault-banks-100-million-in-funding-to-chase-an-nft-media-empire/)
 - [The Polestar Arctic Circle concept is ready for a snow day with AWD and studded tires](https://techcrunch.com/2022/02/02/the-polestar-arctic-circle-concept-is-ready-for-a-snow-day-with-awd-and-studded-tires/)
-- [With $8M seed, Onehouse builds open source data lakehouse, eyes managed service](https://techcrunch.com/2022/02/02/with-8m-seed-onehouse-builds-open-source-data-lake-house-eyes-managed-service/)
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates)
-- [Best sci-fi TV shows of all time](https://www.space.com/best-sci-fi-tv-shows-of-all-time)
-- [Humans should drive our transit future, not autonomous vehicles](https://techcrunch.com/2022/02/02/humans-should-drive-our-transit-future-not-robotic-vehicles/)
-- [The moon and Jupiter pair up in the night sky tonight! Here&#39;s what to expect.](https://www.space.com/moon-jupiter-conjunction-february-2022)
-- [3 ways web3 recruiters can improve their hiring game](https://techcrunch.com/2022/02/02/3-ways-web3-recruiters-can-improve-their-hiring-game/)
-- [Spotify backlash over Joe Rogan did little to boost its streaming rivals](https://techcrunch.com/2022/02/02/spotify-backlash-over-joe-rogan-did-little-to-boost-its-streaming-rivals/)
-- [Twitch partners with indie music licensing group Merlin](https://techcrunch.com/2022/02/02/twitch-merlin-partnership-music/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
