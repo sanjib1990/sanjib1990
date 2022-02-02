@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Homeland Security eyes robot dogs to patrol the southern border](https://techcrunch.com/2022/02/02/homeland-security-eyes-robot-dogs-to-patrol-the-southern-border/)
 - [SpaceX launches classified spy satellite for US military, lands rocket](https://www.space.com/spacex-launches-nrol-87-spy-satellite-lands-rocket)
 - [These are the 6 companies in Graham &amp; Walker’s latest accelerator class](https://techcrunch.com/2022/02/02/these-are-the-6-companies-in-graham-walkers-latest-accelerator-class/)
 - [3 views: What does ‘Line Go Up’ tell us about the state of the NFT art market?](https://techcrunch.com/2022/02/02/3-views-what-does-line-go-up-tell-us-about-the-state-of-the-nft-art-market/)
@@ -104,7 +105,6 @@
 - [NASA&#39;s Artemis 1 moon mission rocket faces new delays](https://www.space.com/nasa-artemis-1-mission-rollout-delay)
 - [Anthony Levandowski’s latest moonshot is a peer-to-peer telecom network powered by cryptocurrency](https://techcrunch.com/2022/02/02/anthony-levandowskis-latest-moonshot-is-a-peer-to-peer-telecom-network-powered-by-cryptocurrency/)
 - [Sunroom is an alternative creator platform empowering women to cash in](https://techcrunch.com/2022/02/02/sunroom-creator-platform-app-women/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
