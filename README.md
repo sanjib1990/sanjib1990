@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [EV SPAC Faraday Future is restructuring leadership following review of inaccurate statements to investors](https://techcrunch.com/2022/02/01/ev-spac-faraday-future-is-restructuring-leadership-following-review-of-inaccurate-statements-to-investors/)
 - [&#39;The Book of Boba Fett&#39; chapter 5 is an incredible episode of &#39;The Mandalorian&#39;](https://www.space.com/the-book-of-boba-fett-episode-5-review)
 - [Daily Crunch: India announces plans for digital rupee, 30% tax on crypto profits](https://techcrunch.com/2022/02/01/daily-crunch-india-announces-plans-for-digital-rupee-30-tax-on-crypto-profits/)
 - [GM’s Chevy Silverado EV already has 110,000 reservations](https://techcrunch.com/2022/02/01/gms-chevy-silverado-ev-already-has-110000-reservations/)
@@ -104,7 +105,6 @@
 - [Apple News launches its first daily local newsletter, targeting Bay Area readers](https://techcrunch.com/2022/02/01/apple-news-launches-its-first-daily-local-newsletter-targeting-bay-area-readers/)
 - [Fintech outperformed the market in 2021, and it’s set to do even better](https://techcrunch.com/2022/02/01/fintech-outperformed-the-market-in-2021-and-its-set-to-do-even-better/)
 - [Reddit co-founder Alexis Ohanian’s 776 closes new $500M venture fund](https://techcrunch.com/2022/02/01/reddit-co-founder-alexis-ohanians-776-closes-new-500m-venture-fund/)
-- [Docker makes comeback with over $50M in ARR two years into restructuring](https://techcrunch.com/2022/02/01/docker-makes-comeback-reaching-over-50m-in-arr/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
