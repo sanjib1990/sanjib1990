@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s Artemis 1 moon mission rocket faces new delays](https://www.space.com/nasa-artemis-1-mission-rollout-delay)
+- [Anthony Levandowski’s latest moonshot is a peer-to-peer telecom network powered by cryptocurrency](https://techcrunch.com/2022/02/02/anthony-levandowskis-latest-moonshot-is-a-peer-to-peer-telecom-network-powered-by-cryptocurrency/)
+- [Sunroom is an alternative creator platform empowering women to cash in](https://techcrunch.com/2022/02/02/sunroom-creator-platform-app-women/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [Lego Star Wars Boba Fett&#39;s Starship is 20% off on Amazon](https://www.space.com/lego-boba-fett-starship-deal)
 - [&#39;Moonfall&#39; filmmakers saved NASA shuttle simulator now in museum](https://www.space.com/moonfall-nasa-space-shuttle-simulator)
-- [Calm acquires health care technology company Ripple Health Group](https://techcrunch.com/2022/02/02/calm-acquires-health-care-technology-company-ripple-health-group/)
+- [Calm acquires healthcare technology company Ripple Health Group](https://techcrunch.com/2022/02/02/calm-acquires-health-care-technology-company-ripple-health-group/)
 - [Waldo raises $15 million for its automated mobile testing service](https://techcrunch.com/2022/02/02/waldo-raises-15-million-for-its-automated-mobile-testing-service/)
 - [How the conflict in Ukraine threatens US cybersecurity](https://techcrunch.com/2022/02/02/ukraine-russia-us-cybersecurity/)
 - [GitHub introduces sponsor-only repositories](https://techcrunch.com/2022/02/02/github-introduces-sponsor-only-repositories/)
-- [Bird will expand access to electric scooters for public transit in Nashville](https://techcrunch.com/2022/02/02/bird-will-expand-access-to-electric-scooters-for-public-transit-in-nashville/)
-- [Co-founders of embattled EV SPAC exit after bumpy last mile](https://techcrunch.com/2022/02/02/co-founders-of-embattled-ev-spac-exit-after-bumpy-last-mile/)
-- [DeepMind’s AlphaCode AI writes code at a competitive level](https://techcrunch.com/2022/02/02/deepminds-alphacode-ai-writes-code-at-a-competitive-level/)
-- [These photos of SpaceX&#39;s Italian satellite launch and rocket landing are amazing](https://www.space.com/spacex-csg-2-launch-rocket-landing-photos)
-- [Fisher debuts Artemis, Moonwalker space pens for return to moon](https://www.space.com/fisher-space-pen-artemis-series)
 <!-- BLOG-POST-LIST:END -->
 
 ---
