@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [3 ways web3 recruiters can improve their hiring game](https://techcrunch.com/2022/02/02/3-ways-web3-recruiters-can-improve-their-hiring-game/)
+- [Spotify backlash over Joe Rogan did little to boost its streaming rivals](https://techcrunch.com/2022/02/02/spotify-backlash-over-joe-rogan-did-little-to-boost-its-streaming-rivals/)
+- [Twitch partners with indie music label group Merlin](https://techcrunch.com/2022/02/02/twitch-merlin-partnership-music/)
+- [What this morning’s 25% drop in PayPal shares could mean for startups](https://techcrunch.com/2022/02/02/what-this-mornings-25-drop-in-paypal-shares-could-mean-for-startups/)
+- [Fast-growing livestream shopping platform Whatnot acquires Pastel Labs, hires VP of engineering](https://techcrunch.com/2022/02/02/fast-growing-livestream-shopping-platform-whatnot-acquires-pastel-labs-hires-vp-of-engineering/)
+- [The MariaDB SPAC deal could prove to be a key test for unicorn exits](https://techcrunch.com/2022/02/02/the-mariadb-spac-deal-could-prove-to-be-a-key-test-for-unicorn-exits/)
 - [Crisp convinces more investors that it will rid the world of empty grocery store shelves](https://techcrunch.com/2022/02/02/crisp-convinces-more-investors-that-it-will-rid-the-world-of-empty-grocery-store-shelves/)
 - [Behavioral ad industry gets hard reform deadline after IAB’s TCF found to breach Europe’s GDPR](https://techcrunch.com/2022/02/02/iab-tcf-gdpr-breaches/)
 - [The history of the universe: Big Bang to now in 10 easy steps](https://www.space.com/13320-big-bang-universe-10-steps-explainer.html)
 - [Canva acquires Flourish in mission to tell better stories with data](https://techcrunch.com/2022/02/02/canva-acquires-flourish-in-mission-to-tell-better-stories-with-data/)
-- [NASA delays rollout of Artemis 1 moon mission&#39;s SLS megarocket until March. Hear why today.](https://www.space.com/nasa-artemis-1-sls-moon-rocket-rollout-delay-webcast)
-- [Colombian e-commerce enablement startup Melonn raises $20M to help SMBs scale in LatAm](https://techcrunch.com/2022/02/02/colombian-e-commerce-enablement-startup-melonn-raises-20m/)
-- [SpaceX will launch a classified spy satellite on a new Falcon 9 rocket today and you can watch it live](https://www.space.com/spacex-nrol-87-spy-satellite-launch-webcast)
-- [Update: No launch day doubleheader for SpaceX&#39;s NRO and Starlink launches](https://www.space.com/spacex-falcon-9-starlink-nrol-87-double-launch-possible)
-- [EVs to power Kenya’s bus rapid transit system](https://techcrunch.com/2022/02/02/evs-to-power-kenyas-bus-rapid-transit-system/)
-- [Zero Acre Farms puts microbes &lpar;and $37M&rpar; to work on a better alternative to vegetable oil](https://techcrunch.com/2022/02/02/zero-acre-biotech-fermentation-alternative-to-wasteful-unhealthy-vegetable-oils/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
