@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Casava gets $4M pre-seed to make insurance affordable and accessible to Nigerians](https://techcrunch.com/2022/02/02/casava-gets-4m-pre-seed-to-make-insurance-affordable-and-accessible-to-nigerians/)
 - [Withings buys workout app, 8fit](https://techcrunch.com/2022/02/02/withings-buys-workout-app-8fit/)
 - [GoStudent acquires UK’s Seneca Learning and Spain’s Tus Media Group](https://techcrunch.com/2022/02/01/gostudent-acquires-uks-seneca-learning-and-spains-tus-media-group/)
 - [EV SPAC Faraday Future is restructuring leadership following review of inaccurate statements to investors](https://techcrunch.com/2022/02/01/ev-spac-faraday-future-is-restructuring-leadership-following-review-of-inaccurate-statements-to-investors/)
@@ -104,7 +105,6 @@
 - [Vertical farming firm Kalera eyes SPAC deal](https://techcrunch.com/2022/02/01/vertical-farming-firm-kalera-eyes-spac-deal/)
 - [Powerful solar flare from recent sun eruption should reach Earth Wednesday](https://www.space.com/sunspot-ar2936-solar-flare-cme-arrival-earth)
 - [Netflix adds more games, including Riot Games’ otherwise paid title ‘Hextech Mayhem’](https://techcrunch.com/2022/02/01/netflix-adds-more-games-including-riot-games-otherwise-paid-title-hextech-mayhem/)
-- [Apple News launches its first daily local newsletter, targeting Bay Area readers](https://techcrunch.com/2022/02/01/apple-news-launches-its-first-daily-local-newsletter-targeting-bay-area-readers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
