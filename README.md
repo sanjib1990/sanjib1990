@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Withings buys workout app, 8fit](https://techcrunch.com/2022/02/02/withings-buys-workout-app-8fit/)
 - [GoStudent acquires UK’s Seneca Learning and Spain’s Tus Media Group](https://techcrunch.com/2022/02/01/gostudent-acquires-uks-seneca-learning-and-spains-tus-media-group/)
 - [EV SPAC Faraday Future is restructuring leadership following review of inaccurate statements to investors](https://techcrunch.com/2022/02/01/ev-spac-faraday-future-is-restructuring-leadership-following-review-of-inaccurate-statements-to-investors/)
 - [&#39;The Book of Boba Fett&#39; chapter 5 is an incredible episode of &#39;The Mandalorian&#39;](https://www.space.com/the-book-of-boba-fett-episode-5-review)
@@ -104,7 +105,6 @@
 - [Powerful solar flare from recent sun eruption should reach Earth Wednesday](https://www.space.com/sunspot-ar2936-solar-flare-cme-arrival-earth)
 - [Netflix adds more games, including Riot Games’ otherwise paid title ‘Hextech Mayhem’](https://techcrunch.com/2022/02/01/netflix-adds-more-games-including-riot-games-otherwise-paid-title-hextech-mayhem/)
 - [Apple News launches its first daily local newsletter, targeting Bay Area readers](https://techcrunch.com/2022/02/01/apple-news-launches-its-first-daily-local-newsletter-targeting-bay-area-readers/)
-- [Fintech outperformed the market in 2021, and it’s set to do even better](https://techcrunch.com/2022/02/01/fintech-outperformed-the-market-in-2021-and-its-set-to-do-even-better/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
