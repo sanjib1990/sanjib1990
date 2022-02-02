@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Colombian e-commerce enablement startup Melonn raises $20M to help SMBs scale in LatAm](https://techcrunch.com/2022/02/02/colombian-e-commerce-enablement-startup-melonn-raises-20m/)
+- [EVs to power Kenya’s bus rapid transit system](https://techcrunch.com/2022/02/02/evs-to-power-kenyas-bus-rapid-transit-system/)
+- [SpaceX will launch a classified spy satellite on a new Falcon 9 rocket today and you can watch it live](https://www.space.com/spacex-nrol-87-spy-satellite-launch-webcast)
+- [Update: No launch day doubleheader for SpaceX&#39;s NRO and Starlink launches on Wednesday](https://www.space.com/spacex-falcon-9-starlink-nrol-87-double-launch-possible)
 - [Zero Acre Farms puts microbes &lpar;and $37M&rpar; to work on a better alternative to vegetable oil](https://techcrunch.com/2022/02/02/zero-acre-biotech-fermentation-alternative-to-wasteful-unhealthy-vegetable-oils/)
 - [Marathon Ventures injects more capital into Colombia’s startup ecosystem](https://techcrunch.com/2022/02/02/marathon-ventures-injects-more-capital-into-colombias-startup-ecosystem/)
 - [Stoggles thinks protective eyewear can be fashionable, too](https://techcrunch.com/2022/02/02/stoggles-thinks-protective-eyewear-can-be-fashionable-too/)
 - [NASA lays out plan for the International Space Station&#39;s final years](https://www.space.com/nasa-international-space-station-plan-final-years-2030)
 - [Watch NASA astronaut Victor Glover and colleagues talk space station research today](https://www.space.com/victor-glover-space-station-research)
 - [Tom Cruise asks NASA astronaut Victor Glover all about spaceflight &lpar;video&rpar;](https://www.space.com/tom-cruise-interview-victor-glover)
-- [Marvel TV shows ranked, worst to best](https://www.space.com/marvel-tv-shows-ranked-worst-to-best)
-- [Torii puts your business teams in sync as your tech stack evolves](https://techcrunch.com/2022/02/02/torii-puts-your-business-teams-in-sync-as-your-tech-stack-evolves/)
-- [The mission to reduce the carbon footprint of astronomy](https://www.space.com/reducing-carbon-footprint-of-astronomy)
-- [SpaceX reveals $500 monthly ‘Premium’ Starlink service with speeds up to 500 Mbps](https://techcrunch.com/2022/02/02/spacex-reveals-500-monthly-premium-starlink-service-with-speeds-up-to-500-mbps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
