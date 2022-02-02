@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Crisp convinces more investors that it will rid the world of empty grocery store shelves](https://techcrunch.com/2022/02/02/crisp-convinces-more-investors-that-it-will-rid-the-world-of-empty-grocery-store-shelves/)
+- [Behavioral ad industry gets hard reform deadline after IAB’s TCF found to breach Europe’s GDPR](https://techcrunch.com/2022/02/02/iab-tcf-gdpr-breaches/)
+- [The history of the universe: Big Bang to now in 10 easy steps](https://www.space.com/13320-big-bang-universe-10-steps-explainer.html)
+- [Canva acquires Flourish in mission to tell better stories with data](https://techcrunch.com/2022/02/02/canva-acquires-flourish-in-mission-to-tell-better-stories-with-data/)
+- [NASA delays rollout of Artemis 1 moon mission&#39;s SLS megarocket until March. Hear why today.](https://www.space.com/nasa-artemis-1-sls-moon-rocket-rollout-delay-webcast)
 - [Colombian e-commerce enablement startup Melonn raises $20M to help SMBs scale in LatAm](https://techcrunch.com/2022/02/02/colombian-e-commerce-enablement-startup-melonn-raises-20m/)
-- [EVs to power Kenya’s bus rapid transit system](https://techcrunch.com/2022/02/02/evs-to-power-kenyas-bus-rapid-transit-system/)
 - [SpaceX will launch a classified spy satellite on a new Falcon 9 rocket today and you can watch it live](https://www.space.com/spacex-nrol-87-spy-satellite-launch-webcast)
-- [Update: No launch day doubleheader for SpaceX&#39;s NRO and Starlink launches on Wednesday](https://www.space.com/spacex-falcon-9-starlink-nrol-87-double-launch-possible)
+- [Update: No launch day doubleheader for SpaceX&#39;s NRO and Starlink launches](https://www.space.com/spacex-falcon-9-starlink-nrol-87-double-launch-possible)
+- [EVs to power Kenya’s bus rapid transit system](https://techcrunch.com/2022/02/02/evs-to-power-kenyas-bus-rapid-transit-system/)
 - [Zero Acre Farms puts microbes &lpar;and $37M&rpar; to work on a better alternative to vegetable oil](https://techcrunch.com/2022/02/02/zero-acre-biotech-fermentation-alternative-to-wasteful-unhealthy-vegetable-oils/)
-- [Marathon Ventures injects more capital into Colombia’s startup ecosystem](https://techcrunch.com/2022/02/02/marathon-ventures-injects-more-capital-into-colombias-startup-ecosystem/)
-- [Stoggles thinks protective eyewear can be fashionable, too](https://techcrunch.com/2022/02/02/stoggles-thinks-protective-eyewear-can-be-fashionable-too/)
-- [NASA lays out plan for the International Space Station&#39;s final years](https://www.space.com/nasa-international-space-station-plan-final-years-2030)
-- [Watch NASA astronaut Victor Glover and colleagues talk space station research today](https://www.space.com/victor-glover-space-station-research)
-- [Tom Cruise asks NASA astronaut Victor Glover all about spaceflight &lpar;video&rpar;](https://www.space.com/tom-cruise-interview-victor-glover)
 <!-- BLOG-POST-LIST:END -->
 
 ---
