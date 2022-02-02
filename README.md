@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Zero Acre Farms puts microbes &lpar;and $37M&rpar; to work on a better alternative to vegetable oil](https://techcrunch.com/2022/02/02/zero-acre-biotech-fermentation-alternative-to-wasteful-unhealthy-vegetable-oils/)
+- [Marathon Ventures injects more capital into Colombia’s startup ecosystem](https://techcrunch.com/2022/02/02/marathon-ventures-injects-more-capital-into-colombias-startup-ecosystem/)
+- [Stoggles thinks protective eyewear can be fashionable, too](https://techcrunch.com/2022/02/02/stoggles-thinks-protective-eyewear-can-be-fashionable-too/)
+- [NASA lays out plan for the International Space Station&#39;s final years](https://www.space.com/nasa-international-space-station-plan-final-years-2030)
+- [Watch NASA astronaut Victor Glover and colleagues talk space station research today](https://www.space.com/victor-glover-space-station-research)
+- [Tom Cruise asks NASA astronaut Victor Glover all about spaceflight &lpar;video&rpar;](https://www.space.com/tom-cruise-interview-victor-glover)
 - [Marvel TV shows ranked, worst to best](https://www.space.com/marvel-tv-shows-ranked-worst-to-best)
 - [Torii puts your business teams in sync as your tech stack evolves](https://techcrunch.com/2022/02/02/torii-puts-your-business-teams-in-sync-as-your-tech-stack-evolves/)
 - [The mission to reduce the carbon footprint of astronomy](https://www.space.com/reducing-carbon-footprint-of-astronomy)
 - [SpaceX reveals $500 monthly ‘Premium’ Starlink service with speeds up to 500 Mbps](https://techcrunch.com/2022/02/02/spacex-reveals-500-monthly-premium-starlink-service-with-speeds-up-to-500-mbps/)
-- [Casava gets $4M pre-seed to make insurance affordable and accessible to Nigerians](https://techcrunch.com/2022/02/02/casava-gets-4m-pre-seed-to-make-insurance-affordable-and-accessible-to-nigerians/)
-- [Withings buys workout app, 8fit](https://techcrunch.com/2022/02/02/withings-buys-workout-app-8fit/)
-- [GoStudent acquires UK’s Seneca Learning and Spain’s Tus Media Group](https://techcrunch.com/2022/02/01/gostudent-acquires-uks-seneca-learning-and-spains-tus-media-group/)
-- [EV SPAC Faraday Future is restructuring leadership following review of inaccurate statements to investors](https://techcrunch.com/2022/02/01/ev-spac-faraday-future-is-restructuring-leadership-following-review-of-inaccurate-statements-to-investors/)
-- [&#39;The Book of Boba Fett&#39; chapter 5 is an incredible episode of &#39;The Mandalorian&#39;](https://www.space.com/the-book-of-boba-fett-episode-5-review)
-- [Daily Crunch: India announces plans for digital rupee, 30% tax on crypto profits](https://techcrunch.com/2022/02/01/daily-crunch-india-announces-plans-for-digital-rupee-30-tax-on-crypto-profits/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
