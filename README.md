@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Marvel TV shows ranked, worst to best](https://www.space.com/marvel-tv-shows-ranked-worst-to-best)
+- [Torii puts your business teams in sync as your tech stack evolves](https://techcrunch.com/2022/02/02/torii-puts-your-business-teams-in-sync-as-your-tech-stack-evolves/)
+- [The mission to reduce the carbon footprint of astronomy](https://www.space.com/reducing-carbon-footprint-of-astronomy)
+- [SpaceX reveals $500 monthly ‘Premium’ Starlink service with speeds up to 500 Mbps](https://techcrunch.com/2022/02/02/spacex-reveals-500-monthly-premium-starlink-service-with-speeds-up-to-500-mbps/)
 - [Casava gets $4M pre-seed to make insurance affordable and accessible to Nigerians](https://techcrunch.com/2022/02/02/casava-gets-4m-pre-seed-to-make-insurance-affordable-and-accessible-to-nigerians/)
 - [Withings buys workout app, 8fit](https://techcrunch.com/2022/02/02/withings-buys-workout-app-8fit/)
 - [GoStudent acquires UK’s Seneca Learning and Spain’s Tus Media Group](https://techcrunch.com/2022/02/01/gostudent-acquires-uks-seneca-learning-and-spains-tus-media-group/)
 - [EV SPAC Faraday Future is restructuring leadership following review of inaccurate statements to investors](https://techcrunch.com/2022/02/01/ev-spac-faraday-future-is-restructuring-leadership-following-review-of-inaccurate-statements-to-investors/)
 - [&#39;The Book of Boba Fett&#39; chapter 5 is an incredible episode of &#39;The Mandalorian&#39;](https://www.space.com/the-book-of-boba-fett-episode-5-review)
 - [Daily Crunch: India announces plans for digital rupee, 30% tax on crypto profits](https://techcrunch.com/2022/02/01/daily-crunch-india-announces-plans-for-digital-rupee-30-tax-on-crypto-profits/)
-- [GM’s Chevy Silverado EV already has 110,000 reservations](https://techcrunch.com/2022/02/01/gms-chevy-silverado-ev-already-has-110000-reservations/)
-- [Vertical farming firm Kalera eyes SPAC deal](https://techcrunch.com/2022/02/01/vertical-farming-firm-kalera-eyes-spac-deal/)
-- [Powerful solar flare from recent sun eruption should reach Earth Wednesday](https://www.space.com/sunspot-ar2936-solar-flare-cme-arrival-earth)
-- [Netflix adds more games, including Riot Games’ otherwise paid title ‘Hextech Mayhem’](https://techcrunch.com/2022/02/01/netflix-adds-more-games-including-riot-games-otherwise-paid-title-hextech-mayhem/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
