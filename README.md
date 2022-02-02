@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;The Book of Boba Fett&#39; chapter 5 is an incredible episode of &#39;The Mandalorian&#39;](https://www.space.com/the-book-of-boba-fett-episode-5-review)
+- [Daily Crunch: India announces plans for digital rupee, 30% tax on crypto profits](https://techcrunch.com/2022/02/01/daily-crunch-india-announces-plans-for-digital-rupee-30-tax-on-crypto-profits/)
 - [GM’s Chevy Silverado EV already has 110,000 reservations](https://techcrunch.com/2022/02/01/gms-chevy-silverado-ev-already-has-110000-reservations/)
 - [Vertical farming firm Kalera eyes SPAC deal](https://techcrunch.com/2022/02/01/vertical-farming-firm-kalera-eyes-spac-deal/)
 - [Powerful solar flare from recent sun eruption should reach Earth Wednesday](https://www.space.com/sunspot-ar2936-solar-flare-cme-arrival-earth)
@@ -103,9 +105,6 @@
 - [Fintech outperformed the market in 2021, and it’s set to do even better](https://techcrunch.com/2022/02/01/fintech-outperformed-the-market-in-2021-and-its-set-to-do-even-better/)
 - [Reddit co-founder Alexis Ohanian’s 776 closes new $500M venture fund](https://techcrunch.com/2022/02/01/reddit-co-founder-alexis-ohanians-776-closes-new-500m-venture-fund/)
 - [Docker makes comeback with over $50M in ARR two years into restructuring](https://techcrunch.com/2022/02/01/docker-makes-comeback-reaching-over-50m-in-arr/)
-- [New Milky Way mosaic reveals nearly 
- 1,000 strange &#39;filaments&#39; at the heart of our galaxy](https://www.space.com/meerkat-milky-way-mosaic-filaments)
-- [Mars rover Perseverance collects new sample after clearing pebble clog](https://www.space.com/mars-rover-perseverance-clears-clog-collects-sample)
 <!-- BLOG-POST-LIST:END -->
 
 ---
