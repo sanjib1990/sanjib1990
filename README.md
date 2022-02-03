@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Making &#39;Moonfall&#39;: Geophysicist Mika McKinnon talks about the fun of annihilating Earth in the fictional disaster film &lpar;video&rpar;](https://www.space.com/moonfall-geophysicist-mika-mckinnon-interview)
 - [Scale AI gets into the synthetic data game](https://techcrunch.com/2022/02/02/scale-ai-gets-into-the-synthetic-data-game/)
 - [With a $22B run rate, does it matter if Google Cloud still loses money?](https://techcrunch.com/2022/02/02/with-a-22b-run-rate-does-it-matter-if-google-cloud-still-loses-money/)
 - [Daily Crunch: With $4M pre-seed round, Casava sets new funding record for African insurtech](https://techcrunch.com/2022/02/02/daily-crunch-with-4m-pre-seed-round-casava-sets-new-funding-record-for-african-insurtech/)
@@ -104,7 +105,6 @@
 - [SpaceX launches classified spy satellite for US military, lands rocket](https://www.space.com/spacex-launches-nrol-87-spy-satellite-lands-rocket)
 - [These are the 6 companies in Graham &amp; Walker’s latest accelerator class](https://techcrunch.com/2022/02/02/these-are-the-6-companies-in-graham-walkers-latest-accelerator-class/)
 - [3 views: What does ‘Line Go Up’ tell us about the state of the NFT art market?](https://techcrunch.com/2022/02/02/3-views-what-does-line-go-up-tell-us-about-the-state-of-the-nft-art-market/)
-- [Coatue leads a $69,420,000 funding round](https://techcrunch.com/2022/02/02/coatue-leads-a-69420000-funding-round/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
