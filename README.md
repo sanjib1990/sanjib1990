@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scale AI gets into the synthetic data game](https://techcrunch.com/2022/02/02/scale-ai-gets-into-the-synthetic-data-game/)
+- [With a $22B run rate, does it matter if Google Cloud still loses money?](https://techcrunch.com/2022/02/02/with-a-22b-run-rate-does-it-matter-if-google-cloud-still-loses-money/)
 - [Daily Crunch: With $4M pre-seed round, Casava sets new funding record for African insurtech](https://techcrunch.com/2022/02/02/daily-crunch-with-4m-pre-seed-round-casava-sets-new-funding-record-for-african-insurtech/)
 - [Facebook isn’t growing anymore](https://techcrunch.com/2022/02/02/facebook-isnt-growing-anymore/)
 - [Why Facebook and Spotify are getting hammered in after-hours trading](https://techcrunch.com/2022/02/02/facebook-meta-spotify-stocks/)
@@ -103,8 +105,6 @@
 - [These are the 6 companies in Graham &amp; Walker’s latest accelerator class](https://techcrunch.com/2022/02/02/these-are-the-6-companies-in-graham-walkers-latest-accelerator-class/)
 - [3 views: What does ‘Line Go Up’ tell us about the state of the NFT art market?](https://techcrunch.com/2022/02/02/3-views-what-does-line-go-up-tell-us-about-the-state-of-the-nft-art-market/)
 - [Coatue leads a $69,420,000 funding round](https://techcrunch.com/2022/02/02/coatue-leads-a-69420000-funding-round/)
-- [Lamborghini is still figuring out its first EV](https://techcrunch.com/2022/02/02/lamborghini-is-still-figuring-out-its-first-ev/)
-- [Travel experiences app Headout survives the Omicron surge, grabs $30M more in funding](https://techcrunch.com/2022/02/02/travel-experiences-app-headout-survives-the-omicron-surge-grabs-30-million-more-in-funding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
