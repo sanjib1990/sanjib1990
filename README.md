@@ -78,6 +78,7 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How I post banger tweets with artificial intelligence // Twitter Bot Tutorial](https://www.youtube.com/watch?v=V7LEihbOv3Y)
 - [How a CS student tracks Elon’s Private Jet with Python // The Code Report](https://www.youtube.com/watch?v=bJUl3OAIT0k)
 - [how to NOT be a hacking noob in 2022 // ft. John Hammond](https://www.youtube.com/watch?v=5dxuppvclxE)
 - [Ruby in 100 Seconds](https://www.youtube.com/watch?v=UYm0kfnRTJk)
@@ -87,7 +88,6 @@
 - [mining crypto with your internet?!?!](https://www.youtube.com/watch?v=El19X-zHt-c)
 - [Prisma in 100 Seconds](https://www.youtube.com/watch?v=rLRIB6AF2Dg)
 - [S3:E5: The Human Element in Machine Learning w Catherine D’Ignazio, Jacob Andreas &amp; Harini Suresh](https://www.youtube.com/watch?v=MbzbbvTlL1Y)
-- [How to buy Stocks with JavaScript // Algo Trading Tutorial for Dummies](https://www.youtube.com/watch?v=BrcugNqRwUs)
 <!-- YOUTUBE:END -->
 
 ---
