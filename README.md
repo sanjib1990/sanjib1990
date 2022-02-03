@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Flush with cash, bamboo-based toilet paper company Cloud Paper makes it rain](https://techcrunch.com/2022/02/03/cloud-paper-funding/)
+- [Colombia’s Bold raises $55M in Tiger Global-led round to enable digital payments in LatAm](https://techcrunch.com/2022/02/03/colombias-bold-raises-55m-in-tiger-led-round-to-enable-digital-payments-in-latam/)
+- [Pluto lands funding from corporate spend giants to build ‘Ramp for the Middle East’](https://techcrunch.com/2022/02/03/pluto-lands-funding-from-corporate-spend-giants-to-build-ramp-for-the-middle-east/)
+- [Acho takes in seed funding to build super app for data workers](https://techcrunch.com/2022/02/03/acho-takes-in-seed-funding-to-build-super-app-for-data-workers/)
+- [On This Day in Space! Feb. 3, 2006: Astronauts toss &#39;SuitSat&#39; off space station](https://www.space.com/39251-on-this-day-in-space.html)
 - [Blockchain bridge Wormhole confirms that exploiter stole $320 million worth of crypto assets](https://techcrunch.com/2022/02/03/blockchain-bridge-wormhole-confirms-that-exploiter-stole-320-million-worth-of-crypto-assets/)
 - [Travel booking app Hopper upgrades its valuation to $5B on secondary sale](https://techcrunch.com/2022/02/03/hopper/)
 - [Amira Yahyaoui wants Mos to be a ‘radical’ fintech startup](https://techcrunch.com/2022/02/03/amira-yahyaoui-wants-mos-to-be-a-radical-fintech-startup/)
 - [NASA hopes James Webb Space Telescope will unlock secrets of &#39;super-Earths&#39; and hot rocky worlds](https://www.space.com/james-webb-space-telescope-exoplanets-rocky-worlds)
 - [Dutch EdTech Studytube acquires training marketplace Springest and closes $30M Series B](https://techcrunch.com/2022/02/03/dutch-edtech-studytube-acquires-training-marketplace-springest-and-closes-30m-series-b/)
-- [Watch live as SpaceX launches more than four dozen Starlink satellites today](https://www.space.com/spacex-starlink-4-7-launch-watch-live)
-- [Advanced GOES-T weather satellite to launch in March with instrument fix](https://www.space.com/goes-t-press-conference)
-- [Kyoto Fusioneering secures $11.7M to build out its fusion reactor technologies](https://techcrunch.com/2022/02/03/kyoto-fusioneering-secures-11-7m-to-build-out-its-fusion-reactor-technologies/)
-- [No company, no . . . problem?](https://techcrunch.com/2022/02/03/no-company-no-problem/)
-- [Frontline worker HR platform Snapshift raises $45M round led by Highland Europe](https://techcrunch.com/2022/02/03/frontline-worker-hr-platform-snapshift-raises-45m-round-led-by-highland-europe/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
