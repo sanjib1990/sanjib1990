@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Veed, an online video editing platform, picks up $35M from Sequoia](https://techcrunch.com/2022/02/02/veed-an-online-video-editing-platform-picks-up-35m-from-sequoia/)
+- [Annotell raises $24M for tech that tests autonomous vehicle perception systems to improve how they work](https://techcrunch.com/2022/02/02/annotell-raises-24m-for-tech-that-tests-autonomous-vehicle-perception-systems-to-improve-how-they-work/)
 - [Kenyan insurtech startup Lami enters Malawi, DRC after acquiring Bluewave, eyes rest of Africa](https://techcrunch.com/2022/02/02/kenyan-insurtech-startup-lami-enters-malawi-drc-after-acquiring-bluewave-eyes-rest-of-africa/)
 - [Making &#39;Moonfall&#39;: Geophysicist Mika McKinnon talks about the fun of annihilating Earth in the fictional disaster film &lpar;video&rpar;](https://www.space.com/moonfall-geophysicist-mika-mckinnon-interview)
 - [Scale AI gets into the synthetic data game](https://techcrunch.com/2022/02/02/scale-ai-gets-into-the-synthetic-data-game/)
@@ -103,8 +105,6 @@
 - [Facebook isn’t growing anymore](https://techcrunch.com/2022/02/02/facebook-isnt-growing-anymore/)
 - [Why Facebook and Spotify are getting hammered in after-hours trading](https://techcrunch.com/2022/02/02/facebook-meta-spotify-stocks/)
 - [Homeland Security eyes robot dogs to patrol the southern border](https://techcrunch.com/2022/02/02/homeland-security-eyes-robot-dogs-to-patrol-the-southern-border/)
-- [SpaceX launches classified spy satellite for US military, lands rocket](https://www.space.com/spacex-launches-nrol-87-spy-satellite-lands-rocket)
-- [These are the 6 companies in Graham &amp; Walker’s latest accelerator class](https://techcrunch.com/2022/02/02/these-are-the-6-companies-in-graham-walkers-latest-accelerator-class/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
