@@ -95,6 +95,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Better.com loses more top execs in wake of Vishal Garg’s return as CEO](https://techcrunch.com/2022/02/03/better-com-loses-more-top-execs/)
+- [DeepScribe’s Akilesh Bapu and Index Venture’s Nina Achadjian to speak on founder/investor relationships on TCL](https://techcrunch.com/2022/02/03/deepscribes-akilesh-bapu-and-index-ventures-nina-achadjian-to-speak-on-founder-investor-relationships-on-tcl/)
+- [How to organize and execute an effective sales kickoff in 2022](https://techcrunch.com/2022/02/03/how-to-organize-and-execute-an-effective-sales-kickoff-in-2022/)
 - [Life-enabling moons can probably only form around small planets, study finds](https://www.space.com/large-planets-cant-form-big-moons-study)
 - [With a plan to decarbonize home heating with hydrogen, Modern Electron raises $30M](https://techcrunch.com/2022/02/03/with-a-plan-to-decarbonize-home-heating-with-hydrogen-modern-electron-raises-30m/)
 - [NASA astronaut Jessica Watkins to set new record for Black women in space: report](https://www.space.com/nasa-astronaut-jessica-watkins-black-woman-record-iss)
@@ -102,9 +105,6 @@
 - [Over the borderline](https://techcrunch.com/2022/02/03/over-the-borderline/)
 - [Photons Incoming: Webb Team Begins Aligning the Telescope](https://blogs.nasa.gov/webb/2022/02/03/photons-incoming-webb-team-begins-aligning-the-telescope/)
 - [SpaceX launches 49 Starlink satellites, lands rocket on droneship at sea](https://www.space.com/spacex-launches-starlink-satellites-lands-rocket-february-2022)
-- [Tackling touchpoints on your customer’s path to purchase](https://techcrunch.com/2022/02/03/tackling-touchpoints-on-your-customers-path-to-purchase/)
-- [Google Workspace goes all in on shadow IT](https://techcrunch.com/2022/02/03/google-workspace-goes-all-in-on-shadow-it/)
-- [Homeland Security establishes the Cyber Safety Review Board to learn the mistakes from past cyber incidents](https://techcrunch.com/2022/02/03/homeland-security-cyber-safety-review-board/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
