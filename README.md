@@ -95,8 +95,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [No company, no . . . problem?](https://techcrunch.com/2022/02/03/no-company-no-problem/)
 - [Frontline worker HR platform Snapshift raises $45M round led by Highland Europe](https://techcrunch.com/2022/02/03/frontline-worker-hr-platform-snapshift-raises-45m-round-led-by-highland-europe/)
-- [Flip, a popular chat app for frontline workers, raises $33M as it passes 1M users](https://techcrunch.com/2022/02/02/flip-a-popular-chat-app-for-frontline-workers-raises-33m-as-it-passes-1m-users/)
+- [Flip, a chat and HR app for frontline workers, raises $30M as it passes 1M users](https://techcrunch.com/2022/02/02/flip-a-popular-chat-app-for-frontline-workers-raises-30m-as-it-passes-1m-users/)
 - [Veed, an online video editing platform, picks up $35M from Sequoia](https://techcrunch.com/2022/02/02/veed-an-online-video-editing-platform-picks-up-35m-from-sequoia/)
 - [Annotell raises $24M for tech that tests autonomous vehicle perception systems to improve how they work](https://techcrunch.com/2022/02/02/annotell-raises-24m-for-tech-that-tests-autonomous-vehicle-perception-systems-to-improve-how-they-work/)
 - [Kenyan insurtech startup Lami enters Malawi, DRC after acquiring Bluewave, eyes rest of Africa](https://techcrunch.com/2022/02/02/kenyan-insurtech-startup-lami-enters-malawi-drc-after-acquiring-bluewave-eyes-rest-of-africa/)
@@ -104,7 +105,6 @@
 - [Scale AI gets into the synthetic data game](https://techcrunch.com/2022/02/02/scale-ai-gets-into-the-synthetic-data-game/)
 - [With a $22B run rate, does it matter if Google Cloud still loses money?](https://techcrunch.com/2022/02/02/with-a-22b-run-rate-does-it-matter-if-google-cloud-still-loses-money/)
 - [Daily Crunch: With $4M pre-seed round, Casava sets new funding record for African insurtech](https://techcrunch.com/2022/02/02/daily-crunch-with-4m-pre-seed-round-casava-sets-new-funding-record-for-african-insurtech/)
-- [Facebook isn’t growing anymore](https://techcrunch.com/2022/02/02/facebook-isnt-growing-anymore/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
