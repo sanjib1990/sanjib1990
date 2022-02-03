@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Kyoto Fusioneering secures $11.7M to build out its fusion reactor technologies](https://techcrunch.com/2022/02/03/kyoto-fusioneering-secures-11-7m-to-build-out-its-fusion-reactor-technologies/)
 - [No company, no . . . problem?](https://techcrunch.com/2022/02/03/no-company-no-problem/)
 - [Frontline worker HR platform Snapshift raises $45M round led by Highland Europe](https://techcrunch.com/2022/02/03/frontline-worker-hr-platform-snapshift-raises-45m-round-led-by-highland-europe/)
 - [Flip, a chat and HR app for frontline workers, raises $30M as it passes 1M users](https://techcrunch.com/2022/02/02/flip-a-popular-chat-app-for-frontline-workers-raises-30m-as-it-passes-1m-users/)
@@ -104,7 +105,6 @@
 - [Making &#39;Moonfall&#39;: Geophysicist Mika McKinnon talks about the fun of annihilating Earth in the fictional disaster film &lpar;video&rpar;](https://www.space.com/moonfall-geophysicist-mika-mckinnon-interview)
 - [Scale AI gets into the synthetic data game](https://techcrunch.com/2022/02/02/scale-ai-gets-into-the-synthetic-data-game/)
 - [With a $22B run rate, does it matter if Google Cloud still loses money?](https://techcrunch.com/2022/02/02/with-a-22b-run-rate-does-it-matter-if-google-cloud-still-loses-money/)
-- [Daily Crunch: With $4M pre-seed round, Casava sets new funding record for African insurtech](https://techcrunch.com/2022/02/02/daily-crunch-with-4m-pre-seed-round-casava-sets-new-funding-record-for-african-insurtech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
