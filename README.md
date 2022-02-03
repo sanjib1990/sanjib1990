@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tackling touchpoints on your customer’s path to purchase](https://techcrunch.com/2022/02/03/tackling-touchpoints-on-your-customers-path-to-purchase/)
+- [Google Workspace goes all in on shadow IT](https://techcrunch.com/2022/02/03/google-workspace-goes-all-in-on-shadow-it/)
+- [Homeland Security establishes the Cyber Safety Review Board to learn the mistakes from past cyber incidents](https://techcrunch.com/2022/02/03/homeland-security-cyber-safety-review-board/)
+- [Lego Star Wars Millennium Falcon review](https://www.space.com/lego-star-wars-millennium-falcon-75257-review)
+- [Over 500 mobile apps are now using the term ‘metaverse’ to attract new users](https://techcrunch.com/2022/02/03/over-500-mobile-apps-are-now-using-the-term-metaverse-to-attract-new-users/)
 - [GM Ventures invests in startup building fast charge-capable battery tech](https://techcrunch.com/2022/02/03/gm-ventures-invests-in-startup-building-fast-charge-capable-battery-tech/)
 - [Novi is building a B2B marketplace for brands that care about sustainability](https://techcrunch.com/2022/02/03/novi-sustainable-sourcing/)
 - [Jar raises $32 million in Tiger Global-led funding to help Indians start their saving and investment journeys](https://techcrunch.com/2022/02/03/jar-india-fintech-tiger-global/)
 - [Get your discounted Founder Launch pass to TechCrunch Early Stage before they’re gone](https://techcrunch.com/2022/02/03/get-your-discounted-founder-launch-pass-to-techcrunch-early-stage-before-theyre-gone/)
 - [The 1st poster for &#39;Star Trek: Strange New Worlds&#39; evokes the &lpar;final&rpar; frontier for new  to Paramount Plus spinoff](https://www.space.com/star-trek-strange-new-worlds-first-poster-premiere-date)
-- [Tripp acquires EvolVR to help more people fly higher in the metaverse](https://techcrunch.com/2022/02/03/tripp-acquires-evolvr/)
-- [Megaconstellations like SpaceX&#39;s Starlink may interfere with search for life by world&#39;s largest radio telescope](https://www.space.com/spacex-starlink-affects-search-for-life-radio-observatory)
-- [No plastic clamshells here: Zero Grocery aims to eliminate unnecessary plastic in grocery delivery](https://techcrunch.com/2022/02/03/no-plastic-clamshells-here-zero-grocery-aims-to-eliminate-unnecessary-plastic-in-grocery-delivery/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [As public tech valuations fall, are startup investments evolving quickly enough?](https://techcrunch.com/2022/02/03/as-public-tech-valuations-fall-are-startup-investments-evolving-quickly-enough/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
