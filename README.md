@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tripp acquires EvolVR to help more people fly higher in the metaverse](https://techcrunch.com/2022/02/03/tripp-acquires-evolvr/)
+- [No plastic clamshells here: Zero Grocery aims to eliminate unnecessary plastic in grocery delivery](https://techcrunch.com/2022/02/03/no-plastic-clamshells-here-zero-grocery-aims-to-eliminate-unnecessary-plastic-in-grocery-delivery/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [As public tech valuations fall, are startup investments evolving quickly enough?](https://techcrunch.com/2022/02/03/as-public-tech-valuations-fall-are-startup-investments-evolving-quickly-enough/)
+- [Mozilla is shutting down its VR web browser, Firefox Reality](https://techcrunch.com/2022/02/03/mozilla-is-shutting-down-its-vr-web-browser-firefox-reality/)
+- [Astra aiming for 1st Florida launch on Saturday](https://www.space.com/astra-first-florida-launch-saturday)
 - [Tesla recalls more than 817,000 cars over faulty seat belt chimes](https://techcrunch.com/2022/02/03/tesla-recalls-more-than-817000-cars-over-faulty-seat-belt-chimes/)
 - [Virtual CISO startup Cynomi raises $3.5M to help SMBs automate cybersecurity](https://techcrunch.com/2022/02/03/cynomi-virtual-ciso-cyber-talent/)
 - [Getlabs will build out its at-home blood testing network with $20M Series A](https://techcrunch.com/2022/02/03/getlabs-at-home-blood-tests-20m-series-a/)
 - [Lula’s delivery tool gives convenience stores, pharmacies second sales channel](https://techcrunch.com/2022/02/03/lulas-delivery-tool-gives-convenience-stores-pharmacies-second-sales-channel/)
-- [ICEYE’s new $136M in funding points to a white hot space-based remote sensing market](https://techcrunch.com/2022/02/03/iceyes-new-136m-in-funding-points-to-a-white-hot-space-based-remote-sensing-market/)
-- [Cameo announces its NFT project, Cameo Pass](https://techcrunch.com/2022/02/03/cameo-launching-cameo-pass-minting-open-sea/)
-- [Low-code integration platform Digibee raises $25M Series A](https://techcrunch.com/2022/02/03/low-code-integration-platform-digibee-raises-25m-series-a/)
-- [Best Lego Star Wars sets 2022](https://www.space.com/best-lego-star-wars-sets)
-- [PalmPay raised $100M Series A last August, claims to have 5 million users](https://techcrunch.com/2022/02/03/palmpay-raised-100m-series-a-last-august-claims-to-have-5-million-users/)
-- [Flush with cash, bamboo-based toilet paper company Cloud Paper makes it rain](https://techcrunch.com/2022/02/03/cloud-paper-funding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
