@@ -95,7 +95,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Alignment of James Webb Space Telescope begins](https://www.space.com/james-webb-space-telescope-alignment-begins)
+- [Aptiv’s latest investment shows that software-defined vehicles are here to stay](https://techcrunch.com/2022/02/03/aptivs-latest-investment-shows-that-software-defined-vehicles-are-here-to-stay/)
+- [11 ways to make personalized shopping more effective and profitable](https://techcrunch.com/2022/02/03/11-ways-to-make-personalized-shopping-more-effective-and-profitable/)
+- [The alignment of NASA&#39;s James Webb Space Telescope has begun](https://www.space.com/james-webb-space-telescope-alignment-begins)
 - [Snap finally did it, y’all](https://techcrunch.com/2022/02/03/snap-finally-did-it-yall/)
 - [Amazon is increasing the annual price of Prime to $139 in the U.S.](https://techcrunch.com/2022/02/03/amazon-is-increasing-the-annual-price-of-prime-to-139-in-the-u-s/)
 - [The truth about management in Silicon Valley: It doesn’t exist](https://techcrunch.com/2022/02/03/the-truth-about-management-in-silicon-valley-it-doesnt-exist/)
@@ -103,8 +105,6 @@
 - [What is the biggest star ever observed?](https://www.space.com/41290-biggest-star.html)
 - [Better.com loses more top execs in wake of Vishal Garg’s return as CEO](https://techcrunch.com/2022/02/03/better-com-loses-more-top-execs/)
 - [DeepScribe’s Akilesh Bapu and Index Venture’s Nina Achadjian to speak on founder/investor relationships on TCL](https://techcrunch.com/2022/02/03/deepscribes-akilesh-bapu-and-index-ventures-nina-achadjian-to-speak-on-founder-investor-relationships-on-tcl/)
-- [How to organize and execute an effective sales kickoff in 2022](https://techcrunch.com/2022/02/03/how-to-organize-and-execute-an-effective-sales-kickoff-in-2022/)
-- [Life-enabling moons can probably only form around small planets, study finds](https://www.space.com/large-planets-cant-form-big-moons-study)
 <!-- BLOG-POST-LIST:END -->
 
 ---
