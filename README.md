@@ -78,16 +78,16 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [The Confederated Salish-Kootenai Tribes - State of Montana Water Compact](https://www.youtube.com/watch?v=brsHU2jA73E)
+- [Singapore-Malaysia Water Conflict](https://www.youtube.com/watch?v=neBeTYziSLo)
+- [Ganges Water Conflicts between India and Bangladesh](https://www.youtube.com/watch?v=w2HASHQ8nYw)
+- [Enabling Conditions for Transboundary Water Agreements](https://www.youtube.com/watch?v=KmoodT_3XPQ)
+- [Integrated Water Resources Management / The Water-Energy-Food Nexus](https://www.youtube.com/watch?v=uRJFjEXhOPw)
+- [The Past, Present and Future of the Columbia River Treaty: A Case for Modernization](https://www.youtube.com/watch?v=oqOtuChgsz4)
 - [How I post banger tweets with artificial intelligence // Twitter Bot Tutorial](https://www.youtube.com/watch?v=V7LEihbOv3Y)
 - [How a CS student tracks Elon’s Private Jet with Python // The Code Report](https://www.youtube.com/watch?v=bJUl3OAIT0k)
 - [how to NOT be a hacking noob in 2022 // ft. John Hammond](https://www.youtube.com/watch?v=5dxuppvclxE)
 - [Ruby in 100 Seconds](https://www.youtube.com/watch?v=UYm0kfnRTJk)
-- [i hired my replacement….kind of &lpar;the FUTURE of NetworkChuck&rpar;](https://www.youtube.com/watch?v=UiO6uFHqwbU)
-- [I created a Command Line Game for you // 5-Minute Node.js CLI Project](https://www.youtube.com/watch?v=_oHByo8tiEY)
-- [Metaverse is 30yrs old - Why Facebook is late to the party - Computerphile](https://www.youtube.com/watch?v=vw7602ULHWA)
-- [mining crypto with your internet?!?!](https://www.youtube.com/watch?v=El19X-zHt-c)
-- [Prisma in 100 Seconds](https://www.youtube.com/watch?v=rLRIB6AF2Dg)
-- [S3:E5: The Human Element in Machine Learning w Catherine D’Ignazio, Jacob Andreas &amp; Harini Suresh](https://www.youtube.com/watch?v=MbzbbvTlL1Y)
 <!-- YOUTUBE:END -->
 
 ---
