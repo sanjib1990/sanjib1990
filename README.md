@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Alignment of James Webb Space Telescope begins](https://www.space.com/james-webb-space-telescope-alignment-begins)
+- [Snap finally did it, y’all](https://techcrunch.com/2022/02/03/snap-finally-did-it-yall/)
+- [Amazon is increasing the annual price of Prime to $139 in the U.S.](https://techcrunch.com/2022/02/03/amazon-is-increasing-the-annual-price-of-prime-to-139-in-the-u-s/)
+- [The truth about management in Silicon Valley: It doesn’t exist](https://techcrunch.com/2022/02/03/the-truth-about-management-in-silicon-valley-it-doesnt-exist/)
+- [Dolby acquires low-latency streaming platform Millicast](https://techcrunch.com/2022/02/03/dolby-acquires-low-latency-streaming-platform-millicast/)
+- [What is the biggest star ever observed?](https://www.space.com/41290-biggest-star.html)
 - [Better.com loses more top execs in wake of Vishal Garg’s return as CEO](https://techcrunch.com/2022/02/03/better-com-loses-more-top-execs/)
 - [DeepScribe’s Akilesh Bapu and Index Venture’s Nina Achadjian to speak on founder/investor relationships on TCL](https://techcrunch.com/2022/02/03/deepscribes-akilesh-bapu-and-index-ventures-nina-achadjian-to-speak-on-founder-investor-relationships-on-tcl/)
 - [How to organize and execute an effective sales kickoff in 2022](https://techcrunch.com/2022/02/03/how-to-organize-and-execute-an-effective-sales-kickoff-in-2022/)
 - [Life-enabling moons can probably only form around small planets, study finds](https://www.space.com/large-planets-cant-form-big-moons-study)
-- [With a plan to decarbonize home heating with hydrogen, Modern Electron raises $30M](https://techcrunch.com/2022/02/03/with-a-plan-to-decarbonize-home-heating-with-hydrogen-modern-electron-raises-30m/)
-- [NASA astronaut Jessica Watkins to set new record for Black women in space: report](https://www.space.com/nasa-astronaut-jessica-watkins-black-woman-record-iss)
-- [The top 5 deep-space objects to look for in the winter night sky](https://www.space.com/top-5-winter-deep-sky-objects)
-- [Over the borderline](https://techcrunch.com/2022/02/03/over-the-borderline/)
-- [Photons Incoming: Webb Team Begins Aligning the Telescope](https://blogs.nasa.gov/webb/2022/02/03/photons-incoming-webb-team-begins-aligning-the-telescope/)
-- [SpaceX launches 49 Starlink satellites, lands rocket on droneship at sea](https://www.space.com/spacex-launches-starlink-satellites-lands-rocket-february-2022)
 <!-- BLOG-POST-LIST:END -->
 
 ---
