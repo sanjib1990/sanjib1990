@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla recalls more than 817,000 cars over faulty seat belt chimes](https://techcrunch.com/2022/02/03/tesla-recalls-more-than-817000-cars-over-faulty-seat-belt-chimes/)
 - [Virtual CISO startup Cynomi raises $3.5M to help SMBs automate cybersecurity](https://techcrunch.com/2022/02/03/cynomi-virtual-ciso-cyber-talent/)
 - [Getlabs will build out its at-home blood testing network with $20M Series A](https://techcrunch.com/2022/02/03/getlabs-at-home-blood-tests-20m-series-a/)
 - [Lula’s delivery tool gives convenience stores, pharmacies second sales channel](https://techcrunch.com/2022/02/03/lulas-delivery-tool-gives-convenience-stores-pharmacies-second-sales-channel/)
@@ -104,7 +105,6 @@
 - [Best Lego Star Wars sets 2022](https://www.space.com/best-lego-star-wars-sets)
 - [PalmPay raised $100M Series A last August, claims to have 5 million users](https://techcrunch.com/2022/02/03/palmpay-raised-100m-series-a-last-august-claims-to-have-5-million-users/)
 - [Flush with cash, bamboo-based toilet paper company Cloud Paper makes it rain](https://techcrunch.com/2022/02/03/cloud-paper-funding/)
-- [Colombia’s Bold raises $55M in Tiger Global-led round to enable digital payments in LatAm](https://techcrunch.com/2022/02/03/colombias-bold-raises-55m-in-tiger-led-round-to-enable-digital-payments-in-latam/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
