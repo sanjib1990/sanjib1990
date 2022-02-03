@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Virtual CISO startup Cynomi raises $3.5M to help SMBs automate cybersecurity](https://techcrunch.com/2022/02/03/cynomi-virtual-ciso-cyber-talent/)
+- [Getlabs will build out its at-home blood testing network with $20M Series A](https://techcrunch.com/2022/02/03/getlabs-at-home-blood-tests-20m-series-a/)
+- [Lula’s delivery tool gives convenience stores, pharmacies second sales channel](https://techcrunch.com/2022/02/03/lulas-delivery-tool-gives-convenience-stores-pharmacies-second-sales-channel/)
+- [ICEYE’s new $136M in funding points to a white hot space-based remote sensing market](https://techcrunch.com/2022/02/03/iceyes-new-136m-in-funding-points-to-a-white-hot-space-based-remote-sensing-market/)
+- [Cameo announces its NFT project, Cameo Pass](https://techcrunch.com/2022/02/03/cameo-launching-cameo-pass-minting-open-sea/)
+- [Low-code integration platform Digibee raises $25M Series A](https://techcrunch.com/2022/02/03/low-code-integration-platform-digibee-raises-25m-series-a/)
+- [Best Lego Star Wars sets 2022](https://www.space.com/best-lego-star-wars-sets)
+- [PalmPay raised $100M Series A last August, claims to have 5 million users](https://techcrunch.com/2022/02/03/palmpay-raised-100m-series-a-last-august-claims-to-have-5-million-users/)
 - [Flush with cash, bamboo-based toilet paper company Cloud Paper makes it rain](https://techcrunch.com/2022/02/03/cloud-paper-funding/)
 - [Colombia’s Bold raises $55M in Tiger Global-led round to enable digital payments in LatAm](https://techcrunch.com/2022/02/03/colombias-bold-raises-55m-in-tiger-led-round-to-enable-digital-payments-in-latam/)
-- [Pluto lands funding from corporate spend giants to build ‘Ramp for the Middle East’](https://techcrunch.com/2022/02/03/pluto-lands-funding-from-corporate-spend-giants-to-build-ramp-for-the-middle-east/)
-- [Acho takes in seed funding to build super app for data workers](https://techcrunch.com/2022/02/03/acho-takes-in-seed-funding-to-build-super-app-for-data-workers/)
-- [On This Day in Space! Feb. 3, 2006: Astronauts toss &#39;SuitSat&#39; off space station](https://www.space.com/39251-on-this-day-in-space.html)
-- [Blockchain bridge Wormhole confirms that exploiter stole $320 million worth of crypto assets](https://techcrunch.com/2022/02/03/blockchain-bridge-wormhole-confirms-that-exploiter-stole-320-million-worth-of-crypto-assets/)
-- [Travel booking app Hopper upgrades its valuation to $5B on secondary sale](https://techcrunch.com/2022/02/03/hopper/)
-- [Amira Yahyaoui wants Mos to be a ‘radical’ fintech startup](https://techcrunch.com/2022/02/03/amira-yahyaoui-wants-mos-to-be-a-radical-fintech-startup/)
-- [NASA hopes James Webb Space Telescope will unlock secrets of &#39;super-Earths&#39; and hot rocky worlds](https://www.space.com/james-webb-space-telescope-exoplanets-rocky-worlds)
-- [Dutch EdTech Studytube acquires training marketplace Springest and closes $30M Series B](https://techcrunch.com/2022/02/03/dutch-edtech-studytube-acquires-training-marketplace-springest-and-closes-30m-series-b/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
