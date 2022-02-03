@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Photons Incoming: Webb Team Begins Aligning the Telescope](https://blogs.nasa.gov/webb/2022/02/03/photons-incoming-webb-team-begins-aligning-the-telescope/)
+- [SpaceX launches 49 Starlink satellites, lands rocket on droneship at sea](https://www.space.com/spacex-launches-starlink-satellites-lands-rocket-february-2022)
 - [Tackling touchpoints on your customer’s path to purchase](https://techcrunch.com/2022/02/03/tackling-touchpoints-on-your-customers-path-to-purchase/)
 - [Google Workspace goes all in on shadow IT](https://techcrunch.com/2022/02/03/google-workspace-goes-all-in-on-shadow-it/)
 - [Homeland Security establishes the Cyber Safety Review Board to learn the mistakes from past cyber incidents](https://techcrunch.com/2022/02/03/homeland-security-cyber-safety-review-board/)
@@ -103,8 +105,6 @@
 - [GM Ventures invests in startup building fast charge-capable battery tech](https://techcrunch.com/2022/02/03/gm-ventures-invests-in-startup-building-fast-charge-capable-battery-tech/)
 - [Novi is building a B2B marketplace for brands that care about sustainability](https://techcrunch.com/2022/02/03/novi-sustainable-sourcing/)
 - [Jar raises $32 million in Tiger Global-led funding to help Indians start their saving and investment journeys](https://techcrunch.com/2022/02/03/jar-india-fintech-tiger-global/)
-- [Get your discounted Founder Launch pass to TechCrunch Early Stage before they’re gone](https://techcrunch.com/2022/02/03/get-your-discounted-founder-launch-pass-to-techcrunch-early-stage-before-theyre-gone/)
-- [The 1st poster for &#39;Star Trek: Strange New Worlds&#39; evokes the &lpar;final&rpar; frontier for new  to Paramount Plus spinoff](https://www.space.com/star-trek-strange-new-worlds-first-poster-premiere-date)
 <!-- BLOG-POST-LIST:END -->
 
 ---
