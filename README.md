@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Indian fintech founder asks for the removal of BharatPe CEO from board](https://techcrunch.com/2022/02/04/ashneer-grover-suhail-sameer-bharatpe/)
 - [In Ford’s transition to EVs, cost-cutting takes center stage](https://techcrunch.com/2022/02/03/in-fords-transition-to-evs-cost-cutting-takes-center-stage/)
 - [Marathon Venture Capital adds to its newest fund to back Greek founders around the globe](https://techcrunch.com/2022/02/03/marathon-venture-capital-adds-to-its-newest-fund-to-back-greek-founders-around-the-globe/)
 - [China&#39;s Tianwen 1 Mars orbiter takes amazing video selfie for lunar New Year](https://www.space.com/china-tianwen-1-mars-selfie-lunar-new-year)
@@ -104,7 +105,6 @@
 - [The alignment of NASA&#39;s James Webb Space Telescope has begun](https://www.space.com/james-webb-space-telescope-alignment-begins)
 - [Snap finally did it, y’all](https://techcrunch.com/2022/02/03/snap-finally-did-it-yall/)
 - [Amazon is increasing the annual price of Prime to $139 in the US](https://techcrunch.com/2022/02/03/amazon-is-increasing-the-annual-price-of-prime-to-139-in-the-u-s/)
-- [The truth about management in Silicon Valley: It doesn’t exist](https://techcrunch.com/2022/02/03/the-truth-about-management-in-silicon-valley-it-doesnt-exist/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
