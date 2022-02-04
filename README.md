@@ -95,7 +95,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Artisanal Ventures closes $62M fund, takes ‘connected capital’ approach to investment](https://techcrunch.com/2022/02/04/artisanal-ventures-closes-62m-fund-takes-connected-capital-approach-to-investment/)
 - [Apple to charge 27% fee for Dutch dating apps using alternative payment options](https://techcrunch.com/2022/02/04/apple-to-charge-27-fee-for-dutch-dating-apps-using-alternative-payment-options/)
+- [On This Day in Space! Feb. 4, 1995: STS-63 launches &#39;Orbital Debris Calibration Sphere&#39;](https://www.space.com/39251-on-this-day-in-space.html)
 - [NASA honors Black History Month with live webcasts](https://www.space.com/nasa-black-history-month-2022-events)
 - [The chances of early life on Mars faced a meteorite problem](https://www.space.com/early-life-meteorites-mars)
 - [&#39;Moonfall&#39; director Roland Emmerich talks disaster, destruction and the inspiration for his moon-crashing new film &lpar;video&rpar;](https://www.space.com/moonfall-director-roland-emmerich-interview)
@@ -103,8 +105,6 @@
 - [BharatPe founder asks for the removal of CEO from board](https://techcrunch.com/2022/02/04/ashneer-grover-suhail-sameer-bharatpe/)
 - [In Ford’s transition to EVs, cost-cutting takes center stage](https://techcrunch.com/2022/02/03/in-fords-transition-to-evs-cost-cutting-takes-center-stage/)
 - [Marathon Venture Capital adds to its newest fund to back Greek founders around the globe](https://techcrunch.com/2022/02/03/marathon-venture-capital-adds-to-its-newest-fund-to-back-greek-founders-around-the-globe/)
-- [China&#39;s Tianwen 1 Mars orbiter takes amazing video selfie for lunar New Year](https://www.space.com/china-tianwen-1-mars-selfie-lunar-new-year)
-- [Daily Crunch: Mos evolves from fintech into challenger bank, as early users start post-college lives](https://techcrunch.com/2022/02/03/daily-crunch-mos-evolves-from-fintech-into-challenger-bank-as-early-users-start-post-college-lives/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
