@@ -78,6 +78,7 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [BIG new feature lands in Node.js // The Code Report](https://www.youtube.com/watch?v=MBqS1kYzwTc)
 - [Integrated Water Resources Management / The Water-Energy-Food Nexus](https://www.youtube.com/watch?v=kAeDRfk6A9w)
 - [The Confederated Salish-Kootenai Tribes - State of Montana Water Compact](https://www.youtube.com/watch?v=brsHU2jA73E)
 - [Singapore-Malaysia Water Conflict](https://www.youtube.com/watch?v=neBeTYziSLo)
@@ -87,7 +88,6 @@
 - [How I post banger tweets with artificial intelligence // Twitter Bot Tutorial](https://www.youtube.com/watch?v=V7LEihbOv3Y)
 - [How a CS student tracks Elon’s Private Jet with Python // The Code Report](https://www.youtube.com/watch?v=bJUl3OAIT0k)
 - [how to NOT be a hacking noob in 2022 // ft. John Hammond](https://www.youtube.com/watch?v=5dxuppvclxE)
-- [Ruby in 100 Seconds](https://www.youtube.com/watch?v=UYm0kfnRTJk)
 <!-- YOUTUBE:END -->
 
 ---
