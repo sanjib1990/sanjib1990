@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [On Meta’s “regulatory headwinds” and adtech’s privacy reckoning](https://techcrunch.com/2022/02/04/on-metas-regulatory-headwinds-and-adtechs-privacy-reckoning/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [How to recruit when your software startup is in stealth mode](https://techcrunch.com/2022/02/04/how-to-recruit-when-your-software-startup-is-in-stealth-mode/)
 - [Meta adds ‘personal boundaries’ to Horizon Worlds and Venues to fight harassment](https://techcrunch.com/2022/02/04/meta-adds-personal-boundaries-to-horizon-worlds-and-venues-to-fight-harassment/)
 - [Circular takes on Oura with a $259 smart ring](https://techcrunch.com/2022/02/04/circular-takes-on-oura-with-a-259-smart-ring/)
@@ -103,8 +105,6 @@
 - [The best space gifts and deals for kids 2022](https://www.space.com/34669-kids-gifts.html)
 - [Why 2022 insurtech investment could surprise you](https://techcrunch.com/2022/02/04/why-2022-insurtech-investment-could-surprise-you/)
 - [Spotify CEO hints HiFi tier delay is related to licensing issues](https://techcrunch.com/2022/02/04/spotify-ceo-hints-hifi-tier-delay-is-related-to-licensing-issues/)
-- [SpaceX Falcon 9 rocket stage to crash into moon 1 month from today](https://www.space.com/spacex-falcon-9-moon-crash-one-month-away)
-- [We’re building a social+ world, but how will we moderate it?](https://techcrunch.com/2022/02/04/were-building-a-social-world-but-how-will-we-moderate-it/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
