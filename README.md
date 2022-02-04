@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why 2022 insurtech investment could surprise you](https://techcrunch.com/2022/02/04/why-2022-insurtech-investment-could-surprise-you/)
+- [Spotify CEO hints HiFi tier delay is related to licensing issues](https://techcrunch.com/2022/02/04/spotify-ceo-hints-hifi-tier-delay-is-related-to-licensing-issues/)
+- [SpaceX Falcon 9 rocket stage to crash into moon 1 month from today](https://www.space.com/spacex-falcon-9-moon-crash-one-month-away)
+- [We’re building a social+ world, but how will we moderate it?](https://techcrunch.com/2022/02/04/were-building-a-social-world-but-how-will-we-moderate-it/)
+- [Axiom Space&#39;s 1st space station crew approved by NASA, ISS partners](https://www.space.com/axiom-space-ax-1-iss-crew-approved)
+- [NASA prepares for moon&#39;s dark south pole in eerie lights-out &#39;spacewalk&#39; &lpar;photo&rpar;](https://www.space.com/lights-out-artemis-spacewalk-practice-underwater)
+- [Numeral wants to turn bank accounts into microservices](https://techcrunch.com/2022/02/04/numeral-wants-to-turn-bank-accounts-into-microservices/)
+- [How to debate a flat-Earther](https://www.space.com/how-to-debate-flat-earther.html)
+- [NASA, SpaceX to provide Crew-4 astronaut launch update today. How to listen live.](https://www.space.com/spacex-nasa-crew-4-april-2022-launch-plan-update)
 - [Unit CEO Itai Damti and Flourish’s Emmalyn Shaw to explain fundraising strategies on TechCrunch Live](https://techcrunch.com/2022/02/04/unit-ceo-itai-damti-and-flourishs-emmalyn-shaw-to-explain-fundraising-strategies-on-techcrunch-live/)
-- [Cloud infrastructure market soared to $178B in 2021, growing $49B in one year](https://techcrunch.com/2022/02/04/cloud-infrastructure-market-soared-to-178b-in-2021-growing-49b-in-one-year/)
-- [Distance to Mars: How far away is the Red Planet?](https://www.space.com/16875-how-far-away-is-mars.html)
-- [Taxing crypto only makes it stronger](https://techcrunch.com/2022/02/04/taxing-crypto-only-makes-it-stronger/)
-- [Artisanal Ventures closes $62M fund, takes ‘connected capital’ approach to investment](https://techcrunch.com/2022/02/04/artisanal-ventures-closes-62m-fund-takes-connected-capital-approach-to-investment/)
-- [Apple to charge 27% fee for Dutch dating apps using alternative payment options](https://techcrunch.com/2022/02/04/apple-to-charge-27-fee-for-dutch-dating-apps-using-alternative-payment-options/)
-- [On This Day in Space! Feb. 4, 1995: STS-63 launches &#39;Orbital Debris Calibration Sphere&#39;](https://www.space.com/39251-on-this-day-in-space.html)
-- [NASA honors Black History Month with live webcasts](https://www.space.com/nasa-black-history-month-2022-events)
-- [The chances of early life on Mars faced a meteorite problem](https://www.space.com/early-life-meteorites-mars)
-- [&#39;Moonfall&#39; director Roland Emmerich talks disaster, destruction and the inspiration for his moon-crashing new film &lpar;video&rpar;](https://www.space.com/moonfall-director-roland-emmerich-interview)
 <!-- BLOG-POST-LIST:END -->
 
 ---
