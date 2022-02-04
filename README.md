@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple to charge 27% fee for Dutch dating apps using alternative payment options](https://techcrunch.com/2022/02/04/apple-to-charge-27-fee-for-dutch-dating-apps-using-alternative-payment-options/)
+- [NASA honors Black History Month with live webcasts](https://www.space.com/nasa-black-history-month-2022-events)
+- [The chances of early life on Mars faced a meteorite problem](https://www.space.com/early-life-meteorites-mars)
+- [&#39;Moonfall&#39; director Roland Emmerich talks disaster, destruction and the inspiration for his moon-crashing new film &lpar;video&rpar;](https://www.space.com/moonfall-director-roland-emmerich-interview)
+- [Purple space &#39;lightning&#39; spews from stellar corpse, creating cosmic shock waves &lpar;photo, video&rpar;](https://www.space.com/white-dwarf-red-giant-space-lightning-photo)
 - [BharatPe founder asks for the removal of CEO from board](https://techcrunch.com/2022/02/04/ashneer-grover-suhail-sameer-bharatpe/)
 - [In Ford’s transition to EVs, cost-cutting takes center stage](https://techcrunch.com/2022/02/03/in-fords-transition-to-evs-cost-cutting-takes-center-stage/)
 - [Marathon Venture Capital adds to its newest fund to back Greek founders around the globe](https://techcrunch.com/2022/02/03/marathon-venture-capital-adds-to-its-newest-fund-to-back-greek-founders-around-the-globe/)
 - [China&#39;s Tianwen 1 Mars orbiter takes amazing video selfie for lunar New Year](https://www.space.com/china-tianwen-1-mars-selfie-lunar-new-year)
 - [Daily Crunch: Mos evolves from fintech into challenger bank, as early users start post-college lives](https://techcrunch.com/2022/02/03/daily-crunch-mos-evolves-from-fintech-into-challenger-bank-as-early-users-start-post-college-lives/)
-- [Aptiv’s latest investment shows that software-defined vehicles are here to stay](https://techcrunch.com/2022/02/03/aptivs-latest-investment-shows-that-software-defined-vehicles-are-here-to-stay/)
-- [11 ways to make personalized shopping more effective and profitable](https://techcrunch.com/2022/02/03/11-ways-to-make-personalized-shopping-more-effective-and-profitable/)
-- [The alignment of NASA&#39;s James Webb Space Telescope has begun](https://www.space.com/james-webb-space-telescope-alignment-begins)
-- [Snap finally did it, y’all](https://techcrunch.com/2022/02/03/snap-finally-did-it-yall/)
-- [Amazon is increasing the annual price of Prime to $139 in the US](https://techcrunch.com/2022/02/03/amazon-is-increasing-the-annual-price-of-prime-to-139-in-the-u-s/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
