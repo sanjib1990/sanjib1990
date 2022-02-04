@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to recruit when your software startup is in stealth mode](https://techcrunch.com/2022/02/04/how-to-recruit-when-your-software-startup-is-in-stealth-mode/)
+- [Meta adds ‘personal boundaries’ to Horizon Worlds and Venues to fight harassment](https://techcrunch.com/2022/02/04/meta-adds-personal-boundaries-to-horizon-worlds-and-venues-to-fight-harassment/)
+- [Circular takes on Oura with a $259 smart ring](https://techcrunch.com/2022/02/04/circular-takes-on-oura-with-a-259-smart-ring/)
+- [&#39;Moonfall&#39; pulls scenes from space shuttle Endeavour move 10 years ago](https://www.space.com/moonfall-space-shuttle-endeavour)
+- [Collaborate with the founder community at TechCrunch Early Stage 2022](https://techcrunch.com/2022/02/04/collaborate-with-the-founder-community-at-techcrunch-early-stage-2022/)
+- [The best space gifts and deals for kids 2022](https://www.space.com/34669-kids-gifts.html)
 - [Why 2022 insurtech investment could surprise you](https://techcrunch.com/2022/02/04/why-2022-insurtech-investment-could-surprise-you/)
 - [Spotify CEO hints HiFi tier delay is related to licensing issues](https://techcrunch.com/2022/02/04/spotify-ceo-hints-hifi-tier-delay-is-related-to-licensing-issues/)
 - [SpaceX Falcon 9 rocket stage to crash into moon 1 month from today](https://www.space.com/spacex-falcon-9-moon-crash-one-month-away)
 - [We’re building a social+ world, but how will we moderate it?](https://techcrunch.com/2022/02/04/were-building-a-social-world-but-how-will-we-moderate-it/)
-- [Axiom Space&#39;s 1st space station crew approved by NASA, ISS partners](https://www.space.com/axiom-space-ax-1-iss-crew-approved)
-- [NASA prepares for moon&#39;s dark south pole in eerie lights-out &#39;spacewalk&#39; &lpar;photo&rpar;](https://www.space.com/lights-out-artemis-spacewalk-practice-underwater)
-- [Numeral wants to turn bank accounts into microservices](https://techcrunch.com/2022/02/04/numeral-wants-to-turn-bank-accounts-into-microservices/)
-- [How to debate a flat-Earther](https://www.space.com/how-to-debate-flat-earther.html)
-- [NASA, SpaceX to provide Crew-4 astronaut launch update today. How to listen live.](https://www.space.com/spacex-nasa-crew-4-april-2022-launch-plan-update)
-- [Unit CEO Itai Damti and Flourish’s Emmalyn Shaw to explain fundraising strategies on TechCrunch Live](https://techcrunch.com/2022/02/04/unit-ceo-itai-damti-and-flourishs-emmalyn-shaw-to-explain-fundraising-strategies-on-techcrunch-live/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
