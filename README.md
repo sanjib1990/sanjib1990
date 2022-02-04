@@ -95,6 +95,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Unit CEO Itai Damti and Flourish’s Emmalyn Shaw to explain fundraising strategies on TechCrunch Live](https://techcrunch.com/2022/02/04/unit-ceo-itai-damti-and-flourishs-emmalyn-shaw-to-explain-fundraising-strategies-on-techcrunch-live/)
+- [Cloud infrastructure market soared to $178B in 2021, growing $49B in one year](https://techcrunch.com/2022/02/04/cloud-infrastructure-market-soared-to-178b-in-2021-growing-49b-in-one-year/)
+- [Distance to Mars: How far away is the Red Planet?](https://www.space.com/16875-how-far-away-is-mars.html)
 - [Taxing crypto only makes it stronger](https://techcrunch.com/2022/02/04/taxing-crypto-only-makes-it-stronger/)
 - [Artisanal Ventures closes $62M fund, takes ‘connected capital’ approach to investment](https://techcrunch.com/2022/02/04/artisanal-ventures-closes-62m-fund-takes-connected-capital-approach-to-investment/)
 - [Apple to charge 27% fee for Dutch dating apps using alternative payment options](https://techcrunch.com/2022/02/04/apple-to-charge-27-fee-for-dutch-dating-apps-using-alternative-payment-options/)
@@ -102,9 +105,6 @@
 - [NASA honors Black History Month with live webcasts](https://www.space.com/nasa-black-history-month-2022-events)
 - [The chances of early life on Mars faced a meteorite problem](https://www.space.com/early-life-meteorites-mars)
 - [&#39;Moonfall&#39; director Roland Emmerich talks disaster, destruction and the inspiration for his moon-crashing new film &lpar;video&rpar;](https://www.space.com/moonfall-director-roland-emmerich-interview)
-- [Purple space &#39;lightning&#39; spews from stellar corpse, creating cosmic shock waves &lpar;photo, video&rpar;](https://www.space.com/white-dwarf-red-giant-space-lightning-photo)
-- [BharatPe founder asks for the removal of CEO from board](https://techcrunch.com/2022/02/04/ashneer-grover-suhail-sameer-bharatpe/)
-- [In Ford’s transition to EVs, cost-cutting takes center stage](https://techcrunch.com/2022/02/03/in-fords-transition-to-evs-cost-cutting-takes-center-stage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
