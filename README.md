@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [China&#39;s Tianwen 1 Mars orbiter takes amazing video selfie for lunar New Year](https://www.space.com/china-tianwen-1-mars-selfie-lunar-new-year)
+- [Daily Crunch: Mos evolves from fintech into challenger bank, as early users start post-college lives](https://techcrunch.com/2022/02/03/daily-crunch-mos-evolves-from-fintech-into-challenger-bank-as-early-users-start-post-college-lives/)
 - [Aptiv’s latest investment shows that software-defined vehicles are here to stay](https://techcrunch.com/2022/02/03/aptivs-latest-investment-shows-that-software-defined-vehicles-are-here-to-stay/)
 - [11 ways to make personalized shopping more effective and profitable](https://techcrunch.com/2022/02/03/11-ways-to-make-personalized-shopping-more-effective-and-profitable/)
 - [The alignment of NASA&#39;s James Webb Space Telescope has begun](https://www.space.com/james-webb-space-telescope-alignment-begins)
 - [Snap finally did it, y’all](https://techcrunch.com/2022/02/03/snap-finally-did-it-yall/)
-- [Amazon is increasing the annual price of Prime to $139 in the U.S.](https://techcrunch.com/2022/02/03/amazon-is-increasing-the-annual-price-of-prime-to-139-in-the-u-s/)
+- [Amazon is increasing the annual price of Prime to $139 in the US](https://techcrunch.com/2022/02/03/amazon-is-increasing-the-annual-price-of-prime-to-139-in-the-u-s/)
 - [The truth about management in Silicon Valley: It doesn’t exist](https://techcrunch.com/2022/02/03/the-truth-about-management-in-silicon-valley-it-doesnt-exist/)
 - [Dolby acquires low-latency streaming platform Millicast](https://techcrunch.com/2022/02/03/dolby-acquires-low-latency-streaming-platform-millicast/)
 - [What is the biggest star ever observed?](https://www.space.com/41290-biggest-star.html)
-- [Better.com loses more top execs in wake of Vishal Garg’s return as CEO](https://techcrunch.com/2022/02/03/better-com-loses-more-top-execs/)
-- [DeepScribe’s Akilesh Bapu and Index Venture’s Nina Achadjian to speak on founder/investor relationships on TCL](https://techcrunch.com/2022/02/03/deepscribes-akilesh-bapu-and-index-ventures-nina-achadjian-to-speak-on-founder-investor-relationships-on-tcl/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
