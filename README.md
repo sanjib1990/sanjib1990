@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Winter Olympics 2022: See China&#39;s stadiums from space in these snowy satellite photos](https://www.space.com/winter-olympics-2022-china-photos-from-space)
+- [Experts Weekly: Microsegmentation, PMF experiments and personalized shopping](https://techcrunch.com/2022/02/04/experts-weekly-microsegmentation-pmf-experiments-and-personalized-shopping/)
 - [Apple will reportedly hold its next hardware event in early March](https://techcrunch.com/2022/02/04/apple-will-reportedly-hold-its-next-hardware-event-in-early-march/)
 - [TechCrunch+ roundup: Stealth recruiting, virtual sales kickoffs, Google Cloud’s Q4](https://techcrunch.com/2022/02/04/techcrunch-roundup-stealth-recruiting-virtual-sales-kickoffs-google-clouds-q4/)
 - [After the acquisition: 3 startup founders share their exit experiences](https://techcrunch.com/2022/02/04/after-the-acquisition-3-startup-founders-share-their-exit-experiences/)
@@ -103,8 +105,6 @@
 - [Discord is testing forums, new mod tools and homepages that surface hot topics in some servers](https://techcrunch.com/2022/02/04/discord-forums-mod-tools-homepages-experimental-features/)
 - [Should tech bootcamps keep using job placement metrics in their advertising?](https://techcrunch.com/2022/02/04/should-tech-bootcamps-keep-using-job-placement-metrics-in-their-advertising/)
 - [On Meta’s ‘regulatory headwinds’ and adtech’s privacy reckoning](https://techcrunch.com/2022/02/04/on-metas-regulatory-headwinds-and-adtechs-privacy-reckoning/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [How to recruit when your software startup is in stealth mode](https://techcrunch.com/2022/02/04/how-to-recruit-when-your-software-startup-is-in-stealth-mode/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
