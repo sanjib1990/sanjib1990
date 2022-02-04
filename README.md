@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX and NASA eye Dragon parachute issue ahead of next astronaut launch](https://www.space.com/spacex-nasa-crew-dragon-parachute-issue)
+- [The International Space Station will eventually die by fire](https://www.space.com/how-to-destroy-a-space-station-safely)
 - [Discord is testing forums, new mod tools and homepages that surface hot topics in some servers](https://techcrunch.com/2022/02/04/discord-forums-mod-tools-homepages-experimental-features/)
 - [Should tech bootcamps keep using job placement metrics in their advertising?](https://techcrunch.com/2022/02/04/should-tech-bootcamps-keep-using-job-placement-metrics-in-their-advertising/)
 - [On Meta’s ‘regulatory headwinds’ and adtech’s privacy reckoning](https://techcrunch.com/2022/02/04/on-metas-regulatory-headwinds-and-adtechs-privacy-reckoning/)
@@ -103,8 +105,6 @@
 - [Meta adds ‘personal boundaries’ to Horizon Worlds and Venues to fight harassment](https://techcrunch.com/2022/02/04/meta-adds-personal-boundaries-to-horizon-worlds-and-venues-to-fight-harassment/)
 - [Circular takes on Oura with a $259 smart ring](https://techcrunch.com/2022/02/04/circular-takes-on-oura-with-a-259-smart-ring/)
 - [&#39;Moonfall&#39; pulls scenes from space shuttle Endeavour move 10 years ago](https://www.space.com/moonfall-space-shuttle-endeavour)
-- [Collaborate with the founder community at TechCrunch Early Stage 2022](https://techcrunch.com/2022/02/04/collaborate-with-the-founder-community-at-techcrunch-early-stage-2022/)
-- [The best space gifts and deals for kids 2022](https://www.space.com/34669-kids-gifts.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
