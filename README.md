@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Taxing crypto only makes it stronger](https://techcrunch.com/2022/02/04/taxing-crypto-only-makes-it-stronger/)
 - [Artisanal Ventures closes $62M fund, takes ‘connected capital’ approach to investment](https://techcrunch.com/2022/02/04/artisanal-ventures-closes-62m-fund-takes-connected-capital-approach-to-investment/)
 - [Apple to charge 27% fee for Dutch dating apps using alternative payment options](https://techcrunch.com/2022/02/04/apple-to-charge-27-fee-for-dutch-dating-apps-using-alternative-payment-options/)
 - [On This Day in Space! Feb. 4, 1995: STS-63 launches &#39;Orbital Debris Calibration Sphere&#39;](https://www.space.com/39251-on-this-day-in-space.html)
@@ -104,7 +105,6 @@
 - [Purple space &#39;lightning&#39; spews from stellar corpse, creating cosmic shock waves &lpar;photo, video&rpar;](https://www.space.com/white-dwarf-red-giant-space-lightning-photo)
 - [BharatPe founder asks for the removal of CEO from board](https://techcrunch.com/2022/02/04/ashneer-grover-suhail-sameer-bharatpe/)
 - [In Ford’s transition to EVs, cost-cutting takes center stage](https://techcrunch.com/2022/02/03/in-fords-transition-to-evs-cost-cutting-takes-center-stage/)
-- [Marathon Venture Capital adds to its newest fund to back Greek founders around the globe](https://techcrunch.com/2022/02/03/marathon-venture-capital-adds-to-its-newest-fund-to-back-greek-founders-around-the-globe/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
