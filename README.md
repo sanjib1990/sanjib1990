@@ -95,6 +95,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple will reportedly hold its next hardware event in early March](https://techcrunch.com/2022/02/04/apple-will-reportedly-hold-its-next-hardware-event-in-early-march/)
+- [TechCrunch+ roundup: Stealth recruiting, virtual sales kickoffs, Google Cloud’s Q4](https://techcrunch.com/2022/02/04/techcrunch-roundup-stealth-recruiting-virtual-sales-kickoffs-google-clouds-q4/)
+- [After the acquisition: 3 startup founders share their exit experiences](https://techcrunch.com/2022/02/04/after-the-acquisition-3-startup-founders-share-their-exit-experiences/)
 - [SpaceX and NASA eye Dragon parachute issue ahead of next astronaut launch](https://www.space.com/spacex-nasa-crew-dragon-parachute-issue)
 - [The International Space Station will eventually die by fire](https://www.space.com/how-to-destroy-a-space-station-safely)
 - [Discord is testing forums, new mod tools and homepages that surface hot topics in some servers](https://techcrunch.com/2022/02/04/discord-forums-mod-tools-homepages-experimental-features/)
@@ -102,9 +105,6 @@
 - [On Meta’s ‘regulatory headwinds’ and adtech’s privacy reckoning](https://techcrunch.com/2022/02/04/on-metas-regulatory-headwinds-and-adtechs-privacy-reckoning/)
 - [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [How to recruit when your software startup is in stealth mode](https://techcrunch.com/2022/02/04/how-to-recruit-when-your-software-startup-is-in-stealth-mode/)
-- [Meta adds ‘personal boundaries’ to Horizon Worlds and Venues to fight harassment](https://techcrunch.com/2022/02/04/meta-adds-personal-boundaries-to-horizon-worlds-and-venues-to-fight-harassment/)
-- [Circular takes on Oura with a $259 smart ring](https://techcrunch.com/2022/02/04/circular-takes-on-oura-with-a-259-smart-ring/)
-- [&#39;Moonfall&#39; pulls scenes from space shuttle Endeavour move 10 years ago](https://www.space.com/moonfall-space-shuttle-endeavour)
 <!-- BLOG-POST-LIST:END -->
 
 ---
