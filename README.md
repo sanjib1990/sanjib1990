@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [In Ford’s transition to EVs, cost-cutting takes center stage](https://techcrunch.com/2022/02/03/in-fords-transition-to-evs-cost-cutting-takes-center-stage/)
+- [Marathon Venture Capital adds to its newest fund to back Greek founders around the globe](https://techcrunch.com/2022/02/03/marathon-venture-capital-adds-to-its-newest-fund-to-back-greek-founders-around-the-globe/)
 - [China&#39;s Tianwen 1 Mars orbiter takes amazing video selfie for lunar New Year](https://www.space.com/china-tianwen-1-mars-selfie-lunar-new-year)
 - [Daily Crunch: Mos evolves from fintech into challenger bank, as early users start post-college lives](https://techcrunch.com/2022/02/03/daily-crunch-mos-evolves-from-fintech-into-challenger-bank-as-early-users-start-post-college-lives/)
 - [Aptiv’s latest investment shows that software-defined vehicles are here to stay](https://techcrunch.com/2022/02/03/aptivs-latest-investment-shows-that-software-defined-vehicles-are-here-to-stay/)
@@ -103,8 +105,6 @@
 - [Snap finally did it, y’all](https://techcrunch.com/2022/02/03/snap-finally-did-it-yall/)
 - [Amazon is increasing the annual price of Prime to $139 in the US](https://techcrunch.com/2022/02/03/amazon-is-increasing-the-annual-price-of-prime-to-139-in-the-u-s/)
 - [The truth about management in Silicon Valley: It doesn’t exist](https://techcrunch.com/2022/02/03/the-truth-about-management-in-silicon-valley-it-doesnt-exist/)
-- [Dolby acquires low-latency streaming platform Millicast](https://techcrunch.com/2022/02/03/dolby-acquires-low-latency-streaming-platform-millicast/)
-- [What is the biggest star ever observed?](https://www.space.com/41290-biggest-star.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
