@@ -98,7 +98,7 @@
 - [ACME Capital, run by Scott Stanford and Hany Nada, has $300 million more to invest in early startups](https://techcrunch.com/2022/02/04/acme-capital-run-by-scott-stanford-and-hany-nada-has-300-million-more-to-invest-in-early-startups/)
 - [The International Space Station will plunge into the sea in 2031, NASA announces](https://www.space.com/international-space-station-deorbit-water-grave-date)
 - [Young stars illuminate &#39;Chamaeleon&#39; stellar nursery in new Hubble image](https://www.space.com/hubble-telescope-chamaeleon-stellar-nursery-photo)
-- [Daily Crunch: Shark Tank India host Ashneer Grover tries to get his BharatPe co-founder fired](https://techcrunch.com/2022/02/04/daily-crunch-shark-tank-india-host-ashneer-grover-tries-to-get-his-bharatpe-co-founder-fired/)
+- [Daily Crunch: Shark Tank India host Ashneer Grover tries to get his BharatPe CEO fired](https://techcrunch.com/2022/02/04/daily-crunch-shark-tank-india-host-ashneer-grover-tries-to-get-his-bharatpe-co-founder-fired/)
 - [3 views: How should creators weigh monetization strategies in the platform era?](https://techcrunch.com/2022/02/04/3-views-how-should-creators-weigh-monetization-strategies-in-the-platform-era/)
 - [Director Roland Emmerich says he&#39;s finished with the &#39;Stargate&#39; franchise](https://www.space.com/roland-emmerich-finished-with-stargate-interview)
 - [Winter Olympics 2022: See China&#39;s stadiums from space in these snowy satellite photos](https://www.space.com/winter-olympics-2022-china-photos-from-space)
