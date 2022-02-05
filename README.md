@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ACME Capital, run by Scott Stanford and Hany Nada, has $300 million more to invest in early startups](https://techcrunch.com/2022/02/04/acme-capital-run-by-scott-stanford-and-hany-nada-has-300-million-more-to-invest-in-early-startups/)
 - [The International Space Station will plunge into the sea in 2031, NASA announces](https://www.space.com/international-space-station-deorbit-water-grave-date)
 - [Young stars illuminate &#39;Chamaeleon&#39; stellar nursery in new Hubble image](https://www.space.com/hubble-telescope-chamaeleon-stellar-nursery-photo)
 - [Daily Crunch: Shark Tank India host Ashneer Grover tries to get his BharatPe co-founder fired](https://techcrunch.com/2022/02/04/daily-crunch-shark-tank-india-host-ashneer-grover-tries-to-get-his-bharatpe-co-founder-fired/)
@@ -104,7 +105,6 @@
 - [Experts Weekly: Microsegmentation, PMF experiments and personalized shopping](https://techcrunch.com/2022/02/04/experts-weekly-microsegmentation-pmf-experiments-and-personalized-shopping/)
 - [Apple will reportedly hold its next hardware event in early March](https://techcrunch.com/2022/02/04/apple-will-reportedly-hold-its-next-hardware-event-in-early-march/)
 - [TechCrunch+ roundup: Stealth recruiting, virtual sales kickoffs, Google Cloud’s Q4](https://techcrunch.com/2022/02/04/techcrunch-roundup-stealth-recruiting-virtual-sales-kickoffs-google-clouds-q4/)
-- [After the acquisition: 3 startup founders share their exit experiences](https://techcrunch.com/2022/02/04/after-the-acquisition-3-startup-founders-share-their-exit-experiences/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
