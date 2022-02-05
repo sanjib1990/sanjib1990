@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Edtech’s search for the magic metric](https://techcrunch.com/2022/02/05/edtechs-search-for-the-magic-metric/)
+- [The startup sobriety gambit](https://techcrunch.com/2022/02/05/the-startup-sobriety-gambit/)
 - [Astra will launch a rocket from Florida for the 1st time today and you can watch it live](https://www.space.com/astra-first-florida-launch-elana-41-february-2022)
 - [The rise of defense tech is bringing Silicon Valley back to its roots](https://techcrunch.com/2022/02/05/the-rise-of-defense-tech-is-bringing-silicon-valley-back-to-its-roots/)
 - [Equity Shot: Making sense of the Paypal and Alphabet earnings](https://techcrunch.com/2022/02/05/equity-shot-making-sense-of-the-paypal-and-alphabet-earnings/)
@@ -103,8 +105,6 @@
 - [On This Day in Space! Feb. 5, 1971: Apollo 14 lands on the moon](https://www.space.com/39251-on-this-day-in-space.html)
 - [The best sci-fi movies and TV shows to stream on Netflix in February](https://www.space.com/best-netflix-sci-fi-movies-shows.html)
 - [Top sci-fi movies and TV shows to watch on Amazon Prime in February](https://www.space.com/best-sci-fi-movies-tv-shows-amazon-prime.html)
-- [Why Mars helicopters like Ingenuity could glow in the dark](https://www.space.com/mars-helicopters-ingenuity-glow-in-the-dark)
-- [Exoplanet evolution? Mini-Neptunes may shed their atmospheres and become super-Earths](https://www.space.com/mini-neptune-exoplanet-transform-super-earth)
 <!-- BLOG-POST-LIST:END -->
 
 ---
