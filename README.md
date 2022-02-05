@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Equity Shot: Making sense of the Paypal and Alphabet earnings](https://techcrunch.com/2022/02/05/equity-shot-making-sense-of-the-paypal-and-alphabet-earnings/)
+- [Reigniting the Pentagon and Silicon Valley partnership](https://techcrunch.com/2022/02/05/reigniting-the-pentagon-and-silicon-valley-partnership/)
 - [Could the moon ever be pushed from orbit like in &#39;Moonfall&#39;?](https://www.space.com/could-moon-be-knocked-from-orbit-like-moonfall)
 - [On This Day in Space! Feb. 5, 1971: Apollo 14 lands on the moon](https://www.space.com/39251-on-this-day-in-space.html)
 - [The best sci-fi movies and TV shows to stream on Netflix in February](https://www.space.com/best-netflix-sci-fi-movies-shows.html)
@@ -103,8 +105,6 @@
 - [Exoplanet evolution? Mini-Neptunes may shed their atmospheres and become super-Earths](https://www.space.com/mini-neptune-exoplanet-transform-super-earth)
 - [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html)
 - [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html)
-- [Astra will launch a rocket from Florida for the 1st time today and you can watch it live](https://www.space.com/astra-first-florida-launch-elana-41-february-2022)
-- [A Twitter slap fight goes wrong](https://techcrunch.com/2022/02/04/a-twitter-slap-fight-goes-wrong/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
