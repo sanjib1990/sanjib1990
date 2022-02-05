@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astra will launch a rocket from Florida for the 1st time today and you can watch it live](https://www.space.com/astra-first-florida-launch-elana-41-february-2022)
 - [The rise of defense tech is bringing Silicon Valley back to its roots](https://techcrunch.com/2022/02/05/the-rise-of-defense-tech-is-bringing-silicon-valley-back-to-its-roots/)
 - [Equity Shot: Making sense of the Paypal and Alphabet earnings](https://techcrunch.com/2022/02/05/equity-shot-making-sense-of-the-paypal-and-alphabet-earnings/)
 - [Reigniting the Pentagon and Silicon Valley partnership](https://techcrunch.com/2022/02/05/reigniting-the-pentagon-and-silicon-valley-partnership/)
@@ -104,7 +105,6 @@
 - [Top sci-fi movies and TV shows to watch on Amazon Prime in February](https://www.space.com/best-sci-fi-movies-tv-shows-amazon-prime.html)
 - [Why Mars helicopters like Ingenuity could glow in the dark](https://www.space.com/mars-helicopters-ingenuity-glow-in-the-dark)
 - [Exoplanet evolution? Mini-Neptunes may shed their atmospheres and become super-Earths](https://www.space.com/mini-neptune-exoplanet-transform-super-earth)
-- [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
