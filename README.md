@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Could the moon ever be pushed from orbit like in &#39;Moonfall&#39;?](https://www.space.com/could-moon-be-knocked-from-orbit-like-moonfall)
+- [On This Day in Space! Feb. 5, 1971: Apollo 14 lands on the moon](https://www.space.com/39251-on-this-day-in-space.html)
+- [The best sci-fi movies and TV shows to stream on Netflix in February](https://www.space.com/best-netflix-sci-fi-movies-shows.html)
+- [Top sci-fi movies and TV shows to watch on Amazon Prime in February](https://www.space.com/best-sci-fi-movies-tv-shows-amazon-prime.html)
+- [Why Mars helicopters like Ingenuity could glow in the dark](https://www.space.com/mars-helicopters-ingenuity-glow-in-the-dark)
+- [Exoplanet evolution? Mini-Neptunes may shed their atmospheres and become super-Earths](https://www.space.com/mini-neptune-exoplanet-transform-super-earth)
+- [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html)
+- [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html)
+- [Astra will launch a rocket from Florida for the 1st time today and you can watch it live](https://www.space.com/astra-first-florida-launch-elana-41-february-2022)
 - [A Twitter slap fight goes wrong](https://techcrunch.com/2022/02/04/a-twitter-slap-fight-goes-wrong/)
-- [ACME Capital, run by Scott Stanford and Hany Nada, has $300 million more to invest in early startups](https://techcrunch.com/2022/02/04/acme-capital-run-by-scott-stanford-and-hany-nada-has-300-million-more-to-invest-in-early-startups/)
-- [The International Space Station will plunge into the sea in 2031, NASA announces](https://www.space.com/international-space-station-deorbit-water-grave-date)
-- [Young stars illuminate &#39;Chamaeleon&#39; stellar nursery in new Hubble image](https://www.space.com/hubble-telescope-chamaeleon-stellar-nursery-photo)
-- [Daily Crunch: Shark Tank India host Ashneer Grover tries to get his BharatPe CEO fired](https://techcrunch.com/2022/02/04/daily-crunch-shark-tank-india-host-ashneer-grover-tries-to-get-his-bharatpe-co-founder-fired/)
-- [3 views: How should creators weigh monetization strategies in the platform era?](https://techcrunch.com/2022/02/04/3-views-how-should-creators-weigh-monetization-strategies-in-the-platform-era/)
-- [Director Roland Emmerich says he&#39;s finished with the &#39;Stargate&#39; franchise](https://www.space.com/roland-emmerich-finished-with-stargate-interview)
-- [Winter Olympics 2022: See China&#39;s stadiums from space in these snowy satellite photos](https://www.space.com/winter-olympics-2022-china-photos-from-space)
-- [Experts Weekly: Microsegmentation, PMF experiments and personalized shopping](https://techcrunch.com/2022/02/04/experts-weekly-microsegmentation-pmf-experiments-and-personalized-shopping/)
-- [Apple will reportedly hold its next hardware event in early March](https://techcrunch.com/2022/02/04/apple-will-reportedly-hold-its-next-hardware-event-in-early-march/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
