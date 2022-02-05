@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The rise of defense tech is bringing Silicon Valley back to its roots](https://techcrunch.com/2022/02/05/the-rise-of-defense-tech-is-bringing-silicon-valley-back-to-its-roots/)
 - [Equity Shot: Making sense of the Paypal and Alphabet earnings](https://techcrunch.com/2022/02/05/equity-shot-making-sense-of-the-paypal-and-alphabet-earnings/)
 - [Reigniting the Pentagon and Silicon Valley partnership](https://techcrunch.com/2022/02/05/reigniting-the-pentagon-and-silicon-valley-partnership/)
 - [Could the moon ever be pushed from orbit like in &#39;Moonfall&#39;?](https://www.space.com/could-moon-be-knocked-from-orbit-like-moonfall)
@@ -104,7 +105,6 @@
 - [Why Mars helicopters like Ingenuity could glow in the dark](https://www.space.com/mars-helicopters-ingenuity-glow-in-the-dark)
 - [Exoplanet evolution? Mini-Neptunes may shed their atmospheres and become super-Earths](https://www.space.com/mini-neptune-exoplanet-transform-super-earth)
 - [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html)
-- [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
