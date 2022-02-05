@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astra scrubs 1st Florida launch attempt due to faulty &#39;range asset&#39;](https://www.space.com/astra-scrub-florida-launch-range-asset)
 - [Astra now aims to launch its 1st rocket flight from Florida on Sunday. Here&#39;s how to watch it live](https://www.space.com/astra-first-florida-launch-elana-41-february-2022)
 - [This Week in Apps: Open App Markets Act, Facebook loses daily users, Snap turns a profit](https://techcrunch.com/2022/02/05/this-week-in-apps-open-app-markets-act-facebook-loses-daily-users-snap-turns-a-profit/)
 - [Edtech’s search for the magic metric](https://techcrunch.com/2022/02/05/edtechs-search-for-the-magic-metric/)
@@ -104,7 +105,6 @@
 - [Reigniting the Pentagon and Silicon Valley partnership](https://techcrunch.com/2022/02/05/reigniting-the-pentagon-and-silicon-valley-partnership/)
 - [Could the moon ever be pushed from orbit like in &#39;Moonfall&#39;?](https://www.space.com/could-moon-be-knocked-from-orbit-like-moonfall)
 - [On This Day in Space! Feb. 5, 1971: Apollo 14 lands on the moon](https://www.space.com/39251-on-this-day-in-space.html)
-- [The best sci-fi movies and TV shows to stream on Netflix in February](https://www.space.com/best-netflix-sci-fi-movies-shows.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
