@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The International Space Station will plunge into the sea in 2031, NASA announces](https://www.space.com/international-space-station-deorbit-water-grave-date)
+- [Young stars illuminate &#39;Chamaeleon&#39; stellar nursery in new Hubble image](https://www.space.com/hubble-telescope-chamaeleon-stellar-nursery-photo)
+- [Daily Crunch: Shark Tank India host Ashneer Grover tries to get his BharatPe co-founder fired](https://techcrunch.com/2022/02/04/daily-crunch-shark-tank-india-host-ashneer-grover-tries-to-get-his-bharatpe-co-founder-fired/)
+- [3 views: How should creators weigh monetization strategies in the platform era?](https://techcrunch.com/2022/02/04/3-views-how-should-creators-weigh-monetization-strategies-in-the-platform-era/)
+- [Director Roland Emmerich says he&#39;s finished with the &#39;Stargate&#39; franchise](https://www.space.com/roland-emmerich-finished-with-stargate-interview)
 - [Winter Olympics 2022: See China&#39;s stadiums from space in these snowy satellite photos](https://www.space.com/winter-olympics-2022-china-photos-from-space)
 - [Experts Weekly: Microsegmentation, PMF experiments and personalized shopping](https://techcrunch.com/2022/02/04/experts-weekly-microsegmentation-pmf-experiments-and-personalized-shopping/)
 - [Apple will reportedly hold its next hardware event in early March](https://techcrunch.com/2022/02/04/apple-will-reportedly-hold-its-next-hardware-event-in-early-march/)
 - [TechCrunch+ roundup: Stealth recruiting, virtual sales kickoffs, Google Cloud’s Q4](https://techcrunch.com/2022/02/04/techcrunch-roundup-stealth-recruiting-virtual-sales-kickoffs-google-clouds-q4/)
 - [After the acquisition: 3 startup founders share their exit experiences](https://techcrunch.com/2022/02/04/after-the-acquisition-3-startup-founders-share-their-exit-experiences/)
-- [SpaceX and NASA eye Dragon parachute issue ahead of next astronaut launch](https://www.space.com/spacex-nasa-crew-dragon-parachute-issue)
-- [The International Space Station will eventually die by fire](https://www.space.com/how-to-destroy-a-space-station-safely)
-- [Discord is testing forums, new mod tools and homepages that surface hot topics in some servers](https://techcrunch.com/2022/02/04/discord-forums-mod-tools-homepages-experimental-features/)
-- [Should tech bootcamps keep using job placement metrics in their advertising?](https://techcrunch.com/2022/02/04/should-tech-bootcamps-keep-using-job-placement-metrics-in-their-advertising/)
-- [On Meta’s ‘regulatory headwinds’ and adtech’s privacy reckoning](https://techcrunch.com/2022/02/04/on-metas-regulatory-headwinds-and-adtechs-privacy-reckoning/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
