@@ -95,7 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Astra will launch a rocket from Florida for the 1st time today and you can watch it live](https://www.space.com/astra-first-florida-launch-elana-41-february-2022)
+- [Astra now aims to launch its 1st rocket flight from Florida on Sunday. Here&#39;s how to watch it live](https://www.space.com/astra-first-florida-launch-elana-41-february-2022)
 - [This Week in Apps: Open App Markets Act, Facebook loses daily users, Snap turns a profit](https://techcrunch.com/2022/02/05/this-week-in-apps-open-app-markets-act-facebook-loses-daily-users-snap-turns-a-profit/)
 - [Edtech’s search for the magic metric](https://techcrunch.com/2022/02/05/edtechs-search-for-the-magic-metric/)
 - [The startup sobriety gambit](https://techcrunch.com/2022/02/05/the-startup-sobriety-gambit/)
