@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Scientists discover lost range of &#39;supermountains&#39; three times longer than the Himalayas](https://www.space.com/supermountains-drove-evolution-on-earth)
 - [US Space Force&#39;s &#39;Orbital Prime&#39; project aims to attack space debris by recycling or removing junk](https://www.space.com/space-force-space-debris-orbital-prime-plan)
+- [Ancient evils arise in IDW&#39;s new &#39;Transformers: War&#39;s End&#39; comic book miniseries](https://www.space.com/transformers-wars-end-idw-comics-series)
+- [&#39;John Carter of Mars&#39; blasts back to Barsoom in new comic series from Dynamite](https://www.space.com/john-carter-of-mars-dynamite-comics-series)
+- [Titan Books celebrates vintage &#39;Flash Gordon&#39; comic strips in a deluxe new collection](https://www.space.com/flash-gordon-comic-strips-titan-books)
+- [Scientists discover lost range of &#39;supermountains&#39; three times longer than the Himalayas](https://www.space.com/supermountains-drove-evolution-on-earth)
 - [Lightning bolt breaks record for longest ever recorded](https://www.space.com/longest-lightning-bolt-recorded)
 - [NASA&#39;s James Webb Space Telescope is cooling down for its next trick: Observing the universe](https://www.space.com/james-webb-space-telescope-chief-scientist-update)
 - [Astra now aims to launch its 1st rocket flight from Florida Monday. Here&#39;s how to watch it live](https://www.space.com/astra-first-florida-launch-elana-41-february-2022)
 - [On This Day in Space! Feb. 6, 1971: Astronauts play golf on the moon](https://www.space.com/39251-on-this-day-in-space.html)
 - [Q5D is using robots to automate electronic wiring during manufacturing](https://techcrunch.com/2022/02/05/q5d-is-using-robots-to-automate-electronic-wiring-during-manufacturing/)
-- [Astra scrubs 1st Florida launch attempt due to faulty &#39;range asset&#39;](https://www.space.com/astra-scrub-florida-launch-range-asset)
-- [This Week in Apps: Open App Markets Act, Facebook loses daily users, Snap turns a profit](https://techcrunch.com/2022/02/05/this-week-in-apps-open-app-markets-act-facebook-loses-daily-users-snap-turns-a-profit/)
-- [Edtech’s search for the magic metric](https://techcrunch.com/2022/02/05/edtechs-search-for-the-magic-metric/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
