@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Samsung gets more fine-tuna to sustainability with phones made from fishing nets](https://techcrunch.com/2022/02/06/samsung-sustainability/)
 - [How does terraforming work in the Alien universe?](https://www.space.com/terraforming-in-alien-universe)
 - [How long can Zuckerberg afford to bankroll the AR/VR market?](https://techcrunch.com/2022/02/06/how-long-can-zuckerberg-afford-to-bankroll-the-ar-vr-market/)
 - [Fintech Roundup: Corporate spend just can’t be a winner-takes-all space](https://techcrunch.com/2022/02/06/fintech-roundup-corporate-spend-just-cant-be-a-winner-takes-all/)
@@ -104,7 +105,6 @@
 - [&#39;John Carter of Mars&#39; blasts back to Barsoom in new comic series from Dynamite](https://www.space.com/john-carter-of-mars-dynamite-comics-series)
 - [Titan Books celebrates vintage &#39;Flash Gordon&#39; comic strips in a deluxe new collection](https://www.space.com/flash-gordon-comic-strips-titan-books)
 - [Scientists discover lost range of &#39;supermountains&#39; three times longer than the Himalayas](https://www.space.com/supermountains-drove-evolution-on-earth)
-- [Lightning bolt breaks record for longest ever recorded](https://www.space.com/longest-lightning-bolt-recorded)
 <!-- BLOG-POST-LIST:END -->
 
 ---
