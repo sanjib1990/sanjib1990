@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fintech Roundup: Corporate spend just can’t be a winner-takes-all space](https://techcrunch.com/2022/02/06/fintech-roundup-corporate-spend-just-cant-be-a-winner-takes-all/)
+- [Watch SpaceX launch a US spy satellite and land a rocket in this mesmerizing drone video](https://www.space.com/spacex-rocket-launch-landing-drone-video-nrol-87-mission)
 - [US Space Force&#39;s &#39;Orbital Prime&#39; project aims to attack space debris by recycling or removing junk](https://www.space.com/space-force-space-debris-orbital-prime-plan)
 - [Ancient evils arise in IDW&#39;s new &#39;Transformers: War&#39;s End&#39; comic book miniseries](https://www.space.com/transformers-wars-end-idw-comics-series)
 - [&#39;John Carter of Mars&#39; blasts back to Barsoom in new comic series from Dynamite](https://www.space.com/john-carter-of-mars-dynamite-comics-series)
@@ -103,8 +105,6 @@
 - [Lightning bolt breaks record for longest ever recorded](https://www.space.com/longest-lightning-bolt-recorded)
 - [NASA&#39;s James Webb Space Telescope is cooling down for its next trick: Observing the universe](https://www.space.com/james-webb-space-telescope-chief-scientist-update)
 - [Astra now aims to launch its 1st rocket flight from Florida Monday. Here&#39;s how to watch it live](https://www.space.com/astra-first-florida-launch-elana-41-february-2022)
-- [On This Day in Space! Feb. 6, 1971: Astronauts play golf on the moon](https://www.space.com/39251-on-this-day-in-space.html)
-- [Q5D is using robots to automate electronic wiring during manufacturing](https://techcrunch.com/2022/02/05/q5d-is-using-robots-to-automate-electronic-wiring-during-manufacturing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
