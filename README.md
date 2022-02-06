@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists discover lost range of &#39;supermountains&#39; three times longer than the Himalayas](https://www.space.com/supermountains-drove-evolution-on-earth)
+- [US Space Force&#39;s &#39;Orbital Prime&#39; project aims to attack space debris by recycling or removing junk](https://www.space.com/space-force-space-debris-orbital-prime-plan)
+- [Lightning bolt breaks record for longest ever recorded](https://www.space.com/longest-lightning-bolt-recorded)
+- [NASA&#39;s James Webb Space Telescope is cooling down for its next trick: Observing the universe](https://www.space.com/james-webb-space-telescope-chief-scientist-update)
+- [Astra now aims to launch its 1st rocket flight from Florida Monday. Here&#39;s how to watch it live](https://www.space.com/astra-first-florida-launch-elana-41-february-2022)
+- [On This Day in Space! Feb. 6, 1971: Astronauts play golf on the moon](https://www.space.com/39251-on-this-day-in-space.html)
 - [Q5D is using robots to automate electronic wiring during manufacturing](https://techcrunch.com/2022/02/05/q5d-is-using-robots-to-automate-electronic-wiring-during-manufacturing/)
 - [Astra scrubs 1st Florida launch attempt due to faulty &#39;range asset&#39;](https://www.space.com/astra-scrub-florida-launch-range-asset)
-- [Astra now aims to launch its 1st rocket flight from Florida on Sunday. Here&#39;s how to watch it live](https://www.space.com/astra-first-florida-launch-elana-41-february-2022)
 - [This Week in Apps: Open App Markets Act, Facebook loses daily users, Snap turns a profit](https://techcrunch.com/2022/02/05/this-week-in-apps-open-app-markets-act-facebook-loses-daily-users-snap-turns-a-profit/)
 - [Edtech’s search for the magic metric](https://techcrunch.com/2022/02/05/edtechs-search-for-the-magic-metric/)
-- [The startup sobriety gambit](https://techcrunch.com/2022/02/05/the-startup-sobriety-gambit/)
-- [The rise of defense tech is bringing Silicon Valley back to its roots](https://techcrunch.com/2022/02/05/the-rise-of-defense-tech-is-bringing-silicon-valley-back-to-its-roots/)
-- [Equity Shot: Making sense of the Paypal and Alphabet earnings](https://techcrunch.com/2022/02/05/equity-shot-making-sense-of-the-paypal-and-alphabet-earnings/)
-- [Reigniting the Pentagon and Silicon Valley partnership](https://techcrunch.com/2022/02/05/reigniting-the-pentagon-and-silicon-valley-partnership/)
-- [Could the moon ever be pushed from orbit like in &#39;Moonfall&#39;?](https://www.space.com/could-moon-be-knocked-from-orbit-like-moonfall)
 <!-- BLOG-POST-LIST:END -->
 
 ---
