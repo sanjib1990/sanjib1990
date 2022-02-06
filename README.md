@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How does terraforming work in the Alien universe?](https://www.space.com/terraforming-in-alien-universe)
 - [How long can Zuckerberg afford to bankroll the AR/VR market?](https://techcrunch.com/2022/02/06/how-long-can-zuckerberg-afford-to-bankroll-the-ar-vr-market/)
 - [Fintech Roundup: Corporate spend just can’t be a winner-takes-all space](https://techcrunch.com/2022/02/06/fintech-roundup-corporate-spend-just-cant-be-a-winner-takes-all/)
 - [Watch SpaceX launch a US spy satellite and land a rocket in this mesmerizing drone video](https://www.space.com/spacex-rocket-launch-landing-drone-video-nrol-87-mission)
@@ -104,7 +105,6 @@
 - [Titan Books celebrates vintage &#39;Flash Gordon&#39; comic strips in a deluxe new collection](https://www.space.com/flash-gordon-comic-strips-titan-books)
 - [Scientists discover lost range of &#39;supermountains&#39; three times longer than the Himalayas](https://www.space.com/supermountains-drove-evolution-on-earth)
 - [Lightning bolt breaks record for longest ever recorded](https://www.space.com/longest-lightning-bolt-recorded)
-- [NASA&#39;s James Webb Space Telescope is cooling down for its next trick: Observing the universe](https://www.space.com/james-webb-space-telescope-chief-scientist-update)
 <!-- BLOG-POST-LIST:END -->
 
 ---
