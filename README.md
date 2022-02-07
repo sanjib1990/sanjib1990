@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Koneksa’s $45 million round could help make at-home clinical trials a reality](https://techcrunch.com/2022/02/07/koneksas-45-million-round-could-help-make-at-home-clinical-trials-a-reality/)
 - [The Station: Autonowashing floodwaters are rising, driving the Kia EV6, and Cruise unlocks more Softbank cash](https://techcrunch.com/2022/02/07/the-station-autonowashing-floodwaters-are-rising-driving-the-kia-ev6-and-cruise-unlocks-more-softbank-cash/)
 - [Bumble makes its first acquisition with deal for French Gen Z dating app, Fruitz](https://techcrunch.com/2022/02/07/bumble-makes-its-first-acquisition-with-deal-for-french-gen-z-dating-app-fruitz/)
 - [On This Day in Space! Feb. 7, 1984: The world&#39;s 1st untethered spacewalk](https://www.space.com/39251-on-this-day-in-space.html)
@@ -104,7 +105,6 @@
 - [You can see the SpaceX Falcon 9 booster on a collision course with the moon in a live webcast today](https://www.space.com/spacex-falcon-9-rocket-moon-crash-tracking-webcast)
 - [Rogue black hole spotted on its own for the first time](https://www.space.com/rogue-black-hole-isolated-discovery)
 - [Countries in sub-Saharan Africa most affected as Meta halts low-cost Express Wi-Fi](https://techcrunch.com/2022/02/07/countries-in-sub-saharan-africa-most-affected-as-meta-halts-low-cost-express-wi-fi/)
-- [Nigerian healthtech startup Reliance Health raises $40M led by General Atlantic](https://techcrunch.com/2022/02/07/nigerian-healthtech-startup-reliance-health-raises-40m-led-by-general-atlantic/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
