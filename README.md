@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Olay erects statue of rocket engineer Mary Golda Ross to promote STEM equity](https://www.space.com/olay-mary-golda-ross-statue)
+- [Elon Musk giving update on SpaceX&#39;s Starship Mars rocket Thursday](https://www.space.com/elon-musk-spacex-starship-update-2022)
+- [Spotify will invest $100M in content from underrepresented creators, says CEO Daniel Ek](https://techcrunch.com/2022/02/07/spotify-will-invest-100m-in-content-from-underrepresented-creators-says-ceo-daniel-ek/)
+- [Apple fined again over Dutch dating app payments order](https://techcrunch.com/2022/02/07/apple-third-dutch-antitrust-fine/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [What does the new era of location intelligence hold for businesses?](https://techcrunch.com/2022/02/07/what-does-the-new-era-of-location-intelligence-hold-for-businesses/)
 - [Farewell, Jupiter! The gas giant will disappear from the evening sky this month](https://www.space.com/farewell-jupiter-skywatching-february-2022)
 - [Astra to launch its 1st rocket flight from Florida today. Here&#39;s how to watch it live](https://www.space.com/astra-first-florida-launch-elana-41-february-2022)
 - [Changing how we approach data privacy to unlock economic opportunities](https://techcrunch.com/2022/02/07/changing-how-we-approach-data-privacy-to-unlock-economic-opportunities/)
 - [This SpaceX video of a Falcon 9 rocket stage separation during launch is just amazing](https://www.space.com/spacex-falcon-9-rocket-launch-tracking-camera-video-csg-2)
-- [Wag’s recovery is a bet on you going back to work](https://techcrunch.com/2022/02/07/wags-recovery-is-a-bet-on-you-going-back-to-work/)
-- [How one founder is teaching enterprises how to be truly accountable for their climate footprint](https://techcrunch.com/2022/02/07/how-one-founder-is-teaching-enterprises-how-to-be-truly-accountable-for-their-climate-footprint/)
-- [Join the first TechCrunch Live episode to hear how Heartbeat Health raised from Kindred Ventures](https://techcrunch.com/2022/02/07/join-the-first-techcrunch-live-episode-to-hear-how-heartbeat-health-raised-from-kindred-ventures/)
-- [Boutique hotel tech platform NUMA raises $45M growth financing round led by DN Capital](https://techcrunch.com/2022/02/07/boutique-hotel-tech-platform-numa-raises-45m-growth-financing-round-led-by-dn-capital/)
-- [Founder launch tickets to TechCrunch Early Stage are almost gone](https://techcrunch.com/2022/02/07/founder-launch-tickets-to-techcrunch-early-stage-are-almost-gone/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
