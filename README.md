@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Countries in sub-Saharan Africa most affected as Meta halts low-cost Express Wi-Fi](https://techcrunch.com/2022/02/07/countries-in-sub-saharan-africa-most-affected-as-meta-halts-low-cost-express-wi-fi/)
 - [Nigerian healthtech startup Reliance Health raises $40M led by General Atlantic](https://techcrunch.com/2022/02/07/nigerian-healthtech-startup-reliance-health-raises-40m-led-by-general-atlantic/)
 - [Joby Aviation to launch air taxi service in South Korea](https://techcrunch.com/2022/02/06/joby-aviation-to-launch-air-taxi-service-in-south-korea/)
 - [Korean micromobility startup Swing grabs $24M for growth, expands to Japan](https://techcrunch.com/2022/02/06/seoul-based-micromobility-startup-swing-grabs-24m-for-growth-expands-to-japan/)
@@ -104,7 +105,6 @@
 - [Fintech Roundup: Corporate spend just can’t be a winner-takes-all space](https://techcrunch.com/2022/02/06/fintech-roundup-corporate-spend-just-cant-be-a-winner-takes-all/)
 - [Watch SpaceX launch a US spy satellite and land a rocket in this mesmerizing drone video](https://www.space.com/spacex-rocket-launch-landing-drone-video-nrol-87-mission)
 - [US Space Force&#39;s &#39;Orbital Prime&#39; project aims to attack space debris by recycling or removing junk](https://www.space.com/space-force-space-debris-orbital-prime-plan)
-- [Ancient evils arise in IDW&#39;s new &#39;Transformers: War&#39;s End&#39; comic book miniseries](https://www.space.com/transformers-wars-end-idw-comics-series)
 <!-- BLOG-POST-LIST:END -->
 
 ---
