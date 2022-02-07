@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Station: Autonowashing floodwaters are rising, driving the Kia EV6, and Cruise unlocks more Softbank cash](https://techcrunch.com/2022/02/07/the-station-autonowashing-floodwaters-are-rising-driving-the-kia-ev6-and-cruise-unlocks-more-softbank-cash/)
+- [Bumble makes its first acquisition with deal for French Gen Z dating app, Fruitz](https://techcrunch.com/2022/02/07/bumble-makes-its-first-acquisition-with-deal-for-french-gen-z-dating-app-fruitz/)
+- [On This Day in Space! Feb. 7, 1984: The world&#39;s 1st untethered spacewalk](https://www.space.com/39251-on-this-day-in-space.html)
+- [Astra now aims to launch its 1st rocket flight from Florida today. Here&#39;s how to watch it live](https://www.space.com/astra-first-florida-launch-elana-41-february-2022)
+- [Greenland lost enough ice in last 2 decades to cover entire US in 1.5 feet of water](https://www.space.com/greenland-ice-loss-cover-united-states)
+- [International Astronomical Union launches new center to fight satellite megaconstellation threat](https://www.space.com/iau-center-protect-astronomy-megaconstellation-threat)
+- [You can see the SpaceX Falcon 9 booster on a collision course with the moon in a live webcast today](https://www.space.com/spacex-falcon-9-rocket-moon-crash-tracking-webcast)
+- [Rogue black hole spotted on its own for the first time](https://www.space.com/rogue-black-hole-isolated-discovery)
 - [Countries in sub-Saharan Africa most affected as Meta halts low-cost Express Wi-Fi](https://techcrunch.com/2022/02/07/countries-in-sub-saharan-africa-most-affected-as-meta-halts-low-cost-express-wi-fi/)
 - [Nigerian healthtech startup Reliance Health raises $40M led by General Atlantic](https://techcrunch.com/2022/02/07/nigerian-healthtech-startup-reliance-health-raises-40m-led-by-general-atlantic/)
-- [Joby Aviation to launch air taxi service in South Korea](https://techcrunch.com/2022/02/06/joby-aviation-to-launch-air-taxi-service-in-south-korea/)
-- [Korean micromobility startup Swing grabs $24M for growth, expands to Japan](https://techcrunch.com/2022/02/06/seoul-based-micromobility-startup-swing-grabs-24m-for-growth-expands-to-japan/)
-- [Samsung gets more fine-tuna to sustainability with phones made from fishing nets](https://techcrunch.com/2022/02/06/samsung-sustainability/)
-- [How does terraforming work in the Alien universe?](https://www.space.com/terraforming-in-alien-universe)
-- [How long can Zuckerberg afford to bankroll the AR/VR market?](https://techcrunch.com/2022/02/06/how-long-can-zuckerberg-afford-to-bankroll-the-ar-vr-market/)
-- [Fintech Roundup: Corporate spend just can’t be a winner-takes-all space](https://techcrunch.com/2022/02/06/fintech-roundup-corporate-spend-just-cant-be-a-winner-takes-all/)
-- [Watch SpaceX launch a US spy satellite and land a rocket in this mesmerizing drone video](https://www.space.com/spacex-rocket-launch-landing-drone-video-nrol-87-mission)
-- [US Space Force&#39;s &#39;Orbital Prime&#39; project aims to attack space debris by recycling or removing junk](https://www.space.com/space-force-space-debris-orbital-prime-plan)
 <!-- BLOG-POST-LIST:END -->
 
 ---
