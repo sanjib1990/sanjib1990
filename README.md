@@ -78,6 +78,7 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [IF you like Python, watch this! ELSE, drink more coffee. // Python RIGHT NOW!! // EP 4](https://www.youtube.com/watch?v=5-5Mf_L0UKw)
 - [C++ in 100 Seconds](https://www.youtube.com/watch?v=MNeX4EGtR5Y)
 - [BIG new feature lands in Node.js // The Code Report](https://www.youtube.com/watch?v=MBqS1kYzwTc)
 - [Integrated Water Resources Management / The Water-Energy-Food Nexus](https://www.youtube.com/watch?v=kAeDRfk6A9w)
@@ -87,7 +88,6 @@
 - [Enabling Conditions for Transboundary Water Agreements](https://www.youtube.com/watch?v=KmoodT_3XPQ)
 - [The Past, Present and Future of the Columbia River Treaty: A Case for Modernization](https://www.youtube.com/watch?v=oqOtuChgsz4)
 - [How I post banger tweets with artificial intelligence // Twitter Bot Tutorial](https://www.youtube.com/watch?v=V7LEihbOv3Y)
-- [How a CS student tracks Elon’s Private Jet with Python // The Code Report](https://www.youtube.com/watch?v=bJUl3OAIT0k)
 <!-- YOUTUBE:END -->
 
 ---
