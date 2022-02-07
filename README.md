@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Changing how we approach data privacy to unlock economic opportunities](https://techcrunch.com/2022/02/07/changing-how-we-approach-data-privacy-to-unlock-economic-opportunities/)
+- [Astra to launch its 1st rocket flight from Florida today. Here&#39;s how to watch it live](https://www.space.com/astra-first-florida-launch-elana-41-february-2022)
+- [This SpaceX video of a Falcon 9 rocket stage separation during launch is just amazing](https://www.space.com/spacex-falcon-9-rocket-launch-tracking-camera-video-csg-2)
+- [Wag’s recovery is a bet on you going back to work](https://techcrunch.com/2022/02/07/wags-recovery-is-a-bet-on-you-going-back-to-work/)
+- [How one founder is teaching enterprises how to be truly accountable for their climate footprint](https://techcrunch.com/2022/02/07/how-one-founder-is-teaching-enterprises-how-to-be-truly-accountable-for-their-climate-footprint/)
+- [Join the first TechCrunch Live episode to hear how Heartbeat Health raised from Kindred Ventures](https://techcrunch.com/2022/02/07/join-the-first-techcrunch-live-episode-to-hear-how-heartbeat-health-raised-from-kindred-ventures/)
 - [Boutique hotel tech platform NUMA raises $45M growth financing round led by DN Capital](https://techcrunch.com/2022/02/07/boutique-hotel-tech-platform-numa-raises-45m-growth-financing-round-led-by-dn-capital/)
 - [Founder launch tickets to TechCrunch Early Stage are almost gone](https://techcrunch.com/2022/02/07/founder-launch-tickets-to-techcrunch-early-stage-are-almost-gone/)
 - [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html)
 - [Vivid Money, a financial super app, raises $114M at an $886M valuation to expand in Europe](https://techcrunch.com/2022/02/07/vivid-money-a-financial-super-app-raises-114m-at-an-886m-valuation-to-expand-in-europe/)
-- [Wyvern adds $4M in new non-equity funding for its in-demand hyperspectral imaging tech](https://techcrunch.com/2022/02/07/wyvern-adds-4m-in-new-non-equity-funding-for-its-in-demand-hyperspectral-imaging-tech/)
-- [Asteroid sharing Earth&#39;s orbit discovered — could it help future space missions?](https://www.space.com/earth-trojan-asteroid-help-space-missions)
-- [Who really benefits from digital development?](https://techcrunch.com/2022/02/07/who-really-benefits-from-digital-development/)
-- [25 myths about space](https://www.space.com/36751-space-conspiracies.html)
-- [Strange twin asteroids, the youngest ever seen, likely broke apart just 300 years ago](https://www.space.com/asteroids-youngest-pair-yet-discovered)
-- [Equity Monday: How many times must Spotify step on a rake?](https://techcrunch.com/2022/02/07/equity-monday-how-many-times-must-spotify-step-on-a-rake/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
