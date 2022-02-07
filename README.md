@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Max Q: Earth observation is the place to be in space](https://techcrunch.com/2022/02/07/max-q-earth-observation-is-the-place-to-be-in-space/)
+- [From movies to shipping, AWS is driving Amazon’s revenue diversification](https://techcrunch.com/2022/02/07/from-movies-to-shipping-aws-is-driving-amazons-revenue-diversification/)
 - [Peter Thiel to leave Facebook board, which you probably forgot he was still on](https://techcrunch.com/2022/02/07/peter-thiel-to-leave-facebook-board-which-you-probably-forgot-he-was-still-on/)
 - [What is the biggest thing in the universe?](https://www.space.com/33553-biggest-thing-universe.html)
 - [SpaceX Falcon 9 upper stage breaks up in Earth&#39;s atmosphere, 5 years after launch](https://www.space.com/spacex-rocket-stage-deorbits-over-mexico)
@@ -103,8 +105,6 @@
 - [The Big Bang: What really happened at our universe&#39;s birth?](https://www.space.com/13347-big-bang-origins-universe-birth.html)
 - [The IRS won’t make you verify your identity with facial recognition after all](https://techcrunch.com/2022/02/07/irs-facial-recognition-id-me/)
 - [Olay erects statue of rocket engineer Mary Golda Ross to promote STEM equity](https://www.space.com/olay-mary-golda-ross-statue)
-- [Elon Musk giving update on SpaceX&#39;s Starship Mars rocket Thursday](https://www.space.com/elon-musk-spacex-starship-update-2022)
-- [Spotify will invest $100M in content from underrepresented creators, says CEO Daniel Ek](https://techcrunch.com/2022/02/07/spotify-will-invest-100m-in-content-from-underrepresented-creators-says-ceo-daniel-ek/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
