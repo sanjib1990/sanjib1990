@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Boutique hotel tech platform NUMA raises $45M growth financing round led by DN Capital](https://techcrunch.com/2022/02/07/boutique-hotel-tech-platform-numa-raises-45m-growth-financing-round-led-by-dn-capital/)
+- [Founder launch tickets to TechCrunch Early Stage are almost gone](https://techcrunch.com/2022/02/07/founder-launch-tickets-to-techcrunch-early-stage-are-almost-gone/)
+- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html)
+- [Vivid Money, a financial super app, raises $114M at an $886M valuation to expand in Europe](https://techcrunch.com/2022/02/07/vivid-money-a-financial-super-app-raises-114m-at-an-886m-valuation-to-expand-in-europe/)
 - [Wyvern adds $4M in new non-equity funding for its in-demand hyperspectral imaging tech](https://techcrunch.com/2022/02/07/wyvern-adds-4m-in-new-non-equity-funding-for-its-in-demand-hyperspectral-imaging-tech/)
+- [Asteroid sharing Earth&#39;s orbit discovered — could it help future space missions?](https://www.space.com/earth-trojan-asteroid-help-space-missions)
 - [Who really benefits from digital development?](https://techcrunch.com/2022/02/07/who-really-benefits-from-digital-development/)
 - [25 myths about space](https://www.space.com/36751-space-conspiracies.html)
 - [Strange twin asteroids, the youngest ever seen, likely broke apart just 300 years ago](https://www.space.com/asteroids-youngest-pair-yet-discovered)
 - [Equity Monday: How many times must Spotify step on a rake?](https://techcrunch.com/2022/02/07/equity-monday-how-many-times-must-spotify-step-on-a-rake/)
-- [Systems thinking can help end practices that harm women worldwide](https://techcrunch.com/2022/02/07/systems-thinking-can-help-end-practices-that-harm-women-worldwide/)
-- [Polygon raises $450M from Sequoia Capital India, SoftBank and Tiger Global](https://techcrunch.com/2022/02/07/polygon-raises-450m-from-sequoia-capital-india-softbank-and-tiger-global/)
-- [SoftBank, Goldman Sachs mint unicorn in Indian commerce startup ElasticRun](https://techcrunch.com/2022/02/07/softbank-goldman-sachs-mint-unicorn-in-indian-commerce-startup-elasticrun/)
-- [Google sued in Europe for $2.4BN in damages over Shopping antitrust case](https://techcrunch.com/2022/02/07/google-shopping-lawsuit/)
-- [Navier wants to ‘democratize the waterways’ with leisure boats starting at $300K](https://techcrunch.com/2022/02/07/navier-seed-raise/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
