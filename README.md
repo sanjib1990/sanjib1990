@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Wyvern adds $4M in new non-equity funding for its in-demand hyperspectral imaging tech](https://techcrunch.com/2022/02/07/wyvern-adds-4m-in-new-non-equity-funding-for-its-in-demand-hyperspectral-imaging-tech/)
+- [Who really benefits from digital development?](https://techcrunch.com/2022/02/07/who-really-benefits-from-digital-development/)
+- [25 myths about space](https://www.space.com/36751-space-conspiracies.html)
+- [Strange twin asteroids, the youngest ever seen, likely broke apart just 300 years ago](https://www.space.com/asteroids-youngest-pair-yet-discovered)
 - [Equity Monday: How many times must Spotify step on a rake?](https://techcrunch.com/2022/02/07/equity-monday-how-many-times-must-spotify-step-on-a-rake/)
 - [Systems thinking can help end practices that harm women worldwide](https://techcrunch.com/2022/02/07/systems-thinking-can-help-end-practices-that-harm-women-worldwide/)
 - [Polygon raises $450M from Sequoia Capital India, SoftBank and Tiger Global](https://techcrunch.com/2022/02/07/polygon-raises-450m-from-sequoia-capital-india-softbank-and-tiger-global/)
 - [SoftBank, Goldman Sachs mint unicorn in Indian commerce startup ElasticRun](https://techcrunch.com/2022/02/07/softbank-goldman-sachs-mint-unicorn-in-indian-commerce-startup-elasticrun/)
 - [Google sued in Europe for $2.4BN in damages over Shopping antitrust case](https://techcrunch.com/2022/02/07/google-shopping-lawsuit/)
 - [Navier wants to ‘democratize the waterways’ with leisure boats starting at $300K](https://techcrunch.com/2022/02/07/navier-seed-raise/)
-- [Dawn Health leverages cognitive behavioral therapy for insomnia to help you sleep better](https://techcrunch.com/2022/02/07/dawn-health-leverages-cognitive-behavioral-therapy-for-insomnia-to-help-you-sleep-better/)
-- [Koneksa’s $45 million round could help make at-home clinical trials a reality](https://techcrunch.com/2022/02/07/koneksas-45-million-round-could-help-make-at-home-clinical-trials-a-reality/)
-- [The Station: Autonowashing floodwaters are rising, driving the Kia EV6, and Cruise unlocks more Softbank cash](https://techcrunch.com/2022/02/07/the-station-autonowashing-floodwaters-are-rising-driving-the-kia-ev6-and-cruise-unlocks-more-softbank-cash/)
-- [Bumble makes its first acquisition with deal for French Gen Z dating app, Fruitz](https://techcrunch.com/2022/02/07/bumble-makes-its-first-acquisition-with-deal-for-french-gen-z-dating-app-fruitz/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
