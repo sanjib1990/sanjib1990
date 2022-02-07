@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The IRS won’t make you verify your identity with facial recognition after all](https://techcrunch.com/2022/02/07/irs-facial-recognition-id-me/)
 - [Olay erects statue of rocket engineer Mary Golda Ross to promote STEM equity](https://www.space.com/olay-mary-golda-ross-statue)
 - [Elon Musk giving update on SpaceX&#39;s Starship Mars rocket Thursday](https://www.space.com/elon-musk-spacex-starship-update-2022)
 - [Spotify will invest $100M in content from underrepresented creators, says CEO Daniel Ek](https://techcrunch.com/2022/02/07/spotify-will-invest-100m-in-content-from-underrepresented-creators-says-ceo-daniel-ek/)
@@ -102,9 +103,8 @@
 - [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [What does the new era of location intelligence hold for businesses?](https://techcrunch.com/2022/02/07/what-does-the-new-era-of-location-intelligence-hold-for-businesses/)
 - [Farewell, Jupiter! The gas giant will disappear from the evening sky this month](https://www.space.com/farewell-jupiter-skywatching-february-2022)
-- [Astra to launch its 1st rocket flight from Florida today. Here&#39;s how to watch it live](https://www.space.com/astra-first-florida-launch-elana-41-february-2022)
+- [SCRUB: Astra to launch its 1st rocket flight from Florida today. Here&#39;s how to watch it live](https://www.space.com/astra-first-florida-launch-elana-41-february-2022)
 - [Changing how we approach data privacy to unlock economic opportunities](https://techcrunch.com/2022/02/07/changing-how-we-approach-data-privacy-to-unlock-economic-opportunities/)
-- [This SpaceX video of a Falcon 9 rocket stage separation during launch is just amazing](https://www.space.com/spacex-falcon-9-rocket-launch-tracking-camera-video-csg-2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
