@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Navier wants to ‘democratize the waterways’ with leisure boats starting at $300K](https://techcrunch.com/2022/02/07/navier-seed-raise/)
+- [Dawn Health leverages cognitive behavioral therapy for insomnia to help you sleep better](https://techcrunch.com/2022/02/07/dawn-health-leverages-cognitive-behavioral-therapy-for-insomnia-to-help-you-sleep-better/)
 - [Koneksa’s $45 million round could help make at-home clinical trials a reality](https://techcrunch.com/2022/02/07/koneksas-45-million-round-could-help-make-at-home-clinical-trials-a-reality/)
 - [The Station: Autonowashing floodwaters are rising, driving the Kia EV6, and Cruise unlocks more Softbank cash](https://techcrunch.com/2022/02/07/the-station-autonowashing-floodwaters-are-rising-driving-the-kia-ev6-and-cruise-unlocks-more-softbank-cash/)
 - [Bumble makes its first acquisition with deal for French Gen Z dating app, Fruitz](https://techcrunch.com/2022/02/07/bumble-makes-its-first-acquisition-with-deal-for-french-gen-z-dating-app-fruitz/)
@@ -103,8 +105,6 @@
 - [Greenland lost enough ice in last 2 decades to cover entire US in 1.5 feet of water](https://www.space.com/greenland-ice-loss-cover-united-states)
 - [International Astronomical Union launches new center to fight satellite megaconstellation threat](https://www.space.com/iau-center-protect-astronomy-megaconstellation-threat)
 - [You can see the SpaceX Falcon 9 booster on a collision course with the moon in a live webcast today](https://www.space.com/spacex-falcon-9-rocket-moon-crash-tracking-webcast)
-- [Rogue black hole spotted on its own for the first time](https://www.space.com/rogue-black-hole-isolated-discovery)
-- [Countries in sub-Saharan Africa most affected as Meta halts low-cost Express Wi-Fi](https://techcrunch.com/2022/02/07/countries-in-sub-saharan-africa-most-affected-as-meta-halts-low-cost-express-wi-fi/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
