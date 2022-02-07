@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Joby Aviation to launch air taxi service in South Korea](https://techcrunch.com/2022/02/06/joby-aviation-to-launch-air-taxi-service-in-south-korea/)
 - [Korean micromobility startup Swing grabs $24M for growth, expands to Japan](https://techcrunch.com/2022/02/06/seoul-based-micromobility-startup-swing-grabs-24m-for-growth-expands-to-japan/)
 - [Samsung gets more fine-tuna to sustainability with phones made from fishing nets](https://techcrunch.com/2022/02/06/samsung-sustainability/)
 - [How does terraforming work in the Alien universe?](https://www.space.com/terraforming-in-alien-universe)
@@ -104,7 +105,6 @@
 - [US Space Force&#39;s &#39;Orbital Prime&#39; project aims to attack space debris by recycling or removing junk](https://www.space.com/space-force-space-debris-orbital-prime-plan)
 - [Ancient evils arise in IDW&#39;s new &#39;Transformers: War&#39;s End&#39; comic book miniseries](https://www.space.com/transformers-wars-end-idw-comics-series)
 - [&#39;John Carter of Mars&#39; blasts back to Barsoom in new comic series from Dynamite](https://www.space.com/john-carter-of-mars-dynamite-comics-series)
-- [Titan Books celebrates vintage &#39;Flash Gordon&#39; comic strips in a deluxe new collection](https://www.space.com/flash-gordon-comic-strips-titan-books)
 <!-- BLOG-POST-LIST:END -->
 
 ---
