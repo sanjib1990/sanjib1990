@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Peter Thiel to leave Facebook board, which you probably forgot he was still on](https://techcrunch.com/2022/02/07/peter-thiel-to-leave-facebook-board-which-you-probably-forgot-he-was-still-on/)
+- [What is the biggest thing in the universe?](https://www.space.com/33553-biggest-thing-universe.html)
+- [SpaceX Falcon 9 upper stage breaks up in Earth&#39;s atmosphere, 5 years after launch](https://www.space.com/spacex-rocket-stage-deorbits-over-mexico)
+- [SpaceX rocket stage on a collision course with the moon captured in telescope images](https://www.space.com/spacex-discovr-satellite-virtual-telescope-project-images)
+- [Astra rocket aborts 1st Florida launch attempt at last second &lpar;video&rpar;](https://www.space.com/astra-scrubs-first-florida-launch-after-abort)
+- [The Big Bang: What really happened at our universe&#39;s birth?](https://www.space.com/13347-big-bang-origins-universe-birth.html)
 - [The IRS won’t make you verify your identity with facial recognition after all](https://techcrunch.com/2022/02/07/irs-facial-recognition-id-me/)
 - [Olay erects statue of rocket engineer Mary Golda Ross to promote STEM equity](https://www.space.com/olay-mary-golda-ross-statue)
 - [Elon Musk giving update on SpaceX&#39;s Starship Mars rocket Thursday](https://www.space.com/elon-musk-spacex-starship-update-2022)
 - [Spotify will invest $100M in content from underrepresented creators, says CEO Daniel Ek](https://techcrunch.com/2022/02/07/spotify-will-invest-100m-in-content-from-underrepresented-creators-says-ceo-daniel-ek/)
-- [Apple fined again over Dutch dating app payments order](https://techcrunch.com/2022/02/07/apple-third-dutch-antitrust-fine/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [What does the new era of location intelligence hold for businesses?](https://techcrunch.com/2022/02/07/what-does-the-new-era-of-location-intelligence-hold-for-businesses/)
-- [Farewell, Jupiter! The gas giant will disappear from the evening sky this month](https://www.space.com/farewell-jupiter-skywatching-february-2022)
-- [SCRUB: Astra to launch its 1st rocket flight from Florida today. Here&#39;s how to watch it live](https://www.space.com/astra-first-florida-launch-elana-41-february-2022)
-- [Changing how we approach data privacy to unlock economic opportunities](https://techcrunch.com/2022/02/07/changing-how-we-approach-data-privacy-to-unlock-economic-opportunities/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
