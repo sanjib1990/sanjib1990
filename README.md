@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Donation site for Ottawa truckers’ ‘Freedom Convoy’ protest exposed donors’ data](https://techcrunch.com/2022/02/08/ottawa-trucker-freedom-convoy-exposed-donation/)
+- [Paint it black: behind the James Webb Space Telescope&#39;s signature color](https://www.space.com/nasa-james-webb-space-telescope-black-paint-video-birb)
+- [Mars rover Perseverance sets distance record on the Red Planet](https://www.space.com/perseverance-distance-record-mars)
+- [Daffy aims to make it easy &lpar;and cheap&rpar; for anyone to funnel money to a donor-advised fund with a few phone taps](https://techcrunch.com/2022/02/08/daffy-aims-to-make-it-easy-and-cheap-for-anyone-to-funnel-money-to-a-donor-advised-fund-with-a-few-phone-taps/)
 - [DOJ seizes $3.6B in bitcoins after busting entrepreneur couple in Bitfinex laundering scheme](https://techcrunch.com/2022/02/08/married-tech-entrepreneurs-arrested-charged-with-laundering-funds-from-bitfinex-crypto-hack/)
 - [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
 - [Meta’s Oversight Board urges Facebook and Instagram to tighten doxing rules](https://techcrunch.com/2022/02/08/metas-oversight-board-facebook-and-instagram-to-tighten-doxing-rules/)
 - [TechCrunch+ roundup: After the exit, starting up in stealth, Wag’s SPAC plans](https://techcrunch.com/2022/02/08/techcrunch-roundup-after-the-exit-starting-up-in-stealth-wags-spac-plans/)
 - [Mars helicopter Ingenuity aces 19th flight after historic Red Planet weather delay](https://www.space.com/mars-helicopter-ingenuity-19th-flight-success)
 - [Eight years into his tenure, Satya Nadella looks to diversify](https://techcrunch.com/2022/02/08/eight-years-into-his-tenure-satya-nadella-looks-to-diversify/)
-- [Come hang with us for live recordings of TechCrunch podcasts Equity and Found](https://techcrunch.com/2022/02/08/come-hang-with-us-for-live-recordings-of-techcrunch-podcasts-equity-and-found/)
-- [Amazon expands its telehealth service nationwide](https://techcrunch.com/2022/02/08/amazon-expands-its-telehealth-service-nationwide/)
-- [Subaru opens up reservations for its first EV, the Solterra](https://techcrunch.com/2022/02/08/subaru-opens-up-reservations-for-its-first-ev-the-solterra/)
-- [Europe’s Chips Act to bake in up to €2BN in funding support for startups and scale-ups](https://techcrunch.com/2022/02/08/eu-chips-act/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
