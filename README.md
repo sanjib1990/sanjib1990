@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [UK revives age checks for porn sites](https://techcrunch.com/2022/02/08/uk-revives-porn-age-checks/)
+- [On This Day in Space! Feb. 8, 1974: Astronauts say final goodbye to Skylab](https://www.space.com/39251-on-this-day-in-space.html)
+- [A rogue rocket is on course to crash into the moon. It won&#39;t be the first.](https://www.space.com/rogue-rockets-crashed-into-moon)
+- [The &#39;morning star&#39; Venus returns to the dawn sky this month](https://www.space.com/venus-morning-star-returns-february-2022)
+- [India to attempt its next moon landing with Chandrayaan 3 launch in August](https://www.space.com/india-chandrayaan-3-moon-mission-august-2022)
+- [Russia wants to speed up space station cargo deliveries with shorter, one-orbit flights](https://www.space.com/russia-space-station-single-orbit-flight)
+- [Nigerian fintech Grey gets backing from Y Combinator](https://techcrunch.com/2022/02/08/nigerian-fintech-grey-finance-gets-backing-from-y-combinator/)
 - [TikTok updates its policies with focus on minor and LGBTQ safety, age appropriate content and more](https://techcrunch.com/2022/02/08/tiktok-updates-its-policies-with-focus-on-minor-safety-age-appropriate-content-and-more/)
 - [Reports say African startups raised record-smashing $4.3B to $5B in 2021](https://techcrunch.com/2022/02/08/reports-say-african-startups-raised-record-smashing-4-3b-to-5b-in-2021/)
 - [m3ter comes out of stealth with $17.5M for usage-based pricing technology, used by SaaS companies](https://techcrunch.com/2022/02/08/m3ter-comes-out-of-stealth-with-17-5m-for-usage-based-pricing-technology-used-by-saas-companies/)
-- [Silvr wants to bring revenue-based financing to Europe](https://techcrunch.com/2022/02/08/silvr-wants-to-bring-revenue-based-financing-to-europe/)
-- [Clikalia clicks on $86M to expand its iBuyer marketplace across Europe and Latin America](https://techcrunch.com/2022/02/07/clikalia-clicks-on-86m-to-expand-its-ibuyer-marketplace-across-europe-and-latin-america/)
-- [Nvidia calls off its efforts to acquire Arm](https://techcrunch.com/2022/02/07/nvidia-calls-off-its-efforts-to-acquire-arm/)
-- [3D content collaboration startup Taichi Graphics closes $50M Series A](https://techcrunch.com/2022/02/07/3d-graphics-infrastructure-taichi-series-a/)
-- [Vietnam-focused investment app Infina boosts its seed round to $6M](https://techcrunch.com/2022/02/07/vietnam-focused-investment-app-infina-boosts-its-seed-round-to-6m/)
-- [4 signs to look for when evaluating ESG investments](https://techcrunch.com/2022/02/07/4-signs-to-look-for-when-evaluating-esg-investments/)
-- [Selina raises $150M to dish out flexible loans that leverage home equity](https://techcrunch.com/2022/02/07/selina-raises-150m-to-dish-out-flexible-loans-that-leverage-home-equity/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
