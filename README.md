@@ -95,6 +95,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Selina raises $150M to dish out flexible loans that leverage home equity](https://techcrunch.com/2022/02/07/selina-raises-150m-to-dish-out-flexible-loans-that-leverage-home-equity/)
+- [Automotive simulation platform Morai secures $20.8M Series B to expand its global footprint](https://techcrunch.com/2022/02/07/automotive-simulation-platform-morai-wants-to-expand-its-international-footprint-with-20-8m-series-b/)
+- [Daily Crunch: Investors pour $450M into Ethereum scaling platform Polygon](https://techcrunch.com/2022/02/07/daily-crunch-investors-pour-450m-into-ethereum-scaling-platform-polygon/)
 - [Max Q: Earth observation is the place to be in space](https://techcrunch.com/2022/02/07/max-q-earth-observation-is-the-place-to-be-in-space/)
 - [From movies to shipping, AWS is driving Amazon’s revenue diversification](https://techcrunch.com/2022/02/07/from-movies-to-shipping-aws-is-driving-amazons-revenue-diversification/)
 - [Peter Thiel to leave Facebook board, which you probably forgot he was still on](https://techcrunch.com/2022/02/07/peter-thiel-to-leave-facebook-board-which-you-probably-forgot-he-was-still-on/)
@@ -102,9 +105,6 @@
 - [SpaceX Falcon 9 upper stage breaks up in Earth&#39;s atmosphere, 5 years after launch](https://www.space.com/spacex-rocket-stage-deorbits-over-mexico)
 - [SpaceX rocket stage on a collision course with the moon captured in telescope images](https://www.space.com/spacex-discovr-satellite-virtual-telescope-project-images)
 - [Astra rocket aborts 1st Florida launch attempt at last second &lpar;video&rpar;](https://www.space.com/astra-scrubs-first-florida-launch-after-abort)
-- [The Big Bang: What really happened at our universe&#39;s birth?](https://www.space.com/13347-big-bang-origins-universe-birth.html)
-- [The IRS won’t make you verify your identity with facial recognition after all](https://techcrunch.com/2022/02/07/irs-facial-recognition-id-me/)
-- [Olay erects statue of rocket engineer Mary Golda Ross to promote STEM equity](https://www.space.com/olay-mary-golda-ross-statue)
 <!-- BLOG-POST-LIST:END -->
 
 ---
