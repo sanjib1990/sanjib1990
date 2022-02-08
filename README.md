@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [4 signs to look for when evaluating ESG investments](https://techcrunch.com/2022/02/07/4-signs-to-look-for-when-evaluating-esg-investments/)
 - [Selina raises $150M to dish out flexible loans that leverage home equity](https://techcrunch.com/2022/02/07/selina-raises-150m-to-dish-out-flexible-loans-that-leverage-home-equity/)
 - [Automotive simulation platform Morai secures $20.8M Series B to expand its global footprint](https://techcrunch.com/2022/02/07/automotive-simulation-platform-morai-wants-to-expand-its-international-footprint-with-20-8m-series-b/)
 - [Daily Crunch: Investors pour $450M into Ethereum scaling platform Polygon](https://techcrunch.com/2022/02/07/daily-crunch-investors-pour-450m-into-ethereum-scaling-platform-polygon/)
@@ -104,7 +105,6 @@
 - [What is the biggest thing in the universe?](https://www.space.com/33553-biggest-thing-universe.html)
 - [SpaceX Falcon 9 upper stage breaks up in Earth&#39;s atmosphere, 5 years after launch](https://www.space.com/spacex-rocket-stage-deorbits-over-mexico)
 - [SpaceX rocket stage on a collision course with the moon captured in telescope images](https://www.space.com/spacex-discovr-satellite-virtual-telescope-project-images)
-- [Astra rocket aborts 1st Florida launch attempt at last second &lpar;video&rpar;](https://www.space.com/astra-scrubs-first-florida-launch-after-abort)
 <!-- BLOG-POST-LIST:END -->
 
 ---
