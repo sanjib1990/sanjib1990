@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [3D content collaboration startup Taichi Graphics closes $50M Series A](https://techcrunch.com/2022/02/07/3d-graphics-infrastructure-taichi-series-a/)
 - [Vietnam-focused investment app Infina boosts its seed round to $6M](https://techcrunch.com/2022/02/07/vietnam-focused-investment-app-infina-boosts-its-seed-round-to-6m/)
 - [4 signs to look for when evaluating ESG investments](https://techcrunch.com/2022/02/07/4-signs-to-look-for-when-evaluating-esg-investments/)
 - [Selina raises $150M to dish out flexible loans that leverage home equity](https://techcrunch.com/2022/02/07/selina-raises-150m-to-dish-out-flexible-loans-that-leverage-home-equity/)
@@ -104,7 +105,6 @@
 - [From movies to shipping, AWS is driving Amazon’s revenue diversification](https://techcrunch.com/2022/02/07/from-movies-to-shipping-aws-is-driving-amazons-revenue-diversification/)
 - [Peter Thiel to leave Facebook board, which you probably forgot he was still on](https://techcrunch.com/2022/02/07/peter-thiel-to-leave-facebook-board-which-you-probably-forgot-he-was-still-on/)
 - [What is the biggest thing in the universe?](https://www.space.com/33553-biggest-thing-universe.html)
-- [SpaceX Falcon 9 upper stage breaks up in Earth&#39;s atmosphere, 5 years after launch](https://www.space.com/spacex-rocket-stage-deorbits-over-mexico)
 <!-- BLOG-POST-LIST:END -->
 
 ---
