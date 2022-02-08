@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Eight years into his tenure, Satya Nadella looks to diversify](https://techcrunch.com/2022/02/08/eight-years-into-his-tenure-satya-nadella-looks-to-diversify/)
+- [Come hang with us for live recordings of TechCrunch podcasts Equity and Found](https://techcrunch.com/2022/02/08/come-hang-with-us-for-live-recordings-of-techcrunch-podcasts-equity-and-found/)
 - [Amazon expands its telehealth service nationwide](https://techcrunch.com/2022/02/08/amazon-expands-its-telehealth-service-nationwide/)
 - [Subaru opens up reservations for its first EV, the Solterra](https://techcrunch.com/2022/02/08/subaru-opens-up-reservations-for-its-first-ev-the-solterra/)
 - [Europe’s Chips Act to bake in up to €2BN in funding support for startups and scale-ups](https://techcrunch.com/2022/02/08/eu-chips-act/)
@@ -103,8 +105,6 @@
 - [France’s strategy for EU startup policies: Talent and money](https://techcrunch.com/2022/02/08/frances-strategy-for-eu-startup-policies-talent-and-money/)
 - [Which insurtech startups are set to thrive?](https://techcrunch.com/2022/02/08/which-insurtech-startups-are-set-to-thrive/)
 - [Disney+ just ran its first test of livestreaming in the US](https://techcrunch.com/2022/02/08/disney-just-ran-its-first-test-of-live-streaming-in-the-u-s/)
-- [SEC subpoenas Tesla over settlement regarding Musk’s tweets](https://techcrunch.com/2022/02/08/sec-subpoenas-tesla-over-settlement-regarding-musks-tweets/)
-- [NASA picks Lockheed Martin to build rocket to carry Mars samples back to Earth](https://www.space.com/nasa-mars-sample-return-rocket-lockheed-martin)
 <!-- BLOG-POST-LIST:END -->
 
 ---
