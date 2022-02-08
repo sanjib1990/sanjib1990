@@ -95,6 +95,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta’s Oversight Board urges Facebook and Instagram to tighten doxing rules](https://techcrunch.com/2022/02/08/metas-oversight-board-facebook-and-instagram-to-tighten-doxing-rules/)
+- [TechCrunch+ roundup: After the exit, starting up in stealth, Wag’s SPAC plans](https://techcrunch.com/2022/02/08/techcrunch-roundup-after-the-exit-starting-up-in-stealth-wags-spac-plans/)
+- [Mars helicopter Ingenuity aces 19th flight after historic Red Planet weather delay](https://www.space.com/mars-helicopter-ingenuity-19th-flight-success)
 - [Eight years into his tenure, Satya Nadella looks to diversify](https://techcrunch.com/2022/02/08/eight-years-into-his-tenure-satya-nadella-looks-to-diversify/)
 - [Come hang with us for live recordings of TechCrunch podcasts Equity and Found](https://techcrunch.com/2022/02/08/come-hang-with-us-for-live-recordings-of-techcrunch-podcasts-equity-and-found/)
 - [Amazon expands its telehealth service nationwide](https://techcrunch.com/2022/02/08/amazon-expands-its-telehealth-service-nationwide/)
@@ -102,9 +105,6 @@
 - [Europe’s Chips Act to bake in up to €2BN in funding support for startups and scale-ups](https://techcrunch.com/2022/02/08/eu-chips-act/)
 - [UK Foreign Office calls in ‘urgent support’ after cyber incident](https://techcrunch.com/2022/02/08/uk-foreign-office-cyber-incident/)
 - [Google brings a smarter search history page to Chrome](https://techcrunch.com/2022/02/08/google-brings-a-smarter-search-history-page-to-chrome/)
-- [France’s strategy for EU startup policies: Talent and money](https://techcrunch.com/2022/02/08/frances-strategy-for-eu-startup-policies-talent-and-money/)
-- [Which insurtech startups are set to thrive?](https://techcrunch.com/2022/02/08/which-insurtech-startups-are-set-to-thrive/)
-- [Disney+ just ran its first test of livestreaming in the US](https://techcrunch.com/2022/02/08/disney-just-ran-its-first-test-of-live-streaming-in-the-u-s/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
