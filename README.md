@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rugged Mars has taken big bites out of the Curiosity rover&#39;s wheels &lpar;photos&rpar;](https://www.space.com/nasa-mars-rover-curiosity-wheel-damage-photos)
+- [Fantastical lets you share a link to schedule meetings — no Calendly required](https://techcrunch.com/2022/02/08/fantastical-lets-you-share-a-link-to-schedule-meetings-no-calendly-required/)
+- [Google rolls out safety features across Google Fi, Google Assistant, Google One and more](https://techcrunch.com/2022/02/08/google-rolls-out-safety-features-across-google-fi-google-assistant-google-one-and-more/)
+- [Cooks Venture, the chicken company with big dreams, eats up $50M](https://techcrunch.com/2022/02/08/chicken-cooks-venture-50m-funding-regenerative-agriculture/)
 - [Alchemy, which aims to be the ‘de facto platform’ for developers to build on web3, is now valued at $10.2B](https://techcrunch.com/2022/02/08/alchemy-which-aims-to-be-the-de-facto-platform-for-developers-to-build-on-web3-raises-another-200m-and-is-now-valued-at-10-2b/)
 - [Kraftful wants to lift the veil with analytics for makers of smart home hardware](https://techcrunch.com/2022/02/08/kraftful-analytics/)
 - [Spain’s Rosita Longevity, an app that helps seniors be more active, is headed to Florida](https://techcrunch.com/2022/02/08/spains-rosita-longevity-an-app-that-helps-seniors-be-more-active-is-headed-to-florida/)
 - [Shift5 raises $50M to defend transport networks from cyberattacks](https://techcrunch.com/2022/02/08/shift5-series-b-ot-networks-cyberattacks/)
 - [Financial Venture Studio names fintech startup founder Cameron Peake as its newest partner](https://techcrunch.com/2022/02/08/financial-venture-studio-names-fintech-startup-founder-cameron-peake-as-its-newest-partner/)
 - [Endgame grabs another cash infusion as product-led growth momentum builds](https://techcrunch.com/2022/02/08/endgame-grabs-another-cash-infusion-as-product-led-growth-momentum-builds/)
-- [Artiphon drops the hardware requirement for its musical camera app, Orbacam](https://techcrunch.com/2022/02/08/artiphon-drops-the-hardware-requirement-for-its-musical-camera-app-orbacam/)
-- [American Express launches its first all-digital consumer checking account](https://techcrunch.com/2022/02/08/american-express-launches-its-first-all-digital-consumer-checking-account/)
-- [Peloton CEO steps down as the company cuts 2,800 jobs](https://techcrunch.com/2022/02/08/peloton-ceo-steps-down-as-the-company-cuts-2800-jobs/)
-- [Shopware, an e-commerce platform that powers 100K brands, raises its first outside funding: $100M from PayPal and Carlyle](https://techcrunch.com/2022/02/08/shopware-an-e-commerce-platform-that-powers-100k-brands-raises-its-first-outside-funding-100m-from-paypal-and-carlyle/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
