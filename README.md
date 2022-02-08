@@ -78,6 +78,7 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [What is SRE | Tasks and Responsibilities of an SRE | SRE vs DevOps](https://www.youtube.com/watch?v=OnK4IKgLl24)
 - [If Else Statements in Python // Python RIGHT NOW!! // EP 4](https://www.youtube.com/watch?v=5-5Mf_L0UKw)
 - [C++ in 100 Seconds](https://www.youtube.com/watch?v=MNeX4EGtR5Y)
 - [BIG new feature lands in Node.js // The Code Report](https://www.youtube.com/watch?v=MBqS1kYzwTc)
@@ -87,7 +88,6 @@
 - [Ganges Water Conflicts between India and Bangladesh](https://www.youtube.com/watch?v=w2HASHQ8nYw)
 - [Enabling Conditions for Transboundary Water Agreements](https://www.youtube.com/watch?v=KmoodT_3XPQ)
 - [The Past, Present and Future of the Columbia River Treaty: A Case for Modernization](https://www.youtube.com/watch?v=oqOtuChgsz4)
-- [How I post banger tweets with artificial intelligence // Twitter Bot Tutorial](https://www.youtube.com/watch?v=V7LEihbOv3Y)
 <!-- YOUTUBE:END -->
 
 ---
