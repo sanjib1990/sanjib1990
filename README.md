@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [m3ter comes out of stealth with $17.5M for usage-based pricing technology, used by SaaS companies](https://techcrunch.com/2022/02/08/m3ter-comes-out-of-stealth-with-17-5m-for-usage-based-pricing-technology-used-by-saas-companies/)
 - [Silvr wants to bring revenue-based financing to Europe](https://techcrunch.com/2022/02/08/silvr-wants-to-bring-revenue-based-financing-to-europe/)
 - [Clikalia clicks on $86M to expand its iBuyer marketplace across Europe and Latin America](https://techcrunch.com/2022/02/07/clikalia-clicks-on-86m-to-expand-its-ibuyer-marketplace-across-europe-and-latin-america/)
 - [Nvidia calls off its efforts to acquire Arm](https://techcrunch.com/2022/02/07/nvidia-calls-off-its-efforts-to-acquire-arm/)
@@ -104,7 +105,6 @@
 - [Selina raises $150M to dish out flexible loans that leverage home equity](https://techcrunch.com/2022/02/07/selina-raises-150m-to-dish-out-flexible-loans-that-leverage-home-equity/)
 - [Automotive simulation platform Morai secures $20.8M Series B to expand its global footprint](https://techcrunch.com/2022/02/07/automotive-simulation-platform-morai-wants-to-expand-its-international-footprint-with-20-8m-series-b/)
 - [Daily Crunch: Investors pour $450M into Ethereum scaling platform Polygon](https://techcrunch.com/2022/02/07/daily-crunch-investors-pour-450m-into-ethereum-scaling-platform-polygon/)
-- [Max Q: Earth observation is the place to be in space](https://techcrunch.com/2022/02/07/max-q-earth-observation-is-the-place-to-be-in-space/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
