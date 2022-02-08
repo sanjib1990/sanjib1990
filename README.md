@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Endgame grabs another cash infusion as product-led growth momentum builds](https://techcrunch.com/2022/02/08/endgame-grabs-another-cash-infusion-as-product-led-growth-momentum-builds/)
+- [Artiphon drops the hardware requirement for its musical camera app, Orbacam](https://techcrunch.com/2022/02/08/artiphon-drops-the-hardware-requirement-for-its-musical-camera-app-orbacam/)
+- [American Express launches its first all-digital consumer checking account](https://techcrunch.com/2022/02/08/american-express-launches-its-first-all-digital-consumer-checking-account/)
+- [Peloton CEO steps down as the company cuts 2,800 jobs](https://techcrunch.com/2022/02/08/peloton-ceo-steps-down-as-the-company-cuts-2800-jobs/)
+- [Shopware, an e-commerce platform that powers 100K brands, raises its first outside funding: $100M from PayPal and Carlyle](https://techcrunch.com/2022/02/08/shopware-an-e-commerce-platform-that-powers-100k-brands-raises-its-first-outside-funding-100m-from-paypal-and-carlyle/)
+- [Rondo tackles industrial heat to drop global CO2 emissions by 1% in the next decade](https://techcrunch.com/2022/02/08/rondo-series-a/)
 - [UK revives age checks for porn sites](https://techcrunch.com/2022/02/08/uk-revives-porn-age-checks/)
+- [You can still see the SpaceX Falcon 9 booster on a collision course with the moon in a live webcast today](https://www.space.com/spacex-falcon-9-rocket-moon-crash-tracking-webcast)
 - [On This Day in Space! Feb. 8, 1974: Astronauts say final goodbye to Skylab](https://www.space.com/39251-on-this-day-in-space.html)
 - [A rogue rocket is on course to crash into the moon. It won&#39;t be the first.](https://www.space.com/rogue-rockets-crashed-into-moon)
-- [The &#39;morning star&#39; Venus returns to the dawn sky this month](https://www.space.com/venus-morning-star-returns-february-2022)
-- [India to attempt its next moon landing with Chandrayaan 3 launch in August](https://www.space.com/india-chandrayaan-3-moon-mission-august-2022)
-- [Russia wants to speed up space station cargo deliveries with shorter, one-orbit flights](https://www.space.com/russia-space-station-single-orbit-flight)
-- [Nigerian fintech Grey gets backing from Y Combinator](https://techcrunch.com/2022/02/08/nigerian-fintech-grey-finance-gets-backing-from-y-combinator/)
-- [TikTok updates its policies with focus on minor and LGBTQ safety, age appropriate content and more](https://techcrunch.com/2022/02/08/tiktok-updates-its-policies-with-focus-on-minor-safety-age-appropriate-content-and-more/)
-- [Reports say African startups raised record-smashing $4.3B to $5B in 2021](https://techcrunch.com/2022/02/08/reports-say-african-startups-raised-record-smashing-4-3b-to-5b-in-2021/)
-- [m3ter comes out of stealth with $17.5M for usage-based pricing technology, used by SaaS companies](https://techcrunch.com/2022/02/08/m3ter-comes-out-of-stealth-with-17-5m-for-usage-based-pricing-technology-used-by-saas-companies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
