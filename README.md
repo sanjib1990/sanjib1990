@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon expands its telehealth service nationwide](https://techcrunch.com/2022/02/08/amazon-expands-its-telehealth-service-nationwide/)
+- [Subaru opens up reservations for its first EV, the Solterra](https://techcrunch.com/2022/02/08/subaru-opens-up-reservations-for-its-first-ev-the-solterra/)
+- [Europe’s Chips Act to bake in up to €2BN in funding support for startups and scale-ups](https://techcrunch.com/2022/02/08/eu-chips-act/)
+- [UK Foreign Office calls in ‘urgent support’ after cyber incident](https://techcrunch.com/2022/02/08/uk-foreign-office-cyber-incident/)
 - [Google brings a smarter search history page to Chrome](https://techcrunch.com/2022/02/08/google-brings-a-smarter-search-history-page-to-chrome/)
 - [France’s strategy for EU startup policies: Talent and money](https://techcrunch.com/2022/02/08/frances-strategy-for-eu-startup-policies-talent-and-money/)
 - [Which insurtech startups are set to thrive?](https://techcrunch.com/2022/02/08/which-insurtech-startups-are-set-to-thrive/)
 - [Disney+ just ran its first test of livestreaming in the US](https://techcrunch.com/2022/02/08/disney-just-ran-its-first-test-of-live-streaming-in-the-u-s/)
 - [SEC subpoenas Tesla over settlement regarding Musk’s tweets](https://techcrunch.com/2022/02/08/sec-subpoenas-tesla-over-settlement-regarding-musks-tweets/)
 - [NASA picks Lockheed Martin to build rocket to carry Mars samples back to Earth](https://www.space.com/nasa-mars-sample-return-rocket-lockheed-martin)
-- [To save independent journalism, media must embrace web3 innovation](https://techcrunch.com/2022/02/08/to-save-independent-journalism-media-must-embrace-web3-innovation/)
-- [Apple announces ‘Tap to Pay’ feature that will allow iPhones to accept contactless payments](https://techcrunch.com/2022/02/08/apple-announces-tap-to-pay-feature-that-will-allow-iphones-to-accept-contactless-payments/)
-- [ApertureData is building a database focused on images with $3M seed](https://techcrunch.com/2022/02/08/aperturedata-is-building-a-database-focussed-on-images-with-3m-seed/)
-- [Rugged Mars has taken big bites out of the Curiosity rover&#39;s wheels &lpar;photos&rpar;](https://www.space.com/nasa-mars-rover-curiosity-wheel-damage-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
