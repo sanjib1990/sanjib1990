@@ -78,7 +78,7 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Watch out for EVIL BEN 😈 !! &lpar;if / else statements&rpar; // Python RIGHT NOW!! // EP 4](https://www.youtube.com/watch?v=5-5Mf_L0UKw)
+- [If Else Statements in Python // Python RIGHT NOW!! // EP 4](https://www.youtube.com/watch?v=5-5Mf_L0UKw)
 - [C++ in 100 Seconds](https://www.youtube.com/watch?v=MNeX4EGtR5Y)
 - [BIG new feature lands in Node.js // The Code Report](https://www.youtube.com/watch?v=MBqS1kYzwTc)
 - [Integrated Water Resources Management / The Water-Energy-Food Nexus](https://www.youtube.com/watch?v=kAeDRfk6A9w)
