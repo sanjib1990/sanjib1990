@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Solar geomagnetic storms could threaten more satellites after Elon Musk&#39;s Starlink](https://www.space.com/solar-geomagnetic-storms-spacex-starlink-threat)
+- [Emperor Zurg makes his evil appearance in new trailer for &#39;Lightyear,&#39; the Buzz Lightyear origin story](https://www.space.com/disney-pixar-lightyear-new-trailer-poster)
 - [3 views: Is the metaverse for work or play?](https://techcrunch.com/2022/02/09/3-views-is-the-metaverse-for-work-or-play/)
 - [Mirantis on run rate over $100M two years after buying Docker Enterprise assets](https://techcrunch.com/2022/02/09/mirantis-on-run-rate-over-100m-two-years-after-buying-docker-enterprise-assets/)
 - [Uber wrapped 2021 with strong revenue growth and greater adjusted profitability](https://techcrunch.com/2022/02/09/uber-4q-earnings-strong-revenue-growth-greater-adjusted-profitability/)
@@ -103,8 +105,6 @@
 - [Scopio aims to turn hematology into remote work with $50M C round](https://techcrunch.com/2022/02/09/scopio-aims-to-turn-hematology-into-remote-work-with-50m-c-round/)
 - [Dear Sophie: How can early-stage startups compete for talent?](https://techcrunch.com/2022/02/09/dear-sophie-how-can-early-stage-startups-compete-for-talent/)
 - [Reddit rolls out a web version of Reddit Talk, its live audio product](https://techcrunch.com/2022/02/09/reddit-rolls-out-a-web-version-of-reddit-talk-its-live-audio-product/)
-- [Fiery death of SpaceX Starlink satellites captured on video after geomagnetic storm](https://www.space.com/spacex-starlink-satellite-deorbit-video)
-- [Mt. Everest&#39;s highest glacier lost 2,000 years worth of ice since the 1990s](https://www.space.com/mt-everest-highest-glacier-rapid-ice-retreat)
 <!-- BLOG-POST-LIST:END -->
 
 ---
