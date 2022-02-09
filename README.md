@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX says a geomagnetic storm just doomed 40 Starlink internet satellites](https://www.space.com/spacex-starlink-satellites-lost-geomagnetic-storm)
 - [Envisioning Partners closes on $64M fund for climate tech startups](https://techcrunch.com/2022/02/08/envisioning-partners-closes-on-64m-fund-to-back-climate-tech-startups/)
 - [What happens at the center of a black hole?](https://www.space.com/what-happens-black-hole-center)
 - [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html)
@@ -104,7 +105,6 @@
 - [Daily Crunch: After slashing 2,800 jobs, Peloton taps former Spotify CFO to replace outgoing CEO](https://techcrunch.com/2022/02/08/daily-crunch-after-slashing-2800-jobs-peloton-taps-former-spotify-cfo-to-replace-outgoing-ceo/)
 - [Comet impact may have triggered decline of Ohio&#39;s Hopewell people 1,600 years ago](https://www.space.com/comet-impact-decline-hopewell-people-ohio)
 - [Lyft’s revenue growth masks active riders slippage](https://techcrunch.com/2022/02/08/lyfts-revenue-growth-masks-active-riders-slippage/)
-- [Hydrogen production without CO2 is getting a boost with new tech from Verdagy](https://techcrunch.com/2022/02/08/verdagy-series-a/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
