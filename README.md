@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Census confirms it has raised a $60M Series B on $630M valuation](https://techcrunch.com/2022/02/09/census-confirms-it-has-raised-a-60m-series-b-on-630m-valuation/)
+- [Crawling toward the metaverse](https://techcrunch.com/2022/02/09/crawling-toward-the-metaverse/)
+- [Google Duo’s video chat app gains a SharePlay-inspired feature called ‘live sharing’](https://techcrunch.com/2022/02/09/google-duos-video-chat-app-gains-a-shareplay-inspired-feature-called-live-sharing/)
+- [Samsung, Google expand Wear OS partnership with the arrival of Assistant and Play apps](https://techcrunch.com/2022/02/09/samsung-google-expand-wear-os-partnership-with-the-arrival-of-assistant-and-play-apps/)
+- [Samsung kills the Note, so the Galaxy S22 Ultra can fly](https://techcrunch.com/2022/02/09/samsung-kills-the-note-so-the-galaxy-s22-ultra-can-fly/)
+- [After seeing 200%+ ARR growth, Occupier raises $10.5M to become the OS for corporate real estate teams](https://techcrunch.com/2022/02/09/after-seeing-200-arr-growth-occupier-raises-10-5m/)
+- [How to ruin the metaverse? Build it around profit and centralization](https://techcrunch.com/2022/02/09/how-to-ruin-the-metaverse-build-it-around-profit-and-centralization/)
+- [Apple source code references ‘realityOS’ for potential VR/AR headsets](https://techcrunch.com/2022/02/09/apple-source-code-references-realityos-for-potential-vr-ar-headsets/)
+- [Employees can count on Addition Wealth for free, holistic financial planning services](https://techcrunch.com/2022/02/09/employees-can-count-on-addition-wealth-for-free-holistic-financial-planning-services/)
 - [Splendid Spoon stirs its strategy to get you to love plant-based foods](https://techcrunch.com/2022/02/09/splendid-spoon-plant-based-foods/)
-- [PopSQL aims to be a modern data team’s best friend](https://techcrunch.com/2022/02/09/popsql-aims-to-be-a-modern-data-teams-best-friend/)
-- [Ethereum developer tools platform Hardhat becomes nonprofit with donations from A16z and others](https://techcrunch.com/2022/02/09/ethereum-developer-tools-platform-hardhat-becomes-nonprofit-with-donations-from-a16z-and-others/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [SpaceX loses 40 Starlink satellites to a geomagnetic storm](https://techcrunch.com/2022/02/09/spacex-loses-40-starlink-satellites-to-a-geomagnetic-storm/)
-- [On This Day in Space! Feb. 9, 1913: Great meteor procession of 1913](https://www.space.com/39251-on-this-day-in-space.html)
-- [As startups flood the longevity space, bioniq launches hyper-personalised supplements](https://techcrunch.com/2022/02/09/as-startups-flood-the-longevity-space-bioniq-launches-hyper-personalised-supplements/)
-- [SpaceX is stacking its giant Starship ahead of Elon Musk&#39;s big update this week](https://www.space.com/spacex-stacking-starship-elon-musk-2022-update)
-- [Jupiter&#39;s auroras arise from a magnetic &#39;tug-of-war&#39; with volcanic eruptions on its moon Io](https://www.space.com/jupiter-auroras-volcanic-moon-io-tug-of-war)
-- [Waabi’s new simulator could scale autonomous vehicle tech faster](https://techcrunch.com/2022/02/09/waabis-new-simulator-could-scale-autonomous-vehicle-tech-faster/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
