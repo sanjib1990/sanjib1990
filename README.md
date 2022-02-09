@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [3 views: Is the metaverse for work or play?](https://techcrunch.com/2022/02/09/3-views-is-the-metaverse-for-work-or-play/)
+- [Mirantis on run rate over $100M two years after buying Docker Enterprise assets](https://techcrunch.com/2022/02/09/mirantis-on-run-rate-over-100m-two-years-after-buying-docker-enterprise-assets/)
+- [Uber wrapped 2021 with strong revenue growth and greater adjusted profitability](https://techcrunch.com/2022/02/09/uber-4q-earnings-strong-revenue-growth-greater-adjusted-profitability/)
+- [Microsoft says it will open up the Xbox store in light of the Activision Blizzard deal](https://techcrunch.com/2022/02/09/microsoft-activision-blizzard-call-of-duty-deal/)
+- [Apple launches its own book club, ‘Strombo’s Lit,’ in the Apple Books app](https://techcrunch.com/2022/02/09/apple-launches-its-own-book-club-strombos-lit-in-the-apple-books-app/)
 - [Scopio aims to turn hematology into remote work with $50M C round](https://techcrunch.com/2022/02/09/scopio-aims-to-turn-hematology-into-remote-work-with-50m-c-round/)
 - [Dear Sophie: How can early-stage startups compete for talent?](https://techcrunch.com/2022/02/09/dear-sophie-how-can-early-stage-startups-compete-for-talent/)
 - [Reddit rolls out a web version of Reddit Talk, its live audio product](https://techcrunch.com/2022/02/09/reddit-rolls-out-a-web-version-of-reddit-talk-its-live-audio-product/)
-- [Fiery death of SpaceX Starlink satellites after geomagnetic storm captured on video](https://www.space.com/spacex-starlink-satellite-deorbit-video)
+- [Fiery death of SpaceX Starlink satellites captured on video after geomagnetic storm](https://www.space.com/spacex-starlink-satellite-deorbit-video)
 - [Mt. Everest&#39;s highest glacier lost 2,000 years worth of ice since the 1990s](https://www.space.com/mt-everest-highest-glacier-rapid-ice-retreat)
-- [Last-minute Star Wars Valentine&#39;s day gifts and deals](https://www.space.com/star-wars-valentines-day-gifts)
-- [The Spotify-Rogan saga highlights the distinction between publishers and platforms](https://techcrunch.com/2022/02/09/spotify-rogan-saga-publisher-platform/)
-- [3 warning signs that your investor will leave you on the sidelines](https://techcrunch.com/2022/02/09/3-warning-signs-that-your-investor-will-leave-you-on-the-sidelines/)
-- [James Murdoch and Uday Shankar return with $1.5 billion Qatar-backed investment firm Bodhi Tree, to focus on India and Southeast Asia](https://techcrunch.com/2022/02/09/james-murdoch-uday-shankar-bodhi-tree/)
-- [Travel app Sēkr scores $2.25 million to bring campsite inventory into the digital age](https://techcrunch.com/2022/02/09/travel-app-sekr-scores-2-25-million-to-bring-campsite-inventory-into-the-digital-age/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
