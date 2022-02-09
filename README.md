@@ -78,6 +78,7 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [2 cool &lpar;web&rpar; things to do in Linux // Linux for Hackers // EP 8](https://www.youtube.com/watch?v=HSRghjwTTOQ)
 - [How to Learn to Code - 8 Hard Truths](https://www.youtube.com/watch?v=NtfbWkxJTHw)
 - [What is SRE | Tasks and Responsibilities of an SRE | SRE vs DevOps](https://www.youtube.com/watch?v=OnK4IKgLl24)
 - [If Else Statements in Python // Python RIGHT NOW!! // EP 4](https://www.youtube.com/watch?v=5-5Mf_L0UKw)
@@ -87,7 +88,6 @@
 - [The Confederated Salish-Kootenai Tribes - State of Montana Water Compact](https://www.youtube.com/watch?v=brsHU2jA73E)
 - [Singapore-Malaysia Water Conflict](https://www.youtube.com/watch?v=neBeTYziSLo)
 - [Ganges Water Conflicts between India and Bangladesh](https://www.youtube.com/watch?v=w2HASHQ8nYw)
-- [Enabling Conditions for Transboundary Water Agreements](https://www.youtube.com/watch?v=KmoodT_3XPQ)
 <!-- YOUTUBE:END -->
 
 ---
