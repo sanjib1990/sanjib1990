@@ -95,6 +95,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Splendid Spoon stirs its strategy to get you to love plant-based foods](https://techcrunch.com/2022/02/09/splendid-spoon-plant-based-foods/)
+- [PopSQL aims to be a modern data team’s best friend](https://techcrunch.com/2022/02/09/popsql-aims-to-be-a-modern-data-teams-best-friend/)
+- [Ethereum developer tools platform Hardhat becomes nonprofit with donations from A16z and others](https://techcrunch.com/2022/02/09/ethereum-developer-tools-platform-hardhat-becomes-nonprofit-with-donations-from-a16z-and-others/)
 - [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [SpaceX loses 40 Starlink satellites to a geomagnetic storm](https://techcrunch.com/2022/02/09/spacex-loses-40-starlink-satellites-to-a-geomagnetic-storm/)
 - [On This Day in Space! Feb. 9, 1913: Great meteor procession of 1913](https://www.space.com/39251-on-this-day-in-space.html)
@@ -102,9 +105,6 @@
 - [SpaceX is stacking its giant Starship ahead of Elon Musk&#39;s big update this week](https://www.space.com/spacex-stacking-starship-elon-musk-2022-update)
 - [Jupiter&#39;s auroras arise from a magnetic &#39;tug-of-war&#39; with volcanic eruptions on its moon Io](https://www.space.com/jupiter-auroras-volcanic-moon-io-tug-of-war)
 - [Waabi’s new simulator could scale autonomous vehicle tech faster](https://techcrunch.com/2022/02/09/waabis-new-simulator-could-scale-autonomous-vehicle-tech-faster/)
-- [UAE&#39;s Hope spacecraft marks 1 year in orbit around Mars](https://www.space.com/uae-mars-mission-hope-one-year-orbiting)
-- [eAgronom closes $7.4M Series A to create a farming-based carbon credits platform](https://techcrunch.com/2022/02/09/eagronom-closes-7-4m-series-a-to-create-a-farming-based-carbon-credits-platform/)
-- [Comet Hale-Bopp: Facts about the bright and tragic comet](https://www.space.com/19931-hale-bopp.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
