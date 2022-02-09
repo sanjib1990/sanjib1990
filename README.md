@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why these Udemy execs left to build a better Udemy](https://techcrunch.com/2022/02/09/modal-launch-udemy/)
+- [2021 was a record-breaking year for cybersecurity startups](https://techcrunch.com/2022/02/09/vc-cybersecurity-startups-record-year/)
+- [Join the first TechCrunch Live episode to hear how Heartbeat Health raised from Kindred Ventures](https://techcrunch.com/2022/02/09/join-the-first-techcrunch-live-episode-to-hear-how-heartbeat-health-raised-from-kindred-ventures/)
+- [Messenger’s ‘Split Payments’ feature is rolling out to all users in the US](https://techcrunch.com/2022/02/09/messengers-split-payments-feature-is-rolling-out-to-all-users-in-the-us/)
 - [Tumblr launches a tip jar feature to help bloggers make a buck](https://techcrunch.com/2022/02/09/tumblr-tips-tip-jar-monetization/)
 - [Picsart brings its creative tools to developers with new API](https://techcrunch.com/2022/02/09/picsart-brings-its-creative-tools-to-developers-with-new-api/)
+- [What happened at the Arecibo Observatory? New inquiry launched into iconic telescope&#39;s collapse.](https://www.space.com/arecibo-telescope-collapse-analysis-national-academies)
 - [What is the temperature of Uranus?](https://www.space.com/18707-uranus-temperature.html)
 - [Join Curve Finance’s Michael Egorov at the DeFi and the Future of Programmable Money Summit](https://techcrunch.com/2022/02/09/join-curve-finances-michael-egorov-at-the-defi-and-the-future-of-programmable-money-summit/)
 - [Alan offers its insurance stack to smaller health insurance companies](https://techcrunch.com/2022/02/09/alan-offers-its-insurance-stack-to-smaller-health-insurance-companies/)
-- [OMERS Ventures, Turner Construction team up to build the construction tech startup of their dreams](https://techcrunch.com/2022/02/09/omers-ventures-turner-construction-team-up-to-build-the-construction-tech-startup-of-their-dreams/)
-- [Chaos engineering startup Gremlin gets a new CEO](https://techcrunch.com/2022/02/09/chaos-engineering-startup-gremlin-gets-a-new-ceo/)
-- [Instagram rolls out ‘Your activity’ and ‘Security checkup’ features worldwide](https://techcrunch.com/2022/02/09/instagram-rolls-out-your-activity-and-security-checkup-features-worldwide/)
-- [Census confirms it has raised a $60M Series B on $630M valuation](https://techcrunch.com/2022/02/09/census-confirms-it-has-raised-a-60m-series-b-on-630m-valuation/)
-- [Crawling toward the metaverse](https://techcrunch.com/2022/02/09/crawling-toward-the-metaverse/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
