@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html)
+- [Shared mobility company GoTo Global is going public through a shell company merger](https://techcrunch.com/2022/02/08/shared-mobility-company-goto-global-is-going-public-through-a-shell-company-merger/)
+- [When is the midpoint of winter?](https://www.space.com/midpoint-of-winter)
+- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
+- [Daily Crunch: After slashing 2,800 jobs, Peloton taps former Spotify CFO to replace outgoing CEO](https://techcrunch.com/2022/02/08/daily-crunch-after-slashing-2800-jobs-peloton-taps-former-spotify-cfo-to-replace-outgoing-ceo/)
 - [Comet impact may have triggered decline of Ohio&#39;s Hopewell people 1,600 years ago](https://www.space.com/comet-impact-decline-hopewell-people-ohio)
 - [Lyft’s revenue growth masks active riders slippage](https://techcrunch.com/2022/02/08/lyfts-revenue-growth-masks-active-riders-slippage/)
 - [Hydrogen production without CO2 is getting a boost with new tech from Verdagy](https://techcrunch.com/2022/02/08/verdagy-series-a/)
 - [Donation site for Ottawa truckers’ ‘Freedom Convoy’ protest exposed donors’ data](https://techcrunch.com/2022/02/08/ottawa-trucker-freedom-convoy-exposed-donation/)
 - [Paint it black: behind the James Webb Space Telescope&#39;s signature color](https://www.space.com/nasa-james-webb-space-telescope-black-paint-video-birb)
-- [Mars rover Perseverance sets distance record on the Red Planet](https://www.space.com/perseverance-distance-record-mars)
-- [Daffy aims to make it easy &lpar;and cheap&rpar; for anyone to funnel money to a donor-advised fund with a few phone taps](https://techcrunch.com/2022/02/08/daffy-aims-to-make-it-easy-and-cheap-for-anyone-to-funnel-money-to-a-donor-advised-fund-with-a-few-phone-taps/)
-- [DOJ seizes $3.6B in bitcoins after busting entrepreneur couple in Bitfinex laundering scheme](https://techcrunch.com/2022/02/08/married-tech-entrepreneurs-arrested-charged-with-laundering-funds-from-bitfinex-crypto-hack/)
-- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
-- [Meta’s Oversight Board urges Facebook and Instagram to tighten doxing rules](https://techcrunch.com/2022/02/08/metas-oversight-board-facebook-and-instagram-to-tighten-doxing-rules/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
