@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Destinus plans to fly a hydrogen-powered, hypersonic cargo craft with $29M seed round](https://techcrunch.com/2022/02/08/momentus-founder-destinus-hypersonic-plane-29m-funding/)
 - [Egyptian investment app Thndr nabs $20M from Tiger Global, Prosus Ventures and others](https://techcrunch.com/2022/02/08/egyptian-investment-app-thndr-nabs-20m-from-tiger-global-prosus-and-others/)
 - [To cope with stricter data regulation, enterprises should look to fully open APIs](https://techcrunch.com/2022/02/08/to-cope-with-stricter-data-regulation-enterprises-should-look-to-fully-open-apis/)
 - [Indian logistics firm Xpressbees becomes unicorn with $300 million fresh funding](https://techcrunch.com/2022/02/08/indian-logistics-firm-xpressbees-becomes-unicorn-with-300-million-fresh-funding/)
@@ -104,7 +105,6 @@
 - [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html)
 - [Shared mobility company GoTo Global is going public through a shell company merger](https://techcrunch.com/2022/02/08/shared-mobility-company-goto-global-is-going-public-through-a-shell-company-merger/)
 - [When is the midpoint of winter?](https://www.space.com/midpoint-of-winter)
-- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
