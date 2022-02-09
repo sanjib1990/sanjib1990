@@ -95,6 +95,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Egyptian investment app Thndr nabs $20M from Tiger Global, Prosus Ventures and others](https://techcrunch.com/2022/02/08/egyptian-investment-app-thndr-nabs-20m-from-tiger-global-prosus-and-others/)
+- [To cope with stricter data regulation, enterprises should look to fully open APIs](https://techcrunch.com/2022/02/08/to-cope-with-stricter-data-regulation-enterprises-should-look-to-fully-open-apis/)
+- [Indian logistics firm Xpressbees becomes unicorn with $300 million fresh funding](https://techcrunch.com/2022/02/08/indian-logistics-firm-xpressbees-becomes-unicorn-with-300-million-fresh-funding/)
 - [SpaceX says a geomagnetic storm just doomed 40 Starlink internet satellites](https://www.space.com/spacex-starlink-satellites-lost-geomagnetic-storm)
 - [Envisioning Partners closes on $64M fund for climate tech startups](https://techcrunch.com/2022/02/08/envisioning-partners-closes-on-64m-fund-to-back-climate-tech-startups/)
 - [What happens at the center of a black hole?](https://www.space.com/what-happens-black-hole-center)
@@ -102,9 +105,6 @@
 - [Shared mobility company GoTo Global is going public through a shell company merger](https://techcrunch.com/2022/02/08/shared-mobility-company-goto-global-is-going-public-through-a-shell-company-merger/)
 - [When is the midpoint of winter?](https://www.space.com/midpoint-of-winter)
 - [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
-- [Daily Crunch: After slashing 2,800 jobs, Peloton taps former Spotify CFO to replace outgoing CEO](https://techcrunch.com/2022/02/08/daily-crunch-after-slashing-2800-jobs-peloton-taps-former-spotify-cfo-to-replace-outgoing-ceo/)
-- [Comet impact may have triggered decline of Ohio&#39;s Hopewell people 1,600 years ago](https://www.space.com/comet-impact-decline-hopewell-people-ohio)
-- [Lyft’s revenue growth masks active riders slippage](https://techcrunch.com/2022/02/08/lyfts-revenue-growth-masks-active-riders-slippage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
