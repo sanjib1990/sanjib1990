@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX is stacking its giant Starship ahead of Elon Musk&#39;s big update this week](https://www.space.com/spacex-stacking-starship-elon-musk-2022-update)
+- [Jupiter&#39;s auroras arise from a magnetic &#39;tug-of-war&#39; with volcanic eruptions on its moon Io](https://www.space.com/jupiter-auroras-volcanic-moon-io-tug-of-war)
+- [Waabi’s new simulator could scale autonomous vehicle tech faster](https://techcrunch.com/2022/02/09/waabis-new-simulator-could-scale-autonomous-vehicle-tech-faster/)
+- [UAE&#39;s Hope spacecraft marks 1 year in orbit around Mars](https://www.space.com/uae-mars-mission-hope-one-year-orbiting)
+- [eAgronom closes $7.4M Series A to create a farming-based carbon credits platform](https://techcrunch.com/2022/02/09/eagronom-closes-7-4m-series-a-to-create-a-farming-based-carbon-credits-platform/)
+- [Comet Hale-Bopp: Facts about the bright and tragic comet](https://www.space.com/19931-hale-bopp.html)
+- [Vicarius raises $24M to build out its vulnerability remediation platform](https://techcrunch.com/2022/02/09/vicarius-vulnerability-remediation/)
 - [German ConstructionTech startup Cosuno raises $30M Series B by Avenir Growth](https://techcrunch.com/2022/02/09/german-constructiontech-startup-cosuno-raises-30m-series-b-by-avenir-growth/)
 - [China-born audio networking app Tiya sets up Singapore headquarters](https://techcrunch.com/2022/02/09/china-born-audio-networking-app-tiya-sets-up-singapore-headquarters/)
 - [Mecho Autotech gets $2.15M to expand vehicle maintenance and repair services in Nigeria](https://techcrunch.com/2022/02/09/mecho-autotech-gets-2-15m-to-expand-vehicle-maintenance-and-repair-services-in-nigeria/)
-- [BasiGo secures $4.3 million in seed funding to accelerate mass transit EV adoption in Kenya](https://techcrunch.com/2022/02/09/basigo-secures-4-3-million-in-seed-funding-to-accelerate-mass-transit-ev-adoption-in-kenya/)
-- [Scandit snaps up $150M at a $1B+ valuation for its computer vision-based data capture technology](https://techcrunch.com/2022/02/09/scandit-snaps-up-150m-at-a-1b-valuation-for-its-computer-vision-based-data-capture-technology/)
-- [Destinus plans to fly a hydrogen-powered, hypersonic cargo craft with $29M seed round](https://techcrunch.com/2022/02/08/momentus-founder-destinus-hypersonic-plane-29m-funding/)
-- [Egyptian investment app Thndr nabs $20M from Tiger Global, Prosus Ventures and others](https://techcrunch.com/2022/02/08/egyptian-investment-app-thndr-nabs-20m-from-tiger-global-prosus-and-others/)
-- [To cope with stricter data regulation, enterprises should look to fully open APIs](https://techcrunch.com/2022/02/08/to-cope-with-stricter-data-regulation-enterprises-should-look-to-fully-open-apis/)
-- [Indian logistics firm Xpressbees becomes unicorn with $300 million fresh funding](https://techcrunch.com/2022/02/08/indian-logistics-firm-xpressbees-becomes-unicorn-with-300-million-fresh-funding/)
-- [SpaceX says a geomagnetic storm just doomed 40 Starlink internet satellites](https://www.space.com/spacex-starlink-satellites-lost-geomagnetic-storm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
