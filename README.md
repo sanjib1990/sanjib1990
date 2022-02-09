@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [German ConstructionTech startup Cosuno raises $30M Series B by Avenir Growth](https://techcrunch.com/2022/02/09/german-constructiontech-startup-cosuno-raises-30m-series-b-by-avenir-growth/)
+- [China-born audio networking app Tiya sets up Singapore headquarters](https://techcrunch.com/2022/02/09/china-born-audio-networking-app-tiya-sets-up-singapore-headquarters/)
 - [Mecho Autotech gets $2.15M to expand vehicle maintenance and repair services in Nigeria](https://techcrunch.com/2022/02/09/mecho-autotech-gets-2-15m-to-expand-vehicle-maintenance-and-repair-services-in-nigeria/)
 - [BasiGo secures $4.3 million in seed funding to accelerate mass transit EV adoption in Kenya](https://techcrunch.com/2022/02/09/basigo-secures-4-3-million-in-seed-funding-to-accelerate-mass-transit-ev-adoption-in-kenya/)
 - [Scandit snaps up $150M at a $1B+ valuation for its computer vision-based data capture technology](https://techcrunch.com/2022/02/09/scandit-snaps-up-150m-at-a-1b-valuation-for-its-computer-vision-based-data-capture-technology/)
@@ -103,8 +105,6 @@
 - [To cope with stricter data regulation, enterprises should look to fully open APIs](https://techcrunch.com/2022/02/08/to-cope-with-stricter-data-regulation-enterprises-should-look-to-fully-open-apis/)
 - [Indian logistics firm Xpressbees becomes unicorn with $300 million fresh funding](https://techcrunch.com/2022/02/08/indian-logistics-firm-xpressbees-becomes-unicorn-with-300-million-fresh-funding/)
 - [SpaceX says a geomagnetic storm just doomed 40 Starlink internet satellites](https://www.space.com/spacex-starlink-satellites-lost-geomagnetic-storm)
-- [Envisioning Partners closes on $64M fund for climate tech startups](https://techcrunch.com/2022/02/08/envisioning-partners-closes-on-64m-fund-to-back-climate-tech-startups/)
-- [What happens at the center of a black hole?](https://www.space.com/what-happens-black-hole-center)
 <!-- BLOG-POST-LIST:END -->
 
 ---
