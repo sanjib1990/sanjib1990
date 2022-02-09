@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Join Curve Finance’s Michael Egorov at the DeFi and the Future of Programmable Money Summit](https://techcrunch.com/2022/02/09/join-curve-finances-michael-egorov-at-the-defi-and-the-future-of-programmable-money-summit/)
+- [Alan offers its insurance stack to smaller health insurance companies](https://techcrunch.com/2022/02/09/alan-offers-its-insurance-stack-to-smaller-health-insurance-companies/)
+- [OMERS Ventures, Turner Construction team up to build the construction tech startup of their dreams](https://techcrunch.com/2022/02/09/omers-ventures-turner-construction-team-up-to-build-the-construction-tech-startup-of-their-dreams/)
+- [Chaos engineering startup Gremlin gets a new CEO](https://techcrunch.com/2022/02/09/chaos-engineering-startup-gremlin-gets-a-new-ceo/)
+- [Instagram rolls out ‘Your activity’ and ‘Security checkup’ features worldwide](https://techcrunch.com/2022/02/09/instagram-rolls-out-your-activity-and-security-checkup-features-worldwide/)
 - [Census confirms it has raised a $60M Series B on $630M valuation](https://techcrunch.com/2022/02/09/census-confirms-it-has-raised-a-60m-series-b-on-630m-valuation/)
 - [Crawling toward the metaverse](https://techcrunch.com/2022/02/09/crawling-toward-the-metaverse/)
+- [NASA asteroid detector &#39;looks up&#39; to scan entire sky every 24 hours](https://www.space.com/nasa-upgrades-atlas-system)
 - [Google Duo’s video chat app gains a SharePlay-inspired feature called ‘live sharing’](https://techcrunch.com/2022/02/09/google-duos-video-chat-app-gains-a-shareplay-inspired-feature-called-live-sharing/)
 - [Samsung, Google expand Wear OS partnership with the arrival of Assistant and Play apps](https://techcrunch.com/2022/02/09/samsung-google-expand-wear-os-partnership-with-the-arrival-of-assistant-and-play-apps/)
-- [Samsung kills the Note, so the Galaxy S22 Ultra can fly](https://techcrunch.com/2022/02/09/samsung-kills-the-note-so-the-galaxy-s22-ultra-can-fly/)
-- [After seeing 200%+ ARR growth, Occupier raises $10.5M to become the OS for corporate real estate teams](https://techcrunch.com/2022/02/09/after-seeing-200-arr-growth-occupier-raises-10-5m/)
-- [How to ruin the metaverse? Build it around profit and centralization](https://techcrunch.com/2022/02/09/how-to-ruin-the-metaverse-build-it-around-profit-and-centralization/)
-- [Apple source code references ‘realityOS’ for potential VR/AR headsets](https://techcrunch.com/2022/02/09/apple-source-code-references-realityos-for-potential-vr-ar-headsets/)
-- [Employees can count on Addition Wealth for free, holistic financial planning services](https://techcrunch.com/2022/02/09/employees-can-count-on-addition-wealth-for-free-holistic-financial-planning-services/)
-- [Splendid Spoon stirs its strategy to get you to love plant-based foods](https://techcrunch.com/2022/02/09/splendid-spoon-plant-based-foods/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
