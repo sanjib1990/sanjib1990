@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Envisioning Partners closes on $64M fund for climate tech startups](https://techcrunch.com/2022/02/08/envisioning-partners-closes-on-64m-fund-to-back-climate-tech-startups/)
+- [What happens at the center of a black hole?](https://www.space.com/what-happens-black-hole-center)
 - [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html)
 - [Shared mobility company GoTo Global is going public through a shell company merger](https://techcrunch.com/2022/02/08/shared-mobility-company-goto-global-is-going-public-through-a-shell-company-merger/)
 - [When is the midpoint of winter?](https://www.space.com/midpoint-of-winter)
@@ -103,8 +105,6 @@
 - [Comet impact may have triggered decline of Ohio&#39;s Hopewell people 1,600 years ago](https://www.space.com/comet-impact-decline-hopewell-people-ohio)
 - [Lyft’s revenue growth masks active riders slippage](https://techcrunch.com/2022/02/08/lyfts-revenue-growth-masks-active-riders-slippage/)
 - [Hydrogen production without CO2 is getting a boost with new tech from Verdagy](https://techcrunch.com/2022/02/08/verdagy-series-a/)
-- [Donation site for Ottawa truckers’ ‘Freedom Convoy’ protest exposed donors’ data](https://techcrunch.com/2022/02/08/ottawa-trucker-freedom-convoy-exposed-donation/)
-- [Paint it black: behind the James Webb Space Telescope&#39;s signature color](https://www.space.com/nasa-james-webb-space-telescope-black-paint-video-birb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
