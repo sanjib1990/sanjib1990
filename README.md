@@ -95,6 +95,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mecho Autotech gets $2.15M to expand vehicle maintenance and repair services in Nigeria](https://techcrunch.com/2022/02/09/mecho-autotech-gets-2-15m-to-expand-vehicle-maintenance-and-repair-services-in-nigeria/)
+- [BasiGo secures $4.3 million in seed funding to accelerate mass transit EV adoption in Kenya](https://techcrunch.com/2022/02/09/basigo-secures-4-3-million-in-seed-funding-to-accelerate-mass-transit-ev-adoption-in-kenya/)
+- [Scandit snaps up $150M at a $1B+ valuation for its computer vision-based data capture technology](https://techcrunch.com/2022/02/09/scandit-snaps-up-150m-at-a-1b-valuation-for-its-computer-vision-based-data-capture-technology/)
 - [Destinus plans to fly a hydrogen-powered, hypersonic cargo craft with $29M seed round](https://techcrunch.com/2022/02/08/momentus-founder-destinus-hypersonic-plane-29m-funding/)
 - [Egyptian investment app Thndr nabs $20M from Tiger Global, Prosus Ventures and others](https://techcrunch.com/2022/02/08/egyptian-investment-app-thndr-nabs-20m-from-tiger-global-prosus-and-others/)
 - [To cope with stricter data regulation, enterprises should look to fully open APIs](https://techcrunch.com/2022/02/08/to-cope-with-stricter-data-regulation-enterprises-should-look-to-fully-open-apis/)
@@ -102,9 +105,6 @@
 - [SpaceX says a geomagnetic storm just doomed 40 Starlink internet satellites](https://www.space.com/spacex-starlink-satellites-lost-geomagnetic-storm)
 - [Envisioning Partners closes on $64M fund for climate tech startups](https://techcrunch.com/2022/02/08/envisioning-partners-closes-on-64m-fund-to-back-climate-tech-startups/)
 - [What happens at the center of a black hole?](https://www.space.com/what-happens-black-hole-center)
-- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html)
-- [Shared mobility company GoTo Global is going public through a shell company merger](https://techcrunch.com/2022/02/08/shared-mobility-company-goto-global-is-going-public-through-a-shell-company-merger/)
-- [When is the midpoint of winter?](https://www.space.com/midpoint-of-winter)
 <!-- BLOG-POST-LIST:END -->
 
 ---
