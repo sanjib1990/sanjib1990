@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scopio aims to turn hematology into remote work with $50M C round](https://techcrunch.com/2022/02/09/scopio-aims-to-turn-hematology-into-remote-work-with-50m-c-round/)
 - [Dear Sophie: How can early-stage startups compete for talent?](https://techcrunch.com/2022/02/09/dear-sophie-how-can-early-stage-startups-compete-for-talent/)
 - [Reddit rolls out a web version of Reddit Talk, its live audio product](https://techcrunch.com/2022/02/09/reddit-rolls-out-a-web-version-of-reddit-talk-its-live-audio-product/)
+- [Fiery death of SpaceX Starlink satellites after geomagnetic storm captured on video](https://www.space.com/spacex-starlink-satellite-deorbit-video)
+- [Mt. Everest&#39;s highest glacier lost 2,000 years worth of ice since the 1990s](https://www.space.com/mt-everest-highest-glacier-rapid-ice-retreat)
 - [Last-minute Star Wars Valentine&#39;s day gifts and deals](https://www.space.com/star-wars-valentines-day-gifts)
 - [The Spotify-Rogan saga highlights the distinction between publishers and platforms](https://techcrunch.com/2022/02/09/spotify-rogan-saga-publisher-platform/)
 - [3 warning signs that your investor will leave you on the sidelines](https://techcrunch.com/2022/02/09/3-warning-signs-that-your-investor-will-leave-you-on-the-sidelines/)
 - [James Murdoch and Uday Shankar return with $1.5 billion Qatar-backed investment firm Bodhi Tree, to focus on India and Southeast Asia](https://techcrunch.com/2022/02/09/james-murdoch-uday-shankar-bodhi-tree/)
 - [Travel app Sēkr scores $2.25 million to bring campsite inventory into the digital age](https://techcrunch.com/2022/02/09/travel-app-sekr-scores-2-25-million-to-bring-campsite-inventory-into-the-digital-age/)
-- [‘Woke capitalism’ is a new ideology for a digital economy](https://techcrunch.com/2022/02/09/woke-capitalism-is-a-new-ideology-for-a-digital-economy/)
-- [European cloud firms call for clearer ‘ex ante’ rules to end abusive software licensing](https://techcrunch.com/2022/02/09/cloud-firms-open-letter-dma/)
-- [&#39;Zombie&#39; star caught snacking on dead planet&#39;s remains](https://www.space.com/zombie-star-dead-planet-snack)
 <!-- BLOG-POST-LIST:END -->
 
 ---
