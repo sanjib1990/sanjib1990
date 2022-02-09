@@ -95,6 +95,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX loses 40 Starlink satellites to a geomagnetic storm](https://techcrunch.com/2022/02/09/spacex-loses-40-starlink-satellites-to-a-geomagnetic-storm/)
+- [On This Day in Space! Feb. 9, 1913: Great meteor procession of 1913](https://www.space.com/39251-on-this-day-in-space.html)
+- [As startups flood the longevity space, bioniq launches hyper-personalised supplements](https://techcrunch.com/2022/02/09/as-startups-flood-the-longevity-space-bioniq-launches-hyper-personalised-supplements/)
 - [SpaceX is stacking its giant Starship ahead of Elon Musk&#39;s big update this week](https://www.space.com/spacex-stacking-starship-elon-musk-2022-update)
 - [Jupiter&#39;s auroras arise from a magnetic &#39;tug-of-war&#39; with volcanic eruptions on its moon Io](https://www.space.com/jupiter-auroras-volcanic-moon-io-tug-of-war)
 - [Waabi’s new simulator could scale autonomous vehicle tech faster](https://techcrunch.com/2022/02/09/waabis-new-simulator-could-scale-autonomous-vehicle-tech-faster/)
@@ -102,9 +105,6 @@
 - [eAgronom closes $7.4M Series A to create a farming-based carbon credits platform](https://techcrunch.com/2022/02/09/eagronom-closes-7-4m-series-a-to-create-a-farming-based-carbon-credits-platform/)
 - [Comet Hale-Bopp: Facts about the bright and tragic comet](https://www.space.com/19931-hale-bopp.html)
 - [Vicarius raises $24M to build out its vulnerability remediation platform](https://techcrunch.com/2022/02/09/vicarius-vulnerability-remediation/)
-- [German ConstructionTech startup Cosuno raises $30M Series B by Avenir Growth](https://techcrunch.com/2022/02/09/german-constructiontech-startup-cosuno-raises-30m-series-b-by-avenir-growth/)
-- [China-born audio networking app Tiya sets up Singapore headquarters](https://techcrunch.com/2022/02/09/china-born-audio-networking-app-tiya-sets-up-singapore-headquarters/)
-- [Mecho Autotech gets $2.15M to expand vehicle maintenance and repair services in Nigeria](https://techcrunch.com/2022/02/09/mecho-autotech-gets-2-15m-to-expand-vehicle-maintenance-and-repair-services-in-nigeria/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
