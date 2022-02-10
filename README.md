@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [YC-backed Duplo raises $1.3M pre-seed to build financial OS for B2B companies in Nigeria](https://techcrunch.com/2022/02/10/yc-backed-duplo-raises-1-3m-pre-seed-to-build-financial-os-for-b2b-companies-in-nigeria/)
 - [California agency sues Tesla for alleged racial discrimination and harassment](https://techcrunch.com/2022/02/09/california-agency-sues-tesla-for-alleged-racial-discrimination-and-harassment/)
 - [Tiger Global in talks to invest in GoMechanic at over $1 billion valuation](https://techcrunch.com/2022/02/09/gomechanic-tiger-global-india-auto/)
 - [The rise of the Black Angel Group inside of Alphabet](https://techcrunch.com/2022/02/09/the-rise-of-the-black-angel-group-inside-of-alphabet/)
@@ -104,7 +105,6 @@
 - [Daily Crunch: Samsung erases the Note, starts new page with Galaxy S22 Ultra phablet](https://techcrunch.com/2022/02/09/daily-crunch-samsung-erases-the-note-starts-new-page-with-galaxy-s22-ultra-phablet/)
 - [Solar geomagnetic storms could threaten more satellites after Elon Musk&#39;s Starlink](https://www.space.com/solar-geomagnetic-storms-spacex-starlink-threat)
 - [Emperor Zurg makes his evil appearance in new trailer for &#39;Lightyear,&#39; the Buzz Lightyear origin story](https://www.space.com/disney-pixar-lightyear-new-trailer-poster)
-- [3 views: Is the metaverse for work or play?](https://techcrunch.com/2022/02/09/3-views-is-the-metaverse-for-work-or-play/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
