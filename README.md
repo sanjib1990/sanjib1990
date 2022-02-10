@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The first developer preview of Android 13 has arrived](https://techcrunch.com/2022/02/10/the-first-developer-preview-of-android-13-has-arrived/)
+- [Apple to address AirTag stalking problem with upcoming features](https://techcrunch.com/2022/02/10/apple-to-address-airtag-stalking-problem-with-upcoming-features/)
+- [Elon Musk shows off massive Starship, the world&#39;s tallest rocket, ahead of SpaceX update](https://www.space.com/elon-musk-shows-off-starship-sn20-super-heavy-stack-february-2022)
+- [Lung-health startup Respira Labs inhales $2.8M to help respiration patients breathe easier](https://techcrunch.com/2022/02/10/respira-labs-pre-seed/)
+- [Inside Dark Bay, the spinning LED volume at the heart of Netflix’s upcoming ‘1899’](https://techcrunch.com/2022/02/10/dark-bay-1899-virtual-production/)
 - [Pearpop introduces dynamic NFTs that gain value as a social media post goes viral](https://techcrunch.com/2022/02/10/pearpop-pearproof-nfts-crypto-social-media-creators/)
+- [Massive methane leaks mapped from space](https://www.space.com/massive-methane-plumes-mapped-from-space)
 - [Zoox robotaxis are already mingling with the public on semi-private test courses](https://techcrunch.com/2022/02/10/zoox-robotaxis-are-already-mingling-with-the-public-on-semi-private-test-courses/)
 - [Remote work and events startup twine acquires YC-backed Glimpse to launch on Zoom](https://techcrunch.com/2022/02/10/remote-work-and-events-startup-twine-acquires-yc-backed-glimpse-to-launch-on-zoom/)
 - [Best space board games deals 2022](https://www.space.com/space-board-game-deals)
-- [If crypto companies are going to spend this much money, can we at least get an 11th F1 team?](https://techcrunch.com/2022/02/10/if-crypto-companies-are-going-to-spend-this-much-money-can-we-at-least-get-an-11th-f1-team/)
-- [Insify is modernizing insurance, but this time for SMEs](https://techcrunch.com/2022/02/10/insify-is-modernizing-insurance-but-this-time-for-smes/)
-- [Neo.Tax raises $10M to help startups access R&amp;D tax credits](https://techcrunch.com/2022/02/10/neo-tax-raises-10m-to-help-startups-get-rd-tax-credits/)
-- [Fusion experiment smashes record for generating energy, takes us a step closer to a new source of power](https://www.space.com/jet-fusion-experiment-smashes-energy-record)
-- [Looks like we’ll get to test the impact of rising interest rates on tech stocks](https://techcrunch.com/2022/02/10/looks-like-well-get-to-test-the-impact-of-rising-interest-rates-on-tech-stocks/)
-- [Maze, Egregor and Sekhmet ransomware decryption keys published](https://techcrunch.com/2022/02/10/maze-egregor-sekhmet-ransomware-decryption/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
