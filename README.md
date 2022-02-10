@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Maze, Egregor, and Sekhmet ransomware decryption keys published](https://techcrunch.com/2022/02/10/maze-egregor-sekhmet-ransomware-decryption/)
+- [Tinder introduces a way for members to go on virtual ‘blind dates’](https://techcrunch.com/2022/02/10/tinder-introduces-a-way-for-members-to-go-on-virtual-blind-dates/)
 - [To rival TikTok and Instagram, YouTube plans to double down on more creator tools, including NFTs, live shopping, and more video effects](https://techcrunch.com/2022/02/10/to-rival-tiktok-and-instagram-youtube-plans-to-double-down-on-more-creator-tools-including-nfts-live-shopping-and-more-video-effects/)
 - [Odys Aviation, formerly Craft Aerospace, raises $12M for its unique VTOL passenger aircraft](https://techcrunch.com/2022/02/10/odys-aviation-formerly-craft-aerospace-raises-12m-for-its-unique-vtol-passenger-aircraft/)
 - [Acton’s latest acquisition hints at the future of docked micromobility](https://techcrunch.com/2022/02/10/actons-latest-acquisition-hints-at-the-future-of-docked-micromobility/)
@@ -103,8 +105,6 @@
 - [Fewer autonomous vehicle companies in California drive millions more miles in testing](https://techcrunch.com/2022/02/10/fewer-autonomous-vehicle-companies-in-california-drive-millions-more-miles-in-testing/)
 - [5 ways to attract top cybersecurity talent in a tight labor market](https://techcrunch.com/2022/02/10/5-ways-to-attract-top-cybersecurity-talent-in-a-tight-labor-market/)
 - [BNPL payment startup Alma raises another $130 million round](https://techcrunch.com/2022/02/10/bnpl-payment-startup-alma-raises-another-130-million-round/)
-- [Possible 3rd planet spotted around Proxima Centauri, the sun&#39;s nearest neighbor star](https://www.space.com/proxima-centauri-third-exoplanet-candidate)
-- [H Twenty Capital aims to be ‘go-to fund for pre-seed investments’ in Latin America](https://techcrunch.com/2022/02/10/h-twenty-capital-aims-to-be-go-to-fund-for-pre-seed-investments-in-latin-america/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
