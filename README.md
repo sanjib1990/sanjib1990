@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;The Book of Boba Fett&#39; Chapter 6 is full or surprises, for better or for worse](https://www.space.com/star-wars-book-of-boba-fett-episode-6-review)
 - [Daily Crunch: Samsung erases the Note, starts new page with Galaxy S22 Ultra phablet](https://techcrunch.com/2022/02/09/daily-crunch-samsung-erases-the-note-starts-new-page-with-galaxy-s22-ultra-phablet/)
 - [Solar geomagnetic storms could threaten more satellites after Elon Musk&#39;s Starlink](https://www.space.com/solar-geomagnetic-storms-spacex-starlink-threat)
 - [Emperor Zurg makes his evil appearance in new trailer for &#39;Lightyear,&#39; the Buzz Lightyear origin story](https://www.space.com/disney-pixar-lightyear-new-trailer-poster)
@@ -104,7 +105,6 @@
 - [Microsoft says it will open up the Xbox store in light of the Activision Blizzard deal](https://techcrunch.com/2022/02/09/microsoft-activision-blizzard-call-of-duty-deal/)
 - [Apple launches its own book club, ‘Strombo’s Lit,’ in the Apple Books app](https://techcrunch.com/2022/02/09/apple-launches-its-own-book-club-strombos-lit-in-the-apple-books-app/)
 - [Scopio aims to turn hematology into remote work with $50M C round](https://techcrunch.com/2022/02/09/scopio-aims-to-turn-hematology-into-remote-work-with-50m-c-round/)
-- [Dear Sophie: How can early-stage startups compete for talent?](https://techcrunch.com/2022/02/09/dear-sophie-how-can-early-stage-startups-compete-for-talent/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
