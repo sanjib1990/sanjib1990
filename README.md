@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Remote work and events startup twine acquires YC-backed Glimpse to launch on Zoom](https://techcrunch.com/2022/02/10/remote-work-and-events-startup-twine-acquires-yc-backed-glimpse-to-launch-on-zoom/)
+- [Best space board games deals 2022](https://www.space.com/space-board-game-deals)
+- [If crypto companies are going to spend this much money, can we at least get an 11th F1 team?](https://techcrunch.com/2022/02/10/if-crypto-companies-are-going-to-spend-this-much-money-can-we-at-least-get-an-11th-f1-team/)
+- [Insify is modernizing insurance, but this time for SMEs](https://techcrunch.com/2022/02/10/insify-is-modernizing-insurance-but-this-time-for-smes/)
+- [Neo.tax raises $10M to help startups access R&amp;D tax credits](https://techcrunch.com/2022/02/10/neo-tax-raises-10m-to-help-startups-get-rd-tax-credits/)
+- [Fusion experiment smashes record for generating energy, takes us a step closer to a new source of power](https://www.space.com/jet-fusion-experiment-smashes-energy-record)
+- [Looks like we’ll get to test the impact of rising interest rates on tech stocks](https://techcrunch.com/2022/02/10/looks-like-well-get-to-test-the-impact-of-rising-interest-rates-on-tech-stocks/)
 - [Maze, Egregor, and Sekhmet ransomware decryption keys published](https://techcrunch.com/2022/02/10/maze-egregor-sekhmet-ransomware-decryption/)
 - [Tinder introduces a way for members to go on virtual ‘blind dates’](https://techcrunch.com/2022/02/10/tinder-introduces-a-way-for-members-to-go-on-virtual-blind-dates/)
 - [To rival TikTok and Instagram, YouTube plans to double down on more creator tools, including NFTs, live shopping, and more video effects](https://techcrunch.com/2022/02/10/to-rival-tiktok-and-instagram-youtube-plans-to-double-down-on-more-creator-tools-including-nfts-live-shopping-and-more-video-effects/)
-- [Odys Aviation, formerly Craft Aerospace, raises $12M for its unique VTOL passenger aircraft](https://techcrunch.com/2022/02/10/odys-aviation-formerly-craft-aerospace-raises-12m-for-its-unique-vtol-passenger-aircraft/)
-- [Acton’s latest acquisition hints at the future of docked micromobility](https://techcrunch.com/2022/02/10/actons-latest-acquisition-hints-at-the-future-of-docked-micromobility/)
-- [Sardine’s algorithm helps crypto and fintech companies detect fraud](https://techcrunch.com/2022/02/10/sardines-algorithm-helps-crypto-and-fintech-companies-detect-fraud/)
-- [ODAIA raises $13.8M for its AI-powered commercial insights platform for pharma companies](https://techcrunch.com/2022/02/10/odaia-raises-13-8m-for-its-ai-powered-commercial-insights-platform-for-pharma-companies/)
-- [Fewer autonomous vehicle companies in California drive millions more miles in testing](https://techcrunch.com/2022/02/10/fewer-autonomous-vehicle-companies-in-california-drive-millions-more-miles-in-testing/)
-- [5 ways to attract top cybersecurity talent in a tight labor market](https://techcrunch.com/2022/02/10/5-ways-to-attract-top-cybersecurity-talent-in-a-tight-labor-market/)
-- [BNPL payment startup Alma raises another $130 million round](https://techcrunch.com/2022/02/10/bnpl-payment-startup-alma-raises-another-130-million-round/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
