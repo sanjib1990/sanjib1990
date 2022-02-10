@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [To rival TikTok and Instagram, YouTube plans to double down on more creator tools, including NFTs, live shopping, and more video effects](https://techcrunch.com/2022/02/10/to-rival-tiktok-and-instagram-youtube-plans-to-double-down-on-more-creator-tools-including-nfts-live-shopping-and-more-video-effects/)
+- [Odys Aviation, formerly Craft Aerospace, raises $12M for its unique VTOL passenger aircraft](https://techcrunch.com/2022/02/10/odys-aviation-formerly-craft-aerospace-raises-12m-for-its-unique-vtol-passenger-aircraft/)
+- [Acton’s latest acquisition hints at the future of docked micromobility](https://techcrunch.com/2022/02/10/actons-latest-acquisition-hints-at-the-future-of-docked-micromobility/)
+- [Sardine’s algorithm helps crypto and fintech companies detect fraud](https://techcrunch.com/2022/02/10/sardines-algorithm-helps-crypto-and-fintech-companies-detect-fraud/)
+- [ODAIA raises $13.8M for its AI-powered commercial insights platform for pharma companies](https://techcrunch.com/2022/02/10/odaia-raises-13-8m-for-its-ai-powered-commercial-insights-platform-for-pharma-companies/)
+- [Fewer autonomous vehicle companies in California drive millions more miles in testing](https://techcrunch.com/2022/02/10/fewer-autonomous-vehicle-companies-in-california-drive-millions-more-miles-in-testing/)
+- [5 ways to attract top cybersecurity talent in a tight labor market](https://techcrunch.com/2022/02/10/5-ways-to-attract-top-cybersecurity-talent-in-a-tight-labor-market/)
 - [BNPL payment startup Alma raises another $130 million round](https://techcrunch.com/2022/02/10/bnpl-payment-startup-alma-raises-another-130-million-round/)
+- [Possible 3rd planet spotted around Proxima Centauri, the sun&#39;s nearest neighbor star](https://www.space.com/proxima-centauri-third-exoplanet-candidate)
 - [H Twenty Capital aims to be ‘go-to fund for pre-seed investments’ in Latin America](https://techcrunch.com/2022/02/10/h-twenty-capital-aims-to-be-go-to-fund-for-pre-seed-investments-in-latin-america/)
-- [Republic’s metaverse real estate arm spins off, rebrands as Everyrealm](https://techcrunch.com/2022/02/10/republics-metaverse-real-estate-arm-spins-off-rebrands-as-everyrealm/)
-- [Superconductive, creators of Great Expectations, raises $40M to launch a commercial version of its open source data quality tool](https://techcrunch.com/2022/02/10/superconductive-creators-of-great-expectations-raises-40m-to-launch-a-commercial-version-of-its-open-source-data-quality-tool/)
-- [California is suing Tesla over ‘racial discrimination and harassment’](https://techcrunch.com/2022/02/10/california-is-suing-tesla-over-racial-discrimination-and-harassment/)
-- [India’s ShareChat and MX Player merge their short video apps](https://techcrunch.com/2022/02/10/sharechat-mx-player-moj-mx-takatak/)
-- [On This Day in Space! Feb. 10, 1958: Radar bounced off Venus by MIT](https://www.space.com/39251-on-this-day-in-space.html)
-- [Death of Bilibili content auditor revives debate on China’s overwork culture](https://techcrunch.com/2022/02/10/bilibili-employee-death-996/)
-- [Astra to launch its 1st rocket flight from Florida today. Here&#39;s how to watch it live](https://www.space.com/astra-first-florida-launch-elana-41-february-2022)
-- [France’s privacy watchdog latest to find Google Analytics breaches GDPR](https://techcrunch.com/2022/02/10/cnil-google-analytics-gdpr-breach/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
