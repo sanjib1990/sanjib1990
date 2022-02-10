@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [BNPL payment startup Alma raises another $130 million round](https://techcrunch.com/2022/02/10/bnpl-payment-startup-alma-raises-another-130-million-round/)
+- [H Twenty Capital aims to be ‘go-to fund for pre-seed investments’ in Latin America](https://techcrunch.com/2022/02/10/h-twenty-capital-aims-to-be-go-to-fund-for-pre-seed-investments-in-latin-america/)
+- [Republic’s metaverse real estate arm spins off, rebrands as Everyrealm](https://techcrunch.com/2022/02/10/republics-metaverse-real-estate-arm-spins-off-rebrands-as-everyrealm/)
+- [Superconductive, creators of Great Expectations, raises $40M to launch a commercial version of its open source data quality tool](https://techcrunch.com/2022/02/10/superconductive-creators-of-great-expectations-raises-40m-to-launch-a-commercial-version-of-its-open-source-data-quality-tool/)
+- [California is suing Tesla over ‘racial discrimination and harassment’](https://techcrunch.com/2022/02/10/california-is-suing-tesla-over-racial-discrimination-and-harassment/)
+- [India’s ShareChat and MX Player merge their short video apps](https://techcrunch.com/2022/02/10/sharechat-mx-player-moj-mx-takatak/)
 - [On This Day in Space! Feb. 10, 1958: Radar bounced off Venus by MIT](https://www.space.com/39251-on-this-day-in-space.html)
+- [Death of Bilibili content auditor revives debate on China’s overwork culture](https://techcrunch.com/2022/02/10/bilibili-employee-death-996/)
 - [Astra to launch its 1st rocket flight from Florida today. Here&#39;s how to watch it live](https://www.space.com/astra-first-florida-launch-elana-41-february-2022)
-- [Elon Musk to give update on SpaceX&#39;s giant Starship rocket tonight and you may be able to watch live](https://www.space.com/elon-musk-spacex-starship-update-webcast-2022)
-- [China&#39;s Tianwen 1 Mars mission marks 1st full year in orbit](https://www.space.com/china-mars-mission-tianwen-1-one-year-orbiting)
-- [NASA&#39;s Parker Solar Probe has captured the first visible-light images of Venus](https://www.space.com/parker-solar-probe-venus-visible-light)
-- [Arianespace will launch dozens of OneWeb satellites on a Soyuz rocket tonight. Here&#39;s how to watch.](https://www.space.com/arianespace-soyuz-VS27-preview)
-- [California agency sues Tesla for alleged racial discrimination and harassment](https://techcrunch.com/2022/02/09/california-agency-sues-tesla-for-alleged-racial-discrimination-and-harassment/)
-- [Tiger Global in talks to invest in GoMechanic at over $1 billion valuation](https://techcrunch.com/2022/02/09/gomechanic-tiger-global-india-auto/)
-- [The rise of the Black Angel Group inside of Alphabet](https://techcrunch.com/2022/02/09/the-rise-of-the-black-angel-group-inside-of-alphabet/)
-- [Brick closes $8.5M seed to enable open finance across Southeast Asia](https://techcrunch.com/2022/02/09/brick-closes-8-5m-seed-to-enable-open-finance-across-southeast-asia/)
+- [France’s privacy watchdog latest to find Google Analytics breaches GDPR](https://techcrunch.com/2022/02/10/cnil-google-analytics-gdpr-breach/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
