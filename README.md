@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [YC-backed Duplo raises $1.3M pre-seed to build financial OS for B2B companies in Nigeria](https://techcrunch.com/2022/02/10/yc-backed-duplo-raises-1-3m-pre-seed-to-build-financial-os-for-b2b-companies-in-nigeria/)
+- [On This Day in Space! Feb. 10, 1958: Radar bounced off Venus by MIT](https://www.space.com/39251-on-this-day-in-space.html)
+- [Astra to launch its 1st rocket flight from Florida today. Here&#39;s how to watch it live](https://www.space.com/astra-first-florida-launch-elana-41-february-2022)
+- [Elon Musk to give update on SpaceX&#39;s giant Starship rocket tonight and you may be able to watch live](https://www.space.com/elon-musk-spacex-starship-update-webcast-2022)
+- [China&#39;s Tianwen 1 Mars mission marks 1st full year in orbit](https://www.space.com/china-mars-mission-tianwen-1-one-year-orbiting)
+- [NASA&#39;s Parker Solar Probe has captured the first visible-light images of Venus](https://www.space.com/parker-solar-probe-venus-visible-light)
+- [Arianespace will launch dozens of OneWeb satellites on a Soyuz rocket tonight. Here&#39;s how to watch.](https://www.space.com/arianespace-soyuz-VS27-preview)
 - [California agency sues Tesla for alleged racial discrimination and harassment](https://techcrunch.com/2022/02/09/california-agency-sues-tesla-for-alleged-racial-discrimination-and-harassment/)
 - [Tiger Global in talks to invest in GoMechanic at over $1 billion valuation](https://techcrunch.com/2022/02/09/gomechanic-tiger-global-india-auto/)
 - [The rise of the Black Angel Group inside of Alphabet](https://techcrunch.com/2022/02/09/the-rise-of-the-black-angel-group-inside-of-alphabet/)
 - [Brick closes $8.5M seed to enable open finance across Southeast Asia](https://techcrunch.com/2022/02/09/brick-closes-8-5m-seed-to-enable-open-finance-across-southeast-asia/)
-- [Rino gets $3M pre-seed for 10-minute grocery deliveries in Vietnamese cities](https://techcrunch.com/2022/02/09/rino-gets-3m-pre-seed-for-10-minute-grocery-deliveries-in-vietnamese-cities/)
-- [&#39;The Book of Boba Fett&#39; Chapter 6 is full or surprises, for better or for worse](https://www.space.com/star-wars-book-of-boba-fett-episode-6-review)
-- [Daily Crunch: Samsung erases the Note, starts new page with Galaxy S22 Ultra phablet](https://techcrunch.com/2022/02/09/daily-crunch-samsung-erases-the-note-starts-new-page-with-galaxy-s22-ultra-phablet/)
-- [Solar geomagnetic storms could threaten more satellites after Elon Musk&#39;s Starlink](https://www.space.com/solar-geomagnetic-storms-spacex-starlink-threat)
-- [Emperor Zurg makes his evil appearance in new trailer for &#39;Lightyear,&#39; the Buzz Lightyear origin story](https://www.space.com/disney-pixar-lightyear-new-trailer-poster)
 <!-- BLOG-POST-LIST:END -->
 
 ---
