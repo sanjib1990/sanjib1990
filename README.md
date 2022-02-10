@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Indiegogo will designate legit crowdfunders with a ‘Trust-Proven’ badge](https://techcrunch.com/2022/02/10/indiegogo-will-designate-legit-crowdfunders-with-a-trust-proven-badge/)
+- [&#39;Obi-Wan Kenobi&#39; Star Wars spinoff series premieres May 25 on Disney Plus](https://www.space.com/disney-plus-star-wars-obi-wan-kenobi-premiere-date)
+- [Deepdub raises $20M for AI-powered dubbing that uses actors’ original voices](https://techcrunch.com/2022/02/10/deepdub-raises-20m-for-a-i-powered-dubbing-that-uses-actors-original-voices/)
+- [Webb Is Chilling Out](https://blogs.nasa.gov/webb/2022/02/10/webb-is-chilling-out/)
 - [With steady growth, Egnyte reaches $150M ARR and looks to future IPO](https://techcrunch.com/2022/02/10/with-steady-growth-egnyte-reaches-150m-arr-and-looks-to-future-ipo/)
 - [In Hollywood, everything gets a reboot — even MoviePass](https://techcrunch.com/2022/02/10/in-hollywood-everything-gets-a-reboot-even-moviepass/)
 - [So long, powerlanguage.co.uk/wordle](https://techcrunch.com/2022/02/10/wordle-streak-new-york-times-powerlanguage/)
 - [Virtual events platform Hopin cuts 12% of staff, citing goal of ‘sustainable growth’](https://techcrunch.com/2022/02/10/virtual-events-platform-hopin-cuts-12-of-staff-citing-goal-of-sustainable-growth/)
 - [Astra rocket suffers catastrophic failure in 1st Florida launch, 4 satellites lost](https://www.space.com/astra-first-florida-launch-failure-february-2022)
 - [Kalpana Chawla: Biography &amp; Columbia disaster](https://www.space.com/17056-kalpana-chawla-biography.html)
-- [Astra’s first rocket launch from Florida goes awry](https://techcrunch.com/2022/02/10/astras-first-rocket-launch-from-florida-goes-awry/)
-- [Disney+ outshines Netflix with 11.8M new subscribers in Q1 and strong forecast](https://techcrunch.com/2022/02/10/disney-outshines-netflix-with-11-8m-new-subscribers-in-q1-strong-forecast/)
-- [NASA shares concerns about SpaceX&#39;s new generation of Starlink satellites](https://www.space.com/nasa-collision-risk-starlink)
-- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
