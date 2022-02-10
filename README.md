@@ -78,6 +78,7 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [What happens if you hack 4.5 billion BTC? // The Code Report](https://www.youtube.com/watch?v=KPyeJ5J2a7A)
 - [2 cool &lpar;web&rpar; things to do in Linux // Linux for Hackers // EP 8](https://www.youtube.com/watch?v=HSRghjwTTOQ)
 - [How to Learn to Code - 8 Hard Truths](https://www.youtube.com/watch?v=NtfbWkxJTHw)
 - [What is SRE | Tasks and Responsibilities of an SRE | SRE vs DevOps](https://www.youtube.com/watch?v=OnK4IKgLl24)
@@ -87,7 +88,6 @@
 - [Integrated Water Resources Management / The Water-Energy-Food Nexus](https://www.youtube.com/watch?v=kAeDRfk6A9w)
 - [The Confederated Salish-Kootenai Tribes - State of Montana Water Compact](https://www.youtube.com/watch?v=brsHU2jA73E)
 - [Singapore-Malaysia Water Conflict](https://www.youtube.com/watch?v=neBeTYziSLo)
-- [Ganges Water Conflicts between India and Bangladesh](https://www.youtube.com/watch?v=w2HASHQ8nYw)
 <!-- YOUTUBE:END -->
 
 ---
