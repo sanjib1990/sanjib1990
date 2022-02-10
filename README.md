@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Arianespace launches 34 OneWeb satellites on Soyuz rocket in 1st launch of 2022](https://www.space.com/arianespace-soyuz-oneweb-13-launch)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [And just like that, Peloton is experiencing a correction](https://techcrunch.com/2022/02/10/peloton-hits-the-skids/)
+- [After Zambia, Kenya explores possibility of a digital currency](https://techcrunch.com/2022/02/10/after-zambia-kenya-explores-possibility-of-a-digital-currency/)
 - [The first developer preview of Android 13 has arrived](https://techcrunch.com/2022/02/10/the-first-developer-preview-of-android-13-has-arrived/)
 - [Apple to address AirTag stalking problem with upcoming features](https://techcrunch.com/2022/02/10/apple-to-address-airtag-stalking-problem-with-upcoming-features/)
 - [Elon Musk shows off massive Starship, the world&#39;s tallest rocket, ahead of SpaceX update](https://www.space.com/elon-musk-shows-off-starship-sn20-super-heavy-stack-february-2022)
 - [Lung-health startup Respira Labs inhales $2.8M to help respiration patients breathe easier](https://techcrunch.com/2022/02/10/respira-labs-pre-seed/)
 - [Inside Dark Bay, the spinning LED volume at the heart of Netflix’s upcoming ‘1899’](https://techcrunch.com/2022/02/10/dark-bay-1899-virtual-production/)
 - [Pearpop introduces dynamic NFTs that gain value as a social media post goes viral](https://techcrunch.com/2022/02/10/pearpop-pearproof-nfts-crypto-social-media-creators/)
-- [Massive methane leaks mapped from space](https://www.space.com/massive-methane-plumes-mapped-from-space)
-- [Zoox robotaxis are already mingling with the public on semi-private test courses](https://techcrunch.com/2022/02/10/zoox-robotaxis-are-already-mingling-with-the-public-on-semi-private-test-courses/)
-- [Remote work and events startup twine acquires YC-backed Glimpse to launch on Zoom](https://techcrunch.com/2022/02/10/remote-work-and-events-startup-twine-acquires-yc-backed-glimpse-to-launch-on-zoom/)
-- [Best space board games deals 2022](https://www.space.com/space-board-game-deals)
 <!-- BLOG-POST-LIST:END -->
 
 ---
