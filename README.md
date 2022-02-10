@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astra fails to deliver satellites to orbit in 1st launch from Lower 48](https://www.space.com/astra-first-florida-launch-failure-february-2022)
+- [Kalpana Chawla: Biography &amp; Columbia disaster](https://www.space.com/17056-kalpana-chawla-biography.html)
+- [Update: Astra rocket launch from Florida fails](https://www.space.com/astra-first-florida-launch-elana-41-february-2022)
+- [Astra’s first rocket launch from Florida goes awry](https://techcrunch.com/2022/02/10/astras-first-rocket-launch-from-florida-goes-awry/)
 - [Disney+ outshines Netflix with 11.8M new subscribers in Q1 and strong forecast](https://techcrunch.com/2022/02/10/disney-outshines-netflix-with-11-8m-new-subscribers-in-q1-strong-forecast/)
+- [NASA shares concerns about SpaceX&#39;s new generation of Starlink satellites](https://www.space.com/nasa-collision-risk-starlink)
 - [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
 - [OnlyFans of NFTs will like this profile picture update](https://techcrunch.com/2022/02/10/onlyfans-nfts-crypto-profile-picture/)
 - [Super Bowl, Spot](https://techcrunch.com/2022/02/10/super-bowl-spot/)
 - [Asteroid Ryugu samples, now on Earth, reveal inner workings of the space rock](https://www.space.com/jaxa-asteroid-ryugu-hayabusa2-sample-study)
-- [Arianespace launches 34 OneWeb satellites on Soyuz rocket in 1st launch of 2022](https://www.space.com/arianespace-soyuz-oneweb-13-launch)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [And just like that, Peloton is experiencing a correction](https://techcrunch.com/2022/02/10/peloton-hits-the-skids/)
-- [After Zambia, Kenya explores possibility of a digital currency](https://techcrunch.com/2022/02/10/after-zambia-kenya-explores-possibility-of-a-digital-currency/)
-- [The first developer preview of Android 13 has arrived](https://techcrunch.com/2022/02/10/the-first-developer-preview-of-android-13-has-arrived/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
