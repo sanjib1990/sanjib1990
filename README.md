@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rino gets $3M pre-seed for 10-minute grocery deliveries in Vietnamese cities](https://techcrunch.com/2022/02/09/rino-gets-3m-pre-seed-for-10-minute-grocery-deliveries-in-vietnamese-cities/)
 - [&#39;The Book of Boba Fett&#39; Chapter 6 is full or surprises, for better or for worse](https://www.space.com/star-wars-book-of-boba-fett-episode-6-review)
 - [Daily Crunch: Samsung erases the Note, starts new page with Galaxy S22 Ultra phablet](https://techcrunch.com/2022/02/09/daily-crunch-samsung-erases-the-note-starts-new-page-with-galaxy-s22-ultra-phablet/)
 - [Solar geomagnetic storms could threaten more satellites after Elon Musk&#39;s Starlink](https://www.space.com/solar-geomagnetic-storms-spacex-starlink-threat)
@@ -104,7 +105,6 @@
 - [Uber wrapped 2021 with strong revenue growth and greater adjusted profitability](https://techcrunch.com/2022/02/09/uber-4q-earnings-strong-revenue-growth-greater-adjusted-profitability/)
 - [Microsoft says it will open up the Xbox store in light of the Activision Blizzard deal](https://techcrunch.com/2022/02/09/microsoft-activision-blizzard-call-of-duty-deal/)
 - [Apple launches its own book club, ‘Strombo’s Lit,’ in the Apple Books app](https://techcrunch.com/2022/02/09/apple-launches-its-own-book-club-strombos-lit-in-the-apple-books-app/)
-- [Scopio aims to turn hematology into remote work with $50M C round](https://techcrunch.com/2022/02/09/scopio-aims-to-turn-hematology-into-remote-work-with-50m-c-round/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
