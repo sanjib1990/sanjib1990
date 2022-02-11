@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Behold the 1st images from NASA&#39;s James Webb Space Telescope!](https://www.space.com/james-webb-space-telescope-first-photos-unveiled)
+- [Photons Received: Webb Sees Its First Star – 18 Times](https://blogs.nasa.gov/webb/2022/02/11/photons-received-webb-sees-its-first-star-18-times/)
+- [Elon Musk’s SpaceX Starship event leaves a lot of questions around the company’s big rocket](https://techcrunch.com/2022/02/11/elon-musks-spacex-starship-event-leaves-a-lot-of-questions-around-the-companys-big-rocket/)
+- [How Texas is becoming a bitcoin mining hub](https://techcrunch.com/2022/02/11/how-texas-is-becoming-a-bitcoin-mining-hub/)
+- [On This Day in Space! Feb. 11, 2010: NASA launches Solar Dynamics Observatory](https://www.space.com/39251-on-this-day-in-space.html)
 - [How much is a pitch deck really worth?](https://techcrunch.com/2022/02/11/how-much-is-a-pitch-deck-really-worth/)
 - [Can an AI be properly considered an inventor?](https://techcrunch.com/2022/02/11/can-an-ai-be-properly-considered-an-inventor/)
 - [Elon Musk shows off fully-stacked SpaceX Starship as 1st orbital launch nears](https://www.space.com/elon-musk-starship-update-starbase-2022)
 - [RedRoute wants answering customer service calls to be as easy as using ‘Alexa’](https://techcrunch.com/2022/02/11/redroute-wants-answering-customer-service-calls-to-be-as-easy-as-using-alexa/)
 - [Agot AI gives restaurants computer vision to see where food orders go wrong](https://techcrunch.com/2022/02/11/agot-ai-gives-restaurants-computer-vision-to-see-where-food-orders-go-wrong/)
-- [Space geoengineering: Can we control the weather?](https://www.space.com/geoengineering-how-to-control-the-weather)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [Chasing Cruise and Waymo, Chinese AV company AutoX plans to begin testing in San Francisco](https://techcrunch.com/2022/02/11/chasing-cruise-and-waymo-chinese-av-company-autox-plans-to-begin-testing-in-san-francisco/)
-- [Deep interior of Mars might have led to the loss of the planet&#39;s atmosphere](https://www.space.com/mars-atmosphere-loss-core-activity)
-- [NASA space telescope spots most powerful light ever seen on Jupiter, helps solve 30-year-old mystery](https://www.space.com/nasa-nustar-space-telescope-jupiter-xray-detection)
 <!-- BLOG-POST-LIST:END -->
 
 ---
