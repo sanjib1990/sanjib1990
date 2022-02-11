@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How many stars are in the universe?](https://www.space.com/26078-how-many-stars-are-there.html)
+- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
 - [Behold the 1st images from NASA&#39;s James Webb Space Telescope!](https://www.space.com/james-webb-space-telescope-first-photos-unveiled)
 - [Photons Received: Webb Sees Its First Star – 18 Times](https://blogs.nasa.gov/webb/2022/02/11/photons-received-webb-sees-its-first-star-18-times/)
 - [Elon Musk’s SpaceX Starship event leaves a lot of questions around the company’s big rocket](https://techcrunch.com/2022/02/11/elon-musks-spacex-starship-event-leaves-a-lot-of-questions-around-the-companys-big-rocket/)
@@ -103,8 +105,6 @@
 - [How much is a pitch deck really worth?](https://techcrunch.com/2022/02/11/how-much-is-a-pitch-deck-really-worth/)
 - [Can an AI be properly considered an inventor?](https://techcrunch.com/2022/02/11/can-an-ai-be-properly-considered-an-inventor/)
 - [Elon Musk shows off fully-stacked SpaceX Starship as 1st orbital launch nears](https://www.space.com/elon-musk-starship-update-starbase-2022)
-- [RedRoute wants answering customer service calls to be as easy as using ‘Alexa’](https://techcrunch.com/2022/02/11/redroute-wants-answering-customer-service-calls-to-be-as-easy-as-using-alexa/)
-- [Agot AI gives restaurants computer vision to see where food orders go wrong](https://techcrunch.com/2022/02/11/agot-ai-gives-restaurants-computer-vision-to-see-where-food-orders-go-wrong/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
