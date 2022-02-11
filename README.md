@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Arcturus: Facts about the bright red giant star](https://www.space.com/22842-arcturus.html)
 - [Mdundo eyes more telco partnerships after music streaming revenue growth from Tanzania, Nigeria deals](https://techcrunch.com/2022/02/10/mdundo-eyes-more-telco-partnerships-after-music-streaming-revenue-growth-from-tanzania-nigeria-deals/)
 - [NASA to unveil 1st images from James Webb Space Telescope today. Here&#39;s where to find them.](https://www.space.com/james-webb-space-telescopes-first-images-nasa-announcement)
 - [SpaceX&#39;s Starship will reach orbit this year on road to Mars, Elon Musk says](https://www.space.com/elon-musk-spacex-starship-update-orbital-launch-2022)
@@ -104,7 +105,6 @@
 - [Researchers warn that social media may be ‘fundamentally at odds’ with science](https://techcrunch.com/2022/02/10/researchers-warn-that-social-media-may-be-fundamentally-at-odds-with-science/)
 - [James Webb Space Telescope&#39;s groundbreaking optics explained by NASA](https://www.space.com/james-webb-space-telescope-optics-explained)
 - [Augmented reality finds a foothold in cars via safety features](https://techcrunch.com/2022/02/10/augmented-reality-finds-a-foothold-in-cars-via-safety-features/)
-- [Daily Crunch: Tesla facing lawsuit after ‘hundreds’ of racial discrimination allegations](https://techcrunch.com/2022/02/10/daily-crunch-tesla-facing-lawsuit-after-hundreds-of-racial-discrimination-allegations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
