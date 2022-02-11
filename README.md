@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Startups are evolving to manage growth alongside profitability](https://techcrunch.com/2022/02/11/startups-are-evolving-to-manage-growth-alongside-profitability/)
 - [SpaceX&#39;s new Starship video animation is Tron meets Blade Runner in space](https://www.space.com/spacex-starship-launch-tron-blade-runner)
 - [TechCrunch+ roundup: Investor warning signs, China’s AV frenzy, 2022 insurtech trends](https://techcrunch.com/2022/02/11/techcrunch-roundup-investor-warning-signs-chinas-av-frenzy-2022-insurtech-trends/)
 - [Zendesk spurns $17B private equity takeover offer](https://techcrunch.com/2022/02/11/zendesk-spurns-17b-private-equity-takeover-offer/)
@@ -104,7 +105,6 @@
 - [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html)
 - [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
 - [Google’s adtech targeted by publisher antitrust complaint in EU](https://techcrunch.com/2022/02/11/epc-google-antitrust-complaint/)
-- [Twitter is down, so you’ll have to wait a little longer to scream into the void](https://techcrunch.com/2022/02/11/twitter-is-down-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
