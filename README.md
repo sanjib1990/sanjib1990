@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch Elon Musk&#39;s SpaceX Starship update tonight live online](https://www.space.com/elon-musk-spacex-starship-update-webcast-2022)
+- [What’s driving China’s autonomous vehicle frenzy?](https://techcrunch.com/2022/02/10/china-autonomous-driving-2021/)
+- [Researchers warn that social media may be ‘fundamentally at odds’ with science](https://techcrunch.com/2022/02/10/researchers-warn-that-social-media-may-be-fundamentally-at-odds-with-science/)
+- [James Webb Space Telescope&#39;s groundbreaking optics explained by NASA](https://www.space.com/james-webb-space-telescope-optics-explained)
 - [Augmented reality finds a foothold in cars via safety features](https://techcrunch.com/2022/02/10/augmented-reality-finds-a-foothold-in-cars-via-safety-features/)
 - [Daily Crunch: Tesla facing lawsuit after ‘hundreds’ of racial discrimination allegations](https://techcrunch.com/2022/02/10/daily-crunch-tesla-facing-lawsuit-after-hundreds-of-racial-discrimination-allegations/)
 - [Create a social media punch list for cryptocurrency marketing](https://techcrunch.com/2022/02/10/create-a-social-media-punch-list-for-cryptocurrency-marketing/)
 - [The History of Rockets](https://www.space.com/29295-rocket-history.html)
 - [Indiegogo will designate legit crowdfunders with a ‘Trust-Proven’ badge](https://techcrunch.com/2022/02/10/indiegogo-will-designate-legit-crowdfunders-with-a-trust-proven-badge/)
 - [&#39;Obi-Wan Kenobi&#39; Star Wars spinoff series premieres May 25 on Disney Plus](https://www.space.com/disney-plus-star-wars-obi-wan-kenobi-premiere-date)
-- [Deepdub raises $20M for AI-powered dubbing that uses actors’ original voices](https://techcrunch.com/2022/02/10/deepdub-raises-20m-for-a-i-powered-dubbing-that-uses-actors-original-voices/)
-- [Webb Is Chilling Out](https://blogs.nasa.gov/webb/2022/02/10/webb-is-chilling-out/)
-- [With steady growth, Egnyte reaches $150M ARR and looks to future IPO](https://techcrunch.com/2022/02/10/with-steady-growth-egnyte-reaches-150m-arr-and-looks-to-future-ipo/)
-- [In Hollywood, everything gets a reboot — even MoviePass](https://techcrunch.com/2022/02/10/in-hollywood-everything-gets-a-reboot-even-moviepass/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
