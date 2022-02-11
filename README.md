@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Elon Musk shows off fully-stacked SpaceX Starship as 1st orbital launch nears](https://www.space.com/elon-musk-starship-update-starbase-2022)
 - [RedRoute wants answering customer service calls to be as easy as using ‘Alexa’](https://techcrunch.com/2022/02/11/redroute-wants-answering-customer-service-calls-to-be-as-easy-as-using-alexa/)
 - [Agot AI gives restaurants computer vision to see where food orders go wrong](https://techcrunch.com/2022/02/11/agot-ai-gives-restaurants-computer-vision-to-see-where-food-orders-go-wrong/)
 - [Space geoengineering: Can we control the weather?](https://www.space.com/geoengineering-how-to-control-the-weather)
@@ -104,7 +105,6 @@
 - [NASA space telescope spots most powerful light ever seen on Jupiter, helps solve 30-year-old mystery](https://www.space.com/nasa-nustar-space-telescope-jupiter-xray-detection)
 - [Russia aims to rekindle moon program with lunar lander launch this July](https://www.space.com/russia-rekindle-moon-program-luna-25-launch)
 - [UK’s CMA accepts Google’s post-cookie pledges, will ‘closely monitor’ Privacy Sandbox plan](https://techcrunch.com/2022/02/11/uks-cma-accepts-googles-post-cookie-pledges-will-closely-monitor-privacy-sandbox-plan/)
-- [Arcturus: Facts about the bright red giant star](https://www.space.com/22842-arcturus.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
