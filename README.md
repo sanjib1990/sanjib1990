@@ -95,6 +95,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX&#39;s new Starship video animation is Tron meets Blade Runner in space](https://www.space.com/spacex-starship-launch-tron-blade-runner)
+- [TechCrunch+ roundup: Investor warning signs, China’s AV frenzy, 2022 insurtech trends](https://techcrunch.com/2022/02/11/techcrunch-roundup-investor-warning-signs-chinas-av-frenzy-2022-insurtech-trends/)
+- [Zendesk spurns $17B private equity takeover offer](https://techcrunch.com/2022/02/11/zendesk-spurns-17b-private-equity-takeover-offer/)
 - [Want a free trip to suborbital space? Apply by Feb. 15 to become a &#39;citizen astronaut&#39;](https://www.space.com/space-for-humanity-citizen-astronaut-application-deadline)
 - [The James Webb Space Telescope takes a selfie and a big step towards its first ‘real’ image](https://techcrunch.com/2022/02/11/the-james-webb-space-telescope-takes-a-selfie-and-a-big-step-towards-its-first-real-image/)
 - [Of course, Netflix ordered a movie about the big crypto scandal](https://techcrunch.com/2022/02/11/of-course-netflix-ordered-a-movie-about-big-crypto-scandal/)
@@ -102,9 +105,6 @@
 - [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
 - [Google’s adtech targeted by publisher antitrust complaint in EU](https://techcrunch.com/2022/02/11/epc-google-antitrust-complaint/)
 - [Twitter is down, so you’ll have to wait a little longer to scream into the void](https://techcrunch.com/2022/02/11/twitter-is-down-2/)
-- [The James Webb Space Telescope&#39;s first images have scientists excited &lpar;and a bit relieved&rpar;](https://www.space.com/nasa-james-webb-space-telescope-first-images-excitement)
-- [Why Affirm’s stock is getting hit, and what the selloff means for the BNPL startup market](https://techcrunch.com/2022/02/11/why-affirms-stock-is-getting-hit-and-what-the-selloff-means-for-the-bnpl-startup-market/)
-- [Best free VR experiences: Free VR games for Oculus Quest 2 and more](https://www.space.com/best-free-vr-experiences)
 <!-- BLOG-POST-LIST:END -->
 
 ---
