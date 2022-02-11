@@ -95,6 +95,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Chasing Cruise and Waymo, Chinese AV company AutoX plans to begin testing in San Francisco](https://techcrunch.com/2022/02/11/chasing-cruise-and-waymo-chinese-av-company-autox-plans-to-begin-testing-in-san-francisco/)
+- [Deep interior of Mars might have led to the loss of the planet&#39;s atmosphere](https://www.space.com/mars-atmosphere-loss-core-activity)
+- [NASA space telescope spots most powerful light ever seen on Jupiter, helps solve 30-year-old mystery](https://www.space.com/nasa-nustar-space-telescope-jupiter-xray-detection)
 - [Russia aims to rekindle moon program with lunar lander launch this July](https://www.space.com/russia-rekindle-moon-program-luna-25-launch)
 - [UK’s CMA accepts Google’s post-cookie pledges, will ‘closely monitor’ Privacy Sandbox plan](https://techcrunch.com/2022/02/11/uks-cma-accepts-googles-post-cookie-pledges-will-closely-monitor-privacy-sandbox-plan/)
 - [Arcturus: Facts about the bright red giant star](https://www.space.com/22842-arcturus.html)
@@ -102,9 +105,6 @@
 - [NASA to unveil 1st images from James Webb Space Telescope today. Here&#39;s where to find them.](https://www.space.com/james-webb-space-telescopes-first-images-nasa-announcement)
 - [SpaceX&#39;s Starship will reach orbit this year on road to Mars, Elon Musk says](https://www.space.com/elon-musk-spacex-starship-update-orbital-launch-2022)
 - [Atommerce wants to scale its mental health platform with $16.7M funding](https://techcrunch.com/2022/02/10/atommerce-wants-to-scale-its-mental-health-platform-with-16-7m-funding/)
-- [Replay: Watch Elon Musk&#39;s SpaceX Starship update for 2022](https://www.space.com/elon-musk-spacex-starship-update-webcast-2022)
-- [What’s driving China’s autonomous vehicle frenzy?](https://techcrunch.com/2022/02/10/china-autonomous-driving-2021/)
-- [Researchers warn that social media may be ‘fundamentally at odds’ with science](https://techcrunch.com/2022/02/10/researchers-warn-that-social-media-may-be-fundamentally-at-odds-with-science/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
