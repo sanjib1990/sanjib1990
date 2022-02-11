@@ -95,6 +95,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What does a real economist think of cryptocurrencies?](https://techcrunch.com/2022/02/11/what-does-a-real-economist-think-of-cryptocurrencies/)
+- [What happened before the Big Bang?](https://www.space.com/what-came-before-big-bang.html)
+- [Citing ‘changing real estate market,’ Utah-based Homie lays off one-third of its staff](https://techcrunch.com/2022/02/11/homie-lays-off-1-3-of-its-staff/)
 - [Startups are evolving to manage growth alongside profitability](https://techcrunch.com/2022/02/11/startups-are-evolving-to-manage-growth-alongside-profitability/)
 - [SpaceX&#39;s new Starship video animation is Tron meets Blade Runner in space](https://www.space.com/spacex-starship-launch-tron-blade-runner)
 - [TechCrunch+ roundup: Investor warning signs, China’s AV frenzy, 2022 insurtech trends](https://techcrunch.com/2022/02/11/techcrunch-roundup-investor-warning-signs-chinas-av-frenzy-2022-insurtech-trends/)
@@ -102,9 +105,6 @@
 - [Want a free trip to suborbital space? Apply by Feb. 15 to become a &#39;citizen astronaut&#39;](https://www.space.com/space-for-humanity-citizen-astronaut-application-deadline)
 - [The James Webb Space Telescope takes a selfie and a big step towards its first ‘real’ image](https://techcrunch.com/2022/02/11/the-james-webb-space-telescope-takes-a-selfie-and-a-big-step-towards-its-first-real-image/)
 - [Of course, Netflix ordered a movie about the big crypto scandal](https://techcrunch.com/2022/02/11/of-course-netflix-ordered-a-movie-about-big-crypto-scandal/)
-- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html)
-- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
-- [Google’s adtech targeted by publisher antitrust complaint in EU](https://techcrunch.com/2022/02/11/epc-google-antitrust-complaint/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
