@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX&#39;s Starship will reach orbit this year on road to Mars, Elon Musk says](https://www.space.com/elon-musk-spacex-starship-update-orbital-launch-2022)
 - [Atommerce wants to scale its mental health platform with $16.7M funding](https://techcrunch.com/2022/02/10/atommerce-wants-to-scale-its-mental-health-platform-with-16-7m-funding/)
 - [Replay: Watch Elon Musk&#39;s SpaceX Starship update for 2022](https://www.space.com/elon-musk-spacex-starship-update-webcast-2022)
 - [What’s driving China’s autonomous vehicle frenzy?](https://techcrunch.com/2022/02/10/china-autonomous-driving-2021/)
@@ -104,7 +105,6 @@
 - [Daily Crunch: Tesla facing lawsuit after ‘hundreds’ of racial discrimination allegations](https://techcrunch.com/2022/02/10/daily-crunch-tesla-facing-lawsuit-after-hundreds-of-racial-discrimination-allegations/)
 - [Create a social media punch list for cryptocurrency marketing](https://techcrunch.com/2022/02/10/create-a-social-media-punch-list-for-cryptocurrency-marketing/)
 - [The History of Rockets](https://www.space.com/29295-rocket-history.html)
-- [Indiegogo will designate legit crowdfunders with a ‘Trust-Proven’ badge](https://techcrunch.com/2022/02/10/indiegogo-will-designate-legit-crowdfunders-with-a-trust-proven-badge/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
