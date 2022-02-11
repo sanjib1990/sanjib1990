@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google’s adtech targeted by publisher antitrust complaint in EU](https://techcrunch.com/2022/02/11/epc-google-antitrust-complaint/)
+- [Twitter is down, so you’ll have to wait a little longer to scream into the void](https://techcrunch.com/2022/02/11/twitter-is-down-2/)
+- [The James Webb Space Telescope&#39;s first images have scientists excited &lpar;and a bit relieved&rpar;](https://www.space.com/nasa-james-webb-space-telescope-first-images-excitement)
+- [Why Affirm’s stock is getting hit, and what the selloff means for the BNPL startup market](https://techcrunch.com/2022/02/11/why-affirms-stock-is-getting-hit-and-what-the-selloff-means-for-the-bnpl-startup-market/)
+- [Best free VR experiences: Free VR games for Oculus Quest 2 and more](https://www.space.com/best-free-vr-experiences)
 - [How many stars are in the universe?](https://www.space.com/26078-how-many-stars-are-there.html)
 - [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
 - [Behold the 1st images from NASA&#39;s James Webb Space Telescope!](https://www.space.com/james-webb-space-telescope-first-photos-unveiled)
 - [Photons Received: Webb Sees Its First Star – 18 Times](https://blogs.nasa.gov/webb/2022/02/11/photons-received-webb-sees-its-first-star-18-times/)
 - [Elon Musk’s SpaceX Starship event leaves a lot of questions around the company’s big rocket](https://techcrunch.com/2022/02/11/elon-musks-spacex-starship-event-leaves-a-lot-of-questions-around-the-companys-big-rocket/)
-- [How Texas is becoming a bitcoin mining hub](https://techcrunch.com/2022/02/11/how-texas-is-becoming-a-bitcoin-mining-hub/)
-- [On This Day in Space! Feb. 11, 2010: NASA launches Solar Dynamics Observatory](https://www.space.com/39251-on-this-day-in-space.html)
-- [How much is a pitch deck really worth?](https://techcrunch.com/2022/02/11/how-much-is-a-pitch-deck-really-worth/)
-- [Can an AI be properly considered an inventor?](https://techcrunch.com/2022/02/11/can-an-ai-be-properly-considered-an-inventor/)
-- [Elon Musk shows off fully-stacked SpaceX Starship as 1st orbital launch nears](https://www.space.com/elon-musk-starship-update-starbase-2022)
 <!-- BLOG-POST-LIST:END -->
 
 ---
