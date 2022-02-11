@@ -95,7 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch Elon Musk&#39;s SpaceX Starship update live online tonight](https://www.space.com/elon-musk-spacex-starship-update-webcast-2022)
+- [Atommerce wants to scale its mental health platform with $16.7M funding](https://techcrunch.com/2022/02/10/atommerce-wants-to-scale-its-mental-health-platform-with-16-7m-funding/)
+- [Replay: Watch Elon Musk&#39;s SpaceX Starship update for 2022](https://www.space.com/elon-musk-spacex-starship-update-webcast-2022)
 - [What’s driving China’s autonomous vehicle frenzy?](https://techcrunch.com/2022/02/10/china-autonomous-driving-2021/)
 - [Researchers warn that social media may be ‘fundamentally at odds’ with science](https://techcrunch.com/2022/02/10/researchers-warn-that-social-media-may-be-fundamentally-at-odds-with-science/)
 - [James Webb Space Telescope&#39;s groundbreaking optics explained by NASA](https://www.space.com/james-webb-space-telescope-optics-explained)
@@ -104,7 +105,6 @@
 - [Create a social media punch list for cryptocurrency marketing](https://techcrunch.com/2022/02/10/create-a-social-media-punch-list-for-cryptocurrency-marketing/)
 - [The History of Rockets](https://www.space.com/29295-rocket-history.html)
 - [Indiegogo will designate legit crowdfunders with a ‘Trust-Proven’ badge](https://techcrunch.com/2022/02/10/indiegogo-will-designate-legit-crowdfunders-with-a-trust-proven-badge/)
-- [&#39;Obi-Wan Kenobi&#39; Star Wars spinoff series premieres May 25 on Disney Plus](https://www.space.com/disney-plus-star-wars-obi-wan-kenobi-premiere-date)
 <!-- BLOG-POST-LIST:END -->
 
 ---
