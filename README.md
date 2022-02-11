@@ -95,7 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch Elon Musk&#39;s SpaceX Starship update tonight live online](https://www.space.com/elon-musk-spacex-starship-update-webcast-2022)
+- [Watch Elon Musk&#39;s SpaceX Starship update live online tonight](https://www.space.com/elon-musk-spacex-starship-update-webcast-2022)
 - [What’s driving China’s autonomous vehicle frenzy?](https://techcrunch.com/2022/02/10/china-autonomous-driving-2021/)
 - [Researchers warn that social media may be ‘fundamentally at odds’ with science](https://techcrunch.com/2022/02/10/researchers-warn-that-social-media-may-be-fundamentally-at-odds-with-science/)
 - [James Webb Space Telescope&#39;s groundbreaking optics explained by NASA](https://www.space.com/james-webb-space-telescope-optics-explained)
