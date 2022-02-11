@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How much is a pitch deck really worth?](https://techcrunch.com/2022/02/11/how-much-is-a-pitch-deck-really-worth/)
+- [Can an AI be properly considered an inventor?](https://techcrunch.com/2022/02/11/can-an-ai-be-properly-considered-an-inventor/)
 - [Elon Musk shows off fully-stacked SpaceX Starship as 1st orbital launch nears](https://www.space.com/elon-musk-starship-update-starbase-2022)
 - [RedRoute wants answering customer service calls to be as easy as using ‘Alexa’](https://techcrunch.com/2022/02/11/redroute-wants-answering-customer-service-calls-to-be-as-easy-as-using-alexa/)
 - [Agot AI gives restaurants computer vision to see where food orders go wrong](https://techcrunch.com/2022/02/11/agot-ai-gives-restaurants-computer-vision-to-see-where-food-orders-go-wrong/)
@@ -103,8 +105,6 @@
 - [Chasing Cruise and Waymo, Chinese AV company AutoX plans to begin testing in San Francisco](https://techcrunch.com/2022/02/11/chasing-cruise-and-waymo-chinese-av-company-autox-plans-to-begin-testing-in-san-francisco/)
 - [Deep interior of Mars might have led to the loss of the planet&#39;s atmosphere](https://www.space.com/mars-atmosphere-loss-core-activity)
 - [NASA space telescope spots most powerful light ever seen on Jupiter, helps solve 30-year-old mystery](https://www.space.com/nasa-nustar-space-telescope-jupiter-xray-detection)
-- [Russia aims to rekindle moon program with lunar lander launch this July](https://www.space.com/russia-rekindle-moon-program-luna-25-launch)
-- [UK’s CMA accepts Google’s post-cookie pledges, will ‘closely monitor’ Privacy Sandbox plan](https://techcrunch.com/2022/02/11/uks-cma-accepts-googles-post-cookie-pledges-will-closely-monitor-privacy-sandbox-plan/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
