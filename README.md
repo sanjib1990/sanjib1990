@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Russia aims to rekindle moon program with lunar lander launch this July](https://www.space.com/russia-rekindle-moon-program-luna-25-launch)
+- [UK’s CMA accepts Google’s post-cookie pledges, will ‘closely monitor’ Privacy Sandbox plan](https://techcrunch.com/2022/02/11/uks-cma-accepts-googles-post-cookie-pledges-will-closely-monitor-privacy-sandbox-plan/)
 - [Arcturus: Facts about the bright red giant star](https://www.space.com/22842-arcturus.html)
 - [Mdundo eyes more telco partnerships after music streaming revenue growth from Tanzania, Nigeria deals](https://techcrunch.com/2022/02/10/mdundo-eyes-more-telco-partnerships-after-music-streaming-revenue-growth-from-tanzania-nigeria-deals/)
 - [NASA to unveil 1st images from James Webb Space Telescope today. Here&#39;s where to find them.](https://www.space.com/james-webb-space-telescopes-first-images-nasa-announcement)
@@ -103,8 +105,6 @@
 - [Replay: Watch Elon Musk&#39;s SpaceX Starship update for 2022](https://www.space.com/elon-musk-spacex-starship-update-webcast-2022)
 - [What’s driving China’s autonomous vehicle frenzy?](https://techcrunch.com/2022/02/10/china-autonomous-driving-2021/)
 - [Researchers warn that social media may be ‘fundamentally at odds’ with science](https://techcrunch.com/2022/02/10/researchers-warn-that-social-media-may-be-fundamentally-at-odds-with-science/)
-- [James Webb Space Telescope&#39;s groundbreaking optics explained by NASA](https://www.space.com/james-webb-space-telescope-optics-explained)
-- [Augmented reality finds a foothold in cars via safety features](https://techcrunch.com/2022/02/10/augmented-reality-finds-a-foothold-in-cars-via-safety-features/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
