@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Futurama&#39; scores a fresh Hulu reboot with original vocal cast on board](https://www.space.com/futurama-hulu-reboot)
+- [Largest comet ever observed bumps Hale-Bopp from pedestal](https://www.space.com/comet-bernardinelli-bernstein-largest-ever)
+- [On This Day in Space! Feb. 12, 2001: NEAR-Shoemaker lands on asteroid Eros](https://www.space.com/39251-on-this-day-in-space.html)
+- [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html)
+- [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html)
+- [Watch NASA&#39;s huge SLS rocket for the Artemis 1 moon mission come together in this epic time-lapse video](https://www.space.com/artemis-1-sls-moon-rocket-stacking-time-lapse-video)
 - [Why are cybersecurity asset management startups so hot right now?](https://techcrunch.com/2022/02/11/why-are-internet-asset-startups-so-hot-right-now/)
 - [February full moon 2022: The &#39;Snow Moon&#39; is accompanied by predawn planets](https://www.space.com/35627-february-full-moon.html)
 - [&#39;Holy cow!&#39; How the James Webb Space Telescope took a selfie in space](https://www.space.com/webb-telescope-space-selfie-nircam)
 - [Daily Crunch: At SpaceX’s Starship update event, Musk offers updates on plans, progress](https://techcrunch.com/2022/02/11/daily-crunch-at-spacexs-starship-update-event-musk-offers-updates-on-plans-progress/)
-- [What does a real economist think of cryptocurrencies?](https://techcrunch.com/2022/02/11/what-does-a-real-economist-think-of-cryptocurrencies/)
-- [What happened before the Big Bang?](https://www.space.com/what-came-before-big-bang.html)
-- [Citing ‘changing real estate market,’ Utah-based Homie lays off one-third of its staff](https://techcrunch.com/2022/02/11/homie-lays-off-1-3-of-its-staff/)
-- [Startups are evolving to manage growth alongside profitability](https://techcrunch.com/2022/02/11/startups-are-evolving-to-manage-growth-alongside-profitability/)
-- [SpaceX&#39;s new Starship video animation is Tron meets Blade Runner in space](https://www.space.com/spacex-starship-launch-tron-blade-runner)
-- [TechCrunch+ roundup: Investor warning signs, China’s AV frenzy, 2022 insurtech trends](https://techcrunch.com/2022/02/11/techcrunch-roundup-investor-warning-signs-chinas-av-frenzy-2022-insurtech-trends/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
