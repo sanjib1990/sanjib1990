@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Here’s how to stream the 2022 Super Bowl](https://techcrunch.com/2022/02/12/stream-2022-super-bowl-56-lvi/)
 - [It’s not a startup reckoning, it’s a recorrection](https://techcrunch.com/2022/02/12/its-not-a-startup-reckoning-its-a-recorrection/)
 - [&#39;Futurama&#39; scores a fresh Hulu reboot with original vocal cast on board](https://www.space.com/futurama-hulu-reboot)
 - [Largest comet ever observed bumps Hale-Bopp from pedestal](https://www.space.com/comet-bernardinelli-bernstein-largest-ever)
@@ -104,7 +105,6 @@
 - [Watch NASA&#39;s huge SLS rocket for the Artemis 1 moon mission come together in this epic time-lapse video](https://www.space.com/artemis-1-sls-moon-rocket-stacking-time-lapse-video)
 - [Why are cybersecurity asset management startups so hot right now?](https://techcrunch.com/2022/02/11/why-are-internet-asset-startups-so-hot-right-now/)
 - [February full moon 2022: The &#39;Snow Moon&#39; is accompanied by predawn planets](https://www.space.com/35627-february-full-moon.html)
-- [&#39;Holy cow!&#39; How the James Webb Space Telescope took a selfie in space](https://www.space.com/webb-telescope-space-selfie-nircam)
 <!-- BLOG-POST-LIST:END -->
 
 ---
