@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hopin’ into lessons from Peloton](https://techcrunch.com/2022/02/12/hopin-into-lessons-from-peloton/)
+- [This Week in Apps: Microsoft’s app store principles, TikTok’s new safety policies, Apple reveals ‘Tap to Pay’](https://techcrunch.com/2022/02/12/this-week-in-apps-microsofts-app-store-principles-tiktoks-new-safety-policies-apple-reveals-tap-to-pay/)
 - [Soon all blockchain companies will be crypto speculators](https://techcrunch.com/2022/02/12/soon-all-blockchain-companies-will-be-crypto-speculators/)
 - [Here’s how to stream the 2022 Super Bowl](https://techcrunch.com/2022/02/12/stream-2022-super-bowl-56-lvi/)
 - [It’s not a startup reckoning, it’s a recorrection](https://techcrunch.com/2022/02/12/its-not-a-startup-reckoning-its-a-recorrection/)
@@ -103,8 +105,6 @@
 - [On This Day in Space! Feb. 12, 2001: NEAR-Shoemaker lands on asteroid Eros](https://www.space.com/39251-on-this-day-in-space.html)
 - [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html)
 - [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html)
-- [Watch NASA&#39;s huge SLS rocket for the Artemis 1 moon mission come together in this epic time-lapse video](https://www.space.com/artemis-1-sls-moon-rocket-stacking-time-lapse-video)
-- [Why are cybersecurity asset management startups so hot right now?](https://techcrunch.com/2022/02/11/why-are-internet-asset-startups-so-hot-right-now/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
