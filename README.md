@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [It’s not a startup reckoning, it’s a recorrection](https://techcrunch.com/2022/02/12/its-not-a-startup-reckoning-its-a-recorrection/)
 - [&#39;Futurama&#39; scores a fresh Hulu reboot with original vocal cast on board](https://www.space.com/futurama-hulu-reboot)
 - [Largest comet ever observed bumps Hale-Bopp from pedestal](https://www.space.com/comet-bernardinelli-bernstein-largest-ever)
 - [On This Day in Space! Feb. 12, 2001: NEAR-Shoemaker lands on asteroid Eros](https://www.space.com/39251-on-this-day-in-space.html)
@@ -104,7 +105,6 @@
 - [Why are cybersecurity asset management startups so hot right now?](https://techcrunch.com/2022/02/11/why-are-internet-asset-startups-so-hot-right-now/)
 - [February full moon 2022: The &#39;Snow Moon&#39; is accompanied by predawn planets](https://www.space.com/35627-february-full-moon.html)
 - [&#39;Holy cow!&#39; How the James Webb Space Telescope took a selfie in space](https://www.space.com/webb-telescope-space-selfie-nircam)
-- [Daily Crunch: At SpaceX’s Starship update event, Musk offers updates on plans, progress](https://techcrunch.com/2022/02/11/daily-crunch-at-spacexs-starship-update-event-musk-offers-updates-on-plans-progress/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
