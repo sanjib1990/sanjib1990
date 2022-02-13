@@ -95,6 +95,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Moon-crashing SpaceX rocket will create new crater – here&#39;s what we should worry about](https://www.space.com/spacex-rocket-crashing-into-moon-crater)
+- [A new Chinese rocket company has raised more than $100 million](https://www.space.com/china-orienspace-rocket-company-raises-funds)
+- [India will launch its first space mission of 2022 tonight. Here&#39;s how to watch live.](https://www.space.com/india-pslv-rocket-eos-4-satellite-launch-february-2022)
 - [Hopin’ into lessons from Peloton](https://techcrunch.com/2022/02/12/hopin-into-lessons-from-peloton/)
 - [This Week in Apps: Microsoft’s app store principles, TikTok’s new safety policies, Apple reveals ‘Tap to Pay’](https://techcrunch.com/2022/02/12/this-week-in-apps-microsofts-app-store-principles-tiktoks-new-safety-policies-apple-reveals-tap-to-pay/)
 - [Soon all blockchain companies will be crypto speculators](https://techcrunch.com/2022/02/12/soon-all-blockchain-companies-will-be-crypto-speculators/)
@@ -102,9 +105,6 @@
 - [It’s not a startup reckoning, it’s a recorrection](https://techcrunch.com/2022/02/12/its-not-a-startup-reckoning-its-a-recorrection/)
 - [&#39;Futurama&#39; scores a fresh Hulu reboot with original vocal cast on board](https://www.space.com/futurama-hulu-reboot)
 - [Largest comet ever observed bumps Hale-Bopp from pedestal](https://www.space.com/comet-bernardinelli-bernstein-largest-ever)
-- [On This Day in Space! Feb. 12, 2001: NEAR-Shoemaker lands on asteroid Eros](https://www.space.com/39251-on-this-day-in-space.html)
-- [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html)
-- [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
