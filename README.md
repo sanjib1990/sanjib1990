@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [On This Day in Space! Feb. 13, 2012: European Space Agency launches 1st Vega rocket](https://www.space.com/39251-on-this-day-in-space.html)
+- [What would a Super Bowl on Mars look like? Spacesuits and lower gravity for sure &lpar;video&rpar;](https://www.space.com/super-bowl-on-mars-video)
 - [Moon-crashing SpaceX rocket will create new crater – here&#39;s what we should worry about](https://www.space.com/spacex-rocket-crashing-into-moon-crater)
 - [A new Chinese rocket company has raised more than $100 million](https://www.space.com/china-orienspace-rocket-company-raises-funds)
 - [India will launch its first space mission of 2022 tonight. Here&#39;s how to watch live.](https://www.space.com/india-pslv-rocket-eos-4-satellite-launch-february-2022)
@@ -103,8 +105,6 @@
 - [Soon all blockchain companies will be crypto speculators](https://techcrunch.com/2022/02/12/soon-all-blockchain-companies-will-be-crypto-speculators/)
 - [Here’s how to stream the 2022 Super Bowl](https://techcrunch.com/2022/02/12/stream-2022-super-bowl-56-lvi/)
 - [It’s not a startup reckoning, it’s a recorrection](https://techcrunch.com/2022/02/12/its-not-a-startup-reckoning-its-a-recorrection/)
-- [&#39;Futurama&#39; scores a fresh Hulu reboot with original vocal cast on board](https://www.space.com/futurama-hulu-reboot)
-- [Largest comet ever observed bumps Hale-Bopp from pedestal](https://www.space.com/comet-bernardinelli-bernstein-largest-ever)
 <!-- BLOG-POST-LIST:END -->
 
 ---
