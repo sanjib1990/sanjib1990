@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India to ban over 50 more China-linked apps](https://techcrunch.com/2022/02/13/india-ban-china-apps/)
 - [India launches Earth-observing satellite and 2 others in first space mission of 2022](https://www.space.com/india-pslv-rocket-eos-4-satellite-launch-february-2022)
 - [Papier inks $50M Series C to as it runs to lead the online stationary market](https://techcrunch.com/2022/02/13/papier-inks-50m-series-c-to-as-it-runs-to-lead-the-online-stationary-market/)
 - [The out-of-control rocket about to hit the moon is not a SpaceX Falcon 9, astronomers now say: report](https://www.space.com/rocket-stage-to-hit-moon-chinese-not-spacex)
@@ -104,7 +105,6 @@
 - [What would a Super Bowl on Mars look like? Spacesuits and lower gravity for sure &lpar;video&rpar;](https://www.space.com/super-bowl-on-mars-video)
 - [Moon-crashing SpaceX rocket will create new crater – here&#39;s what we should worry about](https://www.space.com/spacex-rocket-crashing-into-moon-crater)
 - [A new Chinese rocket company has raised more than $100 million](https://www.space.com/china-orienspace-rocket-company-raises-funds)
-- [Hopin’ into lessons from Peloton](https://techcrunch.com/2022/02/12/hopin-into-lessons-from-peloton/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
