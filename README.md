@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Gaia, a platform to finance IVF treatments, closes $20M Series A led by Atomico](https://techcrunch.com/2022/02/14/gaia-a-platform-to-finance-ivf-treatments-closes-20m-series-a-led-by-atomico/)
+- [3D social network BUD raises $15M in Series A+ round](https://techcrunch.com/2022/02/13/metaverse-platform-bud-15-million-in-series-a-round/)
 - [Stitch raises $21M for its API infrastructure and embedded finance platform](https://techcrunch.com/2022/02/13/stitch-raises-21m-for-its-api-infrastructure-and-embedded-finance-platform/)
 - [India bans Garena Free Fire, 53 more China-linked apps](https://techcrunch.com/2022/02/13/india-ban-china-apps/)
 - [Papier inks $50M Series C to in a run to lead the online stationery market](https://techcrunch.com/2022/02/13/papier-inks-50m-series-c-to-as-it-runs-to-lead-the-online-stationary-market/)
@@ -103,8 +105,6 @@
 - [Fintech Roundup: Proptech’s roller coaster, an ex-Better.com exec’s new gig and Alchemy’s true valuation jump](https://techcrunch.com/2022/02/13/fintech-roundup-proptechs-roller-coaster-an-ex-better-exec-lands-a-new-role-and-alchemys-valuation-jump/)
 - [On This Day in Space! Feb. 13, 2012: European Space Agency launches 1st Vega rocket](https://www.space.com/39251-on-this-day-in-space.html)
 - [What would a Super Bowl on Mars look like? Spacesuits and lower gravity for sure &lpar;video&rpar;](https://www.space.com/super-bowl-on-mars-video)
-- [Moon-crashing SpaceX rocket will create new crater – here&#39;s what we should worry about](https://www.space.com/spacex-rocket-crashing-into-moon-crater)
-- [A new Chinese rocket company has raised more than $100 million](https://www.space.com/china-orienspace-rocket-company-raises-funds)
 <!-- BLOG-POST-LIST:END -->
 
 ---
