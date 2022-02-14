@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [Banked raises $20M Series A led by Bank of America and Edenred for US expansion](https://techcrunch.com/2022/02/14/banked-raises-20m-series-a-led-by-bank-of-america-and-edenred-for-us-expansion/)
 - [The Station: Tesla’s rough week, China’s AV strategy and Joby’s air taxi play in South Korea](https://techcrunch.com/2022/02/14/the-station-teslas-rough-week-chinas-av-strategy-and-jobys-air-taxi-play-in-south-korea/)
 - [Tripledot snaps up $116M at a $1.4B valuation as casual mobile games become serious business](https://techcrunch.com/2022/02/14/tripledot-snaps-up-116m-at-a-1-4b-valuation-as-casual-mobile-games-become-serious-business/)
@@ -104,7 +105,6 @@
 - [&#39;Invisible&#39; earthquake caused mysterious 2021 tsunami, scientists find](https://www.space.com/hidden-earthquake-caused-tsunami)
 - [Want to use the James Webb Space Telescope? Here&#39;s how scientists book time with the giant observatory.](https://www.space.com/james-webb-space-telescope-observing-time-anonymous)
 - [YC-backed Remedial Health raises $1 million pre-seed to digitize pharmacies in Nigeria](https://techcrunch.com/2022/02/14/yc-backed-remedial-health-raises-1-million-pre-seed-to-digitize-pharmacies-in-nigeria/)
-- [Gaia, a platform to finance IVF treatments, closes $20M Series A led by Atomico](https://techcrunch.com/2022/02/14/gaia-a-platform-to-finance-ivf-treatments-closes-20m-series-a-led-by-atomico/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
