@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Banked raises $20M Series A led by Bank of America and Edenred for US expansion](https://techcrunch.com/2022/02/14/banked-raises-20m-series-a-led-by-bank-of-america-and-edenred-for-us-expansion/)
+- [The Station: Tesla’s rough week, China’s AV strategy and Joby’s air taxi play in South Korea](https://techcrunch.com/2022/02/14/the-station-teslas-rough-week-chinas-av-strategy-and-jobys-air-taxi-play-in-south-korea/)
+- [Tripledot snaps up $116M at a $1.4B valuation as casual mobile games become serious business](https://techcrunch.com/2022/02/14/tripledot-snaps-up-116m-at-a-1-4b-valuation-as-casual-mobile-games-become-serious-business/)
+- [The singular pull of black holes in games](https://www.space.com/black-holes-in-games)
+- [On This Day in Space! Feb. 14, 1990: Voyager 1 takes solar system &#39;Family Portrait&#39;](https://www.space.com/39251-on-this-day-in-space.html)
+- [Watch Russia launch a fresh cargo ship to the International Space Station today](https://www.space.com/russia-progress-80-space-station-cargo-launch)
+- [&#39;Invisible&#39; earthquake caused mysterious 2021 tsunami, scientists find](https://www.space.com/hidden-earthquake-caused-tsunami)
+- [Want to use the James Webb Space Telescope? Here&#39;s how scientists book time with the giant observatory.](https://www.space.com/james-webb-space-telescope-observing-time-anonymous)
 - [YC-backed Remedial Health raises $1 million pre-seed to digitize pharmacies in Nigeria](https://techcrunch.com/2022/02/14/yc-backed-remedial-health-raises-1-million-pre-seed-to-digitize-pharmacies-in-nigeria/)
 - [Gaia, a platform to finance IVF treatments, closes $20M Series A led by Atomico](https://techcrunch.com/2022/02/14/gaia-a-platform-to-finance-ivf-treatments-closes-20m-series-a-led-by-atomico/)
-- [3D social network BUD raises $15M in Series A+ round](https://techcrunch.com/2022/02/13/metaverse-platform-bud-15-million-in-series-a-round/)
-- [Stitch raises $21M for its API infrastructure and embedded finance platform](https://techcrunch.com/2022/02/13/stitch-raises-21m-for-its-api-infrastructure-and-embedded-finance-platform/)
-- [India bans Garena Free Fire, 53 more China-linked apps](https://techcrunch.com/2022/02/13/india-ban-china-apps/)
-- [Papier inks $50M Series C to in a run to lead the online stationery market](https://techcrunch.com/2022/02/13/papier-inks-50m-series-c-to-as-it-runs-to-lead-the-online-stationary-market/)
-- [The out-of-control rocket about to hit the moon is not a SpaceX Falcon 9, astronomers now say: report](https://www.space.com/rocket-stage-to-hit-moon-chinese-not-spacex)
-- [State-run insurer LIC seeks to raise $8 billion in India’s largest IPO](https://techcrunch.com/2022/02/13/lic-ipo-india/)
-- [Fintech Roundup: Proptech’s roller coaster, an ex-Better.com exec’s new gig and Alchemy’s true valuation jump](https://techcrunch.com/2022/02/13/fintech-roundup-proptechs-roller-coaster-an-ex-better-exec-lands-a-new-role-and-alchemys-valuation-jump/)
-- [On This Day in Space! Feb. 13, 2012: European Space Agency launches 1st Vega rocket](https://www.space.com/39251-on-this-day-in-space.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
