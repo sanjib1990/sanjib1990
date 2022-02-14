@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Papier inks $50M Series C to as it runs to lead the online stationary market](https://techcrunch.com/2022/02/13/papier-inks-50m-series-c-to-as-it-runs-to-lead-the-online-stationary-market/)
+- [The out-of-control rocket about to hit the moon is not a SpaceX Falcon 9, astronomers now say: report](https://www.space.com/rocket-stage-to-hit-moon-chinese-not-spacex)
 - [State-run insurer LIC seeks to raise $8 billion in India’s largest IPO](https://techcrunch.com/2022/02/13/lic-ipo-india/)
 - [Fintech Roundup: Proptech’s roller coaster, an ex-Better.com exec’s new gig and Alchemy’s true valuation jump](https://techcrunch.com/2022/02/13/fintech-roundup-proptechs-roller-coaster-an-ex-better-exec-lands-a-new-role-and-alchemys-valuation-jump/)
 - [On This Day in Space! Feb. 13, 2012: European Space Agency launches 1st Vega rocket](https://www.space.com/39251-on-this-day-in-space.html)
@@ -103,8 +105,6 @@
 - [A new Chinese rocket company has raised more than $100 million](https://www.space.com/china-orienspace-rocket-company-raises-funds)
 - [India will launch its first space mission of 2022 tonight. Here&#39;s how to watch live.](https://www.space.com/india-pslv-rocket-eos-4-satellite-launch-february-2022)
 - [Hopin’ into lessons from Peloton](https://techcrunch.com/2022/02/12/hopin-into-lessons-from-peloton/)
-- [This Week in Apps: Microsoft’s app store principles, TikTok’s new safety policies, Apple reveals ‘Tap to Pay’](https://techcrunch.com/2022/02/12/this-week-in-apps-microsofts-app-store-principles-tiktoks-new-safety-policies-apple-reveals-tap-to-pay/)
-- [Soon all blockchain companies will be crypto speculators](https://techcrunch.com/2022/02/12/soon-all-blockchain-companies-will-be-crypto-speculators/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
