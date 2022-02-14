@@ -95,9 +95,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [India to ban over 50 more China-linked apps](https://techcrunch.com/2022/02/13/india-ban-china-apps/)
-- [India launches Earth-observing satellite and 2 others in first space mission of 2022](https://www.space.com/india-pslv-rocket-eos-4-satellite-launch-february-2022)
-- [Papier inks $50M Series C to as it runs to lead the online stationary market](https://techcrunch.com/2022/02/13/papier-inks-50m-series-c-to-as-it-runs-to-lead-the-online-stationary-market/)
+- [Stitch raises $21M for its API infrastructure and embedded finance platform](https://techcrunch.com/2022/02/13/stitch-raises-21m-for-its-api-infrastructure-and-embedded-finance-platform/)
+- [India bans Garena Free Fire, 53 more China-linked apps](https://techcrunch.com/2022/02/13/india-ban-china-apps/)
+- [Papier inks $50M Series C to in a run to lead the online stationery market](https://techcrunch.com/2022/02/13/papier-inks-50m-series-c-to-as-it-runs-to-lead-the-online-stationary-market/)
 - [The out-of-control rocket about to hit the moon is not a SpaceX Falcon 9, astronomers now say: report](https://www.space.com/rocket-stage-to-hit-moon-chinese-not-spacex)
 - [State-run insurer LIC seeks to raise $8 billion in India’s largest IPO](https://techcrunch.com/2022/02/13/lic-ipo-india/)
 - [Fintech Roundup: Proptech’s roller coaster, an ex-Better.com exec’s new gig and Alchemy’s true valuation jump](https://techcrunch.com/2022/02/13/fintech-roundup-proptechs-roller-coaster-an-ex-better-exec-lands-a-new-role-and-alchemys-valuation-jump/)
