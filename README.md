@@ -95,6 +95,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hackers leak names of ‘Freedom Convoy’ donors after GiveSendGo breach](https://techcrunch.com/2022/02/14/freedom-convoy-donor-leak-givesendgo/)
+- [Equity Monday: Welcome to crypto game day](https://techcrunch.com/2022/02/14/equity-monday-welcome-to-crypto-game-day/)
+- [Snapchat will introduce revenue sharing on ads in creators’ stories](https://techcrunch.com/2022/02/14/snapchat-will-introduce-revenue-sharing-on-ads-in-creators-stories/)
 - [Jio Platforms invests $200 million in Google-backed Glance](https://techcrunch.com/2022/02/14/jio-platforms-ambani-glance/)
 - [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [Banked raises $20M Series A led by Bank of America and Edenred for US expansion](https://techcrunch.com/2022/02/14/banked-raises-20m-series-a-led-by-bank-of-america-and-edenred-for-us-expansion/)
@@ -102,9 +105,6 @@
 - [Tripledot snaps up $116M at a $1.4B valuation as casual mobile games become serious business](https://techcrunch.com/2022/02/14/tripledot-snaps-up-116m-at-a-1-4b-valuation-as-casual-mobile-games-become-serious-business/)
 - [The singular pull of black holes in games](https://www.space.com/black-holes-in-games)
 - [On This Day in Space! Feb. 14, 1990: Voyager 1 takes solar system &#39;Family Portrait&#39;](https://www.space.com/39251-on-this-day-in-space.html)
-- [Watch Russia launch a fresh cargo ship to the International Space Station today](https://www.space.com/russia-progress-80-space-station-cargo-launch)
-- [&#39;Invisible&#39; earthquake caused mysterious 2021 tsunami, scientists find](https://www.space.com/hidden-earthquake-caused-tsunami)
-- [Want to use the James Webb Space Telescope? Here&#39;s how scientists book time with the giant observatory.](https://www.space.com/james-webb-space-telescope-observing-time-anonymous)
 <!-- BLOG-POST-LIST:END -->
 
 ---
