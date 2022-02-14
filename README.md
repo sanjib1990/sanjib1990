@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [YC-backed Remedial Health raises $1 million pre-seed to digitize pharmacies in Nigeria](https://techcrunch.com/2022/02/14/yc-backed-remedial-health-raises-1-million-pre-seed-to-digitize-pharmacies-in-nigeria/)
 - [Gaia, a platform to finance IVF treatments, closes $20M Series A led by Atomico](https://techcrunch.com/2022/02/14/gaia-a-platform-to-finance-ivf-treatments-closes-20m-series-a-led-by-atomico/)
 - [3D social network BUD raises $15M in Series A+ round](https://techcrunch.com/2022/02/13/metaverse-platform-bud-15-million-in-series-a-round/)
 - [Stitch raises $21M for its API infrastructure and embedded finance platform](https://techcrunch.com/2022/02/13/stitch-raises-21m-for-its-api-infrastructure-and-embedded-finance-platform/)
@@ -104,7 +105,6 @@
 - [State-run insurer LIC seeks to raise $8 billion in India’s largest IPO](https://techcrunch.com/2022/02/13/lic-ipo-india/)
 - [Fintech Roundup: Proptech’s roller coaster, an ex-Better.com exec’s new gig and Alchemy’s true valuation jump](https://techcrunch.com/2022/02/13/fintech-roundup-proptechs-roller-coaster-an-ex-better-exec-lands-a-new-role-and-alchemys-valuation-jump/)
 - [On This Day in Space! Feb. 13, 2012: European Space Agency launches 1st Vega rocket](https://www.space.com/39251-on-this-day-in-space.html)
-- [What would a Super Bowl on Mars look like? Spacesuits and lower gravity for sure &lpar;video&rpar;](https://www.space.com/super-bowl-on-mars-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
