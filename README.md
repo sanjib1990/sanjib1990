@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jio Platforms invests $200 million in Google-backed Glance](https://techcrunch.com/2022/02/14/jio-platforms-ambani-glance/)
 - [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [Banked raises $20M Series A led by Bank of America and Edenred for US expansion](https://techcrunch.com/2022/02/14/banked-raises-20m-series-a-led-by-bank-of-america-and-edenred-for-us-expansion/)
 - [The Station: Tesla’s rough week, China’s AV strategy and Joby’s air taxi play in South Korea](https://techcrunch.com/2022/02/14/the-station-teslas-rough-week-chinas-av-strategy-and-jobys-air-taxi-play-in-south-korea/)
@@ -104,7 +105,6 @@
 - [Watch Russia launch a fresh cargo ship to the International Space Station today](https://www.space.com/russia-progress-80-space-station-cargo-launch)
 - [&#39;Invisible&#39; earthquake caused mysterious 2021 tsunami, scientists find](https://www.space.com/hidden-earthquake-caused-tsunami)
 - [Want to use the James Webb Space Telescope? Here&#39;s how scientists book time with the giant observatory.](https://www.space.com/james-webb-space-telescope-observing-time-anonymous)
-- [YC-backed Remedial Health raises $1 million pre-seed to digitize pharmacies in Nigeria](https://techcrunch.com/2022/02/14/yc-backed-remedial-health-raises-1-million-pre-seed-to-digitize-pharmacies-in-nigeria/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
