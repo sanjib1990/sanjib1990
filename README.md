@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [FAA pushes back review of SpaceX&#39;s Starship to March 28](https://www.space.com/faa-spacex-starship-review-delayed-march-28)
+- [Meet the four private Polaris Dawn astronauts SpaceX will launch into orbit this year](https://www.space.com/spacex-polaris-dawn-private-astronauts-crew)
 - [Our startup’s first hire was a fractional Head of Remote](https://techcrunch.com/2022/02/14/our-startups-first-hire-was-a-fractional-head-of-remote/)
 - [How one founder is using fintech to get more EVs on the road](https://techcrunch.com/2022/02/14/how-one-founder-is-using-fintech-to-get-more-evs-on-the-road/)
 - [Send your valentine a spacey e-card, with NASA&#39;s help this Valentine&#39;s Day](https://www.space.com/nasa-valentines-day-card-space-photos)
@@ -103,8 +105,6 @@
 - [Here’s what you’ll learn at TechCrunch Early Stage in San Francisco this April](https://techcrunch.com/2022/02/14/heres-what-youll-learn-at-techcrunch-early-stage-in-san-francisco-this-april/)
 - [Billionaire&#39;s &#39;Polaris Program&#39; to set space records on SpaceX Dragon, Starship](https://www.space.com/polaris-program-dawn-spacex-isaacman)
 - [Proxi is making digital maps cooler](https://techcrunch.com/2022/02/14/proxi-is-making-digital-maps-cooler/)
-- [Novoloop says it’s worked out how to upcycle plastic waste, raises $11M Series A](https://techcrunch.com/2022/02/14/novoloop-says-its-worked-out-how-to-upcycle-plastic-waste-raises-11m-series-a/)
-- [Exploring the many faces of sidewalk delivery robots with Cartken’s Anjali Jindal Naik](https://techcrunch.com/2022/02/14/exploring-the-many-faces-of-sidewalk-delivery-robots-with-cartkens-anjali-jindal-naik/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
