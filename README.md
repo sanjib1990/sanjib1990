@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Novoloop says it’s worked out how to upcycle plastic waste, raises $11M Series A](https://techcrunch.com/2022/02/14/novoloop-says-its-worked-out-how-to-upcycle-plastic-waste-raises-11m-series-a/)
+- [Exploring the many faces of sidewalk delivery robots with Cartken’s Anjali Jindal Naik](https://techcrunch.com/2022/02/14/exploring-the-many-faces-of-sidewalk-delivery-robots-with-cartkens-anjali-jindal-naik/)
+- [Here are the best and worst 2022 Super Bowl tech ads](https://techcrunch.com/2022/02/14/super-bowl-2022-ads-for-tech-companies/)
+- [Texas attorney general files lawsuit against Meta over Facebook’s facial recognition technology](https://techcrunch.com/2022/02/14/texas-attorney-general-files-lawsuit-against-meta-over-facebooks-facial-recognition-technology/)
+- [FBI warns BlackByte ransomware is targeting US critical infrastructure](https://techcrunch.com/2022/02/14/blackbyte-critical-infrastructure-ransomware/)
+- [The early bird has landed — buy your in-person pass to TC Sessions: Mobility 2022 today and save](https://techcrunch.com/2022/02/14/the-early-bird-has-landed-buy-your-in-person-pass-to-tc-sessions-mobility-2022-today-and-save/)
+- [‘Horizon: Forbidden West’ is the final boss of the outgoing gaming generation](https://techcrunch.com/2022/02/14/horizon-forbidden-west-is-the-final-boss-of-the-outgoing-gaming-generation/)
+- [Will foldables thrive in a post-pandemic world?](https://techcrunch.com/2022/02/14/will-foldables-thrive-in-a-post-pandemic-world/)
 - [TechCrunch Experts is recruiting recruiters](https://techcrunch.com/2022/02/14/techcrunch-experts-is-recruiting-recruiters/)
 - [SpaceX plans its first commercial spacewalk for this year](https://techcrunch.com/2022/02/14/spacex-plans-its-first-commercial-spacewalk-for-this-year/)
-- [Are lifelike digital humans the future of customer experience?](https://techcrunch.com/2022/02/14/are-lifelike-digital-humans-the-future-of-customer-experience/)
-- [Apple fined again for applying ‘unreasonable’ conditions to dating apps after Dutch antitrust order](https://techcrunch.com/2022/02/14/acm-fines-apple-again/)
-- [Bessemer’s Mary D’Onofrio demystifies early ARR growth at TechCrunch Early Stage](https://techcrunch.com/2022/02/14/bessemers-mary-donofrio-demystifies-early-arr-growth-at-techcrunch-early-stage/)
-- [Food-delivery profits remain elusive](https://techcrunch.com/2022/02/14/food-delivery-profits-remain-elusive/)
-- [Opera partners with Yat to enable emoji-based web addresses](https://techcrunch.com/2022/02/14/opera-partners-with-yat-to-enable-emoji-based-web-addresses/)
-- [Databook provides insights so sales reps become customer experts](https://techcrunch.com/2022/02/14/databook-sales-customer/)
-- [Moon group pushes for protection of ultraquiet lunar far side](https://www.space.com/moon-far-side-radio-quiet-telescope-project)
-- [Why are we still using super-greenhouse gases in our home air conditioners?](https://techcrunch.com/2022/02/14/why-are-we-still-using-super-greenhouse-gases-in-our-home-air-conditioners/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
