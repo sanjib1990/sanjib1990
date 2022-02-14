@@ -95,6 +95,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Our startup’s first hire was a fractional Head of Remote](https://techcrunch.com/2022/02/14/our-startups-first-hire-was-a-fractional-head-of-remote/)
+- [How one founder is using fintech to get more EVs on the road](https://techcrunch.com/2022/02/14/how-one-founder-is-using-fintech-to-get-more-evs-on-the-road/)
+- [Send your valentine a spacey e-card, with NASA&#39;s help this Valentine&#39;s Day](https://www.space.com/nasa-valentines-day-card-space-photos)
 - [Cosmic robbery: New study explains how smaller galaxies lose their dark matter](https://www.space.com/small-galaxies-lose-dark-matter-collisions)
 - [Schoolytics is a dashboard that keeps teachers, students, and parents on the same page](https://techcrunch.com/2022/02/14/schoolytics-is-a-dashboard-that-keeps-teachers-students-and-parents-on-the-same-page/)
 - [Here’s what you’ll learn at TechCrunch Early Stage in San Francisco this April](https://techcrunch.com/2022/02/14/heres-what-youll-learn-at-techcrunch-early-stage-in-san-francisco-this-april/)
@@ -102,9 +105,6 @@
 - [Proxi is making digital maps cooler](https://techcrunch.com/2022/02/14/proxi-is-making-digital-maps-cooler/)
 - [Novoloop says it’s worked out how to upcycle plastic waste, raises $11M Series A](https://techcrunch.com/2022/02/14/novoloop-says-its-worked-out-how-to-upcycle-plastic-waste-raises-11m-series-a/)
 - [Exploring the many faces of sidewalk delivery robots with Cartken’s Anjali Jindal Naik](https://techcrunch.com/2022/02/14/exploring-the-many-faces-of-sidewalk-delivery-robots-with-cartkens-anjali-jindal-naik/)
-- [Here are the best and worst 2022 Super Bowl tech ads](https://techcrunch.com/2022/02/14/super-bowl-2022-ads-for-tech-companies/)
-- [Texas attorney general files lawsuit against Meta over Facebook’s facial recognition technology](https://techcrunch.com/2022/02/14/texas-attorney-general-files-lawsuit-against-meta-over-facebooks-facial-recognition-technology/)
-- [FBI warns BlackByte ransomware is targeting US critical infrastructure](https://techcrunch.com/2022/02/14/blackbyte-critical-infrastructure-ransomware/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
