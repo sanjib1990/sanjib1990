@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Singapore-based alternative protein startup Next Gen Foods gets $100M Series A for U.S. growth](https://techcrunch.com/2022/02/15/singapore-based-alternative-protein-startup-next-gen-foods-gets-100m-series-a-for-u-s-growth/)
+- [The Sturm strike back in John Birmingham&#39;s brash sci-fi sequel, &#39;The Shattered Skies&#39; &lpar;exclusive&rpar;](https://www.space.com/the-shattered-skies-book-john-birmingham-interview)
+- [How to photograph the Milky Way: A guide for beginners and enthusiasts](https://www.space.com/how-to-photograph-the-milky-way-beginners-tips-tricks)
+- [DSLR vs Mirrorless cameras for Astrophotography](https://www.space.com/dslr-vs-mirrorless)
 - [Egypt’s e-commerce platform Wasla nabs $9 million from retail finance provider Contact](https://techcrunch.com/2022/02/15/egypts-e-commerce-platform-wasla-nabs-9-million-from-retail-finance-provider-contact/)
 - [Pandemic and ‘revenge travel’ helps power Heygo to a $20M Series A funding round](https://techcrunch.com/2022/02/15/pandemic-and-revenge-travel-helps-power-heygo-to-a-20m-series-a-funding-round/)
 - [iPhone refurbisher Swappie raises $124M Series C led by Verdane to scale in Europe](https://techcrunch.com/2022/02/15/iphone-refurbisher-swappie-raises-124m-series-c-led-by-verdane-to-scale-in-europe/)
 - [MoneyHash gets $3M to build a super-API for payment operations in Africa, Mideast](https://techcrunch.com/2022/02/14/moneyhash-gets-3m-to-build-a-super-api-for-payment-operations-in-africa-mideast/)
 - [MindFi gets $2M seed to create localized mental wellness programs for APAC markets](https://techcrunch.com/2022/02/14/mindfi-gets-2m-seed-to-create-localized-mental-wellness-programs-for-apac-markets/)
 - [Singapore-based Reebelo raises $20M to save pre-owned devices from landfills](https://techcrunch.com/2022/02/14/singapore-based-reebelo-raises-20m-to-save-pre-owned-devices-from-landfills/)
-- [Korean internet giant Naver backs e-commerce aggregator New Vessel in seed round](https://techcrunch.com/2022/02/14/korean-internet-giant-naver-backs-e-commerce-aggregator-new-vessel-in-seed-round/)
-- [The early bird has landed — buy your in-person pass to TC Sessions: Mobility 2022 today and save](https://techcrunch.com/2022/02/14/the-early-bird-has-landed-buy-your-in-person-pass-to-tc-sessions-mobility-2022-today-and-save/)
-- [Astronauts spot an ancient heart-shaped oasis in Egypt just in time for Valentine&#39;s Day](https://www.space.com/ancient-egypt-heart-oasis)
-- [Daily Crunch: Hackers leak names, personal details of donors to ‘Freedom Convoy’ protest](https://techcrunch.com/2022/02/14/daily-crunch-hackers-leak-names-personal-details-of-donors-to-freedom-convoy-protest/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
