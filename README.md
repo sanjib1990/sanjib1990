@@ -78,6 +78,8 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [i HACKED my wife’s web browser &lpar;it’s SCARY easy!!&rpar;](https://www.youtube.com/watch?v=3ogyS4KOlXc)
+- [7 ways to deal with CSS](https://www.youtube.com/watch?v=ouncVBiye_M)
 - [Lua in 100 Seconds](https://www.youtube.com/watch?v=jUuqBZwwkQw)
 - [Inside the Hidden Git Folder - Computerphile](https://www.youtube.com/watch?v=bSA91XTzeuA)
 - [What happens if you hack 4.5 billion BTC? // The Code Report](https://www.youtube.com/watch?v=KPyeJ5J2a7A)
@@ -86,8 +88,6 @@
 - [What is SRE | Tasks and Responsibilities of an SRE | SRE vs DevOps](https://www.youtube.com/watch?v=OnK4IKgLl24)
 - [If Else Statements in Python // Python RIGHT NOW!! // EP 4](https://www.youtube.com/watch?v=5-5Mf_L0UKw)
 - [C++ in 100 Seconds](https://www.youtube.com/watch?v=MNeX4EGtR5Y)
-- [BIG new feature lands in Node.js // The Code Report](https://www.youtube.com/watch?v=MBqS1kYzwTc)
-- [Integrated Water Resources Management / The Water-Energy-Food Nexus](https://www.youtube.com/watch?v=kAeDRfk6A9w)
 <!-- YOUTUBE:END -->
 
 ---
