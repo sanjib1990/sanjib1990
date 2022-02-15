@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The early bird has landed — buy your in-person pass to TC Sessions: Mobility 2022 today and save](https://techcrunch.com/2022/02/15/the-early-bird-has-landed-buy-your-in-person-pass-to-tc-sessions-mobility-2022-today-and-save/)
 - [Akamai acquires Linode for $900M](https://techcrunch.com/2022/02/15/akamai-acquires-linode-for-900m/)
 - [Marvel Comics profiles the legendary Jedi Obi-Wan Kenobi in new &#39;Star Wars&#39; miniseries](https://www.space.com/star-wars-obi-wan-kenobi-marvel-comics)
 - [Transform your startup investors into growth marketers without them noticing](https://techcrunch.com/2022/02/15/transform-your-startup-investors-into-growth-marketers-without-them-noticing/)
@@ -104,7 +105,6 @@
 - [TechCrunch+ roundup: Zendesk rejects $17B offer, sidewalk robots, recruiting survey](https://techcrunch.com/2022/02/15/techcrunch-roundup-zendesk-rejects-17b-offer-sidewalk-robots-recruiting-survey/)
 - [Virgin Galactic is reopening space tourist ticket sales for a limited time](https://www.space.com/virgin-galactic-reopening-ticket-sales-february-2022)
 - [Facebook renamed its ‘news feed’ to just ‘feed’](https://techcrunch.com/2022/02/15/facebook-renamed-its-news-feed-to-just-feed/)
-- [Fisker starts taking reservations for its $29,900 Pear EV](https://techcrunch.com/2022/02/15/fisker-starts-taking-reservations-for-its-29900-pear-ev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
