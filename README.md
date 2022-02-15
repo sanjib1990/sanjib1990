@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Better Tomorrow Ventures closes on $225M fintech-focused fund, which is triple the size of its last fund](https://techcrunch.com/2022/02/15/better-tomorrow-ventures-closes-on-225m-fintech-focused-fund-which-is-triple-the-size-of-its-last-fund/)
+- [Permit.io raises $6M to make permissions easier](https://techcrunch.com/2022/02/15/permit-io-raises-6m-to-make-permissions-easier/)
+- [The Polestar 5 will be built atop a ‘bespoke’ bonded aluminum platform](https://techcrunch.com/2022/02/15/the-polestar-5-will-be-built-atop-a-bespoke-bonded-aluminum-platform/)
+- [Intel to acquire Tower Semiconductor for $5.4B to build on custom foundry strategy](https://techcrunch.com/2022/02/15/intel-to-acquire-tower-semiconductor-for-5-4b-to-build-on-custom-foundry-strategy/)
+- [Custom homebuilder Homebound raises $75M Series C led by Khosla](https://techcrunch.com/2022/02/15/homebound-raises-75m-in-khosla-led-series-c/)
+- [Fitness app FitOn raises $40M, acquires corporate wellness platform Peerfit](https://techcrunch.com/2022/02/15/fitness-app-fiton-raises-40m-acquires-corporate-wellness-platform-peerfit/)
 - [Mundi raises $16M to grow its ‘modern financial platform’ for cross-border trade](https://techcrunch.com/2022/02/15/mundi-raises-16m-to-grow-its-modern-financial-platform-for-cross-border-trade/)
 - [Nextdoor revamps with new profiles, feed and more community-building features](https://techcrunch.com/2022/02/15/nextdoor-revamps-with-new-profiles-feed-and-more-community-building-features/)
 - [Mundimoto raises $22.6M to expand online used motorcycle platform into Europe](https://techcrunch.com/2022/02/15/mundimoto-raises-22-6m-to-expand-online-used-motorcycle-platform-into-europe/)
 - [Grubhub expands its ‘Grubhub Goods’ convenience offering nationwide](https://techcrunch.com/2022/02/15/grubhub-expands-its-grubhub-goods-convenience-offering-nationwide/)
-- [Web3 mobile wallet startup Rainbow raises $18M Series A from Alexis Ohanian’s fund](https://techcrunch.com/2022/02/15/web3-mobile-wallet-startup-rainbow-raises-18m-series-a-from-alexis-ohanians-fund/)
-- [Scrona has big manufacturing plans for its tiny 3D printing](https://techcrunch.com/2022/02/15/scrona-has-big-manufacturing-plans-for-its-tiny-3d-printing/)
-- [Asana’s new workflow tools help companies coordinate work across teams](https://techcrunch.com/2022/02/15/asanas-new-workflow-tools-help-companies-coordinate-work-across-teams/)
-- [Russia launches cargo ship to the International Space Station](https://www.space.com/russia-progress-80-space-station-cargo-launch)
-- [Tropic takes in more capital as demand for software procurement savings continues](https://techcrunch.com/2022/02/15/tropic-takes-in-more-capital-as-demand-for-software-procurement-savings-continues/)
-- [Airbase teams up with Amex on corporate spend, raises a little capital from the giant](https://techcrunch.com/2022/02/15/airbase-teams-up-with-amex-on-corporate-spend-raises-a-little-capital-from-the-giant/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
