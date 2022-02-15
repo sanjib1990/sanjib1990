@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pandemic and ‘revenge travel’ helps power Heygo to a $20M Series A funding round](https://techcrunch.com/2022/02/15/pandemic-and-revenge-travel-helps-power-heygo-to-a-20m-series-a-funding-round/)
 - [iPhone refurbisher Swappie raises $124M Series C led by Verdane to scale in Europe](https://techcrunch.com/2022/02/15/iphone-refurbisher-swappie-raises-124m-series-c-led-by-verdane-to-scale-in-europe/)
 - [MoneyHash gets $3M to build a super-API for payment operations in Africa, Mideast](https://techcrunch.com/2022/02/14/moneyhash-gets-3m-to-build-a-super-api-for-payment-operations-in-africa-mideast/)
 - [MindFi gets $2M seed to create localized mental wellness programs for APAC markets](https://techcrunch.com/2022/02/14/mindfi-gets-2m-seed-to-create-localized-mental-wellness-programs-for-apac-markets/)
@@ -104,7 +105,6 @@
 - [Astronauts spot an ancient heart-shaped oasis in Egypt just in time for Valentine&#39;s Day](https://www.space.com/ancient-egypt-heart-oasis)
 - [Daily Crunch: Hackers leak names, personal details of donors to ‘Freedom Convoy’ protest](https://techcrunch.com/2022/02/14/daily-crunch-hackers-leak-names-personal-details-of-donors-to-freedom-convoy-protest/)
 - [Max Q: Is one guy building out private human space demand?](https://techcrunch.com/2022/02/14/max-q-is-one-guy-building-out-private-human-space-demand/)
-- [Tesla opens entire Supercharger network in the Netherlands to all EVs](https://techcrunch.com/2022/02/14/tesla-opens-entire-supercharger-network-in-the-netherlands-to-all-evs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
