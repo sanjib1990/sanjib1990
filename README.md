@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tropic takes in more capital as demand for software procurement savings continues](https://techcrunch.com/2022/02/15/tropic-takes-in-more-capital-as-demand-for-software-procurement-savings-continues/)
+- [Airbase teams up with Amex on corporate spend, raises a little capital from the giant](https://techcrunch.com/2022/02/15/airbase-teams-up-with-amex-on-corporate-spend-raises-a-little-capital-from-the-giant/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [How big is Jupiter?](https://www.space.com/18392-how-big-is-jupiter.html)
 - [Another huge funding round gives Veho room to deliver](https://techcrunch.com/2022/02/15/funding-round-veho-deliver/)
 - [On This Day in Space! Feb. 15, 2013: Meteor explodes over Chelyabinsk, RussiaPortrait&#39;](https://www.space.com/39251-on-this-day-in-space.html)
 - [Mysteries of Stephen Hawking&#39;s doodle-filled blackboard may finally be solved](https://www.space.com/stephen-hawking-blackboard-mystery-exhibit)
 - [Save £30 on the Lego Millennium Falcon on Amazon](https://www.space.com/lego-millennium-falcon-amazon-uk-deal)
 - [Incredibly rare stellar merger may have created strange stars](https://www.space.com/strange-stars-helium-ashes-white-dwarf)
 - [Public sector bodies’ use of cloud services probed in joint EU data protection enforcement](https://techcrunch.com/2022/02/15/edpb-cef-public-sector-cloud/)
-- [Best Night Vision Binoculars 2022](https://www.space.com/best-night-vision-binoculars)
-- [Singapore-based alternative protein startup Next Gen Foods gets $100M Series A for U.S. growth](https://techcrunch.com/2022/02/15/singapore-based-alternative-protein-startup-next-gen-foods-gets-100m-series-a-for-u-s-growth/)
-- [The Sturm strike back in John Birmingham&#39;s brash sci-fi sequel, &#39;The Shattered Skies&#39; &lpar;exclusive&rpar;](https://www.space.com/the-shattered-skies-book-john-birmingham-interview)
-- [How to photograph the Milky Way: A guide for beginners and enthusiasts](https://www.space.com/how-to-photograph-the-milky-way-beginners-tips-tricks)
 <!-- BLOG-POST-LIST:END -->
 
 ---
