@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mundi raises $16M to grow its ‘modern financial platform’ for cross-border trade](https://techcrunch.com/2022/02/15/mundi-raises-16m-to-grow-its-modern-financial-platform-for-cross-border-trade/)
+- [Nextdoor revamps with new profiles, feed and more community-building features](https://techcrunch.com/2022/02/15/nextdoor-revamps-with-new-profiles-feed-and-more-community-building-features/)
+- [Mundimoto raises $22.6M to expand online used motorcycle platform into Europe](https://techcrunch.com/2022/02/15/mundimoto-raises-22-6m-to-expand-online-used-motorcycle-platform-into-europe/)
+- [Grubhub expands its ‘Grubhub Goods’ convenience offering nationwide](https://techcrunch.com/2022/02/15/grubhub-expands-its-grubhub-goods-convenience-offering-nationwide/)
+- [Web3 mobile wallet startup Rainbow raises $18M Series A from Alexis Ohanian’s fund](https://techcrunch.com/2022/02/15/web3-mobile-wallet-startup-rainbow-raises-18m-series-a-from-alexis-ohanians-fund/)
+- [Scrona has big manufacturing plans for its tiny 3D printing](https://techcrunch.com/2022/02/15/scrona-has-big-manufacturing-plans-for-its-tiny-3d-printing/)
+- [Asana’s new workflow tools help companies coordinate work across teams](https://techcrunch.com/2022/02/15/asanas-new-workflow-tools-help-companies-coordinate-work-across-teams/)
+- [Russia launches cargo ship to the International Space Station](https://www.space.com/russia-progress-80-space-station-cargo-launch)
 - [Tropic takes in more capital as demand for software procurement savings continues](https://techcrunch.com/2022/02/15/tropic-takes-in-more-capital-as-demand-for-software-procurement-savings-continues/)
 - [Airbase teams up with Amex on corporate spend, raises a little capital from the giant](https://techcrunch.com/2022/02/15/airbase-teams-up-with-amex-on-corporate-spend-raises-a-little-capital-from-the-giant/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [How big is Jupiter?](https://www.space.com/18392-how-big-is-jupiter.html)
-- [Another huge funding round gives Veho room to deliver](https://techcrunch.com/2022/02/15/funding-round-veho-deliver/)
-- [On This Day in Space! Feb. 15, 2013: Meteor explodes over Chelyabinsk, RussiaPortrait&#39;](https://www.space.com/39251-on-this-day-in-space.html)
-- [Mysteries of Stephen Hawking&#39;s doodle-filled blackboard may finally be solved](https://www.space.com/stephen-hawking-blackboard-mystery-exhibit)
-- [Save £30 on the Lego Millennium Falcon on Amazon](https://www.space.com/lego-millennium-falcon-amazon-uk-deal)
-- [Incredibly rare stellar merger may have created strange stars](https://www.space.com/strange-stars-helium-ashes-white-dwarf)
-- [Public sector bodies’ use of cloud services probed in joint EU data protection enforcement](https://techcrunch.com/2022/02/15/edpb-cef-public-sector-cloud/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
