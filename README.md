@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Korean internet giant Naver backs e-commerce aggregator New Vessel in seed round](https://techcrunch.com/2022/02/14/korean-internet-giant-naver-backs-e-commerce-aggregator-new-vessel-in-seed-round/)
+- [The early bird has landed — buy your in-person pass to TC Sessions: Mobility 2022 today and save](https://techcrunch.com/2022/02/14/the-early-bird-has-landed-buy-your-in-person-pass-to-tc-sessions-mobility-2022-today-and-save/)
+- [Astronauts spot an ancient heart-shaped oasis in Egypt just in time for Valentine&#39;s Day](https://www.space.com/ancient-egypt-heart-oasis)
+- [Daily Crunch: Hackers leak names, personal details of donors to ‘Freedom Convoy’ protest](https://techcrunch.com/2022/02/14/daily-crunch-hackers-leak-names-personal-details-of-donors-to-freedom-convoy-protest/)
 - [Max Q: Is one guy building out private human space demand?](https://techcrunch.com/2022/02/14/max-q-is-one-guy-building-out-private-human-space-demand/)
 - [Tesla opens entire Supercharger network in the Netherlands to all EVs](https://techcrunch.com/2022/02/14/tesla-opens-entire-supercharger-network-in-the-netherlands-to-all-evs/)
 - [What BlockFi’s $100M settlement with the SEC means for future of DeFi lending](https://techcrunch.com/2022/02/14/what-blockfis-100m-settlement-with-the-sec-means-for-future-of-defi-lending/)
 - [Joby Aviation partners with Japanese airline to launch air taxi service](https://techcrunch.com/2022/02/14/joby-aviation-partners-with-japanese-airline-to-launch-air-taxi-service/)
 - [Hope for the future of space exploration lies at the heart of SpaceX&#39;s new &#39;Polaris&#39; missions](https://www.space.com/spacex-polaris-missions-hope-for-future)
 - [FAA pushes back review of SpaceX&#39;s Starship to March 28](https://www.space.com/faa-spacex-starship-review-delayed-march-28)
-- [Meet the four private Polaris Dawn astronauts SpaceX will launch into orbit this year](https://www.space.com/spacex-polaris-dawn-private-astronauts-crew)
-- [Our startup’s first hire was a fractional Head of Remote](https://techcrunch.com/2022/02/14/our-startups-first-hire-was-a-fractional-head-of-remote/)
-- [How one founder is using fintech to get more EVs on the road](https://techcrunch.com/2022/02/14/how-one-founder-is-using-fintech-to-get-more-evs-on-the-road/)
-- [Send your valentine a spacey e-card, with NASA&#39;s help this Valentine&#39;s Day](https://www.space.com/nasa-valentines-day-card-space-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
