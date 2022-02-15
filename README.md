@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Another huge funding round gives Veho room to deliver](https://techcrunch.com/2022/02/15/funding-round-veho-deliver/)
+- [On This Day in Space! Feb. 15, 2013: Meteor explodes over Chelyabinsk, RussiaPortrait&#39;](https://www.space.com/39251-on-this-day-in-space.html)
+- [Mysteries of Stephen Hawking&#39;s doodle-filled blackboard may finally be solved](https://www.space.com/stephen-hawking-blackboard-mystery-exhibit)
+- [Save £30 on the Lego Millennium Falcon on Amazon](https://www.space.com/lego-millennium-falcon-amazon-uk-deal)
+- [Incredibly rare stellar merger may have created strange stars](https://www.space.com/strange-stars-helium-ashes-white-dwarf)
+- [Public sector bodies’ use of cloud services probed in joint EU data protection enforcement](https://techcrunch.com/2022/02/15/edpb-cef-public-sector-cloud/)
+- [Best Night Vision Binoculars 2022](https://www.space.com/best-night-vision-binoculars)
 - [Singapore-based alternative protein startup Next Gen Foods gets $100M Series A for U.S. growth](https://techcrunch.com/2022/02/15/singapore-based-alternative-protein-startup-next-gen-foods-gets-100m-series-a-for-u-s-growth/)
 - [The Sturm strike back in John Birmingham&#39;s brash sci-fi sequel, &#39;The Shattered Skies&#39; &lpar;exclusive&rpar;](https://www.space.com/the-shattered-skies-book-john-birmingham-interview)
 - [How to photograph the Milky Way: A guide for beginners and enthusiasts](https://www.space.com/how-to-photograph-the-milky-way-beginners-tips-tricks)
-- [DSLR vs Mirrorless cameras for Astrophotography](https://www.space.com/dslr-vs-mirrorless)
-- [Egypt’s e-commerce platform Wasla nabs $9 million from retail finance provider Contact](https://techcrunch.com/2022/02/15/egypts-e-commerce-platform-wasla-nabs-9-million-from-retail-finance-provider-contact/)
-- [Pandemic and ‘revenge travel’ helps power Heygo to a $20M Series A funding round](https://techcrunch.com/2022/02/15/pandemic-and-revenge-travel-helps-power-heygo-to-a-20m-series-a-funding-round/)
-- [iPhone refurbisher Swappie raises $124M Series C led by Verdane to scale in Europe](https://techcrunch.com/2022/02/15/iphone-refurbisher-swappie-raises-124m-series-c-led-by-verdane-to-scale-in-europe/)
-- [MoneyHash gets $3M to build a super-API for payment operations in Africa, Mideast](https://techcrunch.com/2022/02/14/moneyhash-gets-3m-to-build-a-super-api-for-payment-operations-in-africa-mideast/)
-- [MindFi gets $2M seed to create localized mental wellness programs for APAC markets](https://techcrunch.com/2022/02/14/mindfi-gets-2m-seed-to-create-localized-mental-wellness-programs-for-apac-markets/)
-- [Singapore-based Reebelo raises $20M to save pre-owned devices from landfills](https://techcrunch.com/2022/02/14/singapore-based-reebelo-raises-20m-to-save-pre-owned-devices-from-landfills/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
