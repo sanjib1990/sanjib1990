@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fisker starts taking reservations for its $29,900 Pear EV](https://techcrunch.com/2022/02/15/fisker-starts-taking-reservations-for-its-29900-pear-ev/)
+- [European data watchdog calls for EU-wide ban on Pegasus spyware](https://techcrunch.com/2022/02/15/eu-data-protection-pegasus/)
+- [Ford makes it easier to 3D-print accessories for its Maverick pickup](https://techcrunch.com/2022/02/15/ford-makes-it-easier-to-3d-print-accessories-for-its-maverick-pickup/)
+- [See a large robotic arm &#39;crawl&#39; across China&#39;s space station &lpar;video&rpar;](https://www.space.com/china-space-station-robot-arm-video)
+- [Google wants to bring Chrome OS to your PC or Mac](https://techcrunch.com/2022/02/15/google-wants-to-bring-chrome-os-to-your-pc-or-mac/)
 - [Sony’s new headphones have giant holes to let sound in](https://techcrunch.com/2022/02/15/sonys-new-headphones-have-giant-holes-to-let-sound-in/)
 - [Microsoft rolls out access to the Amazon Appstore Preview in Windows 11](https://techcrunch.com/2022/02/15/microsoft-rolls-out-access-to-the-amazon-appstore-preview-in-windows-11/)
 - [Did venture capitalists undervalue startups for decades?](https://techcrunch.com/2022/02/15/did-venture-capitalists-undervalue-startups-for-decades/)
 - [Virgin Galactic will sell you a $450K ticket to space starting February 16](https://techcrunch.com/2022/02/15/virgin-galactic-will-sell-you-a-450k-ticket-to-space-starting-february-16/)
 - [Cryptocurrency is like ‘Ponzi scheme’ and banning it is ‘perhaps the most advisable choice’, says India’s Central Bank](https://techcrunch.com/2022/02/15/india-central-bank-cryptocurrency-ponzi-banning/)
-- [Star Wars movies ranked, worst to best](https://www.space.com/star-wars-movies-ranked-worst-to-best)
-- [Shortwave wants to bring back Google Inbox](https://techcrunch.com/2022/02/15/shortwave-gets-9m-to-bring-back-google-inbox/)
-- [Founder of She Matters developed an app for Black women with postpartum depression](https://techcrunch.com/2022/02/15/founder-of-she-matters-developed-an-app-for-black-women-with-postpartum-depression/)
-- [Unit CEO Itai Damti and Flourish’s Emmalyn Shaw to explain fundraising strategies on TechCrunch Live](https://techcrunch.com/2022/02/15/unit-ceo-itai-damti-and-flourishs-emmalyn-shaw-to-explain-fundraising-strategies-on-techcrunch-live/)
-- [To protect consumers, Congress should secure the app store supply chain](https://techcrunch.com/2022/02/15/to-protect-consumers-congress-should-secure-the-app-store-supply-chain/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
