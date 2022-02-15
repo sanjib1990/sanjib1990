@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [iPhone refurbisher Swappie raises $124M Series C led by Verdane to scale in Europe](https://techcrunch.com/2022/02/15/iphone-refurbisher-swappie-raises-124m-series-c-led-by-verdane-to-scale-in-europe/)
+- [MoneyHash gets $3M to build a super-API for payment operations in Africa, Mideast](https://techcrunch.com/2022/02/14/moneyhash-gets-3m-to-build-a-super-api-for-payment-operations-in-africa-mideast/)
 - [MindFi gets $2M seed to create localized mental wellness programs for APAC markets](https://techcrunch.com/2022/02/14/mindfi-gets-2m-seed-to-create-localized-mental-wellness-programs-for-apac-markets/)
 - [Singapore-based Reebelo raises $20M to save pre-owned devices from landfills](https://techcrunch.com/2022/02/14/singapore-based-reebelo-raises-20m-to-save-pre-owned-devices-from-landfills/)
 - [Korean internet giant Naver backs e-commerce aggregator New Vessel in seed round](https://techcrunch.com/2022/02/14/korean-internet-giant-naver-backs-e-commerce-aggregator-new-vessel-in-seed-round/)
@@ -103,8 +105,6 @@
 - [Daily Crunch: Hackers leak names, personal details of donors to ‘Freedom Convoy’ protest](https://techcrunch.com/2022/02/14/daily-crunch-hackers-leak-names-personal-details-of-donors-to-freedom-convoy-protest/)
 - [Max Q: Is one guy building out private human space demand?](https://techcrunch.com/2022/02/14/max-q-is-one-guy-building-out-private-human-space-demand/)
 - [Tesla opens entire Supercharger network in the Netherlands to all EVs](https://techcrunch.com/2022/02/14/tesla-opens-entire-supercharger-network-in-the-netherlands-to-all-evs/)
-- [What BlockFi’s $100M settlement with the SEC means for future of DeFi lending](https://techcrunch.com/2022/02/14/what-blockfis-100m-settlement-with-the-sec-means-for-future-of-defi-lending/)
-- [Joby Aviation partners with Japanese airline to launch air taxi service](https://techcrunch.com/2022/02/14/joby-aviation-partners-with-japanese-airline-to-launch-air-taxi-service/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
