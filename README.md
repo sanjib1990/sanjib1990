@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Shortwave gets $9M to bring back Google Inbox](https://techcrunch.com/2022/02/15/shortwave-gets-9m-to-bring-back-google-inbox/)
+- [Founder of She Matters developed an app for Black women with postpartum depression](https://techcrunch.com/2022/02/15/founder-of-she-matters-developed-an-app-for-black-women-with-postpartum-depression/)
+- [Unit CEO Itai Damti and Flourish’s Emmalyn Shaw to explain fundraising strategies on TechCrunch Live](https://techcrunch.com/2022/02/15/unit-ceo-itai-damti-and-flourishs-emmalyn-shaw-to-explain-fundraising-strategies-on-techcrunch-live/)
+- [To protect consumers, Congress should secure the app store supply chain](https://techcrunch.com/2022/02/15/to-protect-consumers-congress-should-secure-the-app-store-supply-chain/)
+- [China’s travel booking giant Trip.com adopts the hybrid office](https://techcrunch.com/2022/02/15/chinas-travel-booking-giant-trip-com-adopts-the-hybrid-office/)
 - [Better Tomorrow Ventures closes on $225M fintech-focused fund, which is triple the size of its last fund](https://techcrunch.com/2022/02/15/better-tomorrow-ventures-closes-on-225m-fintech-focused-fund-which-is-triple-the-size-of-its-last-fund/)
 - [Permit.io raises $6M to make permissions easier](https://techcrunch.com/2022/02/15/permit-io-raises-6m-to-make-permissions-easier/)
 - [The Polestar 5 will be built atop a ‘bespoke’ bonded aluminum platform](https://techcrunch.com/2022/02/15/the-polestar-5-will-be-built-atop-a-bespoke-bonded-aluminum-platform/)
 - [Intel to acquire Tower Semiconductor for $5.4B to build on custom foundry strategy](https://techcrunch.com/2022/02/15/intel-to-acquire-tower-semiconductor-for-5-4b-to-build-on-custom-foundry-strategy/)
 - [Custom homebuilder Homebound raises $75M Series C led by Khosla](https://techcrunch.com/2022/02/15/homebound-raises-75m-in-khosla-led-series-c/)
-- [Fitness app FitOn raises $40M, acquires corporate wellness platform Peerfit](https://techcrunch.com/2022/02/15/fitness-app-fiton-raises-40m-acquires-corporate-wellness-platform-peerfit/)
-- [Mundi raises $16M to grow its ‘modern financial platform’ for cross-border trade](https://techcrunch.com/2022/02/15/mundi-raises-16m-to-grow-its-modern-financial-platform-for-cross-border-trade/)
-- [Nextdoor revamps with new profiles, feed and more community-building features](https://techcrunch.com/2022/02/15/nextdoor-revamps-with-new-profiles-feed-and-more-community-building-features/)
-- [Mundimoto raises $22.6M to expand online used motorcycle platform into Europe](https://techcrunch.com/2022/02/15/mundimoto-raises-22-6m-to-expand-online-used-motorcycle-platform-into-europe/)
-- [Grubhub expands its ‘Grubhub Goods’ convenience offering nationwide](https://techcrunch.com/2022/02/15/grubhub-expands-its-grubhub-goods-convenience-offering-nationwide/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
