@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Akamai acquires Linode for $900M](https://techcrunch.com/2022/02/15/akamai-acquires-linode-for-900m/)
+- [Marvel Comics profiles the legendary Jedi Obi-Wan Kenobi in new &#39;Star Wars&#39; miniseries](https://www.space.com/star-wars-obi-wan-kenobi-marvel-comics)
 - [Transform your startup investors into growth marketers without them noticing](https://techcrunch.com/2022/02/15/transform-your-startup-investors-into-growth-marketers-without-them-noticing/)
 - [Cannabis beverage startup Cann raises $27M as it expands to Canada](https://techcrunch.com/2022/02/15/cannabis-beverage-startup-cann-raises-27m-as-it-expands-to-canada/)
 - [Existing investors double down on Ro at boosted $7 billion valuation](https://techcrunch.com/2022/02/15/existing-investors-double-down-on-ro-at-boosted-7-billion-valuation/)
@@ -103,8 +105,6 @@
 - [Virgin Galactic is reopening space tourist ticket sales for a limited time](https://www.space.com/virgin-galactic-reopening-ticket-sales-february-2022)
 - [Facebook renamed its ‘news feed’ to just ‘feed’](https://techcrunch.com/2022/02/15/facebook-renamed-its-news-feed-to-just-feed/)
 - [Fisker starts taking reservations for its $29,900 Pear EV](https://techcrunch.com/2022/02/15/fisker-starts-taking-reservations-for-its-29900-pear-ev/)
-- [European data watchdog calls for EU-wide ban on Pegasus spyware](https://techcrunch.com/2022/02/15/eu-data-protection-pegasus/)
-- [Ford makes it easier to 3D-print accessories for its Maverick pickup](https://techcrunch.com/2022/02/15/ford-makes-it-easier-to-3d-print-accessories-for-its-maverick-pickup/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
