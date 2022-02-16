@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Final space shuttle crewmates among three entering Astronaut Hall of Fame](https://www.space.com/astronaut-hall-fame-leestma-magnus-ferguson)
+- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
 - [Giving discounts will bite ya — use them with caution](https://techcrunch.com/2022/02/16/beware-of-giving-discounts/)
 - [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html)
 - [Rocket poised to hit moon is Chinese, not SpaceX Falcon 9, student observations confirm](https://www.space.com/rocket-poised-strike-moon-is-chinese-students-confirm)
@@ -103,8 +105,6 @@
 - [Red Cross says ‘state-sponsored’ hackers exploited unpatched vulnerability](https://techcrunch.com/2022/02/16/red-cross-links-january-cyberattack-to-state-sponsored-hackers/)
 - [Green is the fashion flavor of the week with Rubi Labs’ materials made from captured CO2](https://techcrunch.com/2022/02/16/rubi-laboratories-co2-capture/)
 - [Still managing engineers remotely? Okay has a performance dashboard for that](https://techcrunch.com/2022/02/16/still-managing-engineers-remotely-okay-has-a-performance-dashboard-for-that/)
-- [Lego Star Wars Imperial Light Cruiser review](https://www.space.com/lego-star-wars-imperial-light-cruiser-75315-review)
-- [Spoke launches music therapy app for Gen Z, raises $1.5M round led by Ada Ventures](https://techcrunch.com/2022/02/16/spoke-launches-music-therapy-app-for-gen-z-raises-1-5m-round-led-by-ada-ventures/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
