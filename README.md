@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spotter raises $200M to invest $1 billion into YouTubers’ back catalogs](https://techcrunch.com/2022/02/16/spotter-invest-youtubers-back-catalog/)
+- [Embracing aluminum containers, Uni wants to completely remove plastic packaging from your home](https://techcrunch.com/2022/02/16/uni-vs-plastic-round-1-fight/)
+- [New Relic launches its new infrastructure monitoring experience](https://techcrunch.com/2022/02/16/new-relic-launches-its-new-infrastructure-monitoring-experience/)
+- [Zavvy wants to modernize employee enablement](https://techcrunch.com/2022/02/16/zavvy-wants-to-modernize-employee-enablement/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [10 fintech investors discuss what they’re looking for and how to pitch them in Q1 2022](https://techcrunch.com/2022/02/16/10-fintech-investors-discuss-what-theyre-looking-for-and-how-to-pitch-them-in-q1-2022/)
+- [Employment Hero raises $181M AUD at $1.25B AUD valuation, acquires KeyPay](https://techcrunch.com/2022/02/16/employment-hero-raises-181m-aud-at-1-25b-aud-valuation-acquires-keypay/)
 - [Hong Kong’s offline and virtual events platform EventX closes $18M Series B](https://techcrunch.com/2022/02/16/eventx-18-million-series-b/)
 - [Following acquisition by Bowery, Traptic’s strawberry-picking robotics pivot to vertical farming](https://techcrunch.com/2022/02/16/following-acquisition-by-bowery-traptics-strawberry-picking-robotics-move-into-vertical-farming/)
-- [New Waymo Via partnership gives it access to 200,000 shippers and carriers](https://techcrunch.com/2022/02/16/new-waymo-via-partnership-gives-it-access-to-200000-shippers-and-carriers/)
-- [Genesis raises $200M in Tiger-led round to grow its finance-focused low-code application platform](https://techcrunch.com/2022/02/16/genesis-raises-200m-in-tiger-led-round-to-grow-its-finance-focused-low-code-application-platform/)
-- [Cansativa Group grabs capital as Germany readies for recreational cannabis market](https://techcrunch.com/2022/02/16/cansativa-group-grabs-capital-as-germany-readies-for-recreational-cannabis-market/)
-- [The Full Snow Moon of February 2022 rises tonight!](https://www.space.com/full-snow-moon-february-2022-tonight)
-- [Snapchat partners with Ticketmaster to match users with live events near them](https://techcrunch.com/2022/02/16/snapchat-partners-with-ticketmaster-to-match-users-with-live-events-near-them/)
-- [PSVR 2 details: Everything we know about the PS5 VR headset](https://www.space.com/psvr-2-details-release-date-price-specs)
-- [On This Day in Space! Feb. 16, 1948: Gerard Kuiper discovers Uranus&#39; moon Miranda](https://www.space.com/39251-on-this-day-in-space.html)
-- [Historic sea level rise predicted by NASA and government task force](https://www.space.com/sea-level-rise-foot-2050-climate-change-report-nasa)
+- [Best cameras for low light photography](https://www.space.com/best-cameras-for-low-light-photography)
 <!-- BLOG-POST-LIST:END -->
 
 ---
