@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hong Kong’s offline and virtual events platform EventX closes $18M Series B](https://techcrunch.com/2022/02/16/eventx-18-million-series-b/)
+- [Following acquisition by Bowery, Traptic’s strawberry-picking robotics pivot to vertical farming](https://techcrunch.com/2022/02/16/following-acquisition-by-bowery-traptics-strawberry-picking-robotics-move-into-vertical-farming/)
+- [New Waymo Via partnership gives it access to 200,000 shippers and carriers](https://techcrunch.com/2022/02/16/new-waymo-via-partnership-gives-it-access-to-200000-shippers-and-carriers/)
+- [Genesis raises $200M in Tiger-led round to grow its finance-focused low-code application platform](https://techcrunch.com/2022/02/16/genesis-raises-200m-in-tiger-led-round-to-grow-its-finance-focused-low-code-application-platform/)
+- [Cansativa Group grabs capital as Germany readies for recreational cannabis market](https://techcrunch.com/2022/02/16/cansativa-group-grabs-capital-as-germany-readies-for-recreational-cannabis-market/)
+- [The Full Snow Moon of February 2022 rises tonight!](https://www.space.com/full-snow-moon-february-2022-tonight)
 - [Snapchat partners with Ticketmaster to match users with live events near them](https://techcrunch.com/2022/02/16/snapchat-partners-with-ticketmaster-to-match-users-with-live-events-near-them/)
 - [PSVR 2 details: Everything we know about the PS5 VR headset](https://www.space.com/psvr-2-details-release-date-price-specs)
 - [On This Day in Space! Feb. 16, 1948: Gerard Kuiper discovers Uranus&#39; moon Miranda](https://www.space.com/39251-on-this-day-in-space.html)
 - [Historic sea level rise predicted by NASA and government task force](https://www.space.com/sea-level-rise-foot-2050-climate-change-report-nasa)
-- [Celebrate Perseverance rover&#39;s 1-year &#39;Marsiversary&#39; with these events](https://www.space.com/perseverance-mars-rover-landing-anniversary-events)
-- [Luxury watchmaker Ulysses Nardin unveils &#39;Blast Moonstruck&#39; watch that charts moon phases](https://www.space.com/blast-moonstruck-watch-moon-phases)
-- [Stronghold launches $100M venture arm to invest in underrepresented founders and fintech](https://techcrunch.com/2022/02/16/stronghold-launches-100m-venture-arm-to-invest-in-underrepresented-founders-fintech-web3/)
-- [CrowdForce raises $3.6M to increase access to cash for underserved communities in Nigeria](https://techcrunch.com/2022/02/16/crowdforce-raises-3-6m-to-increase-access-to-cash-for-underserved-communities-in-nigeria/)
-- [The Full Snow Moon of February 2022 rises tonight!](https://www.space.com/full-snow-moon-february-2022-tonight)
-- [African fintech Flutterwave triples valuation to over $3B after $250M Series D](https://techcrunch.com/2022/02/16/african-fintech-flutterwave-triples-valuation-to-over-3b-after-250m-series-d/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
