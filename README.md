@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SME lender Funding Societies raises $144M led by SoftBank Vision Fund 2, plus $150M in debt lines](https://techcrunch.com/2022/02/15/sme-lender-funding-societies-raises-144m-led-by-softbank-vision-fund-2-plus-150m-in-debt-lines/)
 - [1st image from NASA&#39;s new IXPE X-ray telescope looks like a ball of purple lightning](https://www.space.com/nasa-ixpe-xray-observatory-first-image)
 - [NASA probe snaps stunning photos of crescent Jupiter and its moon Ganymede](https://www.space.com/nasa-juno-stunning-images-jupiter-ganymede)
 - [Inside the Uber and Google settlement with Anthony Levandowski](https://techcrunch.com/2022/02/15/inside-the-uber-and-google-settlement-with-anthony-levandowski/)
@@ -104,7 +105,6 @@
 - [Airbnb’s pandemic slingshot nears completion](https://techcrunch.com/2022/02/15/airbnbs-pandemic-slingshot-nears-completion/)
 - [The early bird has landed — buy your in-person pass to TC Sessions: Mobility 2022 today and save](https://techcrunch.com/2022/02/15/the-early-bird-has-landed-buy-your-in-person-pass-to-tc-sessions-mobility-2022-today-and-save/)
 - [Akamai acquires Linode for $900M](https://techcrunch.com/2022/02/15/akamai-acquires-linode-for-900m/)
-- [Marvel Comics profiles the legendary Jedi Obi-Wan Kenobi in new &#39;Star Wars&#39; miniseries](https://www.space.com/star-wars-obi-wan-kenobi-marvel-comics)
 <!-- BLOG-POST-LIST:END -->
 
 ---
