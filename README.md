@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS brings its Local Zone mini data centers to 32 new cities](https://techcrunch.com/2022/02/16/aws-brings-its-local-zone-mini-data-centers-to-32-new-cities/)
+- [NASA&#39;s Chandra X-ray Observatory suffers camera glitch, stalling science](https://www.space.com/chandra-xray-space-telescope-camera-power-problem)
+- [Blueland raises more money to avoid shipping water around and reduce single-use plastics](https://techcrunch.com/2022/02/16/blueland-series-b/)
 - [China aims to complete space station, break launch record in 2022](https://www.space.com/china-will-complete-space-station-launch-record-2022)
 - [How to find a job as a scout for a VC firm](https://techcrunch.com/2022/02/16/how-to-find-a-job-as-a-scout-for-a-vc-firm/)
 - [Meta crowns Nick Clegg president of tilting at regulatory headwinds](https://techcrunch.com/2022/02/16/president-nick-clegg/)
 - [Sorry, Jack, you can send ETH tips via Twitter now](https://techcrunch.com/2022/02/16/twitter-ethereum-tips-tip-jar-wallet/)
 - [New atomic clock loses only one second every 300 billion years](https://www.space.com/atomic-clock-one-second-300-billion-years)
-- [Spotify snaps up podcast measurement and analytics firms, Podsights and Chartable](https://techcrunch.com/2022/02/16/spotify-snaps-up-podcast-measurement-and-analytics-firms-podsights-and-chartable/)
+- [Spotify snaps up podcast measurement and analytics firms Podsights and Chartable](https://techcrunch.com/2022/02/16/spotify-snaps-up-podcast-measurement-and-analytics-firms-podsights-and-chartable/)
 - [AI acquires the power to manipulate fusion, but wait, it’s actually good news](https://techcrunch.com/2022/02/16/ai-acquires-the-power-to-manipulate-fusion-but-wait-its-actually-good-news/)
-- [Twitter officially launches labels to identify the ‘good bots’](https://techcrunch.com/2022/02/16/twitter-officially-launches-labels-to-identify-the-good-bots/)
-- [How did Earth get its water? Moon rocks suggest it might have been here all along.](https://www.space.com/earth-water-origins-studied-moon-rocks)
-- [Dear Sophie: Should we seek a K-1 visa or marriage-based green card?](https://techcrunch.com/2022/02/16/dear-sophie-should-we-seek-a-k-1-visa-or-marriage-based-green-card/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
