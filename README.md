@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [1st image from NASA&#39;s new IXPE X-ray telescope looks like a ball of purple lightning](https://www.space.com/nasa-ixpe-xray-observatory-first-image)
+- [NASA probe snaps stunning photos of crescent Jupiter and its moon Ganymede](https://www.space.com/nasa-juno-stunning-images-jupiter-ganymede)
 - [Inside the Uber and Google settlement with Anthony Levandowski](https://techcrunch.com/2022/02/15/inside-the-uber-and-google-settlement-with-anthony-levandowski/)
 - [Why startups may want to rent hardware instead of buying it](https://techcrunch.com/2022/02/15/why-startups-may-want-to-rent-hardware-instead-of-buying-it/)
 - [Daily Crunch: India’s Central Bank says cryptocurrency ‘may even be worse’ than Ponzi schemes](https://techcrunch.com/2022/02/15/daily-crunch-indias-central-bank-says-cryptocurrency-may-even-be-worse-than-ponzi-schemes/)
@@ -103,8 +105,6 @@
 - [The early bird has landed — buy your in-person pass to TC Sessions: Mobility 2022 today and save](https://techcrunch.com/2022/02/15/the-early-bird-has-landed-buy-your-in-person-pass-to-tc-sessions-mobility-2022-today-and-save/)
 - [Akamai acquires Linode for $900M](https://techcrunch.com/2022/02/15/akamai-acquires-linode-for-900m/)
 - [Marvel Comics profiles the legendary Jedi Obi-Wan Kenobi in new &#39;Star Wars&#39; miniseries](https://www.space.com/star-wars-obi-wan-kenobi-marvel-comics)
-- [Transform your startup investors into growth marketers without them noticing](https://techcrunch.com/2022/02/15/transform-your-startup-investors-into-growth-marketers-without-them-noticing/)
-- [Cannabis beverage startup Cann raises $27M as it expands to Canada](https://techcrunch.com/2022/02/15/cannabis-beverage-startup-cann-raises-27m-as-it-expands-to-canada/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
