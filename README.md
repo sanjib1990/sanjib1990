@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GV’s Terri Burns outlines the essential do’s and don’ts of finding product-market fit at TechCrunch Early Stage](https://techcrunch.com/2022/02/16/gvs-terri-burns-outlines-the-essential-dos-and-donts-of-finding-product-market-fit-at-techcrunch-early-stage/)
+- [Scientists spot supermassive black hole hiding inside thick cosmic dust](https://www.space.com/supermassive-black-hole-found-through-cosmic-dust)
+- [With a $50M Series C, Instrumental looks to expand data-driven manufacturing solution](https://techcrunch.com/2022/02/16/with-a-50m-series-c-instrumental-looks-to-expand-data-driven-manufacturing-solution/)
+- [Spyware dealer who sold WhatsApp-hacking tech pleads guilty](https://techcrunch.com/2022/02/16/spyware-dealer-whatsapp-hack-guilty/)
 - [Founded by Opendoor and Twilio alums, Nomad closes on $20M to ‘transform the landlord-tenant experience’](https://techcrunch.com/2022/02/16/nomad-closes-on-20m-to-transform-the-landlord-tenant-experience/)
 - [It’s a boom! It’s a bubble? It’s a correction.](https://techcrunch.com/2022/02/16/its-a-boom-its-a-bubble-its-a-correction/)
 - [Welcome to the post-pandemic economy, startups](https://techcrunch.com/2022/02/16/welcome-to-the-post-pandemic-economy-startups/)
 - [Voila raises $6M for its A.I.-powered storefronts for online creators](https://techcrunch.com/2022/02/16/voila-raises-6m-for-its-a-i-powered-storefronts-for-online-creators/)
 - [Unit CEO Itai Damti and Flourish’s Emmalyn Shaw to explain fundraising strategies on TechCrunch Live](https://techcrunch.com/2022/02/16/unit-ceo-itai-damti-and-flourishs-emmalyn-shaw-to-explain-fundraising-strategies-on-techcrunch-live/)
 - [Vanilla Vida wants the world to eat more natural vanilla](https://techcrunch.com/2022/02/16/vanilla-vida-wants-the-world-to-eat-more-natural-vanilla/)
-- [Best asteroid movies, ranked](https://www.space.com/best-asteroid-movies)
-- [Spotter raises $200M to invest $1 billion into YouTubers’ back catalogs](https://techcrunch.com/2022/02/16/spotter-invest-youtubers-back-catalog/)
-- [Embracing aluminum containers, Uni wants to completely remove plastic packaging from your home](https://techcrunch.com/2022/02/16/uni-vs-plastic-round-1-fight/)
-- [New Relic launches its new infrastructure monitoring experience](https://techcrunch.com/2022/02/16/new-relic-launches-its-new-infrastructure-monitoring-experience/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
