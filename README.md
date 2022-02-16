@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Inside the Uber and Google settlement with Anthony Levandowski](https://techcrunch.com/2022/02/15/inside-the-uber-and-google-settlement-with-anthony-levandowski/)
+- [Why startups may want to rent hardware instead of buying it](https://techcrunch.com/2022/02/15/why-startups-may-want-to-rent-hardware-instead-of-buying-it/)
+- [Daily Crunch: India’s Central Bank says cryptocurrency ‘may even be worse’ than Ponzi schemes](https://techcrunch.com/2022/02/15/daily-crunch-indias-central-bank-says-cryptocurrency-may-even-be-worse-than-ponzi-schemes/)
+- [New DocuSign-Zoom integration lets you sign docs in a Zoom meeting](https://techcrunch.com/2022/02/15/new-docusign-zoom-integration-lets-you-sign-docs-in-a-zoom-meeting/)
+- [Airbnb’s pandemic slingshot nears completion](https://techcrunch.com/2022/02/15/airbnbs-pandemic-slingshot-nears-completion/)
 - [The early bird has landed — buy your in-person pass to TC Sessions: Mobility 2022 today and save](https://techcrunch.com/2022/02/15/the-early-bird-has-landed-buy-your-in-person-pass-to-tc-sessions-mobility-2022-today-and-save/)
 - [Akamai acquires Linode for $900M](https://techcrunch.com/2022/02/15/akamai-acquires-linode-for-900m/)
 - [Marvel Comics profiles the legendary Jedi Obi-Wan Kenobi in new &#39;Star Wars&#39; miniseries](https://www.space.com/star-wars-obi-wan-kenobi-marvel-comics)
 - [Transform your startup investors into growth marketers without them noticing](https://techcrunch.com/2022/02/15/transform-your-startup-investors-into-growth-marketers-without-them-noticing/)
 - [Cannabis beverage startup Cann raises $27M as it expands to Canada](https://techcrunch.com/2022/02/15/cannabis-beverage-startup-cann-raises-27m-as-it-expands-to-canada/)
-- [Existing investors double down on Ro at boosted $7 billion valuation](https://techcrunch.com/2022/02/15/existing-investors-double-down-on-ro-at-boosted-7-billion-valuation/)
-- [Twitter launches beta test of anti-abuse tool ‘Safety Mode,’ adds prompts to enable it](https://techcrunch.com/2022/02/15/twitter-expands-access-to-anti-abuse-tool-safety-mode-adds-prompts-to-enable-it/)
-- [TechCrunch+ roundup: Zendesk rejects $17B offer, sidewalk robots, recruiting survey](https://techcrunch.com/2022/02/15/techcrunch-roundup-zendesk-rejects-17b-offer-sidewalk-robots-recruiting-survey/)
-- [Virgin Galactic is reopening space tourist ticket sales for a limited time](https://www.space.com/virgin-galactic-reopening-ticket-sales-february-2022)
-- [Facebook renamed its ‘news feed’ to just ‘feed’](https://techcrunch.com/2022/02/15/facebook-renamed-its-news-feed-to-just-feed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
