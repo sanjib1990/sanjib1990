@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How did Earth get its water? Moon rocks suggest it might have been here all along.](https://www.space.com/earth-water-origins-studied-moon-rocks)
 - [Final space shuttle crewmates among three entering Astronaut Hall of Fame](https://www.space.com/astronaut-hall-fame-leestma-magnus-ferguson)
 - [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
 - [Giving discounts will bite ya — use them with caution](https://techcrunch.com/2022/02/16/beware-of-giving-discounts/)
@@ -104,7 +105,6 @@
 - [Google wants to bring its Privacy Sandbox to Android](https://techcrunch.com/2022/02/16/google-wants-to-bring-its-privacy-sandbox-to-android/)
 - [Red Cross says ‘state-sponsored’ hackers exploited unpatched vulnerability](https://techcrunch.com/2022/02/16/red-cross-links-january-cyberattack-to-state-sponsored-hackers/)
 - [Green is the fashion flavor of the week with Rubi Labs’ materials made from captured CO2](https://techcrunch.com/2022/02/16/rubi-laboratories-co2-capture/)
-- [Still managing engineers remotely? Okay has a performance dashboard for that](https://techcrunch.com/2022/02/16/still-managing-engineers-remotely-okay-has-a-performance-dashboard-for-that/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
