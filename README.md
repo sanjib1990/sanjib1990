@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [African fintech Flutterwave triples valuation to over $3B after $250M Series D](https://techcrunch.com/2022/02/16/african-fintech-flutterwave-triples-valuation-to-over-3b-after-250m-series-d/)
 - [Appboxo raises $7M to turn any app into a super app](https://techcrunch.com/2022/02/15/appboxo-raises-7m-to-turn-any-app-into-a-super-app/)
 - [SME lender Funding Societies raises $144M led by SoftBank Vision Fund 2, plus $150M in debt lines](https://techcrunch.com/2022/02/15/sme-lender-funding-societies-raises-144m-led-by-softbank-vision-fund-2-plus-150m-in-debt-lines/)
 - [1st image from NASA&#39;s new IXPE X-ray telescope looks like a ball of purple lightning](https://www.space.com/nasa-ixpe-xray-observatory-first-image)
@@ -104,7 +105,6 @@
 - [Daily Crunch: India’s Central Bank says cryptocurrency ‘may even be worse’ than Ponzi schemes](https://techcrunch.com/2022/02/15/daily-crunch-indias-central-bank-says-cryptocurrency-may-even-be-worse-than-ponzi-schemes/)
 - [New DocuSign-Zoom integration lets you sign docs in a Zoom meeting](https://techcrunch.com/2022/02/15/new-docusign-zoom-integration-lets-you-sign-docs-in-a-zoom-meeting/)
 - [Airbnb’s pandemic slingshot nears completion](https://techcrunch.com/2022/02/15/airbnbs-pandemic-slingshot-nears-completion/)
-- [The early bird has landed — buy your in-person pass to TC Sessions: Mobility 2022 today and save](https://techcrunch.com/2022/02/15/the-early-bird-has-landed-buy-your-in-person-pass-to-tc-sessions-mobility-2022-today-and-save/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
