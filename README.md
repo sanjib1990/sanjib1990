@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Founded by Opendoor and Twilio alums, Nomad closes on $20M to ‘transform the landlord-tenant experience’](https://techcrunch.com/2022/02/16/nomad-closes-on-20m-to-transform-the-landlord-tenant-experience/)
+- [It’s a boom! It’s a bubble? It’s a correction.](https://techcrunch.com/2022/02/16/its-a-boom-its-a-bubble-its-a-correction/)
+- [Welcome to the post-pandemic economy, startups](https://techcrunch.com/2022/02/16/welcome-to-the-post-pandemic-economy-startups/)
+- [Voila raises $6M for its A.I.-powered storefronts for online creators](https://techcrunch.com/2022/02/16/voila-raises-6m-for-its-a-i-powered-storefronts-for-online-creators/)
+- [Unit CEO Itai Damti and Flourish’s Emmalyn Shaw to explain fundraising strategies on TechCrunch Live](https://techcrunch.com/2022/02/16/unit-ceo-itai-damti-and-flourishs-emmalyn-shaw-to-explain-fundraising-strategies-on-techcrunch-live/)
+- [Vanilla Vida wants the world to eat more natural vanilla](https://techcrunch.com/2022/02/16/vanilla-vida-wants-the-world-to-eat-more-natural-vanilla/)
+- [Best asteroid movies, ranked](https://www.space.com/best-asteroid-movies)
 - [Spotter raises $200M to invest $1 billion into YouTubers’ back catalogs](https://techcrunch.com/2022/02/16/spotter-invest-youtubers-back-catalog/)
 - [Embracing aluminum containers, Uni wants to completely remove plastic packaging from your home](https://techcrunch.com/2022/02/16/uni-vs-plastic-round-1-fight/)
 - [New Relic launches its new infrastructure monitoring experience](https://techcrunch.com/2022/02/16/new-relic-launches-its-new-infrastructure-monitoring-experience/)
-- [Zavvy wants to modernize employee enablement](https://techcrunch.com/2022/02/16/zavvy-wants-to-modernize-employee-enablement/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [10 fintech investors discuss what they’re looking for and how to pitch them in Q1 2022](https://techcrunch.com/2022/02/16/10-fintech-investors-discuss-what-theyre-looking-for-and-how-to-pitch-them-in-q1-2022/)
-- [Employment Hero raises $181M AUD at $1.25B AUD valuation, acquires KeyPay](https://techcrunch.com/2022/02/16/employment-hero-raises-181m-aud-at-1-25b-aud-valuation-acquires-keypay/)
-- [Hong Kong’s offline and virtual events platform EventX closes $18M Series B](https://techcrunch.com/2022/02/16/eventx-18-million-series-b/)
-- [Following acquisition by Bowery, Traptic’s strawberry-picking robotics pivot to vertical farming](https://techcrunch.com/2022/02/16/following-acquisition-by-bowery-traptics-strawberry-picking-robotics-move-into-vertical-farming/)
-- [Best cameras for low light photography](https://www.space.com/best-cameras-for-low-light-photography)
 <!-- BLOG-POST-LIST:END -->
 
 ---
