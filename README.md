@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Snapchat partners with Ticketmaster to match users with live events near them](https://techcrunch.com/2022/02/16/snapchat-partners-with-ticketmaster-to-match-users-with-live-events-near-them/)
+- [PSVR 2 details: Everything we know about the PS5 VR headset](https://www.space.com/psvr-2-details-release-date-price-specs)
+- [On This Day in Space! Feb. 16, 1948: Gerard Kuiper discovers Uranus&#39; moon Miranda](https://www.space.com/39251-on-this-day-in-space.html)
+- [Historic sea level rise predicted by NASA and government task force](https://www.space.com/sea-level-rise-foot-2050-climate-change-report-nasa)
+- [Celebrate Perseverance rover&#39;s 1-year &#39;Marsiversary&#39; with these events](https://www.space.com/perseverance-mars-rover-landing-anniversary-events)
+- [Luxury watchmaker Ulysses Nardin unveils &#39;Blast Moonstruck&#39; watch that charts moon phases](https://www.space.com/blast-moonstruck-watch-moon-phases)
 - [Stronghold launches $100M venture arm to invest in underrepresented founders and fintech](https://techcrunch.com/2022/02/16/stronghold-launches-100m-venture-arm-to-invest-in-underrepresented-founders-fintech-web3/)
 - [CrowdForce raises $3.6M to increase access to cash for underserved communities in Nigeria](https://techcrunch.com/2022/02/16/crowdforce-raises-3-6m-to-increase-access-to-cash-for-underserved-communities-in-nigeria/)
 - [The Full Snow Moon of February 2022 rises tonight!](https://www.space.com/full-snow-moon-february-2022-tonight)
 - [African fintech Flutterwave triples valuation to over $3B after $250M Series D](https://techcrunch.com/2022/02/16/african-fintech-flutterwave-triples-valuation-to-over-3b-after-250m-series-d/)
-- [Appboxo raises $7M to turn any app into a super app](https://techcrunch.com/2022/02/15/appboxo-raises-7m-to-turn-any-app-into-a-super-app/)
-- [SME lender Funding Societies raises $144M led by SoftBank Vision Fund 2, plus $150M in debt lines](https://techcrunch.com/2022/02/15/sme-lender-funding-societies-raises-144m-led-by-softbank-vision-fund-2-plus-150m-in-debt-lines/)
-- [1st image from NASA&#39;s new IXPE X-ray telescope looks like a ball of purple lightning](https://www.space.com/nasa-ixpe-xray-observatory-first-image)
-- [NASA probe snaps stunning photos of crescent Jupiter and its moon Ganymede](https://www.space.com/nasa-juno-stunning-images-jupiter-ganymede)
-- [Inside the Uber and Google settlement with Anthony Levandowski](https://techcrunch.com/2022/02/15/inside-the-uber-and-google-settlement-with-anthony-levandowski/)
-- [Why startups may want to rent hardware instead of buying it](https://techcrunch.com/2022/02/15/why-startups-may-want-to-rent-hardware-instead-of-buying-it/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
