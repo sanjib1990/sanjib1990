@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sony Ventures Corporation hits first close of its $215M fourth fund](https://techcrunch.com/2022/02/17/sony-ventures-corporation-hits-first-close-on-its-215m-fourth-fund/)
 - [Earnipay raises $4M to help employees in Nigeria get faster access to their salaries](https://techcrunch.com/2022/02/17/earnipay-raises-4m-to-help-employees-in-nigeria-get-faster-access-to-their-salaries/)
 - [Intergiro de-cloaks as a new FinTech startup in ’embedded banking’](https://techcrunch.com/2022/02/17/intergiro-de-cloaks-as-a-new-fintech-startup-in-embedded-banking/)
 - [Morocco’s Freterium grabs $4M to scale its freight trucking software across MENA](https://techcrunch.com/2022/02/17/moroccos-freterium-grabs-4m-to-scale-its-freight-trucking-software-across-mena/)
@@ -104,7 +105,6 @@
 - [Staten Island Amazon workers’ union election planned for next month](https://techcrunch.com/2022/02/16/staten-island-amazon-workers-union-election-planned-for-next-month/)
 - [Daily Crunch: With $250M Series D, fintech Flutterwave becomes Africa’s highest-valued startup](https://techcrunch.com/2022/02/16/daily-crunch-with-250m-series-d-fintech-flutterwave-becomes-africas-highest-valued-startup/)
 - [AWS brings its Local Zones mini data centers to 32 new cities](https://techcrunch.com/2022/02/16/aws-brings-its-local-zone-mini-data-centers-to-32-new-cities/)
-- [NASA&#39;s Chandra X-ray Observatory suffers camera glitch, stalling science](https://www.space.com/chandra-xray-space-telescope-camera-power-problem)
 <!-- BLOG-POST-LIST:END -->
 
 ---
