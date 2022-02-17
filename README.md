@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Celestron telescope &amp; binocular deals you can still get: Discounts &amp; what&#39;s in stock](https://www.space.com/38901-celestron-deals-telescopes-binoculars.html)
 - [Sony Ventures Corporation hits first close of its $215M fourth fund](https://techcrunch.com/2022/02/17/sony-ventures-corporation-hits-first-close-on-its-215m-fourth-fund/)
 - [Earnipay raises $4M to help employees in Nigeria get faster access to their salaries](https://techcrunch.com/2022/02/17/earnipay-raises-4m-to-help-employees-in-nigeria-get-faster-access-to-their-salaries/)
 - [Intergiro de-cloaks as a new FinTech startup in ’embedded banking’](https://techcrunch.com/2022/02/17/intergiro-de-cloaks-as-a-new-fintech-startup-in-embedded-banking/)
@@ -104,7 +105,6 @@
 - [Fisker touts 31,000 reservations for its Ocean SUV as production draws closer](https://techcrunch.com/2022/02/16/fisker-touts-31000-reservations-for-its-ocean-suv-as-production-draws-closer/)
 - [Staten Island Amazon workers’ union election planned for next month](https://techcrunch.com/2022/02/16/staten-island-amazon-workers-union-election-planned-for-next-month/)
 - [Daily Crunch: With $250M Series D, fintech Flutterwave becomes Africa’s highest-valued startup](https://techcrunch.com/2022/02/16/daily-crunch-with-250m-series-d-fintech-flutterwave-becomes-africas-highest-valued-startup/)
-- [AWS brings its Local Zones mini data centers to 32 new cities](https://techcrunch.com/2022/02/16/aws-brings-its-local-zone-mini-data-centers-to-32-new-cities/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
