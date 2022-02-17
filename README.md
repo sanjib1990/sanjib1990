@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Snapchat will let you change your username starting February 23](https://techcrunch.com/2022/02/17/snapchat-change-username/)
+- [Via competitor RideCo raises $16M to expand on-demand transit software](https://techcrunch.com/2022/02/17/via-competitor-rideco-raises-16m-to-expand-on-demand-transit-software/)
+- [Remote hiring startup Deel’s new feature gives businesses the option to fund payroll in crypto](https://techcrunch.com/2022/02/17/remote-hiring-startup-deel-gives-businesses-the-option-to-run-their-payroll-in-crypto/)
+- [Coast lands $27.5M from VC firms, slew of founders to provide expense management to fleet operators](https://techcrunch.com/2022/02/17/coast-lands-27-5m-from-vc-firms-slew-of-founders-to-provide-expense-management-to-fleet-operators/)
+- [Circle to double in value to $9 billion with revamped SPAC deal](https://techcrunch.com/2022/02/17/circle-to-double-in-value-to-9-billion-with-revamped-spac-deal/)
+- [Ibex Investors’ newest fund is betting on a mobility revolution](https://techcrunch.com/2022/02/17/ibex-investors-newest-fund-is/)
 - [Webb’s Fine Guidance Sensor Is Guiding!](https://blogs.nasa.gov/webb/2022/02/17/webbs-fine-guidance-sensor-is-guiding/)
 - [Subskribe revamps quote-to-revenue approach for new ‘post-subscription SaaS’ world](https://techcrunch.com/2022/02/17/subskribe-revamps-quote-to-revenue-approach-for-new-post-subscription-saas-world/)
 - [Havenly acquires direct-to-consumer home furnishing company The Inside](https://techcrunch.com/2022/02/17/havenly-acquires-direct-to-consumer-home-furnishing-company-the-inside/)
 - [Convictional grabs another round of funding to help retailers quickly onboard vendors](https://techcrunch.com/2022/02/17/convictional-grabs-another-round-of-funding-to-help-retailers-quickly-onboard-vendors/)
-- [3 keys that unlock data-driven fundraising](https://techcrunch.com/2022/02/17/3-keys-that-unlock-data-driven-fundraising/)
-- [Salesforce teams with AWS on direct-to-consumer streaming media solution](https://techcrunch.com/2022/02/17/salesforce-teams-with-aws-on-direct-to-consumer-streaming-media-solution/)
-- [Goldcast spotlights which event attendees will be your next customer](https://techcrunch.com/2022/02/17/goldcast-spotlights-which-event-attendees-will-be-your-next-customer/)
-- [Multis wants to build the financial backbone of crypto-native organizations](https://techcrunch.com/2022/02/17/multis-wants-to-build-the-financial-backbone-of-crypto-native-organizations/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [Telescope deals: Top picks from Celestron, Sky-Watcher and others](https://www.space.com/telescopes-deals-sale-discount)
 <!-- BLOG-POST-LIST:END -->
 
 ---
