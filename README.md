@@ -95,6 +95,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Morocco’s Freterium grabs $4M to scale its freight trucking software across MENA](https://techcrunch.com/2022/02/17/moroccos-freterium-grabs-4m-to-scale-its-freight-trucking-software-across-mena/)
+- [Indian social commerce startup DealShare bags $45 million from Abu Dhabi Investment Authority](https://techcrunch.com/2022/02/16/indian-social-commerce-startup-dealshare-bags-45-million-from-abu-dhabi-investment-authority/)
+- [Russian Progress freighter delivers 2.8 tons of supplies to International Space Station](https://www.space.com/russian-progress-80-spacecraft-arrives-international-space-station)
 - [Fisker touts 31,000 reservations for its Ocean SUV as production draws closer](https://techcrunch.com/2022/02/16/fisker-touts-31000-reservations-for-its-ocean-suv-as-production-draws-closer/)
 - [Staten Island Amazon workers’ union election planned for next month](https://techcrunch.com/2022/02/16/staten-island-amazon-workers-union-election-planned-for-next-month/)
 - [Daily Crunch: With $250M Series D, fintech Flutterwave becomes Africa’s highest-valued startup](https://techcrunch.com/2022/02/16/daily-crunch-with-250m-series-d-fintech-flutterwave-becomes-africas-highest-valued-startup/)
@@ -102,9 +105,6 @@
 - [NASA&#39;s Chandra X-ray Observatory suffers camera glitch, stalling science](https://www.space.com/chandra-xray-space-telescope-camera-power-problem)
 - [Blueland raises more money to avoid shipping water around and reduce single-use plastics](https://techcrunch.com/2022/02/16/blueland-series-b/)
 - [China aims to complete space station, break launch record in 2022](https://www.space.com/china-will-complete-space-station-launch-record-2022)
-- [How to find a job as a scout for a VC firm](https://techcrunch.com/2022/02/16/how-to-find-a-job-as-a-scout-for-a-vc-firm/)
-- [Meta crowns Nick Clegg president of tilting at regulatory headwinds](https://techcrunch.com/2022/02/16/president-nick-clegg/)
-- [Sorry, Jack, you can send ETH tips via Twitter now](https://techcrunch.com/2022/02/16/twitter-ethereum-tips-tip-jar-wallet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
