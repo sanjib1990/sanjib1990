@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ford, Volvo join Redwood Materials to launch free EV battery recycling program in California](https://techcrunch.com/2022/02/17/ford-volvo-join-redwood-materials-to-launch-free-ev-battery-recycling-program-in-california/)
+- [Why you shouldn’t ignore Europe’s deep tech boom](https://techcrunch.com/2022/02/17/why-you-shouldnt-ignore-europes-deep-tech-boom/)
 - [Snapchat will let you change your username starting February 23](https://techcrunch.com/2022/02/17/snapchat-change-username/)
 - [Via competitor RideCo raises $16M to expand on-demand transit software](https://techcrunch.com/2022/02/17/via-competitor-rideco-raises-16m-to-expand-on-demand-transit-software/)
 - [Remote hiring startup Deel’s new feature gives businesses the option to fund payroll in crypto](https://techcrunch.com/2022/02/17/remote-hiring-startup-deel-gives-businesses-the-option-to-run-their-payroll-in-crypto/)
@@ -103,8 +105,6 @@
 - [Ibex Investors’ newest fund is betting on a mobility revolution](https://techcrunch.com/2022/02/17/ibex-investors-newest-fund-is/)
 - [Webb’s Fine Guidance Sensor Is Guiding!](https://blogs.nasa.gov/webb/2022/02/17/webbs-fine-guidance-sensor-is-guiding/)
 - [Subskribe revamps quote-to-revenue approach for new ‘post-subscription SaaS’ world](https://techcrunch.com/2022/02/17/subskribe-revamps-quote-to-revenue-approach-for-new-post-subscription-saas-world/)
-- [Havenly acquires direct-to-consumer home furnishing company The Inside](https://techcrunch.com/2022/02/17/havenly-acquires-direct-to-consumer-home-furnishing-company-the-inside/)
-- [Convictional grabs another round of funding to help retailers quickly onboard vendors](https://techcrunch.com/2022/02/17/convictional-grabs-another-round-of-funding-to-help-retailers-quickly-onboard-vendors/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
