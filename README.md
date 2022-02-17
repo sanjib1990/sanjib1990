@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fisker touts 31,000 reservations for its Ocean SUV as production draws closer](https://techcrunch.com/2022/02/16/fisker-touts-31000-reservations-for-its-ocean-suv-as-production-draws-closer/)
 - [Staten Island Amazon workers’ union election planned for next month](https://techcrunch.com/2022/02/16/staten-island-amazon-workers-union-election-planned-for-next-month/)
 - [Daily Crunch: With $250M Series D, fintech Flutterwave becomes Africa’s highest-valued startup](https://techcrunch.com/2022/02/16/daily-crunch-with-250m-series-d-fintech-flutterwave-becomes-africas-highest-valued-startup/)
 - [AWS brings its Local Zones mini data centers to 32 new cities](https://techcrunch.com/2022/02/16/aws-brings-its-local-zone-mini-data-centers-to-32-new-cities/)
@@ -104,7 +105,6 @@
 - [How to find a job as a scout for a VC firm](https://techcrunch.com/2022/02/16/how-to-find-a-job-as-a-scout-for-a-vc-firm/)
 - [Meta crowns Nick Clegg president of tilting at regulatory headwinds](https://techcrunch.com/2022/02/16/president-nick-clegg/)
 - [Sorry, Jack, you can send ETH tips via Twitter now](https://techcrunch.com/2022/02/16/twitter-ethereum-tips-tip-jar-wallet/)
-- [New atomic clock loses only one second every 300 billion years](https://www.space.com/atomic-clock-one-second-300-billion-years)
 <!-- BLOG-POST-LIST:END -->
 
 ---
