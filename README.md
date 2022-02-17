@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Actual, which renders company ESG data in a SimCity-like platform, raises $5M Seed](https://techcrunch.com/2022/02/17/actual-which-renders-company-esg-data-in-a-simcity-like-platform-raises-5m-seed/)
+- [Metriport helps you take your quantified self to the next increment](https://techcrunch.com/2022/02/17/metriport-merrily-measures-your-me-verse/)
+- [Voltron Data grabs $110M to build startup based on Apache Arrow project](https://techcrunch.com/2022/02/17/voltron-data-grabs-110m-to-build-startup-based-on-apache-arrow-project/)
+- [Backed by Accel, Minoan Experience is creating a new category of e-commerce called “native retail”](https://techcrunch.com/2022/02/17/backed-by-accel-minoan-experience-is-creating-a-new-category-of-e-commerce-called-native-retail/)
+- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
+- [What is Space?](https://www.space.com/24870-what-is-space.html)
+- [Mount Etna is erupting and astronauts are watching it from space](https://www.space.com/mount-etna-astronauts-photos-eruption-2022)
+- [Beem, an app that lets you live-stream yourself in AR, raises $4 million](https://techcrunch.com/2022/02/17/beem-an-app-that-lets-you-live-stream-yourself-in-ar-raises-4-million/)
+- [James Webb Space Telescope has locked onto guide star in crucial milestone](https://www.space.com/james-webb-space-telescope-locks-first-star)
 - [Ford, Volvo join Redwood Materials to launch free EV battery recycling program in California](https://techcrunch.com/2022/02/17/ford-volvo-join-redwood-materials-to-launch-free-ev-battery-recycling-program-in-california/)
-- [Why you shouldn’t ignore Europe’s deep tech boom](https://techcrunch.com/2022/02/17/why-you-shouldnt-ignore-europes-deep-tech-boom/)
-- [Snapchat will let you change your username starting February 23](https://techcrunch.com/2022/02/17/snapchat-change-username/)
-- [Via competitor RideCo raises $16M to expand on-demand transit software](https://techcrunch.com/2022/02/17/via-competitor-rideco-raises-16m-to-expand-on-demand-transit-software/)
-- [Remote hiring startup Deel’s new feature gives businesses the option to fund payroll in crypto](https://techcrunch.com/2022/02/17/remote-hiring-startup-deel-gives-businesses-the-option-to-run-their-payroll-in-crypto/)
-- [Coast lands $27.5M from VC firms, slew of founders to provide expense management to fleet operators](https://techcrunch.com/2022/02/17/coast-lands-27-5m-from-vc-firms-slew-of-founders-to-provide-expense-management-to-fleet-operators/)
-- [Circle to double in value to $9 billion with revamped SPAC deal](https://techcrunch.com/2022/02/17/circle-to-double-in-value-to-9-billion-with-revamped-spac-deal/)
-- [Ibex Investors’ newest fund is betting on a mobility revolution](https://techcrunch.com/2022/02/17/ibex-investors-newest-fund-is/)
-- [Webb’s Fine Guidance Sensor Is Guiding!](https://blogs.nasa.gov/webb/2022/02/17/webbs-fine-guidance-sensor-is-guiding/)
-- [Subskribe revamps quote-to-revenue approach for new ‘post-subscription SaaS’ world](https://techcrunch.com/2022/02/17/subskribe-revamps-quote-to-revenue-approach-for-new-post-subscription-saas-world/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
