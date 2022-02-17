@@ -95,6 +95,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [As Databricks reaches $800M ARR, a fresh look at its last private valuation](https://techcrunch.com/2022/02/17/as-databricks-reaches-800m-arr-a-fresh-look-at-its-last-private-valuation/)
+- [How to grow your organic traffic with earned media](https://techcrunch.com/2022/02/17/how-to-grow-your-organic-traffic-with-earned-media/)
+- [Ford’s Mustang Mach-E ousts the Tesla Model 3 as Consumer Reports’ top EV](https://techcrunch.com/2022/02/17/fords-mustang-mach-e-ousts-the-tesla-model-3-as-consumer-reports-top-ev/)
 - [Soar over the desert in footage from drone practicing for mission to Saturn&#39;s strangest moon](https://www.space.com/titan-dragonfly-drone-testing-desert-video)
 - [Twitter now lets you pin up to 6 DM conversations](https://techcrunch.com/2022/02/17/twitter-now-lets-you-pin-up-to-6-dm-conversations/)
 - [Super Bowl ads boosted crypto app downloads by 279%, led by Coinbase](https://techcrunch.com/2022/02/17/super-bowl-ads-boosted-crypto-app-downloads-by-279-led-by-coinbase/)
@@ -102,9 +105,6 @@
 - [Spotify must be more transparent about its rules of the road](https://techcrunch.com/2022/02/17/spotify-must-be-more-transparent-about-its-rules-of-the-road/)
 - [Astronomers discover massive radio galaxy 100 times larger than the Milky Way](https://www.space.com/large-radio-galaxy-alcyoneus-discovery)
 - [One day soon, a robot will make you a salad](https://techcrunch.com/2022/02/17/one-day-soon-a-robot-will-make-you-a-salad/)
-- [Peloton adds gaming-inspired ‘Lanebreak,’ which looks like ‘Beatsaber’ on a bike](https://techcrunch.com/2022/02/17/peloton-lanebreak-gaming-fitness/)
-- [Unit’s Itai Damti explains how the company fundraises using culture and value](https://techcrunch.com/2022/02/17/units-itai-damti-explains-how-the-company-fundraises-using-culture-and-value/)
-- [Elon Musk accuses SEC of conducting a ‘harassment campaign’](https://techcrunch.com/2022/02/17/elon-musk-accuses-sec-of-conducting-a-harassment-campaign/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
