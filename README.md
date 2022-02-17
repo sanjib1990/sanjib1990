@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Webb’s Fine Guidance Sensor Is Guiding!](https://blogs.nasa.gov/webb/2022/02/17/webbs-fine-guidance-sensor-is-guiding/)
+- [Subskribe revamps quote-to-revenue approach for new ‘post-subscription SaaS’ world](https://techcrunch.com/2022/02/17/subskribe-revamps-quote-to-revenue-approach-for-new-post-subscription-saas-world/)
+- [Havenly acquires direct-to-consumer home furnishing company The Inside](https://techcrunch.com/2022/02/17/havenly-acquires-direct-to-consumer-home-furnishing-company-the-inside/)
+- [Convictional grabs another round of funding to help retailers quickly onboard vendors](https://techcrunch.com/2022/02/17/convictional-grabs-another-round-of-funding-to-help-retailers-quickly-onboard-vendors/)
+- [3 keys that unlock data-driven fundraising](https://techcrunch.com/2022/02/17/3-keys-that-unlock-data-driven-fundraising/)
 - [Salesforce teams with AWS on direct-to-consumer streaming media solution](https://techcrunch.com/2022/02/17/salesforce-teams-with-aws-on-direct-to-consumer-streaming-media-solution/)
 - [Goldcast spotlights which event attendees will be your next customer](https://techcrunch.com/2022/02/17/goldcast-spotlights-which-event-attendees-will-be-your-next-customer/)
 - [Multis wants to build the financial backbone of crypto-native organizations](https://techcrunch.com/2022/02/17/multis-wants-to-build-the-financial-backbone-of-crypto-native-organizations/)
 - [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [Telescope deals: Top picks from Celestron, Sky-Watcher and others](https://www.space.com/telescopes-deals-sale-discount)
-- [Amazon reaches deal to continue accepting Visa payments worldwide](https://techcrunch.com/2022/02/17/amazon-reaches-deal-to-continue-accepting-visa-payments-worldwide/)
-- [Dutch raises $20M to scale its telemedicine platform for pets](https://techcrunch.com/2022/02/17/dutch-raises-20m-to-scale-its-telemedicine-platform-for-pets/)
-- [New York’s Thrive Capital closes its eighth fund with a whopping $3 billion](https://techcrunch.com/2022/02/17/new-yorks-thrive-capital-closes-its-eighth-fund-with-a-whopping-3-billion/)
-- [The astronaut&#39;s playlist: Groovy songs for space travelers](https://www.space.com/11037-space-music-playlist-astronauts-wakeup.html)
-- [NASA&#39;s InSight Mars lander bounces back from dust storm, but its days are numbered](https://www.space.com/nasa-mars-insight-dust-storm-power-levels-norml)
 <!-- BLOG-POST-LIST:END -->
 
 ---
