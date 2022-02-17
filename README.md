@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon reaches deal to continue accepting Visa payments worldwide](https://techcrunch.com/2022/02/17/amazon-reaches-deal-to-continue-accepting-visa-payments-worldwide/)
+- [Dutch raises $20M to scale its telemedicine platform for pets](https://techcrunch.com/2022/02/17/dutch-raises-20m-to-scale-its-telemedicine-platform-for-pets/)
+- [New York’s Thrive Capital closes its eighth fund with a whopping $3 billion](https://techcrunch.com/2022/02/17/new-yorks-thrive-capital-closes-its-eighth-fund-with-a-whopping-3-billion/)
+- [The astronaut&#39;s playlist: Groovy songs for space travelers](https://www.space.com/11037-space-music-playlist-astronauts-wakeup.html)
+- [NASA&#39;s InSight Mars lander bounces back from dust storm, but its days are numbered](https://www.space.com/nasa-mars-insight-dust-storm-power-levels-norml)
+- [Scientists spot 10,000th medium near-Earth asteroid in planetary defense milestone](https://www.space.com/planetary-defense-10000th-medium-near-earth-asteroid)
+- [What&#39;s the maximum number of planets that could orbit the sun?](https://www.space.com/maximum-number-of-planets-orbit-sun)
 - [Celestron telescope &amp; binocular deals you can still get: Discounts &amp; what&#39;s in stock](https://www.space.com/38901-celestron-deals-telescopes-binoculars.html)
 - [Sony Ventures Corporation hits first close of its $215M fourth fund](https://techcrunch.com/2022/02/17/sony-ventures-corporation-hits-first-close-on-its-215m-fourth-fund/)
 - [Earnipay raises $4M to help employees in Nigeria get faster access to their salaries](https://techcrunch.com/2022/02/17/earnipay-raises-4m-to-help-employees-in-nigeria-get-faster-access-to-their-salaries/)
-- [Intergiro de-cloaks as a new FinTech startup in ’embedded banking’](https://techcrunch.com/2022/02/17/intergiro-de-cloaks-as-a-new-fintech-startup-in-embedded-banking/)
-- [Morocco’s Freterium grabs $4M to scale its freight trucking software across MENA](https://techcrunch.com/2022/02/17/moroccos-freterium-grabs-4m-to-scale-its-freight-trucking-software-across-mena/)
-- [Indian social commerce DealShare bags $45 million from ADIA, eyes international expansion](https://techcrunch.com/2022/02/16/indian-social-commerce-startup-dealshare-bags-45-million-from-abu-dhabi-investment-authority/)
-- [Russian Progress freighter delivers 2.8 tons of supplies to International Space Station](https://www.space.com/russian-progress-80-spacecraft-arrives-international-space-station)
-- [Fisker touts 31,000 reservations for its Ocean SUV as production draws closer](https://techcrunch.com/2022/02/16/fisker-touts-31000-reservations-for-its-ocean-suv-as-production-draws-closer/)
-- [Staten Island Amazon workers’ union election planned for next month](https://techcrunch.com/2022/02/16/staten-island-amazon-workers-union-election-planned-for-next-month/)
-- [Daily Crunch: With $250M Series D, fintech Flutterwave becomes Africa’s highest-valued startup](https://techcrunch.com/2022/02/16/daily-crunch-with-250m-series-d-fintech-flutterwave-becomes-africas-highest-valued-startup/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
