@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Peloton adds gaming-inspired ‘Lanebreak,’ which looks like ‘Beatsaber’ on a bike](https://techcrunch.com/2022/02/17/peloton-lanebreak-gaming-fitness/)
+- [Unit’s Itai Damti explains how the company fundraises using culture and value](https://techcrunch.com/2022/02/17/units-itai-damti-explains-how-the-company-fundraises-using-culture-and-value/)
+- [Elon Musk accuses SEC of conducting a ‘harassment campaign’](https://techcrunch.com/2022/02/17/elon-musk-accuses-sec-of-conducting-a-harassment-campaign/)
 - [Actual, which renders company ESG data in a SimCity-like platform, raises $5M Seed](https://techcrunch.com/2022/02/17/actual-which-renders-company-esg-data-in-a-simcity-like-platform-raises-5m-seed/)
 - [Metriport helps you take your quantified self to the next increment](https://techcrunch.com/2022/02/17/metriport-merrily-measures-your-me-verse/)
 - [Voltron Data grabs $110M to build startup based on Apache Arrow project](https://techcrunch.com/2022/02/17/voltron-data-grabs-110m-to-build-startup-based-on-apache-arrow-project/)
-- [Backed by Accel, Minoan Experience is creating a new category of e-commerce called “native retail”](https://techcrunch.com/2022/02/17/backed-by-accel-minoan-experience-is-creating-a-new-category-of-e-commerce-called-native-retail/)
+- [Backed by Accel, Minoan Experience is creating a new category of e-commerce called ‘native retail’](https://techcrunch.com/2022/02/17/backed-by-accel-minoan-experience-is-creating-a-new-category-of-e-commerce-called-native-retail/)
 - [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
 - [What is Space?](https://www.space.com/24870-what-is-space.html)
 - [Mount Etna is erupting and astronauts are watching it from space](https://www.space.com/mount-etna-astronauts-photos-eruption-2022)
-- [Beem, an app that lets you live-stream yourself in AR, raises $4 million](https://techcrunch.com/2022/02/17/beem-an-app-that-lets-you-live-stream-yourself-in-ar-raises-4-million/)
-- [James Webb Space Telescope has locked onto guide star in crucial milestone](https://www.space.com/james-webb-space-telescope-locks-first-star)
-- [Ford, Volvo join Redwood Materials to launch free EV battery recycling program in California](https://techcrunch.com/2022/02/17/ford-volvo-join-redwood-materials-to-launch-free-ev-battery-recycling-program-in-california/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
