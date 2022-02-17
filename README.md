@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Soar over the desert in footage from drone practicing for mission to Saturn&#39;s strangest moon](https://www.space.com/titan-dragonfly-drone-testing-desert-video)
 - [Twitter now lets you pin up to 6 DM conversations](https://techcrunch.com/2022/02/17/twitter-now-lets-you-pin-up-to-6-dm-conversations/)
 - [Super Bowl ads boosted crypto app downloads by 279%, led by Coinbase](https://techcrunch.com/2022/02/17/super-bowl-ads-boosted-crypto-app-downloads-by-279-led-by-coinbase/)
 - [Vertical integration](https://techcrunch.com/2022/02/17/vertical-integration/)
@@ -104,7 +105,6 @@
 - [Peloton adds gaming-inspired ‘Lanebreak,’ which looks like ‘Beatsaber’ on a bike](https://techcrunch.com/2022/02/17/peloton-lanebreak-gaming-fitness/)
 - [Unit’s Itai Damti explains how the company fundraises using culture and value](https://techcrunch.com/2022/02/17/units-itai-damti-explains-how-the-company-fundraises-using-culture-and-value/)
 - [Elon Musk accuses SEC of conducting a ‘harassment campaign’](https://techcrunch.com/2022/02/17/elon-musk-accuses-sec-of-conducting-a-harassment-campaign/)
-- [Actual, which renders company ESG data in a SimCity-like platform, raises $5M Seed](https://techcrunch.com/2022/02/17/actual-which-renders-company-esg-data-in-a-simcity-like-platform-raises-5m-seed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
