@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fire-safety experiment among science gear launching to International Space Station this weekend](https://www.space.com/fire-safety-experiment-cygnus-ng-17-launch)
+- [NASA&#39;s Curiosity rover on Mars is watching the clouds drift by and they&#39;re beautiful](https://www.space.com/curiosity-rover-spots-mars-clouds-overhead)
 - [As Databricks reaches $800M ARR, a fresh look at its last private valuation](https://techcrunch.com/2022/02/17/as-databricks-reaches-800m-arr-a-fresh-look-at-its-last-private-valuation/)
 - [How to grow your organic traffic with earned media](https://techcrunch.com/2022/02/17/how-to-grow-your-organic-traffic-with-earned-media/)
 - [Ford’s Mustang Mach-E ousts the Tesla Model 3 as Consumer Reports’ top EV](https://techcrunch.com/2022/02/17/fords-mustang-mach-e-ousts-the-tesla-model-3-as-consumer-reports-top-ev/)
@@ -103,8 +105,6 @@
 - [Super Bowl ads boosted crypto app downloads by 279%, led by Coinbase](https://techcrunch.com/2022/02/17/super-bowl-ads-boosted-crypto-app-downloads-by-279-led-by-coinbase/)
 - [Vertical integration](https://techcrunch.com/2022/02/17/vertical-integration/)
 - [Spotify must be more transparent about its rules of the road](https://techcrunch.com/2022/02/17/spotify-must-be-more-transparent-about-its-rules-of-the-road/)
-- [Astronomers discover massive radio galaxy 100 times larger than the Milky Way](https://www.space.com/large-radio-galaxy-alcyoneus-discovery)
-- [One day soon, a robot will make you a salad](https://techcrunch.com/2022/02/17/one-day-soon-a-robot-will-make-you-a-salad/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
