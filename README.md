@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter now lets you pin up to 6 DM conversations](https://techcrunch.com/2022/02/17/twitter-now-lets-you-pin-up-to-6-dm-conversations/)
+- [Super Bowl ads boosted crypto app downloads by 279%, led by Coinbase](https://techcrunch.com/2022/02/17/super-bowl-ads-boosted-crypto-app-downloads-by-279-led-by-coinbase/)
+- [Vertical integration](https://techcrunch.com/2022/02/17/vertical-integration/)
+- [Spotify must be more transparent about its rules of the road](https://techcrunch.com/2022/02/17/spotify-must-be-more-transparent-about-its-rules-of-the-road/)
 - [Astronomers discover massive radio galaxy 100 times larger than the Milky Way](https://www.space.com/large-radio-galaxy-alcyoneus-discovery)
 - [One day soon, a robot will make you a salad](https://techcrunch.com/2022/02/17/one-day-soon-a-robot-will-make-you-a-salad/)
 - [Peloton adds gaming-inspired ‘Lanebreak,’ which looks like ‘Beatsaber’ on a bike](https://techcrunch.com/2022/02/17/peloton-lanebreak-gaming-fitness/)
 - [Unit’s Itai Damti explains how the company fundraises using culture and value](https://techcrunch.com/2022/02/17/units-itai-damti-explains-how-the-company-fundraises-using-culture-and-value/)
 - [Elon Musk accuses SEC of conducting a ‘harassment campaign’](https://techcrunch.com/2022/02/17/elon-musk-accuses-sec-of-conducting-a-harassment-campaign/)
 - [Actual, which renders company ESG data in a SimCity-like platform, raises $5M Seed](https://techcrunch.com/2022/02/17/actual-which-renders-company-esg-data-in-a-simcity-like-platform-raises-5m-seed/)
-- [Metriport helps you take your quantified self to the next increment](https://techcrunch.com/2022/02/17/metriport-merrily-measures-your-me-verse/)
-- [Voltron Data grabs $110M to build startup based on Apache Arrow project](https://techcrunch.com/2022/02/17/voltron-data-grabs-110m-to-build-startup-based-on-apache-arrow-project/)
-- [Backed by Accel, Minoan Experience is creating a new category of e-commerce called ‘native retail’](https://techcrunch.com/2022/02/17/backed-by-accel-minoan-experience-is-creating-a-new-category-of-e-commerce-called-native-retail/)
-- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
