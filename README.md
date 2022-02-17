@@ -78,6 +78,7 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [if if if if if....elif](https://www.youtube.com/watch?v=Ec9WQGw4lW0)
 - [Firebase in 100 Seconds](https://www.youtube.com/watch?v=vAoB4VbhRzM)
 - [i HACKED my wife’s web browser &lpar;it’s SCARY easy!!&rpar;](https://www.youtube.com/watch?v=3ogyS4KOlXc)
 - [7 ways to deal with CSS](https://www.youtube.com/watch?v=ouncVBiye_M)
@@ -87,7 +88,6 @@
 - [2 cool &lpar;web&rpar; things to do in Linux // Linux for Hackers // EP 8](https://www.youtube.com/watch?v=HSRghjwTTOQ)
 - [How to Learn to Code - 8 Hard Truths](https://www.youtube.com/watch?v=NtfbWkxJTHw)
 - [What is SRE | Tasks and Responsibilities of an SRE | SRE vs DevOps](https://www.youtube.com/watch?v=OnK4IKgLl24)
-- [If Else Statements in Python // Python RIGHT NOW!! // EP 4](https://www.youtube.com/watch?v=5-5Mf_L0UKw)
 <!-- YOUTUBE:END -->
 
 ---
