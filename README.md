@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Salesforce teams with AWS on direct-to-consumer streaming media solution](https://techcrunch.com/2022/02/17/salesforce-teams-with-aws-on-direct-to-consumer-streaming-media-solution/)
+- [Goldcast spotlights which event attendees will be your next customer](https://techcrunch.com/2022/02/17/goldcast-spotlights-which-event-attendees-will-be-your-next-customer/)
+- [Multis wants to build the financial backbone of crypto-native organizations](https://techcrunch.com/2022/02/17/multis-wants-to-build-the-financial-backbone-of-crypto-native-organizations/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [Telescope deals: Top picks from Celestron, Sky-Watcher and others](https://www.space.com/telescopes-deals-sale-discount)
 - [Amazon reaches deal to continue accepting Visa payments worldwide](https://techcrunch.com/2022/02/17/amazon-reaches-deal-to-continue-accepting-visa-payments-worldwide/)
 - [Dutch raises $20M to scale its telemedicine platform for pets](https://techcrunch.com/2022/02/17/dutch-raises-20m-to-scale-its-telemedicine-platform-for-pets/)
 - [New York’s Thrive Capital closes its eighth fund with a whopping $3 billion](https://techcrunch.com/2022/02/17/new-yorks-thrive-capital-closes-its-eighth-fund-with-a-whopping-3-billion/)
 - [The astronaut&#39;s playlist: Groovy songs for space travelers](https://www.space.com/11037-space-music-playlist-astronauts-wakeup.html)
 - [NASA&#39;s InSight Mars lander bounces back from dust storm, but its days are numbered](https://www.space.com/nasa-mars-insight-dust-storm-power-levels-norml)
-- [Scientists spot 10,000th medium near-Earth asteroid in planetary defense milestone](https://www.space.com/planetary-defense-10000th-medium-near-earth-asteroid)
-- [What&#39;s the maximum number of planets that could orbit the sun?](https://www.space.com/maximum-number-of-planets-orbit-sun)
-- [Celestron telescope &amp; binocular deals you can still get: Discounts &amp; what&#39;s in stock](https://www.space.com/38901-celestron-deals-telescopes-binoculars.html)
-- [Sony Ventures Corporation hits first close of its $215M fourth fund](https://techcrunch.com/2022/02/17/sony-ventures-corporation-hits-first-close-on-its-215m-fourth-fund/)
-- [Earnipay raises $4M to help employees in Nigeria get faster access to their salaries](https://techcrunch.com/2022/02/17/earnipay-raises-4m-to-help-employees-in-nigeria-get-faster-access-to-their-salaries/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
