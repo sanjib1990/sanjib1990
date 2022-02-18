@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Goodbye Samsung Galaxy Note, hello S22 Ultra](https://techcrunch.com/2022/02/18/goodbye-samsung-galaxy-note-hello-s22-ultra/)
+- [DeepScribe’s Akilesh Bapu and Index Venture’s Nina Achadjian to speak on founder/investor relationships on TCL](https://techcrunch.com/2022/02/18/deepscribes-akilesh-bapu-and-index-ventures-nina-achadjian-to-speak-on-founder-investor-relationships-on-tcl/)
+- [Webb Team Brings 18 Dots of Starlight Into Hexagonal Formation](https://blogs.nasa.gov/webb/2022/02/18/webb-team-brings-18-dots-of-starlight-into-hexagonal-formation/)
+- [Astronauts snap stunning views of February&#39;s Full Snow Moon from space &lpar;photos&rpar;](https://www.space.com/february-full-snow-moon-astronaut-photos)
+- [Reusable packaging startup bags $3.1M to pick a fight with single-use packaging](https://techcrunch.com/2022/02/18/returnity-seed-round/)
 - [Extreme H is an upcoming off-road racing series with hydrogen cars](https://techcrunch.com/2022/02/18/extreme-h-is-an-upcoming-off-road-racing-series-with-hydrogen-cars/)
 - [Astronomers spot remains of long-lost galaxy eaten by the Milky Way](https://www.space.com/milky-way-galaxy-long-lost-collision)
 - [Walmart is expanding autonomous delivery pilot with GM’s Cruise this year](https://techcrunch.com/2022/02/18/gms-self-driving-car-unit-cruise-walmart-pilot/)
 - [On This Day in Space! Feb. 18, 1930: Pluto discovered by Clyde Tombaugh](https://www.space.com/39251-on-this-day-in-space.html)
 - [The average person doesn’t have a chance with the smart home](https://techcrunch.com/2022/02/18/the-average-person-doesnt-have-a-chance-with-the-smart-home/)
-- [Tokina atx-i 11-20mm f/2.8 CF review](https://www.space.com/tokina-atx-i-11-20mm-f2.8-cf-review)
-- [Meade telescopes and binocular deals: discounts &amp; what&#39;s in stock](https://www.space.com/meade-deals-telescopes-binoculars)
-- [6 ways to save money on video games](https://www.space.com/tips-to-save-money-on-video-games)
-- [Meta axes a head of global community development after he appears on video in underage sex sting](https://techcrunch.com/2022/02/18/meta-axes-head-of-global-community-development-after-he-appears-on-video-in-underage-sex-sting/)
-- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
