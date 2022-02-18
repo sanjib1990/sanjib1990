@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Walmart is expanding autonomous delivery pilot with GM’s Cruise this year](https://techcrunch.com/2022/02/18/gms-self-driving-car-unit-cruise-walmart-pilot/)
+- [On This Day in Space! Feb. 18, 1930: Pluto discovered by Clyde Tombaugh](https://www.space.com/39251-on-this-day-in-space.html)
+- [The average person doesn’t have a chance with the smart home](https://techcrunch.com/2022/02/18/the-average-person-doesnt-have-a-chance-with-the-smart-home/)
+- [Tokina atx-i 11-20mm f/2.8 CF review](https://www.space.com/tokina-atx-i-11-20mm-f2.8-cf-review)
 - [Meade telescopes and binocular deals: discounts &amp; what&#39;s in stock](https://www.space.com/meade-deals-telescopes-binoculars)
 - [6 ways to save money on video games](https://www.space.com/tips-to-save-money-on-video-games)
 - [Meta axes a head of global community development after he appears on video in underage sex sting](https://techcrunch.com/2022/02/18/meta-axes-head-of-global-community-development-after-he-appears-on-video-in-underage-sex-sting/)
 - [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
 - [Book reviews for three guides to the stars and constellations](https://www.space.com/stars-constellations-book-reviews)
 - [Save up to £70 on Celestron telescopes in these stellar deals at Wex Photo Video](https://www.space.com/save-70-pounds-on-celestron-telescopes-uk-deal)
-- [For startups, the message is clear: Grow fast or die](https://techcrunch.com/2022/02/18/for-startups-the-message-is-clear-grow-fast-or-die/)
-- [ICON raises $185M in Tiger-led round to build more homes with its 3D printing tech, now approaching $2B valuation](https://techcrunch.com/2022/02/18/icon-raises-185m-in-tiger-global-led-round-at-a-2b-valuation-to-build-more-homes-with-its-3d-printing-technology/)
-- [Do you want your paycheck in crypto?](https://techcrunch.com/2022/02/18/do-you-want-your-paycheck-in-crypto/)
-- [&#39;Ghost particle&#39; coming into focus: Scientists put upper limit on mass of neutrinos](https://www.space.com/neutrino-mass-upper-limit-katrin-experiment)
 <!-- BLOG-POST-LIST:END -->
 
 ---
