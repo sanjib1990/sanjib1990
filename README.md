@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Coca-Cola launches &#39;Starlight&#39; limited-edition drink inspired by space](https://www.space.com/coca-cola-starlight-space-limited)
+- [When the founder becomes the story](https://techcrunch.com/2022/02/17/when-the-founder-becomes-the-story/)
+- [Daily Crunch: Salesforce, AWS collaborate to offer bundled services for streaming content providers](https://techcrunch.com/2022/02/17/daily-crunch-salesforce-aws-collaborate-to-offer-bundled-services-for-streaming-content-providers/)
+- [NASA opens Nighttime Precision Landing Challenge to help future moon missions](https://www.space.com/nasa-nighttime-precision-landing-challenge)
 - [Fire-safety experiment among science gear launching to International Space Station this weekend](https://www.space.com/fire-safety-experiment-cygnus-ng-17-launch)
 - [NASA&#39;s Curiosity rover on Mars is watching the clouds drift by and they&#39;re beautiful](https://www.space.com/curiosity-rover-spots-mars-clouds-overhead)
 - [As Databricks reaches $800M ARR, a fresh look at its last private valuation](https://techcrunch.com/2022/02/17/as-databricks-reaches-800m-arr-a-fresh-look-at-its-last-private-valuation/)
 - [How to grow your organic traffic with earned media](https://techcrunch.com/2022/02/17/how-to-grow-your-organic-traffic-with-earned-media/)
 - [Ford’s Mustang Mach-E ousts the Tesla Model 3 as Consumer Reports’ top EV](https://techcrunch.com/2022/02/17/fords-mustang-mach-e-ousts-the-tesla-model-3-as-consumer-reports-top-ev/)
 - [Soar over the desert in footage from drone practicing for mission to Saturn&#39;s strangest moon](https://www.space.com/titan-dragonfly-drone-testing-desert-video)
-- [Twitter now lets you pin up to 6 DM conversations](https://techcrunch.com/2022/02/17/twitter-now-lets-you-pin-up-to-6-dm-conversations/)
-- [Super Bowl ads boosted crypto app downloads by 279%, led by Coinbase](https://techcrunch.com/2022/02/17/super-bowl-ads-boosted-crypto-app-downloads-by-279-led-by-coinbase/)
-- [Vertical integration](https://techcrunch.com/2022/02/17/vertical-integration/)
-- [Spotify must be more transparent about its rules of the road](https://techcrunch.com/2022/02/17/spotify-must-be-more-transparent-about-its-rules-of-the-road/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
