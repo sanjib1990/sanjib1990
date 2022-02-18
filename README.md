@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jupiter](https://www.space.com/7-jupiter-largest-planet-solar-system.html)
+- [Snapchat is rolling out a new buddy system-like real-time location sharing feature](https://techcrunch.com/2022/02/18/snapchat-new-buddy-system-like-temporary-location-sharing-feature/)
 - [Sirona Medical Acquires Nines AI’s algorithms to rebuild radiology’s IT from the ground up](https://techcrunch.com/2022/02/18/sirona-medical-acquires-nines-ais-algorithms-to-rebuild-radiologys-it-from-the-ground-up/)
 - [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [When the next interstellar object comes, James Webb Space Telescope will be there to study it](https://www.space.com/james-webb-space-telescope-interstellar-asteroid-studies)
@@ -103,8 +105,6 @@
 - [1 year later, Ingenuity helicopter still going strong on Mars](https://www.space.com/nasa-ingenuity-mars-helicopter-one-year-anniversary)
 - [12 amazing photos from the Perseverance rover&#39;s 1st year on Mars](https://www.space.com/mars-perseverance-rover-ingenuity-helicopter-first-year-photos)
 - [Coatue backs Kubecost’s goal to supply data to millions of Kubernetes developers](https://techcrunch.com/2022/02/18/coatue-backs-kubercosts-goal-of-supply-data-to-millions-of-kubernetes-developers/)
-- [SafeBoda bets on super app to boost recovery from pandemic slump](https://techcrunch.com/2022/02/18/safeboda-bets-on-super-app-to-boost-recovery-from-pandemic-slump/)
-- [Portuguese VC Shilling tops-up its Founders Fund, hitting $59M in capital to deploy](https://techcrunch.com/2022/02/18/portuguese-vc-shilling-tops-up-its-founders-fund-hitting-59m-in-capital-to-deploy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
