@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [An early look at Tata Group’s super app TataNeu](https://techcrunch.com/2022/02/17/tataneu/)
 - [NTSB investigating Joby aircraft crash](https://techcrunch.com/2022/02/17/the-national-transportation-safety-board-investigating-joby-aircraft-crash/)
 - [Coca-Cola launches &#39;Starlight&#39; limited-edition drink inspired by space](https://www.space.com/coca-cola-starlight-space-limited)
 - [When the founder becomes the story](https://techcrunch.com/2022/02/17/when-the-founder-becomes-the-story/)
@@ -104,7 +105,6 @@
 - [NASA&#39;s Curiosity rover on Mars is watching the clouds drift by and they&#39;re beautiful](https://www.space.com/curiosity-rover-spots-mars-clouds-overhead)
 - [As Databricks reaches $800M ARR, a fresh look at its last private valuation](https://techcrunch.com/2022/02/17/as-databricks-reaches-800m-arr-a-fresh-look-at-its-last-private-valuation/)
 - [How to grow your organic traffic with earned media](https://techcrunch.com/2022/02/17/how-to-grow-your-organic-traffic-with-earned-media/)
-- [Ford’s Mustang Mach-E ousts the Tesla Model 3 as Consumer Reports’ top EV](https://techcrunch.com/2022/02/17/fords-mustang-mach-e-ousts-the-tesla-model-3-as-consumer-reports-top-ev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
