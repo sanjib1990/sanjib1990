@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Save up to £70 on Celestron telescopes in these stellar deals at Wex Photo Video](https://www.space.com/save-70-pounds-on-celestron-telescopes-uk-deal)
+- [For startups, the message is clear: Grow fast or die](https://techcrunch.com/2022/02/18/for-startups-the-message-is-clear-grow-fast-or-die/)
+- [ICON raises $185M in Tiger-led round to build more homes with its 3D printing tech, now approaching $2B valuation](https://techcrunch.com/2022/02/18/icon-raises-185m-in-tiger-global-led-round-at-a-2b-valuation-to-build-more-homes-with-its-3d-printing-technology/)
 - [Do you want your paycheck in crypto?](https://techcrunch.com/2022/02/18/do-you-want-your-paycheck-in-crypto/)
+- [&#39;Ghost particle&#39; coming into focus: Scientists put upper limit on mass of neutrinos](https://www.space.com/neutrino-mass-upper-limit-katrin-experiment)
 - [FBI eyes ransomware profits with new cryptocurrency crimes unit](https://techcrunch.com/2022/02/18/fbi-ransomware-cryptocurrency-crimes/)
 - [Build a versatile startup team to make pivots easier](https://techcrunch.com/2022/02/18/building-a-startup-is-building-a-team/)
 - [Jupiter](https://www.space.com/7-jupiter-largest-planet-solar-system.html)
 - [Snapchat is rolling out a new buddy system-like real-time location sharing feature](https://techcrunch.com/2022/02/18/snapchat-new-buddy-system-like-temporary-location-sharing-feature/)
 - [Sirona Medical Acquires Nines AI’s algorithms to rebuild radiology’s IT from the ground up](https://techcrunch.com/2022/02/18/sirona-medical-acquires-nines-ais-algorithms-to-rebuild-radiologys-it-from-the-ground-up/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [When the next interstellar object comes, James Webb Space Telescope will be there to study it](https://www.space.com/james-webb-space-telescope-interstellar-asteroid-studies)
-- [&#39;Space Force&#39; returns to Netflix for a 2nd season of high-flying hilarity](https://www.space.com/space-force-season-two-available-netflix)
-- [After a year on Mars, NASA&#39;s Perseverance rover is on course for big discoveries](https://www.space.com/mars-perseverance-rover-one-year-landing-anniversary)
 <!-- BLOG-POST-LIST:END -->
 
 ---
