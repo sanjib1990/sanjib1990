@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NTSB investigating Joby aircraft crash](https://techcrunch.com/2022/02/17/the-national-transportation-safety-board-investigating-joby-aircraft-crash/)
 - [Coca-Cola launches &#39;Starlight&#39; limited-edition drink inspired by space](https://www.space.com/coca-cola-starlight-space-limited)
 - [When the founder becomes the story](https://techcrunch.com/2022/02/17/when-the-founder-becomes-the-story/)
 - [Daily Crunch: Salesforce, AWS collaborate to offer bundled services for streaming content providers](https://techcrunch.com/2022/02/17/daily-crunch-salesforce-aws-collaborate-to-offer-bundled-services-for-streaming-content-providers/)
@@ -104,7 +105,6 @@
 - [As Databricks reaches $800M ARR, a fresh look at its last private valuation](https://techcrunch.com/2022/02/17/as-databricks-reaches-800m-arr-a-fresh-look-at-its-last-private-valuation/)
 - [How to grow your organic traffic with earned media](https://techcrunch.com/2022/02/17/how-to-grow-your-organic-traffic-with-earned-media/)
 - [Ford’s Mustang Mach-E ousts the Tesla Model 3 as Consumer Reports’ top EV](https://techcrunch.com/2022/02/17/fords-mustang-mach-e-ousts-the-tesla-model-3-as-consumer-reports-top-ev/)
-- [Soar over the desert in footage from drone practicing for mission to Saturn&#39;s strangest moon](https://www.space.com/titan-dragonfly-drone-testing-desert-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
