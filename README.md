@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [When the next interstellar object comes, James Webb Space Telescope will be there to study it](https://www.space.com/james-webb-space-telescope-interstellar-asteroid-studies)
+- [&#39;Space Force&#39; returns to Netflix for a 2nd season of high-flying hilarity](https://www.space.com/space-force-season-two-available-netflix)
+- [After a year on Mars, NASA&#39;s Perseverance rover is on course for big discoveries](https://www.space.com/mars-perseverance-rover-one-year-landing-anniversary)
+- [1 year later, Ingenuity helicopter still going strong on Mars](https://www.space.com/nasa-ingenuity-mars-helicopter-one-year-anniversary)
+- [12 amazing photos from the Perseverance rover&#39;s 1st year on Mars](https://www.space.com/mars-perseverance-rover-ingenuity-helicopter-first-year-photos)
+- [Coatue backs Kubercost’s goal of supply data to millions of Kubernetes developers](https://techcrunch.com/2022/02/18/coatue-backs-kubercosts-goal-of-supply-data-to-millions-of-kubernetes-developers/)
+- [SafeBoda bets on super app to boost recovery from pandemic slump](https://techcrunch.com/2022/02/18/safeboda-bets-on-super-app-to-boost-recovery-from-pandemic-slump/)
+- [Portuguese VC Shilling tops-up its Founders Fund, hitting $59M in capital to deploy](https://techcrunch.com/2022/02/18/portuguese-vc-shilling-tops-up-its-founders-fund-hitting-59m-in-capital-to-deploy/)
 - [This UK startup got $9M so you’ll pay it to shrink your household bills](https://techcrunch.com/2022/02/18/nous-seed/)
 - [Volkswagen in talks to buy Huawei’s autonomous driving unit: report](https://techcrunch.com/2022/02/18/volkswagen-in-talks-to-buy-huaweis-autonomous-driving-unit-report/)
-- [An early look at Tata Group’s super app TataNeu](https://techcrunch.com/2022/02/17/tataneu/)
-- [NTSB investigating Joby aircraft crash](https://techcrunch.com/2022/02/17/the-national-transportation-safety-board-investigating-joby-aircraft-crash/)
-- [Coca-Cola launches &#39;Starlight&#39; limited-edition drink inspired by space](https://www.space.com/coca-cola-starlight-space-limited)
-- [When the founder becomes the story](https://techcrunch.com/2022/02/17/when-the-founder-becomes-the-story/)
-- [Daily Crunch: Salesforce, AWS collaborate to offer bundled services for streaming content providers](https://techcrunch.com/2022/02/17/daily-crunch-salesforce-aws-collaborate-to-offer-bundled-services-for-streaming-content-providers/)
-- [NASA opens Nighttime Precision Landing Challenge to help future moon missions](https://www.space.com/nasa-nighttime-precision-landing-challenge)
-- [Fire-safety experiment among science gear launching to International Space Station this weekend](https://www.space.com/fire-safety-experiment-cygnus-ng-17-launch)
-- [NASA&#39;s Curiosity rover on Mars is watching the clouds drift by and they&#39;re beautiful](https://www.space.com/curiosity-rover-spots-mars-clouds-overhead)
 <!-- BLOG-POST-LIST:END -->
 
 ---
