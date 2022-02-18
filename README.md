@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Extreme H is an upcoming off-road racing series with hydrogen cars](https://techcrunch.com/2022/02/18/extreme-h-is-an-upcoming-off-road-racing-series-with-hydrogen-cars/)
+- [Astronomers spot remains of long-lost galaxy eaten by the Milky Way](https://www.space.com/milky-way-galaxy-long-lost-collision)
 - [Walmart is expanding autonomous delivery pilot with GM’s Cruise this year](https://techcrunch.com/2022/02/18/gms-self-driving-car-unit-cruise-walmart-pilot/)
 - [On This Day in Space! Feb. 18, 1930: Pluto discovered by Clyde Tombaugh](https://www.space.com/39251-on-this-day-in-space.html)
 - [The average person doesn’t have a chance with the smart home](https://techcrunch.com/2022/02/18/the-average-person-doesnt-have-a-chance-with-the-smart-home/)
@@ -103,8 +105,6 @@
 - [6 ways to save money on video games](https://www.space.com/tips-to-save-money-on-video-games)
 - [Meta axes a head of global community development after he appears on video in underage sex sting](https://techcrunch.com/2022/02/18/meta-axes-head-of-global-community-development-after-he-appears-on-video-in-underage-sex-sting/)
 - [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
-- [Book reviews for three guides to the stars and constellations](https://www.space.com/stars-constellations-book-reviews)
-- [Save up to £70 on Celestron telescopes in these stellar deals at Wex Photo Video](https://www.space.com/save-70-pounds-on-celestron-telescopes-uk-deal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
