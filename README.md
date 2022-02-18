@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Agility Robotics and Playground Global join TechCrunch Live to speak on fundraising robotic delivery](https://techcrunch.com/2022/02/18/agility-robotics-and-playground-global-join-techcrunch-live-to-speak-on-fundraising-robotic-delivery/)
+- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
+- [Star twinkles 18 times in new James Webb Space Telescope image](https://www.space.com/james-webb-space-telescope-hexagonal-star-image)
+- [TechCrunch+ roundup: Fintech investor survey, data-driven fundraising, VC scouting jobs](https://techcrunch.com/2022/02/18/techcrunch-roundup-fintech-investor-survey-data-driven-fundraising-vc-scouting-jobs/)
+- [Cosmonaut brains are &#39;rewired&#39; by space missions, scientists find](https://www.space.com/cosmonaut-brains-rewired-by-spaceflight)
 - [LG announces the first 50 participants in its LG Nova program](https://techcrunch.com/2022/02/18/lg-nova-first-50/)
 - [Goodbye Samsung Galaxy Note, hello S22 Ultra](https://techcrunch.com/2022/02/18/goodbye-samsung-galaxy-note-hello-s22-ultra/)
 - [DeepScribe’s Akilesh Bapu and Index Venture’s Nina Achadjian to speak on founder/investor relationships on TCL](https://techcrunch.com/2022/02/18/deepscribes-akilesh-bapu-and-index-ventures-nina-achadjian-to-speak-on-founder-investor-relationships-on-tcl/)
 - [Webb Team Brings 18 Dots of Starlight Into Hexagonal Formation](https://blogs.nasa.gov/webb/2022/02/18/webb-team-brings-18-dots-of-starlight-into-hexagonal-formation/)
 - [Astronauts snap stunning views of February&#39;s Full Snow Moon from space &lpar;photos&rpar;](https://www.space.com/february-full-snow-moon-astronaut-photos)
-- [Reusable packaging startup bags $3.1M to pick a fight with single-use packaging](https://techcrunch.com/2022/02/18/returnity-seed-round/)
-- [Extreme H is an upcoming off-road racing series with hydrogen cars](https://techcrunch.com/2022/02/18/extreme-h-is-an-upcoming-off-road-racing-series-with-hydrogen-cars/)
-- [Astronomers spot remains of long-lost galaxy eaten by the Milky Way](https://www.space.com/milky-way-galaxy-long-lost-collision)
-- [Walmart is expanding autonomous delivery pilot with GM’s Cruise this year](https://techcrunch.com/2022/02/18/gms-self-driving-car-unit-cruise-walmart-pilot/)
-- [On This Day in Space! Feb. 18, 1930: Pluto discovered by Clyde Tombaugh](https://www.space.com/39251-on-this-day-in-space.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
