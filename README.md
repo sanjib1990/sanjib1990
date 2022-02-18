@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [LG announces the first 50 participants in its LG Nova program](https://techcrunch.com/2022/02/18/lg-nova-first-50/)
 - [Goodbye Samsung Galaxy Note, hello S22 Ultra](https://techcrunch.com/2022/02/18/goodbye-samsung-galaxy-note-hello-s22-ultra/)
 - [DeepScribe’s Akilesh Bapu and Index Venture’s Nina Achadjian to speak on founder/investor relationships on TCL](https://techcrunch.com/2022/02/18/deepscribes-akilesh-bapu-and-index-ventures-nina-achadjian-to-speak-on-founder-investor-relationships-on-tcl/)
 - [Webb Team Brings 18 Dots of Starlight Into Hexagonal Formation](https://blogs.nasa.gov/webb/2022/02/18/webb-team-brings-18-dots-of-starlight-into-hexagonal-formation/)
@@ -104,7 +105,6 @@
 - [Astronomers spot remains of long-lost galaxy eaten by the Milky Way](https://www.space.com/milky-way-galaxy-long-lost-collision)
 - [Walmart is expanding autonomous delivery pilot with GM’s Cruise this year](https://techcrunch.com/2022/02/18/gms-self-driving-car-unit-cruise-walmart-pilot/)
 - [On This Day in Space! Feb. 18, 1930: Pluto discovered by Clyde Tombaugh](https://www.space.com/39251-on-this-day-in-space.html)
-- [The average person doesn’t have a chance with the smart home](https://techcrunch.com/2022/02/18/the-average-person-doesnt-have-a-chance-with-the-smart-home/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
