@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This UK startup got $9M so you’ll pay it to shrink your household bills](https://techcrunch.com/2022/02/18/nous-seed/)
+- [Volkswagen in talks to buy Huawei’s autonomous driving unit: report](https://techcrunch.com/2022/02/18/volkswagen-in-talks-to-buy-huaweis-autonomous-driving-unit-report/)
 - [An early look at Tata Group’s super app TataNeu](https://techcrunch.com/2022/02/17/tataneu/)
 - [NTSB investigating Joby aircraft crash](https://techcrunch.com/2022/02/17/the-national-transportation-safety-board-investigating-joby-aircraft-crash/)
 - [Coca-Cola launches &#39;Starlight&#39; limited-edition drink inspired by space](https://www.space.com/coca-cola-starlight-space-limited)
@@ -103,8 +105,6 @@
 - [NASA opens Nighttime Precision Landing Challenge to help future moon missions](https://www.space.com/nasa-nighttime-precision-landing-challenge)
 - [Fire-safety experiment among science gear launching to International Space Station this weekend](https://www.space.com/fire-safety-experiment-cygnus-ng-17-launch)
 - [NASA&#39;s Curiosity rover on Mars is watching the clouds drift by and they&#39;re beautiful](https://www.space.com/curiosity-rover-spots-mars-clouds-overhead)
-- [As Databricks reaches $800M ARR, a fresh look at its last private valuation](https://techcrunch.com/2022/02/17/as-databricks-reaches-800m-arr-a-fresh-look-at-its-last-private-valuation/)
-- [How to grow your organic traffic with earned media](https://techcrunch.com/2022/02/17/how-to-grow-your-organic-traffic-with-earned-media/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
