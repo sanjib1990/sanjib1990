@@ -78,6 +78,7 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [The Shocking State of JavaScript // The Code Report](https://www.youtube.com/watch?v=1L2hrG-7i2Y)
 - [if if if if if....elif](https://www.youtube.com/watch?v=Ec9WQGw4lW0)
 - [Firebase in 100 Seconds](https://www.youtube.com/watch?v=vAoB4VbhRzM)
 - [i HACKED my wife’s web browser &lpar;it’s SCARY easy!!&rpar;](https://www.youtube.com/watch?v=3ogyS4KOlXc)
@@ -87,7 +88,6 @@
 - [What happens if you hack 4.5 billion BTC? // The Code Report](https://www.youtube.com/watch?v=KPyeJ5J2a7A)
 - [2 cool &lpar;web&rpar; things to do in Linux // Linux for Hackers // EP 8](https://www.youtube.com/watch?v=HSRghjwTTOQ)
 - [How to Learn to Code - 8 Hard Truths](https://www.youtube.com/watch?v=NtfbWkxJTHw)
-- [What is SRE | Tasks and Responsibilities of an SRE | SRE vs DevOps](https://www.youtube.com/watch?v=OnK4IKgLl24)
 <!-- YOUTUBE:END -->
 
 ---
