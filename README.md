@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [On This Day in Space! Feb. 19, 1986: Russia&#39;s Mir space station launched into orbit](https://www.space.com/39251-on-this-day-in-space.html)
+- [Famous astronomers: How these scientists shaped astronomy](https://www.space.com/16095-famous-astronomers.html)
 - [Arlan Hamilton wants to reroute how startups hire](https://techcrunch.com/2022/02/19/arlan-hamilton-wants-to-reroute-how-startups-hire/)
 - [Fowl play: Turkey turmoil at NASA center in California](https://www.space.com/wild-turkeys-relocation-nasa-ames-california)
 - [A Cygnus cargo spacecraft is launching to orbit today. Here&#39;s how to watch live.](https://www.space.com/space-station-cygnus-ng-17-cargo-ship-launch)
@@ -103,8 +105,6 @@
 - [India’s CRED eyes investment in Amazon-backed Smallcase](https://techcrunch.com/2022/02/18/cred-smallcase/)
 - [Better.com loses more senior execs as employees brace for another mass layoff](https://techcrunch.com/2022/02/18/better-com-loses-more-senior-execs-as-employees-brace-for-another-mass-layoff/)
 - [&#39;The Book of Boba Fett&#39; season finale is pure &#39;Star Wars,&#39; in all that&#39;s both good and bad](https://www.space.com/star-wars-book-of-boba-fett-episode-7-review)
-- [Solar Orbiter spacecraft captures huge eruption on the sun &lpar;video&rpar;](https://www.space.com/solar-orbiter-huge-solar-eruption-february-2022)
-- [Experts Weekly: Recruiting recruiters, crypto marketing, earned media 101](https://techcrunch.com/2022/02/18/experts-weekly-recruiting-recruiters-crypto-marketing-earned-media-101/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
