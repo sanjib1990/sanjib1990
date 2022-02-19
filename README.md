@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Record-breaking winds blast Europe in the worst storm in decades](https://www.space.com/eunice-worst-uk-storm-in-decades)
 - [Will rising interest rates decimate startup valuations?](https://techcrunch.com/2022/02/19/will-rising-interest-rates-decimate-startup-valuations/)
 - [On This Day in Space! Feb. 19, 1986: Russia&#39;s Mir space station launched into orbit](https://www.space.com/39251-on-this-day-in-space.html)
 - [Famous astronomers: How these scientists shaped astronomy](https://www.space.com/16095-famous-astronomers.html)
@@ -104,7 +105,6 @@
 - [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html)
 - [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html)
 - [India’s CRED eyes investment in Amazon-backed Smallcase](https://techcrunch.com/2022/02/18/cred-smallcase/)
-- [Better.com loses more senior execs as employees brace for another mass layoff](https://techcrunch.com/2022/02/18/better-com-loses-more-senior-execs-as-employees-brace-for-another-mass-layoff/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
