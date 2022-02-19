@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hire, then wire with a twist](https://techcrunch.com/2022/02/19/hire-then-wire-with-a-twist/)
+- [Northrop Grumman rocket launches Cygnus cargo ship on 2-day trip to space station](https://www.space.com/space-station-cygnus-ng-17-cargo-ship-launch)
 - [When to pivot your product, and a tale of two earnings calls](https://techcrunch.com/2022/02/19/when-to-pivot-your-product-and-a-tale-of-two-earnings-calls/)
 - [International Space Station: Live updates - Cygnus NG-17 launch](https://www.space.com/news/live/international-space-station-live-updates)
 - [Cosmic chaos reigns in new trailer for &#39;Doctor Strange in the Multiverse of Madness&#39;](https://www.space.com/doctor-strange-multiverse-of-madness-trailer-cosmic-chaos)
@@ -103,8 +105,6 @@
 - [Will rising interest rates decimate startup valuations?](https://techcrunch.com/2022/02/19/will-rising-interest-rates-decimate-startup-valuations/)
 - [On This Day in Space! Feb. 19, 1986: Russia&#39;s Mir space station launched into orbit](https://www.space.com/39251-on-this-day-in-space.html)
 - [Famous astronomers: How these scientists shaped astronomy](https://www.space.com/16095-famous-astronomers.html)
-- [Arlan Hamilton wants to reroute how startups hire](https://techcrunch.com/2022/02/19/arlan-hamilton-wants-to-reroute-how-startups-hire/)
-- [Fowl play: Turkey turmoil at NASA center in California](https://www.space.com/wild-turkeys-relocation-nasa-ames-california)
 <!-- BLOG-POST-LIST:END -->
 
 ---
