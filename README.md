@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India’s CRED in talks to invest in Smallcase](https://techcrunch.com/2022/02/18/cred-smallcase/)
 - [Better.com loses more senior execs as employees brace for another mass layoff](https://techcrunch.com/2022/02/18/better-com-loses-more-senior-execs-as-employees-brace-for-another-mass-layoff/)
 - [&#39;The Book of Boba Fett&#39; season finale is pure &#39;Star Wars,&#39; in all that&#39;s both good and bad](https://www.space.com/star-wars-book-of-boba-fett-episode-7-review)
 - [Solar Orbiter spacecraft captures huge eruption on the sun &lpar;video&rpar;](https://www.space.com/solar-orbiter-huge-solar-eruption-february-2022)
@@ -104,7 +105,6 @@
 - [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
 - [Star twinkles 18 times in new James Webb Space Telescope image](https://www.space.com/james-webb-space-telescope-hexagonal-star-image)
 - [TechCrunch+ roundup: Fintech investor survey, data-driven fundraising, VC scouting jobs](https://techcrunch.com/2022/02/18/techcrunch-roundup-fintech-investor-survey-data-driven-fundraising-vc-scouting-jobs/)
-- [Cosmonaut brains are &#39;rewired&#39; by space missions, scientists find](https://www.space.com/cosmonaut-brains-rewired-by-spaceflight)
 <!-- BLOG-POST-LIST:END -->
 
 ---
