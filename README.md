@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Will rising interest rates decimate startup valuations?](https://techcrunch.com/2022/02/19/will-rising-interest-rates-decimate-startup-valuations/)
 - [On This Day in Space! Feb. 19, 1986: Russia&#39;s Mir space station launched into orbit](https://www.space.com/39251-on-this-day-in-space.html)
 - [Famous astronomers: How these scientists shaped astronomy](https://www.space.com/16095-famous-astronomers.html)
 - [Arlan Hamilton wants to reroute how startups hire](https://techcrunch.com/2022/02/19/arlan-hamilton-wants-to-reroute-how-startups-hire/)
@@ -104,7 +105,6 @@
 - [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html)
 - [India’s CRED eyes investment in Amazon-backed Smallcase](https://techcrunch.com/2022/02/18/cred-smallcase/)
 - [Better.com loses more senior execs as employees brace for another mass layoff](https://techcrunch.com/2022/02/18/better-com-loses-more-senior-execs-as-employees-brace-for-another-mass-layoff/)
-- [&#39;The Book of Boba Fett&#39; season finale is pure &#39;Star Wars,&#39; in all that&#39;s both good and bad](https://www.space.com/star-wars-book-of-boba-fett-episode-7-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
