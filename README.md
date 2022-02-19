@@ -95,6 +95,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cosmic chaos reigns in new trailer for &#39;Doctor Strange in the Multiverse of Madness&#39;](https://www.space.com/doctor-strange-multiverse-of-madness-trailer-cosmic-chaos)
+- [International Space Station: Live updates - Cygnus NG-17 launch](https://www.space.com/news/live/international-space-station-live-updates)
+- [Chinese astronaut Wang Yaping celebrates Lantern Festival with traditional music from space &lpar;video&rpar;](https://www.space.com/chinese-astronauts-celebrate-lantern-festival-2022-shenzhou-13)
 - [Record-breaking winds blast Europe in the worst storm in decades](https://www.space.com/eunice-worst-uk-storm-in-decades)
 - [Will rising interest rates decimate startup valuations?](https://techcrunch.com/2022/02/19/will-rising-interest-rates-decimate-startup-valuations/)
 - [On This Day in Space! Feb. 19, 1986: Russia&#39;s Mir space station launched into orbit](https://www.space.com/39251-on-this-day-in-space.html)
@@ -102,9 +105,6 @@
 - [Arlan Hamilton wants to reroute how startups hire](https://techcrunch.com/2022/02/19/arlan-hamilton-wants-to-reroute-how-startups-hire/)
 - [Fowl play: Turkey turmoil at NASA center in California](https://www.space.com/wild-turkeys-relocation-nasa-ames-california)
 - [A Cygnus cargo spacecraft is launching to orbit today. Here&#39;s how to watch live.](https://www.space.com/space-station-cygnus-ng-17-cargo-ship-launch)
-- [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html)
-- [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html)
-- [India’s CRED eyes investment in Amazon-backed Smallcase](https://techcrunch.com/2022/02/18/cred-smallcase/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
