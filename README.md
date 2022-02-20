@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fintech Roundup: What investors really, really want](https://techcrunch.com/2022/02/20/fintech-roundup-what-investors-really-really-want/)
+- [On This Day in Space! Feb. 20, 1962: John Glenn becomes 1st American to orbit Earth](https://www.space.com/39251-on-this-day-in-space.html)
 - [Making spaceflight history: John Glenn orbited Earth 60 years ago today](https://www.space.com/john-glenn-first-american-orbital-flight-60-year-anniversary)
 - [Astronauts, Australian airport mark 60 years since John Glenn first orbited Earth](https://www.space.com/john-glenn-first-american-orbit-60th-anniversary)
 - [SpaceX to launch new Starlink fleet and land rocket Monday. Here&#39;s how to watch live](https://www.space.com/spacex-starlink-satellite-launch-4-8-rocket-landing)
@@ -103,8 +105,6 @@
 - [This Week in Apps: Android’s Privacy Sandbox, Super Bowl app ads, App Annie rebrands](https://techcrunch.com/2022/02/19/this-week-in-apps-androids-privacy-sandbox-super-bowl-app-ads-app-annie-rebrands/)
 - [Hire, then wire with a twist](https://techcrunch.com/2022/02/19/hire-then-wire-with-a-twist/)
 - [Northrop Grumman rocket launches Cygnus cargo ship on 2-day trip to space station](https://www.space.com/space-station-cygnus-ng-17-cargo-ship-launch)
-- [When to pivot your product, and a tale of two earnings calls](https://techcrunch.com/2022/02/19/when-to-pivot-your-product-and-a-tale-of-two-earnings-calls/)
-- [International Space Station: Live updates - Cygnus NG-17 launch](https://www.space.com/news/live/international-space-station-live-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
