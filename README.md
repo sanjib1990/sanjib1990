@@ -95,6 +95,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Making spaceflight history: John Glenn orbited Earth 60 years ago today](https://www.space.com/john-glenn-first-american-orbital-flight-60-year-anniversary)
+- [Astronauts, Australian airport mark 60 years since John Glenn first orbited Earth](https://www.space.com/john-glenn-first-american-orbit-60th-anniversary)
+- [SpaceX to launch new Starlink fleet and land rocket Monday. Here&#39;s how to watch live](https://www.space.com/spacex-starlink-satellite-launch-4-8-rocket-landing)
 - [New regulation in China to hit food delivery giants’ profit model](https://techcrunch.com/2022/02/20/end-of-chinese-food-delivery-platforms-runaway-growth/)
 - [The early bird has landed — buy your in-person pass to TC Sessions: Mobility 2022 today and save](https://techcrunch.com/2022/02/19/the-early-bird-has-landed-buy-your-in-person-pass-to-tc-sessions-mobility-2022-today-and-save/)
 - [This Week in Apps: Android’s Privacy Sandbox, Super Bowl app ads, App Annie rebrands](https://techcrunch.com/2022/02/19/this-week-in-apps-androids-privacy-sandbox-super-bowl-app-ads-app-annie-rebrands/)
@@ -102,9 +105,6 @@
 - [Northrop Grumman rocket launches Cygnus cargo ship on 2-day trip to space station](https://www.space.com/space-station-cygnus-ng-17-cargo-ship-launch)
 - [When to pivot your product, and a tale of two earnings calls](https://techcrunch.com/2022/02/19/when-to-pivot-your-product-and-a-tale-of-two-earnings-calls/)
 - [International Space Station: Live updates - Cygnus NG-17 launch](https://www.space.com/news/live/international-space-station-live-updates)
-- [Cosmic chaos reigns in new trailer for &#39;Doctor Strange in the Multiverse of Madness&#39;](https://www.space.com/doctor-strange-multiverse-of-madness-trailer-cosmic-chaos)
-- [Chinese astronaut Wang Yaping celebrates Lantern Festival with traditional music from space &lpar;video&rpar;](https://www.space.com/chinese-astronauts-celebrate-lantern-festival-2022-shenzhou-13)
-- [Record-breaking winds blast Europe in the worst storm in decades](https://www.space.com/eunice-worst-uk-storm-in-decades)
 <!-- BLOG-POST-LIST:END -->
 
 ---
