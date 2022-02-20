@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The early bird has landed — buy your in-person pass to TC Sessions: Mobility 2022 today and save](https://techcrunch.com/2022/02/19/the-early-bird-has-landed-buy-your-in-person-pass-to-tc-sessions-mobility-2022-today-and-save/)
 - [This Week in Apps: Android’s Privacy Sandbox, Super Bowl app ads, App Annie rebrands](https://techcrunch.com/2022/02/19/this-week-in-apps-androids-privacy-sandbox-super-bowl-app-ads-app-annie-rebrands/)
 - [Hire, then wire with a twist](https://techcrunch.com/2022/02/19/hire-then-wire-with-a-twist/)
 - [Northrop Grumman rocket launches Cygnus cargo ship on 2-day trip to space station](https://www.space.com/space-station-cygnus-ng-17-cargo-ship-launch)
@@ -104,7 +105,6 @@
 - [Chinese astronaut Wang Yaping celebrates Lantern Festival with traditional music from space &lpar;video&rpar;](https://www.space.com/chinese-astronauts-celebrate-lantern-festival-2022-shenzhou-13)
 - [Record-breaking winds blast Europe in the worst storm in decades](https://www.space.com/eunice-worst-uk-storm-in-decades)
 - [Will rising interest rates decimate startup valuations?](https://techcrunch.com/2022/02/19/will-rising-interest-rates-decimate-startup-valuations/)
-- [On This Day in Space! Feb. 19, 1986: Russia&#39;s Mir space station launched into orbit](https://www.space.com/39251-on-this-day-in-space.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
