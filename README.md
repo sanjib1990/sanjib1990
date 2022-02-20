@@ -95,7 +95,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA: No current plan for return of space station parts for museums](https://www.space.com/international-space-station-transition-artifact-plan)
 - [Fintech Roundup: What investors really, really want](https://techcrunch.com/2022/02/20/fintech-roundup-what-investors-really-really-want/)
+- [&#39;Star Trek Online&#39; debuts Captain Janeway on PC](https://www.space.com/star-trek-online-captain-janeway-shadows-advance)
 - [On This Day in Space! Feb. 20, 1962: John Glenn becomes 1st American to orbit Earth](https://www.space.com/39251-on-this-day-in-space.html)
 - [Making spaceflight history: John Glenn orbited Earth 60 years ago today](https://www.space.com/john-glenn-first-american-orbital-flight-60-year-anniversary)
 - [Astronauts, Australian airport mark 60 years since John Glenn first orbited Earth](https://www.space.com/john-glenn-first-american-orbit-60th-anniversary)
@@ -103,8 +105,6 @@
 - [New regulation in China to hit food delivery giants’ profit model](https://techcrunch.com/2022/02/20/end-of-chinese-food-delivery-platforms-runaway-growth/)
 - [The early bird has landed — buy your in-person pass to TC Sessions: Mobility 2022 today and save](https://techcrunch.com/2022/02/19/the-early-bird-has-landed-buy-your-in-person-pass-to-tc-sessions-mobility-2022-today-and-save/)
 - [This Week in Apps: Android’s Privacy Sandbox, Super Bowl app ads, App Annie rebrands](https://techcrunch.com/2022/02/19/this-week-in-apps-androids-privacy-sandbox-super-bowl-app-ads-app-annie-rebrands/)
-- [Hire, then wire with a twist](https://techcrunch.com/2022/02/19/hire-then-wire-with-a-twist/)
-- [Northrop Grumman rocket launches Cygnus cargo ship on 2-day trip to space station](https://www.space.com/space-station-cygnus-ng-17-cargo-ship-launch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
