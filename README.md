@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Zack Snyder&#39;s &#39;Rebel Moon&#39; space opera is coming to Netflix. Here&#39;s the 1st concept art and full cast.](https://www.space.com/zack-snyder-rebel-moon-netflix)
+- [&#39;Star Trek: Picard&#39; Season 2 is going to be a wild, time-traveling ride, SFX reveals](https://www.space.com/star-trek-picard-season-2-sfx-magazine-exclusive)
 - [NASA: No current plan for return of space station parts for museums](https://www.space.com/international-space-station-transition-artifact-plan)
 - [Fintech Roundup: What investors really, really want](https://techcrunch.com/2022/02/20/fintech-roundup-what-investors-really-really-want/)
 - [&#39;Star Trek Online&#39; debuts Captain Janeway on PC](https://www.space.com/star-trek-online-captain-janeway-shadows-advance)
@@ -103,8 +105,6 @@
 - [Astronauts, Australian airport mark 60 years since John Glenn first orbited Earth](https://www.space.com/john-glenn-first-american-orbit-60th-anniversary)
 - [SpaceX to launch new Starlink fleet and land rocket Monday. Here&#39;s how to watch live](https://www.space.com/spacex-starlink-satellite-launch-4-8-rocket-landing)
 - [New regulation in China to hit food delivery giants’ profit model](https://techcrunch.com/2022/02/20/end-of-chinese-food-delivery-platforms-runaway-growth/)
-- [The early bird has landed — buy your in-person pass to TC Sessions: Mobility 2022 today and save](https://techcrunch.com/2022/02/19/the-early-bird-has-landed-buy-your-in-person-pass-to-tc-sessions-mobility-2022-today-and-save/)
-- [This Week in Apps: Android’s Privacy Sandbox, Super Bowl app ads, App Annie rebrands](https://techcrunch.com/2022/02/19/this-week-in-apps-androids-privacy-sandbox-super-bowl-app-ads-app-annie-rebrands/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
