@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Groundfloor steps up its real estate debt crowdfunding platform with fresh capital](https://techcrunch.com/2022/02/21/groundfloor-steps-up-its-real-estate-debt-crowdfunding-platform-with-fresh-capital/)
+- [These Lego Movie 2 and Overwatch deals at Amazon are the play of the game](https://www.space.com/uk-lego-overwatch-lego-movie-2-deals)
+- [The Station: DeLorean teases an EV, VW and Hauwei are ‘talking’ and feds investigate Tesla](https://techcrunch.com/2022/02/21/the-station-delorean-teases-ev-vw-hauwei-are-talking-feds-investigate-tesla/)
+- [What is cosmology? Definition &amp; history](https://www.space.com/16042-cosmology.html)
+- [Sweden’s Volta raises $260M at a $490M valuation to get its all-electric trucks into production by the end of this year](https://techcrunch.com/2022/02/21/volta-raises-260m-to-get-its-all-electric-trucks-into-production-by-the-end-of-this-year/)
+- [Avoiding satellite collisions: NOAA unveils prototype warning system](https://www.space.com/noaa-satellite-collision-warning-system-prototype)
+- [1st sighting of &#39;ball lightning&#39; in England uncovered](https://www.space.com/first-ball-lightning-sighting-recorded-england)
+- [A large asteroid zips past Earth today, here&#39;s how to watch it live](https://www.space.com/asteroid-webcast-virtual-telescope-project-1999-VF22)
 - [The best sci-fi and space games for Android and iOS](https://www.space.com/41012-best-sci-fi-mobile-games.html)
 - [Philippines payment gateway PayMongo gets $31M Series B, will explore regional expansion](https://techcrunch.com/2022/02/20/philippines-payment-gateway-paymongo-gets-31m-series-b-will-explore-regional-expansion/)
-- [PrimaryBid raises $190M to double down on making it easier for ordinary people to invest in IPOs and follow-on fundraises](https://techcrunch.com/2022/02/20/primarybid-raises-190m-to-double-down-on-making-it-easier-for-ordinary-people-to-invest-in-ipos-and-follow-on-fundraises/)
-- [Zack Snyder&#39;s &#39;Rebel Moon&#39; space opera is coming to Netflix. Here&#39;s the 1st concept art and full cast.](https://www.space.com/zack-snyder-rebel-moon-netflix)
-- [&#39;Star Trek: Picard&#39; Season 2 is going to be a wild, time-traveling ride, SFX reveals](https://www.space.com/star-trek-picard-season-2-sfx-magazine-exclusive)
-- [NASA: No current plan for return of space station parts for museums](https://www.space.com/international-space-station-transition-artifact-plan)
-- [Fintech Roundup: What investors really, really want](https://techcrunch.com/2022/02/20/fintech-roundup-what-investors-really-really-want/)
-- [&#39;Star Trek Online&#39; debuts Captain Janeway on PC](https://www.space.com/star-trek-online-captain-janeway-shadows-advance)
-- [On This Day in Space! Feb. 20, 1962: John Glenn becomes 1st American to orbit Earth](https://www.space.com/39251-on-this-day-in-space.html)
-- [Making spaceflight history: John Glenn orbited Earth 60 years ago today](https://www.space.com/john-glenn-first-american-orbital-flight-60-year-anniversary)
 <!-- BLOG-POST-LIST:END -->
 
 ---
