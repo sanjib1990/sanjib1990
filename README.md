@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Best space board games of 2022](https://www.space.com/best-space-board-games)
 - [SpaceX to launch new Starlink fleet and land rocket today. Here&#39;s how to watch live](https://www.space.com/spacex-starlink-satellite-launch-4-8-rocket-landing)
 - [Groundfloor steps up its real estate debt crowdfunding platform with fresh capital](https://techcrunch.com/2022/02/21/groundfloor-steps-up-its-real-estate-debt-crowdfunding-platform-with-fresh-capital/)
 - [These Lego Movie 2 and Overwatch deals at Amazon are the play of the game](https://www.space.com/uk-lego-overwatch-lego-movie-2-deals)
@@ -104,7 +105,6 @@
 - [Avoiding satellite collisions: NOAA unveils prototype warning system](https://www.space.com/noaa-satellite-collision-warning-system-prototype)
 - [1st sighting of &#39;ball lightning&#39; in England uncovered](https://www.space.com/first-ball-lightning-sighting-recorded-england)
 - [A large asteroid zips past Earth today, here&#39;s how to watch it live](https://www.space.com/asteroid-webcast-virtual-telescope-project-1999-VF22)
-- [The best sci-fi and space games for Android and iOS](https://www.space.com/41012-best-sci-fi-mobile-games.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
