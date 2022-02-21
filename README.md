@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [James Webb Space Telescope will do a galaxy deep dive into the dust](https://www.space.com/james-webb-space-telescope-galaxy-dust-study)
+- [Jambo raises $7.5M from Coinbase, Alameda Research to build “web3 super app” of Africa](https://techcrunch.com/2022/02/21/jambo-raises-7-5m-from-coinbase-alameda-research-to-build-web3-super-app-of-africa/)
 - [Best space board games of 2022](https://www.space.com/best-space-board-games)
 - [SpaceX to launch new Starlink fleet and land rocket today. Here&#39;s how to watch live](https://www.space.com/spacex-starlink-satellite-launch-4-8-rocket-landing)
 - [Groundfloor steps up its real estate debt crowdfunding platform with fresh capital](https://techcrunch.com/2022/02/21/groundfloor-steps-up-its-real-estate-debt-crowdfunding-platform-with-fresh-capital/)
@@ -103,8 +105,6 @@
 - [What is cosmology? Definition &amp; history](https://www.space.com/16042-cosmology.html)
 - [Sweden’s Volta raises $260M at a $490M valuation to get its all-electric trucks into production by the end of this year](https://techcrunch.com/2022/02/21/volta-raises-260m-to-get-its-all-electric-trucks-into-production-by-the-end-of-this-year/)
 - [Avoiding satellite collisions: NOAA unveils prototype warning system](https://www.space.com/noaa-satellite-collision-warning-system-prototype)
-- [1st sighting of &#39;ball lightning&#39; in England uncovered](https://www.space.com/first-ball-lightning-sighting-recorded-england)
-- [A large asteroid zips past Earth today, here&#39;s how to watch it live](https://www.space.com/asteroid-webcast-virtual-telescope-project-1999-VF22)
 <!-- BLOG-POST-LIST:END -->
 
 ---
