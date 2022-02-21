@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple’s standoff with Dutch antitrust authority over dating apps’ payments continues](https://techcrunch.com/2022/02/21/apple-dutch-dating-apps-fine-25-million/)
+- [Neptune: Facts about the eighth planet from the sun](https://www.space.com/41-neptune-the-other-blue-planet-in-our-solar-system.html)
+- [How does time work?](https://www.space.com/time-how-it-works)
+- [Climb aboard a haunted spaceship in S.A. Barnes&#39; new sci-fi horror novel &#39;Dead Silence&#39; &lpar;exclusive&rpar;](https://www.space.com/dead-silence-sci-fi-horror-s-a-barnes-interview)
 - [Meta sent a new draft decision on its EU-US data transfers](https://techcrunch.com/2022/02/21/dpc-meta-draft-data-transfers-decision/)
 - [NASA successfully retests moon rocket core stage engines after fault](https://www.space.com/artemis-i-moon-rocet-engine-tested)
 - [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [James Webb Space Telescope will study Milky Way&#39;s flaring supermassive black hole](https://www.space.com/webb-flaring-milky-way-black-hole)
 - [Three galaxies are tearing each other apart in stunning new Hubble telescope image](https://www.space.com/triple-galaxy-merger-cancer-hubble-photo)
 - [&#39;Moon Gallery&#39; prototype arrives at space station with 64 works of art](https://www.space.com/moon-gallery-space-station-artwork-payload)
-- [NASA&#39;s gamma-ray observatory is back in action after technical glitch](https://www.space.com/nasa-gamma-ray-observatory-back)
-- [Instagram quietly limits ‘daily time limit’ option](https://techcrunch.com/2022/02/21/instagram-limits-daily-time-limits/)
-- [Cygnus cargo ship arrives at space station](https://www.space.com/cygnus-docks-at-international-space-station)
-- [Trump’s TRUTH Social launches at the top of the App Store, but no one can get in](https://techcrunch.com/2022/02/21/trumps-truth-social-app-launch-store-errors/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
