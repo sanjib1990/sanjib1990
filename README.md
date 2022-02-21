@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta sent a new draft decision on its EU-US data transfers](https://techcrunch.com/2022/02/21/dpc-meta-draft-data-transfers-decision/)
+- [NASA successfully retests moon rocket core stage engines after fault](https://www.space.com/artemis-i-moon-rocet-engine-tested)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [James Webb Space Telescope will study Milky Way&#39;s flaring supermassive black hole](https://www.space.com/webb-flaring-milky-way-black-hole)
+- [Three galaxies are tearing each other apart in stunning new Hubble telescope image](https://www.space.com/triple-galaxy-merger-cancer-hubble-photo)
+- [&#39;Moon Gallery&#39; prototype arrives at space station with 64 works of art](https://www.space.com/moon-gallery-space-station-artwork-payload)
 - [NASA&#39;s gamma-ray observatory is back in action after technical glitch](https://www.space.com/nasa-gamma-ray-observatory-back)
 - [Instagram quietly limits ‘daily time limit’ option](https://techcrunch.com/2022/02/21/instagram-limits-daily-time-limits/)
 - [Cygnus cargo ship arrives at space station](https://www.space.com/cygnus-docks-at-international-space-station)
 - [Trump’s TRUTH Social launches at the top of the App Store, but no one can get in](https://techcrunch.com/2022/02/21/trumps-truth-social-app-launch-store-errors/)
-- [Metal clouds and liquid gems spotted in the atmosphere of hot Jupiter WASP-121 b](https://www.space.com/metal-clouds-rain-hot-jupiter-exoplanet-wasp121b)
-- [SpaceX launches 46 Starlink satellites, lands Falcon 9 rocket for 100th time](https://www.space.com/spacex-starlink-satellite-launch-4-8-rocket-landing)
-- [James Webb Space Telescope will do a galaxy deep dive into the dust](https://www.space.com/james-webb-space-telescope-galaxy-dust-study)
-- [Jambo raises $7.5M from Coinbase, Alameda Research to build “web3 super app” of Africa](https://techcrunch.com/2022/02/21/jambo-raises-7-5m-from-coinbase-alameda-research-to-build-web3-super-app-of-africa/)
-- [Best space board games of 2022](https://www.space.com/best-space-board-games)
-- [Groundfloor steps up its real estate debt crowdfunding platform with fresh capital](https://techcrunch.com/2022/02/21/groundfloor-steps-up-its-real-estate-debt-crowdfunding-platform-with-fresh-capital/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
