@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Trump’s TRUTH Social launches at the top of the App Store, but no one can get in](https://techcrunch.com/2022/02/21/trumps-truth-social-app-launch-store-errors/)
 - [Metal clouds and liquid gems spotted in the atmosphere of hot Jupiter WASP-121 b](https://www.space.com/metal-clouds-rain-hot-jupiter-exoplanet-wasp121b)
 - [SpaceX launches 46 Starlink satellites, lands Falcon 9 rocket for 100th time](https://www.space.com/spacex-starlink-satellite-launch-4-8-rocket-landing)
 - [James Webb Space Telescope will do a galaxy deep dive into the dust](https://www.space.com/james-webb-space-telescope-galaxy-dust-study)
@@ -104,7 +105,6 @@
 - [These Lego Movie 2 and Overwatch deals at Amazon are the play of the game](https://www.space.com/uk-lego-overwatch-lego-movie-2-deals)
 - [The Station: DeLorean teases an EV, VW and Huawei are ‘talking’ and feds investigate Tesla](https://techcrunch.com/2022/02/21/the-station-delorean-teases-ev-vw-hauwei-are-talking-feds-investigate-tesla/)
 - [What is cosmology? Definition &amp; history](https://www.space.com/16042-cosmology.html)
-- [Sweden’s Volta raises $260M at a $490M valuation to get its all-electric trucks into production by the end of this year](https://techcrunch.com/2022/02/21/volta-raises-260m-to-get-its-all-electric-trucks-into-production-by-the-end-of-this-year/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
