@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The best sci-fi and space games for Android and iOS](https://www.space.com/41012-best-sci-fi-mobile-games.html)
 - [Philippines payment gateway PayMongo gets $31M Series B, will explore regional expansion](https://techcrunch.com/2022/02/20/philippines-payment-gateway-paymongo-gets-31m-series-b-will-explore-regional-expansion/)
 - [PrimaryBid raises $190M to double down on making it easier for ordinary people to invest in IPOs and follow-on fundraises](https://techcrunch.com/2022/02/20/primarybid-raises-190m-to-double-down-on-making-it-easier-for-ordinary-people-to-invest-in-ipos-and-follow-on-fundraises/)
 - [Zack Snyder&#39;s &#39;Rebel Moon&#39; space opera is coming to Netflix. Here&#39;s the 1st concept art and full cast.](https://www.space.com/zack-snyder-rebel-moon-netflix)
@@ -104,7 +105,6 @@
 - [&#39;Star Trek Online&#39; debuts Captain Janeway on PC](https://www.space.com/star-trek-online-captain-janeway-shadows-advance)
 - [On This Day in Space! Feb. 20, 1962: John Glenn becomes 1st American to orbit Earth](https://www.space.com/39251-on-this-day-in-space.html)
 - [Making spaceflight history: John Glenn orbited Earth 60 years ago today](https://www.space.com/john-glenn-first-american-orbital-flight-60-year-anniversary)
-- [Astronauts, Australian airport mark 60 years since John Glenn first orbited Earth](https://www.space.com/john-glenn-first-american-orbit-60th-anniversary)
 <!-- BLOG-POST-LIST:END -->
 
 ---
