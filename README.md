@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [PerchPeek raises $11M to woo ‘great resignation employees’ with easy relocation](https://techcrunch.com/2022/02/21/perchpeek-raises-11m-to-woo-great-resignation-employees-with-easy-relocation/)
 - [MarketForce raises $40 million Series A, introduces BNPL merchant stock financing](https://techcrunch.com/2022/02/21/marketforce-raises-40-million-series-a-introduces-bnpl-merchant-stock-financing/)
 - [Early stage Euro VC Backed brings in another €150M, and puts a heavy focus on founder events](https://techcrunch.com/2022/02/21/early-stage-euro-vc-backed-brings-in-another-e150m-and-puts-a-heavy-focus-on-founder-events/)
 - [Last mile delivery e-bike supplier Zoomo tacks on $20M to Series B](https://techcrunch.com/2022/02/21/last-mile-delivery-e-bike-supplier-zoomo-tacks-on-20m-to-series-b/)
@@ -104,7 +105,6 @@
 - [How does time work?](https://www.space.com/time-how-it-works)
 - [Climb aboard a haunted spaceship in S.A. Barnes&#39; new sci-fi horror novel &#39;Dead Silence&#39; &lpar;exclusive&rpar;](https://www.space.com/dead-silence-sci-fi-horror-s-a-barnes-interview)
 - [Meta sent a new draft decision on its EU-US data transfers](https://techcrunch.com/2022/02/21/dpc-meta-draft-data-transfers-decision/)
-- [NASA successfully retests moon rocket core stage engines after fault](https://www.space.com/artemis-i-moon-rocet-engine-tested)
 <!-- BLOG-POST-LIST:END -->
 
 ---
