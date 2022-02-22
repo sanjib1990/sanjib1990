@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Equity Monday: Tensions go up, stocks go down](https://techcrunch.com/2022/02/22/equity-monday-tensions-go-up-stocks-go-down/)
+- [Minded, a telehealth platform specializing in managing mental health medication, raises $25M](https://techcrunch.com/2022/02/22/minded-a-telehealth-platform-specializing-in-managing-mental-health-medication-raises-25m/)
+- [EWA, which taps into popular media to teach languages, hits 51M downloads and 3.5M MAUs and raises its first outside funding](https://techcrunch.com/2022/02/22/ewa-which-taps-into-popular-media-to-teach-languages-hits-51m-downloads-and-3-5m-maus-and-raises-its-first-outside-funding/)
+- [Virgin Hyperloop lays off 111 staffers as it abandons plans for passenger transport](https://techcrunch.com/2022/02/22/virgin-hyperloop-lays-off-111-staffers-as-it-abandons-plans-for-passenger-transport/)
 - [Voximplant’s service to build voice and video comms into apps comes out of beta](https://techcrunch.com/2022/02/22/voximplants-service-to-build-voice-and-video-comms-into-apps-comes-out-of-beta/)
 - [SeMI Technologies’ search engine opens up new ways to query your data](https://techcrunch.com/2022/02/22/semi-technologies-search-engine-data/)
 - [Neosapience gets $21.5M to use AI-powered synthetic avatars for creators](https://techcrunch.com/2022/02/22/neosapience-raises-21-5m-to-use-ai-powered-synthetic-avatars-for-creators/)
 - [Can $100 million get Wildtype’s cell-grown salmon into the wild?](https://techcrunch.com/2022/02/22/can-100-million-get-wildtypes-cell-grown-salmon-into-the-wild/)
 - [99 Counties taps regenerative agriculture trend for meat marketplace](https://techcrunch.com/2022/02/22/99-counties-regenerative-agriculture-meat-marketplace/)
 - [Spotify’s in-car entertainment device ‘Car Thing’ is now publicly available](https://techcrunch.com/2022/02/22/spotifys-in-car-entertainment-device-car-thing-is-now-publicly-available/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [Clickatell raises $91M to scale its chat commerce platform and US expansion](https://techcrunch.com/2022/02/22/clickatell-raises-91m-to-scale-its-chat-commerce-platform-and-us-expansion/)
-- [Yali Bio wants to fatten up plant-based foods](https://techcrunch.com/2022/02/22/yali-bio-wants-to-fatten-up-plant-based-foods/)
-- [GraphQL developer platform Hasura raises $100M Series C](https://techcrunch.com/2022/02/22/graphql-developer-platform-hasura-raises-100m-series-c/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
