@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Voximplant’s service to build voice and video comms into apps comes out of beta](https://techcrunch.com/2022/02/22/voximplants-service-to-build-voice-and-video-comms-into-apps-comes-out-of-beta/)
+- [SeMI Technologies’ search engine opens up new ways to query your data](https://techcrunch.com/2022/02/22/semi-technologies-search-engine-data/)
+- [Neosapience gets $21.5M to use AI-powered synthetic avatars for creators](https://techcrunch.com/2022/02/22/neosapience-raises-21-5m-to-use-ai-powered-synthetic-avatars-for-creators/)
+- [Can $100 million get Wildtype’s cell-grown salmon into the wild?](https://techcrunch.com/2022/02/22/can-100-million-get-wildtypes-cell-grown-salmon-into-the-wild/)
+- [99 Counties taps regenerative agriculture trend for meat marketplace](https://techcrunch.com/2022/02/22/99-counties-regenerative-agriculture-meat-marketplace/)
+- [Spotify’s in-car entertainment device ‘Car Thing’ is now publicly available](https://techcrunch.com/2022/02/22/spotifys-in-car-entertainment-device-car-thing-is-now-publicly-available/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [Clickatell raises $91M to scale its chat commerce platform and US expansion](https://techcrunch.com/2022/02/22/clickatell-raises-91m-to-scale-its-chat-commerce-platform-and-us-expansion/)
 - [Yali Bio wants to fatten up plant-based foods](https://techcrunch.com/2022/02/22/yali-bio-wants-to-fatten-up-plant-based-foods/)
 - [GraphQL developer platform Hasura raises $100M Series C](https://techcrunch.com/2022/02/22/graphql-developer-platform-hasura-raises-100m-series-c/)
-- [On This Day in Space! Feb. 22, 1966: Soviet space dogs launch on record-setting mission](https://www.space.com/39251-on-this-day-in-space.html)
-- [&#39;Burning&#39; hydrogen plasma in the world&#39;s largest laser sets fusion records](https://www.space.com/burning-hydrogen-plasma-record-breaking-fusion-experiment)
-- [Researchers unlock the keys to designing an interstellar sail](https://www.space.com/interstellar-flight-lightsail-design)
-- [Rogue planets: How wandering bodies in interstellar space ended up on their own](https://www.space.com/rogue-planets-alone-in-interstellar-space)
-- [Leko Labs gets $21M to build greener](https://techcrunch.com/2022/02/22/leko-labs-series-a/)
-- [Fly around SpaceX&#39;s giant Starship rocket in this stunning drone video](https://www.space.com/spacex-starship-fly-around-drone-video)
-- [Space board games deals 2022](https://www.space.com/space-board-game-deals)
 <!-- BLOG-POST-LIST:END -->
 
 ---
