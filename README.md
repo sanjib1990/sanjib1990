@@ -95,6 +95,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Clickatell raises $91M to scale its chat commerce platform and US expansion](https://techcrunch.com/2022/02/22/clickatell-raises-91m-to-scale-its-chat-commerce-platform-and-us-expansion/)
+- [Yali Bio wants to fatten up plant-based foods](https://techcrunch.com/2022/02/22/yali-bio-wants-to-fatten-up-plant-based-foods/)
+- [GraphQL developer platform Hasura raises $100M Series C](https://techcrunch.com/2022/02/22/graphql-developer-platform-hasura-raises-100m-series-c/)
 - [On This Day in Space! Feb. 22, 1966: Soviet space dogs launch on record-setting mission](https://www.space.com/39251-on-this-day-in-space.html)
 - [&#39;Burning&#39; hydrogen plasma in the world&#39;s largest laser sets fusion records](https://www.space.com/burning-hydrogen-plasma-record-breaking-fusion-experiment)
 - [Researchers unlock the keys to designing an interstellar sail](https://www.space.com/interstellar-flight-lightsail-design)
@@ -102,9 +105,6 @@
 - [Leko Labs gets $21M to build greener](https://techcrunch.com/2022/02/22/leko-labs-series-a/)
 - [Fly around SpaceX&#39;s giant Starship rocket in this stunning drone video](https://www.space.com/spacex-starship-fly-around-drone-video)
 - [Space board games deals 2022](https://www.space.com/space-board-game-deals)
-- [To combat chip shortage, Bosch to invest $296M to produce semiconductors](https://techcrunch.com/2022/02/22/bosch-invest-296m-semiconductor-production-chip-shortage/)
-- [Europe’s Revent hits $68M hard cap on its climate, health &amp; impact-focused fund](https://techcrunch.com/2022/02/22/europes-revent-hits-68m-hard-cap-on-its-climate-health-impact-focused-fund-2/)
-- [Automata expands its lab automation ambitions with $50M B round](https://techcrunch.com/2022/02/22/automata-expands-its-lab-automation-ambitions-with-50m-b-round/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
