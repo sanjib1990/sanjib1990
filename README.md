@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Greylock’s Greg Evans shares strategies for hiring top talent in a hyper-competitive market at TechCrunch Early Stage](https://techcrunch.com/2022/02/22/greylocks-greg-evans-shares-strategies-for-hiring-top-talent-in-a-hyper-competitive-market-at-techcrunch-early-stage/)
+- [What’s worth more: Unicorns or the biggest US tech companies?](https://techcrunch.com/2022/02/22/whats-worth-more-unicorns-or-the-biggest-us-tech-companies/)
+- [Behind the stalkerware network spilling the private phone data of hundreds of thousands](https://techcrunch.com/2022/02/22/stalkerware-network-spilling-data/)
+- [Your Android phone could have stalkerware, here’s how to remove it](https://techcrunch.com/2022/02/22/remove-android-spyware/)
+- [Slack confirms it’s down for some users, says it’s working on a resolution](https://techcrunch.com/2022/02/22/slack-confirms-its-down-for-some-users-says-its-working-on-a-resolution/)
+- [Behold the orby new PlayStation VR2 headset](https://techcrunch.com/2022/02/22/behold-the-orby-new-playstation-vr2-headset/)
 - [Equity Monday: Tensions go up, stocks go down](https://techcrunch.com/2022/02/22/equity-monday-tensions-go-up-stocks-go-down/)
 - [Minded, a telehealth platform specializing in managing mental health medication, raises $25M](https://techcrunch.com/2022/02/22/minded-a-telehealth-platform-specializing-in-managing-mental-health-medication-raises-25m/)
 - [EWA, which taps into popular media to teach languages, hits 51M downloads and 3.5M MAUs and raises its first outside funding](https://techcrunch.com/2022/02/22/ewa-which-taps-into-popular-media-to-teach-languages-hits-51m-downloads-and-3-5m-maus-and-raises-its-first-outside-funding/)
 - [Virgin Hyperloop lays off 111 staffers as it abandons plans for passenger transport](https://techcrunch.com/2022/02/22/virgin-hyperloop-lays-off-111-staffers-as-it-abandons-plans-for-passenger-transport/)
-- [Voximplant’s service to build voice and video comms into apps comes out of beta](https://techcrunch.com/2022/02/22/voximplants-service-to-build-voice-and-video-comms-into-apps-comes-out-of-beta/)
-- [SeMI Technologies’ search engine opens up new ways to query your data](https://techcrunch.com/2022/02/22/semi-technologies-search-engine-data/)
-- [Neosapience gets $21.5M to use AI-powered synthetic avatars for creators](https://techcrunch.com/2022/02/22/neosapience-raises-21-5m-to-use-ai-powered-synthetic-avatars-for-creators/)
-- [Can $100 million get Wildtype’s cell-grown salmon into the wild?](https://techcrunch.com/2022/02/22/can-100-million-get-wildtypes-cell-grown-salmon-into-the-wild/)
-- [99 Counties taps regenerative agriculture trend for meat marketplace](https://techcrunch.com/2022/02/22/99-counties-regenerative-agriculture-meat-marketplace/)
-- [Spotify’s in-car entertainment device ‘Car Thing’ is now publicly available](https://techcrunch.com/2022/02/22/spotifys-in-car-entertainment-device-car-thing-is-now-publicly-available/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
