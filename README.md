@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How this mother and daughter became co-founders and are making professional coaching personal](https://techcrunch.com/2022/02/22/how-this-mother-and-daughter-became-co-founders-and-are-making-professional-coaching-personal/)
 - [NASA&#39;s &#39;quiet&#39; X-59 supersonic plane moves to Texas for testing and calibration](https://www.space.com/x-59-moves-texas-testing-calibration)
 - [How dark is your night sky? An observer&#39;s guide](https://www.space.com/night-sky-quality-observers-guide)
 - [Blue Origin plans to boost spaceflight launches in 2022: report](https://www.space.com/blue-origin-space-tourism-launches-2022)
@@ -104,7 +105,6 @@
 - [The Found podcast is coming to you live in March with Cityblock’s Toyin Ajayi and Tala’s Shivani Siroya](https://techcrunch.com/2022/02/22/the-found-podcast-is-coming-to-you-live-in-march-with-cityblocks-toyin-ajayi-and-talas-shivani-siroya/)
 - [Zenjob nabs $50M for its student job matching marketplace](https://techcrunch.com/2022/02/22/zenjob-series-d/)
 - [Sony unveils the PlayStation VR 2, giving a first look at the new design](https://www.space.com/playstation-vr2-first-look-new-design)
-- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
