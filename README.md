@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Advice and strategy for early-stage sex tech startup founders](https://techcrunch.com/2022/02/22/advice-and-strategy-for-early-stage-sex-tech-startup-founders/)
 - [Best sci-fi movies of the 80s](https://www.space.com/best-sci-fi-movies-of-the-80s)
 - [The Found podcast is coming to you live in March with Cityblock’s Toyin Ajayi and Tala’s Shivani Siroya](https://techcrunch.com/2022/02/22/the-found-podcast-is-coming-to-you-live-in-march-with-cityblocks-toyin-ajayi-and-talas-shivani-siroya/)
 - [Zenjob nabs $50M for its student job matching marketplace](https://techcrunch.com/2022/02/22/zenjob-series-d/)
@@ -104,7 +105,6 @@
 - [How to save money on Warhammer 40K](https://www.space.com/how-to-save-money-on-warhammer-40k)
 - [Google’s Area 120 debuts Checks, an AI-powered privacy compliance solution for mobile apps](https://techcrunch.com/2022/02/22/googles-area-120-debuts-checks-an-ai-powered-privacy-compliance-solution-for-mobile-apps/)
 - [Facebook Reels rolls out worldwide along with new creative tools and ads](https://techcrunch.com/2022/02/22/facebook-reels-rolls-out-worldwide-along-with-new-ads-and-creative-tools/)
-- [Alloy Automation raises $20M to scale its e-commerce automation tech](https://techcrunch.com/2022/02/22/alloy-automation-raises-20m-to-scale-its-e-commerce-automation-tech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
