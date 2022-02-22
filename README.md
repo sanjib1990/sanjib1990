@@ -95,7 +95,6 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Sydney-based startup Upflowy raises $4M to optimize web experiences with its no-code solution](https://techcrunch.com/2022/02/21/sydney-based-startup-upflowy-raises-4m-to-optimize-web-experiences-with-its-no-code-solution/)
 - [Apple’s standoff with Dutch antitrust authority over dating apps’ payments continues](https://techcrunch.com/2022/02/21/apple-dutch-dating-apps-fine-25-million/)
 - [Neptune: Facts about the eighth planet from the sun](https://www.space.com/41-neptune-the-other-blue-planet-in-our-solar-system.html)
 - [How does time work?](https://www.space.com/time-how-it-works)
@@ -105,6 +104,7 @@
 - [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [James Webb Space Telescope will study Milky Way&#39;s flaring supermassive black hole](https://www.space.com/webb-flaring-milky-way-black-hole)
 - [Three galaxies are tearing each other apart in stunning new Hubble telescope image](https://www.space.com/triple-galaxy-merger-cancer-hubble-photo)
+- [&#39;Moon Gallery&#39; prototype arrives at space station with 64 works of art](https://www.space.com/moon-gallery-space-station-artwork-payload)
 <!-- BLOG-POST-LIST:END -->
 
 ---
