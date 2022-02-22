@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google’s Area 120 debuts Checks, an AI-powered privacy compliance solution for mobile apps](https://techcrunch.com/2022/02/22/googles-area-120-debuts-checks-an-ai-powered-privacy-compliance-solution-for-mobile-apps/)
+- [Facebook Reels rolls out worldwide along with new creative tools and ads](https://techcrunch.com/2022/02/22/facebook-reels-rolls-out-worldwide-along-with-new-ads-and-creative-tools/)
+- [Alloy Automation raises $20M to scale its e-commerce automation tech](https://techcrunch.com/2022/02/22/alloy-automation-raises-20m-to-scale-its-e-commerce-automation-tech/)
+- [Stunning image shows galactic dance of stars swirling around a supermassive black hole](https://www.space.com/spanish-dancer-galaxy-photo)
+- [China says moonbound rocket stage was not from 2014 lunar mission: report](https://www.space.com/china-denies-moonbound-rocket-stage)
 - [Greylock’s Greg Evans shares strategies for hiring top talent in a hyper-competitive market at TechCrunch Early Stage](https://techcrunch.com/2022/02/22/greylocks-greg-evans-shares-strategies-for-hiring-top-talent-in-a-hyper-competitive-market-at-techcrunch-early-stage/)
 - [What’s worth more: Unicorns or the biggest US tech companies?](https://techcrunch.com/2022/02/22/whats-worth-more-unicorns-or-the-biggest-us-tech-companies/)
 - [Behind the stalkerware network spilling the private phone data of hundreds of thousands](https://techcrunch.com/2022/02/22/stalkerware-network-spilling-data/)
 - [Your Android phone could have stalkerware, here’s how to remove it](https://techcrunch.com/2022/02/22/remove-android-spyware/)
 - [Slack confirms it’s down for some users, says it’s working on a resolution](https://techcrunch.com/2022/02/22/slack-confirms-its-down-for-some-users-says-its-working-on-a-resolution/)
-- [Behold the orby new PlayStation VR2 headset](https://techcrunch.com/2022/02/22/behold-the-orby-new-playstation-vr2-headset/)
-- [Equity Monday: Tensions go up, stocks go down](https://techcrunch.com/2022/02/22/equity-monday-tensions-go-up-stocks-go-down/)
-- [Minded, a telehealth platform specializing in managing mental health medication, raises $25M](https://techcrunch.com/2022/02/22/minded-a-telehealth-platform-specializing-in-managing-mental-health-medication-raises-25m/)
-- [EWA, which taps into popular media to teach languages, hits 51M downloads and 3.5M MAUs and raises its first outside funding](https://techcrunch.com/2022/02/22/ewa-which-taps-into-popular-media-to-teach-languages-hits-51m-downloads-and-3-5m-maus-and-raises-its-first-outside-funding/)
-- [Virgin Hyperloop lays off 111 staffers as it abandons plans for passenger transport](https://techcrunch.com/2022/02/22/virgin-hyperloop-lays-off-111-staffers-as-it-abandons-plans-for-passenger-transport/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
