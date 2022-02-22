@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sony unveils the PlayStation VR 2, giving a first look at the new design](https://www.space.com/playstation-vr2-first-look-new-design)
+- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html)
+- [How to save money on Warhammer 40K](https://www.space.com/how-to-save-money-on-warhammer-40k)
 - [Google’s Area 120 debuts Checks, an AI-powered privacy compliance solution for mobile apps](https://techcrunch.com/2022/02/22/googles-area-120-debuts-checks-an-ai-powered-privacy-compliance-solution-for-mobile-apps/)
 - [Facebook Reels rolls out worldwide along with new creative tools and ads](https://techcrunch.com/2022/02/22/facebook-reels-rolls-out-worldwide-along-with-new-ads-and-creative-tools/)
 - [Alloy Automation raises $20M to scale its e-commerce automation tech](https://techcrunch.com/2022/02/22/alloy-automation-raises-20m-to-scale-its-e-commerce-automation-tech/)
 - [Stunning image shows galactic dance of stars swirling around a supermassive black hole](https://www.space.com/spanish-dancer-galaxy-photo)
 - [China says moonbound rocket stage was not from 2014 lunar mission: report](https://www.space.com/china-denies-moonbound-rocket-stage)
-- [Greylock’s Greg Evans shares strategies for hiring top talent in a hyper-competitive market at TechCrunch Early Stage](https://techcrunch.com/2022/02/22/greylocks-greg-evans-shares-strategies-for-hiring-top-talent-in-a-hyper-competitive-market-at-techcrunch-early-stage/)
+- [Greylock’s Glen Evans shares strategies for hiring top talent in a hyper-competitive market at TechCrunch Early Stage](https://techcrunch.com/2022/02/22/greylocks-greg-evans-shares-strategies-for-hiring-top-talent-in-a-hyper-competitive-market-at-techcrunch-early-stage/)
 - [What’s worth more: Unicorns or the biggest US tech companies?](https://techcrunch.com/2022/02/22/whats-worth-more-unicorns-or-the-biggest-us-tech-companies/)
-- [Behind the stalkerware network spilling the private phone data of hundreds of thousands](https://techcrunch.com/2022/02/22/stalkerware-network-spilling-data/)
-- [Your Android phone could have stalkerware, here’s how to remove it](https://techcrunch.com/2022/02/22/remove-android-spyware/)
-- [Slack confirms it’s down for some users, says it’s working on a resolution](https://techcrunch.com/2022/02/22/slack-confirms-its-down-for-some-users-says-its-working-on-a-resolution/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
