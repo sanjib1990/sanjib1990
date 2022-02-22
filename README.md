@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [On This Day in Space! Feb. 22, 1966: Soviet space dogs launch on record-setting mission](https://www.space.com/39251-on-this-day-in-space.html)
+- [&#39;Burning&#39; hydrogen plasma in the world&#39;s largest laser sets fusion records](https://www.space.com/burning-hydrogen-plasma-record-breaking-fusion-experiment)
+- [Researchers unlock the keys to designing an interstellar sail](https://www.space.com/interstellar-flight-lightsail-design)
+- [Rogue planets: How wandering bodies in interstellar space ended up on their own](https://www.space.com/rogue-planets-alone-in-interstellar-space)
+- [Leko Labs gets $21M to build greener](https://techcrunch.com/2022/02/22/leko-labs-series-a/)
+- [Fly around SpaceX&#39;s giant Starship rocket in this stunning drone video](https://www.space.com/spacex-starship-fly-around-drone-video)
 - [Space board games deals 2022](https://www.space.com/space-board-game-deals)
 - [To combat chip shortage, Bosch to invest $296M to produce semiconductors](https://techcrunch.com/2022/02/22/bosch-invest-296m-semiconductor-production-chip-shortage/)
 - [Europe’s Revent hits $68M hard cap on its climate, health &amp; impact-focused fund](https://techcrunch.com/2022/02/22/europes-revent-hits-68m-hard-cap-on-its-climate-health-impact-focused-fund-2/)
 - [Automata expands its lab automation ambitions with $50M B round](https://techcrunch.com/2022/02/22/automata-expands-its-lab-automation-ambitions-with-50m-b-round/)
-- [PerchPeek raises $11M to woo ‘great resignation employees’ with easy relocation](https://techcrunch.com/2022/02/21/perchpeek-raises-11m-to-woo-great-resignation-employees-with-easy-relocation/)
-- [MarketForce raises $40 million Series A, introduces BNPL merchant stock financing](https://techcrunch.com/2022/02/21/marketforce-raises-40-million-series-a-introduces-bnpl-merchant-stock-financing/)
-- [Early stage Euro VC Backed brings in another €150M, puts a heavy focus on founder events](https://techcrunch.com/2022/02/21/early-stage-euro-vc-backed-brings-in-another-e150m-and-puts-a-heavy-focus-on-founder-events/)
-- [Last mile delivery e-bike supplier Zoomo tacks on $20M to Series B](https://techcrunch.com/2022/02/21/last-mile-delivery-e-bike-supplier-zoomo-tacks-on-20m-to-series-b/)
-- [Sydney-based startup Upflowy raises $4M to optimize web experiences with its no-code solution](https://techcrunch.com/2022/02/21/sydney-based-startup-upflowy-raises-4m-to-optimize-web-experiences-with-its-no-code-solution/)
-- [Apple’s standoff with Dutch antitrust authority over dating apps’ payments continues](https://techcrunch.com/2022/02/21/apple-dutch-dating-apps-fine-25-million/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
