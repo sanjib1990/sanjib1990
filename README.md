@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Space board games deals 2022](https://www.space.com/space-board-game-deals)
 - [To combat chip shortage, Bosch to invest $296M to produce semiconductors](https://techcrunch.com/2022/02/22/bosch-invest-296m-semiconductor-production-chip-shortage/)
 - [Europe’s Revent hits $68M hard cap on its climate, health &amp; impact-focused fund](https://techcrunch.com/2022/02/22/europes-revent-hits-68m-hard-cap-on-its-climate-health-impact-focused-fund-2/)
 - [Automata expands its lab automation ambitions with $50M B round](https://techcrunch.com/2022/02/22/automata-expands-its-lab-automation-ambitions-with-50m-b-round/)
@@ -104,7 +105,6 @@
 - [Last mile delivery e-bike supplier Zoomo tacks on $20M to Series B](https://techcrunch.com/2022/02/21/last-mile-delivery-e-bike-supplier-zoomo-tacks-on-20m-to-series-b/)
 - [Sydney-based startup Upflowy raises $4M to optimize web experiences with its no-code solution](https://techcrunch.com/2022/02/21/sydney-based-startup-upflowy-raises-4m-to-optimize-web-experiences-with-its-no-code-solution/)
 - [Apple’s standoff with Dutch antitrust authority over dating apps’ payments continues](https://techcrunch.com/2022/02/21/apple-dutch-dating-apps-fine-25-million/)
-- [Neptune: Facts about the eighth planet from the sun](https://www.space.com/41-neptune-the-other-blue-planet-in-our-solar-system.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
