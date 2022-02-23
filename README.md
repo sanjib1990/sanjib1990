@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Moon mystery: Who launched the rocket that will slam into the lunar far side?](https://www.space.com/moonbound-rocket-stage-china-denial-mystery)
+- [&#39;Tatooine-like&#39; planet spotted from Earth points to future discoveries](https://www.space.com/tattooine-like-alien-planet-observed-from-earth)
+- [The European Space Agency wants to be able to launch its own astronauts](https://www.space.com/european-space-agency-launch-own-astronauts)
+- [NASA will update us all on its Artemis 1 moon mission Thursday. Here&#39;s how to follow it live.](https://www.space.com/nasa-artemis-1-update-february-2022-livestream)
 - [Mark Cuban’s Fireside app in talks to raise at $125M valuation](https://techcrunch.com/2022/02/23/fireside-mark-cuban-falon-fatemi/)
 - [B2B marketplace TradeDepot acquires Green Lion to accelerate its growth in Ghana](https://techcrunch.com/2022/02/23/b2b-marketplace-tradedepot-acquires-green-lion-to-accelerate-its-growth-in-ghana/)
 - [Cryptocurrency payments key to lowering cross-border remittance charges and boosting microwork uptake in Africa, study shows](https://techcrunch.com/2022/02/23/cryptocurrency-payments-key-to-lowering-cross-border-remittance-charges-and-boosting-microwork-uptake-in-africa-study-shows/)
 - [Game studios come together to grow industry in Africa](https://techcrunch.com/2022/02/23/game-studios-come-together-to-grow-industry-in-africa/)
 - [Waymo to keep robotaxi safety details secret, court rules](https://techcrunch.com/2022/02/22/waymo-to-keep-robotaxi-safety-details-secret-court-rules/)
 - [Apple says employees and customers are safe after store hostage situation in Amsterdam](https://techcrunch.com/2022/02/22/apple-says-employees-and-customers-are-safe-after-store-hostage-situation-in-amsterdam/)
-- [Tiny nanosat aims to spot volcanic eruptions from space before they happen](https://www.space.com/tiny-nanosat-volcanic-eruptions-space)
-- [Tesla gets wrist slap from EPA for violating Clean Air Act](https://techcrunch.com/2022/02/22/tesla-gets-wrist-slap-from-epa-for-violating-clean-air-act/)
-- [Daily Crunch: How to remove common consumer-grade spyware from your Android phone](https://techcrunch.com/2022/02/22/daily-crunch-how-to-remove-common-consumer-grade-spyware-from-your-android-phone/)
-- [Verdant aims to be the &lpar;robotic&rpar; king of carrot weeders](https://techcrunch.com/2022/02/22/verdant-aims-to-be-the-robotic-king-of-carrot-weeders/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
