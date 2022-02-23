@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Game studios come together to grow industry in Africa](https://techcrunch.com/2022/02/23/game-studios-come-together-to-grow-industry-in-africa/)
 - [Waymo to keep robotaxi safety details secret, court rules](https://techcrunch.com/2022/02/22/waymo-to-keep-robotaxi-safety-details-secret-court-rules/)
 - [Apple says employees and customers are safe after store hostage situation in Amsterdam](https://techcrunch.com/2022/02/22/apple-says-employees-and-customers-are-safe-after-store-hostage-situation-in-amsterdam/)
 - [Tiny nanosat aims to spot volcanic eruptions from space before they happen](https://www.space.com/tiny-nanosat-volcanic-eruptions-space)
@@ -104,7 +105,6 @@
 - [Military activity in Russia spotted in satellite photos as tensions rise in Ukraine](https://www.space.com/ukraine-russia-military-activity-satellite-photos-maxar)
 - [How this mother and daughter became co-founders and are making professional coaching personal](https://techcrunch.com/2022/02/22/how-this-mother-and-daughter-became-co-founders-and-are-making-professional-coaching-personal/)
 - [NASA&#39;s &#39;quiet&#39; X-59 supersonic plane moves to Texas for testing and calibration](https://www.space.com/x-59-moves-texas-testing-calibration)
-- [How dark is your night sky? An observer&#39;s guide](https://www.space.com/night-sky-quality-observers-guide)
 <!-- BLOG-POST-LIST:END -->
 
 ---
