@@ -95,6 +95,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [B2B marketplace TradeDepot acquires Green Lion to accelerate its growth in Ghana](https://techcrunch.com/2022/02/23/b2b-marketplace-tradedepot-acquires-green-lion-to-accelerate-its-growth-in-ghana/)
+- [Cryptocurrency payments key to lowering cross-border remittance charges and boosting microwork uptake in Africa, study shows](https://techcrunch.com/2022/02/23/cryptocurrency-payments-key-to-lowering-cross-border-remittance-charges-and-boosting-microwork-uptake-in-africa-study-shows/)
 - [Game studios come together to grow industry in Africa](https://techcrunch.com/2022/02/23/game-studios-come-together-to-grow-industry-in-africa/)
 - [Waymo to keep robotaxi safety details secret, court rules](https://techcrunch.com/2022/02/22/waymo-to-keep-robotaxi-safety-details-secret-court-rules/)
 - [Apple says employees and customers are safe after store hostage situation in Amsterdam](https://techcrunch.com/2022/02/22/apple-says-employees-and-customers-are-safe-after-store-hostage-situation-in-amsterdam/)
@@ -103,8 +105,6 @@
 - [Daily Crunch: How to remove common consumer-grade spyware from your Android phone](https://techcrunch.com/2022/02/22/daily-crunch-how-to-remove-common-consumer-grade-spyware-from-your-android-phone/)
 - [Verdant aims to be the &lpar;robotic&rpar; king of carrot weeders](https://techcrunch.com/2022/02/22/verdant-aims-to-be-the-robotic-king-of-carrot-weeders/)
 - [Military activity in Russia spotted in satellite photos as tensions rise in Ukraine](https://www.space.com/ukraine-russia-military-activity-satellite-photos-maxar)
-- [How this mother and daughter became co-founders and are making professional coaching personal](https://techcrunch.com/2022/02/22/how-this-mother-and-daughter-became-co-founders-and-are-making-professional-coaching-personal/)
-- [NASA&#39;s &#39;quiet&#39; X-59 supersonic plane moves to Texas for testing and calibration](https://www.space.com/x-59-moves-texas-testing-calibration)
 <!-- BLOG-POST-LIST:END -->
 
 ---
