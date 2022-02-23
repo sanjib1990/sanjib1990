@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Europe proposes rules for fair access to connected device data](https://techcrunch.com/2022/02/23/eu-data-act/)
+- [Vendr acquires Blissfully, combining its SaaS buying services with management tools](https://techcrunch.com/2022/02/23/vendr-acquires-blissfully-combining-its-saas-buying-services-with-management-tools/)
+- [Ramp expands into travel as the corporate spend category goes horizontal](https://techcrunch.com/2022/02/23/corporate-spend-startup-ramp-expands-into-travel-space/)
+- [Recruit, retain, resign, re-skill, repeat](https://techcrunch.com/2022/02/23/recruit-retain-resign-re-skill-repeat/)
+- [thatDot launches Quine, a streaming graph engine](https://techcrunch.com/2022/02/23/thatdot-launches-quine-a-streaming-graph-engine/)
+- [Petition calls for US government release of UFO videos](https://www.space.com/petition-release-us-government-ufo-videos)
+- [Netflix brings its short-form video feed ‘Fast Laughs’ to the TV](https://techcrunch.com/2022/02/23/netflix-brings-its-short-form-video-feed-fast-laughs-to-the-tv/)
 - [Secureframe secures $56M for a platform that automates an enterprise’s compliance with standards like HIPAA and SOC2](https://techcrunch.com/2022/02/23/secureframe-secures-56m-for-a-platform-that-automates-an-enterprises-compliance-with-standards-like-hipaa-and-soc2/)
 - [Bloomreach, now valued at $2.2B, continues to plant seeds of customer personalization](https://techcrunch.com/2022/02/23/bloomreach-customer-personalization/)
 - [Aporia raises $25M Series A for its ML observability platform](https://techcrunch.com/2022/02/23/aporia-raises-25m-series-a-for-its-ml-observability-platform/)
-- [LeadGenius co-founder gets back to user-centric design roots with Marvin](https://techcrunch.com/2022/02/23/leadgenius-co-founder-gets-back-to-user-centric-design-roots-with-marvin/)
-- [Real-time flight rewards search engine point.me raises $2M to scale its travel tool](https://techcrunch.com/2022/02/23/real-time-flight-rewards-search-engine-point-me-raises-2m-to-scale-its-travel-tool/)
-- [Signadot promises developers faster feedback loops](https://techcrunch.com/2022/02/23/signadot-promises-developers-faster-feedback-loops/)
-- [Pitch your startup on TechCrunch Live, a weekly show featuring founders and VCs](https://techcrunch.com/2022/02/23/pitch-your-startup-on-techcrunch-live-a-weekly-show-featuring-founders-and-vcs/)
-- [Pipe expands into media and entertainment financing with its acquisition of Purely Capital](https://techcrunch.com/2022/02/23/fintech-pipe-expands-into-media-and-entertainment-financing-with-its-acquisition-of-purely-capital/)
-- [Aviron looks to game home fitness with its connected rowing machine](https://techcrunch.com/2022/02/23/aviron-looks-to-game-home-fitness-with-its-connected-rowing-machine/)
-- [DishDivvy serves up marketplace for on-demand, home-cooked food](https://techcrunch.com/2022/02/23/dishdivvy-serves-up-marketplace-for-on-demand-home-cooked-food/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
