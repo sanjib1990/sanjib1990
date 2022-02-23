@@ -95,6 +95,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is it time to worry about fintech valuations?](https://techcrunch.com/2022/02/23/is-it-time-to-worry-about-fintech-valuations/)
+- [14 climate tech investors share their H1 2022 strategies](https://techcrunch.com/2022/02/23/14-climate-tech-investors-share-their-h1-2022-investment-strategies/)
+- [Hubble telescope spots a &#39;Space Triangle&#39; galaxy crash spawning new stars](https://www.space.com/hubble-telescope-space-triange-starbirth-waves-photo)
 - [TikTok star Charli D’Amelio and family back Facetune maker Lightricks](https://techcrunch.com/2022/02/23/tiktok-charli-damelio-lightricks-facetune/)
 - [WorkWhile has a fresh take on what workers want from flexible work](https://techcrunch.com/2022/02/23/workwhile-has-a-fresh-take-on-what-workers-want-from-flexible-work/)
 - [IDW honors &#39;The Rocketeer&#39; 40th anniversary with daring new comic book miniseries](https://www.space.com/the-rocketeer-the-great-race-idw-comic)
@@ -102,9 +105,6 @@
 - [Best binoculars 2022: Top picks for stargazing, wildlife watching and more](https://www.space.com/26021-best-binoculars.html)
 - [TikTok pushes bundle of teen safety measures internationally](https://techcrunch.com/2022/02/23/tiktok-teen-safety-international-push/)
 - [DeepScribe’s Akilesh Bapu and Index Venture’s Nina Achadjian to speak on founder/investor relationships on TCL](https://techcrunch.com/2022/02/23/deepscribes-akilesh-bapu-and-index-ventures-nina-achadjian-to-speak-on-founder-investor-relationships-on-tcl/)
-- [‘Elden Ring’: Wonder and terror abound in 2022’s most-anticipated game](https://techcrunch.com/2022/02/23/elden-ring-wonder-and-terror-abound-in-2022s-most-anticipated-game/)
-- [Loop quantum gravity: Does space-time come in tiny chunks?](https://www.space.com/loop-quantum-gravity-space-time-quantized)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
