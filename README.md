@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astrix Security emerges from stealth to help organizations spot rogue third-party apps](https://techcrunch.com/2022/02/23/astrix-security/)
+- [BlueVoyant nabs $250M to help enterprises nab malicious hackers and stop security breaches](https://techcrunch.com/2022/02/23/bluevoyant-nabs-250m-to-help-enterprises-nab-malicious-hackers-and-stop-security-breaches/)
+- [Can you build and manage orbital stations in Orbit.Industries?](https://www.space.com/orbit-industries-video-game-open-beta)
+- [On This Day in Space! Feb. 23, 1990: Pioneer 11 heads out of the solar system](https://www.space.com/39251-on-this-day-in-space.html)
+- [EU swipes at Apple snubbing Dutch antitrust enforcement](https://techcrunch.com/2022/02/23/vestager-apple/)
 - [Moon mystery: Who launched the rocket that will slam into the lunar far side?](https://www.space.com/moonbound-rocket-stage-china-denial-mystery)
 - [&#39;Tatooine-like&#39; planet spotted from Earth points to future discoveries](https://www.space.com/tattooine-like-alien-planet-observed-from-earth)
 - [The European Space Agency wants to be able to launch its own astronauts](https://www.space.com/european-space-agency-launch-own-astronauts)
 - [NASA will update us all on its Artemis 1 moon mission Thursday. Here&#39;s how to follow it live.](https://www.space.com/nasa-artemis-1-update-february-2022-livestream)
 - [Mark Cuban’s Fireside app in talks to raise at $125M valuation](https://techcrunch.com/2022/02/23/fireside-mark-cuban-falon-fatemi/)
-- [B2B marketplace TradeDepot acquires Green Lion to accelerate its growth in Ghana](https://techcrunch.com/2022/02/23/b2b-marketplace-tradedepot-acquires-green-lion-to-accelerate-its-growth-in-ghana/)
-- [Cryptocurrency payments key to lowering cross-border remittance charges and boosting microwork uptake in Africa, study shows](https://techcrunch.com/2022/02/23/cryptocurrency-payments-key-to-lowering-cross-border-remittance-charges-and-boosting-microwork-uptake-in-africa-study-shows/)
-- [Game studios come together to grow industry in Africa](https://techcrunch.com/2022/02/23/game-studios-come-together-to-grow-industry-in-africa/)
-- [Waymo to keep robotaxi safety details secret, court rules](https://techcrunch.com/2022/02/22/waymo-to-keep-robotaxi-safety-details-secret-court-rules/)
-- [Apple says employees and customers are safe after store hostage situation in Amsterdam](https://techcrunch.com/2022/02/22/apple-says-employees-and-customers-are-safe-after-store-hostage-situation-in-amsterdam/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
