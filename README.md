@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DeepScribe’s Akilesh Bapu and Index Venture’s Nina Achadjian to speak on founder/investor relationships on TCL](https://techcrunch.com/2022/02/23/deepscribes-akilesh-bapu-and-index-ventures-nina-achadjian-to-speak-on-founder-investor-relationships-on-tcl/)
+- [‘Elden Ring’: Wonder and terror abound in 2022’s most-anticipated game](https://techcrunch.com/2022/02/23/elden-ring-wonder-and-terror-abound-in-2022s-most-anticipated-game/)
+- [Loop quantum gravity: Does space-time come in tiny chunks?](https://www.space.com/loop-quantum-gravity-space-time-quantized)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [Can our brains help prove the universe is conscious?](https://www.space.com/is-the-universe-conscious)
+- [Nu shares slump on Q4 results, a canary to still-private fintechs](https://techcrunch.com/2022/02/23/nu-shares-slump-on-q4-results-a-canary-to-still-private-fintechs/)
+- [Microsoft brings back Twitch streaming integration directly into the Xbox dashboard](https://techcrunch.com/2022/02/23/microsoft-brings-back-twitch-streaming-integration-directly-into-the-xbox-dashboard/)
 - [Real shooting stars exist, but they aren&#39;t the streaks you see in a clear night sky](https://www.space.com/real-shooting-stars-high-speed)
 - [With mission to modernize data streaming, Redpanda snares $50M Series B](https://techcrunch.com/2022/02/23/with-mission-to-modernize-data-streaming-redpanda-snares-50m-series-b/)
 - [LinkedIn debuts its own podcast network](https://techcrunch.com/2022/02/23/linkedin-debuts-its-own-podcast-network/)
-- [Celebs back Backbone’s mobile gaming controller with $40M round](https://techcrunch.com/2022/02/23/celebs-back-backbones-mobile-gaming-controller-with-40m-round/)
-- [Tap your community and the K factor to drive viral growth](https://techcrunch.com/2022/02/23/tap-your-community-and-the-k-factor-to-drive-viral-growth/)
-- [Europe proposes rules for fair access to connected device data](https://techcrunch.com/2022/02/23/eu-data-act/)
-- [Vendr acquires Blissfully, combining its SaaS buying services with management tools](https://techcrunch.com/2022/02/23/vendr-acquires-blissfully-combining-its-saas-buying-services-with-management-tools/)
-- [Ramp expands into travel as the corporate spend category goes horizontal](https://techcrunch.com/2022/02/23/corporate-spend-startup-ramp-expands-into-travel-space/)
-- [Recruit, retain, resign, re-skill, repeat](https://techcrunch.com/2022/02/23/recruit-retain-resign-re-skill-repeat/)
-- [thatDot launches Quine, a streaming graph engine](https://techcrunch.com/2022/02/23/thatdot-launches-quine-a-streaming-graph-engine/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
