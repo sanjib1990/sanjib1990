@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Secureframe secures $56M for a platform that automates an enterprise’s compliance with standards like HIPAA and SOC2](https://techcrunch.com/2022/02/23/secureframe-secures-56m-for-a-platform-that-automates-an-enterprises-compliance-with-standards-like-hipaa-and-soc2/)
+- [Bloomreach, now valued at $2.2B, continues to plant seeds of customer personalization](https://techcrunch.com/2022/02/23/bloomreach-customer-personalization/)
+- [Aporia raises $25M Series A for its ML observability platform](https://techcrunch.com/2022/02/23/aporia-raises-25m-series-a-for-its-ml-observability-platform/)
+- [LeadGenius co-founder gets back to user-centric design roots with Marvin](https://techcrunch.com/2022/02/23/leadgenius-co-founder-gets-back-to-user-centric-design-roots-with-marvin/)
+- [Real-time flight rewards search engine point.me raises $2M to scale its travel tool](https://techcrunch.com/2022/02/23/real-time-flight-rewards-search-engine-point-me-raises-2m-to-scale-its-travel-tool/)
+- [Signadot promises developers faster feedback loops](https://techcrunch.com/2022/02/23/signadot-promises-developers-faster-feedback-loops/)
+- [Pitch your startup on TechCrunch Live, a weekly show featuring founders and VCs](https://techcrunch.com/2022/02/23/pitch-your-startup-on-techcrunch-live-a-weekly-show-featuring-founders-and-vcs/)
 - [Pipe expands into media and entertainment financing with its acquisition of Purely Capital](https://techcrunch.com/2022/02/23/fintech-pipe-expands-into-media-and-entertainment-financing-with-its-acquisition-of-purely-capital/)
 - [Aviron looks to game home fitness with its connected rowing machine](https://techcrunch.com/2022/02/23/aviron-looks-to-game-home-fitness-with-its-connected-rowing-machine/)
 - [DishDivvy serves up marketplace for on-demand, home-cooked food](https://techcrunch.com/2022/02/23/dishdivvy-serves-up-marketplace-for-on-demand-home-cooked-food/)
-- [Stop guessing your KPIs; Varos shows e-commerce, SaaS companies how you compare to peers](https://techcrunch.com/2022/02/23/stop-guessing-your-kpis-varos-shows-e-commerce-saas-companies-how-you-compare-to-peers/)
-- [Revel to expand EV fast-charging network with backing from BlackRock](https://techcrunch.com/2022/02/23/revel-to-expand-ev-fast-charging-network-with-backing-from-blackrock/)
-- [Binoculars deals: The best discounts and savings available](https://www.space.com/binoculars-deals-sale-discount)
-- [anecdotes, a compliance operating system platform, secures $25M Series A](https://techcrunch.com/2022/02/23/compliance-operating-system-platform-anecdotes-raises-25m-series-a/)
-- [Astrix Security emerges from stealth to help organizations spot rogue third-party apps](https://techcrunch.com/2022/02/23/astrix-security/)
-- [BlueVoyant nabs $250M to help enterprises nab malicious hackers and stop security breaches](https://techcrunch.com/2022/02/23/bluevoyant-nabs-250m-to-help-enterprises-nab-malicious-hackers-and-stop-security-breaches/)
-- [Can you build and manage orbital stations in Orbit.Industries?](https://www.space.com/orbit-industries-video-game-open-beta)
 <!-- BLOG-POST-LIST:END -->
 
 ---
