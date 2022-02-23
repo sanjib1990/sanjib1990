@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pipe expands into media and entertainment financing with its acquisition of Purely Capital](https://techcrunch.com/2022/02/23/fintech-pipe-expands-into-media-and-entertainment-financing-with-its-acquisition-of-purely-capital/)
+- [Aviron looks to game home fitness with its connected rowing machine](https://techcrunch.com/2022/02/23/aviron-looks-to-game-home-fitness-with-its-connected-rowing-machine/)
+- [DishDivvy serves up marketplace for on-demand, home-cooked food](https://techcrunch.com/2022/02/23/dishdivvy-serves-up-marketplace-for-on-demand-home-cooked-food/)
+- [Stop guessing your KPIs; Varos shows e-commerce, SaaS companies how you compare to peers](https://techcrunch.com/2022/02/23/stop-guessing-your-kpis-varos-shows-e-commerce-saas-companies-how-you-compare-to-peers/)
+- [Revel to expand EV fast-charging network with backing from BlackRock](https://techcrunch.com/2022/02/23/revel-to-expand-ev-fast-charging-network-with-backing-from-blackrock/)
+- [Binoculars deals: The best discounts and savings available](https://www.space.com/binoculars-deals-sale-discount)
+- [anecdotes, a compliance operating system platform, secures $25M Series A](https://techcrunch.com/2022/02/23/compliance-operating-system-platform-anecdotes-raises-25m-series-a/)
 - [Astrix Security emerges from stealth to help organizations spot rogue third-party apps](https://techcrunch.com/2022/02/23/astrix-security/)
 - [BlueVoyant nabs $250M to help enterprises nab malicious hackers and stop security breaches](https://techcrunch.com/2022/02/23/bluevoyant-nabs-250m-to-help-enterprises-nab-malicious-hackers-and-stop-security-breaches/)
 - [Can you build and manage orbital stations in Orbit.Industries?](https://www.space.com/orbit-industries-video-game-open-beta)
-- [On This Day in Space! Feb. 23, 1990: Pioneer 11 heads out of the solar system](https://www.space.com/39251-on-this-day-in-space.html)
-- [EU swipes at Apple snubbing Dutch antitrust enforcement](https://techcrunch.com/2022/02/23/vestager-apple/)
-- [Moon mystery: Who launched the rocket that will slam into the lunar far side?](https://www.space.com/moonbound-rocket-stage-china-denial-mystery)
-- [&#39;Tatooine-like&#39; planet spotted from Earth points to future discoveries](https://www.space.com/tattooine-like-alien-planet-observed-from-earth)
-- [The European Space Agency wants to be able to launch its own astronauts](https://www.space.com/european-space-agency-launch-own-astronauts)
-- [NASA will update us all on its Artemis 1 moon mission Thursday. Here&#39;s how to follow it live.](https://www.space.com/nasa-artemis-1-update-february-2022-livestream)
-- [Mark Cuban’s Fireside app in talks to raise at $125M valuation](https://techcrunch.com/2022/02/23/fireside-mark-cuban-falon-fatemi/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
