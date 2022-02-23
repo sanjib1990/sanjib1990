@@ -78,6 +78,7 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [S3:E6: Making Ethical Decisions in Software Design with Prof. Daniel Jackson &amp; Serena Booth](https://www.youtube.com/watch?v=8IOr7KejV_I)
 - [The Shocking State of JavaScript // The Code Report](https://www.youtube.com/watch?v=1L2hrG-7i2Y)
 - [if if if if if....elif](https://www.youtube.com/watch?v=Ec9WQGw4lW0)
 - [Firebase in 100 Seconds](https://www.youtube.com/watch?v=vAoB4VbhRzM)
@@ -87,7 +88,6 @@
 - [Inside the Hidden Git Folder - Computerphile](https://www.youtube.com/watch?v=bSA91XTzeuA)
 - [What happens if you hack 4.5 billion BTC? // The Code Report](https://www.youtube.com/watch?v=KPyeJ5J2a7A)
 - [2 cool &lpar;web&rpar; things to do in Linux // Linux for Hackers // EP 8](https://www.youtube.com/watch?v=HSRghjwTTOQ)
-- [How to Learn to Code - 8 Hard Truths](https://www.youtube.com/watch?v=NtfbWkxJTHw)
 <!-- YOUTUBE:END -->
 
 ---
