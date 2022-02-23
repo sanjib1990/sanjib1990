@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [RightHand cashes in on the white-hot warehouse robotics space with a $66M raise](https://techcrunch.com/2022/02/23/righthand-cashes-in-on-the-white-hot-warehouse-robotics-space-with-a-66m-raise/)
+- [What is a &#39;morning star,&#39; and what is an &#39;evening star&#39;?](https://www.space.com/31851-what-is-morning-star-evening-star.html)
+- [European space partnerships with Russia face uncertain future amid Ukraine tension](https://www.space.com/europe-russia-space-partnership-ukraine-invasion)
+- [US launch providers eyeing Russia-Ukraine situation](https://www.space.com/us-launch-providers-eyeing-russia-ukraine-situation)
+- [Inside the pitch deck that won Heartbeat Health’s first investment check](https://techcrunch.com/2022/02/23/pitchdeck-kindred-ventures-kanyi-maqubela-heartbeat-health/)
 - [This keyboard is something else](https://techcrunch.com/2022/02/23/this-keyboard-is-something-else/)
 - [Dear Sophie: Startup visa news, H-1B and STEM OPT queries](https://techcrunch.com/2022/02/23/dear-sophie-startup-visa-news-h-1b-and-stem-opt-queries/)
 - [Climate investment is heating up with more than $40B invested across 600+ deals in 2021](https://techcrunch.com/2022/02/23/climate-investment/)
 - [Founders: Connect with influential movers and shippers at TC Sessions: Mobility 2022](https://techcrunch.com/2022/02/23/founders-connect-with-influential-movers-and-shippers-at-tc-sessions-mobility-2022/)
 - [Is it time to worry about fintech valuations?](https://techcrunch.com/2022/02/23/is-it-time-to-worry-about-fintech-valuations/)
-- [14 climate tech investors share their H1 2022 strategies](https://techcrunch.com/2022/02/23/14-climate-tech-investors-share-their-h1-2022-investment-strategies/)
-- [Hubble telescope spots a &#39;Space Triangle&#39; galaxy crash with &#39;tsunami of starbirth&#39;](https://www.space.com/hubble-telescope-space-triange-starbirth-waves-photo)
-- [TikTok star Charli D’Amelio and family back Facetune maker Lightricks](https://techcrunch.com/2022/02/23/tiktok-charli-damelio-lightricks-facetune/)
-- [WorkWhile has a fresh take on what workers want from flexible work](https://techcrunch.com/2022/02/23/workwhile-has-a-fresh-take-on-what-workers-want-from-flexible-work/)
-- [IDW honors &#39;The Rocketeer&#39; 40th anniversary with daring new comic book miniseries](https://www.space.com/the-rocketeer-the-great-race-idw-comic)
 <!-- BLOG-POST-LIST:END -->
 
 ---
