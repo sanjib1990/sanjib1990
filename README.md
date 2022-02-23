@@ -95,7 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How this mother and daughter became co-founders and are making professional coaching personal](https://techcrunch.com/2022/02/22/how-this-mother-and-daughter-became-co-founders-and-are-making-professional-coaching-personal/)
+- [Military activity in Russia spotted in satellite photos as tensions rise in Ukraine](https://www.space.com/ukraine-russia-military-activity-satellite-photos-maxar)
 - [NASA&#39;s &#39;quiet&#39; X-59 supersonic plane moves to Texas for testing and calibration](https://www.space.com/x-59-moves-texas-testing-calibration)
 - [How dark is your night sky? An observer&#39;s guide](https://www.space.com/night-sky-quality-observers-guide)
 - [Blue Origin plans to boost spaceflight launches in 2022: report](https://www.space.com/blue-origin-space-tourism-launches-2022)
