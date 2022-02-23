@@ -95,6 +95,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mark Cuban’s Fireside app in talks to raise at $125M valuation](https://techcrunch.com/2022/02/23/fireside-mark-cuban-falon-fatemi/)
 - [B2B marketplace TradeDepot acquires Green Lion to accelerate its growth in Ghana](https://techcrunch.com/2022/02/23/b2b-marketplace-tradedepot-acquires-green-lion-to-accelerate-its-growth-in-ghana/)
 - [Cryptocurrency payments key to lowering cross-border remittance charges and boosting microwork uptake in Africa, study shows](https://techcrunch.com/2022/02/23/cryptocurrency-payments-key-to-lowering-cross-border-remittance-charges-and-boosting-microwork-uptake-in-africa-study-shows/)
 - [Game studios come together to grow industry in Africa](https://techcrunch.com/2022/02/23/game-studios-come-together-to-grow-industry-in-africa/)
@@ -104,7 +105,6 @@
 - [Tesla gets wrist slap from EPA for violating Clean Air Act](https://techcrunch.com/2022/02/22/tesla-gets-wrist-slap-from-epa-for-violating-clean-air-act/)
 - [Daily Crunch: How to remove common consumer-grade spyware from your Android phone](https://techcrunch.com/2022/02/22/daily-crunch-how-to-remove-common-consumer-grade-spyware-from-your-android-phone/)
 - [Verdant aims to be the &lpar;robotic&rpar; king of carrot weeders](https://techcrunch.com/2022/02/22/verdant-aims-to-be-the-robotic-king-of-carrot-weeders/)
-- [Military activity in Russia spotted in satellite photos as tensions rise in Ukraine](https://www.space.com/ukraine-russia-military-activity-satellite-photos-maxar)
 <!-- BLOG-POST-LIST:END -->
 
 ---
