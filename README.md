@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tiny nanosat aims to spot volcanic eruptions from space before they happen](https://www.space.com/tiny-nanosat-volcanic-eruptions-space)
+- [Tesla gets wrist slap from EPA for violating Clean Air Act](https://techcrunch.com/2022/02/22/tesla-gets-wrist-slap-from-epa-for-violating-clean-air-act/)
+- [Daily Crunch: How to remove common consumer-grade spyware from your Android phone](https://techcrunch.com/2022/02/22/daily-crunch-how-to-remove-common-consumer-grade-spyware-from-your-android-phone/)
+- [Verdant aims to be the &lpar;robotic&rpar; king of carrot weeders](https://techcrunch.com/2022/02/22/verdant-aims-to-be-the-robotic-king-of-carrot-weeders/)
 - [Military activity in Russia spotted in satellite photos as tensions rise in Ukraine](https://www.space.com/ukraine-russia-military-activity-satellite-photos-maxar)
+- [How this mother and daughter became co-founders and are making professional coaching personal](https://techcrunch.com/2022/02/22/how-this-mother-and-daughter-became-co-founders-and-are-making-professional-coaching-personal/)
 - [NASA&#39;s &#39;quiet&#39; X-59 supersonic plane moves to Texas for testing and calibration](https://www.space.com/x-59-moves-texas-testing-calibration)
 - [How dark is your night sky? An observer&#39;s guide](https://www.space.com/night-sky-quality-observers-guide)
 - [Blue Origin plans to boost spaceflight launches in 2022: report](https://www.space.com/blue-origin-space-tourism-launches-2022)
 - [Save a whopping 50% on Starship Samurai board game](https://www.space.com/save-50-percent-on-starship-samurai-board-game-deal)
-- [Advice and strategy for early-stage sex tech startup founders](https://techcrunch.com/2022/02/22/advice-and-strategy-for-early-stage-sex-tech-startup-founders/)
-- [Best sci-fi movies of the 80s](https://www.space.com/best-sci-fi-movies-of-the-80s)
-- [The Found podcast is coming to you live in March with Cityblock’s Toyin Ajayi and Tala’s Shivani Siroya](https://techcrunch.com/2022/02/22/the-found-podcast-is-coming-to-you-live-in-march-with-cityblocks-toyin-ajayi-and-talas-shivani-siroya/)
-- [Zenjob nabs $50M for its student job matching marketplace](https://techcrunch.com/2022/02/22/zenjob-series-d/)
-- [Sony unveils the PlayStation VR 2, giving a first look at the new design](https://www.space.com/playstation-vr2-first-look-new-design)
 <!-- BLOG-POST-LIST:END -->
 
 ---
