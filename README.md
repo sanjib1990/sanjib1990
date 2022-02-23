@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TikTok star Charli D’Amelio and family back Facetune maker Lightricks](https://techcrunch.com/2022/02/23/tiktok-charli-damelio-lightricks-facetune/)
+- [WorkWhile has a fresh take on what workers want from flexible work](https://techcrunch.com/2022/02/23/workwhile-has-a-fresh-take-on-what-workers-want-from-flexible-work/)
+- [IDW honors &#39;The Rocketeer&#39; 40th anniversary with daring new comic book miniseries](https://www.space.com/the-rocketeer-the-great-race-idw-comic)
+- [Target to add Starbucks orders and returns to its curbside pickup service](https://techcrunch.com/2022/02/23/target-to-add-starbucks-orders-and-returns-to-its-curbside-pickup-service/)
+- [Best binoculars 2022: Top picks for stargazing, wildlife watching and more](https://www.space.com/26021-best-binoculars.html)
+- [TikTok pushes bundle of teen safety measures internationally](https://techcrunch.com/2022/02/23/tiktok-teen-safety-international-push/)
 - [DeepScribe’s Akilesh Bapu and Index Venture’s Nina Achadjian to speak on founder/investor relationships on TCL](https://techcrunch.com/2022/02/23/deepscribes-akilesh-bapu-and-index-ventures-nina-achadjian-to-speak-on-founder-investor-relationships-on-tcl/)
 - [‘Elden Ring’: Wonder and terror abound in 2022’s most-anticipated game](https://techcrunch.com/2022/02/23/elden-ring-wonder-and-terror-abound-in-2022s-most-anticipated-game/)
 - [Loop quantum gravity: Does space-time come in tiny chunks?](https://www.space.com/loop-quantum-gravity-space-time-quantized)
 - [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [Can our brains help prove the universe is conscious?](https://www.space.com/is-the-universe-conscious)
-- [Nu shares slump on Q4 results, a canary to still-private fintechs](https://techcrunch.com/2022/02/23/nu-shares-slump-on-q4-results-a-canary-to-still-private-fintechs/)
-- [Microsoft brings back Twitch streaming integration directly into the Xbox dashboard](https://techcrunch.com/2022/02/23/microsoft-brings-back-twitch-streaming-integration-directly-into-the-xbox-dashboard/)
-- [Real shooting stars exist, but they aren&#39;t the streaks you see in a clear night sky](https://www.space.com/real-shooting-stars-high-speed)
-- [With mission to modernize data streaming, Redpanda snares $50M Series B](https://techcrunch.com/2022/02/23/with-mission-to-modernize-data-streaming-redpanda-snares-50m-series-b/)
-- [LinkedIn debuts its own podcast network](https://techcrunch.com/2022/02/23/linkedin-debuts-its-own-podcast-network/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
