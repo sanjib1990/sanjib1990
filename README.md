@@ -106,11 +106,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [US sanctions on Russia over Ukraine invasion will degrade Russian space program, Biden says](https://www.space.com/us-russia-sanctions-space-program-impact)
+- [Healthcare unicorn Ro parts ways with top execs after fresh round of funding](https://techcrunch.com/2022/02/24/healthcare-unicorn-ro-parts-ways-with-top-execs-after-fresh-round-of-funding/)
 - [Equity Live: A short note about the ongoing situation in Ukraine](https://techcrunch.com/2022/02/24/equity-live-a-short-note-about-the-ongoing-situation-in-ukraine/)
 - [Upcoming sci-fi TV shows for 2022](https://www.space.com/upcoming-sci-fi-tv-shows)
 - [Siri gains a new gender-neutral voice option in latest iOS update](https://techcrunch.com/2022/02/24/siri-gains-a-new-gender-neutral-voice-option-in-latest-ios-update/)
-- [If you give Tumblr $4.99 a month, you won’t have to see ads anymore](https://techcrunch.com/2022/02/24/tumblr-ad-free-subscription-paid/)
-- [More automatons about buildings and food](https://techcrunch.com/2022/02/24/more-automatons-about-buildings-and-food/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
