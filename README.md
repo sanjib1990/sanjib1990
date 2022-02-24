@@ -106,11 +106,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [To Find the First Galaxies, Webb Pays Attention to Detail and Theory](https://blogs.nasa.gov/webb/2022/02/24/to-find-the-first-galaxies-webb-pays-attention-to-detail-and-theory/)
+- [How to strategically manage your startup advisor’s compensation](https://techcrunch.com/2022/02/24/how-to-strategically-manage-your-startup-advisors-compensation/)
+- [What does the Ukraine invasion mean for US-Russian partnership in space?](https://www.space.com/russia-ukraine-invasion-us-space-partnership-impacts)
 - [Hubble eyes two stunning galaxies before future James Webb Space Telescope observations](https://www.space.com/hubble-image-two-galaxies-webb-study)
 - [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates)
-- [VCs weigh in on Europe’s future in the critical deep tech market](https://techcrunch.com/2022/02/24/vcs-weigh-in-on-europes-future-in-the-critical-deep-tech-market/)
-- [Lightning UK deal: Save 42% on this moon lamp night light](https://www.space.com/moon-lamp-night-light-uk-deal)
-- [White holes: What we know about black holes&#39; neglected twins](https://www.space.com/white-holes.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
