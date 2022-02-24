@@ -75,6 +75,13 @@
 
 ---
 
+### Activities
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
