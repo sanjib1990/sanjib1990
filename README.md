@@ -106,11 +106,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Immune to irony, Nori puts a carbon market on the blockchain](https://techcrunch.com/2022/02/24/nori-series-a-carbon-blockchain/)
+- [NASA will update us all on its Artemis 1 moon mission today. How to follow it online.](https://www.space.com/nasa-artemis-1-update-february-2022-livestream)
 - [Promise’s flexible payment platform for government debts grows fast, raises $25M to keep growing](https://techcrunch.com/2022/02/24/promise-government-installment-plans-raises-25m/)
 - [AnyRoad helps brands measure customer experiences](https://techcrunch.com/2022/02/24/anyroad-helps-brands-measure-customer-experiences/)
 - [Motional and Via launch free autonomous ride-hail service in Las Vegas](https://techcrunch.com/2022/02/24/motional-and-via-launch-free-autonomous-ride-hail-service-in-las-vegas/)
-- [This startup wants to help renters get rewarded for paying their rent on time](https://techcrunch.com/2022/02/24/rewards-for-paying-rent-on-time/)
-- [What was the Star of Bethlehem?](https://www.space.com/star-of-bethlehem)
 <!-- BLOG-POST-LIST:END -->
 
 ---
