@@ -95,16 +95,16 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla’s Kimbal Musk says company was ‘very ignorant’ of environmental impact of its Bitcoin purchase](https://techcrunch.com/2022/02/23/teslas-kimbal-musk-says-company-was-very-ignorant-of-environmental-impact-of-its-bitcoin-purchase/)
+- [Inclusive live commerce: Engaging live agents to move beyond captioning](https://techcrunch.com/2022/02/23/inclusive-live-commerce-engaging-live-agents-to-move-beyond-captioning/)
+- [Daily Crunch: Sources say creator platform Fireside will cozy up to a $125M Series A](https://techcrunch.com/2022/02/23/daily-crunch-sources-say-creator-platform-fireside-will-cozy-up-to-a-125m-series-a/)
+- [USPS snubs EVs, Biden with next-gen delivery fleet deal](https://techcrunch.com/2022/02/23/usps-snubs-evs-biden-with-next-gen-delivery-fleet-deal/)
+- [Twitter reinstates accounts sharing open source info on Russian military threat](https://techcrunch.com/2022/02/23/twitter-russia-ukraine-osint-accounts-suspended/)
 - [Mark Zuckerberg demos a tool for building virtual worlds using voice commands](https://techcrunch.com/2022/02/23/mark-zuckerberg-demos-a-tool-for-building-virtual-worlds-using-voice-commands/)
 - [Jumia reports record orders and revenue but investors remain unconvinced](https://techcrunch.com/2022/02/23/jumia-reports-record-orders-and-revenue-but-investors-remain-unconvinced/)
 - [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html)
 - [RightHand cashes in on the white-hot warehouse robotics space with a $66M raise](https://techcrunch.com/2022/02/23/righthand-cashes-in-on-the-white-hot-warehouse-robotics-space-with-a-66m-raise/)
 - [What is a &#39;morning star,&#39; and what is an &#39;evening star&#39;?](https://www.space.com/31851-what-is-morning-star-evening-star.html)
-- [European space partnerships with Russia face uncertain future amid Ukraine tension](https://www.space.com/europe-russia-space-partnership-ukraine-invasion)
-- [US launch providers eyeing Russia-Ukraine situation](https://www.space.com/us-launch-providers-eyeing-russia-ukraine-situation)
-- [Inside the pitch deck that won Heartbeat Health’s first investment check](https://techcrunch.com/2022/02/23/pitchdeck-kindred-ventures-kanyi-maqubela-heartbeat-health/)
-- [This mechanical keyboard is something else](https://techcrunch.com/2022/02/23/this-keyboard-is-something-else/)
-- [Dear Sophie: Startup visa news, H-1B and STEM OPT queries](https://techcrunch.com/2022/02/23/dear-sophie-startup-visa-news-h-1b-and-stem-opt-queries/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
