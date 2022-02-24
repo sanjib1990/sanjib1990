@@ -106,11 +106,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Clubhouse adds text-based chat rooms for the mic shy](https://techcrunch.com/2022/02/24/clubhouse-in-room-chat/)
+- [Coinbase crushes expectations in Q4 earnings, but stock sinks as it reports slower start to year](https://techcrunch.com/2022/02/24/coinbase-crushes-expectations-in-q4-earnings-but-stock-sinks-as-it-reports-slower-start-to-year/)
+- [Strangely tilted black hole challenges formation theories](https://www.space.com/tilted-black-hole-challenges-formation-theories)
+- [James Webb Space Telescope instrument checkouts on track amid mirror alignment](https://www.space.com/james-webb-space-telescope-calibration-instrument-help)
 - [US sanctions on Russia over Ukraine invasion will degrade Russian space program, Biden says](https://www.space.com/us-russia-sanctions-space-program-impact)
-- [Healthcare unicorn Ro parts ways with top execs after fresh round of funding](https://techcrunch.com/2022/02/24/healthcare-unicorn-ro-parts-ways-with-top-execs-after-fresh-round-of-funding/)
-- [Equity Live: A short note about the ongoing situation in Ukraine](https://techcrunch.com/2022/02/24/equity-live-a-short-note-about-the-ongoing-situation-in-ukraine/)
-- [Upcoming sci-fi TV shows for 2022](https://www.space.com/upcoming-sci-fi-tv-shows)
-- [Siri gains a new gender-neutral voice option in latest iOS update](https://techcrunch.com/2022/02/24/siri-gains-a-new-gender-neutral-voice-option-in-latest-ios-update/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
