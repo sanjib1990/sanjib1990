@@ -106,11 +106,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [To Find the First Galaxies, Webb Pays Attention to Detail and Theory](https://blogs.nasa.gov/webb/2022/02/24/to-find-the-first-galaxies-webb-pays-attention-to-detail-and-theory/)
-- [How to strategically manage your startup advisor’s compensation](https://techcrunch.com/2022/02/24/how-to-strategically-manage-your-startup-advisors-compensation/)
-- [What does the Ukraine invasion mean for US-Russian partnership in space?](https://www.space.com/russia-ukraine-invasion-us-space-partnership-impacts)
-- [Hubble eyes two stunning galaxies before future James Webb Space Telescope observations](https://www.space.com/hubble-image-two-galaxies-webb-study)
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates)
+- [Equity Live: A short note about the ongoing situation in Ukraine](https://techcrunch.com/2022/02/24/equity-live-a-short-note-about-the-ongoing-situation-in-ukraine/)
+- [Upcoming sci-fi TV shows for 2022](https://www.space.com/upcoming-sci-fi-tv-shows)
+- [Siri gains a new gender-neutral voice option in latest iOS update](https://techcrunch.com/2022/02/24/siri-gains-a-new-gender-neutral-voice-option-in-latest-ios-update/)
+- [If you give Tumblr $4.99 a month, you won’t have to see ads anymore](https://techcrunch.com/2022/02/24/tumblr-ad-free-subscription-paid/)
+- [More automatons about buildings and food](https://techcrunch.com/2022/02/24/more-automatons-about-buildings-and-food/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
