@@ -90,11 +90,6 @@
 - [The Shocking State of JavaScript // The Code Report](https://www.youtube.com/watch?v=1L2hrG-7i2Y)
 - [if if if if if....elif](https://www.youtube.com/watch?v=Ec9WQGw4lW0)
 - [Firebase in 100 Seconds](https://www.youtube.com/watch?v=vAoB4VbhRzM)
-- [i HACKED my wife’s web browser &lpar;it’s SCARY easy!!&rpar;](https://www.youtube.com/watch?v=3ogyS4KOlXc)
-- [7 ways to deal with CSS](https://www.youtube.com/watch?v=ouncVBiye_M)
-- [Lua in 100 Seconds](https://www.youtube.com/watch?v=jUuqBZwwkQw)
-- [Inside the Hidden Git Folder - Computerphile](https://www.youtube.com/watch?v=bSA91XTzeuA)
-- [What happens if you hack 4.5 billion BTC? // The Code Report](https://www.youtube.com/watch?v=KPyeJ5J2a7A)
 <!-- YOUTUBE:END -->
 
 ---
