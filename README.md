@@ -106,11 +106,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Clutter merges with MakeSpace to add scale to the business of moving and storage](https://techcrunch.com/2022/02/24/clutter-merges-with-makespace-to-add-scale-to-the-business-of-moving-and-storage/)
-- [With new $20B fund, Insight Partners has a stunning $90B in assets under management](https://techcrunch.com/2022/02/24/with-new-20b-fund-insight-partners-has-as-stunning-90b-in-assets-under-management/)
-- [Reddit app revamp adds a Discover Tab for finding communities, new navigation](https://techcrunch.com/2022/02/24/reddit-revamps-with-a-new-discover-tab-for-finding-communities/)
-- [Emi’s technology makes hiring frontline workers faster](https://techcrunch.com/2022/02/24/emis-technology-makes-hiring-frontline-workers-faster/)
-- [Cloudflare to acquire Area 1 Security, a startup that blocks phishing emails](https://techcrunch.com/2022/02/24/cloudflare-to-acquire-area-1-security-a-startup-that-blocks-phishing-emails/)
+- [Promise’s flexible payment platform for government debts grows fast, raises $25M to keep growing](https://techcrunch.com/2022/02/24/promise-government-installment-plans-raises-25m/)
+- [AnyRoad helps brands measure customer experiences](https://techcrunch.com/2022/02/24/anyroad-helps-brands-measure-customer-experiences/)
+- [Motional and Via launch free autonomous ride-hail service in Las Vegas](https://techcrunch.com/2022/02/24/motional-and-via-launch-free-autonomous-ride-hail-service-in-las-vegas/)
+- [This startup wants to help renters get rewarded for paying their rent on time](https://techcrunch.com/2022/02/24/rewards-for-paying-rent-on-time/)
+- [What was the Star of Bethlehem?](https://www.space.com/star-of-bethlehem)
 <!-- BLOG-POST-LIST:END -->
 
 ---
