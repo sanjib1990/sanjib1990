@@ -106,11 +106,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Immune to irony, Nori puts a carbon market on the blockchain](https://techcrunch.com/2022/02/24/nori-series-a-carbon-blockchain/)
-- [NASA will update us all on its Artemis 1 moon mission today. How to follow it online.](https://www.space.com/nasa-artemis-1-update-february-2022-livestream)
-- [Promise’s flexible payment platform for government debts grows fast, raises $25M to keep growing](https://techcrunch.com/2022/02/24/promise-government-installment-plans-raises-25m/)
-- [AnyRoad helps brands measure customer experiences](https://techcrunch.com/2022/02/24/anyroad-helps-brands-measure-customer-experiences/)
-- [Motional and Via launch free autonomous ride-hail service in Las Vegas](https://techcrunch.com/2022/02/24/motional-and-via-launch-free-autonomous-ride-hail-service-in-las-vegas/)
+- [Top subscription app revenue grew 41% in 2021 to reach $18.3 billion](https://techcrunch.com/2022/02/24/top-subscription-app-revenue-grew-41-in-2021-to-reach-18-3-billion/)
+- [How the tech industry is responding to Russia’s invasion of Ukraine](https://techcrunch.com/2022/02/24/russia-ukraine/)
+- [The US must harness the power of Silicon Valley to spur military innovation](https://techcrunch.com/2022/02/24/the-us-must-harness-the-power-of-silicon-valley-to-spur-military-innovation/)
+- [Gloria Lin thinks construction needs to ‘catch the wave of fintech’](https://techcrunch.com/2022/02/24/siteline-stealth-gloria-lin/)
+- [Virgin Galactic plans to start flying paying customers this year](https://www.space.com/virgin-galactic-fly-paying-customers-2022)
 <!-- BLOG-POST-LIST:END -->
 
 ---
