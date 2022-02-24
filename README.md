@@ -71,6 +71,10 @@
 
 ---
 
+![Metrics](https://metrics.lecoq.io/sanjib1990?template=classic&isocalendar=1&languages=1&stars=1&followup=1&code=1&projects=1&activity=1&achievements=1&notable=1&discussions=1&lines=1&repositories=1&gists=1&introduction=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=full-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&followup.sections=repositories&followup.indepth=false&projects.limit=4&projects.descriptions=false&code.lines=12&code.load=100&code.visibility=all&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=true&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&discussions.categories=true&discussions.categories.limit=0&introduction.title=true&config.timezone=Asia%2FCalcutta)
+
+---
+
 [![Sanjib's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjib1990)](https://github.com/sanjib1990/github-readme-stats)
 
 ---
@@ -108,10 +112,6 @@
 - [As brands clamour to back causes, Good-Loop raises $6M for its view-to-donate ad platform](https://techcrunch.com/2022/02/23/as-brands-clamour-to-back-causes-good-loop-wins-6m-for-its-view-to-donate-ad-platform/)
 - [Indian neobank Niyo raises $100 million, tops 4 million customers](https://techcrunch.com/2022/02/23/niyo-neobank-india/)
 <!-- BLOG-POST-LIST:END -->
-
----
-
-![Metrics](https://metrics.lecoq.io/sanjib1990?template=classic&isocalendar=1&languages=1&stars=1&followup=1&code=1&projects=1&activity=1&achievements=1&notable=1&discussions=1&lines=1&repositories=1&gists=1&introduction=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=full-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&followup.sections=repositories&followup.indepth=false&projects.limit=4&projects.descriptions=false&code.lines=12&code.load=100&code.visibility=all&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=true&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&discussions.categories=true&discussions.categories.limit=0&introduction.title=true&config.timezone=Asia%2FCalcutta)
 
 ---
 
