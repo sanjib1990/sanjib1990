@@ -106,11 +106,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Depict.ai raises $17M to give e-commerce sites Amazon-level product recommendation muscle](https://techcrunch.com/2022/02/24/depict-ai-raises-17m-to-give-e-commerce-sites-amazon-level-product-recommendation-muscle/)
-- [Is our universe a holographic projection? Scientists are using black holes and quantum computing to find out.](https://www.space.com/black-holes-holographic-projection-quantum-computing-study)
-- [Russian military could target satellites in Ukraine conflict, NRO chief warns: report](https://www.space.com/russian-military-could-target-satellites-nro-chief-warns)
-- [A giant Mars dust pile is sculpted by the wind in this photo by a European probe](https://www.space.com/mars-wind-dust-image-esa-mars-express-photo)
-- [Cosmic detectives investigate the origins of Milky Way material](https://www.space.com/milky-way-star-origin-revealed-study)
+- [Clutter merges with MakeSpace to add scale to the business of moving and storage](https://techcrunch.com/2022/02/24/clutter-merges-with-makespace-to-add-scale-to-the-business-of-moving-and-storage/)
+- [With new $20B fund, Insight Partners has a stunning $90B in assets under management](https://techcrunch.com/2022/02/24/with-new-20b-fund-insight-partners-has-as-stunning-90b-in-assets-under-management/)
+- [Reddit app revamp adds a Discover Tab for finding communities, new navigation](https://techcrunch.com/2022/02/24/reddit-revamps-with-a-new-discover-tab-for-finding-communities/)
+- [Emi’s technology makes hiring frontline workers faster](https://techcrunch.com/2022/02/24/emis-technology-makes-hiring-frontline-workers-faster/)
+- [Cloudflare to acquire Area 1 Security, a startup that blocks phishing emails](https://techcrunch.com/2022/02/24/cloudflare-to-acquire-area-1-security-a-startup-that-blocks-phishing-emails/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
