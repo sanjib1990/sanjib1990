@@ -116,6 +116,10 @@
 
 ---
 
+![Metrics](https://github.com/sanjib1990/sanjib1990/blob/master/github-metrics.svg)
+
+---
+
 [linkedin]: https://linkedin.com/in/sanjib-devnath-76a55642
 [vscode]: https://code.visualstudio.com/
 [javascript]: https://www.w3schools.com/js/DEFAULT.asp
