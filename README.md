@@ -106,11 +106,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hubble eyes two stunning galaxies before future James Webb Space Telescope observations](https://www.space.com/hubble-image-two-galaxies-webb-study)
+- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates)
+- [VCs weigh in on Europe’s future in the critical deep tech market](https://techcrunch.com/2022/02/24/vcs-weigh-in-on-europes-future-in-the-critical-deep-tech-market/)
+- [Lightning UK deal: Save 42% on this moon lamp night light](https://www.space.com/moon-lamp-night-light-uk-deal)
 - [White holes: What we know about black holes&#39; neglected twins](https://www.space.com/white-holes.html)
-- [Nikola reports EV truck progress, stiff losses as it closes out turbulent 2021](https://techcrunch.com/2022/02/24/nikola-earnings-report-ev-truck-progress-stiff-losses-2021/)
-- [Rocket Lab aims to break in new launch pad with next space mission](https://www.space.com/rocket-lab-new-pad-february-28-launch)
-- [Hear from these amazing investors and founders on TechCrunch Live this March](https://techcrunch.com/2022/02/24/hear-from-these-amazing-investors-and-founders-on-techcrunch-live-this-march/)
-- [Defy.vc’s Brian Rothenberg explains growth marketing strategies that don’t break the bank at TC Early Stage](https://techcrunch.com/2022/02/24/defy-vcs-brian-rothenberg-explains-growth-marketing-strategies-that-dont-break-the-bank-at-tc-early-stage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
