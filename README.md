@@ -78,6 +78,11 @@
 ### Activities
 
 <!--START_SECTION:activity-->
+1. ❌ Closed PR [#11](https://github.com/sanjib1990/front-vue/pull/11) in [sanjib1990/front-vue](https://github.com/sanjib1990/front-vue)
+2. ❌ Closed PR [#10](https://github.com/sanjib1990/front-vue/pull/10) in [sanjib1990/front-vue](https://github.com/sanjib1990/front-vue)
+3. ❌ Closed PR [#7](https://github.com/sanjib1990/front-vue/pull/7) in [sanjib1990/front-vue](https://github.com/sanjib1990/front-vue)
+4. ❌ Closed PR [#8](https://github.com/sanjib1990/front-vue/pull/8) in [sanjib1990/front-vue](https://github.com/sanjib1990/front-vue)
+5. ❌ Closed PR [#6](https://github.com/sanjib1990/front-vue/pull/6) in [sanjib1990/front-vue](https://github.com/sanjib1990/front-vue)
 <!--END_SECTION:activity-->
 
 ---
@@ -90,11 +95,6 @@
 - [The Shocking State of JavaScript // The Code Report](https://www.youtube.com/watch?v=1L2hrG-7i2Y)
 - [if if if if if....elif](https://www.youtube.com/watch?v=Ec9WQGw4lW0)
 - [Firebase in 100 Seconds](https://www.youtube.com/watch?v=vAoB4VbhRzM)
-- [i HACKED my wife’s web browser &lpar;it’s SCARY easy!!&rpar;](https://www.youtube.com/watch?v=3ogyS4KOlXc)
-- [7 ways to deal with CSS](https://www.youtube.com/watch?v=ouncVBiye_M)
-- [Lua in 100 Seconds](https://www.youtube.com/watch?v=jUuqBZwwkQw)
-- [Inside the Hidden Git Folder - Computerphile](https://www.youtube.com/watch?v=bSA91XTzeuA)
-- [What happens if you hack 4.5 billion BTC? // The Code Report](https://www.youtube.com/watch?v=KPyeJ5J2a7A)
 <!-- YOUTUBE:END -->
 
 ---
@@ -102,16 +102,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [VC Brendan Wallace of Fifth Wall isn’t quite ready to invest in the metaverse](https://techcrunch.com/2022/02/23/vc-brendan-wallace-of-fifth-wall-isnt-quite-ready-to-invest-in-the-metaverse/)
-- [Tesla’s Kimbal Musk says company was ‘very ignorant’ of environmental impact of its Bitcoin purchase](https://techcrunch.com/2022/02/23/teslas-kimbal-musk-says-company-was-very-ignorant-of-environmental-impact-of-its-bitcoin-purchase/)
-- [Inclusive live commerce: Engaging live agents to move beyond captioning](https://techcrunch.com/2022/02/23/inclusive-live-commerce-engaging-live-agents-to-move-beyond-captioning/)
-- [Daily Crunch: Sources say creator platform Fireside will cozy up to a $125M Series A](https://techcrunch.com/2022/02/23/daily-crunch-sources-say-creator-platform-fireside-will-cozy-up-to-a-125m-series-a/)
-- [USPS snubs EVs, Biden with next-gen delivery fleet deal](https://techcrunch.com/2022/02/23/usps-snubs-evs-biden-with-next-gen-delivery-fleet-deal/)
-- [Twitter reinstates accounts sharing open source info on Russian military threat](https://techcrunch.com/2022/02/23/twitter-russia-ukraine-osint-accounts-suspended/)
-- [Mark Zuckerberg demos a tool for building virtual worlds using voice commands](https://techcrunch.com/2022/02/23/mark-zuckerberg-demos-a-tool-for-building-virtual-worlds-using-voice-commands/)
-- [Jumia reports record orders and revenue but investors remain unconvinced](https://techcrunch.com/2022/02/23/jumia-reports-record-orders-and-revenue-but-investors-remain-unconvinced/)
-- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html)
-- [RightHand cashes in on the white-hot warehouse robotics space with a $66M raise](https://techcrunch.com/2022/02/23/righthand-cashes-in-on-the-white-hot-warehouse-robotics-space-with-a-66m-raise/)
+- [Jeffrey Katzenberg backs the $10M Seed round for HUBUC’s embedded finance API](https://techcrunch.com/2022/02/24/jeffrey-katzenberg-backs-the-10m-seed-round-for-hubucs-embedded-finance-api/)
+- [Specify automagically collects, stores and distributes your design tokens and assets](https://techcrunch.com/2022/02/24/specify-automagically-collects-stores-and-distributes-your-design-tokens-and-assets/)
+- [Finary wants to reimagine private banking](https://techcrunch.com/2022/02/24/finary-wants-to-reimagine-private-banking/)
+- [As brands clamour to back causes, Good-Loop raises $6M for its view-to-donate ad platform](https://techcrunch.com/2022/02/23/as-brands-clamour-to-back-causes-good-loop-wins-6m-for-its-view-to-donate-ad-platform/)
+- [Indian neobank Niyo raises $100 million, tops 4 million customers](https://techcrunch.com/2022/02/23/niyo-neobank-india/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
