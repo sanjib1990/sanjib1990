@@ -106,11 +106,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Jeffrey Katzenberg backs the $10M Seed round for HUBUC’s embedded finance API](https://techcrunch.com/2022/02/24/jeffrey-katzenberg-backs-the-10m-seed-round-for-hubucs-embedded-finance-api/)
-- [Specify automagically collects, stores and distributes your design tokens and assets](https://techcrunch.com/2022/02/24/specify-automagically-collects-stores-and-distributes-your-design-tokens-and-assets/)
-- [Finary wants to reimagine private banking](https://techcrunch.com/2022/02/24/finary-wants-to-reimagine-private-banking/)
-- [As brands clamour to back causes, Good-Loop raises $6M for its view-to-donate ad platform](https://techcrunch.com/2022/02/23/as-brands-clamour-to-back-causes-good-loop-wins-6m-for-its-view-to-donate-ad-platform/)
-- [Indian neobank Niyo raises $100 million, tops 4 million customers](https://techcrunch.com/2022/02/23/niyo-neobank-india/)
+- [Depict.ai raises $17M to give e-commerce sites Amazon-level product recommendation muscle](https://techcrunch.com/2022/02/24/depict-ai-raises-17m-to-give-e-commerce-sites-amazon-level-product-recommendation-muscle/)
+- [Is our universe a holographic projection? Scientists are using black holes and quantum computing to find out.](https://www.space.com/black-holes-holographic-projection-quantum-computing-study)
+- [Russian military could target satellites in Ukraine conflict, NRO chief warns: report](https://www.space.com/russian-military-could-target-satellites-nro-chief-warns)
+- [A giant Mars dust pile is sculpted by the wind in this photo by a European probe](https://www.space.com/mars-wind-dust-image-esa-mars-express-photo)
+- [Cosmic detectives investigate the origins of Milky Way material](https://www.space.com/milky-way-star-origin-revealed-study)
 <!-- BLOG-POST-LIST:END -->
 
 ---
