@@ -106,11 +106,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Fresh from new round, Egypt’s proptech Nawy plans full-suite offering](https://techcrunch.com/2022/02/25/fresh-from-new-round-egypts-proptech-nawy-plans-full-suite-offering/)
-- [The idea that university degrees don’t matter is a Silicon Valley fantasy](https://techcrunch.com/2022/02/25/the-idea-that-university-degrees-dont-matter-is-a-silicon-valley-fantasy/)
-- [Day One Ventures adds climate-focused partner Sanjiv Sanghavi](https://techcrunch.com/2022/02/25/day-one-ventures-adds-sanjiv-sanghavi/)
-- [Russia says it is restricting access to Facebook in the country](https://techcrunch.com/2022/02/25/russia-facebook-restricted-censorship-ukraine/)
-- [Will Mobile World Congress be more of the same?](https://techcrunch.com/2022/02/25/will-mobile-world-congress-be-more-of-the-same/)
+- [Dear Sophie: How can US tech companies support Ukrainians with immigration?](https://techcrunch.com/2022/02/25/dear-sophie-how-can-us-tech-companies-support-ukrainians-with-immigration/)
+- [Amazon Music to overtake Pandora as No. 2 U.S. music streamer this year](https://techcrunch.com/2022/02/25/amazon-music-to-overtake-pandora-as-no-2-u-s-music-streamer-this-year/)
+- [Russian space chief criticizes sanctions imposed by United States](https://www.space.com/roscosmos-rogozin-russia-iss-space-sanctions)
+- [&#39;Radio Spaceman&#39; first look: Hellboy&#39;s Mike Mignola blasts into outer space with new Dark Horse Comics miniseries](https://www.space.com/dark-horse-comics-mike-mignola-radio-spaceman)
+- [Why I’m using a credit facility to grow my startup](https://techcrunch.com/2022/02/25/why-im-using-a-credit-facility-to-grow-my-startup/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
