@@ -106,11 +106,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hack VC raises $200M fund to back early-stage crypto startups](https://techcrunch.com/2022/02/25/hack-vc-launches-200m-crypto-seed-fund/)
+- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
+- [SpaceX launches 50 Starlink satellites, lands rocket on ship at sea](https://www.space.com/spacex-50-starlink-satellites-launch-february-2022)
+- [James Webb Space Telescope is nearly halfway through its mirror alignment stages](https://www.space.com/jwst-nearly-halfway-through-mirror-alignment)
+- [MWC to bar some Russian companies from next week’s show](https://techcrunch.com/2022/02/25/mwc-2022-limits-russia/)
 - [Ukraine says Belarusian hackers are targeting its defense forces](https://techcrunch.com/2022/02/25/belarus-hackers-ukraine/)
-- [Should we be growing trees in the desert to combat climate change?](https://techcrunch.com/2022/02/25/should-we-be-growing-trees-in-the-desert-to-combat-climate-change/)
-- [Webb Mirror Alignment Continues Successfully](https://blogs.nasa.gov/webb/2022/02/25/webb-mirror-alignment-continues-successfully/)
-- [Herzog doc &#39;Last Exit: Space&#39; examines our future off Earth &lpar;exclusive trailer sneak peek&rpar;](https://www.space.com/last-exit-space-documentary-herzog-trailer-sneak-peek)
 <!-- BLOG-POST-LIST:END -->
 
 ---
