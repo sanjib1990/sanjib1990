@@ -106,11 +106,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Are late-stage startup valuations going to suffer this year?](https://techcrunch.com/2022/02/25/are-late-stage-startup-valuations-going-to-suffer-this-year/)
-- [Can Taur be the brand that makes e-scooter ownership cool?](https://techcrunch.com/2022/02/25/can-taur-be-the-brand-that-makes-e-scooter-ownership-cool/)
-- [Cococart sweetens the process for e-commerce companies to take orders immediately](https://techcrunch.com/2022/02/25/cococart-seed-e-commerce-orders/)
-- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
-- [On This Day in Space! Feb. 25, 1982: Western Union launches Westar 4 communications satellite](https://www.space.com/39251-on-this-day-in-space.html)
+- [Hack VC raises $200M fund to back early-stage crypto startups](https://techcrunch.com/2022/02/25/hack-vc-launches-200m-crypto-seed-fund/)
+- [Ukraine says Belarusian hackers are targeting its defense forces](https://techcrunch.com/2022/02/25/belarus-hackers-ukraine/)
+- [Should we be growing trees in the desert to combat climate change?](https://techcrunch.com/2022/02/25/should-we-be-growing-trees-in-the-desert-to-combat-climate-change/)
+- [Webb Mirror Alignment Continues Successfully](https://blogs.nasa.gov/webb/2022/02/25/webb-mirror-alignment-continues-successfully/)
+- [Herzog doc &#39;Last Exit: Space&#39; examines our future off Earth &lpar;exclusive trailer sneak peek&rpar;](https://www.space.com/last-exit-space-documentary-herzog-trailer-sneak-peek)
 <!-- BLOG-POST-LIST:END -->
 
 ---
