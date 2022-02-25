@@ -106,11 +106,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fresh from new round, Egypt’s proptech Nawy plans full-suite offering](https://techcrunch.com/2022/02/25/fresh-from-new-round-egypts-proptech-nawy-plans-full-suite-offering/)
+- [The idea that university degrees don’t matter is a Silicon Valley fantasy](https://techcrunch.com/2022/02/25/the-idea-that-university-degrees-dont-matter-is-a-silicon-valley-fantasy/)
 - [Day One Ventures adds climate-focused partner Sanjiv Sanghavi](https://techcrunch.com/2022/02/25/day-one-ventures-adds-sanjiv-sanghavi/)
 - [Russia says it is restricting access to Facebook in the country](https://techcrunch.com/2022/02/25/russia-facebook-restricted-censorship-ukraine/)
 - [Will Mobile World Congress be more of the same?](https://techcrunch.com/2022/02/25/will-mobile-world-congress-be-more-of-the-same/)
-- [Hack VC raises $200M fund to back early-stage crypto startups](https://techcrunch.com/2022/02/25/hack-vc-launches-200m-crypto-seed-fund/)
-- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
