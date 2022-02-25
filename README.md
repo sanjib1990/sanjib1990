@@ -106,11 +106,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Can Taur be the brand that makes e-scooter ownership cool?](https://techcrunch.com/2022/02/25/can-taur-be-the-brand-that-makes-e-scooter-ownership-cool/)
+- [Cococart sweetens the process for e-commerce companies to take orders immediately](https://techcrunch.com/2022/02/25/cococart-seed-e-commerce-orders/)
+- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
 - [On This Day in Space! Feb. 25, 1982: Western Union launches Westar 4 communications satellite](https://www.space.com/39251-on-this-day-in-space.html)
 - [What is the average temperature on Earth?](https://www.space.com/17816-earth-temperature.html)
-- [SpaceX launching 50 Starlink satellites, landing rocket today: Watch it live](https://www.space.com/spacex-50-starlink-satellites-launch-february-2022)
-- [Swirling winds of Saturn trigger never-before-seen auroras](https://www.space.com/saturn-winds-trigger-new-auroras)
-- [NASA&#39;s daring Parker Solar Probe spacecraft zips past the sun again today](https://www.space.com/parker-solar-probe-close-approach-february-2022)
 <!-- BLOG-POST-LIST:END -->
 
 ---
