@@ -106,11 +106,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New Russia sanctions won&#39;t imperil ISS operations, NASA says](https://www.space.com/russia-ukraine-nasa-response-iss-operations)
 - [Singapore-based micromobility startup Beam secures $93M Series B, enters new markets](https://techcrunch.com/2022/02/24/singapore-based-micromobility-startup-beam-secures-93m-series-b-enters-new-markets/)
 - [Carvana acquires Adesa US auction business for $2.2B to jump-start used car sales](https://techcrunch.com/2022/02/24/carvana-buys-adesa-us-auction-business-to-jumpstart-used-car-sales/)
 - [UK wants to squeeze freedom of reach to take on internet trolls](https://techcrunch.com/2022/02/24/uk-online-safety-bill-anonymous-trolling/)
 - [Roc soars again: Biggest airplane ever built aces 4th test flight](https://www.space.com/stratolaunch-roc-aces-fourth-test-flight)
-- [Daily Crunch: Overnight, Russia’s invasion puts Ukrainian tech industry on a war footing](https://techcrunch.com/2022/02/24/daily-crunch-overnight-russias-invasion-puts-ukrainian-tech-industry-on-a-war-footing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
