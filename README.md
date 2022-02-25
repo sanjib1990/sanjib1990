@@ -106,11 +106,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Dear Sophie: How can US tech companies support Ukrainians with immigration?](https://techcrunch.com/2022/02/25/dear-sophie-how-can-us-tech-companies-support-ukrainians-with-immigration/)
-- [Amazon Music to overtake Pandora as No. 2 U.S. music streamer this year](https://techcrunch.com/2022/02/25/amazon-music-to-overtake-pandora-as-no-2-u-s-music-streamer-this-year/)
-- [Russian space chief criticizes sanctions imposed by United States](https://www.space.com/roscosmos-rogozin-russia-iss-space-sanctions)
-- [&#39;Radio Spaceman&#39; first look: Hellboy&#39;s Mike Mignola blasts into outer space with new Dark Horse Comics miniseries](https://www.space.com/dark-horse-comics-mike-mignola-radio-spaceman)
-- [Why I’m using a credit facility to grow my startup](https://techcrunch.com/2022/02/25/why-im-using-a-credit-facility-to-grow-my-startup/)
+- [Hear how Snorkel AI pitched and won over Greylock on TechCrunch Live](https://techcrunch.com/2022/02/25/hear-how-snorkel-ai-pitched-and-won-over-greylock-on-techcrunch-live/)
+- [Zendesk terminates $4.1B SurveyMonkey acquisition after its own investors reject deal](https://techcrunch.com/2022/02/25/zendesk-terminates-4-1b-surveymonkey-acquisition-after-its-own-investors-reject-deal/)
+- [TechCrunch+ roundup: Climate tech survey, sex tech strategy, startup advisor compensation](https://techcrunch.com/2022/02/25/techcrunch-roundup-climate-tech-survey-sex-tech-strategy-startup-advisor-compensation/)
+- [Nvidia confirms it is investigating a cybersecurity incident](https://techcrunch.com/2022/02/25/nvidia-cyber-incident/)
+- [Katherine Wu leaves Coinbase Ventures to join crypto investment firm Archetype](https://techcrunch.com/2022/02/25/katherine-wu-leaves-coinbase-ventures-to-join-crypto-investment-firm-archetype/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
