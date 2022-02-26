@@ -79,18 +79,6 @@
 
 ---
 
-### Activities
-
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#11](https://github.com/sanjib1990/front-vue/pull/11) in [sanjib1990/front-vue](https://github.com/sanjib1990/front-vue)
-2. ❌ Closed PR [#10](https://github.com/sanjib1990/front-vue/pull/10) in [sanjib1990/front-vue](https://github.com/sanjib1990/front-vue)
-3. ❌ Closed PR [#7](https://github.com/sanjib1990/front-vue/pull/7) in [sanjib1990/front-vue](https://github.com/sanjib1990/front-vue)
-4. ❌ Closed PR [#8](https://github.com/sanjib1990/front-vue/pull/8) in [sanjib1990/front-vue](https://github.com/sanjib1990/front-vue)
-5. ❌ Closed PR [#6](https://github.com/sanjib1990/front-vue/pull/6) in [sanjib1990/front-vue](https://github.com/sanjib1990/front-vue)
-<!--END_SECTION:activity-->
-
----
-
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
