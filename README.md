@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Russia halts Soyuz rocket launches from South America over European sanctions on Ukraine invasion](https://www.space.com/russia-halts-soyuz-launches-french-guiana)
 - [Startups scramble in wake of Ukraine invasion](https://techcrunch.com/2022/02/26/startups-scramble-in-wake-of-ukraine-invasion/)
 - [This Week in Apps: Facebook Reels goes global, Trump’s own social app arrives, all eyes on TikTok](https://techcrunch.com/2022/02/26/this-week-in-apps-facebook-reels-goes-global-trumps-own-social-app-arrives-all-eyes-on-tiktok/)
 - [Not all SPACs are garbage, and the power of teamwork](https://techcrunch.com/2022/02/26/not-all-spacs-are-garbage-and-the-power-of-teamwork/)
 - [On This Day in Space! Feb. 26, 1966: 1st launch of Saturn 1B rocket](https://www.space.com/39251-on-this-day-in-space.html)
-- [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
