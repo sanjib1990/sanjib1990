@@ -106,11 +106,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: State-sponsored hackers target private email addresses of Ukrainian military](https://techcrunch.com/2022/02/25/daily-crunch-state-sponsored-hackers-target-private-email-addresses-of-ukrainian-military/)
 - [&#39;Star Trek: Discovery&#39; Season 4, Episode 9 begins setting up the big season finale](https://www.space.com/star-trek-discovery-season-4-episode-9-review)
 - [Is there anything beyond the universe?](https://www.space.com/whats-beyond-universe-edge)
 - [Hear how Snorkel AI pitched and won over Greylock on TechCrunch Live](https://techcrunch.com/2022/02/25/hear-how-snorkel-ai-pitched-and-won-over-greylock-on-techcrunch-live/)
 - [Zendesk terminates $4.1B SurveyMonkey acquisition after its own investors reject deal](https://techcrunch.com/2022/02/25/zendesk-terminates-4-1b-surveymonkey-acquisition-after-its-own-investors-reject-deal/)
-- [TechCrunch+ roundup: Climate tech survey, sex tech strategy, startup advisor compensation](https://techcrunch.com/2022/02/25/techcrunch-roundup-climate-tech-survey-sex-tech-strategy-startup-advisor-compensation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
