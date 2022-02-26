@@ -106,11 +106,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New sky map showcases more than 4 million galaxies, stars and other objects](https://www.space.com/sky-map-showcases-4-million-galaxies)
+- [See the moon align with Venus and Mars in Sunday&#39;s morning sky](https://www.space.com/moon-venus-mars-conjunction-february-2022)
 - [Europe&#39;s space chief says cooperation with Russia will continue, but experts aren&#39;t so sure](https://www.space.com/european-space-agency-cooperation-with-russia-questions)
 - [Daily Crunch: State-sponsored hackers target private email addresses of Ukrainian military](https://techcrunch.com/2022/02/25/daily-crunch-state-sponsored-hackers-target-private-email-addresses-of-ukrainian-military/)
 - [&#39;Star Trek: Discovery&#39; Season 4, Episode 9 begins setting up the big season finale](https://www.space.com/star-trek-discovery-season-4-episode-9-review)
-- [Is there anything beyond the universe?](https://www.space.com/whats-beyond-universe-edge)
-- [Hear how Snorkel AI pitched and won over Greylock on TechCrunch Live](https://techcrunch.com/2022/02/25/hear-how-snorkel-ai-pitched-and-won-over-greylock-on-techcrunch-live/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
