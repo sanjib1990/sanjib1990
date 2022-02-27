@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [I feel cyber attacked // The Code Report](https://www.youtube.com/watch?v=3OqQhtLwY9o)
 - [Git Version Control _final_new_final.new - Computerphile](https://www.youtube.com/watch?v=lJu5xwbGgRk)
 - [make CRAZY money in tech &lpar;top 5 Entry-Level Certs&rpar;](https://www.youtube.com/watch?v=W2tTsjkX76o)
 - [Vite in 100 Seconds](https://www.youtube.com/watch?v=KCrXgy8qtjM)
 - [S3:E6: Making Ethical Decisions in Software Design with Prof. Daniel Jackson &amp; Serena Booth](https://www.youtube.com/watch?v=8IOr7KejV_I)
-- [The Shocking State of JavaScript // The Code Report](https://www.youtube.com/watch?v=1L2hrG-7i2Y)
 <!-- YOUTUBE:END -->
 
 ---
