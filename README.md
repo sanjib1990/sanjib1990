@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [What is a supernova?](https://www.space.com/6638-supernova.html)
-- [Russia halts Soyuz rocket launches from South America over European sanctions on Ukraine invasion](https://www.space.com/russia-halts-soyuz-launches-french-guiana)
-- [Startups scramble in wake of Ukraine invasion](https://techcrunch.com/2022/02/26/startups-scramble-in-wake-of-ukraine-invasion/)
-- [This Week in Apps: Facebook Reels goes global, Trump’s own social app arrives, all eyes on TikTok](https://techcrunch.com/2022/02/26/this-week-in-apps-facebook-reels-goes-global-trumps-own-social-app-arrives-all-eyes-on-tiktok/)
-- [Not all SPACs are garbage, and the power of teamwork](https://techcrunch.com/2022/02/26/not-all-spacs-are-garbage-and-the-power-of-teamwork/)
+- [Elon Musk says SpaceX&#39;s Starlink satellite internet service is active in Ukraine with more terminals on the way](https://www.space.com/elon-musk-says-spacex-starlink-active-ukraine)
+- [The moon meets up with Mercury and Saturn early Monday morning](https://www.space.com/moon-mercury-saturn-conjunctions-february-2022)
+- [Physicists get closer than ever to measuring the elusive neutrino](https://www.space.com/physicists-close-to-measuring-neutrino)
+- [Venus&#39; extreme surface heat drives swirling winds in upper atmosphere, study finds](https://www.space.com/venus-extreme-surface-winds-temperatures-new-study)
+- [Tonga underwater volcano eruption shattered two records](https://www.space.com/tonga-volcano-eruption-record-breaking-lightning)
 <!-- BLOG-POST-LIST:END -->
 
 ---
