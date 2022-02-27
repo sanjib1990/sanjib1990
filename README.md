@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [On This Day in Space! Feb. 27, 1942: J.S. Hey discovers radio emissions from the sun](https://www.space.com/39251-on-this-day-in-space.html)
 - [Elon Musk says SpaceX&#39;s Starlink satellite internet service is active in Ukraine with more terminals on the way](https://www.space.com/elon-musk-says-spacex-starlink-active-ukraine)
 - [The moon meets up with Mercury and Saturn early Monday morning](https://www.space.com/moon-mercury-saturn-conjunctions-february-2022)
 - [Physicists get closer than ever to measuring the elusive neutrino](https://www.space.com/physicists-close-to-measuring-neutrino)
 - [Venus&#39; extreme surface heat drives swirling winds in upper atmosphere, study finds](https://www.space.com/venus-extreme-surface-winds-temperatures-new-study)
-- [Tonga underwater volcano eruption shattered two records](https://www.space.com/tonga-volcano-eruption-record-breaking-lightning)
 <!-- BLOG-POST-LIST:END -->
 
 ---
