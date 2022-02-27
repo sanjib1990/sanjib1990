@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Advanced new GOES-T weather satellite is &#39;go&#39; for launch on March 1, NASA says](https://www.space.com/goes-t-weather-satellite-go-for-launch)
 - [Fintech Roundup: More female founders in fintech? Yes, please](https://techcrunch.com/2022/02/27/fintech-roundup-more-female-founders-in-fintech-yes-please/)
 - [A new main series Pokémon game is coming in late 2022](https://techcrunch.com/2022/02/27/pokemon-generation-9/)
 - [On This Day in Space! Feb. 27, 1942: J.S. Hey discovers radio emissions from the sun](https://www.space.com/39251-on-this-day-in-space.html)
 - [Elon Musk says SpaceX&#39;s Starlink satellite internet service is active in Ukraine with more terminals on the way](https://www.space.com/elon-musk-says-spacex-starlink-active-ukraine)
-- [The moon meets up with Mercury and Saturn early Monday morning](https://www.space.com/moon-mercury-saturn-conjunctions-february-2022)
 <!-- BLOG-POST-LIST:END -->
 
 ---
