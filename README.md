@@ -83,10 +83,10 @@
 
 <!-- YOUTUBE:START -->
 - [Git Version Control _final_new_final.new - Computerphile](https://www.youtube.com/watch?v=lJu5xwbGgRk)
+- [make CRAZY money in tech &lpar;top 5 Entry-Level Certs&rpar;](https://www.youtube.com/watch?v=W2tTsjkX76o)
 - [Vite in 100 Seconds](https://www.youtube.com/watch?v=KCrXgy8qtjM)
+- [S3:E6: Making Ethical Decisions in Software Design with Prof. Daniel Jackson &amp; Serena Booth](https://www.youtube.com/watch?v=8IOr7KejV_I)
 - [The Shocking State of JavaScript // The Code Report](https://www.youtube.com/watch?v=1L2hrG-7i2Y)
-- [Firebase in 100 Seconds](https://www.youtube.com/watch?v=vAoB4VbhRzM)
-- [7 ways to deal with CSS](https://www.youtube.com/watch?v=ouncVBiye_M)
 <!-- YOUTUBE:END -->
 
 ---
