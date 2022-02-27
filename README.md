@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Future Retail, Amazon’s estranged partner in India, scales down operations](https://techcrunch.com/2022/02/27/future-retail-reliance-amazon/)
 - [Ukraine takes the resistance to cyberspace, assembling an “IT army” to hack sites from Russia and its allies, calls on tech leaders to get involved](https://techcrunch.com/2022/02/27/ukraine-takes-the-resistance-to-cyberspace-assembling-an-it-army-to-hack-sites-from-russia-and-its-allies-calls-on-tech-leaders-to-get-involved/)
 - [Reface, a viral face-swap app from Ukraine, adds anti-war push notifications](https://techcrunch.com/2022/02/27/reface-a-viral-face-swap-app-from-ukraine-adds-anti-war-push-notifications/)
 - [Advanced new GOES-T weather satellite is &#39;go&#39; for launch on March 1, NASA says](https://www.space.com/goes-t-weather-satellite-go-for-launch)
 - [Fintech Roundup: More female founders in fintech? Yes, please](https://techcrunch.com/2022/02/27/fintech-roundup-more-female-founders-in-fintech-yes-please/)
-- [A new main series Pokémon game is coming in late 2022](https://techcrunch.com/2022/02/27/pokemon-generation-9/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
