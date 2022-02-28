@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [After 2 rejected deals, Zendesk considers its next steps](https://techcrunch.com/2022/02/28/after-2-rejected-deals-zendesk-considers-its-next-steps/)
+- [Leverage early investors when raising a Series A, says DeepScribe’s Akilesh Bapu](https://techcrunch.com/2022/02/28/leverage-early-investors-when-raising-a-series-a-says-deepscribes-akilesh-bapu/)
+- [Ax-1, 1st all-private crewed flight to ISS, aims to blaze trail for future missions](https://www.space.com/axiom-ax-1-mission-space-station-preview)
 - [China&#39;s moon rover spots 2 strange glass spheres on far side](https://www.space.com/china-moon-rover-finds-strange-glass-spheres)
 - [Humanity faces &#39;grave and mounting threat&#39; of climate change — unless we act, IPCC report reveals](https://www.space.com/ipcc-climate-report-we-are-not-ready)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [Second-time founder of climate tech company Supercritical discusses learning how to balance motherhood and being a CEO](https://techcrunch.com/2022/02/28/second-time-founder-of-climate-tech-company-supercritical-discusses-learning-how-to-balance-motherhood-and-being-a-ceo/)
-- [Stämm Biotech raises $17M for its next-generation, 3D printed bioreactor](https://techcrunch.com/2022/02/28/stamm-biotech-raises-17m-for-its-next-generation-3d-printed-bioreactor/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
