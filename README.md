@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Weee! delivers second big funding round in a year, this time backed by SoftBank](https://techcrunch.com/2022/02/28/weee-delivers-second-big-funding-round-in-a-year-this-time-backed-by-softbank/)
 - [The Station: Dispatches from a US-Ukrainian startup, Waymo gets a trade secret win and Rivian’s production strategy](https://techcrunch.com/2022/02/28/the-station-dispatches-from-a-us-ukrainian-startup-waymo-gets-a-trade-secret-win-and-rivians-production-strategy/)
 - [On This Day in Space! Feb. 28, 1959: Discoverer 1 spy satellite goes missing after launch](https://www.space.com/39251-on-this-day-in-space.html)
 - [Rocket Lab will launch its 1st mission from new pad today. Here&#39;s how to watch live](https://www.space.com/rocket-lab-first-launch-new-pad-webcast)
 - [What is the temperature on the moon?](https://www.space.com/18175-moon-temperature.html)
-- [Tonga volcano eruption yields insights into asteroid impacts on Earth](https://www.space.com/tonga-volcano-eruption-yields-asteroid-impact-insights)
 <!-- BLOG-POST-LIST:END -->
 
 ---
