@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Flashfood raises $12.3M to scale its grocery app that helps tackle retail food waste](https://techcrunch.com/2022/02/28/flashfood-raises-12-3m-to-scale-its-grocery-app-that-helps-tackle-retail-food-waste/)
-- [HearHere raises $3.2M to scale its immersive storytelling road-trip app](https://techcrunch.com/2022/02/28/hearhere-raises-3-2m-to-scale-its-immersive-storytelling-road-trip-app/)
-- [As EU says it’ll ban Russia’s ‘toxic media machine’, social media firms face pressure to act](https://techcrunch.com/2022/02/28/eu-rt-sputnik-ban-social-media-pressure/)
-- [Weee! delivers second big funding round in a year, this time backed by SoftBank](https://techcrunch.com/2022/02/28/weee-delivers-second-big-funding-round-in-a-year-this-time-backed-by-softbank/)
-- [The Station: Dispatches from a US-Ukrainian startup, Waymo gets a trade secret win and Rivian’s production strategy](https://techcrunch.com/2022/02/28/the-station-dispatches-from-a-us-ukrainian-startup-waymo-gets-a-trade-secret-win-and-rivians-production-strategy/)
+- [Regulatory scrutiny is good for the future of software](https://techcrunch.com/2022/02/28/regulatory-scrutiny-is-good-for-the-future-of-software/)
+- [LinkedIn acquires Israeli web analytics startup Oribi to expand its marketing technology](https://techcrunch.com/2022/02/28/linkedin-acquires-israeli-web-analytics-startup-oribi-to-expand-its-marketing-technology/)
+- [iHeartRadio modernizes the radio call-in with launch of ‘Talk Back,’ a tool for sending voice messages to show hosts](https://techcrunch.com/2022/02/28/iheartradio-modernizes-the-radio-call-in-with-launch-of-talk-back-a-tool-for-sending-voice-messages-to-show-hosts/)
+- [Was Einstein wrong? The case against space-time theory](https://www.space.com/end-of-einstein-space-time)
+- [Equity Monday: Fintech consolidation could be picking up](https://techcrunch.com/2022/02/28/equity-monday-fintech-consolidation-could-be-picking-up/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
