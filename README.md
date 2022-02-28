@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [EU confirms ban on Kremlin-backed media is expected to cover online platforms](https://techcrunch.com/2022/02/28/eu-rt-ban-extends-online/)
+- [Max Q: International space collaboration under threat](https://techcrunch.com/2022/02/28/max-q-international-space-collaboration-under-threat/)
+- [Lucid rolls back production goals even as demand for luxury EV rises](https://techcrunch.com/2022/02/28/lucid-rolls-back-production-goals-even-as-demand-for-luxury-ev-rises/)
+- [China’s social media giants remove ‘inappropriate’ Ukraine content](https://techcrunch.com/2022/02/28/chinese-social-media-giants-remove-inappropriate-ukraine-content/)
 - [Rocket Lab launches Earth-observation satellite in 1st mission from new pad](https://www.space.com/rocket-lab-first-launch-new-pad-owls-night-continues)
-- [BharatPe founder Ashneer Grover resigns from board amid turmoil at Indian fintech](https://techcrunch.com/2022/02/28/ashneer-grover-shark-tank-bharatpe-board-resignation/)
-- [Ingenuity helicopter aces 20th Mars flight](https://www.space.com/nasa-ingenuity-mars-helicopter-20th-flight)
-- [Instagram is shutting down its standalone IGTV app](https://techcrunch.com/2022/02/28/instagram-is-shutting-down-its-standalone-igtv-app/)
-- [SpaceX hints at replacing Russian space station services](https://www.space.com/spacex-elon-musk-hint-replacing-russia-soyuz)
 <!-- BLOG-POST-LIST:END -->
 
 ---
