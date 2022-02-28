@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Atlas V rocket rolling to launch pad with GOES-T weather satellite for NASA, NOAA &lpar;video replay&rpar;](https://www.space.com/nasa-goes-t-weather-satellite-atlas-v-rocket-rollout)
+- [TikTok expands max video length to 10 minutes, up from 3 minutes](https://techcrunch.com/2022/02/28/tiktok-expands-max-video-length-to-10-minutes-up-from-3-minutes/)
 - [Regulatory scrutiny is good for the future of software](https://techcrunch.com/2022/02/28/regulatory-scrutiny-is-good-for-the-future-of-software/)
-- [LinkedIn acquires Israeli web analytics startup Oribi to expand its marketing technology](https://techcrunch.com/2022/02/28/linkedin-acquires-israeli-web-analytics-startup-oribi-to-expand-its-marketing-technology/)
+- [LinkedIn acquires Israeli web analytics startup Oribi for $80M-90M to expand its marketing technology](https://techcrunch.com/2022/02/28/linkedin-acquires-israeli-web-analytics-startup-oribi-to-expand-its-marketing-technology/)
 - [iHeartRadio modernizes the radio call-in with launch of ‘Talk Back,’ a tool for sending voice messages to show hosts](https://techcrunch.com/2022/02/28/iheartradio-modernizes-the-radio-call-in-with-launch-of-talk-back-a-tool-for-sending-voice-messages-to-show-hosts/)
-- [Was Einstein wrong? The case against space-time theory](https://www.space.com/end-of-einstein-space-time)
-- [Equity Monday: Fintech consolidation could be picking up](https://techcrunch.com/2022/02/28/equity-monday-fintech-consolidation-could-be-picking-up/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
