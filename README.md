@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Atlas V rocket rolling to launch pad with GOES-T weather satellite for NASA, NOAA &lpar;video replay&rpar;](https://www.space.com/nasa-goes-t-weather-satellite-atlas-v-rocket-rollout)
-- [TikTok expands max video length to 10 minutes, up from 3 minutes](https://techcrunch.com/2022/02/28/tiktok-expands-max-video-length-to-10-minutes-up-from-3-minutes/)
-- [Regulatory scrutiny is good for the future of software](https://techcrunch.com/2022/02/28/regulatory-scrutiny-is-good-for-the-future-of-software/)
-- [LinkedIn acquires Israeli web analytics startup Oribi for $80M-90M to expand its marketing technology](https://techcrunch.com/2022/02/28/linkedin-acquires-israeli-web-analytics-startup-oribi-to-expand-its-marketing-technology/)
-- [iHeartRadio modernizes the radio call-in with launch of ‘Talk Back,’ a tool for sending voice messages to show hosts](https://techcrunch.com/2022/02/28/iheartradio-modernizes-the-radio-call-in-with-launch-of-talk-back-a-tool-for-sending-voice-messages-to-show-hosts/)
+- [Orkes, founded by the creators of Netflix’s open source Conductor workflow orchestration tool, comes out of stealth with $9.3M](https://techcrunch.com/2022/02/28/orkes-from-the-creators-of-netflixs-open-source-conductor-workflow-orchestration-tool-comes-out-of-stealth-with-9-3m/)
+- [What’s your BNPL startup really worth?](https://techcrunch.com/2022/02/28/whats-your-bnpl-startup-really-worth/)
+- [Harvest Moon 2022: When and how to see September&#39;s full moon](https://www.space.com/33790-harvest-moon-guide.html)
+- [The PR boss behind Groupon, Lemonade and Squarespace shares how to land press coverage at TechCrunch Early Stage](https://techcrunch.com/2022/02/28/the-pr-boss-behind-groupon-lemonade-and-squarespace-shares-how-to-land-press-coverage-at-techcrunch-early-stage/)
+- [Apple hit with sixth antitrust fine over Dutch dating apps payments](https://techcrunch.com/2022/02/28/apple-sixth-acm-fine/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
