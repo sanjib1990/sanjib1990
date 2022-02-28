@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Temasek in talks to back India’s OneCard at $1.5 billion valuation](https://techcrunch.com/2022/02/28/temasek-onecard-fpl/)
 - [Lenovo’s new ThinkPad kicks off Qualcomm’s new Snapdragon laptop platform](https://techcrunch.com/2022/02/28/lenovos-new-thinkpad-kicks-off-qualcomms-new-snapdragon-laptop-platform/)
 - [Future Retail, Amazon’s estranged partner in India, scales down operations](https://techcrunch.com/2022/02/27/future-retail-reliance-amazon/)
 - [Ukraine takes the resistance to cyberspace, assembling an “IT army” to hack sites from Russia and its allies, calls on tech leaders to get involved](https://techcrunch.com/2022/02/27/ukraine-takes-the-resistance-to-cyberspace-assembling-an-it-army-to-hack-sites-from-russia-and-its-allies-calls-on-tech-leaders-to-get-involved/)
 - [Reface, a viral face-swap app from Ukraine, adds anti-war push notifications](https://techcrunch.com/2022/02/27/reface-a-viral-face-swap-app-from-ukraine-adds-anti-war-push-notifications/)
-- [Advanced new GOES-T weather satellite is &#39;go&#39; for launch on March 1, NASA says](https://www.space.com/goes-t-weather-satellite-go-for-launch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
