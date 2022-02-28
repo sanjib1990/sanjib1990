@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [I feel cyber attacked // The Code Report](https://www.youtube.com/watch?v=3OqQhtLwY9o)
 - [Git Version Control _final_new_final.new - Computerphile](https://www.youtube.com/watch?v=lJu5xwbGgRk)
-- [make CRAZY money in tech &lpar;top 5 Entry-Level Certs&rpar;](https://www.youtube.com/watch?v=W2tTsjkX76o)
-- [Vite in 100 Seconds](https://www.youtube.com/watch?v=KCrXgy8qtjM)
-- [S3:E6: Making Ethical Decisions in Software Design with Prof. Daniel Jackson &amp; Serena Booth](https://www.youtube.com/watch?v=8IOr7KejV_I)
+- [Inside the Hidden Git Folder - Computerphile](https://www.youtube.com/watch?v=bSA91XTzeuA)
+- [Metaverse is 30yrs old - Why Facebook is late to the party - Computerphile](https://www.youtube.com/watch?v=vw7602ULHWA)
+- [K-d Trees - Computerphile](https://www.youtube.com/watch?v=BK5x7IUTIyU)
+- [Man in the Middle &amp; Needham–Schroeder Protocol - Computerphile](https://www.youtube.com/watch?v=EtpdLBeIaus)
 <!-- YOUTUBE:END -->
 
 ---
