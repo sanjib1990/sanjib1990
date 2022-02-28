@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [US says destructive wiper malware targeting Ukraine could ‘spill over’ to other countries](https://techcrunch.com/2022/02/28/fbi-cisa-ukraine-wiper-malware/)
-- [Twitter will mark tweets with links to Russian state-backed media and limit their reach](https://techcrunch.com/2022/02/28/twitter-will-mark-tweets-with-links-to-russian-state-backed-media-and-limit-their-reach/)
-- [Panasonic will start making Tesla’s higher-capacity EV batteries by March 2024](https://techcrunch.com/2022/02/28/panasonic-will-start-making-teslas-higher-capacity-ev-batteries-by-march-2024/)
-- [Google disables Maps live traffic tools in Ukraine](https://techcrunch.com/2022/02/28/google-disables-maps-live-traffic-tools-in-ukraine/)
-- [Rakuten Symphony acquires Kubernetes platform Robin.io](https://techcrunch.com/2022/02/28/rakuten-symphony-acquires-kubernetes-platform-robin-io/)
+- [Cruise co-founder Kyle Vogt retakes CEO spot after GM exec’s sudden departure](https://techcrunch.com/2022/02/28/cruise-co-founder-kyle-vogt-retakes-ceo-spot-after-gm-execs-sudden-departure/)
+- [Ukrainians turn to encrypted messengers, offline maps and Twitter amid Russian invasion](https://techcrunch.com/2022/02/28/ukrainians-turn-to-encrypted-messengers-offline-maps-and-twitter-amid-russian-invasion/)
+- [Watch Rocket Lab launch a StriX satellite from its new launch pad in New Zealand live](https://techcrunch.com/2022/02/28/watch-rocket-lab-launch-a-strix-satellite-from-its-new-launch-pad-in-new-zealand-live/)
+- [How Ukraine is using crypto donations](https://techcrunch.com/2022/02/28/how-ukraine-is-using-crypto-donations/)
+- [The latest list of YC-backed companies worth over $150M is the most geographically diverse yet](https://techcrunch.com/2022/02/28/the-latest-list-of-yc-backed-companies-worth-over-150m-is-the-most-geographically-diverse-yet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
