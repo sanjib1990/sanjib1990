@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Orkes, founded by the creators of Netflix’s open source Conductor workflow orchestration tool, comes out of stealth with $9.3M](https://techcrunch.com/2022/02/28/orkes-from-the-creators-of-netflixs-open-source-conductor-workflow-orchestration-tool-comes-out-of-stealth-with-9-3m/)
-- [What’s your BNPL startup really worth?](https://techcrunch.com/2022/02/28/whats-your-bnpl-startup-really-worth/)
-- [Harvest Moon 2022: When and how to see September&#39;s full moon](https://www.space.com/33790-harvest-moon-guide.html)
-- [The PR boss behind Groupon, Lemonade and Squarespace shares how to land press coverage at TechCrunch Early Stage](https://techcrunch.com/2022/02/28/the-pr-boss-behind-groupon-lemonade-and-squarespace-shares-how-to-land-press-coverage-at-techcrunch-early-stage/)
-- [Apple hit with sixth antitrust fine over Dutch dating apps payments](https://techcrunch.com/2022/02/28/apple-sixth-acm-fine/)
+- [US says destructive wiper malware targeting Ukraine could ‘spill over’ to other countries](https://techcrunch.com/2022/02/28/fbi-cisa-ukraine-wiper-malware/)
+- [Twitter will mark tweets with links to Russian state-backed media and limit their reach](https://techcrunch.com/2022/02/28/twitter-will-mark-tweets-with-links-to-russian-state-backed-media-and-limit-their-reach/)
+- [Panasonic will start making Tesla’s higher-capacity EV batteries by March 2024](https://techcrunch.com/2022/02/28/panasonic-will-start-making-teslas-higher-capacity-ev-batteries-by-march-2024/)
+- [Google disables Maps live traffic tools in Ukraine](https://techcrunch.com/2022/02/28/google-disables-maps-live-traffic-tools-in-ukraine/)
+- [Rakuten Symphony acquires Kubernetes platform Robin.io](https://techcrunch.com/2022/02/28/rakuten-symphony-acquires-kubernetes-platform-robin-io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
