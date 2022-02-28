@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [After 2 rejected deals, Zendesk considers its next steps](https://techcrunch.com/2022/02/28/after-2-rejected-deals-zendesk-considers-its-next-steps/)
-- [Leverage early investors when raising a Series A, says DeepScribe’s Akilesh Bapu](https://techcrunch.com/2022/02/28/leverage-early-investors-when-raising-a-series-a-says-deepscribes-akilesh-bapu/)
-- [Ax-1, 1st all-private crewed flight to ISS, aims to blaze trail for future missions](https://www.space.com/axiom-ax-1-mission-space-station-preview)
-- [China&#39;s moon rover spots 2 strange glass spheres on far side](https://www.space.com/china-moon-rover-finds-strange-glass-spheres)
-- [Humanity faces &#39;grave and mounting threat&#39; of climate change — unless we act, IPCC report reveals](https://www.space.com/ipcc-climate-report-we-are-not-ready)
+- [Rocket Lab launches Earth-observation satellite in 1st mission from new pad](https://www.space.com/rocket-lab-first-launch-new-pad-owls-night-continues)
+- [BharatPe founder Ashneer Grover resigns from board amid turmoil at Indian fintech](https://techcrunch.com/2022/02/28/ashneer-grover-shark-tank-bharatpe-board-resignation/)
+- [Ingenuity helicopter aces 20th Mars flight](https://www.space.com/nasa-ingenuity-mars-helicopter-20th-flight)
+- [Instagram is shutting down its standalone IGTV app](https://techcrunch.com/2022/02/28/instagram-is-shutting-down-its-standalone-igtv-app/)
+- [SpaceX hints at replacing Russian space station services](https://www.space.com/spacex-elon-musk-hint-replacing-russia-soyuz)
 <!-- BLOG-POST-LIST:END -->
 
 ---
