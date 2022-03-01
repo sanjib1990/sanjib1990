@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Facebook and Instagram cut the reach of Russian state media](https://techcrunch.com/2022/03/01/facebook-and-instagram-cut-the-reach-of-russian-state-linked-media/)
+- [Ukrainian entrepreneur calls for faster, better satellite data to help fight Russian invasion](https://www.space.com/russian-invasion-ukraine-better-satellite-data-needed)
 - [Instagram makes encrypted direct messaging available in Ukraine and Russia](https://techcrunch.com/2022/03/01/instagram-rolls-out-encrypted-direct-messaging-in-ukraine-and-russia/)
 - [NASA works to maintain Russian cooperation in space while eyeing &#39;operational flexibility&#39; for ISS](https://www.space.com/nasa-russia-space-partnership-ukraine-invasion)
 - [How Adobe’s diversity chief uses data to build a more equitable workplace](https://techcrunch.com/2022/03/01/how-adobes-diversity-chief-uses-data-to-build-a-more-equitable-workplace/)
-- [Instagram is rolling out auto-generated captions for videos](https://techcrunch.com/2022/03/01/instagram-is-rolling-out-auto-generated-captions-for-videos/)
-- [Save over £50 on these Celestron Skymaster binoculars in this Amazon UK deal](https://www.space.com/celestron-skymaster-amazon-uk-deals-save-50-pounds)
 <!-- BLOG-POST-LIST:END -->
 
 ---
