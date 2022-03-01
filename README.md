@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Australia’s CryptoTaxCalculator helps traders demystify the decentralized](https://techcrunch.com/2022/03/01/australias-cryptotaxcalculator-helps-traders-demystify-the-decentralized/)
-- [M-KOPA raises $75M as it clocks 2 million customers across four African markets](https://techcrunch.com/2022/03/01/m-kopa-raises-75m-as-it-clocks-2-million-customers-across-four-african-markets/)
-- [Starship Technologies raises another $42M to fuel the growth of its fleet of self-driving delivery robots](https://techcrunch.com/2022/03/01/starship-technologies-raises-another-42m-to-fuel-the-growth-of-its-fleet-of-self-driving-delivery-robots/)
-- [VC firm Urban US rebrands to Third Sphere, doubles down on climate focus](https://techcrunch.com/2022/03/01/third-sphere-vc/)
-- [Payhawk becomes a unicorn as it extends its Series B](https://techcrunch.com/2022/02/28/payhawk-becomes-a-unicorn-as-it-extends-its-series-b/)
+- [Nayya nabs $55M to expand its recommendation and personalization engine for healthcare and other benefits](https://techcrunch.com/2022/03/01/nayya-nabs-55m-to-expand-its-recommendation-and-personalization-engine-for-healthcare-and-other-benefits/)
+- [On This Day in Space! March 1, 2016: Scott Kelly returns from a year in space](https://www.space.com/39251-on-this-day-in-space.html)
+- [Night sky, March 2022: What you can see this month [maps]](https://www.space.com/16149-night-sky.html)
+- [Best night sky events of March 2022 &lpar;stargazing maps&rpar;](https://www.space.com/33974-best-night-sky-events.html)
+- [The brightest planets in March&#39;s night sky: How to see them &lpar;and when&rpar;](https://www.space.com/33619-visible-planets-guide.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
