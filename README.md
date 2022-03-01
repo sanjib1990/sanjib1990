@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Australia’s CryptoTaxCalculator helps traders demystify the decentralized](https://techcrunch.com/2022/03/01/australias-cryptotaxcalculator-helps-traders-demystify-the-decentralized/)
 - [M-KOPA raises $75M as it clocks 2 million customers across four African markets](https://techcrunch.com/2022/03/01/m-kopa-raises-75m-as-it-clocks-2-million-customers-across-four-african-markets/)
 - [Starship Technologies raises another $42M to fuel the growth of its fleet of self-driving delivery robots](https://techcrunch.com/2022/03/01/starship-technologies-raises-another-42m-to-fuel-the-growth-of-its-fleet-of-self-driving-delivery-robots/)
 - [VC firm Urban US rebrands to Third Sphere, doubles down on climate focus](https://techcrunch.com/2022/03/01/third-sphere-vc/)
 - [Payhawk becomes a unicorn as it extends its Series B](https://techcrunch.com/2022/02/28/payhawk-becomes-a-unicorn-as-it-extends-its-series-b/)
-- [The world&#39;s first commercial airline](https://www.space.com/16657-worlds-first-commercial-airline-the-greatest-moments-in-flight.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
