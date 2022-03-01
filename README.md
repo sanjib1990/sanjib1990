@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Singapore-based Volopay accelerates APAC and MENA expansion with $29M Series A](https://techcrunch.com/2022/02/28/singapore-based-volopay-accelerates-apac-and-mena-expansion-with-29m-series-a/)
+- [Benchmark’s Sarah Tavel on the “bifurcation” coming to the world of web3](https://techcrunch.com/2022/02/28/benchmarks-sarah-tavel-on-the-bifurcation-coming-to-the-world-of-web3/)
+- [Waymo to begin charging for robotaxi rides in San Francisco](https://techcrunch.com/2022/02/28/waymo-to-begin-charging-for-robotaxi-rides-in-san-francisco/)
 - [NASA extends SpaceX’s Commercial Crew contract by three missions for $900 million](https://techcrunch.com/2022/02/28/nasa-extends-spacexs-commercial-crew-contract-by-three-missions-for-900-million/)
 - [This imaging sensor sees right through you with terahertz waves](https://techcrunch.com/2022/02/28/terahertz-waves/)
-- [SpaceX Starlink satellite internet terminals arrive in Ukraine](https://www.space.com/spacex-starlink-terminals-arrive-ukraine-elon-musk-russia)
-- [Russian attack sets Ukrainian home-improvement store ablaze &lpar;satellite photo&rpar;](https://www.space.com/russia-ukraine-war-warehouse-fire-satellite-photo)
-- [Daily Crunch: Asian and Hispanic e-grocer Weee! bags $425 million Series E](https://techcrunch.com/2022/02/28/daily-crunch-asian-and-hispanic-e-grocer-weee-bags-425-million-series-e/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
