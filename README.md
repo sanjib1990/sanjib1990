@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Nextdoor beats expectations in first earnings report since going public last year](https://techcrunch.com/2022/03/01/nextdoor-beats-expectations-in-first-earnings-report-since-going-public-last-year/)
-- [How Stellantis plans to double revenue, electrify lineup, by 2030](https://techcrunch.com/2022/03/01/how-stellantis-plans-to-double-revenue-electrify-lineup-by-2030/)
-- [What US startup founders need to know about the R&amp;D tax credit](https://techcrunch.com/2022/03/01/what-us-startup-founders-need-to-know-about-the-rd-tax-credit/)
-- [Reddit quarantines r/Russia due to ‘high volume’ of misinformation](https://techcrunch.com/2022/03/01/reddit-russian-subreddit-quarantine/)
-- [Ali Partovi has a new accelerator promising to connect founders with star engineers](https://techcrunch.com/2022/03/01/ali-partovi-has-a-new-accelerator-promising-to-connect-founders-with-star-engineers/)
+- [Apple pulls Russian state-owned media outlets RT and Sputnik from global App Stores](https://techcrunch.com/2022/03/01/apple-pulls-russian-state-owned-media-outlets-rt-and-sputnik-from-global-app-stores/)
+- [One decade in, Homebrew says it’s becoming self-funded](https://techcrunch.com/2022/03/01/one-decade-in-homebrew-says-its-becoming-self-funded/)
+- [Waabi’s Raquel Urtasun on the importance of differentiating your startup](https://techcrunch.com/2022/03/01/waabis-raquel-urtasun-on-the-importance-of-differentiating-your-startup/)
+- [Rivian raises price on R1T electric truck, R1S SUV ahead of new dual-motor versions](https://techcrunch.com/2022/03/01/rivian-raises-price-on-r1t-electric-truck-r1s-suv-ahead-of-new-dual-motor-version/)
+- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
