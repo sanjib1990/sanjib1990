@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [What is SRE | Tasks and Responsibilities of an SRE | SRE vs DevOps](https://www.youtube.com/watch?v=OnK4IKgLl24)
-- [What is DevOps? REALLY understand it | DevOps vs SRE](https://www.youtube.com/watch?v=0yWAtQ6wYNM)
-- [Golang Tutorial for Beginners | Full Go Course](https://www.youtube.com/watch?v=yyUHQIec83I)
-- [Redis Crash Course - the What, Why and How to use Redis as your primary database](https://www.youtube.com/watch?v=OqCK95AS-YE)
-- [Top 8 Docker Best Practices for using Docker in Production](https://www.youtube.com/watch?v=8vXoMqWgbQQ)
+- [I feel cyber attacked // The Code Report](https://www.youtube.com/watch?v=3OqQhtLwY9o)
+- [Git Version Control _final_new_final.new - Computerphile](https://www.youtube.com/watch?v=lJu5xwbGgRk)
+- [make CRAZY money in tech &lpar;top 5 Entry-Level Certs&rpar;](https://www.youtube.com/watch?v=W2tTsjkX76o)
+- [Vite in 100 Seconds](https://www.youtube.com/watch?v=KCrXgy8qtjM)
+- [S3:E6: Making Ethical Decisions in Software Design with Prof. Daniel Jackson &amp; Serena Booth](https://www.youtube.com/watch?v=8IOr7KejV_I)
 <!-- YOUTUBE:END -->
 
 ---
