@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Live near an ocean? Kin Insurance’s data aims to more accurately predict home risk](https://techcrunch.com/2022/03/01/live-near-an-ocean-kin-insurances-data-aims-to-more-accurately-predict-home-risk/)
-- [Alphabet’s Wing drones hit 200,000 deliveries as it announces supermarket partnership](https://techcrunch.com/2022/03/01/alphabets-wing-drones-hit-200000-delivers-as-it-announces-supermarket-partnership/)
-- [You can book dinner reservations and buy event tickets on Uber now](https://techcrunch.com/2022/03/01/uber-launches-explore-to-book-events-and-reservations/)
-- [Scores of IT workers in Russia sign public anti-war petition](https://techcrunch.com/2022/03/01/russian-it-workers-anti-war-petition/)
-- [Synapse Medicine raises $28 million for its medication intelligence platform](https://techcrunch.com/2022/03/01/synapse-medicine-raises-28-million-for-its-medication-intelligence-platform/)
+- [Instacart’s head of payments leaves tech giant to join startup Forage](https://techcrunch.com/2022/03/01/instacarts-head-of-payments-leaves-tech-giant-to-join-startup-forage/)
+- [MIT spinoff, OPT, ramps up production of its 3D-printed nasal swab](https://techcrunch.com/2022/03/01/mit-spinoff-opt-ramps-up-production-of-its-3d-printed-nasal-swab/)
+- [OpsLevel raises $15M to help developers manage their microservices](https://techcrunch.com/2022/03/01/opslevel-raises-15m-to-help-developers-manage-their-microservices/)
+- [Real estate developer turned prefab home builder Veev closes on $400M in fresh funding](https://techcrunch.com/2022/03/01/real-estate-developer-turned-prefab-home-builder-veev-closes-on-400m-in-funding/)
+- [Riogrande takes in first capital to incubate Latin America’s next local brands](https://techcrunch.com/2022/03/01/riogrande-takes-in-first-capital-to-incubate-latin-americas-next-local-brands/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
