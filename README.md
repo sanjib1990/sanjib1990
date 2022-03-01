@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Nayya nabs $55M to expand its recommendation and personalization engine for healthcare and other benefits](https://techcrunch.com/2022/03/01/nayya-nabs-55m-to-expand-its-recommendation-and-personalization-engine-for-healthcare-and-other-benefits/)
-- [On This Day in Space! March 1, 2016: Scott Kelly returns from a year in space](https://www.space.com/39251-on-this-day-in-space.html)
-- [Night sky, March 2022: What you can see this month [maps]](https://www.space.com/16149-night-sky.html)
-- [Best night sky events of March 2022 &lpar;stargazing maps&rpar;](https://www.space.com/33974-best-night-sky-events.html)
-- [The brightest planets in March&#39;s night sky: How to see them &lpar;and when&rpar;](https://www.space.com/33619-visible-planets-guide.html)
+- [Live near an ocean? Kin Insurance’s data aims to more accurately predict home risk](https://techcrunch.com/2022/03/01/live-near-an-ocean-kin-insurances-data-aims-to-more-accurately-predict-home-risk/)
+- [Alphabet’s Wing drones hit 200,000 deliveries as it announces supermarket partnership](https://techcrunch.com/2022/03/01/alphabets-wing-drones-hit-200000-delivers-as-it-announces-supermarket-partnership/)
+- [You can book dinner reservations and buy event tickets on Uber now](https://techcrunch.com/2022/03/01/uber-launches-explore-to-book-events-and-reservations/)
+- [Scores of IT workers in Russia sign public anti-war petition](https://techcrunch.com/2022/03/01/russian-it-workers-anti-war-petition/)
+- [Synapse Medicine raises $28 million for its medication intelligence platform](https://techcrunch.com/2022/03/01/synapse-medicine-raises-28-million-for-its-medication-intelligence-platform/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
