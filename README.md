@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple halts product sales in Russia following Ukraine invasion](https://techcrunch.com/2022/03/01/apple-halts-product-sales-in-russia-following-ukraine-invasion/)
+- [TechCrunch+ roundup: No-code investor survey, Zendesk’s next steps, Series A tips](https://techcrunch.com/2022/03/01/techcrunch-roundup-no-code-investor-survey-zendesks-next-steps-series-a-tips/)
+- [ByteDance-owned VR startup Pico strengthens ties with Qualcomm](https://techcrunch.com/2022/03/01/bytedance-vr-pico-qualcomm/)
+- [Satellite photos show huge Russian military convoy nearing Ukraine&#39;s capital Kyiv](https://www.space.com/satellites-russian-military-convoy-ukraine)
 - [Facebook and Instagram cut the reach of Russian state media](https://techcrunch.com/2022/03/01/facebook-and-instagram-cut-the-reach-of-russian-state-linked-media/)
-- [Ukrainian entrepreneur calls for faster, better satellite data to help fight Russian invasion](https://www.space.com/russian-invasion-ukraine-better-satellite-data-needed)
-- [Instagram makes encrypted direct messaging available in Ukraine and Russia](https://techcrunch.com/2022/03/01/instagram-rolls-out-encrypted-direct-messaging-in-ukraine-and-russia/)
-- [NASA works to maintain Russian cooperation in space while eyeing &#39;operational flexibility&#39; for ISS](https://www.space.com/nasa-russia-space-partnership-ukraine-invasion)
-- [How Adobe’s diversity chief uses data to build a more equitable workplace](https://techcrunch.com/2022/03/01/how-adobes-diversity-chief-uses-data-to-build-a-more-equitable-workplace/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
