@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TC Sessions: Mobility 2022 goes live and doubles down on content, demos, expo space and opportunity](https://techcrunch.com/2022/03/01/tc-sessions-mobility-2022-goes-live-and-doubles-down-on-content-demos-expo-space-and-opportunity/)
-- [UK music platform for creators Uppbeat raises $6.15 million Series A](https://techcrunch.com/2022/03/01/uk-music-platform-for-creators-uppbeat-raises-6-15-million-series-a/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [Commsor wants to scale community beyond capitalism](https://techcrunch.com/2022/03/01/commsor-wants-to-scale-community-beyond-capitalism/)
-- [10 investors discuss the no-code and low-code landscape in Q1 2022](https://techcrunch.com/2022/03/01/10-investors-discuss-the-no-code-and-low-code-landscape-in-q1-2022/)
+- [Instagram makes encrypted direct messaging available in Ukraine and Russia](https://techcrunch.com/2022/03/01/instagram-rolls-out-encrypted-direct-messaging-in-ukraine-and-russia/)
+- [NASA works to maintain Russian cooperation in space while eyeing &#39;operational flexibility&#39; for ISS](https://www.space.com/nasa-russia-space-partnership-ukraine-invasion)
+- [How Adobe’s diversity chief uses data to build a more equitable workplace](https://techcrunch.com/2022/03/01/how-adobes-diversity-chief-uses-data-to-build-a-more-equitable-workplace/)
+- [Instagram is rolling out auto-generated captions for videos](https://techcrunch.com/2022/03/01/instagram-is-rolling-out-auto-generated-captions-for-videos/)
+- [Save over £50 on these Celestron Skymaster binoculars in this Amazon UK deal](https://www.space.com/celestron-skymaster-amazon-uk-deals-save-50-pounds)
 <!-- BLOG-POST-LIST:END -->
 
 ---
