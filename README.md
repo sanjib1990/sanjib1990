@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple halts product sales in Russia following Ukraine invasion](https://techcrunch.com/2022/03/01/apple-halts-product-sales-in-russia-following-ukraine-invasion/)
-- [TechCrunch+ roundup: No-code investor survey, Zendesk’s next steps, Series A tips](https://techcrunch.com/2022/03/01/techcrunch-roundup-no-code-investor-survey-zendesks-next-steps-series-a-tips/)
-- [ByteDance-owned VR startup Pico strengthens ties with Qualcomm](https://techcrunch.com/2022/03/01/bytedance-vr-pico-qualcomm/)
-- [Satellite photos show huge Russian military convoy nearing Ukraine&#39;s capital Kyiv](https://www.space.com/satellites-russian-military-convoy-ukraine)
-- [Facebook and Instagram cut the reach of Russian state media](https://techcrunch.com/2022/03/01/facebook-and-instagram-cut-the-reach-of-russian-state-linked-media/)
+- [Nextdoor beats expectations in first earnings report since going public last year](https://techcrunch.com/2022/03/01/nextdoor-beats-expectations-in-first-earnings-report-since-going-public-last-year/)
+- [How Stellantis plans to double revenue, electrify lineup, by 2030](https://techcrunch.com/2022/03/01/how-stellantis-plans-to-double-revenue-electrify-lineup-by-2030/)
+- [What US startup founders need to know about the R&amp;D tax credit](https://techcrunch.com/2022/03/01/what-us-startup-founders-need-to-know-about-the-rd-tax-credit/)
+- [Reddit quarantines r/Russia due to ‘high volume’ of misinformation](https://techcrunch.com/2022/03/01/reddit-russian-subreddit-quarantine/)
+- [Ali Partovi has a new accelerator promising to connect founders with star engineers](https://techcrunch.com/2022/03/01/ali-partovi-has-a-new-accelerator-promising-to-connect-founders-with-star-engineers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
