@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [I feel cyber attacked // The Code Report](https://www.youtube.com/watch?v=3OqQhtLwY9o)
-- [Vite in 100 Seconds](https://www.youtube.com/watch?v=KCrXgy8qtjM)
-- [The Shocking State of JavaScript // The Code Report](https://www.youtube.com/watch?v=1L2hrG-7i2Y)
-- [Firebase in 100 Seconds](https://www.youtube.com/watch?v=vAoB4VbhRzM)
-- [7 ways to deal with CSS](https://www.youtube.com/watch?v=ouncVBiye_M)
+- [What is SRE | Tasks and Responsibilities of an SRE | SRE vs DevOps](https://www.youtube.com/watch?v=OnK4IKgLl24)
+- [What is DevOps? REALLY understand it | DevOps vs SRE](https://www.youtube.com/watch?v=0yWAtQ6wYNM)
+- [Golang Tutorial for Beginners | Full Go Course](https://www.youtube.com/watch?v=yyUHQIec83I)
+- [Redis Crash Course - the What, Why and How to use Redis as your primary database](https://www.youtube.com/watch?v=OqCK95AS-YE)
+- [Top 8 Docker Best Practices for using Docker in Production](https://www.youtube.com/watch?v=8vXoMqWgbQQ)
 <!-- YOUTUBE:END -->
 
 ---
