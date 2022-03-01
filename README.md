@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [10 React Antipatterns to Avoid - Code This, Not That!](https://www.youtube.com/watch?v=b0IZo2Aho9Y)
 - [I feel cyber attacked // The Code Report](https://www.youtube.com/watch?v=3OqQhtLwY9o)
 - [Git Version Control _final_new_final.new - Computerphile](https://www.youtube.com/watch?v=lJu5xwbGgRk)
 - [make CRAZY money in tech &lpar;top 5 Entry-Level Certs&rpar;](https://www.youtube.com/watch?v=W2tTsjkX76o)
 - [Vite in 100 Seconds](https://www.youtube.com/watch?v=KCrXgy8qtjM)
-- [S3:E6: Making Ethical Decisions in Software Design with Prof. Daniel Jackson &amp; Serena Booth](https://www.youtube.com/watch?v=8IOr7KejV_I)
 <!-- YOUTUBE:END -->
 
 ---
