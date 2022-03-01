@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Figma brings whiteboarding to the iPad](https://techcrunch.com/2022/03/01/figma-figjam-ipad/)
+- [Elon Musk and Tesla need a Tim Cook](https://techcrunch.com/2022/03/01/elon-musk-and-tesla-need-a-tim-cook/)
+- [Cala’s new mobile app aims to streamline fashion design and production](https://techcrunch.com/2022/03/01/calas-mobile-app-streamline-fashion-design-production/)
+- [Mars missions: A brief history](https://www.space.com/13558-historic-mars-missions.html)
 - [Instacart’s head of payments leaves tech giant to join startup Forage](https://techcrunch.com/2022/03/01/instacarts-head-of-payments-leaves-tech-giant-to-join-startup-forage/)
-- [MIT spinoff, OPT, ramps up production of its 3D-printed nasal swab](https://techcrunch.com/2022/03/01/mit-spinoff-opt-ramps-up-production-of-its-3d-printed-nasal-swab/)
-- [OpsLevel raises $15M to help developers manage their microservices](https://techcrunch.com/2022/03/01/opslevel-raises-15m-to-help-developers-manage-their-microservices/)
-- [Real estate developer turned prefab home builder Veev closes on $400M in fresh funding](https://techcrunch.com/2022/03/01/real-estate-developer-turned-prefab-home-builder-veev-closes-on-400m-in-funding/)
-- [Riogrande takes in first capital to incubate Latin America’s next local brands](https://techcrunch.com/2022/03/01/riogrande-takes-in-first-capital-to-incubate-latin-americas-next-local-brands/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
