@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Disney+ gains the Marvel series from Netflix and new parental controls](https://techcrunch.com/2022/03/01/disney-gains-the-marvel-series-from-netflix-and-new-parental-controls/)
-- [Finland’s Jolla, maker of Sailfish OS, is trying to cut ties with Russia](https://techcrunch.com/2022/03/01/jolla-cut-ties-russia/)
-- [Amazon Luna officially launches in the U.S. with free games for Prime members and more](https://techcrunch.com/2022/03/01/amazon-luna-officially-launches-in-the-u-s-with-free-games-for-prime-members-and-more/)
-- [Hear how Databook pitched and won-over Threshold Ventures on TechCrunch Live](https://techcrunch.com/2022/03/01/hear-how-databook-pitched-and-won-over-threshold-ventures-on-techcrunch-live/)
-- [Zero Systems gets $12M Series A to bring automation to professional services](https://techcrunch.com/2022/03/01/zero-systems-gets-12m-series-a-to-bring-automation-to-professional-services/)
+- [10 investors discuss the no-code and low-code landscape in Q1 2022](https://techcrunch.com/2022/03/01/10-investors-discuss-the-no-code-and-low-code-landscape-in-q1-2022/)
+- [Satellite Vu prepares to launch its thermal imaging satellite constellation with $21M A round](https://techcrunch.com/2022/03/01/satellite-vu-prepares-to-launch-its-thermal-imaging-satellite-constellation-with-21m-a-round/)
+- [James Webb Space Telescope plans probe of massive star radiation](https://www.space.com/james-webb-space-telescope-massive-star-radiation-probe)
+- [Nvidia says hackers are leaking company data after ransomware attack](https://techcrunch.com/2022/03/01/nvidia-hackers-leak-ransomware/)
+- [Best space mobile games](https://www.space.com/best-space-mobile-games)
 <!-- BLOG-POST-LIST:END -->
 
 ---
