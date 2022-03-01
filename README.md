@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Figma brings whiteboarding to the iPad](https://techcrunch.com/2022/03/01/figma-figjam-ipad/)
-- [Elon Musk and Tesla need a Tim Cook](https://techcrunch.com/2022/03/01/elon-musk-and-tesla-need-a-tim-cook/)
-- [Cala’s new mobile app aims to streamline fashion design and production](https://techcrunch.com/2022/03/01/calas-mobile-app-streamline-fashion-design-production/)
-- [Mars missions: A brief history](https://www.space.com/13558-historic-mars-missions.html)
-- [Instacart’s head of payments leaves tech giant to join startup Forage](https://techcrunch.com/2022/03/01/instacarts-head-of-payments-leaves-tech-giant-to-join-startup-forage/)
+- [Disney+ gains the Marvel series from Netflix and new parental controls](https://techcrunch.com/2022/03/01/disney-gains-the-marvel-series-from-netflix-and-new-parental-controls/)
+- [Finland’s Jolla, maker of Sailfish OS, is trying to cut ties with Russia](https://techcrunch.com/2022/03/01/jolla-cut-ties-russia/)
+- [Amazon Luna officially launches in the U.S. with free games for Prime members and more](https://techcrunch.com/2022/03/01/amazon-luna-officially-launches-in-the-u-s-with-free-games-for-prime-members-and-more/)
+- [Hear how Databook pitched and won-over Threshold Ventures on TechCrunch Live](https://techcrunch.com/2022/03/01/hear-how-databook-pitched-and-won-over-threshold-ventures-on-techcrunch-live/)
+- [Zero Systems gets $12M Series A to bring automation to professional services](https://techcrunch.com/2022/03/01/zero-systems-gets-12m-series-a-to-bring-automation-to-professional-services/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
