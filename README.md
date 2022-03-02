@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Netflix acquires Next Games in Finland, publisher of Stranger Things and Walking Dead games, for $72M](https://techcrunch.com/2022/03/02/netflix-acquires-next-games-in-finland-publisher-of-stranger-things-and-walking-dead-games-for-72m/)
 - [Athenian gives you metrics about your engineering team without focusing on individuals](https://techcrunch.com/2022/03/02/athenian-gives-you-metrics-about-your-engineering-team-without-focusing-on-individuals/)
 - [Accel announces new $650 million fund to back Indian startups](https://techcrunch.com/2022/03/01/accel-announces-new-650-million-fund-to-back-indian-startups/)
 - [Gopuff officially launches its instant delivery service in France](https://techcrunch.com/2022/03/01/gopuff-officially-launches-its-instant-delivery-service-in-france/)
 - [BharatPe founder Ashneer Grover siphoned off money, Indian startup says](https://techcrunch.com/2022/03/01/bharatpe-founder-ashneer-grover-siphoned-off-money-fintech-startup-says/)
-- [Source makes greenhouses smarter to secure the future of food supply](https://techcrunch.com/2022/03/01/source-seed-funding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
