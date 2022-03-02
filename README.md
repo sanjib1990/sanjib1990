@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Fitbit Ionic smartwatches recalled following battery burn reports](https://techcrunch.com/2022/03/02/fitbit-ionic-smartwatches-recalled-following-battery-burn-reports/)
-- [Enterpret launches with $4.4M, NLP technology to decipher customer feedback](https://techcrunch.com/2022/03/02/enterpret-launches-with-4-4m-nlp-technology-to-decipher-customer-feedback/)
-- [The Terminator movies in order](https://www.space.com/the-terminator-movies-in-order)
-- [Netflix&#39;s Marvel shows jump ship to Disney Plus, which now has parental controls](https://www.space.com/disney-plus-parental-controls-marvel-netflix-shows)
-- [Connecteam raises $120M at an $800M+ valuation for its all-in-one communications app for deskless workers](https://techcrunch.com/2022/03/02/connecteam-raises-120m-at-an-800m-valuation-for-its-all-in-one-communications-app-for-deskless-workers/)
+- [99minutos clocks in fresh capital for logistics infrastructure in Latin America](https://techcrunch.com/2022/03/02/99minutos-logistics-infrastructure-latin-america/)
+- [Blockchain infra startup Tenderly raises $40M after seeing ‘500x’ YoY revenue growth](https://techcrunch.com/2022/03/02/blockchain-infra-startup-tenderly-raises-40m-after-seeing-500x-yoy-revenue-growth/)
+- [Dynamic application security testing service NeuraLegion raises $20M Series A round](https://techcrunch.com/2022/03/02/dynamic-application-security-testing-service-neuralegion-raises-20m-series-a-round/)
+- [25 weird and wild solar system facts](https://www.space.com/35695-weirdest-solar-system-facts.html)
+- [Ford splits EV and combustion units in major restructuring](https://techcrunch.com/2022/03/02/ford-splits-ev-and-combustion-units-in-major-restructuring/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
