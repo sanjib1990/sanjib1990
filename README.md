@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists gearing up for rocket body&#39;s March 4 moon crash](https://www.space.com/rocket-moon-crash-march-4-scientific-excitement)
 - [Ford increases electrification spend to $50B in attempt to catch up to Tesla](https://techcrunch.com/2022/03/02/ford-increases-electrification-spend-to-50b-in-attempt-to-catch-up-to-tesla/)
 - [How will Ukraine keep SpaceX&#39;s Starlink internet service online?](https://www.space.com/ukraine-russia-war-spacex-starlink-satellite-internet)
 - [Amazon to close 68 physical retail locations, including Amazon Books and 4-star stores](https://techcrunch.com/2022/03/02/amazon-to-close-68-physical-retail-locations-including-amazon-books-and-4-star-stores/)
 - [As war escalates in Europe, it’s ‘shields up’ for the cybersecurity industry](https://techcrunch.com/2022/03/02/as-war-escalates-in-europe-its-shields-up-for-the-cybersecurity-industry/)
-- [Attend TechCrunch Live’s special event in Austin, Texas! &lpar;It’s free&rpar;](https://techcrunch.com/2022/03/02/attend-techcrunch-lives-special-event-in-austin-texas-its-free/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
