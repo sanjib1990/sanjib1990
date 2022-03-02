@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Electric Capital closes $1 billion in funds to back crypto startups, buy tokens](https://techcrunch.com/2022/03/01/electric-capital-closes-1-billion-in-funds-to-back-crypto-startups-buy-tokens/)
 - [Struggling EV startup Lordstown Motors loses GM as investor](https://techcrunch.com/2022/03/01/struggling-ev-startup-lordstown-motors-loses-gm-as-investor/)
 - [&#39;Star Trek: Discovery&#39; Season 4, Episode 10 provides Tarka&#39;s backstory](https://www.space.com/star-trek-discovery-season-4-episode-10-review)
 - [Mercury restricted a number of accounts linked to African startups and didn’t exactly say why](https://techcrunch.com/2022/03/01/mercury-restricted-a-number-of-accounts-linked-to-african-startups-and-didnt-exactly-say-why/)
 - [Famous for its moonwatch, Omega lends time to Privateer space debris track](https://www.space.com/omega-privateer-wayfinder-space-debris)
-- [Nexon founder Jung-ju Jay Kim has passed away at age 54](https://techcrunch.com/2022/03/01/south-korean-gaming-company-nexon-founder-jung-ju-jay-kim-has-passed-away-at-age-54/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
