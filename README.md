@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Two black holes locked in cosmic dance near galaxy&#39;s center are doomed to crash](https://www.space.com/black-hole-pair-cosmic-dance-galactic-center)
+- [Russian rocket to launch OneWeb satellites Friday despite Ukraine invasion](https://www.space.com/russia-launching-oneweb-internet-satellites-amid-ukraine-invasion)
+- [Possible massive &#39;kilonova&#39; explosion creates an epic afterglow](https://www.space.com/kilonova-explosion-afterglow)
+- [SpaceX promises sustainability and safety for Starlink constellation](https://www.space.com/spacex-sustainability-safety-starlink-satellite-megaconstellation)
 - [Ivorian healthtech startup Susu has $1M to scale its family-centric insurance product across Africa](https://techcrunch.com/2022/03/02/ivorian-healthtech-startup-susu-has-1m-to-scale-its-family-centric-insurance-product-across-africa/)
-- [Google pulls Russia Today, Sputnik from Play Store as EU ban looms](https://techcrunch.com/2022/03/02/google-rt-sputnik-apps-play-store/)
-- [Netflix acquires Next Games in Finland, publisher of Stranger Things and Walking Dead games, for $72M](https://techcrunch.com/2022/03/02/netflix-acquires-next-games-in-finland-publisher-of-stranger-things-and-walking-dead-games-for-72m/)
-- [Athenian gives you metrics about your engineering team without focusing on individuals](https://techcrunch.com/2022/03/02/athenian-gives-you-metrics-about-your-engineering-team-without-focusing-on-individuals/)
-- [Accel announces new $650 million fund to back Indian startups](https://techcrunch.com/2022/03/01/accel-announces-new-650-million-fund-to-back-indian-startups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
