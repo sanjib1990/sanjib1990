@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Where to stream Star Trek Picard season 2](https://www.space.com/where-to-stream-star-trek-picard-series-2)
-- [Walmart launches A.I.-powered virtual clothing try-on technology for online shoppers](https://techcrunch.com/2022/03/02/walmart-launches-a-i-powered-virtual-clothing-try-on-technology-for-online-shoppers/)
-- [Knative becomes a CNCF project](https://techcrunch.com/2022/03/02/knative-becomes-a-cncf-project/)
-- [How Ukraine is spending crypto donations](https://techcrunch.com/2022/03/02/how-ukraine-is-spending-crypto-donations/)
-- [Agility Robotics and Playground Global join TechCrunch Live to speak on robotics fundraising](https://techcrunch.com/2022/03/02/agility-robotics-and-playground-global-join-techcrunch-live-to-speak-on-fundraising-robotic-delivery/)
+- [Facebook is shutting down its college student-only social network, Campus](https://techcrunch.com/2022/03/02/facebook-is-shutting-down-its-college-student-only-social-network-campus/)
+- [Ukraine Deputy Minister talks IT Army and deploying $25M in donated crypto](https://techcrunch.com/2022/03/02/ukraine-deputy-minister-talks-it-army-and-deploying-25m-in-donated-crypto/)
+- [Australian neobank Zeller raises $100M AUD Series B at $1B AUD valuation](https://techcrunch.com/2022/03/02/australian-neobank-zeller-raises-100m-aud-series-b-at-1b-aud-valuation/)
+- [TrueCircle scoops $5.5M to use AI to drive recycling efficiency](https://techcrunch.com/2022/03/02/truecircle-pre-seed/)
+- [Epic Games just bought an entire Bandcamp, and it’s not even Friday](https://techcrunch.com/2022/03/02/epic-games-just-bought-an-entire-bandcamp-and-its-not-even-friday/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
