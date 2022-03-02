@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Gopuff officially launches its instant delivery service in France](https://techcrunch.com/2022/03/01/gopuff-officially-launches-its-instant-delivery-service-in-france/)
+- [BharatPe founder Ashneer Grover siphoned off money, Indian startup says](https://techcrunch.com/2022/03/01/bharatpe-founder-ashneer-grover-siphoned-off-money-fintech-startup-says/)
 - [Source makes greenhouses smarter to secure the future of food supply](https://techcrunch.com/2022/03/01/source-seed-funding/)
 - [Electric Capital closes $1 billion in funds to back crypto startups, buy tokens](https://techcrunch.com/2022/03/01/electric-capital-closes-1-billion-in-funds-to-back-crypto-startups-buy-tokens/)
 - [Struggling EV startup Lordstown Motors loses GM as investor](https://techcrunch.com/2022/03/01/struggling-ev-startup-lordstown-motors-loses-gm-as-investor/)
-- [&#39;Star Trek: Discovery&#39; Season 4, Episode 10 provides Tarka&#39;s backstory](https://www.space.com/star-trek-discovery-season-4-episode-10-review)
-- [Mercury restricted a number of accounts linked to African startups and didn’t exactly say why](https://techcrunch.com/2022/03/01/mercury-restricted-a-number-of-accounts-linked-to-african-startups-and-didnt-exactly-say-why/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
