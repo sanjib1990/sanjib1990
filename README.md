@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Fintech TAM explained by dating apps](https://techcrunch.com/2022/03/02/fintech-tam-explained-by-dating-apps/)
-- [The closest black hole to Earth doesn&#39;t actually exist](https://www.space.com/closest-black-hole-doesnt-exist)
-- [Carl Pei’s Nothing is working on a smartphone](https://techcrunch.com/2022/03/02/nothing-smartphone-carl-pei/)
-- [Just how wrong were those SPAC projections?](https://techcrunch.com/2022/03/02/just-how-wrong-were-those-spac-projections/)
-- [99minutos clocks in fresh capital for logistics infrastructure in Latin America](https://techcrunch.com/2022/03/02/99minutos-logistics-infrastructure-latin-america/)
+- [Where to stream Star Trek Picard season 2](https://www.space.com/where-to-stream-star-trek-picard-series-2)
+- [Walmart launches A.I.-powered virtual clothing try-on technology for online shoppers](https://techcrunch.com/2022/03/02/walmart-launches-a-i-powered-virtual-clothing-try-on-technology-for-online-shoppers/)
+- [Knative becomes a CNCF project](https://techcrunch.com/2022/03/02/knative-becomes-a-cncf-project/)
+- [How Ukraine is spending crypto donations](https://techcrunch.com/2022/03/02/how-ukraine-is-spending-crypto-donations/)
+- [Agility Robotics and Playground Global join TechCrunch Live to speak on robotics fundraising](https://techcrunch.com/2022/03/02/agility-robotics-and-playground-global-join-techcrunch-live-to-speak-on-fundraising-robotic-delivery/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
