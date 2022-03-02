@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Athenian gives you metrics about your engineering team without focusing on individuals](https://techcrunch.com/2022/03/02/athenian-gives-you-metrics-about-your-engineering-team-without-focusing-on-individuals/)
+- [Accel announces new $650 million fund to back Indian startups](https://techcrunch.com/2022/03/01/accel-announces-new-650-million-fund-to-back-indian-startups/)
 - [Gopuff officially launches its instant delivery service in France](https://techcrunch.com/2022/03/01/gopuff-officially-launches-its-instant-delivery-service-in-france/)
 - [BharatPe founder Ashneer Grover siphoned off money, Indian startup says](https://techcrunch.com/2022/03/01/bharatpe-founder-ashneer-grover-siphoned-off-money-fintech-startup-says/)
 - [Source makes greenhouses smarter to secure the future of food supply](https://techcrunch.com/2022/03/01/source-seed-funding/)
-- [Electric Capital closes $1 billion in funds to back crypto startups, buy tokens](https://techcrunch.com/2022/03/01/electric-capital-closes-1-billion-in-funds-to-back-crypto-startups-buy-tokens/)
-- [Struggling EV startup Lordstown Motors loses GM as investor](https://techcrunch.com/2022/03/01/struggling-ev-startup-lordstown-motors-loses-gm-as-investor/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
