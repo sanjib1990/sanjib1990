@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Facebook is shutting down its college student-only social network, Campus](https://techcrunch.com/2022/03/02/facebook-is-shutting-down-its-college-student-only-social-network-campus/)
-- [Ukraine Deputy Minister talks IT Army and deploying $25M in donated crypto](https://techcrunch.com/2022/03/02/ukraine-deputy-minister-talks-it-army-and-deploying-25m-in-donated-crypto/)
-- [Australian neobank Zeller raises $100M AUD Series B at $1B AUD valuation](https://techcrunch.com/2022/03/02/australian-neobank-zeller-raises-100m-aud-series-b-at-1b-aud-valuation/)
-- [TrueCircle scoops $5.5M to use AI to drive recycling efficiency](https://techcrunch.com/2022/03/02/truecircle-pre-seed/)
-- [Epic Games just bought an entire Bandcamp, and it’s not even Friday](https://techcrunch.com/2022/03/02/epic-games-just-bought-an-entire-bandcamp-and-its-not-even-friday/)
+- [Ukraine&#39;s proud space industry faces obliteration, but country&#39;s former space chief has hope for the future](https://www.space.com/ukraine-mighty-space-industry-faces-obliteration)
+- [Tier Mobility acquires Spin from Ford, marking entry into North America](https://techcrunch.com/2022/03/02/tier-mobility-acquires-spin-from-ford-marking-entry-into-north-america/)
+- [Best star projectors: Indoor views of the night sky](https://www.space.com/best-star-projectors)
+- [Dear Sophie: 2 questions about the latest immigration news](https://techcrunch.com/2022/03/02/dear-sophie-2-questions-about-the-latest-immigration-news/)
+- [Distant galaxies appear to overlap in new Hubble telescope image](https://www.space.com/galaxies-overlap-hubble-space-telescope-image)
 <!-- BLOG-POST-LIST:END -->
 
 ---
