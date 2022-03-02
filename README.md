@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fintech TAM explained by dating apps](https://techcrunch.com/2022/03/02/fintech-tam-explained-by-dating-apps/)
+- [The closest black hole to Earth doesn&#39;t actually exist](https://www.space.com/closest-black-hole-doesnt-exist)
+- [Carl Pei’s Nothing is working on a smartphone](https://techcrunch.com/2022/03/02/nothing-smartphone-carl-pei/)
+- [Just how wrong were those SPAC projections?](https://techcrunch.com/2022/03/02/just-how-wrong-were-those-spac-projections/)
 - [99minutos clocks in fresh capital for logistics infrastructure in Latin America](https://techcrunch.com/2022/03/02/99minutos-logistics-infrastructure-latin-america/)
-- [Blockchain infra startup Tenderly raises $40M after seeing ‘500x’ YoY revenue growth](https://techcrunch.com/2022/03/02/blockchain-infra-startup-tenderly-raises-40m-after-seeing-500x-yoy-revenue-growth/)
-- [Dynamic application security testing service NeuraLegion raises $20M Series A round](https://techcrunch.com/2022/03/02/dynamic-application-security-testing-service-neuralegion-raises-20m-series-a-round/)
-- [25 weird and wild solar system facts](https://www.space.com/35695-weirdest-solar-system-facts.html)
-- [Ford splits EV and combustion units in major restructuring](https://techcrunch.com/2022/03/02/ford-splits-ev-and-combustion-units-in-major-restructuring/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
