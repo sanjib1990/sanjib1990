@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [After raising $4 million, Emtech supports central banks across Africa, the Caribbean to deploy regulatory sandboxes](https://techcrunch.com/2022/03/02/after-raising-4-million-emtech-supports-central-banks-across-africa-the-caribbean-to-deploy-regulatory-sandboxes/)
-- [When some of the world’s biggest food companies develop new products, they go to Tastewise first](https://techcrunch.com/2022/03/02/food-companies-tastewise/)
-- [EU’s ban on Russia Today and Sputnik is now in effect](https://techcrunch.com/2022/03/02/eu-rt-sputnik-ban-live/)
-- [Two black holes locked in cosmic dance near galaxy&#39;s center are doomed to crash](https://www.space.com/black-hole-pair-cosmic-dance-galactic-center)
-- [Russian rocket to launch OneWeb satellites Friday despite Ukraine invasion](https://www.space.com/russia-launching-oneweb-internet-satellites-amid-ukraine-invasion)
+- [Fitbit Ionic smartwatches recalled following battery burn reports](https://techcrunch.com/2022/03/02/fitbit-ionic-smartwatches-recalled-following-battery-burn-reports/)
+- [Enterpret launches with $4.4M, NLP technology to decipher customer feedback](https://techcrunch.com/2022/03/02/enterpret-launches-with-4-4m-nlp-technology-to-decipher-customer-feedback/)
+- [The Terminator movies in order](https://www.space.com/the-terminator-movies-in-order)
+- [Netflix&#39;s Marvel shows jump ship to Disney Plus, which now has parental controls](https://www.space.com/disney-plus-parental-controls-marvel-netflix-shows)
+- [Connecteam raises $120M at an $800M+ valuation for its all-in-one communications app for deskless workers](https://techcrunch.com/2022/03/02/connecteam-raises-120m-at-an-800m-valuation-for-its-all-in-one-communications-app-for-deskless-workers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
