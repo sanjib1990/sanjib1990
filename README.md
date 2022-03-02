@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [After raising $4 million, Emtech supports central banks across Africa, the Caribbean to deploy regulatory sandboxes](https://techcrunch.com/2022/03/02/after-raising-4-million-emtech-supports-central-banks-across-africa-the-caribbean-to-deploy-regulatory-sandboxes/)
+- [When some of the world’s biggest food companies develop new products, they go to Tastewise first](https://techcrunch.com/2022/03/02/food-companies-tastewise/)
+- [EU’s ban on Russia Today and Sputnik is now in effect](https://techcrunch.com/2022/03/02/eu-rt-sputnik-ban-live/)
 - [Two black holes locked in cosmic dance near galaxy&#39;s center are doomed to crash](https://www.space.com/black-hole-pair-cosmic-dance-galactic-center)
 - [Russian rocket to launch OneWeb satellites Friday despite Ukraine invasion](https://www.space.com/russia-launching-oneweb-internet-satellites-amid-ukraine-invasion)
-- [Possible massive &#39;kilonova&#39; explosion creates an epic afterglow](https://www.space.com/kilonova-explosion-afterglow)
-- [SpaceX promises sustainability and safety for Starlink constellation](https://www.space.com/spacex-sustainability-safety-starlink-satellite-megaconstellation)
-- [Ivorian healthtech startup Susu has $1M to scale its family-centric insurance product across Africa](https://techcrunch.com/2022/03/02/ivorian-healthtech-startup-susu-has-1m-to-scale-its-family-centric-insurance-product-across-africa/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
