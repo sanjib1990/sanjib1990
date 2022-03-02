@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Ukraine&#39;s proud space industry faces obliteration, but country&#39;s former space chief has hope for the future](https://www.space.com/ukraine-mighty-space-industry-faces-obliteration)
-- [Tier Mobility acquires Spin from Ford, marking entry into North America](https://techcrunch.com/2022/03/02/tier-mobility-acquires-spin-from-ford-marking-entry-into-north-america/)
-- [Best star projectors: Indoor views of the night sky](https://www.space.com/best-star-projectors)
-- [Dear Sophie: 2 questions about the latest immigration news](https://techcrunch.com/2022/03/02/dear-sophie-2-questions-about-the-latest-immigration-news/)
-- [Distant galaxies appear to overlap in new Hubble telescope image](https://www.space.com/galaxies-overlap-hubble-space-telescope-image)
+- [Amazon to close 68 physical retail locations, including Amazon Books and 4-star stores](https://techcrunch.com/2022/03/02/amazon-to-close-68-physical-retail-locations-including-amazon-books-and-4-star-stores/)
+- [As war escalates in Europe, it’s ‘shields up’ for the cybersecurity industry](https://techcrunch.com/2022/03/02/as-war-escalates-in-europe-its-shields-up-for-the-cybersecurity-industry/)
+- [Attend TechCrunch Live’s special event in Austin, Texas! &lpar;It’s free&rpar;](https://techcrunch.com/2022/03/02/attend-techcrunch-lives-special-event-in-austin-texas-its-free/)
+- [Without sustainable practices, orbital debris will hinder space’s gold rush](https://techcrunch.com/2022/03/02/without-sustainable-practices-orbital-debris-will-hinder-spaces-gold-rush/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
