@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apollo.io raises $110M as its crosses 16K paying users of its sales intelligence platform](https://techcrunch.com/2022/03/03/apollo-io-raises-110m-as-its-crosses-16k-paying-users-of-its-sales-intelligence-platform/)
-- [Atomic lands $40M in funding, just five months after its Series A, to connect banks and fintechs to consumers’ paychecks](https://techcrunch.com/2022/03/03/payroll-api-provider-atomic-lands-40m-in-series-b-funding/)
-- [Shares raises $40 million for its social investment app](https://techcrunch.com/2022/03/03/shares-raises-40-million-for-its-social-investment-app/)
-- [These are all the automakers that have pulled out Russian operations](https://techcrunch.com/2022/03/03/these-are-all-the-automakers-that-have-pulled-out-russian-operations/)
-- [On This Day in Space! March 3, 1969: Apollo 9 launches 1st test flight of lunar module](https://www.space.com/39251-on-this-day-in-space.html)
+- [Elon Musk challenges UAW to hold a union vote at Tesla’s California factory](https://techcrunch.com/2022/03/03/elon-musk-challenges-uaw-to-hold-a-union-vote-at-teslas-california-factory/)
+- [Archive back with fresh funding as it builds community marketing space](https://techcrunch.com/2022/03/03/archive-community-marketing/)
+- [MyPlace raises $5.8M to scale its private home-sharing social network](https://techcrunch.com/2022/03/03/myplace-raises-5-8m-to-scale-its-private-home-sharing-social-network/)
+- [Twitter to show ‘Birdwatch’ community fact-checks to more users, following criticism](https://techcrunch.com/2022/03/03/twitter-to-show-birdwatch-community-fact-checks-to-more-users-following-criticism/)
+- [Owner.com whips up new tools for independent restaurants following funding](https://techcrunch.com/2022/03/03/owner-com-independent-restaurants/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
