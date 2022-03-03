@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [To achieve enterprise sales success, tailor your approach to CIOs](https://techcrunch.com/2022/03/03/to-achieve-enterprise-sales-success-tailor-your-approach-to-cios/)
-- [Twitter’s EU-only geoblocks of Russia Today off to a shaky start](https://techcrunch.com/2022/03/03/twitters-eu-only-geoblocks-of-russia-today-off-to-a-shaky-start/)
-- [How a future gravitational wave detector in space will reveal more about the universe](https://www.space.com/gravitational-wave-detector-in-space-lisa)
-- [British rocket startup&#39;s staff helping defend Dnipro, Ukraine&#39;s space city](https://www.space.com/skyrora-ukraine-staff-defend-space-city-dnipro)
-- [Hulu’s Theranos docu-series ‘The Dropout’ is like watching a car crash in slow motion](https://techcrunch.com/2022/03/03/the-dropout-review-elizabeth-holmes-hulu/)
+- [Netflix’s interactive “Trivia Quest” will be far less creepy than “Bandersnatch”](https://techcrunch.com/2022/03/03/netflix-trivia-quest-interactive-cat-burglar/)
+- [&#39;Star Trek: Picard&#39; won&#39;t &#39;press forward&#39; with the synthetic storyline, producer Akiva Goldsman says](https://www.space.com/star-trek-picard-season-2-akiva-goldsman-interview)
+- [Russia halts rocket engine sales to US, suggests flying to space on ‘their broomsticks’](https://techcrunch.com/2022/03/03/russia-halts-rocket-engine-sales-to-u-s-suggests-flying-to-space-on-their-broomsticks/)
+- [Seven of Nine grapples with her humanity in &#39;Star Trek: Picard&#39; Season 2, SFX reveals](https://www.space.com/star-trek-picard-jeri-ryan-interview-sfx-magazine)
+- [Putting the autonomous cart before the robotic horse](https://techcrunch.com/2022/03/03/putting-the-autonomous-cart-before-the-robotic-horse/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
