@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How a simple security bug became a university campus ‘master key’](https://techcrunch.com/2022/03/03/cbord-university-digital-locks/)
+- [TikTok’s affect on teens will be investigated by state attorneys](https://techcrunch.com/2022/03/03/tiktok-affect-kids-teens-state-attorney-bipartisan/)
+- [MyHeritage and D-ID partner to bring photos to life with both animations and voice](https://techcrunch.com/2022/03/03/myheritage-and-d-id-partner-to-bring-photos-to-life-with-both-animations-and-voice/)
+- [Volvo is testing wireless EV charging tech in Sweden](https://techcrunch.com/2022/03/03/volvo-is-testing-wireless-ev-charging-tech-in-sweden/)
 - [3 views on the Epic-Bandcamp deal](https://techcrunch.com/2022/03/03/three-views-on-the-epic-bandcamp-deal/)
-- [Russia stops rocket engine sales to US as space cooperation frays](https://www.space.com/russia-stops-rocket-engine-sales-space-cooperation-frays)
-- [Twitch will ban streamers who frequently share misinformation](https://techcrunch.com/2022/03/03/twitch-will-ban-streamers-who-frequently-share-misinformation/)
-- [Checking Out the Mechanisms in Webb’s NIRSpec Instrument](https://blogs.nasa.gov/webb/2022/03/03/checking-out-the-mechanisms-in-webbs-nirspec-instrument/)
-- [Neutron stars release warm winds as they devour companion stars](https://www.space.com/warm-winds-released-by-neutron-star-study)
 <!-- BLOG-POST-LIST:END -->
 
 ---
