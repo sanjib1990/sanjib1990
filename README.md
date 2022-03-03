@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nigeria’s Sudo Africa raises $3.7M pre-seed for its card-issuing API platform](https://techcrunch.com/2022/03/02/nigerias-sudo-africa-gets-3-7m-pre-seed-for-its-card-issuing-api-platform/)
+- [Indonesian agritech AgriAku reaps $6M in pre-Series A funding](https://techcrunch.com/2022/03/02/indonesian-agritech-agriaku-reaps-6m-in-pre-series-a-funding/)
 - [OneWeb pulls employees out of Baikonur Cosmodrome after Russian demands: report](https://www.space.com/oneweb-pulls-employees-out-of-baikonur-cosmodrome-roscosmos-demands)
 - [Daily Crunch: With EU ban pending, Google Play says ‘do svidaniya’ to Russia Today, Sputnik apps](https://techcrunch.com/2022/03/02/daily-crunch-with-eu-ban-pending-google-play-says-do-svidaniya-to-russia-today-sputnik-apps/)
 - [Snowflake acquires Streamlit for $800M to help customers build data-based apps](https://techcrunch.com/2022/03/02/snowflake-acquires-streamlit-for-800m-to-help-customers-build-data-based-apps/)
-- [Polestar’s second concept car is a convertible with an integrated drone](https://techcrunch.com/2022/03/02/polestars-second-concept-car-is-a-convertible-with-an-integrated-drone/)
-- [Scientists gearing up for rocket body&#39;s March 4 moon crash](https://www.space.com/rocket-moon-crash-march-4-scientific-excitement)
 <!-- BLOG-POST-LIST:END -->
 
 ---
