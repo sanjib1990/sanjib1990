@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Netflix’s interactive “Trivia Quest” will be far less creepy than “Bandersnatch”](https://techcrunch.com/2022/03/03/netflix-trivia-quest-interactive-cat-burglar/)
-- [&#39;Star Trek: Picard&#39; won&#39;t &#39;press forward&#39; with the synthetic storyline, producer Akiva Goldsman says](https://www.space.com/star-trek-picard-season-2-akiva-goldsman-interview)
-- [Russia halts rocket engine sales to US, suggests flying to space on ‘their broomsticks’](https://techcrunch.com/2022/03/03/russia-halts-rocket-engine-sales-to-u-s-suggests-flying-to-space-on-their-broomsticks/)
-- [Seven of Nine grapples with her humanity in &#39;Star Trek: Picard&#39; Season 2, SFX reveals](https://www.space.com/star-trek-picard-jeri-ryan-interview-sfx-magazine)
-- [Putting the autonomous cart before the robotic horse](https://techcrunch.com/2022/03/03/putting-the-autonomous-cart-before-the-robotic-horse/)
+- [3 views on the Epic-Bandcamp deal](https://techcrunch.com/2022/03/03/three-views-on-the-epic-bandcamp-deal/)
+- [Russia stops rocket engine sales to US as space cooperation frays](https://www.space.com/russia-stops-rocket-engine-sales-space-cooperation-frays)
+- [Twitch will ban streamers who frequently share misinformation](https://techcrunch.com/2022/03/03/twitch-will-ban-streamers-who-frequently-share-misinformation/)
+- [Checking Out the Mechanisms in Webb’s NIRSpec Instrument](https://blogs.nasa.gov/webb/2022/03/03/checking-out-the-mechanisms-in-webbs-nirspec-instrument/)
+- [Neutron stars release warm winds as they devour companion stars](https://www.space.com/warm-winds-released-by-neutron-star-study)
 <!-- BLOG-POST-LIST:END -->
 
 ---
