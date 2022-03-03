@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [B2B e-commerce platform Chari is acquiring the credit line of Axa Assurance in Morocco for $22M](https://techcrunch.com/2022/03/03/b2b-e-commerce-platform-chari-is-acquiring-the-credit-line-of-axa-assurance-in-morocco-for-22m/)
 - [Reliance to invest $221 million for electronics manufacturing with Sanmina in India](https://techcrunch.com/2022/03/02/reliance-to-invest-221-million-for-electronics-manufacturing-with-sanmina-in-india/)
 - [Nigeria’s Sudo Africa raises $3.7M pre-seed for its card-issuing API platform](https://techcrunch.com/2022/03/02/nigerias-sudo-africa-gets-3-7m-pre-seed-for-its-card-issuing-api-platform/)
 - [Indonesian agritech AgriAku reaps $6M in pre-Series A funding](https://techcrunch.com/2022/03/02/indonesian-agritech-agriaku-reaps-6m-in-pre-series-a-funding/)
 - [OneWeb pulls employees out of Baikonur Cosmodrome after Russian demands: report](https://www.space.com/oneweb-pulls-employees-out-of-baikonur-cosmodrome-roscosmos-demands)
-- [Daily Crunch: With EU ban pending, Google Play says ‘do svidaniya’ to Russia Today, Sputnik apps](https://techcrunch.com/2022/03/02/daily-crunch-with-eu-ban-pending-google-play-says-do-svidaniya-to-russia-today-sputnik-apps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
