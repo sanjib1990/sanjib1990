@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Features on icy &#39;space snowman&#39; Arrokoth receive names](https://www.space.com/arrokoth-feature-names-new-horizons)
+- [How Lido raises the stakes for crypto and DeFi investors](https://techcrunch.com/2022/03/03/lido-raises-the-stakes-for-crypto-defi-investors-with-new-capital/)
+- [OSOM talks its first phone, ahead of a Q4 release](https://techcrunch.com/2022/03/03/osom-talks-its-first-phone-ahead-of-a-q4-release/)
+- [Corporations are scrambling to get into the venture game](https://techcrunch.com/2022/03/03/corporations-are-scrambling-to-get-into-the-venture-game/)
 - [NZVC creates fund for early-stage New Zealand ventures](https://techcrunch.com/2022/03/03/nzvc-new-zealand-ventures/)
-- [Verbit acquires UK’s market research transcription company Take Note](https://techcrunch.com/2022/03/03/verbit-acquires-take-note-to-further-its-global-expansion-efforts/)
-- [James Webb Space Telescope will help assess atmospheres of strange &#39;sub-Neptunes&#39;](https://www.space.com/james-webb-space-telescope-atmospheres-sub-neptunes)
-- [Learn about LobsterDAO, an influential community of engineers, devs and founders at DeFi and the Future of Programmable Money](https://techcrunch.com/2022/03/03/learn-about-lobsterdao-an-influential-community-of-engineers-devs-and-founders-at-defi-and-the-future-of-programmable-money/)
-- [Decipad wants to help everyone do data modelling](https://techcrunch.com/2022/03/03/decipad-seed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
