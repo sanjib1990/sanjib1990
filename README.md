@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apollo.io raises $110M as its crosses 16K paying users of its sales intelligence platform](https://techcrunch.com/2022/03/03/apollo-io-raises-110m-as-its-crosses-16k-paying-users-of-its-sales-intelligence-platform/)
+- [Atomic lands $40M in funding, just five months after its Series A, to connect banks and fintechs to consumers’ paychecks](https://techcrunch.com/2022/03/03/payroll-api-provider-atomic-lands-40m-in-series-b-funding/)
+- [Shares raises $40 million for its social investment app](https://techcrunch.com/2022/03/03/shares-raises-40-million-for-its-social-investment-app/)
 - [These are all the automakers that have pulled out Russian operations](https://techcrunch.com/2022/03/03/these-are-all-the-automakers-that-have-pulled-out-russian-operations/)
 - [On This Day in Space! March 3, 1969: Apollo 9 launches 1st test flight of lunar module](https://www.space.com/39251-on-this-day-in-space.html)
-- [Sikur touts a new secure Android phone for enterprise, gov’t comms](https://techcrunch.com/2022/03/03/sikur-one/)
-- [Stax gets $2.2M for its app that lets Africans make transactions via automated USSD codes](https://techcrunch.com/2022/03/03/stax-gets-2-2m-for-its-app-that-lets-africans-make-transactions-via-automated-ussd-codes/)
-- [You can watch an asteroid zoom safely by Earth in a live webcast today](https://www.space.com/asteroid-2001-cb21-earth-flyby-webcast)
 <!-- BLOG-POST-LIST:END -->
 
 ---
