@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [These are all the automakers that have pulled out Russian operations](https://techcrunch.com/2022/03/03/these-are-all-the-automakers-that-have-pulled-out-russian-operations/)
+- [On This Day in Space! March 3, 1969: Apollo 9 launches 1st test flight of lunar module](https://www.space.com/39251-on-this-day-in-space.html)
+- [Sikur touts a new secure Android phone for enterprise, gov’t comms](https://techcrunch.com/2022/03/03/sikur-one/)
 - [Stax gets $2.2M for its app that lets Africans make transactions via automated USSD codes](https://techcrunch.com/2022/03/03/stax-gets-2-2m-for-its-app-that-lets-africans-make-transactions-via-automated-ussd-codes/)
 - [You can watch an asteroid zoom safely by Earth in a live webcast today](https://www.space.com/asteroid-2001-cb21-earth-flyby-webcast)
-- [Your name can fly around the moon on NASA&#39;s Artemis 1 mission](https://www.space.com/fly-name-around-moon-nasa-artemis-1-mission)
-- [SpaceX to launch 47 Starlink satellites, land rocket Thursday morning: Watch it live](https://www.space.com/spacex-47-starlink-satellites-launch-march-2022)
-- [Rocket crashing into the moon Friday: What to know](https://www.space.com/rocket-moon-crash-march-4-what-to-know)
 <!-- BLOG-POST-LIST:END -->
 
 ---
