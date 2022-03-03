@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Elon Musk challenges UAW to hold a union vote at Tesla’s California factory](https://techcrunch.com/2022/03/03/elon-musk-challenges-uaw-to-hold-a-union-vote-at-teslas-california-factory/)
-- [Archive back with fresh funding as it builds community marketing space](https://techcrunch.com/2022/03/03/archive-community-marketing/)
-- [MyPlace raises $5.8M to scale its private home-sharing social network](https://techcrunch.com/2022/03/03/myplace-raises-5-8m-to-scale-its-private-home-sharing-social-network/)
-- [Twitter to show ‘Birdwatch’ community fact-checks to more users, following criticism](https://techcrunch.com/2022/03/03/twitter-to-show-birdwatch-community-fact-checks-to-more-users-following-criticism/)
-- [Owner.com whips up new tools for independent restaurants following funding](https://techcrunch.com/2022/03/03/owner-com-independent-restaurants/)
+- [NZVC creates fund for early-stage New Zealand ventures](https://techcrunch.com/2022/03/03/nzvc-new-zealand-ventures/)
+- [Verbit acquires UK’s market research transcription company Take Note](https://techcrunch.com/2022/03/03/verbit-acquires-take-note-to-further-its-global-expansion-efforts/)
+- [James Webb Space Telescope will help assess atmospheres of strange &#39;sub-Neptunes&#39;](https://www.space.com/james-webb-space-telescope-atmospheres-sub-neptunes)
+- [Learn about LobsterDAO, an influential community of engineers, devs and founders at DeFi and the Future of Programmable Money](https://techcrunch.com/2022/03/03/learn-about-lobsterdao-an-influential-community-of-engineers-devs-and-founders-at-defi-and-the-future-of-programmable-money/)
+- [Decipad wants to help everyone do data modelling](https://techcrunch.com/2022/03/03/decipad-seed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
