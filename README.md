@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Instacart’s head of talent just joined Pear VC; here’s his take on the market](https://techcrunch.com/2022/03/03/instacarts-head-of-talent-just-joined-pear-vc-heres-his-take-on-the-market/)
 - [How a simple security bug became a university campus ‘master key’](https://techcrunch.com/2022/03/03/cbord-university-digital-locks/)
 - [TikTok’s affect on teens will be investigated by state attorneys](https://techcrunch.com/2022/03/03/tiktok-affect-kids-teens-state-attorney-bipartisan/)
 - [MyHeritage and D-ID partner to bring photos to life with both animations and voice](https://techcrunch.com/2022/03/03/myheritage-and-d-id-partner-to-bring-photos-to-life-with-both-animations-and-voice/)
 - [Volvo is testing wireless EV charging tech in Sweden](https://techcrunch.com/2022/03/03/volvo-is-testing-wireless-ev-charging-tech-in-sweden/)
-- [3 views on the Epic-Bandcamp deal](https://techcrunch.com/2022/03/03/three-views-on-the-epic-bandcamp-deal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
