@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [B2B e-commerce platform Chari is acquiring the credit line of Axa Assurance in Morocco for $22M](https://techcrunch.com/2022/03/03/b2b-e-commerce-platform-chari-is-acquiring-the-credit-line-of-axa-assurance-in-morocco-for-22m/)
-- [Reliance to invest $221 million for electronics manufacturing with Sanmina in India](https://techcrunch.com/2022/03/02/reliance-to-invest-221-million-for-electronics-manufacturing-with-sanmina-in-india/)
-- [Nigeria’s Sudo Africa raises $3.7M pre-seed for its card-issuing API platform](https://techcrunch.com/2022/03/02/nigerias-sudo-africa-gets-3-7m-pre-seed-for-its-card-issuing-api-platform/)
-- [Indonesian agritech AgriAku reaps $6M in pre-Series A funding](https://techcrunch.com/2022/03/02/indonesian-agritech-agriaku-reaps-6m-in-pre-series-a-funding/)
-- [OneWeb pulls employees out of Baikonur Cosmodrome after Russian demands: report](https://www.space.com/oneweb-pulls-employees-out-of-baikonur-cosmodrome-roscosmos-demands)
+- [Stax gets $2.2M for its app that lets Africans make transactions via automated USSD codes](https://techcrunch.com/2022/03/03/stax-gets-2-2m-for-its-app-that-lets-africans-make-transactions-via-automated-ussd-codes/)
+- [You can watch an asteroid zoom safely by Earth in a live webcast today](https://www.space.com/asteroid-2001-cb21-earth-flyby-webcast)
+- [Your name can fly around the moon on NASA&#39;s Artemis 1 mission](https://www.space.com/fly-name-around-moon-nasa-artemis-1-mission)
+- [SpaceX to launch 47 Starlink satellites, land rocket Thursday morning: Watch it live](https://www.space.com/spacex-47-starlink-satellites-launch-march-2022)
+- [Rocket crashing into the moon Friday: What to know](https://www.space.com/rocket-moon-crash-march-4-what-to-know)
 <!-- BLOG-POST-LIST:END -->
 
 ---
