@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Tortoise pivots away from robotic delivery toward mobile stores](https://techcrunch.com/2022/03/04/tortoise-pivots-away-from-robotic-delivery-towards-mobile-stores/)
-- [More deceptive cookie banners targeted in latest noyb EU action](https://techcrunch.com/2022/03/04/noyb-second-cookie-complaints/)
-- [Disco gets brands to boogie together on customer acquisition](https://techcrunch.com/2022/03/04/disco-gets-brands-to-boogie-together-on-customer-acquisition/)
-- [Popchew cooks up creator partnership approach to digitally native, local food brands](https://techcrunch.com/2022/03/04/popchew-creator-food-brands/)
-- [Keyway secures funding to buy property from a small business owner and lease it back to them](https://techcrunch.com/2022/03/04/keyway-secures-capital-to-buy-property-from-a-small-business-owner-and-lease-it-back-to-them/)
+- [Thousands of Nvidia employee passwords leak online as hackers’ ransom deadline looms](https://techcrunch.com/2022/03/04/nvidia-ransomware-hackers-demands/)
+- [As Equity turns five, we send our dear friend Chris Gates onto his next adventure](https://techcrunch.com/2022/03/04/as-equity-turns-five-we-send-our-dear-friend-chris-gates-onto-his-next-adventure/)
+- [AssemblyAI snags $28M for all-in-one API to transcribe, summarize, and moderate audio](https://techcrunch.com/2022/03/04/assembly-ai-snags-28m-for-all-in-one-api-to-transcribe-summarize-and-moderate-audio/)
+- [Microsoft halts all new sales in Russia](https://techcrunch.com/2022/03/04/microsoft-halts-all-new-sales-in-russia/)
+- [Disney+ is getting an ad-supported subscription tier later this year](https://techcrunch.com/2022/03/04/disney-is-getting-an-ad-supported-subscription-tier-later-this-year/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
