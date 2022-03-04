@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [After clearing all regulatory hurdles, Microsoft closes $20B Nuance deal](https://techcrunch.com/2022/03/04/after-clearing-all-regulatory-hurdles-microsoft-closes-20b-nuance-deal/)
-- [TC Sessions: Mobility 2022 goes live and doubles down on content, demos, expo space and opportunity](https://techcrunch.com/2022/03/04/tc-sessions-mobility-2022-goes-live-and-doubles-down-on-content-demos-expo-space-and-opportunity/)
-- [With capital aplenty, modern corporate investors marry financial and strategic goals](https://techcrunch.com/2022/03/04/with-capital-aplenty-modern-corporate-investors-marry-financial-and-strategic-goals/)
-- [White dwarfs: Facts about the dense stellar remnants](https://www.space.com/23756-white-dwarf-stars.html)
-- [Stellation Capital’s Peter Boyce outlines how to get the best investors and terms for your Series A fundraise at TechCrunch Early Stage](https://techcrunch.com/2022/03/04/stellation-capitals-peter-boyce-outlines-how-to-get-the-best-investors-and-terms-for-your-series-a-fundraise-at-techcrunch-early-stage/)
+- [Fetch raises $3.5M for its self-service truck rental marketplace](https://techcrunch.com/2022/03/04/fetch-raises-3-5m-for-its-self-service-truck-rental-marketplace/)
+- [Box strikes back with a quarter that beats everyone’s expectations, including its own](https://techcrunch.com/2022/03/04/box-strikes-back-with-a-quarter-that-beats-everyones-expectations-including-its-own/)
+- [D’Amelio family launches VC fund 444 Capital to invest up to $25M in high-growth startups](https://techcrunch.com/2022/03/04/damelio-family-launches-vc-fund-444-capital-to-invest-in-high-growth-startups/)
+- [From beer waste to ‘plastic’ packaging, Mi Terro downs $1.5M to make the world more biodegradable](https://techcrunch.com/2022/03/04/me-terro-seed-funding/)
+- [Airbnb suspends all operations in Russia and Belarus](https://techcrunch.com/2022/03/04/airbnb-suspends-all-operations-in-russia-and-belarus/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
