@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [In the metaverse, responsible AI must be a priority](https://techcrunch.com/2022/03/04/in-the-metaverse-responsible-ai-must-be-a-priority/)
-- [Russia removes Soyuz rocket with 36 OneWeb satellites from launch pad &lpar;photos&rpar;](https://www.space.com/russia-removes-soyuz-oneweb-satellites-launch-pad)
-- [The Large Hadron Collider will explore the cutting edge of physics after 3-year shutdown](https://www.space.com/large-hadron-collider-starts-3rd-run-soon)
-- [The Large Hadron Collider: Inside CERN&#39;s atom smasher](https://www.space.com/large-hadron-collider-particle-accelerator)
-- [Stark racial disparities remain in US physics](https://www.space.com/missing-black-physicists-systemic-racism)
+- [It’s pivot season for early-stage startups](https://techcrunch.com/2022/03/04/its-pivot-season-for-early-stage-startups/)
+- [TechCrunch+ roundup: 3 views on Epic-Bandcamp deal, SPAC letdown, CIO sales strategy](https://techcrunch.com/2022/03/04/techcrunch-roundup-3-views-on-epic-bandcamp-deal-spac-letdown-cio-sales-strategy/)
+- [Infrastructure is broken, Gecko is using robotics to help fix it](https://techcrunch.com/2022/03/04/infrastructure-is-broken-gecko-is-using-robotics-to-help-fix-it/)
+- [Winnie has a new plan to help childcare centers scale care](https://techcrunch.com/2022/03/04/winnie-has-a-new-plan-to-help-childcare-centers-scale-care/)
+- [How quickly do enterprise tech firms need to grow to satisfy today’s investors?](https://techcrunch.com/2022/03/04/how-quickly-do-enterprise-tech-firms-need-to-grow-to-satisfy-todays-investors/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
