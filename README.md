@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [London-based SteadyPay helps freelancers and gig workers stabilize their income](https://techcrunch.com/2022/03/04/london-based-steadypay-helps-freelancers-and-gig-workers-stabilize-their-income/)
 - [Volocopter raises $170M, now valued at $1.87B, to fuel the first commercial launches of its flying taxi fleet](https://techcrunch.com/2022/03/04/volocopter-raises-170m-now-valued-at-1-87b-to-fuel-the-first-commercial-launches-of-its-flying-taxi-fleet/)
 - [Rogue 3-ton rocket will collide with the moon today](https://www.space.com/rogue-rocket-stage-hit-moon-today)
 - [YC-backed Blocknom wants to become the ‘Coinbase Earn of Southeast Asia’](https://techcrunch.com/2022/03/03/yc-backed-blocknom-wants-to-become-the-coinbase-earn-of-southeast-asia/)
 - [4 basic elements required for running production OSS smoothly](https://techcrunch.com/2022/03/03/4-basic-elements-required-for-running-production-oss-smoothly/)
-- [A staid MWC wraps up amid a lull in mobile excitement](https://techcrunch.com/2022/03/03/a-staid-mwc-wraps-up-amid-a-lull-in-mobile-excitement/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
