@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Russia says it will block Facebook, clamping down further on flow of information](https://techcrunch.com/2022/03/04/russia-blocks-facebook/)
+- [Stark racial disparities remain in US physics](https://www.space.com/missing-black-physicists-systemic-racism)
+- [Russia says it will block Facebook, its latest effort to control the narrative on Ukraine](https://techcrunch.com/2022/03/04/russia-blocks-facebook/)
 - [Apple Maps now displays Crimea as part of Ukraine to viewers outside of Russia](https://techcrunch.com/2022/03/04/apple-maps-now-displays-crimea-as-part-of-ukraine-to-viewers-outside-of-russia/)
 - [Google pauses its ad sales in Russia, Microsoft pauses sales](https://techcrunch.com/2022/03/04/google-microsoft-sales-pause-russia/)
 - [40-mile-long Russian invasion convoy visible from space in new 3D satellite view &lpar;video&rpar;](https://www.space.com/russia-ukraine-invasion-convoy-3d-satellite-video)
-- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
