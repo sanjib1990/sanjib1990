@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [Thousands of Nvidia employee passwords leak online as hackers’ ransom deadline looms](https://techcrunch.com/2022/03/04/nvidia-ransomware-hackers-demands/)
 - [As Equity turns five, we send our dear friend Chris Gates onto his next adventure](https://techcrunch.com/2022/03/04/as-equity-turns-five-we-send-our-dear-friend-chris-gates-onto-his-next-adventure/)
 - [AssemblyAI snags $28M for all-in-one API to transcribe, summarize, and moderate audio](https://techcrunch.com/2022/03/04/assembly-ai-snags-28m-for-all-in-one-api-to-transcribe-summarize-and-moderate-audio/)
-- [Microsoft halts all new sales in Russia](https://techcrunch.com/2022/03/04/microsoft-halts-all-new-sales-in-russia/)
-- [Disney+ is getting an ad-supported subscription tier later this year](https://techcrunch.com/2022/03/04/disney-is-getting-an-ad-supported-subscription-tier-later-this-year/)
+- [Satellites are critical to fighting the climate crisis, scientists say](https://www.space.com/ipcc-report-climate-change-space-satellites-goest)
 <!-- BLOG-POST-LIST:END -->
 
 ---
