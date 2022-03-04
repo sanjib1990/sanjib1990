@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [4 basic elements required for running production OSS smoothly](https://techcrunch.com/2022/03/03/4-basic-elements-required-for-running-production-oss-smoothly/)
+- [A staid MWC wraps up amid a lull in mobile excitement](https://techcrunch.com/2022/03/03/a-staid-mwc-wraps-up-amid-a-lull-in-mobile-excitement/)
+- [Daily Crunch: Thousands of Google Play users download Android banking trojan](https://techcrunch.com/2022/03/03/daily-crunch-thousands-of-google-play-users-download-android-banking-trojan/)
 - [Instacart’s head of talent just joined Pear VC; here’s his take on the market](https://techcrunch.com/2022/03/03/instacarts-head-of-talent-just-joined-pear-vc-heres-his-take-on-the-market/)
 - [How a simple security bug became a university campus ‘master key’](https://techcrunch.com/2022/03/03/cbord-university-digital-locks/)
-- [TikTok’s affect on teens will be investigated by state attorneys](https://techcrunch.com/2022/03/03/tiktok-affect-kids-teens-state-attorney-bipartisan/)
-- [MyHeritage and D-ID partner to bring photos to life with both animations and voice](https://techcrunch.com/2022/03/03/myheritage-and-d-id-partner-to-bring-photos-to-life-with-both-animations-and-voice/)
-- [Volvo is testing wireless EV charging tech in Sweden](https://techcrunch.com/2022/03/03/volvo-is-testing-wireless-ev-charging-tech-in-sweden/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
