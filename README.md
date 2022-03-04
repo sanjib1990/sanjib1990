@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Fetch raises $3.5M for its self-service truck rental marketplace](https://techcrunch.com/2022/03/04/fetch-raises-3-5m-for-its-self-service-truck-rental-marketplace/)
-- [Box strikes back with a quarter that beats everyone’s expectations, including its own](https://techcrunch.com/2022/03/04/box-strikes-back-with-a-quarter-that-beats-everyones-expectations-including-its-own/)
-- [D’Amelio family launches VC fund 444 Capital to invest up to $25M in high-growth startups](https://techcrunch.com/2022/03/04/damelio-family-launches-vc-fund-444-capital-to-invest-in-high-growth-startups/)
-- [From beer waste to ‘plastic’ packaging, Mi Terro downs $1.5M to make the world more biodegradable](https://techcrunch.com/2022/03/04/me-terro-seed-funding/)
-- [Airbnb suspends all operations in Russia and Belarus](https://techcrunch.com/2022/03/04/airbnb-suspends-all-operations-in-russia-and-belarus/)
+- [Russia says it will block Facebook, clamping down further on flow of information](https://techcrunch.com/2022/03/04/russia-blocks-facebook/)
+- [Apple Maps now displays Crimea as part of Ukraine to viewers outside of Russia](https://techcrunch.com/2022/03/04/apple-maps-now-displays-crimea-as-part-of-ukraine-to-viewers-outside-of-russia/)
+- [Google pauses its ad sales in Russia, Microsoft pauses sales](https://techcrunch.com/2022/03/04/google-microsoft-sales-pause-russia/)
+- [40-mile-long Russian invasion convoy visible from space in new 3D satellite view &lpar;video&rpar;](https://www.space.com/russia-ukraine-invasion-convoy-3d-satellite-video)
+- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
