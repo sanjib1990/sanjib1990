@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tortoise pivots away from robotic delivery toward mobile stores](https://techcrunch.com/2022/03/04/tortoise-pivots-away-from-robotic-delivery-towards-mobile-stores/)
 - [More deceptive cookie banners targeted in latest noyb EU action](https://techcrunch.com/2022/03/04/noyb-second-cookie-complaints/)
 - [Disco gets brands to boogie together on customer acquisition](https://techcrunch.com/2022/03/04/disco-gets-brands-to-boogie-together-on-customer-acquisition/)
 - [Popchew cooks up creator partnership approach to digitally native, local food brands](https://techcrunch.com/2022/03/04/popchew-creator-food-brands/)
 - [Keyway secures funding to buy property from a small business owner and lease it back to them](https://techcrunch.com/2022/03/04/keyway-secures-capital-to-buy-property-from-a-small-business-owner-and-lease-it-back-to-them/)
-- [These 3 Lego &#39;Star Wars&#39; sets are discounted on Amazon UK](https://www.space.com/3-lego-star-wars-discounts-uk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
