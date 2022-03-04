@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Save the date for the MIT 24-Hour Challenge!](https://www.youtube.com/watch?v=SU4RVM15Hfw)
 - [Lecture 7 Demonstration: Object Tracking: 1 Dot Slow | MIT 9.00SC Introduction to Psychology](https://www.youtube.com/watch?v=G6xsNP2TE3A)
 - [Lecture 7 Demonstration: Object Tracking: 4 Dots Fast | MIT 9.00SC Introduction to Psychology](https://www.youtube.com/watch?v=o8puRrvCHAc)
 - [Lecture 7 Demonstration: Object Tracking: 4 Dots Slow | MIT 9.00SC Introduction to Psychology](https://www.youtube.com/watch?v=tyRM_cSqbqQ)
 - [Automate your Multi-Stage Continuous Delivery and Operations | with Keptn](https://www.youtube.com/watch?v=3EEZmSwMXp8)
-- [10 React Antipatterns to Avoid - Code This, Not That!](https://www.youtube.com/watch?v=b0IZo2Aho9Y)
 <!-- YOUTUBE:END -->
 
 ---
