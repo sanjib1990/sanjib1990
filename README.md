@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rogue 3-ton rocket will collide with the moon today](https://www.space.com/rogue-rocket-stage-hit-moon-today)
 - [YC-backed Blocknom wants to become the ‘Coinbase Earn of Southeast Asia’](https://techcrunch.com/2022/03/03/yc-backed-blocknom-wants-to-become-the-coinbase-earn-of-southeast-asia/)
 - [4 basic elements required for running production OSS smoothly](https://techcrunch.com/2022/03/03/4-basic-elements-required-for-running-production-oss-smoothly/)
 - [A staid MWC wraps up amid a lull in mobile excitement](https://techcrunch.com/2022/03/03/a-staid-mwc-wraps-up-amid-a-lull-in-mobile-excitement/)
 - [Daily Crunch: Thousands of Google Play users download Android banking trojan](https://techcrunch.com/2022/03/03/daily-crunch-thousands-of-google-play-users-download-android-banking-trojan/)
-- [Instacart’s head of talent just left to join Pear VC; here’s his take on the market](https://techcrunch.com/2022/03/03/instacarts-head-of-talent-just-joined-pear-vc-heres-his-take-on-the-market/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
