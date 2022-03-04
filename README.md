@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [Thousands of Nvidia employee passwords leak online as hackers’ ransom deadline looms](https://techcrunch.com/2022/03/04/nvidia-ransomware-hackers-demands/)
-- [As Equity turns five, we send our dear friend Chris Gates onto his next adventure](https://techcrunch.com/2022/03/04/as-equity-turns-five-we-send-our-dear-friend-chris-gates-onto-his-next-adventure/)
-- [AssemblyAI snags $28M for all-in-one API to transcribe, summarize, and moderate audio](https://techcrunch.com/2022/03/04/assembly-ai-snags-28m-for-all-in-one-api-to-transcribe-summarize-and-moderate-audio/)
-- [Satellites are critical to fighting the climate crisis, scientists say](https://www.space.com/ipcc-report-climate-change-space-satellites-goest)
+- [After clearing all regulatory hurdles, Microsoft closes $20B Nuance deal](https://techcrunch.com/2022/03/04/after-clearing-all-regulatory-hurdles-microsoft-closes-20b-nuance-deal/)
+- [TC Sessions: Mobility 2022 goes live and doubles down on content, demos, expo space and opportunity](https://techcrunch.com/2022/03/04/tc-sessions-mobility-2022-goes-live-and-doubles-down-on-content-demos-expo-space-and-opportunity/)
+- [With capital aplenty, modern corporate investors marry financial and strategic goals](https://techcrunch.com/2022/03/04/with-capital-aplenty-modern-corporate-investors-marry-financial-and-strategic-goals/)
+- [White dwarfs: Facts about the dense stellar remnants](https://www.space.com/23756-white-dwarf-stars.html)
+- [Stellation Capital’s Peter Boyce outlines how to get the best investors and terms for your Series A fundraise at TechCrunch Early Stage](https://techcrunch.com/2022/03/04/stellation-capitals-peter-boyce-outlines-how-to-get-the-best-investors-and-terms-for-your-series-a-fundraise-at-techcrunch-early-stage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
