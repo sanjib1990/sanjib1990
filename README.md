@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [London-based SteadyPay helps freelancers and gig workers stabilize their income](https://techcrunch.com/2022/03/04/london-based-steadypay-helps-freelancers-and-gig-workers-stabilize-their-income/)
-- [Volocopter raises $170M, now valued at $1.87B, to fuel the first commercial launches of its flying taxi fleet](https://techcrunch.com/2022/03/04/volocopter-raises-170m-now-valued-at-1-87b-to-fuel-the-first-commercial-launches-of-its-flying-taxi-fleet/)
-- [Rogue 3-ton rocket will collide with the moon today](https://www.space.com/rogue-rocket-stage-hit-moon-today)
-- [YC-backed Blocknom wants to become the ‘Coinbase Earn of Southeast Asia’](https://techcrunch.com/2022/03/03/yc-backed-blocknom-wants-to-become-the-coinbase-earn-of-southeast-asia/)
-- [4 basic elements required for running production OSS smoothly](https://techcrunch.com/2022/03/03/4-basic-elements-required-for-running-production-oss-smoothly/)
+- [These 3 Lego &#39;Star Wars&#39; sets are discounted on Amazon UK](https://www.space.com/3-lego-star-wars-discounts-uk)
+- [Russia&#39;s invasion of Ukraine in satellite photos](https://www.space.com/russia-ukraine-invasion-satellite-photos)
+- [British rocket startup&#39;s staff helping defend Dnipro, Ukraine&#39;s space city](https://www.space.com/skyrora-ukraine-staff-defend-space-city-dnipro)
+- [Sony and Honda reveal plans to jointly make and sell electric vehicles](https://techcrunch.com/2022/03/04/sony-and-honda-reveal-plans-to-jointly-make-and-sell-electric-vehicles/)
+- [Space Force plans to send a patrol probe out past the moon](https://www.space.com/us-space-force-military-afrl-chps-moon-satellite)
 <!-- BLOG-POST-LIST:END -->
 
 ---
