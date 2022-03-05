@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Elon Musk says SpaceX focusing on cyber defense after Starlink signals jammed near Ukraine conflict areas](https://www.space.com/elon-musk-spacex-starlink-cyber-defense-ukraine-invasion)
 - [On This Day in Space! March 5, 1982: Soviet Venera 14 probe lands on Venus](https://www.space.com/39251-on-this-day-in-space.html)
 - [&#39;Star Trek: Discovery&#39; season 4, episode 11 &#39;Rosetta&#39; has the away team on an acid trip](https://www.space.com/star-trek-discovery-season-4-episode-11-review)
 - [Save 21% on Terraforming Mars and conquer the Red Planet](https://www.space.com/terraforming-mars-game-deal-march-2022)
 - [Chocolate, music and research fuel Martian life at HI-SEAS – Commander&#39;s report: sol 6](https://www.space.com/hi-seas-valoria-3-mars-analog-mission-commander-report-2)
-- [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
