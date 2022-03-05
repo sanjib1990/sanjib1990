@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A peek inside Founders Fund, as it closes on $5 billion across two new funds](https://techcrunch.com/2022/03/04/a-peek-inside-founders-fund-as-it-closes-on-5-billion-across-two-new-funds/)
+- [Daily Crunch: Ransomware group threatens to release Nvidia’s ‘most closely guarded secrets’](https://techcrunch.com/2022/03/04/daily-crunch-ransomware-group-threatens-to-release-nvidias-most-closely-guarded-secrets/)
+- [Rogue rocket body imaged weeks before its moon impact &lpar;photo&rpar;](https://www.space.com/rogue-rocket-stage-photo-before-moon-impact)
+- [On This Day in Space! March 4, 1979: Rings discovered around Jupiter!](https://www.space.com/39251-on-this-day-in-space.html)
 - [It’s pivot season for early-stage startups](https://techcrunch.com/2022/03/04/its-pivot-season-for-early-stage-startups/)
-- [TechCrunch+ roundup: 3 views on Epic-Bandcamp deal, SPAC letdown, CIO sales strategy](https://techcrunch.com/2022/03/04/techcrunch-roundup-3-views-on-epic-bandcamp-deal-spac-letdown-cio-sales-strategy/)
-- [Infrastructure is broken, Gecko is using robotics to help fix it](https://techcrunch.com/2022/03/04/infrastructure-is-broken-gecko-is-using-robotics-to-help-fix-it/)
-- [Winnie has a new plan to help childcare centers scale care](https://techcrunch.com/2022/03/04/winnie-has-a-new-plan-to-help-childcare-centers-scale-care/)
-- [How quickly do enterprise tech firms need to grow to satisfy today’s investors?](https://techcrunch.com/2022/03/04/how-quickly-do-enterprise-tech-firms-need-to-grow-to-satisfy-todays-investors/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
