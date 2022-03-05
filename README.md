@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ukraine, API startups and startup valuations](https://techcrunch.com/2022/03/05/ukraine-api-startups-and-startup-valuations/)
 - [Elon Musk says SpaceX&#39;s Starlink won&#39;t  block Russian news sources &#39;unless at gunpoint&#39;](https://www.space.com/elon-musk-starlink-wont-block-russian-news-sources)
 - [Elon Musk says SpaceX focusing on cyber defense after Starlink signals jammed near Ukraine conflict areas](https://www.space.com/elon-musk-spacex-starlink-cyber-defense-ukraine-invasion)
 - [On This Day in Space! March 5, 1982: Soviet Venera 14 probe lands on Venus](https://www.space.com/39251-on-this-day-in-space.html)
 - [&#39;Star Trek: Discovery&#39; season 4, episode 11 &#39;Rosetta&#39; has the away team on an acid trip](https://www.space.com/star-trek-discovery-season-4-episode-11-review)
-- [Save 21% on Terraforming Mars and conquer the Red Planet](https://www.space.com/terraforming-mars-game-deal-march-2022)
 <!-- BLOG-POST-LIST:END -->
 
 ---
