@@ -95,7 +95,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Uganda in the spotlight as country’s startups captivate YC, Google](https://techcrunch.com/2022/03/04/uganda-in-the-spotlight-as-countrys-startups-captivate-yc-google/)
-- [A peek inside Founders Fund, as it closes on $5 billion across two new funds](https://techcrunch.com/2022/03/04/a-peek-inside-founders-fund-as-it-closes-on-5-billion-across-two-new-funds/)
+- [A look inside Founders Fund, as it closes on $5 billion across two new funds](https://techcrunch.com/2022/03/04/a-peek-inside-founders-fund-as-it-closes-on-5-billion-across-two-new-funds/)
 - [Daily Crunch: Ransomware group threatens to release Nvidia’s ‘most closely guarded secrets’](https://techcrunch.com/2022/03/04/daily-crunch-ransomware-group-threatens-to-release-nvidias-most-closely-guarded-secrets/)
 - [Rogue rocket body imaged weeks before its moon impact &lpar;photo&rpar;](https://www.space.com/rogue-rocket-stage-photo-before-moon-impact)
 - [On This Day in Space! March 4, 1979: Rings discovered around Jupiter!](https://www.space.com/39251-on-this-day-in-space.html)
