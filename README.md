@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [James Webb Space Telescope will study super-bright quasars to understand early universe](https://www.space.com/james-webb-space-telescope-quasars-science)
+- [Curiosity rover snaps close-up of tiny &#39;mineral flower&#39; on Mars](https://www.space.com/tiny-mineral-flower-on-mars)
+- [Romania signs the Artemis Accords for space exploration cooperation](https://www.space.com/romania-signs-artemis-accords)
+- [Tiny laser-propelled spaceships could travel to the far reaches of the solar system and beyond](https://www.space.com/laser-propelled-spaceships-solar-system-exploration)
 - [Welcome to the it’s-so-subtle pivot season](https://techcrunch.com/2022/03/05/early-stage-startups-pivot-season/)
-- [This Week in Apps: Apps blocking Russia, Walmart adds virtual try-on, Netflix’s trivia game](https://techcrunch.com/2022/03/05/this-week-in-apps-apps-blocking-russia-walmart-adds-virtual-try-on-netflixs-trivia-game/)
-- [Ukraine, API startups and startup valuations](https://techcrunch.com/2022/03/05/ukraine-api-startups-and-startup-valuations/)
-- [Elon Musk says SpaceX&#39;s Starlink won&#39;t  block Russian news sources &#39;unless at gunpoint&#39;](https://www.space.com/elon-musk-starlink-wont-block-russian-news-sources)
-- [Elon Musk says SpaceX focusing on cyber defense after Starlink signals jammed near Ukraine conflict areas](https://www.space.com/elon-musk-spacex-starlink-cyber-defense-ukraine-invasion)
 <!-- BLOG-POST-LIST:END -->
 
 ---
