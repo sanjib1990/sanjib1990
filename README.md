@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [About Us](https://www.space.com/41418-about-us.html)
 - [Indian fintech CredAvenue turns unicorn with fresh $137 million funding](https://techcrunch.com/2022/03/06/indian-fintech-credavenue-turns-unicorn-with-fresh-137-million-funding/)
 - [On This Day in Space! March 6, 1986: Vega 1 flies by Halley&#39;s Comet](https://www.space.com/39251-on-this-day-in-space.html)
 - [James Webb Space Telescope will study super-bright quasars to understand early universe](https://www.space.com/james-webb-space-telescope-quasars-science)
 - [Curiosity rover snaps close-up of tiny &#39;mineral flower&#39; on Mars](https://www.space.com/tiny-mineral-flower-on-mars)
-- [Romania signs the Artemis Accords for space exploration cooperation](https://www.space.com/romania-signs-artemis-accords)
 <!-- BLOG-POST-LIST:END -->
 
 ---
