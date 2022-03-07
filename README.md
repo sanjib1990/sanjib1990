@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Best sci-fi books of 2022](https://www.space.com/best-sci-fi-books)
+- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html)
 - [Robotaxi startup Pony.ai now valued at $8.5B](https://techcrunch.com/2022/03/07/robotaxi-startup-pony-ai-now-valued-at-8-5b/)
 - [Crypto startup Argent wants to put an end to gas fees with Layer 2 wallet](https://techcrunch.com/2022/03/07/crypto-startup-argent-wants-to-put-an-end-to-gas-fees-with-layer-2-wallet/)
-- [Google-backed Indian carrier Airtel launches credit card](https://techcrunch.com/2022/03/06/airtel-credit-card/)
-- [Sequoia Capital India, STV back Dubai-based BNPL provider tabby in $54M extension round](https://techcrunch.com/2022/03/06/sequoia-capital-india-stv-back-dubai-based-bnpl-provider-tabby-in-54m-extension-round/)
-- [India’s Captain Fresh more than doubles valuation to $500 million in three months](https://techcrunch.com/2022/03/06/captain-fresh-fish-seafood/)
+- [Indian carrier Airtel launches credit card](https://techcrunch.com/2022/03/06/airtel-credit-card/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
