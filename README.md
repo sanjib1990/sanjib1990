@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ghanaian fintech Dash raises $32.8M seed to build connected wallets for Africans](https://techcrunch.com/2022/03/07/ghanaian-fintech-dash-raises-32-8m-seed-to-build-connected-wallets-for-africans/)
+- [Is the AR and VR market only for trillion dollar companies?](https://techcrunch.com/2022/03/07/is-the-ar-and-vr-market-only-for-trillion-dollar-companies/)
+- [Samsung confirms data breach after hackers leak internal source code](https://techcrunch.com/2022/03/07/samsung-breach-source-code/)
+- [Everything we know about The Mandalorian season 3](https://www.space.com/the-mandalorian-season-3-everything-we-know)
 - [Stanford cryptography researchers are building Espresso, a privacy-focused blockchain](https://techcrunch.com/2022/03/07/stanford-crypto-researchers-building-espresso-privacy-scalability-blockchain/)
-- [Environmental, social and governance tracking gets easier with ESGgo](https://techcrunch.com/2022/03/07/esggo-series-a/)
-- [Methuselah: The oldest star in the universe](https://www.space.com/how-can-a-star-be-older-than-the-universe.html)
-- [Circular.io is putting a referral spin on tech recruitment](https://techcrunch.com/2022/03/07/circular-uk-launch/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
