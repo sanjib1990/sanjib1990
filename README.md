@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple TV+ begins rolling out to Comcast’s Xfinity platforms](https://techcrunch.com/2022/03/07/apple-tv-begins-rolling-out-to-comcasts-xfinity-platforms/)
+- [Twitter says it’s trying to fully restore service in Russia](https://techcrunch.com/2022/03/07/twitter-russia-access/)
 - [NASA space telescope uses &#39;nuisance light&#39; to peer at neutron star](https://www.space.com/nustar-nuisance-light-neutron-star)
 - [Google says Chrome on macOS is now faster than Safari](https://techcrunch.com/2022/03/07/google-speeds-up-chrome-on-macos-and-android/)
 - [The James Webb Space Telescope will show us more stars than we&#39;ve ever seen before](https://www.space.com/james-webb-space-telescope-more-stars-than-ever)
-- [Instagram’s Boomerang and Hyperlapse apps disappear from app stores](https://techcrunch.com/2022/03/07/instagrams-boomerang-and-hyperlapse-apps-disappear-from-app-stores/)
-- [Klarna shows that BNPL growth is not cheap](https://techcrunch.com/2022/03/07/klarna-shows-that-bnpl-growth-is-not-cheap/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
