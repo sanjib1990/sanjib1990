@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [So is there a bottom for tech stocks, or what](https://techcrunch.com/2022/03/07/so-is-there-a-bottom-for-tech-stocks-or-what/)
+- [Russian space chief, former NASA astronaut Scott Kelly trade barbs on Twitter](https://www.space.com/rogozin-roscomos-scott-kelly-twitter-russia-invasion-ukraine)
 - [NASA orders 3 more SpaceX Crew Dragon flights to space station](https://www.space.com/nasa-orders-more-spacex-crew-dragon-launches)
 - [Cityblock co-founder discusses why an affordable, human-centered healthcare model works](https://techcrunch.com/2022/03/07/cityblock-co-founder-discusses-why-an-affordable-human-centered-healthcare-model-works/)
 - [Google’s latest Pixel update includes a feature that lets you type responses during calls and more](https://techcrunch.com/2022/03/07/googles-latest-pixel-update-includes-a-feature-that-lets-you-type-responses-during-calls-and-more/)
-- [Google’s Android 12L officially launches, will come to select devices this year](https://techcrunch.com/2022/03/07/googles-android-12l-officially-launches-will-come-to-select-devices-this-year/)
-- [Jupiter&#39;s big moon Ganymede casts giant shadow in stunning Juno photo by citizen scientist](https://www.space.com/jupiter-ganymede-shadow-juno-citizen-scientist-photo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
