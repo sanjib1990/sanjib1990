@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Best sci-fi books of 2022](https://www.space.com/best-sci-fi-books)
-- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html)
+- [Circular.io is putting a referral spin on tech recruitment](https://techcrunch.com/2022/03/07/circular-uk-launch/)
+- [The Station: Tier buys Spin, Waymo gets to charge for robotaxi, and Tesla needs a Tim Cook](https://techcrunch.com/2022/03/07/the-station-tier-buys-spin-waymo-gets-to-charge-for-robotaxi-and-tesla-needs-a-tim-cook/)
+- [Cayena delivers inventory marketplace for food preparation businesses](https://techcrunch.com/2022/03/07/cayena-delivers-inventory-marketplace-for-food-preparation-businesses/)
+- [Uganda’s Rocket Health raises $5M in round led by Creadev to scale telemedicine across Africa](https://techcrunch.com/2022/03/07/ugandas-rocket-health-raises-5m-in-round-led-by-creadev-to-scale-telemedicine-across-africa/)
 - [Robotaxi startup Pony.ai now valued at $8.5B](https://techcrunch.com/2022/03/07/robotaxi-startup-pony-ai-now-valued-at-8-5b/)
-- [Crypto startup Argent wants to put an end to gas fees with Layer 2 wallet](https://techcrunch.com/2022/03/07/crypto-startup-argent-wants-to-put-an-end-to-gas-fees-with-layer-2-wallet/)
-- [Indian carrier Airtel launches credit card](https://techcrunch.com/2022/03/06/airtel-credit-card/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
