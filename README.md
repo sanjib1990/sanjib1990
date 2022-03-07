@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Robotics founders: Build your pitch deck around problem-solving, not technology](https://techcrunch.com/2022/03/07/robotics-founders-build-your-pitch-deck-around-problem-solving-not-technology/)
+- [5 Marvel characters who deserve their own show](https://www.space.com/marvel-characters-who-deserve-their-own-show)
 - [Apple TV+ begins rolling out to Comcast’s Xfinity platforms](https://techcrunch.com/2022/03/07/apple-tv-begins-rolling-out-to-comcasts-xfinity-platforms/)
 - [Twitter says it’s trying to fully restore service in Russia](https://techcrunch.com/2022/03/07/twitter-russia-access/)
 - [NASA space telescope uses &#39;nuisance light&#39; to peer at neutron star](https://www.space.com/nustar-nuisance-light-neutron-star)
-- [Google says Chrome on macOS is now faster than Safari](https://techcrunch.com/2022/03/07/google-speeds-up-chrome-on-macos-and-android/)
-- [The James Webb Space Telescope will show us more stars than we&#39;ve ever seen before](https://www.space.com/james-webb-space-telescope-more-stars-than-ever)
 <!-- BLOG-POST-LIST:END -->
 
 ---
