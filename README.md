@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Robotics founders: Build your pitch deck around problem-solving, not technology](https://techcrunch.com/2022/03/07/robotics-founders-build-your-pitch-deck-around-problem-solving-not-technology/)
-- [5 Marvel characters who deserve their own show](https://www.space.com/marvel-characters-who-deserve-their-own-show)
-- [Apple TV+ begins rolling out to Comcast’s Xfinity platforms](https://techcrunch.com/2022/03/07/apple-tv-begins-rolling-out-to-comcasts-xfinity-platforms/)
-- [Twitter says it’s trying to fully restore service in Russia](https://techcrunch.com/2022/03/07/twitter-russia-access/)
-- [NASA space telescope uses &#39;nuisance light&#39; to peer at neutron star](https://www.space.com/nustar-nuisance-light-neutron-star)
+- [Google’s latest Pixel update includes a feature that lets you type responses during calls and more](https://techcrunch.com/2022/03/07/googles-latest-pixel-update-includes-a-feature-that-lets-you-type-responses-during-calls-and-more/)
+- [Google’s Android 12L officially launches, will come to select devices this year](https://techcrunch.com/2022/03/07/googles-android-12l-officially-launches-will-come-to-select-devices-this-year/)
+- [Jupiter&#39;s big moon Ganymede casts giant shadow in stunning Juno photo by citizen scientist](https://www.space.com/jupiter-ganymede-shadow-juno-citizen-scientist-photo)
+- [Astra traces February launch failure to issues with payload fairing, software](https://www.space.com/astra-february-launch-failure-payload-fairing-software)
+- [Uber boosts Q1 profit guidance as the world gets moving again](https://techcrunch.com/2022/03/07/uber-boosts-q1-profit-guidance-as-the-world-gets-moving-again/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
