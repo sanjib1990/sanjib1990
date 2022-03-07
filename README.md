@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Environmental, social and governance tracking gets easier with ESGgo](https://techcrunch.com/2022/03/07/esggo-series-a/)
+- [Methuselah: The oldest star in the universe](https://www.space.com/how-can-a-star-be-older-than-the-universe.html)
 - [Circular.io is putting a referral spin on tech recruitment](https://techcrunch.com/2022/03/07/circular-uk-launch/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [The Station: Tier buys Spin, Waymo gets to charge for robotaxi, and Tesla needs a Tim Cook](https://techcrunch.com/2022/03/07/the-station-tier-buys-spin-waymo-gets-to-charge-for-robotaxi-and-tesla-needs-a-tim-cook/)
-- [Cayena delivers inventory marketplace for food preparation businesses](https://techcrunch.com/2022/03/07/cayena-delivers-inventory-marketplace-for-food-preparation-businesses/)
-- [Uganda’s Rocket Health raises $5M in round led by Creadev to scale telemedicine across Africa](https://techcrunch.com/2022/03/07/ugandas-rocket-health-raises-5m-in-round-led-by-creadev-to-scale-telemedicine-across-africa/)
-- [Robotaxi startup Pony.ai now valued at $8.5B](https://techcrunch.com/2022/03/07/robotaxi-startup-pony-ai-now-valued-at-8-5b/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
