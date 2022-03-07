@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Unity in 100 Seconds](https://www.youtube.com/watch?v=iqlH4okiQqg)
 - [forcing my wife to learn Linux in 24hrs](https://www.youtube.com/watch?v=1KEN1P7qyLM)
 - [Internet Congestion Collapse - Computerphile](https://www.youtube.com/watch?v=edUN8OabWCQ)
 - [Kali Linux APPS on Windows in 5min &lpar;WSLg&rpar;](https://www.youtube.com/watch?v=27Wn921q_BQ)
 - [This video was made with code. But how?](https://www.youtube.com/watch?v=deg8bOoziaE)
-- [Save the date for the MIT 24-Hour Challenge!](https://www.youtube.com/watch?v=SU4RVM15Hfw)
 <!-- YOUTUBE:END -->
 
 ---
