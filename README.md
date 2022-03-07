@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sequoia Capital India, STV back Dubai-based BNPL provider tabby in $54M extension round](https://techcrunch.com/2022/03/06/sequoia-capital-india-stv-back-dubai-based-bnpl-provider-tabby-in-54m-extension-round/)
 - [India’s Captain Fresh more than doubles valuation to $500 million in three months](https://techcrunch.com/2022/03/06/captain-fresh-fish-seafood/)
 - [Samsung suspends product shipments to Russia](https://techcrunch.com/2022/03/06/samsung-suspends-product-shipments-to-russia/)
 - [Aston Martin to develop battery cell technology with Britishvolt](https://techcrunch.com/2022/03/06/aston-martin-to-develop-battery-cell-technology-with-britishvolt/)
 - [TikTok suspends content in Russia in response to ‘fake news’ law](https://techcrunch.com/2022/03/06/tiktok-suspends-content-in-russia-in-response-to-fake-news-law/)
-- [Tracking the future of crypto controversy](https://techcrunch.com/2022/03/06/the-future-of-the-crypto-web-and-this-newsletter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
