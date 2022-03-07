@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Samsung suspends product shipments to Russia](https://techcrunch.com/2022/03/06/samsung-suspends-product-shipments-to-russia/)
 - [Aston Martin to develop battery cell technology with Britishvolt](https://techcrunch.com/2022/03/06/aston-martin-to-develop-battery-cell-technology-with-britishvolt/)
 - [TikTok suspends content in Russia in response to ‘fake news’ law](https://techcrunch.com/2022/03/06/tiktok-suspends-content-in-russia-in-response-to-fake-news-law/)
 - [Tracking the future of crypto controversy](https://techcrunch.com/2022/03/06/the-future-of-the-crypto-web-and-this-newsletter/)
 - [Fintech Roundup: Banks beginning to view fintechs as frenemies](https://techcrunch.com/2022/03/06/fintech-roundup-banks-and-fintechs-are-increasingly-becoming-friendly-foes/)
-- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
