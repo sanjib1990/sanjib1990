@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [forcing my wife to learn Linux in 24hrs](https://www.youtube.com/watch?v=1KEN1P7qyLM)
 - [Internet Congestion Collapse - Computerphile](https://www.youtube.com/watch?v=edUN8OabWCQ)
 - [Kali Linux APPS on Windows in 5min &lpar;WSLg&rpar;](https://www.youtube.com/watch?v=27Wn921q_BQ)
 - [This video was made with code. But how?](https://www.youtube.com/watch?v=deg8bOoziaE)
 - [Save the date for the MIT 24-Hour Challenge!](https://www.youtube.com/watch?v=SU4RVM15Hfw)
-- [Lecture 7 Demonstration: Object Tracking: 1 Dot Slow | MIT 9.00SC Introduction to Psychology](https://www.youtube.com/watch?v=G6xsNP2TE3A)
 <!-- YOUTUBE:END -->
 
 ---
