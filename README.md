@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Netflix, PayPal, Adobe and others join tech companies suspending business in Russia](https://techcrunch.com/2022/03/07/netflix-paypal-adobe-and-others-join-tech-companies-suspending-business-in-russia/)
+- [5 Star Wars characters who deserve their own show](https://www.space.com/star-wars-characters-who-deserve-their-own-show)
 - [Ghanaian fintech Dash raises $32.8M seed to build connected wallets for Africans](https://techcrunch.com/2022/03/07/ghanaian-fintech-dash-raises-32-8m-seed-to-build-connected-wallets-for-africans/)
 - [Is the AR and VR market only for trillion dollar companies?](https://techcrunch.com/2022/03/07/is-the-ar-and-vr-market-only-for-trillion-dollar-companies/)
-- [Samsung confirms data breach after hackers leak internal source code](https://techcrunch.com/2022/03/07/samsung-breach-source-code/)
-- [Everything we know about The Mandalorian season 3](https://www.space.com/the-mandalorian-season-3-everything-we-know)
-- [Stanford cryptography researchers are building Espresso, a privacy-focused blockchain](https://techcrunch.com/2022/03/07/stanford-crypto-researchers-building-espresso-privacy-scalability-blockchain/)
+- [Too much of a good thing: Early impacts delivered iron to Earth but almost wiped out life](https://www.space.com/early-impacts-earth-nearly-wipe-out-life)
 <!-- BLOG-POST-LIST:END -->
 
 ---
