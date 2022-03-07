@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Stanford cryptography researchers are building Espresso, a privacy-focused blockchain](https://techcrunch.com/2022/03/07/stanford-crypto-researchers-building-espresso-privacy-scalability-blockchain/)
 - [Environmental, social and governance tracking gets easier with ESGgo](https://techcrunch.com/2022/03/07/esggo-series-a/)
 - [Methuselah: The oldest star in the universe](https://www.space.com/how-can-a-star-be-older-than-the-universe.html)
 - [Circular.io is putting a referral spin on tech recruitment](https://techcrunch.com/2022/03/07/circular-uk-launch/)
 - [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [The Station: Tier buys Spin, Waymo gets to charge for robotaxi, and Tesla needs a Tim Cook](https://techcrunch.com/2022/03/07/the-station-tier-buys-spin-waymo-gets-to-charge-for-robotaxi-and-tesla-needs-a-tim-cook/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
