@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cityblock co-founder discusses why an affordable, human-centered healthcare model works](https://techcrunch.com/2022/03/07/cityblock-co-founder-discusses-why-an-affordable-human-centered-healthcare-model-works/)
 - [Google’s latest Pixel update includes a feature that lets you type responses during calls and more](https://techcrunch.com/2022/03/07/googles-latest-pixel-update-includes-a-feature-that-lets-you-type-responses-during-calls-and-more/)
 - [Google’s Android 12L officially launches, will come to select devices this year](https://techcrunch.com/2022/03/07/googles-android-12l-officially-launches-will-come-to-select-devices-this-year/)
 - [Jupiter&#39;s big moon Ganymede casts giant shadow in stunning Juno photo by citizen scientist](https://www.space.com/jupiter-ganymede-shadow-juno-citizen-scientist-photo)
-- [Astra traces February launch failure to issues with payload fairing, software](https://www.space.com/astra-february-launch-failure-payload-fairing-software)
-- [Uber boosts Q1 profit guidance as the world gets moving again](https://techcrunch.com/2022/03/07/uber-boosts-q1-profit-guidance-as-the-world-gets-moving-again/)
+- [Astra rocket launch failure traced to issues with payload fairing, software](https://www.space.com/astra-february-launch-failure-payload-fairing-software)
 <!-- BLOG-POST-LIST:END -->
 
 ---
