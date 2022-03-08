@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Intel’s plan to free Mobileye brings welcome IPO heat check](https://techcrunch.com/2022/03/08/intels-plan-to-free-mobileye-brings-welcome-ipo-heat-check/)
-- [Mozilla rolls out new features for Firefox Focus on Android and Firefox on iOS](https://techcrunch.com/2022/03/08/mozilla-rolls-out-new-features-for-firefox-focus-on-android-and-firefox-on-ios/)
+- [The iPhone SE returns](https://techcrunch.com/2022/03/08/the-iphone-se-returns/)
+- [AngelList Venture takes on rare capital at a $4 billion valuation](https://techcrunch.com/2022/03/08/angellist-series-c/)
+- [Watch Apple unveil new devices live right here](https://techcrunch.com/2022/03/08/apple-iphone-se-ipad-air-keynote-livestream/)
 - [Live from Apple’s Peek Performance event](https://techcrunch.com/2022/03/08/apple-liveblog-march-2022/)
-- [International Women&#39;s Day 2022: China&#39;s 1st woman on space station sends message from orbit](https://www.space.com/chinese-astronaut-international-womens-day-2022-video)
-- [International Women&#39;s Day 2022: Here&#39;s 20 trailblazing women in astronomy and astrophysics](https://www.space.com/trailblazing-women-in-astronomy-astrophysics)
+- [Go to infinity and beyond with new Lightyear toys from Mattel](https://www.space.com/lightyear-mattel-toys-release-2022)
 <!-- BLOG-POST-LIST:END -->
 
 ---
