@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter rolls out a new tool for creators to manage their earnings on the platform](https://techcrunch.com/2022/03/08/twitter-rolls-out-a-new-tool-for-creators-to-manage-their-earnings-on-the-platform/)
+- [Pony.ai to issue recall of autonomous driving software](https://techcrunch.com/2022/03/08/pony-ai-to-issue-recall-of-autonomous-driving-software/)
+- [Polaris Dawn crew to take Ukrainian flag to space this year SpaceX rocket](https://www.space.com/polaris-dawn-spacex-mission-ukrainian-flag)
 - [Instagram warns users who share Russian state media, hides following lists in Russia and Ukraine](https://techcrunch.com/2022/03/08/instagram-russia-ukraine-mutual-follows-stories/)
 - [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [NASA&#39;s Mars rover Perseverance snags 7th Red Planet rock sample](https://www.space.com/mars-rover-perseverance-collects-7th-sample)
-- [Meta’s NPE Team launches a new task app, Move, for group organization and to-dos](https://techcrunch.com/2022/03/08/metas-npe-team-launches-a-new-app-task-for-group-organization-and-to-dos/)
-- [Apple’s brand new 27-inch Studio Display is basically a bodiless iMac](https://techcrunch.com/2022/03/08/apple-studio-display/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
