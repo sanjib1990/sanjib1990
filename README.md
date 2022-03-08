@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple TV+ to stream weekly Major League Baseball games in its first live sports deal](https://techcrunch.com/2022/03/08/apple-tv-to-stream-weekly-major-league-baseball-games-in-its-first-live-sports-deal/)
-- [Spotify and Discord go down, forcing Tuesday upon us](https://techcrunch.com/2022/03/08/spotify-down-discord-down/)
-- [Apple introduces a brand new Mac, the Mac Studio](https://techcrunch.com/2022/03/08/apple-introduces-a-brand-new-mac-the-mac-studio/)
-- [Apple launches the M1 Ultra](https://techcrunch.com/2022/03/08/just-give-me-two-m1-max-chips-apple-launches-the-m2/)
-- [Apple releases iPad Air 5 with M1 processor, positioning it as a laptop replacement](https://techcrunch.com/2022/03/08/apple-ipad-air-5-m1/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [NASA&#39;s Mars rover Perseverance snags 7th Red Planet rock sample](https://www.space.com/mars-rover-perseverance-collects-7th-sample)
+- [Meta’s NPE Team launches a new app, Task, for group organization and to-dos](https://techcrunch.com/2022/03/08/metas-npe-team-launches-a-new-app-task-for-group-organization-and-to-dos/)
+- [Apple’s brand new 27-inch Studio Display is basically a bodiless iMac](https://techcrunch.com/2022/03/08/apple-studio-display/)
+- [Here’s everything Apple announced at today’s ‘Peek Performance’ event](https://techcrunch.com/2022/03/08/apple-peek-performance-event-recap/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
