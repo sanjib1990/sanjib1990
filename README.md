@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [GE’s worm robot sports roach-style whiskers to remove fat deposits from sewage pipes](https://techcrunch.com/2022/03/08/ges-worm-robot-sports-roach-style-whiskers-to-remove-fat-deposits-from-sewage-pipes/)
-- [Cega raises $4.3M seed round at $60M valuation to build exotic DeFi derivatives](https://techcrunch.com/2022/03/08/cega-raises-4-3m-seed-round-at-60m-valuation-to-build-exotic-defi-derivatives/)
-- [QuantWare will build you a custom 25-qubit quantum processor in 30 days](https://techcrunch.com/2022/03/08/quantware-will-build-you-a-custom-25-qubit-quantum-processor-in-30-days/)
-- [Rocket Lab will build Neutron, a next-generation reusable booster, in Virginia](https://www.space.com/rocket-lab-building-neutron-launch-vehicle-virginia)
-- [Pioneering women in space: A gallery of astronaut firsts](https://www.space.com/16143-women-space-firsts-gallery.html)
+- [Intel’s plan to free Mobileye brings welcome IPO heat check](https://techcrunch.com/2022/03/08/intels-plan-to-free-mobileye-brings-welcome-ipo-heat-check/)
+- [Mozilla rolls out new features for Firefox Focus on Android and Firefox on iOS](https://techcrunch.com/2022/03/08/mozilla-rolls-out-new-features-for-firefox-focus-on-android-and-firefox-on-ios/)
+- [Live from Apple’s Peek Performance event](https://techcrunch.com/2022/03/08/apple-liveblog-march-2022/)
+- [International Women&#39;s Day 2022: China&#39;s 1st woman on space station sends message from orbit](https://www.space.com/chinese-astronaut-international-womens-day-2022-video)
+- [International Women&#39;s Day 2022: Here&#39;s 20 trailblazing women in astronomy and astrophysics](https://www.space.com/trailblazing-women-in-astronomy-astrophysics)
 <!-- BLOG-POST-LIST:END -->
 
 ---
