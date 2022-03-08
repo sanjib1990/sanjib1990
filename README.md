@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Twitter rolls out a new tool for creators to manage their earnings on the platform](https://techcrunch.com/2022/03/08/twitter-rolls-out-a-new-tool-for-creators-to-manage-their-earnings-on-the-platform/)
-- [Pony.ai to issue recall of autonomous driving software](https://techcrunch.com/2022/03/08/pony-ai-to-issue-recall-of-autonomous-driving-software/)
-- [Polaris Dawn crew to take Ukrainian flag to space this year SpaceX rocket](https://www.space.com/polaris-dawn-spacex-mission-ukrainian-flag)
-- [Instagram warns users who share Russian state media, hides following lists in Russia and Ukraine](https://techcrunch.com/2022/03/08/instagram-russia-ukraine-mutual-follows-stories/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [TechCrunch+ roundup: Box unfolds a surprise, robotics pitch tips, BNPL growing pains](https://techcrunch.com/2022/03/08/techcrunch-roundup-box-unfolds-a-surprise-robotics-pitch-tips-bnpl-growing-pains/)
+- [Even an expensive new Mac couldn’t save Apple’s stock today](https://techcrunch.com/2022/03/08/even-an-expensive-new-mac-couldnt-save-apples-stock-today/)
+- [Daily Crunch: Discord and Spotify resuming service after widespread outage](https://techcrunch.com/2022/03/08/daily-crunch-discord-and-spotify-resuming-service-after-widespread-outage/)
+- [Tour Orion the Hunter as we visit a constellation icon](https://www.space.com/orion-constellation-tour-winter-2022)
+- [Best camera phone 2022: Smartphones with stargazing capabilities](https://www.space.com/best-camera-phone-astrophotography)
 <!-- BLOG-POST-LIST:END -->
 
 ---
