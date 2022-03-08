@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [So is there a bottom for tech stocks, or what](https://techcrunch.com/2022/03/07/so-is-there-a-bottom-for-tech-stocks-or-what/)
-- [Russian space chief, former NASA astronaut Scott Kelly trade barbs on Twitter](https://www.space.com/rogozin-roscomos-scott-kelly-twitter-russia-invasion-ukraine)
-- [NASA orders 3 more SpaceX Crew Dragon flights to space station](https://www.space.com/nasa-orders-more-spacex-crew-dragon-launches)
-- [Cityblock co-founder discusses why an affordable, human-centered healthcare model works](https://techcrunch.com/2022/03/07/cityblock-co-founder-discusses-why-an-affordable-human-centered-healthcare-model-works/)
-- [Google’s latest Pixel update includes a feature that lets you type responses during calls and more](https://techcrunch.com/2022/03/07/googles-latest-pixel-update-includes-a-feature-that-lets-you-type-responses-during-calls-and-more/)
+- [Zoox acqui-hires team from robotic strawberry-picking startup, Strio.AI](https://techcrunch.com/2022/03/07/zoox-acqui-hires-team-from-robotic-strawberry-picking-startup-strio-ai/)
+- [Apple suspends Search Ads on the Russian App Store ‘until further notice’](https://techcrunch.com/2022/03/07/apple-suspends-search-ads-on-the-russian-app-store-until-further-notice/)
+- [UK’s ThirdFort nabs $20M for tools to help with ID verification, and detect money laundering and payment fraud](https://techcrunch.com/2022/03/07/uks-thirdfort-nabs-20m-for-tools-to-help-with-id-verification-and-detect-money-laundering-and-payment-fraud/)
+- [Hear how Blumberg Capital and DoubleVerify have worked together since 2008 on TechCrunch Live](https://techcrunch.com/2022/03/07/hear-how-blumberg-capital-and-doubleverify-have-worked-together-since-2008-on-techcrunch-live/)
+- [Better.com plans to lay off about 4,000 people this week, sources say](https://techcrunch.com/2022/03/07/better-com-plans-to-lay-off-about-4000-people-this-week-sources-say/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
