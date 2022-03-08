@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Opaper takes the friction out of social commerce](https://techcrunch.com/2022/03/07/opaper-takes-the-friction-out-of-social-commerce/)
 - [Zoox acqui-hires team from robotic strawberry-picking startup, Strio.AI](https://techcrunch.com/2022/03/07/zoox-acqui-hires-team-from-robotic-strawberry-picking-startup-strio-ai/)
 - [Apple suspends Search Ads on the Russian App Store ‘until further notice’](https://techcrunch.com/2022/03/07/apple-suspends-search-ads-on-the-russian-app-store-until-further-notice/)
 - [UK’s ThirdFort nabs $20M for tools to help with ID verification, and detect money laundering and payment fraud](https://techcrunch.com/2022/03/07/uks-thirdfort-nabs-20m-for-tools-to-help-with-id-verification-and-detect-money-laundering-and-payment-fraud/)
 - [Hear how Blumberg Capital and DoubleVerify have worked together since 2008 on TechCrunch Live](https://techcrunch.com/2022/03/07/hear-how-blumberg-capital-and-doubleverify-have-worked-together-since-2008-on-techcrunch-live/)
-- [Better.com plans to lay off about 4,000 people this week, sources say](https://techcrunch.com/2022/03/07/better-com-plans-to-lay-off-about-4000-people-this-week-sources-say/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
