@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Meet your co-founder or find your next gig at TC Sessions: Mobility 2022](https://techcrunch.com/2022/03/08/meet-your-co-founder-or-find-your-next-gig-at-tc-sessions-mobility-2022/)
-- [China-backed APT41 compromised ‘at least’ six US state governments](https://techcrunch.com/2022/03/08/apt41-state-governments/)
-- [Forma raises new funding to make employee benefits more flexible](https://techcrunch.com/2022/03/08/forma-raises-new-funding-to-make-employee-benefits-more-flexible/)
-- [Nvidia invests $10M in sidewalk robot delivery company Serve Robotics](https://techcrunch.com/2022/03/08/nvidia-invests-10m-in-sidewalk-robot-delivery-company-serve-robotics/)
-- [Ex-Better.com CFO raises $10.8M to build Glean AI, or ‘accounts payable with a brain’](https://techcrunch.com/2022/03/08/ex-better-com-cfo-raises-10-8m-to-build-glean-ai-or-accounts-payable-with-a-brain/)
+- [GE’s worm robot sports roach-style whiskers to remove fat deposits from sewage pipes](https://techcrunch.com/2022/03/08/ges-worm-robot-sports-roach-style-whiskers-to-remove-fat-deposits-from-sewage-pipes/)
+- [Cega raises $4.3M seed round at $60M valuation to build exotic DeFi derivatives](https://techcrunch.com/2022/03/08/cega-raises-4-3m-seed-round-at-60m-valuation-to-build-exotic-defi-derivatives/)
+- [QuantWare will build you a custom 25-qubit quantum processor in 30 days](https://techcrunch.com/2022/03/08/quantware-will-build-you-a-custom-25-qubit-quantum-processor-in-30-days/)
+- [Rocket Lab will build Neutron, a next-generation reusable booster, in Virginia](https://www.space.com/rocket-lab-building-neutron-launch-vehicle-virginia)
+- [Pioneering women in space: A gallery of astronaut firsts](https://www.space.com/16143-women-space-firsts-gallery.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
