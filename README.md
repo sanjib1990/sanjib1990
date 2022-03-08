@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The iPhone SE returns](https://techcrunch.com/2022/03/08/the-iphone-se-returns/)
-- [AngelList Venture takes on rare capital at a $4 billion valuation](https://techcrunch.com/2022/03/08/angellist-series-c/)
-- [Watch Apple unveil new devices live right here](https://techcrunch.com/2022/03/08/apple-iphone-se-ipad-air-keynote-livestream/)
-- [Live from Apple’s Peek Performance event](https://techcrunch.com/2022/03/08/apple-liveblog-march-2022/)
-- [Go to infinity and beyond with new Lightyear toys from Mattel](https://www.space.com/lightyear-mattel-toys-release-2022)
+- [Apple TV+ to stream weekly Major League Baseball games in its first live sports deal](https://techcrunch.com/2022/03/08/apple-tv-to-stream-weekly-major-league-baseball-games-in-its-first-live-sports-deal/)
+- [Spotify and Discord go down, forcing Tuesday upon us](https://techcrunch.com/2022/03/08/spotify-down-discord-down/)
+- [Apple introduces a brand new Mac, the Mac Studio](https://techcrunch.com/2022/03/08/apple-introduces-a-brand-new-mac-the-mac-studio/)
+- [Apple launches the M1 Ultra](https://techcrunch.com/2022/03/08/just-give-me-two-m1-max-chips-apple-launches-the-m2/)
+- [Apple releases iPad Air 5 with M1 processor, positioning it as a laptop replacement](https://techcrunch.com/2022/03/08/apple-ipad-air-5-m1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
