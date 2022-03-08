@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Zapt is now Trela; aims to remove the middleman from group food shopping](https://techcrunch.com/2022/03/08/zapt-trela-food-shopping/)
+- [Alternatives to the Big Bang Theory &lpar;infographic&rpar;](https://www.space.com/24781-big-bang-theory-alternatives-infographic.html)
 - [Watch Apple unveil new devices live right here](https://techcrunch.com/2022/03/08/apple-iphone-se-ipad-air-keynote-livestream/)
 - [Russia&#39;s Ukraine invasion and space impacts: Live updates](https://www.space.com/news/live/russia-ukraine-invasion-space-impacts-updates)
 - [Una Brands teams up with KlickBrands to enter South Korea’s e-commerce market](https://techcrunch.com/2022/03/07/una-brands-teams-up-with-klickbrands-to-enter-south-koreas-e-commerce-market/)
-- [Opaper takes the friction out of social commerce](https://techcrunch.com/2022/03/07/opaper-takes-the-friction-out-of-social-commerce/)
-- [Zoox acqui-hires team from robotic strawberry-picking startup, Strio.AI](https://techcrunch.com/2022/03/07/zoox-acqui-hires-team-from-robotic-strawberry-picking-startup-strio-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
