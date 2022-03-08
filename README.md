@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fundrise invests $128M into expansion of Saltbox’s warehouse, co-working spaces for entrepreneurs](https://techcrunch.com/2022/03/08/saltbox-warehouse-co-working-entrepreneurs/)
+- [Amazon launches a ‘live radio’ app, Amp, which lets you play DJ with the Amazon Music catalog](https://techcrunch.com/2022/03/08/amazon-launches-a-live-radio-app-amp-which-lets-you-play-dj-with-the-amazon-music-catalog/)
+- [Erase All Kittens, an online game that teaches girls to code, signs distribution deal with Tesco](https://techcrunch.com/2022/03/08/erase-all-kittens-an-online-game-that-teaches-girls-to-code-signs-distribution-deal-with-tesco/)
+- [On This Day in Space! March 8, 1979: Volcanoes spotted on Jupiter&#39;s moon Io](https://www.space.com/39251-on-this-day-in-space.html)
 - [This long-lost asteroid impact was so big its debris left more than 30 craters](https://www.space.com/asteroid-impact-secondary-crater-field-wyoming)
-- [Zapt is now Trela; aims to remove the middleman from group food shopping](https://techcrunch.com/2022/03/08/zapt-trela-food-shopping/)
-- [Astronomers spot tantalizing large molecule near star with &#39;comet factory&#39;](https://www.space.com/astronomers-largest-molecule-comet-factory)
-- [It seemed like the most dangerous asteroid in a decade, but it definitely won&#39;t hit Earth](https://www.space.com/most-dangerous-asteroid-in-decade-miss-earth)
-- [Alternatives to the Big Bang Theory &lpar;infographic&rpar;](https://www.space.com/24781-big-bang-theory-alternatives-infographic.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
