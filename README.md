@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Instagram warns users who share Russian state media, hides following lists in Russia and Ukraine](https://techcrunch.com/2022/03/08/instagram-russia-ukraine-mutual-follows-stories/)
 - [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [NASA&#39;s Mars rover Perseverance snags 7th Red Planet rock sample](https://www.space.com/mars-rover-perseverance-collects-7th-sample)
-- [Meta’s NPE Team launches a new app, Task, for group organization and to-dos](https://techcrunch.com/2022/03/08/metas-npe-team-launches-a-new-app-task-for-group-organization-and-to-dos/)
+- [Meta’s NPE Team launches a new task app, Move, for group organization and to-dos](https://techcrunch.com/2022/03/08/metas-npe-team-launches-a-new-app-task-for-group-organization-and-to-dos/)
 - [Apple’s brand new 27-inch Studio Display is basically a bodiless iMac](https://techcrunch.com/2022/03/08/apple-studio-display/)
-- [Here’s everything Apple announced at today’s ‘Peek Performance’ event](https://techcrunch.com/2022/03/08/apple-peek-performance-event-recap/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
