@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The co-founder of Brazil’s first unicorn bags $6M for new grocery startup](https://techcrunch.com/2022/03/09/mara-raises-6m/)
+- [Menlo Micro switches on an opportunity for its tech to be in every device you touch](https://techcrunch.com/2022/03/09/menlo-micro-series-c/)
+- [The sun readies for its close-up as Europe&#39;s Solar Orbiter approaches](https://www.space.com/solar-orbiter-scorching-close-approach)
 - [Ardoq, the enterprise architecture startup, raises $125M to help organizations make sense of their networks](https://techcrunch.com/2022/03/09/ardoq-125m-enterprise-architecture/)
 - [OkHi gets $1.5M seed extension to scale its smart address verification service across Africa](https://techcrunch.com/2022/03/09/okhi-gets-1-5m-seed-extension-to-scale-its-smart-address-verification-service-across-africa/)
-- [Workbounce’s ‘Google meets Slack’ product for sales teams raises $2.7M from Index Ventures](https://techcrunch.com/2022/03/09/workbounces-google-meets-slack-product-for-sales-teams-raises-2-7m-from-index-ventures/)
-- [Atlantic Money wants to challenge Wise with even cheaper international money transfers](https://techcrunch.com/2022/03/09/atlantic-money-wants-to-challenge-wise-with-even-cheaper-international-money-transfers/)
-- [For China bulls like Jim Breyer, Russia ties present “geopolitical challenges and questions”](https://techcrunch.com/2022/03/08/for-china-bulls-like-jim-breyer-russia-ties-present-geopolitical-challenges-and-questions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
