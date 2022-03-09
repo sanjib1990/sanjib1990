@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The co-founder of Brazil’s first unicorn bags $6M for new grocery startup](https://techcrunch.com/2022/03/09/mara-raises-6m/)
-- [Menlo Micro switches on an opportunity for its tech to be in every device you touch](https://techcrunch.com/2022/03/09/menlo-micro-series-c/)
-- [The sun readies for its close-up as Europe&#39;s Solar Orbiter approaches](https://www.space.com/solar-orbiter-scorching-close-approach)
-- [Ardoq, the enterprise architecture startup, raises $125M to help organizations make sense of their networks](https://techcrunch.com/2022/03/09/ardoq-125m-enterprise-architecture/)
-- [OkHi gets $1.5M seed extension to scale its smart address verification service across Africa](https://techcrunch.com/2022/03/09/okhi-gets-1-5m-seed-extension-to-scale-its-smart-address-verification-service-across-africa/)
+- [UK expands Online Safety Bill to cover scam ads and eyes wider reforms](https://techcrunch.com/2022/03/09/online-safety-bill-scam-ads/)
+- [Silq spins its technology into visibility for apparel manufacturing](https://techcrunch.com/2022/03/09/silq-spins-its-technology-into-visibility-for-apparel-manufacturing/)
+- [SpaceX will launch 48 Starlink satellites, land rocket today and you can watch it live](https://www.space.com/spacex-launch-48-starlink-satellites-march-2022)
+- [Nigerian digital bank Yep! raises $1.5M pre-seed for its ‘financial super app’ play](https://techcrunch.com/2022/03/09/nigerian-digital-bank-yep-raises-1-5m-pre-seed-for-its-financial-super-app-play/)
+- [Sneaker e-commerce platform Kicks Crew raises $6M Series A](https://techcrunch.com/2022/03/09/kicks-crew-a-sneaker-e-commerce-platform-raises-6m-series-a/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
