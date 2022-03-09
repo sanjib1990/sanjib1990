@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How SpaceX got Starlink up and running in Ukraine: report](https://www.space.com/how-spacex-got-starlink-running-ukraine)
-- [Apply Now! Austin founders pitch at TechCrunch Live](https://techcrunch.com/2022/03/09/austin-pitchoff-founders-startup-investors/)
-- [Best time to buy binoculars and save](https://www.space.com/best-time-to-buy-binoculars)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [Amazon suspends access to Prime Video in Russia, halts shipments to the country](https://techcrunch.com/2022/03/09/amazon-suspends-access-to-prime-video-in-russia/)
+- [&#39;Star Trek: Picard&#39; season 2 explodes onto our screens with a phenomenal first episode](https://www.space.com/star-trek-picard-season-2-episode-1-review)
+- [Colossal grabs $60 million Series A for moonshot mammoth project](https://techcrunch.com/2022/03/09/colossal-grabs-60-million-series-a-for-moonshot-mammoth-project/)
+- [White House issues its Executive Order on cryptocurrencies](https://techcrunch.com/2022/03/09/biden-white-house-issues-executive-order-on-cryptocurrencies/)
+- [Hire a writer and a lawyer before writing a cryptocurrency white paper](https://techcrunch.com/2022/03/09/hire-a-writer-and-a-lawyer-before-writing-a-cryptocurrency-white-paper/)
+- [Huge asteroid slammed into Greenland just a few million years after the dinosaurs died out](https://www.space.com/greenland-impact-crater-hiawatha-age)
 <!-- BLOG-POST-LIST:END -->
 
 ---
