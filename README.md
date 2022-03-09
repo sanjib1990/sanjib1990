@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Money for Nothing and chips from a Series B](https://techcrunch.com/2022/03/09/money-for-nothing-and-chips-from-a-series-b/)
-- [Kodiak Robotics is moving autonomous freight for Ceva Logistics](https://techcrunch.com/2022/03/09/kodiak-robotics-is-moving-autonomous-freight-for-ceva-logistics/)
-- [CircleCI acquires Ponicode](https://techcrunch.com/2022/03/09/circleci-acquires-ponicode/)
-- [Acorns squirrels away $300M Series F after scrapping SPAC, now worth nearly $2B](https://techcrunch.com/2022/03/09/acorns-squirrels-away-300m/)
-- [MacBook Pro 16-inch &lpar;2021&rpar; review](https://www.space.com/macbook-pro-16-inch-review-2021)
+- [Italy fines Clearview AI €20M and orders data deleted](https://techcrunch.com/2022/03/09/clearview-italy-gdpr/)
+- [S3 Ventures, Tacora close on new funds to boost Austin startups](https://techcrunch.com/2022/03/09/s3-ventures-tacora-austin-startups/)
+- [Jeffrey Katzenberg, WndrCo flex funding muscles with string of new deals](https://techcrunch.com/2022/03/09/jeffrey-katzenberg-wndrco/)
+- [Tinder rolls out in-app access to background checks, powered by nonprofit Garbo](https://techcrunch.com/2022/03/09/tinder-rolls-out-in-app-access-to-background-checks-powered-by-nonprofit-garbo/)
+- [Public buys Otis, bringing fractional ownership of alternative assets to its platform](https://techcrunch.com/2022/03/09/public-buys-otis-bringing-fractional-ownership-of-alternative-assets-to-its-platform/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
