@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How SpaceX got Starlink up and running in Ukraine: report](https://www.space.com/how-spacex-got-starlink-running-ukraine)
+- [Apply Now! Austin founders pitch at TechCrunch Live](https://techcrunch.com/2022/03/09/austin-pitchoff-founders-startup-investors/)
 - [Best time to buy binoculars and save](https://www.space.com/best-time-to-buy-binoculars)
 - [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [Amazon suspends access to Prime Video in Russia, halts shipments to the country](https://techcrunch.com/2022/03/09/amazon-suspends-access-to-prime-video-in-russia/)
-- [VW’s futuristic electric bus is real and coming soon &lpar;finally&rpar;](https://techcrunch.com/2022/03/09/volkswagen-futuristic-electric-bus-release-date-in-2024/)
-- [NASA would get $24 billion in new omnibus spending bill](https://www.space.com/nasa-24-billion-2022-omnibus-spending-bill)
 <!-- BLOG-POST-LIST:END -->
 
 ---
