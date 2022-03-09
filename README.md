@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [UK expands Online Safety Bill to cover scam ads and eyes wider reforms](https://techcrunch.com/2022/03/09/online-safety-bill-scam-ads/)
-- [Silq spins its technology into visibility for apparel manufacturing](https://techcrunch.com/2022/03/09/silq-spins-its-technology-into-visibility-for-apparel-manufacturing/)
-- [SpaceX will launch 48 Starlink satellites, land rocket today and you can watch it live](https://www.space.com/spacex-launch-48-starlink-satellites-march-2022)
-- [Nigerian digital bank Yep! raises $1.5M pre-seed for its ‘financial super app’ play](https://techcrunch.com/2022/03/09/nigerian-digital-bank-yep-raises-1-5m-pre-seed-for-its-financial-super-app-play/)
-- [Sneaker e-commerce platform Kicks Crew raises $6M Series A](https://techcrunch.com/2022/03/09/kicks-crew-a-sneaker-e-commerce-platform-raises-6m-series-a/)
+- [Money for Nothing and chips from a Series B](https://techcrunch.com/2022/03/09/money-for-nothing-and-chips-from-a-series-b/)
+- [Kodiak Robotics is moving autonomous freight for Ceva Logistics](https://techcrunch.com/2022/03/09/kodiak-robotics-is-moving-autonomous-freight-for-ceva-logistics/)
+- [CircleCI acquires Ponicode](https://techcrunch.com/2022/03/09/circleci-acquires-ponicode/)
+- [Acorns squirrels away $300M Series F after scrapping SPAC, now worth nearly $2B](https://techcrunch.com/2022/03/09/acorns-squirrels-away-300m/)
+- [MacBook Pro 16-inch &lpar;2021&rpar; review](https://www.space.com/macbook-pro-16-inch-review-2021)
 <!-- BLOG-POST-LIST:END -->
 
 ---
