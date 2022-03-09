@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Italy fines Clearview AI €20M and orders data deleted](https://techcrunch.com/2022/03/09/clearview-italy-gdpr/)
-- [S3 Ventures, Tacora close on new funds to boost Austin startups](https://techcrunch.com/2022/03/09/s3-ventures-tacora-austin-startups/)
-- [Jeffrey Katzenberg, WndrCo flex funding muscles with string of new deals](https://techcrunch.com/2022/03/09/jeffrey-katzenberg-wndrco/)
-- [Tinder rolls out in-app access to background checks, powered by nonprofit Garbo](https://techcrunch.com/2022/03/09/tinder-rolls-out-in-app-access-to-background-checks-powered-by-nonprofit-garbo/)
-- [Public buys Otis, bringing fractional ownership of alternative assets to its platform](https://techcrunch.com/2022/03/09/public-buys-otis-bringing-fractional-ownership-of-alternative-assets-to-its-platform/)
+- [Blink looks to simplify cloud operations management with $26M investment](https://techcrunch.com/2022/03/09/blink-looks-to-simplify-cloud-operations-management-with-26m-investment/)
+- [You can’t buy a community, so make it worth it](https://techcrunch.com/2022/03/09/you-cant-buy-a-community-so-make-it-worth-it/)
+- [An Earthlike planet may be orbiting in a dead star&#39;s &#39;habitable zone&#39;](https://www.space.com/possible-planet-habitable-zone-white-dwarf)
+- [Guide wants to make being a job candidate less terrible](https://techcrunch.com/2022/03/09/guide-wants-to-make-being-a-job-candidate-less-terrible/)
+- [Meteor streaks through Jupiter&#39;s atmosphere as NASA spacecraft watches](https://www.space.com/jupiter-meteor-spotted-by-juno-spacecraft)
 <!-- BLOG-POST-LIST:END -->
 
 ---
