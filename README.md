@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why isn’t the Studio Display also an Apple TV?](https://techcrunch.com/2022/03/09/why-isnt-the-studio-display-also-an-apple-tv/)
+- [Former NASA astronaut Scott Kelly giving back Russian spaceflight medal](https://www.space.com/nasa-astronaut-scott-kelly-returning-russian-medal)
 - [&#39;Star Trek: Picard&#39; season 2 explodes onto our screens with a phenomenal first episode](https://www.space.com/star-trek-picard-season-2-episode-1-review)
 - [Colossal grabs $60 million Series A for moonshot mammoth project](https://techcrunch.com/2022/03/09/colossal-grabs-60-million-series-a-for-moonshot-mammoth-project/)
-- [White House issues its Executive Order on cryptocurrencies](https://techcrunch.com/2022/03/09/biden-white-house-issues-executive-order-on-cryptocurrencies/)
-- [Hire a writer and a lawyer before writing a cryptocurrency white paper](https://techcrunch.com/2022/03/09/hire-a-writer-and-a-lawyer-before-writing-a-cryptocurrency-white-paper/)
-- [Huge asteroid slammed into Greenland just a few million years after the dinosaurs died out](https://www.space.com/greenland-impact-crater-hiawatha-age)
+- [White House issues its executive order on cryptocurrencies](https://techcrunch.com/2022/03/09/biden-white-house-issues-executive-order-on-cryptocurrencies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
