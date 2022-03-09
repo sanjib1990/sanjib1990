@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pristine asteroid Ryugu contains amino acids that are building blocks of life](https://www.space.com/asteroid-ryugu-samples-analysis-hyabusa2)
 - [Blink looks to simplify cloud operations management with $26M investment](https://techcrunch.com/2022/03/09/blink-looks-to-simplify-cloud-operations-management-with-26m-investment/)
 - [You can’t buy a community, so make it worth it](https://techcrunch.com/2022/03/09/you-cant-buy-a-community-so-make-it-worth-it/)
 - [An Earthlike planet may be orbiting in a dead star&#39;s &#39;habitable zone&#39;](https://www.space.com/possible-planet-habitable-zone-white-dwarf)
 - [Guide wants to make being a job candidate less terrible](https://techcrunch.com/2022/03/09/guide-wants-to-make-being-a-job-candidate-less-terrible/)
-- [Meteor streaks through Jupiter&#39;s atmosphere as NASA spacecraft watches](https://www.space.com/jupiter-meteor-spotted-by-juno-spacecraft)
 <!-- BLOG-POST-LIST:END -->
 
 ---
