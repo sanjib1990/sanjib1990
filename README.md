@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Dear Sophie: How long does it take to get International Entrepreneur Parole?](https://techcrunch.com/2022/03/09/dear-sophie-how-long-does-it-take-to-get-international-entrepreneur-parole/)
-- [Facebook rolls out new tools for Group admins to manage their communities and reduce misinformation](https://techcrunch.com/2022/03/09/facebook-rolls-out-new-tools-for-group-admins-to-manage-their-communities-and-reduce-misinformation/)
-- [Selling to developers is no longer a sure path to insane valuation multiples](https://techcrunch.com/2022/03/09/selling-to-developers-is-no-longer-a-sure-path-to-insane-valuation-multiples/)
-- [Twitter expands e-commerce efforts with launch of mobile storefronts, Twitter Shops](https://techcrunch.com/2022/03/09/twitter-expands-its-e-commerce-efforts-with-launch-of-twitter-shops/)
-- [Strong Compute wants to speed up your ML model training](https://techcrunch.com/2022/03/09/strong-compute-wants-speed-up-your-ml-model-training/)
+- [Best time to buy binoculars and save](https://www.space.com/best-time-to-buy-binoculars)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [Amazon suspends access to Prime Video in Russia, halts shipments to the country](https://techcrunch.com/2022/03/09/amazon-suspends-access-to-prime-video-in-russia/)
+- [VW’s futuristic electric bus is real and coming soon &lpar;finally&rpar;](https://techcrunch.com/2022/03/09/volkswagen-futuristic-electric-bus-release-date-in-2024/)
+- [NASA would get $24 billion in new omnibus spending bill](https://www.space.com/nasa-24-billion-2022-omnibus-spending-bill)
 <!-- BLOG-POST-LIST:END -->
 
 ---
