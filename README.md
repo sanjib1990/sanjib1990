@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Indian food delivery giant Swiggy eyes $1 billion IPO](https://techcrunch.com/2022/03/08/swiggy-ipo/)
 - [SpaceX to launch 48 Starlink satellites, land rocket Wednesday morning: Watch live](https://www.space.com/spacex-launch-48-starlink-satellites-march-2022)
 - [Russia&#39;s Ukraine invasion and space impacts: Live updates](https://www.space.com/news/live/russia-ukraine-invasion-space-impacts-updates)
 - [TechCrunch+ roundup: Box unfolds a surprise, robotics pitch tips, BNPL growing pains](https://techcrunch.com/2022/03/08/techcrunch-roundup-box-unfolds-a-surprise-robotics-pitch-tips-bnpl-growing-pains/)
 - [Even an expensive new Mac couldn’t save Apple’s stock today](https://techcrunch.com/2022/03/08/even-an-expensive-new-mac-couldnt-save-apples-stock-today/)
-- [Daily Crunch: Discord and Spotify resuming service after widespread outage](https://techcrunch.com/2022/03/08/daily-crunch-discord-and-spotify-resuming-service-after-widespread-outage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
