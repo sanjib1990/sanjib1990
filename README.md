@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Why isn’t the Studio Display also an Apple TV?](https://techcrunch.com/2022/03/09/why-isnt-the-studio-display-also-an-apple-tv/)
-- [Former NASA astronaut Scott Kelly giving back Russian spaceflight medal](https://www.space.com/nasa-astronaut-scott-kelly-returning-russian-medal)
-- [&#39;Star Trek: Picard&#39; season 2 explodes onto our screens with a phenomenal first episode](https://www.space.com/star-trek-picard-season-2-episode-1-review)
-- [Colossal grabs $60 million Series A for moonshot mammoth project](https://techcrunch.com/2022/03/09/colossal-grabs-60-million-series-a-for-moonshot-mammoth-project/)
-- [White House issues its executive order on cryptocurrencies](https://techcrunch.com/2022/03/09/biden-white-house-issues-executive-order-on-cryptocurrencies/)
+- [Axiom Space Ax-1 mission: The first all-private crew to the International Space Station](https://www.space.com/ax-1-axiom-space-station-mission)
+- [SpaceX launches 48 more Starlink satellites on an “American broomstick”](https://techcrunch.com/2022/03/09/spacex-launches-48-more-starlink-satellites-on-an-american-broomstick/)
+- [Russia&#39;s Ukraine invasion and space impacts: Live updates](https://www.space.com/news/live/russia-ukraine-invasion-space-impacts-updates)
+- [The PlayStation version of Roblox is materializing](https://techcrunch.com/2022/03/09/roblox-for-ps4-ps5-playstation/)
+- [UK announces ban on space-related exports to Russia](https://www.space.com/uk-bans-space-exports-russia-ukraine-invasion)
 <!-- BLOG-POST-LIST:END -->
 
 ---
