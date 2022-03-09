@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Pristine asteroid Ryugu contains amino acids that are building blocks of life](https://www.space.com/asteroid-ryugu-samples-analysis-hyabusa2)
-- [Blink looks to simplify cloud operations management with $26M investment](https://techcrunch.com/2022/03/09/blink-looks-to-simplify-cloud-operations-management-with-26m-investment/)
-- [You can’t buy a community, so make it worth it](https://techcrunch.com/2022/03/09/you-cant-buy-a-community-so-make-it-worth-it/)
-- [An Earthlike planet may be orbiting in a dead star&#39;s &#39;habitable zone&#39;](https://www.space.com/possible-planet-habitable-zone-white-dwarf)
-- [Guide wants to make being a job candidate less terrible](https://techcrunch.com/2022/03/09/guide-wants-to-make-being-a-job-candidate-less-terrible/)
+- [Facebook rolls out new tools for Group admins to manage their communities and reduce misinformation](https://techcrunch.com/2022/03/09/facebook-rolls-out-new-tools-for-group-admins-to-manage-their-communities-and-reduce-misinformation/)
+- [Selling to developers is no longer a sure path to insane valuation multiples](https://techcrunch.com/2022/03/09/selling-to-developers-is-no-longer-a-sure-path-to-insane-valuation-multiples/)
+- [Twitter expands e-commerce efforts with launch of mobile storefronts, Twitter Shops](https://techcrunch.com/2022/03/09/twitter-expands-its-e-commerce-efforts-with-launch-of-twitter-shops/)
+- [Strong Compute wants speed up your ML model training](https://techcrunch.com/2022/03/09/strong-compute-wants-speed-up-your-ml-model-training/)
+- [Felicis Ventures’ Aydin Senkut and GP Viviana Faga take you from wedge to TAM at TC Early Stage](https://techcrunch.com/2022/03/09/felicis-ventures-aydin-senkut-and-gp-viviana-faga-take-you-from-wedge-to-tam-at-tc-early-stage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
