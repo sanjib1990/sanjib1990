@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dear Sophie: How long does it take to get International Entrepreneur Parole?](https://techcrunch.com/2022/03/09/dear-sophie-how-long-does-it-take-to-get-international-entrepreneur-parole/)
 - [Facebook rolls out new tools for Group admins to manage their communities and reduce misinformation](https://techcrunch.com/2022/03/09/facebook-rolls-out-new-tools-for-group-admins-to-manage-their-communities-and-reduce-misinformation/)
 - [Selling to developers is no longer a sure path to insane valuation multiples](https://techcrunch.com/2022/03/09/selling-to-developers-is-no-longer-a-sure-path-to-insane-valuation-multiples/)
 - [Twitter expands e-commerce efforts with launch of mobile storefronts, Twitter Shops](https://techcrunch.com/2022/03/09/twitter-expands-its-e-commerce-efforts-with-launch-of-twitter-shops/)
-- [Strong Compute wants speed up your ML model training](https://techcrunch.com/2022/03/09/strong-compute-wants-speed-up-your-ml-model-training/)
-- [Felicis Ventures’ Aydin Senkut and GP Viviana Faga take you from wedge to TAM at TC Early Stage](https://techcrunch.com/2022/03/09/felicis-ventures-aydin-senkut-and-gp-viviana-faga-take-you-from-wedge-to-tam-at-tc-early-stage/)
+- [Strong Compute wants to speed up your ML model training](https://techcrunch.com/2022/03/09/strong-compute-wants-speed-up-your-ml-model-training/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
