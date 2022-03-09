@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ardoq, the enterprise architecture startup, raises $125M to help organizations make sense of their networks](https://techcrunch.com/2022/03/09/ardoq-125m-enterprise-architecture/)
+- [OkHi gets $1.5M seed extension to scale its smart address verification service across Africa](https://techcrunch.com/2022/03/09/okhi-gets-1-5m-seed-extension-to-scale-its-smart-address-verification-service-across-africa/)
 - [Workbounce’s ‘Google meets Slack’ product for sales teams raises $2.7M from Index Ventures](https://techcrunch.com/2022/03/09/workbounces-google-meets-slack-product-for-sales-teams-raises-2-7m-from-index-ventures/)
 - [Atlantic Money wants to challenge Wise with even cheaper international money transfers](https://techcrunch.com/2022/03/09/atlantic-money-wants-to-challenge-wise-with-even-cheaper-international-money-transfers/)
 - [For China bulls like Jim Breyer, Russia ties present “geopolitical challenges and questions”](https://techcrunch.com/2022/03/08/for-china-bulls-like-jim-breyer-russia-ties-present-geopolitical-challenges-and-questions/)
-- [E-bike subscription service Dance adds new cities and mopeds](https://techcrunch.com/2022/03/08/e-bike-subscription-service-dance-adds-new-cities-and-mopeds/)
-- [Indian food delivery giant Swiggy eyes $1 billion IPO](https://techcrunch.com/2022/03/08/swiggy-ipo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
