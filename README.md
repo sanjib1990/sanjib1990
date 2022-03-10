@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [China&#39;s Zhurong rover reveals how weather and ancient water altered rocks on Mars](https://www.space.com/china-zhurong-rover-weathering-mars-rocks)
-- [Typeform takes $135M to tickle more marketers](https://techcrunch.com/2022/03/10/typeform-series-c/)
-- [Fintechs clamor to give student loan borrowers relief options](https://techcrunch.com/2022/03/10/fintechs-clamor-to-give-student-loan-borrowers-relief-options/)
-- [With founders hailing from Colombian unicorn Rappi, payments startup Yuno raises $10M from a16z and LatAm VCs](https://techcrunch.com/2022/03/10/with-founders-hailing-from-colombian-unicorn-rappi-startup-yuno-raises-10m-from-a16z-and-latam-vcs/)
-- [Google’s Message app can now handle iMessage reactions, challenges Apple with new features](https://techcrunch.com/2022/03/10/googles-message-app-can-now-handle-imessage-reactions-challenges-apple-with-new-features/)
+- [Luminar’s Austin Russell talks life post-IPO, AV deals and lidar’s future at TC Sessions: Mobility 2022](https://techcrunch.com/2022/03/10/luminars-austin-russell-talks-life-post-ipo-av-deals-and-lidars-future-at-tc-sessions-mobility-2022/)
+- [Climate tech steps into the spotlight at TC Sessions: Climate 2022](https://techcrunch.com/2022/03/10/climate-tech-steps-into-the-spotlight-at-tc-sessions-climate-2022/)
+- [Could we really build the USS Enterprise?](https://www.space.com/real-uss-enterprise)
+- [UX focuses on men’s experience: We need financial products built for women](https://techcrunch.com/2022/03/10/ux-focuses-on-mens-experience-we-need-financial-products-built-for-women/)
+- [SafeBase bags $18M Series A to speed up vendor security auditing process](https://techcrunch.com/2022/03/10/safebase-bags-18m-series-a-to-speed-up-vendor-security-auditing-process/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
