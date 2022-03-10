@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [China&#39;s Zhurong rover reveals how weather and ancient water altered rocks on Mars](https://www.space.com/china-zhurong-rover-weathering-mars-rocks)
+- [Typeform takes $135M to tickle more marketers](https://techcrunch.com/2022/03/10/typeform-series-c/)
 - [Fintechs clamor to give student loan borrowers relief options](https://techcrunch.com/2022/03/10/fintechs-clamor-to-give-student-loan-borrowers-relief-options/)
 - [With founders hailing from Colombian unicorn Rappi, payments startup Yuno raises $10M from a16z and LatAm VCs](https://techcrunch.com/2022/03/10/with-founders-hailing-from-colombian-unicorn-rappi-startup-yuno-raises-10m-from-a16z-and-latam-vcs/)
 - [Google’s Message app can now handle iMessage reactions, challenges Apple with new features](https://techcrunch.com/2022/03/10/googles-message-app-can-now-handle-imessage-reactions-challenges-apple-with-new-features/)
-- [Autobrains nabs $19M, bringing its Series C to $120M,  to take on Mobileye in autonomous driving tech](https://techcrunch.com/2022/03/10/autobrains-nabs-19m-bringing-its-series-c-to-120m-to-take-on-mobileye-in-autonomous-driving-tech/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
