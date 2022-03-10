@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Virgin Orbit targeting this summer for 1st-ever orbital launch from UK soil](https://www.space.com/virgin-orbit-1st-orbital-launch-uk-summer-2022)
 - [Twitter’s latest update makes it easier to escape its recommendation algorithm](https://techcrunch.com/2022/03/10/twitters-latest-update-makes-it-easier-to-escape-its-recommendation-algorithm/)
 - [‘Hey Google, pay for my parking’ feature is live](https://techcrunch.com/2022/03/10/google-lets-android-users-pay-for-parking-with-voice/)
 - [Google adds Air Raid Alerts to Android phones in Ukraine](https://techcrunch.com/2022/03/10/google-adds-air-raid-alerts-to-android-phones-in-ukraine/)
 - [As the worm turns](https://techcrunch.com/2022/03/10/as-the-worm-turns/)
-- [Massive eruption on dead star pushes particles to cosmic speed limit](https://www.space.com/white-dwarf-nova-particle-accelerator-fastest-known)
 <!-- BLOG-POST-LIST:END -->
 
 ---
