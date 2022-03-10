@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [DataRails raises $50M to supercharge financial analytics and other tools for Excel spreadsheet acolytes](https://techcrunch.com/2022/03/10/datarails-50-million-excel/)
+- [Topsort, an auction-based advertising startup, now valued at $110M after seed round](https://techcrunch.com/2022/03/10/topsort-an-auction-based-advertising-startup-now-valued-at-110m-after-seed-round/)
+- [Slingshot Aerospace raises $25M to help satellite operators navigate space traffic](https://techcrunch.com/2022/03/10/slingshot-aerospace-raises-25m-to-help-satellite-operators-navigate-space-traffic/)
+- [Supermassive black holes: Theory, characteristics and formation](https://www.space.com/supermassive-black-hole)
+- [DataRails raises $50M to boost financial analytics and other tools for Excel spreadsheet acolytes](https://techcrunch.com/2022/03/10/datarails-50-million-excel/)
 - [Google suspends Play store billing, YouTube payments in Russia](https://techcrunch.com/2022/03/10/google-play-youtube-payment-pause-russia/)
-- [Makers Fund closes third fund at $500M to back interactive entertainment companies](https://techcrunch.com/2022/03/10/makers-fund-closes-third-fund-at-500m-to-back-interactive-entertainment-companies/)
-- [Google’s Art &amp; Culture platform updated with documents, artifacts and music from Timbuktu](https://techcrunch.com/2022/03/10/googles-art-culture-platform-updated-with-documents-artifacts-and-music-from-timbuktu/)
-- [Gas giants: Jovian planets of our solar system and beyond](https://www.space.com/30372-gas-giants.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
