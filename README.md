@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch the moon cross Taurus the Bull in the night sky this week](https://www.space.com/moon-cross-taurus-bull-march-2022)
+- [Quest 2 fitness tracking finally lands Apple Health integration](https://techcrunch.com/2022/03/10/quest-2-fitness-tracking-finally-lands-apple-health-integration/)
+- [Chris Dixon, Marc Andreessen back $30M fund exclusively investing in NFT art](https://techcrunch.com/2022/03/10/chris-dixon-marc-andreessen-back-a-30m-fund-investing-exclusively-in-nft-art/)
+- [We’re breaking down usage-based pricing and growth strategies at TechCrunch Early Stage](https://techcrunch.com/2022/03/10/openview-ventures-kyle-poyar-breaks-down-usage-based-pricing-and-growth-strategies-at-techcrunch-early-stage/)
 - [Stilt secures $114M in debt &amp; equity to help fintechs and neobanks launch credit offerings with its API](https://techcrunch.com/2022/03/10/stilt-secures-114m-in-debt-equity-to-help-fintechs-and-neobanks-launch-credit-offerings-with-its-api/)
-- [Are we entering an NFT downturn?](https://techcrunch.com/2022/03/10/are-we-entering-an-nft-downturn/)
-- [Google dials up focus on portability ahead of rule changes](https://techcrunch.com/2022/03/10/google-portability-lobbying/)
-- [Zeta Surgical comes out of stealth with a $5.2M raise for image-guided surgery](https://techcrunch.com/2022/03/10/zeta-surgical-comes-out-of-stealth-with-a-5-75m-raise-for-image-guided-surgery/)
-- [Netflix says an ad-supported tier still isn’t in its plans, despite the Disney+ announcement](https://techcrunch.com/2022/03/10/netflix-says-an-ad-supported-tier-still-isnt-in-its-plans-despite-the-disney-announcement/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
