@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Luminar’s Austin Russell talks life post-IPO, AV deals and lidar’s future at TC Sessions: Mobility 2022](https://techcrunch.com/2022/03/10/luminars-austin-russell-talks-life-post-ipo-av-deals-and-lidars-future-at-tc-sessions-mobility-2022/)
-- [Climate tech steps into the spotlight at TC Sessions: Climate 2022](https://techcrunch.com/2022/03/10/climate-tech-steps-into-the-spotlight-at-tc-sessions-climate-2022/)
-- [Could we really build the USS Enterprise?](https://www.space.com/real-uss-enterprise)
-- [UX focuses on men’s experience: We need financial products built for women](https://techcrunch.com/2022/03/10/ux-focuses-on-mens-experience-we-need-financial-products-built-for-women/)
-- [SafeBase bags $18M Series A to speed up vendor security auditing process](https://techcrunch.com/2022/03/10/safebase-bags-18m-series-a-to-speed-up-vendor-security-auditing-process/)
+- [Stilt secures $114M in debt &amp; equity to help fintechs and neobanks launch credit offerings with its API](https://techcrunch.com/2022/03/10/stilt-secures-114m-in-debt-equity-to-help-fintechs-and-neobanks-launch-credit-offerings-with-its-api/)
+- [Are we entering an NFT downturn?](https://techcrunch.com/2022/03/10/are-we-entering-an-nft-downturn/)
+- [Google dials up focus on portability ahead of rule changes](https://techcrunch.com/2022/03/10/google-portability-lobbying/)
+- [Zeta Surgical comes out of stealth with a $5.2M raise for image-guided surgery](https://techcrunch.com/2022/03/10/zeta-surgical-comes-out-of-stealth-with-a-5-75m-raise-for-image-guided-surgery/)
+- [Netflix says an ad-supported tier still isn’t in its plans, despite the Disney+ announcement](https://techcrunch.com/2022/03/10/netflix-says-an-ad-supported-tier-still-isnt-in-its-plans-despite-the-disney-announcement/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
