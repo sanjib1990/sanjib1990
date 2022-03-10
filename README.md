@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [New quantum gravity sensor could someday peel away the surfaces of other worlds](https://www.space.com/atomic-hourglass-sensitivity-breakthroug)
-- [Mysterious globular clusters could unlock the secrets of galaxy formation](https://www.space.com/globular-cluster-galaxy-formation-mysteries)
-- [Course Hero scoops up Scribbr for subject-specific study help](https://techcrunch.com/2022/03/10/course-hero-scribbr/)
-- [Lunar, the Nordic neo-bank, raises $77M at a $2B valuation and launches crypto trading platform and B2B payments](https://techcrunch.com/2022/03/10/lunar-the-nordic-neo-bank-raises-77m-at-a-2b-valuation-and-launches-crypto-trading-platform-and-b2b-payments/)
-- [London’s Tactic raises $4.5M round led by Index Ventures to tackle search for sales teams](https://techcrunch.com/2022/03/10/londons-tactic-raises-4-5m-round-led-by-index-ventures-to-tackle-search-for-sales-teams/)
+- [DataRails raises $50M to supercharge financial analytics and other tools for Excel spreadsheet acolytes](https://techcrunch.com/2022/03/10/datarails-50-million-excel/)
+- [Google suspends Play store billing, YouTube payments in Russia](https://techcrunch.com/2022/03/10/google-play-youtube-payment-pause-russia/)
+- [Makers Fund closes third fund at $500M to back interactive entertainment companies](https://techcrunch.com/2022/03/10/makers-fund-closes-third-fund-at-500m-to-back-interactive-entertainment-companies/)
+- [Google’s Art &amp; Culture platform updated with documents, artifacts and music from Timbuktu](https://techcrunch.com/2022/03/10/googles-art-culture-platform-updated-with-documents-artifacts-and-music-from-timbuktu/)
+- [Gas giants: Jovian planets of our solar system and beyond](https://www.space.com/30372-gas-giants.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
