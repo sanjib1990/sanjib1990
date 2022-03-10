@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [6 technologists discuss how no-code tools are changing software development](https://techcrunch.com/2022/03/10/6-technologists-discuss-how-no-code-tools-are-changing-software-development/)
+- [Stripe gets friendly with crypto, again](https://techcrunch.com/2022/03/10/stripe-gets-friendly-with-crypto-again/)
+- [Edward Ashton discusses his new sci-fi novel headed for Hollywood, &#39;Mickey7&#39; &lpar;exclusive&rpar;](https://www.space.com/edward-ashton-novel-mickey7-interview)
 - [Pokémon GO creator Niantic is acquiring WebAR development platform 8th Wall](https://techcrunch.com/2022/03/10/pokemon-go-creator-niantic-is-acquiring-webar-development-platform-8th-wall/)
 - [Rivian shares reach new low after reporting disappointing Q4 earnings](https://techcrunch.com/2022/03/10/rivian-shares-reach-new-low-after-reporting-disappointing-q4-earnings/)
-- [Buckle up, autonomous vehicles finally get federal safety standards](https://techcrunch.com/2022/03/10/nhtsa-first-autonomous-vehicle-occupant-safety-standards/)
-- [Virgin Orbit targeting this summer for 1st-ever orbital launch from UK soil](https://www.space.com/virgin-orbit-1st-orbital-launch-uk-summer-2022)
-- [Twitter’s latest update makes it easier to escape its recommendation algorithm](https://techcrunch.com/2022/03/10/twitters-latest-update-makes-it-easier-to-escape-its-recommendation-algorithm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
