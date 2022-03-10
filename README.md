@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sony suspends PlayStation store and console sales in Russia](https://techcrunch.com/2022/03/09/sony-russia-ps5-gran-turismo-suspended/)
+- [AI helps historians complete ancient Greek inscriptions damaged over millennia](https://techcrunch.com/2022/03/09/ai-helps-historians-complete-ancient-greek-inscriptions-damaged-over-millennia/)
+- [Did Netflix ruin Formula 1 with ‘Drive To Survive’?](https://techcrunch.com/2022/03/09/formula-1-drive-to-survive-season-4-release-date-trailer-netflix/)
+- [Daily Crunch: Atlantic Money wants to make international money transfers even cheaper than competitors](https://techcrunch.com/2022/03/09/daily-crunch-atlantic-money-wants-to-make-international-money-transfers-even-cheaper-than-competitors/)
 - [Axiom Space Ax-1 mission: The first all-private crew to the International Space Station](https://www.space.com/ax-1-axiom-space-station-mission)
-- [SpaceX launches 48 more Starlink satellites on an “American broomstick”](https://techcrunch.com/2022/03/09/spacex-launches-48-more-starlink-satellites-on-an-american-broomstick/)
-- [Russia&#39;s Ukraine invasion and space impacts: Live updates](https://www.space.com/news/live/russia-ukraine-invasion-space-impacts-updates)
-- [The PlayStation version of Roblox is materializing](https://techcrunch.com/2022/03/09/roblox-for-ps4-ps5-playstation/)
-- [UK announces ban on space-related exports to Russia](https://www.space.com/uk-bans-space-exports-russia-ukraine-invasion)
 <!-- BLOG-POST-LIST:END -->
 
 ---
