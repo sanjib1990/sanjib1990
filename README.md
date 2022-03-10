@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Indian game streaming platform Loco raises $42 million from Hashed, Makers Fund](https://techcrunch.com/2022/03/09/indian-game-streaming-platform-loco-raises-42-million-from-hashed-makers-fund/)
 - [Do Americans want to gamble on individual athletes? Marc Lore is betting on it with Mojo](https://techcrunch.com/2022/03/09/do-americans-want-to-gamble-on-individual-athletes-marc-lore-is-betting-on-it-with-mojo/)
 - [Satellite photos of Mariupol, Ukraine show damage from Russian attacks](https://www.space.com/mariupol-ukraine-damage-satellite-photos)
 - [Sony suspends PlayStation store and console sales in Russia](https://techcrunch.com/2022/03/09/sony-russia-ps5-gran-turismo-suspended/)
 - [AI helps historians complete ancient Greek inscriptions damaged over millennia](https://techcrunch.com/2022/03/09/ai-helps-historians-complete-ancient-greek-inscriptions-damaged-over-millennia/)
-- [Did Netflix ruin Formula 1 with ‘Drive To Survive’?](https://techcrunch.com/2022/03/09/formula-1-drive-to-survive-season-4-release-date-trailer-netflix/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
