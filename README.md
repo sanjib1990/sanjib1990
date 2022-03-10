@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch the moon cross Taurus the Bull in the night sky this week](https://www.space.com/moon-cross-taurus-bull-march-2022)
-- [Quest 2 fitness tracking finally lands Apple Health integration](https://techcrunch.com/2022/03/10/quest-2-fitness-tracking-finally-lands-apple-health-integration/)
-- [Chris Dixon, Marc Andreessen back $30M fund exclusively investing in NFT art](https://techcrunch.com/2022/03/10/chris-dixon-marc-andreessen-back-a-30m-fund-investing-exclusively-in-nft-art/)
-- [We’re breaking down usage-based pricing and growth strategies at TechCrunch Early Stage](https://techcrunch.com/2022/03/10/openview-ventures-kyle-poyar-breaks-down-usage-based-pricing-and-growth-strategies-at-techcrunch-early-stage/)
-- [Stilt secures $114M in debt &amp; equity to help fintechs and neobanks launch credit offerings with its API](https://techcrunch.com/2022/03/10/stilt-secures-114m-in-debt-equity-to-help-fintechs-and-neobanks-launch-credit-offerings-with-its-api/)
+- [Twitter’s latest update makes it easier to escape its recommendation algorithm](https://techcrunch.com/2022/03/10/twitters-latest-update-makes-it-easier-to-escape-its-recommendation-algorithm/)
+- [‘Hey Google, pay for my parking’ feature is live](https://techcrunch.com/2022/03/10/google-lets-android-users-pay-for-parking-with-voice/)
+- [Google adds Air Raid Alerts to Android phones in Ukraine](https://techcrunch.com/2022/03/10/google-adds-air-raid-alerts-to-android-phones-in-ukraine/)
+- [As the worm turns](https://techcrunch.com/2022/03/10/as-the-worm-turns/)
+- [Massive eruption on dead star pushes particles to cosmic speed limit](https://www.space.com/white-dwarf-nova-particle-accelerator-fastest-known)
 <!-- BLOG-POST-LIST:END -->
 
 ---
