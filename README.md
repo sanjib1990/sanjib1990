@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Course Hero scoops up Scribbr for subject-specific study help](https://techcrunch.com/2022/03/10/course-hero-scribbr/)
+- [Lunar, the Nordic neo-bank, raises $77M at a $2B valuation and launches crypto trading platform and B2B payments](https://techcrunch.com/2022/03/10/lunar-the-nordic-neo-bank-raises-77m-at-a-2b-valuation-and-launches-crypto-trading-platform-and-b2b-payments/)
 - [London’s Tactic raises $4.5M round led by Index Ventures to tackle search for sales teams](https://techcrunch.com/2022/03/10/londons-tactic-raises-4-5m-round-led-by-index-ventures-to-tackle-search-for-sales-teams/)
 - [Antler East Africa closes $13.5M fund to invest in early-stage startups](https://techcrunch.com/2022/03/09/antler-east-africa-closes-13-5m-fund-to-invest-in-early-stage-startups/)
 - [Alice&amp;Bob, a quantum computing startup, raises $30M to launch its first fault tolerant ‘cat qubit’ computers in 2023](https://techcrunch.com/2022/03/09/alicebob-a-quantum-computing-startup-raises-30m-to-launch-its-first-fault-tolerant-cat-qubit-computers-in-2023/)
-- [Berlin-based Swobbee wants to bring micromobility battery swapping to Europe](https://techcrunch.com/2022/03/09/berlin-based-swobbee-wants-to-bring-micromobility-battery-swapping-to-europe/)
-- [Game streaming platform Loco raises $42 million to build ‘Twitch for India’](https://techcrunch.com/2022/03/09/indian-game-streaming-platform-loco-raises-42-million-from-hashed-makers-fund/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
