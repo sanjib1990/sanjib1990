@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [100ms secures $20M to power next generation of live video apps](https://techcrunch.com/2022/03/10/100ms-secures-20m-to-power-next-generation-of-live-video-apps/)
+- [PG&amp;E, Ford to explore electric pickup truck as backup generator for home](https://techcrunch.com/2022/03/10/pge-ford-f-150-lightning-electric-truck-power-home/)
 - [Twitter removes Russian Embassy’s tweet accusing pregnant bombing victim of being a crisis actor](https://techcrunch.com/2022/03/10/twitter-ukraine-pregnant-victim-mariupol/)
 - [Daily Crunch: 2 months after launching, São Paulo-based payments startup Yuno raises $10M](https://techcrunch.com/2022/03/10/daily-crunch-2-months-after-launching-sao-paulo-based-payments-startup-yuno-raises-10m/)
 - [6 technologists discuss how no-code tools are changing software development](https://techcrunch.com/2022/03/10/6-technologists-discuss-how-no-code-tools-are-changing-software-development/)
-- [Stripe gets friendly with crypto, again](https://techcrunch.com/2022/03/10/stripe-gets-friendly-with-crypto-again/)
-- [Edward Ashton discusses his new sci-fi novel headed for Hollywood, &#39;Mickey7&#39; &lpar;exclusive&rpar;](https://www.space.com/edward-ashton-novel-mickey7-interview)
 <!-- BLOG-POST-LIST:END -->
 
 ---
