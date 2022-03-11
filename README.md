@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Aument wants to power your next marketing message](https://techcrunch.com/2022/03/11/aument-wants-to-power-your-next-marketing-message/)
+- [Lego Star Wars Yoda review](https://www.space.com/lego-star-wars-yoda-75255-review)
+- [‘Jedi Blue’ ad deal between Google and Facebook sparks new antitrust probes in EU and UK](https://techcrunch.com/2022/03/11/google-meta-jedi-blue-eu-uk-antitrust-probes/)
+- [Lego Star Wars deals 2022: Savings on vehicles, ships, helmets and more](https://www.space.com/lego-star-wars-deals)
 - [On This Day in Space! March 11, 2008: 1st Japanese Module &amp; &#39;Dextre&#39; Robot Launch to space station](https://www.space.com/39251-on-this-day-in-space.html)
-- [Canadian radar satellites to help Ukraine fight off Russian invasion](https://www.space.com/canada-satellite-imagery-for-ukraine-russia-invasion)
-- [Scientists hail &#39;the decade of Venus&#39; with 3 new missions on the way](https://www.space.com/venus-scientists-celebrate-new-missions-lpsc)
-- [NASA says it supports employees&#39; use of preferred pronouns amid online criticism](https://www.space.com/nasa-preferred-pronouns-gender-identity-controversy)
-- [Get a galactic 40% off the groundbreaking Playmobil USS Enterprise](https://www.space.com/playmobil-uss-enterprise-uk-save-40-percent)
 <!-- BLOG-POST-LIST:END -->
 
 ---
