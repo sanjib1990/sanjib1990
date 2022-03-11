@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NetWalker ransomware operator extradited to the US, over $28M in bitcoin seized](https://techcrunch.com/2022/03/11/netwalker-extradited-bitcoin-seized/)
-- [A rough draft of the teetering startup landscape heading into Q2](https://techcrunch.com/2022/03/11/a-rough-draft-of-the-teetering-startup-landscape-heading-into-q2/)
-- [SPACs are a four-letter word again](https://techcrunch.com/2022/03/11/spacs-are-a-four-letter-word-again/)
-- [Hubble telescope was at the perfect angle to capture this nearly impossible shot of two &#39;dancing galaxies&#39;](https://www.space.com/hubble-telescope-photo-galaxy-tidal-interactions)
-- [European lawmakers launch investigation into use of Pegasus spyware by EU states](https://techcrunch.com/2022/03/11/europe-pegasus-investigation/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [Russia says it will block Instagram](https://techcrunch.com/2022/03/11/russia-instagram-block/)
+- [As tech companies suspend sales in Russia, what is the actual business impact?](https://techcrunch.com/2022/03/11/as-tech-companies-suspend-sales-in-russia-what-is-the-actual-business-impact/)
+- [AiFi adds new funding into its cart to expand autonomous retail footprint](https://techcrunch.com/2022/03/11/aifi-autonomous-retail-series-b/)
+- [Why are asteroids and comets such weird shapes?](https://www.space.com/why-asteroids-comets-weird-shapes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
