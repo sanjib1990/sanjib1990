@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [On This Day in Space! March 11, 2008: 1st Japanese Module &amp; &#39;Dextre&#39; Robot Launch to space station](https://www.space.com/39251-on-this-day-in-space.html)
+- [Canadian radar satellites to help Ukraine fight off Russian invasion](https://www.space.com/canada-satellite-imagery-for-ukraine-russia-invasion)
+- [Scientists hail &#39;the decade of Venus&#39; with 3 new missions on the way](https://www.space.com/venus-scientists-celebrate-new-missions-lpsc)
+- [NASA says it supports employees&#39; use of preferred pronouns amid online criticism](https://www.space.com/nasa-preferred-pronouns-gender-identity-controversy)
 - [Get a galactic 40% off the groundbreaking Playmobil USS Enterprise](https://www.space.com/playmobil-uss-enterprise-uk-save-40-percent)
-- [100ms secures $20M to power next generation of live video apps](https://techcrunch.com/2022/03/10/100ms-secures-20m-to-power-next-generation-of-live-video-apps/)
-- [PG&amp;E, Ford to explore electric pickup truck as backup generator for home](https://techcrunch.com/2022/03/10/pge-ford-f-150-lightning-electric-truck-power-home/)
-- [Twitter removes Russian Embassy’s tweet accusing pregnant bombing victim of being a crisis actor](https://techcrunch.com/2022/03/10/twitter-ukraine-pregnant-victim-mariupol/)
-- [Daily Crunch: 2 months after launching, São Paulo-based payments startup Yuno raises $10M](https://techcrunch.com/2022/03/10/daily-crunch-2-months-after-launching-sao-paulo-based-payments-startup-yuno-raises-10m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
