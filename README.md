@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [After pressure from NYC DOT, Joco pivots to e-bike delivery rentals](https://techcrunch.com/2022/03/11/after-pressure-from-nyc-dot-joco-pivots-to-e-bike-delivery/)
-- [Byju Raveendran invests $400 million in his edtech startup](https://techcrunch.com/2022/03/11/byju-raveendran-invests-400-million-in-his-edtech-startup/)
-- [Aument wants to power your next marketing message](https://techcrunch.com/2022/03/11/aument-wants-to-power-your-next-marketing-message/)
-- [Lego Star Wars Yoda review](https://www.space.com/lego-star-wars-yoda-75255-review)
-- [‘Jedi Blue’ ad deal between Google and Facebook sparks new antitrust probes in EU and UK](https://techcrunch.com/2022/03/11/google-meta-jedi-blue-eu-uk-antitrust-probes/)
+- [SPACs are a four-letter word again](https://techcrunch.com/2022/03/11/spacs-are-a-four-letter-word-again/)
+- [European lawmakers launch investigation into use of Pegasus spyware by EU states](https://techcrunch.com/2022/03/11/europe-pegasus-investigation/)
+- [Meet your co-founder or find your next gig at TC Sessions: Mobility 2022](https://techcrunch.com/2022/03/11/meet-your-co-founder-or-find-your-next-gig-at-tc-sessions-mobility-2022/)
+- [Makers Fund-backed virtual social app MEW woos comic fans in the US](https://techcrunch.com/2022/03/11/makers-fund-mew-troph-metaverse-virtual/)
+- [Truphone says Russian tycoon Abramovich, sanctioned in the UK, does not have a ‘relevant interest’ that impacts Truphone stake](https://techcrunch.com/2022/03/11/truphone-abramovich/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
