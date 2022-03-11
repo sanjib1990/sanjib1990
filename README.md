@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Diamond Age picks up $50M to lay the foundation for the future of houses built by robots](https://techcrunch.com/2022/03/11/diamond-age-series-a/)
+- [&#39;The Crawler&#39; is on the move ahead of Artemis 1 moon rocket rollout](https://www.space.com/nasa-artemis-1-crawler-rollout-begins)
 - [VC and native Ukrainian Alex Iskold is funneling money to Ukranian refugees, $1K at a time](https://techcrunch.com/2022/03/11/vc-and-native-ukrainian-alex-iskold-is-funneling-money-to-ukranian-refugees-1k-at-a-time/)
 - [TechCrunch+ roundup: Tested TAM tips, no-code tech survey, writing crypto white papers](https://techcrunch.com/2022/03/11/techcrunch-roundup-tested-tam-tips-no-code-tech-survey-writing-crypto-white-papers/)
 - [For founders who want to launch apps, ‘being non-technical is not a limitation’](https://techcrunch.com/2022/03/11/for-founders-who-want-to-launch-apps-being-non-technical-is-not-a-limitation/)
-- [Hulu + Live TV to now throw in Unlimited DVR as part of its base plan](https://techcrunch.com/2022/03/11/hulu-live-tv-to-now-throw-in-an-unlimited-dvr-a-part-of-its-base-plan/)
-- [Ubisoft won’t say why it reset employee passwords after ‘cyber incident’](https://techcrunch.com/2022/03/11/ubisoft-reset-passwords-cyber-incident/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
