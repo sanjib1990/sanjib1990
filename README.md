@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Casey Neistat’s David Dobrik documentary explores what happens when creators cross the line](https://techcrunch.com/2022/03/12/david-dobrik-documentary-premieres-sxsw-casey-neistat-reveals-youtube-dangers/)
+- [Holoride’s in-car VR tech is coming to Audi this summer](https://techcrunch.com/2022/03/12/audi-holoride-virtual-reality-in-cars/)
+- [&#39;Star Trek: Picard&#39; season 2 episode 2 continues to enthrall with dark timeline &lpar;review&rpar;](https://www.space.com/star-trek-picard-season-2-episode-2-review)
 - [Flipkart founder’s Navi files for $440 million IPO](https://techcrunch.com/2022/03/12/navi-ipo-sachin-bansal/)
 - [The Mini Cooper SE is a fun EV with some catching up to do](https://techcrunch.com/2022/03/12/electric-mini-cooper-se-ev-review/)
-- [AngelList Venture has a new look](https://techcrunch.com/2022/03/12/angellist-tiger-global-money/)
-- [The startup growth paradox](https://techcrunch.com/2022/03/12/the-startup-growth-paradox/)
-- [Could Mars ever have supported life? This NASA challenge wants your help to find out](https://www.space.com/nasa-mars-habitable-herox-competition)
 <!-- BLOG-POST-LIST:END -->
 
 ---
