@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Russia&#39;s Ukraine invasion and space impacts: Live updates](https://www.space.com/news/live/russia-ukraine-invasion-space-impacts-updates)
+- [Satellite images spot Russian artillery firing on Kyiv, Ukraine](https://www.space.com/russia-ukraine-invasion-artillery-firing-satellite-photos)
+- [This Week In Space Podcast: Episode 2 - You, the Rocketeer](https://www.space.com/this-week-in-space-podcast-twit)
 - [This Week in Apps: War and the app economy, Google’s Messages update, Telegram ‘TV’](https://techcrunch.com/2022/03/12/this-week-in-apps-war-and-the-app-economy-googles-messages-update-telegram-tv/)
 - [Tiger’s stamp of approval is coming for the early stage](https://techcrunch.com/2022/03/12/tiger-global-early-stage/)
-- [Casey Neistat’s David Dobrik documentary explores what happens when creators cross the line](https://techcrunch.com/2022/03/12/david-dobrik-documentary-premieres-sxsw-casey-neistat-reveals-youtube-dangers/)
-- [Holoride’s in-car VR tech is coming to Audi this summer](https://techcrunch.com/2022/03/12/audi-holoride-virtual-reality-in-cars/)
-- [&#39;Star Trek: Picard&#39; season 2 episode 2 continues to enthrall with dark timeline &lpar;review&rpar;](https://www.space.com/star-trek-picard-season-2-episode-2-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
