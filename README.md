@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Week in Apps: War and the app economy, Google’s Messages update, Telegram ‘TV’](https://techcrunch.com/2022/03/12/this-week-in-apps-war-and-the-app-economy-googles-messages-update-telegram-tv/)
 - [Tiger’s stamp of approval is coming for the early stage](https://techcrunch.com/2022/03/12/tiger-global-early-stage/)
 - [Casey Neistat’s David Dobrik documentary explores what happens when creators cross the line](https://techcrunch.com/2022/03/12/david-dobrik-documentary-premieres-sxsw-casey-neistat-reveals-youtube-dangers/)
 - [Holoride’s in-car VR tech is coming to Audi this summer](https://techcrunch.com/2022/03/12/audi-holoride-virtual-reality-in-cars/)
 - [&#39;Star Trek: Picard&#39; season 2 episode 2 continues to enthrall with dark timeline &lpar;review&rpar;](https://www.space.com/star-trek-picard-season-2-episode-2-review)
-- [Flipkart founder’s Navi files for $440 million IPO](https://techcrunch.com/2022/03/12/navi-ipo-sachin-bansal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
