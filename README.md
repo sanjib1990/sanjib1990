@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Celebrate Pi Day 2022 with these epic NASA math challenges for March 14](https://www.space.com/nasa-pi-day-2022-math-challenge)
+- [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html)
+- [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html)
+- [On This Day in Space! March 12, 2015: NASA launches Magnetospheric Multiscale Mission](https://www.space.com/39251-on-this-day-in-space.html)
 - [Mars helicopter Ingenuity aces 21st Red Planet flight](https://www.space.com/mars-helicopter-ingenuity-aces-flight-21)
-- [No, Russia hasn&#39;t claimed it will abandon an American astronaut on the space station](https://www.space.com/russia-will-not-abandon-nasa-astronaut-on-iss)
-- [Space station telescope sees X-ray hot spots merge on supermagnetic star corpse](https://www.space.com/magnetar-hot-spots-merge-space-station-telescope)
-- [NASA&#39;s cracking open a vintage Apollo 17 moon rock sample for Artemis prep](https://www.space.com/nasa-opening-apollo-17-moon-rock-samples-for-artemis)
-- [Bored Apes maker Yuga Labs acquires CryptoPunks NFT collection](https://techcrunch.com/2022/03/11/bored-apes-maker-yuga-labs-acquires-cryptopunks-nft-collection/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
