@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [ben AND patricia are evil......OR are they? // Python EP 6](https://www.youtube.com/watch?v=nD1REhS6e3Y)
 - [Linux in 100 Seconds](https://www.youtube.com/watch?v=rrB13utjYV4)
 - [A heroic new proposal for JavaScript // The Code Report](https://www.youtube.com/watch?v=O9F4K804XC8)
 - [Mythical Man Month - Computerphile](https://www.youtube.com/watch?v=vuScajG_FuI)
 - [React Query in 100 Seconds](https://www.youtube.com/watch?v=novnyCaa7To)
-- [Unity in 100 Seconds](https://www.youtube.com/watch?v=iqlH4okiQqg)
 <!-- YOUTUBE:END -->
 
 ---
