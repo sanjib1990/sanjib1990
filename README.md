@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Diamond Age picks up $50M to lay the foundation for the future of houses built by robots](https://techcrunch.com/2022/03/11/diamond-age-series-a/)
-- [&#39;The Crawler&#39; is on the move ahead of Artemis 1 moon rocket rollout](https://www.space.com/nasa-artemis-1-crawler-rollout-begins)
-- [VC and native Ukrainian Alex Iskold is funneling money to Ukranian refugees, $1K at a time](https://techcrunch.com/2022/03/11/vc-and-native-ukrainian-alex-iskold-is-funneling-money-to-ukranian-refugees-1k-at-a-time/)
-- [TechCrunch+ roundup: Tested TAM tips, no-code tech survey, writing crypto white papers](https://techcrunch.com/2022/03/11/techcrunch-roundup-tested-tam-tips-no-code-tech-survey-writing-crypto-white-papers/)
-- [For founders who want to launch apps, ‘being non-technical is not a limitation’](https://techcrunch.com/2022/03/11/for-founders-who-want-to-launch-apps-being-non-technical-is-not-a-limitation/)
+- [No, Russia hasn&#39;t claimed it will abandon an American astronaut on the space station](https://www.space.com/russia-will-not-abandon-nasa-astronaut-on-iss)
+- [Space station telescope sees X-ray hot spots merge on supermagnetic star corpse](https://www.space.com/magnetar-hot-spots-merge-space-station-telescope)
+- [NASA&#39;s cracking open a vintage Apollo 17 moon rock sample for Artemis prep](https://www.space.com/nasa-opening-apollo-17-moon-rock-samples-for-artemis)
+- [Bored Apes maker Yuga Labs acquires CryptoPunks NFT collection](https://techcrunch.com/2022/03/11/bored-apes-maker-yuga-labs-acquires-cryptopunks-nft-collection/)
+- [Daily Crunch: Byju’s founder chips in toward $800M funding round to reach $22B valuation](https://techcrunch.com/2022/03/11/daily-crunch-byjus-founder-chips-in-toward-800m-funding-round-to-reach-22b-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
