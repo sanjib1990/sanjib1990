@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Mini Cooper SE is a fun EV with some catching up to do](https://techcrunch.com/2022/03/12/electric-mini-cooper-se-ev-review/)
+- [AngelList Venture has a new look](https://techcrunch.com/2022/03/12/angellist-tiger-global-money/)
 - [The startup growth paradox](https://techcrunch.com/2022/03/12/the-startup-growth-paradox/)
 - [Could Mars ever have supported life? This NASA challenge wants your help to find out](https://www.space.com/nasa-mars-habitable-herox-competition)
 - [Hubble telescope captures spectacular laser-like jet from infant star &lpar;photo&rpar;](https://www.space.com/hubble-space-telescope-laser-jet-infant-star-photo)
-- [Celebrate Pi Day 2022 with these epic NASA math challenges for March 14](https://www.space.com/nasa-pi-day-2022-math-challenge)
-- [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
