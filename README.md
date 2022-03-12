@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mars helicopter Ingenuity aces 21st Red Planet flight](https://www.space.com/mars-helicopter-ingenuity-aces-flight-21)
 - [No, Russia hasn&#39;t claimed it will abandon an American astronaut on the space station](https://www.space.com/russia-will-not-abandon-nasa-astronaut-on-iss)
 - [Space station telescope sees X-ray hot spots merge on supermagnetic star corpse](https://www.space.com/magnetar-hot-spots-merge-space-station-telescope)
 - [NASA&#39;s cracking open a vintage Apollo 17 moon rock sample for Artemis prep](https://www.space.com/nasa-opening-apollo-17-moon-rock-samples-for-artemis)
 - [Bored Apes maker Yuga Labs acquires CryptoPunks NFT collection](https://techcrunch.com/2022/03/11/bored-apes-maker-yuga-labs-acquires-cryptopunks-nft-collection/)
-- [Daily Crunch: Byju’s founder chips in toward $800M funding round to reach $22B valuation](https://techcrunch.com/2022/03/11/daily-crunch-byjus-founder-chips-in-toward-800m-funding-round-to-reach-22b-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
