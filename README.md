@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Augmented reality’s half-decade of stagnation](https://techcrunch.com/2022/03/13/augmented-realitys-half-decade-of-stagnation/)
+- [Northern lights &lpar;aurora borealis&rpar;: What they are &amp; how to see them](https://www.space.com/15139-northern-lights-auroras-earth-facts-sdcmp.html)
 - [Founders: Connect with influential movers and shippers at TC Sessions: Mobility 2022](https://techcrunch.com/2022/03/13/founders-connect-with-influential-movers-and-shippers-at-tc-sessions-mobility-2022/)
 - [Fintech Roundup: Due diligence makes a comeback and a former Better.com employee speaks out](https://techcrunch.com/2022/03/13/fintech-roundup-due-diligence-better-com/)
 - [The first &#39;Star Trek: Strange New Worlds&#39; trailer is here with a cowboy Pike](https://www.space.com/star-trek-strange-new-worlds-teaser-trailer)
-- [This Week In Space Podcast: Episode 2 - You, the Rocketeer](https://www.space.com/this-week-in-space-podcast-twit)
-- [On This Day in Space! March 13, 1781: Uranus is discovered!](https://www.space.com/39251-on-this-day-in-space.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
