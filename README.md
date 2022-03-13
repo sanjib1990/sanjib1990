@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The first &#39;Star Trek: Strange New Worlds&#39; trailer is here with a cowboy Pike](https://www.space.com/star-trek-strange-new-worlds-teaser-trailer)
+- [This Week In Space Podcast: Episode 2 - You, the Rocketeer](https://www.space.com/this-week-in-space-podcast-twit)
+- [On This Day in Space! March 13, 1781: Uranus is discovered!](https://www.space.com/39251-on-this-day-in-space.html)
 - [An asteroid the size of a bus flies by Earth today and you can watch it live online](https://www.space.com/asteroid-2022-es3-earth-flyby-webcast)
 - [Are there any moons that are made of gas?](https://www.space.com/do-gaseous-moons-exist)
-- [Can you really purchase and name a star?](https://www.space.com/naming-star-is-it-worth-money)
-- [New supernova identified in the weird Cartwheel galaxy](https://www.space.com/cartwheel-galaxy-photo-shows-bright-supernova)
-- [Happy birthday, Albert Einstein. We need you right now. &lpar;Op-Ed&rpar;](https://www.space.com/albert-einstein-social-justice-modern-world)
 <!-- BLOG-POST-LIST:END -->
 
 ---
