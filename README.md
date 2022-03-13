@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Russia&#39;s Ukraine invasion and space impacts: Live updates](https://www.space.com/news/live/russia-ukraine-invasion-space-impacts-updates)
-- [Satellite images spot Russian artillery firing on Kyiv, Ukraine](https://www.space.com/russia-ukraine-invasion-artillery-firing-satellite-photos)
-- [This Week In Space Podcast: Episode 2 - You, the Rocketeer](https://www.space.com/this-week-in-space-podcast-twit)
-- [This Week in Apps: War and the app economy, Google’s Messages update, Telegram ‘TV’](https://techcrunch.com/2022/03/12/this-week-in-apps-war-and-the-app-economy-googles-messages-update-telegram-tv/)
-- [Tiger’s stamp of approval is coming for the early stage](https://techcrunch.com/2022/03/12/tiger-global-early-stage/)
+- [An asteroid the size of a bus flies by Earth today and you can watch it live online](https://www.space.com/asteroid-2022-es3-earth-flyby-webcast)
+- [Are there any moons that are made of gas?](https://www.space.com/do-gaseous-moons-exist)
+- [Can you really purchase and name a star?](https://www.space.com/naming-star-is-it-worth-money)
+- [New supernova identified in the weird Cartwheel galaxy](https://www.space.com/cartwheel-galaxy-photo-shows-bright-supernova)
+- [Happy birthday, Albert Einstein. We need you right now. &lpar;Op-Ed&rpar;](https://www.space.com/albert-einstein-social-justice-modern-world)
 <!-- BLOG-POST-LIST:END -->
 
 ---
