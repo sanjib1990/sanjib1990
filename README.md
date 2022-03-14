@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Paytm says report alleging payments bank’s data leak to Chinese firms ‘completely false’](https://techcrunch.com/2022/03/14/paytm-payments-bank-2/)
+- [COVID rapid tests available on e-commerce in China for the first time](https://techcrunch.com/2022/03/14/covid-rapid-tests-available-on-e-commerce-in-china-for-the-first-time/)
+- [India’s Paytm says payments bank not sharing data with Chinese firms](https://techcrunch.com/2022/03/14/paytm-payments-bank-2/)
+- [On This Day in Space! March 14, 2016: ExoMars orbiter launches to seek signs of life on Red Planet](https://www.space.com/39251-on-this-day-in-space.html)
 - [SupPlant is an Internet of Trees solution dramatically reducing irrigation needs for thirsty crops](https://techcrunch.com/2022/03/14/supplant-series-b/)
 - [The 20 most memorable SpaceX missions from its 1st 20 years in photos](https://www.space.com/spacex-most-memorable-missions-photos)
-- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html)
-- [8 ways that SpaceX has transformed spaceflight](https://www.space.com/ways-spacex-transformed-spaceflight)
 <!-- BLOG-POST-LIST:END -->
 
 ---
