@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [$10,000 PC Building Challenge!! &lpar;hacking Computers&rpar;](https://www.youtube.com/watch?v=GMOoXz20VZU)
+- [10 Design Patterns Explained in 10 Minutes](https://www.youtube.com/watch?v=tv-_1er1mWI)
+- [forcing my daughters to build a computer for $10,000](https://www.youtube.com/watch?v=GMOoXz20VZU)
 - [if....and...or.....NOT!!! &lpar;Python Logical Operators&rpar; // EP 6](https://www.youtube.com/watch?v=nD1REhS6e3Y)
 - [Linux in 100 Seconds](https://www.youtube.com/watch?v=rrB13utjYV4)
 - [A heroic new proposal for JavaScript // The Code Report](https://www.youtube.com/watch?v=O9F4K804XC8)
-- [Mythical Man Month - Computerphile](https://www.youtube.com/watch?v=vuScajG_FuI)
 <!-- YOUTUBE:END -->
 
 ---
