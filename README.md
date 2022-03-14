@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s DART asteroid-slamming mission builds on tiny diamond-tipped tool tech](https://www.space.com/diamond-tipped-tool-test-asteroid-samples)
-- [What&#39;s it like inside a massive galaxy cluster? Scientists used 196 lasers to find out.](https://www.space.com/huge-galaxy-cluster-200-lasers)
-- [Moove raises $105M to scale its vehicle financing product across Asia, Europe and MENA](https://techcrunch.com/2022/03/14/moove-raises-105m-to-scale-its-vehicle-financing-product-across-asia-europe-and-mena/)
-- [Fleet thinks companies should rent laptops instead of buying them](https://techcrunch.com/2022/03/14/fleet-thinks-companies-should-rent-laptops-instead-of-buying-them/)
-- [Byju’s founder took loan to invest $400 million in edtech giant](https://techcrunch.com/2022/03/13/byjus-founder-took-a-loan-to-invest-400-million-in-edtech-giant/)
+- [Paytm says report alleging payments bank’s data leak to Chinese firms ‘completely false’](https://techcrunch.com/2022/03/14/paytm-payments-bank-2/)
+- [SupPlant is an Internet of Trees solution dramatically reducing irrigation needs for thirsty crops](https://techcrunch.com/2022/03/14/supplant-series-b/)
+- [The 20 most memorable SpaceX missions from its 1st 20 years in photos](https://www.space.com/spacex-most-memorable-missions-photos)
+- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html)
+- [8 ways that SpaceX has transformed spaceflight](https://www.space.com/ways-spacex-transformed-spaceflight)
 <!-- BLOG-POST-LIST:END -->
 
 ---
