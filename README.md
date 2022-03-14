@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to pitch me: 4 VCs share what they’re looking for in March 2022](https://techcrunch.com/2022/03/14/how-to-pitch-me-4-vcs-share-what-theyre-looking-for-in-march-2022/)
+- [Maybell Quantum’s Icebox is a small fridge for large quantum computers](https://techcrunch.com/2022/03/14/maybell-quantums-icebox-is-a-small-fridge-for-large-quantum-computers/)
+- [Pareto thinks it shouldn’t be so hard to collect lead-generation data](https://techcrunch.com/2022/03/14/pareto-seed-lead-generation-data/)
+- [Blue Origin will fly SNL’s Pete Davidson to space on March 23](https://techcrunch.com/2022/03/14/blue-origin-will-fly-snls-pete-davidson-to-space-on-march-23/)
 - [COVID rapid tests available on e-commerce in China for the first time](https://techcrunch.com/2022/03/14/covid-rapid-tests-available-on-e-commerce-in-china-for-the-first-time/)
-- [India’s Paytm says payments bank not sharing data with Chinese firms](https://techcrunch.com/2022/03/14/paytm-payments-bank-2/)
-- [On This Day in Space! March 14, 2016: ExoMars orbiter launches to seek signs of life on Red Planet](https://www.space.com/39251-on-this-day-in-space.html)
-- [SupPlant is an Internet of Trees solution dramatically reducing irrigation needs for thirsty crops](https://techcrunch.com/2022/03/14/supplant-series-b/)
-- [The 20 most memorable SpaceX missions from its 1st 20 years in photos](https://www.space.com/spacex-most-memorable-missions-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
