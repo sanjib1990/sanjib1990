@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The iPhone SE is the platonic ideal of a smartphone](https://techcrunch.com/2022/03/14/the-iphone-se-is-the-platonic-ideal-of-a-smartphone/)
 - [How to pitch me: 4 VCs share what they’re looking for in March 2022](https://techcrunch.com/2022/03/14/how-to-pitch-me-4-vcs-share-what-theyre-looking-for-in-march-2022/)
 - [Maybell Quantum’s Icebox is a small fridge for large quantum computers](https://techcrunch.com/2022/03/14/maybell-quantums-icebox-is-a-small-fridge-for-large-quantum-computers/)
 - [Pareto thinks it shouldn’t be so hard to collect lead-generation data](https://techcrunch.com/2022/03/14/pareto-seed-lead-generation-data/)
 - [Blue Origin will fly SNL’s Pete Davidson to space on March 23](https://techcrunch.com/2022/03/14/blue-origin-will-fly-snls-pete-davidson-to-space-on-march-23/)
-- [COVID rapid tests available on e-commerce in China for the first time](https://techcrunch.com/2022/03/14/covid-rapid-tests-available-on-e-commerce-in-china-for-the-first-time/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
