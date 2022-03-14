@@ -96,9 +96,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates)
 - [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
+- [Mask unlock is finally live on iPhone as iOS 15.4 arrives](https://techcrunch.com/2022/03/14/mask-unlock-is-finally-live-on-iphone-as-ios-15-4-arrives/)
 - [SNL&#39;s Pete Davidson will fly to space next week with Jeff Bezos&#39; Blue Origin](https://www.space.com/pete-davidson-blue-origin-suborbital-spaceflight)
-- [2 giant blobs in Earth&#39;s mantle may explain Africa&#39;s weird geology](https://www.space.com/mantle-blobs-under-earth)
-- [You can watch Astra launch a commercial rocket from Alaska Tuesday. Here&#39;s how.](https://www.space.com/astra-rocket-astra-1-spaceflight-mission-launch)
+- [Instagram is now blocked in Russia](https://techcrunch.com/2022/03/14/instagram-is-now-blocked-in-russia/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
