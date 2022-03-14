@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [HBO Max and Discovery+ will be combined into one service following merger](https://techcrunch.com/2022/03/14/hbo-max-and-discovery-will-be-combined-into-one-service-following-merger/)
+- [You can watch Astra launch a commercial rocket from Alaska today. Here&#39;s how.](https://www.space.com/astra-rocket-astra-1-spaceflight-mission-launch)
 - [Ford announces new EV production and profit goals for Europe](https://techcrunch.com/2022/03/14/ford-announces-new-ev-production-and-profit-goals-for-europe/)
 - [Everyone is going to launch a fund that backs other funds](https://techcrunch.com/2022/03/14/tiger-776-emerging-fund-manager/)
 - [Sayso is launching an API to dial down people’s accents a wee bit](https://techcrunch.com/2022/03/14/sayso-accent-changing/)
-- [Beat the early-bird deadline to save $300 at TC Sessions: Mobility 2022](https://techcrunch.com/2022/03/14/beat-the-early-bird-deadline-to-save-300-at-tc-sessions-mobility-2022/)
-- [Meta to allow Horizon Worlds users to turn their avatar’s personal safety boundary off](https://techcrunch.com/2022/03/14/meta-to-allow-horizon-worlds-users-to-turn-their-avatars-personal-safety-boundary-off-despite-virtual-world-sexual-assaults/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
