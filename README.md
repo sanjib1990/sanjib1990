@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Max Q: Russian invasion reverberates through space industry](https://techcrunch.com/2022/03/14/max-q-russian-invasion-reverberates-through-space-industry/)
 - [American astronaut will return to Earth on Russian spacecraft despite Ukraine invasion, NASA says](https://www.space.com/russian-invasion-ukraine-nasa-astronaut-earth-return)
 - [Ukrainian hackers say HackerOne is blocking their bug bounty payouts](https://techcrunch.com/2022/03/14/ukraine-hackerone-payments-blocked/)
 - [Relive some top SpaceX highlights from its 1st 20 years &lpar;video&rpar;](https://www.space.com/spacex-20-year-anniversary-highlight-video)
 - [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [IRS FUD: What you need to know about crypto taxes](https://techcrunch.com/2022/03/14/irs-fud-what-you-need-to-know-about-crypto-taxes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
