@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [You can watch Astra launch a commercial rocket from Alaska Tuesday. Here&#39;s how.](https://www.space.com/astra-rocket-astra-1-spaceflight-mission-launch)
+- [Your startup raised at 40x revenue. What’s it worth at, say, 6x?](https://techcrunch.com/2022/03/14/your-startup-raised-at-40x-revenue-whats-it-worth-at-say-6x/)
+- [Russia&#39;s Ukraine invasion could imperil international science](https://www.space.com/russian-invasion-ukraine-imperils-science)
+- [Hear how Blumberg Capital and DoubleVerify have worked together since 2008 on TechCrunch Live](https://techcrunch.com/2022/03/14/hear-how-blumberg-capital-and-doubleverify-have-worked-together-since-2008-on-techcrunch-live/)
 - [HBO Max and Discovery+ will be combined into one service following merger](https://techcrunch.com/2022/03/14/hbo-max-and-discovery-will-be-combined-into-one-service-following-merger/)
-- [You can watch Astra launch a commercial rocket from Alaska today. Here&#39;s how.](https://www.space.com/astra-rocket-astra-1-spaceflight-mission-launch)
-- [Ford announces new EV production and profit goals for Europe](https://techcrunch.com/2022/03/14/ford-announces-new-ev-production-and-profit-goals-for-europe/)
-- [Everyone is going to launch a fund that backs other funds](https://techcrunch.com/2022/03/14/tiger-776-emerging-fund-manager/)
-- [Sayso is launching an API to dial down people’s accents a wee bit](https://techcrunch.com/2022/03/14/sayso-accent-changing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
