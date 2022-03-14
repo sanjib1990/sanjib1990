@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [IRS FUD: What you need to know about crypto taxes](https://techcrunch.com/2022/03/14/irs-fud-what-you-need-to-know-about-crypto-taxes/)
+- [The inevitable codification of Silicon Valley’s relationships](https://techcrunch.com/2022/03/14/emerging-fund-manager-2022/)
 - [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates)
 - [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
-- [Mask unlock is finally live on iPhone as iOS 15.4 arrives](https://techcrunch.com/2022/03/14/mask-unlock-is-finally-live-on-iphone-as-ios-15-4-arrives/)
-- [SNL&#39;s Pete Davidson will fly to space next week with Jeff Bezos&#39; Blue Origin](https://www.space.com/pete-davidson-blue-origin-suborbital-spaceflight)
-- [Instagram is now blocked in Russia](https://techcrunch.com/2022/03/14/instagram-is-now-blocked-in-russia/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
