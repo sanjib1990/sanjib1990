@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Max Q: Russian invasion reverberates through space industry](https://techcrunch.com/2022/03/14/max-q-russian-invasion-reverberates-through-space-industry/)
-- [American astronaut will return to Earth on Russian spacecraft despite Ukraine invasion, NASA says](https://www.space.com/russian-invasion-ukraine-nasa-astronaut-earth-return)
-- [Ukrainian hackers say HackerOne is blocking their bug bounty payouts](https://techcrunch.com/2022/03/14/ukraine-hackerone-payments-blocked/)
-- [Relive some top SpaceX highlights from its 1st 20 years &lpar;video&rpar;](https://www.space.com/spacex-20-year-anniversary-highlight-video)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [Russian invasion of Ukraine: How it&#39;s affecting Europe&#39;s space plans](https://www.space.com/russia-invasion-ukraine-europe-space-plans)
+- [NASA’s mega expensive moon rocket will make its public debut Thursday](https://techcrunch.com/2022/03/14/nasas-mega-expensive-moon-rocket-will-make-its-public-debut-thursday/)
+- [Daily Crunch: African mobility fintech Moove raises $105M in Series A2](https://techcrunch.com/2022/03/14/daily-crunch-african-mobility-fintech-moove-raises-105m-in-series-a2/)
+- [SoftBank turns fund for diverse entrepreneurs into an ‘evergreen’ opportunity](https://techcrunch.com/2022/03/14/softbank-opportunity-evergreen-fund/)
+- [Lyft, Uber add surcharge due to high gas prices](https://techcrunch.com/2022/03/14/lyft-uber-add-surcharge-due-to-high-gas-prices/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
