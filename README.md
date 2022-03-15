@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bazaar raises $70 million from Tiger Global and Dragoneer to digitize Pakistan’s retail](https://techcrunch.com/2022/03/14/bazaar-raises-70-million-from-tiger-global-and-dragoneer-to-digitize-pakistans-retail/)
+- [Motto to launch a new electric bike subscription service in Paris](https://techcrunch.com/2022/03/14/motto-to-launch-a-new-electric-bike-subscription-service-in-paris/)
+- [Amazon accuses estranged Indian partner Future and Reliance of fraud in newspaper ads](https://techcrunch.com/2022/03/14/amazon-accuses-estranged-indian-partner-future-and-reliance-of-fraud-in-newspaper-ads/)
 - [Google Cloud gets more expensive](https://techcrunch.com/2022/03/14/inflation-is-real-google-cloud-raises-its-storage-prices/)
 - [The Station: A final rule for AVs and Cruise’s Kyle Vogt on why he’s ready to be CEO again](https://techcrunch.com/2022/03/14/the-station-a-final-rule-for-avs-and-cruises-kyle-vogt-on-why-hes-ready-to-be-ceo-again/)
-- [Astra scrubs return-to-flight rocket launch due to lightning risk](https://www.space.com/astra-rocket-launch-return-to-flight-delay)
-- [inFeedo gets $12M to help employers find out how their workforce really feels](https://techcrunch.com/2022/03/14/infeedo-gets-12m-to-help-employers-find-out-how-their-workforce-really-feels/)
-- [Ireland’s privacy watchdog sued for inaction over ‘massive Google data breach’](https://techcrunch.com/2022/03/14/dpc-sued-google-rtb-complaint/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
