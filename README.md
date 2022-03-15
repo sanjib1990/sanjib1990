@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Kirsten Green on selling to consumers in the metaverse: brands should “get in there”](https://techcrunch.com/2022/03/14/kirsten-green-on-selling-to-consumers-in-the-metaverse-brands-should-get-in-there/)
+- [India’s Licious raises $150 million for its fresh animal protein e-commerce platform](https://techcrunch.com/2022/03/14/indias-licious-raises-150-million-for-its-fresh-animal-protein-e-commerce-platform/)
+- [2 NASA astronauts performing spacewalk early Tuesday: Watch it live](https://www.space.com/nasa-astronauts-spacewalk-preview-march-15-2022)
 - [Bazaar raises $70 million from Tiger Global and Dragoneer to digitize Pakistan’s retail](https://techcrunch.com/2022/03/14/bazaar-raises-70-million-from-tiger-global-and-dragoneer-to-digitize-pakistans-retail/)
 - [Motto to launch a new electric bike subscription service in Paris](https://techcrunch.com/2022/03/14/motto-to-launch-a-new-electric-bike-subscription-service-in-paris/)
-- [Amazon accuses estranged Indian partner Future and Reliance of fraud in newspaper ads](https://techcrunch.com/2022/03/14/amazon-accuses-estranged-indian-partner-future-and-reliance-of-fraud-in-newspaper-ads/)
-- [Google Cloud gets more expensive](https://techcrunch.com/2022/03/14/inflation-is-real-google-cloud-raises-its-storage-prices/)
-- [The Station: A final rule for AVs and Cruise’s Kyle Vogt on why he’s ready to be CEO again](https://techcrunch.com/2022/03/14/the-station-a-final-rule-for-avs-and-cruises-kyle-vogt-on-why-hes-ready-to-be-ceo-again/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
