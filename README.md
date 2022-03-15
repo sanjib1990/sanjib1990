@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Copper Labs sparks joy for utility companies by making their meters smarter](https://techcrunch.com/2022/03/15/copper-labs-series-a/)
+- [Healthcare tech platform Doctolib reaches $6.4 billion valuation](https://techcrunch.com/2022/03/15/healthcare-tech-platform-doctolib-reaches-6-4-billion-valuation/)
+- [Staffbase raises $115M at a $1.1B valuation to help internal comms teams get their message across](https://techcrunch.com/2022/03/15/staffbase-raises-115m-at-a-1-1b-valuation-to-help-internal-comms-teams-get-their-message-across/)
 - [Perlego raises $50M to build out its vision of being the ‘Spotify for textbooks’](https://techcrunch.com/2022/03/15/perlego-raises-50m-to-build-out-its-vision-of-being-the-spotify-for-textbooks/)
 - [ChannelEngine raises $50M for an operating system that helps retailers sell through marketplaces](https://techcrunch.com/2022/03/15/channelengine-raises-50m-for-an-operating-system-that-helps-retailers-sell-through-marketplaces/)
-- [Indonesian startup GoTo to raise up to $1.1B in IPO](https://techcrunch.com/2022/03/15/indonesian-startup-goto-to-raise-up-to-1-1b-in-ipo/)
-- [6 African women CEOs discuss how they raised more than $1M in 2021](https://techcrunch.com/2022/03/15/6-african-women-ceos-discuss-how-they-raised-more-than-1m-in-2021/)
-- [Meta faces prosecution in South Africa for alleged antitrust breach](https://techcrunch.com/2022/03/15/meta-faces-prosecution-in-south-africa-for-alleged-antitrust-breach/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
