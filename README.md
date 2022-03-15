@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Elon Musk challenges Vladimir Putin to a duel](https://www.space.com/elon-musk-spacex-challenges-vladimir-putin-duel)
+- [Infrastructure bill could promote lean construction via data capture](https://techcrunch.com/2022/03/15/infrastructure-bill-could-promote-lean-construction-via-data-capture/)
+- [Bear Robotics targets restaurant staffing shortages with another $81M raise](https://techcrunch.com/2022/03/15/bear-robotics-targets-restaurant-staffing-shortages-with-another-81m-raise/)
+- [Google unveils ‘Immersive Stream for Games,’ its service that lets companies use Stadia’s tech](https://techcrunch.com/2022/03/15/google-unveils-immersive-stream-for-games-its-service-that-lets-companies-use-stadias-tech/)
 - [Apple’s Studio Display fills an obvious gap in the monitor market](https://techcrunch.com/2022/03/15/apples-studio-display-fills-an-obvious-gap-in-the-monitor-market/)
-- [TechCrunch+ roundup: Crypto tax prep, no-code survey, 4 VCs discuss how to pitch them](https://techcrunch.com/2022/03/15/techcrunch-roundup-crypto-tax-prep-no-code-survey-4-vcs-discuss-how-to-pitch-them/)
-- [NASA astronauts on spacewalk prep space station for new solar array](https://www.space.com/astronauts-spacewalk-irosa-solar-array-prep)
-- [Ukraine’s Mykhailo Fedorov talks about corporate sanctions and running a government during wartime](https://techcrunch.com/2022/03/15/ukraines-mykhailo-fedorov-talks-about-corporate-sanctions-and-running-a-government-during-wartime/)
-- [How the US Consumer Financial Protection Bureau is set to shake up BNPL in 2022](https://techcrunch.com/2022/03/15/how-the-us-consumer-financial-protection-bureau-is-set-to-shake-up-bnpl-in-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
