@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ireland’s privacy watchdog sued for inaction over ‘massive Google data breach’](https://techcrunch.com/2022/03/14/dpc-sued-google-rtb-complaint/)
+- [Vira Health gets $12M to dial up personalized menopause support](https://techcrunch.com/2022/03/14/vira-health-series-a/)
+- [All systems go for Thursday rollout of NASA&#39;s Artemis 1 moon mission](https://www.space.com/nasa-rollout-artemis1-sls-orion-ready)
 - [Russian invasion of Ukraine: How it&#39;s affecting Europe&#39;s space plans](https://www.space.com/russia-invasion-ukraine-europe-space-plans)
 - [NASA’s mega expensive moon rocket will make its public debut Thursday](https://techcrunch.com/2022/03/14/nasas-mega-expensive-moon-rocket-will-make-its-public-debut-thursday/)
-- [Daily Crunch: African mobility fintech Moove raises $105M in Series A2](https://techcrunch.com/2022/03/14/daily-crunch-african-mobility-fintech-moove-raises-105m-in-series-a2/)
-- [SoftBank turns fund for diverse entrepreneurs into an ‘evergreen’ opportunity](https://techcrunch.com/2022/03/14/softbank-opportunity-evergreen-fund/)
-- [Lyft, Uber add surcharge due to high gas prices](https://techcrunch.com/2022/03/14/lyft-uber-add-surcharge-due-to-high-gas-prices/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
