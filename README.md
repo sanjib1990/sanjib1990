@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astra reaches orbit in first mission for new customer Spaceflight Inc.](https://techcrunch.com/2022/03/15/astra-reaches-orbit-in-first-mission-for-new-customer-spaceflight-inc/)
+- [Facebook fined $18.6M over string of 2018 breaches of EU’s GDPR](https://techcrunch.com/2022/03/15/facebook-2018-breaches-dpc-decision/)
 - [Germany warns against using Kaspersky software citing ‘considerable’ cyber risk after Russia’s invasion](https://techcrunch.com/2022/03/15/germany-kaspersky-risk-invasion/)
+- [Asteroid spotted just before hitting Earth&#39;s atmosphere wows astronomers](https://www.space.com/asteroid-discovered-hours-before-earth-atmosphere-impact)
 - [Intel plans to build a $19 billion chip plant in Germany](https://techcrunch.com/2022/03/15/intel-plans-to-build-a-19-billion-chip-plant-in-germany/)
-- [All Raise, a nonprofit to increase diversity in tech, has a new CEO](https://techcrunch.com/2022/03/15/all-raise-ceo-mandela-sh-dixon/)
-- [Run:ai raises $75M for its AI platform](https://techcrunch.com/2022/03/15/runai-raises-75m-for-its-ai-optimization-and-orchestration-platform/)
-- [a16z backs Rutter’s goal of being ‘Plaid for commerce’](https://techcrunch.com/2022/03/15/a16z-backs-rutters-goal-of-being-plaid-for-commerce/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
