@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How the US Consumer Financial Protection Bureau is set to shake up BNPL in 2022](https://techcrunch.com/2022/03/15/how-the-us-consumer-financial-protection-bureau-is-set-to-shake-up-bnpl-in-2022/)
+- [Astra aces return-to-flight mission, deploys satellites for 1st time](https://www.space.com/astra-rocket-launch-satellite-deployment-first-success)
 - [How European startups are aiding Ukrainian refugees](https://techcrunch.com/2022/03/15/how-european-startups-are-aiding-ukrainian-refugees/)
 - [Google launches a new program to offer tools to select game developers on Google Play](https://techcrunch.com/2022/03/15/google-announces-a-new-program-that-will-offer-tools-to-select-game-developers-on-google-play/)
 - [NASA&#39;s Perseverance Mars rover nabs 8th rock sample on the Red Planet](https://www.space.com/perseverance-rover-collects-8th-rock-sample)
-- [When should an early-stage startup hire a full-time lawyer?](https://techcrunch.com/2022/03/15/when-should-an-early-stage-startup-hire-a-full-time-lawyer/)
-- [Astra reaches orbit in first mission for new customer Spaceflight Inc.](https://techcrunch.com/2022/03/15/astra-reaches-orbit-in-first-mission-for-new-customer-spaceflight-inc/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
