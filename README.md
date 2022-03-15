@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Will VC investment into Chinese startups slow as the country’s tech stocks shatter?](https://techcrunch.com/2022/03/15/will-vc-investment-into-chinese-startups-slow-as-the-countrys-tech-stocks-shatter/)
-- [FleetZero looks to capsize the shipping world with electric vessels serving forgotten ports](https://techcrunch.com/2022/03/15/fleetzero-looks-to-capsize-the-shipping-world-with-electric-vessels-serving-forgotten-ports/)
-- [SEC Commissioner Hester Peirce discusses what’s next for crypto regulation](https://techcrunch.com/2022/03/15/hear-sec-commissioner-hester-peirce-discuss-whats-next-for-crypto-regulation-at-defi-and-the-future-of-programmable-money/)
-- [MetaMask parent company ConsenSys raises Series D at $7B valuation](https://techcrunch.com/2022/03/15/metamask-parent-company-consensys-raises-series-d-at-7b-valuation/)
-- [Bowery is selling vertically farmed strawberries in limited quantities](https://techcrunch.com/2022/03/15/bowery-is-selling-vertically-farmed-strawberries-in-limited-quantities/)
+- [Germany warns against using Kaspersky software citing ‘considerable’ cyber risk after Russia’s invasion](https://techcrunch.com/2022/03/15/germany-kaspersky-risk-invasion/)
+- [Intel plans to build a $19 billion chip plant in Germany](https://techcrunch.com/2022/03/15/intel-plans-to-build-a-19-billion-chip-plant-in-germany/)
+- [All Raise, a nonprofit to increase diversity in tech, has a new CEO](https://techcrunch.com/2022/03/15/all-raise-ceo-mandela-sh-dixon/)
+- [Run:ai raises $75M for its AI platform](https://techcrunch.com/2022/03/15/runai-raises-75m-for-its-ai-optimization-and-orchestration-platform/)
+- [a16z backs Rutter’s goal of being ‘Plaid for commerce’](https://techcrunch.com/2022/03/15/a16z-backs-rutters-goal-of-being-plaid-for-commerce/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
