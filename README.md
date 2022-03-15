@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Russia&#39;s Ukraine invasion and space impacts: Live updates](https://www.space.com/news/live/russia-ukraine-invasion-space-impacts-updates)
+- [You can watch Astra&#39;s return-to-flight rocket launch from Alaska today. Here&#39;s how.](https://www.space.com/astra-rocket-astra-1-spaceflight-mission-launch)
+- [Ecosia has started ploughing search ads profit into green energy](https://techcrunch.com/2022/03/15/ecosia-green-energy/)
+- [Tesla raises prices across its entire EV lineup](https://techcrunch.com/2022/03/15/tesla-raises-prices-across-its-entire-ev-lineup/)
 - [Adobe updates its Experience Cloud with a focus on personalization](https://techcrunch.com/2022/03/15/adobe-updates-its-experience-cloud-with-a-focus-on-personalization/)
-- [Adobe’s Customer Journey Analytics gets new experimentation options](https://techcrunch.com/2022/03/15/adobes-customer-journey-analytics-gets-new-experimentation-options/)
-- [Zomato and Blinkit reach agreement for merger](https://techcrunch.com/2022/03/15/zomato-and-blinkit-reach-agreement-for-merger/)
-- [DeepWell wants to make gaming a bigger part of mental health treatment and self-care](https://techcrunch.com/2022/03/15/deepwell-wants-to-make-gaming-a-bigger-part-of-mental-health-treatment-and-self-care/)
-- [Cowbell raises $100M to build out its AI-based cyber insurance platform for SMBs](https://techcrunch.com/2022/03/15/cowbell-raises-100m-to-build-out-its-ai-based-cyber-insurance-platform-for-smbs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
