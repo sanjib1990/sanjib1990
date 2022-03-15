@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Copper Labs sparks joy for utility companies by making their meters smarter](https://techcrunch.com/2022/03/15/copper-labs-series-a/)
-- [Healthcare tech platform Doctolib reaches $6.4 billion valuation](https://techcrunch.com/2022/03/15/healthcare-tech-platform-doctolib-reaches-6-4-billion-valuation/)
-- [Staffbase raises $115M at a $1.1B valuation to help internal comms teams get their message across](https://techcrunch.com/2022/03/15/staffbase-raises-115m-at-a-1-1b-valuation-to-help-internal-comms-teams-get-their-message-across/)
-- [Perlego raises $50M to build out its vision of being the ‘Spotify for textbooks’](https://techcrunch.com/2022/03/15/perlego-raises-50m-to-build-out-its-vision-of-being-the-spotify-for-textbooks/)
-- [ChannelEngine raises $50M for an operating system that helps retailers sell through marketplaces](https://techcrunch.com/2022/03/15/channelengine-raises-50m-for-an-operating-system-that-helps-retailers-sell-through-marketplaces/)
+- [Zomato and Blinkit reach agreement for merger](https://techcrunch.com/2022/03/15/zomato-and-blinkit-reach-agreement-for-merger/)
+- [DeepWell wants to make gaming a bigger part of mental health treatment and self-care](https://techcrunch.com/2022/03/15/deepwell-wants-to-make-gaming-a-bigger-part-of-mental-health-treatment-and-self-care/)
+- [Cowbell raises $100M to build out its AI-based cyber insurance platform for SMBs](https://techcrunch.com/2022/03/15/cowbell-raises-100m-to-build-out-its-ai-based-cyber-insurance-platform-for-smbs/)
+- [The ElliQ eldercare robot is finally available](https://techcrunch.com/2022/03/15/the-elliq-eldercare-robot-is-finally-available/)
+- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
