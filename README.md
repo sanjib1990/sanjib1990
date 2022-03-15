@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple’s Studio Display fills an obvious gap in the monitor market](https://techcrunch.com/2022/03/15/apples-studio-display-fills-an-obvious-gap-in-the-monitor-market/)
+- [TechCrunch+ roundup: Crypto tax prep, no-code survey, 4 VCs discuss how to pitch them](https://techcrunch.com/2022/03/15/techcrunch-roundup-crypto-tax-prep-no-code-survey-4-vcs-discuss-how-to-pitch-them/)
+- [NASA astronauts on spacewalk prep space station for new solar array](https://www.space.com/astronauts-spacewalk-irosa-solar-array-prep)
+- [Ukraine’s Mykhailo Fedorov talks about corporate sanctions and running a government during wartime](https://techcrunch.com/2022/03/15/ukraines-mykhailo-fedorov-talks-about-corporate-sanctions-and-running-a-government-during-wartime/)
 - [How the US Consumer Financial Protection Bureau is set to shake up BNPL in 2022](https://techcrunch.com/2022/03/15/how-the-us-consumer-financial-protection-bureau-is-set-to-shake-up-bnpl-in-2022/)
-- [Astra aces return-to-flight mission, deploys satellites for 1st time](https://www.space.com/astra-rocket-launch-satellite-deployment-first-success)
-- [How European startups are aiding Ukrainian refugees](https://techcrunch.com/2022/03/15/how-european-startups-are-aiding-ukrainian-refugees/)
-- [Google launches a new program to offer tools to select game developers on Google Play](https://techcrunch.com/2022/03/15/google-announces-a-new-program-that-will-offer-tools-to-select-game-developers-on-google-play/)
-- [NASA&#39;s Perseverance Mars rover nabs 8th rock sample on the Red Planet](https://www.space.com/perseverance-rover-collects-8th-rock-sample)
 <!-- BLOG-POST-LIST:END -->
 
 ---
