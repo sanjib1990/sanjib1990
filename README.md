@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta faces prosecution in South Africa for alleged antitrust breach](https://techcrunch.com/2022/03/15/meta-faces-prosecution-in-south-africa-for-alleged-antitrust-breach/)
 - [Kirsten Green on selling to consumers in the metaverse: brands should “get in there”](https://techcrunch.com/2022/03/14/kirsten-green-on-selling-to-consumers-in-the-metaverse-brands-should-get-in-there/)
 - [India’s Licious raises $150 million for its fresh animal protein e-commerce platform](https://techcrunch.com/2022/03/14/indias-licious-raises-150-million-for-its-fresh-animal-protein-e-commerce-platform/)
 - [2 NASA astronauts performing spacewalk early Tuesday: Watch it live](https://www.space.com/nasa-astronauts-spacewalk-preview-march-15-2022)
 - [Bazaar raises $70 million from Tiger Global and Dragoneer to digitize Pakistan’s retail](https://techcrunch.com/2022/03/14/bazaar-raises-70-million-from-tiger-global-and-dragoneer-to-digitize-pakistans-retail/)
-- [Motto to launch a new electric bike subscription service in Paris](https://techcrunch.com/2022/03/14/motto-to-launch-a-new-electric-bike-subscription-service-in-paris/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
