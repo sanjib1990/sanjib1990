@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Station: A final rule for AVs and Cruise’s Kyle Vogt on why he’s ready to be CEO again](https://techcrunch.com/2022/03/14/the-station-a-final-rule-for-avs-and-cruises-kyle-vogt-on-why-hes-ready-to-be-ceo-again/)
+- [Astra scrubs return-to-flight rocket launch due to lightning risk](https://www.space.com/astra-rocket-launch-return-to-flight-delay)
+- [inFeedo gets $12M to help employers find out how their workforce really feels](https://techcrunch.com/2022/03/14/infeedo-gets-12m-to-help-employers-find-out-how-their-workforce-really-feels/)
 - [Ireland’s privacy watchdog sued for inaction over ‘massive Google data breach’](https://techcrunch.com/2022/03/14/dpc-sued-google-rtb-complaint/)
 - [Vira Health gets $12M to dial up personalized menopause support](https://techcrunch.com/2022/03/14/vira-health-series-a/)
-- [All systems go for Thursday rollout of NASA&#39;s Artemis 1 moon mission](https://www.space.com/nasa-rollout-artemis1-sls-orion-ready)
-- [Russian invasion of Ukraine: How it&#39;s affecting Europe&#39;s space plans](https://www.space.com/russia-invasion-ukraine-europe-space-plans)
-- [NASA’s mega expensive moon rocket will make its public debut Thursday](https://techcrunch.com/2022/03/14/nasas-mega-expensive-moon-rocket-will-make-its-public-debut-thursday/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
