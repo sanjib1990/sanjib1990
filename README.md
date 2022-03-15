@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Perlego raises $50M to build out its vision of being the ‘Spotify for textbooks’](https://techcrunch.com/2022/03/15/perlego-raises-50m-to-build-out-its-vision-of-being-the-spotify-for-textbooks/)
+- [ChannelEngine raises $50M for an operating system that helps retailers sell through marketplaces](https://techcrunch.com/2022/03/15/channelengine-raises-50m-for-an-operating-system-that-helps-retailers-sell-through-marketplaces/)
+- [Indonesian startup GoTo to raise up to $1.1B in IPO](https://techcrunch.com/2022/03/15/indonesian-startup-goto-to-raise-up-to-1-1b-in-ipo/)
+- [6 African women CEOs discuss how they raised more than $1M in 2021](https://techcrunch.com/2022/03/15/6-african-women-ceos-discuss-how-they-raised-more-than-1m-in-2021/)
 - [Meta faces prosecution in South Africa for alleged antitrust breach](https://techcrunch.com/2022/03/15/meta-faces-prosecution-in-south-africa-for-alleged-antitrust-breach/)
-- [Kirsten Green on selling to consumers in the metaverse: brands should “get in there”](https://techcrunch.com/2022/03/14/kirsten-green-on-selling-to-consumers-in-the-metaverse-brands-should-get-in-there/)
-- [India’s Licious raises $150 million for its fresh animal protein e-commerce platform](https://techcrunch.com/2022/03/14/indias-licious-raises-150-million-for-its-fresh-animal-protein-e-commerce-platform/)
-- [2 NASA astronauts performing spacewalk early Tuesday: Watch it live](https://www.space.com/nasa-astronauts-spacewalk-preview-march-15-2022)
-- [Bazaar raises $70 million from Tiger Global and Dragoneer to digitize Pakistan’s retail](https://techcrunch.com/2022/03/14/bazaar-raises-70-million-from-tiger-global-and-dragoneer-to-digitize-pakistans-retail/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
