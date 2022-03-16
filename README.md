@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The FCC wants your comments on preventing ‘digital discrimination’ in broadband availability](https://techcrunch.com/2022/03/16/the-fcc-wants-your-comments-on-preventing-digital-discrimination-in-broadband-availability/)
-- [FTC to fine CafePress for covering up 2019 data breach](https://techcrunch.com/2022/03/16/ftc-cafepress-fined-breach/)
-- [How rare are shooting stars?](https://www.space.com/how-rare-are-shooting-stars)
-- [Legal tech startups bringing law, order to fragmented industry](https://techcrunch.com/2022/03/16/legal-tech-startups-bringing-law-order-to-fragmented-industry/)
-- [LifesaverAid.org and Techfugees launch campaign to send power banks to Ukrainian refugees](https://techcrunch.com/2022/03/16/lifesaveraid-org-and-techfugees-launch-campaign-to-send-power-banks-to-ukrainian-refugees/)
+- [Fly away, little sensors! These tiny wireless devices can be scattered by the wind](https://techcrunch.com/2022/03/16/fly-away-little-sensors-these-tiny-wireless-devices-can-be-scattered-by-the-wind/)
+- [Russia’s war hits Yandex, the ‘Google of Russia’](https://techcrunch.com/2022/03/16/russia-yandex-news-vk/)
+- [The VC-backed chicken that’s changing the way farmers breed and feed their livestock](https://techcrunch.com/2022/03/16/cooks-venture-found-podcast-vc-backed-chicken/)
+- [Former NASA astronaut Scott Kelly ending Twitter fight with Russian space chief: report](https://www.space.com/scott-kelly-ending-twitter-war-russian-space-chief)
+- [Twitter’s spin on the close friends story might be on its way soon](https://techcrunch.com/2022/03/16/twitters-spin-on-the-close-friends-story-might-be-on-its-way-soon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
