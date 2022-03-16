@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [BMW’s CTO on electrification and supply chain issues](https://techcrunch.com/2022/03/16/bmws-cto-on-electrification-and-supply-chain-issues/)
+- [On This Day in Space! March 16, 1966: Gemini 8 achieves first space docking](https://www.space.com/39251-on-this-day-in-space.html)
+- [These galactic UK telescope deals will save you up to £50](https://www.space.com/amazon-uk-telescope-deals-celestron)
+- [Google I/O returns May 11 and 12, with limited in-person attendance](https://techcrunch.com/2022/03/16/google-i-o-returns-may-11-and-12-with-limited-in-person-attendance/)
 - [Bored Apes NFT project gets official ‘ApeCoin’ token](https://techcrunch.com/2022/03/16/bored-apes-nft-project-gets-official-apecoin-token/)
-- [&#39;Star Trek: Discovery&#39; season 4 inspired by &#39;Arrival&#39; for 10-C first contact in penultimate episode 12](https://www.space.com/star-trek-discovery-season-4-episode-12-review)
-- [James Webb Space Telescope&#39;s 1st view of the cosmos has scientists thrilled for more](https://www.space.com/james-webb-space-telescope-better-than-expected-image)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [Fly away, little sensors! These tiny wireless devices can be scattered by the wind](https://techcrunch.com/2022/03/16/fly-away-little-sensors-these-tiny-wireless-devices-can-be-scattered-by-the-wind/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
