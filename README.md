@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The FCC wants your comments on preventing ‘digital discrimination’ in broadband availability](https://techcrunch.com/2022/03/16/the-fcc-wants-your-comments-on-preventing-digital-discrimination-in-broadband-availability/)
 - [FTC to fine CafePress for covering up 2019 data breach](https://techcrunch.com/2022/03/16/ftc-cafepress-fined-breach/)
 - [How rare are shooting stars?](https://www.space.com/how-rare-are-shooting-stars)
 - [Legal tech startups bringing law, order to fragmented industry](https://techcrunch.com/2022/03/16/legal-tech-startups-bringing-law-order-to-fragmented-industry/)
 - [LifesaverAid.org and Techfugees launch campaign to send power banks to Ukrainian refugees](https://techcrunch.com/2022/03/16/lifesaveraid-org-and-techfugees-launch-campaign-to-send-power-banks-to-ukrainian-refugees/)
-- [Dear Sophie: Is there an easier route to L-1As and STEM O-1As?](https://techcrunch.com/2022/03/16/dear-sophie-is-there-an-easier-route-to-l-1as-and-stem-o-1as/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
