@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Flippy, meet Chippy, Chipotle’s new tortilla chip-cooking robot arm](https://techcrunch.com/2022/03/16/flippy-meet-chippy-chipotles-new-tortilla-chip-cooking-robot-arm/)
-- [Plantish fishes for restaurant partners to try plant-based salmon filets](https://techcrunch.com/2022/03/16/plantish-restaurant-plant-based-salmon-filets/)
-- [Loveseat gets comfy with new funding to expand its returned home goods marketplace](https://techcrunch.com/2022/03/16/loveseat-return-home-goods-marketplace/)
-- [Snapchat’s new feature lets creators build AR experiences for landmarks in their communities](https://techcrunch.com/2022/03/16/snapchats-custom-landmarkers-feature-lets-creators-build-ar-experiences-in-their-communities/)
-- [Nikon Z5 review](https://www.space.com/nikon-z5-review)
+- [Apple’s 2022 iPad Air elbows M1 into the lineup](https://techcrunch.com/2022/03/16/apples-2022-ipad-air-elbows-m1-into-the-lineup/)
+- [Twelve Labs makes searching inside videos simple and powerful, propelled by $5M seed round](https://techcrunch.com/2022/03/16/twelve-labs-makes-searching-inside-videos-simple-and-powerful-propelled-by-5m-seed-round/)
+- [Meta will add basic parental supervision tools to its VR headset almost three years after launch](https://techcrunch.com/2022/03/16/meta-quest-parental-controls-virtual-reality/)
+- [Instagram rolls out new safety tools for parents](https://techcrunch.com/2022/03/16/instagram-rolls-out-new-safety-tools-for-parents/)
+- [Solo AVT wants to build fully driverless heavy truck platforms](https://techcrunch.com/2022/03/16/solo-avt-heavy-truck-platforms-autonomous-freight-driverless/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
