@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How much is ‘link in bio’ real estate worth? Linktree’s new valuation says $1.3 billion](https://techcrunch.com/2022/03/16/linktree-link-in-bio-series-c-valuation/)
-- [Instacart’s new ‘Shoppable Recipes’ feature lets creators link shopping lists to their TikTok videos](https://techcrunch.com/2022/03/16/instacarts-new-shoppable-recipes-feature-lets-creators-link-shopping-lists-to-their-tiktok-videos/)
-- [If Tiger Global shows up, will there be new stripes in early-stage?](https://techcrunch.com/2022/03/16/tiger-global-pre-seed-seed/)
-- [Tesla closes Shanghai Gigafactory for two days as Covid cases spike in China](https://techcrunch.com/2022/03/16/tesla-closes-shanghai-gigafactory-for-two-days-as-covid-cases-spike-in-china/)
-- [James Webb Space Telescope spotted by Europe&#39;s Gaia spacecraft 1 million miles from Earth &lpar;photo&rpar;](https://www.space.com/james-webb-space-telescope-gaia-photo)
+- [Cruise’s Oliver Cameron and Motional’s Laura Major discuss taking AV tech from the lab to the road at TC Sessions: Mobility](https://techcrunch.com/2022/03/16/cruises-oliver-cameron-and-motionals-laura-major-discuss-taking-av-tech-from-the-lab-to-the-road-at-tc-sessions-mobility/)
+- [Namesake of NASA&#39;s sun-touching spacecraft dies at age 94](https://www.space.com/eugene-parker-solar-probe-scientist-dead)
+- [Satellites show Arctic sea ice is melting even faster than scientists realized](https://www.space.com/arctic-sea-ice-thinning-frightening-rate)
+- [ESPN’s app gets SharePlay support for co-viewing live sports over FaceTime](https://techcrunch.com/2022/03/16/espns-app-gets-shareplay-support-for-co-viewing-live-sports-over-facetime/)
+- [Worm Moon 2022: March full moon shines with planet trio](https://www.space.com/35891-march-full-moon.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
