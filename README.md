@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dear Sophie: Is there an easier route to L-1As and STEM O-1As?](https://techcrunch.com/2022/03/16/dear-sophie-is-there-an-easier-route-to-l-1as-and-stem-o-1as/)
+- [New data shows how far VCs are pulling back on US Series A, B, and C valuations](https://techcrunch.com/2022/03/16/new-data-shows-how-far-vcs-are-pulling-back-on-us-series-a-b-and-c-valuations/)
+- [TechCrunch Live is coming to Austin and here’s the speaker lineup!](https://techcrunch.com/2022/03/16/techcrunch-live-austin-texas-startup-speaker-lineup/)
 - [Cruise’s Oliver Cameron and Motional’s Laura Major discuss taking AV tech from the lab to the road at TC Sessions: Mobility](https://techcrunch.com/2022/03/16/cruises-oliver-cameron-and-motionals-laura-major-discuss-taking-av-tech-from-the-lab-to-the-road-at-tc-sessions-mobility/)
 - [Namesake of NASA&#39;s sun-touching spacecraft dies at age 94](https://www.space.com/eugene-parker-solar-probe-scientist-dead)
-- [Satellites show Arctic sea ice is melting even faster than scientists realized](https://www.space.com/arctic-sea-ice-thinning-frightening-rate)
-- [ESPN’s app gets SharePlay support for co-viewing live sports over FaceTime](https://techcrunch.com/2022/03/16/espns-app-gets-shareplay-support-for-co-viewing-live-sports-over-facetime/)
-- [Worm Moon 2022: March full moon shines with planet trio](https://www.space.com/35891-march-full-moon.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
