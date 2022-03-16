@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Space Launch System: NASA&#39;s megarocket for Artemis moon missions](https://www.space.com/33908-space-launch-system.html)
-- [&#39;Stalin-esque&#39; attitudes hold back engineering powerhouse Ukraine, says American aerospace student in Kyiv](https://www.space.com/ukraine-kyiv-american-aerospace-student-space-perspective)
-- [What would an alien &#39;Earth&#39; look like around the star next door?](https://www.space.com/earth-like-planet-alpha-centauri-hypothetical-study)
-- [Hubble Space Telescope spots eerie galaxy &#39;eye&#39; staring across the universe](https://www.space.com/hubble-space-telescope-image-galaxy-eye)
-- [&#39;Simple Relativities &lpar;Your Imagination&rpar;&#39;: Why I made this Albert Einstein homage music video](https://www.space.com/simple-relativities-albert-einstein-video-inspiration)
+- [Flippy, meet Chippy, Chipotle’s new tortilla chip-cooking robot arm](https://techcrunch.com/2022/03/16/flippy-meet-chippy-chipotles-new-tortilla-chip-cooking-robot-arm/)
+- [Plantish fishes for restaurant partners to try plant-based salmon filets](https://techcrunch.com/2022/03/16/plantish-restaurant-plant-based-salmon-filets/)
+- [Loveseat gets comfy with new funding to expand its returned home goods marketplace](https://techcrunch.com/2022/03/16/loveseat-return-home-goods-marketplace/)
+- [Snapchat’s new feature lets creators build AR experiences for landmarks in their communities](https://techcrunch.com/2022/03/16/snapchats-custom-landmarkers-feature-lets-creators-build-ar-experiences-in-their-communities/)
+- [Nikon Z5 review](https://www.space.com/nikon-z5-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
