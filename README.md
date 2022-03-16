@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ford is now using robots to operate 3D printers without human help](https://techcrunch.com/2022/03/16/ford-is-now-using-robots-to-operate-3d-printers-without-human-help/)
+- [Sokowatch rebrands to Wasoko as it raises $125M Series B from Tiger Global and Avenir](https://techcrunch.com/2022/03/16/sokowatch-rebrands-to-wasoko-as-it-raises-125m-series-b-from-tiger-global-and-avenir/)
+- [10 amazing exoplanet discoveries](https://www.space.com/amazing-exoplanet-discoveries)
+- [Luno launches investment arm to back over 200 fintech and crypto/web3 startups yearly](https://techcrunch.com/2022/03/16/luno-launches-investment-arm-to-back-over-200-fintech-and-crypto-web3-startups-yearly/)
 - [SpaceFill helps companies build flexible logistics networks](https://techcrunch.com/2022/03/16/spacefill-helps-companies-build-flexible-logistics-networks/)
-- [Quantum entanglement: A simple explanation](https://www.space.com/31933-quantum-entanglement-action-at-a-distance.html)
-- [Remote work platform Multiplier raises $60M Series B at $400M valuation](https://techcrunch.com/2022/03/15/remote-work-platform-multiplier-raises-60m-series-b-at-400m-valuation/)
-- [Kenya-based fintech 4G Capital to scale lending after raising $18.5M from Lightrock](https://techcrunch.com/2022/03/15/kenya-based-fintech-4g-capital-to-scale-lending-after-raising-18-5m-from-lightrock/)
-- [Talent.com raises $120M to take on Indeed and ZipRecruiter in mass-market job search](https://techcrunch.com/2022/03/15/talent-com-raises-120m-to-take-on-indeed-and-ziprecruiter-in-mass-market-job-search/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
