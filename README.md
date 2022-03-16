@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bored Apes NFT project gets official ‘ApeCoin’ token](https://techcrunch.com/2022/03/16/bored-apes-nft-project-gets-official-apecoin-token/)
+- [&#39;Star Trek: Discovery&#39; season 4 inspired by &#39;Arrival&#39; for 10-C first contact in penultimate episode 12](https://www.space.com/star-trek-discovery-season-4-episode-12-review)
+- [James Webb Space Telescope&#39;s 1st view of the cosmos has scientists thrilled for more](https://www.space.com/james-webb-space-telescope-better-than-expected-image)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [Fly away, little sensors! These tiny wireless devices can be scattered by the wind](https://techcrunch.com/2022/03/16/fly-away-little-sensors-these-tiny-wireless-devices-can-be-scattered-by-the-wind/)
-- [Russia’s war hits Yandex, the ‘Google of Russia’](https://techcrunch.com/2022/03/16/russia-yandex-news-vk/)
-- [The VC-backed chicken that’s changing the way farmers breed and feed their livestock](https://techcrunch.com/2022/03/16/cooks-venture-found-podcast-vc-backed-chicken/)
-- [Former NASA astronaut Scott Kelly ending Twitter fight with Russian space chief: report](https://www.space.com/scott-kelly-ending-twitter-war-russian-space-chief)
-- [Twitter’s spin on the close friends story might be on its way soon](https://techcrunch.com/2022/03/16/twitters-spin-on-the-close-friends-story-might-be-on-its-way-soon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
