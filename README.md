@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Ford is now using robots to operate 3D printers without human help](https://techcrunch.com/2022/03/16/ford-is-now-using-robots-to-operate-3d-printers-without-human-help/)
-- [Sokowatch rebrands to Wasoko as it raises $125M Series B from Tiger Global and Avenir](https://techcrunch.com/2022/03/16/sokowatch-rebrands-to-wasoko-as-it-raises-125m-series-b-from-tiger-global-and-avenir/)
-- [10 amazing exoplanet discoveries](https://www.space.com/amazing-exoplanet-discoveries)
-- [Luno launches investment arm to back over 200 fintech and crypto/web3 startups yearly](https://techcrunch.com/2022/03/16/luno-launches-investment-arm-to-back-over-200-fintech-and-crypto-web3-startups-yearly/)
-- [SpaceFill helps companies build flexible logistics networks](https://techcrunch.com/2022/03/16/spacefill-helps-companies-build-flexible-logistics-networks/)
+- [Space Launch System: NASA&#39;s megarocket for Artemis moon missions](https://www.space.com/33908-space-launch-system.html)
+- [&#39;Stalin-esque&#39; attitudes hold back engineering powerhouse Ukraine, says American aerospace student in Kyiv](https://www.space.com/ukraine-kyiv-american-aerospace-student-space-perspective)
+- [What would an alien &#39;Earth&#39; look like around the star next door?](https://www.space.com/earth-like-planet-alpha-centauri-hypothetical-study)
+- [Hubble Space Telescope spots eerie galaxy &#39;eye&#39; staring across the universe](https://www.space.com/hubble-space-telescope-image-galaxy-eye)
+- [&#39;Simple Relativities &lpar;Your Imagination&rpar;&#39;: Why I made this Albert Einstein homage music video](https://www.space.com/simple-relativities-albert-einstein-video-inspiration)
 <!-- BLOG-POST-LIST:END -->
 
 ---
