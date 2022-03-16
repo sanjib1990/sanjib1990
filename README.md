@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mercedes-Benz shows off the interior of the 2023 EQS SUV](https://techcrunch.com/2022/03/15/mercedes-benz-shows-off-the-interior-of-the-2023-eqs-suv/)
+- [Mark Zuckerberg says NFTs are coming to Instagram soon](https://techcrunch.com/2022/03/15/instagram-nfts/)
+- [Cadillac will offer two new features to select Super Cruise drivers this summer](https://techcrunch.com/2022/03/15/cadillac-will-offer-two-new-features-to-select-super-cruise-drivers-this-summer/)
 - [NASA&#39;s Mars helicopter Ingenuity to keep flying through September &lpar;at least&rpar;](https://www.space.com/mars-helicopter-ingenuity-flight-september)
 - [Beat the early-bird deadline to save $300 at TC Sessions: Mobility 2022](https://techcrunch.com/2022/03/15/beat-the-early-bird-deadline-to-save-300-at-tc-sessions-mobility-2022/)
-- [Daily Crunch: Former Metamates go from zero to unicorn with $200M crypto investment led by a16z](https://techcrunch.com/2022/03/15/daily-crunch-former-metamates-go-from-zero-to-unicorn-with-200m-crypto-investment-led-by-a16z/)
-- [Bird’s Q4 revenues beat expectations, but investors don’t love its conservative 2022 growth forecast](https://techcrunch.com/2022/03/15/birds-q4-revenues-beat-expectations-but-investors-dont-love-its-conservative-2022-growth-forecast/)
-- [Startup banking service Mercury jumps into debt lending to take on Silicon Valley Bank](https://techcrunch.com/2022/03/15/startup-banking-service-mercury-jumps-into-debt-lending-to-take-on-silicon-valley-bank/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
