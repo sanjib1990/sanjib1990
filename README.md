@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [FTC to fine CafePress for covering up 2019 data breach](https://techcrunch.com/2022/03/16/ftc-cafepress-fined-breach/)
+- [How rare are shooting stars?](https://www.space.com/how-rare-are-shooting-stars)
+- [Legal tech startups bringing law, order to fragmented industry](https://techcrunch.com/2022/03/16/legal-tech-startups-bringing-law-order-to-fragmented-industry/)
+- [LifesaverAid.org and Techfugees launch campaign to send power banks to Ukrainian refugees](https://techcrunch.com/2022/03/16/lifesaveraid-org-and-techfugees-launch-campaign-to-send-power-banks-to-ukrainian-refugees/)
 - [Dear Sophie: Is there an easier route to L-1As and STEM O-1As?](https://techcrunch.com/2022/03/16/dear-sophie-is-there-an-easier-route-to-l-1as-and-stem-o-1as/)
-- [New data shows how far VCs are pulling back on US Series A, B, and C valuations](https://techcrunch.com/2022/03/16/new-data-shows-how-far-vcs-are-pulling-back-on-us-series-a-b-and-c-valuations/)
-- [TechCrunch Live is coming to Austin and here’s the speaker lineup!](https://techcrunch.com/2022/03/16/techcrunch-live-austin-texas-startup-speaker-lineup/)
-- [Cruise’s Oliver Cameron and Motional’s Laura Major discuss taking AV tech from the lab to the road at TC Sessions: Mobility](https://techcrunch.com/2022/03/16/cruises-oliver-cameron-and-motionals-laura-major-discuss-taking-av-tech-from-the-lab-to-the-road-at-tc-sessions-mobility/)
-- [Namesake of NASA&#39;s sun-touching spacecraft dies at age 94](https://www.space.com/eugene-parker-solar-probe-scientist-dead)
 <!-- BLOG-POST-LIST:END -->
 
 ---
