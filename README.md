@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Quantum entanglement: A simple explanation](https://www.space.com/31933-quantum-entanglement-action-at-a-distance.html)
 - [Remote work platform Multiplier raises $60M Series B at $400M valuation](https://techcrunch.com/2022/03/15/remote-work-platform-multiplier-raises-60m-series-b-at-400m-valuation/)
 - [Kenya-based fintech 4G Capital to scale lending after raising $18.5M from Lightrock](https://techcrunch.com/2022/03/15/kenya-based-fintech-4g-capital-to-scale-lending-after-raising-18-5m-from-lightrock/)
 - [Talent.com raises $120M to take on Indeed and ZipRecruiter in mass-market job search](https://techcrunch.com/2022/03/15/talent-com-raises-120m-to-take-on-indeed-and-ziprecruiter-in-mass-market-job-search/)
 - [Indonesian earned wage access platform Wagely raises $8.3M as it expands into Bangladesh](https://techcrunch.com/2022/03/15/indonesian-earned-wage-access-platform-wagely-raises-8-3m-as-it-expands-into-bangladesh/)
-- [Well…Facebook has a TikTok now](https://techcrunch.com/2022/03/15/well-facebook-has-a-tiktok-now/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
