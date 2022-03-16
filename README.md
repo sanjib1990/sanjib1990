@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Well…Facebook has a TikTok now](https://techcrunch.com/2022/03/15/well-facebook-has-a-tiktok-now/)
 - [Mercedes-Benz shows off the interior of the 2023 EQS SUV](https://techcrunch.com/2022/03/15/mercedes-benz-shows-off-the-interior-of-the-2023-eqs-suv/)
 - [Mark Zuckerberg says NFTs are coming to Instagram soon](https://techcrunch.com/2022/03/15/instagram-nfts/)
 - [Cadillac will offer two new features to select Super Cruise drivers this summer](https://techcrunch.com/2022/03/15/cadillac-will-offer-two-new-features-to-select-super-cruise-drivers-this-summer/)
 - [NASA&#39;s Mars helicopter Ingenuity to keep flying through September &lpar;at least&rpar;](https://www.space.com/mars-helicopter-ingenuity-flight-september)
-- [Beat the early-bird deadline to save $300 at TC Sessions: Mobility 2022](https://techcrunch.com/2022/03/15/beat-the-early-bird-deadline-to-save-300-at-tc-sessions-mobility-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
