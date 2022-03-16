@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Kenya-based fintech 4G Capital to scale lending after raising $18.5M from Lightrock](https://techcrunch.com/2022/03/15/kenya-based-fintech-4g-capital-to-scale-lending-after-raising-18-5m-from-lightrock/)
+- [Talent.com raises $120M to take on Indeed and ZipRecruiter in mass-market job search](https://techcrunch.com/2022/03/15/talent-com-raises-120m-to-take-on-indeed-and-ziprecruiter-in-mass-market-job-search/)
 - [Indonesian earned wage access platform Wagely raises $8.3M as it expands into Bangladesh](https://techcrunch.com/2022/03/15/indonesian-earned-wage-access-platform-wagely-raises-8-3m-as-it-expands-into-bangladesh/)
 - [Well…Facebook has a TikTok now](https://techcrunch.com/2022/03/15/well-facebook-has-a-tiktok-now/)
 - [Mercedes-Benz shows off the interior of the 2023 EQS SUV](https://techcrunch.com/2022/03/15/mercedes-benz-shows-off-the-interior-of-the-2023-eqs-suv/)
-- [Mark Zuckerberg says NFTs are coming to Instagram soon](https://techcrunch.com/2022/03/15/instagram-nfts/)
-- [Cadillac will offer two new features to select Super Cruise drivers this summer](https://techcrunch.com/2022/03/15/cadillac-will-offer-two-new-features-to-select-super-cruise-drivers-this-summer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
