@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MeliBio’s honey production, minus the bee, will have you buzzing](https://techcrunch.com/2022/03/17/melibios-seed-honey-production-minus-the-bee/)
+- [Getir is now worth nearly $12 billion after raising another $768 million](https://techcrunch.com/2022/03/17/getir-is-now-worth-nearly-12-billion-after-raising-another-768-million/)
+- [Profishop banks $35M from Tiger Global for its ‘just in time’ B2B supply storefront](https://techcrunch.com/2022/03/17/profishop-banks-35m-from-tiger-global-for-its-just-in-time-b2b-supply-storefront/)
+- [Lego space deals: discounts on spaceships, space stations and NASA kits](https://www.space.com/lego-space-deals)
 - [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates)
-- [Russia&#39;s Ukraine invasion and space impacts: Live updates](https://www.space.com/news/live/russia-ukraine-invasion-space-impacts-updates)
-- [Nikon D7500 review](https://www.space.com/nikon-d7500-camera-review)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [On This Day in Space! March 17, 1958: U.S. launches Vanguard 1 satellite](https://www.space.com/39251-on-this-day-in-space.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
