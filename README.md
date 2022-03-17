@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [4 eVTOL trends moving the air taxi industry closer to takeoff](https://techcrunch.com/2022/03/17/4-evtol-trends-moving-the-air-taxi-industry-closer-to-takeoff/)
+- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates)
+- [Elden Ring made me a From Software believer](https://techcrunch.com/2022/03/17/elden-ring-review-from-software-gaming-experience/)
 - [Hints of intriguing diversity seen in super-energetic &#39;fast radio bursts&#39;](https://www.space.com/fast-radio-bursts-different-populations)
 - [The gyms have reopened, but investors are still betting on Hydrow’s home rower](https://techcrunch.com/2022/03/17/the-gyms-have-reopened-but-investors-are-still-betting-on-hydrows-home-rower/)
-- [Meta to test new tools to give brands control over ad placement on its platforms later this year](https://techcrunch.com/2022/03/17/meta-test-tools-brands-control-over-ad-placement-platform/)
-- [To Servi man](https://techcrunch.com/2022/03/17/to-servi-man/)
-- [Elegoo Mars 2 Pro review: a pint-sized planetary printer](https://www.space.com/elegoo-mars-2-pro-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
