@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Big Cabal Media, parent company of TechCabal and Zikoko, raises $2.3M seed funding](https://techcrunch.com/2022/03/17/big-cabal-media-parent-company-of-techcabal-and-zikoko-raises-2-3m-seed-funding/)
+- [Block backs Japanese fintech startup Kyash in $41.2M round](https://techcrunch.com/2022/03/17/block-backs-japanese-fintech-startup-kyash-in-41-2m-round/)
+- [Payrails emerges from stealth with $6.4M led by a16z to build the OS for payments](https://techcrunch.com/2022/03/17/payrails-emerges-from-stealth-with-6-4m-led-by-a16z-to-build-the-os-for-payments/)
 - [Tech CEOs to face faster criminal liability under UK online safety law](https://techcrunch.com/2022/03/16/online-safety-bill-parliament/)
 - [Ukraine’s president just signed a law to legalize crypto, as digital donations roll in](https://techcrunch.com/2022/03/16/ukraines-president-just-signed-a-law-to-legalize-crypto-as-digital-donations-roll-in/)
-- [Tortoise co-founder Dmitry Shevelenko: ‘You can’t do too many things at the same time’](https://techcrunch.com/2022/03/16/tortoise-co-founder-dmitry-shevelenko-you-cant-do-too-many-things-at-the-same-time/)
-- [Daily Crunch: B2B marketplace Sokowatch raises $125M Series B, rebrands as ‘Wasoko’](https://techcrunch.com/2022/03/16/daily-crunch-b2b-marketplace-sokowatch-raises-125m-series-b-rebrands-as-wasoko/)
-- [Meta takes down deepfake of Ukraine’s President Zelensky surrendering](https://techcrunch.com/2022/03/16/facebook-zelensky-deepfake/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
