@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Android 13 makes push notifications opt-in](https://techcrunch.com/2022/03/17/google-launches-android-13-developer-preview-2-psuh-notifications-opt-in/)
+- [Tile launches its anti-stalking safety feature in its mobile app](https://techcrunch.com/2022/03/17/tile-launches-its-anti-stalking-safety-feature-in-its-mobile-app/)
+- [Amie is a new calendar app with a social twist](https://techcrunch.com/2022/03/17/amie-is-a-new-calendar-app-with-a-social-twist/)
+- [How Lagrange points solved one of physics&#39; biggest problems](https://www.space.com/lagrange-points-solve-major-physics-problem)
 - [Paradigm and a16z back Ethereum scaling startup Optimism at $1.65B valuation](https://techcrunch.com/2022/03/17/paradigm-and-a16z-back-ethereum-scaling-startup-optimism-at-1-65b-valuation/)
-- [Google discovers threat actor working as an ‘initial access broker’ for Conti ransomware hackers](https://techcrunch.com/2022/03/17/google-exotic-lily-conti-ransomware/)
-- [Face-swapping app Reface pulls out of Russia after users reject anti-war campaign](https://techcrunch.com/2022/03/17/reface-exits-russia/)
-- [Maserati to bring six EVs to market by 2025](https://techcrunch.com/2022/03/17/maserati-launch-six-evs-to-market-by-2025/)
-- [The Worm Moon will shine before dawn Friday. It&#39;s the last full moon of winter 2022.](https://www.space.com/worm-full-moon-march-2022-rises-tonight)
 <!-- BLOG-POST-LIST:END -->
 
 ---
