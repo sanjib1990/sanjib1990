@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hints of intriguing diversity seen in super-energetic &#39;fast radio bursts&#39;](https://www.space.com/fast-radio-bursts-different-populations)
+- [The gyms have reopened, but investors are still betting on Hydrow’s home rower](https://techcrunch.com/2022/03/17/the-gyms-have-reopened-but-investors-are-still-betting-on-hydrows-home-rower/)
+- [Meta to test new tools to give brands control over ad placement on its platforms later this year](https://techcrunch.com/2022/03/17/meta-test-tools-brands-control-over-ad-placement-platform/)
+- [To Servi man](https://techcrunch.com/2022/03/17/to-servi-man/)
 - [Elegoo Mars 2 Pro review: a pint-sized planetary printer](https://www.space.com/elegoo-mars-2-pro-review)
-- [Following suicides and lawsuits, Snapchat restricts apps building on its platform with new policies](https://techcrunch.com/2022/03/17/following-suicides-and-lawsuits-snapchat-restricts-apps-building-on-its-platform-with-new-policies/)
-- [&#39;Star Trek: Discovery&#39; finishes Season 4 with a disappointing finale. Again.](https://www.space.com/star-trek-discovery-season-4-episode-13-review)
-- [Satellite photo shows word &#39;children&#39; in front of now-destroyed Ukrainian theater](https://www.space.com/russia-ukraine-invasion-theater-satellite-photos)
-- [How Chicago is changing who raises early-stage venture capital](https://techcrunch.com/2022/03/17/how-chicago-is-changing-who-raises-early-stage-venture-capital/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
