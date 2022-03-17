@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [MeliBio’s honey production, minus the bee, will have you buzzing](https://techcrunch.com/2022/03/17/melibios-seed-honey-production-minus-the-bee/)
-- [Getir is now worth nearly $12 billion after raising another $768 million](https://techcrunch.com/2022/03/17/getir-is-now-worth-nearly-12-billion-after-raising-another-768-million/)
-- [Profishop banks $35M from Tiger Global for its ‘just in time’ B2B supply storefront](https://techcrunch.com/2022/03/17/profishop-banks-35m-from-tiger-global-for-its-just-in-time-b2b-supply-storefront/)
-- [Lego space deals: discounts on spaceships, space stations and NASA kits](https://www.space.com/lego-space-deals)
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates)
+- [Dorian’s no-code, interactive storytelling app turns fiction writers into game developers](https://techcrunch.com/2022/03/17/dorian-interactive-storytelling-fan-fiction/)
+- [Google launches new tools to help businesses optimize their delivery operations](https://techcrunch.com/2022/03/17/google-launches-new-tools-to-help-businesses-optimize-their-delivery-operations/)
+- [Mac Studio review: emerging from the Mac’s midlife crisis](https://techcrunch.com/2022/03/17/mac-studio-review/)
+- [Arcol aims to do for building design what Figma did for UI design](https://techcrunch.com/2022/03/17/arcol-aims-to-do-for-building-design-what-figma-did-for-ui-design/)
+- [Galion.exe is a new Paris-based seed fund](https://techcrunch.com/2022/03/17/galion-exe-is-a-new-paris-based-seed-fund/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
