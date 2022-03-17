@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Webb Begins Multi-Instrument Alignment](https://blogs.nasa.gov/webb/2022/03/17/webb-begins-multi-instrument-alignment/)
+- [Daily Crunch: $8.5B Amazon-MGM merger will bring thousands of titles to Prime Video](https://techcrunch.com/2022/03/17/daily-crunch-8-5b-amazon-mgm-merger-will-bring-thousands-of-titles-to-prime-video/)
 - [It&#39;s rolling! NASA&#39;s Artemis 1 moon mission begins journey to the launch pad](https://www.space.com/nasa-artemis-1-moon-mission-rollout-launch-pad)
 - [How to hire great engineers when you don’t have any technical expertise](https://techcrunch.com/2022/03/17/how-to-hire-great-engineers-when-you-dont-have-any-technical-expertise/)
 - [PayPal expands services to allow users to send money to Ukrainians](https://techcrunch.com/2022/03/17/paypal-allow-customers-send-money-ukrainians/)
-- [Flickr is paywalling the ability to upload NSFW photos](https://techcrunch.com/2022/03/17/flickr-paywall-nsfw-photos/)
-- [Injectsense collects $1.7M grant for its eye implant smaller than a grain of rice](https://techcrunch.com/2022/03/17/injectsense-collects-1-7m-grant-for-its-eye-implant-smaller-than-a-grain-of-rice/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
