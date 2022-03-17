@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tech CEOs to face faster criminal liability under UK online safety law](https://techcrunch.com/2022/03/16/online-safety-bill-parliament/)
 - [Ukraine’s president just signed a law to legalize crypto, as digital donations roll in](https://techcrunch.com/2022/03/16/ukraines-president-just-signed-a-law-to-legalize-crypto-as-digital-donations-roll-in/)
 - [Tortoise co-founder Dmitry Shevelenko: ‘You can’t do too many things at the same time’](https://techcrunch.com/2022/03/16/tortoise-co-founder-dmitry-shevelenko-you-cant-do-too-many-things-at-the-same-time/)
 - [Daily Crunch: B2B marketplace Sokowatch raises $125M Series B, rebrands as ‘Wasoko’](https://techcrunch.com/2022/03/16/daily-crunch-b2b-marketplace-sokowatch-raises-125m-series-b-rebrands-as-wasoko/)
 - [Meta takes down deepfake of Ukraine’s President Zelensky surrendering](https://techcrunch.com/2022/03/16/facebook-zelensky-deepfake/)
-- [BMW’s CTO on electrification and supply chain issues](https://techcrunch.com/2022/03/16/bmws-cto-on-electrification-and-supply-chain-issues/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
