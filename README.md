@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Dorian’s no-code, interactive storytelling app turns fiction writers into game developers](https://techcrunch.com/2022/03/17/dorian-interactive-storytelling-fan-fiction/)
-- [Google launches new tools to help businesses optimize their delivery operations](https://techcrunch.com/2022/03/17/google-launches-new-tools-to-help-businesses-optimize-their-delivery-operations/)
-- [Mac Studio review: emerging from the Mac’s midlife crisis](https://techcrunch.com/2022/03/17/mac-studio-review/)
-- [Arcol aims to do for building design what Figma did for UI design](https://techcrunch.com/2022/03/17/arcol-aims-to-do-for-building-design-what-figma-did-for-ui-design/)
-- [Galion.exe is a new Paris-based seed fund](https://techcrunch.com/2022/03/17/galion-exe-is-a-new-paris-based-seed-fund/)
+- [Paradigm and a16z back Ethereum scaling startup Optimism at $1.65B valuation](https://techcrunch.com/2022/03/17/paradigm-and-a16z-back-ethereum-scaling-startup-optimism-at-1-65b-valuation/)
+- [Google discovers threat actor working as an ‘initial access broker’ for Conti ransomware hackers](https://techcrunch.com/2022/03/17/google-exotic-lily-conti-ransomware/)
+- [Face-swapping app Reface pulls out of Russia after users reject anti-war campaign](https://techcrunch.com/2022/03/17/reface-exits-russia/)
+- [Maserati to bring six EVs to market by 2025](https://techcrunch.com/2022/03/17/maserati-launch-six-evs-to-market-by-2025/)
+- [The Worm Moon will shine before dawn Friday. It&#39;s the last full moon of winter 2022.](https://www.space.com/worm-full-moon-march-2022-rises-tonight)
 <!-- BLOG-POST-LIST:END -->
 
 ---
