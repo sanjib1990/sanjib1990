@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [4 eVTOL trends moving the air taxi industry closer to takeoff](https://techcrunch.com/2022/03/17/4-evtol-trends-moving-the-air-taxi-industry-closer-to-takeoff/)
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates)
-- [Elden Ring made me a From Software believer](https://techcrunch.com/2022/03/17/elden-ring-review-from-software-gaming-experience/)
-- [Hints of intriguing diversity seen in super-energetic &#39;fast radio bursts&#39;](https://www.space.com/fast-radio-bursts-different-populations)
-- [The gyms have reopened, but investors are still betting on Hydrow’s home rower](https://techcrunch.com/2022/03/17/the-gyms-have-reopened-but-investors-are-still-betting-on-hydrows-home-rower/)
+- [It&#39;s rolling! NASA&#39;s Artemis 1 moon mission begins journey to the launch pad](https://www.space.com/nasa-artemis-1-moon-mission-rollout-launch-pad)
+- [How to hire great engineers when you don’t have any technical expertise](https://techcrunch.com/2022/03/17/how-to-hire-great-engineers-when-you-dont-have-any-technical-expertise/)
+- [PayPal expands services to allow users to send money to Ukrainians](https://techcrunch.com/2022/03/17/paypal-allow-customers-send-money-ukrainians/)
+- [Flickr is paywalling the ability to upload NSFW photos](https://techcrunch.com/2022/03/17/flickr-paywall-nsfw-photos/)
+- [Injectsense collects $1.7M grant for its eye implant smaller than a grain of rice](https://techcrunch.com/2022/03/17/injectsense-collects-1-7m-grant-for-its-eye-implant-smaller-than-a-grain-of-rice/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
