@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Saturn shines with Venus and Mars before dawn this month. Here&#39;s where and when.](https://www.space.com/saturn-venus-mars-march-2022-guide)
+- [Best Lego space sets 2022: NASA Lego sets, Marvel spaceships, and more](https://www.space.com/best-lego-space-sets)
+- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
+- [Learn how to land your first investor from Sequoia’s Jess Lee at TC Early Stage](https://techcrunch.com/2022/03/18/learn-how-to-land-your-first-investor-from-sequoias-jess-lee-at-tc-early-stage/)
 - [When it comes to growth marketing, ‘so much of CRO is psychological’](https://techcrunch.com/2022/03/18/when-it-comes-to-growth-marketing-so-much-of-cro-is-psychological/)
-- [When raising at a 40x multiple makes sense](https://techcrunch.com/2022/03/18/when-raising-at-a-40x-multiple-makes-sense/)
-- [Is a motorized telescope worth the cost?](https://www.space.com/is-a-motorized-telescope-worth-the-cost)
-- [What Shift’s acquisition of Fair says about the online used car market](https://techcrunch.com/2022/03/18/shift-acquires-fair-technologies-used-car-e-commerce-platform/)
-- [Series B is the attention-seeking middle child of financing rounds](https://techcrunch.com/2022/03/18/series-b-2022-financing-rounds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
