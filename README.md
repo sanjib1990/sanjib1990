@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pete Davidson won&#39;t launch to space with Jeff Bezos&#39; Blue Origin after all](https://www.space.com/pete-davidson-not-launching-blue-origin-rocket)
+- [Save £35 on a near 2000-piece Guardians Of The Galaxy Lego spaceship](https://www.space.com/save-35-pounds-guardians-of-the-galaxy-lego-spaceship-deal-uk)
 - [Hence secures $1.8M seed to grow its legal services sourcing technology](https://techcrunch.com/2022/03/18/hence-secures-1-8m-seed-to-grow-its-legal-services-sourcing-technology/)
+- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates)
 - [Meta has a new scam ads problem down under](https://techcrunch.com/2022/03/18/meta-scam-ads-accc/)
-- [The Expert jumps into home goods e-commerce](https://techcrunch.com/2022/03/18/interior-design-the-expert-e-commerce-home-goods-series-a/)
-- [Sleek wants to be the last shopping check-out form you ever fill out](https://techcrunch.com/2022/03/18/sleek-wants-to-be-the-last-shopping-check-out-form-you-ever-fill-out/)
-- [Everything we know about Moon Knight: release date, where to stream, cast, and trailers](https://www.space.com/moon-knight-streaming-guide)
 <!-- BLOG-POST-LIST:END -->
 
 ---
