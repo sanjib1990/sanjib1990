@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Unlocking inclusion for women of color in web3](https://techcrunch.com/2022/03/18/unlocking-inclusion-for-women-of-color-in-web3/)
+- [DigiLocker, India’s app for issuance and verification of documents, tops 100 million users](https://techcrunch.com/2022/03/18/digilocker/)
+- [GM is buying out Softbank’s stake in autonomous vehicle unit Cruise](https://techcrunch.com/2022/03/18/gm-buys-softbank-stake-in-self-driving-car-unit-cruise/)
 - [TechCrunch+ roundup: eVTOL takes off, pivoting with agility, when to hire a lawyer](https://techcrunch.com/2022/03/18/techcrunch-roundup-evtol-takes-off-pivoting-with-agility-when-to-hire-a-lawyer/)
 - [Survival tips for startup founders living through their first market correction](https://techcrunch.com/2022/03/18/tips-for-startup-founders-who-are-living-through-their-first-market-correction/)
-- [ClearBank, a UK banking rails provider, raises $230M from Apax to expand into Europe and the US](https://techcrunch.com/2022/03/18/clearbank-a-uk-banking-rails-provider-raises-230m-from-apax-to-expand-into-europe-and-the-u-s/)
-- [Learn what startups strategic mobility investors are seeking at TC Sessions: Mobility](https://techcrunch.com/2022/03/18/learn-what-startups-strategic-mobility-investors-are-seeking-at-tc-sessions-mobility/)
-- [3 Russian cosmonauts arrive at space station after 3.5-hour orbital chase &lpar;video&rpar;](https://www.space.com/russian-cosmonauts-arrive-space-station-march-2022)
 <!-- BLOG-POST-LIST:END -->
 
 ---
