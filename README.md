@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [DeFi and the Future of Programmable goes online this week — register today!](https://techcrunch.com/2022/03/18/defi-and-the-future-of-programmable-goes-online-this-week-register-today/)
+- [Volta Labs grabs $20 million to address a growing genomics bottleneck](https://techcrunch.com/2022/03/18/volta-labs-grabs-20-million-to-address-a-growing-genomics-bottleneck/)
+- [2 SpaceX astronaut launches to the space station delayed by a few days](https://www.space.com/spacex-ax-1-crew-4-launch-delays)
+- [Google confirms Maps is down for some users, says it’s working on a fix](https://techcrunch.com/2022/03/18/google-confirms-maps-is-down-for-some-users-says-its-working-on-a-fix/)
+- [Europe&#39;s Mars rover now unlikely to launch before 2026 after Russia&#39;s war on Ukraine](https://www.space.com/exomars-mars-rover-europe-russia-ukraine-delays)
 - [Russian search giant Yandex tells investors it’s looking for a media exit](https://techcrunch.com/2022/03/18/russian-search-giant-yandex-tells-investors-its-looking-for-a-media-exit/)
-- [On This Day in Space! March 18, 1980: Soviet rocket explosion kills 48 people](https://www.space.com/39251-on-this-day-in-space.html)
-- [Study: 30% of Log4Shell instances remain vulnerable](https://techcrunch.com/2022/03/18/study-30-of-log4shell-instances-remain-vulnerable/)
-- [CISA, FBI warn of threats to US satellite networks after Viasat cyberattack](https://techcrunch.com/2022/03/18/cisa-fbi-satellite-networks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
