@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ClearBank, a UK banking rails provider, raises $230M from Apax to expand into Europe and the U.S.](https://techcrunch.com/2022/03/18/clearbank-a-uk-banking-rails-provider-raises-230m-from-apax-to-expand-into-europe-and-the-u-s/)
+- [Learn what startups strategic mobility investors are seeking at TC Sessions: Mobility](https://techcrunch.com/2022/03/18/learn-what-startups-strategic-mobility-investors-are-seeking-at-tc-sessions-mobility/)
+- [3 Russian cosmonauts arrive at space station after 3.5-hour orbital chase &lpar;video&rpar;](https://www.space.com/russian-cosmonauts-arrive-space-station-march-2022)
+- [Zendesk’s latest problem is an activist investor](https://techcrunch.com/2022/03/18/zendesks-latest-problem-is-an-activist-investor/)
 - [Volta Labs grabs $20 million to address a growing genomics bottleneck](https://techcrunch.com/2022/03/18/volta-labs-grabs-20-million-to-address-a-growing-genomics-bottleneck/)
-- [2 SpaceX astronaut launches to the space station delayed by a few days](https://www.space.com/spacex-ax-1-crew-4-launch-delays)
-- [Google confirms Maps is down for some users, says it’s working on a fix](https://techcrunch.com/2022/03/18/google-confirms-maps-is-down-for-some-users-says-its-working-on-a-fix/)
-- [Europe&#39;s Mars rover now unlikely to launch before 2026 after Russia&#39;s war on Ukraine](https://www.space.com/exomars-mars-rover-europe-russia-ukraine-delays)
-- [Russian search giant Yandex tells investors it’s looking for a media exit](https://techcrunch.com/2022/03/18/russian-search-giant-yandex-tells-investors-its-looking-for-a-media-exit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
