@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [ClearBank, a UK banking rails provider, raises $230M from Apax to expand into Europe and the U.S.](https://techcrunch.com/2022/03/18/clearbank-a-uk-banking-rails-provider-raises-230m-from-apax-to-expand-into-europe-and-the-u-s/)
+- [TechCrunch+ roundup: eVTOL takes off, pivoting with agility, when to hire a lawyer](https://techcrunch.com/2022/03/18/techcrunch-roundup-evtol-takes-off-pivoting-with-agility-when-to-hire-a-lawyer/)
+- [Survival tips for startup founders living through their first market correction](https://techcrunch.com/2022/03/18/tips-for-startup-founders-who-are-living-through-their-first-market-correction/)
+- [ClearBank, a UK banking rails provider, raises $230M from Apax to expand into Europe and the US](https://techcrunch.com/2022/03/18/clearbank-a-uk-banking-rails-provider-raises-230m-from-apax-to-expand-into-europe-and-the-u-s/)
 - [Learn what startups strategic mobility investors are seeking at TC Sessions: Mobility](https://techcrunch.com/2022/03/18/learn-what-startups-strategic-mobility-investors-are-seeking-at-tc-sessions-mobility/)
 - [3 Russian cosmonauts arrive at space station after 3.5-hour orbital chase &lpar;video&rpar;](https://www.space.com/russian-cosmonauts-arrive-space-station-march-2022)
-- [Zendesk’s latest problem is an activist investor](https://techcrunch.com/2022/03/18/zendesks-latest-problem-is-an-activist-investor/)
-- [Volta Labs grabs $20 million to address a growing genomics bottleneck](https://techcrunch.com/2022/03/18/volta-labs-grabs-20-million-to-address-a-growing-genomics-bottleneck/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
