@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Porsche is turning its mid-engine 718 roadster into an EV by 2025](https://techcrunch.com/2022/03/18/porsche-is-turning-its-mid-engine-718-roadster-into-an-ev-by-2025/)
+- [Porsche to build out its own network of EV charging stations](https://techcrunch.com/2022/03/18/porsche-builds-ev-charging-network/)
 - [Why aren’t VCs funding more startups focused on menopause?](https://techcrunch.com/2022/03/17/menopause-vc/)
 - [3 Russian cosmonauts launching to space station Friday: Watch live](https://www.space.com/russian-cosmonaut-launch-space-station-march-2022-preview)
 - [Photos: NASA rolls Artemis 1 moon mission to the launch pad for 1st time](https://www.space.com/nasa-artemis-1-moon-mission-rollout-photos)
-- [Don’t buy a breach or a bad reputation: A more effective approach to M&amp;A due diligence](https://techcrunch.com/2022/03/17/dont-buy-a-breach-or-a-bad-reputation-a-more-effective-approach-to-ma-due-diligence/)
-- [Webb Begins Multi-Instrument Alignment](https://blogs.nasa.gov/webb/2022/03/17/webb-begins-multi-instrument-alignment/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
