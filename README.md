@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Apple M1 Ultra &amp; NUMA - Computerphile](https://www.youtube.com/watch?v=yG1m7oGZC48)
 - [How MIT OpenCourseWare and MITx helped Air Force veteran soar](https://www.youtube.com/watch?v=bqBH2pq9fpA)
 - [Time… a programmer&#39;s worst enemy // The Code Report](https://www.youtube.com/watch?v=iMVgvkVJuDI)
 - [10 Design Patterns Explained in 10 Minutes](https://www.youtube.com/watch?v=tv-_1er1mWI)
 - [my kids built a HACKING computer!! &lpar;i almost died&rpar;](https://www.youtube.com/watch?v=GMOoXz20VZU)
-- [if....and...or.....NOT!!! &lpar;Python Logical Operators&rpar; // EP 6](https://www.youtube.com/watch?v=nD1REhS6e3Y)
 <!-- YOUTUBE:END -->
 
 ---
