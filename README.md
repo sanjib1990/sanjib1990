@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch Experts: 3 articles on growth marketing and software development](https://techcrunch.com/2022/03/18/techcrunch-experts-3-articles-on-growth-marketing-and-software-development/)
+- [Daily Crunch: Porsche announces plans to build a global network of EV charging stations](https://techcrunch.com/2022/03/18/daily-crunch-porsche-announces-plans-to-build-global-network-of-ev-charging-stations/)
 - [Unlocking inclusion for women of color in web3](https://techcrunch.com/2022/03/18/unlocking-inclusion-for-women-of-color-in-web3/)
 - [DigiLocker, India’s app for issuance and verification of documents, tops 100 million users](https://techcrunch.com/2022/03/18/digilocker/)
 - [GM is buying out Softbank’s stake in autonomous vehicle unit Cruise](https://techcrunch.com/2022/03/18/gm-buys-softbank-stake-in-self-driving-car-unit-cruise/)
-- [TechCrunch+ roundup: eVTOL takes off, pivoting with agility, when to hire a lawyer](https://techcrunch.com/2022/03/18/techcrunch-roundup-evtol-takes-off-pivoting-with-agility-when-to-hire-a-lawyer/)
-- [Survival tips for startup founders living through their first market correction](https://techcrunch.com/2022/03/18/tips-for-startup-founders-who-are-living-through-their-first-market-correction/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
