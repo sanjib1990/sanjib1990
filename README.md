@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Saturn shines with Venus and Mars before dawn this month. Here&#39;s where and when.](https://www.space.com/saturn-venus-mars-march-2022-guide)
-- [Best Lego space sets 2022: NASA Lego sets, Marvel spaceships, and more](https://www.space.com/best-lego-space-sets)
-- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
-- [Learn how to land your first investor from Sequoia’s Jess Lee at TC Early Stage](https://techcrunch.com/2022/03/18/learn-how-to-land-your-first-investor-from-sequoias-jess-lee-at-tc-early-stage/)
-- [When it comes to growth marketing, ‘so much of CRO is psychological’](https://techcrunch.com/2022/03/18/when-it-comes-to-growth-marketing-so-much-of-cro-is-psychological/)
+- [Study: 30% of Log4Shell instances remain vulnerable](https://techcrunch.com/2022/03/18/study-30-of-log4shell-instances-remain-vulnerable/)
+- [CISA, FBI warn of threats to US satellite networks after Viasat cyberattack](https://techcrunch.com/2022/03/18/cisa-fbi-satellite-networks/)
+- [Russia warns YouTube to stop ‘anti-Russian’ ads](https://techcrunch.com/2022/03/18/russia-warns-youtube/)
+- [Soyuz launches to space station with first all-Russian cosmonaut crew in 22 years](https://www.space.com/soyuz-ms21-cosmonauts-launch-space-station)
+- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
