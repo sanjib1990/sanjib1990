@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DeFi and the Future of Programmable goes online this week — register today!](https://techcrunch.com/2022/03/18/defi-and-the-future-of-programmable-goes-online-this-week-register-today/)
+- [Russian search giant Yandex tells investors it’s looking for a media exit](https://techcrunch.com/2022/03/18/russian-search-giant-yandex-tells-investors-its-looking-for-a-media-exit/)
+- [On This Day in Space! March 18, 1980: Soviet rocket explosion kills 48 people](https://www.space.com/39251-on-this-day-in-space.html)
 - [Study: 30% of Log4Shell instances remain vulnerable](https://techcrunch.com/2022/03/18/study-30-of-log4shell-instances-remain-vulnerable/)
 - [CISA, FBI warn of threats to US satellite networks after Viasat cyberattack](https://techcrunch.com/2022/03/18/cisa-fbi-satellite-networks/)
-- [Russia warns YouTube to stop ‘anti-Russian’ ads](https://techcrunch.com/2022/03/18/russia-warns-youtube/)
-- [Soyuz launches to space station with first all-Russian cosmonaut crew in 22 years](https://www.space.com/soyuz-ms21-cosmonauts-launch-space-station)
-- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
