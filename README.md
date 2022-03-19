@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [You can watch SpaceX launch a Falcon 9 rocket for a record 12th time tonight. Here&#39;s how.](https://www.space.com/spacex-starlink-launch-falcon-9-12th-flight)
+- [A security lapse exposed India’s CISF personnel files and health records](https://techcrunch.com/2022/03/18/india-cisf-security-data-exposed/)
 - [A message to Ukraine? Cosmonauts wear yellow-and-blue flight suits for trip to space station](https://www.space.com/russian-cosmonauts-yellow-blue-flight-suits-ukraine)
-- [3 Russian cosmonauts arrive at space station after 3.5-hour orbital chase &lpar;video&rpar;](https://www.space.com/russian-cosmonauts-arrive-space-station-march-2022)
-- [2 SpaceX astronaut launches to the space station delayed by a few days](https://www.space.com/spacex-ax-1-crew-4-launch-delays)
-- [Europe&#39;s Mars rover now unlikely to launch before 2026 after Russia&#39;s war on Ukraine](https://www.space.com/exomars-mars-rover-europe-russia-ukraine-delays)
-- [On This Day in Space! March 18, 1980: Soviet rocket explosion kills 48 people](https://www.space.com/39251-on-this-day-in-space.html)
+- [TechCrunch Experts: 3 articles on growth marketing and software development](https://techcrunch.com/2022/03/18/techcrunch-experts-3-articles-on-growth-marketing-and-software-development/)
+- [Daily Crunch: Porsche announces plans to build a global network of EV charging stations](https://techcrunch.com/2022/03/18/daily-crunch-porsche-announces-plans-to-build-global-network-of-ev-charging-stations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
