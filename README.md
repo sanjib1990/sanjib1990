@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TechCrunch Experts: 3 articles on growth marketing and software development](https://techcrunch.com/2022/03/18/techcrunch-experts-3-articles-on-growth-marketing-and-software-development/)
-- [Daily Crunch: Porsche announces plans to build a global network of EV charging stations](https://techcrunch.com/2022/03/18/daily-crunch-porsche-announces-plans-to-build-global-network-of-ev-charging-stations/)
-- [Unlocking inclusion for women of color in web3](https://techcrunch.com/2022/03/18/unlocking-inclusion-for-women-of-color-in-web3/)
-- [DigiLocker, India’s app for issuance and verification of documents, tops 100 million users](https://techcrunch.com/2022/03/18/digilocker/)
-- [GM is buying out Softbank’s stake in autonomous vehicle unit Cruise](https://techcrunch.com/2022/03/18/gm-buys-softbank-stake-in-self-driving-car-unit-cruise/)
+- [A message to Ukraine? Cosmonauts wear yellow-and-blue flight suits for trip to space station](https://www.space.com/russian-cosmonauts-yellow-blue-flight-suits-ukraine)
+- [3 Russian cosmonauts arrive at space station after 3.5-hour orbital chase &lpar;video&rpar;](https://www.space.com/russian-cosmonauts-arrive-space-station-march-2022)
+- [2 SpaceX astronaut launches to the space station delayed by a few days](https://www.space.com/spacex-ax-1-crew-4-launch-delays)
+- [Europe&#39;s Mars rover now unlikely to launch before 2026 after Russia&#39;s war on Ukraine](https://www.space.com/exomars-mars-rover-europe-russia-ukraine-delays)
+- [On This Day in Space! March 18, 1980: Soviet rocket explosion kills 48 people](https://www.space.com/39251-on-this-day-in-space.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
