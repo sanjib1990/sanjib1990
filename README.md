@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX Falcon 9 rocket launches record 12th mission, lands on ship at sea](https://www.space.com/spacex-starlink-launch-falcon-9-12th-flight)
-- [A security lapse exposed India’s CISF personnel files and health records](https://techcrunch.com/2022/03/18/india-cisf-security-data-exposed/)
-- [A message to Ukraine? Cosmonauts wear yellow-and-blue flight suits for trip to space station](https://www.space.com/russian-cosmonauts-yellow-blue-flight-suits-ukraine)
-- [TechCrunch Experts: 3 articles on growth marketing and software development](https://techcrunch.com/2022/03/18/techcrunch-experts-3-articles-on-growth-marketing-and-software-development/)
-- [Daily Crunch: Porsche announces plans to build a global network of EV charging stations](https://techcrunch.com/2022/03/18/daily-crunch-porsche-announces-plans-to-build-global-network-of-ev-charging-stations/)
+- [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html)
+- [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html)
+- [&#39;Star Trek: Strange New Worlds&#39; casts Paul Wesley as a young James T. Kirk for season 2](https://www.space.com/star-trek-strange-new-worlds-kirk-paul-wesley)
+- [Small stellar corpse shoots beam of matter and antimatter trillions of miles into deep space](https://www.space.com/pulsar-electron-positron-beam-antimatter)
+- [Mistaken identity: Researchers discover stars masquerading as exoplanets](https://www.space.com/stars-found-masquerading-as-exoplanets)
 <!-- BLOG-POST-LIST:END -->
 
 ---
