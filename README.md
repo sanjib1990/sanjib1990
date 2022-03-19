@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html)
-- [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html)
-- [&#39;Star Trek: Strange New Worlds&#39; casts Paul Wesley as a young James T. Kirk for season 2](https://www.space.com/star-trek-strange-new-worlds-kirk-paul-wesley)
-- [Small stellar corpse shoots beam of matter and antimatter trillions of miles into deep space](https://www.space.com/pulsar-electron-positron-beam-antimatter)
-- [Mistaken identity: Researchers discover stars masquerading as exoplanets](https://www.space.com/stars-found-masquerading-as-exoplanets)
+- [On This Day in Space! March 19, 1964: Ionospheric satellite fails to reach orbit](https://www.space.com/39251-on-this-day-in-space.html)
+- [China’s driverless delivery startup Whale Dynamic targets US market with $2.5M funding](https://techcrunch.com/2022/03/19/whale-dynamics-autonomous-delivery-2-5-million/)
+- [Ukraine invasion&#39;s impacts on space exploration: Live updates](https://www.space.com/news/live/russia-ukraine-invasion-space-impacts-updates)
+- [Eddie Vedder joins forces with NASA for &#39;Invincible&#39; Artemis music video](https://www.space.com/eddie-vedder-nasa-artemis-music-video.html)
+- [Canon EOS R6 review](https://www.space.com/reviews/canon-eos-r6-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
