@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [You can watch SpaceX launch a Falcon 9 rocket for a record 12th time tonight. Here&#39;s how.](https://www.space.com/spacex-starlink-launch-falcon-9-12th-flight)
+- [SpaceX Falcon 9 rocket launches record 12th mission, lands on ship at sea](https://www.space.com/spacex-starlink-launch-falcon-9-12th-flight)
 - [A security lapse exposed India’s CISF personnel files and health records](https://techcrunch.com/2022/03/18/india-cisf-security-data-exposed/)
 - [A message to Ukraine? Cosmonauts wear yellow-and-blue flight suits for trip to space station](https://www.space.com/russian-cosmonauts-yellow-blue-flight-suits-ukraine)
 - [TechCrunch Experts: 3 articles on growth marketing and software development](https://techcrunch.com/2022/03/18/techcrunch-experts-3-articles-on-growth-marketing-and-software-development/)
