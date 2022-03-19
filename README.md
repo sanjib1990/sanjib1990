@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Failure is complex, especially in the world of startups](https://techcrunch.com/2022/03/19/startup-failure/)
+- [This Week in Apps: Instagram’s parental controls, Tile’s anti-stalking update, iOS 15.4 arrives](https://techcrunch.com/2022/03/19/this-week-in-apps-instagrams-parental-controls-tiles-anti-stalking-update-ios-15-4-arrives/)
 - [Riding an API to platform status](https://techcrunch.com/2022/03/19/riding-an-api-to-platform-status/)
 - [Russia says it used a hypersonic missile in Ukraine for first time: report](https://www.space.com/russia-uses-hypersonic-missile-ukraine-war)
 - [On This Day in Space! March 19, 1964: Ionospheric satellite fails to reach orbit](https://www.space.com/39251-on-this-day-in-space.html)
-- [China’s driverless delivery startup Whale Dynamic targets US market with $2.5M funding](https://techcrunch.com/2022/03/19/whale-dynamics-autonomous-delivery-2-5-million/)
-- [Ukraine invasion&#39;s impacts on space exploration: Live updates](https://www.space.com/news/live/russia-ukraine-invasion-space-impacts-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
