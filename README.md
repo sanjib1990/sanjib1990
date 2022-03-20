@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Startup Aquarian Space aims to deliver high-speed internet at the moon &lpar;and maybe Mars&rpar;](https://www.space.com/aquarian-space-startup-high-speed-internet-moon-mars)
+- [Tech talent flees Russia as Western sanctions bite](https://techcrunch.com/2022/03/20/tech-talent-flees-russia-as-western-sanctions-bite/)
+- [On This Day in Space! March 20, 1987: NASA launches Palapa B2-P satellite for Indonesia](https://www.space.com/39251-on-this-day-in-space.html)
 - [NASA spacecraft snaps gorgeous new photo of Jupiter&#39;s moons Io and Europa](https://www.space.com/juno-jupiter-moons-io-europa-photos)
 - [Russia dismisses reports that cosmonauts&#39; yellow and blue flight suits referred to Ukraine](https://www.space.com/russia-denies-cosmonauts-wore-ukraine-colors)
-- [March equinox 2022 brings spring to Northern Hemisphere as Earth&#39;s seasons change](https://www.space.com/march-euinox-2022-spring-earth-seasons-change)
-- [Planet Venus at its &#39;greatest elongation&#39; from the sun. Here&#39;s how to see it.](https://www.space.com/venus-reaches-greatest-elongation-march-2022)
-- [Failure is complex, especially in the world of startups](https://techcrunch.com/2022/03/19/startup-failure/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
