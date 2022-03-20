@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Planet Venus at its ‘greatest elongation&#39; from the sun tonight](https://www.space.com/venus-reaches-greatest-elongation-march-2022)
+- [NASA spacecraft snaps gorgeous new photo of Jupiter&#39;s moons Io and Europa](https://www.space.com/juno-jupiter-moons-io-europa-photos)
+- [Russia dismisses reports that cosmonauts&#39; yellow and blue flight suits referred to Ukraine](https://www.space.com/russia-denies-cosmonauts-wore-ukraine-colors)
+- [March equinox 2022 brings spring to Northern Hemisphere as Earth&#39;s seasons change](https://www.space.com/march-euinox-2022-spring-earth-seasons-change)
+- [Planet Venus at its &#39;greatest elongation&#39; from the sun. Here&#39;s how to see it.](https://www.space.com/venus-reaches-greatest-elongation-march-2022)
 - [Failure is complex, especially in the world of startups](https://techcrunch.com/2022/03/19/startup-failure/)
-- [This Week in Apps: Instagram’s parental controls, Tile’s anti-stalking update, iOS 15.4 arrives](https://techcrunch.com/2022/03/19/this-week-in-apps-instagrams-parental-controls-tiles-anti-stalking-update-ios-15-4-arrives/)
-- [Riding an API to platform status](https://techcrunch.com/2022/03/19/riding-an-api-to-platform-status/)
-- [Russia says it used a hypersonic missile in Ukraine for first time: report](https://www.space.com/russia-uses-hypersonic-missile-ukraine-war)
 <!-- BLOG-POST-LIST:END -->
 
 ---
