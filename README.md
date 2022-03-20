@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India tax department probe into Infra.Market finds bogus purchases, undisclosed income](https://techcrunch.com/2022/03/20/india-tax-department-probe-into-infra-market-finds-bogus-purchases-undisclosed-income/)
+- [Why web3’s wealthy are donating crypto instead of cash](https://techcrunch.com/2022/03/20/web3-charity-donate-crypto-cryptocurrency-nonprofit-cash/)
+- [Ukraine invasion&#39;s impacts on space exploration: Live updates](https://www.space.com/news/live/russia-ukraine-invasion-space-impacts-updates)
+- [Watch the trailer for &#39;Return to Space&#39; on Netflix chronicling SpaceX&#39;s historic 1st astronaut launch](https://www.space.com/return-to-space-spacex-netflix-documentary-trailer)
 - [Startup Aquarian Space aims to deliver high-speed internet at the moon &lpar;and maybe Mars&rpar;](https://www.space.com/aquarian-space-startup-high-speed-internet-moon-mars)
-- [Tech talent flees Russia as Western sanctions bite](https://techcrunch.com/2022/03/20/tech-talent-flees-russia-as-western-sanctions-bite/)
-- [On This Day in Space! March 20, 1987: NASA launches Palapa B2-P satellite for Indonesia](https://www.space.com/39251-on-this-day-in-space.html)
-- [NASA spacecraft snaps gorgeous new photo of Jupiter&#39;s moons Io and Europa](https://www.space.com/juno-jupiter-moons-io-europa-photos)
-- [Russia dismisses reports that cosmonauts&#39; yellow and blue flight suits referred to Ukraine](https://www.space.com/russia-denies-cosmonauts-wore-ukraine-colors)
 <!-- BLOG-POST-LIST:END -->
 
 ---
