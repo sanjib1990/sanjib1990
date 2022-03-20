@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Planet Venus at its ‘greatest elongation&#39; from the sun tonight](https://www.space.com/venus-reaches-greatest-elongation-march-2022)
 - [Failure is complex, especially in the world of startups](https://techcrunch.com/2022/03/19/startup-failure/)
 - [This Week in Apps: Instagram’s parental controls, Tile’s anti-stalking update, iOS 15.4 arrives](https://techcrunch.com/2022/03/19/this-week-in-apps-instagrams-parental-controls-tiles-anti-stalking-update-ios-15-4-arrives/)
 - [Riding an API to platform status](https://techcrunch.com/2022/03/19/riding-an-api-to-platform-status/)
 - [Russia says it used a hypersonic missile in Ukraine for first time: report](https://www.space.com/russia-uses-hypersonic-missile-ukraine-war)
-- [On This Day in Space! March 19, 1964: Ionospheric satellite fails to reach orbit](https://www.space.com/39251-on-this-day-in-space.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
