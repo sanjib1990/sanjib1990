@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Luminar acquisition brings high-performance laser capabilities in-house](https://techcrunch.com/2022/03/21/luminar-lidar-acquisition-freedom-photonics-lasers/)
+- [Tala founder on the fintech’s fundraising success and creating an equitable financial system](https://techcrunch.com/2022/03/21/tala-founder-on-the-fintechs-fundraising-success-and-creating-an-equitable-financial-system/)
+- [China’s EV upstarts are building their own investment powerhouses](https://techcrunch.com/2022/03/21/chinas-ev-upstarts-are-building-their-own-investment-powerhouses/)
+- [Rocket rollout: How NASA&#39;s first Artemis Space Launch System move stacks up against Saturn V](https://www.space.com/artemis-first-space-launch-system-sls-rollout)
 - [Miruku replacing animals with plants to create dairy proteins](https://techcrunch.com/2022/03/21/miruku-replacing-animals-with-plants-to-create-dairy-proteins/)
-- [Pete Davidson&#39;s spaceflight replacement is Blue Origin&#39;s Gary Lai](https://www.space.com/pete-davidson-replacement-blue-origin-spaceflight)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [Apple sends new offer to Dutch antitrust authority over dating apps payments, racks up 9th fine](https://techcrunch.com/2022/03/21/apple-acm-nine-fines/)
-- [French aerospace company Gama raises $2M to develop a solar sail spacecraft](https://techcrunch.com/2022/03/21/french-aerospace-company-gama-raises-2m-to-develop-a-solar-sail-spacecraft/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
