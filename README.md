@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sounds in space: What noises do planets make?](https://www.space.com/sounds-in-space)
+- [DJI’s enterprise drone goes foldable](https://techcrunch.com/2022/03/21/djis-enterprise-drone-goes-foldable/)
 - [Glia raises $45M at a $1B+ valuation for an AI-based CRM that lets agents get hands-on to help](https://techcrunch.com/2022/03/21/glia-raises-45m-at-a-1b-valuation-for-an-ai-based-crm-that-lets-agents-get-hands-on-to-help/)
 - [Twilio launches Flex Conversations, a unified chat API for contact centers](https://techcrunch.com/2022/03/21/twilio-launches-flex-conversations-a-unified-chat-api-for-contact-centers/)
 - [Bridgestone takes minority stake in May Mobility](https://techcrunch.com/2022/03/21/bridgestone-takes-minority-stake-in-may-mobility/)
-- [Thoma Bravo to take Anaplan off the board for $10.7B](https://techcrunch.com/2022/03/21/thoma-bravo-to-take-anaplan-off-the-board-for-10-7b/)
-- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
