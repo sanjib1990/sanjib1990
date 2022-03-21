@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Kenya-based Powered by People gets $5 million seed to scale operations of its wholesale e-commerce platform](https://techcrunch.com/2022/03/21/kenya-based-powered-by-people-gets-5-million-seed-to-scale-operations-of-its-wholesale-e-commerce-platform/)
-- [Gensyn applies a token to distributed computing for AI developers, raises $6.5M](https://techcrunch.com/2022/03/21/gensyn-applies-a-token-to-distributed-computing-for-ai-developers-raises-6-5m/)
-- [Kenya-based agritech Apollo raises $40 million in Softbank-led round, joined by Chan Zuckerberg Initiative, CDC](https://techcrunch.com/2022/03/21/kenya-based-agritech-apollo-raises-40-million-in-softbank-led-round-joined-by-chan-zuckerberg-initiative-cdc/)
-- [Sequoia debuts Arc, a London/SV program to find and mentor outlier startups, backing each with $1M](https://techcrunch.com/2022/03/20/sequoia-arc-outliers/)
-- [Lune offers an API to calculate carbon emissions at checkout](https://techcrunch.com/2022/03/20/lune-offers-an-api-to-calculate-carbon-emissions-at-checkout/)
+- [CommerceIQ gets its horn as capital continues to flow into e-commerce infrastructure startups](https://techcrunch.com/2022/03/21/commerceiq-e-commerce-infrastructure/)
+- [On This Day in Space! March 21, 1965: NASA launches Ranger 9 to the moon](https://www.space.com/39251-on-this-day-in-space.html)
+- [What if the same spacecraft studied mysterious icy bodies and the cosmos as well?](https://www.space.com/centaur-astronomy-possible-mission-concept)
+- [NASA&#39;s work to align the James Webb Space Telescope is extending to more instruments](https://www.space.com/james-webb-space-telescope-instrument-alignment-begins)
+- [NASA flyby of Jupiter&#39;s big moon Ganymede revealed massive unknown craters](https://www.space.com/juno-ganymede-moon-flyby-craters-auroras)
 <!-- BLOG-POST-LIST:END -->
 
 ---
