@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Sounds in space: What noises do planets make?](https://www.space.com/sounds-in-space)
-- [DJI’s enterprise drone goes foldable](https://techcrunch.com/2022/03/21/djis-enterprise-drone-goes-foldable/)
-- [Glia raises $45M at a $1B+ valuation for an AI-based CRM that lets agents get hands-on to help](https://techcrunch.com/2022/03/21/glia-raises-45m-at-a-1b-valuation-for-an-ai-based-crm-that-lets-agents-get-hands-on-to-help/)
-- [Twilio launches Flex Conversations, a unified chat API for contact centers](https://techcrunch.com/2022/03/21/twilio-launches-flex-conversations-a-unified-chat-api-for-contact-centers/)
-- [Bridgestone takes minority stake in May Mobility](https://techcrunch.com/2022/03/21/bridgestone-takes-minority-stake-in-may-mobility/)
+- [India’s Zomato to deliver food in 10 minutes in a global first](https://techcrunch.com/2022/03/21/zomato-10-minute-food-delivery/)
+- [Subak, which incubates data-for-climate not-for-profits, announces six startups in 2022 cohort](https://techcrunch.com/2022/03/21/subak-2022-cohort/)
+- [Spring is Aurora Season!](https://www.space.com/spring-is-aurora-season)
+- [India to tax each crypto investment independently](https://techcrunch.com/2022/03/21/india-crypto-tax/)
+- [Finally takes in $95M in equity, debt to roll out lending for small businesses](https://techcrunch.com/2022/03/21/finally-takes-in-95m-in-equity-debt-to-roll-out-lending-for-small-businesses/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
