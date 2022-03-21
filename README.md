@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Kenya-based agritech Apollo raises $40 million in Softbank-led round, joined by Chan Zuckerberg Initiative, CDC](https://techcrunch.com/2022/03/21/kenya-based-agritech-apollo-raises-40-million-in-softbank-led-round-joined-by-chan-zuckerberg-initiative-cdc/)
+- [Sequoia debuts Arc, a London/SV program to find and mentor outlier startups, backing each with $1M](https://techcrunch.com/2022/03/20/sequoia-arc-outliers/)
 - [Lune offers an API to calculate carbon emissions at checkout](https://techcrunch.com/2022/03/20/lune-offers-an-api-to-calculate-carbon-emissions-at-checkout/)
 - [The Station: GM deepens it stake in Cruise and Porsche plots out its EV course](https://techcrunch.com/2022/03/20/the-station-gm-deepens-it-stake-in-cruise-and-porsche-plots-out-its-ev-course/)
 - [Reliance Retail acquires majority stake in D2C brand Clovia for $125 million](https://techcrunch.com/2022/03/20/reliance-clovia/)
-- [India tax department probe into Infra.Market finds bogus purchases, undisclosed income](https://techcrunch.com/2022/03/20/india-tax-department-probe-into-infra-market-finds-bogus-purchases-undisclosed-income/)
-- [Why web3’s wealthy are donating crypto instead of cash](https://techcrunch.com/2022/03/20/web3-charity-donate-crypto-cryptocurrency-nonprofit-cash/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
