@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See SpaceX&#39;s Starship Mars rocket fully stacked for testing on the pad &lpar;photos&rpar;](https://www.space.com/spacex-starship-stacked-testing-pad-photos)
+- [Talkspace-owned Lasting launches new ‘Parenting Guide’ app, its latest self-guided advice service](https://techcrunch.com/2022/03/21/talkspace-lasting-parenting-guide-app/)
+- [Lawsuit prompts Grubhub to add disclosures about hidden fees](https://techcrunch.com/2022/03/21/grubhub-lawsuit-hidden-fees-dc-attorney-general-disclosure/)
 - [Luminar acquisition brings high-performance laser capabilities in-house](https://techcrunch.com/2022/03/21/luminar-lidar-acquisition-freedom-photonics-lasers/)
 - [Tala founder on the fintech’s fundraising success and creating an equitable financial system](https://techcrunch.com/2022/03/21/tala-founder-on-the-fintechs-fundraising-success-and-creating-an-equitable-financial-system/)
-- [China’s EV upstarts are building their own investment powerhouses](https://techcrunch.com/2022/03/21/chinas-ev-upstarts-are-building-their-own-investment-powerhouses/)
-- [Rocket rollout: How NASA&#39;s first Artemis Space Launch System move stacks up against Saturn V](https://www.space.com/artemis-first-space-launch-system-sls-rollout)
-- [Miruku replacing animals with plants to create dairy proteins](https://techcrunch.com/2022/03/21/miruku-replacing-animals-with-plants-to-create-dairy-proteins/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
