@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html)
+- [Ramp confirms new $8.1B valuation after ‘a nearly 10x’ YoY increase in revenue](https://techcrunch.com/2022/03/21/corporate-spend-startup-ramp-closes-on-750-million-confirms-new-8-1b-valuation/)
 - [CommerceIQ gets its horn as capital continues to flow into e-commerce infrastructure startups](https://techcrunch.com/2022/03/21/commerceiq-e-commerce-infrastructure/)
 - [On This Day in Space! March 21, 1965: NASA launches Ranger 9 to the moon](https://www.space.com/39251-on-this-day-in-space.html)
 - [What if the same spacecraft studied mysterious icy bodies and the cosmos as well?](https://www.space.com/centaur-astronomy-possible-mission-concept)
-- [NASA&#39;s work to align the James Webb Space Telescope is extending to more instruments](https://www.space.com/james-webb-space-telescope-instrument-alignment-begins)
-- [NASA flyby of Jupiter&#39;s big moon Ganymede revealed massive unknown craters](https://www.space.com/juno-ganymede-moon-flyby-craters-auroras)
 <!-- BLOG-POST-LIST:END -->
 
 ---
