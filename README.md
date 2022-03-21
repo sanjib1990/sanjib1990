@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Musk reveals plan to scale Tesla to ‘extreme size’](https://techcrunch.com/2022/03/21/musk-reveals-plan-to-scale-tesla-to-extreme-size/)
-- [Match Group launches its latest dating app, Stir, aimed at single parents](https://techcrunch.com/2022/03/21/match-group-launches-its-latest-dating-app-stir-aimed-at-single-parents/)
-- [Why so many SaaS companies are launching their own media operations](https://techcrunch.com/2022/03/21/why-so-many-saas-companies-are-launching-their-own-media-operations/)
-- [India’s Zomato to deliver food in 10 minutes in a global first](https://techcrunch.com/2022/03/21/zomato-10-minute-food-delivery/)
-- [Subak, which incubates data-for-climate not-for-profits, announces six startups in 2022 cohort](https://techcrunch.com/2022/03/21/subak-2022-cohort/)
+- [After Anaplan, which SaaS company will private equity target next?](https://techcrunch.com/2022/03/21/after-anaplan-which-saas-company-will-private-equity-target-next/)
+- [SpaceX to launch OneWeb&#39;s internet satellites, replacing Russian Soyuz rockets](https://www.space.com/spacex-launch-oneweb-internet-satellites-replace-soyuz)
+- [Plotlogic scoops up $18M to put hyperspectral imaging to work in the mines](https://techcrunch.com/2022/03/21/plotlogic-scoops-up-18m-to-put-hyperspectral-imaging-to-work-in-the-mines/)
+- [New data underscores a slowing e-commerce market](https://techcrunch.com/2022/03/21/new-data-underscores-a-slowing-e-commerce-market/)
+- [FedEx app’s test appears to show the ability to track deliveries from other services](https://techcrunch.com/2022/03/21/fedex-apps-test-appears-to-show-the-ability-to-track-deliveries-from-other-services/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
