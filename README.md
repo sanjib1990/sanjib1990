@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Miruku replacing animals with plants to create dairy proteins](https://techcrunch.com/2022/03/21/miruku-replacing-animals-with-plants-to-create-dairy-proteins/)
+- [Pete Davidson&#39;s spaceflight replacement is Blue Origin&#39;s Gary Lai](https://www.space.com/pete-davidson-replacement-blue-origin-spaceflight)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [Apple sends new offer to Dutch antitrust authority over dating apps payments, racks up 9th fine](https://techcrunch.com/2022/03/21/apple-acm-nine-fines/)
 - [French aerospace company Gama raises $2M to develop a solar sail spacecraft](https://techcrunch.com/2022/03/21/french-aerospace-company-gama-raises-2m-to-develop-a-solar-sail-spacecraft/)
-- [See Saturn, Venus and Mars as moon shines near bright Antares](https://www.space.com/saturn-venus-moon-antares-2022)
-- [NASA’s Ingenuity helicopter will keep flying on Mars through at least September](https://techcrunch.com/2022/03/21/nasas-ingenuity-helicopter-will-keep-flying-on-mars-through-at-least-september/)
-- [After Anaplan, which SaaS company will private equity target next?](https://techcrunch.com/2022/03/21/after-anaplan-which-saas-company-will-private-equity-target-next/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
