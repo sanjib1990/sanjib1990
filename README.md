@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Kenya-based Powered by People gets $5 million seed to scale operations of its wholesale e-commerce platform](https://techcrunch.com/2022/03/21/kenya-based-powered-by-people-gets-5-million-seed-to-scale-operations-of-its-wholesale-e-commerce-platform/)
+- [Gensyn applies a token to distributed computing for AI developers, raises $6.5M](https://techcrunch.com/2022/03/21/gensyn-applies-a-token-to-distributed-computing-for-ai-developers-raises-6-5m/)
 - [Kenya-based agritech Apollo raises $40 million in Softbank-led round, joined by Chan Zuckerberg Initiative, CDC](https://techcrunch.com/2022/03/21/kenya-based-agritech-apollo-raises-40-million-in-softbank-led-round-joined-by-chan-zuckerberg-initiative-cdc/)
 - [Sequoia debuts Arc, a London/SV program to find and mentor outlier startups, backing each with $1M](https://techcrunch.com/2022/03/20/sequoia-arc-outliers/)
 - [Lune offers an API to calculate carbon emissions at checkout](https://techcrunch.com/2022/03/20/lune-offers-an-api-to-calculate-carbon-emissions-at-checkout/)
-- [The Station: GM deepens it stake in Cruise and Porsche plots out its EV course](https://techcrunch.com/2022/03/20/the-station-gm-deepens-it-stake-in-cruise-and-porsche-plots-out-its-ev-course/)
-- [Reliance Retail acquires majority stake in D2C brand Clovia for $125 million](https://techcrunch.com/2022/03/20/reliance-clovia/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
