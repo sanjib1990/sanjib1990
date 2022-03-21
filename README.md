@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple sends new offer to Dutch antitrust authority over dating apps payments, racks up 9th fine](https://techcrunch.com/2022/03/21/apple-acm-nine-fines/)
+- [French aerospace company Gama raises $2M to develop a solar sail spacecraft](https://techcrunch.com/2022/03/21/french-aerospace-company-gama-raises-2m-to-develop-a-solar-sail-spacecraft/)
+- [See Saturn, Venus and Mars as moon shines near bright Antares](https://www.space.com/saturn-venus-moon-antares-2022)
+- [NASA’s Ingenuity helicopter will keep flying on Mars through at least September](https://techcrunch.com/2022/03/21/nasas-ingenuity-helicopter-will-keep-flying-on-mars-through-at-least-september/)
 - [After Anaplan, which SaaS company will private equity target next?](https://techcrunch.com/2022/03/21/after-anaplan-which-saas-company-will-private-equity-target-next/)
-- [SpaceX to launch OneWeb&#39;s internet satellites, replacing Russian Soyuz rockets](https://www.space.com/spacex-launch-oneweb-internet-satellites-replace-soyuz)
-- [Plotlogic scoops up $18M to put hyperspectral imaging to work in the mines](https://techcrunch.com/2022/03/21/plotlogic-scoops-up-18m-to-put-hyperspectral-imaging-to-work-in-the-mines/)
-- [New data underscores a slowing e-commerce market](https://techcrunch.com/2022/03/21/new-data-underscores-a-slowing-e-commerce-market/)
-- [FedEx app’s test appears to show the ability to track deliveries from other services](https://techcrunch.com/2022/03/21/fedex-apps-test-appears-to-show-the-ability-to-track-deliveries-from-other-services/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
