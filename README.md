@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Max Q: All eyes on Astra](https://techcrunch.com/2022/03/21/max-q-all-eyes-on-astra/)
+- [With $9.3M in fresh funding, Zestworld plans a newsletter service for creator-owned comics](https://techcrunch.com/2022/03/21/with-9-3m-in-fresh-funding-zestworld-plans-a-newsletter-service-for-creator-owned-comics/)
+- [NASA&#39;s new moon rocket spotted from space rolling to the launch pad &lpar;photos&rpar;](https://www.space.com/nasa-sls-orion-artemis-rollout-airbus-satellite-photos)
+- [Be an entrepreneur who leads with transparency](https://techcrunch.com/2022/03/21/be-an-entrepreneur-who-leads-with-transparency/)
 - [See SpaceX&#39;s Starship Mars rocket fully stacked for testing on the pad &lpar;photos&rpar;](https://www.space.com/spacex-starship-stacked-testing-pad-photos)
-- [Talkspace-owned Lasting launches new ‘Parenting Guide’ app, its latest self-guided advice service](https://techcrunch.com/2022/03/21/talkspace-lasting-parenting-guide-app/)
-- [Lawsuit prompts Grubhub to add disclosures about hidden fees](https://techcrunch.com/2022/03/21/grubhub-lawsuit-hidden-fees-dc-attorney-general-disclosure/)
-- [Luminar acquisition brings high-performance laser capabilities in-house](https://techcrunch.com/2022/03/21/luminar-lidar-acquisition-freedom-photonics-lasers/)
-- [Tala founder on the fintech’s fundraising success and creating an equitable financial system](https://techcrunch.com/2022/03/21/tala-founder-on-the-fintechs-fundraising-success-and-creating-an-equitable-financial-system/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
