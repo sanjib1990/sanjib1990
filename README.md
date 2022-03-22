@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Instagram expands its product tagging feature to all US users](https://techcrunch.com/2022/03/22/instagram-product-tagging-feature/)
-- [Builders and VCs explore the impact of air mobility on urban planning at TC Sessions: Mobility 2022](https://techcrunch.com/2022/03/22/builders-and-vcs-explore-the-impact-of-air-mobility-on-urban-planning-at-tc-sessions-mobility-2022/)
-- [Nvidia launches a new GPU architecture and the Grace CPU Superchip](https://techcrunch.com/2022/03/22/nvidia-launches-a-new-gpu-architecture-and-the-grace-cpu-superchip/)
-- [China&#39;s missions to the moon and Mars are starting to deliver exciting science results](https://www.space.com/china-moon-mars-mission-science)
-- [Best binoculars 2022: Top picks for stargazing, wildlife watching and more](https://www.space.com/26021-best-binoculars.html)
+- [Cityblock Health names co-founder Toyin Ajayi as new CEO](https://techcrunch.com/2022/03/22/cityblock-health-names-co-founder-toyin-ajayi-as-new-ceo/)
+- [Steam &lpar;officially&rpar; comes to Chrome OS](https://techcrunch.com/2022/03/22/steam-officially-comes-to-chrome-os/)
+- [Google Photos update adds a handy import option alongside other organizational changes](https://techcrunch.com/2022/03/22/google-photos-update-adds-a-handy-import-option-alongside-other-organizational-changes/)
+- [Put the zoo in Zoom with these horrific 3D animatars](https://techcrunch.com/2022/03/22/zoom-animal-avatars/)
+- [Ford is turning its EVs into video conference rooms with help from Cisco](https://techcrunch.com/2022/03/22/ford-is-turning-its-evs-into-video-conference-rooms-with-help-from-cisco/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
