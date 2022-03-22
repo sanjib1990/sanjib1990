@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [To raise a fund, this agtech outfit built a content company first &lpar;now it has $60 million to put to work&rpar;](https://techcrunch.com/2022/03/21/to-raise-a-fund-this-agtech-outfit-built-a-content-company-first-now-it-has-60-million-to-put-to-work/)
 - [5,000 exoplanets! NASA confirms big milestone for planetary science](https://www.space.com/nasa-confirms-5000-exoplanets-milestone)
 - [Learn which startups strategic mobility investors are seeking at TC Sessions: Mobility](https://techcrunch.com/2022/03/21/learn-what-startups-strategic-mobility-investors-are-seeking-at-tc-sessions-mobility/)
 - [Daily Crunch: Corporate management startup Ramp doubles its valuation to $8.1B with new financing](https://techcrunch.com/2022/03/21/daily-crunch-corporate-management-startup-ramp-doubles-its-valuation-to-8-1b-with-new-financing/)
 - [Max Q: All eyes on Astra](https://techcrunch.com/2022/03/21/max-q-all-eyes-on-astra/)
-- [With $9.3M in fresh funding, Zestworld plans a newsletter service for creator-owned comics](https://techcrunch.com/2022/03/21/with-9-3m-in-fresh-funding-zestworld-plans-a-newsletter-service-for-creator-owned-comics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
