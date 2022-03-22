@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mars helicopter Ingenuity soars on 22nd Red Planet flight](https://www.space.com/nasa-mars-helicopter-ingenuity-flight-22)
 - [Russia launches military communications satellite: reports](https://www.space.com/russia-launches-meridian-m-military-communications-satellite)
 - [Blue Origin&#39;s 4th crewed spaceflight: When to watch and what to know](https://www.space.com/blue-origin-fourth-crewed-mission-ns-20-guide)
-- [Why NASA&#39;s new &#39;mega moon rocket&#39; is so incredible](https://www.space.com/nasa-space-launch-system-rocket-explainer)
-- [TechCrunch+ roundup: Startup survival tips, content as a service, leading with transparency](https://techcrunch.com/2022/03/22/techcrunch-roundup-startup-survival-tips-content-as-a-service-leading-with-transparency/)
-- [Twitter leads call for EU lawmakers to ‘think beyond Big Tech’](https://techcrunch.com/2022/03/22/open-internet-alliance/)
+- [Alphabet spins out a new subsidiary, and in a sign of the times, it’s focused on quantum tech](https://techcrunch.com/2022/03/22/alphabet-spins-out-a-new-subsidiary-and-in-a-sign-of-the-times-its-focused-on-quantum-tech/)
+- [It’s time to hold investors accountable and abolish pro-rata](https://techcrunch.com/2022/03/22/its-time-to-hold-investors-accountable-and-abolish-pro-rata/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
