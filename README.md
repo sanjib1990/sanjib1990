@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Web3 digital identity startup Unstoppable Domains said to seek funding at $1 billion valuation](https://techcrunch.com/2022/03/22/web3-digital-identity-startup-unstoppable-domains-said-to-seek-funding-at-1-billion-valuation/)
-- [You can now make GIFs in Twitter’s iOS app](https://techcrunch.com/2022/03/22/twitter-gifs-ios-app-feature/)
-- [Bored Apes NFT startup Yuga Labs raises seed round at monster $4B valuation](https://techcrunch.com/2022/03/22/bored-apes-nft-startup-yuga-labs-raises-at-monster-4-billion-valuation/)
-- [US regulators say someone really needs to monitor Elon Musk’s tweets](https://techcrunch.com/2022/03/22/us-regulators-say-someone-really-needs-to-monitor-elon-musks-tweets/)
-- [Kickstarter’s CEO stepping down in April](https://techcrunch.com/2022/03/22/kickstarters-ceo-stepping-down-in-april/)
+- [Russia launches military communications satellite: reports](https://www.space.com/russia-launches-meridian-m-military-communications-satellite)
+- [Blue Origin&#39;s 4th crewed spaceflight: When to watch and what to know](https://www.space.com/blue-origin-fourth-crewed-mission-ns-20-guide)
+- [Why NASA&#39;s new &#39;mega moon rocket&#39; is so incredible](https://www.space.com/nasa-space-launch-system-rocket-explainer)
+- [TechCrunch+ roundup: Startup survival tips, content as a service, leading with transparency](https://techcrunch.com/2022/03/22/techcrunch-roundup-startup-survival-tips-content-as-a-service-leading-with-transparency/)
+- [Twitter leads call for EU lawmakers to ‘think beyond Big Tech’](https://techcrunch.com/2022/03/22/open-internet-alliance/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
