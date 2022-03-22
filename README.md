@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Web3 digital identity startup Unstoppable Domains said to seek funding at $1 billion valuation](https://techcrunch.com/2022/03/22/web3-digital-identity-startup-unstoppable-domains-said-to-seek-funding-at-1-billion-valuation/)
 - [You can now make GIFs in Twitter’s iOS app](https://techcrunch.com/2022/03/22/twitter-gifs-ios-app-feature/)
 - [Bored Apes NFT startup Yuga Labs raises seed round at monster $4B valuation](https://techcrunch.com/2022/03/22/bored-apes-nft-startup-yuga-labs-raises-at-monster-4-billion-valuation/)
 - [US regulators say someone really needs to monitor Elon Musk’s tweets](https://techcrunch.com/2022/03/22/us-regulators-say-someone-really-needs-to-monitor-elon-musks-tweets/)
 - [Kickstarter’s CEO stepping down in April](https://techcrunch.com/2022/03/22/kickstarters-ceo-stepping-down-in-april/)
-- [Following a16z departure, Katie Haun debuts Haun Ventures with $1.5B in capital to back crypto startups](https://techcrunch.com/2022/03/22/following-a16z-departure-katie-haun-debuts-haun-ventures-with-1-5b-in-capital-to-back-crypto-startups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
