@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Nvidia launched a mapping product for the autonomous vehicle industry](https://techcrunch.com/2022/03/22/nvidia-launched-a-mapping-product-for-the-autonomous-vehicle-industry/)
-- [BYD, Lucid are latest EV makers to adopt Nvidia’s self-driving toolkit](https://techcrunch.com/2022/03/22/byd-lucid-are-latest-ev-makers-to-adopt-nvidias-self-driving-toolkit/)
-- [Microsoft improves its AI translations with Z-Code](https://techcrunch.com/2022/03/22/microsoft-improves-its-ai-translations-with-z-code/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [Comet Leonard has broken into pieces as it rounds the sun: report](https://www.space.com/comet-leonard-broke-up-pieces)
+- [New Twitch appeals portal lets users monitor and object to account bans](https://techcrunch.com/2022/03/22/twitch-appeal-ban-portal/)
+- [Cloud providers’ default retention policies are not enough: You better back your SaaS up](https://techcrunch.com/2022/03/22/cloud-providers-default-retention-policies-are-not-enough-you-better-back-your-saas-up/)
+- [Glass rethinks the smartphone camera through an old-school cinema lens](https://techcrunch.com/2022/03/22/glass-rethinks-the-smartphone-camera-through-an-old-school-cinema-lens/)
+- [Tracks of China&#39;s Zhurong Mars rover spotted by NASA orbiter &lpar;photo&rpar;](https://www.space.com/china-zhurong-mars-rover-tracks-mro-photo)
+- [Fresh off dramatic majority shareholder exit, Firefly could be headed for a SPAC](https://techcrunch.com/2022/03/22/firefly-aerospace-spac-merger-fcc-filing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
