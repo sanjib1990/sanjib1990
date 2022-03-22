@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [You can now make GIFs in Twitter’s iOS app](https://techcrunch.com/2022/03/22/twitter-gifs-ios-app-feature/)
+- [Bored Apes NFT startup Yuga Labs raises seed round at monster $4B valuation](https://techcrunch.com/2022/03/22/bored-apes-nft-startup-yuga-labs-raises-at-monster-4-billion-valuation/)
+- [US regulators say someone really needs to monitor Elon Musk’s tweets](https://techcrunch.com/2022/03/22/us-regulators-say-someone-really-needs-to-monitor-elon-musks-tweets/)
+- [Kickstarter’s CEO stepping down in April](https://techcrunch.com/2022/03/22/kickstarters-ceo-stepping-down-in-april/)
 - [Following a16z departure, Katie Haun debuts Haun Ventures with $1.5B in capital to back crypto startups](https://techcrunch.com/2022/03/22/following-a16z-departure-katie-haun-debuts-haun-ventures-with-1-5b-in-capital-to-back-crypto-startups/)
-- [Why NASA&#39;s new &#39;mega moon rocket&#39; is so incredible](https://www.space.com/nasa-space-launch-system-rocket-explainer)
-- [TechCrunch+ roundup: Startup survival tips, content as a service, leading with transparency](https://techcrunch.com/2022/03/22/techcrunch-roundup-startup-survival-tips-content-as-a-service-leading-with-transparency/)
-- [Twitter leads call for EU lawmakers to ‘think beyond big tech’](https://techcrunch.com/2022/03/22/open-internet-alliance/)
-- [Eko expands algorithmic heart problem detection and lands $30M Series C extension](https://techcrunch.com/2022/03/22/eko-expands-algorithmic-heart-problem-detection-and-lands-30m-series-c-extension/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
