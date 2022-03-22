@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Wealth poised to make estate planning accessible to all](https://techcrunch.com/2022/03/22/wealth-poised-to-make-estate-planning-accessible-to-all/)
-- [Muni gives Latin American communities buying power through shopping app](https://techcrunch.com/2022/03/22/muni-gives-latin-american-communities-buying-power-through-shopping-app/)
-- [Podcasters, get ready to find out how many followers you have on Apple Podcasts](https://techcrunch.com/2022/03/22/apple-podcasts-followers-subscription-features/)
-- [New SEC rules would require companies to disclose climate goals and emissions](https://techcrunch.com/2022/03/22/new-sec-rules-would-require-companies-to-disclose-climate-goals-and-emissions/)
-- [Best compact binoculars: Making the most of pocket-sized binos](https://www.space.com/best-compact-binoculars)
+- [Okta confirms January breach after hackers publish screenshots of its internal network](https://techcrunch.com/2022/03/22/okta-january-hack-breach/)
+- [Roku’s latest software offers collaborative, photo screen savers, recommendations, and more](https://techcrunch.com/2022/03/22/rokus-latest-software-offers-collaborative-photo-screen-savers-recommendations-and-more/)
+- [Fintech startup Jeeves raises $180M, quadruples valuation to $2.1B in half a year](https://techcrunch.com/2022/03/22/fintech-startup-jeeves-raises-180m-quadruples-valuation-to-2-1b/)
+- [Best cameras for astrophotography 2022](https://www.space.com/best-cameras-for-astrophotography)
+- [Capitolis valued at $1.6B after raising $110M for new tech to update capital markets trading](https://techcrunch.com/2022/03/22/capitolis-valued-at-1-6b-after-raising-110m-for-new-tech-to-update-capital-markets-trading/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
