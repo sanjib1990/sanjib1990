@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [New Twitch appeals portal lets users monitor and object to account bans](https://techcrunch.com/2022/03/22/twitch-appeal-ban-portal/)
-- [Cloud providers’ default retention policies are not enough: You better back your SaaS up](https://techcrunch.com/2022/03/22/cloud-providers-default-retention-policies-are-not-enough-you-better-back-your-saas-up/)
-- [Glass rethinks the smartphone camera through an old-school cinema lens](https://techcrunch.com/2022/03/22/glass-rethinks-the-smartphone-camera-through-an-old-school-cinema-lens/)
-- [Tracks of China&#39;s Zhurong Mars rover spotted by NASA orbiter &lpar;photo&rpar;](https://www.space.com/china-zhurong-mars-rover-tracks-mro-photo)
-- [Fresh off dramatic majority shareholder exit, Firefly could be headed for a SPAC](https://techcrunch.com/2022/03/22/firefly-aerospace-spac-merger-fcc-filing/)
+- [Following a16z departure, Katie Haun debuts Haun Ventures with $1.5B in capital to back crypto startups](https://techcrunch.com/2022/03/22/following-a16z-departure-katie-haun-debuts-haun-ventures-with-1-5b-in-capital-to-back-crypto-startups/)
+- [Why NASA&#39;s new &#39;mega moon rocket&#39; is so incredible](https://www.space.com/nasa-space-launch-system-rocket-explainer)
+- [TechCrunch+ roundup: Startup survival tips, content as a service, leading with transparency](https://techcrunch.com/2022/03/22/techcrunch-roundup-startup-survival-tips-content-as-a-service-leading-with-transparency/)
+- [Twitter leads call for EU lawmakers to ‘think beyond big tech’](https://techcrunch.com/2022/03/22/open-internet-alliance/)
+- [Eko expands algorithmic heart problem detection and lands $30M Series C extension](https://techcrunch.com/2022/03/22/eko-expands-algorithmic-heart-problem-detection-and-lands-30m-series-c-extension/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
