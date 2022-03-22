@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Cityblock Health names co-founder Toyin Ajayi as new CEO](https://techcrunch.com/2022/03/22/cityblock-health-names-co-founder-toyin-ajayi-as-new-ceo/)
-- [Steam &lpar;officially&rpar; comes to Chrome OS](https://techcrunch.com/2022/03/22/steam-officially-comes-to-chrome-os/)
-- [Google Photos update adds a handy import option alongside other organizational changes](https://techcrunch.com/2022/03/22/google-photos-update-adds-a-handy-import-option-alongside-other-organizational-changes/)
-- [Put the zoo in Zoom with these horrific 3D animatars](https://techcrunch.com/2022/03/22/zoom-animal-avatars/)
-- [Ford is turning its EVs into video conference rooms with help from Cisco](https://techcrunch.com/2022/03/22/ford-is-turning-its-evs-into-video-conference-rooms-with-help-from-cisco/)
+- [Nvidia launched a mapping product for the autonomous vehicle industry](https://techcrunch.com/2022/03/22/nvidia-launched-a-mapping-product-for-the-autonomous-vehicle-industry/)
+- [BYD, Lucid are latest EV makers to adopt Nvidia’s self-driving toolkit](https://techcrunch.com/2022/03/22/byd-lucid-are-latest-ev-makers-to-adopt-nvidias-self-driving-toolkit/)
+- [Microsoft improves its AI translations with Z-Code](https://techcrunch.com/2022/03/22/microsoft-improves-its-ai-translations-with-z-code/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [Comet Leonard has broken into pieces as it rounds the sun: report](https://www.space.com/comet-leonard-broke-up-pieces)
 <!-- BLOG-POST-LIST:END -->
 
 ---
