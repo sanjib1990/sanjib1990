@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Korean startup Dongnae secures $21M Series A to scale apartment rental service](https://techcrunch.com/2022/03/23/korean-startup-dongnae-secures-21m-series-a-to-scale-apartment-rental-service/)
-- [2 astronauts performing spacewalk Wednesday morning: Watch live](https://www.space.com/astronauts-spacewalk-space-station-march-2022-preview)
-- [YouTube to stream free, ad-supported TV shows for the first time](https://techcrunch.com/2022/03/23/youtube-to-stream-free-ad-supported-tv-shows-for-the-first-time/)
-- [Japan’s Terra Drone lands $70M Series B funding to accelerate global expansion](https://techcrunch.com/2022/03/22/japans-terra-drone-lands-70m-series-b-funding-to-accelerate-global-expansion/)
-- [Mars helicopter Ingenuity soars on 22nd Red Planet flight](https://www.space.com/nasa-mars-helicopter-ingenuity-flight-22)
+- [Open source project Tea is brew2 for web3](https://techcrunch.com/2022/03/23/open-source-project-tea-is-brew2-for-web3/)
+- [You can watch 2 NASA astronauts will take a spacewalk outside the International Space Station today](https://www.space.com/astronauts-spacewalk-space-station-march-2022-preview)
+- [Hubble telescope spies striking spiral galaxy that&#39;s part of a huge cosmic structure](https://www.space.com/spiral-galaxy-virgo-cluster-structure-hubble-photo)
+- [A spiderweb of wormholes could solve a fundamental paradox first proposed by Stephen Hawking](https://www.space.com/black-hole-paradox-solution)
+- [&#39;Star Trek: Picard&#39; Season 2 episode 3 offers epic updates to classic storylines](https://www.space.com/star-trek-picard-season-2-episode-3-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
