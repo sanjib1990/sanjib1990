@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [New Era Capital Partners closes $140M to turn Israeli startups into ‘global citizens’](https://techcrunch.com/2022/03/23/new-era-capital-partners-closes-140m-to-turn-israeli-startups-into-global-citizens/)
-- [Boom &amp; Bucket scoops up investment to put second-hand machinery sales back on track](https://techcrunch.com/2022/03/23/boom-bucket-investment/)
-- [Datagen raises $50 million Series B to empower computer vision teams](https://techcrunch.com/2022/03/23/datagen-raises-50-million-series-b-to-empower-computer-vision-teams/)
-- [SpaceX’s Starlink prices are going up across the board](https://techcrunch.com/2022/03/23/spacexs-starlink-prices-are-going-up-across-the-board/)
-- [10 most successful sci-fi movies at the Oscars](https://www.space.com/most-successful-sci-fi-movies-at-the-oscars)
+- [RapidAPI nabs $150M at a $1B valuation, with its API marketplace now used by 4M+ developers](https://techcrunch.com/2022/03/23/rapidapi-nabs-150m-at-a-1b-valuation-with-its-api-marketplace-now-used-by-4m-developers/)
+- [The $2B dollar baby](https://techcrunch.com/2022/03/23/the-2b-dollar-baby/)
+- [Scratchpad adds deal alerts to help identify most promising prospects](https://techcrunch.com/2022/03/23/scratchpad-adds-deal-alerts-to-help-identify-most-promising-prospects/)
+- [Weeks after launch, Island hits $1.3B valuation with $115M round](https://techcrunch.com/2022/03/23/island-unicorn-series-b/)
+- [Tome livens up slide decks with real-time data, flexible layouts](https://techcrunch.com/2022/03/23/tome-livens-up-slide-decks-with-real-time-data-flexible-layouts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
