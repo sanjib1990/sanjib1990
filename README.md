@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Play to pilot third-party billing option globally, starting with Spotify](https://techcrunch.com/2022/03/23/google-play-to-pilot-third-party-billing-option-globally-starting-with-spotify/)
-- [Twitter might start charging for TweetDeck through Twitter Blue](https://techcrunch.com/2022/03/23/twitter-spotted-making-tweetdeck-paid-feature-twitter-blue/)
-- [NASA to discuss Artemis moon lander plan for astronauts today. How to listen online.](https://www.space.com/artemis-moon-lander-plan-update-march-2022-webcast)
-- [SpaceX&#39;s new Crew-4 Dragon capsule gets a name: Freedom](https://www.space.com/spacex-crew-4-mission-dragon-capsule-name-freedom)
-- [The product-led growth playbook](https://techcrunch.com/2022/03/23/the-product-led-growth-playbook/)
+- [Okta says hundreds of companies impacted by security breach](https://techcrunch.com/2022/03/23/okta-breach-sykes-sitel/)
+- [3 factors to consider when building an early-stage cloud sales team](https://techcrunch.com/2022/03/23/3-factors-to-consider-when-building-an-early-stage-cloud-sales-team/)
+- [Ukraine invasion&#39;s impacts on space exploration: Live updates](https://www.space.com/news/live/russia-ukraine-invasion-space-impacts-updates)
+- [Spacewalking astronauts restore radiator, replace space station camera after wardrobe malfunction](https://www.space.com/astronauts-spacewalk-space-station-repairs-wardrobe-malfunction)
+- [Carbon footprint of huge astronomy observatories raises climate change concerns](https://www.space.com/astronomy-observatories-carbon-footprint-climate-change)
 <!-- BLOG-POST-LIST:END -->
 
 ---
