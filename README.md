@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Japan’s Terra Drone lands $70M Series B funding to accelerate global expansion](https://techcrunch.com/2022/03/22/japans-terra-drone-lands-70m-series-b-funding-to-accelerate-global-expansion/)
 - [Mars helicopter Ingenuity soars on 22nd Red Planet flight](https://www.space.com/nasa-mars-helicopter-ingenuity-flight-22)
+- [Daily Crunch: Identity-as-a-service platform Okta says it ‘contained’ network breach in January](https://techcrunch.com/2022/03/22/daily-crunch-identity-as-a-service-platform-okta-says-it-contained-network-breach-in-january/)
 - [Russia launches military communications satellite: reports](https://www.space.com/russia-launches-meridian-m-military-communications-satellite)
-- [Blue Origin&#39;s 4th crewed spaceflight: When to watch and what to know](https://www.space.com/blue-origin-fourth-crewed-mission-ns-20-guide)
-- [Alphabet spins out a new subsidiary, and in a sign of the times, it’s focused on quantum tech](https://techcrunch.com/2022/03/22/alphabet-spins-out-a-new-subsidiary-and-in-a-sign-of-the-times-its-focused-on-quantum-tech/)
-- [It’s time to hold investors accountable and abolish pro-rata](https://techcrunch.com/2022/03/22/its-time-to-hold-investors-accountable-and-abolish-pro-rata/)
+- [Former Cruise CEO Dan Ammann joins ExxonMobil](https://techcrunch.com/2022/03/22/former-cruise-ceo-dan-ammann-joins-exxonmobil/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
