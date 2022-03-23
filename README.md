@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [he stole my credit card &lpar;$5,000+ PC build&rpar;](https://www.youtube.com/watch?v=2MS5wnYnxPc)
 - [10 very promising Open Source Projects you haven’t heard of](https://www.youtube.com/watch?v=qXUl3VsbA6o)
 - [Apple M1 Ultra &amp; NUMA - Computerphile](https://www.youtube.com/watch?v=yG1m7oGZC48)
 - [How MIT OpenCourseWare and MITx helped Air Force veteran soar](https://www.youtube.com/watch?v=bqBH2pq9fpA)
 - [Time… a programmer&#39;s worst enemy // The Code Report](https://www.youtube.com/watch?v=iMVgvkVJuDI)
-- [10 Design Patterns Explained in 10 Minutes](https://www.youtube.com/watch?v=tv-_1er1mWI)
 <!-- YOUTUBE:END -->
 
 ---
