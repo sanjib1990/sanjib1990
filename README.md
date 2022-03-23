@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA to discuss Artemis moon lander plan for astronauts today. How to listen online.](https://www.space.com/artemis-moon-lander-plan-update-march-2022-webcast)
+- [SpaceX&#39;s new Crew-4 Dragon capsule gets a name: Freedom](https://www.space.com/spacex-crew-4-mission-dragon-capsule-name-freedom)
+- [The product-led growth playbook](https://techcrunch.com/2022/03/23/the-product-led-growth-playbook/)
+- [SpaceX raises launch and Starlink prices, citing inflation](https://www.space.com/spacex-raises-prices-launch-starlink-inflation)
 - [Google Cloud now lets you suspend and resume VMs](https://techcrunch.com/2022/03/23/generaly-availability-google-cloud-now-lets-you-suspend-vms/)
-- [The Bohr model: The famous but flawed depiction of an atom](https://www.space.com/bohr-model-atom-structure)
-- [Despite declines, the value of crypto assets in DeFi protocols is up 3x from a year ago](https://techcrunch.com/2022/03/23/despite-declines-the-value-of-crypto-assets-in-defi-protocols-is-up-3x-from-a-year-ago/)
-- [Nvidia’s Clara Holoscan MGX means to bring high-powered AI to the doctor’s office](https://techcrunch.com/2022/03/23/nvidias-clara-holoscan-mgx-means-to-bring-high-powered-ai-to-the-doctors-office/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
