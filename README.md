@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [RapidAPI nabs $150M at a $1B valuation, with its API marketplace now used by 4M+ developers](https://techcrunch.com/2022/03/23/rapidapi-nabs-150m-at-a-1b-valuation-with-its-api-marketplace-now-used-by-4m-developers/)
-- [The $2B dollar baby](https://techcrunch.com/2022/03/23/the-2b-dollar-baby/)
-- [Scratchpad adds deal alerts to help identify most promising prospects](https://techcrunch.com/2022/03/23/scratchpad-adds-deal-alerts-to-help-identify-most-promising-prospects/)
-- [Weeks after launch, Island hits $1.3B valuation with $115M round](https://techcrunch.com/2022/03/23/island-unicorn-series-b/)
-- [Tome livens up slide decks with real-time data, flexible layouts](https://techcrunch.com/2022/03/23/tome-livens-up-slide-decks-with-real-time-data-flexible-layouts/)
+- [Microsoft wants you to build your next game in the cloud](https://techcrunch.com/2022/03/23/microsoft-wants-you-to-build-your-next-game-in-the-cloud/)
+- [Instagram launches chronological and ‘favorites’ feeds for all users, but they can’t be the default](https://techcrunch.com/2022/03/23/instagram-launches-chronological-and-favorites-feeds-for-all-users-but-they-cant-be-the-default/)
+- [OnePointOne wants a piece of the vertically farmed strawberry market](https://techcrunch.com/2022/03/23/onepointone-wants-a-piece-of-the-vertically-farmed-strawberry-market/)
+- [Rugged’s construction layout robots land $9.4M](https://techcrunch.com/2022/03/23/ruggeds-construction-layout-robots-land-9-4m/)
+- [Lego Star Wars Boba Fett Helmet review](https://www.space.com/lego-star-wars-boba-fett-helmet-75277-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
