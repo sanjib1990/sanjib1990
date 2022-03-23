@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Okta says hundreds of companies impacted by security breach](https://techcrunch.com/2022/03/23/okta-breach-sykes-sitel/)
-- [3 factors to consider when building an early-stage cloud sales team](https://techcrunch.com/2022/03/23/3-factors-to-consider-when-building-an-early-stage-cloud-sales-team/)
-- [Ukraine invasion&#39;s impacts on space exploration: Live updates](https://www.space.com/news/live/russia-ukraine-invasion-space-impacts-updates)
-- [Spacewalking astronauts restore radiator, replace space station camera after wardrobe malfunction](https://www.space.com/astronauts-spacewalk-space-station-repairs-wardrobe-malfunction)
-- [Carbon footprint of huge astronomy observatories raises climate change concerns](https://www.space.com/astronomy-observatories-carbon-footprint-climate-change)
+- [Daily Crunch: YouTube will let US users stream full seasons of nearly 4,000 TV shows &lpar;with ads&rpar;](https://techcrunch.com/2022/03/23/daily-crunch-youtube-will-let-us-users-stream-full-seasons-of-nearly-4000-tv-shows-with-ads/)
+- [NASA is looking for a second company to develop a human moon lander alongside SpaceX](https://techcrunch.com/2022/03/23/nasa-is-looking-for-a-second-company-to-develop-a-human-moon-lander-alongside-spacex/)
+- [NASA wants another moon lander for Artemis astronauts, not just SpaceX&#39;s Starship](https://www.space.com/nasa-more-artemis-moon-landers-for-astronauts)
+- [The sun and moon photobomb NASA&#39;s Artemis 1 megarocket in these amazing photos](https://www.space.com/sun-moon-photobomb-nasa-artemis-1-rollout)
+- [Skyline scores $6.5M to wash windows with robot arms](https://techcrunch.com/2022/03/23/skyline-scores-6-5m-to-wash-windows-with-robot-arms/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
