@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Play to pilot third-party billing option globally, starting with Spotify](https://techcrunch.com/2022/03/23/google-play-to-pilot-third-party-billing-option-globally-starting-with-spotify/)
+- [Twitter might start charging for TweetDeck through Twitter Blue](https://techcrunch.com/2022/03/23/twitter-spotted-making-tweetdeck-paid-feature-twitter-blue/)
 - [NASA to discuss Artemis moon lander plan for astronauts today. How to listen online.](https://www.space.com/artemis-moon-lander-plan-update-march-2022-webcast)
 - [SpaceX&#39;s new Crew-4 Dragon capsule gets a name: Freedom](https://www.space.com/spacex-crew-4-mission-dragon-capsule-name-freedom)
 - [The product-led growth playbook](https://techcrunch.com/2022/03/23/the-product-led-growth-playbook/)
-- [SpaceX raises launch and Starlink prices, citing inflation](https://www.space.com/spacex-raises-prices-launch-starlink-inflation)
-- [Google Cloud now lets you suspend and resume VMs](https://techcrunch.com/2022/03/23/generaly-availability-google-cloud-now-lets-you-suspend-vms/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
