@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft wants you to build your next game in the cloud](https://techcrunch.com/2022/03/23/microsoft-wants-you-to-build-your-next-game-in-the-cloud/)
-- [Instagram launches chronological and ‘favorites’ feeds for all users, but they can’t be the default](https://techcrunch.com/2022/03/23/instagram-launches-chronological-and-favorites-feeds-for-all-users-but-they-cant-be-the-default/)
-- [OnePointOne wants a piece of the vertically farmed strawberry market](https://techcrunch.com/2022/03/23/onepointone-wants-a-piece-of-the-vertically-farmed-strawberry-market/)
-- [Rugged’s construction layout robots land $9.4M](https://techcrunch.com/2022/03/23/ruggeds-construction-layout-robots-land-9-4m/)
-- [Lego Star Wars Boba Fett Helmet review](https://www.space.com/lego-star-wars-boba-fett-helmet-75277-review)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [Dear Sophie: How long does it take to get International Entrepreneur Parole?](https://techcrunch.com/2022/03/23/dear-sophie-how-long-does-it-take-to-get-international-entrepreneur-parole-2/)
+- [The best time to buy a telescope: Shop smart and save](https://www.space.com/best-time-to-buy-a-telescope)
+- [The double-slit experiment: Is light a wave or a particle?](https://www.space.com/double-slit-experiment-light-wave-or-particle)
+- [What Yuga Labs wants to build after raising $450M](https://techcrunch.com/2022/03/23/what-yuga-labs-wants-to-build-after-raising-450m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
