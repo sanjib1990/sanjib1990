@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [2 astronauts performing spacewalk Wednesday morning: Watch live](https://www.space.com/astronauts-spacewalk-space-station-march-2022-preview)
+- [YouTube to stream free, ad-supported TV shows for the first time](https://techcrunch.com/2022/03/23/youtube-to-stream-free-ad-supported-tv-shows-for-the-first-time/)
 - [Japan’s Terra Drone lands $70M Series B funding to accelerate global expansion](https://techcrunch.com/2022/03/22/japans-terra-drone-lands-70m-series-b-funding-to-accelerate-global-expansion/)
 - [Mars helicopter Ingenuity soars on 22nd Red Planet flight](https://www.space.com/nasa-mars-helicopter-ingenuity-flight-22)
 - [Daily Crunch: Identity-as-a-service platform Okta says it ‘contained’ network breach in January](https://techcrunch.com/2022/03/22/daily-crunch-identity-as-a-service-platform-okta-says-it-contained-network-breach-in-january/)
-- [Russia launches military communications satellite: reports](https://www.space.com/russia-launches-meridian-m-military-communications-satellite)
-- [Former Cruise CEO Dan Ammann joins ExxonMobil](https://techcrunch.com/2022/03/22/former-cruise-ceo-dan-ammann-joins-exxonmobil/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
