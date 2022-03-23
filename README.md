@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Open source project Tea is brew2 for web3](https://techcrunch.com/2022/03/23/open-source-project-tea-is-brew2-for-web3/)
-- [You can watch 2 NASA astronauts will take a spacewalk outside the International Space Station today](https://www.space.com/astronauts-spacewalk-space-station-march-2022-preview)
-- [Hubble telescope spies striking spiral galaxy that&#39;s part of a huge cosmic structure](https://www.space.com/spiral-galaxy-virgo-cluster-structure-hubble-photo)
-- [A spiderweb of wormholes could solve a fundamental paradox first proposed by Stephen Hawking](https://www.space.com/black-hole-paradox-solution)
-- [&#39;Star Trek: Picard&#39; Season 2 episode 3 offers epic updates to classic storylines](https://www.space.com/star-trek-picard-season-2-episode-3-review)
+- [New Era Capital Partners closes $140M to turn Israeli startups into ‘global citizens’](https://techcrunch.com/2022/03/23/new-era-capital-partners-closes-140m-to-turn-israeli-startups-into-global-citizens/)
+- [Boom &amp; Bucket scoops up investment to put second-hand machinery sales back on track](https://techcrunch.com/2022/03/23/boom-bucket-investment/)
+- [Datagen raises $50 million Series B to empower computer vision teams](https://techcrunch.com/2022/03/23/datagen-raises-50-million-series-b-to-empower-computer-vision-teams/)
+- [SpaceX’s Starlink prices are going up across the board](https://techcrunch.com/2022/03/23/spacexs-starlink-prices-are-going-up-across-the-board/)
+- [10 most successful sci-fi movies at the Oscars](https://www.space.com/most-successful-sci-fi-movies-at-the-oscars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
