@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Cloud now lets you suspend and resume VMs](https://techcrunch.com/2022/03/23/generaly-availability-google-cloud-now-lets-you-suspend-vms/)
+- [The Bohr model: The famous but flawed depiction of an atom](https://www.space.com/bohr-model-atom-structure)
 - [Despite declines, the value of crypto assets in DeFi protocols is up 3x from a year ago](https://techcrunch.com/2022/03/23/despite-declines-the-value-of-crypto-assets-in-defi-protocols-is-up-3x-from-a-year-ago/)
 - [Nvidia’s Clara Holoscan MGX means to bring high-powered AI to the doctor’s office](https://techcrunch.com/2022/03/23/nvidias-clara-holoscan-mgx-means-to-bring-high-powered-ai-to-the-doctors-office/)
 - [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [Dear Sophie: How long does it take to get International Entrepreneur Parole?](https://techcrunch.com/2022/03/23/dear-sophie-how-long-does-it-take-to-get-international-entrepreneur-parole-2/)
-- [The best time to buy a telescope: Shop smart and save](https://www.space.com/best-time-to-buy-a-telescope)
 <!-- BLOG-POST-LIST:END -->
 
 ---
