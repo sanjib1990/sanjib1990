@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [You can find, and pay for, Spin scooters on Lyft’s app now](https://techcrunch.com/2022/03/24/you-can-find-and-pay-for-spin-scooters-on-lyfts-app-now/)
-- [China’s EV chassis maker PIX raises $11M to build its own smart vehicles](https://techcrunch.com/2022/03/24/pix-moving-chassis-skateboard-11-million/)
-- [On This Day in Space! March 24, 1961: Mercury-Redstone BD Rocket Launches on Uncrewed Test Flight](https://www.space.com/39251-on-this-day-in-space.html)
-- [Nigeria’s Kwik gets $2M to add financial services to its last-mile delivery offerings](https://techcrunch.com/2022/03/24/nigerias-kwik-gets-2m-to-add-financial-services-to-its-last-mile-delivery-offerings/)
-- [Cosmic orcs? Scientists snap best image yet of eerie &#39;odd radio circles&#39; in space](https://www.space.com/mysterious-odd-radio-circle-glow-best-image)
+- [Samsara Eco wants to help end global plastic crisis with enzyme-based technology](https://techcrunch.com/2022/03/24/samsara-eco-wants-to-help-end-global-plastic-crisis-with-enzyme-based-technology/)
+- [Alphabet confirms Russia is restricting Google News](https://techcrunch.com/2022/03/24/russia-blocks-google-news/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [Flock Homes closes on $26M for landlords to exchange rentals for shares in a portfolio of homes](https://techcrunch.com/2022/03/24/flock-homes-closes-on-an-a16z-led-26m-series-a/)
+- [Colombian payment infra startup Simetrik lands $20M Series A at a $100M+ valuation](https://techcrunch.com/2022/03/24/colombian-payment-infra-startup-simetrik-lands-20m-at-a-100m-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
