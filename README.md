@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [You can find, and pay for, Spin scooters on Lyft’s app now](https://techcrunch.com/2022/03/24/you-can-find-and-pay-for-spin-scooters-on-lyfts-app-now/)
+- [China’s EV chassis maker PIX raises $11M to build its own smart vehicles](https://techcrunch.com/2022/03/24/pix-moving-chassis-skateboard-11-million/)
+- [On This Day in Space! March 24, 1961: Mercury-Redstone BD Rocket Launches on Uncrewed Test Flight](https://www.space.com/39251-on-this-day-in-space.html)
 - [Nigeria’s Kwik gets $2M to add financial services to its last-mile delivery offerings](https://techcrunch.com/2022/03/24/nigerias-kwik-gets-2m-to-add-financial-services-to-its-last-mile-delivery-offerings/)
-- [Weglot raises $50 million to turn any website into a multilingual site](https://techcrunch.com/2022/03/24/weglot-raises-50-million-to-turn-any-website-into-a-multilingual-site/)
-- [Digital lenders in Kenya must disclose source of funds as new law takes effect](https://techcrunch.com/2022/03/23/digital-lenders-in-kenya-must-disclose-source-of-funds-as-new-law-takes-effect/)
-- [LG Energy increases battery production in the U.S. with $1.4B investment](https://techcrunch.com/2022/03/23/lg-energy-increases-battery-production-in-the-u-s-with-1-4b-investment/)
-- [The Web Foundation is taking on deceptive design](https://techcrunch.com/2022/03/23/deceptive-design-patterns-project/)
+- [Cosmic orcs? Scientists snap best image yet of eerie &#39;odd radio circles&#39; in space](https://www.space.com/mysterious-odd-radio-circle-glow-best-image)
 <!-- BLOG-POST-LIST:END -->
 
 ---
