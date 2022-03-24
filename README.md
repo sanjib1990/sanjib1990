@@ -83,7 +83,7 @@
 
 <!-- YOUTUBE:START -->
 - [Binary Search Algorithm in 100 Seconds](https://www.youtube.com/watch?v=MFhxShGxHWc)
-- [i&#39;m broke..... &lpar;Unlimited Budget Gaming PC Build&rpar;](https://www.youtube.com/watch?v=2MS5wnYnxPc)
+- [Blind PC Build....but in VR](https://www.youtube.com/watch?v=2MS5wnYnxPc)
 - [10 very promising Open Source Projects you haven’t heard of](https://www.youtube.com/watch?v=qXUl3VsbA6o)
 - [Apple M1 Ultra &amp; NUMA - Computerphile](https://www.youtube.com/watch?v=yG1m7oGZC48)
 - [How MIT OpenCourseWare and MITx helped Air Force veteran soar](https://www.youtube.com/watch?v=bqBH2pq9fpA)
