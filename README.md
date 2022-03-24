@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Reddit weighs new video feature with ‘reactions’ for use in its online discussions](https://techcrunch.com/2022/03/24/reddit-weighs-new-video-feature-with-reactions-for-use-in-its-online-discussions/)
-- [Grab your early bird founder pass to TechCrunch Early Stage before prices increase](https://techcrunch.com/2022/03/24/grab-your-early-bird-founder-pass-to-techcrunch-early-stage-before-prices-increase/)
-- [Webb Continues Multi-Instrument Alignment](https://blogs.nasa.gov/webb/2022/03/24/webb-continues-multi-instrument-alignment/)
-- [Life as we know it would not exist without this highly unusual number](https://www.space.com/fine-structure-constant-universe-mystery)
-- [Milky Way galaxy: Facts about our cosmic neighborhood](https://www.space.com/19915-milky-way-galaxy.html)
+- [Data obscures positive trends in VC dollars reaching women-founded startups](https://techcrunch.com/2022/03/24/data-obscures-positive-trends-in-vc-dollars-reaching-women-founded-startups/)
+- [Using data to solve key pain points for today’s banking customers](https://techcrunch.com/2022/03/24/using-data-to-solve-key-pain-points-for-todays-banking-customers/)
+- [Uber will list NYC taxis to combat driver shortage and high fares](https://techcrunch.com/2022/03/24/uber-nyc-taxi-partnership-deal/)
+- [The sun as you&#39;ve never seen it: European probe snaps closest-ever photo of our star](https://www.space.com/closest-ever-sun-photo-solar-orbiter)
+- [UK police arrest 7 people in connection with Lapsus$ hacks](https://techcrunch.com/2022/03/24/london-police-lapsus-arrests/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
