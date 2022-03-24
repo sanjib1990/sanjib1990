@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Celebrity chef José Andrés is cooking for private Ax-1 astronauts](https://www.space.com/celebrity-chef-jose-andres-cook-axiom-ax-1-mission)
+- [NASA finally opened 50-year-old Apollo moon rock sample as agency eyes human return to lunar surface](https://www.space.com/nasa-opened-moon-rock-apollo-17)
 - [North Korea launches most powerful missile yet in 1st ICBM test since 2017: reports](https://www.space.com/north-korea-launches-most-powerful-icbm-test)
 - [Such great heights](https://techcrunch.com/2022/03/24/such-great-heights/)
 - [Ola to acquire fintech Avail Finance](https://techcrunch.com/2022/03/24/ola-avail-finance-family-game/)
-- [TechCrunch debuts ‘Chain Reaction,’ a new podcast about the wild world of web3](https://techcrunch.com/2022/03/24/techcrunch-debuts-chain-reaction-a-new-podcast-about-the-wild-world-of-web3/)
-- [Data obscures positive trends in VC dollars reaching women-founded startups](https://techcrunch.com/2022/03/24/data-obscures-positive-trends-in-vc-dollars-reaching-women-founded-startups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
