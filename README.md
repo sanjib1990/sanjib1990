@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Web Foundation is taking on deceptive design](https://techcrunch.com/2022/03/23/deceptive-design-patterns-project/)
 - [Daily Crunch: YouTube will let US users stream full seasons of nearly 4,000 TV shows &lpar;with ads&rpar;](https://techcrunch.com/2022/03/23/daily-crunch-youtube-will-let-us-users-stream-full-seasons-of-nearly-4000-tv-shows-with-ads/)
 - [NASA is looking for a second company to develop a human moon lander alongside SpaceX](https://techcrunch.com/2022/03/23/nasa-is-looking-for-a-second-company-to-develop-a-human-moon-lander-alongside-spacex/)
 - [NASA wants another moon lander for Artemis astronauts, not just SpaceX&#39;s Starship](https://www.space.com/nasa-more-artemis-moon-landers-for-astronauts)
 - [The sun and moon photobomb NASA&#39;s Artemis 1 megarocket in these amazing photos](https://www.space.com/sun-moon-photobomb-nasa-artemis-1-rollout)
-- [Skyline scores $6.5M to wash windows with robot arms](https://techcrunch.com/2022/03/23/skyline-scores-6-5m-to-wash-windows-with-robot-arms/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
