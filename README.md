@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jessica Watkins: NASA astronaut and 1st Black woman to fly a long-duration spaceflight](https://www.space.com/nasa-astronaut-jessica-watkins-biography-reference)
+- [Too much email? Try Gated, which asks unknown senders to make a donation first](https://techcrunch.com/2022/03/24/too-much-email-try-gated-which-asks-unknown-senders-to-make-a-donation-first/)
+- [Polestar’s long range single motor Polestar 2 arrives in the US](https://techcrunch.com/2022/03/24/polestars-long-range-single-motor-polestar-2-arrives-in-the-us/)
+- [Netflix adds two more games, will release its first first-person shooter title soon](https://techcrunch.com/2022/03/24/netflix-adds-games-release-first-person-shooter-game/)
 - [Celebrity chef José Andrés is cooking for private Ax-1 astronauts](https://www.space.com/celebrity-chef-jose-andres-cook-axiom-ax-1-mission)
-- [NASA finally opened 50-year-old Apollo moon rock sample as agency eyes human return to lunar surface](https://www.space.com/nasa-opened-moon-rock-apollo-17)
-- [North Korea launches most powerful missile yet in 1st ICBM test since 2017: reports](https://www.space.com/north-korea-launches-most-powerful-icbm-test)
-- [Such great heights](https://techcrunch.com/2022/03/24/such-great-heights/)
-- [Ola to acquire fintech Avail Finance](https://techcrunch.com/2022/03/24/ola-avail-finance-family-game/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
