@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [HBO Max adds a new shuffle button for select TV shows on its platform](https://techcrunch.com/2022/03/24/hbo-max-shuffle-button-shows/)
-- [Mozilla launches paid subscriptions to its Developer Network](https://techcrunch.com/2022/03/24/mozilla-launches-mdn-plus-paid-subscriptions-for-its-developer-network/)
-- [Captain’s contractor lending tool aims to speed up home repairs after natural disasters](https://techcrunch.com/2022/03/24/captains-contractor-lending-tool-aims-to-speed-up-home-repairs-after-natural-disasters/)
-- [App ecosystem growth continued in Q1 with 37B downloads, new high of $33B in consumer spending](https://techcrunch.com/2022/03/24/app-ecosystem-growth-continued-in-q1-with-37b-downloads-new-high-of-33b-in-consumer-spending/)
-- [Register now for TechCrunch Live: Austin!](https://techcrunch.com/2022/03/24/register-now-for-techcrunch-live-austin/)
+- [Reddit weighs new video feature with ‘reactions’ for use in its online discussions](https://techcrunch.com/2022/03/24/reddit-weighs-new-video-feature-with-reactions-for-use-in-its-online-discussions/)
+- [Grab your early bird founder pass to TechCrunch Early Stage before prices increase](https://techcrunch.com/2022/03/24/grab-your-early-bird-founder-pass-to-techcrunch-early-stage-before-prices-increase/)
+- [Webb Continues Multi-Instrument Alignment](https://blogs.nasa.gov/webb/2022/03/24/webb-continues-multi-instrument-alignment/)
+- [Life as we know it would not exist without this highly unusual number](https://www.space.com/fine-structure-constant-universe-mystery)
+- [Milky Way galaxy: Facts about our cosmic neighborhood](https://www.space.com/19915-milky-way-galaxy.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
