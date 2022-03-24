@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Samsara Eco wants to help end global plastic crisis with enzyme-based technology](https://techcrunch.com/2022/03/24/samsara-eco-wants-to-help-end-global-plastic-crisis-with-enzyme-based-technology/)
-- [Alphabet confirms Russia is restricting Google News](https://techcrunch.com/2022/03/24/russia-blocks-google-news/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [Flock Homes closes on $26M for landlords to exchange rentals for shares in a portfolio of homes](https://techcrunch.com/2022/03/24/flock-homes-closes-on-an-a16z-led-26m-series-a/)
-- [Colombian payment infra startup Simetrik lands $20M Series A at a $100M+ valuation](https://techcrunch.com/2022/03/24/colombian-payment-infra-startup-simetrik-lands-20m-at-a-100m-valuation/)
+- [Halo TV series streaming guide: Release date, where to stream, plot and more](https://www.space.com/halo-tv-series-streaming-guide-where-to-watch-online)
+- [Bird tests motorized wheelchair attachment in NYC](https://techcrunch.com/2022/03/24/bird-tests-motorized-wheelchair-attachment-in-nyc/)
+- [Rental car delivery startup Kyte is growing its fleet to 10,000 vehicles](https://techcrunch.com/2022/03/24/rental-car-delivery-startup-kyte-is-growing-200m-loan-goldman-sachs-ares-global-management/)
+- [Coinbase makes India push with support for UPI payments](https://techcrunch.com/2022/03/24/coinbase-makes-india-push-with-support-for-upi-payments/)
+- [China’s microblogging giant Weibo faces delisting risks in US](https://techcrunch.com/2022/03/24/chinas-microblogging-giant-weibo-faces-delisting-risks-in-us/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
