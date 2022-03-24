@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Only seven days left to save $300 on passes to TC Sessions: Mobility 2022](https://techcrunch.com/2022/03/24/only-seven-days-left-to-save-300-on-passes-to-tc-sessions-mobility-2022/)
-- [Twitter now lets you search your DMs for specific messages](https://techcrunch.com/2022/03/24/twitter-search-dms-specific-messages/)
-- [Oslo-based Unleash nabs $14M Series A to build open source feature management tool](https://techcrunch.com/2022/03/24/oslo-based-unleash-nabs-14m-series-a-to-build-open-source-feature-management-tool/)
-- [How to build and grow an effective Emergency Task Force](https://techcrunch.com/2022/03/24/how-to-build-and-grow-an-effective-emergency-task-force/)
-- [Halo TV series streaming guide: Release date, where to stream, plot and more](https://www.space.com/halo-tv-series-streaming-guide-where-to-watch-online)
+- [Register now for TechCrunch Live: Austin!](https://techcrunch.com/2022/03/24/register-now-for-techcrunch-live-austin/)
+- [Oura sells its millionth ring](https://techcrunch.com/2022/03/24/oura-sells-its-millionth-ring/)
+- [&#39;Halo&#39; straps on the power armor for new live-action series on Paramount Plus](https://www.space.com/halo-paramount-plus-tv-series-premiere)
+- [I kinda dig the Instacart growth plan](https://techcrunch.com/2022/03/24/i-kinda-dig-the-instacart-growth-plan/)
+- [Ukraine invasion&#39;s impacts on space exploration: Live updates](https://www.space.com/news/live/russia-ukraine-invasion-space-impacts-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
