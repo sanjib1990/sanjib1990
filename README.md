@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [North Korea launches most powerful missile yet in 1st ICBM test since 2017: reports](https://www.space.com/north-korea-launches-most-powerful-icbm-test)
+- [Such great heights](https://techcrunch.com/2022/03/24/such-great-heights/)
+- [Ola to acquire fintech Avail Finance](https://techcrunch.com/2022/03/24/ola-avail-finance-family-game/)
+- [TechCrunch debuts ‘Chain Reaction,’ a new podcast about the wild world of web3](https://techcrunch.com/2022/03/24/techcrunch-debuts-chain-reaction-a-new-podcast-about-the-wild-world-of-web3/)
 - [Data obscures positive trends in VC dollars reaching women-founded startups](https://techcrunch.com/2022/03/24/data-obscures-positive-trends-in-vc-dollars-reaching-women-founded-startups/)
-- [Using data to solve key pain points for today’s banking customers](https://techcrunch.com/2022/03/24/using-data-to-solve-key-pain-points-for-todays-banking-customers/)
-- [Uber will list NYC taxis to combat driver shortage and high fares](https://techcrunch.com/2022/03/24/uber-nyc-taxi-partnership-deal/)
-- [The sun as you&#39;ve never seen it: European probe snaps closest-ever photo of our star](https://www.space.com/closest-ever-sun-photo-solar-orbiter)
-- [UK police arrest 7 people in connection with Lapsus$ hacks](https://techcrunch.com/2022/03/24/london-police-lapsus-arrests/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
