@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Weglot raises $50 million to turn any website into a multilingual site](https://techcrunch.com/2022/03/24/weglot-raises-50-million-to-turn-any-website-into-a-multilingual-site/)
 - [Digital lenders in Kenya must disclose source of funds as new law takes effect](https://techcrunch.com/2022/03/23/digital-lenders-in-kenya-must-disclose-source-of-funds-as-new-law-takes-effect/)
 - [LG Energy increases battery production in the U.S. with $1.4B investment](https://techcrunch.com/2022/03/23/lg-energy-increases-battery-production-in-the-u-s-with-1-4b-investment/)
 - [The Web Foundation is taking on deceptive design](https://techcrunch.com/2022/03/23/deceptive-design-patterns-project/)
 - [Daily Crunch: YouTube will let US users stream full seasons of nearly 4,000 TV shows &lpar;with ads&rpar;](https://techcrunch.com/2022/03/23/daily-crunch-youtube-will-let-us-users-stream-full-seasons-of-nearly-4000-tv-shows-with-ads/)
-- [NASA is looking for a second company to develop a human moon lander alongside SpaceX](https://techcrunch.com/2022/03/23/nasa-is-looking-for-a-second-company-to-develop-a-human-moon-lander-alongside-spacex/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
