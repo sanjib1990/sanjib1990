@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Wearable health tracker Oura has sold more than a million rings](https://techcrunch.com/2022/03/24/daily-crunch-wearable-health-tracker-oura-has-sold-more-than-a-million-rings/)
 - [Jessica Watkins: NASA astronaut and 1st Black woman to fly a long-duration spaceflight](https://www.space.com/nasa-astronaut-jessica-watkins-biography-reference)
 - [Too much email? Try Gated, which asks unknown senders to make a donation first](https://techcrunch.com/2022/03/24/too-much-email-try-gated-which-asks-unknown-senders-to-make-a-donation-first/)
 - [Polestar’s long range single motor Polestar 2 arrives in the US](https://techcrunch.com/2022/03/24/polestars-long-range-single-motor-polestar-2-arrives-in-the-us/)
 - [Netflix adds two more games, will release its first first-person shooter title soon](https://techcrunch.com/2022/03/24/netflix-adds-games-release-first-person-shooter-game/)
-- [Celebrity chef José Andrés is cooking for private Ax-1 astronauts](https://www.space.com/celebrity-chef-jose-andres-cook-axiom-ax-1-mission)
 <!-- BLOG-POST-LIST:END -->
 
 ---
