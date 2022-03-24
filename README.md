@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [HBO Max adds a new shuffle button for select TV shows on its platform](https://techcrunch.com/2022/03/24/hbo-max-shuffle-button-shows/)
+- [Mozilla launches paid subscriptions to its Developer Network](https://techcrunch.com/2022/03/24/mozilla-launches-mdn-plus-paid-subscriptions-for-its-developer-network/)
+- [Captain’s contractor lending tool aims to speed up home repairs after natural disasters](https://techcrunch.com/2022/03/24/captains-contractor-lending-tool-aims-to-speed-up-home-repairs-after-natural-disasters/)
+- [App ecosystem growth continued in Q1 with 37B downloads, new high of $33B in consumer spending](https://techcrunch.com/2022/03/24/app-ecosystem-growth-continued-in-q1-with-37b-downloads-new-high-of-33b-in-consumer-spending/)
 - [Register now for TechCrunch Live: Austin!](https://techcrunch.com/2022/03/24/register-now-for-techcrunch-live-austin/)
-- [Oura sells its millionth ring](https://techcrunch.com/2022/03/24/oura-sells-its-millionth-ring/)
-- [&#39;Halo&#39; straps on the power armor for new live-action series on Paramount Plus](https://www.space.com/halo-paramount-plus-tv-series-premiere)
-- [I kinda dig the Instacart growth plan](https://techcrunch.com/2022/03/24/i-kinda-dig-the-instacart-growth-plan/)
-- [Ukraine invasion&#39;s impacts on space exploration: Live updates](https://www.space.com/news/live/russia-ukraine-invasion-space-impacts-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
