@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Three new Lego Star Wars diorama sets have been announced - and they’re all under $100](https://www.space.com/lego-original-trilogy-dioramas-announced-2022)
-- [It’s a fintech world, and we’re just living in it](https://techcrunch.com/2022/03/25/its-a-fintech-world-and-were-just-living-in-it/)
-- [Best lenses for astrophotography](https://www.space.com/best-lenses-for-astrophotography)
-- [Remote-work boom powers Firstbase to $50M Series B](https://techcrunch.com/2022/03/25/remote-work-boom-powers-firstbase-to-50m-series-b/)
-- [Bigblue raises $15 million for its D2C order fulfillment service](https://techcrunch.com/2022/03/25/bigblue-raises-15-million-for-its-d2c-order-fulfillment-service/)
+- [NASA to announce Hubble Space Telescope discovery next week](https://www.space.com/hubble-space-telescope-observations-announcement-coming)
+- [James Webb Space Telescope&#39;s 1st science targets remain super secret as observatory settles in](https://www.space.com/james-webb-space-telescope-first-science-observations-secret)
+- [As Instacart looks to cut its valuation, will it kick off a trend?](https://techcrunch.com/2022/03/25/as-instacart-looks-to-cut-its-valuation-will-it-kick-off-a-trend/)
+- [Three new Lego Star Wars diorama sets have been announced — and they&#39;re all under $100](https://www.space.com/lego-original-trilogy-dioramas-announced-2022)
+- [Netflix buys independent game developer Boss Fight in latest gaming acquisition](https://techcrunch.com/2022/03/25/netflix-buys-game-developer-boss-fight/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
