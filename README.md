@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Colabs gets $3 million seed to expand across Pakistan, launch back-office SaaS solution](https://techcrunch.com/2022/03/24/colabs-gets-3-million-seed-to-expand-across-pakistan-launch-back-office-saas-solution/)
-- [Google-backed Glance acquires gaming platform Gambit in NFT push](https://techcrunch.com/2022/03/24/google-backed-glance-acquires-gaming-platform-gambit-in-nft-push/)
-- [Former TikTok content moderators file lawsuit over ‘psychological trauma’](https://techcrunch.com/2022/03/24/former-tiktok-content-moderators-file-lawsuit-over-psychological-trauma/)
-- [Europe says yes to messaging interoperability as it agrees major new regime for big tech](https://techcrunch.com/2022/03/24/dma-political-agreement/)
-- [Daily Crunch: Wearable health tracker Oura has sold more than a million rings](https://techcrunch.com/2022/03/24/daily-crunch-wearable-health-tracker-oura-has-sold-more-than-a-million-rings/)
+- [EU and US agree data transfer deal to replace defunct Privacy Shield](https://techcrunch.com/2022/03/25/eu-and-us-agree-data-transfer-deal-to-replace-defunct-privacy-shield/)
+- [On This Day in Space! March 25, 1655: Christiaan Huygens Discovers Saturn&#39;s Moon Titan](https://www.space.com/39251-on-this-day-in-space.html)
+- [Dominate the battlefield with up to 47% off Nerf guns at Amazon UK](https://www.space.com/save-47-percent-uk-nerf-gun-discounts-on-amazon)
+- [Russia&#39;s devastation of Mariupol, Ukraine visible from space in satellite photos](https://www.space.com/russia-ukraine-invasion-mariupol-damage-satellite-photos)
+- [China may have its sights set on a mission to Venus](https://www.space.com/china-proposed-tianwen-missions-include-venus)
 <!-- BLOG-POST-LIST:END -->
 
 ---
