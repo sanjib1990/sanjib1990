@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Colabs gets $3 million seed to expand across Pakistan, launch back-office SaaS solution](https://techcrunch.com/2022/03/24/colabs-gets-3-million-seed-to-expand-across-pakistan-launch-back-office-saas-solution/)
 - [Google-backed Glance acquires gaming platform Gambit in NFT push](https://techcrunch.com/2022/03/24/google-backed-glance-acquires-gaming-platform-gambit-in-nft-push/)
 - [Former TikTok content moderators file lawsuit over ‘psychological trauma’](https://techcrunch.com/2022/03/24/former-tiktok-content-moderators-file-lawsuit-over-psychological-trauma/)
 - [Europe says yes to messaging interoperability as it agrees major new regime for big tech](https://techcrunch.com/2022/03/24/dma-political-agreement/)
 - [Daily Crunch: Wearable health tracker Oura has sold more than a million rings](https://techcrunch.com/2022/03/24/daily-crunch-wearable-health-tracker-oura-has-sold-more-than-a-million-rings/)
-- [Jessica Watkins: NASA astronaut and 1st Black woman to fly a long-duration spaceflight](https://www.space.com/nasa-astronaut-jessica-watkins-biography-reference)
 <!-- BLOG-POST-LIST:END -->
 
 ---
