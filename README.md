@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Best lenses for astrophotography](https://www.space.com/best-lenses-for-astrophotography)
+- [Remote-work boom powers Firstbase to $50M Series B](https://techcrunch.com/2022/03/25/remote-work-boom-powers-firstbase-to-50m-series-b/)
+- [Bigblue raises $15 million for its D2C order fulfillment service](https://techcrunch.com/2022/03/25/bigblue-raises-15-million-for-its-d2c-order-fulfillment-service/)
+- [Best Oscar sci-fi movie soundtracks, ranked](https://www.space.com/best-oscar-sci-fi-movie-soundtracks-ranked)
 - [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [EU and US agree data transfer deal to replace defunct Privacy Shield](https://techcrunch.com/2022/03/25/eu-and-us-agree-data-transfer-deal-to-replace-defunct-privacy-shield/)
-- [On This Day in Space! March 25, 1655: Christiaan Huygens Discovers Saturn&#39;s Moon Titan](https://www.space.com/39251-on-this-day-in-space.html)
-- [Dominate the battlefield with up to 47% off Nerf guns at Amazon UK](https://www.space.com/save-47-percent-uk-nerf-gun-discounts-on-amazon)
-- [Russia&#39;s devastation of Mariupol, Ukraine visible from space in satellite photos](https://www.space.com/russia-ukraine-invasion-mariupol-damage-satellite-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
