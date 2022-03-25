@@ -84,7 +84,7 @@
 <!-- YOUTUBE:START -->
 - [my code works… why?](https://www.youtube.com/watch?v=9BvBRXkJA58)
 - [Binary Search Algorithm in 100 Seconds](https://www.youtube.com/watch?v=MFhxShGxHWc)
-- [Blind PC Build....but in VR](https://www.youtube.com/watch?v=2MS5wnYnxPc)
+- [my credit card is dead &lpar;no budget PC build&rpar;](https://www.youtube.com/watch?v=2MS5wnYnxPc)
 - [10 very promising Open Source Projects you haven’t heard of](https://www.youtube.com/watch?v=qXUl3VsbA6o)
 - [Apple M1 Ultra &amp; NUMA - Computerphile](https://www.youtube.com/watch?v=yG1m7oGZC48)
 <!-- YOUTUBE:END -->
