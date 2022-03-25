@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [EU and US agree data transfer deal to replace defunct Privacy Shield](https://techcrunch.com/2022/03/25/eu-and-us-agree-data-transfer-deal-to-replace-defunct-privacy-shield/)
 - [On This Day in Space! March 25, 1655: Christiaan Huygens Discovers Saturn&#39;s Moon Titan](https://www.space.com/39251-on-this-day-in-space.html)
 - [Dominate the battlefield with up to 47% off Nerf guns at Amazon UK](https://www.space.com/save-47-percent-uk-nerf-gun-discounts-on-amazon)
 - [Russia&#39;s devastation of Mariupol, Ukraine visible from space in satellite photos](https://www.space.com/russia-ukraine-invasion-mariupol-damage-satellite-photos)
-- [China may have its sights set on a mission to Venus](https://www.space.com/china-proposed-tianwen-missions-include-venus)
 <!-- BLOG-POST-LIST:END -->
 
 ---
