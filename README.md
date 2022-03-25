@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [It’s a fintech world, and we’re just living in it](https://techcrunch.com/2022/03/25/its-a-fintech-world-and-were-just-living-in-it/)
 - [Best lenses for astrophotography](https://www.space.com/best-lenses-for-astrophotography)
 - [Remote-work boom powers Firstbase to $50M Series B](https://techcrunch.com/2022/03/25/remote-work-boom-powers-firstbase-to-50m-series-b/)
 - [Bigblue raises $15 million for its D2C order fulfillment service](https://techcrunch.com/2022/03/25/bigblue-raises-15-million-for-its-d2c-order-fulfillment-service/)
 - [Best Oscar sci-fi movie soundtracks, ranked](https://www.space.com/best-oscar-sci-fi-movie-soundtracks-ranked)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
