@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [FAA delays SpaceX Starship environmental review another month to April 29](https://www.space.com/faa-spacex-starship-review-delayed-april-2022)
+- [Ax-1 private mission to space station: Live updates](https://www.space.com/news/live/ax-1-space-station-mission-updates)
+- [Parts of the Milky Way are much older than thought, study reveals](https://www.space.com/parts-of-milky-way-older-than-thought)
 - [Ukraine plans to join the EU. Will the nation&#39;s space prospects expand as a result?](https://www.space.com/ukraine-join-european-union-space-industry-impact)
 - [Spotify will suspend its services in Russia in light of free speech crackdown](https://techcrunch.com/2022/03/25/spotify-will-suspend-its-services-in-russia-in-light-of-free-speech-crackdown/)
-- [Antarctic sea ice at record low in February, satellite data reveal](https://www.space.com/antarctic-sea-ice-at-record-low-feb-2022)
-- [NASA emails reveal internal discussions over calls to rename James Webb Space Telescope: report](https://www.space.com/nasa-james-webb-space-telescope-name-controversy-investigation)
-- [IT can play a major role in driving sustainability](https://techcrunch.com/2022/03/25/it-can-play-a-major-role-in-driving-sustainability/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
