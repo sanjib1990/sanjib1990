@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spacefaring adventure Deliver Us Mars sets a course for consoles and PCs](https://www.space.com/deliver-us-mars-announced-for-consoles-and-pc)
+- [TechCrunch+ roundup: PLG handbook, hiring early-stage sales teams, abolishing pro-rata](https://techcrunch.com/2022/03/25/techcrunch-roundup-plg-handbook-hiring-early-stage-sales-teams-abolishing-pro-rata/)
+- [Spotify confirms it’s testing a new ‘Car Mode’ interface with some users](https://techcrunch.com/2022/03/25/spotify-testing-car-mode/)
+- [Improving discovery for NFTs will amplify digital creators and marketplaces](https://techcrunch.com/2022/03/25/improving-discovery-for-nfts-will-amplify-digital-creators-and-marketplaces/)
 - [HubSpot is the latest SaaS company to woo creators](https://techcrunch.com/2022/03/25/hubspot-is-the-latest-saas-company-to-woo-creators/)
-- [Chinese Mars orbiter spies Zhurong, Perseverance rovers &lpar;photos, video&rpar;](https://www.space.com/china-tianwen-1-perseverance-zhurong-mars-rovers-photos)
-- [The mighty dog constellations of the spring night sky](https://www.space.com/mighty-dog-constellations-of-the-spring-night-sky)
-- [NASA to announce Hubble Space Telescope discovery next week](https://www.space.com/hubble-space-telescope-observations-announcement-coming)
-- [James Webb Space Telescope&#39;s 1st science targets remain super secret as observatory settles in](https://www.space.com/james-webb-space-telescope-first-science-observations-secret)
 <!-- BLOG-POST-LIST:END -->
 
 ---
