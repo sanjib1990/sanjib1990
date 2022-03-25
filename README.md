@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Teamwork &amp; Git - Computerphile](https://www.youtube.com/watch?v=RzYJvSnzlMk)
+- [you need to learn BASH Scripting RIGHT NOW!! // EP 1](https://www.youtube.com/watch?v=SPwyp2NG-bE)
 - [my code works… why?](https://www.youtube.com/watch?v=9BvBRXkJA58)
 - [Binary Search Algorithm in 100 Seconds](https://www.youtube.com/watch?v=MFhxShGxHWc)
 - [my credit card is dead &lpar;no budget PC build&rpar;](https://www.youtube.com/watch?v=2MS5wnYnxPc)
-- [10 very promising Open Source Projects you haven’t heard of](https://www.youtube.com/watch?v=qXUl3VsbA6o)
-- [Apple M1 Ultra &amp; NUMA - Computerphile](https://www.youtube.com/watch?v=yG1m7oGZC48)
 <!-- YOUTUBE:END -->
 
 ---
