@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How Europe has expanded its bid to disrupt Big Tech](https://techcrunch.com/2022/03/25/how-europe-has-expanded-its-bid-to-disrupt-big-tech/)
+- [US charges four Russian spies for hacking Saudi oil facility and US nuclear power plant](https://techcrunch.com/2022/03/25/doj-russia-triton-united-states-nuclear/)
 - [Spacefaring adventure Deliver Us Mars sets a course for consoles and PCs](https://www.space.com/deliver-us-mars-announced-for-consoles-and-pc)
 - [TechCrunch+ roundup: PLG handbook, hiring early-stage sales teams, abolishing pro-rata](https://techcrunch.com/2022/03/25/techcrunch-roundup-plg-handbook-hiring-early-stage-sales-teams-abolishing-pro-rata/)
 - [Spotify confirms it’s testing a new ‘Car Mode’ interface with some users](https://techcrunch.com/2022/03/25/spotify-testing-car-mode/)
-- [Improving discovery for NFTs will amplify digital creators and marketplaces](https://techcrunch.com/2022/03/25/improving-discovery-for-nfts-will-amplify-digital-creators-and-marketplaces/)
-- [HubSpot is the latest SaaS company to woo creators](https://techcrunch.com/2022/03/25/hubspot-is-the-latest-saas-company-to-woo-creators/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
