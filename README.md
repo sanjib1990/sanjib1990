@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ukraine plans to join the EU. Will the nation&#39;s space prospects expand as a result?](https://www.space.com/ukraine-join-european-union-space-industry-impact)
+- [Spotify will suspend its services in Russia in light of free speech crackdown](https://techcrunch.com/2022/03/25/spotify-will-suspend-its-services-in-russia-in-light-of-free-speech-crackdown/)
 - [Antarctic sea ice at record low in February, satellite data reveal](https://www.space.com/antarctic-sea-ice-at-record-low-feb-2022)
 - [NASA emails reveal internal discussions over calls to rename James Webb Space Telescope: report](https://www.space.com/nasa-james-webb-space-telescope-name-controversy-investigation)
-- [SpaceX, Northrop Grumman to resupply the ISS through 2026](https://techcrunch.com/2022/03/25/spacex-northrop-grumman-to-resupply-the-iss-through-2026/)
-- [How Europe has expanded its bid to disrupt Big Tech](https://techcrunch.com/2022/03/25/how-europe-has-expanded-its-bid-to-disrupt-big-tech/)
-- [US charges four Russian spies for hacking Saudi oil facility and US nuclear power plant](https://techcrunch.com/2022/03/25/doj-russia-triton-united-states-nuclear/)
+- [IT can play a major role in driving sustainability](https://techcrunch.com/2022/03/25/it-can-play-a-major-role-in-driving-sustainability/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
