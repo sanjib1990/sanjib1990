@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: EU, US reach ‘agreement in principle’ on trans-Atlantic data flows](https://techcrunch.com/2022/03/25/daily-crunch-eu-us-reach-agreement-in-principle-on-trans-atlantic-data-flows/)
+- [Ukraine invasion&#39;s impacts on space exploration: Live updates](https://www.space.com/news/live/russia-ukraine-invasion-space-impacts-updates)
 - [FAA delays SpaceX Starship environmental review another month to April 29](https://www.space.com/faa-spacex-starship-review-delayed-april-2022)
 - [Ax-1 private mission to space station: Live updates](https://www.space.com/news/live/ax-1-space-station-mission-updates)
 - [Parts of the Milky Way are much older than thought, study reveals](https://www.space.com/parts-of-milky-way-older-than-thought)
-- [Ukraine plans to join the EU. Will the nation&#39;s space prospects expand as a result?](https://www.space.com/ukraine-join-european-union-space-industry-impact)
-- [Spotify will suspend its services in Russia in light of free speech crackdown](https://techcrunch.com/2022/03/25/spotify-will-suspend-its-services-in-russia-in-light-of-free-speech-crackdown/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
