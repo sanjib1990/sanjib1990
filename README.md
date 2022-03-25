@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Antarctic sea ice at record low in February, satellite data reveal](https://www.space.com/antarctic-sea-ice-at-record-low-feb-2022)
+- [NASA emails reveal internal discussions over calls to rename James Webb Space Telescope: report](https://www.space.com/nasa-james-webb-space-telescope-name-controversy-investigation)
+- [SpaceX, Northrop Grumman to resupply the ISS through 2026](https://techcrunch.com/2022/03/25/spacex-northrop-grumman-to-resupply-the-iss-through-2026/)
 - [How Europe has expanded its bid to disrupt Big Tech](https://techcrunch.com/2022/03/25/how-europe-has-expanded-its-bid-to-disrupt-big-tech/)
 - [US charges four Russian spies for hacking Saudi oil facility and US nuclear power plant](https://techcrunch.com/2022/03/25/doj-russia-triton-united-states-nuclear/)
-- [Spacefaring adventure Deliver Us Mars sets a course for consoles and PCs](https://www.space.com/deliver-us-mars-announced-for-consoles-and-pc)
-- [TechCrunch+ roundup: PLG handbook, hiring early-stage sales teams, abolishing pro-rata](https://techcrunch.com/2022/03/25/techcrunch-roundup-plg-handbook-hiring-early-stage-sales-teams-abolishing-pro-rata/)
-- [Spotify confirms it’s testing a new ‘Car Mode’ interface with some users](https://techcrunch.com/2022/03/25/spotify-testing-car-mode/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
