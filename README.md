@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX&#39;s private Ax-1 astronaut flight cleared for launch pending NASA Artemis 1 moon rocket test](https://www.space.com/spacex-ax-1-private-spaceflight-artemis-1-test)
-- [Ax-1 private mission to space station: Live updates](https://www.space.com/news/live/ax-1-space-station-mission-updates)
-- [Daily Crunch: EU, US reach ‘agreement in principle’ on trans-Atlantic data flows](https://techcrunch.com/2022/03/25/daily-crunch-eu-us-reach-agreement-in-principle-on-trans-atlantic-data-flows/)
-- [Ukraine invasion&#39;s impacts on space exploration: Live updates](https://www.space.com/news/live/russia-ukraine-invasion-space-impacts-updates)
-- [FAA delays SpaceX Starship environmental review another month to April 29](https://www.space.com/faa-spacex-starship-review-delayed-april-2022)
+- [Our universe may have a twin that runs backward in time](https://www.space.com/mirror-universe-explains-dark-matter)
+- [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html)
+- [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html)
+- [NASA set to launch 2 rockets into the northern lights](https://www.space.com/northern-lights-rocket-launch-march-2022)
+- [Solar Orbiter spacecraft takes its closest look at the sun](https://www.space.com/solar-orbiter-takes-closest-look-at-sun)
 <!-- BLOG-POST-LIST:END -->
 
 ---
