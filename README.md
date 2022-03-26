@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Week In Space Podcast: Episode 4 - The beast emerges](https://www.space.com/this-week-in-space-podcast-twit)
+- [On This Day in Space! March 26, 1958: US Army Launches Explorer 3 Satellite](https://www.space.com/39251-on-this-day-in-space.html)
 - [Our universe may have a twin that runs backward in time](https://www.space.com/mirror-universe-explains-dark-matter)
 - [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html)
 - [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html)
-- [NASA set to launch 2 rockets into the northern lights](https://www.space.com/northern-lights-rocket-launch-march-2022)
-- [Solar Orbiter spacecraft takes its closest look at the sun](https://www.space.com/solar-orbiter-takes-closest-look-at-sun)
 <!-- BLOG-POST-LIST:END -->
 
 ---
