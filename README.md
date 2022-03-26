@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX&#39;s private Ax-1 astronaut flight cleared for launch pending NASA Artemis 1 moon rocket test](https://www.space.com/spacex-ax-1-private-spaceflight-artemis-1-test)
+- [Ax-1 private mission to space station: Live updates](https://www.space.com/news/live/ax-1-space-station-mission-updates)
 - [Daily Crunch: EU, US reach ‘agreement in principle’ on trans-Atlantic data flows](https://techcrunch.com/2022/03/25/daily-crunch-eu-us-reach-agreement-in-principle-on-trans-atlantic-data-flows/)
 - [Ukraine invasion&#39;s impacts on space exploration: Live updates](https://www.space.com/news/live/russia-ukraine-invasion-space-impacts-updates)
 - [FAA delays SpaceX Starship environmental review another month to April 29](https://www.space.com/faa-spacex-starship-review-delayed-april-2022)
-- [Ax-1 private mission to space station: Live updates](https://www.space.com/news/live/ax-1-space-station-mission-updates)
-- [Parts of the Milky Way are much older than thought, study reveals](https://www.space.com/parts-of-milky-way-older-than-thought)
 <!-- BLOG-POST-LIST:END -->
 
 ---
