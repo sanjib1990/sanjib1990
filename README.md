@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sinkholes as big as a skyscraper and as wide as a city street open up in the Arctic seafloor](https://www.space.com/sinkholes-opening-arctic-seafloor)
+- [Director Ken Kwapis talks &#39;Space Force&#39; Season 2 and wrangling a crazy comedic crew](https://www.space.com/space-force-season-2-director-ken-kwapis)
+- [Strange new type of solar wave defies physics](https://www.space.com/solar-waves-moving-too-fast)
 - [We keep trying to reinvent startup accelerators](https://techcrunch.com/2022/03/26/we-keep-trying-to-reinvent-startup-accelerators/)
 - [This Week in Apps: Google’s alternative billing, Instagram’s chronological feeds, digital driver’s licenses](https://techcrunch.com/2022/03/26/this-week-in-apps-googles-alternative-billing-instagrams-chronological-feeds-digital-drivers-licenses/)
-- [Are we about to see a unicorn selloff?](https://techcrunch.com/2022/03/26/are-we-about-to-see-a-unicorn-selloff/)
-- [This Week In Space Podcast: Episode 4 - The beast emerges](https://www.space.com/this-week-in-space-podcast-twit)
-- [On This Day in Space! March 26, 1958: US Army Launches Explorer 3 Satellite](https://www.space.com/39251-on-this-day-in-space.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
