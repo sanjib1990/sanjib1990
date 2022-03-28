@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple TV+ becomes the first streaming service to win a Best Picture Oscar with “CODA”](https://techcrunch.com/2022/03/27/apple-tv-becomes-the-first-streaming-service-to-win-a-best-picture-oscar-with-coda/)
+- [Australian fintech Zepto raises $25M AUD Series A to enhance payment infrastructure](https://techcrunch.com/2022/03/27/australian-fintech-zepto-raises-25m-series-a-to-enhance-payment-infrastructure/)
 - [Meet your co-founder or find your next gig at TC Sessions: Mobility 2022](https://techcrunch.com/2022/03/27/meet-your-co-founder-or-find-your-next-gig-at-tc-sessions-mobility-2022/)
 - [Freelancer marketplace Malt acquires consulting marketplace Comatch](https://techcrunch.com/2022/03/27/freelancer-marketplace-malt-acquires-consulting-marketplace-comatch/)
 - [Fintech Roundup: Will financial technology startups dodge the venture slowdown?](https://techcrunch.com/2022/03/27/fintech-roundup-will-financial-technology-startups-dodge-the-venture-slowdown/)
-- [On This Day in Space! March 27, 1989: Phobos 2 Mars moon mission ends in failure](https://www.space.com/39251-on-this-day-in-space.html)
-- [&#39;The Paradox Hotel&#39; by Rob Hart is a trippy time travel murder mystery &lpar;exclusive&rpar;](https://www.space.com/the-paradox-hotel-time-travel-rob-hart-interview)
 <!-- BLOG-POST-LIST:END -->
 
 ---
