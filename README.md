@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Dune&#39; wins 6 Oscars at Academy Awards](https://www.space.com/dune-wins-6-oscars-academy-awards-2022)
+- [Perseverance rover&#39;s Mars samples now won&#39;t make it to Earth until 2033 at best](https://www.space.com/perseverance-mars-sample-return-delay-2033)
 - [Instagram’s latest test makes it easier to support social movements through hashtags](https://techcrunch.com/2022/03/28/instagrams-latest-test-makes-it-easier-to-support-social-movements-through-hashtags/)
 - [Lapsus$ found a spreadsheet of passwords as they breached Okta, documents show](https://techcrunch.com/2022/03/28/lapsus-passwords-okta-breach/)
 - [Contingent targets broken procurement processes](https://techcrunch.com/2022/03/28/contingent-fundraise/)
-- [Biden proposes $26 billion NASA budget as agency pledges 2040 human Mars landing](https://www.space.com/nasa-budget-request-26-billion-for-2023)
-- [Don’t lose sleep over Elon Musk’s desire to build the next Twitter](https://techcrunch.com/2022/03/28/elon-musk-tweets-social-media-twitter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
