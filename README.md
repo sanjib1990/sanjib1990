@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [House-sized asteroid zooms by Earth in close flyby](https://www.space.com/house-sized-asteroid-2022-fb2-earth-flyby)
+- [a16z, NFX back Latitud’s effort to become ‘the operating system for every venture-backed company in LatAm’](https://techcrunch.com/2022/03/28/a16z-nfx-back-latituds-effort-to-become-the-operating-system-for-every-venture-backed-company-in-latam/)
 - [Apple’s fine over Dutch dating apps antitrust order hits €50M — but ACM welcomes revised offer](https://techcrunch.com/2022/03/28/apple-acm-dating-apps-tenth-fine/)
 - [Pinterest to invest an additional $1.2 million in its Creator Fund for underrepresented groups](https://techcrunch.com/2022/03/28/pinterest-to-invest-an-additional-1-2-million-in-its-creator-fund-for-underrepresented-groups/)
 - [SpaceX will not be making any more new Crew Dragon capsules](https://techcrunch.com/2022/03/28/spacex-will-not-be-making-any-more-new-crew-dragon-capsules/)
-- [Lantum, a platform to manage healthcare staffing, gets a $15M injection](https://techcrunch.com/2022/03/28/lantum-a-platform-to-manage-healthcare-staffing-gets-a-15m-injection/)
-- [The secrets of black holes, revealed in All About Space magazine](https://www.space.com/all-about-space-magazine-issue-128)
 <!-- BLOG-POST-LIST:END -->
 
 ---
