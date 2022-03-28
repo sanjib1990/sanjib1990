@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Eksab gets $3M to scale its fantasy football platform across MENA and Africa](https://techcrunch.com/2022/03/28/eksab-gets-3m-to-scale-its-fantasy-football-platform-across-mena-and-africa/)
+- [Sea’s Shopee shutting down India operations](https://techcrunch.com/2022/03/28/shopee-india-shutdown-sea/)
 - [Apple TV+ becomes the first streaming service to win a Best Picture Oscar with “CODA”](https://techcrunch.com/2022/03/27/apple-tv-becomes-the-first-streaming-service-to-win-a-best-picture-oscar-with-coda/)
 - [Australian fintech Zepto raises $25M AUD Series A to enhance payment infrastructure](https://techcrunch.com/2022/03/27/australian-fintech-zepto-raises-25m-series-a-to-enhance-payment-infrastructure/)
 - [Meet your co-founder or find your next gig at TC Sessions: Mobility 2022](https://techcrunch.com/2022/03/27/meet-your-co-founder-or-find-your-next-gig-at-tc-sessions-mobility-2022/)
-- [Freelancer marketplace Malt acquires consulting marketplace Comatch](https://techcrunch.com/2022/03/27/freelancer-marketplace-malt-acquires-consulting-marketplace-comatch/)
-- [Fintech Roundup: Will financial technology startups dodge the venture slowdown?](https://techcrunch.com/2022/03/27/fintech-roundup-will-financial-technology-startups-dodge-the-venture-slowdown/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
