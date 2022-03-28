@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Brain.space remakes the EEG for our modern world &lpar;and soon, off-world&rpar;](https://techcrunch.com/2022/03/28/brain-space-remakes-the-eeg-for-our-modern-world-and-soon-off-world/)
+- [Treeswift is using drones to monitor forests](https://techcrunch.com/2022/03/28/treeswift-is-using-drones-to-monitor-forests/)
 - [Paris-based accelerator The Family sues co-founder Oussama Ammar](https://techcrunch.com/2022/03/28/paris-based-accelerator-the-family-sues-co-founder-oussama-ammar/)
 - [On This Day in Space! March 28, 1963: Last test flight of NASA&#39;s Saturn 1 rocket booster](https://www.space.com/39251-on-this-day-in-space.html)
 - [The moon and stars are a compass for nocturnal animals — but light pollution is leading them astray](https://www.space.com/light-pollution-leading-nocturnal-animals-astray)
-- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html)
-- [Moon mission practice: NASA continues gearing up for Artemis 1 &#39;wet dress rehearsal&#39;](https://www.space.com/nasa-artemis-1-wet-dress-rehearsal-preparations)
 <!-- BLOG-POST-LIST:END -->
 
 ---
