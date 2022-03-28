@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Dune&#39; wins 6 Oscars at Academy Awards](https://www.space.com/dune-wins-6-oscars-academy-awards-2022)
-- [Perseverance rover&#39;s Mars samples now won&#39;t make it to Earth until 2033 at best](https://www.space.com/perseverance-mars-sample-return-delay-2033)
-- [Instagram’s latest test makes it easier to support social movements through hashtags](https://techcrunch.com/2022/03/28/instagrams-latest-test-makes-it-easier-to-support-social-movements-through-hashtags/)
-- [Lapsus$ found a spreadsheet of passwords as they breached Okta, documents show](https://techcrunch.com/2022/03/28/lapsus-passwords-okta-breach/)
-- [Contingent targets broken procurement processes](https://techcrunch.com/2022/03/28/contingent-fundraise/)
+- [Max Q: A landing system for the moon and beyond](https://techcrunch.com/2022/03/28/max-q-a-landing-system-for-the-moon-and-beyond/)
+- [Papaya Global to buy Azimo for $150M-$200M to expand its payroll payments to more markets](https://techcrunch.com/2022/03/28/papaya-global-to-buy-azimo-for-150m-200m-to-expand-its-payroll-payments-to-more-markets/)
+- [Smart electric panel company Span gets a $90M jolt of cash](https://techcrunch.com/2022/03/28/smart-electric-panel-company-span-gets-a-90m-jolt-of-cash/)
+- [Spotify adds COVID-19 content advisory two months after Joe Rogan uproar](https://techcrunch.com/2022/03/28/spotify-covid-19-content-advisory-joe-rogan/)
+- [Blue Origin delays next crewed launch to Thursday due to high winds](https://www.space.com/blue-origin-spaceflight-ns-20-delay)
 <!-- BLOG-POST-LIST:END -->
 
 ---
