@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Your chance to save $300 on passes to TC Sessions: Mobility 2022 ends Friday](https://techcrunch.com/2022/03/28/your-chance-to-save-300-on-passes-to-tc-sessions-mobility-2022-ends-friday/)
+- [Shoreline scores $35M Series B to build automated incident response platform](https://techcrunch.com/2022/03/28/shoreline-scores-35m-series-b-to-build-automated-incident-response-platform/)
 - [EnquireLabs aims to pull back the curtain on consumer behavior](https://techcrunch.com/2022/03/28/enquirelabs-aims-to-pull-back-the-curtain-on-consumer-behavior/)
 - [Pixxel takes orbital imagery hyperspectral with $25M A round](https://techcrunch.com/2022/03/28/pixxel-takes-orbital-imagery-hyperspectral-with-25m-a-round/)
 - [Dune streaming guide: Where to watch Dune online](https://www.space.com/dune-streaming-guide-where-to-watch-dune-online)
-- [Brain.space remakes the EEG for our modern world &lpar;and soon, off-world&rpar;](https://techcrunch.com/2022/03/28/brain-space-remakes-the-eeg-for-our-modern-world-and-soon-off-world/)
-- [Treeswift is using drones to monitor forests](https://techcrunch.com/2022/03/28/treeswift-is-using-drones-to-monitor-forests/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
