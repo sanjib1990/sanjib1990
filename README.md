@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Upcoming sci-fi TV shows for 2022](https://www.space.com/upcoming-sci-fi-tv-shows)
-- [Sarcos buying fellow robotics firm RE2 in $100M deal](https://techcrunch.com/2022/03/28/sarcos-buying-fellow-robotics-firm-re2-in-100m-deal/)
-- [Are we seeing evidence of a startup slowdown?](https://techcrunch.com/2022/03/28/are-we-seeing-evidence-of-a-startup-slowdown/)
-- [Gearing up for Demo Day](https://techcrunch.com/2022/03/28/gearing-up-for-demo-day/)
-- [Why does NASA let male astronauts stay in space longer than females?](https://www.space.com/why-astronauts-radiation-levels)
+- [Apple’s fine over Dutch dating apps antitrust order hits €50M — but ACM welcomes revised offer](https://techcrunch.com/2022/03/28/apple-acm-dating-apps-tenth-fine/)
+- [Pinterest to invest an additional $1.2 million in its Creator Fund for underrepresented groups](https://techcrunch.com/2022/03/28/pinterest-to-invest-an-additional-1-2-million-in-its-creator-fund-for-underrepresented-groups/)
+- [SpaceX will not be making any more new Crew Dragon capsules](https://techcrunch.com/2022/03/28/spacex-will-not-be-making-any-more-new-crew-dragon-capsules/)
+- [Lantum, a platform to manage healthcare staffing, gets a $15M injection](https://techcrunch.com/2022/03/28/lantum-a-platform-to-manage-healthcare-staffing-gets-a-15m-injection/)
+- [The secrets of black holes, revealed in All About Space magazine](https://www.space.com/all-about-space-magazine-issue-128)
 <!-- BLOG-POST-LIST:END -->
 
 ---
