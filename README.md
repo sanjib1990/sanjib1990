@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sourceful grabs $20M to make more packaging less polluting](https://techcrunch.com/2022/03/28/sourceful-series-a/)
+- [Daily Crunch: Citing ‘global market uncertainties,’ Sea flatlines Shopee India](https://techcrunch.com/2022/03/28/daily-crunch-citing-global-market-uncertainties-sea-flatlines-shopee-india/)
+- [Epsilon3 co-founder talks about building a SasS company for space](https://techcrunch.com/2022/03/28/epsilon3-found/)
 - [Max Q: A landing system for the moon and beyond](https://techcrunch.com/2022/03/28/max-q-a-landing-system-for-the-moon-and-beyond/)
 - [Papaya Global to buy Azimo for $150M-$200M to expand its payroll payments to more markets](https://techcrunch.com/2022/03/28/papaya-global-to-buy-azimo-for-150m-200m-to-expand-its-payroll-payments-to-more-markets/)
-- [Smart electric panel company Span gets a $90M jolt of cash](https://techcrunch.com/2022/03/28/smart-electric-panel-company-span-gets-a-90m-jolt-of-cash/)
-- [Spotify adds COVID-19 content advisory two months after Joe Rogan uproar](https://techcrunch.com/2022/03/28/spotify-covid-19-content-advisory-joe-rogan/)
-- [Blue Origin delays next crewed launch to Thursday due to high winds](https://www.space.com/blue-origin-spaceflight-ns-20-delay)
 <!-- BLOG-POST-LIST:END -->
 
 ---
