@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Your chance to save $300 on passes to TC Sessions: Mobility 2022 ends Friday](https://techcrunch.com/2022/03/28/your-chance-to-save-300-on-passes-to-tc-sessions-mobility-2022-ends-friday/)
-- [Shoreline scores $35M Series B to build automated incident response platform](https://techcrunch.com/2022/03/28/shoreline-scores-35m-series-b-to-build-automated-incident-response-platform/)
-- [EnquireLabs aims to pull back the curtain on consumer behavior](https://techcrunch.com/2022/03/28/enquirelabs-aims-to-pull-back-the-curtain-on-consumer-behavior/)
-- [Pixxel takes orbital imagery hyperspectral with $25M A round](https://techcrunch.com/2022/03/28/pixxel-takes-orbital-imagery-hyperspectral-with-25m-a-round/)
-- [Dune streaming guide: Where to watch Dune online](https://www.space.com/dune-streaming-guide-where-to-watch-dune-online)
+- [Upcoming sci-fi TV shows for 2022](https://www.space.com/upcoming-sci-fi-tv-shows)
+- [Sarcos buying fellow robotics firm RE2 in $100M deal](https://techcrunch.com/2022/03/28/sarcos-buying-fellow-robotics-firm-re2-in-100m-deal/)
+- [Are we seeing evidence of a startup slowdown?](https://techcrunch.com/2022/03/28/are-we-seeing-evidence-of-a-startup-slowdown/)
+- [Gearing up for Demo Day](https://techcrunch.com/2022/03/28/gearing-up-for-demo-day/)
+- [Why does NASA let male astronauts stay in space longer than females?](https://www.space.com/why-astronauts-radiation-levels)
 <!-- BLOG-POST-LIST:END -->
 
 ---
