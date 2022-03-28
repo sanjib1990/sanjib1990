@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Eksab gets $3M to scale its fantasy football platform across MENA and Africa](https://techcrunch.com/2022/03/28/eksab-gets-3m-to-scale-its-fantasy-football-platform-across-mena-and-africa/)
-- [Sea’s Shopee shutting down India operations](https://techcrunch.com/2022/03/28/shopee-india-shutdown-sea/)
-- [Apple TV+ becomes the first streaming service to win a Best Picture Oscar with “CODA”](https://techcrunch.com/2022/03/27/apple-tv-becomes-the-first-streaming-service-to-win-a-best-picture-oscar-with-coda/)
-- [Australian fintech Zepto raises $25M AUD Series A to enhance payment infrastructure](https://techcrunch.com/2022/03/27/australian-fintech-zepto-raises-25m-series-a-to-enhance-payment-infrastructure/)
-- [Meet your co-founder or find your next gig at TC Sessions: Mobility 2022](https://techcrunch.com/2022/03/27/meet-your-co-founder-or-find-your-next-gig-at-tc-sessions-mobility-2022/)
+- [Paris-based accelerator The Family sues co-founder Oussama Ammar](https://techcrunch.com/2022/03/28/paris-based-accelerator-the-family-sues-co-founder-oussama-ammar/)
+- [On This Day in Space! March 28, 1963: Last test flight of NASA&#39;s Saturn 1 rocket booster](https://www.space.com/39251-on-this-day-in-space.html)
+- [The moon and stars are a compass for nocturnal animals — but light pollution is leading them astray](https://www.space.com/light-pollution-leading-nocturnal-animals-astray)
+- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html)
+- [Moon mission practice: NASA continues gearing up for Artemis 1 &#39;wet dress rehearsal&#39;](https://www.space.com/nasa-artemis-1-wet-dress-rehearsal-preparations)
 <!-- BLOG-POST-LIST:END -->
 
 ---
