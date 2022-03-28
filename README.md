@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [House-sized asteroid zooms by Earth in close flyby](https://www.space.com/house-sized-asteroid-2022-fb2-earth-flyby)
-- [a16z, NFX back Latitud’s effort to become ‘the operating system for every venture-backed company in LatAm’](https://techcrunch.com/2022/03/28/a16z-nfx-back-latituds-effort-to-become-the-operating-system-for-every-venture-backed-company-in-latam/)
-- [Apple’s fine over Dutch dating apps antitrust order hits €50M — but ACM welcomes revised offer](https://techcrunch.com/2022/03/28/apple-acm-dating-apps-tenth-fine/)
-- [Pinterest to invest an additional $1.2 million in its Creator Fund for underrepresented groups](https://techcrunch.com/2022/03/28/pinterest-to-invest-an-additional-1-2-million-in-its-creator-fund-for-underrepresented-groups/)
+- [Contingent targets broken procurement processes](https://techcrunch.com/2022/03/28/contingent-fundraise/)
+- [Biden proposes $26 billion NASA budget for 2023 to fund exploration, Earth science](https://www.space.com/nasa-budget-request-26-billion-for-2023)
+- [Don’t lose sleep over Elon Musk’s desire to build the next Twitter](https://techcrunch.com/2022/03/28/elon-musk-tweets-social-media-twitter/)
+- [A small asteroid&#39;s orbit is changed forever after super close Earth flyby](https://www.space.com/earth-flyby-changed-asteroid-orbit)
+- [Networking with CrunchMatch starts today for TechCrunch Early Stage](https://techcrunch.com/2022/03/28/networking-with-crunchmatch-starts-today-for-techcrunch-early-stage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
