@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Talenthouse flotation finally reveals a $40M exit for EyeEm, Europe’s almost-Instagram](https://techcrunch.com/2022/03/28/talenthouse-flotation-finally-reveals-a-40m-exit-for-eyeem-europes-almost-instagram/)
 - [Philippines-based MSME platform GrowSari adds $77.5 million to its Series C](https://techcrunch.com/2022/03/28/philippines-based-msme-platform-growsari-adds-77-5-million-to-its-series-c/)
 - [India’s Classplus raises $70 million to help teachers and creators expand their reach](https://techcrunch.com/2022/03/28/indias-classplus-raises-70-million-to-help-teachers-and-creators-expand-their-reach/)
 - [Singapore-based esports startup Ampverse lands $12M](https://techcrunch.com/2022/03/28/singapore-based-esports-startup-ampverse-lands-12m/)
 - [SpaceX&#39;s Ax-1 astronaut mission to the space station delayed to April 6](https://www.space.com/axiom-spacex-ax-1-mission-delay)
-- [Crypto mining is approaching a key inflection point](https://techcrunch.com/2022/03/28/crypto-mining-is-approaching-a-key-inflection-point/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
