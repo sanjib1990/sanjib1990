@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ice volcanoes on Pluto may still be erupting, New Horizons suggests](https://www.space.com/pluto-recent-ice-volcanoes-new-horizons)
+- [Airhouse closes $11M Series A to help DTC brands manage logistics](https://techcrunch.com/2022/03/29/airhouse-closes-11m-to-help-dtc-brands-manage-logistics/)
+- [Unicorn founder Julia Collins shows how to tell your story to attract investors at TC Early Stage](https://techcrunch.com/2022/03/29/unicorn-founder-julia-collins-shows-how-to-tell-your-story-to-attract-investors-at-tc-early-stage/)
 - [Pinecone announces $28M Series A for purpose-built database aimed at data scientists](https://techcrunch.com/2022/03/29/pinecone-announces-28m-series-a-for-purpose-built-database-aimed-at-data-scientists/)
-- [Join us tomorrow for DeFi and the Future of Programmable Money](https://techcrunch.com/2022/03/29/join-us-tomorrow-for-defi-and-the-future-of-programmable-money/)
-- [EquityZen’s Phil Haslett on how startup valuations can regain their moxie](https://techcrunch.com/2022/03/29/equityzens-phil-haslett-on-how-startup-valuations-can-regain-their-moxie/)
-- [Sony officially unveils its revamped three-tier PlayStation Plus subscription service](https://techcrunch.com/2022/03/29/sony-playstation-plus-subscription-service/)
-- [Upcoming sci-fi movies for 2022](https://www.space.com/upcoming-sci-fi-movies)
+- [Join us tomorrow for DeFi &amp; The Future of Programmable Money](https://techcrunch.com/2022/03/29/join-us-tomorrow-for-defi-and-the-future-of-programmable-money/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
