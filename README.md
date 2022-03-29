@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Ice volcanoes on Pluto may still be erupting, New Horizons suggests](https://www.space.com/pluto-recent-ice-volcanoes-new-horizons)
-- [Airhouse closes $11M Series A to help DTC brands manage logistics](https://techcrunch.com/2022/03/29/airhouse-closes-11m-to-help-dtc-brands-manage-logistics/)
-- [Unicorn founder Julia Collins shows how to tell your story to attract investors at TC Early Stage](https://techcrunch.com/2022/03/29/unicorn-founder-julia-collins-shows-how-to-tell-your-story-to-attract-investors-at-tc-early-stage/)
-- [Pinecone announces $28M Series A for purpose-built database aimed at data scientists](https://techcrunch.com/2022/03/29/pinecone-announces-28m-series-a-for-purpose-built-database-aimed-at-data-scientists/)
-- [Join us tomorrow for DeFi &amp; The Future of Programmable Money](https://techcrunch.com/2022/03/29/join-us-tomorrow-for-defi-and-the-future-of-programmable-money/)
+- [Axie Infinity’s Ronin network suffers ≈$625M exploit in largest DeFi hack to date](https://techcrunch.com/2022/03/29/axie-infinitys-ronin-network-suffers-%e2%89%88625m-exploit-in-largest-defi-hack-to-date/)
+- [YC W22 batch nets 24 African startups, including 18 from Nigeria](https://techcrunch.com/2022/03/29/yc-w22-batch-nets-24-african-startups-including-18-from-nigeria/)
+- [Robinhood’s stock pops 25% on news of extended trading hours](https://techcrunch.com/2022/03/29/robinhoods-stock-pops-25-on-news-of-extended-trading-hours/)
+- [Kia’s EV9 SUV will move from concept to reality in 2023](https://techcrunch.com/2022/03/29/kias-ev9-suv-will-move-from-concept-to-reality-in-2023/)
+- [Despite tooling limitations, DAO optimists see new use cases for a democratic, token-based future](https://techcrunch.com/2022/03/29/despite-tooling-limitations-dao-optimists-see-new-use-cases-for-a-democratic-token-based-future/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
