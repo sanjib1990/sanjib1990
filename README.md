@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Equi is building a family office for non-billionaires](https://techcrunch.com/2022/03/29/equi-is-building-a-family-office-for-non-billionaires/)
-- [Camera deals: Discounts on models from Nikon, Sony, Fujifilm and others](https://www.space.com/camera-deals)
-- [HackerRank, a platform for recruiters to test coders and coders to hone their skills, raises $60M at a $500M valuation](https://techcrunch.com/2022/03/29/hackerrank-a-platform-for-recruiters-to-test-coders-and-coders-to-hone-their-skills-raises-60m-at-a-500m-valuation/)
-- [Lightning strikes again as Electric hits unicorn status](https://techcrunch.com/2022/03/29/electric-it-infrastructure-software-fundraise-1-billion/)
-- [Cloaked raises $25M Series A to generate privacy-friendly identities on the fly](https://techcrunch.com/2022/03/29/cloaked-series-a/)
+- [Pinecone announces $28M Series A for purpose-built database aimed at data scientists](https://techcrunch.com/2022/03/29/pinecone-announces-28m-series-a-for-purpose-built-database-aimed-at-data-scientists/)
+- [Join us tomorrow for DeFi and the Future of Programmable Money](https://techcrunch.com/2022/03/29/join-us-tomorrow-for-defi-and-the-future-of-programmable-money/)
+- [EquityZen’s Phil Haslett on how startup valuations can regain their moxie](https://techcrunch.com/2022/03/29/equityzens-phil-haslett-on-how-startup-valuations-can-regain-their-moxie/)
+- [Sony officially unveils its revamped three-tier PlayStation Plus subscription service](https://techcrunch.com/2022/03/29/sony-playstation-plus-subscription-service/)
+- [Upcoming sci-fi movies for 2022](https://www.space.com/upcoming-sci-fi-movies)
 <!-- BLOG-POST-LIST:END -->
 
 ---
