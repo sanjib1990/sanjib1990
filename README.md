@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Russian cosmonaut hands over space station command as NASA astronaut bids farewell](https://www.space.com/nasa-russia-astronauts-space-station-handover)
-- [Uber and Lyft drivers say fuel surcharge is ‘an insult to drivers’](https://techcrunch.com/2022/03/29/uber-and-lyft-drivers-say-fuel-surcharge-is-an-insult-to-drivers/)
-- [India dominates Y Combinator’s latest startup batch &lpar;again&rpar;](https://techcrunch.com/2022/03/29/y-combinator-india-winter-2022/)
-- [2 reasons why demo days are dead](https://techcrunch.com/2022/03/29/2-reasons-why-demo-days-are-dead/)
-- [Microscopic particles from first Apollo 11 lunar sample head to auction](https://www.space.com/apollo-11-neil-armstrong-moon-dust-auction)
+- [TechCrunch+ roundup: Plaid’s staffing story, RevOps for B2B sales, demo day’s demise](https://techcrunch.com/2022/03/29/techcrunch-roundup-plaids-staffing-story-revops-for-b2b-sales-demo-days-demise/)
+- [Starry’s SPAC part of Chet Kanojia’s mission to shake up broadband](https://techcrunch.com/2022/03/29/starrys-spac-part-of-chet-kanojias-mission-to-shake-up-broadband/)
+- [Motorola still has fight left as it nabs No. 3 spot in the US market](https://techcrunch.com/2022/03/29/motorola-still-has-fight-left-as-it-nabs-no-3-spot-in-the-us-market/)
+- [How to make a teaser trailer for your startup pitch](https://techcrunch.com/2022/03/29/how-to-make-a-teaser-trailer-for-your-startup-pitch/)
+- [Vietnam’s VinFast to invest $2B in North Carolina EV factory](https://techcrunch.com/2022/03/29/vinfast-invests-2b-in-north-carolina-ev-factory/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
