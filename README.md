@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nigeria’s CredPal secures $15M in debt and equity to scale its BNPL product across Africa](https://techcrunch.com/2022/03/29/nigerias-credpal-secures-15m-in-debt-and-equity-to-scale-its-bnpl-product-across-africa/)
 - [Disappointed with subpar soundbars, Devialet releases high-end soundbar](https://techcrunch.com/2022/03/29/disappointed-with-subpar-soundbars-devialet-releases-high-end-soundbar/)
 - [After six months of invite-only sales, Amazon Glow is now available to all in the U.S.](https://techcrunch.com/2022/03/29/amazon-glow-now-available/)
 - [London startup Weaver gets $4M to build out a vetted marketplace for home renovations](https://techcrunch.com/2022/03/28/weaver-seed/)
 - [Talenthouse flotation finally reveals a $40M exit for EyeEm, Europe’s almost-Instagram](https://techcrunch.com/2022/03/28/talenthouse-flotation-finally-reveals-a-40m-exit-for-eyeem-europes-almost-instagram/)
-- [Philippines-based MSME platform GrowSari adds $77.5 million to its Series C](https://techcrunch.com/2022/03/28/philippines-based-msme-platform-growsari-adds-77-5-million-to-its-series-c/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
