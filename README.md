@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Cypress in 100 Seconds](https://www.youtube.com/watch?v=BQqzfHQkREo)
 - [I use Arch on an M1 MacBook, btw](https://www.youtube.com/watch?v=j_I9nkpovCQ)
 - [Teamwork &amp; Git - Computerphile](https://www.youtube.com/watch?v=RzYJvSnzlMk)
 - [you need to learn BASH Scripting RIGHT NOW!! // EP 1](https://www.youtube.com/watch?v=SPwyp2NG-bE)
 - [my code works… why?](https://www.youtube.com/watch?v=9BvBRXkJA58)
-- [Binary Search Algorithm in 100 Seconds](https://www.youtube.com/watch?v=MFhxShGxHWc)
 <!-- YOUTUBE:END -->
 
 ---
