@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Child-friendly Amazon Glow video chat projector now available across the US](https://techcrunch.com/2022/03/29/daily-crunch-child-friendly-amazon-glow-video-chat-projector-now-available-across-the-us/)
+- [Twitter ‘Collabs’ feature could make it possible for users to co-author tweets with brands](https://techcrunch.com/2022/03/29/twitter-collabs-feature-could-make-it-possible-for-users-to-co-author-tweets-with-brands/)
+- [Sun erupts with 17 flares from single sunspot, sending solar storms toward Earth](https://www.space.com/sun-erupts-sunspot-17-solar-flares)
 - [Record-breaking NASA astronaut, 2 cosmonauts returning to Earth early Wednesday: Watch live](https://www.space.com/nasa-astronaut-cosmonauts-earth-return-march-2022-preview)
 - [V2 rocket: Origin, history and spaceflight legacy](https://www.space.com/v2-rocket)
-- [TechCrunch+ roundup: Plaid’s staffing story, RevOps for B2B sales, demo day’s demise](https://techcrunch.com/2022/03/29/techcrunch-roundup-plaids-staffing-story-revops-for-b2b-sales-demo-days-demise/)
-- [Starry’s SPAC part of Chet Kanojia’s mission to shake up broadband](https://techcrunch.com/2022/03/29/starrys-spac-part-of-chet-kanojias-mission-to-shake-up-broadband/)
-- [Motorola still has fight left as it nabs No. 3 spot in the US market](https://techcrunch.com/2022/03/29/motorola-still-has-fight-left-as-it-nabs-no-3-spot-in-the-us-market/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
