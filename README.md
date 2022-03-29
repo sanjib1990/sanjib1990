@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Migrante steps on the gas of vehicle leasing for gig workers in Latin America](https://techcrunch.com/2022/03/29/migrante-steps-on-the-gas-of-vehicle-leasing-startup-for-gig-workers-in-latin-america/)
-- [On This Day in Space! March 29, 1807: Heinrich Olbers Discovers Asteroid Vesta](https://www.space.com/39251-on-this-day-in-space.html)
-- [NASA&#39;s SOFIA flying observatory would get the ax &lpar;again&rpar; in 2023 budget request](https://www.space.com/sofia-flying-telescope-nasa-2023-budget-request)
-- [Next China moon mission will need precision landing to target ice at south pole](https://www.space.com/china-moon-mission-change-7-targeting-water)
-- [Kooply taps into $18M from Microsoft and more for a mobile games dev platform still in stealth](https://techcrunch.com/2022/03/29/kooply-taps-into-18m-from-microsoft-and-more-for-a-mobile-games-dev-platform-still-in-stealth/)
+- [Cloaked raises $25M Series A to generate privacy-friendly identities on the fly](https://techcrunch.com/2022/03/29/cloaked-series-a/)
+- [LambdaTest raises $45 million to build ‘AWS for testers’](https://techcrunch.com/2022/03/29/lambdatest-raises-45-million-to-build-aws-for-testers/)
+- [Kaiyo gets $36M Series B for its second-hand furniture marketplace](https://techcrunch.com/2022/03/29/kaiyo-raises-36m-series-b-for-its-second-hand-furniture-marketplace/)
+- [TikTok partners with GIPHY on new video creation tool, ‘TikTok Library’](https://techcrunch.com/2022/03/29/tiktok-partners-with-giphy-on-new-video-creation-tool-tiktok-library/)
+- [Flytrex expands drone delivery into Texas](https://techcrunch.com/2022/03/29/flytrex-expands-drone-delivery-into-texas/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
