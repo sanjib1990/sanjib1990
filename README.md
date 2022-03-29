@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Equi is building a family office for non-billionaires](https://techcrunch.com/2022/03/29/equi-is-building-a-family-office-for-non-billionaires/)
+- [Camera deals: Discounts on models from Nikon, Sony, Fujifilm and others](https://www.space.com/camera-deals)
+- [HackerRank, a platform for recruiters to test coders and coders to hone their skills, raises $60M at a $500M valuation](https://techcrunch.com/2022/03/29/hackerrank-a-platform-for-recruiters-to-test-coders-and-coders-to-hone-their-skills-raises-60m-at-a-500m-valuation/)
+- [Lightning strikes again as Electric hits unicorn status](https://techcrunch.com/2022/03/29/electric-it-infrastructure-software-fundraise-1-billion/)
 - [Cloaked raises $25M Series A to generate privacy-friendly identities on the fly](https://techcrunch.com/2022/03/29/cloaked-series-a/)
-- [LambdaTest raises $45 million to build ‘AWS for testers’](https://techcrunch.com/2022/03/29/lambdatest-raises-45-million-to-build-aws-for-testers/)
-- [Kaiyo gets $36M Series B for its second-hand furniture marketplace](https://techcrunch.com/2022/03/29/kaiyo-raises-36m-series-b-for-its-second-hand-furniture-marketplace/)
-- [TikTok partners with GIPHY on new video creation tool, ‘TikTok Library’](https://techcrunch.com/2022/03/29/tiktok-partners-with-giphy-on-new-video-creation-tool-tiktok-library/)
-- [Flytrex expands drone delivery into Texas](https://techcrunch.com/2022/03/29/flytrex-expands-drone-delivery-into-texas/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
