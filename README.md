@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Singapore-based esports startup Ampverse lands $12M](https://techcrunch.com/2022/03/28/singapore-based-esports-startup-ampverse-lands-12m/)
+- [SpaceX&#39;s Ax-1 astronaut mission to the space station delayed to April 6](https://www.space.com/axiom-spacex-ax-1-mission-delay)
+- [Crypto mining is approaching a key inflection point](https://techcrunch.com/2022/03/28/crypto-mining-is-approaching-a-key-inflection-point/)
 - [Sourceful grabs $20M to make more packaging less polluting](https://techcrunch.com/2022/03/28/sourceful-series-a/)
 - [Daily Crunch: Citing ‘global market uncertainties,’ Sea flatlines Shopee India](https://techcrunch.com/2022/03/28/daily-crunch-citing-global-market-uncertainties-sea-flatlines-shopee-india/)
-- [Epsilon3 co-founder talks about building a SasS company for space](https://techcrunch.com/2022/03/28/epsilon3-found/)
-- [Max Q: A landing system for the moon and beyond](https://techcrunch.com/2022/03/28/max-q-a-landing-system-for-the-moon-and-beyond/)
-- [Papaya Global to buy Azimo for $150M-$200M to expand its payroll payments to more markets](https://techcrunch.com/2022/03/28/papaya-global-to-buy-azimo-for-150m-200m-to-expand-its-payroll-payments-to-more-markets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
