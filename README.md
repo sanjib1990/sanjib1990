@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Are plastic bag bans backfiring?](https://techcrunch.com/2022/03/30/plastic-bag-bans/)
+- [Quantum Machines acquires QDevil to build out its full-stack quantum orchestration platform](https://techcrunch.com/2022/03/30/quantum-machines-acquires-qdevil-to-build-out-its-full-stack-quantum-orchestration-platform/)
+- [NASA astronaut Mark Vande Hei back on Earth after record-breaking mission](https://www.space.com/nasa-astronaut-mark-vande-hei-lands-earth-misses-wife)
+- [Flux Marine revs up its electric outboard business with $15M A round](https://techcrunch.com/2022/03/30/flux-marine-revs-up-its-electric-outboard-business-with-15m-a-round/)
 - [Dust cloud the size of a star formed by massive asteroids colliding](https://www.space.com/massive-dust-cloud-from-colliding-dwarf-planets)
-- [Google adds limited Markdown support to Google Docs](https://techcrunch.com/2022/03/30/google-adds-limited-markdown-support-to-google-docs/)
-- [Selected AI startups from YC’s Winter ’22 batch](https://techcrunch.com/2022/03/30/selected-ai-startups-from-ycs-winter-22-batch/)
-- [Twitter’s ‘Professional Accounts’ profile setting is now available to all users](https://techcrunch.com/2022/03/30/twitters-professional-accounts-profile-setting-available-worldwide/)
-- [State attorneys want TikTok and Snap to support third-party parental control apps](https://techcrunch.com/2022/03/30/tiktok-snapchat-parental-controls-attorneys-general/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
