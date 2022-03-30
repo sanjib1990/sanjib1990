@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Flutterwave backs UK fintech Dapio in $3.4M round for its contactless payments play](https://techcrunch.com/2022/03/30/flutterwave-backs-uk-fintech-dapio-in-3-4m-round-for-its-contactless-payments-play/)
+- [Builder.ai raises $100M Series C led by Insight Partners to scale up its software automation](https://techcrunch.com/2022/03/30/builder-ai-raises-100m-series-c-led-by-insight-partners-to-scale-up-its-software-automation/)
+- [India’s Slice gears up to take on PhonePe and Google Pay with UPI support](https://techcrunch.com/2022/03/30/slice-upi-phonepe-google-pay-india-mobile-payments/)
 - [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
 - [Dyson is betting you’ll want to strap an air purifier to your face](https://techcrunch.com/2022/03/29/dyson-is-betting-youll-want-to-strap-an-air-purifier-to-your-face/)
-- [The tech inside the new Lotus Eletre EV hints at autonomous driving ambitions](https://techcrunch.com/2022/03/29/the-tech-inside-the-new-lotus-eletre-ev-hints-at-autonomous-driving-ambitions/)
-- [The 25 crypto startups that Y Combinator is backing in its W22 batch](https://techcrunch.com/2022/03/29/the-25-crypto-startups-that-y-combinator-is-backing-in-its-w22-batch/)
-- [Everything you need to know about YC Winter 2022 Demo Day, part 1](https://techcrunch.com/2022/03/29/everything-you-need-to-know-about-y-combinators-winter-2022-demo-day-part-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
