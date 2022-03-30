@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Palantir alums raise $25M from Peter Thiel’s Founders Fund and other VCs for their finance startup, Mosaic](https://techcrunch.com/2022/03/30/palantir-finance-alums-raise-25m-for-mosaic-in-founders-fund-peter-thiel-led-series-b/)
-- [Record-breaking US astronaut and Russian crewmates return to Earth from space station](https://www.space.com/soyuz-ms19-record-setting-astronaut-cosmonauts-landing)
-- [Visa launches NFT program as it considers the digital art a new form of e-commerce](https://techcrunch.com/2022/03/30/visa-launches-nft-program-as-it-considers-the-digital-art-a-new-form-of-ecommerce/)
-- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
-- [India’s Games24x7 valued at $2.5 billion in new funding](https://techcrunch.com/2022/03/30/indias-games24x7-valued-at-2-5-billion-in-new-funding/)
+- [Demo days definitely amplify a brand, but not the one you’d think](https://techcrunch.com/2022/03/30/demo-days-definitely-amplify-a-brand-but-not-the-one-youd-think/)
+- [Waymo opens driverless robotaxi service to San Francisco employees](https://techcrunch.com/2022/03/30/waymo-opens-driverless-robotaxi-service-to-san-francisco-employees/)
+- [Yami bags $50M Series B to boost its online Asian marketplace](https://techcrunch.com/2022/03/30/yami-bags-50m-series-b-to-boost-its-online-asian-marketplace/)
+- [&#39;Chaos&#39; regions of Jupiter&#39;s icy moon Europa may increase chance for life](https://www.space.com/chaos-europa-oxygen-water-ocean-life)
+- [Bitcoin miners are dusting off Kentucky coal towns, spurred by state crypto tax incentives](https://techcrunch.com/2022/03/30/bitcoin-miners-are-dusting-off-kentucky-coal-towns-spurred-by-state-crypto-tax-incentives/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
