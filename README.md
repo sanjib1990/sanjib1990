@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn how to get into YCombinator at TC Early Stage](https://techcrunch.com/2022/03/30/learn-how-to-get-into-ycombinator-at-tc-early-stage/)
-- [Glean raises $7M to democratize data insights](https://techcrunch.com/2022/03/30/glean-raises-7m-to-democratize-data-insights/)
-- [People are sending 7 billion voice messages on WhatsApp every day](https://techcrunch.com/2022/03/30/people-are-sending-7-billion-voice-messages-on-whatsapp-every-day/)
-- [China&#39;s first modified Long March 6 rocket aces debut launch &lpar;video&rpar;](https://www.space.com/china-modified-long-march-rocket-debut-launch-video)
-- [Spotify expands its music-matching playlist ‘Blend’ to work with up to 10 people, including select artists](https://techcrunch.com/2022/03/30/spotify-expands-its-music-matching-playlist-blend-to-work-with-up-to-10-people-including-select-artists/)
+- [Europe lays out expanded ecodesign rules with plan for digital product passports](https://techcrunch.com/2022/03/30/eu-expands-ecodesign-rules/)
+- [Skiff lands $10.5M to build out its end-to-end encrypted workspaces](https://techcrunch.com/2022/03/30/skiff-series-a-encrypted-workspaces/)
+- [The space industry has a big, ugly sexual harassment problem](https://www.space.com/space-industry-sexual-harassment-problem)
+- [Minut tells your Airbnb guests to keep it down, already, sheesh](https://techcrunch.com/2022/03/30/minut-series-b/)
+- [Token and equity management startup Sprout raises $3M led by Sequoia](https://techcrunch.com/2022/03/30/equity-and-token-management-startup-sprout-raises-3m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
