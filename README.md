@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mojo Vision takes another step toward AR contact lenses with new prototype](https://techcrunch.com/2022/03/30/mojo-vision-takes-another-step-toward-ar-contact-lenses-with-new-prototype/)
+- [Legendary hackers Charlie Miller and Chris Valasek talk cybersecurity and autonomous vehicles at TC Sessions: Mobility 2022](https://techcrunch.com/2022/03/30/legendary-hackers-charlie-miller-and-chris-valasek-talk-cybersecurity-and-autonomous-vehicles-at-tc-sessions-mobility-2022/)
+- [YouTube may be getting a dedicated podcasts homepage](https://techcrunch.com/2022/03/30/youtube-may-be-getting-a-dedicated-podcasts-homepage-audio-ads-and-podcaster-metrics/)
+- [Why Nigeria leads the way in YC’s participation in Africa](https://techcrunch.com/2022/03/30/why-nigeria-leads-the-way-in-ycs-participation-in-africa/)
 - [Are plastic bag bans backfiring?](https://techcrunch.com/2022/03/30/plastic-bag-bans/)
-- [Quantum Machines acquires QDevil to build out its full-stack quantum orchestration platform](https://techcrunch.com/2022/03/30/quantum-machines-acquires-qdevil-to-build-out-its-full-stack-quantum-orchestration-platform/)
-- [NASA astronaut Mark Vande Hei back on Earth after record-breaking mission](https://www.space.com/nasa-astronaut-mark-vande-hei-lands-earth-misses-wife)
-- [Flux Marine revs up its electric outboard business with $15M A round](https://techcrunch.com/2022/03/30/flux-marine-revs-up-its-electric-outboard-business-with-15m-a-round/)
-- [Dust cloud the size of a star formed by massive asteroids colliding](https://www.space.com/massive-dust-cloud-from-colliding-dwarf-planets)
 <!-- BLOG-POST-LIST:END -->
 
 ---
