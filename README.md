@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The tech inside the new Lotus Eletre EV hints at autonomous driving ambitions](https://techcrunch.com/2022/03/29/the-tech-inside-the-new-lotus-eletre-ev-hints-at-autonomous-driving-ambitions/)
+- [The 25 crypto startups that Y Combinator is backing in its W22 batch](https://techcrunch.com/2022/03/29/the-25-crypto-startups-that-y-combinator-is-backing-in-its-w22-batch/)
 - [Everything you need to know about YC Winter 2022 Demo Day, part 1](https://techcrunch.com/2022/03/29/everything-you-need-to-know-about-y-combinators-winter-2022-demo-day-part-1/)
 - [AR glasses maker Nreal nabs $200M funding in 12 months](https://techcrunch.com/2022/03/29/nreal-200-million/)
 - [Our favorite startups from YC’s Winter 2022 Demo Day, Part 1](https://techcrunch.com/2022/03/29/our-favorite-startups-from-ycs-winter-2022-demo-day-part-1/)
-- [Daily Crunch: Child-friendly Amazon Glow video chat projector now available across the US](https://techcrunch.com/2022/03/29/daily-crunch-child-friendly-amazon-glow-video-chat-projector-now-available-across-the-us/)
-- [Twitter ‘Collabs’ feature could make it possible for users to co-author tweets with brands](https://techcrunch.com/2022/03/29/twitter-collabs-feature-could-make-it-possible-for-users-to-co-author-tweets-with-brands/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
