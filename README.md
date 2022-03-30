@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Wing Security launches its end-to-end SaaS security platform, raises $26M](https://techcrunch.com/2022/03/30/wing-security-launches-its-end-to-end-saas-security-platform-raises-26m/)
+- [India’s Games24x7 valued at $2.5 billion in new funding](https://techcrunch.com/2022/03/30/indias-games24x7-valued-at-2-5-billion-in-new-funding/)
+- [AI-powered building design platform BeamUP emerges from stealth with $15M](https://techcrunch.com/2022/03/30/ai-powered-building-design-platform-beamup-emerges-from-stealth-with-15m/)
 - [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
-- [China&#39;s record-setting Shenzhou 13 crew preparing for mid-April return to Earth](https://www.space.com/china-shenzhou-13-crew-april-return-earth)
-- [NASA&#39;s Artemis 1 moon rocket is &#39;go&#39; for crucial launch day dress rehearsal test](https://www.space.com/artemis-1-moon-rocket-go-wet-dress-rehearsal)
-- [How the James Webb Space Telescope&#39;s infrared detectors will open new vistas in astronomy](https://www.space.com/james-webb-space-telescoe-infrared-light-astronomy-vistas-video)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [Cyberpion raises $27M Series A for its external attack surface management platform](https://techcrunch.com/2022/03/30/cyberpion-raises-27m-series-a-for-its-external-attack-surface-management-platform/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
