@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Demo days definitely amplify a brand, but not the one you’d think](https://techcrunch.com/2022/03/30/demo-days-definitely-amplify-a-brand-but-not-the-one-youd-think/)
-- [Waymo opens driverless robotaxi service to San Francisco employees](https://techcrunch.com/2022/03/30/waymo-opens-driverless-robotaxi-service-to-san-francisco-employees/)
-- [Yami bags $50M Series B to boost its online Asian marketplace](https://techcrunch.com/2022/03/30/yami-bags-50m-series-b-to-boost-its-online-asian-marketplace/)
-- [&#39;Chaos&#39; regions of Jupiter&#39;s icy moon Europa may increase chance for life](https://www.space.com/chaos-europa-oxygen-water-ocean-life)
-- [Bitcoin miners are dusting off Kentucky coal towns, spurred by state crypto tax incentives](https://techcrunch.com/2022/03/30/bitcoin-miners-are-dusting-off-kentucky-coal-towns-spurred-by-state-crypto-tax-incentives/)
+- [Learn how to get into YCombinator at TC Early Stage](https://techcrunch.com/2022/03/30/learn-how-to-get-into-ycombinator-at-tc-early-stage/)
+- [Glean raises $7M to democratize data insights](https://techcrunch.com/2022/03/30/glean-raises-7m-to-democratize-data-insights/)
+- [People are sending 7 billion voice messages on WhatsApp every day](https://techcrunch.com/2022/03/30/people-are-sending-7-billion-voice-messages-on-whatsapp-every-day/)
+- [China&#39;s first modified Long March 6 rocket aces debut launch &lpar;video&rpar;](https://www.space.com/china-modified-long-march-rocket-debut-launch-video)
+- [Spotify expands its music-matching playlist ‘Blend’ to work with up to 10 people, including select artists](https://techcrunch.com/2022/03/30/spotify-expands-its-music-matching-playlist-blend-to-work-with-up-to-10-people-including-select-artists/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
