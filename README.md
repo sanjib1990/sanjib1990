@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The best logos of YC’s Winter ’22 cohort](https://techcrunch.com/2022/03/30/the-best-logos-of-ycs-winter-22-cohort/)
+- [Tumblr expands its tip jar feature to enable blog-level tipping](https://techcrunch.com/2022/03/30/tumblr-tip-jar-feature-monetization/)
+- [These UK binocular deals at Wex can save you hundreds](https://www.space.com/uk-wex-binoculars-deals-leica-vortex-celestron-save-hundreds)
 - [Apple to now allow ‘reader’ apps to use external links, if approved](https://techcrunch.com/2022/03/30/apple-to-now-allow-reader-apps-like-streaming-music-books-video-and-more-to-use-external-links-if-approved/)
 - [OpenStack launches Yoga, its 25th release](https://techcrunch.com/2022/03/30/openstackl-aunches-yoga-its-25th-release/)
-- [Mojo Vision takes another step toward AR contact lenses with new prototype](https://techcrunch.com/2022/03/30/mojo-vision-takes-another-step-toward-ar-contact-lenses-with-new-prototype/)
-- [Legendary hackers Charlie Miller and Chris Valasek talk cybersecurity and autonomous vehicles at TC Sessions: Mobility 2022](https://techcrunch.com/2022/03/30/legendary-hackers-charlie-miller-and-chris-valasek-talk-cybersecurity-and-autonomous-vehicles-at-tc-sessions-mobility-2022/)
-- [YouTube may be getting a dedicated podcasts homepage](https://techcrunch.com/2022/03/30/youtube-may-be-getting-a-dedicated-podcasts-homepage-audio-ads-and-podcaster-metrics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
