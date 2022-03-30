@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [India’s Games24x7 valued at $2.5 billion in new funding](https://techcrunch.com/2022/03/30/indias-games24x7-valued-at-2-5-billion-in-new-funding/)
-- [AI-powered building design platform BeamUP emerges from stealth with $15M](https://techcrunch.com/2022/03/30/ai-powered-building-design-platform-beamup-emerges-from-stealth-with-15m/)
+- [Palantir alums raise $25M from Peter Thiel’s Founders Fund and other VCs for their finance startup, Mosaic](https://techcrunch.com/2022/03/30/palantir-finance-alums-raise-25m-for-mosaic-in-founders-fund-peter-thiel-led-series-b/)
+- [Record-breaking US astronaut and Russian crewmates return to Earth from space station](https://www.space.com/soyuz-ms19-record-setting-astronaut-cosmonauts-landing)
+- [Visa launches NFT program as it considers the digital art a new form of e-commerce](https://techcrunch.com/2022/03/30/visa-launches-nft-program-as-it-considers-the-digital-art-a-new-form-of-ecommerce/)
 - [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [Cyberpion raises $27M Series A for its external attack surface management platform](https://techcrunch.com/2022/03/30/cyberpion-raises-27m-series-a-for-its-external-attack-surface-management-platform/)
+- [India’s Games24x7 valued at $2.5 billion in new funding](https://techcrunch.com/2022/03/30/indias-games24x7-valued-at-2-5-billion-in-new-funding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
