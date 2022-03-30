@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Europe lays out expanded ecodesign rules with plan for digital product passports](https://techcrunch.com/2022/03/30/eu-expands-ecodesign-rules/)
-- [Skiff lands $10.5M to build out its end-to-end encrypted workspaces](https://techcrunch.com/2022/03/30/skiff-series-a-encrypted-workspaces/)
-- [The space industry has a big, ugly sexual harassment problem](https://www.space.com/space-industry-sexual-harassment-problem)
-- [Minut tells your Airbnb guests to keep it down, already, sheesh](https://techcrunch.com/2022/03/30/minut-series-b/)
-- [Token and equity management startup Sprout raises $3M led by Sequoia](https://techcrunch.com/2022/03/30/equity-and-token-management-startup-sprout-raises-3m/)
+- [Dust cloud the size of a star formed by massive asteroids colliding](https://www.space.com/massive-dust-cloud-from-colliding-dwarf-planets)
+- [Google adds limited Markdown support to Google Docs](https://techcrunch.com/2022/03/30/google-adds-limited-markdown-support-to-google-docs/)
+- [Selected AI startups from YC’s Winter ’22 batch](https://techcrunch.com/2022/03/30/selected-ai-startups-from-ycs-winter-22-batch/)
+- [Twitter’s ‘Professional Accounts’ profile setting is now available to all users](https://techcrunch.com/2022/03/30/twitters-professional-accounts-profile-setting-available-worldwide/)
+- [State attorneys want TikTok and Snap to support third-party parental control apps](https://techcrunch.com/2022/03/30/tiktok-snapchat-parental-controls-attorneys-general/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
