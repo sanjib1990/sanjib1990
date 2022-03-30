@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Who knew you could magically finger copy stuff from iPhone to iPad? Not us.](https://techcrunch.com/2022/03/30/iphone-to-ipad-copy-paste-hidden-gesture/)
+- [A hyperactive sunspot just hurled a huge X-class solar flare into space](https://www.space.com/sunspot-unleashes-huge-x-class-solar-flare)
+- [Apploi raises $25M to address the healthcare hiring crunch](https://techcrunch.com/2022/03/30/apploi-raises-25m-to-address-the-healthcare-hiring-crunch/)
 - [The best logos of YC’s Winter ’22 cohort](https://techcrunch.com/2022/03/30/the-best-logos-of-ycs-winter-22-cohort/)
 - [Tumblr expands its tip jar feature to enable blog-level tipping](https://techcrunch.com/2022/03/30/tumblr-tip-jar-feature-monetization/)
-- [These UK binocular deals at Wex can save you hundreds](https://www.space.com/uk-wex-binoculars-deals-leica-vortex-celestron-save-hundreds)
-- [Apple to now allow ‘reader’ apps to use external links, if approved](https://techcrunch.com/2022/03/30/apple-to-now-allow-reader-apps-like-streaming-music-books-video-and-more-to-use-external-links-if-approved/)
-- [OpenStack launches Yoga, its 25th release](https://techcrunch.com/2022/03/30/openstackl-aunches-yoga-its-25th-release/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
