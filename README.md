@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Who knew you could magically finger copy stuff from iPhone to iPad? Not us.](https://techcrunch.com/2022/03/30/iphone-to-ipad-copy-paste-hidden-gesture/)
-- [A hyperactive sunspot just hurled a huge X-class solar flare into space](https://www.space.com/sunspot-unleashes-huge-x-class-solar-flare)
-- [Apploi raises $25M to address the healthcare hiring crunch](https://techcrunch.com/2022/03/30/apploi-raises-25m-to-address-the-healthcare-hiring-crunch/)
-- [The best logos of YC’s Winter ’22 cohort](https://techcrunch.com/2022/03/30/the-best-logos-of-ycs-winter-22-cohort/)
-- [Tumblr expands its tip jar feature to enable blog-level tipping](https://techcrunch.com/2022/03/30/tumblr-tip-jar-feature-monetization/)
+- [8 open source companies from YC Demo Day Winter ’22](https://techcrunch.com/2022/03/30/ycombinator-open-source-startups-winter-22-demo-day/)
+- [Dear Sophie: What can we do to help employees who are Ukrainian citizens?](https://techcrunch.com/2022/03/30/dear-sophie-what-can-we-do-to-help-employees-who-are-ukrainian-citizens/)
+- [Our favorite startups from YC’s Winter 2022 Demo Day, part 2](https://techcrunch.com/2022/03/30/our-favorite-startups-from-ycs-winter-2022-demo-day-part-2/)
+- [Daily Crunch: ‘Strategic finance platform’ Mosaic raises $25M Series B](https://techcrunch.com/2022/03/30/daily-crunch-strategic-finance-platform-mosaic-raises-25m-series-b/)
+- [Food lines in besieged Ukrainian city Mariupol visible from space &lpar;satellite photos&rpar;](https://www.space.com/food-lines-ukraine-mariupol-satellite-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
