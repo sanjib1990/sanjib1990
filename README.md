@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [5 ways to save on a skywatching trip](https://www.space.com/5-ways-to-save-on-a-skywatching-trip)
+- [Behold the robo-berry](https://techcrunch.com/2022/03/31/behold-the-robo-berry/)
+- [Co-founders of Ukrainian startup Delfast discuss navigating through a crisis](https://techcrunch.com/2022/03/31/co-founders-of-ukrainian-startup-delfast-discuss-navigating-through-a-crisis/)
+- [5 ways to save an enjoy the night sky on a skywatching trip](https://www.space.com/5-ways-to-save-on-a-skywatching-trip)
 - [Goldman Sachs’ OTC Bitcoin options trade ‘doesn’t mean much,’ but can pave way for more institutional involvement](https://techcrunch.com/2022/03/31/goldman-sachs-otc-bitcoin-options-trade-doesnt-mean-much-but-can-pave-way-for-more-institutional-involvement/)
 - [Microsoft acquires process mining vendor Minit to grow its automation offerings](https://techcrunch.com/2022/03/31/microsoft-acquires-process-mining-vendor-minit-to-grow-its-automation-offerings/)
-- [All eyes are on Swvl as it starts trading on a SPAC combination](https://techcrunch.com/2022/03/31/all-eyes-are-on-swvl-as-it-starts-trading-on-a-spac-combination/)
-- [Hiveminded](https://techcrunch.com/2022/03/31/hiveminded/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
