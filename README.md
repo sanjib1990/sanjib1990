@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Search is getting a new label to direct people to original news sources](https://techcrunch.com/2022/03/31/google-search-label-original-news-sources/)
+- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html)
+- [Blue Origin&#39;s NS-20 space tourism launch: Live updates](https://www.space.com/news/live/blue-origin-mission-updates)
+- [Jeff Bezos&#39; Blue Origin launches 6 people to suborbital space](https://www.space.com/blue-origin-space-tourism-launch-ns-20)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [Womens leadership network Chief surges to unicorn status](https://techcrunch.com/2022/03/31/womens-leadership-network-chief-surges-to-unicorn-status/)
-- [Is it time to start worrying about startup layoffs?](https://techcrunch.com/2022/03/31/is-it-time-to-start-worrying-about-startup-layoffs/)
-- [Halo games, ranked worst to best](https://www.space.com/halo-games-ranked-worst-to-best)
-- [BoxedUp brings the sharing economy to high-end video production](https://techcrunch.com/2022/03/31/boxedup-seed-investment/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
