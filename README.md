@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Wordle chaos! Here’s why the popular puzzle game had two answers this week and how to fix it.](https://techcrunch.com/2022/03/31/why-wordle-game-284-had-two-answers-and-how-to-fix/)
-- [Alexa now notifies you when items in your Amazon cart or wishlist are about to go on sale](https://techcrunch.com/2022/03/31/alexas-feature-notify-items-amazon-cart-wishlist-sale/)
-- [On This Day in Space! March 31, 1962: NASA approves Gemini spacecraft design](https://www.space.com/39251-on-this-day-in-space.html)
-- [Hubble&#39;s stellar discovery given a Tolkien-inspired name](https://www.space.com/hubble-most-distant-star-tolkien-name-earendil)
-- [Apollo 13: Facts about NASA&#39;s near-disaster moon mission](https://www.space.com/17250-apollo-13-facts.html)
+- [5 ways to save on a skywatching trip](https://www.space.com/5-ways-to-save-on-a-skywatching-trip)
+- [Goldman Sachs’ OTC Bitcoin options trade ‘doesn’t mean much,’ but can pave way for more institutional involvement](https://techcrunch.com/2022/03/31/goldman-sachs-otc-bitcoin-options-trade-doesnt-mean-much-but-can-pave-way-for-more-institutional-involvement/)
+- [Microsoft acquires process mining vendor Minit to grow its automation offerings](https://techcrunch.com/2022/03/31/microsoft-acquires-process-mining-vendor-minit-to-grow-its-automation-offerings/)
+- [All eyes are on Swvl as it starts trading on a SPAC combination](https://techcrunch.com/2022/03/31/all-eyes-are-on-swvl-as-it-starts-trading-on-a-spac-combination/)
+- [Hiveminded](https://techcrunch.com/2022/03/31/hiveminded/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
