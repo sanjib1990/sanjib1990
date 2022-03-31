@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [High Level Languages &amp; the IBM 360 Series - Computerphile](https://www.youtube.com/watch?v=xTnK6f_ZL1E)
 - [S3:E7: AI Literacy for All with Prof. Cynthia Breazeal](https://www.youtube.com/watch?v=Fj1OICPboCU)
 - [Cypress in 100 Seconds](https://www.youtube.com/watch?v=BQqzfHQkREo)
 - [I use Arch on an M1 MacBook, btw](https://www.youtube.com/watch?v=j_I9nkpovCQ)
 - [Teamwork &amp; Git - Computerphile](https://www.youtube.com/watch?v=RzYJvSnzlMk)
-- [you need to learn BASH Scripting RIGHT NOW!! // EP 1](https://www.youtube.com/watch?v=SPwyp2NG-bE)
 <!-- YOUTUBE:END -->
 
 ---
