@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Solar storms can destroy satellites with ease — a space weather expert explains the science](https://www.space.com/solar-storms-destroy-satellites)
-- [5 ways to save an enjoy the night sky on a skywatching trip](https://www.space.com/5-ways-to-save-on-a-skywatching-trip)
-- [Goldman Sachs’ OTC Bitcoin options trade ‘doesn’t mean much,’ but can pave way for more institutional involvement](https://techcrunch.com/2022/03/31/goldman-sachs-otc-bitcoin-options-trade-doesnt-mean-much-but-can-pave-way-for-more-institutional-involvement/)
-- [Microsoft acquires process mining vendor Minit to grow its automation offerings](https://techcrunch.com/2022/03/31/microsoft-acquires-process-mining-vendor-minit-to-grow-its-automation-offerings/)
-- [All eyes are on Swvl as it starts trading on a SPAC combination](https://techcrunch.com/2022/03/31/all-eyes-are-on-swvl-as-it-starts-trading-on-a-spac-combination/)
+- [Daily Crunch: Intel will reportedly buy cloud-optimization startup Granulate for $650M](https://techcrunch.com/2022/03/31/daily-crunch-intel-will-reportedly-buy-cloud-optimization-startup-granulate-for-650m/)
+- [As counting wraps for the day, mixed results emerge in Amazon union votes](https://techcrunch.com/2022/03/31/as-counting-wraps-for-the-day-mixed-results-emerge-in-amazon-union-votes/)
+- [Ax-1 private mission to space station: Live updates](https://www.space.com/news/live/ax-1-space-station-mission-updates)
+- [NASA astronaut comes home to Houston after record-setting 355-day space mission](https://www.space.com/nasa-astronaut-mark-vande-hei-houston-return)
+- [Biden’s answer to high gas prices is to boost US battery production](https://techcrunch.com/2022/03/31/biden-defense-production-act-ev-battery-materials/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
