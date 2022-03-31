@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html)
-- [Blue Origin&#39;s NS-20 space tourism launch: Live updates](https://www.space.com/news/live/blue-origin-mission-updates)
-- [Jeff Bezos&#39; Blue Origin launches 6 people to suborbital space](https://www.space.com/blue-origin-space-tourism-launch-ns-20)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [Womens leadership network Chief surges to unicorn status](https://techcrunch.com/2022/03/31/womens-leadership-network-chief-surges-to-unicorn-status/)
+- [YouTube TV finally adds picture-in-picture support on iOS; YouTube support expected in ‘coming months’](https://techcrunch.com/2022/03/31/youtube-tv-finally-adds-picture-in-picture-support-on-ios-youtube-support-expected-in-coming-months/)
+- [As right to repair legislation looms, Samsung introduces ‘self-service’ for Galaxy devices](https://techcrunch.com/2022/03/31/as-right-to-repair-legislation-looms-samsung-introduces-self-service-for-galaxy-devices/)
+- [For Freestyle’s newest fund, the growth hack is staying the same](https://techcrunch.com/2022/03/31/freestyle-fund-6-jenny-lefcourt-dave-samuel/)
+- [Instagram upgrades its DM inbox with music sharing, statuses, polls, silent messages, and more](https://techcrunch.com/2022/03/31/instagram-upgrades-its-dm-inbox-with-music-sharing-statuses-polls-silent-messages-and-more/)
+- [Find out how AWS, Brex, Mayfield and Dell can help your company scale at TC Early Stage](https://techcrunch.com/2022/03/31/find-out-how-aws-brex-mayfield-and-dell-can-help-your-company-scale-at-tc-early-stage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
