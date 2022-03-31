@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Mercury: The smallest and closest planet to the sun](https://www.space.com/36-mercury-the-suns-closest-planetary-neighbor.html)
-- [Best space books for kids 2022: Educational books and fun stories for kids and teens](https://www.space.com/32987-best-kids-books.html)
-- [Apple’s tweaked antitrust offer drops separate binary requirement for Dutch dating apps](https://techcrunch.com/2022/03/31/apple-acm-antitrust-offer-tweak/)
+- [BoxedUp brings the sharing economy to high-end video production](https://techcrunch.com/2022/03/31/boxedup-seed-investment/)
 - [Blue Origin&#39;s NS-20 space tourism launch: Live updates](https://www.space.com/news/live/blue-origin-mission-updates)
-- [China has big plans for its new Tiandu space exploration laboratory](https://www.space.com/china-tiandu-deep-space-exploration-laboratory)
+- [Slingshot Aerospace scores $25M Space Force contract to build ‘digital twin’ space simulator](https://techcrunch.com/2022/03/31/slingshot-aerospace-scores-25m-space-force-contract-to-build-digital-twin-space-simulator/)
+- [Archie aims to remove the complexity of managing freelancers](https://techcrunch.com/2022/03/31/archie-aims-to-remove-the-complexity-of-managing-freelancers/)
+- [Founded by ex-dLocal and AstroPay execs, Datanomik is bringing open banking to LatAm](https://techcrunch.com/2022/03/31/founded-by-ex-dlocal-and-astropay-execs-datanomik-is-bringing-open-banking-to-latam/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
