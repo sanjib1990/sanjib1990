@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Deepki grabs $166 million to help real estate investors reduce carbon emissions](https://techcrunch.com/2022/03/31/deepki-grabs-166-million-to-help-real-estate-investors-reduce-carbon-emissions/)
-- [Google Meet gets in-meeting reactions, PiP, end-to-end encryption and more](https://techcrunch.com/2022/03/31/google-meet-gets-in-meeting-reactions-pip-end-to-end-encryption-and-more/)
-- [SEC investigates Faraday Future as regulatory crackdown on EV SPACs continues](https://techcrunch.com/2022/03/31/faraday-future-spac-sec-investigation/)
-- [Viasat cyberattack blamed on Russian wiper malware](https://techcrunch.com/2022/03/31/viasat-cyberattack-russian-wiper/)
-- [SOSV and JetBlue Technology Ventures talk VC climate tech and ESG at TC Sessions: Climate 2022](https://techcrunch.com/2022/03/31/sosv-and-jetblue-technology-ventures-talk-vc-climate-tech-and-esg-at-tc-sessions-climate-2022/)
+- [Wordle chaos! Here’s why the popular puzzle game had two answers this week and how to fix it.](https://techcrunch.com/2022/03/31/why-wordle-game-284-had-two-answers-and-how-to-fix/)
+- [Alexa now notifies you when items in your Amazon cart or wishlist are about to go on sale](https://techcrunch.com/2022/03/31/alexas-feature-notify-items-amazon-cart-wishlist-sale/)
+- [On This Day in Space! March 31, 1962: NASA approves Gemini spacecraft design](https://www.space.com/39251-on-this-day-in-space.html)
+- [Hubble&#39;s stellar discovery given a Tolkien-inspired name](https://www.space.com/hubble-most-distant-star-tolkien-name-earendil)
+- [Apollo 13: Facts about NASA&#39;s near-disaster moon mission](https://www.space.com/17250-apollo-13-facts.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
