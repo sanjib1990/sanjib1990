@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mercury: The smallest and closest planet to the sun](https://www.space.com/36-mercury-the-suns-closest-planetary-neighbor.html)
+- [Best space books for kids 2022: Educational books and fun stories for kids and teens](https://www.space.com/32987-best-kids-books.html)
 - [Apple’s tweaked antitrust offer drops separate binary requirement for Dutch dating apps](https://techcrunch.com/2022/03/31/apple-acm-antitrust-offer-tweak/)
 - [Blue Origin&#39;s NS-20 space tourism launch: Live updates](https://www.space.com/news/live/blue-origin-mission-updates)
 - [China has big plans for its new Tiandu space exploration laboratory](https://www.space.com/china-tiandu-deep-space-exploration-laboratory)
-- [Using tiny satellites to monitor harmful gases from space &lpar;op-ed&rpar;](https://www.space.com/cubesats-monitor-harmful-gases-from-space)
-- [Venus: The scorching second planet from the sun](https://www.space.com/44-venus-second-planet-from-the-sun-brightest-planet-in-solar-system.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
