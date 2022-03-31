@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tier Mobility’s buy of Fantasmo brings camera positioning tech in-house](https://techcrunch.com/2022/03/30/tier-mobilitys-buy-of-fantasmo-brings-camera-positioning-tech-in-house/)
 - [Everything you need to know about YC Demo Day Winter 2022, part 2](https://techcrunch.com/2022/03/30/everything-you-need-to-know-about-yc-demo-day-2022-part-2/)
 - [Gumi Cryptos Capital closes $110M second fund to back blockchain startups](https://techcrunch.com/2022/03/30/gumi-cryptos-capital-closes-110m-second-fund-to-back-blockchain-startups/)
 - [How to watch Blue Origin&#39;s NS-20 space tourist launch on Thursday](https://www.space.com/blue-origin-space-tourism-launch-ns-20-webcast)
 - [8 open source companies from YC Demo Day Winter ’22](https://techcrunch.com/2022/03/30/ycombinator-open-source-startups-winter-22-demo-day/)
-- [Dear Sophie: What can we do to help employees who are Ukrainian citizens?](https://techcrunch.com/2022/03/30/dear-sophie-what-can-we-do-to-help-employees-who-are-ukrainian-citizens/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
