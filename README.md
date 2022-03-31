@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [YouTube TV finally adds picture-in-picture support on iOS; YouTube support expected in ‘coming months’](https://techcrunch.com/2022/03/31/youtube-tv-finally-adds-picture-in-picture-support-on-ios-youtube-support-expected-in-coming-months/)
-- [As right to repair legislation looms, Samsung introduces ‘self-service’ for Galaxy devices](https://techcrunch.com/2022/03/31/as-right-to-repair-legislation-looms-samsung-introduces-self-service-for-galaxy-devices/)
-- [For Freestyle’s newest fund, the growth hack is staying the same](https://techcrunch.com/2022/03/31/freestyle-fund-6-jenny-lefcourt-dave-samuel/)
-- [Instagram upgrades its DM inbox with music sharing, statuses, polls, silent messages, and more](https://techcrunch.com/2022/03/31/instagram-upgrades-its-dm-inbox-with-music-sharing-statuses-polls-silent-messages-and-more/)
-- [Find out how AWS, Brex, Mayfield and Dell can help your company scale at TC Early Stage](https://techcrunch.com/2022/03/31/find-out-how-aws-brex-mayfield-and-dell-can-help-your-company-scale-at-tc-early-stage/)
+- [Deepki grabs $166 million to help real estate investors reduce carbon emissions](https://techcrunch.com/2022/03/31/deepki-grabs-166-million-to-help-real-estate-investors-reduce-carbon-emissions/)
+- [Google Meet gets in-meeting reactions, PiP, end-to-end encryption and more](https://techcrunch.com/2022/03/31/google-meet-gets-in-meeting-reactions-pip-end-to-end-encryption-and-more/)
+- [SEC investigates Faraday Future as regulatory crackdown on EV SPACs continues](https://techcrunch.com/2022/03/31/faraday-future-spac-sec-investigation/)
+- [Viasat cyberattack blamed on Russian wiper malware](https://techcrunch.com/2022/03/31/viasat-cyberattack-russian-wiper/)
+- [SOSV and JetBlue Technology Ventures talk VC climate tech and ESG at TC Sessions: Climate 2022](https://techcrunch.com/2022/03/31/sosv-and-jetblue-technology-ventures-talk-vc-climate-tech-and-esg-at-tc-sessions-climate-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
