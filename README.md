@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Egyptian financial super app Khazna raises $38M from Quona Capital and Lendable](https://techcrunch.com/2022/03/31/egyptian-financial-super-app-khazna-raises-38m-from-quona-capital-and-lendable/)
+- [Watch Blue Origin launch a six-person crew to suborbital space live](https://techcrunch.com/2022/03/31/watch-blue-origin-launch-a-six-person-crew-to-suborbital-space-live/)
+- [Klarna launches new Klarna Kosma division for its open banking platform](https://techcrunch.com/2022/03/31/klarna-launches-new-klarna-kosma-division-for-its-open-banking-platform/)
 - [Meta and Sama face legal action in Kenya for alleged poor work conditions](https://techcrunch.com/2022/03/30/meta-and-sama-face-legal-action-in-kenya-for-alleged-poor-work-conditions/)
 - [Tier Mobility’s buy of Fantasmo brings camera positioning tech in-house](https://techcrunch.com/2022/03/30/tier-mobilitys-buy-of-fantasmo-brings-camera-positioning-tech-in-house/)
-- [Everything you need to know about YC Demo Day Winter 2022, part 2](https://techcrunch.com/2022/03/30/everything-you-need-to-know-about-yc-demo-day-2022-part-2/)
-- [Gumi Cryptos Capital closes $110M second fund to back blockchain startups](https://techcrunch.com/2022/03/30/gumi-cryptos-capital-closes-110m-second-fund-to-back-blockchain-startups/)
-- [How to watch Blue Origin&#39;s NS-20 space tourist launch on Thursday](https://www.space.com/blue-origin-space-tourism-launch-ns-20-webcast)
 <!-- BLOG-POST-LIST:END -->
 
 ---
