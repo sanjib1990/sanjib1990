@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Social commerce platform Tushop set for Kenya growth after raising $3 million pre-seed funding](https://techcrunch.com/2022/03/31/social-commerce-platform-tushop-set-for-kenya-growth-after-raising-3-million-pre-seed-funding/)
-- [Egyptian financial super app Khazna raises $38M from Quona Capital and Lendable](https://techcrunch.com/2022/03/31/egyptian-financial-super-app-khazna-raises-38m-from-quona-capital-and-lendable/)
-- [Watch Blue Origin launch a six-person crew to suborbital space live](https://techcrunch.com/2022/03/31/watch-blue-origin-launch-a-six-person-crew-to-suborbital-space-live/)
-- [Klarna launches new Klarna Kosma division for its open banking platform](https://techcrunch.com/2022/03/31/klarna-launches-new-klarna-kosma-division-for-its-open-banking-platform/)
-- [Meta and Sama face legal action in Kenya for alleged poor work conditions](https://techcrunch.com/2022/03/30/meta-and-sama-face-legal-action-in-kenya-for-alleged-poor-work-conditions/)
+- [Apple’s tweaked antitrust offer drops separate binary requirement for Dutch dating apps](https://techcrunch.com/2022/03/31/apple-acm-antitrust-offer-tweak/)
+- [Blue Origin&#39;s NS-20 space tourism launch: Live updates](https://www.space.com/news/live/blue-origin-mission-updates)
+- [China has big plans for its new Tiandu space exploration laboratory](https://www.space.com/china-tiandu-deep-space-exploration-laboratory)
+- [Using tiny satellites to monitor harmful gases from space &lpar;op-ed&rpar;](https://www.space.com/cubesats-monitor-harmful-gases-from-space)
+- [Venus: The scorching second planet from the sun](https://www.space.com/44-venus-second-planet-from-the-sun-brightest-planet-in-solar-system.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
