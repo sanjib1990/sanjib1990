@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Social commerce platform Tushop set for Kenya growth after raising $3 million pre-seed funding](https://techcrunch.com/2022/03/31/social-commerce-platform-tushop-set-for-kenya-growth-after-raising-3-million-pre-seed-funding/)
 - [Egyptian financial super app Khazna raises $38M from Quona Capital and Lendable](https://techcrunch.com/2022/03/31/egyptian-financial-super-app-khazna-raises-38m-from-quona-capital-and-lendable/)
 - [Watch Blue Origin launch a six-person crew to suborbital space live](https://techcrunch.com/2022/03/31/watch-blue-origin-launch-a-six-person-crew-to-suborbital-space-live/)
 - [Klarna launches new Klarna Kosma division for its open banking platform](https://techcrunch.com/2022/03/31/klarna-launches-new-klarna-kosma-division-for-its-open-banking-platform/)
 - [Meta and Sama face legal action in Kenya for alleged poor work conditions](https://techcrunch.com/2022/03/30/meta-and-sama-face-legal-action-in-kenya-for-alleged-poor-work-conditions/)
-- [Tier Mobility’s buy of Fantasmo brings camera positioning tech in-house](https://techcrunch.com/2022/03/30/tier-mobilitys-buy-of-fantasmo-brings-camera-positioning-tech-in-house/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
