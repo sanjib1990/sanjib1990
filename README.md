@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Search is getting a new label to direct people to original news sources](https://techcrunch.com/2022/03/31/google-search-label-original-news-sources/)
+- [Womens leadership network Chief surges to unicorn status](https://techcrunch.com/2022/03/31/womens-leadership-network-chief-surges-to-unicorn-status/)
+- [Is it time to start worrying about startup layoffs?](https://techcrunch.com/2022/03/31/is-it-time-to-start-worrying-about-startup-layoffs/)
+- [Halo games, ranked worst to best](https://www.space.com/halo-games-ranked-worst-to-best)
 - [BoxedUp brings the sharing economy to high-end video production](https://techcrunch.com/2022/03/31/boxedup-seed-investment/)
-- [Blue Origin&#39;s NS-20 space tourism launch: Live updates](https://www.space.com/news/live/blue-origin-mission-updates)
-- [Slingshot Aerospace scores $25M Space Force contract to build ‘digital twin’ space simulator](https://techcrunch.com/2022/03/31/slingshot-aerospace-scores-25m-space-force-contract-to-build-digital-twin-space-simulator/)
-- [Archie aims to remove the complexity of managing freelancers](https://techcrunch.com/2022/03/31/archie-aims-to-remove-the-complexity-of-managing-freelancers/)
-- [Founded by ex-dLocal and AstroPay execs, Datanomik is bringing open banking to LatAm](https://techcrunch.com/2022/03/31/founded-by-ex-dlocal-and-astropay-execs-datanomik-is-bringing-open-banking-to-latam/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
