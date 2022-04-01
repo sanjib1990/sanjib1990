@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The speed of sound on Mars is different from Earth, Perseverance rover finds](https://www.space.com/nasa-mars-rover-perseverance-speed-of-sound)
+- [Critical test for NASA&#39;s Artemis 1 moon mission kicks off today](https://www.space.com/nasa-artemis-1-wet-dress-rehearsal-preview)
+- [On This Day in Space! April 1, 1960: NASA launches TIROS-1, first US Weather satellite](https://www.space.com/39251-on-this-day-in-space.html)
 - [6 methods for reducing bias in candidate sourcing and screening](https://techcrunch.com/2022/03/31/6-methods-for-reducing-bias-in-candidate-sourcing-and-screening/)
 - [GoPro’s new battery grip triples your action-cam shooting time](https://techcrunch.com/2022/03/31/gopro-volta-battery-grip/)
-- [Rocket Lab, SpaceX launching missions Friday: Watch them live](https://www.space.com/rocket-lab-spacex-launches-april-2022-preview)
-- [Blue Origin space tourist carries Ukrainian flag to final frontier](https://www.space.com/blue-origin-space-tourism-launch-ukrainian-flag)
-- [Daily Crunch: Intel will reportedly buy cloud-optimization startup Granulate for $650M](https://techcrunch.com/2022/03/31/daily-crunch-intel-will-reportedly-buy-cloud-optimization-startup-granulate-for-650m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
