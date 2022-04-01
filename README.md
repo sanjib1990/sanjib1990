@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Name of James Webb Space Telescope not yet a closed case, NASA officials say](https://www.space.com/james-webb-lgbtq-discrimination-investigation-ongoing)
+- [4 critical relationships that will help your startup succeed](https://techcrunch.com/2022/04/01/4-critical-relationships-that-will-help-your-startup-succeed/)
 - [UK police charge 2 teenagers in connection with Lapsus$ hacks](https://techcrunch.com/2022/04/01/uk-police-teenagers-lapsus/)
 - [Webb Completes First Multi-Instrument Alignment](https://blogs.nasa.gov/webb/2022/04/01/webb-completes-first-multi-instrument-alignment/)
 - [Instacart now delivers market trends](https://techcrunch.com/2022/04/01/instacart-now-delivers-market-trends/)
-- [The sun let out another flare and the photos are stunning](https://www.space.com/solar-flare-stunning-photos-march-2022)
-- [London’s By Rotation is taking its p2p fashion rental app stateside](https://techcrunch.com/2022/04/01/by-rotation-seed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
