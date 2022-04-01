@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [3 things you can do right now to support Ukraine’s IT sector](https://techcrunch.com/2022/04/01/3-things-you-can-do-right-now-to-support-ukraines-it-sector/)
+- [Europe’s AI Act contains powers to order AI models destroyed or retrained, says legal expert](https://techcrunch.com/2022/04/01/ai-act-powers/)
 - [James Webb Space Telescope completes another stage of instrument alignment](https://www.space.com/james-webb-space-telescope-instrument-alignment)
 - [SpaceX launches 40 satellites into orbit, lands rocket at sea](https://www.space.com/spacex-transporter-4-launch-rocket-landing)
 - [Stunning northern lights from intense solar storms thrill stargazers &lpar;photos&rpar;](https://www.space.com/stunning-aurora-photos-march-2022-solar-storms)
-- [TechCrunch Disrupt returns in October — Get your 2-for-1 promo code now](https://techcrunch.com/2022/04/01/techcrunch-disrupt-returns-in-october-get-your-2-for-1-promo-code-now/)
-- [How to watch SpaceX launch the private Ax-1 space station mission online](https://www.space.com/private-ax-1-space-station-mission-webcasts)
 <!-- BLOG-POST-LIST:END -->
 
 ---
