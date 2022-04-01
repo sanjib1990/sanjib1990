@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [‘Mars is very quiet,’ but Perseverance rover still captures Martian sounds for science](https://techcrunch.com/2022/04/01/mars-is-very-quiet-but-perseverance-rover-still-captures-martian-sounds-for-science/)
 - [3 things you can do right now to support Ukraine’s IT sector](https://techcrunch.com/2022/04/01/3-things-you-can-do-right-now-to-support-ukraines-it-sector/)
 - [Europe’s AI Act contains powers to order AI models destroyed or retrained, says legal expert](https://techcrunch.com/2022/04/01/ai-act-powers/)
 - [James Webb Space Telescope completes another stage of instrument alignment](https://www.space.com/james-webb-space-telescope-instrument-alignment)
 - [SpaceX launches 40 satellites into orbit, lands rocket at sea](https://www.space.com/spacex-transporter-4-launch-rocket-landing)
-- [Stunning northern lights from intense solar storms thrill stargazers &lpar;photos&rpar;](https://www.space.com/stunning-aurora-photos-march-2022-solar-storms)
 <!-- BLOG-POST-LIST:END -->
 
 ---
