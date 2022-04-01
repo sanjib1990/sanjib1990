@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
+- [Axiom&#39;s 1st private astronaut crew is ready to fly to space](https://www.space.com/axiom-space-ax1-spacex-mission-astronauts-ready-launch)
 - [‘Mars is very quiet,’ but Perseverance rover still captures Martian sounds for science](https://techcrunch.com/2022/04/01/mars-is-very-quiet-but-perseverance-rover-still-captures-martian-sounds-for-science/)
 - [3 things you can do right now to support Ukraine’s IT sector](https://techcrunch.com/2022/04/01/3-things-you-can-do-right-now-to-support-ukraines-it-sector/)
 - [Europe’s AI Act contains powers to order AI models destroyed or retrained, says legal expert](https://techcrunch.com/2022/04/01/ai-act-powers/)
-- [James Webb Space Telescope completes another stage of instrument alignment](https://www.space.com/james-webb-space-telescope-instrument-alignment)
-- [SpaceX launches 40 satellites into orbit, lands rocket at sea](https://www.space.com/spacex-transporter-4-launch-rocket-landing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
