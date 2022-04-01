@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Name of James Webb Space Telescope not yet a closed case, NASA officials say](https://www.space.com/james-webb-lgbtq-discrimination-investigation-ongoing)
-- [4 critical relationships that will help your startup succeed](https://techcrunch.com/2022/04/01/4-critical-relationships-that-will-help-your-startup-succeed/)
-- [UK police charge 2 teenagers in connection with Lapsus$ hacks](https://techcrunch.com/2022/04/01/uk-police-teenagers-lapsus/)
-- [Webb Completes First Multi-Instrument Alignment](https://blogs.nasa.gov/webb/2022/04/01/webb-completes-first-multi-instrument-alignment/)
-- [Instacart now delivers market trends](https://techcrunch.com/2022/04/01/instacart-now-delivers-market-trends/)
+- [NASA downgrades a large asteroid&#39;s risk of impact in 2880](https://www.space.com/asteroid-risk-impact-2880-downgraded)
+- [This Israeli startup&#39;s sci-fi &#39;headset&#39; will map brain changes in space on private Ax-1 mission](https://www.space.com/brain-space-headset-launching-axiom-1-mission)
+- [VC Lotti Siniscalco shares dos and don’ts in the Pitch Deck Teardown at TC Early Stage](https://techcrunch.com/2022/04/01/vc-lotti-siniscalco-shares-dos-and-donts-in-the-pitch-deck-teardown-at-tc-early-stage/)
+- [Ukraine invasion&#39;s impacts on space exploration: Live updates](https://www.space.com/news/live/russia-ukraine-invasion-space-impacts-updates)
+- [Conquer Tax Day with these 5 crypto tax prep software packages](https://techcrunch.com/2022/04/01/how-to-prepare-for-tax-day-5-crypto-software-packages/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
