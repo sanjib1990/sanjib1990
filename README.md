@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch Disrupt returns in October – Get your 2-for-1 promo code now](https://techcrunch.com/2022/04/01/techcrunch-disrupt-returns-in-october-get-your-2-for-1-promo-code-now/)
+- [How to watch SpaceX launch the private Ax-1 space station mission online](https://www.space.com/private-ax-1-space-station-mission-webcasts)
+- [Late-stage software startups might be in the most valuation trouble](https://techcrunch.com/2022/04/01/late-stage-software-startups-might-be-in-the-most-valuation-trouble/)
+- [Staten Island Amazon workers vote to unionize](https://techcrunch.com/2022/04/01/staten-island-amazon-workers-vote-to-unionize/)
 - [NASA downgrades a large asteroid&#39;s risk of impact in 2880](https://www.space.com/asteroid-risk-impact-2880-downgraded)
-- [This Israeli startup&#39;s sci-fi &#39;headset&#39; will map brain changes in space on private Ax-1 mission](https://www.space.com/brain-space-headset-launching-axiom-1-mission)
-- [VC Lotti Siniscalco shares dos and don’ts in the Pitch Deck Teardown at TC Early Stage](https://techcrunch.com/2022/04/01/vc-lotti-siniscalco-shares-dos-and-donts-in-the-pitch-deck-teardown-at-tc-early-stage/)
-- [Ukraine invasion&#39;s impacts on space exploration: Live updates](https://www.space.com/news/live/russia-ukraine-invasion-space-impacts-updates)
-- [Conquer Tax Day with these 5 crypto tax prep software packages](https://techcrunch.com/2022/04/01/how-to-prepare-for-tax-day-5-crypto-software-packages/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
