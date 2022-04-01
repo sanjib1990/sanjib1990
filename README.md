@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch Rocket Lab send a pair of BlackSky satellites to space](https://techcrunch.com/2022/04/01/watch-rocket-lab-send-a-pair-of-blacksky-satellites-to-space/)
+- [The brightest planets in April&#39;s night sky: how and when to see them](https://www.space.com/33619-visible-planets-guide.html)
+- [Night sky, April 2022: What you can see this month [maps]](https://www.space.com/16149-night-sky.html)
+- [You can watch SpaceX launch a 40-satellite rideshare rocket to space today](https://www.space.com/rocket-lab-spacex-launches-april-2022-preview)
 - [The speed of sound on Mars is different from Earth, Perseverance rover finds](https://www.space.com/nasa-mars-rover-perseverance-speed-of-sound)
-- [Critical test for NASA&#39;s Artemis 1 moon mission kicks off today](https://www.space.com/nasa-artemis-1-wet-dress-rehearsal-preview)
-- [On This Day in Space! April 1, 1960: NASA launches TIROS-1, first US Weather satellite](https://www.space.com/39251-on-this-day-in-space.html)
-- [6 methods for reducing bias in candidate sourcing and screening](https://techcrunch.com/2022/03/31/6-methods-for-reducing-bias-in-candidate-sourcing-and-screening/)
-- [GoPro’s new battery grip triples your action-cam shooting time](https://techcrunch.com/2022/03/31/gopro-volta-battery-grip/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
