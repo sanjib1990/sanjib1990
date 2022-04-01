@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [UK police charge 2 teenagers in connection with Lapsus$ hacks](https://techcrunch.com/2022/04/01/uk-police-teenagers-lapsus/)
+- [Webb Completes First Multi-Instrument Alignment](https://blogs.nasa.gov/webb/2022/04/01/webb-completes-first-multi-instrument-alignment/)
+- [Instacart now delivers market trends](https://techcrunch.com/2022/04/01/instacart-now-delivers-market-trends/)
+- [The sun let out another flare and the photos are stunning](https://www.space.com/solar-flare-stunning-photos-march-2022)
 - [London’s By Rotation is taking its p2p fashion rental app stateside](https://techcrunch.com/2022/04/01/by-rotation-seed/)
-- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [Watch Rocket Lab send a pair of BlackSky satellites to space](https://techcrunch.com/2022/04/01/watch-rocket-lab-send-a-pair-of-blacksky-satellites-to-space/)
-- [The brightest planets in April&#39;s night sky: how and when to see them](https://www.space.com/33619-visible-planets-guide.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
