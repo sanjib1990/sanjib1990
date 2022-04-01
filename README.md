@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [6 methods for reducing bias in candidate sourcing and screening](https://techcrunch.com/2022/03/31/6-methods-for-reducing-bias-in-candidate-sourcing-and-screening/)
 - [GoPro’s new battery grip triples your action-cam shooting time](https://techcrunch.com/2022/03/31/gopro-volta-battery-grip/)
 - [Rocket Lab, SpaceX launching missions Friday: Watch them live](https://www.space.com/rocket-lab-spacex-launches-april-2022-preview)
 - [Blue Origin space tourist carries Ukrainian flag to final frontier](https://www.space.com/blue-origin-space-tourism-launch-ukrainian-flag)
 - [Daily Crunch: Intel will reportedly buy cloud-optimization startup Granulate for $650M](https://techcrunch.com/2022/03/31/daily-crunch-intel-will-reportedly-buy-cloud-optimization-startup-granulate-for-650m/)
-- [As counting wraps for the day, mixed results emerge in Amazon union votes](https://techcrunch.com/2022/03/31/as-counting-wraps-for-the-day-mixed-results-emerge-in-amazon-union-votes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
