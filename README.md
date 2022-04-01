@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TechCrunch Disrupt returns in October – Get your 2-for-1 promo code now](https://techcrunch.com/2022/04/01/techcrunch-disrupt-returns-in-october-get-your-2-for-1-promo-code-now/)
+- [James Webb Space Telescope completes another stage of instrument alignment](https://www.space.com/james-webb-space-telescope-instrument-alignment)
+- [SpaceX launches 40 satellites into orbit, lands rocket at sea](https://www.space.com/spacex-transporter-4-launch-rocket-landing)
+- [Stunning northern lights from intense solar storms thrill stargazers &lpar;photos&rpar;](https://www.space.com/stunning-aurora-photos-march-2022-solar-storms)
+- [TechCrunch Disrupt returns in October — Get your 2-for-1 promo code now](https://techcrunch.com/2022/04/01/techcrunch-disrupt-returns-in-october-get-your-2-for-1-promo-code-now/)
 - [How to watch SpaceX launch the private Ax-1 space station mission online](https://www.space.com/private-ax-1-space-station-mission-webcasts)
-- [Late-stage software startups might be in the most valuation trouble](https://techcrunch.com/2022/04/01/late-stage-software-startups-might-be-in-the-most-valuation-trouble/)
-- [Staten Island Amazon workers vote to unionize](https://techcrunch.com/2022/04/01/staten-island-amazon-workers-vote-to-unionize/)
-- [NASA downgrades a large asteroid&#39;s risk of impact in 2880](https://www.space.com/asteroid-risk-impact-2880-downgraded)
 <!-- BLOG-POST-LIST:END -->
 
 ---
