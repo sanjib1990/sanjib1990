@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Amazon says it’s ‘disappointed’ after Staten Island fulfillment center workers unionize](https://techcrunch.com/2022/04/01/daily-crunch-amazon-says-its-disappointed-after-staten-island-fulfillment-center-workers-unionize/)
+- [April new moon 2022: Venus, Saturn and Mars cluster together in moonless sky](https://www.space.com/17561-new-moon-explained-lunar-phases.html)
+- [In &#39;Apollo 10 1/2,&#39; Richard Linklater directs nostalgic trip to the moon](https://www.space.com/apollo-10-1-2-netflix-director-linklater-interview)
 - [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
 - [Garrett Camp on his startup studio, its new $200M fund and what he makes of ‘Super Pumped’](https://techcrunch.com/2022/04/01/garrett-camp-on-his-startup-studio-its-new-200m-fund-and-what-he-makes-of-super-pumped/)
-- [Axiom&#39;s 1st private astronaut crew is ready to fly to space](https://www.space.com/axiom-space-ax1-spacex-mission-astronauts-ready-launch)
-- [TechCrunch+ roundup: YC demo days, pitching warm up drills, Kentucky’s Bitcoin miners](https://techcrunch.com/2022/04/01/techcrunch-roundup-yc-demo-days-pitching-warm-up-drills-kentuckys-bitcoin-miners/)
-- [‘Mars is very quiet,’ but Perseverance rover still captures Martian sounds for science](https://techcrunch.com/2022/04/01/mars-is-very-quiet-but-perseverance-rover-still-captures-martian-sounds-for-science/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
