@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [Watch Rocket Lab send a pair of BlackSky satellites to space](https://techcrunch.com/2022/04/01/watch-rocket-lab-send-a-pair-of-blacksky-satellites-to-space/)
 - [The brightest planets in April&#39;s night sky: how and when to see them](https://www.space.com/33619-visible-planets-guide.html)
 - [Night sky, April 2022: What you can see this month [maps]](https://www.space.com/16149-night-sky.html)
 - [You can watch SpaceX launch a 40-satellite rideshare rocket to space today](https://www.space.com/rocket-lab-spacex-launches-april-2022-preview)
-- [The speed of sound on Mars is different from Earth, Perseverance rover finds](https://www.space.com/nasa-mars-rover-perseverance-speed-of-sound)
 <!-- BLOG-POST-LIST:END -->
 
 ---
