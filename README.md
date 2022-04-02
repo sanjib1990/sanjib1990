@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Week in Apps: TikTok partners with Giphy, new rules for reader apps, Roblox sides with Apple](https://techcrunch.com/2022/04/02/this-week-in-apps-tiktok-partners-with-giphy-new-rules-for-reader-apps-roblox-sides-with-apple/)
 - [What 411 YC Demo Day pitches will teach you about startups](https://techcrunch.com/2022/04/02/what-411-yc-demo-day-pitches-will-teach-you-about-startups/)
 - [From a whirlwind, clarity](https://techcrunch.com/2022/04/02/from-a-whirlwind-clarity/)
 - [Here’s Y Combinator’s answer to cultivated meat’s scaling problem](https://techcrunch.com/2022/04/02/heres-y-combinators-answer-to-cultivated-meats-scaling-problem/)
 - [Rocket Lab launches 2 BlackSky Earth-observing satellites into orbit](https://www.space.com/rocket-lab-launches-commercial-earth-observing-satellites-april-2022)
-- [This Week In Space Podcast: Episode 5 - Just regular folks in space](https://www.space.com/this-week-in-space-podcast-twit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
