@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [From a whirlwind, clarity](https://techcrunch.com/2022/04/02/from-a-whirlwind-clarity/)
 - [Here’s Y Combinator’s answer to cultivated meat’s scaling problem](https://techcrunch.com/2022/04/02/heres-y-combinators-answer-to-cultivated-meats-scaling-problem/)
 - [Rocket Lab launches 2 BlackSky Earth-observing satellites into orbit](https://www.space.com/rocket-lab-launches-commercial-earth-observing-satellites-april-2022)
 - [This Week In Space Podcast: Episode 5 - Just regular folks in space](https://www.space.com/this-week-in-space-podcast-twit)
 - [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates)
-- [International startups shrug off US insurtech meltdown](https://techcrunch.com/2022/04/02/international-startups-shrug-off-us-insurtech-meltdown/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
