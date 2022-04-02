@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Indian giant Tata Group to debut super app on April 7](https://techcrunch.com/2022/04/02/tataneu-april-7-launch/)
+- [On This Day in Space! April 2, 1963: Luna 4 launches on lunar flyby mission](https://www.space.com/39251-on-this-day-in-space.html)
 - [April&#39;s sky brings dance of 4 morning planets: See Jupiter, Venus, Mars and Saturn.](https://www.space.com/april-2022-morning-planets-jupiter-saturn-venus-mars)
 - [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html)
 - [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html)
-- [A large solar storm could knock out the power grid and the internet — an electrical engineer explains how](https://www.space.com/solar-storm-power-grid-internet-blackout)
-- [Red giant star is blowing strange smoke rings as it is about to die](https://www.space.com/telescopes-capture-final-stages-red-giant-star)
 <!-- BLOG-POST-LIST:END -->
 
 ---
