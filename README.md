@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hear from these amazing investors and founders on TechCrunch Live this April](https://techcrunch.com/2022/04/01/hear-from-these-amazing-investors-and-founders-on-techcrunch-live-this-april/)
-- [Meteor explosion shakes Indiana](https://www.space.com/meteor-explosion-fireball-indiana)
-- [Daily Crunch: Amazon says it’s ‘disappointed’ after Staten Island fulfillment center workers unionize](https://techcrunch.com/2022/04/01/daily-crunch-amazon-says-its-disappointed-after-staten-island-fulfillment-center-workers-unionize/)
-- [April new moon 2022: Venus, Saturn and Mars cluster together in moonless sky](https://www.space.com/17561-new-moon-explained-lunar-phases.html)
-- [In &#39;Apollo 10 1/2,&#39; Richard Linklater directs nostalgic trip to the moon](https://www.space.com/apollo-10-1-2-netflix-director-linklater-interview)
+- [April&#39;s sky brings dance of 4 morning planets: See Jupiter, Venus, Mars and Saturn.](https://www.space.com/april-2022-morning-planets-jupiter-saturn-venus-mars)
+- [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html)
+- [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html)
+- [A large solar storm could knock out the power grid and the internet — an electrical engineer explains how](https://www.space.com/solar-storm-power-grid-internet-blackout)
+- [Red giant star is blowing strange smoke rings as it is about to die](https://www.space.com/telescopes-capture-final-stages-red-giant-star)
 <!-- BLOG-POST-LIST:END -->
 
 ---
