@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates)
+- [See Venus, Saturn and Mars shine close before sunrise this week](https://www.space.com/venus-saturn-mars-shine-close)
+- [SpaceX will launch these 4 private astronauts on Axiom Space&#39;s Ax-1 space station mission this week](https://www.space.com/spacex-axiom-ax-1-mission-astronaut-crew)
+- [Asteroid Ryugu may be a remnant of an extinct comet](https://www.space.com/asteroid-ryugu-remnant-extinct-comet)
 - [Tesla delivers record number of EVs in ‘exceptionally’ difficult quarter](https://techcrunch.com/2022/04/02/tesla-delivers-record-number-of-evs-in-exceptionally-difficult-quarter/)
-- [This Week in Apps: TikTok partners with Giphy, new rules for reader apps, Roblox sides with Apple](https://techcrunch.com/2022/04/02/this-week-in-apps-tiktok-partners-with-giphy-new-rules-for-reader-apps-roblox-sides-with-apple/)
-- [What 411 YC Demo Day pitches will teach you about startups](https://techcrunch.com/2022/04/02/what-411-yc-demo-day-pitches-will-teach-you-about-startups/)
-- [From a whirlwind, clarity](https://techcrunch.com/2022/04/02/from-a-whirlwind-clarity/)
-- [Here’s Y Combinator’s answer to cultivated meat’s scaling problem](https://techcrunch.com/2022/04/02/heres-y-combinators-answer-to-cultivated-meats-scaling-problem/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
