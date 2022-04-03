@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A solar power station in space? Here&#39;s how it would work — and the benefits it could bring](https://www.space.com/solar-power-station-in-space)
+- [Lightning strikes NASA&#39;s Artemis 1 moon megarocket launch pad during test](https://www.space.com/lightning-hits-artemis-1-moon-rocket-launch-pad)
+- [Orion spacecraft: NASA&#39;s next-gen capsule to take astronauts beyond Earth orbit](https://www.space.com/27824-orion-spacecraft.html)
 - [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates)
 - [See Venus, Saturn and Mars shine close before sunrise this week](https://www.space.com/venus-saturn-mars-shine-close)
-- [SpaceX will launch these 4 private astronauts on Axiom Space&#39;s Ax-1 space station mission this week](https://www.space.com/spacex-axiom-ax-1-mission-astronaut-crew)
-- [Asteroid Ryugu may be a remnant of an extinct comet](https://www.space.com/asteroid-ryugu-remnant-extinct-comet)
-- [Tesla delivers record number of EVs in ‘exceptionally’ difficult quarter](https://techcrunch.com/2022/04/02/tesla-delivers-record-number-of-evs-in-exceptionally-difficult-quarter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
