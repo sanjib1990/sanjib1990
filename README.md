@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA calls off critical Artemis 1 moon rocket test over safety concerns](https://www.space.com/nasa-artemis-1-moon-rocket-fueling-test-scrub)
+- [FTX in talks to invest in Indian gaming startup MPL, sources say](https://techcrunch.com/2022/04/03/ftx-in-talks-to-invest-in-indian-gaming-startup-mpl-sources-say/)
+- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates)
 - [Better.com teaches us how not to downsize a company](https://techcrunch.com/2022/04/03/better-com-teaches-us-how-not-to-conduct-mass-layoffs/)
 - [Fintech Roundup: Goldman Sachs buys another startup, Fast hits a speed bump and BaaS gets hotter](https://techcrunch.com/2022/04/03/fintech-roundup-goldman-sachs-buys-another-startup-fast-hits-a-speed-bump-and-baas-gets-hotter/)
-- [On This Day in Space! April 3, 1973: Soviet Union launches Salyut 2 space station](https://www.space.com/39251-on-this-day-in-space.html)
-- [A solar power station in space? Here&#39;s how it would work — and the benefits it could bring](https://www.space.com/solar-power-station-in-space)
-- [Lightning strikes NASA&#39;s Artemis 1 moon megarocket launch pad during test](https://www.space.com/lightning-hits-artemis-1-moon-rocket-launch-pad)
 <!-- BLOG-POST-LIST:END -->
 
 ---
