@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fintech Roundup: Goldman Sachs buys another startup, Fast hits a speed bump and BaaS gets hotter](https://techcrunch.com/2022/04/03/fintech-roundup-goldman-sachs-buys-another-startup-fast-hits-a-speed-bump-and-baas-gets-hotter/)
+- [On This Day in Space! April 3, 1973: Soviet Union launches Salyut 2 space station](https://www.space.com/39251-on-this-day-in-space.html)
 - [A solar power station in space? Here&#39;s how it would work — and the benefits it could bring](https://www.space.com/solar-power-station-in-space)
 - [Lightning strikes NASA&#39;s Artemis 1 moon megarocket launch pad during test](https://www.space.com/lightning-hits-artemis-1-moon-rocket-launch-pad)
 - [Orion spacecraft: NASA&#39;s next-gen capsule to take astronauts beyond Earth orbit](https://www.space.com/27824-orion-spacecraft.html)
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates)
-- [See Venus, Saturn and Mars shine close before sunrise this week](https://www.space.com/venus-saturn-mars-shine-close)
 <!-- BLOG-POST-LIST:END -->
 
 ---
