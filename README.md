@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [VCs scale their bets on Solana’s expanding NFT ecosystem](https://techcrunch.com/2022/04/04/vcs-scale-their-bets-on-solanas-expanding-nft-ecosystem/)
-- [Just like IRL, the metaverse requires infrastructure. We don’t have it yet](https://techcrunch.com/2022/04/04/just-like-irl-the-metaverse-requires-infrastructure-we-dont-have-it-yet/)
-- [Sequoia’s Doug Leone steps down, making way for new global head Roelof Botha](https://techcrunch.com/2022/04/04/sequoia-capital-doug-leone-roelof-botha/)
-- [Mars crater complex shows layers of ice in stunning spacecraft photos](https://www.space.com/mars-crater-complex-layers-ice-photo)
-- [Tech workers describe detentions and interrogations as they flee Russia](https://techcrunch.com/2022/04/04/russia-tech-workers-detentions-interrogations/)
+- [DeLorean teases its EV concept car](https://techcrunch.com/2022/04/04/delorean-teases-its-ev-concept-car/)
+- [Activision Blizzard flip flops on vaccination policies as employees walk out](https://techcrunch.com/2022/04/04/activision-blizzard-work-from-home-vaccination-employee-walkout/)
+- [TikTok owner ByteDance accused of scraping content from Instagram and Snapchat for its older app Flipagram](https://techcrunch.com/2022/04/04/tiktok-owner-bytedance-reportedly-scraped-content-from-instagram-snapchat-posted-flipagram/)
+- [EV auto sales shine in first quarter of 2022](https://techcrunch.com/2022/04/04/ev-us-auto-sales-shine-in-q1-2022/)
+- [Q1 crypto losses spike 695% on year following massive hacks](https://techcrunch.com/2022/04/04/q1-crypto-losses-spike-695-on-year-following-massive-hacks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
