@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Future Family takes in new capital as need for fertility treatments increases](https://techcrunch.com/2022/04/04/future-family-fertility-treatments-series-b/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [Mailchimp says an internal tool was used to breach hundreds of accounts](https://techcrunch.com/2022/04/04/mailchimp-internal-tool-breach/)
-- [These Y Combinator-backed startups want to build the next Brex](https://techcrunch.com/2022/04/04/these-y-combinator-backed-startups-want-to-build-the-next-brex/)
-- [Thousands of rentable Polestar EVs to land on Hertz lots](https://techcrunch.com/2022/04/04/hertz-polestar-evs-rental-fleet/)
+- [Just like IRL, the metaverse requires infrastructure. We don’t have it yet](https://techcrunch.com/2022/04/04/just-like-irl-the-metaverse-requires-infrastructure-we-dont-have-it-yet/)
+- [Sequoia’s Doug Leone steps down, making way for new global head Roelof Botha](https://techcrunch.com/2022/04/04/sequoia-capital-doug-leone-roelof-botha/)
+- [Tech workers describe detentions and interrogations as they flee Russia](https://techcrunch.com/2022/04/04/russia-tech-workers-detentions-interrogations/)
+- [BitMEX crypto exchange lays off a quarter of staff after failed acquisition](https://techcrunch.com/2022/04/04/bitmex-crypto-exchange-lays-off-a-quarter-of-staff-after-failed-acquisition/)
+- [Ax-1 private mission to space station: Live updates](https://www.space.com/news/live/ax-1-space-station-mission-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
