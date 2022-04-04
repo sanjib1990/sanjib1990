@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Everly Health founder discusses leading a startup through two acquisitions](https://techcrunch.com/2022/04/04/everly-health-found/)
-- [At last, a gnat-sized affordable wireless mic set for vloggers and podcasters](https://techcrunch.com/2022/04/04/dji-mic/)
-- [Shein said to be raising $1 billion at $100 billion valuation](https://techcrunch.com/2022/04/04/shein-said-to-be-raising-1-billion-at-100-billion-valuation/)
-- [Mass grave in Ukraine seen from space &lpar;satellite photos&rpar;](https://www.space.com/ukraine-mass-grave-bucha-satellite-photos)
-- [DeLorean teases its EV concept car](https://techcrunch.com/2022/04/04/delorean-teases-its-ev-concept-car/)
+- [Latch parts ways with CFO after difficult SPAC debut](https://techcrunch.com/2022/04/04/latch-cfo-out-after-spac/)
+- [Elon Musk buys 9% stake in Twitter, becoming platform&#39;s largest shareholder](https://www.space.com/elon-musk-twitter-largest-shareholder)
+- [Stuck valve stalls NASA&#39;s 2nd attempt to fuel giant Artemis 1 moon rocket](https://www.space.com/nasa-artemis-1-moon-rocket-test-stuck-valve)
+- [Max Q: Space goes SPAC](https://techcrunch.com/2022/04/04/max-q-space-goes-spac/)
+- [Daily Crunch: Twitter stock price soars after Elon Musk acquires 9.2% stake](https://techcrunch.com/2022/04/04/twitter-stock-price-soars-after-elon-musk-acquires-9-2-stake/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
