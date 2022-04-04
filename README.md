@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [LinkSquares benefits from the legal tech boom with a fresh $100M](https://techcrunch.com/2022/04/04/linksquares-benefits-from-the-legal-tech-boom-with-a-fresh-100m/)
-- [Equity Monday: Elon’s Twitter stake and the fate of rival social networks](https://techcrunch.com/2022/04/04/equity-monday-elons-twitter-stake-and-the-fate-of-rival-social-networks/)
-- [Spotify is testing a way to promote popular user-created playlists](https://techcrunch.com/2022/04/04/spotify-testing-promote-popular-user-created-playlists/)
-- [India orders antitrust investigation into Zomato and Swiggy conduct](https://techcrunch.com/2022/04/04/india-orders-antitrust-investigation-into-zomato-and-swiggy-conduct/)
-- [SpaceX, NASA delay launch of private Ax-1 astronaut mission to April 8](https://www.space.com/spacex-nasa-ax-1-private-astronaut-launch-delay)
+- [Grab one of the last 20 early bird tickets to TC Early Stage and save $200](https://techcrunch.com/2022/04/04/nab-one-of-the-last-20-early-bird-tickets-to-tc-early-stage-2022-and-save-200/)
+- [Social network Peanut launches new offering to connect women with doulas, therapists and more](https://techcrunch.com/2022/04/04/social-network-peanut-offering-connect-women-doulas-therapist/)
+- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates)
+- [AMD to acquire data center optimization startup Pensando for $2B](https://techcrunch.com/2022/04/04/amd-to-acquire-data-center-optimization-startup-pensando-for-2b/)
+- [Two new ways to attend TC Sessions: Mobility 2022 — in person or online](https://techcrunch.com/2022/04/04/two-new-ways-to-attend-tc-sessions-mobility-2022-in-person-or-online/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
