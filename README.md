@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates)
-- [Sudden collapse of Antarctic ice shelf could be sign of things to come](https://www.space.com/antarctica-conger-ice-shelf-collapse)
-- [Recently discovered Comet Pan-STARRS could be visible in April&#39;s night sky &lpar;maybe&rpar;](https://www.space.com/comet-pan-starrs-is-coming-maybe)
-- [Motions of stars in neighboring Large Magellanic Cloud shed light on galaxy formation](https://www.space.com/star-motion-large-magellanic-cloud-study)
-- [SpaceX private Ax-1 mission&#39;s science includes self-assembling robots and light-powered air filters](https://www.space.com/axiom-1-space-station-science-work)
+- [Musk takes a $3B bite out of Twitter; now the Tesla mogul has a 9.2% share of the social network](https://techcrunch.com/2022/04/04/musk-twitter-shares-trolled-again/)
+- [SpaceX, NASA delay launch of private Ax-1 astronaut mission to April 8](https://www.space.com/spacex-nasa-ax-1-private-astronaut-launch-delay)
+- [Craving ‘wild’ foods? Foraged’s marketplace uncovers all that and more](https://techcrunch.com/2022/04/04/craving-wild-foods-forageds-marketplace-uncovers-all-that-and-more/)
+- [Alphabet’s Wing is bringing drone delivery to Texas this week](https://techcrunch.com/2022/04/04/alphabets-wing-is-bringing-drone-delivery-to-texas-this-week/)
+- [UPS partners with Jumia to expand delivery network in Africa](https://techcrunch.com/2022/04/04/ups-partners-with-jumia-to-expand-delivery-network-in-africa/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
