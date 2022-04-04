@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Star Wars TV shows ranked, worst to best](https://www.space.com/star-wars-tv-shows-ranked-worst-to-best)
-- [Musk takes a $3B bite out of Twitter; now the Tesla mogul has a 9.2% share of the social network](https://techcrunch.com/2022/04/04/musk-twitter-shares-trolled-again/)
+- [LinkSquares benefits from the legal tech boom with a fresh $100M](https://techcrunch.com/2022/04/04/linksquares-benefits-from-the-legal-tech-boom-with-a-fresh-100m/)
+- [Equity Monday: Elon’s Twitter stake and the fate of rival social networks](https://techcrunch.com/2022/04/04/equity-monday-elons-twitter-stake-and-the-fate-of-rival-social-networks/)
+- [Spotify is testing a way to promote popular user-created playlists](https://techcrunch.com/2022/04/04/spotify-testing-promote-popular-user-created-playlists/)
+- [India orders antitrust investigation into Zomato and Swiggy conduct](https://techcrunch.com/2022/04/04/india-orders-antitrust-investigation-into-zomato-and-swiggy-conduct/)
 - [SpaceX, NASA delay launch of private Ax-1 astronaut mission to April 8](https://www.space.com/spacex-nasa-ax-1-private-astronaut-launch-delay)
-- [Craving ‘wild’ foods? Foraged’s marketplace uncovers all that and more](https://techcrunch.com/2022/04/04/craving-wild-foods-forageds-marketplace-uncovers-all-that-and-more/)
-- [Alphabet’s Wing is bringing drone delivery to Texas this week](https://techcrunch.com/2022/04/04/alphabets-wing-is-bringing-drone-delivery-to-texas-this-week/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
