@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Everly Health founder discusses leading a startup through two acquisitions](https://techcrunch.com/2022/04/04/everly-health-found/)
+- [At last, a gnat-sized affordable wireless mic set for vloggers and podcasters](https://techcrunch.com/2022/04/04/dji-mic/)
+- [Shein said to be raising $1 billion at $100 billion valuation](https://techcrunch.com/2022/04/04/shein-said-to-be-raising-1-billion-at-100-billion-valuation/)
+- [Mass grave in Ukraine seen from space &lpar;satellite photos&rpar;](https://www.space.com/ukraine-mass-grave-bucha-satellite-photos)
 - [DeLorean teases its EV concept car](https://techcrunch.com/2022/04/04/delorean-teases-its-ev-concept-car/)
-- [Activision Blizzard flip flops on vaccination policies as employees walk out](https://techcrunch.com/2022/04/04/activision-blizzard-work-from-home-vaccination-employee-walkout/)
-- [TikTok owner ByteDance accused of scraping content from Instagram and Snapchat for its older app Flipagram](https://techcrunch.com/2022/04/04/tiktok-owner-bytedance-reportedly-scraped-content-from-instagram-snapchat-posted-flipagram/)
-- [EV auto sales shine in first quarter of 2022](https://techcrunch.com/2022/04/04/ev-us-auto-sales-shine-in-q1-2022/)
-- [Q1 crypto losses spike 695% on year following massive hacks](https://techcrunch.com/2022/04/04/q1-crypto-losses-spike-695-on-year-following-massive-hacks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
