@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Grab one of the last 20 early bird tickets to TC Early Stage and save $200](https://techcrunch.com/2022/04/04/nab-one-of-the-last-20-early-bird-tickets-to-tc-early-stage-2022-and-save-200/)
+- [Roku announces multi-year extension with Amazon for Prime Video and IMDb TV](https://techcrunch.com/2022/04/04/roku-announces-multi-year-extension-with-amazon-for-prime-video-and-imdb-tv/)
+- [Raising the right amount of capital after a correction](https://techcrunch.com/2022/04/04/raising-the-right-amount-of-capital-after-a-correction/)
+- [Grab one of the last 20 early-bird tickets to TC Early Stage and save $200](https://techcrunch.com/2022/04/04/nab-one-of-the-last-20-early-bird-tickets-to-tc-early-stage-2022-and-save-200/)
 - [Social network Peanut launches new offering to connect women with doulas, therapists and more](https://techcrunch.com/2022/04/04/social-network-peanut-offering-connect-women-doulas-therapist/)
 - [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates)
-- [AMD to acquire data center optimization startup Pensando for $2B](https://techcrunch.com/2022/04/04/amd-to-acquire-data-center-optimization-startup-pensando-for-2b/)
-- [Two new ways to attend TC Sessions: Mobility 2022 — in person or online](https://techcrunch.com/2022/04/04/two-new-ways-to-attend-tc-sessions-mobility-2022-in-person-or-online/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
