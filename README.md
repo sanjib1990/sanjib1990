@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html)
-- [Russia&#39;s invasion of Ukraine as seen in satellite photos](https://www.space.com/russia-ukraine-invasion-satellite-photos)
-- [Russia threatens to leave International Space Station program &lpar;again&rpar;](https://www.space.com/russia-threatens-leave-international-space-station-program-rogozin)
-- [NASA calls off critical Artemis 1 moon rocket test over safety concerns](https://www.space.com/nasa-artemis-1-moon-rocket-fueling-test-scrub)
-- [Crypto giant FTX in talks to invest in Indian gaming startup MPL](https://techcrunch.com/2022/04/03/ftx-in-talks-to-invest-in-indian-gaming-startup-mpl-sources-say/)
+- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates)
+- [Sudden collapse of Antarctic ice shelf could be sign of things to come](https://www.space.com/antarctica-conger-ice-shelf-collapse)
+- [Recently discovered Comet Pan-STARRS could be visible in April&#39;s night sky &lpar;maybe&rpar;](https://www.space.com/comet-pan-starrs-is-coming-maybe)
+- [Motions of stars in neighboring Large Magellanic Cloud shed light on galaxy formation](https://www.space.com/star-motion-large-magellanic-cloud-study)
+- [SpaceX private Ax-1 mission&#39;s science includes self-assembling robots and light-powered air filters](https://www.space.com/axiom-1-space-station-science-work)
 <!-- BLOG-POST-LIST:END -->
 
 ---
