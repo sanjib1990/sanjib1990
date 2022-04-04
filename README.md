@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [VCs scale their bets on Solana’s expanding NFT ecosystem](https://techcrunch.com/2022/04/04/vcs-scale-their-bets-on-solanas-expanding-nft-ecosystem/)
 - [Just like IRL, the metaverse requires infrastructure. We don’t have it yet](https://techcrunch.com/2022/04/04/just-like-irl-the-metaverse-requires-infrastructure-we-dont-have-it-yet/)
 - [Sequoia’s Doug Leone steps down, making way for new global head Roelof Botha](https://techcrunch.com/2022/04/04/sequoia-capital-doug-leone-roelof-botha/)
+- [Mars crater complex shows layers of ice in stunning spacecraft photos](https://www.space.com/mars-crater-complex-layers-ice-photo)
 - [Tech workers describe detentions and interrogations as they flee Russia](https://techcrunch.com/2022/04/04/russia-tech-workers-detentions-interrogations/)
-- [BitMEX crypto exchange lays off a quarter of staff after failed acquisition](https://techcrunch.com/2022/04/04/bitmex-crypto-exchange-lays-off-a-quarter-of-staff-after-failed-acquisition/)
-- [Ax-1 private mission to space station: Live updates](https://www.space.com/news/live/ax-1-space-station-mission-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
