@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The venerable mainframe rolls on at IBM with the release of the z16](https://techcrunch.com/2022/04/04/the-venerable-mainframe-rolls-on-at-ibm-with-the-release-of-the-z16/)
 - [Gotrade, the app that lets international users buy fractions of U.S. stocks, raises $15.5M Series A](https://techcrunch.com/2022/04/04/gotrade-the-app-that-lets-international-users-buy-fractions-of-u-s-stocks-raises-15-5m-series-a/)
 - [The biggest VC firms are managing a lot more moolah than you thought](https://techcrunch.com/2022/04/04/the-biggest-vc-firms-are-managing-a-lot-more-moolah-than-you-thought/)
 - [Using asynchronous video interviews to improve startup recruiting](https://techcrunch.com/2022/04/04/using-asynchronous-video-interviews-to-improve-startup-recruiting/)
 - [Latch parts ways with CFO after difficult SPAC debut](https://techcrunch.com/2022/04/04/latch-cfo-out-after-spac/)
-- [Elon Musk buys 9% stake in Twitter, becoming platform&#39;s largest shareholder](https://www.space.com/elon-musk-twitter-largest-shareholder)
 <!-- BLOG-POST-LIST:END -->
 
 ---
