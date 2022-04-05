@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Wholesum raises $50M Series A to roll up third-party sellers on e-commerce platforms](https://techcrunch.com/2022/04/05/wholesum-raises-50m-series-a-to-roll-up-third-party-sellers-on-e-commerce-platforms/)
-- [NSO hacked new Pegasus victims weeks after Apple sought injunction](https://techcrunch.com/2022/04/05/nso-pegasus-jordan-apple/)
-- [Marvel movies in chronological order](https://www.space.com/marvel-movies-in-order)
-- [Moon Knight streaming guide: Release date, where to stream, cast, and trailers](https://www.space.com/moon-knight-streaming-guide)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [Amazon lines up dozens of launches to put thousands of Kuiper satellites in orbit](https://techcrunch.com/2022/04/05/amazon-lines-up-dozens-of-launches-to-put-thousands-of-kuiper-satellites-in-orbit/)
+- [The Peloton Guide is now available for $295](https://techcrunch.com/2022/04/05/the-peloton-guide-is-now-available-for-295/)
+- [Celebrate ‘Star Trek: First Contact’ day with this lavish new coffee-table book](https://www.space.com/star-trek-first-contact-titan-books)
+- [Flutterwave responds as CEO is put on the spot for alleged bullying by ex-employee](https://techcrunch.com/2022/04/05/flutterwave-responds-as-ceo-is-put-on-the-spot-for-alleged-bullying-by-ex-employee/)
+- [MacBook Air M1 review](https://www.space.com/macbook-air-m1-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
