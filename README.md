@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Remote raises $300M more, now at a $3B+ valuation, to manage payments and more for globally distributed workforces](https://techcrunch.com/2022/04/05/remote-payroll-hr-workforce-3-billion/)
-- [April 5, 1973: Pioneer 11 launches to Jupiter &amp; Saturn](https://www.space.com/39251-on-this-day-in-space.html)
-- [ZirooPay raises $11.4M to scale its mobile POS solutions for retailers across Nigeria](https://techcrunch.com/2022/04/05/ziroopay-raises-11-4m-to-scale-its-mobile-pos-solutions-for-retailers-across-nigeria/)
-- [Amenitiz gets $30M for SaaS it bills as ‘Shopify for hotels’](https://techcrunch.com/2022/04/05/amenitiz-series-a/)
-- [Sweep helps corporations live up to their lofty carbon promises](https://techcrunch.com/2022/04/04/sweep-series-b-investment/)
+- [Wholesum raises $50M Series A to roll up third-party sellers on e-commerce platforms](https://techcrunch.com/2022/04/05/wholesum-raises-50m-series-a-to-roll-up-third-party-sellers-on-e-commerce-platforms/)
+- [NSO hacked new Pegasus victims weeks after Apple sought injunction](https://techcrunch.com/2022/04/05/nso-pegasus-jordan-apple/)
+- [Marvel movies in chronological order](https://www.space.com/marvel-movies-in-order)
+- [Moon Knight streaming guide: Release date, where to stream, cast, and trailers](https://www.space.com/moon-knight-streaming-guide)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
