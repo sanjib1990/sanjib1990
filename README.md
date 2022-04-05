@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [3 Views: Elon’s Twitter flight of fancy](https://techcrunch.com/2022/04/05/3-views-elons-twitter-flight-of-fancy/)
-- [WWDC is returning as an online-only event, June 6-10](https://techcrunch.com/2022/04/05/wwdc-is-returning-as-an-online-only-event-june-6-10/)
-- [Sigma 20mm f/1.4 DG HSM ART lens review](https://www.space.com/sigma-20mm-f14-dg-hsm-art-lens-review)
-- [Boba Networks raises at $1.5B valuation for its take on an ‘optimistic’ Ethereum scaling solution](https://techcrunch.com/2022/04/05/boba-networks-raises-at-1-5b-valuation-for-its-take-on-an-optimistic-ethereum-scaling-solution/)
-- [Open-source data integration platform Airbyte launches its cloud service](https://techcrunch.com/2022/04/05/open-source-data-integration-platform-airbyte-launches-its-cloud-service/)
+- [Why VCs don’t need to fear a financial slowdown](https://techcrunch.com/2022/04/05/why-vcs-dont-need-to-fear-a-financial-slowdown/)
+- [Hulu’s app gains Apple SharePlay support and new Live TV features](https://techcrunch.com/2022/04/05/hulus-app-gains-apple-shareplay-support-and-new-live-tv-features/)
+- [Podcast series ‘Batman Unburied’ set to premiere on Spotify after ‘The Batman’ heads to HBO Max](https://techcrunch.com/2022/04/05/podcast-series-batman-unburied-set-to-premiere-on-spotify-after-the-batman-heads-to-hbo-max/)
+- [Lightning Labs raises funding to enable stablecoin transfers through Bitcoin network](https://techcrunch.com/2022/04/05/lightning-labs-raises-funding-to-enable-stablecoin-transfers-through-bitcoin-network/)
+- [Save £120 on the Lego Millennium Falcon Collector Series set at Zavvi](https://www.space.com/lego-millennium-falcon-collectors-uk-deal-zavvi-save-120-pounds)
 <!-- BLOG-POST-LIST:END -->
 
 ---
