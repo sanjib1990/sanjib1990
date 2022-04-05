@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Dailyhunt and Josh apps parent firm raises $805 million at $5 billion valuation](https://techcrunch.com/2022/04/05/dailyhunt-and-josh-apps-parent-firm-raises-805-million-at-5-billion-valuation/)
-- [Instacart is coming after users who tricked shoppers out of tips](https://techcrunch.com/2022/04/05/instacart-tip-protection/)
-- [Rocket Lab will try to catch a falling booster with a helicopter during a mission this month](https://www.space.com/rocket-lab-helicopter-catch-april-2022)
-- [Going boldly where no Trek game has gone before: Exclusive interview with Star Trek: Resurgence developers](https://www.space.com/star-trek-resurgence-dramatic-labs-interview)
-- [Fast shuts doors after slow growth, high burn precluded fundraising options](https://techcrunch.com/2022/04/05/fast-shuts-doors-after-slow-growth-high-burn-precluded-fundraising-options/)
+- [Affirm is giving job offers to the ‘vast majority’ of Fast engineers](https://techcrunch.com/2022/04/05/affirm-fast-job-offer/)
+- [Substack wants to join the podcast monetization fray](https://techcrunch.com/2022/04/05/substack-podcast-monetization-paywall-subscription/)
+- [Niantic makes another acquisition, absorbing AR studio NZXR](https://techcrunch.com/2022/04/05/niantic-makes-another-acquisition-absorbing-ar-studio-nzxr/)
+- [WarnerMedia CEO exits as Discovery merger nears close](https://techcrunch.com/2022/04/05/warnermedia-ceo-exits-as-discovery-merger-nears-close/)
+- [Amazon joins Orbital Reef commercial space station project](https://www.space.com/amazon-joins-orbital-reef-blue-origin-commercial-space-station)
 <!-- BLOG-POST-LIST:END -->
 
 ---
