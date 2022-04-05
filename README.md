@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta adds the ability to share video from third-party apps directly to Facebook Reels](https://techcrunch.com/2022/04/05/meta-share-video-third-party-apps-facebook-reels/)
 - [Affirm is giving job offers to the ‘vast majority’ of Fast engineers](https://techcrunch.com/2022/04/05/affirm-fast-job-offer/)
 - [Substack wants to join the podcast monetization fray](https://techcrunch.com/2022/04/05/substack-podcast-monetization-paywall-subscription/)
 - [Niantic makes another acquisition, absorbing AR studio NZXR](https://techcrunch.com/2022/04/05/niantic-makes-another-acquisition-absorbing-ar-studio-nzxr/)
 - [WarnerMedia CEO exits as Discovery merger nears close](https://techcrunch.com/2022/04/05/warnermedia-ceo-exits-as-discovery-merger-nears-close/)
-- [Amazon joins Orbital Reef commercial space station project](https://www.space.com/amazon-joins-orbital-reef-blue-origin-commercial-space-station)
 <!-- BLOG-POST-LIST:END -->
 
 ---
