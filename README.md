@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Late-stage tech backer Liquidity raises $775M for its fintech platform from Apollo and MUFG](https://techcrunch.com/2022/04/05/late-stage-tech-backer-liquidity-raises-775m-for-its-fintech-platform-from-apollo-and-mufg/)
+- [Gogoro’s public debut could supercharge EV battery swapping across the globe](https://techcrunch.com/2022/04/05/gogoros-public-debut-could-supercharge-ev-battery-swapping-across-the-globe/)
+- [Rare primordial gas may be leaking out of Earth&#39;s core](https://www.space.com/helium-leaking-from-earth-core)
+- [Corsha lands $12M to bring MFA security to machine-to-machine API traffic](https://techcrunch.com/2022/04/05/corsha-mfa-api-traffic/)
 - [General Motors, Honda partner to make millions of affordable EVs](https://techcrunch.com/2022/04/05/general-motors-honda-partner-to-make-millions-of-affordable-evs/)
-- [Cake adds newest ingredient to sexual wellness recipe: Entrance into Target](https://techcrunch.com/2022/04/05/cake-adds-newest-ingredient-to-sexual-wellness-recipe-entrance-into-target/)
-- [Atomic Industries wants to change how your plastics are made](https://techcrunch.com/2022/04/05/atomic-industries-pre-seed-funding/)
-- [Playhouse is TikTok meets Zillow for the next generation of homeowners](https://techcrunch.com/2022/04/05/playhouse-tiktok-zillow-homeowners-millennial-gen-z/)
-- [Huge Plex update adds a universal watchlist, cross-service search and new discovery features](https://techcrunch.com/2022/04/05/huge-plex-update-adds-a-universal-watchlist-cross-service-search-and-new-discovery-features/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
