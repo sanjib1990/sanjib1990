@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ZirooPay raises $11.4M to scale its mobile POS solutions for retailers across Nigeria](https://techcrunch.com/2022/04/05/ziroopay-raises-11-4m-to-scale-its-mobile-pos-solutions-for-retailers-across-nigeria/)
 - [Amenitiz gets $30M for SaaS it bills as ‘Shopify for hotels’](https://techcrunch.com/2022/04/05/amenitiz-series-a/)
 - [Sweep helps corporations live up to their lofty carbon promises](https://techcrunch.com/2022/04/04/sweep-series-b-investment/)
 - [Crowdcube brings its equity crowdfunding platform to France](https://techcrunch.com/2022/04/04/crowdcube-brings-its-equity-crowdfunding-platform-to-france/)
 - [The venerable mainframe rolls on at IBM with the release of the z16](https://techcrunch.com/2022/04/04/the-venerable-mainframe-rolls-on-at-ibm-with-the-release-of-the-z16/)
-- [Gotrade, the app that lets international users buy fractions of U.S. stocks, raises $15.5M Series A](https://techcrunch.com/2022/04/04/gotrade-the-app-that-lets-international-users-buy-fractions-of-u-s-stocks-raises-15-5m-series-a/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
