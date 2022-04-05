@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Remote raises $300M more, now at a $3B+ valuation, to manage payments and more for globally distributed workforces](https://techcrunch.com/2022/04/05/remote-payroll-hr-workforce-3-billion/)
+- [April 5, 1973: Pioneer 11 launches to Jupiter &amp; Saturn](https://www.space.com/39251-on-this-day-in-space.html)
 - [ZirooPay raises $11.4M to scale its mobile POS solutions for retailers across Nigeria](https://techcrunch.com/2022/04/05/ziroopay-raises-11-4m-to-scale-its-mobile-pos-solutions-for-retailers-across-nigeria/)
 - [Amenitiz gets $30M for SaaS it bills as ‘Shopify for hotels’](https://techcrunch.com/2022/04/05/amenitiz-series-a/)
 - [Sweep helps corporations live up to their lofty carbon promises](https://techcrunch.com/2022/04/04/sweep-series-b-investment/)
-- [Crowdcube brings its equity crowdfunding platform to France](https://techcrunch.com/2022/04/04/crowdcube-brings-its-equity-crowdfunding-platform-to-france/)
-- [The venerable mainframe rolls on at IBM with the release of the z16](https://techcrunch.com/2022/04/04/the-venerable-mainframe-rolls-on-at-ibm-with-the-release-of-the-z16/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
