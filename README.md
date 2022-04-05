@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Late-stage tech backer Liquidity raises $775M for its fintech platform from Apollo and MUFG](https://techcrunch.com/2022/04/05/late-stage-tech-backer-liquidity-raises-775m-for-its-fintech-platform-from-apollo-and-mufg/)
-- [Gogoro’s public debut could supercharge EV battery swapping across the globe](https://techcrunch.com/2022/04/05/gogoros-public-debut-could-supercharge-ev-battery-swapping-across-the-globe/)
-- [Rare primordial gas may be leaking out of Earth&#39;s core](https://www.space.com/helium-leaking-from-earth-core)
-- [Corsha lands $12M to bring MFA security to machine-to-machine API traffic](https://techcrunch.com/2022/04/05/corsha-mfa-api-traffic/)
-- [General Motors, Honda partner to make millions of affordable EVs](https://techcrunch.com/2022/04/05/general-motors-honda-partner-to-make-millions-of-affordable-evs/)
+- [Disney+ removes adult-focused films after mistakingly adding them to its U.S. service](https://techcrunch.com/2022/04/05/disney-removes-adult-focused-films-after-mistakingly-adding-them-to-its-u-s-service/)
+- [Workrise cuts staff, verticals after being valued at $2.9B last year](https://techcrunch.com/2022/04/05/workrise-cuts-staff-verticals-after-being-valued-at-2-9b-last-year/)
+- [Please don’t use this new Windows 11 feature](https://techcrunch.com/2022/04/05/please-dont-use-this-new-windows-11-feature/)
+- [Microsoft launches a new remote help service for IT teams](https://techcrunch.com/2022/04/05/microsoft-launches-a-new-remote-help-service-for-it-teams/)
+- [The global venture capital market slowed in Q1 — but not as much as you might have expected](https://techcrunch.com/2022/04/05/the-global-venture-capital-market-slowed-in-q1-but-not-as-much-as-you-might-have-expected/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
