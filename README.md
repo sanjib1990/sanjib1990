@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon lines up dozens of launches to put thousands of Kuiper satellites in orbit](https://techcrunch.com/2022/04/05/amazon-lines-up-dozens-of-launches-to-put-thousands-of-kuiper-satellites-in-orbit/)
-- [The Peloton Guide is now available for $295](https://techcrunch.com/2022/04/05/the-peloton-guide-is-now-available-for-295/)
-- [Celebrate ‘Star Trek: First Contact’ day with this lavish new coffee-table book](https://www.space.com/star-trek-first-contact-titan-books)
-- [Flutterwave responds as CEO is put on the spot for alleged bullying by ex-employee](https://techcrunch.com/2022/04/05/flutterwave-responds-as-ceo-is-put-on-the-spot-for-alleged-bullying-by-ex-employee/)
-- [MacBook Air M1 review](https://www.space.com/macbook-air-m1-review)
+- [At long last, web3 makes a push to fight Google Maps](https://techcrunch.com/2022/04/05/hivemapper/)
+- [Ghost Financial whips up new capital into finance tools for ghost kitchens](https://techcrunch.com/2022/04/05/ghost-financial-whips-up-new-capital-into-finance-tools-for-ghost-kitchens/)
+- [Endel raises $15M to further develop its AI-powered sound wellness technology](https://techcrunch.com/2022/04/05/endel-raises-15m-to-further-develop-its-ai-powered-sound-wellness-technology/)
+- [Starlight shoots for the moon, aiming to build the Brex of crypto](https://techcrunch.com/2022/04/05/starlight-shoots-for-the-moon-aiming-to-build-the-brex-of-crypto/)
+- [Tinybird adds $37 million to run realtime analytics APIs for you](https://techcrunch.com/2022/04/05/tinybird-adds-37-million-to-run-realtime-analytics-apis-for-you/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
