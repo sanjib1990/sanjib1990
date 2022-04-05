@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rivian picks up EV production in Q1, on track to hit annual target](https://techcrunch.com/2022/04/05/rivian-ev-production-pickup-q1/)
+- [Twitter is working on an edit button for real](https://techcrunch.com/2022/04/05/twitter-edit-button-twitter-blue/)
+- [Base10 Partners closes fund three with $460M to invest globally: ‘The cat is out of the bag’](https://techcrunch.com/2022/04/05/base10-partners-closes-fund-three-with-460m-to-invest-globally-the-cat-is-out-of-the-bag/)
+- [The US government has just 1% of the EV chargers it needs](https://techcrunch.com/2022/04/05/the-us-government-has-just-1-of-the-ev-chargers-it-needs/)
 - [Meta adds the ability to share video from third-party apps directly to Facebook Reels](https://techcrunch.com/2022/04/05/meta-share-video-third-party-apps-facebook-reels/)
-- [Affirm is giving job offers to the ‘vast majority’ of Fast engineers](https://techcrunch.com/2022/04/05/affirm-fast-job-offer/)
-- [Substack wants to join the podcast monetization fray](https://techcrunch.com/2022/04/05/substack-podcast-monetization-paywall-subscription/)
-- [Niantic makes another acquisition, absorbing AR studio NZXR](https://techcrunch.com/2022/04/05/niantic-makes-another-acquisition-absorbing-ar-studio-nzxr/)
-- [WarnerMedia CEO exits as Discovery merger nears close](https://techcrunch.com/2022/04/05/warnermedia-ceo-exits-as-discovery-merger-nears-close/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
