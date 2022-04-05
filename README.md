@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [At long last, web3 makes a push to fight Google Maps](https://techcrunch.com/2022/04/05/hivemapper/)
-- [Ghost Financial whips up new capital into finance tools for ghost kitchens](https://techcrunch.com/2022/04/05/ghost-financial-whips-up-new-capital-into-finance-tools-for-ghost-kitchens/)
-- [Endel raises $15M to further develop its AI-powered sound wellness technology](https://techcrunch.com/2022/04/05/endel-raises-15m-to-further-develop-its-ai-powered-sound-wellness-technology/)
-- [Starlight shoots for the moon, aiming to build the Brex of crypto](https://techcrunch.com/2022/04/05/starlight-shoots-for-the-moon-aiming-to-build-the-brex-of-crypto/)
-- [Tinybird adds $37 million to run realtime analytics APIs for you](https://techcrunch.com/2022/04/05/tinybird-adds-37-million-to-run-realtime-analytics-apis-for-you/)
+- [General Motors, Honda partner to make millions of affordable EVs](https://techcrunch.com/2022/04/05/general-motors-honda-partner-to-make-millions-of-affordable-evs/)
+- [Cake adds newest ingredient to sexual wellness recipe: Entrance into Target](https://techcrunch.com/2022/04/05/cake-adds-newest-ingredient-to-sexual-wellness-recipe-entrance-into-target/)
+- [Atomic Industries wants to change how your plastics are made](https://techcrunch.com/2022/04/05/atomic-industries-pre-seed-funding/)
+- [Playhouse is TikTok meets Zillow for the next generation of homeowners](https://techcrunch.com/2022/04/05/playhouse-tiktok-zillow-homeowners-millennial-gen-z/)
+- [Huge Plex update adds a universal watchlist, cross-service search and new discovery features](https://techcrunch.com/2022/04/05/huge-plex-update-adds-a-universal-watchlist-cross-service-search-and-new-discovery-features/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
