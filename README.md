@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Disney+ removes adult-focused films after mistakingly adding them to its U.S. service](https://techcrunch.com/2022/04/05/disney-removes-adult-focused-films-after-mistakingly-adding-them-to-its-u-s-service/)
-- [Workrise cuts staff, verticals after being valued at $2.9B last year](https://techcrunch.com/2022/04/05/workrise-cuts-staff-verticals-after-being-valued-at-2-9b-last-year/)
-- [Please don’t use this new Windows 11 feature](https://techcrunch.com/2022/04/05/please-dont-use-this-new-windows-11-feature/)
-- [Microsoft launches a new remote help service for IT teams](https://techcrunch.com/2022/04/05/microsoft-launches-a-new-remote-help-service-for-it-teams/)
-- [The global venture capital market slowed in Q1 — but not as much as you might have expected](https://techcrunch.com/2022/04/05/the-global-venture-capital-market-slowed-in-q1-but-not-as-much-as-you-might-have-expected/)
+- [Boba Networks raises at $1.5B valuation for its take on an ‘optimistic’ Ethereum scaling solution](https://techcrunch.com/2022/04/05/boba-networks-raises-at-1-5b-valuation-for-its-take-on-an-optimistic-ethereum-scaling-solution/)
+- [Open-source data integration platform Airbyte launches its cloud service](https://techcrunch.com/2022/04/05/open-source-data-integration-platform-airbyte-launches-its-cloud-service/)
+- [Google Maps to add toll road prices, more map details, Apple Watch improvements and more](https://techcrunch.com/2022/04/05/google-maps-toll-road-prices-map-details-apple-watch-improvementsre/)
+- [Warp raises $23M to build a better terminal](https://techcrunch.com/2022/04/05/warp-raises-23m-to-build-a-better-terminal/)
+- [ReadySet raises $29M to expedite access to enterprise-scale app data](https://techcrunch.com/2022/04/05/readyset-raises-29m-to-expedite-access-to-enterprise-scale-app-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
