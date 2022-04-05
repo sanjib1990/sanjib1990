@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [3 Views: Elon’s Twitter flight of fancy](https://techcrunch.com/2022/04/05/3-views-elons-twitter-flight-of-fancy/)
+- [WWDC is returning as an online-only event, June 6-10](https://techcrunch.com/2022/04/05/wwdc-is-returning-as-an-online-only-event-june-6-10/)
+- [Sigma 20mm f/1.4 DG HSM ART lens review](https://www.space.com/sigma-20mm-f14-dg-hsm-art-lens-review)
 - [Boba Networks raises at $1.5B valuation for its take on an ‘optimistic’ Ethereum scaling solution](https://techcrunch.com/2022/04/05/boba-networks-raises-at-1-5b-valuation-for-its-take-on-an-optimistic-ethereum-scaling-solution/)
 - [Open-source data integration platform Airbyte launches its cloud service](https://techcrunch.com/2022/04/05/open-source-data-integration-platform-airbyte-launches-its-cloud-service/)
-- [Google Maps to add toll road prices, more map details, Apple Watch improvements and more](https://techcrunch.com/2022/04/05/google-maps-toll-road-prices-map-details-apple-watch-improvementsre/)
-- [Warp raises $23M to build a better terminal](https://techcrunch.com/2022/04/05/warp-raises-23m-to-build-a-better-terminal/)
-- [ReadySet raises $29M to expedite access to enterprise-scale app data](https://techcrunch.com/2022/04/05/readyset-raises-29m-to-expedite-access-to-enterprise-scale-app-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
