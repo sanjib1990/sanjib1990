@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Mid-Day Squares adds some sweet capital to its ‘chocolate gone crazy’ empire](https://techcrunch.com/2022/04/06/mid-day-squares-adds-some-sweet-capital-to-its-chocolate-gone-crazy-empire/)
-- [Grafana Labs raises $240M Series D](https://techcrunch.com/2022/04/06/grafana-labs-raises-240m-series-d/)
-- [Amplemarket nabs $12M to ramp up sales enablement using AI](https://techcrunch.com/2022/04/06/amplemarket-nabs-12m-to-ramp-up-sales-enablement-using-ai/)
-- [Everything we know about Obi-Wan Kenobi: Release date, where to stream, plot](https://www.space.com/obi-wan-kenobi-streaming-guide)
-- [Strange &#39;reverse shock wave&#39; supernova is exploding in the wrong direction](https://www.space.com/supernova-reverse-shock-wave)
+- [Austin emerges as a city of unicorns and tech giants](https://techcrunch.com/2022/04/06/how-austin-texas-has-evolved-into-a-city-of-unicorns-and-tech-giants/)
+- [Aurora launches autonomous freight pilot with Werner, expands terminal network](https://techcrunch.com/2022/04/06/aurora-launches-autonomous-freight-pilot-with-werner-expands-terminal-network/)
+- [Noissue acquires Tapkit to bring QR codes to sustainable packaging](https://techcrunch.com/2022/04/06/noissue-acquires-tapkit-to-bring-qr-codes-to-sustainable-packaging/)
+- [Ascend.io lands $35M to automate data pipeline orchestration](https://techcrunch.com/2022/04/06/ascend-io-lands-35m-to-automate-data-pipeline-orchestration/)
+- [London-based Fidel API lands $65M in Series B funding, proving fintech infrastructure is hotter than ever](https://techcrunch.com/2022/04/06/london-based-fidel-api-lands-65m-in-series-b-funding-proving-fintech-infrastructure-is-hotter-than-ever/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
