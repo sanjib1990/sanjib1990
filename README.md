@@ -94,9 +94,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Comets fade even as deep in space as Saturn&#39;s orbit, scientists find](https://www.space.com/comets-fade-in-deep-space-beyond-saturn)
+- [Ax-1 private mission to space station: Live updates](https://www.space.com/news/live/ax-1-space-station-mission-updates)
 - [See NASA&#39;s Artemis 1 moon rocket, SpaceX&#39;s Ax-1 astronaut mission on the launch pad &lpar;photos&rpar;](https://www.space.com/artemis-1-moon-rocket-spacex-ax-1-launch-pad-photos)
-- [Meta says it’s ‘pausing’ F8, won’t hold the developer conference this year](https://techcrunch.com/2022/04/06/meta-pause-f8-developer-conference/)
-- [6 questions investors should ask when evaluating psychedelic biotech companies](https://techcrunch.com/2022/04/06/6-questions-investors-should-ask-when-evaluating-psychedelic-biotech-companies/)
 - [Celebrate all 7 seasons of &#39;Star Wars: The Clone Wars&#39; with this new collector&#39;s edition book](https://www.space.com/star-wars-clone-wars-titan-comics-collectors-edition)
 - [SpinLaunch scores NASA test mission to demonstrate its unique launch method](https://techcrunch.com/2022/04/06/spinlaunch-scores-nasa-test-mission-to-demonstrate-its-unique-launch-method/)
 <!-- BLOG-POST-LIST:END -->
