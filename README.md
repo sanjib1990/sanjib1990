@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How I learn new technologies as a DevOps Engineer &lpar;without being overwhelmed&rpar;](https://www.youtube.com/watch?v=Cthla7KqU04)
 - [what is an IP Address? // You SUCK at Subnetting // EP 1](https://www.youtube.com/watch?v=5WfiTHiU4x8)
 - [client got faded, I got paid](https://www.youtube.com/watch?v=UA7NSpzG98s)
 - [Java for the Haters in 100 Seconds](https://www.youtube.com/watch?v=m4-HM_sCvtQ)
 - [High Level Languages &amp; the IBM 360 Series - Computerphile](https://www.youtube.com/watch?v=xTnK6f_ZL1E)
-- [S3:E7: AI Literacy for All with Prof. Cynthia Breazeal](https://www.youtube.com/watch?v=Fj1OICPboCU)
 <!-- YOUTUBE:END -->
 
 ---
