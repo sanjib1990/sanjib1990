@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Atlassian launches Atlas to improve team alignment](https://techcrunch.com/2022/04/06/atlassian-launches-atlas-to-improve-team-alignment/)
-- [Stackblitz raises $7.9M to bring a better IDE to your browser](https://techcrunch.com/2022/04/06/stackblitz-raises-7-9m-to-bring-a-better-ide-to-your-browser/)
-- [Atlassian’s Compass is mission control for software development](https://techcrunch.com/2022/04/06/atlassians-compass-is-mission-control-for-software-development/)
-- [CNN+ launch may be off to a bumpy start, numbers suggest](https://techcrunch.com/2022/04/06/cnn-launch-may-be-off-to-a-bumpy-start-numbers-suggest/)
-- [Prepared wants to drag the US 911 system into the modern era](https://techcrunch.com/2022/04/06/prepared-wants-to-drag-the-american-911-system-into-the-modern-era/)
+- [Microsoft launches its A.I.-powered notetaking app Journal as an official Windows app](https://techcrunch.com/2022/04/06/microsoft-launches-its-a-i-powered-notetaking-app-journal-as-an-official-windows-app/)
+- [Salesforce upgrades marketing, field service, and sales tools with AI](https://techcrunch.com/2022/04/06/salesforce-upgrades-marketing-field-service-and-sales-tools-with-ai/)
+- [China’s Zhiyi Tech raises $100M to help fashion brands predict bestsellers](https://techcrunch.com/2022/04/06/zhiyi-tech-fashion-supply-chain-100-million/)
+- [Docyt raises $11.5M Series A for its AI-powered accounting automation service](https://techcrunch.com/2022/04/06/docyt-raises-11-5m-series-a-for-its-ai-powered-accounting-automation-service/)
+- [Happening today: TechCrunch Live’s free special episode in Austin, Texas!](https://techcrunch.com/2022/04/06/happening-today-techcrunch-lives-free-special-episode-in-austin-texas/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
