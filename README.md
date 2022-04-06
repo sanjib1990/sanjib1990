@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Two new ways to attend TC Sessions: Mobility 2022 — in person or online](https://techcrunch.com/2022/04/05/two-new-ways-to-attend-tc-sessions-mobility-2022-in-person-or-online/)
 - [SpaceX rolls Falcon 9 rocket, Dragon capsule out to pad for Ax-1 astronaut launch &lpar;photos&rpar;](https://www.space.com/spacex-rolls-out-falcon-9-dragon-ax-1-launch)
+- [Demand Curve: How I’d grow Skio](https://techcrunch.com/2022/04/05/how-to-choose-a-growth-strategy-startup/)
+- [Daily Crunch: Peloton Guide with body-tracking camera now on sale for $295](https://techcrunch.com/2022/04/05/daily-crunch-peloton-guide-with-body-tracking-camera-now-on-sale-for-295/)
 - [NASA delays Artemis 1 moon mission test until after Friday SpaceX astronaut launch](https://www.space.com/nasa-delays-artemis-1-moon-rocket-test)
-- [Meta adds the ability to share video from third-party apps directly to Facebook Reels](https://techcrunch.com/2022/04/05/meta-share-video-third-party-apps-facebook-reels/)
-- [Affirm is giving job offers to the ‘vast majority’ of Fast engineers](https://techcrunch.com/2022/04/05/affirm-fast-job-offer/)
-- [Substack wants to join the podcast monetization fray](https://techcrunch.com/2022/04/05/substack-podcast-monetization-paywall-subscription/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
