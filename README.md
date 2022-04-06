@@ -96,9 +96,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [SpaceX rolls Falcon 9 rocket, Dragon capsule out to pad for Ax-1 astronaut launch &lpar;photos&rpar;](https://www.space.com/spacex-rolls-out-falcon-9-dragon-ax-1-launch)
 - [NASA delays Artemis 1 moon mission test until after Friday SpaceX astronaut launch](https://www.space.com/nasa-delays-artemis-1-moon-rocket-test)
-- [Niantic makes another acquisition, absorbing AR studio NZXR](https://techcrunch.com/2022/04/05/niantic-makes-another-acquisition-absorbing-ar-studio-nzxr/)
-- [WarnerMedia CEO exits as Discovery merger nears close](https://techcrunch.com/2022/04/05/warnermedia-ceo-exits-as-discovery-merger-nears-close/)
-- [Amazon joins Orbital Reef commercial space station project](https://www.space.com/amazon-joins-orbital-reef-blue-origin-commercial-space-station)
+- [Meta adds the ability to share video from third-party apps directly to Facebook Reels](https://techcrunch.com/2022/04/05/meta-share-video-third-party-apps-facebook-reels/)
+- [Affirm is giving job offers to the ‘vast majority’ of Fast engineers](https://techcrunch.com/2022/04/05/affirm-fast-job-offer/)
+- [Substack wants to join the podcast monetization fray](https://techcrunch.com/2022/04/05/substack-podcast-monetization-paywall-subscription/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
