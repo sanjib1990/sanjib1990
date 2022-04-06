@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Webb’s Mid-Infrared Instrument Cooldown Continues](https://blogs.nasa.gov/webb/2022/04/06/webbs-mid-infrared-instrument-cooldown-continues/)
-- [Artificial intelligence is already upending geopolitics](https://techcrunch.com/2022/04/06/artificial-intelligence-is-already-upending-geopolitics/)
-- [Austin emerges as a city of unicorns and tech giants](https://techcrunch.com/2022/04/06/how-austin-texas-has-evolved-into-a-city-of-unicorns-and-tech-giants/)
-- [Aurora launches autonomous freight pilot with Werner, expands terminal network](https://techcrunch.com/2022/04/06/aurora-launches-autonomous-freight-pilot-with-werner-expands-terminal-network/)
-- [Noissue acquires Tapkit to bring QR codes to sustainable packaging](https://techcrunch.com/2022/04/06/noissue-acquires-tapkit-to-bring-qr-codes-to-sustainable-packaging/)
+- [Pinterest bans all climate change misinformation on its platform](https://techcrunch.com/2022/04/06/pinterest-bans-all-climate-change-misinformation-on-its-platform/)
+- [Announcing the TC Spotlight Austin Pitch-Off startups](https://techcrunch.com/2022/04/06/pitchoff-austin-founders-startups-funding/)
+- [Axie Infinity creator raises $150M round to compensate victims of ~$625M Ronin hack](https://techcrunch.com/2022/04/06/axie-infinity-creator-raises-150m-round-to-compensate-victims-of-625m-ronin-hack/)
+- [Billionaire investor Jim Breyer left Silicon Valley for Austin in early 2020; here’s why he loves it](https://techcrunch.com/2022/04/06/billionaire-investor-jim-breyer-left-silicon-valley-for-austin-in-early-2020-heres-why-he-loves-it/)
+- [Porsche hits the gas on synthetic fuel with $75M investment](https://techcrunch.com/2022/04/06/porsche-synthetic-fuels-investment-sports-cars/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
