@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [VR headset deals: Oculus Quest 2, HTC Vive Cosmos, and more](https://www.space.com/vr-headset-deals)
+- [Visa unveils first innovation hub in Africa to drive product development](https://techcrunch.com/2022/04/06/visa-unveils-first-innovation-hub-in-africa-to-drive-product-development/)
 - [Qureos raises $3M to grow its learn to earn platform](https://techcrunch.com/2022/04/06/qureos-raises-3m-to-grow-its-learn-to-earn-platform/)
-- [Indian social media app Koo rolls out voluntary self-verification feature for users](https://techcrunch.com/2022/04/06/indian-social-media-app-koo-rolls-out-voluntary-self-verification-feature-for-users/)
+- [Indian Twitter rival Koo will let users self-verify](https://techcrunch.com/2022/04/06/indian-social-media-app-koo-rolls-out-voluntary-self-verification-feature-for-users/)
 - [April 6, 1965: NASA launches 1st commercial communication satellite](https://www.space.com/39251-on-this-day-in-space.html)
-- [Productsup raises $70M to help retailers navigate sales strategies in the choppy world of e-commerce](https://techcrunch.com/2022/04/06/productsup-raises-70m-to-help-retailers-navigate-sales-strategies-in-the-choppy-world-of-e-commerce/)
-- [Google Cloud launches BigLake, a new cross-platform data storage engine](https://techcrunch.com/2022/04/05/google-cloud-launches-biglake-a-new-cross-platform-data-storage-engine/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
