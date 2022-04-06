@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Demand Curve: How I’d grow Skio](https://techcrunch.com/2022/04/05/how-to-choose-a-growth-strategy-startup/)
-- [Daily Crunch: Peloton Guide with body-tracking camera now on sale for $295](https://techcrunch.com/2022/04/05/daily-crunch-peloton-guide-with-body-tracking-camera-now-on-sale-for-295/)
+- [SpaceX rolls Falcon 9 rocket, Dragon capsule out to pad for Ax-1 astronaut launch &lpar;photos&rpar;](https://www.space.com/spacex-rolls-out-falcon-9-dragon-ax-1-launch)
 - [NASA delays Artemis 1 moon mission test until after Friday SpaceX astronaut launch](https://www.space.com/nasa-delays-artemis-1-moon-rocket-test)
-- [Twitter is working on an edit button for real](https://techcrunch.com/2022/04/05/twitter-edit-button-twitter-blue/)
-- [Rivian picks up EV production in Q1, on track to hit annual target](https://techcrunch.com/2022/04/05/rivian-ev-production-pickup-q1/)
+- [Niantic makes another acquisition, absorbing AR studio NZXR](https://techcrunch.com/2022/04/05/niantic-makes-another-acquisition-absorbing-ar-studio-nzxr/)
+- [WarnerMedia CEO exits as Discovery merger nears close](https://techcrunch.com/2022/04/05/warnermedia-ceo-exits-as-discovery-merger-nears-close/)
+- [Amazon joins Orbital Reef commercial space station project](https://www.space.com/amazon-joins-orbital-reef-blue-origin-commercial-space-station)
 <!-- BLOG-POST-LIST:END -->
 
 ---
