@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Pinterest bans all climate change misinformation on its platform](https://techcrunch.com/2022/04/06/pinterest-bans-all-climate-change-misinformation-on-its-platform/)
-- [Announcing the TC Spotlight Austin Pitch-Off startups](https://techcrunch.com/2022/04/06/pitchoff-austin-founders-startups-funding/)
-- [Axie Infinity creator raises $150M round to compensate victims of ~$625M Ronin hack](https://techcrunch.com/2022/04/06/axie-infinity-creator-raises-150m-round-to-compensate-victims-of-625m-ronin-hack/)
-- [Billionaire investor Jim Breyer left Silicon Valley for Austin in early 2020; here’s why he loves it](https://techcrunch.com/2022/04/06/billionaire-investor-jim-breyer-left-silicon-valley-for-austin-in-early-2020-heres-why-he-loves-it/)
-- [Porsche hits the gas on synthetic fuel with $75M investment](https://techcrunch.com/2022/04/06/porsche-synthetic-fuels-investment-sports-cars/)
+- [Atlassian launches Atlas to improve team alignment](https://techcrunch.com/2022/04/06/atlassian-launches-atlas-to-improve-team-alignment/)
+- [Stackblitz raises $7.9M to bring a better IDE to your browser](https://techcrunch.com/2022/04/06/stackblitz-raises-7-9m-to-bring-a-better-ide-to-your-browser/)
+- [Atlassian’s Compass is mission control for software development](https://techcrunch.com/2022/04/06/atlassians-compass-is-mission-control-for-software-development/)
+- [CNN+ launch may be off to a bumpy start, numbers suggest](https://techcrunch.com/2022/04/06/cnn-launch-may-be-off-to-a-bumpy-start-numbers-suggest/)
+- [Prepared wants to drag the US 911 system into the modern era](https://techcrunch.com/2022/04/06/prepared-wants-to-drag-the-american-911-system-into-the-modern-era/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
