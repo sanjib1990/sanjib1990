@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mid-Day Squares adds some sweet capital to its ‘chocolate gone crazy’ empire](https://techcrunch.com/2022/04/06/mid-day-squares-adds-some-sweet-capital-to-its-chocolate-gone-crazy-empire/)
+- [Grafana Labs raises $240M Series D](https://techcrunch.com/2022/04/06/grafana-labs-raises-240m-series-d/)
+- [Amplemarket nabs $12M to ramp up sales enablement using AI](https://techcrunch.com/2022/04/06/amplemarket-nabs-12m-to-ramp-up-sales-enablement-using-ai/)
 - [Everything we know about Obi-Wan Kenobi: Release date, where to stream, plot](https://www.space.com/obi-wan-kenobi-streaming-guide)
 - [Strange &#39;reverse shock wave&#39; supernova is exploding in the wrong direction](https://www.space.com/supernova-reverse-shock-wave)
-- [New Hubble photo shows galaxy&#39;s bright supermassive black hole cloaked in dust](https://www.space.com/galaxy-active-black-hole-hidden-hubble-photo)
-- [NASA astronaut Mark Vande Hei reflects on record 355 days in space](https://www.space.com/vande-hei-astronaut-reflects-355-days-space)
-- [This astronomer turns small Eastern European country into an asteroid-spotting powerhouse](https://www.space.com/asteroid-hunter-sarneczky-hungary)
 <!-- BLOG-POST-LIST:END -->
 
 ---
