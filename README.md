@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nord Security, the startup behind NordVPN, raises its first-ever funding, $100M at a $1.6B valuation](https://techcrunch.com/2022/04/06/nord-security-the-startup-behind-nordvpn-raises-its-first-ever-funding-100m-at-a-1-6b-valuation/)
+- [SpaceX&#39;s Crew-4 astronaut mission delayed a day to April 20](https://www.space.com/spacex-crew-4-launch-delay-april-20)
+- [Daily Crunch: Citing ‘uncertain mortgage market,’ Better.com rolls out employee buyout plan](https://techcrunch.com/2022/04/06/daily-crunch-citing-uncertain-mortgage-market-better-com-rolls-out-employee-buyout-plan/)
+- [Fanatics reveals NFL was biggest backer in $1.5B round announced last month at $27B valuation](https://techcrunch.com/2022/04/06/fanatics-raises-1-5b-at-a-27b-valuation-as-it-evolves-into-a-digital-sports-platform/)
 - [SpinLaunch&#39;s rocket-flinging launch system will loft NASA payload on test flight this year](https://www.space.com/spinlaunch-nasa-suborbital-test-flight-agreement)
-- [Twitter is wiping embeds of deleted tweets from the web](https://techcrunch.com/2022/04/06/twitter-deleted-embedded-tweet/)
-- [FabuLingua wins the TechCrunch City Spotlight: Austin pitch-off!](https://techcrunch.com/2022/04/06/fabulingua-wins-the-techcrunch-city-spotlight-austin-pitch-off/)
-- [Google Play will hide and block downloads for outdated apps starting later this year](https://techcrunch.com/2022/04/06/google-play-will-hide-and-block-downloads-for-outdated-apps-starting-later-this-year/)
-- [Terra’s founder plans to back its stablecoin with a ‘basket’ of cryptocurrencies](https://techcrunch.com/2022/04/06/terras-founder-plans-to-back-its-stablecoin-with-a-basket-of-cryptocurrencies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
