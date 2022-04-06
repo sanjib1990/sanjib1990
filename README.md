@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Webb’s Mid-Infrared Instrument Cooldown Continues](https://blogs.nasa.gov/webb/2022/04/06/webbs-mid-infrared-instrument-cooldown-continues/)
+- [Artificial intelligence is already upending geopolitics](https://techcrunch.com/2022/04/06/artificial-intelligence-is-already-upending-geopolitics/)
 - [Austin emerges as a city of unicorns and tech giants](https://techcrunch.com/2022/04/06/how-austin-texas-has-evolved-into-a-city-of-unicorns-and-tech-giants/)
 - [Aurora launches autonomous freight pilot with Werner, expands terminal network](https://techcrunch.com/2022/04/06/aurora-launches-autonomous-freight-pilot-with-werner-expands-terminal-network/)
 - [Noissue acquires Tapkit to bring QR codes to sustainable packaging](https://techcrunch.com/2022/04/06/noissue-acquires-tapkit-to-bring-qr-codes-to-sustainable-packaging/)
-- [Ascend.io lands $35M to automate data pipeline orchestration](https://techcrunch.com/2022/04/06/ascend-io-lands-35m-to-automate-data-pipeline-orchestration/)
-- [London-based Fidel API lands $65M in Series B funding, proving fintech infrastructure is hotter than ever](https://techcrunch.com/2022/04/06/london-based-fidel-api-lands-65m-in-series-b-funding-proving-fintech-infrastructure-is-hotter-than-ever/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
