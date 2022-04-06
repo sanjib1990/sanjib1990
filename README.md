@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Qureos raises $3M to grow its learn to earn platform](https://techcrunch.com/2022/04/06/qureos-raises-3m-to-grow-its-learn-to-earn-platform/)
+- [Indian social media app Koo rolls out voluntary self-verification feature for users](https://techcrunch.com/2022/04/06/indian-social-media-app-koo-rolls-out-voluntary-self-verification-feature-for-users/)
+- [April 6, 1965: NASA launches 1st commercial communication satellite](https://www.space.com/39251-on-this-day-in-space.html)
 - [Productsup raises $70M to help retailers navigate sales strategies in the choppy world of e-commerce](https://techcrunch.com/2022/04/06/productsup-raises-70m-to-help-retailers-navigate-sales-strategies-in-the-choppy-world-of-e-commerce/)
 - [Google Cloud launches BigLake, a new cross-platform data storage engine](https://techcrunch.com/2022/04/05/google-cloud-launches-biglake-a-new-cross-platform-data-storage-engine/)
-- [Google, Databricks, Fivetran, Redis and others launch the Data Cloud Alliance](https://techcrunch.com/2022/04/05/google-databricks-fivetran-redis-and-others-launch-the-data-cloud-alliance/)
-- [Intel suspends operations in Russia](https://techcrunch.com/2022/04/05/intel-suspends-operations-in-russia/)
-- [Two new ways to attend TC Sessions: Mobility 2022 — in person or online](https://techcrunch.com/2022/04/05/two-new-ways-to-attend-tc-sessions-mobility-2022-in-person-or-online/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
