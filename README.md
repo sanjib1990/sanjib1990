@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See NASA&#39;s Artemis 1 moon rocket, SpaceX&#39;s Ax-1 astronaut mission on the launch pad &lpar;photos&rpar;](https://www.space.com/artemis-1-moon-rocket-spacex-ax-1-launch-pad-photos)
+- [Meta says it’s ‘pausing’ F8, won’t hold the developer conference this year](https://techcrunch.com/2022/04/06/meta-pause-f8-developer-conference/)
+- [6 questions investors should ask when evaluating psychedelic biotech companies](https://techcrunch.com/2022/04/06/6-questions-investors-should-ask-when-evaluating-psychedelic-biotech-companies/)
+- [Celebrate all 7 seasons of &#39;Star Wars: The Clone Wars&#39; with this new collector&#39;s edition book](https://www.space.com/star-wars-clone-wars-titan-comics-collectors-edition)
 - [SpinLaunch scores NASA test mission to demonstrate its unique launch method](https://techcrunch.com/2022/04/06/spinlaunch-scores-nasa-test-mission-to-demonstrate-its-unique-launch-method/)
-- [Anker launches AnkerMake, its first 3D printer](https://techcrunch.com/2022/04/06/anker-launches-ankermake-its-first-3d-printer/)
-- [Dear Sophie: Supporting Ukrainians with H-1Bs and beyond](https://techcrunch.com/2022/04/06/dear-sophie-supporting-ukrainians-with-h-1bs-and-beyond/)
-- [Microsoft launches its AI-powered notetaking app Journal as an official Windows app](https://techcrunch.com/2022/04/06/microsoft-launches-its-a-i-powered-notetaking-app-journal-as-an-official-windows-app/)
-- [Salesforce upgrades marketing, field service, and sales tools with AI](https://techcrunch.com/2022/04/06/salesforce-upgrades-marketing-field-service-and-sales-tools-with-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
