@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Comets fade even as deep in space as Saturn&#39;s orbit, scientists find](https://www.space.com/comets-fade-in-deep-space-beyond-saturn)
-- [Ax-1 private mission to space station: Live updates](https://www.space.com/news/live/ax-1-space-station-mission-updates)
-- [See NASA&#39;s Artemis 1 moon rocket, SpaceX&#39;s Ax-1 astronaut mission on the launch pad &lpar;photos&rpar;](https://www.space.com/artemis-1-moon-rocket-spacex-ax-1-launch-pad-photos)
-- [Celebrate all 7 seasons of &#39;Star Wars: The Clone Wars&#39; with this new collector&#39;s edition book](https://www.space.com/star-wars-clone-wars-titan-comics-collectors-edition)
-- [SpinLaunch scores NASA test mission to demonstrate its unique launch method](https://techcrunch.com/2022/04/06/spinlaunch-scores-nasa-test-mission-to-demonstrate-its-unique-launch-method/)
+- [Google Play will hide and block downloads for outdated apps starting later this year](https://techcrunch.com/2022/04/06/google-play-will-hide-and-block-downloads-for-outdated-apps-starting-later-this-year/)
+- [Terra’s founder plans to back its stablecoin with a ‘basket’ of cryptocurrencies](https://techcrunch.com/2022/04/06/terras-founder-plans-to-back-its-stablecoin-with-a-basket-of-cryptocurrencies/)
+- [TikTok launches new program to help creative agencies reach its audience](https://techcrunch.com/2022/04/06/tiktok-program-help-creative-agencies-reach-audience/)
+- [Bjarni Tryggvason, one of Canada&#39;s original astronauts, dies at 76](https://www.space.com/canadian-astronaut-bjarni-tryggvason-obituary)
+- [NASA finds two new space-based ways to track climate change](https://techcrunch.com/2022/04/06/nasa-finds-two-new-space-based-ways-to-track-climate-change/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
