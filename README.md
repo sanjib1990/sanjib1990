@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [I built 10 web apps... with 10 different languages](https://www.youtube.com/watch?v=FQPlEnKav48)
 - [Automating Boston Dynamics Spot Robot - Computerphile](https://www.youtube.com/watch?v=cQhsblLVjEo)
 - [How I learn new technologies as a DevOps Engineer &lpar;without being overwhelmed&rpar;](https://www.youtube.com/watch?v=Cthla7KqU04)
 - [what is an IP Address? // You SUCK at Subnetting // EP 1](https://www.youtube.com/watch?v=5WfiTHiU4x8)
 - [client got faded, I got paid](https://www.youtube.com/watch?v=UA7NSpzG98s)
-- [Java for the Haters in 100 Seconds](https://www.youtube.com/watch?v=m4-HM_sCvtQ)
 <!-- YOUTUBE:END -->
 
 ---
