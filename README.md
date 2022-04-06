@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpinLaunch&#39;s rocket-flinging launch system will loft NASA payload on test flight this year](https://www.space.com/spinlaunch-nasa-suborbital-test-flight-agreement)
+- [Twitter is wiping embeds of deleted tweets from the web](https://techcrunch.com/2022/04/06/twitter-deleted-embedded-tweet/)
+- [FabuLingua wins the TechCrunch City Spotlight: Austin pitch-off!](https://techcrunch.com/2022/04/06/fabulingua-wins-the-techcrunch-city-spotlight-austin-pitch-off/)
 - [Google Play will hide and block downloads for outdated apps starting later this year](https://techcrunch.com/2022/04/06/google-play-will-hide-and-block-downloads-for-outdated-apps-starting-later-this-year/)
 - [Terra’s founder plans to back its stablecoin with a ‘basket’ of cryptocurrencies](https://techcrunch.com/2022/04/06/terras-founder-plans-to-back-its-stablecoin-with-a-basket-of-cryptocurrencies/)
-- [TikTok launches new program to help creative agencies reach its audience](https://techcrunch.com/2022/04/06/tiktok-program-help-creative-agencies-reach-audience/)
-- [Bjarni Tryggvason, one of Canada&#39;s original astronauts, dies at 76](https://www.space.com/canadian-astronaut-bjarni-tryggvason-obituary)
-- [NASA finds two new space-based ways to track climate change](https://techcrunch.com/2022/04/06/nasa-finds-two-new-space-based-ways-to-track-climate-change/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
