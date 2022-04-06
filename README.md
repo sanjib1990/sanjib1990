@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [VR headset deals: Oculus Quest 2, HTC Vive Cosmos, and more](https://www.space.com/vr-headset-deals)
-- [Visa unveils first innovation hub in Africa to drive product development](https://techcrunch.com/2022/04/06/visa-unveils-first-innovation-hub-in-africa-to-drive-product-development/)
-- [Qureos raises $3M to grow its learn to earn platform](https://techcrunch.com/2022/04/06/qureos-raises-3m-to-grow-its-learn-to-earn-platform/)
-- [Indian Twitter rival Koo will let users self-verify](https://techcrunch.com/2022/04/06/indian-social-media-app-koo-rolls-out-voluntary-self-verification-feature-for-users/)
-- [April 6, 1965: NASA launches 1st commercial communication satellite](https://www.space.com/39251-on-this-day-in-space.html)
+- [Everything we know about Obi-Wan Kenobi: Release date, where to stream, plot](https://www.space.com/obi-wan-kenobi-streaming-guide)
+- [Strange &#39;reverse shock wave&#39; supernova is exploding in the wrong direction](https://www.space.com/supernova-reverse-shock-wave)
+- [New Hubble photo shows galaxy&#39;s bright supermassive black hole cloaked in dust](https://www.space.com/galaxy-active-black-hole-hidden-hubble-photo)
+- [NASA astronaut Mark Vande Hei reflects on record 355 days in space](https://www.space.com/vande-hei-astronaut-reflects-355-days-space)
+- [This astronomer turns small Eastern European country into an asteroid-spotting powerhouse](https://www.space.com/asteroid-hunter-sarneczky-hungary)
 <!-- BLOG-POST-LIST:END -->
 
 ---
