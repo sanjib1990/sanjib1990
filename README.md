@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft launches its A.I.-powered notetaking app Journal as an official Windows app](https://techcrunch.com/2022/04/06/microsoft-launches-its-a-i-powered-notetaking-app-journal-as-an-official-windows-app/)
+- [SpinLaunch scores NASA test mission to demonstrate its unique launch method](https://techcrunch.com/2022/04/06/spinlaunch-scores-nasa-test-mission-to-demonstrate-its-unique-launch-method/)
+- [Anker launches AnkerMake, its first 3D printer](https://techcrunch.com/2022/04/06/anker-launches-ankermake-its-first-3d-printer/)
+- [Dear Sophie: Supporting Ukrainians with H-1Bs and beyond](https://techcrunch.com/2022/04/06/dear-sophie-supporting-ukrainians-with-h-1bs-and-beyond/)
+- [Microsoft launches its AI-powered notetaking app Journal as an official Windows app](https://techcrunch.com/2022/04/06/microsoft-launches-its-a-i-powered-notetaking-app-journal-as-an-official-windows-app/)
 - [Salesforce upgrades marketing, field service, and sales tools with AI](https://techcrunch.com/2022/04/06/salesforce-upgrades-marketing-field-service-and-sales-tools-with-ai/)
-- [China’s Zhiyi Tech raises $100M to help fashion brands predict bestsellers](https://techcrunch.com/2022/04/06/zhiyi-tech-fashion-supply-chain-100-million/)
-- [Docyt raises $11.5M Series A for its AI-powered accounting automation service](https://techcrunch.com/2022/04/06/docyt-raises-11-5m-series-a-for-its-ai-powered-accounting-automation-service/)
-- [Happening today: TechCrunch Live’s free special episode in Austin, Texas!](https://techcrunch.com/2022/04/06/happening-today-techcrunch-lives-free-special-episode-in-austin-texas/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
