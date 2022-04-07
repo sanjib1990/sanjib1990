@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Open Phone raises $40M to replace your work phone and office PBX with an app](https://techcrunch.com/2022/04/07/open-phone-raises-40m-to-replace-your-work-phone-and-office-pbx-with-an-app/)
+- [Why a 35-year-old travel IT company decided to slash its technical debt](https://techcrunch.com/2022/04/07/what-startups-can-learn-from-amadeus-migration-to-cloud/)
+- [Conceive wants to answer the loneliest questions in healthcare](https://techcrunch.com/2022/04/07/conceive-fertility-launch-seed/)
+- [Spotify’s ‘Car Thing’ entertainment system gains new features and ‘add to queue’ functionality](https://techcrunch.com/2022/04/07/spotifys-car-thing-entertainment-system-gains-new-features-and-add-to-queue-functionality/)
+- [OpenPhone raises $40M to replace your work phone and office PBX with an app](https://techcrunch.com/2022/04/07/open-phone-raises-40m-to-replace-your-work-phone-and-office-pbx-with-an-app/)
 - [Landed tackles hospitality employee turnover with end-to-end recruitment matching tool](https://techcrunch.com/2022/04/07/landed-hospitality-employee-turnover-recruitment/)
-- [Vontive wants to be the Palantir of real estate investing](https://techcrunch.com/2022/04/07/vontive-wants-to-be-the-palantir-of-real-estate-investing/)
-- [U.S. Xpress pilots 24/7 autonomous freight with Kodiak Robotics](https://techcrunch.com/2022/04/07/u-s-xpress-pilots-24-7-autonomous-freight-with-kodiak-robotics/)
-- [Google’s new ‘multisearch’ feature lets you search using text and images at the same time](https://techcrunch.com/2022/04/07/googles-multisearch-search-using-text-images/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
