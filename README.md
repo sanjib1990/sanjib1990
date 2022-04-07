@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html)
-- [April 7, 1983: 1st spacewalk from a NASA space shuttle](https://www.space.com/39251-on-this-day-in-space.html)
-- [Better Origin turns food waste to animal feed, with an insect-assist](https://techcrunch.com/2022/04/07/better-origin-series-a/)
-- [ImaliPay gets $3M to offer financial services to underserved gig workers across Africa](https://techcrunch.com/2022/04/07/imalipay-gets-3m-to-offer-financial-services-to-underserved-gig-workers-across-africa/)
-- [Samsung’s upcoming Q1 earnings top estimates on solid chip demand](https://techcrunch.com/2022/04/06/samsungs-upcoming-q1-earnings-top-estimates-on-solid-chip-demand/)
+- [Jüsto grabs new capital as it expands grocery delivery in Brazil, Peru](https://techcrunch.com/2022/04/07/justo-series-b-grocery-delivery-brazil-peru/)
+- [Built Robotics raises another $64M to make construction equipment autonomous](https://techcrunch.com/2022/04/07/built-robotics-raises-another-64m-to-make-construction-equipment-autonomous/)
+- [High school student scouring gravitational wave data makes neutron star discovery](https://www.space.com/high-school-gravitational-waves-science-neutron-stars)
+- [Astronomers spot most distant galaxy yet at 13.5 billion light-years away](https://www.space.com/most-distant-galaxy-discovered-yet)
+- [Relive all the galactic magic in &#39;The Art of Star Wars: The Mandalorian&#39; Season 2](https://www.space.com/star-wars-art-mandalorian-book)
 <!-- BLOG-POST-LIST:END -->
 
 ---
