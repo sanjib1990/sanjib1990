@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spanish scale-ups club together to shift the tech policy agenda](https://techcrunch.com/2022/04/06/estech/)
 - [Nord Security, the startup behind NordVPN, raises its first-ever funding, $100M at a $1.6B valuation](https://techcrunch.com/2022/04/06/nord-security-the-startup-behind-nordvpn-raises-its-first-ever-funding-100m-at-a-1-6b-valuation/)
 - [SpaceX&#39;s Crew-4 astronaut mission delayed a day to April 20](https://www.space.com/spacex-crew-4-launch-delay-april-20)
 - [Daily Crunch: Citing ‘uncertain mortgage market,’ Better.com rolls out employee buyout plan](https://techcrunch.com/2022/04/06/daily-crunch-citing-uncertain-mortgage-market-better-com-rolls-out-employee-buyout-plan/)
 - [Fanatics reveals NFL was biggest backer in $1.5B round announced last month at $27B valuation](https://techcrunch.com/2022/04/06/fanatics-raises-1-5b-at-a-27b-valuation-as-it-evolves-into-a-digital-sports-platform/)
-- [SpinLaunch&#39;s rocket-flinging launch system will loft NASA payload on test flight this year](https://www.space.com/spinlaunch-nasa-suborbital-test-flight-agreement)
 <!-- BLOG-POST-LIST:END -->
 
 ---
