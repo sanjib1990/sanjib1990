@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Goldman Sachs joins other investors in $88M round for web3 and blockchain security firm CertiK](https://techcrunch.com/2022/04/07/goldman-sachs-joins-other-investors-in-88m-round-for-web3-and-blockchain-security-firm-certik/)
+- [The Folklore Group secures $1.7 million, launches fashion B2B e-commerce platform](https://techcrunch.com/2022/04/07/the-folklore-group-secures-1-7-million-launches-fashion-b2b-e-commerce-platform/)
+- [Saiga aims to succeed where Magic and other concierge apps failed](https://techcrunch.com/2022/04/07/saiga-aims-to-succeed-where-magic-and-other-concierge-apps-failed/)
+- [Indian giant Tata Group takes on Jio Platforms and Amazon with superapp Tata Neu](https://techcrunch.com/2022/04/07/indian-giant-tata-group-takes-on-jio-platforms-and-amazon-with-superapp-tata-neu/)
 - [Jüsto grabs new capital as it expands grocery delivery in Brazil, Peru](https://techcrunch.com/2022/04/07/justo-series-b-grocery-delivery-brazil-peru/)
-- [Built Robotics raises another $64M to make construction equipment autonomous](https://techcrunch.com/2022/04/07/built-robotics-raises-another-64m-to-make-construction-equipment-autonomous/)
-- [High school student scouring gravitational wave data makes neutron star discovery](https://www.space.com/high-school-gravitational-waves-science-neutron-stars)
-- [Astronomers spot most distant galaxy yet at 13.5 billion light-years away](https://www.space.com/most-distant-galaxy-discovered-yet)
-- [Relive all the galactic magic in &#39;The Art of Star Wars: The Mandalorian&#39; Season 2](https://www.space.com/star-wars-art-mandalorian-book)
 <!-- BLOG-POST-LIST:END -->
 
 ---
