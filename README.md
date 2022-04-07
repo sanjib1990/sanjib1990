@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Parentinc raises $22M led by East Ventures for its parenting community and D2C brand](https://techcrunch.com/2022/04/06/the-parentinc-raises-22m-led-by-east-ventures-for-its-parenting-community-and-d2c-brand/)
+- [Grover grabs $330M to double down on the circular economy with consumer electronics subscriptions](https://techcrunch.com/2022/04/06/grover-grabs-330m-to-double-down-on-the-circular-economy-with-consumer-electronics-subscriptions/)
 - [GM to pitch perks of Bolt EV to baseball fans on Opening Day](https://techcrunch.com/2022/04/06/gm-to-pitch-perks-of-bolt-ev-to-baseball-fans-on-opening-day/)
 - [Lead Edge Capital just closed its newest fund with an astonishing $2 billion &lpar;nearly&rpar;](https://techcrunch.com/2022/04/06/lead-edge-capital-just-closed-its-newest-fund-with-an-astonishing-2-billion-nearly/)
 - [Spanish scale-ups club together to shift the tech policy agenda](https://techcrunch.com/2022/04/06/estech/)
-- [Nord Security, the startup behind NordVPN, raises its first-ever funding, $100M at a $1.6B valuation](https://techcrunch.com/2022/04/06/nord-security-the-startup-behind-nordvpn-raises-its-first-ever-funding-100m-at-a-1-6b-valuation/)
-- [SpaceX&#39;s Crew-4 astronaut mission delayed a day to April 20](https://www.space.com/spacex-crew-4-launch-delay-april-20)
 <!-- BLOG-POST-LIST:END -->
 
 ---
