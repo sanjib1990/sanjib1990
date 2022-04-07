@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Goldman Sachs joins other investors in $88M round for web3 and blockchain security firm CertiK](https://techcrunch.com/2022/04/07/goldman-sachs-joins-other-investors-in-88m-round-for-web3-and-blockchain-security-firm-certik/)
-- [The Folklore Group secures $1.7 million, launches fashion B2B e-commerce platform](https://techcrunch.com/2022/04/07/the-folklore-group-secures-1-7-million-launches-fashion-b2b-e-commerce-platform/)
-- [Saiga aims to succeed where Magic and other concierge apps failed](https://techcrunch.com/2022/04/07/saiga-aims-to-succeed-where-magic-and-other-concierge-apps-failed/)
-- [Indian giant Tata Group takes on Jio Platforms and Amazon with superapp Tata Neu](https://techcrunch.com/2022/04/07/indian-giant-tata-group-takes-on-jio-platforms-and-amazon-with-superapp-tata-neu/)
-- [Jüsto grabs new capital as it expands grocery delivery in Brazil, Peru](https://techcrunch.com/2022/04/07/justo-series-b-grocery-delivery-brazil-peru/)
+- [Open Phone raises $40M to replace your work phone and office PBX with an app](https://techcrunch.com/2022/04/07/open-phone-raises-40m-to-replace-your-work-phone-and-office-pbx-with-an-app/)
+- [Landed tackles hospitality employee turnover with end-to-end recruitment matching tool](https://techcrunch.com/2022/04/07/landed-hospitality-employee-turnover-recruitment/)
+- [Vontive wants to be the Palantir of real estate investing](https://techcrunch.com/2022/04/07/vontive-wants-to-be-the-palantir-of-real-estate-investing/)
+- [U.S. Xpress pilots 24/7 autonomous freight with Kodiak Robotics](https://techcrunch.com/2022/04/07/u-s-xpress-pilots-24-7-autonomous-freight-with-kodiak-robotics/)
+- [Google’s new ‘multisearch’ feature lets you search using text and images at the same time](https://techcrunch.com/2022/04/07/googles-multisearch-search-using-text-images/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
