@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tencent to shut down its game streaming service](https://techcrunch.com/2022/04/07/tencent-to-shut-down-its-game-streaming-service/)
 - [Call them &#39;The Flies:&#39; NASA&#39;s latest class of astronaut candidates gets their nickname](https://www.space.com/nasa-astronaut-candidate-class-the-flies)
 - [How to watch Tesla’s Texas Gigafactory Cyber Rodeo](https://techcrunch.com/2022/04/07/how-to-watch-tesla-cyber-rodeo-at-austins-gigafactory/)
 - [NetApp acquires Instaclustr to deliver open source databases as a service](https://techcrunch.com/2022/04/07/netapp-acquires-instaclustr-to-deliver-open-source-databases-as-a-service/)
 - [Pew, pew! Scientists detect record-breaking &#39;megamaser&#39; 5 billion light-years away.](https://www.space.com/most-distant-megamaser-detection-colliding-galaxies)
-- [Another EV automaker is headed for an IPO](https://techcrunch.com/2022/04/07/vinfast-ev-files-ipo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
