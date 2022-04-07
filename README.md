@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [DALL-E is coming... World-changing AI image generator](https://www.youtube.com/watch?v=alJdw4JDJ4o)
 - [we ran OUT of IP Addresses!!](https://www.youtube.com/watch?v=tcae4TSSMo8)
 - [The Next Generation of OCW is Here!](https://www.youtube.com/watch?v=uuEZdVPFA4E)
 - [I built 10 web apps... with 10 different languages](https://www.youtube.com/watch?v=FQPlEnKav48)
 - [Automating Boston Dynamics Spot Robot - Computerphile](https://www.youtube.com/watch?v=cQhsblLVjEo)
-- [How I learn new technologies as a DevOps Engineer &lpar;without being overwhelmed&rpar;](https://www.youtube.com/watch?v=Cthla7KqU04)
 <!-- YOUTUBE:END -->
 
 ---
