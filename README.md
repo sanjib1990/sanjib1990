@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Tencent to shut down its game streaming service](https://techcrunch.com/2022/04/07/tencent-to-shut-down-its-game-streaming-service/)
-- [Call them &#39;The Flies:&#39; NASA&#39;s latest class of astronaut candidates gets their nickname](https://www.space.com/nasa-astronaut-candidate-class-the-flies)
-- [How to watch Tesla’s Texas Gigafactory Cyber Rodeo](https://techcrunch.com/2022/04/07/how-to-watch-tesla-cyber-rodeo-at-austins-gigafactory/)
-- [NetApp acquires Instaclustr to deliver open source databases as a service](https://techcrunch.com/2022/04/07/netapp-acquires-instaclustr-to-deliver-open-source-databases-as-a-service/)
-- [Pew, pew! Scientists detect record-breaking &#39;megamaser&#39; 5 billion light-years away.](https://www.space.com/most-distant-megamaser-detection-colliding-galaxies)
+- [Private Ax-1 astronauts ready to launch on SpaceX rocket tomorrow](https://www.space.com/spacex-axiom-ax1-mission-ready-to-launch)
+- [Steer, DFW airport partner to create ecosystem for automated valet parking](https://techcrunch.com/2022/04/07/steer-dfw-airport-partner-to-create-ecosystem-for-automated-valet-parking/)
+- [Dueling objections voiced following polarized Amazon union votes](https://techcrunch.com/2022/04/07/dueling-objections-voiced-following-polarized-amazon-union-votes/)
+- [Airbyte acquires data synchronization service Grouparoo](https://techcrunch.com/2022/04/07/airbyte-acquires-data-synchronization-service-grouparoo-to-launch-reverse-etl-capabilities/)
+- [Daily Crunch: Tata Group releases ‘super app’ that bundles 11 consumer services](https://techcrunch.com/2022/04/07/daily-crunch-tata-group-releases-super-app-that-bundles-11-consumer-services/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
