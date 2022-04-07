@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fortnite-developer Epic Games and Lego partner to build a metaverse aimed at kids](https://techcrunch.com/2022/04/07/fortnite-epic-games-lego-partner-build-metaverse-kids/)
+- [What the Binance bailout of Axie Infinity means for crypto’s future](https://techcrunch.com/2022/04/07/why-binance-led-the-axie-infinity-bailout-and-what-it-means-for-cryptos-future/)
+- [Webb’s Cool View on How Stars, Planets Form](https://blogs.nasa.gov/webb/2022/04/07/webbs-cool-view-on-how-stars-planets-form/)
 - [Why a 35-year-old travel IT company decided to slash its technical debt](https://techcrunch.com/2022/04/07/what-startups-can-learn-from-amadeus-migration-to-cloud/)
-- [Conceive wants to answer the loneliest questions in healthcare](https://techcrunch.com/2022/04/07/conceive-fertility-launch-seed/)
-- [Spotify’s ‘Car Thing’ entertainment system gains new features and ‘add to queue’ functionality](https://techcrunch.com/2022/04/07/spotifys-car-thing-entertainment-system-gains-new-features-and-add-to-queue-functionality/)
-- [OpenPhone raises $40M to replace your work phone and office PBX with an app](https://techcrunch.com/2022/04/07/open-phone-raises-40m-to-replace-your-work-phone-and-office-pbx-with-an-app/)
-- [Landed tackles hospitality employee turnover with end-to-end recruitment matching tool](https://techcrunch.com/2022/04/07/landed-hospitality-employee-turnover-recruitment/)
+- [Ax-1 private mission to space station: Live updates](https://www.space.com/news/live/ax-1-space-station-mission-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
