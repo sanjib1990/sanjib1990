@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Fortnite-developer Epic Games and Lego partner to build a metaverse aimed at kids](https://techcrunch.com/2022/04/07/fortnite-epic-games-lego-partner-build-metaverse-kids/)
-- [What the Binance bailout of Axie Infinity means for crypto’s future](https://techcrunch.com/2022/04/07/why-binance-led-the-axie-infinity-bailout-and-what-it-means-for-cryptos-future/)
-- [Webb’s Cool View on How Stars, Planets Form](https://blogs.nasa.gov/webb/2022/04/07/webbs-cool-view-on-how-stars-planets-form/)
-- [Why a 35-year-old travel IT company decided to slash its technical debt](https://techcrunch.com/2022/04/07/what-startups-can-learn-from-amadeus-migration-to-cloud/)
-- [Ax-1 private mission to space station: Live updates](https://www.space.com/news/live/ax-1-space-station-mission-updates)
+- [The fundraising market is losing some of its founder-friendly shine](https://techcrunch.com/2022/04/07/the-fundraising-market-is-losing-some-of-its-founder-friendly-shine/)
+- [Asteroid Bennu&#39;s mysterious missing craters suggest &#39;impact armoring&#39; protecting the surface](https://www.space.com/asteroid-bennu-missing-craters-impact-armoring)
+- [Lyrid meteor shower 2022: When, where &amp; how to see it](https://www.space.com/36381-lyrid-meteor-shower-guide.html)
+- [Lyrid meteor shower: Leftovers of Comet Thatcher](https://www.space.com/23315-lyrid-meteor-shower.html)
+- [HBO Max begins rolling out an upgraded Apple TV app with enhanced stability](https://techcrunch.com/2022/04/07/hbo-max-upgraded-apple-tv-app-enhanced-stability/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
