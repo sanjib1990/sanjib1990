@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Top Five Reasons Students Should Attend TC Sessions: Mobility](https://techcrunch.com/2022/04/07/top-five-reasons-students-should-attend-tc-sessions-mobility/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [Streaming deals ramp up for sports as MLB Opening Day and Masters Tournament begin](https://techcrunch.com/2022/04/07/streaming-deals-ramp-up-for-sports-as-mlb-opening-day-and-masters-tournament-begin/)
 - [New Salesforce AI chief eyes a future with voice-driven coding](https://techcrunch.com/2022/04/07/new-salesforce-ai-chief-eyes-a-future-with-voice-driven-coding/)
 - [Ax-1 private mission to space station: Live updates](https://www.space.com/news/live/ax-1-space-station-mission-updates)
-- [3 ways deep tech founders can climb out of pilot purgatory](https://techcrunch.com/2022/04/07/3-ways-deep-tech-founders-can-climb-out-of-pilot-purgatory/)
-- [Indian payments body refuses to acknowledge Coinbase’s India launch](https://techcrunch.com/2022/04/07/indian-payments-body-refuses-to-acknowledge-coinbases-india-launch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
