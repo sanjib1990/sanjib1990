@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Top Five Reasons Students Should Attend TC Sessions: Mobility](https://techcrunch.com/2022/04/07/top-five-reasons-students-should-attend-tc-sessions-mobility/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [Streaming deals ramp up for sports as MLB Opening Day and Masters Tournament begin](https://techcrunch.com/2022/04/07/streaming-deals-ramp-up-for-sports-as-mlb-opening-day-and-masters-tournament-begin/)
-- [New Salesforce AI chief eyes a future with voice-driven coding](https://techcrunch.com/2022/04/07/new-salesforce-ai-chief-eyes-a-future-with-voice-driven-coding/)
-- [Ax-1 private mission to space station: Live updates](https://www.space.com/news/live/ax-1-space-station-mission-updates)
+- [College students and recent grads: Grab a $45 pass to TC Sessions: Climate 2022](https://techcrunch.com/2022/04/07/college-students-and-recent-grads-grab-a-45-pass-to-tc-sessions-climate-2022/)
+- [‘NFT’ app Sticky kicked out of Apple’s App Store after operating for months](https://techcrunch.com/2022/04/07/nft-app-sticky-kicked-out-of-apples-app-store-after-operating-for-months/)
+- [Lilt raises $55M to bolster its business-focused AI translation platform](https://techcrunch.com/2022/04/07/lilt-raises-55m-to-bolster-its-business-focused-ai-translation-platform/)
+- [Dough, drones, bananas and berries](https://techcrunch.com/2022/04/07/dough-drones-bananas-and-berries/)
+- [Snapchat’s newest lens aims to teach users American Sign Language](https://techcrunch.com/2022/04/07/snapchats-lens-teach-users-american-sign-language/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
