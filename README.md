@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Better Origin turns food waste to animal feed, with an insect-assist](https://techcrunch.com/2022/04/07/better-origin-series-a/)
+- [ImaliPay gets $3M to offer financial services to underserved gig workers across Africa](https://techcrunch.com/2022/04/07/imalipay-gets-3m-to-offer-financial-services-to-underserved-gig-workers-across-africa/)
 - [Samsung’s upcoming Q1 earnings top estimates on solid chip demand](https://techcrunch.com/2022/04/06/samsungs-upcoming-q1-earnings-top-estimates-on-solid-chip-demand/)
-- [Crypto giant Coinbase makes India push with UPI payments](https://techcrunch.com/2022/04/06/coinbase-upi-india/)
+- [Coinbase debuts crypto trading in India](https://techcrunch.com/2022/04/06/coinbase-upi-india/)
 - [The Parentinc raises $22M led by East Ventures for its parenting community and D2C brand](https://techcrunch.com/2022/04/06/the-parentinc-raises-22m-led-by-east-ventures-for-its-parenting-community-and-d2c-brand/)
-- [Grover grabs $330M to double down on the circular economy with consumer electronics subscriptions](https://techcrunch.com/2022/04/06/grover-grabs-330m-to-double-down-on-the-circular-economy-with-consumer-electronics-subscriptions/)
-- [GM to pitch perks of Bolt EV to baseball fans on Opening Day](https://techcrunch.com/2022/04/06/gm-to-pitch-perks-of-bolt-ev-to-baseball-fans-on-opening-day/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
