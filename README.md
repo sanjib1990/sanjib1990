@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Another EV automaker is headed for an IPO](https://techcrunch.com/2022/04/07/vinfast-ev-files-ipo/)
+- [Twitter will finally let you ‘unmention’ yourself in tweets](https://techcrunch.com/2022/04/07/twitter-untag-replies/)
 - [College students and recent grads: Grab a $45 pass to TC Sessions: Climate 2022](https://techcrunch.com/2022/04/07/college-students-and-recent-grads-grab-a-45-pass-to-tc-sessions-climate-2022/)
 - [‘NFT’ app Sticky kicked out of Apple’s App Store after operating for months](https://techcrunch.com/2022/04/07/nft-app-sticky-kicked-out-of-apples-app-store-after-operating-for-months/)
 - [Lilt raises $55M to bolster its business-focused AI translation platform](https://techcrunch.com/2022/04/07/lilt-raises-55m-to-bolster-its-business-focused-ai-translation-platform/)
-- [Dough, drones, bananas and berries](https://techcrunch.com/2022/04/07/dough-drones-bananas-and-berries/)
-- [Snapchat’s newest lens aims to teach users American Sign Language](https://techcrunch.com/2022/04/07/snapchats-lens-teach-users-american-sign-language/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
