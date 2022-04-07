@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html)
+- [April 7, 1983: 1st spacewalk from a NASA space shuttle](https://www.space.com/39251-on-this-day-in-space.html)
 - [Better Origin turns food waste to animal feed, with an insect-assist](https://techcrunch.com/2022/04/07/better-origin-series-a/)
 - [ImaliPay gets $3M to offer financial services to underserved gig workers across Africa](https://techcrunch.com/2022/04/07/imalipay-gets-3m-to-offer-financial-services-to-underserved-gig-workers-across-africa/)
 - [Samsung’s upcoming Q1 earnings top estimates on solid chip demand](https://techcrunch.com/2022/04/06/samsungs-upcoming-q1-earnings-top-estimates-on-solid-chip-demand/)
-- [Coinbase debuts crypto trading in India](https://techcrunch.com/2022/04/06/coinbase-upi-india/)
-- [The Parentinc raises $22M led by East Ventures for its parenting community and D2C brand](https://techcrunch.com/2022/04/06/the-parentinc-raises-22m-led-by-east-ventures-for-its-parenting-community-and-d2c-brand/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
