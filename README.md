@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Space board game deals 2022](https://www.space.com/space-board-game-deals)
 - [Hubble Space Telescope spots extreme weather on strange alien worlds](https://www.space.com/hubble-space-telescope-exoplanet-extreme-weather)
 - [NASA&#39;s Ingenuity helicopter makes its 24th flight on Mars](https://www.space.com/ingenuity-helicopter-24th-mars-flight)
 - [We&#39;re two years away from the Great North American Solar Eclipse of 2024!](https://www.space.com/great-north-american-eclipse-2024-two-years-away)
 - [The private Ax-1 astronaut mission heralds an exciting new era in spaceflight &lpar;op-ed&rpar;](https://www.space.com/news/the-private-ax-1-astronaut-mission-heralds-an-exciting-new-era-in-spaceflight-op-ed)
-- [It’s time to address the role of New Space firms in global security](https://techcrunch.com/2022/04/08/its-time-to-address-the-role-of-new-space-firms-in-global-security/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
