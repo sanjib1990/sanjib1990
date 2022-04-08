@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Brilliant Planet is running algae-farms to pull carbon out of the air](https://techcrunch.com/2022/04/07/brilliant-planet-series-a/)
+- [Twitter launches improved alt text accessibility features globally](https://techcrunch.com/2022/04/07/twitter-alt-text-badge-image-description/)
 - [Private Ax-1 astronauts ready to launch on SpaceX rocket tomorrow](https://www.space.com/spacex-axiom-ax1-mission-ready-to-launch)
 - [Steer, DFW airport partner to create ecosystem for automated valet parking](https://techcrunch.com/2022/04/07/steer-dfw-airport-partner-to-create-ecosystem-for-automated-valet-parking/)
 - [Dueling objections voiced following polarized Amazon union votes](https://techcrunch.com/2022/04/07/dueling-objections-voiced-following-polarized-amazon-union-votes/)
-- [Airbyte acquires data synchronization service Grouparoo](https://techcrunch.com/2022/04/07/airbyte-acquires-data-synchronization-service-grouparoo-to-launch-reverse-etl-capabilities/)
-- [Daily Crunch: Tata Group releases ‘super app’ that bundles 11 consumer services](https://techcrunch.com/2022/04/07/daily-crunch-tata-group-releases-super-app-that-bundles-11-consumer-services/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
