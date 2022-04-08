@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Does your startup have enough runway? 5 factors to consider](https://techcrunch.com/2022/04/08/does-your-startup-have-enough-runway-5-factors-to-consider/)
+- [Apply to pitch your startup at TC Sessions: Mobility](https://techcrunch.com/2022/04/08/founders-application-mobility-startups-cars-transportation-pitchoff/)
+- [Surprise W boson measurement could rewrite particle physics](https://www.space.com/w-boson-mass-defies-standard-model)
 - [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [Snap up a huge $500 discount on the Panasonic Lumix S1H camera](https://www.space.com/panasonic-lumix-s1h-amazon-deal-save-500-dollars)
-- [Study of Apple’s ATT impact highlights competition concerns](https://techcrunch.com/2022/04/08/apple-att-impact-study/)
-- [Sony 20mm f/1.8 G lens review](https://www.space.com/sony-20mm-f18-g-lens-review)
-- [Heliocentrism: Definition, origin and model](https://www.space.com/heliocentrism)
 <!-- BLOG-POST-LIST:END -->
 
 ---
