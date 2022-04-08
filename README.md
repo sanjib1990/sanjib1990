@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hospital mascot, not Disney rabbit, floats on Ax-1 mission as zero-g indicator](https://www.space.com/axiom-ax1-zero-g-indicator-caramel-dog)
+- [See Venus, Mars and Saturn shine with bright stars before dawn Saturday](https://www.space.com/saturn)
+- [Daily Crunch: After 16 months on the job, Better.com CTO Diane Yu steps down](https://techcrunch.com/2022/04/08/daily-crunch-after-16-months-on-the-job-better-com-cto-diane-yu-steps-down/)
 - [What Glossier got wrong](https://techcrunch.com/2022/04/08/what-glossier-got-wrong/)
 - [TechCrunch+ roundup: Psychedelic biotech, Gogoro’s SPAC, H-1Bs for Ukrainians](https://techcrunch.com/2022/04/08/techcrunch-roundup-psychedelic-biotech-gogoros-spac-h-1bs-for-ukrainians/)
-- [Ax-1 private mission to space station: Live updates](https://www.space.com/news/live/ax-1-space-station-mission-updates)
-- [Arrival’s Avinash Rugoobur to reveal EV built with Uber at TC Sessions: Mobility 2022](https://techcrunch.com/2022/04/08/arrivals-avinash-rugoobur-to-reveal-ev-built-with-uber-at-tc-sessions-mobility-2022/)
-- [A newcomer to AI data labeling, Encord looks to ride a rising tidal wave](https://techcrunch.com/2022/04/08/a-newcomer-to-ai-data-labeling-encord-looks-to-ride-a-rising-tidal-wave/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
