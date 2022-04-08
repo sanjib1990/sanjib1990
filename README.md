@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Elon Musk promises widespread rollout of Tesla FSD beta this year](https://techcrunch.com/2022/04/07/elon-musk-promises-widespread-rollout-of-tesla-fsd-beta-this-year/)
 - [Brilliant Planet is running algae-farms to pull carbon out of the air](https://techcrunch.com/2022/04/07/brilliant-planet-series-a/)
 - [Twitter launches improved alt text accessibility features globally](https://techcrunch.com/2022/04/07/twitter-alt-text-badge-image-description/)
 - [Private Ax-1 astronauts ready to launch on SpaceX rocket tomorrow](https://www.space.com/spacex-axiom-ax1-mission-ready-to-launch)
 - [Steer, DFW airport partner to create ecosystem for automated valet parking](https://techcrunch.com/2022/04/07/steer-dfw-airport-partner-to-create-ecosystem-for-automated-valet-parking/)
-- [Dueling objections voiced following polarized Amazon union votes](https://techcrunch.com/2022/04/07/dueling-objections-voiced-following-polarized-amazon-union-votes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
