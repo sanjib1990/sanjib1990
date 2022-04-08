@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [April 8, 1964: 1st test flight of Gemini spacecraft](https://www.space.com/39251-on-this-day-in-space.html)
 - [SpaceX launching private Ax-1 astronaut mission today: Watch it live](https://www.space.com/spacex-axiom-space-ax-1-launch-today-watch-live)
 - [Elon Musk promises widespread rollout of Tesla FSD beta this year](https://techcrunch.com/2022/04/07/elon-musk-promises-widespread-rollout-of-tesla-fsd-beta-this-year/)
 - [Brilliant Planet is running algae farms to pull carbon out of the air](https://techcrunch.com/2022/04/07/brilliant-planet-series-a/)
 - [Twitter launches improved alt text accessibility features globally](https://techcrunch.com/2022/04/07/twitter-alt-text-badge-image-description/)
-- [Private Ax-1 astronauts ready to launch on SpaceX rocket tomorrow](https://www.space.com/spacex-axiom-ax1-mission-ready-to-launch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
