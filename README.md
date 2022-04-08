@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
+- [VCs, unicorn founders back Truora, a startup that helps LatAm businesses onboard users via WhatsApp](https://techcrunch.com/2022/04/08/vcs-unicorn-founders-pump-15m-into-truora-a-colombian-startup-that-helps-companies-onboard-users-via-whatsapp/)
+- [SpaceX launches Ax-1, the 1st fully private astronaut mission to the space station](https://www.space.com/spacex-ax1-mission-launch-success)
 - [Ax-1 private mission to space station: Live updates](https://www.space.com/news/live/ax-1-space-station-mission-updates)
-- [Sequoia-backed SwooshTransfer raises millions of dollars to automate cross-border payments](https://techcrunch.com/2022/04/08/swooshtransfer-angel-funding-sequoia/)
-- [James Webb Space Telescope&#39;s most heat-sensitive instrument continues cooling to absolute zero](https://www.space.com/james-webb-space-telescope-instrument-cooling-update)
-- [Just how much has late-stage venture capital slowed?](https://techcrunch.com/2022/04/08/just-how-much-has-late-stage-venture-capital-slowed/)
+- [Google adds self-repair options for Pixel phones](https://techcrunch.com/2022/04/08/google-adds-self-repair-options-for-pixel-phones/)
+- [Discover how Samsung NEXT and Microsoft for Startups can help your business at TC Early Stage](https://techcrunch.com/2022/04/08/discover-how-samsung-next-and-microsoft-for-startups-can-help-your-startup-at-tc-early-stage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
