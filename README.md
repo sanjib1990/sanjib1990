@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ax-1 private mission to space station: Live updates](https://www.space.com/news/live/ax-1-space-station-mission-updates)
+- [Transatlantic data transfers ‘deal in principle’ faces tough legal review](https://techcrunch.com/2022/04/08/edpb-data-tranfers-deal-review/)
 - [Space board game deals 2022](https://www.space.com/space-board-game-deals)
 - [Hubble Space Telescope spots extreme weather on strange alien worlds](https://www.space.com/hubble-space-telescope-exoplanet-extreme-weather)
 - [NASA&#39;s Ingenuity helicopter makes its 24th flight on Mars](https://www.space.com/ingenuity-helicopter-24th-mars-flight)
-- [We&#39;re two years away from the Great North American Solar Eclipse of 2024!](https://www.space.com/great-north-american-eclipse-2024-two-years-away)
-- [The private Ax-1 astronaut mission heralds an exciting new era in spaceflight &lpar;op-ed&rpar;](https://www.space.com/news/the-private-ax-1-astronaut-mission-heralds-an-exciting-new-era-in-spaceflight-op-ed)
 <!-- BLOG-POST-LIST:END -->
 
 ---
