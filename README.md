@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What Glossier got wrong](https://techcrunch.com/2022/04/08/what-glossier-got-wrong/)
+- [TechCrunch+ roundup: Psychedelic biotech, Gogoro’s SPAC, H-1Bs for Ukrainians](https://techcrunch.com/2022/04/08/techcrunch-roundup-psychedelic-biotech-gogoros-spac-h-1bs-for-ukrainians/)
+- [Ax-1 private mission to space station: Live updates](https://www.space.com/news/live/ax-1-space-station-mission-updates)
 - [Arrival’s Avinash Rugoobur to reveal EV built with Uber at TC Sessions: Mobility 2022](https://techcrunch.com/2022/04/08/arrivals-avinash-rugoobur-to-reveal-ev-built-with-uber-at-tc-sessions-mobility-2022/)
 - [A newcomer to AI data labeling, Encord looks to ride a rising tidal wave](https://techcrunch.com/2022/04/08/a-newcomer-to-ai-data-labeling-encord-looks-to-ride-a-rising-tidal-wave/)
-- [NASA plans to resume crucial Artemis 1 moon mission test on Saturday](https://www.space.com/nasa-resume-artemis-1-moon-mission-test)
-- [Nissan’s first solid-state EV planned for 2028](https://techcrunch.com/2022/04/08/nissans-first-solid-state-ev-planned-for-2028/)
-- [The album you’ve been waiting 24 years for is dropping exclusively on a paid podcasting service](https://techcrunch.com/2022/04/08/the-album-youve-been-waiting-24-years-for-is-dropping-exclusively-on-a-paid-podcasting-service/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
