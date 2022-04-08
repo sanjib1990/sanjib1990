@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Digital diplomacy gets a reboot](https://techcrunch.com/2022/04/08/digital-diplomacy-gets-a-reboot/)
-- [Lucky is bringing brands, retailers together with its take on product merchandising](https://techcrunch.com/2022/04/08/lucky-brands-retailers-product-merchandising/)
-- [Ax-1 private mission to space station: Live updates](https://www.space.com/news/live/ax-1-space-station-mission-updates)
-- [Earth&#39;s layers: Exploring our planet inside and out](https://www.space.com/17777-what-is-earth-made-of.html)
-- [Microsoft seizes domains used by Russian spies to target Ukraine](https://techcrunch.com/2022/04/08/microsoft-seizes-domains-russia-fancy-bear/)
+- [ProtonMail buys email alias startup SimpleLogin](https://techcrunch.com/2022/04/08/proton-buys-simplelogin/)
+- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates)
+- [Startups in 2022 are indeed ‘harder, Better, Faster, stronger’](https://techcrunch.com/2022/04/08/fast-better-startup-2022/)
+- [Didi cancels its trip in South Africa](https://techcrunch.com/2022/04/08/didi-cancels-its-trip-in-south-africa/)
+- [The private Ax-1 astronaut mission heralds an exciting new era in spaceflight &lpar;op-ed&rpar;](https://www.space.com/private-ax1-astronaut-mission-new-era-spaceflight)
 <!-- BLOG-POST-LIST:END -->
 
 ---
