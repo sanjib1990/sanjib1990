@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Digital diplomacy gets a reboot](https://techcrunch.com/2022/04/08/digital-diplomacy-gets-a-reboot/)
+- [Lucky is bringing brands, retailers together with its take on product merchandising](https://techcrunch.com/2022/04/08/lucky-brands-retailers-product-merchandising/)
 - [Ax-1 private mission to space station: Live updates](https://www.space.com/news/live/ax-1-space-station-mission-updates)
-- [Transatlantic data transfers ‘deal in principle’ faces tough legal review](https://techcrunch.com/2022/04/08/edpb-data-tranfers-deal-review/)
-- [Space board game deals 2022](https://www.space.com/space-board-game-deals)
-- [Hubble Space Telescope spots extreme weather on strange alien worlds](https://www.space.com/hubble-space-telescope-exoplanet-extreme-weather)
-- [NASA&#39;s Ingenuity helicopter makes its 24th flight on Mars](https://www.space.com/ingenuity-helicopter-24th-mars-flight)
+- [Earth&#39;s layers: Exploring our planet inside and out](https://www.space.com/17777-what-is-earth-made-of.html)
+- [Microsoft seizes domains used by Russian spies to target Ukraine](https://techcrunch.com/2022/04/08/microsoft-seizes-domains-russia-fancy-bear/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
