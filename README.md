@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [VCs, unicorn founders back Truora, a startup that helps LatAm businesses onboard users via WhatsApp](https://techcrunch.com/2022/04/08/vcs-unicorn-founders-pump-15m-into-truora-a-colombian-startup-that-helps-companies-onboard-users-via-whatsapp/)
-- [SpaceX launches Ax-1, the 1st fully private astronaut mission to the space station](https://www.space.com/spacex-ax1-mission-launch-success)
-- [Ax-1 private mission to space station: Live updates](https://www.space.com/news/live/ax-1-space-station-mission-updates)
-- [Google adds self-repair options for Pixel phones](https://techcrunch.com/2022/04/08/google-adds-self-repair-options-for-pixel-phones/)
-- [Discover how Samsung NEXT and Microsoft for Startups can help your business at TC Early Stage](https://techcrunch.com/2022/04/08/discover-how-samsung-next-and-microsoft-for-startups-can-help-your-startup-at-tc-early-stage/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [Snap up a huge $500 discount on the Panasonic Lumix S1H camera](https://www.space.com/panasonic-lumix-s1h-amazon-deal-save-500-dollars)
+- [Study of Apple’s ATT impact highlights competition concerns](https://techcrunch.com/2022/04/08/apple-att-impact-study/)
+- [Sony 20mm f/1.8 G lens review](https://www.space.com/sony-20mm-f18-g-lens-review)
+- [Heliocentrism: Definition, origin and model](https://www.space.com/heliocentrism)
 <!-- BLOG-POST-LIST:END -->
 
 ---
