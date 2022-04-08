@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [ProtonMail buys email alias startup SimpleLogin](https://techcrunch.com/2022/04/08/proton-buys-simplelogin/)
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates)
-- [Startups in 2022 are indeed ‘harder, Better, Faster, stronger’](https://techcrunch.com/2022/04/08/fast-better-startup-2022/)
-- [Didi cancels its trip in South Africa](https://techcrunch.com/2022/04/08/didi-cancels-its-trip-in-south-africa/)
-- [The private Ax-1 astronaut mission heralds an exciting new era in spaceflight &lpar;op-ed&rpar;](https://www.space.com/private-ax1-astronaut-mission-new-era-spaceflight)
+- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
+- [Ax-1 private mission to space station: Live updates](https://www.space.com/news/live/ax-1-space-station-mission-updates)
+- [Sequoia-backed SwooshTransfer raises millions of dollars to automate cross-border payments](https://techcrunch.com/2022/04/08/swooshtransfer-angel-funding-sequoia/)
+- [James Webb Space Telescope&#39;s most heat-sensitive instrument continues cooling to absolute zero](https://www.space.com/james-webb-space-telescope-instrument-cooling-update)
+- [Just how much has late-stage venture capital slowed?](https://techcrunch.com/2022/04/08/just-how-much-has-late-stage-venture-capital-slowed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
