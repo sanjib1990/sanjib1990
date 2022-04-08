@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [April 8, 1964: 1st test flight of Gemini spacecraft](https://www.space.com/39251-on-this-day-in-space.html)
-- [SpaceX launching private Ax-1 astronaut mission today: Watch it live](https://www.space.com/spacex-axiom-space-ax-1-launch-today-watch-live)
-- [Elon Musk promises widespread rollout of Tesla FSD beta this year](https://techcrunch.com/2022/04/07/elon-musk-promises-widespread-rollout-of-tesla-fsd-beta-this-year/)
-- [Brilliant Planet is running algae farms to pull carbon out of the air](https://techcrunch.com/2022/04/07/brilliant-planet-series-a/)
-- [Twitter launches improved alt text accessibility features globally](https://techcrunch.com/2022/04/07/twitter-alt-text-badge-image-description/)
+- [Hubble Space Telescope spots extreme weather on strange alien worlds](https://www.space.com/hubble-space-telescope-exoplanet-extreme-weather)
+- [NASA&#39;s Ingenuity helicopter makes its 24th flight on Mars](https://www.space.com/ingenuity-helicopter-24th-mars-flight)
+- [We&#39;re two years away from the Great North American Solar Eclipse of 2024!](https://www.space.com/great-north-american-eclipse-2024-two-years-away)
+- [The private Ax-1 astronaut mission heralds an exciting new era in spaceflight &lpar;op-ed&rpar;](https://www.space.com/news/the-private-ax-1-astronaut-mission-heralds-an-exciting-new-era-in-spaceflight-op-ed)
+- [It’s time to address the role of New Space firms in global security](https://techcrunch.com/2022/04/08/its-time-to-address-the-role-of-new-space-firms-in-global-security/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
