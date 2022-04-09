@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Best stargazing tents: keep warm and dry when skywatching](https://www.space.com/best-stargazing-tents)
-- [Chinese rocket photobombs aurora with spinning orb of light](https://www.space.com/alaska-spinning-orb-of-light)
 - [SpaceX Ax-1 private mission to space station: Live updates](https://www.space.com/news/live/ax-1-space-station-mission-updates)
-- [See three planets, two stars and the moon share the night sky on April 9](https://www.space.com/planetary-trio-shines-moon-stars-april-2022)
-- [The answers to real estate’s climate tech questions may be all around us](https://techcrunch.com/2022/04/08/the-answers-to-real-estates-climate-tech-questions-may-be-all-around-us/)
+- [How to watch SpaceX launch the private Ax-1 space station mission online](https://www.space.com/private-ax-1-space-station-mission-webcasts)
+- [Is it time to send another message to intelligent aliens? Some scientists think so.](https://www.space.com/new-seti-message-alien-debate)
+- [Private Ax-1 astronauts on SpaceX capsule to mint NFT artwork in space](https://www.space.com/spacex-ax1-astronauts-digital-artwork-in-space-nfts)
+- [Best stargazing tents: keep warm and dry when skywatching](https://www.space.com/best-stargazing-tents)
 <!-- BLOG-POST-LIST:END -->
 
 ---
