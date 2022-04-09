@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA delays crucial Artemis 1 moon mission test to April 12](https://www.space.com/nasa-delays-artemis-1-moon-mission-test-again)
 - [SpaceX Ax-1 private mission to space station: Live updates](https://www.space.com/news/live/ax-1-space-station-mission-updates)
 - [Disinformation demands a collective defense](https://techcrunch.com/2022/04/09/disinformation-demands-a-collective-defense/)
 - [Inside Mercedes’ plan to deliver hands-free driving to the masses](https://techcrunch.com/2022/04/09/test-mercedes-benz-hands-free-driving-technology/)
 - [Is social media &lpar;re&rpar;traumatizing you?](https://techcrunch.com/2022/04/09/is-social-media-retraumatizing-you/)
-- [Government action on tech innovation is good news for startups](https://techcrunch.com/2022/04/09/government-action-on-tech-innovation-is-good-news-for-startups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
