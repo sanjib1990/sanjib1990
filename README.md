@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Disinformation demands a collective defense](https://techcrunch.com/2022/04/09/disinformation-demands-a-collective-defense/)
+- [Inside Mercedes’ plan to deliver hands-free driving to the masses](https://techcrunch.com/2022/04/09/test-mercedes-benz-hands-free-driving-technology/)
+- [SpaceX Ax-1 private mission to space station: Live updates](https://www.space.com/news/live/ax-1-space-station-mission-updates)
 - [Is social media &lpar;re&rpar;traumatizing you?](https://techcrunch.com/2022/04/09/is-social-media-retraumatizing-you/)
 - [Government action on tech innovation is good news for startups](https://techcrunch.com/2022/04/09/government-action-on-tech-innovation-is-good-news-for-startups/)
-- [Crypto is altering the investing landscape for even the most disciplined VCs](https://techcrunch.com/2022/04/09/crypto-cap-table-venture/)
-- [SpaceX Ax-1 private mission to space station: Live updates](https://www.space.com/news/live/ax-1-space-station-mission-updates)
-- [On This Day In Space: April 9, 1959: NASA introduces the &#39;Mercury 7&#39; astronauts](https://www.space.com/39251-on-this-day-in-space.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
