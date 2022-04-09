@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Crypto’s latest disruption may be investor expectations](https://techcrunch.com/2022/04/09/web-2-0-got-the-memo-about-valuations-coming-down-and-web3-has-not/)
 - [Will Apple build its own blockchain?](https://techcrunch.com/2022/04/09/will-apple-build-its-own-blockchain/)
 - [This Week in Apps: Elon joins Twitter’s board, Apple’s subscriptions pilot, WWDC stays online](https://techcrunch.com/2022/04/09/this-week-in-apps-elon-joins-twitters-board-apples-subscriptions-pilot-wwdc-stays-online/)
 - [Elon Musk, dual-class shares, and who owns the future](https://techcrunch.com/2022/04/09/elon-musk-dual-class-shares-and-who-owns-the-future/)
 - [Ax-1, the first private crew to space station, welcomed aboard with astronaut pins](https://www.space.com/spacex-axiom-1-space-station-crew-arrival)
-- [NASA delays crucial Artemis 1 moon mission test to April 12](https://www.space.com/nasa-delays-artemis-1-moon-mission-test-again)
 <!-- BLOG-POST-LIST:END -->
 
 ---
