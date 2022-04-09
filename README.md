@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The answers to real estate’s climate tech questions may be all around us](https://techcrunch.com/2022/04/08/the-answers-to-real-estates-climate-tech-questions-may-be-all-around-us/)
+- [Landline wants to fully check you in for your flight — far from the airport](https://techcrunch.com/2022/04/08/landline-wants-to-fully-check-you-in-for-your-flight-far-from-the-airport/)
 - [Hospital mascot, not Disney rabbit, floats on Ax-1 mission as zero-g indicator](https://www.space.com/axiom-ax1-zero-g-indicator-caramel-dog)
 - [See Venus, Mars and Saturn shine with bright stars before dawn Saturday](https://www.space.com/saturn)
 - [Daily Crunch: After 16 months on the job, Better.com CTO Diane Yu steps down](https://techcrunch.com/2022/04/08/daily-crunch-after-16-months-on-the-job-better-com-cto-diane-yu-steps-down/)
-- [What Glossier got wrong](https://techcrunch.com/2022/04/08/what-glossier-got-wrong/)
-- [TechCrunch+ roundup: Psychedelic biotech, Gogoro’s SPAC, H-1Bs for Ukrainians](https://techcrunch.com/2022/04/08/techcrunch-roundup-psychedelic-biotech-gogoros-spac-h-1bs-for-ukrainians/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
