@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ax-1 private mission to space station: Live updates](https://www.space.com/news/live/ax-1-space-station-mission-updates)
 - [See three planets, two stars and the moon share the night sky on April 9](https://www.space.com/planetary-trio-shines-moon-stars-april-2022)
 - [The answers to real estate’s climate tech questions may be all around us](https://techcrunch.com/2022/04/08/the-answers-to-real-estates-climate-tech-questions-may-be-all-around-us/)
 - [Landline wants to fully check you in for your flight — far from the airport](https://techcrunch.com/2022/04/08/landline-wants-to-fully-check-you-in-for-your-flight-far-from-the-airport/)
 - [Hospital mascot, not Disney rabbit, floats on Ax-1 mission as zero-g indicator](https://www.space.com/axiom-ax1-zero-g-indicator-caramel-dog)
-- [See Venus, Mars and Saturn shine with bright stars before dawn Saturday](https://www.space.com/saturn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
