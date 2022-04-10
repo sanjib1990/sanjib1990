@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Coinbase suspends purchase orders in India, removes support for UPI days after launch](https://techcrunch.com/2022/04/10/coinbase-suspends-upi-payments-in-india-days-after-launch/)
 - [This Week In Space Podcast: Episode 6 - Space anniversaries](https://www.space.com/this-week-in-space-podcast-twit)
 - [Crypto’s latest disruption may be investor expectations](https://techcrunch.com/2022/04/09/web-2-0-got-the-memo-about-valuations-coming-down-and-web3-has-not/)
 - [Will Apple build its own blockchain?](https://techcrunch.com/2022/04/09/will-apple-build-its-own-blockchain/)
 - [This Week in Apps: Elon joins Twitter’s board, Apple’s subscriptions pilot, WWDC stays online](https://techcrunch.com/2022/04/09/this-week-in-apps-elon-joins-twitters-board-apples-subscriptions-pilot-wwdc-stays-online/)
-- [Elon Musk, dual-class shares, and who owns the future](https://techcrunch.com/2022/04/09/elon-musk-dual-class-shares-and-who-owns-the-future/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
