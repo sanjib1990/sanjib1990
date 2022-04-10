@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Coinbase suspends purchase orders in India, removes support for UPI days after launch](https://techcrunch.com/2022/04/10/coinbase-suspends-upi-payments-in-india-days-after-launch/)
+- [Coinbase suspends buy orders in India days after launch](https://techcrunch.com/2022/04/10/coinbase-suspends-upi-payments-in-india-days-after-launch/)
 - [This Week In Space Podcast: Episode 6 - Space anniversaries](https://www.space.com/this-week-in-space-podcast-twit)
 - [Crypto’s latest disruption may be investor expectations](https://techcrunch.com/2022/04/09/web-2-0-got-the-memo-about-valuations-coming-down-and-web3-has-not/)
 - [Will Apple build its own blockchain?](https://techcrunch.com/2022/04/09/will-apple-build-its-own-blockchain/)
