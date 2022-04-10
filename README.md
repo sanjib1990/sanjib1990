@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Coinbase suspends buy orders in India days after launch](https://techcrunch.com/2022/04/10/coinbase-suspends-upi-payments-in-india-days-after-launch/)
-- [This Week In Space Podcast: Episode 6 - Space anniversaries](https://www.space.com/this-week-in-space-podcast-twit)
-- [Crypto’s latest disruption may be investor expectations](https://techcrunch.com/2022/04/09/web-2-0-got-the-memo-about-valuations-coming-down-and-web3-has-not/)
-- [Will Apple build its own blockchain?](https://techcrunch.com/2022/04/09/will-apple-build-its-own-blockchain/)
-- [This Week in Apps: Elon joins Twitter’s board, Apple’s subscriptions pilot, WWDC stays online](https://techcrunch.com/2022/04/09/this-week-in-apps-elon-joins-twitters-board-apples-subscriptions-pilot-wwdc-stays-online/)
+- [The US needs a tech doctrine](https://techcrunch.com/2022/04/10/the-us-needs-a-tech-doctrine/)
+- [Is the origin of dark matter gravity itself?](https://www.space.com/dark-matter-origin-gravity-theory)
+- [&#39;Magnetic anomalies&#39; may be protecting the moon&#39;s ice from melting](https://www.space.com/moon-ice-magnetic-field)
+- [How do planets form? A &#39;baby Jupiter&#39; hundreds of light-years away offers new clues](https://www.space.com/how-do-planets-form-new-clues)
+- [Stellar jets twist and turn through space in entrancing new photos](https://www.space.com/stellar-jets-twist-through-space-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
