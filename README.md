@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mayfield’s Arvind Gupta discusses startup fundraising during a downturn](https://techcrunch.com/2022/04/10/mayfields-arvind-gupta-discusses-startup-fundraising-during-a-downturn/)
 - [The US needs a tech doctrine](https://techcrunch.com/2022/04/10/the-us-needs-a-tech-doctrine/)
 - [Is the origin of dark matter gravity itself?](https://www.space.com/dark-matter-origin-gravity-theory)
 - [&#39;Magnetic anomalies&#39; may be protecting the moon&#39;s ice from melting](https://www.space.com/moon-ice-magnetic-field)
 - [How do planets form? A &#39;baby Jupiter&#39; hundreds of light-years away offers new clues](https://www.space.com/how-do-planets-form-new-clues)
-- [Stellar jets twist and turn through space in entrancing new photos](https://www.space.com/stellar-jets-twist-through-space-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
