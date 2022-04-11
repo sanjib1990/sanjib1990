@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Autonomous Cruise car encounter with police raises policy questions](https://techcrunch.com/2022/04/11/autonomous-cruise-car-encounter-with-police-raises-policy-questions/)
+- [Kickstarter will now hide reported comments pending review](https://techcrunch.com/2022/04/11/kickstarter-will-now-hide-reported-comments-pending-review/)
 - [Ex-Apple employee takes Face ID privacy complaint to Europe](https://techcrunch.com/2022/04/11/gobbler-complaint-europe/)
 - [Why should you care about Unreal Engine 5?](https://techcrunch.com/2022/04/11/what-is-epic-games-unreal-5/)
 - [‘Stranger Things’ fans can explore the Upside Down in new NYC experience](https://techcrunch.com/2022/04/11/stranger-things-fans-can-explore-the-upside-down-in-new-nyc-experience/)
-- [Best lightsabers 2022: Toys, replicas, and props](https://www.space.com/best-lightsabers)
-- [Amazon expands its custom-fit clothing service ‘Made for You’ with athletic tees](https://techcrunch.com/2022/04/11/amazon-expands-its-custom-fit-clothing-service-made-for-you-with-athletic-tees/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
