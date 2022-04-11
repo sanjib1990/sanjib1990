@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Windmill wants to drag window AC units, kicking and screaming, into 2022](https://techcrunch.com/2022/04/11/windmill-series-a/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [Perforce adds infrastructure automation tooling with Puppet acquisition](https://techcrunch.com/2022/04/11/perforce-adds-infrastructure-automation-tooling-with-puppet-acquisition/)
 - [On This Day In Space: April 11, 1960: &#39;Project Ozma&#39; begins search for alien life](https://www.space.com/39251-on-this-day-in-space.html)
 - [What are Dobsonian Telescopes?](https://www.space.com/what-are-dobsonian-telescopes)
-- [A private Ax-1 astronaut will test making a liquid telescope mirror in space](https://www.space.com/liquid-telescope-construction-in-space-ax-1)
-- [Spaceport construction set to begin on UK&#39;s northernmost island](https://www.space.com/saxavord-scotland-spaceport-construction-begins)
 <!-- BLOG-POST-LIST:END -->
 
 ---
