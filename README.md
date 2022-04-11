@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Stenn banks $50M on a $900M valuation for a platform to finance SMBs that trade internationally](https://techcrunch.com/2022/04/11/stenn-banks-50m-on-a-900m-valuation-for-a-platform-to-finance-smbs-that-trade-internationally/)
+- [China’s game engine Cocos raises $50M, goes beyond games](https://techcrunch.com/2022/04/11/cocos-engine-series-b-50-million-china/)
 - [DeFi giant Uniswap launches venture arm to invest in other crypto companies](https://techcrunch.com/2022/04/11/defi-giant-uniswap-launches-venture-arm-to-invest-in-other-crypto-companies/)
-- [A look at six new funds begs the question: is a slowdown really coming?](https://techcrunch.com/2022/04/11/a-look-at-six-new-funds-begs-the-question-is-a-slowdown-really-coming/)
+- [A look at six new funds begs the question: Is a slowdown really coming?](https://techcrunch.com/2022/04/11/a-look-at-six-new-funds-begs-the-question-is-a-slowdown-really-coming/)
 - [Autonomous Cruise car encounter with police raises policy questions](https://techcrunch.com/2022/04/11/autonomous-cruise-car-encounter-with-police-raises-policy-questions/)
-- [Kickstarter will now hide reported comments pending review](https://techcrunch.com/2022/04/11/kickstarter-will-now-hide-reported-comments-pending-review/)
-- [Ex-Apple employee takes Face ID privacy complaint to Europe](https://techcrunch.com/2022/04/11/gobbler-complaint-europe/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
