@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bigger sound in smaller packages, as Sonos buys Mayht for $100M](https://techcrunch.com/2022/04/11/sonos-buys-mayht/)
+- [China launches new ocean surveillance radar satellite &lpar;video&rpar;](https://www.space.com/china-launches-ocean-surveillance-satellite-gaofen3)
 - [Apple debuts a new true crime standalone original podcast called ‘Run, Bambi, Run’](https://techcrunch.com/2022/04/11/apple-true-crime-standalone-original-podcast-run-bambi-run/)
-- [&#39;For All Mankind&#39; aims for Mars as season 3 lands June 10 on Apple TV+](https://www.space.com/for-all-mankind-season-3-teaser-appletv)
+- [&#39;For All Mankind&#39; aims for Mars as season 3 lands June 10 on Apple TV Plus](https://www.space.com/for-all-mankind-season-3-teaser-appletv)
 - [The first solar eclipse of 2022 is coming April 30: here&#39;s what you should know](https://www.space.com/first-solar-eclipse-april-2022-guide)
-- [Netflix adds a ‘Two Thumbs Up’ button in effort to learn what users love, not just like](https://techcrunch.com/2022/04/11/netflix-adds-a-two-thumbs-up-button-in-effort-to-learn-what-users-love-not-just-like/)
-- [Demo at TC Sessions: Mobility 2022, where tremendous value meets huge opportunities](https://techcrunch.com/2022/04/11/demo-at-tc-sessions-mobility-2022-where-tremendous-value-meets-huge-opportunities/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
