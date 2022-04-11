@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [An interstellar object exploded over Earth in 2014, declassified government data reveal](https://www.space.com/first-interstellar-object-detected-classified-data)
-- [Major space companies pledge to boost diversity and publicly share hard numbers](https://techcrunch.com/2022/04/11/major-space-companies-pledge-to-boost-diversity-and-publicly-share-hard-numbers/)
-- [Area 51: What is it and what goes on there?](https://www.space.com/area-51-what-is-it)
-- [Start your day with a panic attack, courtesy of the Doomsday Alarm Clock](https://techcrunch.com/2022/04/11/good-morning-now-curl-up-in-the-fetal-position/)
-- [Meta subpoenaed tiny rival Dispo to prove it isn’t a monopoly](https://techcrunch.com/2022/04/11/meta-dispo-ftc-case-subpoena/)
+- [A sign-stealing scandal rocked baseball, now this hardware is here to help](https://techcrunch.com/2022/04/11/a-sign-stealing-scandal-rocked-baseball-now-this-hardware-is-here-to-help/)
+- [Daily Crunch: FDA clears Fitbit algorithm that passively scans for signs of AFib](https://techcrunch.com/2022/04/11/daily-crunch-fda-clears-fitbit-algorithm-that-passively-scans-for-signs-of-afib/)
+- [NASA scaling back Artemis 1 moon mission test due to faulty valve](https://www.space.com/nasa-scaling-back-artemis-1-moon-mission-test)
+- [Best mobile apps to identify space stations and satellites](https://www.space.com/41678-spotting-identifying-satellites-best-mobile-apps.html)
+- [Meta’s Horizon Worlds is testing in-app purchases and creator bonuses](https://techcrunch.com/2022/04/11/meta-horizon-worlds-creator-monetization-in-app-purchases/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
