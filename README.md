@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Did we learn anything from the Elon-Twitter brouhaha?](https://techcrunch.com/2022/04/11/did-we-learn-anything-from-the-elon-twitter-brouhaha/)
-- [Traeger brings touchscreens, wireless thermometers to latest grills as the company forecasts tough 2022](https://techcrunch.com/2022/04/11/traeger-brings-touchscreens-wireless-thermometers-to-latest-grills-as-the-company-forecasts-tough-2022/)
-- [Panasonic says Canadian operations hit by ‘targeted’ cyberattack](https://techcrunch.com/2022/04/11/panasonic-canada-ransomware/)
-- [The Warner Bros.-Discovery deal has officially closed](https://techcrunch.com/2022/04/11/the-warner-bros-discovery-deal-has-officially-closed/)
-- [Branch carves out new furniture collection as folks return to the office](https://techcrunch.com/2022/04/11/branch-series-a-furniture-office/)
+- [Chipping away at the problems of reproductive healthcare, one patient at a time](https://techcrunch.com/2022/04/11/kindbody-tc-wider-issues/)
+- [YouTube tweets iOS 15+ users will get picture-in-picture feature ‘in a matter of days’](https://techcrunch.com/2022/04/11/youtube-tweets-ios-15-users-will-get-picture-in-picture-feature-in-a-matter-of-days/)
+- [Unpacking SailPoint’s $6.9B sale to private equity firm Thoma Bravo](https://techcrunch.com/2022/04/11/unpacking-sailpoints-6-9b-sale-to-private-equity-firm-thoma-bravo/)
+- [Fitbit gets FDA approval for AFib detecting algorithm](https://techcrunch.com/2022/04/11/fitbit-gets-fda-approval-for-afib-detecting-algorithm/)
+- [Neptune is cooling down and scientists don&#39;t know why](https://www.space.com/neptune-cooling-down-temperature-mystery)
 <!-- BLOG-POST-LIST:END -->
 
 ---
