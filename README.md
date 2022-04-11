@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Bigger sound in smaller packages, as Sonos buys Mayht for $100M](https://techcrunch.com/2022/04/11/sonos-buys-mayht/)
-- [China launches new ocean surveillance radar satellite &lpar;video&rpar;](https://www.space.com/china-launches-ocean-surveillance-satellite-gaofen3)
-- [Apple debuts a new true crime standalone original podcast called ‘Run, Bambi, Run’](https://techcrunch.com/2022/04/11/apple-true-crime-standalone-original-podcast-run-bambi-run/)
-- [&#39;For All Mankind&#39; aims for Mars as season 3 lands June 10 on Apple TV Plus](https://www.space.com/for-all-mankind-season-3-teaser-appletv)
-- [The first solar eclipse of 2022 is coming April 30: here&#39;s what you should know](https://www.space.com/first-solar-eclipse-april-2022-guide)
+- [Ex-Apple employee takes Face ID privacy complaint to Europe](https://techcrunch.com/2022/04/11/gobbler-complaint-europe/)
+- [Why should you care about Unreal Engine 5?](https://techcrunch.com/2022/04/11/what-is-epic-games-unreal-5/)
+- [‘Stranger Things’ fans can explore the Upside Down in new NYC experience](https://techcrunch.com/2022/04/11/stranger-things-fans-can-explore-the-upside-down-in-new-nyc-experience/)
+- [Best lightsabers 2022: Toys, replicas, and props](https://www.space.com/best-lightsabers)
+- [Amazon expands its custom-fit clothing service ‘Made for You’ with athletic tees](https://techcrunch.com/2022/04/11/amazon-expands-its-custom-fit-clothing-service-made-for-you-with-athletic-tees/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
