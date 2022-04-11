@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html)
-- [In major reversal, Elon Musk is not joining Twitter board](https://techcrunch.com/2022/04/10/elon-musk-is-not-joining-twitter-board-ceo-parag-agrawal-says/)
-- [Arrival’s Avinash Rugoobur to reveal EV built with Uber at TC Sessions: Mobility 2022](https://techcrunch.com/2022/04/10/arrivals-avinash-rugoobur-to-reveal-ev-built-with-uber-at-tc-sessions-mobility-2022/)
-- [Deep Science: Combining vision and language could be the key to more capable AI](https://techcrunch.com/2022/04/10/deep-science-combining-vision-and-language-could-be-the-key-to-more-capable-ai/)
-- [Fintech Roundup: How going Fast and furious can ruin your startup](https://techcrunch.com/2022/04/10/fintech-roundup-fast-and-better-com-show-us-that-humility-is-an-underrated-ceo-trait/)
+- [Perforce adds infrastructure automation tooling with Puppet acquisition](https://techcrunch.com/2022/04/11/perforce-adds-infrastructure-automation-tooling-with-puppet-acquisition/)
+- [On This Day In Space: April 11, 1960: &#39;Project Ozma&#39; begins search for alien life](https://www.space.com/39251-on-this-day-in-space.html)
+- [What are Dobsonian Telescopes?](https://www.space.com/what-are-dobsonian-telescopes)
+- [A private Ax-1 astronaut will test making a liquid telescope mirror in space](https://www.space.com/liquid-telescope-construction-in-space-ax-1)
+- [Spaceport construction set to begin on UK&#39;s northernmost island](https://www.space.com/saxavord-scotland-spaceport-construction-begins)
 <!-- BLOG-POST-LIST:END -->
 
 ---
