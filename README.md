@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Windmill wants to drag window AC units, kicking and screaming, into 2022](https://techcrunch.com/2022/04/11/windmill-series-a/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [Perforce adds infrastructure automation tooling with Puppet acquisition](https://techcrunch.com/2022/04/11/perforce-adds-infrastructure-automation-tooling-with-puppet-acquisition/)
-- [On This Day In Space: April 11, 1960: &#39;Project Ozma&#39; begins search for alien life](https://www.space.com/39251-on-this-day-in-space.html)
-- [What are Dobsonian Telescopes?](https://www.space.com/what-are-dobsonian-telescopes)
+- [The Warner Bros.-Discovery deal has officially closed](https://techcrunch.com/2022/04/11/the-warner-bros-discovery-deal-has-officially-closed/)
+- [Branch carves out new furniture collection as folks return to the office](https://techcrunch.com/2022/04/11/branch-series-a-furniture-office/)
+- [Tive, a startup developing supply chain visibility tools, raises $54M](https://techcrunch.com/2022/04/11/tive-a-startup-developing-supply-chain-visibility-tools-raises-54m/)
+- [DoorDash launches a discounted ‘DashPass’ subscription plan for college students](https://techcrunch.com/2022/04/11/doordash-discounted-dashpass-subscription-college-students/)
+- [The Station: Calling all mobility founders, an unexpected Tesla Cyber Rodeo cameo and Gogoro’s public debut](https://techcrunch.com/2022/04/11/the-station-calling-all-mobility-founders-an-unexpected-tesla-cyber-rodeo-cameo-and-gogoros-public-debut/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
