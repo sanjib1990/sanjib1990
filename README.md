@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Did we learn anything from the Elon-Twitter brouhaha?](https://techcrunch.com/2022/04/11/did-we-learn-anything-from-the-elon-twitter-brouhaha/)
+- [Traeger brings touchscreens, wireless thermometers to latest grills as the company forecasts tough 2022](https://techcrunch.com/2022/04/11/traeger-brings-touchscreens-wireless-thermometers-to-latest-grills-as-the-company-forecasts-tough-2022/)
+- [Panasonic says Canadian operations hit by ‘targeted’ cyberattack](https://techcrunch.com/2022/04/11/panasonic-canada-ransomware/)
 - [The Warner Bros.-Discovery deal has officially closed](https://techcrunch.com/2022/04/11/the-warner-bros-discovery-deal-has-officially-closed/)
 - [Branch carves out new furniture collection as folks return to the office](https://techcrunch.com/2022/04/11/branch-series-a-furniture-office/)
-- [Tive, a startup developing supply chain visibility tools, raises $54M](https://techcrunch.com/2022/04/11/tive-a-startup-developing-supply-chain-visibility-tools-raises-54m/)
-- [DoorDash launches a discounted ‘DashPass’ subscription plan for college students](https://techcrunch.com/2022/04/11/doordash-discounted-dashpass-subscription-college-students/)
-- [The Station: Calling all mobility founders, an unexpected Tesla Cyber Rodeo cameo and Gogoro’s public debut](https://techcrunch.com/2022/04/11/the-station-calling-all-mobility-founders-an-unexpected-tesla-cyber-rodeo-cameo-and-gogoros-public-debut/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
