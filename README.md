@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Elon Musk is not joining Twitter board, CEO Parag Agrawal says](https://techcrunch.com/2022/04/10/elon-musk-is-not-joining-twitter-board-ceo-parag-agrawal-says/)
+- [In major reversal, Elon Musk is not joining Twitter board](https://techcrunch.com/2022/04/10/elon-musk-is-not-joining-twitter-board-ceo-parag-agrawal-says/)
 - [Arrival’s Avinash Rugoobur to reveal EV built with Uber at TC Sessions: Mobility 2022](https://techcrunch.com/2022/04/10/arrivals-avinash-rugoobur-to-reveal-ev-built-with-uber-at-tc-sessions-mobility-2022/)
 - [Deep Science: Combining vision and language could be the key to more capable AI](https://techcrunch.com/2022/04/10/deep-science-combining-vision-and-language-could-be-the-key-to-more-capable-ai/)
 - [Fintech Roundup: How going Fast and furious can ruin your startup](https://techcrunch.com/2022/04/10/fintech-roundup-fast-and-better-com-show-us-that-humility-is-an-underrated-ceo-trait/)
