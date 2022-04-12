@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Sterling Road takes a coaching-first approach to VC investing](https://techcrunch.com/2022/04/12/sterling-road-fund-3/)
-- [&#39;Galactic spiderweb&#39; is dotted with feeding black holes &lpar;photo&rpar;](https://www.space.com/galactic-spiderweb-hungry-black-holes-image)
-- [Spotify brings live audio shows to its main app, rebrands companion app Greenroom as ‘Spotify Live’](https://techcrunch.com/2022/04/12/spotify-brings-live-audio-shows-to-its-main-app-rebrands-companion-app-greenroom-as-spotify-live/)
-- [FIFA gets into the streaming business with the new soccer platform FIFA+](https://techcrunch.com/2022/04/12/fifa-gets-into-the-streaming-business-with-the-new-soccer-platform-fifa/)
-- [TikTok launches its own AR development platform, Effect House](https://techcrunch.com/2022/04/12/tiktok-launches-its-own-ar-development-platform-effect-house/)
+- [Register for free and explore data trends at Data and the Culture Transformation](https://techcrunch.com/2022/04/12/register-for-free-and-explore-fast-changing-data-trends-at-data-and-the-culture-transformation/)
+- [Blue-chip NFT owners explore alternative uses as sales decline](https://techcrunch.com/2022/04/12/blue-chip-nft-owners-explore-alternative-uses-as-sales-decline/)
+- [China&#39;s Long March rocket family: History and photos](https://www.space.com/china-long-march-rockets-family)
+- [Grab one of the last remaining tickets to TC Early Stage](https://techcrunch.com/2022/04/12/grab-one-of-the-last-remaining-tickets-to-tc-early-stage/)
+- [HacWare lands $2.3M to expand cybersecurity awareness training](https://techcrunch.com/2022/04/12/hacware-cybersecurity-training/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
