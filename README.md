@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Honda to launch 30 EV models by 2030](https://techcrunch.com/2022/04/11/honda-to-launch-30-ev-models-by-2030/)
 - [SoftBank reverses LatAm plan with new early-stage spinout, Upload Ventures](https://techcrunch.com/2022/04/11/softbank-latam-upload-ventures-marcelo-claure/)
 - [PayMaya owner Voyager Innovations raises $210M at a valuation of $1.4B](https://techcrunch.com/2022/04/11/paymaya-owner-voyager-innovations-raises-210m-at-a-valuation-of-1-4b/)
 - [Demo at TC Sessions: Mobility 2022, where tremendous value meets huge opportunities](https://techcrunch.com/2022/04/11/demo-at-tc-sessions-mobility-2022-where-tremendous-value-meets-huge-opportunities/)
 - [A sign-stealing scandal rocked baseball, this hardware is here to help](https://techcrunch.com/2022/04/11/a-sign-stealing-scandal-rocked-baseball-now-this-hardware-is-here-to-help/)
-- [Daily Crunch: FDA clears Fitbit algorithm that passively scans for signs of AFib](https://techcrunch.com/2022/04/11/daily-crunch-fda-clears-fitbit-algorithm-that-passively-scans-for-signs-of-afib/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
