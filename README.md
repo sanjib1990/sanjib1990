@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter rolls back change, restoring the text of deleted embedded tweets](https://techcrunch.com/2022/04/11/twitter-reverts-change-to-deleted-embedded-tweets/)
+- [Aemi eases the challenges of social commerce in Vietnam](https://techcrunch.com/2022/04/11/aemi-eases-the-challenges-of-social-commerce-in-vietnam/)
 - [Honda to launch 30 EV models by 2030](https://techcrunch.com/2022/04/11/honda-to-launch-30-ev-models-by-2030/)
 - [SoftBank reverses LatAm plan with new early-stage spinout, Upload Ventures](https://techcrunch.com/2022/04/11/softbank-latam-upload-ventures-marcelo-claure/)
 - [PayMaya owner Voyager Innovations raises $210M at a valuation of $1.4B](https://techcrunch.com/2022/04/11/paymaya-owner-voyager-innovations-raises-210m-at-a-valuation-of-1-4b/)
-- [Demo at TC Sessions: Mobility 2022, where tremendous value meets huge opportunities](https://techcrunch.com/2022/04/11/demo-at-tc-sessions-mobility-2022-where-tremendous-value-meets-huge-opportunities/)
-- [A sign-stealing scandal rocked baseball, this hardware is here to help](https://techcrunch.com/2022/04/11/a-sign-stealing-scandal-rocked-baseball-now-this-hardware-is-here-to-help/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
