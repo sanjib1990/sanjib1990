@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Grain lands $16M led by Tiger Global to turn virtual meetings into ‘libraries’](https://techcrunch.com/2022/04/12/grain-lands-16m-led-by-tiger-global-to-turn-virtual-meetings-into-libraries/)
-- [Cruise expands Walmart autonomous delivery pilot in Arizona](https://techcrunch.com/2022/04/12/cruise-expands-walmart-autonomous-delivery-pilot-in-arizona/)
+- [SpaceX Ax-1 private mission to space station: Live updates](https://www.space.com/news/live/ax-1-space-station-mission-updates)
+- [NASA aiming for big 2023 thanks to generous budget request](https://www.space.com/nasa-2023-plans-federal-budget-request)
+- [Ukraine invasion&#39;s impacts on space exploration: Live updates](https://www.space.com/news/live/russia-ukraine-invasion-space-impacts-updates)
 - [&#39;Dead sunspot&#39; launches ball of plasma toward Earth](https://www.space.com/dead-sunspot-coronal-mass-ejection-toward-earth)
 - [Clubhouse begins testing an in-room gaming feature](https://techcrunch.com/2022/04/12/clubhouse-in-room-gaming-feature/)
-- [Telescope deal: get $85 off the Celestron AstroMaster 70AZ on Amazon](https://www.space.com/celestron-astromaster-telescopes-discounts-on-amazon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
