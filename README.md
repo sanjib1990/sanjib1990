@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Autonomous robots used in hundreds of hospitals at risk of remote hijacks](https://techcrunch.com/2022/04/12/aethon-robots-hospitals-hijacks/)
+- [Bosch picks up Five.ai after the self-driving startup pivoted to B2B and then put itself up for sale](https://techcrunch.com/2022/04/12/bosch-picks-up-five-ai-after-the-self-driving-startup-that-pivoted-to-b2b-put-itself-up-for-sale/)
 - [61st anniversary of human spaceflight marred by Russian invasion of Ukraine](https://www.space.com/61st-anniversary-human-spaceflight-russia-ukraine-invasion)
 - [Artemis moon program will boost science and private spaceflight, NASA says](https://www.space.com/artemis-moon-program-science-private-spaceflight)
 - [Egypt’s Pylon gets $19M to scale software for water and electricity distribution companies](https://techcrunch.com/2022/04/12/egypts-pylon-gets-19m-to-scale-software-for-water-and-electricity-distribution-companies/)
-- [Choco gets its horn amid mission to remove food waste from supply chain](https://techcrunch.com/2022/04/11/choco-unicorn-food-waste-supply-chain/)
-- [Twitter rolls back change, restoring the text of deleted embedded tweets](https://techcrunch.com/2022/04/11/twitter-reverts-change-to-deleted-embedded-tweets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
