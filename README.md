@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [iMovie on the iPhone and iPad can now automagically generate movies](https://techcrunch.com/2022/04/12/imovie-on-the-iphone-and-ipad-can-now-automagically-generate-movies/)
-- [Union.ai raises $10M to simplify AI and ML workflow orchestration](https://techcrunch.com/2022/04/12/union-ai-raises-10m-to-simplify-ai-and-ml-workflow-orchestration/)
-- [Plex pulls the plug on podcasts and web shows](https://techcrunch.com/2022/04/12/plex-pulls-the-plug-on-podcasts-and-web-shows/)
-- [Lucid launches a faster, more expensive version of its flagship EV](https://techcrunch.com/2022/04/12/lucid-launches-a-faster-more-expensive-version-of-its-flagship-ev/)
-- [DuckDuckGo launches Mac app in beta](https://techcrunch.com/2022/04/12/duckduckgo-launches-mac-app-in-beta/)
+- [About that Deel ARR number](https://techcrunch.com/2022/04/12/about-that-deel-arr-number/)
+- [Tim Cook uses privacy keynote to attack sideloading](https://techcrunch.com/2022/04/12/tim-cook-iapp-keynote/)
+- [Russia is jamming GPS satellite signals in Ukraine, US Space Force says](https://www.space.com/russia-jamming-gps-signals-ukraine)
+- [&#39;Megacomet&#39; Bernardinelli-Berstein is largest ever seen, Hubble telescope confirms](https://www.space.com/hubble-space-telescope-largest-comet-nucleus-c/2014un271)
+- [NASA photos show the Perseverance Mars rover and tiny Ingenuity helicopter from space](https://www.space.com/nasa-mars-rover-helicopter-mro-hirise-image)
 <!-- BLOG-POST-LIST:END -->
 
 ---
