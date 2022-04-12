@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SoftBank reverses LatAm plan with new early-stage spinout, Upload Ventures](https://techcrunch.com/2022/04/11/softbank-latam-upload-ventures-marcelo-claure/)
+- [PayMaya owner Voyager Innovations raises $210M at a valuation of $1.4B](https://techcrunch.com/2022/04/11/paymaya-owner-voyager-innovations-raises-210m-at-a-valuation-of-1-4b/)
+- [Demo at TC Sessions: Mobility 2022, where tremendous value meets huge opportunities](https://techcrunch.com/2022/04/11/demo-at-tc-sessions-mobility-2022-where-tremendous-value-meets-huge-opportunities/)
 - [A sign-stealing scandal rocked baseball, this hardware is here to help](https://techcrunch.com/2022/04/11/a-sign-stealing-scandal-rocked-baseball-now-this-hardware-is-here-to-help/)
 - [Daily Crunch: FDA clears Fitbit algorithm that passively scans for signs of AFib](https://techcrunch.com/2022/04/11/daily-crunch-fda-clears-fitbit-algorithm-that-passively-scans-for-signs-of-afib/)
-- [NASA scaling back Artemis 1 moon mission test due to faulty valve](https://www.space.com/nasa-scaling-back-artemis-1-moon-mission-test)
-- [Best mobile apps to identify space stations and satellites](https://www.space.com/41678-spotting-identifying-satellites-best-mobile-apps.html)
-- [Meta’s Horizon Worlds is testing in-app purchases and creator bonuses](https://techcrunch.com/2022/04/11/meta-horizon-worlds-creator-monetization-in-app-purchases/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
