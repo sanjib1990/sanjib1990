@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [this BASH script will change your LIFE!! // BASH EP 2](https://www.youtube.com/watch?v=7qd5sqazD7k)
 - [Elixir in 100 Seconds](https://www.youtube.com/watch?v=R7t7zca8SyM)
 - [DALL-E is coming... World-changing AI image generator](https://www.youtube.com/watch?v=alJdw4JDJ4o)
 - [we ran OUT of IP Addresses!!](https://www.youtube.com/watch?v=tcae4TSSMo8)
 - [The Next Generation of OCW is Here!](https://www.youtube.com/watch?v=uuEZdVPFA4E)
-- [I built 10 web apps... with 10 different languages](https://www.youtube.com/watch?v=FQPlEnKav48)
 <!-- YOUTUBE:END -->
 
 ---
