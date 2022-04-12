@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Register for free and explore data trends at Data and the Culture Transformation](https://techcrunch.com/2022/04/12/register-for-free-and-explore-fast-changing-data-trends-at-data-and-the-culture-transformation/)
-- [Blue-chip NFT owners explore alternative uses as sales decline](https://techcrunch.com/2022/04/12/blue-chip-nft-owners-explore-alternative-uses-as-sales-decline/)
-- [China&#39;s Long March rocket family: History and photos](https://www.space.com/china-long-march-rockets-family)
-- [Grab one of the last remaining tickets to TC Early Stage](https://techcrunch.com/2022/04/12/grab-one-of-the-last-remaining-tickets-to-tc-early-stage/)
-- [HacWare lands $2.3M to expand cybersecurity awareness training](https://techcrunch.com/2022/04/12/hacware-cybersecurity-training/)
+- [Snap debuts its fifth cohort of Yellow accelerator startups](https://techcrunch.com/2022/04/12/snap-fifth-cohort-yellow-accelerator-startups/)
+- [Galactic bones inside Milky Way&#39;s skeleton are a magnetic mess](https://www.space.com/random-magnetic-fields-in-galactic-bones)
+- [Hookdeck snares $2.4M seed to help developers manage webhooks](https://techcrunch.com/2022/04/12/hookdeck-snares-2-4m-seed-to-help-developers-manage-webhooks/)
+- [There are no laws protecting kids from being exploited on YouTube — one teen wants to change that](https://techcrunch.com/2022/04/12/family-vlogs-child-influencers-exploitation-youtube-laws/)
+- [Meteor shower guide 2022: Dates and viewing advice](https://www.space.com/39469-best-meteor-showers.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
