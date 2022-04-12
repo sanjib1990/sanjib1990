@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nurse-assisting robotics firm Diligent raises $30M](https://techcrunch.com/2022/04/12/nurse-assisting-robotics-firm-diligent-raises-30m/)
+- [Twitter investor sues Elon Musk over delay in disclosure of stake](https://techcrunch.com/2022/04/12/twitter-investor-sues-elon-musk-over-delay-in-disclosure-of-stake/)
+- [Daily Crunch: Beating ‘other takeover bidders,’ Bosch acquires autonomous driving startup Five.ai](https://techcrunch.com/2022/04/12/daily-crunch-beating-other-takeover-bidders-bosch-acquires-autonomous-driving-startup-five-ai/)
+- [TechCrunch+ roundup: The Kindbody TC-1, Glossier’s mistakes, calculating startup runway](https://techcrunch.com/2022/04/12/techcrunch-roundup-the-kindbody-tc-1-glossiers-mistakes-calculating-startup-runway/)
 - [SpaceX Ax-1 private mission to space station: Live updates](https://www.space.com/news/live/ax-1-space-station-mission-updates)
-- [NASA aiming for big 2023 thanks to generous budget request](https://www.space.com/nasa-2023-plans-federal-budget-request)
-- [Ukraine invasion&#39;s impacts on space exploration: Live updates](https://www.space.com/news/live/russia-ukraine-invasion-space-impacts-updates)
-- [&#39;Dead sunspot&#39; launches ball of plasma toward Earth](https://www.space.com/dead-sunspot-coronal-mass-ejection-toward-earth)
-- [Clubhouse begins testing an in-room gaming feature](https://techcrunch.com/2022/04/12/clubhouse-in-room-gaming-feature/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
