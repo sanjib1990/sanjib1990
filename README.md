@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta’s head of M&amp;A leaves role to join real estate startup Pacaso as COO](https://techcrunch.com/2022/04/12/metas-head-of-ma-leaves-role-to-join-proptech-startup-pacaso-as-coo/)
-- [Jobox is building a bridge between skilled labor, available work](https://techcrunch.com/2022/04/12/jobox-is-building-a-bridge-between-skilled-labor-available-work/)
-- [Product analytics startup Kubit lands $18M in fresh capital](https://techcrunch.com/2022/04/12/product-analytics-startup-kubit-lands-18m-in-fresh-capital/)
-- [PassiveLogic, which creates digital twins of building systems, raises $15M](https://techcrunch.com/2022/04/12/passivelogic-which-creates-digital-twins-of-building-systems-raises-15m/)
-- [EvolutionIQ secures $21M to streamline insurance claims processing with AI](https://techcrunch.com/2022/04/12/evolutioniq-secures-21m-to-streamline-insurance-claims-processing-with-ai/)
+- [Sterling Road takes a coaching-first approach to VC investing](https://techcrunch.com/2022/04/12/sterling-road-fund-3/)
+- [&#39;Galactic spiderweb&#39; is dotted with feeding black holes &lpar;photo&rpar;](https://www.space.com/galactic-spiderweb-hungry-black-holes-image)
+- [Spotify brings live audio shows to its main app, rebrands companion app Greenroom as ‘Spotify Live’](https://techcrunch.com/2022/04/12/spotify-brings-live-audio-shows-to-its-main-app-rebrands-companion-app-greenroom-as-spotify-live/)
+- [FIFA gets into the streaming business with the new soccer platform FIFA+](https://techcrunch.com/2022/04/12/fifa-gets-into-the-streaming-business-with-the-new-soccer-platform-fifa/)
+- [TikTok launches its own AR development platform, Effect House](https://techcrunch.com/2022/04/12/tiktok-launches-its-own-ar-development-platform-effect-house/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
