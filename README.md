@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [A sign-stealing scandal rocked baseball, now this hardware is here to help](https://techcrunch.com/2022/04/11/a-sign-stealing-scandal-rocked-baseball-now-this-hardware-is-here-to-help/)
+- [A sign-stealing scandal rocked baseball, this hardware is here to help](https://techcrunch.com/2022/04/11/a-sign-stealing-scandal-rocked-baseball-now-this-hardware-is-here-to-help/)
 - [Daily Crunch: FDA clears Fitbit algorithm that passively scans for signs of AFib](https://techcrunch.com/2022/04/11/daily-crunch-fda-clears-fitbit-algorithm-that-passively-scans-for-signs-of-afib/)
 - [NASA scaling back Artemis 1 moon mission test due to faulty valve](https://www.space.com/nasa-scaling-back-artemis-1-moon-mission-test)
 - [Best mobile apps to identify space stations and satellites](https://www.space.com/41678-spotting-identifying-satellites-best-mobile-apps.html)
