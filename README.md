@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Avatar startup Genies hits $1 billion valuation in latest raise](https://techcrunch.com/2022/04/12/avatar-startup-genies-hits-1-billion-valuation-in-latest-raise/)
+- [Snapchat’s new feature automatically creates Stories based on select newsrooms’ content](https://techcrunch.com/2022/04/12/snapchats-automatically-creates-stories-news-stories/)
 - [About that Deel ARR number](https://techcrunch.com/2022/04/12/about-that-deel-arr-number/)
 - [Tim Cook uses privacy keynote to attack sideloading](https://techcrunch.com/2022/04/12/tim-cook-iapp-keynote/)
 - [Russia is jamming GPS satellite signals in Ukraine, US Space Force says](https://www.space.com/russia-jamming-gps-signals-ukraine)
-- [&#39;Megacomet&#39; Bernardinelli-Berstein is largest ever seen, Hubble telescope confirms](https://www.space.com/hubble-space-telescope-largest-comet-nucleus-c/2014un271)
-- [NASA photos show the Perseverance Mars rover and tiny Ingenuity helicopter from space](https://www.space.com/nasa-mars-rover-helicopter-mro-hirise-image)
 <!-- BLOG-POST-LIST:END -->
 
 ---
