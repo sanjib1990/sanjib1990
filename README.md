@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Observe.ai raises $125M, adding Zoom as an investor, to supercharge the contact center market](https://techcrunch.com/2022/04/12/observe-ai-raises-125m-adding-zoom-as-an-investor-to-supercharge-the-contact-center-market/)
-- [Glow Labs raises seed round to help NFT creators reward their loyal customers](https://techcrunch.com/2022/04/12/glow-labs-raises-seed-round-to-help-nft-creators-reward-their-loyal-customers/)
-- [Miso Robotics brings a new coffee monitoring system to Panera](https://techcrunch.com/2022/04/12/miso-robotics-brings-a-new-coffee-monitoring-system-to-panera/)
-- [Montonio is building the payment and checkout solution to rule them all](https://techcrunch.com/2022/04/12/montonio-is-building-the-payment-and-checkout-solution-to-rule-them-all/)
-- [India’s Meesho likely to postpone new funding amid market uncertainty](https://techcrunch.com/2022/04/12/indias-meesho-likely-to-postpone-new-funding-amid-market-uncertainty/)
+- [Meta’s head of M&amp;A leaves role to join real estate startup Pacaso as COO](https://techcrunch.com/2022/04/12/metas-head-of-ma-leaves-role-to-join-proptech-startup-pacaso-as-coo/)
+- [Jobox is building a bridge between skilled labor, available work](https://techcrunch.com/2022/04/12/jobox-is-building-a-bridge-between-skilled-labor-available-work/)
+- [Product analytics startup Kubit lands $18M in fresh capital](https://techcrunch.com/2022/04/12/product-analytics-startup-kubit-lands-18m-in-fresh-capital/)
+- [PassiveLogic, which creates digital twins of building systems, raises $15M](https://techcrunch.com/2022/04/12/passivelogic-which-creates-digital-twins-of-building-systems-raises-15m/)
+- [EvolutionIQ secures $21M to streamline insurance claims processing with AI](https://techcrunch.com/2022/04/12/evolutioniq-secures-21m-to-streamline-insurance-claims-processing-with-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
