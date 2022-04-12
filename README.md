@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Autonomous robots used in hundreds of hospitals at risk of remote hijacks](https://techcrunch.com/2022/04/12/aethon-robots-hospitals-hijacks/)
-- [Bosch picks up Five.ai after the self-driving startup pivoted to B2B and then put itself up for sale](https://techcrunch.com/2022/04/12/bosch-picks-up-five-ai-after-the-self-driving-startup-that-pivoted-to-b2b-put-itself-up-for-sale/)
-- [61st anniversary of human spaceflight marred by Russian invasion of Ukraine](https://www.space.com/61st-anniversary-human-spaceflight-russia-ukraine-invasion)
-- [Artemis moon program will boost science and private spaceflight, NASA says](https://www.space.com/artemis-moon-program-science-private-spaceflight)
-- [Egypt’s Pylon gets $19M to scale software for water and electricity distribution companies](https://techcrunch.com/2022/04/12/egypts-pylon-gets-19m-to-scale-software-for-water-and-electricity-distribution-companies/)
+- [Observe.ai raises $125M, adding Zoom as an investor, to supercharge the contact center market](https://techcrunch.com/2022/04/12/observe-ai-raises-125m-adding-zoom-as-an-investor-to-supercharge-the-contact-center-market/)
+- [Glow Labs raises seed round to help NFT creators reward their loyal customers](https://techcrunch.com/2022/04/12/glow-labs-raises-seed-round-to-help-nft-creators-reward-their-loyal-customers/)
+- [Miso Robotics brings a new coffee monitoring system to Panera](https://techcrunch.com/2022/04/12/miso-robotics-brings-a-new-coffee-monitoring-system-to-panera/)
+- [Montonio is building the payment and checkout solution to rule them all](https://techcrunch.com/2022/04/12/montonio-is-building-the-payment-and-checkout-solution-to-rule-them-all/)
+- [India’s Meesho likely to postpone new funding amid market uncertainty](https://techcrunch.com/2022/04/12/indias-meesho-likely-to-postpone-new-funding-amid-market-uncertainty/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
