@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Snap debuts its fifth cohort of Yellow accelerator startups](https://techcrunch.com/2022/04/12/snap-fifth-cohort-yellow-accelerator-startups/)
-- [Galactic bones inside Milky Way&#39;s skeleton are a magnetic mess](https://www.space.com/random-magnetic-fields-in-galactic-bones)
-- [Hookdeck snares $2.4M seed to help developers manage webhooks](https://techcrunch.com/2022/04/12/hookdeck-snares-2-4m-seed-to-help-developers-manage-webhooks/)
-- [There are no laws protecting kids from being exploited on YouTube — one teen wants to change that](https://techcrunch.com/2022/04/12/family-vlogs-child-influencers-exploitation-youtube-laws/)
-- [Meteor shower guide 2022: Dates and viewing advice](https://www.space.com/39469-best-meteor-showers.html)
+- [iMovie on the iPhone and iPad can now automagically generate movies](https://techcrunch.com/2022/04/12/imovie-on-the-iphone-and-ipad-can-now-automagically-generate-movies/)
+- [Union.ai raises $10M to simplify AI and ML workflow orchestration](https://techcrunch.com/2022/04/12/union-ai-raises-10m-to-simplify-ai-and-ml-workflow-orchestration/)
+- [Plex pulls the plug on podcasts and web shows](https://techcrunch.com/2022/04/12/plex-pulls-the-plug-on-podcasts-and-web-shows/)
+- [Lucid launches a faster, more expensive version of its flagship EV](https://techcrunch.com/2022/04/12/lucid-launches-a-faster-more-expensive-version-of-its-flagship-ev/)
+- [DuckDuckGo launches Mac app in beta](https://techcrunch.com/2022/04/12/duckduckgo-launches-mac-app-in-beta/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
