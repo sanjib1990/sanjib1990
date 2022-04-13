@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Study finds TikTik’s ban on uploads in Russia failed, leaving it dominated by pro-war content](https://techcrunch.com/2022/04/13/study-finds-tiktiks-ban-on-uploads-in-russia-failed-leaving-it-dominated-by-pro-war-content/)
+- [8 cannabis investors share their outlook on the European market in H1 2022](https://techcrunch.com/2022/04/13/8-cannabis-investors-share-their-outlook-on-the-european-market-in-h1-2022/)
 - [Salsify secures $200M as the boom in e-commerce catapults its valuation to $2B](https://techcrunch.com/2022/04/13/salsify-secures-200m-as-the-boom-in-e-commerce-catapults-its-valuation-to-2b/)
 - [ZWO ASI533MC Pro review](https://www.space.com/zwo-asi533mc-pro-camera-review)
 - [On This Day In Space: April 13, 1969: NASA launches Nimbus 3 weather satellite](https://www.space.com/39251-on-this-day-in-space.html)
-- [Russian buildup in eastern Ukraine seen in satellite photos](https://www.space.com/russian-buildup-eastern-ukraine-satellite-photos)
-- [NASA motion base shuttle simulator lands at museum for static display](https://www.space.com/shuttle-simulator-lands-lone-star-museum)
 <!-- BLOG-POST-LIST:END -->
 
 ---
