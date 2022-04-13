@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Study finds TikTik’s ban on uploads in Russia failed, leaving it dominated by pro-war content](https://techcrunch.com/2022/04/13/study-finds-tiktiks-ban-on-uploads-in-russia-failed-leaving-it-dominated-by-pro-war-content/)
-- [8 cannabis investors share their outlook on the European market in H1 2022](https://techcrunch.com/2022/04/13/8-cannabis-investors-share-their-outlook-on-the-european-market-in-h1-2022/)
-- [Salsify secures $200M as the boom in e-commerce catapults its valuation to $2B](https://techcrunch.com/2022/04/13/salsify-secures-200m-as-the-boom-in-e-commerce-catapults-its-valuation-to-2b/)
-- [ZWO ASI533MC Pro review](https://www.space.com/zwo-asi533mc-pro-camera-review)
-- [On This Day In Space: April 13, 1969: NASA launches Nimbus 3 weather satellite](https://www.space.com/39251-on-this-day-in-space.html)
+- [Digital bank Umba raises $15M, plans to expand into three new African markets](https://techcrunch.com/2022/04/13/digital-bank-umba-raises-15m-plans-to-expand-into-three-new-african-markets/)
+- [Expense management provider Emburse goes head-to-head with Brex and Ramp](https://techcrunch.com/2022/04/13/spend-management-provider-emburse-takes-on-brex-and-ramp-in-going-after-smbs/)
+- [Fintech Brex bets big on software, lands DoorDash as a customer](https://techcrunch.com/2022/04/13/brex-spend-management-software-doordash/)
+- [Zoom launches AI-powered features aimed at sales teams](https://techcrunch.com/2022/04/13/zoom-launches-ai-powered-features-aimed-at-sales-teams/)
+- [IDrive launches e2, a new S3-compatible object storage service](https://techcrunch.com/2022/04/13/idrive-launches-e2-a-new-s3-compatible-object-storage-service/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
