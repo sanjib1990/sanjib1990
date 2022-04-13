@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Salsify secures $200M as the boom in e-commerce catapults its valuation to $2B](https://techcrunch.com/2022/04/13/salsify-secures-200m-as-the-boom-in-e-commerce-catapults-its-valuation-to-2b/)
+- [ZWO ASI533MC Pro review](https://www.space.com/zwo-asi533mc-pro-camera-review)
+- [On This Day In Space: April 13, 1969: NASA launches Nimbus 3 weather satellite](https://www.space.com/39251-on-this-day-in-space.html)
 - [Russian buildup in eastern Ukraine seen in satellite photos](https://www.space.com/russian-buildup-eastern-ukraine-satellite-photos)
 - [NASA motion base shuttle simulator lands at museum for static display](https://www.space.com/shuttle-simulator-lands-lone-star-museum)
-- [New wave of missions to reignite Venus exploration](https://www.space.com/venus-alien-life-search-new-missions)
-- [Wagestream, a financial super app for waged workers, raises $175M, passes 1M users and doubles down on the U.S.](https://techcrunch.com/2022/04/13/2299588/)
-- [Sigma 70-200mm f/2.8 DG OS HSM lens review](https://www.space.com/reviews/sigma-70-200mm-f28-dg-os-hsm-lens-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
