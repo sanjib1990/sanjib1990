@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Braid aims to untangle pooling money with friends](https://techcrunch.com/2022/04/13/braid-group-wallet-to-share-money-with-friends/)
+- [NASA&#39;s Curiosity Mars rover turns to avoid dangerous &#39;gator-back&#39; rocks &lpar;photos&rpar;](https://www.space.com/curiosity-rover-dodging-gator-back-terrain-photo)
+- [‘Always on and watching’: A former Xinjiang prisoner describes life inside China’s detention camps](https://techcrunch.com/2022/04/13/xinjiang-prisoner-hikvision-china/)
 - [Handshake makes its first-ever acquisition with Europe in mind](https://techcrunch.com/2022/04/13/handshake-talentspace-acquisition/)
 - [BlueOcean raises $30M for its AI-based brand intelligence platform](https://techcrunch.com/2022/04/13/blueocean-raises-30m-for-its-ai-based-brand-intelligence-platform/)
-- [Dear Sophie: I didn’t win the H-1B lottery. What are my next steps?](https://techcrunch.com/2022/04/13/dear-sophie-i-didnt-win-the-h-1b-lottery-what-are-my-next-steps/)
-- [Attending TechCrunch Early Stage? Submit your pitch deck now!](https://techcrunch.com/2022/04/13/attending-techcrunch-early-stage-submit-your-pitch-deck-now/)
-- [Earth Day: What is it and why does it matter?](https://www.space.com/earth-day-facts-history-activities)
 <!-- BLOG-POST-LIST:END -->
 
 ---
