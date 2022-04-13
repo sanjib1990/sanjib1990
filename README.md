@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Russian state media is still posting to TikTok a month after the app blocked new content](https://techcrunch.com/2022/04/12/tiktok-russian-state-media-propaganda/)
 - [Nurse-assisting robotics firm Diligent raises $30M](https://techcrunch.com/2022/04/12/nurse-assisting-robotics-firm-diligent-raises-30m/)
 - [Twitter investor sues Elon Musk over delay in disclosure of stake](https://techcrunch.com/2022/04/12/twitter-investor-sues-elon-musk-over-delay-in-disclosure-of-stake/)
 - [Daily Crunch: Beating ‘other takeover bidders,’ Bosch acquires autonomous driving startup Five.ai](https://techcrunch.com/2022/04/12/daily-crunch-beating-other-takeover-bidders-bosch-acquires-autonomous-driving-startup-five-ai/)
 - [TechCrunch+ roundup: The Kindbody TC-1, Glossier’s mistakes, calculating startup runway](https://techcrunch.com/2022/04/12/techcrunch-roundup-the-kindbody-tc-1-glossiers-mistakes-calculating-startup-runway/)
-- [SpaceX Ax-1 private mission to space station: Live updates](https://www.space.com/news/live/ax-1-space-station-mission-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
