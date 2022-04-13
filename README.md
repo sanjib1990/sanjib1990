@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why EV startups should’ve hit the brakes before merging with a SPAC](https://techcrunch.com/2022/04/13/why-ev-startups-shouldve-hit-the-brakes-before-merging-with-a-spac/)
+- [Best binoculars 2022: Top picks for stargazing, wildlife watching and more](https://www.space.com/26021-best-binoculars.html)
+- [Amazon’s cashierless Just Walk Out technology comes to Houston Astros’ Major League Baseball Stadium](https://techcrunch.com/2022/04/13/amazons-cashierless-just-walk-out-technology-comes-to-houston-astros-major-league-baseball-stadium/)
+- [Venture needs crypto more than crypto needs venture](https://techcrunch.com/2022/04/13/venture-needs-crypto-more-than-crypto-needs-venture/)
 - [Announcing the agenda for TechCrunch Sessions: Mobility 2022](https://techcrunch.com/2022/04/13/announcing-the-agenda-for-techcrunch-sessions-mobility-2022/)
-- [Why Latin America’s decline in VC investment isn’t necessarily bad news](https://techcrunch.com/2022/04/13/why-latin-americas-decline-in-vc-investment-isnt-necessarily-bad-news/)
-- [Digital bank Umba raises $15M, plans to expand into three new African markets](https://techcrunch.com/2022/04/13/digital-bank-umba-raises-15m-plans-to-expand-into-three-new-african-markets/)
-- [Expense management provider Emburse goes head-to-head with Brex and Ramp](https://techcrunch.com/2022/04/13/spend-management-provider-emburse-takes-on-brex-and-ramp-in-going-after-smbs/)
-- [Fintech Brex bets big on software, lands DoorDash as a customer](https://techcrunch.com/2022/04/13/brex-spend-management-software-doordash/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
