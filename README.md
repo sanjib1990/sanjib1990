@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists investigate supermassive black hole ancestor from universe&#39;s &#39;cosmic dawn&#39;](https://www.space.com/ancestor-supermassive-black-hole-cosmic-dawn)
+- [Dallas Cowboys’ partnership with Blockchain.com signals more mainstream crypto exposure](https://techcrunch.com/2022/04/13/dallas-cowboys-partnership-with-blockchain-com-signals-more-mainstream-crypto-exposure/)
+- [Meet the Zoox robotaxi alongside co-founder Jesse Levinson at TC Sessions: Mobility 2022](https://techcrunch.com/2022/04/13/meet-the-zoox-robotaxi-alongside-co-founder-jesse-levinson-at-tc-sessions-mobility-2022/)
 - [Microscopic Apollo 11 moon dust sells for $500K at Bonhams auction](https://www.space.com/bonhams-apollo-11-moon-dust-auction)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [SpaceX&#39;s Crew-4 astronaut mission delayed again, to April 23](https://www.space.com/spacex-crew-4-mission-delayed-april-23)
-- [Europe halts moon exploration partnership with Russia, looks to replace Ukraine-built rocket engines](https://www.space.com/europe-moon-pertnership-russia-ukraine-rocket-engines)
-- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
+- [TikTok is testing a private dislike button for comments](https://techcrunch.com/2022/04/13/tiktok-is-testing-a-private-dislike-button-for-comments/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
