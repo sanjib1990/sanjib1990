@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Why EV startups should’ve hit the brakes before merging with a SPAC](https://techcrunch.com/2022/04/13/why-ev-startups-shouldve-hit-the-brakes-before-merging-with-a-spac/)
-- [Best binoculars 2022: Top picks for stargazing, wildlife watching and more](https://www.space.com/26021-best-binoculars.html)
-- [Amazon’s cashierless Just Walk Out technology comes to Houston Astros’ Major League Baseball Stadium](https://techcrunch.com/2022/04/13/amazons-cashierless-just-walk-out-technology-comes-to-houston-astros-major-league-baseball-stadium/)
-- [Venture needs crypto more than crypto needs venture](https://techcrunch.com/2022/04/13/venture-needs-crypto-more-than-crypto-needs-venture/)
-- [Announcing the agenda for TechCrunch Sessions: Mobility 2022](https://techcrunch.com/2022/04/13/announcing-the-agenda-for-techcrunch-sessions-mobility-2022/)
+- [Handshake makes its first-ever acquisition with Europe in mind](https://techcrunch.com/2022/04/13/handshake-talentspace-acquisition/)
+- [BlueOcean raises $30M for its AI-based brand intelligence platform](https://techcrunch.com/2022/04/13/blueocean-raises-30m-for-its-ai-based-brand-intelligence-platform/)
+- [Dear Sophie: I didn’t win the H-1B lottery. What are my next steps?](https://techcrunch.com/2022/04/13/dear-sophie-i-didnt-win-the-h-1b-lottery-what-are-my-next-steps/)
+- [Attending TechCrunch Early Stage? Submit your pitch deck now!](https://techcrunch.com/2022/04/13/attending-techcrunch-early-stage-submit-your-pitch-deck-now/)
+- [Earth Day: What is it and why does it matter?](https://www.space.com/earth-day-facts-history-activities)
 <!-- BLOG-POST-LIST:END -->
 
 ---
