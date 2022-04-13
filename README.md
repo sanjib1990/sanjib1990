@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Better.com said to be planning third round of layoffs](https://techcrunch.com/2022/04/13/better-com-said-to-be-planning-third-round-of-layoffs/)
+- [Microscopic Apollo 11 moon dust sells for $500K at Bonhams auction](https://www.space.com/bonhams-apollo-11-moon-dust-auction)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [SpaceX&#39;s Crew-4 astronaut mission delayed again, to April 23](https://www.space.com/spacex-crew-4-mission-delayed-april-23)
+- [Europe halts moon exploration partnership with Russia, looks to replace Ukraine-built rocket engines](https://www.space.com/europe-moon-pertnership-russia-ukraine-rocket-engines)
 - [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
-- [Final James Webb Space Telescope instrument reaches super-cold operating temperature](https://www.space.com/james-webb-space-telescope-absolute-zero-calibration)
-- [Niantic’s new game Peridot gives you VERY CUTE virtual pets](https://techcrunch.com/2022/04/13/peridot-niantic-new-game/)
-- [Is the SaaS selloff over?](https://techcrunch.com/2022/04/13/is-the-saas-selloff-over/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
