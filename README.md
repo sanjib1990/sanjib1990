@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Announcing the agenda for TechCrunch Sessions: Mobility 2022](https://techcrunch.com/2022/04/13/announcing-the-agenda-for-techcrunch-sessions-mobility-2022/)
+- [Why Latin America’s decline in VC investment isn’t necessarily bad news](https://techcrunch.com/2022/04/13/why-latin-americas-decline-in-vc-investment-isnt-necessarily-bad-news/)
 - [Digital bank Umba raises $15M, plans to expand into three new African markets](https://techcrunch.com/2022/04/13/digital-bank-umba-raises-15m-plans-to-expand-into-three-new-african-markets/)
 - [Expense management provider Emburse goes head-to-head with Brex and Ramp](https://techcrunch.com/2022/04/13/spend-management-provider-emburse-takes-on-brex-and-ramp-in-going-after-smbs/)
 - [Fintech Brex bets big on software, lands DoorDash as a customer](https://techcrunch.com/2022/04/13/brex-spend-management-software-doordash/)
-- [Zoom launches AI-powered features aimed at sales teams](https://techcrunch.com/2022/04/13/zoom-launches-ai-powered-features-aimed-at-sales-teams/)
-- [IDrive launches e2, a new S3-compatible object storage service](https://techcrunch.com/2022/04/13/idrive-launches-e2-a-new-s3-compatible-object-storage-service/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
