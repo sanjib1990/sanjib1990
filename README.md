@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Braid aims to untangle pooling money with friends](https://techcrunch.com/2022/04/13/braid-group-wallet-to-share-money-with-friends/)
-- [NASA&#39;s Curiosity Mars rover turns to avoid dangerous &#39;gator-back&#39; rocks &lpar;photos&rpar;](https://www.space.com/curiosity-rover-dodging-gator-back-terrain-photo)
-- [‘Always on and watching’: A former Xinjiang prisoner describes life inside China’s detention camps](https://techcrunch.com/2022/04/13/xinjiang-prisoner-hikvision-china/)
-- [Handshake makes its first-ever acquisition with Europe in mind](https://techcrunch.com/2022/04/13/handshake-talentspace-acquisition/)
-- [BlueOcean raises $30M for its AI-based brand intelligence platform](https://techcrunch.com/2022/04/13/blueocean-raises-30m-for-its-ai-based-brand-intelligence-platform/)
+- [Better.com said to be planning third round of layoffs](https://techcrunch.com/2022/04/13/better-com-said-to-be-planning-third-round-of-layoffs/)
+- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
+- [Final James Webb Space Telescope instrument reaches super-cold operating temperature](https://www.space.com/james-webb-space-telescope-absolute-zero-calibration)
+- [Niantic’s new game Peridot gives you VERY CUTE virtual pets](https://techcrunch.com/2022/04/13/peridot-niantic-new-game/)
+- [Is the SaaS selloff over?](https://techcrunch.com/2022/04/13/is-the-saas-selloff-over/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
