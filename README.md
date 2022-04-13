@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Russian buildup in eastern Ukraine seen in satellite photos](https://www.space.com/russian-buildup-eastern-ukraine-satellite-photos)
+- [NASA motion base shuttle simulator lands at museum for static display](https://www.space.com/shuttle-simulator-lands-lone-star-museum)
+- [New wave of missions to reignite Venus exploration](https://www.space.com/venus-alien-life-search-new-missions)
 - [Wagestream, a financial super app for waged workers, raises $175M, passes 1M users and doubles down on the U.S.](https://techcrunch.com/2022/04/13/2299588/)
 - [Sigma 70-200mm f/2.8 DG OS HSM lens review](https://www.space.com/reviews/sigma-70-200mm-f28-dg-os-hsm-lens-review)
-- [Moot channels $18M for a platform and toolkit to power e-commerce strategies for brands](https://techcrunch.com/2022/04/12/moot-channels-18m-for-a-platform-and-toolkit-to-power-e-commerce-strategies-for-brands/)
-- [Russian state media is still posting to TikTok a month after the app blocked new content](https://techcrunch.com/2022/04/12/tiktok-russian-state-media-propaganda/)
-- [Nurse-assisting robotics firm Diligent raises $30M](https://techcrunch.com/2022/04/12/nurse-assisting-robotics-firm-diligent-raises-30m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
