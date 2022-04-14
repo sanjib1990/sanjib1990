@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Peloton is increasing its subscription fees starting June 1](https://techcrunch.com/2022/04/14/peloton-increasing-subscription-fees/)
+- [MLB forays into the future with new tech for the old ball game](https://techcrunch.com/2022/04/14/mlb-forays-into-the-future-with-new-tech-for-the-old-ball-game/)
 - [Starlink: SpaceX&#39;s satellite internet project](https://www.space.com/spacex-starlink-satellites.html)
 - [Elon Musk says he ‘doesn’t care about the economics’ of buying Twitter](https://techcrunch.com/2022/04/14/elon-musk-buying-twitter-ted-talk/)
 - [Frosty Mars crater sparkles in new NASA photo](https://www.space.com/mars-frosty-crater-nasa-orbiter-photo)
-- [No signs of a slowdown in Africa’s tech funding, data show](https://techcrunch.com/2022/04/14/no-signs-of-a-slowdown-in-africas-tech-funding-data-show/)
-- [Series sea](https://techcrunch.com/2022/04/14/series-sea/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
