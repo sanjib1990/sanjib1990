@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Ukrainian startup Promin Aerospace tests engine for new &#39;self-devouring&#39; rocket](https://www.space.com/ukraine-startup-engine-test-self-devouring-rocket)
-- [Speckle snags $5.5M seed to build open source platform for 3D drawings](https://techcrunch.com/2022/04/14/speckle-snags-5-5m-seed-to-build-open-source-platform-for-3d-drawings/)
-- [Trading dress-up for lift-off, Barbie flies on space station for first time](https://www.space.com/barbie-dolls-space-station-mission-dreamstar)
-- [Shipium gives e-commerce retailers Amazon-like supply chain tech](https://techcrunch.com/2022/04/14/shipium-e-commerce-retailers-supply-chain-tech-amazon/)
-- [Tata to open up super app Neu to outside brands](https://techcrunch.com/2022/04/14/india-tata-neu-super-app/)
+- [WhatsApp to launch ‘Communities’ — more structured group chats with admin controls](https://techcrunch.com/2022/04/14/whatsapp-to-launch-communities-more-structured-groups-chats-with-admin-controls/)
+- [Amazon Kids+ subscription service launches its first original mobile games](https://techcrunch.com/2022/04/14/amazon-kids-subscription-service-launches-its-first-original-mobile-games/)
+- [Is Elon Musk undervaluing Twitter in his unsolicited bid?](https://techcrunch.com/2022/04/14/is-elon-musk-undervaluing-twitter-in-his-unsolicited-bid/)
+- [Hear Deel’s $14m winning pitch to A16z on TechCrunch Live](https://techcrunch.com/2022/04/14/hear-deels-14m-winning-pitch-to-a16z-on-techcrunch-live/)
+- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
