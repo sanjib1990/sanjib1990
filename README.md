@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Uber cites tough regulations as it suspends Tanzania operations](https://techcrunch.com/2022/04/14/uber-cites-tough-regulations-as-it-suspends-tanzania-operations/)
+- [Elon Musk offers to buy Twitter for $43 billion](https://techcrunch.com/2022/04/14/elon-musk-offers-to-buy-twitter-for-43-billion/)
 - [Mars helicopter Ingenuity aces record-breaking 25th flight](https://www.space.com/mars-helicopter-ingenuity-record-breaking-25th-flight)
 - [Most distant star to date spotted — but how much further back in time could we see?](https://www.space.com/most-distant-star-how-far-back-in-time)
 - [See a sunrise on Mars in this stunning view from NASA&#39;s InSight lander &lpar;photo&rpar;](https://www.space.com/mars-sunrise-photo-insight-lander)
-- [Russia has big plans for its space program despite international sanctions](https://www.space.com/russia-big-plans-space-international-sanctions)
-- [Pakistan’s Zaraye, a B2B supplies platform, raises $2.1M from Tiger Global and Zayn](https://techcrunch.com/2022/04/14/pakistans-zaraye-a-b2b-supplies-platform-raises-2-1m-from-tiger-global-and-zayn/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
