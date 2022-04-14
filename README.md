@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tokyo-based Luup to more than double shared e-scooters, e-bikes](https://techcrunch.com/2022/04/13/tokyo-based-luup-to-more-than-double-shared-e-scooters-e-bikes/)
+- [Can VinFast make EV battery subscriptions a thing?](https://techcrunch.com/2022/04/13/can-vinfast-make-ev-battery-subscriptions-a-thing/)
 - [Daily Crunch: Brex says DoorDash is ‘first of many’ new enterprise customers to come](https://techcrunch.com/2022/04/13/daily-crunch-brex-says-doordash-is-first-of-many-new-enterprise-customers-to-come/)
 - [Pink Moon 2022: April&#39;s full moon joins a line of planets](https://www.space.com/36040-april-full-moon.html)
 - [How social commerce is bridging Southeast Asia’s infrastructure gaps](https://techcrunch.com/2022/04/13/how-social-commerce-is-bridging-southeast-asias-infrastructure-gaps/)
-- [China’s banking association proposes restrictions on NFTs](https://techcrunch.com/2022/04/13/chinas-banking-association-proposes-restrictions-on-nfts/)
-- [‘Club Penguin Rewritten’ allegedly shut down by Disney, website seized by London police](https://techcrunch.com/2022/04/13/club-penguin-rewritten-shut-down-disney/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
