@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [WhatsApp to launch ‘Communities’ — more structured group chats with admin controls](https://techcrunch.com/2022/04/14/whatsapp-to-launch-communities-more-structured-groups-chats-with-admin-controls/)
-- [Amazon Kids+ subscription service launches its first original mobile games](https://techcrunch.com/2022/04/14/amazon-kids-subscription-service-launches-its-first-original-mobile-games/)
-- [Is Elon Musk undervaluing Twitter in his unsolicited bid?](https://techcrunch.com/2022/04/14/is-elon-musk-undervaluing-twitter-in-his-unsolicited-bid/)
-- [Hear Deel’s $14m winning pitch to A16z on TechCrunch Live](https://techcrunch.com/2022/04/14/hear-deels-14m-winning-pitch-to-a16z-on-techcrunch-live/)
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates)
+- [7 Days left to apply to pitch your startup at TC Sessions: Mobility](https://techcrunch.com/2022/04/14/7-days-left-to-apply-to-pitch-your-startup-at-tc-sessions-mobility/)
+- [Backbone nabs $14M for supply chain software inspired by mesh networks](https://techcrunch.com/2022/04/14/backbone-nabs-14m-for-supply-chain-software-inspired-by-mesh-networks/)
+- [Google Cloud launches its new data loss prevention tool for BigQuery](https://techcrunch.com/2022/04/14/google-cloud-launches-its-new-data-loss-prevention-tool-for-bigquery/)
+- [Chrysler reveals its 400-mile range ‘alter ego’ Airflow EV crossover](https://techcrunch.com/2022/04/14/chrysler-reveals-400-mile-range-alter-ego-airflow-ev-crossover/)
+- [Lydia Hylton on why she joined Bain Capital Crypto despite That Tweet](https://techcrunch.com/2022/04/14/lydia-hylton-on-why-she-joined-bain-capital-crypto-despite-that-tweet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
