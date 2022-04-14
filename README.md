@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ukrainian startup Promin Aerospace tests engine for new &#39;self-devouring&#39; rocket](https://www.space.com/ukraine-startup-engine-test-self-devouring-rocket)
+- [Speckle snags $5.5M seed to build open source platform for 3D drawings](https://techcrunch.com/2022/04/14/speckle-snags-5-5m-seed-to-build-open-source-platform-for-3d-drawings/)
 - [Trading dress-up for lift-off, Barbie flies on space station for first time](https://www.space.com/barbie-dolls-space-station-mission-dreamstar)
 - [Shipium gives e-commerce retailers Amazon-like supply chain tech](https://techcrunch.com/2022/04/14/shipium-e-commerce-retailers-supply-chain-tech-amazon/)
-- [India’s Tata confident its super app will deliver where others have struggled](https://techcrunch.com/2022/04/14/india-tata-neu-super-app/)
-- [Tinder adds a ‘Festival Mode’ for making connections ahead of concerts and events](https://techcrunch.com/2022/04/14/tinder-adds-a-festival-mode-for-making-connections-ahead-of-concerts-and-events/)
-- [As post-covid food distribution digitizes, Cerve raises $2M for wholesaler platform](https://techcrunch.com/2022/04/14/as-post-covid-food-distribution-digitizes-cerve-raises-2m-for-wholesaler-platform/)
+- [Tata to open up super app Neu to outside brands](https://techcrunch.com/2022/04/14/india-tata-neu-super-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
