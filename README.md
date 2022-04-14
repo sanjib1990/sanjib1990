@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists create weird pumpkin-shaped nucleus that vanishes in nanoseconds](https://www.space.com/weird-lutetium-149-oblate-nucleus)
 - [Peloton is increasing its subscription fees starting June 1](https://techcrunch.com/2022/04/14/peloton-increasing-subscription-fees/)
 - [MLB forays into the future with new tech for the old ball game](https://techcrunch.com/2022/04/14/mlb-forays-into-the-future-with-new-tech-for-the-old-ball-game/)
 - [Starlink: SpaceX&#39;s satellite internet project](https://www.space.com/spacex-starlink-satellites.html)
 - [Elon Musk says he ‘doesn’t care about the economics’ of buying Twitter](https://techcrunch.com/2022/04/14/elon-musk-buying-twitter-ted-talk/)
-- [Frosty Mars crater sparkles in new NASA photo](https://www.space.com/mars-frosty-crater-nasa-orbiter-photo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
