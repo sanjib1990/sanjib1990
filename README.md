@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What hostile takeovers are &lpar;and why they’re usually doomed&rpar;](https://techcrunch.com/2022/04/14/what-hostile-takeovers-are-and-why-theyre-usually-doomed/)
 - [Scientists create weird pumpkin-shaped nucleus that vanishes in nanoseconds](https://www.space.com/weird-lutetium-149-oblate-nucleus)
 - [Peloton is increasing its subscription fees starting June 1](https://techcrunch.com/2022/04/14/peloton-increasing-subscription-fees/)
 - [MLB forays into the future with new tech for the old ball game](https://techcrunch.com/2022/04/14/mlb-forays-into-the-future-with-new-tech-for-the-old-ball-game/)
 - [Starlink: SpaceX&#39;s satellite internet project](https://www.space.com/spacex-starlink-satellites.html)
-- [Elon Musk says he ‘doesn’t care about the economics’ of buying Twitter](https://techcrunch.com/2022/04/14/elon-musk-buying-twitter-ted-talk/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
