@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Wrapped in red tape, China’s startups give up their mainland dreams](https://techcrunch.com/2022/04/14/wrapped-in-red-tape-chinas-startups-give-up-their-mainland-dreams/)
-- [Watch Elon Musk &lpar;probably&rpar; wreak havoc at the TED2022 conference](https://techcrunch.com/2022/04/14/elon-musk-ted-talk-2022/)
-- [Public YouTube videos are now eligible to be ‘remixed’ into YouTube Shorts unless creators opt out](https://techcrunch.com/2022/04/14/all-public-videos-on-youtube-are-now-eligible-to-be-remixed-into-youtube-shorts-unless-creators-opt-out/)
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates)
-- [Elon Musk offers to buy Twitter for a reported $43 billion in cash](https://www.space.com/elon-musk-offers-to-buy-twitter)
+- [TuneIn brings its paid subscription service to all Amazon Alexa-enabled devices](https://techcrunch.com/2022/04/14/tunein-brings-its-paid-subscription-service-to-all-amazon-alexa-enabled-devices/)
+- [EVs dominate 2022 World Car Awards](https://techcrunch.com/2022/04/14/evs-dominate-2022-world-car-awards/)
+- [If Elon Musk gets his way, Twitter will lose years of progress](https://techcrunch.com/2022/04/14/elon-musk-twitter-takeover-bro-log-off/)
+- [French court revokes SpaceX&#39;s Starlink internet license, citing monopolization concerns](https://www.space.com/starlink-french-court-revokes-license-monopolization)
+- [Purging the &lpar;extremely&rpar; unclean in &#39;Warhammer 40K: Chaos Gate – Daemonhunters&#39;](https://www.space.com/warhammer-40k-chaos-gate-daemonhunters-preview)
 <!-- BLOG-POST-LIST:END -->
 
 ---
