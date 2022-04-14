@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TuneIn brings its paid subscription service to all Amazon Alexa-enabled devices](https://techcrunch.com/2022/04/14/tunein-brings-its-paid-subscription-service-to-all-amazon-alexa-enabled-devices/)
-- [EVs dominate 2022 World Car Awards](https://techcrunch.com/2022/04/14/evs-dominate-2022-world-car-awards/)
-- [If Elon Musk gets his way, Twitter will lose years of progress](https://techcrunch.com/2022/04/14/elon-musk-twitter-takeover-bro-log-off/)
-- [French court revokes SpaceX&#39;s Starlink internet license, citing monopolization concerns](https://www.space.com/starlink-french-court-revokes-license-monopolization)
-- [Purging the &lpar;extremely&rpar; unclean in &#39;Warhammer 40K: Chaos Gate – Daemonhunters&#39;](https://www.space.com/warhammer-40k-chaos-gate-daemonhunters-preview)
+- [Starlink: SpaceX&#39;s satellite internet project](https://www.space.com/spacex-starlink-satellites.html)
+- [Elon Musk says he ‘doesn’t care about the economics’ of buying Twitter](https://techcrunch.com/2022/04/14/elon-musk-buying-twitter-ted-talk/)
+- [Frosty Mars crater sparkles in new NASA photo](https://www.space.com/mars-frosty-crater-nasa-orbiter-photo)
+- [No signs of a slowdown in Africa’s tech funding, data show](https://techcrunch.com/2022/04/14/no-signs-of-a-slowdown-in-africas-tech-funding-data-show/)
+- [Series sea](https://techcrunch.com/2022/04/14/series-sea/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
