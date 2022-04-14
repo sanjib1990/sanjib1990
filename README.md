@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Itilite secures $29M to automate corporate expensing workflows](https://techcrunch.com/2022/04/14/itlite-secures-29m-to-automate-corporate-expensing-workflows/)
+- [Daily Crunch: Elon Musk sets sights on Twitter with unsolicited $43B takeover bid](https://techcrunch.com/2022/04/14/daily-crunch-elon-musk-sets-sights-on-twitter-with-unsolicited-43b-takeover-bid/)
+- [Faraday Future demotes founder as management shakeup continues](https://techcrunch.com/2022/04/14/faraday-future-founder-yt-investigation/)
+- [NASA calls off 3rd attempt to fuel up Artemis 1 moon rocket](https://www.space.com/nasa-calls-off-artemis-1-moon-rocket-sls-fueling)
 - [What hostile takeovers are &lpar;and why they’re usually doomed&rpar;](https://techcrunch.com/2022/04/14/what-hostile-takeovers-are-and-why-theyre-usually-doomed/)
-- [Scientists create weird pumpkin-shaped nucleus that vanishes in nanoseconds](https://www.space.com/weird-lutetium-149-oblate-nucleus)
-- [Peloton is increasing its subscription fees starting June 1](https://techcrunch.com/2022/04/14/peloton-increasing-subscription-fees/)
-- [MLB forays into the future with new tech for the old ball game](https://techcrunch.com/2022/04/14/mlb-forays-into-the-future-with-new-tech-for-the-old-ball-game/)
-- [Starlink: SpaceX&#39;s satellite internet project](https://www.space.com/spacex-starlink-satellites.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
