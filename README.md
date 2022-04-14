@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Days left to apply to pitch your startup at TC Sessions: Mobility](https://techcrunch.com/2022/04/14/7-days-left-to-apply-to-pitch-your-startup-at-tc-sessions-mobility/)
-- [Backbone nabs $14M for supply chain software inspired by mesh networks](https://techcrunch.com/2022/04/14/backbone-nabs-14m-for-supply-chain-software-inspired-by-mesh-networks/)
-- [Google Cloud launches its new data loss prevention tool for BigQuery](https://techcrunch.com/2022/04/14/google-cloud-launches-its-new-data-loss-prevention-tool-for-bigquery/)
-- [Chrysler reveals its 400-mile range ‘alter ego’ Airflow EV crossover](https://techcrunch.com/2022/04/14/chrysler-reveals-400-mile-range-alter-ego-airflow-ev-crossover/)
-- [Lydia Hylton on why she joined Bain Capital Crypto despite That Tweet](https://techcrunch.com/2022/04/14/lydia-hylton-on-why-she-joined-bain-capital-crypto-despite-that-tweet/)
+- [Wrapped in red tape, China’s startups give up their mainland dreams](https://techcrunch.com/2022/04/14/wrapped-in-red-tape-chinas-startups-give-up-their-mainland-dreams/)
+- [Watch Elon Musk &lpar;probably&rpar; wreak havoc at the TED2022 conference](https://techcrunch.com/2022/04/14/elon-musk-ted-talk-2022/)
+- [Public YouTube videos are now eligible to be ‘remixed’ into YouTube Shorts unless creators opt out](https://techcrunch.com/2022/04/14/all-public-videos-on-youtube-are-now-eligible-to-be-remixed-into-youtube-shorts-unless-creators-opt-out/)
+- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates)
+- [Elon Musk offers to buy Twitter for a reported $43 billion in cash](https://www.space.com/elon-musk-offers-to-buy-twitter)
 <!-- BLOG-POST-LIST:END -->
 
 ---
