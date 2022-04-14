@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [UK Fintech startup Leatherback raises $10M for its cross-border payments led by ZedCrest](https://techcrunch.com/2022/04/14/uk-fintech-startup-leatherback-raises-10m-for-its-cross-border-payments-led-by-zedcrest/)
 - [Beanstock, a buy-to-let investment marketplace raises €12M Series A led by 360 Capital](https://techcrunch.com/2022/04/14/beanstock-a-buy-to-let-investment-marketplace-raises-e12m-series-a-led-by-360-capital/)
 - [VC distributions are down 90% in Q1, says Industry Ventures, an LP in 450 funds](https://techcrunch.com/2022/04/13/vc-distributions-are-down-90-in-q1-says-industry-ventures-an-lp-in-450-funds/)
 - [Tokyo-based Luup to more than double shared e-scooters, e-bikes](https://techcrunch.com/2022/04/13/tokyo-based-luup-to-more-than-double-shared-e-scooters-e-bikes/)
 - [Can VinFast make EV battery subscriptions a thing?](https://techcrunch.com/2022/04/13/can-vinfast-make-ev-battery-subscriptions-a-thing/)
-- [Daily Crunch: Brex says DoorDash is ‘first of many’ new enterprise customers to come](https://techcrunch.com/2022/04/13/daily-crunch-brex-says-doordash-is-first-of-many-new-enterprise-customers-to-come/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
