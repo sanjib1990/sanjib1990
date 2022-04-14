@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Compt nabs $10M to make employee perks more personal](https://techcrunch.com/2022/04/14/compt-nabs-10m-to-make-employee-perks-more-personal/)
-- [Reddit rolls out new search improvements, including the ability to search comments](https://techcrunch.com/2022/04/14/reddit-search-improvements-search-comments/)
-- [Filevine raises $108 million for tools that streamline legal workflows](https://techcrunch.com/2022/04/14/filevine-raises-108-million-for-tools-that-streamline-legal-workflows/)
-- [DoControl raises $30M for no-code security tools for cloud app log-ins](https://techcrunch.com/2022/04/14/docontrol-raises-30m-for-no-code-security-tools-for-cloud-app-log-ins/)
-- [On This Day In Space: April 14, 1981: 1st space shuttle mission lands](https://www.space.com/39251-on-this-day-in-space.html)
+- [Trading dress-up for lift-off, Barbie flies on space station for first time](https://www.space.com/barbie-dolls-space-station-mission-dreamstar)
+- [Shipium gives e-commerce retailers Amazon-like supply chain tech](https://techcrunch.com/2022/04/14/shipium-e-commerce-retailers-supply-chain-tech-amazon/)
+- [India’s Tata confident its super app will deliver where others have struggled](https://techcrunch.com/2022/04/14/india-tata-neu-super-app/)
+- [Tinder adds a ‘Festival Mode’ for making connections ahead of concerts and events](https://techcrunch.com/2022/04/14/tinder-adds-a-festival-mode-for-making-connections-ahead-of-concerts-and-events/)
+- [As post-covid food distribution digitizes, Cerve raises $2M for wholesaler platform](https://techcrunch.com/2022/04/14/as-post-covid-food-distribution-digitizes-cerve-raises-2m-for-wholesaler-platform/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
