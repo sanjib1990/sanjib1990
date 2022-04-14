@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Uber cites tough regulations as it suspends Tanzania operations](https://techcrunch.com/2022/04/14/uber-cites-tough-regulations-as-it-suspends-tanzania-operations/)
-- [Elon Musk offers to buy Twitter for $43 billion](https://techcrunch.com/2022/04/14/elon-musk-offers-to-buy-twitter-for-43-billion/)
-- [Mars helicopter Ingenuity aces record-breaking 25th flight](https://www.space.com/mars-helicopter-ingenuity-record-breaking-25th-flight)
-- [Most distant star to date spotted — but how much further back in time could we see?](https://www.space.com/most-distant-star-how-far-back-in-time)
-- [See a sunrise on Mars in this stunning view from NASA&#39;s InSight lander &lpar;photo&rpar;](https://www.space.com/mars-sunrise-photo-insight-lander)
+- [Compt nabs $10M to make employee perks more personal](https://techcrunch.com/2022/04/14/compt-nabs-10m-to-make-employee-perks-more-personal/)
+- [Reddit rolls out new search improvements, including the ability to search comments](https://techcrunch.com/2022/04/14/reddit-search-improvements-search-comments/)
+- [Filevine raises $108 million for tools that streamline legal workflows](https://techcrunch.com/2022/04/14/filevine-raises-108-million-for-tools-that-streamline-legal-workflows/)
+- [DoControl raises $30M for no-code security tools for cloud app log-ins](https://techcrunch.com/2022/04/14/docontrol-raises-30m-for-no-code-security-tools-for-cloud-app-log-ins/)
+- [On This Day In Space: April 14, 1981: 1st space shuttle mission lands](https://www.space.com/39251-on-this-day-in-space.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
