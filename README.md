@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Private Ax-1 astronaut Eytan Stibbe to celebrate Passover in space](https://www.space.com/ax1-private-astronaut-eytan-stibbe-passover)
+- [Scientists spot elusive mini red giant stars, victims of stellar stealing](https://www.space.com/mini-red-giant-stars-kepler-space-telescope)
+- [Ax-1, Israel and the &#39;New Space&#39; revolution: Q&amp;A with Israel space chief Uri Oron](https://www.space.com/israel-space-agency-uri-oron-interview)
 - [Swiggy backs bike taxi platform Rapido in $180 million funding](https://techcrunch.com/2022/04/15/swiggy-rapido/)
 - [Itilite secures $29M to automate corporate expensing workflows](https://techcrunch.com/2022/04/14/itlite-secures-29m-to-automate-corporate-expensing-workflows/)
-- [Daily Crunch: Elon Musk sets sights on Twitter with unsolicited $43B takeover bid](https://techcrunch.com/2022/04/14/daily-crunch-elon-musk-sets-sights-on-twitter-with-unsolicited-43b-takeover-bid/)
-- [Faraday Future demotes founder as management shakeup continues](https://techcrunch.com/2022/04/14/faraday-future-founder-yt-investigation/)
-- [NASA calls off 3rd attempt to fuel up Artemis 1 moon rocket](https://www.space.com/nasa-calls-off-artemis-1-moon-rocket-sls-fueling)
 <!-- BLOG-POST-LIST:END -->
 
 ---
