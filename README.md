@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Curious kids: What is a dwarf planet?](https://www.space.com/what-is-a-dwarf-planet)
-- [Slope brings on new CFO, customers, capital as it rises to offer businesses buy now, pay later](https://techcrunch.com/2022/04/15/slope-series-a-buy-now-pay-later-b2b-payments/)
-- [On This Day In Space: April 15, 2005: NASA spacecraft collides with satellite](https://www.space.com/39251-on-this-day-in-space.html)
-- [Private Ax-1 astronaut Eytan Stibbe to celebrate Passover in space](https://www.space.com/ax1-private-astronaut-eytan-stibbe-passover)
-- [Scientists spot elusive mini red giant stars, victims of stellar stealing](https://www.space.com/mini-red-giant-stars-kepler-space-telescope)
+- [Butterfly Nebula glows red in spectacular image from NASA&#39;s Spitzer Space Telescope](https://www.space.com/spitzer-telescope-butterfly-nebula-w40-photo)
+- [Opera brings its Crypto Browser to iPhones and iPads](https://techcrunch.com/2022/04/15/opera-brings-its-crypto-browser-to-iphones-and-ipads/)
+- [US officials link North Korean Lazarus hackers to $625M Axie Infinity crypto theft](https://techcrunch.com/2022/04/15/us-officials-link-north-korean-lazarus-hackers-to-625m-axie-infinity-crypto-theft/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [‘The Ultimatum’ and social fintech have more in common than you’d think](https://techcrunch.com/2022/04/15/the-ultimatum-and-social-fintech-have-more-in-common-than-youd-think/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
