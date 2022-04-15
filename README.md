@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Uniswap Labs COO says mainstream crypto adoption hinges on accessibility and ease](https://techcrunch.com/2022/04/15/uniswap-labs-coo-says-mainstream-crypto-adoption-hinges-on-accessibility-and-ease/)
+- [TechCrunch+ roundup: Musk’s Twitter bid, European cannabis survey, borrowing against NFTs](https://techcrunch.com/2022/04/15/techcrunch-roundup-musks-twitter-bid-european-cannabis-survey-borrowing-against-nfts/)
+- [4 planets align over Manhattan in dazzling Good Friday parade &lpar;photo&rpar;](https://www.space.com/venus-mars-jupiter-saturn-align-manhattan-photo)
 - [Youth sports app TeamSnap launches a new system designed for clubs and leagues](https://techcrunch.com/2022/04/15/youth-sports-app-teamsnap-launches-a-new-system-designed-for-clubs-and-leagues/)
 - [Alien planet with 3 stars is actually a star itself, scientists determine](https://www.space.com/three-stars-planet-discovery-retraction)
-- [China further limits access to unauthorized foreign games](https://techcrunch.com/2022/04/15/china-further-limits-access-to-unauthorized-foreign-games/)
-- [Twitter adopts poison pill defense to block Elon Musk takeover](https://techcrunch.com/2022/04/15/twitter-adopts-poison-pill-defense-to-block-elon-musk-takeover/)
-- [The Toyota bZ4X: Solidly middling EV](https://techcrunch.com/2022/04/15/the-toyota-bz4x-ev-solidly-middling/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
