@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Butterfly Nebula glows red in spectacular image from NASA&#39;s Spitzer Space Telescope](https://www.space.com/spitzer-telescope-butterfly-nebula-w40-photo)
-- [Opera brings its Crypto Browser to iPhones and iPads](https://techcrunch.com/2022/04/15/opera-brings-its-crypto-browser-to-iphones-and-ipads/)
-- [US officials link North Korean Lazarus hackers to $625M Axie Infinity crypto theft](https://techcrunch.com/2022/04/15/us-officials-link-north-korean-lazarus-hackers-to-625m-axie-infinity-crypto-theft/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [‘The Ultimatum’ and social fintech have more in common than you’d think](https://techcrunch.com/2022/04/15/the-ultimatum-and-social-fintech-have-more-in-common-than-youd-think/)
+- [Meta is developing a web version of Horizon Worlds](https://techcrunch.com/2022/04/15/meta-developing-web-version-horizon-worlds/)
+- [European startups elude global VC funding slowdown in Q1 2022](https://techcrunch.com/2022/04/15/european-startups-elude-global-vc-funding-slowdown-in-q1-2022/)
+- [Save big with these 3 Celestron telescope deals at Adorama](https://www.space.com/celestron-telescopes-three-adorama-deals)
+- [7 Days left to apply to pitch your startup at TC Sessions: Mobility](https://techcrunch.com/2022/04/15/7-days-left-to-apply-to-pitch-your-startup-at-tc-sessions-mobility/)
+- [SpaceX Ax-1 private mission to space station: Live updates](https://www.space.com/news/live/ax-1-space-station-mission-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
