@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [On This Day In Space: April 15, 2005: NASA spacecraft collides with satellite](https://www.space.com/39251-on-this-day-in-space.html)
 - [Private Ax-1 astronaut Eytan Stibbe to celebrate Passover in space](https://www.space.com/ax1-private-astronaut-eytan-stibbe-passover)
 - [Scientists spot elusive mini red giant stars, victims of stellar stealing](https://www.space.com/mini-red-giant-stars-kepler-space-telescope)
 - [Ax-1, Israel and the &#39;New Space&#39; revolution: Q&amp;A with Israel space chief Uri Oron](https://www.space.com/israel-space-agency-uri-oron-interview)
 - [Swiggy backs bike taxi platform Rapido in $180 million funding](https://techcrunch.com/2022/04/15/swiggy-rapido/)
-- [Itilite secures $29M to automate corporate expensing workflows](https://techcrunch.com/2022/04/14/itlite-secures-29m-to-automate-corporate-expensing-workflows/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
