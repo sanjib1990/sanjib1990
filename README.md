@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [An inside look at a Ukrainian fintech startup adapting to life during wartime](https://techcrunch.com/2022/04/15/an-inside-look-at-a-ukrainian-fintech-startup-adapting-to-life-during-wartime/)
+- [Watch China&#39;s Shenzhou 13 astronauts return to Earth from space station tonight](https://www.space.com/china-shenzhou-13-astronauts-space-station-landing-webcast)
+- [The 10 EVs and plug-in hybrids that stood out at the New York Auto Show](https://techcrunch.com/2022/04/15/top-evs-new-york-auto-show/)
 - [Uniswap Labs COO says mainstream crypto adoption hinges on accessibility and ease](https://techcrunch.com/2022/04/15/uniswap-labs-coo-says-mainstream-crypto-adoption-hinges-on-accessibility-and-ease/)
 - [TechCrunch+ roundup: Musk’s Twitter bid, European cannabis survey, borrowing against NFTs](https://techcrunch.com/2022/04/15/techcrunch-roundup-musks-twitter-bid-european-cannabis-survey-borrowing-against-nfts/)
-- [4 planets align over Manhattan in dazzling Good Friday parade &lpar;photo&rpar;](https://www.space.com/venus-mars-jupiter-saturn-align-manhattan-photo)
-- [Youth sports app TeamSnap launches a new system designed for clubs and leagues](https://techcrunch.com/2022/04/15/youth-sports-app-teamsnap-launches-a-new-system-designed-for-clubs-and-leagues/)
-- [Alien planet with 3 stars is actually a star itself, scientists determine](https://www.space.com/three-stars-planet-discovery-retraction)
 <!-- BLOG-POST-LIST:END -->
 
 ---
