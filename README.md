@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Swiggy backs bike taxi platform Rapido in $180 million funding](https://techcrunch.com/2022/04/15/swiggy-rapido/)
 - [Itilite secures $29M to automate corporate expensing workflows](https://techcrunch.com/2022/04/14/itlite-secures-29m-to-automate-corporate-expensing-workflows/)
 - [Daily Crunch: Elon Musk sets sights on Twitter with unsolicited $43B takeover bid](https://techcrunch.com/2022/04/14/daily-crunch-elon-musk-sets-sights-on-twitter-with-unsolicited-43b-takeover-bid/)
 - [Faraday Future demotes founder as management shakeup continues](https://techcrunch.com/2022/04/14/faraday-future-founder-yt-investigation/)
 - [NASA calls off 3rd attempt to fuel up Artemis 1 moon rocket](https://www.space.com/nasa-calls-off-artemis-1-moon-rocket-sls-fueling)
-- [What hostile takeovers are &lpar;and why they’re usually doomed&rpar;](https://techcrunch.com/2022/04/14/what-hostile-takeovers-are-and-why-theyre-usually-doomed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
