@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [D&amp;D Beyond comes under the wing of Wizards of the Coast in $146 million deal](https://techcrunch.com/2022/04/15/dnd-beyond-wizards-dungeons-and-dragons/)
+- [Daily Crunch: To complicate Musk’s attempt to swallow Twitter, board approves ‘poison pill’ strategy](https://techcrunch.com/2022/04/15/daily-crunch-to-complicate-musks-attempt-to-swallow-twitter-board-approves-poison-pill-strategy/)
+- [SpaceX&#39;s Crew-4 astronaut mission for NASA cleared for April 23 launch](https://www.space.com/spacex-crew-4-nasa-astronaut-mission-cleared-liftoff)
 - [NASA&#39;s SpaceX Crew-3 astronauts are ready to come home](https://www.space.com/crew-3-astronauts-nasa-mission-return-ready)
 - [Announcing the agenda for TechCrunch Sessions: Mobility 2022](https://techcrunch.com/2022/04/15/announcing-the-agenda-for-techcrunch-sessions-mobility-2022/)
-- [An inside look at a Ukrainian fintech startup adapting to life during wartime](https://techcrunch.com/2022/04/15/an-inside-look-at-a-ukrainian-fintech-startup-adapting-to-life-during-wartime/)
-- [Watch China&#39;s Shenzhou 13 astronauts return to Earth from space station tonight](https://www.space.com/china-shenzhou-13-astronauts-space-station-landing-webcast)
-- [The 10 EVs and plug-in hybrids that stood out at the New York Auto Show](https://techcrunch.com/2022/04/15/top-evs-new-york-auto-show/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
