@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [[”Learn”, “This”, “RIGHT”, &quot;NOW!!”] // Python Lists EP 7](https://www.youtube.com/watch?v=1KLgcBcWCsE)
 - [Assembly Language in 100 Seconds](https://www.youtube.com/watch?v=4gwYkEK0gOk)
 - [Square &amp; Multiply Algorithm - Computerphile](https://www.youtube.com/watch?v=cbGB__V8MNk)
 - [The Parallax Effect // 5 Minute WebDev Project](https://www.youtube.com/watch?v=UgIwjLg4ONk)
 - [BASH scripting will change your life](https://www.youtube.com/watch?v=7qd5sqazD7k)
-- [Elixir in 100 Seconds](https://www.youtube.com/watch?v=R7t7zca8SyM)
 <!-- YOUTUBE:END -->
 
 ---
