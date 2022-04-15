@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s SpaceX Crew-3 astronauts are ready to come home](https://www.space.com/crew-3-astronauts-nasa-mission-return-ready)
+- [Announcing the agenda for TechCrunch Sessions: Mobility 2022](https://techcrunch.com/2022/04/15/announcing-the-agenda-for-techcrunch-sessions-mobility-2022/)
 - [An inside look at a Ukrainian fintech startup adapting to life during wartime](https://techcrunch.com/2022/04/15/an-inside-look-at-a-ukrainian-fintech-startup-adapting-to-life-during-wartime/)
 - [Watch China&#39;s Shenzhou 13 astronauts return to Earth from space station tonight](https://www.space.com/china-shenzhou-13-astronauts-space-station-landing-webcast)
 - [The 10 EVs and plug-in hybrids that stood out at the New York Auto Show](https://techcrunch.com/2022/04/15/top-evs-new-york-auto-show/)
-- [Uniswap Labs COO says mainstream crypto adoption hinges on accessibility and ease](https://techcrunch.com/2022/04/15/uniswap-labs-coo-says-mainstream-crypto-adoption-hinges-on-accessibility-and-ease/)
-- [TechCrunch+ roundup: Musk’s Twitter bid, European cannabis survey, borrowing against NFTs](https://techcrunch.com/2022/04/15/techcrunch-roundup-musks-twitter-bid-european-cannabis-survey-borrowing-against-nfts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
