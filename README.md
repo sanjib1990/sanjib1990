@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Neobank Fi finalizing funding at $700 million valuation](https://techcrunch.com/2022/04/16/neobank-fi-finalizing-funding-at-700-million-valuation/)
+- [This Week In Space Podcast: Episode 7 - When will humans get to Mars](https://www.space.com/this-week-in-space-podcast-twit)
+- [On This Day In Space: April 16, 1972: Apollo 16 launches to the moon](https://www.space.com/39251-on-this-day-in-space.html)
 - [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html)
 - [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html)
-- [The sun has blasted Mercury with a plasma wave](https://www.space.com/mercury-blasted-by-solar-wave)
-- [See the full Pink Moon rise tonight amid Easter, Passover and Ramadan](https://www.space.com/full-pink-moon-rises-tonight-april-2022)
-- [Let’s stop pretending there are silos in startuland](https://techcrunch.com/2022/04/16/startup-silos-markets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
