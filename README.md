@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html)
+- [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html)
+- [The sun has blasted Mercury with a plasma wave](https://www.space.com/mercury-blasted-by-solar-wave)
+- [See the full Pink Moon rise tonight amid Easter, Passover and Ramadan](https://www.space.com/full-pink-moon-rises-tonight-april-2022)
 - [Let’s stop pretending there are silos in startuland](https://techcrunch.com/2022/04/16/startup-silos-markets/)
-- [China&#39;s Shenzhou 13 capsule lands with crew of 3 after record-setting mission](https://www.space.com/china-shenzhou-13-astronauts-landing-returns-to-earth)
-- [NASA may resume critical Artemis 1 moon rocket tests next week](https://www.space.com/nasa-artemis-1-moon-rocket-test-plans)
-- [Artemis 1 moon rocket gets space station flyover in stunning NASA photo](https://www.space.com/artemis-1-moon-rocket-space-station-nasa-photo)
-- [D&amp;D Beyond comes under the wing of Wizards of the Coast in $146 million deal](https://techcrunch.com/2022/04/15/dnd-beyond-wizards-dungeons-and-dragons/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
