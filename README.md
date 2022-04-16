@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Artemis 1 moon rocket gets space station flyover in stunning NASA photo](https://www.space.com/artemis-1-moon-rocket-space-station-nasa-photo)
 - [D&amp;D Beyond comes under the wing of Wizards of the Coast in $146 million deal](https://techcrunch.com/2022/04/15/dnd-beyond-wizards-dungeons-and-dragons/)
 - [Daily Crunch: To complicate Musk’s attempt to swallow Twitter, board approves ‘poison pill’ strategy](https://techcrunch.com/2022/04/15/daily-crunch-to-complicate-musks-attempt-to-swallow-twitter-board-approves-poison-pill-strategy/)
 - [SpaceX&#39;s Crew-4 astronaut mission for NASA cleared for April 23 launch](https://www.space.com/spacex-crew-4-nasa-astronaut-mission-cleared-liftoff)
 - [NASA&#39;s SpaceX Crew-3 astronauts are ready to come home](https://www.space.com/crew-3-astronauts-nasa-mission-return-ready)
-- [Announcing the agenda for TechCrunch Sessions: Mobility 2022](https://techcrunch.com/2022/04/15/announcing-the-agenda-for-techcrunch-sessions-mobility-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
