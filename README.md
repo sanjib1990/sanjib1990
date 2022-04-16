@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ukraine invasion&#39;s impacts on space exploration: Live updates](https://www.space.com/news/live/russia-ukraine-invasion-space-impacts-updates)
 - [Deep Science: AI cuts, flows, and goes green](https://techcrunch.com/2022/04/16/deep-science-ai-cuts-flows-and-goes-green/)
 - [Reality splinters in new featurette for Marvel&#39;s &#39;Doctor Strange in the Multiverse of Madness&#39; &lpar;video&rpar;](https://www.space.com/doctor-strange-in-the-multiverse-of-madness-marvel-featurette)
 - [Elusive planet Mercury will shine after sunset in the April 2022 evening sky](https://www.space.com/mercury-visible-april-2022-evening-sky)
 - [Neobank Fi finalizing funding at $700 million valuation](https://techcrunch.com/2022/04/16/neobank-fi-finalizing-funding-at-700-million-valuation/)
-- [This Week In Space Podcast: Episode 7 - When will humans get to Mars](https://www.space.com/this-week-in-space-podcast-twit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
