@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [China&#39;s Shenzhou 13 capsule lands with crew of 3 after record-setting mission](https://www.space.com/china-shenzhou-13-astronauts-landing-returns-to-earth)
 - [NASA may resume critical Artemis 1 moon rocket tests next week](https://www.space.com/nasa-artemis-1-moon-rocket-test-plans)
 - [Artemis 1 moon rocket gets space station flyover in stunning NASA photo](https://www.space.com/artemis-1-moon-rocket-space-station-nasa-photo)
 - [D&amp;D Beyond comes under the wing of Wizards of the Coast in $146 million deal](https://techcrunch.com/2022/04/15/dnd-beyond-wizards-dungeons-and-dragons/)
 - [Daily Crunch: To complicate Musk’s attempt to swallow Twitter, board approves ‘poison pill’ strategy](https://techcrunch.com/2022/04/15/daily-crunch-to-complicate-musks-attempt-to-swallow-twitter-board-approves-poison-pill-strategy/)
-- [SpaceX&#39;s Crew-4 astronaut mission for NASA cleared for April 23 launch](https://www.space.com/spacex-crew-4-nasa-astronaut-mission-cleared-liftoff)
 <!-- BLOG-POST-LIST:END -->
 
 ---
