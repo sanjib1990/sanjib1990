@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Week in Apps: Elon bids for Twitter, WhatsApp adds Communities, Spotify goes ‘Live’](https://techcrunch.com/2022/04/16/this-week-in-apps-elon-bids-for-twitter-whatsapp-adds-communities-spotify-goes-live/)
+- [We’re still in founder-friendly market, kind of](https://techcrunch.com/2022/04/16/founder-friendly-market/)
 - [What’s the real argument in favor of Musk buying Twitter?](https://techcrunch.com/2022/04/16/whats-the-real-argument-in-favor-of-musk-buying-twitter/)
 - [Meet the Zoox robotaxi alongside co-founder Jesse Levinson at TC Sessions: Mobility 2022](https://techcrunch.com/2022/04/16/meet-the-zoox-robotaxi-alongside-co-founder-jesse-levinson-at-tc-sessions-mobility-2022/)
 - [Ukraine invasion&#39;s impacts on space exploration: Live updates](https://www.space.com/news/live/russia-ukraine-invasion-space-impacts-updates)
-- [Deep Science: AI cuts, flows, and goes green](https://techcrunch.com/2022/04/16/deep-science-ai-cuts-flows-and-goes-green/)
-- [Reality splinters in new featurette for Marvel&#39;s &#39;Doctor Strange in the Multiverse of Madness&#39; &lpar;video&rpar;](https://www.space.com/doctor-strange-in-the-multiverse-of-madness-marvel-featurette)
 <!-- BLOG-POST-LIST:END -->
 
 ---
