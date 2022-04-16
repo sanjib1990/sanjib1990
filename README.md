@@ -82,7 +82,7 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [you need to learn Python Lists RIGHT NOW!!](https://www.youtube.com/watch?v=1KLgcBcWCsE)
+- [[“This”, “is”, “a”, “PYTHON”, “LIST”] // EP 7](https://www.youtube.com/watch?v=1KLgcBcWCsE)
 - [Assembly Language in 100 Seconds](https://www.youtube.com/watch?v=4gwYkEK0gOk)
 - [Square &amp; Multiply Algorithm - Computerphile](https://www.youtube.com/watch?v=cbGB__V8MNk)
 - [The Parallax Effect // 5 Minute WebDev Project](https://www.youtube.com/watch?v=UgIwjLg4ONk)
