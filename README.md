@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [On This Day In Space: April 17, 1970: Apollo 13 returns home from aborted moon mission](https://www.space.com/39251-on-this-day-in-space.html)
+- [Sequoia Capital India pledges to take proactive steps amid fraud allegations at some startups](https://techcrunch.com/2022/04/17/sequoia-capital-india-pledges-to-take-proactive-steps-amid-fraud-allegations-at-some-startups/)
 - [5 failed alternatives to the Big Bang theory and why they didn&#39;t work](https://www.space.com/big-bang-failed-alternative-theories)
 - [How many space rocks hit the moon every year?](https://www.space.com/how-many-moon-meteorite-impacts)
 - [Watch SpaceX launch a US spy satellite and land a rocket today](https://www.space.com/spacex-spy-satellite-nrol-85-launch-preview)
-- [Rocket launch today: SpaceX launching US spy satellite in morning liftoff](https://www.space.com/17933-nasa-television-webcasts-live-space-tv.html)
-- [Metaverses grapple with Meta versus Apple](https://techcrunch.com/2022/04/16/metaverses-grapple-with-meta-versus-apple/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
