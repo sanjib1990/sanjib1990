@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Huge explosion on sun unleashes major solar flare on Easter](https://www.space.com/sun-unleashes-major-easter-solar-flare)
 - [NASA to roll Artemis 1 moon rocket off the launch pad after failed fueling tries](https://www.space.com/nasa-artemis-1-moon-rocket-rolling-off-launch-pad)
 - [Amazing photos of Full Pink Moon of April 2022 &lpar;gallery&rpar;](https://www.space.com/full-pink-moon-april-full-moon-2022-photos-gallery)
 - [Fintech Roundup: The gloves are off in the spend management space](https://techcrunch.com/2022/04/17/fintech-roundup-the-gloves-are-off-in-the-spend-management-space/)
 - [SpaceX launches US spy satellite, lands rocket in flawless Easter flight](https://www.space.com/spacex-spy-satellite-nrol-85-launch-rocket-landing)
-- [On This Day In Space: April 17, 1970: Apollo 13 returns home from aborted moon mission](https://www.space.com/39251-on-this-day-in-space.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
