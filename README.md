@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX to launch US spy satellite, land rocket Sunday: Watch it live](https://www.space.com/spacex-spy-satellite-nrol-85-launch-preview)
 - [Metaverses grapple with Meta versus Apple](https://techcrunch.com/2022/04/16/metaverses-grapple-with-meta-versus-apple/)
 - [Apollo 16: Celebrating 50 years since the penultimate moon landing](https://www.space.com/apollo-16-50th-anniversary-charlie-duke)
 - [This Week in Apps: Elon bids for Twitter, WhatsApp adds Communities, Spotify goes ‘Live’](https://techcrunch.com/2022/04/16/this-week-in-apps-elon-bids-for-twitter-whatsapp-adds-communities-spotify-goes-live/)
 - [We’re still in founder-friendly market, kind of](https://techcrunch.com/2022/04/16/founder-friendly-market/)
-- [What’s the real argument in favor of Musk buying Twitter?](https://techcrunch.com/2022/04/16/whats-the-real-argument-in-favor-of-musk-buying-twitter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
