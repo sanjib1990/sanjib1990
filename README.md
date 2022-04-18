@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Haunting northern lights glow in green in images taken from Alaska &lpar;photos&rpar;](https://www.space.com/northern-lights-green-images-trapper-alaska)
+- [Hype, hope and money: Your guide to all the EV SPAC investigations going on](https://techcrunch.com/2022/04/18/hype-hope-and-money-your-guide-to-all-the-ev-spac-investigations-going-on/)
 - [Review: Playdate is a refreshing and unique gaming handheld, but keep your expectations weird](https://techcrunch.com/2022/04/18/playdate-review-indie-gaming-handheld/)
 - [&#39;Blade Runner: Black Lotus&#39; scores a new sequel miniseries from Titan Comics](https://www.space.com/blade-runner-black-lotus-titan-comics)
 - [Twitter’s in-development Edit button offers hints as to how the feature could work](https://techcrunch.com/2022/04/18/twitters-in-development-edit-button-offers-hints-as-to-how-the-feature-could-work/)
-- [Instagram rolls out product tagging feature to U.S. users](https://techcrunch.com/2022/04/18/instagram-rolls-out-product-tagging-feature-to-u-s-users/)
-- [New ‘Thor: Love and Thunder’ trailer reveals a new goddess of thunder](https://techcrunch.com/2022/04/18/new-thor-love-and-thunder-trailer-reveals-a-new-goddess-of-thunder/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
