@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Review: Playdate is a refreshing and unique gaming handheld, but keep your expectations weird](https://techcrunch.com/2022/04/18/playdate-review-indie-gaming-handheld/)
+- [&#39;Blade Runner: Black Lotus&#39; scores a new sequel miniseries from Titan Comics](https://www.space.com/blade-runner-black-lotus-titan-comics)
+- [Twitter’s in-development Edit button offers hints as to how the feature could work](https://techcrunch.com/2022/04/18/twitters-in-development-edit-button-offers-hints-as-to-how-the-feature-could-work/)
+- [Instagram rolls out product tagging feature to U.S. users](https://techcrunch.com/2022/04/18/instagram-rolls-out-product-tagging-feature-to-u-s-users/)
 - [New ‘Thor: Love and Thunder’ trailer reveals a new goddess of thunder](https://techcrunch.com/2022/04/18/new-thor-love-and-thunder-trailer-reveals-a-new-goddess-of-thunder/)
-- [Ellis raises $5.6M to pave the way for international students](https://techcrunch.com/2022/04/18/ellis-raises-5-6m-to-pave-the-way-for-international-students/)
-- [NASA&#39;s InSight Mars lander spotted from orbit, covered in dust](https://www.space.com/nasa-insight-dust-photo-from-orbit)
-- [Netflix to launch an ‘Exploding Kittens’ mobile game tied to an new animated TV series](https://techcrunch.com/2022/04/18/netflix-to-launch-an-exploding-kittens-mobile-game-tied-to-an-new-animated-tv-series/)
-- [Microsoft is reportedly looking to bring ads to free-to-play Xbox games](https://techcrunch.com/2022/04/18/microsoft-ads-free-to-play-xbox-games/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
