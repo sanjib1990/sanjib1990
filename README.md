@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why does a16z need its own Y Combinator?](https://techcrunch.com/2022/04/18/andreessen-horowitz-y-combinator/)
+- [SpaceX Ax-1 private mission to space station: Live updates](https://www.space.com/news/live/ax-1-space-station-mission-updates)
+- [Facebook is losing interest in its podcasting plans, new report claims](https://techcrunch.com/2022/04/18/facebook-reportedly-losing-interest-podcasting/)
+- [Andreessen Horowitz unveils piloted program for early-stage entrepreneurs](https://techcrunch.com/2022/04/18/andreessen-horowitz-a16z-start-seed/)
 - [Spotify says my imaginary iguana Gerald likes Doja Cat](https://techcrunch.com/2022/04/18/spotify-pet-playlists/)
-- [Waymo co-CEO Dmitri Dolgov is coming to TC Sessions: Mobility 2022 to talk about progress and pitfalls of scaling robotaxis](https://techcrunch.com/2022/04/18/waymo-co-ceo-dmitri-dolgov-is-coming-to-tc-sessions-mobility-2022-to-talk-about-progress-and-pitfalls-of-scaling-robotaxis/)
-- [Web scraping is legal, US appeals court reaffirms](https://techcrunch.com/2022/04/18/web-scraping-legal-court/)
-- [Google teams up with the NBA to host a ‘virtual’ Pixel Arena inside the NBA App](https://techcrunch.com/2022/04/18/google-teams-up-with-the-nba-to-host-a-virtual-pixel-arena-inside-the-nba-app/)
-- [Apple retail workers at the Grand Central store are trying to unionize](https://techcrunch.com/2022/04/18/apple-union-grand-central/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
