@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Daily Crunch: 2 unannounced rounds boost Clipboard Health to $1.3B valuation](https://techcrunch.com/2022/04/18/2-unannounced-rounds-boost-clipboard-health-to-1-3b-valuation/)
+- [Private Ax-1 mission&#39;s ISS departure delayed to Tuesday evening](https://www.space.com/ax1-mission-departure-space-station-delay)
 - [Cosmonauts on spacewalk begin configuring new European robotic arm outside space station](https://www.space.com/cosmonauts-spacewalk-european-robotic-arm-april-2022)
-- [Max Q: Up, up and away](https://techcrunch.com/2022/04/18/max-q-up-up-and-away/)
 - [SpaceX Crew-4 astronauts arrive in Florida ahead of April 23 launch to ISS &lpar;photos&rpar;](https://www.space.com/crew-4-astronauts-arrive-florida-launch-site-photos)
 - [NASA to roll Artemis 1 moon rocket off the launch pad early next week](https://www.space.com/nasa-artemis-1-moon-rocket-rollback-april-2022)
+- [SpaceX Ax-1 private mission to space station: Live updates](https://www.space.com/news/live/ax-1-space-station-mission-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
