@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Haunting northern lights glow in green in images taken from Alaska &lpar;photos&rpar;](https://www.space.com/northern-lights-green-images-trapper-alaska)
-- [Hype, hope and money: Your guide to all the EV SPAC investigations going on](https://techcrunch.com/2022/04/18/hype-hope-and-money-your-guide-to-all-the-ev-spac-investigations-going-on/)
-- [Review: Playdate is a refreshing and unique gaming handheld, but keep your expectations weird](https://techcrunch.com/2022/04/18/playdate-review-indie-gaming-handheld/)
-- [&#39;Blade Runner: Black Lotus&#39; scores a new sequel miniseries from Titan Comics](https://www.space.com/blade-runner-black-lotus-titan-comics)
-- [Twitter’s in-development Edit button offers hints as to how the feature could work](https://techcrunch.com/2022/04/18/twitters-in-development-edit-button-offers-hints-as-to-how-the-feature-could-work/)
+- [Google teams up with the NBA to host a ‘virtual’ Pixel Arena inside the NBA App](https://techcrunch.com/2022/04/18/google-teams-up-with-the-nba-to-host-a-virtual-pixel-arena-inside-the-nba-app/)
+- [Apple retail workers at the Grand Central store are trying to unionize](https://techcrunch.com/2022/04/18/apple-union-grand-central/)
+- [Cram downs are a character test for VCs and founders](https://techcrunch.com/2022/04/18/cram-downs-are-a-character-test-for-vcs-and-founders/)
+- [The AMC mobile app for U.S. theaters now accepts Dogecoin, Shiba Inu, and other cryptocurrencies](https://techcrunch.com/2022/04/18/the-amc-mobile-app-for-u-s-theaters-now-accepts-dogecoin-shiba-inu-and-other-cryptocurrencies/)
+- [Hologram doctors beamed to space station to visit astronauts](https://www.space.com/hologram-doctor-space-station-nasa-astronauts)
 <!-- BLOG-POST-LIST:END -->
 
 ---
