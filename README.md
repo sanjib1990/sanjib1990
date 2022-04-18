@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Stunning pink moon sets behind Artemis 1 just before it rolls off the pad](https://www.space.com/pink-moon-artemis-1-launch-pad)
+- [Tesla pulls the plug on the Gen 2 Mobile Connector Bundle included with vehicle purchase](https://techcrunch.com/2022/04/18/tesla-pulls-the-plug-on-the-gen-2-mobile-connector-bundle-included-with-vehicle-purchase/)
+- [Yep, startup prices are falling](https://techcrunch.com/2022/04/18/yep-startup-prices-are-falling/)
 - [Are poison pills really that bitter?](https://techcrunch.com/2022/04/18/are-poison-pills-really-that-bitter/)
 - [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [Watch 2 Russian cosmonauts spacewalk outside the International Space Station today](https://www.space.com/russian-cosmonauts-space-station-spacewalk-webcast-april-18-2022)
-- [China launched 2 rockets back-to-back just ahead of astronauts&#39; landing](https://www.space.com/china-double-rocket-launch-before-astronaut-landing)
-- [Clipboard Health, which matches health workers with facilities, raises $80M](https://techcrunch.com/2022/04/18/clipboard-health-which-matches-health-workers-with-facilities-raises-80m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
