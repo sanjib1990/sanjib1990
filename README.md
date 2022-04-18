@@ -82,7 +82,7 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [the giant internet BandAid.](https://www.youtube.com/watch?v=8bhvn9tQk8o)
+- [we’re out of IP Addresses….but this saved us &lpar;Private IP Addresses&rpar;](https://www.youtube.com/watch?v=8bhvn9tQk8o)
 - [[“This”, “is”, “a”, “PYTHON”, “LIST”] // EP 7](https://www.youtube.com/watch?v=1KLgcBcWCsE)
 - [Assembly Language in 100 Seconds](https://www.youtube.com/watch?v=4gwYkEK0gOk)
 - [Square &amp; Multiply Algorithm - Computerphile](https://www.youtube.com/watch?v=cbGB__V8MNk)
