@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spotify says my imaginary iguana Gerald likes Doja Cat](https://techcrunch.com/2022/04/18/spotify-pet-playlists/)
+- [Waymo co-CEO Dmitri Dolgov is coming to TC Sessions: Mobility 2022 to talk about progress and pitfalls of scaling robotaxis](https://techcrunch.com/2022/04/18/waymo-co-ceo-dmitri-dolgov-is-coming-to-tc-sessions-mobility-2022-to-talk-about-progress-and-pitfalls-of-scaling-robotaxis/)
+- [Web scraping is legal, US appeals court reaffirms](https://techcrunch.com/2022/04/18/web-scraping-legal-court/)
 - [Google teams up with the NBA to host a ‘virtual’ Pixel Arena inside the NBA App](https://techcrunch.com/2022/04/18/google-teams-up-with-the-nba-to-host-a-virtual-pixel-arena-inside-the-nba-app/)
 - [Apple retail workers at the Grand Central store are trying to unionize](https://techcrunch.com/2022/04/18/apple-union-grand-central/)
-- [Cram downs are a character test for VCs and founders](https://techcrunch.com/2022/04/18/cram-downs-are-a-character-test-for-vcs-and-founders/)
-- [The AMC mobile app for U.S. theaters now accepts Dogecoin, Shiba Inu, and other cryptocurrencies](https://techcrunch.com/2022/04/18/the-amc-mobile-app-for-u-s-theaters-now-accepts-dogecoin-shiba-inu-and-other-cryptocurrencies/)
-- [Hologram doctors beamed to space station to visit astronauts](https://www.space.com/hologram-doctor-space-station-nasa-astronauts)
 <!-- BLOG-POST-LIST:END -->
 
 ---
