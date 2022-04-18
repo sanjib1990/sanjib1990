@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Swiggy and Zomato, food delivery rivals in India, back UrbanPiper in $24 million funding](https://techcrunch.com/2022/04/17/swiggy-and-zomato-food-delivery-rivals-in-india-back-urbanpiper-in-24-million-funding/)
 - [Huge explosion on sun unleashes major solar flare on Easter](https://www.space.com/sun-unleashes-major-easter-solar-flare)
 - [NASA to roll Artemis 1 moon rocket off the launch pad after failed fueling tries](https://www.space.com/nasa-artemis-1-moon-rocket-rolling-off-launch-pad)
 - [Amazing photos of Full Pink Moon of April 2022 &lpar;gallery&rpar;](https://www.space.com/full-pink-moon-april-full-moon-2022-photos-gallery)
 - [Fintech Roundup: The gloves are off in the spend management space](https://techcrunch.com/2022/04/17/fintech-roundup-the-gloves-are-off-in-the-spend-management-space/)
-- [SpaceX launches US spy satellite, lands rocket in flawless Easter flight](https://www.space.com/spacex-spy-satellite-nrol-85-launch-rocket-landing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
