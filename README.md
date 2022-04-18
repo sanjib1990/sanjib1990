@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [China launched 2 rockets back-to-back just ahead of astronauts&#39; landing](https://www.space.com/china-double-rocket-launch-before-astronaut-landing)
+- [Clipboard Health, which matches health workers with facilities, raises $80M](https://techcrunch.com/2022/04/18/clipboard-health-which-matches-health-workers-with-facilities-raises-80m/)
+- [Nowadays puts its spin on plant-based nuggets](https://techcrunch.com/2022/04/18/nowadays-plant-based-nuggets/)
 - [The Station: Jeep’s road to EVs, Musk’s great big distraction and a last call for mobility founders](https://techcrunch.com/2022/04/18/the-station-jeeps-road-to-evs-musks-great-big-distraction-and-a-last-call-for-mobility-founders/)
 - [On This Day In Space: April 18, 2014: NASA&#39;s LADEE probe crashes into the moon](https://www.space.com/39251-on-this-day-in-space.html)
-- [Gamma-ray telescopes may help scientists catch more gravitational waves](https://www.space.com/gravitational-wave-detection-with-gamma-ray-pulsars)
-- [A universe without mathematics is beyond the scope of our imagination](https://www.space.com/universe-without-mathematics-beyond-imagination)
-- [Colossal asteroid impact forever changed the balance of the moon](https://www.space.com/dark-side-moon-crater-impact-imbalance)
 <!-- BLOG-POST-LIST:END -->
 
 ---
