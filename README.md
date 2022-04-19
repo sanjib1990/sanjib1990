@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [New VC firm Baukunst spools up to invest in ‘creative technologists’](https://techcrunch.com/2022/04/19/baukunst/)
-- [Steer’s Anuja Sonalker explains the benefits of chasing the less glitzy side of autonomy](https://techcrunch.com/2022/04/19/steers-anuja-sonalker-explains-the-benefits-of-chasing-the-less-glitzy-side-of-autonomy/)
-- [Rethinking Databricks’ valuation amid a changing market](https://techcrunch.com/2022/04/19/rethinking-databricks-valuation-amid-a-changing-market/)
-- [North Korean hackers are targeting blockchain companies with malicious crypto-stealing apps](https://techcrunch.com/2022/04/19/north-korea-blockchain-crypto/)
-- [Instagram Reels adds support for fundraisers in 30 countries worldwide](https://techcrunch.com/2022/04/19/instagram-reels-adds-support-for-fundraisers-in-30-countries-worldwide/)
+- [HBO Max backs ‘Minecraft’ movie with ‘Aquaman’ star Jason Momoa](https://techcrunch.com/2022/04/19/hbo-max-backs-minecraft-movie-with-aquaman-star-jason-momoa/)
+- [Dean Kamen is coming to TC Sessions: Robotics July 22 in Boston](https://techcrunch.com/2022/04/19/dean-kamen-is-coming-to-tc-sessions-robotics-july-22-in-boston/)
+- [Recycling robotics firm Glacier emerges from stealth with $4.5M](https://techcrunch.com/2022/04/19/recycling-robotics-firm-glacier-emerges-from-stealth-with-4-5m/)
+- [Apple increased the use of recycled materials in its products to nearly 20% in 2021](https://techcrunch.com/2022/04/19/apple-increased-the-use-of-recycled-materials-in-its-products-to-nearly-20-in-2021/)
+- [Google opens product development center in Nairobi, the first in Africa](https://techcrunch.com/2022/04/19/google-opens-product-development-center-in-nairobi-the-first-in-africa/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
