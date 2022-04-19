@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hubble Space Telescope celebrates 32nd anniversary with gorgeous gravitational &#39;dance&#39; photo](https://www.space.com/hubble-space-telescope-32nd-anniversary-photo)
 - [SpaceX&#39;s Crew-3 astronaut mission for NASA: Live updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates)
 - [SpaceX rolls out rocket for Crew-4 astronaut mission ahead of Saturday launch &lpar;photos&rpar;](https://www.space.com/nasa-spacex-crew-4-astronaut-mission-rollout-photos)
-- [Here&#39;s the view from a NASA spacecraft bound for Jupiter asteroids](https://www.space.com/nasa-lucy-asteroid-mission-test-star-photos)
-- [SpaceX Ax-1 private mission to space station: Live updates](https://www.space.com/news/live/ax-1-space-station-mission-updates)
-- [Playbook, where ‘Pinterest meets Dropbox’ for designers, closes on $18M in funding](https://techcrunch.com/2022/04/19/playbook-where-pinterest-meets-dropbox-for-designers-closes-on-18m-in-funding/)
+- [GoTo’s debut shows the global IPO window is not entirely closed](https://techcrunch.com/2022/04/19/gotos-debut-shows-the-global-ipo-window-is-not-entirely-closed/)
+- [What am I worth now?](https://techcrunch.com/2022/04/19/what-is-my-startup-worth-after-a-public-market-correction/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
