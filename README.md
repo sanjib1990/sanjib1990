@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lyft follows Uber’s lead and removes its mask mandate](https://techcrunch.com/2022/04/19/lyft-uber-mask-requirement/)
+- [A $30M fund backed by dozens of power players aims to empower founders of Asian descent](https://techcrunch.com/2022/04/19/a-30m-fund-backed-by-dozens-of-power-players-aims-to-empower-founders-of-asian-descent/)
+- [TechCrunch+ roundup: VC ‘bottom feeders,’ valuation calculator, think like an investor](https://techcrunch.com/2022/04/19/techcrunch-roundup-vc-bottom-feeders-valuation-calculator-think-like-an-investor/)
 - [Lyft doubles micromobility footprint with PBSC acquisition](https://techcrunch.com/2022/04/19/lyft-doubles-micromobility-footprint-with-pbsc-acquisition/)
 - [Netflix shares down more than 20% after losing 200,000 subscribers in first quarter](https://techcrunch.com/2022/04/19/netflix-shares-down-more-than-20-after-losing-200000-subscribers-in-first-quarter/)
-- [Fire on the space station! Astronauts preparing ongoing combustion research.](https://www.space.com/fire-space-station-combustion-experiments)
-- [Volcanoes, diamonds, and blobs: a billion-year history of Earth&#39;s interior shows it&#39;s more mobile than we thought](https://www.space.com/earth-interior-more-active-over-billion-years)
-- [Under intense activist investor pressure, Zendesk could be looking at possible sale](https://techcrunch.com/2022/04/19/under-intense-activist-investor-pressure-zendesk-could-be-looking-at-possible-sale/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
