@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla says it’s also being investigated by federal equal employment agency](https://techcrunch.com/2022/04/18/tesla-says-its-also-being-investigated-by-federal-equal-employment-agency/)
 - [Top SoftBank LatAm partners leave firm to start their own](https://techcrunch.com/2022/04/18/top-softbank-latam-partners-leave-firm-to-start-their-own/)
 - [Ant Group buys Singapore’s 2C2P to further global payments ambitions](https://techcrunch.com/2022/04/18/alibaba-ant-group-2c2p-acquisition-payments/)
 - [Indian crypto exchange CoinDCX tops $2 billion valuation in new $135 million funding](https://techcrunch.com/2022/04/18/indian-crypto-exchange-coindcx-tops-2-1-billion-valuation-in-new-135-million-funding/)
 - [Square Peg on building its foothold in Southeast Asia](https://techcrunch.com/2022/04/18/square-peg-on-building-its-foothold-in-southeast-asia/)
-- [US pledges not to conduct destructive anti-satellite tests](https://www.space.com/us-pledges-no-destructive-anti-satellite-tests)
 <!-- BLOG-POST-LIST:END -->
 
 ---
