@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Audi designed a private cocoon concept car for China’s megacities](https://techcrunch.com/2022/04/19/audi-designed-a-private-cocoon-concept-car-for-chinas-megacities/)
-- [Ethereum-focused BlockApps raised $41 million to expand into enterprise blockchain space](https://techcrunch.com/2022/04/19/ethereum-focused-blockapps-raised-41-million-to-expand-into-enterprise-blockchain-space/)
-- [Japanese insurance company Tokio Marine launches CVC fund to back early-stage startups](https://techcrunch.com/2022/04/19/japanese-insurance-company-tokio-marine-launches-cvc-fund-to-back-early-stage-startups/)
-- [The Andromeda constellation: Facts, myth and location](https://www.space.com/andromeda-constellation)
-- [What is the coldest place in the solar system?](https://www.space.com/coldest-place-in-solar-system)
+- [Chipotle launches $50M venture fund in bid to foster new restaurant tech](https://techcrunch.com/2022/04/19/chipotle-launches-50m-venture-fund-in-bid-to-foster-new-restaurant-tech/)
+- [Planetary wants to help food startups brew up more fake meat](https://techcrunch.com/2022/04/19/planetary-wants-to-help-food-startups-brew-up-more-fake-meat/)
+- [Beamy lands $9M to help enterprises detect and manage their SaaS apps](https://techcrunch.com/2022/04/19/beamy-lands-9m-to-help-enterprises-detect-and-manage-their-saas-apps/)
+- [Enso emerges from stealth to help enterprises make sense of their data](https://techcrunch.com/2022/04/19/enso-emerges-from-stealth-to-help-enterprises-make-sense-of-their-data/)
+- [Unlearn.AI, a startup developing a ‘digital twin’ service for clinical trials, raises $50M](https://techcrunch.com/2022/04/19/unlearn-ai-a-startup-developing-a-digital-twin-service-for-clinical-trials-raises-50m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
