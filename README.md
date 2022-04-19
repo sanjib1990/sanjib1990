@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [A decade of science and trillions of collisions show the W boson is more massive than expected — a physicist on the team explains what it means for the Standard Model](https://www.space.com/w-boson-mass-problems-standard-model)
-- [Fintech NovoPayment raises first venture round in 15 years to expand its full-stack banking API platform](https://techcrunch.com/2022/04/19/fintech-novopayment-raises-first-venture-round-in-15-years-to-expand-its-global-full-stack-baas-platform/)
-- [Happy anniversary, Ingenuity! Mars helicopter flew for the 1st time one year ago today](https://www.space.com/mars-helicopter-ingenuity-first-flight-anniversary)
-- [The Mercedes-Benz EQS SUV is a big, luxury, tech-laden EV headed for the U.S. in late 2022](https://techcrunch.com/2022/04/19/mercedes-benz-eqs-suv-us-market/)
+- [Audi designed a private cocoon concept car for China’s megacities](https://techcrunch.com/2022/04/19/audi-designed-a-private-cocoon-concept-car-for-chinas-megacities/)
+- [Ethereum-focused BlockApps raised $41 million to expand into enterprise blockchain space](https://techcrunch.com/2022/04/19/ethereum-focused-blockapps-raised-41-million-to-expand-into-enterprise-blockchain-space/)
+- [Japanese insurance company Tokio Marine launches CVC fund to back early-stage startups](https://techcrunch.com/2022/04/19/japanese-insurance-company-tokio-marine-launches-cvc-fund-to-back-early-stage-startups/)
+- [The Andromeda constellation: Facts, myth and location](https://www.space.com/andromeda-constellation)
+- [What is the coldest place in the solar system?](https://www.space.com/coldest-place-in-solar-system)
 <!-- BLOG-POST-LIST:END -->
 
 ---
