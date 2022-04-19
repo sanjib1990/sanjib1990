@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Better.com conducts third round of layoffs in five months](https://techcrunch.com/2022/04/19/better-com-conducts-third-round-of-layoffs-in-five-months/)
+- [Conductive Ventures secures third fund to support non-traditional founders](https://techcrunch.com/2022/04/19/conductive-ventures-secures-third-fund-to-support-non-traditional-founders/)
+- [Nue Life Health raises $23M Series A Led by Obvious Ventures for psychedelics platform](https://techcrunch.com/2022/04/19/nue-life-health-raises-23m-series-a-led-by-obvious-ventures-for-psychedelics-platform/)
 - [Chipotle launches $50M venture fund in bid to foster new restaurant tech](https://techcrunch.com/2022/04/19/chipotle-launches-50m-venture-fund-in-bid-to-foster-new-restaurant-tech/)
 - [Planetary wants to help food startups brew up more fake meat](https://techcrunch.com/2022/04/19/planetary-wants-to-help-food-startups-brew-up-more-fake-meat/)
-- [Beamy lands $9M to help enterprises detect and manage their SaaS apps](https://techcrunch.com/2022/04/19/beamy-lands-9m-to-help-enterprises-detect-and-manage-their-saas-apps/)
-- [Enso emerges from stealth to help enterprises make sense of their data](https://techcrunch.com/2022/04/19/enso-emerges-from-stealth-to-help-enterprises-make-sense-of-their-data/)
-- [Unlearn.AI, a startup developing a ‘digital twin’ service for clinical trials, raises $50M](https://techcrunch.com/2022/04/19/unlearn-ai-a-startup-developing-a-digital-twin-service-for-clinical-trials-raises-50m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
