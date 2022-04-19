@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [On This Day In Space: April 19, 1971: World&#39;s 1st space station launches into orbit](https://www.space.com/39251-on-this-day-in-space.html)
-- [Nigeria’s Etap gets 1.5M pre-seed to make buying car insurance easier](https://techcrunch.com/2022/04/19/nigerias-etap-gets-1-5m-pre-seed-to-make-buying-car-insurance-easier/)
-- [The Food Lab, an Egyptian cloud kitchen provider, raises $4.5M pre-seed for expansion](https://techcrunch.com/2022/04/18/the-food-lab-an-egyptian-cloud-kitchen-provider-raises-4-5m-pre-seed-for-expansion/)
-- [Tesla says it’s also being investigated by federal equal employment agency](https://techcrunch.com/2022/04/18/tesla-says-its-also-being-investigated-by-federal-equal-employment-agency/)
-- [Top SoftBank LatAm partners leave firm to start their own](https://techcrunch.com/2022/04/18/top-softbank-latam-partners-leave-firm-to-start-their-own/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [A decade of science and trillions of collisions show the W boson is more massive than expected — a physicist on the team explains what it means for the Standard Model](https://www.space.com/w-boson-mass-problems-standard-model)
+- [Fintech NovoPayment raises first venture round in 15 years to expand its full-stack banking API platform](https://techcrunch.com/2022/04/19/fintech-novopayment-raises-first-venture-round-in-15-years-to-expand-its-global-full-stack-baas-platform/)
+- [Happy anniversary, Ingenuity! Mars helicopter flew for the 1st time one year ago today](https://www.space.com/mars-helicopter-ingenuity-first-flight-anniversary)
+- [The Mercedes-Benz EQS SUV is a big, luxury, tech-laden EV headed for the U.S. in late 2022](https://techcrunch.com/2022/04/19/mercedes-benz-eqs-suv-us-market/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
