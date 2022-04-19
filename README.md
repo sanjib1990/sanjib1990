@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Better.com conducts third round of layoffs in five months](https://techcrunch.com/2022/04/19/better-com-conducts-third-round-of-layoffs-in-five-months/)
-- [Conductive Ventures secures third fund to support non-traditional founders](https://techcrunch.com/2022/04/19/conductive-ventures-secures-third-fund-to-support-non-traditional-founders/)
-- [Nue Life Health raises $23M Series A Led by Obvious Ventures for psychedelics platform](https://techcrunch.com/2022/04/19/nue-life-health-raises-23m-series-a-led-by-obvious-ventures-for-psychedelics-platform/)
-- [Chipotle launches $50M venture fund in bid to foster new restaurant tech](https://techcrunch.com/2022/04/19/chipotle-launches-50m-venture-fund-in-bid-to-foster-new-restaurant-tech/)
-- [Planetary wants to help food startups brew up more fake meat](https://techcrunch.com/2022/04/19/planetary-wants-to-help-food-startups-brew-up-more-fake-meat/)
+- [New VC firm Baukunst spools up to invest in ‘creative technologists’](https://techcrunch.com/2022/04/19/baukunst/)
+- [Steer’s Anuja Sonalker explains the benefits of chasing the less glitzy side of autonomy](https://techcrunch.com/2022/04/19/steers-anuja-sonalker-explains-the-benefits-of-chasing-the-less-glitzy-side-of-autonomy/)
+- [Rethinking Databricks’ valuation amid a changing market](https://techcrunch.com/2022/04/19/rethinking-databricks-valuation-amid-a-changing-market/)
+- [North Korean hackers are targeting blockchain companies with malicious crypto-stealing apps](https://techcrunch.com/2022/04/19/north-korea-blockchain-crypto/)
+- [Instagram Reels adds support for fundraisers in 30 countries worldwide](https://techcrunch.com/2022/04/19/instagram-reels-adds-support-for-fundraisers-in-30-countries-worldwide/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
