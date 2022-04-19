@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Under intense activist investor pressure, Zendesk could be looking at possible sale](https://techcrunch.com/2022/04/19/under-intense-activist-investor-pressure-zendesk-could-be-looking-at-possible-sale/)
+- [SpaceX Ax-1 private mission to space station: Live updates](https://www.space.com/news/live/ax-1-space-station-mission-updates)
 - [Evok Innovations raises a fund to put industrial decarbonization into high gear](https://techcrunch.com/2022/04/19/evok-decarbonization-fund/)
 - [Perseverance rover arrives at ancient Mars river delta](https://www.space.com/perseverance-rover-reaches-ancient-mars-river-delta)
 - [Disney+ glitch is causing missing episodes for fan-favorite series](https://techcrunch.com/2022/04/19/disney-glitch-is-causing-missing-episodes-for-fan-favorite-series-company-says-fix-underway/)
-- [Salesforce and Twitter are both lucky their purported $20B deal failed in 2016](https://techcrunch.com/2022/04/19/salesforce-and-twitter-are-both-lucky-their-purported-20b-deal-failed-in-2016/)
-- [Hubble Space Telescope celebrates 32nd anniversary with gorgeous gravitational &#39;dance&#39; photo](https://www.space.com/hubble-space-telescope-32nd-anniversary-photo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
