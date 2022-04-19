@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [HBO Max backs ‘Minecraft’ movie with ‘Aquaman’ star Jason Momoa](https://techcrunch.com/2022/04/19/hbo-max-backs-minecraft-movie-with-aquaman-star-jason-momoa/)
-- [Dean Kamen is coming to TC Sessions: Robotics July 22 in Boston](https://techcrunch.com/2022/04/19/dean-kamen-is-coming-to-tc-sessions-robotics-july-22-in-boston/)
-- [Recycling robotics firm Glacier emerges from stealth with $4.5M](https://techcrunch.com/2022/04/19/recycling-robotics-firm-glacier-emerges-from-stealth-with-4-5m/)
-- [Apple increased the use of recycled materials in its products to nearly 20% in 2021](https://techcrunch.com/2022/04/19/apple-increased-the-use-of-recycled-materials-in-its-products-to-nearly-20-in-2021/)
-- [Google opens product development center in Nairobi, the first in Africa](https://techcrunch.com/2022/04/19/google-opens-product-development-center-in-nairobi-the-first-in-africa/)
+- [Anglo-Hungarian anti-fraud platform SEON pulls in a $94M Series B led by IVP](https://techcrunch.com/2022/04/19/anglo-hungarian-anti-fraud-platform-seon-pulls-in-a-94m-series-b-led-by-ivp/)
+- [Spotify closed down its Greenroom Creator Fund with shift in live audio strategy](https://techcrunch.com/2022/04/19/spotify-closed-down-its-greenroom-creator-fund-with-shift-in-live-audio-strategy/)
+- [Here’s why Brex just paid $90M for 10-person software startup Pry Financials](https://techcrunch.com/2022/04/19/brex-just-paid-90m-for-pry-financials-a-10-person-financial-planning-software-startup-and-heres-why/)
+- [SpaceX Ax-1 private mission to space station: Live updates](https://www.space.com/news/live/ax-1-space-station-mission-updates)
+- [Playbook, where ‘Pinterest meets Dropbox’ for designers, closes on $18M in funding](https://techcrunch.com/2022/04/19/playbook-where-pinterest-meets-dropbox-for-designers-closes-on-18m-in-funding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
