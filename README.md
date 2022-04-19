@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [On This Day In Space: April 19, 1971: World&#39;s 1st space station launches into orbit](https://www.space.com/39251-on-this-day-in-space.html)
 - [Nigeria’s Etap gets 1.5M pre-seed to make buying car insurance easier](https://techcrunch.com/2022/04/19/nigerias-etap-gets-1-5m-pre-seed-to-make-buying-car-insurance-easier/)
 - [The Food Lab, an Egyptian cloud kitchen provider, raises $4.5M pre-seed for expansion](https://techcrunch.com/2022/04/18/the-food-lab-an-egyptian-cloud-kitchen-provider-raises-4-5m-pre-seed-for-expansion/)
 - [Tesla says it’s also being investigated by federal equal employment agency](https://techcrunch.com/2022/04/18/tesla-says-its-also-being-investigated-by-federal-equal-employment-agency/)
 - [Top SoftBank LatAm partners leave firm to start their own](https://techcrunch.com/2022/04/18/top-softbank-latam-partners-leave-firm-to-start-their-own/)
-- [Ant Group buys Singapore’s 2C2P to further global payments ambitions](https://techcrunch.com/2022/04/18/alibaba-ant-group-2c2p-acquisition-payments/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
