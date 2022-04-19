@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lyft doubles micromobility footprint with PBSC acquisition](https://techcrunch.com/2022/04/19/lyft-doubles-micromobility-footprint-with-pbsc-acquisition/)
+- [Netflix shares down more than 20% after losing 200,000 subscribers in first quarter](https://techcrunch.com/2022/04/19/netflix-shares-down-more-than-20-after-losing-200000-subscribers-in-first-quarter/)
+- [Fire on the space station! Astronauts preparing ongoing combustion research.](https://www.space.com/fire-space-station-combustion-experiments)
+- [Volcanoes, diamonds, and blobs: a billion-year history of Earth&#39;s interior shows it&#39;s more mobile than we thought](https://www.space.com/earth-interior-more-active-over-billion-years)
 - [Under intense activist investor pressure, Zendesk could be looking at possible sale](https://techcrunch.com/2022/04/19/under-intense-activist-investor-pressure-zendesk-could-be-looking-at-possible-sale/)
-- [SpaceX Ax-1 private mission to space station: Live updates](https://www.space.com/news/live/ax-1-space-station-mission-updates)
-- [Evok Innovations raises a fund to put industrial decarbonization into high gear](https://techcrunch.com/2022/04/19/evok-decarbonization-fund/)
-- [Perseverance rover arrives at ancient Mars river delta](https://www.space.com/perseverance-rover-reaches-ancient-mars-river-delta)
-- [Disney+ glitch is causing missing episodes for fan-favorite series](https://techcrunch.com/2022/04/19/disney-glitch-is-causing-missing-episodes-for-fan-favorite-series-company-says-fix-underway/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
