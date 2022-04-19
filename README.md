@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Evok Innovations raises a fund to put industrial decarbonization into high gear](https://techcrunch.com/2022/04/19/evok-decarbonization-fund/)
+- [Perseverance rover arrives at ancient Mars river delta](https://www.space.com/perseverance-rover-reaches-ancient-mars-river-delta)
+- [Disney+ glitch is causing missing episodes for fan-favorite series](https://techcrunch.com/2022/04/19/disney-glitch-is-causing-missing-episodes-for-fan-favorite-series-company-says-fix-underway/)
+- [Salesforce and Twitter are both lucky their purported $20B deal failed in 2016](https://techcrunch.com/2022/04/19/salesforce-and-twitter-are-both-lucky-their-purported-20b-deal-failed-in-2016/)
 - [Hubble Space Telescope celebrates 32nd anniversary with gorgeous gravitational &#39;dance&#39; photo](https://www.space.com/hubble-space-telescope-32nd-anniversary-photo)
-- [SpaceX&#39;s Crew-3 astronaut mission for NASA: Live updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates)
-- [SpaceX rolls out rocket for Crew-4 astronaut mission ahead of Saturday launch &lpar;photos&rpar;](https://www.space.com/nasa-spacex-crew-4-astronaut-mission-rollout-photos)
-- [GoTo’s debut shows the global IPO window is not entirely closed](https://techcrunch.com/2022/04/19/gotos-debut-shows-the-global-ipo-window-is-not-entirely-closed/)
-- [What am I worth now?](https://techcrunch.com/2022/04/19/what-is-my-startup-worth-after-a-public-market-correction/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
