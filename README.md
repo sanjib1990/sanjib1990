@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Square Peg on building its foothold in Southeast Asia](https://techcrunch.com/2022/04/18/square-peg-on-building-its-foothold-in-southeast-asia/)
+- [US pledges not to conduct destructive anti-satellite tests](https://www.space.com/us-pledges-no-destructive-anti-satellite-tests)
+- [VP Harris: US commits to no anti-satellite tests that fill orbit with debris](https://techcrunch.com/2022/04/18/vp-harris-us-commits-to-no-anti-satellite-tests-that-fill-orbit-with-debris/)
+- [China’s work automation startup Laiye raises $160M, acquires France’s Mindsay](https://techcrunch.com/2022/04/18/chinas-work-automation-startup-laiye-raises-160m-acquires-frances-mindsay/)
 - [Private Ax-1 mission&#39;s ISS departure delayed to Tuesday evening](https://www.space.com/ax1-mission-departure-space-station-delay)
-- [Cosmonauts on spacewalk begin configuring new European robotic arm outside space station](https://www.space.com/cosmonauts-spacewalk-european-robotic-arm-april-2022)
-- [SpaceX Crew-4 astronauts arrive in Florida ahead of April 23 launch to ISS &lpar;photos&rpar;](https://www.space.com/crew-4-astronauts-arrive-florida-launch-site-photos)
-- [NASA to roll Artemis 1 moon rocket off the launch pad early next week](https://www.space.com/nasa-artemis-1-moon-rocket-rollback-april-2022)
-- [SpaceX Ax-1 private mission to space station: Live updates](https://www.space.com/news/live/ax-1-space-station-mission-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
