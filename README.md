@@ -94,9 +94,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Anglo-Hungarian anti-fraud platform SEON pulls in a $94M Series B led by IVP](https://techcrunch.com/2022/04/19/anglo-hungarian-anti-fraud-platform-seon-pulls-in-a-94m-series-b-led-by-ivp/)
-- [Spotify closed down its Greenroom Creator Fund with shift in live audio strategy](https://techcrunch.com/2022/04/19/spotify-closed-down-its-greenroom-creator-fund-with-shift-in-live-audio-strategy/)
-- [Here’s why Brex just paid $90M for 10-person software startup Pry Financials](https://techcrunch.com/2022/04/19/brex-just-paid-90m-for-pry-financials-a-10-person-financial-planning-software-startup-and-heres-why/)
+- [SpaceX&#39;s Crew-3 astronaut mission for NASA: Live updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates)
+- [SpaceX rolls out rocket for Crew-4 astronaut mission ahead of Saturday launch &lpar;photos&rpar;](https://www.space.com/nasa-spacex-crew-4-astronaut-mission-rollout-photos)
+- [Here&#39;s the view from a NASA spacecraft bound for Jupiter asteroids](https://www.space.com/nasa-lucy-asteroid-mission-test-star-photos)
 - [SpaceX Ax-1 private mission to space station: Live updates](https://www.space.com/news/live/ax-1-space-station-mission-updates)
 - [Playbook, where ‘Pinterest meets Dropbox’ for designers, closes on $18M in funding](https://techcrunch.com/2022/04/19/playbook-where-pinterest-meets-dropbox-for-designers-closes-on-18m-in-funding/)
 <!-- BLOG-POST-LIST:END -->
