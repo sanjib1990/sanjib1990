@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s Artemis astronauts will ride to launchpad in sleek new electric vans](https://www.space.com/nasa-artemis-astronauts-electric-vans/)
-- [Google Search now displays city-level air quality information in the US](https://techcrunch.com/2022/04/20/google-search-air-quality-information/)
-- [Study up on churn rate basics to set customer and revenue benchmarks](https://techcrunch.com/2022/04/20/study-up-on-churn-rate-basics-to-set-customer-and-revenue-benchmarks/)
-- [MEPs vote to expand scope of common charger rules](https://techcrunch.com/2022/04/20/eu-common-charger-rules/)
-- [SpaceX fires up Falcon 9 rocket ahead of Saturday&#39;s Crew-4 astronaut launch](https://www.space.com/nasa-spacex-crew-4-rocket-static-fire/)
+- [Lexus unveils its first EV, an SUV that looks a lot like the Toyota bZ4x](https://techcrunch.com/2022/04/20/lexus-unveils-its-first-ev-an-suv-that-looks-a-lot-like-the-toyota-bz4x/)
+- [Enter the Student Pitch Competition at TC Sessions: Mobility 2022](https://techcrunch.com/2022/04/20/enter-the-student-pitch-competition-at-tc-sessions-mobility-2022/)
+- [Full moon looms under icon of Paris in incredible photo](https://www.space.com/full-moon-arc-de-triomphe-paris-photo/)
+- [3 Jeep concepts that Stellantis should probably bring into production](https://techcrunch.com/2022/04/20/3-jeep-concepts-that-stellantis-should-probably-bring-into-production/)
+- [The Lyrid meteor shower peaks this week after &#39;shooting star&#39; drought](https://www.space.com/april-lyrid-meteor-shower-peaks-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
