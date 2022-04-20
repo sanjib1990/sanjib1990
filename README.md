@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Neptune raises $17.25M to clean ship hulls with robots](https://techcrunch.com/2022/04/20/neptune-raises-17-25m-to-clean-ship-hulls-with-robots/)
-- [Top NFT collections are bringing in millions of dollars weekly, but which will survive?](https://techcrunch.com/2022/04/20/top-nft-collections-are-bringing-in-millions-of-dollars-weekly-but-which-will-survive/)
-- [Decentralized identity startup Spruce wants to help users control their sign-in data](https://techcrunch.com/2022/04/20/decentralized-identity-startup-spruce-wants-to-help-users-control-their-sign-in-data/)
-- [Coinbase launches NFT marketplace in hopes of appealing to crypto and mainstream users](https://techcrunch.com/2022/04/20/coinbase-launches-nft-marketplace-in-hopes-of-appealing-to-crypto-and-mainstream-users/)
-- [Zubale bags new capital to match gig workers with LatAm e-commerce fulfillment jobs](https://techcrunch.com/2022/04/20/zubale-gig-workers-latam-e-commerce-fulfillment/)
+- [Creative Juice launches a $50M fund to invest in creators](https://techcrunch.com/2022/04/20/creative-juice-investment-creators-youtube/)
+- [Lifestyle brand SpaceOne to mint NFT mission patches from the International Space Station](https://www.space.com/spaceone-minting-nft-patches-international-space-station/)
+- [More money doesn’t mean more growth, and other startup myths](https://techcrunch.com/2022/04/20/startup-money-myth-advice-and-assumptions/)
+- [Practice your pitch today on TechCrunch Live with Deel and A16z](https://techcrunch.com/2022/04/20/practice-your-pitch-today-on-techcrunch-live-with-deel-and-a16z/)
+- [Bolt’s future in Tanzania uncertain after 15% service fee order](https://techcrunch.com/2022/04/20/bolts-future-in-tanzania-uncertain-after-15-service-fee-order/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
