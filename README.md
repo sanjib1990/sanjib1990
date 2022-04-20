@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A camera battery with a built-in USB-C charger wins todays ‘I didn’t know I needed this’ prize](https://techcrunch.com/2022/04/19/nitecore-battery-usb-c/)
 - [Samsung is making a Pokémon phone because why not](https://techcrunch.com/2022/04/19/samsung-is-making-a-pokemon-phone-because-why-not/)
 - [Netflix says it will eventually charge more if you share your account](https://techcrunch.com/2022/04/19/netflix-to-charge-global-members-sharing-their-accounts-an-additional-fee-following-tests/)
-- [Netflix to introduce ad-supported plan](https://techcrunch.com/2022/04/19/netflix-to-introduce-ad-supporter-plan/)
+- [Netflix to introduce ad-supported plans in a major shift](https://techcrunch.com/2022/04/19/netflix-to-introduce-ad-supporter-plan/)
 - [Daily Crunch: Since December 2021, Better.com has laid off nearly half of its workforce](https://techcrunch.com/2022/04/19/daily-crunch-since-december-2021-better-com-has-laid-off-nearly-half-of-its-workforce/)
-- [Lyft follows Uber’s lead and removes its mask mandate](https://techcrunch.com/2022/04/19/lyft-uber-mask-requirement/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
