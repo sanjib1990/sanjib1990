@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Creative Juice launches a $50M fund to invest in creators](https://techcrunch.com/2022/04/20/creative-juice-investment-creators-youtube/)
+- [Pow! Scientists spot new &#39;micronova&#39; stellar explosion](https://www.space.com/micronova-new-type-small-stellar-explosions/)
 - [Lifestyle brand SpaceOne to mint NFT mission patches from the International Space Station](https://www.space.com/spaceone-minting-nft-patches-international-space-station/)
 - [More money doesn’t mean more growth, and other startup myths](https://techcrunch.com/2022/04/20/startup-money-myth-advice-and-assumptions/)
 - [Practice your pitch today on TechCrunch Live with Deel and A16z](https://techcrunch.com/2022/04/20/practice-your-pitch-today-on-techcrunch-live-with-deel-and-a16z/)
