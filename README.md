@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Cruz Foam’s shell-based Styrofoam alternative brings in $3.4M seed with DiCaprio and Kutcher](https://techcrunch.com/2022/04/20/cruz-foams-shell-based-styrofoam-alternative-brings-in-3-5m-seed-with-dicaprio-and-kutcher/)
-- [Connected strength-training startup Vitruvian eyes US with $15M raise](https://techcrunch.com/2022/04/20/connected-strength-training-startup-vitruvian-eyes-us-with-15m-raise/)
-- [BMW launches its first all-electric 7 Series sedan](https://techcrunch.com/2022/04/20/bmw-launches-its-first-all-electric-7-series-sedan/)
-- [UK targets fake reviews and killer acquisitions in reform package](https://techcrunch.com/2022/04/20/cma-consumer-competition-reforms/)
-- [Strike Security lands $5.4M seed funding to make pen-testing more accessible](https://techcrunch.com/2022/04/20/strike-security-seed-continuous-pentesting/)
+- [Neptune raises $17.25M to clean ship hulls with robots](https://techcrunch.com/2022/04/20/neptune-raises-17-25m-to-clean-ship-hulls-with-robots/)
+- [Top NFT collections are bringing in millions of dollars weekly, but which will survive?](https://techcrunch.com/2022/04/20/top-nft-collections-are-bringing-in-millions-of-dollars-weekly-but-which-will-survive/)
+- [Decentralized identity startup Spruce wants to help users control their sign-in data](https://techcrunch.com/2022/04/20/decentralized-identity-startup-spruce-wants-to-help-users-control-their-sign-in-data/)
+- [Coinbase launches NFT marketplace in hopes of appealing to crypto and mainstream users](https://techcrunch.com/2022/04/20/coinbase-launches-nft-marketplace-in-hopes-of-appealing-to-crypto-and-mainstream-users/)
+- [Zubale bags new capital to match gig workers with LatAm e-commerce fulfillment jobs](https://techcrunch.com/2022/04/20/zubale-gig-workers-latam-e-commerce-fulfillment/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
