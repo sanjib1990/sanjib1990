@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla expects gigafactories to run below capacity through 2022](https://techcrunch.com/2022/04/20/tesla-factories-to-run-below-capacity-through-2022/)
+- [Netflix subscriber decline suggests the streamer is in need of better content](https://techcrunch.com/2022/04/20/netflix-subscriber-decline-suggests-the-streamer-is-in-need-of-better-content/)
+- [Tesla crushes Q1 estimates, warns that supply chain issues are far from over](https://techcrunch.com/2022/04/20/tesla-crushes-q1-estimates-warns-that-supply-chain-issues-are-far-from-over/)
 - [Billionaire CEO’s US Senate run focuses on one issue: Banning ‘self-driving’ Teslas](https://techcrunch.com/2022/04/20/billionaire-ceos-us-senate-run-focuses-on-one-issue-banning-self-driving-teslas/)
 - [Wow! Perseverance rover captures gorgeous video of solar eclipse on Mars](https://www.space.com/perseverance-rover-mars-solar-eclipse-video/)
-- [Instagram to improve its ranking system to better highlight original content](https://techcrunch.com/2022/04/20/instagram-ranking-system-recommend-original-content/)
-- [Zoom announces Zoom Whiteboard, gesture recognition among several updates](https://techcrunch.com/2022/04/20/zoom-announces-zoom-whiteboard-gesture-recognition-among-several-updates/)
-- [Here are the games that were announced at the Meta Quest Gaming Showcase](https://techcrunch.com/2022/04/20/meta-quest-gaming-showcase/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
