@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Everstage raises $13M Series A to make sales commissions more transparent](https://techcrunch.com/2022/04/19/everstage-raises-13m-series-a-to-make-sales-commissions-more-transparent/)
 - [Flutterwave CEO addresses alleged misconduct claims in email to employees](https://techcrunch.com/2022/04/19/flutterwave-ceo-addresses-alleged-misconduct-claims-in-email-to-employees/)
 - [Indonesian audio content platform NOICE gets $22M Series A](https://techcrunch.com/2022/04/19/indonesian-audio-content-platform-noice-gets-22m-series-a/)
 - [A camera battery with a built-in USB-C charger wins today’s ‘I didn’t know I needed this’ prize](https://techcrunch.com/2022/04/19/nitecore-battery-usb-c/)
 - [Samsung is making a Pokémon phone because why not](https://techcrunch.com/2022/04/19/samsung-is-making-a-pokemon-phone-because-why-not/)
-- [Netflix says it will eventually charge more if you share your account](https://techcrunch.com/2022/04/19/netflix-to-charge-global-members-sharing-their-accounts-an-additional-fee-following-tests/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
