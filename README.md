@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Ukrainian moon start-up volunteers tech for military use](https://www.space.com/ukraine-moon-startup-volunteers-tech-military/)
-- [Time to grab your pass to TechCrunch Disrupt in San Francisco](https://techcrunch.com/2022/04/20/time-to-grab-your-pass-to-techcrunch-disrupt-in-san-francisco/)
-- [AWS launches new $30M accelerator program aimed at minority founders](https://techcrunch.com/2022/04/20/aws-launches-new-30m-accelerator-program-aimed-at-minority-founders/)
-- [New swarms of sunspots are so gigantic they could devour Earth whole](https://www.space.com/swarms-of-giant-sunspots/)
-- [IBM’s rebound continues with faster growth in Q1](https://techcrunch.com/2022/04/20/ibm-q1-2022-earnings-growth/)
+- [NASA&#39;s Artemis astronauts will ride to launchpad in sleek new electric vans](https://www.space.com/nasa-artemis-astronauts-electric-vans/)
+- [Google Search now displays city-level air quality information in the US](https://techcrunch.com/2022/04/20/google-search-air-quality-information/)
+- [Study up on churn rate basics to set customer and revenue benchmarks](https://techcrunch.com/2022/04/20/study-up-on-churn-rate-basics-to-set-customer-and-revenue-benchmarks/)
+- [MEPs vote to expand scope of common charger rules](https://techcrunch.com/2022/04/20/eu-common-charger-rules/)
+- [SpaceX fires up Falcon 9 rocket ahead of Saturday&#39;s Crew-4 astronaut launch](https://www.space.com/nasa-spacex-crew-4-rocket-static-fire/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
