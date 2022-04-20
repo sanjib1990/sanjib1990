@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [CellMEAT, a South Korean lab-grown shrimp producer, bags $8.1M Series A funding](https://techcrunch.com/2022/04/20/cellmeat-a-south-korean-lab-grown-shrimp-producer-bags-8-1m-series-a-funding/)
-- [Prezent.ai secures $20M to gamify deck presentations](https://techcrunch.com/2022/04/20/prezent-ai-secures-20m-to-gamify-deck-presentations/)
-- [Only 12% of full-time creators make over $50k a year, says Linktree](https://techcrunch.com/2022/04/20/linktree-creator-economy-report-research/)
-- [Massive meteorite impact created the hottest mantle rock ever](https://www.space.com/hottest-rock-on-earth-mantle/)
-- [How hypersonic missiles work and the unique threats they pose — an aerospace engineer explains](https://www.space.com/how-hypersonic-missiles-work/)
+- [Cruz Foam’s shell-based Styrofoam alternative brings in $3.4M seed with DiCaprio and Kutcher](https://techcrunch.com/2022/04/20/cruz-foams-shell-based-styrofoam-alternative-brings-in-3-5m-seed-with-dicaprio-and-kutcher/)
+- [Connected strength-training startup Vitruvian eyes US with $15M raise](https://techcrunch.com/2022/04/20/connected-strength-training-startup-vitruvian-eyes-us-with-15m-raise/)
+- [BMW launches its first all-electric 7 Series sedan](https://techcrunch.com/2022/04/20/bmw-launches-its-first-all-electric-7-series-sedan/)
+- [UK targets fake reviews and killer acquisitions in reform package](https://techcrunch.com/2022/04/20/cma-consumer-competition-reforms/)
+- [Strike Security lands $5.4M seed funding to make pen-testing more accessible](https://techcrunch.com/2022/04/20/strike-security-seed-continuous-pentesting/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
