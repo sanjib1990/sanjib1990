@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Lexus unveils its first EV, an SUV that looks a lot like the Toyota bZ4x](https://techcrunch.com/2022/04/20/lexus-unveils-its-first-ev-an-suv-that-looks-a-lot-like-the-toyota-bz4x/)
+- [SpaceX’s astronaut missions for NASA: Live updates](https://www.space.com/nasa-spacex-crew-launches-live-updates/)
+- [SpaceX Ax-1 private mission to space station: Live updates](https://www.space.com/news/live/ax-1-space-station-mission-updates/)
 - [Enter the Student Pitch Competition at TC Sessions: Mobility 2022](https://techcrunch.com/2022/04/20/enter-the-student-pitch-competition-at-tc-sessions-mobility-2022/)
 - [Full moon looms under icon of Paris in incredible photo](https://www.space.com/full-moon-arc-de-triomphe-paris-photo/)
 - [3 Jeep concepts that Stellantis should probably bring into production](https://techcrunch.com/2022/04/20/3-jeep-concepts-that-stellantis-should-probably-bring-into-production/)
-- [The Lyrid meteor shower peaks this week after &#39;shooting star&#39; drought](https://www.space.com/april-lyrid-meteor-shower-peaks-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
