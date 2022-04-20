@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CellMEAT, a South Korean lab-grown shrimp producer, bags $8.1M Series A funding](https://techcrunch.com/2022/04/20/cellmeat-a-south-korean-lab-grown-shrimp-producer-bags-8-1m-series-a-funding/)
+- [Prezent.ai secures $20M to gamify deck presentations](https://techcrunch.com/2022/04/20/prezent-ai-secures-20m-to-gamify-deck-presentations/)
 - [Only 12% of full-time creators make over $50k a year, says Linktree](https://techcrunch.com/2022/04/20/linktree-creator-economy-report-research/)
-- [On This Day In Space: April 20, 2016: Moon doesn&#39;t turn green, despite internet rumors](https://www.space.com/39251-on-this-day-in-space.html)
-- [Everstage raises $13M Series A to make sales commissions more transparent](https://techcrunch.com/2022/04/19/everstage-raises-13m-series-a-to-make-sales-commissions-more-transparent/)
-- [Flutterwave CEO addresses alleged misconduct claims in email to employees](https://techcrunch.com/2022/04/19/flutterwave-ceo-addresses-alleged-misconduct-claims-in-email-to-employees/)
-- [Indonesian audio content platform NOICE gets $22M Series A](https://techcrunch.com/2022/04/19/indonesian-audio-content-platform-noice-gets-22m-series-a/)
+- [Massive meteorite impact created the hottest mantle rock ever](https://www.space.com/hottest-rock-on-earth-mantle/)
+- [How hypersonic missiles work and the unique threats they pose — an aerospace engineer explains](https://www.space.com/how-hypersonic-missiles-work/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
