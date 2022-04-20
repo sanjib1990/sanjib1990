@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Pow! Scientists spot new &#39;micronova&#39; stellar explosion](https://www.space.com/micronova-new-type-small-stellar-explosions/)
-- [Lifestyle brand SpaceOne to mint NFT mission patches from the International Space Station](https://www.space.com/spaceone-minting-nft-patches-international-space-station/)
-- [More money doesn’t mean more growth, and other startup myths](https://techcrunch.com/2022/04/20/startup-money-myth-advice-and-assumptions/)
-- [Practice your pitch today on TechCrunch Live with Deel and A16z](https://techcrunch.com/2022/04/20/practice-your-pitch-today-on-techcrunch-live-with-deel-and-a16z/)
-- [Bolt’s future in Tanzania uncertain after 15% service fee order](https://techcrunch.com/2022/04/20/bolts-future-in-tanzania-uncertain-after-15-service-fee-order/)
+- [Ukrainian moon start-up volunteers tech for military use](https://www.space.com/ukraine-moon-startup-volunteers-tech-military/)
+- [Time to grab your pass to TechCrunch Disrupt in San Francisco](https://techcrunch.com/2022/04/20/time-to-grab-your-pass-to-techcrunch-disrupt-in-san-francisco/)
+- [AWS launches new $30M accelerator program aimed at minority founders](https://techcrunch.com/2022/04/20/aws-launches-new-30m-accelerator-program-aimed-at-minority-founders/)
+- [New swarms of sunspots are so gigantic they could devour Earth whole](https://www.space.com/swarms-of-giant-sunspots/)
+- [IBM’s rebound continues with faster growth in Q1](https://techcrunch.com/2022/04/20/ibm-q1-2022-earnings-growth/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
