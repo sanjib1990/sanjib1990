@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Only 12% of full-time creators make over $50k a year, says Linktree](https://techcrunch.com/2022/04/20/linktree-creator-economy-report-research/)
 - [On This Day In Space: April 20, 2016: Moon doesn&#39;t turn green, despite internet rumors](https://www.space.com/39251-on-this-day-in-space.html)
 - [Everstage raises $13M Series A to make sales commissions more transparent](https://techcrunch.com/2022/04/19/everstage-raises-13m-series-a-to-make-sales-commissions-more-transparent/)
 - [Flutterwave CEO addresses alleged misconduct claims in email to employees](https://techcrunch.com/2022/04/19/flutterwave-ceo-addresses-alleged-misconduct-claims-in-email-to-employees/)
 - [Indonesian audio content platform NOICE gets $22M Series A](https://techcrunch.com/2022/04/19/indonesian-audio-content-platform-noice-gets-22m-series-a/)
-- [A camera battery with a built-in USB-C charger wins today’s ‘I didn’t know I needed this’ prize](https://techcrunch.com/2022/04/19/nitecore-battery-usb-c/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
