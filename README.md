@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla blames inflation, cost pressure from suppliers for increased car prices](https://techcrunch.com/2022/04/20/tesla-blames-inflation-cost-pressure-from-suppliers-for-increased-car-prices/)
+- [Musk says Tesla aspires to mass produce robotaxis by 2024](https://techcrunch.com/2022/04/20/elon-musk-mass-produce-robotaxi-by-2024/)
+- [This kamikaze drone sacrifices its own rotors to take down other drones](https://techcrunch.com/2022/04/20/interceptor-drone/)
+- [Musk says robot, aimed for 2023, will be worth more than Tesla’s car business](https://techcrunch.com/2022/04/20/musk-says-robot-aimed-for-2023-will-be-worth-more-than-teslas-car-business/)
 - [Daily Crunch: ‘For a limited time,’ Coinbase’s new NFT marketplace will waive transaction fees](https://techcrunch.com/2022/04/20/daily-crunch-for-a-limited-time-coinbases-new-nft-marketplace-will-waive-transaction-fees/)
-- [Tumblr said 420 Blaze it &lpar;but literally&rpar;](https://techcrunch.com/2022/04/20/tumblr-blaze-420/)
-- [WeChat’s newsfeed turns 10. Is it still relevant?](https://techcrunch.com/2022/04/20/wechats-newsfeed-turns-10-is-it-still-relevant/)
-- [Tesla expects gigafactories to run below capacity through 2022](https://techcrunch.com/2022/04/20/tesla-factories-to-run-below-capacity-through-2022/)
-- [Is it cake? No, it’s Netflix’s crumbling subscriber numbers](https://techcrunch.com/2022/04/20/netflix-subscriber-decline-suggests-the-streamer-is-in-need-of-better-content/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
