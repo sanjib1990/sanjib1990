@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Any port in a storm](https://techcrunch.com/2022/04/21/any-port-in-a-storm/)
+- [James Webb Space Telescope&#39;s mirrors are cooling to deep space temperature](https://www.space.com/james-webb-space-telescope-mirrors-temperature/)
 - [Introducing the TechCrunch Startup Battlefield 200](https://techcrunch.com/2022/04/21/introducing-the-techcrunch-startup-battlefield-200/)
 - [Twitter woos developers back with an app platform](https://techcrunch.com/2022/04/21/twitter-to-promote-developers-apps-directly-on-its-platform/)
 - [AWS expands its serverless offerings](https://techcrunch.com/2022/04/21/aws-expands-its-serverless-offerings/)
