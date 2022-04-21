@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Any port in a storm](https://techcrunch.com/2022/04/21/any-port-in-a-storm/)
 - [Introducing the TechCrunch Startup Battlefield 200](https://techcrunch.com/2022/04/21/introducing-the-techcrunch-startup-battlefield-200/)
 - [Twitter woos developers back with an app platform](https://techcrunch.com/2022/04/21/twitter-to-promote-developers-apps-directly-on-its-platform/)
 - [AWS expands its serverless offerings](https://techcrunch.com/2022/04/21/aws-expands-its-serverless-offerings/)
 - [Construct Capital’s $300M fund targets critical infrastructure automation](https://techcrunch.com/2022/04/21/construct-capital-startups-automation-infrastructure/)
-- [Nukes, NFTs and Meta’s income tax](https://techcrunch.com/2022/04/21/chain-reaction-crypto-podcast-3lau-nfts-coinbase/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
