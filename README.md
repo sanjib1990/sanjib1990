@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Celestron SkyMaster Pro 15x70 binoculars review](https://www.space.com/celestron-skymaster-pro-15x70-binoculars-review/)
-- [Plaid cofounder’s next venture is a bank to power fintech apps](https://techcrunch.com/2022/04/21/plaid-cofounders-next-venture-is-a-bank-to-power-fintech-apps/)
-- [Opendoor alums raise $7.75M for Kindred, a home-swapping network it says makes travel ‘dramatically more affordable’](https://techcrunch.com/2022/04/21/opendoor-alums-raise-7-75m-for-kindred-a-home-swapping-network-it-says-makes-travel-dramatically-more-affordable/)
-- [Immigrant credit FinTech Pillar raises $16.9M pre-seed led by Global Founders Capital and Backed VC](https://techcrunch.com/2022/04/21/fintech-startup-pillar-raises-16-9m-pre-seed-led-by-global-founders-capital-and-backed-vc/)
-- [Aeva and NASA want to map the Moon with lidar-powered KNaCK pack](https://techcrunch.com/2022/04/21/aeva-and-nasa-want-to-map-the-moon-with-lidar-powered-knack-pack/)
+- [Here’s how JOKR became gross-profit positive amid a cutthroat grocery delivery industry](https://techcrunch.com/2022/04/21/heres-how-jokr-became-gross-profit-positive-amid-a-cutthroat-grocery-delivery-industry/)
+- [HBO Max and HBO gained 3 million subscribers in Q1 as Netflix reports subscriber decline](https://techcrunch.com/2022/04/21/hbo-max-and-hbo-gained-3-million-subscribers-in-q1-as-netflix-reports-subscriber-decline/)
+- [Spotify now allows all creators in select markets to publish video podcasts](https://techcrunch.com/2022/04/21/spotify-expands-video-podcasts-to-all-creators-in-top-english-speaking-markets-including-u-s/)
+- [To defeat Elon Musk, Twitter needs… more NFTs](https://techcrunch.com/2022/04/21/to-defeat-elon-musk-twitter-needs-more-nfts/)
+- [Uranus by 2049: Here&#39;s why scientists want NASA to send a flagship mission to the strange planet](https://www.space.com/nasa-uranus-orbiter-probe-mission-science/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
