@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Here’s how JOKR became gross-profit positive amid a cutthroat grocery delivery industry](https://techcrunch.com/2022/04/21/heres-how-jokr-became-gross-profit-positive-amid-a-cutthroat-grocery-delivery-industry/)
-- [HBO Max and HBO gained 3 million subscribers in Q1 as Netflix reports subscriber decline](https://techcrunch.com/2022/04/21/hbo-max-and-hbo-gained-3-million-subscribers-in-q1-as-netflix-reports-subscriber-decline/)
-- [Spotify now allows all creators in select markets to publish video podcasts](https://techcrunch.com/2022/04/21/spotify-expands-video-podcasts-to-all-creators-in-top-english-speaking-markets-including-u-s/)
-- [To defeat Elon Musk, Twitter needs… more NFTs](https://techcrunch.com/2022/04/21/to-defeat-elon-musk-twitter-needs-more-nfts/)
-- [Uranus by 2049: Here&#39;s why scientists want NASA to send a flagship mission to the strange planet](https://www.space.com/nasa-uranus-orbiter-probe-mission-science/)
+- [Netflix launches a new way to find shows with its ‘Category Hub’ for TV viewers](https://techcrunch.com/2022/04/21/netflix-launches-a-new-way-to-find-shows-with-its-category-hub-for-tv-viewers/)
+- [Convoy raises $260M Series E to expand digital freight network products](https://techcrunch.com/2022/04/21/convoy-raises-260m-series-e-to-expand-digital-freight-network-products/)
+- [Google to update cookie consent banner in Europe following fine](https://techcrunch.com/2022/04/21/google-to-update-cookie-consent-banner-in-europe-following-fine/)
+- [Controlling your phone with your eyes](https://techcrunch.com/2022/04/21/controlling-your-phone-with-your-eyes/)
+- [Fraud as a service: Scammers are using encrypted messaging to undercut BNPL revenue](https://techcrunch.com/2022/04/21/fraud-as-a-service-scammers-are-using-encrypted-messaging-to-undercut-bnpl-revenue/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
