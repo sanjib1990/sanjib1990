@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Tofino Capital reaches first close of $10M fund to back startups in frontier markets](https://techcrunch.com/2022/04/21/tofino-capital-reaches-first-close-of-10m-fund-to-back-startups-in-frontier-markets/)
-- [Private Ax-1 mission to stay at ISS until Saturday, pushing next SpaceX astronaut launch to April 26](https://www.space.com/ax1-astronaut-mission-depart-space-station-saturday/)
-- [Elon Musk’s Boring Company raises $675M to scale Loop projects](https://techcrunch.com/2022/04/20/elon-musks-boring-company-raises-675m-to-scale-loop-projects/)
-- [Lincoln Star Concept: Could a sport tourer be in Lincoln’s electric future?](https://techcrunch.com/2022/04/20/lincoln-draft/)
-- [Singapore-based healthcare startup Ordinary Folk gets $5M to fight stigma](https://techcrunch.com/2022/04/20/singapore-based-healthcare-startup-ordinary-folk-gets-5m-to-fight-stigma/)
+- [Icy Europa&#39;s mysterious double ridges may hint at hidden pockets of water](https://www.space.com/europa-moon-double-ridges-subsurface-water/)
+- [On This Day In Space: April 21, 1997: 1st space funeral launches on &#39;Founders Flight&#39;](https://www.space.com/39251-on-this-day-in-space.html/)
+- [SpaceX Falcon 9 rocket to launch on record-tying 12th mission Thursday: Watch it live](https://www.space.com/spacex-falcon-9-starlink-group-4-14-launch/)
+- [Time might not exist, according to physicists and philosophers — but that&#39;s okay](https://www.space.com/time-might-not-exist-according-to-physicists/)
+- [Overlooked gravitational wave signals point to &#39;exotic&#39; black hole scenarios](https://www.space.com/10-overlooked-gravitational-waves-binary-black-holes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
