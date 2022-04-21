@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Aeva and NASA want to map the Moon with lidar-powered KNaCK pack](https://techcrunch.com/2022/04/21/aeva-and-nasa-want-to-map-the-moon-with-lidar-powered-knack-pack/)
+- [Tresorit bolts on E2E email via a plug-in for enterprise software](https://techcrunch.com/2022/04/21/tresorit-e2ee/)
 - [Icy Europa&#39;s mysterious double ridges may hint at hidden pockets of water](https://www.space.com/europa-moon-double-ridges-subsurface-water/)
 - [On This Day In Space: April 21, 1997: 1st space funeral launches on &#39;Founders Flight&#39;](https://www.space.com/39251-on-this-day-in-space.html/)
 - [SpaceX Falcon 9 rocket to launch on record-tying 12th mission Thursday: Watch it live](https://www.space.com/spacex-falcon-9-starlink-group-4-14-launch/)
-- [Time might not exist, according to physicists and philosophers — but that&#39;s okay](https://www.space.com/time-might-not-exist-according-to-physicists/)
-- [Overlooked gravitational wave signals point to &#39;exotic&#39; black hole scenarios](https://www.space.com/10-overlooked-gravitational-waves-binary-black-holes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
