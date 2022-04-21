@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Alibaba-backed Deeproute further slashes L4 driving costs to $3,000](https://techcrunch.com/2022/04/21/deeproute-l4-driving-3000-cost/)
-- [The Obamas’ Higher Ground will not renew its Spotify partnership, report says](https://techcrunch.com/2022/04/21/the-obamas-higher-ground-will-not-renew-its-spotify-partnership-report-says/)
-- [After proving need for no-code apps, Glide rewarded with $20M Series A](https://techcrunch.com/2022/04/21/with-20m-series-a-glide-expands-no-code-application-building-capabilities/)
-- [25 unbelievable facts about the solar system revealed in All About Space magazine](https://www.space.com/all-about-space-magazine-issue-129/)
-- [Simplify networking with CrunchMatch at TC Sessions: Climate 2022](https://techcrunch.com/2022/04/21/simplify-networking-with-crunchmatch-at-tc-sessions-climate-2022/)
+- [Apple Fitness+ adds new dance workouts featuring music from BTS, ABBA and more](https://techcrunch.com/2022/04/21/apple-fitness-new-dance-workouts-featuring-music-bts-abba/)
+- [The Large Hadron Collider is about to turn back on after a 3-year hiatus](https://www.space.com/cern-large-hadron-collider-turn-on-run-3/)
+- [Why SaaS is bucking the venture slowdown](https://techcrunch.com/2022/04/21/why-saas-is-bucking-the-venture-slowdown/)
+- [Freshflow is helping grocery retailers fight food waste](https://techcrunch.com/2022/04/21/freshflow-seed/)
+- [Russia says nyet, sanctions Mark Zuckerberg, LinkedIn’s Roslansky, VP Harris and other US leaders](https://techcrunch.com/2022/04/21/russia-says-nyet-sanctions-mark-zuckerberg-linkedins-roslansky-vp-harris-and-other-us-leaders/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
