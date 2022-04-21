@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple Fitness+ adds new dance workouts featuring music from BTS, ABBA and more](https://techcrunch.com/2022/04/21/apple-fitness-new-dance-workouts-featuring-music-bts-abba/)
-- [The Large Hadron Collider is about to turn back on after a 3-year hiatus](https://www.space.com/cern-large-hadron-collider-turn-on-run-3/)
-- [Why SaaS is bucking the venture slowdown](https://techcrunch.com/2022/04/21/why-saas-is-bucking-the-venture-slowdown/)
-- [Freshflow is helping grocery retailers fight food waste](https://techcrunch.com/2022/04/21/freshflow-seed/)
-- [Russia says nyet, sanctions Mark Zuckerberg, LinkedIn’s Roslansky, VP Harris and other US leaders](https://techcrunch.com/2022/04/21/russia-says-nyet-sanctions-mark-zuckerberg-linkedins-roslansky-vp-harris-and-other-us-leaders/)
+- [Introducing the TechCrunch Startup Battlefield 200](https://techcrunch.com/2022/04/21/introducing-the-techcrunch-startup-battlefield-200/)
+- [Twitter woos developers back with an app platform](https://techcrunch.com/2022/04/21/twitter-to-promote-developers-apps-directly-on-its-platform/)
+- [AWS expands its serverless offerings](https://techcrunch.com/2022/04/21/aws-expands-its-serverless-offerings/)
+- [Construct Capital’s $300M fund targets critical infrastructure automation](https://techcrunch.com/2022/04/21/construct-capital-startups-automation-infrastructure/)
+- [Nukes, NFTs and Meta’s income tax](https://techcrunch.com/2022/04/21/chain-reaction-crypto-podcast-3lau-nfts-coinbase/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
