@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tofino Capital reaches first close of $10M fund to back startups in frontier markets](https://techcrunch.com/2022/04/21/tofino-capital-reaches-first-close-of-10m-fund-to-back-startups-in-frontier-markets/)
 - [Private Ax-1 mission to stay at ISS until Saturday, pushing next SpaceX astronaut launch to April 26](https://www.space.com/ax1-astronaut-mission-depart-space-station-saturday/)
 - [Elon Musk’s Boring Company raises $675M to scale Loop projects](https://techcrunch.com/2022/04/20/elon-musks-boring-company-raises-675m-to-scale-loop-projects/)
 - [Lincoln Star Concept: Could a sport tourer be in Lincoln’s electric future?](https://techcrunch.com/2022/04/20/lincoln-draft/)
 - [Singapore-based healthcare startup Ordinary Folk gets $5M to fight stigma](https://techcrunch.com/2022/04/20/singapore-based-healthcare-startup-ordinary-folk-gets-5m-to-fight-stigma/)
-- [Tesla blames inflation, cost pressure from suppliers for increased car prices](https://techcrunch.com/2022/04/20/tesla-blames-inflation-cost-pressure-from-suppliers-for-increased-car-prices/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
