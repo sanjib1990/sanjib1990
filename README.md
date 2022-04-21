@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mass grave near besieged Ukrainian city Mariupol spotted from space &lpar;satellite photos&rpar;](https://www.space.com/mass-grave-mariupol-ukraine-satellite-photos/)
 - [James Webb Space Telescope&#39;s mirrors are cooling to deep space temperature](https://www.space.com/james-webb-space-telescope-mirrors-temperature/)
+- [Any port in a storm](https://techcrunch.com/2022/04/21/any-port-in-a-storm/)
 - [Introducing the TechCrunch Startup Battlefield 200](https://techcrunch.com/2022/04/21/introducing-the-techcrunch-startup-battlefield-200/)
 - [Twitter woos developers back with an app platform](https://techcrunch.com/2022/04/21/twitter-to-promote-developers-apps-directly-on-its-platform/)
-- [AWS expands its serverless offerings](https://techcrunch.com/2022/04/21/aws-expands-its-serverless-offerings/)
-- [Construct Capital’s $300M fund targets critical infrastructure automation](https://techcrunch.com/2022/04/21/construct-capital-startups-automation-infrastructure/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
