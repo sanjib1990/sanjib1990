@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Elon Musk unveils three-pronged strategy to fund his $43B Twitter purchase](https://techcrunch.com/2022/04/21/daily-crunch-elon-musk-unveils-three-pronged-strategy-to-fund-his-43b-twitter-purchase/)
+- [Meet the first 5 startups in Amazon’s new $1B industrial innovation fund](https://techcrunch.com/2022/04/21/amazon-invests-5-startups-new-1b-industrial-innovation-fund/)
+- [After layoffs, Flockjay lands on a new SaaS-y vision for tech sales](https://techcrunch.com/2022/04/21/flockjay-elevate-sales-tool/)
+- [Obama says social media is ‘well designed’ to destroy democracies](https://techcrunch.com/2022/04/21/obama-stanford-speech-misinformation/)
 - [Snapchat is growing faster than Facebook and Twitter](https://techcrunch.com/2022/04/21/snapchat-q1-2022-results/)
-- [Helbiz earns its name with punishing 2021 earnings](https://techcrunch.com/2022/04/21/helbiz-earns-its-name-with-punishing-2021-earnings/)
-- [a16z debuts new crypto research team led by Columbia, Stanford researchers](https://techcrunch.com/2022/04/21/a16z-debuts-new-crypto-research-team-led-by-columbia-stanford-researchers/)
-- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates/)
-- [A quarter of a century later, Quake gets modern accessibility features](https://techcrunch.com/2022/04/21/a-quarter-of-a-century-later-quake-gets-modern-accessibility-features/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
