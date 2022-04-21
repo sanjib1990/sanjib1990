@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Plaid cofounder’s next venture is a bank to power fintech apps](https://techcrunch.com/2022/04/21/plaid-cofounders-next-venture-is-a-bank-to-power-fintech-apps/)
+- [Opendoor alums raise $7.75M for Kindred, a home-swapping network it says makes travel ‘dramatically more affordable’](https://techcrunch.com/2022/04/21/opendoor-alums-raise-7-75m-for-kindred-a-home-swapping-network-it-says-makes-travel-dramatically-more-affordable/)
+- [Immigrant credit FinTech Pillar raises $16.9M pre-seed led by Global Founders Capital and Backed VC](https://techcrunch.com/2022/04/21/fintech-startup-pillar-raises-16-9m-pre-seed-led-by-global-founders-capital-and-backed-vc/)
 - [Aeva and NASA want to map the Moon with lidar-powered KNaCK pack](https://techcrunch.com/2022/04/21/aeva-and-nasa-want-to-map-the-moon-with-lidar-powered-knack-pack/)
-- [Tresorit bolts on E2E email via a plug-in for enterprise software](https://techcrunch.com/2022/04/21/tresorit-e2ee/)
-- [Icy Europa&#39;s mysterious double ridges may hint at hidden pockets of water](https://www.space.com/europa-moon-double-ridges-subsurface-water/)
-- [On This Day In Space: April 21, 1997: 1st space funeral launches on &#39;Founders Flight&#39;](https://www.space.com/39251-on-this-day-in-space.html/)
-- [SpaceX Falcon 9 rocket to launch on record-tying 12th mission Thursday: Watch it live](https://www.space.com/spacex-falcon-9-starlink-group-4-14-launch/)
+- [Tresorit bolts on E2EE email via a plug-in for enterprise software](https://techcrunch.com/2022/04/21/tresorit-e2ee/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
