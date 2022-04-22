@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronaut&#39;s new &#39;Earth Views&#39; fabrics line is patterned off planet photos from space](https://www.space.com/astronaut-karen-nyberg-earth-views-fabrics/)
 - [Midsize black holes spotted forming in wreckage of stars](https://www.space.com/intermediate-black-holes-chandra-star-clusters/)
 - [Russia conducts 1st full flight test of new &#39;Sarmat&#39; intercontinental ballistic missile](https://www.space.com/russia-test-launch-sarmat-icbm/)
 - [See 4 planets line up with the moon in the predawn sky](https://www.space.com/four-planets-align-with-moon-april-23/)
 - [Best beginner cameras](https://www.space.com/best-beginner-cameras/)
-- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
