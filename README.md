@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter spotted testing a feature that would let users set status updates](https://techcrunch.com/2022/04/22/twitter-testing-feature-set-status-updates/)
+- [Instagram tests a Templates feature, which allows you to copy formats from other Reels](https://techcrunch.com/2022/04/22/instagram-tests-a-templates-feature-which-allows-you-to-copy-formats-from-other-reels/)
+- [Partial solar eclipse of April 2022: When and where it is and how to watch it online](https://www.space.com/partial-solar-eclipse-april-2022-guide/)
 - [Sennheiser cancels your own wheezing, grunting and panting](https://techcrunch.com/2022/04/22/sennheiser-sport-true-earbuds/)
 - [EdgeDB wants to modernize databases for cutting-edge apps](https://techcrunch.com/2022/04/22/edgedb-wants-to-modernize-databases-for-cutting-edge-apps/)
-- [How guitar legend Joe Satriani&#39;s love of space and sci-fi inspired his new album and comics](https://www.space.com/joe-satriani-crystal-planet-elephants-of-mars-video/)
-- [10 IP and commercial contract loose ends to tie up before you approach investors](https://techcrunch.com/2022/04/22/10-ip-and-commercial-contract-loose-ends-to-tie-up-before-you-approach-investors/)
-- [Tech companies are still going public in Asia, but not enough to halt the global IPO slowdown](https://techcrunch.com/2022/04/22/tech-companies-are-still-going-public-in-asia-but-not-enough-to-halt-the-global-ipo-slowdown/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
