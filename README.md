@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Report reveals Big Tech’s last minute lobbying to weaken EU rules](https://techcrunch.com/2022/04/22/google-facebook-apple-eu-lobbying-report/)
+- [TechCrunch+ roundup: Churn rate basics, BNPL fraud, fundraising IP checklist](https://techcrunch.com/2022/04/22/techcrunch-roundup-churn-rate-basics-bnpl-fraud-fundraising-ip-checklist/)
+- [Building a home on Mars … with bacteria?](https://www.space.com/building-mars-habitat-with-bacteria/)
 - [Finally, we know why there’s a rubber chicken on Twitter](https://techcrunch.com/2022/04/22/twitter-rubber-chicken/)
 - [A second Staten Island Amazon warehouse is holding a union vote on Monday](https://techcrunch.com/2022/04/22/a-second-staten-island-amazon-warehouse-is-holding-a-union-vote-on-monday/)
-- [BeReal: Hype or Hit? What to know about the Gen Z photo-sharing app climbing the charts](https://techcrunch.com/2022/04/22/bereal-hype-or-hit-what-to-know-about-the-gen-z-photo-sharing-app-climbing-the-charts/)
-- [Can saving trees really turn bitcoin green?](https://techcrunch.com/2022/04/22/can-saving-trees-really-turn-bitcoin-green/)
-- [Pearl Jam&#39;s Eddie Vedder calls astronauts on space station for Earth Day chat &lpar;video&rpar;](https://www.space.com/eddie-vedder-space-station-earth-day-video/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
