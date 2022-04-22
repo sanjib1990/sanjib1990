@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [If you could go to Andreessen Horowitz or YC as a startup, which would you choose?](https://techcrunch.com/2022/04/22/should-i-choose-andreessen-horowitz-or-y-combinator/)
-- [Stripe launches crypto support in Connect, starting with payouts for creators on Twitter](https://techcrunch.com/2022/04/22/stripe-launches-crypto-support-in-connect-starting-with-payouts-for-creators-on-twitter/)
-- [TikTok rolls out interactive add-ons for in-feed ads globally](https://techcrunch.com/2022/04/22/tiktok-interactive-add-ons-in-feed-ads/)
-- [Amper is providing a plug-and-play-solution to digitize manufacturing](https://techcrunch.com/2022/04/22/amper-is-providing-a-plug-and-play-solution-to-digitize-manufacturing/)
-- [4 questions every CISO should be asking about the metaverse](https://techcrunch.com/2022/04/22/4-questions-every-ciso-should-be-asking-about-the-metaverse/)
+- [Snap and Disney team up to create an AR Cinderella Castle mural at Disney World](https://techcrunch.com/2022/04/22/snap-and-disney-team-up-to-create-an-ar-cinderella-castle-mural-at-disney-world/)
+- [As it brings its bipedal robots to market, Agility announces a $150M round](https://techcrunch.com/2022/04/22/as-it-brings-its-bipedal-robots-to-market-agility-announces-a-150m-round/)
+- [Albino no more: How Ash Tyler overtook Voq in Star Trek: Discovery](https://www.space.com/albino-no-more-how-ash-tyler-overtook-voq-in-star-trek-discovery/)
+- [TechCrunch Live is now available as a podcast!](https://techcrunch.com/2022/04/22/techcrunch-live-is-now-available-as-a-podcast/)
+- [Blue Moon: What is it and when does it occur?](https://www.space.com/15455-blue-moon.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
