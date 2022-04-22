@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Snap and Disney team up to create an AR Cinderella Castle mural at Disney World](https://techcrunch.com/2022/04/22/snap-and-disney-team-up-to-create-an-ar-cinderella-castle-mural-at-disney-world/)
-- [As it brings its bipedal robots to market, Agility announces a $150M round](https://techcrunch.com/2022/04/22/as-it-brings-its-bipedal-robots-to-market-agility-announces-a-150m-round/)
-- [Albino no more: How Ash Tyler overtook Voq in Star Trek: Discovery](https://www.space.com/albino-no-more-how-ash-tyler-overtook-voq-in-star-trek-discovery/)
-- [TechCrunch Live is now available as a podcast!](https://techcrunch.com/2022/04/22/techcrunch-live-is-now-available-as-a-podcast/)
-- [Blue Moon: What is it and when does it occur?](https://www.space.com/15455-blue-moon.html/)
+- [How guitar legend Joe Satriani&#39;s love of space and sci-fi inspired his new album and comics](https://www.space.com/joe-satriani-crystal-planet-elephants-of-mars-video/)
+- [10 IP and commercial contract loose ends to tie up before you approach investors](https://techcrunch.com/2022/04/22/10-ip-and-commercial-contract-loose-ends-to-tie-up-before-you-approach-investors/)
+- [Tech companies are still going public in Asia, but not enough to halt the global IPO slowdown](https://techcrunch.com/2022/04/22/tech-companies-are-still-going-public-in-asia-but-not-enough-to-halt-the-global-ipo-slowdown/)
+- [Review: The DJI Mic is too expensive to be this meh](https://techcrunch.com/2022/04/22/dji-mic-review/)
+- [Coinbase CEO says Apple’s crypto rules highlight ‘potential antitrust issues’](https://techcrunch.com/2022/04/22/coinbase-ceo-says-apples-crypto-rules-highlight-potential-antitrust-issues/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
