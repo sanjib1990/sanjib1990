@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [If you could go to Andreessen Horowitz or YC as a startup, which would you choose?](https://techcrunch.com/2022/04/22/should-i-choose-andreessen-horowitz-or-y-combinator/)
+- [Stripe launches crypto support in Connect, starting with payouts for creators on Twitter](https://techcrunch.com/2022/04/22/stripe-launches-crypto-support-in-connect-starting-with-payouts-for-creators-on-twitter/)
+- [TikTok rolls out interactive add-ons for in-feed ads globally](https://techcrunch.com/2022/04/22/tiktok-interactive-add-ons-in-feed-ads/)
+- [Amper is providing a plug-and-play-solution to digitize manufacturing](https://techcrunch.com/2022/04/22/amper-is-providing-a-plug-and-play-solution-to-digitize-manufacturing/)
 - [4 questions every CISO should be asking about the metaverse](https://techcrunch.com/2022/04/22/4-questions-every-ciso-should-be-asking-about-the-metaverse/)
-- [Artists like Harry Connick Jr. are using web3 to engage with fans](https://techcrunch.com/2022/04/22/artists-like-harry-connick-jr-are-using-web3-to-engage-with-fans/)
-- [Alien landscapes: 15 places on Earth that look exoplanetary](https://www.space.com/15-places-on-earth-look-like-exoplanet/)
-- [How Zenly made social maps cool again — and what’s next](https://techcrunch.com/2022/04/22/how-zenly-made-social-maps-cool-again-and-whats-next/)
-- [Astronaut&#39;s new &#39;Earth Views&#39; fabrics line is patterned off planet photos from space](https://www.space.com/astronaut-karen-nyberg-earth-views-fabrics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
