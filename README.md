@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [On This Day In Space: April 22, 2010: X-37B space plane launches on 1st top-secret mission](https://www.space.com/39251-on-this-day-in-space.html/)
 - [Manila-based MadEats is more than a ghost kitchen startup](https://techcrunch.com/2022/04/21/manila-based-madeats-is-more-than-a-ghost-kitchen-startup/)
 - [Amazon acquires India’s GlowRoad in social commerce push](https://techcrunch.com/2022/04/21/amazon-social-commerce-india/)
 - [This West Point grad started a booking system for restaurants, and VCs just funded it](https://techcrunch.com/2022/04/21/this-west-point-grad-started-a-booking-system-for-restaurants-and-vcs-just-funded-it/)
 - [Daily Crunch: Elon Musk unveils three-pronged strategy to fund his $43B Twitter purchase](https://techcrunch.com/2022/04/21/daily-crunch-elon-musk-unveils-three-pronged-strategy-to-fund-his-43b-twitter-purchase/)
-- [Meet the first 5 startups in Amazon’s new $1B industrial innovation fund](https://techcrunch.com/2022/04/21/amazon-invests-5-startups-new-1b-industrial-innovation-fund/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
