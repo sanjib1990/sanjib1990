@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [4 questions every CISO should be asking about the metaverse](https://techcrunch.com/2022/04/22/4-questions-every-ciso-should-be-asking-about-the-metaverse/)
+- [Artists like Harry Connick Jr. are using web3 to engage with fans](https://techcrunch.com/2022/04/22/artists-like-harry-connick-jr-are-using-web3-to-engage-with-fans/)
+- [Alien landscapes: 15 places on Earth that look exoplanetary](https://www.space.com/15-places-on-earth-look-like-exoplanet/)
 - [How Zenly made social maps cool again — and what’s next](https://techcrunch.com/2022/04/22/how-zenly-made-social-maps-cool-again-and-whats-next/)
 - [Astronaut&#39;s new &#39;Earth Views&#39; fabrics line is patterned off planet photos from space](https://www.space.com/astronaut-karen-nyberg-earth-views-fabrics/)
-- [Midsize black holes spotted forming in wreckage of stars](https://www.space.com/intermediate-black-holes-chandra-star-clusters/)
-- [Russia conducts 1st full flight test of new &#39;Sarmat&#39; intercontinental ballistic missile](https://www.space.com/russia-test-launch-sarmat-icbm/)
-- [See 4 planets line up with the moon in the predawn sky](https://www.space.com/four-planets-align-with-moon-april-23/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
