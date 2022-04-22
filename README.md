@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sennheiser cancels your own wheezing, grunting and panting](https://techcrunch.com/2022/04/22/sennheiser-sport-true-earbuds/)
+- [EdgeDB wants to modernize databases for cutting-edge apps](https://techcrunch.com/2022/04/22/edgedb-wants-to-modernize-databases-for-cutting-edge-apps/)
 - [How guitar legend Joe Satriani&#39;s love of space and sci-fi inspired his new album and comics](https://www.space.com/joe-satriani-crystal-planet-elephants-of-mars-video/)
 - [10 IP and commercial contract loose ends to tie up before you approach investors](https://techcrunch.com/2022/04/22/10-ip-and-commercial-contract-loose-ends-to-tie-up-before-you-approach-investors/)
 - [Tech companies are still going public in Asia, but not enough to halt the global IPO slowdown](https://techcrunch.com/2022/04/22/tech-companies-are-still-going-public-in-asia-but-not-enough-to-halt-the-global-ipo-slowdown/)
-- [Review: The DJI Mic is too expensive to be this meh](https://techcrunch.com/2022/04/22/dji-mic-review/)
-- [Coinbase CEO says Apple’s crypto rules highlight ‘potential antitrust issues’](https://techcrunch.com/2022/04/22/coinbase-ceo-says-apples-crypto-rules-highlight-potential-antitrust-issues/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
