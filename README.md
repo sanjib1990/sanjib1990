@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Saturday eclipse talk kicks off Astronomical League of the Philippines&#39; new webinar series](https://www.space.com/saturday-eclipse-talk-apl-webinar-series/)
+- [Block Head Jack Dorsey tells us what we already knew](https://techcrunch.com/2022/04/22/jack-dorsey-is-a-block-head/)
+- [Daily Crunch: Twitter to allow developers to build third-party apps](https://techcrunch.com/2022/04/22/daily-crunch-twitter-to-allow-developers-to-build-third-party-apps/)
+- [NLRB rules Activision Blizzard’s first union at Raven Software can vote for recognition](https://techcrunch.com/2022/04/22/activision-blizzard-union-vote-raven-software/)
 - [Report reveals Big Tech’s last minute lobbying to weaken EU rules](https://techcrunch.com/2022/04/22/google-facebook-apple-eu-lobbying-report/)
-- [TechCrunch+ roundup: Churn rate basics, BNPL fraud, fundraising IP checklist](https://techcrunch.com/2022/04/22/techcrunch-roundup-churn-rate-basics-bnpl-fraud-fundraising-ip-checklist/)
-- [Building a home on Mars … with bacteria?](https://www.space.com/building-mars-habitat-with-bacteria/)
-- [Finally, we know why there’s a rubber chicken on Twitter](https://techcrunch.com/2022/04/22/twitter-rubber-chicken/)
-- [A second Staten Island Amazon warehouse is holding a union vote on Monday](https://techcrunch.com/2022/04/22/a-second-staten-island-amazon-warehouse-is-holding-a-union-vote-on-monday/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
