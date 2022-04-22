@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How Zenly made social maps cool again — and what’s next](https://techcrunch.com/2022/04/22/how-zenly-made-social-maps-cool-again-and-whats-next/)
 - [Astronaut&#39;s new &#39;Earth Views&#39; fabrics line is patterned off planet photos from space](https://www.space.com/astronaut-karen-nyberg-earth-views-fabrics/)
 - [Midsize black holes spotted forming in wreckage of stars](https://www.space.com/intermediate-black-holes-chandra-star-clusters/)
 - [Russia conducts 1st full flight test of new &#39;Sarmat&#39; intercontinental ballistic missile](https://www.space.com/russia-test-launch-sarmat-icbm/)
 - [See 4 planets line up with the moon in the predawn sky](https://www.space.com/four-planets-align-with-moon-april-23/)
-- [Best beginner cameras](https://www.space.com/best-beginner-cameras/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
