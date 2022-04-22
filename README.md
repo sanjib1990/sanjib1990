@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Finally, we know why there’s a rubber chicken on Twitter](https://techcrunch.com/2022/04/22/twitter-rubber-chicken/)
+- [A second Staten Island Amazon warehouse is holding a union vote on Monday](https://techcrunch.com/2022/04/22/a-second-staten-island-amazon-warehouse-is-holding-a-union-vote-on-monday/)
+- [BeReal: Hype or Hit? What to know about the Gen Z photo-sharing app climbing the charts](https://techcrunch.com/2022/04/22/bereal-hype-or-hit-what-to-know-about-the-gen-z-photo-sharing-app-climbing-the-charts/)
+- [Can saving trees really turn bitcoin green?](https://techcrunch.com/2022/04/22/can-saving-trees-really-turn-bitcoin-green/)
 - [Pearl Jam&#39;s Eddie Vedder calls astronauts on space station for Earth Day chat &lpar;video&rpar;](https://www.space.com/eddie-vedder-space-station-earth-day-video/)
-- [Lapsus$ hackers targeted T-Mobile source code in latest data breach](https://techcrunch.com/2022/04/22/lapsus-hackers-t-mobile/)
-- [SpaceX inks 1st deal to provide Starlink internet service on planes](https://www.space.com/spacex-starlink-inflight-internet-airplanes/)
-- [Twitter spotted testing a feature that would let users set status updates](https://techcrunch.com/2022/04/22/twitter-testing-feature-set-status-updates/)
-- [Instagram tests a Templates feature, which allows you to copy formats from other Reels](https://techcrunch.com/2022/04/22/instagram-tests-a-templates-feature-which-allows-you-to-copy-formats-from-other-reels/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
