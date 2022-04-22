@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pearl Jam&#39;s Eddie Vedder calls astronauts on space station for Earth Day chat &lpar;video&rpar;](https://www.space.com/eddie-vedder-space-station-earth-day-video/)
+- [Lapsus$ hackers targeted T-Mobile source code in latest data breach](https://techcrunch.com/2022/04/22/lapsus-hackers-t-mobile/)
 - [SpaceX inks 1st deal to provide Starlink internet service on planes](https://www.space.com/spacex-starlink-inflight-internet-airplanes/)
 - [Twitter spotted testing a feature that would let users set status updates](https://techcrunch.com/2022/04/22/twitter-testing-feature-set-status-updates/)
 - [Instagram tests a Templates feature, which allows you to copy formats from other Reels](https://techcrunch.com/2022/04/22/instagram-tests-a-templates-feature-which-allows-you-to-copy-formats-from-other-reels/)
-- [Partial solar eclipse of April 2022: When and where it is and how to watch it online](https://www.space.com/partial-solar-eclipse-april-2022-guide/)
-- [Sennheiser cancels your own wheezing, grunting and panting](https://techcrunch.com/2022/04/22/sennheiser-sport-true-earbuds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
