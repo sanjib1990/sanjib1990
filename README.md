@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Private Ax-1 astronaut mission leaving space station Saturday: Watch live](https://www.space.com/ax1-astronauts-departing-international-space-station-webcast/)
+- [Europe seals a deal on tighter rules for digital services](https://techcrunch.com/2022/04/23/digital-services-act-political-deal-dsa/)
 - [Alphabet-owned Intrinsic is acquiring fellow robotic software firm Vicarious](https://techcrunch.com/2022/04/22/alphabet-owned-intrinsic-is-acquiring-fellow-robotic-software-firm-vicarious/)
 - [15 carbon removal projects score $1M each in climate Xprize milestone](https://techcrunch.com/2022/04/22/15-carbon-removal-projects-score-1m-each-in-climate-xprize-milestone/)
 - [Saturday eclipse talk kicks off Astronomical League of the Philippines&#39; new webinar series](https://www.space.com/saturday-eclipse-talk-apl-webinar-series/)
-- [Block Head Jack Dorsey tells us what we already knew](https://techcrunch.com/2022/04/22/jack-dorsey-is-a-block-head/)
-- [Daily Crunch: Twitter to allow developers to build third-party apps](https://techcrunch.com/2022/04/22/daily-crunch-twitter-to-allow-developers-to-build-third-party-apps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
