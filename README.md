@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Reliance says its $3.4 billion deal with Future Group ‘cannot be implemented’](https://techcrunch.com/2022/04/23/reliance-says-its-3-4-billion-deal-with-future-group-cannot-be-implemented/)
 - [Private Ax-1 astronaut mission leaving space station Saturday: Watch live](https://www.space.com/ax1-astronauts-departing-international-space-station-webcast/)
 - [Europe seals a deal on tighter rules for digital services](https://techcrunch.com/2022/04/23/digital-services-act-political-deal-dsa/)
 - [Alphabet-owned Intrinsic is acquiring fellow robotic software firm Vicarious](https://techcrunch.com/2022/04/22/alphabet-owned-intrinsic-is-acquiring-fellow-robotic-software-firm-vicarious/)
 - [15 carbon removal projects score $1M each in climate Xprize milestone](https://techcrunch.com/2022/04/22/15-carbon-removal-projects-score-1m-each-in-climate-xprize-milestone/)
-- [Saturday eclipse talk kicks off Astronomical League of the Philippines&#39; new webinar series](https://www.space.com/saturday-eclipse-talk-apl-webinar-series/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
