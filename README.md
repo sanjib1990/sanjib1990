@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Alphabet-owned Intrinsic is acquiring fellow robotic software firm Vicarious](https://techcrunch.com/2022/04/22/alphabet-owned-intrinsic-is-acquiring-fellow-robotic-software-firm-vicarious/)
+- [15 carbon removal projects score $1M each in climate Xprize milestone](https://techcrunch.com/2022/04/22/15-carbon-removal-projects-score-1m-each-in-climate-xprize-milestone/)
 - [Saturday eclipse talk kicks off Astronomical League of the Philippines&#39; new webinar series](https://www.space.com/saturday-eclipse-talk-apl-webinar-series/)
 - [Block Head Jack Dorsey tells us what we already knew](https://techcrunch.com/2022/04/22/jack-dorsey-is-a-block-head/)
 - [Daily Crunch: Twitter to allow developers to build third-party apps](https://techcrunch.com/2022/04/22/daily-crunch-twitter-to-allow-developers-to-build-third-party-apps/)
-- [NLRB rules Activision Blizzard’s first union at Raven Software can vote for recognition](https://techcrunch.com/2022/04/22/activision-blizzard-union-vote-raven-software/)
-- [Report reveals Big Tech’s last minute lobbying to weaken EU rules](https://techcrunch.com/2022/04/22/google-facebook-apple-eu-lobbying-report/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
