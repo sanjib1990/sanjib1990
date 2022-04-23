@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DJ and crypto startup founder 3LAU explains the value behind music NFTs](https://techcrunch.com/2022/04/23/dj-and-crypto-startup-founder-3lau-explains-the-value-behind-music-nfts/)
 - [Scammers snatch up expired domains, vexing Google](https://techcrunch.com/2022/04/23/seo-scammers-buy-expired-domains-vexing-google-trust/)
 - [This Week In Space podcast: Episode 8 — Humans to Mars, part 2](https://www.space.com/this-week-in-space-podcast-twit/)
 - [SpaceX Ax-1 private mission to space station: Live updates](https://www.space.com/news/live/ax-1-space-station-mission-updates/)
 - [Cocooned, dying stars may cause sudden, bright blasts that confound scientists](https://www.space.com/fbot-mysteries-dying-stars-sudden-bright-blasts/)
-- [US government report proposed nuking the moon, newly released documents reveal](https://www.space.com/us-government-report-nuke-the-moon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
