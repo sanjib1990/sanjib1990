@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Reliance says its $3.4 billion deal with Future Group ‘cannot be implemented’](https://techcrunch.com/2022/04/23/reliance-says-its-3-4-billion-deal-with-future-group-cannot-be-implemented/)
-- [Private Ax-1 astronaut mission leaving space station Saturday: Watch live](https://www.space.com/ax1-astronauts-departing-international-space-station-webcast/)
-- [Europe seals a deal on tighter rules for digital services](https://techcrunch.com/2022/04/23/digital-services-act-political-deal-dsa/)
-- [Alphabet-owned Intrinsic is acquiring fellow robotic software firm Vicarious](https://techcrunch.com/2022/04/22/alphabet-owned-intrinsic-is-acquiring-fellow-robotic-software-firm-vicarious/)
-- [15 carbon removal projects score $1M each in climate Xprize milestone](https://techcrunch.com/2022/04/22/15-carbon-removal-projects-score-1m-each-in-climate-xprize-milestone/)
+- [SpaceX Ax-1 private mission to space station: Live updates](https://www.space.com/news/live/ax-1-space-station-mission-updates/)
+- [Cocooned, dying stars may cause sudden, bright blasts that confound scientists](https://www.space.com/fbot-mysteries-dying-stars-sudden-bright-blasts/)
+- [US government report proposed nuking the moon, newly released documents reveal](https://www.space.com/us-government-report-nuke-the-moon/)
+- [Violent stellar explosion produces highest-energy gamma-rays ever observed from a nova](https://www.space.com/rs-ophiuchi-nova-explosion-gamma-rays/)
+- [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
