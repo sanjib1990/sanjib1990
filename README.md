@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Week in Apps: Google bans call-recording apps, Snap’s Q1 and BeReal hype](https://techcrunch.com/2022/04/23/this-week-in-apps-google-bans-call-recording-apps-snaps-q1-and-bereal-hype/)
+- [Deal terms feel like dart boards these days](https://techcrunch.com/2022/04/23/deal-terms-for-startups/)
 - [SpaceX Ax-1 private mission to space station: Live updates](https://www.space.com/news/live/ax-1-space-station-mission-updates/)
 - [SpaceX, NASA delay undocking of private Ax-1 astronaut crew at space station](https://www.space.com/spacex-ax-1-dragon-space-station-undocking-delayed/)
 - [If everything is the metaverse then the metaverse is nothing](https://techcrunch.com/2022/04/23/if-everything-is-the-metaverse-then-the-metaverse-is-nothing/)
-- [Super fans, franchises, and unique content could be the answer to reducing streaming churn](https://techcrunch.com/2022/04/23/super-fans-franchises-and-unique-content-could-be-the-answer-to-reducing-streaming-churn/)
-- [DJ and crypto startup founder 3LAU explains the value behind music NFTs](https://techcrunch.com/2022/04/23/dj-and-crypto-startup-founder-3lau-explains-the-value-behind-music-nfts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
