@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hear how Front raised serious cash from unconventional investors on TechCrunch Live](https://techcrunch.com/2022/04/24/hear-how-front-raised-serious-cash-from-unconventional-investors-on-techcrunch-live/)
 - [Deep Science: AI simulates economies and predicts which startups receive funding](https://techcrunch.com/2022/04/24/deep-science-ai-simulates-economies-and-predicts-which-startups-receive-funding/)
 - [Why a16z pitched Deel to lead its Series A](https://techcrunch.com/2022/04/24/why-a16z-pitched-deel-to-lead-its-series-a/)
 - [A complete timeline of the Elon Musk-Twitter saga](https://techcrunch.com/2022/04/24/elon-musk-twitter-offer-timeline/)
 - [Fintech Roundup: Founders reinventing, startups buying and pre-seed a’growing](https://techcrunch.com/2022/04/24/fintech-roundup-founders-reinventing-startups-buying-and-preseed-agrowing/)
-- [3 questions about Coinbase’s NFT push](https://techcrunch.com/2022/04/24/3-questions-about-coinbases-nft-push/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
