@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why a16z pitched Deel to lead its Series A](https://techcrunch.com/2022/04/24/why-a16z-pitched-deel-to-lead-its-series-a/)
 - [A complete timeline of the Elon Musk-Twitter saga](https://techcrunch.com/2022/04/24/elon-musk-twitter-offer-timeline/)
 - [Fintech Roundup: Founders reinventing, startups buying and pre-seed a’growing](https://techcrunch.com/2022/04/24/fintech-roundup-founders-reinventing-startups-buying-and-preseed-agrowing/)
 - [3 questions about Coinbase’s NFT push](https://techcrunch.com/2022/04/24/3-questions-about-coinbases-nft-push/)
 - [Large Hadron Collider restarts to push physics to the edge](https://www.space.com/large-hadron-collider-restarts-run-3/)
-- [On This Day In Space: April 24, 1970: China launches its 1st satellite](https://www.space.com/39251-on-this-day-in-space.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
