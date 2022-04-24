@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [This Week in Apps: Google bans call-recording apps, Snap’s Q1 and BeReal hype](https://techcrunch.com/2022/04/23/this-week-in-apps-google-bans-call-recording-apps-snaps-q1-and-bereal-hype/)
-- [Deal terms feel like dart boards these days](https://techcrunch.com/2022/04/23/deal-terms-for-startups/)
-- [SpaceX Ax-1 private mission to space station: Live updates](https://www.space.com/news/live/ax-1-space-station-mission-updates/)
-- [SpaceX, NASA delay undocking of private Ax-1 astronaut crew at space station](https://www.space.com/spacex-ax-1-dragon-space-station-undocking-delayed/)
-- [If everything is the metaverse then the metaverse is nothing](https://techcrunch.com/2022/04/23/if-everything-is-the-metaverse-then-the-metaverse-is-nothing/)
+- [On This Day In Space: April 24, 1970: China launches its 1st satellite](https://www.space.com/39251-on-this-day-in-space.html/)
+- [Upcoming satellite mission may &#39;see&#39; how early universe cooled](https://www.space.com/universe-phase-transition-gravitational-wave-signals/)
+- [India continuing work on moon landing and crewed spaceflight plans despite delays](https://www.space.com/india-moon-lander-crewed-spaceflight-progress/)
+- [Thousands of satellites are polluting Australian skies, and threatening ancient Indigenous astronomy practices](https://www.space.com/satellites-threatening-ancient-indigenous-astronomy/)
+- [Shadow of Jupiter&#39;s largest moon looms in magnificent new Juno photo](https://www.space.com/juno-jupiter-image-ganymede-moon-shadow/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
