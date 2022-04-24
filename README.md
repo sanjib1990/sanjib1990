@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [3 questions about Coinbase’s NFT push](https://techcrunch.com/2022/04/24/3-questions-about-coinbases-nft-push/)
+- [Large Hadron Collider restarts to push physics to the edge](https://www.space.com/large-hadron-collider-restarts-run-3/)
 - [On This Day In Space: April 24, 1970: China launches its 1st satellite](https://www.space.com/39251-on-this-day-in-space.html/)
 - [Upcoming satellite mission may &#39;see&#39; how early universe cooled](https://www.space.com/universe-phase-transition-gravitational-wave-signals/)
 - [India continuing work on moon landing and crewed spaceflight plans despite delays](https://www.space.com/india-moon-lander-crewed-spaceflight-progress/)
-- [Thousands of satellites are polluting Australian skies, and threatening ancient Indigenous astronomy practices](https://www.space.com/satellites-threatening-ancient-indigenous-astronomy/)
-- [Shadow of Jupiter&#39;s largest moon looms in magnificent new Juno photo](https://www.space.com/juno-jupiter-image-ganymede-moon-shadow/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
