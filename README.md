@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA to roll Artemis 1 moon rocket off the launch pad today: Watch it live](https://www.space.com/nasa-artemis-1-moon-rocket-rollback-webcast/)
-- [How to know when it’s time for your startup to stop DIY-ing legal work](https://techcrunch.com/2022/04/25/do-i-need-a-startup-lawyer-lindsey-magnano/)
-- [Private Ax-1 astronauts return to Earth, ending historic space mission](https://www.space.com/ax1-astronauts-return-to-earth-splashdown-success/)
-- [Hubble Space Telescope studies peculiar &#39;ultra-diffuse galaxy&#39; &lpar;photo&rpar;](https://www.space.com/hubble-telescope-photo-peculiar-diffuse-galaxy/)
-- [Solar cycle: What is it and why does it matter?](https://www.space.com/solar-cycle-frequency-prediction-facts/)
+- [Google’s Pixel Watch may finally be on its way](https://techcrunch.com/2022/04/25/googles-pixel-watch-may-finally-be-on-its-way/)
+- [Twitter accepts Elon Musk’s $44B acquisition offer](https://techcrunch.com/2022/04/25/twitter-accepts-elon-musks-43b-acquisition-offer/)
+- [Here’s why we’re about to see an explosion of hyperreal artificial humans online](https://techcrunch.com/2022/04/25/heres-why-were-about-to-see-an-explosion-of-hyper-real-artificial-humans-online/)
+- [Musk’s Boring Company to begin ‘full-scale’ hyperloop testing this year](https://techcrunch.com/2022/04/25/musks-boring-company-to-begin-full-scale-hyperloop-testing-this-year/)
+- [Sapphire Ventures’ Cathy Gao on how VCs can help early-stage startups weather volatility](https://techcrunch.com/2022/04/25/sapphire-ventures-cathy-gao-on-how-vcs-can-help-early-stage-startups-weather-volatility/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
