@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NFT aggregator Gem acquired by OpenSea shortly after ousting co-founder for sexual misconduct](https://techcrunch.com/2022/04/25/nft-aggregator-gem-acquired-by-opensea-shortly-after-ousting-co-founder-for-sexual-misconduct/)
+- [Apple confirms the App Store and Apple Music are experiencing issues](https://techcrunch.com/2022/04/25/apple-app-store-apple-music-issues-down/)
+- [Best telescopes 2022: Top picks for viewing planets, galaxies, stars and more](https://www.space.com/15693-telescopes-beginners-telescope-reviews-buying-guide.html/)
+- [Google donates the Istio service mesh to the Cloud Native Computing Foundation](https://techcrunch.com/2022/04/25/google-donates-the-istio-service-mesh-to-the-cloud-native-computing-foundation/)
 - [Amazon Prime debuts on TikTok with help from Jason Derulo](https://techcrunch.com/2022/04/25/amazon-prime-debuts-on-tiktok-with-help-from-jason-derulo/)
-- [Inflatable Venus drone, Mars spacesuits and more: NASA picks far-out tech concepts for future study](https://www.space.com/nasa-niac-future-space-exploration-technology-grants/)
-- [Investors flock to fund an AI cornerstone: Feature stores](https://techcrunch.com/2022/04/25/investors-flock-to-fund-an-ai-cornerstone-feature-stores/)
-- [Pinhole Pro Max is a $400 tax on stupid photographers](https://techcrunch.com/2022/04/25/tiny-hole-big-price-tag/)
-- [Impossible Foods’ Pat Brown will discuss plant-based meats at TC Sessions: Climate 2022](https://techcrunch.com/2022/04/25/impossible-foods-pat-brown-will-discuss-plant-based-meats-at-tc-sessions-climate-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
