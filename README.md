@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Max Q: Mapping the moon](https://techcrunch.com/2022/04/25/max-q-mapping-the-moon/)
 - [Bring on the Twitter mafia](https://techcrunch.com/2022/04/25/bring-on-the-twitter-mafia/)
 - [Will advertisers flee a ‘free speech’ Twitter?](https://techcrunch.com/2022/04/25/will-advertisers-flee-a-free-speech-twitter/)
 - [It’s Elon’s Twitter now, so what’s next?](https://techcrunch.com/2022/04/25/its-elons-twitter-now-so-whats-next/)
 - [Alright Elon, don’t fuck it up](https://techcrunch.com/2022/04/25/alright-elon-dont-fuck-it-up/)
-- [Trump says he won’t return to Twitter if his account is reinstated](https://techcrunch.com/2022/04/25/trump-wont-return-to-twitter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
