@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [What will Elon actually do if he buys Twitter?](https://techcrunch.com/2022/04/25/what-will-elon-actually-do-if-he-buys-twitter/)
-- [Circa wants to make first-of-the-month rent payments obsolete](https://techcrunch.com/2022/04/25/circa-wants-to-make-first-of-the-month-rent-payments-obsolete/)
-- [Watch SpaceX&#39;s private Ax-1 astronaut crew return to Earth today live online](https://www.space.com/spacex-ax-1-private-astronauts-splashdown-webcast/)
-- [Best cameras for photos and videos {year}](https://www.space.com/best-cameras/)
-- [Best stargazing apps: AR apps and virtual star maps to help you navigate the night sky](https://www.space.com/best-stargazing-apps/)
+- [Evidence of &#39;modern&#39; plate tectonics dating to 2.5 billion years ago found in China](https://www.space.com/archean-eon-plate-tectonics-china/)
+- [Netflix is not yet considering live sports — but here’s why it should](https://techcrunch.com/2022/04/25/netflix-is-not-yet-considering-live-sports-but-heres-why-it-should/)
+- [Pandemic-fueled companies are finding the new reality hard to swallow](https://techcrunch.com/2022/04/25/pandemic-fueled-companies-are-finding-the-new-reality-hard-to-swallow/)
+- [Meta wants to sell you the metaverse in its first brick-and-mortar store](https://techcrunch.com/2022/04/25/meta-store-facebook-store/)
+- [Building a better mobility fintech startup on TechCrunch Live](https://techcrunch.com/2022/04/25/building-a-better-mobility-fintech-startup-on-techcrunch-live/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
