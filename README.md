@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html/)
 - [Arrow saves online shopping carts in Southeast Asia](https://techcrunch.com/2022/04/24/arrow-saves-online-shopping-carts-in-southeast-asia/)
 - [Zenda gets $9.4M to streamline school fee payment and management](https://techcrunch.com/2022/04/24/zenda-gets-9-4m-to-streamline-school-fee-payment-and-management/)
 - [Elon Musk’s The Boring Company to take on hyperloop project](https://techcrunch.com/2022/04/24/elon-musks-the-boring-company-to-take-on-hyperloop-project/)
 - [SpaceX Ax-1 private mission to space station: Live updates](https://www.space.com/news/live/ax-1-space-station-mission-updates/)
-- [SpaceX Dragon with private Ax-1 astronaut crew departs International Space Station](https://www.space.com/spacex-ax1-private-astronauts-depart-space-station/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
