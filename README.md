@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Elon Musk is buying Twitter for $44 billion](https://www.space.com/spacex-elon-musk-buying-twitter-44-billion/)
-- [Large Hadron Collider hits world record proton acceleration](https://www.space.com/cern-large-hadron-collider-record-energy-proton-beam/)
-- [Google’s Pixel Watch may finally be on its way](https://techcrunch.com/2022/04/25/googles-pixel-watch-may-finally-be-on-its-way/)
-- [Twitter accepts Elon Musk’s $44B acquisition offer](https://techcrunch.com/2022/04/25/twitter-accepts-elon-musks-43b-acquisition-offer/)
-- [Here’s why we’re about to see an explosion of hyperreal artificial humans online](https://techcrunch.com/2022/04/25/heres-why-were-about-to-see-an-explosion-of-hyper-real-artificial-humans-online/)
+- [Bring on the Twitter mafia](https://techcrunch.com/2022/04/25/bring-on-the-twitter-mafia/)
+- [Will advertisers flee a ‘free speech’ Twitter?](https://techcrunch.com/2022/04/25/will-advertisers-flee-a-free-speech-twitter/)
+- [It’s Elon’s Twitter now, so what’s next?](https://techcrunch.com/2022/04/25/its-elons-twitter-now-so-whats-next/)
+- [Alright Elon, don’t fuck it up](https://techcrunch.com/2022/04/25/alright-elon-dont-fuck-it-up/)
+- [Trump says he won’t return to Twitter if his account is reinstated](https://techcrunch.com/2022/04/25/trump-wont-return-to-twitter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
