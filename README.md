@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Best cameras for photos and videos {year}](https://www.space.com/best-cameras/)
+- [Best stargazing apps: AR apps and virtual star maps to help you navigate the night sky](https://www.space.com/best-stargazing-apps/)
 - [The Station: Lyft’s bikeshare play, Tesla’s Q1 warning and big bucks for Musk’s tunnel startup](https://techcrunch.com/2022/04/25/the-station-lyfts-bikeshare-play-teslas-q1-warning-and-big-bucks-for-musks-tunnel-startup/)
 - [Sky-Watcher telescope deals available right now](https://www.space.com/skywatcher-deals-telescopes/)
 - [Twitter said to be close to a deal with Elon Musk](https://techcrunch.com/2022/04/25/twitter-said-to-be-close-to-a-deal-to-with-elon-musk/)
-- [UK Binocular deal: save 26% on these Celestron binoculars](https://www.space.com/uk-celestron-skymaster-binocular-amazon-discount/)
-- [Budget telescopes under $500: Picks from Celestron, Meade and Orion](https://www.space.com/telescopes-under-500/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
