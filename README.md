@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Arrow saves online shopping carts in Southeast Asia](https://techcrunch.com/2022/04/24/arrow-saves-online-shopping-carts-in-southeast-asia/)
+- [Zenda gets $9.4M to streamline school fee payment and management](https://techcrunch.com/2022/04/24/zenda-gets-9-4m-to-streamline-school-fee-payment-and-management/)
 - [Elon Musk’s The Boring Company to take on hyperloop project](https://techcrunch.com/2022/04/24/elon-musks-the-boring-company-to-take-on-hyperloop-project/)
 - [SpaceX Ax-1 private mission to space station: Live updates](https://www.space.com/news/live/ax-1-space-station-mission-updates/)
 - [SpaceX Dragon with private Ax-1 astronaut crew departs International Space Station](https://www.space.com/spacex-ax1-private-astronauts-depart-space-station/)
-- [Fishy business: Rooser raises $23M for its seafood trading platform](https://techcrunch.com/2022/04/24/fishy-business-rooser-raises-23m-for-its-seafood-trading-platform/)
-- [Watch SpaceX&#39;s Private Ax-1 astronaut mission leave the space station tonight](https://www.space.com/ax1-astronauts-departing-international-space-station-webcast/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
