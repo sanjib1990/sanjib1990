@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Launcher shows off its 3D printed rocket doing a full scale burn](https://techcrunch.com/2022/04/25/launcher-shows-off-its-3d-printed-rocket-doing-a-full-scale-burn/)
+- [Daily Crunch: Twitter board OKs Musk’s $44B buyout, describes sale as ‘best path forward’](https://techcrunch.com/2022/04/25/daily-crunch-twitter-board-oks-musks-44b-buyout-describes-sale-as-best-path-forward/)
+- [Axiom Space, SpaceX change the landscape of private spaceflight with Ax-1 mission](https://www.space.com/axiom-space-spacex-ax1-splashdown-private-spaceflight/)
 - [Max Q: Mapping the moon](https://techcrunch.com/2022/04/25/max-q-mapping-the-moon/)
 - [Bring on the Twitter mafia](https://techcrunch.com/2022/04/25/bring-on-the-twitter-mafia/)
-- [Will advertisers flee a ‘free speech’ Twitter?](https://techcrunch.com/2022/04/25/will-advertisers-flee-a-free-speech-twitter/)
-- [It’s Elon’s Twitter now, so what’s next?](https://techcrunch.com/2022/04/25/its-elons-twitter-now-so-whats-next/)
-- [Alright Elon, don’t fuck it up](https://techcrunch.com/2022/04/25/alright-elon-dont-fuck-it-up/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
