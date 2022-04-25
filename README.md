@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Elon Musk is buying Twitter for $44 billion](https://www.space.com/spacex-elon-musk-buying-twitter-44-billion/)
+- [Large Hadron Collider hits world record proton acceleration](https://www.space.com/cern-large-hadron-collider-record-energy-proton-beam/)
 - [Google’s Pixel Watch may finally be on its way](https://techcrunch.com/2022/04/25/googles-pixel-watch-may-finally-be-on-its-way/)
 - [Twitter accepts Elon Musk’s $44B acquisition offer](https://techcrunch.com/2022/04/25/twitter-accepts-elon-musks-43b-acquisition-offer/)
 - [Here’s why we’re about to see an explosion of hyperreal artificial humans online](https://techcrunch.com/2022/04/25/heres-why-were-about-to-see-an-explosion-of-hyper-real-artificial-humans-online/)
-- [Musk’s Boring Company to begin ‘full-scale’ hyperloop testing this year](https://techcrunch.com/2022/04/25/musks-boring-company-to-begin-full-scale-hyperloop-testing-this-year/)
-- [Sapphire Ventures’ Cathy Gao on how VCs can help early-stage startups weather volatility](https://techcrunch.com/2022/04/25/sapphire-ventures-cathy-gao-on-how-vcs-can-help-early-stage-startups-weather-volatility/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
