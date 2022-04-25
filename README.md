@@ -83,10 +83,10 @@
 
 <!-- YOUTUBE:START -->
 - [The Nuxt big thing in web development?](https://www.youtube.com/watch?v=noq-ZHTD2Cg)
+- [Celebrating OCW&#39;s NextGen Platform with NPR&#39;s Anya Kamenetz](https://www.youtube.com/watch?v=0MAP0mzWgWQ)
 - [Psychic Signatures &lpar;Java Vulnerability&rpar; - Computerphile](https://www.youtube.com/watch?v=502iGDxuiRk)
 - [React for the Haters in 100 Seconds](https://www.youtube.com/watch?v=HyWYpM_S-2c)
 - [Redux in 100 Seconds](https://www.youtube.com/watch?v=_shA5Xwe8_4)
-- [we’re out of IP Addresses….but this saved us &lpar;Private IP Addresses&rpar;](https://www.youtube.com/watch?v=8bhvn9tQk8o)
 <!-- YOUTUBE:END -->
 
 ---
