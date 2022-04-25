@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Evidence of &#39;modern&#39; plate tectonics dating to 2.5 billion years ago found in China](https://www.space.com/archean-eon-plate-tectonics-china/)
-- [Netflix is not yet considering live sports — but here’s why it should](https://techcrunch.com/2022/04/25/netflix-is-not-yet-considering-live-sports-but-heres-why-it-should/)
-- [Pandemic-fueled companies are finding the new reality hard to swallow](https://techcrunch.com/2022/04/25/pandemic-fueled-companies-are-finding-the-new-reality-hard-to-swallow/)
-- [Meta wants to sell you the metaverse in its first brick-and-mortar store](https://techcrunch.com/2022/04/25/meta-store-facebook-store/)
-- [Building a better mobility fintech startup on TechCrunch Live](https://techcrunch.com/2022/04/25/building-a-better-mobility-fintech-startup-on-techcrunch-live/)
+- [Amazon Prime debuts on TikTok with help from Jason Derulo](https://techcrunch.com/2022/04/25/amazon-prime-debuts-on-tiktok-with-help-from-jason-derulo/)
+- [Inflatable Venus drone, Mars spacesuits and more: NASA picks far-out tech concepts for future study](https://www.space.com/nasa-niac-future-space-exploration-technology-grants/)
+- [Investors flock to fund an AI cornerstone: Feature stores](https://techcrunch.com/2022/04/25/investors-flock-to-fund-an-ai-cornerstone-feature-stores/)
+- [Pinhole Pro Max is a $400 tax on stupid photographers](https://techcrunch.com/2022/04/25/tiny-hole-big-price-tag/)
+- [Impossible Foods’ Pat Brown will discuss plant-based meats at TC Sessions: Climate 2022](https://techcrunch.com/2022/04/25/impossible-foods-pat-brown-will-discuss-plant-based-meats-at-tc-sessions-climate-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
