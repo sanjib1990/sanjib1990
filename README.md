@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What will Elon actually do if he buys Twitter?](https://techcrunch.com/2022/04/25/what-will-elon-actually-do-if-he-buys-twitter/)
+- [Circa wants to make first-of-the-month rent payments obsolete](https://techcrunch.com/2022/04/25/circa-wants-to-make-first-of-the-month-rent-payments-obsolete/)
 - [Watch SpaceX&#39;s private Ax-1 astronaut crew return to Earth today live online](https://www.space.com/spacex-ax-1-private-astronauts-splashdown-webcast/)
 - [Best cameras for photos and videos {year}](https://www.space.com/best-cameras/)
 - [Best stargazing apps: AR apps and virtual star maps to help you navigate the night sky](https://www.space.com/best-stargazing-apps/)
-- [The Station: Lyft’s bikeshare play, Tesla’s Q1 warning and big bucks for Musk’s tunnel startup](https://techcrunch.com/2022/04/25/the-station-lyfts-bikeshare-play-teslas-q1-warning-and-big-bucks-for-musks-tunnel-startup/)
-- [Sky-Watcher telescope deals available right now](https://www.space.com/skywatcher-deals-telescopes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
