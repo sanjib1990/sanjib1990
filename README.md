@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Babyation’s breast pump brings stealth and dignity to mothers](https://techcrunch.com/2022/04/26/babyation-breast-pump-launch/)
-- [April&#39;s second new moon 2022: An eclipse and Jupiter Venus in conjunction.](https://www.space.com/17561-new-moon-explained-lunar-phases.html/)
-- [Call center automation software vendor Replicant raises $78M](https://techcrunch.com/2022/04/26/call-center-automation-software-vendor-replicant-raises-78m/)
-- [Teen-focused fintech app Copper raises $29M, grows to over 800,000 users in less than a year](https://techcrunch.com/2022/04/26/teen-focused-banking-and-investing-app-copper-raises-29m-grows-to-over-800000-users-in-less-than-a-year/)
-- [Jack in the Box is piloting Miso’s hamburger-cooking robot](https://techcrunch.com/2022/04/26/jack-in-box-is-piloting-misos-hamburger-cooking-robot/)
+- [TikTok was the top app by worldwide downloads in Q1 2022](https://techcrunch.com/2022/04/26/tiktok-was-the-top-app-by-worldwide-downloads-in-q1-2022/)
+- [Warner Bros. Discovery revenue increases in Q1 2022 despite decline in linear subscribers](https://techcrunch.com/2022/04/26/warner-bros-discovery-revenue-increases-in-q1-2022-despite-decline-in-linear-subscribers/)
+- [Food Rocket blasts off after securing funding, grocery delivery deal with Circle K parent](https://techcrunch.com/2022/04/26/food-rocket-grocery-delivery-circle-k/)
+- [AppDynamics founder’s midas touch strikes again as Harness valuation hits $3.7B](https://techcrunch.com/2022/04/26/appdynamics-founders-midas-touch-strikes-again-as-harness-valuation-hits-3-7b/)
+- [Podcast recording platform Riverside just raised another $35M](https://techcrunch.com/2022/04/26/podcast-recording-platform-riverside-just-raised-another-35m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
