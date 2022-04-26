@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Left Lane closes $1.4B global fund to invest in consumer tech](https://techcrunch.com/2022/04/26/left-lane-second-fund/)
-- [SpaceX is &#39;go&#39; to launch Crew-4 astronauts for NASA Wednesday and you can watch it live](https://www.space.com/spacex-crew-4-nasa-astronaut-launch-webcast/)
-- [Martian crater looks just like a human fingerprint in this incredible new image](https://www.space.com/fingerprint-crater-on-mars/)
-- [Lucid Green raises $10M Series A to bring smart UPC codes to cannabis](https://techcrunch.com/2022/04/26/lucid-green-raises-10m-series-a-to-bring-smart-upc-codes-to-cannabis/)
-- [See SpaceX recovery ship head out to retrieve Ax-1 Dragon capsule &lpar;aerial photos, video&rpar;](https://www.space.com/spacex-dragon-recovery-ship-ax1-photos-video/)
+- [Babyation’s breast pump brings stealth and dignity to mothers](https://techcrunch.com/2022/04/26/babyation-breast-pump-launch/)
+- [April&#39;s second new moon 2022: An eclipse and Jupiter Venus in conjunction.](https://www.space.com/17561-new-moon-explained-lunar-phases.html/)
+- [Call center automation software vendor Replicant raises $78M](https://techcrunch.com/2022/04/26/call-center-automation-software-vendor-replicant-raises-78m/)
+- [Teen-focused fintech app Copper raises $29M, grows to over 800,000 users in less than a year](https://techcrunch.com/2022/04/26/teen-focused-banking-and-investing-app-copper-raises-29m-grows-to-over-800000-users-in-less-than-a-year/)
+- [Jack in the Box is piloting Miso’s hamburger-cooking robot](https://techcrunch.com/2022/04/26/jack-in-box-is-piloting-misos-hamburger-cooking-robot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
