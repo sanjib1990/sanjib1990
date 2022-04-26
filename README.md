@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Early-stage fundraising is a tale of two planets](https://techcrunch.com/2022/04/26/early-stage-fundraising-is-a-tale-of-two-planets/)
-- [Stablecoins are here to stay, but will they see wider adoption?](https://techcrunch.com/2022/04/26/stablecoins-are-here-to-stay-but-will-they-see-wider-adoption/)
-- [Apple’s fix to the Studio Display webcam is rolling out in beta](https://techcrunch.com/2022/04/26/apples-fix-to-the-mac-studio-webcam-is-rolling-out-in-beta/)
-- [VP Harris congratulates NASA astronaut on record-breaking mission &lpar;video&rpar;](https://www.space.com/vp-harris-congratulates-mark-vande-hei-video/)
-- [Hawaiian signs up with Starlink for free in-flight Wi-Fi](https://techcrunch.com/2022/04/26/hawaiian-first-airline-starlink-internet/)
+- [Thousands of semi-active apps could be caught up in latest App Store purge](https://techcrunch.com/2022/04/26/thousands-of-semi-active-apps-could-be-caught-up-in-latest-app-store-purge/)
+- [These 8 NASA missions just got more time to explore Mars, asteroids and the solar system](https://www.space.com/nasa-extends-8-solar-system-missions-mars-asteroids/)
+- [May full moon guide 2022: &#39;Flower Moon&#39; lunar eclipse](https://www.space.com/36655-may-full-moon.html/)
+- [2 giant marsquakes rock the far side of Mars](https://www.space.com/largest-marsquakes-insight-lander-detection/)
+- [&#39;Star Trek: Picard&#39; Season 2 episode 8 alludes to earlier Vulcan visit to Earth](https://www.space.com/star-trek-picard-season-2-episode-8-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
