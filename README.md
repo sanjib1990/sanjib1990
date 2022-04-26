@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Robinhood to lay off 9% of full-time employees](https://techcrunch.com/2022/04/26/robinhood-to-lay-off-9-of-full-time-employees/)
-- [Umaro is turning ocean-farmed seaweed into imitation bacon](https://techcrunch.com/2022/04/26/umaro-is-turning-ocean-farmed-seaweed-into-imitation-bacon/)
-- [Watch the Crew-4 mission launch at the crack of dawn in ‘Freedom’ Dragon capsule](https://techcrunch.com/2022/04/26/watch-the-crew-4-mission-launch-at-the-crack-of-dawn-in-freedom-dragon-capsule/)
-- [Save up to 88% on solar eclipse glasses at Amazon ahead of the 1st eclipse of 2022](https://www.space.com/solar-eclipse-glasses-sale-amazon/)
-- [Google launches Media CDN to compete on content delivery](https://techcrunch.com/2022/04/26/google-launches-media-cdn-to-compete-on-content-delivery/)
+- [How Pillsorted plans to use personalisation to compete with main-street pharmacies](https://techcrunch.com/2022/04/26/how-pillsorted-plans-to-use-personalisation-to-compete-with-main-street-pharmacies/)
+- [GM expects to spend $2B on Cruise in 2022](https://techcrunch.com/2022/04/26/gm-expects-to-spend-2b-on-cruise-in-2022/)
+- [Elon, you have no idea what the hell you’re talking about](https://techcrunch.com/2022/04/26/elon-you-have-no-idea-what-the-hell-youre-talking-about/)
+- [Daily Crunch: Experts say Musk’s open-source vision could make Twitter vulnerable to attack](https://techcrunch.com/2022/04/26/daily-crunch-experts-say-musks-open-source-vision-could-make-twitter-vulnerable-to-attack/)
+- [Elon Musk’s Twitter deal includes a $1 billion termination fee on both sides](https://techcrunch.com/2022/04/26/elon-musks-twitter-deal-includes-a-1-billion-termination-fee-on-both-sides/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
