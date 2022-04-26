@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Can Mirai Flights make it easier to book a private jet? Its new investors think so](https://techcrunch.com/2022/04/26/can-mirai-flights-make-it-easier-to-book-a-private-jet-its-new-investors-think-so/)
 - [Lengow acquires e-commerce intelligence startup Netrivals](https://techcrunch.com/2022/04/26/lengow-acquires-e-commerce-intelligence-startup-netrivals/)
 - [Ghanaian agtech Farmerline to use new funding to strengthen its infrastructure, help farmers create wealth](https://techcrunch.com/2022/04/25/ghanaian-agtech-farmerline-to-use-new-funding-to-strengthen-its-infrastructure-help-farmers-create-wealth/)
 - [Jack Dorsey says Elon Musk “is the singular solution I trust”](https://techcrunch.com/2022/04/25/jack-dorsey-says-elon-musk-is-the-singular-solution-i-trust/)
 - [Egyptian MaaS startup Swvl enters Turkish markets with latest acquisition](https://techcrunch.com/2022/04/25/egyptian-maas-startup-swvl-enters-turkish-markets-with-latest-acquisition/)
-- [Pony.ai scores taxi license for autonomous vehicles in Guangzhou](https://techcrunch.com/2022/04/25/pony-ai-scores-taxi-license-for-autonomous-vehicles-in-guangzhou/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
