@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Robinhood to lay off 9% of full-time employees](https://techcrunch.com/2022/04/26/robinhood-to-lay-off-9-of-full-time-employees/)
+- [Umaro is turning ocean-farmed seaweed into imitation bacon](https://techcrunch.com/2022/04/26/umaro-is-turning-ocean-farmed-seaweed-into-imitation-bacon/)
 - [Watch the Crew-4 mission launch at the crack of dawn in ‘Freedom’ Dragon capsule](https://techcrunch.com/2022/04/26/watch-the-crew-4-mission-launch-at-the-crack-of-dawn-in-freedom-dragon-capsule/)
+- [Save up to 88% on solar eclipse glasses at Amazon ahead of the 1st eclipse of 2022](https://www.space.com/solar-eclipse-glasses-sale-amazon/)
 - [Google launches Media CDN to compete on content delivery](https://techcrunch.com/2022/04/26/google-launches-media-cdn-to-compete-on-content-delivery/)
-- [Will Elon Musk put Twitter on a collision course with global speech regulators?](https://techcrunch.com/2022/04/26/elon-musk-free-speech-regulation/)
-- [TechCrunch+ roundup: Immigration law Q&amp;A, finding your problem, why a16z pitched Deel](https://techcrunch.com/2022/04/26/techcrunch-roundup-immigration-law-qa-finding-your-problem-why-a16z-pitched-deel/)
-- [Jack Dorsey set to pocket $978M if Elon Musk’s Twitter acquisition closes](https://techcrunch.com/2022/04/26/jack-dorsey-978m-musks-twitter-acquisition/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
