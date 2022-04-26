@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Egyptian MaaS startup Swvl enters Turkish markets with latest acquisition](https://techcrunch.com/2022/04/25/egyptian-maas-startup-swvl-enters-turkish-markets-with-latest-acquisition/)
 - [Pony.ai scores taxi license for autonomous vehicles in Guangzhou](https://techcrunch.com/2022/04/25/pony-ai-scores-taxi-license-for-autonomous-vehicles-in-guangzhou/)
 - [Launcher shows off its 3D-printed rocket doing a full-scale burn](https://techcrunch.com/2022/04/25/launcher-shows-off-its-3d-printed-rocket-doing-a-full-scale-burn/)
 - [Daily Crunch: Twitter board OKs Musk’s $44B buyout, describes sale as ‘best path forward’](https://techcrunch.com/2022/04/25/daily-crunch-twitter-board-oks-musks-44b-buyout-describes-sale-as-best-path-forward/)
 - [Axiom Space, SpaceX change the landscape of private spaceflight with Ax-1 mission](https://www.space.com/axiom-space-spacex-ax1-splashdown-private-spaceflight/)
-- [Max Q: Mapping the moon](https://techcrunch.com/2022/04/25/max-q-mapping-the-moon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
