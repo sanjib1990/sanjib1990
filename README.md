@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Fidelity says it will offer crypto in retirement accounts this year](https://techcrunch.com/2022/04/26/fidelity-crypto-bitcoin-retirement-401k-savings-investors/)
-- [Twitter is protecting its source code from disgruntled employees, reports say](https://techcrunch.com/2022/04/26/twitter-lock-source-code-elon-musk/)
-- [Digging deep on Mars could protect future astronauts from radiation](https://www.space.com/mars-radiation-protection-astronauts-underground/)
-- [YouTube expands its Super Thanks monetization tool to all eligible creators](https://techcrunch.com/2022/04/26/youtube-expands-super-thanks-monetization-tool-creators/)
-- [Zippedi is using robots to digitize inventory for last-mile delivery](https://techcrunch.com/2022/04/26/zippedi-is-using-robots-to-digitize-inventory-for-last-mile-delivery/)
+- [Ford kicks off EV truck sales battle as F-150 Lightning production begins](https://techcrunch.com/2022/04/26/ford-kicks-off-ev-truck-sales-battle-as-f-150-lightning-production-begins/)
+- [You can now install the first beta of Android 13 on your Pixel phone](https://techcrunch.com/2022/04/26/you-can-now-install-the-first-beta-of-android-13-on-your-pixel-phone/)
+- [Hawaiian Airlines to use SpaceX&#39;s Starlink internet on trans-Pacific flights](https://www.space.com/hawaiian-airlines-spacex-starlink-internet-service/)
+- [You know damn well that Trump is coming back to Twitter](https://techcrunch.com/2022/04/26/why-trump-is-coming-back-to-twitter-sorry/)
+- [Limited time Celestron skywatching deals on Amazon](https://www.space.com/limited-time-skywatching-savings-on-amazon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
