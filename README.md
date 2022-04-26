@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch the Crew-4 mission launch at the crack of dawn in ‘Freedom’ Dragon capsule](https://techcrunch.com/2022/04/26/watch-the-crew-4-mission-launch-at-the-crack-of-dawn-in-freedom-dragon-capsule/)
+- [Google launches Media CDN to compete on content delivery](https://techcrunch.com/2022/04/26/google-launches-media-cdn-to-compete-on-content-delivery/)
+- [Will Elon Musk put Twitter on a collision course with global speech regulators?](https://techcrunch.com/2022/04/26/elon-musk-free-speech-regulation/)
 - [TechCrunch+ roundup: Immigration law Q&amp;A, finding your problem, why a16z pitched Deel](https://techcrunch.com/2022/04/26/techcrunch-roundup-immigration-law-qa-finding-your-problem-why-a16z-pitched-deel/)
 - [Jack Dorsey set to pocket $978M if Elon Musk’s Twitter acquisition closes](https://techcrunch.com/2022/04/26/jack-dorsey-978m-musks-twitter-acquisition/)
-- [Win the TC Sessions: Climate student pitch-off and go to Disrupt 2022 on our dime](https://techcrunch.com/2022/04/26/win-the-tc-sessions-climate-student-pitch-off-and-go-to-disrupt-2022-on-our-dime/)
-- [Meet the astronauts of SpaceX&#39;s Crew-4 mission for NASA](https://www.space.com/meet-astronauts-spacex-crew-4-mission/)
-- [Thousands of semi-active apps could be caught up in latest App Store purge](https://techcrunch.com/2022/04/26/thousands-of-semi-active-apps-could-be-caught-up-in-latest-app-store-purge/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
