@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Ford kicks off EV truck sales battle as F-150 Lightning production begins](https://techcrunch.com/2022/04/26/ford-kicks-off-ev-truck-sales-battle-as-f-150-lightning-production-begins/)
-- [You can now install the first beta of Android 13 on your Pixel phone](https://techcrunch.com/2022/04/26/you-can-now-install-the-first-beta-of-android-13-on-your-pixel-phone/)
-- [Hawaiian Airlines to use SpaceX&#39;s Starlink internet on trans-Pacific flights](https://www.space.com/hawaiian-airlines-spacex-starlink-internet-service/)
-- [You know damn well that Trump is coming back to Twitter](https://techcrunch.com/2022/04/26/why-trump-is-coming-back-to-twitter-sorry/)
-- [Limited time Celestron skywatching deals on Amazon](https://www.space.com/limited-time-skywatching-savings-on-amazon/)
+- [Early-stage fundraising is a tale of two planets](https://techcrunch.com/2022/04/26/early-stage-fundraising-is-a-tale-of-two-planets/)
+- [Stablecoins are here to stay, but will they see wider adoption?](https://techcrunch.com/2022/04/26/stablecoins-are-here-to-stay-but-will-they-see-wider-adoption/)
+- [Apple’s fix to the Studio Display webcam is rolling out in beta](https://techcrunch.com/2022/04/26/apples-fix-to-the-mac-studio-webcam-is-rolling-out-in-beta/)
+- [VP Harris congratulates NASA astronaut on record-breaking mission &lpar;video&rpar;](https://www.space.com/vp-harris-congratulates-mark-vande-hei-video/)
+- [Hawaiian signs up with Starlink for free in-flight Wi-Fi](https://techcrunch.com/2022/04/26/hawaiian-first-airline-starlink-internet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
