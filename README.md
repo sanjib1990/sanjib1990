@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [3 predictions for GM’s Q1 earnings](https://techcrunch.com/2022/04/26/general-motors-first-quarter-results-predictions/)
-- [Instagram is testing a feature that lets you pin posts to your profile](https://techcrunch.com/2022/04/26/instagram-testing-pin-posts-profile/)
-- [New bank, who dis? Lifestyle-focused neobank Cogni pivots to web3](https://techcrunch.com/2022/04/26/lifestyle-consumer-neobank-cogni-pivots-crypto-web3/)
-- [Social music platform BandLab scores $65M at a valuation of $315 million](https://techcrunch.com/2022/04/26/social-music-platform-bandlab-scores-65m-at-a-valuation-of-315-million/)
-- [Meet the science experiments launching on SpaceX&#39;s Crew-4 astronaut mission](https://www.space.com/spacex-crew-4-science-experiments-space-station/)
+- [Pyka adapts its autonomous electric plane for cargo runs with a $37M round](https://techcrunch.com/2022/04/26/pyka-adapts-its-autonomous-electric-plane-for-cargo-runs-with-a-37m-round/)
+- [Fresh from controversy, call center analytics firm Loris raises $12M](https://techcrunch.com/2022/04/26/fresh-from-controversy-call-center-analytics-firm-loris-raises-12m/)
+- [Adept aims to build AI that can automate any software process](https://techcrunch.com/2022/04/26/2304039/)
+- [Final week to buy 2-for-1 passes to TC Sessions: Robotics 2022](https://techcrunch.com/2022/04/26/final-week-to-buy-2-for-1-passes-to-tc-sessions-robotics-2022/)
+- [OwnID raises $6M to replace passwords with smartphone-based biometrics](https://techcrunch.com/2022/04/26/ownid-raises-6m-to-replace-passwords-with-smartphone-based-biometrics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
