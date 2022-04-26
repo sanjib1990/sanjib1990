@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Pyka adapts its autonomous electric plane for cargo runs with a $37M round](https://techcrunch.com/2022/04/26/pyka-adapts-its-autonomous-electric-plane-for-cargo-runs-with-a-37m-round/)
-- [Fresh from controversy, call center analytics firm Loris raises $12M](https://techcrunch.com/2022/04/26/fresh-from-controversy-call-center-analytics-firm-loris-raises-12m/)
-- [Adept aims to build AI that can automate any software process](https://techcrunch.com/2022/04/26/2304039/)
-- [Final week to buy 2-for-1 passes to TC Sessions: Robotics 2022](https://techcrunch.com/2022/04/26/final-week-to-buy-2-for-1-passes-to-tc-sessions-robotics-2022/)
-- [OwnID raises $6M to replace passwords with smartphone-based biometrics](https://techcrunch.com/2022/04/26/ownid-raises-6m-to-replace-passwords-with-smartphone-based-biometrics/)
+- [Fidelity says it will offer crypto in retirement accounts this year](https://techcrunch.com/2022/04/26/fidelity-crypto-bitcoin-retirement-401k-savings-investors/)
+- [Twitter is protecting its source code from disgruntled employees, reports say](https://techcrunch.com/2022/04/26/twitter-lock-source-code-elon-musk/)
+- [Digging deep on Mars could protect future astronauts from radiation](https://www.space.com/mars-radiation-protection-astronauts-underground/)
+- [YouTube expands its Super Thanks monetization tool to all eligible creators](https://techcrunch.com/2022/04/26/youtube-expands-super-thanks-monetization-tool-creators/)
+- [Zippedi is using robots to digitize inventory for last-mile delivery](https://techcrunch.com/2022/04/26/zippedi-is-using-robots-to-digitize-inventory-for-last-mile-delivery/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
