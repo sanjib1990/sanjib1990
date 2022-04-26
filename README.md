@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TikTok was the top app by worldwide downloads in Q1 2022](https://techcrunch.com/2022/04/26/tiktok-was-the-top-app-by-worldwide-downloads-in-q1-2022/)
-- [Warner Bros. Discovery revenue increases in Q1 2022 despite decline in linear subscribers](https://techcrunch.com/2022/04/26/warner-bros-discovery-revenue-increases-in-q1-2022-despite-decline-in-linear-subscribers/)
-- [Food Rocket blasts off after securing funding, grocery delivery deal with Circle K parent](https://techcrunch.com/2022/04/26/food-rocket-grocery-delivery-circle-k/)
-- [AppDynamics founder’s midas touch strikes again as Harness valuation hits $3.7B](https://techcrunch.com/2022/04/26/appdynamics-founders-midas-touch-strikes-again-as-harness-valuation-hits-3-7b/)
-- [Podcast recording platform Riverside just raised another $35M](https://techcrunch.com/2022/04/26/podcast-recording-platform-riverside-just-raised-another-35m/)
+- [3 predictions for GM’s Q1 earnings](https://techcrunch.com/2022/04/26/general-motors-first-quarter-results-predictions/)
+- [Instagram is testing a feature that lets you pin posts to your profile](https://techcrunch.com/2022/04/26/instagram-testing-pin-posts-profile/)
+- [New bank, who dis? Lifestyle-focused neobank Cogni pivots to web3](https://techcrunch.com/2022/04/26/lifestyle-consumer-neobank-cogni-pivots-crypto-web3/)
+- [Social music platform BandLab scores $65M at a valuation of $315 million](https://techcrunch.com/2022/04/26/social-music-platform-bandlab-scores-65m-at-a-valuation-of-315-million/)
+- [Meet the science experiments launching on SpaceX&#39;s Crew-4 astronaut mission](https://www.space.com/spacex-crew-4-science-experiments-space-station/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
