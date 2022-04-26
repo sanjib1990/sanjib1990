@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Left Lane closes $1.4B global fund to invest in consumer tech](https://techcrunch.com/2022/04/26/left-lane-second-fund/)
+- [SpaceX is &#39;go&#39; to launch Crew-4 astronauts for NASA Wednesday and you can watch it live](https://www.space.com/spacex-crew-4-nasa-astronaut-launch-webcast/)
+- [Martian crater looks just like a human fingerprint in this incredible new image](https://www.space.com/fingerprint-crater-on-mars/)
 - [Lucid Green raises $10M Series A to bring smart UPC codes to cannabis](https://techcrunch.com/2022/04/26/lucid-green-raises-10m-series-a-to-bring-smart-upc-codes-to-cannabis/)
-- [SonarSource raises $412M to scan codebases for bugs and vulnerabilities](https://techcrunch.com/2022/04/26/sonarsource-raises-412m-to-scan-codebases-for-bugs-and-vulnerabilities/)
-- [In the wake of Fast’s collapse, Volume thinks it can crack the payment checkout conundrum](https://techcrunch.com/2022/04/26/in-the-wake-of-fasts-collapse-volume-thinks-it-can-crack-the-payment-checkout-conundrum/)
-- [Can Mirai Flights make it easier to book a private jet? Its new investors think so](https://techcrunch.com/2022/04/26/can-mirai-flights-make-it-easier-to-book-a-private-jet-its-new-investors-think-so/)
-- [Lengow acquires e-commerce intelligence startup Netrivals](https://techcrunch.com/2022/04/26/lengow-acquires-e-commerce-intelligence-startup-netrivals/)
+- [See SpaceX recovery ship head out to retrieve Ax-1 Dragon capsule &lpar;aerial photos, video&rpar;](https://www.space.com/spacex-dragon-recovery-ship-ax1-photos-video/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
