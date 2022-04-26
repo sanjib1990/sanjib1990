@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch+ roundup: Immigration law Q&amp;A, finding your problem, why a16z pitched Deel](https://techcrunch.com/2022/04/26/techcrunch-roundup-immigration-law-qa-finding-your-problem-why-a16z-pitched-deel/)
+- [Jack Dorsey set to pocket $978M if Elon Musk’s Twitter acquisition closes](https://techcrunch.com/2022/04/26/jack-dorsey-978m-musks-twitter-acquisition/)
+- [Win the TC Sessions: Climate student pitch-off and go to Disrupt 2022 on our dime](https://techcrunch.com/2022/04/26/win-the-tc-sessions-climate-student-pitch-off-and-go-to-disrupt-2022-on-our-dime/)
+- [Meet the astronauts of SpaceX&#39;s Crew-4 mission for NASA](https://www.space.com/meet-astronauts-spacex-crew-4-mission/)
 - [Thousands of semi-active apps could be caught up in latest App Store purge](https://techcrunch.com/2022/04/26/thousands-of-semi-active-apps-could-be-caught-up-in-latest-app-store-purge/)
-- [These 8 NASA missions just got more time to explore Mars, asteroids and the solar system](https://www.space.com/nasa-extends-8-solar-system-missions-mars-asteroids/)
-- [May full moon guide 2022: &#39;Flower Moon&#39; lunar eclipse](https://www.space.com/36655-may-full-moon.html/)
-- [2 giant marsquakes rock the far side of Mars](https://www.space.com/largest-marsquakes-insight-lander-detection/)
-- [&#39;Star Trek: Picard&#39; Season 2 episode 8 alludes to earlier Vulcan visit to Earth](https://www.space.com/star-trek-picard-season-2-episode-8-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
