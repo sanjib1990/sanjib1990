@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [UIPath names former Google Cloud exec co-CEO to steer its future](https://techcrunch.com/2022/04/27/uipath-names-former-google-cloud-exec-co-ceo-to-steer-its-future/)
-- [ARMO raises $30M to build an end-to-end open source Kubernetes security platform](https://techcrunch.com/2022/04/27/armo-raises-30m-to-build-an-end-to-end-open-source-kubernetes-security-platform/)
-- [US offers bounty for Sandworm, the Russian hackers blamed for destructive cyberattacks](https://techcrunch.com/2022/04/27/state-sandworm-russian-hackers-ukraine/)
-- [Oura’s new CEO discusses the future of the smart ring](https://techcrunch.com/2022/04/27/ouras-new-ceo-discusses-the-future-of-the-smart-ring/)
-- [NASA astronaut Jessica Watkins to become first Black woman on ISS crew](https://www.space.com/nasa-astronaut-jessica-watkins-first-black-woman-iss-crew/)
+- [Ex-Chime engineers raise $4M for B2B payments infrastructure startup Streamlined](https://techcrunch.com/2022/04/27/ex-chime-engineers-raise-4m-for-b2b-payments-startup-streamlined/)
+- [Leaked Facebook ads document raises fresh questions over GDPR enforcement](https://techcrunch.com/2022/04/27/facebook-leaked-ads-document-meta-gdpr/)
+- [Win the TC Sessions: Mobility student pitch-off for a free ride to Disrupt](https://techcrunch.com/2022/04/27/win-the-tc-sessions-mobility-student-pitch-off-for-a-free-ride-to-disrupt/)
+- [Beam up these &#39;Star Trek: Strange New Worlds&#39; Starfleet boots from designer John Fluevog](https://www.space.com/star-trek-starfleet-boots-strange-new-worlds/)
+- [How to get into Y Combinator, according to YC’s Dalton Caldwell](https://techcrunch.com/2022/04/27/how-to-get-into-y-combinator-dalton-caldwell/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
