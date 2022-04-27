@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Voi taps Drover to prevent sidewalk scooter riding in Oslo](https://techcrunch.com/2022/04/26/voi-taps-drover-to-prevent-sidewalk-scooter-riding-in-oslo/)
+- [BintanGO wants to boost Indonesia’s creator economy](https://techcrunch.com/2022/04/26/bintango-wants-to-boost-indonesias-creator-economy/)
+- [EVs, AVs, and pay packages: 3 takeaways from GM’s Q1 earnings](https://techcrunch.com/2022/04/26/gm-first-quarter-earnings-ev-av-barra-compensation/)
 - [Google tells shareholders that YouTube Shorts is doing great, don’t worry about TikTok!](https://techcrunch.com/2022/04/26/youtube-q1-earnings-2022-google/)
 - [NASA&#39;s Artemis 1 moon mission rolls off the launch pad for repairs &lpar;photos&rpar;](https://www.space.com/nasa-artemis1-mission-rolls-off-launch-pad/)
-- [How Pillsorted plans to use personalisation to compete with main-street pharmacies](https://techcrunch.com/2022/04/26/how-pillsorted-plans-to-use-personalisation-to-compete-with-main-street-pharmacies/)
-- [GM expects to spend $2B on Cruise in 2022](https://techcrunch.com/2022/04/26/gm-expects-to-spend-2b-on-cruise-in-2022/)
-- [Elon, you have no idea what the hell you’re talking about](https://techcrunch.com/2022/04/26/elon-you-have-no-idea-what-the-hell-youre-talking-about/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
