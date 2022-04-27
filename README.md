@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google tells shareholders that YouTube Shorts is doing great, don’t worry about TikTok!](https://techcrunch.com/2022/04/26/youtube-q1-earnings-2022-google/)
+- [NASA&#39;s Artemis 1 moon mission rolls off the launch pad for repairs &lpar;photos&rpar;](https://www.space.com/nasa-artemis1-mission-rolls-off-launch-pad/)
 - [How Pillsorted plans to use personalisation to compete with main-street pharmacies](https://techcrunch.com/2022/04/26/how-pillsorted-plans-to-use-personalisation-to-compete-with-main-street-pharmacies/)
 - [GM expects to spend $2B on Cruise in 2022](https://techcrunch.com/2022/04/26/gm-expects-to-spend-2b-on-cruise-in-2022/)
 - [Elon, you have no idea what the hell you’re talking about](https://techcrunch.com/2022/04/26/elon-you-have-no-idea-what-the-hell-youre-talking-about/)
-- [Daily Crunch: Experts say Musk’s open-source vision could make Twitter vulnerable to attack](https://techcrunch.com/2022/04/26/daily-crunch-experts-say-musks-open-source-vision-could-make-twitter-vulnerable-to-attack/)
-- [Elon Musk’s Twitter deal includes a $1 billion termination fee on both sides](https://techcrunch.com/2022/04/26/elon-musks-twitter-deal-includes-a-1-billion-termination-fee-on-both-sides/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
