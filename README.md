@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [S3:E8: Finding Expertise Everywhere with Prof. Amah Edoh](https://www.youtube.com/watch?v=ezy8j24Uric)
 - [Celebrating OCW&#39;s &quot;NextGen&quot; Platform with NPR&#39;s Anya Kamenetz](https://www.youtube.com/watch?v=o9CyQ2X_vcw)
 - [Celebrating OCW&#39;s &quot;NextGen&quot; Platform with NPR&#39;s Anya Kamenetz](https://www.youtube.com/watch?v=ZyJIW569rww)
 - [The Nuxt big thing in web development?](https://www.youtube.com/watch?v=noq-ZHTD2Cg)
 - [Psychic Signatures &lpar;Java Vulnerability&rpar; - Computerphile](https://www.youtube.com/watch?v=502iGDxuiRk)
-- [React for the Haters in 100 Seconds](https://www.youtube.com/watch?v=HyWYpM_S-2c)
 <!-- YOUTUBE:END -->
 
 ---
