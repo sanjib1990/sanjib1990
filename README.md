@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta says its metaverse biz lost another $3B… but the 2030s will be “exciting”](https://techcrunch.com/2022/04/27/meta-facebook-q1-2022-earnings/)
+- [Elon Musk wins $13B suit over Solar City deal Tesla shareholders called a ‘bailout’](https://techcrunch.com/2022/04/27/elon-musk-wins-13b-suit-over-solar-city-deal-tesla-shareholders-called-a-bailout/)
+- [Dear Sophie: When should I sponsor engineers for green cards?](https://techcrunch.com/2022/04/27/dear-sophie-when-should-i-sponsor-engineers-for-green-cards/)
+- [Ingenuity Mars helicopter snaps amazing photos of Perseverance rover&#39;s landing gear &lpar;video&rpar;](https://www.space.com/mars-helicopter-ingenuity-perseverance-parachute-backshell-photos/)
 - [Ford earnings weighed down by Rivian stake](https://techcrunch.com/2022/04/27/ford-earnings-weighed-down-by-rivian-stake/)
-- [HBO Max app just had one of its best quarters to date, but app performance still has room to improve](https://techcrunch.com/2022/04/27/hbo-max-app-just-had-one-of-its-best-quarters-to-date-but-app-performance-still-has-room-to-improve/)
-- [How to watch the April 2022 solar eclipse online](https://www.space.com/partial-solar-eclipse-april-2022-webcasts/)
-- [ChowNow founder on rethinking food delivery to serve local restaurants first](https://techcrunch.com/2022/04/27/chownow-founder-on-rethinking-food-delivery-to-serve-local-restaurants-first/)
-- [OneWeb founder Greg Wyler’s new startup wants to launch a ‘sustainable’ satellite mega-constellation](https://techcrunch.com/2022/04/27/oneweb-founder-greg-wylers-new-startup-wants-to-launch-a-sustainable-satellite-mega-constellation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
