@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Having some crypto in your 401&lpar;k&rpar; is neither irrational nor exuberant](https://techcrunch.com/2022/04/27/having-some-crypto-in-your-401k-is-neither-irrational-nor-exuberant/)
+- [Ondo’s decentralized investment bank matches crypto companies with capital providers](https://techcrunch.com/2022/04/27/ondo-defi-decentralized-crypto-investment-bank-series-a/)
+- [Mozart Data raises $15M to help startups spin up a data stack](https://techcrunch.com/2022/04/27/mozart-data-raises-15m-to-help-startups-spin-up-a-data-stack/)
+- [3 Predictions for Ford’s Q1 earnings](https://techcrunch.com/2022/04/27/3-predictions-for-fords-q1-earnings/)
 - [Rogan backlash didn’t hurt Spotify’s Q1, as paying subscribers grew 15% despite Russia exit](https://techcrunch.com/2022/04/27/rogan-backlash-didnt-hurt-spotifys-q1-as-paying-subscribers-grew-15-despite-russia-exit/)
-- [Singapore’s Neuron is taking the slow and steady approach to micromobility](https://techcrunch.com/2022/04/27/singapore-neuron-mobility-43-5m-series-b-micromobility-expansion/)
-- [Yes, we’re talking about Elon](https://techcrunch.com/2022/04/27/yes-were-talking-about-elon/)
-- [Consumer fintech trading revenues don’t measure up to SaaS ARR](https://techcrunch.com/2022/04/27/consumer-fintech-trading-revenues-dont-measure-up-to-saas-arr/)
-- [SpaceX: Facts about Elon Musk&#39;s private spaceflight company](https://www.space.com/18853-spacex.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
