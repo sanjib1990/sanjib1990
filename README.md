@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Having some crypto in your 401&lpar;k&rpar; is neither irrational nor exuberant](https://techcrunch.com/2022/04/27/having-some-crypto-in-your-401k-is-neither-irrational-nor-exuberant/)
-- [Ondo’s decentralized investment bank matches crypto companies with capital providers](https://techcrunch.com/2022/04/27/ondo-defi-decentralized-crypto-investment-bank-series-a/)
-- [Mozart Data raises $15M to help startups spin up a data stack](https://techcrunch.com/2022/04/27/mozart-data-raises-15m-to-help-startups-spin-up-a-data-stack/)
-- [3 Predictions for Ford’s Q1 earnings](https://techcrunch.com/2022/04/27/3-predictions-for-fords-q1-earnings/)
-- [Rogan backlash didn’t hurt Spotify’s Q1, as paying subscribers grew 15% despite Russia exit](https://techcrunch.com/2022/04/27/rogan-backlash-didnt-hurt-spotifys-q1-as-paying-subscribers-grew-15-despite-russia-exit/)
+- [Bogota-based Minka is building tech to help money move more quickly across LatAm](https://techcrunch.com/2022/04/27/bogota-based-minka-lands-24m-from-tiger-kaszek-to-build-an-open-infrastructure-for-money/)
+- [Sun King raises $260M to widen clean energy access in Africa, Asia](https://techcrunch.com/2022/04/27/sun-king-raises-260m-to-widen-clean-energy-access-in-africa-asia/)
+- [James Murdoch’s Bodhi Tree leading a $1.78 billion investment in Ambani-backed Viacom18](https://techcrunch.com/2022/04/27/james-murdochs-bodhi-tree-leading-a-1-78-billion-investment-in-viacom-18/)
+- [Twitter confirms fluctuations in follower counts after Musk deal was announced were organic](https://techcrunch.com/2022/04/27/twitter-fluctuations-follower-counts-after-musk-deal-organic/)
+- [&#39;Star Trek: Voyager&#39;s&#39; triumphant creation stars in crowdfunded documentary &#39;To the Journey&#39;](https://www.space.com/star-trek-voyager-documentary/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
