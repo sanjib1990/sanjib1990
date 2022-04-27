@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Crypto-focused Dragonfly Capital launches $650M third fund](https://techcrunch.com/2022/04/27/crypto-focused-dragonfly-capital-launches-650m-third-fund/)
+- [Mavrck raises $135M, buys Linkin.bio maker Later in creator and influencer marketing consolidation](https://techcrunch.com/2022/04/27/mavrck-raises-135m-buys-linkin-bio-maker-later-in-creator-and-influencer-marketing-consolidation/)
+- [Hear how Front raised serious cash from unconventional investors on TechCrunch Live](https://techcrunch.com/2022/04/27/hear-how-front-raised-serious-cash-from-unconventional-investors-on-techcrunch-live/)
+- [On This Day In Space: April 27, 1961: NASA launches Explorer 11](https://www.space.com/39251-on-this-day-in-space.html/)
 - [Reveal raises $50M to espouse the benefits of partner ecosystems](https://techcrunch.com/2022/04/27/2306524/)
-- [Solar power is better than nuclear for astronauts on Mars, study suggests](https://www.space.com/solar-power-better-nuclear-astronauts-mars/)
-- [NASA&#39;s OSIRIS-REx spacecraft will visit asteroid Apophis](https://www.space.com/osiris-rex-mission-asteroid-apophis-2029/)
-- [Mysterious dunes on Jupiter&#39;s volcanic moon Io may be formed by lava](https://www.space.com/dunes-jupiter-moon-io-lava-flows/)
-- [Rocket Lab catches dummy booster with a helicopter in dramatic new video](https://www.space.com/rocket-lab-dummy-booster-catch-helicopter-video/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
