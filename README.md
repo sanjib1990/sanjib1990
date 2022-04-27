@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ChowNow founder on rethinking food delivery to serve local restaurants first](https://techcrunch.com/2022/04/27/chownow-founder-on-rethinking-food-delivery-to-serve-local-restaurants-first/)
+- [OneWeb founder Greg Wyler’s new startup wants to launch a ‘sustainable’ satellite mega-constellation](https://techcrunch.com/2022/04/27/oneweb-founder-greg-wylers-new-startup-wants-to-launch-a-sustainable-satellite-mega-constellation/)
+- [In leaked all-hands meeting, Twitter CEO fields questions about Elon Musk’s takeover](https://techcrunch.com/2022/04/27/twitter-leaked-all-hands-call/)
+- [PayPal shuttering its San Francisco office](https://techcrunch.com/2022/04/27/paypal-shuttering-its-san-francisco-office/)
 - [The corporate venture comeback: What startups considering CVC need to know](https://techcrunch.com/2022/04/27/the-corporate-venture-comeback-what-startups-considering-cvc-need-to-know/)
-- [Ex-Chime engineers raise $4M for B2B payments infrastructure startup Streamlined](https://techcrunch.com/2022/04/27/ex-chime-engineers-raise-4m-for-b2b-payments-startup-streamlined/)
-- [Leaked Facebook ads document raises fresh questions over GDPR enforcement](https://techcrunch.com/2022/04/27/facebook-leaked-ads-document-meta-gdpr/)
-- [Win the TC Sessions: Mobility student pitch-off for a free ride to Disrupt](https://techcrunch.com/2022/04/27/win-the-tc-sessions-mobility-student-pitch-off-for-a-free-ride-to-disrupt/)
-- [Beam up these &#39;Star Trek: Strange New Worlds&#39; Starfleet boots from designer John Fluevog](https://www.space.com/star-trek-starfleet-boots-strange-new-worlds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
