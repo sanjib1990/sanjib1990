@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The corporate venture comeback: What startups considering CVC need to know](https://techcrunch.com/2022/04/27/the-corporate-venture-comeback-what-startups-considering-cvc-need-to-know/)
 - [Ex-Chime engineers raise $4M for B2B payments infrastructure startup Streamlined](https://techcrunch.com/2022/04/27/ex-chime-engineers-raise-4m-for-b2b-payments-startup-streamlined/)
 - [Leaked Facebook ads document raises fresh questions over GDPR enforcement](https://techcrunch.com/2022/04/27/facebook-leaked-ads-document-meta-gdpr/)
 - [Win the TC Sessions: Mobility student pitch-off for a free ride to Disrupt](https://techcrunch.com/2022/04/27/win-the-tc-sessions-mobility-student-pitch-off-for-a-free-ride-to-disrupt/)
 - [Beam up these &#39;Star Trek: Strange New Worlds&#39; Starfleet boots from designer John Fluevog](https://www.space.com/star-trek-starfleet-boots-strange-new-worlds/)
-- [How to get into Y Combinator, according to YC’s Dalton Caldwell](https://techcrunch.com/2022/04/27/how-to-get-into-y-combinator-dalton-caldwell/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
