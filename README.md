@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Wireless charging: Coming soon to a Belkin device near you](https://techcrunch.com/2022/04/27/wireless-charging-at-long-last-yay/)
-- [Enveil, a provider of encrypted, privacy-focused search and analytics tools, raises $25M](https://techcrunch.com/2022/04/27/enveil-a-provider-of-encrypted-privacy-focused-search-and-analytics-tools-raises-25m/)
-- [Inventa poised to enter Mexico, Colombia with its supplier marketplace](https://techcrunch.com/2022/04/27/inventa-poised-to-enter-mexico-colombia-with-its-supplier-marketplace/)
-- [Salesforce’s low-code workflow tool aims to unify CRM giant’s largest acquisitions](https://techcrunch.com/2022/04/27/salesforces-low-code-workflow-tool-aims-to-unify-crm-giants-largest-acquisitions/)
-- [New Salesforce developer tools look to tighten integration with Slack](https://techcrunch.com/2022/04/27/salesforce-aims-to-tighten-slack-integration-with-new-developer-toolkit/)
+- [Rogan backlash didn’t hurt Spotify’s Q1, as paying subscribers grew 15% despite Russia exit](https://techcrunch.com/2022/04/27/rogan-backlash-didnt-hurt-spotifys-q1-as-paying-subscribers-grew-15-despite-russia-exit/)
+- [Singapore’s Neuron is taking the slow and steady approach to micromobility](https://techcrunch.com/2022/04/27/singapore-neuron-mobility-43-5m-series-b-micromobility-expansion/)
+- [Yes, we’re talking about Elon](https://techcrunch.com/2022/04/27/yes-were-talking-about-elon/)
+- [Consumer fintech trading revenues don’t measure up to SaaS ARR](https://techcrunch.com/2022/04/27/consumer-fintech-trading-revenues-dont-measure-up-to-saas-arr/)
+- [SpaceX: Facts about Elon Musk&#39;s private spaceflight company](https://www.space.com/18853-spacex.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
