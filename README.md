@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ford earnings weighed down by Rivian stake](https://techcrunch.com/2022/04/27/ford-earnings-weighed-down-by-rivian-stake/)
+- [HBO Max app just had one of its best quarters to date, but app performance still has room to improve](https://techcrunch.com/2022/04/27/hbo-max-app-just-had-one-of-its-best-quarters-to-date-but-app-performance-still-has-room-to-improve/)
+- [How to watch the April 2022 solar eclipse online](https://www.space.com/partial-solar-eclipse-april-2022-webcasts/)
 - [ChowNow founder on rethinking food delivery to serve local restaurants first](https://techcrunch.com/2022/04/27/chownow-founder-on-rethinking-food-delivery-to-serve-local-restaurants-first/)
 - [OneWeb founder Greg Wyler’s new startup wants to launch a ‘sustainable’ satellite mega-constellation](https://techcrunch.com/2022/04/27/oneweb-founder-greg-wylers-new-startup-wants-to-launch-a-sustainable-satellite-mega-constellation/)
-- [In leaked all-hands meeting, Twitter CEO fields questions about Elon Musk’s takeover](https://techcrunch.com/2022/04/27/twitter-leaked-all-hands-call/)
-- [PayPal shuttering its San Francisco office](https://techcrunch.com/2022/04/27/paypal-shuttering-its-san-francisco-office/)
-- [The corporate venture comeback: What startups considering CVC need to know](https://techcrunch.com/2022/04/27/the-corporate-venture-comeback-what-startups-considering-cvc-need-to-know/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
