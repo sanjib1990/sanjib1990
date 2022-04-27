@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta says its metaverse biz lost another $3B… but the 2030s will be “exciting”](https://techcrunch.com/2022/04/27/meta-facebook-q1-2022-earnings/)
-- [Elon Musk wins $13B suit over Solar City deal Tesla shareholders called a ‘bailout’](https://techcrunch.com/2022/04/27/elon-musk-wins-13b-suit-over-solar-city-deal-tesla-shareholders-called-a-bailout/)
-- [Dear Sophie: When should I sponsor engineers for green cards?](https://techcrunch.com/2022/04/27/dear-sophie-when-should-i-sponsor-engineers-for-green-cards/)
-- [Ingenuity Mars helicopter snaps amazing photos of Perseverance rover&#39;s landing gear &lpar;video&rpar;](https://www.space.com/mars-helicopter-ingenuity-perseverance-parachute-backshell-photos/)
-- [Ford earnings weighed down by Rivian stake](https://techcrunch.com/2022/04/27/ford-earnings-weighed-down-by-rivian-stake/)
+- [SpaceX astronaut missions for NASA: Crew-4 launch updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates/)
+- [My DNA just launched to orbit with SpaceX&#39;s Crew-4 mission](https://www.space.com/dna-launch-spacex-crew-4-astronaut-mission/)
+- [Daily Crunch: US dangles reward up to $10M for info on 6 elite Russian military hackers](https://techcrunch.com/2022/04/27/daily-crunch-us-dangles-reward-up-to-10m-for-info-on-6-elite-russian-military-hackers/)
+- [WhatsApp follows Google in giving cash-back rewards to win payments users in India](https://techcrunch.com/2022/04/27/whatsapp-pay-cashback/)
+- [Meta says Reels now makes up over 20% of the time users spend on Instagram](https://techcrunch.com/2022/04/27/meta-says-reels-now-makes-up-over-20-of-the-time-users-spend-on-instagram/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
