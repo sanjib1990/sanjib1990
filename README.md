@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Bogota-based Minka is building tech to help money move more quickly across LatAm](https://techcrunch.com/2022/04/27/bogota-based-minka-lands-24m-from-tiger-kaszek-to-build-an-open-infrastructure-for-money/)
-- [Sun King raises $260M to widen clean energy access in Africa, Asia](https://techcrunch.com/2022/04/27/sun-king-raises-260m-to-widen-clean-energy-access-in-africa-asia/)
-- [James Murdoch’s Bodhi Tree leading a $1.78 billion investment in Ambani-backed Viacom18](https://techcrunch.com/2022/04/27/james-murdochs-bodhi-tree-leading-a-1-78-billion-investment-in-viacom-18/)
-- [Twitter confirms fluctuations in follower counts after Musk deal was announced were organic](https://techcrunch.com/2022/04/27/twitter-fluctuations-follower-counts-after-musk-deal-organic/)
-- [&#39;Star Trek: Voyager&#39;s&#39; triumphant creation stars in crowdfunded documentary &#39;To the Journey&#39;](https://www.space.com/star-trek-voyager-documentary/)
+- [UIPath names former Google Cloud exec co-CEO to steer its future](https://techcrunch.com/2022/04/27/uipath-names-former-google-cloud-exec-co-ceo-to-steer-its-future/)
+- [ARMO raises $30M to build an end-to-end open source Kubernetes security platform](https://techcrunch.com/2022/04/27/armo-raises-30m-to-build-an-end-to-end-open-source-kubernetes-security-platform/)
+- [US offers bounty for Sandworm, the Russian hackers blamed for destructive cyberattacks](https://techcrunch.com/2022/04/27/state-sandworm-russian-hackers-ukraine/)
+- [Oura’s new CEO discusses the future of the smart ring](https://techcrunch.com/2022/04/27/ouras-new-ceo-discusses-the-future-of-the-smart-ring/)
+- [NASA astronaut Jessica Watkins to become first Black woman on ISS crew](https://www.space.com/nasa-astronaut-jessica-watkins-first-black-woman-iss-crew/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
