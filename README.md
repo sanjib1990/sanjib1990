@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [In pictures: Amazing launch photos of SpaceX&#39;s Crew-4 mission](https://www.space.com/spacex-crew4-astronaut-mission-nasa-photos/)
+- [SpaceX launches Crew-4 astronauts to space station on a Dragon named Freedom](https://www.space.com/spacex-crew4-astronaut-launch-success/)
 - [SpaceX astronaut missions for NASA: Crew-4 launch updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates/)
 - [Eden AI unifies ML APIs from several cloud vendors](https://techcrunch.com/2022/04/27/eden-ai-unifies-ml-apis-from-several-cloud-vendors/)
 - [Lightspeed India Partners, investor in Byju’s, Udaan and Ula, eyes over $500 million for new fund](https://techcrunch.com/2022/04/26/lightspeed-india-partners-investor-in-byjus-udaan-and-ula-eyes-over-500-million-for-new-fund/)
-- [Eurora raises $40M for its AI-based system to automate EU e-commerce shipping compliance](https://techcrunch.com/2022/04/26/eurora-raises-40m-for-its-ai-based-system-to-automate-eu-e-commerce-shipping-compliance/)
-- [MassMutual Ventures closes $300M fund to back Asia and Europe startups](https://techcrunch.com/2022/04/26/massmutual-ventures-closes-300m-fund-to-back-asia-and-europe-startups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
