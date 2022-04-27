@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New Salesforce developer tools look to tighten integration with Slack](https://techcrunch.com/2022/04/27/salesforce-aims-to-tighten-slack-integration-with-new-developer-toolkit/)
+- [Apple opens Self Service Repair to US iPhone users](https://techcrunch.com/2022/04/27/apple-opens-self-service-repair-to-us-iphone-users/)
+- [Doppler lands $20M to help companies manage their app secrets](https://techcrunch.com/2022/04/27/doppler-lands-20m-to-help-companies-manage-their-app-secrets/)
+- [Falcon 9: SpaceX&#39;s workhorse rocket](https://www.space.com/18962-spacex-falcon-9.html/)
 - [Crypto-focused Dragonfly Capital launches $650M third fund](https://techcrunch.com/2022/04/27/crypto-focused-dragonfly-capital-launches-650m-third-fund/)
-- [Mavrck raises $135M, buys Linkin.bio maker Later in creator and influencer marketing consolidation](https://techcrunch.com/2022/04/27/mavrck-raises-135m-buys-linkin-bio-maker-later-in-creator-and-influencer-marketing-consolidation/)
-- [Hear how Front raised serious cash from unconventional investors on TechCrunch Live](https://techcrunch.com/2022/04/27/hear-how-front-raised-serious-cash-from-unconventional-investors-on-techcrunch-live/)
-- [On This Day In Space: April 27, 1961: NASA launches Explorer 11](https://www.space.com/39251-on-this-day-in-space.html/)
-- [Reveal raises $50M to espouse the benefits of partner ecosystems](https://techcrunch.com/2022/04/27/2306524/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
