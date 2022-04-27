@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [In pictures: Amazing launch photos of SpaceX&#39;s Crew-4 mission](https://www.space.com/spacex-crew4-astronaut-mission-nasa-photos/)
-- [SpaceX launches Crew-4 astronauts to space station on a Dragon named Freedom](https://www.space.com/spacex-crew4-astronaut-launch-success/)
-- [SpaceX astronaut missions for NASA: Crew-4 launch updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates/)
-- [Eden AI unifies ML APIs from several cloud vendors](https://techcrunch.com/2022/04/27/eden-ai-unifies-ml-apis-from-several-cloud-vendors/)
-- [Lightspeed India Partners, investor in Byju’s, Udaan and Ula, eyes over $500 million for new fund](https://techcrunch.com/2022/04/26/lightspeed-india-partners-investor-in-byjus-udaan-and-ula-eyes-over-500-million-for-new-fund/)
+- [Reveal raises $50M to espouse the benefits of partner ecosystems](https://techcrunch.com/2022/04/27/2306524/)
+- [Solar power is better than nuclear for astronauts on Mars, study suggests](https://www.space.com/solar-power-better-nuclear-astronauts-mars/)
+- [NASA&#39;s OSIRIS-REx spacecraft will visit asteroid Apophis](https://www.space.com/osiris-rex-mission-asteroid-apophis-2029/)
+- [Mysterious dunes on Jupiter&#39;s volcanic moon Io may be formed by lava](https://www.space.com/dunes-jupiter-moon-io-lava-flows/)
+- [Rocket Lab catches dummy booster with a helicopter in dramatic new video](https://www.space.com/rocket-lab-dummy-booster-catch-helicopter-video/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
