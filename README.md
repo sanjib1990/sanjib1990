@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lightspeed India Partners, investor in Byju’s, Udaan and Ula, eyes over $500 million for new fund](https://techcrunch.com/2022/04/26/lightspeed-india-partners-investor-in-byjus-udaan-and-ula-eyes-over-500-million-for-new-fund/)
+- [Eurora raises $40M for its AI-based system to automate EU e-commerce shipping compliance](https://techcrunch.com/2022/04/26/eurora-raises-40m-for-its-ai-based-system-to-automate-eu-e-commerce-shipping-compliance/)
+- [MassMutual Ventures closes $300M fund to back Asia and Europe startups](https://techcrunch.com/2022/04/26/massmutual-ventures-closes-300m-fund-to-back-asia-and-europe-startups/)
 - [Voi taps Drover to prevent sidewalk scooter riding in Oslo](https://techcrunch.com/2022/04/26/voi-taps-drover-to-prevent-sidewalk-scooter-riding-in-oslo/)
 - [BintanGO wants to boost Indonesia’s creator economy](https://techcrunch.com/2022/04/26/bintango-wants-to-boost-indonesias-creator-economy/)
-- [EVs, AVs, and pay packages: 3 takeaways from GM’s Q1 earnings](https://techcrunch.com/2022/04/26/gm-first-quarter-earnings-ev-av-barra-compensation/)
-- [Google tells shareholders that YouTube Shorts is doing great, don’t worry about TikTok!](https://techcrunch.com/2022/04/26/youtube-q1-earnings-2022-google/)
-- [NASA&#39;s Artemis 1 moon mission rolls off the launch pad for repairs &lpar;photos&rpar;](https://www.space.com/nasa-artemis1-mission-rolls-off-launch-pad/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
