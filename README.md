@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Wireless charging: Coming soon to a Belkin device near you](https://techcrunch.com/2022/04/27/wireless-charging-at-long-last-yay/)
+- [Enveil, a provider of encrypted, privacy-focused search and analytics tools, raises $25M](https://techcrunch.com/2022/04/27/enveil-a-provider-of-encrypted-privacy-focused-search-and-analytics-tools-raises-25m/)
+- [Inventa poised to enter Mexico, Colombia with its supplier marketplace](https://techcrunch.com/2022/04/27/inventa-poised-to-enter-mexico-colombia-with-its-supplier-marketplace/)
+- [Salesforce’s low-code workflow tool aims to unify CRM giant’s largest acquisitions](https://techcrunch.com/2022/04/27/salesforces-low-code-workflow-tool-aims-to-unify-crm-giants-largest-acquisitions/)
 - [New Salesforce developer tools look to tighten integration with Slack](https://techcrunch.com/2022/04/27/salesforce-aims-to-tighten-slack-integration-with-new-developer-toolkit/)
-- [Apple opens Self Service Repair to US iPhone users](https://techcrunch.com/2022/04/27/apple-opens-self-service-repair-to-us-iphone-users/)
-- [Doppler lands $20M to help companies manage their app secrets](https://techcrunch.com/2022/04/27/doppler-lands-20m-to-help-companies-manage-their-app-secrets/)
-- [Falcon 9: SpaceX&#39;s workhorse rocket](https://www.space.com/18962-spacex-falcon-9.html/)
-- [Crypto-focused Dragonfly Capital launches $650M third fund](https://techcrunch.com/2022/04/27/crypto-focused-dragonfly-capital-launches-650m-third-fund/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
