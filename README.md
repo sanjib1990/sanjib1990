@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Europe’s top court unblocks more GDPR litigation against Big Tech](https://techcrunch.com/2022/04/28/cjeu-gdpr-consumer-litigation/)
-- [Vercom acquires marketing automation startup MailerLite for $90M](https://techcrunch.com/2022/04/28/vercom-acquires-marketing-automation-startup-mailerlite-for-90m/)
-- [Raising monster rounds for self-driving mobility startups on TechCrunch Live](https://techcrunch.com/2022/04/28/raising-monster-rounds-for-self-driving-mobility-startups-on-techcrunch-live/)
-- [Fleet nabs $20M to enable enterprises to manage their devices](https://techcrunch.com/2022/04/28/fleet-nabs-20m-to-enable-enterprises-to-manage-their-devices/)
-- [HackerOne buys YC-backed PullRequest to add code review to bug-squashing platform](https://techcrunch.com/2022/04/28/hackerone-buys-yc-backed-pullrequest-to-add-code-review-to-bug-squashing-platform/)
+- [Exafunction aims to reduce AI dev costs by abstracting away hardware](https://techcrunch.com/2022/04/28/exafunction-aims-to-reduce-ai-dev-costs-by-abstracting-away-hardware/)
+- [Peacock added 4 million paid subscribers in Q1, up ~40% from last quarter](https://techcrunch.com/2022/04/28/peacock-added-4-million-paid-subscribers-in-q1-up-40-from-last-quarter/)
+- [We want your pitch decks!](https://techcrunch.com/2022/04/28/submit-your-pitch-deck-for-review/)
+- [Pitch Deck Teardown: Minut](https://techcrunch.com/2022/04/28/example-series-b-pitch-deck-minut/)
+- [How to see who viewed your TikTok profile](https://techcrunch.com/2022/04/28/tiktok-profile-views/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
