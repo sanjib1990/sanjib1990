@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA’s Webb In Full Focus, Ready for Instrument Commissioning](https://blogs.nasa.gov/webb/2022/04/28/nasas-webb-in-full-focus-ready-for-instrument-commissioning/)
-- [Snap announces a mini drone called Pixy](https://techcrunch.com/2022/04/28/snap-announces-a-mini-drone-called-pixy/)
-- [Snapchat’s new ‘Director Mode’ will help anyone become a video creator](https://techcrunch.com/2022/04/28/snapchats-new-director-mode-will-help-anyone-become-a-video-creator/)
-- [Snap partners with Live Nation to launch AR experiences at select concerts and festivals](https://techcrunch.com/2022/04/28/snap-live-nation-ar-experiences-concerts-festivals/)
-- [Snapchat adds new assistive devices for Bitmoji avatars, including hearing aids and more](https://techcrunch.com/2022/04/28/snapchat-assistive-devices-bitmoji-avatars-hearing-aids/)
+- [Brilliant fireball soars over Mississippi, sparking loud booms](https://www.space.com/fireball-meteor-mississippi-sonic-boom-april-27/)
+- [Why is a day on Venus is longer than a year? The atmosphere may be to blame.](https://www.space.com/venus-atomphere-slows-down-rotation/)
+- [Lego unveils epic Luke Skywalker&#39;s Landspeeder collector&#39;s edition for Star Wars Day](https://www.space.com/lego-star-wars-luke-skywalkers-landspeeder-collector-series/)
+- [Sharp pictures! James Webb Space Telescope completes alignment in huge milestone](https://www.space.com/james-webb-space-telescope-alignment-complete/)
+- [Sunspot sends off double flare, as solar activity ramps up](https://www.space.com/sun-double-solar-flare-april-25-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
