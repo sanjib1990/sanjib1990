@@ -94,10 +94,10 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Dat Bike is the creator of Vietnam’s first domestic electric motorbike](https://techcrunch.com/2022/04/27/dat-bike-is-the-creator-of-vietnams-first-domestic-electric-motorbike/)
-- [Apollo 17 moonwalker hails launch of fellow geologist-astronaut Jessica Watkins](https://www.space.com/apollo-17-moonwalker-hails-astronaut-jessica-watkins-launch/)
-- [Sumutasu secures $10M to digitize Japan’s real estate market](https://techcrunch.com/2022/04/27/proptech-startup-sumutasu-raises-10m-series-b-to-digitize-japans-real-estate-market/)
-- [SpaceX&#39;s Freedom Dragon capsule arrives at space station with Crew-4 astronauts](https://www.space.com/spacex-crew-4-astronaut-mission-arrives-space-station/)
+- [Baidu, Pony.AI win first driverless robotaxi permits in China](https://techcrunch.com/2022/04/27/baidu-pony-ai-win-first-driverless-robotaxi-permits-in-china/)
+- [SpaceX Crew-3 astronauts have fun testing spacesuits before coming home &lpar;photos&rpar;](https://www.space.com/spacex-crew3-astronauts-nasa-spacesuits-return-splashdown/)
+- [Post-pandemic, used car startup platforms are booming — and the latest is Spotawheel](https://techcrunch.com/2022/04/27/post-pandemic-used-car-startup-platforms-are-booming-and-the-latest-is-spotawheel/)
+- [Raising monster rounds for self-driving mobility startups on TechCrunch Live](https://techcrunch.com/2022/04/27/raising-monster-rounds-for-self-driving-mobility-startups-on-techcrunch-live/)
 - [SpaceX astronaut flights for NASA: Crew-4 mission updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates/)
 <!-- BLOG-POST-LIST:END -->
 
