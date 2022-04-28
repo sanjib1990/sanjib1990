@@ -95,10 +95,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [NASA’s Webb In Full Focus, Ready for Instrument Commissioning](https://blogs.nasa.gov/webb/2022/04/28/nasas-webb-in-full-focus-ready-for-instrument-commissioning/)
-- [Snap further invests in AR Shopping with dedicated in-app feature, new tools for retailers](https://techcrunch.com/2022/04/28/snap-further-invests-in-ar-shopping-with-dedicated-in-app-feature-new-tools-for-retailers/)
-- [With Lens Cloud, Snap offers back-end services for its developer platform](https://techcrunch.com/2022/04/28/with-lens-cloud-snap-offers-backend-services-for-its-developer-platform/)
-- [Exafunction aims to reduce AI dev costs by abstracting away hardware](https://techcrunch.com/2022/04/28/exafunction-aims-to-reduce-ai-dev-costs-by-abstracting-away-hardware/)
-- [Peacock added 4 million paid subscribers in Q1, up ~40% from last quarter](https://techcrunch.com/2022/04/28/peacock-added-4-million-paid-subscribers-in-q1-up-40-from-last-quarter/)
+- [Snap announces a mini drone called Pixy](https://techcrunch.com/2022/04/28/snap-announces-a-mini-drone-called-pixy/)
+- [Snapchat’s new ‘Director Mode’ will help anyone become a video creator](https://techcrunch.com/2022/04/28/snapchats-new-director-mode-will-help-anyone-become-a-video-creator/)
+- [Snap partners with Live Nation to launch AR experiences at select concerts and festivals](https://techcrunch.com/2022/04/28/snap-live-nation-ar-experiences-concerts-festivals/)
+- [Snapchat adds new assistive devices for Bitmoji avatars, including hearing aids and more](https://techcrunch.com/2022/04/28/snapchat-assistive-devices-bitmoji-avatars-hearing-aids/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
