@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Yandex signs deal with VK to sell its media products, News and Zen](https://techcrunch.com/2022/04/28/yandex-sells-news-zen-vk/)
+- [Ford hints at shift to middle mile autonomous delivery with Argo AI](https://techcrunch.com/2022/04/28/ford-hints-at-shift-to-middle-mile-autonomous-delivery-with-argo-ai/)
+- [On This Day In Space: April 28, 2001: World&#39;s 1st space tourist launches to space station](https://www.space.com/39251-on-this-day-in-space.html/)
+- [Amazon unveils over 40 new titles, movie rental service in India](https://techcrunch.com/2022/04/28/amazon-unveils-over-40-new-titles-movie-rental-service-in-india/)
 - [Watch 2 Russian cosmonauts spacewalk outside the International Space Station today](https://www.space.com/russian-cosmonauts-spacewalk-outside-station-april-2022-webcast/)
-- [SpaceX Crew-4 astronauts fly plush turtle and monkey as zero-g indicators](https://www.space.com/spacex-crew4-zero-g-indicator-turtle-monkey/)
-- [Boeing to launch 2nd test flight of Starliner spacecraft for NASA on May 19](https://www.space.com/boeing-starliner-oft-2-launch-date-may-2022/)
-- [Does Lockheed Martin&#39;s stealthy SR-72 Darkstar spy plane have a cameo in &#39;Top Gun: Maverick&#39;?](https://www.space.com/hypersonic-sr-72-darkstar-jettop-gun-maverick/)
-- [Little CAPSTONE cubesat ready to launch on big moon mission next month](https://www.space.com/capstone-cubesat-moon-mission-launch-may/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
