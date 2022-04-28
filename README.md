@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Taxfix, the Berlin-based mobile tax filing app, raises $220M at a $1B+ valuation](https://techcrunch.com/2022/04/27/taxfix-the-berlin-based-mobile-tax-filing-app-raises-220m-at-a-1b-valuation/)
+- [Oware is streamlining Pakistan’s supply chain](https://techcrunch.com/2022/04/27/oware-is-streamlining-pakistans-supply-chain/)
 - [Baidu, Pony.AI win first driverless robotaxi permits in China](https://techcrunch.com/2022/04/27/baidu-pony-ai-win-first-driverless-robotaxi-permits-in-china/)
 - [SpaceX Crew-3 astronauts have fun testing spacesuits before coming home &lpar;photos&rpar;](https://www.space.com/spacex-crew3-astronauts-nasa-spacesuits-return-splashdown/)
 - [Post-pandemic, used car startup platforms are booming — and the latest is Spotawheel](https://techcrunch.com/2022/04/27/post-pandemic-used-car-startup-platforms-are-booming-and-the-latest-is-spotawheel/)
-- [Raising monster rounds for self-driving mobility startups on TechCrunch Live](https://techcrunch.com/2022/04/27/raising-monster-rounds-for-self-driving-mobility-startups-on-techcrunch-live/)
-- [SpaceX astronaut flights for NASA: Crew-4 mission updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
