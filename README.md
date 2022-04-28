@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Madison Reed, which made DTC hair color a thing, is now going after larger retail footprint](https://techcrunch.com/2022/04/28/madison-reed-which-made-dtc-hair-color-a-thing-is-now-going-after-larger-retail-footprint/)
-- [Deepset raises $14M to help companies build NLP apps](https://techcrunch.com/2022/04/28/deepset-raises-14m-to-help-companies-build-nlp-apps/)
-- [With Kard, banks and fintechs can build custom credit card rewards programs](https://techcrunch.com/2022/04/28/kard-banks-fintechs-credit-card-rewards-programs-api/)
-- [Camera IQ launches support for AR effects within TikTok’s Effect House platform](https://techcrunch.com/2022/04/28/camera-iq-launches-support-for-ar-effects-within-tiktoks-effect-house-platform/)
-- [Movable Ink, which taps AI to personalize marketing content, raises $55M](https://techcrunch.com/2022/04/28/moveable-ink-which-taps-ai-to-personalize-marketing-content-raises-55m/)
+- [Dallas County police add Tesla Model 3s to their fleet](https://techcrunch.com/2022/04/28/dallas-county-police-add-tesla-model-3s-to-their-fleet/)
+- [Two years after Lemon Perfect was spotted in Beyoncé’s limo, the superstar is now a backer](https://techcrunch.com/2022/04/28/two-years-after-lemon-perfect-was-spotted-in-beyonces-limo-the-superstar-is-now-a-backer/)
+- [Aerones raises $9M to inspect wind turbines with robots](https://techcrunch.com/2022/04/28/aerones-raises-9m-to-inspect-wind-turbines-with-robots/)
+- [Please don’t YOLO your 401&lpar;k&rpar; into shitcoins](https://techcrunch.com/2022/04/28/chain-reaction-crypto-twitter-elon-musk-sequoia-bitcoin/)
+- [NASA&#39;s experimental X-59 supersonic jet returns to California for assembly](https://www.space.com/nasa-x-59-supersonic-jet-returns-california-assembly/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
