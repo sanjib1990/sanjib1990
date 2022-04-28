@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Dallas County police add Tesla Model 3s to their fleet](https://techcrunch.com/2022/04/28/dallas-county-police-add-tesla-model-3s-to-their-fleet/)
-- [Two years after Lemon Perfect was spotted in Beyoncé’s limo, the superstar is now a backer](https://techcrunch.com/2022/04/28/two-years-after-lemon-perfect-was-spotted-in-beyonces-limo-the-superstar-is-now-a-backer/)
-- [Aerones raises $9M to inspect wind turbines with robots](https://techcrunch.com/2022/04/28/aerones-raises-9m-to-inspect-wind-turbines-with-robots/)
-- [Please don’t YOLO your 401&lpar;k&rpar; into shitcoins](https://techcrunch.com/2022/04/28/chain-reaction-crypto-twitter-elon-musk-sequoia-bitcoin/)
-- [NASA&#39;s experimental X-59 supersonic jet returns to California for assembly](https://www.space.com/nasa-x-59-supersonic-jet-returns-california-assembly/)
+- [Europe’s top court unblocks more GDPR litigation against Big Tech](https://techcrunch.com/2022/04/28/cjeu-gdpr-consumer-litigation/)
+- [Vercom acquires marketing automation startup MailerLite for $90M](https://techcrunch.com/2022/04/28/vercom-acquires-marketing-automation-startup-mailerlite-for-90m/)
+- [Raising monster rounds for self-driving mobility startups on TechCrunch Live](https://techcrunch.com/2022/04/28/raising-monster-rounds-for-self-driving-mobility-startups-on-techcrunch-live/)
+- [Fleet nabs $20M to enable enterprises to manage their devices](https://techcrunch.com/2022/04/28/fleet-nabs-20m-to-enable-enterprises-to-manage-their-devices/)
+- [HackerOne buys YC-backed PullRequest to add code review to bug-squashing platform](https://techcrunch.com/2022/04/28/hackerone-buys-yc-backed-pullrequest-to-add-code-review-to-bug-squashing-platform/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
