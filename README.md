@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Yandex signs deal with VK to sell its media products, News and Zen](https://techcrunch.com/2022/04/28/yandex-sells-news-zen-vk/)
-- [Ford hints at shift to middle mile autonomous delivery with Argo AI](https://techcrunch.com/2022/04/28/ford-hints-at-shift-to-middle-mile-autonomous-delivery-with-argo-ai/)
-- [On This Day In Space: April 28, 2001: World&#39;s 1st space tourist launches to space station](https://www.space.com/39251-on-this-day-in-space.html/)
-- [Amazon unveils over 40 new titles, movie rental service in India](https://techcrunch.com/2022/04/28/amazon-unveils-over-40-new-titles-movie-rental-service-in-india/)
-- [Watch 2 Russian cosmonauts spacewalk outside the International Space Station today](https://www.space.com/russian-cosmonauts-spacewalk-outside-station-april-2022-webcast/)
+- [With Musk’s deal in the wings, Twitter reports Q1 sales of $1.2B; diluted EPS of $0.61 due to a MoPub bump](https://techcrunch.com/2022/04/28/with-musks-deal-in-the-wings-twitter-reports-q1-sales-of-1-2b-diluted-eps-of-0-61-due-to-a-mopub-bump/)
+- [CommandBar lands $19M to inject in-app searches with smarts](https://techcrunch.com/2022/04/28/commandbar-lands-19m-to-inject-in-app-searches-with-smarts/)
+- [Synthesis AI raises $17M to generate synthetic data for computer vision](https://techcrunch.com/2022/04/28/synthesis-ai-raises-17m-to-generate-synthetic-data-for-computer-vision/)
+- [Payroll provider Symmetrical.ai nabs $18.5M to streamline employee payouts](https://techcrunch.com/2022/04/28/payroll-provider-symmetrical-ai-nabs-18-5m-to-streamline-employee-payouts/)
+- [Best telescope mounts in {year}](https://www.space.com/best-telescope-mounts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
