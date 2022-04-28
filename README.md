@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX astronaut missions for NASA: Crew-4 launch updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates/)
-- [My DNA just launched to orbit with SpaceX&#39;s Crew-4 mission](https://www.space.com/dna-launch-spacex-crew-4-astronaut-mission/)
-- [Daily Crunch: US dangles reward up to $10M for info on 6 elite Russian military hackers](https://techcrunch.com/2022/04/27/daily-crunch-us-dangles-reward-up-to-10m-for-info-on-6-elite-russian-military-hackers/)
-- [WhatsApp follows Google in giving cash-back rewards to win payments users in India](https://techcrunch.com/2022/04/27/whatsapp-pay-cashback/)
-- [Meta says Reels now makes up over 20% of the time users spend on Instagram](https://techcrunch.com/2022/04/27/meta-says-reels-now-makes-up-over-20-of-the-time-users-spend-on-instagram/)
+- [Dat Bike is the creator of Vietnam’s first domestic electric motorbike](https://techcrunch.com/2022/04/27/dat-bike-is-the-creator-of-vietnams-first-domestic-electric-motorbike/)
+- [Apollo 17 moonwalker hails launch of fellow geologist-astronaut Jessica Watkins](https://www.space.com/apollo-17-moonwalker-hails-astronaut-jessica-watkins-launch/)
+- [Sumutasu secures $10M to digitize Japan’s real estate market](https://techcrunch.com/2022/04/27/proptech-startup-sumutasu-raises-10m-series-b-to-digitize-japans-real-estate-market/)
+- [SpaceX&#39;s Freedom Dragon capsule arrives at space station with Crew-4 astronauts](https://www.space.com/spacex-crew-4-astronaut-mission-arrives-space-station/)
+- [SpaceX astronaut flights for NASA: Crew-4 mission updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
