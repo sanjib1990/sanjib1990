@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [With Musk’s deal in the wings, Twitter reports Q1 sales of $1.2B; diluted EPS of $0.61 due to a MoPub bump](https://techcrunch.com/2022/04/28/with-musks-deal-in-the-wings-twitter-reports-q1-sales-of-1-2b-diluted-eps-of-0-61-due-to-a-mopub-bump/)
-- [CommandBar lands $19M to inject in-app searches with smarts](https://techcrunch.com/2022/04/28/commandbar-lands-19m-to-inject-in-app-searches-with-smarts/)
-- [Synthesis AI raises $17M to generate synthetic data for computer vision](https://techcrunch.com/2022/04/28/synthesis-ai-raises-17m-to-generate-synthetic-data-for-computer-vision/)
-- [Payroll provider Symmetrical.ai nabs $18.5M to streamline employee payouts](https://techcrunch.com/2022/04/28/payroll-provider-symmetrical-ai-nabs-18-5m-to-streamline-employee-payouts/)
-- [Best telescope mounts in {year}](https://www.space.com/best-telescope-mounts/)
+- [Madison Reed, which made DTC hair color a thing, is now going after larger retail footprint](https://techcrunch.com/2022/04/28/madison-reed-which-made-dtc-hair-color-a-thing-is-now-going-after-larger-retail-footprint/)
+- [Deepset raises $14M to help companies build NLP apps](https://techcrunch.com/2022/04/28/deepset-raises-14m-to-help-companies-build-nlp-apps/)
+- [With Kard, banks and fintechs can build custom credit card rewards programs](https://techcrunch.com/2022/04/28/kard-banks-fintechs-credit-card-rewards-programs-api/)
+- [Camera IQ launches support for AR effects within TikTok’s Effect House platform](https://techcrunch.com/2022/04/28/camera-iq-launches-support-for-ar-effects-within-tiktoks-effect-house-platform/)
+- [Movable Ink, which taps AI to personalize marketing content, raises $55M](https://techcrunch.com/2022/04/28/moveable-ink-which-taps-ai-to-personalize-marketing-content-raises-55m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
