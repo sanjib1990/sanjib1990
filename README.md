@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Brilliant fireball soars over Mississippi, sparking loud booms](https://www.space.com/fireball-meteor-mississippi-sonic-boom-april-27/)
-- [Why is a day on Venus is longer than a year? The atmosphere may be to blame.](https://www.space.com/venus-atomphere-slows-down-rotation/)
-- [Lego unveils epic Luke Skywalker&#39;s Landspeeder collector&#39;s edition for Star Wars Day](https://www.space.com/lego-star-wars-luke-skywalkers-landspeeder-collector-series/)
-- [Sharp pictures! James Webb Space Telescope completes alignment in huge milestone](https://www.space.com/james-webb-space-telescope-alignment-complete/)
-- [Sunspot sends off double flare, as solar activity ramps up](https://www.space.com/sun-double-solar-flare-april-25-2022/)
+- [DJI suspends sales in Ukraine and Russia](https://techcrunch.com/2022/04/28/dji-suspends-sales-in-ukraine-and-russia/)
+- [Netflix layoffs hit Tudum, its editorial arm, just five months after launch](https://techcrunch.com/2022/04/28/netflix-layoffs-tudum-editorial/)
+- [Are bidirectional EV chargers ready for the home market?](https://techcrunch.com/2022/04/28/are-bidirectional-ev-chargers-ready-for-the-home-market/)
+- [Why Latin America’s freight-forwarding opportunity is still attracting capital](https://techcrunch.com/2022/04/28/why-latin-americas-freight-forwarding-opportunity-is-still-attracting-capital/)
+- [DeltaX wants to digitize the Andean region’s trucking sector](https://techcrunch.com/2022/04/28/deltax-wants-to-digitize-the-andean-regions-trucking-sector/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
