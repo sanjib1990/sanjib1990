@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Clerk bags new capital to improve in-store grocery shopping experience](https://techcrunch.com/2022/04/29/clerk-series-b-in-store-grocery-shopping/)
+- [Back pain? This app uses your webcam to detect bad posture and says it doesn’t spy…](https://techcrunch.com/2022/04/29/zen-pre-seed-posture-correction/)
 - [China’s logistics robot maker VisionNav raises $76M at $500M valuation](https://techcrunch.com/2022/04/29/chinas-logistics-robot-maker-visionnav-raises-79m-at-500m-valuation/)
 - [More TradFi in DeFi as Sienna Network launches SiennaLend, a private crypto lending platform](https://techcrunch.com/2022/04/29/more-tradfi-in-defi-as-sienna-network-launches-siennalend-a-private-crypto-lending-platform/)
 - [Musk sells nearly $4 billion worth of Tesla shares](https://techcrunch.com/2022/04/28/musk-sells-nearly-4-billion-worth-of-tesla-shares/)
-- [Airbnb commits to fully remote workplace: ‘Live and work anywhere’](https://techcrunch.com/2022/04/28/airbnb-commits-to-fully-remote-workplace-live-and-work-anywhere/)
-- [Revise raises $3.5 million to build rails for programming NFTs](https://techcrunch.com/2022/04/28/revise-raises-3-5-million-to-build-rails-for-programming-nfts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
