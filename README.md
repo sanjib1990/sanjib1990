@@ -82,7 +82,7 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [become a Python List MASTER!! // Python EP 8](https://www.youtube.com/watch?v=rW5sCgSSpI8)
+- [this is the end &lpar;last episode on YouTube&rpar;](https://www.youtube.com/watch?v=rW5sCgSSpI8)
 - [Perl in 100 Seconds](https://www.youtube.com/watch?v=74_7LrRe5DI)
 - [S3:E8: Finding Expertise Everywhere with Prof. Amah Edoh](https://www.youtube.com/watch?v=ezy8j24Uric)
 - [Celebrating OCW&#39;s &quot;NextGen&quot; Platform with NPR&#39;s Anya Kamenetz](https://www.youtube.com/watch?v=ZyJIW569rww)
