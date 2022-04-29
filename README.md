@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX&#39;s Crew-4 astronauts thrilled after &#39;eye-watering&#39; space station trip](https://www.space.com/spacex-astronauts-crew-4-thrilled-space-station-trip/)
+- [Watch the &#39;Night Sky&#39; trailer on Amazon Prime Video and visit a portal to an alien world](https://www.space.com/night-sky-sci-fi-tv-series-amazon-prime-video/)
 - [Daily Crunch: Musk’s Twitter purchase plan calls for new CEO, monetization strategies, job cuts](https://techcrunch.com/2022/04/29/daily-crunch-musks-twitter-purchase-plan-calls-for-new-ceo-monetization-strategies-job-cuts/)
 - [Jack Dorsey says he’s against permanent Twitter bans, with an asterisk](https://techcrunch.com/2022/04/29/jack-dorsey-against-permanent-twitter-bans-with-an-asterisk/)
 - [Dive deep into &#39;Starfield&#39; with these making-of videos for Bethesda&#39;s new space game epic](https://www.space.com/starfield-bethesda-gameworks-videos/)
-- [Take a video tour of SpaceX&#39;s newest Dragon Freedom with the Crew-4 astronauts](https://www.space.com/spacex-dragon-freedom-crew-4-video-tour/)
-- [Underwater volcano in Antarctica triggers 85,000 earthquakes](https://www.space.com/earthquake-swarm-antarctica-underwater-volcano/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
