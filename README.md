@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [ISS and China&#39;s space station photobomb image of 4 planets aligned in the sky](https://www.space.com/iss-tianhe-photobomb-four-planets/)
-- [NASA&#39;s James Webb Space Telescope: The ultimate guide](https://www.space.com/21925-james-webb-space-telescope-jwst.html/)
-- [Virgin Orbit&#39;s 1st UK launch will loft a satellite to track illegal activity at sea](https://www.space.com/virgin-orbit-amber-1-satellite-track-illegal-activity/)
-- [Save over $40 with these three Celestron binocular deals on Amazon](https://www.space.com/three-celestron-binoculars-on-sale-amazon/)
-- [See the Milky Way sparkle with two telescopes in Chile&#39;s Atacama Desert in this stunning photo](https://www.space.com/milky-way-image-two-telescopes-chile/)
+- [Charged with billions in capital, meet the 9 startups developing tomorrow’s batteries today](https://techcrunch.com/2022/04/29/charged-with-billions-in-capital-meet-the-9-startups-developing-tomorrows-batteries-today/)
+- [Aurora’s Sterling Anderson and FedEx’s Rebecca Yeung discuss the future of autonomous trucking at TC Sessions: Mobility 2022](https://techcrunch.com/2022/04/29/auroras-sterling-anderson-and-fedexs-rebecca-yeung-discuss-the-future-of-autonomous-trucking-at-tc-sessions-mobility-2022/)
+- [Lego has epic Star Wars Day 2022 offers for fans and VIP Rewards members](https://www.space.com/lego-star-wars-day-2022-vip-deals/)
+- [How Lydia wants to make payments more personal and social](https://techcrunch.com/2022/04/29/how-lydia-wants-to-make-payments-more-personal-and-social/)
+- [CEOs at AMP Robotics, Novoloop and Nth Cycle will discuss disrupting recycling at TC Sessions: Climate](https://techcrunch.com/2022/04/29/ceos-at-amp-robotics-novoloop-and-nth-cycle-will-discuss-disrupting-recycling-at-tc-sessions-climate/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
