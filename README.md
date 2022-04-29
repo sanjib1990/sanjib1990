@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [DoorDash extends gas rewards program for delivery people on its platform through August](https://techcrunch.com/2022/04/29/doordash-gas-rewards-program/)
 - [United Arab Emirates astronaut to fly to space station with SpaceX next year](https://www.space.com/uae-astronaut-spacex-iss-mission-axiom-space/)
-- [Watch Rocket Lab attempt to catch a falling booster with a helicopter today](https://techcrunch.com/2022/04/29/watch-rocket-lab-attempt-to-catch-a-falling-booster-with-a-helicopter-today/)
-- [Airbnb will no longer offer COVID-19-related refunds beginning May 31](https://techcrunch.com/2022/04/29/airbnb-will-no-longer-offer-covid-19-related-refunds-beginning-may-31/)
-- [Anthropic’s quest for better, more explainable AI attracts $580M](https://techcrunch.com/2022/04/29/anthropics-quest-for-better-more-explainable-ai-attracts-580m/)
+- [The best sci-fi movies and TV shows to stream on Disney Plus in May](https://www.space.com/disney-plus-best-space-scifi-streaming.html/)
+- [Amazon stock plunges to two-year low following first-quarter loss](https://techcrunch.com/2022/04/29/amazon-stock-plunges-to-two-year-low-following-first-quarter-loss/)
+- [Vyoma is the latest player seeking to prevent satellite collisions with space junk](https://techcrunch.com/2022/04/29/vyoma-is-the-latest-player-seeking-to-prevent-satellite-collisions-with-space-junk/)
+- [Japan&#39;s asteroid samples faced surprise challenges on Earth: A pandemic, traffic jams and airport security](https://www.space.com/hayabusa2-asteroid-samples-japan-nasa-travel-challenges/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
