@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Charged with billions in capital, meet the 9 startups developing tomorrow’s batteries today](https://techcrunch.com/2022/04/29/charged-with-billions-in-capital-meet-the-9-startups-developing-tomorrows-batteries-today/)
-- [Aurora’s Sterling Anderson and FedEx’s Rebecca Yeung discuss the future of autonomous trucking at TC Sessions: Mobility 2022](https://techcrunch.com/2022/04/29/auroras-sterling-anderson-and-fedexs-rebecca-yeung-discuss-the-future-of-autonomous-trucking-at-tc-sessions-mobility-2022/)
-- [Lego has epic Star Wars Day 2022 offers for fans and VIP Rewards members](https://www.space.com/lego-star-wars-day-2022-vip-deals/)
-- [How Lydia wants to make payments more personal and social](https://techcrunch.com/2022/04/29/how-lydia-wants-to-make-payments-more-personal-and-social/)
-- [CEOs at AMP Robotics, Novoloop and Nth Cycle will discuss disrupting recycling at TC Sessions: Climate](https://techcrunch.com/2022/04/29/ceos-at-amp-robotics-novoloop-and-nth-cycle-will-discuss-disrupting-recycling-at-tc-sessions-climate/)
+- [Anthropic’s quest for better, more explainable AI attracts $580M](https://techcrunch.com/2022/04/29/anthropics-quest-for-better-more-explainable-ai-attracts-580m/)
+- [The best sci-fi movies and TV shows to stream on Disney Plus in May](https://www.space.com/disney-plus-best-space-scifi-streaming.html/)
+- [Amazon stock plunges to two-year low following first quarter loss](https://techcrunch.com/2022/04/29/amazon-stock-plunges-to-two-year-low-following-first-quarter-loss/)
+- [Vyoma is the latest player seeking to prevent satellite collisions with space junk](https://techcrunch.com/2022/04/29/vyoma-is-the-latest-player-seeking-to-prevent-satellite-collisions-with-space-junk/)
+- [Japan&#39;s asteroid samples faced surprise challenges on Earth: A pandemic, traffic jams and airport security](https://www.space.com/hayabusa2-asteroid-samples-japan-nasa-travel-challenges/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
