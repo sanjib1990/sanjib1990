@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [United Arab Emirates astronaut to fly to space station with SpaceX next year](https://www.space.com/uae-astronaut-spacex-iss-mission-axiom-space/)
-- [The best sci-fi movies and TV shows to stream on Disney Plus in May](https://www.space.com/disney-plus-best-space-scifi-streaming.html/)
-- [Amazon stock plunges to two-year low following first-quarter loss](https://techcrunch.com/2022/04/29/amazon-stock-plunges-to-two-year-low-following-first-quarter-loss/)
-- [Vyoma is the latest player seeking to prevent satellite collisions with space junk](https://techcrunch.com/2022/04/29/vyoma-is-the-latest-player-seeking-to-prevent-satellite-collisions-with-space-junk/)
-- [Japan&#39;s asteroid samples faced surprise challenges on Earth: A pandemic, traffic jams and airport security](https://www.space.com/hayabusa2-asteroid-samples-japan-nasa-travel-challenges/)
+- [Why a bipartisan embrace of crypto might never extend to Bitcoin](https://techcrunch.com/2022/04/29/why-a-bipartisan-embrace-of-crypto-may-never-extend-to-bitcoin/)
+- [Pitch deck pro tips from a leading Silicon Valley venture capitalist](https://techcrunch.com/2022/04/29/pitch-deck-pro-tips-from-a-leading-silicon-valley-venture-capitalist/)
+- [FAA delays environmental review of SpaceX&#39;s Starship yet another month, to May 31](https://www.space.com/faa-spacex-starship-review-delayed-may-31/)
+- [TechCrunch+ roundup: Finding product-market fit, pitch deck teardown, getting into YC](https://techcrunch.com/2022/04/29/techcrunch-roundup-finding-product-market-fit-pitch-deck-teardown-getting-into-yc/)
+- [DoorDash extends gas rewards program for delivery people on its platform through August](https://techcrunch.com/2022/04/29/doordash-gas-rewards-program/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
