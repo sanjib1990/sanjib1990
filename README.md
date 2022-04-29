@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Are bidirectional EV chargers ready for the home market?](https://techcrunch.com/2022/04/28/are-bidirectional-ev-chargers-ready-for-the-home-market/)
-- [Why Latin America’s freight-forwarding opportunity is still attracting capital](https://techcrunch.com/2022/04/28/why-latin-americas-freight-forwarding-opportunity-is-still-attracting-capital/)
-- [DeltaX wants to digitize the Andean region’s trucking sector](https://techcrunch.com/2022/04/28/deltax-wants-to-digitize-the-andean-regions-trucking-sector/)
-- [Full moon calendar 2022: When to see the next full moon](https://www.space.com/16830-full-moon-calendar.html/)
-- [Rare Black Moon to block sun in 1st solar eclipse of 2022. See a Venus-Jupiter meetup near Eid, too.](https://www.space.com/rare-black-moon-eclipse-eid-venus-jupiter-2022/)
+- [Glorang scores $10M Series A to expand its edtech marketplace across Asia](https://techcrunch.com/2022/04/28/glorang-scores-10m-series-a-to-expand-its-edtech-marketplace-across-asia/)
+- [Daily Crunch: In latest earnings release, Twitter admits to miscounting users for the second time](https://techcrunch.com/2022/04/28/daily-crunch-in-latest-earnings-release-twitter-admits-to-miscounting-users-for-the-second-time/)
+- [Apple’s services revenue hits a record $19.8B in Q2, reaches 825M paid subscriptions](https://techcrunch.com/2022/04/28/apples-services-revenue-hits-a-record-19-8b-in-q2-reaches-825m-paid-subscriptions/)
+- [Apple sold a lot of iPhones last quarter. And Macs. And also Watches. And other stuff, too.](https://techcrunch.com/2022/04/28/apple-sold-a-lot-of-iphones-last-quarter-and-macs-and-also-watches-and-other-stuff-too/)
+- [Bitcoin miners say energy efficiency and regulatory certainty are crucial for the industry’s success](https://techcrunch.com/2022/04/28/bitcoin-miners-say-energy-efficiency-and-regulatory-certainty-are-crucial-for-the-industrys-success/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
