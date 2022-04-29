@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Musk sells nearly $4 billion worth of Tesla shares](https://techcrunch.com/2022/04/28/musk-sells-nearly-4-billion-worth-of-tesla-shares/)
+- [Airbnb commits to fully remote workplace: ‘Live and work anywhere’](https://techcrunch.com/2022/04/28/airbnb-commits-to-fully-remote-workplace-live-and-work-anywhere/)
+- [Revise raises $3.5 million to build rails for programming NFTs](https://techcrunch.com/2022/04/28/revise-raises-3-5-million-to-build-rails-for-programming-nfts/)
 - [Glorang scores $10M Series A to expand its edtech marketplace across Asia](https://techcrunch.com/2022/04/28/glorang-scores-10m-series-a-to-expand-its-edtech-marketplace-across-asia/)
 - [Daily Crunch: In latest earnings release, Twitter admits to miscounting users for the second time](https://techcrunch.com/2022/04/28/daily-crunch-in-latest-earnings-release-twitter-admits-to-miscounting-users-for-the-second-time/)
-- [Apple’s services revenue hits a record $19.8B in Q2, reaches 825M paid subscriptions](https://techcrunch.com/2022/04/28/apples-services-revenue-hits-a-record-19-8b-in-q2-reaches-825m-paid-subscriptions/)
-- [Apple sold a lot of iPhones last quarter. And Macs. And also Watches. And other stuff, too.](https://techcrunch.com/2022/04/28/apple-sold-a-lot-of-iphones-last-quarter-and-macs-and-also-watches-and-other-stuff-too/)
-- [Bitcoin miners say energy efficiency and regulatory certainty are crucial for the industry’s success](https://techcrunch.com/2022/04/28/bitcoin-miners-say-energy-efficiency-and-regulatory-certainty-are-crucial-for-the-industrys-success/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
