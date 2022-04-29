@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon still undisputed king of public cloud, but Microsoft is creeping closer](https://techcrunch.com/2022/04/29/amazon-still-undisputed-king-of-public-cloud-but-microsoft-is-creeping-closer/)
-- [Robinhood’s sinking value is proof that “free” can often be very costly](https://techcrunch.com/2022/04/29/robinhoods-sinking-value-is-proof-that-free-can-often-be-very-costly/)
-- [Does it smell like teen spirit, or teen bankruptcy?](https://techcrunch.com/2022/04/29/does-it-smell-like-teen-spirit-or-teen-bankruptcy/)
-- [Center Cam helps eye-to-eye feel more like heart-to-heart](https://techcrunch.com/2022/04/29/centercam-video-conferencing/)
-- [Clerk bags new capital to improve in-store grocery shopping experience](https://techcrunch.com/2022/04/29/clerk-series-b-in-store-grocery-shopping/)
+- [ISS and China&#39;s space station photobomb image of 4 planets aligned in the sky](https://www.space.com/iss-tianhe-photobomb-four-planets/)
+- [NASA&#39;s James Webb Space Telescope: The ultimate guide](https://www.space.com/21925-james-webb-space-telescope-jwst.html/)
+- [Virgin Orbit&#39;s 1st UK launch will loft a satellite to track illegal activity at sea](https://www.space.com/virgin-orbit-amber-1-satellite-track-illegal-activity/)
+- [Save over $40 with these three Celestron binocular deals on Amazon](https://www.space.com/three-celestron-binoculars-on-sale-amazon/)
+- [See the Milky Way sparkle with two telescopes in Chile&#39;s Atacama Desert in this stunning photo](https://www.space.com/milky-way-image-two-telescopes-chile/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
