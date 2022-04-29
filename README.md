@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Musk’s Twitter purchase plan calls for new CEO, monetization strategies, job cuts](https://techcrunch.com/2022/04/29/daily-crunch-musks-twitter-purchase-plan-calls-for-new-ceo-monetization-strategies-job-cuts/)
+- [Jack Dorsey says he’s against permanent Twitter bans, with an asterisk](https://techcrunch.com/2022/04/29/jack-dorsey-against-permanent-twitter-bans-with-an-asterisk/)
+- [Dive deep into &#39;Starfield&#39; with these making-of videos for Bethesda&#39;s new space game epic](https://www.space.com/starfield-bethesda-gameworks-videos/)
 - [Take a video tour of SpaceX&#39;s newest Dragon Freedom with the Crew-4 astronauts](https://www.space.com/spacex-dragon-freedom-crew-4-video-tour/)
 - [Underwater volcano in Antarctica triggers 85,000 earthquakes](https://www.space.com/earthquake-swarm-antarctica-underwater-volcano/)
-- [The Hot and Cold of Webb](https://blogs.nasa.gov/webb/2022/04/29/the-hot-and-cold-of-webb/)
-- [Partial solar eclipse of April 2022: When and where it is and how to watch it online](https://www.space.com/partial-solar-eclipse-april-2022-guide/)
-- [SpaceX Falcon 9 rises above two other rockets in amazing launch photo](https://www.space.com/spacex-falcon-9-launch-photo-three-rockets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
