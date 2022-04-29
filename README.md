@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Why a bipartisan embrace of crypto might never extend to Bitcoin](https://techcrunch.com/2022/04/29/why-a-bipartisan-embrace-of-crypto-may-never-extend-to-bitcoin/)
-- [Pitch deck pro tips from a leading Silicon Valley venture capitalist](https://techcrunch.com/2022/04/29/pitch-deck-pro-tips-from-a-leading-silicon-valley-venture-capitalist/)
-- [FAA delays environmental review of SpaceX&#39;s Starship yet another month, to May 31](https://www.space.com/faa-spacex-starship-review-delayed-may-31/)
-- [TechCrunch+ roundup: Finding product-market fit, pitch deck teardown, getting into YC](https://techcrunch.com/2022/04/29/techcrunch-roundup-finding-product-market-fit-pitch-deck-teardown-getting-into-yc/)
-- [DoorDash extends gas rewards program for delivery people on its platform through August](https://techcrunch.com/2022/04/29/doordash-gas-rewards-program/)
+- [Take a video tour of SpaceX&#39;s newest Dragon Freedom with the Crew-4 astronauts](https://www.space.com/spacex-dragon-freedom-crew-4-video-tour/)
+- [Underwater volcano in Antarctica triggers 85,000 earthquakes](https://www.space.com/earthquake-swarm-antarctica-underwater-volcano/)
+- [The Hot and Cold of Webb](https://blogs.nasa.gov/webb/2022/04/29/the-hot-and-cold-of-webb/)
+- [Partial solar eclipse of April 2022: When and where it is and how to watch it online](https://www.space.com/partial-solar-eclipse-april-2022-guide/)
+- [SpaceX Falcon 9 rises above two other rockets in amazing launch photo](https://www.space.com/spacex-falcon-9-launch-photo-three-rockets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
