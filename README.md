@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Affirm’s CTO talks transparency and the tech that makes BNPL possible](https://techcrunch.com/2022/04/30/affirms-cto-talks-transparency-and-the-tech-that-makes-bnpl-possible/)
 - [India seizes $725 million assets from Xiaomi unit over illegal remittances](https://techcrunch.com/2022/04/30/india-seizes-725-million-assets-from-xiaomi-unit-over-illegal-remittances/)
 - [This Week In Space podcast: Episode 9 — Living on the moon and Mars with Pascal Lee](https://www.space.com/this-week-in-space-podcast-twit/)
 - [Venus and Jupiter shine together overnight, here&#39;s how to watch the spectacle live online](https://www.space.com/jupiter-venus-conjunction-2022-webcast/)
 - [Newfound auroras on Mars defy easy explanation](https://www.space.com/mars-new-aurora-massive-scale/)
-- [The first solar eclipse of 2022 occurs today! What time does it begin?](https://www.space.com/solar-eclipse-april-2022-today-what-time/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
