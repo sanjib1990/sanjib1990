@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Week in Apps: Elon buys Twitter, Snap Summit recap and an App Store cleanup](https://techcrunch.com/2022/04/30/this-week-in-apps-elon-buys-twitter-snap-summit-recap-and-an-app-store-cleanup/)
+- [On putting toothpaste back into the tube](https://techcrunch.com/2022/04/30/on-putting-toothpaste-back-into-the-tube/)
 - [Perceptron: AI mixes concrete, designs molecules, and thinks with space lasers](https://techcrunch.com/2022/04/30/perceptron-ai-news-roundup/)
 - [Affirm’s CTO talks transparency and the tech that makes BNPL possible](https://techcrunch.com/2022/04/30/affirms-cto-talks-transparency-and-the-tech-that-makes-bnpl-possible/)
 - [India seizes $725 million assets from Xiaomi unit over illegal remittances](https://techcrunch.com/2022/04/30/india-seizes-725-million-assets-from-xiaomi-unit-over-illegal-remittances/)
-- [This Week In Space podcast: Episode 9 — Living on the moon and Mars with Pascal Lee](https://www.space.com/this-week-in-space-podcast-twit/)
-- [Venus and Jupiter shine together overnight, here&#39;s how to watch the spectacle live online](https://www.space.com/jupiter-venus-conjunction-2022-webcast/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
