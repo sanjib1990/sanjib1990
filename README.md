@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [This Week in Apps: Elon buys Twitter, Snap Summit recap and an App Store cleanup](https://techcrunch.com/2022/04/30/this-week-in-apps-elon-buys-twitter-snap-summit-recap-and-an-app-store-cleanup/)
-- [On putting toothpaste back into the tube](https://techcrunch.com/2022/04/30/on-putting-toothpaste-back-into-the-tube/)
-- [Perceptron: AI mixes concrete, designs molecules, and thinks with space lasers](https://techcrunch.com/2022/04/30/perceptron-ai-news-roundup/)
-- [Affirm’s CTO talks transparency and the tech that makes BNPL possible](https://techcrunch.com/2022/04/30/affirms-cto-talks-transparency-and-the-tech-that-makes-bnpl-possible/)
-- [India seizes $725 million assets from Xiaomi unit over illegal remittances](https://techcrunch.com/2022/04/30/india-seizes-725-million-assets-from-xiaomi-unit-over-illegal-remittances/)
+- [Felicis Ventures partners share the four pillars of scaling a SaaS startup](https://techcrunch.com/2022/04/30/felicis-ventures-partners-share-the-four-pillars-of-scaling-a-saas-startup/)
+- [These Android features will help protect your digital privacy](https://techcrunch.com/2022/04/30/cybersecurity-101-android-security-how-to-protect-digital-privacy/)
+- [4 planets line up like ducks in a row in gorgeous night-sky image](https://www.space.com/four-planet-moon-alignment-photo-april-2022/)
+- [How do you get ready for bed in space? This astronaut video reveals all.](https://www.space.com/how-astronauts-get-ready-for-bed-in-space-video/)
+- [China just launched a rocket with 5 satellites to orbit from a platform at sea](https://www.space.com/china-sea-rocket-launch-success-april-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
