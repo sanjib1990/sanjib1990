@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [If the earliest investors keep going earlier, what will happen?](https://techcrunch.com/2022/04/30/if-the-earliest-investors-keep-going-earlier-what-will-happen/)
 - [USV quietly announces $625M in fresh funding for ‘both Web2 and Web3’ teams](https://techcrunch.com/2022/04/29/usv-quietly-announces-625m-in-fresh-funding-for-both-web2-and-web3-teams/)
 - [SpaceX&#39;s Crew-4 astronauts thrilled after &#39;eye-watering&#39; space station trip](https://www.space.com/spacex-astronauts-crew-4-thrilled-space-station-trip/)
 - [Watch the &#39;Night Sky&#39; trailer on Amazon Prime Video and visit a portal to an alien world](https://www.space.com/night-sky-sci-fi-tv-series-amazon-prime-video/)
 - [Daily Crunch: Musk’s Twitter purchase plan calls for new CEO, monetization strategies, job cuts](https://techcrunch.com/2022/04/29/daily-crunch-musks-twitter-purchase-plan-calls-for-new-ceo-monetization-strategies-job-cuts/)
-- [Jack Dorsey says he’s against permanent Twitter bans, with an asterisk](https://techcrunch.com/2022/04/29/jack-dorsey-against-permanent-twitter-bans-with-an-asterisk/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
