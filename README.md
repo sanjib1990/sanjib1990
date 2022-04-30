@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The first solar eclipse of 2022 has begun and here&#39;s the view!](https://www.space.com/partial-solar-eclipse-april-2022-has-begun/)
 - [Elon’s big week](https://techcrunch.com/2022/04/30/elons-big-week/)
 - [Elon Musk shows off new SpaceX rocket engines for Starship. Twitter fans see Daleks.](https://www.space.com/elon-musk-raptor-2-engines-daleks/)
 - [Felicis Ventures partners share the four pillars of scaling a SaaS startup](https://techcrunch.com/2022/04/30/felicis-ventures-partners-share-the-four-pillars-of-scaling-a-saas-startup/)
 - [These Android features will help protect your digital privacy](https://techcrunch.com/2022/04/30/cybersecurity-101-android-security-how-to-protect-digital-privacy/)
-- [4 planets line up like ducks in a row in gorgeous night-sky image](https://www.space.com/four-planet-moon-alignment-photo-april-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
