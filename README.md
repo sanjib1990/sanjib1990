@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The first solar eclipse of 2022 has begun and here&#39;s the view!](https://www.space.com/partial-solar-eclipse-april-2022-has-begun/)
+- [&#39;Star Trek: Strange New Worlds&#39; scores its 1st tie-in book from veteran Trek novelist](https://www.space.com/star-trek-strange-new-worlds-the-high-country-book/)
+- [Energize your &#39;Star Trek&#39; wisdom with &#39;Phasers on Stun!&#39; by Ryan Britt &lpar;exclusive&rpar;](https://www.space.com/star-trek-phasers-on-stun-book-interview/)
+- [&#39;Astronaut Down&#39;: Enter a realm of alternate realities in this new sci-fi series from AfterShock Comics &lpar;exclusive&rpar;](https://www.space.com/astronaut-down-sci-fi-comics-series-aftershock-comics/)
+- [The first solar eclipse of 2022 has begun and here&#39;s the first views!](https://www.space.com/partial-solar-eclipse-april-2022-has-begun/)
 - [Elon’s big week](https://techcrunch.com/2022/04/30/elons-big-week/)
-- [Elon Musk shows off new SpaceX rocket engines for Starship. Twitter fans see Daleks.](https://www.space.com/elon-musk-raptor-2-engines-daleks/)
-- [Felicis Ventures partners share the four pillars of scaling a SaaS startup](https://techcrunch.com/2022/04/30/felicis-ventures-partners-share-the-four-pillars-of-scaling-a-saas-startup/)
-- [These Android features will help protect your digital privacy](https://techcrunch.com/2022/04/30/cybersecurity-101-android-security-how-to-protect-digital-privacy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
