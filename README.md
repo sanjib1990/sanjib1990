@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Elon’s big week](https://techcrunch.com/2022/04/30/elons-big-week/)
+- [Elon Musk shows off new SpaceX rocket engines for Starship. Twitter fans see Daleks.](https://www.space.com/elon-musk-raptor-2-engines-daleks/)
 - [Felicis Ventures partners share the four pillars of scaling a SaaS startup](https://techcrunch.com/2022/04/30/felicis-ventures-partners-share-the-four-pillars-of-scaling-a-saas-startup/)
 - [These Android features will help protect your digital privacy](https://techcrunch.com/2022/04/30/cybersecurity-101-android-security-how-to-protect-digital-privacy/)
 - [4 planets line up like ducks in a row in gorgeous night-sky image](https://www.space.com/four-planet-moon-alignment-photo-april-2022/)
-- [How do you get ready for bed in space? This astronaut video reveals all.](https://www.space.com/how-astronauts-get-ready-for-bed-in-space-video/)
-- [China just launched a rocket with 5 satellites to orbit from a platform at sea](https://www.space.com/china-sea-rocket-launch-success-april-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
