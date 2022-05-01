@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Saturn&#39;s weird moon Titan looks a bit like Earth, and scientists might finally know why](https://www.space.com/study-explains-why-titan-looks-like-earth/)
+- [Strange Mars rock type points to extremely violent volcanic eruptions](https://www.space.com/mars-rock-violent-volcanic-eruption-ignimbrite/)
+- [Time travel could be possible, but only with parallel timelines](https://www.space.com/time-travel-possible-parallel-timelines/)
+- [&#39;Star Wars&#39;-style hyperdrive might produce a quantum glow, not star streaks](https://www.space.com/quantum-glow-millennium-falcon-accelerate/)
 - [SpaceX just flew its fastest Dragon astronaut trip to the space station ever](https://www.space.com/spacex-fastest-dragon-astronaut-flight-space-station/)
-- [Rare Black Moon solar eclipse takes bite out of sun over South America](https://www.space.com/partial-solar-eclipse-april-2022-wows-skywatchers/)
-- [&#39;Star Trek: Strange New Worlds&#39; scores its 1st tie-in book from veteran Trek novelist](https://www.space.com/star-trek-strange-new-worlds-the-high-country-book/)
-- [Energize your &#39;Star Trek&#39; wisdom with &#39;Phasers on Stun!&#39; by Ryan Britt &lpar;exclusive&rpar;](https://www.space.com/star-trek-phasers-on-stun-book-interview/)
-- [&#39;Astronaut Down&#39;: Enter a realm of alternate realities in this new sci-fi series from AfterShock Comics &lpar;exclusive&rpar;](https://www.space.com/astronaut-down-sci-fi-comics-series-aftershock-comics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
