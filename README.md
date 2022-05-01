@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [On This Day In Space: May 1, 1949: Neptune&#39;s moon Nereid discovered](https://www.space.com/39251-on-this-day-in-space.html/)
+- [Night sky, May 2022: What you can see this month [maps]](https://www.space.com/16149-night-sky.html/)
+- [The brightest planets in May&#39;s night sky: How and when to see them](https://www.space.com/33619-visible-planets-guide.html/)
 - [Saturn&#39;s weird moon Titan looks a bit like Earth, and scientists might finally know why](https://www.space.com/study-explains-why-titan-looks-like-earth/)
 - [Strange Mars rock type points to extremely violent volcanic eruptions](https://www.space.com/mars-rock-violent-volcanic-eruption-ignimbrite/)
-- [Time travel could be possible, but only with parallel timelines](https://www.space.com/time-travel-possible-parallel-timelines/)
-- [&#39;Star Wars&#39;-style hyperdrive might produce a quantum glow, not star streaks](https://www.space.com/quantum-glow-millennium-falcon-accelerate/)
-- [SpaceX just flew its fastest Dragon astronaut trip to the space station ever](https://www.space.com/spacex-fastest-dragon-astronaut-flight-space-station/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
