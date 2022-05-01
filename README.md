@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Eta Aquarid meteor shower 2022: When, where and how to see it](https://www.space.com/36502-eta-aquarid-meteor-shower-guide.html/)
+- [James Murdoch firm invests $600 million in India’s Allen Career Institute](https://techcrunch.com/2022/05/01/murdoch-shankar-bodhi-allen-career-institute/)
+- [What is today&#39;s moon? Moon phases {year}](https://www.space.com/18880-moon-phases.html/)
 - [On This Day In Space: May 1, 1949: Neptune&#39;s moon Nereid discovered](https://www.space.com/39251-on-this-day-in-space.html/)
 - [Night sky, May 2022: What you can see this month [maps]](https://www.space.com/16149-night-sky.html/)
-- [The brightest planets in May&#39;s night sky: How and when to see them](https://www.space.com/33619-visible-planets-guide.html/)
-- [Saturn&#39;s weird moon Titan looks a bit like Earth, and scientists might finally know why](https://www.space.com/study-explains-why-titan-looks-like-earth/)
-- [Strange Mars rock type points to extremely violent volcanic eruptions](https://www.space.com/mars-rock-violent-volcanic-eruption-ignimbrite/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
