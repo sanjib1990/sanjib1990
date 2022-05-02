@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple faces charges over Apple Pay following EU antitrust complaint](https://techcrunch.com/2022/05/02/apple-faces-charges-over-apple-pay-following-eu-antitrust-complaint/)
-- [Eta Aquarid meteor shower peaks this week! Here&#39;s how to watch the show.](https://www.space.com/eta-aquarid-meteor-shower-peaks-2022/)
-- [How to remove your personal information from Google search results](https://techcrunch.com/2022/05/02/remove-your-personal-data-from-google-search-cybersecurity-101/)
-- [Don&#39;t miss Mercury shine with the crescent moon in tonight&#39;s sky!](https://www.space.com/mercury-crescent-moon-sky-may-2022/)
-- [No one told the crypto world that startup megadeals aren’t as plentiful anymore](https://techcrunch.com/2022/05/02/no-one-told-the-crypto-world-that-startup-megadeals-arent-as-plentiful-anymore/)
+- [Zepto, a 10-minute grocery delivery app, raises $200 million at $900 million valuation](https://techcrunch.com/2022/05/02/zepto-a-10-minute-grocery-delivery-app-raises-200-million-at-900-million-valuation/)
+- [Bolt CEO addresses startup’s performance in wake of lawsuit, says merchant numbers are up 192% YoY](https://techcrunch.com/2022/05/02/bolt-ceo-addresses-startups-performance-in-wake-of-lawsuit-says-merchant-numbers-are-up-192-yoy/)
+- [Inside the secretive Silicon Valley startup trying to save the oceans with tech](https://techcrunch.com/2022/05/02/inside-the-secretive-silicon-valley-startup-trying-to-save-the-oceans-with-tech/)
+- [H1 2022 cybersecurity product-led growth market map](https://techcrunch.com/2022/05/02/h1-2022-cybersecurity-product-led-growth-market-map/)
+- [Venus and Jupiter shine together over Rome &lpar;photo&rpar;](https://www.space.com/venus-jupiter-conjunction-rome-may-2022-photo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
