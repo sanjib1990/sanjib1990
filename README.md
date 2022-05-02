@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Accern lands $20M for AI that analyzes financial documents on the web](https://techcrunch.com/2022/05/02/accern-lands-20m-for-ai-that-analyzes-financial-documents-on-the-web/)
+- [Okra Solar is bringing renewable energy to underserved markets](https://techcrunch.com/2022/05/02/okra-solar-is-bringing-renewable-energy-to-underserved-markets/)
+- [Concerto snags $21.2M to bring co-branded credit cards to more brands](https://techcrunch.com/2022/05/02/concerto-snags-21-2m-to-bring-co-branded-credit-cards-to-more-brands/)
 - [NASA’s Gregory Robinson Named Finalist for Service to America Medal](https://blogs.nasa.gov/webb/2022/05/02/nasas-gregory-robinson-named-finalist-for-service-to-america-medal/)
 - [Chilean fintech Xepelin wants LatAm businesses to get paid](https://techcrunch.com/2022/05/02/chilean-fintech-xepelin-wants-latam-businesses-to-get-paid/)
-- [The Station: Elon’s Tesla share sale, Ford teases a second EV truck and GM’s Cruise spending ramps](https://techcrunch.com/2022/05/02/the-station-elons-tesla-share-sale-ford-teases-a-second-ev-truck-and-gms-cruise-spending-ramps/)
-- [On This Day In Space: May 2, 2005: Maser 10 launches on final flight of Skylark rocket](https://www.space.com/39251-on-this-day-in-space.html/)
-- [Black Moon solar eclipse looks otherworldly in stunning images](https://www.space.com/amazing-images-solar-eclipse-april-30-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
