@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [May&#39;s lunar eclipse and a wild-card meteor shower may offer double spectacle](https://www.space.com/lunar-eclipse-meteor-shower-may-2022/)
-- [Amazon is going to make it easier to load your own books onto Kindle](https://techcrunch.com/2022/05/02/amazon-upload-epub-kindle/)
-- [Peacock looks to original movies, a Lionsgate partnership, and new ad formats to compete on streaming](https://techcrunch.com/2022/05/02/peacock-looks-to-original-movies-a-lionsgate-partnership-and-new-ad-formats-to-compete-on-streaming/)
-- [Amazon’s Joe Quinlivan discusses how building a robot army fueled its e-commerce dominance at TC Sessions: Robotics 2022](https://techcrunch.com/2022/05/02/amazons-joe-quinlivan-discusses-how-building-a-robot-army-fueled-its-e-commerce-dominance-at-tc-sessions-robotics-2022/)
-- [Zepto, a 10-minute grocery delivery app, raises $200 million at $900 million valuation](https://techcrunch.com/2022/05/02/zepto-a-10-minute-grocery-delivery-app-raises-200-million-at-900-million-valuation/)
+- [MIT used autonomous knitting to create these soft robotic banana fingers](https://techcrunch.com/2022/05/02/mit-used-autonomous-knitting-to-create-these-soft-robotic-banana-fingers/)
+- [This is what the Edit Tweet feature could look like on Twitter](https://techcrunch.com/2022/05/02/this-is-what-the-edit-tweet-feature-could-look-like-on-twitter/)
+- [NASA wants your input on its Mars sample return project](https://www.space.com/nasa-requests-public-comment-mars-sample-return/)
+- [Amazon workers reject bid to unionize a second Staten Island warehouse](https://techcrunch.com/2022/05/02/amazon-workers-reject-bid-to-unionize-a-second-staten-island-warehouse/)
+- [James Webb Space Telescope faces crucial test of thermal stability](https://www.space.com/james-webb-space-telescope-thermal-stability-test/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
