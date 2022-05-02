@@ -83,10 +83,10 @@
 
 <!-- YOUTUBE:START -->
 - [this is the end &lpar;last Python episode on YouTube&rpar;](https://www.youtube.com/watch?v=rW5sCgSSpI8)
-- [S3:E8: Finding Expertise Everywhere with Prof. Amah Edoh](https://www.youtube.com/watch?v=ezy8j24Uric)
-- [Celebrating OCW&#39;s &quot;NextGen&quot; Platform with NPR&#39;s Anya Kamenetz](https://www.youtube.com/watch?v=ZyJIW569rww)
-- [Psychic Signatures &lpar;Java Vulnerability&rpar; - Computerphile](https://www.youtube.com/watch?v=502iGDxuiRk)
 - [we’re out of IP Addresses….but this saved us &lpar;Private IP Addresses&rpar;](https://www.youtube.com/watch?v=8bhvn9tQk8o)
+- [[“This”, “is”, “a”, “PYTHON”, “LIST”] // EP 7](https://www.youtube.com/watch?v=1KLgcBcWCsE)
+- [BASH scripting will change your life](https://www.youtube.com/watch?v=7qd5sqazD7k)
+- [we ran OUT of IP Addresses!!](https://www.youtube.com/watch?v=tcae4TSSMo8)
 <!-- YOUTUBE:END -->
 
 ---
