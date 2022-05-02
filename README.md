@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon is going to make it easier to load your own books onto Kindle](https://techcrunch.com/2022/05/02/amazon-upload-epub-kindle/)
+- [Peacock looks to original movies, a Lionsgate partnership, and new ad formats to compete on streaming](https://techcrunch.com/2022/05/02/peacock-looks-to-original-movies-a-lionsgate-partnership-and-new-ad-formats-to-compete-on-streaming/)
+- [Amazon’s Joe Quinlivan discusses how building a robot army fueled its e-commerce dominance at TC Sessions: Robotics 2022](https://techcrunch.com/2022/05/02/amazons-joe-quinlivan-discusses-how-building-a-robot-army-fueled-its-e-commerce-dominance-at-tc-sessions-robotics-2022/)
 - [Zepto, a 10-minute grocery delivery app, raises $200 million at $900 million valuation](https://techcrunch.com/2022/05/02/zepto-a-10-minute-grocery-delivery-app-raises-200-million-at-900-million-valuation/)
 - [Bolt CEO addresses startup’s performance in wake of lawsuit, says merchant numbers are up 192% YoY](https://techcrunch.com/2022/05/02/bolt-ceo-addresses-startups-performance-in-wake-of-lawsuit-says-merchant-numbers-are-up-192-yoy/)
-- [Inside the secretive Silicon Valley startup trying to save the oceans with tech](https://techcrunch.com/2022/05/02/inside-the-secretive-silicon-valley-startup-trying-to-save-the-oceans-with-tech/)
-- [H1 2022 cybersecurity product-led growth market map](https://techcrunch.com/2022/05/02/h1-2022-cybersecurity-product-led-growth-market-map/)
-- [Venus and Jupiter shine together over Rome &lpar;photo&rpar;](https://www.space.com/venus-jupiter-conjunction-rome-may-2022-photo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
