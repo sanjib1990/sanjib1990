@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to remove your personal information from Google search results](https://techcrunch.com/2022/05/02/remove-your-personal-data-from-google-search-cybersecurity-101/)
 - [No one told the crypto world that startup megadeals aren’t as plentiful anymore](https://techcrunch.com/2022/05/02/no-one-told-the-crypto-world-that-startup-megadeals-arent-as-plentiful-anymore/)
+- [These dry ice glaciers on Mars are moving at its south pole](https://www.space.com/mars-carbon-dioxide-glaciers-moving-south-pole/)
 - [Climate countdown: 4 days left for early bird passes to TC Sessions: Climate 2022](https://techcrunch.com/2022/05/02/climate-countdown-4-days-left-for-early-bird-passes-to-tc-sessions-climate-2022/)
 - [Streaming ad spend grew 57% in 2021 reaching $15.2B, market to more than double from 2020 to 2022](https://techcrunch.com/2022/05/02/streaming-ad-spend-grew-57-in-2021-reaching-15-2b-market-to-more-than-double-from-2020-to-2022/)
-- [An early TikTok exec just launched a dating app, Spark](https://techcrunch.com/2022/05/02/spark-dating-app-9count-alex-hofmann/)
-- [How to failwhale the blockchain](https://techcrunch.com/2022/05/02/how-to-failwhale-the-blockchain/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
