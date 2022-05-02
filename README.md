@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [No one told the crypto world that startup megadeals aren’t as plentiful anymore](https://techcrunch.com/2022/05/02/no-one-told-the-crypto-world-that-startup-megadeals-arent-as-plentiful-anymore/)
+- [Climate countdown: 4 days left for early bird passes to TC Sessions: Climate 2022](https://techcrunch.com/2022/05/02/climate-countdown-4-days-left-for-early-bird-passes-to-tc-sessions-climate-2022/)
+- [Streaming ad spend grew 57% in 2021 reaching $15.2B, market to more than double from 2020 to 2022](https://techcrunch.com/2022/05/02/streaming-ad-spend-grew-57-in-2021-reaching-15-2b-market-to-more-than-double-from-2020-to-2022/)
+- [An early TikTok exec just launched a dating app, Spark](https://techcrunch.com/2022/05/02/spark-dating-app-9count-alex-hofmann/)
 - [How to failwhale the blockchain](https://techcrunch.com/2022/05/02/how-to-failwhale-the-blockchain/)
-- [Apple Music arrives on Roku devices, three years after hitting Fire TV](https://techcrunch.com/2022/05/02/apple-music-arrives-on-roku-devices-three-years-after-hitting-fire-tv/)
-- [Chinese fuel cell maker eyeing SPAC deal for $1B US listing](https://techcrunch.com/2022/05/02/chinese-fuel-cell-maker-eyeing-spac-deal-for-1b-us-listing/)
-- [Accern lands $20M for AI that analyzes financial documents on the web](https://techcrunch.com/2022/05/02/accern-lands-20m-for-ai-that-analyzes-financial-documents-on-the-web/)
-- [Okra Solar is bringing renewable energy to underserved markets](https://techcrunch.com/2022/05/02/okra-solar-is-bringing-renewable-energy-to-underserved-markets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
