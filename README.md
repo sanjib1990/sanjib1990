@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Max Q:  Hold fire](https://techcrunch.com/2022/05/02/max-q-hold-fire/)
+- [Biden to provide $3.1B to support domestic production of EV batteries](https://techcrunch.com/2022/05/02/biden-to-provide-3-1b-to-support-domestic-production-of-ev-batteries/)
+- [Finally, VR for your mouth](https://techcrunch.com/2022/05/02/finally-vr-for-your-mouth/)
+- [Health startup myNurse to shut down after data breach exposed health records](https://techcrunch.com/2022/05/02/mynurse-data-breach-shut-down/)
 - [MIT used autonomous knitting to create these soft robotic banana fingers](https://techcrunch.com/2022/05/02/mit-used-autonomous-knitting-to-create-these-soft-robotic-banana-fingers/)
-- [This is what the Edit Tweet feature could look like on Twitter](https://techcrunch.com/2022/05/02/this-is-what-the-edit-tweet-feature-could-look-like-on-twitter/)
-- [NASA wants your input on its Mars sample return project](https://www.space.com/nasa-requests-public-comment-mars-sample-return/)
-- [Amazon workers reject bid to unionize a second Staten Island warehouse](https://techcrunch.com/2022/05/02/amazon-workers-reject-bid-to-unionize-a-second-staten-island-warehouse/)
-- [James Webb Space Telescope faces crucial test of thermal stability](https://www.space.com/james-webb-space-telescope-thermal-stability-test/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
