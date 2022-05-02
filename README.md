@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to failwhale the blockchain](https://techcrunch.com/2022/05/02/how-to-failwhale-the-blockchain/)
+- [Apple Music arrives on Roku devices, three years after hitting Fire TV](https://techcrunch.com/2022/05/02/apple-music-arrives-on-roku-devices-three-years-after-hitting-fire-tv/)
+- [Chinese fuel cell maker eyeing SPAC deal for $1B US listing](https://techcrunch.com/2022/05/02/chinese-fuel-cell-maker-eyeing-spac-deal-for-1b-us-listing/)
 - [Accern lands $20M for AI that analyzes financial documents on the web](https://techcrunch.com/2022/05/02/accern-lands-20m-for-ai-that-analyzes-financial-documents-on-the-web/)
 - [Okra Solar is bringing renewable energy to underserved markets](https://techcrunch.com/2022/05/02/okra-solar-is-bringing-renewable-energy-to-underserved-markets/)
-- [Concerto snags $21.2M to bring co-branded credit cards to more brands](https://techcrunch.com/2022/05/02/concerto-snags-21-2m-to-bring-co-branded-credit-cards-to-more-brands/)
-- [NASA’s Gregory Robinson Named Finalist for Service to America Medal](https://blogs.nasa.gov/webb/2022/05/02/nasas-gregory-robinson-named-finalist-for-service-to-america-medal/)
-- [Chilean fintech Xepelin wants LatAm businesses to get paid](https://techcrunch.com/2022/05/02/chilean-fintech-xepelin-wants-latam-businesses-to-get-paid/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
