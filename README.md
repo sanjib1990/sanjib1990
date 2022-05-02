@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google-backed neobank Open becomes unicorn with new funding](https://techcrunch.com/2022/05/01/google-backed-neobank-open-becomes-unicorn-with-new-funding/)
 - [Building a better mobility fintech startup on TechCrunch Live](https://techcrunch.com/2022/05/01/building-a-better-mobility-fintech-startup-on-techcrunch-live/)
 - [Coinbase taps former Snap India head in emerging markets push](https://techcrunch.com/2022/05/01/durgesh-kaushik-snap-to-coinbase/)
 - [Sequoia’s Shaun Maguire on competition and conviction in crypto venture — ‘A lot of VCs… are going to pull back’](https://techcrunch.com/2022/05/01/sequoias-shaun-maguire-on-competition-and-conviction-in-crypto-venture-a-lot-of-vcs-are-going-to-pull-back/)
 - [Getting to the bottom of UiPath’s plunging valuation](https://techcrunch.com/2022/05/01/getting-to-the-bottom-of-uipaths-plunging-valuation/)
-- [Researchers fear what a Musk acquisition might mean for Twitter research data](https://techcrunch.com/2022/05/01/researchers-fear-what-a-musk-acquisition-might-mean-for-twitter-research-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
