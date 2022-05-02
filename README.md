@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [LinearB wants to help development teams optimize their workflows](https://techcrunch.com/2022/05/02/linearb-wants-to-help-development-teams-optimize-their-workflows/)
+- [Don’t miss the roundtable roundup at TC Sessions: Mobility 2022](https://techcrunch.com/2022/05/02/dont-miss-the-roundtable-roundup-at-tc-sessions-mobility-2022/)
+- [Google unveils new options for removing personal data from search results](https://techcrunch.com/2022/05/02/google-unveils-new-options-for-removing-personal-data-from-search-results/)
+- [Rivian lands $1.5B incentives package to build massive EV factory in Georgia](https://techcrunch.com/2022/05/02/rivian-lands-1-5b-incentives-package-to-build-massive-ev-factory-in-georgia/)
 - [Max Q:  Hold fire](https://techcrunch.com/2022/05/02/max-q-hold-fire/)
-- [Biden to provide $3.1B to support domestic production of EV batteries](https://techcrunch.com/2022/05/02/biden-to-provide-3-1b-to-support-domestic-production-of-ev-batteries/)
-- [Finally, VR for your mouth](https://techcrunch.com/2022/05/02/finally-vr-for-your-mouth/)
-- [Health startup myNurse to shut down after data breach exposed health records](https://techcrunch.com/2022/05/02/mynurse-data-breach-shut-down/)
-- [MIT used autonomous knitting to create these soft robotic banana fingers](https://techcrunch.com/2022/05/02/mit-used-autonomous-knitting-to-create-these-soft-robotic-banana-fingers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
