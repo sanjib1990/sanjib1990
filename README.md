@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple faces charges over Apple Pay following EU antitrust complaint](https://techcrunch.com/2022/05/02/apple-faces-charges-over-apple-pay-following-eu-antitrust-complaint/)
+- [Eta Aquarid meteor shower peaks this week! Here&#39;s how to watch the show.](https://www.space.com/eta-aquarid-meteor-shower-peaks-2022/)
 - [How to remove your personal information from Google search results](https://techcrunch.com/2022/05/02/remove-your-personal-data-from-google-search-cybersecurity-101/)
+- [Don&#39;t miss Mercury shine with the crescent moon in tonight&#39;s sky!](https://www.space.com/mercury-crescent-moon-sky-may-2022/)
 - [No one told the crypto world that startup megadeals aren’t as plentiful anymore](https://techcrunch.com/2022/05/02/no-one-told-the-crypto-world-that-startup-megadeals-arent-as-plentiful-anymore/)
-- [These dry ice glaciers on Mars are moving at its south pole](https://www.space.com/mars-carbon-dioxide-glaciers-moving-south-pole/)
-- [Climate countdown: 4 days left for early bird passes to TC Sessions: Climate 2022](https://techcrunch.com/2022/05/02/climate-countdown-4-days-left-for-early-bird-passes-to-tc-sessions-climate-2022/)
-- [Streaming ad spend grew 57% in 2021 reaching $15.2B, market to more than double from 2020 to 2022](https://techcrunch.com/2022/05/02/streaming-ad-spend-grew-57-in-2021-reaching-15-2b-market-to-more-than-double-from-2020-to-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
