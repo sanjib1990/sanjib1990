@@ -84,9 +84,9 @@
 <!-- YOUTUBE:START -->
 - [How WiFi Works - Computerphile](https://www.youtube.com/watch?v=vvKbMueRzrI)
 - [this is the end &lpar;last Python episode on YouTube&rpar;](https://www.youtube.com/watch?v=rW5sCgSSpI8)
+- [Perl in 100 Seconds](https://www.youtube.com/watch?v=74_7LrRe5DI)
 - [S3:E8: Finding Expertise Everywhere with Prof. Amah Edoh](https://www.youtube.com/watch?v=ezy8j24Uric)
 - [Celebrating OCW&#39;s &quot;NextGen&quot; Platform with NPR&#39;s Anya Kamenetz](https://www.youtube.com/watch?v=ZyJIW569rww)
-- [Psychic Signatures &lpar;Java Vulnerability&rpar; - Computerphile](https://www.youtube.com/watch?v=502iGDxuiRk)
 <!-- YOUTUBE:END -->
 
 ---
