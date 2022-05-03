@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html/)
+- [Pangea to unlock diaspora inflows as funding source for African startups](https://techcrunch.com/2022/05/03/pangea-to-unlock-diaspora-inflows-as-funding-source-for-african-startups/)
+- [Best VR headsets 2022: Oculus Quest 2, Valve Index, PSVR, and more...](https://www.space.com/best-vr-headsets/)
 - [Traceable AI nabs $60M to secure app APIs using machine learning](https://techcrunch.com/2022/05/02/2307940/)
 - [Andreessen Horowitz plans $500 million investment in Indian startups](https://techcrunch.com/2022/05/02/andreessen-horowitz-india/)
-- [South Korea’s RECON Labs raises $4.4M to help shoppers visualize products by creating 3D models in AR](https://techcrunch.com/2022/05/02/south-koreas-recon-labs-raises-4-4m-to-help-shoppers-visualize-products-by-creating-3d-models-in-ar/)
-- [Stellantis, Trudeau invest $2.8 billion to boost EV production in Canada](https://techcrunch.com/2022/05/02/stellantis-trudeau-invest-2-8-billion-to-boost-ev-production-in-canada/)
-- [Epic catch! Rocket Lab snags falling booster with helicopter after 34-satellite launch](https://www.space.com/rocket-lab-helicopter-booster-catch-satellite-launch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
