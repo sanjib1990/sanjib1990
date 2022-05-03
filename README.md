@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Top sci-fi movies and TV shows to watch on Amazon Prime in {month}](https://www.space.com/best-sci-fi-movies-tv-shows-amazon-prime.html/)
+- [Deal-flow newsletters surface gold nuggets for investors](https://techcrunch.com/2022/05/03/deal-flow-newsletters-surface-gold-nuggets-for-investors/)
+- [Deal-flow newsletter PreSeed Now to introduce future UK crown jewels to investors](https://techcrunch.com/2022/05/03/deal-flow-newsletter-preseed-now-to-introduce-future-uk-crown-jewels-to-investors/)
 - [Hiring top startup talent on a budget during the Great Resignation](https://techcrunch.com/2022/05/03/hiring-top-startup-talent-on-a-budget-during-the-great-resignation/)
 - [We need app store competition, not Apple’s 1960s-style paternalistic monopoly](https://techcrunch.com/2022/05/03/app-store-competition-congress/)
-- [A diminished Firefox turns 100](https://techcrunch.com/2022/05/03/a-diminished-firefox-turns-100/)
-- [Digital health startups brace for a Post-Roe world](https://techcrunch.com/2022/05/03/digital-health-startups-brace-for-a-post-roe-world/)
-- [Save $95 on the Elegoo Saturn 3D printer at Amazon](https://www.space.com/save-95-dollars-on-elegoo-saturn-3d-printer-at-amazon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
