@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Exclusive look at patent filings reveals Our Next Energy’s plans for a no-compromise EV battery pack](https://techcrunch.com/2022/05/03/exclusive-look-at-patent-filings-reveals-our-next-energys-plans-for-a-no-compromise-ev-battery-pack/)
+- [Bunq to acquire group expenses app Tricount](https://techcrunch.com/2022/05/03/bunq-to-acquire-group-expenses-app-tricount/)
+- [&#39;Star Trek: Picard&#39; Season 2 episode 9 leaves a lot to be concluded in the finale](https://www.space.com/star-trek-picard-season-2-episode-9-review/)
+- [Apple snags longtime Ford exec as the iPhone maker powers up EV car project](https://techcrunch.com/2022/05/03/apple-snags-longtime-ford-exec-as-the-iphone-maker-powers-up-ev-car-project/)
 - [Top sci-fi movies and TV shows to watch on Amazon Prime in {month}](https://www.space.com/best-sci-fi-movies-tv-shows-amazon-prime.html/)
-- [Deal-flow newsletters surface gold nuggets for investors](https://techcrunch.com/2022/05/03/deal-flow-newsletters-surface-gold-nuggets-for-investors/)
-- [Deal-flow newsletter PreSeed Now to introduce future UK crown jewels to investors](https://techcrunch.com/2022/05/03/deal-flow-newsletter-preseed-now-to-introduce-future-uk-crown-jewels-to-investors/)
-- [Hiring top startup talent on a budget during the Great Resignation](https://techcrunch.com/2022/05/03/hiring-top-startup-talent-on-a-budget-during-the-great-resignation/)
-- [We need app store competition, not Apple’s 1960s-style paternalistic monopoly](https://techcrunch.com/2022/05/03/app-store-competition-congress/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
