@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Syndicate raises “informal” round from over 50 partners to bring DAOs to the masses](https://techcrunch.com/2022/05/03/syndicate-raises-informal-round-50-partners-daos-investment-clubs-carta-circle-opensea-uniswap-a16z/)
-- [The universe could stop expanding &#39;remarkably soon&#39;, study suggests](https://www.space.com/end-cosmic-expansion/)
-- [How Graphite turned an internal side project into a $20M Series A](https://techcrunch.com/2022/05/03/how-graphite-turned-a-side-project-into-a-20m-series-a/)
-- [Best Star Wars books 2022: Novels, art books, graphic novels &amp; more](https://www.space.com/best-star-wars-books/)
-- [Meade telescopes and binocular deals: discounts &amp; what&#39;s in stock](https://www.space.com/meade-deals-telescopes-binoculars/)
+- [Instagram is testing a full-screen home feed](https://techcrunch.com/2022/05/03/instagram-test-full-screen-video-home-feed/)
+- [Lumos wants to build an app store for the enterprise](https://techcrunch.com/2022/05/03/lumos-wants-to-build-an-app-store-for-the-enterprise/)
+- [Announcing the agenda for TechCrunch Sessions: Climate](https://techcrunch.com/2022/05/03/announcing-the-agenda-for-techcrunch-sessions-climate/)
+- [This founder is dedicated to making a mobile game without giving in to intrusive ads](https://techcrunch.com/2022/05/03/this-founder-is-dedicated-to-making-a-mobile-game-without-giving-in-to-intrusive-ads/)
+- [10 cosmic mysteries the Large Hadron Collider could unravel](https://www.space.com/large-hadron-collider-biggest-mysteries-universe/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
