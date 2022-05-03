@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [South Korea’s RECON Labs raises $4.4M to help shoppers visualize products by creating 3D models in AR](https://techcrunch.com/2022/05/02/south-koreas-recon-labs-raises-4-4m-to-help-shoppers-visualize-products-by-creating-3d-models-in-ar/)
+- [Stellantis, Trudeau invest $2.8 billion to boost EV production in Canada](https://techcrunch.com/2022/05/02/stellantis-trudeau-invest-2-8-billion-to-boost-ev-production-in-canada/)
+- [Epic catch! Rocket Lab snags falling booster with helicopter after 34-satellite launch](https://www.space.com/rocket-lab-helicopter-booster-catch-satellite-launch/)
 - [LinearB wants to help development teams optimize their workflows](https://techcrunch.com/2022/05/02/linearb-wants-to-help-development-teams-optimize-their-workflows/)
 - [Don’t miss the roundtable roundup at TC Sessions: Mobility 2022](https://techcrunch.com/2022/05/02/dont-miss-the-roundtable-roundup-at-tc-sessions-mobility-2022/)
-- [Google unveils new options for removing personal data from search results](https://techcrunch.com/2022/05/02/google-unveils-new-options-for-removing-personal-data-from-search-results/)
-- [Rivian lands $1.5B incentives package to build massive EV factory in Georgia](https://techcrunch.com/2022/05/02/rivian-lands-1-5b-incentives-package-to-build-massive-ev-factory-in-georgia/)
-- [Max Q:  Hold fire](https://techcrunch.com/2022/05/02/max-q-hold-fire/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
