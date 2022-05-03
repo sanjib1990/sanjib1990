@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Andreessen Horowitz plans $500 million investment in Indian startups](https://techcrunch.com/2022/05/02/andreessen-horowitz-india/)
 - [South Korea’s RECON Labs raises $4.4M to help shoppers visualize products by creating 3D models in AR](https://techcrunch.com/2022/05/02/south-koreas-recon-labs-raises-4-4m-to-help-shoppers-visualize-products-by-creating-3d-models-in-ar/)
 - [Stellantis, Trudeau invest $2.8 billion to boost EV production in Canada](https://techcrunch.com/2022/05/02/stellantis-trudeau-invest-2-8-billion-to-boost-ev-production-in-canada/)
 - [Epic catch! Rocket Lab snags falling booster with helicopter after 34-satellite launch](https://www.space.com/rocket-lab-helicopter-booster-catch-satellite-launch/)
 - [LinearB wants to help development teams optimize their workflows](https://techcrunch.com/2022/05/02/linearb-wants-to-help-development-teams-optimize-their-workflows/)
-- [Don’t miss the roundtable roundup at TC Sessions: Mobility 2022](https://techcrunch.com/2022/05/02/dont-miss-the-roundtable-roundup-at-tc-sessions-mobility-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
