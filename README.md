@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Startup that transforms real-world items into NFTs raises $6.9M seed round](https://techcrunch.com/2022/05/03/daily-crunch-startup-that-transforms-real-world-items-into-nfts-raises-6-9m-seed-round/)
+- [Old Russian rocket motor breaks up in orbit, generating new cloud of space debris](https://www.space.com/russian-rocket-motor-breakup-space-debris/)
 - [SpaceX&#39;s Crew-3 astronaut mission will return to Earth early Friday morning](https://www.space.com/spacex-crew3-mission-return-to-earth-friday/)
 - [Match names Zynga President Bernard Kim as CEO, replacing Shar Dubey](https://techcrunch.com/2022/05/03/match-names-zynga-president-bernard-kim-as-ceo-replacing-shar-dubey/)
 - [Boeing&#39;s Starliner capsule on track to launch on OFT-2 mission to space station May 19](https://www.space.com/boeing-oft2-test-flight-space-station-valve-fix/)
-- [Lyft continues its COVID recovery, but investors are far from impressed](https://techcrunch.com/2022/05/03/lyft-continues-its-covid-recovery-but-investors-are-far-from-impressed/)
-- [Argo AI, Zoox and Coalition for Reimagined Mobility to discuss what makes a ‘good AV citizen’](https://techcrunch.com/2022/05/03/argo-ai-zoox-and-coalition-for-reimagined-mobility-to-discuss-what-makes-a-good-av-citizen/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
