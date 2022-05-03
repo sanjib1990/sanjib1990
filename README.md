@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX&#39;s Crew-3 astronaut mission will return to Earth early Friday morning](https://www.space.com/spacex-crew3-mission-return-to-earth-friday/)
+- [Match names Zynga President Bernard Kim as CEO, replacing Shar Dubey](https://techcrunch.com/2022/05/03/match-names-zynga-president-bernard-kim-as-ceo-replacing-shar-dubey/)
+- [Boeing&#39;s Starliner capsule on track to launch on OFT-2 mission to space station May 19](https://www.space.com/boeing-oft2-test-flight-space-station-valve-fix/)
 - [Lyft continues its COVID recovery, but investors are far from impressed](https://techcrunch.com/2022/05/03/lyft-continues-its-covid-recovery-but-investors-are-far-from-impressed/)
 - [Argo AI, Zoox and Coalition for Reimagined Mobility to discuss what makes a ‘good AV citizen’](https://techcrunch.com/2022/05/03/argo-ai-zoox-and-coalition-for-reimagined-mobility-to-discuss-what-makes-a-good-av-citizen/)
-- [Roku snags Martha Stewart, Emeril and others for its original programming push](https://techcrunch.com/2022/05/03/roku-snags-martha-stewart-emeril-and-others-for-its-original-programming-push/)
-- [Snap unveils a Cameo partnership, new ad format, and more original programming](https://techcrunch.com/2022/05/03/snap-unveils-a-cameo-partnership-new-ad-format-and-more-original-programming/)
-- [TechCrunch+ roundup: Creating financial models, UiPath’s plummet, pitch deck pro tips](https://techcrunch.com/2022/05/03/techcrunch-roundup-creating-financial-models-uipaths-plummet-pitch-deck-pro-tips/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
