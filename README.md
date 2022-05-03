@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hiring top startup talent on a budget during the Great Resignation](https://techcrunch.com/2022/05/03/hiring-top-startup-talent-on-a-budget-during-the-great-resignation/)
+- [We need app store competition, not Apple’s 1960s-style paternalistic monopoly](https://techcrunch.com/2022/05/03/app-store-competition-congress/)
+- [A diminished Firefox turns 100](https://techcrunch.com/2022/05/03/a-diminished-firefox-turns-100/)
+- [Digital health startups brace for a Post-Roe world](https://techcrunch.com/2022/05/03/digital-health-startups-brace-for-a-post-roe-world/)
 - [Save $95 on the Elegoo Saturn 3D printer at Amazon](https://www.space.com/save-95-dollars-on-elegoo-saturn-3d-printer-at-amazon/)
-- [A total lunar eclipse will turn the moon red the night of May 15](https://www.space.com/total-lunar-eclipse-blood-moon-coming-may-2022/)
-- [Sun fires off huge solar flare from new sunspot coming into view](https://www.space.com/sun-x-class-flare-first-of-may-2022-video/)
-- [Oldest evidence of tectonic plates unearthed, sealed in ancient crystals](https://www.space.com/oldest-evidence-tectonic-plates/)
-- [New Russian rocket launches military satellite on 1st mission](https://www.space.com/lightweight-angara-russian-rocket-first-satellite-launch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
