@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Point closes on $115M to give homeowners a way to cash out on equity in their homes](https://techcrunch.com/2022/05/03/point-a-company-co-founded-by-a16z-gp-alex-rampell-closes-on-115m-to-give-homeowners-a-way-to-cash-out-on-equity-in-their-homes/)
-- [Spotify becomes first music streamer to launch on Roblox](https://techcrunch.com/2022/05/03/spotify-becomes-first-music-streamer-to-launch-on-roblox/)
-- [On This Day In Space: May 3, 1986: Delta rocket fails to launch GOES-G weather satellite](https://www.space.com/39251-on-this-day-in-space.html/)
-- [Kevin raises $65M as it charges ahead on account-to-account payments over point-of-sale terminals](https://techcrunch.com/2022/05/03/kevin-raises-65m-as-it-charges-ahead-on-account-to-account-payments-over-point-of-sale-terminals/)
-- [Anycubic Photon M3 Plus review](https://www.space.com/anycubic-photon-m3-plus-review/)
+- [What most startup founders get wrong about financial projections](https://techcrunch.com/2022/05/03/what-most-startup-founders-get-wrong-about-financial-projections/)
+- [LottieFiles raises Series B to make the animation format even more ubiquitous](https://techcrunch.com/2022/05/03/lottiefiles-gets-37m-to-make-the-animation-format-even-more-ubiquitous/)
+- [HOF Capital brings in $300M for second early-stage fund](https://techcrunch.com/2022/05/03/hof-capital-brings-in-300m-for-second-early-stage-fund/)
+- [Prisma raises $40M for its open source ‘Rosetta stone’ for database languages](https://techcrunch.com/2022/05/03/prisma-raises-40m-for-its/)
+- [Backed by Tiger Global and Sequoia India, Toplyne helps product-led growth teams tackle user conversion](https://techcrunch.com/2022/05/03/backed-by-tiger-global-and-sequoia-india-toplyne-helps-product-led-growth-teams-tackle-user-conversion/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
