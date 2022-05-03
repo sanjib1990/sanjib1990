@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mooji is 3D printing plant-based meat](https://techcrunch.com/2022/05/03/mooji-is-3d-printing-plant-based-meat/)
+- [Flyp wants to give power resellers enterprise-grade ecommerce tooling](https://techcrunch.com/2022/05/03/flyp-wants-to-give-power-resellers-enterprise-grade-ecommerce-tooling/)
 - [Crypto Bahamas signals stronger ties between old and new worlds of finance](https://techcrunch.com/2022/05/03/crypto-bahamas-signals-stronger-ties-between-old-and-new-worlds-of-finance/)
 - [Amazon Freevee increases its slate of originals, establishes itself as a competitor to watch](https://techcrunch.com/2022/05/03/amazon-freevee-increases-its-slate-of-originals-establishes-itself-as-a-competitor-to-watch/)
 - [Tubi reports record growth, expands original content and linear channel offerings](https://techcrunch.com/2022/05/03/tubi-reports-record-growth-expands-original-content-and-linear-channel-offerings/)
-- [Upgrade gives hair stylists tools to market, sell custom wigs from one marketplace](https://techcrunch.com/2022/05/03/upgrade-gives-hair-stylists-tools-to-market-sell-custom-wigs-from-one-marketplace/)
-- [Kintent aims to automate away enterprise compliance tasks](https://techcrunch.com/2022/05/03/kintent-aims-to-automate-away-enterprise-compliance-tasks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
