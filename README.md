@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [What most startup founders get wrong about financial projections](https://techcrunch.com/2022/05/03/what-most-startup-founders-get-wrong-about-financial-projections/)
-- [LottieFiles raises Series B to make the animation format even more ubiquitous](https://techcrunch.com/2022/05/03/lottiefiles-gets-37m-to-make-the-animation-format-even-more-ubiquitous/)
-- [HOF Capital brings in $300M for second early-stage fund](https://techcrunch.com/2022/05/03/hof-capital-brings-in-300m-for-second-early-stage-fund/)
-- [Prisma raises $40M for its open source ‘Rosetta stone’ for database languages](https://techcrunch.com/2022/05/03/prisma-raises-40m-for-its/)
-- [Backed by Tiger Global and Sequoia India, Toplyne helps product-led growth teams tackle user conversion](https://techcrunch.com/2022/05/03/backed-by-tiger-global-and-sequoia-india-toplyne-helps-product-led-growth-teams-tackle-user-conversion/)
+- [Crypto Bahamas signals stronger ties between old and new worlds of finance](https://techcrunch.com/2022/05/03/crypto-bahamas-signals-stronger-ties-between-old-and-new-worlds-of-finance/)
+- [Amazon Freevee increases its slate of originals, establishes itself as a competitor to watch](https://techcrunch.com/2022/05/03/amazon-freevee-increases-its-slate-of-originals-establishes-itself-as-a-competitor-to-watch/)
+- [Tubi reports record growth, expands original content and linear channel offerings](https://techcrunch.com/2022/05/03/tubi-reports-record-growth-expands-original-content-and-linear-channel-offerings/)
+- [Upgrade gives hair stylists tools to market, sell custom wigs from one marketplace](https://techcrunch.com/2022/05/03/upgrade-gives-hair-stylists-tools-to-market-sell-custom-wigs-from-one-marketplace/)
+- [Kintent aims to automate away enterprise compliance tasks](https://techcrunch.com/2022/05/03/kintent-aims-to-automate-away-enterprise-compliance-tasks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
