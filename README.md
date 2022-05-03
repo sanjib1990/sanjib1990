@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Banking giant Truist acquires fintech startup Long Game in effort to reach younger demographic](https://techcrunch.com/2022/05/03/banking-giant-truist-acquires-fintech-startup-long-game-in-effort-to-reach-younger-demographic/)
-- [Hetz Ventures closes third fund of $123M to focus on DevOps tools, Open Source, Fintech and Cyber](https://techcrunch.com/2022/05/03/hetz-ventures-closes-third-fund-of-123m-to-focus-on-devops-tools-open-source-fintech-and-cyber/)
-- [Cheq hopes an easy-to-use app for stablecoins will appeal to inflation-wracked countries](https://techcrunch.com/2022/05/03/cheq-hopes-an-easy-to-use-app-for-stablecoins-will-appeal-to-inflation-wracked-countries/)
-- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html/)
-- [Pangea to unlock diaspora remittances as funding source for African startups](https://techcrunch.com/2022/05/03/pangea-to-unlock-diaspora-inflows-as-funding-source-for-african-startups/)
+- [Point closes on $115M to give homeowners a way to cash out on equity in their homes](https://techcrunch.com/2022/05/03/point-a-company-co-founded-by-a16z-gp-alex-rampell-closes-on-115m-to-give-homeowners-a-way-to-cash-out-on-equity-in-their-homes/)
+- [Spotify becomes first music streamer to launch on Roblox](https://techcrunch.com/2022/05/03/spotify-becomes-first-music-streamer-to-launch-on-roblox/)
+- [On This Day In Space: May 3, 1986: Delta rocket fails to launch GOES-G weather satellite](https://www.space.com/39251-on-this-day-in-space.html/)
+- [Kevin raises $65M as it charges ahead on account-to-account payments over point-of-sale terminals](https://techcrunch.com/2022/05/03/kevin-raises-65m-as-it-charges-ahead-on-account-to-account-payments-over-point-of-sale-terminals/)
+- [Anycubic Photon M3 Plus review](https://www.space.com/anycubic-photon-m3-plus-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
