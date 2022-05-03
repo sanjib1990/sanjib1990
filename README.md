@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Mooji is 3D printing plant-based meat](https://techcrunch.com/2022/05/03/mooji-is-3d-printing-plant-based-meat/)
-- [Flyp wants to give power resellers enterprise-grade ecommerce tooling](https://techcrunch.com/2022/05/03/flyp-wants-to-give-power-resellers-enterprise-grade-ecommerce-tooling/)
-- [Crypto Bahamas signals stronger ties between old and new worlds of finance](https://techcrunch.com/2022/05/03/crypto-bahamas-signals-stronger-ties-between-old-and-new-worlds-of-finance/)
-- [Amazon Freevee increases its slate of originals, establishes itself as a competitor to watch](https://techcrunch.com/2022/05/03/amazon-freevee-increases-its-slate-of-originals-establishes-itself-as-a-competitor-to-watch/)
-- [Tubi reports record growth, expands original content and linear channel offerings](https://techcrunch.com/2022/05/03/tubi-reports-record-growth-expands-original-content-and-linear-channel-offerings/)
+- [Syndicate raises “informal” round from over 50 partners to bring DAOs to the masses](https://techcrunch.com/2022/05/03/syndicate-raises-informal-round-50-partners-daos-investment-clubs-carta-circle-opensea-uniswap-a16z/)
+- [The universe could stop expanding &#39;remarkably soon&#39;, study suggests](https://www.space.com/end-cosmic-expansion/)
+- [How Graphite turned an internal side project into a $20M Series A](https://techcrunch.com/2022/05/03/how-graphite-turned-a-side-project-into-a-20m-series-a/)
+- [Best Star Wars books 2022: Novels, art books, graphic novels &amp; more](https://www.space.com/best-star-wars-books/)
+- [Meade telescopes and binocular deals: discounts &amp; what&#39;s in stock](https://www.space.com/meade-deals-telescopes-binoculars/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
