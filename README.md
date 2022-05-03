@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Instagram is testing a full-screen home feed](https://techcrunch.com/2022/05/03/instagram-test-full-screen-video-home-feed/)
-- [Lumos wants to build an app store for the enterprise](https://techcrunch.com/2022/05/03/lumos-wants-to-build-an-app-store-for-the-enterprise/)
-- [Announcing the agenda for TechCrunch Sessions: Climate](https://techcrunch.com/2022/05/03/announcing-the-agenda-for-techcrunch-sessions-climate/)
-- [This founder is dedicated to making a mobile game without giving in to intrusive ads](https://techcrunch.com/2022/05/03/this-founder-is-dedicated-to-making-a-mobile-game-without-giving-in-to-intrusive-ads/)
-- [10 cosmic mysteries the Large Hadron Collider could unravel](https://www.space.com/large-hadron-collider-biggest-mysteries-universe/)
+- [Save $95 on the Elegoo Saturn 3D printer at Amazon](https://www.space.com/save-95-dollars-on-elegoo-saturn-3d-printer-at-amazon/)
+- [A total lunar eclipse will turn the moon red the night of May 15](https://www.space.com/total-lunar-eclipse-blood-moon-coming-may-2022/)
+- [Sun fires off huge solar flare from new sunspot coming into view](https://www.space.com/sun-x-class-flare-first-of-may-2022-video/)
+- [Oldest evidence of tectonic plates unearthed, sealed in ancient crystals](https://www.space.com/oldest-evidence-tectonic-plates/)
+- [New Russian rocket launches military satellite on 1st mission](https://www.space.com/lightweight-angara-russian-rocket-first-satellite-launch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
