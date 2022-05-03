@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Banking giant Truist acquires fintech startup Long Game in effort to reach younger demographic](https://techcrunch.com/2022/05/03/banking-giant-truist-acquires-fintech-startup-long-game-in-effort-to-reach-younger-demographic/)
+- [Hetz Ventures closes third fund of $123M to focus on DevOps tools, Open Source, Fintech and Cyber](https://techcrunch.com/2022/05/03/hetz-ventures-closes-third-fund-of-123m-to-focus-on-devops-tools-open-source-fintech-and-cyber/)
+- [Cheq hopes an easy-to-use app for stablecoins will appeal to inflation-wracked countries](https://techcrunch.com/2022/05/03/cheq-hopes-an-easy-to-use-app-for-stablecoins-will-appeal-to-inflation-wracked-countries/)
 - [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html/)
-- [Pangea to unlock diaspora inflows as funding source for African startups](https://techcrunch.com/2022/05/03/pangea-to-unlock-diaspora-inflows-as-funding-source-for-african-startups/)
-- [Best VR headsets 2022: Oculus Quest 2, Valve Index, PSVR, and more...](https://www.space.com/best-vr-headsets/)
-- [Traceable AI nabs $60M to secure app APIs using machine learning](https://techcrunch.com/2022/05/02/2307940/)
-- [Andreessen Horowitz plans $500 million investment in Indian startups](https://techcrunch.com/2022/05/02/andreessen-horowitz-india/)
+- [Pangea to unlock diaspora remittances as funding source for African startups](https://techcrunch.com/2022/05/03/pangea-to-unlock-diaspora-inflows-as-funding-source-for-african-startups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
