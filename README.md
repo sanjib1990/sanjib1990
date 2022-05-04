@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [USPS to deploy new postage stamp for James Webb Space Telescope](https://www.space.com/usps-james-webb-space-telescope-stamp-announced/)
+- [New NASA video celebrates AANHPI Heritage Month with food and culture on the ISS](https://www.space.com/nasa-food-culture-international-space-station-video/)
+- [Cow burps measured from space, revealing contribution to climate change](https://www.space.com/cow-burps-methane-emissions-climate-change/)
+- [Luke Skywalker&#39;s Landspeeder joins the Ultimate Collector Series and is available from Lego](https://www.space.com/lego-ucs-star-wars-day-exclusive-landspeeder/)
 - [Amazon pledges $20 billion in exports from India by 2025](https://techcrunch.com/2022/05/04/amazon-pledges-20-billion-in-exports-from-india-by-2025/)
-- [China’s tech giants are having FOMO on NFTs](https://techcrunch.com/2022/05/04/china-tech-giants-nft-fomo/)
-- [Google touts more Workspace controls for users in Europe](https://techcrunch.com/2022/05/04/google-workspace-eu-data-transfers-controls/)
-- [Folk is launching its flexible CRM product](https://techcrunch.com/2022/05/04/folk-is-launching-its-flexible-crm-product/)
-- [Getlife wants to democratize life insurance in Europe](https://techcrunch.com/2022/05/04/getlife-wants-to-democratize-life-insurance-in-europe/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
