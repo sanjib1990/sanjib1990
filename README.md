@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: European startup studio eFounders unveils its next-generation CRM tool](https://techcrunch.com/2022/05/04/daily-crunch-european-startup-studio-efounders-unveils-its-next-generation-crm-tool/)
 - [AutoRabit, which develops tooling for Salesforce CRM devs, lands $26M](https://techcrunch.com/2022/05/04/autorabit-which-develops-tooling-for-salesforce-crm-devs-lands-26m/)
 - [Dear Sophie: Any USCIS updates on automatic work extensions and premium processing?](https://techcrunch.com/2022/05/04/dear-sophie-any-uscis-updates-on-automatic-work-extensions-and-premium-processing/)
 - [Formula 1’s Fernando Alonso launches first e-bike at Miami Grand Prix](https://techcrunch.com/2022/05/04/formula-1s-fernando-alonso-launches-first-e-bike-at-miami-grand-prix/)
 - [Could we build the Millennium Falcon from &#39;Star Wars&#39;?](https://www.space.com/40684-could-we-build-star-wars-millennium-falcon.html/)
-- [From partners to competitors: What Stripe’s latest move means for Plaid](https://techcrunch.com/2022/05/04/from-partners-to-competitors-what-stripes-latest-move-means-for-plaid/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
