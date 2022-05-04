@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [From partners to competitors: what Stripe’s latest move means for Plaid](https://techcrunch.com/2022/05/04/from-partners-to-competitors-what-stripes-latest-move-means-for-plaid/)
+- [Match Group Google Play Store complaint triggers Dutch antitrust probe](https://techcrunch.com/2022/05/04/google-play-match-group-antitrust-complaint/)
+- [Instagram test makes it easier to get product and service quotes from businesses](https://techcrunch.com/2022/05/04/instagrams-get-product-service-quotes-businesses/)
 - [Cosmonaut assumes command of ISS ahead of Thursday morning departure of SpaceX&#39;s Crew-3 mission](https://www.space.com/iss-change-of-command-spacex-crew3-departure/)
 - [Pinterest quietly launches a livestreaming app for video creators](https://techcrunch.com/2022/05/04/pinterest-quietly-launches-a-live-streaming-app-for-video-creators/)
-- [Make human services more accessible without losing the ‘human’ touch](https://techcrunch.com/2022/05/04/make-human-services-more-accessible-without-losing-the-human-touch/)
-- [As Dropbox heads into earnings, it desperately needs a win](https://techcrunch.com/2022/05/04/as-dropbox-heads-into-earnings-it-desperately-needs-a-win/)
-- [North Korea launches yet another ballistic missile test: reports](https://www.space.com/north-korea-missile-test-may-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
