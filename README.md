@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fundid’s injects first funding into providing capital, credit for small businesses](https://techcrunch.com/2022/05/04/fundid-capital-credit-small-businesses/)
+- [Amberdata raises $30M to chase the “unlimited opportunity” of bringing traditional finance into web3](https://techcrunch.com/2022/05/04/amberdata-raises-30m-to-chase-the-unlimited-opportunity-to-bring-traditional-finance-into-web3/)
+- [Lego Star Wars deals 2022: Savings on vehicles, ships, helmets and more](https://www.space.com/lego-star-wars-deals/)
+- [On This Day In Space: May 4, 2011: 1st official Star Wars Day celebration](https://www.space.com/39251-on-this-day-in-space.html/)
 - [Norebase raises $1M to allow companies start, scale, and operate in any African country](https://techcrunch.com/2022/05/04/norebase-raises-1m-to-allow-companies-start-scale-and-operate-in-any-african-country/)
-- [Mosyle rides its device management software to the bank, raising $196M](https://techcrunch.com/2022/05/04/mosyle-rides-its-device-management-software-to-the-bank-raising-196m/)
-- [Meta faces years of tougher antitrust oversight in Germany](https://techcrunch.com/2022/05/04/meta-germany-fco-antitrust/)
-- [These epic Lego Star Wars sets will get you double VIP points for Star Wars Day](https://www.space.com/epic-star-wars-day-2022-double-vip-points-star-sets/)
-- [Star Wars returns to Fortnite for Star Wars Day 2022!](https://www.space.com/star-wars-day-fortnite-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
