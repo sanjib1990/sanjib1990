@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cosmonaut assumes command of ISS ahead of Thursday morning departure of SpaceX&#39;s Crew-3 mission](https://www.space.com/iss-change-of-command-spacex-crew3-departure/)
+- [Pinterest quietly launches a livestreaming app for video creators](https://techcrunch.com/2022/05/04/pinterest-quietly-launches-a-live-streaming-app-for-video-creators/)
+- [Make human services more accessible without losing the ‘human’ touch](https://techcrunch.com/2022/05/04/make-human-services-more-accessible-without-losing-the-human-touch/)
 - [As Dropbox heads into earnings, it desperately needs a win](https://techcrunch.com/2022/05/04/as-dropbox-heads-into-earnings-it-desperately-needs-a-win/)
 - [North Korea launches yet another ballistic missile test: reports](https://www.space.com/north-korea-missile-test-may-2022/)
-- [Porsche joins $400M bet on lithium-silicon batteries to juice up future EVs](https://techcrunch.com/2022/05/04/porsche-joins-400m-bet-on-lithium-silicon-batteries-for-future-electric-vehicles/)
-- [A second Apple Store files to hold a union election](https://techcrunch.com/2022/05/04/apple-store-maryland-union-election/)
-- [8 ways the tech industry can step up to protect abortion rights](https://techcrunch.com/2022/05/04/how-tech-can-protect-abortion-rights-after-roe-v-wade-decision/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
