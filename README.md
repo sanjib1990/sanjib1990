@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [USPS to deploy new postage stamp for James Webb Space Telescope](https://www.space.com/usps-james-webb-space-telescope-stamp-announced/)
-- [New NASA video celebrates AANHPI Heritage Month with food and culture on the ISS](https://www.space.com/nasa-food-culture-international-space-station-video/)
-- [Cow burps measured from space, revealing contribution to climate change](https://www.space.com/cow-burps-methane-emissions-climate-change/)
-- [Luke Skywalker&#39;s Landspeeder joins the Ultimate Collector Series and is available from Lego](https://www.space.com/lego-ucs-star-wars-day-exclusive-landspeeder/)
-- [Amazon pledges $20 billion in exports from India by 2025](https://techcrunch.com/2022/05/04/amazon-pledges-20-billion-in-exports-from-india-by-2025/)
+- [Norebase raises $1M to allow companies start, scale, and operate in any African country](https://techcrunch.com/2022/05/04/norebase-raises-1m-to-allow-companies-start-scale-and-operate-in-any-african-country/)
+- [Mosyle rides its device management software to the bank, raising $196M](https://techcrunch.com/2022/05/04/mosyle-rides-its-device-management-software-to-the-bank-raising-196m/)
+- [Meta faces years of tougher antitrust oversight in Germany](https://techcrunch.com/2022/05/04/meta-germany-fco-antitrust/)
+- [These epic Lego Star Wars sets will get you double VIP points for Star Wars Day](https://www.space.com/epic-star-wars-day-2022-double-vip-points-star-sets/)
+- [Star Wars returns to Fortnite for Star Wars Day 2022!](https://www.space.com/star-wars-day-fortnite-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
