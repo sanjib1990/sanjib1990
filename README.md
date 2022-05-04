@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Lego Star Wars sets 2022](https://www.space.com/best-lego-star-wars-sets/)
-- [Mandates disappear, but mask detection tech has left its mark](https://techcrunch.com/2022/05/04/the-demand-for-mask-detection-tech-is-waning-but-the-effects-could-be-long-lasting/)
-- [Masa Finance gets $3.5M pre-seed to build its decentralized credit protocol](https://techcrunch.com/2022/05/04/masa-finance-gets-3-5m-pre-seed-to-build-its-decentralized-credit-protocol/)
-- [Fundid injects first funding into providing capital, credit for small businesses](https://techcrunch.com/2022/05/04/fundid-capital-credit-small-businesses/)
-- [Amberdata raises $30M to chase the “unlimited opportunity” of bringing traditional finance into web3](https://techcrunch.com/2022/05/04/amberdata-raises-30m-to-chase-the-unlimited-opportunity-to-bring-traditional-finance-into-web3/)
+- [Here’s how far startup valuations fell in Q1 2022](https://techcrunch.com/2022/05/04/heres-how-far-startup-valuations-fell-in-q1-2022/)
+- [GitHub will require all users who contribute code to enable two-factor authentication by the end of 2023](https://techcrunch.com/2022/05/04/github-will-require-all-users-who-contribute-code-to-enable-two-factor-authentication-by-the-end-of-2023/)
+- [Wordle brought “tens of millions” of new users to the New York Times](https://techcrunch.com/2022/05/04/wordle-new-york-times-user-growth/)
+- [Starbucks to launch NFTs this year offering access to ‘unique experiences and benefits’](https://techcrunch.com/2022/05/04/starbucks-to-launch-nfts-this-year-offering-access-to-unique-experiences-and-benefits/)
+- [Robinhood to let users lend out their shares in its attempt to diversify revenue](https://techcrunch.com/2022/05/04/robinhood-rolls-out-stock-lending-margin-diversify-revenue/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
