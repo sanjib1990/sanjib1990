@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [As Dropbox heads into earnings, it desperately needs a win](https://techcrunch.com/2022/05/04/as-dropbox-heads-into-earnings-it-desperately-needs-a-win/)
+- [North Korea launches yet another ballistic missile test: reports](https://www.space.com/north-korea-missile-test-may-2022/)
+- [Porsche joins $400M bet on lithium-silicon batteries to juice up future EVs](https://techcrunch.com/2022/05/04/porsche-joins-400m-bet-on-lithium-silicon-batteries-for-future-electric-vehicles/)
+- [A second Apple Store files to hold a union election](https://techcrunch.com/2022/05/04/apple-store-maryland-union-election/)
 - [8 ways the tech industry can step up to protect abortion rights](https://techcrunch.com/2022/05/04/how-tech-can-protect-abortion-rights-after-roe-v-wade-decision/)
-- [For Star Wars Day, Disney+ releases a new ‘Obi-Wan Kenobi’ trailer](https://techcrunch.com/2022/05/04/for-star-wars-day-disney-releases-a-new-obi-wan-kenobi-trailer/)
-- [Swarming drones autonomously navigate a dense forest &lpar;and chase a human&rpar;](https://techcrunch.com/2022/05/04/swarming-drones-autonomously-navigate-a-dense-forest-and-chase-a-human/)
-- [Watch the new &#39;Obi-Wan Kenobi&#39; trailer for Star Wars Day this May the Fourth](https://www.space.com/obi-wan-kenobi-star-wars-day-trailer-disney-plus/)
-- [Legendary car designer and Stellantis Design Chief Ralph Gilles to speak at TechCrunch Sessions: Mobility](https://techcrunch.com/2022/05/04/legendary-car-designer-and-stellantis-design-chief-ralph-gilles-to-speak-at-techcrunch-sessions-mobility/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
