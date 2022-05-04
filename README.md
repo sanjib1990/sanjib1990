@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Here’s how far startup valuations fell in Q1 2022](https://techcrunch.com/2022/05/04/heres-how-far-startup-valuations-fell-in-q1-2022/)
-- [GitHub will require all users who contribute code to enable two-factor authentication by the end of 2023](https://techcrunch.com/2022/05/04/github-will-require-all-users-who-contribute-code-to-enable-two-factor-authentication-by-the-end-of-2023/)
-- [Wordle brought “tens of millions” of new users to the New York Times](https://techcrunch.com/2022/05/04/wordle-new-york-times-user-growth/)
-- [Starbucks to launch NFTs this year offering access to ‘unique experiences and benefits’](https://techcrunch.com/2022/05/04/starbucks-to-launch-nfts-this-year-offering-access-to-unique-experiences-and-benefits/)
-- [Robinhood to let users lend out their shares in its attempt to diversify revenue](https://techcrunch.com/2022/05/04/robinhood-rolls-out-stock-lending-margin-diversify-revenue/)
+- [Psychedelics startups are on a long journey to consumer markets, but these 5 VCs are taking the ride](https://techcrunch.com/2022/05/04/psychedelics-startups-are-on-a-long-journey-to-consumer-markets-but-these-5-vcs-are-taking-the-ride/)
+- [TikTok introduces its first ad product to offer a revenue share with creators](https://techcrunch.com/2022/05/04/tiktok-introduces-its-first-ad-product-to-offer-a-revenue-share-with-creators/)
+- [A major Patreon survey shows that most creators don’t want crypto payments](https://techcrunch.com/2022/05/04/patreon-creator-census-crypto/)
+- [UK parliament invites Twitter-lovin’ Musk to talk ‘authenticating all humans’](https://techcrunch.com/2022/05/04/elon-musk-uk-parliament-invite/)
+- [Google Cloud and SAP launch a native integration between Workspace and S/4HANA Cloud](https://techcrunch.com/2022/05/04/google-cloud-and-sap-launch-a-native-integration-between-workspace-and-s-4hana-cloud/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
