@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [2 big asteroids whiz past Earth in the next week. No, they definitely won&#39;t hit us.](https://www.space.com/asteroid-flybys-earth-no-threat-may-2022/)
-- [Fleksy switches to a SaaS model for its custom keyboard tech](https://techcrunch.com/2022/05/04/fleksy-sdk-saas/)
-- [Only 72 hours left to save $200 on passes to TC Sessions: Climate 2022](https://techcrunch.com/2022/05/04/only-3-days-left-to-save-200-on-passes-to-tc-sessions-climate-2022/)
-- [Xbox mobile app rolls out new stories feature for sharing game clips, screenshots and more](https://techcrunch.com/2022/05/04/xbox-mobile-app-stories-sharing-game-clips-screenshots/)
-- [Psychedelics startups are on a long journey to consumer markets, but these 5 VCs are taking the ride](https://techcrunch.com/2022/05/04/psychedelics-startups-are-on-a-long-journey-to-consumer-markets-but-these-5-vcs-are-taking-the-ride/)
+- [8 ways the tech industry can step up to protect abortion rights](https://techcrunch.com/2022/05/04/how-tech-can-protect-abortion-rights-after-roe-v-wade-decision/)
+- [For Star Wars Day, Disney+ releases a new ‘Obi-Wan Kenobi’ trailer](https://techcrunch.com/2022/05/04/for-star-wars-day-disney-releases-a-new-obi-wan-kenobi-trailer/)
+- [Swarming drones autonomously navigate a dense forest &lpar;and chase a human&rpar;](https://techcrunch.com/2022/05/04/swarming-drones-autonomously-navigate-a-dense-forest-and-chase-a-human/)
+- [Watch the new &#39;Obi-Wan Kenobi&#39; trailer for Star Wars Day this May the Fourth](https://www.space.com/obi-wan-kenobi-star-wars-day-trailer-disney-plus/)
+- [Legendary car designer and Stellantis Design Chief Ralph Gilles to speak at TechCrunch Sessions: Mobility](https://techcrunch.com/2022/05/04/legendary-car-designer-and-stellantis-design-chief-ralph-gilles-to-speak-at-techcrunch-sessions-mobility/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
