@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [2 big asteroids whiz past Earth in the next week. No, they definitely won&#39;t hit us.](https://www.space.com/asteroid-flybys-earth-no-threat-may-2022/)
+- [Fleksy switches to a SaaS model for its custom keyboard tech](https://techcrunch.com/2022/05/04/fleksy-sdk-saas/)
+- [Only 72 hours left to save $200 on passes to TC Sessions: Climate 2022](https://techcrunch.com/2022/05/04/only-3-days-left-to-save-200-on-passes-to-tc-sessions-climate-2022/)
+- [Xbox mobile app rolls out new stories feature for sharing game clips, screenshots and more](https://techcrunch.com/2022/05/04/xbox-mobile-app-stories-sharing-game-clips-screenshots/)
 - [Psychedelics startups are on a long journey to consumer markets, but these 5 VCs are taking the ride](https://techcrunch.com/2022/05/04/psychedelics-startups-are-on-a-long-journey-to-consumer-markets-but-these-5-vcs-are-taking-the-ride/)
-- [TikTok introduces its first ad product to offer a revenue share with creators](https://techcrunch.com/2022/05/04/tiktok-introduces-its-first-ad-product-to-offer-a-revenue-share-with-creators/)
-- [A major Patreon survey shows that most creators don’t want crypto payments](https://techcrunch.com/2022/05/04/patreon-creator-census-crypto/)
-- [UK parliament invites Twitter-lovin’ Musk to talk ‘authenticating all humans’](https://techcrunch.com/2022/05/04/elon-musk-uk-parliament-invite/)
-- [Google Cloud and SAP launch a native integration between Workspace and S/4HANA Cloud](https://techcrunch.com/2022/05/04/google-cloud-and-sap-launch-a-native-integration-between-workspace-and-s-4hana-cloud/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
