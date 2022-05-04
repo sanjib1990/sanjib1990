@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SLAMcore just raised $16M to help robots get around](https://techcrunch.com/2022/05/03/slamcore-just-raised-16m-to-help-robots-get-around/)
-- [Your MVP is neither minimal, viable nor a product](https://techcrunch.com/2022/05/03/your-mvp-is-not/)
-- [Daily Crunch: Startup that transforms real-world items into NFTs raises $6.9M seed round](https://techcrunch.com/2022/05/03/daily-crunch-startup-that-transforms-real-world-items-into-nfts-raises-6-9m-seed-round/)
-- [Old Russian rocket motor breaks up in orbit, generating new cloud of space debris](https://www.space.com/russian-rocket-motor-breakup-space-debris/)
-- [SpaceX&#39;s Crew-3 astronaut mission will return to Earth early Friday morning](https://www.space.com/spacex-crew3-mission-return-to-earth-friday/)
+- [Amazon pledges $20 billion in exports from India by 2025](https://techcrunch.com/2022/05/04/amazon-pledges-20-billion-in-exports-from-india-by-2025/)
+- [China’s tech giants are having FOMO on NFTs](https://techcrunch.com/2022/05/04/china-tech-giants-nft-fomo/)
+- [Google touts more Workspace controls for users in Europe](https://techcrunch.com/2022/05/04/google-workspace-eu-data-transfers-controls/)
+- [Folk is launching its flexible CRM product](https://techcrunch.com/2022/05/04/folk-is-launching-its-flexible-crm-product/)
+- [Getlife wants to democratize life insurance in Europe](https://techcrunch.com/2022/05/04/getlife-wants-to-democratize-life-insurance-in-europe/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
