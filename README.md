@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The 1st solar eclipse of 2022 is stunning in these satellite views](https://www.space.com/satellites-solar-eclipse-2022-space/)
-- [Facebook is shutting down its podcast service, discontinuing other audio products](https://techcrunch.com/2022/05/05/facebook-shutting-down-podcast-service-discontinuing-audio-products/)
-- [Smart dumbbells? Sure, why not?](https://techcrunch.com/2022/05/05/smart-dumbbells-sure-why-not/)
-- [Pitch Deck Teardown: Momentum’s $5M seed pitch deck](https://techcrunch.com/2022/05/05/sample-seed-pitch-deck-momentum/)
-- [Workrise fixes API that spilled users’ personal information](https://techcrunch.com/2022/05/05/workrise-api-personal-information/)
+- [Examining the Heart of Webb: The Final Phase of Commissioning](https://blogs.nasa.gov/webb/2022/05/05/examining-the-heart-of-webb-the-final-phase-of-commissioning/)
+- [Dark Energy Camera spies &#39;galactic ballet&#39; of galaxies in stunning space photo](https://www.space.com/dark-energy-camera-galaxies-ballet-photo/)
+- [SpaceX astronaut flights for NASA: Crew-3 landing updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates/)
+- [Watch SpaceX&#39;s Crew-3 astronauts return home from International Space Station early Friday](https://www.space.com/spacex-crew-3-astronauts-splashdown-webcast/)
+- [Ukraine invasion&#39;s impacts on space exploration: Live updates](https://www.space.com/news/live/russia-ukraine-invasion-space-impacts-updates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
