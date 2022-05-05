@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Alan raises another $193 million for its medical one-stop shop startup](https://techcrunch.com/2022/05/04/alan-raises-another-193-million-for-its-medical-one-stop-shop-startup/)
+- [Binance gets regulatory nod in France, paving the way for Europe push](https://techcrunch.com/2022/05/04/binance-france-regulatory-approval-europe/)
+- [Sidekick Health grabs $55M for digital first care programs](https://techcrunch.com/2022/05/04/sidekick-health-series-b/)
+- [SpaceX&#39;s Crew-3 astronauts depart space station for trip home](https://www.space.com/spacex-crew3-astronauts-depart-space-station/)
 - [Cameo conducts layoffs a year after hitting unicorn status](https://techcrunch.com/2022/05/04/cameo-layoff-unicorn/)
-- [Hikvision shares plummet after report that the Biden administration is considering more sanctions](https://techcrunch.com/2022/05/04/hikvision-shares-plummet-after-report-that-the-biden-administration-is-considering-more-sanctions/)
-- [Bull City Venture Partners is the opposite of flashy — and its backers approve](https://techcrunch.com/2022/05/04/bull-city-venture-partners-is-the-opposite-of-flashy-and-its-backers-approve/)
-- [Twitter tries to woo anxious advertisers with a slate of premium video content at the NewFronts](https://techcrunch.com/2022/05/04/twitter-tries-to-woo-anxious-advertisers-with-a-slate-of-premium-video-content-at-the-newfronts/)
-- [Aurora unveils fleet management platform to optimize autonomous operations](https://techcrunch.com/2022/05/04/aurora-unveils-fleet-management-platform-to-optimize-autonomous-operations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
