@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hikvision shares plummet after report that the Biden administration is considering more sanctions](https://techcrunch.com/2022/05/04/hikvision-shares-plummet-after-report-that-the-biden-administration-is-considering-more-sanctions/)
 - [Bull City Venture Partners is the opposite of flashy — and its backers approve](https://techcrunch.com/2022/05/04/bull-city-venture-partners-is-the-opposite-of-flashy-and-its-backers-approve/)
 - [Twitter tries to woo anxious advertisers with a slate of premium video content at the NewFronts](https://techcrunch.com/2022/05/04/twitter-tries-to-woo-anxious-advertisers-with-a-slate-of-premium-video-content-at-the-newfronts/)
 - [Aurora unveils fleet management platform to optimize autonomous operations](https://techcrunch.com/2022/05/04/aurora-unveils-fleet-management-platform-to-optimize-autonomous-operations/)
 - [The Eta Aquarid meteor shower is the legacy of Halley&#39;s Comet in May&#39;s night sky](https://www.space.com/halleys-comet-eta-aquarids-meteor-shower-2022/)
-- [Daily Crunch: European startup studio eFounders unveils its next-generation CRM tool](https://techcrunch.com/2022/05/04/daily-crunch-european-startup-studio-efounders-unveils-its-next-generation-crm-tool/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
