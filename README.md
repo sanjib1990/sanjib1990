@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Larry Ellison leads investor group chipping in $7.1B toward Musk’s Twitter buyout](https://techcrunch.com/2022/05/05/daily-crunch-larry-ellison-leads-investor-group-chipping-in-7-1b-toward-musks-twitter-buyout/)
+- [Lithium-ion recycler Li-Cycle lands $200 million to power future EVs](https://techcrunch.com/2022/05/05/lithium-ion-li-cycle-200-million-future-ev-batteries/)
 - [Lucid is raising prices on its luxury Air EV by as much as 13%](https://techcrunch.com/2022/05/05/lucid-is-raising-prices-on-its-luxury-air-ev-by-as-much-as-13/)
 - [NASA will try again to fuel Artemis 1 moon rocket in June as launch slips to August](https://www.space.com/nasa-artemis1-moon-rocket-fueling-june/)
 - [Peloton reportedly looks to sell up to a 20% stake amid struggles](https://techcrunch.com/2022/05/05/peloton-reportedly-looks-to-sell-up-to-a-20-stake-amid-struggles/)
-- [Fortnite is back on iOS through Xbox Cloud Gaming](https://techcrunch.com/2022/05/05/play-fortnite-on-iphone-ipad-ios/)
-- [Amazon Labor Union president tells Senate that workers’ rights aren’t a ‘Democrat or Republican’ issue](https://techcrunch.com/2022/05/05/amazon-labor-senate-christian-smalls-bernie-sanders/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
