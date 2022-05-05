@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [this is the end &lpar;last Python episode on YouTube&rpar;](https://www.youtube.com/watch?v=rW5sCgSSpI8)
-- [S3:E8: Finding Expertise Everywhere with Prof. Amah Edoh](https://www.youtube.com/watch?v=ezy8j24Uric)
-- [Celebrating OCW&#39;s &quot;NextGen&quot; Platform with NPR&#39;s Anya Kamenetz](https://www.youtube.com/watch?v=ZyJIW569rww)
-- [we’re out of IP Addresses….but this saved us &lpar;Private IP Addresses&rpar;](https://www.youtube.com/watch?v=8bhvn9tQk8o)
-- [[“This”, “is”, “a”, “PYTHON”, “LIST”] // EP 7](https://www.youtube.com/watch?v=1KLgcBcWCsE)
+- [How WiFi Works - Computerphile](https://www.youtube.com/watch?v=vvKbMueRzrI)
+- [Psychic Signatures &lpar;Java Vulnerability&rpar; - Computerphile](https://www.youtube.com/watch?v=502iGDxuiRk)
+- [Square &amp; Multiply Algorithm - Computerphile](https://www.youtube.com/watch?v=cbGB__V8MNk)
+- [Automating Boston Dynamics Spot Robot - Computerphile](https://www.youtube.com/watch?v=cQhsblLVjEo)
+- [High Level Languages &amp; the IBM 360 Series - Computerphile](https://www.youtube.com/watch?v=xTnK6f_ZL1E)
 <!-- YOUTUBE:END -->
 
 ---
