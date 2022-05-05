@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Examining the Heart of Webb: The Final Phase of Commissioning](https://blogs.nasa.gov/webb/2022/05/05/examining-the-heart-of-webb-the-final-phase-of-commissioning/)
-- [Dark Energy Camera spies &#39;galactic ballet&#39; of galaxies in stunning space photo](https://www.space.com/dark-energy-camera-galaxies-ballet-photo/)
-- [SpaceX astronaut flights for NASA: Crew-3 landing updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates/)
-- [Watch SpaceX&#39;s Crew-3 astronauts return home from International Space Station early Friday](https://www.space.com/spacex-crew-3-astronauts-splashdown-webcast/)
-- [Ukraine invasion&#39;s impacts on space exploration: Live updates](https://www.space.com/news/live/russia-ukraine-invasion-space-impacts-updates/)
+- [‘Climate entrepreneurs deserve fast capital’: Enduring Planet unwraps a new fintech platform](https://techcrunch.com/2022/05/05/enduring-planet-fast-financing-climate-startups/)
+- [Unusual Ventures just closed a $485M fund by promising hands-on &lpar;full-time&rpar; help](https://techcrunch.com/2022/05/05/unusualvc/)
+- [Oops, I think they broke the blockchain](https://techcrunch.com/2022/05/05/oops-they-broke-the-blockchain-yuga-labs-nft-sale-chain-reaction/)
+- [Crypto gaming is growing, but can it reach people outside of the web3 world?](https://techcrunch.com/2022/05/05/crypto-gaming-is-growing-but-can-it-reach-people-outside-of-the-web3-world/)
+- [Budgeting and planning for your first digital product](https://techcrunch.com/2022/05/05/budgeting-and-planning-for-your-first-digital-product/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
