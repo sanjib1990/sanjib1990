@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [YouTube Go is shutting down in August](https://techcrunch.com/2022/05/05/youtube-go-shutting-down-august/)
+- [This open source tool used by Google, Meta and MIT is helping rethink knowledge management](https://techcrunch.com/2022/05/05/this-open-source-tool-used-by-google-meta-and-mit-is-helping-rethink-knowledge-management/)
+- [Former astronaut Scott Kelly launches 2nd NFT, with proceeds again going to Ukraine](https://www.space.com/astronaut-scott-kelly-second-nft-space-artwork/)
 - [“Desist from facilitating trade in crypto assets” Uganda warns banks, fintechs](https://techcrunch.com/2022/05/05/desist-from-facilitating-trade-in-crypto-assets-uganda-warns-banks-fintechs/)
 - [China’s gaming giant NetEase opens first US studio in Austin](https://techcrunch.com/2022/05/05/netease-austin-us-first-studio/)
-- [The BNPL crackdown hasn’t crushed Walnut and its latest $110M Series A](https://techcrunch.com/2022/05/05/walnut-buy-now-pay-later-health-series-a/)
-- [Shopify acquires shipping logistics startup Deliverr for $2.1B](https://techcrunch.com/2022/05/05/shopify-acquires-shipping-logistics-startup-deliverr-for-2-1b/)
-- [IMDb launches new interactive gaming app ‘What to Watch’ on Amazon Fire TV](https://techcrunch.com/2022/05/05/imdb-launches-new-interactive-gaming-app-what-to-watch-on-amazon-fire-tv/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
