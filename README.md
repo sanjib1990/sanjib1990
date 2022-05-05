@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [100+ Computer Science Concepts Explained](https://www.youtube.com/watch?v=-uleG_Vecis)
+- [Kubernetes Security Best Practices you need to know | THE Guide for securing your K8s cluster!](https://www.youtube.com/watch?v=oBf5lrmquYI)
 - [How WiFi Works - Computerphile](https://www.youtube.com/watch?v=vvKbMueRzrI)
 - [this is the end &lpar;last Python episode on YouTube&rpar;](https://www.youtube.com/watch?v=rW5sCgSSpI8)
-- [Psychic Signatures &lpar;Java Vulnerability&rpar; - Computerphile](https://www.youtube.com/watch?v=502iGDxuiRk)
-- [we’re out of IP Addresses….but this saved us &lpar;Private IP Addresses&rpar;](https://www.youtube.com/watch?v=8bhvn9tQk8o)
-- [[“This”, “is”, “a”, “PYTHON”, “LIST”] // EP 7](https://www.youtube.com/watch?v=1KLgcBcWCsE)
+- [Perl in 100 Seconds](https://www.youtube.com/watch?v=74_7LrRe5DI)
 <!-- YOUTUBE:END -->
 
 ---
