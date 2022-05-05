@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta says it will now pay creators for original content in Facebook Reels](https://techcrunch.com/2022/05/05/meta-says-it-will-now-pay-creators-for-original-content-in-facebook-reels/)
-- [Meet Valia, an early-stage VC firm backed by Tiger that wants to back founders who are ‘breaking the mold’](https://techcrunch.com/2022/05/05/meet-valia-an-early-stage-vc-firm-backed-by-tiger-that-wants-to-back-founders-who-are-breaking-the-mold/)
-- [Rali_cap gets backing from global VCs and launches $30M fintech fund for emerging markets](https://techcrunch.com/2022/05/05/rali_cap-gets-backing-from-global-vcs-and-launches-30m-fintech-fund-for-emerging-markets/)
-- [Deliverr’s nearly flat exit price isn’t as bad as it looks](https://techcrunch.com/2022/05/05/deliverrs-nearly-flat-exit-price-isnt-as-bad-as-it-looks/)
-- [Apple, Google, and Microsoft team up on passwordless logins](https://techcrunch.com/2022/05/05/apple-google-microsoft-passwordless-logins/)
+- [Fintech MainStreet cuts about 30% of staff, citing ‘incredibly rough market’](https://techcrunch.com/2022/05/05/fintech-mainstreet-layoffs/)
+- [Index Ventures is opening shop in New York](https://techcrunch.com/2022/05/05/index-ventures-is-opening-shop-in-new-york/)
+- [Sensible Weather is building an ‘oh no, it’s raining while I’m on holiday’ insurance product](https://techcrunch.com/2022/05/05/it-is-like-raaaaaaaaaaain-on-your-wedding-day/)
+- [Copper is building ‘the Instagram for book lovers’](https://techcrunch.com/2022/05/05/copper-books-app-authors/)
+- [Satellites watch record-breaking fires ravage New Mexico](https://www.space.com/new-mexico-wildfires-satellite-photos-may-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
