@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [6 places where investors look for problems when you’re fundraising](https://techcrunch.com/2022/05/05/6-places-where-investors-look-for-problems-when-youre-fundraising/)
+- [Mobility marketplaces and brake repair on TechCrunch Live](https://techcrunch.com/2022/05/05/mobility-marketplaces-and-brake-repair-on-techcrunch-live/)
+- [Twitter rolls out new Spaces features, including access to analytics for hosts](https://techcrunch.com/2022/05/05/twitter-new-spaces-features-analytics-hosts/)
 - [‘Climate entrepreneurs deserve fast capital’: Enduring Planet unwraps a new fintech platform](https://techcrunch.com/2022/05/05/enduring-planet-fast-financing-climate-startups/)
 - [Unusual Ventures just closed a $485M fund by promising hands-on &lpar;full-time&rpar; help](https://techcrunch.com/2022/05/05/unusualvc/)
-- [Oops, I think they broke the blockchain](https://techcrunch.com/2022/05/05/oops-they-broke-the-blockchain-yuga-labs-nft-sale-chain-reaction/)
-- [Crypto gaming is growing, but can it reach people outside of the web3 world?](https://techcrunch.com/2022/05/05/crypto-gaming-is-growing-but-can-it-reach-people-outside-of-the-web3-world/)
-- [Budgeting and planning for your first digital product](https://techcrunch.com/2022/05/05/budgeting-and-planning-for-your-first-digital-product/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
