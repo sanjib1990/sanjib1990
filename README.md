@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Canada’s Neo Financial closes on $145M Series C, surpasses 1 million customers](https://techcrunch.com/2022/05/05/canadas-neo-financial-closes-on-145m-series-c-surpasses-1-million-in-customers/)
 - [Alan raises another $193 million for its medical one-stop shop startup](https://techcrunch.com/2022/05/04/alan-raises-another-193-million-for-its-medical-one-stop-shop-startup/)
 - [Binance gets regulatory nod in France, paving the way for Europe push](https://techcrunch.com/2022/05/04/binance-france-regulatory-approval-europe/)
 - [Sidekick Health grabs $55M for digital first care programs](https://techcrunch.com/2022/05/04/sidekick-health-series-b/)
 - [SpaceX&#39;s Crew-3 astronauts depart space station for trip home](https://www.space.com/spacex-crew3-astronauts-depart-space-station/)
-- [Cameo conducts layoffs a year after hitting unicorn status](https://techcrunch.com/2022/05/04/cameo-layoff-unicorn/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
