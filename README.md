@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Fintech MainStreet cuts about 30% of staff, citing ‘incredibly rough market’](https://techcrunch.com/2022/05/05/fintech-mainstreet-layoffs/)
-- [Index Ventures is opening shop in New York](https://techcrunch.com/2022/05/05/index-ventures-is-opening-shop-in-new-york/)
-- [Sensible Weather is building an ‘oh no, it’s raining while I’m on holiday’ insurance product](https://techcrunch.com/2022/05/05/it-is-like-raaaaaaaaaaain-on-your-wedding-day/)
-- [Copper is building ‘the Instagram for book lovers’](https://techcrunch.com/2022/05/05/copper-books-app-authors/)
-- [Satellites watch record-breaking fires ravage New Mexico](https://www.space.com/new-mexico-wildfires-satellite-photos-may-2022/)
+- [Pitch Deck Teardown: Momentum’s $5M seed pitch deck](https://techcrunch.com/2022/05/05/sample-seed-pitch-deck-momentum/)
+- [Workrise fixes API that spilled users’ personal information](https://techcrunch.com/2022/05/05/workrise-api-personal-information/)
+- [NASA scientists start studying 50-year-old frozen Apollo 17 moon samples](https://www.space.com/nasa-scientists-frozen-apollo-17-moon-samples/)
+- [NASA promises James Webb Space Telescope commissioning update Monday](https://www.space.com/james-webb-space-telescope-commissioning-update/)
+- [Astronauts dish on &#39;Top Chef: Houston&#39; space food challenge](https://www.space.com/top-chef-houston-astronauts-space-food/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
