@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Canada’s Neo Financial closes on $145M Series C, surpasses 1 million customers](https://techcrunch.com/2022/05/05/canadas-neo-financial-closes-on-145m-series-c-surpasses-1-million-in-customers/)
-- [Alan raises another $193 million for its medical one-stop shop startup](https://techcrunch.com/2022/05/04/alan-raises-another-193-million-for-its-medical-one-stop-shop-startup/)
-- [Binance gets regulatory nod in France, paving the way for Europe push](https://techcrunch.com/2022/05/04/binance-france-regulatory-approval-europe/)
-- [Sidekick Health grabs $55M for digital first care programs](https://techcrunch.com/2022/05/04/sidekick-health-series-b/)
-- [SpaceX&#39;s Crew-3 astronauts depart space station for trip home](https://www.space.com/spacex-crew3-astronauts-depart-space-station/)
+- [As supply chain issues mount, Fictiv helps companies get from prototype to manufacturing](https://techcrunch.com/2022/05/05/as-supply-chain-issues-mount-fictiv-helps-companies-get-from-prototype-to-manufacturing/)
+- [Sequoia, Binance and Fidelity back Elon Musk’s bid for Twitter](https://techcrunch.com/2022/05/05/sequoia-binance-and-fidelity-back-elon-musks-bid-for-twitter/)
+- [Starlink adds $25/month ‘Portability’ feature that lets users move their internet around](https://techcrunch.com/2022/05/05/starlink-adds-25-month-portability-add-on-that-lets-users-move-their-internet-around/)
+- [On This Day In Space: May 5, 1961: Alan Shepard becomes 1st American in space](https://www.space.com/39251-on-this-day-in-space.html/)
+- [How to photograph a lunar eclipse](https://www.space.com/how-to-photograph-a-lunar-eclipse/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
