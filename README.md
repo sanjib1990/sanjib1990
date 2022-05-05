@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [“Desist from facilitating trade in crypto assets” Uganda warns banks, fintechs](https://techcrunch.com/2022/05/05/desist-from-facilitating-trade-in-crypto-assets-uganda-warns-banks-fintechs/)
+- [China’s gaming giant NetEase opens first US studio in Austin](https://techcrunch.com/2022/05/05/netease-austin-us-first-studio/)
+- [The BNPL crackdown hasn’t crushed Walnut and its latest $110M Series A](https://techcrunch.com/2022/05/05/walnut-buy-now-pay-later-health-series-a/)
+- [Shopify acquires shipping logistics startup Deliverr for $2.1B](https://techcrunch.com/2022/05/05/shopify-acquires-shipping-logistics-startup-deliverr-for-2-1b/)
 - [IMDb launches new interactive gaming app ‘What to Watch’ on Amazon Fire TV](https://techcrunch.com/2022/05/05/imdb-launches-new-interactive-gaming-app-what-to-watch-on-amazon-fire-tv/)
-- [EU’s new rules for Big Tech will come into force in Spring 2023, says Vestager](https://techcrunch.com/2022/05/05/digital-markets-act-enforcement-margrethe-vestager/)
-- [As supply chain issues mount, Fictiv helps companies get from prototype to manufacturing](https://techcrunch.com/2022/05/05/as-supply-chain-issues-mount-fictiv-helps-companies-get-from-prototype-to-manufacturing/)
-- [Sequoia, Binance and a16z back Elon Musk’s $44 billion Twitter bid](https://techcrunch.com/2022/05/05/sequoia-binance-and-fidelity-back-elon-musks-bid-for-twitter/)
-- [Starlink adds $25/month ‘Portability’ feature that lets users move their internet around](https://techcrunch.com/2022/05/05/starlink-adds-25-month-portability-add-on-that-lets-users-move-their-internet-around/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
