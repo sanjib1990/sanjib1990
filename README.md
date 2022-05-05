@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [6 places where investors look for problems when you’re fundraising](https://techcrunch.com/2022/05/05/6-places-where-investors-look-for-problems-when-youre-fundraising/)
-- [Mobility marketplaces and brake repair on TechCrunch Live](https://techcrunch.com/2022/05/05/mobility-marketplaces-and-brake-repair-on-techcrunch-live/)
-- [Twitter rolls out new Spaces features, including access to analytics for hosts](https://techcrunch.com/2022/05/05/twitter-new-spaces-features-analytics-hosts/)
-- [‘Climate entrepreneurs deserve fast capital’: Enduring Planet unwraps a new fintech platform](https://techcrunch.com/2022/05/05/enduring-planet-fast-financing-climate-startups/)
-- [Unusual Ventures just closed a $485M fund by promising hands-on &lpar;full-time&rpar; help](https://techcrunch.com/2022/05/05/unusualvc/)
+- [Lucid is raising prices on its luxury Air EV by as much as 13%](https://techcrunch.com/2022/05/05/lucid-is-raising-prices-on-its-luxury-air-ev-by-as-much-as-13/)
+- [NASA will try again to fuel Artemis 1 moon rocket in June as launch slips to August](https://www.space.com/nasa-artemis1-moon-rocket-fueling-june/)
+- [Peloton reportedly looks to sell up to a 20% stake amid struggles](https://techcrunch.com/2022/05/05/peloton-reportedly-looks-to-sell-up-to-a-20-stake-amid-struggles/)
+- [Fortnite is back on iOS through Xbox Cloud Gaming](https://techcrunch.com/2022/05/05/play-fortnite-on-iphone-ipad-ios/)
+- [Amazon Labor Union president tells Senate that workers’ rights aren’t a ‘Democrat or Republican’ issue](https://techcrunch.com/2022/05/05/amazon-labor-senate-christian-smalls-bernie-sanders/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
