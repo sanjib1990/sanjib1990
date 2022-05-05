@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bull City Venture Partners is the opposite of flashy — and its backers approve](https://techcrunch.com/2022/05/04/bull-city-venture-partners-is-the-opposite-of-flashy-and-its-backers-approve/)
+- [Twitter tries to woo anxious advertisers with a slate of premium video content at the NewFronts](https://techcrunch.com/2022/05/04/twitter-tries-to-woo-anxious-advertisers-with-a-slate-of-premium-video-content-at-the-newfronts/)
+- [Aurora unveils fleet management platform to optimize autonomous operations](https://techcrunch.com/2022/05/04/aurora-unveils-fleet-management-platform-to-optimize-autonomous-operations/)
+- [The Eta Aquarid meteor shower is the legacy of Halley&#39;s Comet in May&#39;s night sky](https://www.space.com/halleys-comet-eta-aquarids-meteor-shower-2022/)
 - [Daily Crunch: European startup studio eFounders unveils its next-generation CRM tool](https://techcrunch.com/2022/05/04/daily-crunch-european-startup-studio-efounders-unveils-its-next-generation-crm-tool/)
-- [AutoRabit, which develops tooling for Salesforce CRM devs, lands $26M](https://techcrunch.com/2022/05/04/autorabit-which-develops-tooling-for-salesforce-crm-devs-lands-26m/)
-- [Dear Sophie: Any USCIS updates on automatic work extensions and premium processing?](https://techcrunch.com/2022/05/04/dear-sophie-any-uscis-updates-on-automatic-work-extensions-and-premium-processing/)
-- [Formula 1’s Fernando Alonso launches first e-bike at Miami Grand Prix](https://techcrunch.com/2022/05/04/formula-1s-fernando-alonso-launches-first-e-bike-at-miami-grand-prix/)
-- [Could we build the Millennium Falcon from &#39;Star Wars&#39;?](https://www.space.com/40684-could-we-build-star-wars-millennium-falcon.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
