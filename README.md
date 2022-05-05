@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [YouTube Go is shutting down in August](https://techcrunch.com/2022/05/05/youtube-go-shutting-down-august/)
-- [This open source tool used by Google, Meta and MIT is helping rethink knowledge management](https://techcrunch.com/2022/05/05/this-open-source-tool-used-by-google-meta-and-mit-is-helping-rethink-knowledge-management/)
-- [Former astronaut Scott Kelly launches 2nd NFT, with proceeds again going to Ukraine](https://www.space.com/astronaut-scott-kelly-second-nft-space-artwork/)
-- [“Desist from facilitating trade in crypto assets” Uganda warns banks, fintechs](https://techcrunch.com/2022/05/05/desist-from-facilitating-trade-in-crypto-assets-uganda-warns-banks-fintechs/)
-- [China’s gaming giant NetEase opens first US studio in Austin](https://techcrunch.com/2022/05/05/netease-austin-us-first-studio/)
+- [Meta says it will now pay creators for original content in Facebook Reels](https://techcrunch.com/2022/05/05/meta-says-it-will-now-pay-creators-for-original-content-in-facebook-reels/)
+- [Meet Valia, an early-stage VC firm backed by Tiger that wants to back founders who are ‘breaking the mold’](https://techcrunch.com/2022/05/05/meet-valia-an-early-stage-vc-firm-backed-by-tiger-that-wants-to-back-founders-who-are-breaking-the-mold/)
+- [Rali_cap gets backing from global VCs and launches $30M fintech fund for emerging markets](https://techcrunch.com/2022/05/05/rali_cap-gets-backing-from-global-vcs-and-launches-30m-fintech-fund-for-emerging-markets/)
+- [Deliverr’s nearly flat exit price isn’t as bad as it looks](https://techcrunch.com/2022/05/05/deliverrs-nearly-flat-exit-price-isnt-as-bad-as-it-looks/)
+- [Apple, Google, and Microsoft team up on passwordless logins](https://techcrunch.com/2022/05/05/apple-google-microsoft-passwordless-logins/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
