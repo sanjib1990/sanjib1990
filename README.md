@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The SEC gets seed funding](https://techcrunch.com/2022/05/06/the-sec-gets-seed-funding/)
 - [Humanity will go to Mars &#39;in this decade,&#39; SpaceX president predicts](https://www.space.com/humanity-mars-2020s-spacex-president-shotwell/)
 - [Need advice on navigating a tough startup market? Start here](https://techcrunch.com/2022/05/06/advice-venture-capital-market-changes-2022/)
 - [Post-pandemic reset leads to wave of layoffs in tech](https://techcrunch.com/2022/05/06/startup-tech-layoffs-in-may/)
 - [TechCrunch+ roundup: Psychedelic investor survey, 6 issues VCs look for, hiring on a budget](https://techcrunch.com/2022/05/06/techcrunch-roundup-psychedelic-investor-survey-6-issues-vcs-look-for-hiring-on-a-budget/)
-- [Daniel Ek pumps $50 million into Spotify: ‘I believe our best days are ahead’](https://techcrunch.com/2022/05/06/daniel-ek-50-million-spotify-stock/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
