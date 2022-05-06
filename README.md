@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Humanity will go to Mars &#39;in this decade,&#39; SpaceX president predicts](https://www.space.com/humanity-mars-2020s-spacex-president-shotwell/)
+- [TechCrunch+ roundup: Psychedelic investor survey, 6 issues VCs look for, hiring on a budget](https://techcrunch.com/2022/05/06/techcrunch-roundup-psychedelic-investor-survey-6-issues-vcs-look-for-hiring-on-a-budget/)
+- [Daniel Ek pumps $50 million into Spotify: ‘I believe our best days are ahead’](https://techcrunch.com/2022/05/06/daniel-ek-50-million-spotify-stock/)
+- [Ava sets the example for universal live captioning and raises $10M to keep building](https://techcrunch.com/2022/05/06/ava-sets-the-example-for-universal-live-captioning-and-raises-10m-to-keep-building/)
 - [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates/)
-- [Coinbase’s NFT marketplace is off to a lackluster start](https://techcrunch.com/2022/05/06/coinbases-nft-marketplace-is-off-to-a-lackluster-start/)
-- [James Webb Space Telescope begins final check-outs before science observations](https://www.space.com/james-webb-space-telescope-final-commissioning-tasks/)
-- [Virgin Galactic pushes 1st planned commercial passenger flight to 2023](https://www.space.com/virgin-galactic-first-commercial-flight-delay-2023/)
-- [Volunteer at TC Sessions: Mobility for a free Disrupt Pass](https://techcrunch.com/2022/05/06/volunteer-at-tc-sessions-mobility-for-a-free-disrupt-pass/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
