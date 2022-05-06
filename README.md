@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates/)
+- [Coinbase’s NFT marketplace is off to a lackluster start](https://techcrunch.com/2022/05/06/coinbases-nft-marketplace-is-off-to-a-lackluster-start/)
 - [James Webb Space Telescope begins final check-outs before science observations](https://www.space.com/james-webb-space-telescope-final-commissioning-tasks/)
 - [Virgin Galactic pushes 1st planned commercial passenger flight to 2023](https://www.space.com/virgin-galactic-first-commercial-flight-delay-2023/)
-- [Codenotary launches a full-stack monitoring solution for Kubernetes and VMware environments](https://techcrunch.com/2022/05/06/codenotary-launches-a-full-stack-monitoring-solution-for-kubernetes-and-vmware-environments/)
-- [Large Hadron Collider experiment investigates neutrino&#39;s minuscule mass](https://www.space.com/neutrino-mass-experiment-lhc/)
-- [Will Russia leave the International Space Station? Take Roscosmos chief&#39;s words with a grain of salt](https://www.space.com/russia-leave-space-station-rogozin-threats/)
+- [Volunteer at TC Sessions: Mobility for a free Disrupt Pass](https://techcrunch.com/2022/05/06/volunteer-at-tc-sessions-mobility-for-a-free-disrupt-pass/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
