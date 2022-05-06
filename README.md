@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronomers spot the brightest intergalactic pulsar yet beyond the Milky Way](https://www.space.com/brightest-intergalactic-pulsar-outside-milky-way-discovery/)
+- [The venture slowdown isn’t coming – it’s here](https://techcrunch.com/2022/05/06/the-venture-slowdown-isnt-coming-its-here/)
 - [The next giant leap: Interview with &#39;Deliver Us Mars&#39; game developers](https://www.space.com/the-next-giant-leap-interview-with-deliver-us-mars-developers/)
 - [Tomorrow Farms wants to revamp the pantry](https://techcrunch.com/2022/05/06/ingredient-tomorrow-farms-food-seed/)
 - [On This Day In Space: May 6, 1968: Neil Armstrong Narrowly Escapes Fiery Crash](https://www.space.com/39251-on-this-day-in-space.html/)
-- [SpaceX launches 53 Starlink satellites, lands Falcon 9 rocket at sea after record-tying 12th flight](https://www.space.com/spacex-starlink-launch-group-4-17/)
-- [Venus-like worlds are surprisingly common in &#39;habitable&#39; zones](https://www.space.com/venus-zone-planet-habitability/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
