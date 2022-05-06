@@ -96,9 +96,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [James Webb Space Telescope begins final check-outs before science observations](https://www.space.com/james-webb-space-telescope-final-commissioning-tasks/)
 - [Virgin Galactic pushes 1st planned commercial passenger flight to 2023](https://www.space.com/virgin-galactic-first-commercial-flight-delay-2023/)
-- [Volunteer at TC Sessions: Mobility for a free Disrupt Pass](https://techcrunch.com/2022/05/06/volunteer-at-tc-sessions-mobility-for-a-free-disrupt-pass/)
 - [Codenotary launches a full-stack monitoring solution for Kubernetes and VMware environments](https://techcrunch.com/2022/05/06/codenotary-launches-a-full-stack-monitoring-solution-for-kubernetes-and-vmware-environments/)
 - [Large Hadron Collider experiment investigates neutrino&#39;s minuscule mass](https://www.space.com/neutrino-mass-experiment-lhc/)
+- [Will Russia leave the International Space Station? Take Roscosmos chief&#39;s words with a grain of salt](https://www.space.com/russia-leave-space-station-rogozin-threats/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
