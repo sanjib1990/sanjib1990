@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [China’s EV darling Nio turns to Hong Kong and Singapore amid US delisting risk](https://techcrunch.com/2022/05/05/ev-china-nio-delisting-singapore-hong-kong/)
 - [Lyft brings shared rides back to more U.S. cities in bid to win riders](https://techcrunch.com/2022/05/05/lyft-brings-shared-rides-back-to-more-u-s-cities-in-bid-to-win-riders/)
 - [Haun Ventures leads $50M round in NFT startup Zora Labs](https://techcrunch.com/2022/05/05/haun-ventures-leads-50m-round-in-nft-startup-zora-labs/)
 - [Tony Fadell cleans out his garage](https://techcrunch.com/2022/05/05/tony-fadell-cleans-out-his-garage/)
 - [Daily Crunch: Larry Ellison leads investor group chipping in $7.1B toward Musk’s Twitter buyout](https://techcrunch.com/2022/05/05/daily-crunch-larry-ellison-leads-investor-group-chipping-in-7-1b-toward-musks-twitter-buyout/)
-- [Lithium-ion recycler Li-Cycle lands $200 million to power future EVs](https://techcrunch.com/2022/05/05/lithium-ion-li-cycle-200-million-future-ev-batteries/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
