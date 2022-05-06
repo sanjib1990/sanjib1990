@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Astronomers spot the brightest intergalactic pulsar yet beyond the Milky Way](https://www.space.com/brightest-intergalactic-pulsar-outside-milky-way-discovery/)
-- [The venture slowdown isn’t coming – it’s here](https://techcrunch.com/2022/05/06/the-venture-slowdown-isnt-coming-its-here/)
-- [The next giant leap: Interview with &#39;Deliver Us Mars&#39; game developers](https://www.space.com/the-next-giant-leap-interview-with-deliver-us-mars-developers/)
-- [Tomorrow Farms wants to revamp the pantry](https://techcrunch.com/2022/05/06/ingredient-tomorrow-farms-food-seed/)
-- [On This Day In Space: May 6, 1968: Neil Armstrong Narrowly Escapes Fiery Crash](https://www.space.com/39251-on-this-day-in-space.html/)
+- [Watch the latest TechCrunch Live event on building a better mobility fintech startup](https://techcrunch.com/2022/05/06/watch-the-latest-techcrunch-live-event-on-building-a-better-mobility-fintech-startup/)
+- [Lockheed Martin tests new hypersonic weapon concept for DARPA](https://www.space.com/lockheed-martin-tests-hypersonic-weapon-darpa/)
+- [24 hours left to save $200 on passes to TC Sessions: Climate 2022](https://techcrunch.com/2022/05/06/24-hours-left-to-save-200-on-passes-to-tc-sessions-climate-2022/)
+- [Spotify Stations has left the station](https://techcrunch.com/2022/05/06/spotify-stations-shutting-down-may-16/)
+- [Stripe is playing checkers with Plaid](https://techcrunch.com/2022/05/06/stripe-plaid-competition-fintech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
