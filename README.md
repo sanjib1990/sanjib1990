@@ -83,10 +83,10 @@
 
 <!-- YOUTUBE:START -->
 - [100+ Computer Science Concepts Explained](https://www.youtube.com/watch?v=-uleG_Vecis)
+- [Kubernetes Security Best Practices you need to know | THE Guide for securing your K8s cluster!](https://www.youtube.com/watch?v=oBf5lrmquYI)
+- [How WiFi Works - Computerphile](https://www.youtube.com/watch?v=vvKbMueRzrI)
+- [this is the end &lpar;last Python episode on YouTube&rpar;](https://www.youtube.com/watch?v=rW5sCgSSpI8)
 - [Perl in 100 Seconds](https://www.youtube.com/watch?v=74_7LrRe5DI)
-- [The Nuxt big thing in web development?](https://www.youtube.com/watch?v=noq-ZHTD2Cg)
-- [React for the Haters in 100 Seconds](https://www.youtube.com/watch?v=HyWYpM_S-2c)
-- [Redux in 100 Seconds](https://www.youtube.com/watch?v=_shA5Xwe8_4)
 <!-- YOUTUBE:END -->
 
 ---
