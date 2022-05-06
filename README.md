@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Crew-3 astronauts on SpaceX &#39;Endurance&#39; splash down from space station](https://www.space.com/spacex-crew3-endurance-splashdown/)
 - [China’s EV darling Nio turns to Hong Kong and Singapore amid US delisting risk](https://techcrunch.com/2022/05/05/ev-china-nio-delisting-singapore-hong-kong/)
 - [Lyft brings shared rides back to more U.S. cities in bid to win riders](https://techcrunch.com/2022/05/05/lyft-brings-shared-rides-back-to-more-u-s-cities-in-bid-to-win-riders/)
 - [Haun Ventures leads $50M round in NFT startup Zora Labs](https://techcrunch.com/2022/05/05/haun-ventures-leads-50m-round-in-nft-startup-zora-labs/)
 - [Tony Fadell cleans out his garage](https://techcrunch.com/2022/05/05/tony-fadell-cleans-out-his-garage/)
-- [Daily Crunch: Larry Ellison leads investor group chipping in $7.1B toward Musk’s Twitter buyout](https://techcrunch.com/2022/05/05/daily-crunch-larry-ellison-leads-investor-group-chipping-in-7-1b-toward-musks-twitter-buyout/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
