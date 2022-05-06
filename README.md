@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [this BASH script will make you a MILLIONAIRE](https://www.youtube.com/watch?v=19nN9vgcgmU)
 - [Tauri in 100 Seconds](https://www.youtube.com/watch?v=-X8evddpu7M)
 - [100+ Computer Science Concepts Explained](https://www.youtube.com/watch?v=-uleG_Vecis)
 - [Kubernetes Security Best Practices you need to know | THE Guide for securing your K8s cluster!](https://www.youtube.com/watch?v=oBf5lrmquYI)
 - [How WiFi Works - Computerphile](https://www.youtube.com/watch?v=vvKbMueRzrI)
-- [this is the end &lpar;last Python episode on YouTube&rpar;](https://www.youtube.com/watch?v=rW5sCgSSpI8)
 <!-- YOUTUBE:END -->
 
 ---
