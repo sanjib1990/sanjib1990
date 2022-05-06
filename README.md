@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Crew-3 astronauts on SpaceX &#39;Endurance&#39; splash down from space station](https://www.space.com/spacex-crew3-endurance-splashdown/)
-- [China’s EV darling Nio turns to Hong Kong and Singapore amid US delisting risk](https://techcrunch.com/2022/05/05/ev-china-nio-delisting-singapore-hong-kong/)
-- [Lyft brings shared rides back to more U.S. cities in bid to win riders](https://techcrunch.com/2022/05/05/lyft-brings-shared-rides-back-to-more-u-s-cities-in-bid-to-win-riders/)
-- [Haun Ventures leads $50M round in NFT startup Zora Labs](https://techcrunch.com/2022/05/05/haun-ventures-leads-50m-round-in-nft-startup-zora-labs/)
-- [Tony Fadell cleans out his garage](https://techcrunch.com/2022/05/05/tony-fadell-cleans-out-his-garage/)
+- [Venus-like worlds are surprisingly common in &#39;habitable&#39; zones](https://www.space.com/venus-zone-planet-habitability/)
+- [Meringue on the moon: Top Chef winning dish to fly on NASA mission](https://www.space.com/top-chef-houston-space-food-winner/)
+- [Listen to the &#39;echoes&#39; of black holes chowing down on stars](https://www.space.com/black-hole-echoes-study-sound/)
+- [Best star projectors: Indoor views of the night sky](https://www.space.com/best-star-projectors/)
+- [UK’s Big Tech regulator ‘to boost switching, cut killer acquisitions’](https://techcrunch.com/2022/05/06/uk-dmu-big-tech-regulation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
