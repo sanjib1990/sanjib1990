@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Chingona Ventures lands $52M to fund overlooked founders in massive markets](https://techcrunch.com/2022/05/06/chingona-ventures-lands-52m-to-fund-overlooked-founders-in-massive-markets/)
+- [Judge tosses Trump’s lawsuit over his lifetime Twitter ban](https://techcrunch.com/2022/05/06/trump-twitter-ban-lawsuit/)
 - [Daily Crunch: Fairly stagnant since April launch, Coinbase NFT sales volume is under $700K](https://techcrunch.com/2022/05/06/daily-crunch-fairly-stagnant-since-april-launch-coinbase-nft-sales-volume-is-under-700k/)
 - [The SEC gets seed funding](https://techcrunch.com/2022/05/06/the-sec-gets-seed-funding/)
 - [Humanity will go to Mars &#39;in this decade,&#39; SpaceX president predicts](https://www.space.com/humanity-mars-2020s-spacex-president-shotwell/)
-- [Need advice on navigating a tough startup market? Start here](https://techcrunch.com/2022/05/06/advice-venture-capital-market-changes-2022/)
-- [Post-pandemic reset leads to wave of layoffs in tech](https://techcrunch.com/2022/05/06/startup-tech-layoffs-in-may/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
