@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Earth tells us to &#39;GO&#39; in weird cloud message seen from space &lpar;photo&rpar;](https://www.space.com/earth-go-cloud-message-satellite-photo/)
+- [Space Industry for Ukraine: Companies donate $50K each and pledge humanitarian aid to embattled country](https://www.space.com/space-industry-for-ukraine-companies-humanitarian-aid/)
 - [On This Day In Space: May 7, 1992: Space shuttle Endeavour launches on maiden voyage](https://www.space.com/39251-on-this-day-in-space.html/)
 - [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html/)
 - [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html/)
-- [Astronaut Samantha Cristoforetti makes history with 1st TikTok from International Space Station](https://www.space.com/astronaut-makes-first-tiktok-space-station/)
-- [Chingona Ventures lands $52M to fund overlooked founders in massive markets](https://techcrunch.com/2022/05/06/chingona-ventures-lands-52m-to-fund-overlooked-founders-in-massive-markets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
