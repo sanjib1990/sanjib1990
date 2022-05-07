@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ESPN+ debuts ‘McEnroe vs. McEnroe’, the first-ever tennis match between a real person and their virtual avatar](https://techcrunch.com/2022/05/07/espn-debuts-mcenroe-vs-mcenroe-the-first-ever-tennis-match-between-real-person-and-their-virtual-avatar/)
+- [As interest rates rise, startups and VCs are playing a new game](https://techcrunch.com/2022/05/07/as-interest-rates-rise-startups-and-vcs-are-playing-a-new-game/)
+- [This Week In Space podcast: Episode 10 — The best and worst space movies](https://www.space.com/this-week-in-space-podcast-twit/)
+- [North Korea launches ballistic missile from submarine in latest test: reports](https://www.space.com/north-korea-launches-submarine-ballistic-missile-test/)
 - [Earth tells us to &#39;GO&#39; in weird cloud message seen from space &lpar;photo&rpar;](https://www.space.com/earth-go-cloud-message-satellite-photo/)
-- [Space Industry for Ukraine: Companies donate $50K each and pledge humanitarian aid to embattled country](https://www.space.com/space-industry-for-ukraine-companies-humanitarian-aid/)
-- [On This Day In Space: May 7, 1992: Space shuttle Endeavour launches on maiden voyage](https://www.space.com/39251-on-this-day-in-space.html/)
-- [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html/)
-- [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
