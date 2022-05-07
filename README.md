@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Week in Apps: Fortnite’s back on iOS, TikTok’s new ad product, apps hit NewFronts](https://techcrunch.com/2022/05/07/this-week-in-apps-fortnites-back-on-ios-tiktoks-new-ad-product-apps-hit-newfronts/)
+- [The Great Resignation, meet the Great Reset](https://techcrunch.com/2022/05/07/the-great-resignation-meet-the-great-reset/)
+- [SpaceX Starlink launch spawns spectacular glowing cloud in predawn sky](https://www.space.com/spacex-starlink-rocket-launch-glowing-cloud-photos/)
 - [A changing of the guard](https://techcrunch.com/2022/05/07/a-changing-of-the-guard/)
 - [Crypto investor and founder Jill Gunter on the increasingly heated competition between blockchains — and what it’ll take to win](https://techcrunch.com/2022/05/07/crypto-investor-founder-espresso-systems-jill-gunter-competition-blockchains-crypto/)
-- [See SpaceX&#39;s Crew-3 Dragon capsule streak back to Earth in these amazing photos](https://www.space.com/spacex-crew-3-dragon-astronauts-reentry-streaks-photos/)
-- [ESPN+ debuts ‘McEnroe vs. McEnroe’, the first-ever tennis match between a real person and their virtual avatar](https://techcrunch.com/2022/05/07/espn-debuts-mcenroe-vs-mcenroe-the-first-ever-tennis-match-between-real-person-and-their-virtual-avatar/)
-- [As interest rates rise, startups and VCs are playing a new game](https://techcrunch.com/2022/05/07/as-interest-rates-rise-startups-and-vcs-are-playing-a-new-game/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
