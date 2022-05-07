@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A changing of the guard](https://techcrunch.com/2022/05/07/a-changing-of-the-guard/)
+- [Crypto investor and founder Jill Gunter on the increasingly heated competition between blockchains — and what it’ll take to win](https://techcrunch.com/2022/05/07/crypto-investor-founder-espresso-systems-jill-gunter-competition-blockchains-crypto/)
+- [See SpaceX&#39;s Crew-3 Dragon capsule streak back to Earth in these amazing photos](https://www.space.com/spacex-crew-3-dragon-astronauts-reentry-streaks-photos/)
 - [ESPN+ debuts ‘McEnroe vs. McEnroe’, the first-ever tennis match between a real person and their virtual avatar](https://techcrunch.com/2022/05/07/espn-debuts-mcenroe-vs-mcenroe-the-first-ever-tennis-match-between-real-person-and-their-virtual-avatar/)
 - [As interest rates rise, startups and VCs are playing a new game](https://techcrunch.com/2022/05/07/as-interest-rates-rise-startups-and-vcs-are-playing-a-new-game/)
-- [This Week In Space podcast: Episode 10 — The best and worst space movies](https://www.space.com/this-week-in-space-podcast-twit/)
-- [North Korea launches ballistic missile from submarine in latest test: reports](https://www.space.com/north-korea-launches-submarine-ballistic-missile-test/)
-- [Earth tells us to &#39;GO&#39; in weird cloud message seen from space &lpar;photo&rpar;](https://www.space.com/earth-go-cloud-message-satellite-photo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
