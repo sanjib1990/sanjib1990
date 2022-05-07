@@ -97,7 +97,7 @@
 - [Chingona Ventures lands $52M to fund overlooked founders in massive markets](https://techcrunch.com/2022/05/06/chingona-ventures-lands-52m-to-fund-overlooked-founders-in-massive-markets/)
 - [Judge tosses Trump’s lawsuit over his lifetime Twitter ban](https://techcrunch.com/2022/05/06/trump-twitter-ban-lawsuit/)
 - [Daily Crunch: Fairly stagnant since April launch, Coinbase NFT sales volume is under $700K](https://techcrunch.com/2022/05/06/daily-crunch-fairly-stagnant-since-april-launch-coinbase-nft-sales-volume-is-under-700k/)
-- [The SEC gets seed funding](https://techcrunch.com/2022/05/06/the-sec-gets-seed-funding/)
+- [Crypto’s cops get ready for an uneven war](https://techcrunch.com/2022/05/06/the-sec-gets-seed-funding/)
 - [Humanity will go to Mars &#39;in this decade,&#39; SpaceX president predicts](https://www.space.com/humanity-mars-2020s-spacex-president-shotwell/)
 <!-- BLOG-POST-LIST:END -->
 
