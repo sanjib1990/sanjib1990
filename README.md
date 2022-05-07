@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [On This Day In Space: May 7, 1992: Space shuttle Endeavour launches on maiden voyage](https://www.space.com/39251-on-this-day-in-space.html/)
+- [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html/)
+- [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html/)
+- [Astronaut Samantha Cristoforetti makes history with 1st TikTok from International Space Station](https://www.space.com/astronaut-makes-first-tiktok-space-station/)
 - [Chingona Ventures lands $52M to fund overlooked founders in massive markets](https://techcrunch.com/2022/05/06/chingona-ventures-lands-52m-to-fund-overlooked-founders-in-massive-markets/)
-- [Judge tosses Trump’s lawsuit over his lifetime Twitter ban](https://techcrunch.com/2022/05/06/trump-twitter-ban-lawsuit/)
-- [Daily Crunch: Fairly stagnant since April launch, Coinbase NFT sales volume is under $700K](https://techcrunch.com/2022/05/06/daily-crunch-fairly-stagnant-since-april-launch-coinbase-nft-sales-volume-is-under-700k/)
-- [Crypto’s cops get ready for an uneven war](https://techcrunch.com/2022/05/06/the-sec-gets-seed-funding/)
-- [Humanity will go to Mars &#39;in this decade,&#39; SpaceX president predicts](https://www.space.com/humanity-mars-2020s-spacex-president-shotwell/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
