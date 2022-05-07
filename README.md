@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fundraise on confidence, Front CEO Mathilde Collin says](https://techcrunch.com/2022/05/07/fundraise-on-confidence-front-ceo-mathilde-collin-says/)
 - [A brutal week of layoffs](https://techcrunch.com/2022/05/07/a-brutal-week-of-layoffs/)
 - [Eta Aquarid meteor shower of 2022 thrills stargazers in these stunning photos](https://www.space.com/eta-aquarid-meteor-shower-2022-thrills-stargazers/)
 - [All the tech that got our attention at F1 Miami Grand Prix](https://techcrunch.com/2022/05/07/all-the-tech-at-the-f1-miami-grand-prix/)
 - [This Week in Apps: Fortnite’s back on iOS, TikTok’s new ad product, apps hit NewFronts](https://techcrunch.com/2022/05/07/this-week-in-apps-fortnites-back-on-ios-tiktoks-new-ad-product-apps-hit-newfronts/)
-- [The Great Resignation, meet the Great Reset](https://techcrunch.com/2022/05/07/the-great-resignation-meet-the-great-reset/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
