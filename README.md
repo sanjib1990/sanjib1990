@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See the fiery Blood Moon rise in a total lunar eclipse in May&#39;s must-see skywatching event](https://www.space.com/total-lunar-eclipse-may-2022-must-see-event/)
+- [How to watch the total lunar eclipse of May 2022: Super Blood Moon webcasts](https://www.space.com/super-blood-moon-total-lunar-eclipse-webcasts-may-2022/)
 - [How will tech companies cope with an office-free future?](https://techcrunch.com/2022/05/08/how-will-tech-companies-cope-with-an-office-free-future/)
 - [Blood Moon total lunar eclipse 2022: Everything you need to know](https://www.space.com/blood-moon-lunar-eclipse-may-2022-guide/)
 - [The Interchange: Stripe takes a swing at Plaid](https://techcrunch.com/2022/05/08/the-interchange-stripe-takes-a-swing-at-plaid/)
-- [The stock market is down, but these 4 tech companies prove there’s still good news out there](https://techcrunch.com/2022/05/08/the-stock-market-is-down-but-these-4-tech-companies-prove-theres-still-good-news-out-there/)
-- [Watch SpaceX Crew-3 astronauts &#39;waltz&#39; in space in fun spacesuit video](https://www.space.com/spacex-crew-3-astronauts-spacesuit-waltz-video/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
