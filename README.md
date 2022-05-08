@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Blood Moon total lunar eclipse 2022: Everything you need to know](https://www.space.com/blood-moon-lunar-eclipse-may-2022-guide/)
+- [The Interchange: Stripe takes a swing at Plaid](https://techcrunch.com/2022/05/08/the-interchange-stripe-takes-a-swing-at-plaid/)
 - [The stock market is down, but these 4 tech companies prove there’s still good news out there](https://techcrunch.com/2022/05/08/the-stock-market-is-down-but-these-4-tech-companies-prove-theres-still-good-news-out-there/)
 - [Watch SpaceX Crew-3 astronauts &#39;waltz&#39; in space in fun spacesuit video](https://www.space.com/spacex-crew-3-astronauts-spacesuit-waltz-video/)
 - [On This Day In Space: May 8, 1962: Centaur rocket explodes during maiden flight](https://www.space.com/39251-on-this-day-in-space.html/)
-- [Earliest documented aurora found in ancient Chinese text](https://www.space.com/oldest-description-candidate-aurora/)
-- [Monster black hole might have executed a magnetic &#39;flip&#39;](https://www.space.com/monster-black-hole-magnetic-flip/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
