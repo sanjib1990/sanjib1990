@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [On This Day In Space: May 8, 1962: Centaur rocket explodes during maiden flight](https://www.space.com/39251-on-this-day-in-space.html/)
+- [Earliest documented aurora found in ancient Chinese text](https://www.space.com/oldest-description-candidate-aurora/)
+- [Monster black hole might have executed a magnetic &#39;flip&#39;](https://www.space.com/monster-black-hole-magnetic-flip/)
+- [Rocky alien worlds may need to be young to support life](https://www.space.com/younger-exoplanets-increased-odds-support-life/)
 - [Fundraise on confidence, Front CEO Mathilde Collin says](https://techcrunch.com/2022/05/07/fundraise-on-confidence-front-ceo-mathilde-collin-says/)
-- [A brutal week of layoffs](https://techcrunch.com/2022/05/07/a-brutal-week-of-layoffs/)
-- [Eta Aquarid meteor shower of 2022 thrills stargazers in these stunning photos](https://www.space.com/eta-aquarid-meteor-shower-2022-thrills-stargazers/)
-- [All the tech that got our attention at F1 Miami Grand Prix](https://techcrunch.com/2022/05/07/all-the-tech-at-the-f1-miami-grand-prix/)
-- [This Week in Apps: Fortnite’s back on iOS, TikTok’s new ad product, apps hit NewFronts](https://techcrunch.com/2022/05/07/this-week-in-apps-fortnites-back-on-ios-tiktoks-new-ad-product-apps-hit-newfronts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
