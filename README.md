@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Perceptron: AI bias can arise from annotation instructions](https://techcrunch.com/2022/05/08/perceptron-ai-bias-can-arise-from-annotation-instructions/)
 - [See the fiery Blood Moon rise in a total lunar eclipse in May&#39;s must-see skywatching event](https://www.space.com/total-lunar-eclipse-may-2022-must-see-event/)
 - [How to watch the total lunar eclipse of May 2022: Super Blood Moon webcasts](https://www.space.com/super-blood-moon-total-lunar-eclipse-webcasts-may-2022/)
 - [How will tech companies cope with an office-free future?](https://techcrunch.com/2022/05/08/how-will-tech-companies-cope-with-an-office-free-future/)
 - [Blood Moon total lunar eclipse 2022: Everything you need to know](https://www.space.com/blood-moon-lunar-eclipse-may-2022-guide/)
-- [The Interchange: Stripe takes a swing at Plaid](https://techcrunch.com/2022/05/08/the-interchange-stripe-takes-a-swing-at-plaid/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
