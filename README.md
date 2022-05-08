@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The stock market is down, but these 4 tech companies prove there’s still good news out there](https://techcrunch.com/2022/05/08/the-stock-market-is-down-but-these-4-tech-companies-prove-theres-still-good-news-out-there/)
+- [Watch SpaceX Crew-3 astronauts &#39;waltz&#39; in space in fun spacesuit video](https://www.space.com/spacex-crew-3-astronauts-spacesuit-waltz-video/)
 - [On This Day In Space: May 8, 1962: Centaur rocket explodes during maiden flight](https://www.space.com/39251-on-this-day-in-space.html/)
 - [Earliest documented aurora found in ancient Chinese text](https://www.space.com/oldest-description-candidate-aurora/)
 - [Monster black hole might have executed a magnetic &#39;flip&#39;](https://www.space.com/monster-black-hole-magnetic-flip/)
-- [Rocky alien worlds may need to be young to support life](https://www.space.com/younger-exoplanets-increased-odds-support-life/)
-- [Fundraise on confidence, Front CEO Mathilde Collin says](https://techcrunch.com/2022/05/07/fundraise-on-confidence-front-ceo-mathilde-collin-says/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
