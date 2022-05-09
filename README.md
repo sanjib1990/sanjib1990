@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Atma wants to make job hunting in Indonesia easier](https://techcrunch.com/2022/05/08/atma-wants-to-make-job-hunting-in-indonesia-easier/)
 - [South Korea’s OHouse lands $182M to add AR to home improvement app](https://techcrunch.com/2022/05/08/south-koreas-ohouse-lands-128m-to-add-ar-to-home-improvement-app/)
 - [Perceptron: AI bias can arise from annotation instructions](https://techcrunch.com/2022/05/08/perceptron-ai-bias-can-arise-from-annotation-instructions/)
 - [See the fiery Blood Moon rise in a total lunar eclipse in May&#39;s must-see skywatching event](https://www.space.com/total-lunar-eclipse-may-2022-must-see-event/)
 - [How to watch the total lunar eclipse of May 2022: Super Blood Moon webcasts](https://www.space.com/super-blood-moon-total-lunar-eclipse-webcasts-may-2022/)
-- [How will tech companies cope with an office-free future?](https://techcrunch.com/2022/05/08/how-will-tech-companies-cope-with-an-office-free-future/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
