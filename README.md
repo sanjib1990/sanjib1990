@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloudflare heads effort to make JavaScript environments interoperable](https://techcrunch.com/2022/05/09/cloudflare-heads-effort-to-make-javascript-environments-interoperable/)
-- [Here’s how to hack CarPlay into a Tesla or F-150](https://techcrunch.com/2022/05/09/heres-how-to-hack-carplay-into-a-tesla-or-f-150/)
-- [NASA promises James Webb Space Telescope commissioning update today](https://www.space.com/james-webb-space-telescope-commissioning-update/)
-- [How to watch Doctor Strange in the Multiverse of Madness](https://www.space.com/doctor-strange-2-streaming-guide/)
-- [On This Day In Space: May 9, 2003: Japan launches Hayabusa mission to asteroid](https://www.space.com/39251-on-this-day-in-space.html/)
+- [The dominoes are falling](https://techcrunch.com/2022/05/09/the-dominoes-are-falling/)
+- [China is on the hunt for &#39;Earth 2.0&#39; with proposed space telescope](https://www.space.com/china-earth-like-exoplanet-telescope/)
+- [Average startup CEO salary is $150,000 in 2022](https://techcrunch.com/2022/05/09/2022-startup-ceo-wages/)
+- [Lordstown reports $90 million loss and no progress on Foxconn deal](https://techcrunch.com/2022/05/09/lordstown-reports-90-million-loss-and-no-progress-on-foxconn-deal/)
+- [Raising monster rounds for self-driving mobility startups on TechCrunch Live](https://techcrunch.com/2022/05/09/raising-monster-rounds-for-self-driving-mobility-startups-on-techcrunch-live/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
