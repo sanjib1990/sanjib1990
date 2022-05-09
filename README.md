@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TikTok rolls out new ‘Friends’ tab to more users, replacing the current ‘Discover’ tab](https://techcrunch.com/2022/05/09/tiktok-friends-tab-replacing-discover-tab/)
-- [Bitcoin’s value nears $30,000 mark as Luna Foundation Guard liquidates wallet](https://techcrunch.com/2022/05/09/bitcoins-value-nears-30000-mark-as-luna-foundation-guard-liquidates-wallet/)
-- [Shark Tank’s Kevin O’Leary talks crypto and why he’s pro stablecoins](https://techcrunch.com/2022/05/09/shark-tanks-kevin-oleary-talks-crypto-and-why-hes-pro-stablecoins/)
-- [Holoride will give us a look at the in-car VR future arriving now at TC Sessions: Mobility 2022](https://techcrunch.com/2022/05/09/holoride-will-give-us-a-look-at-the-in-car-vr-future-arriving-now-at-tc-sessions-mobility-2022/)
-- [The half-billion-dollar profit swing that led to Better.com’s myriad layoffs](https://techcrunch.com/2022/05/09/the-half-billion-dollar-profit-swing-that-led-to-better-coms-myriad-layoffs/)
+- [Yapily to acquire finAPI in open banking consolidation move](https://techcrunch.com/2022/05/09/yapily-to-acquire-finapi-in-open-banking-consolidation-move/)
+- [Daily Crunch: PayPal Ventures leads $50M Series B for Egyptian fintech Paymob](https://techcrunch.com/2022/05/09/daily-crunch-paypal-ventures-leads-50m-series-b-for-egyptian-fintech-paymob/)
+- [Modern Fertility co-founder leaves Ro a year after acquisition](https://techcrunch.com/2022/05/09/modern-fertility-co-founder-afton-vechery-is-leaving-ro/)
+- [Use data from Q5 to boost mobile app growth for the entire year](https://techcrunch.com/2022/05/09/use-data-from-q5-to-boost-mobile-app-growth-for-the-entire-year/)
+- [Max Q: Rocket booster, meet helicopter](https://techcrunch.com/2022/05/09/max-q-rocket-booster-meet-helicopter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
