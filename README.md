@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Volunteer at TC Sessions: Mobility for a free Disrupt Pass](https://techcrunch.com/2022/05/09/volunteer-at-tc-sessions-mobility-for-a-free-disrupt-pass/)
-- [US podcast ad revenue to reach $2 billion in 2022 and top $4 billion by 2024, study says](https://techcrunch.com/2022/05/09/u-s-podcast-ad-revenue-to-reach-2-billion-in-2022-and-top-4-billion-by-2024-study-says/)
-- [A giant asteroid safely zoomed past us overnight](https://www.space.com/giant-asteroid-safe-flyby-may-9/)
-- [The SaaS selloff is steepening](https://techcrunch.com/2022/05/09/the-saas-selloff-is-steepening/)
-- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates/)
+- [Clearview AI banned from selling its facial recognition software to most U.S. companies](https://techcrunch.com/2022/05/09/clearview-settlement-bipa/)
+- [White House doubles down on affordable broadband with central sign-up](https://techcrunch.com/2022/05/09/white-house-doubles-down-on-affordable-broadband-with-central-sign-up/)
+- [Mars helicopter Ingenuity recovering from communications blackout spawned by dust](https://www.space.com/mars-ingenuity-helicopter-blackout-dust/)
+- [A founder’s guide to calculating CAC and LTV the right way](https://techcrunch.com/2022/05/09/a-founders-guide-to-calculating-cac-and-ltv-the-right-way/)
+- [China launches Tianzhou 4 cargo craft to new Tiangong space station](https://www.space.com/china-launches-tianzhou4-spacecraft-tiangong-space-station/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
