@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [BlissLights Sky Lite 2.0 star projector review](https://www.space.com/blisslights-sky-lite-2.0-star-projector-review/)
-- [Rivian shares down more than 17% following report of Ford sell-off](https://techcrunch.com/2022/05/09/rivian-shares-down-more-than-17-following-report-of-ford-sell-off/)
-- [BBC announces Ncuti Gatwa as the new Doctor Who](https://www.space.com/bbc-new-doctor-who-ncuti-gatwa/)
-- [Brightseed’s first AI-detected ‘phytonutrient’ comes to market alongside a $68M B round](https://techcrunch.com/2022/05/09/brightseeds-first-ai-detected-phytonutrient-comes-to-market-alongside-a-68m-a-round/)
-- [Mars sports &#39;invisible&#39; frost and dust avalanches, and scientists may finally know why](https://www.space.com/mars-invisible-frost-dust-avalanches-mystery/)
+- [Volunteer at TC Sessions: Mobility for a free Disrupt Pass](https://techcrunch.com/2022/05/09/volunteer-at-tc-sessions-mobility-for-a-free-disrupt-pass/)
+- [US podcast ad revenue to reach $2 billion in 2022 and top $4 billion by 2024, study says](https://techcrunch.com/2022/05/09/u-s-podcast-ad-revenue-to-reach-2-billion-in-2022-and-top-4-billion-by-2024-study-says/)
+- [A giant asteroid safely zoomed past us overnight](https://www.space.com/giant-asteroid-safe-flyby-may-9/)
+- [The SaaS selloff is steepening](https://techcrunch.com/2022/05/09/the-saas-selloff-is-steepening/)
+- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
