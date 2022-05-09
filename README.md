@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TikTok rolls out new ‘Friends’ tab to more users, replacing the current ‘Discover’ tab](https://techcrunch.com/2022/05/09/tiktok-friends-tab-replacing-discover-tab/)
+- [Bitcoin’s value nears $30,000 mark as Luna Foundation Guard liquidates wallet](https://techcrunch.com/2022/05/09/bitcoins-value-nears-30000-mark-as-luna-foundation-guard-liquidates-wallet/)
 - [Shark Tank’s Kevin O’Leary talks crypto and why he’s pro stablecoins](https://techcrunch.com/2022/05/09/shark-tanks-kevin-oleary-talks-crypto-and-why-hes-pro-stablecoins/)
 - [Holoride will give us a look at the in-car VR future arriving now at TC Sessions: Mobility 2022](https://techcrunch.com/2022/05/09/holoride-will-give-us-a-look-at-the-in-car-vr-future-arriving-now-at-tc-sessions-mobility-2022/)
 - [The half-billion-dollar profit swing that led to Better.com’s myriad layoffs](https://techcrunch.com/2022/05/09/the-half-billion-dollar-profit-swing-that-led-to-better-coms-myriad-layoffs/)
-- [Blue Origin announces crew for next suborbital space mission](https://www.space.com/blue-origin-crew-ns21-suborbital-space-mission/)
-- [Clearview AI banned from selling its facial recognition software to most US companies](https://techcrunch.com/2022/05/09/clearview-settlement-bipa/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
