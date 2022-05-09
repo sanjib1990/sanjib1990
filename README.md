@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Gradient Ventures backs Mentum’s goal to democratize investment services in LatAm](https://techcrunch.com/2022/05/09/gradient-ventures-mentum-investment-latam/)
-- [Ultraprecise atomic optical clocks may redefine the length of a second](https://www.space.com/official-second-changing/)
-- [Supermoon: What is it and when does it occur?](https://www.space.com/38940-supermoon-facts.html/)
-- [Instagram to start testing NFTs with select creators this week](https://techcrunch.com/2022/05/09/instagram-testing-nfts-select-creators/)
-- [MIRI’s Sharper View Hints at New Possibilities for Science](https://blogs.nasa.gov/webb/2022/05/09/miris-sharper-view-hints-at-new-possibilities-for-science/)
+- [Brightseed’s first AI-detected ‘phytonutrient’ comes to market alongside a $68M A round](https://techcrunch.com/2022/05/09/brightseeds-first-ai-detected-phytonutrient-comes-to-market-alongside-a-68m-a-round/)
+- [Mars sports &#39;invisible&#39; frost and dust avalanches, and scientists may finally know why](https://www.space.com/mars-invisible-frost-dust-avalanches-mystery/)
+- [Uber shareholders to vote on lobbying disclosure proposal](https://techcrunch.com/2022/05/09/uber-fully-disclose-lobbying-efforts/)
+- [Hey look, another downturn](https://techcrunch.com/2022/05/09/hey-look-another-downturn/)
+- [Lunar eclipse 2022 guide: When, where &amp; how to see them](https://www.space.com/33786-lunar-eclipse-guide.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
