@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Brightseed’s first AI-detected ‘phytonutrient’ comes to market alongside a $68M A round](https://techcrunch.com/2022/05/09/brightseeds-first-ai-detected-phytonutrient-comes-to-market-alongside-a-68m-a-round/)
+- [BlissLights Sky Lite 2.0 star projector review](https://www.space.com/blisslights-sky-lite-2.0-star-projector-review/)
+- [Rivian shares down more than 17% following report of Ford sell-off](https://techcrunch.com/2022/05/09/rivian-shares-down-more-than-17-following-report-of-ford-sell-off/)
+- [BBC announces Ncuti Gatwa as the new Doctor Who](https://www.space.com/bbc-new-doctor-who-ncuti-gatwa/)
+- [Brightseed’s first AI-detected ‘phytonutrient’ comes to market alongside a $68M B round](https://techcrunch.com/2022/05/09/brightseeds-first-ai-detected-phytonutrient-comes-to-market-alongside-a-68m-a-round/)
 - [Mars sports &#39;invisible&#39; frost and dust avalanches, and scientists may finally know why](https://www.space.com/mars-invisible-frost-dust-avalanches-mystery/)
-- [Uber shareholders to vote on lobbying disclosure proposal](https://techcrunch.com/2022/05/09/uber-fully-disclose-lobbying-efforts/)
-- [Hey look, another downturn](https://techcrunch.com/2022/05/09/hey-look-another-downturn/)
-- [Lunar eclipse 2022 guide: When, where &amp; how to see them](https://www.space.com/33786-lunar-eclipse-guide.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
