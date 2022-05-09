@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Station: Lyft and Uber driver incentives, Formula 1 tech and unpacking Rivian’s $1.5B incentives package](https://techcrunch.com/2022/05/09/the-station-lyft-and-uber-driver-incentives-formula-1-tech-and-unpacking-rivians-1-5b-incentives-package/)
+- [Manara gets $3M to grow tech talent pool in the Middle East and North Africa](https://techcrunch.com/2022/05/09/manara-gets-3m-to-grow-tech-talent-pool-in-the-middle-east-and-nort-africa/)
 - [Russian space chief Dmitry Rogozin apparently threatens Elon Musk](https://www.space.com/russian-space-chief-rogozin-threatens-elon-musk/)
 - [AST SpaceMobile scores US license to connect satellite directly to cell phones](https://www.space.com/ast-spacemobile-fcc-license-experimental-satellite/)
 - [Business intelligence and analytics firm Pyramid Analytics raises $100M](https://techcrunch.com/2022/05/09/business-intelligence-and-analytics-firm-pyramid-analytics-raises-100m/)
-- [PocketLaw, a contract automation SaaS for SMEs, secures Atomico’s support](https://techcrunch.com/2022/05/09/pocketlaw-series-a-atomico/)
-- [Zeiss binoculars deals: Discounts on top-rated models right now](https://www.space.com/zeiss-binoculars-deals/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
