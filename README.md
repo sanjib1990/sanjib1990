@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The dominoes are falling](https://techcrunch.com/2022/05/09/the-dominoes-are-falling/)
-- [China is on the hunt for &#39;Earth 2.0&#39; with proposed space telescope](https://www.space.com/china-earth-like-exoplanet-telescope/)
-- [Average startup CEO salary is $150,000 in 2022](https://techcrunch.com/2022/05/09/2022-startup-ceo-wages/)
-- [Lordstown reports $90 million loss and no progress on Foxconn deal](https://techcrunch.com/2022/05/09/lordstown-reports-90-million-loss-and-no-progress-on-foxconn-deal/)
-- [Raising monster rounds for self-driving mobility startups on TechCrunch Live](https://techcrunch.com/2022/05/09/raising-monster-rounds-for-self-driving-mobility-startups-on-techcrunch-live/)
+- [Gradient Ventures backs Mentum’s goal to democratize investment services in LatAm](https://techcrunch.com/2022/05/09/gradient-ventures-mentum-investment-latam/)
+- [Ultraprecise atomic optical clocks may redefine the length of a second](https://www.space.com/official-second-changing/)
+- [Supermoon: What is it and when does it occur?](https://www.space.com/38940-supermoon-facts.html/)
+- [Instagram to start testing NFTs with select creators this week](https://techcrunch.com/2022/05/09/instagram-testing-nfts-select-creators/)
+- [MIRI’s Sharper View Hints at New Possibilities for Science](https://blogs.nasa.gov/webb/2022/05/09/miris-sharper-view-hints-at-new-possibilities-for-science/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
