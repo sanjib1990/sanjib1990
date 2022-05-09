@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Clearview AI banned from selling its facial recognition software to most U.S. companies](https://techcrunch.com/2022/05/09/clearview-settlement-bipa/)
-- [White House doubles down on affordable broadband with central sign-up](https://techcrunch.com/2022/05/09/white-house-doubles-down-on-affordable-broadband-with-central-sign-up/)
-- [Mars helicopter Ingenuity recovering from communications blackout spawned by dust](https://www.space.com/mars-ingenuity-helicopter-blackout-dust/)
-- [A founder’s guide to calculating CAC and LTV the right way](https://techcrunch.com/2022/05/09/a-founders-guide-to-calculating-cac-and-ltv-the-right-way/)
-- [China launches Tianzhou 4 cargo craft to new Tiangong space station](https://www.space.com/china-launches-tianzhou4-spacecraft-tiangong-space-station/)
+- [Shark Tank’s Kevin O’Leary talks crypto and why he’s pro stablecoins](https://techcrunch.com/2022/05/09/shark-tanks-kevin-oleary-talks-crypto-and-why-hes-pro-stablecoins/)
+- [Holoride will give us a look at the in-car VR future arriving now at TC Sessions: Mobility 2022](https://techcrunch.com/2022/05/09/holoride-will-give-us-a-look-at-the-in-car-vr-future-arriving-now-at-tc-sessions-mobility-2022/)
+- [The half-billion-dollar profit swing that led to Better.com’s myriad layoffs](https://techcrunch.com/2022/05/09/the-half-billion-dollar-profit-swing-that-led-to-better-coms-myriad-layoffs/)
+- [Blue Origin announces crew for next suborbital space mission](https://www.space.com/blue-origin-crew-ns21-suborbital-space-mission/)
+- [Clearview AI banned from selling its facial recognition software to most US companies](https://techcrunch.com/2022/05/09/clearview-settlement-bipa/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
