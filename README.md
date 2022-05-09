@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Russian space chief Dmitry Rogozin apparently threatens Elon Musk](https://www.space.com/russian-space-chief-rogozin-threatens-elon-musk/)
+- [AST SpaceMobile scores US license to connect satellite directly to cell phones](https://www.space.com/ast-spacemobile-fcc-license-experimental-satellite/)
+- [Business intelligence and analytics firm Pyramid Analytics raises $100M](https://techcrunch.com/2022/05/09/business-intelligence-and-analytics-firm-pyramid-analytics-raises-100m/)
+- [PocketLaw, a contract automation SaaS for SMEs, secures Atomico’s support](https://techcrunch.com/2022/05/09/pocketlaw-series-a-atomico/)
 - [Zeiss binoculars deals: Discounts on top-rated models right now](https://www.space.com/zeiss-binoculars-deals/)
-- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html/)
-- [Egyptian fintech Paymob raises $50M led by PayPal Ventures and Kora Capital](https://techcrunch.com/2022/05/09/egyptian-fintech-paymob-raises-50m-led-by-paypal-ventures-and-kora-capital/)
-- [Atma wants to make job hunting in Indonesia easier](https://techcrunch.com/2022/05/08/atma-wants-to-make-job-hunting-in-indonesia-easier/)
-- [South Korea’s OHouse lands $182M to add AR to home improvement app](https://techcrunch.com/2022/05/08/south-koreas-ohouse-lands-128m-to-add-ar-to-home-improvement-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
