@@ -82,7 +82,7 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Let’s DESTROY Python!!…..data](https://www.youtube.com/watch?v=jdTwCSxNINA)
+- [i destroyed your Python data // EP 9](https://www.youtube.com/watch?v=jdTwCSxNINA)
 - [this BASH script will make you a MILLIONAIRE](https://www.youtube.com/watch?v=19nN9vgcgmU)
 - [Tauri in 100 Seconds](https://www.youtube.com/watch?v=-X8evddpu7M)
 - [100+ Computer Science Concepts Explained](https://www.youtube.com/watch?v=-uleG_Vecis)
