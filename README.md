@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Tenyx raises $15M to build more intelligent voice-based customer service AI](https://techcrunch.com/2022/05/10/tenyx-raises-15m-to-build-more-intelligent-voice-based-customer-service-ai/)
-- [OtterTune, which taps AI to optimize databases, raises $12M](https://techcrunch.com/2022/05/10/2309852/)
-- [As fintech gets more fragmented, Meld helps developers manage their tech stack](https://techcrunch.com/2022/05/10/fintech-gets-more-fragmented-meld-helps-developers-manage-tech-stack-integrations-api/)
-- [How Red Hat became the tip of the spear for IBM’s rejuvenation strategy](https://techcrunch.com/2022/05/10/how-red-hat-became-the-tip-of-the-spear-for-ibms-rejuvenation-strategy/)
-- [SirionLabs lands $85M to inject contract management with automation](https://techcrunch.com/2022/05/10/sirionlabs-lands-85m-to-inject-contract-management-with-automation/)
+- [Co:Create aims to help NFT projects launch their own cryptocurrencies](https://techcrunch.com/2022/05/10/cocreate-helps-nft-projects-launch-cryptocurrencies-crypto-tokens/)
+- [Supabase raises $80M Series B for its open source Firebase alternative](https://techcrunch.com/2022/05/10/supabase-raises-80m-series-b-for-its-open-source-firebase-alternative/)
+- [Adobe rolls out new Creative Cloud Express features for planning and publishing social media posts](https://techcrunch.com/2022/05/10/adobe-creative-cloud-express-publishing-social-media/)
+- [BNPL in 2022: 4 fintech investors discuss regulation, trends and how to stand out](https://techcrunch.com/2022/05/10/4-fintech-investors-investor-survey-bnpl-startups/)
+- [Best lens heaters in {year} and why every astrophotographer should have one](https://www.space.com/lens-heaters-the-best-for-astrophotography/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
