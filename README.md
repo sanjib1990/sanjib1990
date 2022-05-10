@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sending out Earth&#39;s location with the hope of reaching aliens is a controversial idea. These scientists are doing it anyway.](https://www.space.com/communicating-with-aliens-meti-attempts/)
+- [Faire lands $416M extension from YC, Sequoia and others for online wholesale marketplace](https://techcrunch.com/2022/05/10/faire-lands-416m-extension-from-yc-sequoia-and-others-for-online-wholesale-marketplace/)
+- [UK opts for slow reboot of Big Tech rules, pushes ahead on privacy ‘reforms’](https://techcrunch.com/2022/05/10/uk-queens-speech-big-tech-privacy-data-protection/)
+- [Nintendo says it now has more than 100 million annual playing users](https://techcrunch.com/2022/05/10/nintendo-100-million-annual-playing-users/)
 - [Slai makes intelligent choices around machine learning setups for developers](https://techcrunch.com/2022/05/10/slai-seed-round/)
-- [Freada and Mitch Kapor are ‘stepping back’ from Kapor Capital](https://techcrunch.com/2022/05/10/freada-and-mitch-kapor-are-stepping-back-from-kapor-capital/)
-- [Discovery+ becomes The Roku Channel Premium Subscription’s first ad-supported plan offering](https://techcrunch.com/2022/05/10/discovery-becomes-the-roku-channels-first-premium-subscription-offering-an-ad-supported-plan/)
-- [TechCrunch’s Annual Summer Party is back this June – first ticket release is happening now](https://techcrunch.com/2022/05/10/techcrunchs-annual-summer-party-is-back-this-june-first-ticket-release-is-happening-now/)
-- [Statue of Sally Ride, first American woman in space, to be unveiled at Cradle of Aviation](https://www.space.com/astronaut-sally-ride-statue-cradle-aviation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
