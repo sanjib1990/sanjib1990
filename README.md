@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Sending out Earth&#39;s location with the hope of reaching aliens is a controversial idea. These scientists are doing it anyway.](https://www.space.com/communicating-with-aliens-meti-attempts/)
-- [Faire lands $416M extension from YC, Sequoia and others for online wholesale marketplace](https://techcrunch.com/2022/05/10/faire-lands-416m-extension-from-yc-sequoia-and-others-for-online-wholesale-marketplace/)
-- [UK opts for slow reboot of Big Tech rules, pushes ahead on privacy ‘reforms’](https://techcrunch.com/2022/05/10/uk-queens-speech-big-tech-privacy-data-protection/)
-- [Nintendo says it now has more than 100 million annual playing users](https://techcrunch.com/2022/05/10/nintendo-100-million-annual-playing-users/)
-- [Slai makes intelligent choices around machine learning setups for developers](https://techcrunch.com/2022/05/10/slai-seed-round/)
+- [US Treasury Secretary Janet Yellen pushes for stablecoin regulation by end of year](https://techcrunch.com/2022/05/10/us-treasury-secretary-janet-yellen-pushes-for-stablecoin-regulation-by-end-of-year/)
+- [TechCrunch+ roundup: Drive growth with Q5 data, BNPL investor survey, calculating CAC/LTV](https://techcrunch.com/2022/05/10/techcrunch-roundup-drive-growth-with-q5-data-bnpl-investor-survey-calculating-cac-ltv/)
+- [Elon Musk says he would reverse Trump’s lifetime Twitter ban](https://techcrunch.com/2022/05/10/elon-musk-trump-perma-ban/)
+- [Twitter’s new policy highlights its efforts to combat spam and duplicative tweets](https://techcrunch.com/2022/05/10/twitters-new-policy-highlights-its-efforts-to-combat-spam-and-duplicative-tweets/)
+- [Republic’s venture arm reportedly raising $700 million for crypto-focused funds](https://techcrunch.com/2022/05/10/republics-venture-arm-reportedly-raising-700-million-for-crypto-focused-funds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
