@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Peloton’s earnings are even worse than expected](https://techcrunch.com/2022/05/10/pelotons-earnings-are-even-worse-than-expected/)
-- [Silicon Valley rallies behind New York ban on geofence and keyword search warrants](https://techcrunch.com/2022/05/10/google-new-york-geofence-keyword-warrant/)
-- [Unagi launches its own more exclusive version of shared micromobility](https://techcrunch.com/2022/05/10/unagi-launches-its-own-more-exclusive-version-of-shared-micromobility/)
-- [Watch the Event Horizon Telescope&#39;s &#39;groundbreaking&#39; Milky Way discovery reveal online this week](https://www.space.com/event-horizon-telescope-milky-way-discovery-webcasts/)
-- [On This Day In Space: May 10, 1967: NASA&#39;s M2-F2 lifting body crashes](https://www.space.com/39251-on-this-day-in-space.html/)
+- [Tenyx raises $15M to build more intelligent voice-based customer service AI](https://techcrunch.com/2022/05/10/tenyx-raises-15m-to-build-more-intelligent-voice-based-customer-service-ai/)
+- [OtterTune, which taps AI to optimize databases, raises $12M](https://techcrunch.com/2022/05/10/2309852/)
+- [As fintech gets more fragmented, Meld helps developers manage their tech stack](https://techcrunch.com/2022/05/10/fintech-gets-more-fragmented-meld-helps-developers-manage-tech-stack-integrations-api/)
+- [How Red Hat became the tip of the spear for IBM’s rejuvenation strategy](https://techcrunch.com/2022/05/10/how-red-hat-became-the-tip-of-the-spear-for-ibms-rejuvenation-strategy/)
+- [SirionLabs lands $85M to inject contract management with automation](https://techcrunch.com/2022/05/10/sirionlabs-lands-85m-to-inject-contract-management-with-automation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
