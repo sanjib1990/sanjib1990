@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Peloton CEO to shareholders: ‘Turnarounds are hard work’](https://techcrunch.com/2022/05/10/daily-crunch-peloton-ceo-to-shareholders-turnarounds-are-hard-work/)
 - [VW aims to launch Scout, an EV off-roading brand](https://techcrunch.com/2022/05/10/vw-launch-scout-ev-off-roading-brand-us/)
 - [a16z, Coatue, USV invest in $725M developer fund for Dapper’s Flow blockchain](https://techcrunch.com/2022/05/10/a16z-coatue-usv-invest-in-725m-developer-fund-for-dappers-flow-blockchain/)
 - [&#39;Doctor Strange in the Multiverse of Madness&#39; is a madcap rush into a magical maelstrom &lpar;review&rpar;](https://www.space.com/doctor-strange-in-the-multiverse-of-madness-review/)
-- [Musk talks Tesla demand, EV startups, and scooters in expansive interview](https://techcrunch.com/2022/05/10/musk-talks-tesla-demand-ev-startups-and-scooters-in-expansive-interview/)
-- [EV startup Canoo sues major investor over sketchy share sales](https://techcrunch.com/2022/05/10/ev-startup-canoo-sues-major-investor-over-sketchy-share-sales/)
+- [Musk talks Tesla demand, EV startups and scooters in expansive interview](https://techcrunch.com/2022/05/10/musk-talks-tesla-demand-ev-startups-and-scooters-in-expansive-interview/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
