@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Byrd nabs $56M to grow its European e-commerce logistics and fulfillment network as an alternative to Amazon](https://techcrunch.com/2022/05/10/byrd-nabs-56m-to-grow-its-european-e-commerce-logistics-and-fulfillment-network-as-an-alternative-to-amazon/)
+- [BharatPe to claw back founder’s shares, terminate ‘several’ employees](https://techcrunch.com/2022/05/09/bharatpe-ashneer-grover-clawback/)
+- [Fertility startup Hannah Life Technologies gets $5.15M Pre-Series A](https://techcrunch.com/2022/05/09/fertility-startup-hannah-life-technologies-gets-5-15m-pre-series-a/)
 - [Bonobos cofounder Andy Dunn is taking public his secret battle with bipolar disorder](https://techcrunch.com/2022/05/09/bonobos-cofounder-andy-dunn-is-taking-public-his-secret-battle-with-bipolar-disorder/)
 - [Paddle, the company that wants to take on Apple in IAP, raises $200M at a $1.4B valuation to supercharge SaaS payments](https://techcrunch.com/2022/05/09/paddle-saas-series-d/)
-- [Arianee raises $21 million to deliver ownership NFTs with physical luxury goods](https://techcrunch.com/2022/05/09/arianee-raises-21-million-to-deliver-ownership-nfts-with-physical-luxury-goods/)
-- [China’s internet users are paying close attention to the crypto crash](https://techcrunch.com/2022/05/09/bitcion-luna-china-social-media/)
-- [China&#39;s Tiangong space station receives fresh supplies from new Tianzhou cargo spacecraft](https://www.space.com/china-space-station-tianzhou-4-docking/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
