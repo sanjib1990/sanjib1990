@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [US Treasury Secretary Janet Yellen pushes for stablecoin regulation by end of year](https://techcrunch.com/2022/05/10/us-treasury-secretary-janet-yellen-pushes-for-stablecoin-regulation-by-end-of-year/)
-- [TechCrunch+ roundup: Drive growth with Q5 data, BNPL investor survey, calculating CAC/LTV](https://techcrunch.com/2022/05/10/techcrunch-roundup-drive-growth-with-q5-data-bnpl-investor-survey-calculating-cac-ltv/)
-- [Elon Musk says he would reverse Trump’s lifetime Twitter ban](https://techcrunch.com/2022/05/10/elon-musk-trump-perma-ban/)
-- [Twitter’s new policy highlights its efforts to combat spam and duplicative tweets](https://techcrunch.com/2022/05/10/twitters-new-policy-highlights-its-efforts-to-combat-spam-and-duplicative-tweets/)
-- [Republic’s venture arm reportedly raising $700 million for crypto-focused funds](https://techcrunch.com/2022/05/10/republics-venture-arm-reportedly-raising-700-million-for-crypto-focused-funds/)
+- [Robinhood aims to court users by offering attractive 1% interest rate on cash](https://techcrunch.com/2022/05/10/robinhood-investing-aims-to-court-users-offering-1-interest-rate-on-cash/)
+- [DARPA wants ideas for a nuclear rocket for missions in Earth-moon space](https://www.space.com/darpa-nuclear-rocket-earth-moon-space/)
+- [Move over Picasso, watching this robot paint a car is mesmerizing](https://techcrunch.com/2022/05/10/better-than-a-rattle-can/)
+- [AboveBoard’s $6 million seed will help place underrepresented folks in executive roles](https://techcrunch.com/2022/05/10/aboveboards-6-million-seed-will-help-place-underrepresented-folks-in-executive-roles/)
+- [&#39;Star Trek: Strange New Worlds&#39; episode 1 is a love letter to &#39;The Original Series&#39;](https://www.space.com/star-trek-strange-new-worlds-season-1-episode-1-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
