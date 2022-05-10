@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Crypto exchange KuCoin raises funds at $10 billion valuation](https://techcrunch.com/2022/05/10/crypto-exchange-kucoin-raises-150-million-at-10-billion-valuation/)
-- [Saddle up marines: The vehicles of Halo](https://www.space.com/halo-vehicles/)
-- [Elon Musk gives Europe’s speech platform rules the thumbs up](https://techcrunch.com/2022/05/10/elon-musk-eu-speech-platform-rules-digital-services-act/)
-- [Bookaway books $35M to scale up its ground transportation booking platform](https://techcrunch.com/2022/05/10/bookaway-books-35m-to-scale-up-its-ground-transportation-booking-platform/)
-- [Byrd nabs $56M to grow its European e-commerce logistics and fulfillment network as an alternative to Amazon](https://techcrunch.com/2022/05/10/byrd-nabs-56m-to-grow-its-european-e-commerce-logistics-and-fulfillment-network-as-an-alternative-to-amazon/)
+- [Blueland takes its ‘don’t ship water’ model to body wash](https://techcrunch.com/2022/05/10/blueland-powdered-body-wash/)
+- [Meta sued in Kenya over claims of exploitation and union busting](https://techcrunch.com/2022/05/10/meta-sued-in-kenya-over-claims-of-exploitation-and-union-busting/)
+- [WizeHire lands fresh cash to expand its SMB-focused hiring platform](https://techcrunch.com/2022/05/10/wizehire-lands-fresh-cash-to-expand-its-smb-focused-hiring-platform/)
+- [Hubble Space Telescope spots &#39;grand design&#39; galaxy in stunning new image](https://www.space.com/hubble-space-telescope-galaxy-m99-double-image/)
+- [Zomato tumbles below its last private valuation](https://techcrunch.com/2022/05/10/zomato-tumbles-below-its-last-private-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
