@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Co:Create aims to help NFT projects launch their own cryptocurrencies](https://techcrunch.com/2022/05/10/cocreate-helps-nft-projects-launch-cryptocurrencies-crypto-tokens/)
-- [Supabase raises $80M Series B for its open source Firebase alternative](https://techcrunch.com/2022/05/10/supabase-raises-80m-series-b-for-its-open-source-firebase-alternative/)
-- [Adobe rolls out new Creative Cloud Express features for planning and publishing social media posts](https://techcrunch.com/2022/05/10/adobe-creative-cloud-express-publishing-social-media/)
-- [BNPL in 2022: 4 fintech investors discuss regulation, trends and how to stand out](https://techcrunch.com/2022/05/10/4-fintech-investors-investor-survey-bnpl-startups/)
-- [Best lens heaters in {year} and why every astrophotographer should have one](https://www.space.com/lens-heaters-the-best-for-astrophotography/)
+- [This spiral galaxy looks positively royal in vibrant new image](https://www.space.com/spiral-galaxy-image-messier-66-eso/)
+- [The iPod is dead](https://techcrunch.com/2022/05/10/the-ipod-is-dead/)
+- [Predibase exits stealth with a low-code platform for building AI models](https://techcrunch.com/2022/05/10/predibase-exits-stealth-with-a-low-code-platform-for-building-ai-models/)
+- [Arrikto expands it MLOps platform with Kubeflow as a Service](https://techcrunch.com/2022/05/10/arrikto-expands-it-mlops-platform-with-kubeflow-as-a-service/)
+- [Formwork Labs aims to build ‘the YC of construction tech’](https://techcrunch.com/2022/05/10/vc-industry-organization-team-up-to-form-formwork-labs-which-aims-to-be-the-yc-of-construction-tech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
