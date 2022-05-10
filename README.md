@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Blueland takes its ‘don’t ship water’ model to body wash](https://techcrunch.com/2022/05/10/blueland-powdered-body-wash/)
-- [Meta sued in Kenya over claims of exploitation and union busting](https://techcrunch.com/2022/05/10/meta-sued-in-kenya-over-claims-of-exploitation-and-union-busting/)
-- [WizeHire lands fresh cash to expand its SMB-focused hiring platform](https://techcrunch.com/2022/05/10/wizehire-lands-fresh-cash-to-expand-its-smb-focused-hiring-platform/)
-- [Hubble Space Telescope spots &#39;grand design&#39; galaxy in stunning new image](https://www.space.com/hubble-space-telescope-galaxy-m99-double-image/)
-- [Zomato tumbles below its last private valuation](https://techcrunch.com/2022/05/10/zomato-tumbles-below-its-last-private-valuation/)
+- [Peloton’s earnings are even worse than expected](https://techcrunch.com/2022/05/10/pelotons-earnings-are-even-worse-than-expected/)
+- [Silicon Valley rallies behind New York ban on geofence and keyword search warrants](https://techcrunch.com/2022/05/10/google-new-york-geofence-keyword-warrant/)
+- [Unagi launches its own more exclusive version of shared micromobility](https://techcrunch.com/2022/05/10/unagi-launches-its-own-more-exclusive-version-of-shared-micromobility/)
+- [Watch the Event Horizon Telescope&#39;s &#39;groundbreaking&#39; Milky Way discovery reveal online this week](https://www.space.com/event-horizon-telescope-milky-way-discovery-webcasts/)
+- [On This Day In Space: May 10, 1967: NASA&#39;s M2-F2 lifting body crashes](https://www.space.com/39251-on-this-day-in-space.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
