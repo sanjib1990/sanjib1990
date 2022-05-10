@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Crypto exchange KuCoin raises funds at $10 billion valuation](https://techcrunch.com/2022/05/10/crypto-exchange-kucoin-raises-150-million-at-10-billion-valuation/)
+- [Saddle up marines: The vehicles of Halo](https://www.space.com/halo-vehicles/)
+- [Elon Musk gives Europe’s speech platform rules the thumbs up](https://techcrunch.com/2022/05/10/elon-musk-eu-speech-platform-rules-digital-services-act/)
 - [Bookaway books $35M to scale up its ground transportation booking platform](https://techcrunch.com/2022/05/10/bookaway-books-35m-to-scale-up-its-ground-transportation-booking-platform/)
 - [Byrd nabs $56M to grow its European e-commerce logistics and fulfillment network as an alternative to Amazon](https://techcrunch.com/2022/05/10/byrd-nabs-56m-to-grow-its-european-e-commerce-logistics-and-fulfillment-network-as-an-alternative-to-amazon/)
-- [BharatPe to claw back founder’s shares, terminate ‘several’ employees](https://techcrunch.com/2022/05/09/bharatpe-ashneer-grover-clawback/)
-- [Fertility startup Hannah Life Technologies gets $5.15M Pre-Series A](https://techcrunch.com/2022/05/09/fertility-startup-hannah-life-technologies-gets-5-15m-pre-series-a/)
-- [Bonobos cofounder Andy Dunn is taking public his secret battle with bipolar disorder](https://techcrunch.com/2022/05/09/bonobos-cofounder-andy-dunn-is-taking-public-his-secret-battle-with-bipolar-disorder/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
