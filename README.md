@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Match Group sues Google over ‘monopoly power’ in Android app payments](https://techcrunch.com/2022/05/09/match-group-google-lawsuit-google-play/)
+- [Seadronix aims to reduce marine accidents at port and sea with AI](https://techcrunch.com/2022/05/09/seadronix-aims-to-reduce-marine-accidents-at-port-and-sea-with-ai/)
 - [Yapily to acquire finAPI in open banking consolidation move](https://techcrunch.com/2022/05/09/yapily-to-acquire-finapi-in-open-banking-consolidation-move/)
 - [Daily Crunch: PayPal Ventures leads $50M Series B for Egyptian fintech Paymob](https://techcrunch.com/2022/05/09/daily-crunch-paypal-ventures-leads-50m-series-b-for-egyptian-fintech-paymob/)
 - [Modern Fertility co-founder leaves Ro a year after acquisition](https://techcrunch.com/2022/05/09/modern-fertility-co-founder-afton-vechery-is-leaving-ro/)
-- [Use data from Q5 to boost mobile app growth for the entire year](https://techcrunch.com/2022/05/09/use-data-from-q5-to-boost-mobile-app-growth-for-the-entire-year/)
-- [Max Q: Rocket booster, meet helicopter](https://techcrunch.com/2022/05/09/max-q-rocket-booster-meet-helicopter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
