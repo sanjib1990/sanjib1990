@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [This spiral galaxy looks positively royal in vibrant new image](https://www.space.com/spiral-galaxy-image-messier-66-eso/)
-- [The iPod is dead](https://techcrunch.com/2022/05/10/the-ipod-is-dead/)
-- [Predibase exits stealth with a low-code platform for building AI models](https://techcrunch.com/2022/05/10/predibase-exits-stealth-with-a-low-code-platform-for-building-ai-models/)
-- [Arrikto expands it MLOps platform with Kubeflow as a Service](https://techcrunch.com/2022/05/10/arrikto-expands-it-mlops-platform-with-kubeflow-as-a-service/)
-- [Formwork Labs aims to build ‘the YC of construction tech’](https://techcrunch.com/2022/05/10/vc-industry-organization-team-up-to-form-formwork-labs-which-aims-to-be-the-yc-of-construction-tech/)
+- [Slai makes intelligent choices around machine learning setups for developers](https://techcrunch.com/2022/05/10/slai-seed-round/)
+- [Freada and Mitch Kapor are ‘stepping back’ from Kapor Capital](https://techcrunch.com/2022/05/10/freada-and-mitch-kapor-are-stepping-back-from-kapor-capital/)
+- [Discovery+ becomes The Roku Channel Premium Subscription’s first ad-supported plan offering](https://techcrunch.com/2022/05/10/discovery-becomes-the-roku-channels-first-premium-subscription-offering-an-ad-supported-plan/)
+- [TechCrunch’s Annual Summer Party is back this June – first ticket release is happening now](https://techcrunch.com/2022/05/10/techcrunchs-annual-summer-party-is-back-this-june-first-ticket-release-is-happening-now/)
+- [Statue of Sally Ride, first American woman in space, to be unveiled at Cradle of Aviation](https://www.space.com/astronaut-sally-ride-statue-cradle-aviation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
