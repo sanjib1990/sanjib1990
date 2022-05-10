@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Robinhood aims to court users by offering attractive 1% interest rate on cash](https://techcrunch.com/2022/05/10/robinhood-investing-aims-to-court-users-offering-1-interest-rate-on-cash/)
-- [DARPA wants ideas for a nuclear rocket for missions in Earth-moon space](https://www.space.com/darpa-nuclear-rocket-earth-moon-space/)
-- [Move over Picasso, watching this robot paint a car is mesmerizing](https://techcrunch.com/2022/05/10/better-than-a-rattle-can/)
-- [AboveBoard’s $6 million seed will help place underrepresented folks in executive roles](https://techcrunch.com/2022/05/10/aboveboards-6-million-seed-will-help-place-underrepresented-folks-in-executive-roles/)
-- [&#39;Star Trek: Strange New Worlds&#39; episode 1 is a love letter to &#39;The Original Series&#39;](https://www.space.com/star-trek-strange-new-worlds-season-1-episode-1-review/)
+- [VW aims to launch Scout, an EV off-roading brand](https://techcrunch.com/2022/05/10/vw-launch-scout-ev-off-roading-brand-us/)
+- [a16z, Coatue, USV invest in $725M developer fund for Dapper’s Flow blockchain](https://techcrunch.com/2022/05/10/a16z-coatue-usv-invest-in-725m-developer-fund-for-dappers-flow-blockchain/)
+- [&#39;Doctor Strange in the Multiverse of Madness&#39; is a madcap rush into a magical maelstrom &lpar;review&rpar;](https://www.space.com/doctor-strange-in-the-multiverse-of-madness-review/)
+- [Musk talks Tesla demand, EV startups, and scooters in expansive interview](https://techcrunch.com/2022/05/10/musk-talks-tesla-demand-ev-startups-and-scooters-in-expansive-interview/)
+- [EV startup Canoo sues major investor over sketchy share sales](https://techcrunch.com/2022/05/10/ev-startup-canoo-sues-major-investor-over-sketchy-share-sales/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
