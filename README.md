@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bookaway books $35M to scale up its ground transportation booking platform](https://techcrunch.com/2022/05/10/bookaway-books-35m-to-scale-up-its-ground-transportation-booking-platform/)
 - [Byrd nabs $56M to grow its European e-commerce logistics and fulfillment network as an alternative to Amazon](https://techcrunch.com/2022/05/10/byrd-nabs-56m-to-grow-its-european-e-commerce-logistics-and-fulfillment-network-as-an-alternative-to-amazon/)
 - [BharatPe to claw back founder’s shares, terminate ‘several’ employees](https://techcrunch.com/2022/05/09/bharatpe-ashneer-grover-clawback/)
 - [Fertility startup Hannah Life Technologies gets $5.15M Pre-Series A](https://techcrunch.com/2022/05/09/fertility-startup-hannah-life-technologies-gets-5-15m-pre-series-a/)
 - [Bonobos cofounder Andy Dunn is taking public his secret battle with bipolar disorder](https://techcrunch.com/2022/05/09/bonobos-cofounder-andy-dunn-is-taking-public-his-secret-battle-with-bipolar-disorder/)
-- [Paddle, the company that wants to take on Apple in IAP, raises $200M at a $1.4B valuation to supercharge SaaS payments](https://techcrunch.com/2022/05/09/paddle-saas-series-d/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
