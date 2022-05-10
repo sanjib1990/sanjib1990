@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bonobos cofounder Andy Dunn is taking public his secret battle with bipolar disorder](https://techcrunch.com/2022/05/09/bonobos-cofounder-andy-dunn-is-taking-public-his-secret-battle-with-bipolar-disorder/)
 - [Paddle, the company that wants to take on Apple in IAP, raises $200M at a $1.4B valuation to supercharge SaaS payments](https://techcrunch.com/2022/05/09/paddle-saas-series-d/)
 - [Arianee raises $21 million to deliver ownership NFTs with physical luxury goods](https://techcrunch.com/2022/05/09/arianee-raises-21-million-to-deliver-ownership-nfts-with-physical-luxury-goods/)
 - [China’s internet users are paying close attention to the crypto crash](https://techcrunch.com/2022/05/09/bitcion-luna-china-social-media/)
 - [China&#39;s Tiangong space station receives fresh supplies from new Tianzhou cargo spacecraft](https://www.space.com/china-space-station-tianzhou-4-docking/)
-- [Eureka Robotics, the team behind the ‘IkeaBot’, picks up $4.25M](https://techcrunch.com/2022/05/09/eureka-robotics-the-team-behind-the-ikeabot-picks-up-4-25m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
