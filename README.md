@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Get the Terraforming Mars video game for free right now from Epic Games](https://www.space.com/terraforming-mars-video-game-free-pc/)
-- [These AI-powered robot overlords are here to keep your warehouse workers safe&lpar;r&rpar;](https://techcrunch.com/2022/05/11/voxel-series-a/)
-- [Finding your startup’s valuation: 5 factors to consider](https://techcrunch.com/2022/05/11/finding-your-startups-valuation-5-factors-to-consider/)
-- [YouTube is testing a memberships gifting feature with select creators](https://techcrunch.com/2022/05/11/youtube-memberships-gifting-feature/)
-- [Stronger gravity in the early universe may solve a cosmological conundrum](https://www.space.com/stronger-gravity-early-universe/)
+- [Google Maps challenges Apple’s 3D mode with a new ‘immersive view’ for cities](https://techcrunch.com/2022/05/11/google-maps-challenges-apples-3d-mode-with-a-new-immersive-view-for-cities/)
+- [Google Translate adds 24 new languages, including its first indigenous languages of the Americas](https://techcrunch.com/2022/05/11/google-translate-adds-24-new-languages-including-its-first-indigenous-languages-of-the-americas/)
+- [Cretaceous asteroid armageddon ignites TV screens in &#39;Dinosaur Apocalypse&#39;](https://www.space.com/dinosaur-apocalypse-recreates-asteroid-extinction-day/)
+- [Exhibit free at TC Disrupt 2022 as one of the Startup Battlefield 200](https://techcrunch.com/2022/05/11/exhibit-free-at-tc-disrupt-2022-as-one-of-the-startup-battlefield-200/)
+- [Twitter launches a new web game to make its privacy policy easier to understand](https://techcrunch.com/2022/05/11/twitter-launches-a-new-web-game-to-make-its-privacy-policy-easier-to-understand/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
