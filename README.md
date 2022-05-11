@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Xos shows off two new EVs as diesel-guzzling fleets inch towards electrification](https://techcrunch.com/2022/05/10/xos-new-evs-electrify-disel-big-rigs/)
+- [European micromobility startup Reby acquired by PE player House of Lithium for $100M](https://techcrunch.com/2022/05/10/european-micromobility-startup-reby-acquired-by-pe-player-house-of-lithium-for-100m/)
+- [Coinbase CEO says India central bank’s ‘informal pressure’ prompted trading halt](https://techcrunch.com/2022/05/10/coinbase-trading-reserve-bank-of-india/)
 - [Canoo warns it may not have enough funds to bring EVs to market](https://techcrunch.com/2022/05/10/canoo-warns-it-may-not-have-enough-funds-to-bring-evs-to-market/)
 - [Tiger Global, hit by $17B in hedge fund losses, has nearly depleted its latest VC fund](https://techcrunch.com/2022/05/10/tiger-global-hit-by-17b-hedge-fund-losses-has-nearly-depleted-its-latest-vc-fund/)
-- [Daily Crunch: Peloton CEO to shareholders: ‘Turnarounds are hard work’](https://techcrunch.com/2022/05/10/daily-crunch-peloton-ceo-to-shareholders-turnarounds-are-hard-work/)
-- [VW aims to launch Scout, an EV off-roading brand](https://techcrunch.com/2022/05/10/vw-launch-scout-ev-off-roading-brand-us/)
-- [a16z, Coatue, USV invest in $725M developer fund for Dapper’s Flow blockchain](https://techcrunch.com/2022/05/10/a16z-coatue-usv-invest-in-725m-developer-fund-for-dappers-flow-blockchain/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
