@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Egypt’s Mylerz raises $9.6M for its e-commerce fulfillment service, eyes Africa-wide growth](https://techcrunch.com/2022/05/10/egypts-mylerz-raises-9-6m-for-its-e-commerce-fulfillment-service-eyes-africa-wide-growth/)
 - [Crypto forensics startup Chainalysis raises $170M at $8.6B valuation](https://techcrunch.com/2022/05/10/crypto-forensics-startup-chainalysis-raises-170m-at-8-6b-valuation/)
 - [Berlin’s GetHenry breaks into last-mile delivery e-bike scene with $17.4M seed](https://techcrunch.com/2022/05/10/berlins-gethenry-breaks-into-last-mile-delivery-e-bike-scene-with-17-4m-seed/)
 - [Xos shows off two new EVs as diesel-guzzling fleets inch towards electrification](https://techcrunch.com/2022/05/10/xos-new-evs-electrify-disel-big-rigs/)
 - [European micromobility startup Reby acquired by PE player House of Lithium for $100M](https://techcrunch.com/2022/05/10/european-micromobility-startup-reby-acquired-by-pe-player-house-of-lithium-for-100m/)
-- [Coinbase CEO says India central bank’s ‘informal pressure’ prompted trading halt](https://techcrunch.com/2022/05/10/coinbase-trading-reserve-bank-of-india/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
