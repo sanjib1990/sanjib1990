@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Celestron telescope &amp; binocular deals you can still get: Discounts &amp; what&#39;s in stock](https://www.space.com/38901-celestron-deals-telescopes-binoculars.html/)
-- [Airbnb is reinventing itself — Brian Chesky tells us why](https://techcrunch.com/2022/05/11/airbnb-is-reinventing-itself-brian-chesky-tells-us-why/)
-- [Tripolygon, a 3D modeling software developer, lets metaverse creators make their own 3D assets](https://techcrunch.com/2022/05/11/tripolygon-a-3d-modeling-software-developer-lets-metaverse-creators-make-their-own-3d-assets/)
-- [MARA raises $23M from Coinbase Ventures and FTX to build Africa’s portal to the crypto economy](https://techcrunch.com/2022/05/11/mara-raises-23m-from-coinbase-ventures-and-ftx-to-build-africas-portal-to-the-crypto-economy/)
-- [Luxus wants the crown jewel of your portfolio to be an actual diamond](https://techcrunch.com/2022/05/11/luxus-crown-jewel-your-portfolio-to-be-diamond-gemstone-luxury-alternative-assets/)
+- [Stronger gravity in the early universe may solve a cosmological conundrum](https://www.space.com/stronger-gravity-early-universe/)
+- [Hubble Space Telescope spots star that survived violent explosion of neighbor](https://www.space.com/hubble-space-telescope-supernova-companion-star/)
+- [Fueled by the remote work revolution, Deel more than doubles valuation to $12B with new raise](https://techcrunch.com/2022/05/11/fueled-by-the-remote-work-revolution-deel-more-than-doubles-valuation-to-12b-with-new-raise/)
+- [Citi backs Crowdz, a Pipe competitor that just raised $10M for its blockchain-powered invoice financing marketplace](https://techcrunch.com/2022/05/11/citi-backs-crowdz-which-just-raised-10m-for-its-blockchain-powered-invoice-financing-marketplace/)
+- [RIP iPod, you walked so smartphones could run](https://techcrunch.com/2022/05/11/rip-ipod-you-walked-so-smartphones-could-run/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
