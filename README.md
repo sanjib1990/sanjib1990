@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Maps challenges Apple’s 3D mode with a new ‘immersive view’ for cities](https://techcrunch.com/2022/05/11/google-maps-challenges-apples-3d-mode-with-a-new-immersive-view-for-cities/)
-- [Google Translate adds 24 new languages, including its first indigenous languages of the Americas](https://techcrunch.com/2022/05/11/google-translate-adds-24-new-languages-including-its-first-indigenous-languages-of-the-americas/)
-- [Cretaceous asteroid armageddon ignites TV screens in &#39;Dinosaur Apocalypse&#39;](https://www.space.com/dinosaur-apocalypse-recreates-asteroid-extinction-day/)
-- [Exhibit free at TC Disrupt 2022 as one of the Startup Battlefield 200](https://techcrunch.com/2022/05/11/exhibit-free-at-tc-disrupt-2022-as-one-of-the-startup-battlefield-200/)
-- [Twitter launches a new web game to make its privacy policy easier to understand](https://techcrunch.com/2022/05/11/twitter-launches-a-new-web-game-to-make-its-privacy-policy-easier-to-understand/)
+- [Google is implementing a new 10-shade skin tone scale across several of its products](https://techcrunch.com/2022/05/11/google-new-10-shade-skin-tone-scale/)
+- [Google Chrome adds virtual credit card numbers to keep your real ones safe](https://techcrunch.com/2022/05/11/google-chrome-adds-virtual-credit-card-numbers-to-keep-your-real-ones-safe/)
+- [Google brings phishing detection to Docs, Sheets and Slides, along with other privacy and security updates](https://techcrunch.com/2022/05/11/google-brings-phishing-detection-to-docs-sheets-and-slides-along-with-other-privacy-and-security-updates/)
+- [‘My competition is climate change’: Carbon Clean raises $150M led by Chevron](https://techcrunch.com/2022/05/11/my-competition-is-climate-change-carbon-clean-raises-150m-led-by-chevron/)
+- [Google launches a 9 exaflop cluster of Cloud TPU v4 pods into public preview](https://techcrunch.com/2022/05/11/google-launches-a-9-exaflop-cluster-of-cloud-tpu-v4-pods-into-public-preview/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
