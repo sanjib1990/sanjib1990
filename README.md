@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [DARPA&#39;s &#39;Glide Breaker&#39; hypersonic missile interceptor program enters new phase](https://www.space.com/darpa-glide-breaker-hypersonic-interceptor-new-phase/)
-- [Virgin Orbit is buying 2 more rocket-launching planes](https://www.space.com/virgin-orbit-more-rocket-launch-planes/)
-- [Climate change: Causes and effects](https://www.space.com/what-is-climate-change-explained/)
-- [Lunar eclipses: Everything you need to know](https://www.space.com/15689-lunar-eclipses.html/)
-- [Identitypass, an identity verification API for Africa, raises $2.8M seed funding](https://techcrunch.com/2022/05/11/identitypass-an-identity-verification-api-for-africa-raises-2-8m-seed-funding/)
+- [Gogoro to launch Smartscooters and battery swapping stations in Israel](https://techcrunch.com/2022/05/11/gogoro-to-launch-smartscooters-and-battery-swapping-stations-in-israel/)
+- [Faye hopes to do for travel insurance what Lemonade did for general insurance](https://techcrunch.com/2022/05/11/faye-hopes-to-do-for-travel-insurance-what-lemonade-did-for-general-insurance/)
+- [On This Day In Space: May 11, 2009: Final Hubble servicing mission launches](https://www.space.com/39251-on-this-day-in-space.html/)
+- [NASA&#39;s James Webb Space Telescope is almost ready for science. Here&#39;s what&#39;s next.](https://www.space.com/james-webb-space-telescope-commissioning-period-last-phase/)
+- [Nexite raises $67M for its new approach to tagging and tracking merchandise in physical stores](https://techcrunch.com/2022/05/11/nexite-raises-67m-for-its-new-approach-to-tagging-and-tracking-merchandise-in-physical-stores/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
