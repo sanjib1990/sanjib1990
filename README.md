@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Identitypass, an identity verification API for Africa, raises $2.8M seed funding](https://techcrunch.com/2022/05/11/identitypass-an-identity-verification-api-for-africa-raises-2-8m-seed-funding/)
+- [Educapital aims to raise a $160 million fund focused on edtech and future of work](https://techcrunch.com/2022/05/11/educapital-aims-to-raise-a-160-million-fund-focused-on-edtech-and-future-of-work/)
 - [Watch Google I/O keynote live right here](https://techcrunch.com/2022/05/11/google-io-2022-live-stream-livestream-pixel-android-chrome/)
 - [Egypt’s Mylerz raises $9.6M for its e-commerce fulfillment service, eyes Africa-wide growth](https://techcrunch.com/2022/05/10/egypts-mylerz-raises-9-6m-for-its-e-commerce-fulfillment-service-eyes-africa-wide-growth/)
 - [Crypto forensics startup Chainalysis raises $170M at $8.6B valuation](https://techcrunch.com/2022/05/10/crypto-forensics-startup-chainalysis-raises-170m-at-8-6b-valuation/)
-- [Berlin’s GetHenry breaks into last-mile delivery e-bike scene with $17.4M seed](https://techcrunch.com/2022/05/10/berlins-gethenry-breaks-into-last-mile-delivery-e-bike-scene-with-17-4m-seed/)
-- [Xos shows off two new EVs as diesel-guzzling fleets inch towards electrification](https://techcrunch.com/2022/05/10/xos-new-evs-electrify-disel-big-rigs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
