@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google is implementing a new 10-shade skin tone scale across several of its products](https://techcrunch.com/2022/05/11/google-new-10-shade-skin-tone-scale/)
-- [Google Chrome adds virtual credit card numbers to keep your real ones safe](https://techcrunch.com/2022/05/11/google-chrome-adds-virtual-credit-card-numbers-to-keep-your-real-ones-safe/)
-- [Google brings phishing detection to Docs, Sheets and Slides, along with other privacy and security updates](https://techcrunch.com/2022/05/11/google-brings-phishing-detection-to-docs-sheets-and-slides-along-with-other-privacy-and-security-updates/)
-- [‘My competition is climate change’: Carbon Clean raises $150M led by Chevron](https://techcrunch.com/2022/05/11/my-competition-is-climate-change-carbon-clean-raises-150m-led-by-chevron/)
-- [Google launches a 9 exaflop cluster of Cloud TPU v4 pods into public preview](https://techcrunch.com/2022/05/11/google-launches-a-9-exaflop-cluster-of-cloud-tpu-v4-pods-into-public-preview/)
+- [Google Glass’s successor teased at I/O](https://techcrunch.com/2022/05/11/google-glasss-successor-teased-at-i-o/)
+- [Google offers a peek at the Pixel 7](https://techcrunch.com/2022/05/11/google-offers-a-peek-at-the-pixel-7/)
+- [Google finally brings noise cancellation to Pixel Buds](https://techcrunch.com/2022/05/11/google-finally-brings-noise-cancellation-to-pixel-buds/)
+- [Google’s budget Pixel 6a arrives July 28 for $449](https://techcrunch.com/2022/05/11/googles-budget-pixel-6a-arrives-july-28-for-449/)
+- [Google’s Pixel Watch arrives this fall](https://techcrunch.com/2022/05/11/googles-pixel-watch-arrives-this-fall/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
