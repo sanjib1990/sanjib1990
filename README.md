@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Data observability startup Observe secures $70M](https://techcrunch.com/2022/05/11/data-observability-startup-observe-secures-70m/)
-- [Gogoro to launch Smartscooters and battery swapping stations in Israel](https://techcrunch.com/2022/05/11/gogoro-to-launch-smartscooters-and-battery-swapping-stations-in-israel/)
-- [Faye hopes to do for travel insurance what Lemonade did for general insurance](https://techcrunch.com/2022/05/11/faye-hopes-to-do-for-travel-insurance-what-lemonade-did-for-general-insurance/)
-- [On This Day In Space: May 11, 2009: Final Hubble servicing mission launches](https://www.space.com/39251-on-this-day-in-space.html/)
-- [NASA&#39;s James Webb Space Telescope is almost ready for science. Here&#39;s what&#39;s next.](https://www.space.com/james-webb-space-telescope-commissioning-period-last-phase/)
+- [MARA raises $23M from Coinbase Ventures and FTX to build Africa’s portal to the crypto economy](https://techcrunch.com/2022/05/11/mara-raises-23m-from-coinbase-ventures-and-ftx-to-build-africas-portal-to-the-crypto-economy/)
+- [Luxus wants the crown jewel of your portfolio to be an actual diamond](https://techcrunch.com/2022/05/11/luxus-crown-jewel-your-portfolio-to-be-diamond-gemstone-luxury-alternative-assets/)
+- [Sunday Security launches a cybersecurity service for senior execs](https://techcrunch.com/2022/05/11/sunday-security-launches-a-cybersecurity-service-for-senior-execs/)
+- [Airbnb’s huge summer update preps for a new era of travel](https://techcrunch.com/2022/05/11/airbnb-categories-split-stays-aircover/)
+- [UST founder Do Kwon shares plan to save its stablecoin from mass destruction](https://techcrunch.com/2022/05/11/ust-founder-do-kwon-shares-plan-to-save-its-stablecoin-from-mass-destruction/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
