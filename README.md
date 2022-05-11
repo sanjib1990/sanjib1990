@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Glass’s successor teased at I/O](https://techcrunch.com/2022/05/11/google-glasss-successor-teased-at-i-o/)
-- [Google offers a peek at the Pixel 7](https://techcrunch.com/2022/05/11/google-offers-a-peek-at-the-pixel-7/)
-- [Google finally brings noise cancellation to Pixel Buds](https://techcrunch.com/2022/05/11/google-finally-brings-noise-cancellation-to-pixel-buds/)
-- [Google’s budget Pixel 6a arrives July 28 for $449](https://techcrunch.com/2022/05/11/googles-budget-pixel-6a-arrives-july-28-for-449/)
-- [Google’s Pixel Watch arrives this fall](https://techcrunch.com/2022/05/11/googles-pixel-watch-arrives-this-fall/)
+- [Voice control at last: Hey Sonos, play the ‘Breaking Bad’ theme song](https://techcrunch.com/2022/05/11/sonos-voice-control/)
+- [Google Play targets emerging markets with prepaid app subscriptions and more](https://techcrunch.com/2022/05/11/google-play-targets-emerging-markets-with-prepaid-app-subscriptions-and-more/)
+- [Google Play adopts App Store-like features including in-app events and custom product pages](https://techcrunch.com/2022/05/11/google-play-adopts-app-store-like-features-including-in-app-events-and-custom-product-pages/)
+- [Google updates its Firebase Backend-as-a-Service to make app development faster](https://techcrunch.com/2022/05/11/google-updates-its-firebase-backend-as-a-service-to-make-app-development-faster/)
+- [Android 13 Beta 2 is rolling out today with new user controls, privacy features and more](https://techcrunch.com/2022/05/11/android-13-beta-2-user-controls-privacy-updates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
