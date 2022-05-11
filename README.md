@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Bird, Lime to use Google’s ARCore to power scooter parking solution](https://techcrunch.com/2022/05/11/bird-lime-to-use-googles-arcore-to-power-scooter-parking-solution/)
+- [Less than 7 Days until TC Sessions: Mobility](https://techcrunch.com/2022/05/11/less-than-7-days-until-tc-sessions-mobility/)
+- [Water may have been on Mars much more recently than scientists thought, China&#39;s rover suggests](https://www.space.com/mars-water-more-recent-china-rover/)
+- [Bird, Lime use Google’s ARCore to power scooter parking solution](https://techcrunch.com/2022/05/11/bird-lime-to-use-googles-arcore-to-power-scooter-parking-solution/)
 - [Erm, Google, that’s not how you write Arabic](https://techcrunch.com/2022/05/11/google-translate-arabic/)
 - [DJI’s new Mini 3 Pro drone hits the aerial photography sweet spot](https://techcrunch.com/2022/05/11/dji-mini-3-pro-drone-review/)
-- [Google debuts Cloud Run jobs for containerized, scripted tasks](https://techcrunch.com/2022/05/11/google-debuts-cloud-run-jobs-for-containerized-scripted-tasks/)
-- [Voice control at last: Hey Sonos, play the ‘Breaking Bad’ theme song](https://techcrunch.com/2022/05/11/sonos-voice-control/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
