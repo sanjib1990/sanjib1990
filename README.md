@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bird, Lime to use Google’s ARCore to power scooter parking solution](https://techcrunch.com/2022/05/11/bird-lime-to-use-googles-arcore-to-power-scooter-parking-solution/)
+- [Erm, Google, that’s not how you write Arabic](https://techcrunch.com/2022/05/11/google-translate-arabic/)
+- [DJI’s new Mini 3 Pro drone hits the aerial photography sweet spot](https://techcrunch.com/2022/05/11/dji-mini-3-pro-drone-review/)
+- [Google debuts Cloud Run jobs for containerized, scripted tasks](https://techcrunch.com/2022/05/11/google-debuts-cloud-run-jobs-for-containerized-scripted-tasks/)
 - [Voice control at last: Hey Sonos, play the ‘Breaking Bad’ theme song](https://techcrunch.com/2022/05/11/sonos-voice-control/)
-- [Google Play targets emerging markets with prepaid app subscriptions and more](https://techcrunch.com/2022/05/11/google-play-targets-emerging-markets-with-prepaid-app-subscriptions-and-more/)
-- [Google Play adopts App Store-like features including in-app events and custom product pages](https://techcrunch.com/2022/05/11/google-play-adopts-app-store-like-features-including-in-app-events-and-custom-product-pages/)
-- [Google updates its Firebase Backend-as-a-Service to make app development faster](https://techcrunch.com/2022/05/11/google-updates-its-firebase-backend-as-a-service-to-make-app-development-faster/)
-- [Android 13 Beta 2 is rolling out today with new user controls, privacy features and more](https://techcrunch.com/2022/05/11/android-13-beta-2-user-controls-privacy-updates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
