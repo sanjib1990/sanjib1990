@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Get the Terraforming Mars video game for free right now from Epic Games](https://www.space.com/terraforming-mars-video-game-free-pc/)
+- [These AI-powered robot overlords are here to keep your warehouse workers safe&lpar;r&rpar;](https://techcrunch.com/2022/05/11/voxel-series-a/)
+- [Finding your startup’s valuation: 5 factors to consider](https://techcrunch.com/2022/05/11/finding-your-startups-valuation-5-factors-to-consider/)
+- [YouTube is testing a memberships gifting feature with select creators](https://techcrunch.com/2022/05/11/youtube-memberships-gifting-feature/)
 - [Stronger gravity in the early universe may solve a cosmological conundrum](https://www.space.com/stronger-gravity-early-universe/)
-- [Hubble Space Telescope spots star that survived violent explosion of neighbor](https://www.space.com/hubble-space-telescope-supernova-companion-star/)
-- [Fueled by the remote work revolution, Deel more than doubles valuation to $12B with new raise](https://techcrunch.com/2022/05/11/fueled-by-the-remote-work-revolution-deel-more-than-doubles-valuation-to-12b-with-new-raise/)
-- [Citi backs Crowdz, a Pipe competitor that just raised $10M for its blockchain-powered invoice financing marketplace](https://techcrunch.com/2022/05/11/citi-backs-crowdz-which-just-raised-10m-for-its-blockchain-powered-invoice-financing-marketplace/)
-- [RIP iPod, you walked so smartphones could run](https://techcrunch.com/2022/05/11/rip-ipod-you-walked-so-smartphones-could-run/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
