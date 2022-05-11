@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Celestron telescope &amp; binocular deals you can still get: Discounts &amp; what&#39;s in stock](https://www.space.com/38901-celestron-deals-telescopes-binoculars.html/)
+- [Airbnb is reinventing itself — Brian Chesky tells us why](https://techcrunch.com/2022/05/11/airbnb-is-reinventing-itself-brian-chesky-tells-us-why/)
+- [Tripolygon, a 3D modeling software developer, lets metaverse creators make their own 3D assets](https://techcrunch.com/2022/05/11/tripolygon-a-3d-modeling-software-developer-lets-metaverse-creators-make-their-own-3d-assets/)
 - [MARA raises $23M from Coinbase Ventures and FTX to build Africa’s portal to the crypto economy](https://techcrunch.com/2022/05/11/mara-raises-23m-from-coinbase-ventures-and-ftx-to-build-africas-portal-to-the-crypto-economy/)
 - [Luxus wants the crown jewel of your portfolio to be an actual diamond](https://techcrunch.com/2022/05/11/luxus-crown-jewel-your-portfolio-to-be-diamond-gemstone-luxury-alternative-assets/)
-- [Sunday Security launches a cybersecurity service for senior execs](https://techcrunch.com/2022/05/11/sunday-security-launches-a-cybersecurity-service-for-senior-execs/)
-- [Airbnb’s huge summer update preps for a new era of travel](https://techcrunch.com/2022/05/11/airbnb-categories-split-stays-aircover/)
-- [UST founder Do Kwon shares plan to save its stablecoin from mass destruction](https://techcrunch.com/2022/05/11/ust-founder-do-kwon-shares-plan-to-save-its-stablecoin-from-mass-destruction/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
