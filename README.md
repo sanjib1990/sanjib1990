@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rivian shares pop even as Q1 losses widen amid EV production ramp up](https://techcrunch.com/2022/05/11/rivian-shares-pop-even-as-q1-losses-widen-amid-ev-production-ramp-up/)
+- [Daily Crunch: Terraform Labs CEO goes public with strategy to re-peg sliding UST stablecoin](https://techcrunch.com/2022/05/11/daily-crunch-terraform-labs-ceo-goes-public-with-strategy-to-re-peg-sliding-ust-stablecoin/)
 - [Less than 7 Days until TC Sessions: Mobility](https://techcrunch.com/2022/05/11/less-than-7-days-until-tc-sessions-mobility/)
 - [Water may have been on Mars much more recently than scientists thought, China&#39;s rover suggests](https://www.space.com/mars-water-more-recent-china-rover/)
 - [Bird, Lime use Google’s ARCore to power scooter parking solution](https://techcrunch.com/2022/05/11/bird-lime-to-use-googles-arcore-to-power-scooter-parking-solution/)
-- [Erm, Google, that’s not how you write Arabic](https://techcrunch.com/2022/05/11/google-translate-arabic/)
-- [DJI’s new Mini 3 Pro drone hits the aerial photography sweet spot](https://techcrunch.com/2022/05/11/dji-mini-3-pro-drone-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
