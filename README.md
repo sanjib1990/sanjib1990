@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Behold! Milky Way&#39;s monster black hole imaged for the 1st time.](https://www.space.com/milky-way-monster-black-hole-first-image-eht/)
-- [Investors cheer as Coupang cuts net loss 29% in Q1](https://techcrunch.com/2022/05/12/investors-cheer-as-coupang-cuts-net-loss-29-in-q1/)
-- [Snap snaps up database developer KeyDB to make its infrastructure more snappy](https://techcrunch.com/2022/05/12/snap-snaps-up-database-developer-keydb-to-make-its-infrastructure-more-snappy/)
-- [Bubbles aims to supercharge chats with async video messaging](https://techcrunch.com/2022/05/12/bubbles-aims-to-supercharge-chats-with-async-video-messaging/)
-- [Komodor wants to make every engineer a Kubernetes troubleshooting expert](https://techcrunch.com/2022/05/12/komodor-is-building-kubernetes-troubleshooting-platform-for-the-masses/)
+- [AcuityMD raises salespeople’s pulses, and a Series A to sell more medical hardware](https://techcrunch.com/2022/05/12/acuitymd-series-a/)
+- [Pitch Deck Teardown: Dutch’s $20M Series A deck](https://techcrunch.com/2022/05/12/sample-series-a-pitch-deck-dutch/)
+- [Facebook Pay will be renamed Meta Pay soon](https://techcrunch.com/2022/05/12/facebook-pay-renamed-meta-pay-soon/)
+- [Roku rolls out a premium bundle combining the Roku Ultra and its Voice Remote Pro](https://techcrunch.com/2022/05/12/roku-rolls-out-a-premium-bundle-combining-the-roku-ultra-and-its-voice-remote-pro/)
+- [Foxconn to build Fisker PEAR EV at former Lordstown Motors plant in Ohio](https://techcrunch.com/2022/05/12/foxconn-to-build-fisker-pear-ev-at-former-lordstown-motors-plant-in-ohio/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
