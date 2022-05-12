@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Seventeen Modes to Discovery: Webb’s Final Commissioning Activities](https://blogs.nasa.gov/webb/2022/05/12/seventeen-modes-to-discovery-webbs-final-commissioning-activities/)
-- [The 1st photo of the Milky Way&#39;s monster black hole has scientists over the moon. Here&#39;s why.](https://www.space.com/milky-way-black-hole-1st-photo-scientists-excited/)
-- [Save $500 on the Panasonic Lumix S5 camera](https://www.space.com/save-500-dollars-panasonic-lumix-s5-camera-amazon-deal/)
-- [AcuityMD raises salespeople’s pulses, and a Series A to sell more medical hardware](https://techcrunch.com/2022/05/12/acuitymd-series-a/)
-- [Pitch Deck Teardown: Dutch’s $20M Series A deck](https://techcrunch.com/2022/05/12/sample-series-a-pitch-deck-dutch/)
+- [Ex-Facebook crypto chief David Marcus launches Bitcoin payments startup backed by a16z and Paradigm](https://techcrunch.com/2022/05/12/ex-facebook-crypto-chief-david-marcus-debuts-his-next-play-a-bitcoin-payments-startup-backed-by-a16z-and-paradigm/)
+- [A particle accelerator is now colder than space to produce 1 million X-ray pulses a second](https://www.space.com/coldest-x-ray-laser-particle-accelerator/)
+- [Getting high on HRI](https://techcrunch.com/2022/05/12/getting-high-on-hri/)
+- [Tidio raises $25M to automate customer service interactions](https://techcrunch.com/2022/05/12/tidio-raises-25m-to-automate-customer-service-interactions/)
+- [Terra resumes blockchain production after halting to prevent hacks amid UST crash](https://techcrunch.com/2022/05/12/terra-halts-its-blockchain-to-prevent-hacks-ust/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
