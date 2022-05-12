@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SoftBank to cut startup investments by more than half this year](https://techcrunch.com/2022/05/12/softbank-may-cut-its-startup-investments-by-more-than-half-2022/)
 - [Nexi, the Italian payments giant, buys Germany’s Orderbird for $140-150M to expand its SMB strategy](https://techcrunch.com/2022/05/12/nexi-the-italian-payments-giant-buys-germanys-orderbird-for-140-150m-to-expand-its-smb-strategy/)
 - [This startup hopes photonics to will get us to AI systems faster](https://techcrunch.com/2022/05/12/this-startup-hopes-photonics-to-will-get-us-to-ai-systems-faster/)
 - [Checkout.com to acquire identity verification startup Ubble](https://techcrunch.com/2022/05/12/checkoutcom-to-acquire-identity-verification-startup-ubble/)
 - [BVNK grabs $40 million for its crypto banking services](https://techcrunch.com/2022/05/11/bvnk-grabs-40-million-for-its-crypto-banking-services/)
-- [Synergies raises $12M to give factory managers an AI analytics assistant](https://techcrunch.com/2022/05/11/synergies-12-million-augmented-analytics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
