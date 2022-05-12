@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [MakerBot and Ultimaker are merging](https://techcrunch.com/2022/05/12/makerbot-and-ultimaker-are-merging/)
 - [Behold! Milky Way&#39;s monster black hole imaged for the 1st time.](https://www.space.com/milky-way-monster-black-hole-first-image-eht/)
 - [Investors cheer as Coupang cuts net loss 29% in Q1](https://techcrunch.com/2022/05/12/investors-cheer-as-coupang-cuts-net-loss-29-in-q1/)
 - [Snap snaps up database developer KeyDB to make its infrastructure more snappy](https://techcrunch.com/2022/05/12/snap-snaps-up-database-developer-keydb-to-make-its-infrastructure-more-snappy/)
 - [Bubbles aims to supercharge chats with async video messaging](https://techcrunch.com/2022/05/12/bubbles-aims-to-supercharge-chats-with-async-video-messaging/)
+- [Komodor wants to make every engineer a Kubernetes troubleshooting expert](https://techcrunch.com/2022/05/12/komodor-is-building-kubernetes-troubleshooting-platform-for-the-masses/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
