@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Gusto raises an extension round, following Faire as unicorns react to a changing market](https://techcrunch.com/2022/05/12/gusto-raises-an-extension-round-following-faire-as-unicorns-react-to-a-changing-market/)
+- [Congress asks Meta, TikTok, YouTube and Twitter to archive evidence of Russian war crimes](https://techcrunch.com/2022/05/12/russia-ukraine-social-media-war-crimes-congress/)
+- [Simulation meets observation in first image of the supermassive black hole at our galaxy’s center](https://techcrunch.com/2022/05/12/simulation-meets-observation-in-first-image-of-the-supermassive-black-hole-at-our-galaxys-center/)
 - [Scott Galloway’s edtech startup, Section4, lays off a quarter of staff](https://techcrunch.com/2022/05/12/professor-scott-galloways-edtech-startup-section-4-lay-offs/)
 - [Reggie Fils-Aimé talks web3, AR and his gaming SPAC](https://techcrunch.com/2022/05/12/reggie-fils-aime-talks-web3-ar-and-his-gaming-spac/)
-- [The standard model of particle physics may be broken — an expert explains](https://www.space.com/the-standard-model-of-particle-physics-may-be-broken-an-expert-explains/)
-- [Mars sample return: Could Red Planet life contaminate Earth?](https://www.space.com/mars-sample-return-contamination-concerns/)
-- [Elon Musk says Russia is ramping up cyberattacks on SpaceX&#39;s Starlink systems in Ukraine](https://www.space.com/starlink-russian-cyberattacks-ramp-up-efforts-elon-musk/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
