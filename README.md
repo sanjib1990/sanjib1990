@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Avatar&#39; will return to cinemas before sequel &#39;Avatar: The Way of Water&#39;](https://www.space.com/avatar-returning-to-theaters-james-cameron-disney/)
+- [Daily Crunch: Key Twitter executives depart following Elon Musk ownership deal](https://techcrunch.com/2022/05/12/daily-crunch-after-record-20-5b-loss-softbank-may-slash-new-startup-funding-by-50-or-more/)
+- [Watch the 1st trailer &#39;Avatar: The Way of Water&#39; and explore Pandora&#39;s exotic reef](https://www.space.com/avatar-the-way-of-water-trailer/)
+- [Sagittarius A* in pictures: The 1st photo of the Milky Way&#39;s monster black hole explained in images](https://www.space.com/milky-way-black-hole-sagittarius-a-pictures/)
 - [Gusto raises an extension round, following Faire as unicorns react to a changing market](https://techcrunch.com/2022/05/12/gusto-raises-an-extension-round-following-faire-as-unicorns-react-to-a-changing-market/)
-- [Congress asks Meta, TikTok, YouTube and Twitter to archive evidence of Russian war crimes](https://techcrunch.com/2022/05/12/russia-ukraine-social-media-war-crimes-congress/)
-- [Simulation meets observation in first image of the supermassive black hole at our galaxy’s center](https://techcrunch.com/2022/05/12/simulation-meets-observation-in-first-image-of-the-supermassive-black-hole-at-our-galaxys-center/)
-- [Scott Galloway’s edtech startup, Section4, lays off a quarter of staff](https://techcrunch.com/2022/05/12/professor-scott-galloways-edtech-startup-section-4-lay-offs/)
-- [Reggie Fils-Aimé talks web3, AR and his gaming SPAC](https://techcrunch.com/2022/05/12/reggie-fils-aime-talks-web3-ar-and-his-gaming-spac/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
