@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Synergies raises $12M to give factory managers an AI analytics assistant](https://techcrunch.com/2022/05/11/synergies-12-million-augmented-analytics/)
 - [A venture firm gets rewarded for selling at the market top](https://techcrunch.com/2022/05/11/investors-reward-yl-ventures-for-selling-certain-stakes-when-the-market-was-still-bubbly/)
 - [A law inviting Texans to sue social media companies over ‘censorship’ is back](https://techcrunch.com/2022/05/11/texas-social-media-law-hb20/)
 - [Singapore-based Good Startup raises $34M fund to invest in alternative protein companies](https://techcrunch.com/2022/05/11/singapore-based-good-startup-raises-34m-fund-to-invest-in-alternative-protein-companies/)
 - [Japan’s Zeals raises $38.8M to scale its chat commerce platform](https://techcrunch.com/2022/05/11/japans-zeals-raises-38-8m-to-scale-its-chat-commerce-platform/)
-- [FCC proposes funding Wi-Fi on school buses](https://techcrunch.com/2022/05/11/fcc-proposes-funding-wi-fi-on-school-buses/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
