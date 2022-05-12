@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Token.io raises $40M to expand open banking-based account-to-account payments in Europe](https://techcrunch.com/2022/05/12/token-io-raises-40m-to-expand-open-banking-based-account-to-account-payments-in-europe/)
-- [Customer service automation startup Lang lands $15M](https://techcrunch.com/2022/05/12/2313590/)
-- [TopUp Mama looking to solve sourcing challenges for restaurants](https://techcrunch.com/2022/05/12/topup-mama-looking-to-solve-sourcing-challenges-for-restaurants/)
-- [Telescopes at Walmart: Deals on the best models from Celestron and others](https://www.space.com/telescopes-at-walmart/)
-- [On This Day In Space: May 12, 2000: Last spacewalk at Mir space station](https://www.space.com/39251-on-this-day-in-space.html/)
+- [MakerBot and Ultimaker are merging](https://techcrunch.com/2022/05/12/makerbot-and-ultimaker-are-merging/)
+- [Behold! Milky Way&#39;s monster black hole imaged for the 1st time.](https://www.space.com/milky-way-monster-black-hole-first-image-eht/)
+- [Investors cheer as Coupang cuts net loss 29% in Q1](https://techcrunch.com/2022/05/12/investors-cheer-as-coupang-cuts-net-loss-29-in-q1/)
+- [Snap snaps up database developer KeyDB to make its infrastructure more snappy](https://techcrunch.com/2022/05/12/snap-snaps-up-database-developer-keydb-to-make-its-infrastructure-more-snappy/)
+- [Bubbles aims to supercharge chats with async video messaging](https://techcrunch.com/2022/05/12/bubbles-aims-to-supercharge-chats-with-async-video-messaging/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
