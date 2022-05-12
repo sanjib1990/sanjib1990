@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon’s Alexa app now asks customers to scan their shopping receipts for cashback rewards](https://techcrunch.com/2022/05/12/amazons-alexa-app-now-asks-customers-to-scan-their-shopping-receipts-for-cashback-rewards/)
-- [Save $500 on the Panasonic Lumix S5 camera](https://www.space.com/save-500-dollars-panasonic-lumix-s5-camera-amazon-deal/)
-- [AcuityMD raises salespeople’s pulses, and a Series A to sell more medical hardware](https://techcrunch.com/2022/05/12/acuitymd-series-a/)
-- [Pitch Deck Teardown: Dutch’s $20M Series A deck](https://techcrunch.com/2022/05/12/sample-series-a-pitch-deck-dutch/)
-- [Facebook Pay will be renamed Meta Pay soon](https://techcrunch.com/2022/05/12/facebook-pay-renamed-meta-pay-soon/)
+- [Seventeen Modes to Discovery: Webb’s Final Commissioning Activities](https://blogs.nasa.gov/webb/2022/05/12/seventeen-modes-to-discovery-webbs-final-commissioning-activities/)
+- [The 1st photo of the Milky Way&#39;s monster black hole has scientists over the moon. Here&#39;s why.](https://www.space.com/milky-way-black-hole-1st-photo-scientists-excited/)
+- [Eridan reinvents a piece of mobile infrastructure and calls up $46M in funding](https://techcrunch.com/2022/05/12/eridan-reinvents-a-piece-of-mobile-infrastructure-and-calls-up-42m-in-funding/)
+- [3 questions concerning Instacart’s upcoming IPO](https://techcrunch.com/2022/05/12/3-questions-concerning-instacarts-upcoming-ipo/)
+- [The best headphones just got better &lpar;and pricier&rpar;](https://techcrunch.com/2022/05/12/the-best-headphones-just-got-better/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
