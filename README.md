@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Ex-Facebook crypto chief David Marcus launches Bitcoin payments startup backed by a16z and Paradigm](https://techcrunch.com/2022/05/12/ex-facebook-crypto-chief-david-marcus-debuts-his-next-play-a-bitcoin-payments-startup-backed-by-a16z-and-paradigm/)
+- [Mars sample return: Could Red Planet life contaminate Earth?](https://www.space.com/mars-sample-return-contamination-concerns/)
+- [Elon Musk says Russia is ramping up cyberattacks on SpaceX&#39;s Starlink systems in Ukraine](https://www.space.com/starlink-russian-cyberattacks-ramp-up-efforts-elon-musk/)
+- [Crypto winter is coming](https://techcrunch.com/2022/05/12/winter-is-coming/)
+- [Ex-Meta crypto chief David Marcus launches Bitcoin payments startup backed by a16z and Paradigm](https://techcrunch.com/2022/05/12/ex-facebook-crypto-chief-david-marcus-debuts-his-next-play-a-bitcoin-payments-startup-backed-by-a16z-and-paradigm/)
 - [A particle accelerator is now colder than space to produce 1 million X-ray pulses a second](https://www.space.com/coldest-x-ray-laser-particle-accelerator/)
-- [Getting high on HRI](https://techcrunch.com/2022/05/12/getting-high-on-hri/)
-- [Tidio raises $25M to automate customer service interactions](https://techcrunch.com/2022/05/12/tidio-raises-25m-to-automate-customer-service-interactions/)
-- [Terra resumes blockchain production after halting to prevent hacks amid UST crash](https://techcrunch.com/2022/05/12/terra-halts-its-blockchain-to-prevent-hacks-ust/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
