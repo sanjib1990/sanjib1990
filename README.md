@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Interswitch receives $110M investment from LeapFrog and Tana Africa Capital](https://techcrunch.com/2022/05/12/interswitch-receives-110m-investment-from-leapfrog-and-tana-africa-capital/)
-- [Watch the Event Horizon Telescope&#39;s &#39;groundbreaking&#39; Milky Way discovery online today](https://www.space.com/event-horizon-telescope-milky-way-discovery-webcasts/)
-- [The multiverse is huge in pop culture right now — but what is it, and does it really exist?](https://www.space.com/multiverse-huge-in-pop-culture-right-now/)
-- [Best Star Trek: The Original Series episodes](https://www.space.com/best-star-trek-the-original-series-episodes/)
-- [Watch black holes and the stars that feed them dance in this mesmerizing NASA video](https://www.space.com/black-holes-eating-stars-video/)
+- [Token.io raises $40M to expand open banking-based account-to-account payments in Europe](https://techcrunch.com/2022/05/12/token-io-raises-40m-to-expand-open-banking-based-account-to-account-payments-in-europe/)
+- [Customer service automation startup Lang lands $15M](https://techcrunch.com/2022/05/12/2313590/)
+- [TopUp Mama looking to solve sourcing challenges for restaurants](https://techcrunch.com/2022/05/12/topup-mama-looking-to-solve-sourcing-challenges-for-restaurants/)
+- [Telescopes at Walmart: Deals on the best models from Celestron and others](https://www.space.com/telescopes-at-walmart/)
+- [On This Day In Space: May 12, 2000: Last spacewalk at Mir space station](https://www.space.com/39251-on-this-day-in-space.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
