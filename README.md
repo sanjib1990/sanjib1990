@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scott Galloway’s edtech startup, Section4, lays off a quarter of staff](https://techcrunch.com/2022/05/12/professor-scott-galloways-edtech-startup-section-4-lay-offs/)
+- [Reggie Fils-Aimé talks web3, AR and his gaming SPAC](https://techcrunch.com/2022/05/12/reggie-fils-aime-talks-web3-ar-and-his-gaming-spac/)
+- [The standard model of particle physics may be broken — an expert explains](https://www.space.com/the-standard-model-of-particle-physics-may-be-broken-an-expert-explains/)
 - [Mars sample return: Could Red Planet life contaminate Earth?](https://www.space.com/mars-sample-return-contamination-concerns/)
 - [Elon Musk says Russia is ramping up cyberattacks on SpaceX&#39;s Starlink systems in Ukraine](https://www.space.com/starlink-russian-cyberattacks-ramp-up-efforts-elon-musk/)
-- [Crypto winter is coming](https://techcrunch.com/2022/05/12/winter-is-coming/)
-- [Ex-Meta crypto chief David Marcus launches Bitcoin payments startup backed by a16z and Paradigm](https://techcrunch.com/2022/05/12/ex-facebook-crypto-chief-david-marcus-debuts-his-next-play-a-bitcoin-payments-startup-backed-by-a16z-and-paradigm/)
-- [A particle accelerator is now colder than space to produce 1 million X-ray pulses a second](https://www.space.com/coldest-x-ray-laser-particle-accelerator/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
