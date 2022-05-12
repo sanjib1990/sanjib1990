@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Rivian shares pop even as Q1 losses widen amid EV production ramp up](https://techcrunch.com/2022/05/11/rivian-shares-pop-even-as-q1-losses-widen-amid-ev-production-ramp-up/)
-- [Daily Crunch: Terraform Labs CEO goes public with strategy to re-peg sliding UST stablecoin](https://techcrunch.com/2022/05/11/daily-crunch-terraform-labs-ceo-goes-public-with-strategy-to-re-peg-sliding-ust-stablecoin/)
-- [Less than 7 Days until TC Sessions: Mobility](https://techcrunch.com/2022/05/11/less-than-7-days-until-tc-sessions-mobility/)
-- [Water may have been on Mars much more recently than scientists thought, China&#39;s rover suggests](https://www.space.com/mars-water-more-recent-china-rover/)
-- [Bird, Lime use Google’s ARCore to power scooter parking solution](https://techcrunch.com/2022/05/11/bird-lime-to-use-googles-arcore-to-power-scooter-parking-solution/)
+- [A law inviting Texans to sue social media companies over ‘censorship’ is back](https://techcrunch.com/2022/05/11/texas-social-media-law-hb20/)
+- [Singapore-based Good Startup raises $34M fund to invest in alternative protein companies](https://techcrunch.com/2022/05/11/singapore-based-good-startup-raises-34m-fund-to-invest-in-alternative-protein-companies/)
+- [Japan’s Zeals raises $38.8M to scale its chat commerce platform](https://techcrunch.com/2022/05/11/japans-zeals-raises-38-8m-to-scale-its-chat-commerce-platform/)
+- [FCC proposes funding Wi-Fi on school buses](https://techcrunch.com/2022/05/11/fcc-proposes-funding-wi-fi-on-school-buses/)
+- [After Netflix’s tough quarter, Disney+ gains 7.9M more subscribers to reach 138M total](https://techcrunch.com/2022/05/11/after-netflixs-tough-quarter-disney-gains-7-9m-more-subscribers-to-reach-138m-total/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
