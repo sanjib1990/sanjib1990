@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon’s Alexa app now asks customers to scan their shopping receipts for cashback rewards](https://techcrunch.com/2022/05/12/amazons-alexa-app-now-asks-customers-to-scan-their-shopping-receipts-for-cashback-rewards/)
+- [Save $500 on the Panasonic Lumix S5 camera](https://www.space.com/save-500-dollars-panasonic-lumix-s5-camera-amazon-deal/)
 - [AcuityMD raises salespeople’s pulses, and a Series A to sell more medical hardware](https://techcrunch.com/2022/05/12/acuitymd-series-a/)
 - [Pitch Deck Teardown: Dutch’s $20M Series A deck](https://techcrunch.com/2022/05/12/sample-series-a-pitch-deck-dutch/)
 - [Facebook Pay will be renamed Meta Pay soon](https://techcrunch.com/2022/05/12/facebook-pay-renamed-meta-pay-soon/)
-- [Roku rolls out a premium bundle combining the Roku Ultra and its Voice Remote Pro](https://techcrunch.com/2022/05/12/roku-rolls-out-a-premium-bundle-combining-the-roku-ultra-and-its-voice-remote-pro/)
-- [Foxconn to build Fisker PEAR EV at former Lordstown Motors plant in Ohio](https://techcrunch.com/2022/05/12/foxconn-to-build-fisker-pear-ev-at-former-lordstown-motors-plant-in-ohio/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
