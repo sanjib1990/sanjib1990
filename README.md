@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [To boost early-stage growth, adopt a jobs-to-be-done approach to marketing](https://techcrunch.com/2022/05/13/to-boost-early-stage-growth-adopt-a-jobs-to-be-done-approach-to-marketing/)
 - [DeepMind’s new AI can perform over 600 tasks, from playing games to controlling robots](https://techcrunch.com/2022/05/13/deepminds-new-ai-can-perform-over-600-tasks-from-playing-games-to-controlling-robots/)
 - [WeAre8 launches crowdfunder for its social media app, where users are paid to watch ads](https://techcrunch.com/2022/05/13/weare8-launches-crowdfunder-for-its-social-media-app-where-users-are-paid-to-watch-ads/)
 - [Tech employees face another tough week of cross-stage layoffs](https://techcrunch.com/2022/05/13/startup-tech-layoff-and-hiring-freeze-in-may/)
 - [Best Marvel movies, ranked](https://www.space.com/best-marvel-movies-ranked/)
-- [Elon Musk says Twitter deal ‘temporarily on hold over spam’](https://techcrunch.com/2022/05/13/elon-musk-twitter-deal-on-hold-spam/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
