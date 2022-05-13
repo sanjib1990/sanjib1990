@@ -82,7 +82,7 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [bash script gaming](https://www.youtube.com/watch?v=Fq6gqi9Ubog)
+- [building a CRAZY addicting BASH script game](https://www.youtube.com/watch?v=Fq6gqi9Ubog)
 - [Breaking RSA - Computerphile](https://www.youtube.com/watch?v=-ShwJqAalOk)
 - [Is the tech bubble bursting right now?](https://www.youtube.com/watch?v=g-_hVXzkn0o)
 - [i destroyed your Python data // EP 9](https://www.youtube.com/watch?v=jdTwCSxNINA)
