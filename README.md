@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Avatar&#39; will return to cinemas before sequel &#39;Avatar: The Way of Water&#39;](https://www.space.com/avatar-returning-to-theaters-james-cameron-disney/)
-- [Daily Crunch: Key Twitter executives depart following Elon Musk ownership deal](https://techcrunch.com/2022/05/12/daily-crunch-after-record-20-5b-loss-softbank-may-slash-new-startup-funding-by-50-or-more/)
-- [Watch the 1st trailer &#39;Avatar: The Way of Water&#39; and explore Pandora&#39;s exotic reef](https://www.space.com/avatar-the-way-of-water-trailer/)
-- [Sagittarius A* in pictures: The 1st photo of the Milky Way&#39;s monster black hole explained in images](https://www.space.com/milky-way-black-hole-sagittarius-a-pictures/)
-- [Gusto raises an extension round, following Faire as unicorns react to a changing market](https://techcrunch.com/2022/05/12/gusto-raises-an-extension-round-following-faire-as-unicorns-react-to-a-changing-market/)
+- [Hear from Aurora, Nvidia and Waymo about the two roads to autonomous driving at TC Sessions: Mobility](https://techcrunch.com/2022/05/12/hear-from-aurora-nvidia-and-waymo-about-the-two-roads-to-autonomous-driving-at-tc-sessions-mobility/)
+- [SkySpecs watches wind turbines from above, lands $80M led by Goldman Sachs](https://techcrunch.com/2022/05/12/skyspecs-wind-turbine-goldman-sachs-80-million/)
+- [Colombia signs the Artemis Accords for peaceful space exploration](https://www.space.com/colombia-artemis-accords-space-exploration/)
+- [Disney&#39;s new &#39;Lightyear&#39; trailer for Buzz Lightyear&#39;s time-travel plot](https://www.space.com/lightyear-disney-trailer-time-travel/)
+- [Uber shareholders get closer to passing lobbying disclosure proposal](https://techcrunch.com/2022/05/12/uber-shareholders-get-closer-to-passing-lobbying-disclosure-proposal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
