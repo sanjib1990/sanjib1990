@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple said to be testing a switch to USB-C for future iPhones](https://techcrunch.com/2022/05/13/apple-testing-usb-c-iphones/)
+- [Satellites watch devastating fires blaze across northern New Mexico](https://www.space.com/wildfires-satellite-photos-calf-canyon-hermits-peak/)
 - [TechCrunch+ roundup: Find your valuation, international visas, hiring for growth](https://techcrunch.com/2022/05/13/techcrunch-roundup-finding-your-valuation-international-visas-hiring-for-growth/)
+- [Why does the moon turn red during a total lunar eclipse?](https://www.space.com/why-moon-turns-red-total-lunar-eclipse/)
 - [Postmates founder banks $23 million for his new crypto startup TipTop](https://techcrunch.com/2022/05/13/postmates-founder-banks-23-million-for-his-new-crypto-startup-tiptop/)
-- [Investors reward battery startup SES for losing money &lpar;but not too much&rpar;](https://techcrunch.com/2022/05/13/investors-reward-battery-startup-ses-for-losing-money-but-not-too-much/)
-- [Hulu partners with Xbox to bring PC Gamers free games in a bundle deal](https://techcrunch.com/2022/05/13/hulu-partners-with-xbox-to-bring-pc-gamers-free-games-in-a-bundle-deal/)
-- [Binoculars deals: The best discounts and savings available](https://www.space.com/binoculars-deals-sale-discount/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
