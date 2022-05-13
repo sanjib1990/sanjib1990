@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [48 hours left to save $200 on TC Sessions: Mobility](https://techcrunch.com/2022/05/13/48-hours-left-to-save-200-on-tc-sessions-mobility/)
+- [DOJ warns that misuse of algorithmic hiring tools could violate accessibility laws](https://techcrunch.com/2022/05/13/doj-warns-that-misuse-of-algorithmic-hiring-tools-could-violate-accessibility-laws/)
 - [To win insurtech 2.0, focus on underwriting before growth](https://techcrunch.com/2022/05/13/to-win-insurtech-2-0-focus-on-underwriting-before-growth/)
 - [NASA astronaut floats on the space station with Earth in the background &lpar;photo&rpar;](https://www.space.com/jessica-watkins-space-station-cupola-photo/)
 - [Apple said to be testing a switch to USB-C for future iPhones](https://techcrunch.com/2022/05/13/apple-testing-usb-c-iphones/)
-- [Satellites watch devastating fires blaze across northern New Mexico](https://www.space.com/wildfires-satellite-photos-calf-canyon-hermits-peak/)
-- [TechCrunch+ roundup: Find your valuation, international visas, hiring for growth](https://techcrunch.com/2022/05/13/techcrunch-roundup-finding-your-valuation-international-visas-hiring-for-growth/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
