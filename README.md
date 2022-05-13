@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [To win insurtech 2.0, focus on underwriting before growth](https://techcrunch.com/2022/05/13/to-win-insurtech-2-0-focus-on-underwriting-before-growth/)
+- [NASA astronaut floats on the space station with Earth in the background &lpar;photo&rpar;](https://www.space.com/jessica-watkins-space-station-cupola-photo/)
 - [Apple said to be testing a switch to USB-C for future iPhones](https://techcrunch.com/2022/05/13/apple-testing-usb-c-iphones/)
 - [Satellites watch devastating fires blaze across northern New Mexico](https://www.space.com/wildfires-satellite-photos-calf-canyon-hermits-peak/)
 - [TechCrunch+ roundup: Find your valuation, international visas, hiring for growth](https://techcrunch.com/2022/05/13/techcrunch-roundup-finding-your-valuation-international-visas-hiring-for-growth/)
-- [Why does the moon turn red during a total lunar eclipse?](https://www.space.com/why-moon-turns-red-total-lunar-eclipse/)
-- [Postmates founder banks $23 million for his new crypto startup TipTop](https://techcrunch.com/2022/05/13/postmates-founder-banks-23-million-for-his-new-crypto-startup-tiptop/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
