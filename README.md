@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [PSA: Owl City remixed Smash Mouth’s “All Star”](https://techcrunch.com/2022/05/13/owl-city-all-star-smash-mouth-remix/)
+- [Yes, the new photo of the Milky Way&#39;s monster black hole looks fuzzy. Here&#39;s why it isn&#39;t.](https://www.space.com/milky-way-black-hole-fuzzy-but-massive-achievement/)
+- [As FTX’s CEO eyes Robinhood, will we see crypto exchanges move into equities trading?](https://techcrunch.com/2022/05/13/as-ftxs-ceo-eyes-robinhood-will-we-see-crypto-exchanges-move-into-equities-trading/)
+- [World&#39;s most powerful heavy-ion collider to go online this week](https://www.space.com/worlds-most-powerful-heavy-ion-collider/)
+- [PSA: Owl City remixed Smash Mouth’s ‘All Star’](https://techcrunch.com/2022/05/13/owl-city-all-star-smash-mouth-remix/)
 - [Peloton is releasing a rowing machine](https://techcrunch.com/2022/05/13/peloton-is-releasing-a-rowing-machine/)
-- [This week in TechCrunch podcasts: Chain Reaction, Found, Equity, and The TechCrunch Live Podcast](https://techcrunch.com/2022/05/13/this-week-in-techcrunchs-podcasts-chain-reaction-found-equity-and-the-techcrunch-live-podcast/)
-- [Revel founder Frank Reig a year later on driving EV adoption in big cities](https://techcrunch.com/2022/05/13/revel-founder-frank-reig-one-year-later-on-driving-ev-adoption-in-big-cities/)
-- [Microbes on Earth&#39;s seafloor may aid the search for alien life](https://www.space.com/earth-microorganisms-clues-life-other-planets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
