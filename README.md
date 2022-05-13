@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [To boost early-stage growth, adopt a jobs-to-be-done approach to marketing](https://techcrunch.com/2022/05/13/to-boost-early-stage-growth-adopt-a-jobs-to-be-done-approach-to-marketing/)
-- [DeepMind’s new AI can perform over 600 tasks, from playing games to controlling robots](https://techcrunch.com/2022/05/13/deepminds-new-ai-can-perform-over-600-tasks-from-playing-games-to-controlling-robots/)
-- [WeAre8 launches crowdfunder for its social media app, where users are paid to watch ads](https://techcrunch.com/2022/05/13/weare8-launches-crowdfunder-for-its-social-media-app-where-users-are-paid-to-watch-ads/)
-- [Tech employees face another tough week of cross-stage layoffs](https://techcrunch.com/2022/05/13/startup-tech-layoff-and-hiring-freeze-in-may/)
-- [Best Marvel movies, ranked](https://www.space.com/best-marvel-movies-ranked/)
+- [This week in TechCrunch’s podcasts: Chain Reaction, Found, Equity, and The TechCrunch Live Podcast](https://techcrunch.com/2022/05/13/this-week-in-techcrunchs-podcasts-chain-reaction-found-equity-and-the-techcrunch-live-podcast/)
+- [Revel founder Frank Reig a year later on driving EV adoption in big cities](https://techcrunch.com/2022/05/13/revel-founder-frank-reig-one-year-later-on-driving-ev-adoption-in-big-cities/)
+- [Zoom dives deeper into intelligent customer service with Solvvy acquisition](https://techcrunch.com/2022/05/13/zoom-dives-deeper-into-intelligent-customer-service-with-solvvy-acquisition/)
+- [How close are we to understanding what’s going on?](https://techcrunch.com/2022/05/13/tech-decline-numbers-and-nuance/)
+- [Register now for TechCrunch Live’s event in Columbus, Ohio!](https://techcrunch.com/2022/05/13/register-now-for-techcrunch-lives-event-in-columbus-ohio/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
