@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Binance halts Luna and UST trading across most of its spot pairs following meltdown](https://techcrunch.com/2022/05/12/binance-halts-luna-and-ust-trading-across-most-of-its-spot-pairs-following-meltdown/)
+- [‘Move fast and break things’ is a bad idea for health tech startups](https://techcrunch.com/2022/05/12/move-fast-and-break-things-is-a-bad-idea-for-health-tech-startups/)
 - [Hear from Aurora, Nvidia and Waymo about the two roads to autonomous driving at TC Sessions: Mobility](https://techcrunch.com/2022/05/12/hear-from-aurora-nvidia-and-waymo-about-the-two-roads-to-autonomous-driving-at-tc-sessions-mobility/)
 - [SkySpecs watches wind turbines from above, lands $80M led by Goldman Sachs](https://techcrunch.com/2022/05/12/skyspecs-wind-turbine-goldman-sachs-80-million/)
 - [Colombia signs the Artemis Accords for peaceful space exploration](https://www.space.com/colombia-artemis-accords-space-exploration/)
-- [Disney&#39;s new &#39;Lightyear&#39; trailer for Buzz Lightyear&#39;s time-travel plot](https://www.space.com/lightyear-disney-trailer-time-travel/)
-- [Uber shareholders get closer to passing lobbying disclosure proposal](https://techcrunch.com/2022/05/12/uber-shareholders-get-closer-to-passing-lobbying-disclosure-proposal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
