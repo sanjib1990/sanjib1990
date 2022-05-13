@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [This week in TechCrunch’s podcasts: Chain Reaction, Found, Equity, and The TechCrunch Live Podcast](https://techcrunch.com/2022/05/13/this-week-in-techcrunchs-podcasts-chain-reaction-found-equity-and-the-techcrunch-live-podcast/)
+- [PSA: Owl City remixed Smash Mouth’s “All Star”](https://techcrunch.com/2022/05/13/owl-city-all-star-smash-mouth-remix/)
+- [Peloton is releasing a rowing machine](https://techcrunch.com/2022/05/13/peloton-is-releasing-a-rowing-machine/)
+- [This week in TechCrunch podcasts: Chain Reaction, Found, Equity, and The TechCrunch Live Podcast](https://techcrunch.com/2022/05/13/this-week-in-techcrunchs-podcasts-chain-reaction-found-equity-and-the-techcrunch-live-podcast/)
 - [Revel founder Frank Reig a year later on driving EV adoption in big cities](https://techcrunch.com/2022/05/13/revel-founder-frank-reig-one-year-later-on-driving-ev-adoption-in-big-cities/)
-- [Zoom dives deeper into intelligent customer service with Solvvy acquisition](https://techcrunch.com/2022/05/13/zoom-dives-deeper-into-intelligent-customer-service-with-solvvy-acquisition/)
-- [How close are we to understanding what’s going on?](https://techcrunch.com/2022/05/13/tech-decline-numbers-and-nuance/)
-- [Register now for TechCrunch Live’s event in Columbus, Ohio!](https://techcrunch.com/2022/05/13/register-now-for-techcrunch-lives-event-in-columbus-ohio/)
+- [Microbes on Earth&#39;s seafloor may aid the search for alien life](https://www.space.com/earth-microorganisms-clues-life-other-planets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
