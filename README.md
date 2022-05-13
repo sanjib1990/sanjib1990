@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DeepMind’s new AI can perform over 600 tasks, from playing games to controlling robots](https://techcrunch.com/2022/05/13/deepminds-new-ai-can-perform-over-600-tasks-from-playing-games-to-controlling-robots/)
+- [WeAre8 launches crowdfunder for its social media app, where users are paid to watch ads](https://techcrunch.com/2022/05/13/weare8-launches-crowdfunder-for-its-social-media-app-where-users-are-paid-to-watch-ads/)
+- [Tech employees face another tough week of cross-stage layoffs](https://techcrunch.com/2022/05/13/startup-tech-layoff-and-hiring-freeze-in-may/)
+- [Best Marvel movies, ranked](https://www.space.com/best-marvel-movies-ranked/)
 - [Elon Musk says Twitter deal ‘temporarily on hold over spam’](https://techcrunch.com/2022/05/13/elon-musk-twitter-deal-on-hold-spam/)
-- [On This Day In Space: May 13, 1964: Apollo spacecraft launches on abort test](https://www.space.com/39251-on-this-day-in-space.html/)
-- [Alpha particles and alpha radiation: Explained](https://www.space.com/alpha-particles-alpha-radiation/)
-- [Watch Rocket Lab catch a falling booster with a helicopter &lpar;video&rpar;](https://www.space.com/rocket-lab-helicopter-booster-catch-video/)
-- [Milky Way vs M87: Event Horizon Telescope photos show 2 very different monster black holes](https://www.space.com/milky-way-m87-black-holes-compared-eht/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
