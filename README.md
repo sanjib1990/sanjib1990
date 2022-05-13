@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter is testing a new ‘Liked by Author’ label for tweets](https://techcrunch.com/2022/05/13/twitter-testing-liked-by-author-label/)
+- [Ukraine invasion&#39;s impacts on space exploration: Live updates](https://www.space.com/news/live/russia-ukraine-invasion-space-impacts-updates/)
 - [Super Flower Blood Moon lunar eclipse: Is it the 1st of 4 supermoons?](https://www.space.com/super-flower-blood-moon-eclipse-may-2022-espenak/)
 - [Twitter CEO Parag Agrawal says he fired key execs due to ‘challenging’ economy](https://techcrunch.com/2022/05/13/twitter-ceo-tweets-musk-deal/)
 - [48 hours left to save $200 on TC Sessions: Mobility](https://techcrunch.com/2022/05/13/48-hours-left-to-save-200-on-tc-sessions-mobility/)
-- [DOJ warns that misuse of algorithmic hiring tools could violate accessibility laws](https://techcrunch.com/2022/05/13/doj-warns-that-misuse-of-algorithmic-hiring-tools-could-violate-accessibility-laws/)
-- [To win insurtech 2.0, focus on underwriting before growth](https://techcrunch.com/2022/05/13/to-win-insurtech-2-0-focus-on-underwriting-before-growth/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
