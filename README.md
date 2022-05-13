@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Yes, the new photo of the Milky Way&#39;s monster black hole looks fuzzy. Here&#39;s why it isn&#39;t.](https://www.space.com/milky-way-black-hole-fuzzy-but-massive-achievement/)
-- [As FTX’s CEO eyes Robinhood, will we see crypto exchanges move into equities trading?](https://techcrunch.com/2022/05/13/as-ftxs-ceo-eyes-robinhood-will-we-see-crypto-exchanges-move-into-equities-trading/)
-- [World&#39;s most powerful heavy-ion collider to go online this week](https://www.space.com/worlds-most-powerful-heavy-ion-collider/)
-- [PSA: Owl City remixed Smash Mouth’s ‘All Star’](https://techcrunch.com/2022/05/13/owl-city-all-star-smash-mouth-remix/)
-- [Peloton is releasing a rowing machine](https://techcrunch.com/2022/05/13/peloton-is-releasing-a-rowing-machine/)
+- [TechCrunch+ roundup: Find your valuation, international visas, hiring for growth](https://techcrunch.com/2022/05/13/techcrunch-roundup-finding-your-valuation-international-visas-hiring-for-growth/)
+- [Postmates founder banks $23 million for his new crypto startup TipTop](https://techcrunch.com/2022/05/13/postmates-founder-banks-23-million-for-his-new-crypto-startup-tiptop/)
+- [Investors reward battery startup SES for losing money &lpar;but not too much&rpar;](https://techcrunch.com/2022/05/13/investors-reward-battery-startup-ses-for-losing-money-but-not-too-much/)
+- [Hulu partners with Xbox to bring PC Gamers free games in a bundle deal](https://techcrunch.com/2022/05/13/hulu-partners-with-xbox-to-bring-pc-gamers-free-games-in-a-bundle-deal/)
+- [Binoculars deals: The best discounts and savings available](https://www.space.com/binoculars-deals-sale-discount/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
