@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Better.com CEO Vishal Garg says he’s on the hook for $750M SoftBank loan](https://techcrunch.com/2022/05/13/daily-crunch-better-com-ceo-vishal-garg-says-hes-on-the-hook-for-750m-softbank-loan/)
+- [Blue Origin targets May 20 for next space tourist launch](https://www.space.com/blue-origin-may-20-space-tourist-launch/)
 - [Twitter is testing a new ‘Liked by Author’ label for tweets](https://techcrunch.com/2022/05/13/twitter-testing-liked-by-author-label/)
 - [Ukraine invasion&#39;s impacts on space exploration: Live updates](https://www.space.com/news/live/russia-ukraine-invasion-space-impacts-updates/)
 - [Super Flower Blood Moon lunar eclipse: Is it the 1st of 4 supermoons?](https://www.space.com/super-flower-blood-moon-eclipse-may-2022-espenak/)
-- [Twitter CEO Parag Agrawal says he fired key execs due to ‘challenging’ economy](https://techcrunch.com/2022/05/13/twitter-ceo-tweets-musk-deal/)
-- [48 hours left to save $200 on TC Sessions: Mobility](https://techcrunch.com/2022/05/13/48-hours-left-to-save-200-on-tc-sessions-mobility/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
