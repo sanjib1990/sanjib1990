@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Amalthea: Jupiter’s unusual inner moon](https://www.space.com/amalthea-jupiter-moon/)
-- [Valued at $50M, Body404 wants to bring Chinese indie brands to the world](https://techcrunch.com/2022/05/13/body404-valuation-50-million-china-indie-fashion/)
-- [Indian food delivery giant Swiggy is acquiring Dineout for $200 million](https://techcrunch.com/2022/05/13/indian-food-delivery-giant-swiggy-is-acquiring-dineout/)
-- [Binance halts Luna and UST trading across most of its spot pairs following meltdown](https://techcrunch.com/2022/05/12/binance-halts-luna-and-ust-trading-across-most-of-its-spot-pairs-following-meltdown/)
-- [‘Move fast and break things’ is a bad idea for health tech startups](https://techcrunch.com/2022/05/12/move-fast-and-break-things-is-a-bad-idea-for-health-tech-startups/)
+- [Elon Musk says Twitter deal ‘temporarily on hold over spam’](https://techcrunch.com/2022/05/13/elon-musk-twitter-deal-on-hold-spam/)
+- [On This Day In Space: May 13, 1964: Apollo spacecraft launches on abort test](https://www.space.com/39251-on-this-day-in-space.html/)
+- [Alpha particles and alpha radiation: Explained](https://www.space.com/alpha-particles-alpha-radiation/)
+- [Watch Rocket Lab catch a falling booster with a helicopter &lpar;video&rpar;](https://www.space.com/rocket-lab-helicopter-booster-catch-video/)
+- [Milky Way vs M87: Event Horizon Telescope photos show 2 very different monster black holes](https://www.space.com/milky-way-m87-black-holes-compared-eht/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
