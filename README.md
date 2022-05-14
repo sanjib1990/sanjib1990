@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [On non-founder CEOs, turnarounds and priorities](https://techcrunch.com/2022/05/14/on-non-founder-ceos-turnarounds-and-priorities/)
 - [Here come the single-digit SaaS multiples](https://techcrunch.com/2022/05/14/here-come-the-single-digit-saas-multiples/)
 - [This Week In Space podcast: Episode 11 — A bloody moon!](https://www.space.com/this-week-in-space-podcast-twit/)
 - [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html/)
 - [Can carbon capture startup Carbon Clean deliver on its cost claims?](https://techcrunch.com/2022/05/14/can-carbon-capture-startup-carbon-clean-deliver-on-its-cost-claims/)
-- [What time is the Super Flower Blood Moon lunar eclipse?](https://www.space.com/super-flower-blood-moon-may-2022-what-time-is-it/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
