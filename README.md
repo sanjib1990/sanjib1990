@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX to launch 53 Starlink internet satellites, land rocket Saturday: Watch live](https://www.space.com/spacex-starlink-launch-group-4-15/)
+- [Monster black holes fuel Arcade Fire&#39;s cosmic album and performance &lpar;Q&amp;A&rpar;](https://www.space.com/arcade-fire-black-hole-performance-interview/)
 - [Another week of job slashes and crypto crashes](https://techcrunch.com/2022/05/14/another-week-of-job-slashes-and-crypto-crashes/)
 - [Daily Crunch: Better.com CEO Vishal Garg says he’s on the hook for $750M SoftBank loan](https://techcrunch.com/2022/05/13/daily-crunch-better-com-ceo-vishal-garg-says-hes-on-the-hook-for-750m-softbank-loan/)
 - [Blue Origin targets May 20 for next space tourist launch](https://www.space.com/blue-origin-may-20-space-tourist-launch/)
-- [Twitter is testing a new ‘Liked by Author’ label for tweets](https://techcrunch.com/2022/05/13/twitter-testing-liked-by-author-label/)
-- [Ukraine invasion&#39;s impacts on space exploration: Live updates](https://www.space.com/news/live/russia-ukraine-invasion-space-impacts-updates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
