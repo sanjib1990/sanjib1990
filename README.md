@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Can carbon capture startup Carbon Clean deliver on its cost claims?](https://techcrunch.com/2022/05/14/can-carbon-capture-startup-carbon-clean-deliver-on-its-cost-claims/)
+- [What time is the Super Flower Blood Moon lunar eclipse?](https://www.space.com/super-flower-blood-moon-may-2022-what-time-is-it/)
+- [The stages of the Super Flower Blood Moon lunar eclipse of 2022 explained](https://www.space.com/super-blood-moon-eclipse-stages-explained/)
 - [Monster black holes fuel Arcade Fire&#39;s cosmic album and performance &lpar;video&rpar;](https://www.space.com/arcade-fire-black-hole-performance-interview/)
 - [On This Day In Space: May 14, 1973: NASA launches Skylab space station](https://www.space.com/39251-on-this-day-in-space.html/)
-- [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html/)
-- [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html/)
-- [Satellite spies sunken Russian ship off Ukraine&#39;s wartorn Snake Island &lpar;photos&rpar;](https://www.space.com/sunk-russian-ship-snake-island-ukraine-satellite-photos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
