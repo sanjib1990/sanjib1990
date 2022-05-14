@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [When your startup’s core mission is set to be overturned](https://techcrunch.com/2022/05/14/when-your-startups-core-mission-is-set-to-be-overturned/)
+- [This Week in Apps: Google I/O wraps, a new ARCore API, Twitter deal drama](https://techcrunch.com/2022/05/14/this-week-in-apps-google-i-o-wraps-a-new-arcore-api-twitter-deal-drama/)
 - [On non-founder CEOs, turnarounds and priorities](https://techcrunch.com/2022/05/14/on-non-founder-ceos-turnarounds-and-priorities/)
 - [Here come the single-digit SaaS multiples](https://techcrunch.com/2022/05/14/here-come-the-single-digit-saas-multiples/)
 - [This Week In Space podcast: Episode 11 — A bloody moon!](https://www.space.com/this-week-in-space-podcast-twit/)
-- [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html/)
-- [Can carbon capture startup Carbon Clean deliver on its cost claims?](https://techcrunch.com/2022/05/14/can-carbon-capture-startup-carbon-clean-deliver-on-its-cost-claims/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
