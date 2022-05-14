@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX will launch 53 more Starlink satellites and land rocket today. Watch it live.](https://www.space.com/spacex-starlink-launch-group-4-15/)
 - [Monster black holes fuel Arcade Fire&#39;s cosmic album and performance &lpar;video&rpar;](https://www.space.com/arcade-fire-black-hole-performance-interview/)
-- [Another week of job slashes and crypto crashes](https://techcrunch.com/2022/05/14/another-week-of-job-slashes-and-crypto-crashes/)
-- [Daily Crunch: Better.com CEO Vishal Garg says he’s on the hook for $750M SoftBank loan](https://techcrunch.com/2022/05/13/daily-crunch-better-com-ceo-vishal-garg-says-hes-on-the-hook-for-750m-softbank-loan/)
-- [Blue Origin targets May 20 for next space tourist launch](https://www.space.com/blue-origin-may-20-space-tourist-launch/)
+- [On This Day In Space: May 14, 1973: NASA launches Skylab space station](https://www.space.com/39251-on-this-day-in-space.html/)
+- [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html/)
+- [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html/)
+- [Satellite spies sunken Russian ship off Ukraine&#39;s wartorn Snake Island &lpar;photos&rpar;](https://www.space.com/sunk-russian-ship-snake-island-ukraine-satellite-photos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
