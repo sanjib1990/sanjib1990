@@ -82,7 +82,7 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Elden Ring....but in a BASH script &lpar;BASH Conditionals&rpar; // EP 4](https://www.youtube.com/watch?v=Fq6gqi9Ubog)
+- [this BASH script will KILL you.](https://www.youtube.com/watch?v=Fq6gqi9Ubog)
 - [Breaking RSA - Computerphile](https://www.youtube.com/watch?v=-ShwJqAalOk)
 - [Is the tech bubble bursting right now?](https://www.youtube.com/watch?v=g-_hVXzkn0o)
 - [i destroyed your Python data // EP 9](https://www.youtube.com/watch?v=jdTwCSxNINA)
