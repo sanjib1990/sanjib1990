@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Crypto VCs can’t just buy ‘community’](https://techcrunch.com/2022/05/15/crypto-vcs-cant-just-buy-community/)
 - [The Super Flower Blood Moon eclipse will leave these lunar spacecraft in the dark](https://www.space.com/super-flower-blood-moon-eclipse-lunar-spacecraft-2022/)
 - [Super Flower Blood Moon weather forecast: What to expect in the US for the total lunar eclipse](https://www.space.com/super-flower-blood-moon-2022-weather-forecast/)
 - [The Interchange: Things go from bad to worse at Better.com](https://techcrunch.com/2022/05/15/the-interchange-things-go-from-bad-to-worse-at-better-com/)
 - [Want to see the Super Flower Blood Moon? Here&#39;s one scientist&#39;s tips for the total lunar eclipse.](https://www.space.com/super-flower-blood-moon-eclipse-lunar-scientist-tips/)
-- [Corporate venture investors pulled back in Q1, but less than you imagined](https://techcrunch.com/2022/05/15/corporate-venture-investors-pulled-back-in-q1-but-less-than-you-imagined/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
