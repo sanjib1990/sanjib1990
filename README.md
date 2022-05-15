@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Super Flower Blood Moon eclipse will leave these lunar spacecraft in the dark](https://www.space.com/super-flower-blood-moon-eclipse-lunar-spacecraft-2022/)
+- [Super Flower Blood Moon weather forecast: What to expect in the US for the total lunar eclipse](https://www.space.com/super-flower-blood-moon-2022-weather-forecast/)
+- [The Interchange: Things go from bad to worse at Better.com](https://techcrunch.com/2022/05/15/the-interchange-things-go-from-bad-to-worse-at-better-com/)
+- [Want to see the Super Flower Blood Moon? Here&#39;s one scientist&#39;s tips for the total lunar eclipse.](https://www.space.com/super-flower-blood-moon-eclipse-lunar-scientist-tips/)
 - [Corporate venture investors pulled back in Q1, but less than you imagined](https://techcrunch.com/2022/05/15/corporate-venture-investors-pulled-back-in-q1-but-less-than-you-imagined/)
-- [On This Day In Space: May 15, 1963: Last flight of NASA&#39;s Mercury program](https://www.space.com/39251-on-this-day-in-space.html/)
-- [NASA&#39;s Lucy asteroid probe will watch the Super Flower Blood Moon eclipse from deep space](https://www.space.com/total-lunar-eclipse-lucy-asteroid-spacecraft-may-2022/)
-- [The Super Flower Blood Moon lunar eclipse of 2022 occurs tonight! Here&#39;s what to expect.](https://www.space.com/super-flower-blood-moon-eclipse-tonight/)
-- [The moon photobombs a sunset in this otherworldly solar eclipse image](https://www.space.com/partial-solar-eclipse-2022-atacama-desert-photo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
