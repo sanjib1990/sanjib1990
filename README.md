@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Start up solo, or bring on a co-founder? 4 factors to consider](https://techcrunch.com/2022/05/16/start-up-solo-or-bring-on-a-co-founder-4-factors-to-consider/)
+- [Twitter CEO and Elon Musk clash over bot-battling metrics](https://techcrunch.com/2022/05/16/twitter-ceo-and-elon-musk-clash-over-bot-battling-metrics/)
+- [Lego&#39;s exclusive Ulysses space probe set returns for VIP members May 17!](https://www.space.com/lego-ulysses-space-probe-vip-program-returns/)
 - [Melbourne-based Blinq wants to make paper business cards obsolete](https://techcrunch.com/2022/05/16/melbourne-based-blinq-wants-to-make-paper-business-cards-obsolete/)
 - [NASA will give Mars InSight mission update Tuesday: Listen live](https://www.space.com/nasa-insight-mars-mission-update-may-2022/)
-- [Rosie the Rocketeer: Meet the dummy flying on Boeing&#39;s OFT-2 test flight this week](https://www.space.com/rosie-rocketeer-dummy-boeing-starliner-oft-2/)
-- [Sony confirms its new PlayStation Plus tiers will launch on June 13, reveals list of games](https://techcrunch.com/2022/05/16/sony-playstation-plus-tiers-launch-june-13-list-of-games/)
-- [Flexxbotics puts work-cell manufacturing on cloud nine](https://techcrunch.com/2022/05/16/flexxbotics-manufacturing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
