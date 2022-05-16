@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Marketing data management platform Claravine nabs $16M](https://techcrunch.com/2022/05/16/marketing-data-management-platform-claravine-nabs-16m/)
+- [What’s ahead for crypto startups?](https://techcrunch.com/2022/05/16/whats-ahead-for-crypto-startups/)
+- [Tech giants pledge $30M to boost open source software security](https://techcrunch.com/2022/05/16/white-house-open-source-security/)
 - [5 lessons from ‘Star Wars’ that can transform startup managers’ strategies and tactics](https://techcrunch.com/2022/05/16/5-lessons-from-star-wars-that-can-transform-startup-managers-strategies-and-tactics/)
 - [Classiq raises additional funding for its quantum algorithm design tools](https://techcrunch.com/2022/05/16/classiq-raises-additional-funding-for-its-quantum-algorithm-design-tools/)
-- [Optibus taps $100M at a $1.3B valuation for its AI-based mass transit operations platform](https://techcrunch.com/2022/05/16/optibus-taps-100m-at-a-1-3b-valuation-for-its-ai-based-mass-transit-operations-platform/)
-- [Report spotlights vast scale of adtech’s ‘biggest data breach’](https://techcrunch.com/2022/05/16/iccl-rtb-report-google-gdpr/)
-- [Akuity raises $20M to simplify Kubernetes container management](https://techcrunch.com/2022/05/16/akuity-raises-20m-to-simplify-kubernetes-container-management/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
