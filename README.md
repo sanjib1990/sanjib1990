@@ -98,7 +98,7 @@
 - [Uber Eats pilots autonomous delivery with Serve Robotics, Motional](https://techcrunch.com/2022/05/15/uber-eats-pilots-autonomous-delivery-with-serve-robotics-motional/)
 - [Curious Thing’s voice AI communication platform asks the right questions](https://techcrunch.com/2022/05/15/curious-things-voice-ai-communication-platform-asks-the-right-questions/)
 - [Crypto VCs can’t just buy ‘community’](https://techcrunch.com/2022/05/15/crypto-vcs-cant-just-buy-community/)
-- [Everything Uber announced at its global product event](https://techcrunch.com/2022/05/15/everything-uber-announced-at-its-global-product-event/)
+- [The Super Flower Blood Moon eclipse will leave these lunar spacecraft in the dark](https://www.space.com/super-flower-blood-moon-eclipse-lunar-spacecraft-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
