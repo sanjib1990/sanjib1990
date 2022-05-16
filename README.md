@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Yes! More tickets released for TechCrunch’s Annual Summer Party next month](https://techcrunch.com/2022/05/16/yes-more-tickets-released-for-techcrunchs-annual-summer-party-next-month/)
+- [Keelvar raises $24M to automate procurement in the supply chain](https://techcrunch.com/2022/05/16/keelvar-raises-24m-to-automate-procurement-in-the-supply-chain/)
 - [Dusty’s construction robots raise another $45M](https://techcrunch.com/2022/05/16/dustys-construction-robots-raise-another-45m/)
 - [Eurovision gets a call from International Space Station astronaut](https://www.space.com/eurovision-call-space-station-astronaut-cristoforetti/)
 - [Three PayPal Ventures alums strike out with their own $158M fund](https://techcrunch.com/2022/05/16/three-paypal-ventures-alums-strike-out-with-their-own-158m-fund/)
-- [How quickly are startup layoffs accelerating?](https://techcrunch.com/2022/05/16/how-quickly-are-startup-layoffs-accelerating/)
-- [Trump’s deal with Truth Social makes returning to Twitter complicated](https://techcrunch.com/2022/05/16/trump-twitter-return-truth-social/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
