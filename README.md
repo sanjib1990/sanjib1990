@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Super Flower Blood Moon 2022: Everything to know for the total lunar eclipse](https://www.space.com/blood-moon-lunar-eclipse-may-2022-guide/)
 - [Uber Eats pilots autonomous delivery with Serve Robotics, Motional](https://techcrunch.com/2022/05/15/uber-eats-pilots-autonomous-delivery-with-serve-robotics-motional/)
 - [Curious Thing’s voice AI communication platform asks the right questions](https://techcrunch.com/2022/05/15/curious-things-voice-ai-communication-platform-asks-the-right-questions/)
 - [Crypto VCs can’t just buy ‘community’](https://techcrunch.com/2022/05/15/crypto-vcs-cant-just-buy-community/)
-- [The Super Flower Blood Moon eclipse will leave these lunar spacecraft in the dark](https://www.space.com/super-flower-blood-moon-eclipse-lunar-spacecraft-2022/)
-- [Super Flower Blood Moon weather forecast: What to expect in the US for the total lunar eclipse](https://www.space.com/super-flower-blood-moon-2022-weather-forecast/)
+- [Everything Uber announced at its global product event](https://techcrunch.com/2022/05/15/everything-uber-announced-at-its-global-product-event/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
