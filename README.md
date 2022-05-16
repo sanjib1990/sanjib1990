@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Melbourne-based Blinq wants to make paper business cards obsolete](https://techcrunch.com/2022/05/16/melbourne-based-blinq-wants-to-make-paper-business-cards-obsolete/)
+- [NASA will give Mars InSight mission update Tuesday: Listen live](https://www.space.com/nasa-insight-mars-mission-update-may-2022/)
 - [Rosie the Rocketeer: Meet the dummy flying on Boeing&#39;s OFT-2 test flight this week](https://www.space.com/rosie-rocketeer-dummy-boeing-starliner-oft-2/)
 - [Sony confirms its new PlayStation Plus tiers will launch on June 13, reveals list of games](https://techcrunch.com/2022/05/16/sony-playstation-plus-tiers-launch-june-13-list-of-games/)
 - [Flexxbotics puts work-cell manufacturing on cloud nine](https://techcrunch.com/2022/05/16/flexxbotics-manufacturing/)
-- [Google faces fresh class action-style suit in UK over DeepMind NHS patient data scandal](https://techcrunch.com/2022/05/16/google-deepmind-nhs-misuse-of-private-data-lawsuit/)
-- [Apple TV+’s ‘For All Mankind’ season three trailer drops, teasing a space race to Mars](https://techcrunch.com/2022/05/16/apple-tvs-for-all-mankind-season-three-trailer-drops-teasing-a-space-race-to-mars/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
