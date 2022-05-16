@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Flink, the German instant grocery upstart, snaps up France’s Cajoo for ~$93M, takes fresh Carrefour investment at a $5B valuation](https://techcrunch.com/2022/05/16/flink-the-german-instant-grocery-upstart-snaps-up-frances-cajoo-for-93m-takes-fresh-carrefour-investment-at-a-5b-valuation/)
-- [Cloud Foundry Foundation launches Korifi to simplify the Kubernetes developer experience](https://techcrunch.com/2022/05/16/cloud-foundry-launches-korifi-to-simplify-the-kubernetes-developer-experience/)
-- [Mars helicopter Ingenuity scouts rocky ridge for Perseverance rover](https://www.space.com/mars-helicopter-ingenuity-scouts-rock-ridge-photo/)
-- [Netflix subscribers may be getting a live streaming option for unscripted shows and stand-up specials](https://techcrunch.com/2022/05/16/netflix-subscribers-may-be-getting-a-live-streaming-option-for-unscripted-shows-and-stand-up-specials/)
-- [Apple Podcasts gains storage clean-up tools, support for annual subscriptions, and a new distribution system](https://techcrunch.com/2022/05/16/apple-podcasts-gains-storage-clean-up-tools-support-for-annual-subscriptions-and-a-new-distribution-system/)
+- [Dusty’s construction robots raise another $45M](https://techcrunch.com/2022/05/16/dustys-construction-robots-raise-another-45m/)
+- [Eurovision gets a call from International Space Station astronaut](https://www.space.com/eurovision-call-space-station-astronaut-cristoforetti/)
+- [Three PayPal Ventures alums strike out with their own $158M fund](https://techcrunch.com/2022/05/16/three-paypal-ventures-alums-strike-out-with-their-own-158m-fund/)
+- [How quickly are startup layoffs accelerating?](https://techcrunch.com/2022/05/16/how-quickly-are-startup-layoffs-accelerating/)
+- [Trump’s deal with Truth Social makes returning to Twitter complicated](https://techcrunch.com/2022/05/16/trump-twitter-return-truth-social/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
