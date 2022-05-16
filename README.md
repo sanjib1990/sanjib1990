@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Prusa buys 3D-printer seller Print Solid to expand US footprint](https://techcrunch.com/2022/05/16/prusa-buys-3d-printer-seller-print-solid-to-expand-us-footprint/)
-- [There are no easy answers for tech in the aftermath of the Buffalo tragedy](https://techcrunch.com/2022/05/16/buffalo-mass-shooting-social-media/)
-- [Rivian says pricing dispute with seat supplier threatens Amazon van program](https://techcrunch.com/2022/05/16/rivian-says-pricing-dispute-with-seat-supplier-threatens-amazon-van-program/)
-- [Save $150 on a Panasonic Lumix G100 camera](https://www.space.com/panasonic-lumix-camera-save-150-dollars-bandh-deal/)
-- [Start up solo, or bring on a co-founder? 4 factors to consider](https://techcrunch.com/2022/05/16/start-up-solo-or-bring-on-a-co-founder-4-factors-to-consider/)
+- [iOS 15.5 brings new Apple Cash update that lets you send and request money directly in Wallet](https://techcrunch.com/2022/05/16/ios-15-5-apple-cash-update-send-request-money-wallet/)
+- [Max Q: Near and far](https://techcrunch.com/2022/05/16/max-q-near-and-far/)
+- [Kolkata Chai’s next cup includes a taste of venture funding](https://techcrunch.com/2022/05/16/kolkata-chais-next-cup-includes-a-taste-of-venture-funding/)
+- [Fall Guys is going free-to-play, coming to Switch and Xbox on June 21](https://techcrunch.com/2022/05/16/fall-guys-free-to-play-coming-to-switch-xbox-june-21/)
+- [Ballooning US EV registrations raise opportunities for startups](https://techcrunch.com/2022/05/16/ballooning-us-ev-registrations-raise-opportunities-for-startups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
