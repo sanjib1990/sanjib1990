@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Marketing data management platform Claravine nabs $16M](https://techcrunch.com/2022/05/16/marketing-data-management-platform-claravine-nabs-16m/)
-- [What’s ahead for crypto startups?](https://techcrunch.com/2022/05/16/whats-ahead-for-crypto-startups/)
-- [Tech giants pledge $30M to boost open source software security](https://techcrunch.com/2022/05/16/white-house-open-source-security/)
-- [5 lessons from ‘Star Wars’ that can transform startup managers’ strategies and tactics](https://techcrunch.com/2022/05/16/5-lessons-from-star-wars-that-can-transform-startup-managers-strategies-and-tactics/)
-- [Classiq raises additional funding for its quantum algorithm design tools](https://techcrunch.com/2022/05/16/classiq-raises-additional-funding-for-its-quantum-algorithm-design-tools/)
+- [Flink, the German instant grocery upstart, snaps up France’s Cajoo for ~$93M, takes fresh Carrefour investment at a $5B valuation](https://techcrunch.com/2022/05/16/flink-the-german-instant-grocery-upstart-snaps-up-frances-cajoo-for-93m-takes-fresh-carrefour-investment-at-a-5b-valuation/)
+- [Cloud Foundry Foundation launches Korifi to simplify the Kubernetes developer experience](https://techcrunch.com/2022/05/16/cloud-foundry-launches-korifi-to-simplify-the-kubernetes-developer-experience/)
+- [Mars helicopter Ingenuity scouts rocky ridge for Perseverance rover](https://www.space.com/mars-helicopter-ingenuity-scouts-rock-ridge-photo/)
+- [Netflix subscribers may be getting a live streaming option for unscripted shows and stand-up specials](https://techcrunch.com/2022/05/16/netflix-subscribers-may-be-getting-a-live-streaming-option-for-unscripted-shows-and-stand-up-specials/)
+- [Apple Podcasts gains storage clean-up tools, support for annual subscriptions, and a new distribution system](https://techcrunch.com/2022/05/16/apple-podcasts-gains-storage-clean-up-tools-support-for-annual-subscriptions-and-a-new-distribution-system/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
