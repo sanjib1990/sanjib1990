@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [5 lessons from ‘Star Wars’ that can transform startup managers’ strategies and tactics](https://techcrunch.com/2022/05/16/5-lessons-from-star-wars-that-can-transform-startup-managers-strategies-and-tactics/)
+- [Classiq raises additional funding for its quantum algorithm design tools](https://techcrunch.com/2022/05/16/classiq-raises-additional-funding-for-its-quantum-algorithm-design-tools/)
+- [Optibus taps $100M at a $1.3B valuation for its AI-based mass transit operations platform](https://techcrunch.com/2022/05/16/optibus-taps-100m-at-a-1-3b-valuation-for-its-ai-based-mass-transit-operations-platform/)
+- [Report spotlights vast scale of adtech’s ‘biggest data breach’](https://techcrunch.com/2022/05/16/iccl-rtb-report-google-gdpr/)
 - [Akuity raises $20M to simplify Kubernetes container management](https://techcrunch.com/2022/05/16/akuity-raises-20m-to-simplify-kubernetes-container-management/)
-- [Marvel movies in chronological order](https://www.space.com/marvel-movies-in-order/)
-- [On This Day In Space: May 16, 2011: Space Shuttle Endeavour launches on final flight](https://www.space.com/39251-on-this-day-in-space.html/)
-- [After snapping a photo of the Milky Way&#39;s monster black hole, scientists dream of videos](https://www.space.com/black-hole-movies-event-horizon-telescope/)
-- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
