@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: ‘The bitcoin network is not a payments network,’ says FTX CEO Sam Bankman-Fried](https://techcrunch.com/2022/05/16/daily-crunch-the-bitcoin-network-is-not-a-payments-network-says-ftx-ceo-sam-bankman-fried/)
+- [Rivian founder RJ Scaringe snaps up $1M worth of EV maker’s stock](https://techcrunch.com/2022/05/16/rivian-founder-rj-scaringe-snaps-up-1m-worth-of-ev-makers-stock/)
 - [iOS 15.5 brings new Apple Cash update that lets you send and request money directly in Wallet](https://techcrunch.com/2022/05/16/ios-15-5-apple-cash-update-send-request-money-wallet/)
 - [Max Q: Near and far](https://techcrunch.com/2022/05/16/max-q-near-and-far/)
 - [Kolkata Chai’s next cup includes a taste of venture funding](https://techcrunch.com/2022/05/16/kolkata-chais-next-cup-includes-a-taste-of-venture-funding/)
-- [Fall Guys is going free-to-play, coming to Switch and Xbox on June 21](https://techcrunch.com/2022/05/16/fall-guys-free-to-play-coming-to-switch-xbox-june-21/)
-- [Ballooning US EV registrations raise opportunities for startups](https://techcrunch.com/2022/05/16/ballooning-us-ev-registrations-raise-opportunities-for-startups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
