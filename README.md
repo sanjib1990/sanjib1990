@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Solid in 100 Seconds](https://www.youtube.com/watch?v=hw3Bx5vxKl0)
-- [i created malware with Python &lpar;it&#39;s SCARY easy!!&rpar;](https://www.youtube.com/watch?v=UtMMjXOlRQc)
-- [GitLab CI/CD Full Course released - CI/CD with Docker | K8s | Microservices!](https://www.youtube.com/watch?v=F7WMRXLUQRM)
-- [this BASH script will KILL you.](https://www.youtube.com/watch?v=Fq6gqi9Ubog)
-- [Breaking RSA - Computerphile](https://www.youtube.com/watch?v=-ShwJqAalOk)
+- [Lecture 12: Spinal Cord; Autonomic NS](https://www.youtube.com/watch?v=rUl9X6CROTA)
+- [Lecture 15: Development of CNS, Introduction](https://www.youtube.com/watch?v=BbfTs2o_oHE)
+- [Lecture 14: Midbrain and Forebrain](https://www.youtube.com/watch?v=tAmMHp9vk90)
+- [Lecture 23: Rhythms of Activity; Sleep and Waking](https://www.youtube.com/watch?v=6SGBOZM842A)
+- [Lecture 19: Motor System, 1](https://www.youtube.com/watch?v=_gsDTzOpiKo)
 <!-- YOUTUBE:END -->
 
 ---
