@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Prusa buys 3D-printer seller Print Solid to expand US footprint](https://techcrunch.com/2022/05/16/prusa-buys-3d-printer-seller-print-solid-to-expand-us-footprint/)
+- [There are no easy answers for tech in the aftermath of the Buffalo tragedy](https://techcrunch.com/2022/05/16/buffalo-mass-shooting-social-media/)
+- [Rivian says pricing dispute with seat supplier threatens Amazon van program](https://techcrunch.com/2022/05/16/rivian-says-pricing-dispute-with-seat-supplier-threatens-amazon-van-program/)
+- [Save $150 on a Panasonic Lumix G100 camera](https://www.space.com/panasonic-lumix-camera-save-150-dollars-bandh-deal/)
 - [Start up solo, or bring on a co-founder? 4 factors to consider](https://techcrunch.com/2022/05/16/start-up-solo-or-bring-on-a-co-founder-4-factors-to-consider/)
-- [Twitter CEO and Elon Musk clash over bot-battling metrics](https://techcrunch.com/2022/05/16/twitter-ceo-and-elon-musk-clash-over-bot-battling-metrics/)
-- [Lego&#39;s exclusive Ulysses space probe set returns for VIP members May 17!](https://www.space.com/lego-ulysses-space-probe-vip-program-returns/)
-- [Melbourne-based Blinq wants to make paper business cards obsolete](https://techcrunch.com/2022/05/16/melbourne-based-blinq-wants-to-make-paper-business-cards-obsolete/)
-- [NASA will give Mars InSight mission update Tuesday: Listen live](https://www.space.com/nasa-insight-mars-mission-update-may-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
