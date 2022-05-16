@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Solid in 100 Seconds](https://www.youtube.com/watch?v=hw3Bx5vxKl0)
+- [i created malware with Python &lpar;it&#39;s SCARY easy!!&rpar;](https://www.youtube.com/watch?v=UtMMjXOlRQc)
 - [GitLab CI/CD Full Course released - CI/CD with Docker | K8s | Microservices!](https://www.youtube.com/watch?v=F7WMRXLUQRM)
 - [this BASH script will KILL you.](https://www.youtube.com/watch?v=Fq6gqi9Ubog)
 - [Breaking RSA - Computerphile](https://www.youtube.com/watch?v=-ShwJqAalOk)
-- [Is the tech bubble bursting right now?](https://www.youtube.com/watch?v=g-_hVXzkn0o)
-- [i destroyed your Python data // EP 9](https://www.youtube.com/watch?v=jdTwCSxNINA)
 <!-- YOUTUBE:END -->
 
 ---
