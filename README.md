@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Envoy Gateway project wants to bring Envoy to the masses](https://techcrunch.com/2022/05/16/the-envoy-gateway-project-wants-to-bring-envoy-to-the-masses/)
+- [European startup studio eFounders launches a web3 vertical](https://techcrunch.com/2022/05/16/european-startup-studio-efounders-launches-a-web3-vertical/)
+- [Kevin Rose on crypto winters, pseudonymous founders and his buzzy Moonbirds NFT project](https://techcrunch.com/2022/05/15/kevin-rose-on-crypto-winters-pseudonymous-founders-and-his-buzzy-moonbirds-nft-project/)
+- [Super Flower Blood Moon of 2022, longest total lunar eclipse in 33 years, wows stargazers](https://www.space.com/super-blood-flower-moon-may-2022-wows-stargazers/)
 - [Twiga starts commercial farming, looking to guarantee quality, sustain supply](https://techcrunch.com/2022/05/15/twiga-starts-commercial-farming-looking-to-guarantee-quality-sustain-supply/)
-- [South Korea’s new pro-crypto president gets pushback](https://techcrunch.com/2022/05/15/south-koreas-new-pro-crypto-president-gets-pushback/)
-- [Amazing photos of the Super Flower Blood Moon lunar eclipse of 2022](https://www.space.com/super-flower-blood-moon-may-2022-amazing-photos/)
-- [Super Flower Blood Moon 2022: Everything to know for the total lunar eclipse](https://www.space.com/blood-moon-lunar-eclipse-may-2022-guide/)
-- [Uber Eats pilots autonomous delivery with Serve Robotics, Motional](https://techcrunch.com/2022/05/15/uber-eats-pilots-autonomous-delivery-with-serve-robotics-motional/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
