@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [After 2nd black hole photo, scientists dream of videos next](https://www.space.com/black-hole-movies-event-horizon-telescope/)
+- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html/)
 - [Nigeria’s Topship raises $2.5M from Flexport and YC to help merchants with international shipping](https://techcrunch.com/2022/05/16/nigerian-freight-and-e-commerce-provider-topship-raises-2-5m-from-flexport-and-yc/)
 - [The Envoy Gateway project wants to bring Envoy to the masses](https://techcrunch.com/2022/05/16/the-envoy-gateway-project-wants-to-bring-envoy-to-the-masses/)
 - [European startup studio eFounders launches a web3 vertical](https://techcrunch.com/2022/05/16/european-startup-studio-efounders-launches-a-web3-vertical/)
-- [Kevin Rose on crypto winters, pseudonymous founders and his buzzy Moonbirds NFT project](https://techcrunch.com/2022/05/15/kevin-rose-on-crypto-winters-pseudonymous-founders-and-his-buzzy-moonbirds-nft-project/)
-- [Super Flower Blood Moon of 2022, longest total lunar eclipse in 33 years, wows stargazers](https://www.space.com/super-blood-flower-moon-may-2022-wows-stargazers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
