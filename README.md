@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Twiga starts commercial farming, looking to guarantee quality, sustain supply](https://techcrunch.com/2022/05/15/twiga-starts-commercial-farming-looking-to-guarantee-quality-sustain-supply/)
+- [South Korea’s new pro-crypto president gets pushback](https://techcrunch.com/2022/05/15/south-koreas-new-pro-crypto-president-gets-pushback/)
+- [Amazing photos of the Super Flower Blood Moon lunar eclipse of 2022](https://www.space.com/super-flower-blood-moon-may-2022-amazing-photos/)
 - [Super Flower Blood Moon 2022: Everything to know for the total lunar eclipse](https://www.space.com/blood-moon-lunar-eclipse-may-2022-guide/)
 - [Uber Eats pilots autonomous delivery with Serve Robotics, Motional](https://techcrunch.com/2022/05/15/uber-eats-pilots-autonomous-delivery-with-serve-robotics-motional/)
-- [Curious Thing’s voice AI communication platform asks the right questions](https://techcrunch.com/2022/05/15/curious-things-voice-ai-communication-platform-asks-the-right-questions/)
-- [Crypto VCs can’t just buy ‘community’](https://techcrunch.com/2022/05/15/crypto-vcs-cant-just-buy-community/)
-- [The Super Flower Blood Moon eclipse will leave these lunar spacecraft in the dark](https://www.space.com/super-flower-blood-moon-eclipse-lunar-spacecraft-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
