@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Yes! More tickets released for TechCrunch’s Annual Summer Party next month](https://techcrunch.com/2022/05/16/yes-more-tickets-released-for-techcrunchs-annual-summer-party-next-month/)
-- [Keelvar raises $24M to automate procurement in the supply chain](https://techcrunch.com/2022/05/16/keelvar-raises-24m-to-automate-procurement-in-the-supply-chain/)
-- [Dusty’s construction robots raise another $45M](https://techcrunch.com/2022/05/16/dustys-construction-robots-raise-another-45m/)
-- [Eurovision gets a call from International Space Station astronaut](https://www.space.com/eurovision-call-space-station-astronaut-cristoforetti/)
-- [Three PayPal Ventures alums strike out with their own $158M fund](https://techcrunch.com/2022/05/16/three-paypal-ventures-alums-strike-out-with-their-own-158m-fund/)
+- [Rosie the Rocketeer: Meet the dummy flying on Boeing&#39;s OFT-2 test flight this week](https://www.space.com/rosie-rocketeer-dummy-boeing-starliner-oft-2/)
+- [Sony confirms its new PlayStation Plus tiers will launch on June 13, reveals list of games](https://techcrunch.com/2022/05/16/sony-playstation-plus-tiers-launch-june-13-list-of-games/)
+- [Flexxbotics puts work-cell manufacturing on cloud nine](https://techcrunch.com/2022/05/16/flexxbotics-manufacturing/)
+- [Google faces fresh class action-style suit in UK over DeepMind NHS patient data scandal](https://techcrunch.com/2022/05/16/google-deepmind-nhs-misuse-of-private-data-lawsuit/)
+- [Apple TV+’s ‘For All Mankind’ season three trailer drops, teasing a space race to Mars](https://techcrunch.com/2022/05/16/apple-tvs-for-all-mankind-season-three-trailer-drops-teasing-a-space-race-to-mars/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
