@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A dive into Haun Ventures with the firm’s first deal lead, Sam Rosenblum](https://techcrunch.com/2022/05/16/a-dive-into-haun-ventures-with-the-firms-first-deal-lead-sam-rosenblum/)
+- [Bird changes course, drops vehicle sales in pursuit of profitability](https://techcrunch.com/2022/05/16/bird-changes-course-drops-vehicle-sales-in-pursuit-of-profitability/)
 - [Daily Crunch: ‘The bitcoin network is not a payments network,’ says FTX CEO Sam Bankman-Fried](https://techcrunch.com/2022/05/16/daily-crunch-the-bitcoin-network-is-not-a-payments-network-says-ftx-ceo-sam-bankman-fried/)
 - [Rivian founder RJ Scaringe snaps up $1M worth of EV maker’s stock](https://techcrunch.com/2022/05/16/rivian-founder-rj-scaringe-snaps-up-1m-worth-of-ev-makers-stock/)
 - [iOS 15.5 brings new Apple Cash update that lets you send and request money directly in Wallet](https://techcrunch.com/2022/05/16/ios-15-5-apple-cash-update-send-request-money-wallet/)
-- [Max Q: Near and far](https://techcrunch.com/2022/05/16/max-q-near-and-far/)
-- [Kolkata Chai’s next cup includes a taste of venture funding](https://techcrunch.com/2022/05/16/kolkata-chais-next-cup-includes-a-taste-of-venture-funding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
