@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Forerunner, Bezos back Arrived, a startup that lets you buy into single-family rentals for ‘as little as $100’](https://techcrunch.com/2022/05/17/backed-by-forerunner-and-bezos-back-arrived-a-startup-that-lets-you-buy-into-single-family-rentals-for-as-little-as-100/)
-- [Vivun is digitizing pre-sales, and just got $75M in new investment](https://techcrunch.com/2022/05/17/vivun-is-digitizing-pre-sales-and-just-got-75m-in-new-investment/)
-- [With a fresh $46M, Instabug aims to do more than fix your app’s bugs](https://techcrunch.com/2022/05/17/instabug-lands-46m-to-help-keep-your-apps-from-crashing/)
-- [Does Elon Musk really even want to buy Twitter?](https://techcrunch.com/2022/05/17/does-elon-musk-really-even-want-to-buy-twitter/)
-- [Virtual product placement ads are coming to Amazon Prime Video and Peacock](https://techcrunch.com/2022/05/17/virtual-product-placement-ads-are-coming-to-amazon-prime-video-and-peacock/)
+- [Yo! Egg cracks into U.S. restaurants with plant-based sunny-side-up, poached eggs](https://techcrunch.com/2022/05/17/yo-egg-restaurant-plant-based-eggs/)
+- [Tractian, which uses AI to monitor industrial equipment, raises $15M](https://techcrunch.com/2022/05/17/2314910/)
+- [Monday.com’s earnings are a vibe check for unicorns](https://techcrunch.com/2022/05/17/monday-coms-earnings-are-a-vibe-check-for-unicorns/)
+- [Bill Gates is coming to TC Sessions: Climate](https://techcrunch.com/2022/05/17/bill-gates-is-coming-to-tc-sessions-climate/)
+- [The e-commerce boom is still afoot in Africa, Jumia’s earnings indicate](https://techcrunch.com/2022/05/17/the-e-commerce-boom-is-still-afoot-in-africa-jumias-earnings-indicate/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
