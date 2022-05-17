@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [These beginner telescopes from Celestron are on sale for under $100 at Amazon](https://www.space.com/celestron-beginner-telescopes-may-2022/)
+- [Amazon’s free streaming service Freevee launches on Apple TV 4K and Apple TV HD](https://techcrunch.com/2022/05/17/amazons-free-streaming-service-freevee-launches-on-apple-tv-4k-and-apple-tv-hd/)
+- [Only 1 in 6 unicorns are true IPO candidates today](https://techcrunch.com/2022/05/17/only-1-in-6-unicorns-are-true-ipo-candidates-today/)
+- [Google Cloud launches new software supply chain and zero trust security services](https://techcrunch.com/2022/05/17/google-cloud-launches-new-software-supply-chain-and-zero-trust-security-services/)
 - [US military taking &#39;all hands on deck&#39; approach to understanding UFOs](https://www.space.com/military-systems-approach-understand-ufos/)
-- [Boeing Starliner Orbital Flight Test 2: Live updates](https://www.space.com/news/live/boeing-starliner-oft-2-live-updates/)
-- [Yo! Egg cracks into US restaurants with plant-based sunny-side-up, poached eggs](https://techcrunch.com/2022/05/17/yo-egg-restaurant-plant-based-eggs/)
-- [The &#39;twin paradox&#39; shows us what it really means for time to be relative](https://www.space.com/time-is-relative-twin-paradox/)
-- [Tractian, which uses AI to monitor industrial equipment, raises $15M](https://techcrunch.com/2022/05/17/2314910/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
