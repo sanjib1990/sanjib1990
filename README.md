@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Boeing&#39;s Starliner remains on track for crucial Thursday launch to space station](https://www.space.com/boeing-starliner-on-track-may-19-launch/)
-- [YouTube Music for Wear OS now lets users stream content over Wi-Fi and LTE](https://techcrunch.com/2022/05/17/youtube-music-wear-os-stream-content-wi-fi-and-lte/)
-- [Founders should be honest about their failures according to Forage CEO](https://techcrunch.com/2022/05/17/forage-found-podcast/)
-- [TechCrunch+ roundup: DTC data strategy, starting up solo, insuretech growth versus risk](https://techcrunch.com/2022/05/17/techcrunch-roundup-dtc-data-strategy-starting-up-solo-insuretech-growth-versus-risk/)
-- [Tusk Venture Partners just closed its third fund with $140M, double its predecessor fund](https://techcrunch.com/2022/05/17/tusk-ventures-just-closed-its-third-fund-with-140m-double-its-predecessor-fund/)
+- [New astronauts have changes in their brains after their first long-duration mission](https://www.space.com/spaceflight-brain-impact-fluid/)
+- [Candle Media, the new media co backed by former Disney execs, acquires Gen-Z focused ATTN:](https://techcrunch.com/2022/05/17/candle-media-the-new-media-co-backed-by-former-disney-execs-acquires-gen-z-focused-attn/)
+- [Electric Mercedes G-Class will go the distance with Sila’s energy-dense silicon anodes](https://techcrunch.com/2022/05/17/electric-mercedes-g-class-will-go-the-distance-with-silas-energy-dense-silicon-anodes/)
+- [Three senior Twitter employees leave amid potential Musk takeover](https://techcrunch.com/2022/05/17/twitter-employees-leave-ilya-brown-katrina-lane-max-schmeiser/)
+- [Fable funds quest for accessibility-inclusive development with $10M A round](https://techcrunch.com/2022/05/17/fable-funds-quest-for-accessibility-inclusive-development-with-10m-a-round/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
