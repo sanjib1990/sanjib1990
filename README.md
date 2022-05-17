@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hinge’s latest feature aims to help users spark conversations about self-care](https://techcrunch.com/2022/05/17/hinges-latest-feature-aims-to-help-users-spark-conversations-about-self-care/)
 - [Storyblok raises $47M to build out its headless CMS aimed at non-technical users like marketers](https://techcrunch.com/2022/05/17/storyblok-raises-47m-to-build-out-its-headless-cms-aimed-at-non-technical-users-like-marketers/)
 - [Tableau enhances links to Salesforce AI as it works to blend more into ecosystem](https://techcrunch.com/2022/05/17/tableau-announces-deeper-integration-with-salesforce-einstein-ai/)
 - [Earlybird VC closes new €350M fund for Western European startups, with a deeptech angle](https://techcrunch.com/2022/05/17/earlybird-vc-closes-new-e350m-fund-for-western-european-startups-with-a-deeptech-angle/)
 - [CarePoint raises $10M to spread healthcare tech across Africa](https://techcrunch.com/2022/05/17/carepoint-raises-10m-to-spread-healthcare-tech-across-africa/)
-- [Claap prevents meeting fatigue with async video collaboration](https://techcrunch.com/2022/05/17/claap-prevents-meeting-fatigue-with-async-video-collaboration/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
