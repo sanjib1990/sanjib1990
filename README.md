@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Linktree is rolling out new features to allow creators to showcase their NFTs](https://techcrunch.com/2022/05/17/linktree-nfts/)
 - [Lunar eclipse 2022 guide: When, where &amp; how to see them](https://www.space.com/33786-lunar-eclipse-guide.html/)
 - [What is astronomical twilight?](https://www.space.com/astronomical-twilight/)
 - [Hinge’s latest feature aims to help users spark conversations about self-care](https://techcrunch.com/2022/05/17/hinges-latest-feature-aims-to-help-users-spark-conversations-about-self-care/)
 - [Storyblok raises $47M to build out its headless CMS aimed at non-technical users like marketers](https://techcrunch.com/2022/05/17/storyblok-raises-47m-to-build-out-its-headless-cms-aimed-at-non-technical-users-like-marketers/)
-- [Tableau enhances links to Salesforce AI as it works to blend more into ecosystem](https://techcrunch.com/2022/05/17/tableau-announces-deeper-integration-with-salesforce-einstein-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
