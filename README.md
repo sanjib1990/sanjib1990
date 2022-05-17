@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [These beginner telescopes from Celestron are on sale for under $100 at Amazon](https://www.space.com/celestron-beginner-telescopes-may-2022/)
-- [Amazon’s free streaming service Freevee launches on Apple TV 4K and Apple TV HD](https://techcrunch.com/2022/05/17/amazons-free-streaming-service-freevee-launches-on-apple-tv-4k-and-apple-tv-hd/)
-- [Only 1 in 6 unicorns are true IPO candidates today](https://techcrunch.com/2022/05/17/only-1-in-6-unicorns-are-true-ipo-candidates-today/)
-- [Google Cloud launches new software supply chain and zero trust security services](https://techcrunch.com/2022/05/17/google-cloud-launches-new-software-supply-chain-and-zero-trust-security-services/)
-- [US military taking &#39;all hands on deck&#39; approach to understanding UFOs](https://www.space.com/military-systems-approach-understand-ufos/)
+- [Robinhood lets users manage their own crypto wallets in push to spur trading](https://techcrunch.com/2022/05/17/robinhood-lets-users-manage-their-own-crypto-wallets-in-push-to-spur-trading/)
+- [Koyeb is a serverless platform that integrates with your GitHub repository](https://techcrunch.com/2022/05/17/koyeb-is-a-serverless-platform-that-integrates-with-your-github-repository/)
+- [Sachin Bansal’s firm fails to secure India bank permit](https://techcrunch.com/2022/05/17/sachin-bansal-firm-fails-to-secure-india-bank-permit/)
+- [Pulse, the maker of an automatic Slack status updater, acquires team communication startup Lounge](https://techcrunch.com/2022/05/17/pulse-the-maker-of-an-automatic-slack-status-updater-acquires-team-communication-startup-lounge/)
+- [Apple reportedly testing E Ink outer display for upcoming foldable](https://techcrunch.com/2022/05/17/apple-reportedly-testing-e-ink-outer-display-for-upcoming-foldable/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
