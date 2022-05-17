@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Red Hat open sources StackRox, the Kubernetes security platform it acquired last year](https://techcrunch.com/2022/05/17/red-hat-open-sources-stackrox-the-kubernetes-security-platform-it-acquired-last-year/)
-- [Watch the Humans to Mars Summit 2022: Red Planet travel and international relations take center stage](https://www.space.com/humans-to-mars-summit-2022-webcast/)
-- [Musk says Twitter deal is dead unless CEO can prove spam stats](https://techcrunch.com/2022/05/17/elon-musk-twitter-spam/)
-- [Meet the crew of Blue Origin&#39;s NS-21 space tourism launch](https://www.space.com/crew-blue-origin-ns-21-space-tourism-mission/)
-- [The science and cargo of Boeing&#39;s OFT-2 Starliner test flight to space station](https://www.space.com/boeing-starliner-oft2-mission-science-cargo/)
+- [Apple adds live captions to iPhone and Mac, plus more accessibility upgrades to come](https://techcrunch.com/2022/05/17/apple-adds-live-captions-to-iphone-and-mac-plus-more-accessibility-upgrades-to-come/)
+- [A.Team emerges from stealth with a gig marketplace for product specialists](https://techcrunch.com/2022/05/17/a-team-emerges-from-stealth-with-a-gig-marketplace-for-product-specialists/)
+- [Banking-as-a-service startup Unit closes on $100M at a $1.2B valuation](https://techcrunch.com/2022/05/17/banking-as-a-service-startup-unit-closes-on-100m-at-a-1-2b-valuation/)
+- [Fashinza, a B2B supply chain marketplace for fashion brands, raises $100M](https://techcrunch.com/2022/05/17/2311970/)
+- [On This Day In Space: May 17, 1974: NASA launches 1st Synchronous Meteorological satellite](https://www.space.com/39251-on-this-day-in-space.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
