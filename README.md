@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Robinhood lets users manage their own crypto wallets in push to spur trading](https://techcrunch.com/2022/05/17/robinhood-lets-users-manage-their-own-crypto-wallets-in-push-to-spur-trading/)
-- [Koyeb is a serverless platform that integrates with your GitHub repository](https://techcrunch.com/2022/05/17/koyeb-is-a-serverless-platform-that-integrates-with-your-github-repository/)
-- [Sachin Bansal’s firm fails to secure India bank permit](https://techcrunch.com/2022/05/17/sachin-bansal-firm-fails-to-secure-india-bank-permit/)
-- [Pulse, the maker of an automatic Slack status updater, acquires team communication startup Lounge](https://techcrunch.com/2022/05/17/pulse-the-maker-of-an-automatic-slack-status-updater-acquires-team-communication-startup-lounge/)
-- [Apple reportedly testing E Ink outer display for upcoming foldable](https://techcrunch.com/2022/05/17/apple-reportedly-testing-e-ink-outer-display-for-upcoming-foldable/)
+- [Boeing&#39;s Starliner remains on track for crucial Thursday launch to space station](https://www.space.com/boeing-starliner-on-track-may-19-launch/)
+- [YouTube Music for Wear OS now lets users stream content over Wi-Fi and LTE](https://techcrunch.com/2022/05/17/youtube-music-wear-os-stream-content-wi-fi-and-lte/)
+- [Founders should be honest about their failures according to Forage CEO](https://techcrunch.com/2022/05/17/forage-found-podcast/)
+- [TechCrunch+ roundup: DTC data strategy, starting up solo, insuretech growth versus risk](https://techcrunch.com/2022/05/17/techcrunch-roundup-dtc-data-strategy-starting-up-solo-insuretech-growth-versus-risk/)
+- [Tusk Venture Partners just closed its third fund with $140M, double its predecessor fund](https://techcrunch.com/2022/05/17/tusk-ventures-just-closed-its-third-fund-with-140m-double-its-predecessor-fund/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
