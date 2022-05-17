@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Legl, a SaaS for law firm workflows, tops up with $18M](https://techcrunch.com/2022/05/17/legl-series-b/)
 - [Daily Crunch: Musk pauses Twitter buy until platform proves less than 5% of users are spambots](https://techcrunch.com/2022/05/17/musk-pauses-twitter-buy-until-platform-proves-less-than-5-of-users-are-spambots/)
 - [Watch SpaceX launch 53 new Starlink satellites early Wednesday](https://www.space.com/spacex-starlink-launch-group-4-18/)
 - [&#39;Star Trek: Strange New Worlds&#39; episode 2 adds a lot to Uhura&#39;s backstory](https://www.space.com/star-trek-strange-new-worlds-season-1-episode-2-review/)
 - [Facebook and Twitter still can’t contain the Buffalo shooting video](https://techcrunch.com/2022/05/17/buffalo-shooting-footage-facebook-twitter-moderation/)
-- [&#39;The Orville&#39; Season 3 full trailer is here for June 2 debut on Hulu](https://www.space.com/the-orville-season-3-full-trailer-hulu-premiere-date/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
