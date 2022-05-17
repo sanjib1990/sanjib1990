@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple adds live captions to iPhone and Mac, plus more accessibility upgrades to come](https://techcrunch.com/2022/05/17/apple-adds-live-captions-to-iphone-and-mac-plus-more-accessibility-upgrades-to-come/)
-- [A.Team emerges from stealth with a gig marketplace for product specialists](https://techcrunch.com/2022/05/17/a-team-emerges-from-stealth-with-a-gig-marketplace-for-product-specialists/)
-- [Banking-as-a-service startup Unit closes on $100M at a $1.2B valuation](https://techcrunch.com/2022/05/17/banking-as-a-service-startup-unit-closes-on-100m-at-a-1-2b-valuation/)
-- [Fashinza, a B2B supply chain marketplace for fashion brands, raises $100M](https://techcrunch.com/2022/05/17/2311970/)
-- [On This Day In Space: May 17, 1974: NASA launches 1st Synchronous Meteorological satellite](https://www.space.com/39251-on-this-day-in-space.html/)
+- [Solar flares: What are they and how do they affect Earth?](https://www.space.com/solar-flares-effects-classification-formation/)
+- [Drip aims to provide thrill of live commerce to NFTs, physical collectibles](https://techcrunch.com/2022/05/17/drip-live-commerce-nfts/)
+- [Greenlight, a $2.3B fintech focused on kids, launches credit card for parents](https://techcrunch.com/2022/05/17/greenlight-fintech-focused-on-kids-launches-cash-back-credit-card-for-parents-education-savings/)
+- [Fortis Digital Ventures closing $100 million raise for new crypto fund](https://techcrunch.com/2022/05/17/fortis-digital-ventures-closing-100-million-raise-for-new-crypto-fund/)
+- [Amid crypto’s talent war, Encode Club mints new web3 developers](https://techcrunch.com/2022/05/17/encode-club-is-minting-new-web3-developers-amid-crypto-talent-war/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
