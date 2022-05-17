@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Solar flares: What are they and how do they affect Earth?](https://www.space.com/solar-flares-effects-classification-formation/)
-- [Drip aims to provide thrill of live commerce to NFTs, physical collectibles](https://techcrunch.com/2022/05/17/drip-live-commerce-nfts/)
-- [Greenlight, a $2.3B fintech focused on kids, launches credit card for parents](https://techcrunch.com/2022/05/17/greenlight-fintech-focused-on-kids-launches-cash-back-credit-card-for-parents-education-savings/)
-- [Fortis Digital Ventures closing $100 million raise for new crypto fund](https://techcrunch.com/2022/05/17/fortis-digital-ventures-closing-100-million-raise-for-new-crypto-fund/)
-- [Amid crypto’s talent war, Encode Club mints new web3 developers](https://techcrunch.com/2022/05/17/encode-club-is-minting-new-web3-developers-amid-crypto-talent-war/)
+- [Forerunner, Bezos back Arrived, a startup that lets you buy into single-family rentals for ‘as little as $100’](https://techcrunch.com/2022/05/17/backed-by-forerunner-and-bezos-back-arrived-a-startup-that-lets-you-buy-into-single-family-rentals-for-as-little-as-100/)
+- [Vivun is digitizing pre-sales, and just got $75M in new investment](https://techcrunch.com/2022/05/17/vivun-is-digitizing-pre-sales-and-just-got-75m-in-new-investment/)
+- [With a fresh $46M, Instabug aims to do more than fix your app’s bugs](https://techcrunch.com/2022/05/17/instabug-lands-46m-to-help-keep-your-apps-from-crashing/)
+- [Does Elon Musk really even want to buy Twitter?](https://techcrunch.com/2022/05/17/does-elon-musk-really-even-want-to-buy-twitter/)
+- [Virtual product placement ads are coming to Amazon Prime Video and Peacock](https://techcrunch.com/2022/05/17/virtual-product-placement-ads-are-coming-to-amazon-prime-video-and-peacock/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
