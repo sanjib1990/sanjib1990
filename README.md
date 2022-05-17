@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Yo! Egg cracks into U.S. restaurants with plant-based sunny-side-up, poached eggs](https://techcrunch.com/2022/05/17/yo-egg-restaurant-plant-based-eggs/)
+- [US military taking &#39;all hands on deck&#39; approach to understanding UFOs](https://www.space.com/military-systems-approach-understand-ufos/)
+- [Boeing Starliner Orbital Flight Test 2: Live updates](https://www.space.com/news/live/boeing-starliner-oft-2-live-updates/)
+- [Yo! Egg cracks into US restaurants with plant-based sunny-side-up, poached eggs](https://techcrunch.com/2022/05/17/yo-egg-restaurant-plant-based-eggs/)
+- [The &#39;twin paradox&#39; shows us what it really means for time to be relative](https://www.space.com/time-is-relative-twin-paradox/)
 - [Tractian, which uses AI to monitor industrial equipment, raises $15M](https://techcrunch.com/2022/05/17/2314910/)
-- [Monday.com’s earnings are a vibe check for unicorns](https://techcrunch.com/2022/05/17/monday-coms-earnings-are-a-vibe-check-for-unicorns/)
-- [Bill Gates is coming to TC Sessions: Climate](https://techcrunch.com/2022/05/17/bill-gates-is-coming-to-tc-sessions-climate/)
-- [The e-commerce boom is still afoot in Africa, Jumia’s earnings indicate](https://techcrunch.com/2022/05/17/the-e-commerce-boom-is-still-afoot-in-africa-jumias-earnings-indicate/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
