@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Boeing&#39;s Starliner rolls to launch pad on Atlas V rocket for critical NASA test flight](https://www.space.com/boeing-starliner-oft-2-rolls-to-launch-pad/)
+- [Eva Longoria and Chris Wallace CNN+ shows will move to HBO Max and CNN](https://techcrunch.com/2022/05/18/eva-longoria-and-chris-wallace-cnn-shows-will-move-to-hbo-max-and-cnn/)
 - [YouTube’s player gains new features including Most Replayed, Video Chapters, Single Loop and more](https://techcrunch.com/2022/05/18/youtubes-player-gains-new-features-including-most-replayed-video-chapters-single-loop-and-more/)
 - [Block rival SpotOn lands $300M at $3.6B valuation after doubling ARR last year](https://techcrunch.com/2022/05/18/square-rival-spoton-lands-300m-at-a-3-6b-valuation-after-seeing-100-arr-growth-in-2021/)
 - [Isabl’s rapid whole-genome analysis opens the playbook for cancer treatment](https://techcrunch.com/2022/05/18/isabls-rapid-whole-genome-analysis-opens-the-playbook-for-cancer-treatment/)
-- [Twitter rolls out the ability for creators to host Super Follows-only Spaces](https://techcrunch.com/2022/05/18/twitter-rolls-out-super-follows-only-spaces/)
-- [Stripe expands its infrastructure play with Data Pipeline to sync financial data with Amazon and Snowflake](https://techcrunch.com/2022/05/18/stripe-expands-its-infrastructure-play-with-data-pipeline-to-sync-financial-data-with-amazon-and-snowflake/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
