@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Boeing&#39;s Starliner rolls to launch pad on Atlas V rocket for critical NASA test flight](https://www.space.com/boeing-starliner-oft-2-rolls-to-launch-pad/)
-- [Eva Longoria and Chris Wallace CNN+ shows will move to HBO Max and CNN](https://techcrunch.com/2022/05/18/eva-longoria-and-chris-wallace-cnn-shows-will-move-to-hbo-max-and-cnn/)
-- [YouTube’s player gains new features including Most Replayed, Video Chapters, Single Loop and more](https://techcrunch.com/2022/05/18/youtubes-player-gains-new-features-including-most-replayed-video-chapters-single-loop-and-more/)
-- [Block rival SpotOn lands $300M at $3.6B valuation after doubling ARR last year](https://techcrunch.com/2022/05/18/square-rival-spoton-lands-300m-at-a-3-6b-valuation-after-seeing-100-arr-growth-in-2021/)
-- [Isabl’s rapid whole-genome analysis opens the playbook for cancer treatment](https://techcrunch.com/2022/05/18/isabls-rapid-whole-genome-analysis-opens-the-playbook-for-cancer-treatment/)
+- [YouTube teases expansion of livestream shopping with new features arriving later this year](https://techcrunch.com/2022/05/18/youtube-teases-expansion-of-livestream-shopping-with-new-features-arriving-later-this-year/)
+- [Waymo is expanding its driverless program in Phoenix](https://techcrunch.com/2022/05/18/waymo-is-expanding-its-driverless-program-in-phoenix/)
+- [Fintech Slice joins UPI race to challenge PhonePe and Google Pay](https://techcrunch.com/2022/05/18/fintech-slice-joins-upi-race-to-challenge-phonepe-and-google-pay/)
+- [Meet Philip Reinckens, Spin’s new CEO](https://techcrunch.com/2022/05/18/meet-philip-reinckens-spins-new-ceo/)
+- [New &#39;Asteroid Rush&#39; doc looks at peril and promise of space rocks &lpar;exclusive sneak peek video&rpar;](https://www.space.com/asteroid-rush-documentary-curiosity-stream-trailer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
