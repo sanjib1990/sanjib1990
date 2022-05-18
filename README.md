@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TikTok’s new ad product gives creators a chance to partner with marketers on branded content](https://techcrunch.com/2022/05/18/tiktoks-ad-product-gives-creators-opportunities-partner-marketers-branded-content/)
-- [Orbit acquires Hoopy to expand its DevRel offerings](https://techcrunch.com/2022/05/18/orbit-acquires-hoopy-to-expand-its-devrel-offerings/)
-- [Is there hope for digital health startups post-Roe?](https://techcrunch.com/2022/05/18/hey-jane-talks-about-roe-v-wade/)
-- [Amid tensions on Earth, the United States claims that &#39;conflict in space is not inevitable&#39;](https://www.space.com/is-conflict-in-space-avoidable/)
-- [Investors discuss how labor shortage is shaking up the construction tech stack](https://techcrunch.com/2022/05/18/investors-discuss-how-labor-shortage-is-shaking-up-the-construction-tech-stack/)
+- [Harlem Capital leads seed into Because, an e-commerce enablement startup](https://techcrunch.com/2022/05/18/harlem-capital-seed-because-e-commerce-enablement/)
+- [New Bluetooth attack can remotely unlock Tesla vehicles and smart locks](https://techcrunch.com/2022/05/18/bluetooth-attack-unlock-tesla/)
+- [The best Star Trek gifts and deals for 2022](https://www.space.com/best-star-trek-gifts/)
+- [Apple unveils online training to close IT skills gap around managing Apple devices](https://techcrunch.com/2022/05/18/apple-unveils-online-training-to-close-it-skills-gap-around-managing-apple-devices/)
+- [What to look for on day 1 of TC Sessions: Mobility 2022](https://techcrunch.com/2022/05/18/what-to-look-for-on-day-1-of-tc-sessions-mobility-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
