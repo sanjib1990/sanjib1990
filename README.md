@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon launches Smart Commerce in India to help offline stores launch digital storefronts](https://techcrunch.com/2022/05/18/amazon-smart-commerce-india/)
-- [Autochek expands to North Africa after acquiring Morocco’s Kifal Auto](https://techcrunch.com/2022/05/18/autochek-expands-to-north-africa-after-acquiring-moroccos-kifal-auto/)
-- [Palette sells a sales commission tool for modern sales teams](https://techcrunch.com/2022/05/18/palette-sells-a-sales-commission-tool-for-modern-sales-teams/)
-- [CyberConnect raises $15M Series A to put data back in the hands of users](https://techcrunch.com/2022/05/17/cyberconnect-decentralized-social-graph-15-million/)
-- [Starting up remotely? Keep these labor laws and tax guidelines in mind](https://techcrunch.com/2022/05/17/starting-up-remotely-keep-these-labor-laws-and-tax-guidelines-in-mind/)
+- [China to launch Tianwen 2 asteroid-sampling mission in 2025](https://www.space.com/china-tianwen2-asteroid-sampling-mission-2025-launch/)
+- [Blood moon, big city: Skywatcher captures total lunar eclipse over New York &lpar;photos&rpar;](https://www.space.com/total-lunar-eclipse-new-york-city-photos/)
+- [DARPA launches &#39;Ouija&#39; project to study radio signals in Earth&#39;s atmosphere with satellites](https://www.space.com/darpa-ouija-project-study-radio-signals-satellites/)
+- [CNCF launches a new program to help telcos adopt Kubernetes](https://techcrunch.com/2022/05/18/cncf-launches-a-new-program-to-help-telcos-adopt-kubernetes/)
+- [Watch SpaceX launch 53 new Starlink satellites today](https://www.space.com/spacex-starlink-launch-group-4-18/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
