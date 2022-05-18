@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jungle Ventures closes a $600M fund, bringing its total assets under management to over $1B](https://techcrunch.com/2022/05/17/jungle-ventures-closes-a-600m-fund-bringing-its-total-assets-under-management-to-over-1b/)
+- [At the first UFO hearing in 50 years, the Pentagon says unexplained reports are way up](https://techcrunch.com/2022/05/17/ufo-uap-hearing-pentagon/)
 - [Legl, a SaaS for law firm workflows, tops up with $18M](https://techcrunch.com/2022/05/17/legl-series-b/)
 - [Daily Crunch: Musk pauses Twitter buy until platform proves less than 5% of users are spambots](https://techcrunch.com/2022/05/17/musk-pauses-twitter-buy-until-platform-proves-less-than-5-of-users-are-spambots/)
 - [Watch SpaceX launch 53 new Starlink satellites early Wednesday](https://www.space.com/spacex-starlink-launch-group-4-18/)
-- [&#39;Star Trek: Strange New Worlds&#39; episode 2 adds a lot to Uhura&#39;s backstory](https://www.space.com/star-trek-strange-new-worlds-season-1-episode-2-review/)
-- [Facebook and Twitter still can’t contain the Buffalo shooting video](https://techcrunch.com/2022/05/17/buffalo-shooting-footage-facebook-twitter-moderation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
