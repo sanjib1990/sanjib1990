@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Lithium-silicon batteries get vote of confidence with Sila’s Mercedes deal](https://techcrunch.com/2022/05/18/lithium-silicon-batteries-get-vote-of-confidence-with-silas-mercedes-deal/)
-- [Best binoculars for kids: A close-up view of the cosmos for smaller hands and eyes](https://www.space.com/best-binoculars-for-kids/)
-- [Heartex raises $25M for its AI-focused, open source data labeling platform](https://techcrunch.com/2022/05/18/2314708/)
-- [Glean aims to help employees surface info across sprawling enterprise systems](https://techcrunch.com/2022/05/18/glean-aims-to-help-employees-surface-info-across-sprawling-enterprise-systems/)
-- [Building a better black hole with supercomputer simulations](https://www.space.com/milky-way-black-hole-supercomputer-simulations/)
+- [TikTok’s new ad product gives creators a chance to partner with marketers on branded content](https://techcrunch.com/2022/05/18/tiktoks-ad-product-gives-creators-opportunities-partner-marketers-branded-content/)
+- [Orbit acquires Hoopy to expand its DevRel offerings](https://techcrunch.com/2022/05/18/orbit-acquires-hoopy-to-expand-its-devrel-offerings/)
+- [Is there hope for digital health startups post-Roe?](https://techcrunch.com/2022/05/18/hey-jane-talks-about-roe-v-wade/)
+- [Amid tensions on Earth, the United States claims that &#39;conflict in space is not inevitable&#39;](https://www.space.com/is-conflict-in-space-avoidable/)
+- [Investors discuss how labor shortage is shaking up the construction tech stack](https://techcrunch.com/2022/05/18/investors-discuss-how-labor-shortage-is-shaking-up-the-construction-tech-stack/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
