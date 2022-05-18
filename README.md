@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [China to launch Tianwen 2 asteroid-sampling mission in 2025](https://www.space.com/china-tianwen2-asteroid-sampling-mission-2025-launch/)
-- [Blood moon, big city: Skywatcher captures total lunar eclipse over New York &lpar;photos&rpar;](https://www.space.com/total-lunar-eclipse-new-york-city-photos/)
-- [DARPA launches &#39;Ouija&#39; project to study radio signals in Earth&#39;s atmosphere with satellites](https://www.space.com/darpa-ouija-project-study-radio-signals-satellites/)
-- [CNCF launches a new program to help telcos adopt Kubernetes](https://techcrunch.com/2022/05/18/cncf-launches-a-new-program-to-help-telcos-adopt-kubernetes/)
-- [Watch SpaceX launch 53 new Starlink satellites today](https://www.space.com/spacex-starlink-launch-group-4-18/)
+- [5 construction tech investors analyze 2022 trends and opportunities](https://techcrunch.com/2022/05/18/5-construction-tech-investors-analyze-2022-trends-and-opportunities/)
+- [Plaid officially expands into identity and income verification, fraud prevention and account funding](https://techcrunch.com/2022/05/18/plaid-expands-from-account-linking-into-id-and-income-verification-fraud-prevention-and-account-funding/)
+- [Masterschool raises $100M seed round for its network of coding schools](https://techcrunch.com/2022/05/18/masterschool-raises-100m-seed-round-for-its-network-of-coding-schools/)
+- [India pushes ahead with its strict VPN and breach disclosure rules despite concerns](https://techcrunch.com/2022/05/18/india-reiterates-its-strict-vpn-rules-breach-disclosures-despite-concerns/)
+- [SpaceX rocket launches 53 Starlink satellites into orbit and aces landing at sea](https://www.space.com/spacex-starlink-launch-group-4-18/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
