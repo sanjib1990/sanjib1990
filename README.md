@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Buffalo shooter invited others to his private Discord ‘diary’ 30 minutes before attack](https://techcrunch.com/2022/05/18/buffalo-shooter-journal-discord-google-docs/)
+- [Aurora expands autonomous freight pilot with FedEx in Texas](https://techcrunch.com/2022/05/18/aurora-expands-autonomous-freight-pilot-with-fedex-in-texas/)
+- [Dear Sophie: Can I do anything to speed up the EAD renewal process?](https://techcrunch.com/2022/05/18/dear-sophie-can-i-do-anything-to-speed-up-the-ead-renewal-process/)
+- [What’s more stable than Bitcoin or UST? AriZona Iced Tea](https://techcrunch.com/2022/05/18/usdtea-more-stable-than-bitcoin-crypto-stablecoin-arizona-iced-tea/)
 - [Zoox reveals close-up of its autonomous robotaxi](https://techcrunch.com/2022/05/18/zoox-reveals-close-up-of-its-autonomous-robotaxi/)
-- [Grubhub’s free lunch promo creates a literal ‘Hell’s Kitchen’ for NYC restaurants](https://techcrunch.com/2022/05/18/grubhub-free-lunch-nyc-promo/)
-- [Voyager 1 glitch? NASA working to understand strange data from venerable probe](https://www.space.com/voyager-1-telemetry-issue/)
-- [YouTube teases livestream shopping expansion with co-streams, live redirects](https://techcrunch.com/2022/05/18/youtube-teases-expansion-of-livestream-shopping-with-new-features-arriving-later-this-year/)
-- [Waymo is expanding its driverless program in Phoenix](https://techcrunch.com/2022/05/18/waymo-is-expanding-its-driverless-program-in-phoenix/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
