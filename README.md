@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [5 construction tech investors analyze 2022 trends and opportunities](https://techcrunch.com/2022/05/18/5-construction-tech-investors-analyze-2022-trends-and-opportunities/)
-- [Plaid officially expands into identity and income verification, fraud prevention and account funding](https://techcrunch.com/2022/05/18/plaid-expands-from-account-linking-into-id-and-income-verification-fraud-prevention-and-account-funding/)
-- [Masterschool raises $100M seed round for its network of coding schools](https://techcrunch.com/2022/05/18/masterschool-raises-100m-seed-round-for-its-network-of-coding-schools/)
-- [India pushes ahead with its strict VPN and breach disclosure rules despite concerns](https://techcrunch.com/2022/05/18/india-reiterates-its-strict-vpn-rules-breach-disclosures-despite-concerns/)
-- [SpaceX rocket launches 53 Starlink satellites into orbit and aces landing at sea](https://www.space.com/spacex-starlink-launch-group-4-18/)
+- [Lithium-silicon batteries get vote of confidence with Sila’s Mercedes deal](https://techcrunch.com/2022/05/18/lithium-silicon-batteries-get-vote-of-confidence-with-silas-mercedes-deal/)
+- [Best binoculars for kids: A close-up view of the cosmos for smaller hands and eyes](https://www.space.com/best-binoculars-for-kids/)
+- [Heartex raises $25M for its AI-focused, open source data labeling platform](https://techcrunch.com/2022/05/18/2314708/)
+- [Glean aims to help employees surface info across sprawling enterprise systems](https://techcrunch.com/2022/05/18/glean-aims-to-help-employees-surface-info-across-sprawling-enterprise-systems/)
+- [Building a better black hole with supercomputer simulations](https://www.space.com/milky-way-black-hole-supercomputer-simulations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
