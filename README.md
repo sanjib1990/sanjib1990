@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Buffalo shooter invited others to his private Discord ‘diary’ 30 minutes before attack](https://techcrunch.com/2022/05/18/buffalo-shooter-journal-discord-google-docs/)
-- [Aurora expands autonomous freight pilot with FedEx in Texas](https://techcrunch.com/2022/05/18/aurora-expands-autonomous-freight-pilot-with-fedex-in-texas/)
-- [Dear Sophie: Can I do anything to speed up the EAD renewal process?](https://techcrunch.com/2022/05/18/dear-sophie-can-i-do-anything-to-speed-up-the-ead-renewal-process/)
-- [What’s more stable than Bitcoin or UST? AriZona Iced Tea](https://techcrunch.com/2022/05/18/usdtea-more-stable-than-bitcoin-crypto-stablecoin-arizona-iced-tea/)
-- [Zoox reveals close-up of its autonomous robotaxi](https://techcrunch.com/2022/05/18/zoox-reveals-close-up-of-its-autonomous-robotaxi/)
+- [NHTSA probes Tesla Autopilot crash that killed three people](https://techcrunch.com/2022/05/18/nhtsa-probes-tesla-autopilot-crash-that-killed-three-people/)
+- [Andreessen Horowitz debuts $600 million fund for games investments](https://techcrunch.com/2022/05/18/andreessen-horowitz-debuts-600-million-fund-for-games-investments/)
+- [NY AG is investigating Twitch, Discord and 4chan for their role in the Buffalo mass shooting](https://techcrunch.com/2022/05/18/buffalo-shooting-twitch-discord-4chan-8chan-ny-ag/)
+- [Joby Aviation acquires Avionyx to accelerate aerospace software certification](https://techcrunch.com/2022/05/18/joby-aviation-acquires-avionyx-to-accelerate-aerospace-software-certification/)
+- [Daily Crunch: Plaid product updates signal push to ‘own’ more of the account funding process](https://techcrunch.com/2022/05/18/daily-crunch-plaid-product-updates-signal-push-to-own-more-of-the-account-funding-process/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
