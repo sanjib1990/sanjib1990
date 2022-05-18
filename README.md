@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Autochek expands to North Africa after acquiring Morocco’s Kifal Auto](https://techcrunch.com/2022/05/18/autochek-expands-to-north-africa-after-acquiring-moroccos-kifal-auto/)
 - [Palette sells a sales commission tool for modern sales teams](https://techcrunch.com/2022/05/18/palette-sells-a-sales-commission-tool-for-modern-sales-teams/)
 - [CyberConnect raises $15M Series A to put data back in the hands of users](https://techcrunch.com/2022/05/17/cyberconnect-decentralized-social-graph-15-million/)
 - [Starting up remotely? Keep these labor laws and tax guidelines in mind](https://techcrunch.com/2022/05/17/starting-up-remotely-keep-these-labor-laws-and-tax-guidelines-in-mind/)
 - [ZMO.ai secures $8M led by Hillhouse to create AI generated fashion models](https://techcrunch.com/2022/05/17/zmo-ai-generate-human-8-million/)
-- [Jungle Ventures closes a $600M fund, bringing its total assets under management to over $1B](https://techcrunch.com/2022/05/17/jungle-ventures-closes-a-600m-fund-bringing-its-total-assets-under-management-to-over-1b/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
