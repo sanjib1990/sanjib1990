@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Harlem Capital leads seed into Because, an e-commerce enablement startup](https://techcrunch.com/2022/05/18/harlem-capital-seed-because-e-commerce-enablement/)
-- [New Bluetooth attack can remotely unlock Tesla vehicles and smart locks](https://techcrunch.com/2022/05/18/bluetooth-attack-unlock-tesla/)
-- [The best Star Trek gifts and deals for 2022](https://www.space.com/best-star-trek-gifts/)
-- [Apple unveils online training to close IT skills gap around managing Apple devices](https://techcrunch.com/2022/05/18/apple-unveils-online-training-to-close-it-skills-gap-around-managing-apple-devices/)
-- [What to look for on day 1 of TC Sessions: Mobility 2022](https://techcrunch.com/2022/05/18/what-to-look-for-on-day-1-of-tc-sessions-mobility-2022/)
+- [Enter an abandoned alien outpost in &#39;Night Sky&#39; with this exclusive clip from Amazon Prime Video](https://www.space.com/night-sky-exclusive-clip-amazon-prime-video/)
+- [Scientists witness a white dwarf&#39;s massive X-ray explosion for the 1st time ever](https://www.space.com/white-dwarf-explosion-x-rays-erosita/)
+- [Spain slaps Google for frustrating the EU’s ‘right to be forgotten’](https://techcrunch.com/2022/05/18/google-spain-lumen-gdpr-rtbf/)
+- [Learn how to build your VC network at TechCrunch Disrupt](https://techcrunch.com/2022/05/18/learn-how-to-build-your-vc-network-at-techcrunch-disrupt/)
+- [Just how overpriced are crypto startups?](https://techcrunch.com/2022/05/18/just-how-overpriced-are-crypto-startups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
