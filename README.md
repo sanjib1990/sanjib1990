@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Enter an abandoned alien outpost in &#39;Night Sky&#39; with this exclusive clip from Amazon Prime Video](https://www.space.com/night-sky-exclusive-clip-amazon-prime-video/)
-- [Scientists witness a white dwarf&#39;s massive X-ray explosion for the 1st time ever](https://www.space.com/white-dwarf-explosion-x-rays-erosita/)
-- [Spain slaps Google for frustrating the EU’s ‘right to be forgotten’](https://techcrunch.com/2022/05/18/google-spain-lumen-gdpr-rtbf/)
-- [Learn how to build your VC network at TechCrunch Disrupt](https://techcrunch.com/2022/05/18/learn-how-to-build-your-vc-network-at-techcrunch-disrupt/)
-- [Just how overpriced are crypto startups?](https://techcrunch.com/2022/05/18/just-how-overpriced-are-crypto-startups/)
+- [YouTube’s player gains new features including Most Replayed, Video Chapters, Single Loop and more](https://techcrunch.com/2022/05/18/youtubes-player-gains-new-features-including-most-replayed-video-chapters-single-loop-and-more/)
+- [Block rival SpotOn lands $300M at $3.6B valuation after doubling ARR last year](https://techcrunch.com/2022/05/18/square-rival-spoton-lands-300m-at-a-3-6b-valuation-after-seeing-100-arr-growth-in-2021/)
+- [Isabl’s rapid whole-genome analysis opens the playbook for cancer treatment](https://techcrunch.com/2022/05/18/isabls-rapid-whole-genome-analysis-opens-the-playbook-for-cancer-treatment/)
+- [Twitter rolls out the ability for creators to host Super Follows-only Spaces](https://techcrunch.com/2022/05/18/twitter-rolls-out-super-follows-only-spaces/)
+- [Stripe expands its infrastructure play with Data Pipeline to sync financial data with Amazon and Snowflake](https://techcrunch.com/2022/05/18/stripe-expands-its-infrastructure-play-with-data-pipeline-to-sync-financial-data-with-amazon-and-snowflake/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
