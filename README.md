@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Starting up remotely? Keep these labor laws and tax guidelines in mind](https://techcrunch.com/2022/05/17/starting-up-remotely-keep-these-labor-laws-and-tax-guidelines-in-mind/)
+- [ZMO.ai secures $8M led by Hillhouse to create AI generated fashion models](https://techcrunch.com/2022/05/17/zmo-ai-generate-human-8-million/)
 - [Jungle Ventures closes a $600M fund, bringing its total assets under management to over $1B](https://techcrunch.com/2022/05/17/jungle-ventures-closes-a-600m-fund-bringing-its-total-assets-under-management-to-over-1b/)
 - [At the first UFO hearing in 50 years, the Pentagon says unexplained reports are way up](https://techcrunch.com/2022/05/17/ufo-uap-hearing-pentagon/)
 - [Legl, a SaaS for law firm workflows, tops up with $18M](https://techcrunch.com/2022/05/17/legl-series-b/)
-- [Daily Crunch: Musk pauses Twitter buy until platform proves less than 5% of users are spambots](https://techcrunch.com/2022/05/17/musk-pauses-twitter-buy-until-platform-proves-less-than-5-of-users-are-spambots/)
-- [Watch SpaceX launch 53 new Starlink satellites early Wednesday](https://www.space.com/spacex-starlink-launch-group-4-18/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
