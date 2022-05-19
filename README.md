@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pintarnya is building a super app for Indonesia’s blue collar workers](https://techcrunch.com/2022/05/18/pintarnya-is-building-a-super-app-for-indonesias-blue-collar-workers/)
 - [Behold NeuroMechFly, the best fruit fly simulator yet](https://techcrunch.com/2022/05/18/behold-neuromechfly-the-best-fruit-fly-simulator-yet/)
 - [Withings doubles down on the classy with ScanWatch Horizon](https://techcrunch.com/2022/05/18/withings-scanwatch-horizon/)
 - [NHTSA probes Tesla Autopilot crash that killed three people](https://techcrunch.com/2022/05/18/nhtsa-probes-tesla-autopilot-crash-that-killed-three-people/)
 - [Andreessen Horowitz debuts $600 million fund for games investments](https://techcrunch.com/2022/05/18/andreessen-horowitz-debuts-600-million-fund-for-games-investments/)
-- [NY AG is investigating Twitch, Discord and 4chan for their role in the Buffalo mass shooting](https://techcrunch.com/2022/05/18/buffalo-shooting-twitch-discord-4chan-8chan-ny-ag/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
