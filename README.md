@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Dig emerges from stealth to help organizations secure their data in public clouds](https://techcrunch.com/2022/05/19/dig-data-secured-public-cloud/)
-- [Neon triples revenue in quest to become the biggest bank for Brazil’s working class](https://techcrunch.com/2022/05/19/tracking-neons-impressive-growth-while-serving-the-underbanked-population-of-the-brazilian-working-class/)
-- [Framework’s user-repairable laptop gets an upgrade](https://techcrunch.com/2022/05/19/frameworks-user-repairable-laptop-gets-an-upgrade/)
-- [Everstream Analytics secures new cash to predict supply chain disruptions](https://techcrunch.com/2022/05/19/everstream-analytics-secures-new-cash-to-predict-supply-chain-disruptions/)
-- [Wingcopter details plans to deploy 12,000 drones across Africa](https://techcrunch.com/2022/05/19/wingcopter-details-plans-to-deploy-12000-drones-across-africa/)
+- [When big AI labs refuse to open source their models, the community steps in](https://techcrunch.com/2022/05/19/when-big-ai-labs-refuse-to-open-source-their-models-the-community-steps-in/)
+- [FloorFound grabs more capital to grow its oversized recommerce business](https://techcrunch.com/2022/05/19/floorfound-grabs-more-capital-to-grow-its-oversized-recommerce-business/)
+- [Watch Boeing’s make it or break it Starliner launch today](https://techcrunch.com/2022/05/19/watch-boeings-make-it-or-break-it-starliner-launch-today/)
+- [Southeast Asian payments infrastructure unicorn Xendit banks $300M](https://techcrunch.com/2022/05/19/southeast-asian-payments-infrastructure-unicorn-xendit-banks-300m/)
+- [Fetcher raises $27M to automate aspects of job candidate sourcing](https://techcrunch.com/2022/05/19/fetcher-raises-27m-to-automate-aspects-of-job-candidate-sourcing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
