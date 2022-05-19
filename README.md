@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Voicy wants to pwn gamers with audio memes](https://techcrunch.com/2022/05/19/voicy-pre-seed/)
 - [For better or for worse: Managing founder-CEO tension inside a startup](https://techcrunch.com/2022/05/18/for-better-or-for-worse-managing-founder-ceo-tension-inside-a-startup/)
 - [Pintarnya is building a super app for Indonesia’s blue collar workers](https://techcrunch.com/2022/05/18/pintarnya-is-building-a-super-app-for-indonesias-blue-collar-workers/)
 - [Behold NeuroMechFly, the best fruit fly simulator yet](https://techcrunch.com/2022/05/18/behold-neuromechfly-the-best-fruit-fly-simulator-yet/)
 - [Withings doubles down on the classy with ScanWatch Horizon](https://techcrunch.com/2022/05/18/withings-scanwatch-horizon/)
-- [NHTSA probes Tesla Autopilot crash that killed three people](https://techcrunch.com/2022/05/18/nhtsa-probes-tesla-autopilot-crash-that-killed-three-people/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
