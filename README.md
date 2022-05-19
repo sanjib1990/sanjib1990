@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The company behind the $50 strawberries is now selling berries for $20 a tray](https://techcrunch.com/2022/05/19/the-company-behind-the-50-strawberries-is-now-selling-berries-for-20-a-tray/)
-- [On This Day In Space: May 19, 2000: STS-101 launches with 1st &#39;Glass Cockpit&#39;](https://www.space.com/39251-on-this-day-in-space.html/)
-- [Everything we know about Starfield: Release window, platforms, trailers &amp; more](https://www.space.com/everything-we-know-about-starfield/)
-- [Kenya-based aquaculture tech Victory Farms nets $5M funding to expand into new markets](https://techcrunch.com/2022/05/19/kenya-based-aquaculture-tech-victory-farms-nets-5m-funding-to-expand-into-new-markets/)
-- [Save over $260 on the Snapmaker A350T 3D printer at Amazon](https://www.space.com/snapmaker-350t-3d-printer-deal-save-260-dollars-amazon/)
+- [Dig emerges from stealth to help organizations secure their data in public clouds](https://techcrunch.com/2022/05/19/dig-data-secured-public-cloud/)
+- [Neon triples revenue in quest to become the biggest bank for Brazil’s working class](https://techcrunch.com/2022/05/19/tracking-neons-impressive-growth-while-serving-the-underbanked-population-of-the-brazilian-working-class/)
+- [Framework’s user-repairable laptop gets an upgrade](https://techcrunch.com/2022/05/19/frameworks-user-repairable-laptop-gets-an-upgrade/)
+- [Everstream Analytics secures new cash to predict supply chain disruptions](https://techcrunch.com/2022/05/19/everstream-analytics-secures-new-cash-to-predict-supply-chain-disruptions/)
+- [Wingcopter details plans to deploy 12,000 drones across Africa](https://techcrunch.com/2022/05/19/wingcopter-details-plans-to-deploy-12000-drones-across-africa/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
