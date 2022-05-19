@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to watch Boeing Starliner&#39;s OFT-2 mission to the space station: Webcast guide](https://www.space.com/boeing-starliner-oft-2-webcast-guide/)
-- [The lowdown on the slowdown](https://techcrunch.com/2022/05/19/the-lowdown-on-the-slowdown/)
-- [Belong secures $80M to take the pain out of rental property management](https://techcrunch.com/2022/05/19/belong-secures-80m-in-equity-debt-to-take-the-pain-out-of-rental-property-management/)
-- [Class buys tech from its own founder’s first edtech company for $210 million](https://techcrunch.com/2022/05/19/class-acquisition-blackboard-collaborate-210-million/)
-- [See Boeing&#39;s Starliner launch tonight from southeastern US &lpar;visibility map&rpar;](https://www.space.com/boeing-starliner-oft2-launch-visibility-map/)
+- [A round, acquisition and revenue later, Bravado’s sales network wants you to know it’s #growing](https://techcrunch.com/2022/05/19/a-round-acquisition-and-revenue-later-bravados-sales-network-wants-you-to-know-its-growing/)
+- [Snapchat’s parental control features spotted in development](https://techcrunch.com/2022/05/19/snapchats-parental-control-features-near-launch-screenshots-show/)
+- [Pokémon Go trainers who use Amazon Prime can snag some bonus items](https://techcrunch.com/2022/05/19/pokemon-go-amazon-prime-gaming-bonus/)
+- [3 things to remember when diversifying your startup’s cap table](https://techcrunch.com/2022/05/19/3-things-to-remember-when-diversifying-your-startups-cap-table/)
+- [Second-largest crypto exchange FTX expands its empire with launch of stock trading feature](https://techcrunch.com/2022/05/19/crypto-exchange-ftx-expands-into-stock-trading-retail-investors/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
