@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [ChargeLab’s software layer to power ABB’s EV chargers in North America](https://techcrunch.com/2022/05/19/chargelabs-software-layer-to-power-abbs-ev-chargers-in-north-america/)
-- [NASA astronauts excited to watch Boeing&#39;s Starliner launch to space station Thursday](https://www.space.com/nasa-astronauts-starliner-oft-2-mission/)
-- [Watch live: Boeing&#39;s Starliner launching on crucial OFT-2 test flight Thursday](https://www.space.com/boeing-starliner-oft-2-launch-preview/)
-- [China will launch a big space telescope in 2023 to investigate distant galaxies](https://www.space.com/china-space-station-telescope-plans/)
-- [Groundbreaking set for launchpad-like display of retired space shuttle Endeavour](https://www.space.com/california-science-center-endeavour-groundbreaking/)
+- [The company behind the $50 strawberries is now selling berries for $20 a tray](https://techcrunch.com/2022/05/19/the-company-behind-the-50-strawberries-is-now-selling-berries-for-20-a-tray/)
+- [On This Day In Space: May 19, 2000: STS-101 launches with 1st &#39;Glass Cockpit&#39;](https://www.space.com/39251-on-this-day-in-space.html/)
+- [Everything we know about Starfield: Release window, platforms, trailers &amp; more](https://www.space.com/everything-we-know-about-starfield/)
+- [Kenya-based aquaculture tech Victory Farms nets $5M funding to expand into new markets](https://techcrunch.com/2022/05/19/kenya-based-aquaculture-tech-victory-farms-nets-5m-funding-to-expand-into-new-markets/)
+- [Save over $260 on the Snapmaker A350T 3D printer at Amazon](https://www.space.com/snapmaker-350t-3d-printer-deal-save-260-dollars-amazon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
