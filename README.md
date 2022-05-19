@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Behold NeuroMechFly, the best fruit fly simulator yet](https://techcrunch.com/2022/05/18/behold-neuromechfly-the-best-fruit-fly-simulator-yet/)
+- [Withings doubles down on the classy with ScanWatch Horizon](https://techcrunch.com/2022/05/18/withings-scanwatch-horizon/)
 - [NHTSA probes Tesla Autopilot crash that killed three people](https://techcrunch.com/2022/05/18/nhtsa-probes-tesla-autopilot-crash-that-killed-three-people/)
 - [Andreessen Horowitz debuts $600 million fund for games investments](https://techcrunch.com/2022/05/18/andreessen-horowitz-debuts-600-million-fund-for-games-investments/)
 - [NY AG is investigating Twitch, Discord and 4chan for their role in the Buffalo mass shooting](https://techcrunch.com/2022/05/18/buffalo-shooting-twitch-discord-4chan-8chan-ny-ag/)
-- [Joby Aviation acquires Avionyx to accelerate aerospace software certification](https://techcrunch.com/2022/05/18/joby-aviation-acquires-avionyx-to-accelerate-aerospace-software-certification/)
-- [Daily Crunch: Plaid product updates signal push to ‘own’ more of the account funding process](https://techcrunch.com/2022/05/18/daily-crunch-plaid-product-updates-signal-push-to-own-more-of-the-account-funding-process/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
