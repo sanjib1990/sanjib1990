@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Julia in 100 Seconds](https://www.youtube.com/watch?v=JYs_94znYy0)
 - [Lecture 12: Spinal Cord; Autonomic NS](https://www.youtube.com/watch?v=rUl9X6CROTA)
 - [Lecture 15: Development of CNS, Introduction](https://www.youtube.com/watch?v=BbfTs2o_oHE)
 - [Lecture 14: Midbrain and Forebrain](https://www.youtube.com/watch?v=tAmMHp9vk90)
 - [Lecture 23: Rhythms of Activity; Sleep and Waking](https://www.youtube.com/watch?v=6SGBOZM842A)
-- [Lecture 19: Motor System, 1](https://www.youtube.com/watch?v=_gsDTzOpiKo)
 <!-- YOUTUBE:END -->
 
 ---
