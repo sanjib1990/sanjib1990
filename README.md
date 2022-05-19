@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Swyft Cities is the winner of the TechCrunch Mobility 2022 pitch-off!](https://techcrunch.com/2022/05/19/swyft-cities-is-the-winner-of-the-techcrunch-mobility-2022-pitch-off/)
-- [AI’s role is poised to change monumentally in 2022 and beyond](https://techcrunch.com/2022/05/19/ais-role-is-poised-to-change-monumentally-in-2022-and-beyond/)
 - [Boeing Starliner Orbital Flight Test 2: Live updates](https://www.space.com/news/live/boeing-starliner-oft-2-live-updates/)
+- [Daily Crunch: ‘Things don’t look good’: Y Combinator sends founders a 10-point survival strategy](https://techcrunch.com/2022/05/19/daily-crunch-things-dont-look-good-y-combinator-sends-founders-a-10-point-survival-strategy/)
+- [Swyft Cities is the winner of the TechCrunch Sessions: Mobility 2022 pitch-off!](https://techcrunch.com/2022/05/19/swyft-cities-is-the-winner-of-the-techcrunch-mobility-2022-pitch-off/)
+- [AI’s role is poised to change monumentally in 2022 and beyond](https://techcrunch.com/2022/05/19/ais-role-is-poised-to-change-monumentally-in-2022-and-beyond/)
 - [God of War: Ragnarök sets a strong example for next-gen gaming accessibility options](https://techcrunch.com/2022/05/19/god-of-war-ragnarok-sets-a-strong-example-for-next-gen-gaming-accessibility-options/)
-- [Arrival unveils prototype of dedicated ride-hail vehicle at TC Sessions: Mobility](https://techcrunch.com/2022/05/19/arrival-unveils-prototype-of-dedicated-ride-hail-vehicle-at-tc-sessions-mobility/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
