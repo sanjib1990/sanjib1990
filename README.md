@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Glimmering Hubble Space Telescope photo shows stunning starburst effect](https://www.space.com/hubble-space-telescope-glimmering-star-cluster-photo/)
+- [M&amp;A is coming for DeFi protocols as market conditions change](https://techcrunch.com/2022/05/19/ma-is-coming-for-defi-protocols-as-market-conditions-change/)
+- [Former AWS engineer sets out to build a better log search engine](https://techcrunch.com/2022/05/19/former-aws-engineer-sets-out-to-build-a-better-log-search-engine/)
 - [When big AI labs refuse to open source their models, the community steps in](https://techcrunch.com/2022/05/19/when-big-ai-labs-refuse-to-open-source-their-models-the-community-steps-in/)
 - [FloorFound grabs more capital to grow its oversized recommerce business](https://techcrunch.com/2022/05/19/floorfound-grabs-more-capital-to-grow-its-oversized-recommerce-business/)
-- [Watch Boeing’s make it or break it Starliner launch today](https://techcrunch.com/2022/05/19/watch-boeings-make-it-or-break-it-starliner-launch-today/)
-- [Southeast Asian payments infrastructure unicorn Xendit banks $300M](https://techcrunch.com/2022/05/19/southeast-asian-payments-infrastructure-unicorn-xendit-banks-300m/)
-- [Fetcher raises $27M to automate aspects of job candidate sourcing](https://techcrunch.com/2022/05/19/fetcher-raises-27m-to-automate-aspects-of-job-candidate-sourcing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
