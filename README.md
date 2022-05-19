@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Swyft Cities is the winner of the TechCrunch Mobility 2022 pitch-off!](https://techcrunch.com/2022/05/19/swyft-cities-is-the-winner-of-the-techcrunch-mobility-2022-pitch-off/)
+- [AI’s role is poised to change monumentally in 2022 and beyond](https://techcrunch.com/2022/05/19/ais-role-is-poised-to-change-monumentally-in-2022-and-beyond/)
 - [Boeing Starliner Orbital Flight Test 2: Live updates](https://www.space.com/news/live/boeing-starliner-oft-2-live-updates/)
 - [God of War: Ragnarök sets a strong example for next-gen gaming accessibility options](https://techcrunch.com/2022/05/19/god-of-war-ragnarok-sets-a-strong-example-for-next-gen-gaming-accessibility-options/)
 - [Arrival unveils prototype of dedicated ride-hail vehicle at TC Sessions: Mobility](https://techcrunch.com/2022/05/19/arrival-unveils-prototype-of-dedicated-ride-hail-vehicle-at-tc-sessions-mobility/)
-- [Sun busts out trio of moderate solar flares that might herald more activity](https://www.space.com/trio-m-flares-solar-activity-may-2022/)
-- [A round, acquisition and revenue later, Bravado’s sales network wants you to know it’s #growing](https://techcrunch.com/2022/05/19/a-round-acquisition-and-revenue-later-bravados-sales-network-wants-you-to-know-its-growing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
