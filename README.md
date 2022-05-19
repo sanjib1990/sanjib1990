@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [DOJ says it will no longer prosecute good-faith hackers](https://techcrunch.com/2022/05/19/justice-department-good-fatih-hackers-cfaa/)
-- [Top three takeaways from Nuro’s session at TC Sessions: Mobility](https://techcrunch.com/2022/05/19/top-three-takeaways-from-nuros-session-at-tc-sessions-mobility/)
-- [Data intelligence startup Near, with 1.6B anonymized user IDs, lists on Nasdaq via SPAC at a $1B market cap; raises $100M](https://techcrunch.com/2022/05/19/data-intelligence-startup-near-with-1-6b-anonymized-user-ids-lists-on-nasdaq-via-spac-at-a-1b-market-cap-raises-100m/)
-- [Encalife Ambience Galaxy and Star Projector review](https://www.space.com/encalife-ambience-galaxy-star-projector-review/)
-- [How Untapped Global plans to bring the revenue financing model to African startups](https://techcrunch.com/2022/05/19/how-untapped-global-plans-to-bring-the-revenue-financing-model-to-african-startups/)
+- [North American and European insurtechs are recalibrating after a blockbuster 2021](https://techcrunch.com/2022/05/19/north-american-and-european-insurtechs-are-recalibrating-after-a-blockbuster-2021/)
+- [Netflix continues accessibility push with badges for audio and subtitle descriptions](https://techcrunch.com/2022/05/19/netflix-continues-accessibility-push-with-badges-for-audio-and-subtitle-descriptions/)
+- [TikTok is gearing up for games, including interactive minigames for TikTok LIVE](https://techcrunch.com/2022/05/19/tiktok-is-gearing-up-for-games-including-interactive-minigames-for-tiktok-live/)
+- [WhatsApp ramps up revenue with global launch of Cloud API and soon, a paid tier for its Business App](https://techcrunch.com/2022/05/19/whatsapp-ramps-up-revenue-with-global-launch-of-cloud-api-and-soon-a-paid-tier-for-its-business-app/)
+- [Announcing the early-stage startups exhibiting at TC Sessions: Climate 2022](https://techcrunch.com/2022/05/19/announcing-the-early-stage-startups-exhibiting-at-tc-sessions-climate-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
