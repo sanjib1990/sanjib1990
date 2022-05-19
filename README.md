@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Belong secures $80M in equity &amp; debt to take the pain out of rental property management](https://techcrunch.com/2022/05/19/belong-secures-80m-in-equity-debt-to-take-the-pain-out-of-rental-property-management/)
+- [How to watch Boeing Starliner&#39;s OFT-2 mission to the space station: Webcast guide](https://www.space.com/boeing-starliner-oft-2-webcast-guide/)
+- [The lowdown on the slowdown](https://techcrunch.com/2022/05/19/the-lowdown-on-the-slowdown/)
+- [Belong secures $80M to take the pain out of rental property management](https://techcrunch.com/2022/05/19/belong-secures-80m-in-equity-debt-to-take-the-pain-out-of-rental-property-management/)
 - [Class buys tech from its own founder’s first edtech company for $210 million](https://techcrunch.com/2022/05/19/class-acquisition-blackboard-collaborate-210-million/)
 - [See Boeing&#39;s Starliner launch tonight from southeastern US &lpar;visibility map&rpar;](https://www.space.com/boeing-starliner-oft2-launch-visibility-map/)
-- [Twitter will hide false tweets from high-profile accounts during times of crisis](https://techcrunch.com/2022/05/19/twitter-crisis-misinformation-policy/)
-- [North American and European insurtechs are recalibrating after a blockbuster 2021](https://techcrunch.com/2022/05/19/north-american-and-european-insurtechs-are-recalibrating-after-a-blockbuster-2021/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
