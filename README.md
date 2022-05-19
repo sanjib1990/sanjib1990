@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Belong secures $80M in equity &amp; debt to take the pain out of rental property management](https://techcrunch.com/2022/05/19/belong-secures-80m-in-equity-debt-to-take-the-pain-out-of-rental-property-management/)
+- [Class buys tech from its own founder’s first edtech company for $210 million](https://techcrunch.com/2022/05/19/class-acquisition-blackboard-collaborate-210-million/)
+- [See Boeing&#39;s Starliner launch tonight from southeastern US &lpar;visibility map&rpar;](https://www.space.com/boeing-starliner-oft2-launch-visibility-map/)
+- [Twitter will hide false tweets from high-profile accounts during times of crisis](https://techcrunch.com/2022/05/19/twitter-crisis-misinformation-policy/)
 - [North American and European insurtechs are recalibrating after a blockbuster 2021](https://techcrunch.com/2022/05/19/north-american-and-european-insurtechs-are-recalibrating-after-a-blockbuster-2021/)
-- [Netflix continues accessibility push with badges for audio and subtitle descriptions](https://techcrunch.com/2022/05/19/netflix-continues-accessibility-push-with-badges-for-audio-and-subtitle-descriptions/)
-- [TikTok is gearing up for games, including interactive minigames for TikTok LIVE](https://techcrunch.com/2022/05/19/tiktok-is-gearing-up-for-games-including-interactive-minigames-for-tiktok-live/)
-- [WhatsApp ramps up revenue with global launch of Cloud API and soon, a paid tier for its Business App](https://techcrunch.com/2022/05/19/whatsapp-ramps-up-revenue-with-global-launch-of-cloud-api-and-soon-a-paid-tier-for-its-business-app/)
-- [Announcing the early-stage startups exhibiting at TC Sessions: Climate 2022](https://techcrunch.com/2022/05/19/announcing-the-early-stage-startups-exhibiting-at-tc-sessions-climate-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
