@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Glimmering Hubble Space Telescope photo shows stunning starburst effect](https://www.space.com/hubble-space-telescope-glimmering-star-cluster-photo/)
-- [M&amp;A is coming for DeFi protocols as market conditions change](https://techcrunch.com/2022/05/19/ma-is-coming-for-defi-protocols-as-market-conditions-change/)
-- [Former AWS engineer sets out to build a better log search engine](https://techcrunch.com/2022/05/19/former-aws-engineer-sets-out-to-build-a-better-log-search-engine/)
-- [When big AI labs refuse to open source their models, the community steps in](https://techcrunch.com/2022/05/19/when-big-ai-labs-refuse-to-open-source-their-models-the-community-steps-in/)
-- [FloorFound grabs more capital to grow its oversized recommerce business](https://techcrunch.com/2022/05/19/floorfound-grabs-more-capital-to-grow-its-oversized-recommerce-business/)
+- [How Untapped Global plans to bring the revenue financing model to African startups](https://techcrunch.com/2022/05/19/how-untapped-global-plans-to-bring-the-revenue-financing-model-to-african-startups/)
+- [The one-chart argument that tech valuations have fallen too far](https://techcrunch.com/2022/05/19/the-one-chart-argument-that-tech-valuations-have-fallen-too-far/)
+- [Beyond angry protesters and inked arms, there&#39;s this First Nations story of the Southern Cross — one of unity and belonging](https://www.space.com/southern-cross-constellation-meanings-australia/)
+- [Lime CEO Wayne Ting and former EPA administrator Carol Browner will be speaking at TC Sessions: Climate on June 14](https://techcrunch.com/2022/05/19/lime-ceo-wayne-ting-and-former-epa-administrator-carol-browne-will-be-speaking-at-tc-sessions-climate-on-june-14/)
+- [Here’s what’s happening on Day Two of TC Sessions: Mobility 2022](https://techcrunch.com/2022/05/19/heres-whats-happening-on-day-two-of-tc-sessions-mobility-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
