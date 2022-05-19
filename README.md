@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DOJ says it will no longer prosecute good-faith hackers](https://techcrunch.com/2022/05/19/justice-department-good-fatih-hackers-cfaa/)
+- [Top three takeaways from Nuro’s session at TC Sessions: Mobility](https://techcrunch.com/2022/05/19/top-three-takeaways-from-nuros-session-at-tc-sessions-mobility/)
+- [Data intelligence startup Near, with 1.6B anonymized user IDs, lists on Nasdaq via SPAC at a $1B market cap; raises $100M](https://techcrunch.com/2022/05/19/data-intelligence-startup-near-with-1-6b-anonymized-user-ids-lists-on-nasdaq-via-spac-at-a-1b-market-cap-raises-100m/)
+- [Encalife Ambience Galaxy and Star Projector review](https://www.space.com/encalife-ambience-galaxy-star-projector-review/)
 - [How Untapped Global plans to bring the revenue financing model to African startups](https://techcrunch.com/2022/05/19/how-untapped-global-plans-to-bring-the-revenue-financing-model-to-african-startups/)
-- [The one-chart argument that tech valuations have fallen too far](https://techcrunch.com/2022/05/19/the-one-chart-argument-that-tech-valuations-have-fallen-too-far/)
-- [Beyond angry protesters and inked arms, there&#39;s this First Nations story of the Southern Cross — one of unity and belonging](https://www.space.com/southern-cross-constellation-meanings-australia/)
-- [Lime CEO Wayne Ting and former EPA administrator Carol Browner will be speaking at TC Sessions: Climate on June 14](https://techcrunch.com/2022/05/19/lime-ceo-wayne-ting-and-former-epa-administrator-carol-browne-will-be-speaking-at-tc-sessions-climate-on-june-14/)
-- [Here’s what’s happening on Day Two of TC Sessions: Mobility 2022](https://techcrunch.com/2022/05/19/heres-whats-happening-on-day-two-of-tc-sessions-mobility-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
