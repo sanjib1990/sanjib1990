@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Boeing Starliner Orbital Flight Test 2: Live updates](https://www.space.com/news/live/boeing-starliner-oft-2-live-updates/)
+- [God of War: Ragnarök sets a strong example for next-gen gaming accessibility options](https://techcrunch.com/2022/05/19/god-of-war-ragnarok-sets-a-strong-example-for-next-gen-gaming-accessibility-options/)
+- [Arrival unveils prototype of dedicated ride-hail vehicle at TC Sessions: Mobility](https://techcrunch.com/2022/05/19/arrival-unveils-prototype-of-dedicated-ride-hail-vehicle-at-tc-sessions-mobility/)
+- [Sun busts out trio of moderate solar flares that might herald more activity](https://www.space.com/trio-m-flares-solar-activity-may-2022/)
 - [A round, acquisition and revenue later, Bravado’s sales network wants you to know it’s #growing](https://techcrunch.com/2022/05/19/a-round-acquisition-and-revenue-later-bravados-sales-network-wants-you-to-know-its-growing/)
-- [Snapchat’s parental control features spotted in development](https://techcrunch.com/2022/05/19/snapchats-parental-control-features-near-launch-screenshots-show/)
-- [Pokémon Go trainers who use Amazon Prime can snag some bonus items](https://techcrunch.com/2022/05/19/pokemon-go-amazon-prime-gaming-bonus/)
-- [3 things to remember when diversifying your startup’s cap table](https://techcrunch.com/2022/05/19/3-things-to-remember-when-diversifying-your-startups-cap-table/)
-- [Second-largest crypto exchange FTX expands its empire with launch of stock trading feature](https://techcrunch.com/2022/05/19/crypto-exchange-ftx-expands-into-stock-trading-retail-investors/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
