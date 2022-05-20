@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [This tiny space rock might be the 1st physical evidence of a rare supernova](https://www.space.com/hypatia-stone-from-space-evidence-supernova/)
-- [Artificial gravity: Definition, future tech and research](https://www.space.com/artificial-gravity/)
-- [&#39;Out There: Oceans of Time&#39;: Win a Sky-Watcher Cassegrain Telescope in this giveaway!](https://www.space.com/out-there-oceans-of-time-telescope-giveaway/)
-- [Terra creator Do Kwon faces prosecutions in South Korea](https://techcrunch.com/2022/05/20/terra-creator-do-kwon-faces-prosecutions-in-south-korea/)
-- [&#39;Night Sky&#39; revealed: Academy Award winner J.K. Simmons on his strange sci-fi series on Prime Video &lpar;exclusive&rpar;](https://www.space.com/night-sky-jk-simmons-amazon-studios-prime-video/)
+- [Endel’s generative soundscapes show up in Sony’s new headphones](https://techcrunch.com/2022/05/20/endel-sony-partnership/)
+- [Luminar’s Austin Russell: ‘We probably shouldn’t have existed’ but lidar will drive next-gen safety anyway](https://techcrunch.com/2022/05/20/luminars-austin-russell-we-probably-shouldnt-have-existed-but-lidar-will-drive-next-gen-safety-anyway/)
+- [As Klarna looks to raise more capital, is it cutting its valuation enough?](https://techcrunch.com/2022/05/20/as-klarna-looks-to-raise-more-capital-is-it-cutting-its-valuation-enough/)
+- [&#39;Alien&#39; meets &#39;The Exorcist&#39; in AWA Studios&#39; chilling new sci-fi horror series, &#39;Sacrament&#39;](https://www.space.com/sacrament-sci-fi-comic-peter-milligan-awa-studios/)
+- [Coca-Cola’s attached bottle cap is rock bottom of hokey greenwashing](https://techcrunch.com/2022/05/20/coca-cola-bottle-cap/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
