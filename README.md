@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [COVID was the best thing for Kitty, as insurance apps for pets boom](https://techcrunch.com/2022/05/20/covid-was-the-best-thing-for-kitty-as-insurance-apps-for-pets-boom/)
+- [Leanplum acquired by Clevertap as retention marketing platforms consolidate](https://techcrunch.com/2022/05/20/leanplum-acquired-by-clevertap-as-retention-marketing-platforms-consolidate/)
 - [On This Day In Space: May 20, 1978: NASA launches Pioneer Venus Orbiter](https://www.space.com/39251-on-this-day-in-space.html/)
 - [Boeing Starliner Orbital Flight Test 2: Live updates](https://www.space.com/news/live/boeing-starliner-oft-2-live-updates/)
 - [Wild Apophis asteroid spacecraft concept would loft tiny, laser-driven probes for 2029 flyby](https://www.space.com/apophis-spacecraft-laser-light-sail-2029/)
-- [Best drone deals: Top discounts from DJI, Parrot, Skydio and others](https://www.space.com/drone-deals/)
-- [Boeing&#39;s Starliner is chasing the International Space Station. Watch its historic docking tonight.](https://www.space.com/boeing-starliner-docking-international-space-station/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
