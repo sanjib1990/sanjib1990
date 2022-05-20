@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Elon Musk denies sexual misconduct allegation](https://www.space.com/elon-musk-denies-sexual-misconduct-allegation/)
 - [Stargate Interview: Amanda Tapping, Brad Wright, &amp; Google&#39;s Laurence Moroney talk Stargate AI 2.0](https://www.space.com/stargate-ai-2-interview-with-amanda-tapping-brad-wright-laurence-moroney/)
 - [&#39;Alien&#39; meets &#39;The Exorcist&#39; in AWA Studios&#39; chilling new sci-fi horror series, &#39;Sacrament&#39;](https://www.space.com/sacrament-sci-fi-comic-peter-milligan-awa-studios/)
 - [Best cameras for timelapse videos in {year}](https://www.space.com/best-cameras-for-timelapse/)
 - [This tiny space rock might be the 1st physical evidence of a rare supernova](https://www.space.com/hypatia-stone-from-space-evidence-supernova/)
-- [Artificial gravity: Definition, future tech and research](https://www.space.com/artificial-gravity/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
