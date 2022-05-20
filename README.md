@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Endel’s generative soundscapes show up in Sony’s new headphones](https://techcrunch.com/2022/05/20/endel-sony-partnership/)
-- [Luminar’s Austin Russell: ‘We probably shouldn’t have existed’ but lidar will drive next-gen safety anyway](https://techcrunch.com/2022/05/20/luminars-austin-russell-we-probably-shouldnt-have-existed-but-lidar-will-drive-next-gen-safety-anyway/)
-- [As Klarna looks to raise more capital, is it cutting its valuation enough?](https://techcrunch.com/2022/05/20/as-klarna-looks-to-raise-more-capital-is-it-cutting-its-valuation-enough/)
+- [Stargate Interview: Amanda Tapping, Brad Wright, &amp; Google&#39;s Laurence Moroney talk Stargate AI 2.0](https://www.space.com/stargate-ai-2-interview-with-amanda-tapping-brad-wright-laurence-moroney/)
 - [&#39;Alien&#39; meets &#39;The Exorcist&#39; in AWA Studios&#39; chilling new sci-fi horror series, &#39;Sacrament&#39;](https://www.space.com/sacrament-sci-fi-comic-peter-milligan-awa-studios/)
-- [Coca-Cola’s attached bottle cap is rock bottom of hokey greenwashing](https://techcrunch.com/2022/05/20/coca-cola-bottle-cap/)
+- [Best cameras for timelapse videos in {year}](https://www.space.com/best-cameras-for-timelapse/)
+- [This tiny space rock might be the 1st physical evidence of a rare supernova](https://www.space.com/hypatia-stone-from-space-evidence-supernova/)
+- [Artificial gravity: Definition, future tech and research](https://www.space.com/artificial-gravity/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
