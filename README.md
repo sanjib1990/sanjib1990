@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [AI 101 with Brandon Leshchinskiy](https://www.youtube.com/watch?v=KsHOdr5UYZ0)
 - [10 Programmer Stereotypes](https://www.youtube.com/watch?v=_k-F-MMvQV4)
 - [Julia in 100 Seconds](https://www.youtube.com/watch?v=JYs_94znYy0)
 - [Lecture 12: Spinal Cord; Autonomic NS](https://www.youtube.com/watch?v=rUl9X6CROTA)
 - [Lecture 15: Development of CNS, Introduction](https://www.youtube.com/watch?v=BbfTs2o_oHE)
-- [Lecture 14: Midbrain and Forebrain](https://www.youtube.com/watch?v=tAmMHp9vk90)
 <!-- YOUTUBE:END -->
 
 ---
