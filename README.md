@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Galley Solutions turns kitchen chaos into recipe for streamlined operations](https://techcrunch.com/2022/05/20/galley-solutions-turns-kitchen-chaos-into-recipe-for-streamlined-operations/)
+- [How to earn a shot at $100,000 in equity-free funding at TechCrunch Disrupt](https://techcrunch.com/2022/05/20/how-to-earn-a-shot-at-100000-in-equity-free-funding-at-techcrunch-disrupt/)
+- [Fears grow for smaller nations after ransomware attack on Costa Rica escalates](https://techcrunch.com/2022/05/20/costa-rica-ransomware-attack/)
+- [The &#39;doorway&#39; seen on Mars is not for aliens. Here&#39;s how it really formed.](https://www.space.com/mars-doorway-not-for-aliens/)
 - [Look what’s happening online today at TC Sessions: Mobility 2022](https://techcrunch.com/2022/05/20/look-whats-happening-online-today-at-tc-sessions-mobility-2022/)
-- [A Twitter Bot Wrote This](https://techcrunch.com/2022/05/20/a-twitter-bot-wrote-this-for-elon-musk/)
-- [Luna Foundation Guard adviser says Do Kwon hasn’t reached out since UST crash](https://techcrunch.com/2022/05/20/luna-foundation-guard-adviser-says-do-kwon-hasnt-reached-out-since-ust-crash/)
-- [COVID was the best thing for Kitty, as insurance apps for pets boom](https://techcrunch.com/2022/05/20/covid-was-the-best-thing-for-kitty-as-insurance-apps-for-pets-boom/)
-- [Leanplum acquired by Clevertap as retention marketing platforms consolidate](https://techcrunch.com/2022/05/20/leanplum-acquired-by-clevertap-as-retention-marketing-platforms-consolidate/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
