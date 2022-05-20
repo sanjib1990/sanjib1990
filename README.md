@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Galley Solutions turns kitchen chaos into recipe for streamlined operations](https://techcrunch.com/2022/05/20/galley-solutions-turns-kitchen-chaos-into-recipe-for-streamlined-operations/)
-- [How to earn a shot at $100,000 in equity-free funding at TechCrunch Disrupt](https://techcrunch.com/2022/05/20/how-to-earn-a-shot-at-100000-in-equity-free-funding-at-techcrunch-disrupt/)
-- [Fears grow for smaller nations after ransomware attack on Costa Rica escalates](https://techcrunch.com/2022/05/20/costa-rica-ransomware-attack/)
-- [The &#39;doorway&#39; seen on Mars is not for aliens. Here&#39;s how it really formed.](https://www.space.com/mars-doorway-not-for-aliens/)
-- [Look what’s happening online today at TC Sessions: Mobility 2022](https://techcrunch.com/2022/05/20/look-whats-happening-online-today-at-tc-sessions-mobility-2022/)
+- [This tiny space rock might be the 1st physical evidence of a rare supernova](https://www.space.com/hypatia-stone-from-space-evidence-supernova/)
+- [Artificial gravity: Definition, future tech and research](https://www.space.com/artificial-gravity/)
+- [&#39;Out There: Oceans of Time&#39;: Win a Sky-Watcher Cassegrain Telescope in this giveaway!](https://www.space.com/out-there-oceans-of-time-telescope-giveaway/)
+- [Terra creator Do Kwon faces prosecutions in South Korea](https://techcrunch.com/2022/05/20/terra-creator-do-kwon-faces-prosecutions-in-south-korea/)
+- [&#39;Night Sky&#39; revealed: Academy Award winner J.K. Simmons on his strange sci-fi series on Prime Video &lpar;exclusive&rpar;](https://www.space.com/night-sky-jk-simmons-amazon-studios-prime-video/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
