@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Encalife Atmosphere Smart Galaxy Star Projector review](https://www.space.com/encalife-atmosphere-smart-galaxy-star-projector-review/)
-- [NASA, Boeing hail Starliner launch success despite thruster glitch](https://www.space.com/nasa-boeing-hail-starliner-launch-success-despite-glitch/)
-- [Boeing&#39;s Starliner OFT-2 spacecraft test flight for NASA in amazing photos](https://www.space.com/boeing-starliner-orbital-flight-test-2-photos/)
+- [On This Day In Space: May 20, 1978: NASA launches Pioneer Venus Orbiter](https://www.space.com/39251-on-this-day-in-space.html/)
 - [Boeing Starliner Orbital Flight Test 2: Live updates](https://www.space.com/news/live/boeing-starliner-oft-2-live-updates/)
-- [Boeing Starliner capsule launches on critical NASA test flight to space station](https://www.space.com/boeing-starliner-space-capsule-oft-2-launch-success/)
+- [Wild Apophis asteroid spacecraft concept would loft tiny, laser-driven probes for 2029 flyby](https://www.space.com/apophis-spacecraft-laser-light-sail-2029/)
+- [Best drone deals: Top discounts from DJI, Parrot, Skydio and others](https://www.space.com/drone-deals/)
+- [Boeing&#39;s Starliner is chasing the International Space Station. Watch its historic docking tonight.](https://www.space.com/boeing-starliner-docking-international-space-station/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
