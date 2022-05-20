@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Boeing&#39;s Starliner OFT-2 spacecraft test flight for NASA in amazing photos](https://www.space.com/boeing-starliner-orbital-flight-test-2-photos/)
 - [Boeing Starliner Orbital Flight Test 2: Live updates](https://www.space.com/news/live/boeing-starliner-oft-2-live-updates/)
 - [Boeing Starliner capsule launches on critical NASA test flight to space station](https://www.space.com/boeing-starliner-space-capsule-oft-2-launch-success/)
 - [Daily Crunch: ‘Things don’t look good’: Y Combinator sends founders a 10-point survival strategy](https://techcrunch.com/2022/05/19/daily-crunch-things-dont-look-good-y-combinator-sends-founders-a-10-point-survival-strategy/)
 - [Swyft Cities is the winner of the TechCrunch Sessions: Mobility 2022 pitch-off!](https://techcrunch.com/2022/05/19/swyft-cities-is-the-winner-of-the-techcrunch-mobility-2022-pitch-off/)
-- [AI’s role is poised to change monumentally in 2022 and beyond](https://techcrunch.com/2022/05/19/ais-role-is-poised-to-change-monumentally-in-2022-and-beyond/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
