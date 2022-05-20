@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Even Amazon can’t quite figure out what Astro is for](https://techcrunch.com/2022/05/20/amazon-astro/)
+- [Mobility marketplaces and brake repair on TechCrunch Live](https://techcrunch.com/2022/05/20/mobility-marketplaces-and-brake-repair-on-techcrunch-live/)
+- [Hyundai to open $6.5B EV factory in Georgia](https://techcrunch.com/2022/05/20/hyundai-to-open-6-5b-ev-factory-in-georgia/)
 - [Indian launch startup Skyroot successfully completes full-duration stage test](https://techcrunch.com/2022/05/20/indian-launch-startup-skyroot-successfully-completes-full-duration-stage-test/)
 - [Digital biomarkers are healthcare’s next frontier](https://techcrunch.com/2022/05/20/digital-biomarkers-are-healthcares-next-frontier/)
-- [The Carrington Event: History&#39;s greatest solar storm](https://www.space.com/the-carrington-event/)
-- [A third straight week of tech layoffs in the books](https://techcrunch.com/2022/05/20/startup-tech-layoff-may-week-3/)
-- [TechCrunch+ roundup: Construction tech survey, founder-CEO friction, diversify your cap table](https://techcrunch.com/2022/05/20/techcrunch-roundup-construction-tech-survey-founder-ceo-friction-diversify-your-cap-table/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
