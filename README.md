@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Look what’s happening online today at TC Sessions: Mobility 2022](https://techcrunch.com/2022/05/20/look-whats-happening-online-today-at-tc-sessions-mobility-2022/)
+- [A Twitter Bot Wrote This](https://techcrunch.com/2022/05/20/a-twitter-bot-wrote-this-for-elon-musk/)
+- [Luna Foundation Guard adviser says Do Kwon hasn’t reached out since UST crash](https://techcrunch.com/2022/05/20/luna-foundation-guard-adviser-says-do-kwon-hasnt-reached-out-since-ust-crash/)
 - [COVID was the best thing for Kitty, as insurance apps for pets boom](https://techcrunch.com/2022/05/20/covid-was-the-best-thing-for-kitty-as-insurance-apps-for-pets-boom/)
 - [Leanplum acquired by Clevertap as retention marketing platforms consolidate](https://techcrunch.com/2022/05/20/leanplum-acquired-by-clevertap-as-retention-marketing-platforms-consolidate/)
-- [On This Day In Space: May 20, 1978: NASA launches Pioneer Venus Orbiter](https://www.space.com/39251-on-this-day-in-space.html/)
-- [Boeing Starliner Orbital Flight Test 2: Live updates](https://www.space.com/news/live/boeing-starliner-oft-2-live-updates/)
-- [Wild Apophis asteroid spacecraft concept would loft tiny, laser-driven probes for 2029 flyby](https://www.space.com/apophis-spacecraft-laser-light-sail-2029/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
