@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Boeing&#39;s 1st Starliner to visit space station looks spectacular in these astronaut photos](https://www.space.com/boeing-starliner-spacecraft-docking-astronaut-photos-oft2/)
 - [Premium streaming subscriptions continue to increase despite Netflix’s downfall](https://techcrunch.com/2022/05/21/premium-streaming-subscriptions-continue-to-increase-despite-netflix-tribulations/)
 - [A weaker economy won’t solve the tech talent crunch overnight](https://techcrunch.com/2022/05/21/a-weaker-economy-wont-solve-the-tech-talent-crunch-overnight/)
+- [Watch astronauts open Boeing&#39;s 1st Starliner capsule at space station today](https://www.space.com/boeing-starliner-space-station-hatch-opening/)
 - [Boeing Starliner Orbital Flight Test 2: Live updates](https://www.space.com/news/live/boeing-starliner-oft-2-live-updates/)
-- [This week in TechCrunch podcasts: Chain Reaction, Found, Equity and The TechCrunch Live Podcast](https://techcrunch.com/2022/05/21/this-week-in-techcrunch-podcasts-chain-reaction-found-equity-and-the-techcrunch-live-podcast/)
-- [On This Day In Space: May 21, 2010: Japan launches 1st solar sail Ikaros](https://www.space.com/39251-on-this-day-in-space.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
