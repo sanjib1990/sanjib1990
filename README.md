@@ -95,10 +95,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Boeing Starliner Orbital Flight Test 2: Live updates](https://www.space.com/news/live/boeing-starliner-oft-2-live-updates/)
+- [Boeing&#39;s Starliner spacecraft docks at International Space Station for 1st time](https://www.space.com/boeing-starliner-docking-international-space-station/)
+- [Pear, now nearly 10 years old and with numerous hits, looks to close its biggest fund by far](https://techcrunch.com/2022/05/20/pear-now-nearly-10-years-old-and-with-numerous-hits-just-closed-its-biggest-fund-by-far/)
 - [Coinbase’s lost momentum](https://techcrunch.com/2022/05/20/coinbases-lost-momentum/)
 - [Why founders should start talking now to bankers and potential buyers](https://techcrunch.com/2022/05/20/why-founders-should-start-talking-now-to-bankers-and-potential-buyers/)
-- [Daily Crunch: South Korea’s special financial crimes unit is investigating Do Kwon](https://techcrunch.com/2022/05/20/daily-crunch-south-koreas-special-financial-crimes-unit-is-investigating-do-kwon/)
-- [Even Amazon can’t quite figure out what Astro is for](https://techcrunch.com/2022/05/20/amazon-astro/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
