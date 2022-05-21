@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This week in TechCrunch podcasts: Chain Reaction, Found, Equity and The TechCrunch Live Podcast](https://techcrunch.com/2022/05/21/this-week-in-techcrunch-podcasts-chain-reaction-found-equity-and-the-techcrunch-live-podcast/)
+- [On This Day In Space: May 21, 2010: Japan launches 1st solar sail Ikaros](https://www.space.com/39251-on-this-day-in-space.html/)
 - [There&#39;s a mystery in our universe&#39;s expansion rate and the Hubble Space Telescope is on the case](https://www.space.com/universe-expansion-rate-hubble-telescope-measurements/)
 - [3D printed satellite antennas can be made in space with help of sunlight](https://www.space.com/satellites-antennas-3d-printed-in-space/)
 - [This Week In Space podcast: Episode 12 — The Wooden Space Shuttle](https://www.space.com/this-week-in-space-podcast-twit/)
-- [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html/)
-- [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
