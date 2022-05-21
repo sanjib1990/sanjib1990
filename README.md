@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [It’s not business as usual &lpar;and investors are admitting it&rpar;](https://techcrunch.com/2022/05/21/investor-advice-for-startups-2022-market-downturn/)
+- [Boeing’s Starliner finally makes it all the way to the ISS](https://techcrunch.com/2022/05/21/boeings-starliner-finally-makes-it-all-the-way-to-the-iss/)
 - [Boeing&#39;s Starliner spacecraft docks at International Space Station for 1st time](https://www.space.com/boeing-starliner-docking-international-space-station/)
 - [Boeing Starliner Orbital Flight Test 2: Live updates](https://www.space.com/news/live/boeing-starliner-oft-2-live-updates/)
 - [Pear, now nearly 10 years old and with numerous hits, looks to close its biggest fund by far](https://techcrunch.com/2022/05/20/pear-now-nearly-10-years-old-and-with-numerous-hits-just-closed-its-biggest-fund-by-far/)
-- [Coinbase’s lost momentum](https://techcrunch.com/2022/05/20/coinbases-lost-momentum/)
-- [Why founders should start talking now to bankers and potential buyers](https://techcrunch.com/2022/05/20/why-founders-should-start-talking-now-to-bankers-and-potential-buyers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
