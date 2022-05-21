@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [YC’s letter to founders, Apple’s folding device and the DOJ’s new stance on hackers](https://techcrunch.com/2022/05/21/ycs-letter-to-founders-apples-folding-device-and-the-dojs-new-stance-on-hackers/)
 - [Boeing&#39;s Starliner spacecraft is open for astronauts at space station for 1st time](https://www.space.com/boeing-starliner-space-station-hatch-opening/)
 - [Welcome to The TechCrunch Podcast!](https://techcrunch.com/2022/05/21/welcome-to-the-techcrunch-podcast/)
 - [Video game character becomes real &#39;Kerbalnaut&#39; on Boeing Starliner](https://www.space.com/boeing-starliner-oft2-kerbal-jeb-zerog-indicator/)
 - [This Week in Apps: Snapchat policy checkup, more Twitter deal drama, TikTok games](https://techcrunch.com/2022/05/21/this-week-in-apps-snapchat-policy-checkup-more-twitter-deal-drama-tiktok-games/)
-- [Everyone is drafting their own startup Black Swan memo](https://techcrunch.com/2022/05/21/everyone-is-drafting-up-their-own-startup-black-swan-memo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
