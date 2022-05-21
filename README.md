@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Premium streaming subscriptions continue to increase despite Netflix’s downfall](https://techcrunch.com/2022/05/21/premium-streaming-subscriptions-continue-to-increase-despite-netflix-tribulations/)
+- [A weaker economy won’t solve the tech talent crunch overnight](https://techcrunch.com/2022/05/21/a-weaker-economy-wont-solve-the-tech-talent-crunch-overnight/)
+- [Boeing Starliner Orbital Flight Test 2: Live updates](https://www.space.com/news/live/boeing-starliner-oft-2-live-updates/)
 - [This week in TechCrunch podcasts: Chain Reaction, Found, Equity and The TechCrunch Live Podcast](https://techcrunch.com/2022/05/21/this-week-in-techcrunch-podcasts-chain-reaction-found-equity-and-the-techcrunch-live-podcast/)
 - [On This Day In Space: May 21, 2010: Japan launches 1st solar sail Ikaros](https://www.space.com/39251-on-this-day-in-space.html/)
-- [There&#39;s a mystery in our universe&#39;s expansion rate and the Hubble Space Telescope is on the case](https://www.space.com/universe-expansion-rate-hubble-telescope-measurements/)
-- [3D printed satellite antennas can be made in space with help of sunlight](https://www.space.com/satellites-antennas-3d-printed-in-space/)
-- [This Week In Space podcast: Episode 12 — The Wooden Space Shuttle](https://www.space.com/this-week-in-space-podcast-twit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
