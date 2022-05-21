@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Boeing&#39;s Starliner spacecraft is open for astronauts at space station for 1st time](https://www.space.com/boeing-starliner-space-station-hatch-opening/)
+- [Welcome to The TechCrunch Podcast!](https://techcrunch.com/2022/05/21/welcome-to-the-techcrunch-podcast/)
+- [Video game character becomes real &#39;Kerbalnaut&#39; on Boeing Starliner](https://www.space.com/boeing-starliner-oft2-kerbal-jeb-zerog-indicator/)
+- [This Week in Apps: Snapchat policy checkup, more Twitter deal drama, TikTok games](https://techcrunch.com/2022/05/21/this-week-in-apps-snapchat-policy-checkup-more-twitter-deal-drama-tiktok-games/)
 - [Everyone is drafting their own startup Black Swan memo](https://techcrunch.com/2022/05/21/everyone-is-drafting-up-their-own-startup-black-swan-memo/)
-- [Europe’s deep tech depends on university spinouts](https://techcrunch.com/2022/05/21/europes-deep-tech-depends-on-university-spinouts/)
-- [Boeing&#39;s 1st Starliner to visit space station looks spectacular in these astronaut photos](https://www.space.com/boeing-starliner-spacecraft-docking-astronaut-photos-oft2/)
-- [Premium streaming subscriptions continue to increase despite Netflix’s downfall](https://techcrunch.com/2022/05/21/premium-streaming-subscriptions-continue-to-increase-despite-netflix-tribulations/)
-- [A weaker economy won’t solve the tech talent crunch overnight](https://techcrunch.com/2022/05/21/a-weaker-economy-wont-solve-the-tech-talent-crunch-overnight/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
