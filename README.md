@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [LLVM in 100 Seconds](https://www.youtube.com/watch?v=BT2Cv-Tjq7Q)
 - [your IP Address looks weird...&lpar;and you still suck at subnetting&rpar;](https://www.youtube.com/watch?v=2-i5x8KCfII)
 - [AI 101 with Brandon Leshchinskiy](https://www.youtube.com/watch?v=KsHOdr5UYZ0)
 - [10 Programmer Stereotypes](https://www.youtube.com/watch?v=_k-F-MMvQV4)
 - [Julia in 100 Seconds](https://www.youtube.com/watch?v=JYs_94znYy0)
-- [Lecture 12: Spinal Cord; Autonomic NS](https://www.youtube.com/watch?v=rUl9X6CROTA)
 <!-- YOUTUBE:END -->
 
 ---
