@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html/)
 - [1K Kirana raises $25 million for its hyperlocal shopping and distribution platform](https://techcrunch.com/2022/05/23/1k-kirana-raises-25-million-for-its-hyperlocal-shopping-and-distribution-platform/)
 - [Sylndr, an online used-car retailer, raises $12.6M pre-seed to disrupt Egypt’s automotive market](https://techcrunch.com/2022/05/23/sylndr-a-used-car-retailer-raises-12-6m-pre-seed-to-disrupt-egypts-automotive-market/)
 - [Metaverse app BUD raises another $37M, plans to launch NFTs](https://techcrunch.com/2022/05/22/metaverse-social-bud-funding-37-million/)
 - [‘Move-to-earn’ Solana app StepN is latest crypto gaming craze](https://techcrunch.com/2022/05/22/play-move-to-earn-solana-stepn-gamefi/)
-- [Stripe and Plaid suit up for battle](https://techcrunch.com/2022/05/22/stripe-and-plaid-suit-up-for-battle/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
