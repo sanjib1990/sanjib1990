@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SwipeRx lands $27M from MDI and Gates Foundation to digitize the pharma industry in Southeast Asia](https://techcrunch.com/2022/05/23/swiperx-lands-27m-from-mdi-and-gates-foundation-to-digitize-the-pharma-industry-in-southeast-asia/)
+- [Boeing&#39;s Starliner capsule to land in New Mexico  Wednesday](https://www.space.com/boeing-starliner-oft-2-landing-date-revealed/)
 - [Daily Crunch: Used-car marketplace Sylndr lands $12.6M pre-seed round, sets new record for MENA startups](https://techcrunch.com/2022/05/23/daily-crunch-used-car-marketplace-sylndr-lands-12-6m-preseed-round-sets-new-record-for-mena-startups/)
 - [Max Q: Insertion burn](https://techcrunch.com/2022/05/23/max-q-insertion-burn/)
 - [Walmart is adding Symbotic robots to warehouses across the country](https://techcrunch.com/2022/05/23/walmart-is-adding-symbotic-robots-to-warehouses-across-the-country/)
-- [Founder alleges that YC-backed fintech startup is ‘copy-and-pasting’ its business](https://techcrunch.com/2022/05/23/ceo-of-fintech-app-eco-alleges-that-y-combinator-backed-pebble-copied-its-business-model-materials/)
-- [United Nations celebrates Mars missions on new postage stamps](https://www.space.com/united-nations-planet-mars-stamps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
