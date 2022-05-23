@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Teams in New Mexico gear up for Wednesday landing of Boeing Starliner capsule &lpar;photos&rpar;](https://www.space.com/boeing-starliner-oft-2-landing-preparations/)
-- [Hyundai plans to spend $10B on EVs, AVs and robotics in the US by 2025](https://techcrunch.com/2022/05/23/hyundai-10b-investment-evs-autonomous-vehicles-robotics-us-2025/)
-- [Large Hadron Collider finds new way to measure mass of a quark](https://www.space.com/large-hadron-collider-quark-mass-measurement/)
-- [Why in the world would chipmaker Broadcom be interested in VMware?](https://techcrunch.com/2022/05/23/why-in-the-world-would-chipmaker-broadcom-be-interested-in-vmware/)
-- [Take-Two completes $12.7B acquisition of mobile games giant Zynga](https://techcrunch.com/2022/05/23/take-two-completes-acquisition-of-mobile-games-giant-zynga/)
+- [Vibes hold steady at crypto conferences amid bearish market](https://techcrunch.com/2022/05/23/vibes-hold-steady-at-crypto-conferences-amid-bearish-market/)
+- [A group of Activision Blizzard workers vote to unionize](https://techcrunch.com/2022/05/23/activision-blizzard-first-union-raven-software-qa-tester/)
+- [China launches 3 communications test satellites to low Earth orbit &lpar;video&rpar;](https://www.space.com/china-launches-test-communications-satellites-low-earth-orbit/)
+- [eBay launches its first collection of NFTs in partnership with web3 platform OneOf](https://techcrunch.com/2022/05/23/ebay-launches-collection-nfts/)
+- [NASA&#39;s asteroid explorer Lucy spotted disappearing moon during the lunar eclipse](https://www.space.com/lucy-asteroid-spacecraft-photographs-moon-eclipse/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
