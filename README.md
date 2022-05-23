@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft claims its new tools make language models safer to use](https://techcrunch.com/2022/05/23/microsoft-claims-its-new-projects-make-language-models-safer-to-use/)
-- [China&#39;s Mars rover is hibernating through the harsh Red Planet winter](https://www.space.com/zhurong-china-mars-rover-hibernating-winter/)
-- [Comets vs asteroids: How do these rocky objects compare?](https://www.space.com/comets-vs-asteroids/)
-- [Berkeley and Stanford scientists to talk science, health and tech at TC Sessions: Climate next month](https://techcrunch.com/2022/05/23/berkeley-and-stanford-scientists-to-talk-science-health-and-tech-at-tc-sessions-climate-next-month/)
-- [Washington DC’s AG is suing Mark Zuckerberg over Cambridge Analytica](https://techcrunch.com/2022/05/23/mark-zuckerberg-cambridge-analytica-dc-lawsuit/)
+- [Klarna lays off 10% of its workforce](https://techcrunch.com/2022/05/23/klarna-lays-off-10-of-its-workforce/)
+- [NASA to roll Artemis 1 moon rocket back out to pad for testing in early June](https://www.space.com/nasa-artemis-1-moon-rocket-rollout-early-june/)
+- [Arclight deserves a medal for how it meddles with the bike pedal](https://techcrunch.com/2022/05/23/arclight-smart-bike-pedal/)
+- [Latch, a proptech meets SaaS play, conducts two consecutive weeks of layoffs](https://techcrunch.com/2022/05/23/proptech-latch-conducts-two-consecutive-weeks-of-layoffs/)
+- [MainStreet’s valuation could fall 60% to $200 million amid investor recapitalization pursuit](https://techcrunch.com/2022/05/23/mainstreet-down-round-amid-recapitalization/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
