@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cisco’s latest results indicate a reckoning may soon be at hand](https://techcrunch.com/2022/05/23/ciscos-latest-results-indicate-a-reckoning-may-soon-be-at-hand/)
+- [Y Combinator-backed fintech Pebble uses stablecoins to offer 5% yield on cash](https://techcrunch.com/2022/05/23/pebble-crypto-stablecoins-gift-cards-yield-traditional-banks-finance/)
+- [Ex-Uber executive reveals how driver earnings were slashed in Kenya](https://techcrunch.com/2022/05/23/ex-uber-executive-reveals-how-driver-earnings-were-slashed-in-kenya/)
 - [UK fines Clearview just under $10M for privacy breaches](https://techcrunch.com/2022/05/23/clearview-uk-ico-fine/)
 - [The Station: All the news out of TC Sessions: Mobility, #PoorElon and a sobering NHTSA report](https://techcrunch.com/2022/05/23/the-station-all-the-news-out-of-tc-sessions-mobility-poorelon-and-a-sobering-nhtsa-report/)
-- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html/)
-- [1K Kirana raises $25 million for its hyperlocal shopping and distribution platform](https://techcrunch.com/2022/05/23/1k-kirana-raises-25-million-for-its-hyperlocal-shopping-and-distribution-platform/)
-- [Sylndr, an online used-car retailer, raises $12.6M pre-seed to disrupt Egypt’s automotive market](https://techcrunch.com/2022/05/23/sylndr-a-used-car-retailer-raises-12-6m-pre-seed-to-disrupt-egypts-automotive-market/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
