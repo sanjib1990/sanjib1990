@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Metaverse app BUD raises another $37M, plans to launch NFTs](https://techcrunch.com/2022/05/22/metaverse-social-bud-funding-37-million/)
 - [‘Move-to-earn’ Solana app StepN is latest crypto gaming craze](https://techcrunch.com/2022/05/22/play-move-to-earn-solana-stepn-gamefi/)
 - [Stripe and Plaid suit up for battle](https://techcrunch.com/2022/05/22/stripe-and-plaid-suit-up-for-battle/)
 - [The Interchange: Venture’s mixed signals](https://techcrunch.com/2022/05/22/the-interchange-fintech-ventures-conflicting-signals/)
 - [A meteor shower outburst from a shattered comet may spawn new tau Herculids display on May 30](https://www.space.com/meteor-shower-outburst-tau-herculids-comet-possible-2022/)
-- [These SpaceX moon and sunrise Starlink satellite launch photos are just incredible](https://www.space.com/spacex-moon-sunrise-starlink-launch-photos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
