@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [CEO of fintech app Eco alleges that Y Combinator-backed Pebble copied its business model, materials](https://techcrunch.com/2022/05/23/ceo-of-fintech-app-eco-alleges-that-y-combinator-backed-pebble-copied-its-business-model-materials/)
+- [Daily Crunch: Used-car marketplace Sylndr lands $12.6M pre-seed round, sets new record for MENA startups](https://techcrunch.com/2022/05/23/daily-crunch-used-car-marketplace-sylndr-lands-12-6m-preseed-round-sets-new-record-for-mena-startups/)
+- [Max Q: Insertion burn](https://techcrunch.com/2022/05/23/max-q-insertion-burn/)
+- [Walmart is adding Symbotic robots to warehouses across the country](https://techcrunch.com/2022/05/23/walmart-is-adding-symbotic-robots-to-warehouses-across-the-country/)
+- [Founder alleges that YC-backed fintech startup is ‘copy-and-pasting’ its business](https://techcrunch.com/2022/05/23/ceo-of-fintech-app-eco-alleges-that-y-combinator-backed-pebble-copied-its-business-model-materials/)
 - [United Nations celebrates Mars missions on new postage stamps](https://www.space.com/united-nations-planet-mars-stamps/)
-- [Vibes hold steady at crypto conferences amid bearish market](https://techcrunch.com/2022/05/23/vibes-hold-steady-at-crypto-conferences-amid-bearish-market/)
-- [A group of Activision Blizzard workers vote to unionize](https://techcrunch.com/2022/05/23/activision-blizzard-first-union-raven-software-qa-tester/)
-- [China launches 3 communications test satellites to low Earth orbit &lpar;video&rpar;](https://www.space.com/china-launches-test-communications-satellites-low-earth-orbit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
