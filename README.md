@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CEO of fintech app Eco alleges that Y Combinator-backed Pebble copied its business model, materials](https://techcrunch.com/2022/05/23/ceo-of-fintech-app-eco-alleges-that-y-combinator-backed-pebble-copied-its-business-model-materials/)
+- [United Nations celebrates Mars missions on new postage stamps](https://www.space.com/united-nations-planet-mars-stamps/)
 - [Vibes hold steady at crypto conferences amid bearish market](https://techcrunch.com/2022/05/23/vibes-hold-steady-at-crypto-conferences-amid-bearish-market/)
 - [A group of Activision Blizzard workers vote to unionize](https://techcrunch.com/2022/05/23/activision-blizzard-first-union-raven-software-qa-tester/)
 - [China launches 3 communications test satellites to low Earth orbit &lpar;video&rpar;](https://www.space.com/china-launches-test-communications-satellites-low-earth-orbit/)
-- [eBay launches its first collection of NFTs in partnership with web3 platform OneOf](https://techcrunch.com/2022/05/23/ebay-launches-collection-nfts/)
-- [NASA&#39;s asteroid explorer Lucy spotted disappearing moon during the lunar eclipse](https://www.space.com/lucy-asteroid-spacecraft-photographs-moon-eclipse/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
