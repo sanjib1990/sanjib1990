@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Klarna lays off 10% of its workforce](https://techcrunch.com/2022/05/23/klarna-lays-off-10-of-its-workforce/)
-- [NASA to roll Artemis 1 moon rocket back out to pad for testing in early June](https://www.space.com/nasa-artemis-1-moon-rocket-rollout-early-june/)
-- [Arclight deserves a medal for how it meddles with the bike pedal](https://techcrunch.com/2022/05/23/arclight-smart-bike-pedal/)
-- [Latch, a proptech meets SaaS play, conducts two consecutive weeks of layoffs](https://techcrunch.com/2022/05/23/proptech-latch-conducts-two-consecutive-weeks-of-layoffs/)
-- [MainStreet’s valuation could fall 60% to $200 million amid investor recapitalization pursuit](https://techcrunch.com/2022/05/23/mainstreet-down-round-amid-recapitalization/)
+- [Why in the world would chipmaker Broadcom be interested in VMware?](https://techcrunch.com/2022/05/23/why-in-the-world-would-chipmaker-broadcom-be-interested-in-vmware/)
+- [Take-Two completes $12.7B acquisition of mobile games giant Zynga](https://techcrunch.com/2022/05/23/take-two-completes-acquisition-of-mobile-games-giant-zynga/)
+- [Reddit partners with Netflix to give Redditors ‘Stranger Things’ custom avatars](https://techcrunch.com/2022/05/23/reddit-partners-with-netflix-to-give-redditors-stranger-things-custom-avatars/)
+- [TikTok to launch LIVE creator subscriptions this week](https://techcrunch.com/2022/05/23/tiktok-to-launch-live-creator-subscriptions-this-week/)
+- [On This Day In Space: May 23, 2017: NASA astronauts take impromptu spacewalk](https://www.space.com/39251-on-this-day-in-space.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
