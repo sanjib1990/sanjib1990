@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Instagram rolls out a new typeface, slightly-tweaked logo and more in ‘visual refresh’](https://techcrunch.com/2022/05/23/instagram-new-typeface-slightly-tweaked-logo-visual-refresh/)
-- [FogROS brings robotic cloud computing to the Robot Operating System](https://techcrunch.com/2022/05/23/fogros-brings-robotic-cloud-computing-to-the-robot-operating-system/)
-- [SiriusXM acquires Conan O’Brien’s Team Coco podcast company for $150 million](https://techcrunch.com/2022/05/23/siriusxm-acquires-conan-obriens-team-coco-podcast-company-for-150-million/)
-- [Could people breathe the air on Mars?](https://www.space.com/could-people-breathe-air-on-mars/)
-- [Epic Games’ Bandcamp temporarily wins right to use its own payments system on Google Play](https://techcrunch.com/2022/05/23/epic-games-bandcamp-temporarily-wins-right-to-use-its-own-payments-system-on-google-play/)
+- [Microsoft claims its new tools make language models safer to use](https://techcrunch.com/2022/05/23/microsoft-claims-its-new-projects-make-language-models-safer-to-use/)
+- [China&#39;s Mars rover is hibernating through the harsh Red Planet winter](https://www.space.com/zhurong-china-mars-rover-hibernating-winter/)
+- [Comets vs asteroids: How do these rocky objects compare?](https://www.space.com/comets-vs-asteroids/)
+- [Berkeley and Stanford scientists to talk science, health and tech at TC Sessions: Climate next month](https://techcrunch.com/2022/05/23/berkeley-and-stanford-scientists-to-talk-science-health-and-tech-at-tc-sessions-climate-next-month/)
+- [Washington DC’s AG is suing Mark Zuckerberg over Cambridge Analytica](https://techcrunch.com/2022/05/23/mark-zuckerberg-cambridge-analytica-dc-lawsuit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
