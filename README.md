@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Will falling tech valuations kick off a M&amp;A boom?](https://techcrunch.com/2022/05/23/will-falling-tech-valuations-kick-off-a-ma-boom/)
-- [clicOH’s shipping technology provides Amazon-like logistics to e-commerce companies in LatAm](https://techcrunch.com/2022/05/23/clicoh-e-commerce-latam-amazon-logistics/)
-- [Zola says user accounts were hacked, but still doesn’t offer 2FA](https://techcrunch.com/2022/05/23/zola-accounts-hacked/)
-- [Dara Khosrowshahi and Marcelo Claure to back former Sequoia India partner Amit Jain’s startup](https://techcrunch.com/2022/05/23/dara-khosrowshahi-and-marcelo-claure-back-former-sequoia-india-partner-amit-jains-startup/)
-- [Cisco’s latest results indicate a reckoning may soon be at hand](https://techcrunch.com/2022/05/23/ciscos-latest-results-indicate-a-reckoning-may-soon-be-at-hand/)
+- [Instagram rolls out a new typeface, slightly-tweaked logo and more in ‘visual refresh’](https://techcrunch.com/2022/05/23/instagram-new-typeface-slightly-tweaked-logo-visual-refresh/)
+- [FogROS brings robotic cloud computing to the Robot Operating System](https://techcrunch.com/2022/05/23/fogros-brings-robotic-cloud-computing-to-the-robot-operating-system/)
+- [SiriusXM acquires Conan O’Brien’s Team Coco podcast company for $150 million](https://techcrunch.com/2022/05/23/siriusxm-acquires-conan-obriens-team-coco-podcast-company-for-150-million/)
+- [Could people breathe the air on Mars?](https://www.space.com/could-people-breathe-air-on-mars/)
+- [Epic Games’ Bandcamp temporarily wins right to use its own payments system on Google Play](https://techcrunch.com/2022/05/23/epic-games-bandcamp-temporarily-wins-right-to-use-its-own-payments-system-on-google-play/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
