@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Will falling tech valuations kick off a M&amp;A boom?](https://techcrunch.com/2022/05/23/will-falling-tech-valuations-kick-off-a-ma-boom/)
+- [clicOH’s shipping technology provides Amazon-like logistics to e-commerce companies in LatAm](https://techcrunch.com/2022/05/23/clicoh-e-commerce-latam-amazon-logistics/)
+- [Zola says user accounts were hacked, but still doesn’t offer 2FA](https://techcrunch.com/2022/05/23/zola-accounts-hacked/)
+- [Dara Khosrowshahi and Marcelo Claure to back former Sequoia India partner Amit Jain’s startup](https://techcrunch.com/2022/05/23/dara-khosrowshahi-and-marcelo-claure-back-former-sequoia-india-partner-amit-jains-startup/)
 - [Cisco’s latest results indicate a reckoning may soon be at hand](https://techcrunch.com/2022/05/23/ciscos-latest-results-indicate-a-reckoning-may-soon-be-at-hand/)
-- [Y Combinator-backed fintech Pebble uses stablecoins to offer 5% yield on cash](https://techcrunch.com/2022/05/23/pebble-crypto-stablecoins-gift-cards-yield-traditional-banks-finance/)
-- [Ex-Uber executive reveals how driver earnings were slashed in Kenya](https://techcrunch.com/2022/05/23/ex-uber-executive-reveals-how-driver-earnings-were-slashed-in-kenya/)
-- [UK fines Clearview just under $10M for privacy breaches](https://techcrunch.com/2022/05/23/clearview-uk-ico-fine/)
-- [The Station: All the news out of TC Sessions: Mobility, #PoorElon and a sobering NHTSA report](https://techcrunch.com/2022/05/23/the-station-all-the-news-out-of-tc-sessions-mobility-poorelon-and-a-sobering-nhtsa-report/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
