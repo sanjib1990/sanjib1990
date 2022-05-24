@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Starlink adds RV plan that provides roving coverage](https://techcrunch.com/2022/05/24/starlink-adds-rv-plan-that-provides-roving-coverage/)
+- [Your investor has an investment thesis. Here’s why you should care](https://techcrunch.com/2022/05/24/venture-capital-investor-investment-thesis/)
+- [Zeitworks wants to help businesses measure and improve their productivity](https://techcrunch.com/2022/05/24/zeitworks-wants-to-help-businesses-measure-and-improve-their-productivity/)
 - [Parallel Learning expands remote special education assessment and tutoring with $20M round](https://techcrunch.com/2022/05/24/parallel-learning-expands-remote-special-education-assessment-and-tutoring-with-20m-round/)
 - [Monte Carlo raises $135M Series D at $1.6B price, showing that unicorn rounds are still a thing](https://techcrunch.com/2022/05/24/monte-carlo-raises-135m-series-d-at-1-6b-price-showing-that-unicorn-rounds-are-still-a-thing/)
-- [Cribl raises $150M to beat back rival observability tools](https://techcrunch.com/2022/05/24/cribl-raises-150m-to-beat-back-rival-observability-tools/)
-- [DigitalOcean launches serverless product based on last year’s Nimbella acquisition](https://techcrunch.com/2022/05/24/digitalocean-launches-serverless-product-based-on-last-years-nimbella-acquisition/)
-- [Vultr will now let you rent a share of Nvidia’s A100 GPUs in its cloud](https://techcrunch.com/2022/05/24/vultr-will-now-let-you-rent-a-share-of-nvidias-a100-gpus-in-its-cloud/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
