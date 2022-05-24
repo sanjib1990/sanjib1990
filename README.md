@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bumble is planning to expand further into social networking with a new communities feature](https://techcrunch.com/2022/05/24/bumble-is-planning-to-expand-further-into-social-networking-with-a-new-communities-feature/)
+- [Kim Kardashian lends her taste buds to Beyond Meat as first chief taste consultant](https://techcrunch.com/2022/05/24/kim-kardashian-lends-her-taste-buds-to-beyond-meat-as-first-chief-taste-consultant/)
+- [TechCrunch Live is going to Columbus, OH —  register and apply for the pitch-off!](https://techcrunch.com/2022/05/24/techcrunch-live-is-going-to-columbus-oh-register-and-apply-for-the-pitch-off/)
 - [Mastercard exec is bullish on crypto, sees mass adoption ‘sooner rather than later’](https://techcrunch.com/2022/05/24/mastercard-exec-is-bullish-on-crypto-sees-mass-adoption-sooner-rather-than-later/)
 - [A single question changed how Singularity viewed its market](https://techcrunch.com/2022/05/24/a-single-question-changed-how-singularity-viewed-its-market/)
-- [Netflix is adding four more games this month, including ‘Exploding Kittens’](https://techcrunch.com/2022/05/24/netflix-games-exploding-kittens/)
-- [Robotic rehabilitation glove wins Microsoft’s 20th Imagine Cup for student inventors](https://techcrunch.com/2022/05/24/robotic-rehabilitation-glove-wins-microsofts-20th-imagine-cup-for-student-inventors/)
-- [Shellworks wants to crack makeup’s single-use plastic problem](https://techcrunch.com/2022/05/24/shellworks-makeup-single-use-plastic-problem/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
