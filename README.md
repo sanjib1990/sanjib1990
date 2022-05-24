@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Berlin’s Gorillas lays off 300, explores ‘strategic options’ in 4 countries as funds dry up for its $3B instant grocery play](https://techcrunch.com/2022/05/24/berlins-gorillas-lays-off-300-explores-strategic-options-in-4-countries-as-funds-dry-up-for-its-3b-instant-grocery-play/)
+- [Walmart plans to expand drone delivery to six states this year](https://techcrunch.com/2022/05/24/walmart-plans-to-expand-drone-delivery-to-six-states-this-year/)
 - [Pandas wants to give Latin American businesses buying power in Asia](https://techcrunch.com/2022/05/24/pandas-latin-america-business-asia/)
 - [Key European tech founders and investors launch OneUkraine charity to assist Ukraine](https://techcrunch.com/2022/05/24/key-european-tech-founders-and-investors-launch-oneukraine-charity-to-assist-ukraine/)
 - [Moka.care raises $16 million for its corporate mental health service](https://techcrunch.com/2022/05/24/moka-care-raises-16-million-for-its-corporate-mental-health-service/)
-- [South Africa’s edtech FoondaMate eyes speedy takeoff after $2M funding](https://techcrunch.com/2022/05/24/south-africas-edtech-foondamate-eyes-speedy-takeoff-after-2m-funding/)
-- [Actiondesk is a spreadsheet tool that works with live data](https://techcrunch.com/2022/05/24/actiondesk-is-a-spreadsheet-tool-that-works-with-live-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
