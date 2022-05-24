@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Maps’ Street View celebrates 15 years with historical imagery on mobile, new camera, and more](https://techcrunch.com/2022/05/24/google-maps-street-view-celebrates-15-years-with-historical-imagery-on-mobile-new-camera-and-more/)
-- [SoftBank leads $150M round for Firework’s shoppable video](https://techcrunch.com/2022/05/24/softbank-leads-150m-round-for-fireworks-shoppable-video/)
-- [Early Memorial Day deal: get 33% off the Terraforming Mars board game](https://www.space.com/amazon-memorial-day-deal-terraforming-mars-33-percent-discount/)
-- [Roblox hires former Zynga CTO to build out its developer team](https://techcrunch.com/2022/05/24/roblox-nick-tornow-twitter-zynga/)
-- [Copilot, GitHub’s AI-powered coding tool, will be free for students](https://techcrunch.com/2022/05/24/copilot-githubs-ai-powered-coding-tool-will-become-generally-available-this-summer/)
+- [Stripe launches App Marketplace, scripts and tools incorporating third-party SaaS apps that work alongside Stripe](https://techcrunch.com/2022/05/24/stripe-launches-app-marketplace-scripts-and-tools-incorporating-third-party-saas-apps-that-work-alongside-stripe/)
+- [Nowports streamlines LatAm’s shipping to deliver a $1.1B valuation](https://techcrunch.com/2022/05/24/nowports-lands-150m-at-a-1-1b-valuation-to-streamline-latams-shipping/)
+- [Massive Mars dust storms triggered by heat imbalances, scientists find](https://www.space.com/mars-climate-dust-storms-heat-imbalance/)
+- [Four-month-old Doppel is helping some of the biggest NFT projects spot scams](https://techcrunch.com/2022/05/24/doppel-helps-nft-projects-spot-scams-fraud-counterfeit-crypto-yuga-dapper/)
+- [Google Lens comes to Chrome for searching using images from webpages](https://techcrunch.com/2022/05/24/google-lens-comes-to-chrome-for-searching-using-images-from-webpages/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
