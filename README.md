@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Airbnb China closes domestic unit to cut costs as it bets on border reopening](https://techcrunch.com/2022/05/23/airbnb-shutters-china-business-pivot/)
 - [IP and cybersecurity disputes are top legal concerns for tech companies](https://techcrunch.com/2022/05/23/ip-and-cybersecurity-disputes-are-top-legal-concerns-for-tech-companies/)
 - [Snap says it will miss this quarter’s revenue goals and slow hiring](https://techcrunch.com/2022/05/23/snap-slow-hiring-miss-revenue-goal/)
 - [OpenAI: Look at our awesome image generator! Google: Hold my Shiba Inu](https://techcrunch.com/2022/05/23/openai-look-at-our-awesome-image-generator-google-hold-my-shiba-inu/)
 - [SwipeRx lands $27M from MDI and Gates Foundation to digitize the pharma industry in Southeast Asia](https://techcrunch.com/2022/05/23/swiperx-lands-27m-from-mdi-and-gates-foundation-to-digitize-the-pharma-industry-in-southeast-asia/)
-- [Boeing&#39;s Starliner capsule to land in New Mexico  Wednesday](https://www.space.com/boeing-starliner-oft-2-landing-date-revealed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
