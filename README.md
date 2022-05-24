@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Parallel Learning expands remote special education assessment and tutoring with $20M round](https://techcrunch.com/2022/05/24/parallel-learning-expands-remote-special-education-assessment-and-tutoring-with-20m-round/)
+- [Monte Carlo raises $135M Series D at $1.6B price, showing that unicorn rounds are still a thing](https://techcrunch.com/2022/05/24/monte-carlo-raises-135m-series-d-at-1-6b-price-showing-that-unicorn-rounds-are-still-a-thing/)
+- [Cribl raises $150M to beat back rival observability tools](https://techcrunch.com/2022/05/24/cribl-raises-150m-to-beat-back-rival-observability-tools/)
 - [DigitalOcean launches serverless product based on last year’s Nimbella acquisition](https://techcrunch.com/2022/05/24/digitalocean-launches-serverless-product-based-on-last-years-nimbella-acquisition/)
 - [Vultr will now let you rent a share of Nvidia’s A100 GPUs in its cloud](https://techcrunch.com/2022/05/24/vultr-will-now-let-you-rent-a-share-of-nvidias-a100-gpus-in-its-cloud/)
-- [Singularity Energy raises $4.5 million seed round to decarbonize the grid](https://techcrunch.com/2022/05/24/singularity-energy-raises-4-5-million-seed-round-to-decarbonize-the-grid/)
-- [UK camera deal: get Argos&#39;s lowest ever price on the Nikon Z5](https://www.space.com/uk-camera-deal-argos-nikon-z5/)
-- [Nomagic picks up $22M for its e-commerce warehouse picking robots](https://techcrunch.com/2022/05/24/nomagic-picks-up-22m-for-its-e-commerce-warehouse-picking-robots/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
