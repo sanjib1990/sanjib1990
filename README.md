@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [On This Day In Space: May 24, 1962: Scott Carpenter becomes 2nd American in orbit](https://www.space.com/39251-on-this-day-in-space.html/)
-- [Berlin’s Gorillas lays off 300, explores ‘strategic options’ in 4 countries as funds dry up for its $3B instant grocery play](https://techcrunch.com/2022/05/24/berlins-gorillas-lays-off-300-explores-strategic-options-in-4-countries-as-funds-dry-up-for-its-3b-instant-grocery-play/)
-- [Wealthy nations are carving up space and its riches — and leaving other countries behind](https://www.space.com/wealthy-nations-space-resources-inequity/)
-- [Walmart plans to expand drone delivery to six states this year](https://techcrunch.com/2022/05/24/walmart-plans-to-expand-drone-delivery-to-six-states-this-year/)
-- [1st maps of massive, translucent gas clouds in space reveal clues about the early universe](https://www.space.com/elusive-gas-clouds-clues-early-universe/)
+- [DigitalOcean launches serverless product based on last year’s Nimbella acquisition](https://techcrunch.com/2022/05/24/digitalocean-launches-serverless-product-based-on-last-years-nimbella-acquisition/)
+- [Vultr will now let you rent a share of Nvidia’s A100 GPUs in its cloud](https://techcrunch.com/2022/05/24/vultr-will-now-let-you-rent-a-share-of-nvidias-a100-gpus-in-its-cloud/)
+- [Singularity Energy raises $4.5 million seed round to decarbonize the grid](https://techcrunch.com/2022/05/24/singularity-energy-raises-4-5-million-seed-round-to-decarbonize-the-grid/)
+- [UK camera deal: get Argos&#39;s lowest ever price on the Nikon Z5](https://www.space.com/uk-camera-deal-argos-nikon-z5/)
+- [Nomagic picks up $22M for its e-commerce warehouse picking robots](https://techcrunch.com/2022/05/24/nomagic-picks-up-22m-for-its-e-commerce-warehouse-picking-robots/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
