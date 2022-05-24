@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Stripe launches App Marketplace, scripts and tools incorporating third-party SaaS apps that work alongside Stripe](https://techcrunch.com/2022/05/24/stripe-launches-app-marketplace-scripts-and-tools-incorporating-third-party-saas-apps-that-work-alongside-stripe/)
-- [Nowports streamlines LatAm’s shipping to deliver a $1.1B valuation](https://techcrunch.com/2022/05/24/nowports-lands-150m-at-a-1-1b-valuation-to-streamline-latams-shipping/)
-- [Massive Mars dust storms triggered by heat imbalances, scientists find](https://www.space.com/mars-climate-dust-storms-heat-imbalance/)
-- [Four-month-old Doppel is helping some of the biggest NFT projects spot scams](https://techcrunch.com/2022/05/24/doppel-helps-nft-projects-spot-scams-fraud-counterfeit-crypto-yuga-dapper/)
-- [Google Lens comes to Chrome for searching using images from webpages](https://techcrunch.com/2022/05/24/google-lens-comes-to-chrome-for-searching-using-images-from-webpages/)
+- [Today at Apple Creative Studios will launch in seven new cities](https://techcrunch.com/2022/05/24/today-at-apple-creative-studios-will-launch-in-seven-new-cities/)
+- [Uber hits 1 billion rides in Africa](https://techcrunch.com/2022/05/24/uber-hits1-billion-rides-in-africa/)
+- [Judge rules that Tesla sexual harassment suit can proceed in court](https://techcrunch.com/2022/05/24/judge-rules-that-tesla-sexual-harassment-suit-can-proceed-in-court/)
+- [Here are all of the companies presenting at Alchemist Accelerator’s 30th Demo Day today](https://techcrunch.com/2022/05/24/alchemist-accelerator-demo-day-30/)
+- [Waze users can now access Apple Music directly from the navigation app’s audio player](https://techcrunch.com/2022/05/24/waze-apple-music/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
