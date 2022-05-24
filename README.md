@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [IP and cybersecurity disputes are top legal concerns for tech companies](https://techcrunch.com/2022/05/23/ip-and-cybersecurity-disputes-are-top-legal-concerns-for-tech-companies/)
+- [Snap says it will miss this quarter’s revenue goals and slow hiring](https://techcrunch.com/2022/05/23/snap-slow-hiring-miss-revenue-goal/)
+- [OpenAI: Look at our awesome image generator! Google: Hold my Shiba Inu](https://techcrunch.com/2022/05/23/openai-look-at-our-awesome-image-generator-google-hold-my-shiba-inu/)
 - [SwipeRx lands $27M from MDI and Gates Foundation to digitize the pharma industry in Southeast Asia](https://techcrunch.com/2022/05/23/swiperx-lands-27m-from-mdi-and-gates-foundation-to-digitize-the-pharma-industry-in-southeast-asia/)
 - [Boeing&#39;s Starliner capsule to land in New Mexico  Wednesday](https://www.space.com/boeing-starliner-oft-2-landing-date-revealed/)
-- [Daily Crunch: Used-car marketplace Sylndr lands $12.6M pre-seed round, sets new record for MENA startups](https://techcrunch.com/2022/05/23/daily-crunch-used-car-marketplace-sylndr-lands-12-6m-preseed-round-sets-new-record-for-mena-startups/)
-- [Max Q: Insertion burn](https://techcrunch.com/2022/05/23/max-q-insertion-burn/)
-- [Walmart is adding Symbotic robots to warehouses across the country](https://techcrunch.com/2022/05/23/walmart-is-adding-symbotic-robots-to-warehouses-across-the-country/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
