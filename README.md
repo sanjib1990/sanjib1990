@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Starlink adds RV plan that provides roving coverage](https://techcrunch.com/2022/05/24/starlink-adds-rv-plan-that-provides-roving-coverage/)
-- [Your investor has an investment thesis. Here’s why you should care](https://techcrunch.com/2022/05/24/venture-capital-investor-investment-thesis/)
-- [Zeitworks wants to help businesses measure and improve their productivity](https://techcrunch.com/2022/05/24/zeitworks-wants-to-help-businesses-measure-and-improve-their-productivity/)
-- [Parallel Learning expands remote special education assessment and tutoring with $20M round](https://techcrunch.com/2022/05/24/parallel-learning-expands-remote-special-education-assessment-and-tutoring-with-20m-round/)
-- [Monte Carlo raises $135M Series D at $1.6B price, showing that unicorn rounds are still a thing](https://techcrunch.com/2022/05/24/monte-carlo-raises-135m-series-d-at-1-6b-price-showing-that-unicorn-rounds-are-still-a-thing/)
+- [Google Maps’ Street View celebrates 15 years with historical imagery on mobile, new camera, and more](https://techcrunch.com/2022/05/24/google-maps-street-view-celebrates-15-years-with-historical-imagery-on-mobile-new-camera-and-more/)
+- [SoftBank leads $150M round for Firework’s shoppable video](https://techcrunch.com/2022/05/24/softbank-leads-150m-round-for-fireworks-shoppable-video/)
+- [Early Memorial Day deal: get 33% off the Terraforming Mars board game](https://www.space.com/amazon-memorial-day-deal-terraforming-mars-33-percent-discount/)
+- [Roblox hires former Zynga CTO to build out its developer team](https://techcrunch.com/2022/05/24/roblox-nick-tornow-twitter-zynga/)
+- [Copilot, GitHub’s AI-powered coding tool, will be free for students](https://techcrunch.com/2022/05/24/copilot-githubs-ai-powered-coding-tool-will-become-generally-available-this-summer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
