@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [On This Day In Space: May 24, 1962: Scott Carpenter becomes 2nd American in orbit](https://www.space.com/39251-on-this-day-in-space.html/)
 - [Berlin’s Gorillas lays off 300, explores ‘strategic options’ in 4 countries as funds dry up for its $3B instant grocery play](https://techcrunch.com/2022/05/24/berlins-gorillas-lays-off-300-explores-strategic-options-in-4-countries-as-funds-dry-up-for-its-3b-instant-grocery-play/)
+- [Wealthy nations are carving up space and its riches — and leaving other countries behind](https://www.space.com/wealthy-nations-space-resources-inequity/)
 - [Walmart plans to expand drone delivery to six states this year](https://techcrunch.com/2022/05/24/walmart-plans-to-expand-drone-delivery-to-six-states-this-year/)
-- [Pandas wants to give Latin American businesses buying power in Asia](https://techcrunch.com/2022/05/24/pandas-latin-america-business-asia/)
-- [Key European tech founders and investors launch OneUkraine charity to assist Ukraine](https://techcrunch.com/2022/05/24/key-european-tech-founders-and-investors-launch-oneukraine-charity-to-assist-ukraine/)
-- [Moka.care raises $16 million for its corporate mental health service](https://techcrunch.com/2022/05/24/moka-care-raises-16-million-for-its-corporate-mental-health-service/)
+- [1st maps of massive, translucent gas clouds in space reveal clues about the early universe](https://www.space.com/elusive-gas-clouds-clues-early-universe/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
