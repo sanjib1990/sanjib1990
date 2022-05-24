@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Star Trek: Strange New Worlds&#39; episode 3 builds up backstories for Number One, M&#39;Benga](https://www.space.com/star-trek-strange-new-worlds-season-1-episode-3-review/)
+- [Japan will send an astronaut to the moon with NASA, President Biden says](https://www.space.com/japan-astronaut-visit-nasa-moon-gateway/)
+- [Questions arise on Y Combinator’s role in startup correction](https://techcrunch.com/2022/05/24/questions-arise-on-y-combinators-role-in-startup-correction/)
+- [Twitter rebrands its media website to focus on creators with a new ‘Create’ hub](https://techcrunch.com/2022/05/24/twitter-rebrands-media-website-creators/)
 - [DDG has a tracker blocking carve-out linked to Microsoft contract](https://techcrunch.com/2022/05/24/ddg-microsoft-tracking-blocking-limit/)
-- [Mayfield’s Navin Chaddha: I’ve looked at clouds from both sides now](https://techcrunch.com/2022/05/24/mayfields-navin-chaddha-ive-looked-at-clouds-from-both-sides-now/)
-- [Niantic transcends Discord to build Campfire, an AR social app, and unveils Lightship VPS](https://techcrunch.com/2022/05/24/niantic-lightship-vps-campfire-ar-social-app-pokemon-go/)
-- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates/)
-- [PlanetScale expands its database service with built-in performance monitoring and more](https://techcrunch.com/2022/05/24/planetscale-expands-its-database-service-with-built-in-performance-monitoring-and-more/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
