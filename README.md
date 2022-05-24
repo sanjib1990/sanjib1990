@@ -95,7 +95,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Moka.care raises $16 million for its corporate mental health service](https://techcrunch.com/2022/05/24/moka-care-raises-16-million-for-its-corporate-mental-health-service/)
-- [South Africa’s edtech Foondamate eyes speedy takeoff after $2M funding](https://techcrunch.com/2022/05/24/south-africas-edtech-foondamate-eyes-speedy-takeoff-after-2m-funding/)
+- [South Africa’s edtech FoondaMate eyes speedy takeoff after $2M funding](https://techcrunch.com/2022/05/24/south-africas-edtech-foondamate-eyes-speedy-takeoff-after-2m-funding/)
 - [Actiondesk is a spreadsheet tool that works with live data](https://techcrunch.com/2022/05/24/actiondesk-is-a-spreadsheet-tool-that-works-with-live-data/)
 - [Airbnb China closes domestic unit to cut costs as it bets on border reopening](https://techcrunch.com/2022/05/23/airbnb-shutters-china-business-pivot/)
 - [IP and cybersecurity disputes are top legal concerns for tech companies](https://techcrunch.com/2022/05/23/ip-and-cybersecurity-disputes-are-top-legal-concerns-for-tech-companies/)
