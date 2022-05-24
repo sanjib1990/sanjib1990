@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Netflix is adding four more games this month, including ‘Exploding Kittens’](https://techcrunch.com/2022/05/24/netflix-games-exploding-kittens/)
+- [Robotic rehabilitation glove wins Microsoft’s 20th Imagine Cup for student inventors](https://techcrunch.com/2022/05/24/robotic-rehabilitation-glove-wins-microsofts-20th-imagine-cup-for-student-inventors/)
+- [Shellworks wants to crack makeup’s single-use plastic problem](https://techcrunch.com/2022/05/24/shellworks-makeup-single-use-plastic-problem/)
+- [Famous &#39;alien&#39; Wow! signal may have come from distant, sunlike star](https://www.space.com/wow-signal-origin-star/)
 - [&#39;Star Trek: Strange New Worlds&#39; episode 3 builds up backstories for Number One, M&#39;Benga](https://www.space.com/star-trek-strange-new-worlds-season-1-episode-3-review/)
-- [Japan will send an astronaut to the moon with NASA, President Biden says](https://www.space.com/japan-astronaut-visit-nasa-moon-gateway/)
-- [Questions arise on Y Combinator’s role in startup correction](https://techcrunch.com/2022/05/24/questions-arise-on-y-combinators-role-in-startup-correction/)
-- [Twitter rebrands its media website to focus on creators with a new ‘Create’ hub](https://techcrunch.com/2022/05/24/twitter-rebrands-media-website-creators/)
-- [DDG has a tracker blocking carve-out linked to Microsoft contract](https://techcrunch.com/2022/05/24/ddg-microsoft-tracking-blocking-limit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
