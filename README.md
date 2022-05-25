@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Polygon launches “uncapped” fund to help Terra projects migrate to its blockchain](https://techcrunch.com/2022/05/25/polygon-launches-uncapped-fund-to-help-terra-projects-migrate-to-its-blockchain/)
-- [Getir, the $12B instant delivery startup, plans to axe 14% of staff globally and cut aggressive expansion plans](https://techcrunch.com/2022/05/25/getir-the-12b-instant-delivery-startup-plans-to-axe-14-of-staff-globally-and-cut-aggressive-expansion-plans/)
-- [Gen Z social app Yubo rolls out age ‘estimating’ technology to better identify minors using its service](https://techcrunch.com/2022/05/25/gen-z-social-app-yubo-rolls-out-age-estimating-technology-to-better-identify-minors-using-its-service/)
-- [Bring a friend to TechCrunch’s Annual Summer Party for free](https://techcrunch.com/2022/05/25/bring-a-friend-to-techcrunchs-annual-summer-party-for-free/)
-- [HP Reverb G2 review](https://www.space.com/hp-reverb-g2-review/)
+- [How we test, review and rate products on Space.com](https://www.space.com/how-we-test/)
+- [Google begins rolling out ads in YouTube Shorts globally](https://techcrunch.com/2022/05/25/google-ads-youtube-shorts-globally/)
+- [Expect another above-average hurricane season in 2022, NOAA predicts](https://www.space.com/noaa-atlantic-hurricane-season-predictions-2022/)
+- [Encalife Aurora Borealis Northern Lights Star Projector review](https://www.space.com/encalife-aurora-borealis-northern-lights-star-projector-review/)
+- [Chemonics, Decisive Capital and Extreme Tech Challenge will talk transformative tech at TC Sessions: Climate](https://techcrunch.com/2022/05/25/chemonics-decisive-capital-and-extreme-tech-challenge-will-talk-transformative-tech-at-tc-sessions-climate/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
