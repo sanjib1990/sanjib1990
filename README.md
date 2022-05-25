@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon flexes its retail muscle with a brick-and-mortar clothing store](https://techcrunch.com/2022/05/25/amazon-flexes-its-retail-muscle-with-a-brick-and-mortar-clothing-store/)
+- [Canon EOS R6 review](https://www.space.com/canon-eos-r6-review/)
+- [Best mirrorless cameras](https://www.space.com/best-mirrorless-cameras/)
+- [The NFL is looking to launch its own streaming service this summer, says report](https://techcrunch.com/2022/05/25/the-nfl-is-looking-to-launch-its-own-streaming-service-this-summer-says-report/)
 - [How we test, review and rate products on Space.com](https://www.space.com/how-we-test/)
-- [Google begins rolling out ads in YouTube Shorts globally](https://techcrunch.com/2022/05/25/google-ads-youtube-shorts-globally/)
-- [Expect another above-average hurricane season in 2022, NOAA predicts](https://www.space.com/noaa-atlantic-hurricane-season-predictions-2022/)
-- [Encalife Aurora Borealis Northern Lights Star Projector review](https://www.space.com/encalife-aurora-borealis-northern-lights-star-projector-review/)
-- [Chemonics, Decisive Capital and Extreme Tech Challenge will talk transformative tech at TC Sessions: Climate](https://techcrunch.com/2022/05/25/chemonics-decisive-capital-and-extreme-tech-challenge-will-talk-transformative-tech-at-tc-sessions-climate/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
