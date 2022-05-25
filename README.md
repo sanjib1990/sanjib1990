@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Amid crypto market turmoil, Andreessen Horowitz announces $4.5 billion web3 fund](https://techcrunch.com/2022/05/25/amid-crypto-downturn-a16z-debuts-4-5-billion-web3-mega-fund/)
-- [How femtech startup Inne rebooted its hardware launch after COVID-19 chaos](https://techcrunch.com/2022/05/25/inne-series-a-expansion/)
-- [Hubble telescope spots enormous elliptical galaxy surrounded by mysterious shells](https://www.space.com/hubble-telescope-galaxy-strange-shell-layers-photo/)
-- [Best cameras for photos and videos {year}](https://www.space.com/best-cameras/)
-- [Paddle acquires ProfitWell for $200M to bring analytics and retention tools to its SaaS payments platform](https://techcrunch.com/2022/05/25/paddle-acquires-profitwell-for-200m-to-bring-analytics-and-retention-tools-to-its-saas-payments-platform/)
+- [Zip lines up $43M at a $1.2B valuation for its growing ‘concierge for procurement’](https://techcrunch.com/2022/05/25/zip-closes-on-43m-at-1-2b-valuation/)
+- [Online shopping platform buywith already bagged Walmart, now grabs seed round](https://techcrunch.com/2022/05/25/online-shopping-platform-buywith-already-bagged-walmart-now-grabs-seed-round/)
+- [Primitives wants to turn your crypto wallet into a social network](https://techcrunch.com/2022/05/25/primitives-crypto-wallet-social-network-snapchat-startup/)
+- [Lalo launches an app to memorialize loved ones](https://techcrunch.com/2022/05/25/lalo-launches-app-memorialize-loved-ones/)
+- [Finn raises $110M to expand car subscription platform in U.S., Germany](https://techcrunch.com/2022/05/25/finn-raises-110m-to-expand-car-subscription-platform-in-u-s-germany/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
