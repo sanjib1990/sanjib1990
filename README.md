@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Egyptian health and wellness platform Esaal raises $1.7M to scale across MENA](https://techcrunch.com/2022/05/25/egyptian-health-and-wellness-platform-esaal-raises-1-7m-to-scale-across-mena/)
+- [TechCrunch+ roundup: Stripe vs. Plaid, IP litigation, what VCs really think about the downturn](https://techcrunch.com/2022/05/25/techcrunch-roundup-stripe-vs-plaid-ip-litigation-what-vcs-really-think-about-the-downturn/)
 - [Nomono launches an ear-wateringly expensive $3,000 microphone array for podcasters](https://techcrunch.com/2022/05/25/nomono-mic/)
 - [Aive automatically generates different video ad formats for all platforms](https://techcrunch.com/2022/05/25/aive-automatically-generates-different-video-ad-formats-for-all-platforms/)
 - [Dyson has been secretly building robots](https://techcrunch.com/2022/05/24/dyson-has-been-secretly-building-robots/)
-- [Sequoia Capital plays Nostradamus &lpar;again&rpar;](https://techcrunch.com/2022/05/24/sequoia-capital-plays-nostradamus-again/)
-- [Pony.ai loses permit to test autonomous vehicles with driver in California](https://techcrunch.com/2022/05/24/pony-ai-loses-permit-to-test-autonomous-vehicles-with-driver-in-california/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
