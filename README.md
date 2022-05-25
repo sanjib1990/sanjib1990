@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple’s latest research suggests the iOS app economy supports 2.2 million U.S. jobs](https://techcrunch.com/2022/05/25/apples-latest-research-suggests-the-ios-app-economy-supports-2-2-million-u-s-jobs/)
+- [We think founders need a quick Heart to Heart about the market](https://techcrunch.com/2022/05/25/founders-need-a-quick-heart-to-heart-about-the-market/)
+- [Potential new meteor shower is &#39;all or nothing event,&#39; says NASA astronomer](https://www.space.com/potential-new-meteor-shower-all-or-nothing/)
+- [Democrats urge Google to limit location tracking to protect people seeking abortions](https://techcrunch.com/2022/05/25/lawmakers-google-location-tracking-abortion/)
 - [StarkWare quadruples valuation to $8B in 6 months, closing round in choppy market](https://techcrunch.com/2022/05/25/starkware-quadruples-valuation-to-8b-in-6-months-closing-round-in-choppy-market/)
-- [As cloud costs rise, startups making spend-optimizing tech see sunny days ahead](https://techcrunch.com/2022/05/25/as-cloud-costs-rise-startups-making-spend-optimizing-tech-see-sunny-days-ahead/)
-- [The IRS’s crypto tax partner, ZenLedger, raises $15 million Series B](https://techcrunch.com/2022/05/25/irs-crypto-tax-zenledger-series-a-funding/)
-- [AI chip startup Sima.ai bags another $30M ahead of growth](https://techcrunch.com/2022/05/25/ai-chip-startup-sima-ai-bags-another-30m-ahead-of-growth/)
-- [Clozd nabs $52M to help sales teams analyze wins and losses](https://techcrunch.com/2022/05/25/clozd-nabs-52m-to-help-sales-teams-analyze-wins-and-losses/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
