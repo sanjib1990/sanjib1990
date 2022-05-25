@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple’s latest research suggests the iOS app economy supports 2.2 million U.S. jobs](https://techcrunch.com/2022/05/25/apples-latest-research-suggests-the-ios-app-economy-supports-2-2-million-u-s-jobs/)
-- [We think founders need a quick Heart to Heart about the market](https://techcrunch.com/2022/05/25/founders-need-a-quick-heart-to-heart-about-the-market/)
-- [Potential new meteor shower is &#39;all or nothing event,&#39; says NASA astronomer](https://www.space.com/potential-new-meteor-shower-all-or-nothing/)
-- [Democrats urge Google to limit location tracking to protect people seeking abortions](https://techcrunch.com/2022/05/25/lawmakers-google-location-tracking-abortion/)
-- [StarkWare quadruples valuation to $8B in 6 months, closing round in choppy market](https://techcrunch.com/2022/05/25/starkware-quadruples-valuation-to-8b-in-6-months-closing-round-in-choppy-market/)
+- [Polygon launches “uncapped” fund to help Terra projects migrate to its blockchain](https://techcrunch.com/2022/05/25/polygon-launches-uncapped-fund-to-help-terra-projects-migrate-to-its-blockchain/)
+- [Getir, the $12B instant delivery startup, plans to axe 14% of staff globally and cut aggressive expansion plans](https://techcrunch.com/2022/05/25/getir-the-12b-instant-delivery-startup-plans-to-axe-14-of-staff-globally-and-cut-aggressive-expansion-plans/)
+- [Gen Z social app Yubo rolls out age ‘estimating’ technology to better identify minors using its service](https://techcrunch.com/2022/05/25/gen-z-social-app-yubo-rolls-out-age-estimating-technology-to-better-identify-minors-using-its-service/)
+- [Bring a friend to TechCrunch’s Annual Summer Party for free](https://techcrunch.com/2022/05/25/bring-a-friend-to-techcrunchs-annual-summer-party-for-free/)
+- [HP Reverb G2 review](https://www.space.com/hp-reverb-g2-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
