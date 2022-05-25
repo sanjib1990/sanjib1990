@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SEC weighs crackdown on phony environmental and social-justice funds](https://techcrunch.com/2022/05/25/sec-weighs-crackdown-on-phony-environmental-and-social-justice-funds/)
-- [Apple issues friendly reminder that it’s employees’ right not to unionize](https://techcrunch.com/2022/05/25/apple-union-employee-warning/)
-- [Happy 45th birthday, &#39;Star Wars&#39;: The Force is still strong with George Lucas&#39;s little space opera that could](https://www.space.com/star-wars-45th-anniversary/)
-- [Terra community passes proposal to revive LUNA cryptocurrency following stablecoin-led implosion](https://techcrunch.com/2022/05/25/terra-community-passes-proposal-to-revive-luna-cryptocurrency-following-stablecoin-led-implosion/)
-- [Google Photos starts rolling out new Real Tone filters](https://techcrunch.com/2022/05/25/google-photos-new-real-tone-filters/)
+- [Announcing the TechCrunch+ Stage Agenda at Disrupt 2022](https://techcrunch.com/2022/05/25/announcing-the-techcrunch-stage-agenda-at-disrupt-2022/)
+- [Fintech Bolt just laid off over 100 employees across engineering, sales, and marketing](https://techcrunch.com/2022/05/25/fintech-bolt-just-laid-off-over-100-employees-across-engineering-sales-and-marketing/)
+- [Lucid recalls all of its 2022 Air EVs due to wiring issues](https://techcrunch.com/2022/05/25/lucid-recalls-all-of-its-2022-air-evs-due-to-wiring-issues/)
+- [NASA awards $2 million to moonshot solar sail project](https://techcrunch.com/2022/05/25/nasa-awards-2-million-to-moonshot-solar-sail-project/)
+- [Box positive momentum continues with revenue up 18% and improved guidance](https://techcrunch.com/2022/05/25/box-positive-momentum-continues-with-revenue-up-18-and-improved-guidance/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
