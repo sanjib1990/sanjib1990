@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch:  a16z literally doubles down, announces $4.5B crypto fund IV](https://techcrunch.com/2022/05/25/daily-crunch-a16z-literally-doubles-down-announces-4-5b-crypto-fund-iv/)
+- [Boeing Starliner Orbital Flight Test 2: Live updates](https://www.space.com/news/live/boeing-starliner-oft-2-live-updates/)
+- [Dear Sophie: Does International Entrepreneur Parole have any advantages over an O-1 visa?](https://techcrunch.com/2022/05/25/dear-sophie-does-international-entrepreneur-parole-have-any-advantages-over-an-o-1-visa/)
+- [Not trademarking can be an Excruciatingly Expensive® and Wildly Annoying® mistake](https://techcrunch.com/2022/05/25/startup-trademarks/)
 - [Announcing the TechCrunch+ Stage Agenda at Disrupt 2022](https://techcrunch.com/2022/05/25/announcing-the-techcrunch-stage-agenda-at-disrupt-2022/)
-- [Fintech Bolt just laid off over 100 employees across engineering, sales, and marketing](https://techcrunch.com/2022/05/25/fintech-bolt-just-laid-off-over-100-employees-across-engineering-sales-and-marketing/)
-- [Lucid recalls all of its 2022 Air EVs due to wiring issues](https://techcrunch.com/2022/05/25/lucid-recalls-all-of-its-2022-air-evs-due-to-wiring-issues/)
-- [NASA awards $2 million to moonshot solar sail project](https://techcrunch.com/2022/05/25/nasa-awards-2-million-to-moonshot-solar-sail-project/)
-- [Box positive momentum continues with revenue up 18% and improved guidance](https://techcrunch.com/2022/05/25/box-positive-momentum-continues-with-revenue-up-18-and-improved-guidance/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
