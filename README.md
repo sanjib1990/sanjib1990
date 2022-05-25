@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Famous &#39;alien&#39; Wow! signal may have come from distant, sunlike star](https://www.space.com/wow-signal-origin-star/)
-- [&#39;Star Trek: Strange New Worlds&#39; episode 3 builds up backstories for Number One, M&#39;Benga](https://www.space.com/star-trek-strange-new-worlds-season-1-episode-3-review/)
-- [Japan will send an astronaut to the moon with NASA, President Biden says](https://www.space.com/japan-astronaut-visit-nasa-moon-gateway/)
-- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates/)
-- [James Webb Space Telescope practices tracking an asteroid for the 1st time](https://www.space.com/james-webb-space-telescope-tracks-moving-target/)
+- [Dyson has been secretly building robots](https://techcrunch.com/2022/05/24/dyson-has-been-secretly-building-robots/)
+- [Sequoia Capital plays Nostradamus &lpar;again&rpar;](https://techcrunch.com/2022/05/24/sequoia-capital-plays-nostradamus-again/)
+- [Pony.ai loses permit to test autonomous vehicles with driver in California](https://techcrunch.com/2022/05/24/pony-ai-loses-permit-to-test-autonomous-vehicles-with-driver-in-california/)
+- [Daily Crunch: 7 months after raising $1B, grocery delivery Gorillas exits four countries and lays off 300](https://techcrunch.com/2022/05/24/daily-crunch-grocery-delivery-gorillas-exits-four-countries-and-lays-off-300/)
+- [Bumble is planning to expand further into social networking with a new communities feature](https://techcrunch.com/2022/05/24/bumble-is-planning-to-expand-further-into-social-networking-with-a-new-communities-feature/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
