@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Zip lines up $43M at a $1.2B valuation for its growing ‘concierge for procurement’](https://techcrunch.com/2022/05/25/zip-closes-on-43m-at-1-2b-valuation/)
-- [Online shopping platform buywith already bagged Walmart, now grabs seed round](https://techcrunch.com/2022/05/25/online-shopping-platform-buywith-already-bagged-walmart-now-grabs-seed-round/)
-- [Primitives wants to turn your crypto wallet into a social network](https://techcrunch.com/2022/05/25/primitives-crypto-wallet-social-network-snapchat-startup/)
-- [Lalo launches an app to memorialize loved ones](https://techcrunch.com/2022/05/25/lalo-launches-app-memorialize-loved-ones/)
-- [Finn raises $110M to expand car subscription platform in U.S., Germany](https://techcrunch.com/2022/05/25/finn-raises-110m-to-expand-car-subscription-platform-in-u-s-germany/)
+- [StarkWare quadruples valuation to $8B in 6 months, closing round in choppy market](https://techcrunch.com/2022/05/25/starkware-quadruples-valuation-to-8b-in-6-months-closing-round-in-choppy-market/)
+- [As cloud costs rise, startups making spend-optimizing tech see sunny days ahead](https://techcrunch.com/2022/05/25/as-cloud-costs-rise-startups-making-spend-optimizing-tech-see-sunny-days-ahead/)
+- [The IRS’s crypto tax partner, ZenLedger, raises $15 million Series B](https://techcrunch.com/2022/05/25/irs-crypto-tax-zenledger-series-a-funding/)
+- [AI chip startup Sima.ai bags another $30M ahead of growth](https://techcrunch.com/2022/05/25/ai-chip-startup-sima-ai-bags-another-30m-ahead-of-growth/)
+- [Clozd nabs $52M to help sales teams analyze wins and losses](https://techcrunch.com/2022/05/25/clozd-nabs-52m-to-help-sales-teams-analyze-wins-and-losses/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
