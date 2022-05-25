@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Daily Crunch:  a16z literally doubles down, announces $4.5B crypto fund IV](https://techcrunch.com/2022/05/25/daily-crunch-a16z-literally-doubles-down-announces-4-5b-crypto-fund-iv/)
+- [Starliner returns to Earth after a successful first trip to ISS](https://techcrunch.com/2022/05/25/starliner-returns-to-earth-after-a-successful-first-trip-to-iss/)
+- [Twitter agrees to pay $150M for breaking privacy promises](https://techcrunch.com/2022/05/25/twitter-agrees-to-pay-150m-for-breaking-privacy-promises/)
+- [Twitter stock jumps on news that Elon Musk still wants to buy it … maybe](https://techcrunch.com/2022/05/25/twitter-stock-jumps-on-news-that-elon-musk-still-wants-to-buy-it-maybe/)
+- [Daily Crunch:  a16z literally doubles down, announces $4.5B Crypto Fund IV](https://techcrunch.com/2022/05/25/daily-crunch-a16z-literally-doubles-down-announces-4-5b-crypto-fund-iv/)
 - [Boeing Starliner Orbital Flight Test 2: Live updates](https://www.space.com/news/live/boeing-starliner-oft-2-live-updates/)
-- [Dear Sophie: Does International Entrepreneur Parole have any advantages over an O-1 visa?](https://techcrunch.com/2022/05/25/dear-sophie-does-international-entrepreneur-parole-have-any-advantages-over-an-o-1-visa/)
-- [Not trademarking can be an Excruciatingly Expensive® and Wildly Annoying® mistake](https://techcrunch.com/2022/05/25/startup-trademarks/)
-- [Announcing the TechCrunch+ Stage Agenda at Disrupt 2022](https://techcrunch.com/2022/05/25/announcing-the-techcrunch-stage-agenda-at-disrupt-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
