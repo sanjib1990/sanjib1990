@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sequoia Capital plays Nostradamus &lpar;again&rpar;](https://techcrunch.com/2022/05/24/sequoia-capital-plays-nostradamus-again/)
 - [Pony.ai loses permit to test autonomous vehicles with driver in California](https://techcrunch.com/2022/05/24/pony-ai-loses-permit-to-test-autonomous-vehicles-with-driver-in-california/)
 - [Daily Crunch: 7 months after raising $1B, grocery delivery Gorillas exits four countries and lays off 300](https://techcrunch.com/2022/05/24/daily-crunch-grocery-delivery-gorillas-exits-four-countries-and-lays-off-300/)
 - [Bumble is planning to expand further into social networking with a new communities feature](https://techcrunch.com/2022/05/24/bumble-is-planning-to-expand-further-into-social-networking-with-a-new-communities-feature/)
 - [Kim Kardashian lends her taste buds to Beyond Meat as first chief taste consultant](https://techcrunch.com/2022/05/24/kim-kardashian-lends-her-taste-buds-to-beyond-meat-as-first-chief-taste-consultant/)
-- [TechCrunch Live is going to Columbus, OH —  register and apply for the pitch-off!](https://techcrunch.com/2022/05/24/techcrunch-live-is-going-to-columbus-oh-register-and-apply-for-the-pitch-off/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
