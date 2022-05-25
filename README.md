@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Maryland becomes the second state to offer driver’s license and state ID in Apple Wallet](https://techcrunch.com/2022/05/25/maryland-becomes-the-second-state-to-offer-drivers-license-and-state-id-in-apple-wallet/)
-- [Synthesis Capital closed its first fund with $300M, giving boost to foodtech’s future](https://techcrunch.com/2022/05/25/synthesis-capital-closed-its-first-fund-with-300m-giving-boost-to-foodtechs-future/)
-- [This remote-controlled robot crab can sit on the side of a penny](https://techcrunch.com/2022/05/25/this-remote-controlled-robot-crab-can-sit-on-the-side-of-a-penny/)
-- [Can recurring revenue financing drive growth in a turbulent market?](https://techcrunch.com/2022/05/25/can-recurring-revenue-financing-drive-growth-in-a-turbulent-market/)
-- [Brainly says it’s been blocked in Russia after refusing to remove community content about the war in Ukraine](https://techcrunch.com/2022/05/25/brainly-says-its-been-blocked-in-russia-after-refusing-to-remove-community-content-about-the-war-in-ukraine/)
+- [NASA&#39;s Mars InSight lander snaps dusty &#39;final selfie&#39; as power dwindles](https://www.space.com/mars-insight-final-selfie-dwindling-power/)
+- [Boeing Starliner Orbital Flight Test 2: Live updates](https://www.space.com/news/live/boeing-starliner-oft-2-live-updates/)
+- [Jack Dorsey steps down from Twitter’s board](https://techcrunch.com/2022/05/25/jack-dorsey-leaves-twitter-board/)
+- [Perseverance Mars rover figures out how devils and winds fill the Red Planet&#39;s skies with dust](https://www.space.com/mars-red-skies-dust-devils-wind/)
+- [Spy agency pumps billions into orbital imagery companies BlackSky, Maxar and Planet](https://techcrunch.com/2022/05/25/spy-agency-pumps-billions-into-orbital-imagery-companies-blacksky-maxar-and-planet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
