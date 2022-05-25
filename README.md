@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nomono launches an ear-wateringly expensive $3,000 microphone array for podcasters](https://techcrunch.com/2022/05/25/nomono-mic/)
+- [Aive automatically generates different video ad formats for all platforms](https://techcrunch.com/2022/05/25/aive-automatically-generates-different-video-ad-formats-for-all-platforms/)
 - [Dyson has been secretly building robots](https://techcrunch.com/2022/05/24/dyson-has-been-secretly-building-robots/)
 - [Sequoia Capital plays Nostradamus &lpar;again&rpar;](https://techcrunch.com/2022/05/24/sequoia-capital-plays-nostradamus-again/)
 - [Pony.ai loses permit to test autonomous vehicles with driver in California](https://techcrunch.com/2022/05/24/pony-ai-loses-permit-to-test-autonomous-vehicles-with-driver-in-california/)
-- [Daily Crunch: 7 months after raising $1B, grocery delivery Gorillas exits four countries and lays off 300](https://techcrunch.com/2022/05/24/daily-crunch-grocery-delivery-gorillas-exits-four-countries-and-lays-off-300/)
-- [Bumble is planning to expand further into social networking with a new communities feature](https://techcrunch.com/2022/05/24/bumble-is-planning-to-expand-further-into-social-networking-with-a-new-communities-feature/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
