@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon flexes its retail muscle with a brick-and-mortar clothing store](https://techcrunch.com/2022/05/25/amazon-flexes-its-retail-muscle-with-a-brick-and-mortar-clothing-store/)
-- [Canon EOS R6 review](https://www.space.com/canon-eos-r6-review/)
-- [Best mirrorless cameras](https://www.space.com/best-mirrorless-cameras/)
-- [The NFL is looking to launch its own streaming service this summer, says report](https://techcrunch.com/2022/05/25/the-nfl-is-looking-to-launch-its-own-streaming-service-this-summer-says-report/)
-- [How we test, review and rate products on Space.com](https://www.space.com/how-we-test/)
+- [Maryland becomes the second state to offer driver’s license and state ID in Apple Wallet](https://techcrunch.com/2022/05/25/maryland-becomes-the-second-state-to-offer-drivers-license-and-state-id-in-apple-wallet/)
+- [Synthesis Capital closed its first fund with $300M, giving boost to foodtech’s future](https://techcrunch.com/2022/05/25/synthesis-capital-closed-its-first-fund-with-300m-giving-boost-to-foodtechs-future/)
+- [This remote-controlled robot crab can sit on the side of a penny](https://techcrunch.com/2022/05/25/this-remote-controlled-robot-crab-can-sit-on-the-side-of-a-penny/)
+- [Can recurring revenue financing drive growth in a turbulent market?](https://techcrunch.com/2022/05/25/can-recurring-revenue-financing-drive-growth-in-a-turbulent-market/)
+- [Brainly says it’s been blocked in Russia after refusing to remove community content about the war in Ukraine](https://techcrunch.com/2022/05/25/brainly-says-its-been-blocked-in-russia-after-refusing-to-remove-community-content-about-the-war-in-ukraine/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
