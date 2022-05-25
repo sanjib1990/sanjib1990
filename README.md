@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Egyptian health and wellness platform Esaal raises $1.7M to scale across MENA](https://techcrunch.com/2022/05/25/egyptian-health-and-wellness-platform-esaal-raises-1-7m-to-scale-across-mena/)
-- [TechCrunch+ roundup: Stripe vs. Plaid, IP litigation, what VCs really think about the downturn](https://techcrunch.com/2022/05/25/techcrunch-roundup-stripe-vs-plaid-ip-litigation-what-vcs-really-think-about-the-downturn/)
-- [Nomono launches an ear-wateringly expensive $3,000 microphone array for podcasters](https://techcrunch.com/2022/05/25/nomono-mic/)
-- [Aive automatically generates different video ad formats for all platforms](https://techcrunch.com/2022/05/25/aive-automatically-generates-different-video-ad-formats-for-all-platforms/)
-- [Dyson has been secretly building robots](https://techcrunch.com/2022/05/24/dyson-has-been-secretly-building-robots/)
+- [Go inside Boeing&#39;s Starliner capsule with space station astronauts &lpar;video tour&rpar;](https://www.space.com/boeing-starliner-capsule-astronaut-video-tour/)
+- [Mercury astronaut&#39;s long-lost space-flown watch found in Breitling archives](https://www.space.com/scott-carpenter-breitling-space-watch-found/)
+- [SpaceX will launch small satellites and land a rocket Wednesday. Here&#39;s how to watch it live.](https://www.space.com/spacex-transporter-5-rocket-launch-landing/)
+- [Boeing&#39;s Starliner capsule is coming back to Earth Wednesday. Here&#39;s how to watch live.](https://www.space.com/boeing-starliner-oft-2-landing-wednesday-preview/)
+- [Lego space deals: discounts on spaceships, space stations and NASA kits](https://www.space.com/lego-space-deals/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
