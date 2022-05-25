@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s Mars InSight lander snaps dusty &#39;final selfie&#39; as power dwindles](https://www.space.com/mars-insight-final-selfie-dwindling-power/)
-- [Boeing Starliner Orbital Flight Test 2: Live updates](https://www.space.com/news/live/boeing-starliner-oft-2-live-updates/)
-- [Jack Dorsey steps down from Twitter’s board](https://techcrunch.com/2022/05/25/jack-dorsey-leaves-twitter-board/)
-- [Perseverance Mars rover figures out how devils and winds fill the Red Planet&#39;s skies with dust](https://www.space.com/mars-red-skies-dust-devils-wind/)
-- [Spy agency pumps billions into orbital imagery companies BlackSky, Maxar and Planet](https://techcrunch.com/2022/05/25/spy-agency-pumps-billions-into-orbital-imagery-companies-blacksky-maxar-and-planet/)
+- [SEC weighs crackdown on phony environmental and social-justice funds](https://techcrunch.com/2022/05/25/sec-weighs-crackdown-on-phony-environmental-and-social-justice-funds/)
+- [Apple issues friendly reminder that it’s employees’ right not to unionize](https://techcrunch.com/2022/05/25/apple-union-employee-warning/)
+- [Happy 45th birthday, &#39;Star Wars&#39;: The Force is still strong with George Lucas&#39;s little space opera that could](https://www.space.com/star-wars-45th-anniversary/)
+- [Terra community passes proposal to revive LUNA cryptocurrency following stablecoin-led implosion](https://techcrunch.com/2022/05/25/terra-community-passes-proposal-to-revive-luna-cryptocurrency-following-stablecoin-led-implosion/)
+- [Google Photos starts rolling out new Real Tone filters](https://techcrunch.com/2022/05/25/google-photos-new-real-tone-filters/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
