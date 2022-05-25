@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Go inside Boeing&#39;s Starliner capsule with space station astronauts &lpar;video tour&rpar;](https://www.space.com/boeing-starliner-capsule-astronaut-video-tour/)
-- [Mercury astronaut&#39;s long-lost space-flown watch found in Breitling archives](https://www.space.com/scott-carpenter-breitling-space-watch-found/)
-- [SpaceX will launch small satellites and land a rocket Wednesday. Here&#39;s how to watch it live.](https://www.space.com/spacex-transporter-5-rocket-launch-landing/)
-- [Boeing&#39;s Starliner capsule is coming back to Earth Wednesday. Here&#39;s how to watch live.](https://www.space.com/boeing-starliner-oft-2-landing-wednesday-preview/)
-- [Lego space deals: discounts on spaceships, space stations and NASA kits](https://www.space.com/lego-space-deals/)
+- [Amid crypto market turmoil, Andreessen Horowitz announces $4.5 billion web3 fund](https://techcrunch.com/2022/05/25/amid-crypto-downturn-a16z-debuts-4-5-billion-web3-mega-fund/)
+- [How femtech startup Inne rebooted its hardware launch after COVID-19 chaos](https://techcrunch.com/2022/05/25/inne-series-a-expansion/)
+- [Hubble telescope spots enormous elliptical galaxy surrounded by mysterious shells](https://www.space.com/hubble-telescope-galaxy-strange-shell-layers-photo/)
+- [Best cameras for photos and videos {year}](https://www.space.com/best-cameras/)
+- [Paddle acquires ProfitWell for $200M to bring analytics and retention tools to its SaaS payments platform](https://techcrunch.com/2022/05/25/paddle-acquires-profitwell-for-200m-to-bring-analytics-and-retention-tools-to-its-saas-payments-platform/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
