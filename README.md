@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Revenue-based financing platform Bloom secures $376M Series A led by Credo and Fortress](https://techcrunch.com/2022/05/26/revenue-based-financing-platform-bloom-secures-376m-series-a-led-by-credo-and-fortress/)
 - [Indigov lands more funding to connect besieged lawmakers and their oft-frustrated constituents](https://techcrunch.com/2022/05/25/indigov-helps-connect-besieged-lawmakers-and-their-oft-frustrated-constituents/)
 - [Unacademy tells employees to focus on profitability at all costs to ‘survive the winter’](https://techcrunch.com/2022/05/25/unacademy-tells-employees-to-focus-on-profitability-at-all-costs-to-survive-the-winter/)
 - [Touchdown! Boeing&#39;s Starliner returns to Earth from space station](https://www.space.com/boeing-starliner-oft-2-landing-success/)
 - [Starliner returns to Earth after a successful first trip to ISS](https://techcrunch.com/2022/05/25/starliner-returns-to-earth-after-a-successful-first-trip-to-iss/)
-- [Twitter agrees to pay $150M for breaking privacy promises](https://techcrunch.com/2022/05/25/twitter-agrees-to-pay-150m-for-breaking-privacy-promises/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
