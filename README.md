@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Revenue-based financing platform Bloom secures $376M Series A led by Credo and Fortress](https://techcrunch.com/2022/05/26/revenue-based-financing-platform-bloom-secures-376m-series-a-led-by-credo-and-fortress/)
+- [Former Binance executives launch $100M crypto fund](https://techcrunch.com/2022/05/26/former-binance-executives-launch-100m-crypto-fund/)
+- [Revenue-based financing platform Bloom secures $377M Series A led by Credo and Fortress](https://techcrunch.com/2022/05/26/revenue-based-financing-platform-bloom-secures-376m-series-a-led-by-credo-and-fortress/)
 - [Indigov lands more funding to connect besieged lawmakers and their oft-frustrated constituents](https://techcrunch.com/2022/05/25/indigov-helps-connect-besieged-lawmakers-and-their-oft-frustrated-constituents/)
 - [Unacademy tells employees to focus on profitability at all costs to ‘survive the winter’](https://techcrunch.com/2022/05/25/unacademy-tells-employees-to-focus-on-profitability-at-all-costs-to-survive-the-winter/)
 - [Touchdown! Boeing&#39;s Starliner returns to Earth from space station](https://www.space.com/boeing-starliner-oft-2-landing-success/)
-- [Starliner returns to Earth after a successful first trip to ISS](https://techcrunch.com/2022/05/25/starliner-returns-to-earth-after-a-successful-first-trip-to-iss/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
