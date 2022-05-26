@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Asteroid-mining startup AstroForge raises $13 million, books launch for test mission](https://www.space.com/asteroid-mining-startup-astroforge-2023-launch/)
-- [Watch the moon and Venus snuggle up together in a live webcast](https://www.space.com/venus-moon-conjunction-may-2022-webcast/)
-- [NASA-funded CAPSTONE moon mission seeks to go where no cubesat has gone before](https://www.space.com/capstone-cubesat-moon-mission-goals/)
-- [NASA praises Boeing&#39;s &#39;picture-perfect&#39; Starliner mission](https://www.space.com/nasa-praises-boeing-starliner-oft-2-mission/)
-- [Joby Aviation secures certificate to operate commercial air taxis](https://techcrunch.com/2022/05/26/joby-aviation-secures-certificate-to-operate-commercial-air-taxis/)
+- [UK finally opens antitrust probe of Google’s role in the adtech stack](https://techcrunch.com/2022/05/26/google-adtech-antitrust-cma-uk/)
+- [Save $150 on the HP Reverb G2 VR headset in this Memorial Day deal](https://www.space.com/memorial-day-2022-sale-hp-reverb-vr-headset-save-150-dollars/)
+- [Bowery opens a new vertical farm in Pennsylvania](https://techcrunch.com/2022/05/26/bowery-opens-its-largest-vertical-farm-to-date-in-pennsylvania/)
+- [Viola Credit closes $700M fund to provide asset-based lending FinTech startups](https://techcrunch.com/2022/05/26/viola-credit-closes-700m-fund-to-provide-asset-based-lending-fintech-startups/)
+- [On This Day In Space: May 26, 1983: Europe launches EXOSAT X-Ray Telescope](https://www.space.com/39251-on-this-day-in-space.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
