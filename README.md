@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Indigov helps connect besieged lawmakers and their oft-frustrated constituents](https://techcrunch.com/2022/05/25/indigov-helps-connect-besieged-lawmakers-and-their-oft-frustrated-constituents/)
+- [Unacademy tells employees to focus on profitability at all costs to ‘survive the winter’](https://techcrunch.com/2022/05/25/unacademy-tells-employees-to-focus-on-profitability-at-all-costs-to-survive-the-winter/)
+- [Touchdown! Boeing&#39;s Starliner returns to Earth from space station](https://www.space.com/boeing-starliner-oft-2-landing-success/)
 - [Starliner returns to Earth after a successful first trip to ISS](https://techcrunch.com/2022/05/25/starliner-returns-to-earth-after-a-successful-first-trip-to-iss/)
 - [Twitter agrees to pay $150M for breaking privacy promises](https://techcrunch.com/2022/05/25/twitter-agrees-to-pay-150m-for-breaking-privacy-promises/)
-- [Twitter stock jumps on news that Elon Musk still wants to buy it … maybe](https://techcrunch.com/2022/05/25/twitter-stock-jumps-on-news-that-elon-musk-still-wants-to-buy-it-maybe/)
-- [Daily Crunch:  a16z literally doubles down, announces $4.5B Crypto Fund IV](https://techcrunch.com/2022/05/25/daily-crunch-a16z-literally-doubles-down-announces-4-5b-crypto-fund-iv/)
-- [Boeing Starliner Orbital Flight Test 2: Live updates](https://www.space.com/news/live/boeing-starliner-oft-2-live-updates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
