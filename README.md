@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Roofstock founder closes on $90M fund to back early-stage proptech startups](https://techcrunch.com/2022/05/26/roofstock-founder-closes-on-90m-venture-fund-to-back-early-stage-proptech-startups/)
+- [Star Wars Celebration 2022: Everything you need to know and how to watch online](https://www.space.com/star-wars-celebration-2022-guide/)
+- [Gucci x Oura launch a $950 smart ring to help you discover yourself](https://techcrunch.com/2022/05/26/gucci-x-oura-launch-an-1100-smart-ring-to-help-you-discover-yourself/)
 - [Customer support management platform Assembled lands $51M](https://techcrunch.com/2022/05/26/customer-support-management-platform-assembled-lands-51m/)
 - [Manta, a data observability startup, raises $35M to grow its workforce](https://techcrunch.com/2022/05/26/manta-a-data-observability-startup-raises-35m-to-grow-its-workforce/)
-- [It’s official: Broadcom to acquire VMware in massive $61B deal](https://techcrunch.com/2022/05/26/broadcom-to-acquire-vmware-in-massive-61b-deal/)
-- [Coronal mass ejections: What are they and how do they form?](https://www.space.com/coronal-mass-ejections-cme/)
-- [UK finally opens antitrust probe of Google’s role in the adtech stack](https://techcrunch.com/2022/05/26/google-adtech-antitrust-cma-uk/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
