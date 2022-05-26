@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pitch Deck Teardown: Lumigo’s $29M Series A deck](https://techcrunch.com/2022/05/26/sample-series-a-pitch-deck-lumigo/)
+- [High school students used a tiny computer to measure Earth&#39;s magnetic field from space](https://www.space.com/students-measure-earth-magnetic-field-from-space/)
+- [To fully embrace product-led growth, build a strong product ops team](https://techcrunch.com/2022/05/26/to-fully-embrace-product-led-growth-build-a-strong-product-ops-team/)
+- [VCs will discuss how to find funding when you’re not in a major tech hub at TC Disrupt](https://techcrunch.com/2022/05/26/vcs-will-discuss-how-to-find-funding-when-youre-not-in-a-major-tech-hub-at-tc-disrupt/)
 - [Future moon astronauts using water ice may rely on ancient lunar volcanoes](https://www.space.com/moon-volcanoes-formed-underground-water-ice/)
-- [Webb’s Quest for Primeval Black Holes](https://blogs.nasa.gov/webb/2022/05/26/webbs-quest-for-primeval-black-holes/)
-- [Elon Musk endorses tight background checks on gun buyers: report](https://www.space.com/elon-musk-tight-background-checks-guns/)
-- [NASA&#39;s metal asteroid mission&#39;s launch delayed 7 weeks by software glitch](https://www.space.com/nasa-psyche-asteroid-mission-delay-software-glitch/)
-- [Meta consolidates its privacy policy to appease regulators](https://techcrunch.com/2022/05/26/meta-new-privacy-policy-tos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
