@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s metal asteroid mission&#39;s launch delayed 7 weeks by software glitch](https://www.space.com/nasa-psyche-asteroid-mission-delay-software-glitch/)
+- [Epic Games points to Mac’s openness and security in its latest filing in App Store antitrust case](https://techcrunch.com/2022/05/26/epic-games-points-to-macs-openness-and-security-in-its-latest-filing-in-app-store-antitrust-case/)
+- [Meta consolidates its privacy policy to appease regulators](https://techcrunch.com/2022/05/26/meta-new-privacy-policy-tos/)
 - [Perhaps faster delivery times were a poor choice from a unit-economics perspective](https://techcrunch.com/2022/05/26/perhaps-faster-delivery-times-were-a-poor-choice-from-a-unit-economics-perspective/)
 - [Humans could become a truly interplanetary species within 200 years, physicists claim](https://www.space.com/humans-interplanetary-200-years/)
-- [TikTok partners with Hootsuite, Sprinklr, Emplifi and more to make it easier for brands to reach users](https://techcrunch.com/2022/05/26/tiktok-partners-hootsuite-sprinklr-emplifi/)
-- [Luminar hires execs from Apple, NVIDIA, and Tesla](https://techcrunch.com/2022/05/26/luminar-hires-execs-from-apple-nvidia-and-tesla/)
-- [Friendly Apps raises $3 million, pre-product, for apps that improve people’s well-being](https://techcrunch.com/2022/05/26/michael-sayman-friendly-apps-raises-3-million-for-apps-that-improve-peoples-mental-health-and-physical-well-being/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
