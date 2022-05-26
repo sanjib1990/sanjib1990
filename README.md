@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [With the pandemic leaving many searching, group support app Circles raises new round](https://techcrunch.com/2022/05/26/with-the-pandemic-leaving-many-searching-group-support-app-circles-raises-new-round/)
-- [Former Binance executives launch $100M crypto fund](https://techcrunch.com/2022/05/26/former-binance-executives-launch-100m-crypto-fund/)
-- [Revenue-based financing platform Bloom secures $377M Series A led by Credo and Fortress](https://techcrunch.com/2022/05/26/revenue-based-financing-platform-bloom-secures-376m-series-a-led-by-credo-and-fortress/)
-- [Indigov lands more funding to connect besieged lawmakers and their oft-frustrated constituents](https://techcrunch.com/2022/05/25/indigov-helps-connect-besieged-lawmakers-and-their-oft-frustrated-constituents/)
-- [Unacademy tells employees to focus on profitability at all costs to ‘survive the winter’](https://techcrunch.com/2022/05/25/unacademy-tells-employees-to-focus-on-profitability-at-all-costs-to-survive-the-winter/)
+- [Asteroid-mining startup AstroForge raises $13 million, books launch for test mission](https://www.space.com/asteroid-mining-startup-astroforge-2023-launch/)
+- [Watch the moon and Venus snuggle up together in a live webcast](https://www.space.com/venus-moon-conjunction-may-2022-webcast/)
+- [NASA-funded CAPSTONE moon mission seeks to go where no cubesat has gone before](https://www.space.com/capstone-cubesat-moon-mission-goals/)
+- [NASA praises Boeing&#39;s &#39;picture-perfect&#39; Starliner mission](https://www.space.com/nasa-praises-boeing-starliner-oft-2-mission/)
+- [Joby Aviation secures certificate to operate commercial air taxis](https://techcrunch.com/2022/05/26/joby-aviation-secures-certificate-to-operate-commercial-air-taxis/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
