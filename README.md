@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Foursquare founder banks funding for mystery 3D social network startup](https://techcrunch.com/2022/05/26/foursquare-founder-banks-funding-for-mystery-3d-social-network-startup/)
 - [Meta and Google’s Gradient back LatAm startup OlaClick](https://techcrunch.com/2022/05/26/meta-and-google-gradient-invest-latam-startup-olaclick/)
 - [A look at the nine teams that just presented at Pear’s latest demo day](https://techcrunch.com/2022/05/26/a-look-at-the-nine-teams-that-just-presented-at-pears-latest-demo-day/)
 - [Longtime Bitcoiner Dan Held says this ‘crypto winter’ won’t be as harsh as others](https://techcrunch.com/2022/05/26/longtime-bitcoiner-dan-held-says-this-crypto-winter-wont-be-as-harsh-as-others/)
 - [Making room at the cap table: A new plan for promoting diversity in tech](https://techcrunch.com/2022/05/26/making-room-at-the-cap-table-a-new-plan-for-promoting-diversity-in-tech/)
+- [Disney+ releases trailer and premiere date for latest ‘Star Wars’ series ‘Andor,’ starring ‘Rogue One’ rebel hero](https://techcrunch.com/2022/05/26/disney-releases-trailer-and-premiere-date-for-latest-star-wars-series-andor-starring-rogue-one-rebel-hero/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
