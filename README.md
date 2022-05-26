@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Future moon astronauts using water ice may rely on ancient lunar volcanoes](https://www.space.com/moon-volcanoes-formed-underground-water-ice/)
+- [Webb’s Quest for Primeval Black Holes](https://blogs.nasa.gov/webb/2022/05/26/webbs-quest-for-primeval-black-holes/)
+- [Elon Musk endorses tight background checks on gun buyers: report](https://www.space.com/elon-musk-tight-background-checks-guns/)
 - [NASA&#39;s metal asteroid mission&#39;s launch delayed 7 weeks by software glitch](https://www.space.com/nasa-psyche-asteroid-mission-delay-software-glitch/)
-- [Epic Games points to Mac’s openness and security in its latest filing in App Store antitrust case](https://techcrunch.com/2022/05/26/epic-games-points-to-macs-openness-and-security-in-its-latest-filing-in-app-store-antitrust-case/)
 - [Meta consolidates its privacy policy to appease regulators](https://techcrunch.com/2022/05/26/meta-new-privacy-policy-tos/)
-- [Perhaps faster delivery times were a poor choice from a unit-economics perspective](https://techcrunch.com/2022/05/26/perhaps-faster-delivery-times-were-a-poor-choice-from-a-unit-economics-perspective/)
-- [Humans could become a truly interplanetary species within 200 years, physicists claim](https://www.space.com/humans-interplanetary-200-years/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
