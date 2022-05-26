@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Planet FWD secures $10M so consumer products industry can track carbon emissions](https://techcrunch.com/2022/05/26/planet-fwd-series-a-consumer-products-carbon-emissions/)
-- [New Zealand’s Humble Bee Bio is using bees to create bioplastics](https://techcrunch.com/2022/05/26/new-zealands-humble-bee-bio-is-using-bees-to-create-bioplastics/)
-- [Roofstock founder closes on $90M fund to back early-stage proptech startups](https://techcrunch.com/2022/05/26/roofstock-founder-closes-on-90m-venture-fund-to-back-early-stage-proptech-startups/)
-- [Star Wars Celebration 2022: Everything you need to know and how to watch online](https://www.space.com/star-wars-celebration-2022-guide/)
-- [Gucci x Oura launch a $950 smart ring to help you discover yourself](https://techcrunch.com/2022/05/26/gucci-x-oura-launch-an-1100-smart-ring-to-help-you-discover-yourself/)
+- [Perhaps faster delivery times were a poor choice from a unit-economics perspective](https://techcrunch.com/2022/05/26/perhaps-faster-delivery-times-were-a-poor-choice-from-a-unit-economics-perspective/)
+- [Humans could become a truly interplanetary species within 200 years, physicists claim](https://www.space.com/humans-interplanetary-200-years/)
+- [TikTok partners with Hootsuite, Sprinklr, Emplifi and more to make it easier for brands to reach users](https://techcrunch.com/2022/05/26/tiktok-partners-hootsuite-sprinklr-emplifi/)
+- [Luminar hires execs from Apple, NVIDIA, and Tesla](https://techcrunch.com/2022/05/26/luminar-hires-execs-from-apple-nvidia-and-tesla/)
+- [Friendly Apps raises $3 million, pre-product, for apps that improve people’s well-being](https://techcrunch.com/2022/05/26/michael-sayman-friendly-apps-raises-3-million-for-apps-that-improve-peoples-mental-health-and-physical-well-being/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
