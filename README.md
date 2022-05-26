@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Russia&#39;s invasion of Ukraine: Astronauts share their unique perspective](https://www.space.com/russia-ukraine-invasion-astronauts-perspective/)
+- [Does WeWork’s Adam Neumann really deserve his second chance?](https://techcrunch.com/2022/05/26/does-weworks-adam-neumann-really-deserve-his-second-chance/)
+- [Twitter investors sue Elon Musk over acquisition shenanigans](https://techcrunch.com/2022/05/26/elon-musk-twitter-lawsuit/)
 - [Cockroach-eaten Apollo 11 moon dust goes up for auction](https://www.space.com/apollo-11-moon-dust-cockroaches-auction/)
 - [Lab, crab and robotic rehab](https://techcrunch.com/2022/05/26/lab-crab-and-robotic-rehab/)
-- [Instagram is currently down for some users](https://techcrunch.com/2022/05/26/instagram-down-for-some-users/)
-- [NASA chief Bill Nelson urges action after &#39;heavy weight&#39; of recent mass shootings](https://www.space.com/nasa-bill-nelson-gun-control-mass-shootings/)
-- [Pitch Deck Teardown: Lumigo’s $29M Series A deck](https://techcrunch.com/2022/05/26/sample-series-a-pitch-deck-lumigo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
