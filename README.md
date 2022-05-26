@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Customer support management platform Assembled lands $51M](https://techcrunch.com/2022/05/26/customer-support-management-platform-assembled-lands-51m/)
+- [Manta, a data observability startup, raises $35M to grow its workforce](https://techcrunch.com/2022/05/26/manta-a-data-observability-startup-raises-35m-to-grow-its-workforce/)
+- [It’s official: Broadcom to acquire VMware in massive $61B deal](https://techcrunch.com/2022/05/26/broadcom-to-acquire-vmware-in-massive-61b-deal/)
+- [Coronal mass ejections: What are they and how do they form?](https://www.space.com/coronal-mass-ejections-cme/)
 - [UK finally opens antitrust probe of Google’s role in the adtech stack](https://techcrunch.com/2022/05/26/google-adtech-antitrust-cma-uk/)
-- [Save $150 on the HP Reverb G2 VR headset in this Memorial Day deal](https://www.space.com/memorial-day-2022-sale-hp-reverb-vr-headset-save-150-dollars/)
-- [Bowery opens a new vertical farm in Pennsylvania](https://techcrunch.com/2022/05/26/bowery-opens-its-largest-vertical-farm-to-date-in-pennsylvania/)
-- [Viola Credit closes $700M fund to provide asset-based lending FinTech startups](https://techcrunch.com/2022/05/26/viola-credit-closes-700m-fund-to-provide-asset-based-lending-fintech-startups/)
-- [On This Day In Space: May 26, 1983: Europe launches EXOSAT X-Ray Telescope](https://www.space.com/39251-on-this-day-in-space.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
