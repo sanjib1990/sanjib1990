@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Longtime Bitcoiner Dan Held says this ‘crypto winter’ won’t be as harsh as others](https://techcrunch.com/2022/05/26/longtime-bitcoiner-dan-held-says-this-crypto-winter-wont-be-as-harsh-as-others/)
+- [Making room at the cap table: A new plan for promoting diversity in tech](https://techcrunch.com/2022/05/26/making-room-at-the-cap-table-a-new-plan-for-promoting-diversity-in-tech/)
+- [Disney+ releases trailer and premiere date for latest ‘Star Wars’ series ‘Andor,’ starring ‘Rogue One’ rebel hero](https://techcrunch.com/2022/05/26/disney-releases-trailer-and-premiere-date-for-latest-star-wars-series-andor-starring-rogue-one-rebel-hero/)
 - [Russia&#39;s invasion of Ukraine: Astronauts share their unique perspective](https://www.space.com/russia-ukraine-invasion-astronauts-perspective/)
 - [Does WeWork’s Adam Neumann really deserve his second chance?](https://techcrunch.com/2022/05/26/does-weworks-adam-neumann-really-deserve-his-second-chance/)
-- [Twitter investors sue Elon Musk over acquisition shenanigans](https://techcrunch.com/2022/05/26/elon-musk-twitter-lawsuit/)
-- [Cockroach-eaten Apollo 11 moon dust goes up for auction](https://www.space.com/apollo-11-moon-dust-cockroaches-auction/)
-- [Lab, crab and robotic rehab](https://techcrunch.com/2022/05/26/lab-crab-and-robotic-rehab/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
