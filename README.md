@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [As crypto becomes more mainstream, can it stay decentralized?](https://techcrunch.com/2022/05/27/as-crypto-becomes-more-mainstream-can-it-stay-decentralized/)
+- [Elon Musk says Starlink has been approved in Nigeria and Mozambique](https://techcrunch.com/2022/05/27/elon-musk-says-starlink-has-been-approved-in-nigeria-and-mozambique/)
+- [Save up to 30% on Estes model rockets with these early Memorial Day deals](https://www.space.com/save-30-percent-in-early-memorial-day-estes-rocket-deals-at-amazon/)
+- [4 questions to ask before building a computer vision model](https://techcrunch.com/2022/05/27/4-questions-to-ask-before-building-a-computer-vision-model/)
 - [Steal this hot new summer look &lpar;it’s bacteria&rpar;](https://techcrunch.com/2022/05/27/colorifix-dye-textile-bacteria-22-million-h-m/)
-- [Diesel is a horrible thing for an economy to depend on](https://techcrunch.com/2022/05/27/diesel-is-a-horrible-thing-for-an-economy-to-depend-on/)
-- [TechCrunch+ roundup: Cannabis investor survey, product ops, recurring revenue financing](https://techcrunch.com/2022/05/27/techcrunch-roundup-cannabis-investor-survey-product-ops-recurring-revenue-financing/)
-- [Found celebrates one year by bringing on four founders in a roundtable episode](https://techcrunch.com/2022/05/27/found-celebrates-one-year-by-bringing-on-four-founders-in-a-roundtable-episode/)
-- [Tesla won’t set up manufacturing plant in India until allowed to first sell and service cars, Elon Musk says](https://techcrunch.com/2022/05/27/tesla-wont-set-up-manufacturing-plant-in-india-until-allowed-to-first-sell-and-service-cars-elon-musk-says/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
