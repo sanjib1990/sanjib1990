@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [FlexID gets Algorand funding to offer self-sovereign IDs to Africa’s unbanked](https://techcrunch.com/2022/05/26/zimbabwe-flexid-algorand-funding-decentralized-identity/)
 - [Report: Substack, the highly hyped newsletter platform, has ditched plans for a Series C](https://techcrunch.com/2022/05/26/report-substack-the-highly-hyped-newsletter-platform-has-ditched-plans-for-a-series-c/)
 - [After buying Bungie, Sony goes all in on live service games](https://techcrunch.com/2022/05/26/sony-live-service-bungie-destiny/)
 - [Watch the 1st trailer for &#39;Andor&#39; on Disney Plus from Star Wars Celebration 2022!](https://www.space.com/andor-star-wars-teaser-trailer-disney-plus/)
 - [Canon takes another stab at the mirrorless market, with R7 and R10](https://techcrunch.com/2022/05/26/canon-r7-and-r10/)
-- [Daily Crunch: In one of the largest tech deals ever struck, Broadcom will buy VMware for $61B](https://techcrunch.com/2022/05/26/daily-crunch-broadcom-will-buy-vmware-for-61b/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
