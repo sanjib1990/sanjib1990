@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [South Pole aurora dances around total lunar eclipse in stunning astronomer photo](https://www.space.com/lunar-eclipse-aurora-above-south-pole-telescope/)
-- [Lidar exposes the remnants of an overgrown ancient civilization in the Amazon](https://techcrunch.com/2022/05/27/lidar-exposes-the-remnants-of-an-overgrown-ancient-civilization-in-the-amazon/)
-- [As crypto becomes more mainstream, can it stay decentralized?](https://techcrunch.com/2022/05/27/as-crypto-becomes-more-mainstream-can-it-stay-decentralized/)
-- [Elon Musk says Starlink has been approved in Nigeria and Mozambique](https://techcrunch.com/2022/05/27/elon-musk-says-starlink-has-been-approved-in-nigeria-and-mozambique/)
-- [Save up to 30% on Estes model rockets with these early Memorial Day deals](https://www.space.com/save-30-percent-in-early-memorial-day-estes-rocket-deals-at-amazon/)
+- [Daily Crunch: With Bungie under its wing, Sony plans to invest half of its PlayStation Studios development budget on live service games this year](https://techcrunch.com/2022/05/27/daily-crunch-with-bungie-under-its-wing-sony-plans-to-invest-half-of-its-playstation-studios-development-budget-on-live-service-games-this-year/)
+- [Scientists eager for possible debut of new meteor shower this weekend](https://www.space.com/new-meteor-shower-debut-astronomers-eager/)
+- [The greatest meteor storms of all time](https://www.space.com/greatest-meteor-storms-in-history/)
+- [Tech layoffs top 15K in a brutal May](https://techcrunch.com/2022/05/27/tech-layoffs-top-15k-employees-in-a-brutal-may/)
+- [Marvel reveals 2 new &#39;Star Wars: The High Republic&#39; comic series at Star Wars Celebration 2022](https://www.space.com/star-wars-the-high-republic-marvel-comics-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
