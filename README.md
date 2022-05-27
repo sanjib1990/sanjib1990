@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch Podcasts this week: Scaling web3, bulls and bears, falling tech valuations, and UFOs](https://techcrunch.com/2022/05/27/techcrunch-podcasts-this-week-scaling-web3-bulls-and-bears-falling-tech-valuations-and-ufos/)
+- [A ping-pong match between bulls and bears](https://techcrunch.com/2022/05/27/bull-market-bear-market-2022/)
 - [DJI Mini 3 Pro review](https://www.space.com/dji-mini-3-pro-review/)
 - [Obi Wan Kenobi streaming guide: Episode release dates, plot, trailers and more](https://www.space.com/obi-wan-kenobi-streaming-guide/)
 - [Sunspots: What are they, and why do they occur?](https://www.space.com/sunspots-formation-discovery-observations/)
-- [On This Day In Space: May 27, 2009: Expedition 20 doubles space station&#39;s crew size](https://www.space.com/39251-on-this-day-in-space.html/)
-- [&#39;Obi-Wan Kenobi&#39; comes to Disney Plus today as the legendary Jedi faces the Inquisitors](https://www.space.com/star-wars-obi-wan-kenobi-series-disney-plus-debut/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
