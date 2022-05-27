@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla won’t set up manufacturing plant in India until allowed to first sell and service cars, Elon Musk says](https://techcrunch.com/2022/05/27/tesla-wont-set-up-manufacturing-plant-in-india-until-allowed-to-first-sell-and-service-cars-elon-musk-says/)
+- [Imagining early Earth as an exoplanet can help us search for alien life, scientists say](https://www.space.com/early-earth-exoplanet-alien-life/)
+- [New Mars study traces erosion history on the Red Planet in search for water](https://www.space.com/mars-erosion-water-history-study/)
 - [NASA denies claim of dangerous heat shield issue during SpaceX&#39;s Ax-1 mission](https://www.space.com/nasa-denies-problem-spacex-ax-1-mission/)
 - [Mile-wide asteroid 7335 &lpar;1989 JA&rpar;, the largest yet of 2022, flies safely by Earth](https://www.space.com/mile-wide-asteroid-flyby-earth-may-2022/)
-- [NJ talent firm exposed thousands of resumes, detailing immigration statuses and security clearances](https://techcrunch.com/2022/05/27/voto-resumes-clearances-exposed/)
-- [Rivian hires a new COO amid other leadership and organizational shifts](https://techcrunch.com/2022/05/27/rivian-hires-a-new-coo-amid-other-leadership-and-organizational-shifts/)
-- [Snapchat rolls out new ‘Shared Stories’ feature to make it easier to share memories](https://techcrunch.com/2022/05/27/snapchat-shared-stories-feature/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
