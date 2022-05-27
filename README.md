@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta and Google’s Gradient back LatAm startup OlaClick](https://techcrunch.com/2022/05/26/meta-and-google-gradient-invest-latam-startup-olaclick/)
-- [A look at the nine teams that just presented at Pear’s latest demo day](https://techcrunch.com/2022/05/26/a-look-at-the-nine-teams-that-just-presented-at-pears-latest-demo-day/)
-- [Longtime Bitcoiner Dan Held says this ‘crypto winter’ won’t be as harsh as others](https://techcrunch.com/2022/05/26/longtime-bitcoiner-dan-held-says-this-crypto-winter-wont-be-as-harsh-as-others/)
-- [Making room at the cap table: A new plan for promoting diversity in tech](https://techcrunch.com/2022/05/26/making-room-at-the-cap-table-a-new-plan-for-promoting-diversity-in-tech/)
-- [Disney+ releases trailer and premiere date for latest ‘Star Wars’ series ‘Andor,’ starring ‘Rogue One’ rebel hero](https://techcrunch.com/2022/05/26/disney-releases-trailer-and-premiere-date-for-latest-star-wars-series-andor-starring-rogue-one-rebel-hero/)
+- [Report: Substack, the highly hyped newsletter platform, has ditched plans for a Series C](https://techcrunch.com/2022/05/26/report-substack-the-highly-hyped-newsletter-platform-has-ditched-plans-for-a-series-c/)
+- [After buying Bungie, Sony goes all in on live service games](https://techcrunch.com/2022/05/26/sony-live-service-bungie-destiny/)
+- [Watch the 1st trailer for &#39;Andor&#39; on Disney Plus from Star Wars Celebration 2022!](https://www.space.com/andor-star-wars-teaser-trailer-disney-plus/)
+- [Canon takes another stab at the mirrorless market, with R7 and R10](https://techcrunch.com/2022/05/26/canon-r7-and-r10/)
+- [Daily Crunch: In one of the largest tech deals ever struck, Broadcom will buy VMware for $61B](https://techcrunch.com/2022/05/26/daily-crunch-broadcom-will-buy-vmware-for-61b/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
