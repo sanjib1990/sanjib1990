@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [WICKED fast HACKING!! &lpar;7 Linux Terminal Tips you didn&#39;t know&rpar; // LFH EP 9](https://www.youtube.com/watch?v=ACM36qtHIEg)
 - [Why Information Theory is Important - Computerphile](https://www.youtube.com/watch?v=b6VdGHSV6qg)
 - [LLVM in 100 Seconds](https://www.youtube.com/watch?v=BT2Cv-Tjq7Q)
 - [i bet you can&#39;t do this &lpar;because you still suck at subnetting&rpar;](https://www.youtube.com/watch?v=2-i5x8KCfII)
 - [AI 101 with Brandon Leshchinskiy](https://www.youtube.com/watch?v=KsHOdr5UYZ0)
-- [10 Programmer Stereotypes](https://www.youtube.com/watch?v=_k-F-MMvQV4)
 <!-- YOUTUBE:END -->
 
 ---
