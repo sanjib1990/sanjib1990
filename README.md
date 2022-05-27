@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Steal this hot new summer look &lpar;it’s bacteria&rpar;](https://techcrunch.com/2022/05/27/colorifix-dye-textile-bacteria-22-million-h-m/)
+- [Diesel is a horrible thing for an economy to depend on](https://techcrunch.com/2022/05/27/diesel-is-a-horrible-thing-for-an-economy-to-depend-on/)
+- [TechCrunch+ roundup: Cannabis investor survey, product ops, recurring revenue financing](https://techcrunch.com/2022/05/27/techcrunch-roundup-cannabis-investor-survey-product-ops-recurring-revenue-financing/)
+- [Found celebrates one year by bringing on four founders in a roundtable episode](https://techcrunch.com/2022/05/27/found-celebrates-one-year-by-bringing-on-four-founders-in-a-roundtable-episode/)
 - [Tesla won’t set up manufacturing plant in India until allowed to first sell and service cars, Elon Musk says](https://techcrunch.com/2022/05/27/tesla-wont-set-up-manufacturing-plant-in-india-until-allowed-to-first-sell-and-service-cars-elon-musk-says/)
-- [Imagining early Earth as an exoplanet can help us search for alien life, scientists say](https://www.space.com/early-earth-exoplanet-alien-life/)
-- [New Mars study traces erosion history on the Red Planet in search for water](https://www.space.com/mars-erosion-water-history-study/)
-- [NASA denies claim of dangerous heat shield issue during SpaceX&#39;s Ax-1 mission](https://www.space.com/nasa-denies-problem-spacex-ax-1-mission/)
-- [Mile-wide asteroid 7335 &lpar;1989 JA&rpar;, the largest yet of 2022, flies safely by Earth](https://www.space.com/mile-wide-asteroid-flyby-earth-may-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
