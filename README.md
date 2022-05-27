@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [On This Day In Space: May 27, 2009: Expedition 20 doubles space station&#39;s crew size](https://www.space.com/39251-on-this-day-in-space.html/)
 - [Joywell Foods raises $25M to bring sweet proteins to market](https://techcrunch.com/2022/05/27/joywell-foods-raises-25m-to-bring-sweet-proteins-to-market/)
 - [&#39;Obi-Wan Kenobi&#39; comes to Disney Plus today as the legendary Jedi faces the Inquisitors](https://www.space.com/star-wars-obi-wan-kenobi-series-disney-plus-debut/)
 - [You can watch a huge, mile-wide asteroid fly safely by Earth today](https://www.space.com/asteroid-1989-ja-flyby-webcast/)
 - [Mars dust storm mysteries remain as scientists study the Red Planet](https://www.space.com/mars-dust-storms-science-mysteries/)
-- [Soar over Mars rover tracks with Ingenuity helicopter &lpar;video&rpar;](https://www.space.com/mars-helicopter-ingenuity-perseverance-rover-tracks-video/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
