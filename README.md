@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DJI Mini 3 Pro review](https://www.space.com/dji-mini-3-pro-review/)
 - [Obi Wan Kenobi streaming guide: Episode release dates, plot, trailers and more](https://www.space.com/obi-wan-kenobi-streaming-guide/)
 - [Sunspots: What are they, and why do they occur?](https://www.space.com/sunspots-formation-discovery-observations/)
-- [Manish Maheshwari, former Twitter India head, leaves new startup](https://techcrunch.com/2022/05/27/manish-maheshwari-former-twitter-india-head-is-already-leaving-new-startup-he-co-founded/)
 - [On This Day In Space: May 27, 2009: Expedition 20 doubles space station&#39;s crew size](https://www.space.com/39251-on-this-day-in-space.html/)
-- [Joywell Foods raises $25M to bring sweet proteins to market](https://techcrunch.com/2022/05/27/joywell-foods-raises-25m-to-bring-sweet-proteins-to-market/)
+- [&#39;Obi-Wan Kenobi&#39; comes to Disney Plus today as the legendary Jedi faces the Inquisitors](https://www.space.com/star-wars-obi-wan-kenobi-series-disney-plus-debut/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
