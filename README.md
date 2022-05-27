@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TechCrunch Podcasts this week: Scaling web3, bulls and bears, falling tech valuations, and UFOs](https://techcrunch.com/2022/05/27/techcrunch-podcasts-this-week-scaling-web3-bulls-and-bears-falling-tech-valuations-and-ufos/)
-- [A ping-pong match between bulls and bears](https://techcrunch.com/2022/05/27/bull-market-bear-market-2022/)
-- [DJI Mini 3 Pro review](https://www.space.com/dji-mini-3-pro-review/)
-- [Obi Wan Kenobi streaming guide: Episode release dates, plot, trailers and more](https://www.space.com/obi-wan-kenobi-streaming-guide/)
-- [Sunspots: What are they, and why do they occur?](https://www.space.com/sunspots-formation-discovery-observations/)
+- [NASA denies claim of dangerous heat shield issue during SpaceX&#39;s Ax-1 mission](https://www.space.com/nasa-denies-problem-spacex-ax-1-mission/)
+- [Mile-wide asteroid 7335 &lpar;1989 JA&rpar;, the largest yet of 2022, flies safely by Earth](https://www.space.com/mile-wide-asteroid-flyby-earth-may-2022/)
+- [NJ talent firm exposed thousands of resumes, detailing immigration statuses and security clearances](https://techcrunch.com/2022/05/27/voto-resumes-clearances-exposed/)
+- [Rivian hires a new COO amid other leadership and organizational shifts](https://techcrunch.com/2022/05/27/rivian-hires-a-new-coo-amid-other-leadership-and-organizational-shifts/)
+- [Snapchat rolls out new ‘Shared Stories’ feature to make it easier to share memories](https://techcrunch.com/2022/05/27/snapchat-shared-stories-feature/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
