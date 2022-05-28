@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hydrogen startup ZeroAvia has a zero-emission vision, but its next plane is a hybrid](https://techcrunch.com/2022/05/28/hydrogen-startup-zeroavia-has-a-zero-emission-vision-but-its-next-plane-is-a-hybrid/)
+- [Samsung reportedly cutting smartphone production by 30M](https://techcrunch.com/2022/05/28/samsung-reportedly-cutting-smartphone-production-by-30m/)
+- [The week Jack stepped back](https://techcrunch.com/2022/05/28/the-week-jack-stepped-back/)
 - [This Week in Apps: Mobile gaming’s market share hit, web3 app growth, Niantic’s new AR tools](https://techcrunch.com/2022/05/28/this-week-in-apps-mobile-gamings-marketshare-hit-web3-app-growth-niantics-new-ar-tools/)
 - [Footnotes on Sequoia’s startup memo](https://techcrunch.com/2022/05/28/footnotes-on-sequoias-startup-memo/)
-- [The TechCrunch Podcast: Why do people keep giving Adam Neumann money?](https://techcrunch.com/2022/05/28/the-techcrunch-podcast-why-do-people-keep-giving-adam-neumann-money/)
-- [Cannabis, sex tech and psychedelics startups deserve more than stigma](https://techcrunch.com/2022/05/28/cannabis-sex-tech-and-psychedelics-startups-deserve-more-than-stigma/)
-- [Why Convoy’s Dan Lewis expects digital freight to go mainstream within the year](https://techcrunch.com/2022/05/28/convoys-dan-lewis-on-why-digital-freight-will-go-mainstream-in-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
