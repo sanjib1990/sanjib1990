@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Coinbase is testing a real-time employee feedback system. It sounds rough.](https://techcrunch.com/2022/05/28/coinbase-real-time-feedback-dot-collector-ray-dalio/)
 - [A navigation glitch on NASA&#39;s Mars orbiter MAVEN has stalled its science work](https://www.space.com/mars-maven-orbiter-glitch-stalls-science/)
 - [&#39;Blade Runner&#39; meets &#39;Rocky&#39; in new comic series &#39;Metal Society&#39; from Image and Top Cow](https://www.space.com/metal-society-sci-fi-robot-boxing-comic-series/)
 - [This Week In Space podcast: Episode 13 — Landing on Luna](https://www.space.com/this-week-in-space-podcast-twit/)
 - [Star Wars Celebration 2022: Jude Law aims for outer space in &#39;Star Wars: Skeleton Crew&#39;](https://www.space.com/star-wars-skeleton-crew-jude-law/)
-- [Watch the Mars helicopter Ingenuity take a record-breaking flight in daring NASA video](https://www.space.com/mars-helicopter-ingenuity-record-breaking-flight-video/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
