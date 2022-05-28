@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Week in Apps: Mobile gaming’s market share hit, web3 app growth, Niantic’s new AR tools](https://techcrunch.com/2022/05/28/this-week-in-apps-mobile-gamings-marketshare-hit-web3-app-growth-niantics-new-ar-tools/)
 - [Footnotes on Sequoia’s startup memo](https://techcrunch.com/2022/05/28/footnotes-on-sequoias-startup-memo/)
 - [The TechCrunch Podcast: Why do people keep giving Adam Neumann money?](https://techcrunch.com/2022/05/28/the-techcrunch-podcast-why-do-people-keep-giving-adam-neumann-money/)
 - [Cannabis, sex tech and psychedelics startups deserve more than stigma](https://techcrunch.com/2022/05/28/cannabis-sex-tech-and-psychedelics-startups-deserve-more-than-stigma/)
 - [Why Convoy’s Dan Lewis expects digital freight to go mainstream within the year](https://techcrunch.com/2022/05/28/convoys-dan-lewis-on-why-digital-freight-will-go-mainstream-in-2022/)
-- [Coinbase is testing a real-time employee feedback system. It sounds rough.](https://techcrunch.com/2022/05/28/coinbase-real-time-feedback-dot-collector-ray-dalio/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
