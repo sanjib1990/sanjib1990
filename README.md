@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cannabis, sex tech and psychedelics startups deserve more than stigma](https://techcrunch.com/2022/05/28/cannabis-sex-tech-and-psychedelics-startups-deserve-more-than-stigma/)
+- [Why Convoy’s Dan Lewis expects digital freight to go mainstream within the year](https://techcrunch.com/2022/05/28/convoys-dan-lewis-on-why-digital-freight-will-go-mainstream-in-2022/)
 - [Coinbase is testing a real-time employee feedback system. It sounds rough.](https://techcrunch.com/2022/05/28/coinbase-real-time-feedback-dot-collector-ray-dalio/)
 - [A navigation glitch on NASA&#39;s Mars orbiter MAVEN has stalled its science work](https://www.space.com/mars-maven-orbiter-glitch-stalls-science/)
 - [&#39;Blade Runner&#39; meets &#39;Rocky&#39; in new comic series &#39;Metal Society&#39; from Image and Top Cow](https://www.space.com/metal-society-sci-fi-robot-boxing-comic-series/)
-- [This Week In Space podcast: Episode 13 — Landing on Luna](https://www.space.com/this-week-in-space-podcast-twit/)
-- [Star Wars Celebration 2022: Jude Law aims for outer space in &#39;Star Wars: Skeleton Crew&#39;](https://www.space.com/star-wars-skeleton-crew-jude-law/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
