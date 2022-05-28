@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Blade Runner&#39; meets &#39;Rocky&#39; in new comic series &#39;Metal Society&#39; from Image and Top Cow](https://www.space.com/metal-society-sci-fi-robot-boxing-comic-series/)
 - [This Week In Space podcast: Episode 13 — Landing on Luna](https://www.space.com/this-week-in-space-podcast-twit/)
 - [Star Wars Celebration 2022: Jude Law aims for outer space in &#39;Star Wars: Skeleton Crew&#39;](https://www.space.com/star-wars-skeleton-crew-jude-law/)
 - [Watch the Mars helicopter Ingenuity take a record-breaking flight in daring NASA video](https://www.space.com/mars-helicopter-ingenuity-record-breaking-flight-video/)
 - [See Mars and Jupiter shine super-close in the predawn sky this Memorial Day weekend](https://www.space.com/mars-jupiter-super-close-predawn-sky-may-2022/)
-- [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
