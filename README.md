@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Sequoia is the latest VC firm telling you to take the downturn seriously](https://techcrunch.com/2022/05/28/sequoias-52-slide-deck-about-this-crucible-moment-in-tech/)
-- [Fragments of a dying comet might put on a spectacular show — or pass by without a trace](https://www.space.com/fragments-dying-comet-potential-meteor-shower/)
-- [What is reality, really? Brian Cox&#39;s &#39;Horizons&#39; tour probes the mysteries of the universe](https://www.space.com/brian-cox-horizons-tour-interview/)
-- [NASA targeting June 19 for crucial test of Artemis 1 moon rocket](https://www.space.com/nasa-artemis-1-moon-rocket-fueling-test-june-19/)
-- [Can Andreessen Horowitz prevent the next crypto winter?](https://techcrunch.com/2022/05/28/can-andreessen-horowitz-prevent-the-next-crypto-winter/)
+- [This Week In Space podcast: Episode 13 — Landing on Luna](https://www.space.com/this-week-in-space-podcast-twit/)
+- [Star Wars Celebration 2022: Jude Law aims for outer space in &#39;Star Wars: Skeleton Crew&#39;](https://www.space.com/star-wars-skeleton-crew-jude-law/)
+- [Watch the Mars helicopter Ingenuity take a record-breaking flight in daring NASA video](https://www.space.com/mars-helicopter-ingenuity-record-breaking-flight-video/)
+- [See Mars and Jupiter shine super-close in the predawn sky this Memorial Day weekend](https://www.space.com/mars-jupiter-super-close-predawn-sky-may-2022/)
+- [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
