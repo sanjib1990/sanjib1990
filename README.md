@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sequoia is the latest VC firm telling you to take the downturn seriously](https://techcrunch.com/2022/05/28/sequoias-52-slide-deck-about-this-crucible-moment-in-tech/)
 - [Fragments of a dying comet might put on a spectacular show — or pass by without a trace](https://www.space.com/fragments-dying-comet-potential-meteor-shower/)
 - [What is reality, really? Brian Cox&#39;s &#39;Horizons&#39; tour probes the mysteries of the universe](https://www.space.com/brian-cox-horizons-tour-interview/)
 - [NASA targeting June 19 for crucial test of Artemis 1 moon rocket](https://www.space.com/nasa-artemis-1-moon-rocket-fueling-test-june-19/)
 - [Can Andreessen Horowitz prevent the next crypto winter?](https://techcrunch.com/2022/05/28/can-andreessen-horowitz-prevent-the-next-crypto-winter/)
-- [Daily Crunch: With Bungie under its wing, Sony plans to invest half of its PlayStation Studios development budget on live service games this year](https://techcrunch.com/2022/05/27/daily-crunch-with-bungie-under-its-wing-sony-plans-to-invest-half-of-its-playstation-studios-development-budget-on-live-service-games-this-year/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
