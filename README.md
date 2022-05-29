@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How Box escaped the SaaS growth trap](https://techcrunch.com/2022/05/29/how-box-escaped-the-saas-growth-trap/)
+- [EV SPACs are facing a new regulatory speed bump](https://techcrunch.com/2022/05/29/electric-vehicle-maker-spacs-to-face-more-regulations/)
 - [US military wants to demonstrate new nuclear power systems in space by 2027](https://www.space.com/nuclear-power-propulsion-space-defense-innovation-unit-contracts/)
 - [First &#39;Manhattanhenge&#39; of 2022 will beam sunset between NYC buildings on Memorial Day weekend](https://www.space.com/manhattanhenge-nyc-2022-memorial-day-weekend/)
 - [A &#39;meteor storm&#39; of 1,000 shooting stars per hour may light up the skies over North America this week](https://www.space.com/potential-meteor-shower-may-30-31-2022/)
-- [On This Day In Space: May 29, 1919: Einstein&#39;s Theory of Relativity tested with total solar eclipse](https://www.space.com/39251-on-this-day-in-space.html/)
-- [Physicists predict Earth will become a chaotic world, with dire consequences](https://www.space.com/humanity-turns-earth-chaotic-climate-system/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
