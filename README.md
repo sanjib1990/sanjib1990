@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [1st look inside: NASA visitor complex to open &#39;Gateway&#39; to future of space travel](https://www.space.com/nasa-gateway-deep-space-complex-first-look/)
 - [Hydrogen startup ZeroAvia has a zero-emission vision, but its next plane is a hybrid](https://techcrunch.com/2022/05/28/hydrogen-startup-zeroavia-has-a-zero-emission-vision-but-its-next-plane-is-a-hybrid/)
 - [Samsung reportedly cutting smartphone production by 30M](https://techcrunch.com/2022/05/28/samsung-reportedly-cutting-smartphone-production-by-30m/)
 - [The week Jack stepped back](https://techcrunch.com/2022/05/28/the-week-jack-stepped-back/)
 - [This Week in Apps: Mobile gaming’s market share hit, web3 app growth, Niantic’s new AR tools](https://techcrunch.com/2022/05/28/this-week-in-apps-mobile-gamings-marketshare-hit-web3-app-growth-niantics-new-ar-tools/)
-- [Footnotes on Sequoia’s startup memo](https://techcrunch.com/2022/05/28/footnotes-on-sequoias-startup-memo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
