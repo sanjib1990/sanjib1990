@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX&#39;s Starship work in South Texas spurs lawsuit over Boca Chica beach access](https://www.space.com/spacex-starship-testing-boca-chica-beach-access-lawsuit/)
+- [Finix goes head-to-head with Stripe](https://techcrunch.com/2022/05/29/finix-goes-head-to-head-with-fintech-stripe/)
 - [How Box escaped the SaaS growth trap](https://techcrunch.com/2022/05/29/how-box-escaped-the-saas-growth-trap/)
 - [EV SPACs are facing a new regulatory speed bump](https://techcrunch.com/2022/05/29/electric-vehicle-maker-spacs-to-face-more-regulations/)
 - [US military wants to demonstrate new nuclear power systems in space by 2027](https://www.space.com/nuclear-power-propulsion-space-defense-innovation-unit-contracts/)
-- [First &#39;Manhattanhenge&#39; of 2022 will beam sunset between NYC buildings on Memorial Day weekend](https://www.space.com/manhattanhenge-nyc-2022-memorial-day-weekend/)
-- [A &#39;meteor storm&#39; of 1,000 shooting stars per hour may light up the skies over North America this week](https://www.space.com/potential-meteor-shower-may-30-31-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
