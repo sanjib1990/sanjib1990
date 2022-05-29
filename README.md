@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Should Oracle or Alphabet buy VMWare instead of Broadcom?](https://techcrunch.com/2022/05/29/should-oracle-or-alphabet-buy-vmware-instead-of-broadcom/)
+- [How to watch the potential tau Herculids meteor storm live online](https://www.space.com/meteor-storm-tau-herculids-shower-webcast/)
 - [SpaceX&#39;s Starship work in South Texas spurs lawsuit over Boca Chica beach access](https://www.space.com/spacex-starship-testing-boca-chica-beach-access-lawsuit/)
 - [Finix goes head-to-head with Stripe](https://techcrunch.com/2022/05/29/finix-goes-head-to-head-with-fintech-stripe/)
 - [How Box escaped the SaaS growth trap](https://techcrunch.com/2022/05/29/how-box-escaped-the-saas-growth-trap/)
-- [EV SPACs are facing a new regulatory speed bump](https://techcrunch.com/2022/05/29/electric-vehicle-maker-spacs-to-face-more-regulations/)
-- [US military wants to demonstrate new nuclear power systems in space by 2027](https://www.space.com/nuclear-power-propulsion-space-defense-innovation-unit-contracts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
