@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [US military wants to demonstrate new nuclear power systems in space by 2027](https://www.space.com/nuclear-power-propulsion-space-defense-innovation-unit-contracts/)
+- [First &#39;Manhattanhenge&#39; of 2022 will beam sunset between NYC buildings on Memorial Day weekend](https://www.space.com/manhattanhenge-nyc-2022-memorial-day-weekend/)
 - [A &#39;meteor storm&#39; of 1,000 shooting stars per hour may light up the skies over North America this week](https://www.space.com/potential-meteor-shower-may-30-31-2022/)
 - [On This Day In Space: May 29, 1919: Einstein&#39;s Theory of Relativity tested with total solar eclipse](https://www.space.com/39251-on-this-day-in-space.html/)
 - [Physicists predict Earth will become a chaotic world, with dire consequences](https://www.space.com/humanity-turns-earth-chaotic-climate-system/)
-- [Hubble telescope sees haunting galactic dance of 2 galaxies linked by the corpse of a cannibalized neighbor](https://www.space.com/hubble-telescope-galaxies-gravitation-dance-photo/)
-- [Hubble telescope spots stunning &#39;Hidden Galaxy&#39; hiding behind our own Milky Way](https://www.space.com/hubble-space-telescope-photo-hiding-galaxy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
