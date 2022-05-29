@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why web3 companies get hacked so often, according to crypto VC Grace Isford](https://techcrunch.com/2022/05/29/web3-hacks-crypto-vc-grace-isford-chain-reaction-podcast/)
 - [Should Oracle or Alphabet buy VMWare instead of Broadcom?](https://techcrunch.com/2022/05/29/should-oracle-or-alphabet-buy-vmware-instead-of-broadcom/)
 - [How to watch the potential tau Herculids meteor storm live online](https://www.space.com/meteor-storm-tau-herculids-shower-webcast/)
 - [SpaceX&#39;s Starship work in South Texas spurs lawsuit over Boca Chica beach access](https://www.space.com/spacex-starship-testing-boca-chica-beach-access-lawsuit/)
 - [Finix goes head-to-head with Stripe](https://techcrunch.com/2022/05/29/finix-goes-head-to-head-with-fintech-stripe/)
-- [How Box escaped the SaaS growth trap](https://techcrunch.com/2022/05/29/how-box-escaped-the-saas-growth-trap/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
