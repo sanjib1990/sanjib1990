@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Station: EV SPACs face new regulatory speed bump, more on Rivian’s reorg and VW weighs direct sales for Scout brand](https://techcrunch.com/2022/05/30/the-station-ev-spacs-face-new-regulatory-speed-bump-more-on-rivians-reorg-and-vw-weighs-direct-sales-for-scout-brand/)
+- [Best binoculars {year}: Top picks for stargazing, wildlife and more](https://www.space.com/26021-best-binoculars.html/)
+- [On This Day In Space: May 30, 1975: European Space Agency established](https://www.space.com/39251-on-this-day-in-space.html/)
 - [What&#39;s next for Boeing&#39;s Starliner capsule after historic space station mission?](https://www.space.com/boeing-starliner-oft-2-mission-next-steps/)
 - [One AI raises $8M to curate business-specific NLP models](https://techcrunch.com/2022/05/30/one-ai-raises-8m-to-curate-business-specific-nlp-models/)
-- [Best drones 2022: Picks for hobbyists and advanced pilots](https://www.space.com/best-drones/)
-- [Ayoken raises $1.4M to grow its NFT marketplace for creatives](https://techcrunch.com/2022/05/30/ayoken-raises-1-4m-to-grow-its-nft-marketplace-for-creatives/)
-- [Betastore gets $2.5M to solve stock-outs, financing challenges for informal retailers in West and Central Africa](https://techcrunch.com/2022/05/30/betastore-gets-2-5m-to-solve-stock-outs-financing-challenges-for-informal-retailers-in-west-and-central-africa/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
