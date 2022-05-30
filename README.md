@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spectacular Hubble image captures &#39;grand spiral&#39; galaxy](https://www.space.com/hubble-grand-spiral-image/)
+- [Max Q: Mines and metals](https://techcrunch.com/2022/05/30/max-q-mines-and-metals/)
+- [Partner sessions at TC Sessions: Climate offer knowledge and insight](https://techcrunch.com/2022/05/30/partner-sessions-at-tc-sessions-climate-offer-knowledge-and-insight/)
 - [Stratolaunch reveals its first hypersonic design for high-altitude flights](https://www.space.com/stratolaunch-talon-a-vehicle-debut/)
 - [Do Trojan exoplanets exist?](https://www.space.com/do-trojan-exoplanets-exist-study/)
-- [Low Earth orbit: Definition, theory and facts](https://www.space.com/low-earth-orbit/)
-- [Possible early tau Herculid meteors caught on camera](https://www.space.com/possible-early-tau-herculids-caught-camera/)
-- [These star-forming spirals look like galactic UFOs](https://www.space.com/star-forming-spirals-galactic-ufos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
