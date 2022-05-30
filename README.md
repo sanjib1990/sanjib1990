@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Want to see the potential tau Herculids meteor shower? Here&#39;s what to expect, according to NASA.](https://www.space.com/tau-herculids-what-to-expect-nasa/)
 - [A &#39;trove&#39; of black hole discoveries emerge from dwarf galaxies](https://www.space.com/black-hole-discovery-trove-dwarf-galaxies/)
 - [For remittances, crypto is still a problem looking for a solution](https://techcrunch.com/2022/05/30/for-remittances-crypto-is-still-a-problem-looking-for-a-solution/)
 - [Humans have big plans for mining in space — but there are many things holding us back](https://www.space.com/mining-in-space-challenges/)
 - [Strong Compute raises $7.8M seed round to speed up ML training pipelines](https://techcrunch.com/2022/05/30/strong-compute-raises-7-8m-seed-round-to-speed-up-ml-training-pipelines/)
-- [Ultracold gas bubbles on the space station could reveal strange new quantum physics](https://www.space.com/ultracold-bubbles-on-space-station/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
