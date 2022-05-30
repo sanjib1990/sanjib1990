@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Strong Compute raises $7.8M seed round to speed up ML training pipelines](https://techcrunch.com/2022/05/30/strong-compute-raises-7-8m-seed-round-to-speed-up-ml-training-pipelines/)
+- [Ultracold gas bubbles on the space station could reveal strange new quantum physics](https://www.space.com/ultracold-bubbles-on-space-station/)
 - [SWVL plans to lay off 32% of its team two months after going public](https://techcrunch.com/2022/05/30/swvl-plans-to-lay-off-32-of-its-team-two-months-after-going-public/)
 - [Possible outburst of tau Herculids meteors tonight!](https://www.space.com/possible-meteor-outburst-tau-herculids/)
 - [How to watch the potential tau Herculids meteor storm live online tonight](https://www.space.com/meteor-storm-tau-herculids-shower-webcast/)
-- [Mintlify taps AI to automatically generate documentation from code](https://techcrunch.com/2022/05/30/mintlify-taps-ai-to-automatically-generate-documentation-from-code/)
-- [A black hole formed by a lopsided merger may have gone rogue](https://www.space.com/black-hole-escaping-galaxy-from-collision/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
