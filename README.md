@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Possible early Tau Herculid meteors caught on camera](https://www.space.com/possible-early-tau-herculids-caught-camera/)
+- [These star-forming spirals look like galactic UFOs](https://www.space.com/star-forming-spirals-galactic-ufos/)
+- [James Webb Space Telescope will study two strange &#39;super-Earths&#39;](https://www.space.com/james-webb-space-telescope-exoplanets/)
 - [Perceptron: Risky teleoperation, Rocket League simulation, and zoologist multiplication](https://techcrunch.com/2022/05/30/__trashed-12/)
 - [Want to see the potential tau Herculids meteor shower? Here&#39;s what to expect, according to NASA.](https://www.space.com/tau-herculids-what-to-expect-nasa/)
-- [A &#39;trove&#39; of black hole discoveries emerge from dwarf galaxies](https://www.space.com/black-hole-discovery-trove-dwarf-galaxies/)
-- [For remittances, crypto is still a problem looking for a solution](https://techcrunch.com/2022/05/30/for-remittances-crypto-is-still-a-problem-looking-for-a-solution/)
-- [Humans have big plans for mining in space — but there are many things holding us back](https://www.space.com/mining-in-space-challenges/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
