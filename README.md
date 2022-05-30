@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Possible early Tau Herculid meteors caught on camera](https://www.space.com/possible-early-tau-herculids-caught-camera/)
+- [Low Earth orbit: Definition, theory and facts](https://www.space.com/low-earth-orbit/)
+- [Possible early tau Herculid meteors caught on camera](https://www.space.com/possible-early-tau-herculids-caught-camera/)
 - [These star-forming spirals look like galactic UFOs](https://www.space.com/star-forming-spirals-galactic-ufos/)
 - [James Webb Space Telescope will study two strange &#39;super-Earths&#39;](https://www.space.com/james-webb-space-telescope-exoplanets/)
 - [Perceptron: Risky teleoperation, Rocket League simulation, and zoologist multiplication](https://techcrunch.com/2022/05/30/__trashed-12/)
-- [Want to see the potential tau Herculids meteor shower? Here&#39;s what to expect, according to NASA.](https://www.space.com/tau-herculids-what-to-expect-nasa/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
