@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ayoken raises $1.4M to grow its NFT marketplace for creatives](https://techcrunch.com/2022/05/30/ayoken-raises-1-4m-to-grow-its-nft-marketplace-for-creatives/)
 - [Betastore gets $2.5M to solve stock-outs, financing challenges for informal retailers in West and Central Africa](https://techcrunch.com/2022/05/30/betastore-gets-2-5m-to-solve-stock-outs-financing-challenges-for-informal-retailers-in-west-and-central-africa/)
 - [Berlin-based B2B BNPL platform Mondu raises $43M Series A led by Valar in the US](https://techcrunch.com/2022/05/29/2326877/)
 - [Indonesia’s Astro raises $60M to work on 15-minute grocery delivery](https://techcrunch.com/2022/05/29/astro-indonesia-grocery-delivery-60-million-funding/)
 - [India withdraws warning on biometric ID sharing following online uproar](https://techcrunch.com/2022/05/29/india-withdraws-warning-on-aadhaar-id-sharing-following-online-uproar/)
-- [Why web3 companies get hacked so often, according to crypto VC Grace Isford](https://techcrunch.com/2022/05/29/web3-hacks-crypto-vc-grace-isford-chain-reaction-podcast/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
