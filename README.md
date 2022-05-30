@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SWVL plans to lay off 32% of its team two months after going public](https://techcrunch.com/2022/05/30/swvl-plans-to-lay-off-32-of-its-team-two-months-after-going-public/)
+- [Possible outburst of tau Herculids meteors tonight!](https://www.space.com/possible-meteor-outburst-tau-herculids/)
+- [How to watch the potential tau Herculids meteor storm live online tonight](https://www.space.com/meteor-storm-tau-herculids-shower-webcast/)
 - [Mintlify taps AI to automatically generate documentation from code](https://techcrunch.com/2022/05/30/mintlify-taps-ai-to-automatically-generate-documentation-from-code/)
 - [A black hole formed by a lopsided merger may have gone rogue](https://www.space.com/black-hole-escaping-galaxy-from-collision/)
-- [A mysterious intergalactic force is pushing against the Milky Way](https://www.space.com/dipole-repeller-mystery-beyond-galaxy/)
-- [The Station: EV SPACs face new regulatory speed bump, more on Rivian’s reorg and VW weighs direct sales for Scout brand](https://techcrunch.com/2022/05/30/the-station-ev-spacs-face-new-regulatory-speed-bump-more-on-rivians-reorg-and-vw-weighs-direct-sales-for-scout-brand/)
-- [Best binoculars {year}: Top picks for stargazing, wildlife and more](https://www.space.com/26021-best-binoculars.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
