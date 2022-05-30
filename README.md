@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Stratolaunch reveals its first hypersonic design for high-altitude flights](https://www.space.com/stratolaunch-talon-a-vehicle-debut/)
+- [Do Trojan exoplanets exist?](https://www.space.com/do-trojan-exoplanets-exist-study/)
 - [Low Earth orbit: Definition, theory and facts](https://www.space.com/low-earth-orbit/)
 - [Possible early tau Herculid meteors caught on camera](https://www.space.com/possible-early-tau-herculids-caught-camera/)
 - [These star-forming spirals look like galactic UFOs](https://www.space.com/star-forming-spirals-galactic-ufos/)
-- [James Webb Space Telescope will study two strange &#39;super-Earths&#39;](https://www.space.com/james-webb-space-telescope-exoplanets/)
-- [Perceptron: Risky teleoperation, Rocket League simulation, and zoologist multiplication](https://techcrunch.com/2022/05/30/__trashed-12/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
