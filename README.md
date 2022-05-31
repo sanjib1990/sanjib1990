@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bonfire Ventures secures $230M for two new funds targeting B2B software startups](https://techcrunch.com/2022/05/31/bonfire-ventures-secures-230m-for-two-new-funds-targeting-b2b-software-startups/)
+- [Onramp Funds accelerates e-commerce financing platform with $42M in equity, credit](https://techcrunch.com/2022/05/31/onramp-funds-accelerates-e-commerce-financing-platform-with-42m-in-equity-credit/)
+- [Railway snags $20M to streamline the process of deploying apps and services](https://techcrunch.com/2022/05/31/railway-snags-20m-to-streamline-the-process-of-deploying-apps-and-services/)
+- [Data-sharing platform Vendia raises $30M Series B](https://techcrunch.com/2022/05/31/data-sharing-platform-vendia-raises-30m-series-b/)
 - [Seemplicity emerges from stealth with $32M to consolidate security notifications and speed up response times](https://techcrunch.com/2022/05/31/seemplicity-emerges-from-stealth-with-32m-to-consolidate-security-notifications-and-speed-up-response-times/)
-- [On This Day In Space: May 31, 1990: Kristall module launches to Mir Space Station](https://www.space.com/39251-on-this-day-in-space.html/)
-- [4 big Milky Way mysteries the next Gaia mission data dump may solve](https://www.space.com/milky-way-mysteries-for-gaia-to-solve/)
-- [Hubble telescope snaps trippy new view of two swirling galaxies](https://www.space.com/hubble-space-telescope-peculiar-pair-galaxies-core/)
-- [New York-based Digital Asset to help Japan’s financial giant SBI develop ‘smart yen’](https://techcrunch.com/2022/05/31/japan-sbi-digital-asset-daml/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
