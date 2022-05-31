@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Seemplicity emerges from stealth with $32M to consolidate security notifications and speed up response times](https://techcrunch.com/2022/05/31/seemplicity-emerges-from-stealth-with-32m-to-consolidate-security-notifications-and-speed-up-response-times/)
 - [On This Day In Space: May 31, 1990: Kristall module launches to Mir Space Station](https://www.space.com/39251-on-this-day-in-space.html/)
 - [4 big Milky Way mysteries the next Gaia mission data dump may solve](https://www.space.com/milky-way-mysteries-for-gaia-to-solve/)
 - [Hubble telescope snaps trippy new view of two swirling galaxies](https://www.space.com/hubble-space-telescope-peculiar-pair-galaxies-core/)
 - [New York-based Digital Asset to help Japan’s financial giant SBI develop ‘smart yen’](https://techcrunch.com/2022/05/31/japan-sbi-digital-asset-daml/)
-- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
