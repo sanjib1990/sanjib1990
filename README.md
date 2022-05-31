@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Last chance: Our bring a friend for free promotion on TechCrunch events ends tonight](https://techcrunch.com/2022/05/31/last-chance-our-bring-a-friend-for-free-promotion-on-techcrunch-events-ends-tonight/)
-- [U.S. Energy Secretary Jennifer Granholm will speak at TC Sessions: Climate](https://techcrunch.com/2022/05/31/u-s-energy-secretary-jennifer-granholm-will-speak-at-tc-sessions-climate/)
-- [&#39;Obi-Wan Kenobi&#39; episodes one and two reunite Star Wars fans with a beloved character they’ll no longer recognize](https://www.space.com/obi-wan-kenobi-episode-1-and-2-review/)
-- [Amazon is killing its Alexa-connected Cloud Cam, will replace customers’ dead devices with a Blink Mini](https://techcrunch.com/2022/05/31/amazon-is-killing-its-alexa-connected-cloud-cam-will-replace-customers-dead-devices-with-a-blink-mini/)
-- [&#39;Obi-Wan Kenobi&#39; episode one &amp; two Easter eggs: Callbacks to a more civilized age](https://www.space.com/obi-wan-kenobi-episode-1-and-2-easter-eggs/)
+- [Re-rethinking Databricks’ valuation in a more conservative startup market](https://techcrunch.com/2022/05/31/re-rethinking-databricks-valuation-in-a-more-conservative-startup-market/)
+- [Apple’s iOS 16 said to include a revamped lockscreen with widgets, updated Messages and Health apps](https://techcrunch.com/2022/05/31/apples-ios-16-said-to-include-a-revamped-lockscreen-with-widgets-updated-messages-and-health-apps/)
+- [8 IT spending trends for the post-pandemic enterprise in 2022](https://techcrunch.com/2022/05/31/8-it-spending-trends-for-the-post-pandemic-enterprise-in-2022/)
+- [Budget telescopes under $500: Picks from Celestron, Meade and Orion](https://www.space.com/telescopes-under-500/)
+- [Depressed? This algorithm can tell from the tone of your voice](https://techcrunch.com/2022/05/31/depressed-this-algorithm-can-tell-from-the-tone-of-your-voice/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
