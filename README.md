@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Mysterious pulsar spins too slowly with 7 different pulse patterns](https://www.space.com/weird-radio-pulsar-slow-rotator/)
-- [New tau Herculid meteor shower drops bright fireballs, but no &#39;meteor storm,&#39; for stargazers &lpar;photos&rpar;](https://www.space.com/tau-herculids-meteor-shower-2022-stargazers-photos/)
-- [FAA delays environmental review of SpaceX&#39;s Starship 2 more weeks, to June 13](https://www.space.com/faa-spacex-starship-review-delayed-june-13/)
-- [Chinese scientists call for plan to destroy Elon Musk&#39;s Starlink satellites](https://www.space.com/china-ways-destroy-spacex-starlink-satellites/)
-- [The best sci-fi movies and TV shows to stream on Disney Plus in June](https://www.space.com/disney-plus-best-space-scifi-streaming.html/)
+- [China rolls out rocket for crewed Shenzhou 14 mission ahead of Saturday launch &lpar;video, photos&rpar;](https://www.space.com/china-rolls-out-rocket-shenzhou-14-launch/)
+- [Is data observability recession-proof?](https://techcrunch.com/2022/05/31/is-data-observability-recession-proof/)
+- [Blue Origin targets June 4 for next space tourist mission after delay](https://www.space.com/blue-origin-space-tourist-launch-ns-21-june-4/)
+- [Cydia’s antitrust case against Apple is allowed to proceed, judge rules](https://techcrunch.com/2022/05/31/cydias-antitrust-case-against-apple-is-allowed-to-proceed-judge-rules/)
+- [Lionsgate plans to officially announce a Starz spinoff this summer](https://techcrunch.com/2022/05/31/lionsgate-plans-to-officially-announce-a-starz-spinoff-this-summer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
