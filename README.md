@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Netflix’s password-sharing test in Peru is confusing subscribers, report suggests](https://techcrunch.com/2022/05/31/netflixs-password-sharing-test-in-peru-is-confusing-subscribers-report-suggests/)
+- [FAA delays environmental review of SpaceX&#39;s Starship 2 more weeks, to June 13](https://www.space.com/faa-spacex-starship-review-delayed-june-13/)
 - [Chinese scientists call for plan to destroy Elon Musk&#39;s Starlink satellites](https://www.space.com/china-ways-destroy-spacex-starlink-satellites/)
 - [The best sci-fi movies and TV shows to stream on Disney Plus in June](https://www.space.com/disney-plus-best-space-scifi-streaming.html/)
 - [Post-acquisition, Misty Robotics pivots to education](https://techcrunch.com/2022/05/31/post-acquisition-misty-robotics-pivots-to-education/)
-- [CAPSTONE: A pathfinding moon cubesat for the Artemis program](https://www.space.com/capstone-moon-cubesat-mission/)
-- [Betelgeuse&#39;s &#39;Great Dimming&#39; had an unlikely observer: a Japanese weather satellite](https://www.space.com/betelgeuse-dimming-himawari-8-observations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
