@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;The Mandalorian&#39; season 3 is coming in February 2023 on Disney Plus](https://www.space.com/the-mandalorian-season-3-star-wars-celebration/)
+- [&#39;Star Trek: Strange New Worlds&#39; episode 4 embraces classic, submarine-style space battles](https://www.space.com/star-trek-strange-new-worlds-season-1-episode-4-review/)
+- [Ultima Genomics claims $100 full genome sequencing after stealth $600M raise](https://techcrunch.com/2022/05/31/ultima-genomics-claims-100-full-genome-sequencing-after-stealth-600m-raise/)
 - [China rolls out rocket for crewed Shenzhou 14 mission ahead of Saturday launch &lpar;video, photos&rpar;](https://www.space.com/china-rolls-out-rocket-shenzhou-14-launch/)
 - [Is data observability recession-proof?](https://techcrunch.com/2022/05/31/is-data-observability-recession-proof/)
-- [Blue Origin targets June 4 for next space tourist mission after delay](https://www.space.com/blue-origin-space-tourist-launch-ns-21-june-4/)
-- [Cydia’s antitrust case against Apple is allowed to proceed, judge rules](https://techcrunch.com/2022/05/31/cydias-antitrust-case-against-apple-is-allowed-to-proceed-judge-rules/)
-- [Lionsgate plans to officially announce a Starz spinoff this summer](https://techcrunch.com/2022/05/31/lionsgate-plans-to-officially-announce-a-starz-spinoff-this-summer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
