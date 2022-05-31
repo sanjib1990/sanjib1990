@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Faster ML models, crypto M&amp;A, and what’s ahead for on-demand pricing](https://techcrunch.com/2022/05/31/faster-ml-models-crypto-ma-and-whats-ahead-for-on-demand-pricing/)
+- [Hannah Grey launches its $52M inaugural fund](https://techcrunch.com/2022/05/31/hannah-grey-debut-fund/)
+- [TechCrunch Live is going to Columbus, OH —  June 1st!](https://techcrunch.com/2022/05/31/techcrunch-live-is-going-to-columbus-oh-register-and-apply-for-the-pitch-off/)
 - [Bonfire Ventures secures $230M for two new funds targeting B2B software startups](https://techcrunch.com/2022/05/31/bonfire-ventures-secures-230m-for-two-new-funds-targeting-b2b-software-startups/)
 - [Onramp Funds accelerates e-commerce financing platform with $42M in equity, credit](https://techcrunch.com/2022/05/31/onramp-funds-accelerates-e-commerce-financing-platform-with-42m-in-equity-credit/)
-- [Railway snags $20M to streamline the process of deploying apps and services](https://techcrunch.com/2022/05/31/railway-snags-20m-to-streamline-the-process-of-deploying-apps-and-services/)
-- [Data-sharing platform Vendia raises $30M Series B](https://techcrunch.com/2022/05/31/data-sharing-platform-vendia-raises-30m-series-b/)
-- [Seemplicity emerges from stealth with $32M to consolidate security notifications and speed up response times](https://techcrunch.com/2022/05/31/seemplicity-emerges-from-stealth-with-32m-to-consolidate-security-notifications-and-speed-up-response-times/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
