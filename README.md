@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New York-based Digital Asset to help Japan’s financial giant SBI develop ‘smart yen’](https://techcrunch.com/2022/05/31/japan-sbi-digital-asset-daml/)
+- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html/)
 - [Temasek in talks to invest in Google-backed DotPe](https://techcrunch.com/2022/05/31/temasek-in-talks-to-invest-in-google-backed-dotpe/)
 - [HitPay is a one-stop solution for SMEs](https://techcrunch.com/2022/05/30/hitpay-is-a-one-stop-solution-for-smes/)
 - [Zinc heads toward new $41M tech-for-good fund to back pre-team talent solving big problems](https://techcrunch.com/2022/05/30/zinc-heads-towards-new-41m-tech-for-good-fund-to-back-pre-team-talent-solving-big-problems/)
-- [Spectacular Hubble image captures &#39;grand spiral&#39; galaxy](https://www.space.com/hubble-grand-spiral-image/)
-- [Max Q: Mines and metals](https://techcrunch.com/2022/05/30/max-q-mines-and-metals/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
