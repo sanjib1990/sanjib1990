@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [HitPay is a one-stop solution for SMEs](https://techcrunch.com/2022/05/30/hitpay-is-a-one-stop-solution-for-smes/)
 - [Zinc heads towards new $41M tech-for-good fund to back pre-team talent solving big problems](https://techcrunch.com/2022/05/30/zinc-heads-towards-new-41m-tech-for-good-fund-to-back-pre-team-talent-solving-big-problems/)
 - [Spectacular Hubble image captures &#39;grand spiral&#39; galaxy](https://www.space.com/hubble-grand-spiral-image/)
 - [Max Q: Mines and metals](https://techcrunch.com/2022/05/30/max-q-mines-and-metals/)
 - [Partner sessions at TC Sessions: Climate offer knowledge and insight](https://techcrunch.com/2022/05/30/partner-sessions-at-tc-sessions-climate-offer-knowledge-and-insight/)
-- [Stratolaunch reveals its first hypersonic design for high-altitude flights](https://www.space.com/stratolaunch-talon-a-vehicle-debut/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
