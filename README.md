@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;The Mandalorian&#39; season 3 is coming in February 2023 on Disney Plus](https://www.space.com/the-mandalorian-season-3-star-wars-celebration/)
-- [&#39;Star Trek: Strange New Worlds&#39; episode 4 embraces classic, submarine-style space battles](https://www.space.com/star-trek-strange-new-worlds-season-1-episode-4-review/)
-- [Ultima Genomics claims $100 full genome sequencing after stealth $600M raise](https://techcrunch.com/2022/05/31/ultima-genomics-claims-100-full-genome-sequencing-after-stealth-600m-raise/)
-- [China rolls out rocket for crewed Shenzhou 14 mission ahead of Saturday launch &lpar;video, photos&rpar;](https://www.space.com/china-rolls-out-rocket-shenzhou-14-launch/)
-- [Is data observability recession-proof?](https://techcrunch.com/2022/05/31/is-data-observability-recession-proof/)
+- [Precursor Ventures’ first hire just spun out to start her own venture firm](https://techcrunch.com/2022/05/31/precursor-ventures-sydney-thomas-new-firm/)
+- [Report calls out Apple’s membership in trade groups ‘stalling’ climate efforts](https://techcrunch.com/2022/05/31/report-calls-out-apples-membership-in-trade-groups-stalling-climate-efforts/)
+- [Supreme Court pauses controversial Texas social media law](https://techcrunch.com/2022/05/31/texas-social-media-law-supreme-court-hb20/)
+- [Student social good startups collect $95K in T-Mobile competition](https://techcrunch.com/2022/05/31/student-social-good-startups-collect-95k-in-t-mobile-competition/)
+- [4 ways to make your engineering team more productive](https://techcrunch.com/2022/05/31/4-ways-to-make-your-engineering-team-more-productive/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
