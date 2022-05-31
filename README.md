@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Artiphon’s delightful Orba handheld synthesizer gets a sequel](https://techcrunch.com/2022/05/31/artiphons-delightful-orba-handheld-synthesizer-gets-a-sequel/)
-- [DeLorean reveals Alpha 5, a performance EV with Back to the Future vibes](https://techcrunch.com/2022/05/31/delorean-alpha-5-ev-images-back-to-the-future-vibes/)
-- [Felt’s $15 million chance to prove that maps are the next big medium](https://techcrunch.com/2022/05/31/felt-maps-15-million-series-a/)
+- [Mysterious pulsar spins too slowly with 7 different pulse patterns](https://www.space.com/weird-radio-pulsar-slow-rotator/)
 - [New tau Herculid meteor shower drops bright fireballs, but no &#39;meteor storm,&#39; for stargazers &lpar;photos&rpar;](https://www.space.com/tau-herculids-meteor-shower-2022-stargazers-photos/)
-- [Netflix’s password-sharing test in Peru is confusing subscribers, report suggests](https://techcrunch.com/2022/05/31/netflixs-password-sharing-test-in-peru-is-confusing-subscribers-report-suggests/)
+- [FAA delays environmental review of SpaceX&#39;s Starship 2 more weeks, to June 13](https://www.space.com/faa-spacex-starship-review-delayed-june-13/)
+- [Chinese scientists call for plan to destroy Elon Musk&#39;s Starlink satellites](https://www.space.com/china-ways-destroy-spacex-starlink-satellites/)
+- [The best sci-fi movies and TV shows to stream on Disney Plus in June](https://www.space.com/disney-plus-best-space-scifi-streaming.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
