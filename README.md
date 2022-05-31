@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Re-rethinking Databricks’ valuation in a more conservative startup market](https://techcrunch.com/2022/05/31/re-rethinking-databricks-valuation-in-a-more-conservative-startup-market/)
-- [Apple’s iOS 16 said to include a revamped lockscreen with widgets, updated Messages and Health apps](https://techcrunch.com/2022/05/31/apples-ios-16-said-to-include-a-revamped-lockscreen-with-widgets-updated-messages-and-health-apps/)
-- [8 IT spending trends for the post-pandemic enterprise in 2022](https://techcrunch.com/2022/05/31/8-it-spending-trends-for-the-post-pandemic-enterprise-in-2022/)
-- [Budget telescopes under $500: Picks from Celestron, Meade and Orion](https://www.space.com/telescopes-under-500/)
-- [Depressed? This algorithm can tell from the tone of your voice](https://techcrunch.com/2022/05/31/depressed-this-algorithm-can-tell-from-the-tone-of-your-voice/)
+- [Chinese scientists call for plan to destroy Elon Musk&#39;s Starlink satellites](https://www.space.com/china-ways-destroy-spacex-starlink-satellites/)
+- [The best sci-fi movies and TV shows to stream on Disney Plus in June](https://www.space.com/disney-plus-best-space-scifi-streaming.html/)
+- [Post-acquisition, Misty Robotics pivots to education](https://techcrunch.com/2022/05/31/post-acquisition-misty-robotics-pivots-to-education/)
+- [CAPSTONE: A pathfinding moon cubesat for the Artemis program](https://www.space.com/capstone-moon-cubesat-mission/)
+- [Betelgeuse&#39;s &#39;Great Dimming&#39; had an unlikely observer: a Japanese weather satellite](https://www.space.com/betelgeuse-dimming-himawari-8-observations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
