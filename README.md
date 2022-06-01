@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Dear Sophie: How do we qualify for each of the O-1A criteria?](https://techcrunch.com/2022/06/01/dear-sophie-how-do-we-qualify-for-each-of-the-o-1a-criteria/)
-- [Groundbreaking sets stage for space shuttle Endeavour launch-like display](https://www.space.com/california-science-center-endeavour-oschin-air-space-groundbreaking/)
-- [NASA&#39;s Mars MAVEN spacecraft spent 3 months on the brink of disaster](https://www.space.com/nasa-mars-spacecraft-maven-nearly-lost/)
-- [Orion telescopes and binocular deals you can get now](https://www.space.com/orion-deals-telescopes-binoculars/)
-- [Sky-Watcher telescope deals available right now](https://www.space.com/skywatcher-deals-telescopes/)
+- [Who’s liable for AI-generated lies?](https://techcrunch.com/2022/06/01/whos-liable-for-ai-generated-lies/)
+- [Full moon calendar {year}: When to see the next full moon](https://www.space.com/16830-full-moon-calendar.html/)
+- [Former OpenSea exec arrested and charged with insider trading of NFTs](https://techcrunch.com/2022/06/01/former-opensea-exec-arrested-and-charged-with-insider-trading-of-nfts/)
+- [Google expands program to help train the formerly incarcerated](https://techcrunch.com/2022/06/01/2327477/)
+- [Boundary Layer wants to steal air freight’s lunch and transport it by water instead](https://techcrunch.com/2022/06/01/boundary-layer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
