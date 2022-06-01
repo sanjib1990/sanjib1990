@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;The Mandalorian&#39; season 3 is coming in February 2023 on Disney Plus](https://www.space.com/the-mandalorian-season-3-star-wars-celebration/)
-- [&#39;Star Trek: Strange New Worlds&#39; episode 4 embraces classic, submarine-style space battles](https://www.space.com/star-trek-strange-new-worlds-season-1-episode-4-review/)
-- [China rolls out rocket for crewed Shenzhou 14 mission ahead of Saturday launch &lpar;video, photos&rpar;](https://www.space.com/china-rolls-out-rocket-shenzhou-14-launch/)
-- [Blue Origin targets June 4 for next space tourist mission after delay](https://www.space.com/blue-origin-space-tourist-launch-ns-21-june-4/)
-- [Mysterious pulsar spins too slowly with 7 different pulse patterns](https://www.space.com/weird-radio-pulsar-slow-rotator/)
+- [The death knell for SPACs?](https://techcrunch.com/2022/05/31/spacs-hit-a-wall/)
+- [This book made me fall in love with electronics all over again](https://techcrunch.com/2022/05/31/open-circuits/)
+- [Chick-fil-A taps Refraction AI for autonomous delivery pilot](https://techcrunch.com/2022/05/31/chick-fil-a-taps-refraction-ai-for-autonomous-delivery-pilot/)
+- [Precursor Ventures’ first hire just spun out to start her own venture firm](https://techcrunch.com/2022/05/31/precursor-ventures-sydney-thomas-new-firm/)
+- [Report calls out Apple’s membership in trade groups ‘stalling’ climate efforts](https://techcrunch.com/2022/05/31/report-calls-out-apples-membership-in-trade-groups-stalling-climate-efforts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
