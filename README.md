@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Upway lands $25 million to sell more refurbished electric bikes](https://techcrunch.com/2022/05/31/upway-lands-25-million-to-sell-more-refurbished-electric-bikes/)
+- [South Africa’s Talk360 raises $4M to build single payment platform for Africa](https://techcrunch.com/2022/05/31/south-africas-talk360-raises-4m-to-build-single-payment-platform-for-africa/)
 - [The death knell for SPACs?](https://techcrunch.com/2022/05/31/spacs-hit-a-wall/)
 - [This book made me fall in love with electronics all over again](https://techcrunch.com/2022/05/31/open-circuits/)
 - [Chick-fil-A taps Refraction AI for autonomous delivery pilot](https://techcrunch.com/2022/05/31/chick-fil-a-taps-refraction-ai-for-autonomous-delivery-pilot/)
-- [Precursor Ventures’ first hire just spun out to start her own venture firm](https://techcrunch.com/2022/05/31/precursor-ventures-sydney-thomas-new-firm/)
-- [Report calls out Apple’s membership in trade groups ‘stalling’ climate efforts](https://techcrunch.com/2022/05/31/report-calls-out-apples-membership-in-trade-groups-stalling-climate-efforts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
