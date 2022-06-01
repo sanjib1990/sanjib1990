@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [YouTube’s mobile app can now sync to your TV without casting for a ‘second screen’ experience](https://techcrunch.com/2022/06/01/youtubes-mobile-app-can-now-sync-to-your-tv-without-casting-for-a-second-screen-experience/)
-- [What the Voyager space probes can teach humanity about immortality as they sail for trillions of years](https://www.space.com/voyager-space-probes-immortality-and-legacy/)
-- [Google TV’s new app launches on the iOS App Store with the ability to use a mobile device as a remote](https://techcrunch.com/2022/06/01/google-tvs-new-app-launches-on-the-ios-app-store-with-the-ability-to-use-a-mobile-device-as-a-remote/)
-- [Google Duo and Meet will soon become one](https://techcrunch.com/2022/06/01/google-duo-and-meet-will-soon-become-one/)
-- [As fintech valuations fall, even Stripe isn’t immune to a changing market](https://techcrunch.com/2022/06/01/as-fintech-valuations-fall-even-stripe-isnt-immune-to-a-changing-market/)
+- [Dear Sophie: How do we qualify for each of the O-1A criteria?](https://techcrunch.com/2022/06/01/dear-sophie-how-do-we-qualify-for-each-of-the-o-1a-criteria/)
+- [Groundbreaking sets stage for space shuttle Endeavour launch-like display](https://www.space.com/california-science-center-endeavour-oschin-air-space-groundbreaking/)
+- [NASA&#39;s Mars MAVEN spacecraft spent 3 months on the brink of disaster](https://www.space.com/nasa-mars-spacecraft-maven-nearly-lost/)
+- [Orion telescopes and binocular deals you can get now](https://www.space.com/orion-deals-telescopes-binoculars/)
+- [Sky-Watcher telescope deals available right now](https://www.space.com/skywatcher-deals-telescopes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
