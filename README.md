@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [James Webb Space Telescope will release its 1st science-quality images July 12](https://www.space.com/james-webb-space-telescope-first-images-july-12/)
-- [Who’s liable for AI-generated lies?](https://techcrunch.com/2022/06/01/whos-liable-for-ai-generated-lies/)
-- [What is today&#39;s moon? Moon phases {year}](https://www.space.com/18880-moon-phases.html/)
-- [Full moon calendar {year}: When to see the next full moon](https://www.space.com/16830-full-moon-calendar.html/)
-- [Former OpenSea exec arrested and charged with insider trading of NFTs](https://techcrunch.com/2022/06/01/former-opensea-exec-arrested-and-charged-with-insider-trading-of-nfts/)
+- [Garmin pops solar power onto its fancy Forerunner running watch](https://techcrunch.com/2022/06/01/garmin-pops-solar-power-onto-its-fancy-forerunner-running-watch/)
+- [NASA picks 2 companies to build spacesuits for astronauts on the moon and in Earth orbit](https://www.space.com/nasa-selects-companies-build-spacesuits-moon-space-station/)
+- [Sheryl Sandberg will step down as Meta COO](https://techcrunch.com/2022/06/01/sheryl-sandberg-steps-down-facebook/)
+- [VC funding for crypto projects fell in May, but many investors remain bullish](https://techcrunch.com/2022/06/01/vc-funding-for-crypto-projects-fell-in-may-but-many-investors-remain-bullish/)
+- [Boldstart Ventures has two new funds to plug into teams with an idea and little else](https://techcrunch.com/2022/06/01/boldstart-ventures-has-two-new-funds-to-plug-into-teams-with-an-idea-and-little-else/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
