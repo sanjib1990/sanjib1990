@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cybersecurity startup Ordr nabs $40M to monitor connected devices for anomalies](https://techcrunch.com/2022/06/01/2326321/)
+- [NASA&#39;s sun-grazing Parker Solar Probe will zip through its 12th stellar closeup today](https://www.space.com/nasa-parker-solar-probe-12th-sun-flyby/)
+- [On This Day In Space: June 1, 2011: Space shuttle Endeavour&#39;s Final Touchdown](https://www.space.com/39251-on-this-day-in-space.html/)
 - [China-backed hackers are exploiting unpatched Microsoft zero-day](https://techcrunch.com/2022/06/01/china-backed-hackers-are-exploiting-unpatched-microsoft-zero-day/)
 - [Coralogix streams $142M into its coffers to expand its production analytics into a full-stack observability platform](https://techcrunch.com/2022/06/01/coralogix-streams-142m-into-its-coffers-to-expand-its-production-analytics-into-a-full-stack-observability-platform/)
-- [The brightest planets in June&#39;s night sky: How to see them &lpar;and when&rpar;](https://www.space.com/33619-visible-planets-guide.html/)
-- [NASA to make big announcement about Artemis moon spacesuits today. Watch the reveal live.](https://www.space.com/nasa-artemis-moon-spacesuit-announcement-preview/)
-- [Car-sharing startup Turo expands to New York and France](https://techcrunch.com/2022/06/01/car-sharing-startup-turo-expands-to-new-york-and-france/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
