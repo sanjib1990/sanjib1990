@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Announcing the startups pitching at the TC City Spotlight: Columbus pitch-off](https://techcrunch.com/2022/06/01/announcing-the-startups-pitching-at-the-tc-spotlight-columbus-pitch-off/)
-- [Physicists just rewrote a foundational rule for nuclear fusion reactors that could unleash twice the power](https://www.space.com/fusion-reactors-could-produce-more-power/)
-- [Discord is giving voice channels their own text-based chat rooms](https://techcrunch.com/2022/06/01/discord-text-chat-for-voice-channels/)
-- [Costa Rica’s public health system hit by Hive ransomware following Conti attacks](https://techcrunch.com/2022/06/01/costa-ricas-public-health-system-hit-by-hive-ransomware-following-conti-attacks/)
-- [TweetDeck for Mac is shutting down as Twitter pushes users to web app](https://techcrunch.com/2022/06/01/tweetdeck-for-mac-is-shutting-down-as-twitter-pushes-users-to-web-app/)
+- [YouTube’s mobile app can now sync to your TV without casting for a ‘second screen’ experience](https://techcrunch.com/2022/06/01/youtubes-mobile-app-can-now-sync-to-your-tv-without-casting-for-a-second-screen-experience/)
+- [What the Voyager space probes can teach humanity about immortality as they sail for trillions of years](https://www.space.com/voyager-space-probes-immortality-and-legacy/)
+- [Google TV’s new app launches on the iOS App Store with the ability to use a mobile device as a remote](https://techcrunch.com/2022/06/01/google-tvs-new-app-launches-on-the-ios-app-store-with-the-ability-to-use-a-mobile-device-as-a-remote/)
+- [Google Duo and Meet will soon become one](https://techcrunch.com/2022/06/01/google-duo-and-meet-will-soon-become-one/)
+- [As fintech valuations fall, even Stripe isn’t immune to a changing market](https://techcrunch.com/2022/06/01/as-fintech-valuations-fall-even-stripe-isnt-immune-to-a-changing-market/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
