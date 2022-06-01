@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [‘Pokémon Scarlet &amp; Violet’ will release on November 18](https://techcrunch.com/2022/06/01/pokemon-scarlet-violet-release-date/)
-- [Instagram to start pushing Amber Alerts to users’ feeds](https://techcrunch.com/2022/06/01/instagram-amber-alerts/)
-- [Join SOSV’s Climate Tech Meetup on June 13](https://techcrunch.com/2022/06/01/join-sosvs-climate-tech-meetup-on-june-13/)
-- [How investors are playing offense right now &lpar;their words, our two cents&rpar;](https://techcrunch.com/2022/06/01/how-investors-are-playing-offense-right-now-their-words-our-two-cents/)
-- [WorkOS raises $80M to add enterprise features like SSO to apps](https://techcrunch.com/2022/06/01/workos-raises-80m-to-add-enterprise-features-like-sso-to-apps/)
+- [Announcing the startups pitching at the TC City Spotlight: Columbus pitch-off](https://techcrunch.com/2022/06/01/announcing-the-startups-pitching-at-the-tc-spotlight-columbus-pitch-off/)
+- [Physicists just rewrote a foundational rule for nuclear fusion reactors that could unleash twice the power](https://www.space.com/fusion-reactors-could-produce-more-power/)
+- [Discord is giving voice channels their own text-based chat rooms](https://techcrunch.com/2022/06/01/discord-text-chat-for-voice-channels/)
+- [Costa Rica’s public health system hit by Hive ransomware following Conti attacks](https://techcrunch.com/2022/06/01/costa-ricas-public-health-system-hit-by-hive-ransomware-following-conti-attacks/)
+- [TweetDeck for Mac is shutting down as Twitter pushes users to web app](https://techcrunch.com/2022/06/01/tweetdeck-for-mac-is-shutting-down-as-twitter-pushes-users-to-web-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
