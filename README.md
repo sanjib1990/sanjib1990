@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Odilo raises $64M as its white-label e-learning library passes 8,500 customers and 170M users](https://techcrunch.com/2022/06/01/odilo-raises-64m-as-its-white-label-e-learning-library-passes-8500-customers-and-170m-users/)
-- [Indian fintech Slice tops $1.5 billion valuation in new funding to scale UPI payments](https://techcrunch.com/2022/06/01/indian-fintech-slice-tops-1-5-billion-valuation-in-new-funding-to-scale-upi-payments/)
-- [Egyptian q-commerce platform Appetito bags Lamma for over $10M](https://techcrunch.com/2022/05/31/egyptian-q-commerce-platform-appetito-bags-lamma-for-over-10m/)
-- [Rimac raises more than $500M from Porsche, Softbank and Goldman Sachs](https://techcrunch.com/2022/05/31/ev-startup-rimac-raises-more-than-500m-from-porsche-softbank-and-goldman-sachs/)
-- [France’s Alven VC launches 6th fund with a hard cap of €350M](https://techcrunch.com/2022/05/31/frances-alven-vc-launches-6th-fund-with-a-hard-cap-of-e350m/)
+- [Car-sharing startup Turo expands to New York and France](https://techcrunch.com/2022/06/01/car-sharing-startup-turo-expands-to-new-york-and-france/)
+- [Social media giants are failing women, finds Ofcom](https://techcrunch.com/2022/06/01/ofcom-women-online-nation-2022-report/)
+- [Smiler comes up with a different kind of gig economy for event and venue photographers](https://techcrunch.com/2022/06/01/smiler-comes-up-with-a-different-kind-of-gig-economy-for-event-and-venue-photographers/)
+- [Night sky, June 2022: What you can see this month [maps]](https://www.space.com/16149-night-sky.html/)
+- [Launch of NASA&#39;s CAPSTONE cubesat moon mission delayed to June 13](https://www.space.com/nasa-capstone-cubesat-moon-mission-launch-delay-june-13/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
