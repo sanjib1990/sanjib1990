@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Buick unveils Wildcat concept car as company shifts to EV-only lineup](https://techcrunch.com/2022/06/01/daily-crunch-buick-unveils-wildcat-concept-car-as-company-shifts-to-ev-only-lineup/)
+- [This is the beginning of the unbundled database era](https://techcrunch.com/2022/06/01/this-is-the-beginning-of-the-unbundled-database-era/)
+- [Google bans deepfake-generating AI from Colab](https://techcrunch.com/2022/06/01/2328459/)
 - [Garmin pops solar power onto its fancy Forerunner running watch](https://techcrunch.com/2022/06/01/garmin-pops-solar-power-onto-its-fancy-forerunner-running-watch/)
-- [NASA picks 2 companies to build spacesuits for astronauts on the moon and in Earth orbit](https://www.space.com/nasa-selects-companies-build-spacesuits-moon-space-station/)
-- [Sheryl Sandberg will step down as Meta COO](https://techcrunch.com/2022/06/01/sheryl-sandberg-steps-down-facebook/)
-- [VC funding for crypto projects fell in May, but many investors remain bullish](https://techcrunch.com/2022/06/01/vc-funding-for-crypto-projects-fell-in-may-but-many-investors-remain-bullish/)
-- [Boldstart Ventures has two new funds to plug into teams with an idea and little else](https://techcrunch.com/2022/06/01/boldstart-ventures-has-two-new-funds-to-plug-into-teams-with-an-idea-and-little-else/)
+- [NASA just picked these 2 companies to build next-gen spacesuits for the moon, space station](https://www.space.com/nasa-selects-companies-build-spacesuits-moon-space-station/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
