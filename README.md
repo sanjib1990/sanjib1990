@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to attend today’s TechCrunch &lpar;virtual&rpar; event in Columbus, Ohio](https://techcrunch.com/2022/06/01/how-to-attend-todays-techcrunch-virtual-event-in-columbus-ohio/)
-- [Why Intel chose Columbus, Ohio to build chips](https://techcrunch.com/2022/06/01/how-intel-landed-in-columbus/)
-- [Columbus, Ohio is quickly becoming the Midwest’s tech hub](https://techcrunch.com/2022/06/01/columbus-ohio-is-quickly-becoming-the-midwests-tech-hub/)
-- [Startups in Columbus, Ohio are thriving and hiring](https://techcrunch.com/2022/06/01/startups-in-columbus-ohio-are-thriving-and-hiring/)
-- [Entertainment site Fandom adds long-requested creator features, ‘Interactive Wiki Maps’ and ‘Fandom Trivia’](https://techcrunch.com/2022/06/01/entertainment-site-fandom-adds-long-requested-creator-features-interactive-wiki-maps-and-fandom-trivia/)
+- [‘Pokémon Scarlet &amp; Violet’ will release on November 18](https://techcrunch.com/2022/06/01/pokemon-scarlet-violet-release-date/)
+- [Instagram to start pushing Amber Alerts to users’ feeds](https://techcrunch.com/2022/06/01/instagram-amber-alerts/)
+- [Join SOSV’s Climate Tech Meetup on June 13](https://techcrunch.com/2022/06/01/join-sosvs-climate-tech-meetup-on-june-13/)
+- [How investors are playing offense right now &lpar;their words, our two cents&rpar;](https://techcrunch.com/2022/06/01/how-investors-are-playing-offense-right-now-their-words-our-two-cents/)
+- [WorkOS raises $80M to add enterprise features like SSO to apps](https://techcrunch.com/2022/06/01/workos-raises-80m-to-add-enterprise-features-like-sso-to-apps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
