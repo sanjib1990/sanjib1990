@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [China-backed hackers are exploiting unpatched Microsoft zero-day](https://techcrunch.com/2022/06/01/china-backed-hackers-are-exploiting-unpatched-microsoft-zero-day/)
+- [Coralogix streams $142M into its coffers to expand its production analytics into a full-stack observability platform](https://techcrunch.com/2022/06/01/coralogix-streams-142m-into-its-coffers-to-expand-its-production-analytics-into-a-full-stack-observability-platform/)
+- [The brightest planets in June&#39;s night sky: How to see them &lpar;and when&rpar;](https://www.space.com/33619-visible-planets-guide.html/)
+- [NASA to make big announcement about Artemis moon spacesuits today. Watch the reveal live.](https://www.space.com/nasa-artemis-moon-spacesuit-announcement-preview/)
 - [Car-sharing startup Turo expands to New York and France](https://techcrunch.com/2022/06/01/car-sharing-startup-turo-expands-to-new-york-and-france/)
-- [Social media giants are failing women, finds Ofcom](https://techcrunch.com/2022/06/01/ofcom-women-online-nation-2022-report/)
-- [Smiler comes up with a different kind of gig economy for event and venue photographers](https://techcrunch.com/2022/06/01/smiler-comes-up-with-a-different-kind-of-gig-economy-for-event-and-venue-photographers/)
-- [Night sky, June 2022: What you can see this month [maps]](https://www.space.com/16149-night-sky.html/)
-- [Launch of NASA&#39;s CAPSTONE cubesat moon mission delayed to June 13](https://www.space.com/nasa-capstone-cubesat-moon-mission-launch-delay-june-13/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
