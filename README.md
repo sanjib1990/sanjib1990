@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Slack now supports pronunciation guides in profiles](https://techcrunch.com/2022/06/01/slack-now-supports-pronunciation-guides-in-profiles/)
+- [Why more funding equates more peace of mind for TRIPP and its users](https://techcrunch.com/2022/06/01/why-more-funding-equates-more-peace-of-mind-for-tripp-and-its-users/)
 - [Who’s liable for AI-generated lies?](https://techcrunch.com/2022/06/01/whos-liable-for-ai-generated-lies/)
+- [What is today&#39;s moon? Moon phases {year}](https://www.space.com/18880-moon-phases.html/)
 - [Full moon calendar {year}: When to see the next full moon](https://www.space.com/16830-full-moon-calendar.html/)
-- [Former OpenSea exec arrested and charged with insider trading of NFTs](https://techcrunch.com/2022/06/01/former-opensea-exec-arrested-and-charged-with-insider-trading-of-nfts/)
-- [Google expands program to help train the formerly incarcerated](https://techcrunch.com/2022/06/01/2327477/)
-- [Boundary Layer wants to steal air freight’s lunch and transport it by water instead](https://techcrunch.com/2022/06/01/boundary-layer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
