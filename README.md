@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Cybersecurity startup Ordr nabs $40M to monitor connected devices for anomalies](https://techcrunch.com/2022/06/01/2326321/)
-- [NASA&#39;s sun-grazing Parker Solar Probe will zip through its 12th stellar closeup today](https://www.space.com/nasa-parker-solar-probe-12th-sun-flyby/)
-- [On This Day In Space: June 1, 2011: Space shuttle Endeavour&#39;s Final Touchdown](https://www.space.com/39251-on-this-day-in-space.html/)
-- [China-backed hackers are exploiting unpatched Microsoft zero-day](https://techcrunch.com/2022/06/01/china-backed-hackers-are-exploiting-unpatched-microsoft-zero-day/)
-- [Coralogix streams $142M into its coffers to expand its production analytics into a full-stack observability platform](https://techcrunch.com/2022/06/01/coralogix-streams-142m-into-its-coffers-to-expand-its-production-analytics-into-a-full-stack-observability-platform/)
+- [How to attend today’s TechCrunch &lpar;virtual&rpar; event in Columbus, Ohio](https://techcrunch.com/2022/06/01/how-to-attend-todays-techcrunch-virtual-event-in-columbus-ohio/)
+- [Why Intel chose Columbus, Ohio to build chips](https://techcrunch.com/2022/06/01/how-intel-landed-in-columbus/)
+- [Columbus, Ohio is quickly becoming the Midwest’s tech hub](https://techcrunch.com/2022/06/01/columbus-ohio-is-quickly-becoming-the-midwests-tech-hub/)
+- [Startups in Columbus, Ohio are thriving and hiring](https://techcrunch.com/2022/06/01/startups-in-columbus-ohio-are-thriving-and-hiring/)
+- [Entertainment site Fandom adds long-requested creator features, ‘Interactive Wiki Maps’ and ‘Fandom Trivia’](https://techcrunch.com/2022/06/01/entertainment-site-fandom-adds-long-requested-creator-features-interactive-wiki-maps-and-fandom-trivia/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
