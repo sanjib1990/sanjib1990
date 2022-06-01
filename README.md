@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Odilo raises $64M as its white-label e-learning library passes 8,500 customers and 170M users](https://techcrunch.com/2022/06/01/odilo-raises-64m-as-its-white-label-e-learning-library-passes-8500-customers-and-170m-users/)
+- [Indian fintech Slice tops $1.5 billion valuation in new funding to scale UPI payments](https://techcrunch.com/2022/06/01/indian-fintech-slice-tops-1-5-billion-valuation-in-new-funding-to-scale-upi-payments/)
 - [Egyptian q-commerce platform Appetito bags Lamma for over $10M](https://techcrunch.com/2022/05/31/egyptian-q-commerce-platform-appetito-bags-lamma-for-over-10m/)
 - [Rimac raises more than $500M from Porsche, Softbank and Goldman Sachs](https://techcrunch.com/2022/05/31/ev-startup-rimac-raises-more-than-500m-from-porsche-softbank-and-goldman-sachs/)
 - [France’s Alven VC launches 6th fund with a hard cap of €350M](https://techcrunch.com/2022/05/31/frances-alven-vc-launches-6th-fund-with-a-hard-cap-of-e350m/)
-- [Upway lands $25 million to sell more refurbished electric bikes](https://techcrunch.com/2022/05/31/upway-lands-25-million-to-sell-more-refurbished-electric-bikes/)
-- [South Africa’s Talk360 raises $4M to build single payment platform for Africa](https://techcrunch.com/2022/05/31/south-africas-talk360-raises-4m-to-build-single-payment-platform-for-africa/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
