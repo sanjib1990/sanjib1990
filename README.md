@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [a16z-backed Loom lays off 14% of staff, one year after becoming a unicorn](https://techcrunch.com/2022/06/01/a16z-backed-loom-video-layoffs/)
 - [Poparazzi hits 5M+ downloads a year after launch, confirms its $15M Series A](https://techcrunch.com/2022/06/01/poparazzi-hits-5m-downloads-a-year-after-launch-confirms-its-15m-series-a/)
-- [SureImpact wins the TC City Spotlight Columbus: Pitch-Off](https://techcrunch.com/2022/06/01/sureimpaact-wins-the-tc-city-spotlight-columbus-pitch-off/)
+- [SureImpact wins the TC City Spotlight: Columbus Pitch-Off](https://techcrunch.com/2022/06/01/sureimpaact-wins-the-tc-city-spotlight-columbus-pitch-off/)
 - [Daily Crunch: Buick unveils Wildcat concept car as company shifts to EV-only lineup](https://techcrunch.com/2022/06/01/daily-crunch-buick-unveils-wildcat-concept-car-as-company-shifts-to-ev-only-lineup/)
 - [This is the beginning of the unbundled database era](https://techcrunch.com/2022/06/01/this-is-the-beginning-of-the-unbundled-database-era/)
-- [Google bans deepfake-generating AI from Colab](https://techcrunch.com/2022/06/01/2328459/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
