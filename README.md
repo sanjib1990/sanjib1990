@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Pear VC’s Anand Iyer goes solo with new $200M fund for crypto developer tools](https://techcrunch.com/2022/06/02/microsoft-web3-solo-gp-venture-fund-backs-crypto-developer-tools-infrastructure/)
-- [JupiterOne raises $70M at a $1B+ valuation to help track, manage and secure complex cyber assets](https://techcrunch.com/2022/06/02/jupiterone-raises-70m-at-a-1b-valuation-to-help-track-manage-and-secure-complex-cyber-assets/)
-- [Visa and Kenya’s Safaricom launch virtual card to support global digital payments via M-Pesa](https://techcrunch.com/2022/06/02/visa-and-kenyas-safaricom-launch-virtual-card-to-support-global-digital-payments-via-m-pesa/)
-- [Yummy’s super-sized round helps grow its delivery, ride-sharing super app in LatAm](https://techcrunch.com/2022/06/02/yummy-delivery-ridesharing-superapp-latam/)
-- [On This Day In Space: June 2, 1966: Surveyor 1 becomes 1st American spacecraft to soft-land on the moon](https://www.space.com/39251-on-this-day-in-space.html/)
+- [Chainguard raises $50M to guard supply chains](https://techcrunch.com/2022/06/02/chainguard-raises-50m-to-guard-supply-chains/)
+- [Amazon is launching an invite-based ordering option, starting with the PS5 and Xbox Series X](https://techcrunch.com/2022/06/02/amazon-invite-only-ordering-option-ps5-xbox-series-x/)
+- [Why it isn’t easy to throw cloud spending on the cutting block](https://techcrunch.com/2022/06/02/why-it-isnt-easy-to-throw-cloud-spending-on-the-cutting-block/)
+- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates/)
+- [Nikon Z7 II review](https://www.space.com/nikon-z7-ii-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
