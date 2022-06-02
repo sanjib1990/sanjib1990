@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Social app IRL lays off 25% of team, says it has enough cash to last well into 2024](https://techcrunch.com/2022/06/02/irl-layoffs-abraham-shafi-social-media/)
 - [Daily Crunch: To manage high-demand products, Amazon unveils invitation-based ordering system](https://techcrunch.com/2022/06/02/daily-crunch-amazon-unveils-invitation-based-ordering-system/)
 - [Insurtech Policygenius cuts 25% of staff, less than 3 months after raising $125M](https://techcrunch.com/2022/06/02/insurtech-policygenius-cuts-25-of-staff-less-than-3-months-after-raising-125m/)
 - [Mozilla brings free, offline translation to Firefox](https://techcrunch.com/2022/06/02/mozilla-brings-free-offline-translation-to-firefox/)
 - [Hear how Columbus, Ohio startups are hiring tech talent](https://techcrunch.com/2022/06/02/hear-how-columbus-ohio-startups-are-hiring-tech-talent/)
-- [Datadog finds serverless computing is going mainstream](https://techcrunch.com/2022/06/02/datadog-finds-serverless-computing-is-going-mainstream/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
