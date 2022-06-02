@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Latest Android update brings new features to Gboard, accessibility apps and more](https://techcrunch.com/2022/06/02/android-new-features-gboard-accessibility-apps/)
+- [Terra’s Do Kwon looks for redemption with Luna token rebirth](https://techcrunch.com/2022/06/02/terras-do-kwon-looks-for-redemption-with-luna-token-rebirth/)
+- [New report examines the number of downloads it takes to hit the top of the App Store](https://techcrunch.com/2022/06/02/new-report-examines-the-number-of-downloads-it-takes-to-hit-the-top-of-the-app-store/)
+- [DOJ case against ex-OpenSea exec could label NFTs as securities, former SEC lawyer says](https://techcrunch.com/2022/06/02/doj-case-against-ex-opensea-exec-could-label-nfts-as-securities-former-sec-lawyer-says/)
 - [Athleisure icon Ty Haney raises $9.8M in fresh funding for her blockchain rewards startup](https://techcrunch.com/2022/06/02/outdoor-voices-athleisure-founder-ty-haney-blockchain-crypto-consumer-brands-startup-chain-reaction/)
-- [Ford wants to sell EVs online only and at a set price](https://techcrunch.com/2022/06/02/ford-wants-to-sell-evs-online-only-and-at-a-set-price/)
-- [What connects the stock market contraction to startup valuations?](https://techcrunch.com/2022/06/02/what-connects-the-stock-market-contraction-to-startup-valuations/)
-- [Robot, chicken](https://techcrunch.com/2022/06/02/robot-chicken/)
-- [Carbon Health lays off 8% of staff](https://techcrunch.com/2022/06/02/carbon-health-lays-off-8-of-staff/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
