@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Blue-whale-size asteroid to screech past Earth in close encounter on June 6](https://www.space.com/asteroid-2021-gt2-close-flyby-earth/)
-- [Our Mars rover mission was suspended because of the Ukraine war — here&#39;s what we&#39;re hoping for next](https://www.space.com/mars-rover-mission-suspended-ukraine-war/)
-- [LaunchNotes looks to transform how software product teams communicate changes to customers](https://techcrunch.com/2022/06/02/launchnotes-looks-to-transform-how-software-product-teams-communicate-changes-to-customers/)
-- [What to expect from Apple’s WWDC 2022 keynote](https://techcrunch.com/2022/06/02/what-to-expect-from-apples-wwdc-2022-keynote/)
-- [Investors have flipped their weighting of growth versus profitability](https://techcrunch.com/2022/06/02/investors-have-flipped-their-weighting-of-growth-versus-profitability/)
+- [Fresh tickets available to TC’s Annual Summer Party — get one while you can!](https://techcrunch.com/2022/06/02/fresh-tickets-available-to-tcs-annual-summer-party-get-one-while-you-can/)
+- [Russia will launch a cargo mission to the space station early Friday morning. Watch it live](https://www.space.com/russia-progress-81-cargo-mission-launch/)
+- [Pew pew! Perseverance rover on Mars picks its own prize rocks to shoot with laser](https://www.space.com/perseverance-rover-mars-autonomous-laser-targets/)
+- [Gemini lays off 10% of workforce as the ‘crypto revolution’ enters its ‘contraction phase’](https://techcrunch.com/2022/06/02/gemini-lays-off-10-of-workforce-as-the-crypto-revolution-enters-its-contraction-phase/)
+- [Announcing the full agenda for TC Sessions: Robotics happening this July](https://techcrunch.com/2022/06/02/announcing-the-full-agenda-for-tc-sessions-robotics-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
