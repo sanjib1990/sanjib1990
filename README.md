@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pear VC’s Anand Iyer goes solo with new $200M fund for crypto developer tools](https://techcrunch.com/2022/06/02/microsoft-web3-solo-gp-venture-fund-backs-crypto-developer-tools-infrastructure/)
+- [JupiterOne raises $70M at a $1B+ valuation to help track, manage and secure complex cyber assets](https://techcrunch.com/2022/06/02/jupiterone-raises-70m-at-a-1b-valuation-to-help-track-manage-and-secure-complex-cyber-assets/)
+- [Visa and Kenya’s Safaricom launch virtual card to support global digital payments via M-Pesa](https://techcrunch.com/2022/06/02/visa-and-kenyas-safaricom-launch-virtual-card-to-support-global-digital-payments-via-m-pesa/)
 - [Yummy’s super-sized round helps grow its delivery, ride-sharing super app in LatAm](https://techcrunch.com/2022/06/02/yummy-delivery-ridesharing-superapp-latam/)
-- [Sanlo, a startup that offers app and game developers access to financial tools and capital, raises $10M](https://techcrunch.com/2022/06/02/sanlo-a-startup-that-offers-app-and-game-developers-access-to-financial-tools-and-capital-raises-10m/)
-- [Nabla is now offering a health tech stack for patient engagement](https://techcrunch.com/2022/06/02/nabla-health-tech-stack-api/)
-- [Strange &#39;unknown structure,&#39; a faint radio glow thousands of light-years wide, found around closest quasar](https://www.space.com/quasar-supermassive-black-hole-radio-glow-unknown-structure/)
-- [See 5 planets align in the night sky this month, a rare treat!](https://www.space.com/five-planets-align-skywatching-june-2022/)
+- [On This Day In Space: June 2, 1966: Surveyor 1 becomes 1st American spacecraft to soft-land on the moon](https://www.space.com/39251-on-this-day-in-space.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
