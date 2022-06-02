@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nabla is now offering a health tech stack for patient engagement](https://techcrunch.com/2022/06/02/nabla-health-tech-stack-api/)
+- [Faint radio glow thousands of light-years wide discovered around closest quasar](https://www.space.com/quasar-supermassive-black-hole-radio-glow/)
+- [See 5 planets align in the night sky this month, a rare treat!](https://www.space.com/five-planets-align-skywatching-june-2022/)
 - [Indonesian hyperlocal social commerce app Super gets $70M led by NEA](https://techcrunch.com/2022/06/01/indonesian-hyperlocal-social-commerce-app-super-gets-70m-led-by-nea/)
 - [a16z-backed Loom lays off 14% of staff, one year after becoming a unicorn](https://techcrunch.com/2022/06/01/a16z-backed-loom-video-layoffs/)
-- [Poparazzi hits 5M+ downloads a year after launch, confirms its $15M Series A](https://techcrunch.com/2022/06/01/poparazzi-hits-5m-downloads-a-year-after-launch-confirms-its-15m-series-a/)
-- [SureImpact wins the TC City Spotlight: Columbus Pitch-Off](https://techcrunch.com/2022/06/01/sureimpaact-wins-the-tc-city-spotlight-columbus-pitch-off/)
-- [Daily Crunch: Buick unveils Wildcat concept car as company shifts to EV-only lineup](https://techcrunch.com/2022/06/01/daily-crunch-buick-unveils-wildcat-concept-car-as-company-shifts-to-ev-only-lineup/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
