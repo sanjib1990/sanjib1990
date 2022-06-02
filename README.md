@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Athleisure icon Ty Haney raises $9.8M in fresh funding for her blockchain rewards startup](https://techcrunch.com/2022/06/02/outdoor-voices-athleisure-founder-ty-haney-blockchain-crypto-consumer-brands-startup-chain-reaction/)
+- [Ford wants to sell EVs online only and at a set price](https://techcrunch.com/2022/06/02/ford-wants-to-sell-evs-online-only-and-at-a-set-price/)
+- [What connects the stock market contraction to startup valuations?](https://techcrunch.com/2022/06/02/what-connects-the-stock-market-contraction-to-startup-valuations/)
+- [Robot, chicken](https://techcrunch.com/2022/06/02/robot-chicken/)
 - [Carbon Health lays off 8% of staff](https://techcrunch.com/2022/06/02/carbon-health-lays-off-8-of-staff/)
-- [Pitch Deck Teardown: Encore’s $3M seed deck](https://techcrunch.com/2022/06/02/sample-seed-pitch-deck-encore/)
-- [Elon Musk tells SpaceX, Tesla workers they must be in office at least 40 hours a week: report](https://www.space.com/elon-musk-spacex-tesla-no-remote-work/)
-- [‘Social good’ cloud provider Blackbaud takes millions from the NRA](https://techcrunch.com/2022/06/02/social-good-cloud-provider-blackbaud-takes-millions-from-the-nra/)
-- [Fresh tickets available to TC’s Annual Summer Party — get one while you can!](https://techcrunch.com/2022/06/02/fresh-tickets-available-to-tcs-annual-summer-party-get-one-while-you-can/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
