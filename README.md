@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Yummy’s super-sized round helps grow its delivery, ride-sharing super app in LatAm](https://techcrunch.com/2022/06/02/yummy-delivery-ridesharing-superapp-latam/)
+- [Sanlo, a startup that offers app and game developers access to financial tools and capital, raises $10M](https://techcrunch.com/2022/06/02/sanlo-a-startup-that-offers-app-and-game-developers-access-to-financial-tools-and-capital-raises-10m/)
 - [Nabla is now offering a health tech stack for patient engagement](https://techcrunch.com/2022/06/02/nabla-health-tech-stack-api/)
-- [Faint radio glow thousands of light-years wide discovered around closest quasar](https://www.space.com/quasar-supermassive-black-hole-radio-glow/)
+- [Strange &#39;unknown structure,&#39; a faint radio glow thousands of light-years wide, found around closest quasar](https://www.space.com/quasar-supermassive-black-hole-radio-glow-unknown-structure/)
 - [See 5 planets align in the night sky this month, a rare treat!](https://www.space.com/five-planets-align-skywatching-june-2022/)
-- [Indonesian hyperlocal social commerce app Super gets $70M led by NEA](https://techcrunch.com/2022/06/01/indonesian-hyperlocal-social-commerce-app-super-gets-70m-led-by-nea/)
-- [a16z-backed Loom lays off 14% of staff, one year after becoming a unicorn](https://techcrunch.com/2022/06/01/a16z-backed-loom-video-layoffs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
