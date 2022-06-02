@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [LatchBio empowers scientists with a code-free platform for handling big biotech data](https://techcrunch.com/2022/06/02/latchbio-empowers-scientists-with-a-code-free-platform-for-handling-big-biotech-data/)
+- [NASA to buy 5 more astronaut missions from SpaceX](https://www.space.com/nasa-buy-five-more-spacex-astronaut-missions/)
+- [Pinterest acquires AI-powered shopping startup The Yes, co-founded by former Stitch Fix exec](https://techcrunch.com/2022/06/02/pinterest-acquires-a-i-powered-shopping-startup-the-yes-co-founded-by-former-stitch-fix-exec/)
 - [Latest Android update brings new features to Gboard, accessibility apps and more](https://techcrunch.com/2022/06/02/android-new-features-gboard-accessibility-apps/)
 - [Terra’s Do Kwon looks for redemption with Luna token rebirth](https://techcrunch.com/2022/06/02/terras-do-kwon-looks-for-redemption-with-luna-token-rebirth/)
-- [New report examines the number of downloads it takes to hit the top of the App Store](https://techcrunch.com/2022/06/02/new-report-examines-the-number-of-downloads-it-takes-to-hit-the-top-of-the-app-store/)
-- [DOJ case against ex-OpenSea exec could label NFTs as securities, former SEC lawyer says](https://techcrunch.com/2022/06/02/doj-case-against-ex-opensea-exec-could-label-nfts-as-securities-former-sec-lawyer-says/)
-- [Athleisure icon Ty Haney raises $9.8M in fresh funding for her blockchain rewards startup](https://techcrunch.com/2022/06/02/outdoor-voices-athleisure-founder-ty-haney-blockchain-crypto-consumer-brands-startup-chain-reaction/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
