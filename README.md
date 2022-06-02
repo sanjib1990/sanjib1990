@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [LatchBio empowers scientists with a code-free platform for handling big biotech data](https://techcrunch.com/2022/06/02/latchbio-empowers-scientists-with-a-code-free-platform-for-handling-big-biotech-data/)
-- [NASA to buy 5 more astronaut missions from SpaceX](https://www.space.com/nasa-buy-five-more-spacex-astronaut-missions/)
-- [Pinterest acquires AI-powered shopping startup The Yes, co-founded by former Stitch Fix exec](https://techcrunch.com/2022/06/02/pinterest-acquires-a-i-powered-shopping-startup-the-yes-co-founded-by-former-stitch-fix-exec/)
-- [Latest Android update brings new features to Gboard, accessibility apps and more](https://techcrunch.com/2022/06/02/android-new-features-gboard-accessibility-apps/)
-- [Terra’s Do Kwon looks for redemption with Luna token rebirth](https://techcrunch.com/2022/06/02/terras-do-kwon-looks-for-redemption-with-luna-token-rebirth/)
+- [Daily Crunch: To manage high-demand products, Amazon unveils invitation-based ordering system](https://techcrunch.com/2022/06/02/daily-crunch-amazon-unveils-invitation-based-ordering-system/)
+- [Insurtech Policygenius cuts 25% of staff, less than 3 months after raising $125M](https://techcrunch.com/2022/06/02/insurtech-policygenius-cuts-25-of-staff-less-than-3-months-after-raising-125m/)
+- [Mozilla brings free, offline translation to Firefox](https://techcrunch.com/2022/06/02/mozilla-brings-free-offline-translation-to-firefox/)
+- [Hear how Columbus, Ohio startups are hiring tech talent](https://techcrunch.com/2022/06/02/hear-how-columbus-ohio-startups-are-hiring-tech-talent/)
+- [Datadog finds serverless computing is going mainstream](https://techcrunch.com/2022/06/02/datadog-finds-serverless-computing-is-going-mainstream/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
