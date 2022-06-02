@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Chainguard raises $50M to guard supply chains](https://techcrunch.com/2022/06/02/chainguard-raises-50m-to-guard-supply-chains/)
-- [Amazon is launching an invite-based ordering option, starting with the PS5 and Xbox Series X](https://techcrunch.com/2022/06/02/amazon-invite-only-ordering-option-ps5-xbox-series-x/)
-- [Why it isn’t easy to throw cloud spending on the cutting block](https://techcrunch.com/2022/06/02/why-it-isnt-easy-to-throw-cloud-spending-on-the-cutting-block/)
-- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates/)
-- [Nikon Z7 II review](https://www.space.com/nikon-z7-ii-review/)
+- [Evil Corp hackers evolve ransomware tactics to dodge US sanctions](https://techcrunch.com/2022/06/02/evil-corp-ransomware-sanctions/)
+- [South Korean content providers raise service fees in the wake of Google’s in-app payment policy](https://techcrunch.com/2022/06/02/south-korean-content-providers-raise-service-fees-in-the-wake-of-googles-in-app-payment-policy/)
+- [Hubble telescope spots peculiar dwarf galaxy with really bright neighbor](https://www.space.com/hubble-space-telescope-photo-peculiar-dwarf-galaxy/)
+- [Last call to Volunteer at TC Sessions: Climate and go to TC Disrupt 2022 for free](https://techcrunch.com/2022/06/02/last-call-to-volunteer-at-tc-sessions-climate-and-go-to-tc-disrupt-2022-for-free/)
+- [Ford to invest $3.7B in U.S. factories, add 6,200 union jobs in push to build more EVs](https://techcrunch.com/2022/06/02/ford-to-invest-3-7b-in-u-s-factories-add-6200-union-jobs-in-push-to-build-more-evs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
