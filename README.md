@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Evil Corp hackers evolve ransomware tactics to dodge US sanctions](https://techcrunch.com/2022/06/02/evil-corp-ransomware-sanctions/)
-- [South Korean content providers raise service fees in the wake of Google’s in-app payment policy](https://techcrunch.com/2022/06/02/south-korean-content-providers-raise-service-fees-in-the-wake-of-googles-in-app-payment-policy/)
-- [Hubble telescope spots peculiar dwarf galaxy with really bright neighbor](https://www.space.com/hubble-space-telescope-photo-peculiar-dwarf-galaxy/)
-- [Last call to Volunteer at TC Sessions: Climate and go to TC Disrupt 2022 for free](https://techcrunch.com/2022/06/02/last-call-to-volunteer-at-tc-sessions-climate-and-go-to-tc-disrupt-2022-for-free/)
-- [Ford to invest $3.7B in U.S. factories, add 6,200 union jobs in push to build more EVs](https://techcrunch.com/2022/06/02/ford-to-invest-3-7b-in-u-s-factories-add-6200-union-jobs-in-push-to-build-more-evs/)
+- [Blue-whale-size asteroid to screech past Earth in close encounter on June 6](https://www.space.com/asteroid-2021-gt2-close-flyby-earth/)
+- [Our Mars rover mission was suspended because of the Ukraine war — here&#39;s what we&#39;re hoping for next](https://www.space.com/mars-rover-mission-suspended-ukraine-war/)
+- [LaunchNotes looks to transform how software product teams communicate changes to customers](https://techcrunch.com/2022/06/02/launchnotes-looks-to-transform-how-software-product-teams-communicate-changes-to-customers/)
+- [What to expect from Apple’s WWDC 2022 keynote](https://techcrunch.com/2022/06/02/what-to-expect-from-apples-wwdc-2022-keynote/)
+- [Investors have flipped their weighting of growth versus profitability](https://techcrunch.com/2022/06/02/investors-have-flipped-their-weighting-of-growth-versus-profitability/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
