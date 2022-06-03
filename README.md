@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jupiter is a whirling world in stunning &lpar;and woozy&rpar; footage from Juno spacecraft](https://www.space.com/jupiter-whirling-world-juno-spacecraft-images/)
+- [Monument to NASA&#39;s fallen Apollo 1 crew dedicated at national cemetery](https://www.space.com/apollo-1-monument-arlington-cemetery/)
+- [Monster black holes may have murdered their host galaxies in the early universe](https://www.space.com/supermassive-black-holes-kill-host-galaxies/)
+- [Chinese astronaut gives hair-washing demonstration in space &lpar;video&rpar;](https://www.space.com/chinese-astronaut-wash-hair-space-video/)
 - [Rock the Kasbosch? Bosch has a new, $295M VC fund](https://techcrunch.com/2022/06/03/rock-the-kasbosch-bosch-has-a-new-295-million-vc-fund/)
-- [Xiaomi appoints Alvin Tse as General Manager of India business](https://techcrunch.com/2022/06/02/xiaomi-appoints-alvin-tse-as-general-manager-of-india-business/)
-- [Coinbase extends hiring freeze, rescinds some accepted offers](https://techcrunch.com/2022/06/02/coinbase-hiring-freeze-rescinds-accepted-offers/)
-- [Temasek’s Pavilion Capital backs South Korean AI chip maker Rebellions with $50M investment](https://techcrunch.com/2022/06/02/temaseks-pavilion-capital-backs-south-korean-ai-chip-maker-rebellions-with-50m-investment/)
-- [Cruise can finally charge for driverless robotaxi rides in San Francisco](https://techcrunch.com/2022/06/02/cruise-can-finally-charge-for-driverless-robotaxi-rides-in-san-francisco/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
