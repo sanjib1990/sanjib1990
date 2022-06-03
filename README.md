@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Black Founders Matter presses VCs to pledge commitment to diversity](https://techcrunch.com/2022/06/03/black-founders-matter-presses-vcs-to-pledge-commitment-to-diversity/)
+- [Dave Clark, the longtime head of Amazon’s consumer division, departs](https://techcrunch.com/2022/06/03/dave-clark-the-longtime-head-of-amazons-consumer-division-departs/)
 - [Microsoft disrupts Iran-linked hackers targeting organizations in Israel](https://techcrunch.com/2022/06/03/microsoft-disrupts-iran-linked-hackers-targeting-organizations-in-israel/)
 - [Ends tonight: Launch-price savings on passes to TechCrunch Disrupt](https://techcrunch.com/2022/06/03/ends-tonight-launch-price-savings-on-passes-to-techcrunch-disrupt/)
 - [The Modes of Webb’s NIRISS](https://blogs.nasa.gov/webb/2022/06/03/the-modes-of-webbs-niriss/)
-- [TikTok is launching a live subscription comedy series with social media collaboration company Pearpop](https://techcrunch.com/2022/06/03/tiktok-live-subscription-comedy-series-pearpop/)
-- [Funding radical startups addressing climate change with Natel Energy and Breakthrough Energy Ventures](https://techcrunch.com/2022/06/03/funding-radical-startups-addressing-climate-change-with-natel-energy-and-breakthrough-energy-ventures/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
