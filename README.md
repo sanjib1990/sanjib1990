@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Over 100 hidden asteroids detected thanks to new algorithm studying old telescope data](https://www.space.com/algorithm-discovers-100-asteroids-hidden-historical-data/)
-- [The &#39;supermoon&#39; season of 2022 continues with the Full Strawberry Moon on June 14](https://www.space.com/supermoon-season-2022-june-full-moon/)
-- [Biden admin policy change could tip solar and wind projects into profitability](https://techcrunch.com/2022/06/03/biden-admin-policy-change-could-tip-solar-and-wind-projects-into-profitability/)
-- [See the new trailer &#39;Star Wars Jedi: Survivor&#39; coming in 2023](https://www.space.com/star-wars-jedi-survivor-trailer/)
-- [Black Founders Matter presses VCs to pledge commitment to diversity](https://techcrunch.com/2022/06/03/black-founders-matter-presses-vcs-to-pledge-commitment-to-diversity/)
+- [TechCrunch+ roundup: Optimizing dev teams, O-1A visa criteria, growth’s golden metric](https://techcrunch.com/2022/06/03/techcrunch-roundup-optimizing-dev-teams-o-1a-visa-criteria-growths-golden-metric/)
+- [Armed with experience, insurtech MGAs are paving the way for insurtech 2.0](https://techcrunch.com/2022/06/03/armed-with-experience-insurtech-mgas-are-paving-the-way-for-insurtech-2-0/)
+- [New York Senate passes moratorium to ban carbon-based crypto mining](https://techcrunch.com/2022/06/03/new-york-senate-passes-moratorium-to-ban-carbon-based-crypto-mining/)
+- [NASA picks new experiments for commercial delivery to moon in 2026](https://www.space.com/moon-experiments-clps-nasa-geology-biology/)
+- [Satechi’s USB-C slim dock is how the iMac shoulda been designed in the first place](https://techcrunch.com/2022/06/03/satechi-usb-c-slim-dock/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
