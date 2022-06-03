@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Sheryl Sandberg, Substack and the art of still raising money for groceries](https://techcrunch.com/2022/06/03/sheryl-sandberg-substack-and-the-art-of-still-raising-money-for-groceries/)
-- [The delivery market is coming down from its pandemic highs](https://techcrunch.com/2022/06/03/the-delivery-market-is-coming-down-from-its-pandemic-highs/)
-- [Russia launches new Progress 81 cargo ship to International Space Station](https://www.space.com/russia-progress-81-cargo-mission-launch/)
-- [How Olive pivoted 27 times on its way to a 4 billion valuation](https://techcrunch.com/2022/06/03/how-olive-pivoted-27-times-on-its-way-to-a-4-billion-valuation/)
-- [Snapchat will now display restaurant recommendations in the Snap Map in select cities](https://techcrunch.com/2022/06/03/snapchat-restaurant-recommendations-snap-map/)
+- [Elon Musk orders hiring freeze, warns of job cuts in latest leaked email](https://techcrunch.com/2022/06/03/elon-musk-orders-hiring-freeze-warns-of-job-cuts-in-latest-leaked-email/)
+- [Meet the Extreme Tech Challenge 2022 Global Finals category and special award winners](https://techcrunch.com/2022/06/03/meet-the-extreme-tech-challenge-2022-global-finals-category-and-special-award-winners/)
+- [RecoLabs raises $30M to prevent sensitive data leaks](https://techcrunch.com/2022/06/03/recolabs-raises-30m-to-prevent-sensitive-data-leaks/)
+- [What&#39;s it like to be on Venus or Pluto? We studied their sand dunes and found some clues.](https://www.space.com/sand-dunes-clues-venus-pluto-planet-surface-conditions/)
+- [You may be having a problem with the economy, but Salesforce sure isn’t](https://techcrunch.com/2022/06/03/you-may-be-having-a-problem-with-the-economy-but-salesforce-sure-isnt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
