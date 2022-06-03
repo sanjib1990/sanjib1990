@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [the $0.30 Hacking Lab](https://www.youtube.com/watch?v=4xJDDUt4Wq8)
 - [let’s play with a ZERO-DAY vulnerability “follina”](https://www.youtube.com/watch?v=3ytqP1QvhUc)
 - [you need to HACK faster!! &lpar;Linux Terminal hacks YOU NEED!!&rpar;](https://www.youtube.com/watch?v=ACM36qtHIEg)
 - [Why Information Theory is Important - Computerphile](https://www.youtube.com/watch?v=b6VdGHSV6qg)
 - [LLVM in 100 Seconds](https://www.youtube.com/watch?v=BT2Cv-Tjq7Q)
-- [i bet you can&#39;t do this &lpar;because you still suck at subnetting&rpar;](https://www.youtube.com/watch?v=2-i5x8KCfII)
 <!-- YOUTUBE:END -->
 
 ---
