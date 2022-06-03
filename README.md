@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [On This Day In Space: June 3, 1965: Astronaut Ed White takes 1st American spacewalk](https://www.space.com/39251-on-this-day-in-space.html/)
 - [Ukraine invasion&#39;s impacts on space exploration: Live updates](https://www.space.com/news/live/russia-ukraine-invasion-space-impacts-updates/)
 - [Russia launches new Progress 81 cargo ship to International Space Station](https://www.space.com/russia-progress-81-cargo-mission-launch/)
 - [Jupiter is a whirling world in stunning &lpar;and woozy&rpar; footage from Juno spacecraft](https://www.space.com/jupiter-whirling-world-juno-spacecraft-images/)
 - [Monument to NASA&#39;s fallen Apollo 1 crew dedicated at national cemetery](https://www.space.com/apollo-1-monument-arlington-cemetery/)
-- [Monster black holes may have murdered their host galaxies in the early universe](https://www.space.com/supermassive-black-holes-kill-host-galaxies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
