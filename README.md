@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Dress to impress: US Space Force releases new grooming and uniform guidelines](https://www.space.com/us-space-force-grooming-uniform-guidelines/)
-- [On This Day In Space: June 3, 1965: Astronaut Ed White takes 1st American spacewalk](https://www.space.com/39251-on-this-day-in-space.html/)
-- [Ukraine invasion&#39;s impacts on space exploration: Live updates](https://www.space.com/news/live/russia-ukraine-invasion-space-impacts-updates/)
+- [Sheryl Sandberg, Substack and the art of still raising money for groceries](https://techcrunch.com/2022/06/03/sheryl-sandberg-substack-and-the-art-of-still-raising-money-for-groceries/)
+- [The delivery market is coming down from its pandemic highs](https://techcrunch.com/2022/06/03/the-delivery-market-is-coming-down-from-its-pandemic-highs/)
 - [Russia launches new Progress 81 cargo ship to International Space Station](https://www.space.com/russia-progress-81-cargo-mission-launch/)
-- [Jupiter is a whirling world in stunning &lpar;and woozy&rpar; footage from Juno spacecraft](https://www.space.com/jupiter-whirling-world-juno-spacecraft-images/)
+- [How Olive pivoted 27 times on its way to a 4 billion valuation](https://techcrunch.com/2022/06/03/how-olive-pivoted-27-times-on-its-way-to-a-4-billion-valuation/)
+- [Snapchat will now display restaurant recommendations in the Snap Map in select cities](https://techcrunch.com/2022/06/03/snapchat-restaurant-recommendations-snap-map/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
