@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [AI model’s insight helps astronomers propose new theory for observing far-off worlds](https://techcrunch.com/2022/06/03/ai-models-insight-helps-astronomers-propose-new-theory-for-observing-far-off-worlds/)
-- [Blue Origin space tourist launches: Live NS-21 mission updates](https://www.space.com/news/live/blue-origin-mission-updates/)
-- [This is not &lpar;just&rpar; another roundup of tech layoffs](https://techcrunch.com/2022/06/03/not-just-another-roundup-tech-layoffs/)
-- [TechCrunch+ roundup: Optimizing dev teams, O-1A visa criteria, growth’s golden metric](https://techcrunch.com/2022/06/03/techcrunch-roundup-optimizing-dev-teams-o-1a-visa-criteria-growths-golden-metric/)
-- [Armed with experience, insurtech MGAs are paving the way for insurtech 2.0](https://techcrunch.com/2022/06/03/armed-with-experience-insurtech-mgas-are-paving-the-way-for-insurtech-2-0/)
+- [Daily Crunch: Tesla shares drop after leaked CEO email reveals hiring freeze, plans to cut 10% of staff](https://techcrunch.com/2022/06/03/daily-crunch-tesla-shares-drop-after-leaked-ceo-email-reveals-hiring-freeze-plans-to-cut-10-of-staff/)
+- [Agtech robotics firm FarmWise just raised another $45 million](https://techcrunch.com/2022/06/03/agtech-robotics-firm-farmwise-just-raised-another-45-million/)
+- [To better manage cybersecurity risk, extend zero-trust principles to third parties](https://techcrunch.com/2022/06/03/to-better-manage-cybersecurity-risk-extend-zero-trust-principles-to-third-parties/)
+- [James Webb Space Telescope coverage wins Pulitzer Prize for science writer Natalie Wolchover and Quanta](https://www.space.com/james-webb-space-telescope-pulitzer-natalie-wolchover-quanta/)
+- [&#39;Thor: Love and Thunder&#39; new trailer tells the tale of the &#39;space viking&#39;](https://www.space.com/thor-love-and-thunder-trailer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
