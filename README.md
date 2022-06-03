@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Elon Musk orders hiring freeze, warns of job cuts in latest leaked email](https://techcrunch.com/2022/06/03/elon-musk-orders-hiring-freeze-warns-of-job-cuts-in-latest-leaked-email/)
-- [Meet the Extreme Tech Challenge 2022 Global Finals category and special award winners](https://techcrunch.com/2022/06/03/meet-the-extreme-tech-challenge-2022-global-finals-category-and-special-award-winners/)
-- [RecoLabs raises $30M to prevent sensitive data leaks](https://techcrunch.com/2022/06/03/recolabs-raises-30m-to-prevent-sensitive-data-leaks/)
-- [What&#39;s it like to be on Venus or Pluto? We studied their sand dunes and found some clues.](https://www.space.com/sand-dunes-clues-venus-pluto-planet-surface-conditions/)
-- [You may be having a problem with the economy, but Salesforce sure isn’t](https://techcrunch.com/2022/06/03/you-may-be-having-a-problem-with-the-economy-but-salesforce-sure-isnt/)
+- [Microsoft disrupts Iran-linked hackers targeting organizations in Israel](https://techcrunch.com/2022/06/03/microsoft-disrupts-iran-linked-hackers-targeting-organizations-in-israel/)
+- [Ends tonight: Launch-price savings on passes to TechCrunch Disrupt](https://techcrunch.com/2022/06/03/ends-tonight-launch-price-savings-on-passes-to-techcrunch-disrupt/)
+- [The Modes of Webb’s NIRISS](https://blogs.nasa.gov/webb/2022/06/03/the-modes-of-webbs-niriss/)
+- [TikTok is launching a live subscription comedy series with social media collaboration company Pearpop](https://techcrunch.com/2022/06/03/tiktok-live-subscription-comedy-series-pearpop/)
+- [Funding radical startups addressing climate change with Natel Energy and Breakthrough Energy Ventures](https://techcrunch.com/2022/06/03/funding-radical-startups-addressing-climate-change-with-natel-energy-and-breakthrough-energy-ventures/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
