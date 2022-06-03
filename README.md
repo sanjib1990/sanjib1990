@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Over 100 hidden asteroids detected thanks to new algorithm studying old telescope data](https://www.space.com/algorithm-discovers-100-asteroids-hidden-historical-data/)
+- [The &#39;supermoon&#39; season of 2022 continues with the Full Strawberry Moon on June 14](https://www.space.com/supermoon-season-2022-june-full-moon/)
+- [Biden admin policy change could tip solar and wind projects into profitability](https://techcrunch.com/2022/06/03/biden-admin-policy-change-could-tip-solar-and-wind-projects-into-profitability/)
+- [See the new trailer &#39;Star Wars Jedi: Survivor&#39; coming in 2023](https://www.space.com/star-wars-jedi-survivor-trailer/)
 - [Black Founders Matter presses VCs to pledge commitment to diversity](https://techcrunch.com/2022/06/03/black-founders-matter-presses-vcs-to-pledge-commitment-to-diversity/)
-- [Dave Clark, the longtime head of Amazon’s consumer division, departs](https://techcrunch.com/2022/06/03/dave-clark-the-longtime-head-of-amazons-consumer-division-departs/)
-- [Microsoft disrupts Iran-linked hackers targeting organizations in Israel](https://techcrunch.com/2022/06/03/microsoft-disrupts-iran-linked-hackers-targeting-organizations-in-israel/)
-- [Ends tonight: Launch-price savings on passes to TechCrunch Disrupt](https://techcrunch.com/2022/06/03/ends-tonight-launch-price-savings-on-passes-to-techcrunch-disrupt/)
-- [The Modes of Webb’s NIRISS](https://blogs.nasa.gov/webb/2022/06/03/the-modes-of-webbs-niriss/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
