@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI model’s insight helps astronomers propose new theory for observing far-off worlds](https://techcrunch.com/2022/06/03/ai-models-insight-helps-astronomers-propose-new-theory-for-observing-far-off-worlds/)
+- [Blue Origin space tourist launches: Live NS-21 mission updates](https://www.space.com/news/live/blue-origin-mission-updates/)
+- [This is not &lpar;just&rpar; another roundup of tech layoffs](https://techcrunch.com/2022/06/03/not-just-another-roundup-tech-layoffs/)
 - [TechCrunch+ roundup: Optimizing dev teams, O-1A visa criteria, growth’s golden metric](https://techcrunch.com/2022/06/03/techcrunch-roundup-optimizing-dev-teams-o-1a-visa-criteria-growths-golden-metric/)
 - [Armed with experience, insurtech MGAs are paving the way for insurtech 2.0](https://techcrunch.com/2022/06/03/armed-with-experience-insurtech-mgas-are-paving-the-way-for-insurtech-2-0/)
-- [New York Senate passes moratorium to ban carbon-based crypto mining](https://techcrunch.com/2022/06/03/new-york-senate-passes-moratorium-to-ban-carbon-based-crypto-mining/)
-- [NASA picks new experiments for commercial delivery to moon in 2026](https://www.space.com/moon-experiments-clps-nasa-geology-biology/)
-- [Satechi’s USB-C slim dock is how the iMac shoulda been designed in the first place](https://techcrunch.com/2022/06/03/satechi-usb-c-slim-dock/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
