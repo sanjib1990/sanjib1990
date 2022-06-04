@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google disables RCS ads in India following rampant spam by businesses](https://techcrunch.com/2022/06/04/google-disables-rcs-ads-in-india-following-rampant-spam-by-businesses/)
-- [Lots of sellers, fewer buyers, in markets for startup shares](https://techcrunch.com/2022/06/04/lots-of-sellers-fewer-buyers-in-markets-for-startup-shares/)
+- [This Week In Space podcast: Episode 14 — The Cosmic Curmudgeon with Andy Aldrin](https://www.space.com/this-week-in-space-podcast-twit/)
+- [A downturn is nothing new for diverse founders](https://techcrunch.com/2022/06/04/for-diverse-founders-a-downturn-is-nothing-new/)
 - [Photos: Blue Origin&#39;s NS-21 space tourism mission](https://www.space.com/blue-origin-ns-21-mission-photos/)
-- [KQED launches free media literacy training course](https://techcrunch.com/2022/06/03/kqed-media-literacy/)
-- [Watch Blue Origin launch 6 space tourists on a New Shepard rocket today](https://www.space.com/blue-origin-ns-21-space-tourist-launch-webcast/)
+- [Do extraterrestrial auroras occur on other planets?](https://www.space.com/do-other-planets-have-auroras/)
+- [These bizarre spiky Mars rocks likely formed by erosion and ancient fractures &lpar;photo&rpar;](https://www.space.com/mars-bizarre-spiky-rocks-curiosity-photo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
