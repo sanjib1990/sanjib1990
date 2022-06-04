@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google disables RCS ads in India following rampant spam by businesses](https://techcrunch.com/2022/06/04/google-disables-rcs-ads-in-india-following-rampant-spam-by-businesses/)
 - [Lots of sellers, fewer buyers, in markets for startup shares](https://techcrunch.com/2022/06/04/lots-of-sellers-fewer-buyers-in-markets-for-startup-shares/)
 - [Photos: Blue Origin&#39;s NS-21 space tourism mission](https://www.space.com/blue-origin-ns-21-mission-photos/)
 - [KQED launches free media literacy training course](https://techcrunch.com/2022/06/03/kqed-media-literacy/)
 - [Watch Blue Origin launch 6 space tourists on a New Shepard rocket today](https://www.space.com/blue-origin-ns-21-space-tourist-launch-webcast/)
-- [Tom Cruise returns to the danger zone in the triumphant &#39;Top Gun: Maverick&#39; &lpar;Review&rpar;](https://www.space.com/top-gun-maverick-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
