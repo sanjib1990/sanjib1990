@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [For mental health startups, happiness is in niches](https://techcrunch.com/2022/06/04/for-mental-health-startups-happiness-is-in-niches/)
+- [The 2022 Bentley Flying Spur Hybrid is a shaky step towards a luxurious EV future](https://techcrunch.com/2022/06/04/2022-bentley-flying-spur-hybrid-review-forecast/)
 - [Blue Origin space tourist launches: Live NS-21 mission updates](https://www.space.com/news/live/blue-origin-mission-updates/)
-- [This Week In Space podcast: Episode 14 — The Cosmic Curmudgeon with Andy Aldrin](https://www.space.com/this-week-in-space-podcast-twit/)
-- [A downturn is nothing new for diverse founders](https://techcrunch.com/2022/06/04/for-diverse-founders-a-downturn-is-nothing-new/)
-- [Photos: Blue Origin&#39;s NS-21 space tourism mission](https://www.space.com/blue-origin-ns-21-mission-photos/)
+- [Blue Origin launches 6 people on company&#39;s 5th space tourism flight](https://www.space.com/blue-origin-ns-21-space-tourist-mission/)
+- [Perceptron: Robots that feel pain and AI that predicts soccer players’ movements](https://techcrunch.com/2022/06/04/perceptron-robots-that-feel-pain-and-ai-that-predicts-soccer-players-movements/)
+- [For mental health startups, happiness is in niches](https://techcrunch.com/2022/06/04/for-mental-health-startups-happiness-is-in-niches/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
