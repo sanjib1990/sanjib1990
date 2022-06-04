@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The battle for BNPL buyers and other TC news](https://techcrunch.com/2022/06/04/the-battle-for-bnpl-buyers-and-other-tc-news/)
 - [Blue Origin space tourist launches: Live NS-21 mission updates](https://www.space.com/news/live/blue-origin-mission-updates/)
 - [The 2022 Bentley Flying Spur Hybrid is a shaky step towards a luxurious EV future](https://techcrunch.com/2022/06/04/2022-bentley-flying-spur-hybrid-review-forecast/)
 - [Photos: Blue Origin&#39;s NS-21 space tourism mission](https://www.space.com/blue-origin-ns-21-mission-photos/)
 - [Blue Origin launches 6 people on company&#39;s 5th space tourism flight](https://www.space.com/blue-origin-ns-21-space-tourist-mission/)
-- [Perceptron: Robots that feel pain and AI that predicts soccer players’ movements](https://techcrunch.com/2022/06/04/perceptron-robots-that-feel-pain-and-ai-that-predicts-soccer-players-movements/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
