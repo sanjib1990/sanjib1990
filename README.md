@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Unlikely players team up to lead South Korea’s air taxi industry](https://techcrunch.com/2022/06/05/unlikely-players-team-up-to-lead-south-koreas-air-taxi-industry/)
+- [Watch NASA roll its huge Artemis 1 moon rocket back to the launch pad tonight](https://www.space.com/nasa-artemis-1-moon-rocket-second-rollout-preview/)
 - [Venus crossed the sun&#39;s face 10 years ago today. Most people alive will never see the sight again.](https://www.space.com/venus-transit-2012-skywatching-reminiscences/)
 - [3 Chinese astronauts arrive at Tiangong space station for 6-month stay](https://www.space.com/china-shenzhou-14-mission-arrives-tiangong-space-station/)
 - [On This Day In Space: June 5, 2002: Endeavour launches on mission to ISS](https://www.space.com/39251-on-this-day-in-space.html/)
-- [To space and back: Blue Origin&#39;s NS-21 crew wants to go again &lpar;and again&rpar;](https://www.space.com/blue-origin-new-shepard-ns21-crew-reactions/)
-- [Moon bricks, space sutures and more: Meet the science SpaceX is flying to the space station this week](https://www.space.com/spacex-cargo-mission-crs-25-science-experiments/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
