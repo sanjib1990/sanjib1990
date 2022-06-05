@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [China launches 3 astronauts to oversee construction of new Tiangong space station](https://www.space.com/china-shenzhou-14-mission-launch-success/)
 - [Gas?! Where we’re going, we don’t need gas](https://techcrunch.com/2022/06/04/gas-where-were-going-we-dont-need-gas/)
 - [This Week in Apps: WWDC preview, hitting the Top Charts, Instagram’s AMBER Alerts](https://techcrunch.com/2022/06/04/this-week-in-apps-wwdc-preview-hitting-the-top-charts-instagrams-amber-alerts/)
 - [Nuance? In this startup market?](https://techcrunch.com/2022/06/04/nuance-in-this-startup-market/)
 - [The battle for BNPL buyers and other TC news](https://techcrunch.com/2022/06/04/the-battle-for-bnpl-buyers-and-other-tc-news/)
+- [The 2022 Bentley Flying Spur Hybrid is a shaky step towards a luxurious EV future](https://techcrunch.com/2022/06/04/2022-bentley-flying-spur-hybrid-review-forecast/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
