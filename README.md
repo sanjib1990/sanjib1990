@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [3 Chinese astronauts arrive at Tiangong space station for 6-month stay](https://www.space.com/china-shenzhou-14-mission-arrives-tiangong-space-station/)
 - [On This Day In Space: June 5, 2002: Endeavour launches on mission to ISS](https://www.space.com/39251-on-this-day-in-space.html/)
 - [To space and back: Blue Origin&#39;s NS-21 crew wants to go again &lpar;and again&rpar;](https://www.space.com/blue-origin-new-shepard-ns21-crew-reactions/)
 - [Moon bricks, space sutures and more: Meet the science SpaceX is flying to the space station this week](https://www.space.com/spacex-cargo-mission-crs-25-science-experiments/)
 - [China launches 3 astronauts to oversee construction of new Tiangong space station](https://www.space.com/china-shenzhou-14-mission-launch-success/)
-- [Gas?! Where we’re going, we don’t need gas](https://techcrunch.com/2022/06/04/gas-where-were-going-we-dont-need-gas/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
