@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [On This Day In Space: June 5, 2002: Endeavour launches on mission to ISS](https://www.space.com/39251-on-this-day-in-space.html/)
+- [To space and back: Blue Origin&#39;s NS-21 crew wants to go again &lpar;and again&rpar;](https://www.space.com/blue-origin-new-shepard-ns21-crew-reactions/)
+- [Moon bricks, space sutures and more: Meet the science SpaceX is flying to the space station this week](https://www.space.com/spacex-cargo-mission-crs-25-science-experiments/)
 - [China launches 3 astronauts to oversee construction of new Tiangong space station](https://www.space.com/china-shenzhou-14-mission-launch-success/)
 - [Gas?! Where we’re going, we don’t need gas](https://techcrunch.com/2022/06/04/gas-where-were-going-we-dont-need-gas/)
-- [This Week in Apps: WWDC preview, hitting the Top Charts, Instagram’s AMBER Alerts](https://techcrunch.com/2022/06/04/this-week-in-apps-wwdc-preview-hitting-the-top-charts-instagrams-amber-alerts/)
-- [Nuance? In this startup market?](https://techcrunch.com/2022/06/04/nuance-in-this-startup-market/)
-- [The battle for BNPL buyers and other TC news](https://techcrunch.com/2022/06/04/the-battle-for-bnpl-buyers-and-other-tc-news/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
