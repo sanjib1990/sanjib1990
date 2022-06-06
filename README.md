@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [3 Chinese astronauts settling in for 6-month stay on Tiangong space station](https://www.space.com/china-shenzhou-14-settling-in-tiangong-space-station/)
 - [Google’s Pixel update brings a music video maker and new vaccine cards](https://techcrunch.com/2022/06/06/googles-pixel-update-brings-a-music-video-maker-and-new-vaccine-cards/)
 - [Fighting the ‘copycat’ stigma in SaaS: 3 tricks that work](https://techcrunch.com/2022/06/06/fighting-the-copycat-stigma-in-saas-3-tricks-that-work/)
 - [IBM acquires offensive security startup Randori to bolster its cybersecurity toolkit](https://techcrunch.com/2022/06/06/ibm-acquires-offensive-security-startup-randori-to-bolster-its-cybersecurity-toolkit/)
 - [Submit your session idea for TechCrunch Disrupt](https://techcrunch.com/2022/06/06/submit-your-session-idea-for-techcrunch-disrupt/)
-- [5 great reasons to attend TC Sessions: Climate next week](https://techcrunch.com/2022/06/06/5-great-reasons-to-attend-tc-sessions-climate-next-week/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
