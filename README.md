@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Nigeria’s Indicina raises $3M to help businesses offer credit to their customers at scale](https://techcrunch.com/2022/06/06/nigerias-indicina-raises-3m-to-help-businesses-offer-credit-to-their-customers-at-scale/)
-- [Watch Apple’s WWDC keynote live right here](https://techcrunch.com/2022/06/06/watch-apples-wwdc-keynote-live-right-here-2/)
-- [The arrest heard ’round the crypto world](https://techcrunch.com/2022/06/05/the-arrest-heard-round-the-crypto-world/)
-- [There’s still good news out there for software startups](https://techcrunch.com/2022/06/05/theres-still-good-news-out-there-for-software-startups/)
-- [Affirm and Klarna ramp up competing efforts to attract US consumers](https://techcrunch.com/2022/06/05/fintechs-affirm-and-klarna-clamor-to-give-u-s-consumers-a-way-to-pay-in-installments/)
+- [AppOmni raises $70M to find and secure vulnerabilities in SaaS app stacks](https://techcrunch.com/2022/06/06/appomni-raises-70m-to-find-and-secure-vulnerabilities-in-saas-app-stacks/)
+- [Watch the biggest-ever comet outburst spray dust across the cosmos](https://www.space.com/comet-17p-holmes-dust-trail/)
+- [Iron meteorites point to millions of years of chaos in early solar system](https://www.space.com/meteorites-show-early-solar-system-chaos/)
+- [Infamous asteroid Apophis &#39;rediscovered&#39; as scientists test asteroid defense mechanisms](https://www.space.com/asteroid-apophis-rediscovered-planetary-defense-exercise/)
+- [Wow! International Space Station and Boeing Starliner captured in the same incredible image](https://www.space.com/iss-starliner-ground-image-photographer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
