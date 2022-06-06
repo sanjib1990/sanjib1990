@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [With ride-hail and delivery launch, Fenix wants to be the Bolt of the Middle East](https://techcrunch.com/2022/06/06/with-ride-hail-and-delivery-launch-fenix-wants-to-be-the-bolt-of-the-middle-east/)
+- [On This Day In Space: June 6, 1995: Astronaut Norm Thagard breaks space endurance record](https://www.space.com/39251-on-this-day-in-space.html/)
 - [AppOmni raises $70M to find and secure vulnerabilities in SaaS app stacks](https://techcrunch.com/2022/06/06/appomni-raises-70m-to-find-and-secure-vulnerabilities-in-saas-app-stacks/)
 - [Watch the biggest-ever comet outburst spray dust across the cosmos](https://www.space.com/comet-17p-holmes-dust-trail/)
 - [Iron meteorites point to millions of years of chaos in early solar system](https://www.space.com/meteorites-show-early-solar-system-chaos/)
-- [Infamous asteroid Apophis &#39;rediscovered&#39; as scientists test asteroid defense mechanisms](https://www.space.com/asteroid-apophis-rediscovered-planetary-defense-exercise/)
-- [Wow! International Space Station and Boeing Starliner captured in the same incredible image](https://www.space.com/iss-starliner-ground-image-photographer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
