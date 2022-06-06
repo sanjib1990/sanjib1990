@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Opal secures $10M for dynamic access management](https://techcrunch.com/2022/06/06/opal-secures-10m-for-dynamic-access-management/)
-- [Ivella is the latest fintech focused on couples banking, with a twist](https://techcrunch.com/2022/06/06/ivella-is-the-latest-fintech-focused-on-couples-banking-with-a-twist/)
-- [With ride-hail and delivery launch, Fenix wants to be the Bolt of the Middle East](https://techcrunch.com/2022/06/06/with-ride-hail-and-delivery-launch-fenix-wants-to-be-the-bolt-of-the-middle-east/)
-- [On This Day In Space: June 6, 1995: Astronaut Norm Thagard breaks space endurance record](https://www.space.com/39251-on-this-day-in-space.html/)
-- [AppOmni raises $70M to find and secure vulnerabilities in SaaS app stacks](https://techcrunch.com/2022/06/06/appomni-raises-70m-to-find-and-secure-vulnerabilities-in-saas-app-stacks/)
+- [Musk threatens to kill Twitter deal over claimed lack of user data transparency](https://techcrunch.com/2022/06/06/musk-threatens-to-kill-twitter-deal-over-claimed-lack-of-user-data-transparency/)
+- [Go1 nabs $100M at a $2B+ valuation to upgrade its curated enterprise learning platform](https://techcrunch.com/2022/06/06/go1-nabs-100m-at-a-2b-valuation-to-upgrade-its-curated-enterprise-learning-platform/)
+- [What’s the right order for the slides in your pitch deck?](https://techcrunch.com/2022/06/06/pitch-deck-order/)
+- [Live from Apple’s WWDC 2022 keynote](https://techcrunch.com/2022/06/06/live-from-apples-wwdc-2022-keynote/)
+- [Hong Kong’s AI drug discovery firm Insilico closes $60M Series D](https://techcrunch.com/2022/06/06/hong-kongs-ai-drug-discovery-firm-insilico-50m-series-d/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
