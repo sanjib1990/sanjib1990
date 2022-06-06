@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn how to reduce your cloud computing carbon footprint at TC Sessions: Climate with Platform.sh](https://techcrunch.com/2022/06/06/learn-how-to-reduce-your-cloud-computing-carbon-footprint-at-tc-sessions-climate-with-platfrom-sh/)
-- [FFS, Apple, stop this nonsense, and just put a decent camera in your laptops already](https://techcrunch.com/2022/06/06/apple-laptop-camera/)
-- [Apple’s Continuity Camera lets you use your iPhone as a webcam](https://techcrunch.com/2022/06/06/apple-continuity-camera-iphone-webcam-belkin/)
-- [Apple unveils iPadOS 16 with beefed up multitasking features](https://techcrunch.com/2022/06/06/apple-unveils-ipados-16-with-beefed-up-multitasking-features/)
-- [The aliens are all hanging out on Dyson spheres circling white dwarfs, physicist argues](https://www.space.com/aliens-hiding-on-dyson-spheres-around-white-dwarfs/)
+- [Finally, Apple’s iPad has a default weather app](https://techcrunch.com/2022/06/06/finally-apples-ipad-has-a-default-weather-app/)
+- [Freeform is Apple’s take on a digital whiteboard](https://techcrunch.com/2022/06/06/freeform-is-apples-take-on-a-digital-whiteboard/)
+- [Hands-on with Apple’s M2 MacBook Air](https://techcrunch.com/2022/06/06/hands-on-with-apples-m2-macbook-air/)
+- [The stock-market impact of Apple’s WWDC keynote](https://techcrunch.com/2022/06/06/the-stock-market-impact-of-apples-wwdc-keynote/)
+- [Apple challenges Google for a larger slice of your dashboard](https://techcrunch.com/2022/06/06/apple-challenges-google-for-a-larger-slice-of-your-dashboard/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
