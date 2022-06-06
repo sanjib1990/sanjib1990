@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sheryl Sandberg a source of inspiration for f7 Ventures’ general partners as they deploy first fund](https://techcrunch.com/2022/06/06/sheryl-sandberg-a-source-of-inspiration-for-f7-ventures-general-partners-as-they-deploy-first-fund/)
+- [Axon’s AI Ethics Board resigns over plan to surveil schools with armed drones](https://techcrunch.com/2022/06/06/axons-ai-ethics-board-resigns-over-plan-to-surveil-schools-with-armed-drones/)
+- [Endurance events marketplace Let’s Do This raises $60M Series B led by Craft and Headline](https://techcrunch.com/2022/06/06/endurance-events-marketplace-lets-do-this-raises-60m-series-b-led-by-craft-and-headline/)
+- [India considering appeals panel with power to reverse Facebook, Twitter and YouTube content moderation decisions](https://techcrunch.com/2022/06/06/india-considering-appeals-panel-with-power-to-reverse-facebook-twitter-and-youtube-content-moderation-decisions/)
 - [Daily Crunch: At WWDC, Apple unveils two new laptops, a new OS, the M2 chip and more](https://techcrunch.com/2022/06/06/daily-crunch-apple-unveils-new-products-at-wwdc/)
-- [MFS Africa acquires GTS for $34M as it looks to issue prepaid cards to its clients](https://techcrunch.com/2022/06/06/mfs-africa-acquires-gts-for-34m-as-it-looks-to-issue-prepaid-cards-to-its-clients/)
-- [Max Q: Suit yourself](https://techcrunch.com/2022/06/06/max-q-suit-yourself/)
-- [Apple’s WidgetKit update lets developers build for the Lock Screen and Watch with the same code](https://techcrunch.com/2022/06/06/apples-widgetkit-update-lets-developers-build-for-the-lock-screen-and-watch-with-the-same-code/)
-- [Echoing Elon Musk, Texas AG is investigating Twitter over bots](https://techcrunch.com/2022/06/06/texas-twitter-bots-elon-musk-ken-paxton/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
