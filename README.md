@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s Artemis 1 moon rocket returns to launch pad for crucial tests](https://www.space.com/nasa-artemis-1-moon-rocket-returns-launch-pad-testing/)
+- [The Touch Bar lives on the M2 MacBook Pro](https://techcrunch.com/2022/06/06/the-touch-bar-lives-on-the-m2-macbook-pro/)
 - [Finally, Apple’s iPad has a default weather app](https://techcrunch.com/2022/06/06/finally-apples-ipad-has-a-default-weather-app/)
 - [Freeform is Apple’s take on a digital whiteboard](https://techcrunch.com/2022/06/06/freeform-is-apples-take-on-a-digital-whiteboard/)
-- [Hands-on with Apple’s M2 MacBook Air](https://techcrunch.com/2022/06/06/hands-on-with-apples-m2-macbook-air/)
-- [The stock-market impact of Apple’s WWDC keynote](https://techcrunch.com/2022/06/06/the-stock-market-impact-of-apples-wwdc-keynote/)
-- [Apple challenges Google for a larger slice of your dashboard](https://techcrunch.com/2022/06/06/apple-challenges-google-for-a-larger-slice-of-your-dashboard/)
+- [How plate tectonics, mountains and deep-sea sediments have maintained Earth&#39;s &#39;Goldilocks&#39; climate](https://www.space.com/plate-tectonics-earths-goldilocks-climate/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
