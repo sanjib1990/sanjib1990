@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nigeria’s Indicina raises $3M to help businesses offer credit to their customers at scale](https://techcrunch.com/2022/06/06/nigerias-indicina-raises-3m-to-help-businesses-offer-credit-to-their-customers-at-scale/)
 - [Watch Apple’s WWDC keynote live right here](https://techcrunch.com/2022/06/06/watch-apples-wwdc-keynote-live-right-here-2/)
 - [The arrest heard ’round the crypto world](https://techcrunch.com/2022/06/05/the-arrest-heard-round-the-crypto-world/)
 - [There’s still good news out there for software startups](https://techcrunch.com/2022/06/05/theres-still-good-news-out-there-for-software-startups/)
 - [Affirm and Klarna ramp up competing efforts to attract US consumers](https://techcrunch.com/2022/06/05/fintechs-affirm-and-klarna-clamor-to-give-u-s-consumers-a-way-to-pay-in-installments/)
-- [Unlikely players team up to lead South Korea’s air taxi industry](https://techcrunch.com/2022/06/05/unlikely-players-team-up-to-lead-south-koreas-air-taxi-industry/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
