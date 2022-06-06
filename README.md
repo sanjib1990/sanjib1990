@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [IBM acquires offensive security startup Randori to bolster its cybersecurity toolkit](https://techcrunch.com/2022/06/06/ibm-acquires-offensive-security-startup-randori-to-bolster-its-cybersecurity-toolkit/)
+- [Submit your session idea for TechCrunch Disrupt](https://techcrunch.com/2022/06/06/submit-your-session-idea-for-techcrunch-disrupt/)
 - [5 great reasons to attend TC Sessions: Climate next week](https://techcrunch.com/2022/06/06/5-great-reasons-to-attend-tc-sessions-climate-next-week/)
 - [The ‘unicorn glut’ theory of startup misery](https://techcrunch.com/2022/06/06/the-unicorn-glut-theory-of-startup-misery/)
 - [Imaging sensor startup Vayyar lands $108M to fuel expansion](https://techcrunch.com/2022/06/06/imaging-sensor-startup-vayyar-lands-108m-to-fuel-expansion/)
-- [Musk threatens to kill Twitter deal over claimed lack of user data transparency](https://techcrunch.com/2022/06/06/musk-threatens-to-kill-twitter-deal-over-claimed-lack-of-user-data-transparency/)
-- [Go1 nabs $100M at a $2B+ valuation to upgrade its curated enterprise learning platform](https://techcrunch.com/2022/06/06/go1-nabs-100m-at-a-2b-valuation-to-upgrade-its-curated-enterprise-learning-platform/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
