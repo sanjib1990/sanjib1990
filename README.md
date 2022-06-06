@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [5 great reasons to attend TC Sessions: Climate next week](https://techcrunch.com/2022/06/06/5-great-reasons-to-attend-tc-sessions-climate-next-week/)
+- [The ‘unicorn glut’ theory of startup misery](https://techcrunch.com/2022/06/06/the-unicorn-glut-theory-of-startup-misery/)
+- [Imaging sensor startup Vayyar lands $108M to fuel expansion](https://techcrunch.com/2022/06/06/imaging-sensor-startup-vayyar-lands-108m-to-fuel-expansion/)
 - [Musk threatens to kill Twitter deal over claimed lack of user data transparency](https://techcrunch.com/2022/06/06/musk-threatens-to-kill-twitter-deal-over-claimed-lack-of-user-data-transparency/)
 - [Go1 nabs $100M at a $2B+ valuation to upgrade its curated enterprise learning platform](https://techcrunch.com/2022/06/06/go1-nabs-100m-at-a-2b-valuation-to-upgrade-its-curated-enterprise-learning-platform/)
-- [What’s the right order for the slides in your pitch deck?](https://techcrunch.com/2022/06/06/pitch-deck-order/)
-- [Live from Apple’s WWDC 2022 keynote](https://techcrunch.com/2022/06/06/live-from-apples-wwdc-2022-keynote/)
-- [Hong Kong’s AI drug discovery firm Insilico closes $60M Series D](https://techcrunch.com/2022/06/06/hong-kongs-ai-drug-discovery-firm-insilico-50m-series-d/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
