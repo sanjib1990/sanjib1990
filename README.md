@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s Artemis 1 moon rocket returns to launch pad for crucial tests](https://www.space.com/nasa-artemis-1-moon-rocket-returns-launch-pad-testing/)
-- [The Touch Bar lives on the M2 MacBook Pro](https://techcrunch.com/2022/06/06/the-touch-bar-lives-on-the-m2-macbook-pro/)
-- [Finally, Apple’s iPad has a default weather app](https://techcrunch.com/2022/06/06/finally-apples-ipad-has-a-default-weather-app/)
-- [Freeform is Apple’s take on a digital whiteboard](https://techcrunch.com/2022/06/06/freeform-is-apples-take-on-a-digital-whiteboard/)
-- [How plate tectonics, mountains and deep-sea sediments have maintained Earth&#39;s &#39;Goldilocks&#39; climate](https://www.space.com/plate-tectonics-earths-goldilocks-climate/)
+- [Daily Crunch: At WWDC, Apple unveils two new laptops, a new OS, the M2 chip and more](https://techcrunch.com/2022/06/06/daily-crunch-apple-unveils-new-products-at-wwdc/)
+- [MFS Africa acquires GTS for $34M as it looks to issue prepaid cards to its clients](https://techcrunch.com/2022/06/06/mfs-africa-acquires-gts-for-34m-as-it-looks-to-issue-prepaid-cards-to-its-clients/)
+- [Max Q: Suit yourself](https://techcrunch.com/2022/06/06/max-q-suit-yourself/)
+- [Apple’s WidgetKit update lets developers build for the Lock Screen and Watch with the same code](https://techcrunch.com/2022/06/06/apples-widgetkit-update-lets-developers-build-for-the-lock-screen-and-watch-with-the-same-code/)
+- [Echoing Elon Musk, Texas AG is investigating Twitter over bots](https://techcrunch.com/2022/06/06/texas-twitter-bots-elon-musk-ken-paxton/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
