@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Child care startup Kinside raises $12M Series A in a round led by mothers](https://techcrunch.com/2022/06/07/kinside-helps-parents-find-and-afford-quality-pre-screened-childcare/)
-- [The OpenInfra Foundation launches ‘directed funding’ as a new way to fund open-source projects](https://techcrunch.com/2022/06/07/the-openinfra-foundation-launches-directed-funding-as-a-new-way-to-fund-open-source-projects/)
-- [Gatik’s self-driving trucks to haul Georgia-Pacific goods to Sam’s Club stores](https://techcrunch.com/2022/06/07/gatik-georgia-pacific-kbx-sams-club-partnership/)
-- [Apple introduces real-time security updates for iOS and macOS](https://techcrunch.com/2022/06/07/apple-introduces-real-time-security-updates-for-ios-and-macos/)
-- [This newly discovered neutron star might light the way for a whole new class of stellar object](https://www.space.com/newly-discovered-neutron-star-strange-radio-pulse/)
+- [Polestar’s first SUV, the Polestar 3 EV, arrives in Q3 2022](https://techcrunch.com/2022/06/07/polestars-first-suv-the-polestar-3-ev-arrives-in-q3-2022/)
+- [Nfinite bags $100M to give e-commerce 3D flare](https://techcrunch.com/2022/06/07/nfinite-bags-100m-e-commerce-some-3d-flare/)
+- [TikTok’s new Bitmoji-like Avatars feature lets you record videos as an animated version of yourself](https://techcrunch.com/2022/06/07/tiktoks-avatars-feature/)
+- [Castor, a data catalog startup, nabs $23.5M to expand its platform](https://techcrunch.com/2022/06/07/castor-a-data-catalog-startup-nabs-23-5m-to-expand-its-platform/)
+- [On This Day In Space: June 7, 1965: NASA&#39;s Gemini 4 mission returns to Earth](https://www.space.com/39251-on-this-day-in-space.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
