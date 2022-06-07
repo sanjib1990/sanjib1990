@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [At 65 inches and 8K, the world’s largest holographic display is here](https://techcrunch.com/2022/06/07/looking-glass-factory-large-holographic-display/)
-- [Dizzy up the telescope: NASA channels &#39;Space Invaders&#39; in new browser game](https://www.space.com/nasa-roman-observatory-space-invaders-game/)
-- [The revenge of the quiet companies](https://techcrunch.com/2022/06/07/the-revenge-of-the-quiet-companies/)
-- [iOS 16 brings shared family library, duplication removal, and new editing tools to Photos](https://techcrunch.com/2022/06/07/ios-16-brings-shared-family-library-duplication-removal-and-new-editing-tools-to-photos/)
-- [Oracle quietly closes $28B deal to buy electronic health records company Cerner](https://techcrunch.com/2022/06/07/oracle-quietly-closes-28b-deal-to-buy-electronic-health-records-company-cerner/)
+- [Waymo Via and Uber Freight partner up for the long haul](https://techcrunch.com/2022/06/07/waymo-via-and-uber-freight-partner-up-for-the-long-haul/)
+- [As investors focus more on profitability, product-led startups may be sitting pretty](https://techcrunch.com/2022/06/07/as-investors-focus-more-on-profitability-product-led-startups-may-be-sitting-pretty/)
+- [Take Blip lands $100M to grow its omnichannel messaging service](https://techcrunch.com/2022/06/07/take-blip-lands-100m-to-grow-its-omnichannel-messaging-service/)
+- [Gantry launches out of stealth to help data scientists keep AI models fresh](https://techcrunch.com/2022/06/07/crunch/)
+- [Landed founder is connecting blue-collar workers to better jobs while helping employers decrease turnover](https://techcrunch.com/2022/06/07/landed-found-podcast/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
