@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Indonesian crypto trading app Pintu scores $113M Series B](https://techcrunch.com/2022/06/06/indonesian-crypto-trading-app-pintu-scores-113m-series-b/)
 - [SpaceX&#39;s next cargo launch to space station delayed from Friday due to odd propellant reading](https://www.space.com/spacex-dragon-cargo-mission-crs-25-delay/)
 - [Sheryl Sandberg a source of inspiration for f7 Ventures’ general partners as they deploy first fund](https://techcrunch.com/2022/06/06/sheryl-sandberg-a-source-of-inspiration-for-f7-ventures-general-partners-as-they-deploy-first-fund/)
 - [Axon’s AI Ethics Board resigns over plan to surveil schools with armed drones](https://techcrunch.com/2022/06/06/axons-ai-ethics-board-resigns-over-plan-to-surveil-schools-with-armed-drones/)
 - [Endurance events marketplace Let’s Do This raises $60M Series B led by Craft and Headline](https://techcrunch.com/2022/06/06/endurance-events-marketplace-lets-do-this-raises-60m-series-b-led-by-craft-and-headline/)
-- [India considering appeals panel with power to reverse Facebook, Twitter and YouTube content moderation decisions](https://techcrunch.com/2022/06/06/india-considering-appeals-panel-with-power-to-reverse-facebook-twitter-and-youtube-content-moderation-decisions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
