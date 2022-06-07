@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Polestar’s first SUV, the Polestar 3 EV, arrives in Q3 2022](https://techcrunch.com/2022/06/07/polestars-first-suv-the-polestar-3-ev-arrives-in-q3-2022/)
-- [Nfinite bags $100M to give e-commerce 3D flare](https://techcrunch.com/2022/06/07/nfinite-bags-100m-e-commerce-some-3d-flare/)
-- [TikTok’s new Bitmoji-like Avatars feature lets you record videos as an animated version of yourself](https://techcrunch.com/2022/06/07/tiktoks-avatars-feature/)
-- [Castor, a data catalog startup, nabs $23.5M to expand its platform](https://techcrunch.com/2022/06/07/castor-a-data-catalog-startup-nabs-23-5m-to-expand-its-platform/)
-- [On This Day In Space: June 7, 1965: NASA&#39;s Gemini 4 mission returns to Earth](https://www.space.com/39251-on-this-day-in-space.html/)
+- [Lucid partners with Bank of America to launch Lucid Financial Services](https://techcrunch.com/2022/06/07/lucid-partners-with-bank-of-america-to-launch-lucid-financial-services/)
+- [Ecuadorian payments infrastructure startup Kushki lands $100M at a $1.5B valuation](https://techcrunch.com/2022/06/07/ecuadorian-payments-infrastructure-startup-kushki-lands-100m-at-a-1-5b-valuation/)
+- [Startups are on track to acquire more VC-backed companies than ever in 2022. Here’s why](https://techcrunch.com/2022/06/07/startups-are-on-track-to-acquire-more-vc-backed-companies-than-ever-in-2022-heres-why/)
+- [Summer launches to let you ‘try before you buy’ a second home](https://techcrunch.com/2022/06/07/summer-launches-to-let-you-try-before-you-buy-a-second-home/)
+- [Travel app Hopper launches new offerings to give users more flexibility before and during trips](https://techcrunch.com/2022/06/07/hopper-launches-offerings-more-flexibility-before-during-trips/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
