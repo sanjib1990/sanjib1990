@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [6 reasons to invest in startups from Ukraine](https://techcrunch.com/2022/06/07/6-reasons-to-invest-in-startups-from-ukraine/)
+- [Funding radical startups addressing climate change with Natel Energy and Breakthrough Energy Ventures](https://techcrunch.com/2022/06/07/funding-radical-startups-addressing-climate-change-with-natel-energy-and-breakthrough-energy-ventures/)
+- [TechCrunch+ roundup: 11 PLG tactics, addressing copycat stigma, ‘unicorn glut’ theory](https://techcrunch.com/2022/06/07/techcrunch-roundup-11-plg-tactics-addressing-copycat-stigma-unicorn-glut-theory/)
+- [Nimbus launches tiny EV prototype that’s like a motorbike with a roof](https://techcrunch.com/2022/06/07/nimbus-launches-tiny-ev-prototype-thats-like-a-motorbike-with-a-roof/)
 - [Wobbly jets of binary star systems may affect chances of hosting life](https://www.space.com/binary-stars-planet-formation-extraterrestrial-life/)
-- [Elon Musk says SpaceX won&#39;t take Starlink business public for 3 or 4 years: report](https://www.space.com/spacex-starlink-ipo-timeline-elon-musk/)
-- [In iOS 16, apps can trigger real-world actions hands-free](https://techcrunch.com/2022/06/07/in-ios-16-apps-can-trigger-real-world-actions-hands-free/)
-- [Arduino sets its sights on enterprise applications with new funding round](https://techcrunch.com/2022/06/07/arduino-sets-its-sights-on-enterprise-applications-with-new-funding-round/)
-- [Apple chooses Joy &lpar;Cons&rpar;](https://techcrunch.com/2022/06/07/ios16-nintendo-switch-joycons/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
