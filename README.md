@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Waymo Via and Uber Freight partner up for the long haul](https://techcrunch.com/2022/06/07/waymo-via-and-uber-freight-partner-up-for-the-long-haul/)
-- [As investors focus more on profitability, product-led startups may be sitting pretty](https://techcrunch.com/2022/06/07/as-investors-focus-more-on-profitability-product-led-startups-may-be-sitting-pretty/)
-- [Take Blip lands $100M to grow its omnichannel messaging service](https://techcrunch.com/2022/06/07/take-blip-lands-100m-to-grow-its-omnichannel-messaging-service/)
-- [Gantry launches out of stealth to help data scientists keep AI models fresh](https://techcrunch.com/2022/06/07/crunch/)
-- [Landed founder is connecting blue-collar workers to better jobs while helping employers decrease turnover](https://techcrunch.com/2022/06/07/landed-found-podcast/)
+- [Apple loosens some of its App Store Review Guidelines with latest update](https://techcrunch.com/2022/06/07/apple-loosens-some-of-its-app-store-review-guidelines-with-latest-update/)
+- [Peloton hires Amazon Web Services executive Liz Coddington as new CFO in latest shakeup](https://techcrunch.com/2022/06/07/peloton-hires-amazon-executive-liz-coddington-new-cfo-latest-shakeup/)
+- [Game studio HiDef partners with Snap to develop a Bitmoji dance social mobile game](https://techcrunch.com/2022/06/07/game-studio-hidef-partners-with-snap-to-develop-a-bitmoji-dance-social-mobile-game/)
+- [Volocopter’s longer-range drone taxi completes its first test flights](https://techcrunch.com/2022/06/07/volocopters-longer-range-drone-taxi-completes-its-first-test-flights/)
+- [PayPal is finally allowing users to move their cryptocurrency to other wallets](https://techcrunch.com/2022/06/07/paypal-is-finally-allowing-users-to-move-their-cryptocurrency-to-other-wallets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
