@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple loosens some of its App Store Review Guidelines with latest update](https://techcrunch.com/2022/06/07/apple-loosens-some-of-its-app-store-review-guidelines-with-latest-update/)
-- [Peloton hires Amazon Web Services executive Liz Coddington as new CFO in latest shakeup](https://techcrunch.com/2022/06/07/peloton-hires-amazon-executive-liz-coddington-new-cfo-latest-shakeup/)
-- [Game studio HiDef partners with Snap to develop a Bitmoji dance social mobile game](https://techcrunch.com/2022/06/07/game-studio-hidef-partners-with-snap-to-develop-a-bitmoji-dance-social-mobile-game/)
-- [Volocopter’s longer-range drone taxi completes its first test flights](https://techcrunch.com/2022/06/07/volocopters-longer-range-drone-taxi-completes-its-first-test-flights/)
-- [PayPal is finally allowing users to move their cryptocurrency to other wallets](https://techcrunch.com/2022/06/07/paypal-is-finally-allowing-users-to-move-their-cryptocurrency-to-other-wallets/)
+- [A new macOS security feature will block new USB-C accessories by default](https://techcrunch.com/2022/06/07/macos-usb-accessory-security/)
+- [Apple’s iOS 16 will fix annoying ‘Tapback’ spam](https://techcrunch.com/2022/06/07/apples-ios-16-will-fix-annoying-tapback-spam/)
+- [Why Primetime Partners is betting on the “ageless” population](https://techcrunch.com/2022/06/07/why-primetime-partners-is-betting-on-the-ageless-population/)
+- [Review: Sonos Ray soundbar is an easy upgrade that will leave you wanting more](https://techcrunch.com/2022/06/07/review-sonos-ray-soundbar-is-an-easy-upgrade-that-will-leave-you-wanting-more/)
+- [Meade telescopes and binocular deals: discounts &amp; what&#39;s in stock](https://www.space.com/meade-deals-telescopes-binoculars/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
