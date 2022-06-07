@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Oracle dives deeply into healthcare after closing $28B Cerner acquisition](https://techcrunch.com/2022/06/07/daily-crunch-oracle-dives-deeply-into-healthcare-after-closing-28b-cerner-acquisition/)
+- [&#39;Star Trek: Strange New Worlds&#39; episode 5 taps into some classic Trek tropes](https://www.space.com/star-trek-strange-new-worlds-season-1-episode-5-review/)
+- [Sarah Guo joins the wave of women leaving venture jobs to launch their own funds](https://techcrunch.com/2022/06/07/sarah-guo-joins-the-wave-of-women-leaving-venture-jobs-to-launch-their-own-funds/)
 - [6 reasons to invest in startups from Ukraine](https://techcrunch.com/2022/06/07/6-reasons-to-invest-in-startups-from-ukraine/)
 - [Funding radical startups addressing climate change with Natel Energy and Breakthrough Energy Ventures](https://techcrunch.com/2022/06/07/funding-radical-startups-addressing-climate-change-with-natel-energy-and-breakthrough-energy-ventures/)
-- [TechCrunch+ roundup: 11 PLG tactics, addressing copycat stigma, ‘unicorn glut’ theory](https://techcrunch.com/2022/06/07/techcrunch-roundup-11-plg-tactics-addressing-copycat-stigma-unicorn-glut-theory/)
-- [Nimbus launches tiny EV prototype that’s like a motorbike with a roof](https://techcrunch.com/2022/06/07/nimbus-launches-tiny-ev-prototype-thats-like-a-motorbike-with-a-roof/)
-- [Wobbly jets of binary star systems may affect chances of hosting life](https://www.space.com/binary-stars-planet-formation-extraterrestrial-life/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
