@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Instagram’s ‘sensitive content’ controls will soon filter all recommended content](https://techcrunch.com/2022/06/07/instagrams-sensitive-content-controls/)
+- [Bird plans to lay off 23% of staff](https://techcrunch.com/2022/06/07/bird-plans-to-layoff-23-of-staff/)
 - [Daily Crunch: Oracle dives deeply into healthcare after closing $28B Cerner acquisition](https://techcrunch.com/2022/06/07/daily-crunch-oracle-dives-deeply-into-healthcare-after-closing-28b-cerner-acquisition/)
+- [&#39;The Orville&#39; season 3 premiere sets out to show this sci-fi series is a tour de force](https://www.space.com/the-orville-season-3-episode-1-review/)
 - [&#39;Star Trek: Strange New Worlds&#39; episode 5 taps into some classic Trek tropes](https://www.space.com/star-trek-strange-new-worlds-season-1-episode-5-review/)
-- [Sarah Guo joins the wave of women leaving venture jobs to launch their own funds](https://techcrunch.com/2022/06/07/sarah-guo-joins-the-wave-of-women-leaving-venture-jobs-to-launch-their-own-funds/)
-- [6 reasons to invest in startups from Ukraine](https://techcrunch.com/2022/06/07/6-reasons-to-invest-in-startups-from-ukraine/)
-- [Funding radical startups addressing climate change with Natel Energy and Breakthrough Energy Ventures](https://techcrunch.com/2022/06/07/funding-radical-startups-addressing-climate-change-with-natel-energy-and-breakthrough-energy-ventures/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
