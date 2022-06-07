@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [In iOS 16, apps can trigger real-world actions hands-free](https://techcrunch.com/2022/06/07/in-ios-16-apps-can-trigger-real-world-actions-hands-free/)
+- [Arduino sets its sights on enterprise applications with new funding round](https://techcrunch.com/2022/06/07/arduino-sets-its-sights-on-enterprise-applications-with-new-funding-round/)
+- [Apple chooses Joy &lpar;Cons&rpar;](https://techcrunch.com/2022/06/07/ios16-nintendo-switch-joycons/)
 - [Instagram now lets you pin up to three posts to your profile](https://techcrunch.com/2022/06/07/instagram-pin-posts-to-your-profile/)
 - [It’s correction time for Latin American VC activity](https://techcrunch.com/2022/06/07/its-correction-time-for-latin-american-vc-activity/)
-- [A new macOS security feature will block new USB-C accessories by default](https://techcrunch.com/2022/06/07/macos-usb-accessory-security/)
-- [Apple’s iOS 16 will fix annoying ‘Tapback’ spam](https://techcrunch.com/2022/06/07/apples-ios-16-will-fix-annoying-tapback-spam/)
-- [China&#39;s next crewed spacecraft is ready for potential space station rescue mission](https://www.space.com/china-shenzhou-15-potential-rescue-mission/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
