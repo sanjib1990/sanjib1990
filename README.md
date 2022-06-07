@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nigerian startup Klasha gets an additional $2.1M for its cross-border commerce play](https://techcrunch.com/2022/06/07/nigerian-startup-klasha-gets-an-additional-2-1m-for-its-cross-border-commerce-play/)
+- [Indian edtech PhysicsWallah becomes unicorn with $100 million Series A funding](https://techcrunch.com/2022/06/07/indian-edtech-physicswallah-becomes-unicorn-with-100-million-series-a-funding/)
 - [Three quarters of Asia’s wealthy investors will own digital assets by 2022: report](https://techcrunch.com/2022/06/06/wealthy-crypto-digital-assets-investors-asia-2022/)
 - [Indonesian crypto trading app Pintu scores $113M Series B](https://techcrunch.com/2022/06/06/indonesian-crypto-trading-app-pintu-scores-113m-series-b/)
 - [SpaceX&#39;s next cargo launch to space station delayed from Friday due to odd propellant reading](https://www.space.com/spacex-dragon-cargo-mission-crs-25-delay/)
-- [Sheryl Sandberg a source of inspiration for f7 Ventures’ general partners as they deploy first fund](https://techcrunch.com/2022/06/06/sheryl-sandberg-a-source-of-inspiration-for-f7-ventures-general-partners-as-they-deploy-first-fund/)
-- [Axon’s AI Ethics Board resigns over plan to surveil schools with armed drones](https://techcrunch.com/2022/06/06/axons-ai-ethics-board-resigns-over-plan-to-surveil-schools-with-armed-drones/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
