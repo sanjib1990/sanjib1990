@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Nigerian startup Klasha gets an additional $2.1M for its cross-border commerce play](https://techcrunch.com/2022/06/07/nigerian-startup-klasha-gets-an-additional-2-1m-for-its-cross-border-commerce-play/)
-- [Indian edtech PhysicsWallah becomes unicorn with $100 million Series A funding](https://techcrunch.com/2022/06/07/indian-edtech-physicswallah-becomes-unicorn-with-100-million-series-a-funding/)
-- [Three quarters of Asia’s wealthy investors will own digital assets by 2022: report](https://techcrunch.com/2022/06/06/wealthy-crypto-digital-assets-investors-asia-2022/)
-- [Indonesian crypto trading app Pintu scores $113M Series B](https://techcrunch.com/2022/06/06/indonesian-crypto-trading-app-pintu-scores-113m-series-b/)
-- [SpaceX&#39;s next cargo launch to space station delayed from Friday due to odd propellant reading](https://www.space.com/spacex-dragon-cargo-mission-crs-25-delay/)
+- [Child care startup Kinside raises $12M Series A in a round led by mothers](https://techcrunch.com/2022/06/07/kinside-helps-parents-find-and-afford-quality-pre-screened-childcare/)
+- [The OpenInfra Foundation launches ‘directed funding’ as a new way to fund open-source projects](https://techcrunch.com/2022/06/07/the-openinfra-foundation-launches-directed-funding-as-a-new-way-to-fund-open-source-projects/)
+- [Gatik’s self-driving trucks to haul Georgia-Pacific goods to Sam’s Club stores](https://techcrunch.com/2022/06/07/gatik-georgia-pacific-kbx-sams-club-partnership/)
+- [Apple introduces real-time security updates for iOS and macOS](https://techcrunch.com/2022/06/07/apple-introduces-real-time-security-updates-for-ios-and-macos/)
+- [This newly discovered neutron star might light the way for a whole new class of stellar object](https://www.space.com/newly-discovered-neutron-star-strange-radio-pulse/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
