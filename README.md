@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Lucid partners with Bank of America to launch Lucid Financial Services](https://techcrunch.com/2022/06/07/lucid-partners-with-bank-of-america-to-launch-lucid-financial-services/)
-- [Ecuadorian payments infrastructure startup Kushki lands $100M at a $1.5B valuation](https://techcrunch.com/2022/06/07/ecuadorian-payments-infrastructure-startup-kushki-lands-100m-at-a-1-5b-valuation/)
-- [Startups are on track to acquire more VC-backed companies than ever in 2022. Here’s why](https://techcrunch.com/2022/06/07/startups-are-on-track-to-acquire-more-vc-backed-companies-than-ever-in-2022-heres-why/)
-- [Summer launches to let you ‘try before you buy’ a second home](https://techcrunch.com/2022/06/07/summer-launches-to-let-you-try-before-you-buy-a-second-home/)
-- [Travel app Hopper launches new offerings to give users more flexibility before and during trips](https://techcrunch.com/2022/06/07/hopper-launches-offerings-more-flexibility-before-during-trips/)
+- [At 65 inches and 8K, the world’s largest holographic display is here](https://techcrunch.com/2022/06/07/looking-glass-factory-large-holographic-display/)
+- [Dizzy up the telescope: NASA channels &#39;Space Invaders&#39; in new browser game](https://www.space.com/nasa-roman-observatory-space-invaders-game/)
+- [The revenge of the quiet companies](https://techcrunch.com/2022/06/07/the-revenge-of-the-quiet-companies/)
+- [iOS 16 brings shared family library, duplication removal, and new editing tools to Photos](https://techcrunch.com/2022/06/07/ios-16-brings-shared-family-library-duplication-removal-and-new-editing-tools-to-photos/)
+- [Oracle quietly closes $28B deal to buy electronic health records company Cerner](https://techcrunch.com/2022/06/07/oracle-quietly-closes-28b-deal-to-buy-electronic-health-records-company-cerner/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
