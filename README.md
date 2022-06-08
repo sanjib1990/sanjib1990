@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Branch snags $147M at a $1.05B valuation, showing that thorny insurtech market not impervious to growth](https://techcrunch.com/2022/06/08/insurtech-branch-becomes-a-unicorn2331736/)
-- [Crypto startup Ledger teams up with Cathay Innovation to launch $110M sector fund](https://techcrunch.com/2022/06/08/crypto-startup-ledger-cathay-innovation-new-venture-fund-blockchain-security-investment/)
-- [Proper raises $4.3M seed round to help other fintechs wrangle data](https://techcrunch.com/2022/06/08/fintech-startup-proper-yc-y-combinator-data-integration-operations/)
-- [The Matrix movies, ranked worst to best](https://www.space.com/the-matrix-movies-ranked-worst-to-best/)
-- [On This Day In Space: June 8, 1959: X-15 makes first glide flight](https://www.space.com/39251-on-this-day-in-space.html/)
+- [Aerotime aims to continuously optimize workers’ calendars](https://techcrunch.com/2022/06/08/aerotime-aims-to-continuously-optimize-workers-calendars/)
+- [Multicoin Capital leads $60M investment in Delphia to give retail investors edge against hedge funds](https://techcrunch.com/2022/06/08/multicoin-capital-leads-60m-investment-in-delphia-to-give-retail-investors-edge-against-hedge-funds/)
+- [Salesforce takes crypto plunge with new NFT cloud](https://techcrunch.com/2022/06/08/salesforce-takes-crypto-plunge-with-new-nft-cloud/)
+- [Data governance startup Immuta lands $100M to pursue acquisitions](https://techcrunch.com/2022/06/08/data-governance-startup-immuta-lands-100m-to-pursue-acquisitions/)
+- [France’s data watchdog warns over illegal use of Google Analytics](https://techcrunch.com/2022/06/08/google-analytics-gdpr-breach-cnil/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
