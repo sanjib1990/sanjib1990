@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AT&amp;T killed off the HBO Max bundle in its highest-priced unlimited wireless plan](https://techcrunch.com/2022/06/08/att-killed-off-the-hbo-max-bundle-in-its-highest-priced-unlimited-wireless-plan/)
+- [The NFT slump is real](https://techcrunch.com/2022/06/08/the-nft-slump-is-real/)
+- [NASA, SpaceX now targeting June 28 for next Dragon cargo launch after delay](https://www.space.com/spacex-dragon-crs-25-launch-delay-june-28/)
 - [Proposed bipartisan US crypto bill could be ‘sigh of relief’ for the industry](https://techcrunch.com/2022/06/08/proposed-bipartisan-us-crypto-bill-could-be-sigh-of-relief-for-the-industry/)
 - [Webb: Engineered to Endure Micrometeoroid Impacts](https://blogs.nasa.gov/webb/2022/06/08/webb-engineered-to-endure-micrometeoroid-impacts/)
-- [Ingenuity Mars helicopter team aims to keep flying despite dead navigation sensor](https://www.space.com/ingenuity-mars-helicopter-troubleshooting-dead-navigation-sensor/)
-- [Twitter will reportedly hand over internal data to soothe Musk’s bot fears](https://techcrunch.com/2022/06/08/twitter-hand-over-data-musk-bot-spam-accounts/)
-- [Dear Sophie: How do we handle being fully remote when it comes to immigration?](https://techcrunch.com/2022/06/08/dear-sophie-how-do-we-handle-being-fully-remote-when-it-comes-to-immigration/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
