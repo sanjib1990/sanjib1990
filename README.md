@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple’s Pay Later installment credit scheme will live under a new lending subsidiary](https://techcrunch.com/2022/06/08/apples-pay-later-installment-credit-scheme-will-live-under-a-new-lending-subsidiary/)
+- [Daily Crunch: US law enforcement agencies take down identity theft marketplace](https://techcrunch.com/2022/06/08/us-law-enforcement-agencies-take-down-identity-theft-marketplace/)
+- [Amazon is simplifying the pricing structure for its Kids+ all-in-one subscription service](https://techcrunch.com/2022/06/08/amazon-is-simplifying-the-pricing-structure-for-its-kids-all-in-one-subscription-service/)
+- [NexStride gadget that helps people with Parkinsons fight ‘freezing’ attracts $2.8M](https://techcrunch.com/2022/06/08/nexstride-gadget-that-helps-people-with-parkinsons-fight-freezing-attracts-2-8m/)
 - [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates/)
-- [James Webb Space Telescope suffers 1st noticeable micrometeoroid impact just months into flight](https://www.space.com/james-webb-space-telescope-suffers-micrometeoroid-impacts/)
-- [AT&amp;T killed off the HBO Max bundle in its highest-priced unlimited wireless plan](https://techcrunch.com/2022/06/08/att-killed-off-the-hbo-max-bundle-in-its-highest-priced-unlimited-wireless-plan/)
-- [The NFT slump is real](https://techcrunch.com/2022/06/08/the-nft-slump-is-real/)
-- [NASA, SpaceX now targeting June 28 for next Dragon cargo launch after delay](https://www.space.com/spacex-dragon-crs-25-launch-delay-june-28/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
