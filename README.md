@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Bud raises $80M more to expand its AI-based open banking platform, used to power lending tools and more](https://techcrunch.com/2022/06/08/bud-raises-80m-more-to-expand-its-ai-based-open-banking-platform-used-to-power-lending-tools-and-more/)
-- [Linktree launches new Marketplace directory for users to browse its platform partners and integrations](https://techcrunch.com/2022/06/08/linktree-marketplace/)
-- [Felix Capital closes fourth fund at $600M, its biggest yet](https://techcrunch.com/2022/06/08/felix-capital-closes-fourth-fund-at-600m-its-biggest-yet/)
-- [India’s central bank to allow linking credit cards with UPI](https://techcrunch.com/2022/06/07/upi-credit-cards-india/)
-- [Thailand’s Salary Hero is an earned wage access startup that wants to add neobanking products](https://techcrunch.com/2022/06/07/thailands-salary-hero-is-an-earned-wage-access-startup-that-plans-to-become-a-neobank/)
+- [Multiverse nabs $220M at a $1.7B valuation to expand its tech apprenticeship platform](https://techcrunch.com/2022/06/08/multiverse-nabs-220m-at-a-1-7b-valuation-to-expand-its-tech-apprenticeship-platform/)
+- [Watch SpaceX launch a communications satellite, land rocket on ship at sea Wednesday](https://www.space.com/spacex-nilesat-launch-rocket-landing/)
+- [Ukrainian startup conducts new tests for engine of &#39;self-devouring&#39; rocket](https://www.space.com/ukraine-promin-aerospace-tests-self-devouring-rocket-engine/)
+- [Hubble Space Telescope&#39;s largest-ever infrared image peers back 10 billion years](https://www.space.com/hubble-space-telescope-largest-infrared-image/)
+- [Tencent once more seeks to expand its mobile hit Honor of Kings globally](https://techcrunch.com/2022/06/08/tencent-timi-honor-of-kings-global/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
