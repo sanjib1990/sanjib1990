@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Aerotime aims to continuously optimize workers’ calendars](https://techcrunch.com/2022/06/08/aerotime-aims-to-continuously-optimize-workers-calendars/)
-- [Multicoin Capital leads $60M investment in Delphia to give retail investors edge against hedge funds](https://techcrunch.com/2022/06/08/multicoin-capital-leads-60m-investment-in-delphia-to-give-retail-investors-edge-against-hedge-funds/)
-- [Salesforce takes crypto plunge with new NFT cloud](https://techcrunch.com/2022/06/08/salesforce-takes-crypto-plunge-with-new-nft-cloud/)
-- [Data governance startup Immuta lands $100M to pursue acquisitions](https://techcrunch.com/2022/06/08/data-governance-startup-immuta-lands-100m-to-pursue-acquisitions/)
-- [France’s data watchdog warns over illegal use of Google Analytics](https://techcrunch.com/2022/06/08/google-analytics-gdpr-breach-cnil/)
+- [Andreessen Horowitz backs SCiFi Foods as it develops cell-cultivated, plant-based burger](https://techcrunch.com/2022/06/08/a16z-backs-scifi-foods-as-it-develops-cell-cultivated-plant-based-burger/)
+- [Fruitful emerges from stealth with $33M in funding and an app that aims to fuel healthy financial habits](https://techcrunch.com/2022/06/08/fruitful-raises-33m-to-offer-financial-planning-advice-via-a-subscription-model/)
+- [GitLab proves it’s possible to get a better valuation for your software company](https://techcrunch.com/2022/06/08/gitlab-proves-its-possible-to-get-a-better-valuation-for-your-software-company/)
+- [AI platform Continual raises $14.5M Series A and comes out of beta](https://techcrunch.com/2022/06/08/ai-platform-continual-raises-14-5m-series-a-and-comes-out-of-beta/)
+- [FBI seizes notorious marketplace for selling millions of stolen SSNs](https://techcrunch.com/2022/06/08/fbi-ssndob-millions-social-security-marketplace/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
