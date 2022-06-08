@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Zoom and Enhance &lpar;kinda&rpar; go from fact to fiction with Picsart’s AI image enhancer](https://techcrunch.com/2022/06/08/zoom-and-enhance-kinda-goes-from-fact-to-fiction-with-picsarts-ai-image-enhancer/)
-- [The race to create the perfect home setup service is on, as Just Move In raises $5M](https://techcrunch.com/2022/06/08/the-race-to-create-the-perfect-home-setup-service-is-on-as-just-move-raises-5m/)
-- [Finch raises $15M to build an API for HR systems](https://techcrunch.com/2022/06/08/finch-raises-15m-to-build-an-api-for-hr-systems/)
-- [Five to Nine raises $4.25M seed round to help improve the efficiency of DEI initiatives](https://techcrunch.com/2022/06/08/five-to-nine-raises-4-25m-seed-round-to-help-improve-the-efficiency-of-dei-initiatives/)
-- [GitLab-spinoff Meltano raises another $8.2M for its open-source DataOps platform](https://techcrunch.com/2022/06/08/gitlab-spinoff-meltano-raises-another-8-2m-for-its-open-source-dataops-platform/)
+- [Why does the moon look close some nights and far away on other nights?](https://www.space.com/moon-apparent-distance-changes/)
+- [Twitter’s latest feature lets merchants tease upcoming product drops, remind customers to shop](https://techcrunch.com/2022/06/08/twitters-latest-feature-lets-merchants-tease-upcoming-product-drops-remind-customers-to-shop/)
+- [Meet the trans, anarchist founder who just landed $25M to reform how crypto is stored](https://techcrunch.com/2022/06/08/the-trans-queer-anarchist-crypto-founder-seed-round-a16z-andreessen-horowitz/)
+- [As markets go down, government tech spending stays steady: How can investors tap in?](https://techcrunch.com/2022/06/08/as-markets-go-down-government-tech-spending-stays-steady-how-can-investors-tap-in/)
+- [Figma’s Dylan Field will discuss evolving as a leader and why fun is an essential company value at TechCrunch Disrupt](https://techcrunch.com/2022/06/08/figmas-dylan-field-will-discuss-evolving-as-a-leader-and-why-fun-is-an-essential-company-value-at-techcrunch-disrupt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
