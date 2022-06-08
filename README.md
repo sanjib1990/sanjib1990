@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Multiverse nabs $220M at a $1.7B valuation to expand its tech apprenticeship platform](https://techcrunch.com/2022/06/08/multiverse-nabs-220m-at-a-1-7b-valuation-to-expand-its-tech-apprenticeship-platform/)
-- [Watch SpaceX launch a communications satellite, land rocket on ship at sea Wednesday](https://www.space.com/spacex-nilesat-launch-rocket-landing/)
-- [Ukrainian startup conducts new tests for engine of &#39;self-devouring&#39; rocket](https://www.space.com/ukraine-promin-aerospace-tests-self-devouring-rocket-engine/)
-- [Hubble Space Telescope&#39;s largest-ever infrared image peers back 10 billion years](https://www.space.com/hubble-space-telescope-largest-infrared-image/)
-- [Tencent once more seeks to expand its mobile hit Honor of Kings globally](https://techcrunch.com/2022/06/08/tencent-timi-honor-of-kings-global/)
+- [Branch snags $147M at a $1.05B valuation, showing that thorny insurtech market not impervious to growth](https://techcrunch.com/2022/06/08/insurtech-branch-becomes-a-unicorn2331736/)
+- [Crypto startup Ledger teams up with Cathay Innovation to launch $110M sector fund](https://techcrunch.com/2022/06/08/crypto-startup-ledger-cathay-innovation-new-venture-fund-blockchain-security-investment/)
+- [Proper raises $4.3M seed round to help other fintechs wrangle data](https://techcrunch.com/2022/06/08/fintech-startup-proper-yc-y-combinator-data-integration-operations/)
+- [The Matrix movies, ranked worst to best](https://www.space.com/the-matrix-movies-ranked-worst-to-best/)
+- [On This Day In Space: June 8, 1959: X-15 makes first glide flight](https://www.space.com/39251-on-this-day-in-space.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
