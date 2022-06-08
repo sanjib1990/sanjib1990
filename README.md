@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The early signs of startup layoffs to come](https://techcrunch.com/2022/06/08/the-early-signs-of-startup-layoffs-to-come/)
+- [GitHub sunsets Atom, the software dev environment it launched in 2011](https://techcrunch.com/2022/06/08/github-sunsets-atom-the-software-dev-environment-it-launched-in-2011/)
+- [YouTube TV begins rolling out 5.1 surround sound across Google TV, Android TV and Roku devices](https://techcrunch.com/2022/06/08/youtube-tv-5-1-surround-sound-on-google-tv-android-tv-roku/)
+- [Discovery of second repeating fast radio burst raises new questions](https://www.space.com/second-fast-radio-burst-discovered/)
 - [Why does the moon look close some nights and far away on other nights?](https://www.space.com/moon-apparent-distance-changes/)
-- [Twitter’s latest feature lets merchants tease upcoming product drops, remind customers to shop](https://techcrunch.com/2022/06/08/twitters-latest-feature-lets-merchants-tease-upcoming-product-drops-remind-customers-to-shop/)
-- [Meet the trans, anarchist founder who just landed $25M to reform how crypto is stored](https://techcrunch.com/2022/06/08/the-trans-queer-anarchist-crypto-founder-seed-round-a16z-andreessen-horowitz/)
-- [As markets go down, government tech spending stays steady: How can investors tap in?](https://techcrunch.com/2022/06/08/as-markets-go-down-government-tech-spending-stays-steady-how-can-investors-tap-in/)
-- [Figma’s Dylan Field will discuss evolving as a leader and why fun is an essential company value at TechCrunch Disrupt](https://techcrunch.com/2022/06/08/figmas-dylan-field-will-discuss-evolving-as-a-leader-and-why-fun-is-an-essential-company-value-at-techcrunch-disrupt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
