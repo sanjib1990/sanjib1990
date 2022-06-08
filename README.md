@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bud raises $80M more to expand its AI-based open banking platform, used to power lending tools and more](https://techcrunch.com/2022/06/08/bud-raises-80m-more-to-expand-its-ai-based-open-banking-platform-used-to-power-lending-tools-and-more/)
 - [Linktree launches new Marketplace directory for users to browse its platform partners and integrations](https://techcrunch.com/2022/06/08/linktree-marketplace/)
 - [Felix Capital closes fourth fund at $600M, its biggest yet](https://techcrunch.com/2022/06/08/felix-capital-closes-fourth-fund-at-600m-its-biggest-yet/)
 - [India’s central bank to allow linking credit cards with UPI](https://techcrunch.com/2022/06/07/upi-credit-cards-india/)
 - [Thailand’s Salary Hero is an earned wage access startup that wants to add neobanking products](https://techcrunch.com/2022/06/07/thailands-salary-hero-is-an-earned-wage-access-startup-that-plans-to-become-a-neobank/)
-- [TikTok found to fuel disinformation, political tension in Kenya ahead of elections](https://techcrunch.com/2022/06/07/tiktok-found-to-fuel-disinformation-political-tension-in-kenya-ahead-of-elections/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
