@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Andreessen Horowitz backs SCiFi Foods as it develops cell-cultivated, plant-based burger](https://techcrunch.com/2022/06/08/a16z-backs-scifi-foods-as-it-develops-cell-cultivated-plant-based-burger/)
-- [Fruitful emerges from stealth with $33M in funding and an app that aims to fuel healthy financial habits](https://techcrunch.com/2022/06/08/fruitful-raises-33m-to-offer-financial-planning-advice-via-a-subscription-model/)
-- [GitLab proves it’s possible to get a better valuation for your software company](https://techcrunch.com/2022/06/08/gitlab-proves-its-possible-to-get-a-better-valuation-for-your-software-company/)
-- [AI platform Continual raises $14.5M Series A and comes out of beta](https://techcrunch.com/2022/06/08/ai-platform-continual-raises-14-5m-series-a-and-comes-out-of-beta/)
-- [FBI seizes notorious marketplace for selling millions of stolen SSNs](https://techcrunch.com/2022/06/08/fbi-ssndob-millions-social-security-marketplace/)
+- [Zoom and Enhance &lpar;kinda&rpar; go from fact to fiction with Picsart’s AI image enhancer](https://techcrunch.com/2022/06/08/zoom-and-enhance-kinda-goes-from-fact-to-fiction-with-picsarts-ai-image-enhancer/)
+- [The race to create the perfect home setup service is on, as Just Move In raises $5M](https://techcrunch.com/2022/06/08/the-race-to-create-the-perfect-home-setup-service-is-on-as-just-move-raises-5m/)
+- [Finch raises $15M to build an API for HR systems](https://techcrunch.com/2022/06/08/finch-raises-15m-to-build-an-api-for-hr-systems/)
+- [Five to Nine raises $4.25M seed round to help improve the efficiency of DEI initiatives](https://techcrunch.com/2022/06/08/five-to-nine-raises-4-25m-seed-round-to-help-improve-the-efficiency-of-dei-initiatives/)
+- [GitLab-spinoff Meltano raises another $8.2M for its open-source DataOps platform](https://techcrunch.com/2022/06/08/gitlab-spinoff-meltano-raises-another-8-2m-for-its-open-source-dataops-platform/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
