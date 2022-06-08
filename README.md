@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Former Better.com exec alleges company misled investors ahead of SPAC](https://techcrunch.com/2022/06/07/former-better-com-exec-alleges-company-misled-investors-ahead-of-spac/)
+- [Judge says former Tesla worker has 2 weeks to accept $15M payout over racial abuse](https://techcrunch.com/2022/06/07/judge-says-former-tesla-worker-has-2-weeks-to-accept-15m-payout-over-racial-abuse/)
+- [Solana launches $100M investment and grant fund for South Korean web3 startups](https://techcrunch.com/2022/06/07/solana-launches-100m-investment-and-grant-fund-for-south-korean-web3-startups/)
 - [Instagram’s ‘sensitive content’ controls will soon filter all recommended content](https://techcrunch.com/2022/06/07/instagrams-sensitive-content-controls/)
-- [Bird plans to lay off 23% of staff](https://techcrunch.com/2022/06/07/bird-plans-to-layoff-23-of-staff/)
-- [Daily Crunch: Oracle dives deeply into healthcare after closing $28B Cerner acquisition](https://techcrunch.com/2022/06/07/daily-crunch-oracle-dives-deeply-into-healthcare-after-closing-28b-cerner-acquisition/)
-- [&#39;The Orville&#39; season 3 premiere sets out to show this sci-fi series is a tour de force](https://www.space.com/the-orville-season-3-episode-1-review/)
-- [&#39;Star Trek: Strange New Worlds&#39; episode 5 taps into some classic Trek tropes](https://www.space.com/star-trek-strange-new-worlds-season-1-episode-5-review/)
+- [Bird is laying off 23% of staff](https://techcrunch.com/2022/06/07/bird-plans-to-layoff-23-of-staff/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
