@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Proposed bipartisan US crypto bill could be ‘sigh of relief’ for the industry](https://techcrunch.com/2022/06/08/proposed-bipartisan-us-crypto-bill-could-be-sigh-of-relief-for-the-industry/)
+- [Webb: Engineered to Endure Micrometeoroid Impacts](https://blogs.nasa.gov/webb/2022/06/08/webb-engineered-to-endure-micrometeoroid-impacts/)
+- [Ingenuity Mars helicopter team aims to keep flying despite dead navigation sensor](https://www.space.com/ingenuity-mars-helicopter-troubleshooting-dead-navigation-sensor/)
 - [Twitter will reportedly hand over internal data to soothe Musk’s bot fears](https://techcrunch.com/2022/06/08/twitter-hand-over-data-musk-bot-spam-accounts/)
 - [Dear Sophie: How do we handle being fully remote when it comes to immigration?](https://techcrunch.com/2022/06/08/dear-sophie-how-do-we-handle-being-fully-remote-when-it-comes-to-immigration/)
-- [Spotify hypes the revenue potential of podcasts and audiobooks at its second Investor Day event](https://techcrunch.com/2022/06/08/spotify-hypes-the-revenue-potential-of-podcasts-and-audiobooks-at-its-second-investor-day-event/)
-- [The early signs of startup layoffs to come](https://techcrunch.com/2022/06/08/the-early-signs-of-startup-layoffs-to-come/)
-- [GitHub sunsets Atom, the software dev environment it launched in 2011](https://techcrunch.com/2022/06/08/github-sunsets-atom-the-software-dev-environment-it-launched-in-2011/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
