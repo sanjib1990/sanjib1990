@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Thailand’s Salary Hero is an earned wage access startup that plans to become a neobank](https://techcrunch.com/2022/06/07/thailands-salary-hero-is-an-earned-wage-access-startup-that-plans-to-become-a-neobank/)
+- [Thailand’s Salary Hero is an earned wage access startup that wants to add neobanking products](https://techcrunch.com/2022/06/07/thailands-salary-hero-is-an-earned-wage-access-startup-that-plans-to-become-a-neobank/)
 - [TikTok found to fuel disinformation, political tension in Kenya ahead of elections](https://techcrunch.com/2022/06/07/tiktok-found-to-fuel-disinformation-political-tension-in-kenya-ahead-of-elections/)
 - [Former Better.com exec alleges company misled investors ahead of SPAC](https://techcrunch.com/2022/06/07/former-better-com-exec-alleges-company-misled-investors-ahead-of-spac/)
 - [Judge says former Tesla worker has 2 weeks to accept $15M payout over racial abuse](https://techcrunch.com/2022/06/07/judge-says-former-tesla-worker-has-2-weeks-to-accept-15m-payout-over-racial-abuse/)
