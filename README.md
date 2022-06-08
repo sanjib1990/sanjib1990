@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Linktree launches new Marketplace directory for users to browse its platform partners and integrations](https://techcrunch.com/2022/06/08/linktree-marketplace/)
+- [Felix Capital closes fourth fund at $600M, its biggest yet](https://techcrunch.com/2022/06/08/felix-capital-closes-fourth-fund-at-600m-its-biggest-yet/)
 - [India’s central bank to allow linking credit cards with UPI](https://techcrunch.com/2022/06/07/upi-credit-cards-india/)
 - [Thailand’s Salary Hero is an earned wage access startup that wants to add neobanking products](https://techcrunch.com/2022/06/07/thailands-salary-hero-is-an-earned-wage-access-startup-that-plans-to-become-a-neobank/)
 - [TikTok found to fuel disinformation, political tension in Kenya ahead of elections](https://techcrunch.com/2022/06/07/tiktok-found-to-fuel-disinformation-political-tension-in-kenya-ahead-of-elections/)
-- [Former Better.com exec alleges company misled investors ahead of SPAC](https://techcrunch.com/2022/06/07/former-better-com-exec-alleges-company-misled-investors-ahead-of-spac/)
-- [Judge says former Tesla worker has 2 weeks to accept $15M payout over racial abuse](https://techcrunch.com/2022/06/07/judge-says-former-tesla-worker-has-2-weeks-to-accept-15m-payout-over-racial-abuse/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
