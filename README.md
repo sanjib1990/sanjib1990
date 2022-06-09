@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Juni jumps on $206M to help e-commerce players manage their own money better](https://techcrunch.com/2022/06/08/juni-jumps-on-206m-to-help-e-commerce-players-manage-their-own-money-better/)
 - [Singapore’s taxi operator ComfortDelGro enables tourists from Malaysia and South Korea to use mobile wallets apps for paying fares](https://techcrunch.com/2022/06/08/singapores-taxi-operator-comfortdelgro-enables-tourists-from-malaysia-and-south-korea-to-use-mobile-wallets-apps-for-paying-fares/)
 - [Content marketplace Pepper lands $14.3 million funding to expand to US](https://techcrunch.com/2022/06/08/content-marketplace-pepper-lands-14-3-million-funding-to-expand-to-us/)
 - [Faraday Future says it plans to open a Chinese factory by mid-decade](https://techcrunch.com/2022/06/08/faraday-future-says-it-plans-to-open-a-chinese-factory-by-mid-decade/)
 - [Departing Amazon exec Dave Clark to head logistics startup Flexport](https://techcrunch.com/2022/06/08/departing-amazon-exec-dave-clark-to-head-logistics-startup-flexport/)
-- [Mobility marketplaces and brake repair on TechCrunch Live](https://techcrunch.com/2022/06/08/mobility-marketplaces-and-brake-repair-on-techcrunch-live/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
