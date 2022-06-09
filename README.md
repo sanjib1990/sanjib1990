@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [HYCU locks down additional funding to grow its cloud data protection business](https://techcrunch.com/2022/06/09/hycu-locks-down-additional-funding-to-grow-its-cloud-data-protection-business/)
+- [Middesk raises $57M to automate business verification and underwriting](https://techcrunch.com/2022/06/09/2329423/)
+- [TechCrunch Live recap: Building founder/investor relationships and using grants to fund startups](https://techcrunch.com/2022/06/09/techcrunch-live-recap-building-founder-investor-relationships-and-using-grants-to-fund-startups/)
+- [Anycubic Kobra Plus review: A huge step forward for accessible printing](https://www.space.com/anycubic-kobra-plus-review/)
 - [Shield AI raises $165M at a $2.3B valuation to fuel development of its military autonomous flying systems](https://techcrunch.com/2022/06/09/shield-ai-raises-165m-at-a-2-3b-valuation-to-fuel-development-of-its-military-autonomous-flying-systems/)
-- [Google releases Android 13 beta 3, reaches platform stability](https://techcrunch.com/2022/06/09/google-releases-android-13-beta-3-reaches-platform-stability/)
-- [James Webb Space Telescope will study how the 1st black hole &#39;seeds&#39; formed in the &#39;baby universe&#39;](https://www.space.com/james-webb-space-telescope-primeval-black-holes/)
-- [Dark matter: should we be so sure it exists? Here&#39;s how philosophy can help.](https://www.space.com/dark-matter-existence-philosophy/)
-- [Mars Base 101: How astronauts could make the most of a 30-day Red Planet stay](https://www.space.com/nasa-astronauts-30-day-mars-mission-science/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
