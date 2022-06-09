@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [GitLab CI CD Tutorial for Beginners [Crash Course]](https://www.youtube.com/watch?v=qP8kir2GUgo)
 - [Lecture 20: Space of Rotations, Regular Tessellations, Critical Surfaces, Binocular Stereo](https://www.youtube.com/watch?v=Mcy-LlcD8jI)
 - [Lecture 13: Object Detection, Recognition and Pose Determination, PatQuick &lpar;US 7,016,539&rpar;](https://www.youtube.com/watch?v=lVfm6C51t_Y)
 - [Lecture 9: Shape from Shading, General Case - From First Order Nonlinear PDE to Five ODEs](https://www.youtube.com/watch?v=J4gbaRyWpoM)
 - [Lecture 18: Rotation and How to Represent It, Unit Quaternions, the Space of Rotations](https://www.youtube.com/watch?v=uiG6KY0Cqd8)
-- [Lecture 10: Characteristic Strip Expansion, Shape from Shading, Iterative Solutions](https://www.youtube.com/watch?v=XSUjp-cDyeY)
 <!-- YOUTUBE:END -->
 
 ---
