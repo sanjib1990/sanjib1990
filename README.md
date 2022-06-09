@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Best binoculars for kids: A close-up view of the cosmos for smaller hands and eyes](https://www.space.com/best-binoculars-for-kids/)
-- [Meta has reportedly shelved its watch with in-built cameras](https://techcrunch.com/2022/06/09/meta-has-reportedly-shelved-its-watch-with-in-built-cameras/)
-- [Microsoft’s new Xbox TV app will let players stream games on new Samsung smart TVs without a console](https://techcrunch.com/2022/06/09/microsofts-xbox-tv-app-stream-games-new-samsung-smart-tvs/)
-- [Gander closes $4.2M seed round to ‘humanize’ online shopping](https://techcrunch.com/2022/06/09/gander-closes-4-2m-seed-round-to-humanize-online-shopping/)
-- [Google and Meta closing ads in Russia helped Putin, argues Navalny](https://techcrunch.com/2022/06/09/google-meta-ads-russia-alexey-navalny-criticism/)
+- [Last call to submit your content for TechCrunch Disrupt](https://techcrunch.com/2022/06/09/last-call-for-speakers-at-techcrunch-disrupt/)
+- [Best Lego Marvel sets 2022](https://www.space.com/best-lego-marvel-sets/)
+- [Lenovo invests in trackpad startup Sensel](https://techcrunch.com/2022/06/09/lenovo-invests-in-trackpad-startup-sensel/)
+- [Startups are high risk: As an employee, plan accordingly](https://techcrunch.com/2022/06/09/startups-are-high-risk/)
+- [India’s CRED valued at $6.4 billion in new funding](https://techcrunch.com/2022/06/09/india-cred-valued-at-6-5-billion-in-new-funding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
