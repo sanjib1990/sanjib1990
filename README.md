@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Amid growing concerns around app addiction, TikTok rolls out more screen tools](https://techcrunch.com/2022/06/09/amid-growing-concerns-around-addiction-tiktok-rolls-out-more-screen-tools/)
-- [Juni jumps on $206M to help e-commerce players manage their own money better](https://techcrunch.com/2022/06/08/juni-jumps-on-206m-to-help-e-commerce-players-manage-their-own-money-better/)
-- [Singapore’s taxi operator ComfortDelGro enables tourists from Malaysia and South Korea to use mobile wallets apps for paying fares](https://techcrunch.com/2022/06/08/singapores-taxi-operator-comfortdelgro-enables-tourists-from-malaysia-and-south-korea-to-use-mobile-wallets-apps-for-paying-fares/)
-- [Content marketplace Pepper lands $14.3 million funding to expand to US](https://techcrunch.com/2022/06/08/content-marketplace-pepper-lands-14-3-million-funding-to-expand-to-us/)
-- [Faraday Future says it plans to open a Chinese factory by mid-decade](https://techcrunch.com/2022/06/08/faraday-future-says-it-plans-to-open-a-chinese-factory-by-mid-decade/)
+- [Google expands ads verification program to tackle financial scams](https://techcrunch.com/2022/06/09/google-financial-ads-verification-expansion/)
+- [Tunisian edtech startup GOMYCODE raises $8M to expand across Africa and the Middle East](https://techcrunch.com/2022/06/09/tunisian-edtech-gomycode-raises-8m/)
+- [Ecosia gets a new look as it gears up for an era of green search](https://techcrunch.com/2022/06/09/ecosia-updates/)
+- [Tesla accuses civil rights agency of unlawfully suing for racial discrimination](https://techcrunch.com/2022/06/09/tesla-accuses-civil-rights-agency-of-unlawfully-suing-for-racial-discrimination/)
+- [Behavioral cybersecurity platform CybSafe raises $28M Series B led by Evolution Equity Partners](https://techcrunch.com/2022/06/09/behavioral-cybersecurity-platform-cybsafe-raises-28m-series-b-led-by-evolution-equity-partners/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
