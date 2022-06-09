@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Caught COVID-19 abroad? Good luck, you might get stuck](https://techcrunch.com/2022/06/09/coronavirus-overseas/)
-- [Luminai &lpar;formerly DigitalBrain&rpar; gets $16M investment for customer support RPA-like tool](https://techcrunch.com/2022/06/09/luminai-formerly-digitalbrain-gets-16m-investment-for-customer-support-rpa-like-tool/)
-- [Scheduling Webb’s Science](https://blogs.nasa.gov/webb/2022/06/09/scheduling-webbs-science/)
-- [UK Lego Star Wars deal: Save 20% on the UCS Imperial Star Destroyer at John Lewis](https://www.space.com/ucs-imperial-star-destroyer-20-percent-discount-at-john-lewis-uk/)
-- [NASA commissions science panel on unidentified aerial phenomena](https://www.space.com/nasa-unidentified-aerial-phenomena-science-panel/)
+- [VCs flock to TikTok to reach the next generation of founders and investors](https://techcrunch.com/2022/06/09/vcs-flock-to-tiktok-to-reach-the-next-generation-of-founders-and-investors/)
+- [Meta is reportedly scaling back plans for its AR glasses, pivoting away from marketing Portal as a consumer device](https://techcrunch.com/2022/06/09/meta-scaling-back-plans-ar-glasses-pivoting-portal-away-from-consumers/)
+- [Barely outpacing snails, US lawmakers ponder regulating crypto](https://techcrunch.com/2022/06/09/lawmakers-senators-crypto-blockchain-web3regulation-chain-reaction-podcast/)
+- [As DAOs continue to blossom, here’s how to keep yours from wilting](https://techcrunch.com/2022/06/09/as-daos-continue-to-blossom-heres-how-to-keep-yours-from-wilting/)
+- [Workforce quit](https://techcrunch.com/2022/06/09/workforce-quit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
