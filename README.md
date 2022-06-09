@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple said to be planning 12″ MacBook, 15″ MacBook Air and 14.1” iPad Pro for 2023 releases](https://techcrunch.com/2022/06/09/apple-said-to-be-planning-12-macbook-15-macbook-air-and-14-1-ipad-pro-for-2023-releases/)
 - [Caught COVID-19 abroad? Good luck, you might get stuck](https://techcrunch.com/2022/06/09/coronavirus-overseas/)
 - [Luminai &lpar;formerly DigitalBrain&rpar; gets $16M investment for customer support RPA-like tool](https://techcrunch.com/2022/06/09/luminai-formerly-digitalbrain-gets-16m-investment-for-customer-support-rpa-like-tool/)
 - [Scheduling Webb’s Science](https://blogs.nasa.gov/webb/2022/06/09/scheduling-webbs-science/)
 - [UK Lego Star Wars deal: Save 20% on the UCS Imperial Star Destroyer at John Lewis](https://www.space.com/ucs-imperial-star-destroyer-20-percent-discount-at-john-lewis-uk/)
+- [NASA commissions science panel on unidentified aerial phenomena](https://www.space.com/nasa-unidentified-aerial-phenomena-science-panel/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
