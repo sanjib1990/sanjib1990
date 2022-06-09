@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [EV SPAC Faraday Future now has the attention of the DOJ](https://techcrunch.com/2022/06/09/faraday-future-ev-spac-doj-sec-investigation/)
+- [Daily Crunch: Upskilling edtech platform GOMYCODE closes $8M Series A](https://techcrunch.com/2022/06/09/daily-crunch-upskilling-edtech-platform-gomycode-closes-8m-series-a/)
+- [&#39;Star Wars: The Bad Batch&#39; charges back to Disney Plus for Season 2 in September](https://www.space.com/star-wars-the-bad-batch-season-2-trailer/)
+- [A &#39;planetary breakup&#39; of 5 planets in the June&#39;s big stargazing sight, NASA says](https://www.space.com/five-planets-breakup-night-sky-june-2022/)
 - [Embrace the down round](https://techcrunch.com/2022/06/09/down-round-flat-round/)
-- [Physicists discover never-before seen particle sitting on a tabletop](https://www.space.com/magnetic-higgs-relative-discovered/)
-- [A Venus-bound mission from NASA will carry a tiny sensor built by students to the planet&#39;s hellish surface](https://www.space.com/venus-davinci-lander-student-built-sensor/)
-- [NASA hopes new study helps bring UFO research into the mainstream](https://www.space.com/nasa-study-remove-stigma-ufo-research/)
-- [VCs flock to TikTok to reach the next generation of founders and investors](https://techcrunch.com/2022/06/09/vcs-flock-to-tiktok-to-reach-the-next-generation-of-founders-and-investors/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
