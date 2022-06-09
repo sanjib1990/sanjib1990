@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Papercup raises $20M for AI that automatically dubs videos](https://techcrunch.com/2022/06/09/papercup-raises-20m-for-ai-that-automatically-dubs-videos/)
-- [Brown Foods ushers in new age of dairy, raises a ‘latte’ money for cowless cow’s milk](https://techcrunch.com/2022/06/09/brown-foods-seed-milk/)
-- [Klar, believed to be Mexico’s largest digital bank, lands $70M in General Atlantic-led round](https://techcrunch.com/2022/06/09/klar-believed-to-be-mexicos-largest-digital-bank-lands-70m-in-general-atlantic-led-round/)
-- [Amazon gets into AR shopping with launch of ‘Virtual Try-On for Shoes’](https://techcrunch.com/2022/06/09/amazon-gets-into-ar-shopping-with-launch-of-virtual-try-on-for-shoes/)
-- [Google expands Vertex, its managed AI service, with new features](https://techcrunch.com/2022/06/09/google-expands-vertex-its-managed-ai-service-with-new-features/)
+- [Meta has reportedly shelved its watch with in-built cameras](https://techcrunch.com/2022/06/09/meta-has-reportedly-shelved-its-watch-with-in-built-cameras/)
+- [Microsoft’s new Xbox TV app will let players stream games on new Samsung smart TVs without a console](https://techcrunch.com/2022/06/09/microsofts-xbox-tv-app-stream-games-new-samsung-smart-tvs/)
+- [Gander closes $4.2M seed round to ‘humanize’ online shopping](https://techcrunch.com/2022/06/09/gander-closes-4-2m-seed-round-to-humanize-online-shopping/)
+- [Google and Meta closing ads in Russia helped Putin, argues Navalny](https://techcrunch.com/2022/06/09/google-meta-ads-russia-alexey-navalny-criticism/)
+- [Xage releases new tool to battle MFA bombing in critical infrastructure](https://techcrunch.com/2022/06/09/xage-releases-new-tool-to-battle-mfa-bombing-in-critical-infrastructure/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
