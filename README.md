@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Embrace the down round](https://techcrunch.com/2022/06/09/down-round-flat-round/)
+- [Physicists discover never-before seen particle sitting on a tabletop](https://www.space.com/magnetic-higgs-relative-discovered/)
+- [A Venus-bound mission from NASA will carry a tiny sensor built by students to the planet&#39;s hellish surface](https://www.space.com/venus-davinci-lander-student-built-sensor/)
+- [NASA hopes new study helps bring UFO research into the mainstream](https://www.space.com/nasa-study-remove-stigma-ufo-research/)
 - [VCs flock to TikTok to reach the next generation of founders and investors](https://techcrunch.com/2022/06/09/vcs-flock-to-tiktok-to-reach-the-next-generation-of-founders-and-investors/)
-- [Meta is reportedly scaling back plans for its AR glasses, pivoting away from marketing Portal as a consumer device](https://techcrunch.com/2022/06/09/meta-scaling-back-plans-ar-glasses-pivoting-portal-away-from-consumers/)
-- [Barely outpacing snails, US lawmakers ponder regulating crypto](https://techcrunch.com/2022/06/09/lawmakers-senators-crypto-blockchain-web3regulation-chain-reaction-podcast/)
-- [As DAOs continue to blossom, here’s how to keep yours from wilting](https://techcrunch.com/2022/06/09/as-daos-continue-to-blossom-heres-how-to-keep-yours-from-wilting/)
-- [Workforce quit](https://techcrunch.com/2022/06/09/workforce-quit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
