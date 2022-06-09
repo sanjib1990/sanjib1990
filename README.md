@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [HYCU locks down additional funding to grow its cloud data protection business](https://techcrunch.com/2022/06/09/hycu-locks-down-additional-funding-to-grow-its-cloud-data-protection-business/)
-- [Middesk raises $57M to automate business verification and underwriting](https://techcrunch.com/2022/06/09/2329423/)
-- [TechCrunch Live recap: Building founder/investor relationships and using grants to fund startups](https://techcrunch.com/2022/06/09/techcrunch-live-recap-building-founder-investor-relationships-and-using-grants-to-fund-startups/)
-- [Anycubic Kobra Plus review: A huge step forward for accessible printing](https://www.space.com/anycubic-kobra-plus-review/)
-- [Shield AI raises $165M at a $2.3B valuation to fuel development of its military autonomous flying systems](https://techcrunch.com/2022/06/09/shield-ai-raises-165m-at-a-2-3b-valuation-to-fuel-development-of-its-military-autonomous-flying-systems/)
+- [Papercup raises $20M for AI that automatically dubs videos](https://techcrunch.com/2022/06/09/papercup-raises-20m-for-ai-that-automatically-dubs-videos/)
+- [Brown Foods ushers in new age of dairy, raises a ‘latte’ money for cowless cow’s milk](https://techcrunch.com/2022/06/09/brown-foods-seed-milk/)
+- [Klar, believed to be Mexico’s largest digital bank, lands $70M in General Atlantic-led round](https://techcrunch.com/2022/06/09/klar-believed-to-be-mexicos-largest-digital-bank-lands-70m-in-general-atlantic-led-round/)
+- [Amazon gets into AR shopping with launch of ‘Virtual Try-On for Shoes’](https://techcrunch.com/2022/06/09/amazon-gets-into-ar-shopping-with-launch-of-virtual-try-on-for-shoes/)
+- [Google expands Vertex, its managed AI service, with new features](https://techcrunch.com/2022/06/09/google-expands-vertex-its-managed-ai-service-with-new-features/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
