@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Faraday Future says it plans to open a Chinese factory by mid-decade](https://techcrunch.com/2022/06/08/faraday-future-says-it-plans-to-open-a-chinese-factory-by-mid-decade/)
+- [Departing Amazon exec Dave Clark to head logistics startup Flexport](https://techcrunch.com/2022/06/08/departing-amazon-exec-dave-clark-to-head-logistics-startup-flexport/)
 - [Mobility marketplaces and brake repair on TechCrunch Live](https://techcrunch.com/2022/06/08/mobility-marketplaces-and-brake-repair-on-techcrunch-live/)
 - [Apple’s Pay Later installment credit scheme will live under a new lending subsidiary](https://techcrunch.com/2022/06/08/apples-pay-later-installment-credit-scheme-will-live-under-a-new-lending-subsidiary/)
 - [Daily Crunch: US law enforcement agencies take down identity theft marketplace](https://techcrunch.com/2022/06/08/us-law-enforcement-agencies-take-down-identity-theft-marketplace/)
-- [Amazon is simplifying the pricing structure for its Kids+ all-in-one subscription service](https://techcrunch.com/2022/06/08/amazon-is-simplifying-the-pricing-structure-for-its-kids-all-in-one-subscription-service/)
-- [NexStride gadget that helps people with Parkinsons fight ‘freezing’ attracts $2.8M](https://techcrunch.com/2022/06/08/nexstride-gadget-that-helps-people-with-parkinsons-fight-freezing-attracts-2-8m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
