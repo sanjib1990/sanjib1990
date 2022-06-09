@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google expands ads verification program to tackle financial scams](https://techcrunch.com/2022/06/09/google-financial-ads-verification-expansion/)
-- [Tunisian edtech startup GOMYCODE raises $8M to expand across Africa and the Middle East](https://techcrunch.com/2022/06/09/tunisian-edtech-gomycode-raises-8m/)
-- [Ecosia gets a new look as it gears up for an era of green search](https://techcrunch.com/2022/06/09/ecosia-updates/)
-- [Tesla accuses civil rights agency of unlawfully suing for racial discrimination](https://techcrunch.com/2022/06/09/tesla-accuses-civil-rights-agency-of-unlawfully-suing-for-racial-discrimination/)
-- [Behavioral cybersecurity platform CybSafe raises $28M Series B led by Evolution Equity Partners](https://techcrunch.com/2022/06/09/behavioral-cybersecurity-platform-cybsafe-raises-28m-series-b-led-by-evolution-equity-partners/)
+- [Google releases Android 13 beta 3, reaches platform stability](https://techcrunch.com/2022/06/09/google-releases-android-13-beta-3-reaches-platform-stability/)
+- [James Webb Space Telescope will study how the 1st black hole &#39;seeds&#39; formed in the &#39;baby universe&#39;](https://www.space.com/james-webb-space-telescope-primeval-black-holes/)
+- [Dark matter: should we be so sure it exists? Here&#39;s how philosophy can help.](https://www.space.com/dark-matter-existence-philosophy/)
+- [Mars Base 101: How astronauts could make the most of a 30-day Red Planet stay](https://www.space.com/nasa-astronauts-30-day-mars-mission-science/)
+- [Meta says Kenyan court has no jurisdiction to determine case against it, wants it thrown out](https://techcrunch.com/2022/06/09/meta-says-kenyan-court-has-no-jurisdiction-to-determine-case-against-it-wants-it-thrown-out/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
