@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Shield AI raises $165M at a $2.3B valuation to fuel development of its military autonomous flying systems](https://techcrunch.com/2022/06/09/shield-ai-raises-165m-at-a-2-3b-valuation-to-fuel-development-of-its-military-autonomous-flying-systems/)
 - [Google releases Android 13 beta 3, reaches platform stability](https://techcrunch.com/2022/06/09/google-releases-android-13-beta-3-reaches-platform-stability/)
 - [James Webb Space Telescope will study how the 1st black hole &#39;seeds&#39; formed in the &#39;baby universe&#39;](https://www.space.com/james-webb-space-telescope-primeval-black-holes/)
 - [Dark matter: should we be so sure it exists? Here&#39;s how philosophy can help.](https://www.space.com/dark-matter-existence-philosophy/)
 - [Mars Base 101: How astronauts could make the most of a 30-day Red Planet stay](https://www.space.com/nasa-astronauts-30-day-mars-mission-science/)
-- [Meta says Kenyan court has no jurisdiction to determine case against it, wants it thrown out](https://techcrunch.com/2022/06/09/meta-says-kenyan-court-has-no-jurisdiction-to-determine-case-against-it-wants-it-thrown-out/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
