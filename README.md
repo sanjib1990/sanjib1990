@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [American Express announces its first US crypto rewards credit card](https://techcrunch.com/2022/06/10/american-express-us-crypto-rewards-credit-card/)
+- [American Express announces first US crypto rewards credit card on its network](https://techcrunch.com/2022/06/10/american-express-us-crypto-rewards-credit-card/)
 - [Charm Therapeutics applies AI to complex protein interactions, locking down $50M A round](https://techcrunch.com/2022/06/10/charm-therapeutics-applies-ai-to-complex-protein-interactions-locking-down-50m-a-round/)
 - [TechCrunch+ roundup: Growth marketing survey, VC TikTok, fundraising amid a downturn](https://techcrunch.com/2022/06/10/techcrunch-roundup-growth-marketing-survey-vc-tiktok-fundraising-amid-a-downturn/)
 - [Here’s the complete agenda for next week’s TC Sessions: Climate 2022](https://techcrunch.com/2022/06/10/heres-the-complete-agenda-for-next-tuesdays-tc-sessions-climate-2022/)
