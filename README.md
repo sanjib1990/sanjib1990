@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Canon EOS R3 review](https://www.space.com/canon-eos-r3-review/)
 - [On This Day In Space: June 10, 1854: Classic curved space lecture makes history](https://www.space.com/39251-on-this-day-in-space.html/)
 - [Lego Marvel Carnage review](https://www.space.com/lego-marvel-carnage-76199-review/)
 - [MIT researchers uncover ‘unpatchable’ flaw in Apple M1 chips](https://techcrunch.com/2022/06/10/apple-m1-unpatchable-flaw/)
 - [NASA&#39;s Psyche mission delay means change of targets for secondary asteroid probes](https://www.space.com/psyche-launch-delay-secondary-asteroid-probes/)
-- [Europe will launch a &#39;lurking&#39; probe in 2029 to watch for an interstellar comet](https://www.space.com/esa-comet-interceptor-mission-2029-launch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
