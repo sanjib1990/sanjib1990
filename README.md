@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Here’s the complete agenda for next week’s TC Sessions: Climate 2022](https://techcrunch.com/2022/06/10/heres-the-complete-agenda-for-next-tuesdays-tc-sessions-climate-2022/)
+- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
+- [Netflix announces games tied to its popular shows, including ‘The Queens Gambit,’ ‘Shadow and Bone’ and more](https://techcrunch.com/2022/06/10/netflix-games-queens-gambit-shadow-bone-and-more/)
+- [If you must conduct layoffs, don’t be a jerk](https://techcrunch.com/2022/06/10/june-tech-layoffs-dont-be-a-jerk/)
 - [Meta rolls out Horizon Home, making it easier to meet up in the metaverse](https://techcrunch.com/2022/06/10/meta-horizon-home-quest-2/)
-- [Father&#39;s Day gifts 2022: The best gifts in the universe](https://www.space.com/34620-space-gifts.html/)
-- [TechCrunch podcasts this week: startup grants, a16z’s crypto bet, and the art of raising money for groceries](https://techcrunch.com/2022/06/10/techcrunch-podcasts-this-week-funding-startups-with-grants-a16zs-crypto-bet-and-the-art-of-raising-money-for-groceries/)
-- [Telegram confirms it’ll launch a premium sub this month](https://techcrunch.com/2022/06/10/telegram-premium/)
-- [Last chance to apply to speak at TechCrunch Disrupt](https://techcrunch.com/2022/06/10/last-chance-to-apply-to-speak-at-techcrunch-disrupt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
