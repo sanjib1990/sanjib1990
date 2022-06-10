@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Looking back at the venture market of one year ago](https://techcrunch.com/2022/06/10/looking-back-at-the-venture-market-of-one-year-ago/)
-- [UK’s antitrust watchdog finally eyes action on Apple, Google mobile duopoly](https://techcrunch.com/2022/06/10/apple-google-mobile-duopoly-cma-market-study/)
-- [Canon EOS R3 review](https://www.space.com/canon-eos-r3-review/)
-- [Boulder Care takes in funding as its opioid telehealth program yields industry-leading retention rates](https://techcrunch.com/2022/06/10/boulder-care-takes-in-funding-as-its-opioid-telehealth-program-yields-industry-leading-retention-rates/)
-- [Hedge funds plan to buy more crypto amid a down market and potential regulatory clarity](https://techcrunch.com/2022/06/10/hedge-funds-plan-to-buy-more-crypto-amid-a-down-market-and-potential-regulatory-clarity/)
+- [Investor demands for profitability catch tech companies flat-footed](https://techcrunch.com/2022/06/10/investor-demands-for-profitability-catch-tech-companies-flat-footed/)
+- [Asteroid Ryugu contains material older than the planets, among the most primitive ever studied on Earth](https://www.space.com/asteroid-ryugu-sample-older-than-planets/)
+- [Disney+ rolls out to 16 more markets across the Middle East and North Africa](https://techcrunch.com/2022/06/10/disney-rolls-out-to-16-more-markets-across-the-middle-east-and-north-africa/)
+- [Peacock confirms a test that rewards paid subscribers with $15 movie tickets or $7 rentals](https://techcrunch.com/2022/06/10/peacock-confirms-a-test-that-rewards-paid-subscribers-with-15-movie-tickets-or-7-rentals/)
+- [Why Porsche is turning to startup builder UpLabs to solve its biggest problems](https://techcrunch.com/2022/06/10/porsche-taps-startup-builder-up-labs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
