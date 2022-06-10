@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [American Express announces its first US crypto rewards credit card](https://techcrunch.com/2022/06/10/american-express-us-crypto-rewards-credit-card/)
+- [Charm Therapeutics applies AI to complex protein interactions, locking down $50M A round](https://techcrunch.com/2022/06/10/charm-therapeutics-applies-ai-to-complex-protein-interactions-locking-down-50m-a-round/)
+- [TechCrunch+ roundup: Growth marketing survey, VC TikTok, fundraising amid a downturn](https://techcrunch.com/2022/06/10/techcrunch-roundup-growth-marketing-survey-vc-tiktok-fundraising-amid-a-downturn/)
 - [Here’s the complete agenda for next week’s TC Sessions: Climate 2022](https://techcrunch.com/2022/06/10/heres-the-complete-agenda-for-next-tuesdays-tc-sessions-climate-2022/)
 - [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
-- [Netflix announces games tied to its popular shows, including ‘The Queens Gambit,’ ‘Shadow and Bone’ and more](https://techcrunch.com/2022/06/10/netflix-games-queens-gambit-shadow-bone-and-more/)
-- [If you must conduct layoffs, don’t be a jerk](https://techcrunch.com/2022/06/10/june-tech-layoffs-dont-be-a-jerk/)
-- [Meta rolls out Horizon Home, making it easier to meet up in the metaverse](https://techcrunch.com/2022/06/10/meta-horizon-home-quest-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
