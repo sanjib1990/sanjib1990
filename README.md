@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [FORTRAN in 100 Seconds](https://www.youtube.com/watch?v=NMWzgy8FsKs)
 - [GitLab CI CD Tutorial for Beginners [Crash Course]](https://www.youtube.com/watch?v=qP8kir2GUgo)
 - [Redwood in 100 Seconds](https://www.youtube.com/watch?v=o5Mwa_TJ3HM)
 - [9: Case Studies &lpar;cont.&rpar;: News Articles](https://www.youtube.com/watch?v=RhX6iLDpjEQ)
 - [19: Safety; Introduction to Narrative Ethics](https://www.youtube.com/watch?v=tDQ92vMd4Ww)
-- [22: Public Seminar on Narrative Ethics](https://www.youtube.com/watch?v=jsyn9UM7obo)
 <!-- YOUTUBE:END -->
 
 ---
