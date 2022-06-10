@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [What&#39;s Virtual Memory? - Computerphile](https://www.youtube.com/watch?v=5lFnKYCZT5o)
 - [FORTRAN in 100 Seconds](https://www.youtube.com/watch?v=NMWzgy8FsKs)
 - [GitLab CI CD Tutorial for Beginners [Crash Course]](https://www.youtube.com/watch?v=qP8kir2GUgo)
 - [Redwood in 100 Seconds](https://www.youtube.com/watch?v=o5Mwa_TJ3HM)
 - [9: Case Studies &lpar;cont.&rpar;: News Articles](https://www.youtube.com/watch?v=RhX6iLDpjEQ)
-- [19: Safety; Introduction to Narrative Ethics](https://www.youtube.com/watch?v=tDQ92vMd4Ww)
 <!-- YOUTUBE:END -->
 
 ---
