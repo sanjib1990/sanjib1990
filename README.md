@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s Psyche mission delay means change of targets for secondary asteroid probes](https://www.space.com/psyche-launch-delay-secondary-asteroid-probes/)
+- [Europe will launch a &#39;lurking&#39; probe in 2029 to watch for an interstellar comet](https://www.space.com/esa-comet-interceptor-mission-2029-launch/)
+- [Astra to launch of two tiny hurricane-studying NASA satellites on June 12](https://www.space.com/astra-nasa-tropics-hurricane-mission-launch-sunday/)
 - [Twitter’s Report Tweet update rolls out globally to make reporting dodgy tweets easier](https://techcrunch.com/2022/06/10/twitters-report-tweet-update-rolls-out-globally-to-make-reporting-dodgy-tweets-easier/)
 - [Amazon pulls out of IPL cricket streaming rights bidding](https://techcrunch.com/2022/06/10/amazon-said-to-pull-out-of-ipl-cricket-streaming-bidding/)
-- [Good Capital, Chris Sacca’s Lowercarbon back India’s SolarSquare](https://techcrunch.com/2022/06/09/good-capital-chris-saccas-lowercarbon-back-indias-solarsquare/)
-- [Duolingo back in China app stores after 1 year with a local twist](https://techcrunch.com/2022/06/09/duolingo-back-in-china/)
-- [NASA assembles a UFO research team to study ‘unidentified aerial phenomena’](https://techcrunch.com/2022/06/09/nasa-assembles-a-ufo-research-team-to-study-unidentified-aerial-phenomena/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
