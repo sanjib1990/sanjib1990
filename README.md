@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [IFC set to invest $26M in Partech’s Africa Fund II](https://techcrunch.com/2022/06/10/ifc-set-to-invest-26m-in-partechs-africa-fund-ii/)
-- [Why it’s so hard to market enterprise AI/ML products and what to do about it](https://techcrunch.com/2022/06/10/why-its-so-hard-to-market-enterprise-ai-ml-products-and-what-to-do-about-it/)
-- [A once and future Mars: Finding the space history in &#39;For All Mankind&#39; season 3](https://www.space.com/for-all-mankind-season-3-space-history/)
-- [&#39;For All Mankind&#39; Season 3 premieres on Apple TV Plus with a strange dose of a Mars-crazed 1990s](https://www.space.com/for-all-mankind-season-3-apple-tv-plus/)
-- [Investor demands for profitability catch tech companies flat-footed](https://techcrunch.com/2022/06/10/investor-demands-for-profitability-catch-tech-companies-flat-footed/)
+- [Meta rolls out Horizon Home, making it easier to meet up in the metaverse](https://techcrunch.com/2022/06/10/meta-horizon-home-quest-2/)
+- [Father&#39;s Day gifts 2022: The best gifts in the universe](https://www.space.com/34620-space-gifts.html/)
+- [TechCrunch podcasts this week: startup grants, a16z’s crypto bet, and the art of raising money for groceries](https://techcrunch.com/2022/06/10/techcrunch-podcasts-this-week-funding-startups-with-grants-a16zs-crypto-bet-and-the-art-of-raising-money-for-groceries/)
+- [Telegram confirms it’ll launch a premium sub this month](https://techcrunch.com/2022/06/10/telegram-premium/)
+- [Last chance to apply to speak at TechCrunch Disrupt](https://techcrunch.com/2022/06/10/last-chance-to-apply-to-speak-at-techcrunch-disrupt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
