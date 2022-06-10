@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon said to pull out of IPL cricket streaming rights bidding](https://techcrunch.com/2022/06/10/amazon-said-to-pull-out-of-ipl-cricket-streaming-bidding/)
+- [Twitter’s Report Tweet update rolls out globally to make reporting dodgy tweets easier](https://techcrunch.com/2022/06/10/twitters-report-tweet-update-rolls-out-globally-to-make-reporting-dodgy-tweets-easier/)
+- [Amazon pulls out of IPL cricket streaming rights bidding](https://techcrunch.com/2022/06/10/amazon-said-to-pull-out-of-ipl-cricket-streaming-bidding/)
 - [Good Capital, Chris Sacca’s Lowercarbon back India’s SolarSquare](https://techcrunch.com/2022/06/09/good-capital-chris-saccas-lowercarbon-back-indias-solarsquare/)
 - [Duolingo back in China app stores after 1 year with a local twist](https://techcrunch.com/2022/06/09/duolingo-back-in-china/)
 - [NASA assembles a UFO research team to study ‘unidentified aerial phenomena’](https://techcrunch.com/2022/06/09/nasa-assembles-a-ufo-research-team-to-study-unidentified-aerial-phenomena/)
-- [Jay-Z and Jack Dorsey launched a Bitcoin academy in a public housing complex](https://techcrunch.com/2022/06/09/jay-z-jack-dorsey-bitcoin-academy-marcy-public-housing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
