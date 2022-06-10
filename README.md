@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [On This Day In Space: June 10, 1854: Classic curved space lecture makes history](https://www.space.com/39251-on-this-day-in-space.html/)
+- [Lego Marvel Carnage review](https://www.space.com/lego-marvel-carnage-76199-review/)
+- [MIT researchers uncover ‘unpatchable’ flaw in Apple M1 chips](https://techcrunch.com/2022/06/10/apple-m1-unpatchable-flaw/)
 - [NASA&#39;s Psyche mission delay means change of targets for secondary asteroid probes](https://www.space.com/psyche-launch-delay-secondary-asteroid-probes/)
 - [Europe will launch a &#39;lurking&#39; probe in 2029 to watch for an interstellar comet](https://www.space.com/esa-comet-interceptor-mission-2029-launch/)
-- [Astra to launch of two tiny hurricane-studying NASA satellites on June 12](https://www.space.com/astra-nasa-tropics-hurricane-mission-launch-sunday/)
-- [Twitter’s Report Tweet update rolls out globally to make reporting dodgy tweets easier](https://techcrunch.com/2022/06/10/twitters-report-tweet-update-rolls-out-globally-to-make-reporting-dodgy-tweets-easier/)
-- [Amazon pulls out of IPL cricket streaming rights bidding](https://techcrunch.com/2022/06/10/amazon-said-to-pull-out-of-ipl-cricket-streaming-bidding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
