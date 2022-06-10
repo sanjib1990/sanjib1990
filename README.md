@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA assembles a UFO research team to study ‘unidentified aerial phenomena’](https://techcrunch.com/2022/06/09/nasa-assembles-a-ufo-research-team-to-study-unidentified-aerial-phenomena/)
+- [Jay-Z and Jack Dorsey launched a Bitcoin academy in a public housing complex](https://techcrunch.com/2022/06/09/jay-z-jack-dorsey-bitcoin-academy-marcy-public-housing/)
 - [Records show ICE uses LexisNexis to check millions, far more than previously thought](https://techcrunch.com/2022/06/09/records-show-ice-uses-lexisnexis-to-check-millions-far-more-than-previously-thought/)
 - [EV SPAC Faraday Future now has the attention of the DOJ](https://techcrunch.com/2022/06/09/faraday-future-ev-spac-doj-sec-investigation/)
 - [Daily Crunch: Upskilling edtech platform GOMYCODE closes $8M Series A](https://techcrunch.com/2022/06/09/daily-crunch-upskilling-edtech-platform-gomycode-closes-8m-series-a/)
-- [&#39;Star Wars: The Bad Batch&#39; charges back to Disney Plus for Season 2 in September](https://www.space.com/star-wars-the-bad-batch-season-2-trailer/)
-- [A &#39;planetary breakup&#39; of 5 planets in the June&#39;s big stargazing sight, NASA says](https://www.space.com/five-planets-breakup-night-sky-june-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
