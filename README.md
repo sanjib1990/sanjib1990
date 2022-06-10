@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A 7-step method for running effective pitch meetings](https://techcrunch.com/2022/06/10/a-7-step-method-for-running-effective-pitch-meetings/)
 - [Daily Crunch: Apple’s M1 chips have an ‘unpatchable’ hardware vulnerability, say MIT researchers](https://techcrunch.com/2022/06/10/daily-crunch-apples-m1-chips-have-an-unpatchable-hardware-vulnerability-say-mit-researchers/)
 - [How to use human-centered AI with Forethought and NEA](https://techcrunch.com/2022/06/10/how-to-use-human-centered-ai-with-forethought-and-nea/)
 - [Space Center Houston celebrates Artemis with new exhibit, Moon2Mars festival](https://www.space.com/artemis-moon2mars-festival-space-center-houston/)
 - [Momentus troubleshooting problems with newly launched space tug](https://www.space.com/momentus-troubleshooting-problems-vigoride-space-tug/)
-- [Stratolaunch ends 6th test flight of Roc, the world&#39;s largest airplane, early after unexpected results](https://www.space.com/stratolaunch-roc-test-flight-ends-early/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
