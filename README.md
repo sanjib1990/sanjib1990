@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Good Capital, Chris Sacca’s Lowercarbon back India’s SolarSquare](https://techcrunch.com/2022/06/09/good-capital-chris-saccas-lowercarbon-back-indias-solarsquare/)
 - [Duolingo back in China app stores after 1 year with a local twist](https://techcrunch.com/2022/06/09/duolingo-back-in-china/)
 - [NASA assembles a UFO research team to study ‘unidentified aerial phenomena’](https://techcrunch.com/2022/06/09/nasa-assembles-a-ufo-research-team-to-study-unidentified-aerial-phenomena/)
 - [Jay-Z and Jack Dorsey launched a Bitcoin academy in a public housing complex](https://techcrunch.com/2022/06/09/jay-z-jack-dorsey-bitcoin-academy-marcy-public-housing/)
 - [Records show ICE uses LexisNexis to check millions, far more than previously thought](https://techcrunch.com/2022/06/09/records-show-ice-uses-lexisnexis-to-check-millions-far-more-than-previously-thought/)
-- [EV SPAC Faraday Future now has the attention of the DOJ](https://techcrunch.com/2022/06/09/faraday-future-ev-spac-doj-sec-investigation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
