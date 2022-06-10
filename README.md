@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Looking back at the venture market of one year ago](https://techcrunch.com/2022/06/10/looking-back-at-the-venture-market-of-one-year-ago/)
+- [UK’s antitrust watchdog finally eyes action on Apple, Google mobile duopoly](https://techcrunch.com/2022/06/10/apple-google-mobile-duopoly-cma-market-study/)
 - [Canon EOS R3 review](https://www.space.com/canon-eos-r3-review/)
-- [On This Day In Space: June 10, 1854: Classic curved space lecture makes history](https://www.space.com/39251-on-this-day-in-space.html/)
-- [Lego Marvel Carnage review](https://www.space.com/lego-marvel-carnage-76199-review/)
-- [MIT researchers uncover ‘unpatchable’ flaw in Apple M1 chips](https://techcrunch.com/2022/06/10/apple-m1-unpatchable-flaw/)
-- [NASA&#39;s Psyche mission delay means change of targets for secondary asteroid probes](https://www.space.com/psyche-launch-delay-secondary-asteroid-probes/)
+- [Boulder Care takes in funding as its opioid telehealth program yields industry-leading retention rates](https://techcrunch.com/2022/06/10/boulder-care-takes-in-funding-as-its-opioid-telehealth-program-yields-industry-leading-retention-rates/)
+- [Hedge funds plan to buy more crypto amid a down market and potential regulatory clarity](https://techcrunch.com/2022/06/10/hedge-funds-plan-to-buy-more-crypto-amid-a-down-market-and-potential-regulatory-clarity/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
