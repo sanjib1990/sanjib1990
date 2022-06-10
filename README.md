@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [IFC set to invest $26M in Partech’s Africa Fund II](https://techcrunch.com/2022/06/10/ifc-set-to-invest-26m-in-partechs-africa-fund-ii/)
+- [Why it’s so hard to market enterprise AI/ML products and what to do about it](https://techcrunch.com/2022/06/10/why-its-so-hard-to-market-enterprise-ai-ml-products-and-what-to-do-about-it/)
+- [A once and future Mars: Finding the space history in &#39;For All Mankind&#39; season 3](https://www.space.com/for-all-mankind-season-3-space-history/)
+- [&#39;For All Mankind&#39; Season 3 premieres on Apple TV Plus with a strange dose of a Mars-crazed 1990s](https://www.space.com/for-all-mankind-season-3-apple-tv-plus/)
 - [Investor demands for profitability catch tech companies flat-footed](https://techcrunch.com/2022/06/10/investor-demands-for-profitability-catch-tech-companies-flat-footed/)
-- [Asteroid Ryugu contains material older than the planets, among the most primitive ever studied on Earth](https://www.space.com/asteroid-ryugu-sample-older-than-planets/)
-- [Disney+ rolls out to 16 more markets across the Middle East and North Africa](https://techcrunch.com/2022/06/10/disney-rolls-out-to-16-more-markets-across-the-middle-east-and-north-africa/)
-- [Peacock confirms a test that rewards paid subscribers with $15 movie tickets or $7 rentals](https://techcrunch.com/2022/06/10/peacock-confirms-a-test-that-rewards-paid-subscribers-with-15-movie-tickets-or-7-rentals/)
-- [Why Porsche is turning to startup builder UpLabs to solve its biggest problems](https://techcrunch.com/2022/06/10/porsche-taps-startup-builder-up-labs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
