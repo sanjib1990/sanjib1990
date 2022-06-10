@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Apple’s M1 chips have an ‘unpatchable’ hardware vulnerability, say MIT researchers](https://techcrunch.com/2022/06/10/daily-crunch-apples-m1-chips-have-an-unpatchable-hardware-vulnerability-say-mit-researchers/)
+- [How to use human-centered AI with Forethought and NEA](https://techcrunch.com/2022/06/10/how-to-use-human-centered-ai-with-forethought-and-nea/)
+- [Space Center Houston celebrates Artemis with new exhibit, Moon2Mars festival](https://www.space.com/artemis-moon2mars-festival-space-center-houston/)
 - [Momentus troubleshooting problems with newly launched space tug](https://www.space.com/momentus-troubleshooting-problems-vigoride-space-tug/)
 - [Stratolaunch ends 6th test flight of Roc, the world&#39;s largest airplane, early after unexpected results](https://www.space.com/stratolaunch-roc-test-flight-ends-early/)
-- [June full moon guide 2022: Feast your eyes on the &#39;Strawberry Supermoon&#39;](https://www.space.com/36992-june-full-moon.html/)
-- [&#39;Where Starships Go To Die&#39; is a terrifying new sci-fi thriller from AfterShock Comics](https://www.space.com/where-starships-go-to-die-aftershock-comics/)
-- [American Express launches its first US crypto rewards credit card with Abra](https://techcrunch.com/2022/06/10/american-express-us-crypto-rewards-credit-card/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
