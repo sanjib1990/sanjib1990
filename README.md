@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why some startups don’t want to be called that](https://techcrunch.com/2022/06/11/why-some-startups-dont-want-to-be-called-that/)
 - [Apple enters the BNPL market as regulation, competition intensify](https://techcrunch.com/2022/06/11/apple-enters-the-bnpl-market-as-regulation-competition-intensify/)
 - [Spot Uranus near Venus in the predawn sky on Sunday](https://www.space.com/uranus-near-venus-june-2022-night-sky/)
 - [Strawberry supermoon: How to watch June&#39;s full moon rise online for free](https://www.space.com/strawberry-supermoon-june-full-moon-2022-webcast/)
 - [Final trailer for Jordan Peele&#39;s new sci-fi horror movie &#39;Nope&#39; reveals a shiny flying saucer](https://www.space.com/nope-jordan-peele-sci-fi-film-trailer/)
-- [On This Day In Space: June 11, 2015: International Space Station crew returns to Earth](https://www.space.com/39251-on-this-day-in-space.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
