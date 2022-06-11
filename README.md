@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [As startup layoffs continue, some perspective](https://techcrunch.com/2022/06/11/startup-layoffs-continue-2022-questions-we-have/)
 - [Andreessen Horowitz’s Sriram Krishnan on crypto social networking](https://techcrunch.com/2022/06/11/andreessen-horowitzs-sriram-krishnan-on-crypto-social-networking/)
 - [Why some startups don’t want to be called that](https://techcrunch.com/2022/06/11/why-some-startups-dont-want-to-be-called-that/)
 - [Apple enters the BNPL market as regulation, competition intensify](https://techcrunch.com/2022/06/11/apple-enters-the-bnpl-market-as-regulation-competition-intensify/)
 - [Spot Uranus near Venus in the predawn sky on Sunday](https://www.space.com/uranus-near-venus-june-2022-night-sky/)
-- [Strawberry supermoon: How to watch June&#39;s full moon rise online for free](https://www.space.com/strawberry-supermoon-june-full-moon-2022-webcast/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
