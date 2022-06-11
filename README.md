@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Final trailer for Jordan Peele&#39;s new sci-fi horror movie &#39;Nope&#39; reveals a shiny flying saucer](https://www.space.com/nope-jordan-peele-sci-fi-film-trailer/)
+- [On This Day In Space: June 11, 2015: International Space Station crew returns to Earth](https://www.space.com/39251-on-this-day-in-space.html/)
+- [NASA&#39;s Europa Clipper spacecraft takes big step toward 2024 launch](https://www.space.com/europa-clipper-spacecraft-body-arrives/)
+- [&#39;Time crystals&#39; work around laws of physics to offer new era of quantum computing](https://www.space.com/time-crystals-quantum-computing/)
 - [The Winklevoss twins rock on](https://techcrunch.com/2022/06/11/the-winklevoss-twins-rock-on/)
-- [QuantumScape loses manufacturing chief over management style mismatch](https://techcrunch.com/2022/06/10/quantumscape-manufacturing-chief-leaves/)
-- [Wow, Facebook really knows how to give someone a send-off!](https://techcrunch.com/2022/06/10/wow-facebook-really-knows-how-to-give-someone-a-send-off/)
-- [A 7-step method for running effective pitch meetings](https://techcrunch.com/2022/06/10/a-7-step-method-for-running-effective-pitch-meetings/)
-- [Daily Crunch: Apple’s M1 chips have an ‘unpatchable’ hardware vulnerability, say MIT researchers](https://techcrunch.com/2022/06/10/daily-crunch-apples-m1-chips-have-an-unpatchable-hardware-vulnerability-say-mit-researchers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
