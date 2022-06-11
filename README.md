@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Winklevoss twins rock on](https://techcrunch.com/2022/06/11/the-winklevoss-twins-rock-on/)
 - [QuantumScape loses manufacturing chief over management style mismatch](https://techcrunch.com/2022/06/10/quantumscape-manufacturing-chief-leaves/)
 - [Wow, Facebook really knows how to give someone a send-off!](https://techcrunch.com/2022/06/10/wow-facebook-really-knows-how-to-give-someone-a-send-off/)
 - [A 7-step method for running effective pitch meetings](https://techcrunch.com/2022/06/10/a-7-step-method-for-running-effective-pitch-meetings/)
 - [Daily Crunch: Apple’s M1 chips have an ‘unpatchable’ hardware vulnerability, say MIT researchers](https://techcrunch.com/2022/06/10/daily-crunch-apples-m1-chips-have-an-unpatchable-hardware-vulnerability-say-mit-researchers/)
-- [How to use human-centered AI with Forethought and NEA](https://techcrunch.com/2022/06/10/how-to-use-human-centered-ai-with-forethought-and-nea/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
