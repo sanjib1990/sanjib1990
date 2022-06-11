@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Week in Apps, Apple WWDC review: Blurred lines, new APIs and a brand-new Lock Screen](https://techcrunch.com/2022/06/11/this-week-in-apps-apple-wwdc-review-blurred-lines-new-apis-and-a-brand-new-lock-screen/)
 - [As startup layoffs continue, some perspective](https://techcrunch.com/2022/06/11/startup-layoffs-continue-2022-questions-we-have/)
 - [Andreessen Horowitz’s Sriram Krishnan on crypto social networking](https://techcrunch.com/2022/06/11/andreessen-horowitzs-sriram-krishnan-on-crypto-social-networking/)
 - [Why some startups don’t want to be called that](https://techcrunch.com/2022/06/11/why-some-startups-dont-want-to-be-called-that/)
 - [Apple enters the BNPL market as regulation, competition intensify](https://techcrunch.com/2022/06/11/apple-enters-the-bnpl-market-as-regulation-competition-intensify/)
-- [Spot Uranus near Venus in the predawn sky on Sunday](https://www.space.com/uranus-near-venus-june-2022-night-sky/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
