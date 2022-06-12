@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [WWDC stands for ‘wow what dank continuity’ and other TC news](https://techcrunch.com/2022/06/12/wwdc-stands-for-wow-what-dank-continuity-and-other-tc-news/)
 - [Astra rocket suffers major failure during launch, 2 NASA satellites lost](https://www.space.com/astra-rocket-launch-failure-nasa-hurricane-satellites-lost/)
 - [Watch Astra launch 2 tiny hurricane-studying NASA satellites today](https://www.space.com/astra-nasa-tropics-hurricane-mission-launch-sunday/)
 - [Investors show Latin American fintech startups the money](https://techcrunch.com/2022/06/12/investors-continue-to-show-latam-fintechs-the-money/)
 - [Zendesk punished by investors after vowing to remain independent](https://techcrunch.com/2022/06/12/zendesk-punished-by-investors-after-vowing-to-remain-independent/)
-- [Here’s why climate tech may avoid repeating clean tech’s failures](https://techcrunch.com/2022/06/12/heres-why-climate-tech-may-avoid-repeating-clean-techs-failures/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
