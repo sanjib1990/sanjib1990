@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch Astra launch 2 tiny hurricane-studying NASA satellites today](https://www.space.com/astra-nasa-tropics-hurricane-mission-launch-sunday/)
 - [Investors show LatAm fintechs the money](https://techcrunch.com/2022/06/12/investors-continue-to-show-latam-fintechs-the-money/)
 - [Zendesk punished by investors after vowing to remain independent](https://techcrunch.com/2022/06/12/zendesk-punished-by-investors-after-vowing-to-remain-independent/)
 - [Here’s why climate tech may avoid repeating clean tech’s failures](https://techcrunch.com/2022/06/12/heres-why-climate-tech-may-avoid-repeating-clean-techs-failures/)
 - [On This Day In Space: June 12, 1967: Venera 4 launches on mission to Venus](https://www.space.com/39251-on-this-day-in-space.html/)
-- [Marvel Comics reveals new &#39;Star Wars: Yoda&#39; series](https://www.space.com/star-wars-yoda-marvel-comics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
