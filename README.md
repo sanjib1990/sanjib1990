@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Curious Kids: Why does it matter if Pluto is a planet or a dwarf planet?](https://www.space.com/pluto-dwarf-planet-or-no-why-matters/)
+- [Behold the coiled beauty of this snake-like galaxy 80 million light-years from Earth](https://www.space.com/spiral-galaxy-photo-alma-phangs/)
+- [Milky Way mapper Gaia to release new data on Monday. Here&#39;s how to watch it live.](https://www.space.com/milky-way-gaia-mission-data-release-watch-live/)
+- [You can watch Astra launch 2 tiny hurricane-studying NASA satellites today](https://www.space.com/astra-nasa-tropics-hurricane-mission-launch-sunday/)
 - [Apple’s big week was not without its flaws](https://techcrunch.com/2022/06/11/apples-big-week-was-not-without-its-flaws/)
-- [This Week in Apps, Apple WWDC review: Blurred lines, new APIs and a brand-new Lock Screen](https://techcrunch.com/2022/06/11/this-week-in-apps-apple-wwdc-review-blurred-lines-new-apis-and-a-brand-new-lock-screen/)
-- [As startup layoffs continue, some perspective](https://techcrunch.com/2022/06/11/startup-layoffs-continue-2022-questions-we-have/)
-- [Andreessen Horowitz’s Sriram Krishnan on crypto social networking](https://techcrunch.com/2022/06/11/andreessen-horowitzs-sriram-krishnan-on-crypto-social-networking/)
-- [Why some startups don’t want to be called that](https://techcrunch.com/2022/06/11/why-some-startups-dont-want-to-be-called-that/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
