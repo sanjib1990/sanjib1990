@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to watch NASA&#39;s Artemis 1 moon rocket on the launch pad live online](https://www.space.com/nasa-artemis-1-moon-rocket-sls-test-june-2022-webcast/)
+- [This Week In Space podcast: Episode 15 — The God of &lpar;Space&rpar; Rock! Geoffrey Notkin, Meteorite Man](https://www.space.com/this-week-in-space-podcast-twit/)
 - [Curious Kids: Why does it matter if Pluto is a planet or a dwarf planet?](https://www.space.com/pluto-dwarf-planet-or-no-why-matters/)
 - [Behold the coiled beauty of this snake-like galaxy 80 million light-years from Earth](https://www.space.com/spiral-galaxy-photo-alma-phangs/)
 - [Milky Way mapper Gaia to release new data on Monday. Here&#39;s how to watch it live.](https://www.space.com/milky-way-gaia-mission-data-release-watch-live/)
-- [You can watch Astra launch 2 tiny hurricane-studying NASA satellites today](https://www.space.com/astra-nasa-tropics-hurricane-mission-launch-sunday/)
-- [Apple’s big week was not without its flaws](https://techcrunch.com/2022/06/11/apples-big-week-was-not-without-its-flaws/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
