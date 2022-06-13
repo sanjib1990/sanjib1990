@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Lego space deals: discounts on spaceships, space stations and NASA kits](https://www.space.com/lego-space-deals/)
-- [Best cameras for astrophotography {year}](https://www.space.com/best-cameras-for-astrophotography/)
-- [Cereal maker Magic Spoon scoops up $85M as it lands spot on Target shelves](https://techcrunch.com/2022/06/13/cereal-magic-spoon-series-b-target/)
-- [&#39;Obi-Wan Kenobi&#39; episode three Easter eggs: Darth Vader, Quinlan Vos and Zach Braff?](https://www.space.com/obi-wan-kenobi-episode-3-easter-eggs/)
-- [On This Day In Space: June 13, 2013: China&#39;s spacecraft docks with space lab](https://www.space.com/39251-on-this-day-in-space.html/)
+- [Construction design platform Alice Technologies bags fresh capital to expand](https://techcrunch.com/2022/06/13/construction-design-platform-alice-technologies-bags-fresh-capital-to-expand/)
+- [Look what’s happening tomorrow at TC Sessions: Climate](https://techcrunch.com/2022/06/13/look-whats-happening-tomorrow-at-tc-sessions-climate/)
+- [Yahoo appoints six new board members, including Jessica Alba](https://techcrunch.com/2022/06/13/yahoo-appoints-six-new-board-members-including-jessica-alba/)
+- [What’s the catalyst behind the crypto crash?](https://techcrunch.com/2022/06/13/whats-the-catalyst-behind-the-crypto-crash/)
+- [Glint Solar’s SaaS is helping developers spin up a pipeline of renewable energy projects](https://techcrunch.com/2022/06/13/glint-solar-seed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
