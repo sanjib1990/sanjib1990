@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How startups should handle the downturn](https://techcrunch.com/2022/06/13/how-startups-should-handle-the-downturn/)
+- [Best monocular 2022: Quality kit you can use for stargazing](https://www.space.com/best-monocular/)
+- [Prenda raises $20M led by 776 to build tech to run K-8 microschools](https://techcrunch.com/2022/06/13/prenda-raises-20m-led-by-776-to-build-tech-to-run-k-8-microschools/)
+- [Amazon starting drone deliveries in California town later this year](https://techcrunch.com/2022/06/13/amazon-starting-drone-deliveries-in-california-town-later-this-year/)
 - [Construction design platform Alice Technologies bags fresh capital to expand](https://techcrunch.com/2022/06/13/construction-design-platform-alice-technologies-bags-fresh-capital-to-expand/)
-- [Look what’s happening tomorrow at TC Sessions: Climate](https://techcrunch.com/2022/06/13/look-whats-happening-tomorrow-at-tc-sessions-climate/)
-- [Yahoo appoints six new board members, including Jessica Alba](https://techcrunch.com/2022/06/13/yahoo-appoints-six-new-board-members-including-jessica-alba/)
-- [What’s the catalyst behind the crypto crash?](https://techcrunch.com/2022/06/13/whats-the-catalyst-behind-the-crypto-crash/)
-- [Glint Solar’s SaaS is helping developers spin up a pipeline of renewable energy projects](https://techcrunch.com/2022/06/13/glint-solar-seed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
