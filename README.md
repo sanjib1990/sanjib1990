@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Astra’s latest launch for NASA also ends in failure](https://techcrunch.com/2022/06/13/astras-latest-launch-for-nasa-also-ends-in-failure/)
-- [Apple’s payment options offer for Dutch dating apps is compliant, says ACM](https://techcrunch.com/2022/06/13/apple-dutch-dating-apps-payment-order-compliance/)
-- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html/)
-- [Gaia spacecraft: Mapping the Milky Way like never before](https://www.space.com/41312-gaia-mission.html/)
-- [Crypto lender Celsius pauses withdrawals, transfers citing ‘extreme market conditions’](https://techcrunch.com/2022/06/12/crypto-lender-celsius-pauses-withdrawals-transfers-citing-extreme-market-conditions/)
+- [&#39;Obi-Wan Kenobi&#39; episode three boasts plenty of action, but old Ben isn&#39;t the Jedi he once was](https://www.space.com/obi-wan-kenobi-episode-3-review/)
+- [With Voyager 1 data mystery, NASA relies on slow, long-distance conversation](https://www.space.com/voyager-1-telemetry-mystery-troubleshooting/)
+- [All the things Apple Sherlocked at WWDC 2022](https://techcrunch.com/2022/06/13/all-the-things-apple-sherlocked-at-wwdc-2022/)
+- [Giant galaxy cluster collision triggers vast shock wave stretching over a million light-years long](https://www.space.com/galaxy-collision-shock-waves-solar-system/)
+- [Jupiter&#39;s icy moon Europa will block out a star for lucky skywatchers](https://www.space.com/europa-moon-occultation-skywatching-juice-mission/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
