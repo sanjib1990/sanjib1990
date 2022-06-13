@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Nigeria’s internet regulator releases draft to regulate Twitter, Facebook, TikTok and others](https://techcrunch.com/2022/06/13/nigerias-internet-regulator-releases-draft-to-regulate-twitter-facebook-tiktok-and-others/)
-- [SpaceX&#39;s Starship rocket project can continue in South Texas, FAA review finds](https://www.space.com/spacex-starship-faa-environmental-review-approval/)
-- [Apple resizes the iPad’s workflow with Stage Manager](https://techcrunch.com/2022/06/13/apple-resizes-the-ipads-workflow-with-stage-manager/)
-- [Strawberry supermoon of June rises on Tuesday. Here&#39;s what to expect.](https://www.space.com/strawberry-supermoon-full-moon-2022-what-to-expect/)
-- [A long solar flare just erupted from the sun and the video is stunning](https://www.space.com/long-solar-flare-cme-spacecraft-video-june-2022/)
+- [Daily Crunch: AI voice platform used in ‘Top Gun: Maverick’ sells to Spotify for undisclosed sum](https://techcrunch.com/2022/06/13/daily-crunch-ai-voice-platform-used-in-top-gun-maverick-sells-to-spotify-for-undisclosed-sum/)
+- [Max Q: Alien encounters](https://techcrunch.com/2022/06/13/max-q-alien-encounters/)
+- [Meta adds voice controls for Horizon Worlds, which defaults to live chat with strangers](https://techcrunch.com/2022/06/13/meta-horizon-worlds-voice-mode-voice-chat/)
+- [Influencer shopping app LTK adds creator product reviews in its latest update](https://techcrunch.com/2022/06/13/influencer-shopping-app-ltk-adds-creator-product-reviews-in-its-latest-update/)
+- [Sony launches its new game subscription service PlayStation Plus in North and South America](https://techcrunch.com/2022/06/13/sony-launches-its-new-game-subscription-service-playstation-plus-in-north-and-south-america/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
