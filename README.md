@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [8 steps for building a financial model to calculate your fundraising needs](https://techcrunch.com/2022/06/13/8-steps-for-building-a-financial-model-to-calculate-your-fundraising-needs/)
+- [&#39;Dark&#39; black hole wandering the Milky Way may be the smallest yet detected](https://www.space.com/dark-black-hole-wandering-milky-way-smallest-yet/)
+- [This is the first look at the Chevrolet Blazer EV](https://techcrunch.com/2022/06/13/this-is-the-first-look-at-the-chevrolet-blazer-ev/)
 - [A bunch of startups might be in better shape than you think](https://techcrunch.com/2022/06/13/a-bunch-of-startups-might-be-in-better-shape-than-you-think/)
 - [Mobility marketplaces and auto repair on TechCrunch Live](https://techcrunch.com/2022/06/13/mobility-marketplaces-and-brake-repair-on-techcrunch-live/)
-- [How startups should handle the downturn](https://techcrunch.com/2022/06/13/how-startups-should-handle-the-downturn/)
-- [Best monocular 2022: Quality kit you can use for stargazing](https://www.space.com/best-monocular/)
-- [Prenda raises $20M led by 776 to build tech to run K-8 microschools](https://techcrunch.com/2022/06/13/prenda-raises-20m-led-by-776-to-build-tech-to-run-k-8-microschools/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
