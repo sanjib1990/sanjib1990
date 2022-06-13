@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astra’s latest launch for NASA also ends in failure](https://techcrunch.com/2022/06/13/astras-latest-launch-for-nasa-also-ends-in-failure/)
 - [Apple’s payment options offer for Dutch dating apps is compliant, says ACM](https://techcrunch.com/2022/06/13/apple-dutch-dating-apps-payment-order-compliance/)
 - [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html/)
 - [Gaia spacecraft: Mapping the Milky Way like never before](https://www.space.com/41312-gaia-mission.html/)
 - [Crypto lender Celsius pauses withdrawals, transfers citing ‘extreme market conditions’](https://techcrunch.com/2022/06/12/crypto-lender-celsius-pauses-withdrawals-transfers-citing-extreme-market-conditions/)
-- [WWDC stands for ‘wow what dank continuity’ and other TC news](https://techcrunch.com/2022/06/12/wwdc-stands-for-wow-what-dank-continuity-and-other-tc-news/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
