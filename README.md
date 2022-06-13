@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A bunch of startups might be in better shape than you think](https://techcrunch.com/2022/06/13/a-bunch-of-startups-might-be-in-better-shape-than-you-think/)
+- [Mobility marketplaces and auto repair on TechCrunch Live](https://techcrunch.com/2022/06/13/mobility-marketplaces-and-brake-repair-on-techcrunch-live/)
 - [How startups should handle the downturn](https://techcrunch.com/2022/06/13/how-startups-should-handle-the-downturn/)
 - [Best monocular 2022: Quality kit you can use for stargazing](https://www.space.com/best-monocular/)
 - [Prenda raises $20M led by 776 to build tech to run K-8 microschools](https://techcrunch.com/2022/06/13/prenda-raises-20m-led-by-776-to-build-tech-to-run-k-8-microschools/)
-- [Amazon starting drone deliveries in California town later this year](https://techcrunch.com/2022/06/13/amazon-starting-drone-deliveries-in-california-town-later-this-year/)
-- [Construction design platform Alice Technologies bags fresh capital to expand](https://techcrunch.com/2022/06/13/construction-design-platform-alice-technologies-bags-fresh-capital-to-expand/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
