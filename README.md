@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Cereal maker Magic Spoon scoops up $85M as it lands spot on Target shelves](https://techcrunch.com/2022/06/13/cereal-magic-spoon-series-b-target/)
-- [&#39;Obi-Wan Kenobi&#39; episode three Easter eggs: Darth Vader, Quinlan Vos and Zach Braff?](https://www.space.com/obi-wan-kenobi-episode-3-easter-eggs/)
-- [On This Day In Space: June 13, 2013: China&#39;s spacecraft docks with space lab](https://www.space.com/39251-on-this-day-in-space.html/)
-- [&#39;Obi-Wan Kenobi&#39; episode three boasts plenty of action, but old Ben isn&#39;t the Jedi he once was](https://www.space.com/obi-wan-kenobi-episode-3-review/)
-- [With Voyager 1 data mystery, NASA relies on slow, long-distance conversation](https://www.space.com/voyager-1-telemetry-mystery-troubleshooting/)
+- [How Apple’s thoughtful, measured approach is building a revolution in health](https://techcrunch.com/2022/06/13/apple-health-executive-interviews/)
+- [Tiger Global backs bttn, leading e-commerce infiltration of medical supplies](https://techcrunch.com/2022/06/13/tiger-global-bttn-series-a-e-commerce-medical-supplies/)
+- [Echodyne’s compact, steerable radar spots $135M investment and prepares to diversify](https://techcrunch.com/2022/06/13/echodynes-compact-steerable-radar-spots-135m-investment-and-prepares-to-diversify/)
+- [DoorDash rolls out new in-app features, including written reviews, item ratings and more](https://techcrunch.com/2022/06/13/doordash-app-features-including-written-reviews-item-ratings/)
+- [Spotify is acquiring Sonantic, the AI voice platform used to simulate Val Kilmer’s voice in Top Gun Maverick](https://techcrunch.com/2022/06/13/spotify-is-acquiring-sonantic-the-ai-voice-platform-used-to-simulate-val-kilmers-voice-in-top-gun-maverick/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
