@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [8 steps for building a financial model to calculate your fundraising needs](https://techcrunch.com/2022/06/13/8-steps-for-building-a-financial-model-to-calculate-your-fundraising-needs/)
-- [&#39;Dark&#39; black hole wandering the Milky Way may be the smallest yet detected](https://www.space.com/dark-black-hole-wandering-milky-way-smallest-yet/)
-- [This is the first look at the Chevrolet Blazer EV](https://techcrunch.com/2022/06/13/this-is-the-first-look-at-the-chevrolet-blazer-ev/)
-- [A bunch of startups might be in better shape than you think](https://techcrunch.com/2022/06/13/a-bunch-of-startups-might-be-in-better-shape-than-you-think/)
-- [Mobility marketplaces and auto repair on TechCrunch Live](https://techcrunch.com/2022/06/13/mobility-marketplaces-and-brake-repair-on-techcrunch-live/)
+- [Apple resizes the iPad’s workflow with Stage Manager](https://techcrunch.com/2022/06/13/apple-resizes-the-ipads-workflow-with-stage-manager/)
+- [Strawberry supermoon of June rises on Tuesday. Here&#39;s what to expect.](https://www.space.com/strawberry-supermoon-full-moon-2022-what-to-expect/)
+- [A long solar flare just erupted from the sun and the video is stunning](https://www.space.com/long-solar-flare-cme-spacecraft-video-june-2022/)
+- [As Celsius accelerates the crypto sell-off, who pays the price?](https://techcrunch.com/2022/06/13/as-celsius-accelerates-the-crypto-sell-off-who-pays-the-price/)
+- [Adobe releases open source toolkit to counter visual misinformation](https://techcrunch.com/2022/06/13/adobe-misinformation-cai-c2pa-open-source/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
