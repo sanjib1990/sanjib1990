@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [100+ Web Development Things you Should Know](https://www.youtube.com/watch?v=erEgovG9WBs)
 - [Web5... The Web3 Killer?](https://www.youtube.com/watch?v=HDZWWFSZUF0)
 - [What&#39;s Virtual Memory? - Computerphile](https://www.youtube.com/watch?v=5lFnKYCZT5o)
 - [FORTRAN in 100 Seconds](https://www.youtube.com/watch?v=NMWzgy8FsKs)
 - [GitLab CI CD Tutorial for Beginners [Crash Course]](https://www.youtube.com/watch?v=qP8kir2GUgo)
-- [Redwood in 100 Seconds](https://www.youtube.com/watch?v=o5Mwa_TJ3HM)
 <!-- YOUTUBE:END -->
 
 ---
