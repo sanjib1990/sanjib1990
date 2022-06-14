@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [After Rogan Covid-19 controversy, Spotify forms a safety council to rethink its content moderation policies](https://techcrunch.com/2022/06/14/after-rogan-covid-19-controversy-spotify-forms-a-safety-council-to-rethink-its-content-moderation-policies/)
+- [Launch Africa, the VC firm that has backed over 100 startups, closes first fund at $36.3M](https://techcrunch.com/2022/06/14/launch-africa-the-vc-firm-that-has-backed-over-100-startups-closes-36-3m-fund/)
 - [Former Amazon Robotics VP Brad Porter goes Collaborative](https://techcrunch.com/2022/06/14/former-amazon-robotics-vp-brad-porter-goes-collaborative/)
 - [CoachHub raises $200M led by Sofina and SoftBank Vision Fund 2](https://techcrunch.com/2022/06/14/coachhubraises-200m-led-by-sofina-and-softbank-vision-fund-2/)
 - [Spendflo helps companies track their SaaS expenses](https://techcrunch.com/2022/06/13/spendflo-helps-companies-track-their-saas-expenses/)
-- [Meta Pharmaceuticals lands $15M to make autoimmune drugs with AI, new immuno-metabolism tech](https://techcrunch.com/2022/06/13/meta-pharmaceuticals-funding-china-series-a/)
-- [Dual-chemistry battery tech could push BMW’s iX EV to 600-mile range](https://techcrunch.com/2022/06/13/dual-chemistry-battery-tech-could-push-bmws-ix-ev-to-600-mile-range/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
