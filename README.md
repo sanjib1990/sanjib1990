@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Tencent, Block back Indonesian fintech platform Flip with $55M Series B extension](https://techcrunch.com/2022/06/14/tencent-block-back-indonesian-fintech-platform-flip-with-55m-series-b-extension/)
-- [MFS Africa raises additional equity and debt capital to take its Series C to $200M](https://techcrunch.com/2022/06/14/mfs-africa-raises-an-additional-equity-and-debt-capital-to-take-its-series-c-to-200m/)
-- [Germany’s antitrust watchdog latest to probe Apple’s app privacy framework](https://techcrunch.com/2022/06/14/apple-att-germany-fco-antitrust/)
-- [Full moon calendar {year}: When to see the next full moon](https://www.space.com/16830-full-moon-calendar.html/)
-- [Polaris Dawn crew training for epic private SpaceX mission this fall](https://www.space.com/polaris-dawn-crew-training-spacex-mission/)
+- [VPN firms are removing servers in India ahead of new rules](https://techcrunch.com/2022/06/14/vpn-firms-are-removing-servers-in-india-ahead-of-new-rules/)
+- [Lime is trailing shared electric motorbikes](https://techcrunch.com/2022/06/14/lime-is-trailing-shared-electric-motorbikes/)
+- [Overair nabs $145M to produce eVTOL prototype by 2023](https://techcrunch.com/2022/06/14/overair-nabs-145m-to-produce-evtol-prototype-by-2023/)
+- [Onymos raises $12M to provide plug-in features for apps](https://techcrunch.com/2022/06/14/onymos-raises-12m-to-provide-plug-in-features-for-apps/)
+- [&#39;Obi-Wan Kenobi&#39; episode 4: A daring rescue that doesn’t quite hit the mark](https://www.space.com/obi-wan-kenobi-episode-4-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
