@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sequoia India and Southeast Asia raises $2.8 billion funds](https://techcrunch.com/2022/06/13/sequoia-india-and-southeast-asia-raises-2-8-billion-funds/)
+- [Bluesheets wants to better manage financial data and workflows via its business automation platform](https://techcrunch.com/2022/06/13/bluesheets-wants-to-better-manage-financial-data-and-workflows-via-its-business-automation-platform/)
+- [SpaceX cargo launch to space station delayed 2 more weeks, to July 11](https://www.space.com/spacex-dragon-cargo-mission-crs-25-delay-july-11/)
+- [Electric Last Mile Solutions to file for bankruptcy](https://techcrunch.com/2022/06/13/electric-last-mile-solutions-to-file-for-bankruptcy/)
 - [Daily Crunch: AI voice platform used in ‘Top Gun: Maverick’ sells to Spotify for undisclosed sum](https://techcrunch.com/2022/06/13/daily-crunch-ai-voice-platform-used-in-top-gun-maverick-sells-to-spotify-for-undisclosed-sum/)
-- [Max Q: Alien encounters](https://techcrunch.com/2022/06/13/max-q-alien-encounters/)
-- [Meta adds voice controls for Horizon Worlds, which defaults to live chat with strangers](https://techcrunch.com/2022/06/13/meta-horizon-worlds-voice-mode-voice-chat/)
-- [Influencer shopping app LTK adds creator product reviews in its latest update](https://techcrunch.com/2022/06/13/influencer-shopping-app-ltk-adds-creator-product-reviews-in-its-latest-update/)
-- [Sony launches its new game subscription service PlayStation Plus in North and South America](https://techcrunch.com/2022/06/13/sony-launches-its-new-game-subscription-service-playstation-plus-in-north-and-south-america/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
