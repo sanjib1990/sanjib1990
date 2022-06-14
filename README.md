@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [China&#39;s new map of the moon captures lunar geologic features in incredible detail](https://www.space.com/china-moon-map-most-detailed-yet/)
+- [Redfin and Compass lay off a combined 900+ employees as mortgage interest rates continue to climb](https://techcrunch.com/2022/06/14/redfin-and-compass-lay-off-a-combined-900-employees-as-mortgage-interest-rates-continue-to-climb/)
+- [Hot off the press: New tickets released for TechCrunch’s Annual Summer Party](https://techcrunch.com/2022/06/14/hot-off-the-press-new-tickets-to-tcs-annual-summer-party/)
+- [Keychron’s Q3 gives mechanical keyboard fans everything but the numpad](https://techcrunch.com/2022/06/14/keychrons-q3-gives-mechanical-keyboard-fans-everything-but-the-numpad/)
 - [A decade after the bubble burst, 5 climate tech investors explain why they’re all in](https://techcrunch.com/2022/06/14/a-decade-after-the-bubble-burst-5-climate-tech-investors-explain-why-theyre-all-in/)
-- [Perseverance Mars rover eyes balancing boulder and weird snakehead rock &lpar;photo&rpar;](https://www.space.com/mars-rover-perseverance-balancing-boulder-photo/)
-- [DCVC, Playground Global and FoundersX Ventures will discuss automation investments at TC Sessions: Robotics](https://techcrunch.com/2022/06/14/dcvc-playground-global-and-foundersx-ventures-will-discuss-automation-investments-at-tc-sessions-robotics/)
-- [WhatsApp now lets you export your chat history, photos, videos and more from Android to iPhone](https://techcrunch.com/2022/06/14/whatsapp-export-chat-history-photos-videos-android-iphone/)
-- [Learn how to negotiate your first term sheet at TechCrunch Disrupt](https://techcrunch.com/2022/06/14/learn-how-to-negotiate-your-first-term-sheet-at-techcrunch-disrupt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
