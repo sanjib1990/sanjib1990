@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [VPN firms are removing servers in India ahead of new rules](https://techcrunch.com/2022/06/14/vpn-firms-are-removing-servers-in-india-ahead-of-new-rules/)
-- [Lime is trailing shared electric motorbikes](https://techcrunch.com/2022/06/14/lime-is-trailing-shared-electric-motorbikes/)
-- [Overair nabs $145M to produce eVTOL prototype by 2023](https://techcrunch.com/2022/06/14/overair-nabs-145m-to-produce-evtol-prototype-by-2023/)
-- [Onymos raises $12M to provide plug-in features for apps](https://techcrunch.com/2022/06/14/onymos-raises-12m-to-provide-plug-in-features-for-apps/)
-- [&#39;Obi-Wan Kenobi&#39; episode 4: A daring rescue that doesn’t quite hit the mark](https://www.space.com/obi-wan-kenobi-episode-4-review/)
+- [AI startup Cohere launches a nonprofit research lab](https://techcrunch.com/2022/06/14/ai-startup-cohere-launches-a-nonprofit-research-lab/)
+- [Coinbase CEO says it is laying off 18% of its workers](https://techcrunch.com/2022/06/14/coinbase-ceo-says-it-is-laying-off-18-of-its-workers/)
+- [Proving that contact center tech remains desirable, Invoca raises $83M](https://techcrunch.com/2022/06/14/proving-that-contact-center-tech-remains-desirable-invoca-raises-83m/)
+- [DealHub secures $60M for sales tools to configure, price, and quote](https://techcrunch.com/2022/06/14/dealhub-secures-60m-for-sales-tools-to-configure-price-and-quote/)
+- [Adobe Lightroom adds video support](https://techcrunch.com/2022/06/14/adobe-lightroom-adds-video-support/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
