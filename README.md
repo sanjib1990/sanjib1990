@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch+ roundup: Climate tech survey, AI/ML marketing strategy, immigration law Twitter Space](https://techcrunch.com/2022/06/14/techcrunch-roundup-climate-tech-survey-ai-ml-marketing-strategy-immigration-law-twitter-space/)
+- [&#39;Beavis And Butt-head Do The Universe&#39; trailer launches cartoon &#39;icons&#39; across space &lpar;and time&rpar;](https://www.space.com/beavis-and-butt-head-do-the-universe-trailer-paramount-plus/)
 - [What the wave of layoffs says about the value of crypto exchanges](https://techcrunch.com/2022/06/14/what-the-wave-of-layoffs-says-about-the-value-of-crypto-exchanges/)
 - [SpaceX&#39;s Starship will be ready for 1st orbital flight in July, Elon Musk says](https://www.space.com/spacex-starship-ready-orbital-flight-july-elon-musk/)
 - [China&#39;s new map of the moon captures lunar geologic features in incredible detail](https://www.space.com/china-moon-map-most-detailed-yet/)
-- [Redfin and Compass lay off a combined 900+ employees as mortgage interest rates continue to climb](https://techcrunch.com/2022/06/14/redfin-and-compass-lay-off-a-combined-900-employees-as-mortgage-interest-rates-continue-to-climb/)
-- [Hot off the press: New tickets released for TechCrunch’s Annual Summer Party](https://techcrunch.com/2022/06/14/hot-off-the-press-new-tickets-to-tcs-annual-summer-party/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
