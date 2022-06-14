@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Former Amazon Robotics VP Brad Porter goes Collaborative](https://techcrunch.com/2022/06/14/former-amazon-robotics-vp-brad-porter-goes-collaborative/)
+- [CoachHub raises $200M led by Sofina and SoftBank Vision Fund 2](https://techcrunch.com/2022/06/14/coachhubraises-200m-led-by-sofina-and-softbank-vision-fund-2/)
 - [Spendflo helps companies track their SaaS expenses](https://techcrunch.com/2022/06/13/spendflo-helps-companies-track-their-saas-expenses/)
 - [Meta Pharmaceuticals lands $15M to make autoimmune drugs with AI, new immuno-metabolism tech](https://techcrunch.com/2022/06/13/meta-pharmaceuticals-funding-china-series-a/)
 - [Dual-chemistry battery tech could push BMW’s iX EV to 600-mile range](https://techcrunch.com/2022/06/13/dual-chemistry-battery-tech-could-push-bmws-ix-ev-to-600-mile-range/)
-- [TestGorilla scores $70M for skills tests aiming to replace the recruitment resume dump](https://techcrunch.com/2022/06/13/testgorilla-scores-70m-for-skills-tests-aiming-to-replace-the-recruitment-resume-dump/)
-- [India’s farmers exposed by new Aadhaar data leak](https://techcrunch.com/2022/06/13/aadhaar-leak-pm-kisan/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
