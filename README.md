@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [In Southeast Asia, a booming crypto scene](https://techcrunch.com/2022/06/14/crypto-southast-asia-2022/)
+- [Best DSLR cameras](https://www.space.com/best-dslr-cameras/)
 - [Google Maps will now show you info about toll pricing on your route](https://techcrunch.com/2022/06/14/google-maps-will-now-show-you-info-about-toll-pricing-on-your-route/)
 - [World Innovation Lab wants to connect the innovation gap between startups and corporates in the US and Asia with $1B](https://techcrunch.com/2022/06/14/world-innovation-lab-wants-to-connect-the-innovation-gap-between-startups-and-corporates-in-the-us-and-asia-with-1b/)
 - [After Rogan Covid-19 controversy, Spotify forms a safety council to rethink its content moderation policies](https://techcrunch.com/2022/06/14/after-rogan-covid-19-controversy-spotify-forms-a-safety-council-to-rethink-its-content-moderation-policies/)
-- [Launch Africa, the VC firm that has backed over 100 startups, closes first fund at $36.3M](https://techcrunch.com/2022/06/14/launch-africa-the-vc-firm-that-has-backed-over-100-startups-closes-36-3m-fund/)
-- [Former Amazon Robotics VP Brad Porter goes Collaborative](https://techcrunch.com/2022/06/14/former-amazon-robotics-vp-brad-porter-goes-collaborative/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
