@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Grafana open sources its on-call management tool](https://techcrunch.com/2022/06/14/grafana-open-sources-its-on-call-management-tool/)
+- [During a downturn, sales teams should think like product managers](https://techcrunch.com/2022/06/14/during-a-downturn-sales-teams-should-think-like-product-managers/)
+- [Meta rolls out new parental controls for Instagram and Quest VR headsets](https://techcrunch.com/2022/06/14/meta-parental-controls-instagram-quest-vr-headsets/)
+- [Best monocular 2022: Quality kit you can use for stargazing](https://www.space.com/best-monocular/)
 - [Sesame closes on $27M in funding to grow its pay-per-visit medical care marketplace](https://techcrunch.com/2022/06/14/sesame-closes-on-27m-in-funding-to-grow-its-pay-per-visit-medical-care-marketplace/)
-- [Milankovitch cycles: What are they and how do they affect Earth?](https://www.space.com/milankovitch-cycles/)
-- [June new moon 2022: Young moon passes Mercury](https://www.space.com/17561-new-moon-explained-lunar-phases.html/)
-- [Arkestro brings game theory and machine learning to procurement with $26M investment](https://techcrunch.com/2022/06/14/arkestro-brings-game-theory-and-machine-learning-to-procurement-with-26m-investment/)
-- [Seeking product-market fit in a down market? Hire freelancers to manage your burn rate](https://techcrunch.com/2022/06/14/seeking-product-market-fit-in-a-down-market-hire-freelancers-to-manage-your-burn-rate/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
