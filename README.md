@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What the wave of layoffs says about the value of crypto exchanges](https://techcrunch.com/2022/06/14/what-the-wave-of-layoffs-says-about-the-value-of-crypto-exchanges/)
+- [SpaceX&#39;s Starship will be ready for 1st orbital flight in July, Elon Musk says](https://www.space.com/spacex-starship-ready-orbital-flight-july-elon-musk/)
 - [China&#39;s new map of the moon captures lunar geologic features in incredible detail](https://www.space.com/china-moon-map-most-detailed-yet/)
 - [Redfin and Compass lay off a combined 900+ employees as mortgage interest rates continue to climb](https://techcrunch.com/2022/06/14/redfin-and-compass-lay-off-a-combined-900-employees-as-mortgage-interest-rates-continue-to-climb/)
 - [Hot off the press: New tickets released for TechCrunch’s Annual Summer Party](https://techcrunch.com/2022/06/14/hot-off-the-press-new-tickets-to-tcs-annual-summer-party/)
-- [Keychron’s Q3 gives mechanical keyboard fans everything but the numpad](https://techcrunch.com/2022/06/14/keychrons-q3-gives-mechanical-keyboard-fans-everything-but-the-numpad/)
-- [A decade after the bubble burst, 5 climate tech investors explain why they’re all in](https://techcrunch.com/2022/06/14/a-decade-after-the-bubble-burst-5-climate-tech-investors-explain-why-theyre-all-in/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
