@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Platform9 raises $26M to help manage distributed cloud clusters](https://techcrunch.com/2022/06/14/platform9-raises-26m-to-help-manage-distributed-cloud-clusters/)
 - [Bill Gates on economic turbulence, crypto and whether we can still avoid climate disaster](https://techcrunch.com/2022/06/14/bill-gates-on-economic-turbulence-crypto-and-whether-we-can-still-avoid-climate-disaster/)
 - [Daily Crunch: Coinbase will reduce its workforce by 18% to ‘stay healthy during this downturn’](https://techcrunch.com/2022/06/14/daily-crunch-coinbase-will-reduce-its-workforce-by-18-to-stay-healthy-during-this-downturn/)
 - [Binance.US CEO tells employees the company is ‘growing faster than ever’](https://techcrunch.com/2022/06/14/binance-crypto-exchange-hiring-plans-fight-crypto-winter/)
 - [Massachusetts court rejects ballot to define gig workers as contractors](https://techcrunch.com/2022/06/14/massachusetts-court-rejects-ballot-to-define-gig-workers-as-contractors/)
-- [Strawberry supermoon:  June full moon free webcast canceled due to clouds](https://www.space.com/strawberry-supermoon-june-full-moon-2022-webcast/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
