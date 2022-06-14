@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Sequoia India and Southeast Asia raises $2.8 billion funds](https://techcrunch.com/2022/06/13/sequoia-india-and-southeast-asia-raises-2-8-billion-funds/)
+- [India’s farmers exposed by new Aadhaar data leak](https://techcrunch.com/2022/06/13/aadhaar-leak-pm-kisan/)
+- [Sequoia India and Southeast Asia raises $2.85 billion funds](https://techcrunch.com/2022/06/13/sequoia-india-and-southeast-asia-raises-2-8-billion-funds/)
 - [Bluesheets wants to better manage financial data and workflows via its business automation platform](https://techcrunch.com/2022/06/13/bluesheets-wants-to-better-manage-financial-data-and-workflows-via-its-business-automation-platform/)
 - [SpaceX cargo launch to space station delayed 2 more weeks, to July 11](https://www.space.com/spacex-dragon-cargo-mission-crs-25-delay-july-11/)
 - [Electric Last Mile Solutions to file for bankruptcy](https://techcrunch.com/2022/06/13/electric-last-mile-solutions-to-file-for-bankruptcy/)
-- [Daily Crunch: AI voice platform used in ‘Top Gun: Maverick’ sells to Spotify for undisclosed sum](https://techcrunch.com/2022/06/13/daily-crunch-ai-voice-platform-used-in-top-gun-maverick-sells-to-spotify-for-undisclosed-sum/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
