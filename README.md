@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Telescopes on Amazon: The best deals and discounts available online](https://www.space.com/telescopes-on-amazon/)
-- [Telescopes at Best Buy: What&#39;s in stock and what&#39;s on sale this season](https://www.space.com/telescopes-at-best-buy/)
-- [Best monocular 2022: Quality kit you can use for stargazing](https://www.space.com/best-monocular/)
-- [Sesame closes on $27M in funding to grow its pay-per-visit medical care marketplace](https://techcrunch.com/2022/06/14/sesame-closes-on-27m-in-funding-to-grow-its-pay-per-visit-medical-care-marketplace/)
-- [Milankovitch cycles: What are they and how do they affect Earth?](https://www.space.com/milankovitch-cycles/)
+- [A decade after the bubble burst, 5 climate tech investors explain why they’re all in](https://techcrunch.com/2022/06/14/a-decade-after-the-bubble-burst-5-climate-tech-investors-explain-why-theyre-all-in/)
+- [Perseverance Mars rover eyes balancing boulder and weird snakehead rock &lpar;photo&rpar;](https://www.space.com/mars-rover-perseverance-balancing-boulder-photo/)
+- [DCVC, Playground Global and FoundersX Ventures will discuss automation investments at TC Sessions: Robotics](https://techcrunch.com/2022/06/14/dcvc-playground-global-and-foundersx-ventures-will-discuss-automation-investments-at-tc-sessions-robotics/)
+- [WhatsApp now lets you export your chat history, photos, videos and more from Android to iPhone](https://techcrunch.com/2022/06/14/whatsapp-export-chat-history-photos-videos-android-iphone/)
+- [Learn how to negotiate your first term sheet at TechCrunch Disrupt](https://techcrunch.com/2022/06/14/learn-how-to-negotiate-your-first-term-sheet-at-techcrunch-disrupt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
