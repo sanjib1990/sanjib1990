@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bill Gates on economic turbulence, crypto and whether we can still avoid climate disaster](https://techcrunch.com/2022/06/14/bill-gates-on-economic-turbulence-crypto-and-whether-we-can-still-avoid-climate-disaster/)
+- [Daily Crunch: Coinbase will reduce its workforce by 18% to ‘stay healthy during this downturn’](https://techcrunch.com/2022/06/14/daily-crunch-coinbase-will-reduce-its-workforce-by-18-to-stay-healthy-during-this-downturn/)
+- [Binance.US CEO tells employees the company is ‘growing faster than ever’](https://techcrunch.com/2022/06/14/binance-crypto-exchange-hiring-plans-fight-crypto-winter/)
 - [Massachusetts court rejects ballot to define gig workers as contractors](https://techcrunch.com/2022/06/14/massachusetts-court-rejects-ballot-to-define-gig-workers-as-contractors/)
 - [Strawberry supermoon:  June full moon free webcast canceled due to clouds](https://www.space.com/strawberry-supermoon-june-full-moon-2022-webcast/)
-- [First stunning &#39;Starfield&#39; gameplay footage reveals an awesome Mars rover easter egg](https://www.space.com/starfield-first-gameplay-mars-rover/)
-- [&#39;Star Trek: Strange New Worlds&#39; episode 6 suffers from a slight dip in story quality](https://www.space.com/star-trek-strange-new-worlds-season-1-episode-6-review/)
-- [&#39;Star Trek: Picard - Stargazer&#39; puts Jean-Luc back in command in new IDW comic series](https://www.space.com/star-trek-picard-stargazer-idw-comics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
