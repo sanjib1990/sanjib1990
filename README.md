@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [In Southeast Asia, a booming crypto scene](https://techcrunch.com/2022/06/14/crypto-southast-asia-2022/)
-- [Best DSLR cameras](https://www.space.com/best-dslr-cameras/)
-- [Google Maps will now show you info about toll pricing on your route](https://techcrunch.com/2022/06/14/google-maps-will-now-show-you-info-about-toll-pricing-on-your-route/)
-- [World Innovation Lab wants to connect the innovation gap between startups and corporates in the US and Asia with $1B](https://techcrunch.com/2022/06/14/world-innovation-lab-wants-to-connect-the-innovation-gap-between-startups-and-corporates-in-the-us-and-asia-with-1b/)
-- [After Rogan Covid-19 controversy, Spotify forms a safety council to rethink its content moderation policies](https://techcrunch.com/2022/06/14/after-rogan-covid-19-controversy-spotify-forms-a-safety-council-to-rethink-its-content-moderation-policies/)
+- [Tencent, Block back Indonesian fintech platform Flip with $55M Series B extension](https://techcrunch.com/2022/06/14/tencent-block-back-indonesian-fintech-platform-flip-with-55m-series-b-extension/)
+- [MFS Africa raises additional equity and debt capital to take its Series C to $200M](https://techcrunch.com/2022/06/14/mfs-africa-raises-an-additional-equity-and-debt-capital-to-take-its-series-c-to-200m/)
+- [Germany’s antitrust watchdog latest to probe Apple’s app privacy framework](https://techcrunch.com/2022/06/14/apple-att-germany-fco-antitrust/)
+- [Full moon calendar {year}: When to see the next full moon](https://www.space.com/16830-full-moon-calendar.html/)
+- [Polaris Dawn crew training for epic private SpaceX mission this fall](https://www.space.com/polaris-dawn-crew-training-spacex-mission/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
