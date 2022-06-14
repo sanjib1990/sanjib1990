@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TechCrunch+ roundup: Climate tech survey, AI/ML marketing strategy, immigration law Twitter Space](https://techcrunch.com/2022/06/14/techcrunch-roundup-climate-tech-survey-ai-ml-marketing-strategy-immigration-law-twitter-space/)
-- [&#39;Beavis And Butt-head Do The Universe&#39; trailer launches cartoon &#39;icons&#39; across space &lpar;and time&rpar;](https://www.space.com/beavis-and-butt-head-do-the-universe-trailer-paramount-plus/)
-- [What the wave of layoffs says about the value of crypto exchanges](https://techcrunch.com/2022/06/14/what-the-wave-of-layoffs-says-about-the-value-of-crypto-exchanges/)
-- [SpaceX&#39;s Starship will be ready for 1st orbital flight in July, Elon Musk says](https://www.space.com/spacex-starship-ready-orbital-flight-july-elon-musk/)
-- [China&#39;s new map of the moon captures lunar geologic features in incredible detail](https://www.space.com/china-moon-map-most-detailed-yet/)
+- [Massachusetts court rejects ballot to define gig workers as contractors](https://techcrunch.com/2022/06/14/massachusetts-court-rejects-ballot-to-define-gig-workers-as-contractors/)
+- [Strawberry supermoon:  June full moon free webcast canceled due to clouds](https://www.space.com/strawberry-supermoon-june-full-moon-2022-webcast/)
+- [First stunning &#39;Starfield&#39; gameplay footage reveals an awesome Mars rover easter egg](https://www.space.com/starfield-first-gameplay-mars-rover/)
+- [&#39;Star Trek: Strange New Worlds&#39; episode 6 suffers from a slight dip in story quality](https://www.space.com/star-trek-strange-new-worlds-season-1-episode-6-review/)
+- [&#39;Star Trek: Picard - Stargazer&#39; puts Jean-Luc back in command in new IDW comic series](https://www.space.com/star-trek-picard-stargazer-idw-comics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
