@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [AI startup Cohere launches a nonprofit research lab](https://techcrunch.com/2022/06/14/ai-startup-cohere-launches-a-nonprofit-research-lab/)
-- [Coinbase CEO says it is laying off 18% of its workers](https://techcrunch.com/2022/06/14/coinbase-ceo-says-it-is-laying-off-18-of-its-workers/)
-- [Proving that contact center tech remains desirable, Invoca raises $83M](https://techcrunch.com/2022/06/14/proving-that-contact-center-tech-remains-desirable-invoca-raises-83m/)
-- [DealHub secures $60M for sales tools to configure, price, and quote](https://techcrunch.com/2022/06/14/dealhub-secures-60m-for-sales-tools-to-configure-price-and-quote/)
-- [Adobe Lightroom adds video support](https://techcrunch.com/2022/06/14/adobe-lightroom-adds-video-support/)
+- [Sesame closes on $27M in funding to grow its pay-per-visit medical care marketplace](https://techcrunch.com/2022/06/14/sesame-closes-on-27m-in-funding-to-grow-its-pay-per-visit-medical-care-marketplace/)
+- [Milankovitch cycles: What are they and how do they affect Earth?](https://www.space.com/milankovitch-cycles/)
+- [June new moon 2022: Young moon passes Mercury](https://www.space.com/17561-new-moon-explained-lunar-phases.html/)
+- [Arkestro brings game theory and machine learning to procurement with $26M investment](https://techcrunch.com/2022/06/14/arkestro-brings-game-theory-and-machine-learning-to-procurement-with-26m-investment/)
+- [Seeking product-market fit in a down market? Hire freelancers to manage your burn rate](https://techcrunch.com/2022/06/14/seeking-product-market-fit-in-a-down-market-hire-freelancers-to-manage-your-burn-rate/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
