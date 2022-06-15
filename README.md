@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Is consolidation on the horizon for Southeast Asia’s tech industry?](https://techcrunch.com/2022/06/15/is-consolidation-on-the-horizon-for-southeast-asias-tech-industry/)
-- [Apple’s image cutout feature in iOS 16 is the most fun thing to come out of WWDC 2022](https://techcrunch.com/2022/06/15/apples-image-cutout-feature-in-ios-16-is-the-most-fun-thing-to-come-out-of-wwdc-2022/)
-- [Netflix’s real-life ‘Squid Game’ competition will feature the biggest cash prize and largest cast in reality TV history](https://techcrunch.com/2022/06/15/netflixs-real-life-squid-game-competition-will-feature-the-biggest-cash-prize-and-largest-cast-in-reality-tv-history/)
-- [Tune in for tomorrow’s Online Day at TC Sessions: Climate](https://techcrunch.com/2022/06/15/tune-in-for-tomorrows-online-day-at-tc-sessions-climate/)
-- [Why software valuations could drop more if things don’t change soon](https://techcrunch.com/2022/06/15/software-valuations-have-room-to-fall-more-and-theres-little-we-can-do-about-it/)
+- [Investors salivate over food tech companies perfecting precision fermentation](https://techcrunch.com/2022/06/15/investors-salivate-over-food-tech-companies-perfecting-precision-fermentation/)
+- [Wealthsimple, valued at $4B last year, joins the fintech layoffs list](https://techcrunch.com/2022/06/15/wealthsimple-valued-at-4b-last-year-joins-the-fintech-layoffs-list/)
+- [See Mercury as it reaches &#39;greatest elongation&#39; before dawn on Thursday](https://www.space.com/mercury-greatest-western-elongation-june-2022/)
+- [Boeing reveals new Starliner spacesuit with replica made by Adam Savage](https://www.space.com/boeing-ilc-starliner-spacesuit-adam-savage/)
+- [Nikon D780 review](https://www.space.com/nikon-d780-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
