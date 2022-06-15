@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dear Sophie: Which visa is best for bootstrapping a startup?](https://techcrunch.com/2022/06/15/dear-sophie-which-visa-is-best-for-bootstrapping-a-startup/)
+- [Puffco unveils the $299 Proxy, an innovative, modular cannabis vaporizer](https://techcrunch.com/2022/06/15/puffco-unveils-the-299-proxy-an-innovative-modular-cannabis-vaporizer/)
+- [Amazing photos of the Strawberry supermoon of 2022 from around the world](https://www.space.com/strawberry-supermoon-june-full-moon-2022-photos/)
 - [Investors salivate over food tech companies perfecting precision fermentation](https://techcrunch.com/2022/06/15/investors-salivate-over-food-tech-companies-perfecting-precision-fermentation/)
 - [Wealthsimple, valued at $4B last year, joins the fintech layoffs list](https://techcrunch.com/2022/06/15/wealthsimple-valued-at-4b-last-year-joins-the-fintech-layoffs-list/)
-- [See Mercury as it reaches &#39;greatest elongation&#39; before dawn on Thursday](https://www.space.com/mercury-greatest-western-elongation-june-2022/)
-- [Boeing reveals new Starliner spacesuit with replica made by Adam Savage](https://www.space.com/boeing-ilc-starliner-spacesuit-adam-savage/)
-- [Nikon D780 review](https://www.space.com/nikon-d780-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
