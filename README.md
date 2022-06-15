@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: One week after expanding internationally, Dukaan says it has onboarded 1,000+ DTC brands](https://techcrunch.com/2022/06/15/daily-crunch-one-week-after-expanding-internationally-dukaan-says-it-has-onboarded-1000-dtc-brands/)
+- [Amid recalls, Ford says costs to build Mustang Mach-E are skyrocketing](https://techcrunch.com/2022/06/15/amid-recalls-ford-says-costs-to-build-mustang-mach-e-are-skyrocketing/)
+- [Can they kick it? Yes, they can: Playermaker tracks athlete performance](https://techcrunch.com/2022/06/15/playermaker-fundraising/)
 - [Fearless Fund’s Arian Simone on why a downturn is business as usual for minority founders](https://techcrunch.com/2022/06/15/fearless-funds-arian-simone-on-why-a-downturn-is-business-as-usual-for-minority-founders/)
 - [Mars rover Perseverance spots shiny silver litter on the Red Planet &lpar;photo&rpar;](https://www.space.com/mars-rover-perseverance-landing-litter-photo/)
-- [Fastest-growing black hole ever seen is devouring the equivalent of 1 Earth per second](https://www.space.com/fastest-growing-black-hole-powering-quasar/)
-- [NHTSA report shows Tesla Autopilot led the pack in crashes, but the data has gaps](https://techcrunch.com/2022/06/15/tesla-autopilot-nhtsa-crashes-fatalities/)
-- [Did China just detect signals from an alien civilization?](https://www.space.com/possible-seti-signal-china-fast-telescope/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
