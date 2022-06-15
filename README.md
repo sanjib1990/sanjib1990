@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Postscript takes in $65M so Shopify merchants can send more personalized texts to customers](https://techcrunch.com/2022/06/15/postscript-65m-shopify-merchants-personalized-texts/)
-- [AI-powered parking platform Metropolis bags $167M](https://techcrunch.com/2022/06/15/ai-powered-parking-platform-metropolis-bags-167m/)
-- [Cloudflare outage hits Discord, GitLab and other services in India](https://techcrunch.com/2022/06/15/cloudflare-outage-hits-discord-gitlab-and-other-services-in-india/)
-- [Tabnine raises $15.5M for AI that autocompletes code](https://techcrunch.com/2022/06/15/tabnine-raises-15-5m-for-ai-that-autocompletes-code/)
-- [Lego Marvel Spider-Man at the Sanctum Workshop review](https://www.space.com/lego-marvel-spider-man-at-the-sanctum-workshop-76185-review/)
+- [Amazon revamps Fire TV user interface with new home screen, improved navigation and more](https://techcrunch.com/2022/06/15/amazon-revamps-fire-tv-user-interface-with-new-home-screen-improved-navigation-and-more/)
+- [GreyNoise to expand its threat intel collection after securing $15M in funding](https://techcrunch.com/2022/06/15/greynoise-threat-intel-funding/)
+- [AlphaSense, an analysis and business intel search engine, finds $225M at a $1.7B valuation](https://techcrunch.com/2022/06/15/alphasense-an-analysis-and-business-intel-search-engine-finds-225m-at-a-1-7b-valuation/)
+- [Cube, which wants to help finance teams plan better and faster, lands $30M after seeing 400% ARR growth](https://techcrunch.com/2022/06/15/cube-which-wants-to-help-finance-teams-plan-better-and-faster-lands-30m-after-seeing-a-400-growth-in-arr/)
+- [Qualcomm wins appeal against $1BN+ EU antitrust fine](https://techcrunch.com/2022/06/15/qualcomm-eu-antitrust-fine-appeal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
