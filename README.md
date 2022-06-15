@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is consolidation on the horizon for Southeast Asia’s tech industry?](https://techcrunch.com/2022/06/15/is-consolidation-on-the-horizon-for-southeast-asias-tech-industry/)
+- [Apple’s image cutout feature in iOS 16 is the most fun thing to come out of WWDC 2022](https://techcrunch.com/2022/06/15/apples-image-cutout-feature-in-ios-16-is-the-most-fun-thing-to-come-out-of-wwdc-2022/)
+- [Netflix’s real-life ‘Squid Game’ competition will feature the biggest cash prize and largest cast in reality TV history](https://techcrunch.com/2022/06/15/netflixs-real-life-squid-game-competition-will-feature-the-biggest-cash-prize-and-largest-cast-in-reality-tv-history/)
 - [Tune in for tomorrow’s Online Day at TC Sessions: Climate](https://techcrunch.com/2022/06/15/tune-in-for-tomorrows-online-day-at-tc-sessions-climate/)
 - [Why software valuations could drop more if things don’t change soon](https://techcrunch.com/2022/06/15/software-valuations-have-room-to-fall-more-and-theres-little-we-can-do-about-it/)
-- [Apple signs 10-year streaming deal with Major League Soccer](https://techcrunch.com/2022/06/15/apple-signs-10-year-streaming-deal-with-major-league-soccer/)
-- [Twitter now allows local businesses to display location, hours and contact info on their profiles](https://techcrunch.com/2022/06/15/twitter-now-allows-local-businesses-to-display-location-hours-and-contact-info-on-their-profiles/)
-- [We’re entering an era of, um, creative accounting in startups](https://techcrunch.com/2022/06/15/were-entering-an-era-of-um-creative-accounting-in-startups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
