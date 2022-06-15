@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [PayCargo, a fintech for the freight industry, raises $130M](https://techcrunch.com/2022/06/15/paycargo-a-fintech-for-the-freight-industry-raises-130m/)
 - [Kenya’s Jumba bags $1M to help operators of hardware stores restock seamlessly](https://techcrunch.com/2022/06/14/kenyas-jumba-bags-1m-to-help-operators-of-hardware-stores-restock-seamlessly/)
 - [Coinbase taps former Niti Aayog and Prosus exec for India expansion](https://techcrunch.com/2022/06/14/coinbase-taps-former-niti-aayog-and-prosus-exec-for-india-expansion/)
 - [Platform9 raises $26M to help manage distributed cloud clusters](https://techcrunch.com/2022/06/14/platform9-raises-26m-to-help-manage-distributed-cloud-clusters/)
 - [Bill Gates on economic turbulence, crypto and whether we can still avoid climate disaster](https://techcrunch.com/2022/06/14/bill-gates-on-economic-turbulence-crypto-and-whether-we-can-still-avoid-climate-disaster/)
-- [Daily Crunch: Coinbase will reduce its workforce by 18% to ‘stay healthy during this downturn’](https://techcrunch.com/2022/06/14/daily-crunch-coinbase-will-reduce-its-workforce-by-18-to-stay-healthy-during-this-downturn/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
