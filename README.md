@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Lego Marvel Thor’s Hammer review](https://www.space.com/lego-marvel-thors-hammer-76209-review/)
-- [Artemis astronaut Jessica Watkins marvels at the moon from space station &lpar;photo&rpar;](https://www.space.com/moon-photo-space-station-jessica-watkins/)
-- [Launch of NASA&#39;s CAPSTONE cubesat moon mission delayed again, to June 25](https://www.space.com/nasa-capstone-cubesat-moon-mission-launch-delay-june-25/)
-- [Project A Ventures closes its fourth fund, hitting $375M, the largest to date](https://techcrunch.com/2022/06/15/project-a-ventures-closes-its-fourth-fund-hitting-375m-the-largest-to-date/)
-- [Nothing teases phone &lpar;1&rpar; design ahead of next month’s launch](https://techcrunch.com/2022/06/15/nothing-phone-1-teaser/)
+- [Sana’s plan to level up SMB health care brings in $60M](https://techcrunch.com/2022/06/15/sana-which-wants-to-offer-better-and-more-affordable-health-plans-to-small-businesses-secures-60m-in-series-b-funding/)
+- [Zoovu lands $169M to drive online product discovery experiences](https://techcrunch.com/2022/06/15/zoovu-lands-169m-to-drive-online-product-discovery-experiences/)
+- [PayPal expands its ‘pay later’ options with a more flexible ‘PayPal Pay Monthly’ service](https://techcrunch.com/2022/06/15/paypal-expands-its-pay-later-options-with-the-more-flexible-paypal-pay-monthly-service/)
+- [Pinterest turns its TikTok-like Idea Pins into ads](https://techcrunch.com/2022/06/15/pinterest-turns-its-tiktok-like-idea-pins-into-ads/)
+- [On This Day In Space: June 15, 2011: Iran launches satellite into orbit](https://www.space.com/39251-on-this-day-in-space.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
