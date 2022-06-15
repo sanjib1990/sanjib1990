@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NHTSA report shows Tesla Autopilot led the pack in crashes, but the data has gaps](https://techcrunch.com/2022/06/15/tesla-autopilot-nhtsa-crashes-fatalities/)
+- [Did China just detect signals from an alien civilization?](https://www.space.com/possible-seti-signal-china-fast-telescope/)
+- [Exclusive: Director Emily Dean creates a trippy Moebius tribute for Netflix&#39;s &#39;Love, Death + Robots Vol. 3&#39;](https://www.space.com/love-death-robots-emily-dean-interview-netflix/)
 - [Dear Sophie: Which visa is best for bootstrapping a startup?](https://techcrunch.com/2022/06/15/dear-sophie-which-visa-is-best-for-bootstrapping-a-startup/)
 - [Puffco unveils the $299 Proxy, an innovative, modular cannabis vaporizer](https://techcrunch.com/2022/06/15/puffco-unveils-the-299-proxy-an-innovative-modular-cannabis-vaporizer/)
-- [Amazing photos of the Strawberry supermoon of 2022 from around the world](https://www.space.com/strawberry-supermoon-june-full-moon-2022-photos/)
-- [Investors salivate over food tech companies perfecting precision fermentation](https://techcrunch.com/2022/06/15/investors-salivate-over-food-tech-companies-perfecting-precision-fermentation/)
-- [Wealthsimple, valued at $4B last year, joins the fintech layoffs list](https://techcrunch.com/2022/06/15/wealthsimple-valued-at-4b-last-year-joins-the-fintech-layoffs-list/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
