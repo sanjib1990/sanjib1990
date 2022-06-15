@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tune in for tomorrow’s Online Day at TC Sessions: Climate](https://techcrunch.com/2022/06/15/tune-in-for-tomorrows-online-day-at-tc-sessions-climate/)
+- [Why software valuations could drop more if things don’t change soon](https://techcrunch.com/2022/06/15/software-valuations-have-room-to-fall-more-and-theres-little-we-can-do-about-it/)
+- [Apple signs 10-year streaming deal with Major League Soccer](https://techcrunch.com/2022/06/15/apple-signs-10-year-streaming-deal-with-major-league-soccer/)
 - [Twitter now allows local businesses to display location, hours and contact info on their profiles](https://techcrunch.com/2022/06/15/twitter-now-allows-local-businesses-to-display-location-hours-and-contact-info-on-their-profiles/)
 - [We’re entering an era of, um, creative accounting in startups](https://techcrunch.com/2022/06/15/were-entering-an-era-of-um-creative-accounting-in-startups/)
-- [Instacart renames its subscription service to Instacart+, adds new family shopping features](https://techcrunch.com/2022/06/15/instacart-launching-revamped-subscription-service-instacart/)
-- [DataStax proves it’s still possible to raise nine-figures at higher valuation in 2022](https://techcrunch.com/2022/06/15/datastax-proves-its-still-possible-to-raise-nine-figures-at-higher-valuation-in-2022/)
-- [Microsoft finally fixes Windows zero-day flaw exploited by state-backed hackers](https://techcrunch.com/2022/06/15/follina-windows-zero-day/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
