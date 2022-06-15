@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon revamps Fire TV user interface with new home screen, improved navigation and more](https://techcrunch.com/2022/06/15/amazon-revamps-fire-tv-user-interface-with-new-home-screen-improved-navigation-and-more/)
-- [GreyNoise to expand its threat intel collection after securing $15M in funding](https://techcrunch.com/2022/06/15/greynoise-threat-intel-funding/)
-- [AlphaSense, an analysis and business intel search engine, finds $225M at a $1.7B valuation](https://techcrunch.com/2022/06/15/alphasense-an-analysis-and-business-intel-search-engine-finds-225m-at-a-1-7b-valuation/)
-- [Cube, which wants to help finance teams plan better and faster, lands $30M after seeing 400% ARR growth](https://techcrunch.com/2022/06/15/cube-which-wants-to-help-finance-teams-plan-better-and-faster-lands-30m-after-seeing-a-400-growth-in-arr/)
-- [Qualcomm wins appeal against $1BN+ EU antitrust fine](https://techcrunch.com/2022/06/15/qualcomm-eu-antitrust-fine-appeal/)
+- [Twitter now allows local businesses to display location, hours and contact info on their profiles](https://techcrunch.com/2022/06/15/twitter-now-allows-local-businesses-to-display-location-hours-and-contact-info-on-their-profiles/)
+- [We’re entering an era of, um, creative accounting in startups](https://techcrunch.com/2022/06/15/were-entering-an-era-of-um-creative-accounting-in-startups/)
+- [Instacart renames its subscription service to Instacart+, adds new family shopping features](https://techcrunch.com/2022/06/15/instacart-launching-revamped-subscription-service-instacart/)
+- [DataStax proves it’s still possible to raise nine-figures at higher valuation in 2022](https://techcrunch.com/2022/06/15/datastax-proves-its-still-possible-to-raise-nine-figures-at-higher-valuation-in-2022/)
+- [Microsoft finally fixes Windows zero-day flaw exploited by state-backed hackers](https://techcrunch.com/2022/06/15/follina-windows-zero-day/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
