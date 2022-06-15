@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Khazenly, an Egyptian on-demand warehousing and fulfiLlment platform, raises $2.5M seed funding](https://techcrunch.com/2022/06/15/khazenly-an-egyptian-on-demand-warehousing-and-fulfillment-platform-raises-2-5m-seed-funding/)
-- [India’s Dukaan expands globally to take on Shopify](https://techcrunch.com/2022/06/15/indias-dukaan-expands-globally-to-take-on-shopify/)
-- [PayCargo, a fintech for the freight industry, raises $130M](https://techcrunch.com/2022/06/15/paycargo-a-fintech-for-the-freight-industry-raises-130m/)
-- [Kenya’s Jumba bags $1M to help operators of hardware stores restock seamlessly](https://techcrunch.com/2022/06/14/kenyas-jumba-bags-1m-to-help-operators-of-hardware-stores-restock-seamlessly/)
-- [Coinbase taps former Niti Aayog and Prosus exec for India expansion](https://techcrunch.com/2022/06/14/coinbase-taps-former-niti-aayog-and-prosus-exec-for-india-expansion/)
+- [Lego Marvel Thor’s Hammer review](https://www.space.com/lego-marvel-thors-hammer-76209-review/)
+- [Artemis astronaut Jessica Watkins marvels at the moon from space station &lpar;photo&rpar;](https://www.space.com/moon-photo-space-station-jessica-watkins/)
+- [Launch of NASA&#39;s CAPSTONE cubesat moon mission delayed again, to June 25](https://www.space.com/nasa-capstone-cubesat-moon-mission-launch-delay-june-25/)
+- [Project A Ventures closes its fourth fund, hitting $375M, the largest to date](https://techcrunch.com/2022/06/15/project-a-ventures-closes-its-fourth-fund-hitting-375m-the-largest-to-date/)
+- [Nothing teases phone &lpar;1&rpar; design ahead of next month’s launch](https://techcrunch.com/2022/06/15/nothing-phone-1-teaser/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
