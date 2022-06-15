@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Sana’s plan to level up SMB health care brings in $60M](https://techcrunch.com/2022/06/15/sana-which-wants-to-offer-better-and-more-affordable-health-plans-to-small-businesses-secures-60m-in-series-b-funding/)
-- [Zoovu lands $169M to drive online product discovery experiences](https://techcrunch.com/2022/06/15/zoovu-lands-169m-to-drive-online-product-discovery-experiences/)
-- [PayPal expands its ‘pay later’ options with a more flexible ‘PayPal Pay Monthly’ service](https://techcrunch.com/2022/06/15/paypal-expands-its-pay-later-options-with-the-more-flexible-paypal-pay-monthly-service/)
-- [Pinterest turns its TikTok-like Idea Pins into ads](https://techcrunch.com/2022/06/15/pinterest-turns-its-tiktok-like-idea-pins-into-ads/)
-- [On This Day In Space: June 15, 2011: Iran launches satellite into orbit](https://www.space.com/39251-on-this-day-in-space.html/)
+- [Postscript takes in $65M so Shopify merchants can send more personalized texts to customers](https://techcrunch.com/2022/06/15/postscript-65m-shopify-merchants-personalized-texts/)
+- [AI-powered parking platform Metropolis bags $167M](https://techcrunch.com/2022/06/15/ai-powered-parking-platform-metropolis-bags-167m/)
+- [Cloudflare outage hits Discord, GitLab and other services in India](https://techcrunch.com/2022/06/15/cloudflare-outage-hits-discord-gitlab-and-other-services-in-india/)
+- [Tabnine raises $15.5M for AI that autocompletes code](https://techcrunch.com/2022/06/15/tabnine-raises-15-5m-for-ai-that-autocompletes-code/)
+- [Lego Marvel Spider-Man at the Sanctum Workshop review](https://www.space.com/lego-marvel-spider-man-at-the-sanctum-workshop-76185-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
