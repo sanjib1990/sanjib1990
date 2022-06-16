@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Water on the moon twice over for China&#39;s sample-return mission](https://www.space.com/china-moon-lander-water-detection/)
+- [Crypto founders face falling valuations, pulled deals amid market volatility](https://techcrunch.com/2022/06/16/crypto-founders-face-falling-valuations-pulled-deals-amid-market-volatility/)
+- [YouTube Music introduces seasonal recap playlists to compete with Spotify Wrapped](https://techcrunch.com/2022/06/16/youtube-music-introduces-seasonal-recap-playlists-to-compete-with-spotify-wrapped/)
+- [A new study suggests 33% of U.S. Twitter users post about politics](https://techcrunch.com/2022/06/16/a-new-study-suggests-33-of-u-s-twitter-users-post-about-politics/)
 - [&#39;Strawberry Supermoon&#39; sparkles behind NASA&#39;s Artemis 1 moon rocket &lpar;photos&rpar;](https://www.space.com/strawberry-supermoon-artemis-1-rocket-photo/)
-- [Corvus is using drones to track warehouse inventory](https://techcrunch.com/2022/06/16/corvus-is-using-drones-to-track-warehouse-inventory/)
-- [3 climate tech VCs share how they find, vet and support carbon-slashing startups](https://techcrunch.com/2022/06/16/3-climate-tech-vcs-share-how-they-find-vet-and-support-carbon-slashing-startups/)
-- [Attack surface management platform RapidFort raises $8.5M seed round](https://techcrunch.com/2022/06/16/attack-surface-management-platform-rapidfort-raises-8-5m-seed-round/)
-- [Webb’s Mid-Infrared Spectroscopy Will Reveal Molecules, Elements](https://blogs.nasa.gov/webb/2022/06/16/webbs-mid-infrared-spectroscopy-will-reveal-molecules-elements/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
