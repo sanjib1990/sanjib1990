@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Prime Day lands on July 12-13](https://techcrunch.com/2022/06/16/amazon-prime-day-lands-on-july-12-13/)
-- [Goat Brand Labs, a house of D2C brands in India, raises $50 million](https://techcrunch.com/2022/06/16/goat-brand-labs-a-house-of-d2c-brands-in-india-raises-50-million/)
-- [Microsoft is elevating Viva from pure employee portal to job support platform starting with sales](https://techcrunch.com/2022/06/16/microsoft-is-elevating-viva-from-employee-portal-to-job-support-platform-starting-with-sales/)
-- [Bangalore-based Pazcare, an employee benefits and insurtech platform, raises $8.2M](https://techcrunch.com/2022/06/16/bangalore-based-pazcare-an-employee-benefits-and-insurtech-platform-raises-8-2m/)
-- [Samsung launches Samsung Wallet to help you store your cards, digital keys, IDs and more](https://techcrunch.com/2022/06/16/samsung-wallet-store-cards-digital-keys-ids/)
+- [Cloud cost management platform Finout raises $18.5M](https://techcrunch.com/2022/06/16/cloud-cost-management-platform-finout-raises-18-5m/)
+- [Stellar pair may have formed when wandering star stumbled too close to another](https://www.space.com/star-wandering-to-form-binary/)
+- [On This Day In Space: June 16, 1963: Valentina Tereshkova becomes first woman in space](https://www.space.com/39251-on-this-day-in-space.html/)
+- [Tesla bumps prices across its lineup by between $2,500 and $6,000](https://techcrunch.com/2022/06/16/tesla-bumps-prices-across-its-lineup-by-between-2500-and-6000/)
+- [Google Maps has a new Android widget to show live traffic around you](https://techcrunch.com/2022/06/16/google-maps-has-a-new-android-widget-to-show-live-traffic-around-you/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
