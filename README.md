@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Reddit is buying machine learning platform Spell](https://techcrunch.com/2022/06/16/reddit-spell-machine-learning/)
-- [Instagram chases TikTok with a new full-screen feed, changes to photos and navigation to come](https://techcrunch.com/2022/06/16/instagram-chases-tiktok-with-a-new-full-screen-feed-changes-to-photos-and-navigation-to-come/)
-- [Waymap’s app helps the visually impaired navigate public transit](https://techcrunch.com/2022/06/16/waymaps-app-helps-the-visually-impaired-navigate-public-transit/)
-- [Are carbon offsets bullshit? A renowned climate expert weighs in.](https://techcrunch.com/2022/06/16/tree-carbon-offsets-bullshit-berkeley-climate-expert-william-collins/)
-- [NASA assigns 2 astronauts to fly on Boeing Starliner&#39;s 1st crewed mission](https://www.space.com/nasa-assigns-astronauts-boeing-starliner-first-crewed-flight/)
+- [Daily Crunch: SpaceX employees blast Musk’s tweets as a ‘source of distraction and embarrassment’](https://techcrunch.com/2022/06/16/daily-crunch-spacex-employees-blast-musks-tweets-as-a-source-of-distraction-and-embarrassment/)
+- [Notarize signs off on 25% staff reduction, admits challenging fundraising environment](https://techcrunch.com/2022/06/16/notarize-cuts-25-of-staff/)
+- [Dogecoin investor sues Elon Musk, Tesla and SpaceX for $258 billion](https://techcrunch.com/2022/06/16/dogecoin-investor-sues-elon-musk-tesla-and-spacex-for-258-billion/)
+- [Rare 5-planet alignment comes into better view this week. Here&#39;s what to expect.](https://www.space.com/five-planets-align-rare-skywatching-june-2022/)
+- [Exclusive: &#39;Star Wars&#39; legend Phil Tippett discusses his terrifying new animated odyssey &#39;Mad God&#39;](https://www.space.com/phil-tippett-mad-god-movie-interview/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
