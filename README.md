@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Growing up enterprise for SaaS startups: 7 lessons on doing it right](https://techcrunch.com/2022/06/16/growing-up-enterprise-for-saas-startups-7-lessons-on-doing-it-right/)
-- [Emory University student venture fund is raising a new generation of investors](https://techcrunch.com/2022/06/16/emory-university-student-venture-fund-is-raising-a-new-generation-of-investors/)
-- [DX exits stealth mode looking to help developer teams be more productive](https://techcrunch.com/2022/06/16/dx-exits-stealth-mode-looking-to-help-developer-teams-be-more-productive/)
-- [India lifts ban on Mastercard](https://techcrunch.com/2022/06/16/india-lifts-ban-on-mastercard/)
-- [Jumia’s venture into quick commerce could slow its path to profitability](https://techcrunch.com/2022/06/16/jumias-venture-into-quick-commerce-could-slow-its-path-to-profitability/)
+- [Disney+ expands its livestreaming efforts with upcoming ‘Harmonious Live!’ music special](https://techcrunch.com/2022/06/16/disney-expands-its-livestreaming-efforts-with-upcoming-harmonious-live-music-special/)
+- [Discord gives servers a way to intercept spam and harmful content, will expand premium memberships](https://techcrunch.com/2022/06/16/discord-automod-premium-memberships/)
+- [This isn’t the company I expected to try and open the IPO window](https://techcrunch.com/2022/06/16/this-isnt-the-company-i-expected-to-try-and-open-the-ipo-window/)
+- [The universe explained in All About Space magazine&#39;s latest issue](https://www.space.com/all-about-space-magazine-issue-131/)
+- [Look what’s happening online today at TC Sessions: Climate](https://techcrunch.com/2022/06/16/look-whats-happening-online-today-at-tc-sessions-climate/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
