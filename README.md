@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [EU unveils tougher industry Code to combat disinformation](https://techcrunch.com/2022/06/16/eu-disinformation-code-reboot/)
-- [UiPath’s new venture arm backs workflow automation startup AirSlate](https://techcrunch.com/2022/06/16/uipaths-new-venture-arm-backs-workflow-automation-startup-airslate/)
-- [Cloud cost management platform Finout raises $18.5M](https://techcrunch.com/2022/06/16/cloud-cost-management-platform-finout-raises-18-5m/)
-- [Stellar pair may have formed when wandering star stumbled too close to another](https://www.space.com/star-wandering-to-form-binary/)
-- [On This Day In Space: June 16, 1963: Valentina Tereshkova becomes first woman in space](https://www.space.com/39251-on-this-day-in-space.html/)
+- [Growing up enterprise for SaaS startups: 7 lessons on doing it right](https://techcrunch.com/2022/06/16/growing-up-enterprise-for-saas-startups-7-lessons-on-doing-it-right/)
+- [Emory University student venture fund is raising a new generation of investors](https://techcrunch.com/2022/06/16/emory-university-student-venture-fund-is-raising-a-new-generation-of-investors/)
+- [DX exits stealth mode looking to help developer teams be more productive](https://techcrunch.com/2022/06/16/dx-exits-stealth-mode-looking-to-help-developer-teams-be-more-productive/)
+- [India lifts ban on Mastercard](https://techcrunch.com/2022/06/16/india-lifts-ban-on-mastercard/)
+- [Jumia’s venture into quick commerce could slow its path to profitability](https://techcrunch.com/2022/06/16/jumias-venture-into-quick-commerce-could-slow-its-path-to-profitability/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
