@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Venture funding in Europe is declining faster than in the US — but causing much less panic](https://techcrunch.com/2022/06/16/venture-funding-in-europe-is-declining-faster-than-in-the-us-but-causing-much-less-panic/)
+- [How disruptive could a Nike-owned resale platform be?](https://techcrunch.com/2022/06/16/how-disruptive-could-a-nike-owned-resale-platform-be/)
+- [As crypto selloff accelerates, how much worse can things get?](https://techcrunch.com/2022/06/16/as-crypto-selloff-accelerates-how-much-worse-can-things-get/)
+- [Antarctica&#39;s &#39;Doomsday Glacier&#39; is hemorrhaging ice faster than in the past 5,500 years](https://www.space.com/penguin-bones-reveal-secrets-of-doomsday-glacier/)
 - [How to implement an effective chatbot program](https://techcrunch.com/2022/06/16/how-to-implement-an-effective-chatbot-program/)
-- [Funding the robot revolution](https://techcrunch.com/2022/06/16/funding-the-robot-revolution/)
-- [JOKR leaving U.S., ‘for now,’ to focus on LatAm](https://techcrunch.com/2022/06/16/jokr-grocery-delivery-leaving-us-latin-america/)
-- [TikTok is testing a feature that lets you see which followers viewed your posts](https://techcrunch.com/2022/06/16/tiktok-testing-feature-see-which-followers-viewed-your-posts/)
-- [Pitch Deck Teardown: Ergeon’s $40M Series B deck](https://techcrunch.com/2022/06/16/sample-series-b-pitch-deck-ergeon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
