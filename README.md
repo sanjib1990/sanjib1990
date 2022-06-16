@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A field guide for startup board members in an up-and-down market](https://techcrunch.com/2022/06/15/a-field-guide-for-startup-board-members-in-an-up-and-down-market/)
+- [UK market abuse suit seeks up to $935M from Apple for ‘secretly throttling’ iPhones](https://techcrunch.com/2022/06/15/apple-iphone-throttling-uk-lawsuit/)
+- [GM to invest $81M in hand-building Cadillac Celestiq EV](https://techcrunch.com/2022/06/15/gm-to-invest-81m-in-hand-building-cadillac-celestiq-ev/)
 - [Daily Crunch: One week after expanding internationally, Dukaan says it has onboarded 1,000+ DTC brands](https://techcrunch.com/2022/06/15/daily-crunch-one-week-after-expanding-internationally-dukaan-says-it-has-onboarded-1000-dtc-brands/)
 - [Amid recalls, Ford says costs to build Mustang Mach-E are skyrocketing](https://techcrunch.com/2022/06/15/amid-recalls-ford-says-costs-to-build-mustang-mach-e-are-skyrocketing/)
-- [Can they kick it? Yes, they can: Playermaker tracks athlete performance](https://techcrunch.com/2022/06/15/playermaker-fundraising/)
-- [Fearless Fund’s Arian Simone on why a downturn is business as usual for minority founders](https://techcrunch.com/2022/06/15/fearless-funds-arian-simone-on-why-a-downturn-is-business-as-usual-for-minority-founders/)
-- [Mars rover Perseverance spots shiny silver litter on the Red Planet &lpar;photo&rpar;](https://www.space.com/mars-rover-perseverance-landing-litter-photo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
