@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Water on the moon twice over for China&#39;s sample-return mission](https://www.space.com/china-moon-lander-water-detection/)
-- [Crypto founders face falling valuations, pulled deals amid market volatility](https://techcrunch.com/2022/06/16/crypto-founders-face-falling-valuations-pulled-deals-amid-market-volatility/)
-- [YouTube Music introduces seasonal recap playlists to compete with Spotify Wrapped](https://techcrunch.com/2022/06/16/youtube-music-introduces-seasonal-recap-playlists-to-compete-with-spotify-wrapped/)
-- [A new study suggests 33% of U.S. Twitter users post about politics](https://techcrunch.com/2022/06/16/a-new-study-suggests-33-of-u-s-twitter-users-post-about-politics/)
-- [&#39;Strawberry Supermoon&#39; sparkles behind NASA&#39;s Artemis 1 moon rocket &lpar;photos&rpar;](https://www.space.com/strawberry-supermoon-artemis-1-rocket-photo/)
+- [TikTok is testing a feature that lets you see which followers viewed your posts](https://techcrunch.com/2022/06/16/tiktok-testing-feature-see-which-followers-viewed-your-posts/)
+- [Pitch Deck Teardown: Ergeon’s $40M Series B deck](https://techcrunch.com/2022/06/16/sample-series-b-pitch-deck-ergeon/)
+- [Elon Musk tells Twitter employees he wants to be involved in product](https://techcrunch.com/2022/06/16/elon-musk-twitter-meeting-role-product/)
+- [Crypto’s emphasis on community could lead followers off a cliff](https://techcrunch.com/2022/06/16/cryptos-emphasis-on-community-could-lead-followers-off-a-cliff/)
+- [Firefly Aerospace co-founder Tom Markusic is out as CEO](https://techcrunch.com/2022/06/16/firefly-aerospace-co-founder-tom-markusic-is-out-as-ceo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
