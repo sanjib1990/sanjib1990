@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Venture funding in Europe is declining faster than in the US — but causing much less panic](https://techcrunch.com/2022/06/16/venture-funding-in-europe-is-declining-faster-than-in-the-us-but-causing-much-less-panic/)
-- [How disruptive could a Nike-owned resale platform be?](https://techcrunch.com/2022/06/16/how-disruptive-could-a-nike-owned-resale-platform-be/)
-- [As crypto selloff accelerates, how much worse can things get?](https://techcrunch.com/2022/06/16/as-crypto-selloff-accelerates-how-much-worse-can-things-get/)
-- [Antarctica&#39;s &#39;Doomsday Glacier&#39; is hemorrhaging ice faster than in the past 5,500 years](https://www.space.com/penguin-bones-reveal-secrets-of-doomsday-glacier/)
-- [How to implement an effective chatbot program](https://techcrunch.com/2022/06/16/how-to-implement-an-effective-chatbot-program/)
+- [Reddit is buying machine learning platform Spell](https://techcrunch.com/2022/06/16/reddit-spell-machine-learning/)
+- [Instagram chases TikTok with a new full-screen feed, changes to photos and navigation to come](https://techcrunch.com/2022/06/16/instagram-chases-tiktok-with-a-new-full-screen-feed-changes-to-photos-and-navigation-to-come/)
+- [Waymap’s app helps the visually impaired navigate public transit](https://techcrunch.com/2022/06/16/waymaps-app-helps-the-visually-impaired-navigate-public-transit/)
+- [Are carbon offsets bullshit? A renowned climate expert weighs in.](https://techcrunch.com/2022/06/16/tree-carbon-offsets-bullshit-berkeley-climate-expert-william-collins/)
+- [NASA assigns 2 astronauts to fly on Boeing Starliner&#39;s 1st crewed mission](https://www.space.com/nasa-assigns-astronauts-boeing-starliner-first-crewed-flight/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
