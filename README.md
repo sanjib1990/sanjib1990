@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Goat Brand Labs, a house of D2C brands in India, raises $50 million](https://techcrunch.com/2022/06/16/goat-brand-labs-a-house-of-d2c-brands-in-india-raises-50-million/)
 - [Microsoft is elevating Viva from pure employee portal to job support platform starting with sales](https://techcrunch.com/2022/06/16/microsoft-is-elevating-viva-from-employee-portal-to-job-support-platform-starting-with-sales/)
 - [Bangalore-based Pazcare, an employee benefits and insurtech platform, raises $8.2M](https://techcrunch.com/2022/06/16/bangalore-based-pazcare-an-employee-benefits-and-insurtech-platform-raises-8-2m/)
 - [Samsung launches Samsung Wallet to help you store your cards, digital keys, IDs and more](https://techcrunch.com/2022/06/16/samsung-wallet-store-cards-digital-keys-ids/)
 - [This startup wants to help teams get more out of virtual meetings](https://techcrunch.com/2022/06/16/online-meeting-productivity-tldv-seed/)
-- [Tesla increases prices across lineup, with Model X up as much as $6,000](https://techcrunch.com/2022/06/15/tesla-increases-prices-across-lineup-with-model-x-up-as-much-as-6000/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
