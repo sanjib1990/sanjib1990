@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to implement an effective chatbot program](https://techcrunch.com/2022/06/16/how-to-implement-an-effective-chatbot-program/)
+- [Funding the robot revolution](https://techcrunch.com/2022/06/16/funding-the-robot-revolution/)
+- [JOKR leaving U.S., ‘for now,’ to focus on LatAm](https://techcrunch.com/2022/06/16/jokr-grocery-delivery-leaving-us-latin-america/)
 - [TikTok is testing a feature that lets you see which followers viewed your posts](https://techcrunch.com/2022/06/16/tiktok-testing-feature-see-which-followers-viewed-your-posts/)
 - [Pitch Deck Teardown: Ergeon’s $40M Series B deck](https://techcrunch.com/2022/06/16/sample-series-b-pitch-deck-ergeon/)
-- [Elon Musk tells Twitter employees he wants to be involved in product](https://techcrunch.com/2022/06/16/elon-musk-twitter-meeting-role-product/)
-- [Crypto’s emphasis on community could lead followers off a cliff](https://techcrunch.com/2022/06/16/cryptos-emphasis-on-community-could-lead-followers-off-a-cliff/)
-- [Firefly Aerospace co-founder Tom Markusic is out as CEO](https://techcrunch.com/2022/06/16/firefly-aerospace-co-founder-tom-markusic-is-out-as-ceo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
