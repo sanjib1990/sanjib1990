@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Layoffs hit crypto and real estate tech particularly hard this week](https://techcrunch.com/2022/06/17/layoffs-crypto-real-estate-tech-june/)
 - [Daily Crunch: Citing ‘overreaching activism,’ SpaceX reportedly fires workers who decried Musk’s behavior](https://techcrunch.com/2022/06/17/daily-crunch-citing-overreaching-activism-spacex-reportedly-fires-workers-who-decried-musks-behavi/)
 - [Black founders are seeing a decrease in funding amid economic downturn](https://techcrunch.com/2022/06/17/black-founders-are-seeing-a-decrease-in-funding-amid-economic-downturn/)
 - [Meta is launching a digital clothing store where you can purchase outfits for your avatar](https://techcrunch.com/2022/06/17/meta-digital-clothing-store-avatar/)
 - [Brex leaving adrift some SMB customers roils corporate spend market](https://techcrunch.com/2022/06/17/brex-leaving-adrift-some-smb-customers-roils-corporate-spend-market/)
-- [Grace debuts privacy-focused parental controls for iOS devices built with Apple’s Screen Time API](https://techcrunch.com/2022/06/17/grace-debuts-privacy-focused-parental-controls-for-ios-devices-built-with-apples-screen-time-api/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
