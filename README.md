@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Senators call for US to adopt common charger](https://techcrunch.com/2022/06/17/senators-call-for-us-to-adopt-common-charger/)
-- [Black Gen Z VCs are here and swinging for the fences](https://techcrunch.com/2022/06/17/black-gen-z-vcs-are-here-and-swinging-for-the-fences/)
-- [Researchers say Hermit, a powerful mobile spyware, is used by governments](https://techcrunch.com/2022/06/17/hermit-spyware-government/)
-- [Roku and Walmart partner up to bring shoppable ads to streaming](https://techcrunch.com/2022/06/17/roku-and-walmart-partner-up-to-bring-shoppable-ads-to-streaming/)
-- [As Brex exits the SMB space, its CEO says that doesn’t include startups… at least the funded ones](https://techcrunch.com/2022/06/17/as-brex-exits-the-smb-space-its-ceo-says-that-doesnt-include-startups-at-least-the-funded-ones/)
+- [An inside look at 2150 VC’s bet on urban tech to tackle the climate crisis](https://techcrunch.com/2022/06/17/an-inside-look-at-2150-vcs-bet-on-urban-tech-to-tackle-the-climate-crisis/)
+- [China&#39;s &#39;alien&#39; signal almost certainly came from humans, project researcher says](https://www.space.com/china-did-not-detect-aliens/)
+- [Marc Lore’s food delivery startup Wonder raises $350M at a $3.5B valuation](https://techcrunch.com/2022/06/17/marc-lores-food-delivery-startup-wonder-raises-350m-3-5b-valuation/)
+- [SpaceX Falcon 9 rocket aces record 13th flight in Starlink satellite launch](https://www.space.com/spacex-falcon-9-rocket-record-13th-launch/)
+- [Everything we know about Starfield: Release window, platforms, gameplay, trailers](https://www.space.com/everything-we-know-about-starfield/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
