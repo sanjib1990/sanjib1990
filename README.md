@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Huobi closing its crypto exchange in Thailand in July](https://techcrunch.com/2022/06/16/huobi-shutdown-thailand/)
+- [Crypto exchange Huobi Thailand closing down in July after license revoked](https://techcrunch.com/2022/06/16/huobi-shutdown-thailand/)
 - [SpaceX to launch 3 rockets from 3 pads in 3 days this weekend](https://www.space.com/spacex-three-rocket-launches-three-days-2022/)
 - [In all-hands Twitter call, Elon Musk fields questions about free speech and bots](https://techcrunch.com/2022/06/16/in-all-hands-twitter-call-elon-musk-fields-questions-about-free-speech-and-bots/)
 - [Indian esports fantasy startup FanClash raises $40 million](https://techcrunch.com/2022/06/16/indian-esports-fantasy-startup-fanclash-raises-40-million/)
