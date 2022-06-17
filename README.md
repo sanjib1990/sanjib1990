@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch+ roundup: Food tech smorgasbord, VCs squeeze crypto founders, startup layoffs 101](https://techcrunch.com/2022/06/17/techcrunch-roundup-food-tech-smorgasbord-vcs-squeeze-crypto-founders-startup-layoffs-101/)
+- [TikTok moves all US traffic to Oracle servers, amid new claims user data was accessed from China](https://techcrunch.com/2022/06/17/tiktok-oracle-us-traffic-china-access/)
+- [New NASA documentary celebrates Black space explorers for Juneteenth](https://www.space.com/nasa-documentary-black-space-explorers-juneteenth/)
+- [SpaceX fires some employees behind letter denouncing Elon Musk&#39;s behavior: reports](https://www.space.com/spacex-fires-employees-anti-elon-musk-letter/)
 - [An inside look at 2150 VC’s bet on urban tech to tackle the climate crisis](https://techcrunch.com/2022/06/17/an-inside-look-at-2150-vcs-bet-on-urban-tech-to-tackle-the-climate-crisis/)
-- [China&#39;s &#39;alien&#39; signal almost certainly came from humans, project researcher says](https://www.space.com/china-did-not-detect-aliens/)
-- [Marc Lore’s food delivery startup Wonder raises $350M at a $3.5B valuation](https://techcrunch.com/2022/06/17/marc-lores-food-delivery-startup-wonder-raises-350m-3-5b-valuation/)
-- [SpaceX Falcon 9 rocket aces record 13th flight in Starlink satellite launch](https://www.space.com/spacex-falcon-9-rocket-record-13th-launch/)
-- [Everything we know about Starfield: Release window, platforms, gameplay, trailers](https://www.space.com/everything-we-know-about-starfield/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
