@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch SpaceX launch a Falcon 9 rocket  on record-breaking 13th mission Friday](https://www.space.com/spacex-falcon-9-rocket-record-13th-launch/)
+- [NASA astronaut helped Pixar find space ranger&#39;s new look in &#39;Lightyear&#39;](https://www.space.com/pixar-lightyear-movie-nasa-astronaut-advisor/)
+- [Rohlik bags $231M despite the market cooling on food delivery startups](https://techcrunch.com/2022/06/17/rohlik-bags-231m-despite-the-market-cooling-on-food-delivery-startups/)
 - [Crypto exchange Huobi Thailand closing down in July after license revoked](https://techcrunch.com/2022/06/16/huobi-shutdown-thailand/)
 - [SpaceX to launch 3 rockets from 3 pads in 3 days this weekend](https://www.space.com/spacex-three-rocket-launches-three-days-2022/)
-- [In all-hands Twitter call, Elon Musk fields questions about free speech and bots](https://techcrunch.com/2022/06/16/in-all-hands-twitter-call-elon-musk-fields-questions-about-free-speech-and-bots/)
-- [Indian esports fantasy startup FanClash raises $40 million](https://techcrunch.com/2022/06/16/indian-esports-fantasy-startup-fanclash-raises-40-million/)
-- [Daily Crunch: SpaceX employees blast Musk’s tweets as a ‘source of distraction and embarrassment’](https://techcrunch.com/2022/06/16/daily-crunch-spacex-employees-blast-musks-tweets-as-a-source-of-distraction-and-embarrassment/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
