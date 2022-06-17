@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The moon begins monthly tour of planets early Saturday. First stop, Saturn!](https://www.space.com/moon-joins-saturn-predawn-june-2022/)
-- [Fire shuts down Kitt Peak National Observatory in Arizona](https://www.space.com/fire-evacuation-kitt-peak-observatory-arizona/)
-- [Yandex shifts focus to ya.ru as it heads for media exit in Russia](https://techcrunch.com/2022/06/17/yandex-ya-ru/)
-- [WhatsApp now lets you hide your profile picture and ‘Last seen’ status from specific people](https://techcrunch.com/2022/06/17/whatsapp-hide-profile-picture-last-seen-status/)
-- [Could this ‘quiet company’ kick open the IPO window?](https://techcrunch.com/2022/06/17/could-this-quiet-company-kick-open-the-ipo-window/)
+- [Senators call for US to adopt common charger](https://techcrunch.com/2022/06/17/senators-call-for-us-to-adopt-common-charger/)
+- [Black Gen Z VCs are here and swinging for the fences](https://techcrunch.com/2022/06/17/black-gen-z-vcs-are-here-and-swinging-for-the-fences/)
+- [Researchers say Hermit, a powerful mobile spyware, is used by governments](https://techcrunch.com/2022/06/17/hermit-spyware-government/)
+- [Roku and Walmart partner up to bring shoppable ads to streaming](https://techcrunch.com/2022/06/17/roku-and-walmart-partner-up-to-bring-shoppable-ads-to-streaming/)
+- [As Brex exits the SMB space, its CEO says that doesn’t include startups… at least the funded ones](https://techcrunch.com/2022/06/17/as-brex-exits-the-smb-space-its-ceo-says-that-doesnt-include-startups-at-least-the-funded-ones/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
