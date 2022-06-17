@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to use human-centered AI with Forethought and NEA](https://techcrunch.com/2022/06/17/how-to-use-human-centered-ai-with-forethought-and-nea/)
+- [FDA clears COVID-19 vaccines for children under 5](https://techcrunch.com/2022/06/17/fda-clears-covid-19-vaccines-for-children-under-5/)
 - [Mono aims to be ‘first bankingless bank’ for Latin America’s small businesses](https://techcrunch.com/2022/06/17/mono-digital-bank-latin-americas-small-businesses/)
 - [Immutable launches $500M fund to boost web3 gaming adoption](https://techcrunch.com/2022/06/17/immutable-launches-500m-fund-to-boost-web3-gaming-adoption/)
 - [Brex, which started out serving startups, now says it is ‘less suited to meet the needs of smaller customers’](https://techcrunch.com/2022/06/17/brex-which-started-out-serving-startups-now-says-it-is-less-suited-to-meet-the-needs-of-smaller-customers/)
-- [Snap tests Snapchat Plus, a paid tier for special features and experiments](https://techcrunch.com/2022/06/17/snap-tests-snapchat-plus-a-paid-tier-for-special-features-and-experiments/)
-- [SpaceX said to have fired employees behind company-wide letter criticizing Elon Musk](https://techcrunch.com/2022/06/17/spacex-said-to-have-fired-employees-behind-company-wide-letter-criticizing-elon-musk/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
