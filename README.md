@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The moon begins monthly tour of planets early Saturday. First stop, Saturn!](https://www.space.com/moon-joins-saturn-predawn-june-2022/)
+- [Fire shuts down Kitt Peak National Observatory in Arizona](https://www.space.com/fire-evacuation-kitt-peak-observatory-arizona/)
 - [Yandex shifts focus to ya.ru as it heads for media exit in Russia](https://techcrunch.com/2022/06/17/yandex-ya-ru/)
 - [WhatsApp now lets you hide your profile picture and ‘Last seen’ status from specific people](https://techcrunch.com/2022/06/17/whatsapp-hide-profile-picture-last-seen-status/)
 - [Could this ‘quiet company’ kick open the IPO window?](https://techcrunch.com/2022/06/17/could-this-quiet-company-kick-open-the-ipo-window/)
-- [Canada sunsets its COVID Alert app based on the iOS and Android exposure notification API](https://techcrunch.com/2022/06/17/canada-sunsets-its-covid-alert-app-based-on-the-ios-and-android-exposure-notification-api/)
-- [This feels like a SoftBank deal from 4 years ago](https://techcrunch.com/2022/06/17/this-feels-like-a-softbank-deal-from-4-years-ago/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
