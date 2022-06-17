@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This feels like a SoftBank deal from 4 years ago](https://techcrunch.com/2022/06/17/this-feels-like-a-softbank-deal-from-4-years-ago/)
+- [We turned our investors into our best source of customer feedback](https://techcrunch.com/2022/06/17/we-turned-our-investors-into-our-best-source-of-customer-feedback/)
 - [How to use human-centered AI with Forethought and NEA](https://techcrunch.com/2022/06/17/how-to-use-human-centered-ai-with-forethought-and-nea/)
 - [FDA clears COVID-19 vaccines for children under 5](https://techcrunch.com/2022/06/17/fda-clears-covid-19-vaccines-for-children-under-5/)
 - [Mono aims to be ‘first bankingless bank’ for Latin America’s small businesses](https://techcrunch.com/2022/06/17/mono-digital-bank-latin-americas-small-businesses/)
-- [Immutable launches $500M fund to boost web3 gaming adoption](https://techcrunch.com/2022/06/17/immutable-launches-500m-fund-to-boost-web3-gaming-adoption/)
-- [Brex, which started out serving startups, now says it is ‘less suited to meet the needs of smaller customers’](https://techcrunch.com/2022/06/17/brex-which-started-out-serving-startups-now-says-it-is-less-suited-to-meet-the-needs-of-smaller-customers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
