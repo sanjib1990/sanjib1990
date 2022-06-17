@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Stratolaunch&#39;s huge Roc carrier plane flies higher than ever on 7th test flight](https://www.space.com/stratolaunch-roc-carrier-plane-7th-test-flight/)
-- [TechCrunch+ roundup: Food tech smorgasbord, VCs squeeze crypto founders, startup layoffs 101](https://techcrunch.com/2022/06/17/techcrunch-roundup-food-tech-smorgasbord-vcs-squeeze-crypto-founders-startup-layoffs-101/)
-- [TikTok moves all US traffic to Oracle servers, amid new claims user data was accessed from China](https://techcrunch.com/2022/06/17/tiktok-oracle-us-traffic-china-access/)
-- [New NASA documentary celebrates Black space explorers for Juneteenth](https://www.space.com/nasa-documentary-black-space-explorers-juneteenth/)
-- [SpaceX fires some employees behind letter denouncing Elon Musk&#39;s behavior: reports](https://www.space.com/spacex-fires-employees-anti-elon-musk-letter/)
+- [Black founders are seeing a decrease in funding amid economic downturn](https://techcrunch.com/2022/06/17/black-founders-are-seeing-a-decrease-in-funding-amid-economic-downturn/)
+- [Meta is launching a digital clothing store where you can purchase outfits for your avatar](https://techcrunch.com/2022/06/17/meta-digital-clothing-store-avatar/)
+- [Brex leaving adrift some SMB customers roils corporate spend market](https://techcrunch.com/2022/06/17/brex-leaving-adrift-some-smb-customers-roils-corporate-spend-market/)
+- [Grace debuts privacy-focused parental controls for iOS devices built with Apple’s Screen Time API](https://techcrunch.com/2022/06/17/grace-debuts-privacy-focused-parental-controls-for-ios-devices-built-with-apples-screen-time-api/)
+- [Arizona wildfire reaches some of famed Kitt Peak&#39;s telescopes](https://www.space.com/fire-reaches-kitt-peak-observatory-arizona/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
