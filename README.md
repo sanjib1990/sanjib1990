@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX to launch 3 rockets from 3 pads in 3 days this weekend](https://www.space.com/spacex-three-rocket-launches-three-days-2022/)
+- [In all-hands Twitter call, Elon Musk fields questions about free speech and bots](https://techcrunch.com/2022/06/16/in-all-hands-twitter-call-elon-musk-fields-questions-about-free-speech-and-bots/)
+- [Indian esports fantasy startup FanClash raises $40 million](https://techcrunch.com/2022/06/16/indian-esports-fantasy-startup-fanclash-raises-40-million/)
 - [Daily Crunch: SpaceX employees blast Musk’s tweets as a ‘source of distraction and embarrassment’](https://techcrunch.com/2022/06/16/daily-crunch-spacex-employees-blast-musks-tweets-as-a-source-of-distraction-and-embarrassment/)
 - [Notarize signs off on 25% staff reduction, admits challenging fundraising environment](https://techcrunch.com/2022/06/16/notarize-cuts-25-of-staff/)
-- [Dogecoin investor sues Elon Musk, Tesla and SpaceX for $258 billion](https://techcrunch.com/2022/06/16/dogecoin-investor-sues-elon-musk-tesla-and-spacex-for-258-billion/)
-- [Rare 5-planet alignment comes into better view this week. Here&#39;s what to expect.](https://www.space.com/five-planets-align-rare-skywatching-june-2022/)
-- [Exclusive: &#39;Star Wars&#39; legend Phil Tippett discusses his terrifying new animated odyssey &#39;Mad God&#39;](https://www.space.com/phil-tippett-mad-god-movie-interview/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
