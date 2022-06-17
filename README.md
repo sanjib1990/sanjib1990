@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Yandex shifts focus to ya.ru as it heads for media exit in Russia](https://techcrunch.com/2022/06/17/yandex-ya-ru/)
+- [WhatsApp now lets you hide your profile picture and ‘Last seen’ status from specific people](https://techcrunch.com/2022/06/17/whatsapp-hide-profile-picture-last-seen-status/)
+- [Could this ‘quiet company’ kick open the IPO window?](https://techcrunch.com/2022/06/17/could-this-quiet-company-kick-open-the-ipo-window/)
+- [Canada sunsets its COVID Alert app based on the iOS and Android exposure notification API](https://techcrunch.com/2022/06/17/canada-sunsets-its-covid-alert-app-based-on-the-ios-and-android-exposure-notification-api/)
 - [This feels like a SoftBank deal from 4 years ago](https://techcrunch.com/2022/06/17/this-feels-like-a-softbank-deal-from-4-years-ago/)
-- [We turned our investors into our best source of customer feedback](https://techcrunch.com/2022/06/17/we-turned-our-investors-into-our-best-source-of-customer-feedback/)
-- [How to use human-centered AI with Forethought and NEA](https://techcrunch.com/2022/06/17/how-to-use-human-centered-ai-with-forethought-and-nea/)
-- [FDA clears COVID-19 vaccines for children under 5](https://techcrunch.com/2022/06/17/fda-clears-covid-19-vaccines-for-children-under-5/)
-- [Mono aims to be ‘first bankingless bank’ for Latin America’s small businesses](https://techcrunch.com/2022/06/17/mono-digital-bank-latin-americas-small-businesses/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
