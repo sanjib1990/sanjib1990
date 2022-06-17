@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mono aims to be ‘first bankingless bank’ for Latin America’s small businesses](https://techcrunch.com/2022/06/17/mono-digital-bank-latin-americas-small-businesses/)
+- [Immutable launches $500M fund to boost web3 gaming adoption](https://techcrunch.com/2022/06/17/immutable-launches-500m-fund-to-boost-web3-gaming-adoption/)
+- [Brex, which started out serving startups, now says it is ‘less suited to meet the needs of smaller customers’](https://techcrunch.com/2022/06/17/brex-which-started-out-serving-startups-now-says-it-is-less-suited-to-meet-the-needs-of-smaller-customers/)
+- [Snap tests Snapchat Plus, a paid tier for special features and experiments](https://techcrunch.com/2022/06/17/snap-tests-snapchat-plus-a-paid-tier-for-special-features-and-experiments/)
 - [SpaceX said to have fired employees behind company-wide letter criticizing Elon Musk](https://techcrunch.com/2022/06/17/spacex-said-to-have-fired-employees-behind-company-wide-letter-criticizing-elon-musk/)
-- [On This Day In Space: June 17, 1985: First Arab and Muslim in Space](https://www.space.com/39251-on-this-day-in-space.html/)
-- [UK grants extradition to US of Wikileaks founder, Julian Assange](https://techcrunch.com/2022/06/17/julian-assange-us-extradition-decision/)
-- [Hubble Space Telescope&#39;s cosmic birdwatching finds a crane amid the stars](https://www.space.com/hubble-space-telescope-photo-grus-galaxy/)
-- [&#39;Factorian Deep,&#39; the new deepest point in Antarctica&#39;s Southern Ocean, mapped for the first time](https://www.space.com/antarctica-southern-ocean-factorian-deep/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
