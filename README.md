@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Stratolaunch&#39;s huge Roc carrier plane flies higher than ever on 7th test flight](https://www.space.com/stratolaunch-roc-carrier-plane-7th-test-flight/)
 - [TechCrunch+ roundup: Food tech smorgasbord, VCs squeeze crypto founders, startup layoffs 101](https://techcrunch.com/2022/06/17/techcrunch-roundup-food-tech-smorgasbord-vcs-squeeze-crypto-founders-startup-layoffs-101/)
 - [TikTok moves all US traffic to Oracle servers, amid new claims user data was accessed from China](https://techcrunch.com/2022/06/17/tiktok-oracle-us-traffic-china-access/)
 - [New NASA documentary celebrates Black space explorers for Juneteenth](https://www.space.com/nasa-documentary-black-space-explorers-juneteenth/)
 - [SpaceX fires some employees behind letter denouncing Elon Musk&#39;s behavior: reports](https://www.space.com/spacex-fires-employees-anti-elon-musk-letter/)
-- [An inside look at 2150 VC’s bet on urban tech to tackle the climate crisis](https://techcrunch.com/2022/06/17/an-inside-look-at-2150-vcs-bet-on-urban-tech-to-tackle-the-climate-crisis/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
