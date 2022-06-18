@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Founders of recycling startups say the pandemic changed the investment game](https://techcrunch.com/2022/06/18/founders-of-recycling-startups-say-the-pandemic-changed-the-investment-game/)
 - [Microsoft and Meta join Google in using AI to help run their data centers](https://techcrunch.com/2022/06/18/microsoft-and-meta-join-google-in-using-ai-to-help-run-their-data-centers/)
 - [This Week In Space podcast: Episode 16 — The best &lpar;and worst&rpar; space shows we know](https://www.space.com/this-week-in-space-podcast-twit/)
 - [&#39;Beyond Infinity&#39; launches deep into Buzz Lightyear&#39;s history on Disney Plus](https://www.space.com/beyond-infinity-deep-lightyear-history-disney-plus/)
 - [On This Day In Space: June 18, 1983: Sally Ride becomes America&#39;s 1st woman in space](https://www.space.com/39251-on-this-day-in-space.html/)
-- [Look up! See the moon shine near massive asteroid Vesta this weekend.](https://www.space.com/moon-approaches-asteroid-vesta-june-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
