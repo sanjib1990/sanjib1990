@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s Artemis 1 moon rocket begins crucial prelaunch test today](https://www.space.com/artemis-1-moon-rocket-wet-dress-rehearsal-begins-today/)
+- [Statue of Sally Ride, first American woman in space, unveiled at aviation museum](https://www.space.com/astronaut-sally-ride-statue-unveiling/)
 - [Pentaform launches AbacusBasic, the ‘world’s most affordable PC’](https://techcrunch.com/2022/06/18/pentaform-abacusbasic/)
 - [Watch SpaceX launch German military satellite, land rocket Saturday](https://www.space.com/spacex-launch-german-military-satellite-sarah1/)
 - [Layoffs hit crypto and real estate tech particularly hard this week](https://techcrunch.com/2022/06/17/layoffs-crypto-real-estate-tech-june/)
-- [Daily Crunch: Citing ‘overreaching activism,’ SpaceX reportedly fires workers who decried Musk’s behavior](https://techcrunch.com/2022/06/17/daily-crunch-citing-overreaching-activism-spacex-reportedly-fires-workers-who-decried-musks-behavi/)
-- [Black founders are seeing a decrease in funding amid economic downturn](https://techcrunch.com/2022/06/17/black-founders-are-seeing-a-decrease-in-funding-amid-economic-downturn/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
