@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Down bad](https://techcrunch.com/2022/06/18/down-bad/)
+- [Another brutal week for crypto and crypto companies](https://techcrunch.com/2022/06/18/another-brutal-week-for-crypto-and-crypto-companies/)
 - [This Week in Apps: Apple’s Sherlocks, Instagram’s ‘nudges’ and a TikTok-Oracle deal](https://techcrunch.com/2022/06/18/this-week-in-apps-apples-sherlocks-instagrams-nudges-and-a-tiktok-oracle-deal/)
 - [I’m not too worried about recommending another &lpar;few&rpar; tech podcasts](https://techcrunch.com/2022/06/18/im-not-too-worried-about-recommending-you-another-few-tech-podcasts/)
 - [The rise of API-first companies, in fintech and beyond](https://techcrunch.com/2022/06/18/the-rise-of-api-first-companies-in-fintech-and-beyond/)
-- [Bitcoin falls below $20,000 and Ethereum sinks past $1,000 as crypto market free fall continues](https://techcrunch.com/2022/06/18/bitcoin-falls-below-20000-and-ethereum-sinks-past-1000-as-crypto-market-free-fall-continues/)
-- [Watch SpaceX launch 3rd rocket in 36 hours early Sunday](https://www.space.com/spacex-launch-globalstar-satellite-land-rocket/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
