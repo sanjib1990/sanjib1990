@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I’m not too worried about recommending another &lpar;few&rpar; tech podcasts](https://techcrunch.com/2022/06/18/im-not-too-worried-about-recommending-you-another-few-tech-podcasts/)
 - [The rise of API-first companies, in fintech and beyond](https://techcrunch.com/2022/06/18/the-rise-of-api-first-companies-in-fintech-and-beyond/)
 - [Bitcoin falls below $20,000 and Ethereum sinks past $1,000 as crypto market free fall continues](https://techcrunch.com/2022/06/18/bitcoin-falls-below-20000-and-ethereum-sinks-past-1000-as-crypto-market-free-fall-continues/)
 - [Watch SpaceX launch 3rd rocket in 36 hours early Sunday](https://www.space.com/spacex-launch-globalstar-satellite-land-rocket/)
 - [Founders of recycling startups say the pandemic changed the investment game](https://techcrunch.com/2022/06/18/founders-of-recycling-startups-say-the-pandemic-changed-the-investment-game/)
-- [Microsoft and Meta join Google in using AI to help run their data centers](https://techcrunch.com/2022/06/18/microsoft-and-meta-join-google-in-using-ai-to-help-run-their-data-centers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
