@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft and Meta join Google in using AI to help run their data centers](https://techcrunch.com/2022/06/18/microsoft-and-meta-join-google-in-using-ai-to-help-run-their-data-centers/)
 - [This Week In Space podcast: Episode 16 — The best &lpar;and worst&rpar; space shows we know](https://www.space.com/this-week-in-space-podcast-twit/)
 - [&#39;Beyond Infinity&#39; launches deep into Buzz Lightyear&#39;s history on Disney Plus](https://www.space.com/beyond-infinity-deep-lightyear-history-disney-plus/)
 - [On This Day In Space: June 18, 1983: Sally Ride becomes America&#39;s 1st woman in space](https://www.space.com/39251-on-this-day-in-space.html/)
 - [Look up! See the moon shine near massive asteroid Vesta this weekend.](https://www.space.com/moon-approaches-asteroid-vesta-june-2022/)
-- [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
