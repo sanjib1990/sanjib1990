@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
 - [Down bad](https://techcrunch.com/2022/06/18/down-bad/)
 - [Another brutal week for crypto and crypto companies](https://techcrunch.com/2022/06/18/another-brutal-week-for-crypto-and-crypto-companies/)
 - [This Week in Apps: Apple’s Sherlocks, Instagram’s ‘nudges’ and a TikTok-Oracle deal](https://techcrunch.com/2022/06/18/this-week-in-apps-apples-sherlocks-instagrams-nudges-and-a-tiktok-oracle-deal/)
 - [I’m not too worried about recommending another &lpar;few&rpar; tech podcasts](https://techcrunch.com/2022/06/18/im-not-too-worried-about-recommending-you-another-few-tech-podcasts/)
-- [The rise of API-first companies, in fintech and beyond](https://techcrunch.com/2022/06/18/the-rise-of-api-first-companies-in-fintech-and-beyond/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
