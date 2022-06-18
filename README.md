@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s Artemis 1 moon rocket begins crucial prelaunch test today](https://www.space.com/artemis-1-moon-rocket-wet-dress-rehearsal-begins-today/)
-- [Statue of Sally Ride, first American woman in space, unveiled at aviation museum](https://www.space.com/astronaut-sally-ride-statue-unveiling/)
-- [Pentaform launches AbacusBasic, the ‘world’s most affordable PC’](https://techcrunch.com/2022/06/18/pentaform-abacusbasic/)
-- [Watch SpaceX launch German military satellite, land rocket Saturday](https://www.space.com/spacex-launch-german-military-satellite-sarah1/)
-- [Layoffs hit crypto and real estate tech particularly hard this week](https://techcrunch.com/2022/06/17/layoffs-crypto-real-estate-tech-june/)
+- [This Week In Space podcast: Episode 16 — The best &lpar;and worst&rpar; space shows we know](https://www.space.com/this-week-in-space-podcast-twit/)
+- [&#39;Beyond Infinity&#39; launches deep into Buzz Lightyear&#39;s history on Disney Plus](https://www.space.com/beyond-infinity-deep-lightyear-history-disney-plus/)
+- [On This Day In Space: June 18, 1983: Sally Ride becomes America&#39;s 1st woman in space](https://www.space.com/39251-on-this-day-in-space.html/)
+- [Look up! See the moon shine near massive asteroid Vesta this weekend.](https://www.space.com/moon-approaches-asteroid-vesta-june-2022/)
+- [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
