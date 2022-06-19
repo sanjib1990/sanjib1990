@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [‘How doomed are we?’ and more questions for a climate expert](https://techcrunch.com/2022/06/19/how-doomed-are-we-climate-expert-global-warming-2022/)
+- [International Space Station dodges orbital debris from Russian anti-satellite test](https://www.space.com/space-station-dodges-russian-satellite-debris/)
+- [Robotics expert Robin Murphy explains why &#39;Star Wars&#39; robots don&#39;t reflect reality](https://www.space.com/star-wars-robots-sci-fi-versus-reality/)
+- [Why did Brex really decide to ditch SMBs?](https://techcrunch.com/2022/06/19/what-was-really-behind-brexs-decision-to-ditch-smbs/)
 - [Planning for the Impossible](https://techcrunch.com/2022/06/19/planning-for-the-impossible/)
-- [On This Day In Space: June 19, 1963: Vostok 5 &amp; Vostok 6 return to Earth](https://www.space.com/39251-on-this-day-in-space.html/)
-- [Hubble Space Telescope starstruck by a mysterious globular cluster &lpar;photo&rpar;](https://www.space.com/hubble-space-telescope-starstruck-cluster-photo/)
-- [NASA&#39;s Lucy mission adds 9th asteroid to its list of attractions](https://www.space.com/lucy-trojan-asteroid-companion-discovery/)
-- [Newly spotted asteroid near Venus earns name from Pauma band of Native Americans](https://www.space.com/asteroid-venus-girl-indigenous-pauma-name/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
