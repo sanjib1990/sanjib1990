@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
 - [‘How doomed are we?’ and more questions for a climate expert](https://techcrunch.com/2022/06/19/how-doomed-are-we-climate-expert-global-warming-2022/)
 - [International Space Station dodges orbital debris from Russian anti-satellite test](https://www.space.com/space-station-dodges-russian-satellite-debris/)
 - [Robotics expert Robin Murphy explains why &#39;Star Wars&#39; robots don&#39;t reflect reality](https://www.space.com/star-wars-robots-sci-fi-versus-reality/)
 - [Why did Brex really decide to ditch SMBs?](https://techcrunch.com/2022/06/19/what-was-really-behind-brexs-decision-to-ditch-smbs/)
-- [Planning for the Impossible](https://techcrunch.com/2022/06/19/planning-for-the-impossible/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
