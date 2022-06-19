@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX launches and lands 3rd rocket in 36 hours](https://www.space.com/spacex-launch-globalstar-satellite-land-rocket/)
+- [An Apple store in Maryland makes history by forming the company’s first recognized union](https://techcrunch.com/2022/06/18/apple-store-union-maryland-win-vote/)
 - [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
 - [Down bad](https://techcrunch.com/2022/06/18/down-bad/)
 - [Another brutal week for crypto and crypto companies](https://techcrunch.com/2022/06/18/another-brutal-week-for-crypto-and-crypto-companies/)
-- [This Week in Apps: Apple’s Sherlocks, Instagram’s ‘nudges’ and a TikTok-Oracle deal](https://techcrunch.com/2022/06/18/this-week-in-apps-apples-sherlocks-instagrams-nudges-and-a-tiktok-oracle-deal/)
-- [I’m not too worried about recommending another &lpar;few&rpar; tech podcasts](https://techcrunch.com/2022/06/18/im-not-too-worried-about-recommending-you-another-few-tech-podcasts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
