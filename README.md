@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Planning for the Impossible](https://techcrunch.com/2022/06/19/planning-for-the-impossible/)
 - [On This Day In Space: June 19, 1963: Vostok 5 &amp; Vostok 6 return to Earth](https://www.space.com/39251-on-this-day-in-space.html/)
 - [Hubble Space Telescope starstruck by a mysterious globular cluster &lpar;photo&rpar;](https://www.space.com/hubble-space-telescope-starstruck-cluster-photo/)
 - [NASA&#39;s Lucy mission adds 9th asteroid to its list of attractions](https://www.space.com/lucy-trojan-asteroid-companion-discovery/)
 - [Newly spotted asteroid near Venus earns name from Pauma band of Native Americans](https://www.space.com/asteroid-venus-girl-indigenous-pauma-name/)
-- [SpaceX launches and lands 3rd rocket in 36 hours](https://www.space.com/spacex-launch-globalstar-satellite-land-rocket/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
