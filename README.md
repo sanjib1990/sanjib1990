@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India’s CityMall cuts 191 jobs following $75 million fundraise in late March](https://techcrunch.com/2022/06/19/indias-citymall-cuts-191-jobs-following-75-million-fundraise-in-late-march/)
 - [Bill Gates doesn’t know how Elon Musk finds the time and other TC news](https://techcrunch.com/2022/06/19/bill-gates-doesnt-know-how-elon-musk-finds-the-time-and-other-tc-news/)
 - [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
 - [‘How doomed are we?’ and more questions for a climate expert](https://techcrunch.com/2022/06/19/how-doomed-are-we-climate-expert-global-warming-2022/)
 - [International Space Station dodges orbital debris from Russian anti-satellite test](https://www.space.com/space-station-dodges-russian-satellite-debris/)
-- [Robotics expert Robin Murphy explains why &#39;Star Wars&#39; robots don&#39;t reflect reality](https://www.space.com/star-wars-robots-sci-fi-versus-reality/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
