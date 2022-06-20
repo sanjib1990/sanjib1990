@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Saltalk turns up the heat on its virtual kitchen following new $8M cash infusion](https://techcrunch.com/2022/06/20/saltalk-turns-up-the-heat-on-its-virtual-kitchen-following-new-8m-cash-infusion/)
+- [Can capitalism solve climate change?](https://techcrunch.com/2022/06/20/capitalism-create-climate-change-corporate-social-responsibility/)
+- [Afropolitan raises millions from Balaji Srinivasan and others to build a digital nation](https://techcrunch.com/2022/06/20/afropolitan-raises-2-1m-to-build-a-digital-nation-backed-by-balaji-srinivasan/)
 - [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
+- [Saltalk turns up the heat on its virtual kitchen following new $8M cash infusion](https://techcrunch.com/2022/06/20/saltalk-turns-up-the-heat-on-its-virtual-kitchen-following-new-8m-cash-infusion/)
 - [Ransomware ring claims attack on Africa’s largest retail chain Shoprite](https://techcrunch.com/2022/06/20/ransonware-ring-claims-attack-on-africas-largest-retail-chain-shoprite/)
-- [NASA channeled its inner Buzz Lightyear with this wild Z-1 spacesuit concept](https://www.space.com/nasa-channeled-buzz-lightyear-z-1/)
-- [The moon will cozy up to Jupiter early Tuesday morning as it continues its planetary tour](https://www.space.com/moon-approaches-jupiter-june-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
