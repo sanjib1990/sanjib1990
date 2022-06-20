@@ -94,10 +94,10 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Lego Star Wars UCS Millennium Falcon review](https://www.space.com/lego-star-wars-ucs-millennium-falcon-75192/)
-- [Iran to cut electricity to authorized crypto miners: report](https://techcrunch.com/2022/06/19/iran-to-cut-electricity-to-authorized-crypto-miners-report/)
-- [Rider is taking a nimble approach to e-commerce logistics in Pakistan](https://techcrunch.com/2022/06/19/rider-is-taking-a-nimble-approach-to-e-commerce-logistics-in-pakistan/)
-- [Box CEO Aaron Levie on where web3 doesn’t make sense](https://techcrunch.com/2022/06/19/box-ceo-aaron-levie-on-where-web3-doesnt-make-sense/)
+- [The moon will cozy up to Jupiter early Tuesday morning as it continues its planetary tour](https://www.space.com/moon-approaches-jupiter-june-2022/)
+- [&#39;Betelgeuse on steroids&#39; sheds light on how rare massive stars die](https://www.space.com/rare-hypergiant-star-death/)
+- [Hubble Space Telescope shows 5,000 ancient galaxies sparkling like confetti](https://www.space.com/hubble-space-telescope-thousands-ancient-galaxies-photo/)
+- [Andromeda galaxy bears scars of a catastrophic collision](https://www.space.com/andromeda-galaxy-collision-history/)
 - [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
 <!-- BLOG-POST-LIST:END -->
 
