@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [10 tips for running effective board meetings](https://techcrunch.com/2022/06/20/how-to-run-effective-board-meetings/)
+- [LG Nova announces its Mission for the Future startup selectees.](https://techcrunch.com/2022/06/20/mission-for-the-future-lg-nova-selectees/)
+- [Klarna’s potential valuation cut to $15B appears sufficiently steep](https://techcrunch.com/2022/06/20/klarnas-potential-valuation-cut-to-15b-appears-sufficiently-steep/)
+- [Platform.sh secures $140M for web app development tools](https://techcrunch.com/2022/06/20/platform-sh-secures-140m-for-web-app-development-tools/)
 - [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
-- [On This Day In Space: June 20, 1983: Space Shuttle Challenger deploys Palapa B satellite](https://www.space.com/39251-on-this-day-in-space.html/)
-- [Meta’s latest VR headset prototypes will help it pass the ‘Visual Turing test’](https://techcrunch.com/2022/06/20/metas-latest-vr-headset-prototypes-will-help-it-pass-the-visual-turing-test/)
-- [Can we trust capitalism to solve climate change?](https://techcrunch.com/2022/06/20/capitalism-create-climate-change-corporate-social-responsibility/)
+- [Final 50 tickets left to TechCrunch’s Annual Summer Party](https://techcrunch.com/2022/06/20/final-50-tickets-left-to-techcrunchs-annual-summer-party/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
