@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Iran to cut electricity to authorized crypto miners: report](https://techcrunch.com/2022/06/19/iran-to-cut-electricity-to-authorized-crypto-miners-report/)
 - [Rider is taking a nimble approach to e-commerce logistics in Pakistan](https://techcrunch.com/2022/06/19/rider-is-taking-a-nimble-approach-to-e-commerce-logistics-in-pakistan/)
 - [Box CEO Aaron Levie on where web3 doesn’t make sense](https://techcrunch.com/2022/06/19/box-ceo-aaron-levie-on-where-web3-doesnt-make-sense/)
 - [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
 - [Telegram tops 700 million users, launches premium tier](https://techcrunch.com/2022/06/19/telegram-tops-700-million-users-launches-premium-tier/)
-- [&#39;Obi-Wan Kenobi&#39; episode 5: The force unleashed](https://www.space.com/obi-wan-kenobi-episode-5-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
