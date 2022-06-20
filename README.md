@@ -94,9 +94,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
 - [Indian market regulator fines Reliance for not properly disclosing Facebook deal](https://techcrunch.com/2022/06/20/indian-market-regulator-fines-reliance-for-not-properly-disclosing-facebook-deal/)
 - [Scientists find remains of cannibalized baby planets in Jupiter&#39;s cloud-covered belly](https://www.space.com/jupiter-ate-baby-planets-while-growing/)
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
 - [UK scaleups should HMRC-proof their business plans before a slow, hot summer](https://techcrunch.com/2022/06/20/uk-scaleups-should-hmrc-proof-their-business-plans-before-a-slow-hot-summer/)
 - [James Webb Space Telescope is about halfway through its instrument checks](https://www.space.com/webb-halfway-instrument-checks/)
 <!-- BLOG-POST-LIST:END -->
