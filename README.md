@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The moon will cozy up to Jupiter early Tuesday morning as it continues its planetary tour](https://www.space.com/moon-approaches-jupiter-june-2022/)
-- [&#39;Betelgeuse on steroids&#39; sheds light on how rare massive stars die](https://www.space.com/rare-hypergiant-star-death/)
-- [Hubble Space Telescope shows 5,000 ancient galaxies sparkling like confetti](https://www.space.com/hubble-space-telescope-thousands-ancient-galaxies-photo/)
-- [Andromeda galaxy bears scars of a catastrophic collision](https://www.space.com/andromeda-galaxy-collision-history/)
+- [Saltalk turns up the heat on its virtual kitchen following new $8M cash infusion](https://techcrunch.com/2022/06/20/saltalk-turns-up-the-heat-on-its-virtual-kitchen-following-new-8m-cash-infusion/)
 - [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
+- [Ransomware ring claims attack on Africa’s largest retail chain Shoprite](https://techcrunch.com/2022/06/20/ransonware-ring-claims-attack-on-africas-largest-retail-chain-shoprite/)
+- [NASA channeled its inner Buzz Lightyear with this wild Z-1 spacesuit concept](https://www.space.com/nasa-channeled-buzz-lightyear-z-1/)
+- [The moon will cozy up to Jupiter early Tuesday morning as it continues its planetary tour](https://www.space.com/moon-approaches-jupiter-june-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
