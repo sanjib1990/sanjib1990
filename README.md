@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Can capitalism solve climate change?](https://techcrunch.com/2022/06/20/capitalism-create-climate-change-corporate-social-responsibility/)
-- [Afropolitan raises millions from Balaji Srinivasan and others to build a digital nation](https://techcrunch.com/2022/06/20/afropolitan-raises-2-1m-to-build-a-digital-nation-backed-by-balaji-srinivasan/)
+- [10 tips for running effective board meetings](https://techcrunch.com/2022/06/20/how-to-run-effective-board-meetings/)
 - [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
-- [Saltalk turns up the heat on its virtual kitchen following new $8M cash infusion](https://techcrunch.com/2022/06/20/saltalk-turns-up-the-heat-on-its-virtual-kitchen-following-new-8m-cash-infusion/)
-- [Ransomware ring claims attack on Africa’s largest retail chain Shoprite](https://techcrunch.com/2022/06/20/ransonware-ring-claims-attack-on-africas-largest-retail-chain-shoprite/)
+- [On This Day In Space: June 20, 1983: Space Shuttle Challenger deploys Palapa B satellite](https://www.space.com/39251-on-this-day-in-space.html/)
+- [Meta’s latest VR headset prototypes will help it pass the ‘Visual Turing test’](https://techcrunch.com/2022/06/20/metas-latest-vr-headset-prototypes-will-help-it-pass-the-visual-turing-test/)
+- [Can we trust capitalism to solve climate change?](https://techcrunch.com/2022/06/20/capitalism-create-climate-change-corporate-social-responsibility/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
