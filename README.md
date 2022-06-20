@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Box CEO Aaron Levie on where web3 doesn’t make sense](https://techcrunch.com/2022/06/19/box-ceo-aaron-levie-on-where-web3-doesnt-make-sense/)
 - [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
 - [Telegram tops 700 million users, launches premium tier](https://techcrunch.com/2022/06/19/telegram-tops-700-million-users-launches-premium-tier/)
 - [&#39;Obi-Wan Kenobi&#39; episode 5: The force unleashed](https://www.space.com/obi-wan-kenobi-episode-5-review/)
 - [India’s CityMall cuts 191 jobs following $75 million fundraise in late March](https://techcrunch.com/2022/06/19/indias-citymall-cuts-191-jobs-following-75-million-fundraise-in-late-march/)
-- [Bill Gates doesn’t know how Elon Musk finds the time and other TC news](https://techcrunch.com/2022/06/19/bill-gates-doesnt-know-how-elon-musk-finds-the-time-and-other-tc-news/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
