@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
+- [James Webb Space Telescope is about halfway through its instrument checks](https://www.space.com/webb-halfway-instrument-checks/)
 - [LG Nova announces its Mission for the Future startup selectees.](https://techcrunch.com/2022/06/20/mission-for-the-future-lg-nova-selectees/)
 - [Klarna’s potential valuation cut to $15B appears sufficiently steep](https://techcrunch.com/2022/06/20/klarnas-potential-valuation-cut-to-15b-appears-sufficiently-steep/)
 - [Platform.sh secures $140M for web app development tools](https://techcrunch.com/2022/06/20/platform-sh-secures-140m-for-web-app-development-tools/)
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
-- [Final 50 tickets left to TechCrunch’s Annual Summer Party](https://techcrunch.com/2022/06/20/final-50-tickets-left-to-techcrunchs-annual-summer-party/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
