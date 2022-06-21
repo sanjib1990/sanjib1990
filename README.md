@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nikon 10x50 Aculon A211 binoculars review](https://www.space.com/nikon-10x50-aculon-a211-binoculars-review/)
+- [Paramount+ announces plan for 150 international originals ahead of U.K. and Ireland launch](https://techcrunch.com/2022/06/21/paramount-announces-plan-for-150-international-originals-ahead-of-u-k-and-ireland-launch/)
 - [Deal terms look different in a downturn. Here’s what to watch out for](https://techcrunch.com/2022/06/21/deal-terms-look-different-in-a-downturn-heres-what-to-watch-out-for/)
 - [Kitt Peak telescopes remain standing after Arizona wildfire claims at least 4 buildings on site](https://www.space.com/kitt-peak-observatory-wildfire-telescopes-standing/)
 - [Join secures new cash to build a ‘decision-making’ platform for construction](https://techcrunch.com/2022/06/21/join-secures-new-cash-to-build-a-decision-making-platform-for-construction/)
-- [The fintech funding market is not dead](https://techcrunch.com/2022/06/21/the-fintech-funding-market-is-not-dead/)
-- [Meta to roll out new monetization tools on Instagram and Facebook, including a creator marketplace](https://techcrunch.com/2022/06/21/meta-new-monetization-tools-on-instagram-facebook-creator-marketplace/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
