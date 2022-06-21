@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [On This Day In Space: June 21, 2004: SpaceShipOne makes 1st privately funded human spaceflight](https://www.space.com/39251-on-this-day-in-space.html/)
-- [Summer solstice 2022 marks the longest day in the Northern Hemisphere](https://www.space.com/summer-solstice-2022-longest-day-today/)
-- [Hubble Space Telescope &#39;sea of sequins&#39; image shows off a star cluster](https://www.space.com/hubble-space-telescope-photo-sequins-star-cluster/)
-- [In the new Disney Pixar movie Lightyear, time gets bendy. Is time travel real, or just science fiction?](https://www.space.com/lightyear-movie-time-travel-explained/)
-- [Google Maps restrictions trigger competition scrutiny in Germany](https://techcrunch.com/2022/06/21/google-maps-germany-fco-antitrust/)
+- [Redwood Materials partners with Toyota to recycle batteries in US](https://techcrunch.com/2022/06/21/redwood-materials-partners-with-toyota-to-recycle-batteries-in-us/)
+- [Magic Eden raises $130M, hitting unicorn status at $1.6B valuation](https://techcrunch.com/2022/06/21/magic-eden-raises-130m-hitting-unicorn-status-at-1-6b-valuation/)
+- [Google drops appeal against €500M antitrust news licensing fine](https://techcrunch.com/2022/06/21/google-france-antitrust-news-licensing/)
+- [Neobank Stashfin raises $270 million, tops $700 million valuation](https://techcrunch.com/2022/06/21/neobank-stashfin-raises-270-million-tops-700-million-valuation/)
+- [Best Lego deals: Space, Star Wars, Marvel and DC Lego deals](https://www.space.com/38810-best-lego-deals.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
