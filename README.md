@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nigerian at-home lab testing platform Healthtracka gets $1.5M, backed by female VCs](https://techcrunch.com/2022/06/21/nigerian-at-home-lab-testing-platform-healthtracka-gets-1-5m-backed-by-female-vcs/)
+- [Kibo School gets $2M to offer online STEM degrees to students in Africa](https://techcrunch.com/2022/06/21/kibo-school-gets-2m-to-offer-online-stem-degrees-to-students-in-africa/)
+- [Matrix Partners is raising $450 million for new India fund](https://techcrunch.com/2022/06/21/matrix-partners-is-raising-450-million-for-new-india-fund/)
 - [Ghana’s fintech Fido raises $30M to roll out new products and expand across Africa](https://techcrunch.com/2022/06/21/ghanas-fintech-fido-raises-30m-to-roll-out-new-products-and-expand-across-africa/)
-- [Cloudflare outage knocks popular services offline](https://techcrunch.com/2022/06/20/cloudflare-outage-knocks-popular-services-offline/)
-- [Sequoia Capital India and Founders Fund back UAE-based proptech startup Huspy in its $37M round](https://techcrunch.com/2022/06/20/sequoia-capital-india-and-founders-fund-back-uae-proptech-startup-huspy-in-its-37m-round/)
-- [Bybit crypto exchange joins the the list of companies cutting staff](https://techcrunch.com/2022/06/20/bybit-crypto-exchange-joins-the-the-list-of-companies-cutting-staff/)
-- [Omio raises $80M as travel demand rebounds after years of COVID-19 crisis](https://techcrunch.com/2022/06/20/omio-series-e/)
+- [Cloudflare fixes outage that knocked popular services offline](https://techcrunch.com/2022/06/20/cloudflare-outage-knocks-popular-services-offline/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
