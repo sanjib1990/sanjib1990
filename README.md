@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [This Ukrainian deeptech startup has trained an AI to paint war art](https://techcrunch.com/2022/06/21/ukraine-sirens-gallery-nft-ai-war-art/)
-- [SpaceX and OneWeb tell FCC their broadband megaconstellations can coexist](https://www.space.com/spacex-oneweb-satellite-internet-constellation-coexistence/)
-- [The moon will swing by Mars early Wednesday morning as it continues its planetary tour](https://www.space.com/moon-approaches-mars-june-2022/)
-- [Finger on your pulse: API-first startup Vivanta hopes to be Plaid for health](https://techcrunch.com/2022/06/21/finger-on-your-pulse-api-first-startup-vivanta-hopes-to-be-plaid-for-health/)
-- [Copilot, GitHub’s AI-powered programming assistant, is now generally available](https://techcrunch.com/2022/06/21/copilot-githubs-ai-powered-programming-assistant-is-now-generally-available/)
+- [Sinclair to launch $20/mo direct-to-consumer streaming service Bally Sports+ on June 23](https://techcrunch.com/2022/06/21/sinclair-to-launch-20-mo-direct-to-consumer-streaming-service-bally-sports-on-june-23/)
+- [Meta, Microsoft, NVIDIA, Unity and others form Metaverse Standards Forum](https://techcrunch.com/2022/06/21/metaverse-standards-forum-meta-microsoft-nvidia-unity/)
+- [Meta settles lawsuit with Justice Department over ad-serving algorithms](https://techcrunch.com/2022/06/21/meta-settles-lawsuit-with-justice-department-over-ad-serving-algorithms/)
+- [Propstore auctions rare screen-used &#39;Red Leader&#39; X-wing model from &#39;Star Wars: A New Hope&#39; &lpar;exclusive&rpar;](https://www.space.com/star-wars-x-wing-propstore-auction/)
+- [China plans to return Mars samples to Earth in 2031: report](https://www.space.com/china-return-mars-samples-earth-2031/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
