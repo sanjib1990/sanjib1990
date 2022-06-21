@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Ukrainian deeptech startup has trained an AI to paint war art](https://techcrunch.com/2022/06/21/ukraine-sirens-gallery-nft-ai-war-art/)
+- [SpaceX and OneWeb tell FCC their broadband megaconstellations can coexist](https://www.space.com/spacex-oneweb-satellite-internet-constellation-coexistence/)
 - [The moon will swing by Mars early Wednesday morning as it continues its planetary tour](https://www.space.com/moon-approaches-mars-june-2022/)
 - [Finger on your pulse: API-first startup Vivanta hopes to be Plaid for health](https://techcrunch.com/2022/06/21/finger-on-your-pulse-api-first-startup-vivanta-hopes-to-be-plaid-for-health/)
 - [Copilot, GitHub’s AI-powered programming assistant, is now generally available](https://techcrunch.com/2022/06/21/copilot-githubs-ai-powered-programming-assistant-is-now-generally-available/)
-- [World&#39;s largest liquid mirror telescope ready to observe](https://www.space.com/largest-liquid-mirror-telescope-opens-india/)
-- [Tesla sued by former workers for allegedly violating federal law during ‘mass layoffs’](https://techcrunch.com/2022/06/21/tesla-sued-by-former-workers-for-allegedly-violating-federal-law-during-mass-layoffs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
