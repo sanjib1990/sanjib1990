@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Impossible Mining is combing the seafloor for battery metals](https://techcrunch.com/2022/06/21/impossible-mining-is-combing-the-seafloor-for-battery-metals/)
+- [Cloudflare outage hit crypto exchanges FTX, Bitfinex and more](https://techcrunch.com/2022/06/21/cloudflare-outage-crypto-exchanges/)
+- [Echobot and Leadfeeder merge, raise $190M in Euro sales tech consolidation play](https://techcrunch.com/2022/06/21/echobot-and-leadfeeder-merge-raise-190m-in-euro-sales-tech-consolidation-play/)
 - [Nigerian at-home lab testing platform Healthtracka gets $1.5M, backed by female VCs](https://techcrunch.com/2022/06/21/nigerian-at-home-lab-testing-platform-healthtracka-gets-1-5m-backed-by-female-vcs/)
 - [Kibo School gets $2M to offer online STEM degrees to students in Africa](https://techcrunch.com/2022/06/21/kibo-school-gets-2m-to-offer-online-stem-degrees-to-students-in-africa/)
-- [Matrix Partners is raising $450 million for new India fund](https://techcrunch.com/2022/06/21/matrix-partners-is-raising-450-million-for-new-india-fund/)
-- [Ghana’s fintech Fido raises $30M to roll out new products and expand across Africa](https://techcrunch.com/2022/06/21/ghanas-fintech-fido-raises-30m-to-roll-out-new-products-and-expand-across-africa/)
-- [Cloudflare fixes outage that knocked popular services offline](https://techcrunch.com/2022/06/20/cloudflare-outage-knocks-popular-services-offline/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
