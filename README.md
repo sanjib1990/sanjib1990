@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sequoia Capital India and Founders Fund back UAE-based proptech startup Huspy in its $37M round](https://techcrunch.com/2022/06/20/sequoia-capital-india-and-founders-fund-back-uae-proptech-startup-huspy-in-its-37m-round/)
+- [Bybit crypto exchange joins the the list of companies cutting staff](https://techcrunch.com/2022/06/20/bybit-crypto-exchange-joins-the-the-list-of-companies-cutting-staff/)
 - [Omio raises $80M as travel demand rebounds after years of COVID-19 crisis](https://techcrunch.com/2022/06/20/omio-series-e/)
 - [NASA&#39;s Artemis 1 moon mission passes crucial fueling test despite leak](https://www.space.com/artemis-1-moon-rocket-wet-dress-rehearsal-success/)
 - [Vahak wants to improve the lives of India’s truck drivers](https://techcrunch.com/2022/06/20/vahak-wants-to-improve-the-lives-of-indias-truck-drivers/)
-- [LocalGlobe becomes Phoenix Court Group, hits $500M first close for new funds, adds an Impact twist](https://techcrunch.com/2022/06/20/localglobe-becomes-phoenix-court-group-hits-500m-first-close-for-new-funds-adds-an-impact-twist/)
-- [Max Q: Space ‘Xed](https://techcrunch.com/2022/06/20/max-q-space-xed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
