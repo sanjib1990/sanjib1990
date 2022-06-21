@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Bill Gates offers guidance on what climate technologies he’s looking to fund](https://techcrunch.com/2022/06/21/bill-gates-offers-guidance-on-what-climate-technologies-hes-looking-to-fund/)
-- [Solar wind: What is it and how does it affect Earth?](https://www.space.com/22215-solar-wind.html/)
-- [Twitter asks shareholders to approve the $44 billion Elon Musk takeover](https://techcrunch.com/2022/06/21/twitter-asks-shareholders-to-approve-the-44-billion-elon-musk-takeover/)
-- [Hackers stole Social Security numbers in Flagstar data breach affecting 1.5 million customers](https://techcrunch.com/2022/06/21/flagstar-bank-social-security-numbers/)
-- [Validio, a data quality platform based out of Sweden, emerges from stealth with $15M](https://techcrunch.com/2022/06/21/validio-a-data-quality-platform-based-out-of-sweden-emerges-from-stealth-with-15m/)
+- [Deal terms look different in a downturn. Here’s what to watch out for](https://techcrunch.com/2022/06/21/deal-terms-look-different-in-a-downturn-heres-what-to-watch-out-for/)
+- [Kitt Peak telescopes remain standing after Arizona wildfire claims at least 4 buildings on site](https://www.space.com/kitt-peak-observatory-wildfire-telescopes-standing/)
+- [Join secures new cash to build a ‘decision-making’ platform for construction](https://techcrunch.com/2022/06/21/join-secures-new-cash-to-build-a-decision-making-platform-for-construction/)
+- [The fintech funding market is not dead](https://techcrunch.com/2022/06/21/the-fintech-funding-market-is-not-dead/)
+- [Meta to roll out new monetization tools on Instagram and Facebook, including a creator marketplace](https://techcrunch.com/2022/06/21/meta-new-monetization-tools-on-instagram-facebook-creator-marketplace/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
