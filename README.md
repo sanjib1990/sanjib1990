@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: With $153M Series C, LeadSquared becomes India’s newest unicorn](https://techcrunch.com/2022/06/21/daily-crunch-with-153m-series-c-leadsquared-becomes-indias-newest-unicorn/)
+- [Long term angel investing: Understanding capital requirements and how to find quality investments](https://techcrunch.com/2022/06/21/bull-or-bear-market-angel-investing-for-the-long-term/)
+- [TechCrunch+ roundup: Downturn strategy, recycling startup boom, better board meetings](https://techcrunch.com/2022/06/21/techcrunch-roundup-downturn-strategy-recycling-startup-boom-better-board-meetings/)
 - [OpenView’s Kyle Poyar shares how to build a standout software company in the 2020s](https://techcrunch.com/2022/06/21/openviews-kyle-poyar-shares-how-to-build-a-standout-software-company-in-the-2020s/)
 - [AELER wins the TC Sessions: Climate Virtual Pitch-Off](https://techcrunch.com/2022/06/21/aeler-wins-the-tc-sessions-climate-virtual-pitch-off/)
-- [The Obamas are leaving Spotify for Audible](https://techcrunch.com/2022/06/21/the-obamas-are-leaving-spotify-for-audible/)
-- [Former Tesla worker rejects $15M payout in racial abuse lawsuit](https://techcrunch.com/2022/06/21/former-tesla-worker-rejects-15m-payout-in-racial-abuse-lawsuit/)
-- [Better.com loses three more senior executives, including SVP and VP of sales](https://techcrunch.com/2022/06/21/better-com-loses-three-more-senior-executives-including-svp-and-vp-of-sales/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
