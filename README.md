@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Sinclair to launch $20/mo direct-to-consumer streaming service Bally Sports+ on June 23](https://techcrunch.com/2022/06/21/sinclair-to-launch-20-mo-direct-to-consumer-streaming-service-bally-sports-on-june-23/)
-- [Meta, Microsoft, NVIDIA, Unity and others form Metaverse Standards Forum](https://techcrunch.com/2022/06/21/metaverse-standards-forum-meta-microsoft-nvidia-unity/)
-- [Meta settles lawsuit with Justice Department over ad-serving algorithms](https://techcrunch.com/2022/06/21/meta-settles-lawsuit-with-justice-department-over-ad-serving-algorithms/)
-- [Propstore auctions rare screen-used &#39;Red Leader&#39; X-wing model from &#39;Star Wars: A New Hope&#39; &lpar;exclusive&rpar;](https://www.space.com/star-wars-x-wing-propstore-auction/)
-- [China plans to return Mars samples to Earth in 2031: report](https://www.space.com/china-return-mars-samples-earth-2031/)
+- [Brex CEO Henrique Dubugras will share his company’s founding story at TechCrunch Disrupt](https://techcrunch.com/2022/06/21/brex-ceo-henrique-dubugras-will-share-his-companys-founding-story-at-techcrunch-disrupt/)
+- [US Energy Sec. Granholm still ‘bullish’ Congress can ink ‘significant’ climate deal](https://techcrunch.com/2022/06/21/us-energy-sec-granholm-still-bullish-congress-can-ink-significant-climate-deal/)
+- [NASA taps three companies to design nuclear power plants for the Moon](https://techcrunch.com/2022/06/21/nasa-taps-three-companies-to-design-nuclear-power-plants-for-the-moon/)
+- [Meta is cracking down on fake and irrelevant reviews on Facebook](https://techcrunch.com/2022/06/21/meta-cracking-down-fake-irrelevant-reviews-facebook/)
+- [Summer solstice 2022 celebrated on Earth and in space &lpar;photos&rpar;](https://www.space.com/summer-solstice-photos-earth-space/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
