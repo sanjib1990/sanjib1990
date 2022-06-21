@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Nikon 10x50 Aculon A211 binoculars review](https://www.space.com/nikon-10x50-aculon-a211-binoculars-review/)
-- [Paramount+ announces plan for 150 international originals ahead of U.K. and Ireland launch](https://techcrunch.com/2022/06/21/paramount-announces-plan-for-150-international-originals-ahead-of-u-k-and-ireland-launch/)
-- [Deal terms look different in a downturn. Here’s what to watch out for](https://techcrunch.com/2022/06/21/deal-terms-look-different-in-a-downturn-heres-what-to-watch-out-for/)
-- [Kitt Peak telescopes remain standing after Arizona wildfire claims at least 4 buildings on site](https://www.space.com/kitt-peak-observatory-wildfire-telescopes-standing/)
-- [Join secures new cash to build a ‘decision-making’ platform for construction](https://techcrunch.com/2022/06/21/join-secures-new-cash-to-build-a-decision-making-platform-for-construction/)
+- [The moon will swing by Mars early Wednesday morning as it continues its planetary tour](https://www.space.com/moon-approaches-mars-june-2022/)
+- [Finger on your pulse: API-first startup Vivanta hopes to be Plaid for health](https://techcrunch.com/2022/06/21/finger-on-your-pulse-api-first-startup-vivanta-hopes-to-be-plaid-for-health/)
+- [Copilot, GitHub’s AI-powered programming assistant, is now generally available](https://techcrunch.com/2022/06/21/copilot-githubs-ai-powered-programming-assistant-is-now-generally-available/)
+- [World&#39;s largest liquid mirror telescope ready to observe](https://www.space.com/largest-liquid-mirror-telescope-opens-india/)
+- [Tesla sued by former workers for allegedly violating federal law during ‘mass layoffs’](https://techcrunch.com/2022/06/21/tesla-sued-by-former-workers-for-allegedly-violating-federal-law-during-mass-layoffs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
