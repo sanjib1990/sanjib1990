@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Redwood Materials partners with Toyota to recycle batteries in US](https://techcrunch.com/2022/06/21/redwood-materials-partners-with-toyota-to-recycle-batteries-in-us/)
-- [Magic Eden raises $130M, hitting unicorn status at $1.6B valuation](https://techcrunch.com/2022/06/21/magic-eden-raises-130m-hitting-unicorn-status-at-1-6b-valuation/)
-- [Google drops appeal against €500M antitrust news licensing fine](https://techcrunch.com/2022/06/21/google-france-antitrust-news-licensing/)
-- [Neobank Stashfin raises $270 million, tops $700 million valuation](https://techcrunch.com/2022/06/21/neobank-stashfin-raises-270-million-tops-700-million-valuation/)
-- [Best Lego deals: Space, Star Wars, Marvel and DC Lego deals](https://www.space.com/38810-best-lego-deals.html/)
+- [Validio, a data quality platform based out of Sweden, emerges from stealth with $15M](https://techcrunch.com/2022/06/21/validio-a-data-quality-platform-based-out-of-sweden-emerges-from-stealth-with-15m/)
+- [Ex-Amazon employee convicted over data breach of 100 million CapitalOne customers](https://techcrunch.com/2022/06/21/amazon-paige-thompson-capitalone-breach/)
+- [Share raises $12M to help companies offer transportation to their employees](https://techcrunch.com/2022/06/21/share-raises-12m-to-help-companies-offer-transportation-to-their-employees/)
+- [Neuron7 raises $10M to help customer service agents find solutions](https://techcrunch.com/2022/06/21/neuron7-raises-10m-to-help-customer-service-agents-find-solutions/)
+- [Bardeen raises $15.3M for browser-based workflow automation](https://techcrunch.com/2022/06/21/bardeen-raises-15-3m-for-browser-based-workflow-automation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
