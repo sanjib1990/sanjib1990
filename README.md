@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Impossible Mining is combing the seafloor for battery metals](https://techcrunch.com/2022/06/21/impossible-mining-is-combing-the-seafloor-for-battery-metals/)
-- [Cloudflare outage hit crypto exchanges FTX, Bitfinex and more](https://techcrunch.com/2022/06/21/cloudflare-outage-crypto-exchanges/)
-- [Echobot and Leadfeeder merge, raise $190M in Euro sales tech consolidation play](https://techcrunch.com/2022/06/21/echobot-and-leadfeeder-merge-raise-190m-in-euro-sales-tech-consolidation-play/)
-- [Nigerian at-home lab testing platform Healthtracka gets $1.5M, backed by female VCs](https://techcrunch.com/2022/06/21/nigerian-at-home-lab-testing-platform-healthtracka-gets-1-5m-backed-by-female-vcs/)
-- [Kibo School gets $2M to offer online STEM degrees to students in Africa](https://techcrunch.com/2022/06/21/kibo-school-gets-2m-to-offer-online-stem-degrees-to-students-in-africa/)
+- [Summer solstice 2022 marks the longest day in the Northern Hemisphere](https://www.space.com/summer-solstice-2022-longest-day-today/)
+- [Hubble Space Telescope &#39;sea of sequins&#39; image shows off a star cluster](https://www.space.com/hubble-space-telescope-photo-sequins-star-cluster/)
+- [In the new Disney Pixar movie Lightyear, time gets bendy. Is time travel real, or just science fiction?](https://www.space.com/lightyear-movie-time-travel-explained/)
+- [Google Maps restrictions trigger competition scrutiny in Germany](https://techcrunch.com/2022/06/21/google-maps-germany-fco-antitrust/)
+- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
