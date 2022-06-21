@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Omio raises $80M as travel demand rebounds after years of COVID-19 crisis](https://techcrunch.com/2022/06/20/omio-series-e/)
+- [NASA&#39;s Artemis 1 moon mission passes crucial fueling test despite leak](https://www.space.com/artemis-1-moon-rocket-wet-dress-rehearsal-success/)
 - [Vahak wants to improve the lives of India’s truck drivers](https://techcrunch.com/2022/06/20/vahak-wants-to-improve-the-lives-of-indias-truck-drivers/)
 - [LocalGlobe becomes Phoenix Court Group, hits $500M first close for new funds, adds an Impact twist](https://techcrunch.com/2022/06/20/localglobe-becomes-phoenix-court-group-hits-500m-first-close-for-new-funds-adds-an-impact-twist/)
 - [Max Q: Space ‘Xed](https://techcrunch.com/2022/06/20/max-q-space-xed/)
-- [Planned space station boost by Cygnus freighter cuts off 5 seconds into burn](https://www.space.com/space-station-reboost-cygnus-abort/)
-- [Review: &#39;Lightyear&#39; sputters upon liftoff in Pixar&#39;s new Buzz Lightyear origin movie](https://www.space.com/buzz-lightyear-pixar-movie-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
