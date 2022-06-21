@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bill Gates offers guidance on what climate technologies he’s looking to fund](https://techcrunch.com/2022/06/21/bill-gates-offers-guidance-on-what-climate-technologies-hes-looking-to-fund/)
+- [Solar wind: What is it and how does it affect Earth?](https://www.space.com/22215-solar-wind.html/)
+- [Twitter asks shareholders to approve the $44 billion Elon Musk takeover](https://techcrunch.com/2022/06/21/twitter-asks-shareholders-to-approve-the-44-billion-elon-musk-takeover/)
+- [Hackers stole Social Security numbers in Flagstar data breach affecting 1.5 million customers](https://techcrunch.com/2022/06/21/flagstar-bank-social-security-numbers/)
 - [Validio, a data quality platform based out of Sweden, emerges from stealth with $15M](https://techcrunch.com/2022/06/21/validio-a-data-quality-platform-based-out-of-sweden-emerges-from-stealth-with-15m/)
-- [Ex-Amazon employee convicted over data breach of 100 million CapitalOne customers](https://techcrunch.com/2022/06/21/amazon-paige-thompson-capitalone-breach/)
-- [Share raises $12M to help companies offer transportation to their employees](https://techcrunch.com/2022/06/21/share-raises-12m-to-help-companies-offer-transportation-to-their-employees/)
-- [Neuron7 raises $10M to help customer service agents find solutions](https://techcrunch.com/2022/06/21/neuron7-raises-10m-to-help-customer-service-agents-find-solutions/)
-- [Bardeen raises $15.3M for browser-based workflow automation](https://techcrunch.com/2022/06/21/bardeen-raises-15-3m-for-browser-based-workflow-automation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
