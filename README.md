@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Wild blue spiral in New Zealand sky likely made by SpaceX rocket &lpar;photo&rpar;](https://www.space.com/spacex-rocket-launch-blue-spiral-photo/)
-- [NASA applauds Artemis 1 moon rocket&#39;s fueling milestone, mulls readiness for launch](https://www.space.com/nasa-artemis-1-moon-rocket-next-steps/)
-- [Wilco gamifies your path through your software engineering career](https://techcrunch.com/2022/06/22/roger-wilco/)
-- [Google now lets merchants add an ‘LGBTQ+ owned’ label to their profiles on Maps and Search](https://techcrunch.com/2022/06/22/google-lgbtq-owned-label-maps-search/)
-- [Polestar 2 owners now have Apple CarPlay thanks to a software update](https://techcrunch.com/2022/06/22/polestar-2-owners-now-have-apple-carplay-thanks-to-a-software-update/)
+- [It’s time for LPs to take more responsibility in the fight for economic equality](https://techcrunch.com/2022/06/22/its-time-for-lps-to-take-more-responsibility-in-the-fight-for-economic-equality/)
+- [Superpedestrian, Voi among the latest micromobility layoffs](https://techcrunch.com/2022/06/22/superpedestrian-voi-among-the-latest-micromobility-layoffs/)
+- [How Octavia E. Butler mined her boundless curiosity to forge a new vision for humanity](https://www.space.com/octavia-e-butler-vision-for-humanity/)
+- [MasterClass cuts 20% of 600-person staff to ‘get to self sustainability faster’](https://techcrunch.com/2022/06/22/masterclass-cuts-20-of-600-person-staff-to-get-to-self-sustainability-faster/)
+- [OctoML makes it easier to put AI/ML models into production](https://techcrunch.com/2022/06/22/octoml-makes-it-easier-to-put-ai-ml-models-into-production/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
