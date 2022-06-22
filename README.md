@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [African healthtech startups in the supply chain segment show rapid growth, spurring a $7M investment initiative](https://techcrunch.com/2022/06/22/african-healthtech-startups-in-the-supply-chain-segment-show-rapid-growth-spurring-a-7m-investment-initiative/)
 - [SoftBank Group International’s new CEO is leaving, just five months after being appointed](https://techcrunch.com/2022/06/22/softbank-group-internationals-new-ceo-is-leaving-just-five-months-after-being-appointed/)
 - [Thepeer, an API-based startup that connects African businesses, raises $2.1M, led by Raba Partnership](https://techcrunch.com/2022/06/22/thepeer-an-api-based-startup-that-connects-african-businesses-raises-2-1m-led-by-raba-partnership/)
 - [Google News launches a new desktop design with topic customization](https://techcrunch.com/2022/06/21/google-news-launches-a-new-desktop-design-with-topic-customization/)
 - [Vietnam-based Anfin makes stock investing accessible](https://techcrunch.com/2022/06/21/vietnam-based-anfin-makes-stock-investing-accessible/)
-- [Activision Blizzard shareholders reject board seat for employees](https://techcrunch.com/2022/06/21/activision-blizzard-shareholders-reject-board-seat-for-employees/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
