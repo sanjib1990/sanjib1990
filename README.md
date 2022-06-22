@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Fitbit rolls out a new premium ‘Sleep Profile’ feature to better assess sleep patterns](https://techcrunch.com/2022/06/22/fitbit-rolls-out-a-new-premium-sleep-profile-feature-to-better-assess-sleep-patterns/)
-- [That agent who sounds like they’re from Paris, Texas? Try Paris, France](https://techcrunch.com/2022/06/22/that-agent-who-sounds-like-theyre-from-paris-texas-try-paris-france/)
-- [Fintech infrastructure startup Prime Trust raises $100M to add IRAs, crypto staking](https://techcrunch.com/2022/06/22/crypto-fintech-infrastructure-custody-startup-prime-trust-series-b-iras-retirement-staking/)
-- [Apple MacBook Pro M2 13-inch review](https://techcrunch.com/2022/06/22/apple-macbook-pro-m2-13-inch-review/)
-- [Aidaly makes sure family caregivers get financial compensation](https://techcrunch.com/2022/06/22/aidaly-makes-sure-family-caregivers-get-financial-compensation/)
+- [To succeed in the mass market, EV makers must focus on cost, not speed](https://techcrunch.com/2022/06/22/to-succeed-in-the-mass-market-ev-makers-must-focus-on-cost-not-speed/)
+- [Best beginner cameras 2022](https://www.space.com/best-beginner-cameras/)
+- [Best telescopes for beginners: Top budget-friendly picks for viewing the planets, galaxies and more](https://www.space.com/31229-best-beginner-telescopes.html/)
+- [NASA&#39;s Mars InSight lander will risk earlier shut down to squeeze out a little more science](https://www.space.com/insight-mars-lander-end-sooner-more-science/)
+- [Best telescopes 2022: Top picks for viewing planets, galaxies, stars and more](https://www.space.com/15693-telescopes-beginners-telescope-reviews-buying-guide.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
