@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [African healthtech startups in the supply chain segment show rapid growth, spurring a $7M investment initiative](https://techcrunch.com/2022/06/22/african-healthtech-startups-in-the-supply-chain-segment-show-rapid-growth-spurring-a-7m-investment-initiative/)
-- [SoftBank Group International’s new CEO is leaving, just five months after being appointed](https://techcrunch.com/2022/06/22/softbank-group-internationals-new-ceo-is-leaving-just-five-months-after-being-appointed/)
-- [Thepeer, an API-based startup that connects African businesses, raises $2.1M, led by Raba Partnership](https://techcrunch.com/2022/06/22/thepeer-an-api-based-startup-that-connects-african-businesses-raises-2-1m-led-by-raba-partnership/)
-- [Google News launches a new desktop design with topic customization](https://techcrunch.com/2022/06/21/google-news-launches-a-new-desktop-design-with-topic-customization/)
-- [Vietnam-based Anfin makes stock investing accessible](https://techcrunch.com/2022/06/21/vietnam-based-anfin-makes-stock-investing-accessible/)
+- [Zenysis raises $13.3M to scale its big data platform for emergencies across Africa, Asia and South America](https://techcrunch.com/2022/06/22/zenysis-raises-13-3m-to-scale-its-big-data-platform-for-emergencies-across-africa-asia-and-south-america/)
+- [Watch a European rocket launch 2 communications satellites Wednesday evening](https://www.space.com/arianespace-launch-two-communications-satellites-va257/)
+- [On alien worlds, exotic form of ice may transport nutrients to hidden oceans](https://www.space.com/alien-ocean-worlds-exotic-ice-transfer-nutrients/)
+- [Wingcopter raises another $42M ahead of ambitious Africa deployment](https://techcrunch.com/2022/06/22/wingcopter-raises-another-42m-ahead-of-ambitious-africa-deployment/)
+- [4 dead telescopes&#39; observations lead to stunning new galaxy portraits](https://www.space.com/retired-telescopes-hidden-features-galaxies-images/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
