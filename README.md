@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Data management vendor Ataccama receives $150M infusion from Bain](https://techcrunch.com/2022/06/22/data-management-vendor-ataccama-receives-150m-infusion-from-bain/)
-- [Zenysis raises $13.3M to scale its big data platform for emergencies across Africa, Asia and South America](https://techcrunch.com/2022/06/22/zenysis-raises-13-3m-to-scale-its-big-data-platform-for-emergencies-across-africa-asia-and-south-america/)
-- [Watch a European Ariane 5 rocket launch 2 communications satellites tonight](https://www.space.com/arianespace-launch-two-communications-satellites-va257/)
-- [On alien worlds, exotic form of ice may transport nutrients to hidden oceans](https://www.space.com/alien-ocean-worlds-exotic-ice-transfer-nutrients/)
-- [Wingcopter raises another $42M ahead of ambitious Africa deployment](https://techcrunch.com/2022/06/22/wingcopter-raises-another-42m-ahead-of-ambitious-africa-deployment/)
+- [Twitter partners with Shopify to bring merchants’ products to Twitter Shopping](https://techcrunch.com/2022/06/22/twitter-partners-with-shopify-to-bring-merchants-products-to-twitter-shopping/)
+- [After EU child safety complaints, TikTok tweaks ad disclosures but profiling concerns remain](https://techcrunch.com/2022/06/22/tiktok-eu-consumer-protection-commtiments/)
+- [Best Night Vision Binoculars 2022](https://www.space.com/best-night-vision-binoculars/)
+- [Best binoculars 2022: Top picks for stargazing, wildlife and more](https://www.space.com/26021-best-binoculars.html/)
+- [On This Day In Space: June 22, 2000: Possible evidence of liquid water found on Mars](https://www.space.com/39251-on-this-day-in-space.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
