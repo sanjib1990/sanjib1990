@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Security flaws in internet-connected hot tubs exposed owners’ personal data](https://techcrunch.com/2022/06/22/jacuzzi-flaws-admin-exposed-users/)
-- [Liteboxer goes portable](https://techcrunch.com/2022/06/22/liteboxer-goes-portable/)
-- [IKEA rolls out an AI-powered interactive design experience for shoppers](https://techcrunch.com/2022/06/22/ikea-rolls-out-an-ai-powered-interactive-design-experience-for-shoppers/)
-- [eBay acquires NFT marketplace KnownOrigin for an undisclosed sum](https://techcrunch.com/2022/06/22/ebay-acquires-nft-marketplace-knownorigin/)
-- [Kiko Ventures joins the ClimateTech investment stampede with a $450m Evergreen fund](https://techcrunch.com/2022/06/22/kiko-ventures-joins-the-climatetech-investment-stampede-with-a-450m-evergreen-fund/)
+- [Appsmith, a low-code platform for building business apps, lands $41M](https://techcrunch.com/2022/06/22/appsmith-takes-open-source-route-to-accelerate-internal-business-app-development/)
+- [Strapi lands $31M for its ‘headless’ CMS platform](https://techcrunch.com/2022/06/22/strapi-lands-31m-for-its-headless-cms-platform/)
+- [Ford chooses Spain factory to build ‘profitable’ EVs](https://techcrunch.com/2022/06/22/ford-chooses-spain-factory-build-profitable-evs/)
+- [Time-tested tactics for building investor presentations](https://techcrunch.com/2022/06/22/time-tested-tactics-for-building-investor-presentations/)
+- [Playmobil Star Trek USS Enterprise review](https://www.space.com/playmobil-star-trek-tos-uss-enterprise-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
