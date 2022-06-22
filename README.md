@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Unprecedented! &#39;The Orville&#39; Season 3 Episode 3 scores a perfect 10 from us](https://www.space.com/the-orville-season-3-episode-3-review/)
-- [How Octavia E. Butler mined her boundless curiosity to forge a new vision for humanity](https://www.space.com/octavia-e-butler-vision-for-humanity/)
-- [Full moon calendar 2022: When to see the next full moon](https://www.space.com/16830-full-moon-calendar.html/)
-- [Wild blue spiral in New Zealand sky likely made by SpaceX rocket &lpar;photo&rpar;](https://www.space.com/spacex-rocket-launch-blue-spiral-photo/)
-- [Apple is finally getting serious about removing junk messages](https://techcrunch.com/2022/06/22/apple-is-finally-getting-serious-about-removing-junk-messages/)
+- [Juul, the high-flying e-cig maker started at Stanford, watches its U.S. market share get vaporized](https://techcrunch.com/2022/06/22/juul-the-high-flying-e-cig-maker-started-at-stanford-watches-its-u-s-market-share-get-vaporized/)
+- [Ariane 5 rocket launches 2 communications satellites to orbit from South America](https://www.space.com/arianespace-launch-two-communications-satellites-va257/)
+- [The Oversight Board’s annual report tracks how often Meta follows its advice](https://techcrunch.com/2022/06/22/oversight-board-report-facebook-instagram-meta/)
+- [Daily Crunch: Raba Partnership leads $2.1M seed round for African fintech startup Thepeer](https://techcrunch.com/2022/06/22/daily-crunch-raba-partnership-leads-2-1m-seed-round-for-thepeer/)
+- [The Boring Company wants to dig a tunnel under Tesla Gigafactory Texas](https://techcrunch.com/2022/06/22/the-boring-company-wants-to-dig-a-tunnel-under-tesla-gigafactory-texas/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
