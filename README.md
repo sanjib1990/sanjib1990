@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Activision Blizzard shareholders reject board seat for employees](https://techcrunch.com/2022/06/21/activision-blizzard-shareholders-reject-board-seat-for-employees/)
+- [Accel is rolling out a new, $4 billion late-stage fund, just as certain rivals lose momentum](https://techcrunch.com/2022/06/21/accel-new-4-billion-fund/)
+- [South Korea&#39;s homegrown Nuri rocket puts satellites in orbit for 1st time](https://www.space.com/south-korea-nuri-rocket-launch-success/)
+- [3 tips for biotech startups seeking non-dilutive capital to survive the downturn](https://techcrunch.com/2022/06/21/3-tips-for-biotech-startups-seeking-non-dilutive-capital-to-survive-the-downturn/)
 - [It’s time to talk about consolidation in the EV charging industry](https://techcrunch.com/2022/06/21/its-time-to-talk-about-consolidation-in-the-ev-charging-industry/)
-- [CEO and COO of Pornhub parent company Mindgeek abruptly resign](https://techcrunch.com/2022/06/21/ceo-and-coo-of-pornhub-parent-company-mindgeek-abruptly-resign/)
-- [Uniswap acquires NFT marketplace aggregator Genie](https://techcrunch.com/2022/06/21/uniswap-acquires-nft-marketplace-aggregator-genie/)
-- [Personio nabs $200M at a $8.5B valuation as its HR for small businesses hits the big time](https://techcrunch.com/2022/06/21/personio-nabs-200m-at-a-8-5b-valuation-as-its-hr-for-small-businesses-hits-the-big-time/)
-- [Daily Crunch: With $153M Series C, LeadSquared becomes India’s newest unicorn](https://techcrunch.com/2022/06/21/daily-crunch-with-153m-series-c-leadsquared-becomes-indias-newest-unicorn/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
