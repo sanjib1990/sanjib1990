@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Thepeer, an API-based startup that connects African businesses, raises $2.1M, led by Raba Partnership](https://techcrunch.com/2022/06/22/thepeer-an-api-based-startup-that-connects-african-businesses-raises-2-1m-led-by-raba-partnership/)
 - [Google News launches a new desktop design with topic customization](https://techcrunch.com/2022/06/21/google-news-launches-a-new-desktop-design-with-topic-customization/)
 - [Vietnam-based Anfin makes stock investing accessible](https://techcrunch.com/2022/06/21/vietnam-based-anfin-makes-stock-investing-accessible/)
 - [Activision Blizzard shareholders reject board seat for employees](https://techcrunch.com/2022/06/21/activision-blizzard-shareholders-reject-board-seat-for-employees/)
 - [Accel is rolling out a new, $4 billion late-stage fund, just as certain rivals lose momentum](https://techcrunch.com/2022/06/21/accel-new-4-billion-fund/)
-- [South Korea&#39;s homegrown Nuri rocket puts satellites in orbit for 1st time](https://www.space.com/south-korea-nuri-rocket-launch-success/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
