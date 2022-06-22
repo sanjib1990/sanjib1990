@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Dear Sophie: What are my F-1 OPT options if my crypto job is no longer available?](https://techcrunch.com/2022/06/22/dear-sophie-what-are-my-f-1-opt-options-if-my-crypto-job-is-no-longer-available/)
-- [Apple is finally getting serious about removing junk messages](https://techcrunch.com/2022/06/22/apple-is-finally-getting-serious-about-removing-junk-messages/)
-- [Black LPs fuel a16z’s third Cultural Leadership Fund](https://techcrunch.com/2022/06/22/black-lps-fuel-a16zs-third-cultural-leadership-fund/)
+- [Wild blue spiral in New Zealand sky likely made by SpaceX rocket &lpar;photo&rpar;](https://www.space.com/spacex-rocket-launch-blue-spiral-photo/)
 - [NASA applauds Artemis 1 moon rocket&#39;s fueling milestone, mulls readiness for launch](https://www.space.com/nasa-artemis-1-moon-rocket-next-steps/)
 - [Wilco gamifies your path through your software engineering career](https://techcrunch.com/2022/06/22/roger-wilco/)
+- [Google now lets merchants add an ‘LGBTQ+ owned’ label to their profiles on Maps and Search](https://techcrunch.com/2022/06/22/google-lgbtq-owned-label-maps-search/)
+- [Polestar 2 owners now have Apple CarPlay thanks to a software update](https://techcrunch.com/2022/06/22/polestar-2-owners-now-have-apple-carplay-thanks-to-a-software-update/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
