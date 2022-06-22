@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Twitter partners with Shopify to bring merchants’ products to Twitter Shopping](https://techcrunch.com/2022/06/22/twitter-partners-with-shopify-to-bring-merchants-products-to-twitter-shopping/)
-- [After EU child safety complaints, TikTok tweaks ad disclosures but profiling concerns remain](https://techcrunch.com/2022/06/22/tiktok-eu-consumer-protection-commtiments/)
-- [Best Night Vision Binoculars 2022](https://www.space.com/best-night-vision-binoculars/)
-- [Best binoculars 2022: Top picks for stargazing, wildlife and more](https://www.space.com/26021-best-binoculars.html/)
-- [On This Day In Space: June 22, 2000: Possible evidence of liquid water found on Mars](https://www.space.com/39251-on-this-day-in-space.html/)
+- [Fitbit rolls out a new premium ‘Sleep Profile’ feature to better assess sleep patterns](https://techcrunch.com/2022/06/22/fitbit-rolls-out-a-new-premium-sleep-profile-feature-to-better-assess-sleep-patterns/)
+- [That agent who sounds like they’re from Paris, Texas? Try Paris, France](https://techcrunch.com/2022/06/22/that-agent-who-sounds-like-theyre-from-paris-texas-try-paris-france/)
+- [Fintech infrastructure startup Prime Trust raises $100M to add IRAs, crypto staking](https://techcrunch.com/2022/06/22/crypto-fintech-infrastructure-custody-startup-prime-trust-series-b-iras-retirement-staking/)
+- [Apple MacBook Pro M2 13-inch review](https://techcrunch.com/2022/06/22/apple-macbook-pro-m2-13-inch-review/)
+- [Aidaly makes sure family caregivers get financial compensation](https://techcrunch.com/2022/06/22/aidaly-makes-sure-family-caregivers-get-financial-compensation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
