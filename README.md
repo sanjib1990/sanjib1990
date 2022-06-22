@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Vietnam-based Anfin makes stock investing accessible](https://techcrunch.com/2022/06/21/vietnam-based-anfin-makes-stock-investing-accessible/)
 - [Activision Blizzard shareholders reject board seat for employees](https://techcrunch.com/2022/06/21/activision-blizzard-shareholders-reject-board-seat-for-employees/)
 - [Accel is rolling out a new, $4 billion late-stage fund, just as certain rivals lose momentum](https://techcrunch.com/2022/06/21/accel-new-4-billion-fund/)
 - [South Korea&#39;s homegrown Nuri rocket puts satellites in orbit for 1st time](https://www.space.com/south-korea-nuri-rocket-launch-success/)
 - [3 tips for biotech startups seeking non-dilutive capital to survive the downturn](https://techcrunch.com/2022/06/21/3-tips-for-biotech-startups-seeking-non-dilutive-capital-to-survive-the-downturn/)
-- [It’s time to talk about consolidation in the EV charging industry](https://techcrunch.com/2022/06/21/its-time-to-talk-about-consolidation-in-the-ev-charging-industry/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
