@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Data management vendor Ataccama receives $150M infusion from Bain](https://techcrunch.com/2022/06/22/data-management-vendor-ataccama-receives-150m-infusion-from-bain/)
 - [Zenysis raises $13.3M to scale its big data platform for emergencies across Africa, Asia and South America](https://techcrunch.com/2022/06/22/zenysis-raises-13-3m-to-scale-its-big-data-platform-for-emergencies-across-africa-asia-and-south-america/)
-- [Watch a European rocket launch 2 communications satellites Wednesday evening](https://www.space.com/arianespace-launch-two-communications-satellites-va257/)
+- [Watch a European Ariane 5 rocket launch 2 communications satellites tonight](https://www.space.com/arianespace-launch-two-communications-satellites-va257/)
 - [On alien worlds, exotic form of ice may transport nutrients to hidden oceans](https://www.space.com/alien-ocean-worlds-exotic-ice-transfer-nutrients/)
 - [Wingcopter raises another $42M ahead of ambitious Africa deployment](https://techcrunch.com/2022/06/22/wingcopter-raises-another-42m-ahead-of-ambitious-africa-deployment/)
-- [4 dead telescopes&#39; observations lead to stunning new galaxy portraits](https://www.space.com/retired-telescopes-hidden-features-galaxies-images/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
