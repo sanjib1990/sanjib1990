@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Alexa will soon be able to read stories as your dead grandma](https://techcrunch.com/2022/06/22/alexa-will-soon-be-able-to-read-stories-as-your-dead-grandma/)
-- [Former NASA deputy chief reveals story behind Apollo 13 astronaut&#39;s medal of honor](https://www.space.com/lori-garver-escaping-gravity-lovell-space-medal-honor/)
-- [Airspace Link’s drone tracking platform gathers government customers before going global](https://techcrunch.com/2022/06/22/airspace-links-drone-tracking-platform-gathers-government-customers-before-going-global/)
-- [A giant sunspot the size of 3 Earths is facing us right now](https://www.space.com/giant-sunspot-size-3-earths-our-direction/)
-- [Twitter officially rolls out its long-form content ‘Notes’ feature](https://techcrunch.com/2022/06/22/twitter-officially-rolls-out-its-long-form-content-notes-feature/)
+- [Wilco gamifies your path through your software engineering career](https://techcrunch.com/2022/06/22/roger-wilco/)
+- [Google now lets merchants add an ‘LGBTQ+ owned’ label to their profiles on Maps and Search](https://techcrunch.com/2022/06/22/google-lgbtq-owned-label-maps-search/)
+- [Polestar 2 owners now have Apple CarPlay thanks to a software update](https://techcrunch.com/2022/06/22/polestar-2-owners-now-have-apple-carplay-thanks-to-a-software-update/)
+- [Kune Food shuts down barely a year after starting Kenya operations](https://techcrunch.com/2022/06/22/kune-food-shuts-down-barely-a-year-after-starting-kenya-operations/)
+- [Amazon debuts a fully autonomous warehouse robot](https://techcrunch.com/2022/06/22/amazon-debuts-a-fully-autonomous-warehouse-robot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
