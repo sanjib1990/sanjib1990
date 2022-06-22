@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [It’s time for LPs to take more responsibility in the fight for economic equality](https://techcrunch.com/2022/06/22/its-time-for-lps-to-take-more-responsibility-in-the-fight-for-economic-equality/)
-- [Superpedestrian, Voi among the latest micromobility layoffs](https://techcrunch.com/2022/06/22/superpedestrian-voi-among-the-latest-micromobility-layoffs/)
+- [Unprecedented! &#39;The Orville&#39; Season 3 Episode 3 scores a perfect 10 from us](https://www.space.com/the-orville-season-3-episode-3-review/)
 - [How Octavia E. Butler mined her boundless curiosity to forge a new vision for humanity](https://www.space.com/octavia-e-butler-vision-for-humanity/)
-- [MasterClass cuts 20% of 600-person staff to ‘get to self sustainability faster’](https://techcrunch.com/2022/06/22/masterclass-cuts-20-of-600-person-staff-to-get-to-self-sustainability-faster/)
-- [OctoML makes it easier to put AI/ML models into production](https://techcrunch.com/2022/06/22/octoml-makes-it-easier-to-put-ai-ml-models-into-production/)
+- [Full moon calendar 2022: When to see the next full moon](https://www.space.com/16830-full-moon-calendar.html/)
+- [Wild blue spiral in New Zealand sky likely made by SpaceX rocket &lpar;photo&rpar;](https://www.space.com/spacex-rocket-launch-blue-spiral-photo/)
+- [Apple is finally getting serious about removing junk messages](https://techcrunch.com/2022/06/22/apple-is-finally-getting-serious-about-removing-junk-messages/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
