@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [To succeed in the mass market, EV makers must focus on cost, not speed](https://techcrunch.com/2022/06/22/to-succeed-in-the-mass-market-ev-makers-must-focus-on-cost-not-speed/)
-- [Best beginner cameras 2022](https://www.space.com/best-beginner-cameras/)
-- [Best telescopes for beginners: Top budget-friendly picks for viewing the planets, galaxies and more](https://www.space.com/31229-best-beginner-telescopes.html/)
-- [NASA&#39;s Mars InSight lander will risk earlier shut down to squeeze out a little more science](https://www.space.com/insight-mars-lander-end-sooner-more-science/)
-- [Best telescopes 2022: Top picks for viewing planets, galaxies, stars and more](https://www.space.com/15693-telescopes-beginners-telescope-reviews-buying-guide.html/)
+- [Security flaws in internet-connected hot tubs exposed owners’ personal data](https://techcrunch.com/2022/06/22/jacuzzi-flaws-admin-exposed-users/)
+- [Liteboxer goes portable](https://techcrunch.com/2022/06/22/liteboxer-goes-portable/)
+- [IKEA rolls out an AI-powered interactive design experience for shoppers](https://techcrunch.com/2022/06/22/ikea-rolls-out-an-ai-powered-interactive-design-experience-for-shoppers/)
+- [eBay acquires NFT marketplace KnownOrigin for an undisclosed sum](https://techcrunch.com/2022/06/22/ebay-acquires-nft-marketplace-knownorigin/)
+- [Kiko Ventures joins the ClimateTech investment stampede with a $450m Evergreen fund](https://techcrunch.com/2022/06/22/kiko-ventures-joins-the-climatetech-investment-stampede-with-a-450m-evergreen-fund/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
