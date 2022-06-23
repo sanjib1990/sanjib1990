@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Juul, the high-flying e-cig maker started at Stanford, watches its U.S. market share get vaporized](https://techcrunch.com/2022/06/22/juul-the-high-flying-e-cig-maker-started-at-stanford-watches-its-u-s-market-share-get-vaporized/)
 - [Ariane 5 rocket launches 2 communications satellites to orbit from South America](https://www.space.com/arianespace-launch-two-communications-satellites-va257/)
 - [The Oversight Board’s annual report tracks how often Meta follows its advice](https://techcrunch.com/2022/06/22/oversight-board-report-facebook-instagram-meta/)
 - [Daily Crunch: Raba Partnership leads $2.1M seed round for African fintech startup Thepeer](https://techcrunch.com/2022/06/22/daily-crunch-raba-partnership-leads-2-1m-seed-round-for-thepeer/)
 - [The Boring Company wants to dig a tunnel under Tesla Gigafactory Texas](https://techcrunch.com/2022/06/22/the-boring-company-wants-to-dig-a-tunnel-under-tesla-gigafactory-texas/)
+- [Unprecedented! &#39;The Orville&#39; Season 3 Episode 3 scores a perfect 10 from us](https://www.space.com/the-orville-season-3-episode-3-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
