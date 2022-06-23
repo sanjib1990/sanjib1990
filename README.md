@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Starburst acquires data lake analytics accelerator Varada to challenge Snowflake](https://techcrunch.com/2022/06/23/starburst-acquires-data-lake-analytics-accelerator-varada-to-challenge-snowflake/)
-- [Lego NASA Apollo 11 Lunar Lander review](https://www.space.com/lego-nasa-apollo-11-lunar-lander-10266-review/)
-- [Hubble Space Telescope catches dead star in the act of cosmic cannibalism](https://www.space.com/cannibal-star-white-dwarf-water/)
-- [Instagram tests new age verification tools for 18 and over accounts, including video selfies](https://techcrunch.com/2022/06/23/instagram-tests-new-age-verification-tools-for-18-and-over-accounts-including-video-selfies/)
-- [Paris-based Breega closes €250M fund, opens Barcelona office to back Iberian startups](https://techcrunch.com/2022/06/23/breega/)
+- [Einride to operate its cab-less autonomous pods on U.S. public roads](https://techcrunch.com/2022/06/23/einride-to-operate-its-cab-less-autonomous-pods-on-u-s-public-roads/)
+- [Fintech Kasheesh wants financially strained customers to say ‘bye’ to BNPL](https://techcrunch.com/2022/06/23/kasheesh-fintech-startup-alternative-financing-bnpl-credit-debit-split-payments/)
+- [UK-based Playter closes $55M round for its BNPL platform aimed at SMEs](https://techcrunch.com/2022/06/23/uk-based-playter-closes-55m-round-for-its-bnpl-platform-aimed-at-smes/)
+- [On This Day In Space: June 23, 1949: Bell X-1 rocket plane takes 117th Flight](https://www.space.com/39251-on-this-day-in-space.html/)
+- [Sigma 150-600mm f/5-6.3 OS HSM lens review](https://www.space.com/sigma-150-600mm-f5-63-dg-os-hsm-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
