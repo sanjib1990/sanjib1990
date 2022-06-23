@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Is that a ski coach in your boot, or are you just happy to see me?](https://techcrunch.com/2022/06/23/carv-raises-series-a-extension/)
-- [GM is latest to join the race to streamline EV charging](https://techcrunch.com/2022/06/23/gm-is-latest-to-join-the-race-to-streamline-ev-charging/)
-- [NASA will unveil the James Webb Space Telescope&#39;s 1st science photos in July. Here&#39;s how to watch.](https://www.space.com/james-webb-space-telescope-science-photos-webcast/)
-- [JobGet raises $52M with ambitions to be the LinkedIn for shift workers](https://techcrunch.com/2022/06/23/jobget-raises-52m-with-ambitions-to-be-the-linkedin-for-shift-workers/)
-- [Italy’s data watchdog latest to warn over use of Google Analytics](https://techcrunch.com/2022/06/23/google-analytics-italy-eu-data-transfers/)
+- [ConductorOne is bringing automation to identity and access management with $15M investment](https://techcrunch.com/2022/06/23/conductorone-is-bringing-automation-to-identity-and-access-management-with-15m-investment/)
+- [Podcastle hops on the video podcast trend with its latest update](https://techcrunch.com/2022/06/23/podcastle-hops-on-the-video-podcast-trend-with-its-latest-update/)
+- [Are crypto trading fees heading to zero?](https://techcrunch.com/2022/06/23/are-crypto-trading-fees-heading-to-zero/)
+- [Bizarre spiral object found swirling around Milky Way&#39;s center](https://www.space.com/spiral-disk-milky-way-galactic-center/)
+- [Spotify revamps in-app concert discovery with new Live Events Feed](https://techcrunch.com/2022/06/23/spotify-revamps-in-app-concert-discovery-with-new-live-events-feed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
