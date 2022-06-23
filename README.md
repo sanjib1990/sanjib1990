@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Solana launches web3-focused smartphone Saga to improve crypto-mobile relationship](https://techcrunch.com/2022/06/23/solana-launches-web3-focused-smartphone-saga-to-improve-crypto-mobile-relationship/)
+- [Want an EV? You may have to wait](https://techcrunch.com/2022/06/23/want-an-ev-you-may-have-to-wait/)
 - [South Korea cancels Apophis asteroid probe: report](https://www.space.com/south-korea-apophis-asteroid-probe-canceled/)
 - [Launch of NASA&#39;s CAPSTONE cubesat moon mission delayed to June 27](https://www.space.com/nasa-capstone-cubesat-moon-mission-launch-june-27/)
 - [Netflix lays off 300 more people — almost 3% of its staff](https://techcrunch.com/2022/06/23/netflix-lays-off-300-more-people-almost-3-of-its-staff/)
-- [To drive more sales, use shopper-generated content to personalize emails](https://techcrunch.com/2022/06/23/to-drive-sales-use-shopper-generated-content-to-personalize-emails/)
-- [Rare alignment of 5 planets peaks Friday as crescent moon joins the parade](https://www.space.com/rare-planetary-alignment-moon-joins-June-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
