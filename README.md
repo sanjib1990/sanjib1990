@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [EV fleet management startup Synop steers its way to $10M seed round](https://techcrunch.com/2022/06/23/ev-fleet-management-startup-synop-steers-its-way-to-10m-seed-round/)
-- [Scientists map weird metal asteroid that NASA spacecraft will launch to this year](https://www.space.com/psyche-metal-asteroid-new-map/)
-- [August Health digitizes senior living communities for better care](https://techcrunch.com/2022/06/23/august-health-digitizes-senior-living-communities-for-better-care/)
-- [Instagram tests a new feature to quickly share notes with friends](https://techcrunch.com/2022/06/23/instagram-tests-a-new-feature-to-quickly-share-notes-with-friends/)
-- [Facebook Pay rebrands to Meta Pay as Zuckerberg details plans to create a digital wallet for the metaverse](https://techcrunch.com/2022/06/23/facebook-pay-rebrands-meta-pay-digital-wallet-metaverse/)
+- [Rare alignment of 5 planets peaks Friday as crescent moon joins the parade](https://www.space.com/rare-planetary-alignment-moon-joins-June-2022/)
+- [Blood-red aurora transforms into &#39;STEVE&#39; before stargazer&#39;s eyes](https://www.space.com/steve-aurora-blood-red-arc/)
+- [Meal delivery service Daily Harvest recalls lentil product after customers report falling ill](https://techcrunch.com/2022/06/23/meal-delivery-service-daily-harvest-recalls-lentil-product-after-customers-report-falling-ill/)
+- [FDA orders Juul to stop selling its vaping products in the U.S.](https://techcrunch.com/2022/06/23/is-juul-illegal-in-the-us/)
+- [Snap will pay 25 Black creators $120k in a new accelerator program](https://techcrunch.com/2022/06/23/snap-black-creator-accelerator-program/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
