@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [South Korea cancels Apophis asteroid probe: report](https://www.space.com/south-korea-apophis-asteroid-probe-canceled/)
+- [Launch of NASA&#39;s CAPSTONE cubesat moon mission delayed to June 27](https://www.space.com/nasa-capstone-cubesat-moon-mission-launch-june-27/)
+- [Netflix lays off 300 more people — almost 3% of its staff](https://techcrunch.com/2022/06/23/netflix-lays-off-300-more-people-almost-3-of-its-staff/)
+- [To drive more sales, use shopper-generated content to personalize emails](https://techcrunch.com/2022/06/23/to-drive-sales-use-shopper-generated-content-to-personalize-emails/)
 - [Rare alignment of 5 planets peaks Friday as crescent moon joins the parade](https://www.space.com/rare-planetary-alignment-moon-joins-June-2022/)
-- [Blood-red aurora transforms into &#39;STEVE&#39; before stargazer&#39;s eyes](https://www.space.com/steve-aurora-blood-red-arc/)
-- [Meal delivery service Daily Harvest recalls lentil product after customers report falling ill](https://techcrunch.com/2022/06/23/meal-delivery-service-daily-harvest-recalls-lentil-product-after-customers-report-falling-ill/)
-- [FDA orders Juul to stop selling its vaping products in the U.S.](https://techcrunch.com/2022/06/23/is-juul-illegal-in-the-us/)
-- [Snap will pay 25 Black creators $120k in a new accelerator program](https://techcrunch.com/2022/06/23/snap-black-creator-accelerator-program/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
