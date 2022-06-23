@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Einride to operate its cab-less autonomous pods on U.S. public roads](https://techcrunch.com/2022/06/23/einride-to-operate-its-cab-less-autonomous-pods-on-u-s-public-roads/)
-- [Fintech Kasheesh wants financially strained customers to say ‘bye’ to BNPL](https://techcrunch.com/2022/06/23/kasheesh-fintech-startup-alternative-financing-bnpl-credit-debit-split-payments/)
-- [UK-based Playter closes $55M round for its BNPL platform aimed at SMEs](https://techcrunch.com/2022/06/23/uk-based-playter-closes-55m-round-for-its-bnpl-platform-aimed-at-smes/)
-- [On This Day In Space: June 23, 1949: Bell X-1 rocket plane takes 117th Flight](https://www.space.com/39251-on-this-day-in-space.html/)
-- [Sigma 150-600mm f/5-6.3 OS HSM lens review](https://www.space.com/sigma-150-600mm-f5-63-dg-os-hsm-review/)
+- [Is that a ski coach in your boot, or are you just happy to see me?](https://techcrunch.com/2022/06/23/carv-raises-series-a-extension/)
+- [GM is latest to join the race to streamline EV charging](https://techcrunch.com/2022/06/23/gm-is-latest-to-join-the-race-to-streamline-ev-charging/)
+- [NASA will unveil the James Webb Space Telescope&#39;s 1st science photos in July. Here&#39;s how to watch.](https://www.space.com/james-webb-space-telescope-science-photos-webcast/)
+- [JobGet raises $52M with ambitions to be the LinkedIn for shift workers](https://techcrunch.com/2022/06/23/jobget-raises-52m-with-ambitions-to-be-the-linkedin-for-shift-workers/)
+- [Italy’s data watchdog latest to warn over use of Google Analytics](https://techcrunch.com/2022/06/23/google-analytics-italy-eu-data-transfers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
