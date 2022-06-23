@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Cozy houseplants and self-care: how one startup is reimagining mobile gameplay as a healing activity](https://techcrunch.com/2022/06/23/cozy-houseplants-and-self-care-how-one-startup-is-reimagining-mobile-gameplay-as-a-healing-activity/)
-- [Webb’s NIRSpec Acquires Multiple Targets](https://blogs.nasa.gov/webb/2022/06/23/webbs-nirspec-acquires-multiple-targets/)
-- [Google Chrome’s latest update on iOS brings improved security, the Discover feed and more](https://techcrunch.com/2022/06/23/google-chromes-latest-update-on-ios-brings-improved-security-the-discover-feed-and-more/)
-- [Hinge’s new feature makes it easier for you to be upfront about your dating intentions](https://techcrunch.com/2022/06/23/hinges-feature-easier-for-users-be-upfront-about-their-dating-intentions/)
-- [Khaby Lame dethrones Charli D’Amelio as the most-followed TikTok creator](https://techcrunch.com/2022/06/23/khaby-lame-most-followers-tiktok-charli-damelio/)
+- [Daily Crunch: London-based SumUp pins $8.5B valuation with $624M debt-equity round](https://techcrunch.com/2022/06/23/daily-crunch-london-based-sumup-pins-8-5b-valuation-with-624m-debt-equity-round/)
+- [Brex says it did a ‘poor job’ explaining its decision to cut off SMBs](https://techcrunch.com/2022/06/23/brex-admits-it-did-a-poor-job-explaining-its-decision-to-cut-off-smbs/)
+- [Alexa goes down the conversational rabbit hole](https://techcrunch.com/2022/06/23/alexa-goes-down-the-conversational-rabbit-hole/)
+- [NASA funds nuclear power systems for possible use on the moon](https://www.space.com/nasa-contracts-nuclear-power-systems-moon/)
+- [Security-as-code startup Jit comes out of stealth with $38.5M in seed funding](https://techcrunch.com/2022/06/23/security-as-code-startup-jit-comes-out-of-stealth-with-38-5m-in-seed-funding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
