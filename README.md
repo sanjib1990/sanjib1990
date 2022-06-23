@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hubble Space Telescope catches dead star in the act of cosmic cannibalism](https://www.space.com/cannibal-star-white-dwarf-water/)
+- [Instagram tests new age verification tools for 18 and over accounts, including video selfies](https://techcrunch.com/2022/06/23/instagram-tests-new-age-verification-tools-for-18-and-over-accounts-including-video-selfies/)
+- [Paris-based Breega closes €250M fund, opens Barcelona office to back Iberian startups](https://techcrunch.com/2022/06/23/breega/)
 - [SumUp raises $624M at $8.5B valuation, with its payments and business tech now used by 4M SMBs](https://techcrunch.com/2022/06/23/sumup-raises-624m-at-8-5b-valuation-with-its-payments-and-business-tech-now-used-by-4m-smbs/)
 - [Uber rejects claim that it explored exiting India](https://techcrunch.com/2022/06/22/uber-rejects-report-that-it-explored-exiting-india/)
-- [Influencers peddling medical, financial advice now need certification, China says](https://techcrunch.com/2022/06/22/influencers-china-crackdown/)
-- [Florence Healthcare, a workflow platform for clinical researchers, raises $27M led by Insight Partners](https://techcrunch.com/2022/06/22/florence-healthcare-a-workflow-platform-for-clinical-researchers-raises-27m-led-by-insight-partners/)
-- [Tiger Global backs SaaS omnichannel social commerce platform SleekFlow in $8M funding](https://techcrunch.com/2022/06/22/tiger-global-backs-saas-omnichannel-social-commerce-platform-sleekflow-in-8m-funding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
