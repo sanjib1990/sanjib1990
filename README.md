@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Solana launches web3-focused smartphone Saga to improve crypto-mobile relationship](https://techcrunch.com/2022/06/23/solana-launches-web3-focused-smartphone-saga-to-improve-crypto-mobile-relationship/)
-- [Want an EV? You may have to wait](https://techcrunch.com/2022/06/23/want-an-ev-you-may-have-to-wait/)
-- [South Korea cancels Apophis asteroid probe: report](https://www.space.com/south-korea-apophis-asteroid-probe-canceled/)
-- [Launch of NASA&#39;s CAPSTONE cubesat moon mission delayed to June 27](https://www.space.com/nasa-capstone-cubesat-moon-mission-launch-june-27/)
-- [Netflix lays off 300 more people — almost 3% of its staff](https://techcrunch.com/2022/06/23/netflix-lays-off-300-more-people-almost-3-of-its-staff/)
+- [Khaby Lame dethrones Charli D’Amelio as the most-followed TikTok creator](https://techcrunch.com/2022/06/23/khaby-lame-most-followers-tiktok-charli-damelio/)
+- [Cozy houseplants and self-care: how one startup is reimagining mobile gameplay as a healing activity](https://techcrunch.com/2022/06/23/cozy-houseplants-and-self-care-how-one-startup-is-reimagining-mobile-gameplay-as-a-healing-activity/)
+- [The next wave of supply-chain innovation will be driven by startups that help incumbents win](https://techcrunch.com/2022/06/23/the-next-wave-of-supply-chain-innovation-will-be-driven-by-startups-that-help-incumbents-win/)
+- [A quick trip to MARS](https://techcrunch.com/2022/06/23/a-quick-trip-to-mars/)
+- [NASA declares Artemis 1 moon mission test successful, begins prepping for launch](https://www.space.com/artemis-1-moon-mission-wet-dress-rehearsal-success/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
