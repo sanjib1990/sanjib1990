@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists map weird metal asteroid that NASA spacecraft will launch to this year](https://www.space.com/psyche-metal-asteroid-new-map/)
+- [Mercury-bound spacecraft whizzes past the smallest planet for the 2nd time](https://www.space.com/bepi-colombo-2nd-mercury-flyby/)
 - [ConductorOne is bringing automation to identity and access management with $15M investment](https://techcrunch.com/2022/06/23/conductorone-is-bringing-automation-to-identity-and-access-management-with-15m-investment/)
 - [Podcastle hops on the video podcast trend with its latest update](https://techcrunch.com/2022/06/23/podcastle-hops-on-the-video-podcast-trend-with-its-latest-update/)
 - [Are crypto trading fees heading to zero?](https://techcrunch.com/2022/06/23/are-crypto-trading-fees-heading-to-zero/)
-- [Bizarre spiral object found swirling around Milky Way&#39;s center](https://www.space.com/spiral-disk-milky-way-galactic-center/)
-- [Spotify revamps in-app concert discovery with new Live Events Feed](https://techcrunch.com/2022/06/23/spotify-revamps-in-app-concert-discovery-with-new-live-events-feed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
