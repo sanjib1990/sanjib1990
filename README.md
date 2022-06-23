@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Khaby Lame dethrones Charli D’Amelio as the most-followed TikTok creator](https://techcrunch.com/2022/06/23/khaby-lame-most-followers-tiktok-charli-damelio/)
 - [Cozy houseplants and self-care: how one startup is reimagining mobile gameplay as a healing activity](https://techcrunch.com/2022/06/23/cozy-houseplants-and-self-care-how-one-startup-is-reimagining-mobile-gameplay-as-a-healing-activity/)
-- [The next wave of supply-chain innovation will be driven by startups that help incumbents win](https://techcrunch.com/2022/06/23/the-next-wave-of-supply-chain-innovation-will-be-driven-by-startups-that-help-incumbents-win/)
-- [A quick trip to MARS](https://techcrunch.com/2022/06/23/a-quick-trip-to-mars/)
-- [NASA declares Artemis 1 moon mission test successful, begins prepping for launch](https://www.space.com/artemis-1-moon-mission-wet-dress-rehearsal-success/)
+- [Webb’s NIRSpec Acquires Multiple Targets](https://blogs.nasa.gov/webb/2022/06/23/webbs-nirspec-acquires-multiple-targets/)
+- [Google Chrome’s latest update on iOS brings improved security, the Discover feed and more](https://techcrunch.com/2022/06/23/google-chromes-latest-update-on-ios-brings-improved-security-the-discover-feed-and-more/)
+- [Hinge’s new feature makes it easier for you to be upfront about your dating intentions](https://techcrunch.com/2022/06/23/hinges-feature-easier-for-users-be-upfront-about-their-dating-intentions/)
+- [Khaby Lame dethrones Charli D’Amelio as the most-followed TikTok creator](https://techcrunch.com/2022/06/23/khaby-lame-most-followers-tiktok-charli-damelio/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
