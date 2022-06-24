@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amsterdam cyber startup Hadrian closes €10.5M Seed for platform which simulates hacker attacks](https://techcrunch.com/2022/06/24/amsterdam-cyber-startup-hadrian-closes-e10-5m-seed-for-platform-which-simulates-hacker-attacks/)
 - [India’s central bank cracks down on fintech startups](https://techcrunch.com/2022/06/23/indias-central-bank-cracks-down-on-fintech-startups/)
 - [Wondermed pulls $4,600K out of a hole to ply you with ketamine](https://techcrunch.com/2022/06/23/wondermed-investment/)
 - [Airrow is automating battery and payload swapping for drones](https://techcrunch.com/2022/06/23/airrow-is-automating-battery-and-payload-swapping-for-drones/)
 - [Ro cuts 18% of staff despite narrowing focus, raising additional capital](https://techcrunch.com/2022/06/23/ro-cuts-18-of-staff-despite-narrowing-focus-raising-additional-capital/)
-- [Daily Crunch: London-based SumUp pins $8.5B valuation with $624M debt-equity round](https://techcrunch.com/2022/06/23/daily-crunch-london-based-sumup-pins-8-5b-valuation-with-624m-debt-equity-round/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
