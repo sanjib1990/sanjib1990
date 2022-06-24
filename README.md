@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This newfound fast radio burst challenges what astronomers know about the powerful astronomical phenomena](https://www.space.com/fast-radio-burst-challenges-astronomers/)
+- [Mercury shows off craters in amazing pictures from BepiColombo flyby](https://www.space.com/mercury-bepicolombo-2nd-flyby-photos/)
+- [​​Forests are a multitrillion-dollar asset. Vibrant Planet bets SaaS can save them](https://techcrunch.com/2022/06/24/forests-are-a-multitrillion-dollar-asset-vibrant-planet-bets-saas-can-save-them/)
+- [Mysterious &#39;hot Jupiter&#39; planets can form quickly or slowly, Gaia spacecraft reveals](https://www.space.com/hot-jupiter-planet-formation-gaia/)
 - [Cruise’s driverless autonomous cars start giving rides to paying passengers](https://techcrunch.com/2022/06/24/cruises-driverless-autonomous-cars-start-giving-rides-to-paying-passengers/)
-- [Zomato acquires Blinkit for $568 million in instant-grocery delivery push](https://techcrunch.com/2022/06/24/zomato-blinkit/)
-- [Save up to $110 on the Elegoo Mars 2 Pro 3D printer at Amazon](https://www.space.com/elegoo-3d-printer-june-amazon-deal-save-50-dollars/)
-- [Leica’s new camera costs $20,000 and has zero megapixels](https://techcrunch.com/2022/06/24/leica-more-like-lolca/)
-- [Is a mirrorless camera worth the cost?](https://www.space.com/is-a-mirrorless-camera-worth-the-cost/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
