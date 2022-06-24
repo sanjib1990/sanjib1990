@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Rogue rocket&#39;s moon crash site spotted by NASA probe &lpar;photos&rpar;](https://www.space.com/rocket-moon-crash-site-spotted-photos/)
-- [Startups must reevaluate how they hire and develop talent](https://techcrunch.com/2022/06/24/startups-must-reevaluate-how-they-hire-and-develop-talent/)
-- [Startups keep laying off swaths of employees as the downturn continues](https://techcrunch.com/2022/06/24/startups-keep-laying-off-swaths-of-employees-as-the-downturn-continues/)
-- [TechCrunch podcasts roundup: Bill Gates on climate, the current health of fintech, and Latashá on what web3 offers artists](https://techcrunch.com/2022/06/24/bill-gates-on-the-climate-the-current-health-of-fintech-and-latasha-on-what-web3-offers-artists/)
-- [Uh oh! European carriers are trying to get into ‘personalized’ ad targeting](https://techcrunch.com/2022/06/24/trustpid/)
+- [Late-stage tech companies must do right by their employees: Reassess your 409A valuations](https://techcrunch.com/2022/06/24/late-stage-tech-companies-must-do-right-by-their-employees-reassess-your-409a-valuations/)
+- [Astronaut cosplays as &#39;Gravity&#39; spacefarer in epic space station shot](https://www.space.com/astronaut-cosplay-gravity-spacefarer-photo/)
+- [How I navigated my pregnancy as a Series A founder](https://techcrunch.com/2022/06/24/how-i-navigated-my-pregnancy-as-a-series-a-founder/)
+- [Harmful pig poop lagoons mapped from space &lpar;images&rpar;](https://www.space.com/pig-poop-lagoons-landsat-5-satellite/)
+- [NASA&#39;s metal asteroid mission Psyche won&#39;t launch before mid-2023 &lpar;and could face cancellation&rpar;](https://www.space.com/psyche-delay-2023-review-options/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
