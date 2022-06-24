@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Telescope deals: Top picks from Celestron, Sky-Watcher and others](https://www.space.com/telescopes-deals-sale-discount/)
+- [Zendesk’s final selling price is a warning shot for unicorns](https://techcrunch.com/2022/06/24/zendesks-final-selling-price-is-a-warning-shot-for-unicorns/)
+- [All this startup news, and we didn’t even talk about Juul](https://techcrunch.com/2022/06/24/startup-and-juul/)
 - [Tech companies respond to U.S. Supreme Court abortion decision](https://techcrunch.com/2022/06/24/tech-companies-respond-to-u-s-supreme-court-abortion-decision/)
 - [Apple Music is raising the price of its student plan in the US, UK and Canada](https://techcrunch.com/2022/06/24/apple-music-raising-price-student-plan-us-uk-canada/)
-- [Europe&#39;s veteran Mars orbiter gets upgrade to key instrument for seeking water](https://www.space.com/mars-orbiter-instrument-software-upgrade/)
-- [Hacker exploits Harmony blockchain bridge, loots $100M in crypto](https://techcrunch.com/2022/06/24/harmony-blockchain-crypto-hack/)
-- [Best photo editing apps for astrophotography 2022](https://www.space.com/best-photo-editing-apps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
