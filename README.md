@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Wondermed pulls $4,600K out of a hole to ply you with ketamine](https://techcrunch.com/2022/06/23/wondermed-investment/)
 - [Airrow is automating battery and payload swapping for drones](https://techcrunch.com/2022/06/23/airrow-is-automating-battery-and-payload-swapping-for-drones/)
 - [Ro cuts 18% of staff despite narrowing focus, raising additional capital](https://techcrunch.com/2022/06/23/ro-cuts-18-of-staff-despite-narrowing-focus-raising-additional-capital/)
 - [Daily Crunch: London-based SumUp pins $8.5B valuation with $624M debt-equity round](https://techcrunch.com/2022/06/23/daily-crunch-london-based-sumup-pins-8-5b-valuation-with-624m-debt-equity-round/)
 - [Brex says it did a ‘poor job’ explaining its decision to cut off SMBs](https://techcrunch.com/2022/06/23/brex-admits-it-did-a-poor-job-explaining-its-decision-to-cut-off-smbs/)
-- [Alexa goes down the conversational rabbit hole](https://techcrunch.com/2022/06/23/alexa-goes-down-the-conversational-rabbit-hole/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
