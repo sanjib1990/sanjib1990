@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Startups must reevaluate how they hire and develop talent](https://techcrunch.com/2022/06/24/startups-must-reevaluate-how-they-hire-and-develop-talent/)
+- [Startups keep laying off swaths of employees as the downturn continues](https://techcrunch.com/2022/06/24/startups-keep-laying-off-swaths-of-employees-as-the-downturn-continues/)
+- [TechCrunch podcasts roundup: Bill Gates on climate, the current health of fintech, and Latashá on what web3 offers artists](https://techcrunch.com/2022/06/24/bill-gates-on-the-climate-the-current-health-of-fintech-and-latasha-on-what-web3-offers-artists/)
+- [Uh oh! European carriers are trying to get into ‘personalized’ ad targeting](https://techcrunch.com/2022/06/24/trustpid/)
 - [Telescope deals: Top picks from Celestron, Sky-Watcher and others](https://www.space.com/telescopes-deals-sale-discount/)
-- [Zendesk’s final selling price is a warning shot for unicorns](https://techcrunch.com/2022/06/24/zendesks-final-selling-price-is-a-warning-shot-for-unicorns/)
-- [All this startup news, and we didn’t even talk about Juul](https://techcrunch.com/2022/06/24/startup-and-juul/)
-- [Tech companies respond to U.S. Supreme Court abortion decision](https://techcrunch.com/2022/06/24/tech-companies-respond-to-u-s-supreme-court-abortion-decision/)
-- [Apple Music is raising the price of its student plan in the US, UK and Canada](https://techcrunch.com/2022/06/24/apple-music-raising-price-student-plan-us-uk-canada/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
