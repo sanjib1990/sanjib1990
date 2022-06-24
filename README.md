@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Parellelz brings a new approach to seamlessly convert native mobile apps to websites](https://techcrunch.com/2022/06/24/parellelz-brings-a-new-approach-to-seamlessly-convert-native-mobile-apps-to-websites/)
 - [Mars stares back with eerie eyeball-like crater &lpar;photo&rpar;](https://www.space.com/mars-express-eye-crater-photo/)
 - [Venus and the crescent moon get together in dazzling dance early Sunday morning](https://www.space.com/venus-crescent-moon-conjunction-june-2022/)
 - [Funko to can NASA astronauts as limited-edition Soda vinyl figures](https://www.space.com/funko-soda-nasa-astronaut-figure/)
 - [NASA halts sale of cockroach-eaten Apollo 11 moon dust](https://www.space.com/apollo-11-moon-dust-cockroaches-auction-withdrawn/)
-- [Jupiter scientists need your help hunting for storms in stunning photos](https://www.space.com/jupiter-storms-volunteer-science-project/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
