@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Amsterdam cyber startup Hadrian closes €10.5M Seed for platform which simulates hacker attacks](https://techcrunch.com/2022/06/24/amsterdam-cyber-startup-hadrian-closes-e10-5m-seed-for-platform-which-simulates-hacker-attacks/)
-- [India’s central bank cracks down on fintech startups](https://techcrunch.com/2022/06/23/indias-central-bank-cracks-down-on-fintech-startups/)
-- [Wondermed pulls $4,600K out of a hole to ply you with ketamine](https://techcrunch.com/2022/06/23/wondermed-investment/)
-- [Airrow is automating battery and payload swapping for drones](https://techcrunch.com/2022/06/23/airrow-is-automating-battery-and-payload-swapping-for-drones/)
-- [Ro cuts 18% of staff despite narrowing focus, raising additional capital](https://techcrunch.com/2022/06/23/ro-cuts-18-of-staff-despite-narrowing-focus-raising-additional-capital/)
+- [Mars stares back with eerie eyeball-like crater &lpar;photo&rpar;](https://www.space.com/mars-express-eye-crater-photo/)
+- [Venus and the crescent moon get together in dazzling dance early Sunday morning](https://www.space.com/venus-crescent-moon-conjunction-june-2022/)
+- [Funko to can NASA astronauts as limited-edition Soda vinyl figures](https://www.space.com/funko-soda-nasa-astronaut-figure/)
+- [NASA halts sale of cockroach-eaten Apollo 11 moon dust](https://www.space.com/apollo-11-moon-dust-cockroaches-auction-withdrawn/)
+- [Jupiter scientists need your help hunting for storms in stunning photos](https://www.space.com/jupiter-storms-volunteer-science-project/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
