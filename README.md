@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Months after rejecting a $17B bid, Zendesk sells to private equity group for $10.2B](https://techcrunch.com/2022/06/24/daily-crunch-months-after-rejecting-a-17b-bid-zendesk-sells-to-private-equity-group-for-10-2b/)
+- [&#39;Star Trek: Strange New Worlds&#39; episode 7 teases the return of an epic character](https://www.space.com/star-trek-strange-new-worlds-season-1-episode-7-review/)
+- [TechCrunch+ roundup: Non-dilutive biotech capital, long-term angel investing, WayRay’s $80M pitch deck](https://techcrunch.com/2022/06/24/techcrunch-roundup-non-dilutive-biotech-capital-long-term-angel-investing-wayrays-80m-pitch-deck/)
+- [Bird gets a warning from the NYSE because its stock price is too low](https://techcrunch.com/2022/06/24/bird-gets-a-warning-from-the-nyse-because-its-stock-price-is-too-low/)
 - [VCs shouldn’t confuse risk management with not funding diverse founders](https://techcrunch.com/2022/06/24/vcs-shouldnt-confuse-risk-management-with-not-funding-diverse-founders/)
-- [MrBeast explains YouTube’s algorithm](https://techcrunch.com/2022/06/24/mrbeast-explain-algorithm-youtube-vidcon/)
-- [Late-stage tech companies must do right by their employees: Reassess your 409A valuations](https://techcrunch.com/2022/06/24/late-stage-tech-companies-must-do-right-by-their-employees-reassess-your-409a-valuations/)
-- [Astronaut cosplays as &#39;Gravity&#39; spacefarer in epic space station shot](https://www.space.com/astronaut-cosplay-gravity-spacefarer-photo/)
-- [How I navigated my pregnancy as a Series A founder](https://techcrunch.com/2022/06/24/how-i-navigated-my-pregnancy-as-a-series-a-founder/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
