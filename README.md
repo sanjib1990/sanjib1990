@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Zendesk drama concludes with $10.2 billion private equity acquisition](https://techcrunch.com/2022/06/24/zendesk-drama-concludes-with-10-2-billion-private-equity-acquisition/)
+- [3 views on why startup math may soon get a lot more creative](https://techcrunch.com/2022/06/24/3-views-on-why-startup-math-may-soon-get-a-lot-more-creative/)
+- [Mars meteorite challenges leading theory of how the Red Planet formed](https://www.space.com/mars-meteorite-krypton-formation-mystery/)
 - [Dublin-based corporate gifting platform &amp;Open raises $26M Series A led by Molten Ventures](https://techcrunch.com/2022/06/24/dublin-based-corporate-gifting-platform-open-raises-26m-series-a-led-by-molten-ventures/)
 - [Parellelz brings a new approach to seamlessly convert native mobile apps to websites](https://techcrunch.com/2022/06/24/parellelz-brings-a-new-approach-to-seamlessly-convert-native-mobile-apps-to-websites/)
-- [Mars stares back with eerie eyeball-like crater &lpar;photo&rpar;](https://www.space.com/mars-express-eye-crater-photo/)
-- [Venus and the crescent moon get together in dazzling dance early Sunday morning](https://www.space.com/venus-crescent-moon-conjunction-june-2022/)
-- [Funko to can NASA astronauts as limited-edition Soda vinyl figures](https://www.space.com/funko-soda-nasa-astronaut-figure/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
