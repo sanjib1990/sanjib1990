@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Zendesk drama concludes with $10.2 billion private equity acquisition](https://techcrunch.com/2022/06/24/zendesk-drama-concludes-with-10-2-billion-private-equity-acquisition/)
-- [3 views on why startup math may soon get a lot more creative](https://techcrunch.com/2022/06/24/3-views-on-why-startup-math-may-soon-get-a-lot-more-creative/)
-- [Mars meteorite challenges leading theory of how the Red Planet formed](https://www.space.com/mars-meteorite-krypton-formation-mystery/)
-- [Dublin-based corporate gifting platform &amp;Open raises $26M Series A led by Molten Ventures](https://techcrunch.com/2022/06/24/dublin-based-corporate-gifting-platform-open-raises-26m-series-a-led-by-molten-ventures/)
-- [Parellelz brings a new approach to seamlessly convert native mobile apps to websites](https://techcrunch.com/2022/06/24/parellelz-brings-a-new-approach-to-seamlessly-convert-native-mobile-apps-to-websites/)
+- [Cruise’s driverless autonomous cars start giving rides to paying passengers](https://techcrunch.com/2022/06/24/cruises-driverless-autonomous-cars-start-giving-rides-to-paying-passengers/)
+- [Zomato acquires Blinkit for $568 million in instant-grocery delivery push](https://techcrunch.com/2022/06/24/zomato-blinkit/)
+- [Save up to $110 on the Elegoo Mars 2 Pro 3D printer at Amazon](https://www.space.com/elegoo-3d-printer-june-amazon-deal-save-50-dollars/)
+- [Leica’s new camera costs $20,000 and has zero megapixels](https://techcrunch.com/2022/06/24/leica-more-like-lolca/)
+- [Is a mirrorless camera worth the cost?](https://www.space.com/is-a-mirrorless-camera-worth-the-cost/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
