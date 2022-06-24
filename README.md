@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rogue rocket&#39;s moon crash site spotted by NASA probe &lpar;photos&rpar;](https://www.space.com/rocket-moon-crash-site-spotted-photos/)
 - [Startups must reevaluate how they hire and develop talent](https://techcrunch.com/2022/06/24/startups-must-reevaluate-how-they-hire-and-develop-talent/)
 - [Startups keep laying off swaths of employees as the downturn continues](https://techcrunch.com/2022/06/24/startups-keep-laying-off-swaths-of-employees-as-the-downturn-continues/)
 - [TechCrunch podcasts roundup: Bill Gates on climate, the current health of fintech, and Latashá on what web3 offers artists](https://techcrunch.com/2022/06/24/bill-gates-on-the-climate-the-current-health-of-fintech-and-latasha-on-what-web3-offers-artists/)
 - [Uh oh! European carriers are trying to get into ‘personalized’ ad targeting](https://techcrunch.com/2022/06/24/trustpid/)
-- [Telescope deals: Top picks from Celestron, Sky-Watcher and others](https://www.space.com/telescopes-deals-sale-discount/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
