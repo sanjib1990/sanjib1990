@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [This newfound fast radio burst challenges what astronomers know about the powerful astronomical phenomena](https://www.space.com/fast-radio-burst-challenges-astronomers/)
-- [Mercury shows off craters in amazing pictures from BepiColombo flyby](https://www.space.com/mercury-bepicolombo-2nd-flyby-photos/)
-- [​​Forests are a multitrillion-dollar asset. Vibrant Planet bets SaaS can save them](https://techcrunch.com/2022/06/24/forests-are-a-multitrillion-dollar-asset-vibrant-planet-bets-saas-can-save-them/)
-- [Mysterious &#39;hot Jupiter&#39; planets can form quickly or slowly, Gaia spacecraft reveals](https://www.space.com/hot-jupiter-planet-formation-gaia/)
-- [Cruise’s driverless autonomous cars start giving rides to paying passengers](https://techcrunch.com/2022/06/24/cruises-driverless-autonomous-cars-start-giving-rides-to-paying-passengers/)
+- [Tech companies respond to U.S. Supreme Court abortion decision](https://techcrunch.com/2022/06/24/tech-companies-respond-to-u-s-supreme-court-abortion-decision/)
+- [Apple Music is raising the price of its student plan in the US, UK and Canada](https://techcrunch.com/2022/06/24/apple-music-raising-price-student-plan-us-uk-canada/)
+- [Europe&#39;s veteran Mars orbiter gets upgrade to key instrument for seeking water](https://www.space.com/mars-orbiter-instrument-software-upgrade/)
+- [Hacker exploits Harmony blockchain bridge, loots $100M in crypto](https://techcrunch.com/2022/06/24/harmony-blockchain-crypto-hack/)
+- [Best photo editing apps for astrophotography 2022](https://www.space.com/best-photo-editing-apps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
