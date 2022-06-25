@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Startup layoffs, the art of reinvention and a MasterClass in change](https://techcrunch.com/2022/06/25/startup-layoffs-the-art-of-reinvention-and-a-masterclass-in-change/)
 - [China launches 4 satellites with 2 rockets in 2 days](https://www.space.com/news/china-launches-4-satellites-with-2-rockets-in-2-days/)
 - [NASA eyeing late August for launch of Artemis 1 moon mission](https://www.space.com/artemis-1-moon-mission-late-august-launch/)
 - [Juul can keep selling vaping products in the US for now](https://techcrunch.com/2022/06/24/juul-fda-court-stay/)
 - [NASA determines Space Launch System testing complete](https://techcrunch.com/2022/06/24/nasa-determines-space-launch-system-testing-complete/)
-- [Daily Crunch: Months after rejecting a $17B bid, Zendesk sells to private equity group for $10.2B](https://techcrunch.com/2022/06/24/daily-crunch-months-after-rejecting-a-17b-bid-zendesk-sells-to-private-equity-group-for-10-2b/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
