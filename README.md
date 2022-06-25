@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The ruling against Juuling?](https://techcrunch.com/2022/06/25/juul-vaping-banned-in-the-us-by-fda/)
 - [This Week in Apps: Twitter Notes, Instagram age verification, Spotify’s Live Events](https://techcrunch.com/2022/06/25/this-week-in-apps-twitter-notes-instagram-age-verification-spotifys-live-events/)
 - [What do you call the opposite of the startup halo effect?](https://techcrunch.com/2022/06/25/what-do-you-call-the-opposite-of-the-startup-halo-effect/)
 - [What’s the ‘secret sauce’ behind Croatian EV maker Rimac?](https://techcrunch.com/2022/06/25/whats-the-secret-sauce-behind-croatian-ev-maker-rimac/)
 - [Indian fintechs request central bank to treat full-KYC PPI same as bank account to survive crackdown](https://techcrunch.com/2022/06/25/indian-fintechs-request-central-bank-to-treat-full-kyc-ppi-same-as-bank-account-to-survive-crackdown/)
-- [Celestron Advanced VX 8 Edge HD telescope: Full review](https://www.space.com/celestron-advanced-vx-8-edge-hd-telescope-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
