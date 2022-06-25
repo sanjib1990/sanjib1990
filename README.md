@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Extreme microbes in salty Arctic water could aid search for life on Mars](https://www.space.com/mars-life-blueprint-arctic-extreme-microbes/)
+- [NASA to launch 3 sounding rockets from Northern Territory in boost for Australian space efforts](https://www.space.com/nasa-sounding-rocket-launches-australia/)
+- [Stunning Mars photos by the Curiosity rover show ancient climate shift](https://www.space.com/curiosity-rover-mars-changing-climate-rock-photos/)
+- [LightSail 2 celebrates 3rd space birthday as end of mission approaches](https://www.space.com/lightsail-2-third-anniversary-end-approaching/)
 - [Startup layoffs, the art of reinvention and a MasterClass in change](https://techcrunch.com/2022/06/25/startup-layoffs-the-art-of-reinvention-and-a-masterclass-in-change/)
-- [China launches 4 satellites with 2 rockets in 2 days](https://www.space.com/news/china-launches-4-satellites-with-2-rockets-in-2-days/)
-- [NASA eyeing late August for launch of Artemis 1 moon mission](https://www.space.com/artemis-1-moon-mission-late-august-launch/)
-- [Juul can keep selling vaping products in the US for now](https://techcrunch.com/2022/06/24/juul-fda-court-stay/)
-- [NASA determines Space Launch System testing complete](https://techcrunch.com/2022/06/24/nasa-determines-space-launch-system-testing-complete/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
