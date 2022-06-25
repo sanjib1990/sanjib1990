@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Don&#39;t miss Venus meet the moon before dawn on Sunday in gorgeous photo opportunity](https://www.space.com/venus-moon-approach-night-sky-june-2022/)
+- [China launches 4 satellites with 2 rockets in 2 days](https://www.space.com/china-launches-4-satellites-with-2-rockets-in-2-days/)
+- [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html/)
 - [25 French unicorns, 25 French unicorns, do I hear 100?](https://techcrunch.com/2022/06/25/25-french-unicorns-25-french-unicorns-do-i-hear-100/)
 - [On This Day In Space: June 25, 1997: Spacecraft collides with Mir space station](https://www.space.com/39251-on-this-day-in-space.html/)
-- [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html/)
-- [Extreme microbes in salty Arctic water could aid search for life on Mars](https://www.space.com/mars-life-blueprint-arctic-extreme-microbes/)
-- [NASA to launch 3 sounding rockets from Northern Territory in boost for Australian space efforts](https://www.space.com/nasa-sounding-rocket-launches-australia/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
