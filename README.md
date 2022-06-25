@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [China launches 4 satellites with 2 rockets in 2 days](https://www.space.com/news/china-launches-4-satellites-with-2-rockets-in-2-days/)
+- [NASA eyeing late August for launch of Artemis 1 moon mission](https://www.space.com/artemis-1-moon-mission-late-august-launch/)
 - [Juul can keep selling vaping products in the US for now](https://techcrunch.com/2022/06/24/juul-fda-court-stay/)
 - [NASA determines Space Launch System testing complete](https://techcrunch.com/2022/06/24/nasa-determines-space-launch-system-testing-complete/)
 - [Daily Crunch: Months after rejecting a $17B bid, Zendesk sells to private equity group for $10.2B](https://techcrunch.com/2022/06/24/daily-crunch-months-after-rejecting-a-17b-bid-zendesk-sells-to-private-equity-group-for-10-2b/)
-- [&#39;Star Trek: Strange New Worlds&#39; episode 7 teases the return of an epic character](https://www.space.com/star-trek-strange-new-worlds-season-1-episode-7-review/)
-- [TechCrunch+ roundup: Non-dilutive biotech capital, long-term angel investing, WayRay’s $80M pitch deck](https://techcrunch.com/2022/06/24/techcrunch-roundup-non-dilutive-biotech-capital-long-term-angel-investing-wayrays-80m-pitch-deck/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
