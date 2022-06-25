@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What’s the ‘secret sauce’ behind Croatian EV maker Rimac?](https://techcrunch.com/2022/06/25/whats-the-secret-sauce-behind-croatian-ev-maker-rimac/)
+- [Indian fintechs request central bank to treat full-KYC PPI same as bank account to survive crackdown](https://techcrunch.com/2022/06/25/indian-fintechs-request-central-bank-to-treat-full-kyc-ppi-same-as-bank-account-to-survive-crackdown/)
+- [Celestron Advanced VX 8 Edge HD telescope: Full review](https://www.space.com/celestron-advanced-vx-8-edge-hd-telescope-review/)
 - [Crypto community or crumbling cult? And other TC news](https://techcrunch.com/2022/06/25/crypto-community-or-crumbling-cult-and-other-tc-news/)
 - [&#39;Blade Runner&#39; at 40: Director Ridley Scott&#39;s dystopian masterpiece continues to reverberate today](https://www.space.com/blade-runner-ridley-scott-40th-anniversary/)
-- [This Week In Space podcast: Episode 17 — Incoming comms &lpar;we talk to YOU!&rpar;](https://www.space.com/this-week-in-space-podcast-twit/)
-- [Don&#39;t miss Venus meet the moon before dawn on Sunday in gorgeous photo opportunity](https://www.space.com/venus-moon-approach-night-sky-june-2022/)
-- [China launches 4 satellites with 2 rockets in 2 days](https://www.space.com/china-launches-4-satellites-with-2-rockets-in-2-days/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
