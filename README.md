@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [25 French unicorns, 25 French unicorns, do I hear 100?](https://techcrunch.com/2022/06/25/25-french-unicorns-25-french-unicorns-do-i-hear-100/)
+- [On This Day In Space: June 25, 1997: Spacecraft collides with Mir space station](https://www.space.com/39251-on-this-day-in-space.html/)
+- [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html/)
 - [Extreme microbes in salty Arctic water could aid search for life on Mars](https://www.space.com/mars-life-blueprint-arctic-extreme-microbes/)
 - [NASA to launch 3 sounding rockets from Northern Territory in boost for Australian space efforts](https://www.space.com/nasa-sounding-rocket-launches-australia/)
-- [Stunning Mars photos by the Curiosity rover show ancient climate shift](https://www.space.com/curiosity-rover-mars-changing-climate-rock-photos/)
-- [LightSail 2 celebrates 3rd space birthday as end of mission approaches](https://www.space.com/lightsail-2-third-anniversary-end-approaching/)
-- [Startup layoffs, the art of reinvention and a MasterClass in change](https://techcrunch.com/2022/06/25/startup-layoffs-the-art-of-reinvention-and-a-masterclass-in-change/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
