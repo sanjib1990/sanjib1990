@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Crypto community or crumbling cult? And other TC news](https://techcrunch.com/2022/06/25/crypto-community-or-crumbling-cult-and-other-tc-news/)
+- [&#39;Blade Runner&#39; at 40: Director Ridley Scott&#39;s dystopian masterpiece continues to reverberate today](https://www.space.com/blade-runner-ridley-scott-40th-anniversary/)
+- [This Week In Space podcast: Episode 17 — Incoming comms &lpar;we talk to YOU!&rpar;](https://www.space.com/this-week-in-space-podcast-twit/)
 - [Don&#39;t miss Venus meet the moon before dawn on Sunday in gorgeous photo opportunity](https://www.space.com/venus-moon-approach-night-sky-june-2022/)
 - [China launches 4 satellites with 2 rockets in 2 days](https://www.space.com/china-launches-4-satellites-with-2-rockets-in-2-days/)
-- [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html/)
-- [25 French unicorns, 25 French unicorns, do I hear 100?](https://techcrunch.com/2022/06/25/25-french-unicorns-25-french-unicorns-do-i-hear-100/)
-- [On This Day In Space: June 25, 1997: Spacecraft collides with Mir space station](https://www.space.com/39251-on-this-day-in-space.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
