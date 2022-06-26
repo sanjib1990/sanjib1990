@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Formerly rich NFT buyers party through the pain](https://techcrunch.com/2022/06/25/formerly-rich-nft-buyers-party-through-the-pain/)
-- [The ruling against Juuling?](https://techcrunch.com/2022/06/25/juul-vaping-banned-in-the-us-by-fda/)
-- [This Week in Apps: Twitter Notes, Instagram age verification, Spotify’s Live Events](https://techcrunch.com/2022/06/25/this-week-in-apps-twitter-notes-instagram-age-verification-spotifys-live-events/)
-- [What do you call the opposite of the startup halo effect?](https://techcrunch.com/2022/06/25/what-do-you-call-the-opposite-of-the-startup-halo-effect/)
-- [What’s the ‘secret sauce’ behind Croatian EV maker Rimac?](https://techcrunch.com/2022/06/25/whats-the-secret-sauce-behind-croatian-ev-maker-rimac/)
+- [Buzz Lightyear has really flown in space. Here are the videos to prove it.](https://www.space.com/buzz-lightyear-in-space-videos/)
+- [See the moon shine near Mercury before dawn on Monday as it concludes its planet tour](https://www.space.com/moon-meets-mercury-june-2022/)
+- [You can watch the rare 5-planet alignment in a live webcast for free today](https://www.space.com/5-planets-alignment-parade-webcast-june-2022/)
+- [Flashes from neutron star tidal waves may signal impending mergers](https://www.space.com/neutron-star-mergers-tidal-waves/)
+- [Gaia mission: 5 revealing insights from its latest data](https://www.space.com/gaia-milky-way-data-five-new-insights/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
