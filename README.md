@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [On This Day In Space: June 26, 1954: NACA research station moves to new base](https://www.space.com/39251-on-this-day-in-space.html/)
+- [Marvel at the majestic galaxies in this classic Hubble telescope photo](https://www.space.com/hubble-telescope-majestic-dwarf-galaxy-photo/)
 - [Buzz Lightyear has really flown in space. Here are the videos to prove it.](https://www.space.com/buzz-lightyear-in-space-videos/)
 - [See the moon shine near Mercury before dawn on Monday as it concludes its planet tour](https://www.space.com/moon-meets-mercury-june-2022/)
 - [You can watch the rare 5-planet alignment in a live webcast for free today](https://www.space.com/5-planets-alignment-parade-webcast-june-2022/)
-- [Flashes from neutron star tidal waves may signal impending mergers](https://www.space.com/neutron-star-mergers-tidal-waves/)
-- [Gaia mission: 5 revealing insights from its latest data](https://www.space.com/gaia-milky-way-data-five-new-insights/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
