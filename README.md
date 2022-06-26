@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why LFP batteries are poised to bring down entry-level EV prices](https://techcrunch.com/2022/06/26/why-lfp-batteries-are-poised-to-bring-down-entry-level-ev-prices/)
 - [Fintech investors appear to be favoring later-stage deals as sector takes a hit, recent data shows](https://techcrunch.com/2022/06/26/fintech-investors-appear-to-be-favoring-later-stage-deals-recent-data-shows/)
 - [Watch NASA&#39;s CAPSTONE cubesat launch to the moon Monday to test unique lunar orbit](https://www.space.com/nasa-moon-capstone-mission-launch-webcast/)
 - [Red Sox CTO: Baseball teams need modern tech stack as much as any other biz](https://techcrunch.com/2022/06/26/red-sox-cto-baseball-teams-need-modern-tech-stack-as-much-as-any-other-biz/)
 - [On This Day In Space: June 26, 1954: NACA research station moves to new base](https://www.space.com/39251-on-this-day-in-space.html/)
-- [Marvel at the majestic galaxies in this classic Hubble telescope photo](https://www.space.com/hubble-telescope-majestic-dwarf-galaxy-photo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
