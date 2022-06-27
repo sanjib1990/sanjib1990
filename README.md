@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Battery giant Anker backs programmable robot maker Keyi](https://techcrunch.com/2022/06/27/battery-anker-invests-steam-robomaker-keyi-clicbot/)
+- [The Station: Cruise turns on the meter, Bird fails to take flight, layoffs come for micromobility](https://techcrunch.com/2022/06/27/the-station-cruise-turns-on-the-meter-bird-fails-to-take-flight-layoffs-come-for-micromobility/)
+- [NASA&#39;s James Webb Space Telescope: The ultimate guide](https://www.space.com/21925-james-webb-space-telescope-jwst.html/)
 - [Austin-based True Wealth Ventures raises second fund to back women-led startups](https://techcrunch.com/2022/06/27/austin-true-wealth-ventures-raises-second-fund-female-women-startups-founders-entrepreneurs/)
 - [Planet Neptune will go into reverse as it moves in the sky on Tuesday](https://www.space.com/neptune-enters-retrograde-june-2022/)
-- [James Webb Space Telescope will study Milky Way&#39;s monster black hole](https://www.space.com/james-webb-space-telescope-event-horizon-partnership/)
-- [On This Day In Space: June 27, 1997: NEAR Shoemaker flies by asteroid Mathilde](https://www.space.com/39251-on-this-day-in-space.html/)
-- [Incredibuild powers up with $35M to boost its distributed, faster approach to games and software development](https://techcrunch.com/2022/06/27/incredibuild-powers-up-with-35m-to-boost-its-distributed-faster-take-on-games-and-software-development/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
