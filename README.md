@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates/)
-- [How Cadillac plans to use its $300,000 Celestiq EV to rebuild the brand](https://techcrunch.com/2022/06/27/cadillac-celestiq-ev-price/)
-- [James Webb Space Telescope team clears 1st instrument for science observations](https://www.space.com/james-webb-space-telescope-1st-instrument-ready/)
-- [Perceptron: Analyzing images in the blink of an eye and tracking the lifecycle of snow](https://techcrunch.com/2022/06/27/perceptron-analyzing-images-in-the-blink-of-an-eye-and-tracking-the-lifecycle-of-snow/)
-- [Watch Mercury roll by as BepiColombo probe makes superclose flyby &lpar;video&rpar;](https://www.space.com/mercury-2nd-flyby-video-bepicolombo-reveals-craters/)
+- [Meta introduces Instagram Reels APIs for developers](https://techcrunch.com/2022/06/27/meta-instagram-reels-apis-developers/)
+- [This crypto winter may be long, but builders remain bullish](https://techcrunch.com/2022/06/27/this-crypto-winter-may-be-long-but-builders-remain-bullish/)
+- [Period tracker Stardust surges following Roe reversal, but its privacy claims aren’t airtight](https://techcrunch.com/2022/06/27/stardust-period-tracker-phone-number/)
+- [Consumers swap period tracking apps in search of increased privacy following Roe v. Wade ruling](https://techcrunch.com/2022/06/27/consumers-swap-period-tracking-apps-in-search-of-increased-privacy-following-roe-v-wade-ruling/)
+- [Watch private freighter leave space station early Tuesday for fiery death](https://www.space.com/cygnus-cargo-spacecraft-ng17-space-station-departure/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
