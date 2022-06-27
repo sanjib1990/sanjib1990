@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html/)
 - [UK’s Magical Mushroom Company uses Mycelium to replace plastic packaging](https://techcrunch.com/2022/06/27/uks-magical-mushroom-company-uses-mycelium-to-replace-plastic-packaging/)
 - [TLcom Capital appoints Eloho Omame as partner to back more pre-seed and female-led startups](https://techcrunch.com/2022/06/27/tlcom-capital-appoints-eloho-omame-as-partner-to-back-more-pre-seed-and-female-led-startups/)
 - [LG Electronics is moving into the EV charging business](https://techcrunch.com/2022/06/26/lg-electronics-is-moving-into-the-ev-charging-business/)
 - [Deliveree is smoothing Southeast Asia’s bumpy logistics landscape](https://techcrunch.com/2022/06/26/deliveree-is-smoothing-southeast-asias-bumpy-logistics-landscape/)
-- [Backstage Capital cuts majority of staff after pausing net new investments](https://techcrunch.com/2022/06/26/backstage-capital-cuts-majority-of-staff-after-pausing-net-new-investments/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
