@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Alien super-Earths may get a habitability boost from hydrogen-rich atmospheres](https://www.space.com/habitability-super-earth-hydrogen-atmosphere/)
+- [After several bruising months, industry analysts see Zendesk sale as pressure release](https://techcrunch.com/2022/06/27/after-several-bruising-months-industry-analysts-see-zendesk-sale-as-pressure-release/)
+- [Rocket Lab’s CAPSTONE mission to the moon is key to establishing a lunar space station](https://techcrunch.com/2022/06/27/rocket-labs-capstone-mission-to-the-moon-is-key-to-establishing-a-lunar-space-station/)
 - [Leverage, red flags, and a changing venture landscape](https://techcrunch.com/2022/06/27/leverage-red-flags-and-a-changing-venture-landscape/)
 - [AI Squared raises $6M to help companies integrate AI into existing applications](https://techcrunch.com/2022/06/27/ai-squared-raises-6m-to-help-companies-integrate-ai-into-existing-applications/)
-- [California judge upholds a case against Pinterest over a marketer’s contribution to initial concepts](https://techcrunch.com/2022/06/27/california-judge-upholds-a-case-against-pinterest-over-a-marketers-contribution-to-initial-concepts/)
-- [New York-based grand jury issues subpoenas to Truth Social SPAC board members](https://techcrunch.com/2022/06/27/new-york-based-grand-jury-issues-subpoenas-to-truth-social-spac-board-members/)
-- [Volkswagen unveils ID.AERO concept that will provide the basis for 2023 flagship EV](https://techcrunch.com/2022/06/27/volkswagen-unveils-id-aero-concept-that-will-provide-the-basis-for-2023-flagship-ev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
