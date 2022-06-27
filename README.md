@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Storybook in 100 Seconds](https://www.youtube.com/watch?v=gdlTFPebzAU)
 - [My Bleeding Edge Tech Stack for 2025](https://www.youtube.com/watch?v=rFP7rUYtOOg)
 - [Lecture 19: Differentiation Rules, Rolle&#39;s Theorem, and the Mean Value Theorem](https://www.youtube.com/watch?v=V3Wg_jrMSQY)
 - [Lecture 23: Pointwise and Uniform Convergence of Sequences of Functions](https://www.youtube.com/watch?v=_HRTdXJgZ0Q)
 - [Lecture 17: Uniform Continuity and the Definition of the Derivative](https://www.youtube.com/watch?v=f_sNWn7zujU)
-- [Lecture 21: The Riemann Integral of a Continuous Function](https://www.youtube.com/watch?v=QeYUHA0UMVg)
 <!-- YOUTUBE:END -->
 
 ---
