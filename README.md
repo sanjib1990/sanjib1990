@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates/)
+- [How Cadillac plans to use its $300,000 Celestiq EV to rebuild the brand](https://techcrunch.com/2022/06/27/cadillac-celestiq-ev-price/)
+- [James Webb Space Telescope team clears 1st instrument for science observations](https://www.space.com/james-webb-space-telescope-1st-instrument-ready/)
+- [Perceptron: Analyzing images in the blink of an eye and tracking the lifecycle of snow](https://techcrunch.com/2022/06/27/perceptron-analyzing-images-in-the-blink-of-an-eye-and-tracking-the-lifecycle-of-snow/)
 - [Watch Mercury roll by as BepiColombo probe makes superclose flyby &lpar;video&rpar;](https://www.space.com/mercury-2nd-flyby-video-bepicolombo-reveals-craters/)
-- [Fourth of July flash sale: Two-for-one passes to TechCrunch Disrupt](https://techcrunch.com/2022/06/27/fourth-of-july-flash-sale-two-for-one-passes-to-techcrunch-disrupt/)
-- [July full moon 2022: &#39;Buck supermoon&#39; passes Saturn](https://www.space.com/37341-july-full-moon.html/)
-- [Right-size your tech stack to withstand the downturn](https://techcrunch.com/2022/06/27/right-size-your-tech-stack-to-withstand-the-downturn/)
-- [Fintech Amount, which was valued at $1B last year, lays off 18% of staff](https://techcrunch.com/2022/06/27/fintech-amount-which-was-valued-at-1b-last-year-lays-off-18-of-staff/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
