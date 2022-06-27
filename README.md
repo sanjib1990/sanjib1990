@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [California judge upholds a case against Pinterest over a marketer’s contribution to initial concepts](https://techcrunch.com/2022/06/27/california-judge-upholds-a-case-against-pinterest-over-a-marketers-contribution-to-initial-concepts/)
+- [New York-based grand jury issues subpoenas to Truth Social SPAC board members](https://techcrunch.com/2022/06/27/new-york-based-grand-jury-issues-subpoenas-to-truth-social-spac-board-members/)
+- [Volkswagen unveils ID.AERO concept that will provide the basis for 2023 flagship EV](https://techcrunch.com/2022/06/27/volkswagen-unveils-id-aero-concept-that-will-provide-the-basis-for-2023-flagship-ev/)
 - [Battery giant Anker backs programmable robot maker Keyi](https://techcrunch.com/2022/06/27/battery-anker-invests-steam-robomaker-keyi-clicbot/)
 - [The Station: Cruise turns on the meter, Bird fails to take flight, layoffs come for micromobility](https://techcrunch.com/2022/06/27/the-station-cruise-turns-on-the-meter-bird-fails-to-take-flight-layoffs-come-for-micromobility/)
-- [NASA&#39;s James Webb Space Telescope: The ultimate guide](https://www.space.com/21925-james-webb-space-telescope-jwst.html/)
-- [Austin-based True Wealth Ventures raises second fund to back women-led startups](https://techcrunch.com/2022/06/27/austin-true-wealth-ventures-raises-second-fund-female-women-startups-founders-entrepreneurs/)
-- [Planet Neptune will go into reverse as it moves in the sky on Tuesday](https://www.space.com/neptune-enters-retrograde-june-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
