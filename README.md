@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Webb’s NIRISS Ready to See Cosmos in Over 2,000 Infrared Colors](https://blogs.nasa.gov/webb/2022/06/27/webbs-niriss-ready-to-see-cosmos-in-over-2000-infrared-colors/)
-- [The VC who helped incubate Discord has quietly spun up an autonomous contact center startup](https://techcrunch.com/2022/06/27/the-vc-who-helped-incubate-discord-has-quietly-spun-up-an-autonomous-contact-center-startup/)
-- [Celebrate Asteroid Day 2022 with free online broadcast this week](https://www.space.com/asteroid-day-2022-planetary-defense-webcast/)
-- [Proptech still has fundamental problems for entrepreneurs to solve](https://techcrunch.com/2022/06/27/proptech-still-has-fundamental-problems-for-entrepreneurs-to-solve/)
-- [What’s a fintech even worth these days?](https://techcrunch.com/2022/06/27/whats-a-fintech-even-worth-these-days/)
+- [Watch Mercury roll by as BepiColombo probe makes superclose flyby &lpar;video&rpar;](https://www.space.com/mercury-2nd-flyby-video-bepicolombo-reveals-craters/)
+- [Fourth of July flash sale: Two-for-one passes to TechCrunch Disrupt](https://techcrunch.com/2022/06/27/fourth-of-july-flash-sale-two-for-one-passes-to-techcrunch-disrupt/)
+- [July full moon 2022: &#39;Buck supermoon&#39; passes Saturn](https://www.space.com/37341-july-full-moon.html/)
+- [Right-size your tech stack to withstand the downturn](https://techcrunch.com/2022/06/27/right-size-your-tech-stack-to-withstand-the-downturn/)
+- [Fintech Amount, which was valued at $1B last year, lays off 18% of staff](https://techcrunch.com/2022/06/27/fintech-amount-which-was-valued-at-1b-last-year-lays-off-18-of-staff/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
