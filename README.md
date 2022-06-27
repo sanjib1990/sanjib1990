@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What’s a fintech even worth these days?](https://techcrunch.com/2022/06/27/whats-a-fintech-even-worth-these-days/)
 - [Alien super-Earths may get a habitability boost from hydrogen-rich atmospheres](https://www.space.com/habitability-super-earth-hydrogen-atmosphere/)
 - [After several bruising months, industry analysts see Zendesk sale as pressure release](https://techcrunch.com/2022/06/27/after-several-bruising-months-industry-analysts-see-zendesk-sale-as-pressure-release/)
 - [Rocket Lab’s CAPSTONE mission to the moon is key to establishing a lunar space station](https://techcrunch.com/2022/06/27/rocket-labs-capstone-mission-to-the-moon-is-key-to-establishing-a-lunar-space-station/)
 - [Leverage, red flags, and a changing venture landscape](https://techcrunch.com/2022/06/27/leverage-red-flags-and-a-changing-venture-landscape/)
-- [AI Squared raises $6M to help companies integrate AI into existing applications](https://techcrunch.com/2022/06/27/ai-squared-raises-6m-to-help-companies-integrate-ai-into-existing-applications/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
