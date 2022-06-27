@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Leverage, red flags, and a changing venture landscape](https://techcrunch.com/2022/06/27/leverage-red-flags-and-a-changing-venture-landscape/)
+- [AI Squared raises $6M to help companies integrate AI into existing applications](https://techcrunch.com/2022/06/27/ai-squared-raises-6m-to-help-companies-integrate-ai-into-existing-applications/)
 - [California judge upholds a case against Pinterest over a marketer’s contribution to initial concepts](https://techcrunch.com/2022/06/27/california-judge-upholds-a-case-against-pinterest-over-a-marketers-contribution-to-initial-concepts/)
 - [New York-based grand jury issues subpoenas to Truth Social SPAC board members](https://techcrunch.com/2022/06/27/new-york-based-grand-jury-issues-subpoenas-to-truth-social-spac-board-members/)
 - [Volkswagen unveils ID.AERO concept that will provide the basis for 2023 flagship EV](https://techcrunch.com/2022/06/27/volkswagen-unveils-id-aero-concept-that-will-provide-the-basis-for-2023-flagship-ev/)
-- [Battery giant Anker backs programmable robot maker Keyi](https://techcrunch.com/2022/06/27/battery-anker-invests-steam-robomaker-keyi-clicbot/)
-- [The Station: Cruise turns on the meter, Bird fails to take flight, layoffs come for micromobility](https://techcrunch.com/2022/06/27/the-station-cruise-turns-on-the-meter-bird-fails-to-take-flight-layoffs-come-for-micromobility/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
