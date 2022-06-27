@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch private freighter leave space station early Tuesday for fiery death](https://www.space.com/cygnus-cargo-spacecraft-ng17-space-station-departure/)
-- [Satellites zoom in on cities&#39; hottest neighborhoods to help combat the urban heat island effect](https://www.space.com/satellites-zoom-into-hottest-cities/)
-- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates/)
-- [James Webb Space Telescope team clears 1st instrument for science observations](https://www.space.com/james-webb-space-telescope-1st-instrument-ready/)
-- [Watch Mercury roll by as BepiColombo probe makes superclose flyby &lpar;video&rpar;](https://www.space.com/mercury-2nd-flyby-video-bepicolombo-reveals-craters/)
+- [These four iconic European founders plan to kick the asses of VCs who never started a company](https://techcrunch.com/2022/06/27/these-four-iconic-european-founders-plan-to-kick-the-asses-of-vcs-who-never-started-a-company/)
+- [Daily Crunch: Truth Social says federal grand jury probe could block its planned SPAC merger](https://techcrunch.com/2022/06/27/truth-social-says-federal-grand-jury-probe-could-block-its-planned-spac-merger/)
+- [Max Q: Acronyms rule everything around me](https://techcrunch.com/2022/06/27/max-q-acronyms-rule-everything-around-me/)
+- [Robinhood almost imploded during the GameStop meme stock chaos](https://techcrunch.com/2022/06/27/robinhood-report-meme-stock-gamestop/)
+- [At NASA’s Lunabotics competition, students design mining robots for the moon](https://techcrunch.com/2022/06/27/at-nasas-lunabotics-competition-students-design-mining-robots-for-the-moon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
