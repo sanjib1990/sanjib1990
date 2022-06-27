@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Deliveree is smoothing Southeast Asia’s bumpy logistics landscape](https://techcrunch.com/2022/06/26/deliveree-is-smoothing-southeast-asias-bumpy-logistics-landscape/)
 - [Backstage Capital cuts majority of staff after pausing net new investments](https://techcrunch.com/2022/06/26/backstage-capital-cuts-majority-of-staff-after-pausing-net-new-investments/)
 - [Web3 artist Latashá on educating creators about crypto’s ebbs and flows](https://techcrunch.com/2022/06/26/latasha-web3-crypto-musician-rapper-artist-creator-education-zora-zoratopia/)
 - [NASA&#39;s CAPSTONE cubesat launch to the moon delayed again for systems checks](https://www.space.com/nasa-capstone-moon-cubesat-launch-delayed-again/)
 - [Why LFP batteries are poised to bring down entry-level EV prices](https://techcrunch.com/2022/06/26/why-lfp-batteries-are-poised-to-bring-down-entry-level-ev-prices/)
-- [Fintech investors appear to be favoring later-stage deals as sector takes a hit, recent data shows](https://techcrunch.com/2022/06/26/fintech-investors-appear-to-be-favoring-later-stage-deals-recent-data-shows/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
