@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html/)
-- [UK’s Magical Mushroom Company uses Mycelium to replace plastic packaging](https://techcrunch.com/2022/06/27/uks-magical-mushroom-company-uses-mycelium-to-replace-plastic-packaging/)
-- [TLcom Capital appoints Eloho Omame as partner to back more pre-seed and female-led startups](https://techcrunch.com/2022/06/27/tlcom-capital-appoints-eloho-omame-as-partner-to-back-more-pre-seed-and-female-led-startups/)
-- [LG Electronics is moving into the EV charging business](https://techcrunch.com/2022/06/26/lg-electronics-is-moving-into-the-ev-charging-business/)
-- [Deliveree is smoothing Southeast Asia’s bumpy logistics landscape](https://techcrunch.com/2022/06/26/deliveree-is-smoothing-southeast-asias-bumpy-logistics-landscape/)
+- [Austin-based True Wealth Ventures raises second fund to back women-led startups](https://techcrunch.com/2022/06/27/austin-true-wealth-ventures-raises-second-fund-female-women-startups-founders-entrepreneurs/)
+- [Planet Neptune will go into reverse as it moves in the sky on Tuesday](https://www.space.com/neptune-enters-retrograde-june-2022/)
+- [James Webb Space Telescope will study Milky Way&#39;s monster black hole](https://www.space.com/james-webb-space-telescope-event-horizon-partnership/)
+- [On This Day In Space: June 27, 1997: NEAR Shoemaker flies by asteroid Mathilde](https://www.space.com/39251-on-this-day-in-space.html/)
+- [Incredibuild powers up with $35M to boost its distributed, faster approach to games and software development](https://techcrunch.com/2022/06/27/incredibuild-powers-up-with-35m-to-boost-its-distributed-faster-take-on-games-and-software-development/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
