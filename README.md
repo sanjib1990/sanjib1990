@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Webb’s NIRISS Ready to See Cosmos in Over 2,000 Infrared Colors](https://blogs.nasa.gov/webb/2022/06/27/webbs-niriss-ready-to-see-cosmos-in-over-2000-infrared-colors/)
+- [The VC who helped incubate Discord has quietly spun up an autonomous contact center startup](https://techcrunch.com/2022/06/27/the-vc-who-helped-incubate-discord-has-quietly-spun-up-an-autonomous-contact-center-startup/)
+- [Celebrate Asteroid Day 2022 with free online broadcast this week](https://www.space.com/asteroid-day-2022-planetary-defense-webcast/)
+- [Proptech still has fundamental problems for entrepreneurs to solve](https://techcrunch.com/2022/06/27/proptech-still-has-fundamental-problems-for-entrepreneurs-to-solve/)
 - [What’s a fintech even worth these days?](https://techcrunch.com/2022/06/27/whats-a-fintech-even-worth-these-days/)
-- [Alien super-Earths may get a habitability boost from hydrogen-rich atmospheres](https://www.space.com/habitability-super-earth-hydrogen-atmosphere/)
-- [After several bruising months, industry analysts see Zendesk sale as pressure release](https://techcrunch.com/2022/06/27/after-several-bruising-months-industry-analysts-see-zendesk-sale-as-pressure-release/)
-- [Rocket Lab’s CAPSTONE mission to the moon is key to establishing a lunar space station](https://techcrunch.com/2022/06/27/rocket-labs-capstone-mission-to-the-moon-is-key-to-establishing-a-lunar-space-station/)
-- [Leverage, red flags, and a changing venture landscape](https://techcrunch.com/2022/06/27/leverage-red-flags-and-a-changing-venture-landscape/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
