@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Conversion Capital locks down its biggest fund ever to back early-stage fintech and infrastructure startups](https://techcrunch.com/2022/06/28/a-look-into-how-conversion-capital-plans-to-back-early-stage-fintech-startups-out-of-its-new-6x-larger-fund/)
-- [Nura brings its killer audio tech to a pair of pro earbuds](https://techcrunch.com/2022/06/28/nura-brings-its-killer-audio-tech-to-a-pair-of-pro-earbuds/)
-- [On This Day In Space: June 28, 2015: SpaceX rocket explodes after liftoff](https://www.space.com/39251-on-this-day-in-space.html/)
-- [Democrats ‘exploring’ legislation to protect data in reproductive health apps](https://techcrunch.com/2022/06/28/democrats-exploring-legislation-to-protect-data-in-reproductive-health-apps/)
-- [Mukesh Ambani steps down from Reliance Jio, son named chairman](https://techcrunch.com/2022/06/28/mukesh-ambani-akash-named-as-reliance-jio-chairman/)
+- [Hank helps older adults connect and have fun](https://techcrunch.com/2022/06/28/hank-helps-older-adults-connect-and-have-fun/)
+- [Shop Circle wants to keep Shopify merchants from going ‘round and ‘round finding apps they need](https://techcrunch.com/2022/06/28/shop-circle-wants-to-keep-shopify-merchants-from-going-round-and-round-finding-apps-they-need/)
+- [Eclipse Foods isn’t out to substitute dairy — it’s on a mission to replace it](https://techcrunch.com/2022/06/28/eclipse-foods-isnt-out-to-substitute-dairy-its-on-a-mission-to-replace-it/)
+- [CIBC Innovation Banking comes in with new $1.5B venture financing to fill VC gap](https://techcrunch.com/2022/06/28/cibc-innovation-banking-1-5b-debt-financing-vc-gap/)
+- [Gloat nabs $90M to build AI-powered internal jobs marketplaces](https://techcrunch.com/2022/06/28/gloat-nabs-90m-to-build-ai-powered-internal-jobs-marketplaces/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
