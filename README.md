@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: The party’s over — Airbnb bans all disruptive gatherings in perpetuity](https://techcrunch.com/2022/06/28/airbnb-bans-all-disruptive-gatherings-in-perpetuity/)
+- [&#39;The Orville&#39; Season 3 episode 4 takes its world building to a new level](https://www.space.com/the-orville-season-3-episode-4-review/)
+- [This co-worker does not exist: FBI warns of deepfakes interviewing for tech jobs](https://techcrunch.com/2022/06/28/this-coworker-does-not-exist-fbi-warns-of-deepfakes-interviewing-for-tech-jobs/)
+- [The UK wants to boost AI development by removing data mining hurdles](https://techcrunch.com/2022/06/28/the-uk-plans-to-boost-ai-development-by-removing-legal-hurdles-for-data-mining/)
 - [US military&#39;s mysterious X-37B space plane zooms toward orbital record](https://www.space.com/x-37b-military-space-plane-nears-mission-duration-record/)
-- [TechCrunch+ roundup: CEO pregnancy checklist, decision-tree planning, reassessing valuations](https://techcrunch.com/2022/06/28/techcrunch-roundup-ceo-pregnancy-checklist-decision-tree-planning-reassessing-valuations/)
-- [Strange cloud in satellite data catches interest of scientists](https://www.space.com/peculiar-caspian-sea-cloud-terra/)
-- [Amazon reportedly plans to hold a second Prime shopping event in the fall](https://techcrunch.com/2022/06/28/amazon-hold-second-prime-day-shopping-event/)
-- [Facebook Groups gains a new channels feature to enable users to connect in focused settings](https://techcrunch.com/2022/06/28/facebook-groups-channels-feature/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
