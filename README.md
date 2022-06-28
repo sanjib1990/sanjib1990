@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google launches Advanced API Security to protect APIs from growing threats](https://techcrunch.com/2022/06/28/google-launches-advanced-api-security-to-protect-apis-from-growing-threats/)
+- [Watch NASA&#39;s CAPSTONE cubesat launch to the moon today to test unique lunar orbit](https://www.space.com/nasa-moon-capstone-mission-launch-webcast/)
 - [Speechmatics raises $62M for its inclusive approach to speech-to-text AI](https://techcrunch.com/2022/06/28/speechmatics-raises-62m-for-its-inclusive-approach-to-speech-to-text-ai/)
 - [India delays strict new VPN rules by 3 months](https://techcrunch.com/2022/06/27/india-delays-strict-new-vpn-rules-by-3-months/)
 - [Watch Rocket Lab launch NASA’s CAPSTONE mission to the moon live](https://techcrunch.com/2022/06/27/watch-rocket-lab-launch-nasas-capstone-mission-to-the-moon-live/)
-- [Google Cloud’s new sustainability platform aims to bring enterprise climate goals down to earth](https://techcrunch.com/2022/06/27/google-clouds-new-sustainability-platform-aims-to-bring-enterprise-climate-goals-down-to-earth/)
-- [Waymo, UPS, others pressure Gov. Newsom to allow autonomous trucking in California](https://techcrunch.com/2022/06/27/waymo-ups-others-pressure-gov-newsom-to-allow-autonomous-trucking-in-california/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
