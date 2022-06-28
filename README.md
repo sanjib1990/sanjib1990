@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Waymo, UPS, others pressure Gov. Newsom to allow autonomous trucking in California](https://techcrunch.com/2022/06/27/waymo-ups-others-pressure-gov-newsom-to-allow-autonomous-trucking-in-california/)
+- [Degreed’s co-founder is back at the company he left…with the startup he built](https://techcrunch.com/2022/06/27/degreeds-co-founder-is-back-at-the-company-he-left-with-the-startup-he-built/)
 - [These four iconic European founders plan to kick the asses of VCs who never started a company](https://techcrunch.com/2022/06/27/these-four-iconic-european-founders-plan-to-kick-the-asses-of-vcs-who-never-started-a-company/)
 - [Daily Crunch: Truth Social says federal grand jury probe could block its planned SPAC merger](https://techcrunch.com/2022/06/27/truth-social-says-federal-grand-jury-probe-could-block-its-planned-spac-merger/)
 - [Max Q: Acronyms rule everything around me](https://techcrunch.com/2022/06/27/max-q-acronyms-rule-everything-around-me/)
-- [Robinhood almost imploded during the GameStop meme stock chaos](https://techcrunch.com/2022/06/27/robinhood-report-meme-stock-gamestop/)
-- [At NASA’s Lunabotics competition, students design mining robots for the moon](https://techcrunch.com/2022/06/27/at-nasas-lunabotics-competition-students-design-mining-robots-for-the-moon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
