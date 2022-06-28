@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s tiny CAPSTONE cubesat launches on pioneering moon mission](https://www.space.com/nasa-capstone-cubesat-moon-launch-success-rocket-lab/)
-- [Rocket Lab launches NASA’s CAPSTONE satellite on its scouting mission for a lunar space station](https://techcrunch.com/2022/06/28/nasas-capstone-satellite-is-on-its-way-to-the-moon-thanks-to-rocket-lab/)
-- [Can we time travel? A theoretical physicist provides some answers](https://www.space.com/can-we-time-travel-physicist-explains/)
-- [Venus Aerospace unveils its new dart-like Mach 9 hypersonic plane design](https://www.space.com/venus-aerospace-hypersonic-plane-design/)
-- [Former astronauts and space industry leaders weigh in on fall of Roe v. Wade and abortion access](https://www.space.com/abortion-former-astronauts-space-industry-roe-vs-wade/)
+- [Conversion Capital locks down its biggest fund ever to back early-stage fintech and infrastructure startups](https://techcrunch.com/2022/06/28/a-look-into-how-conversion-capital-plans-to-back-early-stage-fintech-startups-out-of-its-new-6x-larger-fund/)
+- [Nura brings its killer audio tech to a pair of pro earbuds](https://techcrunch.com/2022/06/28/nura-brings-its-killer-audio-tech-to-a-pair-of-pro-earbuds/)
+- [On This Day In Space: June 28, 2015: SpaceX rocket explodes after liftoff](https://www.space.com/39251-on-this-day-in-space.html/)
+- [Democrats ‘exploring’ legislation to protect data in reproductive health apps](https://techcrunch.com/2022/06/28/democrats-exploring-legislation-to-protect-data-in-reproductive-health-apps/)
+- [Mukesh Ambani steps down from Reliance Jio, son named chairman](https://techcrunch.com/2022/06/28/mukesh-ambani-akash-named-as-reliance-jio-chairman/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
