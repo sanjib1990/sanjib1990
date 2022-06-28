@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s tiny CAPSTONE cubesat launches on pioneering moon mission](https://www.space.com/nasa-capstone-cubesat-moon-launch-success-rocket-lab/)
+- [Rocket Lab launches NASA’s CAPSTONE satellite on its scouting mission for a lunar space station](https://techcrunch.com/2022/06/28/nasas-capstone-satellite-is-on-its-way-to-the-moon-thanks-to-rocket-lab/)
 - [Can we time travel? A theoretical physicist provides some answers](https://www.space.com/can-we-time-travel-physicist-explains/)
 - [Venus Aerospace unveils its new dart-like Mach 9 hypersonic plane design](https://www.space.com/venus-aerospace-hypersonic-plane-design/)
-- [Former astronauts and space industry professionals comment on fall of Roe v. Wade](https://www.space.com/abortion-former-astronauts-space-industry-roe-vs-wade/)
-- [Egyptian healthtech startup Vezeeta cuts 10% of 500-person staff](https://techcrunch.com/2022/06/28/egyptian-healthtech-startup-vezeeta-cuts-10-of-500-person-staff/)
-- [Google launches Advanced API Security to protect APIs from growing threats](https://techcrunch.com/2022/06/28/google-launches-advanced-api-security-to-protect-apis-from-growing-threats/)
+- [Former astronauts and space industry leaders weigh in on fall of Roe v. Wade and abortion access](https://www.space.com/abortion-former-astronauts-space-industry-roe-vs-wade/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
