@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hank helps older adults connect and have fun](https://techcrunch.com/2022/06/28/hank-helps-older-adults-connect-and-have-fun/)
-- [Shop Circle wants to keep Shopify merchants from going ‘round and ‘round finding apps they need](https://techcrunch.com/2022/06/28/shop-circle-wants-to-keep-shopify-merchants-from-going-round-and-round-finding-apps-they-need/)
+- [Bizarre &#39;polygons&#39; are cracking through the surface of Mars](https://www.space.com/mars-polygons-ice-sublimation-photo/)
 - [Eclipse Foods isn’t out to substitute dairy — it’s on a mission to replace it](https://techcrunch.com/2022/06/28/eclipse-foods-isnt-out-to-substitute-dairy-its-on-a-mission-to-replace-it/)
 - [CIBC Innovation Banking comes in with new $1.5B venture financing to fill VC gap](https://techcrunch.com/2022/06/28/cibc-innovation-banking-1-5b-debt-financing-vc-gap/)
 - [Gloat nabs $90M to build AI-powered internal jobs marketplaces](https://techcrunch.com/2022/06/28/gloat-nabs-90m-to-build-ai-powered-internal-jobs-marketplaces/)
+- [Flagright offers transaction monitoring with usage-based pricing](https://techcrunch.com/2022/06/28/flagright-offers-transaction-monitoring-with-usage-based-pricing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
