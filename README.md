@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pinterest pins down a new CEO: Google exec Bill Ready](https://techcrunch.com/2022/06/28/pinterest-new-ceo-google-bill-ready/)
+- [UK urgently needs new laws on use of biometrics, warns review](https://techcrunch.com/2022/06/28/uk-biometrics-legal-review/)
+- [Social care SaaS maker Birdie tops up with $30M](https://techcrunch.com/2022/06/28/birdie-series-b/)
+- [SpaceX postpones space station cargo mission again, to July 14](https://www.space.com/spacex-dragon-cargo-mission-crs-25-delay-july14/)
 - [Daily Crunch: The party’s over — Airbnb bans all disruptive gatherings in perpetuity](https://techcrunch.com/2022/06/28/airbnb-bans-all-disruptive-gatherings-in-perpetuity/)
-- [&#39;The Orville&#39; Season 3 episode 4 takes its world building to a new level](https://www.space.com/the-orville-season-3-episode-4-review/)
-- [This co-worker does not exist: FBI warns of deepfakes interviewing for tech jobs](https://techcrunch.com/2022/06/28/this-coworker-does-not-exist-fbi-warns-of-deepfakes-interviewing-for-tech-jobs/)
-- [The UK wants to boost AI development by removing data mining hurdles](https://techcrunch.com/2022/06/28/the-uk-plans-to-boost-ai-development-by-removing-legal-hurdles-for-data-mining/)
-- [US military&#39;s mysterious X-37B space plane zooms toward orbital record](https://www.space.com/x-37b-military-space-plane-nears-mission-duration-record/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
