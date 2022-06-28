@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch+ roundup: CEO pregnancy checklist, decision tree planning, reassessing valuations](https://techcrunch.com/2022/06/28/techcrunch-roundup-ceo-pregnancy-checklist-decision-tree-planning-reassessing-valuations/)
+- [Amazon reportedly plans to hold a second Prime shopping event in the fall](https://techcrunch.com/2022/06/28/amazon-hold-second-prime-day-shopping-event/)
 - [Facebook Groups gains a new channels feature to enable users to connect in focused settings](https://techcrunch.com/2022/06/28/facebook-groups-channels-feature/)
 - [Coalition wants to make more women operators and investors at the same damn time](https://techcrunch.com/2022/06/28/coalition-wants-to-make-more-women-operators-and-investors-at-the-same-damn-time/)
-- [OK, whose rocket just hit the moon?](https://techcrunch.com/2022/06/28/ok-whose-rocket-just-hit-the-moon/)
-- [Volkswagen, Siemens invest $450M into Electrify America in EV charging push](https://techcrunch.com/2022/06/28/volkswagen-siemens-invest-450m-into-electrify-america-in-ev-charging-push/)
-- [Why it&#39;ll take NASA&#39;s tiny CAPSTONE probe so long to reach the moon](https://www.space.com/nasa-capstone-moon-cubesat-long-journey-explained/)
+- [Luke and Lando land on Exegol in Adam Christopher’s &#39;Star Wars: Shadow of the Sith&#39; novel &lpar;exclusive&rpar;](https://www.space.com/star-wars-shadow-of-the-sith-book/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
