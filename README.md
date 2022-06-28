@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [James Webb Space Telescope scientists prepare for 1st operational images: Listen in Wednesday](https://www.space.com/james-webb-space-telescope-1st-images-preparation/)
+- [What are Dobsonian Telescopes?](https://www.space.com/what-are-dobsonian-telescopes/)
 - [NASA launches sounding rocket from Australia](https://www.space.com/nasa-launches-1st-sounding-rocket-australia/)
+- [Spotify’s latest feature lets you imagine a supergroup consisting of your favorite artists](https://techcrunch.com/2022/06/28/spotifys-feature-create-supergroup/)
 - [RansomHouse extortion group claims AMD as its latest victim](https://techcrunch.com/2022/06/28/amd-extortion-ransomhouse/)
-- [OpenReplay raises $4.7M for its open source tool to find the bugs in sites](https://techcrunch.com/2022/06/28/openreplay-raises-4-7m-for-its-open-source-tool-to-find-the-bugs-in-sites/)
-- [HTC looks to the metaverse for answers](https://techcrunch.com/2022/06/28/htc-looks-to-the-metaverse-for-answers/)
-- [Byju’s unit WhiteHat Jr cuts 300 jobs](https://techcrunch.com/2022/06/28/byjus-unit-whitehat-jr-cuts-300-jobs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
