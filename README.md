@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Cloud’s new sustainability platform aims to bring enterprise climate goals down to earth](https://techcrunch.com/2022/06/27/google-clouds-new-sustainability-platform-aims-to-bring-enterprise-climate-goals-down-to-earth/)
 - [Waymo, UPS, others pressure Gov. Newsom to allow autonomous trucking in California](https://techcrunch.com/2022/06/27/waymo-ups-others-pressure-gov-newsom-to-allow-autonomous-trucking-in-california/)
 - [Degreed’s co-founder is back at the company he left…with the startup he built](https://techcrunch.com/2022/06/27/degreeds-co-founder-is-back-at-the-company-he-left-with-the-startup-he-built/)
 - [These four iconic European founders plan to kick the asses of VCs who never started a company](https://techcrunch.com/2022/06/27/these-four-iconic-european-founders-plan-to-kick-the-asses-of-vcs-who-never-started-a-company/)
 - [Daily Crunch: Truth Social says federal grand jury probe could block its planned SPAC merger](https://techcrunch.com/2022/06/27/truth-social-says-federal-grand-jury-probe-could-block-its-planned-spac-merger/)
-- [Max Q: Acronyms rule everything around me](https://techcrunch.com/2022/06/27/max-q-acronyms-rule-everything-around-me/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
