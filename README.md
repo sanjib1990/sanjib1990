@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [White dwarf seen to survive its own supernova explosion](https://www.space.com/white-dwarf-survives-own-supernova-explosion/)
+- [Lightbits Labs lands $42M to speed up server data transfers](https://techcrunch.com/2022/06/28/lightbits-labs-lands-42m-to-speed-up-server-data-transfers/)
+- [JD Power: EVs and and plug-in hybrids have more problems than combustion engine cars](https://techcrunch.com/2022/06/28/jd-power-evs-and-and-plug-in-hybrids-have-more-problems/)
 - [James Webb Space Telescope scientists prepare for 1st operational images: Listen in Wednesday](https://www.space.com/james-webb-space-telescope-1st-images-preparation/)
-- [What are Dobsonian Telescopes?](https://www.space.com/what-are-dobsonian-telescopes/)
-- [NASA launches sounding rocket from Australia](https://www.space.com/nasa-launches-1st-sounding-rocket-australia/)
-- [Spotify’s latest feature lets you imagine a supergroup consisting of your favorite artists](https://techcrunch.com/2022/06/28/spotifys-feature-create-supergroup/)
-- [RansomHouse extortion group claims AMD as its latest victim](https://techcrunch.com/2022/06/28/amd-extortion-ransomhouse/)
+- [Use chronological scenario planning to help your startup get through a potential recession](https://techcrunch.com/2022/06/28/how-to-create-a-decision-tree-that-can-help-your-startup-get-through-winte-market-downturnr/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
