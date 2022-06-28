@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Rock samples from NASA&#39;s Curiosity Mars rover contain key ingredient of life](https://www.space.com/curiosity-mars-rover-samples-ingredients-life/)
-- [White dwarf seen to survive its own supernova explosion](https://www.space.com/white-dwarf-survives-own-supernova-explosion/)
-- [Hasura now lets developers turn any data source into a GraphQL API](https://techcrunch.com/2022/06/28/hasura-now-lets-developers-turn-any-data-source-into-a-graphql-api/)
-- [With Benioff backing, Sustainable Ocean Alliance aims to be the rising tide that lifts all ‘ecopreneurs’](https://techcrunch.com/2022/06/28/with-benioff-backing-sustainable-ocean-alliance-aims-to-be-the-rising-tide-that-lifts-all-ecopreneurs/)
-- [BMW taps Valeo for driving assistance systems in its next-gen EVs](https://techcrunch.com/2022/06/28/bmw-taps-valeo-for-driving-assistance-systems-in-its-next-gen-evs/)
+- [Facebook Groups gains a new channels feature to enable users to connect in focused settings](https://techcrunch.com/2022/06/28/facebook-groups-channels-feature/)
+- [Coalition wants to make more women operators and investors at the same damn time](https://techcrunch.com/2022/06/28/coalition-wants-to-make-more-women-operators-and-investors-at-the-same-damn-time/)
+- [OK, whose rocket just hit the moon?](https://techcrunch.com/2022/06/28/ok-whose-rocket-just-hit-the-moon/)
+- [Volkswagen, Siemens invest $450M into Electrify America in EV charging push](https://techcrunch.com/2022/06/28/volkswagen-siemens-invest-450m-into-electrify-america-in-ev-charging-push/)
+- [Why it&#39;ll take NASA&#39;s tiny CAPSTONE probe so long to reach the moon](https://www.space.com/nasa-capstone-moon-cubesat-long-journey-explained/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
