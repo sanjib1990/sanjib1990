@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Bizarre &#39;polygons&#39; are cracking through the surface of Mars](https://www.space.com/mars-polygons-ice-sublimation-photo/)
-- [Eclipse Foods isn’t out to substitute dairy — it’s on a mission to replace it](https://techcrunch.com/2022/06/28/eclipse-foods-isnt-out-to-substitute-dairy-its-on-a-mission-to-replace-it/)
-- [CIBC Innovation Banking comes in with new $1.5B venture financing to fill VC gap](https://techcrunch.com/2022/06/28/cibc-innovation-banking-1-5b-debt-financing-vc-gap/)
-- [Gloat nabs $90M to build AI-powered internal jobs marketplaces](https://techcrunch.com/2022/06/28/gloat-nabs-90m-to-build-ai-powered-internal-jobs-marketplaces/)
-- [Flagright offers transaction monitoring with usage-based pricing](https://techcrunch.com/2022/06/28/flagright-offers-transaction-monitoring-with-usage-based-pricing/)
+- [NASA launches sounding rocket from Australia](https://www.space.com/nasa-launches-1st-sounding-rocket-australia/)
+- [RansomHouse extortion group claims AMD as its latest victim](https://techcrunch.com/2022/06/28/amd-extortion-ransomhouse/)
+- [OpenReplay raises $4.7M for its open source tool to find the bugs in sites](https://techcrunch.com/2022/06/28/openreplay-raises-4-7m-for-its-open-source-tool-to-find-the-bugs-in-sites/)
+- [HTC looks to the metaverse for answers](https://techcrunch.com/2022/06/28/htc-looks-to-the-metaverse-for-answers/)
+- [Byju’s unit WhiteHat Jr cuts 300 jobs](https://techcrunch.com/2022/06/28/byjus-unit-whitehat-jr-cuts-300-jobs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
