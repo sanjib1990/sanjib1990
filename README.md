@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TechCrunch+ roundup: CEO pregnancy checklist, decision tree planning, reassessing valuations](https://techcrunch.com/2022/06/28/techcrunch-roundup-ceo-pregnancy-checklist-decision-tree-planning-reassessing-valuations/)
+- [US military&#39;s mysterious X-37B space plane zooms toward orbital record](https://www.space.com/x-37b-military-space-plane-nears-mission-duration-record/)
+- [TechCrunch+ roundup: CEO pregnancy checklist, decision-tree planning, reassessing valuations](https://techcrunch.com/2022/06/28/techcrunch-roundup-ceo-pregnancy-checklist-decision-tree-planning-reassessing-valuations/)
+- [Strange cloud in satellite data catches interest of scientists](https://www.space.com/peculiar-caspian-sea-cloud-terra/)
 - [Amazon reportedly plans to hold a second Prime shopping event in the fall](https://techcrunch.com/2022/06/28/amazon-hold-second-prime-day-shopping-event/)
 - [Facebook Groups gains a new channels feature to enable users to connect in focused settings](https://techcrunch.com/2022/06/28/facebook-groups-channels-feature/)
-- [Coalition wants to make more women operators and investors at the same damn time](https://techcrunch.com/2022/06/28/coalition-wants-to-make-more-women-operators-and-investors-at-the-same-damn-time/)
-- [Luke and Lando land on Exegol in Adam Christopher’s &#39;Star Wars: Shadow of the Sith&#39; novel &lpar;exclusive&rpar;](https://www.space.com/star-wars-shadow-of-the-sith-book/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
