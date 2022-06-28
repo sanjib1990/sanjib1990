@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rock samples from NASA&#39;s Curiosity Mars rover contain key ingredient of life](https://www.space.com/curiosity-mars-rover-samples-ingredients-life/)
 - [White dwarf seen to survive its own supernova explosion](https://www.space.com/white-dwarf-survives-own-supernova-explosion/)
-- [Lightbits Labs lands $42M to speed up server data transfers](https://techcrunch.com/2022/06/28/lightbits-labs-lands-42m-to-speed-up-server-data-transfers/)
-- [JD Power: EVs and and plug-in hybrids have more problems than combustion engine cars](https://techcrunch.com/2022/06/28/jd-power-evs-and-and-plug-in-hybrids-have-more-problems/)
-- [James Webb Space Telescope scientists prepare for 1st operational images: Listen in Wednesday](https://www.space.com/james-webb-space-telescope-1st-images-preparation/)
-- [Use chronological scenario planning to help your startup get through a potential recession](https://techcrunch.com/2022/06/28/how-to-create-a-decision-tree-that-can-help-your-startup-get-through-winte-market-downturnr/)
+- [Hasura now lets developers turn any data source into a GraphQL API](https://techcrunch.com/2022/06/28/hasura-now-lets-developers-turn-any-data-source-into-a-graphql-api/)
+- [With Benioff backing, Sustainable Ocean Alliance aims to be the rising tide that lifts all ‘ecopreneurs’](https://techcrunch.com/2022/06/28/with-benioff-backing-sustainable-ocean-alliance-aims-to-be-the-rising-tide-that-lifts-all-ecopreneurs/)
+- [BMW taps Valeo for driving assistance systems in its next-gen EVs](https://techcrunch.com/2022/06/28/bmw-taps-valeo-for-driving-assistance-systems-in-its-next-gen-evs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
