@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [James Webb Space Telescope scientists prepare for 1st operational images: Listen in today](https://www.space.com/james-webb-space-telescope-1st-images-preparation/)
+- [Walmart is acquiring Memomi, an AR startup powering virtual try-on for eyewear](https://techcrunch.com/2022/06/29/walmart-is-acquiring-memomi-an-ar-startup-powering-virtual-try-on-for-eyewear/)
 - [Nautical Commerce sails away with new funding to bring marketplace tech to the masses](https://techcrunch.com/2022/06/29/nautical-commerce-sails-away-with-new-funding-to-bring-marketplace-tech-to-the-masses/)
 - [Venture studio Adanian Labs fuels startup growth in Africa](https://techcrunch.com/2022/06/29/venture-studio-adanian-labs-fuels-startup-growth-in-africa/)
 - [Watch SpaceX launch communications satellite, land rocket at sea Wednesday](https://www.space.com/spacex-ses-22-launch-rocket-landing/)
-- [Hubble Space Telescope shows distortions of massive galaxy cluster in stunning image](https://www.space.com/hubble-space-telescope-massive-galaxy-cluster-photo/)
-- [NASA&#39;s Europa Clipper may crash into Ganymede, the largest moon in the solar system, at mission&#39;s end](https://www.space.com/europa-clipper-might-crash-into-ganymede/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
