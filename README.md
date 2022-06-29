@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [James Webb Space Telescope scientists prepare for 1st operational images: Listen in today](https://www.space.com/james-webb-space-telescope-1st-images-preparation/)
-- [Walmart is acquiring Memomi, an AR startup powering virtual try-on for eyewear](https://techcrunch.com/2022/06/29/walmart-is-acquiring-memomi-an-ar-startup-powering-virtual-try-on-for-eyewear/)
-- [Nautical Commerce sails away with new funding to bring marketplace tech to the masses](https://techcrunch.com/2022/06/29/nautical-commerce-sails-away-with-new-funding-to-bring-marketplace-tech-to-the-masses/)
-- [Venture studio Adanian Labs fuels startup growth in Africa](https://techcrunch.com/2022/06/29/venture-studio-adanian-labs-fuels-startup-growth-in-africa/)
-- [Watch SpaceX launch communications satellite, land rocket at sea Wednesday](https://www.space.com/spacex-ses-22-launch-rocket-landing/)
+- [Gmail’s redesigned interface including Chat and Meet is now the new default](https://techcrunch.com/2022/06/29/gmails-redesigned-interface-including-chat-and-meet-is-now-the-new-default/)
+- [Hyundai reveals the IONIQ 6 EV sedan, the eagerly-anticipated follow-up to its IONIQ 5](https://techcrunch.com/2022/06/29/hyundai-reveals-the-ioniq-6-ev-sedan-the-eagerly-anticipated-follow-up-to-its-ioniq-5/)
+- [Snapchat officially introduces its paid subscription at $3.99 per month](https://techcrunch.com/2022/06/29/snapchat-officially-introduces-its-paid-subscription-at-3-99-per-month/)
+- [April taps AI to help personalize and autofill tax filings](https://techcrunch.com/2022/06/29/april-taps-ai-to-help-personalize-and-autofill-tax-filings/)
+- [Hypersonic missile defense program moves toward 2 prototypes](https://www.space.com/hypersonic-glide-phase-interceptor-prototype-funding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
