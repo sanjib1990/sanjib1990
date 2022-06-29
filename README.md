@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Gamma-ray bursts might be much rarer than we thought, study suggests](https://www.space.com/gamma-ray-bursts-may-be-rare-study/)
-- [Anonymous social apps shift their attention to Instagram in the wake of Snapchat’s ban](https://techcrunch.com/2022/06/29/anonymous-social-apps-shift-their-attention-to-instagram-in-the-wake-of-snapchats-ban/)
-- [Amazon’s new physical retail analytics service gives brands insights about product and ad performance](https://techcrunch.com/2022/06/29/amazons-physical-retail-analytics-service-gives-brands-shopper-data-ad-product-performance/)
-- [When it comes to sanctions, PE firms must proceed with great caution](https://techcrunch.com/2022/06/29/when-it-comes-to-sanctions-pe-firms-must-proceed-with-great-caution/)
-- [Regard serves as a “medical co-pilot” for busy physicians](https://techcrunch.com/2022/06/29/regard-serves-as-a-medical-co-pilot-for-busy-physicians/)
+- [Cybersecurity startups, once the VC darling, hammered by layoffs](https://techcrunch.com/2022/06/29/cybersecurity-startups-layoffs/)
+- [Google and the Internet Archive are the first customers to pay for commercial access to Wikipedia content](https://techcrunch.com/2022/06/29/google-and-the-internet-archive-are-the-first-customers-to-pay-for-commercial-access-to-wikipedia-content/)
+- [Best beginner cameras 2022](https://www.space.com/best-beginner-cameras/)
+- [James Webb Space Telescope 1st photos will include &#39;deepest image of our universe&#39;](https://www.space.com/james-webb-space-telescope-first-images-teaser/)
+- [Celebrate Asteroid Day 2022 with free online broadcast today](https://www.space.com/asteroid-day-2022-planetary-defense-webcast/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
