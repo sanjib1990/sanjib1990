@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [FTC hammers Walmart over years of ‘facilitating’ money transfer scams](https://techcrunch.com/2022/06/28/walmart-money-transfer-scam-ftc-lawsuit/)
+- [Tesla lays off nearly 200 Autopilot workers, shutters San Mateo office](https://techcrunch.com/2022/06/28/tesla-layoffs-autopilot-workers-san-mateo/)
+- [Facebook and Instagram are removing posts offering to mail abortion pills](https://techcrunch.com/2022/06/28/abortion-pills-instagram-facebook/)
 - [Pinterest pins down a new CEO: Google exec Bill Ready](https://techcrunch.com/2022/06/28/pinterest-new-ceo-google-bill-ready/)
 - [UK urgently needs new laws on use of biometrics, warns review](https://techcrunch.com/2022/06/28/uk-biometrics-legal-review/)
-- [Social care SaaS maker Birdie tops up with $30M](https://techcrunch.com/2022/06/28/birdie-series-b/)
-- [SpaceX postpones space station cargo mission again, to July 14](https://www.space.com/spacex-dragon-cargo-mission-crs-25-delay-july14/)
-- [Daily Crunch: The party’s over — Airbnb bans all disruptive gatherings in perpetuity](https://techcrunch.com/2022/06/28/airbnb-bans-all-disruptive-gatherings-in-perpetuity/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
