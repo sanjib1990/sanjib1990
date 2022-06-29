@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Disclose your Scope 3 emissions, you cowards](https://techcrunch.com/2022/06/29/disclose-your-scope-3-emissions-you-cowards/)
+- [Disney extends CEO Bob Chapek’s contract for three more years despite difficult tenure](https://techcrunch.com/2022/06/29/disney-extends-ceo-bob-chapeks-contract-for-three-more-years-despite-difficult-tenure/)
 - [Dear Sophie: Will a doctor get a green card faster than an engineer?](https://techcrunch.com/2022/06/29/dear-sophie-will-a-doctor-get-a-green-card-faster-than-an-engineer/)
 - [China tests engine for new crewed moon rocket &lpar;photo&rpar;](https://www.space.com/china-tests-engine-new-moon-rocket/)
 - [Cybersecurity startups, once the VC darling, hammered by layoffs](https://techcrunch.com/2022/06/29/cybersecurity-startups-layoffs/)
-- [Google and the Internet Archive are the first customers to pay for commercial access to Wikipedia content](https://techcrunch.com/2022/06/29/google-and-the-internet-archive-are-the-first-customers-to-pay-for-commercial-access-to-wikipedia-content/)
-- [NASA sun mission spots stunning solar eclipse in space](https://www.space.com/solar-eclipse-seen-from-space-june-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
