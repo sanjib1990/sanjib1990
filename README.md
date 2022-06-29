@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Mars clouds take center stage in new NASA project looking for volunteers](https://www.space.com/mars-clouds-nasa-crowdsourced-science-project/)
-- [Google’s Switch to Android app for iOS users is now compatible with all Android 12 phones](https://techcrunch.com/2022/06/29/google-switch-android-app-ios-users-compatible-android-12-phones/)
-- [Disclose your Scope 3 emissions, you cowards](https://techcrunch.com/2022/06/29/disclose-your-scope-3-emissions-you-cowards/)
-- [NASA&#39;s DART asteroid mission might completely deform small moonlet](https://www.space.com/dart-mission-impact-stronger-study-study-finds/)
-- [Watch India launch 3 satellites Thursday morning](https://www.space.com/india-pslv-launch-three-satellites-june-30/)
+- [Daily Crunch: Indian edtech giant Byju’s delays $1B acquisition payment, lays off hundreds of workers](https://techcrunch.com/2022/06/29/daily-crunch-indian-edtech-giant-byjus-delays-1b-acquisition-payment-lays-off-hundreds-of-workers/)
+- [Google’s ‘deceptive’ account sign-up process targeted with GDPR complaints](https://techcrunch.com/2022/06/29/google-account-gdpr-complaint/)
+- [Substack cuts 13 jobs to avoid raising more venture captial](https://techcrunch.com/2022/06/29/substack-cuts-13-jobs-to-avoid-raising-more-venture-captial/)
+- [SpaceX launches SES-22 communications satellite, lands rocket at sea](https://www.space.com/spacex-ses-22-launch-rocket-landing/)
+- [Bird CEO Travis VanderZanden steps down as president](https://techcrunch.com/2022/06/29/bird-ceo-travis-vanderzanden-steps-down-as-president/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
