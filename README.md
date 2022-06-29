@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [a fresh new web framework is out](https://www.youtube.com/watch?v=4boXExbbGCk)
 - [i KILLED my Linux computer!! &lpar;to teach you something&rpar;](https://www.youtube.com/watch?v=ugt3PBeqHIo)
 - [Storybook in 100 Seconds](https://www.youtube.com/watch?v=gdlTFPebzAU)
 - [My Bleeding Edge Tech Stack for 2025](https://www.youtube.com/watch?v=rFP7rUYtOOg)
 - [Lecture 19: Differentiation Rules, Rolle&#39;s Theorem, and the Mean Value Theorem](https://www.youtube.com/watch?v=V3Wg_jrMSQY)
-- [Lecture 23: Pointwise and Uniform Convergence of Sequences of Functions](https://www.youtube.com/watch?v=_HRTdXJgZ0Q)
 <!-- YOUTUBE:END -->
 
 ---
