@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates/)
 - [Gmail’s redesigned interface including Chat and Meet is now the new default](https://techcrunch.com/2022/06/29/gmails-redesigned-interface-including-chat-and-meet-is-now-the-new-default/)
 - [Hyundai reveals the IONIQ 6 EV sedan, the eagerly-anticipated follow-up to its IONIQ 5](https://techcrunch.com/2022/06/29/hyundai-reveals-the-ioniq-6-ev-sedan-the-eagerly-anticipated-follow-up-to-its-ioniq-5/)
 - [Snapchat officially introduces its paid subscription at $3.99 per month](https://techcrunch.com/2022/06/29/snapchat-officially-introduces-its-paid-subscription-at-3-99-per-month/)
 - [April taps AI to help personalize and autofill tax filings](https://techcrunch.com/2022/06/29/april-taps-ai-to-help-personalize-and-autofill-tax-filings/)
-- [Hypersonic missile defense program moves toward 2 prototypes](https://www.space.com/hypersonic-glide-phase-interceptor-prototype-funding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
