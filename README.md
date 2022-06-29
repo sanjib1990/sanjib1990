@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon Prime Day 2022: The best space deals to watch](https://www.space.com/amazon-prime-day-space-deals/)
+- [Byju’s cuts over 600 jobs, pushes back payments for $1 billion acquisition](https://techcrunch.com/2022/06/29/byjus-cuts-over-600-jobs-pushes-back-payments-for-1-billion-acquisition/)
 - [On This Day In Space: June 29, 1971: 3 Cosmonauts Lost in Soyuz 11 Tragedy](https://www.space.com/39251-on-this-day-in-space.html/)
 - [Kukua, creators of “Super Sema,” raises $6 million, led by Alchimia and Tencent](https://techcrunch.com/2022/06/29/kukua-creators-of-super-sema-raises-6-million-led-by-alchimia-and-tencent/)
 - [FCC Commissioner writes to Apple and Google about removing TikTok](https://techcrunch.com/2022/06/28/fcc-commissioner-writes-to-apple-and-google-about-removing-tiktok/)
-- [Entrepreneur First raises $158M at a $560M valuation, adding Stripe’s Collison brothers to its list of backers](https://techcrunch.com/2022/06/28/entrepreneur-first-raises-158m-at-a-560m-valuation-adding-stripes-collison-brothers-to-its-list-of-backers/)
-- [Arzooo raises $70 million to bring ‘best of e-commerce’ to physical stores in India](https://techcrunch.com/2022/06/28/arzooo-raises-70-million-to-bring-best-of-e-commerce-to-physical-stores-in-india/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
