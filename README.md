@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mapan’s services helps low-income Indonesians users afford goods and services](https://techcrunch.com/2022/06/28/mapans-services-helps-low-income-indonesians-users-afford-goods-and-services/)
 - [FTC hammers Walmart over years of ‘facilitating’ money transfer scams](https://techcrunch.com/2022/06/28/walmart-money-transfer-scam-ftc-lawsuit/)
 - [Tesla lays off nearly 200 Autopilot workers, shutters San Mateo office](https://techcrunch.com/2022/06/28/tesla-layoffs-autopilot-workers-san-mateo/)
 - [Facebook and Instagram are removing posts offering to mail abortion pills](https://techcrunch.com/2022/06/28/abortion-pills-instagram-facebook/)
 - [Pinterest pins down a new CEO: Google exec Bill Ready](https://techcrunch.com/2022/06/28/pinterest-new-ceo-google-bill-ready/)
-- [UK urgently needs new laws on use of biometrics, warns review](https://techcrunch.com/2022/06/28/uk-biometrics-legal-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
