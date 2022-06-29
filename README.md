@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Kukua, creators of “Super Sema,” raises $6 million, led by Alchimia and Tencent](https://techcrunch.com/2022/06/29/kukua-creators-of-super-sema-raises-6-million-led-by-alchimia-and-tencent/)
 - [FCC Commissioner writes to Apple and Google about removing TikTok](https://techcrunch.com/2022/06/28/fcc-commissioner-writes-to-apple-and-google-about-removing-tiktok/)
 - [Entrepreneur First raises $158M at a $560M valuation, adding Stripe’s Collison brothers to its list of backers](https://techcrunch.com/2022/06/28/entrepreneur-first-raises-158m-at-a-560m-valuation-adding-stripes-collison-brothers-to-its-list-of-backers/)
 - [Arzooo raises $70 million to bring ‘best of e-commerce’ to physical stores in India](https://techcrunch.com/2022/06/28/arzooo-raises-70-million-to-bring-best-of-e-commerce-to-physical-stores-in-india/)
 - [Mapan’s services helps low-income Indonesians users afford goods and services](https://techcrunch.com/2022/06/28/mapans-services-helps-low-income-indonesians-users-afford-goods-and-services/)
-- [FTC hammers Walmart over years of ‘facilitating’ money transfer scams](https://techcrunch.com/2022/06/28/walmart-money-transfer-scam-ftc-lawsuit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
