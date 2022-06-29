@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Prime Day 2022: The best space deals to watch](https://www.space.com/amazon-prime-day-space-deals/)
-- [Byju’s cuts over 600 jobs, pushes back payments for $1 billion acquisition](https://techcrunch.com/2022/06/29/byjus-cuts-over-600-jobs-pushes-back-payments-for-1-billion-acquisition/)
-- [On This Day In Space: June 29, 1971: 3 Cosmonauts Lost in Soyuz 11 Tragedy](https://www.space.com/39251-on-this-day-in-space.html/)
-- [Kukua, creators of “Super Sema,” raises $6 million, led by Alchimia and Tencent](https://techcrunch.com/2022/06/29/kukua-creators-of-super-sema-raises-6-million-led-by-alchimia-and-tencent/)
-- [FCC Commissioner writes to Apple and Google about removing TikTok](https://techcrunch.com/2022/06/28/fcc-commissioner-writes-to-apple-and-google-about-removing-tiktok/)
+- [Nautical Commerce sails away with new funding to bring marketplace tech to the masses](https://techcrunch.com/2022/06/29/nautical-commerce-sails-away-with-new-funding-to-bring-marketplace-tech-to-the-masses/)
+- [Venture studio Adanian Labs fuels startup growth in Africa](https://techcrunch.com/2022/06/29/venture-studio-adanian-labs-fuels-startup-growth-in-africa/)
+- [Watch SpaceX launch communications satellite, land rocket at sea Wednesday](https://www.space.com/spacex-ses-22-launch-rocket-landing/)
+- [Hubble Space Telescope shows distortions of massive galaxy cluster in stunning image](https://www.space.com/hubble-space-telescope-massive-galaxy-cluster-photo/)
+- [NASA&#39;s Europa Clipper may crash into Ganymede, the largest moon in the solar system, at mission&#39;s end](https://www.space.com/europa-clipper-might-crash-into-ganymede/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
