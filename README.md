@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates/)
-- [Gmail’s redesigned interface including Chat and Meet is now the new default](https://techcrunch.com/2022/06/29/gmails-redesigned-interface-including-chat-and-meet-is-now-the-new-default/)
-- [Hyundai reveals the IONIQ 6 EV sedan, the eagerly-anticipated follow-up to its IONIQ 5](https://techcrunch.com/2022/06/29/hyundai-reveals-the-ioniq-6-ev-sedan-the-eagerly-anticipated-follow-up-to-its-ioniq-5/)
-- [Snapchat officially introduces its paid subscription at $3.99 per month](https://techcrunch.com/2022/06/29/snapchat-officially-introduces-its-paid-subscription-at-3-99-per-month/)
-- [April taps AI to help personalize and autofill tax filings](https://techcrunch.com/2022/06/29/april-taps-ai-to-help-personalize-and-autofill-tax-filings/)
+- [Gamma-ray bursts might be much rarer than we thought, study suggests](https://www.space.com/gamma-ray-bursts-may-be-rare-study/)
+- [Anonymous social apps shift their attention to Instagram in the wake of Snapchat’s ban](https://techcrunch.com/2022/06/29/anonymous-social-apps-shift-their-attention-to-instagram-in-the-wake-of-snapchats-ban/)
+- [Amazon’s new physical retail analytics service gives brands insights about product and ad performance](https://techcrunch.com/2022/06/29/amazons-physical-retail-analytics-service-gives-brands-shopper-data-ad-product-performance/)
+- [When it comes to sanctions, PE firms must proceed with great caution](https://techcrunch.com/2022/06/29/when-it-comes-to-sanctions-pe-firms-must-proceed-with-great-caution/)
+- [Regard serves as a “medical co-pilot” for busy physicians](https://techcrunch.com/2022/06/29/regard-serves-as-a-medical-co-pilot-for-busy-physicians/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
