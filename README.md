@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dear Sophie: Will a doctor get a green card faster than an engineer?](https://techcrunch.com/2022/06/29/dear-sophie-will-a-doctor-get-a-green-card-faster-than-an-engineer/)
+- [China tests engine for new crewed moon rocket &lpar;photo&rpar;](https://www.space.com/china-tests-engine-new-moon-rocket/)
 - [Cybersecurity startups, once the VC darling, hammered by layoffs](https://techcrunch.com/2022/06/29/cybersecurity-startups-layoffs/)
 - [Google and the Internet Archive are the first customers to pay for commercial access to Wikipedia content](https://techcrunch.com/2022/06/29/google-and-the-internet-archive-are-the-first-customers-to-pay-for-commercial-access-to-wikipedia-content/)
-- [Best beginner cameras 2022](https://www.space.com/best-beginner-cameras/)
-- [James Webb Space Telescope 1st photos will include &#39;deepest image of our universe&#39;](https://www.space.com/james-webb-space-telescope-first-images-teaser/)
-- [Celebrate Asteroid Day 2022 with free online broadcast today](https://www.space.com/asteroid-day-2022-planetary-defense-webcast/)
+- [NASA sun mission spots stunning solar eclipse in space](https://www.space.com/solar-eclipse-seen-from-space-june-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
