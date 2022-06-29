@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mars clouds take center stage in new NASA project looking for volunteers](https://www.space.com/mars-clouds-nasa-crowdsourced-science-project/)
+- [Google’s Switch to Android app for iOS users is now compatible with all Android 12 phones](https://techcrunch.com/2022/06/29/google-switch-android-app-ios-users-compatible-android-12-phones/)
 - [Disclose your Scope 3 emissions, you cowards](https://techcrunch.com/2022/06/29/disclose-your-scope-3-emissions-you-cowards/)
 - [NASA&#39;s DART asteroid mission might completely deform small moonlet](https://www.space.com/dart-mission-impact-stronger-study-study-finds/)
 - [Watch India launch 3 satellites Thursday morning](https://www.space.com/india-pslv-launch-three-satellites-june-30/)
-- [Disney extends CEO Bob Chapek’s contract for three more years despite difficult tenure](https://techcrunch.com/2022/06/29/disney-extends-ceo-bob-chapeks-contract-for-three-more-years-despite-difficult-tenure/)
-- [Dear Sophie: Will a doctor get a green card faster than an engineer?](https://techcrunch.com/2022/06/29/dear-sophie-will-a-doctor-get-a-green-card-faster-than-an-engineer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
