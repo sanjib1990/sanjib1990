@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Enter our student video-pitch competition to win a TechCrunch Disrupt prize package](https://techcrunch.com/2022/06/30/enter-our-student-video-pitch-competition-to-win-a-techcrunch-disrupt-prize-package/)
-- [Google launches Advanced API Security to protect APIs from growing threats](https://techcrunch.com/2022/06/30/google-launches-advanced-api-security-to-protect-apis-from-growing-threats/)
-- [How to keep your development team aligned with the company’s product vision](https://techcrunch.com/2022/06/30/how-to-keep-your-development-team-aligned-with-the-companys-product-vision/)
-- [Higgs boson: The &#39;God Particle&#39; explained](https://www.space.com/higgs-boson-god-particle-explained/)
-- [&#39;E.T. the Extra-Terrestrial&#39; at 40: Spielberg’s charming sci-fi classic still offers wonder today](https://www.space.com/et-the-extra-terrestrial/)
+- [How did a rental startup I’d never heard of leak my home address?](https://techcrunch.com/2022/06/30/bilt-address-leak-privacy/)
+- [Twitch’s new Guest Star mode will let anyone turn their stream into a talk show](https://techcrunch.com/2022/06/30/twitch-guest-star/)
+- [Watch NASA roll huge Artemis 1 moon rocket off the pad early Friday](https://www.space.com/artemis-1-moon-mission-roll-off-launch-pad/)
+- [Twelve is recycling captured CO2 into fuel, sunglasses and more](https://techcrunch.com/2022/06/30/twelve-is-recycling-captured-co2-into-fuel-sunglasses-and-more/)
+- [TikTok tests a dedicated Shop feed that highlights products you can buy now](https://techcrunch.com/2022/06/30/tiktok-dedicated-shop-feed-that-highlights-products-buy-now/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
