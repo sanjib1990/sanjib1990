@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Wattpad introduces a creator program that can pay writers up to $25,000](https://techcrunch.com/2022/06/30/wattpad-introduces-a-creator-program-that-can-pay-writers-up-to-25000/)
+- [European Union keeps mobile roaming fees at bay for another decade](https://techcrunch.com/2022/06/30/eu-roaming-regulation-update/)
+- [A look into the British DFI’s plan to invest in African economies, venture funds and tech startups](https://techcrunch.com/2022/06/30/a-look-into-the-british-dfis-plan-to-invest-in-african-economies-venture-funds-and-tech-startups/)
 - [Taking on Bilt, Stake aims to expand its cash-back rewards program for renters](https://techcrunch.com/2022/06/30/taking-on-bilt-stake-aims-to-expand-its-cash-back-rewards-program-for-renters/)
 - [Brazilian motorcycle rental startup Mottu revs up with $40M to help more Latin Americans become couriers](https://techcrunch.com/2022/06/30/mottu-secures-40m-in-debt-equity-to-rent-motorcycles-to-couriers-in-latin-america/)
-- [MoHash raises $6M seed funding to bring sustainable, stable yields to DeFi](https://techcrunch.com/2022/06/30/mohash-raises-6m-seed-funding-to-bring-sustainable-stable-yields-to-defi/)
-- [Watch an Atlas V rocket launch a missile-warning satellite for the US military on Thursday](https://www.space.com/atlas-v-rocket-ussf-12-launch-preview/)
-- [Catch the moon basking in Earthshine this weekend](https://www.space.com/earthshine-july-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
