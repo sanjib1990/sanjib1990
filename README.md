@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Raspberry Pi introduces a $6 board with Wi-Fi](https://techcrunch.com/2022/06/30/raspberry-pi-introduces-a-6-board-with-wi-fi/)
-- [Here’s Carta’s response to venture becoming more global](https://techcrunch.com/2022/06/30/heres-cartas-response-to-venture-becoming-more-global/)
-- [As the NFT boom fades, major gaming companies slow their crypto plans](https://techcrunch.com/2022/06/30/as-the-nft-boom-fades-major-gaming-companies-slow-their-crypto-plans/)
-- [What to look for when hiring a growth marketing agency](https://techcrunch.com/2022/06/30/what-to-look-for-when-hiring-a-growth-marketing-agency/)
-- [Warehouse Wars](https://techcrunch.com/2022/06/30/warehouse-wars/)
+- [Nikola delays shareholder meeting to drum up support to issue more shares](https://techcrunch.com/2022/06/30/nikola-delays-shareholder-meeting-to-drum-up-support-to-issue-more-shares/)
+- [Instagram test ditches video posts in favor of Reels](https://techcrunch.com/2022/06/30/instagram-test-ditches-video-posts-in-favor-of-reels/)
+- [3 questions for the startup market as we enter Q3](https://techcrunch.com/2022/06/30/3-questions-for-the-startup-market-as-we-enter-q3/)
+- [Fleetzero begins its search for the first giant ship to convert to battery power](https://techcrunch.com/2022/06/30/fleetzero-begins-its-search-for-the-first-giant-ship-to-convert-to-battery-power/)
+- [The SEC rejected bitcoin spot ETFs again. Now what?](https://techcrunch.com/2022/06/30/the-sec-rejected-bitcoin-spot-etfs-again-now-what/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
