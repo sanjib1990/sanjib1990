@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Raspberry Pi introduces a $6 board with Wi-Fi](https://techcrunch.com/2022/06/30/raspberry-pi-introduces-a-6-board-with-wi-fi/)
+- [Here’s Carta’s response to venture becoming more global](https://techcrunch.com/2022/06/30/heres-cartas-response-to-venture-becoming-more-global/)
+- [As the NFT boom fades, major gaming companies slow their crypto plans](https://techcrunch.com/2022/06/30/as-the-nft-boom-fades-major-gaming-companies-slow-their-crypto-plans/)
 - [What to look for when hiring a growth marketing agency](https://techcrunch.com/2022/06/30/what-to-look-for-when-hiring-a-growth-marketing-agency/)
 - [Warehouse Wars](https://techcrunch.com/2022/06/30/warehouse-wars/)
-- [Binance taps TikTok’s mostly silent superstar Khaby Lame to explain how crypto works](https://techcrunch.com/2022/06/30/khaby-lame-crypto-binance-christiano-ronaldo/)
-- [Pitch Deck Teardown: Wilco’s $7 million seed deck](https://techcrunch.com/2022/06/30/sample-seed-pitch-deck-wilco/)
-- [Niantic’s Campfire social AR app rolls out for Pokémon Go players](https://techcrunch.com/2022/06/30/niantics-campfire-social-ar-app-rolls-out-for-pokemon-go-players/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
