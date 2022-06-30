@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Y Combinator announces Launch YC, a way for its portfolio to shout to the public](https://techcrunch.com/2022/06/29/y-combinator-announces-launch-yc-a-way-for-its-portfolio-to-shout-to-the-public/)
 - [Get hype for the first images from NASA’s James Webb Space Telescope](https://techcrunch.com/2022/06/29/get-hype-for-the-first-images-from-nasas-james-webb-space-telescope/)
 - [Daily Crunch: Indian edtech giant Byju’s delays $1B acquisition payment, lays off hundreds of workers](https://techcrunch.com/2022/06/29/daily-crunch-indian-edtech-giant-byjus-delays-1b-acquisition-payment-lays-off-hundreds-of-workers/)
 - [Google’s ‘deceptive’ account sign-up process targeted with GDPR complaints](https://techcrunch.com/2022/06/29/google-account-gdpr-complaint/)
 - [Substack cuts 13 jobs to avoid raising more venture capital](https://techcrunch.com/2022/06/29/substack-cuts-13-jobs-to-avoid-raising-more-venture-captial/)
-- [SpaceX launches SES-22 communications satellite, lands rocket at sea](https://www.space.com/spacex-ses-22-launch-rocket-landing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
