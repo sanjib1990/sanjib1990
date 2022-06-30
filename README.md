@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What to look for when hiring a growth marketing agency](https://techcrunch.com/2022/06/30/what-to-look-for-when-hiring-a-growth-marketing-agency/)
+- [Warehouse Wars](https://techcrunch.com/2022/06/30/warehouse-wars/)
+- [Binance taps TikTok’s mostly silent superstar Khaby Lame to explain how crypto works](https://techcrunch.com/2022/06/30/khaby-lame-crypto-binance-christiano-ronaldo/)
 - [Pitch Deck Teardown: Wilco’s $7 million seed deck](https://techcrunch.com/2022/06/30/sample-seed-pitch-deck-wilco/)
 - [Niantic’s Campfire social AR app rolls out for Pokémon Go players](https://techcrunch.com/2022/06/30/niantics-campfire-social-ar-app-rolls-out-for-pokemon-go-players/)
-- [Cruise robotaxis blocked traffic for hours on this San Francisco street](https://techcrunch.com/2022/06/30/cruise-robotaxis-blocked-traffic-for-hours-on-this-san-francisco-street/)
-- [Facebook begins testing NFTs with select creators in the US](https://techcrunch.com/2022/06/30/facebook-testing-nfts-select-creators-us/)
-- [Another Webb Telescope Instrument Gets the “Go for Science”](https://blogs.nasa.gov/webb/2022/06/30/another-webb-telescope-instrument-gets-the-go-for-science/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
