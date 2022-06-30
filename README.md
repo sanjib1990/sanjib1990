@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: OpenSea, an NFT marketplace, revealed email data breach that may have affected 1.8M users](https://techcrunch.com/2022/06/30/daily-crunch-opensea-an-nft-marketplace-revealed-email-data-breach-that-may-have-affected-1-8m-users/)
+- [Crypto wants its own iPhone](https://techcrunch.com/2022/06/30/crypto-wants-its-own-iphone/)
+- [US Space Force establishes new unit to track &#39;threats in orbit&#39;](https://www.space.com/space-force-delta-18-threats-orbit/)
 - [Nikola delays shareholder meeting to drum up support to issue more shares](https://techcrunch.com/2022/06/30/nikola-delays-shareholder-meeting-to-drum-up-support-to-issue-more-shares/)
-- [Instagram test ditches video posts in favor of Reels](https://techcrunch.com/2022/06/30/instagram-test-ditches-video-posts-in-favor-of-reels/)
-- [3 questions for the startup market as we enter Q3](https://techcrunch.com/2022/06/30/3-questions-for-the-startup-market-as-we-enter-q3/)
-- [Fleetzero begins its search for the first giant ship to convert to battery power](https://techcrunch.com/2022/06/30/fleetzero-begins-its-search-for-the-first-giant-ship-to-convert-to-battery-power/)
-- [The SEC rejected bitcoin spot ETFs again. Now what?](https://techcrunch.com/2022/06/30/the-sec-rejected-bitcoin-spot-etfs-again-now-what/)
+- [Instagram tests ditching video posts in favor of Reels](https://techcrunch.com/2022/06/30/instagram-test-ditches-video-posts-in-favor-of-reels/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
