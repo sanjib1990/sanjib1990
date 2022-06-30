@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Samsung Electronics starts 3-nanometer chip production ahead of TSMC](https://techcrunch.com/2022/06/30/samsung-electronics-starts-3-nanometer-chip-production-ahead-of-tsmc/)
-- [Sava, a spend management platform for African businesses, gets $2M pre-seed backing](https://techcrunch.com/2022/06/30/sava-a-spend-management-platform-for-african-businesses-gets-2m-pre-seed-backing/)
-- [Lenskart acquires majority stake in eyewear brand Owndays in $400 million deal](https://techcrunch.com/2022/06/30/lenskart-owndays/)
-- [NFT giant OpenSea reports major email data breach](https://techcrunch.com/2022/06/30/nft-opensea-data-breach/)
-- [Black Swan analyzes social media to predict which products will be successful](https://techcrunch.com/2022/06/30/black-swan-analyzes-social-media-to-predict-which-products-will-be-successful/)
+- [MoHash raises $6M seed funding to bring sustainable, stable yields to DeFi](https://techcrunch.com/2022/06/30/mohash-raises-6m-seed-funding-to-bring-sustainable-stable-yields-to-defi/)
+- [Watch an Atlas V rocket launch a missile-warning satellite for the US military on Thursday](https://www.space.com/atlas-v-rocket-ussf-12-launch-preview/)
+- [Catch the moon basking in Earthshine this weekend](https://www.space.com/earthshine-july-2022/)
+- [Swarms of tiny robots may one day explore oceans on other worlds](https://www.space.com/news/swarms-of-tiny-robots-may-one-day-explore-oceans-on-other-worlds/)
+- [James Webb Space Telescope&#39;s powers will be revealed in just weeks and scientists can&#39;t wait](https://www.space.com/james-webb-space-telescope-scientists-gearing-up/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
