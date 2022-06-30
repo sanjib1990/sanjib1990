@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lenskart acquires majority stake in eyewear brand Owndays in $400 million deal](https://techcrunch.com/2022/06/30/lenskart-owndays/)
+- [NFT giant OpenSea reports major email data breach](https://techcrunch.com/2022/06/30/nft-opensea-data-breach/)
 - [Black Swan analyzes social media to predict which products will be successful](https://techcrunch.com/2022/06/30/black-swan-analyzes-social-media-to-predict-which-products-will-be-successful/)
 - [Amazon Prime Video’s Watch Party feature is now available on smart TVs and streaming devices](https://techcrunch.com/2022/06/29/amazon-prime-videos-watch-party-feature-is-now-available-on-smart-tvs-and-streaming-devices/)
 - [GetVantage offers revenue-based financing to India’s founders](https://techcrunch.com/2022/06/29/getvantage-offers-revenue-based-financing-to-indias-founders/)
-- [Y Combinator announces Launch YC, a way for its portfolio to shout to the public](https://techcrunch.com/2022/06/29/y-combinator-announces-launch-yc-a-way-for-its-portfolio-to-shout-to-the-public/)
-- [Get hype for the first images from NASA’s James Webb Space Telescope](https://techcrunch.com/2022/06/29/get-hype-for-the-first-images-from-nasas-james-webb-space-telescope/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
