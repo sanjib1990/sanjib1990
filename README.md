@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How did a rental startup I’d never heard of leak my home address?](https://techcrunch.com/2022/06/30/bilt-address-leak-privacy/)
-- [Twitch’s new Guest Star mode will let anyone turn their stream into a talk show](https://techcrunch.com/2022/06/30/twitch-guest-star/)
-- [Watch NASA roll huge Artemis 1 moon rocket off the pad early Friday](https://www.space.com/artemis-1-moon-mission-roll-off-launch-pad/)
-- [Twelve is recycling captured CO2 into fuel, sunglasses and more](https://techcrunch.com/2022/06/30/twelve-is-recycling-captured-co2-into-fuel-sunglasses-and-more/)
-- [TikTok tests a dedicated Shop feed that highlights products you can buy now](https://techcrunch.com/2022/06/30/tiktok-dedicated-shop-feed-that-highlights-products-buy-now/)
+- [Pitch Deck Teardown: Wilco’s $7 million seed deck](https://techcrunch.com/2022/06/30/sample-seed-pitch-deck-wilco/)
+- [Niantic’s Campfire social AR app rolls out for Pokémon Go players](https://techcrunch.com/2022/06/30/niantics-campfire-social-ar-app-rolls-out-for-pokemon-go-players/)
+- [Cruise robotaxis blocked traffic for hours on this San Francisco street](https://techcrunch.com/2022/06/30/cruise-robotaxis-blocked-traffic-for-hours-on-this-san-francisco-street/)
+- [Facebook begins testing NFTs with select creators in the US](https://techcrunch.com/2022/06/30/facebook-testing-nfts-select-creators-us/)
+- [Another Webb Telescope Instrument Gets the “Go for Science”](https://blogs.nasa.gov/webb/2022/06/30/another-webb-telescope-instrument-gets-the-go-for-science/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
