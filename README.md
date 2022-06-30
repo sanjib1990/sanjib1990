@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Focal Point focuses on modernizing procurement with $3M seed investment](https://techcrunch.com/2022/06/30/focal-point-focuses-on-modernizing-procurement-with-3m-seed-investment/)
-- [North Korean Lazarus hackers linked to $100M Harmony bridge theft](https://techcrunch.com/2022/06/30/north-korea-lazarus-harmony-theft/)
-- [India launches 3 satellites and an experimental orbiting platform](https://www.space.com/india-pslv-launch-three-satellites-june-30/)
-- [Music distributor DistroKid expands into music video distribution with ‘DistroVid’](https://techcrunch.com/2022/06/30/music-distributor-distrokid-expands-into-music-video-distribution-with-distrovid/)
-- [Swarms of tiny robots may one day explore oceans on other worlds](https://www.space.com/tiny-robot-swarms-may-explore-alien-oceans/)
+- [HomeLister lets you skip the realtor and keep the commission](https://techcrunch.com/2022/06/30/homelister-lets-you-skip-the-realtor-and-keep-the-commission/)
+- [OP Crypto raising $100M for ‘Fund of Funds’ to back fund managers](https://techcrunch.com/2022/06/30/op-crypto-raising-100m-for-fund-of-funds-to-back-fund-managers/)
+- [&#39;Star Trek: Strange New Worlds&#39; episode 8 suffers from a clash of styles](https://www.space.com/star-trek-strange-new-worlds-season-1-episode-8-review/)
+- [YouTube will disable hidden subscriber counts to fight comment spam](https://techcrunch.com/2022/06/30/youtube-subscriber-count-impersonator-spam-special-characters/)
+- [As the global venture capital market slows, Africa charts its own course](https://techcrunch.com/2022/06/30/as-the-global-venture-capital-market-slows-africa-charts-its-own-course/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
