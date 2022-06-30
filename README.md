@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [MAYA Capital closes second fund with $100M for early-stage Latin American startups](https://techcrunch.com/2022/06/30/maya-capital-closes-100m-second-fund-with-an-eye-toward-latin-american-female-founders/)
-- [Forethought AI’s CEO explains the pitch deck that won Startup Battlefield at TechCrunch Disrupt 2018](https://techcrunch.com/2022/06/30/forethought-ais-ceo-explains-the-pitch-deck-that-won-startup-battlefield-at-techcrunch-disrupt-2018/)
-- [The Drako Motors 2,000-hp electric luxury SUV “feels more like a spaceship”](https://techcrunch.com/2022/06/30/drako-motors-2000-hp-electric-luxury-suv-feels-more-like-a-spaceship/)
-- [TaskHuman lands $20M to expand its virtual coaching platform](https://techcrunch.com/2022/06/30/taskhuman-lands-20m-to-expand-its-virtual-coaching-platform/)
-- [Marketing automation startup Rocket Reach nabs $24M for expansion](https://techcrunch.com/2022/06/30/marketing-automation-startup-rocket-reach-nabs-24m-for-expansion/)
+- [Focal Point focuses on modernizing procurement with $3M seed investment](https://techcrunch.com/2022/06/30/focal-point-focuses-on-modernizing-procurement-with-3m-seed-investment/)
+- [North Korean Lazarus hackers linked to $100M Harmony bridge theft](https://techcrunch.com/2022/06/30/north-korea-lazarus-harmony-theft/)
+- [India launches 3 satellites and an experimental orbiting platform](https://www.space.com/india-pslv-launch-three-satellites-june-30/)
+- [Music distributor DistroKid expands into music video distribution with ‘DistroVid’](https://techcrunch.com/2022/06/30/music-distributor-distrokid-expands-into-music-video-distribution-with-distrovid/)
+- [Swarms of tiny robots may one day explore oceans on other worlds](https://www.space.com/tiny-robot-swarms-may-explore-alien-oceans/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
