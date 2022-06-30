@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [HomeLister lets you skip the realtor and keep the commission](https://techcrunch.com/2022/06/30/homelister-lets-you-skip-the-realtor-and-keep-the-commission/)
-- [OP Crypto raising $100M for ‘Fund of Funds’ to back fund managers](https://techcrunch.com/2022/06/30/op-crypto-raising-100m-for-fund-of-funds-to-back-fund-managers/)
-- [&#39;Star Trek: Strange New Worlds&#39; episode 8 suffers from a clash of styles](https://www.space.com/star-trek-strange-new-worlds-season-1-episode-8-review/)
-- [YouTube will disable hidden subscriber counts to fight comment spam](https://techcrunch.com/2022/06/30/youtube-subscriber-count-impersonator-spam-special-characters/)
-- [As the global venture capital market slows, Africa charts its own course](https://techcrunch.com/2022/06/30/as-the-global-venture-capital-market-slows-africa-charts-its-own-course/)
+- [Enter our student video-pitch competition to win a TechCrunch Disrupt prize package](https://techcrunch.com/2022/06/30/enter-our-student-video-pitch-competition-to-win-a-techcrunch-disrupt-prize-package/)
+- [Google launches Advanced API Security to protect APIs from growing threats](https://techcrunch.com/2022/06/30/google-launches-advanced-api-security-to-protect-apis-from-growing-threats/)
+- [How to keep your development team aligned with the company’s product vision](https://techcrunch.com/2022/06/30/how-to-keep-your-development-team-aligned-with-the-companys-product-vision/)
+- [Higgs boson: The &#39;God Particle&#39; explained](https://www.space.com/higgs-boson-god-particle-explained/)
+- [&#39;E.T. the Extra-Terrestrial&#39; at 40: Spielberg’s charming sci-fi classic still offers wonder today](https://www.space.com/et-the-extra-terrestrial/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
