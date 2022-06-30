@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Samsung Electronics starts 3-nanometer chip production ahead of TSMC](https://techcrunch.com/2022/06/30/samsung-electronics-starts-3-nanometer-chip-production-ahead-of-tsmc/)
+- [Sava, a spend management platform for African businesses, gets $2M pre-seed backing](https://techcrunch.com/2022/06/30/sava-a-spend-management-platform-for-african-businesses-gets-2m-pre-seed-backing/)
 - [Lenskart acquires majority stake in eyewear brand Owndays in $400 million deal](https://techcrunch.com/2022/06/30/lenskart-owndays/)
 - [NFT giant OpenSea reports major email data breach](https://techcrunch.com/2022/06/30/nft-opensea-data-breach/)
 - [Black Swan analyzes social media to predict which products will be successful](https://techcrunch.com/2022/06/30/black-swan-analyzes-social-media-to-predict-which-products-will-be-successful/)
-- [Amazon Prime Video’s Watch Party feature is now available on smart TVs and streaming devices](https://techcrunch.com/2022/06/29/amazon-prime-videos-watch-party-feature-is-now-available-on-smart-tvs-and-streaming-devices/)
-- [GetVantage offers revenue-based financing to India’s founders](https://techcrunch.com/2022/06/29/getvantage-offers-revenue-based-financing-to-indias-founders/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
