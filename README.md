@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Taking on Bilt, Stake aims to expand its cash-back rewards program for renters](https://techcrunch.com/2022/06/30/taking-on-bilt-stake-aims-to-expand-its-cash-back-rewards-program-for-renters/)
+- [Brazilian motorcycle rental startup Mottu revs up with $40M to help more Latin Americans become couriers](https://techcrunch.com/2022/06/30/mottu-secures-40m-in-debt-equity-to-rent-motorcycles-to-couriers-in-latin-america/)
 - [MoHash raises $6M seed funding to bring sustainable, stable yields to DeFi](https://techcrunch.com/2022/06/30/mohash-raises-6m-seed-funding-to-bring-sustainable-stable-yields-to-defi/)
 - [Watch an Atlas V rocket launch a missile-warning satellite for the US military on Thursday](https://www.space.com/atlas-v-rocket-ussf-12-launch-preview/)
 - [Catch the moon basking in Earthshine this weekend](https://www.space.com/earthshine-july-2022/)
-- [Swarms of tiny robots may one day explore oceans on other worlds](https://www.space.com/news/swarms-of-tiny-robots-may-one-day-explore-oceans-on-other-worlds/)
-- [James Webb Space Telescope&#39;s powers will be revealed in just weeks and scientists can&#39;t wait](https://www.space.com/james-webb-space-telescope-scientists-gearing-up/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
