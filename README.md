@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s tiny CAPSTONE probe continues spiraling out toward the moon](https://www.space.com/nasa-capstone-moon-cubesat-aces-engine-burns/)
-- [Most startups were overvalued before 2021, and now it’s causing problems](https://techcrunch.com/2022/07/01/most-startups-were-overvalued-before-2021-and-now-its-causing-problems/)
-- [China launches new Gaofen 12 Earth observation satellite](https://www.space.com/china-launches-gaofen-12-satellite/)
-- [Spotify partners with Netflix to curate a personalized ‘Stranger Things’ playlist for fans](https://techcrunch.com/2022/07/01/spotify-partners-with-netflix-to-curate-a-personalized-stranger-things-playlist-for-fans/)
-- [China’s new Mars images show off the country’s robust &lpar;but secretive&rpar; space program](https://techcrunch.com/2022/07/01/chinas-new-mars-pictures-tianwen-1/)
+- [The end of a second straight month of layoffs in tech](https://techcrunch.com/2022/07/01/the-end-of-a-second-straight-month-of-layoffs-in-tech/)
+- [Valkyrie CEO says suing US SEC for a spot bitcoin ETF ‘isn’t likely to succeed’](https://techcrunch.com/2022/07/01/valkyrie-ceo-says-suing-us-sec-for-a-spot-bitcoin-etf-isnt-likely-to-succeed/)
+- [Behind the scenes of Waymo’s worst automated truck crash](https://techcrunch.com/2022/07/01/behind-the-scenes-of-waymos-worst-automated-truck-crash/)
+- [Reddit acquires natural language processing company MeaningCloud](https://techcrunch.com/2022/07/01/reddit-acquires-natural-language-processing-company-meaningcloud/)
+- [FTX US deal with troubled crypto lender BlockFi floats acquisition with ‘up to’ $240M purchase price](https://techcrunch.com/2022/07/01/ftx-us-deal-with-troubled-crypto-lender-blockfi-floats-acquisition-with-up-to-240m-purchase-price/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
