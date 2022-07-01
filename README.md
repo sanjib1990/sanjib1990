@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Surprise &#39;fossil galaxy&#39; spotted near mighty Andromeda](https://www.space.com/fossil-dwarf-galaxy-near-andromeda/)
-- [When do layoffs matter? Trick question – always](https://techcrunch.com/2022/07/01/when-do-layoffs-matter-trick-question-always/)
-- [TechCrunch podcast this week: Crypto cults, 2022 term sheets, and how to win Startup Battlefield](https://techcrunch.com/2022/07/01/techcrunch-podcast-this-week-crypto-cults-2022-term-sheets-and-how-to-win-startup-battlefield/)
-- [NASA will unveil the James Webb Space Telescope&#39;s 1st science photos this month. Here&#39;s how to watch.](https://www.space.com/james-webb-space-telescope-science-photos-webcast/)
-- [U.S CFTC charges South African company over $1.7 billion bitcoin ponzi scheme](https://techcrunch.com/2022/07/01/u-s-cftc-charges-south-african-company-over-1-7-billion-bitcoin-ponzi-scheme/)
+- [Supreme Court’s EPA ruling all but ensures the US won’t be competitive with China or Europe](https://techcrunch.com/2022/07/01/supreme-courts-epa-ruling-all-but-ensures-the-us-wont-be-competitive-with-china-or-europe/)
+- [US publisher Macmillan confirms cyberattack forced systems offline](https://techcrunch.com/2022/07/01/publisher-macmillan-ransomware/)
+- [Bring your team to TechCrunch Disrupt and save big with our flash sale](https://techcrunch.com/2022/07/01/bring-your-team-to-techcrunch-disrupt-and-save-big-with-our-flash-sale/)
+- [Steve Jobs to receive posthumous Medal of Freedom](https://techcrunch.com/2022/07/01/steve-jobs-to-receive-posthumous-medal-of-freedom/)
+- [AI-powered photo stock startup Wirestock lands partnership with Getty Images](https://techcrunch.com/2022/07/01/wirestock-getty/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
