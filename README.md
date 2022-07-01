@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TechCrunch+ roundup: SaaS success stats, leveraging ad tech chaos, 2022 layoff trends](https://techcrunch.com/2022/07/01/techcrunch-roundup-saas-success-stats-leveraging-ad-tech-chaos-2022-layoff-trends/)
-- [Astronauts may need to jump in space to fight bone loss](https://www.space.com/astronaut-bone-loss-jumping-exercise-study/)
-- [OpenSea’s $13B valuation doesn’t make sense as NFT trading volumes plunge](https://techcrunch.com/2022/07/01/openseas-13b-valuation-doesnt-make-sense-as-nft-trading-volumes-plunge/)
-- [Fintech Klarna reportedly raising at a $6.5B valuation, giving new meaning to the phrase ‘down round’](https://techcrunch.com/2022/07/01/fintech-klarna-reportedly-raising-at-a-6-5b-valuation-giving-new-meaning-to-the-phrase-down-round/)
-- [How To See Webb’s First Images!](https://blogs.nasa.gov/webb/2022/07/01/how-to-see-webbs-first-images/)
+- [NASA&#39;s tiny CAPSTONE probe continues spiraling out toward the moon](https://www.space.com/nasa-capstone-moon-cubesat-aces-engine-burns/)
+- [Most startups were overvalued before 2021, and now it’s causing problems](https://techcrunch.com/2022/07/01/most-startups-were-overvalued-before-2021-and-now-its-causing-problems/)
+- [China launches new Gaofen 12 Earth observation satellite](https://www.space.com/china-launches-gaofen-12-satellite/)
+- [Spotify partners with Netflix to curate a personalized ‘Stranger Things’ playlist for fans](https://techcrunch.com/2022/07/01/spotify-partners-with-netflix-to-curate-a-personalized-stranger-things-playlist-for-fans/)
+- [China’s new Mars images show off the country’s robust &lpar;but secretive&rpar; space program](https://techcrunch.com/2022/07/01/chinas-new-mars-pictures-tianwen-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
