@@ -94,9 +94,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The end of a second straight month of layoffs in tech](https://techcrunch.com/2022/07/01/the-end-of-a-second-straight-month-of-layoffs-in-tech/)
+- [Space volcanoes: Origins, variants and eruptions](https://www.space.com/space-volcanoes/)
+- [China&#39;s Mars orbiter has mapped the entire Red Planet, nailing key science goal &lpar;photos&rpar;](https://www.space.com/china-mars-tianwen-1-mission-complete-map/)
 - [Exclusive: The hunter becomes the hunted in Marvel Comics &#39;Predator #1&#39; relaunch](https://www.space.com/marvel-comics-predator-relaunch/)
-- [Valkyrie CEO says suing US SEC for a spot bitcoin ETF ‘isn’t likely to succeed’](https://techcrunch.com/2022/07/01/valkyrie-ceo-says-suing-us-sec-for-a-spot-bitcoin-etf-isnt-likely-to-succeed/)
 - [Behind the scenes of Waymo’s worst automated truck crash](https://techcrunch.com/2022/07/01/behind-the-scenes-of-waymos-worst-automated-truck-crash/)
 - [Reddit acquires natural language processing company MeaningCloud](https://techcrunch.com/2022/07/01/reddit-acquires-natural-language-processing-company-meaningcloud/)
 <!-- BLOG-POST-LIST:END -->
