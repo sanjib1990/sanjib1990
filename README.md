@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Organization urges open source developers to dump GitHub following Copilot launch](https://techcrunch.com/2022/07/01/daily-crunch-organization-urges-open-source-developers-to-dump-github-following-copilot-launch/)
+- [Samsung’s cloud gaming hub brings Xbox, Twitch and more to newest smart TVs](https://techcrunch.com/2022/07/01/samsung-cloud-gaming-hub-xbox-twitch-luna-smart-tvs/)
+- [I want to forget Elon’s dumb $420 tweet, but y’all won’t let me](https://techcrunch.com/2022/07/01/soc-elon-musk-investors-asks-sec-tesla-add-board-member/)
+- [Sequoia Capital reportedly raising two funds, and despite slower VC environment, it’s not alone](https://techcrunch.com/2022/07/01/sequoia-capital-reportedly-raising-two-funds-and-despite-slower-vc-environment-its-not-alone/)
 - [Space volcanoes: Origins, variants and eruptions](https://www.space.com/space-volcanoes/)
-- [China&#39;s Mars orbiter has mapped the entire Red Planet, nailing key science goal &lpar;photos&rpar;](https://www.space.com/china-mars-tianwen-1-mission-complete-map/)
-- [Exclusive: The hunter becomes the hunted in Marvel Comics &#39;Predator #1&#39; relaunch](https://www.space.com/marvel-comics-predator-relaunch/)
-- [Behind the scenes of Waymo’s worst automated truck crash](https://techcrunch.com/2022/07/01/behind-the-scenes-of-waymos-worst-automated-truck-crash/)
-- [Reddit acquires natural language processing company MeaningCloud](https://techcrunch.com/2022/07/01/reddit-acquires-natural-language-processing-company-meaningcloud/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
