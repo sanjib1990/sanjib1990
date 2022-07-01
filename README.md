@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google will reimburse developers $90 million to settle a lawsuit over Play Store earnings](https://techcrunch.com/2022/07/01/google-will-reimburse-developers-90-million-to-settle-a-lawsuit-over-play-store-earnings/)
 - [Meta’s co-accused Sama to retain BCorp status until case is determined](https://techcrunch.com/2022/06/30/metas-co-accused-sama-to-retain-bcorp-status-until-case-is-determined/)
 - [Sharpen your credit card, the Apple Store is down](https://techcrunch.com/2022/06/30/apple-store-updates/)
 - [China’s tech giants promise speculation-free NFTs](https://techcrunch.com/2022/06/30/china-nft-tencent-alibaba/)
 - [Visby Medical tests positive for a Series E extension at $1B+ valuation](https://techcrunch.com/2022/06/30/visby-medical-series-e-extension/)
-- [Micropyramid lenses triple the light that hits solar panels](https://techcrunch.com/2022/06/30/stanford-designed-pyramid-lens-boosts-solar-panel-efficiency/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
