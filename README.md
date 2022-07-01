@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [July new moon 2022: Young moon passes Mercury](https://www.space.com/17561-new-moon-explained-lunar-phases.html/)
 - [SpaceX&#39;s Starlink satellites will help improve space weather forecasts amid sun&#39;s unpredictable activity](https://www.space.com/spacex-starlink-helps-noaa-space-weather-forecast/)
 - [Another supermoon rises this month with July&#39;s &#39;Buck Moon&#39;](https://www.space.com/full-moon-rises-supermoon-july-2022/)
 - [Where will NASA set up its moon base?](https://www.space.com/nasa-artemis-moon-base-camp-location/)
 - [A huge comet will make its closest approach to Earth in July. Here&#39;s how to watch it live.](https://www.space.com/giant-comet-k2-closest-approach-webcast/)
-- [Crypto traceability rules agreed by EU lawmakers](https://techcrunch.com/2022/07/01/crypto-regulation-eu/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
