@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch podcast this week: Crypto cults, 2022 term sheets, and how to win Startup Battlefield](https://techcrunch.com/2022/07/01/techcrunch-podcast-this-week-crypto-cults-2022-term-sheets-and-how-to-win-startup-battlefield/)
 - [NASA will unveil the James Webb Space Telescope&#39;s 1st science photos this month. Here&#39;s how to watch.](https://www.space.com/james-webb-space-telescope-science-photos-webcast/)
 - [U.S CFTC charges South African company over $1.7 billion bitcoin ponzi scheme](https://techcrunch.com/2022/07/01/u-s-cftc-charges-south-african-company-over-1-7-billion-bitcoin-ponzi-scheme/)
 - [Promoted grabs more funding to help e-commerce marketplaces achieve profitability](https://techcrunch.com/2022/07/01/promoted-grabs-more-funding-to-help-e-commerce-marketplaces-achieve-profitability/)
 - [Open source developers urged to ditch GitHub following Copilot launch](https://techcrunch.com/2022/07/01/open-source-developers-urged-to-ditch-github-following-copilot-launch/)
-- [July new moon 2022: Young moon passes Mercury](https://www.space.com/17561-new-moon-explained-lunar-phases.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
