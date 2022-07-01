@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google will reimburse developers $90 million to settle a lawsuit over Play Store earnings](https://techcrunch.com/2022/07/01/google-will-reimburse-developers-90-million-to-settle-a-lawsuit-over-play-store-earnings/)
-- [Meta’s co-accused Sama to retain BCorp status until case is determined](https://techcrunch.com/2022/06/30/metas-co-accused-sama-to-retain-bcorp-status-until-case-is-determined/)
-- [Sharpen your credit card, the Apple Store is down](https://techcrunch.com/2022/06/30/apple-store-updates/)
-- [China’s tech giants promise speculation-free NFTs](https://techcrunch.com/2022/06/30/china-nft-tencent-alibaba/)
-- [Visby Medical tests positive for a Series E extension at $1B+ valuation](https://techcrunch.com/2022/06/30/visby-medical-series-e-extension/)
+- [SpaceX&#39;s Starlink satellites will help improve space weather forecasts amid sun&#39;s unpredictable activity](https://www.space.com/spacex-starlink-helps-noaa-space-weather-forecast/)
+- [Another supermoon rises this month with July&#39;s &#39;Buck Moon&#39;](https://www.space.com/full-moon-rises-supermoon-july-2022/)
+- [Where will NASA set up its moon base?](https://www.space.com/nasa-artemis-moon-base-camp-location/)
+- [A huge comet will make its closest approach to Earth in July. Here&#39;s how to watch it live.](https://www.space.com/giant-comet-k2-closest-approach-webcast/)
+- [Crypto traceability rules agreed by EU lawmakers](https://techcrunch.com/2022/07/01/crypto-regulation-eu/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
