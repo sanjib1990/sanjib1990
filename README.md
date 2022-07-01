@@ -95,10 +95,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [The end of a second straight month of layoffs in tech](https://techcrunch.com/2022/07/01/the-end-of-a-second-straight-month-of-layoffs-in-tech/)
+- [Exclusive: The hunter becomes the hunted in Marvel Comics &#39;Predator #1&#39; relaunch](https://www.space.com/marvel-comics-predator-relaunch/)
 - [Valkyrie CEO says suing US SEC for a spot bitcoin ETF ‘isn’t likely to succeed’](https://techcrunch.com/2022/07/01/valkyrie-ceo-says-suing-us-sec-for-a-spot-bitcoin-etf-isnt-likely-to-succeed/)
 - [Behind the scenes of Waymo’s worst automated truck crash](https://techcrunch.com/2022/07/01/behind-the-scenes-of-waymos-worst-automated-truck-crash/)
 - [Reddit acquires natural language processing company MeaningCloud](https://techcrunch.com/2022/07/01/reddit-acquires-natural-language-processing-company-meaningcloud/)
-- [FTX US deal with troubled crypto lender BlockFi floats acquisition with ‘up to’ $240M purchase price](https://techcrunch.com/2022/07/01/ftx-us-deal-with-troubled-crypto-lender-blockfi-floats-acquisition-with-up-to-240m-purchase-price/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
