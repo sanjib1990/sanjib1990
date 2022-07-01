@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA will unveil the James Webb Space Telescope&#39;s 1st science photos this month. Here&#39;s how to watch.](https://www.space.com/james-webb-space-telescope-science-photos-webcast/)
+- [U.S CFTC charges South African company over $1.7 billion bitcoin ponzi scheme](https://techcrunch.com/2022/07/01/u-s-cftc-charges-south-african-company-over-1-7-billion-bitcoin-ponzi-scheme/)
+- [Promoted grabs more funding to help e-commerce marketplaces achieve profitability](https://techcrunch.com/2022/07/01/promoted-grabs-more-funding-to-help-e-commerce-marketplaces-achieve-profitability/)
+- [Open source developers urged to ditch GitHub following Copilot launch](https://techcrunch.com/2022/07/01/open-source-developers-urged-to-ditch-github-following-copilot-launch/)
 - [July new moon 2022: Young moon passes Mercury](https://www.space.com/17561-new-moon-explained-lunar-phases.html/)
-- [SpaceX&#39;s Starlink satellites will help improve space weather forecasts amid sun&#39;s unpredictable activity](https://www.space.com/spacex-starlink-helps-noaa-space-weather-forecast/)
-- [Another supermoon rises this month with July&#39;s &#39;Buck Moon&#39;](https://www.space.com/full-moon-rises-supermoon-july-2022/)
-- [Where will NASA set up its moon base?](https://www.space.com/nasa-artemis-moon-base-camp-location/)
-- [A huge comet will make its closest approach to Earth in July. Here&#39;s how to watch it live.](https://www.space.com/giant-comet-k2-closest-approach-webcast/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
