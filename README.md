@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Supreme Court’s EPA ruling all but ensures the US won’t be competitive with China or Europe](https://techcrunch.com/2022/07/01/supreme-courts-epa-ruling-all-but-ensures-the-us-wont-be-competitive-with-china-or-europe/)
-- [US publisher Macmillan confirms cyberattack forced systems offline](https://techcrunch.com/2022/07/01/publisher-macmillan-ransomware/)
-- [Bring your team to TechCrunch Disrupt and save big with our flash sale](https://techcrunch.com/2022/07/01/bring-your-team-to-techcrunch-disrupt-and-save-big-with-our-flash-sale/)
-- [Steve Jobs to receive posthumous Medal of Freedom](https://techcrunch.com/2022/07/01/steve-jobs-to-receive-posthumous-medal-of-freedom/)
-- [AI-powered photo stock startup Wirestock lands partnership with Getty Images](https://techcrunch.com/2022/07/01/wirestock-getty/)
+- [TechCrunch+ roundup: SaaS success stats, leveraging ad tech chaos, 2022 layoff trends](https://techcrunch.com/2022/07/01/techcrunch-roundup-saas-success-stats-leveraging-ad-tech-chaos-2022-layoff-trends/)
+- [Astronauts may need to jump in space to fight bone loss](https://www.space.com/astronaut-bone-loss-jumping-exercise-study/)
+- [OpenSea’s $13B valuation doesn’t make sense as NFT trading volumes plunge](https://techcrunch.com/2022/07/01/openseas-13b-valuation-doesnt-make-sense-as-nft-trading-volumes-plunge/)
+- [Fintech Klarna reportedly raising at a $6.5B valuation, giving new meaning to the phrase ‘down round’](https://techcrunch.com/2022/07/01/fintech-klarna-reportedly-raising-at-a-6-5b-valuation-giving-new-meaning-to-the-phrase-down-round/)
+- [How To See Webb’s First Images!](https://blogs.nasa.gov/webb/2022/07/01/how-to-see-webbs-first-images/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
