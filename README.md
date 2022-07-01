@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta’s co-accused Sama to retain BCorp status until case is determined](https://techcrunch.com/2022/06/30/metas-co-accused-sama-to-retain-bcorp-status-until-case-is-determined/)
+- [Sharpen your credit card, the Apple Store is down](https://techcrunch.com/2022/06/30/apple-store-updates/)
 - [China’s tech giants promise speculation-free NFTs](https://techcrunch.com/2022/06/30/china-nft-tencent-alibaba/)
 - [Visby Medical tests positive for a Series E extension at $1B+ valuation](https://techcrunch.com/2022/06/30/visby-medical-series-e-extension/)
 - [Micropyramid lenses triple the light that hits solar panels](https://techcrunch.com/2022/06/30/stanford-designed-pyramid-lens-boosts-solar-panel-efficiency/)
-- [Daily Crunch: OpenSea, an NFT marketplace, revealed email data breach that may have affected 1.8M users](https://techcrunch.com/2022/06/30/daily-crunch-opensea-an-nft-marketplace-revealed-email-data-breach-that-may-have-affected-1-8m-users/)
-- [Crypto wants its own iPhone](https://techcrunch.com/2022/06/30/crypto-wants-its-own-iphone/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
