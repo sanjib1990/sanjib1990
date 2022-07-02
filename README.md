@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tech doesn’t get more full circle than this](https://techcrunch.com/2022/07/02/tech-doesnt-get-more-full-circle-than-this/)
+- [Mystery rocket makes moonfall](https://techcrunch.com/2022/07/02/mystery-rocket-makes-moonfall/)
+- [This Week in Apps: Period tracking app privacy, Snapchat’s paid subscription, calls for TikTok ban](https://techcrunch.com/2022/07/02/this-week-in-apps-period-tracking-app-privacy-snapchats-paid-subscription-calls-for-tiktok-ban/)
 - [Tesla EV deliveries fall nearly 18%  in second quarter following China factory shutdown](https://techcrunch.com/2022/07/02/tesla-ev-deliveries-fall-nearly-18-in-second-quarter-following-china-factory-shutdown/)
 - [A USB standard for satellites? Slingshot 1 takes to orbit to test one](https://techcrunch.com/2022/07/02/a-usb-standard-for-satellites-slingshot-1-takes-to-orbit-to-test-one/)
-- [Ring ring ring ring Solanaphone](https://techcrunch.com/2022/07/02/ring-ring-ring-ring-solanaphone/)
-- [Notch will sell you insurance in case your Instagram gets hacked](https://techcrunch.com/2022/07/02/notch-instagram-insurance-hacked/)
-- [4 climate tech investors sound off on Supreme Court’s EPA ruling](https://techcrunch.com/2022/07/02/4-climate-tech-investors-sound-off-on-supreme-courts-epa-ruling/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
