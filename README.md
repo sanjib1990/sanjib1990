@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [YC makes a Product Hunt, Product Hunt makes an a16z, a16z makes a YC](https://techcrunch.com/2022/07/02/yc-makes-a-product-hunt-product-hunt-makes-an-a16z-a16z-makes-a-yc/)
+- [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html/)
+- [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html/)
+- [On This Day In Space: July 2, 1985: Space probe launches to Halley’s Comet](https://www.space.com/39251-on-this-day-in-space.html/)
 - [Is the electric grid ready for extreme space weather?](https://www.space.com/space-weather-impacts-electric-grid-preparations/)
-- [NASA reports &#39;significant progress&#39; in rescuing Lucy asteroid spacecraft&#39;s solar array](https://www.space.com/lucy-asteroid-mission-progress-solar-array/)
-- [NASA&#39;s flying SOFIA observatory is in New Zealand for the last time](https://www.space.com/sofia-flying-observatory-last-new-zealand-trip/)
-- [James Webb Space Telescope will get best view yet of &#39;failed stars&#39; and rogue planets](https://www.space.com/james-webb-space-telescope-brown-dwarfs/)
-- [Virgin Orbit launches 7 satellites in 1st night mission](https://www.space.com/virgin-orbit-straight-up-mission-launch-success/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
