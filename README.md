@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Retail investors or guinea pigs?](https://techcrunch.com/2022/07/02/retail-investors-or-guinea-pigs/)
 - [YC makes a Product Hunt, Product Hunt makes an a16z, a16z makes a YC](https://techcrunch.com/2022/07/02/yc-makes-a-product-hunt-product-hunt-makes-an-a16z-a16z-makes-a-yc/)
 - [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html/)
 - [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html/)
 - [On This Day In Space: July 2, 1985: Space probe launches to Halley’s Comet](https://www.space.com/39251-on-this-day-in-space.html/)
-- [Is the electric grid ready for extreme space weather?](https://www.space.com/space-weather-impacts-electric-grid-preparations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
