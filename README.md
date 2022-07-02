@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla EV deliveries fall nearly 18%  in second quarter following China factory shutdown](https://techcrunch.com/2022/07/02/tesla-ev-deliveries-fall-nearly-18-in-second-quarter-following-china-factory-shutdown/)
+- [A USB standard for satellites? Slingshot 1 takes to orbit to test one](https://techcrunch.com/2022/07/02/a-usb-standard-for-satellites-slingshot-1-takes-to-orbit-to-test-one/)
 - [Ring ring ring ring Solanaphone](https://techcrunch.com/2022/07/02/ring-ring-ring-ring-solanaphone/)
 - [Notch will sell you insurance in case your Instagram gets hacked](https://techcrunch.com/2022/07/02/notch-instagram-insurance-hacked/)
 - [4 climate tech investors sound off on Supreme Court’s EPA ruling](https://techcrunch.com/2022/07/02/4-climate-tech-investors-sound-off-on-supreme-courts-epa-ruling/)
-- [Retail investors or guinea pigs?](https://techcrunch.com/2022/07/02/retail-investors-or-guinea-pigs/)
-- [YC makes a Product Hunt, Product Hunt makes an a16z, a16z makes a YC](https://techcrunch.com/2022/07/02/yc-makes-a-product-hunt-product-hunt-makes-an-a16z-a16z-makes-a-yc/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
