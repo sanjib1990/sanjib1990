@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Virgin Orbit launches 7 satellites in 1st night mission](https://www.space.com/virgin-orbit-straight-up-mission-launch-success/)
 - [Atlas V rocket launches classified missile-tracking satellite for US Space Force](https://www.space.com/atlas-v-rocket-ussf-12-launch-success/)
 - [Google will start erasing location data for abortion clinic visits](https://techcrunch.com/2022/07/01/google-abortion-clinic-location-data-privacy/)
 - [Crypto mega hedge fund Three Arrows Capital reportedly files for bankruptcy in New York](https://techcrunch.com/2022/07/01/crypto-mega-hedge-fund-three-arrows-capital-reportedly-files-for-bankruptcy-in-new-york/)
 - [Daily Crunch: Organization urges open source developers to dump GitHub following Copilot launch](https://techcrunch.com/2022/07/01/daily-crunch-organization-urges-open-source-developers-to-dump-github-following-copilot-launch/)
-- [Samsung’s cloud gaming hub brings Xbox, Twitch and more to newest smart TVs](https://techcrunch.com/2022/07/01/samsung-cloud-gaming-hub-xbox-twitch-luna-smart-tvs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
