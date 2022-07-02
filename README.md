@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Notch will sell you insurance in case your Instagram gets hacked](https://techcrunch.com/2022/07/02/notch-instagram-insurance-hacked/)
 - [4 climate tech investors sound off on Supreme Court’s EPA ruling](https://techcrunch.com/2022/07/02/4-climate-tech-investors-sound-off-on-supreme-courts-epa-ruling/)
 - [Retail investors or guinea pigs?](https://techcrunch.com/2022/07/02/retail-investors-or-guinea-pigs/)
 - [YC makes a Product Hunt, Product Hunt makes an a16z, a16z makes a YC](https://techcrunch.com/2022/07/02/yc-makes-a-product-hunt-product-hunt-makes-an-a16z-a16z-makes-a-yc/)
 - [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html/)
-- [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
