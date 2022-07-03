@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I watched hundreds of flat-Earth videos to learn how conspiracy theories spread — and what it could mean for fighting disinformation](https://www.space.com/flat-earth-videos-how-conspiracy-theories-spread/)
+- [Perseverance Mars rover wind sensor damaged by pebbles, but still operational](https://www.space.com/perseverance-rover-wind-sensor-damaged/)
+- [Aphelion 2022: Earth will be farthest from the sun on the Fourth of July](https://www.space.com/aphelion-july-2022/)
+- [James Webb Space Telescope has comets to catch when science begins](https://www.space.com/james-webb-space-telescope-comet-observations/)
 - [NASA rolls huge Artemis 1 moon rocket off the launch pad &lpar;photos&rpar;](https://www.space.com/artemis-1-moon-mission-roll-off-launch-pad/)
-- [Tech doesn’t get more full circle than this](https://techcrunch.com/2022/07/02/tech-doesnt-get-more-full-circle-than-this/)
-- [Mystery rocket makes moonfall](https://techcrunch.com/2022/07/02/mystery-rocket-makes-moonfall/)
-- [This Week in Apps: Period tracking app privacy, Snapchat’s paid subscription, calls for TikTok ban](https://techcrunch.com/2022/07/02/this-week-in-apps-period-tracking-app-privacy-snapchats-paid-subscription-calls-for-tiktok-ban/)
-- [Tesla EV deliveries fall nearly 18%  in second quarter following China factory shutdown](https://techcrunch.com/2022/07/02/tesla-ev-deliveries-fall-nearly-18-in-second-quarter-following-china-factory-shutdown/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
