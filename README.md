@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The 2022 McLaren GT is a fresh take on a classic recipe](https://techcrunch.com/2022/07/03/the-2022-mclaren-gt-is-a-fresh-take-on-a-classic-recipe/)
 - [On This Day In Space: July 3, 1998: Japan launches Nozomi Mars mission](https://www.space.com/39251-on-this-day-in-space.html/)
 - [I watched hundreds of flat-Earth videos to learn how conspiracy theories spread — and what it could mean for fighting disinformation](https://www.space.com/flat-earth-videos-how-conspiracy-theories-spread/)
 - [Perseverance Mars rover wind sensor damaged by pebbles, but still operational](https://www.space.com/perseverance-rover-wind-sensor-damaged/)
 - [Aphelion 2022: Earth will be farthest from the sun on the Fourth of July](https://www.space.com/aphelion-july-2022/)
-- [James Webb Space Telescope has comets to catch when science begins](https://www.space.com/james-webb-space-telescope-comet-observations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
