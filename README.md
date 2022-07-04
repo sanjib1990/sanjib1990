@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Max Q: Capped](https://techcrunch.com/2022/07/04/max-q-capped/)
 - [Never-before-seen crystals found in perfectly preserved meteorite dust](https://www.space.com/new-crystals-found-in-meteorite-dust/)
 - [Search for habitable exoplanets included in China&#39;s upcoming space missions](https://www.space.com/china-proposes-13-new-space-missions/)
 - [Mysterious blue blobs a new type of star system created by a galactic &#39;belly flop&#39;](https://www.space.com/strange-star-systems-blue-blobs/)
 - [FTX policy exec says its ‘priorities have not changed’ amid market madness](https://techcrunch.com/2022/07/04/ftx-policy-exec-says-its-priorities-have-not-changed-amid-market-madness/)
-- [15 stunning places on Earth that look like they&#39;re from another planet](https://www.space.com/15-places-on-earth-look-like-exoplanet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
