@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Just how wrong were those 2021 valuations?](https://techcrunch.com/2022/07/04/just-how-wrong-were-those-2021-valuations/)
+- [The best sci-fi movies and TV shows to stream on Disney Plus in July](https://www.space.com/disney-plus-best-space-scifi-streaming.html/)
+- [Solar system planets, order and formation: A guide](https://www.space.com/16080-solar-system-planets.html/)
+- [How to watch Independence Day on Independence Day](https://www.space.com/stream-independence-day-on-independence-day/)
 - [Solar eclipses: What are they?](https://www.space.com/15584-solar-eclipses.html/)
-- [NASA&#39;s tiny CAPSTONE spacecraft now flying to the moon on its own](https://www.space.com/nasa-capstone-spacecraft-en-route-moon/)
-- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html/)
-- [Remove that ‘exit strategy’ slide from your pitch deck](https://techcrunch.com/2022/07/04/ixnay-on-the-exit-strategy/)
-- [Cute lunar robots test their skills on Italy&#39;s Etna volcano](https://www.space.com/lunar-robots-practice-for-moon-on-etna/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
