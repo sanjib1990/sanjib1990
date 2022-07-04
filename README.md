@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronauts celebrate July 4 in space and pay honor to Houston](https://www.space.com/astronauts-honor-houston-july-4/)
 - [WeWork India exposed visitors’ personal information and selfies](https://techcrunch.com/2022/07/04/wework-exposed-visitors-data/)
 - [TikTok says ‘Project Texas’ will bolster security for U.S. users in wake of China data access concerns](https://techcrunch.com/2022/07/04/tiktok-says-project-texas-will-bolster-security-for-u-s-users-in-wake-of-china-data-access-concerns/)
 - [Meta is pulling the plug on its crypto payments wallet, Novi](https://techcrunch.com/2022/07/04/meta-novi-pilot-ends/)
 - [The Station: Robotaxi roadblock and Tesla layoffs hit Autopilot team](https://techcrunch.com/2022/07/04/the-station-robotaxi-roadblock-and-tesla-layoffs-hit-autopilot-team/)
-- [On This Day In Space: July 4, 1997: Mars Pathfinder arrives on the Red Planet](https://www.space.com/39251-on-this-day-in-space.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
