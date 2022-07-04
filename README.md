@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Solar eclipses: What are they?](https://www.space.com/15584-solar-eclipses.html/)
+- [NASA&#39;s tiny CAPSTONE spacecraft now flying to the moon on its own](https://www.space.com/nasa-capstone-spacecraft-en-route-moon/)
+- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html/)
+- [Remove that ‘exit strategy’ slide from your pitch deck](https://techcrunch.com/2022/07/04/ixnay-on-the-exit-strategy/)
 - [Cute lunar robots test their skills on Italy&#39;s Etna volcano](https://www.space.com/lunar-robots-practice-for-moon-on-etna/)
-- [Astronauts celebrate July 4 in space and pay honor to Houston](https://www.space.com/astronauts-honor-houston-july-4/)
-- [WeWork India exposed visitors’ personal information and selfies](https://techcrunch.com/2022/07/04/wework-exposed-visitors-data/)
-- [TikTok says ‘Project Texas’ will bolster security for U.S. users in wake of China data access concerns](https://techcrunch.com/2022/07/04/tiktok-says-project-texas-will-bolster-security-for-u-s-users-in-wake-of-china-data-access-concerns/)
-- [Meta is pulling the plug on its crypto payments wallet, Novi](https://techcrunch.com/2022/07/04/meta-novi-pilot-ends/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
