@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [PINA offers wealth management for Indonesia’s growing middle- to upper-class](https://techcrunch.com/2022/07/03/pina-offers-wealth-management-for-indonesias-growing-middle-to-upper-class/)
+- [Despite crypto ban, China’s tech talent rides the global web3 wave](https://techcrunch.com/2022/07/03/china-crypto-web3-role/)
 - [Without a clear ask, your pitch deck is useless](https://techcrunch.com/2022/07/03/pitch-deck-ask/)
 - [Equity crowdfunding appears immune to market volatility, on track for its best year yet](https://techcrunch.com/2022/07/03/equity-crowdfunding-appears-immune-to-market-volatility-on-track-for-its-best-year-yet/)
 - [Tracking Klarna’s plunging valuation](https://techcrunch.com/2022/07/03/tracking-klarnas-plunging-valuation/)
-- [The 2022 McLaren GT is a fresh take on a classic recipe](https://techcrunch.com/2022/07/03/the-2022-mclaren-gt-is-a-fresh-take-on-a-classic-recipe/)
-- [On This Day In Space: July 3, 1998: Japan launches Nozomi Mars mission](https://www.space.com/39251-on-this-day-in-space.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
