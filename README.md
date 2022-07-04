@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [10 years after the discovery of the Higgs boson, physicists still can&#39;t get enough of the &#39;God particle&#39;](https://www.space.com/higgs-boson-discovery-10th-anniversary/)
+- [The Fourth of July sky: Here&#39;s what you can see on Independence Day](https://www.space.com/fourth-july-2022-night-sky/)
+- [Bacteria could make super-efficient rocket fuel](https://www.space.com/bioengineered-bacteria-efficient-rocket-fuel/)
+- [Why do stars twinkle?](https://www.space.com/why-do-stars-twinkle/)
 - [Crypto platform Vauld suspends withdrawals, trading and deposits amid financial challenges](https://techcrunch.com/2022/07/04/crypto-lending-platform-vauld-suspends-withdrawals-trading-and-deposits-amid-financial-challenges/)
-- [Juragan Material is simplifying Indonesia’s complicated construction supply chain](https://techcrunch.com/2022/07/03/juragan-material-is-simplifying-indonesias-complicated-construction-supply-chain/)
-- [PINA offers wealth management for Indonesia’s growing middle- to upper-class](https://techcrunch.com/2022/07/03/pina-offers-wealth-management-for-indonesias-growing-middle-to-upper-class/)
-- [Despite crypto ban, China’s tech talent rides the global web3 wave](https://techcrunch.com/2022/07/03/china-crypto-web3-role/)
-- [Without a clear ask, your pitch deck is useless](https://techcrunch.com/2022/07/03/pitch-deck-ask/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
