@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Crypto platform Vauld suspends withdrawals, trading and deposits amid financial challenges](https://techcrunch.com/2022/07/04/crypto-lending-platform-vauld-suspends-withdrawals-trading-and-deposits-amid-financial-challenges/)
 - [Juragan Material is simplifying Indonesia’s complicated construction supply chain](https://techcrunch.com/2022/07/03/juragan-material-is-simplifying-indonesias-complicated-construction-supply-chain/)
 - [PINA offers wealth management for Indonesia’s growing middle- to upper-class](https://techcrunch.com/2022/07/03/pina-offers-wealth-management-for-indonesias-growing-middle-to-upper-class/)
 - [Despite crypto ban, China’s tech talent rides the global web3 wave](https://techcrunch.com/2022/07/03/china-crypto-web3-role/)
 - [Without a clear ask, your pitch deck is useless](https://techcrunch.com/2022/07/03/pitch-deck-ask/)
-- [Equity crowdfunding appears immune to market volatility, on track for its best year yet](https://techcrunch.com/2022/07/03/equity-crowdfunding-appears-immune-to-market-volatility-on-track-for-its-best-year-yet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
