@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta is pulling the plug on its crypto payments wallet, Novi](https://techcrunch.com/2022/07/04/meta-novi-pilot-ends/)
 - [The Station: Robotaxi roadblock and Tesla layoffs hit Autopilot team](https://techcrunch.com/2022/07/04/the-station-robotaxi-roadblock-and-tesla-layoffs-hit-autopilot-team/)
 - [On This Day In Space: July 4, 1997: Mars Pathfinder arrives on the Red Planet](https://www.space.com/39251-on-this-day-in-space.html/)
 - [Upcoming sci-fi movies for 2022](https://www.space.com/upcoming-sci-fi-movies/)
 - [10 years after the discovery of the Higgs boson, physicists still can&#39;t get enough of the &#39;God particle&#39;](https://www.space.com/higgs-boson-discovery-10th-anniversary/)
-- [The Fourth of July sky: Here&#39;s what you can see on Independence Day](https://www.space.com/fourth-july-2022-night-sky/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
