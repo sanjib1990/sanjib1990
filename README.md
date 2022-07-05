@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [UK’s Oxford Quantum Circuits snaps up $47M for quantum-computing-as-a-service](https://techcrunch.com/2022/07/04/uks-oxford-quantum-circuits-snaps-up-47m-for-quantum-computing-as-a-service/)
-- [MarketWolf is a trading-first platform for new investors](https://techcrunch.com/2022/07/04/marketwolf-is-a-trading-first-platform-for-new-investors/)
-- [India’s Tata Motors wants to sell 50,000 EVs by end of fiscal year](https://techcrunch.com/2022/07/04/indias-tata-motors-wants-to-sell-50000-evs-by-end-of-fiscal-year/)
-- [Xiaomi launches smartphone with enormous imaging sensors and Leica optics](https://techcrunch.com/2022/07/04/xiaomi-12s-launch/)
-- [Max Q: Capped](https://techcrunch.com/2022/07/04/max-q-capped/)
+- [Onomondo secures cash to expand its wireless network for IoT devices](https://techcrunch.com/2022/07/05/onomondo-secures-cash-to-expand-its-wireless-network-for-iot-devices/)
+- [Climentum Capital targets European startups with $157M fund to reduce CO2 emissions](https://techcrunch.com/2022/07/05/with-a-new-157m-fund-climentum-capital-targets-european-startups-working-to-reduce-co2-emissions/)
+- [Pina Earth gets seed backing to grow sustainable forestry carbon credits](https://techcrunch.com/2022/07/05/pina-earth-seed/)
+- [Founder of auto giant Geely buys Meizu as smartphone demand weakens](https://techcrunch.com/2022/07/04/geely-meizu-acquisition/)
+- [Ultrahuman busts out a smart ring to decode metabolic health](https://techcrunch.com/2022/07/04/ultrahuman-ring/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
