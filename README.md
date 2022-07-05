@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;The Orville&#39; Season 3 episode 5 revisits the Moclan gender controversy](https://www.space.com/the-orville-season-3-episode-5-review/)
-- [Rare, elliptical craters reveal new clues about strange Saturn moons Tethys and Dione](https://www.space.com/saturn-moons-rare-elliptical-craters/)
-- [Exclusive: Superstar comic artist Liam Sharp conjures an Arthurian sci-fi epic with &#39;Starhenge&#39;](https://www.space.com/image-comics-liam-sharp-starhenge/)
-- [LIGO resumes work in 2023 and will catch gravitational wave signals fainter than ever](https://www.space.com/gravitational-wave-detectors-ligo-virgo-march-2023/)
-- [Twitter sues India’s government over content takedown orders](https://techcrunch.com/2022/07/05/twitter-sues-india-government/)
+- [Startup founders. Consider your language. Keep it simple.](https://techcrunch.com/2022/07/05/use-simple-language/)
+- [The Large Hadron Collider returns in the hunt for new physics](https://www.space.com/large-hadron-collider-begins-observations-third-run/)
+- [New &#39;Little Sombrero&#39; image is a feather in Hubble&#39;s cap](https://www.space.com/little-sombrero-hubble-image-cap/)
+- [UK to combat Russia’s ‘hostile online warfare’ by forcing internet firms to remove disinformation](https://techcrunch.com/2022/07/05/uk-to-combat-russias-hostile-online-warfare-by-forcing-internet-firms-to-remove-disinformation/)
+- [Maolac pours new funding into superfood mimicking breast milk health benefits](https://techcrunch.com/2022/07/05/maolac-superfood-breast-milk-health-benefits/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
