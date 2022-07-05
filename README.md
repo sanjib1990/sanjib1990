@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [4 negotiation points startup founders must focus on in a down market](https://techcrunch.com/2022/07/05/4-negotiation-points-startup-founders-must-focus-on-in-a-down-market/)
+- [TechCrunch+ roundup: Overinflated valuations, equity crowdfunding, SCOTUS v. climate tech](https://techcrunch.com/2022/07/05/techcrunch-roundup-overinflated-valuations-equity-crowdfunding-scotus-v-climate-tech/)
+- [UK signs its first data sharing deal post-Brexit, with South Korea](https://techcrunch.com/2022/07/05/uk-signs-its-first-data-sharing-deal-post-brexit-with-south-korea/)
 - [Register now for the new and improved TechCrunch Live weekly event series!](https://techcrunch.com/2022/07/05/register-now-for-the-new-and-improved-techcrunch-live-weekly-event-series/)
-- [James Webb Space Telescope preparing to see starbirth in high definition](https://www.space.com/james-webb-space-telescope-trapezium-stars-preview/)
-- [Raising big money in a sour market](https://techcrunch.com/2022/07/05/raising-big-money-in-a-sour-market/)
-- [TikTok reportedly drops plans to expand its live ecommerce ‘Shop’ venture to the US](https://techcrunch.com/2022/07/05/tiktok-reportedly-drops-plans-to-expand-its-ecommerce-tiktok-shop-venture-us/)
-- [&#39;For All Mankind&#39; panels, mission patches landing at San Diego Comic Con](https://www.space.com/for-all-mankind-sdcc-panels-patches/)
+- [NASA&#39;s tiny CAPSTONE probe goes silent on its way to the moon](https://www.space.com/nasa-capstone-moon-cubesat-communication-loss/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
