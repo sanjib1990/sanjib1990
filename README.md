@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Outschool, which raised a Series B, C and D in 12 months, lays off 18% of workforce](https://techcrunch.com/2022/07/05/outschool-which-raised-a-series-b-c-and-d-in-12-months-lays-off-18-of-workforce/)
+- [Veo’s Candice Xie one year later, still slowly and steadily winning the profitability race](https://techcrunch.com/2022/07/05/veos-candice-xie-one-year-later-still-slowly-and-steadily-winning-the-profitability-race/)
+- [Voyantis emerges from stealth to predict customer lifetime value](https://techcrunch.com/2022/07/05/voyantis-emerges-from-stealth-to-predict-customer-lifetime-value/)
+- [Matt Mullenweg thinks Tumblr can be a better Twitter than Twitter ever was](https://techcrunch.com/2022/07/05/matt-mullenweg-wordpress-found/)
 - [4 negotiation points startup founders must focus on in a down market](https://techcrunch.com/2022/07/05/4-negotiation-points-startup-founders-must-focus-on-in-a-down-market/)
-- [TechCrunch+ roundup: Overinflated valuations, equity crowdfunding, SCOTUS v. climate tech](https://techcrunch.com/2022/07/05/techcrunch-roundup-overinflated-valuations-equity-crowdfunding-scotus-v-climate-tech/)
-- [UK signs its first data sharing deal post-Brexit, with South Korea](https://techcrunch.com/2022/07/05/uk-signs-its-first-data-sharing-deal-post-brexit-with-south-korea/)
-- [Register now for the new and improved TechCrunch Live weekly event series!](https://techcrunch.com/2022/07/05/register-now-for-the-new-and-improved-techcrunch-live-weekly-event-series/)
-- [NASA&#39;s tiny CAPSTONE probe goes silent on its way to the moon](https://www.space.com/nasa-capstone-moon-cubesat-communication-loss/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
