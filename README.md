@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rocket Lab rockets to the Moon and other TC news](https://techcrunch.com/2022/07/05/rocket-lab-rockets-to-the-moon-and-other-tc-news/)
+- [Contrarian bets in a downturn](https://techcrunch.com/2022/07/05/contrarian-bets-in-a-downturn/)
+- [Lego Star Wars Luke Skywalker’s Landspeeder review](https://www.space.com/lego-star-wars-luke-skywalkers-landspeeder-75341/)
+- [Australia just flew its own &#39;vomit comet.&#39; It&#39;s a big deal for zero-gravity space research](https://www.space.com/australia-first-vomit-comet-parabolic-flight/)
 - [Startup founders. Consider your language. Keep it simple.](https://techcrunch.com/2022/07/05/use-simple-language/)
-- [The Large Hadron Collider returns in the hunt for new physics](https://www.space.com/large-hadron-collider-begins-observations-third-run/)
-- [New &#39;Little Sombrero&#39; image is a feather in Hubble&#39;s cap](https://www.space.com/little-sombrero-hubble-image-cap/)
-- [UK to combat Russia’s ‘hostile online warfare’ by forcing internet firms to remove disinformation](https://techcrunch.com/2022/07/05/uk-to-combat-russias-hostile-online-warfare-by-forcing-internet-firms-to-remove-disinformation/)
-- [Maolac pours new funding into superfood mimicking breast milk health benefits](https://techcrunch.com/2022/07/05/maolac-superfood-breast-milk-health-benefits/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
