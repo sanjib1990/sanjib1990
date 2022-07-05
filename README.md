@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google-backed Glance to launch in US within two months](https://techcrunch.com/2022/07/05/google-backed-glance-to-launch-in-us-within-two-months/)
+- [McEasy is digitizing Indonesia’s logistics, transportation and supply chain industries](https://techcrunch.com/2022/07/05/mceasy-is-digitizing-indonesias-logistics-transportation-and-supply-chain-industries/)
 - [Onomondo secures cash to expand its wireless network for IoT devices](https://techcrunch.com/2022/07/05/onomondo-secures-cash-to-expand-its-wireless-network-for-iot-devices/)
 - [Climentum Capital targets European startups with $157M fund to reduce CO2 emissions](https://techcrunch.com/2022/07/05/with-a-new-157m-fund-climentum-capital-targets-european-startups-working-to-reduce-co2-emissions/)
 - [Pina Earth gets seed backing to grow sustainable forestry carbon credits](https://techcrunch.com/2022/07/05/pina-earth-seed/)
-- [Founder of auto giant Geely buys Meizu as smartphone demand weakens](https://techcrunch.com/2022/07/04/geely-meizu-acquisition/)
-- [Ultrahuman busts out a smart ring to decode metabolic health](https://techcrunch.com/2022/07/04/ultrahuman-ring/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
