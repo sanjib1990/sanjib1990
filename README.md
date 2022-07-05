@@ -95,10 +95,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Outschool, which raised a Series B, C and D in 12 months, lays off 18% of workforce](https://techcrunch.com/2022/07/05/outschool-which-raised-a-series-b-c-and-d-in-12-months-lays-off-18-of-workforce/)
+- [NASA&#39;s 1st Mars rover touched down on the Red Planet 25 years ago](https://www.space.com/pathfinder-sojourner-25-anniversary-mars/)
 - [Veo’s Candice Xie one year later, still slowly and steadily winning the profitability race](https://techcrunch.com/2022/07/05/veos-candice-xie-one-year-later-still-slowly-and-steadily-winning-the-profitability-race/)
 - [Voyantis emerges from stealth to predict customer lifetime value](https://techcrunch.com/2022/07/05/voyantis-emerges-from-stealth-to-predict-customer-lifetime-value/)
 - [Matt Mullenweg thinks Tumblr can be a better Twitter than Twitter ever was](https://techcrunch.com/2022/07/05/matt-mullenweg-wordpress-found/)
-- [4 negotiation points startup founders must focus on in a down market](https://techcrunch.com/2022/07/05/4-negotiation-points-startup-founders-must-focus-on-in-a-down-market/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
