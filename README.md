@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Register now for the new and improved TechCrunch Live weekly event series!](https://techcrunch.com/2022/07/05/register-now-for-the-new-and-improved-techcrunch-live-weekly-event-series/)
+- [James Webb Space Telescope preparing to see starbirth in high definition](https://www.space.com/james-webb-space-telescope-trapezium-stars-preview/)
+- [Raising big money in a sour market](https://techcrunch.com/2022/07/05/raising-big-money-in-a-sour-market/)
 - [TikTok reportedly drops plans to expand its live ecommerce ‘Shop’ venture to the US](https://techcrunch.com/2022/07/05/tiktok-reportedly-drops-plans-to-expand-its-ecommerce-tiktok-shop-venture-us/)
-- [Google halts KakaoTalk updates on Play Store in Korea after messaging app refused to remove its own payment links](https://techcrunch.com/2022/07/05/google-halts-kakaotalk-updates-on-play-store-in-korea-after-messaging-app-refused-to-remove-its-own-payment-links/)
-- [Today, last chance to snap up a TechCrunch Disrupt two-for-one ticket](https://techcrunch.com/2022/07/05/today-last-chance-to-snap-up-a-techcrunch-disrupt-two-for-one-ticket/)
-- [Unistellar eVscope 2 telescope review](https://www.space.com/unistellar-evscope-2-telescope-review/)
-- [Top sci-fi movies and TV shows to watch on Amazon Prime in 07](https://www.space.com/best-sci-fi-movies-tv-shows-amazon-prime.html/)
+- [&#39;For All Mankind&#39; panels, mission patches landing at San Diego Comic Con](https://www.space.com/for-all-mankind-sdcc-panels-patches/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
