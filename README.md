@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TikTok reportedly drops plans to expand its live ecommerce ‘Shop’ venture to the US](https://techcrunch.com/2022/07/05/tiktok-reportedly-drops-plans-to-expand-its-ecommerce-tiktok-shop-venture-us/)
+- [Google halts KakaoTalk updates on Play Store in Korea after messaging app refused to remove its own payment links](https://techcrunch.com/2022/07/05/google-halts-kakaotalk-updates-on-play-store-in-korea-after-messaging-app-refused-to-remove-its-own-payment-links/)
+- [Today, last chance to snap up a TechCrunch Disrupt two-for-one ticket](https://techcrunch.com/2022/07/05/today-last-chance-to-snap-up-a-techcrunch-disrupt-two-for-one-ticket/)
+- [Unistellar eVscope 2 telescope review](https://www.space.com/unistellar-evscope-2-telescope-review/)
 - [Top sci-fi movies and TV shows to watch on Amazon Prime in 07](https://www.space.com/best-sci-fi-movies-tv-shows-amazon-prime.html/)
-- [Lego Star Wars Luke Skywalker’s Landspeeder review](https://www.space.com/lego-star-wars-luke-skywalkers-landspeeder-75341/)
-- [Australia just flew its own &#39;vomit comet.&#39; It&#39;s a big deal for zero-gravity space research](https://www.space.com/australia-first-vomit-comet-parabolic-flight/)
-- [Startup founders. Consider your language. Keep it simple.](https://techcrunch.com/2022/07/05/use-simple-language/)
-- [The Large Hadron Collider returns in the hunt for new physics](https://www.space.com/large-hadron-collider-begins-observations-third-run/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
