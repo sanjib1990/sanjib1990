@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TikTok is testing the ability to restrict livestreams to viewers who are 18+](https://techcrunch.com/2022/07/05/tiktoks-restrict-livestreams-to-viewers-who-are-18/)
+- [Crypto trading volume drops in India as additional taxes hit investors](https://techcrunch.com/2022/07/05/crypto-trading-volume-drops-in-india-as-additional-taxes-hit-investors/)
+- [&#39;Star Trek: Strange New Worlds&#39; episode 9 concludes the first chapter of Uhura&#39;s journey](https://www.space.com/star-trek-strange-new-worlds-season-1-episode-9-review/)
+- [How one state’s aggressive climate policy could boost its economy](https://techcrunch.com/2022/07/05/how-one-states-aggressive-climate-policy-could-boost-its-economy/)
 - [Outschool, which raised a Series B, C and D in 12 months, lays off 18% of workforce](https://techcrunch.com/2022/07/05/outschool-which-raised-a-series-b-c-and-d-in-12-months-lays-off-18-of-workforce/)
-- [NASA&#39;s 1st Mars rover touched down on the Red Planet 25 years ago](https://www.space.com/pathfinder-sojourner-25-anniversary-mars/)
-- [Veo’s Candice Xie one year later, still slowly and steadily winning the profitability race](https://techcrunch.com/2022/07/05/veos-candice-xie-one-year-later-still-slowly-and-steadily-winning-the-profitability-race/)
-- [Voyantis emerges from stealth to predict customer lifetime value](https://techcrunch.com/2022/07/05/voyantis-emerges-from-stealth-to-predict-customer-lifetime-value/)
-- [Matt Mullenweg thinks Tumblr can be a better Twitter than Twitter ever was](https://techcrunch.com/2022/07/05/matt-mullenweg-wordpress-found/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
