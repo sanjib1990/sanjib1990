@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Android lock screen platform Glance will roll out to US consumers in coming weeks](https://techcrunch.com/2022/07/05/daily-crunch-android-lock-screen-platform-glance-will-roll-out-to-us-consumers-in-coming-weeks/)
+- [Baserow challenges Airtable with an open source no-code database platform](https://techcrunch.com/2022/07/05/baserow-challenges-airtable-with-an-open-source-no-code-database-platform/)
+- [Lawyers seeks emergency protection for laid off Tesla workers](https://techcrunch.com/2022/07/05/lawyers-seeks-emergency-protection-for-laid-off-tesla-workers/)
+- [Toyota used up all its EV tax credits on hybrids](https://techcrunch.com/2022/07/05/toyota-used-up-all-its-ev-tax-credits-on-hybrids/)
 - [TikTok is testing the ability to restrict livestreams to viewers who are 18+](https://techcrunch.com/2022/07/05/tiktoks-restrict-livestreams-to-viewers-who-are-18/)
-- [Crypto trading volume drops in India as additional taxes hit investors](https://techcrunch.com/2022/07/05/crypto-trading-volume-drops-in-india-as-additional-taxes-hit-investors/)
-- [&#39;Star Trek: Strange New Worlds&#39; episode 9 concludes the first chapter of Uhura&#39;s journey](https://www.space.com/star-trek-strange-new-worlds-season-1-episode-9-review/)
-- [How one state’s aggressive climate policy could boost its economy](https://techcrunch.com/2022/07/05/how-one-states-aggressive-climate-policy-could-boost-its-economy/)
-- [Outschool, which raised a Series B, C and D in 12 months, lays off 18% of workforce](https://techcrunch.com/2022/07/05/outschool-which-raised-a-series-b-c-and-d-in-12-months-lays-off-18-of-workforce/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
