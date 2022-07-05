@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India’s Tata Motors wants to sell 50,000 EVs by end of fiscal year](https://techcrunch.com/2022/07/04/indias-tata-motors-wants-to-sell-50000-evs-by-end-of-fiscal-year/)
+- [Xiaomi launches smartphone with enormous imaging sensors and Leica optics](https://techcrunch.com/2022/07/04/xiaomi-12s-launch/)
 - [Max Q: Capped](https://techcrunch.com/2022/07/04/max-q-capped/)
 - [Never-before-seen crystals found in perfectly preserved meteorite dust](https://www.space.com/new-crystals-found-in-meteorite-dust/)
 - [Search for habitable exoplanets included in China&#39;s upcoming space missions](https://www.space.com/china-proposes-13-new-space-missions/)
-- [Mysterious blue blobs a new type of star system created by a galactic &#39;belly flop&#39;](https://www.space.com/strange-star-systems-blue-blobs/)
-- [FTX policy exec says its ‘priorities have not changed’ amid market madness](https://techcrunch.com/2022/07/04/ftx-policy-exec-says-its-priorities-have-not-changed-amid-market-madness/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
