@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Brazilian proptech startup Loft, which was valued at $2.9B last year, lays off 380 employees](https://techcrunch.com/2022/07/05/brazilian-proptech-startup-loft-which-was-valued-at-2-9b-last-year-lays-off-380-employees/)
 - [Daily Crunch: Android lock screen platform Glance will roll out to US consumers in coming weeks](https://techcrunch.com/2022/07/05/daily-crunch-android-lock-screen-platform-glance-will-roll-out-to-us-consumers-in-coming-weeks/)
 - [Baserow challenges Airtable with an open source no-code database platform](https://techcrunch.com/2022/07/05/baserow-challenges-airtable-with-an-open-source-no-code-database-platform/)
-- [Lawyers seeks emergency protection for laid off Tesla workers](https://techcrunch.com/2022/07/05/lawyers-seeks-emergency-protection-for-laid-off-tesla-workers/)
+- [Lawyers seek emergency protection for laid-off Tesla workers](https://techcrunch.com/2022/07/05/lawyers-seeks-emergency-protection-for-laid-off-tesla-workers/)
 - [Toyota used up all its EV tax credits on hybrids](https://techcrunch.com/2022/07/05/toyota-used-up-all-its-ev-tax-credits-on-hybrids/)
-- [TikTok is testing the ability to restrict livestreams to viewers who are 18+](https://techcrunch.com/2022/07/05/tiktoks-restrict-livestreams-to-viewers-who-are-18/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
