@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Phew! NASA&#39;s CAPSTONE moon probe phones home again](https://www.space.com/nasa-capstone-moon-cubesat-contact-reestablished/)
-- [A bus-sized asteroid is passing safely by Earth today and you can watch for free](https://www.space.com/asteroid-2022-nf-earth-flyby-webcast/)
-- [Delivery Hero and Glovo targeted for EU antitrust inspection](https://techcrunch.com/2022/07/06/delivery-hero-glovo-eu-antitrust-raid/)
-- [The art of the pivot: Work closely with investors to improve your odds](https://techcrunch.com/2022/07/06/the-art-of-the-pivot-work-closely-with-investors-to-improve-your-odds/)
-- [Mars sailplane prototype soars during early-stage tethered flight test in Arizona](https://www.space.com/mars-sailplane-prototype-soars-flight-test/)
+- [Fastest known star speeds around Milky Way&#39;s black hole at 18 million mph](https://www.space.com/fastest-star-milky-way-black-hole/)
+- [Apple announces Lockdown Mode to counter government spyware attacks](https://techcrunch.com/2022/07/06/apple-lockdown-mode/)
+- [Dear Sophie: How can we transfer a candidate’s H-1B and green card?](https://techcrunch.com/2022/07/06/dear-sophie-how-can-we-transfer-a-candidates-h-1b-and-green-card/)
+- [Cast your votes for roundtable topics at TechCrunch Disrupt](https://techcrunch.com/2022/07/06/cast-your-votes-for-roundtable-topics-at-techcrunch-disrupt/)
+- [Crypto losses hit $670M in Q2, up 52% from year-ago period](https://techcrunch.com/2022/07/06/crypto-losses-hit-670m-in-q2-up-52-from-year-ago-period/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
