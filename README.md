@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [JavaScript just got way faster](https://www.youtube.com/watch?v=FMhScnY0dME)
 - [ditch Google!! &lpar;build your own PRIVATE search engine&rpar;](https://www.youtube.com/watch?v=ifT6npY39Dw)
 - [S3:E9: Visualizing Calculus with Prof. Gigliola Staffilani](https://www.youtube.com/watch?v=gv1aMp4YxyA)
 - [a fresh new web framework is out](https://www.youtube.com/watch?v=4boXExbbGCk)
 - [i KILLED my Linux computer!! &lpar;to teach you something&rpar;](https://www.youtube.com/watch?v=ugt3PBeqHIo)
-- [Storybook in 100 Seconds](https://www.youtube.com/watch?v=gdlTFPebzAU)
 <!-- YOUTUBE:END -->
 
 ---
