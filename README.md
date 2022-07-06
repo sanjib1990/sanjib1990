@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Fastest known star speeds around Milky Way&#39;s black hole at 18 million mph](https://www.space.com/fastest-star-milky-way-black-hole/)
-- [Apple announces Lockdown Mode to counter government spyware attacks](https://techcrunch.com/2022/07/06/apple-lockdown-mode/)
-- [Dear Sophie: How can we transfer a candidate’s H-1B and green card?](https://techcrunch.com/2022/07/06/dear-sophie-how-can-we-transfer-a-candidates-h-1b-and-green-card/)
-- [Cast your votes for roundtable topics at TechCrunch Disrupt](https://techcrunch.com/2022/07/06/cast-your-votes-for-roundtable-topics-at-techcrunch-disrupt/)
-- [Crypto losses hit $670M in Q2, up 52% from year-ago period](https://techcrunch.com/2022/07/06/crypto-losses-hit-670m-in-q2-up-52-from-year-ago-period/)
+- [Volkswagen planning “big moves” and hiring spree in China](https://techcrunch.com/2022/07/06/volkswagen-planning-big-moves-and-hiring-spree-in-china/)
+- [Virgin Galactic aims for 400 flights a year with two new ‘motherships’](https://techcrunch.com/2022/07/06/virgin-galactic-aims-for-400-flights-a-year-with-two-new-motherships/)
+- [When did the startup boom peak?](https://techcrunch.com/2022/07/06/when-did-the-startup-boom-peak/)
+- [Record-breaking Tonga volcano generated the fastest atmospheric waves ever seen](https://www.space.com/tonga-volcanic-eruption-atmosphere-fast-waves/)
+- [SpaceX rolls Starship prototype to launch pad ahead of orbital test flight &lpar;photos&rpar;](https://www.space.com/spacex-starship-rollout-launch-pad-photos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
