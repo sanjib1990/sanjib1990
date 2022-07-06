@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Finli puts service-based business payment management in the palm of your hand](https://techcrunch.com/2022/07/06/finli-service-business-payment-management/)
-- [Crypto gaming firm Cauldron raises $6.6M to build ‘Pixar of web3’](https://techcrunch.com/2022/07/06/crypto-gaming-firm-cauldron-raises-6-6m-to-build-pixar-of-web3/)
-- [Meta sues Chinese company’s US subsidiary for scraping Facebook and Instagram data](https://techcrunch.com/2022/07/06/meta-sues-chinese-companys-us-subsidiary-for-scraping-facebook-and-instagram-data/)
-- [The best sci-fi movies and TV shows to stream on Netflix in July](https://www.space.com/best-netflix-sci-fi-movies-shows.html/)
-- [How NASA will launch Mars samples off the Red Planet](https://www.space.com/mars-sample-return-mav-rocket/)
+- [Forever21’s parent company sued Bolt, but now it’s a shareholder](https://techcrunch.com/2022/07/06/fintech-startup-bolt-has-settled-suit-brought-on-by-forever21s-parent-company-and-made-it-a-shareholder/)
+- [UK launches antitrust investigation into Microsoft’s $69B proposed Activision acquisition](https://techcrunch.com/2022/07/06/uk-launches-antitrust-investigation-into-microsofts-69b-proposed-activision-acquisition/)
+- [Celus, which uses AI to automate circuit board design, raises $25.6M](https://techcrunch.com/2022/07/06/celus-which-uses-ai-to-automate-circuit-board-design-raises-25-6m/)
+- [IBM acquires Databand to bolster its data observability stack](https://techcrunch.com/2022/07/06/ibm-acquires-databand-to-bolster-its-data-observability-stack/)
+- [Autel EVO Nano+ review](https://www.space.com/autel-evo-nano-plus-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
