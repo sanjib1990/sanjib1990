@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Finli puts service-based business payment management in the palm of your hand](https://techcrunch.com/2022/07/06/finli-service-business-payment-management/)
+- [Crypto gaming firm Cauldron raises $6.6M to build ‘Pixar of web3’](https://techcrunch.com/2022/07/06/crypto-gaming-firm-cauldron-raises-6-6m-to-build-pixar-of-web3/)
+- [Meta sues Chinese company’s US subsidiary for scraping Facebook and Instagram data](https://techcrunch.com/2022/07/06/meta-sues-chinese-companys-us-subsidiary-for-scraping-facebook-and-instagram-data/)
 - [The best sci-fi movies and TV shows to stream on Netflix in July](https://www.space.com/best-netflix-sci-fi-movies-shows.html/)
 - [How NASA will launch Mars samples off the Red Planet](https://www.space.com/mars-sample-return-mav-rocket/)
-- [Large Hadron Collider scientists hail most powerful collisions ever as detector gets back to work](https://www.space.com/large-hadron-collider-scientists-excited-run-3/)
-- [Russian cosmonauts spread anti-Ukraine propaganda from space station](https://www.space.com/russia-cosmonauts-ukraine-luhansk-propaganda/)
-- [James Webb Space Telescope will watch smashing worlds in high definition](https://www.space.com/james-webb-space-telescope-beta-pictoris/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
