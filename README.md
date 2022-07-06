@@ -96,9 +96,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Phew! NASA&#39;s CAPSTONE moon probe phones home again](https://www.space.com/nasa-capstone-moon-cubesat-contact-reestablished/)
 - [A bus-sized asteroid is passing safely by Earth today and you can watch for free](https://www.space.com/asteroid-2022-nf-earth-flyby-webcast/)
+- [Delivery Hero and Glovo targeted for EU antitrust inspection](https://techcrunch.com/2022/07/06/delivery-hero-glovo-eu-antitrust-raid/)
+- [The art of the pivot: Work closely with investors to improve your odds](https://techcrunch.com/2022/07/06/the-art-of-the-pivot-work-closely-with-investors-to-improve-your-odds/)
 - [Mars sailplane prototype soars during early-stage tethered flight test in Arizona](https://www.space.com/mars-sailplane-prototype-soars-flight-test/)
-- [Do you claim to care about climate? Let’s talk about what’s on your plate](https://techcrunch.com/2022/07/06/om-nom-nom/)
-- [US government says North Korean hackers are targeting American healthcare organizations with ransomware](https://techcrunch.com/2022/07/06/fbi-north-korea-targeting-healthcare/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
