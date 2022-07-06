@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Asteroid Bennu sports landslide and massive crater from tiny space rock](https://www.space.com/asteroid-bennu-landslide-from-impact/)
-- [Earth&#39;s magnetic field: Explained](https://www.space.com/earths-magnetic-field-explained/)
-- [Hotel giant Marriott confirms yet another data breach](https://techcrunch.com/2022/07/06/marriott-breach-again/)
-- [NASA&#39;s tiny CAPSTONE mission continuing to moon as team works communications glitch](https://www.space.com/capstone-glitch-update-path-to-moon/)
-- [Can Polestar succeed where other EV maker SPACs have failed?](https://techcrunch.com/2022/07/06/can-polestar-succeed-where-other-ev-maker-spacs-have-failed/)
+- [Amazon Prime members get exclusive sneak peek of ‘Lord of the Rings’ series](https://techcrunch.com/2022/07/06/amazon-prime-members-get-exclusive-sneak-peek-of-lord-of-the-rings-series/)
+- [Delivery Hero and Glovo targeted for EU antitrust inspection](https://techcrunch.com/2022/07/06/delivery-hero-glovo-eu-antitrust-raid/)
+- [The art of the pivot: Work closely with investors to improve your odds](https://techcrunch.com/2022/07/06/the-art-of-the-pivot-work-closely-with-investors-to-improve-your-odds/)
+- [Mars sailplane prototype soars during early-stage tethered flight test in Arizona](https://www.space.com/mars-sailplane-prototype-soars-flight-test/)
+- [What if Nintendo released a Switch Pro haha jk unless?](https://techcrunch.com/2022/07/06/nintendo-switch-pro-rumors-splatoon-oled/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
