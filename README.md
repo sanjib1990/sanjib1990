@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA’s CAPSTONE looking ‘happy and healthy’ after communications issue](https://techcrunch.com/2022/07/06/nasas-capstone-looking-happy-and-healthy-after-communications-issue/)
 - [Webb’s Fine Guidance Sensor Provides a Preview](https://blogs.nasa.gov/webb/2022/07/06/webbs-fine-guidance-sensor-provides-a-preview/)
 - [Volkswagen planning ‘big moves’ and hiring spree in China](https://techcrunch.com/2022/07/06/volkswagen-planning-big-moves-and-hiring-spree-in-china/)
 - [Virgin Galactic aims for 400 flights a year with two new ‘motherships’](https://techcrunch.com/2022/07/06/virgin-galactic-aims-for-400-flights-a-year-with-two-new-motherships/)
 - [When did the startup boom peak?](https://techcrunch.com/2022/07/06/when-did-the-startup-boom-peak/)
+- [Record-breaking Tonga volcano generated the fastest atmospheric waves ever seen](https://www.space.com/tonga-volcanic-eruption-atmosphere-fast-waves/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
