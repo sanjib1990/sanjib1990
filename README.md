@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Webb’s Fine Guidance Sensor Provides a Preview](https://blogs.nasa.gov/webb/2022/07/06/webbs-fine-guidance-sensor-provides-a-preview/)
-- [Volkswagen planning ‘big moves’ and hiring spree in China](https://techcrunch.com/2022/07/06/volkswagen-planning-big-moves-and-hiring-spree-in-china/)
-- [Virgin Galactic aims for 400 flights a year with two new ‘motherships’](https://techcrunch.com/2022/07/06/virgin-galactic-aims-for-400-flights-a-year-with-two-new-motherships/)
-- [When did the startup boom peak?](https://techcrunch.com/2022/07/06/when-did-the-startup-boom-peak/)
-- [Record-breaking Tonga volcano generated the fastest atmospheric waves ever seen](https://www.space.com/tonga-volcanic-eruption-atmosphere-fast-waves/)
+- [How cold is space? Physics behind the temperature of the universe](https://www.space.com/how-cold-is-space/)
+- [Daily Crunch: After filing for bankruptcy, crypto lender Voyager Digital says it will ‘maintain operations’](https://techcrunch.com/2022/07/06/daily-crunch-after-filing-for-bankruptcy-crypto-lender-voyager-digital-says-it-will-maintain-operations/)
+- [Rocket Lab offers next-day shipping to space](https://techcrunch.com/2022/07/06/rocket-lab-offers-next-day-shipping-to-space/)
+- [Apple reportedly plans to launch an ‘extreme sports’ Apple Watch with a larger screen and metal casing](https://techcrunch.com/2022/07/06/apple-extreme-sports-apple-watch-larger-screen-metal-casing/)
+- [NASA’s CAPSTONE looking ‘happy and healthy’ after communications issue](https://techcrunch.com/2022/07/06/nasas-capstone-looking-happy-and-healthy-after-communications-issue/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
