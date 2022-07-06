@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Nothing can’t resist the NFT hype, and its fans are questioning](https://techcrunch.com/2022/07/06/nothing-phone-nft/)
-- [Crypto broker Voyager Digital files for bankruptcy](https://techcrunch.com/2022/07/06/crypto-broker-voyager-digital-files-for-bankruptcy/)
-- [Autochek acquires CoinAfrique to grow its footprint in Francophone Africa](https://techcrunch.com/2022/07/06/autochek-acquires-coinafrique-to-grow-its-footprint-in-francophone-africa/)
-- [Amazon takes a Prime step back into restaurant delivery in the US with big Grubhub investment and partnership](https://techcrunch.com/2022/07/06/amazon-takes-a-prime-step-back-into-restaurant-delivery-in-the-us-with-new-grubhub-investment-and-partnership/)
-- [Azota is solving exam headaches for Vietnam’s teachers](https://techcrunch.com/2022/07/05/azota-is-solving-exam-headaches-for-vietnams-teachers/)
+- [The best sci-fi movies and TV shows to stream on Netflix in July](https://www.space.com/best-netflix-sci-fi-movies-shows.html/)
+- [How NASA will launch Mars samples off the Red Planet](https://www.space.com/mars-sample-return-mav-rocket/)
+- [Large Hadron Collider scientists hail most powerful collisions ever as detector gets back to work](https://www.space.com/large-hadron-collider-scientists-excited-run-3/)
+- [Russian cosmonauts spread anti-Ukraine propaganda from space station](https://www.space.com/russia-cosmonauts-ukraine-luhansk-propaganda/)
+- [James Webb Space Telescope will watch smashing worlds in high definition](https://www.space.com/james-webb-space-telescope-beta-pictoris/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
