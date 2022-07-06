@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [With maiden $42M fund, Bonfire Union wants to invest in web3 like Tencent does in web2](https://techcrunch.com/2022/07/06/bonfire-union-mask-network-maiden-fund/)
+- [UK could force E2E encrypted platforms to do CSAM-scanning](https://techcrunch.com/2022/07/06/uk-osb-csam-scanning/)
 - [Celestron StarSense Explorer 8-inch Dobsonian telescope review](https://www.space.com/celestron-starsense-explorer-8-inch-dobsonian-telescope-review/)
-- [Forever21’s parent company sued Bolt, but now it’s a shareholder](https://techcrunch.com/2022/07/06/fintech-startup-bolt-has-settled-suit-brought-on-by-forever21s-parent-company-and-made-it-a-shareholder/)
+- [Forever21’s parent company sues Bolt but settles for becoming a shareholder](https://techcrunch.com/2022/07/06/fintech-startup-bolt-has-settled-suit-brought-on-by-forever21s-parent-company-and-made-it-a-shareholder/)
 - [UK launches antitrust investigation into Microsoft’s $69B proposed Activision acquisition](https://techcrunch.com/2022/07/06/uk-launches-antitrust-investigation-into-microsofts-69b-proposed-activision-acquisition/)
-- [Celus, which uses AI to automate circuit board design, raises $25.6M](https://techcrunch.com/2022/07/06/celus-which-uses-ai-to-automate-circuit-board-design-raises-25-6m/)
-- [IBM acquires Databand to bolster its data observability stack](https://techcrunch.com/2022/07/06/ibm-acquires-databand-to-bolster-its-data-observability-stack/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
