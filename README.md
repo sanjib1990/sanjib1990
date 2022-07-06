@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon takes a Prime step back into restaurant delivery in the US with new Grubhub investment and partnership](https://techcrunch.com/2022/07/06/amazon-takes-a-prime-step-back-into-restaurant-delivery-in-the-us-with-new-grubhub-investment-and-partnership/)
+- [Autochek acquires CoinAfrique to grow its footprint in Francophone Africa](https://techcrunch.com/2022/07/06/autochek-acquires-coinafrique-to-grow-its-footprint-in-francophone-africa/)
+- [Amazon takes a Prime step back into restaurant delivery in the US with big Grubhub investment and partnership](https://techcrunch.com/2022/07/06/amazon-takes-a-prime-step-back-into-restaurant-delivery-in-the-us-with-new-grubhub-investment-and-partnership/)
 - [Azota is solving exam headaches for Vietnam’s teachers](https://techcrunch.com/2022/07/05/azota-is-solving-exam-headaches-for-vietnams-teachers/)
 - [Frederic Court of London-based Felix Capital on working with, and fending off, American VCs](https://techcrunch.com/2022/07/05/frederic-court-of-london-based-felix-capital-on-working-with-and-fending-off-american-vcs/)
 - [AI chipmaker Rebellions gets $22.8M Series A extension from Korean telco company KT](https://techcrunch.com/2022/07/05/ai-chipmaker-rebellions-gets-22-8m-series-a-extension-from-korean-telco-company-kt/)
-- [Sure, Tesla, a solar trailer](https://techcrunch.com/2022/07/05/tesla-solar-trailer-starlink/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
