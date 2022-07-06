@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [With maiden $42M fund, Bonfire Union wants to invest in web3 like Tencent does in web2](https://techcrunch.com/2022/07/06/bonfire-union-mask-network-maiden-fund/)
-- [UK could force E2E encrypted platforms to do CSAM-scanning](https://techcrunch.com/2022/07/06/uk-osb-csam-scanning/)
-- [Celestron StarSense Explorer 8-inch Dobsonian telescope review](https://www.space.com/celestron-starsense-explorer-8-inch-dobsonian-telescope-review/)
-- [Forever21’s parent company sues Bolt but settles for becoming a shareholder](https://techcrunch.com/2022/07/06/fintech-startup-bolt-has-settled-suit-brought-on-by-forever21s-parent-company-and-made-it-a-shareholder/)
-- [UK launches antitrust investigation into Microsoft’s $69B proposed Activision acquisition](https://techcrunch.com/2022/07/06/uk-launches-antitrust-investigation-into-microsofts-69b-proposed-activision-acquisition/)
+- [Asteroid Bennu sports landslide and massive crater from tiny space rock](https://www.space.com/asteroid-bennu-landslide-from-impact/)
+- [Earth&#39;s magnetic field: Explained](https://www.space.com/earths-magnetic-field-explained/)
+- [Hotel giant Marriott confirms yet another data breach](https://techcrunch.com/2022/07/06/marriott-breach-again/)
+- [NASA&#39;s tiny CAPSTONE mission continuing to moon as team works communications glitch](https://www.space.com/capstone-glitch-update-path-to-moon/)
+- [Can Polestar succeed where other EV maker SPACs have failed?](https://techcrunch.com/2022/07/06/can-polestar-succeed-where-other-ev-maker-spacs-have-failed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
