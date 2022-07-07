@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Roe reversal weighs heavily on emerging tech cities in red states](https://techcrunch.com/2022/07/07/roe-reversal-weighs-heavily-on-emerging-tech-cities-in-red-states/)
-- [Meta’s next VR headset might be called the Quest Pro](https://techcrunch.com/2022/07/07/quest-pro-meta-vr-headset-mixed-reality/)
-- [A huge data leak exposes China’s vast surveillance state](https://techcrunch.com/2022/07/07/china-leak-police-database/)
+- [Minotaur rocket explodes shortly after launching on test mission for US military](https://www.space.com/minotaur-rocket-explodes-military-test-mission/)
+- [Amateur astronomer spots 34 paired-off &#39;failed&#39; stars in brown dwarf project](https://www.space.com/brown-dwarf-binary-amateur-astronomer-discovery/)
 - [Watch an exclusive clip from new Tubi special, &#39;Aliens, Abductions, and UFOs: Roswell at 75&#39;](https://www.space.com/ufo-roswell-75th-anniversary-documentary-tubi/)
 - [Best telescopes for beginners: Top budget-friendly picks for viewing the planets, galaxies and more](https://www.space.com/31229-best-beginner-telescopes.html/)
+- [Virgin Galactic picks Boeing subsidiary to build new carrier planes for space tourism flights](https://www.space.com/virgin-galactic-boeing-subsidiary-carrier-planes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
