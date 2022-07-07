@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Six reasons to apply to the Startup Battlefield 200 at TechCrunch Disrupt](https://techcrunch.com/2022/07/07/six-reasons-to-apply-to-the-startup-battlefield-200-at-techcrunch-disrupt/)
-- [Webb: The World Is About To Be New Again](https://blogs.nasa.gov/webb/2022/07/07/webb-the-world-is-about-to-be-new-again/)
-- [As the global venture capital market slows, is the US dodging the downturn?](https://techcrunch.com/2022/07/07/as-the-global-venture-capital-market-slows-is-the-us-dodging-the-downturn/)
-- [Twitter begins testing ‘CoTweets’ to allow users to co-author tweets](https://techcrunch.com/2022/07/07/twitter-cotweets-co-author-tweets/)
-- [Olympus OM-D E-M10 Mark IV Review](https://www.space.com/olympus-om-d-e-m10-mark-iv-review/)
+- [Meta is dumping Facebook logins as its metaverse ID system](https://techcrunch.com/2022/07/07/meta-is-dumping-facebook-logins-as-its-metaverse-id-system/)
+- [Flipping the sales script: How to break biases and diversify sales teams](https://techcrunch.com/2022/07/07/flipping-the-sales-script-how-to-break-biases-and-diversify-sales-teams/)
+- [Covariant, MassRobotics and The Engine discuss the road from lab to market at TC Sessions: Robotics](https://techcrunch.com/2022/07/07/covariant-massrobotics-and-the-engine-discuss-the-road-from-lab-to-market-at-tc-sessions-robotics/)
+- [Volkswagen breaks ground on first of six battery factories](https://techcrunch.com/2022/07/07/volkswagen-breaks-ground-on-first-of-six-battery-factories/)
+- [a16z leads $6.5M seed round for Adaptive, a construction software and fintech play](https://techcrunch.com/2022/07/07/andreessen-horowitz-leads-6-5m-seed-round-for-adaptive-which-operates-at-the-intersection-of-construction-software-and-fintech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
