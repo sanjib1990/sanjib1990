@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates/)
-- [Casper king Philip Krim is getting into the insurance business](https://techcrunch.com/2022/07/07/casper-king-philip-krim-is-getting-into-the-insurance-business/)
-- [Traba raises $20M to match contractors with events and warehouse work](https://techcrunch.com/2022/07/07/traba-raises-20m-to-match-contractors-with-events-and-warehouse-work/)
-- [SpaceX Falcon 9 rocket nails launch and landing on a record-tying 13th mission](https://www.space.com/spacex-starlink-launch-falcon-9-13th-flight/)
-- [Summer decision looms for Facebook’s EU-US data transfers](https://techcrunch.com/2022/07/07/facebook-data-transfer-complaint-decision/)
+- [Six reasons to apply to the Startup Battlefield 200 at TechCrunch Disrupt](https://techcrunch.com/2022/07/07/six-reasons-to-apply-to-the-startup-battlefield-200-at-techcrunch-disrupt/)
+- [Webb: The World Is About To Be New Again](https://blogs.nasa.gov/webb/2022/07/07/webb-the-world-is-about-to-be-new-again/)
+- [As the global venture capital market slows, is the US dodging the downturn?](https://techcrunch.com/2022/07/07/as-the-global-venture-capital-market-slows-is-the-us-dodging-the-downturn/)
+- [Twitter begins testing ‘CoTweets’ to allow users to co-author tweets](https://techcrunch.com/2022/07/07/twitter-cotweets-co-author-tweets/)
+- [Olympus OM-D E-M10 Mark IV Review](https://www.space.com/olympus-om-d-e-m10-mark-iv-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
