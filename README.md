@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta is dumping Facebook logins as its metaverse ID system](https://techcrunch.com/2022/07/07/meta-is-dumping-facebook-logins-as-its-metaverse-id-system/)
-- [Flipping the sales script: How to break biases and diversify sales teams](https://techcrunch.com/2022/07/07/flipping-the-sales-script-how-to-break-biases-and-diversify-sales-teams/)
-- [Covariant, MassRobotics and The Engine discuss the road from lab to market at TC Sessions: Robotics](https://techcrunch.com/2022/07/07/covariant-massrobotics-and-the-engine-discuss-the-road-from-lab-to-market-at-tc-sessions-robotics/)
-- [Volkswagen breaks ground on first of six battery factories](https://techcrunch.com/2022/07/07/volkswagen-breaks-ground-on-first-of-six-battery-factories/)
-- [a16z leads $6.5M seed round for Adaptive, a construction software and fintech play](https://techcrunch.com/2022/07/07/andreessen-horowitz-leads-6-5m-seed-round-for-adaptive-which-operates-at-the-intersection-of-construction-software-and-fintech/)
+- [Best telescopes for beginners: Top budget-friendly picks for viewing the planets, galaxies and more](https://www.space.com/31229-best-beginner-telescopes.html/)
+- [Virgin Galactic picks Boeing subsidiary to build new carrier planes for space tourism flights](https://www.space.com/virgin-galactic-boeing-subsidiary-carrier-planes/)
+- [Best telescopes 2022: Top picks for viewing planets, galaxies, stars and more](https://www.space.com/15693-telescopes-beginners-telescope-reviews-buying-guide.html/)
+- [Best telescopes for kids: Top picks for seeing the moon, stars, planets &amp; more](https://www.space.com/29798-best-telescopes-for-kids.html/)
+- [10 strange Mercury facts](https://www.space.com/27013-strange-mercury-facts-photos.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
