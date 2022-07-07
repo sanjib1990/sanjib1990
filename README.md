@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Another fatal Tesla crash is being investigated by U.S. safety regulators](https://techcrunch.com/2022/07/07/another-fatal-tesla-crash-is-being-investigated-by-u-s-safety-regulators/)
 - [It sounds like Elon Musk is still trying to get out of his own Twitter deal](https://techcrunch.com/2022/07/07/elon-musk-twitter-deal-wapo-report/)
 - [Daily Crunch: China criticizes India for ‘frequent investigations’ of local Chinese firms](https://techcrunch.com/2022/07/07/daily-crunch-china-criticizes-india-for-frequent-investigations-of-local-chinese-firms/)
 - [Why OSOM went web3](https://techcrunch.com/2022/07/07/why-osom-went-web3/)
 - [Twitter lays off 30% of its talent acquisition team](https://techcrunch.com/2022/07/07/twitter-layoffs-talent-acquisition/)
-- [NASA&#39;s tiny CAPSTONE probe aces 1st engine burn en route to the moon](https://www.space.com/nasa-capstone-moon-cubesat-first-engine-burn/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
