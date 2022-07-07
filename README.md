@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Tebra, an operating system for independent healthcare providers, hits unicorn status](https://techcrunch.com/2022/07/07/tebra-an-operating-system-for-independent-healthcare-providers-hits-unicorn-status/)
-- [See the &#39;Summer Triangle&#39; in the night sky this month](https://www.space.com/summer-triangle-july-2022-skywatching/)
-- [Mysterious fast radio bursts could reveal hidden matter around galaxies](https://www.space.com/fast-radio-burst-galaxies-gas-cocoons/)
-- [Watch a SpaceX Falcon 9 rocket launch on a record-tying 13th mission Thursday](https://www.space.com/spacex-starlink-launch-falcon-9-13th-flight/)
-- [NASA sounding rockets blasting off to assess Alpha Centauri habitability](https://www.space.com/alpha-centauri-system-sounding-rocket-study/)
+- [How to photograph comet K2](https://www.space.com/how-to-photograph-comet-k2/)
+- [Pinterest launches new shopping features for merchants](https://techcrunch.com/2022/07/07/pinterest-launches-new-shopping-features-for-merchants/)
+- [Embattled digital mortgage lender Better.com reveals string of new senior exec hires in ‘rebirth’ attempt](https://techcrunch.com/2022/07/07/embattled-digital-mortgage-lender-better-com-reveals-string-of-new-senior-exec-hires-in-rebirth-attempt/)
+- [Reddit is launching a new NFT avatar marketplace](https://techcrunch.com/2022/07/07/reddit-is-launching-a-new-nft-avatar-marketplace/)
+- [Headline VC closes $968M spread across three funds for startups in US, Europe, LatAm and Asia](https://techcrunch.com/2022/07/07/headline-vc-closes-968m-spread-across-three-funds-for-startups-in-us-europe-latam-and-asia/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
