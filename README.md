@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Octopus keeps stuff out of Indonesia’s crowded landfills](https://techcrunch.com/2022/07/06/octopus-keeps-stuff-out-of-indonesias-crowded-landfills/)
 - [Things get messy for Elon Musk with report about new twins he shares with Neuralink exec](https://techcrunch.com/2022/07/06/things-get-messy-for-elon-musk-with-report-about-new-twins-he-shares-with-neuralink-exec/)
 - [Review: Espresso Display is the ultraportable second monitor for road warriors](https://techcrunch.com/2022/07/06/review-espresso-display/)
 - [How cold is space? Physics behind the temperature of the universe](https://www.space.com/how-cold-is-space/)
 - [Daily Crunch: After filing for bankruptcy, crypto lender Voyager Digital says it will ‘maintain operations’](https://techcrunch.com/2022/07/06/daily-crunch-after-filing-for-bankruptcy-crypto-lender-voyager-digital-says-it-will-maintain-operations/)
-- [Rocket Lab offers next-day shipping to space](https://techcrunch.com/2022/07/06/rocket-lab-offers-next-day-shipping-to-space/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
