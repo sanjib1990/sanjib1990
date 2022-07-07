@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Roe reversal weighs heavily on emerging tech cities in red states](https://techcrunch.com/2022/07/07/roe-reversal-weighs-heavily-on-emerging-tech-cities-in-red-states/)
+- [Meta’s next VR headset might be called the Quest Pro](https://techcrunch.com/2022/07/07/quest-pro-meta-vr-headset-mixed-reality/)
+- [A huge data leak exposes China’s vast surveillance state](https://techcrunch.com/2022/07/07/china-leak-police-database/)
+- [Watch an exclusive clip from new Tubi special, &#39;Aliens, Abductions, and UFOs: Roswell at 75&#39;](https://www.space.com/ufo-roswell-75th-anniversary-documentary-tubi/)
 - [Best telescopes for beginners: Top budget-friendly picks for viewing the planets, galaxies and more](https://www.space.com/31229-best-beginner-telescopes.html/)
-- [Virgin Galactic picks Boeing subsidiary to build new carrier planes for space tourism flights](https://www.space.com/virgin-galactic-boeing-subsidiary-carrier-planes/)
-- [Best telescopes 2022: Top picks for viewing planets, galaxies, stars and more](https://www.space.com/15693-telescopes-beginners-telescope-reviews-buying-guide.html/)
-- [Best telescopes for kids: Top picks for seeing the moon, stars, planets &amp; more](https://www.space.com/29798-best-telescopes-for-kids.html/)
-- [10 strange Mercury facts](https://www.space.com/27013-strange-mercury-facts-photos.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
