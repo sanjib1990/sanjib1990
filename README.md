@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Things get messy for Elon Musk with report about new twins he shares with Neuralink exec](https://techcrunch.com/2022/07/06/things-get-messy-for-elon-musk-with-report-about-new-twins-he-shares-with-neuralink-exec/)
+- [Review: Espresso Display is the ultraportable second monitor for road warriors](https://techcrunch.com/2022/07/06/review-espresso-display/)
 - [How cold is space? Physics behind the temperature of the universe](https://www.space.com/how-cold-is-space/)
 - [Daily Crunch: After filing for bankruptcy, crypto lender Voyager Digital says it will ‘maintain operations’](https://techcrunch.com/2022/07/06/daily-crunch-after-filing-for-bankruptcy-crypto-lender-voyager-digital-says-it-will-maintain-operations/)
 - [Rocket Lab offers next-day shipping to space](https://techcrunch.com/2022/07/06/rocket-lab-offers-next-day-shipping-to-space/)
-- [Apple reportedly plans to launch an ‘extreme sports’ Apple Watch with a larger screen and metal casing](https://techcrunch.com/2022/07/06/apple-extreme-sports-apple-watch-larger-screen-metal-casing/)
-- [NASA’s CAPSTONE looking ‘happy and healthy’ after communications issue](https://techcrunch.com/2022/07/06/nasas-capstone-looking-happy-and-healthy-after-communications-issue/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
