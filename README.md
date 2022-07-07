@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [28% of Americans still won’t consider buying an EV](https://techcrunch.com/2022/07/06/28-of-americans-still-wont-consider-buying-an-ev/)
 - [Japan’s gaming blockchain builder Oasys raises $20M in private token sale](https://techcrunch.com/2022/07/06/oasys-games-private-token-sale/)
 - [Octopus keeps stuff out of Indonesia’s crowded landfills](https://techcrunch.com/2022/07/06/octopus-keeps-stuff-out-of-indonesias-crowded-landfills/)
 - [Things get messy for Elon Musk with report about new twins he shares with Neuralink exec](https://techcrunch.com/2022/07/06/things-get-messy-for-elon-musk-with-report-about-new-twins-he-shares-with-neuralink-exec/)
 - [Review: Espresso Display is the ultraportable second monitor for road warriors](https://techcrunch.com/2022/07/06/review-espresso-display/)
-- [How cold is space? Physics behind the temperature of the universe](https://www.space.com/how-cold-is-space/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
