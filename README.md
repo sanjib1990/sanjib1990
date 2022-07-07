@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to photograph comet K2](https://www.space.com/how-to-photograph-comet-k2/)
-- [Pinterest launches new shopping features for merchants](https://techcrunch.com/2022/07/07/pinterest-launches-new-shopping-features-for-merchants/)
-- [Embattled digital mortgage lender Better.com reveals string of new senior exec hires in ‘rebirth’ attempt](https://techcrunch.com/2022/07/07/embattled-digital-mortgage-lender-better-com-reveals-string-of-new-senior-exec-hires-in-rebirth-attempt/)
-- [Reddit is launching a new NFT avatar marketplace](https://techcrunch.com/2022/07/07/reddit-is-launching-a-new-nft-avatar-marketplace/)
-- [Headline VC closes $968M spread across three funds for startups in US, Europe, LatAm and Asia](https://techcrunch.com/2022/07/07/headline-vc-closes-968m-spread-across-three-funds-for-startups-in-us-europe-latam-and-asia/)
+- [Summer decision looms for Facebook’s EU-US data transfers](https://techcrunch.com/2022/07/07/facebook-data-transfer-complaint-decision/)
+- [Fyto combines automation, robotics so aquatic ‘superplants’ can grow almost anywhere](https://techcrunch.com/2022/07/07/fyto-combines-automation-robotics-so-aquatic-superplants-can-grow-almost-anywhere/)
+- [Announcing the Judges for the TC Sessions: Robotics Pitch Off](https://techcrunch.com/2022/07/07/announcing-the-judges-for-the-tc-sessions-robotics-pitch-off/)
+- [Binance.US hires former Acorns, PayPal exec Jasmine Lee as CFO](https://techcrunch.com/2022/07/07/binance-us-acorns-paypal-cfo-jasmine-lee-coo-hiring-crypto-exchange/)
+- [Best Lego deals: Amazon Prime Day deals on Star Wars, Space, Marvel &amp; DC sets](https://www.space.com/38810-best-lego-deals.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
