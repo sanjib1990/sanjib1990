@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Minotaur rocket explodes shortly after launching on test mission for US military](https://www.space.com/minotaur-rocket-explodes-military-test-mission/)
-- [Amateur astronomer spots 34 paired-off &#39;failed&#39; stars in brown dwarf project](https://www.space.com/brown-dwarf-binary-amateur-astronomer-discovery/)
-- [Watch an exclusive clip from new Tubi special, &#39;Aliens, Abductions, and UFOs: Roswell at 75&#39;](https://www.space.com/ufo-roswell-75th-anniversary-documentary-tubi/)
-- [Best telescopes for beginners: Top budget-friendly picks for viewing the planets, galaxies and more](https://www.space.com/31229-best-beginner-telescopes.html/)
-- [Virgin Galactic picks Boeing subsidiary to build new carrier planes for space tourism flights](https://www.space.com/virgin-galactic-boeing-subsidiary-carrier-planes/)
+- [NASA’s Webb Telescope NIRSpec Instrument Ready for Science](https://blogs.nasa.gov/webb/2022/07/07/nasas-webb-telescope-nirspec-instrument-ready-for-science/)
+- [Crypto hackers are increasingly phishing for new bait on social media](https://techcrunch.com/2022/07/07/crypto-hackers-are-increasingly-phishing-for-new-bait-on-social-media/)
+- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates/)
+- [Tesla reportedly nowhere near goal of installing 1,000 solar roofs a week](https://techcrunch.com/2022/07/07/tesla-reportedly-nowhere-near-goal-of-installing-1000-solar-roofs-a-week/)
+- [Instacart’s new rewards program gives shoppers exclusive early access to orders and more](https://techcrunch.com/2022/07/07/instacarts-rewards-program-gives-shoppers-priority-access-orders/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
