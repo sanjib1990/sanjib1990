@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [China says closely following India’s raid of Vivo, warns of chilling impact on business confidence](https://techcrunch.com/2022/07/07/china-india-business-confidence-vivo/)
-- [On This Day In Space: July 7, 1961: U.S. Air Force Launches Discoverer 26 Spy Satellite](https://www.space.com/39251-on-this-day-in-space.html/)
-- [YuLife picks up $120M at an $800M valuation for gamified, wellness-focused life insurance](https://techcrunch.com/2022/07/07/yulife-picks-up-120m-at-an-800m-valuation-as-it-expands-its-gamified-wellness-focused-approach-to-life-insurance/)
-- [Happeo lands $26M to provide a central intranet portal for employees](https://techcrunch.com/2022/07/07/happeo-lands-26m-to-provide-a-central-intranet-portal-for-employees/)
-- [28% of Americans still won’t consider buying an EV](https://techcrunch.com/2022/07/06/28-of-americans-still-wont-consider-buying-an-ev/)
+- [Tebra, an operating system for independent healthcare providers, hits unicorn status](https://techcrunch.com/2022/07/07/tebra-an-operating-system-for-independent-healthcare-providers-hits-unicorn-status/)
+- [See the &#39;Summer Triangle&#39; in the night sky this month](https://www.space.com/summer-triangle-july-2022-skywatching/)
+- [Mysterious fast radio bursts could reveal hidden matter around galaxies](https://www.space.com/fast-radio-burst-galaxies-gas-cocoons/)
+- [Watch a SpaceX Falcon 9 rocket launch on a record-tying 13th mission Thursday](https://www.space.com/spacex-starlink-launch-falcon-9-13th-flight/)
+- [NASA sounding rockets blasting off to assess Alpha Centauri habitability](https://www.space.com/alpha-centauri-system-sounding-rocket-study/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
