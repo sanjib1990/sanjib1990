@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [So are we in a startup recession or what?](https://techcrunch.com/2022/07/07/so-are-we-in-a-startup-recession-or-what/)
+- [Netflix rolls out spatial audio to all devices, available for ‘Stranger Things’ and more](https://techcrunch.com/2022/07/07/netflix-rolls-out-spatial-audio-to-all-devices-available-for-stranger-things-and-more/)
 - [NASA’s Webb Telescope NIRSpec Instrument Ready for Science](https://blogs.nasa.gov/webb/2022/07/07/nasas-webb-telescope-nirspec-instrument-ready-for-science/)
 - [Crypto hackers are increasingly phishing for new bait on social media](https://techcrunch.com/2022/07/07/crypto-hackers-are-increasingly-phishing-for-new-bait-on-social-media/)
 - [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates/)
-- [Tesla reportedly nowhere near goal of installing 1,000 solar roofs a week](https://techcrunch.com/2022/07/07/tesla-reportedly-nowhere-near-goal-of-installing-1000-solar-roofs-a-week/)
-- [Instacart’s new rewards program gives shoppers exclusive early access to orders and more](https://techcrunch.com/2022/07/07/instacarts-rewards-program-gives-shoppers-priority-access-orders/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
