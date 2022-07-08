@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [VCs slow Latin American investments after blowout 2021](https://techcrunch.com/2022/07/08/vcs-slow-latin-american-investments-after-blowout-2021/)
-- [TechCrunch+ roundup: Abortion ban’s hiring impact, 3 e-commerce trends, how to pivot a startup](https://techcrunch.com/2022/07/08/techcrunch-roundup-abortion-bans-hiring-impact-3-e-commerce-trends-how-to-pivot-a-startup/)
-- [7 ways investors can gain clarity while conducting technical due diligence](https://techcrunch.com/2022/07/08/7-ways-investors-can-gain-clarity-while-conducting-technical-due-diligence/)
-- [NASA unveils list of 1st targets for James Webb Space Telescope](https://www.space.com/james-webb-space-telescope-1st-targets-list/)
-- [Best drone deals: Top discounts from DJI, Parrot, Skydio and others](https://www.space.com/drone-deals/)
+- [TechCrunch podcasts this week: Halloween in July, mafias, rockets, and Matt Mullenweg](https://techcrunch.com/2022/07/08/techcrunch-podcasts-this-week-halloween-in-july-mafias-rockets-and-matt-mullenweg/)
+- [AngelList Venture wants to make cap table management cheaper](https://techcrunch.com/2022/07/08/angellist-venture-wants-to-make-cap-table-management-cheaper/)
+- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates/)
+- [Asteroid Bennu nearly ate NASA&#39;s sampling spacecraft](https://www.space.com/asteroid-bennu-nearly-ate-osiris-rex/)
+- [Streaming service NFL+ confirmed, NFL will choose a streamer for its Sunday Ticket this fall](https://techcrunch.com/2022/07/08/streaming-service-nfl-confirmed-nfl-will-choose-a-streamer-for-its-sunday-ticket-this-fall/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
