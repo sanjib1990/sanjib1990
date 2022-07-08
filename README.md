@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cauldrons, Bolts and sour markets: Welcome to Halloween in July](https://techcrunch.com/2022/07/08/cauldrons-bolts-and-sour-markets-welcome-to-halloween-in-july/)
+- [Universal Music Group signs licensing deal with African streaming service Mdundo](https://techcrunch.com/2022/07/08/universal-music-group-signs-licensing-deal-with-african-streaming-service-mdundo/)
+- [Butler shows hundreds of employees the door after raising $50M for room service delivery](https://techcrunch.com/2022/07/08/butler-shows-hundreds-of-employees-the-door-after-raising-50m-for-room-service-delivery/)
+- [Should you buy a telescope on Amazon Prime Day?](https://www.space.com/should-you-buy-a-telescope-on-amazon-prime-day/)
 - [DEUNA enters Latin America’s crowded one-click checkout sector flush with $37M](https://techcrunch.com/2022/07/08/deuna-latin-americas-one-click-checkout-series-a/)
-- [EV charging sucks because it hasn’t found the right business model](https://techcrunch.com/2022/07/08/ev-charging-sucks-because-it-hasnt-found-the-right-business-model/)
-- [James Webb Space Telescope wraps tests on instrument to study the universe&#39;s chemistry](https://www.space.com/james-webb-space-telescope-3rd-instrument-ready/)
-- [This startup hopes to get us to Net Zero via its platform to construct wooden buildings](https://techcrunch.com/2022/07/08/this-startup-hopes-to-get-us-to-net-zero-via-its-platform-to-construct-wooden-buildings/)
-- [Cyber insurance startup Coalition plots global expansion as valuation hits $5B](https://techcrunch.com/2022/07/08/coalition-insurance-cyber/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
