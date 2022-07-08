@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TechCrunch podcasts this week: Halloween in July, mafias, rockets, and Matt Mullenweg](https://techcrunch.com/2022/07/08/techcrunch-podcasts-this-week-halloween-in-july-mafias-rockets-and-matt-mullenweg/)
+- [Biden order fortifies data privacy ahead of state-by-state legal battle over abortion](https://techcrunch.com/2022/07/08/biden-order-fortifies-data-privacy-ahead-of-state-by-state-legal-battle-over-abortion/)
+- [Congress probes period tracking apps and data brokers over abortion privacy concerns](https://techcrunch.com/2022/07/08/house-oversight-letter-abortion-period-apps-data-brokers/)
+- [How the James Webb Space Telescope works in pictures](https://www.space.com/james-webb-space-telescope-mission-explained/)
+- [TechCrunch podcasts this week: Halloween in July, mafias, rockets and Matt Mullenweg](https://techcrunch.com/2022/07/08/techcrunch-podcasts-this-week-halloween-in-july-mafias-rockets-and-matt-mullenweg/)
 - [AngelList Venture wants to make cap table management cheaper](https://techcrunch.com/2022/07/08/angellist-venture-wants-to-make-cap-table-management-cheaper/)
-- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates/)
-- [Asteroid Bennu nearly ate NASA&#39;s sampling spacecraft](https://www.space.com/asteroid-bennu-nearly-ate-osiris-rex/)
-- [Streaming service NFL+ confirmed, NFL will choose a streamer for its Sunday Ticket this fall](https://techcrunch.com/2022/07/08/streaming-service-nfl-confirmed-nfl-will-choose-a-streamer-for-its-sunday-ticket-this-fall/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
