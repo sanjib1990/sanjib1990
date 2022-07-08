@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See the moon&#39;s &#39;Golden Handle&#39; shine on Saturday](https://www.space.com/moon-golden-handle-visible-july-2022/)
+- [Jupiter and its moons will be a &#39;proving ground&#39; for the James Webb Space Telescope](https://www.space.com/james-webb-space-telescope-jupiter-early-observations/)
+- [Planned NASA mission to the &#39;ignorosphere&#39; could improve space weather forecasts](https://www.space.com/nasa-esa-space-weather-mission-ignorosphere/)
+- [Satellites spot construction of Russian anti-satellite laser facility: report](https://www.space.com/russia-anti-satellite-laser-facility-satellite-photos/)
 - [On This Day In Space: July 8, 2011: Space Shuttle Atlantis Launches on Final Mission](https://www.space.com/39251-on-this-day-in-space.html/)
-- [Sequoia wants to invest $1 million in your idea, then teach you how to really sell it](https://techcrunch.com/2022/07/07/sequoia-wants-to-invest-1-million-in-your-idea-then-teach-you-how-to-really-sell-it/)
-- [Starlink on your yacht, so hot](https://techcrunch.com/2022/07/07/starlink-on-your-yacht-so-hot/)
-- [Ford, VW-backed Argo AI lays off 150 workers, slows hiring](https://techcrunch.com/2022/07/07/ford-vw-backed-argo-ai-lays-off-150-workers-slows-hiring/)
-- [Another fatal Tesla crash is being investigated by US safety regulators](https://techcrunch.com/2022/07/07/another-fatal-tesla-crash-is-being-investigated-by-u-s-safety-regulators/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
