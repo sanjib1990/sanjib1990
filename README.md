@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s Saturn V moon rocket to launch onto 2024 US dollar coin](https://www.space.com/saturn-v-rocket-alabama-innovation-2024-coin/)
+- [Dramatic sampling shows asteroid Bennu is nothing like scientists expected](https://www.space.com/dramatic-osiris-rex-touchdown-reveals-surprises-bennu/)
+- [White House: Tesla to expand its U.S. Supercharger network to other EVs in late 2022](https://techcrunch.com/2022/07/08/white-house-tesla-to-expand-its-u-s-supercharger-network-to-other-evs-in-late-2022/)
+- [What was the space race? Origins, events and timeline](https://www.space.com/space-race.html/)
 - [Cauldrons, Bolts and sour markets: Welcome to Halloween in July](https://techcrunch.com/2022/07/08/cauldrons-bolts-and-sour-markets-welcome-to-halloween-in-july/)
-- [Universal Music Group signs licensing deal with African streaming service Mdundo](https://techcrunch.com/2022/07/08/universal-music-group-signs-licensing-deal-with-african-streaming-service-mdundo/)
-- [Butler shows hundreds of employees the door after raising $50M for room service delivery](https://techcrunch.com/2022/07/08/butler-shows-hundreds-of-employees-the-door-after-raising-50m-for-room-service-delivery/)
-- [Should you buy a telescope on Amazon Prime Day?](https://www.space.com/should-you-buy-a-telescope-on-amazon-prime-day/)
-- [DEUNA enters Latin America’s crowded one-click checkout sector flush with $37M](https://techcrunch.com/2022/07/08/deuna-latin-americas-one-click-checkout-series-a/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
