@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA condemns Russia&#39;s use of space station for propaganda](https://www.space.com/nasa-condemns-russia-cosmonauts-anti-ukraine-propaganda/)
+- [See the &#39;Wonderful Star&#39; Mira at its peak brightness this week](https://www.space.com/mira-wonderful-star-bright-july-2022/)
+- [Massive Facebook survey shows climate investors have more sway on public opinion than you think](https://techcrunch.com/2022/07/08/massive-facebook-survey-shows-climate-investors-have-more-sway-on-public-opinion-than-you-think/)
+- [Solana founder Anatoly Yakovenko discusses the crypto downturn at Disrupt](https://techcrunch.com/2022/07/08/solana-founder-anatoly-yakovenko-discusses-the-crypto-downturn-at-disrupt/)
 - [NASA&#39;s Saturn V moon rocket to launch onto 2024 US dollar coin](https://www.space.com/saturn-v-rocket-alabama-innovation-2024-coin/)
-- [Dramatic sampling shows asteroid Bennu is nothing like scientists expected](https://www.space.com/dramatic-osiris-rex-touchdown-reveals-surprises-bennu/)
-- [White House: Tesla to expand its U.S. Supercharger network to other EVs in late 2022](https://techcrunch.com/2022/07/08/white-house-tesla-to-expand-its-u-s-supercharger-network-to-other-evs-in-late-2022/)
-- [What was the space race? Origins, events and timeline](https://www.space.com/space-race.html/)
-- [Cauldrons, Bolts and sour markets: Welcome to Halloween in July](https://techcrunch.com/2022/07/08/cauldrons-bolts-and-sour-markets-welcome-to-halloween-in-july/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
