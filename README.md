@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DEUNA enters Latin America’s crowded one-click checkout sector flush with $37M](https://techcrunch.com/2022/07/08/deuna-latin-americas-one-click-checkout-series-a/)
+- [EV charging sucks because it hasn’t found the right business model](https://techcrunch.com/2022/07/08/ev-charging-sucks-because-it-hasnt-found-the-right-business-model/)
+- [James Webb Space Telescope wraps tests on instrument to study the universe&#39;s chemistry](https://www.space.com/james-webb-space-telescope-3rd-instrument-ready/)
 - [This startup hopes to get us to Net Zero via its platform to construct wooden buildings](https://techcrunch.com/2022/07/08/this-startup-hopes-to-get-us-to-net-zero-via-its-platform-to-construct-wooden-buildings/)
 - [Cyber insurance startup Coalition plots global expansion as valuation hits $5B](https://techcrunch.com/2022/07/08/coalition-insurance-cyber/)
-- [See the moon&#39;s &#39;Golden Handle&#39; shine on Saturday](https://www.space.com/moon-golden-handle-visible-july-2022/)
-- [Jupiter and its moons will be a &#39;proving ground&#39; for the James Webb Space Telescope](https://www.space.com/james-webb-space-telescope-jupiter-early-observations/)
-- [Satellites spot construction of Russian anti-satellite laser facility: report](https://www.space.com/russia-anti-satellite-laser-facility-satellite-photos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
