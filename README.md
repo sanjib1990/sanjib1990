@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: After raising $50M, room service startup Butler Hospitality folds](https://techcrunch.com/2022/07/08/daily-crunch-after-raising-50m-room-service-startup-butler-hospitality-folds/)
+- [Elon Musk tells Twitter he is killing the deal](https://techcrunch.com/2022/07/08/elon-musk-not-buying-twitter-sec/)
 - [This Week In Space podcast: Episode 19 — You Can Be A Space Journalist](https://www.space.com/this-week-in-space-podcast-twit/)
 - [NASA&#39;s Perseverance Mars rover collects 9th Red Planet rock sample](https://www.space.com/nasa-perseverance-mars-rover-9th-rock-sample/)
 - [Biden order fortifies data privacy ahead of state-by-state legal battle over abortion](https://techcrunch.com/2022/07/08/biden-order-fortifies-data-privacy-ahead-of-state-by-state-legal-battle-over-abortion/)
-- [Congress probes period tracking apps and data brokers over abortion privacy concerns](https://techcrunch.com/2022/07/08/house-oversight-letter-abortion-period-apps-data-brokers/)
-- [How the James Webb Space Telescope works in pictures](https://www.space.com/james-webb-space-telescope-mission-explained/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
