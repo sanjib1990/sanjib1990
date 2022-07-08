@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch+ roundup: Abortion ban’s hiring impact, 3 e-commerce trends, how to pivot a startup](https://techcrunch.com/2022/07/08/techcrunch-roundup-abortion-bans-hiring-impact-3-e-commerce-trends-how-to-pivot-a-startup/)
+- [7 ways investors can gain clarity while conducting technical due diligence](https://techcrunch.com/2022/07/08/7-ways-investors-can-gain-clarity-while-conducting-technical-due-diligence/)
+- [NASA unveils list of 1st targets for James Webb Space Telescope](https://www.space.com/james-webb-space-telescope-1st-targets-list/)
+- [Best drone deals: Top discounts from DJI, Parrot, Skydio and others](https://www.space.com/drone-deals/)
 - [NASA condemns Russia&#39;s use of space station for propaganda](https://www.space.com/nasa-condemns-russia-cosmonauts-anti-ukraine-propaganda/)
-- [See the &#39;Wonderful Star&#39; Mira at its peak brightness this week](https://www.space.com/mira-wonderful-star-bright-july-2022/)
-- [Massive Facebook survey shows climate investors have more sway on public opinion than you think](https://techcrunch.com/2022/07/08/massive-facebook-survey-shows-climate-investors-have-more-sway-on-public-opinion-than-you-think/)
-- [Solana founder Anatoly Yakovenko discusses the crypto downturn at Disrupt](https://techcrunch.com/2022/07/08/solana-founder-anatoly-yakovenko-discusses-the-crypto-downturn-at-disrupt/)
-- [NASA&#39;s Saturn V moon rocket to launch onto 2024 US dollar coin](https://www.space.com/saturn-v-rocket-alabama-innovation-2024-coin/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
