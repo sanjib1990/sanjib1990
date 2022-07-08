@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Week In Space podcast: Episode 19 — You Can Be A Space Journalist](https://www.space.com/this-week-in-space-podcast-twit/)
+- [NASA&#39;s Perseverance Mars rover collects 9th Red Planet rock sample](https://www.space.com/nasa-perseverance-mars-rover-9th-rock-sample/)
 - [Biden order fortifies data privacy ahead of state-by-state legal battle over abortion](https://techcrunch.com/2022/07/08/biden-order-fortifies-data-privacy-ahead-of-state-by-state-legal-battle-over-abortion/)
 - [Congress probes period tracking apps and data brokers over abortion privacy concerns](https://techcrunch.com/2022/07/08/house-oversight-letter-abortion-period-apps-data-brokers/)
 - [How the James Webb Space Telescope works in pictures](https://www.space.com/james-webb-space-telescope-mission-explained/)
-- [TechCrunch podcasts this week: Halloween in July, mafias, rockets and Matt Mullenweg](https://techcrunch.com/2022/07/08/techcrunch-podcasts-this-week-halloween-in-july-mafias-rockets-and-matt-mullenweg/)
-- [AngelList Venture wants to make cap table management cheaper](https://techcrunch.com/2022/07/08/angellist-venture-wants-to-make-cap-table-management-cheaper/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
