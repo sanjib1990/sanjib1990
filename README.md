@@ -96,8 +96,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [See the moon&#39;s &#39;Golden Handle&#39; shine on Saturday](https://www.space.com/moon-golden-handle-visible-july-2022/)
 - [Jupiter and its moons will be a &#39;proving ground&#39; for the James Webb Space Telescope](https://www.space.com/james-webb-space-telescope-jupiter-early-observations/)
-- [Planned NASA mission to the &#39;ignorosphere&#39; could improve space weather forecasts](https://www.space.com/nasa-esa-space-weather-mission-ignorosphere/)
 - [Satellites spot construction of Russian anti-satellite laser facility: report](https://www.space.com/russia-anti-satellite-laser-facility-satellite-photos/)
+- [Planned NASA mission to the &#39;ignorosphere&#39; could improve space weather forecasts](https://www.space.com/nasa-esa-space-weather-mission-ignorosphere/)
 - [On This Day In Space: July 8, 2011: Space Shuttle Atlantis Launches on Final Mission](https://www.space.com/39251-on-this-day-in-space.html/)
 <!-- BLOG-POST-LIST:END -->
 
