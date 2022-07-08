@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [VCs slow Latin American investments after blowout 2021](https://techcrunch.com/2022/07/08/vcs-slow-latin-american-investments-after-blowout-2021/)
 - [TechCrunch+ roundup: Abortion ban’s hiring impact, 3 e-commerce trends, how to pivot a startup](https://techcrunch.com/2022/07/08/techcrunch-roundup-abortion-bans-hiring-impact-3-e-commerce-trends-how-to-pivot-a-startup/)
 - [7 ways investors can gain clarity while conducting technical due diligence](https://techcrunch.com/2022/07/08/7-ways-investors-can-gain-clarity-while-conducting-technical-due-diligence/)
 - [NASA unveils list of 1st targets for James Webb Space Telescope](https://www.space.com/james-webb-space-telescope-1st-targets-list/)
 - [Best drone deals: Top discounts from DJI, Parrot, Skydio and others](https://www.space.com/drone-deals/)
-- [NASA condemns Russia&#39;s use of space station for propaganda](https://www.space.com/nasa-condemns-russia-cosmonauts-anti-ukraine-propaganda/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
