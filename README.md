@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [On This Day In Space: July 8, 2011: Space Shuttle Atlantis Launches on Final Mission](https://www.space.com/39251-on-this-day-in-space.html/)
 - [Sequoia wants to invest $1 million in your idea, then teach you how to really sell it](https://techcrunch.com/2022/07/07/sequoia-wants-to-invest-1-million-in-your-idea-then-teach-you-how-to-really-sell-it/)
 - [Starlink on your yacht, so hot](https://techcrunch.com/2022/07/07/starlink-on-your-yacht-so-hot/)
 - [Ford, VW-backed Argo AI lays off 150 workers, slows hiring](https://techcrunch.com/2022/07/07/ford-vw-backed-argo-ai-lays-off-150-workers-slows-hiring/)
 - [Another fatal Tesla crash is being investigated by US safety regulators](https://techcrunch.com/2022/07/07/another-fatal-tesla-crash-is-being-investigated-by-u-s-safety-regulators/)
-- [It sounds like Elon Musk is still trying to get out of his own Twitter deal](https://techcrunch.com/2022/07/07/elon-musk-twitter-deal-wapo-report/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
