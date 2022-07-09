@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla shares get baby bump as Elon Musk tries to pull out of Twitter deal](https://techcrunch.com/2022/07/08/tesla-shares-get-baby-bump-as-elon-musk-tries-to-pull-out-of-twitter-deal/)
 - [Twitter is really not having Elon Musk’s attempt to back out of buying it](https://techcrunch.com/2022/07/08/twitter-is-really-not-having-elon-musks-attempt-to-back-out-of-buying-it/)
 - [Elon Musk backing out of $44 billion Twitter purchase](https://www.space.com/elon-musk-backing-out-twitter-purchase/)
 - [This cardiac care startup just landed $20M for virtual rehab services](https://techcrunch.com/2022/07/08/this-cardiac-care-startup-just-landed-20m-for-virtual-rehab-services/)
 - [Elon Musk tells Twitter he is killing the deal](https://techcrunch.com/2022/07/08/elon-musk-not-buying-twitter-sec/)
-- [This Week In Space podcast: Episode 19 — You Can Be A Space Journalist](https://www.space.com/this-week-in-space-podcast-twit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
