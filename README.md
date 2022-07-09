@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [On This Day In Space: July 9, 1979: Voyager 2&#39;s closest approach to Jupiter](https://www.space.com/39251-on-this-day-in-space.html/)
-- [Daily Crunch: Musk wants out of his $44B Twitter deal](https://techcrunch.com/2022/07/08/musk-wants-out-of-his-44b-twitter-deal/)
-- [Tesla shares get baby bump as Elon Musk tries to pull out of Twitter deal](https://techcrunch.com/2022/07/08/tesla-shares-get-baby-bump-as-elon-musk-tries-to-pull-out-of-twitter-deal/)
-- [Twitter is really not having Elon Musk’s attempt to back out of buying it](https://techcrunch.com/2022/07/08/twitter-is-really-not-having-elon-musks-attempt-to-back-out-of-buying-it/)
-- [Elon Musk backing out of $44 billion Twitter purchase](https://www.space.com/elon-musk-backing-out-twitter-purchase/)
+- [James Webb Space Telescope will heat up studies of our solar system&#39;s &#39;ice giants&#39;](https://www.space.com/james-webb-space-telescope-ice-giant-preview/)
+- [Catch the moon shining next to the blood-red star Antares on Sunday](https://www.space.com/moon-antares-close-approach-july-2022/)
+- [Gallery: James Webb Space Telescope&#39;s 1st photos](https://www.space.com/james-webb-space-telescope-first-photos/)
+- [China&#39;s Shenzhou 14 astronauts mark busy 1st month aboard Tiangong space station](https://www.space.com/china-shenzhou-14-astronauts-one-month-orbit/)
+- [Mars spacecraft may have to dig deeper than thought to find traces of life](https://www.space.com/mars-surface-radiation-destroys-amino-acids/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
