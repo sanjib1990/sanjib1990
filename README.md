@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What Zuckerberg’s money can’t buy](https://techcrunch.com/2022/07/09/what-zuckerbergs-money-cant-buy/)
 - [Another wild week for Elon Musk](https://techcrunch.com/2022/07/09/another-wild-week-for-elon-musk/)
 - [This Week in Apps: Google battles KakaoTalk, Twitter deal in jeopardy, FTC asked to investigate TikTok](https://techcrunch.com/2022/07/09/this-week-in-apps-google-battles-kakaotalk-twitter-deal-in-jeopardy-ftc-asked-to-investigate-tiktok/)
 - [Data shows who has been hit the hardest in the great tech layoff wave](https://techcrunch.com/2022/07/09/data-shows-who-has-been-hit-the-hardest-in-the-great-tech-layoff-wave/)
 - [From spinouts to fundraising to M&amp;A, founders need transparent deal terms](https://techcrunch.com/2022/07/09/from-spinouts-to-fundraising-to-ma-founders-need-transparent-deal-terms/)
-- [Your fundraising pitch deck needs appendices. Here’s why](https://techcrunch.com/2022/07/09/pitch-deck-appendix/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
