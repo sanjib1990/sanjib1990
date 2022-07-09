@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Your fundraising pitch deck needs appendices. Here’s why](https://techcrunch.com/2022/07/09/pitch-deck-appendix/)
 - [James Webb Space Telescope will heat up studies of our solar system&#39;s &#39;ice giants&#39;](https://www.space.com/james-webb-space-telescope-ice-giant-preview/)
 - [Catch the moon shining next to the blood-red star Antares on Sunday](https://www.space.com/moon-antares-close-approach-july-2022/)
 - [Gallery: James Webb Space Telescope&#39;s 1st photos](https://www.space.com/james-webb-space-telescope-first-photos/)
 - [China&#39;s Shenzhou 14 astronauts mark busy 1st month aboard Tiangong space station](https://www.space.com/china-shenzhou-14-astronauts-one-month-orbit/)
-- [Mars spacecraft may have to dig deeper than thought to find traces of life](https://www.space.com/mars-surface-radiation-destroys-amino-acids/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
