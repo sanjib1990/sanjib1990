@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Week in Apps: Google battles KakaoTalk, Twitter deal in jeopardy, FTC asked to investigate TikTok](https://techcrunch.com/2022/07/09/this-week-in-apps-google-battles-kakaotalk-twitter-deal-in-jeopardy-ftc-asked-to-investigate-tiktok/)
 - [Data shows who has been hit the hardest in the great tech layoff wave](https://techcrunch.com/2022/07/09/data-shows-who-has-been-hit-the-hardest-in-the-great-tech-layoff-wave/)
 - [From spinouts to fundraising to M&amp;A, founders need transparent deal terms](https://techcrunch.com/2022/07/09/from-spinouts-to-fundraising-to-ma-founders-need-transparent-deal-terms/)
 - [Your fundraising pitch deck needs appendices. Here’s why](https://techcrunch.com/2022/07/09/pitch-deck-appendix/)
 - [James Webb Space Telescope will heat up studies of our solar system&#39;s &#39;ice giants&#39;](https://www.space.com/james-webb-space-telescope-ice-giant-preview/)
-- [Catch the moon shining next to the blood-red star Antares on Sunday](https://www.space.com/moon-antares-close-approach-july-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
