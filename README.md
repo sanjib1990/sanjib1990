@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The bull case for startups in the back half of 2022](https://techcrunch.com/2022/07/10/the-bull-case-for-startups-in-the-back-half-of-2022/)
+- [Fintech startups lead the layoff wave](https://techcrunch.com/2022/07/10/fintechs-go-from-the-biggest-recipients-of-venture-dollars-in-2021-to-the-biggest-percentage-of-layoffs-in-2022/)
 - [NASA will unveil the James Webb Space Telescope&#39;s 1st science photos this week. Here&#39;s how to watch.](https://www.space.com/james-webb-space-telescope-science-photos-webcast/)
 - [On This Day In Space: July 10, 1962: 1st private space mission launches](https://www.space.com/39251-on-this-day-in-space.html/)
 - [Watch SpaceX launch 46 satellites and land a rocket at sea Sunday evening](https://www.space.com/spacex-starlink-sl3-1-launch-rocket-landing/)
-- [&#39;Moon Knight&#39;s&#39; Khonshu + 9 more lunar gods and goddesses from around the world](https://www.space.com/moon-knight-disney-plus-lunar-gods/)
-- [Scientists hope James Webb Space Telescope will help solve &#39;dust budget crisis&#39;](https://www.space.com/james-webb-space-telescope-cosmic-dust-crisis/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
