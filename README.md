@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [What Zuckerberg’s money can’t buy](https://techcrunch.com/2022/07/09/what-zuckerbergs-money-cant-buy/)
-- [Another wild week for Elon Musk](https://techcrunch.com/2022/07/09/another-wild-week-for-elon-musk/)
-- [This Week in Apps: Google battles KakaoTalk, Twitter deal in jeopardy, FTC asked to investigate TikTok](https://techcrunch.com/2022/07/09/this-week-in-apps-google-battles-kakaotalk-twitter-deal-in-jeopardy-ftc-asked-to-investigate-tiktok/)
-- [Data shows who has been hit the hardest in the great tech layoff wave](https://techcrunch.com/2022/07/09/data-shows-who-has-been-hit-the-hardest-in-the-great-tech-layoff-wave/)
-- [From spinouts to fundraising to M&amp;A, founders need transparent deal terms](https://techcrunch.com/2022/07/09/from-spinouts-to-fundraising-to-ma-founders-need-transparent-deal-terms/)
+- [NASA will unveil the James Webb Space Telescope&#39;s 1st science photos this week. Here&#39;s how to watch.](https://www.space.com/james-webb-space-telescope-science-photos-webcast/)
+- [On This Day In Space: July 10, 1962: 1st private space mission launches](https://www.space.com/39251-on-this-day-in-space.html/)
+- [Watch SpaceX launch 46 satellites and land a rocket at sea Sunday evening](https://www.space.com/spacex-starlink-sl3-1-launch-rocket-landing/)
+- [&#39;Moon Knight&#39;s&#39; Khonshu + 9 more lunar gods and goddesses from around the world](https://www.space.com/moon-knight-disney-plus-lunar-gods/)
+- [Scientists hope James Webb Space Telescope will help solve &#39;dust budget crisis&#39;](https://www.space.com/james-webb-space-telescope-cosmic-dust-crisis/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
