@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Micromobility is fun, but perhaps that’s all it’ll ever be](https://techcrunch.com/2022/07/10/micromobility-is-fun-but-perhaps-thats-all-itll-ever-be/)
 - [Get ready to connect with speed networking at TC Sessions: Robotics](https://techcrunch.com/2022/07/10/get-ready-to-connect-with-speed-networking-at-tc-sessions-robotics/)
 - [The bull case for startups in the back half of 2022](https://techcrunch.com/2022/07/10/the-bull-case-for-startups-in-the-back-half-of-2022/)
 - [Fintech startups lead the layoff wave](https://techcrunch.com/2022/07/10/fintechs-go-from-the-biggest-recipients-of-venture-dollars-in-2021-to-the-biggest-percentage-of-layoffs-in-2022/)
 - [NASA will unveil the James Webb Space Telescope&#39;s 1st science photos this week. Here&#39;s how to watch.](https://www.space.com/james-webb-space-telescope-science-photos-webcast/)
-- [On This Day In Space: July 10, 1962: 1st private space mission launches](https://www.space.com/39251-on-this-day-in-space.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
