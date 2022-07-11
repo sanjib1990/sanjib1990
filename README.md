@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [For businesses seeking low-code fintech infrastructure options, there’s a Quiltt for that](https://techcrunch.com/2022/07/11/low-code-fintech-infrastructure-quiltt-seed/)
+- [Online donation platform Change helps charities fundraise in crypto](https://techcrunch.com/2022/07/11/online-donation-platform-change-helps-charities-fundraise-in-crypto/)
+- [Watch President Biden unveil the 1st James Webb Space Telescope science image today!](https://www.space.com/james-webb-space-telescope-science-photos-webcast/)
 - [The Station: Layoffs are coming for the AV world, VW plans ‘big moves’ in China and inside Cruise’s robotaxi outages](https://techcrunch.com/2022/07/11/the-station-layoffs-are-coming-for-the-av-world-vw-plans-big-moves-in-china-and-inside-cruises-robotaxi-outages/)
 - [Unacademy founders take a pay cut, pledge an IPO in two years](https://techcrunch.com/2022/07/11/unacademy-founders-take-a-pay-cut-pledge-an-ipo-in-two-years/)
-- [Pix Moving brings robovans to Japan, eyes DAO-based EV making](https://techcrunch.com/2022/07/11/pix-moving-japan-tis/)
-- [Mars: Everything you need to know about the Red Planet](https://www.space.com/47-mars-the-red-planet-fourth-planet-from-the-sun.html/)
-- [Save over $40 with these Celestron binocular deals on Amazon](https://www.space.com/three-celestron-binoculars-on-sale-amazon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
