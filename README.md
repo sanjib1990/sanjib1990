@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hopin cuts 29% of its staff, just months after its last layoffs](https://techcrunch.com/2022/07/11/hopin-cuts-29-of-its-staff-just-months-after-its-last-layoffs/)
-- [How your company can adopt a usage-based business model like AWS](https://techcrunch.com/2022/07/11/how-your-company-can-adopt-a-usage-based-business-model-like-aws/)
-- [Apple releases the first public beta for iOS 16](https://techcrunch.com/2022/07/11/apple-releases-the-first-public-beta-for-ios-16/)
-- [Oculus Quest 2 Prime Day deal lets you experience the virtual world for less](https://www.space.com/oculus-quest-2-renewed-vr-discount-deal-amazon-prime-day-2022/)
-- [The good and bad news for women founders so far in 2022](https://techcrunch.com/2022/07/11/the-good-and-bad-news-for-women-founders-so-far-in-2022/)
+- [Lego Star Wars Millennium Falcon hyperdrives into 20% Prime Day discount](https://www.space.com/millennium-falcon-deal-save-32-dollars-lego-prime-day-2022/)
+- [Turn your startup’s pricing strategy into a powerful growth lever](https://techcrunch.com/2022/07/11/turn-your-startups-pricing-strategy-into-a-powerful-growth-lever/)
+- [Pluto TV revamps its lineup with a focus on using lifestyle content and game shows to draw in viewers](https://techcrunch.com/2022/07/11/pluto-tv-revamps-its-lineup-with-a-focus-on-using-lifestyle-content-and-game-shows-to-draw-in-viewers/)
+- [Battery recycling could be the next investor darling of the EV era](https://techcrunch.com/2022/07/11/battery-recycling-could-be-the-next-investor-darling-of-the-ev-era/)
+- [Spotify brings real-time lyrics to Google Nest Hub](https://techcrunch.com/2022/07/11/spotify-brings-real-time-lyrics-to-google-nest-hub/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
