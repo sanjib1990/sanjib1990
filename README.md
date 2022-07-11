@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Celestron 114LCM computerized Newtonian telescope: Amazon Prime Day deal](https://www.space.com/celestron-114lcm-computerized-telescope-deal/)
-- [Astronomer Jocelyn Bell Burnell recounts her discovery of pulsars](https://www.space.com/jocelyn-bell-burnell-pulsar-discovery-story/)
-- [Lego is offering double VIP points over Amazon Prime Day event](https://www.space.com/lego-vip-double-points-amazon-prime-day-2022/)
-- [For businesses seeking low-code fintech infrastructure options, there’s a Quiltt for that](https://techcrunch.com/2022/07/11/low-code-fintech-infrastructure-quiltt-seed/)
-- [Online donation platform Change helps charities fundraise in crypto](https://techcrunch.com/2022/07/11/online-donation-platform-change-helps-charities-fundraise-in-crypto/)
+- [Cost cutting, layoffs remain leading startup themes](https://techcrunch.com/2022/07/11/cost-cutting-layoffs-remain-leading-startup-themes/)
+- [PayTalk promises to handle all sorts of payments with voice, but the app has a long way to go](https://techcrunch.com/2022/07/11/paytalk-promises-to-handle-all-sorts-of-payments-with-voice-but-the-app-has-a-long-way-to-go/)
+- [Audience Choice voting for Disrupt roundtables ends this Friday](https://techcrunch.com/2022/07/11/audience-choice-voting-for-disrupt-roundtables-ends-this-friday/)
+- [WhatsApp will now let you use any emoji as a reaction on WhatsApp](https://techcrunch.com/2022/07/11/whatsapp-will-now-let-you-use-any-emoji-as-a-reaction-on-whatsapp/)
+- [Barcelona’s Impress heads towards a $125M Series B round in its bid to digitize orthodontics](https://techcrunch.com/2022/07/11/barcelonas-impress-heads-towards-a-125m-series-b-round-in-its-bid-to-digitize-orthodontics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
