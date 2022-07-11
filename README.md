@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s Mars Life Explorer mission would dig deep to hunt for Red Planet life](https://www.space.com/nasa-mars-life-explorer-concept-mission/)
+- [China deploys deorbiting &#39;drag sail&#39; to aid fight against space junk](https://www.space.com/china-deploys-drag-sail-space-junk/)
+- [NASA&#39;s James Webb Space Telescope will change the way we see our solar system](https://www.space.com/james-webb-space-telescope-reveal-solar-system/)
+- [Save $500 on the Panasonic Lumix S5 camera](https://www.space.com/save-500-dollars-panasonic-lumix-s5-camera-amazon-deal/)
 - [On This Day In Space: July 11, 1979: Abandoned Skylab returns to Earth](https://www.space.com/39251-on-this-day-in-space.html/)
-- [Kadmos, a salary payments platform for migrant workers, raises $29.5M](https://techcrunch.com/2022/07/11/kadmos-a-fintech-that-helps-migrant-workers-get-paid-raises-29-5m/)
-- [Leaked Uber Files reveal history of lawbreaking, lobbying and exploiting violence against drivers](https://techcrunch.com/2022/07/10/leaked-uber-files-reveal-history-of-lawbreaking-lobbying-and-exploiting-violence-against-drivers/)
-- [SpaceX launches 46 Starlink satellites, lands rocket on ship at sea](https://www.space.com/spacex-starlink-sl3-1-launch-rocket-landing/)
-- [Despite layoffs, there’s still a talent crunch in Southeast Asia](https://techcrunch.com/2022/07/10/despite-layoffs-theres-still-a-talent-crunch-in-southeast-asia/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
