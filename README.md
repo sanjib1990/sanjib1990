@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Instagram tests a ‘Live Producer’ tool that lets you go live from a desktop using streaming software](https://techcrunch.com/2022/07/11/instagram-live-producer-tool-that-go-live-desktop-using-streaming-software/)
-- [A NASA telescope aboard a high-altitude balloon will float over the South Pole to study a &#39;star-killer&#39;](https://www.space.com/nasa-balloon-telescope-over-antarctica/)
-- [Microsoft reverses its reversal on blocking Office macros by default](https://techcrunch.com/2022/07/11/microsoft-office-macros-block/)
-- [Klarna confirms $800M raise as valuation drops 85% to $6.7B](https://techcrunch.com/2022/07/11/klarna-confirms-800m-raise-as-valuation-drops-85-to-6-7b/)
-- [TikTok targets small businesses with new ‘Follow Me’ educational program](https://techcrunch.com/2022/07/11/tiktok-targets-small-businesses-with-new-follow-me-educational-program/)
+- [Apple releases the first public beta for iOS 16](https://techcrunch.com/2022/07/11/apple-releases-the-first-public-beta-for-ios-16/)
+- [The good and bad news for women founders so far in 2022](https://techcrunch.com/2022/07/11/the-good-and-bad-news-for-women-founders-so-far-in-2022/)
+- [Take to the skies with this ultimate DJI Air 2S drone combo, now $260 off](https://www.space.com/take-to-the-skies-with-ultimate-dji-air-2s-deal-amazon-prime-day/)
+- [July&#39;s supermoon will shine online — here&#39;s how you can watch for free](https://www.space.com/watch-buck-supermoon-online-webcast-july-2022/)
+- [Google’s Gradient backs Penny to help UK workers merge and manage their pension pots](https://techcrunch.com/2022/07/11/googles-gradient-backs-penny-to-help-uk-workers-merge-and-manage-their-pension-pots/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
