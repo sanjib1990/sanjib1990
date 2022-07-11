@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s Mars Life Explorer mission would dig deep to hunt for Red Planet life](https://www.space.com/nasa-mars-life-explorer-concept-mission/)
-- [China deploys deorbiting &#39;drag sail&#39; to aid fight against space junk](https://www.space.com/china-deploys-drag-sail-space-junk/)
-- [NASA&#39;s James Webb Space Telescope will change the way we see our solar system](https://www.space.com/james-webb-space-telescope-reveal-solar-system/)
-- [Save $500 on the Panasonic Lumix S5 camera](https://www.space.com/save-500-dollars-panasonic-lumix-s5-camera-amazon-deal/)
-- [On This Day In Space: July 11, 1979: Abandoned Skylab returns to Earth](https://www.space.com/39251-on-this-day-in-space.html/)
+- [The Station: Layoffs are coming for the AV world, VW plans ‘big moves’ in China and inside Cruise’s robotaxi outages](https://techcrunch.com/2022/07/11/the-station-layoffs-are-coming-for-the-av-world-vw-plans-big-moves-in-china-and-inside-cruises-robotaxi-outages/)
+- [Unacademy founders take a pay cut, pledge an IPO in two years](https://techcrunch.com/2022/07/11/unacademy-founders-take-a-pay-cut-pledge-an-ipo-in-two-years/)
+- [Pix Moving brings robovans to Japan, eyes DAO-based EV making](https://techcrunch.com/2022/07/11/pix-moving-japan-tis/)
+- [Mars: Everything you need to know about the Red Planet](https://www.space.com/47-mars-the-red-planet-fourth-planet-from-the-sun.html/)
+- [Save over $40 with these Celestron binocular deals on Amazon](https://www.space.com/three-celestron-binoculars-on-sale-amazon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
