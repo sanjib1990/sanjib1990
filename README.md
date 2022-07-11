@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Lego Star Wars Millennium Falcon hyperdrives into 20% Prime Day discount](https://www.space.com/millennium-falcon-deal-save-32-dollars-lego-prime-day-2022/)
-- [Turn your startup’s pricing strategy into a powerful growth lever](https://techcrunch.com/2022/07/11/turn-your-startups-pricing-strategy-into-a-powerful-growth-lever/)
-- [Pluto TV revamps its lineup with a focus on using lifestyle content and game shows to draw in viewers](https://techcrunch.com/2022/07/11/pluto-tv-revamps-its-lineup-with-a-focus-on-using-lifestyle-content-and-game-shows-to-draw-in-viewers/)
-- [Battery recycling could be the next investor darling of the EV era](https://techcrunch.com/2022/07/11/battery-recycling-could-be-the-next-investor-darling-of-the-ev-era/)
-- [Spotify brings real-time lyrics to Google Nest Hub](https://techcrunch.com/2022/07/11/spotify-brings-real-time-lyrics-to-google-nest-hub/)
+- [VR headset deals: Save on Oculus Quest 2 &amp; more in Amazon Prime Day VR deals](https://www.space.com/vr-headset-deals/)
+- [HP Reverb G2 VR Headset levels up your gaming for $80 less this Prime Day](https://www.space.com/hp-reverb-g2-vr-headset-amazon-prime-day-2022/)
+- [&#39;Hot robots&#39; may be necessary for future nuclear space missions](https://www.space.com/fusion-power-hot-robots/)
+- [macOS Ventura’s public beta is here; these are the top features](https://techcrunch.com/2022/07/11/macos-venturas-public-beta-is-here-these-are-the-top-features/)
+- [NASA’s Webb Telescope Is Now Fully Ready for Science](https://blogs.nasa.gov/webb/2022/07/11/nasas-webb-telescope-is-now-fully-ready-for-science/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
