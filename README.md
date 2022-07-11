@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hopin cuts 29% of its staff, just months after its last layoffs](https://techcrunch.com/2022/07/11/hopin-cuts-29-of-its-staff-just-months-after-its-last-layoffs/)
+- [How your company can adopt a usage-based business model like AWS](https://techcrunch.com/2022/07/11/how-your-company-can-adopt-a-usage-based-business-model-like-aws/)
 - [Apple releases the first public beta for iOS 16](https://techcrunch.com/2022/07/11/apple-releases-the-first-public-beta-for-ios-16/)
+- [Oculus Quest 2 Prime Day deal lets you experience the virtual world for less](https://www.space.com/oculus-quest-2-renewed-vr-discount-deal-amazon-prime-day-2022/)
 - [The good and bad news for women founders so far in 2022](https://techcrunch.com/2022/07/11/the-good-and-bad-news-for-women-founders-so-far-in-2022/)
-- [Take to the skies with this ultimate DJI Air 2S drone combo, now $260 off](https://www.space.com/take-to-the-skies-with-ultimate-dji-air-2s-deal-amazon-prime-day/)
-- [July&#39;s supermoon will shine online — here&#39;s how you can watch for free](https://www.space.com/watch-buck-supermoon-online-webcast-july-2022/)
-- [Google’s Gradient backs Penny to help UK workers merge and manage their pension pots](https://techcrunch.com/2022/07/11/googles-gradient-backs-penny-to-help-uk-workers-merge-and-manage-their-pension-pots/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
