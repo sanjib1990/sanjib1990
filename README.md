@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Lego International Space Station soars into 25% Prime Day discount](https://www.space.com/lego-international-space-station-prime-day-2022/)
-- [CERN will launch its first satellite this week on new European rideshare rocket](https://www.space.com/cern-launch-first-satellite-european-rideshare-rocket/)
-- [NASA&#39;s James Webb Space Telescope is ready to begin its epic science mission](https://www.space.com/james-webb-ready-begin-science-mission/)
-- [VR headset deals: Save on Oculus Quest 2 &amp; more in Amazon Prime Day VR deals](https://www.space.com/vr-headset-deals/)
-- [HP Reverb G2 VR Headset levels up your gaming for $80 less this Prime Day](https://www.space.com/hp-reverb-g2-vr-headset-amazon-prime-day-2022/)
+- [Daily Crunch: Raise now, pay later: $800M funding round slashes Klarna’s valuation by 85%](https://techcrunch.com/2022/07/11/daily-crunch-raise-now-pay-later-800m-funding-round-slashes-klarnas-valuation-by-85/)
+- [Max Q: Grounded](https://techcrunch.com/2022/07/11/max-q-grounded/)
+- [Veteran digital health pros found virtual eating disorder care startup](https://techcrunch.com/2022/07/11/veteran-digital-health-pros-found-virtual-eating-disorder-care-startup/)
+- [Anonymous social NGL tops 15M installs, $2.4M in revenue as users complain about being scammed](https://techcrunch.com/2022/07/11/anonymous-social-ngl-tops-15m-installs-2-4m-in-revenue-as-users-complain-about-being-scammed/)
+- [Nanoracks and Gitai team up for second space robotics demo aboard the ISS](https://techcrunch.com/2022/07/11/nanoracks-and-gitai-team-up-for-second-space-robotics-demo-aboard-the-iss/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
