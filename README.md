@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX launches 46 Starlink satellites, lands rocket on ship at sea](https://www.space.com/spacex-starlink-sl3-1-launch-rocket-landing/)
+- [Despite layoffs, there’s still a talent crunch in Southeast Asia](https://techcrunch.com/2022/07/10/despite-layoffs-theres-still-a-talent-crunch-in-southeast-asia/)
 - [Tiger Global to slow startup investments for two quarters, eyes new fund later this year](https://techcrunch.com/2022/07/10/tiger-global-to-slow-down-startup-investments-for-two-quarters-aims-to-raise-new-fund-later-this-year/)
 - [Kids’ finance startup GoHenry marches into Europe with Pixpay acquisition](https://techcrunch.com/2022/07/10/kids-finance-startup-gohenry-marches-into-europe-with-pixpay-acquisition/)
 - [Micromobility is fun, but perhaps that’s all it’ll ever be](https://techcrunch.com/2022/07/10/micromobility-is-fun-but-perhaps-thats-all-itll-ever-be/)
-- [Get ready to connect with speed networking at TC Sessions: Robotics](https://techcrunch.com/2022/07/10/get-ready-to-connect-with-speed-networking-at-tc-sessions-robotics/)
-- [The bull case for startups in the back half of 2022](https://techcrunch.com/2022/07/10/the-bull-case-for-startups-in-the-back-half-of-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
