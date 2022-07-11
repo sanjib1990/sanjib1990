@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Leaked Uber Files reveal history of lawbreaking, lobbying and exploiting violence against drivers](https://techcrunch.com/2022/07/10/leaked-uber-files-reveal-history-of-lawbreaking-lobbying-and-exploiting-violence-against-drivers/)
 - [SpaceX launches 46 Starlink satellites, lands rocket on ship at sea](https://www.space.com/spacex-starlink-sl3-1-launch-rocket-landing/)
 - [Despite layoffs, there’s still a talent crunch in Southeast Asia](https://techcrunch.com/2022/07/10/despite-layoffs-theres-still-a-talent-crunch-in-southeast-asia/)
 - [Tiger Global to slow startup investments for two quarters, eyes new fund later this year](https://techcrunch.com/2022/07/10/tiger-global-to-slow-down-startup-investments-for-two-quarters-aims-to-raise-new-fund-later-this-year/)
 - [Kids’ finance startup GoHenry marches into Europe with Pixpay acquisition](https://techcrunch.com/2022/07/10/kids-finance-startup-gohenry-marches-into-europe-with-pixpay-acquisition/)
-- [Micromobility is fun, but perhaps that’s all it’ll ever be](https://techcrunch.com/2022/07/10/micromobility-is-fun-but-perhaps-thats-all-itll-ever-be/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
