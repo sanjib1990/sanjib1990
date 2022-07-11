@@ -95,10 +95,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Instagram tests a ‘Live Producer’ tool that lets you go live from a desktop using streaming software](https://techcrunch.com/2022/07/11/instagram-live-producer-tool-that-go-live-desktop-using-streaming-software/)
+- [A NASA telescope aboard a high-altitude balloon will float over the South Pole to study a &#39;star-killer&#39;](https://www.space.com/nasa-balloon-telescope-over-antarctica/)
 - [Microsoft reverses its reversal on blocking Office macros by default](https://techcrunch.com/2022/07/11/microsoft-office-macros-block/)
 - [Klarna confirms $800M raise as valuation drops 85% to $6.7B](https://techcrunch.com/2022/07/11/klarna-confirms-800m-raise-as-valuation-drops-85-to-6-7b/)
 - [TikTok targets small businesses with new ‘Follow Me’ educational program](https://techcrunch.com/2022/07/11/tiktok-targets-small-businesses-with-new-follow-me-educational-program/)
-- [Cost cutting, layoffs remain leading startup themes](https://techcrunch.com/2022/07/11/cost-cutting-layoffs-remain-leading-startup-themes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
