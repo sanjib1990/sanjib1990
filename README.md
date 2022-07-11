@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Celestron 114LCM computerized Newtonian telescope: Amazon Prime Day deal](https://www.space.com/celestron-114lcm-computerized-telescope-deal/)
+- [Astronomer Jocelyn Bell Burnell recounts her discovery of pulsars](https://www.space.com/jocelyn-bell-burnell-pulsar-discovery-story/)
+- [Lego is offering double VIP points over Amazon Prime Day event](https://www.space.com/lego-vip-double-points-amazon-prime-day-2022/)
 - [For businesses seeking low-code fintech infrastructure options, there’s a Quiltt for that](https://techcrunch.com/2022/07/11/low-code-fintech-infrastructure-quiltt-seed/)
 - [Online donation platform Change helps charities fundraise in crypto](https://techcrunch.com/2022/07/11/online-donation-platform-change-helps-charities-fundraise-in-crypto/)
-- [Watch President Biden unveil the 1st James Webb Space Telescope science image today!](https://www.space.com/james-webb-space-telescope-science-photos-webcast/)
-- [The Station: Layoffs are coming for the AV world, VW plans ‘big moves’ in China and inside Cruise’s robotaxi outages](https://techcrunch.com/2022/07/11/the-station-layoffs-are-coming-for-the-av-world-vw-plans-big-moves-in-china-and-inside-cruises-robotaxi-outages/)
-- [Unacademy founders take a pay cut, pledge an IPO in two years](https://techcrunch.com/2022/07/11/unacademy-founders-take-a-pay-cut-pledge-an-ipo-in-two-years/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
