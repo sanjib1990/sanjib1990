@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lego International Space Station soars into 25% Prime Day discount](https://www.space.com/lego-international-space-station-prime-day-2022/)
+- [CERN will launch its first satellite this week on new European rideshare rocket](https://www.space.com/cern-launch-first-satellite-european-rideshare-rocket/)
+- [NASA&#39;s James Webb Space Telescope is ready to begin its epic science mission](https://www.space.com/james-webb-ready-begin-science-mission/)
 - [VR headset deals: Save on Oculus Quest 2 &amp; more in Amazon Prime Day VR deals](https://www.space.com/vr-headset-deals/)
 - [HP Reverb G2 VR Headset levels up your gaming for $80 less this Prime Day](https://www.space.com/hp-reverb-g2-vr-headset-amazon-prime-day-2022/)
-- [&#39;Hot robots&#39; may be necessary for future nuclear space missions](https://www.space.com/fusion-power-hot-robots/)
-- [macOS Ventura’s public beta is here; these are the top features](https://techcrunch.com/2022/07/11/macos-venturas-public-beta-is-here-these-are-the-top-features/)
-- [NASA’s Webb Telescope Is Now Fully Ready for Science](https://blogs.nasa.gov/webb/2022/07/11/nasas-webb-telescope-is-now-fully-ready-for-science/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
