@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Instagram tests a ‘Live Producer’ tool that lets you go live from a desktop using streaming software](https://techcrunch.com/2022/07/11/instagram-live-producer-tool-that-go-live-desktop-using-streaming-software/)
+- [Microsoft reverses its reversal on blocking Office macros by default](https://techcrunch.com/2022/07/11/microsoft-office-macros-block/)
+- [Klarna confirms $800M raise as valuation drops 85% to $6.7B](https://techcrunch.com/2022/07/11/klarna-confirms-800m-raise-as-valuation-drops-85-to-6-7b/)
+- [TikTok targets small businesses with new ‘Follow Me’ educational program](https://techcrunch.com/2022/07/11/tiktok-targets-small-businesses-with-new-follow-me-educational-program/)
 - [Cost cutting, layoffs remain leading startup themes](https://techcrunch.com/2022/07/11/cost-cutting-layoffs-remain-leading-startup-themes/)
-- [PayTalk promises to handle all sorts of payments with voice, but the app has a long way to go](https://techcrunch.com/2022/07/11/paytalk-promises-to-handle-all-sorts-of-payments-with-voice-but-the-app-has-a-long-way-to-go/)
-- [Audience Choice voting for Disrupt roundtables ends this Friday](https://techcrunch.com/2022/07/11/audience-choice-voting-for-disrupt-roundtables-ends-this-friday/)
-- [WhatsApp will now let you use any emoji as a reaction on WhatsApp](https://techcrunch.com/2022/07/11/whatsapp-will-now-let-you-use-any-emoji-as-a-reaction-on-whatsapp/)
-- [Barcelona’s Impress heads towards a $125M Series B round in its bid to digitize orthodontics](https://techcrunch.com/2022/07/11/barcelonas-impress-heads-towards-a-125m-series-b-round-in-its-bid-to-digitize-orthodontics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
