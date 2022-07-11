@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Daily Crunch: Raise now, pay later: $800M funding round slashes Klarna’s valuation by 85%](https://techcrunch.com/2022/07/11/daily-crunch-raise-now-pay-later-800m-funding-round-slashes-klarnas-valuation-by-85/)
-- [Max Q: Grounded](https://techcrunch.com/2022/07/11/max-q-grounded/)
-- [Veteran digital health pros found virtual eating disorder care startup](https://techcrunch.com/2022/07/11/veteran-digital-health-pros-found-virtual-eating-disorder-care-startup/)
-- [Anonymous social NGL tops 15M installs, $2.4M in revenue as users complain about being scammed](https://techcrunch.com/2022/07/11/anonymous-social-ngl-tops-15m-installs-2-4m-in-revenue-as-users-complain-about-being-scammed/)
-- [Nanoracks and Gitai team up for second space robotics demo aboard the ISS](https://techcrunch.com/2022/07/11/nanoracks-and-gitai-team-up-for-second-space-robotics-demo-aboard-the-iss/)
+- [The Celestron StarSense Explorer LT 80AZ telescope is discounted 30% for Prime Day](https://www.space.com/celestron-starsense-explorer-lt-80az-prime-day-2022/)
+- [Biden unveils James Webb Space Telescope&#39;s ultradeep view of the universe](https://www.space.com/james-webb-space-telescope-first-photo-biden/)
+- [YouTube ends Lofi Girl’s two-year-long music stream over bogus DMCA warning](https://techcrunch.com/2022/07/11/lofi-girl-takedown-youtube-music-stream-dmca/)
+- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates/)
+- [Gallery: James Webb Space Telescope&#39;s 1st photos](https://www.space.com/james-webb-space-telescope-first-photos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
