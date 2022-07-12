@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Gallery: James Webb Space Telescope&#39;s 1st photos](https://www.space.com/james-webb-space-telescope-first-photos/)
-- [Cheaper than Amazon Prime Day: Save over $600 on the Canon EOS 6D Mark II at Walmart](https://www.space.com/canon-eos-6d-mark-ii-camera-deal/)
-- [Google files counterclaim to Match’s antitrust lawsuit, says Match wants to use its services for free](https://techcrunch.com/2022/07/12/google-files-counterclaim-to-matchs-antitrust-lawsuit-says-match-wants-to-use-its-services-for-free/)
-- [Honda key fob flaw lets hackers remotely unlock and start cars](https://techcrunch.com/2022/07/12/honda-key-fob-flaw-hackers/)
-- [Crypto-focused Multicoin Capital launches $430M venture fund](https://techcrunch.com/2022/07/12/crypto-focused-multicoin-capital-launches-430m-venture-fund/)
+- [M13’s Karl Alomar: 6 strategies for leading startups through a downturn](https://techcrunch.com/2022/07/12/m13s-karl-alomar-6-strategies-for-leading-startups-through-a-downturn/)
+- [YouTube TV now has topped 5 million subscribers and ‘trialers,’ says Google](https://techcrunch.com/2022/07/12/youtube-tv-now-has-topped-5-million-subscribers-and-trialers-says-google/)
+- [May Mobility aims for fully driverless autonomous shuttles by 2023](https://techcrunch.com/2022/07/12/may-mobility-aims-for-driver-out-autonomous-vehicle-operations-by-2023/)
+- [Tecton raises $100M, proving that the MLOps market is still hot](https://techcrunch.com/2022/07/12/tecton-raises-100m-proving-that-the-mlops-market-is-still-hot/)
+- [Sarcos’ Kiva Allgood and Boston Dynamics’ Robert Playter discuss what it takes to put robots to work](https://techcrunch.com/2022/07/12/sarcos-kiva-allgood-and-boston-dynamics-robert-playter-discuss-what-it-takes-to-put-robots-to-work-at-disrupt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
