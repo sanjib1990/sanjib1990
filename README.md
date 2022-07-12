@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Backed by Tiger Global, Intellect is creating culturally-competent mental healthcare for Asia](https://techcrunch.com/2022/07/11/backed-by-tiger-global-intellect-is-creating-culturally-competent-mental-healthcare-for-asia/)
+- [The Lego Star Wars Mandalorian Starfighter is 20% off for Prime Day](https://www.space.com/lego-star-wars-mandalorian-starfighter-prime-day/)
+- [This NIKKOR Z camera lens is at its deepest discount ever for Amazon Prime Day](https://www.space.com/nikkor-z-camera-amazon-prime-day-2022/)
 - [The Celestron StarSense Explorer LT 80AZ telescope is discounted 30% for Prime Day](https://www.space.com/celestron-starsense-explorer-lt-80az-prime-day-2022/)
 - [Biden unveils James Webb Space Telescope&#39;s ultradeep view of the universe](https://www.space.com/james-webb-space-telescope-first-photo-biden/)
-- [YouTube ends Lofi Girl’s two-year-long music stream over bogus DMCA warning](https://techcrunch.com/2022/07/11/lofi-girl-takedown-youtube-music-stream-dmca/)
-- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates/)
-- [Gallery: James Webb Space Telescope&#39;s 1st photos](https://www.space.com/james-webb-space-telescope-first-photos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
