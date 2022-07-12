@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hulu hits record 58 Emmy nominations, underdog Apple TV+ gets 51](https://techcrunch.com/2022/07/12/hulu-hits-record-58-emmy-nominations-underdog-apple-tv-gets-51/)
-- [Magic Leap details pricing for its next augmented reality device](https://techcrunch.com/2022/07/12/magic-leap-details-pricing-for-its-next-augmented-reality-device/)
-- [Hopin’s COO, CFO and chief business officer are out](https://techcrunch.com/2022/07/12/hopins-coo-cfo-and-chief-business-officer-are-out/)
-- [Match Group acquires members-only dating app The League](https://techcrunch.com/2022/07/12/match-group-acquires-members-only-dating-app-the-league/)
-- [Pivoting from tobacco waste to textiles, Circ puts a fresh spin on clothing recycling](https://techcrunch.com/2022/07/12/pivoting-from-tobacco-waste-to-textiles-circ-puts-a-fresh-spin-on-clothing-recycling/)
+- [Rimac begins production of its $2.5 million Nevera hypercar EV](https://techcrunch.com/2022/07/12/rimac-begins-production-of-its-2-5-million-nevera-hypercar-ev/)
+- [Battle of the bridge: Startups struggle to secure runway financing](https://techcrunch.com/2022/07/12/battle-of-the-bridge-startups-struggle-to-secure-runway-financing/)
+- [How the Webb sends its hundred-megapixel images a million miles back to Earth](https://techcrunch.com/2022/07/12/how-james-webb-space-telescope-jwst-sends-images-to-earth/)
+- [Despite falling NFT sales volume, there’s more underlying strength to the market than you’d think](https://techcrunch.com/2022/07/12/despite-falling-nft-sales-volume-theres-more-underlying-strength-to-the-market-than-youd-think/)
+- [Peloton outsources production of its bikes and treadmills amid struggles](https://techcrunch.com/2022/07/12/peloton-outsources-production-of-its-bikes-and-treadmills-amid-struggles/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
