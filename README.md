@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [10 steps for managing layoffs respectfully](https://techcrunch.com/2022/07/12/10-steps-for-managing-layoffs-respectfully/)
-- [Venture capital funding may have slowed, but VC firms have no problems raising new funds](https://techcrunch.com/2022/07/12/venture-capital-funding-new-funds/)
-- [1st James Webb Space Telescope images thrill astronauts, celebs and more](https://www.space.com/james-webb-space-telescope-images-twitter-reactions/)
-- [TechCrunch+ roundup: Pricing strategy, technical due diligence, pitch deck appendix fever](https://techcrunch.com/2022/07/12/techcrunch-roundup-pricing-strategy-technical-due-diligence-pitch-deck-appendix-fever/)
-- [The end of an era: Nikon pulls the plug on its SLR business, reports suggest](https://techcrunch.com/2022/07/12/nikon-slr-womp-womp/)
+- [Scientists pinpoint Martian origin of 4.5 billion-year-old &#39;Black Beauty&#39; meteorite](https://www.space.com/mars-meteorite-origin-identified/)
+- [Watch the skies indoors with incredible Amazon Prime Day star projector deals](https://www.space.com/star-projector-night-sky-deal-hub/)
+- [&#39;Star Trek: Strange New Worlds&#39; first season finale is a labor of love and worthy of a perfect 10](https://www.space.com/star-trek-strange-new-worlds-season-1-episode-10-review/)
+- [Watch Europe&#39;s Vega C rocket launch on debut mission Wednesday morning](https://www.space.com/arianespace-vega-c-debut-launch-preview/)
+- [Amazon Prime Day deals 2022: Savings on Telescopes, Cameras, Star Projectors, Lego, Drones and more](https://www.space.com/amazon-prime-day-space-deals/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
