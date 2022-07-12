@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Conscience VC raises oversubscribed fund for consumer companies rooted in science](https://techcrunch.com/2022/07/12/conscience-vc-raises-oversubscribed-fund-for-consumer-companies-rooted-in-science/)
-- [Fort is working to keep humans safe from industrial robots](https://techcrunch.com/2022/07/12/fort-is-working-to-keep-humans-safe-from-industrial-robots/)
-- [C2 Ventures raises new fund to invest in the “dull, dirty and dangerous”](https://techcrunch.com/2022/07/12/c2-ventures-raises-new-fund-to-invest-in-the-dull-dirty-and-dangerous/)
-- [OpenAI rival AI21 Labs raises $64M to ramp up its AI-powered language services](https://techcrunch.com/2022/07/12/openai-rival-ai21-labs-raises-64m-to-ramp-up-its-ai-powered-language-services/)
-- [SingleStore raises additional $36M to grow its database business](https://techcrunch.com/2022/07/12/singlestore-raises-additional-40m-to-grow-its-database-business/)
+- [Spotify acquired Heardle, the Wordle-inspired music guessing game](https://techcrunch.com/2022/07/12/spotify-acquired-heardle-wordle-music-game/)
+- [Front’s Mathilde Collin and Mural’s Adriana Roche will discuss how to  manage a distributed workforce at Disrupt](https://techcrunch.com/2022/07/12/fronts-mathilde-collin-and-murals-adriana-roche-will-discuss-how-to-manage-a-distributed-workforce-at-disrupt/)
+- [Volkswagen, Audi tap Redwood Materials to recycle its old EV batteries in US](https://techcrunch.com/2022/07/12/redwood-materials-volkswagen-audi-ev-battery-recycling/)
+- [Samsung announces OneUI update for Galaxy Watches with a QWERTY keyboard and assistive features](https://techcrunch.com/2022/07/12/samsung-announces-oneui-update-for-galaxy-watches-with-a-qwerty-keyboard-and-assistive-features/)
+- [Canon EOS Rebel SL3/250D camera bundle deal: Save $320 today](https://www.space.com/canon-eos-rebel-sl3-250d-camera-deal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
