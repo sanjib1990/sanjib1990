@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch Rocket Lab launch the first of two missions for the National Reconnaissance Office](https://techcrunch.com/2022/07/12/watch-rocket-lab-launch-the-first-of-two-missions-for-the-national-reconnaissance-office/)
+- [Markforged acquires Digital Metal for $40M as 3D printing space continues to evolve](https://techcrunch.com/2022/07/12/markforged-buys-digital-metal/)
+- [Durable Elegoo Mars 2 3D printer builds Amazon Prime Day stock for 20% less](https://www.space.com/elegoo-mars-2-3d-printer-amazon-prime-day-2022/)
 - [Daily Crunch: Microsoft lays off hundreds of employees as it kicks off fiscal year 2023](https://techcrunch.com/2022/07/12/daily-crunch-microsoft-lays-off-hundreds-of-employees-as-it-kicks-off-fiscal-year-2023/)
 - [Google exec suggests Instagram and TikTok are eating into Google’s core products, Search and Maps](https://techcrunch.com/2022/07/12/google-exec-suggests-instagram-and-tiktok-are-eating-into-googles-core-products-search-and-maps/)
-- [Amazon gives Dash Cart a makeover and brings the shopping tech to Whole Foods](https://techcrunch.com/2022/07/12/amazon-gives-dash-cart-a-makeover-and-brings-the-shopping-tech-to-whole-foods/)
-- [Tesla laying off 229 Autopilot workers, shuttering San Mateo office, filing confirms](https://techcrunch.com/2022/07/12/tesla-laying-off-229-autopilot-workers-shuttering-san-mateo-office-filing-confirms/)
-- [Amazon Prime Day deals 2022: Savings on Telescopes, Cameras, Star Projectors, Lightsabers, Lego, Drones and more](https://www.space.com/amazon-prime-day-space-deals/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
