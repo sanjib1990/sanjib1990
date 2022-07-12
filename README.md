@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A year in the making, BigScience’s AI language model is finally available](https://techcrunch.com/2022/07/12/a-year-in-the-making-bigsciences-ai-language-model-is-finally-available/)
+- [On This Day In Space: July 12, 1989: Communications satellite Olympus launched](https://www.space.com/39251-on-this-day-in-space.html/)
+- [Save 27% on the Sigma 16mm f/1.4 contemporary Sony E lens on Amazon Prime Day](https://www.space.com/sigma-16mm-lens-amazon-prime-day-deal/)
+- [Should you buy a telescope on Amazon Prime Day?](https://www.space.com/should-you-buy-a-telescope-on-amazon-prime-day/)
 - [Save hundreds on the Sony Alpha A7 III this Amazon Prime Day](https://www.space.com/sony-alpha-a7-III-amazon-prime-day-2022-deal/)
-- [UK Amazon Prime customers save big on these Olympus 8x40 S Binoculars](https://www.space.com/olympus-8x40-s-binoculars-amazon-prime-day-deal/)
-- [Fireball briefly engulfs SpaceX&#39;s huge Starship booster during test](https://www.space.com/spacex-starship-super-heavy-booster-7-engine-fire/)
-- [Scale Computing secures $55M to help companies manage edge infrastructure](https://techcrunch.com/2022/07/12/scale-computing-secures-55m-to-help-companies-manage-edge-infrastructure/)
-- [Wheelocity raises $12 million for its supply chain network for fresh commerce in India](https://techcrunch.com/2022/07/11/wheelocity-raises-12-million-for-its-supply-chain-network-for-fresh-commerce-in-india/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
