@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [10 steps for managing layoffs respectfully](https://techcrunch.com/2022/07/12/10-steps-for-managing-layoffs-respectfully/)
+- [Venture capital funding may have slowed, but VC firms have no problems raising new funds](https://techcrunch.com/2022/07/12/venture-capital-funding-new-funds/)
+- [1st James Webb Space Telescope images thrill astronauts, celebs and more](https://www.space.com/james-webb-space-telescope-images-twitter-reactions/)
+- [TechCrunch+ roundup: Pricing strategy, technical due diligence, pitch deck appendix fever](https://techcrunch.com/2022/07/12/techcrunch-roundup-pricing-strategy-technical-due-diligence-pitch-deck-appendix-fever/)
 - [The end of an era: Nikon pulls the plug on its SLR business, reports suggest](https://techcrunch.com/2022/07/12/nikon-slr-womp-womp/)
-- [Venture capital slowed in Q2 &lpar;but it’s evolving&rpar;](https://techcrunch.com/2022/07/12/venture-capital-slowed-in-q2-but-its-evolving/)
-- [Microsoft lays off a portion of its workforce as part of a ‘realignment’](https://techcrunch.com/2022/07/12/microsoft-lays-off-a-portion-of-its-workforce-as-part-of-a-realignment/)
-- [Instacart shakes up its leadership structure as the market awaits its IPO](https://techcrunch.com/2022/07/12/instacart-shakes-up-its-leadership-structure-as-the-market-awaits-its-ipo/)
-- [Watch Rocket Lab launch US spy satellite early Wednesday](https://www.space.com/rocket-lab-launch-preview-nrol-162-mission/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
