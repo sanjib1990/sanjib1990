@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Scientists pinpoint Martian origin of 4.5 billion-year-old &#39;Black Beauty&#39; meteorite](https://www.space.com/mars-meteorite-origin-identified/)
-- [Watch the skies indoors with incredible Amazon Prime Day star projector deals](https://www.space.com/star-projector-night-sky-deal-hub/)
-- [&#39;Star Trek: Strange New Worlds&#39; first season finale is a labor of love and worthy of a perfect 10](https://www.space.com/star-trek-strange-new-worlds-season-1-episode-10-review/)
-- [Watch Europe&#39;s Vega C rocket launch on debut mission Wednesday morning](https://www.space.com/arianespace-vega-c-debut-launch-preview/)
-- [Amazon Prime Day deals 2022: Savings on Telescopes, Cameras, Star Projectors, Lego, Drones and more](https://www.space.com/amazon-prime-day-space-deals/)
+- [Hulu hits record 58 Emmy nominations, underdog Apple TV+ gets 51](https://techcrunch.com/2022/07/12/hulu-hits-record-58-emmy-nominations-underdog-apple-tv-gets-51/)
+- [Magic Leap details pricing for its next augmented reality device](https://techcrunch.com/2022/07/12/magic-leap-details-pricing-for-its-next-augmented-reality-device/)
+- [Hopin’s COO, CFO and chief business officer are out](https://techcrunch.com/2022/07/12/hopins-coo-cfo-and-chief-business-officer-are-out/)
+- [Match Group acquires members-only dating app The League](https://techcrunch.com/2022/07/12/match-group-acquires-members-only-dating-app-the-league/)
+- [Pivoting from tobacco waste to textiles, Circ puts a fresh spin on clothing recycling](https://techcrunch.com/2022/07/12/pivoting-from-tobacco-waste-to-textiles-circ-puts-a-fresh-spin-on-clothing-recycling/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
