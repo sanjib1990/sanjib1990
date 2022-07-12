@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Rimac begins production of its $2.5 million Nevera hypercar EV](https://techcrunch.com/2022/07/12/rimac-begins-production-of-its-2-5-million-nevera-hypercar-ev/)
-- [Battle of the bridge: Startups struggle to secure runway financing](https://techcrunch.com/2022/07/12/battle-of-the-bridge-startups-struggle-to-secure-runway-financing/)
-- [How the Webb sends its hundred-megapixel images a million miles back to Earth](https://techcrunch.com/2022/07/12/how-james-webb-space-telescope-jwst-sends-images-to-earth/)
-- [Despite falling NFT sales volume, there’s more underlying strength to the market than you’d think](https://techcrunch.com/2022/07/12/despite-falling-nft-sales-volume-theres-more-underlying-strength-to-the-market-than-youd-think/)
-- [Peloton outsources production of its bikes and treadmills amid struggles](https://techcrunch.com/2022/07/12/peloton-outsources-production-of-its-bikes-and-treadmills-amid-struggles/)
+- [Daily Crunch: Microsoft lays off hundreds of employees as it kicks off fiscal year 2023](https://techcrunch.com/2022/07/12/daily-crunch-microsoft-lays-off-hundreds-of-employees-as-it-kicks-off-fiscal-year-2023/)
+- [Google exec suggests Instagram and TikTok are eating into Google’s core products, Search and Maps](https://techcrunch.com/2022/07/12/google-exec-suggests-instagram-and-tiktok-are-eating-into-googles-core-products-search-and-maps/)
+- [Amazon gives Dash Cart a makeover and brings the shopping tech to Whole Foods](https://techcrunch.com/2022/07/12/amazon-gives-dash-cart-a-makeover-and-brings-the-shopping-tech-to-whole-foods/)
+- [Tesla laying off 229 Autopilot workers, shuttering San Mateo office, filing confirms](https://techcrunch.com/2022/07/12/tesla-laying-off-229-autopilot-workers-shuttering-san-mateo-office-filing-confirms/)
+- [Amazon Prime Day deals 2022: Savings on Telescopes, Cameras, Star Projectors, Lightsabers, Lego, Drones and more](https://www.space.com/amazon-prime-day-space-deals/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
