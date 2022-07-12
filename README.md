@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Cathay Innovation launches third multi-stage startup fund at $1B](https://techcrunch.com/2022/07/12/cathay-innovation-launches-third-multi-stage-startup-fund-at-1b/)
-- [Perseverance rover scouts for Mars Sample Return mission landing sites](https://www.space.com/nasa-perseverance-mars-rover-sample-return-lander-sites/)
-- [This monster black hole is spinning much more slowly than others. Scientists want to know why.](https://www.space.com/supermassive-black-hole-spinning-very-slowly/)
-- [Pluto&#39;s moon Charon sports a red polar cap that forms as seasons change](https://www.space.com/pluto-moon-charon-red-cap-tholins/)
-- [&#39;The Orville&#39; Season 3 episode 6 puts poor Malloy through an emotional wringer](https://www.space.com/the-orville-season-3-episode-6-review/)
+- [Watch Live: The James Webb Space Telescope reveals its views of the universe today](https://www.space.com/james-webb-space-telescope-science-photos-webcast/)
+- [SpaceX’s Starship booster engines explode in test gone wrong](https://techcrunch.com/2022/07/12/spacexs-starship-booster-engines-explode-in-test-gone-wrong/)
+- [Blast off into a stellar 20% discount on this LEGO Star Wars Imperial Shuttle kit](https://www.space.com/save-20-percent-on-lego-star-wars-imperial-shuttle-prime-day-2022-deal/)
+- [Twitter lawyers say Musk’s termination of the deal is “invalid and wrongful”](https://techcrunch.com/2022/07/12/twitter-lawyers-say-musks-termination-of-the-deal-is-invalid-and-wrongful/)
+- [Today: Astronomers save over $100 on Celestron SkyMaster Pro 20x80 binoculars](https://www.space.com/celestron-skymaster-pro-20x80-binoculars-amazon-prime-day-deal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
