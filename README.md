@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Save hundreds on the Sony Alpha A7 III this Amazon Prime Day](https://www.space.com/sony-alpha-a7-III-amazon-prime-day-2022-deal/)
+- [UK Amazon Prime customers save big on these Olympus 8x40 S Binoculars](https://www.space.com/olympus-8x40-s-binoculars-amazon-prime-day-deal/)
+- [Fireball briefly engulfs SpaceX&#39;s huge Starship booster during test](https://www.space.com/spacex-starship-super-heavy-booster-7-engine-fire/)
 - [Scale Computing secures $55M to help companies manage edge infrastructure](https://techcrunch.com/2022/07/12/scale-computing-secures-55m-to-help-companies-manage-edge-infrastructure/)
 - [Wheelocity raises $12 million for its supply chain network for fresh commerce in India](https://techcrunch.com/2022/07/11/wheelocity-raises-12-million-for-its-supply-chain-network-for-fresh-commerce-in-india/)
-- [Wefox grabs $400M at $4.5B valuation to buck the insurtech downturn trend](https://techcrunch.com/2022/07/11/wefox-grabs-400m-at-4-5b-valuation-to-buck-the-insurtech-downturn-trend/)
-- [Children’s rights groups call out TikTok’s ‘design discrimination’](https://techcrunch.com/2022/07/11/tiktok-fairplay-child-safety-report/)
-- [Linktree’s new mobile app allows users to manage their pages on the go](https://techcrunch.com/2022/07/11/linktrees-mobile-app-launch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
