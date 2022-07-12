@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [M13’s Karl Alomar: 6 strategies for leading startups through a downturn](https://techcrunch.com/2022/07/12/m13s-karl-alomar-6-strategies-for-leading-startups-through-a-downturn/)
-- [YouTube TV now has topped 5 million subscribers and ‘trialers,’ says Google](https://techcrunch.com/2022/07/12/youtube-tv-now-has-topped-5-million-subscribers-and-trialers-says-google/)
-- [May Mobility aims for fully driverless autonomous shuttles by 2023](https://techcrunch.com/2022/07/12/may-mobility-aims-for-driver-out-autonomous-vehicle-operations-by-2023/)
-- [Tecton raises $100M, proving that the MLOps market is still hot](https://techcrunch.com/2022/07/12/tecton-raises-100m-proving-that-the-mlops-market-is-still-hot/)
-- [Sarcos’ Kiva Allgood and Boston Dynamics’ Robert Playter discuss what it takes to put robots to work](https://techcrunch.com/2022/07/12/sarcos-kiva-allgood-and-boston-dynamics-robert-playter-discuss-what-it-takes-to-put-robots-to-work-at-disrupt/)
+- [The end of an era: Nikon pulls the plug on its SLR business, reports suggest](https://techcrunch.com/2022/07/12/nikon-slr-womp-womp/)
+- [Venture capital slowed in Q2 &lpar;but it’s evolving&rpar;](https://techcrunch.com/2022/07/12/venture-capital-slowed-in-q2-but-its-evolving/)
+- [Microsoft lays off a portion of its workforce as part of a ‘realignment’](https://techcrunch.com/2022/07/12/microsoft-lays-off-a-portion-of-its-workforce-as-part-of-a-realignment/)
+- [Instacart shakes up its leadership structure as the market awaits its IPO](https://techcrunch.com/2022/07/12/instacart-shakes-up-its-leadership-structure-as-the-market-awaits-its-ipo/)
+- [Watch Rocket Lab launch US spy satellite early Wednesday](https://www.space.com/rocket-lab-launch-preview-nrol-162-mission/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
