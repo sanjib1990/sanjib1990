@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lightspeed raises $500 million for its new India and Southeast Asia fund](https://techcrunch.com/2022/07/12/lightspeed-raises-500-million-for-its-new-india-and-southeast-asia-fund/)
+- [Spotify is expanding video podcast publishing to creators in six more countries](https://techcrunch.com/2022/07/12/spotify-is-expanding-video-podcast-publishing-to-creators-in-six-more-countries/)
+- [Hearth Display replaces your whiteboard with a 27-inch display for family task management](https://techcrunch.com/2022/07/12/hearth-display-replaces-your-whiteboard-with-a-27-inch-display-for-family-task-management/)
 - [Watch Live: The James Webb Space Telescope reveals its views of the universe today](https://www.space.com/james-webb-space-telescope-science-photos-webcast/)
 - [SpaceX’s Starship booster engines explode in test gone wrong](https://techcrunch.com/2022/07/12/spacexs-starship-booster-engines-explode-in-test-gone-wrong/)
-- [Blast off into a stellar 20% discount on this LEGO Star Wars Imperial Shuttle kit](https://www.space.com/save-20-percent-on-lego-star-wars-imperial-shuttle-prime-day-2022-deal/)
-- [Twitter lawyers say Musk’s termination of the deal is “invalid and wrongful”](https://techcrunch.com/2022/07/12/twitter-lawyers-say-musks-termination-of-the-deal-is-invalid-and-wrongful/)
-- [Today: Astronomers save over $100 on Celestron SkyMaster Pro 20x80 binoculars](https://www.space.com/celestron-skymaster-pro-20x80-binoculars-amazon-prime-day-deal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
