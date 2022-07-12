@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Lightspeed raises $500 million for its new India and Southeast Asia fund](https://techcrunch.com/2022/07/12/lightspeed-raises-500-million-for-its-new-india-and-southeast-asia-fund/)
-- [Spotify is expanding video podcast publishing to creators in six more countries](https://techcrunch.com/2022/07/12/spotify-is-expanding-video-podcast-publishing-to-creators-in-six-more-countries/)
-- [Hearth Display replaces your whiteboard with a 27-inch display for family task management](https://techcrunch.com/2022/07/12/hearth-display-replaces-your-whiteboard-with-a-27-inch-display-for-family-task-management/)
-- [Watch Live: The James Webb Space Telescope reveals its views of the universe today](https://www.space.com/james-webb-space-telescope-science-photos-webcast/)
-- [SpaceX’s Starship booster engines explode in test gone wrong](https://techcrunch.com/2022/07/12/spacexs-starship-booster-engines-explode-in-test-gone-wrong/)
+- [Conscience VC raises oversubscribed fund for consumer companies rooted in science](https://techcrunch.com/2022/07/12/conscience-vc-raises-oversubscribed-fund-for-consumer-companies-rooted-in-science/)
+- [Fort is working to keep humans safe from industrial robots](https://techcrunch.com/2022/07/12/fort-is-working-to-keep-humans-safe-from-industrial-robots/)
+- [C2 Ventures raises new fund to invest in the “dull, dirty and dangerous”](https://techcrunch.com/2022/07/12/c2-ventures-raises-new-fund-to-invest-in-the-dull-dirty-and-dangerous/)
+- [OpenAI rival AI21 Labs raises $64M to ramp up its AI-powered language services](https://techcrunch.com/2022/07/12/openai-rival-ai21-labs-raises-64m-to-ramp-up-its-ai-powered-language-services/)
+- [SingleStore raises additional $36M to grow its database business](https://techcrunch.com/2022/07/12/singlestore-raises-additional-40m-to-grow-its-database-business/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
