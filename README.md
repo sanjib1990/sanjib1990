@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Wefox grabs $400M at $4.5B valuation to buck the insurtech downturn trend](https://techcrunch.com/2022/07/11/wefox-grabs-400m-at-4-5b-valuation-to-buck-the-insurtech-downturn-trend/)
+- [Children’s rights groups call out TikTok’s ‘design discrimination’](https://techcrunch.com/2022/07/11/tiktok-fairplay-child-safety-report/)
+- [Linktree’s new mobile app allows users to manage their pages on the go](https://techcrunch.com/2022/07/11/linktrees-mobile-app-launch/)
 - [Backed by Tiger Global, Intellect is creating culturally-competent mental healthcare for Asia](https://techcrunch.com/2022/07/11/backed-by-tiger-global-intellect-is-creating-culturally-competent-mental-healthcare-for-asia/)
 - [The Lego Star Wars Mandalorian Starfighter is 20% off for Prime Day](https://www.space.com/lego-star-wars-mandalorian-starfighter-prime-day/)
-- [This NIKKOR Z camera lens is at its deepest discount ever for Amazon Prime Day](https://www.space.com/nikkor-z-camera-amazon-prime-day-2022/)
-- [The Celestron StarSense Explorer LT 80AZ telescope is discounted 30% for Prime Day](https://www.space.com/celestron-starsense-explorer-lt-80az-prime-day-2022/)
-- [Biden unveils James Webb Space Telescope&#39;s ultradeep view of the universe](https://www.space.com/james-webb-space-telescope-first-photo-biden/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
