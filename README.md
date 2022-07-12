@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [A year in the making, BigScience’s AI language model is finally available](https://techcrunch.com/2022/07/12/a-year-in-the-making-bigsciences-ai-language-model-is-finally-available/)
-- [On This Day In Space: July 12, 1989: Communications satellite Olympus launched](https://www.space.com/39251-on-this-day-in-space.html/)
-- [Save 27% on the Sigma 16mm f/1.4 contemporary Sony E lens on Amazon Prime Day](https://www.space.com/sigma-16mm-lens-amazon-prime-day-deal/)
-- [Should you buy a telescope on Amazon Prime Day?](https://www.space.com/should-you-buy-a-telescope-on-amazon-prime-day/)
-- [Save hundreds on the Sony Alpha A7 III this Amazon Prime Day](https://www.space.com/sony-alpha-a7-III-amazon-prime-day-2022-deal/)
+- [Cathay Innovation launches third multi-stage startup fund at $1B](https://techcrunch.com/2022/07/12/cathay-innovation-launches-third-multi-stage-startup-fund-at-1b/)
+- [Perseverance rover scouts for Mars Sample Return mission landing sites](https://www.space.com/nasa-perseverance-mars-rover-sample-return-lander-sites/)
+- [This monster black hole is spinning much more slowly than others. Scientists want to know why.](https://www.space.com/supermassive-black-hole-spinning-very-slowly/)
+- [Pluto&#39;s moon Charon sports a red polar cap that forms as seasons change](https://www.space.com/pluto-moon-charon-red-cap-tholins/)
+- [&#39;The Orville&#39; Season 3 episode 6 puts poor Malloy through an emotional wringer](https://www.space.com/the-orville-season-3-episode-6-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
