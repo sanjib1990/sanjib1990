@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google tells staff to act ‘more entrepreneurial.’ Translation: Work harder, or else](https://techcrunch.com/2022/07/12/google-slow-hiring-tech-consolidation/)
 - [Twitter v. Elon brings us a meme-driven lawsuit for the books](https://techcrunch.com/2022/07/12/elon-musk-lawsuit-memes-twitter-acquisition/)
 - [This HTC Vive Cosmos Elite VR headset deal simulates the universe for Amazon Prime Day](https://www.space.com/htc-vive-cosmos-elite-vr-headset-amazon-prime-day-deal/)
 - [What the James Webb Space Telescope’s first images tell us about the universe](https://techcrunch.com/2022/07/12/what-the-james-webb-space-telescopes-first-images-tell-us-about-the-universe/)
 - [Watch Rocket Lab launch the first of two missions for the National Reconnaissance Office](https://techcrunch.com/2022/07/12/watch-rocket-lab-launch-the-first-of-two-missions-for-the-national-reconnaissance-office/)
-- [Markforged acquires Digital Metal for $40M as 3D printing space continues to evolve](https://techcrunch.com/2022/07/12/markforged-buys-digital-metal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
