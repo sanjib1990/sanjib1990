@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Deci lands $25M for tech that makes AI models more efficient](https://techcrunch.com/2022/07/13/deci-lands-25m-for-tech-that-makes-ai-models-more-efficient/)
-- [Sources: Unity and Ironsource are merging in a big consolidation play for gaming and interactive content](https://techcrunch.com/2022/07/13/sources-ironsource-and-unity-are-merging-in-a-big-consolidation-play-for-gaming-and-interactive-content/)
-- [SendSprint, by ex-Flutterwave executive, hits market with $5 flat fee for all international money transfers](https://techcrunch.com/2022/07/13/sendsprint-by-ex-flutterwave-executive-hits-market-with-5-flat-fee-for-all-international-money-transfers/)
-- [Supermoon alert: The biggest full moon of 2022 rises tonight](https://www.space.com/july-full-moon-supermoon-rises-tonight-2022/)
-- [James Webb Space Telescope documentary premieres tonight, complete with heralded new images](https://www.space.com/james-webb-space-telescope-pbs-documentary/)
+- [Sony A7R IV camera deal: save over $500 this Amazon Prime Day](https://www.space.com/sony-a7r-iv-camera-deal-amazon-prime-day-save-500/)
+- [DeltaStream secures cash to build real-time streaming databases](https://techcrunch.com/2022/07/13/deltastream-lands-10m-to-build-real-time-streaming-databases/)
+- [Long-time Bitcoin bull Anthony Pompliano launches crypto hiring firm Inflection Points with $12.6M raise](https://techcrunch.com/2022/07/13/long-time-bitcoin-bull-anthony-pompliano-launches-crypto-hiring-firm-inflection-points-with-12-6m-raise/)
+- [Fly away with a deal on Holy Stone drones, 30% off in Prime Day sales](https://www.space.com/holy-stone-amazon-prime-day-drone-deals-2022/)
+- [Prime Day 3D printer deal: Save 27% on Elegoo Saturn &amp; Saturn S resin printers](https://www.space.com/elegoo-saturn-prime-day-deal-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
