@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Deci lands $25M for tech that makes AI models more efficient](https://techcrunch.com/2022/07/13/deci-lands-25m-for-tech-that-makes-ai-models-more-efficient/)
+- [Sources: Unity and Ironsource are merging in a big consolidation play for gaming and interactive content](https://techcrunch.com/2022/07/13/sources-ironsource-and-unity-are-merging-in-a-big-consolidation-play-for-gaming-and-interactive-content/)
 - [SendSprint, by ex-Flutterwave executive, hits market with $5 flat fee for all international money transfers](https://techcrunch.com/2022/07/13/sendsprint-by-ex-flutterwave-executive-hits-market-with-5-flat-fee-for-all-international-money-transfers/)
-- [Snap eyes adding NFTs as AR filters in Snapchat](https://techcrunch.com/2022/07/13/snap-eyes-adding-nfts-as-ar-filters-in-snapchat/)
-- [On This Day In Space: July 13, 1969: Soviet Union launches Luna 15 mission to the moon](https://www.space.com/39251-on-this-day-in-space.html/)
-- [Sri Lanka central bank warns against use of cryptocurrency amid economic crisis](https://techcrunch.com/2022/07/13/sri-lanka-central-bank-warns-against-use-of-cryptocurrency-amid-economic-crisis/)
-- [Lime has built its own camera-based sidewalk detection technology](https://techcrunch.com/2022/07/13/lime-has-built-its-own-camera-based-sidewalk-detection-technology/)
+- [Supermoon alert: The biggest full moon of 2022 rises tonight](https://www.space.com/july-full-moon-supermoon-rises-tonight-2022/)
+- [James Webb Space Telescope documentary premieres tonight, complete with heralded new images](https://www.space.com/james-webb-space-telescope-pbs-documentary/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
