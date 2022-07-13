@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Persistent Energy raises $10M to grow its clean-tech venture building business in Africa](https://techcrunch.com/2022/07/12/persistent-energy-raises-10m-to-grow-its-clean-tech-venture-building-business-in-africa/)
+- [A robot pony maker backed by Chinese EV giant Xpeng raises $100M](https://techcrunch.com/2022/07/12/china-ev-xpeng-100m-robot-ponies/)
 - [Google tells staff to act ‘more entrepreneurial.’ Translation: Work harder, or else](https://techcrunch.com/2022/07/12/google-slow-hiring-tech-consolidation/)
 - [Twitter v. Elon brings us a meme-driven lawsuit for the books](https://techcrunch.com/2022/07/12/elon-musk-lawsuit-memes-twitter-acquisition/)
 - [This HTC Vive Cosmos Elite VR headset deal simulates the universe for Amazon Prime Day](https://www.space.com/htc-vive-cosmos-elite-vr-headset-amazon-prime-day-deal/)
-- [What the James Webb Space Telescope’s first images tell us about the universe](https://techcrunch.com/2022/07/12/what-the-james-webb-space-telescopes-first-images-tell-us-about-the-universe/)
-- [Watch Rocket Lab launch the first of two missions for the National Reconnaissance Office](https://techcrunch.com/2022/07/12/watch-rocket-lab-launch-the-first-of-two-missions-for-the-national-reconnaissance-office/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
