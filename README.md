@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla loses top AI executive who led Autopilot vision team](https://techcrunch.com/2022/07/13/tesla-loses-top-ai-executive-who-led-autopilot-vision-team/)
+- [Uber sued by 550 women and counting over sexual assaults by drivers](https://techcrunch.com/2022/07/13/uber-sued-by-550-women-and-counting-over-sexual-assaults-by-drivers/)
+- [Panasonic to build $4 billion EV battery plant in Kansas](https://techcrunch.com/2022/07/13/panasonic-to-build-4-billion-ev-battery-plant-in-kansas/)
+- [Arrival to slash costs, cut up to 30% of workforce to meet on EV van production target](https://techcrunch.com/2022/07/13/arrival-to-slash-costs-cut-up-to-30-of-workforce-to-meet-on-ev-van-production-target/)
 - [Daily Crunch: Interactive gaming developer Unity merges with app monetization platform ironSource](https://techcrunch.com/2022/07/13/daily-crunch-interactive-gaming-developer-unity-merges-with-app-monetization-platform-ironsource/)
-- [A Twitter test will remind you to add alt text to images](https://techcrunch.com/2022/07/13/twitter-alt-text-reminder-image-description-test/)
-- [Meet the newest crypto builders from web3 accelerator Alliance DAO’s demo day](https://techcrunch.com/2022/07/13/meet-the-newest-crypto-builders-from-web3-accelerator-alliance-daos-demo-day/)
-- [Europe ending cooperation with Russia on life-hunting Mars rover](https://www.space.com/europe-ends-cooperation-russia-exomars-rover/)
-- [Tonal just shed over a third of staff to help it become a ‘self-sustaining and profitable business’](https://techcrunch.com/2022/07/13/tonal-just-shed-over-a-third-of-staff-to-help-it-become-a-self-sustaining-and-profitable-business/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
