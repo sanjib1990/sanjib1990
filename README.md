@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Disney Plus unveils trailer for new 6-part docuseries honoring Industrial Light &amp; Magic](https://www.space.com/star-wars-industrial-light-and-magic-documentary/)
-- [‘Elden Ring’ gaming giant Bandai Namco says hackers may have stolen customer data](https://techcrunch.com/2022/07/13/bandai-namco-data-stolen/)
-- [The next big emoji update may include a moose, a goose, pink heart, and wireless sign](https://techcrunch.com/2022/07/13/the-next-big-emoji-update-may-include-a-moose-a-goose-pink-heart-and-wireless-sign/)
-- [Syrup Tech bags $6.3M to develop some sweet inventory-planning software](https://techcrunch.com/2022/07/13/syrup-tech-6-3m-inventory-planning-software/)
-- [Japan’s SmartBank raises $20M Series A for its prepaid card and finance app](https://techcrunch.com/2022/07/13/japans-smartbank-raises-20m-series-a-for-its-prepaid-card-and-finance-app/)
+- [Meta’s Ray-Ban Stories now let users make calls and send messages with WhatsApp](https://techcrunch.com/2022/07/13/meta-hands-free-features-ray-ban-stories-whatsapp/)
+- [Polestar on track to sell 50,000 EVs in 2022](https://techcrunch.com/2022/07/13/polestar-on-track-to-sell-50000-evs-in-2022/)
+- [Capture the night sky with the Nikon Z fc camera, now $100 off at Walmart this Prime Day](https://www.space.com/nikon-z-fc-prime-day-deal-save-over-100-dollars/)
+- [These SVBONY telescope Prime Day deals are out of this world: up to $140 off](https://www.space.com/svbony-503-telescope-deals-amazon-prime-day/)
+- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
