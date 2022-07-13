@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Balloon-borne telescope lifts off to study black holes and neutron stars](https://www.space.com/balloon-telescope-xl-calibur-x-rays-black-holes/)
-- [This Gskyer refractor telescope is $70 off on Amazon Prime Day](https://www.space.com/amazon-prime-day-gskyer-telescope-save-70-dollars/)
-- [July&#39;s supermoon will shine online tonight — here&#39;s how you can watch for free](https://www.space.com/watch-buck-supermoon-online-webcast-july-2022/)
-- [Amazon’s Ring gave a record amount of doorbell footage to the government in 2021](https://techcrunch.com/2022/07/13/amazon-ring-video-footage-government/)
-- [Sony A7R IV camera deal: save over $500 this Amazon Prime Day](https://www.space.com/sony-a7r-iv-camera-deal-amazon-prime-day-save-500/)
+- [Disney Plus unveils trailer for new 6-part docuseries honoring Industrial Light &amp; Magic](https://www.space.com/star-wars-industrial-light-and-magic-documentary/)
+- [‘Elden Ring’ gaming giant Bandai Namco says hackers may have stolen customer data](https://techcrunch.com/2022/07/13/bandai-namco-data-stolen/)
+- [The next big emoji update may include a moose, a goose, pink heart, and wireless sign](https://techcrunch.com/2022/07/13/the-next-big-emoji-update-may-include-a-moose-a-goose-pink-heart-and-wireless-sign/)
+- [Syrup Tech bags $6.3M to develop some sweet inventory-planning software](https://techcrunch.com/2022/07/13/syrup-tech-6-3m-inventory-planning-software/)
+- [Japan’s SmartBank raises $20M Series A for its prepaid card and finance app](https://techcrunch.com/2022/07/13/japans-smartbank-raises-20m-series-a-for-its-prepaid-card-and-finance-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
