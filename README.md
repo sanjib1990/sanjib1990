@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Space.com&#39;s top 20 Prime Day deals: telescopes, binoculars, cameras and more](https://www.space.com/top-20-amazon-prime-day-deals-telescopes-binoculars-cameras-star-projectors/)
-- [Match expands Tinder’s free background checks to two more dating apps](https://techcrunch.com/2022/07/13/match-expands-tinders-free-background-checks-to-two-more-dating-apps/)
-- [Snag this ultimate DJI Air 2S drone combo at $260 off before it takes flight forever](https://www.space.com/take-to-the-skies-with-ultimate-dji-air-2s-deal-amazon-prime-day/)
-- [Last-chance Amazon Prime Day deals 2022: Savings on Telescopes, Cameras, Star Projectors, Lightsabers, Lego, Drones, VR Headsets and more](https://www.space.com/amazon-prime-day-space-deals/)
-- [Perseverance Mars rover collects its 10th rock sample](https://www.space.com/perseverance-mars-sample-ten-collected/)
+- [5 investors discuss Latin America’s symbiotic relationship with crypto](https://techcrunch.com/2022/07/13/5-investors-discuss-latin-americas-symbiotic-relationship-with-crypto/)
+- [5 investors explain why Latin America is poised to weather the crypto winter](https://techcrunch.com/2022/07/13/5-investors-explain-why-latin-america-is-poised-to-weather-the-crypto-winter/)
+- [Carepatron is passionate about helping solo practitioners and small healthcare practices](https://techcrunch.com/2022/07/13/carepatron-is-passionate-about-helping-solo-practitioners-and-small-healthcare-practices/)
+- [Red lightning: The electrifying weather phenomenon explained](https://www.space.com/red-lightning/)
+- [Apply to the Startup Battlefield 200 and be a Disrupt VIP](https://techcrunch.com/2022/07/13/apply-to-the-startup-battlefield-200-and-be-a-disrupt-vip/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
