@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [5 investors discuss Latin America’s symbiotic relationship with crypto](https://techcrunch.com/2022/07/13/5-investors-discuss-latin-americas-symbiotic-relationship-with-crypto/)
-- [5 investors explain why Latin America is poised to weather the crypto winter](https://techcrunch.com/2022/07/13/5-investors-explain-why-latin-america-is-poised-to-weather-the-crypto-winter/)
-- [Carepatron is passionate about helping solo practitioners and small healthcare practices](https://techcrunch.com/2022/07/13/carepatron-is-passionate-about-helping-solo-practitioners-and-small-healthcare-practices/)
-- [Red lightning: The electrifying weather phenomenon explained](https://www.space.com/red-lightning/)
-- [Apply to the Startup Battlefield 200 and be a Disrupt VIP](https://techcrunch.com/2022/07/13/apply-to-the-startup-battlefield-200-and-be-a-disrupt-vip/)
+- [Nikon says wait! We are still selling SLRs!](https://techcrunch.com/2022/07/13/wait-lol-no-we-are-still-here-says-nikon/)
+- [Instagram launches its creator marketplace on an invite-only basis](https://techcrunch.com/2022/07/13/instagram-creator-marketplace/)
+- [The US government is digging into NFTs’ impact on intellectual property](https://techcrunch.com/2022/07/13/the-us-government-is-digging-into-nfts-impact-on-intellectual-property/)
+- [Signaling tough times ahead, ChowNow lays off employees](https://techcrunch.com/2022/07/13/signaling-tough-times-ahead-chownow-lays-off-employees/)
+- [Student founders can win big at TechCrunch Disrupt](https://techcrunch.com/2022/07/13/student-founders-can-win-big-at-techcrunch-disrupt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
