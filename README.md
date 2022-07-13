@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SendSprint, by ex-Flutterwave executive, hits market with $5 flat fee for all international money transfers](https://techcrunch.com/2022/07/13/sendsprint-by-ex-flutterwave-executive-hits-market-with-5-flat-fee-for-all-international-money-transfers/)
 - [Snap eyes adding NFTs as AR filters in Snapchat](https://techcrunch.com/2022/07/13/snap-eyes-adding-nfts-as-ar-filters-in-snapchat/)
 - [On This Day In Space: July 13, 1969: Soviet Union launches Luna 15 mission to the moon](https://www.space.com/39251-on-this-day-in-space.html/)
 - [Sri Lanka central bank warns against use of cryptocurrency amid economic crisis](https://techcrunch.com/2022/07/13/sri-lanka-central-bank-warns-against-use-of-cryptocurrency-amid-economic-crisis/)
 - [Lime has built its own camera-based sidewalk detection technology](https://techcrunch.com/2022/07/13/lime-has-built-its-own-camera-based-sidewalk-detection-technology/)
-- [TikTok to roll out content filters and maturity ratings in pledge to make app safer](https://techcrunch.com/2022/07/13/tiktok-to-roll-out-content-filters-and-maturity-ratings-in-pledge-to-make-app-safer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
