@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Europe ending cooperation with Russia on life-hunting Mars rover](https://www.space.com/europe-ends-cooperation-russia-exomars-rover/)
+- [How galaxies form: Theories, variants and growth](https://www.space.com/how-galaxies-form/)
 - [Nikon says wait! We are still selling SLRs!](https://techcrunch.com/2022/07/13/wait-lol-no-we-are-still-here-says-nikon/)
 - [Instagram launches its creator marketplace on an invite-only basis](https://techcrunch.com/2022/07/13/instagram-creator-marketplace/)
 - [The US government is digging into NFTs’ impact on intellectual property](https://techcrunch.com/2022/07/13/the-us-government-is-digging-into-nfts-impact-on-intellectual-property/)
-- [Signaling tough times ahead, ChowNow lays off employees](https://techcrunch.com/2022/07/13/signaling-tough-times-ahead-chownow-lays-off-employees/)
-- [Student founders can win big at TechCrunch Disrupt](https://techcrunch.com/2022/07/13/student-founders-can-win-big-at-techcrunch-disrupt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
