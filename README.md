@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Booz Allen Hamilton launches $100M corporate venture arm focused on early-stage startups](https://techcrunch.com/2022/07/13/booz-allen-hamilton-launches-100m-corporate-venture-arm-focused-on-early-stage-startups/)
-- [Dear Sophie: Questions about green cards and EB-2 priority dates](https://techcrunch.com/2022/07/13/dear-sophie-questions-about-green-cards-and-eb-2-priority-dates/)
-- [Vertical farming founder is reimagining agriculture from the ground up](https://techcrunch.com/2022/07/13/bowery-farming-found-podcast/)
-- [Meet the all-electric RV startup steered by Tesla alumni](https://techcrunch.com/2022/07/13/meet-the-all-electric-rv-startup-steered-by-tesla-alumni/)
-- [Last chance! Lego International Space Station soars with 25% Prime Day discount](https://www.space.com/lego-international-space-station-prime-day-2022/)
+- [Space.com&#39;s top 20 Prime Day deals: telescopes, binoculars, cameras and more](https://www.space.com/top-20-amazon-prime-day-deals-telescopes-binoculars-cameras-star-projectors/)
+- [Match expands Tinder’s free background checks to two more dating apps](https://techcrunch.com/2022/07/13/match-expands-tinders-free-background-checks-to-two-more-dating-apps/)
+- [Snag this ultimate DJI Air 2S drone combo at $260 off before it takes flight forever](https://www.space.com/take-to-the-skies-with-ultimate-dji-air-2s-deal-amazon-prime-day/)
+- [Last-chance Amazon Prime Day deals 2022: Savings on Telescopes, Cameras, Star Projectors, Lightsabers, Lego, Drones, VR Headsets and more](https://www.space.com/amazon-prime-day-space-deals/)
+- [Perseverance Mars rover collects its 10th rock sample](https://www.space.com/perseverance-mars-sample-ten-collected/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
