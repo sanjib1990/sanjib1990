@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Balloon-borne telescope lifts off to study black holes and neutron stars](https://www.space.com/balloon-telescope-xl-calibur-x-rays-black-holes/)
+- [This Gskyer refractor telescope is $70 off on Amazon Prime Day](https://www.space.com/amazon-prime-day-gskyer-telescope-save-70-dollars/)
+- [July&#39;s supermoon will shine online tonight — here&#39;s how you can watch for free](https://www.space.com/watch-buck-supermoon-online-webcast-july-2022/)
+- [Amazon’s Ring gave a record amount of doorbell footage to the government in 2021](https://techcrunch.com/2022/07/13/amazon-ring-video-footage-government/)
 - [Sony A7R IV camera deal: save over $500 this Amazon Prime Day](https://www.space.com/sony-a7r-iv-camera-deal-amazon-prime-day-save-500/)
-- [DeltaStream secures cash to build real-time streaming databases](https://techcrunch.com/2022/07/13/deltastream-lands-10m-to-build-real-time-streaming-databases/)
-- [Long-time Bitcoin bull Anthony Pompliano launches crypto hiring firm Inflection Points with $12.6M raise](https://techcrunch.com/2022/07/13/long-time-bitcoin-bull-anthony-pompliano-launches-crypto-hiring-firm-inflection-points-with-12-6m-raise/)
-- [Fly away with a deal on Holy Stone drones, 30% off in Prime Day sales](https://www.space.com/holy-stone-amazon-prime-day-drone-deals-2022/)
-- [Prime Day 3D printer deal: Save 27% on Elegoo Saturn &amp; Saturn S resin printers](https://www.space.com/elegoo-saturn-prime-day-deal-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
