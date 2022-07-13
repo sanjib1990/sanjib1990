@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta’s Ray-Ban Stories now let users make calls and send messages with WhatsApp](https://techcrunch.com/2022/07/13/meta-hands-free-features-ray-ban-stories-whatsapp/)
-- [Polestar on track to sell 50,000 EVs in 2022](https://techcrunch.com/2022/07/13/polestar-on-track-to-sell-50000-evs-in-2022/)
-- [Capture the night sky with the Nikon Z fc camera, now $100 off at Walmart this Prime Day](https://www.space.com/nikon-z-fc-prime-day-deal-save-over-100-dollars/)
-- [These SVBONY telescope Prime Day deals are out of this world: up to $140 off](https://www.space.com/svbony-503-telescope-deals-amazon-prime-day/)
-- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates/)
+- [US-based Here lets you make fractional vacation rental investments starting at $100](https://techcrunch.com/2022/07/13/us-based-here-lets-you-make-fractional-vacation-rental-investments-starting-at-100/)
+- [NASA Reveals Webb Telescope’s First Images of Unseen Universe](https://blogs.nasa.gov/webb/2022/07/13/nasa-reveals-webb-telescopes-first-images-of-unseen-universe/)
+- [Google Cloud launches its first Arm-based VMs](https://techcrunch.com/2022/07/13/google-cloud-launches-its-first-arm-based-vms/)
+- [XFuel hopes to sail past biofuels’ troubled past with modular reactor design](https://techcrunch.com/2022/07/13/xfuel-hopes-to-sail-past-biofuels-troubled-past-with-modular-reactor-design/)
+- [Autonomous flight startup Merlin Labs nabs $120M and US Air Force partnership](https://techcrunch.com/2022/07/13/autonomous-flight-startup-merlin-labs-lands-120m-and-u-s-air-force-partnership/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
