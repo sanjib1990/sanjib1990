@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [India says Oppo’s local unit evaded customs duty worth $550 million](https://techcrunch.com/2022/07/13/india-oppo-customs-duty/)
-- [Headless CMS platform Kontent secures new capital to grow its customer base](https://techcrunch.com/2022/07/13/headless-cms-platform-kontent-ai-secures-new-capital-to-grow-its-customer-base/)
-- [Truecaller foreys into live audio with its new Open Doors app](https://techcrunch.com/2022/07/13/truecaller-foreys-into-live-audio-with-its-new-open-doors-app/)
-- [Rocket Lab launches US spy satellite to orbit](https://www.space.com/rocket-lab-launches-spy-satellite-nrol-162/)
-- [Africa-focused fintech Zazuu raises $2M to scale its cross-border payment marketplace](https://techcrunch.com/2022/07/13/africa-focused-fintech-zazuu-raises-2m-to-scale-its-cross-border-payment-marketplace/)
+- [Snap eyes adding NFTs as AR filters in Snapchat](https://techcrunch.com/2022/07/13/snap-eyes-adding-nfts-as-ar-filters-in-snapchat/)
+- [On This Day In Space: July 13, 1969: Soviet Union launches Luna 15 mission to the moon](https://www.space.com/39251-on-this-day-in-space.html/)
+- [Sri Lanka central bank warns against use of cryptocurrency amid economic crisis](https://techcrunch.com/2022/07/13/sri-lanka-central-bank-warns-against-use-of-cryptocurrency-amid-economic-crisis/)
+- [Lime has built its own camera-based sidewalk detection technology](https://techcrunch.com/2022/07/13/lime-has-built-its-own-camera-based-sidewalk-detection-technology/)
+- [TikTok to roll out content filters and maturity ratings in pledge to make app safer](https://techcrunch.com/2022/07/13/tiktok-to-roll-out-content-filters-and-maturity-ratings-in-pledge-to-make-app-safer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
