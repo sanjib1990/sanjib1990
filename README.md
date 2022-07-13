@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [US-based Here lets you make fractional vacation rental investments starting at $100](https://techcrunch.com/2022/07/13/us-based-here-lets-you-make-fractional-vacation-rental-investments-starting-at-100/)
-- [NASA Reveals Webb Telescope’s First Images of Unseen Universe](https://blogs.nasa.gov/webb/2022/07/13/nasa-reveals-webb-telescopes-first-images-of-unseen-universe/)
-- [Google Cloud launches its first Arm-based VMs](https://techcrunch.com/2022/07/13/google-cloud-launches-its-first-arm-based-vms/)
-- [XFuel hopes to sail past biofuels’ troubled past with modular reactor design](https://techcrunch.com/2022/07/13/xfuel-hopes-to-sail-past-biofuels-troubled-past-with-modular-reactor-design/)
-- [Autonomous flight startup Merlin Labs nabs $120M and US Air Force partnership](https://techcrunch.com/2022/07/13/autonomous-flight-startup-merlin-labs-lands-120m-and-u-s-air-force-partnership/)
+- [Booz Allen Hamilton launches $100M corporate venture arm focused on early-stage startups](https://techcrunch.com/2022/07/13/booz-allen-hamilton-launches-100m-corporate-venture-arm-focused-on-early-stage-startups/)
+- [Dear Sophie: Questions about green cards and EB-2 priority dates](https://techcrunch.com/2022/07/13/dear-sophie-questions-about-green-cards-and-eb-2-priority-dates/)
+- [Vertical farming founder is reimagining agriculture from the ground up](https://techcrunch.com/2022/07/13/bowery-farming-found-podcast/)
+- [Meet the all-electric RV startup steered by Tesla alumni](https://techcrunch.com/2022/07/13/meet-the-all-electric-rv-startup-steered-by-tesla-alumni/)
+- [Last chance! Lego International Space Station soars with 25% Prime Day discount](https://www.space.com/lego-international-space-station-prime-day-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
