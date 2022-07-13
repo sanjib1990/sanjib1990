@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Interactive gaming developer Unity merges with app monetization platform ironSource](https://techcrunch.com/2022/07/13/daily-crunch-interactive-gaming-developer-unity-merges-with-app-monetization-platform-ironsource/)
+- [A Twitter test will remind you to add alt text to images](https://techcrunch.com/2022/07/13/twitter-alt-text-reminder-image-description-test/)
+- [Meet the newest crypto builders from web3 accelerator Alliance DAO’s demo day](https://techcrunch.com/2022/07/13/meet-the-newest-crypto-builders-from-web3-accelerator-alliance-daos-demo-day/)
 - [Europe ending cooperation with Russia on life-hunting Mars rover](https://www.space.com/europe-ends-cooperation-russia-exomars-rover/)
-- [How galaxies form: Theories, variants and growth](https://www.space.com/how-galaxies-form/)
-- [Nikon says wait! We are still selling SLRs!](https://techcrunch.com/2022/07/13/wait-lol-no-we-are-still-here-says-nikon/)
-- [Instagram launches its creator marketplace on an invite-only basis](https://techcrunch.com/2022/07/13/instagram-creator-marketplace/)
-- [The US government is digging into NFTs’ impact on intellectual property](https://techcrunch.com/2022/07/13/the-us-government-is-digging-into-nfts-impact-on-intellectual-property/)
+- [Tonal just shed over a third of staff to help it become a ‘self-sustaining and profitable business’](https://techcrunch.com/2022/07/13/tonal-just-shed-over-a-third-of-staff-to-help-it-become-a-self-sustaining-and-profitable-business/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
