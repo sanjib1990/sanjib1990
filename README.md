@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Africa-focused fintech Zazuu raises $2M to scale its cross-border payment marketplace](https://techcrunch.com/2022/07/13/africa-focused-fintech-zazuu-raises-2m-to-scale-its-cross-border-payment-marketplace/)
+- [Incident.io looks to beef up its Slack-based incident response platform with $28.7M in fresh cash](https://techcrunch.com/2022/07/13/incident-io-looks-to-beef-up-its-slack-based-incident-response-platform-with-28-7m-in-fresh-cash/)
 - [Persistent Energy raises $10M to grow its clean-tech venture building business in Africa](https://techcrunch.com/2022/07/12/persistent-energy-raises-10m-to-grow-its-clean-tech-venture-building-business-in-africa/)
 - [A robot pony maker backed by Chinese EV giant Xpeng raises $100M](https://techcrunch.com/2022/07/12/china-ev-xpeng-100m-robot-ponies/)
 - [Google tells staff to act ‘more entrepreneurial.’ Translation: Work harder, or else](https://techcrunch.com/2022/07/12/google-slow-hiring-tech-consolidation/)
-- [Twitter v. Elon brings us a meme-driven lawsuit for the books](https://techcrunch.com/2022/07/12/elon-musk-lawsuit-memes-twitter-acquisition/)
-- [This HTC Vive Cosmos Elite VR headset deal simulates the universe for Amazon Prime Day](https://www.space.com/htc-vive-cosmos-elite-vr-headset-amazon-prime-day-deal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
