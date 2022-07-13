@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India says Oppo’s local unit evaded customs duty worth $550 million](https://techcrunch.com/2022/07/13/india-oppo-customs-duty/)
+- [Headless CMS platform Kontent secures new capital to grow its customer base](https://techcrunch.com/2022/07/13/headless-cms-platform-kontent-ai-secures-new-capital-to-grow-its-customer-base/)
+- [Truecaller foreys into live audio with its new Open Doors app](https://techcrunch.com/2022/07/13/truecaller-foreys-into-live-audio-with-its-new-open-doors-app/)
+- [Rocket Lab launches US spy satellite to orbit](https://www.space.com/rocket-lab-launches-spy-satellite-nrol-162/)
 - [Africa-focused fintech Zazuu raises $2M to scale its cross-border payment marketplace](https://techcrunch.com/2022/07/13/africa-focused-fintech-zazuu-raises-2m-to-scale-its-cross-border-payment-marketplace/)
-- [Incident.io looks to beef up its Slack-based incident response platform with $28.7M in fresh cash](https://techcrunch.com/2022/07/13/incident-io-looks-to-beef-up-its-slack-based-incident-response-platform-with-28-7m-in-fresh-cash/)
-- [Persistent Energy raises $10M to grow its clean-tech venture building business in Africa](https://techcrunch.com/2022/07/12/persistent-energy-raises-10m-to-grow-its-clean-tech-venture-building-business-in-africa/)
-- [A robot pony maker backed by Chinese EV giant Xpeng raises $100M](https://techcrunch.com/2022/07/12/china-ev-xpeng-100m-robot-ponies/)
-- [Google tells staff to act ‘more entrepreneurial.’ Translation: Work harder, or else](https://techcrunch.com/2022/07/12/google-slow-hiring-tech-consolidation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
