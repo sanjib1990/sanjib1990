@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Flush with new cash, AssemblyAI looks to grow its AI-as-a-service business](https://techcrunch.com/2022/07/14/flush-with-new-cash-assemblyai-looks-to-grow-its-ai-as-a-service-business/)
-- [On bizarre brown dwarf worlds, astronomers spot hot, sandy clouds](https://www.space.com/brown-dwarf-clouds-of-sand/)
-- [Gaming-focused UnCaged Studios raises $24M to build good crypto games](https://techcrunch.com/2022/07/14/gaming-focused-uncaged-studios-raises-24m-to-build-good-crypto-games/)
-- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates/)
-- [GM and EVgo to build fast-chargers at Pilot Flying J gas stations](https://techcrunch.com/2022/07/14/gm-and-evgo-to-build-fast-chargers-at-pilot-flying-j-gas-stations/)
+- [Best Star Trek: Deep Space Nine episodes](https://www.space.com/best-star-trek-deep-space-nine-episodes/)
+- [What can Black VCs and founders expect in H2 2022?](https://techcrunch.com/2022/07/14/what-can-black-vcs-and-founders-expect-in-h2-2022/)
+- [Google releases final Android 13 beta ahead of official launch](https://techcrunch.com/2022/07/14/google-releases-final-android-13-beta/)
+- [Amazon finally gives ‘LOTR’ fans a longer trailer for its ‘The Rings of Power’ series](https://techcrunch.com/2022/07/14/amazon-finally-gives-lotr-fans-a-longer-trailer-for-its-the-rings-of-power-series/)
+- [Instagram is adding more features to its creator subscriptions test](https://techcrunch.com/2022/07/14/instagram-creator-subscriptions-expansion/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
