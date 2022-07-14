@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Celestron 114LCM computerized Newtonian telescope: post-Amazon Prime Day deal](https://www.space.com/celestron-114lcm-computerized-telescope-deal/)
 - [Celsius, one of crypto’s biggest lenders, files for bankruptcy](https://techcrunch.com/2022/07/13/celsius-one-of-cryptos-biggest-lenders-files-for-bankruptcy/)
 - [Kindly makes hormonal health care more approachable](https://techcrunch.com/2022/07/13/kindly-health-makes-hormonal-health-care-more-approachable/)
 - [Shanghai gives nod to NFT trading platforms](https://techcrunch.com/2022/07/13/china-shanghai-blockchain-nft/)
 - [Hyundai casts new Ioniq 6 sedan as a Tesla Model 3 rival](https://techcrunch.com/2022/07/13/hyundai-casts-new-ioniq-6-sedan-as-a-tesla-model-3-rival/)
-- [KKday bumps its Series C to $95 million as travel resumes](https://techcrunch.com/2022/07/13/kkday-bumps-its-series-c-to-95-million-as-travel-resumes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
