@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Star Trek: Deep Space Nine episodes](https://www.space.com/best-star-trek-deep-space-nine-episodes/)
-- [What can Black VCs and founders expect in H2 2022?](https://techcrunch.com/2022/07/14/what-can-black-vcs-and-founders-expect-in-h2-2022/)
-- [Google releases final Android 13 beta ahead of official launch](https://techcrunch.com/2022/07/14/google-releases-final-android-13-beta/)
-- [Amazon finally gives ‘LOTR’ fans a longer trailer for its ‘The Rings of Power’ series](https://techcrunch.com/2022/07/14/amazon-finally-gives-lotr-fans-a-longer-trailer-for-its-the-rings-of-power-series/)
-- [Instagram is adding more features to its creator subscriptions test](https://techcrunch.com/2022/07/14/instagram-creator-subscriptions-expansion/)
+- [Wysa raises $20 million to expand its therapist chatbot into a wider set of mental health services](https://techcrunch.com/2022/07/14/wysa-20-million-series-b-funding-expand-therapist-chatbot-wider-mental-health-services/)
+- [Okendo wants to turn your shoppers into buyers through better customer reviews](https://techcrunch.com/2022/07/14/okendo-wants-to-turn-your-shoppers-into-buyers-through-better-customer-reviews/)
+- [Mike Shinoda backs a startup that lets you do video calls as NFT avatars](https://techcrunch.com/2022/07/14/hologram-fundraising-nft-avatar/)
+- [The moon begins its monthly planetary tour with Saturn on Friday](https://www.space.com/moon-near-saturn-july-2022/)
+- [Gridtential thinks the OG renewable battery chemistry is ripe for disruption](https://techcrunch.com/2022/07/14/gridtential-thinks-the-og-renewable-battery-chemistry-is-ripe-for-disruption/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
