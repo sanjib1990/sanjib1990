@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Top Indian tech advocacy group drops crypto over regulatory uncertainty](https://techcrunch.com/2022/07/14/top-indian-tech-advocacy-group-drops-crypto-over-regulatory-uncertainty/)
-- [MetaMask co-founder sees a developer-led future for its crypto wallet](https://techcrunch.com/2022/07/14/metamask-co-founder-sees-a-developer-led-future-for-its-crypto-wallet/)
-- [With the James Webb Space Telescope in full operations, scientists look to reveal the earliest galaxies](https://www.space.com/james-webb-space-telescope-earliest-galaxies/)
-- [China launches new communications satellite to support Tiangong space station](https://www.space.com/china-launches-communications-satellite-tiangong-space-station/)
-- [US App Store revenue from non-game apps just topped games for the first time](https://techcrunch.com/2022/07/14/u-s-app-store-revenue-from-non-game-apps-just-topped-games-for-the-first-time/)
+- [VinFast EV factory wins North Carolina’s top incentives package](https://techcrunch.com/2022/07/14/vinfast-ev-factory-wins-north-carolinas-top-incentives-package/)
+- [A meme stock’s second shot at the moon](https://techcrunch.com/2022/07/14/chain-reaction-gamestop-meme-stock-nft-launch-beats-coinbase/)
+- [Autonomous vehicles startup Nuro winds down operations in Phoenix](https://techcrunch.com/2022/07/14/autonomous-vehicles-startup-nuro-winds-down-operations-in-phoenix/)
+- [One size doesn’t fit all for Wing’s drone deliveries](https://techcrunch.com/2022/07/14/one-size-doesnt-fit-all-for-wings-drone-deliveries/)
+- [Stripe is the latest fintech to falter, taking a 28% internal valuation cut](https://techcrunch.com/2022/07/14/stripe-fintech-payments-valuation-cut-28/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
