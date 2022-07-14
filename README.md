@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Kakao confirms withdrawal external payment option after standoff with Google](https://techcrunch.com/2022/07/14/kakao-confirms-withdrawal-external-payment-option-after-standoff-with-google/)
-- [Richard Branson backs Lightyear as UK stock trading platform launches into Europe](https://techcrunch.com/2022/07/14/richard-branson-backs-lightyear-as-uk-stock-trading-platform-launches-into-europe/)
-- [Explore the Artemis program with All About Space magazine](https://www.space.com/all-about-space-magazine-issue-132/)
-- [UK’s Online Safety Bill on pause pending new PM](https://techcrunch.com/2022/07/14/online-safety-bill-pause/)
-- [Twitter is testing custom timelines, and first one is about The Bachelorette](https://techcrunch.com/2022/07/14/twitter-is-testing-custom-timelines-and-first-one-is-about-the-bachelorette/)
+- [Manifold Bio’s molecular ‘barcodes’ could break through pharma’s in vivo bottleneck](https://techcrunch.com/2022/07/14/manifold-bios-molecular-barcodes-could-break-through-pharmas-in-vivo-bottleneck/)
+- [Robin raises $30M to expand its office reservation software as companies embrace hybrid work](https://techcrunch.com/2022/07/14/robin-raises-30m-to-expand-its-office-reservation-software-as-companies-embrace-hybrid-work/)
+- [Bobidi launches to reward developers for testing companies’ AI models](https://techcrunch.com/2022/07/14/bobidi-launches-to-reward-developers-for-testing-companies-ai-models/)
+- [A huge comet makes its closest approach to Earth today. Here&#39;s how to watch it live.](https://www.space.com/giant-comet-k2-closest-approach-webcast/)
+- [Kakao confirms it is removing its external payment option after standoff with Google](https://techcrunch.com/2022/07/14/kakao-confirms-withdrawal-external-payment-option-after-standoff-with-google/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
