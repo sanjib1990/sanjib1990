@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [China-backed hackers targeted White House journalists before January 6](https://techcrunch.com/2022/07/14/china-hackers-capitol-riot-january-6/)
-- [Houston Astros to celebrate Apollo 11 with moon lander bobblehead](https://www.space.com/houston-astros-nasa-night-moon-lander-bobblehead/)
-- [Twitter went down this morning for users across the globe](https://techcrunch.com/2022/07/14/twitter-down-global-outage-july/)
-- [Canvas Medical, ‘the Tesla of EMRs,’ raises a $24 million Series B round](https://techcrunch.com/2022/07/14/canvas-medical-the-tesla-of-emrs-raises-a-24-million-series-b-round/)
-- [Hivery bags new money to automatically optimize product placement on store shelves](https://techcrunch.com/2022/07/14/hivery-bags-new-money-to-automatically-optimize-product-placement-on-store-shelves/)
+- [Flush with new cash, AssemblyAI looks to grow its AI-as-a-service business](https://techcrunch.com/2022/07/14/flush-with-new-cash-assemblyai-looks-to-grow-its-ai-as-a-service-business/)
+- [On bizarre brown dwarf worlds, astronomers spot hot, sandy clouds](https://www.space.com/brown-dwarf-clouds-of-sand/)
+- [Gaming-focused UnCaged Studios raises $24M to build good crypto games](https://techcrunch.com/2022/07/14/gaming-focused-uncaged-studios-raises-24m-to-build-good-crypto-games/)
+- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates/)
+- [GM and EVgo to build fast-chargers at Pilot Flying J gas stations](https://techcrunch.com/2022/07/14/gm-and-evgo-to-build-fast-chargers-at-pilot-flying-j-gas-stations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
