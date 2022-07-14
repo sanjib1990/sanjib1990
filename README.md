@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Manifold Bio’s molecular ‘barcodes’ could break through pharma’s in vivo bottleneck](https://techcrunch.com/2022/07/14/manifold-bios-molecular-barcodes-could-break-through-pharmas-in-vivo-bottleneck/)
-- [Robin raises $30M to expand its office reservation software as companies embrace hybrid work](https://techcrunch.com/2022/07/14/robin-raises-30m-to-expand-its-office-reservation-software-as-companies-embrace-hybrid-work/)
-- [Bobidi launches to reward developers for testing companies’ AI models](https://techcrunch.com/2022/07/14/bobidi-launches-to-reward-developers-for-testing-companies-ai-models/)
-- [A huge comet makes its closest approach to Earth today. Here&#39;s how to watch it live.](https://www.space.com/giant-comet-k2-closest-approach-webcast/)
-- [Kakao confirms it is removing its external payment option after standoff with Google](https://techcrunch.com/2022/07/14/kakao-confirms-withdrawal-external-payment-option-after-standoff-with-google/)
+- [Powin raises $153M funding from Singapore’s GIC, Trilantic North America and Energy Impact Partners](https://techcrunch.com/2022/07/14/powin-raises-153m-funding-from-singapores-gic-trilantic-north-america-and-energy-impact-partners/)
+- [Plaid adds read-only support for thousands of crypto exchanges](https://techcrunch.com/2022/07/14/plaid-adds-read-only-support-for-thousands-of-crypto-exchanges/)
+- [Amazon offers to limit use of merchant data in bid to settle EU antitrust probe](https://techcrunch.com/2022/07/14/amazon-eu-antitrust-commitments/)
+- [Best camera phone 2022: Smartphones with stargazing capabilities](https://www.space.com/best-camera-phone-astrophotography/)
+- [How to do landscape photography](https://www.space.com/landscape-photography-guide-beginners/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
