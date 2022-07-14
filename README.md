@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Celestron 114LCM computerized Newtonian telescope: post-Amazon Prime Day deal](https://www.space.com/celestron-114lcm-computerized-telescope-deal/)
-- [Celsius, one of crypto’s biggest lenders, files for bankruptcy](https://techcrunch.com/2022/07/13/celsius-one-of-cryptos-biggest-lenders-files-for-bankruptcy/)
-- [Kindly makes hormonal health care more approachable](https://techcrunch.com/2022/07/13/kindly-health-makes-hormonal-health-care-more-approachable/)
-- [Shanghai gives nod to NFT trading platforms](https://techcrunch.com/2022/07/13/china-shanghai-blockchain-nft/)
-- [Hyundai casts new Ioniq 6 sedan as a Tesla Model 3 rival](https://techcrunch.com/2022/07/13/hyundai-casts-new-ioniq-6-sedan-as-a-tesla-model-3-rival/)
+- [Kakao confirms withdrawal external payment option after standoff with Google](https://techcrunch.com/2022/07/14/kakao-confirms-withdrawal-external-payment-option-after-standoff-with-google/)
+- [Richard Branson backs Lightyear as UK stock trading platform launches into Europe](https://techcrunch.com/2022/07/14/richard-branson-backs-lightyear-as-uk-stock-trading-platform-launches-into-europe/)
+- [Explore the Artemis program with All About Space magazine](https://www.space.com/all-about-space-magazine-issue-132/)
+- [UK’s Online Safety Bill on pause pending new PM](https://techcrunch.com/2022/07/14/online-safety-bill-pause/)
+- [Twitter is testing custom timelines, and first one is about The Bachelorette](https://techcrunch.com/2022/07/14/twitter-is-testing-custom-timelines-and-first-one-is-about-the-bachelorette/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
