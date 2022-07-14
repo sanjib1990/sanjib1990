@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Wysa raises $20 million to expand its therapist chatbot into a wider set of mental health services](https://techcrunch.com/2022/07/14/wysa-20-million-series-b-funding-expand-therapist-chatbot-wider-mental-health-services/)
-- [Okendo wants to turn your shoppers into buyers through better customer reviews](https://techcrunch.com/2022/07/14/okendo-wants-to-turn-your-shoppers-into-buyers-through-better-customer-reviews/)
-- [Mike Shinoda backs a startup that lets you do video calls as NFT avatars](https://techcrunch.com/2022/07/14/hologram-fundraising-nft-avatar/)
-- [The moon begins its monthly planetary tour with Saturn on Friday](https://www.space.com/moon-near-saturn-july-2022/)
-- [Gridtential thinks the OG renewable battery chemistry is ripe for disruption](https://techcrunch.com/2022/07/14/gridtential-thinks-the-og-renewable-battery-chemistry-is-ripe-for-disruption/)
+- [With the James Webb Space Telescope in full operations, scientists look to reveal the earliest galaxies](https://www.space.com/james-webb-space-telescope-earliest-galaxies/)
+- [China launches new communications satellite to support Tiangong space station](https://www.space.com/china-launches-communications-satellite-tiangong-space-station/)
+- [U.S. App Store revenue from non-game apps just topped games for the first time](https://techcrunch.com/2022/07/14/u-s-app-store-revenue-from-non-game-apps-just-topped-games-for-the-first-time/)
+- [Pivoting your startup in a bear market: Become undeniably fundable](https://techcrunch.com/2022/07/14/becoming-undeniably-fundable-pivoting-your-startup-in-a-bear-market/)
+- [Nintendo acquires CG animation studio and renames it Nintendo Pictures](https://techcrunch.com/2022/07/14/nintendo-acquires-cg-animation-studio-and-renames-it-nintendo-pictures/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
