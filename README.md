@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hyundai casts new Ioniq 6 sedan as a Tesla Model 3 rival](https://techcrunch.com/2022/07/13/hyundai-casts-new-ioniq-6-sedan-as-a-tesla-model-3-rival/)
 - [KKday bumps its Series C to $95 million as travel resumes](https://techcrunch.com/2022/07/13/kkday-bumps-its-series-c-to-95-million-as-travel-resumes/)
 - [Watch SpaceX launch more than 5,800 pounds of cargo to the International Space Station](https://techcrunch.com/2022/07/13/watch-spacex-launch-more-than-5800-pounds-of-cargo-to-the-international-space-station/)
 - [DoorDash to hike subtotal minimums for US subscribers](https://techcrunch.com/2022/07/13/doordash-to-hike-subtotal-minimums-for-us-subscribers/)
 - [Walmart doesn’t want Canoo selling EVs to Amazon](https://techcrunch.com/2022/07/13/walmart-doesnt-want-canoo-selling-evs-to-amazon/)
-- [Tesla loses top AI executive who led Autopilot vision team](https://techcrunch.com/2022/07/13/tesla-loses-top-ai-executive-who-led-autopilot-vision-team/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
