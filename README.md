@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Powin raises $153M funding from Singapore’s GIC, Trilantic North America and Energy Impact Partners](https://techcrunch.com/2022/07/14/powin-raises-153m-funding-from-singapores-gic-trilantic-north-america-and-energy-impact-partners/)
-- [Plaid adds read-only support for thousands of crypto exchanges](https://techcrunch.com/2022/07/14/plaid-adds-read-only-support-for-thousands-of-crypto-exchanges/)
-- [Amazon offers to limit use of merchant data in bid to settle EU antitrust probe](https://techcrunch.com/2022/07/14/amazon-eu-antitrust-commitments/)
-- [Best camera phone 2022: Smartphones with stargazing capabilities](https://www.space.com/best-camera-phone-astrophotography/)
-- [How to do landscape photography](https://www.space.com/landscape-photography-guide-beginners/)
+- [China-backed hackers targeted White House journalists before January 6](https://techcrunch.com/2022/07/14/china-hackers-capitol-riot-january-6/)
+- [Houston Astros to celebrate Apollo 11 with moon lander bobblehead](https://www.space.com/houston-astros-nasa-night-moon-lander-bobblehead/)
+- [Twitter went down this morning for users across the globe](https://techcrunch.com/2022/07/14/twitter-down-global-outage-july/)
+- [Canvas Medical, ‘the Tesla of EMRs,’ raises a $24 million Series B round](https://techcrunch.com/2022/07/14/canvas-medical-the-tesla-of-emrs-raises-a-24-million-series-b-round/)
+- [Hivery bags new money to automatically optimize product placement on store shelves](https://techcrunch.com/2022/07/14/hivery-bags-new-money-to-automatically-optimize-product-placement-on-store-shelves/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
