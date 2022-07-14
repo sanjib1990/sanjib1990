@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jupiter, too! New James Webb photos show giant planet&#39;s rings, moons and more](https://www.space.com/james-webb-space-telescope-first-jupiter-photos/)
+- [Daily Crunch: Stripe, stripped: Fintech leader slashes internal valuation by 28%](https://techcrunch.com/2022/07/14/daily-crunch-stripe-stripped-fintech-leader-slashes-internal-valuation-by-28/)
+- [Meta’s first human rights report is largely self-congratulatory](https://techcrunch.com/2022/07/14/metas-first-human-rights-report-is-largely-self-congratulatory/)
 - [Systemiq secures $70 million to fund early-stage climate tech founders](https://techcrunch.com/2022/07/14/systemiq-vc-70-million-fund-2/)
 - [FCC hands down $116M robocall fine, but begs for the power to hammer perps itself](https://techcrunch.com/2022/07/14/fcc-hands-down-116m-robocall-fine-but-begs-for-the-power-to-hammer-perps-itself/)
-- [As Coinbase falters, Binance.US is waiting in the wings](https://techcrunch.com/2022/07/14/crypto-us-market-as-coinbase-falters-binance-us-is-waiting-in-the-wings/)
-- [Watch an exclusive clip for Apple TV+&#39;s &#39;For All Mankind&#39; season 3 episode 6](https://www.space.com/for-all-mankind-apple-tv-plus-season-3-episode-6/)
-- [Webb Images of Jupiter and More Now Available In Commissioning Data](https://blogs.nasa.gov/webb/2022/07/14/webb-images-of-jupiter-and-more-now-available-in-commissioning-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
