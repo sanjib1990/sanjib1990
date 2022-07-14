@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Top Indian tech advocacy group drops crypto over regulatory uncertainty](https://techcrunch.com/2022/07/14/top-indian-tech-advocacy-group-drops-crypto-over-regulatory-uncertainty/)
+- [MetaMask co-founder sees a developer-led future for its crypto wallet](https://techcrunch.com/2022/07/14/metamask-co-founder-sees-a-developer-led-future-for-its-crypto-wallet/)
 - [With the James Webb Space Telescope in full operations, scientists look to reveal the earliest galaxies](https://www.space.com/james-webb-space-telescope-earliest-galaxies/)
 - [China launches new communications satellite to support Tiangong space station](https://www.space.com/china-launches-communications-satellite-tiangong-space-station/)
-- [U.S. App Store revenue from non-game apps just topped games for the first time](https://techcrunch.com/2022/07/14/u-s-app-store-revenue-from-non-game-apps-just-topped-games-for-the-first-time/)
-- [Pivoting your startup in a bear market: Become undeniably fundable](https://techcrunch.com/2022/07/14/becoming-undeniably-fundable-pivoting-your-startup-in-a-bear-market/)
-- [Nintendo acquires CG animation studio and renames it Nintendo Pictures](https://techcrunch.com/2022/07/14/nintendo-acquires-cg-animation-studio-and-renames-it-nintendo-pictures/)
+- [US App Store revenue from non-game apps just topped games for the first time](https://techcrunch.com/2022/07/14/u-s-app-store-revenue-from-non-game-apps-just-topped-games-for-the-first-time/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
