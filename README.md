@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Elon Musk doesn’t want the Twitter trial to happen soon](https://techcrunch.com/2022/07/15/elon-musk-twitter-lawsuit-timeline-february/)
 - [Daily Crunch: After developers complain, Microsoft clarifies new policy on open source monetization](https://techcrunch.com/2022/07/15/microsoft-clarifies-new-policy-on-open-source-monetization/)
 - [Cryptominers defend gigawatt-scale energy usage called out by Congress](https://techcrunch.com/2022/07/15/cryptominers-defend-gigawatt-scale-energy-usage-called-out-by-congress/)
 - [Exclusive: Vice TV explores the making of &#39;Star Wars&#39; with its new &#39;Icons Unearthed&#39; docu-series](https://www.space.com/icons-unearthed-vice-star-wars-interview/)
 - [Astrology addicts can now see zodiac content on Bumble](https://techcrunch.com/2022/07/15/astrology-addicts-can-now-see-zodiac-content-on-bumble/)
-- [Hulu is turning Spotify’s most popular playlist into a new docuseries, ‘RapCaviar Presents’](https://techcrunch.com/2022/07/15/hulu-is-turning-spotifys-most-popular-playlist-into-a-new-docuseries-rapcaviar-presents/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
