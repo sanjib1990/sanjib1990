@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Virgin Galactic opening new spaceship factory in Arizona](https://www.space.com/virgin-galactic-spaceship-factory-arizona/)
+- [Nothing Phone &lpar;1&rpar; review](https://techcrunch.com/2022/07/15/nothing-phone-1-review/)
+- [Sony officially owns Bungie now](https://techcrunch.com/2022/07/15/sony-owns-bungie/)
 - [Despite creaky markets, European edtech is showing its resilience](https://techcrunch.com/2022/07/15/despite-creaky-markets-european-edtech-is-showing-its-resilience/)
 - [Russian cosmonaut will fly to space station with SpaceX this fall](https://www.space.com/russian-cosmonaut-spacex-crew-5-mission-space-station/)
-- [Senior Project Scientist John Mather Reflects on Journey to Webb’s First Images](https://blogs.nasa.gov/webb/2022/07/15/senior-project-scientist-john-mather-reflects-on-journey-to-webbs-first-images/)
-- [TechCrunch podcasts this week: Bowery Farms, web3 startup Yat and Stripe’s internal valuation](https://techcrunch.com/2022/07/15/bowery-farms-web3-startup-yat-and-stripes-internal-valuation/)
-- [NASA commissions independent review of delayed Psyche mission to metal asteroid](https://www.space.com/psyche-asteroid-mission-delay-independent-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
