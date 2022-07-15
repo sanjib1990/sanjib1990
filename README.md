@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Vektor Partners raises new €125M fund to look specifically at sustainable mobility](https://techcrunch.com/2022/07/15/vektor-partners-raises-new-e125m-fund-to-look-specifically-at-sustainable-mobility/)
-- [Startups race to build a crypto-native, consumer-friendly messaging platform for web3](https://techcrunch.com/2022/07/14/startups-begin-a-race-to-build-a-crypto-native-consumer-friendly-messaging-platform-for-web3/)
-- [Dragon capsule launches on SpaceX&#39;s 25th cargo mission to the space station](https://www.space.com/spacex-crs-25-cargo-mission-launch-success/)
-- [Hyundai to electrify high-performance N brand](https://techcrunch.com/2022/07/14/hyundai-to-electrify-high-performance-n-brand/)
-- [Cruise robotaxi service under review following anonymous letter](https://techcrunch.com/2022/07/14/cruise-robotaxi-under-review-following-anonymous-letter/)
+- [Goodbye, Comet K2! Next stop is closest approach to the sun](https://www.space.com/goodbye-comet-k2-next-stop-perihelion/)
+- [Star-mapping Gaia spacecraft spots a pair of Jupiter-like planets](https://www.space.com/gaia-star-spacecraft-discovers-alien-planets/)
+- [The oldest, brightest black holes in the universe were born from violent gas attacks, new study suggests](https://www.space.com/oldest-quasars-in-universe-formation/)
+- [Casio G-Shock wristwatch pays tribute to NASA astronaut launch and entry suits](https://www.space.com/casio-g-shock-orange-nasa-astronaut-suits/)
+- [Dissecting Microsoft’s proposed policy to ban commercial open-source apps](https://techcrunch.com/2022/07/15/dissecting-microsofts-delayed-policy-to-ban-commercial-open-source-apps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
