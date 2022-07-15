@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Despite creaky markets, European edtech is showing its resilience](https://techcrunch.com/2022/07/15/despite-creaky-markets-european-edtech-is-showing-its-resilience/)
+- [Russian cosmonaut will fly to space station with SpaceX this fall](https://www.space.com/russian-cosmonaut-spacex-crew-5-mission-space-station/)
+- [Senior Project Scientist John Mather Reflects on Journey to Webb’s First Images](https://blogs.nasa.gov/webb/2022/07/15/senior-project-scientist-john-mather-reflects-on-journey-to-webbs-first-images/)
+- [TechCrunch podcasts this week: Bowery Farms, web3 startup Yat and Stripe’s internal valuation](https://techcrunch.com/2022/07/15/bowery-farms-web3-startup-yat-and-stripes-internal-valuation/)
 - [NASA commissions independent review of delayed Psyche mission to metal asteroid](https://www.space.com/psyche-asteroid-mission-delay-independent-review/)
-- [Nucleus Genomics lands new funding from Alexis Ohanian to help people assess specific disease risks](https://techcrunch.com/2022/07/15/nucleus-genomics-lands-new-funding-from-alexis-ohanian-to-help-people-assess-specific-disease-risks/)
-- [Are convertible notes the right way to fund your startup?](https://techcrunch.com/2022/07/15/are-convertible-notes-the-right-way-to-fund-your-startup/)
-- [TechCrunch+ roundup: Save your equity, LatAm crypto survey, where the runway ends](https://techcrunch.com/2022/07/15/techcrunch-roundup-save-your-equity-latam-crypto-survey-where-the-runway-ends/)
-- [TikTok’s chief security officer steps down amid increased scrutiny from US officials](https://techcrunch.com/2022/07/15/tiktoks-chief-security-officer-steps-down-amid-increased-scrutiny/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
