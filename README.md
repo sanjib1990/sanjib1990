@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Medusa’s open source e-commerce tool for JavaScript developers aims to take on Shopify](https://techcrunch.com/2022/07/15/medusa-shopify-open-source-e-commerce-javascript-developers/)
+- [The New York Times is turning Wordle into a board game](https://techcrunch.com/2022/07/15/the-new-york-times-is-turning-wordle-into-a-board-game/)
 - [Goodbye, Comet K2! Next stop is closest approach to the sun](https://www.space.com/goodbye-comet-k2-next-stop-perihelion/)
 - [Star-mapping Gaia spacecraft spots a pair of Jupiter-like planets](https://www.space.com/gaia-star-spacecraft-discovers-alien-planets/)
 - [The oldest, brightest black holes in the universe were born from violent gas attacks, new study suggests](https://www.space.com/oldest-quasars-in-universe-formation/)
-- [Casio G-Shock wristwatch pays tribute to NASA astronaut launch and entry suits](https://www.space.com/casio-g-shock-orange-nasa-astronaut-suits/)
-- [Dissecting Microsoft’s proposed policy to ban commercial open-source apps](https://techcrunch.com/2022/07/15/dissecting-microsofts-delayed-policy-to-ban-commercial-open-source-apps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
