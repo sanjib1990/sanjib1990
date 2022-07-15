@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazing photos of the Buck supermoon of 2022 from around the world](https://www.space.com/buck-supermoon-july-full-moon-2022-photos/)
+- [Gallery: James Webb Space Telescope&#39;s 1st photos](https://www.space.com/james-webb-space-telescope-first-photos/)
 - [Mexican fintech startup Stori reaches unicorn status with $50M equity raise](https://techcrunch.com/2022/07/15/mexican-fintech-startup-stori-reaches-unicorn-status-with-50m-equity-raise/)
 - [Why investors see the potential in AI-powered, copy-generating adtech companies](https://techcrunch.com/2022/07/15/why-investors-see-the-potential-in-ai-powered-copy-generating-adtech-companies/)
 - [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates/)
-- [Medusa’s open source e-commerce tool for JavaScript developers aims to take on Shopify](https://techcrunch.com/2022/07/15/medusa-shopify-open-source-e-commerce-javascript-developers/)
-- [The New York Times is turning Wordle into a board game](https://techcrunch.com/2022/07/15/the-new-york-times-is-turning-wordle-into-a-board-game/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
