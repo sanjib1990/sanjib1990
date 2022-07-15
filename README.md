@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA commissions independent review of delayed Psyche mission to metal asteroid](https://www.space.com/psyche-asteroid-mission-delay-independent-review/)
+- [Nucleus Genomics lands new funding from Alexis Ohanian to help people assess specific disease risks](https://techcrunch.com/2022/07/15/nucleus-genomics-lands-new-funding-from-alexis-ohanian-to-help-people-assess-specific-disease-risks/)
+- [Are convertible notes the right way to fund your startup?](https://techcrunch.com/2022/07/15/are-convertible-notes-the-right-way-to-fund-your-startup/)
 - [TechCrunch+ roundup: Save your equity, LatAm crypto survey, where the runway ends](https://techcrunch.com/2022/07/15/techcrunch-roundup-save-your-equity-latam-crypto-survey-where-the-runway-ends/)
 - [TikTok’s chief security officer steps down amid increased scrutiny from US officials](https://techcrunch.com/2022/07/15/tiktoks-chief-security-officer-steps-down-amid-increased-scrutiny/)
-- [Jupiter is now rising in the evening sky. Here&#39;s how to spot the king of the night.](https://www.space.com/jupiter-enters-evening-sky-july-2022/)
-- [Apple Music Sessions launches with country stars Carrie Underwood and Tenille Townes](https://techcrunch.com/2022/07/15/apple-music-sessions-launches-with-country-stars-carrie-underwood-and-tenille-townes/)
-- [Yes, it’s become harder for startups to raise funding](https://techcrunch.com/2022/07/15/yes-its-become-harder-for-startups-to-raise-funding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
