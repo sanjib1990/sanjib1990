@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazing photos of the Buck supermoon of 2022 from around the world](https://www.space.com/buck-supermoon-july-full-moon-2022-photos/)
-- [Gallery: James Webb Space Telescope&#39;s 1st photos](https://www.space.com/james-webb-space-telescope-first-photos/)
-- [Mexican fintech startup Stori reaches unicorn status with $50M equity raise](https://techcrunch.com/2022/07/15/mexican-fintech-startup-stori-reaches-unicorn-status-with-50m-equity-raise/)
-- [Why investors see the potential in AI-powered, copy-generating adtech companies](https://techcrunch.com/2022/07/15/why-investors-see-the-potential-in-ai-powered-copy-generating-adtech-companies/)
-- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates/)
+- [Runa Sandvik’s new startup Granitt secures at-risk people from hackers and nation states](https://techcrunch.com/2022/07/15/granitt-journalist-security/)
+- [Gain insight from HAX robotics founders at TC Sessions: Robotics](https://techcrunch.com/2022/07/15/gain-insight-from-hax-robotics-founders-at-tc-sessions-robotics/)
+- [James Webb Space Telescope detects clouds on a &#39;hot Jupiter&#39; that we thought had clear skies](https://www.space.com/james-webb-space-telescope-alien-planet-clouds/)
+- [The next decade for healthtech may look a lot like the last decade for fintech](https://techcrunch.com/2022/07/15/the-next-decade-for-healthtech-may-look-a-lot-like-the-last-decade-for-fintech/)
+- [Today’s your last chance to vote for roundtable topics at TC Disrupt](https://techcrunch.com/2022/07/15/todays-your-last-chance-to-vote-for-roundtable-topics-at-tc-disrupt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
