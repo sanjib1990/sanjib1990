@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dragon capsule launches on SpaceX&#39;s 25th cargo mission to the space station](https://www.space.com/spacex-crs-25-cargo-mission-launch-success/)
 - [Hyundai to electrify high-performance N brand](https://techcrunch.com/2022/07/14/hyundai-to-electrify-high-performance-n-brand/)
 - [Cruise robotaxi service under review following anonymous letter](https://techcrunch.com/2022/07/14/cruise-robotaxi-under-review-following-anonymous-letter/)
 - [NFT brand loyalty platform Hang banks $16M from Paradigm](https://techcrunch.com/2022/07/14/nft-brand-loyalty-platform-hang-banks-16-million-from-paradigm/)
 - [Jupiter, too! New James Webb photos show giant planet&#39;s rings, moons and more](https://www.space.com/james-webb-space-telescope-first-jupiter-photos/)
-- [Daily Crunch: Stripe, stripped: Fintech leader slashes internal valuation by 28%](https://techcrunch.com/2022/07/14/daily-crunch-stripe-stripped-fintech-leader-slashes-internal-valuation-by-28/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
