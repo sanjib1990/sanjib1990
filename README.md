@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hyundai to electrify high-performance N brand](https://techcrunch.com/2022/07/14/hyundai-to-electrify-high-performance-n-brand/)
+- [Cruise robotaxi service under review following anonymous letter](https://techcrunch.com/2022/07/14/cruise-robotaxi-under-review-following-anonymous-letter/)
+- [NFT brand loyalty platform Hang banks $16M from Paradigm](https://techcrunch.com/2022/07/14/nft-brand-loyalty-platform-hang-banks-16-million-from-paradigm/)
 - [Jupiter, too! New James Webb photos show giant planet&#39;s rings, moons and more](https://www.space.com/james-webb-space-telescope-first-jupiter-photos/)
 - [Daily Crunch: Stripe, stripped: Fintech leader slashes internal valuation by 28%](https://techcrunch.com/2022/07/14/daily-crunch-stripe-stripped-fintech-leader-slashes-internal-valuation-by-28/)
-- [Meta’s first human rights report is largely self-congratulatory](https://techcrunch.com/2022/07/14/metas-first-human-rights-report-is-largely-self-congratulatory/)
-- [Systemiq secures $70 million to fund early-stage climate tech founders](https://techcrunch.com/2022/07/14/systemiq-vc-70-million-fund-2/)
-- [FCC hands down $116M robocall fine, but begs for the power to hammer perps itself](https://techcrunch.com/2022/07/14/fcc-hands-down-116m-robocall-fine-but-begs-for-the-power-to-hammer-perps-itself/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
