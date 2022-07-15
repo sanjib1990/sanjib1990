@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Russia dismisses space agency chief in wake of international controversies](https://www.space.com/roscosmos-russia-space-agency-director-rogozin-out/)
-- [Get ready for TechCrunch Sessions: Crypto in November](https://techcrunch.com/2022/07/15/get-ready-for-techcrunch-sessions-crypto-in-november/)
-- [Some venture investors are doubling down on crypto despite an unknown recovery timeline](https://techcrunch.com/2022/07/15/some-venture-investors-are-doubling-down-on-crypto-despite-an-unknown-recovery-timeline/)
-- [Europe’s health data reuse plan needs some surgery, say privacy supervisors](https://techcrunch.com/2022/07/15/european-health-data-space-edpb-edps-opinion/)
-- [Runa Sandvik’s new startup Granitt secures at-risk people from hackers and nation states](https://techcrunch.com/2022/07/15/granitt-journalist-security/)
+- [TechCrunch+ roundup: Save your equity, LatAm crypto survey, where the runway ends](https://techcrunch.com/2022/07/15/techcrunch-roundup-save-your-equity-latam-crypto-survey-where-the-runway-ends/)
+- [TikTok’s chief security officer steps down amid increased scrutiny from US officials](https://techcrunch.com/2022/07/15/tiktoks-chief-security-officer-steps-down-amid-increased-scrutiny/)
+- [Jupiter is now rising in the evening sky. Here&#39;s how to spot the king of the night.](https://www.space.com/jupiter-enters-evening-sky-july-2022/)
+- [Apple Music Sessions launches with country stars Carrie Underwood and Tenille Townes](https://techcrunch.com/2022/07/15/apple-music-sessions-launches-with-country-stars-carrie-underwood-and-tenille-townes/)
+- [Yes, it’s become harder for startups to raise funding](https://techcrunch.com/2022/07/15/yes-its-become-harder-for-startups-to-raise-funding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
