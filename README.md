@@ -94,8 +94,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch SpaceX&#39;s Dragon cargo capsule dock with the space station Saturday morning](https://www.space.com/spacex-crs-25-cargo-mission-docking/)
 - [Virgin Galactic opening new spaceship factory in Arizona](https://www.space.com/virgin-galactic-spaceship-factory-arizona/)
-- [Nothing Phone &lpar;1&rpar; review](https://techcrunch.com/2022/07/15/nothing-phone-1-review/)
 - [Sony officially owns Bungie now](https://techcrunch.com/2022/07/15/sony-owns-bungie/)
 - [Despite creaky markets, European edtech is showing its resilience](https://techcrunch.com/2022/07/15/despite-creaky-markets-european-edtech-is-showing-its-resilience/)
 - [Russian cosmonaut will fly to space station with SpaceX this fall](https://www.space.com/russian-cosmonaut-spacex-crew-5-mission-space-station/)
