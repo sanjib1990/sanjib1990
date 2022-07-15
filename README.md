@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Russia dismisses space agency chief in wake of international controversies](https://www.space.com/roscosmos-russia-space-agency-director-rogozin-out/)
+- [Get ready for TechCrunch Sessions: Crypto in November](https://techcrunch.com/2022/07/15/get-ready-for-techcrunch-sessions-crypto-in-november/)
+- [Some venture investors are doubling down on crypto despite an unknown recovery timeline](https://techcrunch.com/2022/07/15/some-venture-investors-are-doubling-down-on-crypto-despite-an-unknown-recovery-timeline/)
+- [Europe’s health data reuse plan needs some surgery, say privacy supervisors](https://techcrunch.com/2022/07/15/european-health-data-space-edpb-edps-opinion/)
 - [Runa Sandvik’s new startup Granitt secures at-risk people from hackers and nation states](https://techcrunch.com/2022/07/15/granitt-journalist-security/)
-- [Gain insight from HAX robotics founders at TC Sessions: Robotics](https://techcrunch.com/2022/07/15/gain-insight-from-hax-robotics-founders-at-tc-sessions-robotics/)
-- [James Webb Space Telescope detects clouds on a &#39;hot Jupiter&#39; that we thought had clear skies](https://www.space.com/james-webb-space-telescope-alien-planet-clouds/)
-- [The next decade for healthtech may look a lot like the last decade for fintech](https://techcrunch.com/2022/07/15/the-next-decade-for-healthtech-may-look-a-lot-like-the-last-decade-for-fintech/)
-- [Today’s your last chance to vote for roundtable topics at TC Disrupt](https://techcrunch.com/2022/07/15/todays-your-last-chance-to-vote-for-roundtable-topics-at-tc-disrupt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
