@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch SpaceX&#39;s Dragon cargo capsule dock with the space station Saturday morning](https://www.space.com/spacex-crs-25-cargo-mission-docking/)
-- [Virgin Galactic opening new spaceship factory in Arizona](https://www.space.com/virgin-galactic-spaceship-factory-arizona/)
-- [Sony officially owns Bungie now](https://techcrunch.com/2022/07/15/sony-owns-bungie/)
-- [Despite creaky markets, European edtech is showing its resilience](https://techcrunch.com/2022/07/15/despite-creaky-markets-european-edtech-is-showing-its-resilience/)
-- [Russian cosmonaut will fly to space station with SpaceX this fall](https://www.space.com/russian-cosmonaut-spacex-crew-5-mission-space-station/)
+- [Daily Crunch: After developers complain, Microsoft clarifies new policy on open source monetization](https://techcrunch.com/2022/07/15/microsoft-clarifies-new-policy-on-open-source-monetization/)
+- [Cryptominers defend gigawatt-scale energy usage called out by Congress](https://techcrunch.com/2022/07/15/cryptominers-defend-gigawatt-scale-energy-usage-called-out-by-congress/)
+- [Exclusive: Vice TV explores the making of &#39;Star Wars&#39; with its new &#39;Icons Unearthed&#39; docu-series](https://www.space.com/icons-unearthed-vice-star-wars-interview/)
+- [Astrology addicts can now see zodiac content on Bumble](https://techcrunch.com/2022/07/15/astrology-addicts-can-now-see-zodiac-content-on-bumble/)
+- [Hulu is turning Spotify’s most popular playlist into a new docuseries, ‘RapCaviar Presents’](https://techcrunch.com/2022/07/15/hulu-is-turning-spotifys-most-popular-playlist-into-a-new-docuseries-rapcaviar-presents/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
