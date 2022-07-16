@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Elon Musk doesn’t want the Twitter trial to happen soon](https://techcrunch.com/2022/07/15/elon-musk-twitter-lawsuit-timeline-february/)
+- [Elon Musk pushes for the Twitter trial to start next year](https://techcrunch.com/2022/07/15/elon-musk-twitter-lawsuit-timeline-february/)
 - [Daily Crunch: After developers complain, Microsoft clarifies new policy on open source monetization](https://techcrunch.com/2022/07/15/microsoft-clarifies-new-policy-on-open-source-monetization/)
 - [Cryptominers defend gigawatt-scale energy usage called out by Congress](https://techcrunch.com/2022/07/15/cryptominers-defend-gigawatt-scale-energy-usage-called-out-by-congress/)
 - [Exclusive: Vice TV explores the making of &#39;Star Wars&#39; with its new &#39;Icons Unearthed&#39; docu-series](https://www.space.com/icons-unearthed-vice-star-wars-interview/)
