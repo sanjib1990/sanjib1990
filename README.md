@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Making sense of the market right now with Danny Rimer of Index Ventures](https://techcrunch.com/2022/07/15/making-sense-of-the-market-right-now-with-danny-rimer-of-index-ventures/)
 - [Elon Musk pushes for the Twitter trial to start next year](https://techcrunch.com/2022/07/15/elon-musk-twitter-lawsuit-timeline-february/)
 - [Daily Crunch: After developers complain, Microsoft clarifies new policy on open source monetization](https://techcrunch.com/2022/07/15/microsoft-clarifies-new-policy-on-open-source-monetization/)
 - [Cryptominers defend gigawatt-scale energy usage called out by Congress](https://techcrunch.com/2022/07/15/cryptominers-defend-gigawatt-scale-energy-usage-called-out-by-congress/)
 - [Exclusive: Vice TV explores the making of &#39;Star Wars&#39; with its new &#39;Icons Unearthed&#39; docu-series](https://www.space.com/icons-unearthed-vice-star-wars-interview/)
-- [Astrology addicts can now see zodiac content on Bumble](https://techcrunch.com/2022/07/15/astrology-addicts-can-now-see-zodiac-content-on-bumble/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
