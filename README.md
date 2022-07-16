@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Once a key driver of global venture activity, fintech investment slows around the world](https://techcrunch.com/2022/07/16/once-a-key-driver-of-global-venture-activity-fintech-investment-slows-around-the-world/)
+- [Best telescopes for seeing planets 2022](https://www.space.com/best-telescopes-for-seeing-planets/)
+- [RelaunchSpace reconstructs NASA flight plan for Apollo 11 moon landing](https://www.space.com/apollo-11-flight-plan-reconstructed/)
+- [&#39;Rebooting&#39; the moon: NASA&#39;s Artemis program aims for lunar sustainability](https://www.space.com/rebooting-moon-nasa-artemis-sustainability/)
 - [&#39;Hopping&#39; space dust may help asteroids bust a move](https://www.space.com/hopping-space-dust-asteroids-bust-move/)
-- [NASA&#39;s head warned that China may try to claim the moon — two space scholars explain why that&#39;s unlikely to happen](https://www.space.com/why-china-will-not-hijack-moon/)
-- [Making sense of the market right now with Danny Rimer of Index Ventures](https://techcrunch.com/2022/07/15/making-sense-of-the-market-right-now-with-danny-rimer-of-index-ventures/)
-- [Elon Musk pushes for the Twitter trial to start next year](https://techcrunch.com/2022/07/15/elon-musk-twitter-lawsuit-timeline-february/)
-- [Daily Crunch: After developers complain, Microsoft clarifies new policy on open source monetization](https://techcrunch.com/2022/07/15/microsoft-clarifies-new-policy-on-open-source-monetization/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
