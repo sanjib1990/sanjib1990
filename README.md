@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [After Roe’s reversal, founders of women’s health startups prepare for battle](https://techcrunch.com/2022/07/16/after-roes-reversal-founders-of-womens-health-startups-prepare-for-battle/)
+- [This Week in Apps: Elon wants out, TikTok’s content ratings, a new milestone for subscription revenue](https://techcrunch.com/2022/07/16/this-week-in-apps-elon-wants-out-tiktoks-content-ratings-a-new-milestone-for-subscription-revenue/)
 - [Market dissonance doesn’t always include an easy hot take](https://techcrunch.com/2022/07/16/market-dissonance-doesnt-always-include-an-easy-hot-take/)
 - [Empowering a new wave of health tech startups — with data](https://techcrunch.com/2022/07/16/empowering-a-new-wave-of-health-tech-startups-with-data/)
 - [Dragon capsule docks with space station on SpaceX&#39;s 25th cargo mission](https://www.space.com/spacex-crs-25-cargo-mission-docking/)
-- [Perceptron: AI that solves math problems, translates 200 languages, and draws kangaroos](https://techcrunch.com/2022/07/16/perceptron-ai-that-solves-math-problems-translates-200-languages-and-draws-kangaroos/)
-- [This Week In Space podcast: Episode 20 — James Webb Space Telescope Image Reveal](https://www.space.com/this-week-in-space-podcast-twit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
