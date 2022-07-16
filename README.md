@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dragon capsule docks with space station on SpaceX&#39;s 25th cargo mission](https://www.space.com/spacex-crs-25-cargo-mission-docking/)
+- [Perceptron: AI that solves math problems, translates 200 languages, and draws kangaroos](https://techcrunch.com/2022/07/16/perceptron-ai-that-solves-math-problems-translates-200-languages-and-draws-kangaroos/)
+- [This Week In Space podcast: Episode 20 — James Webb Space Telescope Image Reveal](https://www.space.com/this-week-in-space-podcast-twit/)
 - [Big tech companies in the spotlight as South Africa investigates dominance abuse](https://techcrunch.com/2022/07/16/big-tech-companies-in-the-spotlight-as-south-africa-investigates-dominance-abuse/)
 - [Analysts estimate single digit growth for all retailers during Prime Day sales](https://techcrunch.com/2022/07/16/analysts-estimate-single-digit-growth-for-all-retailers-during-prime-day-sales/)
-- [Once a key driver of global venture activity, fintech investment slows around the world](https://techcrunch.com/2022/07/16/once-a-key-driver-of-global-venture-activity-fintech-investment-slows-around-the-world/)
-- [Best telescopes for seeing planets 2022](https://www.space.com/best-telescopes-for-seeing-planets/)
-- [RelaunchSpace reconstructs NASA flight plan for Apollo 11 moon landing](https://www.space.com/apollo-11-flight-plan-reconstructed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
