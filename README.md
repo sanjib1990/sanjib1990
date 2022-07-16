@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Market dissonance doesn’t always include an easy hot take](https://techcrunch.com/2022/07/16/market-dissonance-doesnt-always-include-an-easy-hot-take/)
 - [Empowering a new wave of health tech startups — with data](https://techcrunch.com/2022/07/16/empowering-a-new-wave-of-health-tech-startups-with-data/)
 - [Dragon capsule docks with space station on SpaceX&#39;s 25th cargo mission](https://www.space.com/spacex-crs-25-cargo-mission-docking/)
 - [Perceptron: AI that solves math problems, translates 200 languages, and draws kangaroos](https://techcrunch.com/2022/07/16/perceptron-ai-that-solves-math-problems-translates-200-languages-and-draws-kangaroos/)
 - [This Week In Space podcast: Episode 20 — James Webb Space Telescope Image Reveal](https://www.space.com/this-week-in-space-podcast-twit/)
-- [Big tech companies in the spotlight as South Africa investigates dominance abuse](https://techcrunch.com/2022/07/16/big-tech-companies-in-the-spotlight-as-south-africa-investigates-dominance-abuse/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
