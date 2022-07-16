@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft’s layoffs, Airlift’s shutdown and Lofi Girl’s unplanned study break](https://techcrunch.com/2022/07/16/microsofts-layoffs-airlifts-shutdown-and-lofi-girls-unplanned-study-break/)
 - [Building the future of robotics](https://techcrunch.com/2022/07/16/building-the-future-of-robotics/)
 - [After Roe’s reversal, founders of women’s health startups prepare for battle](https://techcrunch.com/2022/07/16/after-roes-reversal-founders-of-womens-health-startups-prepare-for-battle/)
 - [This Week in Apps: Elon wants out, TikTok’s content ratings, a new milestone for subscription revenue](https://techcrunch.com/2022/07/16/this-week-in-apps-elon-wants-out-tiktoks-content-ratings-a-new-milestone-for-subscription-revenue/)
 - [Market dissonance doesn’t always include an easy hot take](https://techcrunch.com/2022/07/16/market-dissonance-doesnt-always-include-an-easy-hot-take/)
-- [Empowering a new wave of health tech startups — with data](https://techcrunch.com/2022/07/16/empowering-a-new-wave-of-health-tech-startups-with-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
