@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NFTs have the potential to become media companies, Rarible co-founder says](https://techcrunch.com/2022/07/17/nfts-have-the-potential-to-become-media-companies-rarible-co-founder-says/)
+- [Modsy quietly shut down while some customers were still awaiting refunds](https://techcrunch.com/2022/07/17/modsy-quietly-shut-down-while-some-customers-were-still-awaiting-refunds/)
 - [As regulation heats up, will gaming studios’ gamble on loot boxes pay off?](https://techcrunch.com/2022/07/17/gambling-on-the-future-of-loot-boxes/)
 - [SpaceX launched and landed a Falcon 9 rocket on record-tying 13th mission](https://www.space.com/spacex-starlink-launch-falcon-9-13th-flight-sl4-22/)
 - [Fujifilm X-T30 II mirrorless camera review](https://www.space.com/fujifilm-x-t30-ii-camera-review/)
-- [The bright side of fintech funding results](https://techcrunch.com/2022/07/17/the-bright-side-of-fintech-funding-results/)
-- [Kodiak Robotics’ founder explains why autonomous freight could brush off inflation](https://techcrunch.com/2022/07/17/kodiak-robotics-founder-explains-why-autonomous-freight-could-brush-off-inflation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
