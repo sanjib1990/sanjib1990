@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [As regulation heats up, will gaming studios’ gamble on loot boxes pay off?](https://techcrunch.com/2022/07/17/gambling-on-the-future-of-loot-boxes/)
 - [SpaceX launched and landed a Falcon 9 rocket on record-tying 13th mission](https://www.space.com/spacex-starlink-launch-falcon-9-13th-flight-sl4-22/)
 - [Fujifilm X-T30 II mirrorless camera review](https://www.space.com/fujifilm-x-t30-ii-camera-review/)
 - [The bright side of fintech funding results](https://techcrunch.com/2022/07/17/the-bright-side-of-fintech-funding-results/)
 - [Kodiak Robotics’ founder explains why autonomous freight could brush off inflation](https://techcrunch.com/2022/07/17/kodiak-robotics-founder-explains-why-autonomous-freight-could-brush-off-inflation/)
-- [On This Day In Space: July 17, 1962: X-15 breaks altitude record](https://www.space.com/39251-on-this-day-in-space.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
