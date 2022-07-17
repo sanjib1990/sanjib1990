@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Kodiak Robotics’ founder explains why autonomous freight could brush off inflation](https://techcrunch.com/2022/07/17/kodiak-robotics-founder-explains-why-autonomous-freight-could-brush-off-inflation/)
 - [On This Day In Space: July 17, 1962: X-15 breaks altitude record](https://www.space.com/39251-on-this-day-in-space.html/)
 - [Chinese project will bounce signals off asteroids to see how dangerous they are to Earth](https://www.space.com/china-asteroids-planetary-radar-project/)
 - [Watch SpaceX launch a Falcon 9 rocket on record-tying 13th mission Sunday](https://www.space.com/spacex-starlink-launch-falcon-9-13th-flight-sl4-22/)
 - [Claims of new &#39;tropical ozone hole&#39; raise controversy](https://www.space.com/new-hole-in-ozone-layer-debunked/)
-- [Could we eavesdrop on aliens by detecting signals relayed around the sun?](https://www.space.com/interstellar-eavesdropping-via-gravitational-lensing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
