@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft’s layoffs, Airlift’s shutdown and Lofi Girl’s unplanned study break](https://techcrunch.com/2022/07/16/microsofts-layoffs-airlifts-shutdown-and-lofi-girls-unplanned-study-break/)
-- [Building the future of robotics](https://techcrunch.com/2022/07/16/building-the-future-of-robotics/)
-- [After Roe’s reversal, founders of women’s health startups prepare for battle](https://techcrunch.com/2022/07/16/after-roes-reversal-founders-of-womens-health-startups-prepare-for-battle/)
-- [This Week in Apps: Elon wants out, TikTok’s content ratings, a new milestone for subscription revenue](https://techcrunch.com/2022/07/16/this-week-in-apps-elon-wants-out-tiktoks-content-ratings-a-new-milestone-for-subscription-revenue/)
-- [Market dissonance doesn’t always include an easy hot take](https://techcrunch.com/2022/07/16/market-dissonance-doesnt-always-include-an-easy-hot-take/)
+- [On This Day In Space: July 17, 1962: X-15 breaks altitude record](https://www.space.com/39251-on-this-day-in-space.html/)
+- [Chinese project will bounce signals off asteroids to see how dangerous they are to Earth](https://www.space.com/china-asteroids-planetary-radar-project/)
+- [Watch SpaceX launch a Falcon 9 rocket on record-tying 13th mission Sunday](https://www.space.com/spacex-starlink-launch-falcon-9-13th-flight-sl4-22/)
+- [Claims of new &#39;tropical ozone hole&#39; raise controversy](https://www.space.com/new-hole-in-ozone-layer-debunked/)
+- [Could we eavesdrop on aliens by detecting signals relayed around the sun?](https://www.space.com/interstellar-eavesdropping-via-gravitational-lensing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
