@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html/)
+- [African fintechs halt virtual dollar cards after Union54 chargeback fraud surge](https://techcrunch.com/2022/07/18/african-fintechs-halt-virtual-dollar-cards-after-union54-chargeback-fraud-surge/)
 - [ByteDance-backed warehouse robotics startup Syrius picks up $7M](https://techcrunch.com/2022/07/18/bytedance-warehouse-robotics-syrius-7m/)
 - [On This Day In Space: July 18, 1980: India Launches 1st indigenous satellite](https://www.space.com/39251-on-this-day-in-space.html/)
 - [India’s central bank wants to ban cryptocurrencies, government says](https://techcrunch.com/2022/07/18/indias-central-bank-wants-to-ban-cryptocurrencies/)
-- [KitaBeli is bringing e-commerce to Indonesia’s small cities](https://techcrunch.com/2022/07/17/kitabeli-is-bringing-e-commerce-to-indonesias-small-cities/)
-- [GameStop looks to diversify its meme money](https://techcrunch.com/2022/07/17/gamestop-looks-to-diversify-its-meme-money/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
