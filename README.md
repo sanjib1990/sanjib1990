@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [ForSight wants to put an end to cataracts with its surgery robot](https://techcrunch.com/2022/07/18/here-comes-the-scalpel/)
-- [Uber to pay millions for overcharging people with disabilities](https://techcrunch.com/2022/07/18/uber-to-pay-millions-for-overcharging-people-with-disabilities/)
-- [HireArt lands $26.25M to help manage and recruit W2 contractors for clients](https://techcrunch.com/2022/07/18/hireart-lands-26-25m-to-help-manage-and-recruit-w2-contractors-for-clients/)
-- [Digital health unicorns need a checkup](https://techcrunch.com/2022/07/18/digital-health-unicorns-need-a-check-up/)
-- [Nebula: Definition, location and variants](https://www.space.com/nebula-definition-types/)
+- [Daily Crunch: US government is tracking our phones more than we thought, new docs show](https://techcrunch.com/2022/07/18/daily-crunch-us-government-is-tracking-our-phones-more-than-we-thought-new-docs-show/)
+- [Yat founder Naveen Jain talks ’emoji identity’ and lasting web3 trends](https://techcrunch.com/2022/07/18/yat-founder-naveen-jain-talks-emoji-identity-and-lasting-web3-trends/)
+- [United Arab Emirates launches $820M fund to boost domestic space economy](https://techcrunch.com/2022/07/18/united-arab-emirates-launches-820m-fund-to-boost-domestic-space-economy/)
+- [Netflix to test a new ‘add a home’ option to charge for password sharing](https://techcrunch.com/2022/07/18/netflix-test-add-home-option-charge-password-sharing/)
+- [ForSight sees a world without cataracts with its surgery robot](https://techcrunch.com/2022/07/18/here-comes-the-scalpel/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
