@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India’s central bank wants to ban cryptocurrencies, government says](https://techcrunch.com/2022/07/18/indias-central-bank-wants-to-ban-cryptocurrencies/)
 - [KitaBeli is bringing e-commerce to Indonesia’s small cities](https://techcrunch.com/2022/07/17/kitabeli-is-bringing-e-commerce-to-indonesias-small-cities/)
 - [GameStop looks to diversify its meme money](https://techcrunch.com/2022/07/17/gamestop-looks-to-diversify-its-meme-money/)
 - [NFTs have the potential to become media companies, Rarible co-founder says](https://techcrunch.com/2022/07/17/nfts-have-the-potential-to-become-media-companies-rarible-co-founder-says/)
 - [Modsy quietly shut down while some customers were still awaiting refunds](https://techcrunch.com/2022/07/17/modsy-quietly-shut-down-while-some-customers-were-still-awaiting-refunds/)
-- [As regulation heats up, will gaming studios’ gamble on loot boxes pay off?](https://techcrunch.com/2022/07/17/gambling-on-the-future-of-loot-boxes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
