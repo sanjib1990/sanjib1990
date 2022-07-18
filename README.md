@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Needle in a haystack&#39; black hole discovered in neighboring galaxy](https://www.space.com/dormant-black-hole-discovery-beyond-milky-way/)
+- [Mark-to-market to arrive at a realistic valuation and improve your fundraising odds](https://techcrunch.com/2022/07/18/mark-to-market-to-arrive-at-a-realistic-valuation-and-improve-your-fundraising-odds/)
+- [Star Wars movies ranked, worst to best](https://www.space.com/star-wars-movies-ranked-worst-to-best/)
+- [ESPN+ is getting a big price hike](https://techcrunch.com/2022/07/18/espn-is-getting-a-big-price-hike/)
 - [Denmark bans Chromebooks and Google Workspace in schools over data transfer risks](https://techcrunch.com/2022/07/18/denmark-bans-chromebooks-and-google-workspace-in-schools-over-gdpr/)
-- [Can everdrop scale it’s plastic-bottle-free cleaning products, as well as build a global brand?](https://techcrunch.com/2022/07/18/can-everdrop-scale-its-plastic-bottle-free-cleaning-products-as-well-as-build-a-global-brand/)
-- [See the moon swing past Jupiter in Tuesday morning&#39;s sky](https://www.space.com/moon-approach-jupiter-july-2022/)
-- [X1’s income-based credit card is finally available to the public](https://techcrunch.com/2022/07/18/x1-income-based-fintech-credit-card-available-public/)
-- [As fundraising gets harder, founders should ask investors for a flat round](https://techcrunch.com/2022/07/18/right-now-founders-should-be-asking-investors-for-a-flat-round/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
