@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New documents reveal ‘huge’ scale of US government’s cell phone location data tracking](https://techcrunch.com/2022/07/18/homeland-security-cell-phone-tracking/)
+- [You may need more than one pitch deck](https://techcrunch.com/2022/07/18/pitch-deck-contexts/)
+- [Satellite dodges space debris as it scrambles against space weather](https://www.space.com/satellite-dodges-space-debris-space-weather/)
 - [Flipkart’s Cleartrip confirms data breach after hackers put data for sale](https://techcrunch.com/2022/07/18/cleartrip-data-breach-dark-web/)
 - [SupplyPike’s supply chain software helps CPG brands get products to stores on time](https://techcrunch.com/2022/07/18/supplypike-series-b-supply-chains-software-cpg-brands/)
-- [This niche cryptographic technique could transform privacy in web3](https://techcrunch.com/2022/07/18/crypto-blockchain-web3-privacy-cryptography-fully-homomorphic-encryption-startup-sunscreen/)
-- [Snap launches Snapchat for Web to bring the app’s core features to desktop](https://techcrunch.com/2022/07/18/snap-launches-snapchat-for-web/)
-- [Real estate investing giant Fundrise breaks into venture capital](https://techcrunch.com/2022/07/18/real-estate-fundrise-venture-capital-crowdfunding-private-markets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
