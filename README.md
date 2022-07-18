@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Daily Crunch: US government is tracking our phones more than we thought, new docs show](https://techcrunch.com/2022/07/18/daily-crunch-us-government-is-tracking-our-phones-more-than-we-thought-new-docs-show/)
-- [Yat founder Naveen Jain talks ’emoji identity’ and lasting web3 trends](https://techcrunch.com/2022/07/18/yat-founder-naveen-jain-talks-emoji-identity-and-lasting-web3-trends/)
-- [United Arab Emirates launches $820M fund to boost domestic space economy](https://techcrunch.com/2022/07/18/united-arab-emirates-launches-820m-fund-to-boost-domestic-space-economy/)
-- [Netflix to test a new ‘add a home’ option to charge for password sharing](https://techcrunch.com/2022/07/18/netflix-test-add-home-option-charge-password-sharing/)
-- [ForSight sees a world without cataracts with its surgery robot](https://techcrunch.com/2022/07/18/here-comes-the-scalpel/)
+- [South Korean e-scooter company Gbike acquires Hyundai Motor’s micromobility platform ZET](https://techcrunch.com/2022/07/18/south-korean-e-scooter-company-gbike-acquires-hyundai-motors-micromobility-platform-zet/)
+- [Teaching home robots to learn by watching people](https://techcrunch.com/2022/07/18/teaching-home-robots-to-learn-by-watching-people/)
+- [NHTSA investigates another Tesla crash involving death of motorcyclist](https://techcrunch.com/2022/07/18/nhtsa-investigates-another-tesla-crash-involving-death-of-motorcyclist/)
+- [Slack is increasing prices and changing the way its free plan works](https://techcrunch.com/2022/07/18/slack-is-increasing-prices-and-changing-the-way-its-free-plan-works/)
+- [Max Q: Jaw-dropping Wondrous Spectacular Telescope](https://techcrunch.com/2022/07/18/max-q-jaw-dropping-wondrous-spectacular-telescope/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
