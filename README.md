@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [New documents reveal ‘huge’ scale of US government’s cell phone location data tracking](https://techcrunch.com/2022/07/18/homeland-security-cell-phone-tracking/)
-- [You may need more than one pitch deck](https://techcrunch.com/2022/07/18/pitch-deck-contexts/)
-- [Satellite dodges space debris as it scrambles against space weather](https://www.space.com/satellite-dodges-space-debris-space-weather/)
-- [Flipkart’s Cleartrip confirms data breach after hackers put data for sale](https://techcrunch.com/2022/07/18/cleartrip-data-breach-dark-web/)
-- [SupplyPike’s supply chain software helps CPG brands get products to stores on time](https://techcrunch.com/2022/07/18/supplypike-series-b-supply-chains-software-cpg-brands/)
+- [When will India make up its mind about crypto?](https://techcrunch.com/2022/07/18/when-will-india-make-up-its-mind-about-crypto/)
+- [Get ready for TechCrunch Sessions: Crypto in November](https://techcrunch.com/2022/07/18/get-ready-for-techcrunch-sessions-crypto-in-november/)
+- [James Webb Space Telescope picture shows noticeable damage from micrometeoroid strike](https://www.space.com/james-webb-space-telescope-micrometeoroid-damage/)
+- [Discover the many ways to network at TechCrunch Disrupt](https://techcrunch.com/2022/07/18/discover-the-many-ways-to-network-at-techcrunch-disrupt/)
+- [Meta’s Giphy deal lives to fight another day: competition appeals tribunal blocks forced sale on disclosure grounds](https://techcrunch.com/2022/07/18/metas-giphy-deal-lives-to-fight-another-day-competition-appeals-tribunal-blocks-forced-sale-on-disclosure-grounds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
