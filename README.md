@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [When will India make up its mind about crypto?](https://techcrunch.com/2022/07/18/when-will-india-make-up-its-mind-about-crypto/)
-- [Get ready for TechCrunch Sessions: Crypto in November](https://techcrunch.com/2022/07/18/get-ready-for-techcrunch-sessions-crypto-in-november/)
-- [James Webb Space Telescope picture shows noticeable damage from micrometeoroid strike](https://www.space.com/james-webb-space-telescope-micrometeoroid-damage/)
-- [Discover the many ways to network at TechCrunch Disrupt](https://techcrunch.com/2022/07/18/discover-the-many-ways-to-network-at-techcrunch-disrupt/)
-- [Meta’s Giphy deal lives to fight another day: competition appeals tribunal blocks forced sale on disclosure grounds](https://techcrunch.com/2022/07/18/metas-giphy-deal-lives-to-fight-another-day-competition-appeals-tribunal-blocks-forced-sale-on-disclosure-grounds/)
+- [Denmark bans Chromebooks and Google Workspace in schools over data transfer risks](https://techcrunch.com/2022/07/18/denmark-bans-chromebooks-and-google-workspace-in-schools-over-gdpr/)
+- [Can everdrop scale it’s plastic-bottle-free cleaning products, as well as build a global brand?](https://techcrunch.com/2022/07/18/can-everdrop-scale-its-plastic-bottle-free-cleaning-products-as-well-as-build-a-global-brand/)
+- [See the moon swing past Jupiter in Tuesday morning&#39;s sky](https://www.space.com/moon-approach-jupiter-july-2022/)
+- [X1’s income-based credit card is finally available to the public](https://techcrunch.com/2022/07/18/x1-income-based-fintech-credit-card-available-public/)
+- [As fundraising gets harder, founders should ask investors for a flat round](https://techcrunch.com/2022/07/18/right-now-founders-should-be-asking-investors-for-a-flat-round/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
