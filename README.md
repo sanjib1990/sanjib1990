@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Real estate crowdfunding giant Fundrise breaks into venture capital](https://techcrunch.com/2022/07/18/real-estate-fundrise-venture-capital-crowdfunding-private-markets/)
+- [Best telescopes for deep space](https://www.space.com/best-telescopes-for-deep-space/)
+- [Tesla’s solar roofs have stayed mostly in the dark and other TC news](https://techcrunch.com/2022/07/18/teslas-solar-roofs-have-stayed-mostly-in-the-dark-and-other-tc-news/)
+- [Marvel movies in chronological order](https://www.space.com/marvel-movies-in-order/)
 - [Acast acquires podcast database Podchaser](https://techcrunch.com/2022/07/18/acast-acquires-podcast-database-podchaser/)
-- [China plans asteroid deflection test in 2026: reports](https://www.space.com/china-asteroid-deflection-test-planetary-defense/)
-- [Will new NASA study move the needle on UFO research?](https://www.space.com/nasa-study-ufo-research-impact/)
-- [Higgs boson: 10 years after its discovery, why this particle could unlock new physics beyond the standard model](https://www.space.com/higgs-boson-physics-beyond-standard-model/)
-- [May&#39;s total lunar eclipse watched by Earth-observing satellites](https://www.space.com/lunar-eclipse-temperature-changes-satellite-images/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
