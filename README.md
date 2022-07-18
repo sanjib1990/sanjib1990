@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [LaMDA Logic - Computerphile](https://www.youtube.com/watch?v=ONloZfZEbUE)
 - [gzip file compression in 100 Seconds](https://www.youtube.com/watch?v=NLtt4S9ErIA)
 - [Cassandra in 100 Seconds](https://www.youtube.com/watch?v=ziq7FUKpCS8)
 - [Lecture 13: Limits of Functions](https://www.youtube.com/watch?v=cjeXg5rJ9D8)
 - [Is &quot;edge&quot; computing really faster?](https://www.youtube.com/watch?v=yOP5-3_WFus)
-- [Reverse Engineering - Computerphile](https://www.youtube.com/watch?v=9tZmSFjoOm4)
 <!-- YOUTUBE:END -->
 
 ---
