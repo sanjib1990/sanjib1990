@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html/)
-- [African fintechs halt virtual dollar cards after Union54 chargeback fraud surge](https://techcrunch.com/2022/07/18/african-fintechs-halt-virtual-dollar-cards-after-union54-chargeback-fraud-surge/)
-- [ByteDance-backed warehouse robotics startup Syrius picks up $7M](https://techcrunch.com/2022/07/18/bytedance-warehouse-robotics-syrius-7m/)
-- [On This Day In Space: July 18, 1980: India Launches 1st indigenous satellite](https://www.space.com/39251-on-this-day-in-space.html/)
-- [India’s central bank wants to ban cryptocurrencies, government says](https://techcrunch.com/2022/07/18/indias-central-bank-wants-to-ban-cryptocurrencies/)
+- [Acast acquires podcast database Podchaser](https://techcrunch.com/2022/07/18/acast-acquires-podcast-database-podchaser/)
+- [China plans asteroid deflection test in 2026: reports](https://www.space.com/china-asteroid-deflection-test-planetary-defense/)
+- [Will new NASA study move the needle on UFO research?](https://www.space.com/nasa-study-ufo-research-impact/)
+- [Higgs boson: 10 years after its discovery, why this particle could unlock new physics beyond the standard model](https://www.space.com/higgs-boson-physics-beyond-standard-model/)
+- [May&#39;s total lunar eclipse watched by Earth-observing satellites](https://www.space.com/lunar-eclipse-temperature-changes-satellite-images/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
