@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ByteDance-backed warehouse robotics startup Syrius picks up $7M](https://techcrunch.com/2022/07/18/bytedance-warehouse-robotics-syrius-7m/)
+- [On This Day In Space: July 18, 1980: India Launches 1st indigenous satellite](https://www.space.com/39251-on-this-day-in-space.html/)
 - [India’s central bank wants to ban cryptocurrencies, government says](https://techcrunch.com/2022/07/18/indias-central-bank-wants-to-ban-cryptocurrencies/)
 - [KitaBeli is bringing e-commerce to Indonesia’s small cities](https://techcrunch.com/2022/07/17/kitabeli-is-bringing-e-commerce-to-indonesias-small-cities/)
 - [GameStop looks to diversify its meme money](https://techcrunch.com/2022/07/17/gamestop-looks-to-diversify-its-meme-money/)
-- [NFTs have the potential to become media companies, Rarible co-founder says](https://techcrunch.com/2022/07/17/nfts-have-the-potential-to-become-media-companies-rarible-co-founder-says/)
-- [Modsy quietly shut down while some customers were still awaiting refunds](https://techcrunch.com/2022/07/17/modsy-quietly-shut-down-while-some-customers-were-still-awaiting-refunds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
