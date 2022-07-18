@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates/)
-- [Better.com is still trying to proceed with its SPAC deal](https://techcrunch.com/2022/07/18/better-com-is-still-trying-to-proceed-with-its-spac-deal/)
-- [&#39;Needle in a haystack&#39; black hole discovered in neighboring galaxy](https://www.space.com/dormant-black-hole-discovery-beyond-milky-way/)
-- [Mark-to-market to arrive at a realistic valuation and improve your fundraising odds](https://techcrunch.com/2022/07/18/mark-to-market-to-arrive-at-a-realistic-valuation-and-improve-your-fundraising-odds/)
-- [Star Wars movies ranked, worst to best](https://www.space.com/star-wars-movies-ranked-worst-to-best/)
+- [Record VC fundraising isn’t necessarily good news for first-time fund managers](https://techcrunch.com/2022/07/18/record-vc-fundraising-isnt-necessarily-good-news-for-first-time-fund-managers/)
+- [Amazon refreshes Prime Video design with icon-based navigation and a dedicated sports tab](https://techcrunch.com/2022/07/18/amazon-refreshes-prime-video-design-with-icon-based-navigation-and-a-dedicated-sports-tab/)
+- [What goes up must come down: Study looks at risk of orbital debris casualties](https://www.space.com/space-junk-rocket-debris-reentry-risk/)
+- [Crypto exchange Gemini executes second round of layoffs less than two months after axing 10% of staff](https://techcrunch.com/2022/07/18/crypto-exchange-gemini-executes-second-round-of-layoffs-less-than-two-months-after-axing-10-of-staff/)
+- [Look out Putin – Ukrainian woman invents ‘solar for balconies’ to wean Europe off Russian gas](https://techcrunch.com/2022/07/18/look-out-putin-ukrainian-woman-invents-solar-for-balconies-to-wean-europe-off-russian-gas/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
