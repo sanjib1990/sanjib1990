@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Real estate crowdfunding giant Fundrise breaks into venture capital](https://techcrunch.com/2022/07/18/real-estate-fundrise-venture-capital-crowdfunding-private-markets/)
-- [Best telescopes for deep space](https://www.space.com/best-telescopes-for-deep-space/)
-- [Tesla’s solar roofs have stayed mostly in the dark and other TC news](https://techcrunch.com/2022/07/18/teslas-solar-roofs-have-stayed-mostly-in-the-dark-and-other-tc-news/)
-- [Marvel movies in chronological order](https://www.space.com/marvel-movies-in-order/)
-- [Acast acquires podcast database Podchaser](https://techcrunch.com/2022/07/18/acast-acquires-podcast-database-podchaser/)
+- [Flipkart’s Cleartrip confirms data breach after hackers put data for sale](https://techcrunch.com/2022/07/18/cleartrip-data-breach-dark-web/)
+- [SupplyPike’s supply chain software helps CPG brands get products to stores on time](https://techcrunch.com/2022/07/18/supplypike-series-b-supply-chains-software-cpg-brands/)
+- [This niche cryptographic technique could transform privacy in web3](https://techcrunch.com/2022/07/18/crypto-blockchain-web3-privacy-cryptography-fully-homomorphic-encryption-startup-sunscreen/)
+- [Snap launches Snapchat for Web to bring the app’s core features to desktop](https://techcrunch.com/2022/07/18/snap-launches-snapchat-for-web/)
+- [Real estate investing giant Fundrise breaks into venture capital](https://techcrunch.com/2022/07/18/real-estate-fundrise-venture-capital-crowdfunding-private-markets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
