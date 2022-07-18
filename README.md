@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates/)
+- [Better.com is still trying to proceed with its SPAC deal](https://techcrunch.com/2022/07/18/better-com-is-still-trying-to-proceed-with-its-spac-deal/)
 - [&#39;Needle in a haystack&#39; black hole discovered in neighboring galaxy](https://www.space.com/dormant-black-hole-discovery-beyond-milky-way/)
 - [Mark-to-market to arrive at a realistic valuation and improve your fundraising odds](https://techcrunch.com/2022/07/18/mark-to-market-to-arrive-at-a-realistic-valuation-and-improve-your-fundraising-odds/)
 - [Star Wars movies ranked, worst to best](https://www.space.com/star-wars-movies-ranked-worst-to-best/)
-- [ESPN+ is getting a big price hike](https://techcrunch.com/2022/07/18/espn-is-getting-a-big-price-hike/)
-- [Denmark bans Chromebooks and Google Workspace in schools over data transfer risks](https://techcrunch.com/2022/07/18/denmark-bans-chromebooks-and-google-workspace-in-schools-over-gdpr/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
