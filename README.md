@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ForSight wants to put an end to cataracts with its surgery robot](https://techcrunch.com/2022/07/18/here-comes-the-scalpel/)
+- [Uber to pay millions for overcharging people with disabilities](https://techcrunch.com/2022/07/18/uber-to-pay-millions-for-overcharging-people-with-disabilities/)
+- [HireArt lands $26.25M to help manage and recruit W2 contractors for clients](https://techcrunch.com/2022/07/18/hireart-lands-26-25m-to-help-manage-and-recruit-w2-contractors-for-clients/)
+- [Digital health unicorns need a checkup](https://techcrunch.com/2022/07/18/digital-health-unicorns-need-a-check-up/)
 - [Nebula: Definition, location and variants](https://www.space.com/nebula-definition-types/)
-- [Record VC fundraising isn’t necessarily good news for first-time fund managers](https://techcrunch.com/2022/07/18/record-vc-fundraising-isnt-necessarily-good-news-for-first-time-fund-managers/)
-- [Amazon refreshes Prime Video design with icon-based navigation and a dedicated sports tab](https://techcrunch.com/2022/07/18/amazon-refreshes-prime-video-design-with-icon-based-navigation-and-a-dedicated-sports-tab/)
-- [What goes up must come down: Study looks at risk of orbital debris casualties](https://www.space.com/space-junk-rocket-debris-reentry-risk/)
-- [Crypto exchange Gemini executes second round of layoffs less than two months after axing 10% of staff](https://techcrunch.com/2022/07/18/crypto-exchange-gemini-executes-second-round-of-layoffs-less-than-two-months-after-axing-10-of-staff/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
