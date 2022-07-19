@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Russia fines Google $374M for ‘illegal content’ over its Ukraine invasion](https://techcrunch.com/2022/07/19/daily-crunch-russia-fines-google-374m-for-illegal-content-over-its-ukraine-invasion/)
+- [Netflix acquires animation studio Animal Logic](https://techcrunch.com/2022/07/19/netflix-acquires-animation-studio-animal-logic/)
+- [So. Many. New. Venture. Funds.](https://techcrunch.com/2022/07/19/so-many-new-venture-funds/)
+- [Netflix loses 970,000 subscribers, its largest quarterly loss ever](https://techcrunch.com/2022/07/19/netflix-loses-970000-subscribers-its-largest-quarterly-loss-ever/)
 - [The Tin Man gets his heart in &#39;The Orville&#39; Season 3 episode 7 &#39;From Unknown Graves&#39;](https://www.space.com/the-orville-season-3-episode-7-review/)
-- [Apple agrees to pay $50M to settle lawsuit over flawed keyboards on older MacBooks](https://techcrunch.com/2022/07/19/apple-agrees-to-pay-50m-to-settle-lawsuit-over-flawed-keyboards-on-older-macbooks/)
-- [Toyota partners to build affordable commercial electric vans, light-duty trucks](https://techcrunch.com/2022/07/19/toyota-partners-to-build-affordable-commercial-electric-vans-light-duty-trucks/)
-- [Lego space deals: discounts on spaceships, space stations and NASA kits](https://www.space.com/lego-space-deals/)
-- [Bored Apes founders on their plans for ‘Otherside’ metaverse](https://techcrunch.com/2022/07/19/bored-apes-founders-on-their-plans-for-otherside-metaverse/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
