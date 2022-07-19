@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Funding gap excludes Black-owned startups from South Africa’s booming digital economy](https://techcrunch.com/2022/07/19/funding-gap-excludes-black-owned-startups-from-south-africas-booming-digital-economy/)
-- [Dim Pluto reaches its brightest as the third-quarter moon meets Mars in the night sky](https://www.space.com/pluto-brightest-third-quarter-moon-2022/)
-- [Hypersonic air-breathing weapon concept passes 2nd flight test](https://www.space.com/hypersonic-air-breathing-weapon-second-flight-test/)
-- [What downturn? Investors remain bullish on HR tech as the Great Resignation slows](https://techcrunch.com/2022/07/19/what-downturn-investors-remain-bullish-on-hr-tech-as-the-great-resignation-slows/)
-- [Blizzard QA testers in Albany want to unionize](https://techcrunch.com/2022/07/19/blizzard-albany-qa-union-activision/)
+- [The Tin Man gets his heart in &#39;The Orville&#39; Season 3 episode 7 &#39;From Unknown Graves&#39;](https://www.space.com/the-orville-season-3-episode-7-review/)
+- [Apple agrees to pay $50M to settle lawsuit over flawed keyboards on older MacBooks](https://techcrunch.com/2022/07/19/apple-agrees-to-pay-50m-to-settle-lawsuit-over-flawed-keyboards-on-older-macbooks/)
+- [Toyota partners to build affordable commercial electric vans, light-duty trucks](https://techcrunch.com/2022/07/19/toyota-partners-to-build-affordable-commercial-electric-vans-light-duty-trucks/)
+- [Lego space deals: discounts on spaceships, space stations and NASA kits](https://www.space.com/lego-space-deals/)
+- [Bored Apes founders on their plans for ‘Otherside’ metaverse](https://techcrunch.com/2022/07/19/bored-apes-founders-on-their-plans-for-otherside-metaverse/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
