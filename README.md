@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AM Ventures extrudes $100M to support industrial 3D printing](https://techcrunch.com/2022/07/19/am-ventures/)
+- [Rolls-Royce and Hyundai partner on air taxi hydrogen fuel system](https://techcrunch.com/2022/07/19/rolls-royce-and-hyundai-partner-on-air-taxi-hydrogen-fuel-system/)
+- [Arkive is building the world’s first decentralized museum](https://techcrunch.com/2022/07/19/arkive-decentralized-museum/)
+- [Google introduces new in-app purchase policy for EEA users](https://techcrunch.com/2022/07/19/google-in-app-purchases-digital-markets-act/)
 - [Ghost appears with new funding, marketplace to match buyers with unsold products](https://techcrunch.com/2022/07/19/ghost-marketplace-buyers-unsold-products/)
-- [Alaska Airline’s new electronic bag tag will let you speed through the airport lobby](https://techcrunch.com/2022/07/19/alaska-airlines-new-electronic-bag-tag-will-let-you-speed-through-the-airport-lobby/)
-- [VC firm Tribe Capital raises $25M to launch crypto incubator program](https://techcrunch.com/2022/07/19/vc-firm-tribe-capital-raises-25m-to-launch-crypto-incubator-program/)
-- [Crypto asset manager Valkyrie looks to raise $30M for its new VC arm](https://techcrunch.com/2022/07/19/crypto-asset-manager-valkyrie-looks-to-raise-30m-for-its-new-vc-arm/)
-- [Push Security launches to make SaaS sprawl and shadow IT safer](https://techcrunch.com/2022/07/19/push-security-launches-to-make-saas-sprawl-and-shadow-it-safer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
