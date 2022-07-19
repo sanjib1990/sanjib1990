@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [James Webb Space Telescope&#39;s &#39;jewel-filled&#39; photo is stunning. But what are we even looking at here?](https://www.space.com/james-webb-space-telescope-deep-field-explained/)
-- [Sotheby&#39;s to auction Buzz Aldrin&#39;s Apollo 11 moon landing artifacts](https://www.space.com/sothebys-buzz-aldrin-american-icon-auction/)
-- [Space tourism is looking for liftoff in China](https://www.space.com/china-space-tourism-launch-startup/)
-- [Massive stellar pairs spewing X-rays offer a glimpse into the Milky Way&#39;s past](https://www.space.com/high-mass-x-ray-binaries-birthplace/)
-- [Former Tencent insurance boss joins web3 powerhouse Animoca Brands](https://techcrunch.com/2022/07/19/tencent-insurance-web3-animoca-brands/)
+- [Persephone puts poop to work to explore and heal your gut microbiome](https://techcrunch.com/2022/07/19/persephone-puts-poop-to-work-to-explore-and-heal-your-gut-microbiome/)
+- [HiddenLayer emerges from stealth to protect AI models from attacks](https://techcrunch.com/2022/07/19/hiddenlayer-emerges-from-stealth-to-protect-ai-models-from-attacks/)
+- [IBM hopes a new error mitigation technique will help it get to quantum advantage](https://techcrunch.com/2022/07/19/ibm-hopes-a-new-error-mitigation-technique-will-help-it-get-to-quantum-advantage/)
+- [On This Day In Space: July 19, 1985: Christa McAuliffe named 1st &#39;Teacher in Space&#39;](https://www.space.com/39251-on-this-day-in-space.html/)
+- [Russia hits Google with a $375M fine for allowing ‘prohibited’ Ukraine news on its platforms](https://techcrunch.com/2022/07/19/russia-hits-google-with-a-375m-fine-for-allowing-prohibited-ukraine-news-on-its-platforms/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
