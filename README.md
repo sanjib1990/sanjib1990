@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [AM Ventures extrudes $100M to support industrial 3D printing](https://techcrunch.com/2022/07/19/am-ventures/)
-- [Rolls-Royce and Hyundai partner on air taxi hydrogen fuel system](https://techcrunch.com/2022/07/19/rolls-royce-and-hyundai-partner-on-air-taxi-hydrogen-fuel-system/)
-- [Arkive is building the world’s first decentralized museum](https://techcrunch.com/2022/07/19/arkive-decentralized-museum/)
-- [Google introduces new in-app purchase policy for EEA users](https://techcrunch.com/2022/07/19/google-in-app-purchases-digital-markets-act/)
-- [Ghost appears with new funding, marketplace to match buyers with unsold products](https://techcrunch.com/2022/07/19/ghost-marketplace-buyers-unsold-products/)
+- [Security flaws in a popular GPS tracker are exposing a million vehicle locations](https://techcrunch.com/2022/07/19/micodus-gps-tracker-exposing-vehicle-locations/)
+- [Microsoft wants to add Stories to corporate portals](https://techcrunch.com/2022/07/19/microsoft-wants-to-add-stories-to-corporate-portals/)
+- [Microsoft launches its Cloud for Sovereignty](https://techcrunch.com/2022/07/19/microsoft-launches-its-cloud-for-sovereignty/)
+- [Relativity and Impulse want to go to Mars as early as 2024](https://techcrunch.com/2022/07/19/relativity-and-impulse-want-to-go-to-mars-as-early-as-2024/)
+- [Nail product market fit in an ever-changing market with Underscore VC and Hi Marley](https://techcrunch.com/2022/07/19/nail-product-market-fit-in-an-ever-changing-market-with-underscore-vc-and-hi-marley/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
