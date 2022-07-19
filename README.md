@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Former Tencent insurance boss joins web3 powerhouse Animoca Brands](https://techcrunch.com/2022/07/19/tencent-insurance-web3-animoca-brands/)
+- [Casavo, an Opendoor-style proptech from Italy, raises $410M to expand its instant buyer platform across Europe](https://techcrunch.com/2022/07/19/casavo-an-opendoor-style-proptech-from-italy-raises-410m-to-expand-its-instant-buyer-platform-across-europe/)
 - [AfricInvest and Cathay Innovation reach final close of Pan-African fund at €110M](https://techcrunch.com/2022/07/19/africinvest-and-cathay-innovation-reach-final-close-of-pan-african-fund-at-e110m/)
 - [Microsoft u-turns on policy that would’ve banned commercial open source apps](https://techcrunch.com/2022/07/19/microsoft-u-turns-on-policy-that-wouldve-banned-commercial-open-source-apps/)
 - [Sudanese fintech Bloom nabs $6.5M, backed by Y Combinator, GFC and Visa](https://techcrunch.com/2022/07/19/sudanese-fintech-bloom-nabs-6-5m-backed-by-y-combinator-gfc-and-visa/)
-- [Eka Care, a startup helping digitize health records of Indian patients, raises $15 million](https://techcrunch.com/2022/07/18/eka-care-15-million-dollar-series-a-round-funding-hummingbird-ventures-health-tech-startup/)
-- [Amazon sues admins from 10,000 Facebook groups over fake reviews](https://techcrunch.com/2022/07/18/amazon-lawsuit-fake-reviews-facebook/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
