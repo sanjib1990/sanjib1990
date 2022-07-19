@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [James Webb Space Telescope&#39;s atmosphere studies could provide clues to land and sea on alien worlds](https://www.space.com/james-webb-space-telescope-exoplanets-atmosphere-habitability/)
-- [Black holes may die differently than we thought](https://www.space.com/black-holes-general-relativity-gravity/)
-- [These 2 private companies aim to beat SpaceX to Mars with 2024 flight](https://www.space.com/relativity-space-private-mars-mission-launching-2024/)
-- [Europe hits record-high temperatures as satellites track heat wave from space](https://www.space.com/europe-record-breaking-heatwave-from-satellites/)
-- [AM Ventures extrudes $100M to support industrial 3D printing](https://techcrunch.com/2022/07/19/am-ventures/)
+- [Alloy Automation, Fiveable and Parthean founders discuss raising first dollars at TC Disrupt](https://techcrunch.com/2022/07/19/alloy-automation-fiveable-and-parthean-founders-discuss-raising-first-dollars-at-tc-disrupt/)
+- [Crop One, Emirate open ‘world’s largest vertical farm’ in Dubai](https://techcrunch.com/2022/07/19/crop-one-emirate-worlds-largest-vertical-farm-in-dubai/)
+- [Can Medicare save the insurtech market?](https://techcrunch.com/2022/07/19/can-medicare-save-the-insurtech-market/)
+- [Space flames and microgravity liquids: Astronauts mark 20 years with space station equipment](https://www.space.com/space-station-microgravity-science-glovebox-20th-anniversary/)
+- [Instagram rolls out a new searchable map to make it easier to discover popular locations](https://techcrunch.com/2022/07/19/instagram-new-searchable-map-experience/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
