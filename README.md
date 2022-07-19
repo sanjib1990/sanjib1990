@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Persephone puts poop to work to explore and heal your gut microbiome](https://techcrunch.com/2022/07/19/persephone-puts-poop-to-work-to-explore-and-heal-your-gut-microbiome/)
-- [HiddenLayer emerges from stealth to protect AI models from attacks](https://techcrunch.com/2022/07/19/hiddenlayer-emerges-from-stealth-to-protect-ai-models-from-attacks/)
-- [IBM hopes a new error mitigation technique will help it get to quantum advantage](https://techcrunch.com/2022/07/19/ibm-hopes-a-new-error-mitigation-technique-will-help-it-get-to-quantum-advantage/)
-- [On This Day In Space: July 19, 1985: Christa McAuliffe named 1st &#39;Teacher in Space&#39;](https://www.space.com/39251-on-this-day-in-space.html/)
-- [Russia hits Google with a $375M fine for allowing ‘prohibited’ Ukraine news on its platforms](https://techcrunch.com/2022/07/19/russia-hits-google-with-a-375m-fine-for-allowing-prohibited-ukraine-news-on-its-platforms/)
+- [Ghost appears with new funding, marketplace to match buyers with unsold products](https://techcrunch.com/2022/07/19/ghost-marketplace-buyers-unsold-products/)
+- [Alaska Airline’s new electronic bag tag will let you speed through the airport lobby](https://techcrunch.com/2022/07/19/alaska-airlines-new-electronic-bag-tag-will-let-you-speed-through-the-airport-lobby/)
+- [VC firm Tribe Capital raises $25M to launch crypto incubator program](https://techcrunch.com/2022/07/19/vc-firm-tribe-capital-raises-25m-to-launch-crypto-incubator-program/)
+- [Crypto asset manager Valkyrie looks to raise $30M for its new VC arm](https://techcrunch.com/2022/07/19/crypto-asset-manager-valkyrie-looks-to-raise-30m-for-its-new-vc-arm/)
+- [Push Security launches to make SaaS sprawl and shadow IT safer](https://techcrunch.com/2022/07/19/push-security-launches-to-make-saas-sprawl-and-shadow-it-safer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
