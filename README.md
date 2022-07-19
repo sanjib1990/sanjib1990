@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Funding gap excludes Black-owned startups from South Africa’s booming digital economy](https://techcrunch.com/2022/07/19/funding-gap-excludes-black-owned-startups-from-south-africas-booming-digital-economy/)
+- [Dim Pluto reaches its brightest as the third-quarter moon meets Mars in the night sky](https://www.space.com/pluto-brightest-third-quarter-moon-2022/)
+- [Hypersonic air-breathing weapon concept passes 2nd flight test](https://www.space.com/hypersonic-air-breathing-weapon-second-flight-test/)
 - [What downturn? Investors remain bullish on HR tech as the Great Resignation slows](https://techcrunch.com/2022/07/19/what-downturn-investors-remain-bullish-on-hr-tech-as-the-great-resignation-slows/)
 - [Blizzard QA testers in Albany want to unionize](https://techcrunch.com/2022/07/19/blizzard-albany-qa-union-activision/)
-- [TechCrunch+ roundup: Convertible note fundraising, fintech’s falloff, how to mark-to-market](https://techcrunch.com/2022/07/19/techcrunch-roundup-convertible-note-fundraising-fintechs-falloff-how-to-mark-to-market/)
-- [Twitch is adding a ‘charity mode’ that simplifies streaming for a good cause](https://techcrunch.com/2022/07/19/twitch-charity-stream/)
-- [Alloy Automation, Fiveable and Parthean founders discuss raising first dollars at TC Disrupt](https://techcrunch.com/2022/07/19/alloy-automation-fiveable-and-parthean-founders-discuss-raising-first-dollars-at-tc-disrupt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
