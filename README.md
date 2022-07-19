@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [It’s time to get technical with your cash flow](https://techcrunch.com/2022/07/19/its-time-to-get-technical-with-your-cash-flow/)
-- [Fintech isn’t dead, as Ramp reports accelerating revenue growth](https://techcrunch.com/2022/07/19/fintech-isnt-dead-as-ramp-reports-accelerating-revenue-growth/)
-- [OnlyFans invests in U.K. creator Chloe Sims and her sisters for new streaming series](https://techcrunch.com/2022/07/19/onlyfans-invests-in-u-k-creator-chloe-sims-and-her-sisters-for-new-streaming-series/)
+- [James Webb Space Telescope&#39;s atmosphere studies could provide clues to land and sea on alien worlds](https://www.space.com/james-webb-space-telescope-exoplanets-atmosphere-habitability/)
 - [Black holes may die differently than we thought](https://www.space.com/black-holes-general-relativity-gravity/)
 - [These 2 private companies aim to beat SpaceX to Mars with 2024 flight](https://www.space.com/relativity-space-private-mars-mission-launching-2024/)
+- [Europe hits record-high temperatures as satellites track heat wave from space](https://www.space.com/europe-record-breaking-heatwave-from-satellites/)
+- [AM Ventures extrudes $100M to support industrial 3D printing](https://techcrunch.com/2022/07/19/am-ventures/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
