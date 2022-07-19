@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tianzhou 3 cargo ship undocks from China&#39;s Tiangong space station](https://www.space.com/tianzhou-3-cargo-ship-undocks-tiangong-station/)
+- [China rolls out rocket to launch Wentian module for Tiangong space station](https://www.space.com/china-tiangong-space-station-module-wentian-rocket-rollout/)
+- [Rocket Lab delays US spy satellite launch indefinitely for software updates](https://www.space.com/rocket-lab-launch-nrol-199-delay-software/)
 - [Daily Crunch: Russia fines Google $374M for ‘illegal content’ over its Ukraine invasion](https://techcrunch.com/2022/07/19/daily-crunch-russia-fines-google-374m-for-illegal-content-over-its-ukraine-invasion/)
 - [Netflix acquires animation studio Animal Logic](https://techcrunch.com/2022/07/19/netflix-acquires-animation-studio-animal-logic/)
-- [So. Many. New. Venture. Funds.](https://techcrunch.com/2022/07/19/so-many-new-venture-funds/)
-- [Netflix loses 970,000 subscribers, its largest quarterly loss ever](https://techcrunch.com/2022/07/19/netflix-loses-970000-subscribers-its-largest-quarterly-loss-ever/)
-- [The Tin Man gets his heart in &#39;The Orville&#39; Season 3 episode 7 &#39;From Unknown Graves&#39;](https://www.space.com/the-orville-season-3-episode-7-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
