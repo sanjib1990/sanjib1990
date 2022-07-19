@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon sues admins from 10,000 Facebook groups over fake reviews](https://techcrunch.com/2022/07/18/amazon-lawsuit-fake-reviews-facebook/)
+- [GM unveils Chevy Blazer EV to challenge Tesla Model Y](https://techcrunch.com/2022/07/18/gm-unveils-chevy-blazer-ev-to-challenge-tesla-model-y/)
 - [Japanese e-commerce enabler AnyMind raises funding in equity, debt for acquisitions](https://techcrunch.com/2022/07/18/japanese-e-commerce-enabler-anymind-raises-funding-in-equity-debt-for-acquisitions/)
 - [South Korean e-scooter company Gbike acquires Hyundai Motor’s micromobility platform ZET](https://techcrunch.com/2022/07/18/south-korean-e-scooter-company-gbike-acquires-hyundai-motors-micromobility-platform-zet/)
 - [Teaching home robots to learn by watching people](https://techcrunch.com/2022/07/18/teaching-home-robots-to-learn-by-watching-people/)
-- [NHTSA investigates another Tesla crash involving death of motorcyclist](https://techcrunch.com/2022/07/18/nhtsa-investigates-another-tesla-crash-involving-death-of-motorcyclist/)
-- [Slack is increasing prices and changing the way its free plan works](https://techcrunch.com/2022/07/18/slack-is-increasing-prices-and-changing-the-way-its-free-plan-works/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
