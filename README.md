@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Security flaws in a popular GPS tracker are exposing a million vehicle locations](https://techcrunch.com/2022/07/19/micodus-gps-tracker-exposing-vehicle-locations/)
-- [Microsoft wants to add Stories to corporate portals](https://techcrunch.com/2022/07/19/microsoft-wants-to-add-stories-to-corporate-portals/)
-- [Microsoft launches its Cloud for Sovereignty](https://techcrunch.com/2022/07/19/microsoft-launches-its-cloud-for-sovereignty/)
-- [Relativity and Impulse want to go to Mars as early as 2024](https://techcrunch.com/2022/07/19/relativity-and-impulse-want-to-go-to-mars-as-early-as-2024/)
-- [Nail product market fit in an ever-changing market with Underscore VC and Hi Marley](https://techcrunch.com/2022/07/19/nail-product-market-fit-in-an-ever-changing-market-with-underscore-vc-and-hi-marley/)
+- [It’s time to get technical with your cash flow](https://techcrunch.com/2022/07/19/its-time-to-get-technical-with-your-cash-flow/)
+- [Fintech isn’t dead, as Ramp reports accelerating revenue growth](https://techcrunch.com/2022/07/19/fintech-isnt-dead-as-ramp-reports-accelerating-revenue-growth/)
+- [OnlyFans invests in U.K. creator Chloe Sims and her sisters for new streaming series](https://techcrunch.com/2022/07/19/onlyfans-invests-in-u-k-creator-chloe-sims-and-her-sisters-for-new-streaming-series/)
+- [Black holes may die differently than we thought](https://www.space.com/black-holes-general-relativity-gravity/)
+- [These 2 private companies aim to beat SpaceX to Mars with 2024 flight](https://www.space.com/relativity-space-private-mars-mission-launching-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
