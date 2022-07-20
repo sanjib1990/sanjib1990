@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: VW Group changes drivers — CEO Scott Keogh shifts to launch Scout EV brand](https://techcrunch.com/2022/07/20/daily-crunch-vw-group-changes-drivers-ceo-scott-keogh-shifts-to-launch-scout-ev-brand/)
+- [NASA’s mega moon rocket could see its first launch this summer](https://techcrunch.com/2022/07/20/nasas-mega-moon-rocket-could-see-its-first-launch-this-summer/)
+- [Tesla solar sees best quarter in 4 years, but ‘semiconductor challenges’ spell trouble](https://techcrunch.com/2022/07/20/tesla-solar-panel-best-quarter-in-4-years-semiconductor-challenges/)
+- [Mattel to launch SpaceX vehicles as new Matchbox toys and collectibles](https://www.space.com/mattel-spacex-rockets-toys-collectibles/)
 - [Tesla dumped 75% of its Bitcoin holdings](https://techcrunch.com/2022/07/20/tesla-dumped-75-of-its-bitcoin-holdings/)
-- [Lyft lays off about 60 employees, shutters in-house car rentals program](https://techcrunch.com/2022/07/20/lyft-lays-off-about-60-employees-shutters-in-house-car-rentals-program/)
-- [NASA considers sending scientists to International Space Station: report](https://www.space.com/nasa-considers-scientists-space-station-flights/)
-- [Did no one tell Europe the party is over?](https://techcrunch.com/2022/07/20/did-no-one-tell-europe-the-party-is-over/)
-- [Healthie lands $16.5M to build the Stripe for virtual patient care](https://techcrunch.com/2022/07/20/healthie-lands-16-5m-to-build-the-stripe-for-virtual-patient-care/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
