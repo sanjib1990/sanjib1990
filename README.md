@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The worst solar storms in history](https://www.space.com/12584-worst-solar-storms-sun-flares-history.html/)
-- [&#39;Escaping Gravity&#39;: Former NASA deputy chief Lori Garver weighs in US space program in new book](https://www.space.com/escaping-gravity-nasa-lori-garver-space-book/)
-- [Landsat: A guide to the Earth observation satellite fleet](https://www.space.com/19665-landsat.html/)
-- [Celebrate 50 years of Landsat with these stunning images &lpar;gallery&rpar;](https://www.space.com/landsat-best-earth-images/)
-- [Crunchbase looks to grow its database of startups with $50M in new cash](https://techcrunch.com/2022/07/20/crunchbase-looks-to-grow-its-database-of-startups-with-50m-in-new-cash/)
+- [Don’t abandon founders in times of austerity: 3 ways to support your portfolio](https://techcrunch.com/2022/07/20/dont-abandon-founders-in-times-of-austerity-3-ways-to-support-your-portfolio/)
+- [Instagram’s new ‘Boost’ feature lets businesses turn Reels into ads](https://techcrunch.com/2022/07/20/instagrams-boost-option-lets-businesses-turn-reels-ads/)
+- [Boom Supersonic and Northrop Grumman team up to build superfast US military aircraft](https://www.space.com/boom-supersonic-northrop-grumman-superfast-military-plane/)
+- [Star Wars movies in chronological order](https://www.space.com/star-wars-movies-in-order/)
+- [Russian hackers behind SolarWinds are now hiding malware in Google Drive](https://techcrunch.com/2022/07/20/solarwinds-hackers-google-drive-malware/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
