@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Crunchbase looks to grow its database of startups with $50M in new cash](https://techcrunch.com/2022/07/20/crunchbase-looks-to-grow-its-database-of-startups-with-50m-in-new-cash/)
+- [Cultivated meat company Meatable showcases its first product — synthetic sausages](https://techcrunch.com/2022/07/20/cultivated-meat-company-meatable-showcases-its-first-product-synthetic-sausages/)
+- [Volkswagen’s U.S. CEO steps down to lead its Scout EV brand](https://techcrunch.com/2022/07/20/volkswagens-u-s-ceo-steps-down-to-lead-its-scout-ev-brand/)
 - [Apollo 11 vs. space tourism in 2022 &lpar;op-ed&rpar;](https://www.space.com/apollo-11-space-tourism-2022/)
 - [Lego Star Wars deals 2022: Savings on vehicles, ships, helmets and more](https://www.space.com/lego-star-wars-deals/)
-- [Europe&#39;s 1st commercial staged rocket passes hot-fire milestone](https://www.space.com/german-rocket-hot-fire-success/)
-- [Cosmic crime scene reveals how black holes turn stars into &#39;spaghetti&#39;](https://www.space.com/black-hole-star-death-gas-cloud-clues/)
-- [Charles raises $20M to bring conversational commerce to WhatsApp in Europe](https://techcrunch.com/2022/07/20/charles-raises-20m-to-bring-conversational-commerce-to-whatsapp-in-europe/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
