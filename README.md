@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apollo 11 vs. space tourism in 2022 &lpar;op-ed&rpar;](https://www.space.com/apollo-11-space-tourism-2022/)
+- [Lego Star Wars deals 2022: Savings on vehicles, ships, helmets and more](https://www.space.com/lego-star-wars-deals/)
 - [Europe&#39;s 1st commercial staged rocket passes hot-fire milestone](https://www.space.com/german-rocket-hot-fire-success/)
 - [Cosmic crime scene reveals how black holes turn stars into &#39;spaghetti&#39;](https://www.space.com/black-hole-star-death-gas-cloud-clues/)
 - [Charles raises $20M to bring conversational commerce to WhatsApp in Europe](https://techcrunch.com/2022/07/20/charles-raises-20m-to-bring-conversational-commerce-to-whatsapp-in-europe/)
-- [Xiaomi says it has shipped over 200 million smartphones in India amid crackdown](https://techcrunch.com/2022/07/20/xiaomi-says-it-has-shipped-over-200-million-smartphones-in-india-amid-crackdown/)
-- [Google expands its photo and canvas printing service to Europe and Canada](https://techcrunch.com/2022/07/20/google-expands-its-photo-and-canvas-printing-service-to-europe-and-canada/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
