@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Spinn, the coffee maker for people who are too lazy to learn about coffee](https://techcrunch.com/2022/07/20/review-erm-that-aint-cold-brew-spinn/)
-- [Arrenda emerges with Adelanta, a financing offering for landlords in Latin America](https://techcrunch.com/2022/07/20/arrenda-emerges-with-adelanta-a-financing-offering-for-landlords-in-latin-america/)
-- [Tortoise is coming to Comic Con, and it’s bringing burritos](https://techcrunch.com/2022/07/20/tortoise-is-coming-to-comic-con-and-its-bringing-burritos/)
-- [Spotify adds more artists to its Blend tool, allows fans to buy merch via the feature](https://techcrunch.com/2022/07/20/spotify-adds-more-artists-blend-tool/)
-- [Tedooo raises $3M to scale its social network for buyers and sellers](https://techcrunch.com/2022/07/20/tedooo-raises-3m-to-scale-its-social-network-for-buyers-and-sellers/)
+- [The worst solar storms in history](https://www.space.com/12584-worst-solar-storms-sun-flares-history.html/)
+- [&#39;Escaping Gravity&#39;: Former NASA deputy chief Lori Garver weighs in US space program in new book](https://www.space.com/escaping-gravity-nasa-lori-garver-space-book/)
+- [Landsat: A guide to the Earth observation satellite fleet](https://www.space.com/19665-landsat.html/)
+- [Celebrate 50 years of Landsat with these stunning images &lpar;gallery&rpar;](https://www.space.com/landsat-best-earth-images/)
+- [Crunchbase looks to grow its database of startups with $50M in new cash](https://techcrunch.com/2022/07/20/crunchbase-looks-to-grow-its-database-of-startups-with-50m-in-new-cash/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
