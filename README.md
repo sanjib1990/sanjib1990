@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA considers sending scientists to International Space Station: report](https://www.space.com/nasa-considers-scientists-space-station-flights/)
+- [Did no one tell Europe the party is over?](https://techcrunch.com/2022/07/20/did-no-one-tell-europe-the-party-is-over/)
 - [Healthie lands $16.5M to build the Stripe for virtual patient care](https://techcrunch.com/2022/07/20/healthie-lands-16-5m-to-build-the-stripe-for-virtual-patient-care/)
 - [Stripe’s new and lower internal valuation, explained](https://techcrunch.com/2022/07/20/stripes-new-and-lower-internal-valuation-explained/)
 - [WTF is a 409A?](https://techcrunch.com/2022/07/20/what-is-409a-valuation-stripe-instacart/)
-- [Facebook Gaming now lets creators turn their live gameplay clips into Reels](https://techcrunch.com/2022/07/20/facebook-gaming-creators-turn-live-gameplay-clips-reels/)
-- [Alt gets into lending to let you borrow money against your trading card collection](https://techcrunch.com/2022/07/20/alt-gets-into-lending-to-let-you-borrow-money-against-your-trading-card-collection/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
