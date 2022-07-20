@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Dear Sophie: What are the student and work visa processes for grads?](https://techcrunch.com/2022/07/20/dear-sophie-what-are-the-student-and-work-visa-processes-for-grads/)
-- [OpenAI expands access to DALL-E 2, its powerful image-generating AI system](https://techcrunch.com/2022/07/20/openai-expands-access-to-dall-e-2-its-powerful-image-generating-ai-system/)
-- [Roblox is getting a major visual makeover &lpar;but don’t freak out&rpar;](https://techcrunch.com/2022/07/20/roblox-materials-update-custom-materials/)
-- [Fundraising tips for early and midstage startups in 2022](https://techcrunch.com/2022/07/20/fundraising-tips-for-early-and-mid-stage-startups-in-2022/)
-- [To search for alien life, astronomers will look for clues in the atmospheres of distant planets — and the James Webb Space Telescope just proved it&#39;s possible to do so](https://www.space.com/james-webb-space-telescope-exoplanet-atmospheres-explained/)
+- [Solar wind blowing from the sun could trigger aurora displays](https://www.space.com/coronal-holes-cme-auroras-july-2022/)
+- [China launches SuperView remote-sensing satellites on Long March 2C rocket](https://www.space.com/china-launches-superview-satellites-commercial-sensing/)
+- [We don’t need no stinking trademarks: GetHenry changes name to Cycle](https://techcrunch.com/2022/07/20/gethenry-becomes-cycle/)
+- [On This Day In Space: July 20, 1969: Apollo 11 Astronauts take the first moonwalk](https://www.space.com/39251-on-this-day-in-space.html/)
+- [NASA picks SpaceX&#39;s Falcon Heavy rocket to launch Roman Space Telescope](https://www.space.com/spacex-falcon-heavy-to-launch-roman-space-telescope/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
