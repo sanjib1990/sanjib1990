@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla dumped 75% of its Bitcoin holdings](https://techcrunch.com/2022/07/20/tesla-dumped-75-of-its-bitcoin-holdings/)
+- [Lyft lays off about 60 employees, shutters in-house car rentals program](https://techcrunch.com/2022/07/20/lyft-lays-off-about-60-employees-shutters-in-house-car-rentals-program/)
 - [NASA considers sending scientists to International Space Station: report](https://www.space.com/nasa-considers-scientists-space-station-flights/)
 - [Did no one tell Europe the party is over?](https://techcrunch.com/2022/07/20/did-no-one-tell-europe-the-party-is-over/)
 - [Healthie lands $16.5M to build the Stripe for virtual patient care](https://techcrunch.com/2022/07/20/healthie-lands-16-5m-to-build-the-stripe-for-virtual-patient-care/)
-- [Stripe’s new and lower internal valuation, explained](https://techcrunch.com/2022/07/20/stripes-new-and-lower-internal-valuation-explained/)
-- [WTF is a 409A?](https://techcrunch.com/2022/07/20/what-is-409a-valuation-stripe-instacart/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
