@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Don’t abandon founders in times of austerity: 3 ways to support your portfolio](https://techcrunch.com/2022/07/20/dont-abandon-founders-in-times-of-austerity-3-ways-to-support-your-portfolio/)
-- [Instagram’s new ‘Boost’ feature lets businesses turn Reels into ads](https://techcrunch.com/2022/07/20/instagrams-boost-option-lets-businesses-turn-reels-ads/)
-- [Boom Supersonic and Northrop Grumman team up to build superfast US military aircraft](https://www.space.com/boom-supersonic-northrop-grumman-superfast-military-plane/)
-- [Star Wars movies in chronological order](https://www.space.com/star-wars-movies-in-order/)
-- [Russian hackers behind SolarWinds are now hiding malware in Google Drive](https://techcrunch.com/2022/07/20/solarwinds-hackers-google-drive-malware/)
+- [Roblox is getting a major opt-in visual makeover](https://techcrunch.com/2022/07/20/roblox-materials-update-custom-materials/)
+- [Fundraising tips for early and midstage startups in 2022](https://techcrunch.com/2022/07/20/fundraising-tips-for-early-and-mid-stage-startups-in-2022/)
+- [Skullcandy is partnering with Amazon to offer dual smart assistants](https://techcrunch.com/2022/07/20/skullcandy-is-partnering-with-amazon-to-offer-dual-smart-assistants/)
+- [Amazon debuts new Alexa developer tools, including support for multiple voice assistants](https://techcrunch.com/2022/07/20/amazon-debuts-new-alexa-developers-tools-including-support-for-multiple-voice-assistants/)
+- [The Startup Battlefield 200 application window closes next week](https://techcrunch.com/2022/07/20/the-startup-battlefield-200-application-window-closes-sunday/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
