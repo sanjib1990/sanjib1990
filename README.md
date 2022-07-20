@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Roblox is getting a major opt-in visual makeover](https://techcrunch.com/2022/07/20/roblox-materials-update-custom-materials/)
+- [Dear Sophie: What are the student and work visa processes for grads?](https://techcrunch.com/2022/07/20/dear-sophie-what-are-the-student-and-work-visa-processes-for-grads/)
+- [OpenAI expands access to DALL-E 2, its powerful image-generating AI system](https://techcrunch.com/2022/07/20/openai-expands-access-to-dall-e-2-its-powerful-image-generating-ai-system/)
+- [Roblox is getting a major visual makeover &lpar;but don’t freak out&rpar;](https://techcrunch.com/2022/07/20/roblox-materials-update-custom-materials/)
 - [Fundraising tips for early and midstage startups in 2022](https://techcrunch.com/2022/07/20/fundraising-tips-for-early-and-mid-stage-startups-in-2022/)
-- [Skullcandy is partnering with Amazon to offer dual smart assistants](https://techcrunch.com/2022/07/20/skullcandy-is-partnering-with-amazon-to-offer-dual-smart-assistants/)
-- [Amazon debuts new Alexa developer tools, including support for multiple voice assistants](https://techcrunch.com/2022/07/20/amazon-debuts-new-alexa-developers-tools-including-support-for-multiple-voice-assistants/)
-- [The Startup Battlefield 200 application window closes next week](https://techcrunch.com/2022/07/20/the-startup-battlefield-200-application-window-closes-sunday/)
+- [To search for alien life, astronomers will look for clues in the atmospheres of distant planets — and the James Webb Space Telescope just proved it&#39;s possible to do so](https://www.space.com/james-webb-space-telescope-exoplanet-atmospheres-explained/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
