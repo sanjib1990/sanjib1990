@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [China’s $1B fine on Didi could end the mobility giant’s troubled year](https://techcrunch.com/2022/07/19/china-fine-didi-1-billion/)
 - [Netflix confirms its ad-supported tier won’t have all its content at launch](https://techcrunch.com/2022/07/19/netflix-confirms-its-ad-supported-tier-wont-have-all-its-content-at-launch/)
 - [Google really doesn’t want its Glass successor to piss you off](https://techcrunch.com/2022/07/19/google-really-doesnt-want-its-glass-successor-to-piss-you-off/)
 - [Samsung will unveil its latest foldables on August 10](https://techcrunch.com/2022/07/19/samsung-will-unveil-its-latest-foldables-on-august-10/)
 - [Tianzhou 3 cargo ship undocks from China&#39;s Tiangong space station](https://www.space.com/tianzhou-3-cargo-ship-undocks-tiangong-station/)
-- [China rolls out rocket to launch Wentian module for Tiangong space station](https://www.space.com/china-tiangong-space-station-module-wentian-rocket-rollout/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
