@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Europe&#39;s 1st commercial staged rocket passes hot-fire milestone](https://www.space.com/german-rocket-hot-fire-success/)
+- [Cosmic crime scene reveals how black holes turn stars into &#39;spaghetti&#39;](https://www.space.com/black-hole-star-death-gas-cloud-clues/)
 - [Charles raises $20M to bring conversational commerce to WhatsApp in Europe](https://techcrunch.com/2022/07/20/charles-raises-20m-to-bring-conversational-commerce-to-whatsapp-in-europe/)
 - [Xiaomi says it has shipped over 200 million smartphones in India amid crackdown](https://techcrunch.com/2022/07/20/xiaomi-says-it-has-shipped-over-200-million-smartphones-in-india-amid-crackdown/)
 - [Google expands its photo and canvas printing service to Europe and Canada](https://techcrunch.com/2022/07/20/google-expands-its-photo-and-canvas-printing-service-to-europe-and-canada/)
-- [American internet giants seek changes to India’s proposed new IT rules](https://techcrunch.com/2022/07/19/american-internet-giants-seek-changes-to-indias-proposed-new-it-rules/)
-- [China’s $1B fine on Didi could end the mobility giant’s troubled year](https://techcrunch.com/2022/07/19/china-fine-didi-1-billion/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
