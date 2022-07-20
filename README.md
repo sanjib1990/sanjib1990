@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Solar wind blowing from the sun could trigger aurora displays](https://www.space.com/coronal-holes-cme-auroras-july-2022/)
-- [China launches SuperView remote-sensing satellites on Long March 2C rocket](https://www.space.com/china-launches-superview-satellites-commercial-sensing/)
-- [We don’t need no stinking trademarks: GetHenry changes name to Cycle](https://techcrunch.com/2022/07/20/gethenry-becomes-cycle/)
-- [On This Day In Space: July 20, 1969: Apollo 11 Astronauts take the first moonwalk](https://www.space.com/39251-on-this-day-in-space.html/)
-- [NASA picks SpaceX&#39;s Falcon Heavy rocket to launch Roman Space Telescope](https://www.space.com/spacex-falcon-heavy-to-launch-roman-space-telescope/)
+- [Healthie lands $16.5M to build the Stripe for virtual patient care](https://techcrunch.com/2022/07/20/healthie-lands-16-5m-to-build-the-stripe-for-virtual-patient-care/)
+- [Stripe’s new and lower internal valuation, explained](https://techcrunch.com/2022/07/20/stripes-new-and-lower-internal-valuation-explained/)
+- [WTF is a 409A?](https://techcrunch.com/2022/07/20/what-is-409a-valuation-stripe-instacart/)
+- [Facebook Gaming now lets creators turn their live gameplay clips into Reels](https://techcrunch.com/2022/07/20/facebook-gaming-creators-turn-live-gameplay-clips-reels/)
+- [Alt gets into lending to let you borrow money against your trading card collection](https://techcrunch.com/2022/07/20/alt-gets-into-lending-to-let-you-borrow-money-against-your-trading-card-collection/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
