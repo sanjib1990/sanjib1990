@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Crunchbase looks to grow its database of startups with $50M in new cash](https://techcrunch.com/2022/07/20/crunchbase-looks-to-grow-its-database-of-startups-with-50m-in-new-cash/)
-- [Cultivated meat company Meatable showcases its first product — synthetic sausages](https://techcrunch.com/2022/07/20/cultivated-meat-company-meatable-showcases-its-first-product-synthetic-sausages/)
-- [Volkswagen’s U.S. CEO steps down to lead its Scout EV brand](https://techcrunch.com/2022/07/20/volkswagens-u-s-ceo-steps-down-to-lead-its-scout-ev-brand/)
-- [Apollo 11 vs. space tourism in 2022 &lpar;op-ed&rpar;](https://www.space.com/apollo-11-space-tourism-2022/)
-- [Lego Star Wars deals 2022: Savings on vehicles, ships, helmets and more](https://www.space.com/lego-star-wars-deals/)
+- [Spinn, the coffee maker for people who are too lazy to learn about coffee](https://techcrunch.com/2022/07/20/review-erm-that-aint-cold-brew-spinn/)
+- [Arrenda emerges with Adelanta, a financing offering for landlords in Latin America](https://techcrunch.com/2022/07/20/arrenda-emerges-with-adelanta-a-financing-offering-for-landlords-in-latin-america/)
+- [Tortoise is coming to Comic Con, and it’s bringing burritos](https://techcrunch.com/2022/07/20/tortoise-is-coming-to-comic-con-and-its-bringing-burritos/)
+- [Spotify adds more artists to its Blend tool, allows fans to buy merch via the feature](https://techcrunch.com/2022/07/20/spotify-adds-more-artists-blend-tool/)
+- [Tedooo raises $3M to scale its social network for buyers and sellers](https://techcrunch.com/2022/07/20/tedooo-raises-3m-to-scale-its-social-network-for-buyers-and-sellers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
