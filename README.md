@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Snap misses on Q2 revenue, declines to forecast its future financial performance](https://techcrunch.com/2022/07/21/snap-misses-q2-revenue-declines-to-share-future-guidance/)
+- [Robotics and AI are going from cage to stage](https://techcrunch.com/2022/07/21/robotics-and-ai-are-going-from-cage-to-stage/)
+- [Dean Kamen on the power of celebrating your own obsoletion](https://techcrunch.com/2022/07/21/dean-kamen-on-the-power-of-celebrating-your-own-obsoletion/)
+- [Get ready for a lot of dead DAOs](https://techcrunch.com/2022/07/21/get-ready-for-a-lot-of-dead-daos/)
 - [SpaceX&#39;s next astronaut launch for NASA slips to late September](https://www.space.com/spacex-crew-5-mission-delayed-sept-29/)
-- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates/)
-- [UC Berkeley shows off accelerated learning that puts robots on their feet in minutes](https://techcrunch.com/2022/07/21/berkeley-shows-off-accelerated-learning-that-puts-robots-on-their-feet-in-minutes/)
-- [SpaceX aborts launch of Falcon 9 rocket carrying 46 Starlink satellites](https://www.space.com/spacex-starlink-3-2-rocket-launch-abort/)
-- [Amazon defined warehouse robotics — so, what’s next?](https://techcrunch.com/2022/07/21/amazon-defined-warehouse-robotics-so-whats-next/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
