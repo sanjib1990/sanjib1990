@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TextExpander, which lets users build shortcuts to speed up business communications, raises $41.4M, its first-ever funding](https://techcrunch.com/2022/07/21/textexpander-which-lets-users-build-shortcuts-to-speed-up-business-communications-raises-41-4m-its-first-ever-funding/)
+- [Zededa lands a cash infusion to expand its edge device management software](https://techcrunch.com/2022/07/21/zededa-lands-a-cash-infusion-to-expand-its-edge-device-management-software/)
+- [On This Day In Space: July 21, 1961: Gus Grissom becomes 2nd American in space](https://www.space.com/39251-on-this-day-in-space.html/)
+- [Jupiter: A guide to the largest planet in the solar system](https://www.space.com/7-jupiter-largest-planet-solar-system.html/)
 - [Massage-booking platform Urban responds to reports of alleged sexual assaults by some therapists](https://techcrunch.com/2022/07/21/massage-booking-platform-urban-responds-to-reports-of-alleged-sexual-assaults-by-some-therapists/)
-- [Watch a Russian cosmonaut and 1st European female spacewalker work outside the International Space Station today](https://www.space.com/russian-europe-astronaut-spacewalk-july-2022-webcast/)
-- [Indian lawmaker calls for investigation into edtech giant Byju’s finances](https://techcrunch.com/2022/07/21/indian-lawmaker-calls-for-investigation-into-edtech-giant-byjus-finances/)
-- [James Webb Space Telescope lands on &#39;The Daily Show with Trevor Noah&#39;](https://www.space.com/james-webb-space-telescope-daily-show-trevor-noah/)
-- [Catch the moon pointing at Uranus on Friday](https://www.space.com/moon-points-at-uranus-july-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
