@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon is buying primary care tech provider One Medical for $3.9B](https://techcrunch.com/2022/07/21/amazon-is-buying-primary-care-tech-provider-one-medical-for-3-9b/)
-- [Rights groups tell Meta to stop efforts to gag whistleblower](https://techcrunch.com/2022/07/21/rights-groups-tell-meta-to-stop-efforts-to-gag-whistleblower/)
-- [15Five, a pioneer in talent management HR tech, raises $52M to boost its own performance](https://techcrunch.com/2022/07/21/15five-a-pioneer-in-talent-management-hr-tech-raises-52m-to-boost-its-own-performance/)
-- [Observability startup Better Stack lands $18.6M in new cash](https://techcrunch.com/2022/07/21/observability-startup-better-stack-lands-18-86m-in-new-cash/)
-- [Meati Foods sinks teeth into $150M to expand its mushroom-root meat operations](https://techcrunch.com/2022/07/21/meati-foods-150m-plant-based-meat/)
+- [TikTok rolls out new accessibility and translation tools to bring its content to more users](https://techcrunch.com/2022/07/21/tiktok-new-accessibility-translation-tools/)
+- [Google is reinstating app permissions list on Play Store](https://techcrunch.com/2022/07/21/google-app-permissions-play-store/)
+- [Where should US-based startups file their patent applications?](https://techcrunch.com/2022/07/21/where-should-us-based-startups-file-their-patent-applications/)
+- [Run.ai partners with Nvidia as it sets its sights on inferencing](https://techcrunch.com/2022/07/21/run-ai-partners-with-nvidia-as-it-sets-its-sights-on-inferencing/)
+- [Welcome to TC Sessions: Robotics 2022](https://techcrunch.com/2022/07/21/welcome-to-tc-sessions-robotics-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
