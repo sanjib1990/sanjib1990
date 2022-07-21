@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Amazon wades deeper into healthcare with its $3.9B purchase of One Medical](https://techcrunch.com/2022/07/21/daily-crunch-amazon-wades-deeper-into-healthcare-with-its-3-9b-purchase-of-one-medical/)
+- [Taking robots from the lab to the real world](https://techcrunch.com/2022/07/21/putting-robots-to-work/)
+- [Harmonizing human-robot interactions for a ‘new and weird’ world of work](https://techcrunch.com/2022/07/21/harmonizing-human-robot-interactions-for-a-new-and-weird-world-of-work/)
 - [Snap misses on Q2 revenue, declines to forecast its future financial performance](https://techcrunch.com/2022/07/21/snap-misses-q2-revenue-declines-to-share-future-guidance/)
-- [Robotics and AI are going from cage to stage](https://techcrunch.com/2022/07/21/robotics-and-ai-are-going-from-cage-to-stage/)
-- [Dean Kamen on the power of celebrating your own obsoletion](https://techcrunch.com/2022/07/21/dean-kamen-on-the-power-of-celebrating-your-own-obsoletion/)
-- [Get ready for a lot of dead DAOs](https://techcrunch.com/2022/07/21/get-ready-for-a-lot-of-dead-daos/)
-- [SpaceX&#39;s next astronaut launch for NASA slips to late September](https://www.space.com/spacex-crew-5-mission-delayed-sept-29/)
+- [Mars sample return details coming next week, NASA and European Space Agency promise](https://www.space.com/mars-sample-return-mission-briefing-webcast-july-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
