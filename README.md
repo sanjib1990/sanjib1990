@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Andreessen Horowitz ditches physical HQ in return for global outposts](https://techcrunch.com/2022/07/21/andreessen-horowitz-ditches-physical-hq-in-return-for-global-outposts/)
+- [Pitch Deck Teardown: Arkive’s $9.7M seed deck](https://techcrunch.com/2022/07/21/sample-seed-pitch-deck-arkive/)
+- [Agility’s next Digit robot will have a face and hands](https://techcrunch.com/2022/07/21/agilitys-next-digit-robot-will-have-a-face-and-hands/)
+- [Twitch builds toward a ‘layered’ safety approach with new moderator tools](https://techcrunch.com/2022/07/21/twitch-shared-ban-list-safety-tools/)
 - [Are universities doing enough to foster robotics startups?](https://techcrunch.com/2022/07/21/are-universities-doing-enough-to-foster-robotics-startups/)
-- [Whatnot’s valuation doubles to $3.7B as livestream shopping gains popularity in US](https://techcrunch.com/2022/07/21/whatnot-valuation-livestream-shopping/)
-- [What does Amazon get for the $3.9B it is paying for One Medical?](https://techcrunch.com/2022/07/21/what-does-amazon-get-for-the-3-9b-it-is-paying-for-one-medical/)
-- [Google Cloud announces its first region in Mexico](https://techcrunch.com/2022/07/21/google-cloud-announces-its-first-region-in-mexico/)
-- [NASA&#39;s space shuttle shines in exclusive clip from new &#39;80s sci-fi documentary, &#39;In Search of Tomorrow&#39;](https://www.space.com/in-search-of-tomorrow-sci-fi-documentary/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
