@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Andreessen Horowitz ditches physical HQ in return for global outposts](https://techcrunch.com/2022/07/21/andreessen-horowitz-ditches-physical-hq-in-return-for-global-outposts/)
-- [Pitch Deck Teardown: Arkive’s $9.7M seed deck](https://techcrunch.com/2022/07/21/sample-seed-pitch-deck-arkive/)
-- [Agility’s next Digit robot will have a face and hands](https://techcrunch.com/2022/07/21/agilitys-next-digit-robot-will-have-a-face-and-hands/)
-- [Twitch builds toward a ‘layered’ safety approach with new moderator tools](https://techcrunch.com/2022/07/21/twitch-shared-ban-list-safety-tools/)
-- [Are universities doing enough to foster robotics startups?](https://techcrunch.com/2022/07/21/are-universities-doing-enough-to-foster-robotics-startups/)
+- [SpaceX&#39;s next astronaut launch for NASA slips to late September](https://www.space.com/spacex-crew-5-mission-delayed-sept-29/)
+- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates/)
+- [UC Berkeley shows off accelerated learning that puts robots on their feet in minutes](https://techcrunch.com/2022/07/21/berkeley-shows-off-accelerated-learning-that-puts-robots-on-their-feet-in-minutes/)
+- [SpaceX aborts launch of Falcon 9 rocket carrying 46 Starlink satellites](https://www.space.com/spacex-starlink-3-2-rocket-launch-abort/)
+- [Amazon defined warehouse robotics — so, what’s next?](https://techcrunch.com/2022/07/21/amazon-defined-warehouse-robotics-so-whats-next/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
