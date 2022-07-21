@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon eyes bringing satellite internet business Project Kuiper to India](https://techcrunch.com/2022/07/21/amazon-project-kuiper-satellite-broadband-india-launch/)
-- [Zipmex pauses withdrawals “until further notice”](https://techcrunch.com/2022/07/20/zipmex-pauses-withdrawals-until-further-notice/)
-- [Southeast Asia’s Creative Galileo wants to make learning fun with popular cartoon characters](https://techcrunch.com/2022/07/20/southeast-asias-creative-galileo-wants-to-make-learning-fun-with-popular-cartoon-characters/)
-- [UK union staged 24-hour strike in response to Uber files leak](https://techcrunch.com/2022/07/20/uk-union-staged-24-hour-strike-in-response-to-uber-files-leak/)
-- [Baidu reveals the next-gen robotaxi that will be deployed throughout China](https://techcrunch.com/2022/07/20/baidu-reveals-next-gen-robotaxi-for-china/)
+- [Massage-booking platform Urban responds to reports of alleged sexual assaults by some therapists](https://techcrunch.com/2022/07/21/massage-booking-platform-urban-responds-to-reports-of-alleged-sexual-assaults-by-some-therapists/)
+- [Watch a Russian cosmonaut and 1st European female spacewalker work outside the International Space Station today](https://www.space.com/russian-europe-astronaut-spacewalk-july-2022-webcast/)
+- [Indian lawmaker calls for investigation into edtech giant Byju’s finances](https://techcrunch.com/2022/07/21/indian-lawmaker-calls-for-investigation-into-edtech-giant-byjus-finances/)
+- [James Webb Space Telescope lands on &#39;The Daily Show with Trevor Noah&#39;](https://www.space.com/james-webb-space-telescope-daily-show-trevor-noah/)
+- [Catch the moon pointing at Uranus on Friday](https://www.space.com/moon-points-at-uranus-july-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
