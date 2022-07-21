@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Daily Crunch: VW Group changes drivers — CEO Scott Keogh shifts to launch Scout EV brand](https://techcrunch.com/2022/07/20/daily-crunch-vw-group-changes-drivers-ceo-scott-keogh-shifts-to-launch-scout-ev-brand/)
-- [NASA’s mega moon rocket could see its first launch this summer](https://techcrunch.com/2022/07/20/nasas-mega-moon-rocket-could-see-its-first-launch-this-summer/)
-- [Tesla solar sees best quarter in 4 years, but ‘semiconductor challenges’ spell trouble](https://techcrunch.com/2022/07/20/tesla-solar-panel-best-quarter-in-4-years-semiconductor-challenges/)
-- [Mattel to launch SpaceX vehicles as new Matchbox toys and collectibles](https://www.space.com/mattel-spacex-rockets-toys-collectibles/)
-- [Tesla dumped 75% of its Bitcoin holdings](https://techcrunch.com/2022/07/20/tesla-dumped-75-of-its-bitcoin-holdings/)
+- [Tesla to increase cost of FSD beta software beyond its $12,000 price tag](https://techcrunch.com/2022/07/20/tesla-to-increase-cost-of-fsd-beta-software-beyond-its-12000-price-tag/)
+- [Tesla Cybertruck on track to launch summer 2023, Elon Musk says](https://techcrunch.com/2022/07/20/tesla-cybertruck-on-track-to-launch-summer-2023-elon-musk-says/)
+- [Contentsquare closes a mammoth $600M round as customers clamor for digital analytics](https://techcrunch.com/2022/07/20/contentsquare-closes-a-mammoth-600m-round-as-customers-clamor-for-digital-analytics/)
+- [Samsung says people prefer flip-phone-style foldable smartphones](https://techcrunch.com/2022/07/20/samsung-folds-five-goes-mainstream/)
+- [Elon Musk discloses that Tesla owns Dogecoin, but how much does it have?](https://techcrunch.com/2022/07/20/elon-musk-discloses-that-tesla-owns-dogecoin-but-how-much-does-it-have/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
