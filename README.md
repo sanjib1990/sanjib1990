@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Are universities doing enough to foster robotics startups?](https://techcrunch.com/2022/07/21/are-universities-doing-enough-to-foster-robotics-startups/)
+- [Whatnot’s valuation doubles to $3.7B as livestream shopping gains popularity in US](https://techcrunch.com/2022/07/21/whatnot-valuation-livestream-shopping/)
 - [What does Amazon get for the $3.9B it is paying for One Medical?](https://techcrunch.com/2022/07/21/what-does-amazon-get-for-the-3-9b-it-is-paying-for-one-medical/)
 - [Google Cloud announces its first region in Mexico](https://techcrunch.com/2022/07/21/google-cloud-announces-its-first-region-in-mexico/)
 - [NASA&#39;s space shuttle shines in exclusive clip from new &#39;80s sci-fi documentary, &#39;In Search of Tomorrow&#39;](https://www.space.com/in-search-of-tomorrow-sci-fi-documentary/)
-- [Robotics scene continues to be bullish, but layoffs are looming](https://techcrunch.com/2022/07/21/robotics-scene-continues-to-be-bullish-but-layoffs-are-looming/)
-- [Instagram video posts shorter than 15 minutes will now be shared as Reels](https://techcrunch.com/2022/07/21/instagram-video-posts-shorter-than-15-minutes-now-shared-reels/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
