@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TikTok rolls out new accessibility and translation tools to bring its content to more users](https://techcrunch.com/2022/07/21/tiktok-new-accessibility-translation-tools/)
-- [Google is reinstating app permissions list on Play Store](https://techcrunch.com/2022/07/21/google-app-permissions-play-store/)
-- [Where should US-based startups file their patent applications?](https://techcrunch.com/2022/07/21/where-should-us-based-startups-file-their-patent-applications/)
-- [Run.ai partners with Nvidia as it sets its sights on inferencing](https://techcrunch.com/2022/07/21/run-ai-partners-with-nvidia-as-it-sets-its-sights-on-inferencing/)
-- [Welcome to TC Sessions: Robotics 2022](https://techcrunch.com/2022/07/21/welcome-to-tc-sessions-robotics-2022/)
+- [Flying telescope SOFIA grounded by storm damage as mission end approaches](https://www.space.com/sofia-flying-telescope-damaged-in-storm/)
+- [Growth cheat code: Use fractional hiring to stay on plan when cutting costs](https://techcrunch.com/2022/07/21/growth-cheat-code-use-fractional-hiring-to-stay-on-plan-when-cutting-costs/)
+- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates/)
+- [GitHub slows hiring for certain roles as it prioritizes ‘strategic hires’](https://techcrunch.com/2022/07/21/github-slows-hiring-for-certain-roles-as-it-prioritizes-strategic-hires/)
+- [Department of Defense establishes office to track UFOs in space](https://www.space.com/department-of-defense-new-office-ufos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
