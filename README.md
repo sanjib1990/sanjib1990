@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon eyes bringing satellite internet business Project Kuiper to India](https://techcrunch.com/2022/07/21/amazon-project-kuiper-satellite-broadband-india-launch/)
 - [Zipmex pauses withdrawals “until further notice”](https://techcrunch.com/2022/07/20/zipmex-pauses-withdrawals-until-further-notice/)
 - [Southeast Asia’s Creative Galileo wants to make learning fun with popular cartoon characters](https://techcrunch.com/2022/07/20/southeast-asias-creative-galileo-wants-to-make-learning-fun-with-popular-cartoon-characters/)
 - [UK union staged 24-hour strike in response to Uber files leak](https://techcrunch.com/2022/07/20/uk-union-staged-24-hour-strike-in-response-to-uber-files-leak/)
 - [Baidu reveals the next-gen robotaxi that will be deployed throughout China](https://techcrunch.com/2022/07/20/baidu-reveals-next-gen-robotaxi-for-china/)
-- [Tesla to increase cost of FSD beta software beyond its $12,000 price tag](https://techcrunch.com/2022/07/20/tesla-to-increase-cost-of-fsd-beta-software-beyond-its-12000-price-tag/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
