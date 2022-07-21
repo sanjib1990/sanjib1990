@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TextExpander, which lets users build shortcuts to speed up business communications, raises $41.4M, its first-ever funding](https://techcrunch.com/2022/07/21/textexpander-which-lets-users-build-shortcuts-to-speed-up-business-communications-raises-41-4m-its-first-ever-funding/)
-- [Zededa lands a cash infusion to expand its edge device management software](https://techcrunch.com/2022/07/21/zededa-lands-a-cash-infusion-to-expand-its-edge-device-management-software/)
-- [On This Day In Space: July 21, 1961: Gus Grissom becomes 2nd American in space](https://www.space.com/39251-on-this-day-in-space.html/)
-- [Jupiter: A guide to the largest planet in the solar system](https://www.space.com/7-jupiter-largest-planet-solar-system.html/)
-- [Massage-booking platform Urban responds to reports of alleged sexual assaults by some therapists](https://techcrunch.com/2022/07/21/massage-booking-platform-urban-responds-to-reports-of-alleged-sexual-assaults-by-some-therapists/)
+- [Rights groups tell Meta to stop efforts to gag whistleblower](https://techcrunch.com/2022/07/21/rights-groups-tell-meta-to-stop-efforts-to-gag-whistleblower/)
+- [15Five, a pioneer in talent management HR tech, raises $52M to boost its own performance](https://techcrunch.com/2022/07/21/15five-a-pioneer-in-talent-management-hr-tech-raises-52m-to-boost-its-own-performance/)
+- [Observability startup Better Stack lands $18.86M in new cash](https://techcrunch.com/2022/07/21/observability-startup-better-stack-lands-18-86m-in-new-cash/)
+- [Meati Foods sinks teeth into $150M to expand its mushroom-root meat operations](https://techcrunch.com/2022/07/21/meati-foods-150m-plant-based-meat/)
+- [Just Eat Takeaway scales back in France as market value drops 84% in 10 months](https://techcrunch.com/2022/07/21/just-eat-takeaway-scales-back-in-france-as-market-value-drops-84-in-10-months/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
