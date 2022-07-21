@@ -96,7 +96,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Rights groups tell Meta to stop efforts to gag whistleblower](https://techcrunch.com/2022/07/21/rights-groups-tell-meta-to-stop-efforts-to-gag-whistleblower/)
 - [15Five, a pioneer in talent management HR tech, raises $52M to boost its own performance](https://techcrunch.com/2022/07/21/15five-a-pioneer-in-talent-management-hr-tech-raises-52m-to-boost-its-own-performance/)
-- [Observability startup Better Stack lands $18.86M in new cash](https://techcrunch.com/2022/07/21/observability-startup-better-stack-lands-18-86m-in-new-cash/)
+- [Observability startup Better Stack lands $18.6M in new cash](https://techcrunch.com/2022/07/21/observability-startup-better-stack-lands-18-86m-in-new-cash/)
 - [Meati Foods sinks teeth into $150M to expand its mushroom-root meat operations](https://techcrunch.com/2022/07/21/meati-foods-150m-plant-based-meat/)
 - [Just Eat Takeaway scales back in France as market value drops 84% in 10 months](https://techcrunch.com/2022/07/21/just-eat-takeaway-scales-back-in-france-as-market-value-drops-84-in-10-months/)
 <!-- BLOG-POST-LIST:END -->
