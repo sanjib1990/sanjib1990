@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Flying telescope SOFIA grounded by storm damage as mission end approaches](https://www.space.com/sofia-flying-telescope-damaged-in-storm/)
-- [Growth cheat code: Use fractional hiring to stay on plan when cutting costs](https://techcrunch.com/2022/07/21/growth-cheat-code-use-fractional-hiring-to-stay-on-plan-when-cutting-costs/)
-- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates/)
-- [GitHub slows hiring for certain roles as it prioritizes ‘strategic hires’](https://techcrunch.com/2022/07/21/github-slows-hiring-for-certain-roles-as-it-prioritizes-strategic-hires/)
-- [Department of Defense establishes office to track UFOs in space](https://www.space.com/department-of-defense-new-office-ufos/)
+- [What does Amazon get for the $3.9B it is paying for One Medical?](https://techcrunch.com/2022/07/21/what-does-amazon-get-for-the-3-9b-it-is-paying-for-one-medical/)
+- [Google Cloud announces its first region in Mexico](https://techcrunch.com/2022/07/21/google-cloud-announces-its-first-region-in-mexico/)
+- [NASA&#39;s space shuttle shines in exclusive clip from new &#39;80s sci-fi documentary, &#39;In Search of Tomorrow&#39;](https://www.space.com/in-search-of-tomorrow-sci-fi-documentary/)
+- [Robotics scene continues to be bullish, but layoffs are looming](https://techcrunch.com/2022/07/21/robotics-scene-continues-to-be-bullish-but-layoffs-are-looming/)
+- [Instagram video posts shorter than 15 minutes will now be shared as Reels](https://techcrunch.com/2022/07/21/instagram-video-posts-shorter-than-15-minutes-now-shared-reels/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
