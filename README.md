@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Zipmex pauses withdrawals “until further notice”](https://techcrunch.com/2022/07/20/zipmex-pauses-withdrawals-until-further-notice/)
+- [Southeast Asia’s Creative Galileo wants to make learning fun with popular cartoon characters](https://techcrunch.com/2022/07/20/southeast-asias-creative-galileo-wants-to-make-learning-fun-with-popular-cartoon-characters/)
 - [UK union staged 24-hour strike in response to Uber files leak](https://techcrunch.com/2022/07/20/uk-union-staged-24-hour-strike-in-response-to-uber-files-leak/)
 - [Baidu reveals the next-gen robotaxi that will be deployed throughout China](https://techcrunch.com/2022/07/20/baidu-reveals-next-gen-robotaxi-for-china/)
 - [Tesla to increase cost of FSD beta software beyond its $12,000 price tag](https://techcrunch.com/2022/07/20/tesla-to-increase-cost-of-fsd-beta-software-beyond-its-12000-price-tag/)
-- [Tesla Cybertruck on track to launch summer 2023, Elon Musk says](https://techcrunch.com/2022/07/20/tesla-cybertruck-on-track-to-launch-summer-2023-elon-musk-says/)
-- [Contentsquare closes a mammoth $600M round as customers clamor for digital analytics](https://techcrunch.com/2022/07/20/contentsquare-closes-a-mammoth-600m-round-as-customers-clamor-for-digital-analytics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
