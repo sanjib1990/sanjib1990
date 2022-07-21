@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The SEC takes a long-feared position in Coinbase insider trading suit](https://techcrunch.com/2022/07/21/the-sec-digs-into-unregistered-crypto-securities-in-insider-trading-case-against-former-coinbase-employee/)
+- [The Amazon effect is fueling a wave of robotics investments, acquisitions and maybe an IPO](https://techcrunch.com/2022/07/21/the-amazon-effect-is-fueling-a-wave-of-robotics-investments-acquisitions-and-maybe-an-ipo/)
+- [Slowdown? What slowdown? Menlo Ventures bags $761M for its largest-ever opportunities fund](https://techcrunch.com/2022/07/21/slowdown-what-slowdown-menlo-ventures-bags-761m-for-its-largest-ever-opportunities-fund/)
 - [Daily Crunch: Amazon wades deeper into healthcare with its $3.9B purchase of One Medical](https://techcrunch.com/2022/07/21/daily-crunch-amazon-wades-deeper-into-healthcare-with-its-3-9b-purchase-of-one-medical/)
-- [Taking robots from the lab to the real world](https://techcrunch.com/2022/07/21/putting-robots-to-work/)
-- [Harmonizing human-robot interactions for a ‘new and weird’ world of work](https://techcrunch.com/2022/07/21/harmonizing-human-robot-interactions-for-a-new-and-weird-world-of-work/)
-- [Snap misses on Q2 revenue, declines to forecast its future financial performance](https://techcrunch.com/2022/07/21/snap-misses-q2-revenue-declines-to-share-future-guidance/)
-- [Mars sample return details coming next week, NASA and European Space Agency promise](https://www.space.com/mars-sample-return-mission-briefing-webcast-july-2022/)
+- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
