@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to check for founder-investor alignment before you start fundraising](https://techcrunch.com/2022/07/22/how-to-check-for-founder-investor-alignment-before-you-start-fundraising/)
-- [SpaceX breaks launch record as it sends 46 Starlink satellites into space Friday](https://www.space.com/spacex-second-launch-attempt-starlink-group-3-2/)
-- [TechCrunch+ roundup: Early-stage fundraising revisited, fractional hiring, HR tech boom](https://techcrunch.com/2022/07/22/techcrunch-roundup-early-stage-fundraising-revisited-fractional-hiring-hr-tech-boom/)
-- [Sun outburst prompts warnings of moderate solar storm this weekend](https://www.space.com/moderate-solar-storm-forecast-july-23/)
-- [VW Group CEO Herbert Diess is out](https://techcrunch.com/2022/07/22/vw-group-ceo-herbert-diess-is-out/)
+- [Looking for an investment from a CVC? Take these 3 tips to the negotiation table](https://techcrunch.com/2022/07/22/looking-for-an-investment-from-a-cvc-take-these-3-tips-to-the-negotiation-table/)
+- [Instacart’s co-founder Apoorva Mehta checks out](https://techcrunch.com/2022/07/22/instacarts-co-founder-apoorva-mehta-checks-out/)
+- [SAP top exec retires as Q2 2022 earnings come out](https://techcrunch.com/2022/07/22/sap-top-exec-retires-as-q2-2022-earnings-come-out/)
+- [Snap stock is getting obliterated](https://techcrunch.com/2022/07/22/snap-stock-is-getting-obliterated/)
+- [NASA moon program aims for a daring commercial landing on the far side in 2025](https://www.space.com/nasa-moon-far-side-commercial-landing-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
