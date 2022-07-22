@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Facebook parent Meta eyes investment in Indian betting app Better Opinions](https://techcrunch.com/2022/07/22/facebook-parent-meta-eyes-investment-in-indian-startup-better-opinions/)
-- [How can astronauts explore Mars&#39; Grand Canyon, Valles Marineris](https://www.space.com/mars-grand-canyon-valles-marineris-exploration/)
-- [James Webb Space Telescope&#39;s stunning &#39;Phantom Galaxy&#39; picture looks like a wormhole](https://www.space.com/james-webb-space-telescope-phantom-galaxy-image/)
-- [Watch SpaceX&#39;s 2nd attempt to launch 46 Starlink satellites from California on Friday](https://www.space.com/spacex-second-launch-attempt-starlink-group-3-2/)
-- [&#39;First of its kind&#39; triple star system likely gobbled up a 4th star](https://www.space.com/massive-triple-star-system/)
+- [Twitter posts quarterly sales drop and says it spent $33M on pending Musk acquisition](https://techcrunch.com/2022/07/22/twitter-posts-quarterly-sales-drop-and-says-it-spent-33m-on-pending-musk-acquisition/)
+- [Commercial image-generating AI raises all sorts of thorny legal issues](https://techcrunch.com/2022/07/22/commercial-image-generating-ai-raises-all-sorts-of-thorny-legal-issues/)
+- [Cadillac explains why Celestiq flagship EV is its most advanced vehicle in 120 years](https://techcrunch.com/2022/07/22/cadillac-explains-why-celestiq-flagship-ev-is-its-most-advanced-vehicle-in-120-years/)
+- [Paramount Plus free trial: Get one month free until July 27 using discount code](https://www.space.com/paramount-plus-free-month-deal-south-park/)
+- [Theator, an AI platform that analyzes surgery videos, closes out its Series A at $39.5M](https://techcrunch.com/2022/07/22/theator-an-ai-platform-that-analyzes-surgery-videos-closes-out-its-series-a-at-39-5m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
