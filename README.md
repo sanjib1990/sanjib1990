@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: ‘I’ve gotten beat’ on my ‘Shark Tank’ bets, Mark Cuban admits](https://techcrunch.com/2022/07/22/daily-crunch-ive-gotten-beat-on-my-shark-tank-bets-mark-cuban-admits/)
+- [Hasbro reissues classic &#39;Star Wars&#39; Boba Fett ship in wake of Boba Fett Disney Plus show](https://www.space.com/hasbro-classic-star-wars-boba-ship-release/)
 - [Disney+ US goes R-rated with ‘Deadpool,’ ‘Deadpool 2’ and ‘Logan’](https://techcrunch.com/2022/07/22/disney-u-s-goes-r-rated-with-deadpool-deadpool-2-and-logan/)
 - [What does the SEC’s warning shot at crypto mean?](https://techcrunch.com/2022/07/22/what-does-the-secs-warning-shot-at-crypto-mean/)
 - [Launch like Starship? China considers fully reusable heavy-lift rocket: report](https://www.space.com/china-fully-reusable-long-march-9-rocket-starship/)
-- [Space station successors may not be ready in time to replace aging lab: report](https://www.space.com/nasa-replace-iss-space-station-gap-safety-panel/)
-- [Looking for an investment from a CVC? Take these 3 tips to the negotiation table](https://techcrunch.com/2022/07/22/looking-for-an-investment-from-a-cvc-take-these-3-tips-to-the-negotiation-table/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
