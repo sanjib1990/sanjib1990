@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [VW Group CEO Herbert Diess is out](https://techcrunch.com/2022/07/22/vw-group-ceo-herbert-diess-is-out/)
 - [&#39;Twilight telescopes&#39; are finding &#39;city-killer&#39; asteroids in an unexplored region of our solar system](https://www.space.com/asteroid-hunting-twilight-surveys/)
 - [Mark Cuban hasn’t profited from his ‘Shark Tank’ investments](https://techcrunch.com/2022/07/22/mark-cuban-hasnt-profited-from-his-shark-tank-investments/)
 - [Telescopes at Walmart: Deals on the best models from Celestron and others](https://www.space.com/telescopes-at-walmart/)
 - [Telescopes on Amazon: The best deals and discounts available online](https://www.space.com/telescopes-on-amazon/)
-- [Sky-Watcher telescope deals available right now](https://www.space.com/skywatcher-deals-telescopes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
