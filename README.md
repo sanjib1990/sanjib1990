@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Facebook parent Meta eyes investment in Indian startup Better Opinions](https://techcrunch.com/2022/07/22/facebook-parent-meta-eyes-investment-in-indian-startup-better-opinions/)
+- [Facebook parent Meta eyes investment in Indian betting app Better Opinions](https://techcrunch.com/2022/07/22/facebook-parent-meta-eyes-investment-in-indian-startup-better-opinions/)
 - [How can astronauts explore Mars&#39; Grand Canyon, Valles Marineris](https://www.space.com/mars-grand-canyon-valles-marineris-exploration/)
 - [James Webb Space Telescope&#39;s stunning &#39;Phantom Galaxy&#39; picture looks like a wormhole](https://www.space.com/james-webb-space-telescope-phantom-galaxy-image/)
 - [Watch SpaceX&#39;s 2nd attempt to launch 46 Starlink satellites from California on Friday](https://www.space.com/spacex-second-launch-attempt-starlink-group-3-2/)
