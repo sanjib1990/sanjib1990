@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Disney+ U.S. goes R-rated with ‘Deadpool,’ ‘Deadpool 2’ and ‘Logan’](https://techcrunch.com/2022/07/22/disney-u-s-goes-r-rated-with-deadpool-deadpool-2-and-logan/)
+- [What does the SEC’s warning shot at crypto mean?](https://techcrunch.com/2022/07/22/what-does-the-secs-warning-shot-at-crypto-mean/)
+- [Space station successors may not be ready in time to replace aging lab: report](https://www.space.com/nasa-replace-iss-space-station-gap-safety-panel/)
 - [Looking for an investment from a CVC? Take these 3 tips to the negotiation table](https://techcrunch.com/2022/07/22/looking-for-an-investment-from-a-cvc-take-these-3-tips-to-the-negotiation-table/)
 - [Instacart’s co-founder Apoorva Mehta checks out](https://techcrunch.com/2022/07/22/instacarts-co-founder-apoorva-mehta-checks-out/)
-- [SAP top exec retires as Q2 2022 earnings come out](https://techcrunch.com/2022/07/22/sap-top-exec-retires-as-q2-2022-earnings-come-out/)
-- [Snap stock is getting obliterated](https://techcrunch.com/2022/07/22/snap-stock-is-getting-obliterated/)
-- [NASA moon program aims for a daring commercial landing on the far side in 2025](https://www.space.com/nasa-moon-far-side-commercial-landing-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
