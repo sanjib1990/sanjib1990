@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Disney+ U.S. goes R-rated with ‘Deadpool,’ ‘Deadpool 2’ and ‘Logan’](https://techcrunch.com/2022/07/22/disney-u-s-goes-r-rated-with-deadpool-deadpool-2-and-logan/)
+- [Disney+ US goes R-rated with ‘Deadpool,’ ‘Deadpool 2’ and ‘Logan’](https://techcrunch.com/2022/07/22/disney-u-s-goes-r-rated-with-deadpool-deadpool-2-and-logan/)
 - [What does the SEC’s warning shot at crypto mean?](https://techcrunch.com/2022/07/22/what-does-the-secs-warning-shot-at-crypto-mean/)
+- [Launch like Starship? China considers fully reusable heavy-lift rocket: report](https://www.space.com/china-fully-reusable-long-march-9-rocket-starship/)
 - [Space station successors may not be ready in time to replace aging lab: report](https://www.space.com/nasa-replace-iss-space-station-gap-safety-panel/)
 - [Looking for an investment from a CVC? Take these 3 tips to the negotiation table](https://techcrunch.com/2022/07/22/looking-for-an-investment-from-a-cvc-take-these-3-tips-to-the-negotiation-table/)
-- [Instacart’s co-founder Apoorva Mehta checks out](https://techcrunch.com/2022/07/22/instacarts-co-founder-apoorva-mehta-checks-out/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
