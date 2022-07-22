@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Oldest stars in the universe may be revealed with new technique](https://www.space.com/oldest-stars-in-universe-radio-astronomy-technique/)
+- [Thanks to Amazon, One Medical and Whole Foods are on the same dang shelf](https://techcrunch.com/2022/07/22/thanks-to-amazon-one-medical-and-whole-foods-are-on-the-same-dang-shelf/)
+- [Microsoft will block Office macros by default starting July 27](https://techcrunch.com/2022/07/22/microsoft-office-macros-blocked-default/)
+- [Here’s everything you missed at TC Sessions: Robotics 2022](https://techcrunch.com/2022/07/22/heres-everything-you-missed-at-tc-sessions-robotics-2022/)
 - [Twitter posts quarterly sales drop and says it spent $33M on pending Musk acquisition](https://techcrunch.com/2022/07/22/twitter-posts-quarterly-sales-drop-and-says-it-spent-33m-on-pending-musk-acquisition/)
-- [Commercial image-generating AI raises all sorts of thorny legal issues](https://techcrunch.com/2022/07/22/commercial-image-generating-ai-raises-all-sorts-of-thorny-legal-issues/)
-- [Cadillac explains why Celestiq flagship EV is its most advanced vehicle in 120 years](https://techcrunch.com/2022/07/22/cadillac-explains-why-celestiq-flagship-ev-is-its-most-advanced-vehicle-in-120-years/)
-- [Paramount Plus free trial: Get one month free until July 27 using discount code](https://www.space.com/paramount-plus-free-month-deal-south-park/)
-- [Theator, an AI platform that analyzes surgery videos, closes out its Series A at $39.5M](https://techcrunch.com/2022/07/22/theator-an-ai-platform-that-analyzes-surgery-videos-closes-out-its-series-a-at-39-5m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
