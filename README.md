@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mexican region gives Tesla and its suppliers a dedicated border crossing lane](https://techcrunch.com/2022/07/21/mexican-region-gives-tesla-and-its-suppliers-a-dedicated-border-crossing-lane/)
+- [Google’s Pixel 6a is a budget device with the heart of a flagship](https://techcrunch.com/2022/07/21/googles-pixel-6a-is-a-budget-device-with-the-heart-of-a-flagship/)
 - [The SEC takes a long-feared position in Coinbase insider trading suit](https://techcrunch.com/2022/07/21/the-sec-digs-into-unregistered-crypto-securities-in-insider-trading-case-against-former-coinbase-employee/)
 - [The Amazon effect is fueling a wave of robotics investments, acquisitions and maybe an IPO](https://techcrunch.com/2022/07/21/the-amazon-effect-is-fueling-a-wave-of-robotics-investments-acquisitions-and-maybe-an-ipo/)
 - [Slowdown? What slowdown? Menlo Ventures bags $761M for its largest-ever opportunities fund](https://techcrunch.com/2022/07/21/slowdown-what-slowdown-menlo-ventures-bags-761m-for-its-largest-ever-opportunities-fund/)
-- [Daily Crunch: Amazon wades deeper into healthcare with its $3.9B purchase of One Medical](https://techcrunch.com/2022/07/21/daily-crunch-amazon-wades-deeper-into-healthcare-with-its-3-9b-purchase-of-one-medical/)
-- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
