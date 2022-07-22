@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Techstars CEO Maëlle Gavet outlines the accelerator’s newest program in Africa](https://techcrunch.com/2022/07/22/techstars-ceo-maelle-gavet-outlines-the-accelerators-newest-program-in-africa/)
-- [Fairbanc provides BNPL for micro-merchants in Indonesia](https://techcrunch.com/2022/07/21/fairbanc-provides-bnpl-for-micro-merchants-in-indonesia/)
-- [Mexican region gives Tesla and its suppliers a dedicated border crossing lane](https://techcrunch.com/2022/07/21/mexican-region-gives-tesla-and-its-suppliers-a-dedicated-border-crossing-lane/)
-- [Google’s Pixel 6a is a budget device with the heart of a flagship](https://techcrunch.com/2022/07/21/googles-pixel-6a-is-a-budget-device-with-the-heart-of-a-flagship/)
-- [The SEC takes a long-feared position in Coinbase insider trading suit](https://techcrunch.com/2022/07/21/the-sec-digs-into-unregistered-crypto-securities-in-insider-trading-case-against-former-coinbase-employee/)
+- [How can astronauts explore Mars&#39; Grand Canyon, Valles Marineris](https://www.space.com/mars-grand-canyon-valles-marineris-exploration/)
+- [James Webb Space Telescope&#39;s stunning &#39;Phantom Galaxy&#39; picture looks like a wormhole](https://www.space.com/james-webb-space-telescope-phantom-galaxy-image/)
+- [Watch SpaceX&#39;s 2nd attempt to launch 46 Starlink satellites from California on Friday](https://www.space.com/spacex-second-launch-attempt-starlink-group-3-2/)
+- [&#39;First of its kind&#39; triple star system likely gobbled up a 4th star](https://www.space.com/massive-triple-star-system/)
+- [On This Day In Space: July 22, 1972: Venera 8 spacecraft lands on Venus](https://www.space.com/39251-on-this-day-in-space.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
