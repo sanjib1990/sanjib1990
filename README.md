@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [6 meteor showers will likely offer better views than the Perseids this summer](https://www.space.com/meteor-showers-perseids-full-moon-summer-2022/)
-- [Check out the founder-focused sessions happening at TechCrunch Disrupt](https://techcrunch.com/2022/07/22/check-out-the-founder-focused-sessions-happening-at-techcrunch-disrupt/)
-- [TechCrunch Podcast Weekly Roundup: Crypto winters, Robots, and when will India make up its mind about Crypto](https://techcrunch.com/2022/07/22/techcrunch-podcast-weekly-roundup-crypto-winters-robots-and-when-will-india-make-up-its-mind-about-crypto/)
-- [Big tech cutting back on hiring is an opportunity for startups](https://techcrunch.com/2022/07/22/big-tech-cutting-back-on-hiring-is-an-opportunity-for-startups/)
-- [How Parfait is using AI to upend the $13B custom wig industry](https://techcrunch.com/2022/07/22/how-parfait-is-using-ai-to-upend-the-13b-custom-wig-industry/)
+- [&#39;Twilight telescopes&#39; are finding &#39;city-killer&#39; asteroids in an unexplored region of our solar system](https://www.space.com/asteroid-hunting-twilight-surveys/)
+- [Mark Cuban hasn’t profited from his ‘Shark Tank’ investments](https://techcrunch.com/2022/07/22/mark-cuban-hasnt-profited-from-his-shark-tank-investments/)
+- [Telescopes at Walmart: Deals on the best models from Celestron and others](https://www.space.com/telescopes-at-walmart/)
+- [Telescopes on Amazon: The best deals and discounts available online](https://www.space.com/telescopes-on-amazon/)
+- [Sky-Watcher telescope deals available right now](https://www.space.com/skywatcher-deals-telescopes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
