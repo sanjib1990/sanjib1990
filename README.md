@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Oldest stars in the universe may be revealed with new technique](https://www.space.com/oldest-stars-in-universe-radio-astronomy-technique/)
-- [Thanks to Amazon, One Medical and Whole Foods are on the same dang shelf](https://techcrunch.com/2022/07/22/thanks-to-amazon-one-medical-and-whole-foods-are-on-the-same-dang-shelf/)
-- [Microsoft will block Office macros by default starting July 27](https://techcrunch.com/2022/07/22/microsoft-office-macros-blocked-default/)
-- [Here’s everything you missed at TC Sessions: Robotics 2022](https://techcrunch.com/2022/07/22/heres-everything-you-missed-at-tc-sessions-robotics-2022/)
-- [Twitter posts quarterly sales drop and says it spent $33M on pending Musk acquisition](https://techcrunch.com/2022/07/22/twitter-posts-quarterly-sales-drop-and-says-it-spent-33m-on-pending-musk-acquisition/)
+- [6 meteor showers will likely offer better views than the Perseids this summer](https://www.space.com/meteor-showers-perseids-full-moon-summer-2022/)
+- [Check out the founder-focused sessions happening at TechCrunch Disrupt](https://techcrunch.com/2022/07/22/check-out-the-founder-focused-sessions-happening-at-techcrunch-disrupt/)
+- [TechCrunch Podcast Weekly Roundup: Crypto winters, Robots, and when will India make up its mind about Crypto](https://techcrunch.com/2022/07/22/techcrunch-podcast-weekly-roundup-crypto-winters-robots-and-when-will-india-make-up-its-mind-about-crypto/)
+- [Big tech cutting back on hiring is an opportunity for startups](https://techcrunch.com/2022/07/22/big-tech-cutting-back-on-hiring-is-an-opportunity-for-startups/)
+- [How Parfait is using AI to upend the $13B custom wig industry](https://techcrunch.com/2022/07/22/how-parfait-is-using-ai-to-upend-the-13b-custom-wig-industry/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
