@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fairbanc provides BNPL for micro-merchants in Indonesia](https://techcrunch.com/2022/07/21/fairbanc-provides-bnpl-for-micro-merchants-in-indonesia/)
 - [Mexican region gives Tesla and its suppliers a dedicated border crossing lane](https://techcrunch.com/2022/07/21/mexican-region-gives-tesla-and-its-suppliers-a-dedicated-border-crossing-lane/)
 - [Google’s Pixel 6a is a budget device with the heart of a flagship](https://techcrunch.com/2022/07/21/googles-pixel-6a-is-a-budget-device-with-the-heart-of-a-flagship/)
 - [The SEC takes a long-feared position in Coinbase insider trading suit](https://techcrunch.com/2022/07/21/the-sec-digs-into-unregistered-crypto-securities-in-insider-trading-case-against-former-coinbase-employee/)
 - [The Amazon effect is fueling a wave of robotics investments, acquisitions and maybe an IPO](https://techcrunch.com/2022/07/21/the-amazon-effect-is-fueling-a-wave-of-robotics-investments-acquisitions-and-maybe-an-ipo/)
-- [Slowdown? What slowdown? Menlo Ventures bags $761M for its largest-ever opportunities fund](https://techcrunch.com/2022/07/21/slowdown-what-slowdown-menlo-ventures-bags-761m-for-its-largest-ever-opportunities-fund/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
