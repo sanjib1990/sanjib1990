@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [World Fund joins $128M bet that quantum can deliver climate breakthroughs](https://techcrunch.com/2022/07/22/climate-vc-world-fund-quantum-computing-iqm/)
+- [&#39;For All Mankind&#39; to lift off for 4th season on Apple TV+](https://www.space.com/for-all-mankind-renewed-season-four/)
+- [Disney+ delivers first looks of new Spider-Man, X-Men, Groot and Marvel Zombies animated series](https://techcrunch.com/2022/07/22/disney-delivers-first-looks-of-new-spider-man-x-men-groot-and-marvel-zombies-animated-series/)
 - [Daily Crunch: ‘I’ve gotten beat’ on my ‘Shark Tank’ bets, Mark Cuban admits](https://techcrunch.com/2022/07/22/daily-crunch-ive-gotten-beat-on-my-shark-tank-bets-mark-cuban-admits/)
 - [Hasbro reissues classic &#39;Star Wars&#39; Boba Fett ship in wake of Boba Fett Disney Plus show](https://www.space.com/hasbro-classic-star-wars-boba-ship-release/)
-- [Disney+ US goes R-rated with ‘Deadpool,’ ‘Deadpool 2’ and ‘Logan’](https://techcrunch.com/2022/07/22/disney-u-s-goes-r-rated-with-deadpool-deadpool-2-and-logan/)
-- [What does the SEC’s warning shot at crypto mean?](https://techcrunch.com/2022/07/22/what-does-the-secs-warning-shot-at-crypto-mean/)
-- [Launch like Starship? China considers fully reusable heavy-lift rocket: report](https://www.space.com/china-fully-reusable-long-march-9-rocket-starship/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
