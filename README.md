@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Messaging app JusTalk is spilling millions of unencrypted messages](https://techcrunch.com/2022/07/22/justalk-unencrypted/)
-- [T-Mobile will pay out $350M to customers in data breach settlement](https://techcrunch.com/2022/07/22/t-mobile-will-pay-out-350m-to-customers-in-data-breach-settlement/)
-- [World Fund joins $128M bet that quantum can deliver climate breakthroughs](https://techcrunch.com/2022/07/22/climate-vc-world-fund-quantum-computing-iqm/)
-- [&#39;For All Mankind&#39; to lift off for 4th season on Apple TV+](https://www.space.com/for-all-mankind-renewed-season-four/)
-- [Disney+ delivers first looks of new Spider-Man, X-Men, Groot and Marvel Zombies animated series](https://techcrunch.com/2022/07/22/disney-delivers-first-looks-of-new-spider-man-x-men-groot-and-marvel-zombies-animated-series/)
+- [Dazzling James Webb Space Telescope image prompts science scramble](https://www.space.com/james-webb-space-telescope-deep-field-science/)
+- [Landsat at 50: How satellites revolutionized the way we see — and protect — the natural world](https://www.space.com/landsat-50th-anniversary-how-we-see-earth/)
+- [Blue Origin announces crew for 6th suborbital space tourism launch](https://www.space.com/blue-origin-crew-ns-22-announced/)
+- [This Week In Space podcast: Episode 21 — Isaac Arthur and alien megastructures](https://www.space.com/this-week-in-space-podcast-twit/)
+- [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
