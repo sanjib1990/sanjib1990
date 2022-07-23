@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cash is nice — as an option](https://techcrunch.com/2022/07/23/cash-is-nice-as-an-option/)
 - [Review: Framework’s latest modular laptop is one I could stick with for years](https://techcrunch.com/2022/07/23/review-frameworks-latest-modular-laptop-is-one-i-could-stick-with-for-years/)
 - [Watch a SpaceX Falcon 9 rocket soar over the moon in incredible tracking cam video](https://www.space.com/spacex-falcon-9-moon-footage-starlink-launch/)
 - [Dazzling James Webb Space Telescope image prompts science scramble](https://www.space.com/james-webb-space-telescope-deep-field-science/)
 - [Landsat at 50: How satellites revolutionized the way we see — and protect — the natural world](https://www.space.com/landsat-50th-anniversary-how-we-see-earth/)
-- [Blue Origin announces crew for 6th suborbital space tourism launch](https://www.space.com/blue-origin-crew-ns-22-announced/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
