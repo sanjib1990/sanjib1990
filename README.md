@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [On This Day In Space: July 24, 1950: First rocket launch From Cape Canaveral, Florida](https://www.space.com/39251-on-this-day-in-space.html/)
+- [China launches 2nd space station module to support science experiments](https://www.space.com/china-launches-space-station-module-wentian/)
 - [Homepage Video](https://www.space.com/news/homepage-top/)
 - [The Dogefather sends his regards](https://techcrunch.com/2022/07/23/the-dogefather-sends-his-regards/)
 - [Google pauses hiring, Netflix loses nearly 1M customers, and Slack increases prices](https://techcrunch.com/2022/07/23/google-pauses-hiring-netflix-loses-nearly-1m-customers-and-slack-increases-prices/)
-- [3 views on Amazon’s $3.9B acquisition of One Medical](https://techcrunch.com/2022/07/23/3-views-on-amazons-one-medical-purchase/)
-- [Great Resignation meets Great Reset meets &lpar;Great R…un down those valuations please&rpar;](https://techcrunch.com/2022/07/23/great-resignation-meets-great-reset-meets-great-r-un-down-those-valuations-please/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
