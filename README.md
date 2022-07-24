@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch SpaceX launch 53 Starlink satellites from Florida on Sunday](https://www.space.com/spacex-starlink-group-4-25-rocket-launch/)
+- [These startups want to make credit scores a thing of the past](https://techcrunch.com/2022/07/24/these-fintech-startups-want-to-make-credit-scores-a-thing-of-the-past/)
+- [SpaceX launches 53 Starlink satellites, lands Falcon 9 on droneship](https://www.space.com/spacex-starlink-group-4-25-rocket-launch/)
 - [Wild 3D-printed space habitat prototype designed to fit inside SpaceX Starship lands in Switzerland](https://www.space.com/rosenberg-futuristic-space-habitat-display/)
 - [What human-made structures can be seen from space?](https://www.space.com/human-made-structures-seen-from-space/)
 - [Will NASA rename the James Webb Space Telescope? A space expert explains the Lavender Scare controversy.](https://www.space.com/james-webb-space-telescope-lavender-scare-controversy/)
-- [On This Day In Space: July 24, 1950: First rocket launch From Cape Canaveral, Florida](https://www.space.com/39251-on-this-day-in-space.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
