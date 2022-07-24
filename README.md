@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [TempleOS in 100 Seconds](https://www.youtube.com/watch?v=h7gf5M04hdg)
 - [Carbon Lang… The C++ killer?](https://www.youtube.com/watch?v=-bHK0qmp06c)
 - [I tried 10 code editors](https://www.youtube.com/watch?v=8PhdfcX9tG0)
 - [Computing with Soft Robots - Computerphile](https://www.youtube.com/watch?v=6eP7_iDJk4k)
 - [Azure DevOps Tutorial for Beginners | CI/CD with Azure Pipelines](https://www.youtube.com/watch?v=4BibQ69MD8c)
-- [What is a Subnet Mask??? &lpar;you NEED to know it!!&rpar;](https://www.youtube.com/watch?v=oZGZRtaGyG8)
 <!-- YOUTUBE:END -->
 
 ---
