@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch SpaceX launch 53 Starlink satellites from Florida on Sunday](https://www.space.com/spacex-starlink-group-4-25-rocket-launch/)
+- [Wild 3D-printed space habitat prototype designed to fit inside SpaceX Starship lands in Switzerland](https://www.space.com/rosenberg-futuristic-space-habitat-display/)
+- [What human-made structures can be seen from space?](https://www.space.com/human-made-structures-seen-from-space/)
+- [Will NASA rename the James Webb Space Telescope? A space expert explains the Lavender Scare controversy.](https://www.space.com/james-webb-space-telescope-lavender-scare-controversy/)
 - [On This Day In Space: July 24, 1950: First rocket launch From Cape Canaveral, Florida](https://www.space.com/39251-on-this-day-in-space.html/)
-- [China launches 2nd space station module to support science experiments](https://www.space.com/china-launches-space-station-module-wentian/)
-- [Homepage Video](https://www.space.com/news/homepage-top/)
-- [The Dogefather sends his regards](https://techcrunch.com/2022/07/23/the-dogefather-sends-his-regards/)
-- [Google pauses hiring, Netflix loses nearly 1M customers, and Slack increases prices](https://techcrunch.com/2022/07/23/google-pauses-hiring-netflix-loses-nearly-1m-customers-and-slack-increases-prices/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
