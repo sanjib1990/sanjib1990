@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Roblox beefs up its developer tools as it looks to a future beyond games](https://techcrunch.com/2022/07/24/roblox-beefs-up-its-developer-tools-as-it-looks-to-a-future-beyond-games/)
 - [Online insurer Policybazaar says customer data was exposed by ‘unauthorized access’](https://techcrunch.com/2022/07/24/online-insurer-policybazaar-says-customer-data-was-exposed-in-unauthorized-access/)
 - [These startups want to make credit scores a thing of the past](https://techcrunch.com/2022/07/24/these-fintech-startups-want-to-make-credit-scores-a-thing-of-the-past/)
 - [SpaceX launches 53 Starlink satellites, lands Falcon 9 on droneship](https://www.space.com/spacex-starlink-group-4-25-rocket-launch/)
 - [Wild 3D-printed space habitat prototype designed to fit inside SpaceX Starship lands in Switzerland](https://www.space.com/rosenberg-futuristic-space-habitat-display/)
-- [What human-made structures can be seen from space?](https://www.space.com/human-made-structures-seen-from-space/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
