@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Dogefather sends his regards](https://techcrunch.com/2022/07/23/the-dogefather-sends-his-regards/)
 - [Google pauses hiring, Netflix loses nearly 1M customers, and Slack increases prices](https://techcrunch.com/2022/07/23/google-pauses-hiring-netflix-loses-nearly-1m-customers-and-slack-increases-prices/)
 - [3 views on Amazon’s $3.9B acquisition of One Medical](https://techcrunch.com/2022/07/23/3-views-on-amazons-one-medical-purchase/)
 - [Great Resignation meets Great Reset meets &lpar;Great R…un down those valuations please&rpar;](https://techcrunch.com/2022/07/23/great-resignation-meets-great-reset-meets-great-r-un-down-those-valuations-please/)
 - [Cash is nice — as an option](https://techcrunch.com/2022/07/23/cash-is-nice-as-an-option/)
-- [Review: Framework’s latest modular laptop is one I could stick with for years](https://techcrunch.com/2022/07/23/review-frameworks-latest-modular-laptop-is-one-i-could-stick-with-for-years/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
