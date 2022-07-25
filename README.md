@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [HR automation platform Omni wants to be the “Rippling of Southeast Asia”](https://techcrunch.com/2022/07/24/hr-automation-platform-omni-wants-to-be-the-rippling-of-southeast-asia/)
+- [Cruise starts mapping Dubai’s streets in prep for 2023 robotaxi launch](https://techcrunch.com/2022/07/24/cruise-starts-mapping-dubais-streets-in-prep-for-2023-robotaxi-launch/)
 - [Every startup wants an extension round, but there aren’t enough to go around](https://techcrunch.com/2022/07/24/every-startup-wants-an-extension-round-but-there-arent-enough-to-go-around/)
 - [Roblox beefs up its developer tools as it looks to a future beyond games](https://techcrunch.com/2022/07/24/roblox-beefs-up-its-developer-tools-as-it-looks-to-a-future-beyond-games/)
 - [Online insurer Policybazaar says customer data was exposed by ‘unauthorized access’](https://techcrunch.com/2022/07/24/online-insurer-policybazaar-says-customer-data-was-exposed-in-unauthorized-access/)
-- [These startups want to make credit scores a thing of the past](https://techcrunch.com/2022/07/24/these-fintech-startups-want-to-make-credit-scores-a-thing-of-the-past/)
-- [SpaceX launches 53 Starlink satellites, lands Falcon 9 on droneship](https://www.space.com/spacex-starlink-group-4-25-rocket-launch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
