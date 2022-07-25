@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Only five days left to save up to $1,300 on passes to Disrupt](https://techcrunch.com/2022/07/25/only-five-days-left-to-save-up-to-1300-on-passes-to-disrupt/)
-- [Creators on Facebook can now earn money through videos that use licensed music](https://techcrunch.com/2022/07/25/creators-on-facebook-cearn-money-through-videos-that-use-licensed-music/)
-- [China&#39;s Mars orbiter snaps striking shot of Red Planet&#39;s larger moon, Phobos](https://www.space.com/china-mars-orbiter-phobos-moon-photo/)
-- [Intel’s foundry business strikes MediaTek chip production deal](https://techcrunch.com/2022/07/25/intels-foundry-business-strikes-mediatek-chip-production-deal/)
-- [Meta is shutting down Tuned, its social app for couples](https://techcrunch.com/2022/07/25/meta-is-shutting-down-tuned-its-social-app-for-couples/)
+- [An actionable framework for founders bridging into web3](https://techcrunch.com/2022/07/25/an-actionable-framework-for-founders-bridging-into-web3/)
+- [Why you have to pay attention to the public markets this week](https://techcrunch.com/2022/07/25/why-you-have-to-pay-attention-to-the-public-markets-this-week/)
+- [Disney+ revives ‘Daredevil’ after Netflix canceled it four years ago](https://techcrunch.com/2022/07/25/disney-revives-daredevil-after-netflix-canceled-it-four-years-ago/)
+- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html/)
+- [Bushnell binoculars deals: The best prices on popular models](https://www.space.com/bushnell-binoculars-deals/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
