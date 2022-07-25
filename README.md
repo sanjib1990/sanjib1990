@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Private equity descends on Chartbeat](https://techcrunch.com/2022/07/25/private-equity-vulture-chartbeat/)
+- [Crypto valuations may sink until September as VCs play a waiting game](https://techcrunch.com/2022/07/25/crypto-valuations-may-sink-until-september-as-vcs-play-a-waiting-game/)
+- [Can a baby’s cry identify neurological disorders? Ubenwa says ‘yes’](https://techcrunch.com/2022/07/25/can-a-babys-cry-identify-neurological-disorders-ubenwa-says-yes/)
+- [Applications to the Startup Battlefield 200 close this week](https://techcrunch.com/2022/07/25/applications-to-the-startup-battlefield-200-close-this-week/)
 - [Benjamin Sisko returns as a god to begin IDW&#39;s bold new era of &#39;Star Trek&#39; comics](https://www.space.com/star-trek-1-comics-idw-publishing/)
-- [Why Clocktower Technology Ventures is still bullish on Latin American fintechs](https://techcrunch.com/2022/07/25/why-clocktower-technology-ventures-is-still-bullish-on-latin-american-fintechs/)
-- [Google is adding new Drive, Docs, Sheets, Slides and Keep optimizations for tablets](https://techcrunch.com/2022/07/25/google-updates-drive-docs-sheets-slides-and-keep-apps-work-better-tablets/)
-- [PlayStation VR2 details: Everything we know about the PSVR 2 headset](https://www.space.com/psvr-2-details-release-date-price-specs/)
-- [How e-commerce brands can outlast this market downturn](https://techcrunch.com/2022/07/25/how-e-commerce-brands-can-outlast-this-market-downturn/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
