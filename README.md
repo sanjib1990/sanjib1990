@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GM is launching an online EV service to educate and woo consumers](https://techcrunch.com/2022/07/25/gm-launches-ev-live-to-educate-car-shoppers/)
+- [Instacart expands its EBT SNAP payments program to 10 more states](https://techcrunch.com/2022/07/25/instacart-expands-ebt-snap-payments-program-10-states/)
+- [Allwhere launches out of stealth to help companies manage their remote workforces](https://techcrunch.com/2022/07/25/allwhere-launches-out-of-stealth-to-help-companies-manage-their-remote-workforces/)
+- [The race to build a social media platform on the blockchain](https://techcrunch.com/2022/07/25/the-race-to-build-a-social-media-platform-on-the-blockchain/)
 - [Netflix’s iOS app now has a sign up button that takes you to its website](https://techcrunch.com/2022/07/25/netflixs-ios-app-now-has-a-sign-up-button-that-takes-you-to-its-website/)
-- [Real driverless cars are now legal in China’s tech hub Shenzhen](https://techcrunch.com/2022/07/25/real-driverless-cars-legal-in-chinas-shenzhen/)
-- [The Station: Executive upheaval at VW Group and the tale of two Tesla earnings](https://techcrunch.com/2022/07/25/the-station-executive-upheaval-at-vw-group-and-the-tale-of-two-tesla-earnings/)
-- [On This Day In Space: July 25, 1984: Cosmonaut Svetlana Savitskaya makes the 1st spacewalk by a woman](https://www.space.com/39251-on-this-day-in-space.html/)
-- [Oculus Quest 2 vs. PlayStation VR: Which VR headset should you buy?](https://www.space.com/oculus-quest-2-vs-playstation-vr/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
