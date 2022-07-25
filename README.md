@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jupiter&#39;s rings may be so puny because of the planet&#39;s massive moons](https://www.space.com/jupiters-puny-rings-maybe-because-moons/)
+- [The “D” in DAO doesn’t stand for democracy, says Upstream CEO Alexander Taub](https://techcrunch.com/2022/07/25/crypto-community-web3-dao-democracy-upstream-alexander-taub-chain-reaction-podcast/)
 - [GM is launching an online EV service to educate and woo consumers](https://techcrunch.com/2022/07/25/gm-launches-ev-live-to-educate-car-shoppers/)
 - [Instacart expands its EBT SNAP payments program to 10 more states](https://techcrunch.com/2022/07/25/instacart-expands-ebt-snap-payments-program-10-states/)
 - [Allwhere launches out of stealth to help companies manage their remote workforces](https://techcrunch.com/2022/07/25/allwhere-launches-out-of-stealth-to-help-companies-manage-their-remote-workforces/)
-- [The race to build a social media platform on the blockchain](https://techcrunch.com/2022/07/25/the-race-to-build-a-social-media-platform-on-the-blockchain/)
-- [Netflix’s iOS app now has a sign up button that takes you to its website](https://techcrunch.com/2022/07/25/netflixs-ios-app-now-has-a-sign-up-button-that-takes-you-to-its-website/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
