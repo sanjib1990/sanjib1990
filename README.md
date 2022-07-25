@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Benjamin Sisko returns as a god to begin IDW&#39;s bold new era of &#39;Star Trek&#39; comics](https://www.space.com/star-trek-1-comics-idw-publishing/)
+- [Why Clocktower Technology Ventures is still bullish on Latin American fintechs](https://techcrunch.com/2022/07/25/why-clocktower-technology-ventures-is-still-bullish-on-latin-american-fintechs/)
+- [Google is adding new Drive, Docs, Sheets, Slides and Keep optimizations for tablets](https://techcrunch.com/2022/07/25/google-updates-drive-docs-sheets-slides-and-keep-apps-work-better-tablets/)
 - [PlayStation VR2 details: Everything we know about the PSVR 2 headset](https://www.space.com/psvr-2-details-release-date-price-specs/)
 - [How e-commerce brands can outlast this market downturn](https://techcrunch.com/2022/07/25/how-e-commerce-brands-can-outlast-this-market-downturn/)
-- [China space station module&#39;s massive rocket booster will make uncontrolled reentry](https://www.space.com/china-long-march-rocket-uncontrolled-reentry-wentian/)
-- [Jordan Peele&#39;s unsettling new invasion thriller &#39;Nope&#39; redefines the nature of UFOs](https://www.space.com/nope-jordan-peele-review/)
-- [Anker’s new GaNPrime charger lineup is cranking out up to 150w of power](https://techcrunch.com/2022/07/25/anker-ganprime/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
