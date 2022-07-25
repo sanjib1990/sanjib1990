@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Netflix’s iOS app now has a sign up button that takes you to its website](https://techcrunch.com/2022/07/25/netflixs-ios-app-now-has-a-sign-up-button-that-takes-you-to-its-website/)
+- [Real driverless cars are now legal in China’s tech hub Shenzhen](https://techcrunch.com/2022/07/25/real-driverless-cars-legal-in-chinas-shenzhen/)
+- [The Station: Executive upheaval at VW Group and the tale of two Tesla earnings](https://techcrunch.com/2022/07/25/the-station-executive-upheaval-at-vw-group-and-the-tale-of-two-tesla-earnings/)
+- [On This Day In Space: July 25, 1984: Cosmonaut Svetlana Savitskaya makes the 1st spacewalk by a woman](https://www.space.com/39251-on-this-day-in-space.html/)
 - [Oculus Quest 2 vs. PlayStation VR: Which VR headset should you buy?](https://www.space.com/oculus-quest-2-vs-playstation-vr/)
-- [Five Marvel Comics storylines that should be in the MCU](https://www.space.com/marvel-comics-storylines-that-should-be-in-the-mcu/)
-- [Spot Venus shine under the thin crescent moon on Tuesday](https://www.space.com/moon-approach-venus-night-sky-july-2022/)
-- [A cosmic time machine: How the James Webb Space Telescope lets us see the first galaxies in the universe](https://www.space.com/how-the-james-webb-space-telescope-lets-us-see-the-first-galaxies/)
-- [Stunning new Mars photos explore the solar system&#39;s largest canyon](https://www.space.com/mars-photos-largest-canyon-solar-system/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
