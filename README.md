@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Peech is a text-to-speech app that actually sounds good](https://techcrunch.com/2022/07/25/peech-text-to-speech-app/)
 - [VCs and founders alike say investors should fold reproductive rights into ESG standards](https://techcrunch.com/2022/07/25/vcs-and-founders-alike-say-investors-should-fold-reproductive-rights-into-esg-standards/)
 - [After Kitt Peak telescopes&#39; close call with wildfire, essential personnel are returning to evaluate the damage](https://www.space.com/kitt-peak-telescope-wildfire-damage-astronomers/)
 - [Dead spiders: nature’s robot hands](https://techcrunch.com/2022/07/25/dead-spiders-natures-robot-hands/)
 - [Private equity descends on Chartbeat](https://techcrunch.com/2022/07/25/private-equity-vulture-chartbeat/)
-- [Crypto valuations may sink until September as VCs play a waiting game](https://techcrunch.com/2022/07/25/crypto-valuations-may-sink-until-september-as-vcs-play-a-waiting-game/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
