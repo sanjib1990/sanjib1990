@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [VCs and founders alike say investors should fold reproductive rights into ESG standards](https://techcrunch.com/2022/07/25/vcs-and-founders-alike-say-investors-should-fold-reproductive-rights-into-esg-standards/)
+- [After Kitt Peak telescopes&#39; close call with wildfire, essential personnel are returning to evaluate the damage](https://www.space.com/kitt-peak-telescope-wildfire-damage-astronomers/)
+- [Dead spiders: nature’s robot hands](https://techcrunch.com/2022/07/25/dead-spiders-natures-robot-hands/)
 - [Private equity descends on Chartbeat](https://techcrunch.com/2022/07/25/private-equity-vulture-chartbeat/)
 - [Crypto valuations may sink until September as VCs play a waiting game](https://techcrunch.com/2022/07/25/crypto-valuations-may-sink-until-september-as-vcs-play-a-waiting-game/)
-- [Can a baby’s cry identify neurological disorders? Ubenwa says ‘yes’](https://techcrunch.com/2022/07/25/can-a-babys-cry-identify-neurological-disorders-ubenwa-says-yes/)
-- [Applications to the Startup Battlefield 200 close this week](https://techcrunch.com/2022/07/25/applications-to-the-startup-battlefield-200-close-this-week/)
-- [Benjamin Sisko returns as a god to begin IDW&#39;s bold new era of &#39;Star Trek&#39; comics](https://www.space.com/star-trek-1-comics-idw-publishing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
