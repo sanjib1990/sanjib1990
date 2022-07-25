@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Egyptian B2B e-commerce platform Cartona raises $12M to scale and explore new verticals](https://techcrunch.com/2022/07/25/egyptian-b2b-e-commerce-player-cartona-raises-12m-to-scale-and-explore-new-verticals/)
-- [Seedstars launches second fund to invest in 100 startups in emerging markets](https://techcrunch.com/2022/07/24/seedstars-launches-second-fund-to-invest-in-100-startups-in-emerging-markets/)
-- [BAI Capital targets China’s globalizing startups with fresh $700M fund](https://techcrunch.com/2022/07/24/bertelsmann-asia-bai-capital-700-million-fund/)
-- [Zomato drops 14% to all-time low as lock-in period ends](https://techcrunch.com/2022/07/24/zomato-drops-14-to-record-low-as-lock-in-period-ends/)
-- [HR automation platform Omni wants to be the ‘Rippling of Southeast Asia’](https://techcrunch.com/2022/07/24/hr-automation-platform-omni-wants-to-be-the-rippling-of-southeast-asia/)
+- [Oculus Quest 2 vs. PlayStation VR: Which VR headset should you buy?](https://www.space.com/oculus-quest-2-vs-playstation-vr/)
+- [Five Marvel Comics storylines that should be in the MCU](https://www.space.com/marvel-comics-storylines-that-should-be-in-the-mcu/)
+- [Spot Venus shine under the thin crescent moon on Tuesday](https://www.space.com/moon-approach-venus-night-sky-july-2022/)
+- [A cosmic time machine: How the James Webb Space Telescope lets us see the first galaxies in the universe](https://www.space.com/how-the-james-webb-space-telescope-lets-us-see-the-first-galaxies/)
+- [Stunning new Mars photos explore the solar system&#39;s largest canyon](https://www.space.com/mars-photos-largest-canyon-solar-system/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
