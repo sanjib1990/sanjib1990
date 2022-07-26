@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Why GM profits dropped 40% in the second quarter](https://techcrunch.com/2022/07/26/why-gm-profits-dropped-40-in-the-second-quarter/)
-- [New York City’s Interplay is raising $10M for new blockchain fund](https://techcrunch.com/2022/07/26/new-york-city-interplay-blockchain-crypto-web3-vc-venture-capital-fund/)
-- [Babbel brings its B2B language learning service to the U.S.](https://techcrunch.com/2022/07/26/babbel-brings-its-b2b-language-learning-service-to-the-u-s/)
-- [Meta weighs downgrading Covid-19 misinfo policy to labels and demotion instead of removal](https://techcrunch.com/2022/07/26/meta-weighs-downgrading-covid-19-misinfo-policy-to-labels-and-demotion-instead-of-removal/)
-- [Perseid meteor shower 2022: When, where &amp; how to see it](https://www.space.com/32868-perseid-meteor-shower-guide.html/)
+- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates/)
+- [Balance raises $56M to tip the one-click checkout scales in favor of B2B merchants](https://techcrunch.com/2022/07/26/balance-56m-one-click-checkout-b2b-merchants/)
+- [Asteroid Bennu is old before its time thanks to the sun](https://www.space.com/asteroid-bennu-cracks-from-sun-osiris-rex-images/)
+- [SpaceX&#39;s astronaut missions for NASA: Live updates](https://www.space.com/nasa-spacex-crew-launches-live-updates/)
+- [The right questions to ask investors when fundraising in a down market](https://techcrunch.com/2022/07/26/the-right-questions-to-ask-investors-when-fundraising-in-a-down-market/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
