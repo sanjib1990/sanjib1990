@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch+ roundup: Bridge round scarcity, resilient e-commerce, CVC negotiating tips](https://techcrunch.com/2022/07/26/techcrunch-roundup-bridge-round-scarcity-resilient-e-commerce-cvc-negotiating-tips/)
+- [Zoox robotaxi with supercar DNA rolls towards SF, Vegas, Seattle streets](https://techcrunch.com/2022/07/26/zoox-robotaxi-with-supercar-dna-rolls-towards-sf-vegas-seattle-streets/)
+- [US Southeast surges ahead as other regions see VC funding decline](https://techcrunch.com/2022/07/26/us-southeast-surges-ahead-as-other-regions-see-vc-funding-decline/)
+- [Big Chinese rocket body will fall to Earth around July 31, experts predict](https://www.space.com/chinese-rocket-space-debris-fall-july-31/)
 - [Exclusive: Astronaut Dan Tani delivers realism to new moon base board game, &#39;Lunar Outpost&#39;](https://www.space.com/lunar-outpost-board-game-astronaut-dan-tani/)
-- [If it walks like a dog and barks like a dog, perhaps it’s actually a digital asset security](https://techcrunch.com/2022/07/26/if-it-walks-like-a-dog-and-barks-like-a-dog-perhaps-its-actually-a-non-security-crypto-digital-asset/)
-- [What is today&#39;s moon? Moon phases 2022](https://www.space.com/18880-moon-phases.html/)
-- [Full moon calendar 2022: When to see the next full moon](https://www.space.com/16830-full-moon-calendar.html/)
-- [Sono Motors reveals final design of its solar-charging Sion EV](https://techcrunch.com/2022/07/26/sono-motors-reveals-final-design-of-its-solar-charging-sion-ev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
