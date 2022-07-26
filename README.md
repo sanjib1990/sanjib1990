@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [3 indicators to watch for on GM Q2 earnings day](https://techcrunch.com/2022/07/25/3-indicators-to-watch-for-on-gm-q2-earnings-day/)
+- [Insightly helps engineering teams increase productivity and reduce burnout](https://techcrunch.com/2022/07/25/insightly-helps-engineering-teams-increase-productivity-and-reduce-burnout/)
 - [China’s Jaka Robotics fueled by Saudi Arabia’s Prosperity7 in global push](https://techcrunch.com/2022/07/25/softbank-temasek-saudi-aramco-china-jaka-robotitcs/)
 - [Daily Crunch: Cartona will use $12M Series A to expand its Egypt-based, B2B e-commerce platform](https://techcrunch.com/2022/07/25/daily-crunch-cartona-will-use-12m-series-a-to-expand-its-egypt-based-b2b-e-commerce-platform/)
 - [GM joint venture to receive $2.5B government loan for US battery plants](https://techcrunch.com/2022/07/25/gm-joint-venture-to-receive-2-5b-government-loan-for-u-s-battery-plants/)
-- [Faraday’s future on shaky ground as EV production delayed again](https://techcrunch.com/2022/07/25/faradays-future-on-shaky-ground-as-ev-production-delayed-again/)
-- [Instagram gets worse with dark patterns lifted from TikTok](https://techcrunch.com/2022/07/25/instagram-gets-worse-with-dark-patterns-lifted-from-tiktok/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
