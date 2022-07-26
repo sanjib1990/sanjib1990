@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Fintech Guava raises $2.4M to provide banking services to Black small-business owners](https://techcrunch.com/2022/07/26/fintech-guava-raises-2-4m-to-provide-banking-services-to-black-small-business-owners/)
-- [Former a16z partner starts solo fund to back early-stage fintech startups](https://techcrunch.com/2022/07/26/from-software-engineer-to-venture-capitalist-ex-a16z-partner-rex-salisbury-unveils-new-early-stage-fund/)
-- [Shopify lays off 10% of its workforce as rapid pandemic growth slows](https://techcrunch.com/2022/07/26/shopify-lays-off-10-of-its-workforce-as-rapid-pandemic-growth-slows/)
-- [BMF raises an enormous round to 3D-print tiny things](https://techcrunch.com/2022/07/26/bmf-series-c/)
-- [Best Buy is testing a digital-first, smaller retail store](https://techcrunch.com/2022/07/26/best-buy-is-testing-a-digital-first-smaller-retail-store/)
+- [Nash raises cash to help merchants manage local deliveries](https://techcrunch.com/2022/07/26/nash-raises-cash-to-help-merchants-manage-local-deliveries/)
+- [Resourcely helps automate security, so developers can concentrate on coding](https://techcrunch.com/2022/07/26/resourcely-helps-automate-security-so-developers-can-concentrate-on-coding/)
+- [Only four days left to snag early-bird savings on Disrupt passes](https://techcrunch.com/2022/07/26/only-four-days-left-to-snag-early-bird-savings-on-disrupt-passes/)
+- [Datch secures $10M to build voice assistants to factory floors](https://techcrunch.com/2022/07/26/datch-secures-10m-to-build-voice-assistants-to-factory-floors/)
+- [3 ways founders can turn feedback into action](https://techcrunch.com/2022/07/26/3-ways-founders-can-turn-feedback-into-action/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
