@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates/)
-- [Balance raises $56M to tip the one-click checkout scales in favor of B2B merchants](https://techcrunch.com/2022/07/26/balance-56m-one-click-checkout-b2b-merchants/)
-- [Asteroid Bennu is old before its time thanks to the sun](https://www.space.com/asteroid-bennu-cracks-from-sun-osiris-rex-images/)
-- [SpaceX&#39;s astronaut missions for NASA: Live updates](https://www.space.com/nasa-spacex-crew-launches-live-updates/)
-- [The right questions to ask investors when fundraising in a down market](https://techcrunch.com/2022/07/26/the-right-questions-to-ask-investors-when-fundraising-in-a-down-market/)
+- [The third-gen Oura Ring can now measure the oxygen levels in your blood](https://techcrunch.com/2022/07/26/the-third-gen-oura-ring-can-now-measure-the-oxygen-levels-in-your-blood/)
+- [Binoculars deals: The best discounts and savings available](https://www.space.com/binoculars-deals-sale-discount/)
+- [Investors focus on DeFi as it remains resilient to crypto market volatility](https://techcrunch.com/2022/07/26/investors-focus-on-defi-as-it-remains-resilient-to-crypto-market-volatility/)
+- [Why this founder feels confident facing the economic downturn](https://techcrunch.com/2022/07/26/homebound-found-podcast/)
+- [U.K. antitrust authority sees no competition concerns in music-streaming industry](https://techcrunch.com/2022/07/26/u-k-antitrust-authority-sees-no-competition-concerns-in-music-streaming-industry/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
