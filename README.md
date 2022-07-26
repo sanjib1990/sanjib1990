@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta is raising the price of Quest 2 virtual reality headsets by $100](https://techcrunch.com/2022/07/26/meta-raising-price-quest-2-vr-headsets-by-100/)
-- [India receives $18 billion bids for 5G auction, expects rollout in September](https://techcrunch.com/2022/07/26/india-receives-18-billion-bids-for-5g-auction-expects-rollout-in-september/)
-- [Tesla, SpaceX alums stalk energy sector’s white whale with $2 million seed round](https://techcrunch.com/2022/07/26/tesla-spacex-alums-stalk-energy-sectors-white-whale-with-2-million-seed-round/)
-- [Radioactive decay: Discovery, process and causes](https://www.space.com/radioactive-decay/)
-- [The third-gen Oura Ring can now measure the oxygen levels in your blood](https://techcrunch.com/2022/07/26/the-third-gen-oura-ring-can-now-measure-the-oxygen-levels-in-your-blood/)
+- [Anthemis, Airbase and Ramp will talk about balancing runway and growth in competitive sectors at Disrupt](https://techcrunch.com/2022/07/26/anthemis-airbase-and-ramp-will-talk-about-balancing-runway-and-growth-in-competitive-sectors-at-disrupt/)
+- [SpaceX’s CTO of propulsion retired. Now he wants to go to Mars.](https://techcrunch.com/2022/07/26/spacexs-cto-of-propulsion-retired-now-he-wants-to-go-to-mars/)
+- [Instagram responds to criticism with shocking revelation that it will ‘continue to support photos’](https://techcrunch.com/2022/07/26/instagram-feed-changes-adam-mosseri-reels/)
+- [Latin America’s slowing VC market hides local strength](https://techcrunch.com/2022/07/26/latin-americas-slowing-vc-market-hides-local-strength/)
+- [Netflix gives ‘The Gray Man’ its own universe with a confirmed sequel and spin-off](https://techcrunch.com/2022/07/26/netflix-gray-man-series/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
