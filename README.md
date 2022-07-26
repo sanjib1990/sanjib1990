@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TechCrunch+ roundup: Bridge round scarcity, resilient e-commerce, CVC negotiating tips](https://techcrunch.com/2022/07/26/techcrunch-roundup-bridge-round-scarcity-resilient-e-commerce-cvc-negotiating-tips/)
-- [Zoox robotaxi with supercar DNA rolls towards SF, Vegas, Seattle streets](https://techcrunch.com/2022/07/26/zoox-robotaxi-with-supercar-dna-rolls-towards-sf-vegas-seattle-streets/)
-- [US Southeast surges ahead as other regions see VC funding decline](https://techcrunch.com/2022/07/26/us-southeast-surges-ahead-as-other-regions-see-vc-funding-decline/)
-- [Big Chinese rocket body will fall to Earth around July 31, experts predict](https://www.space.com/chinese-rocket-space-debris-fall-july-31/)
-- [Exclusive: Astronaut Dan Tani delivers realism to new moon base board game, &#39;Lunar Outpost&#39;](https://www.space.com/lunar-outpost-board-game-astronaut-dan-tani/)
+- [Daily Crunch: European subscription prices for Amazon Prime will increase in September](https://techcrunch.com/2022/07/26/daily-crunch-european-subscription-prices-for-amazon-prime-will-increase-in-september/)
+- [3 indicators to watch for on Ford Q2 earnings day](https://techcrunch.com/2022/07/26/3-indicators-to-watch-for-on-ford-q2-earnings-day/)
+- [JusTalk spilled millions of user messages and locations for months](https://techcrunch.com/2022/07/26/justalk-spilled-millions-of-user-messages-and-locations-for-months/)
+- [Pokémon Go’s new ‘daily adventure incense’ will make you take a 15-minute walk](https://techcrunch.com/2022/07/26/pokemon-go-daily-adventure-incense/)
+- [Buzz Aldrin&#39;s moon-flown Apollo 11 jacket sells for record $2.8M at Sotheby&#39;s](https://www.space.com/buzz-aldrin-apollo-11-jacket-sothebys-auction/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
