@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon hikes Prime subscription prices in Europe by up to 43%](https://techcrunch.com/2022/07/26/amazon-hikes-prime-subscription-prices-in-europe-by-up-to-43/)
 - [The Fashion Kingdom, an Egyptian fashion e-commerce startup, raises $2.6M in seed funding](https://techcrunch.com/2022/07/26/the-fashion-kingdom-an-egyptian-fashion-e-commerce-startup-raises-2-6m-in-seed-funding/)
 - [Exceptional Ventures joins Europe’s health and wellness goldrush with a new $24M fund](https://techcrunch.com/2022/07/26/exceptional-ventures-joins-europes-health-and-wellness-goldrush-with-a-24m-fund/)
 - [3 indicators to watch for on GM Q2 earnings day](https://techcrunch.com/2022/07/25/3-indicators-to-watch-for-on-gm-q2-earnings-day/)
 - [Insightly helps engineering teams increase productivity and reduce burnout](https://techcrunch.com/2022/07/25/insightly-helps-engineering-teams-increase-productivity-and-reduce-burnout/)
-- [China’s Jaka Robotics fueled by Saudi Arabia’s Prosperity7 in global push](https://techcrunch.com/2022/07/25/softbank-temasek-saudi-aramco-china-jaka-robotitcs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
