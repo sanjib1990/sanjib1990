@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Anthemis, Airbase and Ramp will talk about balancing runway and growth in competitive sectors at Disrupt](https://techcrunch.com/2022/07/26/anthemis-airbase-and-ramp-will-talk-about-balancing-runway-and-growth-in-competitive-sectors-at-disrupt/)
-- [SpaceX’s CTO of propulsion retired. Now he wants to go to Mars.](https://techcrunch.com/2022/07/26/spacexs-cto-of-propulsion-retired-now-he-wants-to-go-to-mars/)
-- [Instagram responds to criticism with shocking revelation that it will ‘continue to support photos’](https://techcrunch.com/2022/07/26/instagram-feed-changes-adam-mosseri-reels/)
-- [Latin America’s slowing VC market hides local strength](https://techcrunch.com/2022/07/26/latin-americas-slowing-vc-market-hides-local-strength/)
-- [Netflix gives ‘The Gray Man’ its own universe with a confirmed sequel and spin-off](https://techcrunch.com/2022/07/26/netflix-gray-man-series/)
+- [Exclusive: Astronaut Dan Tani delivers realism to new moon base board game, &#39;Lunar Outpost&#39;](https://www.space.com/lunar-outpost-board-game-astronaut-dan-tani/)
+- [If it walks like a dog and barks like a dog, perhaps it’s actually a digital asset security](https://techcrunch.com/2022/07/26/if-it-walks-like-a-dog-and-barks-like-a-dog-perhaps-its-actually-a-non-security-crypto-digital-asset/)
+- [What is today&#39;s moon? Moon phases 2022](https://www.space.com/18880-moon-phases.html/)
+- [Full moon calendar 2022: When to see the next full moon](https://www.space.com/16830-full-moon-calendar.html/)
+- [Sono Motors reveals final design of its solar-charging Sion EV](https://techcrunch.com/2022/07/26/sono-motors-reveals-final-design-of-its-solar-charging-sion-ev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
