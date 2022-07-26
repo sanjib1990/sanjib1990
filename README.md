@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Krafton says it has invested over $100 million in India and wants to become more than just a gaming company](https://techcrunch.com/2022/07/26/krafton-pubg-bgmi-battlegrounds-mobile-india-investments-startups-2022-target/)
-- [Amazon hikes Prime subscription prices in Europe by up to 43%](https://techcrunch.com/2022/07/26/amazon-hikes-prime-subscription-prices-in-europe-by-up-to-43/)
-- [The Fashion Kingdom, an Egyptian fashion e-commerce startup, raises $2.6M in seed funding](https://techcrunch.com/2022/07/26/the-fashion-kingdom-an-egyptian-fashion-e-commerce-startup-raises-2-6m-in-seed-funding/)
-- [Exceptional Ventures joins Europe’s health and wellness goldrush with a new $24M fund](https://techcrunch.com/2022/07/26/exceptional-ventures-joins-europes-health-and-wellness-goldrush-with-a-24m-fund/)
-- [3 indicators to watch for on GM Q2 earnings day](https://techcrunch.com/2022/07/25/3-indicators-to-watch-for-on-gm-q2-earnings-day/)
+- [Topl blockchain raises $15M to help track social impact initiatives](https://techcrunch.com/2022/07/26/topl-blockchain-raises-15m-to-help-track-social-impact-initiatives/)
+- [Vortex binoculars deals and discounts](https://www.space.com/vortex-binoculars-deals/)
+- [1st NASA capsule to fly into space lands at Long Island museum](https://www.space.com/nasa-mercury-capsule-mr1a-cradle-aviation-museum/)
+- [South Korea to launch 1st moon mission 1 week from today](https://www.space.com/south-korea-first-moon-mission-launch-one-week/)
+- [Satellites can get lost in major solar storms and it could take weeks to find them](https://www.space.com/satellites-lost-after-solar-storms-for-weeks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
