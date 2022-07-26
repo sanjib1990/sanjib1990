@@ -95,7 +95,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Daily Crunch: Cartona will use $12M Series A to expand its Egypt-based, B2B e-commerce platform](https://techcrunch.com/2022/07/25/daily-crunch-cartona-will-use-12m-series-a-to-expand-its-egypt-based-b2b-e-commerce-platform/)
-- [GM joint venture to receive $2.5B government loan for U.S. battery plants](https://techcrunch.com/2022/07/25/gm-joint-venture-to-receive-2-5b-government-loan-for-u-s-battery-plants/)
+- [GM joint venture to receive $2.5B government loan for US battery plants](https://techcrunch.com/2022/07/25/gm-joint-venture-to-receive-2-5b-government-loan-for-u-s-battery-plants/)
 - [Faraday’s future on shaky ground as EV production delayed again](https://techcrunch.com/2022/07/25/faradays-future-on-shaky-ground-as-ev-production-delayed-again/)
 - [Instagram gets worse with dark patterns lifted from TikTok](https://techcrunch.com/2022/07/25/instagram-gets-worse-with-dark-patterns-lifted-from-tiktok/)
 - [Peech is a text-to-speech app that actually sounds good](https://techcrunch.com/2022/07/25/peech-text-to-speech-app/)
