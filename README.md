@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [On This Day In Space: July 26, 2005: Space shuttle Discovery returns to flight](https://www.space.com/39251-on-this-day-in-space.html/)
-- [Snyk adds policy-based code security to its arsenal](https://techcrunch.com/2022/07/26/snyk-adds-policy-based-code-security-to-its-arsenal/)
-- [Cordial, which personalizes and automates cross-channel messaging campaigns, raises $50M](https://techcrunch.com/2022/07/26/cordial-which-personalizes-and-automates-cross-channel-messaging-campaigns-raises-50m/)
-- [Butlr lands new cash to put people-detecting sensors in the office](https://techcrunch.com/2022/07/26/butlr-lands-new-cash-to-put-people-detecting-sensors-in-the-office/)
-- [Corporate travel tech platform Spotnana nabs $75M](https://techcrunch.com/2022/07/26/corporate-travel-tech-company-spotnana-nabs-75m/)
+- [Fintech Guava raises $2.4M to provide banking services to Black small-business owners](https://techcrunch.com/2022/07/26/fintech-guava-raises-2-4m-to-provide-banking-services-to-black-small-business-owners/)
+- [Former a16z partner starts solo fund to back early-stage fintech startups](https://techcrunch.com/2022/07/26/from-software-engineer-to-venture-capitalist-ex-a16z-partner-rex-salisbury-unveils-new-early-stage-fund/)
+- [Shopify lays off 10% of its workforce as rapid pandemic growth slows](https://techcrunch.com/2022/07/26/shopify-lays-off-10-of-its-workforce-as-rapid-pandemic-growth-slows/)
+- [BMF raises an enormous round to 3D-print tiny things](https://techcrunch.com/2022/07/26/bmf-series-c/)
+- [Best Buy is testing a digital-first, smaller retail store](https://techcrunch.com/2022/07/26/best-buy-is-testing-a-digital-first-smaller-retail-store/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
