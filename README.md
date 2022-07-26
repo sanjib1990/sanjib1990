@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta is raising the price of Quest 2 virtual reality headsets by $100](https://techcrunch.com/2022/07/26/meta-raising-price-quest-2-vr-headsets-by-100/)
+- [India receives $18 billion bids for 5G auction, expects rollout in September](https://techcrunch.com/2022/07/26/india-receives-18-billion-bids-for-5g-auction-expects-rollout-in-september/)
+- [Tesla, SpaceX alums stalk energy sector’s white whale with $2 million seed round](https://techcrunch.com/2022/07/26/tesla-spacex-alums-stalk-energy-sectors-white-whale-with-2-million-seed-round/)
+- [Radioactive decay: Discovery, process and causes](https://www.space.com/radioactive-decay/)
 - [The third-gen Oura Ring can now measure the oxygen levels in your blood](https://techcrunch.com/2022/07/26/the-third-gen-oura-ring-can-now-measure-the-oxygen-levels-in-your-blood/)
-- [Binoculars deals: The best discounts and savings available](https://www.space.com/binoculars-deals-sale-discount/)
-- [Investors focus on DeFi as it remains resilient to crypto market volatility](https://techcrunch.com/2022/07/26/investors-focus-on-defi-as-it-remains-resilient-to-crypto-market-volatility/)
-- [Why this founder feels confident facing the economic downturn](https://techcrunch.com/2022/07/26/homebound-found-podcast/)
-- [U.K. antitrust authority sees no competition concerns in music-streaming industry](https://techcrunch.com/2022/07/26/u-k-antitrust-authority-sees-no-competition-concerns-in-music-streaming-industry/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
