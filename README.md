@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Nash raises cash to help merchants manage local deliveries](https://techcrunch.com/2022/07/26/nash-raises-cash-to-help-merchants-manage-local-deliveries/)
-- [Resourcely helps automate security, so developers can concentrate on coding](https://techcrunch.com/2022/07/26/resourcely-helps-automate-security-so-developers-can-concentrate-on-coding/)
-- [Only four days left to snag early-bird savings on Disrupt passes](https://techcrunch.com/2022/07/26/only-four-days-left-to-snag-early-bird-savings-on-disrupt-passes/)
-- [Datch secures $10M to build voice assistants to factory floors](https://techcrunch.com/2022/07/26/datch-secures-10m-to-build-voice-assistants-to-factory-floors/)
-- [3 ways founders can turn feedback into action](https://techcrunch.com/2022/07/26/3-ways-founders-can-turn-feedback-into-action/)
+- [Why GM profits dropped 40% in the second quarter](https://techcrunch.com/2022/07/26/why-gm-profits-dropped-40-in-the-second-quarter/)
+- [New York City’s Interplay is raising $10M for new blockchain fund](https://techcrunch.com/2022/07/26/new-york-city-interplay-blockchain-crypto-web3-vc-venture-capital-fund/)
+- [Babbel brings its B2B language learning service to the U.S.](https://techcrunch.com/2022/07/26/babbel-brings-its-b2b-language-learning-service-to-the-u-s/)
+- [Meta weighs downgrading Covid-19 misinfo policy to labels and demotion instead of removal](https://techcrunch.com/2022/07/26/meta-weighs-downgrading-covid-19-misinfo-policy-to-labels-and-demotion-instead-of-removal/)
+- [Perseid meteor shower 2022: When, where &amp; how to see it](https://www.space.com/32868-perseid-meteor-shower-guide.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
