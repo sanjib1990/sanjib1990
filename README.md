@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Topl blockchain raises $15M to help track social impact initiatives](https://techcrunch.com/2022/07/26/topl-blockchain-raises-15m-to-help-track-social-impact-initiatives/)
-- [Vortex binoculars deals and discounts](https://www.space.com/vortex-binoculars-deals/)
-- [1st NASA capsule to fly into space lands at Long Island museum](https://www.space.com/nasa-mercury-capsule-mr1a-cradle-aviation-museum/)
-- [South Korea to launch 1st moon mission 1 week from today](https://www.space.com/south-korea-first-moon-mission-launch-one-week/)
-- [Satellites can get lost in major solar storms and it could take weeks to find them](https://www.space.com/satellites-lost-after-solar-storms-for-weeks/)
+- [On This Day In Space: July 26, 2005: Space shuttle Discovery returns to flight](https://www.space.com/39251-on-this-day-in-space.html/)
+- [Snyk adds policy-based code security to its arsenal](https://techcrunch.com/2022/07/26/snyk-adds-policy-based-code-security-to-its-arsenal/)
+- [Cordial, which personalizes and automates cross-channel messaging campaigns, raises $50M](https://techcrunch.com/2022/07/26/cordial-which-personalizes-and-automates-cross-channel-messaging-campaigns-raises-50m/)
+- [Butlr lands new cash to put people-detecting sensors in the office](https://techcrunch.com/2022/07/26/butlr-lands-new-cash-to-put-people-detecting-sensors-in-the-office/)
+- [Corporate travel tech platform Spotnana nabs $75M](https://techcrunch.com/2022/07/26/corporate-travel-tech-company-spotnana-nabs-75m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
