@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Indonesia’s IDEAL takes the pain out of applying for mortgages](https://techcrunch.com/2022/07/26/indonesias-ideal-takes-the-pain-out-of-applying-for-mortgages/)
-- [How seriously should we take Russia&#39;s latest threat to leave the ISS?](https://www.space.com/russia-space-station-departure-threat-seriousness/)
-- [Cruise hopes ramping its robotaxi service will U-turn its cash burn](https://techcrunch.com/2022/07/26/cruise-hopes-ramping-its-robotaxi-service-will-u-turn-its-cash-burn/)
-- [Daily Crunch: European subscription prices for Amazon Prime will increase in September](https://techcrunch.com/2022/07/26/daily-crunch-european-subscription-prices-for-amazon-prime-will-increase-in-september/)
-- [3 indicators to watch for on Ford Q2 earnings day](https://techcrunch.com/2022/07/26/3-indicators-to-watch-for-on-ford-q2-earnings-day/)
+- [As Africa’s digital economy grows, expensive internet hinders investor activity in some countries](https://techcrunch.com/2022/07/27/as-africas-digital-economy-grows-expensive-internet-hinders-investor-activity-in-some-countries/)
+- [Google Maps is rolling out location sharing notifications and immersive view for landmarks](https://techcrunch.com/2022/07/27/google-maps-is-rolling-out-location-sharing-notifications-and-immersive-view-for-landmarks/)
+- [Packworks makes operations easier for sari-sari stores in the Philippines](https://techcrunch.com/2022/07/27/packworks-makes-operations-easier-for-sari-sari-stores-in-the-philippines/)
+- [RPA Supervisor lands cash to help companies manage their various RPA platforms](https://techcrunch.com/2022/07/27/rpa-supervisor-lands-cash-to-help-companies-manage-their-various-rpa-platforms/)
+- [Google launches Street View in India after years of rejection](https://techcrunch.com/2022/07/26/google-street-view-india/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
