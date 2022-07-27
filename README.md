@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [If you think Instagram is bad now, you won’t like Zuckerberg’s plans](https://techcrunch.com/2022/07/27/instagram-feed-reels-tiktok-ai-mark-zuckerberg/)
+- [Russia will stay in ISS program at least until 2028: report](https://www.space.com/russia-stay-international-space-station-2028/)
+- [Codefresh launches its hosted GitOps solution](https://techcrunch.com/2022/07/27/codefresh-launches-its-hosted-gitops-solution/)
 - [Meta posts its first ever quarterly revenue decline](https://techcrunch.com/2022/07/27/meta-posts-its-first-ever-quarterly-revenue-decline/)
 - [Daily Crunch: Google Maps unveils improved bike navigation, location sharing and aerial landmark views](https://techcrunch.com/2022/07/27/daily-crunch-google-maps-unveils-improved-bike-navigation-location-sharing-and-aerial-landmark-views/)
-- [US Postal Service to launch James Webb Space Telescope &#39;forever&#39; stamp](https://www.space.com/james-webb-space-telescope-forever-stamps-us-postal-service/)
-- [Apple hires Lamborghini executive to help steer EV program](https://techcrunch.com/2022/07/27/apple-hires-lamborghini-executive-to-help-steer-ev-program/)
-- [&#39;Castaway&#39; gamma-ray bursts come from distant early galaxies](https://www.space.com/gamma-ray-bursts-distant-galaxies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
