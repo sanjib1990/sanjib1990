@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Cybersecurity vendor Entrust tells customers data was stolen during June cyberattack](https://techcrunch.com/2022/07/27/entrust-data-stolen-june-cyberattack/)
-- [Scientists spot alien worlds orbiting exotic star pairs using new technique](https://www.space.com/finding-alien-planets-exotic-cataclysmic-variables/)
-- [3 indicators to watch for on Stellantis Q2 earnings day](https://techcrunch.com/2022/07/27/3-indicators-to-watch-for-on-stellantis-q2-earnings-day/)
-- [TikTok will provide select researchers with more transparency about its platform and moderation system](https://techcrunch.com/2022/07/27/tiktok-select-researchers-more-transparency-about-platform-moderation-system/)
-- [Dear Sophie: Should co-founders on OPT, STEM OPT pursue H-1Bs?](https://techcrunch.com/2022/07/27/dear-sophie-should-co-founders-on-opt-stem-opt-pursue-h-1bs/)
+- [NASA tests prototype electric astronaut van for Artemis moon missions](https://www.space.com/nasa-artemis-astronaut-van-canoo-test-drive-photos/)
+- [NASA-built instrument will help Europe explore shape of the moon](https://www.space.com/nasa-moon-lunar-pathfinder-satnav-mission/)
+- [A niche facet of startup employee pay, explained](https://techcrunch.com/2022/07/27/a-niche-facet-of-startup-employee-pay-explained/)
+- [You can now get startup shares on the cheap](https://techcrunch.com/2022/07/27/you-can-now-get-startup-shares-on-the-cheap/)
+- [Netflix emulates life flashing before your eyes with its new ‘Before Your Eyes’ mobile game](https://techcrunch.com/2022/07/27/netflix-emulates-life-flashing-before-your-eyes-with-its-new-before-your-eyes-mobile-game/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
