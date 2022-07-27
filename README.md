@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA tests prototype electric astronaut van for Artemis moon missions](https://www.space.com/nasa-artemis-astronaut-van-canoo-test-drive-photos/)
-- [NASA-built instrument will help Europe explore shape of the moon](https://www.space.com/nasa-moon-lunar-pathfinder-satnav-mission/)
-- [A niche facet of startup employee pay, explained](https://techcrunch.com/2022/07/27/a-niche-facet-of-startup-employee-pay-explained/)
-- [You can now get startup shares on the cheap](https://techcrunch.com/2022/07/27/you-can-now-get-startup-shares-on-the-cheap/)
-- [Netflix emulates life flashing before your eyes with its new ‘Before Your Eyes’ mobile game](https://techcrunch.com/2022/07/27/netflix-emulates-life-flashing-before-your-eyes-with-its-new-before-your-eyes-mobile-game/)
+- [The Oculus Quest 2 is about to get $100 more expensive - get one before the price hike](https://www.space.com/oculus-quest-2-price-increase-august/)
+- [Protestware on the rise: Why developers are sabotaging their own code](https://techcrunch.com/2022/07/27/protestware-code-sabotage/)
+- [&#39;I Am Groot!&#39; Marvel Studios unleashes 1st trailer for &#39;Guardians of the Galaxy&#39; animated spinoff](https://www.space.com/i-am-groot-marvel-disney-plus/)
+- [8 investors discuss fintech’s potential despite the market downturn](https://techcrunch.com/2022/07/27/8-investors-discuss-fintechs-potential-despite-the-market-downturn/)
+- [8 fintech investors discuss the shifting investing landscape and how to pitch them in Q3 2022](https://techcrunch.com/2022/07/27/8-fintech-investors-discuss-the-shifting-investing-landscape-and-how-to-pitch-them-in-q3-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
