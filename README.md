@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Indonesia’s IDEAL takes the pain out of applying for mortgages](https://techcrunch.com/2022/07/26/indonesias-ideal-takes-the-pain-out-of-applying-for-mortgages/)
 - [How seriously should we take Russia&#39;s latest threat to leave the ISS?](https://www.space.com/russia-space-station-departure-threat-seriousness/)
 - [Cruise hopes ramping its robotaxi service will U-turn its cash burn](https://techcrunch.com/2022/07/26/cruise-hopes-ramping-its-robotaxi-service-will-u-turn-its-cash-burn/)
 - [Daily Crunch: European subscription prices for Amazon Prime will increase in September](https://techcrunch.com/2022/07/26/daily-crunch-european-subscription-prices-for-amazon-prime-will-increase-in-september/)
 - [3 indicators to watch for on Ford Q2 earnings day](https://techcrunch.com/2022/07/26/3-indicators-to-watch-for-on-ford-q2-earnings-day/)
-- [JusTalk spilled millions of user messages and locations for months](https://techcrunch.com/2022/07/26/justalk-spilled-millions-of-user-messages-and-locations-for-months/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
