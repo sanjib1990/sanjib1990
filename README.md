@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Keychron’s first Alice-style mechanical keyboard was worth the wait](https://techcrunch.com/2022/07/27/keychrons-new-q8-ergonomic-alice-style-mechanical-keyboard/)
-- [Google delays move away from cookies in Chrome to 2024](https://techcrunch.com/2022/07/27/google-delays-move-away-from-cookies-in-chrome-to-2024/)
-- [FTC sues Meta to block acquisition of VR fitness app](https://techcrunch.com/2022/07/27/ftc-is-suing-meta-to-block-acquisition-of-vr-fitness-app/)
-- [2 Ingenuity-class helicopters will join Mars sample return effort](https://www.space.com/ingenuity-class-helicopters-mars-sample-return/)
-- [Senate passes CHIPS Act to subsidize domestic semiconductor production](https://techcrunch.com/2022/07/27/senate-passes-chips-act-to-subsidize-domestic-semiconductor-production/)
+- [You can’t afford a house, but you can probably afford Nada](https://techcrunch.com/2022/07/27/you-cant-afford-a-house-but-you-can-probably-afford-nada/)
+- [Experimental Zephyr drone sets new record for uncrewed flight duration](https://www.space.com/airbus-zephyr-drone-long-endurance-flight-record/)
+- [China steers cargo spacecraft to fiery death in Earth&#39;s atmosphere](https://www.space.com/china-tianzhou-3-cargo-spacecraft-reenters-atmosphere/)
+- [Buy a student pass to Disrupt before prices go up this Friday](https://techcrunch.com/2022/07/27/buy-a-student-pass-to-disrupt-before-prices-go-up-this-friday/)
+- [The north pole of Jupiter has mesmerizing storms, new Juno images reveal](https://www.space.com/jupiter-mesmerizing-storms-north-pole-juno-images/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
