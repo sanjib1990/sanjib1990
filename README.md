@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple’s latest iOS 16 beta introduces a history log for edited messages](https://techcrunch.com/2022/07/27/apples-latest-ios-16-beta-introduces-history-log-edited-messages/)
+- [Twitter is testing a status feature that’s taking us back to MySpace](https://techcrunch.com/2022/07/27/twitter-status-feature-test/)
+- [Meta Q2 sales decline 1% to $28.82B, EPS drops 32%, moves CFO to new chief strategy officer role](https://techcrunch.com/2022/07/27/meta-misses-on-revenues-and-eps-in-q2-says-its-cfo-is-becoming-its-cso/)
 - [You can’t afford a house, but you can probably afford Nada](https://techcrunch.com/2022/07/27/you-cant-afford-a-house-but-you-can-probably-afford-nada/)
-- [Experimental Zephyr drone sets new record for uncrewed flight duration](https://www.space.com/airbus-zephyr-drone-long-endurance-flight-record/)
-- [China steers cargo spacecraft to fiery death in Earth&#39;s atmosphere](https://www.space.com/china-tianzhou-3-cargo-spacecraft-reenters-atmosphere/)
-- [Buy a student pass to Disrupt before prices go up this Friday](https://techcrunch.com/2022/07/27/buy-a-student-pass-to-disrupt-before-prices-go-up-this-friday/)
-- [The north pole of Jupiter has mesmerizing storms, new Juno images reveal](https://www.space.com/jupiter-mesmerizing-storms-north-pole-juno-images/)
+- [Rivian begins laying off 6% of workforce](https://techcrunch.com/2022/07/27/rivian-begins-laying-off-6-of-workforce/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
