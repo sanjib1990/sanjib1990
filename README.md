@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [U.S. Senate advances chip funding bill to encourage local semiconductor manufacturing](https://techcrunch.com/2022/07/27/u-s-senate-advances-chip-funding-bill-to-encourage-local-semiconductor-manufacturing/)
-- [Space Perspective unveils capsule design for balloon-borne tourist flights &lpar;images&rpar;](https://www.space.com/space-perspective-capsule-balloon-tourist-flights/)
-- [Human Security merges with PerimeterX to thwart bots and automated fraud](https://techcrunch.com/2022/07/27/human-security-merges-with-perimeterx-to-thwart-bots-and-automated-fraud/)
-- [On This Day In Space: July 27, 1962: First zero-G cosmonaut training on Soviet jetliner](https://www.space.com/39251-on-this-day-in-space.html/)
-- [&#39;Neutrino factories&#39; could hold the solution to the cosmic ray mystery](https://www.space.com/neutrino-factories-blazars-cosmic-rays/)
+- [Why debt raises might make sense in a down economy](https://techcrunch.com/2022/07/27/why-debt-raises-might-make-sense-in-a-down-economy/)
+- [Microsoft misses expectations, points to foreign exchange rates and weakened PC market](https://techcrunch.com/2022/07/27/microsoft-misses-expectations-points-to-foreign-exchange-rates-and-weakened-pc-market/)
+- [Gradient Ventures-backed Shypyard aims to ‘raise the sales’ for DTC merchants](https://techcrunch.com/2022/07/27/gradient-ventures-shypyard-sales-dtc-merchants/)
+- [Root Global wants to be the operating system for food carbon neutrality](https://techcrunch.com/2022/07/27/root-global-carbon-os/)
+- [Paragon wants to be the Plaid of SaaS apps](https://techcrunch.com/2022/07/27/paragon-wants-to-be-the-plaid-of-saas-apps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
