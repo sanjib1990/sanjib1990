@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Spotify exits short-lived Car Thing hardware play, as reports Q2 MAUs of 433M, offsetting Russia exit and service outage](https://techcrunch.com/2022/07/27/spotify-exits-short-lived-car-thing-hardware-play-as-reports-q2-maus-of-433m-offsetting-russia-exit-and-service-outage/)
-- [Noctilucent clouds: Everything you need to know about the rare &#39;night-shining&#39; clouds](https://www.space.com/noctilucent-clouds/)
-- [Danuri: Facts about the Korea Pathfinder Lunar Orbiter &lpar;KPLO&rpar;](https://www.space.com/danuri-korea-pathfinder-lunar-orbiter-kplo-moon-mission/)
-- [The James Webb Space Telescope is on the hunt for the universe&#39;s 1st-ever supermassive black holes](https://www.space.com/james-webb-space-telescope-first-supermassive-black-holes/)
-- [As Africa’s digital economy grows, expensive internet hinders investor activity in some countries](https://techcrunch.com/2022/07/27/as-africas-digital-economy-grows-expensive-internet-hinders-investor-activity-in-some-countries/)
+- [U.S. Senate advances chip funding bill to encourage local semiconductor manufacturing](https://techcrunch.com/2022/07/27/u-s-senate-advances-chip-funding-bill-to-encourage-local-semiconductor-manufacturing/)
+- [Space Perspective unveils capsule design for balloon-borne tourist flights &lpar;images&rpar;](https://www.space.com/space-perspective-capsule-balloon-tourist-flights/)
+- [Human Security merges with PerimeterX to thwart bots and automated fraud](https://techcrunch.com/2022/07/27/human-security-merges-with-perimeterx-to-thwart-bots-and-automated-fraud/)
+- [On This Day In Space: July 27, 1962: First zero-G cosmonaut training on Soviet jetliner](https://www.space.com/39251-on-this-day-in-space.html/)
+- [&#39;Neutrino factories&#39; could hold the solution to the cosmic ray mystery](https://www.space.com/neutrino-factories-blazars-cosmic-rays/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
