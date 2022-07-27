@@ -95,7 +95,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [As Africa’s digital economy grows, expensive internet hinders investor activity in some countries](https://techcrunch.com/2022/07/27/as-africas-digital-economy-grows-expensive-internet-hinders-investor-activity-in-some-countries/)
-- [Google Maps is rolling out location sharing notifications and immersive view for landmarks](https://techcrunch.com/2022/07/27/google-maps-is-rolling-out-location-sharing-notifications-and-immersive-view-for-landmarks/)
+- [Google Maps rolls out location sharing notifications, immersive views and better bike navigation](https://techcrunch.com/2022/07/27/google-maps-is-rolling-out-location-sharing-notifications-and-immersive-view-for-landmarks/)
 - [Packworks makes operations easier for sari-sari stores in the Philippines](https://techcrunch.com/2022/07/27/packworks-makes-operations-easier-for-sari-sari-stores-in-the-philippines/)
 - [RPA Supervisor lands cash to help companies manage their various RPA platforms](https://techcrunch.com/2022/07/27/rpa-supervisor-lands-cash-to-help-companies-manage-their-various-rpa-platforms/)
 - [Google launches Street View in India after years of rejection](https://techcrunch.com/2022/07/26/google-street-view-india/)
