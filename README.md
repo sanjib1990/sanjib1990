@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [First impressions of the Nimbus 3-wheeled urban transportation pod](https://techcrunch.com/2022/07/27/first-ride-nimbus/)
-- [Spotify says Kate Bush streams jumped 9,000% thanks to Stranger Things &lpar;and TikTok&rpar;](https://techcrunch.com/2022/07/27/kate-bush-tiktok-stranger-things-spotify/)
-- [FTX CEO leads Trustless Media’s seed round to help build community-owned web3 shows](https://techcrunch.com/2022/07/27/ftx-ceo-leads-trustless-medias-seed-round-to-help-build-community-owned-web3-shows/)
-- [Switchboard creates virtual rooms to foster better collaboration](https://techcrunch.com/2022/07/27/switchboard-creates-virtual-rooms-to-foster-better-collaboration/)
-- [72 hours left to save up to $1,300 on early-bird passes for Disrupt](https://techcrunch.com/2022/07/27/72-hours-left-to-save-up-to-1300-on-early-bird-passes-for-disrupt/)
+- [Cybersecurity vendor Entrust tells customers data was stolen during June cyberattack](https://techcrunch.com/2022/07/27/entrust-data-stolen-june-cyberattack/)
+- [Scientists spot alien worlds orbiting exotic star pairs using new technique](https://www.space.com/finding-alien-planets-exotic-cataclysmic-variables/)
+- [3 indicators to watch for on Stellantis Q2 earnings day](https://techcrunch.com/2022/07/27/3-indicators-to-watch-for-on-stellantis-q2-earnings-day/)
+- [TikTok will provide select researchers with more transparency about its platform and moderation system](https://techcrunch.com/2022/07/27/tiktok-select-researchers-more-transparency-about-platform-moderation-system/)
+- [Dear Sophie: Should co-founders on OPT, STEM OPT pursue H-1Bs?](https://techcrunch.com/2022/07/27/dear-sophie-should-co-founders-on-opt-stem-opt-pursue-h-1bs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
