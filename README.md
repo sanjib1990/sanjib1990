@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Why debt raises might make sense in a down economy](https://techcrunch.com/2022/07/27/why-debt-raises-might-make-sense-in-a-down-economy/)
-- [Microsoft misses expectations, points to foreign exchange rates and weakened PC market](https://techcrunch.com/2022/07/27/microsoft-misses-expectations-points-to-foreign-exchange-rates-and-weakened-pc-market/)
-- [Gradient Ventures-backed Shypyard aims to ‘raise the sales’ for DTC merchants](https://techcrunch.com/2022/07/27/gradient-ventures-shypyard-sales-dtc-merchants/)
-- [Root Global wants to be the operating system for food carbon neutrality](https://techcrunch.com/2022/07/27/root-global-carbon-os/)
-- [Paragon wants to be the Plaid of SaaS apps](https://techcrunch.com/2022/07/27/paragon-wants-to-be-the-plaid-of-saas-apps/)
+- [First impressions of the Nimbus 3-wheeled urban transportation pod](https://techcrunch.com/2022/07/27/first-ride-nimbus/)
+- [Spotify says Kate Bush streams jumped 9,000% thanks to Stranger Things &lpar;and TikTok&rpar;](https://techcrunch.com/2022/07/27/kate-bush-tiktok-stranger-things-spotify/)
+- [FTX CEO leads Trustless Media’s seed round to help build community-owned web3 shows](https://techcrunch.com/2022/07/27/ftx-ceo-leads-trustless-medias-seed-round-to-help-build-community-owned-web3-shows/)
+- [Switchboard creates virtual rooms to foster better collaboration](https://techcrunch.com/2022/07/27/switchboard-creates-virtual-rooms-to-foster-better-collaboration/)
+- [72 hours left to save up to $1,300 on early-bird passes for Disrupt](https://techcrunch.com/2022/07/27/72-hours-left-to-save-up-to-1300-on-early-bird-passes-for-disrupt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
