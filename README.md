@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple’s latest iOS 16 beta introduces a history log for edited messages](https://techcrunch.com/2022/07/27/apples-latest-ios-16-beta-introduces-history-log-edited-messages/)
-- [Twitter is testing a status feature that’s taking us back to MySpace](https://techcrunch.com/2022/07/27/twitter-status-feature-test/)
-- [Meta Q2 sales decline 1% to $28.82B, EPS drops 32%, moves CFO to new chief strategy officer role](https://techcrunch.com/2022/07/27/meta-misses-on-revenues-and-eps-in-q2-says-its-cfo-is-becoming-its-cso/)
-- [You can’t afford a house, but you can probably afford Nada](https://techcrunch.com/2022/07/27/you-cant-afford-a-house-but-you-can-probably-afford-nada/)
-- [Rivian begins laying off 6% of workforce](https://techcrunch.com/2022/07/27/rivian-begins-laying-off-6-of-workforce/)
+- [Meta posts its first ever quarterly revenue decline](https://techcrunch.com/2022/07/27/meta-posts-its-first-ever-quarterly-revenue-decline/)
+- [Daily Crunch: Google Maps unveils improved bike navigation, location sharing and aerial landmark views](https://techcrunch.com/2022/07/27/daily-crunch-google-maps-unveils-improved-bike-navigation-location-sharing-and-aerial-landmark-views/)
+- [US Postal Service to launch James Webb Space Telescope &#39;forever&#39; stamp](https://www.space.com/james-webb-space-telescope-forever-stamps-us-postal-service/)
+- [Apple hires Lamborghini executive to help steer EV program](https://techcrunch.com/2022/07/27/apple-hires-lamborghini-executive-to-help-steer-ev-program/)
+- [&#39;Castaway&#39; gamma-ray bursts come from distant early galaxies](https://www.space.com/gamma-ray-bursts-distant-galaxies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
