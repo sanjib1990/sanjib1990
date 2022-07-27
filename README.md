@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Keychron’s first Alice-style mechanical keyboard was worth the wait](https://techcrunch.com/2022/07/27/keychrons-new-q8-ergonomic-alice-style-mechanical-keyboard/)
+- [Google delays move away from cookies in Chrome to 2024](https://techcrunch.com/2022/07/27/google-delays-move-away-from-cookies-in-chrome-to-2024/)
+- [FTC sues Meta to block acquisition of VR fitness app](https://techcrunch.com/2022/07/27/ftc-is-suing-meta-to-block-acquisition-of-vr-fitness-app/)
+- [2 Ingenuity-class helicopters will join Mars sample return effort](https://www.space.com/ingenuity-class-helicopters-mars-sample-return/)
 - [Senate passes CHIPS Act to subsidize domestic semiconductor production](https://techcrunch.com/2022/07/27/senate-passes-chips-act-to-subsidize-domestic-semiconductor-production/)
-- [The Oculus Quest 2 is about to get $100 more expensive - get one before the price hike](https://www.space.com/oculus-quest-2-price-increase-august/)
-- [Protestware on the rise: Why developers are sabotaging their own code](https://techcrunch.com/2022/07/27/protestware-code-sabotage/)
-- [&#39;I Am Groot!&#39; Marvel Studios unleashes 1st trailer for &#39;Guardians of the Galaxy&#39; animated spinoff](https://www.space.com/i-am-groot-marvel-disney-plus/)
-- [8 investors discuss fintech’s potential despite the market downturn](https://techcrunch.com/2022/07/27/8-investors-discuss-fintechs-potential-despite-the-market-downturn/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
