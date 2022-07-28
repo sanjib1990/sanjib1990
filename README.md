@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Snapchat launches a spooky AR game for hunting ghosts around you](https://techcrunch.com/2022/07/28/snapchat-launches-a-spooky-ar-game-for-hunting-ghosts-around-you/)
+- [Spotify forks out $295M for Findaway, Podsights, Chartable, and Sonantic, filing reveals](https://techcrunch.com/2022/07/28/spotify-forks-out-295m-for-findaway-podsights-chartable-and-sonantic-filing-reveals/)
+- [Retool raises $45M at a $3.2B valuation to make building custom software as easy as buying off the shelf](https://techcrunch.com/2022/07/28/retool-raises-45m-at-a-3-2b-valuation-to-make-building-custom-software-as-easy-as-buying-off-the-shelf/)
+- [Evabot secures fresh capital to inject AI into corporate gifting](https://techcrunch.com/2022/07/28/evabot-secures-fresh-capital-to-inject-ai-into-corporate-gifting/)
 - [Datacenter electricity demands could curtail London housing development](https://techcrunch.com/2022/07/28/datacenter-electricity-demands-could-curtail-london-housing-development/)
-- [Lot, the big-tech anti-patent-troll group, launches Adapt to tackle inclusion in the world of IP](https://techcrunch.com/2022/07/28/lot-the-big-tech-anti-patent-troll-group-launches-adapt-to-tackle-inclusion-in-the-world-of-ip/)
-- [Spotify’s new personalized playlist will recommend tracks based on what your friends are listening to](https://techcrunch.com/2022/07/28/spotifys-friends-mix-playlist/)
-- [On This Day In Space: July 28, 1851: First Photo of a Total Solar Eclipse](https://www.space.com/39251-on-this-day-in-space.html/)
-- [How to grow a SaaS company efficiently in a recession](https://techcrunch.com/2022/07/28/how-to-grow-a-saas-company-efficiently-in-a-recession/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
