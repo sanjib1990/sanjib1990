@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Orion Nebula&#39;s shell is leaking gas and dust from a newly discovered tear](https://www.space.com/orion-nebula-veil-leaks-gas-from-tear/)
-- [James Webb Space Telescope beats its own record with potential most distant galaxies](https://www.space.com/james-webb-space-telescope-new-most-distant-galaxies/)
-- [Early life on Earth and beyond may have been ocean dwellers](https://www.space.com/early-life-on-earth-rhodopsin-analysis/)
-- [Russia wants to build its own space station, as early as 2028](https://www.space.com/russian-space-station-ross-2028-timeline/)
-- [South African startup Qwili gets $1.2M to scale its app and low-cost NFC-enabled smartphone](https://techcrunch.com/2022/07/28/south-african-startup-qwili-gets-1-2m-to-scale-its-app-and-low-cost-nfc-enabled-smartphone/)
+- [Datacenter electricity demands could curtail London housing development](https://techcrunch.com/2022/07/28/datacenter-electricity-demands-could-curtail-london-housing-development/)
+- [Lot, the big-tech anti-patent-troll group, launches Adapt to tackle inclusion in the world of IP](https://techcrunch.com/2022/07/28/lot-the-big-tech-anti-patent-troll-group-launches-adapt-to-tackle-inclusion-in-the-world-of-ip/)
+- [Spotify’s new personalized playlist will recommend tracks based on what your friends are listening to](https://techcrunch.com/2022/07/28/spotifys-friends-mix-playlist/)
+- [On This Day In Space: July 28, 1851: First Photo of a Total Solar Eclipse](https://www.space.com/39251-on-this-day-in-space.html/)
+- [How to grow a SaaS company efficiently in a recession](https://techcrunch.com/2022/07/28/how-to-grow-a-saas-company-efficiently-in-a-recession/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
