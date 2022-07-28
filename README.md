@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Gmail rolls out its latest Material You redesign and search improvements to all users](https://techcrunch.com/2022/07/28/gmail-rolls-out-its-latest-material-you-redesign-and-search-improvements-to-all-users/)
-- [A gold-rush of NLP startups is about to arrive — here’s why](https://techcrunch.com/2022/07/28/a-gold-rush-of-nlp-startups-is-about-to-arrive-heres-why/)
-- [How did this tiny startup put live, moving, people into a full-blown 3D landscape, instantaneously?](https://techcrunch.com/2022/07/27/how-did-this-tiny-startup-put-live-moving-people-into-a-full-blown-3d-landscape-instantaneously/)
-- [An AI for art: Copyright considerations for artificial intelligence](https://techcrunch.com/2022/07/27/an-ai-for-art-copyright-considerations-for-artificial-intelligence/)
-- [DealCart is focused on price-conscious Pakistani consumers](https://techcrunch.com/2022/07/27/dealcart-is-focused-on-price-conscious-pakistani-consumers/)
+- [Orion Nebula&#39;s shell is leaking gas and dust from a newly discovered tear](https://www.space.com/orion-nebula-veil-leaks-gas-from-tear/)
+- [James Webb Space Telescope beats its own record with potential most distant galaxies](https://www.space.com/james-webb-space-telescope-new-most-distant-galaxies/)
+- [Early life on Earth and beyond may have been ocean dwellers](https://www.space.com/early-life-on-earth-rhodopsin-analysis/)
+- [Russia wants to build its own space station, as early as 2028](https://www.space.com/russian-space-station-ross-2028-timeline/)
+- [South African startup Qwili gets $1.2M to scale its app and low-cost NFC-enabled smartphone](https://techcrunch.com/2022/07/28/south-african-startup-qwili-gets-1-2m-to-scale-its-app-and-low-cost-nfc-enabled-smartphone/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
