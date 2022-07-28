@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Indian government orders Apple, Google to delist popular game BGMI from app stores](https://techcrunch.com/2022/07/28/daily-crunch-indian-government-orders-apple-google-to-delist-popular-game-bgmi-from-app-stores/)
+- [Congress approves International Space Station extension to 2030](https://www.space.com/congress-approves-iss-extension-2030-chips-act/)
+- [Apple’s services revenue growth slows to $19.6B in Q3, reaches 860M paid subscriptions](https://techcrunch.com/2022/07/28/apples-services-revenue-growth-slows-to-19-6b-in-q3-reaches-860m-paid-subscriptions/)
+- [Amazon’s shares rise on earnings beat, despite $2B loss](https://techcrunch.com/2022/07/28/amazons-shares-rise-on-earnings-beat-despite-2b-loss/)
 - [YouTube’s new tool lets creators turn their own videos into Shorts](https://techcrunch.com/2022/07/28/youtubes-new-tool-lets-creators-turn-their-own-videos-into-shorts/)
-- [iPhone revenue up slightly for Q3, as other hardware categories lose steam](https://techcrunch.com/2022/07/28/iphone-revenue-up-slightly-for-q3-as-other-hardware-categories-lose-steam/)
-- [Instagram’s Dual camera feature copies BeReal, but misses the point](https://techcrunch.com/2022/07/28/instagram-dual-camera-feature-copies-bereal-misses-point/)
-- [Career Karma conducts layoffs as tech jobs face a massive stress test](https://techcrunch.com/2022/07/28/career-karma-conducts-layoffs-as-tech-jobs-face-a-massive-stress-test/)
-- [Earth&#39;s crust is dripping &#39;like honey&#39; into its interior under the Andes](https://www.space.com/earth-crust-dripping-under-andes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
