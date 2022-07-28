@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Fundraising in turbulent markets: Why we moved up our Series B](https://techcrunch.com/2022/07/28/fundraising-in-turbulent-markets-why-we-moved-up-our-series-b/)
-- [NASA&#39;s twin Voyager probes are nearly 45 — and facing some hard decisions](https://www.space.com/voyager-spacecraft-power-update-july-2022/)
-- [The July new moon provides dark skies tonight to see Jupiter, Mars and more](https://www.space.com/new-moon-dark-sky-visible-planets-july-2022/)
-- [Smartphone sales drop sharply in China](https://techcrunch.com/2022/07/28/smartphone-sales-drop-sharply-in-china/)
-- [Google and Apple pull BGMI game in India following government order](https://techcrunch.com/2022/07/28/google-bgmi-pubg-india-play-store/)
+- [Google Pixel Buds Pro review](https://techcrunch.com/2022/07/28/google-pixel-buds-pro-review/)
+- [All my apes gone: Legal disputes at the intersection of IP and NFTs](https://techcrunch.com/2022/07/28/all-my-apes-gone-legal-disputes-at-the-intersection-of-ip-and-nfts/)
+- [The amazing eye and insight of NASA space photographer Bill Ingalls](https://www.space.com/bill-ingalls-nasa-photographer/)
+- [Check out the first Disrupt Audience Choice roundtable winners](https://techcrunch.com/2022/07/28/check-out-the-first-disrupt-audience-choice-roundtable-winners/)
+- [Snap’s new creator fund will award independent musicians up to $100,000 per month](https://techcrunch.com/2022/07/28/snaps-new-fund-award-independent-musicians-100000-per-month/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
