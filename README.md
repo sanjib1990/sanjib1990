@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Gmail rolls out its latest Material You redesign and search improvements to all users](https://techcrunch.com/2022/07/28/gmail-rolls-out-its-latest-material-you-redesign-and-search-improvements-to-all-users/)
+- [A gold-rush of NLP startups is about to arrive — here’s why](https://techcrunch.com/2022/07/28/a-gold-rush-of-nlp-startups-is-about-to-arrive-heres-why/)
 - [How did this tiny startup put live, moving, people into a full-blown 3D landscape, instantaneously?](https://techcrunch.com/2022/07/27/how-did-this-tiny-startup-put-live-moving-people-into-a-full-blown-3d-landscape-instantaneously/)
 - [An AI for art: Copyright considerations for artificial intelligence](https://techcrunch.com/2022/07/27/an-ai-for-art-copyright-considerations-for-artificial-intelligence/)
 - [DealCart is focused on price-conscious Pakistani consumers](https://techcrunch.com/2022/07/27/dealcart-is-focused-on-price-conscious-pakistani-consumers/)
-- [Pony.ai forms autonomous truck JV with Sany Heavy Truck in China](https://techcrunch.com/2022/07/27/pony-ai-forms-autonomous-truck-jv-with-sany-heavy-truck-in-china/)
-- [Sequoia backs fintech Dbank in maiden Pakistan investment](https://techcrunch.com/2022/07/27/sequoia-kleiner-perkins-nubank-invest-in-pakistan-fintech-dbank/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
