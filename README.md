@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Strange Mars dunes reveal where the wind blows on the Red Planet](https://www.space.com/mars-blue-dunes-photo-where-wind-blows/)
+- [CHIPS Act passes House on way to Biden signing](https://techcrunch.com/2022/07/28/chips-act-passes-house-on-way-to-biden-signing/)
+- [Securities are in the eye of the beholder](https://techcrunch.com/2022/07/28/securities-are-in-the-eye-of-the-beholder/)
+- [Instagram to walk back full-screen home feed and temporarily reduce recommended posts](https://techcrunch.com/2022/07/28/instagram-to-walk-back-full-screen-home-feed-and-temporarily-reduce-recommended-posts/)
 - [The Exploration Company is developing a brand new reusable orbital spacecraft](https://techcrunch.com/2022/07/28/the-exploration-company-is-developing-a-brand-new-reusable-orbital-spacecraft/)
-- [The moon&#39;s strange warm pits may be the most pleasant place for astronauts](https://www.space.com/moon-exploration-lunar-pits-stably-temperate/)
-- [Incredible Health CEO talks maintaining company culture through incredible growth](https://techcrunch.com/2022/07/28/incredible-health-found-bonus/)
-- [Venture investors shrug at proposed changes to US carried interest taxation](https://techcrunch.com/2022/07/28/venture-investors-shrug-at-proposed-changes-to-us-carried-interest-taxation/)
-- [Social subscription Snapchat+ is already faring better than Twitter Blue](https://techcrunch.com/2022/07/28/social-subscription-snapchat-is-already-faring-better-than-twitter-blue/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
