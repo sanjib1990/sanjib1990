@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pony.ai forms autonomous truck JV with Sany Heavy Truck in China](https://techcrunch.com/2022/07/27/pony-ai-forms-autonomous-truck-jv-with-sany-heavy-truck-in-china/)
 - [Sequoia backs fintech Dbank in maiden Pakistan investment](https://techcrunch.com/2022/07/27/sequoia-kleiner-perkins-nubank-invest-in-pakistan-fintech-dbank/)
 - [The outlook is getting more complicated for Meta’s virtual reality dreams](https://techcrunch.com/2022/07/27/the-outlook-is-getting-more-complicated-for-metas-virtual-reality-dreams/)
 - [Ford posts Q2 profit, expects to produce 14,000 EVs this month](https://techcrunch.com/2022/07/27/ford-posts-q2-profit-expects-to-produce-14000-evs-this-month/)
 - [If you think Instagram is bad now, you won’t like Zuckerberg’s plans](https://techcrunch.com/2022/07/27/instagram-feed-reels-tiktok-ai-mark-zuckerberg/)
-- [Russia will stay in ISS program at least until 2028: report](https://www.space.com/russia-stay-international-space-station-2028/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
