@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Instagram will survey US users about race to assess if it is ‘fair and equitable’](https://techcrunch.com/2022/07/28/instagram-race-survey/)
-- [Why is gravity so weak? The answer may lie in the very nature of space-time](https://www.space.com/why-is-gravity-so-weak/)
-- [Interacting gaming company Immersive Gamebox partners with Netflix to launch ‘Squid Game’ experience](https://techcrunch.com/2022/07/28/interacting-gaming-company-immersive-gamebox-partners-with-netflix-to-launch-squid-game-experience/)
-- [Best telescopes 2022: Top picks for viewing planets, galaxies, stars and more](https://www.space.com/15693-telescopes-beginners-telescope-reviews-buying-guide.html/)
-- [Google Pixel Buds Pro review](https://techcrunch.com/2022/07/28/google-pixel-buds-pro-review/)
+- [The Exploration Company is developing a brand new reusable orbital spacecraft](https://techcrunch.com/2022/07/28/the-exploration-company-is-developing-a-brand-new-reusable-orbital-spacecraft/)
+- [The moon&#39;s strange warm pits may be the most pleasant place for astronauts](https://www.space.com/moon-exploration-lunar-pits-stably-temperate/)
+- [Incredible Health CEO talks maintaining company culture through incredible growth](https://techcrunch.com/2022/07/28/incredible-health-found-bonus/)
+- [Venture investors shrug at proposed changes to US carried interest taxation](https://techcrunch.com/2022/07/28/venture-investors-shrug-at-proposed-changes-to-us-carried-interest-taxation/)
+- [Social subscription Snapchat+ is already faring better than Twitter Blue](https://techcrunch.com/2022/07/28/social-subscription-snapchat-is-already-faring-better-than-twitter-blue/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
