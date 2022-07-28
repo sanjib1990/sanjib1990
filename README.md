@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Snapchat launches a spooky AR game for hunting ghosts around you](https://techcrunch.com/2022/07/28/snapchat-launches-a-spooky-ar-game-for-hunting-ghosts-around-you/)
-- [Spotify forks out $295M for Findaway, Podsights, Chartable, and Sonantic, filing reveals](https://techcrunch.com/2022/07/28/spotify-forks-out-295m-for-findaway-podsights-chartable-and-sonantic-filing-reveals/)
-- [Retool raises $45M at a $3.2B valuation to make building custom software as easy as buying off the shelf](https://techcrunch.com/2022/07/28/retool-raises-45m-at-a-3-2b-valuation-to-make-building-custom-software-as-easy-as-buying-off-the-shelf/)
-- [Evabot secures fresh capital to inject AI into corporate gifting](https://techcrunch.com/2022/07/28/evabot-secures-fresh-capital-to-inject-ai-into-corporate-gifting/)
-- [Datacenter electricity demands could curtail London housing development](https://techcrunch.com/2022/07/28/datacenter-electricity-demands-could-curtail-london-housing-development/)
+- [Peacock’s paid subscribers stayed flat at 13 million, losses widen to $467 million](https://techcrunch.com/2022/07/28/peacocks-paid-subscribers-stayed-flat-at-13-million-losses-widen-to-467-million/)
+- [48 hours left to save up to $1,300 on Disrupt passes](https://techcrunch.com/2022/07/28/48-hours-left-to-save-up-to-1300-on-disrupt-passes/)
+- [Fly.io wants to change the way companies deploy apps at the edge](https://techcrunch.com/2022/07/28/fly-io-wants-to-change-the-way-companies-deploy-apps-at-the-edge/)
+- [Microsoft links Windows zero-day hacks to Austrian spyware maker](https://techcrunch.com/2022/07/28/dsrif-spyware-windows-zero-day/)
+- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
