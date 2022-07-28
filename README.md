@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Instagram will survey US users about race to assess if it is ‘fair and equitable’](https://techcrunch.com/2022/07/28/instagram-race-survey/)
+- [Why is gravity so weak? The answer may lie in the very nature of space-time](https://www.space.com/why-is-gravity-so-weak/)
+- [Interacting gaming company Immersive Gamebox partners with Netflix to launch ‘Squid Game’ experience](https://techcrunch.com/2022/07/28/interacting-gaming-company-immersive-gamebox-partners-with-netflix-to-launch-squid-game-experience/)
+- [Best telescopes 2022: Top picks for viewing planets, galaxies, stars and more](https://www.space.com/15693-telescopes-beginners-telescope-reviews-buying-guide.html/)
 - [Google Pixel Buds Pro review](https://techcrunch.com/2022/07/28/google-pixel-buds-pro-review/)
-- [All my apes gone: Legal disputes at the intersection of IP and NFTs](https://techcrunch.com/2022/07/28/all-my-apes-gone-legal-disputes-at-the-intersection-of-ip-and-nfts/)
-- [The amazing eye and insight of NASA space photographer Bill Ingalls](https://www.space.com/bill-ingalls-nasa-photographer/)
-- [Check out the first Disrupt Audience Choice roundtable winners](https://techcrunch.com/2022/07/28/check-out-the-first-disrupt-audience-choice-roundtable-winners/)
-- [Snap’s new creator fund will award independent musicians up to $100,000 per month](https://techcrunch.com/2022/07/28/snaps-new-fund-award-independent-musicians-100000-per-month/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
