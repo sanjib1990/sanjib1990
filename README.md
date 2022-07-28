@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Backbone’s mobile gaming controller gets an official PlayStation edition](https://techcrunch.com/2022/07/28/backbones-mobile-gaming-controller-gets-an-official-playstation-edition/)
-- [Google announces new Play Store policies around intrusive ads, impersonation and more](https://techcrunch.com/2022/07/28/google-announces-new-play-store-policies-around-intrusive-ads-impersonation-and-more/)
-- [With $40M in new funding, Frontegg looks to expand its B2B user management service](https://techcrunch.com/2022/07/28/with-40m-in-new-funding-frontegg-looks-to-expand-its-b2b-user-management-service/)
-- [Sports community platform Stadium Live raises $10M to expand its digital world for Gen Z](https://techcrunch.com/2022/07/28/sports-community-platform-stadium-live-raises-10m-to-expand-its-digital-world-for-gen-z/)
-- [The advertising slowdown is dinging Big Tech](https://techcrunch.com/2022/07/28/the-advertising-slowdown-is-dinging-big-tech/)
+- [Fundraising in turbulent markets: Why we moved up our Series B](https://techcrunch.com/2022/07/28/fundraising-in-turbulent-markets-why-we-moved-up-our-series-b/)
+- [NASA&#39;s twin Voyager probes are nearly 45 — and facing some hard decisions](https://www.space.com/voyager-spacecraft-power-update-july-2022/)
+- [The July new moon provides dark skies tonight to see Jupiter, Mars and more](https://www.space.com/new-moon-dark-sky-visible-planets-july-2022/)
+- [Smartphone sales drop sharply in China](https://techcrunch.com/2022/07/28/smartphone-sales-drop-sharply-in-china/)
+- [Google and Apple pull BGMI game in India following government order](https://techcrunch.com/2022/07/28/google-bgmi-pubg-india-play-store/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
