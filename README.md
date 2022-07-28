@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Peacock’s paid subscribers stayed flat at 13 million, losses widen to $467 million](https://techcrunch.com/2022/07/28/peacocks-paid-subscribers-stayed-flat-at-13-million-losses-widen-to-467-million/)
-- [48 hours left to save up to $1,300 on Disrupt passes](https://techcrunch.com/2022/07/28/48-hours-left-to-save-up-to-1300-on-disrupt-passes/)
-- [Fly.io wants to change the way companies deploy apps at the edge](https://techcrunch.com/2022/07/28/fly-io-wants-to-change-the-way-companies-deploy-apps-at-the-edge/)
-- [Microsoft links Windows zero-day hacks to Austrian spyware maker](https://techcrunch.com/2022/07/28/dsrif-spyware-windows-zero-day/)
-- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates/)
+- [Backbone’s mobile gaming controller gets an official PlayStation edition](https://techcrunch.com/2022/07/28/backbones-mobile-gaming-controller-gets-an-official-playstation-edition/)
+- [Google announces new Play Store policies around intrusive ads, impersonation and more](https://techcrunch.com/2022/07/28/google-announces-new-play-store-policies-around-intrusive-ads-impersonation-and-more/)
+- [With $40M in new funding, Frontegg looks to expand its B2B user management service](https://techcrunch.com/2022/07/28/with-40m-in-new-funding-frontegg-looks-to-expand-its-b2b-user-management-service/)
+- [Sports community platform Stadium Live raises $10M to expand its digital world for Gen Z](https://techcrunch.com/2022/07/28/sports-community-platform-stadium-live-raises-10m-to-expand-its-digital-world-for-gen-z/)
+- [The advertising slowdown is dinging Big Tech](https://techcrunch.com/2022/07/28/the-advertising-slowdown-is-dinging-big-tech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
