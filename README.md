@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How did this tiny startup put live, moving, people into a full-blown 3D landscape, instantaneously?](https://techcrunch.com/2022/07/27/how-did-this-tiny-startup-put-live-moving-people-into-a-full-blown-3d-landscape-instantaneously/)
+- [An AI for art: Copyright considerations for artificial intelligence](https://techcrunch.com/2022/07/27/an-ai-for-art-copyright-considerations-for-artificial-intelligence/)
 - [DealCart is focused on price-conscious Pakistani consumers](https://techcrunch.com/2022/07/27/dealcart-is-focused-on-price-conscious-pakistani-consumers/)
 - [Pony.ai forms autonomous truck JV with Sany Heavy Truck in China](https://techcrunch.com/2022/07/27/pony-ai-forms-autonomous-truck-jv-with-sany-heavy-truck-in-china/)
 - [Sequoia backs fintech Dbank in maiden Pakistan investment](https://techcrunch.com/2022/07/27/sequoia-kleiner-perkins-nubank-invest-in-pakistan-fintech-dbank/)
-- [The outlook is getting more complicated for Meta’s virtual reality dreams](https://techcrunch.com/2022/07/27/the-outlook-is-getting-more-complicated-for-metas-virtual-reality-dreams/)
-- [Ford posts Q2 profit, expects to produce 14,000 EVs this month](https://techcrunch.com/2022/07/27/ford-posts-q2-profit-expects-to-produce-14000-evs-this-month/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
