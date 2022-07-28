@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Strange Mars dunes reveal where the wind blows on the Red Planet](https://www.space.com/mars-blue-dunes-photo-where-wind-blows/)
-- [CHIPS Act passes House on way to Biden signing](https://techcrunch.com/2022/07/28/chips-act-passes-house-on-way-to-biden-signing/)
-- [Securities are in the eye of the beholder](https://techcrunch.com/2022/07/28/securities-are-in-the-eye-of-the-beholder/)
-- [Instagram to walk back full-screen home feed and temporarily reduce recommended posts](https://techcrunch.com/2022/07/28/instagram-to-walk-back-full-screen-home-feed-and-temporarily-reduce-recommended-posts/)
-- [The Exploration Company is developing a brand new reusable orbital spacecraft](https://techcrunch.com/2022/07/28/the-exploration-company-is-developing-a-brand-new-reusable-orbital-spacecraft/)
+- [YouTube’s new tool lets creators turn their own videos into Shorts](https://techcrunch.com/2022/07/28/youtubes-new-tool-lets-creators-turn-their-own-videos-into-shorts/)
+- [iPhone revenue up slightly for Q3, as other hardware categories lose steam](https://techcrunch.com/2022/07/28/iphone-revenue-up-slightly-for-q3-as-other-hardware-categories-lose-steam/)
+- [Instagram’s Dual camera feature copies BeReal, but misses the point](https://techcrunch.com/2022/07/28/instagram-dual-camera-feature-copies-bereal-misses-point/)
+- [Career Karma conducts layoffs as tech jobs face a massive stress test](https://techcrunch.com/2022/07/28/career-karma-conducts-layoffs-as-tech-jobs-face-a-massive-stress-test/)
+- [Earth&#39;s crust is dripping &#39;like honey&#39; into its interior under the Andes](https://www.space.com/earth-crust-dripping-under-andes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
