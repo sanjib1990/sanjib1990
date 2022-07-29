@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Polymath Robotics launches to bring plug-and-play autonomy software to any industrial vehicle](https://techcrunch.com/2022/07/29/polymath-robotics-launches-to-bring-plug-and-play-autonomy-software-to-any-industrial-vehicle/)
-- [Global smartphone shipments hit lowest point since pandemic start](https://techcrunch.com/2022/07/29/global-smartphone-shipments-hit-lowest-point-since-pandemic-start/)
-- [Twitter and Elon Musk trial confirmed for October 17](https://techcrunch.com/2022/07/29/twitter-and-elon-musk-trial-will-start-on-october-17/)
-- [24 hours left to save $1,300 on early-bird passes to Disrupt](https://techcrunch.com/2022/07/29/24-hours-left-to-save-1300-on-early-bird-passes-to-disrupt/)
-- [Crypto and securities, back of the postcard version](https://techcrunch.com/2022/07/29/crypto-and-securities-coinbase-saga-continues/)
+- [Will Volkswagen’s new CEO hamstring its EV push?](https://techcrunch.com/2022/07/29/will-volkswagens-new-ceo-hamstring-its-ev-push/)
+- [Kompliant secures $14M to help companies tackle financial compliance challenges](https://techcrunch.com/2022/07/29/2361759/)
+- [HBO Max and Hulu will share custody of Emmy-nominated series ‘Abbott Elementary’](https://techcrunch.com/2022/07/29/hbo-max-and-hulu-will-share-custody-of-emmy-nominated-series-abbott-elementary/)
+- [How the problem of hiring healthcare staff has become a fertile ground for startups](https://techcrunch.com/2022/07/29/how-the-problem-of-hiring-healthcare-staff-has-become-a-fertile-ground-for-startups/)
+- [Zedcrest launches $10 million ’emergency fund’ for African startups](https://techcrunch.com/2022/07/29/zedcrest-launches-10-million-emergency-fund-for-african-startups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
