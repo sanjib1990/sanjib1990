@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter is increasing the price of Twitter Blue from $2.99 to $4.99 per month](https://techcrunch.com/2022/07/28/twitter-is-increasing-the-price-of-twitter-blue-from-2-99-to-4-99-per-month/)
 - [Roku points finger at advertising slowdown for missing the mark on quarterly results](https://techcrunch.com/2022/07/28/roku-points-finger-at-advertising-slowdown-for-missing-the-mark-on-quarterly-results/)
 - [Daily Crunch: Indian government orders Apple, Google to delist popular game BGMI from app stores](https://techcrunch.com/2022/07/28/daily-crunch-indian-government-orders-apple-google-to-delist-popular-game-bgmi-from-app-stores/)
 - [Congress approves International Space Station extension to 2030](https://www.space.com/congress-approves-iss-extension-2030-chips-act/)
 - [Apple’s services revenue growth slows to $19.6B in Q3, reaches 860M paid subscriptions](https://techcrunch.com/2022/07/28/apples-services-revenue-growth-slows-to-19-6b-in-q3-reaches-860m-paid-subscriptions/)
-- [Amazon’s shares rise on earnings beat, despite $2B loss](https://techcrunch.com/2022/07/28/amazons-shares-rise-on-earnings-beat-despite-2b-loss/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
