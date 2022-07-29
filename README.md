@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TechCrunch+ roundup: SaaS burn multiples, 8 fintech VCs spill the tea, all my apes gone](https://techcrunch.com/2022/07/29/techcrunch-roundup-saas-burn-multiples-8-fintech-vcs-spill-the-tea-all-my-apes-gone/)
-- [Clearco cuts 25% of staff, considers ‘strategic options’ for international operations](https://techcrunch.com/2022/07/29/clearco-cuts-25-of-staff-considers-strategic-options-for-international-operations/)
-- [Application deadline extended for the Startup Battlefield 200](https://techcrunch.com/2022/07/29/application-deadline-extended-for-the-startup-battlefield-200/)
-- [A startup is charging $1.99 for strings of text to feed to DALL-E 2](https://techcrunch.com/2022/07/29/a-startup-is-charging-1-99-for-strings-of-text-to-feed-to-dall-e-2/)
-- [Will Volkswagen’s new CEO hamstring its EV push?](https://techcrunch.com/2022/07/29/will-volkswagens-new-ceo-hamstring-its-ev-push/)
+- [After dominating the short video market, TikTok may be considering a music service](https://techcrunch.com/2022/07/29/after-dominating-the-short-video-market-tiktok-may-be-considering-a-music-service/)
+- [Lemonade closes on acquisition of insurtech Metromile, promptly lays off about 20% of its staff](https://techcrunch.com/2022/07/29/lemonade-closes-on-acquisition-of-insurtech-metromile-promptly-lays-off-about-20-of-its-staff/)
+- [Amazon shuts down its personal file storage service to focus on photos](https://techcrunch.com/2022/07/29/amazon-shuts-down-its-personal-file-storage-service-to-focus-on-photos/)
+- [Facebook risks ban in Kenya for failing to stop hate speech](https://techcrunch.com/2022/07/29/facebook-risks-ban-in-kenya-for-failing-to-stop-hate-speech/)
+- [Beyond volatility: How semiconductor companies can thrive with a focused sector strategy](https://techcrunch.com/2022/07/29/beyond-volatility-how-semiconductor-companies-can-thrive-with-a-focused-sector-strategy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
