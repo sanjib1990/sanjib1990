@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [24 hours left to save $1,300 on early-bird passes to Disrupt](https://techcrunch.com/2022/07/29/24-hours-left-to-save-1300-on-early-bird-passes-to-disrupt/)
+- [Crypto and securities, back of the postcard version](https://techcrunch.com/2022/07/29/crypto-and-securities-coinbase-saga-continues/)
+- [The passage of the CHIPS Act could launch another US startup renaissance](https://techcrunch.com/2022/07/29/chips-act/)
+- [Twitter’s new tests allows you to post images, videos, and GIFs in one tweet](https://techcrunch.com/2022/07/29/twitters-new-tests-allows-you-to-post-images-videos-and-gifs-in-one-tweet/)
 - [On This Day In Space: July 29, 1982: Salyut 6 space station falls to Earth](https://www.space.com/39251-on-this-day-in-space.html/)
-- [US-based fintech Umba buys majority stake in Kenya’s Daraja microfinance bank](https://techcrunch.com/2022/07/29/us-based-fintech-umba-buys-majority-stake-in-kenyas-daraja-microfinance-bank/)
-- [Europe&#39;s new Venus probe will have to survive months-long scorching &#39;aerobrake&#39; procedure](https://www.space.com/europe-envision-mission-venus-aerobraking/)
-- [New clues emerge about runaway star Zeta Ophiuchi&#39;s violent past](https://www.space.com/zeta-ophiuchi-runaway-star-new-clues/)
-- [NASA&#39;s epic Artemis 1 moon mission on a Space Launch System megarocket is 1 month away](https://www.space.com/artemis-1-moon-mission-launch-one-month-away/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
