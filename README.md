@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Equal Ventures has a new pair of funds, filings show](https://techcrunch.com/2022/07/29/equal-ventures-has-a-new-pair-of-funds-filings-show/)
+- [When and where will China&#39;s big rocket body fall to Earth this weekend?](https://www.space.com/chinese-rocket-space-debris-fall-when-where/)
+- [Build a solid deck for your quarterly board meetings](https://techcrunch.com/2022/07/29/build-a-solid-deck-for-your-quarterly-board-meetings/)
 - [After dominating the short video market, TikTok may be considering a music service](https://techcrunch.com/2022/07/29/after-dominating-the-short-video-market-tiktok-may-be-considering-a-music-service/)
 - [Lemonade closes on acquisition of insurtech Metromile, promptly lays off about 20% of its staff](https://techcrunch.com/2022/07/29/lemonade-closes-on-acquisition-of-insurtech-metromile-promptly-lays-off-about-20-of-its-staff/)
-- [Amazon shuts down its personal file storage service to focus on photos](https://techcrunch.com/2022/07/29/amazon-shuts-down-its-personal-file-storage-service-to-focus-on-photos/)
-- [Facebook risks ban in Kenya for failing to stop hate speech](https://techcrunch.com/2022/07/29/facebook-risks-ban-in-kenya-for-failing-to-stop-hate-speech/)
-- [Beyond volatility: How semiconductor companies can thrive with a focused sector strategy](https://techcrunch.com/2022/07/29/beyond-volatility-how-semiconductor-companies-can-thrive-with-a-focused-sector-strategy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
