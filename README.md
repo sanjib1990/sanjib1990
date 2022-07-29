@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Swvl’s $100m acquisition of Smart Bus startup Zeelo is off, amid tech stocks slump](https://techcrunch.com/2022/07/29/swvls-100m-acquisition-of-smart-bus-startup-zeelo-is-off-amid-tech-stocks-slump/)
+- [Two skyscraper-size asteroids are barreling toward Earth this weekend](https://www.space.com/near-earth-asteroids-july-2022/)
 - [Daily Crunch: Mac sales down 10%, iPhones up 3% — Breaking down Apple’s quarterly numbers](https://techcrunch.com/2022/07/29/daily-crunch-breaking-down-apples-quarterly-numbers/)
 - [Kenya directs all banks to stop dealing with Chipper Cash, Flutterwave, saying they are unlicensed](https://techcrunch.com/2022/07/29/kenya-directs-all-banks-to-stop-dealing-with-chipper-cash-flutterwave-saying-they-are-unlicensed/)
 - [Astronomers witness the rare break up of a star couple](https://www.space.com/binary-star-relationship-break-up/)
-- [New 3D cosmic map reveals 1 million previously hidden galaxies](https://www.space.com/map-galaxies-hidden-by-magellanic-clouds/)
-- [Rocket launches can create shiny clouds far from poles, study shows](https://www.space.com/rocket-launches-notilucent-clouds-mid-latitudes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
