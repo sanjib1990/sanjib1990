@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [US-based fintech Umba buys majority stake in Kenya’s Daraja microfinance bank](https://techcrunch.com/2022/07/29/us-based-fintech-umba-buys-majority-stake-in-kenyas-daraja-microfinance-bank/)
 - [Europe&#39;s new Venus probe will have to survive months-long scorching &#39;aerobrake&#39; procedure](https://www.space.com/europe-envision-mission-venus-aerobraking/)
 - [New clues emerge about runaway star Zeta Ophiuchi&#39;s violent past](https://www.space.com/zeta-ophiuchi-runaway-star-new-clues/)
 - [1 month away! NASA gearing up for launch of epic Artemis 1 moon mission](https://www.space.com/artemis-1-moon-mission-launch-one-month-away/)
 - [International Space Station has &#39;peculiar odor,&#39; astronaut says](https://www.space.com/international-space-station-smells-european-astronaut/)
-- [Twitter is increasing the price of Twitter Blue from $2.99 to $4.99 per month](https://techcrunch.com/2022/07/28/twitter-is-increasing-the-price-of-twitter-blue-from-2-99-to-4-99-per-month/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
