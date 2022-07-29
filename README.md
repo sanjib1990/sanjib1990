@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [On This Day In Space: July 29, 1982: Salyut 6 space station falls to Earth](https://www.space.com/39251-on-this-day-in-space.html/)
 - [US-based fintech Umba buys majority stake in Kenya’s Daraja microfinance bank](https://techcrunch.com/2022/07/29/us-based-fintech-umba-buys-majority-stake-in-kenyas-daraja-microfinance-bank/)
 - [Europe&#39;s new Venus probe will have to survive months-long scorching &#39;aerobrake&#39; procedure](https://www.space.com/europe-envision-mission-venus-aerobraking/)
 - [New clues emerge about runaway star Zeta Ophiuchi&#39;s violent past](https://www.space.com/zeta-ophiuchi-runaway-star-new-clues/)
-- [1 month away! NASA gearing up for launch of epic Artemis 1 moon mission](https://www.space.com/artemis-1-moon-mission-launch-one-month-away/)
-- [International Space Station has &#39;peculiar odor,&#39; astronaut says](https://www.space.com/international-space-station-smells-european-astronaut/)
+- [NASA&#39;s epic Artemis 1 moon mission on a Space Launch System megarocket is 1 month away](https://www.space.com/artemis-1-moon-mission-launch-one-month-away/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
