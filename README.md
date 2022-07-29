@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Bezos&#39; Blue Origin targeting Aug. 4 for next space tourist flight](https://www.space.com/blue-origin-august-4-space-tourism-mission/)
-- [The biggest story from Big Tech earnings is the sheer growth power of public cloud](https://techcrunch.com/2022/07/29/the-biggest-story-from-big-tech-earnings-is-the-sheer-growth-power-of-public-cloud/)
-- [Here’s what Swarm has been up to in the 10 months since being acquired by SpaceX](https://techcrunch.com/2022/07/29/heres-what-swarm-has-been-up-to-in-the-10-months-since-being-acquired-by-spacex/)
-- [SpaceX&#39;s astronaut missions for NASA: Live updates](https://www.space.com/nasa-spacex-crew-launches-live-updates/)
-- [Climate-focused VC stays scorching as Buoyant Ventures targets $100M fund](https://techcrunch.com/2022/07/29/climate-vc-trend-buoyant-ventures-targets-100m-fund/)
+- [Daily Crunch: Mac sales down 10%, iPhones up 3% — Breaking down Apple’s quarterly numbers](https://techcrunch.com/2022/07/29/daily-crunch-breaking-down-apples-quarterly-numbers/)
+- [Kenya directs all banks to stop dealing with Chipper Cash, Flutterwave, saying they are unlicensed](https://techcrunch.com/2022/07/29/kenya-directs-all-banks-to-stop-dealing-with-chipper-cash-flutterwave-saying-they-are-unlicensed/)
+- [Astronomers witness the rare break up of a star couple](https://www.space.com/binary-star-relationship-break-up/)
+- [New 3D cosmic map reveals 1 million previously hidden galaxies](https://www.space.com/map-galaxies-hidden-by-magellanic-clouds/)
+- [Rocket launches can create shiny clouds far from poles, study shows](https://www.space.com/rocket-launches-notilucent-clouds-mid-latitudes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
