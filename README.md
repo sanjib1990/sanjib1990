@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Equal Ventures has a new pair of funds, filings show](https://techcrunch.com/2022/07/29/equal-ventures-has-a-new-pair-of-funds-filings-show/)
-- [When and where will China&#39;s big rocket body fall to Earth this weekend?](https://www.space.com/chinese-rocket-space-debris-fall-when-where/)
-- [Build a solid deck for your quarterly board meetings](https://techcrunch.com/2022/07/29/build-a-solid-deck-for-your-quarterly-board-meetings/)
-- [After dominating the short video market, TikTok may be considering a music service](https://techcrunch.com/2022/07/29/after-dominating-the-short-video-market-tiktok-may-be-considering-a-music-service/)
-- [Lemonade closes on acquisition of insurtech Metromile, promptly lays off about 20% of its staff](https://techcrunch.com/2022/07/29/lemonade-closes-on-acquisition-of-insurtech-metromile-promptly-lays-off-about-20-of-its-staff/)
+- [Climate-focused VC stays scorching as Buoyant Ventures targets $100M fund](https://techcrunch.com/2022/07/29/climate-vc-trend-buoyant-ventures-targets-100m-fund/)
+- [What is a parsec? Definition and calculation](https://www.space.com/parsec/)
+- [What do Big Tech earnings tell us about the health of consumer demand?](https://techcrunch.com/2022/07/29/what-do-big-tech-earnings-tell-us-about-consumer-demand-health/)
+- [A triple meteoric spectacle is set to grace our skies this weekend](https://www.space.com/a-triple-meteoric-spectacle-is-set-to-grace-our-skies-this-weekend/)
+- [Galactic &#39;gem&#39; sparkles in dazzling new Hubble image aided by citizen scientists](https://www.space.com/galaxy-merger-orion-hubble-citizen-science/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
