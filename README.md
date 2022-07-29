@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch+ roundup: SaaS burn multiples, 8 fintech VCs spill the tea, all my apes gone](https://techcrunch.com/2022/07/29/techcrunch-roundup-saas-burn-multiples-8-fintech-vcs-spill-the-tea-all-my-apes-gone/)
+- [Clearco cuts 25% of staff, considers ‘strategic options’ for international operations](https://techcrunch.com/2022/07/29/clearco-cuts-25-of-staff-considers-strategic-options-for-international-operations/)
+- [Application deadline extended for the Startup Battlefield 200](https://techcrunch.com/2022/07/29/application-deadline-extended-for-the-startup-battlefield-200/)
+- [A startup is charging $1.99 for strings of text to feed to DALL-E 2](https://techcrunch.com/2022/07/29/a-startup-is-charging-1-99-for-strings-of-text-to-feed-to-dall-e-2/)
 - [Will Volkswagen’s new CEO hamstring its EV push?](https://techcrunch.com/2022/07/29/will-volkswagens-new-ceo-hamstring-its-ev-push/)
-- [Kompliant secures $14M to help companies tackle financial compliance challenges](https://techcrunch.com/2022/07/29/2361759/)
-- [HBO Max and Hulu will share custody of Emmy-nominated series ‘Abbott Elementary’](https://techcrunch.com/2022/07/29/hbo-max-and-hulu-will-share-custody-of-emmy-nominated-series-abbott-elementary/)
-- [How the problem of hiring healthcare staff has become a fertile ground for startups](https://techcrunch.com/2022/07/29/how-the-problem-of-hiring-healthcare-staff-has-become-a-fertile-ground-for-startups/)
-- [Zedcrest launches $10 million ’emergency fund’ for African startups](https://techcrunch.com/2022/07/29/zedcrest-launches-10-million-emergency-fund-for-african-startups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
