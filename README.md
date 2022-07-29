@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Polymath Robotics launches to bring plug-and-play autonomy software to any industrial vehicle](https://techcrunch.com/2022/07/29/polymath-robotics-launches-to-bring-plug-and-play-autonomy-software-to-any-industrial-vehicle/)
+- [Global smartphone shipments hit lowest point since pandemic start](https://techcrunch.com/2022/07/29/global-smartphone-shipments-hit-lowest-point-since-pandemic-start/)
+- [Twitter and Elon Musk trial confirmed for October 17](https://techcrunch.com/2022/07/29/twitter-and-elon-musk-trial-will-start-on-october-17/)
 - [24 hours left to save $1,300 on early-bird passes to Disrupt](https://techcrunch.com/2022/07/29/24-hours-left-to-save-1300-on-early-bird-passes-to-disrupt/)
 - [Crypto and securities, back of the postcard version](https://techcrunch.com/2022/07/29/crypto-and-securities-coinbase-saga-continues/)
-- [The passage of the CHIPS Act could launch another US startup renaissance](https://techcrunch.com/2022/07/29/chips-act/)
-- [Twitter’s new tests allows you to post images, videos, and GIFs in one tweet](https://techcrunch.com/2022/07/29/twitters-new-tests-allows-you-to-post-images-videos-and-gifs-in-one-tweet/)
-- [On This Day In Space: July 29, 1982: Salyut 6 space station falls to Earth](https://www.space.com/39251-on-this-day-in-space.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
