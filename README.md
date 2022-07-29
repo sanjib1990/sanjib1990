@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jeff Bezos&#39; Blue Origin targeting Aug. 4 for next space tourist flight](https://www.space.com/blue-origin-august-4-space-tourism-mission/)
+- [The biggest story from Big Tech earnings is the sheer growth power of public cloud](https://techcrunch.com/2022/07/29/the-biggest-story-from-big-tech-earnings-is-the-sheer-growth-power-of-public-cloud/)
+- [Here’s what Swarm has been up to in the 10 months since being acquired by SpaceX](https://techcrunch.com/2022/07/29/heres-what-swarm-has-been-up-to-in-the-10-months-since-being-acquired-by-spacex/)
+- [SpaceX&#39;s astronaut missions for NASA: Live updates](https://www.space.com/nasa-spacex-crew-launches-live-updates/)
 - [Climate-focused VC stays scorching as Buoyant Ventures targets $100M fund](https://techcrunch.com/2022/07/29/climate-vc-trend-buoyant-ventures-targets-100m-fund/)
-- [What is a parsec? Definition and calculation](https://www.space.com/parsec/)
-- [What do Big Tech earnings tell us about the health of consumer demand?](https://techcrunch.com/2022/07/29/what-do-big-tech-earnings-tell-us-about-consumer-demand-health/)
-- [A triple meteoric spectacle is set to grace our skies this weekend](https://www.space.com/a-triple-meteoric-spectacle-is-set-to-grace-our-skies-this-weekend/)
-- [Galactic &#39;gem&#39; sparkles in dazzling new Hubble image aided by citizen scientists](https://www.space.com/galaxy-merger-orion-hubble-citizen-science/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
