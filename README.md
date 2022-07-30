@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [25-ton Chinese rocket debris crashes to Earth over Indian Ocean](https://www.space.com/chinese-long-march-5b-rocket-space-debris-crash/)
+- [Can VCs game crypto out of this downturn?](https://techcrunch.com/2022/07/30/can-vcs-game-crypto-out-of-this-downturn/)
+- [This Week in Apps: Instagram backlash, TikTok gaming, Snapchat+ makes millions](https://techcrunch.com/2022/07/30/this-week-in-apps-instagram-backlash-tiktok-gaming-snapchat-makes-millions/)
 - [The bootstrapped are coming, the bootstrapped are coming](https://techcrunch.com/2022/07/30/the-bootstrapped-are-coming-the-bootstrapped-are-coming/)
 - [It really does take a village to keep you secure in the cloud](https://techcrunch.com/2022/07/30/it-really-does-take-a-village-to-keep-you-secure-in-the-cloud/)
-- [Stocks with friends](https://techcrunch.com/2022/07/30/stocks-with-friends/)
-- [Gaming vets promise to make blockchain games fun and sustainable](https://techcrunch.com/2022/07/30/gaming-veteran-gamefi/)
-- [NASA&#39;s &#39;Moonikin&#39; mannequin boards Orion spacecraft for Artemis 1 moon mission](https://www.space.com/nasa-moonikin-artemis-1-mannequin-on-orion-capsule/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
