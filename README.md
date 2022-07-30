@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A 25-ton Chinese rocket booster will crash to Earth today. What&#39;s the risk?](https://www.space.com/chinese-rocket-booster-third-uncontrolled-reentry/)
+- [On This Day In Space: July 30, 1610: Galileo sees Saturn&#39;s rings for the first time](https://www.space.com/39251-on-this-day-in-space.html/)
 - [Will once-bootstrapped startups turn to venture during a watershed moment?](https://techcrunch.com/2022/07/30/will-once-bootstrapped-startups-turn-to-venture-during-a-watershed-moment/)
 - [Swvl’s $100M acquisition of Smart Bus startup Zeelo is off, amid tech stocks slump](https://techcrunch.com/2022/07/29/swvls-100m-acquisition-of-smart-bus-startup-zeelo-is-off-amid-tech-stocks-slump/)
 - [Two skyscraper-size asteroids are barreling toward Earth this weekend](https://www.space.com/near-earth-asteroids-july-2022/)
-- [Daily Crunch: Mac sales down 10%, iPhones up 3% — Breaking down Apple’s quarterly numbers](https://techcrunch.com/2022/07/29/daily-crunch-breaking-down-apples-quarterly-numbers/)
-- [Kenya directs all banks to stop dealing with Chipper Cash, Flutterwave, saying they are unlicensed](https://techcrunch.com/2022/07/29/kenya-directs-all-banks-to-stop-dealing-with-chipper-cash-flutterwave-saying-they-are-unlicensed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
