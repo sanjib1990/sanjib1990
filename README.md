@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See China&#39;s huge uncontrolled rocket debris fall from space in fiery skywatcher videos](https://www.space.com/china-rocket-debris-reentry-skywatcher-videos/)
 - [Strange &#39;alien&#39; holes discovered on the ocean floor](https://www.space.com/perfectly-aligned-holes-seafloor/)
 - [Astronaut&#39;s Battlestar Galactica Starbuck cosplay in space thrills sci-fi convention fans &lpar;video&rpar;](https://www.space.com/astronaut-battlestar-galactica-starbuck-cosplay-space-station-video/)
 - [James Webb Space Telescope&#39;s 1st stunning photo is now a dress](https://www.space.com/james-webb-space-telescope-first-image-dress/)
 - [On This Day In Space: July 31, 1971: Apollo astronauts drive on the moon](https://www.space.com/39251-on-this-day-in-space.html/)
-- [Galactic diversity captured in new Hubble telescope photo](https://www.space.com/hubble-multiple-galaxies-photo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
