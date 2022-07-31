@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [US startups seeking funds shouldn’t overlook financing from the government](https://techcrunch.com/2022/07/31/us-startups-seeking-funds-shouldnt-overlook-financing-from-the-government/)
+- [Watch the full moon dance over one year in stunning time-lapse video by photographer](https://www.space.com/full-moon-dance-one-year-video-animation/)
 - [Volunteer at TechCrunch Disrupt and attend all three days for free](https://techcrunch.com/2022/07/31/volunteer-at-techcrunch-disrupt-and-attend-all-three-days-for-free/)
 - [How fintech startups are navigating the extension-round rush](https://techcrunch.com/2022/07/31/how-fintech-startups-are-navigating-the-extension-round-rush/)
 - [In photos: Astronaut Samantha Cristoforetti takes Europe&#39;s historic 1st female spacewalk](https://www.space.com/astronaut-samantha-cristoforetti-europe-1st-female-spacewalk-pictures/)
-- [A tale of two surveys: Fintech VCs change tune on investment landscape](https://techcrunch.com/2022/07/31/fintech-vcs-change-tune-on-investment-landscape/)
-- [See China&#39;s huge uncontrolled rocket debris fall from space in fiery skywatcher videos](https://www.space.com/china-rocket-debris-reentry-skywatcher-videos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
