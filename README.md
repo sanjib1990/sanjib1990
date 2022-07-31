@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bolt Mobility has vanished, leaving e-bikes, unanswered calls behind in several US cities](https://techcrunch.com/2022/07/31/bolt-mobility-has-vanished-leaving-e-bikes-unanswered-calls-behind-in-several-us-cities/)
 - [US startups seeking funds shouldn’t overlook financing from the government](https://techcrunch.com/2022/07/31/us-startups-seeking-funds-shouldnt-overlook-financing-from-the-government/)
 - [Watch the full moon dance over one year in stunning time-lapse video by photographer](https://www.space.com/full-moon-dance-one-year-video-animation/)
 - [Volunteer at TechCrunch Disrupt and attend all three days for free](https://techcrunch.com/2022/07/31/volunteer-at-techcrunch-disrupt-and-attend-all-three-days-for-free/)
 - [How fintech startups are navigating the extension-round rush](https://techcrunch.com/2022/07/31/how-fintech-startups-are-navigating-the-extension-round-rush/)
-- [In photos: Astronaut Samantha Cristoforetti takes Europe&#39;s historic 1st female spacewalk](https://www.space.com/astronaut-samantha-cristoforetti-europe-1st-female-spacewalk-pictures/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
