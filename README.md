@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Volunteer at TechCrunch Disrupt and attend all three days for free](https://techcrunch.com/2022/07/31/volunteer-at-techcrunch-disrupt-and-attend-all-three-days-for-free/)
+- [How fintech startups are navigating the extension-round rush](https://techcrunch.com/2022/07/31/how-fintech-startups-are-navigating-the-extension-round-rush/)
+- [In photos: Astronaut Samantha Cristoforetti takes Europe&#39;s historic 1st female spacewalk](https://www.space.com/astronaut-samantha-cristoforetti-europe-1st-female-spacewalk-pictures/)
+- [A tale of two surveys: Fintech VCs change tune on investment landscape](https://techcrunch.com/2022/07/31/fintech-vcs-change-tune-on-investment-landscape/)
 - [See China&#39;s huge uncontrolled rocket debris fall from space in fiery skywatcher videos](https://www.space.com/china-rocket-debris-reentry-skywatcher-videos/)
-- [Strange &#39;alien&#39; holes discovered on the ocean floor](https://www.space.com/perfectly-aligned-holes-seafloor/)
-- [Astronaut&#39;s Battlestar Galactica Starbuck cosplay in space thrills sci-fi convention fans &lpar;video&rpar;](https://www.space.com/astronaut-battlestar-galactica-starbuck-cosplay-space-station-video/)
-- [James Webb Space Telescope&#39;s 1st stunning photo is now a dress](https://www.space.com/james-webb-space-telescope-first-image-dress/)
-- [On This Day In Space: July 31, 1971: Apollo astronauts drive on the moon](https://www.space.com/39251-on-this-day-in-space.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
