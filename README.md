@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Public tech’s espresso shot is quite literally the Cloud](https://techcrunch.com/2022/08/01/public-tech-earnings-q2-2022-the-cloud-wins/)
+- [FTC slams Opendoor with $62M settlement over false advertising claims](https://techcrunch.com/2022/08/01/ftc-slams-opendoor-with-62m-settlement-over-false-advertising-claims/)
 - [Daily Crunch: Did Bolt Mobility bolt? The startup left equipment and confused customers in its wake](https://techcrunch.com/2022/08/01/daily-crunch-did-bolt-mobility-bolt-the-startup-left-equipment-and-confused-customers-in-its-wake/)
 - [Tech’s riskiest founders are getting a $650 million bet from Redpoint Ventures](https://techcrunch.com/2022/08/01/techs-riskiest-founders-are-getting-a-650-million-bet-from-redpoint-ventures/)
 - [Max Q: Off the bench](https://techcrunch.com/2022/08/01/max-q-off-the-bench/)
-- [Pinterest popped 20% on earnings that weren’t as terrible as expected](https://techcrunch.com/2022/08/01/pinterest-popped-20-on-earnings-that-werent-as-terrible-as-expected/)
-- [SEC spears ‘Crypto Crusaders’ over alleged pyramid scheme](https://techcrunch.com/2022/08/01/crypto-fraud-scam-forsage-ponzi-pyramid-scheme-sec-regulators-crackdown/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
