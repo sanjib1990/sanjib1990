@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pinterest debuts a new app, Shuffles, for collage-making and moodboards](https://techcrunch.com/2022/08/01/pinterest-debuts-a-new-app-shuffles-for-collage-making-and-moodboards/)
+- [What will it take to reignite the NFT market?](https://techcrunch.com/2022/08/01/what-will-it-take-to-reignite-the-nft-market/)
+- [Amazon launches same-day delivery from select retail stores, including PacSun and Diesel](https://techcrunch.com/2022/08/01/amazon-launches-same-day-delivery-from-select-retail-stores-including-pacsun-and-diesel/)
 - [Disrupt early-bird pricing extended to Friday](https://techcrunch.com/2022/08/01/disrupt-early-bird-pricing-extended-to-friday/)
 - [UiPath acquires London-based NLP startup Reinfer](https://techcrunch.com/2022/08/01/uipath-acquires-london-based-nlp-startup-reinfer/)
-- [Ambani’s Reliance Jio top buyer in India’s $19 billion 5G airwaves sale](https://techcrunch.com/2022/08/01/india-5g-auction-ambani-reliance-jio-airtel-vodafone-idea/)
-- [The brightest planets in August&#39;s night sky: How to see them &lpar;and when&rpar;](https://www.space.com/33619-visible-planets-guide.html/)
-- [On This Day In Space: Aug. 1, 1968: Saturn V moon rocket production ends](https://www.space.com/39251-on-this-day-in-space.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
