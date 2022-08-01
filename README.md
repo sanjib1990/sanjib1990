@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Ambani’s Reliance Jio dominates India’s $19 billion 5G auction](https://techcrunch.com/2022/08/01/india-5g-auction-ambani-reliance-jio-airtel-vodafone-idea/)
+- [Disrupt early-bird pricing extended to Friday](https://techcrunch.com/2022/08/01/disrupt-early-bird-pricing-extended-to-friday/)
+- [UiPath acquires London-based NLP startup Reinfer](https://techcrunch.com/2022/08/01/uipath-acquires-london-based-nlp-startup-reinfer/)
+- [Ambani’s Reliance Jio top buyer in India’s $19 billion 5G airwaves sale](https://techcrunch.com/2022/08/01/india-5g-auction-ambani-reliance-jio-airtel-vodafone-idea/)
 - [The brightest planets in August&#39;s night sky: How to see them &lpar;and when&rpar;](https://www.space.com/33619-visible-planets-guide.html/)
 - [On This Day In Space: Aug. 1, 1968: Saturn V moon rocket production ends](https://www.space.com/39251-on-this-day-in-space.html/)
-- [Where do electrons get energy to spin around an atom&#39;s nucleus?](https://www.space.com/where-do-electrons-get-energy-to-spin/)
-- [Use Twitter’s iOS app without signing up for an account in Twitter’s latest test](https://techcrunch.com/2022/08/01/use-twitters-ios-app-without-signing-up-for-an-account-in-twitters-latest-test/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
