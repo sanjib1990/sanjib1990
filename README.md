@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The disappearance of Bolt Mobility shows how corrosive depreciation can be for IRL startups](https://techcrunch.com/2022/08/01/the-disappearance-of-bolt-mobility-shows-how-corrosive-depreciation-can-be-for-irl-startups/)
-- [Twitter tests a ‘tweets per month’ counter](https://techcrunch.com/2022/08/01/twitter-tests-a-tweets-per-month-counter/)
-- [Study of Facebook friendships explores how economic mobility works in the US](https://techcrunch.com/2022/08/01/facebook-meta-economic-mobility-nature-study/)
-- [Debris from Chinese rocket crash found in Indonesia and Malaysia](https://www.space.com/chinese-rocket-crash-space-debris-found/)
-- [Full moon calendar 2022: When to see the next full moon](https://www.space.com/16830-full-moon-calendar.html/)
+- [Daily Crunch: Did Bolt Mobility bolt? The startup left equipment and confused customers in its wake](https://techcrunch.com/2022/08/01/daily-crunch-did-bolt-mobility-bolt-the-startup-left-equipment-and-confused-customers-in-its-wake/)
+- [Tech’s riskiest founders are getting a $650 million bet from Redpoint Ventures](https://techcrunch.com/2022/08/01/techs-riskiest-founders-are-getting-a-650-million-bet-from-redpoint-ventures/)
+- [Max Q: Off the bench](https://techcrunch.com/2022/08/01/max-q-off-the-bench/)
+- [Pinterest popped 20% on earnings that weren’t as terrible as expected](https://techcrunch.com/2022/08/01/pinterest-popped-20-on-earnings-that-werent-as-terrible-as-expected/)
+- [SEC spears ‘Crypto Crusaders’ over alleged pyramid scheme](https://techcrunch.com/2022/08/01/crypto-fraud-scam-forsage-ponzi-pyramid-scheme-sec-regulators-crackdown/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
