@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Indian telecom firms bid $19 billion in 5G auction](https://techcrunch.com/2022/08/01/india-5g-auction-ambani-reliance-jio-airtel-vodafone-idea/)
+- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html/)
 - [Hyundai Motor eyes acquisition of Korean lidar-free self-driving startup 42dot](https://techcrunch.com/2022/08/01/hyundai-motor-eyes-acquisition-of-korean-lidar-free-self-driving-startup-42dot/)
 - [Oui Capital, a pan-African early-stage VC firm, hits first close of its $30M second fund](https://techcrunch.com/2022/08/01/oui-capital-a-pan-african-early-stage-vc-firm-hits-first-close-of-its-30m-second-fund/)
 - [Arca’s David Nage on how regulatory scrutiny is impacting venture investment in web3](https://techcrunch.com/2022/07/31/arcas-david-nage-on-how-regulatory-scrutiny-is-impacting-venture-investment-in-web3/)
-- [Bolt Mobility has vanished, leaving e-bikes, unanswered calls behind in several US cities](https://techcrunch.com/2022/07/31/bolt-mobility-has-vanished-leaving-e-bikes-unanswered-calls-behind-in-several-us-cities/)
-- [US startups seeking funds shouldn’t overlook financing from the government](https://techcrunch.com/2022/07/31/us-startups-seeking-funds-shouldnt-overlook-financing-from-the-government/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
