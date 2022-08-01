@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch California&#39;s largest wildfire of the year spawn a massive &#39;fire cloud&#39; visible from space](https://www.space.com/satellite-california-mckinney-wildfire-fire-cloud/)
 - [Watch Mars and Uranus meet up in night-sky webcast tonight](https://www.space.com/mars-uranus-conjunction-2022-webcast/)
 - [Spotify wants users to pay for separate ‘Play’ and ‘Shuffle’ buttons](https://techcrunch.com/2022/08/01/spotify-wants-users-to-pay-for-separate-play-and-shuffle-buttons/)
 - [In &#39;A Portrait of the Scientist as a Young Woman,&#39; a personal story of coming to planetary science](https://www.space.com/portrait-scientist-young-woman-book-interview/)
 - [Meet the second wave of Disrupt Audience Choice roundtable winners](https://techcrunch.com/2022/08/01/meet-the-second-wave-of-disrupt-audience-choice-roundtable-winners/)
-- [5 tips for scaling your green startup during a funding drought](https://techcrunch.com/2022/08/01/5-tips-for-scaling-your-green-startup-during-a-funding-drought/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
