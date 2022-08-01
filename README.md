@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to NOT Fail a Technical Interview](https://www.youtube.com/watch?v=1t1_a1BZ04o)
 - [Tricking AI Image Recognition - Computerphile](https://www.youtube.com/watch?v=gGIiechWEFs)
 - [the BEST way to get Kali Linux!!](https://www.youtube.com/watch?v=NLrfVMWT4AI)
 - [find HIDDEN urls!! &lpar;subdomain enumeration hacking&rpar; // ft. HakLuke](https://www.youtube.com/watch?v=mYCyZgAv_zE)
 - [TempleOS in 100 Seconds](https://www.youtube.com/watch?v=h7gf5M04hdg)
-- [Carbon Lang… The C++ killer?](https://www.youtube.com/watch?v=-bHK0qmp06c)
 <!-- YOUTUBE:END -->
 
 ---
