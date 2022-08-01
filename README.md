@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Indian telecom firms bid $19 billion in 5G auction](https://techcrunch.com/2022/08/01/india-5g-auction-ambani-reliance-jio-airtel-vodafone-idea/)
-- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html/)
-- [Hyundai Motor eyes acquisition of Korean lidar-free self-driving startup 42dot](https://techcrunch.com/2022/08/01/hyundai-motor-eyes-acquisition-of-korean-lidar-free-self-driving-startup-42dot/)
-- [Oui Capital, a pan-African early-stage VC firm, hits first close of its $30M second fund](https://techcrunch.com/2022/08/01/oui-capital-a-pan-african-early-stage-vc-firm-hits-first-close-of-its-30m-second-fund/)
-- [Arca’s David Nage on how regulatory scrutiny is impacting venture investment in web3](https://techcrunch.com/2022/07/31/arcas-david-nage-on-how-regulatory-scrutiny-is-impacting-venture-investment-in-web3/)
+- [Ambani’s Reliance Jio dominates India’s $19 billion 5G auction](https://techcrunch.com/2022/08/01/india-5g-auction-ambani-reliance-jio-airtel-vodafone-idea/)
+- [On This Day In Space: Aug. 1, 1968: Saturn V moon rocket production ends](https://www.space.com/39251-on-this-day-in-space.html/)
+- [Where do electrons get energy to spin around an atom&#39;s nucleus?](https://www.space.com/where-do-electrons-get-energy-to-spin/)
+- [Use Twitter’s iOS app without signing up for an account in Twitter’s latest test](https://techcrunch.com/2022/08/01/use-twitters-ios-app-without-signing-up-for-an-account-in-twitters-latest-test/)
+- [Astronomers image the star-birthing web of a cosmic Tarantula Nebula](https://www.space.com/cosmic-tarantula-nebula-star-birthing-web-photo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
