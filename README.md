@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch California&#39;s largest wildfire of the year spawn a massive &#39;fire cloud&#39; visible from space](https://www.space.com/satellite-california-mckinney-wildfire-fire-cloud/)
-- [Watch Mars and Uranus meet up in night-sky webcast tonight](https://www.space.com/mars-uranus-conjunction-2022-webcast/)
-- [Spotify wants users to pay for separate ‘Play’ and ‘Shuffle’ buttons](https://techcrunch.com/2022/08/01/spotify-wants-users-to-pay-for-separate-play-and-shuffle-buttons/)
-- [In &#39;A Portrait of the Scientist as a Young Woman,&#39; a personal story of coming to planetary science](https://www.space.com/portrait-scientist-young-woman-book-interview/)
-- [Meet the second wave of Disrupt Audience Choice roundtable winners](https://techcrunch.com/2022/08/01/meet-the-second-wave-of-disrupt-audience-choice-roundtable-winners/)
+- [Study of Facebook friendships explores how economic mobility works in the US](https://techcrunch.com/2022/08/01/facebook-meta-economic-mobility-nature-study/)
+- [Debris from Chinese rocket crash found in Indonesia and Malaysia](https://www.space.com/chinese-rocket-crash-space-debris-found/)
+- [Full moon calendar 2022: When to see the next full moon](https://www.space.com/16830-full-moon-calendar.html/)
+- [What is today&#39;s moon? Moon phases 2022](https://www.space.com/18880-moon-phases.html/)
+- [This Australian experiment is on the hunt for an elusive particle that could help unlock the mystery of dark matter](https://www.space.com/this-australian-experiment-is-on-the-hunt-for-an-elusive-particle-that-could-help-unlock-the-mystery-of-dark-matter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
