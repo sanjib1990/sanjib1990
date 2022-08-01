@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The disappearance of Bolt Mobility shows how corrosive depreciation can be for IRL startups](https://techcrunch.com/2022/08/01/the-disappearance-of-bolt-mobility-shows-how-corrosive-depreciation-can-be-for-irl-startups/)
+- [Twitter tests a ‘tweets per month’ counter](https://techcrunch.com/2022/08/01/twitter-tests-a-tweets-per-month-counter/)
 - [Study of Facebook friendships explores how economic mobility works in the US](https://techcrunch.com/2022/08/01/facebook-meta-economic-mobility-nature-study/)
 - [Debris from Chinese rocket crash found in Indonesia and Malaysia](https://www.space.com/chinese-rocket-crash-space-debris-found/)
 - [Full moon calendar 2022: When to see the next full moon](https://www.space.com/16830-full-moon-calendar.html/)
-- [What is today&#39;s moon? Moon phases 2022](https://www.space.com/18880-moon-phases.html/)
-- [This Australian experiment is on the hunt for an elusive particle that could help unlock the mystery of dark matter](https://www.space.com/this-australian-experiment-is-on-the-hunt-for-an-elusive-particle-that-could-help-unlock-the-mystery-of-dark-matter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
