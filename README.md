@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hackers stole passwords for accessing 140,000 payment terminals](https://techcrunch.com/2022/08/01/wiseasy-android-payment-passwords/)
+- [Amazon Prime Video launches localized services for top three markets in Southeast Asia](https://techcrunch.com/2022/08/01/amazon-prime-video-launches-localized-services-for-top-three-markets-in-southeast-asia/)
 - [Pinterest debuts a new app, Shuffles, for collage-making and moodboards](https://techcrunch.com/2022/08/01/pinterest-debuts-a-new-app-shuffles-for-collage-making-and-moodboards/)
 - [What will it take to reignite the NFT market?](https://techcrunch.com/2022/08/01/what-will-it-take-to-reignite-the-nft-market/)
 - [Amazon launches same-day delivery from select retail stores, including PacSun and Diesel](https://techcrunch.com/2022/08/01/amazon-launches-same-day-delivery-from-select-retail-stores-including-pacsun-and-diesel/)
-- [Disrupt early-bird pricing extended to Friday](https://techcrunch.com/2022/08/01/disrupt-early-bird-pricing-extended-to-friday/)
-- [UiPath acquires London-based NLP startup Reinfer](https://techcrunch.com/2022/08/01/uipath-acquires-london-based-nlp-startup-reinfer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
