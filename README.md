@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hackers stole passwords for accessing 140,000 payment terminals](https://techcrunch.com/2022/08/01/wiseasy-android-payment-passwords/)
-- [Amazon Prime Video launches localized services for top three markets in Southeast Asia](https://techcrunch.com/2022/08/01/amazon-prime-video-launches-localized-services-for-top-three-markets-in-southeast-asia/)
-- [Pinterest debuts a new app, Shuffles, for collage-making and moodboards](https://techcrunch.com/2022/08/01/pinterest-debuts-a-new-app-shuffles-for-collage-making-and-moodboards/)
-- [What will it take to reignite the NFT market?](https://techcrunch.com/2022/08/01/what-will-it-take-to-reignite-the-nft-market/)
-- [Amazon launches same-day delivery from select retail stores, including PacSun and Diesel](https://techcrunch.com/2022/08/01/amazon-launches-same-day-delivery-from-select-retail-stores-including-pacsun-and-diesel/)
+- [Spotify wants users to pay for separate ‘Play’ and ‘Shuffle’ buttons](https://techcrunch.com/2022/08/01/spotify-wants-users-to-pay-for-separate-play-and-shuffle-buttons/)
+- [Meet the second wave of Disrupt Audience Choice roundtable winners](https://techcrunch.com/2022/08/01/meet-the-second-wave-of-disrupt-audience-choice-roundtable-winners/)
+- [5 tips for scaling your green startup during a funding drought](https://techcrunch.com/2022/08/01/5-tips-for-scaling-your-green-startup-during-a-funding-drought/)
+- [The best sci-fi movies and TV shows to stream on Disney Plus in August](https://www.space.com/disney-plus-best-space-scifi-streaming.html/)
+- [Watch Rocket Lab launch a US spy satellite early Tuesday](https://www.space.com/rocket-lab-spy-satellite-launch-preview-antipodean-adventure/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
