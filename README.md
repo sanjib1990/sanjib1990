@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TikTok to overtake Facebook in influencer marketing spend this year, YouTube by 2024, forecast claims](https://techcrunch.com/2022/08/02/tiktok-to-overtake-facebook-in-influencer-marketing-spend-this-year-youtube-by-2024-forecast-claims/)
-- [Aurora Hydrogen raises $10M, but will its process decarbonize or facilitate tar sand exploitation?](https://techcrunch.com/2022/08/02/aurora-hydrogen-raises-10m-but-will-its-process-decarbonize-or-facilitate-tar-sand-exploitation/)
+- [Russians reportedly building a satellite-blinding laser — an expert explains the technology](https://www.space.com/russian-satellite-blinding-laser-explained/)
 - [Space philosopher Frank White on &#39;The Overview Effect&#39; and humanity&#39;s connection with Earth](https://www.space.com/frank-white-overview-effect/)
 - [Virgin Galactic plans new astronaut training facility near Spaceport America](https://www.space.com/virgin-galactic-astronaut-campus-training-facility/)
-- [Writer’s GPT-powered CoWrite handles content ‘drudgery’ and leaves creativity to humans](https://techcrunch.com/2022/08/02/writers-gpt-powered-cowrite-handles-content-drudgery-and-leaves-creativity-to-humans/)
+- [Curiosity rover: The ultimate guide](https://www.space.com/17963-mars-curiosity.html/)
+- [Best DSLR cameras](https://www.space.com/best-dslr-cameras/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
