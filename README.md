@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [New Russian space chief clarifies comments about International Space Station departure](https://www.space.com/russian-space-chief-clarifies-iss-departure-comments/)
-- [Bounty raises $4.7M to help everyday TikTokers make money from reviews](https://techcrunch.com/2022/08/02/bounty-raises-4-7m-to-help-everyday-tiktokers-make-money-from-reviews/)
-- [Previ wants to subtract personal expenses from your paycheck with a cash-back twist](https://techcrunch.com/2022/08/02/previ-wants-to-subtract-personal-expenses-from-your-paycheck-with-a-cashback-twist/)
-- [Why education is key to halting hacks like the $190M Nomad exploit](https://techcrunch.com/2022/08/02/why-education-is-key-to-halting-hacks-like-the-190m-nomad-exploit/)
-- [Hear how to accelerate slow-moving industries on TechCrunch Live](https://techcrunch.com/2022/08/02/hear-how-to-accelerate-slow-moving-industries-on-techcrunch-live/)
+- [Daily Crunch: Sheryl Sandberg is out at Meta, and Zuckerberg’s not looking for a new COO](https://techcrunch.com/2022/08/02/daily-crunch-sheryl-sandberg-is-out-at-meta-and-zuckerbergs-not-looking-for-a-new-coo/)
+- [Tinder to kill virtual currency, metaverse plans amid Match Group earnings loss; Tinder loses its CEO](https://techcrunch.com/2022/08/02/tinder-to-kill-crypto-metaverse-plans-amid-match-group-earnings-loss-tinder-loses-its-ceo/)
+- [NASA will preview its Artemis 1 moon mission this week. Here&#39;s how to watch for free.](https://www.space.com/nasa-artemis-1-moon-mission-preview-webcasts/)
+- [Tiffany and Gucci’s dip into crypto is a balance of reputation and revenue](https://techcrunch.com/2022/08/02/tiffany-and-guccis-dip-into-crypto-is-a-balance-of-reputation-and-revenue/)
+- [Robinhood cuts 23% of staff, CEO Vlad Tenev says, ‘This is on me’](https://techcrunch.com/2022/08/02/robinhood-23-layoff-vlad-tenev-responsibility-hiring/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
