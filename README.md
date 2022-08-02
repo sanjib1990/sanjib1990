@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [On This Day In Space: Aug. 2, 1971: Apollo 15 makes 1st televised lunar liftoff](https://www.space.com/39251-on-this-day-in-space.html/)
+- [Hackers abuse ‘chaotic’ Nomad exploit to drain almost $200M in crypto](https://techcrunch.com/2022/08/02/nomad-chaotic-exploit-crypto/)
+- [Savana raises a fresh round of capital to digitize banks’ services](https://techcrunch.com/2022/08/02/2361400/)
+- [Instagram is being MySpaced by TikTok and other TC news](https://techcrunch.com/2022/08/02/instagram-is-being-myspaced-by-tiktok-and-other-tc-news/)
 - [Innoviz lidar will be on all VW vehicles with automated driving capabilities](https://techcrunch.com/2022/08/02/innoviz-lidar-will-be-on-all-vw-vehicles-with-automated-driving-capabilities/)
-- [Dark matter from 12 billion years ago detected for the 1st time](https://www.space.com/dark-matter-ancient-galaxy-detection/)
-- [Hubble Space Telescope captures trippy &#39;mirror image&#39; view of distant galaxy](https://www.space.com/hubble-space-telescope-galaxy-mirror-image/)
-- [&#39;Star Trek&#39;s&#39; grand lady of space, Nichelle Nichols, has died at 89](https://www.space.com/nichelle-nichols-obituary-star-trek-legacy/)
-- [Best Lego space sets 2022: NASA Lego sets, spaceships, Marvel, and more](https://www.space.com/best-lego-space-sets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
