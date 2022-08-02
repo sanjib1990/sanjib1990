@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [On This Day In Space: Aug. 2, 1971: Apollo 15 makes 1st televised lunar liftoff](https://www.space.com/39251-on-this-day-in-space.html/)
-- [Hackers abuse ‘chaotic’ Nomad exploit to drain almost $200M in crypto](https://techcrunch.com/2022/08/02/nomad-chaotic-exploit-crypto/)
-- [Savana raises a fresh round of capital to digitize banks’ services](https://techcrunch.com/2022/08/02/2361400/)
-- [Instagram is being MySpaced by TikTok and other TC news](https://techcrunch.com/2022/08/02/instagram-is-being-myspaced-by-tiktok-and-other-tc-news/)
-- [Innoviz lidar will be on all VW vehicles with automated driving capabilities](https://techcrunch.com/2022/08/02/innoviz-lidar-will-be-on-all-vw-vehicles-with-automated-driving-capabilities/)
+- [Amazon launches AWS ‘skill builder’ training subscriptions starting at $29 per month](https://techcrunch.com/2022/08/02/amazon-launches-aws-skill-builder-subscriptions-starting-at-29-per-month/)
+- [Yelp updates its Android app with a redesigned home feed and map-based search](https://techcrunch.com/2022/08/02/yelp-updates-its-android-app-with-a-redesigned-home-feed-and-map-based-search/)
+- [Samsung launches user self-repair kits for Galaxy Devices](https://techcrunch.com/2022/08/02/samsung-launches-user-self-repair-kits-for-galaxy-devices/)
+- [Locket, the popular app that lets you post photos to your loved ones’ homescreens, raises $12.5M](https://techcrunch.com/2022/08/02/locket-app-that-lets-yor-post-photos-to-your-loved-ones-homescreens-raises-12-5m/)
+- [Arena raises money from Peter Thiel and David Petraeus for its decision-making AI](https://techcrunch.com/2022/08/02/arena-raises-money-from-peter-thiel-and-david-petraeus-for-its-decision-making-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
