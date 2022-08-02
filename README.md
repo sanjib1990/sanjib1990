@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Innoviz lidar will be on all VW vehicles with automated driving capabilities](https://techcrunch.com/2022/08/02/innoviz-lidar-will-be-on-all-vw-vehicles-with-automated-driving-capabilities/)
+- [Dark matter from 12 billion years ago detected for the 1st time](https://www.space.com/dark-matter-ancient-galaxy-detection/)
+- [Hubble Space Telescope captures trippy &#39;mirror image&#39; view of distant galaxy](https://www.space.com/hubble-space-telescope-galaxy-mirror-image/)
+- [&#39;Star Trek&#39;s&#39; grand lady of space, Nichelle Nichols, has died at 89](https://www.space.com/nichelle-nichols-obituary-star-trek-legacy/)
 - [Best Lego space sets 2022: NASA Lego sets, spaceships, Marvel, and more](https://www.space.com/best-lego-space-sets/)
-- [Identity verification company Youverify extends seed funding to $2.5M as it expands across Africa](https://techcrunch.com/2022/08/02/identity-verification-company-youverify-extends-seed-funding-to-2-5m-as-it-expands-across-africa/)
-- [Sheryl Sandberg officially stepped down as Meta COO on August 1, filing shows](https://techcrunch.com/2022/08/02/sheryl-sandberg-officially-stepped-down-as-meta-coo-on-august-1-filing-shows/)
-- [A16z-backed Shein challenger Cider is growing rapidly](https://techcrunch.com/2022/08/02/shein-a16z-challenger-cider-growth/)
-- [Emitrr raises $4 million to expand its automation offering for local businesses](https://techcrunch.com/2022/08/02/emitrr-pre-series-a-funding-chiratae-ventures-4-million-saas-automation-business-text-messages/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
