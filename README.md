@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Identity verification company Youverify extends seed funding to $2.5M as it expands across Africa](https://techcrunch.com/2022/08/02/identity-verification-company-youverify-extends-seed-funding-to-2-5m-as-it-expands-across-africa/)
+- [Sheryl Sandberg officially stepped down as Meta COO on August 1, filing shows](https://techcrunch.com/2022/08/02/sheryl-sandberg-officially-stepped-down-as-meta-coo-on-august-1-filing-shows/)
 - [A16z-backed Shein challenger Cider is growing rapidly](https://techcrunch.com/2022/08/02/shein-a16z-challenger-cider-growth/)
 - [Emitrr raises $4 million to expand its automation offering for local businesses](https://techcrunch.com/2022/08/02/emitrr-pre-series-a-funding-chiratae-ventures-4-million-saas-automation-business-text-messages/)
 - [Kenyan insurtech Lami raises $3.7M seed extension led by Harlem Capital](https://techcrunch.com/2022/08/02/kenyan-insurtech-lami-raises-3-7m-seed-extension-led-by-harlem-capital/)
-- [Ambani’s Reliance Jio top buyer in India’s $19 billion 5G sale](https://techcrunch.com/2022/08/01/india-5g-auction-ambani-reliance-jio-airtel-vodafone-idea/)
-- [Discord says Android users won’t be left hanging anymore](https://techcrunch.com/2022/08/01/discord-for-android/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
