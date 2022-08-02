@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Follow Webb’s Next Steps](https://blogs.nasa.gov/webb/2022/08/02/how-to-follow-webbs-next-steps/)
-- [Spinach.io wants to help agile engineering teams run better online meetings](https://techcrunch.com/2022/08/02/spinach-io-wants-to-help-agile-engineering-teams-run-better-online-meetings/)
-- [Is the James Webb Space Telescope finding the furthest, oldest, youngest or first galaxies? An astronomer explains.](https://www.space.com/james-webb-space-telescope-furthest-oldest-youngest-first-galaxies-explained/)
-- [How NFTs fit into the comic book creator economy](https://techcrunch.com/2022/08/02/zestworld-found-podcast/)
-- [Watch Rocket Lab launch a US spy satellite early Thursday after wind delay](https://www.space.com/rocket-lab-spy-satellite-launch-preview-antipodean-adventure/)
+- [Kenyan logistics startup Sendy cuts 10% of its workforce](https://techcrunch.com/2022/08/02/kenyan-logistics-startup-sendy-cuts-10-of-its-workforce/)
+- [French iOS developers file antitrust suit over Apple’s App Store fees](https://techcrunch.com/2022/08/02/french-ios-developers-file-antitrust-suit-over-apples-app-store-fees/)
+- [Human cyborgs, passion economy and more — check out these Disrupt roundtable winners](https://techcrunch.com/2022/08/02/human-cyborgs-passion-economy-and-more-check-out-these-disrupt-roundtable-winners/)
+- [Uber turns the corner, generates massive pile of free cash flow in Q2](https://techcrunch.com/2022/08/02/uber-turns-the-corner-generates-massive-pile-of-free-cash-flow-in-q2/)
+- [I’m so over customer experience surveys](https://techcrunch.com/2022/08/02/im-so-over-customer-experience-surveys/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
