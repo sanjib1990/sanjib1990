@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A16z-backed Shein challenger Cider is growing rapidly](https://techcrunch.com/2022/08/02/shein-a16z-challenger-cider-growth/)
+- [Emitrr raises $4 million to expand its automation offering for local businesses](https://techcrunch.com/2022/08/02/emitrr-pre-series-a-funding-chiratae-ventures-4-million-saas-automation-business-text-messages/)
 - [Kenyan insurtech Lami raises $3.7M seed extension led by Harlem Capital](https://techcrunch.com/2022/08/02/kenyan-insurtech-lami-raises-3-7m-seed-extension-led-by-harlem-capital/)
 - [Ambani’s Reliance Jio top buyer in India’s $19 billion 5G sale](https://techcrunch.com/2022/08/01/india-5g-auction-ambani-reliance-jio-airtel-vodafone-idea/)
 - [Discord says Android users won’t be left hanging anymore](https://techcrunch.com/2022/08/01/discord-for-android/)
-- [Public tech’s espresso shot is quite literally the cloud](https://techcrunch.com/2022/08/01/public-tech-earnings-q2-2022-the-cloud-wins/)
-- [FTC slams Opendoor with $62M settlement over false advertising claims](https://techcrunch.com/2022/08/01/ftc-slams-opendoor-with-62m-settlement-over-false-advertising-claims/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
