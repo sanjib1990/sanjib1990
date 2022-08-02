@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Russians reportedly building a satellite-blinding laser — an expert explains the technology](https://www.space.com/russian-satellite-blinding-laser-explained/)
-- [Space philosopher Frank White on &#39;The Overview Effect&#39; and humanity&#39;s connection with Earth](https://www.space.com/frank-white-overview-effect/)
-- [Virgin Galactic plans new astronaut training facility near Spaceport America](https://www.space.com/virgin-galactic-astronaut-campus-training-facility/)
-- [Curiosity rover: The ultimate guide](https://www.space.com/17963-mars-curiosity.html/)
-- [Best DSLR cameras](https://www.space.com/best-dslr-cameras/)
+- [Is Discord really worth 32% less today than it was last year?](https://techcrunch.com/2022/08/02/is-discord-really-worth-32-less-today-than-it-was-last-year/)
+- [Perseverance Mars rover snags 11th rock sample](https://www.space.com/perseverance-mars-rover-11th-sample-collected/)
+- [Cybersecurity could offer a way for underrepresented groups to break into tech](https://techcrunch.com/2022/08/02/cybersecurity-could-offer-a-way-for-underrepresented-groups-to-break-into-tech/)
+- [Smithsonian to debut reimagined Air and Space Museum galleries on Oct. 14](https://www.space.com/smithsonian-air-space-museum-reopening-date/)
+- [Google backs Indian rewards payments startup Twid](https://techcrunch.com/2022/08/02/twid-series-a-funding-12-million-rakuen-capital-google-reward-points-based-payment-platform/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
