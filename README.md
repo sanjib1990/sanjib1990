@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Kenyan logistics startup Sendy cuts 10% of its workforce](https://techcrunch.com/2022/08/02/kenyan-logistics-startup-sendy-cuts-10-of-its-workforce/)
-- [French iOS developers file antitrust suit over Apple’s App Store fees](https://techcrunch.com/2022/08/02/french-ios-developers-file-antitrust-suit-over-apples-app-store-fees/)
-- [Human cyborgs, passion economy and more — check out these Disrupt roundtable winners](https://techcrunch.com/2022/08/02/human-cyborgs-passion-economy-and-more-check-out-these-disrupt-roundtable-winners/)
-- [Uber turns the corner, generates massive pile of free cash flow in Q2](https://techcrunch.com/2022/08/02/uber-turns-the-corner-generates-massive-pile-of-free-cash-flow-in-q2/)
-- [I’m so over customer experience surveys](https://techcrunch.com/2022/08/02/im-so-over-customer-experience-surveys/)
+- [Best DSLR cameras](https://www.space.com/best-dslr-cameras/)
+- [Mudafy raises $10M in Founders Fund-led Series A to fix LatAm’s ‘broken’ real estate process](https://techcrunch.com/2022/08/02/mudafy-raises-10m-in-founders-fund-led-series-a-to-fix-latams-broken-real-estate-process/)
+- [Solar storm from hole in the sun will hit Earth on Wednesday &lpar;Aug. 3&rpar;](https://www.space.com/sun-hole-produce-solar-storm-august-2022/)
+- [Sprig raises $30M to help companies gauge users’ reactions to products](https://techcrunch.com/2022/08/02/sprig-raises-30m-to-help-companies-gauge-users-reactions-to-products/)
+- [How to run growth marketing during a recession](https://techcrunch.com/2022/08/02/how-to-run-growth-marketing-during-a-recession/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
