@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Daily Crunch: Sheryl Sandberg is out at Meta, and Zuckerberg’s not looking for a new COO](https://techcrunch.com/2022/08/02/daily-crunch-sheryl-sandberg-is-out-at-meta-and-zuckerbergs-not-looking-for-a-new-coo/)
-- [Tinder to kill virtual currency, metaverse plans amid Match Group earnings loss; Tinder loses its CEO](https://techcrunch.com/2022/08/02/tinder-to-kill-crypto-metaverse-plans-amid-match-group-earnings-loss-tinder-loses-its-ceo/)
 - [NASA will preview its Artemis 1 moon mission this week. Here&#39;s how to watch for free.](https://www.space.com/nasa-artemis-1-moon-mission-preview-webcasts/)
-- [Tiffany and Gucci’s dip into crypto is a balance of reputation and revenue](https://techcrunch.com/2022/08/02/tiffany-and-guccis-dip-into-crypto-is-a-balance-of-reputation-and-revenue/)
-- [Robinhood cuts 23% of staff, CEO Vlad Tenev says, ‘This is on me’](https://techcrunch.com/2022/08/02/robinhood-23-layoff-vlad-tenev-responsibility-hiring/)
+- [New Russian space chief clarifies comments about International Space Station departure](https://www.space.com/russian-space-chief-clarifies-iss-departure-comments/)
+- [Perseverance Mars rover snags 11th rock sample](https://www.space.com/perseverance-mars-rover-11th-sample-collected/)
+- [Smithsonian to debut reimagined Air and Space Museum galleries on Oct. 14](https://www.space.com/smithsonian-air-space-museum-reopening-date/)
+- [Stunning James Webb Space Telescope image shows stars forming in strange wheel-shaped galaxy](https://www.space.com/james-webb-space-telescope-photo-cartwheel-galaxy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
