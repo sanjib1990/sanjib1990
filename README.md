@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Discord really worth 32% less today than it was last year?](https://techcrunch.com/2022/08/02/is-discord-really-worth-32-less-today-than-it-was-last-year/)
 - [Perseverance Mars rover snags 11th rock sample](https://www.space.com/perseverance-mars-rover-11th-sample-collected/)
-- [Cybersecurity could offer a way for underrepresented groups to break into tech](https://techcrunch.com/2022/08/02/cybersecurity-could-offer-a-way-for-underrepresented-groups-to-break-into-tech/)
 - [Smithsonian to debut reimagined Air and Space Museum galleries on Oct. 14](https://www.space.com/smithsonian-air-space-museum-reopening-date/)
-- [Google backs Indian rewards payments startup Twid](https://techcrunch.com/2022/08/02/twid-series-a-funding-12-million-rakuen-capital-google-reward-points-based-payment-platform/)
+- [Stunning James Webb Space Telescope image shows stars forming in strange wheel-shaped galaxy](https://www.space.com/james-webb-space-telescope-photo-cartwheel-galaxy/)
+- [NASA looks to private outposts to build on International Space Station&#39;s legacy](https://www.space.com/nasa-private-space-stations-after-iss/)
+- [Russians reportedly building a satellite-blinding laser — an expert explains the technology](https://www.space.com/russian-satellite-blinding-laser-explained/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
