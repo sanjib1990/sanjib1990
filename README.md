@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon launches AWS ‘skill builder’ training subscriptions starting at $29 per month](https://techcrunch.com/2022/08/02/amazon-launches-aws-skill-builder-subscriptions-starting-at-29-per-month/)
-- [Yelp updates its Android app with a redesigned home feed and map-based search](https://techcrunch.com/2022/08/02/yelp-updates-its-android-app-with-a-redesigned-home-feed-and-map-based-search/)
-- [Samsung launches user self-repair kits for Galaxy Devices](https://techcrunch.com/2022/08/02/samsung-launches-user-self-repair-kits-for-galaxy-devices/)
-- [Locket, the popular app that lets you post photos to your loved ones’ homescreens, raises $12.5M](https://techcrunch.com/2022/08/02/locket-app-that-lets-yor-post-photos-to-your-loved-ones-homescreens-raises-12-5m/)
-- [Arena raises money from Peter Thiel and David Petraeus for its decision-making AI](https://techcrunch.com/2022/08/02/arena-raises-money-from-peter-thiel-and-david-petraeus-for-its-decision-making-ai/)
+- [How to Follow Webb’s Next Steps](https://blogs.nasa.gov/webb/2022/08/02/how-to-follow-webbs-next-steps/)
+- [Spinach.io wants to help agile engineering teams run better online meetings](https://techcrunch.com/2022/08/02/spinach-io-wants-to-help-agile-engineering-teams-run-better-online-meetings/)
+- [Is the James Webb Space Telescope finding the furthest, oldest, youngest or first galaxies? An astronomer explains.](https://www.space.com/james-webb-space-telescope-furthest-oldest-youngest-first-galaxies-explained/)
+- [How NFTs fit into the comic book creator economy](https://techcrunch.com/2022/08/02/zestworld-found-podcast/)
+- [Watch Rocket Lab launch a US spy satellite early Thursday after wind delay](https://www.space.com/rocket-lab-spy-satellite-launch-preview-antipodean-adventure/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
