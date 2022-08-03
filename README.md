@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Unknown hacker drains millions of dollars from thousands of Solana hot wallets](https://techcrunch.com/2022/08/03/daily-crunch-unknown-hacker-drains-millions-of-dollars-from-thousands-of-solana-hot-wallets/)
 - [What does $2.8B buy you in today’s market?](https://techcrunch.com/2022/08/03/what-does-2-8b-buy-you-in-todays-market/)
 - [SpaceX&#39;s private Polaris Dawn space crew targets December launch date: report](https://www.space.com/polaris-dawn-spacex-december-launch-plan/)
 - [European Space Agency recruits Shaun &lpar;the sheep&rpar; for Artemis 1 moon mission](https://www.space.com/artemis-1-moon-mission-esa-shaun-the-sheep/)
 - [Lucid Motors slashes EV production targets again as supply chain problems persist](https://techcrunch.com/2022/08/03/lucid-motors-slashes-ev-production-targets-again-as-supply-chain-problems-persist/)
-- [Super-Earth planet zips through the habitable zone of red dwarf star](https://www.space.com/super-earth-planet-around-red-dwarf/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
