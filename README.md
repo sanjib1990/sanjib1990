@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple alum’s finance operations startup raises funds to expand globally](https://techcrunch.com/2022/08/02/apple-executive-bluecopa-seed-round-2-3-million-finance-operations-automation-blume-ventures/)
 - [TuSimple addresses autonomous truck crash during Q2 earnings call](https://techcrunch.com/2022/08/02/tusimple-addresses-autonomous-truck-crash-during-q1-earnings/)
 - [Ro’s co-founder is leaving the company, last valued at $7 billion](https://techcrunch.com/2022/08/02/ros-co-founder-is-leaving-the-company-last-valued-at-7-billion/)
 - [Spur, a fund of funds, targets $200M to bet on early-stage VC in a downturn](https://techcrunch.com/2022/08/02/spur-fund-of-funds-targets-200m-early-stage-vc-downturn/)
 - [Y Combinator narrows current cohort size by 40%, citing downturn and funding environment](https://techcrunch.com/2022/08/02/y-combinator-narrows-current-cohort-size-by-40-citing-downturn-and-funding-environment/)
-- [Daily Crunch: Sheryl Sandberg is out at Meta, and Zuckerberg’s not looking for a new COO](https://techcrunch.com/2022/08/02/daily-crunch-sheryl-sandberg-is-out-at-meta-and-zuckerbergs-not-looking-for-a-new-coo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
