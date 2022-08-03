@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Solana’s speedy approach to crypto is attracting developers, despite hiccups](https://techcrunch.com/2022/08/03/solanas-speedy-approach-to-crypto-is-attracting-developers-despite-hiccups/)
-- [How satellites helped 345,000 people track Nancy Pelosi&#39;s historic flight into Taiwan](https://www.space.com/nancy-pelosi-taiwan-flight-track-satellites/)
-- [‘Lightyear’ streams today, the first Pixar film on Disney+  with scenes in IMAX’s Expanded Aspect Ratio](https://techcrunch.com/2022/08/03/lightyear-streams-today-the-first-pixar-film-on-disney-with-scenes-in-imaxs-expanded-aspect-ratio/)
-- [Watch an Atlas V rocket launch a missile warning satellite for US Space Force on Thursday](https://www.space.com/atlas-v-rocket-sbirs-geo-6-launch-preview/)
-- [Dear Sophie: How long am I required to stay at my current job after I get my green card?](https://techcrunch.com/2022/08/03/dear-sophie-how-long-am-i-required-to-stay-at-my-current-job-after-i-get-my-green-card/)
+- [What does $2.8B buy you in today’s market?](https://techcrunch.com/2022/08/03/what-does-2-8b-buy-you-in-todays-market/)
+- [SpaceX&#39;s private Polaris Dawn space crew targets December launch date: report](https://www.space.com/polaris-dawn-spacex-december-launch-plan/)
+- [European Space Agency recruits Shaun &lpar;the sheep&rpar; for Artemis 1 moon mission](https://www.space.com/artemis-1-moon-mission-esa-shaun-the-sheep/)
+- [Lucid Motors slashes EV production targets again as supply chain problems persist](https://techcrunch.com/2022/08/03/lucid-motors-slashes-ev-production-targets-again-as-supply-chain-problems-persist/)
+- [Super-Earth planet zips through the habitable zone of red dwarf star](https://www.space.com/super-earth-planet-around-red-dwarf/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
