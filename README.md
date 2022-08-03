@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Daily Crunch: Unknown hacker drains millions of dollars from thousands of Solana hot wallets](https://techcrunch.com/2022/08/03/daily-crunch-unknown-hacker-drains-millions-of-dollars-from-thousands-of-solana-hot-wallets/)
-- [What does $2.8B buy you in today’s market?](https://techcrunch.com/2022/08/03/what-does-2-8b-buy-you-in-todays-market/)
-- [SpaceX&#39;s private Polaris Dawn space crew targets December launch date: report](https://www.space.com/polaris-dawn-spacex-december-launch-plan/)
-- [European Space Agency recruits Shaun &lpar;the sheep&rpar; for Artemis 1 moon mission](https://www.space.com/artemis-1-moon-mission-esa-shaun-the-sheep/)
-- [Lucid Motors slashes EV production targets again as supply chain problems persist](https://techcrunch.com/2022/08/03/lucid-motors-slashes-ev-production-targets-again-as-supply-chain-problems-persist/)
+- [Lyft assured no layoffs were coming. Now employees are scrambling for their next gig.](https://techcrunch.com/2022/08/03/lyft-assured-no-layoffs-were-coming-now-employees-are-scrambling-for-their-next-gig/)
+- [This startup just raised $320M to make long-term care inside hospitals obsolete](https://techcrunch.com/2022/08/03/this-startup-just-raised-320m-to-make-long-term-care-inside-hospitals-obsolete/)
+- [YC and a16z back virtual reality basketball app Gym Class](https://techcrunch.com/2022/08/03/yc-and-a16z-back-virtual-reality-basketball-app-gym-class/)
+- [Starbucks to unveil its web3-based rewards program next month](https://techcrunch.com/2022/08/03/starbucks-to-unveil-its-web3-based-rewards-program-next-month/)
+- [You can watch 4 different rocket launches in free webcasts Thursday](https://www.space.com/watch-four-rocket-launches-one-day-august-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
