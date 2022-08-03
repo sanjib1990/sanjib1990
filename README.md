@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [TensorFlow in 100 Seconds](https://www.youtube.com/watch?v=i8NETqtGHms)
 - [Scratch? Python? C? Kernighan on Languages for Kids Coding - Computerphile](https://www.youtube.com/watch?v=h8LTEFNLZ6M)
 - [How to NOT Fail a Technical Interview](https://www.youtube.com/watch?v=1t1_a1BZ04o)
 - [Tricking AI Image Recognition - Computerphile](https://www.youtube.com/watch?v=gGIiechWEFs)
 - [the BEST way to get Kali Linux!!](https://www.youtube.com/watch?v=NLrfVMWT4AI)
-- [find HIDDEN urls!! &lpar;subdomain enumeration hacking&rpar; // ft. HakLuke](https://www.youtube.com/watch?v=mYCyZgAv_zE)
 <!-- YOUTUBE:END -->
 
 ---
