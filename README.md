@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TikTok Music’s trademarks spotted in multiple countries, hinting toward global launch plans](https://techcrunch.com/2022/08/03/tiktok-musics-trademarks-spotted-in-multiple-countries-hinting-toward-global-launch-plans/)
+- [Facebook is shutting down its live shopping feature on October 1](https://techcrunch.com/2022/08/03/facebook-shutting-down-live-shopping-feature-october/)
 - [Upstream’s new vault could help NFT holders sleep at night](https://techcrunch.com/2022/08/03/upstreams-new-vault-could-help-nft-holders-sleep-at-night/)
 - [8 uncommon keyboards to spice up your typing](https://techcrunch.com/2022/08/03/8-uncommon-keyboards-to-spice-up-your-typing/)
 - [We found some strange radio sources in a distant galaxy cluster. They&#39;re making us rethink what we thought we knew.](https://www.space.com/strange-radio-sources-from-galaxy-cluster/)
-- [OnePlus’ 10T arrives September 29, starting at $649](https://techcrunch.com/2022/08/03/oneplus-10t-arrives-september-29-starting-at-649/)
-- [GM is expanding its hands-free Super Cruise system to 400,000 miles of roads](https://techcrunch.com/2022/08/03/gm-is-expanding-its-hands-free-super-cruise-system-to-400000-miles-of-roads/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
