@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Solana’s speedy approach to crypto is attracting developers, despite hiccups](https://techcrunch.com/2022/08/03/solanas-speedy-approach-to-crypto-is-attracting-developers-despite-hiccups/)
+- [How satellites helped 345,000 people track Nancy Pelosi&#39;s historic flight into Taiwan](https://www.space.com/nancy-pelosi-taiwan-flight-track-satellites/)
+- [‘Lightyear’ streams today, the first Pixar film on Disney+  with scenes in IMAX’s Expanded Aspect Ratio](https://techcrunch.com/2022/08/03/lightyear-streams-today-the-first-pixar-film-on-disney-with-scenes-in-imaxs-expanded-aspect-ratio/)
+- [Watch an Atlas V rocket launch a missile warning satellite for US Space Force on Thursday](https://www.space.com/atlas-v-rocket-sbirs-geo-6-launch-preview/)
 - [Dear Sophie: How long am I required to stay at my current job after I get my green card?](https://techcrunch.com/2022/08/03/dear-sophie-how-long-am-i-required-to-stay-at-my-current-job-after-i-get-my-green-card/)
-- [Former astronauts must chaperone private missions to the International Space Station, NASA says](https://www.space.com/nasa-former-astronauts-lead-private-iss-missions/)
-- [Axiom Space deal will put New Zealand research on the International Space Station](https://www.space.com/axiom-space-new-zealand-international-space-station/)
-- [August&#39;s full moon likely to outshine Perseid meteor shower this year, NASA astronomer says](https://www.space.com/august-full-moon-perseid-meteor-shower-2022/)
-- [a16z now wants to manage the money of the entrepreneurs it backs](https://techcrunch.com/2022/08/03/a16z-now-wants-to-manage-the-money-of-the-entrepreneurs-it-backs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
