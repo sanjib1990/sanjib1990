@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nikon binoculars deals available right now](https://www.space.com/nikon-binoculars-deals/)
 - [Thousands of Solana wallets drained in multimillion dollar exploit](https://techcrunch.com/2022/08/03/solana-wallet-hack/)
 - [Uber tie-up with Omio adds train &amp; coach booking to app — starting with UK](https://techcrunch.com/2022/08/03/uber-omio-ground-transport-booking/)
-- [Uber’s ride with Indian food delivery firm Zomato comes to an end](https://techcrunch.com/2022/08/02/ubers-ride-with-indian-food-delivery-firm-zomato-comes-to-an-end/)
+- [Uber exits Zomato investment for over $390 million](https://techcrunch.com/2022/08/02/ubers-ride-with-indian-food-delivery-firm-zomato-comes-to-an-end/)
 - [Apple alum’s finance operations startup raises funds to expand globally](https://techcrunch.com/2022/08/02/apple-executive-bluecopa-seed-round-2-3-million-finance-operations-automation-blume-ventures/)
-- [TuSimple addresses autonomous truck crash during Q2 earnings call](https://techcrunch.com/2022/08/02/tusimple-addresses-autonomous-truck-crash-during-q1-earnings/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
