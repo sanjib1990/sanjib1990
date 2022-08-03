@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [This is how edited tweets might look when embedded elsewhere](https://techcrunch.com/2022/08/03/this-is-how-edited-tweets-might-look-when-embedded-elsewhere/)
-- [Best binoculars 2022: Top picks for stargazing, wildlife and more](https://www.space.com/26021-best-binoculars.html/)
-- [Celestron Cometron 7x50 binoculars review](https://www.space.com/celestron-cometron-7x50-binoculars-review/)
-- [Braxia buys KetaMD to get into remote-delivered ketamine treatments](https://techcrunch.com/2022/08/03/braxia-buys-ketamd/)
-- [Did Russia just launch a spacecraft to stalk a US spy satellite?](https://www.space.com/russia-spacecraft-stalk-us-spy-satellite/)
+- [German semiconductor giant Semikron says hackers encrypted its network](https://techcrunch.com/2022/08/03/semikron-hackers-encrypted-electric-vehicles/)
+- [Aisera lands $90M to automate customer service requests with AI](https://techcrunch.com/2022/08/03/aisera-lands-90m-to-automate-customer-service-requests-with-ai/)
+- [Playstudios launches blockchain gaming division and $10M web3-focused fund](https://techcrunch.com/2022/08/03/playstudios-launches-blockchain-gaming-division-and-10m-web3-focused-fund/)
+- [Earth sets record for the shortest day](https://www.space.com/earth-rotation-record-shortest-day/)
+- [U.K provisionally approves $8.1B NortonLifeLock-Avast merger, citing competition from Microsoft](https://techcrunch.com/2022/08/03/u-k-provisionally-approves-8-1b-nortonlifelock-avast-merger-citing-competition-from-microsoft/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
