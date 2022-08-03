@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Braxia buys KetaMD to get into remote-delivered ketamine treatments](https://techcrunch.com/2022/08/03/braxia-buys-ketamd/)
+- [ZayZoon charges employees $5 to get paid sooner](https://techcrunch.com/2022/08/03/zayzoon-charges-employees-5-to-get-paid-sooner/)
 - [Nikon binoculars deals available right now](https://www.space.com/nikon-binoculars-deals/)
 - [Thousands of Solana wallets drained in multimillion dollar exploit](https://techcrunch.com/2022/08/03/solana-wallet-hack/)
 - [Uber tie-up with Omio adds train &amp; coach booking to app — starting with UK](https://techcrunch.com/2022/08/03/uber-omio-ground-transport-booking/)
-- [Uber exits Zomato investment for over $390 million](https://techcrunch.com/2022/08/02/ubers-ride-with-indian-food-delivery-firm-zomato-comes-to-an-end/)
-- [Apple alum’s finance operations startup raises funds to expand globally](https://techcrunch.com/2022/08/02/apple-executive-bluecopa-seed-round-2-3-million-finance-operations-automation-blume-ventures/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
