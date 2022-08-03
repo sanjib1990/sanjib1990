@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [German semiconductor giant Semikron says hackers encrypted its network](https://techcrunch.com/2022/08/03/semikron-hackers-encrypted-electric-vehicles/)
-- [Aisera lands $90M to automate customer service requests with AI](https://techcrunch.com/2022/08/03/aisera-lands-90m-to-automate-customer-service-requests-with-ai/)
-- [Playstudios launches blockchain gaming division and $10M web3-focused fund](https://techcrunch.com/2022/08/03/playstudios-launches-blockchain-gaming-division-and-10m-web3-focused-fund/)
-- [Earth sets record for the shortest day](https://www.space.com/earth-rotation-record-shortest-day/)
-- [U.K provisionally approves $8.1B NortonLifeLock-Avast merger, citing competition from Microsoft](https://techcrunch.com/2022/08/03/u-k-provisionally-approves-8-1b-nortonlifelock-avast-merger-citing-competition-from-microsoft/)
+- [L’Attitude Ventures closes on $100M fund to back Latino founders of early-stage startups](https://techcrunch.com/2022/08/03/lattitude-ventures-closes-on-100m-fund-to-back-latinao-owned-early-stage-companies/)
+- [Cassian Andor strikes back at the Empire in fantastic new &#39;Andor&#39; trailer from Disney Plus](https://www.space.com/andor-trailer-star-wars-disney-plus/)
+- [Google now lets merchants add an ‘Asian-owned’ label to their profiles on Maps and Search](https://techcrunch.com/2022/08/03/google-asian-owned-label-profiles-maps-search/)
+- [Ulta Beauty launches a fund, showcasing the resilience of corporate venture capital](https://techcrunch.com/2022/08/03/ulta-beauty-launches-a-fund-showcasing-the-resilience-of-corporate-venture-capital/)
+- [Ticketmaster, TikTok partner to give users a new way to discover and purchase event tickets](https://techcrunch.com/2022/08/03/ticketmaster-tiktok-partnership/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
