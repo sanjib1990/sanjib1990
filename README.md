@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [L’Attitude Ventures closes on $100M fund to back Latino founders of early-stage startups](https://techcrunch.com/2022/08/03/lattitude-ventures-closes-on-100m-fund-to-back-latinao-owned-early-stage-companies/)
-- [Cassian Andor strikes back at the Empire in fantastic new &#39;Andor&#39; trailer from Disney Plus](https://www.space.com/andor-trailer-star-wars-disney-plus/)
-- [Google now lets merchants add an ‘Asian-owned’ label to their profiles on Maps and Search](https://techcrunch.com/2022/08/03/google-asian-owned-label-profiles-maps-search/)
-- [Ulta Beauty launches a fund, showcasing the resilience of corporate venture capital](https://techcrunch.com/2022/08/03/ulta-beauty-launches-a-fund-showcasing-the-resilience-of-corporate-venture-capital/)
-- [Ticketmaster, TikTok partner to give users a new way to discover and purchase event tickets](https://techcrunch.com/2022/08/03/ticketmaster-tiktok-partnership/)
+- [Sensitive data of Indian pension fund holders exposed online](https://techcrunch.com/2022/08/03/india-pension-fund-data-exposed/)
+- [SpaceX&#39;s activities near a Texas beach spark appeal after court dismisses lawsuit](https://www.space.com/spacex-boca-chica-lawsuit-dismissed-appeal/)
+- [Is it the bootstrapper’s time to jump on the venture treadmill?](https://techcrunch.com/2022/08/03/is-it-the-bootstrappers-time-to-jump-on-the-venture-treadmill/)
+- [Wake up, new Pokémon just dropped](https://techcrunch.com/2022/08/03/pokemon-scarlet-violet-fidough/)
+- [Footprint wants to change how companies collect, store and share personal data](https://techcrunch.com/2022/08/03/footprint-wants-to-change-how-companies-collect-store-and-share-personal-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
