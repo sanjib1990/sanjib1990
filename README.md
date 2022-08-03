@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to approach building your first employee benefits package](https://techcrunch.com/2022/08/03/how-to-approach-building-your-first-employee-benefits-package/)
+- [Sling TV continues to drop subscribers, loses 55K subscribers in second quarter](https://techcrunch.com/2022/08/03/sling-tv-continues-to-drop-subscribers-loses-55k-subscribers-in-second-quarter/)
+- [Extended early bird savings on TC Disrupt passes end this Friday](https://techcrunch.com/2022/08/03/extended-early-bird-savings-on-tc-disrupt-passes-end-this-friday/)
+- [Apollo 11 relics among 10,000 mementos flying on Artemis 1 moon mission](https://www.space.com/apollo-11-relics-artemis-1-moon-mission/)
 - [TikTok Music’s trademarks spotted in multiple countries, hinting toward global launch plans](https://techcrunch.com/2022/08/03/tiktok-musics-trademarks-spotted-in-multiple-countries-hinting-toward-global-launch-plans/)
-- [Facebook is shutting down its live shopping feature on October 1](https://techcrunch.com/2022/08/03/facebook-shutting-down-live-shopping-feature-october/)
-- [Upstream’s new vault could help NFT holders sleep at night](https://techcrunch.com/2022/08/03/upstreams-new-vault-could-help-nft-holders-sleep-at-night/)
-- [8 uncommon keyboards to spice up your typing](https://techcrunch.com/2022/08/03/8-uncommon-keyboards-to-spice-up-your-typing/)
-- [We found some strange radio sources in a distant galaxy cluster. They&#39;re making us rethink what we thought we knew.](https://www.space.com/strange-radio-sources-from-galaxy-cluster/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
