@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Sensitive data of Indian pension fund holders exposed online](https://techcrunch.com/2022/08/03/india-pension-fund-data-exposed/)
-- [SpaceX&#39;s activities near a Texas beach spark appeal after court dismisses lawsuit](https://www.space.com/spacex-boca-chica-lawsuit-dismissed-appeal/)
-- [Is it the bootstrapper’s time to jump on the venture treadmill?](https://techcrunch.com/2022/08/03/is-it-the-bootstrappers-time-to-jump-on-the-venture-treadmill/)
-- [Wake up, new Pokémon just dropped](https://techcrunch.com/2022/08/03/pokemon-scarlet-violet-fidough/)
-- [Footprint wants to change how companies collect, store and share personal data](https://techcrunch.com/2022/08/03/footprint-wants-to-change-how-companies-collect-store-and-share-personal-data/)
+- [Celestron SkyMaster 25x100 binoculars review](https://www.space.com/celestron-skymaster-25x100-binoculars-review/)
+- [Will a weaker euro lead to greater US investment in European startups?](https://techcrunch.com/2022/08/03/will-a-weaker-euro-lead-to-greater-us-investment-in-european-startups/)
+- [Tonga&#39;s eruption injected so much water into Earth&#39;s atmosphere that it could weaken the ozone layer](https://www.space.com/tonga-eruption-water-vapor-earth-atmosphere/)
+- [The next step in Google’s merger of Duo and Meet starts today](https://techcrunch.com/2022/08/03/the-next-step-in-googles-merger-of-duo-and-meet-starts-today/)
+- [Learn how to recession proof your startup and more with these Disrupt roundtables](https://techcrunch.com/2022/08/03/recession-proof-your-startup-and-more-catch-these-disrupt-roundtables/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
