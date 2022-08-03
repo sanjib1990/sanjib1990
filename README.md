@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Celestron SkyMaster 25x100 binoculars review](https://www.space.com/celestron-skymaster-25x100-binoculars-review/)
-- [Will a weaker euro lead to greater US investment in European startups?](https://techcrunch.com/2022/08/03/will-a-weaker-euro-lead-to-greater-us-investment-in-european-startups/)
-- [Tonga&#39;s eruption injected so much water into Earth&#39;s atmosphere that it could weaken the ozone layer](https://www.space.com/tonga-eruption-water-vapor-earth-atmosphere/)
-- [The next step in Google’s merger of Duo and Meet starts today](https://techcrunch.com/2022/08/03/the-next-step-in-googles-merger-of-duo-and-meet-starts-today/)
-- [Learn how to recession proof your startup and more with these Disrupt roundtables](https://techcrunch.com/2022/08/03/recession-proof-your-startup-and-more-catch-these-disrupt-roundtables/)
+- [Upstream’s new vault could help NFT holders sleep at night](https://techcrunch.com/2022/08/03/upstreams-new-vault-could-help-nft-holders-sleep-at-night/)
+- [8 uncommon keyboards to spice up your typing](https://techcrunch.com/2022/08/03/8-uncommon-keyboards-to-spice-up-your-typing/)
+- [We found some strange radio sources in a distant galaxy cluster. They&#39;re making us rethink what we thought we knew.](https://www.space.com/strange-radio-sources-from-galaxy-cluster/)
+- [OnePlus’ 10T arrives September 29, starting at $649](https://techcrunch.com/2022/08/03/oneplus-10t-arrives-september-29-starting-at-649/)
+- [GM is expanding its hands-free Super Cruise system to 400,000 miles of roads](https://techcrunch.com/2022/08/03/gm-is-expanding-its-hands-free-super-cruise-system-to-400000-miles-of-roads/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
