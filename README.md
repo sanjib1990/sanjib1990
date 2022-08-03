@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This is how edited tweets might look when embedded elsewhere](https://techcrunch.com/2022/08/03/this-is-how-edited-tweets-might-look-when-embedded-elsewhere/)
+- [Best binoculars 2022: Top picks for stargazing, wildlife and more](https://www.space.com/26021-best-binoculars.html/)
+- [Celestron Cometron 7x50 binoculars review](https://www.space.com/celestron-cometron-7x50-binoculars-review/)
 - [Braxia buys KetaMD to get into remote-delivered ketamine treatments](https://techcrunch.com/2022/08/03/braxia-buys-ketamd/)
-- [ZayZoon charges employees $5 to get paid sooner](https://techcrunch.com/2022/08/03/zayzoon-charges-employees-5-to-get-paid-sooner/)
-- [Nikon binoculars deals available right now](https://www.space.com/nikon-binoculars-deals/)
-- [Thousands of Solana wallets drained in multimillion dollar exploit](https://techcrunch.com/2022/08/03/solana-wallet-hack/)
-- [Uber tie-up with Omio adds train &amp; coach booking to app — starting with UK](https://techcrunch.com/2022/08/03/uber-omio-ground-transport-booking/)
+- [Did Russia just launch a spacecraft to stalk a US spy satellite?](https://www.space.com/russia-spacecraft-stalk-us-spy-satellite/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
