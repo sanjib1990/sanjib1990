@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to approach building your first employee benefits package](https://techcrunch.com/2022/08/03/how-to-approach-building-your-first-employee-benefits-package/)
-- [Sling TV continues to drop subscribers, loses 55K subscribers in second quarter](https://techcrunch.com/2022/08/03/sling-tv-continues-to-drop-subscribers-loses-55k-subscribers-in-second-quarter/)
-- [Extended early bird savings on TC Disrupt passes end this Friday](https://techcrunch.com/2022/08/03/extended-early-bird-savings-on-tc-disrupt-passes-end-this-friday/)
-- [Apollo 11 relics among 10,000 mementos flying on Artemis 1 moon mission](https://www.space.com/apollo-11-relics-artemis-1-moon-mission/)
-- [TikTok Music’s trademarks spotted in multiple countries, hinting toward global launch plans](https://techcrunch.com/2022/08/03/tiktok-musics-trademarks-spotted-in-multiple-countries-hinting-toward-global-launch-plans/)
+- [Dear Sophie: How long am I required to stay at my current job after I get my green card?](https://techcrunch.com/2022/08/03/dear-sophie-how-long-am-i-required-to-stay-at-my-current-job-after-i-get-my-green-card/)
+- [Former astronauts must chaperone private missions to the International Space Station, NASA says](https://www.space.com/nasa-former-astronauts-lead-private-iss-missions/)
+- [Axiom Space deal will put New Zealand research on the International Space Station](https://www.space.com/axiom-space-new-zealand-international-space-station/)
+- [August&#39;s full moon likely to outshine Perseid meteor shower this year, NASA astronomer says](https://www.space.com/august-full-moon-perseid-meteor-shower-2022/)
+- [a16z now wants to manage the money of the entrepreneurs it backs](https://techcrunch.com/2022/08/03/a16z-now-wants-to-manage-the-money-of-the-entrepreneurs-it-backs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
