@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA will preview its Artemis 1 moon mission this week. Here&#39;s how to watch for free.](https://www.space.com/nasa-artemis-1-moon-mission-preview-webcasts/)
-- [New Russian space chief clarifies comments about International Space Station departure](https://www.space.com/russian-space-chief-clarifies-iss-departure-comments/)
-- [Perseverance Mars rover snags 11th rock sample](https://www.space.com/perseverance-mars-rover-11th-sample-collected/)
-- [Smithsonian to debut reimagined Air and Space Museum galleries on Oct. 14](https://www.space.com/smithsonian-air-space-museum-reopening-date/)
-- [Google backs Indian rewards payments startup Twid](https://techcrunch.com/2022/08/02/twid-series-a-funding-12-million-rakuen-capital-google-reward-points-based-payment-platform/)
+- [Apple alum’s finance operations startup raises funds to expand globally](https://techcrunch.com/2022/08/02/apple-executive-bluecopa-seed-round-2-3-million-finance-operations-automation-blume-ventures/)
+- [TuSimple addresses autonomous truck crash during Q2 earnings call](https://techcrunch.com/2022/08/02/tusimple-addresses-autonomous-truck-crash-during-q1-earnings/)
+- [Ro’s co-founder is leaving the company, last valued at $7 billion](https://techcrunch.com/2022/08/02/ros-co-founder-is-leaving-the-company-last-valued-at-7-billion/)
+- [Spur, a fund of funds, targets $200M to bet on early-stage VC in a downturn](https://techcrunch.com/2022/08/02/spur-fund-of-funds-targets-200m-early-stage-vc-downturn/)
+- [Y Combinator narrows current cohort size by 40%, citing downturn and funding environment](https://techcrunch.com/2022/08/02/y-combinator-narrows-current-cohort-size-by-40-citing-downturn-and-funding-environment/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
