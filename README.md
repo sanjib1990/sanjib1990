@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Axio lands $23M to help companies quantify cyber risk](https://techcrunch.com/2022/08/04/axio-lands-23m-to-help-companies-quantify-cyber-risk/)
+- [Terraforming Mars board game review](https://www.space.com/terraforming-mars-review/)
+- [Atlas V rocket launches missile-detecting satellite for U.S. Space Force](https://www.space.com/atlas-v-sbirs-geo-6-launch-success/)
+- [Best zoom lenses](https://www.space.com/best-zoom-lenses/)
 - [Just how big can a super-Earth get while staying &#39;habitable&#39;?](https://www.space.com/super-earth-exoplanet-habitability-size-constraints/)
-- [Meteors seem to be raining down on New Zealand, but why are some bright green?](https://www.space.com/green-meteors-new-zealand-explained/)
-- [SpaceX will launch South Korea&#39;s 1st moon mission today: Watch live](https://www.space.com/spacex-launch-south-korea-moon-mission-danuri/)
-- [Watch Blue Origin launch 6 people to suborbital space Thursday morning](https://www.space.com/blue-origin-ns-22-space-tourist-flight-webcast/)
-- [Toyota-backed robotaxi unicorn Pony.ai sues ex-employees over trade secrets](https://techcrunch.com/2022/08/03/pony-ai-sues-qingtian-trucking/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
