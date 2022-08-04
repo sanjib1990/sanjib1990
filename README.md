@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rill wants to rethink BI dashboards with embedded database and instant UX](https://techcrunch.com/2022/08/04/rill-wants-to-rethink-bi-dashboards-with-embedded-database-and-instant-ux/)
 - [Blue Origin space tourist launches: Live NS-22 mission updates](https://www.space.com/news/live/blue-origin-mission-updates/)
+- [Gilead Sciences to acquire Oxford University biotech spinout MicroBio for $405M](https://techcrunch.com/2022/08/04/gilead-sciences-to-acquire-oxford-university-biotech-spinout-microbio-for-405m/)
+- [Paramount+ grows to 43 million subscribers as other streaming services fall short](https://techcrunch.com/2022/08/04/paramount-grows-to-43-million-subscribers-as-other-streaming-services-fall-short/)
 - [Kontempo lands fresh capital amid the boom for B2B BNPL](https://techcrunch.com/2022/08/04/kontempo-lands-fresh-capital-amid-the-boom-for-b2b-bnpl/)
-- [European EV rental startup UFODrive launches in San Francisco](https://techcrunch.com/2022/08/04/european-ev-rental-startup-ufodrive-launches-in-san-francisco/)
-- [These Lego Lightyear movie sets will let you build to infinity and beyond!](https://www.space.com/lego-lightyear-movie-sets/)
-- [Former Palantir engineers raise $20M to simplify web3 tooling](https://techcrunch.com/2022/08/04/former-palantir-engineers-raise-20m-to-simplify-web3-tooling/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
