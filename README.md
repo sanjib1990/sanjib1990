@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [From NDA to LOI: What really happens when your startup is being acquired?](https://techcrunch.com/2022/08/04/from-nda-to-loi-what-really-happens-when-your-startup-is-being-acquired/)
-- [Europe&#39;s troubled Mars rover still vital in the search for life on the Red Planet](https://www.space.com/europe-mars-rover-search-for-life/)
-- [Celebrate 10 years of NASA&#39;s Curiosity rover with these incredible images &lpar;gallery&rpar;](https://www.space.com/curiosity-mars-rover-best-images/)
-- [Meet the final five Disrupt Audience Choice roundtable winners](https://techcrunch.com/2022/08/04/meet-the-final-five-disrupt-audience-choice-roundtable-winners/)
-- [Ghost Security emerges from stealth to defend APIs and apps from attackers](https://techcrunch.com/2022/08/04/ghost-security-emerges-from-stealth-to-defend-apis-and-apps-from-attackers/)
+- [VW will roll out a cheaper 2023 ID. 4 EV this fall](https://techcrunch.com/2022/08/04/vw-will-roll-out-a-cheaper-2023-id-4-ev-this-fall/)
+- [Amazon Prime Video launches local service in Nigeria](https://techcrunch.com/2022/08/04/amazon-prime-video-launches-local-service-in-nigeria/)
+- [3 steps tech companies can take to avoid ‘greenwashing’ accusations](https://techcrunch.com/2022/08/04/3-steps-tech-companies-can-take-to-avoid-greenwashing-accusations/)
+- [Buy now, ‘play’ later: Halliday bags $6M seed round led by a16z](https://techcrunch.com/2022/08/04/buy-now-play-later-nfts-metaverse-halliday-bags-6m-in-seed-round-led-by-a16z/)
+- [Let’s check in with Samsung before next week’s Unpacked event](https://techcrunch.com/2022/08/04/lets-check-in-with-samsung-before-next-weeks-unpacked-event/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
