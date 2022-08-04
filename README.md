@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Toyota-backed robotaxi unicorn Pony.ai sues ex-employees over trade secrets](https://techcrunch.com/2022/08/03/pony-ai-sues-qingtian-trucking/)
+- [India withdraws personal data bill that alarmed tech giants](https://techcrunch.com/2022/08/03/india-government-to-withdraw-personal-data-protection-bill/)
 - [Walmart cuts 200 corporate employees, says it will continue hiring in ‘key areas’](https://techcrunch.com/2022/08/03/walmart-cuts-200-corporate-employees-says-it-will-continue-hiring-in-key-areas/)
 - [You can watch 4 different rocket launches in free webcasts Thursday](https://www.space.com/watch-four-rocket-launches-one-day-august-2022/)
 - [Rocket Lab launches US spy satellite on mystery mission](https://www.space.com/rocket-lab-spy-satellite-launch-nrol-199/)
-- [Enter our student video competition and pitch your way to TechCrunch Disrupt](https://techcrunch.com/2022/08/03/enter-our-student-video-competition-and-pitch-your-way-to-techcrunch-disrupt/)
-- [Lyft assured no layoffs were coming — now employees are scrambling for their next gig](https://techcrunch.com/2022/08/03/lyft-assured-no-layoffs-were-coming-now-employees-are-scrambling-for-their-next-gig/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
