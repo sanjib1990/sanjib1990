@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [VW will roll out a cheaper 2023 ID. 4 EV this fall](https://techcrunch.com/2022/08/04/vw-will-roll-out-a-cheaper-2023-id-4-ev-this-fall/)
-- [Amazon Prime Video launches local service in Nigeria](https://techcrunch.com/2022/08/04/amazon-prime-video-launches-local-service-in-nigeria/)
-- [3 steps tech companies can take to avoid ‘greenwashing’ accusations](https://techcrunch.com/2022/08/04/3-steps-tech-companies-can-take-to-avoid-greenwashing-accusations/)
-- [Buy now, ‘play’ later: Halliday bags $6M seed round led by a16z](https://techcrunch.com/2022/08/04/buy-now-play-later-nfts-metaverse-halliday-bags-6m-in-seed-round-led-by-a16z/)
-- [Let’s check in with Samsung before next week’s Unpacked event](https://techcrunch.com/2022/08/04/lets-check-in-with-samsung-before-next-weeks-unpacked-event/)
+- [&#39;The Orville&#39; Season 3 penultimate episode is a bombardment on the senses](https://www.space.com/the-orville-season-3-episode-9-review/)
+- [Perseid meteor shower 2022 webcast: How to watch the &#39;shooting stars&#39; live online](https://www.space.com/perseid-meteor-shower-2022-webcast/)
+- [China launches carbon and ecosystem monitoring satellite &lpar;video&rpar;](https://www.space.com/china-launches-carbon-ecosystem-satellite-tecis-1/)
+- [Europe&#39;s troubled Mars rover still vital in the search for life on the Red Planet](https://www.space.com/europe-mars-rover-search-for-life/)
+- [Celebrate 10 years of NASA&#39;s Curiosity rover with these incredible images &lpar;gallery&rpar;](https://www.space.com/curiosity-mars-rover-best-images/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
