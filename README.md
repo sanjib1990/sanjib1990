@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Top anonymous social app NGL forced to stop tricking its users](https://techcrunch.com/2022/08/04/top-anonymous-social-app-ngl-forced-to-stop-tricking-its-users/)
+- [The road map for building the Uber of climate tech](https://techcrunch.com/2022/08/04/the-road-map-for-building-the-uber-of-climate-tech/)
+- [SpaceX addressing Falcon 9 rocket damage ahead of next NASA astronaut launch](https://www.space.com/spacex-falcon-9-damage-crew-5-mission-launch/)
+- [How to watch and what to expect at the Tesla ‘Cyber Roundup’ annual meeting](https://techcrunch.com/2022/08/04/how-to-watch-what-to-expect-tesla-cyber-roundup-annual-meeting/)
 - [Bill Gates’ Breakthrough Energy backs Terabase’s robot-built solar farms](https://techcrunch.com/2022/08/04/bill-gates-breakthrough-energy-terabase-robot-solar-farms/)
-- [Meta’s threat report highlights clumsy attempt to manipulate Ukraine discourse](https://techcrunch.com/2022/08/04/metas-threat-report-highlights-clumsy-attempt-to-manipulate-ukraine-discourse/)
-- [Sometimes, stealing crypto is the moral choice](https://techcrunch.com/2022/08/04/sometimes-stealing-crypto-is-the-moral-choice/)
-- [NASA moon contractor Masten Space Systems files for bankruptcy: reports](https://www.space.com/nasa-moon-contractor-masten-space-systems-file-bankruptcy/)
-- [Clubhouse begins beta testing private communities called ‘Houses’ to foster curated interactions](https://techcrunch.com/2022/08/04/clubhouse-beta-testing-private-houses/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
