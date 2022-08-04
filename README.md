@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Tutanota cries antitrust foul over Microsoft Teams blocking sign-ups for its email users](https://techcrunch.com/2022/08/04/tutanota-cries-antitrust-foul-over-microsoft-teams-blocking-sign-ups-for-its-email-users/)
-- [Club Feast quietly pivoted to catering and left its consumer customers in a lurch](https://techcrunch.com/2022/08/04/club-feast-quietly-pivoted-to-catering-and-left-its-consumer-customers-in-a-lurch/)
-- [Argentinian fintech infrastructure startup Geopagos leaves the boot straps behind with $35M funding round](https://techcrunch.com/2022/08/04/argentina-fintech-infrastructure-startup-geopagos-ventur/)
-- [Lego Star Wars R2-D2 review](https://www.space.com/lego-star-wars-r2-d2-75308-review/)
-- [Samsung brings Amazon Luna games to its smart TVs and monitors](https://techcrunch.com/2022/08/04/samsung-brings-amazon-luna-games-to-its-smart-tvs-and-monitors/)
+- [Blue Origin space tourist launches: Live NS-22 mission updates](https://www.space.com/news/live/blue-origin-mission-updates/)
+- [Kontempo lands fresh capital amid the boom for B2B BNPL](https://techcrunch.com/2022/08/04/kontempo-lands-fresh-capital-amid-the-boom-for-b2b-bnpl/)
+- [European EV rental startup UFODrive launches in San Francisco](https://techcrunch.com/2022/08/04/european-ev-rental-startup-ufodrive-launches-in-san-francisco/)
+- [These Lego Lightyear movie sets will let you build to infinity and beyond!](https://www.space.com/lego-lightyear-movie-sets/)
+- [Former Palantir engineers raise $20M to simplify web3 tooling](https://techcrunch.com/2022/08/04/former-palantir-engineers-raise-20m-to-simplify-web3-tooling/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
