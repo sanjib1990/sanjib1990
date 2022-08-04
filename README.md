@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Kurtosis raises $20M Series A to give web3 developers ‘a place to play around’](https://techcrunch.com/2022/08/04/daily-crunch-kurtosis-raises-20m-series-a-to-give-web3-developers-a-place-to-play-around/)
+- [Lyft rides post-COVID recovery to record earnings, but faces inflationary headwinds](https://techcrunch.com/2022/08/04/lyft-rides-post-covid-recovery-to-record-earnings-but-faces-inflationary-headwinds/)
+- [&#39;Woohoo! We&#39;re not going to die!&#39; Blue Origin space tourists celebrate successful mission](https://www.space.com/blue-origin-new-shepard-ns-22-reactions/)
+- [HBO, HBO Max and Discovery+ report a combined total of 92.1M subscribers, plans for major restructuring](https://techcrunch.com/2022/08/04/hbo-hbo-max-and-discovery-report-a-combined-total-of-92-1m-subscribers-plans-for-major-restructuring/)
 - [Top anonymous social app NGL forced to stop tricking its users](https://techcrunch.com/2022/08/04/top-anonymous-social-app-ngl-forced-to-stop-tricking-its-users/)
-- [The road map for building the Uber of climate tech](https://techcrunch.com/2022/08/04/the-road-map-for-building-the-uber-of-climate-tech/)
-- [SpaceX addressing Falcon 9 rocket damage ahead of next NASA astronaut launch](https://www.space.com/spacex-falcon-9-damage-crew-5-mission-launch/)
-- [How to watch and what to expect at the Tesla ‘Cyber Roundup’ annual meeting](https://techcrunch.com/2022/08/04/how-to-watch-what-to-expect-tesla-cyber-roundup-annual-meeting/)
-- [Bill Gates’ Breakthrough Energy backs Terabase’s robot-built solar farms](https://techcrunch.com/2022/08/04/bill-gates-breakthrough-energy-terabase-robot-solar-farms/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
