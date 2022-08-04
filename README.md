@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Lyft assured no layoffs were coming. Now employees are scrambling for their next gig.](https://techcrunch.com/2022/08/03/lyft-assured-no-layoffs-were-coming-now-employees-are-scrambling-for-their-next-gig/)
+- [Enter our student video competition and pitch your way to TechCrunch Disrupt](https://techcrunch.com/2022/08/03/enter-our-student-video-competition-and-pitch-your-way-to-techcrunch-disrupt/)
+- [Lyft assured no layoffs were coming — now employees are scrambling for their next gig](https://techcrunch.com/2022/08/03/lyft-assured-no-layoffs-were-coming-now-employees-are-scrambling-for-their-next-gig/)
 - [This startup just raised $320M to make long-term care inside hospitals obsolete](https://techcrunch.com/2022/08/03/this-startup-just-raised-320m-to-make-long-term-care-inside-hospitals-obsolete/)
 - [YC and a16z back virtual reality basketball app Gym Class](https://techcrunch.com/2022/08/03/yc-and-a16z-back-virtual-reality-basketball-app-gym-class/)
 - [Starbucks to unveil its web3-based rewards program next month](https://techcrunch.com/2022/08/03/starbucks-to-unveil-its-web3-based-rewards-program-next-month/)
-- [You can watch 4 different rocket launches in free webcasts Thursday](https://www.space.com/watch-four-rocket-launches-one-day-august-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
