@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Blue Origin space tourist launches: Live NS-22 mission updates](https://www.space.com/news/live/blue-origin-mission-updates/)
-- [Blue Origin launches 6 people on company&#39;s 6th space tourism mission](https://www.space.com/blue-origin-ns-22-space-tourist-flight-success/)
-- [Artemis 1 moon mission readies for crucial test for future crewed flights](https://www.space.com/artemis-1-human-spaceflight-crucial-test/)
-- [These Lego Lightyear movie sets will let you build to infinity and beyond!](https://www.space.com/lego-lightyear-movie-sets/)
-- [How &#39;Lightyear&#39; director Angus MacLane used Lego to inspire the movie&#39;s spaceships &lpar;exclusive clip&rpar;](https://www.space.com/lightyear-exclusive-clip-angus-maclane-lego/)
+- [From NDA to LOI: What really happens when your startup is being acquired?](https://techcrunch.com/2022/08/04/from-nda-to-loi-what-really-happens-when-your-startup-is-being-acquired/)
+- [Europe&#39;s troubled Mars rover still vital in the search for life on the Red Planet](https://www.space.com/europe-mars-rover-search-for-life/)
+- [Celebrate 10 years of NASA&#39;s Curiosity rover with these incredible images &lpar;gallery&rpar;](https://www.space.com/curiosity-mars-rover-best-images/)
+- [Meet the final five Disrupt Audience Choice roundtable winners](https://techcrunch.com/2022/08/04/meet-the-final-five-disrupt-audience-choice-roundtable-winners/)
+- [Ghost Security emerges from stealth to defend APIs and apps from attackers](https://techcrunch.com/2022/08/04/ghost-security-emerges-from-stealth-to-defend-apis-and-apps-from-attackers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
