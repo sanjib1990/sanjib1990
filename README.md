@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Just how big can a super-Earth get while staying &#39;habitable&#39;?](https://www.space.com/super-earth-exoplanet-habitability-size-constraints/)
+- [Meteors seem to be raining down on New Zealand, but why are some bright green?](https://www.space.com/green-meteors-new-zealand-explained/)
+- [SpaceX will launch South Korea&#39;s 1st moon mission today: Watch live](https://www.space.com/spacex-launch-south-korea-moon-mission-danuri/)
+- [Watch Blue Origin launch 6 people to suborbital space Thursday morning](https://www.space.com/blue-origin-ns-22-space-tourist-flight-webcast/)
 - [Toyota-backed robotaxi unicorn Pony.ai sues ex-employees over trade secrets](https://techcrunch.com/2022/08/03/pony-ai-sues-qingtian-trucking/)
-- [India withdraws personal data bill that alarmed tech giants](https://techcrunch.com/2022/08/03/india-government-to-withdraw-personal-data-protection-bill/)
-- [Walmart cuts 200 corporate employees, says it will continue hiring in ‘key areas’](https://techcrunch.com/2022/08/03/walmart-cuts-200-corporate-employees-says-it-will-continue-hiring-in-key-areas/)
-- [You can watch 4 different rocket launches in free webcasts Thursday](https://www.space.com/watch-four-rocket-launches-one-day-august-2022/)
-- [Rocket Lab launches US spy satellite on mystery mission](https://www.space.com/rocket-lab-spy-satellite-launch-nrol-199/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
