@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [On Deck lays off a third of staff after cutting a quarter just months prior](https://techcrunch.com/2022/08/04/on-deck-lays-off-a-third-of-staff-after-cutting-a-quarter-just-months-prior/)
+- [Fish and CHIPs](https://techcrunch.com/2022/08/04/fish-and-chips/)
+- [Pitch Deck Teardown: Glambook’s $2.5 million seed deck](https://techcrunch.com/2022/08/04/sample-seed-pitch-deck-glambook/)
 - [&#39;The Orville&#39; Season 3 penultimate episode is a bombardment on the senses](https://www.space.com/the-orville-season-3-episode-9-review/)
-- [Perseid meteor shower 2022 webcast: How to watch the &#39;shooting stars&#39; live online](https://www.space.com/perseid-meteor-shower-2022-webcast/)
-- [China launches carbon and ecosystem monitoring satellite &lpar;video&rpar;](https://www.space.com/china-launches-carbon-ecosystem-satellite-tecis-1/)
-- [Europe&#39;s troubled Mars rover still vital in the search for life on the Red Planet](https://www.space.com/europe-mars-rover-search-for-life/)
-- [Celebrate 10 years of NASA&#39;s Curiosity rover with these incredible images &lpar;gallery&rpar;](https://www.space.com/curiosity-mars-rover-best-images/)
+- [VW will roll out a cheaper 2023 ID. 4 EV this fall](https://techcrunch.com/2022/08/04/vw-will-roll-out-a-cheaper-2023-id-4-ev-this-fall/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
