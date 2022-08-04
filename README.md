@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Axio lands $23M to help companies quantify cyber risk](https://techcrunch.com/2022/08/04/axio-lands-23m-to-help-companies-quantify-cyber-risk/)
-- [Terraforming Mars board game review](https://www.space.com/terraforming-mars-review/)
-- [Atlas V rocket launches missile-detecting satellite for U.S. Space Force](https://www.space.com/atlas-v-sbirs-geo-6-launch-success/)
-- [Best zoom lenses](https://www.space.com/best-zoom-lenses/)
-- [Just how big can a super-Earth get while staying &#39;habitable&#39;?](https://www.space.com/super-earth-exoplanet-habitability-size-constraints/)
+- [Tutanota cries antitrust foul over Microsoft Teams blocking sign-ups for its email users](https://techcrunch.com/2022/08/04/tutanota-cries-antitrust-foul-over-microsoft-teams-blocking-sign-ups-for-its-email-users/)
+- [Club Feast quietly pivoted to catering and left its consumer customers in a lurch](https://techcrunch.com/2022/08/04/club-feast-quietly-pivoted-to-catering-and-left-its-consumer-customers-in-a-lurch/)
+- [Argentinian fintech infrastructure startup Geopagos leaves the boot straps behind with $35M funding round](https://techcrunch.com/2022/08/04/argentina-fintech-infrastructure-startup-geopagos-ventur/)
+- [Lego Star Wars R2-D2 review](https://www.space.com/lego-star-wars-r2-d2-75308-review/)
+- [Samsung brings Amazon Luna games to its smart TVs and monitors](https://techcrunch.com/2022/08/04/samsung-brings-amazon-luna-games-to-its-smart-tvs-and-monitors/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
