@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [On Deck lays off a third of staff after cutting a quarter just months prior](https://techcrunch.com/2022/08/04/on-deck-lays-off-a-third-of-staff-after-cutting-a-quarter-just-months-prior/)
-- [Fish and CHIPs](https://techcrunch.com/2022/08/04/fish-and-chips/)
-- [Pitch Deck Teardown: Glambook’s $2.5 million seed deck](https://techcrunch.com/2022/08/04/sample-seed-pitch-deck-glambook/)
-- [&#39;The Orville&#39; Season 3 penultimate episode is a bombardment on the senses](https://www.space.com/the-orville-season-3-episode-9-review/)
-- [VW will roll out a cheaper 2023 ID. 4 EV this fall](https://techcrunch.com/2022/08/04/vw-will-roll-out-a-cheaper-2023-id-4-ev-this-fall/)
+- [Bill Gates’ Breakthrough Energy backs Terabase’s robot-built solar farms](https://techcrunch.com/2022/08/04/bill-gates-breakthrough-energy-terabase-robot-solar-farms/)
+- [Meta’s threat report highlights clumsy attempt to manipulate Ukraine discourse](https://techcrunch.com/2022/08/04/metas-threat-report-highlights-clumsy-attempt-to-manipulate-ukraine-discourse/)
+- [Sometimes, stealing crypto is the moral choice](https://techcrunch.com/2022/08/04/sometimes-stealing-crypto-is-the-moral-choice/)
+- [NASA moon contractor Masten Space Systems files for bankruptcy: reports](https://www.space.com/nasa-moon-contractor-masten-space-systems-file-bankruptcy/)
+- [Clubhouse begins beta testing private communities called ‘Houses’ to foster curated interactions](https://techcrunch.com/2022/08/04/clubhouse-beta-testing-private-houses/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
