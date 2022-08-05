@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Startups among entities to face tougher laws as Kenya moves to protect personal data](https://techcrunch.com/2022/08/05/startups-among-entities-to-face-tougher-laws-as-kenya-moves-to-protect-personal-data/)
+- [Get ready for a HBO Max – Discovery+ mashup app in 2023](https://techcrunch.com/2022/08/05/get-ready-for-a-hbo-max-discovery-mashup-app-in-2023/)
 - [The Curiosity rover has been exploring Mars for 10 years. Here&#39;s what we&#39;ve learned.](https://www.space.com/curiosity-mars-rover-10-years-of-science/)
 - [SpaceX team headed to Australia to investigate Dragon space junk crash](https://www.space.com/spacex-dragon-space-junk-australia-investigation/)
 - [Astronomers catch a super-energetic collision of dead stars](https://www.space.com/short-powerful-gamma-ray-beam-collision/)
-- [Damage control for the Perseids: Dark sky opportunities](https://www.space.com/perseids-august-2022-dark-sky-opportunities/)
-- [India seeks antitrust scrutiny of global M&amp;A deals](https://techcrunch.com/2022/08/05/india-seeks-antitrust-influence-over-global-ma-deals/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
