@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The dog days of Disrupt $1300 savings end tonight](https://techcrunch.com/2022/08/05/the-dog-days-of-disrupt-1300-savings-end-tonight/)
-- [TikTok and Bootstrapping and Convoy.com](https://techcrunch.com/2022/08/05/tiktok-and-bootstrapping-and-convoy-com/)
-- [Twitter denies Musk’s countersuit claims with a lot of snark](https://techcrunch.com/2022/08/05/twitter-denies-musks-countersuit-claims-with-a-lot-of-snark/)
-- [Blue Origin space tourist launches: Live NS-22 mission updates](https://www.space.com/news/live/blue-origin-mission-updates/)
-- [Petzl ACTIK CORE 450 headlamp review](https://www.space.com/petzl-actik-core-450-headlamp-review/)
+- [A troubling startup layoff trend has emerged](https://techcrunch.com/2022/08/05/a-troubling-startup-layoff-trend-has-emerged/)
+- [Skywatchers can see debris from spectacular comet outburst this month](https://www.space.com/comet-holmes-outburst-debris-visible-from-earth/)
+- [Solana co-founder says NFTs have ’50 different use cases’ that can onboard millions this year](https://techcrunch.com/2022/08/05/solana-co-founder-says-nfts-have-50-different-use-cases-that-can-onboard-millions-this-year/)
+- [Meta is testing a new livestreaming platform for influencers called ‘Super’](https://techcrunch.com/2022/08/05/meta-testing-livestreaming-platform-influencers-super/)
+- [Chinese space station robot arm tests bring amazing views from orbit](https://www.space.com/china-space-station-wentian-robot-arm-test/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
