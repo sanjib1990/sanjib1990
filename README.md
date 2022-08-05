@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Empathy is essential for building a loyal team, says Kolors co-founder Anca Gardea](https://techcrunch.com/2022/08/05/empathy-is-essential-for-building-a-loyal-team-says-kolors-co-founder-anca-gardea/)
+- [Zenno Astronautics wants to move spacecraft around using electromagnets, not fuel](https://techcrunch.com/2022/08/05/zenno-astronautics-wants-to-move-spacecraft-around-using-electromagnets-not-fuel/)
+- [India eyes a seat at the global M&amp;A table](https://techcrunch.com/2022/08/05/india-seeks-antitrust-influence-over-global-ma-deals/)
+- [How many Long March 5B rockets does China plan to launch?](https://www.space.com/china-long-march-5b/)
 - [Amazon is buying iRobot for $1.7B](https://techcrunch.com/2022/08/05/amazon-is-buying-irobot-for-1-7b/)
-- [DuckDuckGo removes carve-out for Microsoft tracking scripts after securing policy change](https://techcrunch.com/2022/08/05/duckduckgo-microsoft-tracking-scripts/)
-- [Startups among entities to face tougher laws as Kenya moves to protect personal data](https://techcrunch.com/2022/08/05/startups-among-entities-to-face-tougher-laws-as-kenya-moves-to-protect-personal-data/)
-- [Get ready for a HBO Max – Discovery+ mashup app in 2023](https://techcrunch.com/2022/08/05/get-ready-for-a-hbo-max-discovery-mashup-app-in-2023/)
-- [The Curiosity rover has been exploring Mars for 10 years. Here&#39;s what we&#39;ve learned.](https://www.space.com/curiosity-mars-rover-10-years-of-science/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
