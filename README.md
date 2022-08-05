@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX launches South Korea’s first moon mission, an orbiter named Danuri](https://techcrunch.com/2022/08/05/spacex-launches-south-koreas-first-moon-mission-an-orbiter-named-danuri/)
+- [Why an Atlanta-based Black influencer collective swapped their collab house for a studio](https://techcrunch.com/2022/08/05/collab-crew-black-influencer-collective-studio-atlanta/)
 - [Florida braces for crowds for NASA&#39;s Artemis 1 moon mission launch](https://www.space.com/nasa-artemis-1-launch-florida-space-coast-tourists/)
 - [Google’s ‘quantum supremacy’ usurped by researchers using ordinary supercomputer](https://techcrunch.com/2022/08/05/googles-quantum-supremacy-usurped-by-researchers-using-ordinary-supercomputer/)
 - [3 ways to optimize SaaS sales in a downturn](https://techcrunch.com/2022/08/05/3-ways-to-optimize-saas-sales-in-a-downturn/)
-- [Dystopian document thriller game Papers, Please is now available on iPhone and Android](https://techcrunch.com/2022/08/05/dystopian-document-thriller-game-papers-please-available-iphone-android/)
-- [Twitter fixes security bug that exposed at least 5.4 million accounts](https://techcrunch.com/2022/08/05/twitter-zero-day-vulnerability-millions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
