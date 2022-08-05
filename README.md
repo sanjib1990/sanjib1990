@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [China launches mysterious reusable &#39;test spacecraft&#39; to Earth orbit](https://www.space.com/china-launches-reusable-test-spacecraft-mystery-mission/)
+- [The 5 biggest takeaways from Tesla’s Cyber Roundup](https://techcrunch.com/2022/08/04/the-5-biggest-takeaways-from-teslas-cyber-roundup/)
+- [SpaceX launches South Korea&#39;s 1st-ever moon mission, lands rocket at sea](https://www.space.com/spacex-launches-south-korea-moon-mission-danuri/)
 - [Found’s Swathy Prithivi and Atomic’s Jordan Kong on TechCrunch Live](https://techcrunch.com/2022/08/04/founds-swathy-prithivi-and-atomics-jordan-kong-on-techcrunch-live/)
 - [Daily Crunch: Kurtosis raises $20M Series A to give web3 developers ‘a place to play around’](https://techcrunch.com/2022/08/04/daily-crunch-kurtosis-raises-20m-series-a-to-give-web3-developers-a-place-to-play-around/)
-- [Lyft rides post-COVID recovery to record earnings, but faces inflationary headwinds](https://techcrunch.com/2022/08/04/lyft-rides-post-covid-recovery-to-record-earnings-but-faces-inflationary-headwinds/)
-- [&#39;Woohoo! We&#39;re not going to die!&#39; Blue Origin space tourists celebrate successful mission](https://www.space.com/blue-origin-new-shepard-ns-22-reactions/)
-- [HBO, HBO Max and Discovery+ report a combined total of 92.1M subscribers, plans for major restructuring](https://techcrunch.com/2022/08/04/hbo-hbo-max-and-discovery-report-a-combined-total-of-92-1m-subscribers-plans-for-major-restructuring/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
