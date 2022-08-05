@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The party’s over: Tips for tracking and reporting monthly startup expenses and revenue](https://techcrunch.com/2022/08/05/the-partys-over-tips-for-tracking-and-reporting-monthly-startup-expenses-and-revenue/)
-- [Astra cancels Rocket 3 line after multiple launch failures](https://www.space.com/astra-cancels-rocket-3-production-launch-failures/)
-- [Adtech giant Criteo faces $65M fine in France for GDPR consent breaches](https://techcrunch.com/2022/08/05/criteo-gdpr-breaches-cnil/)
-- [TechCrunch+ roundup: Revisit your marketing stack, pitch deck teardown, after the acquisition](https://techcrunch.com/2022/08/05/techcrunch-roundup-revisit-your-marketing-stack-pitch-deck-teardown-after-the-acquisition/)
-- [SpaceX will launch solar wind mission with space telescope in 2025](https://www.space.com/spherex-astrophysics-punch-solar-2025-launch-date/)
+- [Florida braces for crowds for NASA&#39;s Artemis 1 moon mission launch](https://www.space.com/nasa-artemis-1-launch-florida-space-coast-tourists/)
+- [Google’s ‘quantum supremacy’ usurped by researchers using ordinary supercomputer](https://techcrunch.com/2022/08/05/googles-quantum-supremacy-usurped-by-researchers-using-ordinary-supercomputer/)
+- [3 ways to optimize SaaS sales in a downturn](https://techcrunch.com/2022/08/05/3-ways-to-optimize-saas-sales-in-a-downturn/)
+- [Dystopian document thriller game Papers, Please is now available on iPhone and Android](https://techcrunch.com/2022/08/05/dystopian-document-thriller-game-papers-please-available-iphone-android/)
+- [Twitter fixes security bug that exposed at least 5.4 million accounts](https://techcrunch.com/2022/08/05/twitter-zero-day-vulnerability-millions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
