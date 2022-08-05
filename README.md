@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Armed with $19.5M, LiveEO plots a big data course between satellite geospatial information and industry](https://techcrunch.com/2022/08/04/armed-with-19-5m-liveeo-plots-a-big-data-course-between-satellite-geospatial-information-and-industry/)
+- [Pakistan central bank orders startup Tag to refund customers](https://techcrunch.com/2022/08/04/pakistan-central-bank-orders-fintech-tag-to-refund-customers/)
 - [China launches mysterious reusable &#39;test spacecraft&#39; to Earth orbit](https://www.space.com/china-launches-reusable-test-spacecraft-mystery-mission/)
 - [The 5 biggest takeaways from Tesla’s Cyber Roundup](https://techcrunch.com/2022/08/04/the-5-biggest-takeaways-from-teslas-cyber-roundup/)
 - [SpaceX launches South Korea&#39;s 1st-ever moon mission, lands rocket at sea](https://www.space.com/spacex-launches-south-korea-moon-mission-danuri/)
-- [Found’s Swathy Prithivi and Atomic’s Jordan Kong on TechCrunch Live](https://techcrunch.com/2022/08/04/founds-swathy-prithivi-and-atomics-jordan-kong-on-techcrunch-live/)
-- [Daily Crunch: Kurtosis raises $20M Series A to give web3 developers ‘a place to play around’](https://techcrunch.com/2022/08/04/daily-crunch-kurtosis-raises-20m-series-a-to-give-web3-developers-a-place-to-play-around/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
