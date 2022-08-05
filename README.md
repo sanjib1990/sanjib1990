@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Empathy is essential for building a loyal team, says Kolors co-founder Anca Gardea](https://techcrunch.com/2022/08/05/empathy-is-essential-for-building-a-loyal-team-says-kolors-co-founder-anca-gardea/)
-- [Zenno Astronautics wants to move spacecraft around using electromagnets, not fuel](https://techcrunch.com/2022/08/05/zenno-astronautics-wants-to-move-spacecraft-around-using-electromagnets-not-fuel/)
-- [India eyes a seat at the global M&amp;A table](https://techcrunch.com/2022/08/05/india-seeks-antitrust-influence-over-global-ma-deals/)
-- [How many Long March 5B rockets does China plan to launch?](https://www.space.com/china-long-march-5b/)
-- [Amazon is buying iRobot for $1.7B](https://techcrunch.com/2022/08/05/amazon-is-buying-irobot-for-1-7b/)
+- [SpaceX&#39;s astronaut missions for NASA: Live updates](https://www.space.com/nasa-spacex-crew-launches-live-updates/)
+- [A cosmic tango: this distant planet&#39;s very strange orbit points to a violent and chaotic past](https://www.space.com/a-cosmic-tango-this-distant-planets-very-strange-orbit-points-to-a-violent-and-chaotic-past/)
+- [Robinhood’s hangover, YC’s reduction and Uber’s return to form](https://techcrunch.com/2022/08/05/robinhoods-hangover-ycs-reduction-and-ubers-return-to-form/)
+- [Squaring Databricks’ 2021 valuation as it crosses a $1B annual run rate](https://techcrunch.com/2022/08/05/squaring-databricks-2021-valuation-as-it-crosses-a-1b-annual-run-rate/)
+- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
