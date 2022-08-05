@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [A troubling startup layoff trend has emerged](https://techcrunch.com/2022/08/05/a-troubling-startup-layoff-trend-has-emerged/)
+- [SpaceX will launch solar wind mission with space telescope in 2025](https://www.space.com/spherex-astrophysics-punch-solar-2025-launch-date/)
+- [Virgin Galactic pushes 1st commercial passenger flight to spring 2023](https://www.space.com/virgin-galactic-first-commercial-flight-delay-spring-2023/)
 - [Skywatchers can see debris from spectacular comet outburst this month](https://www.space.com/comet-holmes-outburst-debris-visible-from-earth/)
-- [Solana co-founder says NFTs have ’50 different use cases’ that can onboard millions this year](https://techcrunch.com/2022/08/05/solana-co-founder-says-nfts-have-50-different-use-cases-that-can-onboard-millions-this-year/)
-- [Meta is testing a new livestreaming platform for influencers called ‘Super’](https://techcrunch.com/2022/08/05/meta-testing-livestreaming-platform-influencers-super/)
 - [Chinese space station robot arm tests bring amazing views from orbit](https://www.space.com/china-space-station-wentian-robot-arm-test/)
+- [Blue Origin space tourist launches: Live NS-22 mission updates](https://www.space.com/news/live/blue-origin-mission-updates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
