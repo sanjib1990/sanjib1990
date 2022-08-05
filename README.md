@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX&#39;s astronaut missions for NASA: Live updates](https://www.space.com/nasa-spacex-crew-launches-live-updates/)
-- [A cosmic tango: this distant planet&#39;s very strange orbit points to a violent and chaotic past](https://www.space.com/a-cosmic-tango-this-distant-planets-very-strange-orbit-points-to-a-violent-and-chaotic-past/)
-- [Robinhood’s hangover, YC’s reduction and Uber’s return to form](https://techcrunch.com/2022/08/05/robinhoods-hangover-ycs-reduction-and-ubers-return-to-form/)
-- [Squaring Databricks’ 2021 valuation as it crosses a $1B annual run rate](https://techcrunch.com/2022/08/05/squaring-databricks-2021-valuation-as-it-crosses-a-1b-annual-run-rate/)
-- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates/)
+- [The dog days of Disrupt $1300 savings end tonight](https://techcrunch.com/2022/08/05/the-dog-days-of-disrupt-1300-savings-end-tonight/)
+- [TikTok and Bootstrapping and Convoy.com](https://techcrunch.com/2022/08/05/tiktok-and-bootstrapping-and-convoy-com/)
+- [Twitter denies Musk’s countersuit claims with a lot of snark](https://techcrunch.com/2022/08/05/twitter-denies-musks-countersuit-claims-with-a-lot-of-snark/)
+- [Blue Origin space tourist launches: Live NS-22 mission updates](https://www.space.com/news/live/blue-origin-mission-updates/)
+- [Petzl ACTIK CORE 450 headlamp review](https://www.space.com/petzl-actik-core-450-headlamp-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
