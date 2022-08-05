@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Beacon Power Services raises $2.7M to improve electricity access for sub-Saharan African cities](https://techcrunch.com/2022/08/05/beacon-power-services-raises-2-7m-to-improve-electricity-access-for-sub-saharan-african-cities/)
 - [Armed with $19.5M, LiveEO plots a big data course between satellite geospatial information and industry](https://techcrunch.com/2022/08/04/armed-with-19-5m-liveeo-plots-a-big-data-course-between-satellite-geospatial-information-and-industry/)
 - [Pakistan central bank orders startup Tag to refund customers](https://techcrunch.com/2022/08/04/pakistan-central-bank-orders-fintech-tag-to-refund-customers/)
 - [China launches mysterious reusable &#39;test spacecraft&#39; to Earth orbit](https://www.space.com/china-launches-reusable-test-spacecraft-mystery-mission/)
 - [The 5 biggest takeaways from Tesla’s Cyber Roundup](https://techcrunch.com/2022/08/04/the-5-biggest-takeaways-from-teslas-cyber-roundup/)
-- [SpaceX launches South Korea&#39;s 1st-ever moon mission, lands rocket at sea](https://www.space.com/spacex-launches-south-korea-moon-mission-danuri/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
