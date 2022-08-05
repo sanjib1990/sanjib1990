@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The party’s over: Tips for tracking and reporting monthly startup expenses and revenue](https://techcrunch.com/2022/08/05/the-partys-over-tips-for-tracking-and-reporting-monthly-startup-expenses-and-revenue/)
+- [Astra cancels Rocket 3 line after multiple launch failures](https://www.space.com/astra-cancels-rocket-3-production-launch-failures/)
+- [Adtech giant Criteo faces $65M fine in France for GDPR consent breaches](https://techcrunch.com/2022/08/05/criteo-gdpr-breaches-cnil/)
+- [TechCrunch+ roundup: Revisit your marketing stack, pitch deck teardown, after the acquisition](https://techcrunch.com/2022/08/05/techcrunch-roundup-revisit-your-marketing-stack-pitch-deck-teardown-after-the-acquisition/)
 - [SpaceX will launch solar wind mission with space telescope in 2025](https://www.space.com/spherex-astrophysics-punch-solar-2025-launch-date/)
-- [Virgin Galactic pushes 1st commercial passenger flight to spring 2023](https://www.space.com/virgin-galactic-first-commercial-flight-delay-spring-2023/)
-- [Skywatchers can see debris from spectacular comet outburst this month](https://www.space.com/comet-holmes-outburst-debris-visible-from-earth/)
-- [Chinese space station robot arm tests bring amazing views from orbit](https://www.space.com/china-space-station-wentian-robot-arm-test/)
-- [Blue Origin space tourist launches: Live NS-22 mission updates](https://www.space.com/news/live/blue-origin-mission-updates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
