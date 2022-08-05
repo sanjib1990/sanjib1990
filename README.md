@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astra changes strategy and ditches current rocket in the wake of launch debacles](https://techcrunch.com/2022/08/05/astra-changes-strategy-and-ditches-current-rocket-in-the-wake-of-launch-debacles/)
+- [That message from ‘Twitter Support’ is almost certainly fake](https://techcrunch.com/2022/08/05/that-message-from-twitter-support-is-almost-certainly-fake/)
+- [Perseverance Mars rover bags 12th Red Planet rock sample](https://www.space.com/mars-rover-perseverance-12th-rock-sample/)
 - [SpaceX launches South Korea’s first moon mission, an orbiter named Danuri](https://techcrunch.com/2022/08/05/spacex-launches-south-koreas-first-moon-mission-an-orbiter-named-danuri/)
 - [Why an Atlanta-based Black influencer collective swapped their collab house for a studio](https://techcrunch.com/2022/08/05/collab-crew-black-influencer-collective-studio-atlanta/)
-- [Florida braces for crowds for NASA&#39;s Artemis 1 moon mission launch](https://www.space.com/nasa-artemis-1-launch-florida-space-coast-tourists/)
-- [Google’s ‘quantum supremacy’ usurped by researchers using ordinary supercomputer](https://techcrunch.com/2022/08/05/googles-quantum-supremacy-usurped-by-researchers-using-ordinary-supercomputer/)
-- [3 ways to optimize SaaS sales in a downturn](https://techcrunch.com/2022/08/05/3-ways-to-optimize-saas-sales-in-a-downturn/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
