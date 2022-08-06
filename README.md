@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Daily Crunch: Amazon to acquire iRobot in $1.7B all-cash deal](https://techcrunch.com/2022/08/05/daily-crunch-amazon-to-acquire-irobot-in-1-7b-all-cash-deal/)
-- [Streaming royalties are broken, Rashida Tlaib thinks Congress can fix them](https://techcrunch.com/2022/08/05/streaming-royalties-are-broken-rashida-tlaib-thinks-congress-can-fix-them/)
-- [Online-only home solar seller bags $23M, pledging ‘dramatically lower prices’](https://techcrunch.com/2022/08/05/online-only-home-solar-seller-bags-23m-pledging-dramatically-lower-prices/)
 - [NASA&#39;s Artemis 1 moon rocket to roll out Aug. 18 for lunar launch](https://www.space.com/nasa-artemis-1-moon-rocket-rollout-august-18/)
-- [Astra changes strategy and ditches current rocket in the wake of launch debacles](https://techcrunch.com/2022/08/05/astra-changes-strategy-and-ditches-current-rocket-in-the-wake-of-launch-debacles/)
+- [Perseverance Mars rover bags 12th Red Planet rock sample](https://www.space.com/mars-rover-perseverance-12th-rock-sample/)
+- [SpaceX launches South Korea’s first moon mission, an orbiter named Danuri](https://techcrunch.com/2022/08/05/spacex-launches-south-koreas-first-moon-mission-an-orbiter-named-danuri/)
+- [Why an Atlanta-based Black influencer collective swapped their collab house for a studio](https://techcrunch.com/2022/08/05/collab-crew-black-influencer-collective-studio-atlanta/)
+- [Florida braces for crowds for NASA&#39;s Artemis 1 moon mission launch](https://www.space.com/nasa-artemis-1-launch-florida-space-coast-tourists/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
