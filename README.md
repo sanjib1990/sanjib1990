@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Binance says it doesn’t own Indian exchange WazirX, years after acquisition announcement](https://techcrunch.com/2022/08/05/binance-says-it-doesnt-own-indian-exchange-wazirx-years-after-acquisition-announcement/)
+- [Binance and WazirX disagree over ownership two years after acquisition announcement](https://techcrunch.com/2022/08/06/binance-says-it-doesnt-own-indian-exchange-wazirx-years-after-acquisition-announcement/)
 - [Daily Crunch: Amazon to acquire iRobot in $1.7B all-cash deal](https://techcrunch.com/2022/08/05/daily-crunch-amazon-to-acquire-irobot-in-1-7b-all-cash-deal/)
 - [Streaming royalties are broken, Rashida Tlaib thinks Congress can fix them](https://techcrunch.com/2022/08/05/streaming-royalties-are-broken-rashida-tlaib-thinks-congress-can-fix-them/)
 - [Online-only home solar seller bags $23M, pledging ‘dramatically lower prices’](https://techcrunch.com/2022/08/05/online-only-home-solar-seller-bags-23m-pledging-dramatically-lower-prices/)
