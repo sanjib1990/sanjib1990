@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Week in Apps: French developers sue Apple, time spent in apps grows, Instagram adds NFTs](https://techcrunch.com/2022/08/06/this-week-in-apps-french-developers-sue-apple-time-spent-in-apps-grows-instagram-adds-nfts/)
 - [Venture investors to founders: Turn down for what?](https://techcrunch.com/2022/08/06/venture-investors-to-founders-turn-down-for-what/)
 - [Perseverance Mars rover photographs its own landing debris](https://www.space.com/perseverance-mars-rover-photographs-entry-descent-landing-debris/)
 - [The dark matter hypothesis isn&#39;t perfect, but the alternatives are worse](https://www.space.com/dark-matter-hypothesis-bad-alternatives-worse/)
 - [Who you gonna call? Good question](https://techcrunch.com/2022/08/06/who-you-gonna-call-good-question/)
-- [New Red Hat CEO looks to keep things steady while putting own mark on company](https://techcrunch.com/2022/08/06/new-red-hat-ceo-looks-to-keep-things-steady-while-putting-own-mark-on-company/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
