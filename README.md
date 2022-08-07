@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New Indian rocket hits a snag on debut launch](https://www.space.com/india-sslv-rocket-first-launch/)
 - [Amazon buys Roomba’s maker, Bolt vanishes, and YC slims down](https://techcrunch.com/2022/08/06/amazon-buys-roombas-maker-bolt-vanishes-and-yc-slims-down/)
 - [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html/)
 - [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html/)
 - [This Week in Apps: French developers sue Apple, time spent in apps grows, Instagram adds NFTs](https://techcrunch.com/2022/08/06/this-week-in-apps-french-developers-sue-apple-time-spent-in-apps-grows-instagram-adds-nfts/)
-- [Venture investors to founders: Turn down for what?](https://techcrunch.com/2022/08/06/venture-investors-to-founders-turn-down-for-what/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
