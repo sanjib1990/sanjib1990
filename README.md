@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why not all VCs are ready to embrace AI-powered investment tools](https://techcrunch.com/2022/08/07/why-not-all-vcs-are-ready-to-embrace-ai-powered-investment-tools/)
+- [Scientist admits &#39;space telescope&#39; photo is actually chorizo in tasty Twitter prank](https://www.space.com/james-webb-space-telescope-scientist-chorizo-prank/)
+- [Sturgeon Supermoon: August&#39;s Sturgeon Full Moon will be the last of 4 in a row](https://www.space.com/august-full-moon-sturgeon-moon-fourth-final-supermoon-2022/)
 - [Q3 outlook forecasts cloudy days ahead for fintech M&amp;A](https://techcrunch.com/2022/08/07/as-paystand-acquires-yaydoo-should-we-expect-to-see-more-fintech-ma-in-q3/)
 - [On This Day In Space: Aug. 6, 2012: Curiosity Rover Lands on Mars](https://www.space.com/39251-on-this-day-in-space.html/)
-- [NASA, private companies count on market demand for future space stations after ISS](https://www.space.com/nasa-commercial-space-station-rely-on-market-demand/)
-- [Explore a mysterious exoplanet in new video game &#39;Earth&#39;s Shadow&#39;](https://www.space.com/earths-shadow-video-game/)
-- [Buzz Lightyear blasts from &#39;Infinity to Forever&#39; with these cool new U.S. Postal Service stamps](https://www.space.com/buzz-lightyear-us-post-office-stamps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
