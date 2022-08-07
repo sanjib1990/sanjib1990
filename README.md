@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The cybersecurity funding bubble hasn’t burst — but it’s starting to deflate](https://techcrunch.com/2022/08/07/the-cybersecurity-funding-bubble-hasnt-burst-but-its-starting-to-deflate/)
 - [Why not all VCs are ready to embrace AI-powered investment tools](https://techcrunch.com/2022/08/07/why-not-all-vcs-are-ready-to-embrace-ai-powered-investment-tools/)
 - [Scientist admits &#39;space telescope&#39; photo is actually chorizo in tasty Twitter prank](https://www.space.com/james-webb-space-telescope-scientist-chorizo-prank/)
 - [Sturgeon Supermoon: August&#39;s Sturgeon Full Moon will be the last of 4 in a row](https://www.space.com/august-full-moon-sturgeon-moon-fourth-final-supermoon-2022/)
 - [Q3 outlook forecasts cloudy days ahead for fintech M&amp;A](https://techcrunch.com/2022/08/07/as-paystand-acquires-yaydoo-should-we-expect-to-see-more-fintech-ma-in-q3/)
-- [On This Day In Space: Aug. 6, 2012: Curiosity Rover Lands on Mars](https://www.space.com/39251-on-this-day-in-space.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
