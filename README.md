@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [5 reasons why Ukraine’s fintech sector is growing despite war](https://techcrunch.com/2022/08/08/5-reasons-why-ukraines-fintech-sector-is-growing-despite-war/)
-- [Volunteer for work exchange and get a free pass to Disrupt](https://techcrunch.com/2022/08/08/volunteer-for-work-exchange-and-get-a-free-pass-to-disrupt/)
-- [Artemis 1 moon mission launch ticket sales crashed website: report](https://www.space.com/artemis-1-launch-ticket-sales-crash-website/)
-- [Chinese astronauts start testing new space station module &lpar;video&rpar;](https://www.space.com/china-shenzhou-14-astronauts-test-space-station-module/)
-- [Ethereum co-founder sees role diminishing as blockchain becomes increasingly decentralized](https://techcrunch.com/2022/08/08/ethereum-co-founder-sees-role-diminishing-as-blockchain-becomes-increasingly-decentralized/)
+- [HBO Max attempts to fix its notoriously buggy app with oft-requested features](https://techcrunch.com/2022/08/08/hbo-max-attempts-to-fix-its-notoriously-buggy-app-with-oft-requested-features/)
+- [That big climate bill might actually make a difference](https://techcrunch.com/2022/08/08/that-big-climate-bill-might-actually-make-a-difference/)
+- [Perseid meteor shower generates early &#39;shooting stars&#39; &lpar;video&rpar;](https://www.space.com/perseid-meteor-shower-early-shooting-stars-video/)
+- [NASA opens up Artemis moon missions to all astronauts](https://www.space.com/nasa-artemis-moon-missions-open-all-astronauts/)
+- [Apple adds the battery percentage icon back in the latest iOS beta](https://techcrunch.com/2022/08/08/iphone-turn-on-battery-percentage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
