@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [4 principles for building an MVP even if you can’t write a single line of code](https://techcrunch.com/2022/08/08/4-principles-for-building-an-mvp-even-if-you-cant-write-a-single-line-of-code/)
-- [Lyft creates media division to cash in on in-car ads](https://techcrunch.com/2022/08/08/lyft-creates-media-division-to-cash-in-on-in-car-ads/)
-- [Losses at SoftBank’s Vision Funds have consumed nearly all their historical gains](https://techcrunch.com/2022/08/08/losses-at-softbanks-vision-funds-have-consumed-nearly-all-their-historical-gains/)
-- [Kumospace raises new cash to replace physical offices with virtual ones](https://techcrunch.com/2022/08/08/kumospace-raises-new-cash-to-replace-physical-offices-with-virtual-ones/)
-- [Online and Expo Only passes to TechCrunch Disrupt available now](https://techcrunch.com/2022/08/08/online-and-expo-only-passes-to-techcrunch-disrupt-available-now/)
+- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates/)
+- [US Space Force tests robot dogs to patrol Cape Canaveral](https://www.space.com/space-force-robot-dogs-cape-canaveral/)
+- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates/)
+- [US Treasury sanctions Tornado Cash, accused of laundering stolen crypto](https://techcrunch.com/2022/08/08/treasury-tornado-cash-laundering-stolen-crypto/)
+- [Ukraine invasion&#39;s impacts on space exploration: Live updates](https://www.space.com/news/live/russia-ukraine-invasion-space-impacts-updates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
