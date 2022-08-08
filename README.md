@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nikon Action EX 12x50 binoculars review](https://www.space.com/nikon-action-ex-12x50-binoculars-review/)
+- [Bluu Seafood unveils its first lab-grown fish products and readies for regulators](https://techcrunch.com/2022/08/08/bluu-seafood-unveils-its-first-lab-grown-fish-products-and-readies-for-regulators/)
+- [Celestron Nature DX ED 12x50 binoculars review](https://www.space.com/celestron-nature-dx-ed-12x50-binoculars-review/)
 - [Bluechip, an African systems integrator with partners like Microsoft and Oracle, is expanding to Europe](https://techcrunch.com/2022/08/08/bluechip-an-african-systems-integrator-with-partners-like-microsoft-and-oracle-is-expanding-to-europe/)
 - [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html/)
-- [SoftBank cautions startup winter may last longer if unicorn founders don’t accept lower valuations](https://techcrunch.com/2022/08/08/softbank-cautions-startup-winter-may-last-longer-if-unicorn-founders-dont-accept-lower-valuations/)
-- [Baidu to operate fully driverless commercial robotaxi in Wuhan and Chongqing](https://techcrunch.com/2022/08/07/baidu-to-operate-fully-driverless-commercial-robotaxi-in-wuhan-and-chongqing/)
-- [There’s always another nightmarish crypto hack around the corner](https://techcrunch.com/2022/08/07/theres-always-another-nightmarish-crypto-hack-around-the-corner/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
