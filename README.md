@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ethereum co-founder sees role diminishing as blockchain becomes increasingly decentralized](https://techcrunch.com/2022/08/08/ethereum-co-founder-sees-role-diminishing-as-blockchain-becomes-increasingly-decentralized/)
+- [Less than 1% of Netflix’s subscribers want to play its mobile games](https://techcrunch.com/2022/08/08/netflix-mobile-games-report-apptopia/)
+- [Powerful cosmic explosions left abundant stardust in our solar system](https://www.space.com/supernovas-stardust-solar-system/)
 - [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates/)
 - [US Space Force tests robot dogs to patrol Cape Canaveral](https://www.space.com/space-force-robot-dogs-cape-canaveral/)
-- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates/)
-- [US Treasury sanctions Tornado Cash, accused of laundering stolen crypto](https://techcrunch.com/2022/08/08/treasury-tornado-cash-laundering-stolen-crypto/)
-- [Ukraine invasion&#39;s impacts on space exploration: Live updates](https://www.space.com/news/live/russia-ukraine-invasion-space-impacts-updates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
