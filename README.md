@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Miferia wants to expand its wholesale inventory marketplace across Latin America](https://techcrunch.com/2022/08/08/miferia-wants-to-expand-its-wholesale-inventory-marketplace-across-latin-america/)
+- [Ping Identity CEO discusses his company’s long, strange startup trip](https://techcrunch.com/2022/08/08/ping-identity-ceo-discusses-his-companys-long-strange-startup-trip/)
+- [Bitmain co-founder welcomes crypto regulation to restore market confidence](https://techcrunch.com/2022/08/08/bitmain-matrixport-john-ge/)
 - [Google is suing Sonos over patent infringement once again](https://techcrunch.com/2022/08/08/google-is-suing-sonos-over-patent-infringement-once-again/)
 - [Equalum lands new capital to help companies build data pipelines](https://techcrunch.com/2022/08/08/equalum-lands-new-capital-to-help-companies-build-data-pipelines/)
-- [Vista Equity Partners to acquire automated tax compliance company Avalara for $8.4B](https://techcrunch.com/2022/08/08/vista-equity-partners-to-acquire-automated-tax-compliance-company-avalara-for-8-4b/)
-- [On This Day In Space: Aug. 8, 1977: Salyut 5 space station burns up in the atmosphere](https://www.space.com/39251-on-this-day-in-space.html/)
-- [Curious Kids: Is it possible to see what is happening in distant solar systems now?](https://www.space.com/curious-kids-is-it-possible-to-see-what-is-happening-in-distant-solar-systems-now/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
