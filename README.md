@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bluechip, an African systems integrator with partners like Microsoft and Oracle, is expanding to Europe](https://techcrunch.com/2022/08/08/bluechip-an-african-systems-integrator-with-partners-like-microsoft-and-oracle-is-expanding-to-europe/)
+- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html/)
+- [SoftBank cautions startup winter may last longer if unicorn founders don’t accept lower valuations](https://techcrunch.com/2022/08/08/softbank-cautions-startup-winter-may-last-longer-if-unicorn-founders-dont-accept-lower-valuations/)
 - [Baidu to operate fully driverless commercial robotaxi in Wuhan and Chongqing](https://techcrunch.com/2022/08/07/baidu-to-operate-fully-driverless-commercial-robotaxi-in-wuhan-and-chongqing/)
 - [There’s always another nightmarish crypto hack around the corner](https://techcrunch.com/2022/08/07/theres-always-another-nightmarish-crypto-hack-around-the-corner/)
-- [The cybersecurity funding bubble hasn’t burst — but it’s starting to deflate](https://techcrunch.com/2022/08/07/the-cybersecurity-funding-bubble-hasnt-burst-but-its-starting-to-deflate/)
-- [Why not all VCs are ready to embrace AI-powered investment tools](https://techcrunch.com/2022/08/07/why-not-all-vcs-are-ready-to-embrace-ai-powered-investment-tools/)
-- [Scientist admits &#39;space telescope&#39; photo is actually chorizo in tasty Twitter prank](https://www.space.com/james-webb-space-telescope-scientist-chorizo-prank/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
