@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [HBO Max attempts to fix its notoriously buggy app with oft-requested features](https://techcrunch.com/2022/08/08/hbo-max-attempts-to-fix-its-notoriously-buggy-app-with-oft-requested-features/)
-- [That big climate bill might actually make a difference](https://techcrunch.com/2022/08/08/that-big-climate-bill-might-actually-make-a-difference/)
-- [Perseid meteor shower generates early &#39;shooting stars&#39; &lpar;video&rpar;](https://www.space.com/perseid-meteor-shower-early-shooting-stars-video/)
-- [NASA opens up Artemis moon missions to all astronauts](https://www.space.com/nasa-artemis-moon-missions-open-all-astronauts/)
-- [Apple adds the battery percentage icon back in the latest iOS beta](https://techcrunch.com/2022/08/08/iphone-turn-on-battery-percentage/)
+- [How 3 tech companies are navigating a complicated macro environment](https://techcrunch.com/2022/08/08/how-3-tech-companies-are-navigating-a-complicated-macro-environment/)
+- [Binance tells estranged partner WazirX customers to move funds, to discontinue off-chain transfer](https://techcrunch.com/2022/08/08/binance-tells-estranged-partner-wazirx-customers-to-move-funds-to-discontinue-off-chain-transfer/)
+- [SpaceX&#39;s Starship Super Heavy rocket returns to launch pad &lpar;photos&rpar;](https://www.space.com/spacex-starship-super-heavy-rocket-rollout-august-2022/)
+- [Groupon cuts over 500 staff as the downturn takes its toll](https://techcrunch.com/2022/08/08/groupon-cuts-over-500-staff-as-the-downturn-takes-its-tolll/)
+- [Surprise solar storm bashes Earth, with a second wave predicted for Monday](https://www.space.com/solar-wind-stream-earth-august-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
