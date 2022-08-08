@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Nikon Action EX 12x50 binoculars review](https://www.space.com/nikon-action-ex-12x50-binoculars-review/)
-- [Bluu Seafood unveils its first lab-grown fish products and readies for regulators](https://techcrunch.com/2022/08/08/bluu-seafood-unveils-its-first-lab-grown-fish-products-and-readies-for-regulators/)
-- [Celestron Nature DX ED 12x50 binoculars review](https://www.space.com/celestron-nature-dx-ed-12x50-binoculars-review/)
-- [Bluechip, an African systems integrator with partners like Microsoft and Oracle, is expanding to Europe](https://techcrunch.com/2022/08/08/bluechip-an-african-systems-integrator-with-partners-like-microsoft-and-oracle-is-expanding-to-europe/)
-- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html/)
+- [Google is suing Sonos over patent infringement once again](https://techcrunch.com/2022/08/08/google-is-suing-sonos-over-patent-infringement-once-again/)
+- [Equalum lands new capital to help companies build data pipelines](https://techcrunch.com/2022/08/08/equalum-lands-new-capital-to-help-companies-build-data-pipelines/)
+- [Vista Equity Partners to acquire automated tax compliance company Avalara for $8.4B](https://techcrunch.com/2022/08/08/vista-equity-partners-to-acquire-automated-tax-compliance-company-avalara-for-8-4b/)
+- [On This Day In Space: Aug. 8, 1977: Salyut 5 space station burns up in the atmosphere](https://www.space.com/39251-on-this-day-in-space.html/)
+- [Curious Kids: Is it possible to see what is happening in distant solar systems now?](https://www.space.com/curious-kids-is-it-possible-to-see-what-is-happening-in-distant-solar-systems-now/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
