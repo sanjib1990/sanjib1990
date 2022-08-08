@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [5 reasons why Ukraine’s fintech sector is growing despite war](https://techcrunch.com/2022/08/08/5-reasons-why-ukraines-fintech-sector-is-growing-despite-war/)
+- [Volunteer for work exchange and get a free pass to Disrupt](https://techcrunch.com/2022/08/08/volunteer-for-work-exchange-and-get-a-free-pass-to-disrupt/)
+- [Artemis 1 moon mission launch ticket sales crashed website: report](https://www.space.com/artemis-1-launch-ticket-sales-crash-website/)
+- [Chinese astronauts start testing new space station module &lpar;video&rpar;](https://www.space.com/china-shenzhou-14-astronauts-test-space-station-module/)
 - [Ethereum co-founder sees role diminishing as blockchain becomes increasingly decentralized](https://techcrunch.com/2022/08/08/ethereum-co-founder-sees-role-diminishing-as-blockchain-becomes-increasingly-decentralized/)
-- [Less than 1% of Netflix’s subscribers want to play its mobile games](https://techcrunch.com/2022/08/08/netflix-mobile-games-report-apptopia/)
-- [Powerful cosmic explosions left abundant stardust in our solar system](https://www.space.com/supernovas-stardust-solar-system/)
-- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates/)
-- [US Space Force tests robot dogs to patrol Cape Canaveral](https://www.space.com/space-force-robot-dogs-cape-canaveral/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
