@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Station: Rounding up the Tesla Cyber Roundup, a Waymo change up and the mysterious disappearance of Bolt Mobility](https://techcrunch.com/2022/08/08/the-station-rounding-up-the-tesla-cyber-roundup-a-waymo-change-up-and-the-mysterious-disappearance-of-bolt-mobility/)
+- [Twilio hacked by phishing campaign targeting internet companies](https://techcrunch.com/2022/08/08/twilio-breach-customer-data/)
+- [Food in space: What do astronauts eat?](https://www.space.com/what-do-astronauts-eat-space-food/)
 - [Miferia wants to expand its wholesale inventory marketplace across Latin America](https://techcrunch.com/2022/08/08/miferia-wants-to-expand-its-wholesale-inventory-marketplace-across-latin-america/)
 - [Ping Identity CEO discusses his company’s long, strange startup trip](https://techcrunch.com/2022/08/08/ping-identity-ceo-discusses-his-companys-long-strange-startup-trip/)
-- [Bitmain co-founder welcomes crypto regulation to restore market confidence](https://techcrunch.com/2022/08/08/bitmain-matrixport-john-ge/)
-- [Google is suing Sonos over patent infringement once again](https://techcrunch.com/2022/08/08/google-is-suing-sonos-over-patent-infringement-once-again/)
-- [Equalum lands new capital to help companies build data pipelines](https://techcrunch.com/2022/08/08/equalum-lands-new-capital-to-help-companies-build-data-pipelines/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
