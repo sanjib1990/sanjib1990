@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The Station: Rounding up the Tesla Cyber Roundup, a Waymo change up and the mysterious disappearance of Bolt Mobility](https://techcrunch.com/2022/08/08/the-station-rounding-up-the-tesla-cyber-roundup-a-waymo-change-up-and-the-mysterious-disappearance-of-bolt-mobility/)
-- [Twilio hacked by phishing campaign targeting internet companies](https://techcrunch.com/2022/08/08/twilio-breach-customer-data/)
-- [Food in space: What do astronauts eat?](https://www.space.com/what-do-astronauts-eat-space-food/)
-- [Miferia wants to expand its wholesale inventory marketplace across Latin America](https://techcrunch.com/2022/08/08/miferia-wants-to-expand-its-wholesale-inventory-marketplace-across-latin-america/)
-- [Ping Identity CEO discusses his company’s long, strange startup trip](https://techcrunch.com/2022/08/08/ping-identity-ceo-discusses-his-companys-long-strange-startup-trip/)
+- [Losses at SoftBank’s Vision Funds have consumed nearly all their historical gains](https://techcrunch.com/2022/08/08/losses-at-softbanks-vision-funds-have-consumed-nearly-all-their-historical-gains/)
+- [Kumospace raises new cash to replace physical offices with virtual ones](https://techcrunch.com/2022/08/08/kumospace-raises-new-cash-to-replace-physical-offices-with-virtual-ones/)
+- [Online and Expo Only passes to TechCrunch Disrupt available now](https://techcrunch.com/2022/08/08/online-and-expo-only-passes-to-techcrunch-disrupt-available-now/)
+- [How to lose money, SoftBank edition](https://techcrunch.com/2022/08/08/how-to-lose-money-softbank-edition/)
+- [Geek+ raises another $100M for its warehouse robots](https://techcrunch.com/2022/08/08/geek-raises-another-100m-for-its-warehouse-robots/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
