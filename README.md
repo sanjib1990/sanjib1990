@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [HACK your way into a job &lpar;resume + website&rpar;](https://www.youtube.com/watch?v=e2h_BreIxaQ)
 - [Docker networking is CRAZY!! &lpar;you NEED to learn it&rpar;](https://www.youtube.com/watch?v=bKFMS5C4CG0)
 - [TensorFlow in 100 Seconds](https://www.youtube.com/watch?v=i8NETqtGHms)
 - [Scratch? Python? C? Kernighan on Languages for Kids Coding - Computerphile](https://www.youtube.com/watch?v=h8LTEFNLZ6M)
 - [How to NOT Fail a Technical Interview](https://www.youtube.com/watch?v=1t1_a1BZ04o)
-- [Tricking AI Image Recognition - Computerphile](https://www.youtube.com/watch?v=gGIiechWEFs)
 <!-- YOUTUBE:END -->
 
 ---
