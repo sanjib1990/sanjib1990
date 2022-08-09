@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Spin Technology raises $16M to protect SaaS apps against attacks](https://techcrunch.com/2022/08/09/spin-technology-raises-16m-to-protect-saas-apps-against-attacks/)
-- [PreciTaste lands cash for tech that checks restaurant orders for accuracy](https://techcrunch.com/2022/08/09/precitaste-lands-cash-for-tech-that-checks-restaurant-orders-for-accuracy/)
-- [South Korea to probe Apple and Google over in-app payment rule break](https://techcrunch.com/2022/08/09/south-korea-to-probe-apple-and-google-over-in-app-payment-rule-break/)
-- [On This Day In Space: Aug. 9 1976:  Soviet Luna 24 sample return probe launches to the moon](https://www.space.com/39251-on-this-day-in-space.html/)
-- [Best sci-fi TV shows of all time](https://www.space.com/best-sci-fi-tv-shows-of-all-time/)
+- [Got ARR? Founderpath wants to help you grow with ‘founder-friendly’ debt financing](https://techcrunch.com/2022/08/09/founderpath-secures-145m-in-debt-and-equity-to-help-b2b-saas-companies-avoid-vc-dilution-and-land-debt/)
+- [ReturnLogic bags new capital to make returning items less of a nightmare](https://techcrunch.com/2022/08/09/returnlogic-bags-new-capital-to-make-returning-items-less-of-a-nightmare/)
+- [Privya helps companies protect data at code level before it goes into production](https://techcrunch.com/2022/08/09/privya-helps-companies-protect-data-at-code-level-before-it-goes-into-production/)
+- [Shopic lands $35M to bring its item-scanning ‘smart cart’ tech to more stores](https://techcrunch.com/2022/08/09/shopic-lands-30m-to-bring-its-item-scanning-smart-cart-tech-to-more-stores/)
+- [‘Selling Sunset’ star Christine Quinn’s brokerage debuts new crypto credit scoring platform](https://techcrunch.com/2022/08/09/selling-sunset-christine-quinn-crypto-credit-score-luxury-real-estate-platform-realopen-realscore/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
