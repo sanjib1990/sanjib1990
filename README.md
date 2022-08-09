@@ -82,7 +82,7 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [2 things you NEED to get a job in IT &lpar;and move UP!!&rpar;](https://www.youtube.com/watch?v=e2h_BreIxaQ)
+- [HACK your way into a job &lpar;no experience required&rpar;](https://www.youtube.com/watch?v=e2h_BreIxaQ)
 - [Docker networking is CRAZY!! &lpar;you NEED to learn it&rpar;](https://www.youtube.com/watch?v=bKFMS5C4CG0)
 - [TensorFlow in 100 Seconds](https://www.youtube.com/watch?v=i8NETqtGHms)
 - [Scratch? Python? C? Kernighan on Languages for Kids Coding - Computerphile](https://www.youtube.com/watch?v=h8LTEFNLZ6M)
