@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [In Africa, Kenyan startups have so far recorded highest funding growth this year](https://techcrunch.com/2022/08/09/in-africa-kenyan-startups-have-so-far-recorded-highest-funding-growth-this-year/)
+- [How an Armenian startup plans to use a new innovation to tackle the billion-dollar phishing industry](https://techcrunch.com/2022/08/09/how-an-armenian-startup-plans-to-use-a-new-innovation-to-tackle-the-billion-dollar-phishing-industry/)
 - [Game firms request India PM Modi ‘uniform and fair treatment to all’ following BGMI ban](https://techcrunch.com/2022/08/09/game-firms-request-india-pm-modi-uniform-and-fair-treatment-to-all-following-bgmi-ban/)
 - [WhatsApp extends time limit to delete a message to 60 hours](https://techcrunch.com/2022/08/09/whatsapp-extends-time-limit-to-delete-a-message-to-60-hours/)
 - [WhatsApp is adding new privacy options, including screenshot blocking and a stealth mode](https://techcrunch.com/2022/08/09/whatsapp-privacy-presence-control-screenshot-blocking/)
-- [Google launches a website version of its Read Along education app for children](https://techcrunch.com/2022/08/09/google-launches-a-website-version-of-its-read-along-education-app-for-children/)
-- [Big funds ‘screwing with Series A market but not seed market’ says veteran VC Mike Hirshland](https://techcrunch.com/2022/08/08/big-funds-screwing-with-series-a-market-but-not-seed-market-says-veteran-vc-mike-hirshland/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
