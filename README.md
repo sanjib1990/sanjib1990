@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Cloud announces upcoming regions in Malaysia, Thailand and New Zealand](https://techcrunch.com/2022/08/09/google-cloud-announces-upcoming-regions-in-malaysia-thailand-and-new-zealand/)
-- [Upper90’s strategy of cutting checks with credit and equity may be more relevant than ever](https://techcrunch.com/2022/08/09/upper90s-strategy-of-cutting-checks-with-credit-and-equity-may-be-more-relevant-than-ever/)
-- [&#39;The Orville&#39; Season 3 finale gives us Moclan mating rituals, Malloy&#39;s missing egg sandwich and more](https://www.space.com/the-orville-season-3-episode-10-review/)
-- [Northrop Grumman picks Firefly to replace Russian engines on Antares rocket](https://www.space.com/northrop-grumman-firefly-replace-russian-engines-antares-rocket/)
-- [President Biden signs CHIPS Act, approving International Space Station extension to 2030](https://www.space.com/international-space-station-extension-2030-chips-act/)
+- [Coinbase’s earnings fall short of expectations as crypto winter rages](https://techcrunch.com/2022/08/09/coinbases-earnings-fall-short-of-expectations-as-crypto-winter-rages/)
+- [How this founder is SaaS-ifying air-quality tracking](https://techcrunch.com/2022/08/09/how-this-founder-is-saas-ifying-air-quality-tracking/)
+- [Full moon calendar 2022: When to see the next full moon](https://www.space.com/16830-full-moon-calendar.html/)
+- [Perseid meteor shower 2022 webcast: Watch the &#39;shooting stars&#39; live online tonight!](https://www.space.com/perseid-meteor-shower-2022-webcast/)
+- [Hootsuite lays off nearly a third of its workforce as CEO tries to ‘refocus’](https://techcrunch.com/2022/08/09/hootsuite-laid-off-nearly-a-third-of-its-workforce-as-ceo-tries-to-refocus/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
