@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [AppLovin wants to buy video game maker Unity for $20 billion](https://techcrunch.com/2022/08/09/applovin-wants-to-buy-video-game-maker-unity-for-20-billion/)
-- [Google’s new campaign attempts to publicly pressure Apple into adopting RCS](https://techcrunch.com/2022/08/09/google-new-campaign-pressure-apple-adopting-rcs/)
-- [Celebrate NASA&#39;s Artemis 1 mission by sharing your &#39;moon snaps&#39;](https://www.space.com/nasa-artemis-1-mission-moon-snaps/)
-- [Muon Space plans a ‘turnkey solution’ for custom Earth observation satellites](https://techcrunch.com/2022/08/09/muon-space-plans-a-turnkey-solution-for-custom-earth-observation-satellites/)
-- [Babylon Health dials back some services in the UK](https://techcrunch.com/2022/08/09/babylon-health-nhs-contracts-ended/)
+- [Retention platform Clevertap bags $105 million in fresh funding](https://techcrunch.com/2022/08/09/retention-platform-clevertap-bags-105-million-in-fresh-funding/)
+- [BMW hedges its EV bet, appears poised to repeat mistakes of the past](https://techcrunch.com/2022/08/09/bmw-hedges-its-ev-bet-appears-poised-to-repeat-mistakes-of-the-past/)
+- [TechCrunch+ roundup: Bridge round bingo, SaaS sales smarts, tracking monthly expenses](https://techcrunch.com/2022/08/09/techcrunch-roundup-bridge-round-bingo-saas-sales-smarts-tracking-monthly-expenses/)
+- [To optimize for growth, study your down-funnel metrics](https://techcrunch.com/2022/08/09/to-optimize-for-growth-study-your-down-funnel-metrics/)
+- [Senator who helped save Hubble donates space telescope collection](https://www.space.com/space-telescope-institute-mikulski-memorabilia-hubble/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
