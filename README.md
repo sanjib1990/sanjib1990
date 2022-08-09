@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TikTok parent ByteDance just bought a hospital group in China](https://techcrunch.com/2022/08/09/tiktok-bytedance-bought-a-hospital-china/)
-- [Spotify’s Soundtrap app for musicians introduces live collaboration and auto save](https://techcrunch.com/2022/08/09/spotifys-soundtrap-app-for-musicians-introduces-live-collaboration-and-auto-save/)
-- [Gepek leverages the power of the sharing economy for same-day deliveries](https://techcrunch.com/2022/08/09/gepek-leverages-the-power-of-the-sharing-economy-for-same-day-deliveries/)
-- [Got ARR? Founderpath wants to help you grow with ‘founder-friendly’ debt financing](https://techcrunch.com/2022/08/09/founderpath-secures-145m-in-debt-and-equity-to-help-b2b-saas-companies-avoid-vc-dilution-and-land-debt/)
-- [ReturnLogic bags new capital to make returning items less of a nightmare](https://techcrunch.com/2022/08/09/returnlogic-bags-new-capital-to-make-returning-items-less-of-a-nightmare/)
+- [Spotify updates its home screen with new discovery feeds for music and podcasts](https://techcrunch.com/2022/08/09/spotify-updates-home-screen-with-new-personalized-discovery-feeds-music-podcasts/)
+- [Truework, which helps lenders verify borrowers’ income and employment, raises $50M](https://techcrunch.com/2022/08/09/truework-which-helps-lenders-verify-borrowers-income-and-employment-raises-50m/)
+- [Portal Ventures closes on $35 million debut fund for early stage crypto startups](https://techcrunch.com/2022/08/09/portal-ventures-closes-its-debut-35-million-fund-for-early-stage-crypto-startups/)
+- [Launch price TC Sessions: Crypto tix going, going…](https://techcrunch.com/2022/08/09/launch-price-tc-sessions-crypto-tix-going-going/)
+- [She Matters app now helps Black women with a variety of postpartum health issues](https://techcrunch.com/2022/08/09/she-matters-app-now-helps-black-women-with-variety-of-postpartum-health-issues/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
