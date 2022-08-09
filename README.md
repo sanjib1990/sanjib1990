@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spin Technology raises $16M to protect SaaS apps against attacks](https://techcrunch.com/2022/08/09/spin-technology-raises-16m-to-protect-saas-apps-against-attacks/)
+- [PreciTaste lands cash for tech that checks restaurant orders for accuracy](https://techcrunch.com/2022/08/09/precitaste-lands-cash-for-tech-that-checks-restaurant-orders-for-accuracy/)
+- [South Korea to probe Apple and Google over in-app payment rule break](https://techcrunch.com/2022/08/09/south-korea-to-probe-apple-and-google-over-in-app-payment-rule-break/)
+- [On This Day In Space: Aug. 9 1976:  Soviet Luna 24 sample return probe launches to the moon](https://www.space.com/39251-on-this-day-in-space.html/)
 - [Best sci-fi TV shows of all time](https://www.space.com/best-sci-fi-tv-shows-of-all-time/)
-- [Ukraine invasion&#39;s impacts on space exploration: Live updates](https://www.space.com/news/live/russia-ukraine-invasion-space-impacts-updates/)
-- [Vaonis Stellina Observation Station Smart telescope review](https://www.space.com/vaonis-stellina-observation-station-smart-telescope-review/)
-- [Best stargazing tents: keep warm and dry when skywatching](https://www.space.com/best-stargazing-tents/)
-- [Russia launches sharp-eyed spy satellite for Iran](https://www.space.com/russia-launches-khayyam-spy-satellite-iran/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
