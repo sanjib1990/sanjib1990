@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hold-outs targeted in fresh batch of noyb GDPR cookie consent complaints](https://techcrunch.com/2022/08/08/noyb-gdpr-cookie-consent-complaints/)
 - [Snapchat officially introduces parental controls through a new ‘Family Center’ feature](https://techcrunch.com/2022/08/08/snapchat-officially-introduces-parental-controls-through-a-new-family-center-feature/)
 - [Accel backs Produze to help agri-producers in India export globally](https://techcrunch.com/2022/08/08/produze-seed-funding-2-6-million-usd-accel-agri-supply-chain-india/)
 - [The iconic Meyers Manx dune buggy makes its return as an EV](https://techcrunch.com/2022/08/08/the-iconic-meyers-manx-dune-buggy-makes-it-return-as-an-ev/)
 - [Boundary Layer skims across the water with a cavalcade of launch partners](https://techcrunch.com/2022/08/08/boundary-layer-launch-partners/)
-- [Haus, a VC-backed aperitif startup, is up for sale after Series A falls through](https://techcrunch.com/2022/08/08/haus-a-vc-backed-apertif-startup-is-up-for-sale-after-series-a-falls-through/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
