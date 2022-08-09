@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [WhatsApp is adding new privacy options, including screenshot blocking and a stealth mode](https://techcrunch.com/2022/08/09/whatsapp-privacy-presence-control-screenshot-blocking/)
+- [Google launches a website version of its Read Along education app for children](https://techcrunch.com/2022/08/09/google-launches-a-website-version-of-its-read-along-education-app-for-children/)
 - [Big funds ‘screwing with Series A market but not seed market’ says veteran VC Mike Hirshland](https://techcrunch.com/2022/08/08/big-funds-screwing-with-series-a-market-but-not-seed-market-says-veteran-vc-mike-hirshland/)
 - [Hold-outs targeted in fresh batch of noyb GDPR cookie consent complaints](https://techcrunch.com/2022/08/08/noyb-gdpr-cookie-consent-complaints/)
 - [Snapchat officially introduces parental controls through a new ‘Family Center’ feature](https://techcrunch.com/2022/08/08/snapchat-officially-introduces-parental-controls-through-a-new-family-center-feature/)
-- [Accel backs Produze to help agri-producers in India export globally](https://techcrunch.com/2022/08/08/produze-seed-funding-2-6-million-usd-accel-agri-supply-chain-india/)
-- [The iconic Meyers Manx dune buggy makes its return as an EV](https://techcrunch.com/2022/08/08/the-iconic-meyers-manx-dune-buggy-makes-it-return-as-an-ev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
