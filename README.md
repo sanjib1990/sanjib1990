@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TikTok parent ByteDance just bought a hospital group in China](https://techcrunch.com/2022/08/09/tiktok-bytedance-bought-a-hospital-china/)
+- [Spotify’s Soundtrap app for musicians introduces live collaboration and auto save](https://techcrunch.com/2022/08/09/spotifys-soundtrap-app-for-musicians-introduces-live-collaboration-and-auto-save/)
+- [Gepek leverages the power of the sharing economy for same-day deliveries](https://techcrunch.com/2022/08/09/gepek-leverages-the-power-of-the-sharing-economy-for-same-day-deliveries/)
 - [Got ARR? Founderpath wants to help you grow with ‘founder-friendly’ debt financing](https://techcrunch.com/2022/08/09/founderpath-secures-145m-in-debt-and-equity-to-help-b2b-saas-companies-avoid-vc-dilution-and-land-debt/)
 - [ReturnLogic bags new capital to make returning items less of a nightmare](https://techcrunch.com/2022/08/09/returnlogic-bags-new-capital-to-make-returning-items-less-of-a-nightmare/)
-- [Privya helps companies protect data at code level before it goes into production](https://techcrunch.com/2022/08/09/privya-helps-companies-protect-data-at-code-level-before-it-goes-into-production/)
-- [Shopic lands $35M to bring its item-scanning ‘smart cart’ tech to more stores](https://techcrunch.com/2022/08/09/shopic-lands-30m-to-bring-its-item-scanning-smart-cart-tech-to-more-stores/)
-- [‘Selling Sunset’ star Christine Quinn’s brokerage debuts new crypto credit scoring platform](https://techcrunch.com/2022/08/09/selling-sunset-christine-quinn-crypto-credit-score-luxury-real-estate-platform-realopen-realscore/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
