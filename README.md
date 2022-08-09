@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [In Africa, Kenyan startups have so far recorded highest funding growth this year](https://techcrunch.com/2022/08/09/in-africa-kenyan-startups-have-so-far-recorded-highest-funding-growth-this-year/)
-- [How an Armenian startup plans to use a new innovation to tackle the billion-dollar phishing industry](https://techcrunch.com/2022/08/09/how-an-armenian-startup-plans-to-use-a-new-innovation-to-tackle-the-billion-dollar-phishing-industry/)
-- [Game firms request India PM Modi ‘uniform and fair treatment to all’ following BGMI ban](https://techcrunch.com/2022/08/09/game-firms-request-india-pm-modi-uniform-and-fair-treatment-to-all-following-bgmi-ban/)
-- [WhatsApp extends time limit to delete a message to 60 hours](https://techcrunch.com/2022/08/09/whatsapp-extends-time-limit-to-delete-a-message-to-60-hours/)
-- [WhatsApp is adding new privacy options, including screenshot blocking and a stealth mode](https://techcrunch.com/2022/08/09/whatsapp-privacy-presence-control-screenshot-blocking/)
+- [Best sci-fi TV shows of all time](https://www.space.com/best-sci-fi-tv-shows-of-all-time/)
+- [Ukraine invasion&#39;s impacts on space exploration: Live updates](https://www.space.com/news/live/russia-ukraine-invasion-space-impacts-updates/)
+- [Vaonis Stellina Observation Station Smart telescope review](https://www.space.com/vaonis-stellina-observation-station-smart-telescope-review/)
+- [Best stargazing tents: keep warm and dry when skywatching](https://www.space.com/best-stargazing-tents/)
+- [Russia launches sharp-eyed spy satellite for Iran](https://www.space.com/russia-launches-khayyam-spy-satellite-iran/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
