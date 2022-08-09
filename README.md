@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Accel backs Produze to help agri-producers in India export globally](https://techcrunch.com/2022/08/08/produze-seed-funding-2-6-million-usd-accel-agri-supply-chain-india/)
+- [The iconic Meyers Manx dune buggy makes it return as an EV](https://techcrunch.com/2022/08/08/the-iconic-meyers-manx-dune-buggy-makes-it-return-as-an-ev/)
 - [Boundary Layer skims across the water with a cavalcade of launch partners](https://techcrunch.com/2022/08/08/boundary-layer-launch-partners/)
-- [Haus, a VC-backed apertif startup, is up for sale after Series A falls through](https://techcrunch.com/2022/08/08/haus-a-vc-backed-apertif-startup-is-up-for-sale-after-series-a-falls-through/)
+- [Haus, a VC-backed aperitif startup, is up for sale after Series A falls through](https://techcrunch.com/2022/08/08/haus-a-vc-backed-apertif-startup-is-up-for-sale-after-series-a-falls-through/)
 - [Canoo burns cash in race to hit $1B EV sales goal](https://techcrunch.com/2022/08/08/canoo-burns-cash-in-race-to-hit-1b-ev-sales-goal/)
-- [Daily Crunch: ‘Winter may be longer’ because unicorns won’t accept down rounds, says SoftBank leader](https://techcrunch.com/2022/08/08/daily-crunch-winter-may-be-longer-because-unicorns-wont-accept-down-rounds-says-softbank-leader/)
-- [Weather looks good for SpaceX Starlink launch on Tuesday](https://www.space.com/spacex-starlink-4-26-launch-weather-good/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
