@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AppLovin wants to buy video game maker Unity for $20 billion](https://techcrunch.com/2022/08/09/applovin-wants-to-buy-video-game-maker-unity-for-20-billion/)
+- [Google’s new campaign attempts to publicly pressure Apple into adopting RCS](https://techcrunch.com/2022/08/09/google-new-campaign-pressure-apple-adopting-rcs/)
+- [Celebrate NASA&#39;s Artemis 1 mission by sharing your &#39;moon snaps&#39;](https://www.space.com/nasa-artemis-1-mission-moon-snaps/)
+- [Muon Space plans a ‘turnkey solution’ for custom Earth observation satellites](https://techcrunch.com/2022/08/09/muon-space-plans-a-turnkey-solution-for-custom-earth-observation-satellites/)
 - [Babylon Health dials back some services in the UK](https://techcrunch.com/2022/08/09/babylon-health-nhs-contracts-ended/)
-- [Say hello to the kickass final agenda for the TechCrunch+ stage at Disrupt 2022](https://techcrunch.com/2022/08/09/say-hello-to-the-kickass-final-agenda-for-the-techcrunch-stage-at-disrupt-2022/)
-- [Spotify updates its home screen with new discovery feeds for music and podcasts](https://techcrunch.com/2022/08/09/spotify-updates-home-screen-with-new-personalized-discovery-feeds-music-podcasts/)
-- [Truework, which helps lenders verify borrowers’ income and employment, raises $50M](https://techcrunch.com/2022/08/09/truework-which-helps-lenders-verify-borrowers-income-and-employment-raises-50m/)
-- [Portal Ventures closes on $35 million debut fund for early stage crypto startups](https://techcrunch.com/2022/08/09/portal-ventures-closes-its-debut-35-million-fund-for-early-stage-crypto-startups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
