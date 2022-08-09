@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Businesses including Stitch Fix are already experimenting with DALL-E 2](https://techcrunch.com/2022/08/09/businesses-including-stitch-fix-are-already-experimenting-with-dall-e-2/)
-- [Walmart is reportedly looking at deals with streaming services](https://techcrunch.com/2022/08/09/walmart-streaming-nyt-report/)
-- [Tracking venture capital data to pinpoint the next US startup hot spots](https://techcrunch.com/2022/08/09/tracking-venture-capital-data-to-pinpoint-the-next-us-startup-hot-spots/)
-- [Five Flute annotates hardware product development into the current millennium](https://techcrunch.com/2022/08/09/five-flute-pre-seed/)
-- [Twitter confirms it’s down for some users, says it’s working on a fix](https://techcrunch.com/2022/08/09/twitter-confirms-its-down-for-some-users-says-its-working-on-a-fix/)
+- [Google Cloud announces upcoming regions in Malaysia, Thailand and New Zealand](https://techcrunch.com/2022/08/09/google-cloud-announces-upcoming-regions-in-malaysia-thailand-and-new-zealand/)
+- [Upper90’s strategy of cutting checks with credit and equity may be more relevant than ever](https://techcrunch.com/2022/08/09/upper90s-strategy-of-cutting-checks-with-credit-and-equity-may-be-more-relevant-than-ever/)
+- [&#39;The Orville&#39; Season 3 finale gives us Moclan mating rituals, Malloy&#39;s missing egg sandwich and more](https://www.space.com/the-orville-season-3-episode-10-review/)
+- [Northrop Grumman picks Firefly to replace Russian engines on Antares rocket](https://www.space.com/northrop-grumman-firefly-replace-russian-engines-antares-rocket/)
+- [President Biden signs CHIPS Act, approving International Space Station extension to 2030](https://www.space.com/international-space-station-extension-2030-chips-act/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
