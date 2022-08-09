@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Boundary Layer skims across the water with a cavalcade of launch partners](https://techcrunch.com/2022/08/08/boundary-layer-launch-partners/)
+- [Haus, a VC-backed apertif startup, is up for sale after Series A falls through](https://techcrunch.com/2022/08/08/haus-a-vc-backed-apertif-startup-is-up-for-sale-after-series-a-falls-through/)
 - [Canoo burns cash in race to hit $1B EV sales goal](https://techcrunch.com/2022/08/08/canoo-burns-cash-in-race-to-hit-1b-ev-sales-goal/)
 - [Daily Crunch: ‘Winter may be longer’ because unicorns won’t accept down rounds, says SoftBank leader](https://techcrunch.com/2022/08/08/daily-crunch-winter-may-be-longer-because-unicorns-wont-accept-down-rounds-says-softbank-leader/)
 - [Weather looks good for SpaceX Starlink launch on Tuesday](https://www.space.com/spacex-starlink-4-26-launch-weather-good/)
-- [Max Q: Refresh](https://techcrunch.com/2022/08/08/max-q-refresh/)
-- [Twitch founder Justin Kan: Web3 games don’t need to lure players with profit](https://techcrunch.com/2022/08/08/twitch-founder-justin-kan-on-crypto-web3-video-games-business-model-profit-play-to-earn/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
