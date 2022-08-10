@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Launching a weight loss startup and knowing when to pivot, today on TechCrunch Live](https://techcrunch.com/2022/08/10/launching-a-weight-loss-startup-and-knowing-when-to-pivot-today-on-techcrunch-live/)
+- [Nikola taps its president for CEO post](https://techcrunch.com/2022/08/10/nikola-taps-its-president-for-ceo-post/)
+- [Founders, whales, and the sea change in the entrepreneurial energy](https://techcrunch.com/2022/08/10/founders-whales-and-the-sea-change-in-the-entrepreneurial-energy/)
+- [Ford locks in solar energy deal with DTE Energy](https://techcrunch.com/2022/08/10/ford-locks-in-solar-energy-deal-with-dte-energy/)
+- [TechCrunch Live is coming to Minneapolis](https://techcrunch.com/2022/08/10/techcrunch-live-is-coming-to-minneapolis-minnesota/)
 - [SoftBank to trim Alibaba stake to 14.6%, poised to book $34B gain](https://techcrunch.com/2022/08/10/softbank-to-trim-alibaba-stake-to-14-6-poised-to-book-34b-gain/)
-- [Novel Farms flexes its pork loin ‘muscle’ following future equity investment](https://techcrunch.com/2022/08/10/novel-farms-pork-loin/)
-- [Jump Crypto leads Injective’s $40M round to help expand DeFi applications](https://techcrunch.com/2022/08/10/jump-crypto-leads-injectives-40m-round-to-help-expand-defi-applications/)
-- [Cloud security startup Wiz reaches $100M ARR in just 18 months](https://techcrunch.com/2022/08/10/cloud-security-startup-wiz-reaches-100m-arr-in-just-18-months/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
