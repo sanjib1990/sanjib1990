@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX launches 52 Starlink satellites, lands rocket at sea](https://www.space.com/spacex-starlink-group-4-26-launch-rocket-landing/)
+- [Elon Musk sells nearly $7 billion in Tesla shares](https://techcrunch.com/2022/08/09/elon-musk-sells-nearly-7-billion-in-tesla-shares/)
+- [The DOJ is reportedly prepping an antitrust suit against Google over its ad business](https://techcrunch.com/2022/08/09/the-doj-is-reportedly-prepping-an-antitrust-suit-against-google-over-its-ad-business/)
 - [SpaceX fires up Super Heavy booster for 1st time ahead of Starship orbital test flight &lpar;photo&rpar;](https://www.space.com/spacex-starship-super-heavy-first-static-fire/)
 - [Former Twitter employee found guilty of spying for Saudi Arabia](https://techcrunch.com/2022/08/09/twitter-spy-convicted-saudi-arabia/)
-- [SpaceX’s Starship hits another milestone with booster static fire test](https://techcrunch.com/2022/08/09/spacexs-starship-hits-another-milestone-with-booster-static-fire-test/)
-- [Hootsuite lays off nearly a third of its workforce as CEO tries to ‘refocus’](https://techcrunch.com/2022/08/09/hootsuite-laid-off-nearly-a-third-of-its-workforce-as-ceo-tries-to-refocus/)
-- [Facebook helps cops prosecute 17-year-old for abortion](https://techcrunch.com/2022/08/09/facebook-helps-cops-prosecute-17-year-old-for-abortion/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
