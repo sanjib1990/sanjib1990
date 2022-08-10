@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ralph Nader asks NHTSA to recall Tesla’s ‘dangerous and irresponsible’ FSD](https://techcrunch.com/2022/08/10/ralph-nader-asks-nhtsa-to-recall-teslas-dangerous-and-irresponsible-fsd/)
 - [Daily Crunch: Spotify Tickets rollout lets concertgoers buy passes for live gigs](https://techcrunch.com/2022/08/10/daily-crunch-spotify-tickets-rollout-lets-concertgoers-buy-passes-for-live-gigs/)
 - [Pentagon space chief condemns &#39;irresponsible&#39; launch of Russian inspector satellite](https://www.space.com/russia-inspector-satellite-kosmos-2558-irresponsible-behavior/)
 - [Startups, if your CEO isn’t running your fundraising, you’re doing it wrong](https://techcrunch.com/2022/08/10/ceo-fundraising/)
 - [Disney+ soars to 152.1 million subscribers after adding 14.4 million in Q3](https://techcrunch.com/2022/08/10/disney-soars-to-152-1-million-subscribers-after-adding-14-4-million-in-q3/)
-- [A &#39;potentially hazardous&#39; blue-whale-size asteroid will zip through Earth&#39;s orbit on Friday](https://www.space.com/blue-whale-asteroid-zip-past-earth/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
