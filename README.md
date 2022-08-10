@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [iRobot announced a 10% staff cut the same day its Amazon news dropped](https://techcrunch.com/2022/08/09/irobot-announced-a-10-staff-cut-the-same-day-its-amazon-news-dropped/)
-- [Tesla’s next gigafactory might be in Canada](https://techcrunch.com/2022/08/09/teslas-next-gigafactory-might-be-in-canada/)
-- [Daily Crunch: WhatsApp extends its unsend time limit to ‘a little over two days’](https://techcrunch.com/2022/08/09/daily-crunch-whatsapp-extends-its-unsend-time-limit-to-a-little-over-two-days/)
-- [Boulevard books $70M to help beauty and wellness salons with their bookings](https://techcrunch.com/2022/08/09/boulevard-books-70m-to-help-beauty-and-wellness-salons-with-their-bookings/)
-- [Microsoft makes further cuts focused on consumer R&amp;D group](https://techcrunch.com/2022/08/09/microsoft-makes-further-cuts-focused-on-consumer-rd-group/)
+- [SpaceX fires up Super Heavy booster for 1st time ahead of Starship orbital test flight &lpar;photo&rpar;](https://www.space.com/spacex-starship-super-heavy-first-static-fire/)
+- [Former Twitter employee found guilty of spying for Saudi Arabia](https://techcrunch.com/2022/08/09/twitter-spy-convicted-saudi-arabia/)
+- [SpaceX’s Starship hits another milestone with booster static fire test](https://techcrunch.com/2022/08/09/spacexs-starship-hits-another-milestone-with-booster-static-fire-test/)
+- [Hootsuite lays off nearly a third of its workforce as CEO tries to ‘refocus’](https://techcrunch.com/2022/08/09/hootsuite-laid-off-nearly-a-third-of-its-workforce-as-ceo-tries-to-refocus/)
+- [Facebook helps cops prosecute 17-year-old for abortion](https://techcrunch.com/2022/08/09/facebook-helps-cops-prosecute-17-year-old-for-abortion/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
