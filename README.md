@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [With a €43M EU grant and €1.2M from a VC, this startup plans to turn CO2 emissions into gold](https://techcrunch.com/2022/08/10/with-a-e43m-eu-grant-and-e1-2m-from-a-vc-this-startup-plans-to-turn-co2-emissions-into-gold/)
-- [South Africa’s DataProphet closes $10M to scale its AI-as-a-service platform for manufacturers](https://techcrunch.com/2022/08/10/south-africas-dataprophet-closes-10m-to-scale-its-ai-as-a-service-platform-for-manufacturers/)
-- [Snapchat+ arrives in India and it costs just 62 cents](https://techcrunch.com/2022/08/10/snapchat-plus-india-launch-price-features/)
-- [Egyptian startup Convertedin raises $3M, caters to e-commerce brands in MENA and Latin America](https://techcrunch.com/2022/08/09/egyptian-startup-convertedin-raises-3m-caters-to-e-commerce-brands-in-mena-and-latin-america/)
-- [SpaceX launches 52 Starlink satellites, lands rocket at sea](https://www.space.com/spacex-starlink-group-4-26-launch-rocket-landing/)
+- [Big new Chinese rocket lofts 6 experimental satellites on debut launch &lpar;video&rpar;](https://www.space.com/china-lijian-1-rocket-debut-launch-success/)
+- [Scientists spot baby alien planet that might be forming moons](https://www.space.com/planetary-nursery-baby-world-gas-detection/)
+- [Astronomers plan to fish an interstellar meteorite out of the ocean using a massive magnet](https://www.space.com/interstellar-asteroid-fishing-expedition-meteorite/)
+- [The James Webb Space Telescope makes stunning images thanks to these engineering solutions](https://www.space.com/james-webb-space-telescope-engineering-marvels/)
+- [Spotify starts selling live music tickets to fans directly](https://techcrunch.com/2022/08/10/spotify-starts-selling-live-music-tickets-to-fans-directly/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
