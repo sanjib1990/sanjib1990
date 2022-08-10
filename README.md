@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX Starlink satellites face Russia space debris &#39;squalls&#39; in orbit: report](https://www.space.com/spacex-starlink-russia-space-debris-squalls/)
+- [As Telegram grows in size, so does crypto traders’ dependence on the app](https://techcrunch.com/2022/08/10/as-telegram-grows-in-size-so-does-crypto-traders-dependence-on-the-app/)
+- [Apple announces ‘Beats x Kim’ collab, but all I see is shapewear](https://techcrunch.com/2022/08/10/kim-kardashian-apple-beats-fit-pro-collab/)
 - [Jumia shares rise as the company’s e-commerce business revs up in Q2](https://techcrunch.com/2022/08/10/jumia-shares-rise-as-the-companys-e-commerce-business-revs-up-in-q2/)
 - [What does the future look like for e-commerce aggregators?](https://techcrunch.com/2022/08/10/what-does-the-future-look-like-for-e-commerce-aggregators/)
-- [Plex introduces a social experience to its streaming app with launch of ‘Discover Together’](https://techcrunch.com/2022/08/10/plex-introduces-a-social-experience-to-its-streaming-app-with-launch-of-discover-together/)
-- [FCC denies Starlink’s application for $885M subsidy](https://techcrunch.com/2022/08/10/fcc-denies-starlinks-application-for-885m-subsidy/)
-- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
