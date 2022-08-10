@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Violent supermassive black hole with twisting jet may help Milky Way observations](https://www.space.com/black-hole-blazar-twisted-jet-eht/)
-- [Use a scalpel when cutting startup expenses, not an axe](https://techcrunch.com/2022/08/10/use-a-scalpel-not-an-axe-dont-overreact-when-cutting-expenses/)
-- [Celestron Powerseeker 127 EQ review](https://www.space.com/celestron-powerseeker-127eq-telescope-review/)
-- [5 takeaways from Coinbase’s disappointing Q2 results](https://techcrunch.com/2022/08/10/5-takeaways-from-coinbases-disappointing-q2-results/)
-- [Stark wants to make it easier to design accessible websites and software](https://techcrunch.com/2022/08/10/stark-wants-to-change-the-way-companies-make-websites-and-software-accessible/)
+- [How to conduct a reduction in force: Planning, execution and follow-up](https://techcrunch.com/2022/08/10/how-to-conduct-a-reduction-in-force-planning-execution-and-follow-up/)
+- [Amazon expands palm scanning payment tech to 65 more Whole Foods locations](https://techcrunch.com/2022/08/10/amazon-expands-palm-scanning-payment-tech-to-65-more-whole-foods-locations/)
+- [Group of security companies launches open source project to ease data sharing](https://techcrunch.com/2022/08/10/group-of-security-companies-launches-open-source-project-to-ease-data-sharing/)
+- [The best sci-fi movies and TV shows to stream on Netflix in August](https://www.space.com/best-netflix-sci-fi-movies-shows.html/)
+- [Top sci-fi movies and TV shows to watch on Amazon Prime in August](https://www.space.com/best-sci-fi-movies-tv-shows-amazon-prime.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
