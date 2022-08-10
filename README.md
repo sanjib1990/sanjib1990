@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Finix raises $30 million as fintech’s spotlight picks its sides](https://techcrunch.com/2022/08/10/finix-raises-30-million-as-fintechs-spotlight-picks-its-sides/)
+- [Did North Korea lie about its big ICBM test launch?](https://www.space.com/north-korea-lie-icbm-test-march-2022/)
+- [Disney is increasing the price of its ad-free Disney+ subscription to $10.99](https://techcrunch.com/2022/08/10/disney-is-increasing-the-price-of-its-ad-free-disney-subscription-to-10-99/)
 - [SpaceX Starlink satellites face Russia space debris &#39;squalls&#39; in orbit: report](https://www.space.com/spacex-starlink-russia-space-debris-squalls/)
 - [As Telegram grows in size, so does crypto traders’ dependence on the app](https://techcrunch.com/2022/08/10/as-telegram-grows-in-size-so-does-crypto-traders-dependence-on-the-app/)
-- [Apple announces ‘Beats x Kim’ collab, but all I see is shapewear](https://techcrunch.com/2022/08/10/kim-kardashian-apple-beats-fit-pro-collab/)
-- [Jumia shares rise as the company’s e-commerce business revs up in Q2](https://techcrunch.com/2022/08/10/jumia-shares-rise-as-the-companys-e-commerce-business-revs-up-in-q2/)
-- [What does the future look like for e-commerce aggregators?](https://techcrunch.com/2022/08/10/what-does-the-future-look-like-for-e-commerce-aggregators/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
