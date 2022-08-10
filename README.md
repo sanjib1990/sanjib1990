@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Violent supermassive black hole with twisting jet may help Milky Way observations](https://www.space.com/black-hole-blazar-twisted-jet-eht/)
+- [Use a scalpel when cutting startup expenses, not an axe](https://techcrunch.com/2022/08/10/use-a-scalpel-not-an-axe-dont-overreact-when-cutting-expenses/)
+- [Celestron Powerseeker 127 EQ review](https://www.space.com/celestron-powerseeker-127eq-telescope-review/)
 - [5 takeaways from Coinbase’s disappointing Q2 results](https://techcrunch.com/2022/08/10/5-takeaways-from-coinbases-disappointing-q2-results/)
 - [Stark wants to make it easier to design accessible websites and software](https://techcrunch.com/2022/08/10/stark-wants-to-change-the-way-companies-make-websites-and-software-accessible/)
-- [a16z’s Chris Dixon shares his insights on crypto at TechCrunch Disrupt](https://techcrunch.com/2022/08/10/a16zs-chris-dixon-shares-his-insights-on-crypto-at-techcrunch-disrupt/)
-- [LongHash Ventures launches second fund for $100M to support web3 infrastructure](https://techcrunch.com/2022/08/10/longhash-ventures-launches-second-fund-for-100m-to-support-web3-infrastructure/)
-- [QED makes its first African investment, backing Nigerian fintech TeamApt in $50M+ deal](https://techcrunch.com/2022/08/10/fintech-vc-qed-makes-its-first-african-investment-backing-nigerias-teamapt-in-50m-deal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
