@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Expedock cinches Series A to grow its freight paperwork management platform](https://techcrunch.com/2022/08/10/expedock-cinches-series-a-to-grow-its-freight-paperwork-management-platform/)
-- [Weedmaps for Business debuts as a SaaS suite for cannabis retailers and brands](https://techcrunch.com/2022/08/10/weedmaps-for-business-debuts-as-an-end-to-end-saas-suite-for-north-american-cannabis-retailers-and-brands/)
-- [Joby Aviation’s contract with U.S. Air Force expands to include Marines](https://techcrunch.com/2022/08/10/joby-aviations-contract-with-u-s-air-force-expands-to-include-marines/)
-- [Deliveroo eyeing Netherlands exit as losses and challenges grow](https://techcrunch.com/2022/08/10/deliveroo-netherlands-exit/)
-- [On This Day In Space: Aug. 10, 1972: &#39;Great daylight fireball&#39; zooms over North America](https://www.space.com/39251-on-this-day-in-space.html/)
+- [Launching a weight loss startup and knowing when to pivot, today on TechCrunch Live](https://techcrunch.com/2022/08/10/launching-a-weight-loss-startup-and-knowing-when-to-pivot-today-on-techcrunch-live/)
+- [SoftBank to trim Alibaba stake to 14.6%, poised to book $34B gain](https://techcrunch.com/2022/08/10/softbank-to-trim-alibaba-stake-to-14-6-poised-to-book-34b-gain/)
+- [Novel Farms flexes its pork loin ‘muscle’ following future equity investment](https://techcrunch.com/2022/08/10/novel-farms-pork-loin/)
+- [Jump Crypto leads Injective’s $40M round to help expand DeFi applications](https://techcrunch.com/2022/08/10/jump-crypto-leads-injectives-40m-round-to-help-expand-defi-applications/)
+- [Cloud security startup Wiz reaches $100M ARR in just 18 months](https://techcrunch.com/2022/08/10/cloud-security-startup-wiz-reaches-100m-arr-in-just-18-months/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
