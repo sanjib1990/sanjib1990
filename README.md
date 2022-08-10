@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Nanopath is looking to drastically change medical diagnostics](https://techcrunch.com/2022/08/10/nanopath-is-looking-to-drastically-change-medical-diagnostics/)
-- [Meta Portal owners can now use their devices as a second screen for PCs and Macs](https://techcrunch.com/2022/08/10/meta-portal-owners-can-now-use-their-devices-as-a-second-screen-for-pcs-and-macs/)
-- [Not to jinx it, but SaaS valuations appear to be staging a recovery](https://techcrunch.com/2022/08/10/not-to-jinx-it-but-saas-valuations-appear-to-be-staging-a-recovery/)
-- [August new moon 2022: Planet Mercury reaches greatest elongation](https://www.space.com/17561-new-moon-explained-lunar-phases.html/)
-- [How to conduct a reduction in force: Planning, execution and follow-up](https://techcrunch.com/2022/08/10/how-to-conduct-a-reduction-in-force-planning-execution-and-follow-up/)
+- [Jumia shares rise as the company’s e-commerce business revs up in Q2](https://techcrunch.com/2022/08/10/jumia-shares-rise-as-the-companys-e-commerce-business-revs-up-in-q2/)
+- [What does the future look like for e-commerce aggregators?](https://techcrunch.com/2022/08/10/what-does-the-future-look-like-for-e-commerce-aggregators/)
+- [Plex introduces a social experience to its streaming app with launch of ‘Discover Together’](https://techcrunch.com/2022/08/10/plex-introduces-a-social-experience-to-its-streaming-app-with-launch-of-discover-together/)
+- [FCC denies Starlink’s application for $885M subsidy](https://techcrunch.com/2022/08/10/fcc-denies-starlinks-application-for-885m-subsidy/)
+- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
