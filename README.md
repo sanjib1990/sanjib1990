@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nanopath is looking to drastically change medical diagnostics](https://techcrunch.com/2022/08/10/nanopath-is-looking-to-drastically-change-medical-diagnostics/)
+- [Meta Portal owners can now use their devices as a second screen for PCs and Macs](https://techcrunch.com/2022/08/10/meta-portal-owners-can-now-use-their-devices-as-a-second-screen-for-pcs-and-macs/)
+- [Not to jinx it, but SaaS valuations appear to be staging a recovery](https://techcrunch.com/2022/08/10/not-to-jinx-it-but-saas-valuations-appear-to-be-staging-a-recovery/)
+- [August new moon 2022: Planet Mercury reaches greatest elongation](https://www.space.com/17561-new-moon-explained-lunar-phases.html/)
 - [How to conduct a reduction in force: Planning, execution and follow-up](https://techcrunch.com/2022/08/10/how-to-conduct-a-reduction-in-force-planning-execution-and-follow-up/)
-- [Amazon expands palm scanning payment tech to 65 more Whole Foods locations](https://techcrunch.com/2022/08/10/amazon-expands-palm-scanning-payment-tech-to-65-more-whole-foods-locations/)
-- [Group of security companies launches open source project to ease data sharing](https://techcrunch.com/2022/08/10/group-of-security-companies-launches-open-source-project-to-ease-data-sharing/)
-- [The best sci-fi movies and TV shows to stream on Netflix in August](https://www.space.com/best-netflix-sci-fi-movies-shows.html/)
-- [Top sci-fi movies and TV shows to watch on Amazon Prime in August](https://www.space.com/best-sci-fi-movies-tv-shows-amazon-prime.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
