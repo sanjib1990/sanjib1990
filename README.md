@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Finix raises $30 million as fintech’s spotlight picks its sides](https://techcrunch.com/2022/08/10/finix-raises-30-million-as-fintechs-spotlight-picks-its-sides/)
-- [Did North Korea lie about its big ICBM test launch?](https://www.space.com/north-korea-lie-icbm-test-march-2022/)
-- [Disney is increasing the price of its ad-free Disney+ subscription to $10.99](https://techcrunch.com/2022/08/10/disney-is-increasing-the-price-of-its-ad-free-disney-subscription-to-10-99/)
-- [SpaceX Starlink satellites face Russia space debris &#39;squalls&#39; in orbit: report](https://www.space.com/spacex-starlink-russia-space-debris-squalls/)
-- [As Telegram grows in size, so does crypto traders’ dependence on the app](https://techcrunch.com/2022/08/10/as-telegram-grows-in-size-so-does-crypto-traders-dependence-on-the-app/)
+- [Daily Crunch: Spotify Tickets rollout lets concertgoers buy passes for live gigs](https://techcrunch.com/2022/08/10/daily-crunch-spotify-tickets-rollout-lets-concertgoers-buy-passes-for-live-gigs/)
+- [Pentagon space chief condemns &#39;irresponsible&#39; launch of Russian inspector satellite](https://www.space.com/russia-inspector-satellite-kosmos-2558-irresponsible-behavior/)
+- [Startups, if your CEO isn’t running your fundraising, you’re doing it wrong](https://techcrunch.com/2022/08/10/ceo-fundraising/)
+- [Disney+ soars to 152.1 million subscribers after adding 14.4 million in Q3](https://techcrunch.com/2022/08/10/disney-soars-to-152-1-million-subscribers-after-adding-14-4-million-in-q3/)
+- [A &#39;potentially hazardous&#39; blue-whale-size asteroid will zip through Earth&#39;s orbit on Friday](https://www.space.com/blue-whale-asteroid-zip-past-earth/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
