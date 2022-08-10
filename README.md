@@ -97,7 +97,7 @@
 - [SpaceX launches 52 Starlink satellites, lands rocket at sea](https://www.space.com/spacex-starlink-group-4-26-launch-rocket-landing/)
 - [Elon Musk sells nearly $7 billion in Tesla shares](https://techcrunch.com/2022/08/09/elon-musk-sells-nearly-7-billion-in-tesla-shares/)
 - [The DOJ is reportedly prepping an antitrust suit against Google over its ad business](https://techcrunch.com/2022/08/09/the-doj-is-reportedly-prepping-an-antitrust-suit-against-google-over-its-ad-business/)
-- [SpaceX fires up Super Heavy booster for 1st time ahead of Starship orbital test flight &lpar;photo&rpar;](https://www.space.com/spacex-starship-super-heavy-first-static-fire/)
+- [SpaceX fires up Starship and Super Heavy Booster 7 ahead of test flight](https://www.space.com/spacex-starship-super-heavy-first-static-fire/)
 - [Former Twitter employee found guilty of spying for Saudi Arabia](https://techcrunch.com/2022/08/09/twitter-spy-convicted-saudi-arabia/)
 <!-- BLOG-POST-LIST:END -->
 
