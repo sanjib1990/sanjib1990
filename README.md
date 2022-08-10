@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Nikola taps its president for CEO post](https://techcrunch.com/2022/08/10/nikola-taps-its-president-for-ceo-post/)
-- [Founders, whales, and the sea change in the entrepreneurial energy](https://techcrunch.com/2022/08/10/founders-whales-and-the-sea-change-in-the-entrepreneurial-energy/)
-- [Ford locks in solar energy deal with DTE Energy](https://techcrunch.com/2022/08/10/ford-locks-in-solar-energy-deal-with-dte-energy/)
-- [TechCrunch Live is coming to Minneapolis](https://techcrunch.com/2022/08/10/techcrunch-live-is-coming-to-minneapolis-minnesota/)
-- [SoftBank to trim Alibaba stake to 14.6%, poised to book $34B gain](https://techcrunch.com/2022/08/10/softbank-to-trim-alibaba-stake-to-14-6-poised-to-book-34b-gain/)
+- [5 takeaways from Coinbase’s disappointing Q2 results](https://techcrunch.com/2022/08/10/5-takeaways-from-coinbases-disappointing-q2-results/)
+- [Stark wants to make it easier to design accessible websites and software](https://techcrunch.com/2022/08/10/stark-wants-to-change-the-way-companies-make-websites-and-software-accessible/)
+- [a16z’s Chris Dixon shares his insights on crypto at TechCrunch Disrupt](https://techcrunch.com/2022/08/10/a16zs-chris-dixon-shares-his-insights-on-crypto-at-techcrunch-disrupt/)
+- [LongHash Ventures launches second fund for $100M to support web3 infrastructure](https://techcrunch.com/2022/08/10/longhash-ventures-launches-second-fund-for-100m-to-support-web3-infrastructure/)
+- [QED makes its first African investment, backing Nigerian fintech TeamApt in $50M+ deal](https://techcrunch.com/2022/08/10/fintech-vc-qed-makes-its-first-african-investment-backing-nigerias-teamapt-in-50m-deal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
