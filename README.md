@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Big new Chinese rocket lofts 6 experimental satellites on debut launch &lpar;video&rpar;](https://www.space.com/china-lijian-1-rocket-debut-launch-success/)
-- [Scientists spot baby alien planet that might be forming moons](https://www.space.com/planetary-nursery-baby-world-gas-detection/)
-- [Astronomers plan to fish an interstellar meteorite out of the ocean using a massive magnet](https://www.space.com/interstellar-asteroid-fishing-expedition-meteorite/)
-- [The James Webb Space Telescope makes stunning images thanks to these engineering solutions](https://www.space.com/james-webb-space-telescope-engineering-marvels/)
-- [Spotify starts selling live music tickets to fans directly](https://techcrunch.com/2022/08/10/spotify-starts-selling-live-music-tickets-to-fans-directly/)
+- [Expedock cinches Series A to grow its freight paperwork management platform](https://techcrunch.com/2022/08/10/expedock-cinches-series-a-to-grow-its-freight-paperwork-management-platform/)
+- [Weedmaps for Business debuts as a SaaS suite for cannabis retailers and brands](https://techcrunch.com/2022/08/10/weedmaps-for-business-debuts-as-an-end-to-end-saas-suite-for-north-american-cannabis-retailers-and-brands/)
+- [Joby Aviation’s contract with U.S. Air Force expands to include Marines](https://techcrunch.com/2022/08/10/joby-aviations-contract-with-u-s-air-force-expands-to-include-marines/)
+- [Deliveroo eyeing Netherlands exit as losses and challenges grow](https://techcrunch.com/2022/08/10/deliveroo-netherlands-exit/)
+- [On This Day In Space: Aug. 10, 1972: &#39;Great daylight fireball&#39; zooms over North America](https://www.space.com/39251-on-this-day-in-space.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
