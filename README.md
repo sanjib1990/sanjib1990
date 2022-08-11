@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rivian delivers on Q2 revenue, expects loss to widen another $700M](https://techcrunch.com/2022/08/11/rivian-q2-earnings-2022-rivn-losses-revenue-beat/)
+- [How digital health startups are navigating the post-Roe legal landscape](https://techcrunch.com/2022/08/11/how-digital-health-startups-are-navigating-the-post-roe-legal-landscape/)
+- [Betelgeuse is bouncing back from bizarre dimming episode](https://www.space.com/betelgeuse-recovering-from-strange-dimming-episode/)
+- [Teens have abandoned Facebook, Pew study says](https://techcrunch.com/2022/08/11/teens-abandoned-facebook-pew-study/)
 - [Fox-owned Tubi expands its free streaming service to five Latin American countries](https://techcrunch.com/2022/08/11/fox-owned-tubi-expands-its-free-streaming-service-to-five-latin-american-countries/)
-- [Massive iron batteries could be key to displacing natural gas from the grid](https://techcrunch.com/2022/08/11/massive-iron-batteries-could-be-key-to-displacing-natural-gas-from-the-grid/)
-- [Mark Cuban, Mavericks in hot water over Voyager “Ponzi scheme”](https://techcrunch.com/2022/08/11/mark-cuban-mavericks-face-lawsuit-over-crypto-voyager-ponzi-scheme/)
-- [3rd Chinese space station module arrives at spaceport ahead of October launch](https://www.space.com/china-space-station-mengtian-module-arrives-spaceport/)
-- [Google says AI update will improve search result quality in ‘snippets’](https://techcrunch.com/2022/08/11/google-featured-snippets-ai-update/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
