@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pitch Deck Teardown: Five Flute’s $1.2M pre-seed deck](https://techcrunch.com/2022/08/11/sample-pre-seed-pitch-deck-five-flute/)
+- [James Webb Space Telescope catches &#39;impostor&#39; galaxies red-handed](https://www.space.com/james-webb-space-telescope-impostor-distant-galaxies/)
+- [China launches 16 commercial remote sensing and weather satellites](https://www.space.com/china-launches-16-commercial-satellites-august-2022/)
 - [7 investors discuss why edtech startups must go back to basics to survive](https://techcrunch.com/2022/08/11/7-investors-discuss-why-edtech-startups-must-go-back-to-basics-to-survive/)
 - [Edtech isn’t special anymore, and that’s a good thing](https://techcrunch.com/2022/08/11/edtech-isnt-special-anymore-and-thats-a-good-thing/)
-- [Luta Security and Emsisoft discuss how to fight ransomware at Disrupt](https://techcrunch.com/2022/08/11/luta-security-and-emsisoft-discuss-how-to-fight-ransomware-at-disrupt/)
-- [Equatorial Mars is surprisingly dry, NASA&#39;s InSight lander finds](https://www.space.com/mars-insight-lander-little-underground-water/)
-- [SunGreenH2’s nano-scale engineering could double green hydrogen production](https://techcrunch.com/2022/08/11/sungreenh2s-nano-scale-engineering-could-double-green-hydrogen-production/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
