@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [A Tornado &lpar;Cash&rpar; flew around my room](https://techcrunch.com/2022/08/11/chain-reaction-crypto-tornado-cash-coinbase-earnings-binance-wazirx/)
-- [Here’s what you need to get your financials in order if you want to be acquired](https://techcrunch.com/2022/08/11/heres-what-you-need-to-get-your-financials-in-order-if-you-want-to-be-acquired/)
-- [LinkedIn rolls out new tools to give creators more ways to share visual content](https://techcrunch.com/2022/08/11/linkedin-tools-helping-creators-post-visual-content/)
-- [FTC sets the wheels in motion for a major data privacy ruling](https://techcrunch.com/2022/08/11/ftc-sets-the-wheels-in-motion-for-a-major-data-privacy-ruling/)
-- [A newsletter that’s mostly about Amazon and iRobot](https://techcrunch.com/2022/08/11/a-newsletter-thats-mostly-about-amazon-and-irobot/)
+- [Fox-owned Tubi expands its free streaming service to five Latin American countries](https://techcrunch.com/2022/08/11/fox-owned-tubi-expands-its-free-streaming-service-to-five-latin-american-countries/)
+- [Massive iron batteries could be key to displacing natural gas from the grid](https://techcrunch.com/2022/08/11/massive-iron-batteries-could-be-key-to-displacing-natural-gas-from-the-grid/)
+- [Mark Cuban, Mavericks in hot water over Voyager “Ponzi scheme”](https://techcrunch.com/2022/08/11/mark-cuban-mavericks-face-lawsuit-over-crypto-voyager-ponzi-scheme/)
+- [3rd Chinese space station module arrives at spaceport ahead of October launch](https://www.space.com/china-space-station-mengtian-module-arrives-spaceport/)
+- [Google says AI update will improve search result quality in ‘snippets’](https://techcrunch.com/2022/08/11/google-featured-snippets-ai-update/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
