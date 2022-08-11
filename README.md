@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Pitch Deck Teardown: Five Flute’s $1.2M pre-seed deck](https://techcrunch.com/2022/08/11/sample-pre-seed-pitch-deck-five-flute/)
-- [James Webb Space Telescope catches &#39;impostor&#39; galaxies red-handed](https://www.space.com/james-webb-space-telescope-impostor-distant-galaxies/)
-- [China launches 16 commercial remote sensing and weather satellites](https://www.space.com/china-launches-16-commercial-satellites-august-2022/)
-- [7 investors discuss why edtech startups must go back to basics to survive](https://techcrunch.com/2022/08/11/7-investors-discuss-why-edtech-startups-must-go-back-to-basics-to-survive/)
-- [Edtech isn’t special anymore, and that’s a good thing](https://techcrunch.com/2022/08/11/edtech-isnt-special-anymore-and-thats-a-good-thing/)
+- [A Tornado &lpar;Cash&rpar; flew around my room](https://techcrunch.com/2022/08/11/chain-reaction-crypto-tornado-cash-coinbase-earnings-binance-wazirx/)
+- [Here’s what you need to get your financials in order if you want to be acquired](https://techcrunch.com/2022/08/11/heres-what-you-need-to-get-your-financials-in-order-if-you-want-to-be-acquired/)
+- [LinkedIn rolls out new tools to give creators more ways to share visual content](https://techcrunch.com/2022/08/11/linkedin-tools-helping-creators-post-visual-content/)
+- [FTC sets the wheels in motion for a major data privacy ruling](https://techcrunch.com/2022/08/11/ftc-sets-the-wheels-in-motion-for-a-major-data-privacy-ruling/)
+- [A newsletter that’s mostly about Amazon and iRobot](https://techcrunch.com/2022/08/11/a-newsletter-thats-mostly-about-amazon-and-irobot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
