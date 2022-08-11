@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Aramco’s Prosperity7 powers AI drug firm Insilico’s $95M round](https://techcrunch.com/2022/08/10/aramcos-prosperity7-ai-drug-insilicos/)
+- [Launch price TC Sessions: Crypto tix going, going…](https://techcrunch.com/2022/08/10/launch-price-tc-sessions-crypto-tix-going-going/)
 - [This Yale alum wants to build a telemedicine platform expressly for Alzheimer’s disease](https://techcrunch.com/2022/08/10/this-yale-alum-wants-to-build-a-telemedicine-platform-expressly-for-alzheimers-disease/)
 - [SpaceX&#39;s Starship won&#39;t launch on 1st orbital test flight this month](https://www.space.com/spacex-starship-orbital-test-flight-launch-window/)
 - [Mawi launches a patch to track your heart health faster and in real time](https://techcrunch.com/2022/08/10/mawi-patch/)
-- [Ralph Nader asks NHTSA to recall Tesla’s ‘dangerous and irresponsible’ FSD](https://techcrunch.com/2022/08/10/ralph-nader-asks-nhtsa-to-recall-teslas-dangerous-and-irresponsible-fsd/)
-- [Daily Crunch: Spotify Tickets rollout lets concertgoers buy passes for live gigs](https://techcrunch.com/2022/08/10/daily-crunch-spotify-tickets-rollout-lets-concertgoers-buy-passes-for-live-gigs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
