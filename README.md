@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Save up to $140 on Anycubic 3D printers in back-to-school sale - ends August 12](https://www.space.com/anycubic-3d-printers-back-to-school-deals-2022/)
-- [Meta starts testing end-to-end encryption for individual Messenger chats](https://techcrunch.com/2022/08/11/meta-starts-testing-end-to-end-encryption-for-individual-messenger-chats/)
-- [The last supermoon of the year rises tonight: Watch it online for free](https://www.space.com/watch-supermoon-online-webcast-august-2022/)
-- [Facebook avoids a service shut down in Europe for now](https://techcrunch.com/2022/08/11/facebook-europe-shut-down-delay/)
-- [Lego NASA Apollo Saturn V review](https://www.space.com/lego-nasa-apollo-saturn-v-92176-review/)
+- [Arrival slashes production targets to just 20 EV vans as part of restructuring](https://techcrunch.com/2022/08/11/arrival-slashes-production-targets-to-just-20-ev-vans-as-part-of-restructuring/)
+- [Bright fireball over Madrid traced back to comet of origin](https://www.space.com/madrid-fireball-comet-origin-evaluation/)
+- [SaaS startup Stimulus closes oversubscribed $2.5 million seed round](https://techcrunch.com/2022/08/11/saas-startup-stimulus-closes-oversubscribed-2-5-million-seed-round/)
+- [Superblocks secures $37M to help companies build and maintain internal apps](https://techcrunch.com/2022/08/11/superblocks-secures-37m-to-help-companies-build-and-maintain-internal-apps/)
+- [LPs are abandoning the US Midwest this year &lpar;and it doesn’t make sense&rpar;](https://techcrunch.com/2022/08/11/lps-are-abandoning-the-us-midwest-this-year-and-it-doesnt-make-sense/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
