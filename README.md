@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Xiaomi’s new foldable is thinner than Samsung’s and only available in China](https://techcrunch.com/2022/08/11/xiaomis-new-foldable-is-thinner-than-samsungs-and-only-available-in-china/)
 - [Arrival slashes production targets to just 20 EV vans as part of restructuring](https://techcrunch.com/2022/08/11/arrival-slashes-production-targets-to-just-20-ev-vans-as-part-of-restructuring/)
 - [Bright fireball over Madrid traced back to comet of origin](https://www.space.com/madrid-fireball-comet-origin-evaluation/)
 - [SaaS startup Stimulus closes oversubscribed $2.5 million seed round](https://techcrunch.com/2022/08/11/saas-startup-stimulus-closes-oversubscribed-2-5-million-seed-round/)
 - [Superblocks secures $37M to help companies build and maintain internal apps](https://techcrunch.com/2022/08/11/superblocks-secures-37m-to-help-companies-build-and-maintain-internal-apps/)
-- [LPs are abandoning the US Midwest this year &lpar;and it doesn’t make sense&rpar;](https://techcrunch.com/2022/08/11/lps-are-abandoning-the-us-midwest-this-year-and-it-doesnt-make-sense/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
