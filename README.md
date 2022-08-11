@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Xiaomi’s new foldable is thinner than Samsung’s and only available in China](https://techcrunch.com/2022/08/11/xiaomis-new-foldable-is-thinner-than-samsungs-and-only-available-in-china/)
-- [Arrival slashes production targets to just 20 EV vans as part of restructuring](https://techcrunch.com/2022/08/11/arrival-slashes-production-targets-to-just-20-ev-vans-as-part-of-restructuring/)
-- [Bright fireball over Madrid traced back to comet of origin](https://www.space.com/madrid-fireball-comet-origin-evaluation/)
-- [SaaS startup Stimulus closes oversubscribed $2.5 million seed round](https://techcrunch.com/2022/08/11/saas-startup-stimulus-closes-oversubscribed-2-5-million-seed-round/)
-- [Superblocks secures $37M to help companies build and maintain internal apps](https://techcrunch.com/2022/08/11/superblocks-secures-37m-to-help-companies-build-and-maintain-internal-apps/)
+- [Urban Innovation Fund, VMG Catalyst among female-led firms raising new funds](https://techcrunch.com/2022/08/11/urban-innovation-fund-vmg-catalyst-among-female-led-firms-raising-new-funds/)
+- [Orange EV raises a truckload of cash to make yard trucks less dinosaur-y](https://techcrunch.com/2022/08/11/orange-ev/)
+- [Satellite ‘frenemies’ OneWeb and Intelsat partner to bring multi-orbit internet to airlines](https://techcrunch.com/2022/08/11/satellite-frenemies-oneweb-and-intelsat-partner-to-bring-multi-orbit-internet-to-airlines/)
+- [Dropbase can help turn your messy spreadsheet into queryable  SQL database](https://techcrunch.com/2022/08/11/dropbase-can-help-turn-your-messy-spreadsheet-into-queryable-sql-database/)
+- [Parsing Coinbase’s regulatory risk](https://techcrunch.com/2022/08/11/parsing-coinbases-regulatory-risk/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
