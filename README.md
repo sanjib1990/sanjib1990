@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Facebook avoids European blackout as regulators squabble over EU-US data transfers](https://techcrunch.com/2022/08/11/daily-crunch-facebook-avoids-european-blackout-as-regulators-squabble-over-eu-us-data-transfers/)
+- [SpaceX fires up Starship Super Heavy booster again in long engine test](https://www.space.com/spacex-starship-super-heavy-booster-7-long-static-fire/)
 - [Rivian delivers on Q2 revenue, expects loss to widen another $700M](https://techcrunch.com/2022/08/11/rivian-q2-earnings-2022-rivn-losses-revenue-beat/)
 - [How digital health startups are navigating the post-Roe legal landscape](https://techcrunch.com/2022/08/11/how-digital-health-startups-are-navigating-the-post-roe-legal-landscape/)
 - [Betelgeuse is bouncing back from bizarre dimming episode](https://www.space.com/betelgeuse-recovering-from-strange-dimming-episode/)
-- [Teens have abandoned Facebook, Pew study says](https://techcrunch.com/2022/08/11/teens-abandoned-facebook-pew-study/)
-- [Fox-owned Tubi expands its free streaming service to five Latin American countries](https://techcrunch.com/2022/08/11/fox-owned-tubi-expands-its-free-streaming-service-to-five-latin-american-countries/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
