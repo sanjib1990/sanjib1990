@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Urban Innovation Fund, VMG Catalyst among female-led firms raising new funds](https://techcrunch.com/2022/08/11/urban-innovation-fund-vmg-catalyst-among-female-led-firms-raising-new-funds/)
-- [Orange EV raises a truckload of cash to make yard trucks less dinosaur-y](https://techcrunch.com/2022/08/11/orange-ev/)
-- [Satellite ‘frenemies’ OneWeb and Intelsat partner to bring multi-orbit internet to airlines](https://techcrunch.com/2022/08/11/satellite-frenemies-oneweb-and-intelsat-partner-to-bring-multi-orbit-internet-to-airlines/)
-- [Dropbase can help turn your messy spreadsheet into queryable  SQL database](https://techcrunch.com/2022/08/11/dropbase-can-help-turn-your-messy-spreadsheet-into-queryable-sql-database/)
-- [Parsing Coinbase’s regulatory risk](https://techcrunch.com/2022/08/11/parsing-coinbases-regulatory-risk/)
+- [FTX Ventures’ Amy Wu is bringing her blockchain investing expertise to TC Sessions: Crypto](https://techcrunch.com/2022/08/11/ftx-ventures-amy-wu-is-bringing-her-blockchain-investing-expertise-to-tc-sessions-crypto/)
+- [Hubble-servicing NASA astronaut urges human-robot synergy for future moon missions](https://www.space.com/nasa-astronaut-human-robot-synergy-artemis-moon-missions/)
+- [Apple invests in original podcasts to turn into Apple TV+ shows, report says](https://techcrunch.com/2022/08/11/apple-invests-in-original-podcasts-to-turn-into-apple-tv-shows-report-says/)
+- [Meteor showers and shooting stars: Formation and history](https://www.space.com/meteor-showers-shooting-stars.html/)
+- [3 things to watch for on Rivian’s Q2 earnings day](https://techcrunch.com/2022/08/11/3-things-to-watch-for-on-rivians-q2-earnings-day/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
