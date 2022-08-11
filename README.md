@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [FTX Ventures’ Amy Wu is bringing her blockchain investing expertise to TC Sessions: Crypto](https://techcrunch.com/2022/08/11/ftx-ventures-amy-wu-is-bringing-her-blockchain-investing-expertise-to-tc-sessions-crypto/)
-- [Hubble-servicing NASA astronaut urges human-robot synergy for future moon missions](https://www.space.com/nasa-astronaut-human-robot-synergy-artemis-moon-missions/)
-- [Apple invests in original podcasts to turn into Apple TV+ shows, report says](https://techcrunch.com/2022/08/11/apple-invests-in-original-podcasts-to-turn-into-apple-tv-shows-report-says/)
-- [Meteor showers and shooting stars: Formation and history](https://www.space.com/meteor-showers-shooting-stars.html/)
-- [3 things to watch for on Rivian’s Q2 earnings day](https://techcrunch.com/2022/08/11/3-things-to-watch-for-on-rivians-q2-earnings-day/)
+- [7 investors discuss why edtech startups must go back to basics to survive](https://techcrunch.com/2022/08/11/7-investors-discuss-why-edtech-startups-must-go-back-to-basics-to-survive/)
+- [Edtech isn’t special anymore, and that’s a good thing](https://techcrunch.com/2022/08/11/edtech-isnt-special-anymore-and-thats-a-good-thing/)
+- [Luta Security and Emsisoft discuss how to fight ransomware at Disrupt](https://techcrunch.com/2022/08/11/luta-security-and-emsisoft-discuss-how-to-fight-ransomware-at-disrupt/)
+- [Equatorial Mars is surprisingly dry, NASA&#39;s InSight lander finds](https://www.space.com/mars-insight-lander-little-underground-water/)
+- [SunGreenH2’s nano-scale engineering could double green hydrogen production](https://techcrunch.com/2022/08/11/sungreenh2s-nano-scale-engineering-could-double-green-hydrogen-production/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
