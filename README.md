@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Medical simulation platform FundamentalVR raises $20M to help surgeons learn through VR](https://techcrunch.com/2022/08/11/medical-simulation-platform-fundamentalvr-raises-20m-to-help-surgeons-learn-through-vr/)
 - [Aramco’s Prosperity7 powers AI drug firm Insilico’s $95M round](https://techcrunch.com/2022/08/10/aramcos-prosperity7-ai-drug-insilicos/)
 - [Launch price TC Sessions: Crypto tix going, going…](https://techcrunch.com/2022/08/10/launch-price-tc-sessions-crypto-tix-going-going/)
 - [This Yale alum wants to build a telemedicine platform expressly for Alzheimer’s disease](https://techcrunch.com/2022/08/10/this-yale-alum-wants-to-build-a-telemedicine-platform-expressly-for-alzheimers-disease/)
 - [SpaceX&#39;s Starship won&#39;t launch on 1st orbital test flight this month](https://www.space.com/spacex-starship-orbital-test-flight-launch-window/)
-- [Mawi launches a patch to track your heart health faster and in real time](https://techcrunch.com/2022/08/10/mawi-patch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
