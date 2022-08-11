@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A new ‘Institutional Angel’ fund is an example of the UK’s continuing ability to innovate in venture](https://techcrunch.com/2022/08/11/a-new-institutional-angel-fund-is-an-example-of-the-uks-continuing-ability-to-innovate-in-venture/)
+- [Kenyan B2B e-commerce platform Marketforce cut about 9% of staff in reorganization strategy](https://techcrunch.com/2022/08/11/kenyan-b2b-e-commerce-platform-marketforce-cut-about-9-of-staff-in-reorganization-strategy/)
 - [Farther, a wealth tech firm, banks $15M Series A as valuation hits $50M](https://techcrunch.com/2022/08/11/farther-wealth-tech-series-a/)
 - [Explore the weirdest weather in the solar system with All About Space magazine](https://www.space.com/all-about-space-magazine-issue-133/)
 - [Conversational intelligence company Jiminny nabs $16.5M to unlock sales team insights](https://techcrunch.com/2022/08/11/conversational-intelligence-platform-jiminny-nabs-16-5m-to-unlock-insights-in-sales-teams/)
-- [Medical simulation platform FundamentalVR raises $20M to help surgeons learn through VR](https://techcrunch.com/2022/08/11/medical-simulation-platform-fundamentalvr-raises-20m-to-help-surgeons-learn-through-vr/)
-- [Aramco’s Prosperity7 powers AI drug firm Insilico’s $95M round](https://techcrunch.com/2022/08/10/aramcos-prosperity7-ai-drug-insilicos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
