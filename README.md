@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Save up to $140 on Anycubic 3D printers in back-to-school sale - ends August 12](https://www.space.com/anycubic-3d-printers-back-to-school-deals-2022/)
+- [Meta starts testing end-to-end encryption for individual Messenger chats](https://techcrunch.com/2022/08/11/meta-starts-testing-end-to-end-encryption-for-individual-messenger-chats/)
+- [The last supermoon of the year rises tonight: Watch it online for free](https://www.space.com/watch-supermoon-online-webcast-august-2022/)
 - [Facebook avoids a service shut down in Europe for now](https://techcrunch.com/2022/08/11/facebook-europe-shut-down-delay/)
 - [Lego NASA Apollo Saturn V review](https://www.space.com/lego-nasa-apollo-saturn-v-92176-review/)
-- [Star Trek movies in order: Chronological and release](https://www.space.com/star-trek-movies-in-order/)
-- [Google Meet’s new feature lets users consume YouTube and Spotify together](https://techcrunch.com/2022/08/11/google-meets-new-feature-will-let-users-consume-youtube-and-spotify-together/)
-- [Nikon Z fc camera review](https://www.space.com/nikon-z-fc-camera-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
