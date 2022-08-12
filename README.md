@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A month on &#39;Mars&#39;: First journeys](https://www.space.com/month-on-mars-first-journeys/)
+- [The James Webb Space Telescope will study countless planets. Here&#39;s your chance to name one.](https://www.space.com/james-webb-space-telescope-exoplanet-naming-contest/)
+- [Watch SpaceX launch 46 Starlink satellites, land rocket today](https://www.space.com/spacex-starlink-group-3-3-launch-satellites/)
+- [Perseid meteor shower peaking now, but bright moon will get in the way](https://www.space.com/perseid-meteor-shower-2022-peaks-tonight/)
 - [Samsung heir receives presidential pardon in a bid to ‘overcome economic crisis’](https://techcrunch.com/2022/08/12/samsung-heir-receives-presidential-pardon-in-a-bid-to-overcome-economic-crisis/)
-- [Amazon-owned MGM makes a viral video show with surveillance footage from Amazon-owned Ring](https://techcrunch.com/2022/08/11/ring-video-show-amazon-surveillance-wanda-sykes/)
-- [Digital health unicorn Truepill conducts third round of layoffs in 2022](https://techcrunch.com/2022/08/11/digital-health-unicorn-truepill-conducts-third-round-of-layoffs-in-2022/)
-- [Damaged Russian airfield in Crimea spied by satellites &lpar;photos&rpar;](https://www.space.com/damaged-russian-airfield-crimea-satellite-photos/)
-- [Daily Crunch: Facebook avoids European blackout as regulators squabble over EU-US data transfers](https://techcrunch.com/2022/08/11/daily-crunch-facebook-avoids-european-blackout-as-regulators-squabble-over-eu-us-data-transfers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
