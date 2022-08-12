@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Nothing negative about Positive Food’s meal expansion plan after $7M investment](https://techcrunch.com/2022/08/12/positive-food-whole-foods-meal-7m/)
-- [New rules needed to fix growing space debris problem, FCC says](https://www.space.com/space-debris-new-rules-fcc-regulation/)
-- [As other startups slash spending and hoard cash, Databricks hits accelerator](https://techcrunch.com/2022/08/12/as-other-startups-slash-spending-and-hoard-cash-databricks-hits-accelerator/)
-- [Diagnostic Robotics has AI catching health problems before they take you to the ER](https://techcrunch.com/2022/08/12/diagnostic-robotics-has-ai-catching-health-problems-before-they-take-you-to-the-er/)
-- [Wire grabs fresh funding for secure messaging tech that’s big with G7 governments](https://techcrunch.com/2022/08/12/wire-series-c/)
+- [The subscription pie is getting bigger: How to leverage usage-based billing](https://techcrunch.com/2022/08/12/the-subscription-pie-is-getting-bigger-how-to-leverage-usage-based-billing/)
+- [NASA satellite captures Sahara Desert dust plume over the Atlantic Ocean](https://www.space.com/sahara-dust-plume-photographed-from-space/)
+- [How to watch NASA&#39;s Artemis 1 moon mission briefings and megarocket rollout next week](https://www.space.com/artemis-1-nasa-science-rocket-rollout-webcasts/)
+- [FTX Ventures’ Amy Wu is bringing her blockchain investing expertise to TC Sessions: Crypto](https://techcrunch.com/2022/08/12/ftx-ventures-amy-wu-is-bringing-her-blockchain-investing-expertise-to-tc-sessions-crypto/)
+- [FWD: fwd: From the CEO: BeCareful while you BeReal!](https://techcrunch.com/2022/08/12/fwd-fwd-from-the-ceo-becareful-while-you-bereal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
