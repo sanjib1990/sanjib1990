@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This startup is setting a DALL-E 2-like AI free, consequences be damned](https://techcrunch.com/2022/08/12/a-startup-wants-to-democratize-the-tech-behind-dall-e-2-consequences-be-damned/)
 - [Rocket Lab plans another helicopter catch later this year](https://www.space.com/rocket-lab-helicopter-catch-new-attempt-coming/)
 - [TechCrunch+ roundup: Down-funnel growth metrics, RIF planning, is e-commerce aggregation over?](https://techcrunch.com/2022/08/12/techcrunch-roundup-down-funnel-growth-metrics-rif-planning-is-e-commerce-aggregation-over/)
 - [TrashBot uses AI to sort recyclables](https://techcrunch.com/2022/08/12/trashbot-uses-ai-to-sort-recyclables/)
 - [The Silicon Peach is still ripe: Atlanta’s venture ecosystem stands strong](https://techcrunch.com/2022/08/12/the-silicon-peach-is-still-ripe-atlantas-venture-ecosystem-stands-strong/)
-- [Enormous sinkhole wide enough to swallow the White House opens in Chile](https://www.space.com/chile-mining-sinkhole/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
