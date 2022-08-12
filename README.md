@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [India seizes $46 million from crypto exchange Vauld in money-laundering probe](https://techcrunch.com/2022/08/12/india-seizes-46-million-from-crypto-exchange-vauld-in-money-laundering-probe/)
-- [&#39;Strange New Worlds&#39; is officially the most watched Star Trek show on Paramount Plus](https://www.space.com/strange-new-worlds-proves-hit-for-paramount/)
-- [The grocery industry’s shopping list: Inventory management, frictionless checkout, computer vision](https://techcrunch.com/2022/08/12/the-grocery-industrys-shopping-list-inventory-management-frictionless-checkout-computer-vision/)
-- [US unmasks alleged Conti ransomware operative, offers $10M for intel](https://techcrunch.com/2022/08/12/state-conti-ransomware-intelligence/)
-- [Suspected developer of crypto mixer Tornado Cash arrested](https://techcrunch.com/2022/08/12/suspected-tornado-cash-developer-arrested-in-amsterdam/)
+- [The best cloud unicorns aren’t as overvalued as you might think](https://techcrunch.com/2022/08/12/the-best-cloud-unicorns-arent-as-overvalued-as-you-might-think/)
+- [Some frank advice for open-source startups seeking product-market fit](https://techcrunch.com/2022/08/12/some-frank-advice-for-open-source-startups-seeking-product-market-fit/)
+- [So, when is the SoftBank Execution Fund III dropping?](https://techcrunch.com/2022/08/12/so-when-is-the-softbank-execution-fund-iii-dropping/)
+- [On This Day In Space: Aug. 12, 2005: Mars Reconnaissance Orbiter launches to Red Planet](https://www.space.com/39251-on-this-day-in-space.html/)
+- [Sturgeon supermoon stuns viewers around the world &lpar;photos&rpar;](https://www.space.com/sturgeon-supermoon-august-stuns-viewers-world/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
