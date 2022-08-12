@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Silicon Peach is still ripe: Atlanta’s venture ecosystem stands strong](https://techcrunch.com/2022/08/12/the-silicon-peach-is-still-ripe-atlantas-venture-ecosystem-stands-strong/)
+- [EV laggards BMW and Toyota to partner on hydrogen fuel cell vehicles](https://techcrunch.com/2022/08/12/ev-laggards-bmw-and-toyota-to-partner-on-hydrogen-fuel-cell-vehicles/)
+- [Hands-on with Lockdown Mode in iOS 16](https://techcrunch.com/2022/08/12/apple-lockdown-mode-ios-16/)
 - [The subscription pie is getting bigger: How to leverage usage-based billing](https://techcrunch.com/2022/08/12/the-subscription-pie-is-getting-bigger-how-to-leverage-usage-based-billing/)
 - [NASA satellite captures Sahara Desert dust plume over the Atlantic Ocean](https://www.space.com/sahara-dust-plume-photographed-from-space/)
-- [How to watch NASA&#39;s Artemis 1 moon mission briefings and megarocket rollout next week](https://www.space.com/artemis-1-nasa-science-rocket-rollout-webcasts/)
-- [FTX Ventures’ Amy Wu is bringing her blockchain investing expertise to TC Sessions: Crypto](https://techcrunch.com/2022/08/12/ftx-ventures-amy-wu-is-bringing-her-blockchain-investing-expertise-to-tc-sessions-crypto/)
-- [FWD: fwd: From the CEO: BeCareful while you BeReal!](https://techcrunch.com/2022/08/12/fwd-fwd-from-the-ceo-becareful-while-you-bereal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
