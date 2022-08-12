@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India seizes $46 million from crypto exchange Vauld in money-laundering probe](https://techcrunch.com/2022/08/12/india-seizes-46-million-from-crypto-exchange-vauld-in-money-laundering-probe/)
+- [&#39;Strange New Worlds&#39; is officially the most watched Star Trek show on Paramount Plus](https://www.space.com/strange-new-worlds-proves-hit-for-paramount/)
+- [The grocery industry’s shopping list: Inventory management, frictionless checkout, computer vision](https://techcrunch.com/2022/08/12/the-grocery-industrys-shopping-list-inventory-management-frictionless-checkout-computer-vision/)
+- [US unmasks alleged Conti ransomware operative, offers $10M for intel](https://techcrunch.com/2022/08/12/state-conti-ransomware-intelligence/)
 - [Suspected developer of crypto mixer Tornado Cash arrested](https://techcrunch.com/2022/08/12/suspected-tornado-cash-developer-arrested-in-amsterdam/)
-- [Amazon launches AWS Private 5G so companies can build their own 4G mobile networks](https://techcrunch.com/2022/08/12/amazon-launches-aws-private-5g-so-companies-can-build-their-own-on-site-mobile-networks/)
-- [Google fined $40M+ for misleading location-tracking settings on Android](https://techcrunch.com/2022/08/12/google-android-location-tracking-australia/)
-- [A month on &#39;Mars&#39;: First journeys](https://www.space.com/month-on-mars-first-journeys/)
-- [The James Webb Space Telescope will study countless planets. Here&#39;s your chance to name one.](https://www.space.com/james-webb-space-telescope-exoplanet-naming-contest/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
