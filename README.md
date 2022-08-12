@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon-owned MGM makes a viral video show with surveillance footage from Amazon-owned Ring](https://techcrunch.com/2022/08/11/ring-video-show-amazon-surveillance-wanda-sykes/)
 - [Digital health unicorn Truepill conducts third round of layoffs in 2022](https://techcrunch.com/2022/08/11/digital-health-unicorn-truepill-conducts-third-round-of-layoffs-in-2022/)
 - [Damaged Russian airfield in Crimea spied by satellites &lpar;photos&rpar;](https://www.space.com/damaged-russian-airfield-crimea-satellite-photos/)
 - [Daily Crunch: Facebook avoids European blackout as regulators squabble over EU-US data transfers](https://techcrunch.com/2022/08/11/daily-crunch-facebook-avoids-european-blackout-as-regulators-squabble-over-eu-us-data-transfers/)
 - [SpaceX fires up Starship Super Heavy booster again in long engine test](https://www.space.com/spacex-starship-super-heavy-booster-7-long-static-fire/)
-- [Rivian delivers on Q2 revenue, expects loss to widen another $700M](https://techcrunch.com/2022/08/11/rivian-q2-earnings-2022-rivn-losses-revenue-beat/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
