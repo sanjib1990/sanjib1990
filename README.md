@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The best cloud unicorns aren’t as overvalued as you might think](https://techcrunch.com/2022/08/12/the-best-cloud-unicorns-arent-as-overvalued-as-you-might-think/)
-- [Some frank advice for open-source startups seeking product-market fit](https://techcrunch.com/2022/08/12/some-frank-advice-for-open-source-startups-seeking-product-market-fit/)
-- [So, when is the SoftBank Execution Fund III dropping?](https://techcrunch.com/2022/08/12/so-when-is-the-softbank-execution-fund-iii-dropping/)
-- [On This Day In Space: Aug. 12, 2005: Mars Reconnaissance Orbiter launches to Red Planet](https://www.space.com/39251-on-this-day-in-space.html/)
-- [Sturgeon supermoon stuns viewers around the world &lpar;photos&rpar;](https://www.space.com/sturgeon-supermoon-august-stuns-viewers-world/)
+- [Hyundai announces $400M AI, robotics institute powered by Boston Dynamics](https://techcrunch.com/2022/08/12/hyundai-announces-400m-ai-robotics-institute-powered-by-boston-dynamics/)
+- [Felicis, Lux Capital and Upfront Ventures tackle TAM at Disrupt](https://techcrunch.com/2022/08/12/felicis-lux-capital-and-upfront-ventures-tackle-tam-at-disrupt/)
+- [Open source software is needed to prevent future crypto hacks, Polygon CISO says](https://techcrunch.com/2022/08/12/open-source-software-is-needed-to-prevent-future-crypto-hacks-polygon-ciso-says/)
+- [&#39;Gigantic jet&#39; that shot into space may be the most powerful lightning bolt ever detected](https://www.space.com/most-powerful-gigantic-jet-lightning-ever/)
+- [Identifying underserved market segments with Ethena and Homebrew on TechCrunch Live](https://techcrunch.com/2022/08/12/identifying-underserved-market-segments-with-ethena-and-homebrew-on-techcrunch-live/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
