@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Bouncing&#39; universe theory still can&#39;t explain what came first](https://www.space.com/bouncing-universe-big-bang/)
+- [Instacart’s latest feature lets you order from two retailers with one delivery fee](https://techcrunch.com/2022/08/12/instacarts-latest-feature-lets-you-order-from-two-retailers-with-one-delivery-fee/)
 - [Hyundai announces $400M AI, robotics institute powered by Boston Dynamics](https://techcrunch.com/2022/08/12/hyundai-announces-400m-ai-robotics-institute-powered-by-boston-dynamics/)
 - [Felicis, Lux Capital and Upfront Ventures tackle TAM at Disrupt](https://techcrunch.com/2022/08/12/felicis-lux-capital-and-upfront-ventures-tackle-tam-at-disrupt/)
 - [Open source software is needed to prevent future crypto hacks, Polygon CISO says](https://techcrunch.com/2022/08/12/open-source-software-is-needed-to-prevent-future-crypto-hacks-polygon-ciso-says/)
-- [&#39;Gigantic jet&#39; that shot into space may be the most powerful lightning bolt ever detected](https://www.space.com/most-powerful-gigantic-jet-lightning-ever/)
-- [Identifying underserved market segments with Ethena and Homebrew on TechCrunch Live](https://techcrunch.com/2022/08/12/identifying-underserved-market-segments-with-ethena-and-homebrew-on-techcrunch-live/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
