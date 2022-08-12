@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Hugo in 100 Seconds](https://www.youtube.com/watch?v=0RKpf3rK57I)
 - [the 30 Day Cert Challenge](https://www.youtube.com/watch?v=NeIrWXIj1m4)
 - [Automated Mathematical Proofs - Computerphile](https://www.youtube.com/watch?v=prYaTrZUces)
 - [HACK your way into a job &lpar;no experience required&rpar;](https://www.youtube.com/watch?v=e2h_BreIxaQ)
 - [Docker networking is CRAZY!! &lpar;you NEED to learn it&rpar;](https://www.youtube.com/watch?v=bKFMS5C4CG0)
-- [TensorFlow in 100 Seconds](https://www.youtube.com/watch?v=i8NETqtGHms)
 <!-- YOUTUBE:END -->
 
 ---
