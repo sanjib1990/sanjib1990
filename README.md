@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Suspected developer of crypto mixer Tornado Cash arrested](https://techcrunch.com/2022/08/12/suspected-tornado-cash-developer-arrested-in-amsterdam/)
 - [Amazon launches AWS Private 5G so companies can build their own 4G mobile networks](https://techcrunch.com/2022/08/12/amazon-launches-aws-private-5g-so-companies-can-build-their-own-on-site-mobile-networks/)
 - [Google fined $40M+ for misleading location-tracking settings on Android](https://techcrunch.com/2022/08/12/google-android-location-tracking-australia/)
 - [A month on &#39;Mars&#39;: First journeys](https://www.space.com/month-on-mars-first-journeys/)
 - [The James Webb Space Telescope will study countless planets. Here&#39;s your chance to name one.](https://www.space.com/james-webb-space-telescope-exoplanet-naming-contest/)
-- [Watch SpaceX launch 46 Starlink satellites, land rocket today](https://www.space.com/spacex-starlink-group-3-3-launch-satellites/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
