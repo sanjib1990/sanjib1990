@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Bouncing&#39; universe theory still can&#39;t explain what came first](https://www.space.com/bouncing-universe-big-bang/)
-- [Instacart’s latest feature lets you order from two retailers with one delivery fee](https://techcrunch.com/2022/08/12/instacarts-latest-feature-lets-you-order-from-two-retailers-with-one-delivery-fee/)
-- [Hyundai announces $400M AI, robotics institute powered by Boston Dynamics](https://techcrunch.com/2022/08/12/hyundai-announces-400m-ai-robotics-institute-powered-by-boston-dynamics/)
-- [Felicis, Lux Capital and Upfront Ventures tackle TAM at Disrupt](https://techcrunch.com/2022/08/12/felicis-lux-capital-and-upfront-ventures-tackle-tam-at-disrupt/)
-- [Open source software is needed to prevent future crypto hacks, Polygon CISO says](https://techcrunch.com/2022/08/12/open-source-software-is-needed-to-prevent-future-crypto-hacks-polygon-ciso-says/)
+- [Nothing negative about Positive Food’s meal expansion plan after $7M investment](https://techcrunch.com/2022/08/12/positive-food-whole-foods-meal-7m/)
+- [New rules needed to fix growing space debris problem, FCC says](https://www.space.com/space-debris-new-rules-fcc-regulation/)
+- [As other startups slash spending and hoard cash, Databricks hits accelerator](https://techcrunch.com/2022/08/12/as-other-startups-slash-spending-and-hoard-cash-databricks-hits-accelerator/)
+- [Diagnostic Robotics has AI catching health problems before they take you to the ER](https://techcrunch.com/2022/08/12/diagnostic-robotics-has-ai-catching-health-problems-before-they-take-you-to-the-er/)
+- [Wire grabs fresh funding for secure messaging tech that’s big with G7 governments](https://techcrunch.com/2022/08/12/wire-series-c/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
