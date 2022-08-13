@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is the future of the microchip industry going to be Made in America?](https://techcrunch.com/2022/08/13/is-the-future-of-the-microchip-industry-going-to-be-made-in-america/)
+- [TechCrunch staff asks: What’s really the best Taylor Swift song?](https://techcrunch.com/2022/08/13/techcrunch-staff-asks-whats-really-the-best-taylor-swift-song/)
 - [Perseid meteor shower of 2022 thrills stargazers despite bright moon &lpar;photos&rpar;](https://www.space.com/perseid-meteor-shower-2022-stargazer-photos/)
 - [&#39;For All Mankind&#39; showrunners discuss the explosive season 3 finale](https://www.space.com/for-all-mankind-season-three-finale-showrunners/)
 - [See the huge solar wings of China&#39;s space station in motion above Earth &lpar;video&rpar;](https://www.space.com/china-tiangong-space-station-solar-array-video/)
-- [Best time to buy a camera: shop smart and save](https://www.space.com/best-time-to-buy-a-camera-shop-smart-and-save/)
-- [On This Day In Space: Aug. 13, 2014: WorldView-3 Earth-observing satellite launches into orbit](https://www.space.com/39251-on-this-day-in-space.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
