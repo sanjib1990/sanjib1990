@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mars enters the evening sky tonight, here&#39;s how to find the Red Planet](https://www.space.com/mars-planet-evening-sky-lineup-august-2022/)
+- [Moon and Jupiter get together late Sunday night](https://www.space.com/moon-jupiter-close-conjunction-august-14-2022/)
 - [Digital pensions platform Penfold raises $8.5M Series A led by Bridford Group](https://techcrunch.com/2022/08/13/digital-pensions-platform-penfold-raises-8-5m-series-a-led-by-bridford-group/)
 - [After the FBI raid at Mar-a-Lago, online threats quickly turn into real-world violence](https://techcrunch.com/2022/08/12/trump-fbi-mar-a-lago-online-threats/)
 - [Roon wants to educate patients with freshly sourced info on their conditions](https://techcrunch.com/2022/08/12/roon-wants-to-educate-patients-with-freshly-sourced-info-on-their-conditions/)
-- [It might be time for companies in San Francisco to call employees’ bluff](https://techcrunch.com/2022/08/12/it-might-be-time-for-companies-in-san-francisco-to-call-employees-bluff/)
-- [Daily Crunch: Samsung’s vice chairman receives presidential pardon for bribery conviction](https://techcrunch.com/2022/08/12/daily-crunch-samsungs-vice-chairman-receives-presidential-pardon-for-bribery-conviction/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
