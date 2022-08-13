@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [After the FBI raid at Mar-a-Lago, online threats quickly turn into real-world violence](https://techcrunch.com/2022/08/12/trump-fbi-mar-a-lago-online-threats/)
 - [Roon wants to educate patients with freshly sourced info on their conditions](https://techcrunch.com/2022/08/12/roon-wants-to-educate-patients-with-freshly-sourced-info-on-their-conditions/)
 - [It might be time for companies in San Francisco to call employees’ bluff](https://techcrunch.com/2022/08/12/it-might-be-time-for-companies-in-san-francisco-to-call-employees-bluff/)
 - [Daily Crunch: Samsung’s vice chairman receives presidential pardon for bribery conviction](https://techcrunch.com/2022/08/12/daily-crunch-samsungs-vice-chairman-receives-presidential-pardon-for-bribery-conviction/)
 - [Supernova &#39;wreckage&#39; blasts out cosmic rays in deep space](https://www.space.com/supernova-wreckage-blasts-out-cosmic-rays/)
-- [SpaceX launches 46 Starlink satellites, lands rocket on drone ship](https://www.space.com/spacex-starlink-group-3-3-launch-satellites/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
