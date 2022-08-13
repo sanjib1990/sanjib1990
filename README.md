@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See the huge solar wings of China&#39;s space station in motion above Earth &lpar;video&rpar;](https://www.space.com/china-tiangong-space-station-solar-array-video/)
+- [Best time to buy a camera: shop smart and save](https://www.space.com/best-time-to-buy-a-camera-shop-smart-and-save/)
 - [On This Day In Space: Aug. 13, 2014: WorldView-3 Earth-observing satellite launches into orbit](https://www.space.com/39251-on-this-day-in-space.html/)
 - [This Week In Space podcast: Episode 24 — Reinventing NASA](https://www.space.com/this-week-in-space-podcast-twit/)
 - [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html/)
-- [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html/)
-- [Mars enters the evening sky tonight, here&#39;s how to find the Red Planet](https://www.space.com/mars-planet-evening-sky-lineup-august-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
