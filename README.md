@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [On This Day In Space: Aug. 13, 2014: WorldView-3 Earth-observing satellite launches into orbit](https://www.space.com/39251-on-this-day-in-space.html/)
+- [This Week In Space podcast: Episode 24 — Reinventing NASA](https://www.space.com/this-week-in-space-podcast-twit/)
+- [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html/)
+- [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html/)
 - [Mars enters the evening sky tonight, here&#39;s how to find the Red Planet](https://www.space.com/mars-planet-evening-sky-lineup-august-2022/)
-- [Moon and Jupiter get together late Sunday night](https://www.space.com/moon-jupiter-close-conjunction-august-14-2022/)
-- [Digital pensions platform Penfold raises $8.5M Series A led by Bridford Group](https://techcrunch.com/2022/08/13/digital-pensions-platform-penfold-raises-8-5m-series-a-led-by-bridford-group/)
-- [After the FBI raid at Mar-a-Lago, online threats quickly turn into real-world violence](https://techcrunch.com/2022/08/12/trump-fbi-mar-a-lago-online-threats/)
-- [Roon wants to educate patients with freshly sourced info on their conditions](https://techcrunch.com/2022/08/12/roon-wants-to-educate-patients-with-freshly-sourced-info-on-their-conditions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
