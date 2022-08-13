@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Twilio gets hacked, teens ditch Facebook, and SpaceX takes South Korea to the moon](https://techcrunch.com/2022/08/13/twilio-gets-hacked-teens-ditch-facebook-and-spacex-takes-south-korea-to-the-moon/)
 - [You’re not that special &lpar;I swear, there’s a startup angle here&rpar;](https://techcrunch.com/2022/08/13/youre-not-that-special-i-swear-theres-a-startup-angle-here/)
 - [Is the future of the microchip industry going to be Made in America?](https://techcrunch.com/2022/08/13/is-the-future-of-the-microchip-industry-going-to-be-made-in-america/)
 - [TechCrunch staff asks: What’s really the best Taylor Swift song?](https://techcrunch.com/2022/08/13/techcrunch-staff-asks-whats-really-the-best-taylor-swift-song/)
 - [Perseid meteor shower of 2022 thrills stargazers despite bright moon &lpar;photos&rpar;](https://www.space.com/perseid-meteor-shower-2022-stargazer-photos/)
-- [&#39;For All Mankind&#39; showrunners discuss the explosive season 3 finale](https://www.space.com/for-all-mankind-season-three-finale-showrunners/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
