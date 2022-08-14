@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A new Australian supercomputer has already delivered a stunning supernova remnant pic](https://www.space.com/australian-supercomputer-stunning-supernova-image/)
+- [Massive expanse of towering hydrothermal vents discovered deep in the Pacific](https://www.space.com/first-off-axis-pacific-hydrothermal-venting/)
+- [On This Day In Space: Aug. 14, 1992: Meteor explodes over Uganda](https://www.space.com/39251-on-this-day-in-space.html/)
 - [Flying saucer-shaped cloud floats above Hawaiian telescopes &lpar;photo&rpar;](https://www.space.com/flying-saucer-cloud-gemini-observatory-photo/)
 - [Curious Kids: How does cosmic microwave background radiation work?](https://www.space.com/curious-kids-cosmic-microwave-background-radiation-science/)
-- [Starburst galaxy shines in new &#39;whirlpool of gold&#39; photo](https://www.space.com/starburst-galaxy-photo-very-large-telescope/)
-- [Twilio gets hacked, teens ditch Facebook, and SpaceX takes South Korea to the moon](https://techcrunch.com/2022/08/13/twilio-gets-hacked-teens-ditch-facebook-and-spacex-takes-south-korea-to-the-moon/)
-- [You’re not that special &lpar;I swear, there’s a startup angle here&rpar;](https://techcrunch.com/2022/08/13/youre-not-that-special-i-swear-theres-a-startup-angle-here/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
