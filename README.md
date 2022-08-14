@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Are debt financings the new venture round for fintechs?](https://techcrunch.com/2022/08/14/fintech-debt-financing-startups-venture-capital/)
+- [Why Twitter anons are sending crypto to celebrities](https://techcrunch.com/2022/08/14/twitter-crypto-privacy-sanctions-tornado-chain-reaction/)
+- [Why more fintechs may be going the debt financing route](https://techcrunch.com/2022/08/14/fintech-debt-financing-startups-venture-capital/)
 - [Saturn is at opposition. See it shine at its best for 2022 in a free webcast tonight.](https://www.space.com/saturn-opposition-2022-webcast/)
 - [A mystery of sulfur clouds of Venus may be solved by new computer model](https://www.space.com/venus-sulfur-clouds-mystery-computer-model/)
 - [A new Australian supercomputer has already delivered a stunning supernova remnant pic](https://www.space.com/australian-supercomputer-stunning-supernova-image/)
-- [Massive expanse of towering hydrothermal vents discovered deep in the Pacific](https://www.space.com/first-off-axis-pacific-hydrothermal-venting/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
