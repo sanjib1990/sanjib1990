@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [VinFast says pre-orders “will get a $7,500 rebate,” federal tax credit or not](https://techcrunch.com/2022/08/14/vinfast-federal-tax-credit/)
 - [As companies fight to retain talent, employee benefits startups might escape cost cuts](https://techcrunch.com/2022/08/14/as-companies-fight-to-retain-talent-employee-benefits-startups-might-escape-cost-cuts/)
 - [Uniswap Labs COO MC Lader on the incentives behind DeFi](https://techcrunch.com/2022/08/14/uniswap-labs-defi-crypto-decentralized-exchange-mc-lader-chain-reaction/)
 - [Battery investment moves onshore to kick-start US EV production](https://techcrunch.com/2022/08/14/battery-investment-moves-onshore-to-kickstart-us-ev-production/)
 - [Why Twitter anons are sending crypto to celebrities](https://techcrunch.com/2022/08/14/twitter-crypto-privacy-sanctions-tornado-chain-reaction/)
-- [Why more fintechs may be going the debt financing route](https://techcrunch.com/2022/08/14/fintech-debt-financing-startups-venture-capital/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
