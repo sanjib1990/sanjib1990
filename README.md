@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Saturn is at opposition. See it shine at its best for 2022 in a free webcast tonight.](https://www.space.com/saturn-opposition-2022-webcast/)
 - [A mystery of sulfur clouds of Venus may be solved by new computer model](https://www.space.com/venus-sulfur-clouds-mystery-computer-model/)
 - [A new Australian supercomputer has already delivered a stunning supernova remnant pic](https://www.space.com/australian-supercomputer-stunning-supernova-image/)
 - [Massive expanse of towering hydrothermal vents discovered deep in the Pacific](https://www.space.com/first-off-axis-pacific-hydrothermal-venting/)
 - [On This Day In Space: Aug. 14, 1992: Meteor explodes over Uganda](https://www.space.com/39251-on-this-day-in-space.html/)
-- [Flying saucer-shaped cloud floats above Hawaiian telescopes &lpar;photo&rpar;](https://www.space.com/flying-saucer-cloud-gemini-observatory-photo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
