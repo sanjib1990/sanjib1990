@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Announcing the first tranche of Startup Battlefield judges](https://techcrunch.com/2022/08/15/announcing-the-first-tranche-of-startup-battlefield-judges/)
-- [What you might have missed at Black Hat and Def Con 2022](https://techcrunch.com/2022/08/15/black-hat-def-con-2022/)
-- [Galaxy Digital calls off $1.2 billion acquisition of BitGo](https://techcrunch.com/2022/08/15/galaxy-digital-calls-off-its-1-2-billion-acquisition-of-bitgo/)
-- [NASA&#39;s massive moon rocket will roll out earlier than planned](https://www.space.com/artemis-1-moon-rocket-rollout-moved-up/)
-- [U.K. government pushes ‘social tariffs’ to bring cheaper broadband to hard-up households](https://techcrunch.com/2022/08/15/u-k-government-pushes-social-tariffs-to-bring-cheaper-broadband-to-hard-up-households/)
+- [a16z says “WeBack” to WeWork’s Neumann with its biggest check ever](https://techcrunch.com/2022/08/15/a16z-andreessen-horowitz-backs-adam-neumann-wework-new-venture-flow-real-estate/)
+- [Report: Apple tested ads in Apple Maps, as it weighs broader ads push](https://techcrunch.com/2022/08/15/report-apple-tested-ads-in-apple-maps-as-it-weighs-broader-ads-push/)
+- [&#39;Nope&#39; sound designer Johnnie Burn reveals secrets of the sci-fi film&#39;s alarming soundscape &lpar;exclusive&rpar;](https://www.space.com/nope-sci-fi-movie-sound-designer-interview/)
+- [TikTok rolls out a basic in-app, text-to-image AI generator](https://techcrunch.com/2022/08/15/tiktok-in-app-text-to-image-ai-generator/)
+- [VCs set sights on African countries beyond the ‘Big Four’](https://techcrunch.com/2022/08/15/vcs-set-sights-on-african-countries-beyond-the-big-four/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
