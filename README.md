@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Startup yachts, Adam Neumann and wait what year is it again?](https://techcrunch.com/2022/08/15/startup-yachts-adam-neumann-and-wait-what-year-is-it-again/)
+- [Oil and gas didn’t benefit from investor largesse in recent years — but renewables did](https://techcrunch.com/2022/08/15/oil-and-gas-didnt-benefit-from-investor-largesse-in-recent-years-but-renewables-did/)
+- [BitGo seeks $100M in damages from Galaxy Digital for calling off $1.2B acquisition](https://techcrunch.com/2022/08/15/galaxy-digital-calls-off-its-1-2-billion-acquisition-of-bitgo/)
 - [Android 13 rolls out to Pixel devices today](https://techcrunch.com/2022/08/15/android-13-rolls-out-to-pixel-devices-today/)
 - [Watch a NASA moon rover complete a lunar obstacle course &lpar;video&rpar;](https://www.space.com/nasa-moon-rover-completes-obstacle-course/)
-- [How should web3 companies approach fundraising during a downturn?](https://techcrunch.com/2022/08/15/how-should-web3-companies-approach-fundraising-during-a-downturn/)
-- [a16z says ‘WeBack’ to WeWork’s Neumann with its biggest check ever](https://techcrunch.com/2022/08/15/a16z-andreessen-horowitz-backs-adam-neumann-wework-new-venture-flow-real-estate/)
-- [Report: Apple explored ads in Apple Maps as it weighs broader ads push](https://techcrunch.com/2022/08/15/report-apple-tested-ads-in-apple-maps-as-it-weighs-broader-ads-push/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
