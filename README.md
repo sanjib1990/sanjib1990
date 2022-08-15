@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Galaxy Digital calls off its $1.2 billion acquisition of BitGo](https://techcrunch.com/2022/08/15/galaxy-digital-calls-off-its-1-2-billion-acquisition-of-bitgo/)
-- [Mobot secures capital to grow its fleet of robots that bug-test mobile apps](https://techcrunch.com/2022/08/15/mobot-secures-capital-to-grow-its-fleet-of-robots-that-bug-test-mobile-apps/)
-- [The Station: Arrival slashes EV targets, more Tesla FSD controversy and NHTSA loses its captain](https://techcrunch.com/2022/08/15/the-station-arrival-slashes-ev-targets-more-tesla-fsd-controversy-and-nhtsa-loses-its-captain/)
-- [Porsche signs 25-year solar energy deal](https://techcrunch.com/2022/08/15/porsche-signs-25-year-solar-energy-deal/)
-- [Should you buy a DSLR camera?](https://www.space.com/should-you-buy-a-dslr-camera/)
+- [How to watch NASA&#39;s Artemis 1 moon mission briefings and megarocket rollout this week](https://www.space.com/artemis-1-nasa-science-rocket-rollout-webcasts/)
+- [Gorgias’ valuation rises to $710M with $30M Series C for e-commerce customer support](https://techcrunch.com/2022/08/15/gorgias-valuation-710m-series-c-e-commerce-customer-support/)
+- [Your future shrimp meal could come from Atarraya’s farming technology](https://techcrunch.com/2022/08/15/shrimp-atarrayas-farming-technology/)
+- [Giant voids of nothingness may be flinging the universe apart](https://www.space.com/dark-energy-may-cause-voids/)
+- [Snap says Snapchat+ now has 1 million subscribers, introduces new features](https://techcrunch.com/2022/08/15/snap-says-snapchat-now-has-1-million-subscribers-introduces-new-features/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
