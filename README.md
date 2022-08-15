@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
+- [When the dam breaks, IPOs are going to flow like fucking crazy](https://techcrunch.com/2022/08/15/when-the-dam-breaks-ipos-are-going-to-flow-like-fucking-crazy/)
+- [Extreme physics of &#39;supercritical&#39; matter may be surprisingly simple](https://www.space.com/supercritical-matter-simplicity.html/)
 - [How to watch NASA&#39;s Artemis 1 moon mission briefings and megarocket rollout this week](https://www.space.com/artemis-1-nasa-science-rocket-rollout-webcasts/)
 - [Gorgias’ valuation rises to $710M with $30M Series C for e-commerce customer support](https://techcrunch.com/2022/08/15/gorgias-valuation-710m-series-c-e-commerce-customer-support/)
-- [Your future shrimp meal could come from Atarraya’s farming technology](https://techcrunch.com/2022/08/15/shrimp-atarrayas-farming-technology/)
-- [Giant voids of nothingness may be flinging the universe apart](https://www.space.com/dark-energy-may-cause-voids/)
-- [Snap says Snapchat+ now has 1 million subscribers, introduces new features](https://techcrunch.com/2022/08/15/snap-says-snapchat-now-has-1-million-subscribers-introduces-new-features/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
