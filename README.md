@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Serena Williams’ next act in venture capital is essential in this moment](https://techcrunch.com/2022/08/15/serena-williams-next-act-in-venture-capital-is-essential-in-this-moment/)
+- [Layoffs hit HBO Max as 70 employees lose their jobs](https://techcrunch.com/2022/08/15/layofs-hbo-max-discovery/)
+- [Bumble experiments with group chats, polls and video calls for its new social networking feature, ‘Hive’](https://techcrunch.com/2022/08/15/bumble-experiments-with-group-chats-polls-and-video-calls-for-its-new-social-networking-feature-hive/)
 - [The phishing catch of the day is Twillio &lpar;and other TC news&rpar;](https://techcrunch.com/2022/08/15/the-phishing-catch-of-the-day-is-twillio-and-other-tc-news/)
-- [Signal says 1,900 users’ phone numbers exposed by Twilio breach](https://techcrunch.com/2022/08/15/signal-phone-number-exposed-twilio/)
-- [5 things you may have missed in Disney’s latest earnings](https://techcrunch.com/2022/08/15/5-things-you-may-have-missed-in-disneys-latest-earnings/)
-- [Unusual &#39;revived&#39; pulsars could be the ultimate gravitational wave detector](https://www.space.com/pulsars-detect-gravitational-waves/)
-- [Startup yachts, Adam Neumann and wait what year is it again?](https://techcrunch.com/2022/08/15/startup-yachts-adam-neumann-and-wait-what-year-is-it-again/)
+- [NASA&#39;s Artemis 1 moon mission will carry 2 water-seeking cubesats](https://www.space.com/artemis-1-moon-water-ice-cubesats/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
