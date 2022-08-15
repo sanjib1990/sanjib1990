@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Meta backs SMB e-commerce app launched by former Facebook engineering manager](https://techcrunch.com/2022/08/15/daily-crunch-meta-backs-smb-e-commerce-app-launched-by-former-facebook-engineering-manager/)
+- [Max Q: Testing, testing](https://techcrunch.com/2022/08/15/max-q-testing-testing/)
+- [Bird burns $310M, but sees revenue bounce back](https://techcrunch.com/2022/08/15/bird-burns-310m-but-sees-revenue-bounce-back/)
 - [DoorDash partners with Meta to test delivery of Facebook Marketplace items](https://techcrunch.com/2022/08/15/doordash-partners-with-meta-to-test-delivery-of-facebook-marketplace-items/)
 - [YouTube may launch a channel store for streaming services, report says](https://techcrunch.com/2022/08/15/youtube-may-launch-a-channel-store-for-streaming-services-report-says/)
-- [Walmart+, the retailer’s Prime competitor, will add Paramount+ access as a new perk](https://techcrunch.com/2022/08/15/walmart-the-retailers-prime-competitor-will-add-paramount-access-as-a-new-perk/)
-- [Underwater snow on Earth could offer insight into Europa&#39;s icy crust](https://www.space.com/europa-ice-study-earth-underwater-snow/)
-- [Serena Williams’ next act in venture capital is essential in this moment](https://techcrunch.com/2022/08/15/serena-williams-next-act-in-venture-capital-is-essential-in-this-moment/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
