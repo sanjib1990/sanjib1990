@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The phishing catch of the day is Twillio &lpar;and other TC news&rpar;](https://techcrunch.com/2022/08/15/the-phishing-catch-of-the-day-is-twillio-and-other-tc-news/)
+- [Signal says 1,900 users’ phone numbers exposed by Twilio breach](https://techcrunch.com/2022/08/15/signal-phone-number-exposed-twilio/)
+- [5 things you may have missed in Disney’s latest earnings](https://techcrunch.com/2022/08/15/5-things-you-may-have-missed-in-disneys-latest-earnings/)
+- [Unusual &#39;revived&#39; pulsars could be the ultimate gravitational wave detector](https://www.space.com/pulsars-detect-gravitational-waves/)
 - [Startup yachts, Adam Neumann and wait what year is it again?](https://techcrunch.com/2022/08/15/startup-yachts-adam-neumann-and-wait-what-year-is-it-again/)
-- [Oil and gas didn’t benefit from investor largesse in recent years — but renewables did](https://techcrunch.com/2022/08/15/oil-and-gas-didnt-benefit-from-investor-largesse-in-recent-years-but-renewables-did/)
-- [BitGo seeks $100M in damages from Galaxy Digital for calling off $1.2B acquisition](https://techcrunch.com/2022/08/15/galaxy-digital-calls-off-its-1-2-billion-acquisition-of-bitgo/)
-- [Android 13 rolls out to Pixel devices today](https://techcrunch.com/2022/08/15/android-13-rolls-out-to-pixel-devices-today/)
-- [Watch a NASA moon rover complete a lunar obstacle course &lpar;video&rpar;](https://www.space.com/nasa-moon-rover-completes-obstacle-course/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
