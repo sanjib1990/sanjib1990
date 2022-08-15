@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pastel, a Nigerian bookkeeping and digital platform for merchants, raises $5.5M led by TLcom](https://techcrunch.com/2022/08/15/nigerian-startup-pastel-raises-5-5m-to-scale-its-bookkeeping-and-digital-tools-for-small-businesses/)
 - [Uber to sunset free loyalty program in favor of subscription membership](https://techcrunch.com/2022/08/14/uber-to-sunset-free-loyalty-program-in-favor-of-subscription-membership/)
 - [VinFast says pre-orders “will get a $7,500 rebate,” federal tax credit or not](https://techcrunch.com/2022/08/14/vinfast-federal-tax-credit/)
 - [As companies fight to retain talent, employee benefits startups might escape cost cuts](https://techcrunch.com/2022/08/14/as-companies-fight-to-retain-talent-employee-benefits-startups-might-escape-cost-cuts/)
 - [Uniswap Labs COO MC Lader on the incentives behind DeFi](https://techcrunch.com/2022/08/14/uniswap-labs-defi-crypto-decentralized-exchange-mc-lader-chain-reaction/)
-- [Battery investment moves onshore to kick-start US EV production](https://techcrunch.com/2022/08/14/battery-investment-moves-onshore-to-kickstart-us-ev-production/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
