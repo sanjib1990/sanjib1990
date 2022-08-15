@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Galaxy Digital calls off its $1.2 billion acquisition of BitGo](https://techcrunch.com/2022/08/15/galaxy-digital-calls-off-its-1-2-billion-acquisition-of-bitgo/)
+- [Mobot secures capital to grow its fleet of robots that bug-test mobile apps](https://techcrunch.com/2022/08/15/mobot-secures-capital-to-grow-its-fleet-of-robots-that-bug-test-mobile-apps/)
 - [The Station: Arrival slashes EV targets, more Tesla FSD controversy and NHTSA loses its captain](https://techcrunch.com/2022/08/15/the-station-arrival-slashes-ev-targets-more-tesla-fsd-controversy-and-nhtsa-loses-its-captain/)
 - [Porsche signs 25-year solar energy deal](https://techcrunch.com/2022/08/15/porsche-signs-25-year-solar-energy-deal/)
 - [Should you buy a DSLR camera?](https://www.space.com/should-you-buy-a-dslr-camera/)
-- [On This Day In Space: Aug. 15, 1977: &#39;Wow!&#39; Mystery signal boosts search for E.T.](https://www.space.com/39251-on-this-day-in-space.html/)
-- [The 6th mass extinction hasn&#39;t begun yet, study claims, but Earth is barreling toward it](https://www.space.com/earth-sixth-mass-extinction-underway/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
