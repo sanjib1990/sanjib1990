@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Event Horizon&#39; at 25: Director Paul W.S. Anderson on his cult sci-fi film&#39;s stylish nightmares &lpar;exclusive&rpar;](https://www.space.com/event-horizon-director-paul-anderson-interview/)
-- [Hubble Space Telescope paints stellar outflows in new portrait of the Orion Nebula](https://www.space.com/hubble-space-telescope-orion-nebula-outflows/)
-- [Tencent veterans secure $13M to build cross-chain decentralized identities](https://techcrunch.com/2022/08/15/tencent-veterans-web3-decentralized-id-bit/)
-- [Meta invests in Take App, a Singaporean startup that helps merchants sell via WhatsApp](https://techcrunch.com/2022/08/15/meta-invests-in-take-app-a-singaporean-startup-that-helps-merchants-sell-via-whatsapp/)
-- [Pastel, a Nigerian bookkeeping and digital platform for merchants, raises $5.5M led by TLcom](https://techcrunch.com/2022/08/15/nigerian-startup-pastel-raises-5-5m-to-scale-its-bookkeeping-and-digital-tools-for-small-businesses/)
+- [The Station: Arrival slashes EV targets, more Tesla FSD controversy and NHTSA loses its captain](https://techcrunch.com/2022/08/15/the-station-arrival-slashes-ev-targets-more-tesla-fsd-controversy-and-nhtsa-loses-its-captain/)
+- [Porsche signs 25-year solar energy deal](https://techcrunch.com/2022/08/15/porsche-signs-25-year-solar-energy-deal/)
+- [Should you buy a DSLR camera?](https://www.space.com/should-you-buy-a-dslr-camera/)
+- [On This Day In Space: Aug. 15, 1977: &#39;Wow!&#39; Mystery signal boosts search for E.T.](https://www.space.com/39251-on-this-day-in-space.html/)
+- [The 6th mass extinction hasn&#39;t begun yet, study claims, but Earth is barreling toward it](https://www.space.com/earth-sixth-mass-extinction-underway/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
