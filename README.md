@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DoorDash partners with Meta to test delivery of Facebook Marketplace items](https://techcrunch.com/2022/08/15/doordash-partners-with-meta-to-test-delivery-of-facebook-marketplace-items/)
+- [YouTube may launch a channel store for streaming services, report says](https://techcrunch.com/2022/08/15/youtube-may-launch-a-channel-store-for-streaming-services-report-says/)
+- [Walmart+, the retailer’s Prime competitor, will add Paramount+ access as a new perk](https://techcrunch.com/2022/08/15/walmart-the-retailers-prime-competitor-will-add-paramount-access-as-a-new-perk/)
+- [Underwater snow on Earth could offer insight into Europa&#39;s icy crust](https://www.space.com/europa-ice-study-earth-underwater-snow/)
 - [Serena Williams’ next act in venture capital is essential in this moment](https://techcrunch.com/2022/08/15/serena-williams-next-act-in-venture-capital-is-essential-in-this-moment/)
-- [Layoffs hit HBO Max as 70 employees lose their jobs](https://techcrunch.com/2022/08/15/layofs-hbo-max-discovery/)
-- [Bumble experiments with group chats, polls and video calls for its new social networking feature, ‘Hive’](https://techcrunch.com/2022/08/15/bumble-experiments-with-group-chats-polls-and-video-calls-for-its-new-social-networking-feature-hive/)
-- [The phishing catch of the day is Twillio &lpar;and other TC news&rpar;](https://techcrunch.com/2022/08/15/the-phishing-catch-of-the-day-is-twillio-and-other-tc-news/)
-- [NASA&#39;s Artemis 1 moon mission will carry 2 water-seeking cubesats](https://www.space.com/artemis-1-moon-water-ice-cubesats/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
