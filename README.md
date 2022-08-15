@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [a16z says “WeBack” to WeWork’s Neumann with its biggest check ever](https://techcrunch.com/2022/08/15/a16z-andreessen-horowitz-backs-adam-neumann-wework-new-venture-flow-real-estate/)
-- [Report: Apple tested ads in Apple Maps, as it weighs broader ads push](https://techcrunch.com/2022/08/15/report-apple-tested-ads-in-apple-maps-as-it-weighs-broader-ads-push/)
-- [&#39;Nope&#39; sound designer Johnnie Burn reveals secrets of the sci-fi film&#39;s alarming soundscape &lpar;exclusive&rpar;](https://www.space.com/nope-sci-fi-movie-sound-designer-interview/)
-- [TikTok rolls out a basic in-app, text-to-image AI generator](https://techcrunch.com/2022/08/15/tiktok-in-app-text-to-image-ai-generator/)
-- [VCs set sights on African countries beyond the ‘Big Four’](https://techcrunch.com/2022/08/15/vcs-set-sights-on-african-countries-beyond-the-big-four/)
+- [Android 13 rolls out to Pixel devices today](https://techcrunch.com/2022/08/15/android-13-rolls-out-to-pixel-devices-today/)
+- [Watch a NASA moon rover complete a lunar obstacle course &lpar;video&rpar;](https://www.space.com/nasa-moon-rover-completes-obstacle-course/)
+- [How should web3 companies approach fundraising during a downturn?](https://techcrunch.com/2022/08/15/how-should-web3-companies-approach-fundraising-during-a-downturn/)
+- [a16z says ‘WeBack’ to WeWork’s Neumann with its biggest check ever](https://techcrunch.com/2022/08/15/a16z-andreessen-horowitz-backs-adam-neumann-wework-new-venture-flow-real-estate/)
+- [Report: Apple explored ads in Apple Maps as it weighs broader ads push](https://techcrunch.com/2022/08/15/report-apple-tested-ads-in-apple-maps-as-it-weighs-broader-ads-push/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
