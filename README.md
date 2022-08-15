@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Event Horizon&#39; at 25: Director Paul W.S. Anderson on his cult sci-fi film&#39;s stylish nightmares &lpar;exclusive&rpar;](https://www.space.com/event-horizon-director-paul-anderson-interview/)
+- [Hubble Space Telescope paints stellar outflows in new portrait of the Orion Nebula](https://www.space.com/hubble-space-telescope-orion-nebula-outflows/)
+- [Tencent veterans secure $13M to build cross-chain decentralized identities](https://techcrunch.com/2022/08/15/tencent-veterans-web3-decentralized-id-bit/)
 - [Meta invests in Take App, a Singaporean startup that helps merchants sell via WhatsApp](https://techcrunch.com/2022/08/15/meta-invests-in-take-app-a-singaporean-startup-that-helps-merchants-sell-via-whatsapp/)
 - [Pastel, a Nigerian bookkeeping and digital platform for merchants, raises $5.5M led by TLcom](https://techcrunch.com/2022/08/15/nigerian-startup-pastel-raises-5-5m-to-scale-its-bookkeeping-and-digital-tools-for-small-businesses/)
-- [Uber to sunset free loyalty program in favor of subscription membership](https://techcrunch.com/2022/08/14/uber-to-sunset-free-loyalty-program-in-favor-of-subscription-membership/)
-- [VinFast says pre-orders “will get a $7,500 rebate,” federal tax credit or not](https://techcrunch.com/2022/08/14/vinfast-federal-tax-credit/)
-- [As companies fight to retain talent, employee benefits startups might escape cost cuts](https://techcrunch.com/2022/08/14/as-companies-fight-to-retain-talent-employee-benefits-startups-might-escape-cost-cuts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
