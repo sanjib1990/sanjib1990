@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
-- [When the dam breaks, IPOs are going to flow like fucking crazy](https://techcrunch.com/2022/08/15/when-the-dam-breaks-ipos-are-going-to-flow-like-fucking-crazy/)
-- [Extreme physics of &#39;supercritical&#39; matter may be surprisingly simple](https://www.space.com/supercritical-matter-simplicity.html/)
-- [How to watch NASA&#39;s Artemis 1 moon mission briefings and megarocket rollout this week](https://www.space.com/artemis-1-nasa-science-rocket-rollout-webcasts/)
-- [Gorgias’ valuation rises to $710M with $30M Series C for e-commerce customer support](https://techcrunch.com/2022/08/15/gorgias-valuation-710m-series-c-e-commerce-customer-support/)
+- [Announcing the first tranche of Startup Battlefield judges](https://techcrunch.com/2022/08/15/announcing-the-first-tranche-of-startup-battlefield-judges/)
+- [What you might have missed at Black Hat and Def Con 2022](https://techcrunch.com/2022/08/15/black-hat-def-con-2022/)
+- [Galaxy Digital calls off $1.2 billion acquisition of BitGo](https://techcrunch.com/2022/08/15/galaxy-digital-calls-off-its-1-2-billion-acquisition-of-bitgo/)
+- [NASA&#39;s massive moon rocket will roll out earlier than planned](https://www.space.com/artemis-1-moon-rocket-rollout-moved-up/)
+- [U.K. government pushes ‘social tariffs’ to bring cheaper broadband to hard-up households](https://techcrunch.com/2022/08/15/u-k-government-pushes-social-tariffs-to-bring-cheaper-broadband-to-hard-up-households/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
