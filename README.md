@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [India shipping logistics giant Shipyaari exposed customer data](https://techcrunch.com/2022/08/16/shipyaari-customer-data-exposed/)
-- [How Snipd is using AI to ‘unlock knowledge’ in podcasts](https://techcrunch.com/2022/08/16/how-snipd-is-using-ai-to-unlock-knowledge-in-podcasts/)
-- [Meta launches Horizon Worlds in France and Spain](https://techcrunch.com/2022/08/16/meta-launches-horizon-worlds-in-france-and-spain/)
-- [Polestar is launching an EV roadster in 2026 called the Polestar 6](https://techcrunch.com/2022/08/16/polestar-to-launch-polestar-6-roadster-ev-in-2026/)
-- [Upskilling platform GrowthSpace secures $25M to grow its global business](https://techcrunch.com/2022/08/16/upskilling-platform-growthspace-secures-25m-to-grow-its-global-business/)
+- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html/)
+- [Motional launches autonomous Hyundai IONIQ 5s on Lyft network in Las Vegas](https://techcrunch.com/2022/08/16/motional-launches-autonomous-hyundai-ioniq-5s-on-lyft-network-in-las-vegas/)
+- [Sync Computing rakes in $15.5M to automatically optimize cloud resources](https://techcrunch.com/2022/08/16/sync-computing-rakes-in-15-5m-to-automatically-optimize-cloud-resources/)
+- [Qeepsake, a journaling app that helps families capture and store memories, raises $2M](https://techcrunch.com/2022/08/16/qeepsake-a-journaling-app-that-helps-families-capture-and-store-memories-raises-2m/)
+- [Shopify launches Collabs, a new way for creators to earn revenue on the platform](https://techcrunch.com/2022/08/16/shopify-launches-collabs-a-new-way-for-creators-to-earn-revenue-on-the-platform/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
