@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Six conversations that bring nuance to tech’s layoff wave](https://techcrunch.com/2022/08/16/tech-layoffs-2022-equity-six-episodes/)
-- [&#39;Cannibal&#39; solar bursts promise auroras as far as New York](https://www.space.com/cannibal-cme-aurora-new-york/)
-- [Phantom’s Brandon Millman opens his wallet on web3 growth and risk at TC Sessions: Crypto](https://techcrunch.com/2022/08/16/phantoms-brandon-millman-opens-his-wallet-on-web3-growth-and-risk-at-tc-sessions-crypto/)
-- [Artemis 1: The first step in returning astronauts to the moon](https://www.space.com/artemis-1-going-back-to-the-moon/)
-- [Meta rolls out new Reels features on Instagram and Facebook, including an ‘Add Yours’ sticker](https://techcrunch.com/2022/08/16/meta-new-reels-features-instagram-and-facebook-including-add-yours-sticker/)
+- [Faraday Future seeks to raise capital after massive Q2 loss](https://techcrunch.com/2022/08/16/faraday-future-seeks-to-raise-capital-after-massive-q2-loss/)
+- [Meteorites that reach the ground come from asteroids&#39; backsides](https://www.space.com/asteroids-backsides-become-meteorites/)
+- [Watch NASA roll out the mega moon rocket Space Launch System ahead of launch](https://techcrunch.com/2022/08/16/watch-nasa-rollout-the-mega-moon-rocket-space-launch-system-ahead-of-launch/)
+- [Walmart’s last-mile delivery service, Walmart GoLocal, tops 1M deliveries in year one](https://techcrunch.com/2022/08/16/walmarts-last-mile-delivery-service-walmart-golocal-tops-1m-deliveries-in-year-one/)
+- [The venture slowdown finally hit early-stage valuations, PitchBook data shows](https://techcrunch.com/2022/08/16/the-venture-slowdown-finally-hit-early-stage-valuations-pitchbook-data-shows/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
