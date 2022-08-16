@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [YC-backed Arc, a digital bank for ‘high-growth’ SaaS startups, lands $20M Series A](https://techcrunch.com/2022/08/16/fintech-yc-backed-arc-a-digital-bank-for-high-growth-saas-startups-lands-20m-series-a/)
 - [Google’s third bet from its Africa Investment Fund is in logistics company Lori Systems](https://techcrunch.com/2022/08/16/googles-third-bet-from-its-africa-investment-fund-is-in-logistics-company-lori-systems/)
-- [VLC says India blocking site endangers its own citizens](https://techcrunch.com/2022/08/16/vlc-india/)
+- [VLC-developer VideoLan says India blocking site endangers its own citizens](https://techcrunch.com/2022/08/16/vlc-india/)
 - [Spotify prompts some users to record reaction podcasts to playlists](https://techcrunch.com/2022/08/16/spotify-prompts-some-users-to-record-reaction-podcasts-to-playlists/)
 - [Sequoia India-backed Digit Insurance files for $440 million IPO](https://techcrunch.com/2022/08/16/sequoia-india-backed-digit-insurance-files-for-440-million-ipo/)
-- [Klarna founder to launch new ‘Nobel Prize for Impact’](https://techcrunch.com/2022/08/15/klarna-founder-to-launch-new-nobel-prize-for-impact/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
