@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Coffee with Brian Kernighan - Computerphile](https://www.youtube.com/watch?v=GNyQxXw_oMQ)
 - [Microservices explained - the What, Why and How?](https://www.youtube.com/watch?v=rv4LlmLmVWk)
 - [Hugo in 100 Seconds](https://www.youtube.com/watch?v=0RKpf3rK57I)
 - [the 30 Day Cert Challenge](https://www.youtube.com/watch?v=NeIrWXIj1m4)
 - [Automated Mathematical Proofs - Computerphile](https://www.youtube.com/watch?v=prYaTrZUces)
-- [HACK your way into a job &lpar;no experience required&rpar;](https://www.youtube.com/watch?v=e2h_BreIxaQ)
 <!-- YOUTUBE:END -->
 
 ---
