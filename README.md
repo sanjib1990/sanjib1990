@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India shipping logistics giant Shipyaari exposed customer data](https://techcrunch.com/2022/08/16/shipyaari-customer-data-exposed/)
+- [How Snipd is using AI to ‘unlock knowledge’ in podcasts](https://techcrunch.com/2022/08/16/how-snipd-is-using-ai-to-unlock-knowledge-in-podcasts/)
 - [Meta launches Horizon Worlds in France and Spain](https://techcrunch.com/2022/08/16/meta-launches-horizon-worlds-in-france-and-spain/)
 - [Polestar is launching an EV roadster in 2026 called the Polestar 6](https://techcrunch.com/2022/08/16/polestar-to-launch-polestar-6-roadster-ev-in-2026/)
 - [Upskilling platform GrowthSpace secures $25M to grow its global business](https://techcrunch.com/2022/08/16/upskilling-platform-growthspace-secures-25m-to-grow-its-global-business/)
-- [Guesty books $170M to double down on property management tools for Airbnb and other rental platforms](https://techcrunch.com/2022/08/16/guesty-books-170m-to-double-down-on-property-management-tools-for-airbnb-and-other-rental-platforms/)
-- [YC-backed Arc, a digital bank for ‘high-growth’ SaaS startups, lands $20M Series A](https://techcrunch.com/2022/08/16/fintech-yc-backed-arc-a-digital-bank-for-high-growth-saas-startups-lands-20m-series-a/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
