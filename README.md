@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google’s third bet from its Africa Investment Fund is in logistics company Lori Systems](https://techcrunch.com/2022/08/16/googles-third-bet-from-its-africa-investment-fund-is-in-logistics-company-lori-systems/)
+- [VLC says India blocking site endangers its own citizens](https://techcrunch.com/2022/08/16/vlc-india/)
+- [Spotify prompts some users to record reaction podcasts to playlists](https://techcrunch.com/2022/08/16/spotify-prompts-some-users-to-record-reaction-podcasts-to-playlists/)
 - [Sequoia India-backed Digit Insurance files for $440 million IPO](https://techcrunch.com/2022/08/16/sequoia-india-backed-digit-insurance-files-for-440-million-ipo/)
 - [Klarna founder to launch new ‘Nobel Prize for Impact’](https://techcrunch.com/2022/08/15/klarna-founder-to-launch-new-nobel-prize-for-impact/)
-- [SoftBank, Sequoia China back this ERP startup enabling China’s online exporters](https://techcrunch.com/2022/08/15/softbank-china-erp-dianxiaomi/)
-- [Helbiz reports revenue increase but dwindling cash reserves](https://techcrunch.com/2022/08/15/helbiz-reports-revenue-increase-but-dwindling-cash-reserves/)
-- [Mycel’s mushroom-based biomaterials sprout $10M in funding](https://techcrunch.com/2022/08/15/seoul-based-mycels-mushroom-meat-and-biomaterials-sprout-10m-in-funding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
