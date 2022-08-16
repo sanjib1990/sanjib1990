@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sequoia India-backed Digit Insurance files for $440 million IPO](https://techcrunch.com/2022/08/16/sequoia-india-backed-digit-insurance-files-for-440-million-ipo/)
 - [Klarna founder to launch new ‘Nobel Prize for Impact’](https://techcrunch.com/2022/08/15/klarna-founder-to-launch-new-nobel-prize-for-impact/)
 - [SoftBank, Sequoia China back this ERP startup enabling China’s online exporters](https://techcrunch.com/2022/08/15/softbank-china-erp-dianxiaomi/)
 - [Helbiz reports revenue increase but dwindling cash reserves](https://techcrunch.com/2022/08/15/helbiz-reports-revenue-increase-but-dwindling-cash-reserves/)
 - [Mycel’s mushroom-based biomaterials sprout $10M in funding](https://techcrunch.com/2022/08/15/seoul-based-mycels-mushroom-meat-and-biomaterials-sprout-10m-in-funding/)
-- [Tech industry reacts to Adam Neumann’s a16z-backed return to real estate](https://techcrunch.com/2022/08/15/tech-industry-reacts-to-adam-neumanns-a16z-backed-return-to-real-estate/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
