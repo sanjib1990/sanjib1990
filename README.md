@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SoftBank, Sequoia China back this ERP startup enabling China’s online exporters](https://techcrunch.com/2022/08/15/softbank-china-erp-dianxiaomi/)
+- [Helbiz reports revenue increase but dwindling cash reserves](https://techcrunch.com/2022/08/15/helbiz-reports-revenue-increase-but-dwindling-cash-reserves/)
 - [Mycel’s mushroom-based biomaterials sprout $10M in funding](https://techcrunch.com/2022/08/15/seoul-based-mycels-mushroom-meat-and-biomaterials-sprout-10m-in-funding/)
 - [Tech industry reacts to Adam Neumann’s a16z-backed return to real estate](https://techcrunch.com/2022/08/15/tech-industry-reacts-to-adam-neumanns-a16z-backed-return-to-real-estate/)
 - [Daily Crunch: Meta backs SMB e-commerce app launched by former Facebook engineering manager](https://techcrunch.com/2022/08/15/daily-crunch-meta-backs-smb-e-commerce-app-launched-by-former-facebook-engineering-manager/)
-- [Max Q: Testing, testing](https://techcrunch.com/2022/08/15/max-q-testing-testing/)
-- [Bird burns $310M but sees revenue bounce back](https://techcrunch.com/2022/08/15/bird-burns-310m-but-sees-revenue-bounce-back/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
