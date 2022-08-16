@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Paul Davison spills the tea on Clubhouse’s past, present and future at Disrupt](https://techcrunch.com/2022/08/16/paul-davison-spills-the-tea-on-clubhouses-past-present-and-future-at-disrupt/)
+- [Crypto scams have declined, but hackers remain resilient in bearish markets](https://techcrunch.com/2022/08/16/crypto-scams-have-declined-but-hackers-remain-resilient-in-bearish-markets/)
+- [DigitalOcean says customer email addresses were exposed after latest Mailchimp breach](https://techcrunch.com/2022/08/16/digitalocean-emails-mailchimp-breach/)
+- [Saturn is at opposition. See it shine at its best for 2022 in a free webcast tonight.](https://www.space.com/saturn-opposition-2022-webcast/)
 - [Explo garners $12M Series A as BI dashboard service gains traction](https://techcrunch.com/2022/08/16/explo-garners-12m-series-a-as-bi-dashboard-service-gains-traction/)
-- [Omni looks to take on Looker with its cloud-powered BI platform](https://techcrunch.com/2022/08/16/omni-looks-to-take-on-looker-with-its-cloud-powered-bi-platform/)
-- [On This Day In Space: Aug. 16, 1963: Wingless M2-F1 completes 1st glide flight](https://www.space.com/39251-on-this-day-in-space.html/)
-- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html/)
-- [Motional launches autonomous Hyundai IONIQ 5s on Lyft network in Las Vegas](https://techcrunch.com/2022/08/16/motional-launches-autonomous-hyundai-ioniq-5s-on-lyft-network-in-las-vegas/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
