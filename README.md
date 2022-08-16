@@ -95,7 +95,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Faraday Future seeks to raise capital after massive Q2 loss](https://techcrunch.com/2022/08/16/faraday-future-seeks-to-raise-capital-after-massive-q2-loss/)
-- [Meteorites that reach the ground come from asteroids&#39; backsides](https://www.space.com/asteroids-backsides-become-meteorites/)
+- [Meteorites that reach the Earth fall from asteroid butts](https://www.space.com/asteroids-backsides-become-meteorites/)
 - [Watch NASA roll out the mega moon rocket Space Launch System ahead of launch](https://techcrunch.com/2022/08/16/watch-nasa-rollout-the-mega-moon-rocket-space-launch-system-ahead-of-launch/)
 - [Walmart’s last-mile delivery service, Walmart GoLocal, tops 1M deliveries in year one](https://techcrunch.com/2022/08/16/walmarts-last-mile-delivery-service-walmart-golocal-tops-1m-deliveries-in-year-one/)
 - [The venture slowdown finally hit early-stage valuations, PitchBook data shows](https://techcrunch.com/2022/08/16/the-venture-slowdown-finally-hit-early-stage-valuations-pitchbook-data-shows/)
