@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [I built a JavaScript framework](https://www.youtube.com/watch?v=SJeBRW1QQMA)
 - [Coffee with Brian Kernighan - Computerphile](https://www.youtube.com/watch?v=GNyQxXw_oMQ)
 - [ask me anything.](https://www.youtube.com/watch?v=cJ4yAaGazPg)
 - [Microservices explained - the What, Why and How?](https://www.youtube.com/watch?v=rv4LlmLmVWk)
 - [Hugo in 100 Seconds](https://www.youtube.com/watch?v=0RKpf3rK57I)
-- [the 30 Day Cert Challenge](https://www.youtube.com/watch?v=NeIrWXIj1m4)
 <!-- YOUTUBE:END -->
 
 ---
