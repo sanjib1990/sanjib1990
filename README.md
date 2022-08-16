@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SAIC Mobility Robotaxi valued at $1B after $148M Series B](https://techcrunch.com/2022/08/16/saic-mobility-robotaxi-valued-at-1b-after-148m-series-b/)
+- [American Airlines orders 20 Boom Supersonic passenger jets](https://www.space.com/american-airlines-boom-supersonic-passenger-jet-fleet/)
 - [How a16z’s investment into Adam Neumann further solidifies the ‘concrete ceiling’](https://techcrunch.com/2022/08/16/how-a16zs-investment-into-adam-neumann-further-solidifies-the-concrete-ceiling/)
 - [Facebook will disable new political ads a week before US midterm elections](https://techcrunch.com/2022/08/16/facebook-political-ads-2022-midterms/)
 - [Pomelo exits stealth mode with $20M seed to rethink international money transfer](https://techcrunch.com/2022/08/16/pomelo-20-million-seed-founders-fund-international-money-transfer/)
-- [Winners, losers abound as Inflation Reduction Act becomes law](https://techcrunch.com/2022/08/16/winners-losers-abound-as-inflation-reduction-act-becomes-law/)
-- [NASA&#39;s Artemis 1 moon mission will carry the world&#39;s 1st deep-space biology experiment](https://www.space.com/artemis-1-cubesat-biosentinel-deep-space-yeast/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
