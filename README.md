@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Faraday Future seeks to raise capital after massive Q2 loss](https://techcrunch.com/2022/08/16/faraday-future-seeks-to-raise-capital-after-massive-q2-loss/)
-- [Meteorites that reach the Earth fall from asteroid butts](https://www.space.com/asteroids-backsides-become-meteorites/)
-- [Watch NASA roll out the mega moon rocket Space Launch System ahead of launch](https://techcrunch.com/2022/08/16/watch-nasa-rollout-the-mega-moon-rocket-space-launch-system-ahead-of-launch/)
-- [Walmart’s last-mile delivery service, Walmart GoLocal, tops 1M deliveries in year one](https://techcrunch.com/2022/08/16/walmarts-last-mile-delivery-service-walmart-golocal-tops-1m-deliveries-in-year-one/)
-- [The venture slowdown finally hit early-stage valuations, PitchBook data shows](https://techcrunch.com/2022/08/16/the-venture-slowdown-finally-hit-early-stage-valuations-pitchbook-data-shows/)
+- [Winners, losers abound as Inflation Reduction Act becomes law](https://techcrunch.com/2022/08/16/winners-losers-abound-as-inflation-reduction-act-becomes-law/)
+- [NASA&#39;s Artemis 1 moon mission will carry the world&#39;s 1st deep-space biology experiment](https://www.space.com/artemis-1-cubesat-biosentinel-deep-space-yeast/)
+- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
+- [As digital tracking wanes, companies turn to online communities for direct access to customers](https://techcrunch.com/2022/08/16/as-digital-tracking-wanes-companies-turn-to-online-communities-for-direct-access-to-customers/)
+- [Asteroid Ryugu contains dust older than the solar system](https://www.space.com/asteroid-ryugu-dust-older-than-solar-system/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
