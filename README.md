@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Vividly wants to put some sparkle in your next CPG trade promotion campaign](https://techcrunch.com/2022/08/16/vividly-sparkle-cpg-trade-promotion-campaign/)
-- [Emerge Career’s tech-forward job training lets incarcerated folks hit the road on release](https://techcrunch.com/2022/08/16/emerge-careers-tech-forward-job-training-lets-incarcerated-folks-hit-the-road-on-release/)
-- [Exclusive: Wedding bells ring in new &#39;Star Wars&#39; novel, &#39;The Princess and the Scoundrel&#39;](https://www.space.com/star-wars-novel-han-solo-princess-leia-beth-revis/)
-- [How to watch NASA&#39;s Artemis 1 moon megarocket roll out to the launch pad today](https://www.space.com/artemis-1-nasa-science-rocket-rollout-webcasts/)
-- [Mars explorers could harvest oxygen from the atmosphere using plasma](https://www.space.com/mars-oxygen-production-plasma/)
+- [Six conversations that bring nuance to tech’s layoff wave](https://techcrunch.com/2022/08/16/tech-layoffs-2022-equity-six-episodes/)
+- [&#39;Cannibal&#39; solar bursts promise auroras as far as New York](https://www.space.com/cannibal-cme-aurora-new-york/)
+- [Phantom’s Brandon Millman opens his wallet on web3 growth and risk at TC Sessions: Crypto](https://techcrunch.com/2022/08/16/phantoms-brandon-millman-opens-his-wallet-on-web3-growth-and-risk-at-tc-sessions-crypto/)
+- [Artemis 1: The first step in returning astronauts to the moon](https://www.space.com/artemis-1-going-back-to-the-moon/)
+- [Meta rolls out new Reels features on Instagram and Facebook, including an ‘Add Yours’ sticker](https://techcrunch.com/2022/08/16/meta-new-reels-features-instagram-and-facebook-including-add-yours-sticker/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
