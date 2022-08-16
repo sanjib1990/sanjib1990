@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Paul Davison spills the tea on Clubhouse’s past, present and future at Disrupt](https://techcrunch.com/2022/08/16/paul-davison-spills-the-tea-on-clubhouses-past-present-and-future-at-disrupt/)
-- [Crypto scams have declined, but hackers remain resilient in bearish markets](https://techcrunch.com/2022/08/16/crypto-scams-have-declined-but-hackers-remain-resilient-in-bearish-markets/)
-- [DigitalOcean says customer email addresses were exposed after latest Mailchimp breach](https://techcrunch.com/2022/08/16/digitalocean-emails-mailchimp-breach/)
-- [Saturn is at opposition. See it shine at its best for 2022 in a free webcast tonight.](https://www.space.com/saturn-opposition-2022-webcast/)
-- [Explo garners $12M Series A as BI dashboard service gains traction](https://techcrunch.com/2022/08/16/explo-garners-12m-series-a-as-bi-dashboard-service-gains-traction/)
+- [Vividly wants to put some sparkle in your next CPG trade promotion campaign](https://techcrunch.com/2022/08/16/vividly-sparkle-cpg-trade-promotion-campaign/)
+- [Emerge Career’s tech-forward job training lets incarcerated folks hit the road on release](https://techcrunch.com/2022/08/16/emerge-careers-tech-forward-job-training-lets-incarcerated-folks-hit-the-road-on-release/)
+- [Exclusive: Wedding bells ring in new &#39;Star Wars&#39; novel, &#39;The Princess and the Scoundrel&#39;](https://www.space.com/star-wars-novel-han-solo-princess-leia-beth-revis/)
+- [How to watch NASA&#39;s Artemis 1 moon megarocket roll out to the launch pad today](https://www.space.com/artemis-1-nasa-science-rocket-rollout-webcasts/)
+- [Mars explorers could harvest oxygen from the atmosphere using plasma](https://www.space.com/mars-oxygen-production-plasma/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
