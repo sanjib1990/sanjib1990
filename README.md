@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
+- [Watch NASA&#39;s Artemis 1 moon megarocket roll back to the launch pad](https://www.space.com/artemis-1-nasa-science-rocket-rollout-webcasts/)
 - [Biden admin says about 20 models will still qualify for EV tax credits](https://techcrunch.com/2022/08/16/biden-admin-says-about-20-models-will-still-qualify-for-ev-tax-credits/)
 - [Getting power from poop, with Levidian’s Loop](https://techcrunch.com/2022/08/16/levidian-loop/)
-- [YC grad QuotaBook raises $11M to scale its equity management platform](https://techcrunch.com/2022/08/16/yc-grad-quotabook-closes-11m-to-scale-its-equity-management-platform/)
-- [American Airlines to buy 20 jets from Boom Supersonic](https://techcrunch.com/2022/08/16/american-airlines-to-buy-20-jets-from-boom-supersonic/)
-- [Google makes robots smarter by teaching them about their limitations](https://techcrunch.com/2022/08/16/google-robotics/)
+- [Eat Just bags $25M, gets Alibaba’s help to sell alternative protein in China](https://techcrunch.com/2022/08/16/eat-just-china-funding-25-million/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
