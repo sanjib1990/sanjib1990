@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Skyrora completes second stage static fire test of its flagship rocket](https://techcrunch.com/2022/08/17/skyrora-completes-second-stage-static-fire-test-of-its-flagship-rocket/)
+- [Do we really need a $340, Wi-Fi enabled toaster?](https://techcrunch.com/2022/08/17/tineco-toasty-one/)
+- [How Amazon’s continued expansion into healthcare could buoy the sector](https://techcrunch.com/2022/08/17/how-amazons-continued-expansion-into-healthcare-could-buoy-the-sector/)
 - [Daily Crunch: Google will unplug its IoT Core service in August 2023](https://techcrunch.com/2022/08/17/daily-crunch-google-will-unplug-its-iot-core-service-in-august-2023/)
 - [Netflix’s ad-supported plan may block offline viewing, code suggests](https://techcrunch.com/2022/08/17/netflixs-ad-supported-plan-may-block-offline-viewing-code-suggests/)
-- [Growing and acquiring with Benchling and Benchmark on TechCrunch Live](https://techcrunch.com/2022/08/17/growing-and-acquiring-with-benchling-and-benchmark-on-techcrunch-live/)
-- [Motion capture becomes more accessible as Rokoko raises at $80M valuation](https://techcrunch.com/2022/08/17/rokoko-fundraise/)
-- [There’s a reason why US Midwest startups had fewer layoffs, Chicago VC says](https://techcrunch.com/2022/08/17/theres-a-reason-why-us-midwest-startups-had-fewer-layoffs-chicago-vc-says/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
