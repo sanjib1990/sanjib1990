@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Investment in infrastructure is critical for crypto startups, not a ‘nice to have’](https://techcrunch.com/2022/08/17/accelerating-the-next-generation-of-crypto-startups-via-infrastructure-investments/)
-- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates/)
-- [Kickstarter sent password reset emails to millions of users, but didn’t tell anyone why](https://techcrunch.com/2022/08/17/kickstarter-password-reset/)
-- [Google Cloud will shutter its IoT Core service next year](https://techcrunch.com/2022/08/17/google-cloud-will-shutter-its-iot-core-service-next-year/)
-- [See the moon hop over Uranus tomorrow](https://www.space.com/lunar-occultation-moon-hop-over-uranus-august-2022/)
+- [Symbolic baton rides with NASA Artemis 1 rocket on rollout for launch](https://www.space.com/artemis-1-launch-rollout-passing-baton/)
+- [Reddit launches a new developer portal to give third-party apps and bots a boost](https://techcrunch.com/2022/08/17/reddit-developer-platform/)
+- [As a startup founder, you really need to understand how venture capital works](https://techcrunch.com/2022/08/17/how-venture-capital-works/)
+- [Supermassive black hole&#39;s bright &#39;photon ring&#39; revealed in new image](https://www.space.com/supermassive-black-hole-photon-ring-image/)
+- [Watch NASA Artemis 1 moon mission radiation science briefing today](https://www.space.com/artemis-1-nasa-science-rocket-rollout-webcasts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
