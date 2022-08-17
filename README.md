@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates/)
-- [Want to grow plants on Mars? High school student project finds 2 tricks for Red Planet](https://www.space.com/mars-plants-alfalfa-bacteria-project/)
-- [Dear Sophie: How do I get an O-1 visa to freelance on web3 projects?](https://techcrunch.com/2022/08/17/dear-sophie-how-do-i-get-an-o-1-visa-to-freelance-on-web3-projects/)
-- [Get 43% off the Estes Saturn V model rocket, and save on launch sets too](https://www.space.com/estes-model-rocket-amazon-deals-august-2022/)
-- [Timbaland and Swizz Beatz sue TikTok competitor Triller for $28M over nonpayment](https://techcrunch.com/2022/08/17/timbaland-and-swizz-beatz-sue-tiktok-competitor-triller-for-28m-over-nonpayment/)
+- [Spacesuit power problem cuts Russian spacewalk short outside space station](https://www.space.com/russian-iss-spacewalk-cut-short-spacesuit-problem/)
+- [Anthony Hopkins sees NFTs as ‘art in a new format’](https://techcrunch.com/2022/08/17/anthony-hopkins-sees-nfts-as-art-in-a-new-format/)
+- [Best binoculars for kids: A close-up view of the cosmos for smaller hands and eyes](https://www.space.com/best-binoculars-for-kids/)
+- [Colliding black holes could clock universe&#39;s expansion rate](https://www.space.com/colliding-black-holes-measure-universe-expansion/)
+- [Best monocular 2022: Quality kit you can use for stargazing](https://www.space.com/best-monocular/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
