@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates/)
+- [Vulcan Centaur rocket: The space workhorse of tomorrow](https://www.space.com/vulcan-centaur-rocket/)
+- [Social investment platform eToro to acquire fintech startup Gatsby for $50M](https://techcrunch.com/2022/08/17/fintech-etoro-to-acquire-startup-gatsby-for-50m/)
+- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
 - [The κ-Cygnid meteor shower reaches its peak on Aug. 18. Here&#39;s what to expect.](https://www.space.com/k-cygnid-meteor-shower-peak-2022/)
-- [Watch Russian spacewalkers boot up a European robotic arm on the International Space Station today](https://www.space.com/russian-cosmonaut-spacewalk-european-robotic-arm-august-17-2022/)
-- [Ex-Novastar partner Niraj Varia takes on new challenge as CEO of Kenyan agtech iProcure](https://techcrunch.com/2022/08/17/ex-novastar-partner-niraj-varia-takes-on-new-challenge-as-ceo-of-kenyan-agtech-iprocure/)
-- [Incredible Health passes unicorn valuation as it bags $80M Series B](https://techcrunch.com/2022/08/17/incredible-health-series-b/)
-- [DriveNets connects with $262M as demand booms for its cloud-based alternative to network routers](https://techcrunch.com/2022/08/17/drivenets-connects-with-262m-as-demand-booms-for-its-cloud-based-alternative-to-network-routers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
