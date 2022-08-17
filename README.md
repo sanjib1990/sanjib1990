@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [See the moon hop over Uranus tomorrow](https://www.space.com/lunar-occultation-moon-hop-over-uranus-august-2022/)
+- [Investment in infrastructure is critical for crypto startups, not a ‘nice to have’](https://techcrunch.com/2022/08/17/accelerating-the-next-generation-of-crypto-startups-via-infrastructure-investments/)
 - [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates/)
-- [HR startup HiBob’s valuation surges 50% to $2.45B on a $150M raise](https://techcrunch.com/2022/08/17/hr-startup-hibobs-valuation-surges-50-to-2-45b-on-a-150m-raise/)
-- [Solar burst from &#39;hole&#39; in the sun may trigger geomagnetic storms on Earth](https://www.space.com/solar-burst-coronal-hole-geomagnetic-storms-august-2022/)
-- [On This Day In Space: Aug. 17, 1877: Asaph Hall discovers the Martian moon Phobos](https://www.space.com/39251-on-this-day-in-space.html/)
+- [Kickstarter sent password reset emails to millions of users, but didn’t tell anyone why](https://techcrunch.com/2022/08/17/kickstarter-password-reset/)
+- [Google Cloud will shutter its IoT Core service next year](https://techcrunch.com/2022/08/17/google-cloud-will-shutter-its-iot-core-service-next-year/)
+- [See the moon hop over Uranus tomorrow](https://www.space.com/lunar-occultation-moon-hop-over-uranus-august-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
