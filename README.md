@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [you need to learn SQL RIGHT NOW!! &lpar;SQL Tutorial for Beginners&rpar;](https://www.youtube.com/watch?v=xiUTqnI6xk8)
 - [ask me anything.](https://www.youtube.com/watch?v=cJ4yAaGazPg)
 - [I built a JavaScript framework](https://www.youtube.com/watch?v=SJeBRW1QQMA)
 - [Coffee with Brian Kernighan - Computerphile](https://www.youtube.com/watch?v=GNyQxXw_oMQ)
 - [Microservices explained - the What, Why and How?](https://www.youtube.com/watch?v=rv4LlmLmVWk)
-- [Hugo in 100 Seconds](https://www.youtube.com/watch?v=0RKpf3rK57I)
 <!-- YOUTUBE:END -->
 
 ---
