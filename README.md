@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The κ-Cygnid meteor shower reaches its peak on Aug. 18. Here&#39;s what to expect.](https://www.space.com/k-cygnid-meteor-shower-peak-2022/)
+- [Watch Russian spacewalkers boot up a European robotic arm on the International Space Station today](https://www.space.com/russian-cosmonaut-spacewalk-european-robotic-arm-august-17-2022/)
+- [Ex-Novastar partner Niraj Varia takes on new challenge as CEO of Kenyan agtech iProcure](https://techcrunch.com/2022/08/17/ex-novastar-partner-niraj-varia-takes-on-new-challenge-as-ceo-of-kenyan-agtech-iprocure/)
+- [Incredible Health passes unicorn valuation as it bags $80M Series B](https://techcrunch.com/2022/08/17/incredible-health-series-b/)
 - [DriveNets connects with $262M as demand booms for its cloud-based alternative to network routers](https://techcrunch.com/2022/08/17/drivenets-connects-with-262m-as-demand-booms-for-its-cloud-based-alternative-to-network-routers/)
-- [Voyager 2: An iconic spacecraft that&#39;s still exploring 45 years on](https://www.space.com/voyager-2/)
-- [Funding Circle cofounder unveils new Super Payments fintech venture with $27M investment](https://techcrunch.com/2022/08/17/funding-circle-cofounder-unveils-super-payments-fintech-venture-with-27m-investment/)
-- [&#39;Prey&#39; review: Prequel shows that there is still hope for the Predator franchise](https://www.space.com/prey-movie-review/)
-- [A month on &#39;Mars&#39;: Get to know the Haughton-Mars Project](https://www.space.com/month-on-mars-haughton-mars-project-pascal-lee/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
