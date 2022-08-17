@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See the moon hop over Uranus tomorrow](https://www.space.com/lunar-occultation-moon-hop-over-uranus-august-2022/)
 - [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates/)
-- [Vulcan Centaur rocket: The space workhorse of tomorrow](https://www.space.com/vulcan-centaur-rocket/)
-- [Social investment platform eToro to acquire fintech startup Gatsby for $50M](https://techcrunch.com/2022/08/17/fintech-etoro-to-acquire-startup-gatsby-for-50m/)
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
-- [The κ-Cygnid meteor shower reaches its peak on Aug. 18. Here&#39;s what to expect.](https://www.space.com/k-cygnid-meteor-shower-peak-2022/)
+- [HR startup HiBob’s valuation surges 50% to $2.45B on a $150M raise](https://techcrunch.com/2022/08/17/hr-startup-hibobs-valuation-surges-50-to-2-45b-on-a-150m-raise/)
+- [Solar burst from &#39;hole&#39; in the sun may trigger geomagnetic storms on Earth](https://www.space.com/solar-burst-coronal-hole-geomagnetic-storms-august-2022/)
+- [On This Day In Space: Aug. 17, 1877: Asaph Hall discovers the Martian moon Phobos](https://www.space.com/39251-on-this-day-in-space.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
