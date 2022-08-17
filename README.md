@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Choose your angel: Learn how they invest and what motivates them](https://techcrunch.com/2022/08/17/choose-your-angel-learn-how-they-invest-and-what-motivates-them/)
-- [Cosmonaut returns to space station airlock after spacesuit problem](https://www.space.com/russian-cosmonaut-spacesuit-issue-iss-spacewalk/)
 - [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates/)
-- [Malwarebytes lays off 125 employees citing ‘strategic reorg’](https://techcrunch.com/2022/08/17/malwareybytes-layoffs/)
-- [Cloudera launches its all-in-one SaaS data lakehouse](https://techcrunch.com/2022/08/17/cloudera-launches-its-all-in-one-saas-data-lakehouse/)
+- [Want to grow plants on Mars? High school student project finds 2 tricks for Red Planet](https://www.space.com/mars-plants-alfalfa-bacteria-project/)
+- [Dear Sophie: How do I get an O-1 visa to freelance on web3 projects?](https://techcrunch.com/2022/08/17/dear-sophie-how-do-i-get-an-o-1-visa-to-freelance-on-web3-projects/)
+- [Get 43% off the Estes Saturn V model rocket, and save on launch sets too](https://www.space.com/estes-model-rocket-amazon-deals-august-2022/)
+- [Timbaland and Swizz Beatz sue TikTok competitor Triller for $28M over nonpayment](https://techcrunch.com/2022/08/17/timbaland-and-swizz-beatz-sue-tiktok-competitor-triller-for-28m-over-nonpayment/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
