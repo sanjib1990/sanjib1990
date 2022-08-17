@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [From ‘literally zero’ experience to $100M, this VC is raising his second climate tech seed fund](https://techcrunch.com/2022/08/16/european-climate-vc-contrarian-targets-100-million-seed-fund/)
-- [Daily Crunch: 7 months after emerging from stealth, YC alum Arc secures $20M Series A](https://techcrunch.com/2022/08/16/daily-crunch-7-months-after-emerging-from-stealth-yc-alum-arc-secures-20m-series-a/)
-- [SAIC Mobility Robotaxi valued at $1B after $148M Series B](https://techcrunch.com/2022/08/16/saic-mobility-robotaxi-valued-at-1b-after-148m-series-b/)
-- [American Airlines orders 20 Boom Supersonic passenger jets](https://www.space.com/american-airlines-boom-supersonic-passenger-jet-fleet/)
-- [How a16z’s investment into Adam Neumann further solidifies the ‘concrete ceiling’](https://techcrunch.com/2022/08/16/how-a16zs-investment-into-adam-neumann-further-solidifies-the-concrete-ceiling/)
+- [Biden admin says about 20 models will still qualify for EV tax credits](https://techcrunch.com/2022/08/16/biden-admin-says-about-20-models-will-still-qualify-for-ev-tax-credits/)
+- [Getting power from poop, with Levidian’s Loop](https://techcrunch.com/2022/08/16/levidian-loop/)
+- [YC grad QuotaBook raises $11M to scale its equity management platform](https://techcrunch.com/2022/08/16/yc-grad-quotabook-closes-11m-to-scale-its-equity-management-platform/)
+- [American Airlines to buy 20 jets from Boom Supersonic](https://techcrunch.com/2022/08/16/american-airlines-to-buy-20-jets-from-boom-supersonic/)
+- [Google makes robots smarter by teaching them about their limitations](https://techcrunch.com/2022/08/16/google-robotics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
