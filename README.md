@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Spacesuit power problem cuts Russian spacewalk short outside space station](https://www.space.com/russian-iss-spacewalk-cut-short-spacesuit-problem/)
-- [Anthony Hopkins sees NFTs as ‘art in a new format’](https://techcrunch.com/2022/08/17/anthony-hopkins-sees-nfts-as-art-in-a-new-format/)
-- [Best binoculars for kids: A close-up view of the cosmos for smaller hands and eyes](https://www.space.com/best-binoculars-for-kids/)
-- [Colliding black holes could clock universe&#39;s expansion rate](https://www.space.com/colliding-black-holes-measure-universe-expansion/)
-- [Best monocular 2022: Quality kit you can use for stargazing](https://www.space.com/best-monocular/)
+- [A new TikTok feature lets creators share TikTok Stories to Facebook and Instagram](https://techcrunch.com/2022/08/17/a-new-tiktok-feature-lets-creators-share-tiktok-stories-to-facebook-and-instagram/)
+- [Polygon’s head of investments remains ‘highly bullish on web3’](https://techcrunch.com/2022/08/17/polygons-head-of-investments-remains-highly-bullish-on-web3/)
+- [Apple’s GarageBand update adds new remixes with Katy Perry and SEVENTEEN](https://techcrunch.com/2022/08/17/apples-garageband-update-adds-new-remixs-with-katy-perry-and-seventeen/)
+- [Sinclair says its streaming sports service, Bally Sports+, will arrive next month](https://techcrunch.com/2022/08/17/sinclair-says-its-streaming-sports-service-bally-sports-will-arrive-next-month/)
+- [Watch a SpaceX Dragon cargo capsule leave the space station Thursday](https://www.space.com/spacex-dragon-leave-space-station-august-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
