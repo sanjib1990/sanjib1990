@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DriveNets connects with $262M as demand booms for its cloud-based alternative to network routers](https://techcrunch.com/2022/08/17/drivenets-connects-with-262m-as-demand-booms-for-its-cloud-based-alternative-to-network-routers/)
+- [Voyager 2: An iconic spacecraft that&#39;s still exploring 45 years on](https://www.space.com/voyager-2/)
 - [Funding Circle cofounder unveils new Super Payments fintech venture with $27M investment](https://techcrunch.com/2022/08/17/funding-circle-cofounder-unveils-super-payments-fintech-venture-with-27m-investment/)
-- [TikTok launches an in-app US midterms Elections Center, shares plan to fight misinformation](https://techcrunch.com/2022/08/17/tiktok-launches-an-in-app-u-s-midterms-elections-center-shares-plan-to-fight-misinformation/)
-- [Autel EVO Lite+ review](https://www.space.com/autel-evo-lite-plus-review/)
-- [Airbnb launches ‘anti-party’ tech to spot potential rule-breakers at the point of booking](https://techcrunch.com/2022/08/17/airbnb-launches-anti-party-tech-to-spot-potential-rule-breakers-at-the-point-of-booking/)
-- [VLC says India internet providers blocking site poses threat to users](https://techcrunch.com/2022/08/17/vlc-india/)
+- [&#39;Prey&#39; review: Prequel shows that there is still hope for the Predator franchise](https://www.space.com/prey-movie-review/)
+- [A month on &#39;Mars&#39;: Get to know the Haughton-Mars Project](https://www.space.com/month-on-mars-haughton-mars-project-pascal-lee/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
