@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Symbolic baton rides with NASA Artemis 1 rocket on rollout for launch](https://www.space.com/artemis-1-launch-rollout-passing-baton/)
-- [Reddit launches a new developer portal to give third-party apps and bots a boost](https://techcrunch.com/2022/08/17/reddit-developer-platform/)
-- [As a startup founder, you really need to understand how venture capital works](https://techcrunch.com/2022/08/17/how-venture-capital-works/)
-- [Supermassive black hole&#39;s bright &#39;photon ring&#39; revealed in new image](https://www.space.com/supermassive-black-hole-photon-ring-image/)
-- [Watch NASA Artemis 1 moon mission radiation science briefing today](https://www.space.com/artemis-1-nasa-science-rocket-rollout-webcasts/)
+- [Choose your angel: Learn how they invest and what motivates them](https://techcrunch.com/2022/08/17/choose-your-angel-learn-how-they-invest-and-what-motivates-them/)
+- [Cosmonaut returns to space station airlock after spacesuit problem](https://www.space.com/russian-cosmonaut-spacesuit-issue-iss-spacewalk/)
+- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates/)
+- [Malwarebytes lays off 125 employees citing ‘strategic reorg’](https://techcrunch.com/2022/08/17/malwareybytes-layoffs/)
+- [Cloudera launches its all-in-one SaaS data lakehouse](https://techcrunch.com/2022/08/17/cloudera-launches-its-all-in-one-saas-data-lakehouse/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
