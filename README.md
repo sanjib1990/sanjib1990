@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Funding Circle cofounder unveils new Super Payments fintech venture with $27M investment](https://techcrunch.com/2022/08/17/funding-circle-cofounder-unveils-super-payments-fintech-venture-with-27m-investment/)
+- [TikTok launches an in-app US midterms Elections Center, shares plan to fight misinformation](https://techcrunch.com/2022/08/17/tiktok-launches-an-in-app-u-s-midterms-elections-center-shares-plan-to-fight-misinformation/)
+- [Autel EVO Lite+ review](https://www.space.com/autel-evo-lite-plus-review/)
 - [Airbnb launches ‘anti-party’ tech to spot potential rule-breakers at the point of booking](https://techcrunch.com/2022/08/17/airbnb-launches-anti-party-tech-to-spot-potential-rule-breakers-at-the-point-of-booking/)
 - [VLC says India internet providers blocking site poses threat to users](https://techcrunch.com/2022/08/17/vlc-india/)
-- [India’s Exponent Energy may have found the secret to 15 min rapid EV charging](https://techcrunch.com/2022/08/16/indias-exponent-energy-may-have-found-the-secret-to-15-min-rapid-ev-charging/)
-- [NASA&#39;s Artemis 1 megarocket rolls back to launch pad for moon mission](https://www.space.com/nasa-artemis-1-moon-megarocket-launch-pad-rollout/)
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
