@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [There’s a reason why US Midwest startups had fewer layoffs, Chicago VC says](https://techcrunch.com/2022/08/17/theres-a-reason-why-us-midwest-startups-had-fewer-layoffs-chicago-vc-says/)
+- [Apple releases iOS, iPadOS, and macOS security fixes for two zero-days under active attack](https://techcrunch.com/2022/08/17/iphone-ipad-mac-zero-days/)
+- [Amazon is internally testing a TikTok-like feed in its app](https://techcrunch.com/2022/08/17/amazon-is-internally-testing-a-tiktok-like-feed-in-its-app/)
 - [A new TikTok feature lets creators share TikTok Stories to Facebook and Instagram](https://techcrunch.com/2022/08/17/a-new-tiktok-feature-lets-creators-share-tiktok-stories-to-facebook-and-instagram/)
 - [Polygon’s head of investments remains ‘highly bullish on web3’](https://techcrunch.com/2022/08/17/polygons-head-of-investments-remains-highly-bullish-on-web3/)
-- [Apple’s GarageBand update adds new remixes with Katy Perry and SEVENTEEN](https://techcrunch.com/2022/08/17/apples-garageband-update-adds-new-remixs-with-katy-perry-and-seventeen/)
-- [Sinclair says its streaming sports service, Bally Sports+, will arrive next month](https://techcrunch.com/2022/08/17/sinclair-says-its-streaming-sports-service-bally-sports-will-arrive-next-month/)
-- [Watch a SpaceX Dragon cargo capsule leave the space station Thursday](https://www.space.com/spacex-dragon-leave-space-station-august-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
