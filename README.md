@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [VLC says India internet providers blocking site poses threat to users](https://techcrunch.com/2022/08/17/vlc-india/)
 - [India’s Exponent Energy may have found the secret to 15 min rapid EV charging](https://techcrunch.com/2022/08/16/indias-exponent-energy-may-have-found-the-secret-to-15-min-rapid-ev-charging/)
 - [NASA&#39;s Artemis 1 megarocket rolls back to launch pad for moon mission](https://www.space.com/nasa-artemis-1-moon-megarocket-launch-pad-rollout/)
 - [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
 - [Watch NASA&#39;s Artemis 1 moon megarocket roll back to the launch pad](https://www.space.com/artemis-1-nasa-science-rocket-rollout-webcasts/)
-- [Biden admin says about 20 models will still qualify for EV tax credits](https://techcrunch.com/2022/08/16/biden-admin-says-about-20-models-will-still-qualify-for-ev-tax-credits/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
