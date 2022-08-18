@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Streaming viewership surpassed cable TV for the first time, says Nielsen](https://techcrunch.com/2022/08/18/streaming-viewership-surpassed-cable-tv-for-the-first-time-says-nielsen/)
+- [Sports partnerships are more than just a deal for major crypto companies](https://techcrunch.com/2022/08/18/sports-partnerships-are-more-than-just-a-deal-for-major-crypto-companies/)
 - [&#39;Rogue One: A Star Wars Story&#39; scores an IMAX re-release ahead of new Disney Plus &#39;Andor&#39; series](https://www.space.com/rogue-one-star-wars-andor-imax/)
 - [Why do startup valuations go down when interest rates go up?](https://techcrunch.com/2022/08/18/why-do-startup-valuations-go-down-when-interest-rates-go-up/)
 - [SpaceX&#39;s giant Starship rocket to launch communications satellite in 2024](https://www.space.com/spacex-starship-communications-satellite-launch-contract/)
-- [Looks like time is up for Snap’s Pixy drone](https://techcrunch.com/2022/08/18/looks-like-time-is-up-for-snaps-pixy-drone/)
-- [NASA&#39;s Artemis 3 mission: Landing humans on the moon](https://www.space.com/artemis-3-moon-landing-mission/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
