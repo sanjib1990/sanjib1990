@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [FDA decision to allow over-the-counter hearing loss technology will be a catalyst for innovation](https://techcrunch.com/2022/08/18/fda-decision-to-allow-over-the-counter-hearing-loss-technology-will-be-a-catalyst-for-innovation/)
+- [Here&#39;s how scientists spotted a 9th target for NASA&#39;s Lucy asteroid mission](https://www.space.com/trojan-asteroids-lucy-mission-9th-target/)
+- [Do Kwon’s Terra trauma and drama lives to see another day](https://techcrunch.com/2022/08/18/chain-reaction-do-kwon-terra-luna-stablecoin-podcast/)
 - [These 5 investors are betting on helping you live longer and better](https://techcrunch.com/2022/08/18/these-5-investors-are-betting-on-helping-you-live-longer-and-better/)
 - [5 investors explain why longevity tech is a long-term play](https://techcrunch.com/2022/08/18/5-investors-explain-why-longevity-tech-is-a-long-term-play/)
-- [Celebrate NASA&#39;s Voyager missions at 45 with this free webcast tonight](https://www.space.com/voyager-45-anniversary-nasa-webcast/)
-- [The three true robotic startup outcomes](https://techcrunch.com/2022/08/18/the-three-true-robotic-outcomes/)
-- [Pixelmator Photo is coming to Mac with a new subscription-based model](https://techcrunch.com/2022/08/18/pixelmator-photo-is-coming-to-mac-with-a-new-subscription-based-model/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
