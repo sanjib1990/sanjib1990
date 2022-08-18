@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Samsung Galaxy Z Flip 4 review](https://techcrunch.com/2022/08/18/samsung-galaxy-flip-4-review/)
+- [Facebook is losing its grip as a ‘Top 10’ app as BeReal and TikTok grow](https://techcrunch.com/2022/08/18/facebook-is-losing-its-grip-as-a-top-10-app-as-bereal-and-tiktok-grow/)
+- [Cameo now lets you have 10-minute calls with celebs](https://techcrunch.com/2022/08/18/cameo-now-lets-you-have-10-minute-calls-with-celebs/)
+- [FDA decision to allow over-the-counter hearing loss technology will be a catalyst for innovation](https://techcrunch.com/2022/08/18/fda-decision-to-allow-over-the-counter-hearing-loss-technology-will-be-a-catalyst-for-innovation/)
 - [Here&#39;s how scientists spotted a 9th target for NASA&#39;s Lucy asteroid mission](https://www.space.com/trojan-asteroids-lucy-mission-9th-target/)
-- [Celebrate NASA&#39;s Voyager missions at 45 with this free webcast tonight](https://www.space.com/voyager-45-anniversary-nasa-webcast/)
-- [&#39;Rogue One: A Star Wars Story&#39; scores an IMAX re-release ahead of new Disney Plus &#39;Andor&#39; series](https://www.space.com/rogue-one-star-wars-andor-imax/)
-- [SpaceX&#39;s giant Starship rocket to launch communications satellite in 2024](https://www.space.com/spacex-starship-communications-satellite-launch-contract/)
-- [NASA&#39;s Artemis 3 mission: Landing humans on the moon](https://www.space.com/artemis-3-moon-landing-mission/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
