@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Revolut to allow users to donate to the homeless via the Beam crowdfunding platform](https://techcrunch.com/2022/08/18/revolut-to-allow-users-to-donate-to-the-homeless-via-the-beam-crowdfunding-platform/)
+- [Google brings its Workspace Individual plan to one-person businesses in Europe](https://techcrunch.com/2022/08/18/google-brings-its-workspace-individual-plan-to-one-person-businesses-in-europe/)
 - [Did a second killer asteroid finish the dinosaurs off? Crater in West Africa hints yes.](https://www.space.com/asteroid-crater-africa-end-cretaceous/)
 - [Moon to pay Mars an early morning visit on Friday &lpar;Aug. 18&rpar;](https://www.space.com/moon-mars-august-18-2022/)
 - [James Webb Space Telescope will seek clouds of vaporized gems on exoplanets](https://www.space.com/james-webb-space-telescope-exoplanet-atmosphere-gems/)
-- [NASA &#39;going full force&#39; to gear up for UFO study](https://www.space.com/nasa-ufo-study-progress-uap/)
-- [Watch NASA&#39;s Jupiter icy moon explorer come together in a new video](https://www.space.com/europa-clipper-clean-room-assembly-video/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
