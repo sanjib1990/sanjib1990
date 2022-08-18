@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Rogue One: A Star Wars Story&#39; scores an IMAX re-release ahead of new Disney Plus &#39;Andor&#39; series](https://www.space.com/rogue-one-star-wars-andor-imax/)
+- [Why do startup valuations go down when interest rates go up?](https://techcrunch.com/2022/08/18/why-do-startup-valuations-go-down-when-interest-rates-go-up/)
+- [SpaceX&#39;s giant Starship rocket to launch communications satellite in 2024](https://www.space.com/spacex-starship-communications-satellite-launch-contract/)
 - [Looks like time is up for Snap’s Pixy drone](https://techcrunch.com/2022/08/18/looks-like-time-is-up-for-snaps-pixy-drone/)
 - [NASA&#39;s Artemis 3 mission: Landing humans on the moon](https://www.space.com/artemis-3-moon-landing-mission/)
-- [Quora is shutting down the English version of its Partner Program](https://techcrunch.com/2022/08/18/quora-shutting-down-english-version-partner-program/)
-- [NASA&#39;s Artemis 2 mission: Taking humans to the moon&#39;s orbit](https://www.space.com/artemis-2-humans-moon-orbit/)
-- [Sofy raises cash to grow its no-code mobile app testing platform](https://techcrunch.com/2022/08/18/sofy-raises-cash-to-grow-its-no-code-mobile-app-testing-platform/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
