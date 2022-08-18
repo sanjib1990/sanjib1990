@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Samsung Galaxy Z Flip 4 review](https://techcrunch.com/2022/08/18/samsung-galaxy-flip-4-review/)
+- [Facebook is losing its grip as a ‘Top 10’ app as BeReal and TikTok grow](https://techcrunch.com/2022/08/18/facebook-is-losing-its-grip-as-a-top-10-app-as-bereal-and-tiktok-grow/)
+- [Cameo now lets you have 10-minute calls with celebs](https://techcrunch.com/2022/08/18/cameo-now-lets-you-have-10-minute-calls-with-celebs/)
 - [FDA decision to allow over-the-counter hearing loss technology will be a catalyst for innovation](https://techcrunch.com/2022/08/18/fda-decision-to-allow-over-the-counter-hearing-loss-technology-will-be-a-catalyst-for-innovation/)
 - [Here&#39;s how scientists spotted a 9th target for NASA&#39;s Lucy asteroid mission](https://www.space.com/trojan-asteroids-lucy-mission-9th-target/)
-- [Do Kwon’s Terra trauma and drama lives to see another day](https://techcrunch.com/2022/08/18/chain-reaction-do-kwon-terra-luna-stablecoin-podcast/)
-- [These 5 investors are betting on helping you live longer and better](https://techcrunch.com/2022/08/18/these-5-investors-are-betting-on-helping-you-live-longer-and-better/)
-- [5 investors explain why longevity tech is a long-term play](https://techcrunch.com/2022/08/18/5-investors-explain-why-longevity-tech-is-a-long-term-play/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
