@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Your startup needs someone to be its lead storyteller](https://techcrunch.com/2022/08/18/lead-storyteller/)
-- [Planning to use your startup equity as collateral? Good luck](https://techcrunch.com/2022/08/18/planning-to-use-your-startup-equity-as-collateral-good-luck/)
-- [Apple is launching two new Top Charts for paid podcasts](https://techcrunch.com/2022/08/18/apple-is-launching-two-new-top-charts-for-paid-podcasts/)
-- [Five years later, Google is still all-in on Kotlin](https://techcrunch.com/2022/08/18/five-years-later-google-is-still-all-in-on-kotlin/)
-- [DART asteroid mission: NASA&#39;s first planetary defense spacecraft](https://www.space.com/dart-asteroid-mission/)
+- [Looks like time is up for Snap’s Pixy drone](https://techcrunch.com/2022/08/18/looks-like-time-is-up-for-snaps-pixy-drone/)
+- [NASA&#39;s Artemis 3 mission: Landing humans on the moon](https://www.space.com/artemis-3-moon-landing-mission/)
+- [Quora is shutting down the English version of its Partner Program](https://techcrunch.com/2022/08/18/quora-shutting-down-english-version-partner-program/)
+- [NASA&#39;s Artemis 2 mission: Taking humans to the moon&#39;s orbit](https://www.space.com/artemis-2-humans-moon-orbit/)
+- [Sofy raises cash to grow its no-code mobile app testing platform](https://techcrunch.com/2022/08/18/sofy-raises-cash-to-grow-its-no-code-mobile-app-testing-platform/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
