@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Tiger Global, YC back Rebill’s subscription payment platform for Latin America](https://techcrunch.com/2022/08/18/tiger-global-yc-rebill-subscription-payment-latin-america/)
-- [On This Day In Space: Aug. 18, 1868: Total solar eclipse leads to discovery of helium](https://www.space.com/39251-on-this-day-in-space.html/)
-- [WebMD acquires French medical news and information platform Jim.fr](https://techcrunch.com/2022/08/18/webmd-acquires-french-medical-news-and-information-platform-jim-fr/)
-- [Revolut to allow users to donate to the homeless via the Beam crowdfunding platform](https://techcrunch.com/2022/08/18/revolut-to-allow-users-to-donate-to-the-homeless-via-the-beam-crowdfunding-platform/)
-- [Google brings its Workspace Individual plan to one-person businesses in Europe](https://techcrunch.com/2022/08/18/google-brings-its-workspace-individual-plan-to-one-person-businesses-in-europe/)
+- [Celebrate 45 years of Voyager with these amazing images of our solar system &lpar;gallery&rpar;](https://www.space.com/voyager-spacecraft-best-images-solar-system/)
+- [Watch a SpaceX Dragon cargo capsule leave the space station Friday](https://www.space.com/spacex-dragon-leave-space-station-august-2022/)
+- [Artemis 1 will carry tiny Japanese lunar lander to the moon](https://www.space.com/artemis-1-moon-mission-japan-omotenashi-lunar-lander/)
+- [Google workers call on the company to expand abortion and privacy protections](https://techcrunch.com/2022/08/18/google-abortion-awu-petition/)
+- [This new $100M fund plans to focus on startups accelerating the science around longevity](https://techcrunch.com/2022/08/18/this-new-100m-fund-plans-to-focus-on-startups-accelerating-the-science-around-longevity/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
