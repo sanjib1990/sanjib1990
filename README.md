@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla doesn’t need to hit the panic button over China heat wave disruptions just yet](https://techcrunch.com/2022/08/17/china-heat-wave-tesla/)
 - [Dodge unveils Charger EV concept that is faster and louder than a Hellcat](https://techcrunch.com/2022/08/17/dodge-unveils-charger-ev-concept-that-is-faster-and-louder-than-a-hellcat/)
 - [Crappy chargers and sky-high prices are huge roadblocks to EV adoption](https://techcrunch.com/2022/08/17/crappy-chargers-and-sky-high-prices-are-huge-roadblocks-to-ev-adoption/)
 - [Black Girls Code founder Kimberly Bryant has been fired by her board](https://techcrunch.com/2022/08/17/black-girls-code-founder-kimberly-bryant-has-been-fired-by-her-board/)
 - [Skyrora completes second stage static fire test of its flagship rocket](https://techcrunch.com/2022/08/17/skyrora-completes-second-stage-static-fire-test-of-its-flagship-rocket/)
-- [Do we really need a $340, Wi-Fi enabled toaster?](https://techcrunch.com/2022/08/17/tineco-toasty-one/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
