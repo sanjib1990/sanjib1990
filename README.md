@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [HBO Max is removing 36 titles and creators are not happy](https://techcrunch.com/2022/08/18/hbo-max-is-removing-36-titles-and-creators-are-not-happy/)
-- [Paris-based Koolboks closes $2.5M seed round to scale solar refrigeration across Africa](https://techcrunch.com/2022/08/18/paris-based-koolboks-closes-2-5m-seed-round-to-scale-solar-refrigeration-across-africa/)
-- [Tiger Global leads new funding in savings and investments app Jar](https://techcrunch.com/2022/08/18/tiger-global-leads-new-funding-in-savings-and-investments-app-jar/)
-- [Veterinary telehealth service Vetster launches in the UK, post expansion in the US](https://techcrunch.com/2022/08/18/veterinary-telehealth-service-vetster-launches-in-the-uk-post-expansion-in-the-us/)
-- [Kenyan agtech iProcure raises $10.2M to grow its input supply network](https://techcrunch.com/2022/08/18/kenyan-agtech-iprocure-raises-10-2m-to-grow-its-input-supply-network/)
+- [Did a second killer asteroid finish the dinosaurs off? Crater in West Africa hints yes.](https://www.space.com/asteroid-crater-africa-end-cretaceous/)
+- [Moon to pay Mars an early morning visit on Friday &lpar;Aug. 18&rpar;](https://www.space.com/moon-mars-august-18-2022/)
+- [James Webb Space Telescope will seek clouds of vaporized gems on exoplanets](https://www.space.com/james-webb-space-telescope-exoplanet-atmosphere-gems/)
+- [NASA &#39;going full force&#39; to gear up for UFO study](https://www.space.com/nasa-ufo-study-progress-uap/)
+- [Watch NASA&#39;s Jupiter icy moon explorer come together in a new video](https://www.space.com/europa-clipper-clean-room-assembly-video/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
