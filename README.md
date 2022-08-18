@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [HBO Max is removing 36 titles and creators are not happy](https://techcrunch.com/2022/08/18/hbo-max-is-removing-36-titles-and-creators-are-not-happy/)
+- [Paris-based Koolboks closes $2.5M seed round to scale solar refrigeration across Africa](https://techcrunch.com/2022/08/18/paris-based-koolboks-closes-2-5m-seed-round-to-scale-solar-refrigeration-across-africa/)
+- [Tiger Global leads new funding in savings and investments app Jar](https://techcrunch.com/2022/08/18/tiger-global-leads-new-funding-in-savings-and-investments-app-jar/)
 - [Veterinary telehealth service Vetster launches in the UK, post expansion in the US](https://techcrunch.com/2022/08/18/veterinary-telehealth-service-vetster-launches-in-the-uk-post-expansion-in-the-us/)
 - [Kenyan agtech iProcure raises $10.2M to grow its input supply network](https://techcrunch.com/2022/08/18/kenyan-agtech-iprocure-raises-10-2m-to-grow-its-input-supply-network/)
-- [Tesla doesn’t need to hit the panic button over China heat wave disruptions just yet](https://techcrunch.com/2022/08/17/china-heat-wave-tesla/)
-- [Dodge unveils Charger EV concept that is faster and louder than a Hellcat](https://techcrunch.com/2022/08/17/dodge-unveils-charger-ev-concept-that-is-faster-and-louder-than-a-hellcat/)
-- [Crappy chargers and sky-high prices are huge roadblocks to EV adoption](https://techcrunch.com/2022/08/17/crappy-chargers-and-sky-high-prices-are-huge-roadblocks-to-ev-adoption/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
