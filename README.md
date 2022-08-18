@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Astro just Launched.... Could it be the ultimate web framework?](https://www.youtube.com/watch?v=gxBkghlglTg)
 - [you need to learn SQL RIGHT NOW!! &lpar;SQL Tutorial for Beginners&rpar;](https://www.youtube.com/watch?v=xiUTqnI6xk8)
 - [ask me anything.](https://www.youtube.com/watch?v=cJ4yAaGazPg)
 - [I built a JavaScript framework](https://www.youtube.com/watch?v=SJeBRW1QQMA)
 - [Coffee with Brian Kernighan - Computerphile](https://www.youtube.com/watch?v=GNyQxXw_oMQ)
-- [Microservices explained - the What, Why and How?](https://www.youtube.com/watch?v=rv4LlmLmVWk)
 <!-- YOUTUBE:END -->
 
 ---
