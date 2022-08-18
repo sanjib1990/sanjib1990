@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Pitch Deck Teardown: Mi Terro’s $1.5M seed deck](https://techcrunch.com/2022/08/18/sample-seed-pitch-deck-mi-terro/)
-- [Amazon’s Ring quietly fixed security flaw that put users’ camera recordings at risk of exposure](https://techcrunch.com/2022/08/18/amazon-ring-security-risk/)
-- [Save 18% on this Estes NASA SLS Flying Model Rocket kit](https://www.space.com/estes-nasa-model-rocket-deal-save-18-percent/)
-- [Celebrate 45 years of Voyager with these amazing images of our solar system &lpar;gallery&rpar;](https://www.space.com/voyager-spacecraft-best-images-solar-system/)
-- [Watch a SpaceX Dragon cargo capsule leave the space station Friday](https://www.space.com/spacex-dragon-leave-space-station-august-2022/)
+- [Your startup needs someone to be its lead storyteller](https://techcrunch.com/2022/08/18/lead-storyteller/)
+- [Planning to use your startup equity as collateral? Good luck](https://techcrunch.com/2022/08/18/planning-to-use-your-startup-equity-as-collateral-good-luck/)
+- [Apple is launching two new Top Charts for paid podcasts](https://techcrunch.com/2022/08/18/apple-is-launching-two-new-top-charts-for-paid-podcasts/)
+- [Five years later, Google is still all-in on Kotlin](https://techcrunch.com/2022/08/18/five-years-later-google-is-still-all-in-on-kotlin/)
+- [DART asteroid mission: NASA&#39;s first planetary defense spacecraft](https://www.space.com/dart-asteroid-mission/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
