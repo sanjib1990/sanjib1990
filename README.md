@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pitch Deck Teardown: Mi Terro’s $1.5M seed deck](https://techcrunch.com/2022/08/18/sample-seed-pitch-deck-mi-terro/)
+- [Amazon’s Ring quietly fixed security flaw that put users’ camera recordings at risk of exposure](https://techcrunch.com/2022/08/18/amazon-ring-security-risk/)
+- [Save 18% on this Estes NASA SLS Flying Model Rocket kit](https://www.space.com/estes-nasa-model-rocket-deal-save-18-percent/)
 - [Celebrate 45 years of Voyager with these amazing images of our solar system &lpar;gallery&rpar;](https://www.space.com/voyager-spacecraft-best-images-solar-system/)
 - [Watch a SpaceX Dragon cargo capsule leave the space station Friday](https://www.space.com/spacex-dragon-leave-space-station-august-2022/)
-- [Artemis 1 will carry tiny Japanese lunar lander to the moon](https://www.space.com/artemis-1-moon-mission-japan-omotenashi-lunar-lander/)
-- [Google workers call on the company to expand abortion and privacy protections](https://techcrunch.com/2022/08/18/google-abortion-awu-petition/)
-- [This new $100M fund plans to focus on startups accelerating the science around longevity](https://techcrunch.com/2022/08/18/this-new-100m-fund-plans-to-focus-on-startups-accelerating-the-science-around-longevity/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
