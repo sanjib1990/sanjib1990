@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Streaming viewership surpassed cable TV for the first time, says Nielsen](https://techcrunch.com/2022/08/18/streaming-viewership-surpassed-cable-tv-for-the-first-time-says-nielsen/)
-- [Sports partnerships are more than just a deal for major crypto companies](https://techcrunch.com/2022/08/18/sports-partnerships-are-more-than-just-a-deal-for-major-crypto-companies/)
-- [&#39;Rogue One: A Star Wars Story&#39; scores an IMAX re-release ahead of new Disney Plus &#39;Andor&#39; series](https://www.space.com/rogue-one-star-wars-andor-imax/)
-- [Why do startup valuations go down when interest rates go up?](https://techcrunch.com/2022/08/18/why-do-startup-valuations-go-down-when-interest-rates-go-up/)
-- [SpaceX&#39;s giant Starship rocket to launch communications satellite in 2024](https://www.space.com/spacex-starship-communications-satellite-launch-contract/)
+- [These 5 investors are betting on helping you live longer and better](https://techcrunch.com/2022/08/18/these-5-investors-are-betting-on-helping-you-live-longer-and-better/)
+- [5 investors explain why longevity tech is a long-term play](https://techcrunch.com/2022/08/18/5-investors-explain-why-longevity-tech-is-a-long-term-play/)
+- [Celebrate NASA&#39;s Voyager missions at 45 with this free webcast tonight](https://www.space.com/voyager-45-anniversary-nasa-webcast/)
+- [The three true robotic startup outcomes](https://techcrunch.com/2022/08/18/the-three-true-robotic-outcomes/)
+- [Pixelmator Photo is coming to Mac with a new subscription-based model](https://techcrunch.com/2022/08/18/pixelmator-photo-is-coming-to-mac-with-a-new-subscription-based-model/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
