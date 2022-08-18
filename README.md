@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Crappy chargers and sky-high prices are huge roadblocks to EV adoption](https://techcrunch.com/2022/08/17/crappy-chargers-and-sky-high-prices-are-huge-roadblocks-to-ev-adoption/)
+- [Black Girls Code founder Kimberly Bryant has been fired by her board](https://techcrunch.com/2022/08/17/black-girls-code-founder-kimberly-bryant-has-been-fired-by-her-board/)
 - [Skyrora completes second stage static fire test of its flagship rocket](https://techcrunch.com/2022/08/17/skyrora-completes-second-stage-static-fire-test-of-its-flagship-rocket/)
 - [Do we really need a $340, Wi-Fi enabled toaster?](https://techcrunch.com/2022/08/17/tineco-toasty-one/)
 - [How Amazon’s continued expansion into healthcare could buoy the sector](https://techcrunch.com/2022/08/17/how-amazons-continued-expansion-into-healthcare-could-buoy-the-sector/)
-- [Daily Crunch: Google will unplug its IoT Core service in August 2023](https://techcrunch.com/2022/08/17/daily-crunch-google-will-unplug-its-iot-core-service-in-august-2023/)
-- [Netflix’s ad-supported plan may block offline viewing, code suggests](https://techcrunch.com/2022/08/17/netflixs-ad-supported-plan-may-block-offline-viewing-code-suggests/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
