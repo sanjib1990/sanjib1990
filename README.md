@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [In Memoriam: Famed &#39;Comet Hunter&#39; Don Machholz dies at 69](https://www.space.com/comet-observer-don-macholz-tribute/)
-- [Beat the Meta Quest 2 price increase with this Best Buy deal](https://www.space.com/beat-the-meta-quest-2-price-increase-with-best-buy-deal/)
-- [Predator movies ranked, worst to best](https://www.space.com/predator-movies-ranked/)
-- [StarCraft: Remastered is free on Prime Gaming for a limited time](https://www.space.com/starcraft-remastered-free-prime-gaming-august-2022/)
-- [On This Day In Space: Aug. 19, 1997: 1st Filipino satellite launches into orbit](https://www.space.com/39251-on-this-day-in-space.html/)
+- [Stephan&#39;s Quintet: &#39;It&#39;s a Wonderful Life&#39; — and a wonderful James Webb Space Telescope image!](https://www.space.com/stephans-quintet-its-a-wonderful-life/)
+- [Zūm founder strikes balance between accessibility and a massive logistics network](https://techcrunch.com/2022/08/19/zum-founder-strikes-balance-between-accessibility-and-a-massive-logistics-network/)
+- [After CNN+ shutdown, Discovery+ adds a CNN Originals hub to its U.S. service](https://techcrunch.com/2022/08/19/after-cnn-shutdown-discovery-adds-a-cnn-originals-hub-to-its-u-s-service/)
+- [How W4 plans to monetize the Godot game engine using Red Hat’s open-source playbook](https://techcrunch.com/2022/08/19/how-w4-plans-to-commercialize-the-godot-game-engine-by-following-red-hats-playbook/)
+- [Andreessen, Atlántico, MAYA Capital add some dough to Fudo’s restaurant tech recipe](https://techcrunch.com/2022/08/19/andreessen-atlantico-maya-capital-fudos-seed-restaurant-tech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
