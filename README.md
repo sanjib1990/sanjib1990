@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Ending a 4-year partnership, DoorDash will stop delivering Walmart groceries next month](https://techcrunch.com/2022/08/19/daily-crunch-ending-a-4-year-partnership-doordash-will-stop-delivering-walmart-groceries-next-month/)
+- [Mark Zuckerberg says the metaverse won’t be as cringey as his cursed selfie](https://techcrunch.com/2022/08/19/mark-i-sure-hope-it-isnt/)
+- [Stripe has laid off employees behind TaxJar, a tax compliance startup it acquired last year](https://techcrunch.com/2022/08/19/stripe-layoffs-taxjar-tech/)
+- [Debris from most spectacular comet outburst may explain its perplexing behavior — and be visible in telescopes](https://www.space.com/comet-holmes-debris-could-reveal-secrets/)
 - [Netflix may copy Disney+’s decision not to run ads during kids’ programming](https://techcrunch.com/2022/08/19/netflix-may-copy-disneys-decision-not-to-run-ads-during-kids-programming/)
-- [NASA&#39;s moon-landing Artemis astronauts will explore 1 of these lunar locales](https://www.space.com/astronauts-moon-landing-artemis-3-candidate-sites/)
-- [Rocket Lab planning to launch private Venus mission in May 2023](https://www.space.com/news/rocket-lab-planning-to-launch-private-venus-mission-in-may-2023/)
-- [SpaceX launches 53 more Starlink satellites, lands rocket at sea again](https://www.space.com/spacex-starlink-group-4-27-launch-rocket-landing/)
-- [Samsung Galaxy Z Fold 4 review](https://techcrunch.com/2022/08/19/samsung-galaxy-z-fold-4-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
