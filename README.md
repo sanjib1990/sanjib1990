@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Tech veterans Nilekani and Aggarwal’s India venture raises $227 million second fund](https://techcrunch.com/2022/08/19/nandan-nilekani-sanjeev-aggarwal-fundamentum-second-fund/)
-- [Otter.ai slashes free monthly transcription minutes to 300, but opens recorder bot to all](https://techcrunch.com/2022/08/19/otter-ai-slashes-free-monthly-transcription-minutes-to-300-but-opens-recorder-bot-to-all/)
-- [Nigerian B2B e-commerce platform Omnibiz raises millions to gain and retain retail customers](https://techcrunch.com/2022/08/19/nigerian-b2b-e-commerce-platform-omnibiz-raises-millions-to-gain-and-retain-retail-customers/)
-- [Watch NASA unveil landing sites for Artemis 3 human return to the moon today](https://www.space.com/nasa-artemis-moon-landing-sites-webcast/)
-- [Just Eat Takeaway sells stake in Brazil’s iFood for up to $1.8B](https://techcrunch.com/2022/08/19/just-eat-takeaway-sells-stake-in-brazils-ifood-for-up-to-1-8b/)
+- [StarCraft: Remastered is free on Prime Gaming for a limited time](https://www.space.com/starcraft-remastered-free-prime-gaming-august-2022/)
+- [TikTok’s in-app browser could be keylogging, privacy analysis warns](https://techcrunch.com/2022/08/19/tiktok-fb-in-app-browser-tracking-analysis/)
+- [On This Day In Space: Aug. 19, 1997: 1st Filipino satellite launches into orbit](https://www.space.com/39251-on-this-day-in-space.html/)
+- [Otter.ai challenger Airgram raises $10M to transcribe and time your video calls](https://techcrunch.com/2022/08/19/otter-ai-airgram-transcribe-video-calls/)
+- [Microtraction hits $15M first close on its second fund for pre-seed investment in African startups](https://techcrunch.com/2022/08/19/microtraction-hits-15m-first-close-on-its-second-fund-for-pre-seed-investment-in-african-startups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
