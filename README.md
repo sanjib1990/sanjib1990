@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Rivian has dropped its cheapest trim level due to low customer demand](https://techcrunch.com/2022/08/19/rivian-has-dropped-its-cheapest-trim-level-due-to-low-customer-demand/)
-- [Best close-up of universe&#39;s most massive star reveals it might be smaller than thought](https://www.space.com/most-massive-known-star-universe-image/)
-- [Safeheron secures $7M to make private keys safer for crypto wallets](https://techcrunch.com/2022/08/19/safeheron-secures-7m-to-make-private-keys-safer-for-crypto-wallets/)
-- [Go mining for opportunity at TC Sessions: Crypto](https://techcrunch.com/2022/08/19/go-mining-for-opportunity-at-tc-sessions-crypto/)
-- [NASA selects four astrophysics missions for further study](https://www.space.com/nasa-selects-low-cost-science-mission-candidates/)
+- [TechCrunch+ roundup: How VC really works, longevity investor survey, choosing your angel](https://techcrunch.com/2022/08/19/techcrunch-roundup-how-vc-really-works-longevity-investor-survey-choosing-your-angel/)
+- [Lucid launches new EV performance brand with a three-motor $249,000 sedan](https://techcrunch.com/2022/08/19/lucid-launches-new-ev-performance-brand-three-motor-249000-sedan/)
+- [Faire and Forerunner get real about retail at TC Disrupt](https://techcrunch.com/2022/08/19/faire-and-forerunner-get-real-about-retail-at-tc-disrupt/)
+- [SpaceX Dragon cargo capsule departs space station for trip back to Earth](https://www.space.com/spacex-dragon-leave-space-station-august-2022/)
+- [a16z’s fintech leads say ‘Silicon Valley is becoming unbundled’](https://techcrunch.com/2022/08/19/a16z-fintech-interview-the-unbundling-of-silicon-valley/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
