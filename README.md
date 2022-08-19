@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Lincoln’s latest EV concept is a grand tourer land yacht with a sprinkle of 1920s nostalgia](https://techcrunch.com/2022/08/18/lincoln-model-l-ev-concept-grand-tourer/)
-- [Bolt founder Ryan Breslow isn’t going away](https://techcrunch.com/2022/08/18/bolt-founder-ryan-breslow-is-not-going-away/)
-- [Daily Crunch: HBO Max is pulling 36 shows this week — Here’s the list](https://techcrunch.com/2022/08/18/daily-crunch-hbo-max-is-pulling-36-shows-this-week-heres-the-list/)
-- [Federal, state regulators put pressure on Tesla’s Autopilot safety](https://techcrunch.com/2022/08/18/federal-state-regulators-put-pressure-on-teslas-autopilot-safety/)
-- [Samsung Galaxy Z Flip 4 review](https://techcrunch.com/2022/08/18/samsung-galaxy-flip-4-review/)
+- [Here&#39;s how scientists spotted a 9th target for NASA&#39;s Lucy asteroid mission](https://www.space.com/trojan-asteroids-lucy-mission-9th-target/)
+- [Celebrate NASA&#39;s Voyager missions at 45 with this free webcast tonight](https://www.space.com/voyager-45-anniversary-nasa-webcast/)
+- [&#39;Rogue One: A Star Wars Story&#39; scores an IMAX re-release ahead of new Disney Plus &#39;Andor&#39; series](https://www.space.com/rogue-one-star-wars-andor-imax/)
+- [SpaceX&#39;s giant Starship rocket to launch communications satellite in 2024](https://www.space.com/spacex-starship-communications-satellite-launch-contract/)
+- [NASA&#39;s Artemis 3 mission: Landing humans on the moon](https://www.space.com/artemis-3-moon-landing-mission/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
