@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [In Memoriam: Famed &#39;Comet Hunter&#39; Don Machholz dies at 69](https://www.space.com/comet-observer-don-macholz-tribute/)
+- [Beat the Meta Quest 2 price increase with this Best Buy deal](https://www.space.com/beat-the-meta-quest-2-price-increase-with-best-buy-deal/)
 - [Predator movies ranked, worst to best](https://www.space.com/predator-movies-ranked/)
-- [Massdriver wants to abstract away infrastructure to let devs focus on coding](https://techcrunch.com/2022/08/19/massdriver-wants-to-abstract-away-infrastructure-to-let-devs-focus-on-coding/)
-- [Law Commission proposes revolutionary rules for ownership of crypto tokens and NFTs](https://techcrunch.com/2022/08/19/uks-law-commission-proposes-revolutionary-rules-for-ownership-of-crypto-tokens-and-nfts/)
 - [StarCraft: Remastered is free on Prime Gaming for a limited time](https://www.space.com/starcraft-remastered-free-prime-gaming-august-2022/)
-- [TikTok’s in-app browser could be keylogging, privacy analysis warns](https://techcrunch.com/2022/08/19/tiktok-fb-in-app-browser-tracking-analysis/)
+- [On This Day In Space: Aug. 19, 1997: 1st Filipino satellite launches into orbit](https://www.space.com/39251-on-this-day-in-space.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
