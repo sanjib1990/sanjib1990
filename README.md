@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Exploding meteor startles Utah](https://www.space.com/utah-boom-meteor/)
+- [Wayfair to layoff 5% of its workforce, or nearly 900 employees](https://techcrunch.com/2022/08/19/wayfair-to-layoff-5-of-its-workforce-or-nearly-900-employees/)
+- [NASA&#39;s moon-landing astronauts will explore 1 of these regions](https://www.space.com/astronauts-moon-landing-artemis-3-candidate-sites/)
 - [British rocket startup Skyrora aces key engine test ahead of 2023 debut launch](https://www.space.com/skyrora-rocket-engine-static-fire-test/)
 - [TechCrunch+ roundup: How VC really works, longevity investor survey, choosing your angel](https://techcrunch.com/2022/08/19/techcrunch-roundup-how-vc-really-works-longevity-investor-survey-choosing-your-angel/)
-- [Lucid launches new EV performance brand with a three-motor $249,000 sedan](https://techcrunch.com/2022/08/19/lucid-launches-new-ev-performance-brand-three-motor-249000-sedan/)
-- [Faire and Forerunner get real about retail at TC Disrupt](https://techcrunch.com/2022/08/19/faire-and-forerunner-get-real-about-retail-at-tc-disrupt/)
-- [SpaceX Dragon cargo capsule departs space station for trip back to Earth](https://www.space.com/spacex-dragon-leave-space-station-august-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
