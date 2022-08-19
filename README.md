@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India’s higher education startup Sunstone raises $35 million](https://techcrunch.com/2022/08/18/indias-sunstone-raises-35-million-for-its-higher-education-startup/)
 - [Lincoln’s latest EV concept is a grand tourer land yacht with a sprinkle of 1920s nostalgia](https://techcrunch.com/2022/08/18/lincoln-model-l-ev-concept-grand-tourer/)
 - [Bolt founder Ryan Breslow isn’t going away](https://techcrunch.com/2022/08/18/bolt-founder-ryan-breslow-is-not-going-away/)
 - [Daily Crunch: HBO Max is pulling 36 shows this week — Here’s the list](https://techcrunch.com/2022/08/18/daily-crunch-hbo-max-is-pulling-36-shows-this-week-heres-the-list/)
 - [Federal, state regulators put pressure on Tesla’s Autopilot safety](https://techcrunch.com/2022/08/18/federal-state-regulators-put-pressure-on-teslas-autopilot-safety/)
-- [Samsung Galaxy Z Flip 4 review](https://techcrunch.com/2022/08/18/samsung-galaxy-flip-4-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
