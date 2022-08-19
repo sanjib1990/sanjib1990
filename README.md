@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Stephan&#39;s Quintet: &#39;It&#39;s a Wonderful Life&#39; — and a wonderful James Webb Space Telescope image!](https://www.space.com/stephans-quintet-its-a-wonderful-life/)
-- [Zūm founder strikes balance between accessibility and a massive logistics network](https://techcrunch.com/2022/08/19/zum-founder-strikes-balance-between-accessibility-and-a-massive-logistics-network/)
-- [After CNN+ shutdown, Discovery+ adds a CNN Originals hub to its U.S. service](https://techcrunch.com/2022/08/19/after-cnn-shutdown-discovery-adds-a-cnn-originals-hub-to-its-u-s-service/)
-- [How W4 plans to monetize the Godot game engine using Red Hat’s open-source playbook](https://techcrunch.com/2022/08/19/how-w4-plans-to-commercialize-the-godot-game-engine-by-following-red-hats-playbook/)
-- [Andreessen, Atlántico, MAYA Capital add some dough to Fudo’s restaurant tech recipe](https://techcrunch.com/2022/08/19/andreessen-atlantico-maya-capital-fudos-seed-restaurant-tech/)
+- [What happens when a Black founder is ousted?](https://techcrunch.com/2022/08/19/what-happens-when-a-black-founder-is-ousted/)
+- [Snap, HBO Max partner to launch AR experiences for ‘House of the Dragon’ premiere](https://techcrunch.com/2022/08/19/snap-hbo-max-partner-to-launch-ar-experiences-for-house-of-the-dragon-premiere/)
+- [A month on &#39;Mars&#39;: Trekking across the Arctic](https://www.space.com/month-on-mars-trekking-arctic/)
+- [Will your company cut your benefits or your coworkers first?](https://techcrunch.com/2022/08/19/companies-cut-tech-layoffs-or-benefits/)
+- [DoorDash is reportedly ending its delivery partnership with Walmart](https://techcrunch.com/2022/08/19/doordash-is-reportedly-ending-its-delivery-partnership-with-walmart/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
