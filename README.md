@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Netflix may copy Disney+’s decision not to run ads during kids’ programming](https://techcrunch.com/2022/08/19/netflix-may-copy-disneys-decision-not-to-run-ads-during-kids-programming/)
+- [NASA&#39;s moon-landing Artemis astronauts will explore 1 of these lunar locales](https://www.space.com/astronauts-moon-landing-artemis-3-candidate-sites/)
+- [Rocket Lab planning to launch private Venus mission in May 2023](https://www.space.com/news/rocket-lab-planning-to-launch-private-venus-mission-in-may-2023/)
+- [SpaceX launches 53 more Starlink satellites, lands rocket at sea again](https://www.space.com/spacex-starlink-group-4-27-launch-rocket-landing/)
 - [Samsung Galaxy Z Fold 4 review](https://techcrunch.com/2022/08/19/samsung-galaxy-z-fold-4-review/)
-- [Exploding meteor startles Utah](https://www.space.com/utah-boom-meteor/)
-- [Wayfair to layoff 5% of its workforce, or nearly 900 employees](https://techcrunch.com/2022/08/19/wayfair-to-layoff-5-of-its-workforce-or-nearly-900-employees/)
-- [NASA&#39;s moon-landing astronauts will explore 1 of these regions](https://www.space.com/astronauts-moon-landing-artemis-3-candidate-sites/)
-- [British rocket startup Skyrora aces key engine test ahead of 2023 debut launch](https://www.space.com/skyrora-rocket-engine-static-fire-test/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
