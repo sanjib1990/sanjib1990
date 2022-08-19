@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [What happens when a Black founder is ousted?](https://techcrunch.com/2022/08/19/what-happens-when-a-black-founder-is-ousted/)
-- [Snap, HBO Max partner to launch AR experiences for ‘House of the Dragon’ premiere](https://techcrunch.com/2022/08/19/snap-hbo-max-partner-to-launch-ar-experiences-for-house-of-the-dragon-premiere/)
-- [A month on &#39;Mars&#39;: Trekking across the Arctic](https://www.space.com/month-on-mars-trekking-arctic/)
-- [Will your company cut your benefits or your coworkers first?](https://techcrunch.com/2022/08/19/companies-cut-tech-layoffs-or-benefits/)
-- [DoorDash is reportedly ending its delivery partnership with Walmart](https://techcrunch.com/2022/08/19/doordash-is-reportedly-ending-its-delivery-partnership-with-walmart/)
+- [Rivian has dropped its cheapest trim level due to low customer demand](https://techcrunch.com/2022/08/19/rivian-has-dropped-its-cheapest-trim-level-due-to-low-customer-demand/)
+- [Best close-up of universe&#39;s most massive star reveals it might be smaller than thought](https://www.space.com/most-massive-known-star-universe-image/)
+- [Safeheron secures $7M to make private keys safer for crypto wallets](https://techcrunch.com/2022/08/19/safeheron-secures-7m-to-make-private-keys-safer-for-crypto-wallets/)
+- [Go mining for opportunity at TC Sessions: Crypto](https://techcrunch.com/2022/08/19/go-mining-for-opportunity-at-tc-sessions-crypto/)
+- [NASA selects four astrophysics missions for further study](https://www.space.com/nasa-selects-low-cost-science-mission-candidates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
