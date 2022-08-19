@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [British rocket startup Skyrora aces key engine test ahead of 2023 debut launch](https://www.space.com/skyrora-rocket-engine-static-fire-test/)
 - [TechCrunch+ roundup: How VC really works, longevity investor survey, choosing your angel](https://techcrunch.com/2022/08/19/techcrunch-roundup-how-vc-really-works-longevity-investor-survey-choosing-your-angel/)
 - [Lucid launches new EV performance brand with a three-motor $249,000 sedan](https://techcrunch.com/2022/08/19/lucid-launches-new-ev-performance-brand-three-motor-249000-sedan/)
 - [Faire and Forerunner get real about retail at TC Disrupt](https://techcrunch.com/2022/08/19/faire-and-forerunner-get-real-about-retail-at-tc-disrupt/)
 - [SpaceX Dragon cargo capsule departs space station for trip back to Earth](https://www.space.com/spacex-dragon-leave-space-station-august-2022/)
-- [a16z’s fintech leads say ‘Silicon Valley is becoming unbundled’](https://techcrunch.com/2022/08/19/a16z-fintech-interview-the-unbundling-of-silicon-valley/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
