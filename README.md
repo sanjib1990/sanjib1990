@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tech veterans Nilekani and Aggarwal’s India venture raises $227 million second fund](https://techcrunch.com/2022/08/19/nandan-nilekani-sanjeev-aggarwal-fundamentum-second-fund/)
+- [Otter.ai slashes free monthly transcription minutes to 300, but opens recorder bot to all](https://techcrunch.com/2022/08/19/otter-ai-slashes-free-monthly-transcription-minutes-to-300-but-opens-recorder-bot-to-all/)
 - [Nigerian B2B e-commerce platform Omnibiz raises millions to gain and retain retail customers](https://techcrunch.com/2022/08/19/nigerian-b2b-e-commerce-platform-omnibiz-raises-millions-to-gain-and-retain-retail-customers/)
+- [Watch NASA unveil landing sites for Artemis 3 human return to the moon today](https://www.space.com/nasa-artemis-moon-landing-sites-webcast/)
 - [Just Eat Takeaway sells stake in Brazil’s iFood for up to $1.8B](https://techcrunch.com/2022/08/19/just-eat-takeaway-sells-stake-in-brazils-ifood-for-up-to-1-8b/)
-- [India’s higher education startup Sunstone raises $35 million](https://techcrunch.com/2022/08/18/indias-sunstone-raises-35-million-for-its-higher-education-startup/)
-- [Lincoln’s latest EV concept is a grand tourer land yacht with a sprinkle of 1920s nostalgia](https://techcrunch.com/2022/08/18/lincoln-model-l-ev-concept-grand-tourer/)
-- [Bolt founder Ryan Breslow isn’t going away](https://techcrunch.com/2022/08/18/bolt-founder-ryan-breslow-is-not-going-away/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
