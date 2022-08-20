@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple patches nasty security bugs, HBO Max suddenly removes content, and a16z backs Neumann’s next thing](https://techcrunch.com/2022/08/20/apple-patches-nasty-security-bugs-hbo-max-suddenly-removes-content-and-a16z-backs-neumanns-next-thing/)
 - [A return and an ousting](https://techcrunch.com/2022/08/20/a-return-and-an-ouster/)
 - [This Week in Apps: Android 13 arrives, apps plan for midterms, Amazon copies TikTok](https://techcrunch.com/2022/08/20/this-week-in-apps-android-13-arrives-apps-plan-for-midterms-amazon-copies-tiktok/)
 - [German startups could use more venture capital, but Germany’s government has a plan](https://techcrunch.com/2022/08/20/german-startups-could-use-more-venture-capital-but-germanys-government-has-a-plan/)
 - [VTubers are making millions on YouTube and Twitch](https://techcrunch.com/2022/08/20/vtubers-are-making-millions-on-youtube-and-twitch/)
-- [Go mining for opportunity at TC Sessions: Crypto](https://techcrunch.com/2022/08/20/go-mining-for-opportunity-at-tc-sessions-crypto/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
