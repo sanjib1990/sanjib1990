@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A return and an ousting](https://techcrunch.com/2022/08/20/a-return-and-an-ouster/)
+- [This Week in Apps: Android 13 arrives, apps plan for midterms, Amazon copies TikTok](https://techcrunch.com/2022/08/20/this-week-in-apps-android-13-arrives-apps-plan-for-midterms-amazon-copies-tiktok/)
 - [German startups could use more venture capital, but Germany’s government has a plan](https://techcrunch.com/2022/08/20/german-startups-could-use-more-venture-capital-but-germanys-government-has-a-plan/)
 - [VTubers are making millions on YouTube and Twitch](https://techcrunch.com/2022/08/20/vtubers-are-making-millions-on-youtube-and-twitch/)
 - [Go mining for opportunity at TC Sessions: Crypto](https://techcrunch.com/2022/08/20/go-mining-for-opportunity-at-tc-sessions-crypto/)
-- [This Week In Space podcast: Episode 25 — A beginner&#39;s guide to dying in space](https://www.space.com/this-week-in-space-podcast-twit/)
-- [On This Day In Space: Aug. 20, 1977: Voyager 2 launches to the outer planets](https://www.space.com/39251-on-this-day-in-space.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
