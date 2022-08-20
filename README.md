@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [VTubers are making millions on YouTube and Twitch](https://techcrunch.com/2022/08/20/vtubers-are-making-millions-on-youtube-and-twitch/)
 - [Go mining for opportunity at TC Sessions: Crypto](https://techcrunch.com/2022/08/20/go-mining-for-opportunity-at-tc-sessions-crypto/)
 - [This Week In Space podcast: Episode 25 — A beginner&#39;s guide to dying in space](https://www.space.com/this-week-in-space-podcast-twit/)
 - [On This Day In Space: Aug. 20, 1977: Voyager 2 launches to the outer planets](https://www.space.com/39251-on-this-day-in-space.html/)
 - [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html/)
-- [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
