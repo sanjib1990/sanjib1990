@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The Anti-Adam Neumann](https://techcrunch.com/2022/08/20/the-anti-adam-neumann/)
-- [John Carmack’s AGI startup raises $20M from Sequoia, Nat Friedman, Patrick Collison and others](https://techcrunch.com/2022/08/19/john-carmack-agi-keen-raises-20-million-from-sequoia-nat-friedman-and-others/)
-- [Mark Zuckerberg says the metaverse won’t be as cringey as his cursed selfie](https://techcrunch.com/2022/08/19/mark-i-sure-hope-it-isnt/)
-- [Daily Crunch: Ending a 4-year partnership, DoorDash will stop delivering Walmart groceries next month](https://techcrunch.com/2022/08/19/daily-crunch-ending-a-4-year-partnership-doordash-will-stop-delivering-walmart-groceries-next-month/)
-- [Stripe has laid off employees behind TaxJar, a tax compliance startup it acquired last year](https://techcrunch.com/2022/08/19/stripe-layoffs-taxjar-tech/)
+- [X-ray experiment set for 15-minute flight to space to study supernova remnants](https://www.space.com/nasa-sounding-rocket-study-supernova-remnants/)
+- [China launches latest group of Yaogan 35 spy satellites](https://www.space.com/china-launches-spy-satellites-yaogan-35-04/)
+- [Europe is looking at space-based solar power to address energy crisis](https://www.space.com/europe-space-based-solar-power/)
+- [Voyager turns 45: What the iconic mission taught us and what&#39;s next](https://www.space.com/voyager-spacecraft-45th-launch-anniversary-science/)
+- [Firefly Aerospace targets Sept. 11 for second Alpha rocket launch](https://www.space.com/firefly-aerospace-alpha-rocket-september-11-launch-date/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
