@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Anti-Adam Neumann](https://techcrunch.com/2022/08/20/the-anti-adam-neumann/)
 - [John Carmack’s AGI startup raises $20M from Sequoia, Nat Friedman, Patrick Collison and others](https://techcrunch.com/2022/08/19/john-carmack-agi-keen-raises-20-million-from-sequoia-nat-friedman-and-others/)
 - [Mark Zuckerberg says the metaverse won’t be as cringey as his cursed selfie](https://techcrunch.com/2022/08/19/mark-i-sure-hope-it-isnt/)
 - [Daily Crunch: Ending a 4-year partnership, DoorDash will stop delivering Walmart groceries next month](https://techcrunch.com/2022/08/19/daily-crunch-ending-a-4-year-partnership-doordash-will-stop-delivering-walmart-groceries-next-month/)
 - [Stripe has laid off employees behind TaxJar, a tax compliance startup it acquired last year](https://techcrunch.com/2022/08/19/stripe-layoffs-taxjar-tech/)
-- [Debris from most spectacular comet outburst may explain its perplexing behavior — and be visible in telescopes](https://www.space.com/comet-holmes-debris-could-reveal-secrets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
