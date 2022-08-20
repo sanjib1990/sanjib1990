@@ -94,10 +94,10 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Adam Neumann, Kimberly Bryant and the importance of nuance](https://techcrunch.com/2022/08/20/adam-neumann-kimberly-bryant-and-the-pressure-of-who-gets-checks-versus-balances/)
 - [X-ray experiment set for 15-minute flight to space to study supernova remnants](https://www.space.com/nasa-sounding-rocket-study-supernova-remnants/)
 - [China launches latest group of Yaogan 35 spy satellites](https://www.space.com/china-launches-spy-satellites-yaogan-35-04/)
 - [Europe is looking at space-based solar power to address energy crisis](https://www.space.com/europe-space-based-solar-power/)
-- [Voyager turns 45: What the iconic mission taught us and what&#39;s next](https://www.space.com/voyager-spacecraft-45th-launch-anniversary-science/)
 - [Firefly Aerospace targets Sept. 11 for second Alpha rocket launch](https://www.space.com/firefly-aerospace-alpha-rocket-september-11-launch-date/)
 <!-- BLOG-POST-LIST:END -->
 
