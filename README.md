@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch NASA&#39;s historic Artemis 1 SLS megarocket launch to the moon online](https://www.space.com/nasa-artemis-1-sls-moon-rocket-launch-webcasts/)
+- [A conversation with Andreessen Horowitz’s fintech leads](https://techcrunch.com/2022/08/21/a-conversation-with-andreessen-horowitzs-fintech-leads/)
 - [&#39;Magical&#39; rock crystals found at Stone Age ceremonial site in England](https://www.space.com/crystals-neolithic-ceremonial-site-uk/)
 - [Scientists blast atoms with Fibonacci laser to make an &#39;extra&#39; dimension of time](https://www.space.com/fibonacci-material-with-two-dimensions-of-time/)
 - [Crypto, where the fallen seek a fresh start](https://techcrunch.com/2022/08/21/crypto-chain-reaction-adam-neumann-flow-flowcarbon-startup-newsletter/)
-- [For the first time, scientists have named a heat wave](https://www.space.com/first-named-heat-wave/)
-- [On This Day In Space: Aug. 21, 1914: Total Solar Eclipse expedition crashed by World War I](https://www.space.com/39251-on-this-day-in-space.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
