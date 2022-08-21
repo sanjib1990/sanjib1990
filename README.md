@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [3 views: Thoughts on Flow](https://techcrunch.com/2022/08/21/3-views-thoughts-on-flow/)
 - [Polestar CEO sees value in EVs, even when they’re parked](https://techcrunch.com/2022/08/21/polestar-ceo-sees-value-in-evs-even-when-theyre-parked/)
 - [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
 - [Watch NASA&#39;s Artemis 1 SLS megarocket moon launch for free with these live webcasts](https://www.space.com/nasa-artemis-1-sls-moon-rocket-launch-webcasts/)
 - [A conversation with Andreessen Horowitz’s fintech leads](https://techcrunch.com/2022/08/21/a-conversation-with-andreessen-horowitzs-fintech-leads/)
-- [&#39;Magical&#39; rock crystals found at Stone Age ceremonial site in England](https://www.space.com/crystals-neolithic-ceremonial-site-uk/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
