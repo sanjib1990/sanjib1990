@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists blast atoms with Fibonacci laser to make an &#39;extra&#39; dimension of time](https://www.space.com/fibonacci-material-with-two-dimensions-of-time/)
+- [Crypto, where the fallen seek a fresh start](https://techcrunch.com/2022/08/21/crypto-chain-reaction-adam-neumann-flow-flowcarbon-startup-newsletter/)
 - [For the first time, scientists have named a heat wave](https://www.space.com/first-named-heat-wave/)
 - [On This Day In Space: Aug. 21, 1914: Total Solar Eclipse expedition crashed by World War I](https://www.space.com/39251-on-this-day-in-space.html/)
 - [Photobombing exoplanets might thwart search for extraterrestrial life](https://www.space.com/photobombing-exoplanets-might-thwart-search-for-life/)
-- [Hubble Space Telescope photo shows star-studded globular cluster near Milky Way&#39;s core](https://www.space.com/hubble-space-telescope-photo-sagittarius-globular-cluster/)
-- [&#39;Just Like Being There&#39;: Award-winning science fiction author Eric Choi talks Star Trek, storytelling and more](https://www.space.com/just-like-being-there-sci-fi-book-eric-choi-interview/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
