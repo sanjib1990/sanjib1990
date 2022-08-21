@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Photobombing exoplanets might thwart search for extraterrestrial life](https://www.space.com/photobombing-exoplanets-might-thwart-search-for-life/)
+- [Hubble Space Telescope photo shows star-studded globular cluster near Milky Way&#39;s core](https://www.space.com/hubble-space-telescope-photo-sagittarius-globular-cluster/)
+- [&#39;Just Like Being There&#39;: Award-winning science fiction author Eric Choi talks Star Trek, storytelling and more](https://www.space.com/just-like-being-there-sci-fi-book-eric-choi-interview/)
+- [A month on &#39;Mars&#39;: Flags and footprints of the moon and Arctic](https://www.space.com/month-on-mars-flags-and-footprints/)
 - [SpaceX Dragon cargo ship returns to Earth from space station](https://www.space.com/spaceX-dragon-cargo-ship-25-splashdown-success/)
-- [Apple patches nasty security bugs, HBO Max suddenly removes content, and a16z backs Neumann’s next thing](https://techcrunch.com/2022/08/20/apple-patches-nasty-security-bugs-hbo-max-suddenly-removes-content-and-a16z-backs-neumanns-next-thing/)
-- [A return and an ousting](https://techcrunch.com/2022/08/20/a-return-and-an-ouster/)
-- [This Week in Apps: Android 13 arrives, apps plan for midterms, Amazon copies TikTok](https://techcrunch.com/2022/08/20/this-week-in-apps-android-13-arrives-apps-plan-for-midterms-amazon-copies-tiktok/)
-- [German startups could use more venture capital, but Germany’s government has a plan](https://techcrunch.com/2022/08/20/german-startups-could-use-more-venture-capital-but-germanys-government-has-a-plan/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
