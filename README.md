@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s new 3D sky-mapping space telescope gets a custom test chamber](https://www.space.com/nasa-spherex-telescope-test-chamber/)
+- [Surviving the SaaS tsunami: Optimize your tech stack to reduce risk and free up cash flow](https://techcrunch.com/2022/08/22/surviving-the-saas-tsunami-optimize-renewal-processes-to-reduce-risk-and-free-up-cash-flow/)
+- [Disney accelerator alum Miko celebrates 140-country launch](https://techcrunch.com/2022/08/22/miko-disney-accelerator/)
+- [Weird quantum experiment shows protons have more &#39;charm&#39; than we thought](https://www.space.com/protons-charm-quark/)
 - [Is Adam Neumann a new man? and other TC news](https://techcrunch.com/2022/08/22/is-adam-neumann-a-new-man-and-other-tc-news/)
-- [YouTube launches a dedicated podcasts homepage for U.S. users](https://techcrunch.com/2022/08/22/youtube-launches-a-dedicated-podcasts-homepage-for-u-s-users/)
-- [Parsing FTX’s 2021 growth in a Coinbase context](https://techcrunch.com/2022/08/22/parsing-ftxs-2021-growth-in-a-coinbase-context/)
-- [Meet the ex-Amazon satellite engineers wanting to disrupt hardware workflow](https://techcrunch.com/2022/08/22/meet-the-ex-project-kuiper-engineers-wanting-to-disrupt-hardware-workflow/)
-- [Morpheus Space makes big moves in the booming satellite mobility industry &lpar;exclusive&rpar;](https://www.space.com/morpheus-space-satellites-propulsion/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
