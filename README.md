@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Oracle’s ‘surveillance machine’ targeted in US privacy class action](https://techcrunch.com/2022/08/22/oracle-us-privacy-class-action/)
-- [Webb’s Jupiter Images Showcase Auroras, Hazes](https://blogs.nasa.gov/webb/2022/08/22/webbs-jupiter-images-showcase-auroras-hazes/)
-- [Zencastr adds editing and distro in bid to become a full-service podcast offering](https://techcrunch.com/2022/08/22/zencastr-adds-editing-and-distro-in-bid-to-become-a-full-service-podcast-offering/)
-- [The Station: EVs abound at Monterey Car Week and Tesla amateur testing spreads to include kids](https://techcrunch.com/2022/08/22/the-station-evs-abound-at-monterey-car-week-and-tesla-amateur-testing-spreads-to-include-kids/)
-- [Why we&#39;re always so entranced by the moon](https://www.space.com/moon-fascination-culture-history/)
+- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
+- [4 ways founders can amplify revenue during hard times](https://techcrunch.com/2022/08/22/4-ways-founders-can-amplify-revenue-during-hard-times/)
+- [Apple adds select MacBooks to Self Service Repair offerings](https://techcrunch.com/2022/08/22/apple-adds-select-macbooks-to-self-service-repair-offerings/)
+- [NASA&#39;s epic Artemis 1 moon mission launch is just 1 week away](https://www.space.com/nasa-artemis-1-mission-launch-one-week/)
+- [On This Day In Space: Aug. 22, 1963: X-15 rocket plane sets world altitude record](https://www.space.com/39251-on-this-day-in-space.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
