@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Artemis 1 will carry a space weather cubesat to study solar wind](https://www.space.com/artemis-1-moon-mission-cusp-cubesat-space-weather/)
+- [Dark matter could finally reveal itself through self-interactions](https://www.space.com/dark-matter-theory-self-interacting/)
+- [&#39;Solar clock&#39; could predict rhythms of dangerous weather in the sun&#39;s cycle](https://www.space.com/solar-clock-sun-cycle-space-weather/)
 - [Netflix explores cloud gaming as it looks for new hires](https://techcrunch.com/2022/08/22/netflix-explores-cloud-gaming-as-it-looks-for-new-hires/)
 - [Manchin’s ultimatum may turn the US into a battery powerhouse](https://techcrunch.com/2022/08/22/manchins-ultimatum-may-turn-the-us-into-a-battery-powerhouse/)
-- [International Space Station will host a surgical robot in 2024](https://www.space.com/international-space-station-surgical-robot-mira-2024/)
-- [Apple kicks off fundraising effort to support U.S. National Parks via Apple Pay donations](https://techcrunch.com/2022/08/22/apple-kicks-off-fundraising-effort-to-support-u-s-national-parks-via-apple-pay-donations/)
-- [Stars appear to regulate their own masses during formation](https://www.space.com/starforge-stars-regulate-own-mass/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
