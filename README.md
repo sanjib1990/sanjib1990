@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Oracle’s ‘surveillance machine’ targeted in US privacy class action](https://techcrunch.com/2022/08/22/oracle-us-privacy-class-action/)
+- [Webb’s Jupiter Images Showcase Auroras, Hazes](https://blogs.nasa.gov/webb/2022/08/22/webbs-jupiter-images-showcase-auroras-hazes/)
+- [Zencastr adds editing and distro in bid to become a full-service podcast offering](https://techcrunch.com/2022/08/22/zencastr-adds-editing-and-distro-in-bid-to-become-a-full-service-podcast-offering/)
 - [The Station: EVs abound at Monterey Car Week and Tesla amateur testing spreads to include kids](https://techcrunch.com/2022/08/22/the-station-evs-abound-at-monterey-car-week-and-tesla-amateur-testing-spreads-to-include-kids/)
 - [Why we&#39;re always so entranced by the moon](https://www.space.com/moon-fascination-culture-history/)
-- [China is building a huge ring of telescopes to study eruptions on the sun](https://www.space.com/china-world-largest-solar-research-array/)
-- [Launch of NASA&#39;s epic Artemis 1 moon mission just 1 week away](https://www.space.com/nasa-artemis-1-mission-launch-one-week/)
-- [A month on &#39;Mars&#39;: Journey to the &#39;Planet of the Apes Valley&#39;](https://www.space.com/month-on-mars-journey-planet-apes-valley/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
