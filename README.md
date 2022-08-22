@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Collectible trading card marketplace TCGplayer sells to eBay for $295M](https://techcrunch.com/2022/08/22/daily-crunch-collectible-trading-card-marketplace-tcgplayer-sells-to-ebay-for-295m/)
+- [Max Q: To the moon!!!](https://techcrunch.com/2022/08/22/max-q-to-the-moon/)
+- [Tesla’s petition against CA civil rights agency suing for racial bias is denied](https://techcrunch.com/2022/08/22/teslas-petition-against-ca-civil-rights-agency-suing-for-racial-bias-is-denied/)
+- [Jupiter&#39;s auroras look radiant in new James Webb Space Telescope images](https://www.space.com/james-webb-space-telescope-jupiter-aurora-images/)
 - [Artemis 1 will carry a space weather cubesat to study solar wind](https://www.space.com/artemis-1-moon-mission-cusp-cubesat-space-weather/)
-- [Dark matter could finally reveal itself through self-interactions](https://www.space.com/dark-matter-theory-self-interacting/)
-- [&#39;Solar clock&#39; could predict rhythms of dangerous weather in the sun&#39;s cycle](https://www.space.com/solar-clock-sun-cycle-space-weather/)
-- [Netflix explores cloud gaming as it looks for new hires](https://techcrunch.com/2022/08/22/netflix-explores-cloud-gaming-as-it-looks-for-new-hires/)
-- [Manchin’s ultimatum may turn the US into a battery powerhouse](https://techcrunch.com/2022/08/22/manchins-ultimatum-may-turn-the-us-into-a-battery-powerhouse/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
