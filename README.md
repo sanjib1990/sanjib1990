@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Elon Musk subpoenas former Twitter CEO Jack Dorsey](https://techcrunch.com/2022/08/22/elon-musk-subpoenas-former-twitter-ceo-jack-dorsey/)
-- [The great shrinking late-stage round](https://techcrunch.com/2022/08/22/the-great-shrinking-late-stage-round/)
-- [‘Thor: Love and Thunder’ to premiere on Disney+ next month on ‘Disney+ Day’](https://techcrunch.com/2022/08/22/thor-love-and-thunder-to-premiere-on-disney-next-month-on-disney-day/)
-- [LockBit ransomware group downed by DDoS after claiming Entrust breach](https://techcrunch.com/2022/08/22/entrust-lockbit-ddos-ransomware/)
-- [Galaxy&#39;s violent destruction acted as &#39;black hole delivery service&#39;](https://www.space.com/black-hole-delivery-service-nikhull/)
+- [Netflix explores cloud gaming as it looks for new hires](https://techcrunch.com/2022/08/22/netflix-explores-cloud-gaming-as-it-looks-for-new-hires/)
+- [Manchin’s ultimatum may turn the US into a battery powerhouse](https://techcrunch.com/2022/08/22/manchins-ultimatum-may-turn-the-us-into-a-battery-powerhouse/)
+- [International Space Station will host a surgical robot in 2024](https://www.space.com/international-space-station-surgical-robot-mira-2024/)
+- [Apple kicks off fundraising effort to support U.S. National Parks via Apple Pay donations](https://techcrunch.com/2022/08/22/apple-kicks-off-fundraising-effort-to-support-u-s-national-parks-via-apple-pay-donations/)
+- [Stars appear to regulate their own masses during formation](https://www.space.com/starforge-stars-regulate-own-mass/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
