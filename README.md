@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is Adam Neumann a new man? and other TC news](https://techcrunch.com/2022/08/22/is-adam-neumann-a-new-man-and-other-tc-news/)
+- [YouTube launches a dedicated podcasts homepage for U.S. users](https://techcrunch.com/2022/08/22/youtube-launches-a-dedicated-podcasts-homepage-for-u-s-users/)
 - [Parsing FTX’s 2021 growth in a Coinbase context](https://techcrunch.com/2022/08/22/parsing-ftxs-2021-growth-in-a-coinbase-context/)
 - [Meet the ex-Amazon satellite engineers wanting to disrupt hardware workflow](https://techcrunch.com/2022/08/22/meet-the-ex-project-kuiper-engineers-wanting-to-disrupt-hardware-workflow/)
 - [Morpheus Space makes big moves in the booming satellite mobility industry &lpar;exclusive&rpar;](https://www.space.com/morpheus-space-satellites-propulsion/)
-- [Ford to cut 3,000 jobs amid restructuring](https://techcrunch.com/2022/08/22/ford-to-cut-3000-jobs-amid-restructuring/)
-- [Ava Labs’ John Wu talks growth and the upside of a crypto winter at TC Sessions: Crypto](https://techcrunch.com/2022/08/22/ava-labs-john-wu-talks-growth-and-the-upside-of-a-crypto-winter-at-tc-sessions-crypto/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
