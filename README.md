@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Complete helps startups think through the ‘why’ and ‘how’ of employee pay](https://techcrunch.com/2022/08/22/complete-startups-compensation-salary-benefits-tech-employee-equity-strategy-hiring-retention-philosophy-y-combinator/)
-- [MoviePass readies a Labor Day return](https://techcrunch.com/2022/08/22/moviepass-readies-a-labor-day-return/)
-- [&#39;Love, Death + Robots&#39; and &#39;Avenue 5&#39; will return for new seasons](https://www.space.com/love-death-robots-avenue-5-renewed-new-seasons/)
-- [Why the ‘last click’ in e-commerce matters — and how to get it right](https://techcrunch.com/2022/08/22/why-the-last-click-in-e-commerce-matters-and-how-to-get-it-right/)
-- [eBay is acquiring trading card marketplace TCGplayer for up to $295M](https://techcrunch.com/2022/08/22/ebay-acquiring-trading-card-marketplace-tcgplayer-295m/)
+- [Parsing FTX’s 2021 growth in a Coinbase context](https://techcrunch.com/2022/08/22/parsing-ftxs-2021-growth-in-a-coinbase-context/)
+- [Meet the ex-Amazon satellite engineers wanting to disrupt hardware workflow](https://techcrunch.com/2022/08/22/meet-the-ex-project-kuiper-engineers-wanting-to-disrupt-hardware-workflow/)
+- [Morpheus Space makes big moves in the booming satellite mobility industry &lpar;exclusive&rpar;](https://www.space.com/morpheus-space-satellites-propulsion/)
+- [Ford to cut 3,000 jobs amid restructuring](https://techcrunch.com/2022/08/22/ford-to-cut-3000-jobs-amid-restructuring/)
+- [Ava Labs’ John Wu talks growth and the upside of a crypto winter at TC Sessions: Crypto](https://techcrunch.com/2022/08/22/ava-labs-john-wu-talks-growth-and-the-upside-of-a-crypto-winter-at-tc-sessions-crypto/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
