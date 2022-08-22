@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [What’s a crypto exchange worth?](https://techcrunch.com/2022/08/22/whats-a-crypto-exchange-worth/)
-- [CSI, a decades-old fintech solutions vendor, agrees to be acquired for $1.6B](https://techcrunch.com/2022/08/22/csi-a-decades-old-fintech-solutions-vendor-agrees-to-be-acquired-for-1-6b/)
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
-- [4 ways founders can amplify revenue during hard times](https://techcrunch.com/2022/08/22/4-ways-founders-can-amplify-revenue-during-hard-times/)
-- [Apple adds select MacBooks to Self Service Repair offerings](https://techcrunch.com/2022/08/22/apple-adds-select-macbooks-to-self-service-repair-offerings/)
+- [Complete helps startups think through the ‘why’ and ‘how’ of employee pay](https://techcrunch.com/2022/08/22/complete-startups-compensation-salary-benefits-tech-employee-equity-strategy-hiring-retention-philosophy-y-combinator/)
+- [MoviePass readies a Labor Day return](https://techcrunch.com/2022/08/22/moviepass-readies-a-labor-day-return/)
+- [&#39;Love, Death + Robots&#39; and &#39;Avenue 5&#39; will return for new seasons](https://www.space.com/love-death-robots-avenue-5-renewed-new-seasons/)
+- [Why the ‘last click’ in e-commerce matters — and how to get it right](https://techcrunch.com/2022/08/22/why-the-last-click-in-e-commerce-matters-and-how-to-get-it-right/)
+- [eBay is acquiring trading card marketplace TCGplayer for up to $295M](https://techcrunch.com/2022/08/22/ebay-acquiring-trading-card-marketplace-tcgplayer-295m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
