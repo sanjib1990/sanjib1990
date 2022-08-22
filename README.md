@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s new 3D sky-mapping space telescope gets a custom test chamber](https://www.space.com/nasa-spherex-telescope-test-chamber/)
-- [Surviving the SaaS tsunami: Optimize your tech stack to reduce risk and free up cash flow](https://techcrunch.com/2022/08/22/surviving-the-saas-tsunami-optimize-renewal-processes-to-reduce-risk-and-free-up-cash-flow/)
-- [Disney accelerator alum Miko celebrates 140-country launch](https://techcrunch.com/2022/08/22/miko-disney-accelerator/)
-- [Weird quantum experiment shows protons have more &#39;charm&#39; than we thought](https://www.space.com/protons-charm-quark/)
-- [Is Adam Neumann a new man? and other TC news](https://techcrunch.com/2022/08/22/is-adam-neumann-a-new-man-and-other-tc-news/)
+- [Elon Musk subpoenas former Twitter CEO Jack Dorsey](https://techcrunch.com/2022/08/22/elon-musk-subpoenas-former-twitter-ceo-jack-dorsey/)
+- [The great shrinking late-stage round](https://techcrunch.com/2022/08/22/the-great-shrinking-late-stage-round/)
+- [‘Thor: Love and Thunder’ to premiere on Disney+ next month on ‘Disney+ Day’](https://techcrunch.com/2022/08/22/thor-love-and-thunder-to-premiere-on-disney-next-month-on-disney-day/)
+- [LockBit ransomware group downed by DDoS after claiming Entrust breach](https://techcrunch.com/2022/08/22/entrust-lockbit-ddos-ransomware/)
+- [Galaxy&#39;s violent destruction acted as &#39;black hole delivery service&#39;](https://www.space.com/black-hole-delivery-service-nikhull/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
