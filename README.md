@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SoftBank-backed Socar, South Korea’s largest car-sharing startup, tumbles on market debut](https://techcrunch.com/2022/08/22/softbank-backed-socar-south-koreas-largest-car-sharing-startup-tumbles-on-market-debut/)
+- [New media venture in India helping readers discern signal from noise](https://techcrunch.com/2022/08/21/new-media-venture-in-india-helping-readers-discern-signal-from-noise/)
 - [Human drivers in UK won’t be liable for accidents when vehicle is self-driving](https://techcrunch.com/2022/08/21/human-drivers-in-uk-wont-be-liable-for-accidents-when-vehicle-is-self-driving/)
 - [YouTube isn’t cool with videos of Tesla FSD beta testing on kids](https://techcrunch.com/2022/08/21/youtube-isnt-cool-with-videos-of-tesla-fsd-beta-testing-on-kids/)
 - [Tesla increases FSD beta cost to $15,000 in North America](https://techcrunch.com/2022/08/21/tesla-increases-fsd-beta-cost-to-15000-in-north-america/)
-- [3 views: Thoughts on Flow](https://techcrunch.com/2022/08/21/3-views-thoughts-on-flow/)
-- [Polestar CEO sees value in EVs, even when they’re parked](https://techcrunch.com/2022/08/21/polestar-ceo-sees-value-in-evs-even-when-theyre-parked/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
