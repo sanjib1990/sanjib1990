@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Astro just Launched.... Could it be the ultimate web framework?](https://www.youtube.com/watch?v=gxBkghlglTg)
-- [you need to learn SQL RIGHT NOW!! &lpar;SQL Tutorial for Beginners&rpar;](https://www.youtube.com/watch?v=xiUTqnI6xk8)
-- [ask me anything.](https://www.youtube.com/watch?v=cJ4yAaGazPg)
-- [I built a JavaScript framework](https://www.youtube.com/watch?v=SJeBRW1QQMA)
-- [Coffee with Brian Kernighan - Computerphile](https://www.youtube.com/watch?v=GNyQxXw_oMQ)
+- [4B. DNA 2: Dynamic Programming, Blast, Multi-alignment, Hidden Markov Models](https://www.youtube.com/watch?v=VVCE-6kmyBI)
+- [11B. Networks 3: The Future of Computational Biology: Cellular, Developmental, Social,...](https://www.youtube.com/watch?v=lqfKi0Pkt6U)
+- [6A. RNA 2: Clustering by Gene or Condition and Other Regulon Data Sources Nucleic Acid ...](https://www.youtube.com/watch?v=axiNLT3tkqg)
+- [7A. Protein 1: 3D Structural Genomics, Homology, Catalytic and Regulatory Dynamics, Fun...](https://www.youtube.com/watch?v=2xONWF0XzOI)
+- [5AB. RNA 1: Microarrays, Library Sequencing and Quantitation Concepts](https://www.youtube.com/watch?v=qiz-ywBpQlo)
 <!-- YOUTUBE:END -->
 
 ---
