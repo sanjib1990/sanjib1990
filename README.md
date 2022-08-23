@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ready Player Me, a platform to build dynamic cross-game avatars for virtual worlds, raises $56M led by a16z](https://techcrunch.com/2022/08/23/ready-player-me-a-platform-to-build-dynamic-cross-game-avatars-for-virtual-worlds-raises-56m-led-by-a16z/)
 - [Dutchie launches new cannabis Point of Sale platform with its own dual-screen register](https://techcrunch.com/2022/08/23/dutchie-launches-new-cannabis-point-of-sale-platform-with-its-own-dual-screen-register/)
 - [As NASA nears return to the moon with Artemis program, lunar scientists&#39; excitement reaches fever pitch](https://www.space.com/moon-science-excitement-artemis-program/)
 - [NASA&#39;s Artemis 1 SLS megarocket has had a long road to its moon launch pad](https://www.space.com/nasa-artemis-moon-megarocket-space-launch-system/)
 - [On the trail of unidentified aerial phenomenon: the Galileo Project looks ahead](https://www.space.com/galileo-project-uap-ufos-one-year-update/)
-- [NASA&#39;s Orion spacecraft faces huge test for moon flights and deep space](https://www.space.com/nasa-artemis-orion-capsule/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
