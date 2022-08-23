@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tier Mobility lays off 180 people amid poor funding climate](https://techcrunch.com/2022/08/23/tier-mobility-lays-off-180-people-amid-poor-funding-climate/)
+- [Call it venture farming season, because seed rounds are kicking butt](https://techcrunch.com/2022/08/23/call-it-venture-farming-season-because-seed-rounds-are-kicking-butt/)
+- [Document supposedly written by Galileo is a fake](https://www.space.com/galileo-document-fake/)
 - [Intense solar storms leave Intelsat&#39;s Galaxy 15 satellite out of control: report](https://www.space.com/intelsat-loses-control-galaxy-15-satellite-solar-storm/)
 - [Perseverance Mars rover sets sights on &#39;Enchanted Lake&#39;](https://www.space.com/perseverance-mars-rover-enchanted-lake-visit/)
-- [YouTube TV update could let viewers watch up to four live streams at once](https://techcrunch.com/2022/08/23/youtube-tv-update-could-let-viewers-watch-up-to-four-live-streams-at-once/)
-- [Full moon calendar 2022: When to see the next full moon](https://www.space.com/16830-full-moon-calendar.html/)
-- [NASA&#39;s Ingenuity helicopter makes 30th Martian flight](https://www.space.com/mars-helicopter-ingenuity-30th-flight/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
