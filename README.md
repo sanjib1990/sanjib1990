@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Qloo raises cash to expand its AI-driven recommendation API](https://techcrunch.com/2022/08/23/qloo-raises-cash-to-expand-its-ai-driven-recommendation-api/)
-- [Instacart clears path to IPO](https://techcrunch.com/2022/08/23/instacart-clears-path-to-ipo/)
-- [Asia’s richest man Adani to buy majority stake in NDTV](https://techcrunch.com/2022/08/23/adani-ndtv/)
-- [Ravel emerges from stealth with privacy-first data tools based on scalable homomorphic encryption](https://techcrunch.com/2022/08/23/ravel-emerges-from-stealth-with-privacy-first-data-tools-based-on-scalable-homomorphic-encryption/)
-- [Cycle-focused femtech startup, 28, grabs backing from Thiel Capital](https://techcrunch.com/2022/08/23/28-seed-thiel-capital/)
+- [Should founders announce down rounds? This PR expert says you have nothing to hide](https://techcrunch.com/2022/08/23/should-founders-announce-down-rounds-this-pr-expert-says-you-have-nothing-to-hide/)
+- [EeroQ bets on helium for its quantum chip design](https://techcrunch.com/2022/08/23/eeroq-bets-on-helium-for-its-quantum-chip-design/)
+- [Announcing the agenda for TechCrunch Disrupt 2022](https://techcrunch.com/2022/08/23/announcing-the-agenda-for-techcrunch-disrupt-2022/)
+- [What makes Newton&#39;s laws work? Here&#39;s the simple trick.](https://www.space.com/planet-motion-explained-principle-least-action/)
+- [Rookout raises $15M Series B to scale its developer-first observability platform](https://techcrunch.com/2022/08/23/rookout-raises-15m-series-b-to-scale-its-developer-first-observability-platform/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
