@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Qloo raises cash to expand its AI-driven recommendation API](https://techcrunch.com/2022/08/23/qloo-raises-cash-to-expand-its-ai-driven-recommendation-api/)
+- [Instacart clears path to IPO](https://techcrunch.com/2022/08/23/instacart-clears-path-to-ipo/)
+- [Asia’s richest man Adani to buy majority stake in NDTV](https://techcrunch.com/2022/08/23/adani-ndtv/)
 - [Ravel emerges from stealth with privacy-first data tools based on scalable homomorphic encryption](https://techcrunch.com/2022/08/23/ravel-emerges-from-stealth-with-privacy-first-data-tools-based-on-scalable-homomorphic-encryption/)
 - [Cycle-focused femtech startup, 28, grabs backing from Thiel Capital](https://techcrunch.com/2022/08/23/28-seed-thiel-capital/)
-- [Pitch your startup at TechCrunch Live’s Minneapolis event](https://techcrunch.com/2022/08/23/pitch-your-startup-at-techcrunch-lives-minneapolis-event/)
-- [Deposits banks $5M for its plug-and-play approach to financial product creation](https://techcrunch.com/2022/08/23/deposits-5m-digital-banking/)
-- [Ramp will now let businesses flexibly finance bills](https://techcrunch.com/2022/08/23/fintech-ramp-bill-payments-flexible-financing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
