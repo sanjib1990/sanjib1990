@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [As our populations age, this startup is turning live-in care into a gig-economy platform](https://techcrunch.com/2022/08/23/as-our-populations-age-this-startup-is-turning-live-in-care-into-a-gig-economy-platform/)
-- [Y Combinator alumni raise $80 million for DAO to back crypto startups](https://techcrunch.com/2022/08/23/y-combinator-80-million-web3-crypto-startup-venture-capital-dao/)
-- [Here&#39;s how to edit James Webb Space Telescope images](https://www.space.com/james-webb-space-telescope-image-editing/)
-- [Will M&amp;A bring relief to media startups amid a public-market hangover?](https://techcrunch.com/2022/08/23/will-ma-bring-relief-to-media-startups-amid-a-public-market-hangover/)
-- [Luminovo raises money to reduce waste in electronics manufacturing](https://techcrunch.com/2022/08/23/luminovo-seed-round/)
+- [‘House of the Dragon’ series premiere is the biggest in HBO’s history, with almost 10 million viewers](https://techcrunch.com/2022/08/23/house-of-the-dragon-series-premiere-is-the-biggest-in-hbos-history-with-almost-10-million-viewers/)
+- [Apple delivers iPadOS 16.1 beta ahead of iOS 16 fall release](https://techcrunch.com/2022/08/23/apple-delivers-ipados-16-1-beta-ahead-of-ios-16-fall-release/)
+- [Mastering the B2C2B game: 6 lessons to learn before you launch](https://techcrunch.com/2022/08/23/mastering-the-b2c2b-game-6-lessons-to-learn-before-you-launch/)
+- [Netflix adds ‘Heads Up!’ to its games roster with decks based on its hit shows, including ‘Stranger Things’](https://techcrunch.com/2022/08/23/netflix-adds-heads-up-to-its-games-roster-with-decks-based-on-its-hit-shows-including-stranger-things/)
+- [No, NASA&#39;s massive Saturn V rocket didn&#39;t melt concrete with sound or set fires a mile away](https://www.space.com/saturn-v-rocket-sound-myth-debunked/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
