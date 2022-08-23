@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Tier Mobility lays off 180 people amid poor funding climate](https://techcrunch.com/2022/08/23/tier-mobility-lays-off-180-people-amid-poor-funding-climate/)
-- [Call it venture farming season, because seed rounds are kicking butt](https://techcrunch.com/2022/08/23/call-it-venture-farming-season-because-seed-rounds-are-kicking-butt/)
-- [Document supposedly written by Galileo is a fake](https://www.space.com/galileo-document-fake/)
-- [Intense solar storms leave Intelsat&#39;s Galaxy 15 satellite out of control: report](https://www.space.com/intelsat-loses-control-galaxy-15-satellite-solar-storm/)
-- [Perseverance Mars rover sets sights on &#39;Enchanted Lake&#39;](https://www.space.com/perseverance-mars-rover-enchanted-lake-visit/)
+- [WhatsApp confirms some users have access to its new group discussions feature, WhatsApp Communities](https://techcrunch.com/2022/08/23/whatsapp-confirms-some-users-have-access-to-its-new-group-discussions-feature-whatsapp-communities/)
+- [Toyota accepts California’s authority to set emissions standards under Clean Air Act](https://techcrunch.com/2022/08/23/toyota-accepts-californias-authority-to-set-emissions-standards-under-clean-air-act/)
+- [Yelp update to warn consumers Crisis Pregnancy Centers aren’t abortion care providers](https://techcrunch.com/2022/08/23/yelp-update-to-warn-consumers-crisis-pregnancy-centers-arent-abortion-care-providers/)
+- [TikTok is testing a new ‘Nearby’ feed to display local content](https://techcrunch.com/2022/08/23/tiktok-testing-nearby-feed/)
+- [Someone made a BlackBerry movie starring Dennis from ‘It’s Always Sunny in Philadelphia’](https://techcrunch.com/2022/08/23/someone-made-a-blackberry-movie-starring-dennis-from-its-always-sunny/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
