@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Artemis 1 paves way for European tech and astronauts on the moon](https://www.space.com/first-europeans-to-land-on-moon-with-artemis/)
+- [Twitch now lets partners stream on rival platforms like YouTube and Facebook](https://techcrunch.com/2022/08/23/twitch-partners-stream-on-rival-platforms/)
+- [Google research AI image noise reduction is out of this world](https://techcrunch.com/2022/08/23/nerf-in-the-dark/)
 - [‘House of the Dragon’ series premiere is the biggest in HBO’s history, with almost 10 million viewers](https://techcrunch.com/2022/08/23/house-of-the-dragon-series-premiere-is-the-biggest-in-hbos-history-with-almost-10-million-viewers/)
 - [Apple delivers iPadOS 16.1 beta ahead of iOS 16 fall release](https://techcrunch.com/2022/08/23/apple-delivers-ipados-16-1-beta-ahead-of-ios-16-fall-release/)
-- [Mastering the B2C2B game: 6 lessons to learn before you launch](https://techcrunch.com/2022/08/23/mastering-the-b2c2b-game-6-lessons-to-learn-before-you-launch/)
-- [Netflix adds ‘Heads Up!’ to its games roster with decks based on its hit shows, including ‘Stranger Things’](https://techcrunch.com/2022/08/23/netflix-adds-heads-up-to-its-games-roster-with-decks-based-on-its-hit-shows-including-stranger-things/)
-- [No, NASA&#39;s massive Saturn V rocket didn&#39;t melt concrete with sound or set fires a mile away](https://www.space.com/saturn-v-rocket-sound-myth-debunked/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
