@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Ex-Apple engineer admits stealing automotive trade secrets](https://techcrunch.com/2022/08/23/apple-car-xpeng-trade-secrets/)
-- [Indian crypto entrepreneur’s blockchain venture seeks seed funding at $200 million valuation](https://techcrunch.com/2022/08/23/indian-crypto-entrepreneur-blockchain-venture-shardeum-seeks-funds-at-200-million-valuation/)
-- [Twitter confirms it is testing a phone number verification badge](https://techcrunch.com/2022/08/23/twitter-confirms-it-is-testing-a-phone-number-verification-badge/)
-- [Yandex’s sale of media assets to VK includes yandex.ru homepage](https://techcrunch.com/2022/08/23/yandex-news-zen-vk-binding-sale/)
-- [YC-backed Zywa, a neobank for Gen Z, raises $3M to expand across MENA](https://techcrunch.com/2022/08/23/yc-backed-zywa-a-neobank-for-gen-z-raises-3m-to-expand-across-mena/)
+- [Dutchie launches new cannabis Point of Sale platform with its own dual-screen register](https://techcrunch.com/2022/08/23/dutchie-launches-new-cannabis-point-of-sale-platform-with-its-own-dual-screen-register/)
+- [As NASA nears return to the moon with Artemis program, lunar scientists&#39; excitement reaches fever pitch](https://www.space.com/moon-science-excitement-artemis-program/)
+- [NASA&#39;s Artemis 1 SLS megarocket has had a long road to its moon launch pad](https://www.space.com/nasa-artemis-moon-megarocket-space-launch-system/)
+- [On the trail of unidentified aerial phenomenon: the Galileo Project looks ahead](https://www.space.com/galileo-project-uap-ufos-one-year-update/)
+- [NASA&#39;s Orion spacecraft faces huge test for moon flights and deep space](https://www.space.com/nasa-artemis-orion-capsule/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
