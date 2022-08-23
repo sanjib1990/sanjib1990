@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Disney-backed Inworld raises new cash from for its AI-powered virtual characters](https://techcrunch.com/2022/08/23/disney-backed-inworld-raises-new-cash-from-for-its-ai-powered-virtual-characters/)
+- [Instagram’s latest feature test is about being BeReal](https://techcrunch.com/2022/08/23/instagrams-latest-feature-test-is-about-being-bereal/)
+- [On This Day In Space: Aug. 23, 1961: Ranger 1&#39;s botched space launch](https://www.space.com/39251-on-this-day-in-space.html/)
 - [Ready Player Me, a platform to build dynamic cross-game avatars for virtual worlds, raises $56M led by a16z](https://techcrunch.com/2022/08/23/ready-player-me-a-platform-to-build-dynamic-cross-game-avatars-for-virtual-worlds-raises-56m-led-by-a16z/)
 - [Dutchie launches new cannabis Point of Sale platform with its own dual-screen register](https://techcrunch.com/2022/08/23/dutchie-launches-new-cannabis-point-of-sale-platform-with-its-own-dual-screen-register/)
-- [As NASA nears return to the moon with Artemis program, lunar scientists&#39; excitement reaches fever pitch](https://www.space.com/moon-science-excitement-artemis-program/)
-- [NASA&#39;s Artemis 1 SLS megarocket has had a long road to its moon launch pad](https://www.space.com/nasa-artemis-moon-megarocket-space-launch-system/)
-- [On the trail of unidentified aerial phenomenon: the Galileo Project looks ahead](https://www.space.com/galileo-project-uap-ufos-one-year-update/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
