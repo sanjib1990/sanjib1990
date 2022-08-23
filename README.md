@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Sustainability data platform Worldfavor fuels up for ecosystem opportunities](https://techcrunch.com/2022/08/22/worldfavor-series-a/)
-- [DhiWise takes the tedium out of programming](https://techcrunch.com/2022/08/22/dhiwise-takes-the-tedium-out-of-programming/)
 - [NASA&#39;s Artemis 1 moon mission is &#39;go&#39; for Aug. 29 launch](https://www.space.com/nasa-artemis-1-moon-mission-go-for-launch/)
 - [Save 10% on this Estes NASA SLS Flying Model Rocket kit](https://www.space.com/estes-nasa-model-rocket-deal-save-18-percent/)
-- [Dioseve wants to help infertile people with tech that grows egg cells](https://techcrunch.com/2022/08/22/dioseve-wants-to-help-infertile-people-with-tech-that-grows-egg-cells/)
+- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
+- [Watch NASA&#39;s Artemis 1 SLS megarocket moon launch for free with these live webcasts](https://www.space.com/nasa-artemis-1-sls-moon-rocket-launch-webcasts/)
+- [Daily Crunch: Collectible trading card marketplace TCGplayer sells to eBay for $295M](https://techcrunch.com/2022/08/22/daily-crunch-collectible-trading-card-marketplace-tcgplayer-sells-to-ebay-for-295m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
