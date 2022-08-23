@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Should founders announce down rounds? This PR expert says you have nothing to hide](https://techcrunch.com/2022/08/23/should-founders-announce-down-rounds-this-pr-expert-says-you-have-nothing-to-hide/)
-- [EeroQ bets on helium for its quantum chip design](https://techcrunch.com/2022/08/23/eeroq-bets-on-helium-for-its-quantum-chip-design/)
-- [Announcing the agenda for TechCrunch Disrupt 2022](https://techcrunch.com/2022/08/23/announcing-the-agenda-for-techcrunch-disrupt-2022/)
-- [What makes Newton&#39;s laws work? Here&#39;s the simple trick.](https://www.space.com/planet-motion-explained-principle-least-action/)
-- [Rookout raises $15M Series B to scale its developer-first observability platform](https://techcrunch.com/2022/08/23/rookout-raises-15m-series-b-to-scale-its-developer-first-observability-platform/)
+- [As our populations age, this startup is turning live-in care into a gig-economy platform](https://techcrunch.com/2022/08/23/as-our-populations-age-this-startup-is-turning-live-in-care-into-a-gig-economy-platform/)
+- [Y Combinator alumni raise $80 million for DAO to back crypto startups](https://techcrunch.com/2022/08/23/y-combinator-80-million-web3-crypto-startup-venture-capital-dao/)
+- [Here&#39;s how to edit James Webb Space Telescope images](https://www.space.com/james-webb-space-telescope-image-editing/)
+- [Will M&amp;A bring relief to media startups amid a public-market hangover?](https://techcrunch.com/2022/08/23/will-ma-bring-relief-to-media-startups-amid-a-public-market-hangover/)
+- [Luminovo raises money to reduce waste in electronics manufacturing](https://techcrunch.com/2022/08/23/luminovo-seed-round/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
