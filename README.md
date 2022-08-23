@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Artemis 1 paves way for European tech and astronauts on the moon](https://www.space.com/first-europeans-to-land-on-moon-with-artemis/)
-- [Twitch now lets partners stream on rival platforms like YouTube and Facebook](https://techcrunch.com/2022/08/23/twitch-partners-stream-on-rival-platforms/)
-- [Google research AI image noise reduction is out of this world](https://techcrunch.com/2022/08/23/nerf-in-the-dark/)
-- [‘House of the Dragon’ series premiere is the biggest in HBO’s history, with almost 10 million viewers](https://techcrunch.com/2022/08/23/house-of-the-dragon-series-premiere-is-the-biggest-in-hbos-history-with-almost-10-million-viewers/)
-- [Apple delivers iPadOS 16.1 beta ahead of iOS 16 fall release](https://techcrunch.com/2022/08/23/apple-delivers-ipados-16-1-beta-ahead-of-ios-16-fall-release/)
+- [Intense solar storms leave Intelsat&#39;s Galaxy 15 satellite out of control: report](https://www.space.com/intelsat-loses-control-galaxy-15-satellite-solar-storm/)
+- [Perseverance Mars rover sets sights on &#39;Enchanted Lake&#39;](https://www.space.com/perseverance-mars-rover-enchanted-lake-visit/)
+- [YouTube TV update could let viewers watch up to four live streams at once](https://techcrunch.com/2022/08/23/youtube-tv-update-could-let-viewers-watch-up-to-four-live-streams-at-once/)
+- [Full moon calendar 2022: When to see the next full moon](https://www.space.com/16830-full-moon-calendar.html/)
+- [NASA&#39;s Ingenuity helicopter makes 30th Martian flight](https://www.space.com/mars-helicopter-ingenuity-30th-flight/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
