@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Legendary investor Julian Robertson has passed away — but left behind many powerful mentees](https://techcrunch.com/2022/08/23/legendary-investor-julian-robertson-has-passed-away-but-left-behind-many-powerful-mentees/)
 - [Daily Crunch: Former Apple employee pleads guilty to stealing autonomous vehicle design details](https://techcrunch.com/2022/08/23/daily-crunch-former-apple-employee-pleads-guilty-to-stealing-autonomous-vehicle-design-details/)
 - [TechCrunch+ roundup: Shame-free down rounds, checkout flow tune-up, SaaS tsunami](https://techcrunch.com/2022/08/23/techcrunch-roundup-shame-free-down-rounds-checkout-flow-tune-up-saas-tsunami/)
 - [Unpluq locks your phone distractions so you can get shiz done](https://techcrunch.com/2022/08/23/unpluq-locks-your-phone/)
 - [WhatsApp confirms some users have access to its new group discussions feature, WhatsApp Communities](https://techcrunch.com/2022/08/23/whatsapp-confirms-some-users-have-access-to-its-new-group-discussions-feature-whatsapp-communities/)
-- [Toyota accepts California’s authority to set emissions standards under Clean Air Act](https://techcrunch.com/2022/08/23/toyota-accepts-californias-authority-to-set-emissions-standards-under-clean-air-act/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
