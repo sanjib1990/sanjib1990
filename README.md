@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s Artemis 1 moon mission is &#39;go&#39; for Aug. 29 launch](https://www.space.com/nasa-artemis-1-moon-mission-go-for-launch/)
-- [Save 10% on this Estes NASA SLS Flying Model Rocket kit](https://www.space.com/estes-nasa-model-rocket-deal-save-18-percent/)
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
-- [Watch NASA&#39;s Artemis 1 SLS megarocket moon launch for free with these live webcasts](https://www.space.com/nasa-artemis-1-sls-moon-rocket-launch-webcasts/)
-- [Daily Crunch: Collectible trading card marketplace TCGplayer sells to eBay for $295M](https://techcrunch.com/2022/08/22/daily-crunch-collectible-trading-card-marketplace-tcgplayer-sells-to-ebay-for-295m/)
+- [Ex-Apple engineer admits stealing automotive trade secrets](https://techcrunch.com/2022/08/23/apple-car-xpeng-trade-secrets/)
+- [Indian crypto entrepreneur’s blockchain venture seeks seed funding at $200 million valuation](https://techcrunch.com/2022/08/23/indian-crypto-entrepreneur-blockchain-venture-shardeum-seeks-funds-at-200-million-valuation/)
+- [Twitter confirms it is testing a phone number verification badge](https://techcrunch.com/2022/08/23/twitter-confirms-it-is-testing-a-phone-number-verification-badge/)
+- [Yandex’s sale of media assets to VK includes yandex.ru homepage](https://techcrunch.com/2022/08/23/yandex-news-zen-vk-binding-sale/)
+- [YC-backed Zywa, a neobank for Gen Z, raises $3M to expand across MENA](https://techcrunch.com/2022/08/23/yc-backed-zywa-a-neobank-for-gen-z-raises-3m-to-expand-across-mena/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
