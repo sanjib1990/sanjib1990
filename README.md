@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Black Girls Code files lawsuit against ousted founder over alleged ‘hijacking’ of website](https://techcrunch.com/2022/08/22/black-girls-code-files-lawsuit-against-ousted-founder-over-alleged-hijacking-of-website/)
 - [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
 - [Watch NASA&#39;s Artemis 1 SLS megarocket moon launch for free with these live webcasts](https://www.space.com/nasa-artemis-1-sls-moon-rocket-launch-webcasts/)
 - [Daily Crunch: Collectible trading card marketplace TCGplayer sells to eBay for $295M](https://techcrunch.com/2022/08/22/daily-crunch-collectible-trading-card-marketplace-tcgplayer-sells-to-ebay-for-295m/)
 - [Max Q: To the moon!!!](https://techcrunch.com/2022/08/22/max-q-to-the-moon/)
-- [Tesla’s petition against CA civil rights agency suing for racial bias is denied](https://techcrunch.com/2022/08/22/teslas-petition-against-ca-civil-rights-agency-suing-for-racial-bias-is-denied/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
