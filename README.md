@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sustainability data platform Worldfavor fuels up for ecosystem opportunities](https://techcrunch.com/2022/08/22/worldfavor-series-a/)
+- [DhiWise takes the tedium out of programming](https://techcrunch.com/2022/08/22/dhiwise-takes-the-tedium-out-of-programming/)
 - [NASA&#39;s Artemis 1 moon mission is &#39;go&#39; for Aug. 29 launch](https://www.space.com/nasa-artemis-1-moon-mission-go-for-launch/)
 - [Save 10% on this Estes NASA SLS Flying Model Rocket kit](https://www.space.com/estes-nasa-model-rocket-deal-save-18-percent/)
 - [Dioseve wants to help infertile people with tech that grows egg cells](https://techcrunch.com/2022/08/22/dioseve-wants-to-help-infertile-people-with-tech-that-grows-egg-cells/)
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
-- [Black Girls Code files lawsuit against ousted founder over alleged ‘hijacking’ of website](https://techcrunch.com/2022/08/22/black-girls-code-files-lawsuit-against-ousted-founder-over-alleged-hijacking-of-website/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
