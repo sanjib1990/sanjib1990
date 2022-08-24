@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [An experimental new attack can steal data from air-gapped computers using a phone’s gyroscope](https://techcrunch.com/2022/08/24/gairoscope-air-gap-attack/)
-- [Check out the official Disrupt 2022 roundtables](https://techcrunch.com/2022/08/24/check-out-the-official-disrupt-2022-roundtables/)
-- [SiriusXM digs into subscription-based podcast market with Stitcher Premium bundle](https://techcrunch.com/2022/08/24/siriusxm-digs-into-subscription-based-podcast-market-with-stitcher-premium-bundle/)
-- [Little private moon rover will try to survive the long, cold lunar night](https://www.space.com/astrobotic-cuberover-lunar-night-survival-mission/)
-- [Ron DeSantis’ proposed ban on ESG investments would be another blow for diverse fund managers](https://techcrunch.com/2022/08/24/ron-desantis-proposed-ban-on-esg-investments-would-be-another-blow-for-diverse-fund-managers/)
+- [Wordle is now integrated in The New York Times Crossword app](https://techcrunch.com/2022/08/24/wordle-is-now-integrated-in-the-new-york-times-crossword-app/)
+- [Samsung Galaxy Buds 2 Pro review](https://techcrunch.com/2022/08/24/samsung-galaxy-buds-2-pro-review/)
+- [Tesla’s bid to dismiss racial bias suit denied in tentative ruling](https://techcrunch.com/2022/08/24/teslas-bid-to-dismiss-racial-bias-suit-denied-in-tentative-ruling/)
+- [Canada’s seed market set a record in Q2. Why is the US starting to retract?](https://techcrunch.com/2022/08/24/canadas-seed-market-set-a-record-in-q2-why-is-the-us-starting-to-retract/)
+- [Mad Realities’ Devin Lewtan is onboarding crypto users through reality television](https://techcrunch.com/2022/08/24/mad-realities-crypto-dating-reality-television-blockchain-devin-lewtan-chain-reaction/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
