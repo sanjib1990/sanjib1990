@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Strange Facebook bug is spamming everyone’s feed with celebrity page posts](https://techcrunch.com/2022/08/24/strange-facebook-bug-is-spamming-everyones-feed-with-celebrity-page-posts/)
-- [Twitter is merging its spam fighting and misinfo prevention teams](https://techcrunch.com/2022/08/24/twitter-is-merging-its-spam-fighting-and-misinfo-prevention-teams/)
-- [Apple, Samsung partner Servify raises $65 million for its devices after-sales and management platform](https://techcrunch.com/2022/08/23/apple-samsung-partner-servify-65-million-usd-series-d-funding-round-public-ipo-plans/)
-- [Code suggests iOS 16.1 will let users delete the Apple Wallet app](https://techcrunch.com/2022/08/23/code-suggests-ios-16-1-will-let-users-delete-the-apple-wallet-app/)
-- [Scalenut’s AI copywriter also helps content make a dent in search engine results](https://techcrunch.com/2022/08/23/scalenuts-ai-copywriter-also-helps-content-make-a-dent-in-search-engine-results/)
+- [How SpaceX&#39;s Starlink Maritime launch will affect cruise lines and satellite providers &lpar;op-ed&rpar;](https://www.space.com/spacex-starlink-maritime-interent-service-cruise-lines/)
+- [The Artemis plan: Why NASA sees the moon as a stepping stone to Mars](https://www.space.com/artemis-1-moon-stepping-stone-mars/)
+- [Carbon Direct caps $60M round to coach companies on cutting emissions](https://techcrunch.com/2022/08/24/carbon-direct-caps-60m-round-to-coach-companies-on-cutting-emissions/)
+- [The moon&#39;s far side could offer a view of the universe even deeper than the James Webb Space Telescope](https://www.space.com/moon-far-side-radio-science-opportunity/)
+- [Uranus will reverse its path in the sky on Wednesday &lpar;Aug 24&rpar;. Here&#39;s how to see it](https://www.space.com/uranus-enters-retrograde-august-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
