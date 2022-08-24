@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [this BASH script will make you RIPPED!! // EP 5](https://www.youtube.com/watch?v=nW9M0MQinfg)
 - [4B. DNA 2: Dynamic Programming, Blast, Multi-alignment, Hidden Markov Models](https://www.youtube.com/watch?v=VVCE-6kmyBI)
 - [11B. Networks 3: The Future of Computational Biology: Cellular, Developmental, Social,...](https://www.youtube.com/watch?v=lqfKi0Pkt6U)
 - [6A. RNA 2: Clustering by Gene or Condition and Other Regulon Data Sources Nucleic Acid ...](https://www.youtube.com/watch?v=axiNLT3tkqg)
 - [7A. Protein 1: 3D Structural Genomics, Homology, Catalytic and Regulatory Dynamics, Fun...](https://www.youtube.com/watch?v=2xONWF0XzOI)
-- [5AB. RNA 1: Microarrays, Library Sequencing and Quantitation Concepts](https://www.youtube.com/watch?v=qiz-ywBpQlo)
 <!-- YOUTUBE:END -->
 
 ---
