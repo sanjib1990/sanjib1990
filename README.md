@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to incorporate web3 gaming into your Web 2.0 strategy](https://techcrunch.com/2022/08/24/how-to-incorporate-web3-gaming-into-your-web2-strategy/)
-- [Amazon and DirecTV partnership brings “Thursday Night Football” to 300,000+ bars, restaurants, and other venues](https://techcrunch.com/2022/08/24/amazon-and-directv-partnership-brings-thursday-night-football-to-300000-bars-restaurants-and-other-venues/)
-- [Return to flight: NASA&#39;s Artemis 1 mission to launch using space shuttle-used parts](https://www.space.com/artemis-1-space-shuttle-hardware/)
-- [Tinder founder’s latest play is a ring for quantifying mental health](https://techcrunch.com/2022/08/24/tinder-founders-latest-play-is-a-ring-for-quantifying-mental-health/)
-- [Blue Origin&#39;s private space station passes key design review](https://www.space.com/blue-origin-orbital-reef-system-definition-review/)
+- [Apple will debut the iPhone 14 on September 7](https://techcrunch.com/2022/08/24/apple-will-debut-the-iphone-14-on-september-7/)
+- [Former US CFTC commissioner says crypto space has ‘dire need for regulatory clarity’](https://techcrunch.com/2022/08/24/former-us-cftc-commissioner-says-crypto-space-has-dire-need-for-regulatory-clarity/)
+- [Lily AI lands new capital to help retailers match customers with products](https://techcrunch.com/2022/08/24/lily-ai-lands-new-capital-to-help-retailers-match-customers-with-products/)
+- [NASA really wants to probe Uranus and could start planning next year](https://www.space.com/uranus-orbiter-probe-mission-timeline/)
+- [These astronaut photos of auroras seen from space are just breathtaking](https://www.space.com/aurora-australis-photos-from-space-station/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
