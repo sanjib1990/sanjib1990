@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple will debut the iPhone 14 on September 7](https://techcrunch.com/2022/08/24/apple-will-debut-the-iphone-14-on-september-7/)
-- [Former US CFTC commissioner says crypto space has ‘dire need for regulatory clarity’](https://techcrunch.com/2022/08/24/former-us-cftc-commissioner-says-crypto-space-has-dire-need-for-regulatory-clarity/)
-- [Lily AI lands new capital to help retailers match customers with products](https://techcrunch.com/2022/08/24/lily-ai-lands-new-capital-to-help-retailers-match-customers-with-products/)
-- [NASA really wants to probe Uranus and could start planning next year](https://www.space.com/uranus-orbiter-probe-mission-timeline/)
-- [These astronaut photos of auroras seen from space are just breathtaking](https://www.space.com/aurora-australis-photos-from-space-station/)
+- [ARR per employee is the north star efficiency metric you’ve been looking for](https://techcrunch.com/2022/08/24/arr-per-employee-is-the-north-star-efficiency-metric-youve-been-looking-for/)
+- [SpaceX lifts 33-engine Starship Super Heavy booster onto launch pad &lpar;photo&rpar;](https://www.space.com/spacex-starship-super-heavy-33-engines-launch-pad/)
+- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
+- [Black Girls Code’s developing story offers a complicated look at lots of different things](https://techcrunch.com/2022/08/24/black-girls-codes-developing-story-offers-a-complicated-look-at-lots-of-different-things/)
+- [Here&#39;s how to follow Artemis 1 after launch in real time](https://www.space.com/artemis-1-moon-mission-tracking-website/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
