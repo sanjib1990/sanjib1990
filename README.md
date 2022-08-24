@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [ARR per employee is the north star efficiency metric you’ve been looking for](https://techcrunch.com/2022/08/24/arr-per-employee-is-the-north-star-efficiency-metric-youve-been-looking-for/)
-- [SpaceX lifts 33-engine Starship Super Heavy booster onto launch pad &lpar;photo&rpar;](https://www.space.com/spacex-starship-super-heavy-33-engines-launch-pad/)
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
-- [Black Girls Code’s developing story offers a complicated look at lots of different things](https://techcrunch.com/2022/08/24/black-girls-codes-developing-story-offers-a-complicated-look-at-lots-of-different-things/)
-- [Here&#39;s how to follow Artemis 1 after launch in real time](https://www.space.com/artemis-1-moon-mission-tracking-website/)
+- [India lifts ban on American Express](https://techcrunch.com/2022/08/24/india-american-express/)
+- [Instacart now lets you order same-day delivery for large items, including furniture and electronics](https://techcrunch.com/2022/08/24/instacart-launches-big-bulky/)
+- [Dear Sophie: What should we know about the H-1B lottery before we hire STEM OPTs?](https://techcrunch.com/2022/08/24/dear-sophie-what-should-we-know-about-the-h-1b-lottery-before-we-hire-stem-opts/)
+- [See the Series B pitch deck that lead to Benchling’s $6B valuation on today’s TechCrunch Live](https://techcrunch.com/2022/08/24/see-the-series-b-pitch-deck-that-lead-to-benchlings-6b-valuation-on-todays-techcrunch-live/)
+- [Twitter faces privacy scrutiny from EU watchdogs after Mudge report](https://techcrunch.com/2022/08/24/twitter-whistleblower-security-eu/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
