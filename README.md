@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Zilliz, the startup behind the Milvus open-source vector database for AI applications, raises $60M and relocates to SF](https://techcrunch.com/2022/08/24/zilliz-the-startup-behind-the-milvus-open-source-vector-database-for-ai-applications-raises-60m-and-relocates-to-sf/)
+- [Deepfakes for all: Uncensored AI art model prompts ethics questions](https://techcrunch.com/2022/08/24/deepfakes-for-all-uncensored-ai-art-model-prompts-ethics-questions/)
+- [On This Day In Space: Aug. 24, 2006: Pluto loses its planetary status](https://www.space.com/39251-on-this-day-in-space.html/)
+- [Zilliz, the startup behind the Milvus open-source vector database for AI apps, raises $60M, relocates to SF](https://techcrunch.com/2022/08/24/zilliz-the-startup-behind-the-milvus-open-source-vector-database-for-ai-applications-raises-60m-and-relocates-to-sf/)
 - [Google faces ‘spam ads’ ePrivacy complaint in France](https://techcrunch.com/2022/08/24/gmail-spam-ads-eprivacy-complaint/)
-- [Facebook fixes strange bug that spammed everyone’s feed with celebrity page posts](https://techcrunch.com/2022/08/24/strange-facebook-bug-is-spamming-everyones-feed-with-celebrity-page-posts/)
-- [Moon viewing guide: What to look for on the lunar surface](https://www.space.com/ultimate-moon-observation-guide/)
-- [How SpaceX&#39;s Starlink Maritime launch will affect cruise lines and satellite providers &lpar;op-ed&rpar;](https://www.space.com/spacex-starlink-maritime-interent-service-cruise-lines/)
+- [Facebook fixes strange bug that spammed everyone’s feed with celebrity fan posts](https://techcrunch.com/2022/08/24/strange-facebook-bug-is-spamming-everyones-feed-with-celebrity-page-posts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
