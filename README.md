@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [An experimental new attack can steal data from air-gapped computers using a phone’s gyroscope](https://techcrunch.com/2022/08/24/gairoscope-air-gap-attack/)
+- [Check out the official Disrupt 2022 roundtables](https://techcrunch.com/2022/08/24/check-out-the-official-disrupt-2022-roundtables/)
+- [SiriusXM digs into subscription-based podcast market with Stitcher Premium bundle](https://techcrunch.com/2022/08/24/siriusxm-digs-into-subscription-based-podcast-market-with-stitcher-premium-bundle/)
+- [Little private moon rover will try to survive the long, cold lunar night](https://www.space.com/astrobotic-cuberover-lunar-night-survival-mission/)
 - [Ron DeSantis’ proposed ban on ESG investments would be another blow for diverse fund managers](https://techcrunch.com/2022/08/24/ron-desantis-proposed-ban-on-esg-investments-would-be-another-blow-for-diverse-fund-managers/)
-- [Shuffles, Pinterest’s invite-only collage making app, is blowing up on TikTok—here’s how to get in](https://techcrunch.com/2022/08/24/shuffles-pinterests-invite-only-collage-making-app-is-blowing-up-on-tiktok-heres-how-to-get-in/)
-- [Amazon’s adding voice-powered gaming to big name games with Alexa Game Control](https://techcrunch.com/2022/08/24/amazons-adding-voice-powered-gaming-to-big-name-games-with-alexa-game-control/)
-- [India lifts ban on American Express](https://techcrunch.com/2022/08/24/india-american-express/)
-- [Instacart now lets you order same-day delivery for large items, including furniture and electronics](https://techcrunch.com/2022/08/24/instacart-launches-big-bulky/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
