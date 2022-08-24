@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Deepfakes for all: Uncensored AI art model prompts ethics questions](https://techcrunch.com/2022/08/24/deepfakes-for-all-uncensored-ai-art-model-prompts-ethics-questions/)
-- [On This Day In Space: Aug. 24, 2006: Pluto loses its planetary status](https://www.space.com/39251-on-this-day-in-space.html/)
-- [Zilliz, the startup behind the Milvus open-source vector database for AI apps, raises $60M, relocates to SF](https://techcrunch.com/2022/08/24/zilliz-the-startup-behind-the-milvus-open-source-vector-database-for-ai-applications-raises-60m-and-relocates-to-sf/)
-- [Google faces ‘spam ads’ ePrivacy complaint in France](https://techcrunch.com/2022/08/24/gmail-spam-ads-eprivacy-complaint/)
-- [Facebook fixes strange bug that spammed everyone’s feed with celebrity fan posts](https://techcrunch.com/2022/08/24/strange-facebook-bug-is-spamming-everyones-feed-with-celebrity-page-posts/)
+- [Peloton starts selling equipment on Amazon, in major retail strategy shift](https://techcrunch.com/2022/08/24/peloton-starts-selling-equipment-on-amazon-in-major-retail-strategy-shift/)
+- [Save 52% on the Phrozen Sonic Mini resin 3D printer, down to just $129.99](https://www.space.com/phrozen-sonic-mini-3d-printer-save-140-dollars/)
+- [Lumachain, using computer vision to transform meat production, bites into new capital](https://techcrunch.com/2022/08/24/lumachain-computer-vision-meat-production/)
+- [Spectral raises $23M to help create web3 credit scores](https://techcrunch.com/2022/08/24/spectral-raises-23m-to-help-create-web3-credit-scores/)
+- [Fitbit’s Sense and Versa smartwatches get upgrades](https://techcrunch.com/2022/08/24/fitbits-sense-and-versa-smartwatches-get-upgrades/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
