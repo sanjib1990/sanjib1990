@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ron DeSantis’ proposed ban on ESG investments would be another blow for diverse fund managers](https://techcrunch.com/2022/08/24/ron-desantis-proposed-ban-on-esg-investments-would-be-another-blow-for-diverse-fund-managers/)
+- [Shuffles, Pinterest’s invite-only collage making app, is blowing up on TikTok—here’s how to get in](https://techcrunch.com/2022/08/24/shuffles-pinterests-invite-only-collage-making-app-is-blowing-up-on-tiktok-heres-how-to-get-in/)
+- [Amazon’s adding voice-powered gaming to big name games with Alexa Game Control](https://techcrunch.com/2022/08/24/amazons-adding-voice-powered-gaming-to-big-name-games-with-alexa-game-control/)
 - [India lifts ban on American Express](https://techcrunch.com/2022/08/24/india-american-express/)
 - [Instacart now lets you order same-day delivery for large items, including furniture and electronics](https://techcrunch.com/2022/08/24/instacart-launches-big-bulky/)
-- [Dear Sophie: What should we know about the H-1B lottery before we hire STEM OPTs?](https://techcrunch.com/2022/08/24/dear-sophie-what-should-we-know-about-the-h-1b-lottery-before-we-hire-stem-opts/)
-- [See the Series B pitch deck that lead to Benchling’s $6B valuation on today’s TechCrunch Live](https://techcrunch.com/2022/08/24/see-the-series-b-pitch-deck-that-lead-to-benchlings-6b-valuation-on-todays-techcrunch-live/)
-- [Twitter faces privacy scrutiny from EU watchdogs after Mudge report](https://techcrunch.com/2022/08/24/twitter-whistleblower-security-eu/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
