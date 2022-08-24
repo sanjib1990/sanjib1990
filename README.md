@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to incorporate web3 gaming into your Web 2.0 strategy](https://techcrunch.com/2022/08/24/how-to-incorporate-web3-gaming-into-your-web2-strategy/)
+- [Amazon and DirecTV partnership brings “Thursday Night Football” to 300,000+ bars, restaurants, and other venues](https://techcrunch.com/2022/08/24/amazon-and-directv-partnership-brings-thursday-night-football-to-300000-bars-restaurants-and-other-venues/)
+- [Return to flight: NASA&#39;s Artemis 1 mission to launch using space shuttle-used parts](https://www.space.com/artemis-1-space-shuttle-hardware/)
 - [Tinder founder’s latest play is a ring for quantifying mental health](https://techcrunch.com/2022/08/24/tinder-founders-latest-play-is-a-ring-for-quantifying-mental-health/)
 - [Blue Origin&#39;s private space station passes key design review](https://www.space.com/blue-origin-orbital-reef-system-definition-review/)
-- [Plex warns users to reset passwords after data breach](https://techcrunch.com/2022/08/24/plex-streaming-breach-passwords/)
-- [Why is the sky blue?](https://www.space.com/why-is-the-sky-blue/)
-- [Oppo stays ‘committed’ to Europe despite sales suspension in Germany](https://techcrunch.com/2022/08/24/oppo-germany-european-expansion/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
