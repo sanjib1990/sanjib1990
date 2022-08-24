@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Asia’s richest man to buy majority stake in news organization in ‘hostile’ takeover](https://techcrunch.com/2022/08/23/adani-ndtv/)
-- [Artemis 1 cubesats: The 10 tiny satellites hitching a NASA ride to the moon](https://www.space.com/nasa-artemis-1-moon-mission-cubesats/)
-- [Document supposedly written by Galileo is a fake](https://www.space.com/galileo-document-fake/)
-- [Intense solar storms leave Intelsat&#39;s Galaxy 15 satellite out of control: report](https://www.space.com/intelsat-loses-control-galaxy-15-satellite-solar-storm/)
-- [Perseverance Mars rover sets sights on &#39;Enchanted Lake&#39;](https://www.space.com/perseverance-mars-rover-enchanted-lake-visit/)
+- [Apple, Samsung partner Servify raises $65 million for its devices after-sales and management platform](https://techcrunch.com/2022/08/23/apple-samsung-partner-servify-65-million-usd-series-d-funding-round-public-ipo-plans/)
+- [Code suggests iOS 16.1 will let users delete the Apple Wallet app](https://techcrunch.com/2022/08/23/code-suggests-ios-16-1-will-let-users-delete-the-apple-wallet-app/)
+- [Scalenut’s AI copywriter also helps content make a dent in search engine results](https://techcrunch.com/2022/08/23/scalenuts-ai-copywriter-also-helps-content-make-a-dent-in-search-engine-results/)
+- [Asia’s richest man to buy majority stake in news organization in hostile takeover](https://techcrunch.com/2022/08/23/adani-ndtv/)
+- [Legendary investor Julian Robertson has passed away — but leaves behind many powerful mentees](https://techcrunch.com/2022/08/23/legendary-investor-julian-robertson-has-passed-away-but-left-behind-many-powerful-mentees/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
