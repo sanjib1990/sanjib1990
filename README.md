@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Peloton starts selling equipment on Amazon, in major retail strategy shift](https://techcrunch.com/2022/08/24/peloton-starts-selling-equipment-on-amazon-in-major-retail-strategy-shift/)
-- [Save 52% on the Phrozen Sonic Mini resin 3D printer, down to just $129.99](https://www.space.com/phrozen-sonic-mini-3d-printer-save-140-dollars/)
-- [Lumachain, using computer vision to transform meat production, bites into new capital](https://techcrunch.com/2022/08/24/lumachain-computer-vision-meat-production/)
-- [Spectral raises $23M to help create web3 credit scores](https://techcrunch.com/2022/08/24/spectral-raises-23m-to-help-create-web3-credit-scores/)
-- [Fitbit’s Sense and Versa smartwatches get upgrades](https://techcrunch.com/2022/08/24/fitbits-sense-and-versa-smartwatches-get-upgrades/)
+- [Tinder founder’s latest play is a ring for quantifying mental health](https://techcrunch.com/2022/08/24/tinder-founders-latest-play-is-a-ring-for-quantifying-mental-health/)
+- [Blue Origin&#39;s private space station passes key design review](https://www.space.com/blue-origin-orbital-reef-system-definition-review/)
+- [Plex warns users to reset passwords after data breach](https://techcrunch.com/2022/08/24/plex-streaming-breach-passwords/)
+- [Why is the sky blue?](https://www.space.com/why-is-the-sky-blue/)
+- [Oppo stays ‘committed’ to Europe despite sales suspension in Germany](https://techcrunch.com/2022/08/24/oppo-germany-european-expansion/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
