@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Flexible apartment startups gain more traction, as Landing lands $125M in debt and equity funding](https://techcrunch.com/2022/08/25/flexible-apartment-startups-gain-more-traction-as-landing-lands-125m-in-debt-and-equity-funding/)
+- [It’s brutal out there for DTC companies](https://techcrunch.com/2022/08/25/its-brutal-out-there-for-dtc-companies/)
+- [Black Girls Code board member Heather Hiles breaks silence after allegations](https://techcrunch.com/2022/08/25/black-girls-code-board-member-heather-hiles-breaks-silence-after-allegations/)
+- [2023 Mercedes-Benz EQS SUV begins production in Alabama](https://techcrunch.com/2022/08/25/2023-mercedes-benz-eqs-suv-begins-production-in-alabama/)
 - [Meta and Twitter purge web of accounts spreading pro-U.S. propaganda abroad](https://techcrunch.com/2022/08/25/meta-and-twitter-graphika-us-influence-campaign/)
-- [Twitter’s VP of engineering to depart for Meta amid cybersecurity concerns, Musk takeover](https://techcrunch.com/2022/08/25/twitters-former-vp-of-engineering-to-depart-for-meta-amid-cybersecurity-concerns-musk-takeover/)
-- [As a Stripe investor cuts the value of its stake, more evidence of fintech valuation pressure](https://techcrunch.com/2022/08/25/as-a-stripe-investor-cuts-the-value-of-its-stake-more-evidence-of-fintech-valuation-pressure/)
-- [NASA astronauts buzz Artemis 1 SLS rocket in incredible jet flyby &lpar;photos&rpar;](https://www.space.com/nasa-astronauts-artemis-1-rocket-flyby/)
-- [See the old moon and Venus conjunction tonight](https://www.space.com/old-moon-venus-conjuction-august-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
