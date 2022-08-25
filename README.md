@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Daily Crunch: Hacking group penetrates 130+ organizations, captures credentials for nearly 10K workers](https://techcrunch.com/2022/08/25/2378705/)
 - [California clears the way to ban new gas car sales](https://techcrunch.com/2022/08/25/california-new-gas-car-sales-ban-electric-hybrid-regulation/)
+- [Breaking into healthcare with WELL Health and Freestyle on TechCrunch Live](https://techcrunch.com/2022/08/25/breaking-into-healthcare-with-well-health-and-freestyle-on-techcrunch-live/)
+- [Daily Crunch: Hacking group penetrates 130+ organizations, captures credentials for nearly 10K workers](https://techcrunch.com/2022/08/25/2378705/)
 - [Boeing Starliner Orbital Flight Test 2: Live updates](https://www.space.com/news/live/boeing-starliner-oft-2-live-updates/)
 - [How many Coinbases is FTX worth?](https://techcrunch.com/2022/08/25/how-many-coinbases-is-ftx-worth/)
-- [Boeing Starliner&#39;s 1st astronaut flight for NASA delayed to February 2023](https://www.space.com/boeing-starliner-first-astronaut-flight-delay-february-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
