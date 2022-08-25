@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Egypt’s SubsBase raises $2.4M for its subscription and recurring revenue management platform](https://techcrunch.com/2022/08/25/egypts-subsbase-raises-2-4m-for-its-subscription-and-recurring-revenue-management-platform/)
-- [Twilio hackers breached over 130 organizations during months-long hacking spree](https://techcrunch.com/2022/08/25/twilio-hackers-group-ib/)
-- [Sony raises PlayStation 5 prices in most markets citing ‘challenging economic conditions’](https://techcrunch.com/2022/08/25/sony-raises-playstation-5-prices-in-most-markets-citing-challenging-economic-conditions/)
-- [Privado is “Grammarly for code privacy issues”](https://techcrunch.com/2022/08/24/privado-is-grammarly-for-code-privacy-issues/)
-- [Worldcoin co-founder leaves firm to start ‘Blackrock for new economy’](https://techcrunch.com/2022/08/24/worldcoin-co-founder-novendstern-leaves-startup-to-start-new-venture/)
+- [New Mars water map reveals history of Red Planet](https://www.space.com/mars-water-distribution-map/)
+- [Extreme solar storms can strike out of the blue. Are we really prepared?](https://www.space.com/extreme-solar-storms-is-earth-prepared/)
+- [Artemis Accords: Why the international moon exploration framework matters](https://www.space.com/artemis-accords-moon-space-exploration-importance/)
+- [Watch Elon Musk and T-Mobile chief make &#39;special&#39; announcement Thursday night](https://www.space.com/spacex-elon-musk-t-mobile-announcement-preview/)
+- [Voyager 1 marks 10 years in interstellar space](https://www.space.com/voyager-1-marks-10-years-interstellar-space/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
