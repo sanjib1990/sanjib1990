@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [On This Day In Space: Aug. 25, 1997: NASA launches Advanced Composition Explorer](https://www.space.com/39251-on-this-day-in-space.html/)
-- [Google says it has pulled over 2,000 personal loan apps from Play Store in India this year](https://techcrunch.com/2022/08/25/google-personal-loan-apps-play-store-india-update/)
-- [New Mars water map reveals history of Red Planet](https://www.space.com/mars-water-distribution-map/)
-- [Extreme solar storms can strike out of the blue. Are we really prepared?](https://www.space.com/extreme-solar-storms-is-earth-prepared/)
-- [Artemis Accords: Why the international moon exploration framework matters](https://www.space.com/artemis-accords-moon-space-exploration-importance/)
+- [Instagram is now allowing users to share posts, Reels, and locations through QR codes](https://techcrunch.com/2022/08/25/instagram-is-now-allowing-users-to-share-posts-reels-and-locations-through-qr-codes/)
+- [BalkanID brings AI to identity governance and administration to take on SailPoint](https://techcrunch.com/2022/08/25/balkanid-brings-ai-to-identity-governance-and-administration-to-take-on-sailpoint/)
+- [Electrification is poised to turn school buses into money-making arbitrage assets](https://techcrunch.com/2022/08/25/electrification-is-poised-to-turn-school-buses-into-money-making-arbitrage-assets/)
+- [Why is the sky blue?](https://www.space.com/why-is-the-sky-blue/)
+- [Watch NASA&#39;s Artemis 1 SLS megarocket moon launch for free with these live webcasts](https://www.space.com/nasa-artemis-1-sls-moon-rocket-launch-webcasts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
