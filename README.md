@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Search and Maps will now clearly label if a healthcare facility provides abortions](https://techcrunch.com/2022/08/25/google-search-and-maps-will-now-clearly-label-if-a-healthcare-facility-provides-abortions/)
-- [To bring PLG to cybersecurity, let’s change our hiring habits](https://techcrunch.com/2022/08/25/to-bring-plg-to-cybersecurity-lets-change-our-hiring-habits/)
-- [Tesla fights US Senate campaign ad showing its EVs hitting child-sized mannequins](https://techcrunch.com/2022/08/25/tesla-fights-us-senate-campaign-ad-showing-its-evs-hitting-child-sized-mannequins/)
-- [SpaceX&#39;s next astronaut launch for NASA delayed to Oct. 3](https://www.space.com/spacex-crew-5-astronaut-launch-delay-october-3/)
-- [Ukraine invasion&#39;s impacts on space exploration: Live updates](https://www.space.com/news/live/russia-ukraine-invasion-space-impacts-updates/)
+- [Twitter is officially adding podcasts to its platform](https://techcrunch.com/2022/08/25/twitter-is-officially-adding-podcasts-to-its-platform/)
+- [Perseverance Mars rover finds surprising volcanic rocks in once lake-filled crater](https://www.space.com/perseverance-mars-rover-suprising-volcanic-rocks/)
+- [IMDb’s What to Watch app adds ‘Time Machine,’ a film recommendation game that transports you to the past](https://techcrunch.com/2022/08/25/imdbs-what-to-watch-app-adds-time-machine-a-film-recommendation-game-that-transports-you-to-the-past/)
+- [Pitch Deck Teardown: Simba Chain’s $25M Series A deck](https://techcrunch.com/2022/08/25/sample-series-a-pitch-deck-simba-chain/)
+- [Heroku announces plans to eliminate free plans, blaming ‘fraud and abuse’](https://techcrunch.com/2022/08/25/heroku-announces-plans-to-eliminate-free-plans-blaming-fraud-and-abuse/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
