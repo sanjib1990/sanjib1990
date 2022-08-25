@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Instagram now defaults new users under 16 to most restrictive content setting, adds prompts for existing teens](https://techcrunch.com/2022/08/25/instagram-now-defaults-new-users-under-16-to-most-restrictive-content-setting-adds-prompts-for-existing-teens/)
-- [Metafy’s Josh Fabian and 776’s Katelin Holloway get their game on at Disrupt](https://techcrunch.com/2022/08/25/metafys-josh-fabian-and-776s-katelin-holloway-get-their-game-on-at-disrupt/)
-- [Google’s new app lets you test experimental AI systems like LaMDA](https://techcrunch.com/2022/08/25/googles-new-app-lets-you-experimental-ai-systems-like-lamda/)
-- [20 space myths busted!](https://www.space.com/space-myths-busted/)
-- [This freshly funded startup spun out of a student-run Stanford investment club](https://techcrunch.com/2022/08/25/stanford-investment-pin-seed-5-6-million/)
+- [Google Search and Maps will now clearly label if a healthcare facility provides abortions](https://techcrunch.com/2022/08/25/google-search-and-maps-will-now-clearly-label-if-a-healthcare-facility-provides-abortions/)
+- [To bring PLG to cybersecurity, let’s change our hiring habits](https://techcrunch.com/2022/08/25/to-bring-plg-to-cybersecurity-lets-change-our-hiring-habits/)
+- [Tesla fights US Senate campaign ad showing its EVs hitting child-sized mannequins](https://techcrunch.com/2022/08/25/tesla-fights-us-senate-campaign-ad-showing-its-evs-hitting-child-sized-mannequins/)
+- [SpaceX&#39;s next astronaut launch for NASA delayed to Oct. 3](https://www.space.com/spacex-crew-5-astronaut-launch-delay-october-3/)
+- [Ukraine invasion&#39;s impacts on space exploration: Live updates](https://www.space.com/news/live/russia-ukraine-invasion-space-impacts-updates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
