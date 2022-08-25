@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Thirdweb raises $24M at a $160M valuation from Haun Ventures, Shopify and Coinbase for its Web3 development kit](https://techcrunch.com/2022/08/24/thirdweb-raises-24m-at-a-160m-valuation-from-haun-ventures-shopify-and-coinbase-for-its-web3-development-kit/)
 - [SoftBank-backed Tridge, a Korean platform that matches food agriculture buyers and sellers, bags $37.2M Series D at a $2.7B valuation](https://techcrunch.com/2022/08/24/tridge-a-korean-platform-that-matches-food-agriculture-buyers-and-sellers-bags-37-2m-series-d-at-a-2-7b-valuation/)
 - [Google Play Games for PC is now available to all players in five countries](https://techcrunch.com/2022/08/24/google-play-games-for-pc-is-now-in-available-to-all-players-in-five-countries/)
 - [Astrobotic’s CubeRover will try to survive the lunar night](https://techcrunch.com/2022/08/24/astrobotics-cuberover-will-try-to-survive-the-lunar-night/)
 - [Musk claps back at customer criticism of Tesla FSD beta](https://techcrunch.com/2022/08/24/musk-claps-back-at-customer-criticism-of-tesla-fsd-beta/)
-- [Daily Crunch: 4chan users exploit AI image generator’s ability to create realistic nude deepfakes](https://techcrunch.com/2022/08/24/daily-crunch-4chan-users-exploit-ai-image-generators-ability-to-create-realistic-nude-deepfakes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
