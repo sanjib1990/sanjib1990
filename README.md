@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Twitter is officially adding podcasts to its platform](https://techcrunch.com/2022/08/25/twitter-is-officially-adding-podcasts-to-its-platform/)
-- [Perseverance Mars rover finds surprising volcanic rocks in once lake-filled crater](https://www.space.com/perseverance-mars-rover-suprising-volcanic-rocks/)
-- [IMDb’s What to Watch app adds ‘Time Machine,’ a film recommendation game that transports you to the past](https://techcrunch.com/2022/08/25/imdbs-what-to-watch-app-adds-time-machine-a-film-recommendation-game-that-transports-you-to-the-past/)
-- [Pitch Deck Teardown: Simba Chain’s $25M Series A deck](https://techcrunch.com/2022/08/25/sample-series-a-pitch-deck-simba-chain/)
-- [Heroku announces plans to eliminate free plans, blaming ‘fraud and abuse’](https://techcrunch.com/2022/08/25/heroku-announces-plans-to-eliminate-free-plans-blaming-fraud-and-abuse/)
+- [Meta and Twitter purge web of accounts spreading pro-U.S. propaganda abroad](https://techcrunch.com/2022/08/25/meta-and-twitter-graphika-us-influence-campaign/)
+- [Twitter’s VP of engineering to depart for Meta amid cybersecurity concerns, Musk takeover](https://techcrunch.com/2022/08/25/twitters-former-vp-of-engineering-to-depart-for-meta-amid-cybersecurity-concerns-musk-takeover/)
+- [As a Stripe investor cuts the value of its stake, more evidence of fintech valuation pressure](https://techcrunch.com/2022/08/25/as-a-stripe-investor-cuts-the-value-of-its-stake-more-evidence-of-fintech-valuation-pressure/)
+- [NASA astronauts buzz Artemis 1 SLS rocket in incredible jet flyby &lpar;photos&rpar;](https://www.space.com/nasa-astronauts-artemis-1-rocket-flyby/)
+- [See the old moon and Venus conjunction tonight](https://www.space.com/old-moon-venus-conjuction-august-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
