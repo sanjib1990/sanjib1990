@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [On This Day In Space: Aug. 25, 1997: NASA launches Advanced Composition Explorer](https://www.space.com/39251-on-this-day-in-space.html/)
+- [Google says it has pulled over 2,000 personal loan apps from Play Store in India this year](https://techcrunch.com/2022/08/25/google-personal-loan-apps-play-store-india-update/)
 - [New Mars water map reveals history of Red Planet](https://www.space.com/mars-water-distribution-map/)
 - [Extreme solar storms can strike out of the blue. Are we really prepared?](https://www.space.com/extreme-solar-storms-is-earth-prepared/)
 - [Artemis Accords: Why the international moon exploration framework matters](https://www.space.com/artemis-accords-moon-space-exploration-importance/)
-- [Watch Elon Musk and T-Mobile chief make &#39;special&#39; announcement Thursday night](https://www.space.com/spacex-elon-musk-t-mobile-announcement-preview/)
-- [Voyager 1 marks 10 years in interstellar space](https://www.space.com/voyager-1-marks-10-years-interstellar-space/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
