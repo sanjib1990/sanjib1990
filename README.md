@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Real estate tech startup Reali to shut down after raising $100M one year ago](https://techcrunch.com/2022/08/25/real-estate-tech-startup-reali-to-shut-down-after-raising-100m-one-year-ago/)
+- [Email will be with us until the universe dies, so these startups are working to make it better](https://techcrunch.com/2022/08/25/email-will-be-with-us-until-the-universe-dies-so-these-startups-are-working-to-make-it-better/)
+- [Samsung Galaxy Watch 5 review](https://techcrunch.com/2022/08/25/samsung-galaxy-watch-5-review/)
+- [DoorDash hit by data breach linked to Twilio hackers](https://techcrunch.com/2022/08/25/doordash-customer-data-breach-twilio/)
 - [Flexible apartment startups gain more traction, as Landing lands $125M in debt and equity funding](https://techcrunch.com/2022/08/25/flexible-apartment-startups-gain-more-traction-as-landing-lands-125m-in-debt-and-equity-funding/)
-- [It’s brutal out there for DTC companies](https://techcrunch.com/2022/08/25/its-brutal-out-there-for-dtc-companies/)
-- [Black Girls Code board member Heather Hiles breaks silence after allegations](https://techcrunch.com/2022/08/25/black-girls-code-board-member-heather-hiles-breaks-silence-after-allegations/)
-- [2023 Mercedes-Benz EQS SUV begins production in Alabama](https://techcrunch.com/2022/08/25/2023-mercedes-benz-eqs-suv-begins-production-in-alabama/)
-- [Meta and Twitter purge web of accounts spreading pro-U.S. propaganda abroad](https://techcrunch.com/2022/08/25/meta-and-twitter-graphika-us-influence-campaign/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
