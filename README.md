@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s new &#39;Path to the Pad&#39; video spotlights Artemis 1&#39;s Orion spacecraft](https://www.space.com/nasa-artemis-1-moon-mission-path-to-the-pad-video/)
+- [Polygon founder raises $50M for emerging markets-focused web3 venture fund](https://techcrunch.com/2022/08/25/polygon-web3-crypto-nailwal-symbolic-venture-capital-emerging-markets/)
 - [Korean eyewear brand Gentle Monster jazzes up China’s AR startup Nreal with $15M funding](https://techcrunch.com/2022/08/25/korea-gentle-monster-china-ar-nreal/)
 - [Moon vs. Mars: NASA&#39;s ultimate destination has varied over the decades](https://www.space.com/moon-mars-nasa-exploration-debate/)
 - [$10B crypto developer platform Alchemy buys coding bootcamp in first-ever acquisition](https://techcrunch.com/2022/08/25/crypto-developer-infrastructure-alchemy-acquisition-deal-ma-chainshot-coding-bootcamp/)
-- [AI-powered videoconferencing platform Headroom raises $9M](https://techcrunch.com/2022/08/25/ai-powered-videoconferencing-platform-headroom-raises-9m/)
-- [Instagram is now allowing users to share posts, Reels, and locations through QR codes](https://techcrunch.com/2022/08/25/instagram-is-now-allowing-users-to-share-posts-reels-and-locations-through-qr-codes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
