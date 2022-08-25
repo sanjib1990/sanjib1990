@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Korean eyewear brand Gentle Monster jazzes up China’s AR startup Nreal with $15M funding](https://techcrunch.com/2022/08/25/korea-gentle-monster-china-ar-nreal/)
+- [Moon vs. Mars: NASA&#39;s ultimate destination has varied over the decades](https://www.space.com/moon-mars-nasa-exploration-debate/)
+- [$10B crypto developer platform Alchemy buys coding bootcamp in first-ever acquisition](https://techcrunch.com/2022/08/25/crypto-developer-infrastructure-alchemy-acquisition-deal-ma-chainshot-coding-bootcamp/)
+- [AI-powered videoconferencing platform Headroom raises $9M](https://techcrunch.com/2022/08/25/ai-powered-videoconferencing-platform-headroom-raises-9m/)
 - [Instagram is now allowing users to share posts, Reels, and locations through QR codes](https://techcrunch.com/2022/08/25/instagram-is-now-allowing-users-to-share-posts-reels-and-locations-through-qr-codes/)
-- [BalkanID brings AI to identity governance and administration to take on SailPoint](https://techcrunch.com/2022/08/25/balkanid-brings-ai-to-identity-governance-and-administration-to-take-on-sailpoint/)
-- [Electrification is poised to turn school buses into money-making arbitrage assets](https://techcrunch.com/2022/08/25/electrification-is-poised-to-turn-school-buses-into-money-making-arbitrage-assets/)
-- [Why is the sky blue?](https://www.space.com/why-is-the-sky-blue/)
-- [Watch NASA&#39;s Artemis 1 SLS megarocket moon launch for free with these live webcasts](https://www.space.com/nasa-artemis-1-sls-moon-rocket-launch-webcasts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
