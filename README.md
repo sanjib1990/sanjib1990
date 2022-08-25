@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Possible water world spotted orbiting an alien star](https://www.space.com/ocean-world-habitable-zone-potential-detection/)
+- [In a down market, good messaging isn’t enough for managing international teams](https://techcrunch.com/2022/08/25/messaging-without-context-isnt-enough-for-managing-international-teams-in-a-down-market/)
+- [India asks Byju’s to explain delay in filing audited financial accounts, report says](https://techcrunch.com/2022/08/25/india-asks-byjus-to-explain-delay-in-filing-audited-financial-accounts-report-says/)
+- [PayPal debuts ‘Grant Payments’ to shift charitable giving from paper checks to electronic transfers](https://techcrunch.com/2022/08/25/paypal-debuts-grant-payments-to-shift-charitable-giving-from-paper-checks-to-electronic-transfers/)
 - [NASA&#39;s new &#39;Path to the Pad&#39; video spotlights Artemis 1&#39;s Orion spacecraft](https://www.space.com/nasa-artemis-1-moon-mission-path-to-the-pad-video/)
-- [Polygon founder raises $50M for emerging markets-focused web3 venture fund](https://techcrunch.com/2022/08/25/polygon-web3-crypto-nailwal-symbolic-venture-capital-emerging-markets/)
-- [Korean eyewear brand Gentle Monster jazzes up China’s AR startup Nreal with $15M funding](https://techcrunch.com/2022/08/25/korea-gentle-monster-china-ar-nreal/)
-- [Moon vs. Mars: NASA&#39;s ultimate destination has varied over the decades](https://www.space.com/moon-mars-nasa-exploration-debate/)
-- [$10B crypto developer platform Alchemy buys coding bootcamp in first-ever acquisition](https://techcrunch.com/2022/08/25/crypto-developer-infrastructure-alchemy-acquisition-deal-ma-chainshot-coding-bootcamp/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
