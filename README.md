@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Real estate tech startup Reali to shut down after raising $100M one year ago](https://techcrunch.com/2022/08/25/real-estate-tech-startup-reali-to-shut-down-after-raising-100m-one-year-ago/)
-- [Email will be with us until the universe dies, so these startups are working to make it better](https://techcrunch.com/2022/08/25/email-will-be-with-us-until-the-universe-dies-so-these-startups-are-working-to-make-it-better/)
-- [Samsung Galaxy Watch 5 review](https://techcrunch.com/2022/08/25/samsung-galaxy-watch-5-review/)
-- [DoorDash hit by data breach linked to Twilio hackers](https://techcrunch.com/2022/08/25/doordash-customer-data-breach-twilio/)
-- [Flexible apartment startups gain more traction, as Landing lands $125M in debt and equity funding](https://techcrunch.com/2022/08/25/flexible-apartment-startups-gain-more-traction-as-landing-lands-125m-in-debt-and-equity-funding/)
+- [Daily Crunch: Hacking group penetrates 130+ organizations, captures credentials for nearly 10K workers](https://techcrunch.com/2022/08/25/2378705/)
+- [California clears the way to ban new gas car sales](https://techcrunch.com/2022/08/25/california-new-gas-car-sales-ban-electric-hybrid-regulation/)
+- [Boeing Starliner Orbital Flight Test 2: Live updates](https://www.space.com/news/live/boeing-starliner-oft-2-live-updates/)
+- [How many Coinbases is FTX worth?](https://techcrunch.com/2022/08/25/how-many-coinbases-is-ftx-worth/)
+- [Boeing Starliner&#39;s 1st astronaut flight for NASA delayed to February 2023](https://www.space.com/boeing-starliner-first-astronaut-flight-delay-february-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
