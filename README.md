@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Play Games for PC is now in available to all players in five countries](https://techcrunch.com/2022/08/24/google-play-games-for-pc-is-now-in-available-to-all-players-in-five-countries/)
+- [SoftBank-backed Tridge, a Korean platform that matches food agriculture buyers and sellers, bags $37.2M Series D at a $2.7B valuation](https://techcrunch.com/2022/08/24/tridge-a-korean-platform-that-matches-food-agriculture-buyers-and-sellers-bags-37-2m-series-d-at-a-2-7b-valuation/)
+- [Google Play Games for PC is now available to all players in five countries](https://techcrunch.com/2022/08/24/google-play-games-for-pc-is-now-in-available-to-all-players-in-five-countries/)
 - [Astrobotic’s CubeRover will try to survive the lunar night](https://techcrunch.com/2022/08/24/astrobotics-cuberover-will-try-to-survive-the-lunar-night/)
 - [Musk claps back at customer criticism of Tesla FSD beta](https://techcrunch.com/2022/08/24/musk-claps-back-at-customer-criticism-of-tesla-fsd-beta/)
 - [Daily Crunch: 4chan users exploit AI image generator’s ability to create realistic nude deepfakes](https://techcrunch.com/2022/08/24/daily-crunch-4chan-users-exploit-ai-image-generators-ability-to-create-realistic-nude-deepfakes/)
-- [Marvel at the James Webb Space Telescope&#39;s largest image of the cosmos yet](https://www.space.com/james-webb-space-telescope-largest-image/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
