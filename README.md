@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New White House directive will require free access to studies funded by tax dollars](https://techcrunch.com/2022/08/26/new-white-house-directive-will-require-free-access-to-studies-funded-by-tax-dollars/)
+- [Mobile photo editing app creator Lightricks launches text-to-image generator](https://techcrunch.com/2022/08/26/mobile-photo-editing-app-creator-lightricks-launches-text-to-image-generator/)
 - [TechCrunch+ roundup: Why you should go APE, H-1B lottery tips, how to check references](https://techcrunch.com/2022/08/26/techcrunch-roundup-why-you-should-go-ape-h-1b-lottery-tips-how-to-check-references/)
+- [Alien-hunting array catches Voyager 1 signal from interstellar space](https://www.space.com/voyager-1-signal-from-allen-telescope-array/)
 - [Best photo editing apps for astrophotography 2022](https://www.space.com/best-photo-editing-apps/)
-- [Best binoculars for kids: A close-up view of the cosmos for smaller hands and eyes](https://www.space.com/best-binoculars-for-kids/)
-- [Best telescopes for beginners: Top budget-friendly picks for viewing the planets, galaxies and more](https://www.space.com/31229-best-beginner-telescopes.html/)
-- [Krispy Kreme &#39;Artemis Moon Doughnut&#39; to launch same day as NASA mission](https://www.space.com/krispy-kreme-artemis-moon-doughnut/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
