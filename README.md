@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India railway firm scraps plan to monetize customers data following uproar](https://techcrunch.com/2022/08/26/india-railway-firm-scraps-plan-to-monetize-customers-data-following-uproar/)
+- [Supply chain startup FourKites, which recently laid off workers, raises $30M](https://techcrunch.com/2022/08/26/supply-chain-startup-fourkites-which-recently-laid-off-workers-raises-30m/)
+- [Google’s Waze is shutting down its carpool service starting next month](https://techcrunch.com/2022/08/26/googles-waze-shutting-down-its-carpool-service/)
+- [Learning from my failures: Lessons from a 2-time founder](https://techcrunch.com/2022/08/26/learning-from-my-failures-lessons-from-a-2-time-founder/)
 - [Checking in on China’s venture scene as Q3 rolls along](https://techcrunch.com/2022/08/26/checking-in-on-chinas-venture-scene-as-q3-rolls-along/)
-- [OnlyFans’s Ami Gan and Keily Blair join us at Disrupt for an SFW fireside chat](https://techcrunch.com/2022/08/26/onlyfanss-ami-gan-and-keily-blair-join-us-at-disrupt-for-an-sfw-fireside-chat/)
-- [NASA&#39;s Artemis 1 mission closes the hatch on the Orion spacecraft](https://www.space.com/artemis-1-orion-spacecraft-hatch-closed/)
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
-- [Audi to join Formula 1 with German-built hybrid power unit](https://techcrunch.com/2022/08/26/audi-to-join-formula-1-with-german-built-hybrid-power-unit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
