@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Artemis I is NASA’s moonshot mission to kickstart a new age of space exploration](https://techcrunch.com/2022/08/26/artemis-i-is-nasas-moonshot-mission-to-kickstart-a-new-age-of-space-exploration/)
 - [Daily Crunch: Meta’s upcoming VR headset will track eye movements and capture facial expressions](https://techcrunch.com/2022/08/26/daily-crunch-metas-upcoming-vr-headset-will-track-eye-movements-and-capture-facial-expressions/)
 - [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
 - [A look at progress toward venture equity this Women’s Equality Day](https://techcrunch.com/2022/08/26/a-look-at-progress-toward-venture-equity-this-womens-equality-day/)
 - [Best cameras for photos and videos 2022](https://www.space.com/best-cameras/)
-- [Insta360 Link webcam review](https://techcrunch.com/2022/08/26/insta360-link-webcam-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
