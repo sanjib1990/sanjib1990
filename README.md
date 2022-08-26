@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Five months after a $55M Series B, fintech Argyle cuts jobs](https://techcrunch.com/2022/08/26/fintech-argyle-has-layoffs/)
+- [Netflix tests ‘game handles’ in select mobile titles amid development of social gaming features](https://techcrunch.com/2022/08/26/netflix-tests-game-handles-in-select-mobile-titles-amid-development-of-social-gaming-features/)
+- [Jack Dorsey says his biggest regret is that Twitter was a company at all](https://techcrunch.com/2022/08/26/jack-dorsey-biggest-regret/)
 - [HBO grows its ‘Game of Thrones’ franchise, gives spin-off ‘House of the Dragon’ a second season](https://techcrunch.com/2022/08/26/hbo-grows-its-game-of-thrones-franchise-gives-spin-off-house-of-the-dragon-a-second-season/)
 - [OpenText pushes acquisitive approach to growth with $6B Micro Focus deal](https://techcrunch.com/2022/08/26/opentext-pushes-acquisitive-approach-to-growth-with-6b-micro-focus-deal/)
-- [Moderna sues Pfizer, BioNTech over alleged mRNA patent infringement](https://techcrunch.com/2022/08/26/moderna-sues-pfizer-biontech-over-alleged-mrna-patent-infringement/)
-- [New White House directive will require free access to studies funded by tax dollars](https://techcrunch.com/2022/08/26/new-white-house-directive-will-require-free-access-to-studies-funded-by-tax-dollars/)
-- [Artemis 1: Why NASA&#39;s science chief is so excited about historic moon mission](https://www.space.com/artemis-1-moon-mission-lunar-water-science/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
