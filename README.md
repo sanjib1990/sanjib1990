@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CoinDCX launches Okto to make DeFi apps accessible to masses](https://techcrunch.com/2022/08/26/coindcx-okto-defi-masses/)
+- [Zuckerberg says Meta’s next VR headset will launch in October and will focus on ‘social presence’](https://techcrunch.com/2022/08/26/zuckerberg-says-metas-next-vr-headset-will-launch-in-october-and-will-focus-on-social-presence/)
 - [Animoca Brands’ Japan unit raises $45M at $500M valuation for NFT push](https://techcrunch.com/2022/08/25/animoca-brands-japan-funding/)
 - [SpaceX Starlink satellites to beam service straight to smartphones](https://www.space.com/spacex-starlink-direct-service-smartphones-t-mobile/)
 - [T-Mobile phones will connect to Starlink for free starting next year](https://techcrunch.com/2022/08/25/t-mobile-phones-will-connect-to-starlink-for-free-starting-next-year/)
-- [Meta just erased a Proud Boys network stealthily organizing on Facebook and Instagram](https://techcrunch.com/2022/08/25/proud-boys-facebook-meta-instagram-2022/)
-- [Better.com planning fourth layoff in less than 9 months](https://techcrunch.com/2022/08/25/better-com-layoffs-digital-mortgage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
