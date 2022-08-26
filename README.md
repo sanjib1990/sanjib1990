@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Meta’s upcoming VR headset will track eye movements and capture facial expressions](https://techcrunch.com/2022/08/26/daily-crunch-metas-upcoming-vr-headset-will-track-eye-movements-and-capture-facial-expressions/)
+- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
 - [A look at progress toward venture equity this Women’s Equality Day](https://techcrunch.com/2022/08/26/a-look-at-progress-toward-venture-equity-this-womens-equality-day/)
 - [Best cameras for photos and videos 2022](https://www.space.com/best-cameras/)
 - [Insta360 Link webcam review](https://techcrunch.com/2022/08/26/insta360-link-webcam-review/)
-- [Five months after a $55M Series B, fintech Argyle cuts jobs](https://techcrunch.com/2022/08/26/fintech-argyle-has-layoffs/)
-- [Bitwise’s Katherine Dowling talks rules and regs at TC Sessions: Crypto](https://techcrunch.com/2022/08/26/bitwises-katherine-dowling-talks-rules-and-regs-at-tc-sessions-crypto/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
