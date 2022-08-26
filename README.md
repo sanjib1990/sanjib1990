@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A look at progress toward venture equity this Women’s Equality Day](https://techcrunch.com/2022/08/26/a-look-at-progress-toward-venture-equity-this-womens-equality-day/)
+- [Best cameras for photos and videos 2022](https://www.space.com/best-cameras/)
+- [Insta360 Link webcam review](https://techcrunch.com/2022/08/26/insta360-link-webcam-review/)
 - [Five months after a $55M Series B, fintech Argyle cuts jobs](https://techcrunch.com/2022/08/26/fintech-argyle-has-layoffs/)
-- [Netflix tests ‘game handles’ in select mobile titles amid development of social gaming features](https://techcrunch.com/2022/08/26/netflix-tests-game-handles-in-select-mobile-titles-amid-development-of-social-gaming-features/)
-- [Jack Dorsey says his biggest regret is that Twitter was a company at all](https://techcrunch.com/2022/08/26/jack-dorsey-biggest-regret/)
-- [HBO grows its ‘Game of Thrones’ franchise, gives spin-off ‘House of the Dragon’ a second season](https://techcrunch.com/2022/08/26/hbo-grows-its-game-of-thrones-franchise-gives-spin-off-house-of-the-dragon-a-second-season/)
-- [OpenText pushes acquisitive approach to growth with $6B Micro Focus deal](https://techcrunch.com/2022/08/26/opentext-pushes-acquisitive-approach-to-growth-with-6b-micro-focus-deal/)
+- [Bitwise’s Katherine Dowling talks rules and regs at TC Sessions: Crypto](https://techcrunch.com/2022/08/26/bitwises-katherine-dowling-talks-rules-and-regs-at-tc-sessions-crypto/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
