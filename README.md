@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The secret to doing great reference calls](https://techcrunch.com/2022/08/26/how-to-reference-calls/)
+- [Press and Law v. Adam and Elon](https://techcrunch.com/2022/08/26/press-and-law-v-adam-and-elon/)
+- [How to watch NASA&#39;s Artemis 1 SLS megarocket launch to the moon for free online](https://www.space.com/nasa-artemis-1-sls-moon-rocket-launch-webcasts/)
+- [Moon exploration site preservation remains uncertain as Artemis era begins](https://www.space.com/moon-heritage-preservation-artemis-accords/)
 - [4 principles private capital firms should follow to win the talent race](https://techcrunch.com/2022/08/26/4-principles-private-capital-firms-should-follow-to-win-the-talent-race/)
-- [Predatory loan apps in India rake in huge fees, and are driving some users to suicide](https://techcrunch.com/2022/08/26/loan-apps-abuse-harassment-suicide-indian-users-google-apple-india/)
-- [Best binoculars 2022: Top picks for stargazing, wildlife and more](https://www.space.com/26021-best-binoculars.html/)
-- [UK competition litigation against Meta will proceed to class certification hearing](https://techcrunch.com/2022/08/26/facebook-uk-competition-class-action-proceeds/)
-- [NASA&#39;s asteroid-deflecting test mission is just 1 month away from impact](https://www.space.com/nasa-dart-mission-asteroid-impact-one-month-away/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
