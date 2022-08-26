@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Animoca Brands’ Japan unit raises $45M at $500M valuation for NFT push](https://techcrunch.com/2022/08/25/animoca-brands-japan-funding/)
 - [SpaceX Starlink satellites to beam service straight to smartphones](https://www.space.com/spacex-starlink-direct-service-smartphones-t-mobile/)
 - [T-Mobile phones will connect to Starlink for free starting next year](https://techcrunch.com/2022/08/25/t-mobile-phones-will-connect-to-starlink-for-free-starting-next-year/)
 - [Meta just erased a Proud Boys network stealthily organizing on Facebook and Instagram](https://techcrunch.com/2022/08/25/proud-boys-facebook-meta-instagram-2022/)
 - [Better.com planning fourth layoff in less than 9 months](https://techcrunch.com/2022/08/25/better-com-layoffs-digital-mortgage/)
-- [California clears the way to ban new gas car sales](https://techcrunch.com/2022/08/25/california-new-gas-car-sales-ban-electric-hybrid-regulation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
