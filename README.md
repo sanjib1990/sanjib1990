@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [T-Mobile phones will connect to Starlink for free starting next year](https://techcrunch.com/2022/08/25/t-mobile-phones-will-connect-to-starlink-for-free-starting-next-year/)
+- [Meta just erased a Proud Boys network stealthily organizing on Facebook and Instagram](https://techcrunch.com/2022/08/25/proud-boys-facebook-meta-instagram-2022/)
+- [Better.com planning fourth layoff in less than 9 months](https://techcrunch.com/2022/08/25/better-com-layoffs-digital-mortgage/)
 - [California clears the way to ban new gas car sales](https://techcrunch.com/2022/08/25/california-new-gas-car-sales-ban-electric-hybrid-regulation/)
 - [Breaking into healthcare with WELL Health and Freestyle on TechCrunch Live](https://techcrunch.com/2022/08/25/breaking-into-healthcare-with-well-health-and-freestyle-on-techcrunch-live/)
-- [Daily Crunch: Hacking group penetrates 130+ organizations, captures credentials for nearly 10K workers](https://techcrunch.com/2022/08/25/2378705/)
-- [Boeing Starliner Orbital Flight Test 2: Live updates](https://www.space.com/news/live/boeing-starliner-oft-2-live-updates/)
-- [How many Coinbases is FTX worth?](https://techcrunch.com/2022/08/25/how-many-coinbases-is-ftx-worth/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
