@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [CoinDCX launches Okto to make DeFi apps accessible to masses](https://techcrunch.com/2022/08/26/coindcx-okto-defi-masses/)
+- [On This Day In Space: Aug. 26, 1978: Sigmund Jähn becomes 1st German in space](https://www.space.com/39251-on-this-day-in-space.html/)
+- [World clock: What is it and how does it work?](https://www.space.com/world-clock/)
+- [CoinDCX launches platform to make DeFi apps accessible to masses](https://techcrunch.com/2022/08/26/coindcx-okto-defi-masses/)
 - [Zuckerberg says Meta’s next VR headset will launch in October and will focus on ‘social presence’](https://techcrunch.com/2022/08/26/zuckerberg-says-metas-next-vr-headset-will-launch-in-october-and-will-focus-on-social-presence/)
 - [Animoca Brands’ Japan unit raises $45M at $500M valuation for NFT push](https://techcrunch.com/2022/08/25/animoca-brands-japan-funding/)
-- [SpaceX Starlink satellites to beam service straight to smartphones](https://www.space.com/spacex-starlink-direct-service-smartphones-t-mobile/)
-- [T-Mobile phones will connect to Starlink for free starting next year](https://techcrunch.com/2022/08/25/t-mobile-phones-will-connect-to-starlink-for-free-starting-next-year/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
