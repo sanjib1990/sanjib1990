@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [India railway firm scraps plan to monetize customers data following uproar](https://techcrunch.com/2022/08/26/india-railway-firm-scraps-plan-to-monetize-customers-data-following-uproar/)
-- [Supply chain startup FourKites, which recently laid off workers, raises $30M](https://techcrunch.com/2022/08/26/supply-chain-startup-fourkites-which-recently-laid-off-workers-raises-30m/)
-- [Google’s Waze is shutting down its carpool service starting next month](https://techcrunch.com/2022/08/26/googles-waze-shutting-down-its-carpool-service/)
-- [Learning from my failures: Lessons from a 2-time founder](https://techcrunch.com/2022/08/26/learning-from-my-failures-lessons-from-a-2-time-founder/)
-- [Checking in on China’s venture scene as Q3 rolls along](https://techcrunch.com/2022/08/26/checking-in-on-chinas-venture-scene-as-q3-rolls-along/)
+- [TechCrunch+ roundup: Why you should go APE, H-1B lottery tips, how to check references](https://techcrunch.com/2022/08/26/techcrunch-roundup-why-you-should-go-ape-h-1b-lottery-tips-how-to-check-references/)
+- [Best photo editing apps for astrophotography 2022](https://www.space.com/best-photo-editing-apps/)
+- [Best binoculars for kids: A close-up view of the cosmos for smaller hands and eyes](https://www.space.com/best-binoculars-for-kids/)
+- [Best telescopes for beginners: Top budget-friendly picks for viewing the planets, galaxies and more](https://www.space.com/31229-best-beginner-telescopes.html/)
+- [Krispy Kreme &#39;Artemis Moon Doughnut&#39; to launch same day as NASA mission](https://www.space.com/krispy-kreme-artemis-moon-doughnut/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
