@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [On This Day In Space: Aug. 26, 1978: Sigmund Jähn becomes 1st German in space](https://www.space.com/39251-on-this-day-in-space.html/)
-- [World clock: What is it and how does it work?](https://www.space.com/world-clock/)
-- [CoinDCX launches platform to make DeFi apps accessible to masses](https://techcrunch.com/2022/08/26/coindcx-okto-defi-masses/)
-- [Zuckerberg says Meta’s next VR headset will launch in October and will focus on ‘social presence’](https://techcrunch.com/2022/08/26/zuckerberg-says-metas-next-vr-headset-will-launch-in-october-and-will-focus-on-social-presence/)
-- [Animoca Brands’ Japan unit raises $45M at $500M valuation for NFT push](https://techcrunch.com/2022/08/25/animoca-brands-japan-funding/)
+- [NASA&#39;s asteroid-deflecting test mission is just 1 month away from impact](https://www.space.com/nasa-dart-mission-asteroid-impact-one-month-away/)
+- [NASA&#39;s Artemis 1 moon rocket spotted from space &lpar;satellite photos&rpar;](https://www.space.com/nasa-artemis-1-moon-rocket-satellite-photos-maxar/)
+- [VP Kamala Harris to attend Artemis 1 moon launch &lpar;exclusive&rpar;](https://www.space.com/vice-president-kamala-harris-attend-artemis-1-launch/)
+- [Alexa, what is Artemis 1? Epic NASA mission carrying voice assistant tech to the moon](https://www.space.com/nasa-artemis-1-alexa-voice-assistant/)
+- [&#39;Star factory&#39; at Milky Way&#39;s heart seen for the first time](https://www.space.com/star-factories-discovered-milky-way-center/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
