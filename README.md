@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [HBO grows its ‘Game of Thrones’ franchise, gives spin-off ‘House of the Dragon’ a second season](https://techcrunch.com/2022/08/26/hbo-grows-its-game-of-thrones-franchise-gives-spin-off-house-of-the-dragon-a-second-season/)
+- [OpenText pushes acquisitive approach to growth with $6B Micro Focus deal](https://techcrunch.com/2022/08/26/opentext-pushes-acquisitive-approach-to-growth-with-6b-micro-focus-deal/)
+- [Moderna sues Pfizer, BioNTech over alleged mRNA patent infringement](https://techcrunch.com/2022/08/26/moderna-sues-pfizer-biontech-over-alleged-mrna-patent-infringement/)
 - [New White House directive will require free access to studies funded by tax dollars](https://techcrunch.com/2022/08/26/new-white-house-directive-will-require-free-access-to-studies-funded-by-tax-dollars/)
-- [Mobile photo editing app creator Lightricks launches text-to-image generator](https://techcrunch.com/2022/08/26/mobile-photo-editing-app-creator-lightricks-launches-text-to-image-generator/)
-- [TechCrunch+ roundup: Why you should go APE, H-1B lottery tips, how to check references](https://techcrunch.com/2022/08/26/techcrunch-roundup-why-you-should-go-ape-h-1b-lottery-tips-how-to-check-references/)
-- [Alien-hunting array catches Voyager 1 signal from interstellar space](https://www.space.com/voyager-1-signal-from-allen-telescope-array/)
-- [Best photo editing apps for astrophotography 2022](https://www.space.com/best-photo-editing-apps/)
+- [Artemis 1: Why NASA&#39;s science chief is so excited about historic moon mission](https://www.space.com/artemis-1-moon-mission-lunar-water-science/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
