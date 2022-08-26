@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [UK competition litigation against Meta will proceed to class certification hearing](https://techcrunch.com/2022/08/26/facebook-uk-competition-class-action-proceeds/)
 - [NASA&#39;s asteroid-deflecting test mission is just 1 month away from impact](https://www.space.com/nasa-dart-mission-asteroid-impact-one-month-away/)
 - [NASA&#39;s Artemis 1 moon rocket spotted from space &lpar;satellite photos&rpar;](https://www.space.com/nasa-artemis-1-moon-rocket-satellite-photos-maxar/)
 - [VP Kamala Harris to attend Artemis 1 moon launch &lpar;exclusive&rpar;](https://www.space.com/vice-president-kamala-harris-attend-artemis-1-launch/)
 - [Alexa, what is Artemis 1? Epic NASA mission carrying voice assistant tech to the moon](https://www.space.com/nasa-artemis-1-alexa-voice-assistant/)
-- [&#39;Star factory&#39; at Milky Way&#39;s heart seen for the first time](https://www.space.com/star-factories-discovered-milky-way-center/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
