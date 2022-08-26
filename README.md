@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [4 principles private capital firms should follow to win the talent race](https://techcrunch.com/2022/08/26/4-principles-private-capital-firms-should-follow-to-win-the-talent-race/)
+- [Predatory loan apps in India rake in huge fees, and are driving some users to suicide](https://techcrunch.com/2022/08/26/loan-apps-abuse-harassment-suicide-indian-users-google-apple-india/)
+- [Best binoculars 2022: Top picks for stargazing, wildlife and more](https://www.space.com/26021-best-binoculars.html/)
 - [UK competition litigation against Meta will proceed to class certification hearing](https://techcrunch.com/2022/08/26/facebook-uk-competition-class-action-proceeds/)
 - [NASA&#39;s asteroid-deflecting test mission is just 1 month away from impact](https://www.space.com/nasa-dart-mission-asteroid-impact-one-month-away/)
-- [NASA&#39;s Artemis 1 moon rocket spotted from space &lpar;satellite photos&rpar;](https://www.space.com/nasa-artemis-1-moon-rocket-satellite-photos-maxar/)
-- [VP Kamala Harris to attend Artemis 1 moon launch &lpar;exclusive&rpar;](https://www.space.com/vice-president-kamala-harris-attend-artemis-1-launch/)
-- [Alexa, what is Artemis 1? Epic NASA mission carrying voice assistant tech to the moon](https://www.space.com/nasa-artemis-1-alexa-voice-assistant/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
