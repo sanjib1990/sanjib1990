@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Lego, NASA launch interactive &#39;Build to Launch&#39; exhibit for Artemis 1 moon mission](https://www.space.com/lego-nasa-artemis-1-exhibit-kennedy-space-center/)
-- [Perceptron: Face-tracking ‘earables,’ analog AI chips, and accelerating particle accelerators](https://techcrunch.com/2022/08/27/perceptron-face-tracking-earables-analog-ai-chips-and-accelerating-particle-accelerators/)
-- [Analytics, AI and robotics help MLB teams get a step closer to a perfect pitching machine](https://techcrunch.com/2022/08/27/analytics-ai-and-robotics-help-mlb-teams-get-a-step-closer-to-a-perfect-pitching-machine/)
-- [Artemis 1 timeline: What to expect from NASA&#39;s epic moon mission](https://www.space.com/nasa-artemis-1-moon-mission-timeline/)
-- [Watch SpaceX launch 54 Starlink satellites, land a rocket at sea tonight &lpar;Aug. 27&rpar;](https://www.space.com/spacex-starlink-group-4-23-launch-rocket-landing/)
+- [NASA&#39;s begins countdown for Artemis 1 moon mission launch](https://www.space.com/artemis-1-moon-mission-nasa-launch-countdown/)
+- [How to watch NASA&#39;s Artemis 1 moon launch online in free webcasts](https://www.space.com/nasa-artemis-1-sls-moon-rocket-launch-webcasts/)
+- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
+- [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html/)
+- [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
