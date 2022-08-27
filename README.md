@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jay Chandrasekhar is using revenge to build a new review app](https://techcrunch.com/2022/08/27/jay-chandrasekhar-is-using-revenge-to-build-a-new-review-app/)
+- [More venture funds are betting on Central and Eastern Europe](https://techcrunch.com/2022/08/27/more-venture-funds-are-betting-on-central-and-eastern-europe/)
 - [EV battery leases could be a boon for manufacturers, a bust for consumers](https://techcrunch.com/2022/08/27/ev-battery-leases-could-be-a-boon-for-manufacturers-a-bust-for-consumers/)
 - [Drop’s DCX keycaps give your old keyboard a new lease on life](https://techcrunch.com/2022/08/27/drops-dcx-keycaps-give-your-old-keyboard-a-new-lease-on-life/)
 - [Randomly selected quotes from Zuck’s very, very long interview](https://techcrunch.com/2022/08/27/randomly-selected-quotes-from-zucks-very-very-long-interview/)
-- [Artemis 1 science: How moon mission will help humanity explore deep space](https://www.space.com/nasa-artemis-1-moon-mission-science/)
-- [NASA&#39;s begins countdown for Artemis 1 moon mission launch](https://www.space.com/artemis-1-moon-mission-nasa-launch-countdown/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
