@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lego, NASA launch interactive &#39;Build to Launch&#39; exhibit for Artemis 1 moon mission](https://www.space.com/lego-nasa-artemis-1-exhibit-kennedy-space-center/)
 - [Perceptron: Face-tracking ‘earables,’ analog AI chips, and accelerating particle accelerators](https://techcrunch.com/2022/08/27/perceptron-face-tracking-earables-analog-ai-chips-and-accelerating-particle-accelerators/)
 - [Analytics, AI and robotics help MLB teams get a step closer to a perfect pitching machine](https://techcrunch.com/2022/08/27/analytics-ai-and-robotics-help-mlb-teams-get-a-step-closer-to-a-perfect-pitching-machine/)
 - [Artemis 1 timeline: What to expect from NASA&#39;s epic moon mission](https://www.space.com/nasa-artemis-1-moon-mission-timeline/)
 - [Watch SpaceX launch 54 Starlink satellites, land a rocket at sea tonight &lpar;Aug. 27&rpar;](https://www.space.com/spacex-starlink-group-4-23-launch-rocket-landing/)
-- [Investment clubs are cool again, and maybe community is, too](https://techcrunch.com/2022/08/27/community-group-dao-investing-clubs-wall-street-bets-collective-social-startups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
