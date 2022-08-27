@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Artemis I is NASA’s moonshot mission to kickstart a new age of space exploration](https://techcrunch.com/2022/08/26/artemis-i-is-nasas-moonshot-mission-to-kickstart-a-new-age-of-space-exploration/)
-- [Daily Crunch: Meta’s upcoming VR headset will track eye movements and capture facial expressions](https://techcrunch.com/2022/08/26/daily-crunch-metas-upcoming-vr-headset-will-track-eye-movements-and-capture-facial-expressions/)
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
-- [A look at progress toward venture equity this Women’s Equality Day](https://techcrunch.com/2022/08/26/a-look-at-progress-toward-venture-equity-this-womens-equality-day/)
-- [Best cameras for photos and videos 2022](https://www.space.com/best-cameras/)
+- [Analytics, AI and robotics help MLB teams get a step closer to a perfect pitching machine](https://techcrunch.com/2022/08/27/analytics-ai-and-robotics-help-mlb-teams-get-a-step-closer-to-a-perfect-pitching-machine/)
+- [Artemis 1 timeline: What to expect from NASA&#39;s epic moon mission](https://www.space.com/nasa-artemis-1-moon-mission-timeline/)
+- [Watch SpaceX launch 54 Starlink satellites, land a rocket at sea tonight &lpar;Aug. 27&rpar;](https://www.space.com/spacex-starlink-group-4-23-launch-rocket-landing/)
+- [Investment clubs are cool again, and maybe community is, too](https://techcrunch.com/2022/08/27/community-group-dao-investing-clubs-wall-street-bets-collective-social-startups/)
+- [How to watch NASA&#39;s Artemis 1 moon launch online in free webcasts](https://www.space.com/nasa-artemis-1-sls-moon-rocket-launch-webcasts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
