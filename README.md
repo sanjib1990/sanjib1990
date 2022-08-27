@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [EV battery leases could be a boon for manufacturers, a bust for consumers](https://techcrunch.com/2022/08/27/ev-battery-leases-could-be-a-boon-for-manufacturers-a-bust-for-consumers/)
+- [Drop’s DCX keycaps give your old keyboard a new lease on life](https://techcrunch.com/2022/08/27/drops-dcx-keycaps-give-your-old-keyboard-a-new-lease-on-life/)
+- [Randomly selected quotes from Zuck’s very, very long interview](https://techcrunch.com/2022/08/27/randomly-selected-quotes-from-zucks-very-very-long-interview/)
+- [Artemis 1 science: How moon mission will help humanity explore deep space](https://www.space.com/nasa-artemis-1-moon-mission-science/)
 - [NASA&#39;s begins countdown for Artemis 1 moon mission launch](https://www.space.com/artemis-1-moon-mission-nasa-launch-countdown/)
-- [How to watch NASA&#39;s Artemis 1 moon launch online in free webcasts](https://www.space.com/nasa-artemis-1-sls-moon-rocket-launch-webcasts/)
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
-- [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html/)
-- [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
