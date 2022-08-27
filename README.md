@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Artemis 1 moon mission ready for epic test flight on SLS megarocket, NASA says](https://www.space.com/artemis-1-moon-mission-ready-launch/)
 - [This Week in Apps: Whistleblowing drama, Instagram’s teen safety features, Twitter adds podcasts](https://techcrunch.com/2022/08/27/this-week-in-apps-whistleblowing-drama-instagrams-teen-safety-features-twitter-adds-podcasts/)
 - [When the party has confetti but no allergen-friendly appetizers](https://techcrunch.com/2022/08/27/when-the-party-has-confetti-but-no-allergen-friendly-appetizers/)
 - [Jay Chandrasekhar is using revenge to build a new review app](https://techcrunch.com/2022/08/27/jay-chandrasekhar-is-using-revenge-to-build-a-new-review-app/)
 - [More venture funds are betting on Central and Eastern Europe](https://techcrunch.com/2022/08/27/more-venture-funds-are-betting-on-central-and-eastern-europe/)
-- [EV battery leases could be a boon for manufacturers, a bust for consumers](https://techcrunch.com/2022/08/27/ev-battery-leases-could-be-a-boon-for-manufacturers-a-bust-for-consumers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
