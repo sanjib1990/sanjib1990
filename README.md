@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX launches 54 Starlink satellites, lands rocket at sea](https://www.space.com/spacex-starlink-group-4-23-launch-rocket-landing/)
 - [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
 - [Lightning strikes Artemis 1 launch pad 2 days before liftoff &lpar;video&rpar;](https://www.space.com/nasa-artemis-1-moon-mission-lightning-strike/)
 - [Hackers access DoorDash data, T-Mobile teams up with SpaceX, and eBay buys TCGplayer](https://techcrunch.com/2022/08/27/hackers-access-doordash-data-t-mobile-teams-up-with-spacex-and-ebay-buys-tcgplayer/)
 - [Artemis 1 moon mission ready for epic test flight on SLS megarocket, NASA says](https://www.space.com/artemis-1-moon-mission-ready-launch/)
-- [This Week in Apps: Whistleblowing drama, Instagram’s teen safety features, Twitter adds podcasts](https://techcrunch.com/2022/08/27/this-week-in-apps-whistleblowing-drama-instagrams-teen-safety-features-twitter-adds-podcasts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
