@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See NASA&#39;s Artemis 1 moon rocket on the launch pad from space in Planet satellite video](https://www.space.com/artemis-1-space-view-launch-pad/)
 - [The majority of early-stage VC deals fall apart in due diligence](https://techcrunch.com/2022/08/28/vc-due-diligence/)
 - [These NASA photos of lightning strikes at the Artemis 1 moon rocket launch pad are amazing](https://www.space.com/artemis-1-lightning-launch-pad-photos-amazing/)
 - [Weather looks good for Artemis 1 moon mission launch, NASA says](https://www.space.com/artemis-1-moon-mission-weather-forecast/)
 - [Can battery recycling help end US reliance on China?](https://techcrunch.com/2022/08/28/can-battery-recycling-help-end-us-reliance-on-china/)
-- [Aston Martin Valhalla plug-in hybrid to shape future EVs](https://techcrunch.com/2022/08/28/aston-martin-valhalla-plug-in-hybrid-to-shape-future-evs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
