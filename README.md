@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The majority of early-stage VC deals fall apart in due diligence](https://techcrunch.com/2022/08/28/vc-due-diligence/)
+- [These NASA photos of lightning strikes at the Artemis 1 moon rocket launch pad are amazing](https://www.space.com/artemis-1-lightning-launch-pad-photos-amazing/)
+- [Weather looks good for Artemis 1 moon mission launch, NASA says](https://www.space.com/artemis-1-moon-mission-weather-forecast/)
 - [Can battery recycling help end US reliance on China?](https://techcrunch.com/2022/08/28/can-battery-recycling-help-end-us-reliance-on-china/)
 - [Aston Martin Valhalla plug-in hybrid to shape future EVs](https://techcrunch.com/2022/08/28/aston-martin-valhalla-plug-in-hybrid-to-shape-future-evs/)
-- [How to watch NASA&#39;s Artemis 1 moon launch online in free webcasts](https://www.space.com/nasa-artemis-1-sls-moon-rocket-launch-webcasts/)
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
-- [Burn, baby, burn. Real estate-focused fintech startups feel the heat](https://techcrunch.com/2022/08/28/burn-baby-burn-real-estate-focused-fintech-startups-feel-the-heat/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
