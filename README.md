@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Save up to £40 on these awesome Artemis-inspired Lego space sets](https://www.space.com/save-up-to-forty-pounds-lego-space-sets-argos-uk-deal/)
 - [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
 - [How to watch NASA&#39;s Artemis 1 moon launch online in free webcasts](https://www.space.com/nasa-artemis-1-sls-moon-rocket-launch-webcasts/)
 - [&#39;Zero hour&#39; for Artemis 1: NASA&#39;s most powerful rocket to launch risky moon mission test flight](https://www.space.com/artemis-1-moon-mission-nasa-zero-hour-preview/)
 - [4 billion-year-old chunk of Earth&#39;s crust found below Australia](https://www.space.com/earth-crust-4-billion-year-old-australia/)
-- [The asteroid NASA will slam into in September is right where scientists expected](https://www.space.com/dart-asteroid-mission-preparatory-observations-didymos-orbit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
