@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Can battery recycling help end US reliance on China?](https://techcrunch.com/2022/08/28/can-battery-recycling-help-end-us-reliance-on-china/)
+- [Aston Martin Valhalla plug-in hybrid to shape future EVs](https://techcrunch.com/2022/08/28/aston-martin-valhalla-plug-in-hybrid-to-shape-future-evs/)
+- [How to watch NASA&#39;s Artemis 1 moon launch online in free webcasts](https://www.space.com/nasa-artemis-1-sls-moon-rocket-launch-webcasts/)
 - [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
 - [Burn, baby, burn. Real estate-focused fintech startups feel the heat](https://techcrunch.com/2022/08/28/burn-baby-burn-real-estate-focused-fintech-startups-feel-the-heat/)
-- [India’s Akasa Air exposed sensitive records of thousands of customers](https://techcrunch.com/2022/08/28/india-akasa-air-sensitive-customer-data-records-exposed-glitch/)
-- [Save up to £40 on these awesome Artemis-inspired Lego space sets](https://www.space.com/save-up-to-forty-pounds-lego-space-sets-argos-uk-deal/)
-- [How to watch NASA&#39;s Artemis 1 moon launch online in free webcasts](https://www.space.com/nasa-artemis-1-sls-moon-rocket-launch-webcasts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
