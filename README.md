@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta now lets you post your NFTs on both Facebook and Instagram](https://techcrunch.com/2022/08/29/meta-now-lets-you-post-your-nfts-on-both-facebook-and-instagram/)
+- [‘Dateline NBC’ Apple Podcasts subscription channel gives true crime fans ad-free episodes](https://techcrunch.com/2022/08/29/dateline-nbc-apple-podcasts-subscription-channel-gives-true-crime-fans-ad-free-episodes/)
+- [FTC sues data broker Kochava for sale of people’s sensitive location data, including visits to reproductive health clinics](https://techcrunch.com/2022/08/29/ftc-sues-data-broker-kochava-for-sale-of-peoples-sensitive-location-data-including-visits-to-reproductive-health-clinics/)
+- [Is there no bottom to the SPAC mess?](https://techcrunch.com/2022/08/29/is-there-no-bottom-to-the-spac-mess/)
 - [Does venture capital need a shot in the arm?](https://techcrunch.com/2022/08/29/does-venture-capital-need-a-shot-in-the-arm/)
-- [Investors detail their red &lpar;and green&rpar; flags for startups seeking venture dollars](https://techcrunch.com/2022/08/29/investors-detail-their-red-and-green-flags-for-startups-seeking-venture-dollars/)
-- [Music streaming service Deezer is testing a meditation app](https://techcrunch.com/2022/08/29/music-streaming-service-deezer-is-testing-a-meditation-app/)
-- [Justice Department in early stages of filing an antitrust lawsuit against Apple, says report](https://techcrunch.com/2022/08/29/justice-department-in-early-stages-of-filing-an-antitrust-lawsuit-against-apple-says-report/)
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
