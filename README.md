@@ -82,7 +82,7 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [make a WEBSITE with PYTHON!! &lpar;Flask Tutorial for Beginners&rpar;](https://www.youtube.com/watch?v=5aYpkLfkgRE)
+- [build a meme Python website &lpar;Flask Tutorial for Beginners&rpar;](https://www.youtube.com/watch?v=5aYpkLfkgRE)
 - [God-Tier Developer Roadmap](https://www.youtube.com/watch?v=pEfrdAtAmqk)
 - [a BASH script PUSH-UP counter &lpar;for #gains &rpar;](https://www.youtube.com/watch?v=nW9M0MQinfg)
 - [4B. DNA 2: Dynamic Programming, Blast, Multi-alignment, Hidden Markov Models](https://www.youtube.com/watch?v=VVCE-6kmyBI)
