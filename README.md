@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Reliance Jio to debut 5G in October, reach all by 2023 end](https://techcrunch.com/2022/08/29/reliance-jio-to-debut-5g-in-october-reach-all-by-2023-end/)
+- [Nigerian YC-backed startup Anchor comes out of stealth with $1M+ to scale its banking-as-a-service platform](https://techcrunch.com/2022/08/29/nigerian-yc-backed-startup-anchor-comes-out-of-stealth-with-1m-to-scale-its-banking-as-a-service-platform/)
+- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
 - [Angry Miao’s Cyberblade gaming earbuds are the pinnacle of overengineering](https://techcrunch.com/2022/08/29/angry-miao-cyberblade/)
 - [Netflix’s ad-supported plan could cost as low as $7](https://techcrunch.com/2022/08/28/netflixs-ad-supported-plan-could-cost-as-low-as-7/)
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
-- [NASA begins fueling SLS rocket for Artemis 1 moon mission launch](https://www.space.com/fueling-sls-rocket-artemis-1-moon-mission/)
-- [Watch live: NASA launching Artemis 1 moon mission today](https://www.space.com/nasa-artemis-1-sls-moon-rocket-launch-webcasts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
