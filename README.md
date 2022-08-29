@@ -98,7 +98,7 @@
 - [War in Ukraine highlights the growing strategic importance of private satellite companies — especially in times of conflict](https://www.space.com/ukraine-war-strategic-importance-private-satellites/)
 - [Join Artemis 1&#39;s Commander Moonikin Campos on his lunar voyage in NASA&#39;s free comic book](https://www.space.com/nasa-artemis-1-moonikin-campos-free-comic/)
 - [Trio of solar flares produce radio blackouts and dazzling auroras](https://www.space.com/solar-flares-radio-blackouts-aurora-august-2022/)
-- [Does venture capital need a shot in the arm?](https://techcrunch.com/2022/08/29/does-venture-capital-need-a-shot-in-the-arm/)
+- [Meta now lets you post your NFTs on both Facebook and Instagram](https://techcrunch.com/2022/08/29/meta-now-lets-you-post-your-nfts-on-both-facebook-and-instagram/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
