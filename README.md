@@ -94,8 +94,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to watch NASA&#39;s Artemis 1 moon launch online for free](https://www.space.com/nasa-artemis-1-sls-moon-rocket-launch-webcasts/)
 - [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
+- [Watch live: NASA launching Artemis 1 moon mission today](https://www.space.com/nasa-artemis-1-sls-moon-rocket-launch-webcasts/)
 - [How to watch NASA&#39;s Artemis 1 moon mission launch live in a 360-degree VR experience](https://www.space.com/artemis-1-virtual-reality-watch-live/)
 - [NASA&#39;s Artemis 1 moon rocket faces stormy skies in incredible aerial photos](https://www.space.com/nasa-artemis-1-moon-rocket-aerial-photos/)
 - [See NASA&#39;s Artemis 1 moon rocket on the launch pad from space in Planet satellite video](https://www.space.com/artemis-1-space-view-launch-pad/)
