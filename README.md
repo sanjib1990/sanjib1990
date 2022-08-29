@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft launches Arm-based Azure VMs powered by Ampere chips](https://techcrunch.com/2022/08/29/microsoft-launches-arm-based-azure-vms-powered-by-ampere-chips/)
+- [Neurofenix puts on a new spin on home stroke rehabilitation with the NeuroBall](https://techcrunch.com/2022/08/29/neurofenix-puts-on-a-new-spin-on-home-stroke-rehabilitation-with-the-neuroball/)
+- [Meet the judges for the Minneapolis, Minn TechCrunch Live pitch-off](https://techcrunch.com/2022/08/29/meet-the-judges-for-the-minneapolis-minn-techcrunch-live-pitch-off/)
 - [Meta now lets you post your NFTs on both Facebook and Instagram](https://techcrunch.com/2022/08/29/meta-now-lets-you-post-your-nfts-on-both-facebook-and-instagram/)
 - [‘Dateline NBC’ Apple Podcasts subscription channel gives true crime fans ad-free episodes](https://techcrunch.com/2022/08/29/dateline-nbc-apple-podcasts-subscription-channel-gives-true-crime-fans-ad-free-episodes/)
-- [FTC sues data broker Kochava for sale of people’s sensitive location data, including visits to reproductive health clinics](https://techcrunch.com/2022/08/29/ftc-sues-data-broker-kochava-for-sale-of-peoples-sensitive-location-data-including-visits-to-reproductive-health-clinics/)
-- [Is there no bottom to the SPAC mess?](https://techcrunch.com/2022/08/29/is-there-no-bottom-to-the-spac-mess/)
-- [Does venture capital need a shot in the arm?](https://techcrunch.com/2022/08/29/does-venture-capital-need-a-shot-in-the-arm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
