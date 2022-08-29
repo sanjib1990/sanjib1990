@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [African genomics startup 54gene lays off 95 as COVID testing business struggles](https://techcrunch.com/2022/08/29/african-genomics-startup-54gene-lays-off-95-as-covid-testing-business-struggles/)
+- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
+- [India says no proposal to restrict Chinese phonemakers in sub-$150 price range](https://techcrunch.com/2022/08/29/india-says-no-proposal-to-restrict-chinese-phonemakers-in-sub-150-price-range/)
 - [Nigeria’s Grey raises $2M for cross-border payments play and regional expansion](https://techcrunch.com/2022/08/29/nigerias-grey-raises-2m-for-cross-border-payments-play-and-regional-expansion/)
 - [Honda and LG Energy plan to build a $4.4 billion lithium-ion plant in the US](https://techcrunch.com/2022/08/29/honda-and-lg-energy-plan-to-build-a-4-4-billion-lithium-ion-plant-in-the-us/)
-- [Facebook moves to settle Cambridge Analytica lawsuit](https://techcrunch.com/2022/08/29/facebook-cambridge-analytica-lawsuit-settlement-proposal/)
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
-- [Dark energy remains a mystery as Einstein&#39;s theory of gravity passes another test](https://www.space.com/einstein-gravity-variations-dark-energy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
