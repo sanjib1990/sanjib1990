@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Sony acquires Savage Game Studios, announces new PlayStation Studios Mobile Division](https://techcrunch.com/2022/08/29/sony-acquires-savage-game-studios/)
-- [Astro emerges from stealth to connect Latin American developers with U.S. tech companies](https://techcrunch.com/2022/08/29/astro-emerges-from-stealth-to-connect-latin-american-developers-with-u-s-tech-companies/)
+- [Does venture capital need a shot in the arm?](https://techcrunch.com/2022/08/29/does-venture-capital-need-a-shot-in-the-arm/)
+- [Investors detail their red &lpar;and green&rpar; flags for startups seeking venture dollars](https://techcrunch.com/2022/08/29/investors-detail-their-red-and-green-flags-for-startups-seeking-venture-dollars/)
+- [Music streaming service Deezer is testing a meditation app](https://techcrunch.com/2022/08/29/music-streaming-service-deezer-is-testing-a-meditation-app/)
+- [Justice Department in early stages of filing an antitrust lawsuit against Apple, says report](https://techcrunch.com/2022/08/29/justice-department-in-early-stages-of-filing-an-antitrust-lawsuit-against-apple-says-report/)
 - [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
-- [Early bird uncaged for Labor Day savings on Disrupt tix](https://techcrunch.com/2022/08/29/early-bird-uncaged-for-labor-day-savings-on-disrupt-tix/)
-- [Twitter. Whistle. Blown. &lpar;and other TC news&rpar;](https://techcrunch.com/2022/08/29/twitter-whistle-blown-and-other-tc-news/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
