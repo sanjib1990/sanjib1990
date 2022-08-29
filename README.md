@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Finally, an underwater messaging app](https://techcrunch.com/2022/08/29/finally-an-underwater-messaging-app/)
 - [Daily Crunch: Meta partnership allows Indian WhatsApp users to browse and buy groceries via JioMart](https://techcrunch.com/2022/08/29/daily-crunch-meta-partnership-allows-indian-whatsapp-users-to-browse-and-buy-groceries-via-jiomart/)
-- [Elon Musk taps the Twitter whistleblower for help in his quest to get out of the deal](https://techcrunch.com/2022/08/29/elon-musk-twitter-whistleblower-zatko-subpoena/)
+- [Elon Musk taps the Twitter whistleblower for help getting out of the deal](https://techcrunch.com/2022/08/29/elon-musk-twitter-whistleblower-zatko-subpoena/)
 - [Garry Tan’s return is a full circle moment for Y Combinator](https://techcrunch.com/2022/08/29/garry-tan-y-combinator-q-and-a-ceo-and-president-initialized-capital/)
 - [New rules for digital lenders in Kenya aim to weed out bad actors while bolstering sector growth](https://techcrunch.com/2022/08/29/new-rules-for-digital-lenders-in-kenya-aim-to-weed-out-bad-actors-while-bolstering-sector-growth/)
-- [Artemis 1 moon rocket might still fly this week, NASA says](https://www.space.com/artemis-1-moon-rocket-could-launch-september-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
