@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta and Jio launch grocery shopping on WhatsApp in India](https://techcrunch.com/2022/08/29/meta-jiomart-whatsapp/)
-- [On This Day In Space: Aug. 29, 1965: Gemini 5 breaks spaceflight duration record](https://www.space.com/39251-on-this-day-in-space.html/)
+- [Nigeria’s Grey raises $2M for cross-border payments play and regional expansion](https://techcrunch.com/2022/08/29/nigerias-grey-raises-2m-for-cross-border-payments-play-and-regional-expansion/)
+- [Honda and LG Energy plan to build a $4.4 billion lithium-ion plant in the US](https://techcrunch.com/2022/08/29/honda-and-lg-energy-plan-to-build-a-4-4-billion-lithium-ion-plant-in-the-us/)
+- [Facebook moves to settle Cambridge Analytica lawsuit](https://techcrunch.com/2022/08/29/facebook-cambridge-analytica-lawsuit-settlement-proposal/)
 - [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
-- [Reliance Jio to spend $25B on 5G, debut in October and reach every town by 2023 end](https://techcrunch.com/2022/08/29/reliance-jio-to-debut-5g-in-october-reach-all-by-2023-end/)
-- [Nigerian YC-backed startup Anchor comes out of stealth with $1M+ to scale its banking-as-a-service platform](https://techcrunch.com/2022/08/29/nigerian-yc-backed-startup-anchor-comes-out-of-stealth-with-1m-to-scale-its-banking-as-a-service-platform/)
+- [Dark energy remains a mystery as Einstein&#39;s theory of gravity passes another test](https://www.space.com/einstein-gravity-variations-dark-energy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
