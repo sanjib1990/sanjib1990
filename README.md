@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Roku debuts a hilarious new trailer for ‘WEIRD: The Al Yankovic Story’ starring Daniel Radcliffe](https://techcrunch.com/2022/08/29/roku-debuts-a-hilarious-new-trailer-for-weird-the-al-yankovic-story-starring-daniel-radcliffe/)
-- [Waymo opens up driverless robotaxi service in downtown Phoenix to vetted passengers](https://techcrunch.com/2022/08/29/waymo-opens-up-driverless-robotaxi-service-in-downtown-phoenix-to-vetted-passengers/)
-- [Microsoft launches Arm-based Azure VMs powered by Ampere chips](https://techcrunch.com/2022/08/29/microsoft-launches-arm-based-azure-vms-powered-by-ampere-chips/)
-- [Neurofenix puts on a new spin on home stroke rehabilitation with the NeuroBall](https://techcrunch.com/2022/08/29/neurofenix-puts-on-a-new-spin-on-home-stroke-rehabilitation-with-the-neuroball/)
-- [Meet the judges for the Minneapolis, Minn TechCrunch Live pitch-off](https://techcrunch.com/2022/08/29/meet-the-judges-for-the-minneapolis-minn-techcrunch-live-pitch-off/)
+- [Artemis 1 moon rocket might still fly this week, NASA says](https://www.space.com/artemis-1-moon-rocket-could-launch-september-2/)
+- [War in Ukraine highlights the growing strategic importance of private satellite companies — especially in times of conflict](https://www.space.com/ukraine-war-strategic-importance-private-satellites/)
+- [Join Artemis 1&#39;s Commander Moonikin Campos on his lunar voyage in NASA&#39;s free comic book](https://www.space.com/nasa-artemis-1-moonikin-campos-free-comic/)
+- [Trio of solar flares produce radio blackouts and dazzling auroras](https://www.space.com/solar-flares-radio-blackouts-aurora-august-2022/)
+- [Does venture capital need a shot in the arm?](https://techcrunch.com/2022/08/29/does-venture-capital-need-a-shot-in-the-arm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
