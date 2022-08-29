@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [African genomics startup 54gene lays off 95 as COVID testing business struggles](https://techcrunch.com/2022/08/29/african-genomics-startup-54gene-lays-off-95-as-covid-testing-business-struggles/)
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
-- [India says no proposal to restrict Chinese phonemakers in sub-$150 price range](https://techcrunch.com/2022/08/29/india-says-no-proposal-to-restrict-chinese-phonemakers-in-sub-150-price-range/)
-- [Nigeria’s Grey raises $2M for cross-border payments play and regional expansion](https://techcrunch.com/2022/08/29/nigerias-grey-raises-2m-for-cross-border-payments-play-and-regional-expansion/)
-- [Honda and LG Energy plan to build a $4.4 billion lithium-ion plant in the US](https://techcrunch.com/2022/08/29/honda-and-lg-energy-plan-to-build-a-4-4-billion-lithium-ion-plant-in-the-us/)
+- [Kli Capital transitions from family office to institutional VC for $50 million Fund III](https://techcrunch.com/2022/08/29/kli-capital-transitions-from-family-office-to-institutional-vc-for-50-million-fund-iii/)
+- [Snapchat’s Dual camera feature isn’t quite a BeReal copycat](https://techcrunch.com/2022/08/29/snapchat-brings-the-dual-camera-front-and-center/)
+- [Mermade Seafoods swims in cell agriculture waters to make cultivated scallops](https://techcrunch.com/2022/08/29/mermade-seafoods-cell-agriculture-cultivated-scallops/)
+- [How to communicate with your crypto community when things aren’t going well](https://techcrunch.com/2022/08/29/how-to-communicate-with-your-crypto-community-when-things-arent-going-well/)
+- [NASA scrubs Artemis I launch due to technical issue](https://techcrunch.com/2022/08/29/nasa-scrubs-artemis-i-launch-due-to-technical-issue/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
