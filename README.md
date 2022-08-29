@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Kli Capital transitions from family office to institutional VC for $50 million Fund III](https://techcrunch.com/2022/08/29/kli-capital-transitions-from-family-office-to-institutional-vc-for-50-million-fund-iii/)
-- [Snapchat’s Dual camera feature isn’t quite a BeReal copycat](https://techcrunch.com/2022/08/29/snapchat-brings-the-dual-camera-front-and-center/)
-- [Mermade Seafoods swims in cell agriculture waters to make cultivated scallops](https://techcrunch.com/2022/08/29/mermade-seafoods-cell-agriculture-cultivated-scallops/)
-- [How to communicate with your crypto community when things aren’t going well](https://techcrunch.com/2022/08/29/how-to-communicate-with-your-crypto-community-when-things-arent-going-well/)
-- [NASA scrubs Artemis I launch due to technical issue](https://techcrunch.com/2022/08/29/nasa-scrubs-artemis-i-launch-due-to-technical-issue/)
+- [Sony acquires Savage Game Studios, announces new PlayStation Studios Mobile Division](https://techcrunch.com/2022/08/29/sony-acquires-savage-game-studios/)
+- [Astro emerges from stealth to connect Latin American developers with U.S. tech companies](https://techcrunch.com/2022/08/29/astro-emerges-from-stealth-to-connect-latin-american-developers-with-u-s-tech-companies/)
+- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
+- [Early bird uncaged for Labor Day savings on Disrupt tix](https://techcrunch.com/2022/08/29/early-bird-uncaged-for-labor-day-savings-on-disrupt-tix/)
+- [Twitter. Whistle. Blown. &lpar;and other TC news&rpar;](https://techcrunch.com/2022/08/29/twitter-whistle-blown-and-other-tc-news/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
