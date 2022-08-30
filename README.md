@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Kenyan fintech Pezesha raises $11M backed by Women’s World Banking, Cardano parent IOG](https://techcrunch.com/2022/08/30/kenyan-fintech-pezesha-raises-11m-backed-by-womens-world-banking-cardano-parent-iog/)
 - [Dubai-based Stake raises $8 million to let people across the globe invest in local properties](https://techcrunch.com/2022/08/29/dubai-based-stake-raises-8-million-to-let-people-across-the-globe-invest-in-local-properties/)
 - [PostEx acquires Call Courier to become Pakistan’s larger e-commerce service provider](https://techcrunch.com/2022/08/29/postex-acquires-call-courier-to-become-pakistans-larger-e-commerce-service-provider/)
 - [Peter Thiel backs electronics marketplace PriceOye in maiden Pakistan investment](https://techcrunch.com/2022/08/29/pakistan-priceoye-pk-7-9-million-usd-seed-funding-jd-com-managed-electronics-marketplace/)
 - [Singapore-based career development platform Glints recruits $50M in new funding](https://techcrunch.com/2022/08/29/singapore-based-career-development-platform-glints-recruits-50m-in-new-funding/)
-- [Singapore-based Propseller uses data to take the hassle out of real estate transactions](https://techcrunch.com/2022/08/29/singapore-based-propseller-uses-data-to-take-the-hassle-out-of-real-estate-transactions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
