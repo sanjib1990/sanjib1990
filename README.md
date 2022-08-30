@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MEDU takes in $4M to develop reusable personal protective equipment](https://techcrunch.com/2022/08/30/medu-4m-reusable-ppe/)
+- [4M Create a Night Sky Projection Kit star projector review](https://www.space.com/4m-create-a-night-sky-projection-kit-star-projector-review/)
 - [6 ways to make sure your startup is using the right GTM model](https://techcrunch.com/2022/08/30/6-ways-to-make-sure-your-startup-is-using-the-right-gtm-mode/)
 - [UK mobile and broadband carriers face fines of $117K/day, or 10% of sales, if they fail to follow new cybersecurity rules](https://techcrunch.com/2022/08/30/uk-mobile-and-broadband-carriers-face-fines-of-117k-day-or-10-of-sales-if-they-fail-to-follow-new-cybersecurity-rules/)
 - [Twitter is launching it’s ‘Close Friends’ feature Circle globally](https://techcrunch.com/2022/08/30/twitter-is-launching-its-close-friends-feature-circle-globally/)
-- [Star-studded digital avatar startup Genies launches NFT fashion marketplace](https://techcrunch.com/2022/08/30/genies-celebrities-nft-fashion-marketplace-web3-warehouse-akash-nigam-influencers-creators/)
-- [Fleksy targets devs with SDK platform for smart keyboard features](https://techcrunch.com/2022/08/30/fleksy-sdk-developer-platform-launch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
