@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Uber partners with ADT to let riders get in touch with a life safety agent](https://techcrunch.com/2022/08/30/uber-partners-with-adt-to-let-riders-get-in-touch-with-a-life-safety-agent/)
+- [Facebook is shutting down its standalone Gaming app in October](https://techcrunch.com/2022/08/30/meta-shutting-down-facebook-gaming-app/)
 - [MEDU takes in $4M to develop reusable personal protective equipment](https://techcrunch.com/2022/08/30/medu-4m-reusable-ppe/)
 - [4M Create a Night Sky Projection Kit star projector review](https://www.space.com/4m-create-a-night-sky-projection-kit-star-projector-review/)
 - [6 ways to make sure your startup is using the right GTM model](https://techcrunch.com/2022/08/30/6-ways-to-make-sure-your-startup-is-using-the-right-gtm-mode/)
-- [UK mobile and broadband carriers face fines of $117K/day, or 10% of sales, if they fail to follow new cybersecurity rules](https://techcrunch.com/2022/08/30/uk-mobile-and-broadband-carriers-face-fines-of-117k-day-or-10-of-sales-if-they-fail-to-follow-new-cybersecurity-rules/)
-- [Twitter is launching it’s ‘Close Friends’ feature Circle globally](https://techcrunch.com/2022/08/30/twitter-is-launching-its-close-friends-feature-circle-globally/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
