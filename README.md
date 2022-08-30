@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dubai-based Stake raises $8 million to let people across the globe invest in local properties](https://techcrunch.com/2022/08/29/dubai-based-stake-raises-8-million-to-let-people-across-the-globe-invest-in-local-properties/)
+- [PostEx acquires Call Courier to become Pakistan’s larger e-commerce service provider](https://techcrunch.com/2022/08/29/postex-acquires-call-courier-to-become-pakistans-larger-e-commerce-service-provider/)
+- [Peter Thiel backs electronics marketplace PriceOye in maiden Pakistan investment](https://techcrunch.com/2022/08/29/pakistan-priceoye-pk-7-9-million-usd-seed-funding-jd-com-managed-electronics-marketplace/)
 - [Singapore-based career development platform Glints recruits $50M in new funding](https://techcrunch.com/2022/08/29/singapore-based-career-development-platform-glints-recruits-50m-in-new-funding/)
 - [Singapore-based Propseller uses data to take the hassle out of real estate transactions](https://techcrunch.com/2022/08/29/singapore-based-propseller-uses-data-to-take-the-hassle-out-of-real-estate-transactions/)
-- [Finally, an underwater messaging app](https://techcrunch.com/2022/08/29/finally-an-underwater-messaging-app/)
-- [Daily Crunch: Meta partnership allows Indian WhatsApp users to browse and buy groceries via JioMart](https://techcrunch.com/2022/08/29/daily-crunch-meta-partnership-allows-indian-whatsapp-users-to-browse-and-buy-groceries-via-jiomart/)
-- [Elon Musk taps the Twitter whistleblower for help getting out of the deal](https://techcrunch.com/2022/08/29/elon-musk-twitter-whistleblower-zatko-subpoena/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
