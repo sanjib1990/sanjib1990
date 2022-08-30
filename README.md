@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Embedded finance fintech Pezesha raises $11M pre-Series A equity-debt round](https://techcrunch.com/2022/08/30/daily-crunch-embedded-finance-fintech-pezesha-raises-11m-pre-series-a-equity-debt-round/)
+- [Max Q: Scrubbed](https://techcrunch.com/2022/08/30/max-q-scrubbed/)
+- [Listen live: NASA provides updates on Artemis 1 moon mission status](https://www.space.com/nasa-artemis-1-sls-moon-rocket-launch-webcasts/)
+- [SpaceX Starlink satellites will service Royal Caribbean cruise ships](https://www.space.com/spacex-starlink-internet-royal-caribbean-high-speed/)
 - [Royal Caribbean will equip all its cruise ships with Starlink internet](https://techcrunch.com/2022/08/30/royal-caribbean-will-equip-all-its-cruise-ships-with-starlink-internet/)
-- [Populus to combat curbside parking chaos with millions in new funding](https://techcrunch.com/2022/08/30/populus-doubles-down-on-curb-management-platform-with-series-a-raise/)
-- [Clearco cuts international staff as it retracts presence, announces new partner](https://techcrunch.com/2022/08/30/clearco-cuts-international-staff-as-it-retracts-presence-announces-new-partner/)
-- [Robin Games debuts PLAYHOUSE, an interior design game you can both play and shop](https://techcrunch.com/2022/08/30/robin-games-enters-the-market-with-playhouse-an-interior-design-game-you-can-both-play-and-shop/)
-- [NASA solves Voyager 1 data glitch mystery, but finds another](https://www.space.com/voyager-1-data-glitch-solved/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
