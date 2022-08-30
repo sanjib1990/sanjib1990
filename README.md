@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Former NASA chief criticizes &#39;schizophrenic&#39; US space policy regarding Russia](https://www.space.com/us-space-policy-russia-schizophrenic/)
-- [Astronomers have detected one of the biggest black hole jets in the sky](https://www.space.com/massive-black-hole-jet-discovered/)
-- [A month on &#39;Mars&#39;: Fogbound on Devon Island](https://www.space.com/month-on-mars-fogbound-devon-island/)
-- [Could a solar storm ever destroy Earth?](https://www.space.com/solar-storm-destroy-earth-unlikely/)
-- [Watch SpaceX launch 46 Starlink satellites, land a rocket at sea early Wednesday](https://www.space.com/spacex-starlink-group-3-4-launch-rocket-landing/)
+- [Tarci secures capital for AI designed to spot SMB sales leads](https://techcrunch.com/2022/08/30/tarci-lands-capital-for-ai-designed-to-spot-smb-sales-leads/)
+- [On This Day In Space: Aug. 30, 1992: Discovery of the 1st Kuiper Belt Object](https://www.space.com/39251-on-this-day-in-space.html/)
+- [Truecaller’s iOS update aims to improve call and spam detection](https://techcrunch.com/2022/08/30/truecallers-ios-update-aims-to-improve-call-and-spam-detection/)
+- [Meta lets advertisers in India pay for their ad campaigns in ‘no-cost’ monthly installments](https://techcrunch.com/2022/08/30/meta-no-cost-monthly-installments-advertisers-india-ad-campaigns/)
+- [Flush with fresh funds, UK ‘eco laundry’ startup Oxwash spins up growth plans](https://techcrunch.com/2022/08/30/oxwash-series-a/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
