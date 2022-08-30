@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta now lets you post your NFTs on both Facebook and Instagram](https://techcrunch.com/2022/08/30/meta-now-lets-you-post-your-nfts-on-both-facebook-and-instagram/)
-- [Kenyan fintech Pezesha raises $11M backed by Women’s World Banking, Cardano parent IOG](https://techcrunch.com/2022/08/30/kenyan-fintech-pezesha-raises-11m-backed-by-womens-world-banking-cardano-parent-iog/)
-- [Dubai-based Stake raises $8 million to let people across the globe invest in local properties](https://techcrunch.com/2022/08/29/dubai-based-stake-raises-8-million-to-let-people-across-the-globe-invest-in-local-properties/)
-- [PostEx acquires Call Courier to become Pakistan’s largest e-commerce service provider](https://techcrunch.com/2022/08/29/postex-acquires-call-courier-to-become-pakistans-larger-e-commerce-service-provider/)
-- [Peter Thiel backs electronics marketplace PriceOye in maiden Pakistan investment](https://techcrunch.com/2022/08/29/pakistan-priceoye-pk-7-9-million-usd-seed-funding-jd-com-managed-electronics-marketplace/)
+- [Former NASA chief criticizes &#39;schizophrenic&#39; US space policy regarding Russia](https://www.space.com/us-space-policy-russia-schizophrenic/)
+- [Astronomers have detected one of the biggest black hole jets in the sky](https://www.space.com/massive-black-hole-jet-discovered/)
+- [A month on &#39;Mars&#39;: Fogbound on Devon Island](https://www.space.com/month-on-mars-fogbound-devon-island/)
+- [Could a solar storm ever destroy Earth?](https://www.space.com/solar-storm-destroy-earth-unlikely/)
+- [Watch SpaceX launch 46 Starlink satellites, land a rocket at sea early Wednesday](https://www.space.com/spacex-starlink-group-3-4-launch-rocket-landing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
