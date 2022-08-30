@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Crafting an XaaS customer success strategy that drives growth](https://techcrunch.com/2022/08/30/crafting-a-xaas-customer-success-strategy-that-drives-growth/)
-- [TechCrunch+ roundup: Gen Z VCs, choosing a GTM model, crypto crisis communication tips](https://techcrunch.com/2022/08/30/techcrunch-roundup-gen-z-vcs-choosing-a-gtm-model-crypto-crisis-communication-tips/)
-- [A huge Chinese database of faces and vehicle license plates spilled online](https://techcrunch.com/2022/08/30/china-database-face-recognition/)
-- [Spectacular videos reveal &#39;Phantom Galaxy&#39; views by James Webb Space Telescope, Hubble](https://www.space.com/amazing-phantom-galaxy-videos-jwst-hubble-videos/)
-- [Instagram tests new features to give users more control over suggested posts](https://techcrunch.com/2022/08/30/instagram-features-give-users-more-control-over-what-they-see/)
+- [Amazon, facing ‘unfavorable regulatory environment’ in India, struggles to expand](https://techcrunch.com/2022/08/30/amazon-facing-unfavorable-regulatory-environment-in-india-struggles-to-expand/)
+- [Studio Ghibli films just became available to rent on major digital platforms Apple TV, Amazon, and more](https://techcrunch.com/2022/08/30/studio-ghibli-films-just-became-available-to-rent-on-major-digital-platforms-apple-tv-amazon-and-more/)
+- [How gender-affirming health care startups are navigating legal miasma](https://techcrunch.com/2022/08/30/how-gender-affirming-health-care-startups-are-navigating-legal-miasma/)
+- [Watch Jeff Bezos&#39; Blue Origin launch science mission on Wednesday](https://www.space.com/blue-origin-ns-23-mission-launch-preview/)
+- [Particle physics](https://www.space.com/topics/particle-physics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
