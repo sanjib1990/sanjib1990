@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Robin Games debuts Playhouse, an interior design game you can both play and shop](https://techcrunch.com/2022/08/30/robin-games-enters-the-market-with-playhouse-an-interior-design-game-you-can-both-play-and-shop/)
+- [What&#39;s your zodiac sign? &lpar;It may not be what you think it is&rpar;](https://www.space.com/zodiac-sign-astrology-astronomy/)
+- [How Box is balancing growth and profit as it nears $1B ARR](https://techcrunch.com/2022/08/30/how-box-is-balancing-growth-and-profit-as-it-nears-1b-arr/)
 - [Amazon, facing ‘unfavorable regulatory environment’ in India, struggles to expand](https://techcrunch.com/2022/08/30/amazon-facing-unfavorable-regulatory-environment-in-india-struggles-to-expand/)
-- [Studio Ghibli films just became available to rent on major digital platforms Apple TV, Amazon, and more](https://techcrunch.com/2022/08/30/studio-ghibli-films-just-became-available-to-rent-on-major-digital-platforms-apple-tv-amazon-and-more/)
-- [How gender-affirming health care startups are navigating legal miasma](https://techcrunch.com/2022/08/30/how-gender-affirming-health-care-startups-are-navigating-legal-miasma/)
-- [Watch Jeff Bezos&#39; Blue Origin launch science mission on Wednesday](https://www.space.com/blue-origin-ns-23-mission-launch-preview/)
-- [Particle physics](https://www.space.com/topics/particle-physics/)
+- [Studio Ghibli films just became available to rent on major digital platforms Apple TV, Amazon and more](https://techcrunch.com/2022/08/30/studio-ghibli-films-just-became-available-to-rent-on-major-digital-platforms-apple-tv-amazon-and-more/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
