@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Mavenoid, which automates technical support and onboarding for hardware companies, raises $30M](https://techcrunch.com/2022/08/30/mavenoid-which-automates-technical-support-and-onboarding-for-hardware-companies-raises-30m/)
-- [Drop launches the Sense75, its first new in-house keyboard since 2020](https://techcrunch.com/2022/08/30/drop-launches-the-sense75-its-first-new-in-house-keyboard-since-2020/)
-- [Read up on your day off: TechCrunch+ is having a Labor Day sale](https://techcrunch.com/2022/08/30/read-up-on-your-day-off-techcrunch-is-having-a-labor-day-sale/)
-- [Following its Series A, Poparazzi’s team is readying a new social app that goes beyond photos](https://techcrunch.com/2022/08/30/following-its-series-a-poparazzis-team-is-readying-a-new-social-app-that-goes-beyond-photos/)
-- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates/)
+- [TechCrunch+ roundup: Gen Z VCs, choosing a GTM model, crypto crisis communication tips](https://techcrunch.com/2022/08/30/techcrunch-roundup-gen-z-vcs-choosing-a-gtm-model-crypto-crisis-communication-tips/)
+- [A huge Chinese database of faces and vehicle license plates spilled online](https://techcrunch.com/2022/08/30/china-database-face-recognition/)
+- [Spectacular videos reveal &#39;Phantom Galaxy&#39; views by James Webb Space Telescope, Hubble](https://www.space.com/amazing-phantom-galaxy-videos-jwst-hubble-videos/)
+- [Instagram tests new features to give users more control over suggested posts](https://techcrunch.com/2022/08/30/instagram-features-give-users-more-control-over-what-they-see/)
+- [Nikola, Lucid latest EV SPACs trying to raise cash](https://techcrunch.com/2022/08/30/nikola-lucid-latest-ev-spacs-trying-to-raise-cash/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
