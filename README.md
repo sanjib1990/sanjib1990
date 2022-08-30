@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Crafting an XaaS customer success strategy that drives growth](https://techcrunch.com/2022/08/30/crafting-a-xaas-customer-success-strategy-that-drives-growth/)
 - [TechCrunch+ roundup: Gen Z VCs, choosing a GTM model, crypto crisis communication tips](https://techcrunch.com/2022/08/30/techcrunch-roundup-gen-z-vcs-choosing-a-gtm-model-crypto-crisis-communication-tips/)
 - [A huge Chinese database of faces and vehicle license plates spilled online](https://techcrunch.com/2022/08/30/china-database-face-recognition/)
 - [Spectacular videos reveal &#39;Phantom Galaxy&#39; views by James Webb Space Telescope, Hubble](https://www.space.com/amazing-phantom-galaxy-videos-jwst-hubble-videos/)
 - [Instagram tests new features to give users more control over suggested posts](https://techcrunch.com/2022/08/30/instagram-features-give-users-more-control-over-what-they-see/)
-- [Nikola, Lucid latest EV SPACs trying to raise cash](https://techcrunch.com/2022/08/30/nikola-lucid-latest-ev-spacs-trying-to-raise-cash/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
