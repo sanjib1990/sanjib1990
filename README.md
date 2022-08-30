@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Tarci secures capital for AI designed to spot SMB sales leads](https://techcrunch.com/2022/08/30/tarci-lands-capital-for-ai-designed-to-spot-smb-sales-leads/)
-- [On This Day In Space: Aug. 30, 1992: Discovery of the 1st Kuiper Belt Object](https://www.space.com/39251-on-this-day-in-space.html/)
-- [Truecaller’s iOS update aims to improve call and spam detection](https://techcrunch.com/2022/08/30/truecallers-ios-update-aims-to-improve-call-and-spam-detection/)
-- [Meta lets advertisers in India pay for their ad campaigns in ‘no-cost’ monthly installments](https://techcrunch.com/2022/08/30/meta-no-cost-monthly-installments-advertisers-india-ad-campaigns/)
-- [Flush with fresh funds, UK ‘eco laundry’ startup Oxwash spins up growth plans](https://techcrunch.com/2022/08/30/oxwash-series-a/)
+- [Musk cites whistleblower allegations in fresh attempt to backtrack on $44B Twitter acquisition](https://techcrunch.com/2022/08/30/musk-cites-whistleblower-allegations-in-fresh-attempt-to-backtrack-on-44b-twitter-acquisition/)
+- [Key issues you should consider before signing an international merger deal](https://techcrunch.com/2022/08/30/key-issues-in-cross-border-tech-ma-for-international-acquirers/)
+- [Tesla Model 3 owner seeks class action over “phantom braking”](https://techcrunch.com/2022/08/30/tesla-model-3-owner-seeks-class-action-over-phantom-braking/)
+- [The UK’s £5B Project Gigabit gives out first contract to connect rural areas to high-speed broadband](https://techcrunch.com/2022/08/30/the-uks-5b-project-gigabit-gives-out-first-contract-to-connect-rural-areas-to-high-speed-broadband/)
+- [So close! Zephyr drone lands just hours before setting flight-duration record](https://www.space.com/airbus-zephyr-drone-long-lands-before-record/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
