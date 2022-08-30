@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Uber partners with ADT to let riders get in touch with a life safety agent](https://techcrunch.com/2022/08/30/uber-partners-with-adt-to-let-riders-get-in-touch-with-a-life-safety-agent/)
-- [Facebook is shutting down its standalone Gaming app in October](https://techcrunch.com/2022/08/30/meta-shutting-down-facebook-gaming-app/)
-- [MEDU takes in $4M to develop reusable personal protective equipment](https://techcrunch.com/2022/08/30/medu-4m-reusable-ppe/)
-- [4M Create a Night Sky Projection Kit star projector review](https://www.space.com/4m-create-a-night-sky-projection-kit-star-projector-review/)
-- [6 ways to make sure your startup is using the right GTM model](https://techcrunch.com/2022/08/30/6-ways-to-make-sure-your-startup-is-using-the-right-gtm-mode/)
+- [Mavenoid, which automates technical support and onboarding for hardware companies, raises $30M](https://techcrunch.com/2022/08/30/mavenoid-which-automates-technical-support-and-onboarding-for-hardware-companies-raises-30m/)
+- [Drop launches the Sense75, its first new in-house keyboard since 2020](https://techcrunch.com/2022/08/30/drop-launches-the-sense75-its-first-new-in-house-keyboard-since-2020/)
+- [Read up on your day off: TechCrunch+ is having a Labor Day sale](https://techcrunch.com/2022/08/30/read-up-on-your-day-off-techcrunch-is-having-a-labor-day-sale/)
+- [Following its Series A, Poparazzi’s team is readying a new social app that goes beyond photos](https://techcrunch.com/2022/08/30/following-its-series-a-poparazzis-team-is-readying-a-new-social-app-that-goes-beyond-photos/)
+- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
