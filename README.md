@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Musk cites whistleblower allegations in fresh attempt to backtrack on $44B Twitter acquisition](https://techcrunch.com/2022/08/30/musk-cites-whistleblower-allegations-in-fresh-attempt-to-backtrack-on-44b-twitter-acquisition/)
-- [Key issues you should consider before signing an international merger deal](https://techcrunch.com/2022/08/30/key-issues-in-cross-border-tech-ma-for-international-acquirers/)
-- [Tesla Model 3 owner seeks class action over “phantom braking”](https://techcrunch.com/2022/08/30/tesla-model-3-owner-seeks-class-action-over-phantom-braking/)
-- [The UK’s £5B Project Gigabit gives out first contract to connect rural areas to high-speed broadband](https://techcrunch.com/2022/08/30/the-uks-5b-project-gigabit-gives-out-first-contract-to-connect-rural-areas-to-high-speed-broadband/)
-- [So close! Zephyr drone lands just hours before setting flight-duration record](https://www.space.com/airbus-zephyr-drone-long-lands-before-record/)
+- [6 ways to make sure your startup is using the right GTM model](https://techcrunch.com/2022/08/30/6-ways-to-make-sure-your-startup-is-using-the-right-gtm-mode/)
+- [UK mobile and broadband carriers face fines of $117K/day, or 10% of sales, if they fail to follow new cybersecurity rules](https://techcrunch.com/2022/08/30/uk-mobile-and-broadband-carriers-face-fines-of-117k-day-or-10-of-sales-if-they-fail-to-follow-new-cybersecurity-rules/)
+- [Twitter is launching it’s ‘Close Friends’ feature Circle globally](https://techcrunch.com/2022/08/30/twitter-is-launching-its-close-friends-feature-circle-globally/)
+- [Star-studded digital avatar startup Genies launches NFT fashion marketplace](https://techcrunch.com/2022/08/30/genies-celebrities-nft-fashion-marketplace-web3-warehouse-akash-nigam-influencers-creators/)
+- [Fleksy targets devs with SDK platform for smart keyboard features](https://techcrunch.com/2022/08/30/fleksy-sdk-developer-platform-launch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
