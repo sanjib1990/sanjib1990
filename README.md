@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Robin Games debuts Playhouse, an interior design game you can both play and shop](https://techcrunch.com/2022/08/30/robin-games-enters-the-market-with-playhouse-an-interior-design-game-you-can-both-play-and-shop/)
-- [What&#39;s your zodiac sign? &lpar;It may not be what you think it is&rpar;](https://www.space.com/zodiac-sign-astrology-astronomy/)
-- [How Box is balancing growth and profit as it nears $1B ARR](https://techcrunch.com/2022/08/30/how-box-is-balancing-growth-and-profit-as-it-nears-1b-arr/)
-- [Amazon, facing ‘unfavorable regulatory environment’ in India, struggles to expand](https://techcrunch.com/2022/08/30/amazon-facing-unfavorable-regulatory-environment-in-india-struggles-to-expand/)
-- [Studio Ghibli films just became available to rent on major digital platforms Apple TV, Amazon and more](https://techcrunch.com/2022/08/30/studio-ghibli-films-just-became-available-to-rent-on-major-digital-platforms-apple-tv-amazon-and-more/)
+- [Royal Caribbean will equip all its cruise ships with Starlink internet](https://techcrunch.com/2022/08/30/royal-caribbean-will-equip-all-its-cruise-ships-with-starlink-internet/)
+- [Populus to combat curbside parking chaos with millions in new funding](https://techcrunch.com/2022/08/30/populus-doubles-down-on-curb-management-platform-with-series-a-raise/)
+- [Clearco cuts international staff as it retracts presence, announces new partner](https://techcrunch.com/2022/08/30/clearco-cuts-international-staff-as-it-retracts-presence-announces-new-partner/)
+- [Robin Games debuts PLAYHOUSE, an interior design game you can both play and shop](https://techcrunch.com/2022/08/30/robin-games-enters-the-market-with-playhouse-an-interior-design-game-you-can-both-play-and-shop/)
+- [NASA solves Voyager 1 data glitch mystery, but finds another](https://www.space.com/voyager-1-data-glitch-solved/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
