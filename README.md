@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon, facing ‘unfavorable’ regulatory environment, struggles to expand in India](https://techcrunch.com/2022/08/31/amazon-facing-unfavorable-regulatory-environment-in-india-struggles-to-expand/)
+- [Kula makes the job recruitment process less exhausting](https://techcrunch.com/2022/08/30/kula-makes-the-job-recruitment-process-less-exhausting/)
 - [SpaceX launches 46 Starlink satellites, lands rocket at sea](https://www.space.com/spacex-starlink-group-3-4-launch-rocket-landing/)
-- [NASA now aims to launch Artemis 1 moon mission on Sept. 3 after glitch](https://www.space.com/artemis-1-moon-mission-launch-september-3/)
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
-- [Listen live: NASA provides updates on Artemis 1 moon mission status](https://www.space.com/nasa-artemis-1-sls-moon-rocket-launch-webcasts/)
-- [SpaceX Starlink satellites will service Royal Caribbean cruise ships](https://www.space.com/spacex-starlink-internet-royal-caribbean-high-speed/)
+- [Topi raises $45M to power hardware subscriptions for B2B merchants](https://techcrunch.com/2022/08/30/topi-raises-45m-to-power-hardware-subscriptions-for-b2b-merchants/)
+- [Twitter’s attempt to monetize porn reportedly halted due to child safety warnings](https://techcrunch.com/2022/08/30/twitter-monetize-porn-child-safety-warnings/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
