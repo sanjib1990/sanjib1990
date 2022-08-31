@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hear the steps to raise a Series A on today’s TechCrunch Live](https://techcrunch.com/2022/08/31/hear-the-steps-to-raise-a-series-a-on-todays-techcrunch-live/)
-- [Dragonfly GP talks web3’s current and future state at TC Sessions: Crypto](https://techcrunch.com/2022/08/31/dragonfly-gp-talks-web3s-current-and-future-state-at-tc-sessions-crypto/)
-- [JBL’s new earbuds have a case with touchscreen, because we don’t have enough displays](https://techcrunch.com/2022/08/31/jbls-new-earbuds-have-a-case-with-touchscreen-because-we-dont-have-enough-displays/)
-- [BetaFPV Cetus Pro Kit review](https://www.space.com/betafpv-cetus-pro-fpv-review/)
-- [We need to unlearn the lessons of the 2021 fundraising bubble](https://techcrunch.com/2022/08/31/we-need-to-unlearn-the-lessons-of-the-2021-fundraising-bubble/)
+- [Paramount+ offers U.S. subscribers in-app Showtime bundle](https://techcrunch.com/2022/08/31/paramount-offers-u-s-subscribers-in-app-showtime-bundle/)
+- [Firewalla launches the Gold Plus, its new 2.5 Gigabit firewall](https://techcrunch.com/2022/08/31/firewalla-launches-the-gold-plus-its-new-2-5-gigabit-firewall/)
+- [YouTube is testing a new way for select creators to promote their content](https://techcrunch.com/2022/08/31/youtube-is-testing-a-new-way-for-select-creators-to-promote-their-content/)
+- [All Raise, Forerunner, GV and Precursor join Startup Battlefield judges](https://techcrunch.com/2022/08/31/all-raise-forerunner-gv-and-precursor-join-startup-battlefield-judges/)
+- [Dear Sophie: What are the quickest visa options for bringing in international talent?](https://techcrunch.com/2022/08/31/dear-sophie-what-are-the-quickest-visa-options-for-bringing-in-international-talent/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
