@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Duplo digitizes payment flows for African B2B enterprises, gets $4.3M seed funding](https://techcrunch.com/2022/08/31/duplo-digitizes-payment-flows-for-african-b2b-enterprises-gets-4-3m-seed-funding/)
 - [Amazon, facing ‘unfavorable’ regulatory environment, struggles to expand in India](https://techcrunch.com/2022/08/31/amazon-facing-unfavorable-regulatory-environment-in-india-struggles-to-expand/)
 - [Kula makes the job recruitment process less exhausting](https://techcrunch.com/2022/08/30/kula-makes-the-job-recruitment-process-less-exhausting/)
 - [SpaceX launches 46 Starlink satellites, lands rocket at sea](https://www.space.com/spacex-starlink-group-3-4-launch-rocket-landing/)
 - [Topi raises $45M to power hardware subscriptions for B2B merchants](https://techcrunch.com/2022/08/30/topi-raises-45m-to-power-hardware-subscriptions-for-b2b-merchants/)
-- [Twitter’s attempt to monetize porn reportedly halted due to child safety warnings](https://techcrunch.com/2022/08/30/twitter-monetize-porn-child-safety-warnings/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
