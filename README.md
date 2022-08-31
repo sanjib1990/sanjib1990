@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Abridge founder talks about fighting ‘pajama time’ burnout in doctors](https://techcrunch.com/2022/08/31/abridge-founder-talks-about-fighting-pajama-time-burnout-in-doctors/)
+- [SpaceX ignites multiple engines on Starship Super Heavy booster for 1st time &lpar;video&rpar;](https://www.space.com/spacex-starship-super-heavy-static-fire-multiple-engines/)
+- [Watch NASA&#39;s Artemis 1 moon mission launch live online for free](https://www.space.com/nasa-artemis-1-sls-moon-rocket-launch-webcasts/)
+- [Coming out of COVID, investors lose their taste for board meetings](https://techcrunch.com/2022/08/31/coming-out-of-covid-investors-lose-their-taste-for-board-meetings/)
 - [Dragonfly GP talks web3’s current and future state at TC Sessions: Crypto](https://techcrunch.com/2022/08/31/dragonfly-gp-talks-web3s-current-and-future-state-at-tc-sessions-crypto/)
-- [Let’s talk about party rounds](https://techcrunch.com/2022/08/31/lets-talk-about-party-rounds/)
-- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates/)
-- [Blue Origin to launch uncrewed New Shepard rocket Thursday after delay](https://www.space.com/blue-origin-ns-23-mission-launch-preview/)
-- [&#39;The Milky Way&#39; offers a light-hearted autobiography of our galaxy](https://www.space.com/milky-way-autobiography-book-author-interview/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
