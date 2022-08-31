@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA now aims to launch Artemis 1 moon mission on Sept. 3 after glitch](https://www.space.com/artemis-1-moon-mission-launch-september-3/)
+- [California pushes ahead with its own children’s online privacy protections](https://techcrunch.com/2022/08/30/californoa-childrens-online-privacy-protection-act/)
+- [Magic Eden looks to challenge OpenSea’s NFT dominance](https://techcrunch.com/2022/08/30/magic-eden-looks-to-challenge-openseas-nft-dominance/)
+- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
 - [Daily Crunch: Embedded finance fintech Pezesha raises $11M pre-Series A equity-debt round](https://techcrunch.com/2022/08/30/daily-crunch-embedded-finance-fintech-pezesha-raises-11m-pre-series-a-equity-debt-round/)
-- [Max Q: Scrubbed](https://techcrunch.com/2022/08/30/max-q-scrubbed/)
-- [Listen live: NASA provides updates on Artemis 1 moon mission status](https://www.space.com/nasa-artemis-1-sls-moon-rocket-launch-webcasts/)
-- [SpaceX Starlink satellites will service Royal Caribbean cruise ships](https://www.space.com/spacex-starlink-internet-royal-caribbean-high-speed/)
-- [Royal Caribbean will equip all its cruise ships with Starlink internet](https://techcrunch.com/2022/08/30/royal-caribbean-will-equip-all-its-cruise-ships-with-starlink-internet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
