@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [US issues rare security alert as Montenegro battles ongoing ransomware attack](https://techcrunch.com/2022/08/31/montenegro-ransomware-attack-embassy-warning/)
+- [Toyota triples U.S. EV investment in North Carolina](https://techcrunch.com/2022/08/31/toyota-triples-u-s-ev-investment-in-north-carolina/)
 - [Save £100 on the VIVE Cosmos Elite VR headset](https://www.space.com/vive-cosmos-elite-save-one-hundred-pounds-uk-sale-event/)
-- [On This Day In Space: Aug. 31, 1965: 1st flight of the Super Guppy](https://www.space.com/39251-on-this-day-in-space.html/)
-- [China’s NetEase snaps up French video game studio Quantic Dream](https://techcrunch.com/2022/08/31/chinas-netease-snaps-up-french-video-game-studio-quantic-dream/)
-- [Asteroid hunters worry megaconstellations might interfere with planetary defense](https://www.space.com/asteroid-detection-interference-from-satellites/)
-- [NASA&#39;s tiny CAPSTONE moon probe is nearly 1 million miles from Earth](https://www.space.com/nasa-capstone-moon-probe-farthest-point-earth/)
+- [Ticketmaster taps the Flow blockchain to let event organizers issue NFTs tied to tickets](https://techcrunch.com/2022/08/31/ticketmaster-taps-the-flow-blockchain-to-let-event-organizers-issue-nfts-tied-to-tickets/)
+- [Stacked gets $13M to be the Twitch for web3 gamers](https://techcrunch.com/2022/08/31/stacked-web3-game-streaming/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
