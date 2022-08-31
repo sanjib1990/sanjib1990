@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [This founder wants to take on the biggest coaching startups with a group-focused approach](https://techcrunch.com/2022/08/31/this-founder-wants-to-take-on-the-biggest-coaching-startups-with-a-group-focused-approach/)
-- [Beginner&#39;s guide to drone video](https://www.space.com/drone-video-guide-for-beginners/)
-- [Reviver is building a company one number plate at a time](https://techcrunch.com/2022/08/31/reviver-r-plate/)
-- [How to fundraise a Series A](https://techcrunch.com/2022/08/31/how-to-fundraise-a-series-a/)
-- [Best Lego Marvel sets 2022](https://www.space.com/best-lego-marvel-sets/)
+- [Bosch to invest $200M in US fuel cell production for electric commercial trucks](https://techcrunch.com/2022/08/31/bosch-to-invest-200m-in-us-fuel-cell-production-for-electric-commercial-trucks/)
+- [NASA&#39;s Perseverance Mars rover has made oxygen 7 times in exploration milestone](https://www.space.com/mars-moxie-experiment-makes-oxygen/)
+- [9 strategies that will help you overcome your fear of fundraising](https://techcrunch.com/2022/08/31/9-strategies-that-will-help-you-overcome-your-fear-of-fundraising/)
+- [Iconic James Webb Space Telescope images turned into music](https://www.space.com/james-webb-space-telescope-images-turned-into-music/)
+- [Klarna, Affirm show how expensive fintech growth can be](https://techcrunch.com/2022/08/31/klarna-affirm-show-how-expensive-fintech-growth-can-be/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
