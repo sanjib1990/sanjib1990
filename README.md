@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Docker Compose will BLOW your MIND!! &lpar;a tutorial&rpar;](https://www.youtube.com/watch?v=DM65_JyGxCo)
-- [SLAM Robot Mapping - Computerphile](https://www.youtube.com/watch?v=-XU54IsG8Vo)
-- [YouTubers are getting HACKED!!](https://www.youtube.com/watch?v=u2M_V5LtzpQ)
-- [build a meme Python website &lpar;Flask Tutorial for Beginners&rpar;](https://www.youtube.com/watch?v=5aYpkLfkgRE)
-- [God-Tier Developer Roadmap](https://www.youtube.com/watch?v=pEfrdAtAmqk)
+- [Lecture 16: Fundamental Welfare Theorems](https://www.youtube.com/watch?v=h0IfCMqepfM)
+- [Lecture 21: Bubbles](https://www.youtube.com/watch?v=ySqVVEBTy2o)
+- [Lecture 14: Real and Financial Flows: Thailand](https://www.youtube.com/watch?v=R8k2x5qJgO4)
+- [Exam #1 Review](https://www.youtube.com/watch?v=ANprMjSgTZY)
+- [Final Exam Review](https://www.youtube.com/watch?v=Dqko567cE9I)
 <!-- YOUTUBE:END -->
 
 ---
