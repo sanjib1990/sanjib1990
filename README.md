@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Docker Compose will BLOW your MIND!! &lpar;a tutorial&rpar;](https://www.youtube.com/watch?v=DM65_JyGxCo)
 - [SLAM Robot Mapping - Computerphile](https://www.youtube.com/watch?v=-XU54IsG8Vo)
 - [YouTubers are getting HACKED!!](https://www.youtube.com/watch?v=u2M_V5LtzpQ)
 - [build a meme Python website &lpar;Flask Tutorial for Beginners&rpar;](https://www.youtube.com/watch?v=5aYpkLfkgRE)
 - [God-Tier Developer Roadmap](https://www.youtube.com/watch?v=pEfrdAtAmqk)
-- [a BASH script PUSH-UP counter &lpar;for #gains &rpar;](https://www.youtube.com/watch?v=nW9M0MQinfg)
 <!-- YOUTUBE:END -->
 
 ---
