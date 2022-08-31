@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [US issues rare security alert as Montenegro battles ongoing ransomware attack](https://techcrunch.com/2022/08/31/montenegro-ransomware-attack-embassy-warning/)
-- [Toyota triples U.S. EV investment in North Carolina](https://techcrunch.com/2022/08/31/toyota-triples-u-s-ev-investment-in-north-carolina/)
-- [Save £100 on the VIVE Cosmos Elite VR headset](https://www.space.com/vive-cosmos-elite-save-one-hundred-pounds-uk-sale-event/)
-- [Ticketmaster taps the Flow blockchain to let event organizers issue NFTs tied to tickets](https://techcrunch.com/2022/08/31/ticketmaster-taps-the-flow-blockchain-to-let-event-organizers-issue-nfts-tied-to-tickets/)
-- [Stacked gets $13M to be the Twitch for web3 gamers](https://techcrunch.com/2022/08/31/stacked-web3-game-streaming/)
+- [Hear the steps to raise a Series A on today’s TechCrunch Live](https://techcrunch.com/2022/08/31/hear-the-steps-to-raise-a-series-a-on-todays-techcrunch-live/)
+- [Dragonfly GP talks web3’s current and future state at TC Sessions: Crypto](https://techcrunch.com/2022/08/31/dragonfly-gp-talks-web3s-current-and-future-state-at-tc-sessions-crypto/)
+- [JBL’s new earbuds have a case with touchscreen, because we don’t have enough displays](https://techcrunch.com/2022/08/31/jbls-new-earbuds-have-a-case-with-touchscreen-because-we-dont-have-enough-displays/)
+- [BetaFPV Cetus Pro Kit review](https://www.space.com/betafpv-cetus-pro-fpv-review/)
+- [We need to unlearn the lessons of the 2021 fundraising bubble](https://techcrunch.com/2022/08/31/we-need-to-unlearn-the-lessons-of-the-2021-fundraising-bubble/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
