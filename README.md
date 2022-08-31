@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Snap lays off one-fifth of its workforce after missing revenue and growth targets](https://techcrunch.com/2022/08/31/daily-crunch-snap-lays-off-one-fifth-of-its-workforce-after-missing-revenue-and-growth-targets/)
+- [NASA awards SpaceX $1.4 billion for 5 more astronaut missions](https://www.space.com/nasa-spacex-contract-five-more-astronaut-missions/)
+- [Lyft sued by drivers, passengers claiming company failing to protect users from assault](https://techcrunch.com/2022/08/31/lyft-sued-by-drivers-passengers-claiming-company-failing-to-protect-users-from-assault/)
+- [NASA orders five more astronaut transportation flights from SpaceX for $1.4 billion](https://techcrunch.com/2022/08/31/nasa-orders-five-more-astronaut-transportation-flights-from-spacex-for-1-4-billion/)
 - [Abridge founder talks about fighting ‘pajama time’ burnout in doctors](https://techcrunch.com/2022/08/31/abridge-founder-talks-about-fighting-pajama-time-burnout-in-doctors/)
-- [SpaceX ignites multiple engines on Starship Super Heavy booster for 1st time &lpar;video&rpar;](https://www.space.com/spacex-starship-super-heavy-static-fire-multiple-engines/)
-- [Watch NASA&#39;s Artemis 1 moon mission launch live online for free](https://www.space.com/nasa-artemis-1-sls-moon-rocket-launch-webcasts/)
-- [Coming out of COVID, investors lose their taste for board meetings](https://techcrunch.com/2022/08/31/coming-out-of-covid-investors-lose-their-taste-for-board-meetings/)
-- [Dragonfly GP talks web3’s current and future state at TC Sessions: Crypto](https://techcrunch.com/2022/08/31/dragonfly-gp-talks-web3s-current-and-future-state-at-tc-sessions-crypto/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
