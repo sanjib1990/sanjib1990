@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Paramount+ offers U.S. subscribers in-app Showtime bundle](https://techcrunch.com/2022/08/31/paramount-offers-u-s-subscribers-in-app-showtime-bundle/)
-- [Firewalla launches the Gold Plus, its new 2.5 Gigabit firewall](https://techcrunch.com/2022/08/31/firewalla-launches-the-gold-plus-its-new-2-5-gigabit-firewall/)
-- [YouTube is testing a new way for select creators to promote their content](https://techcrunch.com/2022/08/31/youtube-is-testing-a-new-way-for-select-creators-to-promote-their-content/)
-- [All Raise, Forerunner, GV and Precursor join Startup Battlefield judges](https://techcrunch.com/2022/08/31/all-raise-forerunner-gv-and-precursor-join-startup-battlefield-judges/)
-- [Dear Sophie: What are the quickest visa options for bringing in international talent?](https://techcrunch.com/2022/08/31/dear-sophie-what-are-the-quickest-visa-options-for-bringing-in-international-talent/)
+- [This founder wants to take on the biggest coaching startups with a group-focused approach](https://techcrunch.com/2022/08/31/this-founder-wants-to-take-on-the-biggest-coaching-startups-with-a-group-focused-approach/)
+- [Beginner&#39;s guide to drone video](https://www.space.com/drone-video-guide-for-beginners/)
+- [Reviver is building a company one number plate at a time](https://techcrunch.com/2022/08/31/reviver-r-plate/)
+- [How to fundraise a Series A](https://techcrunch.com/2022/08/31/how-to-fundraise-a-series-a/)
+- [Best Lego Marvel sets 2022](https://www.space.com/best-lego-marvel-sets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
