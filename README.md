@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Trans founders to VCs: ‘Cut me a check’](https://techcrunch.com/2022/08/31/trans-founders-to-vcs-cut-me-a-check/)
-- [SeatGeek raises $238 million privately after ditching going public via SPAC](https://techcrunch.com/2022/08/31/seatgeek-raises-238-million-privately-after-ditching-going-public-via-spac/)
-- [This dating app fought scammers with bots… hilarity ensued](https://techcrunch.com/2022/08/31/filter-off-scam-fighters/)
-- [Bosch to invest $200M in US fuel cell production for electric commercial trucks](https://techcrunch.com/2022/08/31/bosch-to-invest-200m-in-us-fuel-cell-production-for-electric-commercial-trucks/)
-- [NASA&#39;s Perseverance Mars rover has made oxygen 7 times in exploration milestone](https://www.space.com/mars-moxie-experiment-makes-oxygen/)
+- [Dragonfly GP talks web3’s current and future state at TC Sessions: Crypto](https://techcrunch.com/2022/08/31/dragonfly-gp-talks-web3s-current-and-future-state-at-tc-sessions-crypto/)
+- [Let’s talk about party rounds](https://techcrunch.com/2022/08/31/lets-talk-about-party-rounds/)
+- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates/)
+- [Blue Origin to launch uncrewed New Shepard rocket Thursday after delay](https://www.space.com/blue-origin-ns-23-mission-launch-preview/)
+- [&#39;The Milky Way&#39; offers a light-hearted autobiography of our galaxy](https://www.space.com/milky-way-autobiography-book-author-interview/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
