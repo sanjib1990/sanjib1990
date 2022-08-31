@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [China’s NetEase snaps up French video game studio Quantic Dream](https://techcrunch.com/2022/08/31/chinas-netease-snaps-up-french-video-game-studio-quantic-dream/)
+- [Asteroid hunters worry megaconstellations might interfere with planetary defense](https://www.space.com/asteroid-detection-interference-from-satellites/)
+- [NASA&#39;s tiny CAPSTONE moon probe gets nearly 1 million miles from Earth](https://www.space.com/nasa-capstone-moon-probe-farthest-point-earth/)
+- [Cosmic &#39;tug-of-war&#39; between galaxies created a tidal tail of whipped-away stars](https://www.space.com/cosmic-tug-of-war-hubble-alma-telescopes/)
 - [Gear up with Celestron and make the most of this year&#39;s Jupiter opposition](https://www.space.com/gear-up-with-celestron-make-most-of-jupiter-opposition/)
-- [Gear up with Celestron and make the most of this year&#39;s Jupiter opposition](https://www.space.com/references/gear-up-with-celestron-and-make-the-most-of-this-years-jupiter-opposition/)
-- [Duplo digitizes payment flows for African B2B enterprises, gets $4.3M seed funding](https://techcrunch.com/2022/08/31/duplo-digitizes-payment-flows-for-african-b2b-enterprises-gets-4-3m-seed-funding/)
-- [Amazon, facing ‘unfavorable’ regulatory environment, struggles to expand in India](https://techcrunch.com/2022/08/31/amazon-facing-unfavorable-regulatory-environment-in-india-struggles-to-expand/)
-- [Kula makes the job recruitment process less exhausting](https://techcrunch.com/2022/08/30/kula-makes-the-job-recruitment-process-less-exhausting/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
