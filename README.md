@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Trans founders to VCs: ‘Cut me a check’](https://techcrunch.com/2022/08/31/trans-founders-to-vcs-cut-me-a-check/)
+- [SeatGeek raises $238 million privately after ditching going public via SPAC](https://techcrunch.com/2022/08/31/seatgeek-raises-238-million-privately-after-ditching-going-public-via-spac/)
+- [This dating app fought scammers with bots… hilarity ensued](https://techcrunch.com/2022/08/31/filter-off-scam-fighters/)
 - [Bosch to invest $200M in US fuel cell production for electric commercial trucks](https://techcrunch.com/2022/08/31/bosch-to-invest-200m-in-us-fuel-cell-production-for-electric-commercial-trucks/)
 - [NASA&#39;s Perseverance Mars rover has made oxygen 7 times in exploration milestone](https://www.space.com/mars-moxie-experiment-makes-oxygen/)
-- [9 strategies that will help you overcome your fear of fundraising](https://techcrunch.com/2022/08/31/9-strategies-that-will-help-you-overcome-your-fear-of-fundraising/)
-- [Iconic James Webb Space Telescope images turned into music](https://www.space.com/james-webb-space-telescope-images-turned-into-music/)
-- [Klarna, Affirm show how expensive fintech growth can be](https://techcrunch.com/2022/08/31/klarna-affirm-show-how-expensive-fintech-growth-can-be/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
