@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [On This Day In Space: Aug. 31, 1965: 1st flight of the Super Guppy](https://www.space.com/39251-on-this-day-in-space.html/)
 - [China’s NetEase snaps up French video game studio Quantic Dream](https://techcrunch.com/2022/08/31/chinas-netease-snaps-up-french-video-game-studio-quantic-dream/)
 - [Asteroid hunters worry megaconstellations might interfere with planetary defense](https://www.space.com/asteroid-detection-interference-from-satellites/)
 - [NASA&#39;s tiny CAPSTONE moon probe gets nearly 1 million miles from Earth](https://www.space.com/nasa-capstone-moon-probe-farthest-point-earth/)
 - [Cosmic &#39;tug-of-war&#39; between galaxies created a tidal tail of whipped-away stars](https://www.space.com/cosmic-tug-of-war-hubble-alma-telescopes/)
-- [Gear up with Celestron and make the most of this year&#39;s Jupiter opposition](https://www.space.com/gear-up-with-celestron-make-most-of-jupiter-opposition/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
