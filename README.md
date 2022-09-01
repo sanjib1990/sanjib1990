@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GM’s Cruise recalls, updates software in 80 robotaxis following crash](https://techcrunch.com/2022/09/01/gms-cruise-recalls-updates-software-in-80-robotaxis-following-crash/)
+- [Don’t sweat the singularity](https://techcrunch.com/2022/09/01/dont-sweat-the-singularity/)
+- [September new moon 2022: Jupiter at opposition](https://www.space.com/17561-new-moon-explained-lunar-phases.html/)
 - [Pitch Deck Teardown: Front’s $65M Series D deck](https://techcrunch.com/2022/09/01/sample-series-d-pitch-deck-front/)
 - [Satellite view reveals scope of apocalyptic flooding in Pakistan](https://www.space.com/pakistan-floods-satellite-data-2022/)
-- [Best Budget Cameras: Picks from Canon, Olympus, Sony and more](https://www.space.com/best-budget-cameras-under-500/)
-- [Withing’s new scale takes body-composition measuring to a new level](https://techcrunch.com/2022/09/01/withings-body-comp/)
-- [Block’s Cash App will now let users pay online beyond the Square network](https://techcrunch.com/2022/09/01/blocks-cash-app-will-now-let-users-pay-online-beyond-the-square-network/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
