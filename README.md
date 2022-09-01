@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google workers protest $1.2B Project Nimbus contract with Israeli military](https://techcrunch.com/2022/09/01/google-workers-protest-1-2b-project-nimbus-contract-with-israeli-military/)
-- [Announcing the agenda for TechCrunch Live’s special Minneapolis event!](https://techcrunch.com/2022/09/01/announcing-the-agenda-for-techcrunch-lives-special-minneapolis-event/)
-- [SIMULATE targets restaurants with new simulated chicken products](https://techcrunch.com/2022/09/01/simulate-restaurants-simulated-chicken-plant-based/)
-- [How many meteorites hit Earth every year?](https://www.space.com/how-many-meteorites-hit-earth/)
-- [Slack gains new automation features, including conditional logic for workflows](https://techcrunch.com/2022/09/01/slack-gains-new-automation-features-including-conditional-logic-for-workflows/)
+- [Puna Bio’s extremophile microbe menagerie survives and revives depleted soil](https://techcrunch.com/2022/09/01/puna-bios-extremophile-microbe-menagerie-survives-and-revives-depleted-soil/)
+- [To reach fintech’s next level, infrastructure providers must address these pain points](https://techcrunch.com/2022/09/01/to-reach-fintechs-next-level-infrastructure-providers-must-address-these-pain-points/)
+- [Mysterious rings in new James Webb Space Telescope image puzzle astronomers](https://www.space.com/james-webb-space-telescope-odd-ripples-image/)
+- [NASA’s Webb Takes Its First-Ever Direct Image of Distant World](https://blogs.nasa.gov/webb/2022/09/01/nasas-webb-takes-its-first-ever-direct-image-of-distant-world/)
+- [Reddit acquires contextualization company Spiketrap to boost its ads business](https://techcrunch.com/2022/09/01/reddit-acquires-contextualization-company-spiketrap-to-boost-its-ads-business/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
