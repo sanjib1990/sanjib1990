@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ring adds a Wi-Fi intercom add-on to its lineup](https://techcrunch.com/2022/09/01/ring-adds-a-wifi-intercom-add-on-to-its-lineup/)
+- [Planted gets $72M to put whole cuts of vegan chicken on Europe’s menu](https://techcrunch.com/2022/09/01/planted-series-b/)
 - [Daily Crunch: Snap lays off one-fifth of its workforce after missing revenue and growth targets](https://techcrunch.com/2022/08/31/daily-crunch-snap-lays-off-one-fifth-of-its-workforce-after-missing-revenue-and-growth-targets/)
 - [NASA awards SpaceX $1.4 billion for 5 more astronaut missions](https://www.space.com/nasa-spacex-contract-five-more-astronaut-missions/)
 - [Lyft sued by drivers, passengers claiming company failing to protect users from assault](https://techcrunch.com/2022/08/31/lyft-sued-by-drivers-passengers-claiming-company-failing-to-protect-users-from-assault/)
-- [NASA orders five more astronaut transportation flights from SpaceX for $1.4 billion](https://techcrunch.com/2022/08/31/nasa-orders-five-more-astronaut-transportation-flights-from-spacex-for-1-4-billion/)
-- [Abridge founder talks about fighting ‘pajama time’ burnout in doctors](https://techcrunch.com/2022/08/31/abridge-founder-talks-about-fighting-pajama-time-burnout-in-doctors/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
