@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Live Nation bets millions on high-tech reusable cups to combat plastic waste](https://techcrunch.com/2022/09/01/live-nation-turn-systems-sustainability-reusable-cups-plastic/)
+- [Facebook is shutting down its Nextdoor clone next month, following tests in the U.S. and Canada](https://techcrunch.com/2022/09/01/facebook-is-shutting-down-its-nextdoor-clone-next-month-following-tests-in-the-u-s-and-canada/)
+- [Cantos launches its third fund, ploughing $50M into near-frontier startups](https://techcrunch.com/2022/09/01/cantos-3/)
+- [Some institutional LPs have started pulling back from VC, but most won’t](https://techcrunch.com/2022/09/01/some-institutional-lps-have-started-pulling-back-from-vc-but-most-wont/)
 - [Apple may have given us a hint at its AR/VR headset’s name](https://techcrunch.com/2022/09/01/apple-may-have-given-us-a-hint-at-its-ar-vr-headsets-name/)
-- [Police at Amazon facility threaten to arrest union leader Christian Smalls](https://techcrunch.com/2022/09/01/police-at-amazon-facility-threaten-to-arrest-union-leader-christian-smalls/)
-- [Chinese nuclear reactor proposal could power 10 International Space Stations](https://www.space.com/chinese-nuclear-reactor-power-10-space-stations/)
-- [Apple settles lawsuit with developer over App Store rejections and scams](https://techcrunch.com/2022/09/01/apple-settles-lawsuit-with-developer-over-app-store-rejections-and-scams/)
-- [How to watch NASA&#39;s Artemis 1 moon mission launch live in a 360-degree VR experience](https://www.space.com/artemis-1-virtual-reality-watch-live/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
