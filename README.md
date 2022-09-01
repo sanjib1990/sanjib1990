@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Instacart is acquiring AI-powered pricing and promotions platform Eversight](https://techcrunch.com/2022/09/01/instacart-is-acquiring-ai-powered-pricing-and-promotions-platform-eversight/)
+- [September full moon 2022 guide: the Harvest Moon](https://www.space.com/38006-september-full-moon.html/)
+- [Indian court orders Telegram to disclose details of channels violating copyright](https://techcrunch.com/2022/09/01/indian-court-orders-telegram-disclose-channel-details-violating-copyright-law/)
+- [James Webb Space Telescope snags its 1st direct photo of an alien world](https://www.space.com/james-webb-space-telescope-exoplanet-image/)
 - [Bill Nye, The Science Guy says we can fight natural disasters in new show](https://www.space.com/bill-nye-show-natural-disasters/)
-- [The brightest planets in September&#39;s night sky: How to see them &lpar;and when&rpar;](https://www.space.com/33619-visible-planets-guide.html/)
-- [Zenly is still hugely popular, so why’s Snap shutting it down?](https://techcrunch.com/2022/09/01/zenly-is-still-hugely-popular-so-whys-snap-shutting-it-down/)
-- [Draftea kicks off LatAm fantasy football with NFL partnership, fresh funding](https://techcrunch.com/2022/09/01/draftea-fantasy-sports-football-nfl-soccer-latam-latin-america-mexico-funding-series-a/)
-- [AngelList, Calendly and Reddit hone product market fit at Disrupt](https://techcrunch.com/2022/09/01/angellist-calendly-and-reddit-hone-product-market-fit-at-disrupt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
