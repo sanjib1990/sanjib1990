@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bill Nye, The Science Guy says we can fight natural disasters in new show](https://www.space.com/bill-nye-show-natural-disasters/)
+- [The brightest planets in September&#39;s night sky: How to see them &lpar;and when&rpar;](https://www.space.com/33619-visible-planets-guide.html/)
+- [Zenly is still hugely popular, so why’s Snap shutting it down?](https://techcrunch.com/2022/09/01/zenly-is-still-hugely-popular-so-whys-snap-shutting-it-down/)
+- [Draftea kicks off LatAm fantasy football with NFL partnership, fresh funding](https://techcrunch.com/2022/09/01/draftea-fantasy-sports-football-nfl-soccer-latam-latin-america-mexico-funding-series-a/)
 - [AngelList, Calendly and Reddit hone product market fit at Disrupt](https://techcrunch.com/2022/09/01/angellist-calendly-and-reddit-hone-product-market-fit-at-disrupt/)
-- [Venture capital appears to slow its web3 funding rush](https://techcrunch.com/2022/09/01/venture-capital-appears-to-slow-its-web3-funding-rush/)
-- [See Milky Way star clusters shine in Thursday night&#39;s sky](https://www.space.com/milky-way-star-clusters-sept-2022/)
-- [Fairmarkit’s AI-fueled platform delivers autonomous procurement sourcing](https://techcrunch.com/2022/09/01/fairmarkits-ai-fueled-platform-delivers-autonomous-procurement-sourcing/)
-- [On This Day In Space: Sept. 1, 1979: Pioneer 11 becomes 1st spacecraft to visit Saturn](https://www.space.com/39251-on-this-day-in-space.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
