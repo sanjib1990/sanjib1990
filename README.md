@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [GM’s Cruise recalls, updates software in 80 robotaxis following crash](https://techcrunch.com/2022/09/01/gms-cruise-recalls-updates-software-in-80-robotaxis-following-crash/)
-- [Don’t sweat the singularity](https://techcrunch.com/2022/09/01/dont-sweat-the-singularity/)
-- [September new moon 2022: Jupiter at opposition](https://www.space.com/17561-new-moon-explained-lunar-phases.html/)
-- [Pitch Deck Teardown: Front’s $65M Series D deck](https://techcrunch.com/2022/09/01/sample-series-d-pitch-deck-front/)
-- [Satellite view reveals scope of apocalyptic flooding in Pakistan](https://www.space.com/pakistan-floods-satellite-data-2022/)
+- [Apple may have given us a hint at its AR/VR headset’s name](https://techcrunch.com/2022/09/01/apple-may-have-given-us-a-hint-at-its-ar-vr-headsets-name/)
+- [Police at Amazon facility threaten to arrest union leader Christian Smalls](https://techcrunch.com/2022/09/01/police-at-amazon-facility-threaten-to-arrest-union-leader-christian-smalls/)
+- [Chinese nuclear reactor proposal could power 10 International Space Stations](https://www.space.com/chinese-nuclear-reactor-power-10-space-stations/)
+- [Apple settles lawsuit with developer over App Store rejections and scams](https://techcrunch.com/2022/09/01/apple-settles-lawsuit-with-developer-over-app-store-rejections-and-scams/)
+- [How to watch NASA&#39;s Artemis 1 moon mission launch live in a 360-degree VR experience](https://www.space.com/artemis-1-virtual-reality-watch-live/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
