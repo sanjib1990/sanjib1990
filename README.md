@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OneSignal lands $50M to automatically optimize SMS, in-app and email campaigns](https://techcrunch.com/2022/09/01/onesignal-lands-50m-to-automatically-optimize-sms-in-app-and-email-outreach/)
+- [Falkon closes $16M round to automate sales workflows and analyses](https://techcrunch.com/2022/09/01/falkon-closes-16m-round-to-automate-sales-workflows-and-analyses/)
 - [Disney+ will reportedly launch in-app commerce features by year’s end](https://techcrunch.com/2022/09/01/disney-in-app-commerce-disney-amazon-prime-bundle/)
-- [Jumia, Zipline launch drone package delivery in Ghana](https://techcrunch.com/2022/09/01/jumia-zipline-launch-drone-package-delivery-in-ghana/)
-- [Ring adds a Wi-Fi intercom add-on to its lineup](https://techcrunch.com/2022/09/01/ring-adds-a-wifi-intercom-add-on-to-its-lineup/)
-- [Planted gets $72M to put whole cuts of vegan chicken on Europe’s menu](https://techcrunch.com/2022/09/01/planted-series-b/)
-- [Daily Crunch: Snap lays off one-fifth of its workforce after missing revenue and growth targets](https://techcrunch.com/2022/08/31/daily-crunch-snap-lays-off-one-fifth-of-its-workforce-after-missing-revenue-and-growth-targets/)
+- [Water on the moon is present even outside of dark craters, study confirms](https://www.space.com/sofia-more-water-outside-moon-dark-craters/)
+- [Jupiter&#39;s true colors pop in new images from NASA&#39;s Juno mission](https://www.space.com/jupiter-colors-new-images-juno/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
