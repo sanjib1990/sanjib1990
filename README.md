@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Puna Bio’s extremophile microbe menagerie survives and revives depleted soil](https://techcrunch.com/2022/09/01/puna-bios-extremophile-microbe-menagerie-survives-and-revives-depleted-soil/)
-- [To reach fintech’s next level, infrastructure providers must address these pain points](https://techcrunch.com/2022/09/01/to-reach-fintechs-next-level-infrastructure-providers-must-address-these-pain-points/)
-- [Mysterious rings in new James Webb Space Telescope image puzzle astronomers](https://www.space.com/james-webb-space-telescope-odd-ripples-image/)
-- [NASA’s Webb Takes Its First-Ever Direct Image of Distant World](https://blogs.nasa.gov/webb/2022/09/01/nasas-webb-takes-its-first-ever-direct-image-of-distant-world/)
-- [Reddit acquires contextualization company Spiketrap to boost its ads business](https://techcrunch.com/2022/09/01/reddit-acquires-contextualization-company-spiketrap-to-boost-its-ads-business/)
+- [AngelList, Calendly and Reddit hone product market fit at Disrupt](https://techcrunch.com/2022/09/01/angellist-calendly-and-reddit-hone-product-market-fit-at-disrupt/)
+- [Venture capital appears to slow its web3 funding rush](https://techcrunch.com/2022/09/01/venture-capital-appears-to-slow-its-web3-funding-rush/)
+- [See Milky Way star clusters shine in Thursday night&#39;s sky](https://www.space.com/milky-way-star-clusters-sept-2022/)
+- [Fairmarkit’s AI-fueled platform delivers autonomous procurement sourcing](https://techcrunch.com/2022/09/01/fairmarkits-ai-fueled-platform-delivers-autonomous-procurement-sourcing/)
+- [On This Day In Space: Sept. 1, 1979: Pioneer 11 becomes 1st spacecraft to visit Saturn](https://www.space.com/39251-on-this-day-in-space.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
