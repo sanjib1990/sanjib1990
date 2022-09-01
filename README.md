@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Harvest Moon 2022: When and how to see September&#39;s full moon](https://www.space.com/33790-harvest-moon-guide.html/)
-- [What time is NASA&#39;s Artemis 1 moon mission launch?](https://www.space.com/artemis-1-sls-rocket-moon-launch-what-time/)
-- [Axiom Space, NASA agree to send 2nd all-private crew to space station in 2023](https://www.space.com/spacex-axiom-ax-2-mission-spring-2023/)
-- [Alloy leans on fraud prevention to land new $1.55B valuation](https://techcrunch.com/2022/09/01/fintech-alloy-fight-fraud/)
-- [Night sky, September 2022: What you can see tonight [maps]](https://www.space.com/16149-night-sky.html/)
+- [Google workers protest $1.2B Project Nimbus contract with Israeli military](https://techcrunch.com/2022/09/01/google-workers-protest-1-2b-project-nimbus-contract-with-israeli-military/)
+- [Announcing the agenda for TechCrunch Live’s special Minneapolis event!](https://techcrunch.com/2022/09/01/announcing-the-agenda-for-techcrunch-lives-special-minneapolis-event/)
+- [SIMULATE targets restaurants with new simulated chicken products](https://techcrunch.com/2022/09/01/simulate-restaurants-simulated-chicken-plant-based/)
+- [How many meteorites hit Earth every year?](https://www.space.com/how-many-meteorites-hit-earth/)
+- [Slack gains new automation features, including conditional logic for workflows](https://techcrunch.com/2022/09/01/slack-gains-new-automation-features-including-conditional-logic-for-workflows/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
