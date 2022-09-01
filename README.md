@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google blocks Truth Social from the Play Store, will Apple be next?](https://techcrunch.com/2022/09/01/google-blocks-truth-social-from-the-play-store-will-apple-be-next/)
+- [The best sci-fi movies and TV shows to stream on Netflix in September](https://www.space.com/best-netflix-sci-fi-movies-shows.html/)
 - [Google, YouTube outline plans for the US midterm elections](https://techcrunch.com/2022/09/01/google-youtube-midterm-elections-us-misinformation/)
 - [Daily Crunch: Ring wants to upgrade your apartment’s intercom system](https://techcrunch.com/2022/09/01/daily-crunch-ring-wants-to-upgrade-your-apartments-intercom-system/)
 - [Why software stocks got hammered today](https://techcrunch.com/2022/09/01/why-software-stocks-got-hammered-today/)
-- [Live Nation bets millions on high-tech reusable cups to combat plastic waste](https://techcrunch.com/2022/09/01/live-nation-turn-systems-sustainability-reusable-cups-plastic/)
-- [Facebook is shutting down its Nextdoor clone next month, following tests in the US and Canada](https://techcrunch.com/2022/09/01/facebook-is-shutting-down-its-nextdoor-clone-next-month-following-tests-in-the-u-s-and-canada/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
