@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google will allow alternative payment systems for Play Store in more countries](https://techcrunch.com/2022/09/02/google-will-allow-alternative-payment-systems-for-play-store-in-more-countries/)
 - [Rocket Lab fires up its first recovered engine, on track to full booster reusability](https://techcrunch.com/2022/09/01/rocket-lab-fires-up-its-first-recovered-engine-on-track-to-full-booster-reusability/)
 - [Artemis 1 moon mission is &#39;go&#39; for Saturday launch, NASA says](https://www.space.com/artemis-1-moon-mission-go-launch-september-3/)
 - [Google blocks Truth Social from the Play Store — Will Apple be next?](https://techcrunch.com/2022/09/01/google-blocks-truth-social-from-the-play-store-will-apple-be-next/)
 - [The best sci-fi movies and TV shows to stream on Netflix in September](https://www.space.com/best-netflix-sci-fi-movies-shows.html/)
-- [Google, YouTube outline plans for the US midterm elections](https://techcrunch.com/2022/09/01/google-youtube-midterm-elections-us-misinformation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
