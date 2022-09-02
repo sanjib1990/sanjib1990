@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Nikon Z 20mm f/1.8 S wide-angle prime lens review](https://www.space.com/nikon-z-20mm-f1.8-s-lens-review/)
-- [Nova Scotia spaceport project aims to launch clean-tech rockets](https://www.space.com/spaceport-america-private-space-competition-canada/)
-- [NASA is launching the 1st stage of the Artemis mission — here&#39;s why humans are going back to the moon](https://www.space.com/artemis-human-return-to-moon-explained/)
-- [Later Cam brings the nostalgia of analog photography to your smartphone](https://techcrunch.com/2022/09/02/later-cam-brings-the-nostalgia-of-analog-photography-to-your-smartphone/)
-- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates/)
+- [India’s central bank gives lenders November-end ultimatum to comply with new digital loan rules](https://techcrunch.com/2022/09/02/india-digital-lending-apps-loan-rules/)
+- [A complete guide to the new EV tax credit](https://techcrunch.com/2022/09/02/a-complete-guide-to-the-new-ev-tax-credit/)
+- [The weakest link: Charting supply chain risk in an era of globalization](https://techcrunch.com/2022/09/02/the-weakest-link-charting-supply-chain-risk-in-an-era-of-globalization/)
+- [Catch the moon near the claws of the Scorpius constellation Friday](https://www.space.com/moon-near-scorpius-constellation-tonight/)
+- [Netflix’s cheaper ad tier could arrive earlier than expected](https://techcrunch.com/2022/09/02/netflixs-cheaper-ad-tier-could-arrive-earlier-than-expected/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
