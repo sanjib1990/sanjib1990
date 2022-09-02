@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [This startup wants to scale anonymous mental health support – starting with founders](https://techcrunch.com/2022/09/02/this-startup-wants-to-scale-anonymous-mental-health-support-starting-with-founders/)
 - [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates/)
+- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
+- [Satellites watch Europe dry up in devastating drought that may be the worst in 500 years](https://www.space.com/satellite-photos-europe-drought-worst-in-500-years/)
+- [This startup wants to scale anonymous mental health support – starting with founders](https://techcrunch.com/2022/09/02/this-startup-wants-to-scale-anonymous-mental-health-support-starting-with-founders/)
 - [Rocket Lab fires up space-flown engine in reusability milestone](https://www.space.com/rocket-lab-fires-space-flown-engine/)
-- [2-for-1 sale on TC Sessions: Crypto passes!](https://techcrunch.com/2022/09/02/2-for-1-sale-on-tc-sessions-crypto-passes/)
-- [Weather looks good for Artemis 1 moon rocket&#39;s 2nd launch try, NASA says](https://www.space.com/artemis-1-moon-mission-nasa-says-weather-good-2nd-attempt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
