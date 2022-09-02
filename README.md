@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [India’s central bank gives lenders November-end ultimatum to comply with new digital loan rules](https://techcrunch.com/2022/09/02/india-digital-lending-apps-loan-rules/)
-- [A complete guide to the new EV tax credit](https://techcrunch.com/2022/09/02/a-complete-guide-to-the-new-ev-tax-credit/)
-- [The weakest link: Charting supply chain risk in an era of globalization](https://techcrunch.com/2022/09/02/the-weakest-link-charting-supply-chain-risk-in-an-era-of-globalization/)
-- [Catch the moon near the claws of the Scorpius constellation Friday](https://www.space.com/moon-near-scorpius-constellation-tonight/)
-- [Netflix’s cheaper ad tier could arrive earlier than expected](https://techcrunch.com/2022/09/02/netflixs-cheaper-ad-tier-could-arrive-earlier-than-expected/)
+- [AI is getting better at generating porn. We might not be prepared for the consequences.](https://techcrunch.com/2022/09/02/ai-is-getting-better-at-generating-porn-we-might-not-be-prepared-for-the-consequences/)
+- [Going back to school? The Switch is your destination for RPG-powered procrastination](https://techcrunch.com/2022/09/02/going-back-to-school-the-switch-is-your-destination-for-rpg-powered-procrastination/)
+- [Tracking cybersecurity investment during the venture downturn](https://techcrunch.com/2022/09/02/tracking-cybersecurity-investment-during-the-venture-downturn/)
+- [SETI pioneer Frank Drake, of &#39;Drake Equation&#39; fame, dies at 92](https://www.space.com/seti-pioneer-frank-drake-obituary/)
+- [This Gen Z founder is pitching hundreds of investors… via Venmo](https://techcrunch.com/2022/09/02/pitching-via-venmo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
