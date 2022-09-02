@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [India plans to speed up testing and safety approvals for electronic devices](https://techcrunch.com/2022/09/02/india-speed-up-parallel-testing-safety-approvals-electronic-devices-smartphones-earbuds/)
-- [Tesla hiring “high-volume” recruiters in Quebec](https://techcrunch.com/2022/09/02/tesla-hiring-high-volume-recruiters-in-quebec/)
-- [NASA&#39;s new look: Oxcart Assembly, Golf Wang provide garb for Artemis I launch](https://www.space.com/nasa-artemis-launch-wardrobe-oxcart-golf-wang/)
-- [How tech giants are responding to the growing green card backlog](https://techcrunch.com/2022/09/02/how-tech-giants-are-responding-to-the-growing-green-card-backlog/)
-- [2-for-1 sale on TC Sessions: Crypto passes!](https://techcrunch.com/2022/09/02/2-for-1-sale-on-tc-sessions-crypto-passes/)
+- [Nikon Z 20mm f/1.8 S wide-angle prime lens review](https://www.space.com/nikon-z-20mm-f1.8-s-lens-review/)
+- [Nova Scotia spaceport project aims to launch clean-tech rockets](https://www.space.com/spaceport-america-private-space-competition-canada/)
+- [NASA is launching the 1st stage of the Artemis mission — here&#39;s why humans are going back to the moon](https://www.space.com/artemis-human-return-to-moon-explained/)
+- [Later Cam brings the nostalgia of analog photography to your smartphone](https://techcrunch.com/2022/09/02/later-cam-brings-the-nostalgia-of-analog-photography-to-your-smartphone/)
+- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
