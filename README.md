@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google blocks Truth Social from the Play Store, will Apple be next?](https://techcrunch.com/2022/09/01/google-blocks-truth-social-from-the-play-store-will-apple-be-next/)
+- [Artemis 1 moon mission is &#39;go&#39; for Saturday launch, NASA says](https://www.space.com/artemis-1-moon-mission-go-launch-september-3/)
+- [Google blocks Truth Social from the Play Store — Will Apple be next?](https://techcrunch.com/2022/09/01/google-blocks-truth-social-from-the-play-store-will-apple-be-next/)
 - [The best sci-fi movies and TV shows to stream on Netflix in September](https://www.space.com/best-netflix-sci-fi-movies-shows.html/)
 - [Google, YouTube outline plans for the US midterm elections](https://techcrunch.com/2022/09/01/google-youtube-midterm-elections-us-misinformation/)
 - [Daily Crunch: Ring wants to upgrade your apartment’s intercom system](https://techcrunch.com/2022/09/01/daily-crunch-ring-wants-to-upgrade-your-apartments-intercom-system/)
-- [Why software stocks got hammered today](https://techcrunch.com/2022/09/01/why-software-stocks-got-hammered-today/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
