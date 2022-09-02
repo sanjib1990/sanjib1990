@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Save $70 on the Celestron StarSense Explorer DX 102AZ telescope](https://www.space.com/celestron-starsense-explorer-102az-deal-save-70-dollars/)
-- [Google will allow alternative payment systems for Play Store in more countries](https://techcrunch.com/2022/09/02/google-will-allow-alternative-payment-systems-for-play-store-in-more-countries/)
-- [Rocket Lab fires up its first recovered engine, on track to full booster reusability](https://techcrunch.com/2022/09/01/rocket-lab-fires-up-its-first-recovered-engine-on-track-to-full-booster-reusability/)
-- [Artemis 1 moon mission is &#39;go&#39; for Saturday launch, NASA says](https://www.space.com/artemis-1-moon-mission-go-launch-september-3/)
-- [Google blocks Truth Social from the Play Store — Will Apple be next?](https://techcrunch.com/2022/09/01/google-blocks-truth-social-from-the-play-store-will-apple-be-next/)
+- [Artemis 1 traffic jam: NASA moon launch may draw crowd of 400,000](https://www.space.com/artemis-1-moon-launch-huge-crowd/)
+- [Why The Expanse feels so unique in sci-fi](https://www.space.com/why-the-expanse-feels-so-unique-in-sci-fi/)
+- [UK clears $8.1B merger between NortonLifeLock and Avast](https://techcrunch.com/2022/09/02/uk-clears-8-1b-merger-between-nortonlifelock-and-avast/)
+- [Artemis 1 is the 1st flight of spacecraft set to take humans back to the moon — here&#39;s what needs to go right](https://www.space.com/nasa-artemis-1-mission-success-described/)
+- [Scientists are turning data into sound to listen to the whispers of the universe &lpar;and more&rpar;](https://www.space.com/astronomy-sonification-turn-data-to-music/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
