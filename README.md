@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [AI is getting better at generating porn. We might not be prepared for the consequences.](https://techcrunch.com/2022/09/02/ai-is-getting-better-at-generating-porn-we-might-not-be-prepared-for-the-consequences/)
-- [Going back to school? The Switch is your destination for RPG-powered procrastination](https://techcrunch.com/2022/09/02/going-back-to-school-the-switch-is-your-destination-for-rpg-powered-procrastination/)
-- [Tracking cybersecurity investment during the venture downturn](https://techcrunch.com/2022/09/02/tracking-cybersecurity-investment-during-the-venture-downturn/)
-- [SETI pioneer Frank Drake, of &#39;Drake Equation&#39; fame, dies at 92](https://www.space.com/seti-pioneer-frank-drake-obituary/)
-- [This Gen Z founder is pitching hundreds of investors… via Venmo](https://techcrunch.com/2022/09/02/pitching-via-venmo/)
+- [This startup wants to scale anonymous mental health support – starting with founders](https://techcrunch.com/2022/09/02/this-startup-wants-to-scale-anonymous-mental-health-support-starting-with-founders/)
+- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates/)
+- [Rocket Lab fires up space-flown engine in reusability milestone](https://www.space.com/rocket-lab-fires-space-flown-engine/)
+- [2-for-1 sale on TC Sessions: Crypto passes!](https://techcrunch.com/2022/09/02/2-for-1-sale-on-tc-sessions-crypto-passes/)
+- [Weather looks good for Artemis 1 moon rocket&#39;s 2nd launch try, NASA says](https://www.space.com/artemis-1-moon-mission-nasa-says-weather-good-2nd-attempt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
