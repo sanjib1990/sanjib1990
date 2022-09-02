@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Nvidia chips become collateral damage in new US sanctions targeting China](https://techcrunch.com/2022/09/02/daily-crunch-nvidia-chips-become-collateral-damage-in-new-us-sanctions-targeting-china/)
 - [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates/)
+- [Russian spacewalkers test European robotic arm on the space station Friday](https://www.space.com/russian-spacewalk-european-robotic-arm-september-2023/)
+- [NASA&#39;s Artemis 1 mission to the moon sets the stage for routine space exploration beyond Earth&#39;s orbit — here&#39;s what to expect and why it&#39;s important](https://www.space.com/nasa-artemis-1-mission-exploration-beyond-earths-orbit/)
 - [&#39;Star Trek&#39; Day offers a feast for fans, including news, interviews and more](https://www.space.com/star-trek-day-trailer-video-2022/)
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
-- [Satellites watch Europe dry up in devastating drought that may be the worst in 500 years](https://www.space.com/satellite-photos-europe-drought-worst-in-500-years/)
-- [This startup wants to scale anonymous mental health support – starting with founders](https://techcrunch.com/2022/09/02/this-startup-wants-to-scale-anonymous-mental-health-support-starting-with-founders/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
