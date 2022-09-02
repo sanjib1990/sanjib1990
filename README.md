@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [An action plan for founders fundraising in fintech’s choppy waters](https://techcrunch.com/2022/09/02/an-action-plan-for-founders-fundraising-in-fintechs-choppy-waters/)
 - [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates/)
 - [ChromeOS is testing keyboard controls for Android games](https://techcrunch.com/2022/09/02/chromeos-is-testing-keyboard-controls-for-android-games/)
 - [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates/)
 - [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
-- [Nvidia the latest collateral damage in US-China tech war](https://techcrunch.com/2022/09/02/china-us-nvidia-export-ban/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
