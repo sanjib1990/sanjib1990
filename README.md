@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [An action plan for founders fundraising in fintech’s choppy waters](https://techcrunch.com/2022/09/02/an-action-plan-for-founders-fundraising-in-fintechs-choppy-waters/)
-- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates/)
-- [ChromeOS is testing keyboard controls for Android games](https://techcrunch.com/2022/09/02/chromeos-is-testing-keyboard-controls-for-android-games/)
-- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates/)
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
+- [India plans to speed up testing and safety approvals for electronic devices](https://techcrunch.com/2022/09/02/india-speed-up-parallel-testing-safety-approvals-electronic-devices-smartphones-earbuds/)
+- [Tesla hiring “high-volume” recruiters in Quebec](https://techcrunch.com/2022/09/02/tesla-hiring-high-volume-recruiters-in-quebec/)
+- [NASA&#39;s new look: Oxcart Assembly, Golf Wang provide garb for Artemis I launch](https://www.space.com/nasa-artemis-launch-wardrobe-oxcart-golf-wang/)
+- [How tech giants are responding to the growing green card backlog](https://techcrunch.com/2022/09/02/how-tech-giants-are-responding-to-the-growing-green-card-backlog/)
+- [2-for-1 sale on TC Sessions: Crypto passes!](https://techcrunch.com/2022/09/02/2-for-1-sale-on-tc-sessions-crypto-passes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
