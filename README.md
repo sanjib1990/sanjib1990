@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Blue Origin delays New Shepard rocket launch again due to weather &lpar;update&rpar;](https://www.space.com/blue-origin-ns-23-mission-launch-preview/)
+- [Nigerian digital bank Kuda is the latest African startup to lay off employees](https://techcrunch.com/2022/09/02/nigerian-digital-bank-kuda-is-the-latest-african-startup-to-lay-off-employees/)
+- [Insta360 Sphere review: innovative &#39;invisible&#39; drone camera](https://www.space.com/insta360-sphere-review/)
+- [On This Day In Space: Sept. 2, 2016: Lost and found! Rosetta sees Philae lander on Comet 67P](https://www.space.com/39251-on-this-day-in-space.html/)
 - [Artemis 1 traffic jam: NASA moon launch may draw crowd of 400,000](https://www.space.com/artemis-1-moon-launch-huge-crowd/)
-- [Why The Expanse feels so unique in sci-fi](https://www.space.com/why-the-expanse-feels-so-unique-in-sci-fi/)
-- [UK clears $8.1B merger between NortonLifeLock and Avast](https://techcrunch.com/2022/09/02/uk-clears-8-1b-merger-between-nortonlifelock-and-avast/)
-- [Artemis 1 is the 1st flight of spacecraft set to take humans back to the moon — here&#39;s what needs to go right](https://www.space.com/nasa-artemis-1-mission-success-described/)
-- [Scientists are turning data into sound to listen to the whispers of the universe &lpar;and more&rpar;](https://www.space.com/astronomy-sonification-turn-data-to-music/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
