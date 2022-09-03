@@ -95,10 +95,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
+- [NASA battles fuel leak for Artemis 1 moon rocket launch](https://www.space.com/artemis-1-moon-rocket-fueling-2nd-launch-attempt/)
 - [Get 25% off a Gskyer refractor telescope, ideal for kids and beginners](https://www.space.com/gskyer-refractor-telescope-deal-save-25-percent-september-2022/)
 - [NASA&#39;s Artemis 1 moon rocket looks spectacular in these amazing photos](https://www.space.com/artemis-1-moon-rocket-stunning-photos-second-launch-try/)
 - [Not just Artemis: China and Russia plan to put boots on the moon, too](https://www.space.com/china-russia-moon-base-ilrs/)
-- [NASA begins fueling Artemis 1 moon rocket for 2nd launch attempt](https://www.space.com/artemis-1-moon-rocket-fueling-2nd-launch-attempt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
