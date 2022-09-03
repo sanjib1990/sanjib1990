@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s Artemis 1 moon rocket looks spectacular in these amazing photos](https://www.space.com/artemis-1-moon-rocket-stunning-photos-second-launch-try/)
+- [Not just Artemis: China and Russia plan to put boots on the moon, too](https://www.space.com/china-russia-moon-base-ilrs/)
 - [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
+- [NASA begins fueling Artemis 1 moon rocket for 2nd launch attempt](https://www.space.com/artemis-1-moon-rocket-fueling-2nd-launch-attempt/)
 - [Best used DLSR cameras: save money on discounted gear](https://www.space.com/best-used-dslr-cameras-save-money/)
-- [Indian agency searches fintech Paytm, Razorpay and Cashfree offices in Chinese loan apps probe](https://techcrunch.com/2022/09/03/indian-agency-searches-fintech-paytm-razorpay-and-cashfree-offices-in-chinese-loan-apps-probe/)
-- [It&#39;s not just rocket science — hidden chemistry powers moon launches and sustains life in space](https://www.space.com/chemistry-behind-rocket-launches/)
-- [The Artemis 1 mission marks the start of a new space race to mine the moon](https://www.space.com/artemis-1-moon-mission-mine-resources/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
