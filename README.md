@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s Artemis 1 moon rocket going for 2nd launch try today](https://www.space.com/nasa-artemis-1-moon-mission-launch-preview/)
 - [Google lets the Parler app back into the Play Store](https://techcrunch.com/2022/09/02/parler-google-play-store-return/)
 - [In leaked memo, Aurora CEO weighs spinouts, layoffs and acquisitions against sale to big tech](https://techcrunch.com/2022/09/02/in-leaked-memo-aurora-ceo-weighs-spinouts-layoffs-and-acquisitions-against-sale-to-big-tech/)
 - [California EV owners asked to curb charging ahead of travel holiday](https://techcrunch.com/2022/09/02/california-electric-vehicles-limit-charging-labor-day-weekend-heat-wave/)
 - [Daily Crunch: Nvidia chips become collateral damage in new US sanctions targeting China](https://techcrunch.com/2022/09/02/daily-crunch-nvidia-chips-become-collateral-damage-in-new-us-sanctions-targeting-china/)
-- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
