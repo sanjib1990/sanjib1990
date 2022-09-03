@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [It’s not just you: The freemium bar is shifting](https://techcrunch.com/2022/09/03/its-not-just-you-the-freemium-bar-is-shifting/)
+- [Fuel leak delays NASA&#39;s Artemis 1 moon mission launch](https://www.space.com/artemis-1-launch-scrub-hydrogen-leak/)
 - [Aston Martin is finally upgrading its stale infotainment system](https://techcrunch.com/2022/09/03/aston-martin-is-finally-upgrading-its-stale-infotainment-system/)
 - [Yes, your 5-year financial projections are going to be wrong. You need them anyway](https://techcrunch.com/2022/09/03/financial-projections/)
 - [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
-- [Fuel leak delays NASA&#39;s Artemis 1 moon mission launch](https://www.space.com/artemis-1-launch-scrub-hydrogen-leak/)
-- [NASA battles fuel leak for Artemis 1 moon rocket launch](https://www.space.com/artemis-1-moon-rocket-fueling-2nd-launch-attempt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
