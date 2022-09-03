@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The Artemis 1 mission marks the start of a new space race to mine the moon](https://www.space.com/artemis-1-moon-mission-mine-resources/)
-- [It&#39;s not just rocket science — hidden chemistry powers moon launches and sustains life in space](https://www.space.com/chemistry-behind-rocket-launches/)
-- [Solar Orbiter to look at Venus&#39; magnetic field as it swings by the planet](https://www.space.com/solar-orbiter-venus-flyby-3-magnetic-field/)
-- [See the first quarter moon on Saturday &lpar;Sept. 3&rpar;](https://www.space.com/first-quarter-moon-sept-3-2022/)
 - [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
+- [Best used DLSR cameras: save money on discounted gear](https://www.space.com/best-used-dslr-cameras-save-money/)
+- [Indian agency searches fintech Paytm, Razorpay and Cashfree offices in Chinese loan apps probe](https://techcrunch.com/2022/09/03/indian-agency-searches-fintech-paytm-razorpay-and-cashfree-offices-in-chinese-loan-apps-probe/)
+- [It&#39;s not just rocket science — hidden chemistry powers moon launches and sustains life in space](https://www.space.com/chemistry-behind-rocket-launches/)
+- [The Artemis 1 mission marks the start of a new space race to mine the moon](https://www.space.com/artemis-1-moon-mission-mine-resources/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
