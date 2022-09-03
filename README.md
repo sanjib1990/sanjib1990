@@ -94,10 +94,10 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
 - [Fuel leak delays NASA&#39;s Artemis 1 moon mission launch](https://www.space.com/artemis-1-launch-scrub-hydrogen-leak/)
 - [This Week in Apps: Twitter’s edit button, BeReal clones, Trump’s Truth Social gets blocked](https://techcrunch.com/2022/09/03/this-week-in-apps-twitters-edit-button-bereal-clones-trumps-truth-social-gets-blocked/)
 - [Y Creator, Y Competition](https://techcrunch.com/2022/09/03/y-creator-y-competition/)
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
 - [It’s not just you: The freemium bar is shifting](https://techcrunch.com/2022/09/03/its-not-just-you-the-freemium-bar-is-shifting/)
 <!-- BLOG-POST-LIST:END -->
 
