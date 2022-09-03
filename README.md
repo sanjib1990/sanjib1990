@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s Artemis 1 moon rocket going for 2nd launch try today](https://www.space.com/nasa-artemis-1-moon-mission-launch-preview/)
-- [Google lets the Parler app back into the Play Store](https://techcrunch.com/2022/09/02/parler-google-play-store-return/)
-- [In leaked memo, Aurora CEO weighs spinouts, layoffs and acquisitions against sale to big tech](https://techcrunch.com/2022/09/02/in-leaked-memo-aurora-ceo-weighs-spinouts-layoffs-and-acquisitions-against-sale-to-big-tech/)
-- [California EV owners asked to curb charging ahead of travel holiday](https://techcrunch.com/2022/09/02/california-electric-vehicles-limit-charging-labor-day-weekend-heat-wave/)
-- [Daily Crunch: Nvidia chips become collateral damage in new US sanctions targeting China](https://techcrunch.com/2022/09/02/daily-crunch-nvidia-chips-become-collateral-damage-in-new-us-sanctions-targeting-china/)
+- [The Artemis 1 mission marks the start of a new space race to mine the moon](https://www.space.com/artemis-1-moon-mission-mine-resources/)
+- [It&#39;s not just rocket science — hidden chemistry powers moon launches and sustains life in space](https://www.space.com/chemistry-behind-rocket-launches/)
+- [Solar Orbiter to look at Venus&#39; magnetic field as it swings by the planet](https://www.space.com/solar-orbiter-venus-flyby-3-magnetic-field/)
+- [See the first quarter moon on Saturday &lpar;Sept. 3&rpar;](https://www.space.com/first-quarter-moon-sept-3-2022/)
+- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
