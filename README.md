@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Don Lind, shuttle astronaut whose moon mission was canceled, dies at 92](https://www.space.com/nasa-astronaut-don-lind-obituary/)
+- [See the moon&#39;s Mare Imbrium mountains on Sunday &lpar;Sept. 4&rpar;](https://www.space.com/moon-imbrium-mountains-sept-4-2022/)
+- [Hubble Space Telescope captures stunning photo of a galaxy with a strange shape](https://www.space.com/hubble-space-telescope-photo-galaxy-strange-shape/)
+- [Could Earth ever leave our solar system?](https://www.space.com/could-earth-leave-solar-system/)
 - [Fuel leak on Artemis 1 moon rocket may take weeks to repair, NASA says](https://www.space.com/artemis-1-moon-rocket-leak-weeks-repairs/)
-- [Apple readies its next iPhone, Joe Rogan interviews Zuck, and Twitter purportedly pauses plans to compete with OnlyFans](https://techcrunch.com/2022/09/03/apple-readies-its-next-iphone-joe-rogan-interviews-zuck-and-twitter-purportedly-pauses-plans-to-compete-with-onlyfans/)
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
-- [Fuel leak delays NASA&#39;s Artemis 1 moon mission launch](https://www.space.com/artemis-1-launch-scrub-hydrogen-leak/)
-- [This Week in Apps: Twitter’s edit button, BeReal clones, Trump’s Truth Social gets blocked](https://techcrunch.com/2022/09/03/this-week-in-apps-twitters-edit-button-bereal-clones-trumps-truth-social-gets-blocked/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
