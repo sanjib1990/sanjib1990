@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [These are the top 3 most important slides in your pitch deck](https://techcrunch.com/2022/09/04/these-are-the-top-3-most-important-slides-in-your-pitch-deck/)
 - [How the upcoming Ethereum Merge could change crypto’s rewards, costs and reputation](https://techcrunch.com/2022/09/04/how-the-upcoming-ethereum-merge-could-change-cryptos-rewards-costs-and-reputation/)
 - [Less than 3 days left for 2-for-1 sale on TC Sessions: Crypto passes!](https://techcrunch.com/2022/09/04/2-for-1-sale-on-tc-sessions-crypto-passes/)
 - [Brex’s departing CRO explains his decision to join Founders Fund](https://techcrunch.com/2022/09/04/fintech-brex-founders-fund-interchange/)
 - [Watch SpaceX launch 51 Starlink satellites and a space tug Sunday night](https://www.space.com/spacex-starlink-group-4-20-space-tug-launch/)
-- [Don Lind, shuttle astronaut whose moon mission was canceled, dies at 92](https://www.space.com/nasa-astronaut-don-lind-obituary/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
