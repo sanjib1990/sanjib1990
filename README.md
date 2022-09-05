@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mobility SPACs seek cash and your guide to the new EV tax credit](https://techcrunch.com/2022/09/05/mobility-spacs-seek-cash-and-your-guide-to-the-new-ev-tax-credit/)
 - [On This Day In Space: Sept. 5 1977: Voyager 1 launches to the outer solar system](https://www.space.com/39251-on-this-day-in-space.html/)
 - [Inside Tencent’s ambition to create a Triple A console game](https://techcrunch.com/2022/09/05/tencent-lightspeed-studio-la/)
 - [NASA&#39;s iconic Voyager 1 marks 45 years in space](https://www.space.com/voyager-1-45-year-launch-anniversary/)
 - [&#39;Star Trek: Lower Decks&#39; Season 3 is here and you can watch the first episode free](https://www.space.com/star-trek-lower-decks-season-3-first-episode-free/)
-- [See a starry &#39;crown&#39; dazzle in both the northern and southern skies](https://www.space.com/constellations-southern-crown-northern-crown/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
