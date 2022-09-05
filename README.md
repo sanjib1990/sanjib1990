@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Stream of solar wind brings stunning aurora to north American skies](https://www.space.com/solar-wind-aurora-north-america/)
+- [VR headset deals: Save on Meta Quest 2, PSVR &amp; more](https://www.space.com/vr-headset-deals/)
 - [India approves PayU’s $4.7 billion acquisition of BillDesk](https://techcrunch.com/2022/09/05/india-approves-payus-4-7-billion-acquisition-of-billdesk/)
 - [See Venus pair up with Regulus on Monday &lpar;Sept. 5&rpar;](https://www.space.com/venus-regulus-conjunction-sept-5-22/)
 - [India summons Wikipedia officials over edits to cricketer’s page](https://techcrunch.com/2022/09/05/india-summons-wikipedia-officials-over-edits-to-cricketers-page/)
-- [Mobility SPACs seek cash and your guide to the new EV tax credit](https://techcrunch.com/2022/09/05/mobility-spacs-seek-cash-and-your-guide-to-the-new-ev-tax-credit/)
-- [On This Day In Space: Sept. 5 1977: Voyager 1 launches to the outer solar system](https://www.space.com/39251-on-this-day-in-space.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
