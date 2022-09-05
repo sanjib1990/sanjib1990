@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX launches 51 Starlink satellites and a space tug to orbit](https://www.space.com/spacex-starlink-group-4-20-space-tug-launch/)
 - [SkorLife gives control of credit data back to Indonesian consumers](https://techcrunch.com/2022/09/04/skorlife-gives-control-of-credit-data-back-to-indonesian-consumers/)
 - [Docquity, a community for healthcare professionals, raises $44M Series C](https://techcrunch.com/2022/09/04/docquity-a-community-for-healthcare-professionals-raises-44m-series-c/)
 - [LG Electronics launches NFT platform that lets users buy and sell digital artwork](https://techcrunch.com/2022/09/04/lg-electronics-launches-nft-platform-that-lets-users-buy-and-sell-digital-artwork/)
 - [These are the top 3 most important slides in your pitch deck](https://techcrunch.com/2022/09/04/these-are-the-top-3-most-important-slides-in-your-pitch-deck/)
-- [How the upcoming Ethereum Merge could change crypto’s rewards, costs and reputation](https://techcrunch.com/2022/09/04/how-the-upcoming-ethereum-merge-could-change-cryptos-rewards-costs-and-reputation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
