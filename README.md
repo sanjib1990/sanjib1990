@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Max Q: Disrupt](https://techcrunch.com/2022/09/05/max-q-disrupt/)
 - [Solar Foods wants to replace industrial animal farming with a high-tech protein harvest](https://techcrunch.com/2022/09/05/solar-foods-solein/)
 - [Binance, issuer of stablecoin BUSD, to discontinue support for USDC, USDP and TUSD](https://techcrunch.com/2022/09/05/binance-issuer-of-stablecoin-busd-to-discontinue-support-for-usdc-usdp-and-tusd/)
 - [3 views: Meetings are bad, yo. Choose emails](https://techcrunch.com/2022/09/05/3-views-meetings-are-bad-yo-choose-emails/)
 - [Diamond rains could fall through the interior of ice giant planets](https://www.space.com/diamond-rain-ice-giant-planets-uranus-neptune/)
-- [ESA’s Solar orbiter just got smacked by a coronal mass ejection](https://www.space.com/solar-orbiter-hit-by-coronal-mass-ejection/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
