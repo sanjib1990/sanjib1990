@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mode Designs’ Sonnet 65 feels almost too luxurious to type on](https://techcrunch.com/2022/09/05/mode-designs-sonnet-65-feels-almost-to-luxurious-to-type-on/)
+- [DJI Avata review: the FPV drone suitable for all skill levels](https://www.space.com/dji-avata-review/)
+- [New images of ancient waterways of Mars could unlock the secrets of planet&#39;s past](https://www.space.com/photos-mars-holden-basin-past-water/)
 - [Astra performs fiery engine test for powerful new rocket system](https://www.space.com/astra-rocket-engine-test-fire-new-system/)
 - [Have you marked down your portfolio yet? You are running out of time to hide](https://techcrunch.com/2022/09/05/have-you-marked-down-your-portfolio-yet-you-are-running-out-of-time-to-hide/)
-- [Save $1000 on the Unistellar eQuinox computerized telescope](https://www.space.com/unistellar-equinox-deal-save-1000-dollars-september/)
-- [Metaverse Magna raises $3.2M at a $30M valuation to build Africa’s largest gaming DAO](https://techcrunch.com/2022/09/05/metaverse-magna-raises-3-2m-at-a-30m-valuation-to-build-africas-largest-gaming-dao/)
-- [Instagram fined €405M in EU over children’s privacy](https://techcrunch.com/2022/09/05/instagram-gdpr-fine-childrens-privacy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
