@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Stream of solar wind brings stunning aurora to north American skies](https://www.space.com/solar-wind-aurora-north-america/)
-- [VR headset deals: Save on Meta Quest 2, PSVR &amp; more](https://www.space.com/vr-headset-deals/)
-- [India approves PayU’s $4.7 billion acquisition of BillDesk](https://techcrunch.com/2022/09/05/india-approves-payus-4-7-billion-acquisition-of-billdesk/)
-- [See Venus pair up with Regulus on Monday &lpar;Sept. 5&rpar;](https://www.space.com/venus-regulus-conjunction-sept-5-22/)
-- [India summons Wikipedia officials over edits to cricketer’s page](https://techcrunch.com/2022/09/05/india-summons-wikipedia-officials-over-edits-to-cricketers-page/)
+- [Astra performs fiery engine test for powerful new rocket system](https://www.space.com/astra-rocket-engine-test-fire-new-system/)
+- [Have you marked down your portfolio yet? You are running out of time to hide](https://techcrunch.com/2022/09/05/have-you-marked-down-your-portfolio-yet-you-are-running-out-of-time-to-hide/)
+- [Save $1000 on the Unistellar eQuinox computerized telescope](https://www.space.com/unistellar-equinox-deal-save-1000-dollars-september/)
+- [Metaverse Magna raises $3.2M at a $30M valuation to build Africa’s largest gaming DAO](https://techcrunch.com/2022/09/05/metaverse-magna-raises-3-2m-at-a-30m-valuation-to-build-africas-largest-gaming-dao/)
+- [Instagram fined €405M in EU over children’s privacy](https://techcrunch.com/2022/09/05/instagram-gdpr-fine-childrens-privacy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
