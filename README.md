@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Inside Tencent’s ambition to create a Triple A console game](https://techcrunch.com/2022/09/05/tencent-lightspeed-studio-la/)
+- [Knog Bilby 400 headlamp review](https://www.space.com/knog-bilby-400-headlamp-review/)
 - [SpaceX launches 51 Starlink satellites and a space tug to orbit](https://www.space.com/spacex-starlink-group-4-20-space-tug-launch/)
 - [SkorLife gives control of credit data back to Indonesian consumers](https://techcrunch.com/2022/09/04/skorlife-gives-control-of-credit-data-back-to-indonesian-consumers/)
 - [Docquity, a community for healthcare professionals, raises $44M Series C](https://techcrunch.com/2022/09/04/docquity-a-community-for-healthcare-professionals-raises-44m-series-c/)
-- [LG Electronics launches NFT platform that lets users buy and sell digital artwork](https://techcrunch.com/2022/09/04/lg-electronics-launches-nft-platform-that-lets-users-buy-and-sell-digital-artwork/)
-- [These are the top 3 most important slides in your pitch deck](https://techcrunch.com/2022/09/04/these-are-the-top-3-most-important-slides-in-your-pitch-deck/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
