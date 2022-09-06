@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [RabbitMQ in 100 Seconds](https://www.youtube.com/watch?v=NQ3fZtyXji0)
 - [There ain&#39;t no such thing as a &quot;free&quot; tier](https://www.youtube.com/watch?v=ciF7WZXmpjU)
 - [Blazor in 100 Seconds](https://www.youtube.com/watch?v=QXxNlpjnulI)
 - [Lecture 16: Fundamental Welfare Theorems](https://www.youtube.com/watch?v=h0IfCMqepfM)
 - [Lecture 21: Bubbles](https://www.youtube.com/watch?v=ySqVVEBTy2o)
-- [Lecture 14: Real and Financial Flows: Thailand](https://www.youtube.com/watch?v=R8k2x5qJgO4)
 <!-- YOUTUBE:END -->
 
 ---
