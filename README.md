@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Juul agrees to pay $438.5M in its biggest settlement yet, while another vape maker gains steam](https://techcrunch.com/2022/09/06/juul-agrees-to-pay-438-5m-in-its-biggest-settlement-yet-while-another-vape-maker-gains-steam/)
 - [Daily Crunch: PSG, Battery Ventures invest $100M in open source password manager Bitwarden](https://techcrunch.com/2022/09/06/daily-crunch-psg-battery-ventures-invest-100m-in-open-source-password-manager-bitwarden/)
 - [Biden administration details plans for $50 billion in CHIPS Act funding](https://techcrunch.com/2022/09/06/biden-administration-details-plans-for-50-billion-in-chips-act-funding/)
 - [Discovery suggests red supergiant Betelgeuse was actually yellow 2,000 years ago](https://www.space.com/betelgeuse-red-supergiant-was-yellow/)
 - [Does economic and geopolitical instability affect your startup’s TAM?](https://techcrunch.com/2022/09/06/does-economic-and-geopolitical-instability-affect-your-startups-tam/)
-- [Charli and Dixie D’Amelio’s TikTok famous family expands its empire](https://techcrunch.com/2022/09/06/charli-dixie-damelio-family-brands-business/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
