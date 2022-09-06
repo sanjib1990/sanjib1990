@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: PSG, Battery Ventures invest $100M in open source password manager Bitwarden](https://techcrunch.com/2022/09/06/daily-crunch-psg-battery-ventures-invest-100m-in-open-source-password-manager-bitwarden/)
+- [Biden administration details plans for $50 billion in CHIPS Act funding](https://techcrunch.com/2022/09/06/biden-administration-details-plans-for-50-billion-in-chips-act-funding/)
 - [Discovery suggests red supergiant Betelgeuse was actually yellow 2,000 years ago](https://www.space.com/betelgeuse-red-supergiant-was-yellow/)
 - [Does economic and geopolitical instability affect your startup’s TAM?](https://techcrunch.com/2022/09/06/does-economic-and-geopolitical-instability-affect-your-startups-tam/)
 - [Charli and Dixie D’Amelio’s TikTok famous family expands its empire](https://techcrunch.com/2022/09/06/charli-dixie-damelio-family-brands-business/)
-- [China launches 2 orbital missions in less than 2 hours &lpar;videos&rpar;](https://www.space.com/china-launches-two-missions-under-two-hours/)
-- [Odd aurora-like STEVE phenomenon captured by Michigan-based photographer](https://www.space.com/steve-aurora-glow-above-michigan-image/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
