@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Vaonis Vespera Observation Station smart telescope review](https://www.space.com/vaonis-vespera-observation-station-smart-telescope-review/)
-- [One startup’s solution to the carbon-offsetting mess: downgrade the ‘middle-men’ resellers](https://techcrunch.com/2022/09/06/one-startups-solution-to-the-carbon-offsetting-mess-cut-out-the-middle-men-resellers/)
-- [Binance to stop supporting USDC, the second largest stablecoin](https://techcrunch.com/2022/09/05/binance-issuer-of-stablecoin-busd-to-discontinue-support-for-usdc-usdp-and-tusd/)
-- [Solar-powered carmaker Lightyear raises $81M and gears up for production](https://techcrunch.com/2022/09/05/solar-powered-carmaker-lightyear-raises-85m-as-it-gears-up-for-production/)
-- [Agritech company Cropin launches its cloud platform to digitize the agricultural industry](https://techcrunch.com/2022/09/05/agritech-company-cropin-launches-its-cloud-platform-to-digitize-the-agricultural-industry/)
+- [Cymulate snaps up $70M to help cybersecurity teams stress test their networks with attack simulations](https://techcrunch.com/2022/09/06/cymulate-snaps-up-70m-to-help-cybersecurity-teams-stress-test-their-networks-with-attack-simulations/)
+- [Seedstars Africa Ventures appoints new partner to back more founders in the continent](https://techcrunch.com/2022/09/06/seedstars-africa-ventures-appoints-new-partner-to-back-more-founders-in-the-continent/)
+- [Telescope deals: Top picks from Celestron, Sky-Watcher and others](https://www.space.com/telescopes-deals-sale-discount/)
+- [After 45 years, the 5-billion-year legacy of the Voyager 2 interstellar probe is just beginning](https://www.space.com/nasa-voyager-2-spacecraft-billion-year-legacy/)
+- [A month on &#39;Mars&#39;: Trekking through Ingenuity Valley](https://www.space.com/month-on-mars-ingenuity-valley/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
