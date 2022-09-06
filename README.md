@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Solar-powered carmaker Lightyear raises $85M and gears up for production](https://techcrunch.com/2022/09/05/solar-powered-carmaker-lightyear-raises-85m-as-it-gears-up-for-production/)
+- [Agritech company Cropin launches its cloud platform to digitize the agricultural industry](https://techcrunch.com/2022/09/05/agritech-company-cropin-launches-its-cloud-platform-to-digitize-the-agricultural-industry/)
+- [Cultivated Biosciences wants to make plant-based dairy ‘feel’ more like the real McCoy](https://techcrunch.com/2022/09/05/cultivated-biosciences-wants-to-make-plant-based-dairy-more-realistic/)
 - [Y Combinator, Global Brain back Tailor, a Japanese headless ERP startup](https://techcrunch.com/2022/09/05/y-combinator-global-brain-back-tailor-a-japanese-headless-erp-startup/)
 - [Max Q: Disrupt](https://techcrunch.com/2022/09/05/max-q-disrupt/)
-- [Solar Foods wants to replace industrial animal farming with a high-tech protein harvest](https://techcrunch.com/2022/09/05/solar-foods-solein/)
-- [Binance, issuer of stablecoin BUSD, to discontinue support for USDC, USDP and TUSD](https://techcrunch.com/2022/09/05/binance-issuer-of-stablecoin-busd-to-discontinue-support-for-usdc-usdp-and-tusd/)
-- [3 views: Meetings are bad, yo. Choose emails](https://techcrunch.com/2022/09/05/3-views-meetings-are-bad-yo-choose-emails/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
