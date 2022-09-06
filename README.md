@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Earth&#39;s perilous journey through the Milky Way&#39;s spiral may shape the planet&#39;s geology](https://www.space.com/milky-way-journey-earth-geology-comets/)
-- [Lego Lunar Research Base review](https://www.space.com/lego-lunar-research-base-60350-review/)
-- [The YoloBox Pro is a one-stop shop for your live video productions](https://techcrunch.com/2022/09/06/the-yolobox-pro-is-a-one-stop-shop-for-your-live-video-productions/)
-- [Los Angeles school district warns of disruption as it battles ongoing ransomware attack](https://techcrunch.com/2022/09/06/los-angeles-unified-school-district-ransomware/)
-- [Save $300 on the Panasonic Lumix S5 camera](https://www.space.com/save-500-dollars-panasonic-lumix-s5-camera-amazon-deal/)
+- [Parsing Samsung’s data breach notice](https://techcrunch.com/2022/09/06/parsing-samsung-july-breach-notice/)
+- [Paradigm shifts your DEI efforts from aspirational to data-driven](https://techcrunch.com/2022/09/06/paradigm-shifts-your-dei-efforts-from-aspirational-to-data-driven/)
+- [Marc Lore chews the fat about reinventing at-home dining at Disrupt](https://techcrunch.com/2022/09/06/marc-lore-chews-the-fat-about-reinventing-at-home-dining-at-disrupt/)
+- [One year later, Apple’s privacy changes helped boost its own ads business, report finds](https://techcrunch.com/2022/09/06/one-year-later-apples-privacy-changes-helped-boost-its-own-ads-business-report-finds/)
+- [What comes after unicorns and centaurs?](https://techcrunch.com/2022/09/06/what-comes-after-unicorns-and-centaurs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
