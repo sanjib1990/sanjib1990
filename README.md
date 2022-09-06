@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Drover AI’s Alex Nesic on using tech to regulate the scooter market](https://techcrunch.com/2022/09/06/drover-ais-alex-nesic-on-using-tech-to-regulate-the-scooter-market/)
+- [JusticeText raises $2.2M to increase transparency in criminal evidence-gathering](https://techcrunch.com/2022/09/06/justicetext-raises-2-2m-to-increase-transparency-in-criminal-evidence-gathering/)
+- [Starburst candy to send fans&#39; TikTok videos into outer space](https://www.space.com/starburst-ask-the-universe-tiktok-challenge/)
+- [Varjo, an early mover in building XR headsets and software for enterprises, taps $40M](https://techcrunch.com/2022/09/06/varjo-an-early-mover-in-building-xr-headsets-and-software-for-enterprises-taps-40m/)
 - [ZineOne raises cash to help e-commerce companies predict customer behavior](https://techcrunch.com/2022/09/06/zineone-raises-cash-to-help-ecommerce-companies-predict-customer-behavior/)
-- [What is the moon phase today? Lunar phases 2022](https://www.space.com/18880-moon-phases.html/)
-- [Mantle is 3D-printing manufacturing tooling](https://techcrunch.com/2022/09/06/mantle/)
-- [Open-source password manager Bitwarden raises $100M](https://techcrunch.com/2022/09/06/open-source-password-manager-bitwarden-raises-100m/)
-- [Cymulate snaps up $70M to help cybersecurity teams stress test their networks with attack simulations](https://techcrunch.com/2022/09/06/cymulate-snaps-up-70m-to-help-cybersecurity-teams-stress-test-their-networks-with-attack-simulations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
