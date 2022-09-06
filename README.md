@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The EU’s AI Act could have a chilling effect on open source efforts, experts warn](https://techcrunch.com/2022/09/06/the-eus-ai-act-could-have-a-chilling-effect-on-open-source-efforts-experts-warn/)
-- [Userpilot, a product-led growth platform for SaaS companies, raises $4.6M](https://techcrunch.com/2022/09/06/userpilot-a-product-led-growth-platform-for-saas-companies-raises-4-6m/)
-- [Welcome to YC and Apple week](https://techcrunch.com/2022/09/06/welcome-to-yc-and-apple-week/)
-- [4 tactics for building robust open source DevOps toolsets](https://techcrunch.com/2022/09/06/4-tactics-for-building-robust-open-source-devops-toolsets/)
-- [Last chance — the Labor Day rollback sale for Disrupt passes ends tonight](https://techcrunch.com/2022/09/06/last-chance-the-labor-day-rollback-sale-for-disrupt-passes-ends-tonight/)
+- [Earth&#39;s perilous journey through the Milky Way&#39;s spiral may shape the planet&#39;s geology](https://www.space.com/milky-way-journey-earth-geology-comets/)
+- [Lego Lunar Research Base review](https://www.space.com/lego-lunar-research-base-60350-review/)
+- [The YoloBox Pro is a one-stop shop for your live video productions](https://techcrunch.com/2022/09/06/the-yolobox-pro-is-a-one-stop-shop-for-your-live-video-productions/)
+- [Los Angeles school district warns of disruption as it battles ongoing ransomware attack](https://techcrunch.com/2022/09/06/los-angeles-unified-school-district-ransomware/)
+- [Save $300 on the Panasonic Lumix S5 camera](https://www.space.com/save-500-dollars-panasonic-lumix-s5-camera-amazon-deal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
