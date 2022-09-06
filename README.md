@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ZineOne raises cash to help e-commerce companies predict customer behavior](https://techcrunch.com/2022/09/06/zineone-raises-cash-to-help-ecommerce-companies-predict-customer-behavior/)
+- [What is the moon phase today? Lunar phases 2022](https://www.space.com/18880-moon-phases.html/)
+- [Mantle is 3D-printing manufacturing tooling](https://techcrunch.com/2022/09/06/mantle/)
 - [Open-source password manager Bitwarden raises $100M](https://techcrunch.com/2022/09/06/open-source-password-manager-bitwarden-raises-100m/)
 - [Cymulate snaps up $70M to help cybersecurity teams stress test their networks with attack simulations](https://techcrunch.com/2022/09/06/cymulate-snaps-up-70m-to-help-cybersecurity-teams-stress-test-their-networks-with-attack-simulations/)
-- [Seedstars Africa Ventures appoints new partner to back more founders in the continent](https://techcrunch.com/2022/09/06/seedstars-africa-ventures-appoints-new-partner-to-back-more-founders-in-the-continent/)
-- [Telescope deals: Top picks from Celestron, Sky-Watcher and others](https://www.space.com/telescopes-deals-sale-discount/)
-- [On This Day In Space: Sept. 6, 1947: First V2 rocket launches at sea](https://www.space.com/39251-on-this-day-in-space.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
