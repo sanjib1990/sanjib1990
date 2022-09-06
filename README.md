@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Open-source password manager Bitwarden raises $100M](https://techcrunch.com/2022/09/06/open-source-password-manager-bitwarden-raises-100m/)
 - [Cymulate snaps up $70M to help cybersecurity teams stress test their networks with attack simulations](https://techcrunch.com/2022/09/06/cymulate-snaps-up-70m-to-help-cybersecurity-teams-stress-test-their-networks-with-attack-simulations/)
 - [Seedstars Africa Ventures appoints new partner to back more founders in the continent](https://techcrunch.com/2022/09/06/seedstars-africa-ventures-appoints-new-partner-to-back-more-founders-in-the-continent/)
 - [Telescope deals: Top picks from Celestron, Sky-Watcher and others](https://www.space.com/telescopes-deals-sale-discount/)
-- [After 45 years, the 5-billion-year legacy of the Voyager 2 interstellar probe is just beginning](https://www.space.com/nasa-voyager-2-spacecraft-billion-year-legacy/)
-- [A month on &#39;Mars&#39;: Trekking through Ingenuity Valley](https://www.space.com/month-on-mars-ingenuity-valley/)
+- [On This Day In Space: Sept. 6, 1947: First V2 rocket launches at sea](https://www.space.com/39251-on-this-day-in-space.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
