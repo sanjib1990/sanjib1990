@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Solar-powered carmaker Lightyear raises $85M and gears up for production](https://techcrunch.com/2022/09/05/solar-powered-carmaker-lightyear-raises-85m-as-it-gears-up-for-production/)
+- [Vaonis Vespera Observation Station smart telescope review](https://www.space.com/vaonis-vespera-observation-station-smart-telescope-review/)
+- [One startup’s solution to the carbon-offsetting mess: downgrade the ‘middle-men’ resellers](https://techcrunch.com/2022/09/06/one-startups-solution-to-the-carbon-offsetting-mess-cut-out-the-middle-men-resellers/)
+- [Binance to stop supporting USDC, the second largest stablecoin](https://techcrunch.com/2022/09/05/binance-issuer-of-stablecoin-busd-to-discontinue-support-for-usdc-usdp-and-tusd/)
+- [Solar-powered carmaker Lightyear raises $81M and gears up for production](https://techcrunch.com/2022/09/05/solar-powered-carmaker-lightyear-raises-85m-as-it-gears-up-for-production/)
 - [Agritech company Cropin launches its cloud platform to digitize the agricultural industry](https://techcrunch.com/2022/09/05/agritech-company-cropin-launches-its-cloud-platform-to-digitize-the-agricultural-industry/)
-- [Cultivated Biosciences wants to make plant-based dairy ‘feel’ more like the real McCoy](https://techcrunch.com/2022/09/05/cultivated-biosciences-wants-to-make-plant-based-dairy-more-realistic/)
-- [Y Combinator, Global Brain back Tailor, a Japanese headless ERP startup](https://techcrunch.com/2022/09/05/y-combinator-global-brain-back-tailor-a-japanese-headless-erp-startup/)
-- [Max Q: Disrupt](https://techcrunch.com/2022/09/05/max-q-disrupt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
