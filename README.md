@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [James Webb Space Telescope catches mind-boggling image of baby stars in Tarantula Nebula](https://www.space.com/james-webb-space-telescope-tarantula/)
+- [Catch Mars near the bright star Aldebaran Tuesday night &lpar;Sept. 6&rpar;](https://www.space.com/mars-aldebaran-taurus-sept-06-22/)
 - [Parsing Samsung’s data breach notice](https://techcrunch.com/2022/09/06/parsing-samsung-july-breach-notice/)
 - [Paradigm shifts your DEI efforts from aspirational to data-driven](https://techcrunch.com/2022/09/06/paradigm-shifts-your-dei-efforts-from-aspirational-to-data-driven/)
 - [Marc Lore chews the fat about reinventing at-home dining at Disrupt](https://techcrunch.com/2022/09/06/marc-lore-chews-the-fat-about-reinventing-at-home-dining-at-disrupt/)
-- [One year later, Apple’s privacy changes helped boost its own ads business, report finds](https://techcrunch.com/2022/09/06/one-year-later-apples-privacy-changes-helped-boost-its-own-ads-business-report-finds/)
-- [What comes after unicorns and centaurs?](https://techcrunch.com/2022/09/06/what-comes-after-unicorns-and-centaurs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
