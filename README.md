@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Drover AI’s Alex Nesic on using tech to regulate the scooter market](https://techcrunch.com/2022/09/06/drover-ais-alex-nesic-on-using-tech-to-regulate-the-scooter-market/)
-- [JusticeText raises $2.2M to increase transparency in criminal evidence-gathering](https://techcrunch.com/2022/09/06/justicetext-raises-2-2m-to-increase-transparency-in-criminal-evidence-gathering/)
-- [Starburst candy to send fans&#39; TikTok videos into outer space](https://www.space.com/starburst-ask-the-universe-tiktok-challenge/)
-- [Varjo, an early mover in building XR headsets and software for enterprises, taps $40M](https://techcrunch.com/2022/09/06/varjo-an-early-mover-in-building-xr-headsets-and-software-for-enterprises-taps-40m/)
-- [ZineOne raises cash to help e-commerce companies predict customer behavior](https://techcrunch.com/2022/09/06/zineone-raises-cash-to-help-ecommerce-companies-predict-customer-behavior/)
+- [The EU’s AI Act could have a chilling effect on open source efforts, experts warn](https://techcrunch.com/2022/09/06/the-eus-ai-act-could-have-a-chilling-effect-on-open-source-efforts-experts-warn/)
+- [Userpilot, a product-led growth platform for SaaS companies, raises $4.6M](https://techcrunch.com/2022/09/06/userpilot-a-product-led-growth-platform-for-saas-companies-raises-4-6m/)
+- [Welcome to YC and Apple week](https://techcrunch.com/2022/09/06/welcome-to-yc-and-apple-week/)
+- [4 tactics for building robust open source DevOps toolsets](https://techcrunch.com/2022/09/06/4-tactics-for-building-robust-open-source-devops-toolsets/)
+- [Last chance — the Labor Day rollback sale for Disrupt passes ends tonight](https://techcrunch.com/2022/09/06/last-chance-the-labor-day-rollback-sale-for-disrupt-passes-ends-tonight/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
