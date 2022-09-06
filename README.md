@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [James Webb Space Telescope catches mind-boggling image of baby stars in Tarantula Nebula](https://www.space.com/james-webb-space-telescope-tarantula/)
-- [Catch Mars near the bright star Aldebaran Tuesday night &lpar;Sept. 6&rpar;](https://www.space.com/mars-aldebaran-taurus-sept-06-22/)
-- [Parsing Samsung’s data breach notice](https://techcrunch.com/2022/09/06/parsing-samsung-july-breach-notice/)
-- [Paradigm shifts your DEI efforts from aspirational to data-driven](https://techcrunch.com/2022/09/06/paradigm-shifts-your-dei-efforts-from-aspirational-to-data-driven/)
-- [Marc Lore chews the fat about reinventing at-home dining at Disrupt](https://techcrunch.com/2022/09/06/marc-lore-chews-the-fat-about-reinventing-at-home-dining-at-disrupt/)
+- [Odd aurora-like STEVE phenomenon captured by Michigan-based photographer](https://www.space.com/steve-aurora-glow-above-michigan-image/)
+- [Comcast and Paramount’s streaming service SkyShowtime launches in the Nordics this month](https://techcrunch.com/2022/09/06/comcast-and-paramounts-streaming-service-skyshowtime-launches-in-the-nordics-this-month/)
+- [Instagram disabled Pornhub’s account for unknown reasons](https://techcrunch.com/2022/09/06/instagram-disabled-pornhubs-account-for-unknown-reasons/)
+- [Pearl Jam&#39;s &#39;Gigaton&#39; boldly goes to the Red Planet, has &#39;Apollo&#39; exclusive on SiriusXM](https://www.space.com/pearl-jam-gigaton-record-review.html/)
+- [LineupSupply’s app turns music festival posters into Spotify playlists](https://techcrunch.com/2022/09/06/lineupsupplys-app-turns-music-festival-posters-into-spotify-playlists/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
