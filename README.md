@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch Star Trek Day 2022 from Paramount Plus for free on Sept. 8](https://www.space.com/star-trek-day-2022-webcast-free/)
-- [US military, Rocket Lab sign deal to study cargo launches bound for Earth](https://www.space.com/us-military-rocket-lab-cargo-launch-deliveries/)
-- [Join the Dark Side in new &#39;Star Wars Villainous&#39; board game](https://www.space.com/star-wars-villainous-board-game/)
-- [Elon Musk can lean on the Twitter whistleblower but he can’t push the trial date back](https://techcrunch.com/2022/09/07/musk-twitter-whisteblower-amendment/)
-- [iOS 16 will be available on September 12](https://techcrunch.com/2022/09/07/ios-16-will-be-available-on-september-12/)
+- [Let’s check out the new AirPods Pro](https://techcrunch.com/2022/09/07/lets-check-out-the-new-airpods-pro/)
+- [Here are the best tweets about Apple’s “Far Out” event](https://techcrunch.com/2022/09/07/here-are-the-best-tweets-about-apples-far-out-event/)
+- [Up close with the Apple Watch Ultra](https://techcrunch.com/2022/09/07/up-close-with-the-apple-watch-ultra/)
+- [Investors shrug, once again, at Apple’s latest deluge of product news](https://techcrunch.com/2022/09/07/investors-shrug-once-again-at-apples-latest-deluge-of-product-news/)
+- [Our 11 favorite companies from YC’s S22 Demo Day: Part 1](https://techcrunch.com/2022/09/07/11-favorite-yc-demo-day-s22-startups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
