@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [We’re live at Apple’s iPhone 14 event](https://techcrunch.com/2022/09/07/were-live-at-apples-iphone-14-event/)
-- [Regal secures capital to grow its platform for branded calls and texts](https://techcrunch.com/2022/09/07/regal-secures-capital-to-grow-its-platform-for-branded-calls-and-texts/)
-- [Kapor Capital, under new leadership, closes its largest fund to date](https://techcrunch.com/2022/09/07/kapor-capital-under-new-leadership-closes-its-largest-fund-to-date/)
-- [Remento, a storytelling app for preserving family stories, raises $3M and debuts its iOS app](https://techcrunch.com/2022/09/07/remento-raises-3m-debuts-ios-app/)
-- [Astronomers spot 2 intriguing alien worlds around ultracool star](https://www.space.com/exoplanet-discovery-around-ultracool-dwarf-star/)
+- [Countdown Capital raises $15 million to back the next industrial revolution](https://techcrunch.com/2022/09/07/countdown-capital-raises-15-million-to-back-the-next-industrial-revolution/)
+- [Smart vent startup Flair nabs $7.6M Series A to decarbonize buildings](https://techcrunch.com/2022/09/07/smart-vent-startup-flair-nabs-7-6m-series-a-to-decarbonize-buildings/)
+- [Bond Pet Foods enters meat proteins phase with $17.5M Series A](https://techcrunch.com/2022/09/07/bond-pet-foods-meat-proteins/)
+- [Carbyne snaps up $56M to speed up emergency services](https://techcrunch.com/2022/09/07/carbyne-snaps-up-56m-to-speed-up-emergency-services/)
+- [QA Wolf exits stealth with an end-to-end service for software testing](https://techcrunch.com/2022/09/07/qa-wolf-exits-stealth-with-an-end-to-end-service-for-software-testing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
