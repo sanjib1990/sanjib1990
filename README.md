@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The James Webb Space Telescope never disproved the Big Bang. Here&#39;s how that falsehood spread.](https://www.space.com/james-webb-space-telescope-science-denial/)
-- [Boston’s ClearMotion funded by Nio Capital to switch on in-car metaverse in China](https://techcrunch.com/2022/09/07/china-nio-capital-chassis-motion-control-company-clearmotion/)
-- [Massive asteroid 3 Juno shines in opposition on Wednesday &lpar;Sept. 7&rpar;](https://www.space.com/asteroid-3-juno-opposition-sept-7-22/)
-- [Rubik&#39;s Cube solved in 19 seconds during zero-gravity flight &lpar;video&rpar;](https://www.space.com/rubiks-cube-solved-zero-gravity-flight/)
-- [Watch Ariane 5 rocket launch big communications satellite from South America today](https://www.space.com/ariane-5-rocket-eutelsat-konnect-vhts-launch/)
+- [NowNow raises $13M seed, plans to scale its ecosystem of financial products across Africa](https://techcrunch.com/2022/09/07/nownow-raises-13m-seed-plans-to-scale-its-ecosystem-of-financial-products-across-africa/)
+- [India’s Silicon Valley grapples to deal with torrential rains, floods and power cuts](https://techcrunch.com/2022/09/07/bangalore-india-floods-startups/)
+- [PolyAI lands $40M to handle contact center calls automatically](https://techcrunch.com/2022/09/07/polyai-lands-40m-to-handle-contact-center-calls-automatically/)
+- [Muck Rack, the journalist database, raises $180M in its first outside funding](https://techcrunch.com/2022/09/07/muck-rack-the-journalist-database-raises-180m-in-its-first-outside-funding/)
+- [Edda wants to be the Bloomberg Terminal for private markets](https://techcrunch.com/2022/09/07/edda-wants-to-be-the-bloomberg-terminal-for-private-markets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
