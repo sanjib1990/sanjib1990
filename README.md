@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Let’s check out the new AirPods Pro](https://techcrunch.com/2022/09/07/lets-check-out-the-new-airpods-pro/)
-- [Here are the best tweets about Apple’s “Far Out” event](https://techcrunch.com/2022/09/07/here-are-the-best-tweets-about-apples-far-out-event/)
-- [Up close with the Apple Watch Ultra](https://techcrunch.com/2022/09/07/up-close-with-the-apple-watch-ultra/)
-- [Investors shrug, once again, at Apple’s latest deluge of product news](https://techcrunch.com/2022/09/07/investors-shrug-once-again-at-apples-latest-deluge-of-product-news/)
-- [Our 11 favorite companies from YC’s S22 Demo Day: Part 1](https://techcrunch.com/2022/09/07/11-favorite-yc-demo-day-s22-startups/)
+- [Twenty six years later, Quake gets ported to… Apple Watch?](https://techcrunch.com/2022/09/07/twenty-six-years-later-quake-gets-ported-to-apple-watch/)
+- [Daily Crunch: Apple launches new iPhone 14, a rugged Apple Watch, and more](https://techcrunch.com/2022/09/07/daily-crunch-apple-launches-new-iphone-14-a-rugged-apple-watch-and-more/)
+- [7 conversations with YC founders about their entrepreneurial journeys](https://techcrunch.com/2022/09/07/yc-demo-day-found-podcast/)
+- [Apple leans into the void with the iPhone 14 Pro](https://techcrunch.com/2022/09/07/apple-leans-into-the-void-with-the-iphone-14-pro/)
+- [Apple sneaks in a ‘Severance’ Season 2  teaser during its iPhone 14 event](https://techcrunch.com/2022/09/07/apple-sneaks-in-a-severance-season-2-teaser-during-its-iphone-14-event/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
