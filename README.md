@@ -98,7 +98,7 @@
 - [Just outside of Munich, a startup plans a new process to recycle Lithium-ion batteries](https://techcrunch.com/2022/09/06/just-outside-of-munich-a-startup-plans-a-new-process-to-recycle-lithium-ion-batteries/)
 - [Waysia raises €10M to deliver Asian grocery in Europe](https://techcrunch.com/2022/09/06/alorsfaim-deliver-asian-grocery-in-europe/)
 - [SnappRetail helps Pakistan’s kiryanas compete against supermarkets](https://techcrunch.com/2022/09/06/snappretail-helps-pakistans-kiryanas-compete-against-supermarkets/)
-- [Google Maps is expanding its eco-friendly navigation feature to 40 more countries](https://techcrunch.com/2022/09/06/google-maps-is-expanding-its-eco-friendly-navigation-feature-to-40-more-countries/)
+- [Google Maps is expanding its eco-friendly navigation feature to Europe](https://techcrunch.com/2022/09/06/google-maps-is-expanding-its-eco-friendly-navigation-feature-to-40-more-countries/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
