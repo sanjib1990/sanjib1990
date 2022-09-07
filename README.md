@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Juul agrees to pay $438.5M in its biggest settlement yet, while another vape maker gains steam](https://techcrunch.com/2022/09/06/juul-agrees-to-pay-438-5m-in-its-biggest-settlement-yet-while-another-vape-maker-gains-steam/)
-- [Daily Crunch: PSG, Battery Ventures invest $100M in open source password manager Bitwarden](https://techcrunch.com/2022/09/06/daily-crunch-psg-battery-ventures-invest-100m-in-open-source-password-manager-bitwarden/)
-- [Biden administration details plans for $50 billion in CHIPS Act funding](https://techcrunch.com/2022/09/06/biden-administration-details-plans-for-50-billion-in-chips-act-funding/)
-- [Discovery suggests red supergiant Betelgeuse was actually yellow 2,000 years ago](https://www.space.com/betelgeuse-red-supergiant-was-yellow/)
-- [Does economic and geopolitical instability affect your startup’s TAM?](https://techcrunch.com/2022/09/06/does-economic-and-geopolitical-instability-affect-your-startups-tam/)
+- [Josys secures $32M Series A for its SaaS management platform](https://techcrunch.com/2022/09/06/josys-secures-32m-series-a-for-its-saas-management-platform/)
+- [Nektar.ai exits stealth mode to plug CRM data leakages](https://techcrunch.com/2022/09/06/nektar-ai-exits-stealth-mode-to-plug-crm-data-leakages/)
+- [Don’t be silly, of course you can use EVs in cold weather](https://techcrunch.com/2022/09/06/ev-in-cold-weather/)
+- [NASA to replace seal on leaky Artemis 1 moon rocket at the launch pad](https://www.space.com/nasa-replace-seal-artemis-1-moon-rocket/)
+- [A video game industry veteran on making the art behind popular NFTs](https://techcrunch.com/2022/09/06/video-games-nfts-artists-web3-chain-reaction-podcast/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
