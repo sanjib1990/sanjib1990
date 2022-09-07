@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [As the economy falters, tracking the money behind the money](https://techcrunch.com/2022/09/07/as-the-economy-falters-tracking-the-money-behind-the-money/)
-- [Investors, pump up your pipeline at TechCrunch Disrupt](https://techcrunch.com/2022/09/07/investors-pump-up-your-pipeline-at-techcrunch-disrupt/)
-- [Missing carbon monoxide in planetary nurseries could be frozen in ice](https://www.space.com/missing-carbon-monoxide-protoplanetary-disks-explained/)
-- [Selling Sunset’s Christine Quinn on Found Live to talk about new venture RealOpen](https://techcrunch.com/2022/09/07/selling-sunsets-christine-quinn-on-found-live-to-talk-about-new-venture-realopen/)
-- [Y Combinator is doubling down on crypto founders despite market volatility](https://techcrunch.com/2022/09/07/y-combinator-crypto-investment-summer-2022/)
+- [Hotel giant IHG blames cyberattack for booking systems outage](https://techcrunch.com/2022/09/07/ihg-hotels-outage-cyberattack/)
+- [Twitter expands its crowdsourced fact-checking program ‘Birdwatch’ ahead of US midterms](https://techcrunch.com/2022/09/07/twitter-expands-its-crowdsourced-fact-checking-program-birdwatch-ahead-of-u-s-midterms/)
+- [Here’s where YC’s latest batch of founders are placing fintech bets](https://techcrunch.com/2022/09/07/yc-demo-day-summer-2022-fintech-investment-trends/)
+- [James Webb Space Telescope spots alien planet shrouded in weird sand-filled clouds](https://www.space.com/james-webb-space-telescope-exoplanet-sand-clouds/)
+- [Sony’s flopped ‘Morbius’ movie is coming to Netflix](https://techcrunch.com/2022/09/07/morbius-coming-to-netflix-minions-sony/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
