@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple introduces the Apple Watch Series 8 with a temperature sensor, crash detection and more](https://techcrunch.com/2022/09/07/apple-introduces-the-apple-watch-series-8-with-a-temperature-sensor-crash-detection-and-more/)
-- [Delving into YC’s diversity data following a category shakeup](https://techcrunch.com/2022/09/07/delving-into-ycs-diversity-data-following-a-category-shakeup/)
-- [Apple Watch Series 8 has new sensors that can detect when you’re in a car crash](https://techcrunch.com/2022/09/07/apple-watch-series-8-has-new-sensors-that-can-detect-when-youre-in-a-car-crash/)
-- [The new Apple Watch series 8 gets a pair of temperature sensors](https://techcrunch.com/2022/09/07/apple-watch-temperature-sensor/)
-- [Nextdoor and Vote.org partner to increase voter turnout for US midterms](https://techcrunch.com/2022/09/07/nextdoor-vote-org-partner/)
+- [The iPhone 14 ditches physical SIM cards for eSIM](https://techcrunch.com/2022/09/07/the-iphone-14-ditches-physical-sim-cards-for-esim/)
+- [The new AirPods Pro case has a built-in speaker, perfect for the ‘Find My’ app](https://techcrunch.com/2022/09/07/the-new-airpods-pro-case-has-a-built-in-speaker-perfect-for-the-find-my-app/)
+- [A month on &#39;Mars&#39;: Living on the EDGES](https://www.space.com/month-on-mars-living-on-the-edges/)
+- [Apple launches the new AirPods Pro with improved battery life and noise cancelation](https://techcrunch.com/2022/09/07/apple-launches-the-new-airpods-pro-with-improved-battery-life-and-noise-cancelation/)
+- [Apple unveils the iPhone 14 and iPhone 14 Plus](https://techcrunch.com/2022/09/07/apple-unveils-the-iphone-14-and-iphone-14-plus/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
