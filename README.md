@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Twenty six years later, Quake gets ported to… Apple Watch?](https://techcrunch.com/2022/09/07/twenty-six-years-later-quake-gets-ported-to-apple-watch/)
-- [Daily Crunch: Apple launches new iPhone 14, a rugged Apple Watch, and more](https://techcrunch.com/2022/09/07/daily-crunch-apple-launches-new-iphone-14-a-rugged-apple-watch-and-more/)
-- [7 conversations with YC founders about their entrepreneurial journeys](https://techcrunch.com/2022/09/07/yc-demo-day-found-podcast/)
-- [Apple leans into the void with the iPhone 14 Pro](https://techcrunch.com/2022/09/07/apple-leans-into-the-void-with-the-iphone-14-pro/)
-- [Apple sneaks in a ‘Severance’ Season 2  teaser during its iPhone 14 event](https://techcrunch.com/2022/09/07/apple-sneaks-in-a-severance-season-2-teaser-during-its-iphone-14-event/)
+- [NASA picks spacesuit maker for 1st Artemis moonwalkers](https://www.space.com/artemis-3-moon-spacesuits-axiom-space/)
+- [What, no Mini? Apple’s big event leaves small-phone fans empty handed](https://techcrunch.com/2022/09/07/what-no-mini-apples-big-event-leaves-small-phone-fans-empty-handed/)
+- [Ariane 5 rocket launches biggest Eutelsat satellite ever](https://www.space.com/ariane-5-rocket-eutelsat-konnect-vhts-launch/)
+- [NXgenPort wins the TechCrunch Live Minneapolis pitch-off](https://techcrunch.com/2022/09/07/nxgenport-wins-the-techcrunch-live-minneapolis-pitch-off/)
+- [Twenty-six years later, Quake gets ported to … Apple Watch?](https://techcrunch.com/2022/09/07/twenty-six-years-later-quake-gets-ported-to-apple-watch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
