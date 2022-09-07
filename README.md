@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Twitter will let you edit your tweet up to five times](https://techcrunch.com/2022/09/07/twitter-will-let-you-edit-your-tweet-up-to-five-times/)
-- [Watch Apple’s iPhone 14 event right here](https://techcrunch.com/2022/09/07/watch-apples-iphone-14-event-right-here/)
-- [Just outside of Munich, a startup plans a new process to recycle Lithium-ion batteries](https://techcrunch.com/2022/09/06/just-outside-of-munich-a-startup-plans-a-new-process-to-recycle-lithium-ion-batteries/)
-- [Waysia raises €10M to deliver Asian grocery in Europe](https://techcrunch.com/2022/09/06/alorsfaim-deliver-asian-grocery-in-europe/)
-- [SnappRetail helps Pakistan’s kiryanas compete against supermarkets](https://techcrunch.com/2022/09/06/snappretail-helps-pakistans-kiryanas-compete-against-supermarkets/)
+- [The James Webb Space Telescope never disproved the Big Bang. Here&#39;s how that falsehood spread.](https://www.space.com/james-webb-space-telescope-science-denial/)
+- [Boston’s ClearMotion funded by Nio Capital to switch on in-car metaverse in China](https://techcrunch.com/2022/09/07/china-nio-capital-chassis-motion-control-company-clearmotion/)
+- [Massive asteroid 3 Juno shines in opposition on Wednesday &lpar;Sept. 7&rpar;](https://www.space.com/asteroid-3-juno-opposition-sept-7-22/)
+- [Rubik&#39;s Cube solved in 19 seconds during zero-gravity flight &lpar;video&rpar;](https://www.space.com/rubiks-cube-solved-zero-gravity-flight/)
+- [Watch Ariane 5 rocket launch big communications satellite from South America today](https://www.space.com/ariane-5-rocket-eutelsat-konnect-vhts-launch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
