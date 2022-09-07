@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Countdown Capital raises $15 million to back the next industrial revolution](https://techcrunch.com/2022/09/07/countdown-capital-raises-15-million-to-back-the-next-industrial-revolution/)
-- [Smart vent startup Flair nabs $7.6M Series A to decarbonize buildings](https://techcrunch.com/2022/09/07/smart-vent-startup-flair-nabs-7-6m-series-a-to-decarbonize-buildings/)
-- [Bond Pet Foods enters meat proteins phase with $17.5M Series A](https://techcrunch.com/2022/09/07/bond-pet-foods-meat-proteins/)
-- [Carbyne snaps up $56M to speed up emergency services](https://techcrunch.com/2022/09/07/carbyne-snaps-up-56m-to-speed-up-emergency-services/)
-- [QA Wolf exits stealth with an end-to-end service for software testing](https://techcrunch.com/2022/09/07/qa-wolf-exits-stealth-with-an-end-to-end-service-for-software-testing/)
+- [Enter the virtual world with the HP Reverb G2 VR headset, now $200 off](https://www.space.com/hp-reverb-g2-vr-headset-deal-save-200-dollars/)
+- [Mesh Payments closes on $60M as demand for its corporate spend offering surges](https://techcrunch.com/2022/09/07/fintech-mesh-payments-closes-on-60m-as-demand-for-its-corporate-spend-offering-surges/)
+- [Online grocery company Misfits Market to acquire Imperfect Foods](https://techcrunch.com/2022/09/07/online-grocery-misfits-market-imperfect-foods/)
+- [Instacart acquires Rosie to offer new e-commerce solutions for local and independent retailers](https://techcrunch.com/2022/09/07/instacart-acquires-rosie/)
+- [SpaceX&#39;s private Polaris Dawn space crew talks about their ambitious mission &lpar;exclusive&rpar;](https://www.space.com/spacex-polaris-dawn-space-mission-ambitious-exclusive/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
