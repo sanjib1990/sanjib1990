@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Just outside of Munich, a startup plans a new process to recycle Lithium-ion batteries](https://techcrunch.com/2022/09/06/just-outside-of-munich-a-startup-plans-a-new-process-to-recycle-lithium-ion-batteries/)
+- [Waysia raises €10M to deliver Asian grocery in Europe](https://techcrunch.com/2022/09/06/alorsfaim-deliver-asian-grocery-in-europe/)
+- [SnappRetail helps Pakistan’s kiryanas compete against supermarkets](https://techcrunch.com/2022/09/06/snappretail-helps-pakistans-kiryanas-compete-against-supermarkets/)
 - [Google Maps is expanding its eco-friendly navigation feature to 40 more countries](https://techcrunch.com/2022/09/06/google-maps-is-expanding-its-eco-friendly-navigation-feature-to-40-more-countries/)
 - [Localyze, a SaaS for staff relocation, gets $35M as it gears up for US launch](https://techcrunch.com/2022/09/06/localyze-series-b/)
-- [Josys secures $32M Series A for its SaaS management platform](https://techcrunch.com/2022/09/06/josys-secures-32m-series-a-for-its-saas-management-platform/)
-- [Nektar.ai exits stealth mode to plug CRM data leakages](https://techcrunch.com/2022/09/06/nektar-ai-exits-stealth-mode-to-plug-crm-data-leakages/)
-- [Don’t be silly, of course you can use EVs in cold weather](https://techcrunch.com/2022/09/06/ev-in-cold-weather/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
