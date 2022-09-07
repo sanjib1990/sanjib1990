@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch Star Trek Day 2022 from Paramount Plus for free on Sept. 8](https://www.space.com/star-trek-day-2022-webcast-free/)
+- [US military, Rocket Lab sign deal to study cargo launches bound for Earth](https://www.space.com/us-military-rocket-lab-cargo-launch-deliveries/)
+- [Join the Dark Side in new &#39;Star Wars Villainous&#39; board game](https://www.space.com/star-wars-villainous-board-game/)
 - [Elon Musk can lean on the Twitter whistleblower but he can’t push the trial date back](https://techcrunch.com/2022/09/07/musk-twitter-whisteblower-amendment/)
 - [iOS 16 will be available on September 12](https://techcrunch.com/2022/09/07/ios-16-will-be-available-on-september-12/)
-- [Ethereum Merge may not ‘fix everything,’ but it could boost institutional adoption](https://techcrunch.com/2022/09/07/ethereum-merge-may-not-fix-everything-but-it-could-boost-institutional-adoption/)
-- [Go plug yourself, Apple, can we please just have USB-C on the iPhone already?](https://techcrunch.com/2022/09/07/apple-usb-c/)
-- [Here’s everything Apple announced today at its “Far Out” iPhone event](https://techcrunch.com/2022/09/07/heres-everything-apple-announced-today-at-its-far-out-iphone-event/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
