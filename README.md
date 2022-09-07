@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Enter the virtual world with the HP Reverb G2 VR headset, now $200 off](https://www.space.com/hp-reverb-g2-vr-headset-deal-save-200-dollars/)
-- [Mesh Payments closes on $60M as demand for its corporate spend offering surges](https://techcrunch.com/2022/09/07/fintech-mesh-payments-closes-on-60m-as-demand-for-its-corporate-spend-offering-surges/)
-- [Online grocery company Misfits Market to acquire Imperfect Foods](https://techcrunch.com/2022/09/07/online-grocery-misfits-market-imperfect-foods/)
-- [Instacart acquires Rosie to offer new e-commerce solutions for local and independent retailers](https://techcrunch.com/2022/09/07/instacart-acquires-rosie/)
-- [SpaceX&#39;s private Polaris Dawn space crew talks about their ambitious mission &lpar;exclusive&rpar;](https://www.space.com/spacex-polaris-dawn-space-mission-ambitious-exclusive/)
+- [As the economy falters, tracking the money behind the money](https://techcrunch.com/2022/09/07/as-the-economy-falters-tracking-the-money-behind-the-money/)
+- [Investors, pump up your pipeline at TechCrunch Disrupt](https://techcrunch.com/2022/09/07/investors-pump-up-your-pipeline-at-techcrunch-disrupt/)
+- [Missing carbon monoxide in planetary nurseries could be frozen in ice](https://www.space.com/missing-carbon-monoxide-protoplanetary-disks-explained/)
+- [Selling Sunset’s Christine Quinn on Found Live to talk about new venture RealOpen](https://techcrunch.com/2022/09/07/selling-sunsets-christine-quinn-on-found-live-to-talk-about-new-venture-realopen/)
+- [Y Combinator is doubling down on crypto founders despite market volatility](https://techcrunch.com/2022/09/07/y-combinator-crypto-investment-summer-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
