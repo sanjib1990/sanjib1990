@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NowNow raises $13M seed, plans to scale its ecosystem of financial products across Africa](https://techcrunch.com/2022/09/07/nownow-raises-13m-seed-plans-to-scale-its-ecosystem-of-financial-products-across-africa/)
-- [India’s Silicon Valley grapples to deal with torrential rains, floods and power cuts](https://techcrunch.com/2022/09/07/bangalore-india-floods-startups/)
-- [PolyAI lands $40M to handle contact center calls automatically](https://techcrunch.com/2022/09/07/polyai-lands-40m-to-handle-contact-center-calls-automatically/)
-- [Muck Rack, the journalist database, raises $180M in its first outside funding](https://techcrunch.com/2022/09/07/muck-rack-the-journalist-database-raises-180m-in-its-first-outside-funding/)
-- [Edda wants to be the Bloomberg Terminal for private markets](https://techcrunch.com/2022/09/07/edda-wants-to-be-the-bloomberg-terminal-for-private-markets/)
+- [We’re live at Apple’s iPhone 14 event](https://techcrunch.com/2022/09/07/were-live-at-apples-iphone-14-event/)
+- [Regal secures capital to grow its platform for branded calls and texts](https://techcrunch.com/2022/09/07/regal-secures-capital-to-grow-its-platform-for-branded-calls-and-texts/)
+- [Kapor Capital, under new leadership, closes its largest fund to date](https://techcrunch.com/2022/09/07/kapor-capital-under-new-leadership-closes-its-largest-fund-to-date/)
+- [Remento, a storytelling app for preserving family stories, raises $3M and debuts its iOS app](https://techcrunch.com/2022/09/07/remento-raises-3m-debuts-ios-app/)
+- [Astronomers spot 2 intriguing alien worlds around ultracool star](https://www.space.com/exoplanet-discovery-around-ultracool-dwarf-star/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
