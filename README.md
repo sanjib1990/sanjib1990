@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The iPhone 14 ditches physical SIM cards for eSIM](https://techcrunch.com/2022/09/07/the-iphone-14-ditches-physical-sim-cards-for-esim/)
-- [The new AirPods Pro case has a built-in speaker, perfect for the ‘Find My’ app](https://techcrunch.com/2022/09/07/the-new-airpods-pro-case-has-a-built-in-speaker-perfect-for-the-find-my-app/)
-- [A month on &#39;Mars&#39;: Living on the EDGES](https://www.space.com/month-on-mars-living-on-the-edges/)
-- [Apple launches the new AirPods Pro with improved battery life and noise cancelation](https://techcrunch.com/2022/09/07/apple-launches-the-new-airpods-pro-with-improved-battery-life-and-noise-cancelation/)
-- [Apple unveils the iPhone 14 and iPhone 14 Plus](https://techcrunch.com/2022/09/07/apple-unveils-the-iphone-14-and-iphone-14-plus/)
+- [Elon Musk can lean on the Twitter whistleblower but he can’t push the trial date back](https://techcrunch.com/2022/09/07/musk-twitter-whisteblower-amendment/)
+- [iOS 16 will be available on September 12](https://techcrunch.com/2022/09/07/ios-16-will-be-available-on-september-12/)
+- [Ethereum Merge may not ‘fix everything,’ but it could boost institutional adoption](https://techcrunch.com/2022/09/07/ethereum-merge-may-not-fix-everything-but-it-could-boost-institutional-adoption/)
+- [Go plug yourself, Apple, can we please just have USB-C on the iPhone already?](https://techcrunch.com/2022/09/07/apple-usb-c/)
+- [Here’s everything Apple announced today at its “Far Out” iPhone event](https://techcrunch.com/2022/09/07/heres-everything-apple-announced-today-at-its-far-out-iphone-event/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
