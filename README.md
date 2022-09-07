@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hotel giant IHG blames cyberattack for booking systems outage](https://techcrunch.com/2022/09/07/ihg-hotels-outage-cyberattack/)
-- [Twitter expands its crowdsourced fact-checking program ‘Birdwatch’ ahead of US midterms](https://techcrunch.com/2022/09/07/twitter-expands-its-crowdsourced-fact-checking-program-birdwatch-ahead-of-u-s-midterms/)
-- [Here’s where YC’s latest batch of founders are placing fintech bets](https://techcrunch.com/2022/09/07/yc-demo-day-summer-2022-fintech-investment-trends/)
-- [James Webb Space Telescope spots alien planet shrouded in weird sand-filled clouds](https://www.space.com/james-webb-space-telescope-exoplanet-sand-clouds/)
-- [Sony’s flopped ‘Morbius’ movie is coming to Netflix](https://techcrunch.com/2022/09/07/morbius-coming-to-netflix-minions-sony/)
+- [Apple introduces the Apple Watch Series 8 with a temperature sensor, crash detection and more](https://techcrunch.com/2022/09/07/apple-introduces-the-apple-watch-series-8-with-a-temperature-sensor-crash-detection-and-more/)
+- [Delving into YC’s diversity data following a category shakeup](https://techcrunch.com/2022/09/07/delving-into-ycs-diversity-data-following-a-category-shakeup/)
+- [Apple Watch Series 8 has new sensors that can detect when you’re in a car crash](https://techcrunch.com/2022/09/07/apple-watch-series-8-has-new-sensors-that-can-detect-when-youre-in-a-car-crash/)
+- [The new Apple Watch series 8 gets a pair of temperature sensors](https://techcrunch.com/2022/09/07/apple-watch-temperature-sensor/)
+- [Nextdoor and Vote.org partner to increase voter turnout for US midterms](https://techcrunch.com/2022/09/07/nextdoor-vote-org-partner/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
