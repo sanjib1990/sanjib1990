@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Week In Space podcast: Episode 27 — The rise of space tourism with Dylan Taylor](https://www.space.com/this-week-in-space-podcast-twit/)
+- [New &#39;Star Trek: Resurgence&#39; comic book is a prequel to upcoming video game](https://www.space.com/star-trek-resurgence-comic-book-idw/)
 - [Tesla wants your vote for new Supercharger locations](https://techcrunch.com/2022/09/08/tesla-wants-your-vote-for-new-supercharger-locations/)
-- [Our 10 favorite startups from YC’s S22 Demo Day: Part 2](https://techcrunch.com/2022/09/08/our-10-favorite-startups-from-ycs-s22-demo-day-part-2/)
-- [Rocket Lab, Sierra Space sign agreements under US military’s rocket cargo project](https://techcrunch.com/2022/09/08/rocket-lab-sierra-space-sign-agreements-under-space-forces-rocket-cargo-program/)
-- [YC Demo Day did not have a very long list of creator companies, but here’s who stood out](https://techcrunch.com/2022/09/08/yc-demo-day-s-22-creator-company-list/)
-- [Google upgrades its Apple AirDrop competitor ‘Nearby Share’ and five other Android updates](https://techcrunch.com/2022/09/08/google-upgrades-its-apple-airdrop-competitor-nearby-share-and-five-other-android-updates/)
+- [New satellite images reveal largest Pakistani lake overflowing dangerously](https://www.space.com/pakistan-flooding-largest-lake-overflowing-satellites/)
+- [A new way to teach science &lpar;op-ed&rpar;](https://www.space.com/a-new-way-to-teach-science-op-ed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
