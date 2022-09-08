@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA, other space agencies mourn passing of Queen Elizabeth II](https://www.space.com/nasa-space-agencies-mourn-passing-queen-elizabeth/)
+- [Daily Crunch: Tim Cook weighs in on standardized messaging features: ‘Buy your mom an iPhone’](https://techcrunch.com/2022/09/08/daily-crunch-tim-cook-weighs-in-on-standardized-messaging-features-buy-your-mom-an-iphone/)
 - [This Week In Space podcast: Episode 27 — The rise of space tourism with Dylan Taylor](https://www.space.com/this-week-in-space-podcast-twit/)
 - [New &#39;Star Trek: Resurgence&#39; comic book is a prequel to upcoming video game](https://www.space.com/star-trek-resurgence-comic-book-idw/)
 - [Tesla wants your vote for new Supercharger locations](https://techcrunch.com/2022/09/08/tesla-wants-your-vote-for-new-supercharger-locations/)
-- [New satellite images reveal largest Pakistani lake overflowing dangerously](https://www.space.com/pakistan-flooding-largest-lake-overflowing-satellites/)
-- [A new way to teach science &lpar;op-ed&rpar;](https://www.space.com/a-new-way-to-teach-science-op-ed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
