@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New class of exoplanet! Half-rock, half-water worlds could be abodes for life](https://www.space.com/water-rich-exoplanets-red-dwarfs-potentially-habitable/)
+- [NASA targets Sept. 23 for next Artemis 1 launch attempt, but a lot has to go right](https://www.space.com/artemis-1-moon-mission-next-launch-try-september-2022/)
+- [Let’s get in the weeds about fintech AUM](https://techcrunch.com/2022/09/08/lets-get-in-the-weeds-about-fintech-aum/)
 - [Lolli’s Alex Adelman talks about cashing in bitcoin rewards at TC Sessions: Crypto](https://techcrunch.com/2022/09/08/lollis-alex-adelman-talks-about-cashing-in-bitcoin-rewards-at-tc-sessions-crypto/)
 - [YC’s latest batch cuts African startup presence by more than half](https://techcrunch.com/2022/09/08/ycs-latest-batch-cuts-african-startup-presence-by-more-than-half/)
-- [Watch the TechCrunch Live Minneapolis Pitch-Off right here](https://techcrunch.com/2022/09/08/watch-the-techcrunch-live-minneapolis-pitch-off-right-here/)
-- [Huawei offers satellite SOS in China where Apple’s is unavailable](https://techcrunch.com/2022/09/08/huawei-apple-sattellite-sos/)
-- [All the cool kids sign up for work exchange at TC Disrupt](https://techcrunch.com/2022/09/08/all-the-cool-kids-sign-up-for-work-exchange-at-tc-disrupt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
