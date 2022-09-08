@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [5 metrics Series A investors look for at dev tools startups](https://techcrunch.com/2022/09/08/5-metrics-series-a-investors-look-for-at-developer-tools-startups/)
-- [Avalara shareholder wants to block its $8.4B sale to Vista Equity Partners](https://techcrunch.com/2022/09/08/one-of-avalaras-largest-shareholders-wants-to-block-its-8-4b-sale-to-vista-equity-partners/)
-- [Spotify exec says the company will begin testing audiobooks ‘very soon’](https://techcrunch.com/2022/09/08/spotify-begin-testing-audiobooks-very-soon/)
-- [Come play YC bingo with TechCrunch](https://techcrunch.com/2022/09/08/yc-demo-day-bingo-with-techcrunch/)
-- [Tim Cook would rather have you buy an iPhone than use RCS](https://techcrunch.com/2022/09/08/tim-cook-would-rather-have-you-buy-an-iphone-than-use-rcs/)
+- [Lolli’s Alex Adelman talks about cashing in bitcoin rewards at TC Sessions: Crypto](https://techcrunch.com/2022/09/08/lollis-alex-adelman-talks-about-cashing-in-bitcoin-rewards-at-tc-sessions-crypto/)
+- [YC’s latest batch cuts African startup presence by more than half](https://techcrunch.com/2022/09/08/ycs-latest-batch-cuts-african-startup-presence-by-more-than-half/)
+- [Watch the TechCrunch Live Minneapolis Pitch-Off right here](https://techcrunch.com/2022/09/08/watch-the-techcrunch-live-minneapolis-pitch-off-right-here/)
+- [Huawei offers satellite SOS in China where Apple’s is unavailable](https://techcrunch.com/2022/09/08/huawei-apple-sattellite-sos/)
+- [All the cool kids sign up for work exchange at TC Disrupt](https://techcrunch.com/2022/09/08/all-the-cool-kids-sign-up-for-work-exchange-at-tc-disrupt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
