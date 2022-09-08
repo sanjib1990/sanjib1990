@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [US Postal Service releases James Webb Space Telescope stamp, collectibles](https://www.space.com/usps-james-webb-space-telescope-stamp-issued/)
-- [Want to survive the crypto winter? Start by inspiring regulatory confidence](https://techcrunch.com/2022/09/08/want-to-survive-the-crypto-winter-start-by-inspiring-regulatory-confidence/)
-- [See the conjunction of the moon and Saturn on Thursday &lpar;Sept. 8&rpar;](https://www.space.com/moon-saturn-conjunction-sept-08-22/)
-- [Mercedes-Benz and Rivian partner to jointly build electric vans in Europe](https://techcrunch.com/2022/09/08/mercedes-benz-and-rivian-partner-to-jointly-build-electric-vans-in-europe/)
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
+- [5 metrics Series A investors look for at dev tools startups](https://techcrunch.com/2022/09/08/5-metrics-series-a-investors-look-for-at-developer-tools-startups/)
+- [Avalara shareholder wants to block its $8.4B sale to Vista Equity Partners](https://techcrunch.com/2022/09/08/one-of-avalaras-largest-shareholders-wants-to-block-its-8-4b-sale-to-vista-equity-partners/)
+- [Spotify exec says the company will begin testing audiobooks ‘very soon’](https://techcrunch.com/2022/09/08/spotify-begin-testing-audiobooks-very-soon/)
+- [Come play YC bingo with TechCrunch](https://techcrunch.com/2022/09/08/yc-demo-day-bingo-with-techcrunch/)
+- [Tim Cook would rather have you buy an iPhone than use RCS](https://techcrunch.com/2022/09/08/tim-cook-would-rather-have-you-buy-an-iphone-than-use-rcs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
