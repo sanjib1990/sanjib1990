@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Odyssey Energy Solutions continues quest to electrify developing economies with $5.4M seed](https://techcrunch.com/2022/09/08/odyssey-energy-solutions-continues-quest-to-electrify-developing-economies-with-5-4m-seed/)
+- [7 AI  startups that stood out in YC’s Summer ’22 batch](https://techcrunch.com/2022/09/08/7-ai-startups-that-stood-out-in-ycs-summer-22-batch/)
+- [Twitter is testing a ‘share to WhatsApp’ button in India](https://techcrunch.com/2022/09/08/twitter-is-testing-a-share-to-whatsapp-button-in-india/)
+- [North Korea’s Lazarus hackers are exploiting Log4j flaw to hack US energy companies](https://techcrunch.com/2022/09/08/north-korea-lazarus-united-states-energy/)
 - [Arize lands $38M to grow its MLOps platform for the enterprise](https://techcrunch.com/2022/09/08/arize-lands-38m-to-grow-its-mlops-platform-for-the-enterprise/)
-- [YouTube TV delivers 5.1 surround sound to Apple TV and Fire TV devices](https://techcrunch.com/2022/09/08/youtube-tv-delivers-5-1-surround-sound-to-apple-tv-and-fire-tv-devices/)
-- [Google and Solo.io bring Ambient Mesh to Istio](https://techcrunch.com/2022/09/08/google-and-solo-io-bring-an-ambient-mesh-to-istio/)
-- [Lunar mining and moon land claims fall into a gray area of international law, but negotiations are underway to avoid conflict and damage to spacecraft](https://www.space.com/moon-gray-area-international-law/)
-- [Latana secures cash injection to grow its mobile platform for product research](https://techcrunch.com/2022/09/08/latana-secures-cash-injection-to-grow-its-mobile-platform-for-product-research/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
