@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [VCs at BBGV, Kapor, Stellation and Tusk round out Startup Battlefield judges](https://techcrunch.com/2022/09/08/vcs-at-bbgv-kapor-stellation-and-tusk-round-out-startup-battlefield-judges/)
-- [Mullen acquires controlling interest in EV startup Bollinger Motors](https://techcrunch.com/2022/09/08/mullen-acquires-controlling-interest-in-ev-startup-bollinger-motors/)
-- [The biggest moonshots in YC’s S22 batch](https://techcrunch.com/2022/09/08/the-biggest-moonshots-in-ycs-s22-batch/)
-- [Boom Supersonic and Rolls-Royce part ways on engine development](https://www.space.com/boom-supersonic-rolls-royce-engine-split/)
-- [Why this Californian founder moved to Minneapolis to build a B2B fintech](https://techcrunch.com/2022/09/08/why-this-californian-founder-moved-to-minneapolis-to-build-a-b2b-fintech/)
+- [Tesla wants your vote for new Supercharger locations](https://techcrunch.com/2022/09/08/tesla-wants-your-vote-for-new-supercharger-locations/)
+- [Our 10 favorite startups from YC’s S22 Demo Day: Part 2](https://techcrunch.com/2022/09/08/our-10-favorite-startups-from-ycs-s22-demo-day-part-2/)
+- [Rocket Lab, Sierra Space sign agreements under US military’s rocket cargo project](https://techcrunch.com/2022/09/08/rocket-lab-sierra-space-sign-agreements-under-space-forces-rocket-cargo-program/)
+- [YC Demo Day did not have a very long list of creator companies, but here’s who stood out](https://techcrunch.com/2022/09/08/yc-demo-day-s-22-creator-company-list/)
+- [Google upgrades its Apple AirDrop competitor ‘Nearby Share’ and five other Android updates](https://techcrunch.com/2022/09/08/google-upgrades-its-apple-airdrop-competitor-nearby-share-and-five-other-android-updates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
