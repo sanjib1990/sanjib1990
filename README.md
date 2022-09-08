@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bose reduces size and amps up noise canceling for the $299 QuietComfort Earbuds II](https://techcrunch.com/2022/09/07/bose-reduces-size-and-amps-up-noise-canceling-for-the-299-quietcomfort-earbuds-ii/)
+- [Lightspeed Venture Partners has hired podcasting guru Michael Mignano as a partner](https://techcrunch.com/2022/09/07/lightspeed-venture-partners-has-hired-podcasting-guru-michael-mignano-as-a-partner/)
+- [Adtech’s compliance theatre is headed to Europe’s top court](https://techcrunch.com/2022/09/07/iab-europe-tcf-gdpr-breach-appeal/)
 - [NASA picks spacesuit maker for 1st Artemis moonwalkers](https://www.space.com/artemis-3-moon-spacesuits-axiom-space/)
-- [What, no Mini? Apple’s big event leaves small-phone fans empty handed](https://techcrunch.com/2022/09/07/what-no-mini-apples-big-event-leaves-small-phone-fans-empty-handed/)
-- [Ariane 5 rocket launches biggest Eutelsat satellite ever](https://www.space.com/ariane-5-rocket-eutelsat-konnect-vhts-launch/)
-- [NXgenPort wins the TechCrunch Live Minneapolis pitch-off](https://techcrunch.com/2022/09/07/nxgenport-wins-the-techcrunch-live-minneapolis-pitch-off/)
-- [Twenty-six years later, Quake gets ported to … Apple Watch?](https://techcrunch.com/2022/09/07/twenty-six-years-later-quake-gets-ported-to-apple-watch/)
+- [What, no Mini? Apple’s big event leaves small-phone fans empty-handed](https://techcrunch.com/2022/09/07/what-no-mini-apples-big-event-leaves-small-phone-fans-empty-handed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
