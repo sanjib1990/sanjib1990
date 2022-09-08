@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Shipmates makes order fulfillment less tedious for the Philippines’ online sellers](https://techcrunch.com/2022/09/07/shipmates-makes-order-fulfillment-less-tedious-for-the-philippines-online-sellers/)
+- [Virtual research institute battles Long COVID with backing from Ethereum co-creator Vitalik Buterin](https://techcrunch.com/2022/09/07/new-uk-nonprofit-startup-battles-long-covid-with-the-backing-of-ethereum-co-creator-vitalik-buterin/)
+- [Sequoia India and SEA taps international operators to help startups launch and expand overseas](https://techcrunch.com/2022/09/07/sequoia-india-taps-international-operators-to-help-startups-launch-and-expand-overseas/)
+- [Edupia raises Series A to close the education gap in Vietnam](https://techcrunch.com/2022/09/07/edupia-raises-series-a-to-close-the-education-gap-in-vietnam/)
 - [Bose reduces size and amps up noise canceling for the $299 QuietComfort Earbuds II](https://techcrunch.com/2022/09/07/bose-reduces-size-and-amps-up-noise-canceling-for-the-299-quietcomfort-earbuds-ii/)
-- [Lightspeed Venture Partners has hired podcasting guru Michael Mignano as a partner](https://techcrunch.com/2022/09/07/lightspeed-venture-partners-has-hired-podcasting-guru-michael-mignano-as-a-partner/)
-- [Adtech’s compliance theatre is headed to Europe’s top court](https://techcrunch.com/2022/09/07/iab-europe-tcf-gdpr-breach-appeal/)
-- [NASA picks spacesuit maker for 1st Artemis moonwalkers](https://www.space.com/artemis-3-moon-spacesuits-axiom-space/)
-- [What, no Mini? Apple’s big event leaves small-phone fans empty-handed](https://techcrunch.com/2022/09/07/what-no-mini-apples-big-event-leaves-small-phone-fans-empty-handed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
