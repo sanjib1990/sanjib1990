@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Jeep unveils the first three EVs coming to market, starting in 2023](https://techcrunch.com/2022/09/08/jeep-to-begin-launching-evs-in-2023/)
-- [Synthetic DNA startup Catalog partners with Seagate for its DNA-based data storage platform](https://techcrunch.com/2022/09/08/synthetic-dna-startup-catalog-partners-with-seagate-for-its-dna-based-data-storage-platform/)
-- [On This Day In Space: Sept. 8, 2004: NASA&#39;s Genesis spacecraft crash-lands in Utah](https://www.space.com/39251-on-this-day-in-space.html/)
-- [Online university Nexford will use $8M to plug affordability and relevance gaps in education](https://techcrunch.com/2022/09/08/online-university-nexford-will-use-8m-to-plug-affordability-and-relevance-gaps-in-education/)
-- [UK’s FocalPoint raises $17M for its software-based approach to repairing the flaws of GPS](https://techcrunch.com/2022/09/08/focalpoint-gps-series-c/)
+- [Arize lands $38M to grow its MLOps platform for the enterprise](https://techcrunch.com/2022/09/08/arize-lands-38m-to-grow-its-mlops-platform-for-the-enterprise/)
+- [YouTube TV delivers 5.1 surround sound to Apple TV and Fire TV devices](https://techcrunch.com/2022/09/08/youtube-tv-delivers-5-1-surround-sound-to-apple-tv-and-fire-tv-devices/)
+- [Google and Solo.io bring Ambient Mesh to Istio](https://techcrunch.com/2022/09/08/google-and-solo-io-bring-an-ambient-mesh-to-istio/)
+- [Lunar mining and moon land claims fall into a gray area of international law, but negotiations are underway to avoid conflict and damage to spacecraft](https://www.space.com/moon-gray-area-international-law/)
+- [Latana secures cash injection to grow its mobile platform for product research](https://techcrunch.com/2022/09/08/latana-secures-cash-injection-to-grow-its-mobile-platform-for-product-research/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
