@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Odyssey Energy Solutions continues quest to electrify developing economies with $5.4M seed](https://techcrunch.com/2022/09/08/odyssey-energy-solutions-continues-quest-to-electrify-developing-economies-with-5-4m-seed/)
-- [7 AI  startups that stood out in YC’s Summer ’22 batch](https://techcrunch.com/2022/09/08/7-ai-startups-that-stood-out-in-ycs-summer-22-batch/)
-- [Twitter is testing a ‘share to WhatsApp’ button in India](https://techcrunch.com/2022/09/08/twitter-is-testing-a-share-to-whatsapp-button-in-india/)
-- [North Korea’s Lazarus hackers are exploiting Log4j flaw to hack US energy companies](https://techcrunch.com/2022/09/08/north-korea-lazarus-united-states-energy/)
-- [Arize lands $38M to grow its MLOps platform for the enterprise](https://techcrunch.com/2022/09/08/arize-lands-38m-to-grow-its-mlops-platform-for-the-enterprise/)
+- [US Postal Service releases James Webb Space Telescope stamp, collectibles](https://www.space.com/usps-james-webb-space-telescope-stamp-issued/)
+- [Want to survive the crypto winter? Start by inspiring regulatory confidence](https://techcrunch.com/2022/09/08/want-to-survive-the-crypto-winter-start-by-inspiring-regulatory-confidence/)
+- [See the conjunction of the moon and Saturn on Thursday &lpar;Sept. 8&rpar;](https://www.space.com/moon-saturn-conjunction-sept-08-22/)
+- [Mercedes-Benz and Rivian partner to jointly build electric vans in Europe](https://techcrunch.com/2022/09/08/mercedes-benz-and-rivian-partner-to-jointly-build-electric-vans-in-europe/)
+- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
