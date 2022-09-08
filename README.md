@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why this Californian founder moved to Minneapolis to build a B2B fintech](https://techcrunch.com/2022/09/08/why-this-californian-founder-moved-to-minneapolis-to-build-a-b2b-fintech/)
+- [iPhone theming app ScreenKit gets ready for the iOS 16 Lock Screen with over 100 new widgets](https://techcrunch.com/2022/09/08/iphone-theming-app-screenkit-gets-ready-for-the-ios-16-lock-screen-with-over-100-new-widgets/)
 - [New class of exoplanet! Half-rock, half-water worlds could be abodes for life](https://www.space.com/water-rich-exoplanets-red-dwarfs-potentially-habitable/)
 - [NASA targets Sept. 23 for next Artemis 1 launch attempt, but a lot has to go right](https://www.space.com/artemis-1-moon-mission-next-launch-try-september-2022/)
 - [Let’s get in the weeds about fintech AUM](https://techcrunch.com/2022/09/08/lets-get-in-the-weeds-about-fintech-aum/)
-- [Lolli’s Alex Adelman talks about cashing in bitcoin rewards at TC Sessions: Crypto](https://techcrunch.com/2022/09/08/lollis-alex-adelman-talks-about-cashing-in-bitcoin-rewards-at-tc-sessions-crypto/)
-- [YC’s latest batch cuts African startup presence by more than half](https://techcrunch.com/2022/09/08/ycs-latest-batch-cuts-african-startup-presence-by-more-than-half/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
