@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Online university Nexford will use $8M to plug affordability and relevance gaps in education](https://techcrunch.com/2022/09/08/online-university-nexford-will-use-8m-to-plug-affordability-and-relevance-gaps-in-education/)
+- [UK’s FocalPoint raises $17M for its software-based approach to repairing the flaws of GPS](https://techcrunch.com/2022/09/08/focalpoint-gps-series-c/)
 - [Bloomingdale’s goes all-in on metaverse with new virtual store](https://techcrunch.com/2022/09/08/bloomingdales-metaverse-virtual-store/)
-- [London-based RegTech SteelEye nabs $21M](https://techcrunch.com/2022/09/08/london-based-regtech-steeleye-nabs-21m/)
-- [Sky-Watcher Explorer 130 EQ2 telescope review](https://www.space.com/sky-watcher-explorer-130-eq2-telescope-review/)
-- [Uber wants court to nullify Kenya’s new ride-hailing law that caps service fee at 18%](https://techcrunch.com/2022/09/08/uber-wants-court-to-nullify-kenyas-new-ride-hailing-law-that-caps-service-fee-at-18/)
-- [Explore common space misconceptions with All About Space magazine](https://www.space.com/all-about-space-magazine-issue-134/)
+- [Discovery of alien world with strange, tilted orbit puzzles astronomers](https://www.space.com/exoplanet-surprise-tilted-orbit-binary-star/)
+- [What are bosons?](https://www.space.com/what-are-bosons/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
