@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bloomingdale’s goes all-in on metaverse with new virtual store](https://techcrunch.com/2022/09/08/bloomingdales-metaverse-virtual-store/)
+- [London-based RegTech SteelEye nabs $21M](https://techcrunch.com/2022/09/08/london-based-regtech-steeleye-nabs-21m/)
 - [Sky-Watcher Explorer 130 EQ2 telescope review](https://www.space.com/sky-watcher-explorer-130-eq2-telescope-review/)
 - [Uber wants court to nullify Kenya’s new ride-hailing law that caps service fee at 18%](https://techcrunch.com/2022/09/08/uber-wants-court-to-nullify-kenyas-new-ride-hailing-law-that-caps-service-fee-at-18/)
 - [Explore common space misconceptions with All About Space magazine](https://www.space.com/all-about-space-magazine-issue-134/)
-- [Gravitee nabs new cash to simplify API development and management](https://techcrunch.com/2022/09/08/gravitee-nabs-new-cash-to-simplify-api-development-and-management/)
-- [As a Scuba diver, I would gladly trust my life to the Apple Watch. Here’s why.](https://techcrunch.com/2022/09/07/apple-watch-for-scuba/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
