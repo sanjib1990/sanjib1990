@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [VCs at BBGV, Kapor, Stellation and Tusk round out Startup Battlefield judges](https://techcrunch.com/2022/09/08/vcs-at-bbgv-kapor-stellation-and-tusk-round-out-startup-battlefield-judges/)
+- [Mullen acquires controlling interest in EV startup Bollinger Motors](https://techcrunch.com/2022/09/08/mullen-acquires-controlling-interest-in-ev-startup-bollinger-motors/)
+- [The biggest moonshots in YC’s S22 batch](https://techcrunch.com/2022/09/08/the-biggest-moonshots-in-ycs-s22-batch/)
+- [Boom Supersonic and Rolls-Royce part ways on engine development](https://www.space.com/boom-supersonic-rolls-royce-engine-split/)
 - [Why this Californian founder moved to Minneapolis to build a B2B fintech](https://techcrunch.com/2022/09/08/why-this-californian-founder-moved-to-minneapolis-to-build-a-b2b-fintech/)
-- [iPhone theming app ScreenKit gets ready for the iOS 16 Lock Screen with over 100 new widgets](https://techcrunch.com/2022/09/08/iphone-theming-app-screenkit-gets-ready-for-the-ios-16-lock-screen-with-over-100-new-widgets/)
-- [New class of exoplanet! Half-rock, half-water worlds could be abodes for life](https://www.space.com/water-rich-exoplanets-red-dwarfs-potentially-habitable/)
-- [NASA targets Sept. 23 for next Artemis 1 launch attempt, but a lot has to go right](https://www.space.com/artemis-1-moon-mission-next-launch-try-september-2022/)
-- [Let’s get in the weeds about fintech AUM](https://techcrunch.com/2022/09/08/lets-get-in-the-weeds-about-fintech-aum/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
