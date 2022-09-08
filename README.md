@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sky-Watcher Explorer 130 EQ2 telescope review](https://www.space.com/sky-watcher-explorer-130-eq2-telescope-review/)
 - [Uber wants court to nullify Kenya’s new ride-hailing law that caps service fee at 18%](https://techcrunch.com/2022/09/08/uber-wants-court-to-nullify-kenyas-new-ride-hailing-law-that-caps-service-fee-at-18/)
 - [Explore common space misconceptions with All About Space magazine](https://www.space.com/all-about-space-magazine-issue-134/)
 - [Gravitee nabs new cash to simplify API development and management](https://techcrunch.com/2022/09/08/gravitee-nabs-new-cash-to-simplify-api-development-and-management/)
 - [As a Scuba diver, I would gladly trust my life to the Apple Watch. Here’s why.](https://techcrunch.com/2022/09/07/apple-watch-for-scuba/)
-- [Lucidity keeps cloud block storage neat, tidy and cost-efficient](https://techcrunch.com/2022/09/07/lucidity-keeps-cloud-block-storage-neat-tidy-and-cost-efficient/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
