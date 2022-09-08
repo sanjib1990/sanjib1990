@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [As a Scuba diver, I would gladly trust my life to the Apple Watch. Here’s why.](https://techcrunch.com/2022/09/07/apple-watch-for-scuba/)
+- [Lucidity keeps cloud block storage neat, tidy and cost-efficient](https://techcrunch.com/2022/09/07/lucidity-keeps-cloud-block-storage-neat-tidy-and-cost-efficient/)
 - [Byju’s has no answer for its growing list of missing deadlines](https://techcrunch.com/2022/09/07/byjus-blackstone-oxshott-sumeru-ipo-financial-audit-morgan-stanley/)
 - [Google pilots test to permit fantasy sports and rummy apps in India](https://techcrunch.com/2022/09/07/google-pilots-test-to-permit-fantasy-sports-and-rummy-apps-in-india/)
 - [Shipmates makes order fulfillment less tedious for the Philippines’ online sellers](https://techcrunch.com/2022/09/07/shipmates-makes-order-fulfillment-less-tedious-for-the-philippines-online-sellers/)
-- [Virtual research institute battles Long COVID with backing from Ethereum co-creator Vitalik Buterin](https://techcrunch.com/2022/09/07/new-uk-nonprofit-startup-battles-long-covid-with-the-backing-of-ethereum-co-creator-vitalik-buterin/)
-- [Sequoia India and SEA taps international operators to help startups launch and expand overseas](https://techcrunch.com/2022/09/07/sequoia-india-taps-international-operators-to-help-startups-launch-and-expand-overseas/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
