@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s Mars Opportunity Rover stars in heartfelt new documentary](https://www.space.com/nasa-mars-opportunity-rover-good-night-oppy-documentary/)
+- [Everything we know so far about the ransomware attack on Los Angeles schools](https://techcrunch.com/2022/09/09/los-angeles-schools-ransomware/)
+- [People are going back to the office — except in the Bay Area](https://techcrunch.com/2022/09/09/people-are-going-back-to-the-office-except-in-the-bay-area/)
 - [Climate tech is a hot investment in 2022 — next five years could be even hotter](https://techcrunch.com/2022/09/09/climate-tech-is-a-hot-investment-in-2022-next-five-years-could-be-even-hotter/)
-- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates/)
-- [Watch VP Kamala Harris lead the National Space Council meeting today &lpar;Sept. 9&rpar;](https://www.space.com/kamala-harris-national-space-council-preview-september-2022/)
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
-- [Babylon 5 to return with a secret project featuring original cast](https://www.space.com/babylon-5-return-original-cast/)
+- [Space station experiment suggests Mars rovers will need to dig deep to find life](https://www.space.com/mars-biomarkers-destroyed-space-station-radiation-experiment/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
