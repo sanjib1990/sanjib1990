@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon is buying Cloostermans, a mechatronics specialist in Belgium, to ramp up its robotics operations](https://techcrunch.com/2022/09/09/amazon-is-buying-cloostermans-a-mechatronics-specialist-in-belgium-to-ramp-up-its-robotics-operations/)
+- [On This Day In Space: Sept. 9, 1982: Conestoga 1, the 1st private rocket, launches from Texas](https://www.space.com/39251-on-this-day-in-space.html/)
 - [Vorboss brings minimum 10 Gbps enterprise fibre network to London businesses](https://techcrunch.com/2022/09/09/vorboss-brings-minimum-10-gbps-enterprise-fibre-network-to-london-businesses/)
+- [VP Kamala Harris to lead National Space Council meeting today &lpar;Sept. 9&rpar;](https://www.space.com/kamala-harris-national-space-council-preview-september-2022/)
 - [Nigerian blockchain payments startup Bitmama closes $2M pre-seed as it scales to new markets](https://techcrunch.com/2022/09/09/nigerian-blockchain-payments-startup-bitmama-closes-2m-pre-seed-as-it-scales-to-new-markets/)
-- [Interstellar objects might have crashed on to the moon](https://www.space.com/interstellar-objects-moon-crash-astronauts-search/)
-- [Hubble Space Telescope sees spiral of star formation in neighboring galaxy](https://www.space.com/hubble-space-telescope-star-formation-spiral-photo/)
-- [An early harvest full moon rises Saturday &lpar;Sept. 10&rpar;](https://www.space.com/early-harvest-full-moon-sept-10-22/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
