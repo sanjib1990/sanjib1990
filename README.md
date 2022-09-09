@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OfftheGrid, a new Tinder-like travel app, helps travelers meet up and discover destinations](https://techcrunch.com/2022/09/09/offthegrid-a-new-tinder-like-travel-app-helps-travelers-meet-up-and-discover-destinations/)
+- [Ingenuity helicopter heads toward ancient river delta on 31st Martian flight](https://www.space.com/mars-helicopter-ingenuity-31st-flight-river-delta/)
 - [Founders of well-funded Egyptian B2B startup Capiter fired following fraud allegations](https://techcrunch.com/2022/09/09/founders-of-well-funded-egyptian-b2b-startup-capiter-fired-following-fraud-allegations/)
 - [One week left to save $1100 before Disrupt pass prices increase](https://techcrunch.com/2022/09/09/one-week-left-to-save-1100-before-disrupt-pass-prices-increase/)
 - [Headspace Health acquires inclusive mental health and wellness app Shine](https://techcrunch.com/2022/09/09/headspace-health-acquires-inclusive-mental-health-and-wellness-app-shine/)
-- [Please don’t tip the robot](https://techcrunch.com/2022/09/09/please-dont-tip-the-robot/)
-- [Which Ethereum-focused startups will survive the Merge?](https://techcrunch.com/2022/09/09/which-ethereum-focused-startups-will-survive-the-merge/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
