@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
+- [Babylon 5 to return with a secret project featuring original cast](https://www.space.com/babylon-5-return-original-cast/)
+- [Patreon confirms security team layoffs](https://techcrunch.com/2022/09/09/patreon-security-layoffs/)
 - [Amazon is buying Cloostermans, a mechatronics specialist in Belgium, to ramp up its robotics operations](https://techcrunch.com/2022/09/09/amazon-is-buying-cloostermans-a-mechatronics-specialist-in-belgium-to-ramp-up-its-robotics-operations/)
 - [On This Day In Space: Sept. 9, 1982: Conestoga 1, the 1st private rocket, launches from Texas](https://www.space.com/39251-on-this-day-in-space.html/)
-- [Vorboss brings minimum 10 Gbps enterprise fibre network to London businesses](https://techcrunch.com/2022/09/09/vorboss-brings-minimum-10-gbps-enterprise-fibre-network-to-london-businesses/)
-- [VP Kamala Harris to lead National Space Council meeting today &lpar;Sept. 9&rpar;](https://www.space.com/kamala-harris-national-space-council-preview-september-2022/)
-- [Nigerian blockchain payments startup Bitmama closes $2M pre-seed as it scales to new markets](https://techcrunch.com/2022/09/09/nigerian-blockchain-payments-startup-bitmama-closes-2m-pre-seed-as-it-scales-to-new-markets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
