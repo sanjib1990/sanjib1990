@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [What Minneapolis investors are looking for &lpar;hint: it’s not just Minnesota startups&rpar;](https://techcrunch.com/2022/09/09/minneapolis-investors-mary-grove-justin-kaufenberg/)
+- [This coffee machine wants to make capsules a thing of the past](https://techcrunch.com/2022/09/09/bye-capsules/)
+- [DARPA developing small vertical-takeoff aircraft for military use](https://www.space.com/darpa-vertical-take-off-landing-aircraft-ancillary/)
+- [What Minneapolis investors are looking for &lpar;hint: It’s not just Minnesota startups&rpar;](https://techcrunch.com/2022/09/09/minneapolis-investors-mary-grove-justin-kaufenberg/)
 - [Daily Crunch: Former employee says Patreon has laid off its entire security team](https://techcrunch.com/2022/09/09/daily-crunch-former-employee-says-patreon-has-laid-off-its-entire-security-team/)
 - [Full moon calendar 2022: When to see the next full moon](https://www.space.com/16830-full-moon-calendar.html/)
-- [What is the moon phase today? Lunar phases 2022](https://www.space.com/18880-moon-phases.html/)
-- [OfftheGrid, a new Tinder-like travel app, helps travelers meet up and discover destinations](https://techcrunch.com/2022/09/09/offthegrid-a-new-tinder-like-travel-app-helps-travelers-meet-up-and-discover-destinations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
