@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Which Ethereum-focused startups will survive the Merge?](https://techcrunch.com/2022/09/09/which-ethereum-focused-startups-will-survive-the-merge/)
+- [TechCrunch+ roundup: Slashing churn rates, visa side hustles, YC S22 Demo Day faves](https://techcrunch.com/2022/09/09/techcrunch-roundup-slashing-churn-rates-visa-side-hustles-yc-s22-demo-day-faves/)
 - [As startups whip up a restaurant tech frenzy, is anyone close to Toast?](https://techcrunch.com/2022/09/09/as-startups-whip-up-a-restaurant-tech-frenzy-is-anyone-close-to-toast/)
 - [Roblox will give a handful of game developers $500,000 each to build its future](https://techcrunch.com/2022/09/09/roblox-game-fund-2022/)
 - [US satellites in low Earth orbit to be deorbited in 5 years: report](https://www.space.com/satellites-deorbited-5-years-low-earth-orbit/)
-- [Roblox inches toward a deeper, more mature vision for the metaverse](https://techcrunch.com/2022/09/09/roblox-rdc-2022/)
-- [An early Harvest Moon rises Saturday. Here&#39;s what to expect for September&#39;s full moon.](https://www.space.com/early-harvest-full-moon-sept-10-22/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
