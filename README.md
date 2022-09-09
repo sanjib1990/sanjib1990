@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Open source startups have a natural growth model: PLG](https://techcrunch.com/2022/09/09/open-source-startups-have-a-natural-growth-model-plg/)
+- [Building products for future needs with Bling Capital and Shift on TechCrunch Live](https://techcrunch.com/2022/09/09/building-products-for-future-needs-with-bling-capital-and-shift-on-techcrunch-live/)
+- [Encalife SVBONY 501P 70 telescope review](https://www.space.com/encalife-svbony-501p-70-telescope-review/)
+- [Use DORA metrics to support the next generation of remote-work models](https://techcrunch.com/2022/09/09/use-dora-metrics-to-support-the-next-generation-of-remote-work-models/)
 - [NASA&#39;s Mars Opportunity Rover stars in heartfelt new documentary](https://www.space.com/nasa-mars-opportunity-rover-good-night-oppy-documentary/)
-- [Everything we know so far about the ransomware attack on Los Angeles schools](https://techcrunch.com/2022/09/09/los-angeles-schools-ransomware/)
-- [People are going back to the office — except in the Bay Area](https://techcrunch.com/2022/09/09/people-are-going-back-to-the-office-except-in-the-bay-area/)
-- [Climate tech is a hot investment in 2022 — next five years could be even hotter](https://techcrunch.com/2022/09/09/climate-tech-is-a-hot-investment-in-2022-next-five-years-could-be-even-hotter/)
-- [Space station experiment suggests Mars rovers will need to dig deep to find life](https://www.space.com/mars-biomarkers-destroyed-space-station-radiation-experiment/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
