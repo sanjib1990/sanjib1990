@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What Minneapolis investors are looking for &lpar;hint: it’s not just Minnesota startups&rpar;](https://techcrunch.com/2022/09/09/minneapolis-investors-mary-grove-justin-kaufenberg/)
+- [Daily Crunch: Former employee says Patreon has laid off its entire security team](https://techcrunch.com/2022/09/09/daily-crunch-former-employee-says-patreon-has-laid-off-its-entire-security-team/)
+- [Full moon calendar 2022: When to see the next full moon](https://www.space.com/16830-full-moon-calendar.html/)
+- [What is the moon phase today? Lunar phases 2022](https://www.space.com/18880-moon-phases.html/)
 - [OfftheGrid, a new Tinder-like travel app, helps travelers meet up and discover destinations](https://techcrunch.com/2022/09/09/offthegrid-a-new-tinder-like-travel-app-helps-travelers-meet-up-and-discover-destinations/)
-- [Ingenuity helicopter heads toward ancient river delta on 31st Martian flight](https://www.space.com/mars-helicopter-ingenuity-31st-flight-river-delta/)
-- [Founders of well-funded Egyptian B2B startup Capiter fired following fraud allegations](https://techcrunch.com/2022/09/09/founders-of-well-funded-egyptian-b2b-startup-capiter-fired-following-fraud-allegations/)
-- [One week left to save $1100 before Disrupt pass prices increase](https://techcrunch.com/2022/09/09/one-week-left-to-save-1100-before-disrupt-pass-prices-increase/)
-- [Headspace Health acquires inclusive mental health and wellness app Shine](https://techcrunch.com/2022/09/09/headspace-health-acquires-inclusive-mental-health-and-wellness-app-shine/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
