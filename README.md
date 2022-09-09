@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Founders of well-funded Egyptian B2B startup Capiter fired following fraud allegations](https://techcrunch.com/2022/09/09/founders-of-well-funded-egyptian-b2b-startup-capiter-fired-following-fraud-allegations/)
+- [One week left to save $1100 before Disrupt pass prices increase](https://techcrunch.com/2022/09/09/one-week-left-to-save-1100-before-disrupt-pass-prices-increase/)
+- [Headspace Health acquires inclusive mental health and wellness app Shine](https://techcrunch.com/2022/09/09/headspace-health-acquires-inclusive-mental-health-and-wellness-app-shine/)
+- [Please don’t tip the robot](https://techcrunch.com/2022/09/09/please-dont-tip-the-robot/)
 - [Which Ethereum-focused startups will survive the Merge?](https://techcrunch.com/2022/09/09/which-ethereum-focused-startups-will-survive-the-merge/)
-- [TechCrunch+ roundup: Slashing churn rates, visa side hustles, YC S22 Demo Day faves](https://techcrunch.com/2022/09/09/techcrunch-roundup-slashing-churn-rates-visa-side-hustles-yc-s22-demo-day-faves/)
-- [As startups whip up a restaurant tech frenzy, is anyone close to Toast?](https://techcrunch.com/2022/09/09/as-startups-whip-up-a-restaurant-tech-frenzy-is-anyone-close-to-toast/)
-- [Roblox will give a handful of game developers $500,000 each to build its future](https://techcrunch.com/2022/09/09/roblox-game-fund-2022/)
-- [US satellites in low Earth orbit to be deorbited in 5 years: report](https://www.space.com/satellites-deorbited-5-years-low-earth-orbit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
