@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Open source startups have a natural growth model: PLG](https://techcrunch.com/2022/09/09/open-source-startups-have-a-natural-growth-model-plg/)
-- [Building products for future needs with Bling Capital and Shift on TechCrunch Live](https://techcrunch.com/2022/09/09/building-products-for-future-needs-with-bling-capital-and-shift-on-techcrunch-live/)
-- [Encalife SVBONY 501P 70 telescope review](https://www.space.com/encalife-svbony-501p-70-telescope-review/)
-- [Use DORA metrics to support the next generation of remote-work models](https://techcrunch.com/2022/09/09/use-dora-metrics-to-support-the-next-generation-of-remote-work-models/)
-- [NASA&#39;s Mars Opportunity Rover stars in heartfelt new documentary](https://www.space.com/nasa-mars-opportunity-rover-good-night-oppy-documentary/)
+- [As startups whip up a restaurant tech frenzy, is anyone close to Toast?](https://techcrunch.com/2022/09/09/as-startups-whip-up-a-restaurant-tech-frenzy-is-anyone-close-to-toast/)
+- [Roblox will give a handful of game developers $500,000 each to build its future](https://techcrunch.com/2022/09/09/roblox-game-fund-2022/)
+- [US satellites in low Earth orbit to be deorbited in 5 years: report](https://www.space.com/satellites-deorbited-5-years-low-earth-orbit/)
+- [Roblox inches toward a deeper, more mature vision for the metaverse](https://techcrunch.com/2022/09/09/roblox-rdc-2022/)
+- [An early Harvest Moon rises Saturday. Here&#39;s what to expect for September&#39;s full moon.](https://www.space.com/early-harvest-full-moon-sept-10-22/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
