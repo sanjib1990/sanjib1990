@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [India to control which lending apps are permitted to app stores in latest crackdown](https://techcrunch.com/2022/09/09/india-to-control-which-lending-apps-are-permitted-to-app-stores-in-latest-crackdown/)
-- [Jobbatical rasies €11.6M as worker migration goes paperless](https://techcrunch.com/2022/09/09/jobbatical-rasies-e11-6m-as-worker-migration-goes-paperless/)
-- [Renowned founder Brian Lee and Derek Jeter have a new sports card biz with a digital bent](https://techcrunch.com/2022/09/08/renowned-founder-brian-lee-and-derek-jeter-have-a-new-sports-card-biz-with-a-digital-bent/)
-- [SpaceX fires up all 6 engines of Starship prototype ahead of orbital test flight &lpar;video&rpar;](https://www.space.com/spacex-starship-six-engine-static-fire-ship-24/)
-- [Crypto’s biggest powerhouse flexes on its competition](https://techcrunch.com/2022/09/08/cryptos-biggest-powerhouse-flexes-on-its-competition/)
+- [Vorboss brings minimum 10 Gbps enterprise fibre network to London businesses](https://techcrunch.com/2022/09/09/vorboss-brings-minimum-10-gbps-enterprise-fibre-network-to-london-businesses/)
+- [Nigerian blockchain payments startup Bitmama closes $2M pre-seed as it scales to new markets](https://techcrunch.com/2022/09/09/nigerian-blockchain-payments-startup-bitmama-closes-2m-pre-seed-as-it-scales-to-new-markets/)
+- [Interstellar objects might have crashed on to the moon](https://www.space.com/interstellar-objects-moon-crash-astronauts-search/)
+- [Hubble Space Telescope sees spiral of star formation in neighboring galaxy](https://www.space.com/hubble-space-telescope-star-formation-spiral-photo/)
+- [An early harvest full moon rises Saturday &lpar;Sept. 10&rpar;](https://www.space.com/early-harvest-full-moon-sept-10-22/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
