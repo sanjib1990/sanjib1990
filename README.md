@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Alphabet’s Verily raises $1 billion as tech giants enter red hot healthcare sector](https://techcrunch.com/2022/09/09/alphabets-verily-raises-1-billion-as-tech-giants-enter-red-hot-healthcare-sector/)
+- [US will push other nations to abandon destructive anti-satellite tests, VP Harris says](https://www.space.com/us-push-abandon-destructive-asat-tests-vp-harris/)
+- [Zipline lands departing Verily CFO, Tesla veteran Deepak Ahuja](https://techcrunch.com/2022/09/09/zipline-lands-departing-verily-cfo-tesla-veteran-deepak-ahuja/)
+- [The art of &#39;Love, Death + Robots&#39; comes alive in new book &lpar;exclusive&rpar;](https://www.space.com/love-death-robots-netflix-art-book/)
 - [This coffee machine wants to make capsules a thing of the past](https://techcrunch.com/2022/09/09/bye-capsules/)
-- [DARPA developing small vertical-takeoff aircraft for military use](https://www.space.com/darpa-vertical-take-off-landing-aircraft-ancillary/)
-- [What Minneapolis investors are looking for &lpar;hint: It’s not just Minnesota startups&rpar;](https://techcrunch.com/2022/09/09/minneapolis-investors-mary-grove-justin-kaufenberg/)
-- [Daily Crunch: Former employee says Patreon has laid off its entire security team](https://techcrunch.com/2022/09/09/daily-crunch-former-employee-says-patreon-has-laid-off-its-entire-security-team/)
-- [Full moon calendar 2022: When to see the next full moon](https://www.space.com/16830-full-moon-calendar.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
