@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What 227 Y Combinator pitches will teach you about startups](https://techcrunch.com/2022/09/10/what-227-y-combinator-pitches-will-teach-you-about-startups/)
+- [This Week in Apps: Apple’s event brings a ‘dynamic Island,’ new widgets and iOS 16](https://techcrunch.com/2022/09/10/this-week-in-apps-apples-event-brings-a-dynamic-island-new-widgets-and-ios-16/)
 - [Has France cracked the YC recipe?](https://techcrunch.com/2022/09/10/has-france-cracked-the-yc-recipe/)
 - [How Zoho became $1B company without a dime of external investment…](https://techcrunch.com/2022/09/10/how-zoho-became-1b-company-without-a-dime-of-external-investment/)
 - [The Merge is upon us &lpar;and other TC news&rpar;](https://techcrunch.com/2022/09/10/tc-podcast-the-merge-is-upon-us/)
-- [Stanford moonshot promises near-term profitability with no-code magical mushrooms, ft. Plaid of X](https://techcrunch.com/2022/09/10/stanford-moonshot-promises-near-term-profitability-with-no-code-magical-mushrooms-ft-plaid-of-x/)
-- [What is the Standard Model?](https://www.space.com/standard-model-physics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
