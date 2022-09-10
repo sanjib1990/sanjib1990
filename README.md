@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html/)
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
-- [On This Day In Space: Sept. 10, 2011: NASA&#39;s GRAIL mission launches to the moon](https://www.space.com/39251-on-this-day-in-space.html/)
-- [This Week In Space podcast: Episode 28 — Breathing on Mars](https://www.space.com/this-week-in-space-podcast-twit/)
-- [Fiery ancient asteroid impacts turned living things into charcoal](https://www.space.com/ancient-asteroid-blast-living-things-charcoal/)
+- [The Merge is upon us &lpar;and other TC news&rpar;](https://techcrunch.com/2022/09/10/tc-podcast-the-merge-is-upon-us/)
+- [Stanford moonshot promises near-term profitability with no-code magical mushrooms, ft. Plaid of X](https://techcrunch.com/2022/09/10/stanford-moonshot-promises-near-term-profitability-with-no-code-magical-mushrooms-ft-plaid-of-x/)
+- [What is the Standard Model?](https://www.space.com/standard-model-physics/)
+- [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html/)
+- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
