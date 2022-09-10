@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [VCs who cast a wider net have double backed to CA, says this ex-Sequoia Capital partner](https://techcrunch.com/2022/09/09/vcs-who-cast-a-wider-net-have-double-backed-to-ca-says-this-ex-sequoia-capital-partner/)
 - [Alphabet’s Verily raises $1 billion as tech giants enter red hot healthcare sector](https://techcrunch.com/2022/09/09/alphabets-verily-raises-1-billion-as-tech-giants-enter-red-hot-healthcare-sector/)
 - [US will push other nations to abandon destructive anti-satellite tests, VP Harris says](https://www.space.com/us-push-abandon-destructive-asat-tests-vp-harris/)
 - [Zipline lands departing Verily CFO, Tesla veteran Deepak Ahuja](https://techcrunch.com/2022/09/09/zipline-lands-departing-verily-cfo-tesla-veteran-deepak-ahuja/)
 - [The art of &#39;Love, Death + Robots&#39; comes alive in new book &lpar;exclusive&rpar;](https://www.space.com/love-death-robots-netflix-art-book/)
-- [This coffee machine wants to make capsules a thing of the past](https://techcrunch.com/2022/09/09/bye-capsules/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
