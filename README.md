@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Has France cracked the YC recipe?](https://techcrunch.com/2022/09/10/has-france-cracked-the-yc-recipe/)
+- [How Zoho became $1B company without a dime of external investment…](https://techcrunch.com/2022/09/10/how-zoho-became-1b-company-without-a-dime-of-external-investment/)
 - [The Merge is upon us &lpar;and other TC news&rpar;](https://techcrunch.com/2022/09/10/tc-podcast-the-merge-is-upon-us/)
 - [Stanford moonshot promises near-term profitability with no-code magical mushrooms, ft. Plaid of X](https://techcrunch.com/2022/09/10/stanford-moonshot-promises-near-term-profitability-with-no-code-magical-mushrooms-ft-plaid-of-x/)
 - [What is the Standard Model?](https://www.space.com/standard-model-physics/)
-- [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html/)
-- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
