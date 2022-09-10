@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch SpaceX rocket launch huge test satellite, 34 Starlinks on record-setting 14th flight Saturday](https://www.space.com/spacex-starlink-blue-walker-3-launch-rocket-landing/)
-- [Celestron Inspire 100AZ refractor telescope review](https://www.space.com/celestron-inspire-100az-refractor-telescope-review/)
-- [Giant blobs in Earth&#39;s mantle may be driving a &#39;diamond factory&#39; near our planet&#39;s core](https://www.space.com/earth-core-mantle-boundary-diamonds/)
-- [Harvest Moon tonight! See the full moon rise near Jupiter and Neptune &lpar;Sept. 10&rpar;](https://www.space.com/full-moon-harvest-moon-jupiter-neptune-2022/)
-- [VCs who cast a wider net have double backed to CA, says this ex-Sequoia Capital partner](https://techcrunch.com/2022/09/09/vcs-who-cast-a-wider-net-have-double-backed-to-ca-says-this-ex-sequoia-capital-partner/)
+- [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html/)
+- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
+- [On This Day In Space: Sept. 10, 2011: NASA&#39;s GRAIL mission launches to the moon](https://www.space.com/39251-on-this-day-in-space.html/)
+- [This Week In Space podcast: Episode 28 — Breathing on Mars](https://www.space.com/this-week-in-space-podcast-twit/)
+- [Fiery ancient asteroid impacts turned living things into charcoal](https://www.space.com/ancient-asteroid-blast-living-things-charcoal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
