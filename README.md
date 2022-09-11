@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DNA of DeForest Kelley, Dr. &#39;Bones&#39; McCoy from &#39;Star Trek,&#39; will fly to space with original cast on memorial spaceflight](https://www.space.com/star-trek-deforest-kelley-dna-celestis-launch/)
+- [&#39;Doomsday Glacier&#39; is teetering even closer to disaster than scientists thought, new seafloor map shows](https://www.space.com/antarctica-doomsday-glacier-retreat-potential/)
+- [On This Day In Space: Sept. 11, 1985: International Cometary Explorer completes 1st comet flyby](https://www.space.com/39251-on-this-day-in-space.html/)
 - [Watch Firefly Aerospace try to reach orbit for 1st time Sunday](https://www.space.com/firefly-aerospace-second-test-flight-preview/)
 - [See the conjunction of the moon and Jupiter on Sunday &lpar;Sept. 11&rpar;](https://www.space.com/moon-jupiter-conjunction-september-11/)
-- [SpaceX rocket launches BlueWalker 3, the largest commercial communications array ever, and aces record 14th landing](https://www.space.com/spacex-bluewalker-3-starlink-satellites-launch-success/)
-- [Watch SpaceX launch the huge BlueWalker 3 satellite, Starlink fleet on rocket&#39;s record-setting 14th flight tonight](https://www.space.com/spacex-starlink-blue-walker-3-launch-rocket-landing/)
-- [The week an Apple event and YC Demo Day collided](https://techcrunch.com/2022/09/10/the-week-an-apple-event-and-yc-demo-day-collided/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
