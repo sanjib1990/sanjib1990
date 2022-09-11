@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [VC fundraising gets weird as autumn nears](https://techcrunch.com/2022/09/11/vc-fundraising-gets-weird-as-autumn-nears/)
 - [NASA replaces leaky seals on Artemis 1 moon rocket, fueling test next](https://www.space.com/artemis-1-moon-rocket-leaky-seals-replaced/)
 - [Regulators appear to be growing increasingly wary of banks and fintech startups getting too cozy](https://techcrunch.com/2022/09/11/regulators-appear-to-be-growing-increasingly-wary-of-banks-and-fintech-startups-getting-too-cozy/)
 - [Harvest Moon 2022: September&#39;s full moon thrills stargazers around the world &lpar;photos&rpar;](https://www.space.com/harvest-moon-full-moon-2022-amazing-photos/)
 - [DNA of DeForest Kelley, Dr. &#39;Bones&#39; McCoy from &#39;Star Trek,&#39; will fly to space with original cast on memorial spaceflight](https://www.space.com/star-trek-deforest-kelley-dna-celestis-launch/)
-- [&#39;Doomsday Glacier&#39; is teetering even closer to disaster than scientists thought, new seafloor map shows](https://www.space.com/antarctica-doomsday-glacier-retreat-potential/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
