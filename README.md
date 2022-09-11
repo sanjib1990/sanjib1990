@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch SpaceX launch the huge BlueWalker 3 satellite, Starlink fleet on rocket&#39;s record-setting 14th flight tonight](https://www.space.com/spacex-starlink-blue-walker-3-launch-rocket-landing/)
 - [The week an Apple event and YC Demo Day collided](https://techcrunch.com/2022/09/10/the-week-an-apple-event-and-yc-demo-day-collided/)
 - [What 227 Y Combinator pitches will teach you about startups](https://techcrunch.com/2022/09/10/what-227-y-combinator-pitches-will-teach-you-about-startups/)
 - [This Week in Apps: Apple’s event brings a ‘dynamic Island,’ new widgets and iOS 16](https://techcrunch.com/2022/09/10/this-week-in-apps-apples-event-brings-a-dynamic-island-new-widgets-and-ios-16/)
 - [Has France cracked the YC recipe?](https://techcrunch.com/2022/09/10/has-france-cracked-the-yc-recipe/)
-- [How Zoho became $1B company without a dime of external investment…](https://techcrunch.com/2022/09/10/how-zoho-became-1b-company-without-a-dime-of-external-investment/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
