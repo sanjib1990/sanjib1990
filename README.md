@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Harvest Moon 2022 : September&#39;s full moon thrills stargazers around the world &lpar;photos&rpar;](https://www.space.com/harvest-moon-full-moon-2022-amazing-photos/)
+- [NASA replaces leaky seals on Artemis 1 moon rocket, fueling test next](https://www.space.com/artemis-1-moon-rocket-leaky-seals-replaced/)
+- [Regulators appear to be growing increasingly wary of banks and fintech startups getting too cozy](https://techcrunch.com/2022/09/11/regulators-appear-to-be-growing-increasingly-wary-of-banks-and-fintech-startups-getting-too-cozy/)
+- [Harvest Moon 2022: September&#39;s full moon thrills stargazers around the world &lpar;photos&rpar;](https://www.space.com/harvest-moon-full-moon-2022-amazing-photos/)
 - [DNA of DeForest Kelley, Dr. &#39;Bones&#39; McCoy from &#39;Star Trek,&#39; will fly to space with original cast on memorial spaceflight](https://www.space.com/star-trek-deforest-kelley-dna-celestis-launch/)
 - [&#39;Doomsday Glacier&#39; is teetering even closer to disaster than scientists thought, new seafloor map shows](https://www.space.com/antarctica-doomsday-glacier-retreat-potential/)
-- [On This Day In Space: Sept. 11, 1985: International Cometary Explorer completes 1st comet flyby](https://www.space.com/39251-on-this-day-in-space.html/)
-- [Watch Firefly Aerospace try to reach orbit for 1st time Sunday](https://www.space.com/firefly-aerospace-second-test-flight-preview/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
