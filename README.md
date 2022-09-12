@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Starbucks details its blockchain-based loyalty platform and NFT community, Starbucks Odyssey](https://techcrunch.com/2022/09/12/starbucks-unveils-its-blockchain-based-loyalty-platform-and-nft-community-starbucks-odyssey/)
-- [Cybersecurity firm Fortanix secures capital to provide confidential computing services](https://techcrunch.com/2022/09/12/cybersecurity-firm-fortanix-secures-capital-to-provide-confidential-computing-services/)
-- [Prefabs sprout: How Modulous helps housing developers build modular homes without factories](https://techcrunch.com/2022/09/12/prefabs-sprout-how-modulous-helps-housing-developers-build-modular-homes-without-factories/)
-- [Sony A7R IV mirrorless camera review](https://www.space.com/sony-a7r-iv-camera-review/)
-- [Uber turns to Nuro for AV delivery and Razor charges into the seated scooter market](https://techcrunch.com/2022/09/12/uber-turns-to-nuro-for-av-delivery-and-razor-charges-into-the-seated-scooter-market/)
+- [Alima aims to build out Latin America’s perishable foods supply chain](https://techcrunch.com/2022/09/12/alima-latin-america-perishable-food-supply-chain/)
+- [Rethinking Anakin Skywalker: How Star Wars has failed to properly explore its most significant character](https://www.space.com/rethinking-anakin-skywalker/)
+- [Cledara raises $20 million to help companies control their SaaS sprawl](https://techcrunch.com/2022/09/12/cledara-raises-20-million-to-help-companies-control-their-saas-sprawl/)
+- [Funds can no longer just be a source of capital](https://techcrunch.com/2022/09/12/funds-can-no-longer-just-be-a-source-of-capital/)
+- [Roku’s latest update adds short-form video, a universal save list and ‘continue watching’ feature](https://techcrunch.com/2022/09/12/rokus-latest-update-adds-short-form-video-a-universal-save-list-and-continue-watching-feature/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
