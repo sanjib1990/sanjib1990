@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [25+ iOS 16-ready apps featuring Lock Screen widgets you can try today](https://techcrunch.com/2022/09/12/25-ios-16-ready-apps-featuring-lock-screen-widgets-you-can-try-today/)
 - [Magna enters the micromobility and battery swapping market](https://techcrunch.com/2022/09/12/magna-enters-the-micromobility-and-battery-swapping-market/)
 - [What is nuclear fission?](https://www.space.com/what-is-nuclear-fission/)
 - [&#39;Lobster Nebula&#39; glows red in stunning new image from dark energy hunter](https://www.space.com/dark-energy-camera-lobster-nebula-photo/)
 - [All the nifty iOS 16 features you want to know about](https://techcrunch.com/2022/09/12/all-the-nifty-ios-16-features-you-want-to-know-about/)
-- [iOS 16 turns your iPhone into a more personal device](https://techcrunch.com/2022/09/12/ios-16-turns-your-iphone-into-a-more-personal-device/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
