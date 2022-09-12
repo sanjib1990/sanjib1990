@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: New Starbucks Odyssey loyalty program ‘happens to be built on blockchain and web3’](https://techcrunch.com/2022/09/12/daily-crunch-new-starbucks-odyssey-loyalty-program-happens-to-be-built-on-blockchain-and-web3/)
+- [Max Q: The waiting game](https://techcrunch.com/2022/09/12/max-q-the-waiting-game/)
 - [Peloton co-founders resign amid company shakeup](https://techcrunch.com/2022/09/12/peloton-co-founders-resign-amid-company-shakeup/)
 - [Cruise to launch robotaxi services in Austin, Phoenix before end of 2022](https://techcrunch.com/2022/09/12/cruise-to-launch-robotaxi-services-in-austin-phoenix-before-end-of-2022/)
 - [Want a Tesla Solar Roof? You may need to shell out for a Powerwall first](https://techcrunch.com/2022/09/12/tesla-solar-roof-new-powerwall-requirement/)
-- [&#39;We choose to go to the moon...&#39; again: NASA marks 60th anniversary of JFK speech](https://www.space.com/jfk-60th-anniversary-moon-speech-nasa-rice/)
-- [Failure of Blue Origin&#39;s New Shepard a reminder that spaceflight is still hard](https://www.space.com/blue-origin-failure-reminder-spaceflight-hard/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
