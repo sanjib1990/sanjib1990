@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Stockholm’s EQT Growth closes $2.2B to fund scaling European startups like Vinted, Mambu and Epidemic Sound](https://techcrunch.com/2022/09/12/eqt-growth-2-2-billion/)
+- [Elon Musk’s third termination notice to Twitter is about Mudge’s severance](https://techcrunch.com/2022/09/12/elon-musks-third-termination-notice-to-twitter-is-about-mudges-severance/)
+- [NASA will slam a spacecraft into an asteroid. This tiny witness will show us what happens.](https://www.space.com/liciacube-readies-to-observe-dart-hit-asteroid/)
 - [Nigerian financial management app for merchants Kippa bags $8.4M in new funding](https://techcrunch.com/2022/09/12/nigerian-financial-management-app-for-merchants-kippa-bags-8-4m-in-new-funding/)
 - [Kenya’s HotelOnline acquires hospitality software company HotelPlus](https://techcrunch.com/2022/09/12/kenyas-hotelonline-acquires-hospitality-software-company-hotelplus/)
-- [Pan-African “gender equal investor“ Janngo Capital hits first close of €60M fund](https://techcrunch.com/2022/09/11/janngo-capital-reaches-first-close-of-e60m-fund/)
-- [The tech industry needs a labor movement](https://techcrunch.com/2022/09/11/the-tech-industry-needs-a-labor-movement/)
-- [VC fundraising gets weird as autumn nears](https://techcrunch.com/2022/09/11/vc-fundraising-gets-weird-as-autumn-nears/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
