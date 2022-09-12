@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch NASA chief commemorate 60th anniversary of JFK moon speech Monday](https://www.space.com/nelson-60th-anniversary-jfk-rice-moon-speech-preview/)
+- [Yandex’s sale of News and Zen to VK completes](https://techcrunch.com/2022/09/12/yandex-news-zen-vk-sale-completes/)
 - [Stockholm’s EQT Growth closes $2.2B to fund scaling European startups like Vinted, Mambu and Epidemic Sound](https://techcrunch.com/2022/09/12/eqt-growth-2-2-billion/)
 - [Elon Musk’s third termination notice to Twitter is about Mudge’s severance](https://techcrunch.com/2022/09/12/elon-musks-third-termination-notice-to-twitter-is-about-mudges-severance/)
 - [NASA will slam a spacecraft into an asteroid. This tiny witness will show us what happens.](https://www.space.com/liciacube-readies-to-observe-dart-hit-asteroid/)
-- [Nigerian financial management app for merchants Kippa bags $8.4M in new funding](https://techcrunch.com/2022/09/12/nigerian-financial-management-app-for-merchants-kippa-bags-8-4m-in-new-funding/)
-- [Kenya’s HotelOnline acquires hospitality software company HotelPlus](https://techcrunch.com/2022/09/12/kenyas-hotelonline-acquires-hospitality-software-company-hotelplus/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
