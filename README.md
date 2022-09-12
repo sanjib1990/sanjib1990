@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Alima aims to build out Latin America’s perishable foods supply chain](https://techcrunch.com/2022/09/12/alima-latin-america-perishable-food-supply-chain/)
-- [Rethinking Anakin Skywalker: How Star Wars has failed to properly explore its most significant character](https://www.space.com/rethinking-anakin-skywalker/)
-- [Cledara raises $20 million to help companies control their SaaS sprawl](https://techcrunch.com/2022/09/12/cledara-raises-20-million-to-help-companies-control-their-saas-sprawl/)
-- [Funds can no longer just be a source of capital](https://techcrunch.com/2022/09/12/funds-can-no-longer-just-be-a-source-of-capital/)
-- [Roku’s latest update adds short-form video, a universal save list and ‘continue watching’ feature](https://techcrunch.com/2022/09/12/rokus-latest-update-adds-short-form-video-a-universal-save-list-and-continue-watching-feature/)
+- [Google closes $5.4B Mandiant acquisition](https://techcrunch.com/2022/09/12/google-closes-5-4b-mandiant-acquisition/)
+- [The ETH merge cometh](https://techcrunch.com/2022/09/12/the-eth-merge-cometh/)
+- [Massive stars could &#39;steal&#39; gas giants from their planetary systems](https://www.space.com/planetary-heist-massive-stars-steal-exoplanets/)
+- [Google eyes manufacturing Pixel smartphones in India, report says](https://techcrunch.com/2022/09/12/google-eyes-manufacturing-pixel-smartphones-in-india-report-says/)
+- [Google introduces a set of iOS 16 Lock Screen widgets for your iPhone](https://techcrunch.com/2022/09/12/google-introduces-a-set-of-ios-16-lock-screen-widgets-for-your-iphone/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
