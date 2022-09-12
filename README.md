@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Starbucks details its blockchain-based loyalty platform and NFT community, Starbucks Odyssey](https://techcrunch.com/2022/09/12/starbucks-unveils-its-blockchain-based-loyalty-platform-and-nft-community-starbucks-odyssey/)
+- [Cybersecurity firm Fortanix secures capital to provide confidential computing services](https://techcrunch.com/2022/09/12/cybersecurity-firm-fortanix-secures-capital-to-provide-confidential-computing-services/)
+- [Prefabs sprout: How Modulous helps housing developers build modular homes without factories](https://techcrunch.com/2022/09/12/prefabs-sprout-how-modulous-helps-housing-developers-build-modular-homes-without-factories/)
+- [Sony A7R IV mirrorless camera review](https://www.space.com/sony-a7r-iv-camera-review/)
 - [Uber turns to Nuro for AV delivery and Razor charges into the seated scooter market](https://techcrunch.com/2022/09/12/uber-turns-to-nuro-for-av-delivery-and-razor-charges-into-the-seated-scooter-market/)
-- [Gotham Greens just raised $310M to expand its greenhouses nationwide](https://techcrunch.com/2022/09/12/gotham-greens-just-raised-310m-to-expand-its-greenhouses-nationwide/)
-- [Diveplane lands $25M to grow its MLOps platform](https://techcrunch.com/2022/09/12/diveplane-lands-25m-to-grow-its-mlops-platform/)
-- [On This Day In Space: Sept. 12, 1992: Mae Jemison Becomes 1st African-American woman in space](https://www.space.com/39251-on-this-day-in-space.html/)
-- [Save $90 on this 4K Holy Stone GPS drone, ideal for newcomers to drone photography](https://www.space.com/save-90-dollars-on-4k-holy-stone-gps-drone-at-amazon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
