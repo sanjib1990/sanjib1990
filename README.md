@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Kenya’s HotelOnline acquires hospitality software company HotelPlus](https://techcrunch.com/2022/09/12/kenyas-hotelonline-acquires-hospitality-software-company-hotelplus/)
 - [Pan-African “gender equal investor“ Janngo Capital hits first close of €60M fund](https://techcrunch.com/2022/09/11/janngo-capital-reaches-first-close-of-e60m-fund/)
 - [The tech industry needs a labor movement](https://techcrunch.com/2022/09/11/the-tech-industry-needs-a-labor-movement/)
 - [VC fundraising gets weird as autumn nears](https://techcrunch.com/2022/09/11/vc-fundraising-gets-weird-as-autumn-nears/)
 - [NASA replaces leaky seals on Artemis 1 moon rocket, fueling test next](https://www.space.com/artemis-1-moon-rocket-leaky-seals-replaced/)
-- [Regulators appear to be growing increasingly wary of banks and fintech startups getting too cozy](https://techcrunch.com/2022/09/11/regulators-appear-to-be-growing-increasingly-wary-of-banks-and-fintech-startups-getting-too-cozy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
