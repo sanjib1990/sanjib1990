@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google closes $5.4B Mandiant acquisition](https://techcrunch.com/2022/09/12/google-closes-5-4b-mandiant-acquisition/)
-- [The ETH merge cometh](https://techcrunch.com/2022/09/12/the-eth-merge-cometh/)
-- [Massive stars could &#39;steal&#39; gas giants from their planetary systems](https://www.space.com/planetary-heist-massive-stars-steal-exoplanets/)
-- [Google eyes manufacturing Pixel smartphones in India, report says](https://techcrunch.com/2022/09/12/google-eyes-manufacturing-pixel-smartphones-in-india-report-says/)
-- [Google introduces a set of iOS 16 Lock Screen widgets for your iPhone](https://techcrunch.com/2022/09/12/google-introduces-a-set-of-ios-16-lock-screen-widgets-for-your-iphone/)
+- [Can solar storms cause tsunamis?](https://www.space.com/can-solar-storms-cause-tsunamis/)
+- [What is Apple Passkey, and how will it help you go passwordless?](https://techcrunch.com/2022/09/12/apple-passkey/)
+- [Only five days left to save $1,100 on Disrupt passes](https://techcrunch.com/2022/09/12/only-five-days-left-to-save-1100-on-disrupt-passes/)
+- [Blue Origin launch aborted after mid-flight anomaly](https://techcrunch.com/2022/09/12/blue-origin-launch-aborted-after-mid-flight-anomaly/)
+- [Best drones 2022: Take to the skies with the best models for beginners and professionals](https://www.space.com/best-drones/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
