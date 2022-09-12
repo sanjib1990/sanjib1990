@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Can solar storms cause tsunamis?](https://www.space.com/can-solar-storms-cause-tsunamis/)
-- [What is Apple Passkey, and how will it help you go passwordless?](https://techcrunch.com/2022/09/12/apple-passkey/)
-- [Only five days left to save $1,100 on Disrupt passes](https://techcrunch.com/2022/09/12/only-five-days-left-to-save-1100-on-disrupt-passes/)
-- [Blue Origin launch aborted after mid-flight anomaly](https://techcrunch.com/2022/09/12/blue-origin-launch-aborted-after-mid-flight-anomaly/)
-- [Best drones 2022: Take to the skies with the best models for beginners and professionals](https://www.space.com/best-drones/)
+- [Movie and TV app ReelTime helps you track your viewing, check ratings and more](https://techcrunch.com/2022/09/12/movie-and-tv-app-reeltime-helps-you-track-your-viewing-check-ratings-and-more/)
+- [Blue Origin&#39;s New Shepard suffers anomaly during launch, capsule lands safely](https://www.space.com/blue-origin-ns-23-mission-launch-preview/)
+- [Tighter VC capital forces AI startups to face the music](https://techcrunch.com/2022/09/12/tighter-vc-capital-forces-ai-startups-to-face-the-music/)
+- [iOS 16 lands today with these five new security and privacy features](https://techcrunch.com/2022/09/12/ios-16-security-privacy/)
+- [Don’t leave your Meta Quest Pro prototype in your hotel room](https://techcrunch.com/2022/09/12/dont-leave-your-meta-quest-pro-prototype-in-your-hotel-room/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
