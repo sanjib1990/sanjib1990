@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [25+ iOS 16-ready apps featuring Lock Screen widgets you can try today](https://techcrunch.com/2022/09/12/25-ios-16-ready-apps-featuring-lock-screen-widgets-you-can-try-today/)
-- [Magna enters the micromobility and battery swapping market](https://techcrunch.com/2022/09/12/magna-enters-the-micromobility-and-battery-swapping-market/)
-- [What is nuclear fission?](https://www.space.com/what-is-nuclear-fission/)
-- [&#39;Lobster Nebula&#39; glows red in stunning new image from dark energy hunter](https://www.space.com/dark-energy-camera-lobster-nebula-photo/)
-- [All the nifty iOS 16 features you want to know about](https://techcrunch.com/2022/09/12/all-the-nifty-ios-16-features-you-want-to-know-about/)
+- [Want a Tesla Solar Roof? You may need to shell out for a Powerwall first](https://techcrunch.com/2022/09/12/tesla-solar-roof-new-powerwall-requirement/)
+- [&#39;We choose to go to the moon...&#39; again: NASA marks 60th anniversary of JFK speech](https://www.space.com/jfk-60th-anniversary-moon-speech-nasa-rice/)
+- [Failure of Blue Origin&#39;s New Shepard a reminder that spaceflight is still hard](https://www.space.com/blue-origin-failure-reminder-spaceflight-hard/)
+- [Is the glass half-empty or half-full in the seed market?](https://techcrunch.com/2022/09/12/is-the-glass-half-empty-or-half-full-in-the-seed-market/)
+- [Dwarf planet collision may have sent strange ultra-hard diamonds to Earth](https://www.space.com/meteorite-strange-form-of-diamond/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
