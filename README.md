@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Peloton co-founders resign amid company shakeup](https://techcrunch.com/2022/09/12/peloton-co-founders-resign-amid-company-shakeup/)
+- [Cruise to launch robotaxi services in Austin, Phoenix before end of 2022](https://techcrunch.com/2022/09/12/cruise-to-launch-robotaxi-services-in-austin-phoenix-before-end-of-2022/)
 - [Want a Tesla Solar Roof? You may need to shell out for a Powerwall first](https://techcrunch.com/2022/09/12/tesla-solar-roof-new-powerwall-requirement/)
 - [&#39;We choose to go to the moon...&#39; again: NASA marks 60th anniversary of JFK speech](https://www.space.com/jfk-60th-anniversary-moon-speech-nasa-rice/)
 - [Failure of Blue Origin&#39;s New Shepard a reminder that spaceflight is still hard](https://www.space.com/blue-origin-failure-reminder-spaceflight-hard/)
-- [Is the glass half-empty or half-full in the seed market?](https://techcrunch.com/2022/09/12/is-the-glass-half-empty-or-half-full-in-the-seed-market/)
-- [Dwarf planet collision may have sent strange ultra-hard diamonds to Earth](https://www.space.com/meteorite-strange-form-of-diamond/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
