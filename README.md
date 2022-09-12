@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [European sun spacecraft spots mysterious switchback that speeds solar wind](https://www.space.com/solar-orbiter-first-images-solar-wind-switchback/)
+- [Save 25% on this Snapmaker 3-in-1 3D printer back-to-school deal](https://www.space.com/save-350-dollars-on-snapmaker-350t-3d-printer-in-back-to-school-sale/)
 - [Movie and TV app ReelTime helps you track your viewing, check ratings and more](https://techcrunch.com/2022/09/12/movie-and-tv-app-reeltime-helps-you-track-your-viewing-check-ratings-and-more/)
 - [Blue Origin&#39;s New Shepard suffers anomaly during launch, capsule lands safely](https://www.space.com/blue-origin-ns-23-mission-launch-preview/)
 - [Tighter VC capital forces AI startups to face the music](https://techcrunch.com/2022/09/12/tighter-vc-capital-forces-ai-startups-to-face-the-music/)
-- [iOS 16 lands today with these five new security and privacy features](https://techcrunch.com/2022/09/12/ios-16-security-privacy/)
-- [Don’t leave your Meta Quest Pro prototype in your hotel room](https://techcrunch.com/2022/09/12/dont-leave-your-meta-quest-pro-prototype-in-your-hotel-room/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
