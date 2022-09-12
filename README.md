@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [European sun spacecraft spots mysterious switchback that speeds solar wind](https://www.space.com/solar-orbiter-first-images-solar-wind-switchback/)
-- [Save 25% on this Snapmaker 3-in-1 3D printer back-to-school deal](https://www.space.com/save-350-dollars-on-snapmaker-350t-3d-printer-in-back-to-school-sale/)
-- [Movie and TV app ReelTime helps you track your viewing, check ratings and more](https://techcrunch.com/2022/09/12/movie-and-tv-app-reeltime-helps-you-track-your-viewing-check-ratings-and-more/)
-- [Blue Origin&#39;s New Shepard suffers anomaly during launch, capsule lands safely](https://www.space.com/blue-origin-ns-23-mission-launch-preview/)
-- [Tighter VC capital forces AI startups to face the music](https://techcrunch.com/2022/09/12/tighter-vc-capital-forces-ai-startups-to-face-the-music/)
+- [Magna enters the micromobility and battery swapping market](https://techcrunch.com/2022/09/12/magna-enters-the-micromobility-and-battery-swapping-market/)
+- [What is nuclear fission?](https://www.space.com/what-is-nuclear-fission/)
+- [&#39;Lobster Nebula&#39; glows red in stunning new image from dark energy hunter](https://www.space.com/dark-energy-camera-lobster-nebula-photo/)
+- [All the nifty iOS 16 features you want to know about](https://techcrunch.com/2022/09/12/all-the-nifty-ios-16-features-you-want-to-know-about/)
+- [iOS 16 turns your iPhone into a more personal device](https://techcrunch.com/2022/09/12/ios-16-turns-your-iphone-into-a-more-personal-device/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
