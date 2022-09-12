@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch NASA chief commemorate 60th anniversary of JFK moon speech Monday](https://www.space.com/nelson-60th-anniversary-jfk-rice-moon-speech-preview/)
-- [Yandex’s sale of News and Zen to VK completes](https://techcrunch.com/2022/09/12/yandex-news-zen-vk-sale-completes/)
-- [Stockholm’s EQT Growth closes $2.2B to fund scaling European startups like Vinted, Mambu and Epidemic Sound](https://techcrunch.com/2022/09/12/eqt-growth-2-2-billion/)
-- [Elon Musk’s third termination notice to Twitter is about Mudge’s severance](https://techcrunch.com/2022/09/12/elon-musks-third-termination-notice-to-twitter-is-about-mudges-severance/)
-- [NASA will slam a spacecraft into an asteroid. This tiny witness will show us what happens.](https://www.space.com/liciacube-readies-to-observe-dart-hit-asteroid/)
+- [Uber turns to Nuro for AV delivery and Razor charges into the seated scooter market](https://techcrunch.com/2022/09/12/uber-turns-to-nuro-for-av-delivery-and-razor-charges-into-the-seated-scooter-market/)
+- [Gotham Greens just raised $310M to expand its greenhouses nationwide](https://techcrunch.com/2022/09/12/gotham-greens-just-raised-310m-to-expand-its-greenhouses-nationwide/)
+- [Diveplane lands $25M to grow its MLOps platform](https://techcrunch.com/2022/09/12/diveplane-lands-25m-to-grow-its-mlops-platform/)
+- [On This Day In Space: Sept. 12, 1992: Mae Jemison Becomes 1st African-American woman in space](https://www.space.com/39251-on-this-day-in-space.html/)
+- [Save $90 on this 4K Holy Stone GPS drone, ideal for newcomers to drone photography](https://www.space.com/save-90-dollars-on-4k-holy-stone-gps-drone-at-amazon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
