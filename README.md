@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TC Sessions: Crypto is in Miami — and 5 more reasons students should go](https://techcrunch.com/2022/09/13/tc-sessions-crypto-is-in-miami-and-5-more-reasons-students-should-go/)
-- [Enterprise e-commerce in 2022: As TAM expands, the platform wars are heating up](https://techcrunch.com/2022/09/13/enterprise-e-commerce-in-2022-as-tam-expands-the-platform-wars-are-heating-up/)
-- [Meta announces Discord-like ‘Community Chats’ on Messenger](https://techcrunch.com/2022/09/13/meta-announces-discord-like-community-chats-on-messenger/)
-- [Best used mirrorless cameras: save money on second-hand kit](https://www.space.com/best-used-mirrorless-cameras/)
-- [As Apple’s WeatherKit launches, Dark Sky for iOS to wind down operations by year-end](https://techcrunch.com/2022/09/13/as-apples-weatherkit-launches-dark-sky-for-ios-to-wind-down-operations-by-year-end/)
+- [HBO and HBO Max nabbed the most wins at this year’s Emmy Awards](https://techcrunch.com/2022/09/13/hbo-and-hbo-max-nabbed-the-most-wins-at-2022-emmys/)
+- [Pearl Jam &#39;travels&#39; to Mars and beyond in cosmic Apollo Theater show &lpar;videos, photos&rpar;](https://www.space.com/pearl-jam-gigaton-apollo-theater-review/)
+- [Maven’s a16z-backed live learning platform pivots from creators to experts](https://techcrunch.com/2022/09/13/mavens-a16z-backed-teaching-platform-pivots-from-creators-to-experts/)
+- [KKR dives into Avalanche blockchain to tokenize and ‘democratize’ financial services](https://techcrunch.com/2022/09/13/kkr-dives-into-avalanche-blockchain-to-tokenize-and-democratize-financial-services/)
+- [A change in Jupiter&#39;s orbit could make Earth even friendlier to life](https://www.space.com/jupiter-orbit-earth-more-habitable/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
