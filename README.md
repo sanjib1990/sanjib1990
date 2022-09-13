@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Our Next Energy debuts exotic new battery made from cheap, abundant metal](https://techcrunch.com/2022/09/13/our-next-energy-debuts-exotic-new-battery-made-from-cheap-abundant-metal/)
-- [Inspiration4 astronaut shares &#39;blast-off&#39; moment in new book](https://www.space.com/spacex-inspiration4-astronaut-hayley-arceneaux-memoir/)
-- [New Hygraph API helps developers federate content from multiple sources](https://techcrunch.com/2022/09/13/new-hygraph-api-helps-developers-federate-content-from-multiple-sources/)
-- [Workday turns more modern and personalized with new interface makeover](https://techcrunch.com/2022/09/13/workday-turns-more-modern-and-personalized-with-new-interface-makeover/)
-- [Twitter begins rolling out podcasts to Blue subscribers](https://techcrunch.com/2022/09/13/twitter-podcasts-blue-subscribers/)
+- [TC Sessions: Crypto is in Miami — and 5 more reasons students should go](https://techcrunch.com/2022/09/13/tc-sessions-crypto-is-in-miami-and-5-more-reasons-students-should-go/)
+- [Enterprise e-commerce in 2022: As TAM expands, the platform wars are heating up](https://techcrunch.com/2022/09/13/enterprise-e-commerce-in-2022-as-tam-expands-the-platform-wars-are-heating-up/)
+- [Meta announces Discord-like ‘Community Chats’ on Messenger](https://techcrunch.com/2022/09/13/meta-announces-discord-like-community-chats-on-messenger/)
+- [Best used mirrorless cameras: save money on second-hand kit](https://www.space.com/best-used-mirrorless-cameras/)
+- [As Apple’s WeatherKit launches, Dark Sky for iOS to wind down operations by year-end](https://techcrunch.com/2022/09/13/as-apples-weatherkit-launches-dark-sky-for-ios-to-wind-down-operations-by-year-end/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
