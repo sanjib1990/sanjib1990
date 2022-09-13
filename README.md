@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [VC funds still rolling as Northzone announces largest fund, while Salkantay is largest Peru fund](https://techcrunch.com/2022/09/13/vc-funds-northzone-salkantay/)
+- [Linux Foundation announces the OpenWallet Foundation to develop interoperable digital wallets](https://techcrunch.com/2022/09/13/linux-foundation-announces-the-openwallet-foundation-to-develop-interoperable-digital-wallets/)
 - [Xeneta makes a splash with $80M on a $265M valuation to scale its crowdsourced sea and air freight analytics](https://techcrunch.com/2022/09/13/xeneta-makes-a-splash-with-80m-on-a-265m-valuation-to-scale-its-crowdsourced-sea-and-air-freight-analytics/)
 - [Pakistan’s Neem raises $2.5M to serve underbanked communities with its embedded finance platform](https://techcrunch.com/2022/09/13/pakistan-embedded-financial-platform-neem-2-5-million-usd-seed-funding/)
 - [Vedanta and Foxconn sign agreement with Indian state for $20 billion semiconductor unit](https://techcrunch.com/2022/09/12/vedanta-and-foxconn-sign-agreement-with-indian-state-for-20-billion-semiconductor-unit/)
-- [How WhiteLab Genomics is using AI to aid gene and cell therapy development](https://techcrunch.com/2022/09/12/how-whitelab-genomics-is-using-ai-to-aid-gene-and-cell-therapy-development/)
-- [The SEC revealed today that it charged VMWare with fraud . . .  and then settled for next to nothing](https://techcrunch.com/2022/09/12/the-sec-revealed-today-that-it-charged-vmware-with-fraud-then-settled-for-next-to-nothing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
