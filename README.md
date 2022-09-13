@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Xeneta raises $80M to build out its real-time analytics platform for shipping and air freight](https://techcrunch.com/2022/09/13/daily-crunch-xeneta-raises-80m-to-build-out-its-real-time-analytics-platform-for-shipping-and-air-freight/)
+- [Zoom is okay, but location is important as ever, argues Madrona’s Matt McIllwain](https://techcrunch.com/2022/09/13/zoom-is-okay-but-location-is-more-important-than-ever-argues-madronas-matt-mcillwain/)
+- [What would you name a Uranus probe? The internet&#39;s answers are about what you&#39;d think](https://www.space.com/uranus-probe-names-internet-ideas/)
+- [LatAm’s Gen-t is working to enrich biotech with Brazilian genomic data](https://techcrunch.com/2022/09/13/latams-gen-t-is-working-to-enrich-biotech-with-brazilian-genomic-data/)
 - [Wegmans discontinues its in-store scan-and-go mobile app, citing high losses](https://techcrunch.com/2022/09/13/wegmans-discontinues-its-in-store-scan-and-go-mobile-app-citing-high-losses/)
-- [Instagram is internally testing a new monetization feature for creators called ‘Gifts’](https://techcrunch.com/2022/09/13/instagram-testing-gifts/)
-- [China&#39;s next moon missions get the green light](https://www.space.com/china-moon-exploration-chang-e-missions-approved/)
-- [Full moon calendar 2022: When to see the next full moon](https://www.space.com/16830-full-moon-calendar.html/)
-- [Patreon lays off 17% of staff, affecting 80 employees](https://techcrunch.com/2022/09/13/patreon-lays-off-17-of-staff-affecting-80-employees/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
