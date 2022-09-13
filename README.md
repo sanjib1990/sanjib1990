@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pakistan’s Neem raises $2.5M to serve underbanked communities with its embedded finance platform](https://techcrunch.com/2022/09/13/pakistan-embedded-financial-platform-neem-2-5-million-usd-seed-funding/)
+- [Vedanta and Foxconn sign agreement with Indian state for $20 billion semiconductor unit](https://techcrunch.com/2022/09/12/vedanta-and-foxconn-sign-agreement-with-indian-state-for-20-billion-semiconductor-unit/)
 - [How WhiteLab Genomics is using AI to aid gene and cell therapy development](https://techcrunch.com/2022/09/12/how-whitelab-genomics-is-using-ai-to-aid-gene-and-cell-therapy-development/)
-- [The SEC revealed today that it charged VMWare with fraud . . . then settled for next to nothing](https://techcrunch.com/2022/09/12/the-sec-revealed-today-that-it-charged-vmware-with-fraud-then-settled-for-next-to-nothing/)
+- [The SEC revealed today that it charged VMWare with fraud . . .  and then settled for next to nothing](https://techcrunch.com/2022/09/12/the-sec-revealed-today-that-it-charged-vmware-with-fraud-then-settled-for-next-to-nothing/)
 - [Launch of Artemis 1 moon rocket delayed to Sept. 27 at the earliest](https://www.space.com/artemis-1-moon-rocket-launch-delay-september-27/)
-- [Daily Crunch: New Starbucks Odyssey loyalty program ‘happens to be built on blockchain and web3’](https://techcrunch.com/2022/09/12/daily-crunch-new-starbucks-odyssey-loyalty-program-happens-to-be-built-on-blockchain-and-web3/)
-- [Max Q: The waiting game](https://techcrunch.com/2022/09/12/max-q-the-waiting-game/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
