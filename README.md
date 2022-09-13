@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch of Artemis 1 moon rocket delayed to Sept. 27 at the earliest](https://www.space.com/artemis-1-moon-rocket-launch-delay-september-27/)
 - [Daily Crunch: New Starbucks Odyssey loyalty program ‘happens to be built on blockchain and web3’](https://techcrunch.com/2022/09/12/daily-crunch-new-starbucks-odyssey-loyalty-program-happens-to-be-built-on-blockchain-and-web3/)
 - [Max Q: The waiting game](https://techcrunch.com/2022/09/12/max-q-the-waiting-game/)
 - [Peloton co-founders resign amid company shakeup](https://techcrunch.com/2022/09/12/peloton-co-founders-resign-amid-company-shakeup/)
 - [Cruise to launch robotaxi services in Austin, Phoenix before end of 2022](https://techcrunch.com/2022/09/12/cruise-to-launch-robotaxi-services-in-austin-phoenix-before-end-of-2022/)
-- [Want a Tesla Solar Roof? You may need to shell out for a Powerwall first](https://techcrunch.com/2022/09/12/tesla-solar-roof-new-powerwall-requirement/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
