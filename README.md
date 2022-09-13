@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [HBO and HBO Max nabbed the most wins at this year’s Emmy Awards](https://techcrunch.com/2022/09/13/hbo-and-hbo-max-nabbed-the-most-wins-at-2022-emmys/)
-- [Pearl Jam &#39;travels&#39; to Mars and beyond in cosmic Apollo Theater show &lpar;videos, photos&rpar;](https://www.space.com/pearl-jam-gigaton-apollo-theater-review/)
-- [Maven’s a16z-backed live learning platform pivots from creators to experts](https://techcrunch.com/2022/09/13/mavens-a16z-backed-teaching-platform-pivots-from-creators-to-experts/)
-- [KKR dives into Avalanche blockchain to tokenize and ‘democratize’ financial services](https://techcrunch.com/2022/09/13/kkr-dives-into-avalanche-blockchain-to-tokenize-and-democratize-financial-services/)
-- [A change in Jupiter&#39;s orbit could make Earth even friendlier to life](https://www.space.com/jupiter-orbit-earth-more-habitable/)
+- [Outer space is not the &quot;Wild West&quot;: There are clear rules for peace and war](https://www.space.com/outer-space-clear-rules-peace-and-war/)
+- [YC batch shows founders remain optimistic about fintech](https://techcrunch.com/2022/09/13/yc-batch-shows-founders-remain-optimistic-about-fintech/)
+- [Argo AI kicks into high gear to build a business out of AV tech](https://techcrunch.com/2022/09/13/argo-ai-kicks-into-high-gear-to-build-a-business-out-of-av-tech/)
+- [James Webb Space Telescope spots baby stars cocooned in the Orion Nebula](https://www.space.com/james-webb-space-telescope-orion-nebula-photo/)
+- [I’ve missed this feature since OmniWeb was shuttered — Safari 16 just brought it back](https://techcrunch.com/2022/09/13/ive-missed-this-feature-since-omniweb-was-shuttered-safari-16-just-brought-it-back/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
