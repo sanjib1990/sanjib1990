@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [5 reasons I chose DevOps as a Career](https://www.youtube.com/watch?v=2NtiI0Ojczw)
+- [Elephant Toothpaste Reaction](https://www.youtube.com/watch?v=N3byulM6JJ8)
 - [I tried 5 Firebase alternatives](https://www.youtube.com/watch?v=SXmYUalHyYk)
 - [let’s subnet your home network // You SUCK at subnetting // EP 6](https://www.youtube.com/watch?v=mJ_5qeqGOaI)
 - [Knowledge Graphs - Computerphile](https://www.youtube.com/watch?v=PZBm7M0HGzw)
-- [RabbitMQ in 100 Seconds](https://www.youtube.com/watch?v=NQ3fZtyXji0)
-- [There ain&#39;t no such thing as a &quot;free&quot; tier](https://www.youtube.com/watch?v=ciF7WZXmpjU)
 <!-- YOUTUBE:END -->
 
 ---
