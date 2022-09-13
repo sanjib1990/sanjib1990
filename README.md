@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google’s adtech practices targeted in UK, EU antitrust damages suits](https://techcrunch.com/2022/09/13/google-adtech-antitrust-damages-lawsuits-uk-netherlands/)
-- [As 3D printing merger closes, MakerBot CEO steps up and Ultimaker CEO steps down](https://techcrunch.com/2022/09/13/ultimaker-makerbot-merger/)
-- [MyCarrier raises $22M to match small shippers with freight carriers](https://techcrunch.com/2022/09/13/mycarrier-raises-22m-to-match-small-shippers-with-freight-carriers/)
-- [Industrial IoT startup Litmus Automation bags new cash to grow its product](https://techcrunch.com/2022/09/13/industrial-iot-startup-litmus-automation-bags-new-cash-to-grow-its-product/)
-- [Runa Capital kicks off new fund as it joins the VC ‘Scramble for Europe’ by moving to Luxembourg](https://techcrunch.com/2022/09/13/runa-capital-kicks-off-new-fund-as-it-joins-the-scramble-for-europe/)
+- [Best camera drones 2022: Capture stunning aerial photography and video](https://www.space.com/best-camera-drones/)
+- [Maverick leverages deepfakes for real e-commerce connection](https://techcrunch.com/2022/09/13/maverick-deepfakes-e-commerce/)
+- [Y Combinator-backed Andi taps AI to build a better search engine](https://techcrunch.com/2022/09/13/y-combinator-backed-andi-taps-ai-to-built-a-better-search-engine/)
+- [Zesty lands $75M for tech that adjusts cloud usage to save money](https://techcrunch.com/2022/09/13/zesty-lands-75m-for-tech-that-adjusts-cloud-usage-to-save-money/)
+- [Amazon’s basic Kindle gets USB-C, improved display, blue color](https://techcrunch.com/2022/09/13/amazons-kindle-usb-c/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
