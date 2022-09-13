@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Starbucks and DoorDash to launch delivery partnership in Atlanta, expand offering nationwide in 2023](https://techcrunch.com/2022/09/13/starbucks-and-doordash-to-launch-delivery-partnership-in-atlanta-expand-nationwide-in-2023/)
-- [A terrifying AI-generated woman is lurking in the abyss of latent space](https://techcrunch.com/2022/09/13/loab-ai-generated-horror/)
-- [Honda’s EV motorcycle offensive includes one just for kids](https://techcrunch.com/2022/09/13/hondas-ev-motorcycle-offensive-includes-one-just-for-kids/)
-- [Blue Origin&#39;s New Shepard rocket grounded as FAA investigates launch failure](https://www.space.com/blue-origin-new-shepard-grounded-faa-investigation/)
-- [Twitter shareholders approve Elon Musk’s $44 billion buyout offer](https://techcrunch.com/2022/09/13/twitter-shareholder-vote/)
+- [China&#39;s next moon missions get the green light](https://www.space.com/china-moon-exploration-chang-e-missions-approved/)
+- [Full moon calendar 2022: When to see the next full moon](https://www.space.com/16830-full-moon-calendar.html/)
+- [Patreon lays off 17% of staff, affecting 80 employees](https://techcrunch.com/2022/09/13/patreon-lays-off-17-of-staff-affecting-80-employees/)
+- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
+- [Webb’s Scientific Method, What to Expect](https://blogs.nasa.gov/webb/2022/09/13/webbs-scientific-method-what-to-expect/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
