@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Blue Origin&#39;s New Shepard grounded until FAA completes mishap investigation](https://www.space.com/blue-origin-new-shepard-grounded-faa-investigation/)
+- [Starbucks and DoorDash to launch delivery partnership in Atlanta, expand offering nationwide in 2023](https://techcrunch.com/2022/09/13/starbucks-and-doordash-to-launch-delivery-partnership-in-atlanta-expand-nationwide-in-2023/)
+- [A terrifying AI-generated woman is lurking in the abyss of latent space](https://techcrunch.com/2022/09/13/loab-ai-generated-horror/)
+- [Honda’s EV motorcycle offensive includes one just for kids](https://techcrunch.com/2022/09/13/hondas-ev-motorcycle-offensive-includes-one-just-for-kids/)
+- [Blue Origin&#39;s New Shepard rocket grounded as FAA investigates launch failure](https://www.space.com/blue-origin-new-shepard-grounded-faa-investigation/)
 - [Twitter shareholders approve Elon Musk’s $44 billion buyout offer](https://techcrunch.com/2022/09/13/twitter-shareholder-vote/)
-- [4 views on unpaid venture internships](https://techcrunch.com/2022/09/13/4-views-on-unpaid-venture-internships/)
-- [Tracking Fintech and Crypto at TechCrunch Disrupt](https://techcrunch.com/2022/09/13/tracking-fintech-and-crypto-at-techcrunch-disrupt/)
-- [3D print the cosmos: An interview with the authors of &#39;Stars in Your Hand&#39;](https://www.space.com/stars-in-your-hand-3d-printing-cosmos-book/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
