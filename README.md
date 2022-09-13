@@ -82,7 +82,7 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Blockchain Benefits - Computerphile](https://www.youtube.com/watch?v=qBAOsB6ETrY)
+- [Alternative Uses for Blockchain - Computerphile](https://www.youtube.com/watch?v=qBAOsB6ETrY)
 - [PocketBase... The Ultimate Side-Hustle Backend?](https://www.youtube.com/watch?v=Wqy3PBEglXQ)
 - [5 reasons I chose DevOps as a Career](https://www.youtube.com/watch?v=2NtiI0Ojczw)
 - [Elephant Toothpaste Reaction](https://www.youtube.com/watch?v=N3byulM6JJ8)
