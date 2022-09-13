@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [VC funds still rolling as Northzone announces largest fund, while Salkantay is largest Peru fund](https://techcrunch.com/2022/09/13/vc-funds-northzone-salkantay/)
-- [Linux Foundation announces the OpenWallet Foundation to develop interoperable digital wallets](https://techcrunch.com/2022/09/13/linux-foundation-announces-the-openwallet-foundation-to-develop-interoperable-digital-wallets/)
-- [Xeneta makes a splash with $80M on a $265M valuation to scale its crowdsourced sea and air freight analytics](https://techcrunch.com/2022/09/13/xeneta-makes-a-splash-with-80m-on-a-265m-valuation-to-scale-its-crowdsourced-sea-and-air-freight-analytics/)
-- [Pakistan’s Neem raises $2.5M to serve underbanked communities with its embedded finance platform](https://techcrunch.com/2022/09/13/pakistan-embedded-financial-platform-neem-2-5-million-usd-seed-funding/)
-- [Vedanta and Foxconn sign agreement with Indian state for $20 billion semiconductor unit](https://techcrunch.com/2022/09/12/vedanta-and-foxconn-sign-agreement-with-indian-state-for-20-billion-semiconductor-unit/)
+- [Google’s adtech practices targeted in UK, EU antitrust damages suits](https://techcrunch.com/2022/09/13/google-adtech-antitrust-damages-lawsuits-uk-netherlands/)
+- [As 3D printing merger closes, MakerBot CEO steps up and Ultimaker CEO steps down](https://techcrunch.com/2022/09/13/ultimaker-makerbot-merger/)
+- [MyCarrier raises $22M to match small shippers with freight carriers](https://techcrunch.com/2022/09/13/mycarrier-raises-22m-to-match-small-shippers-with-freight-carriers/)
+- [Industrial IoT startup Litmus Automation bags new cash to grow its product](https://techcrunch.com/2022/09/13/industrial-iot-startup-litmus-automation-bags-new-cash-to-grow-its-product/)
+- [Runa Capital kicks off new fund as it joins the VC ‘Scramble for Europe’ by moving to Luxembourg](https://techcrunch.com/2022/09/13/runa-capital-kicks-off-new-fund-as-it-joins-the-scramble-for-europe/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
