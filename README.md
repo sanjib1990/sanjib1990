@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astrobotic expands with acquisition of Masten Space Systems](https://techcrunch.com/2022/09/13/astrobotic-expands-with-acquisition-of-masten-space-systems/)
 - [Daily Crunch: Xeneta raises $80M to build out its real-time analytics platform for shipping and air freight](https://techcrunch.com/2022/09/13/daily-crunch-xeneta-raises-80m-to-build-out-its-real-time-analytics-platform-for-shipping-and-air-freight/)
-- [Zoom is okay, but location is important as ever, argues Madrona’s Matt McIllwain](https://techcrunch.com/2022/09/13/zoom-is-okay-but-location-is-more-important-than-ever-argues-madronas-matt-mcillwain/)
+- [Zoom is okay, but location is important as ever, argues Madrona’s Matt McIlwain](https://techcrunch.com/2022/09/13/zoom-is-okay-but-location-is-more-important-than-ever-argues-madronas-matt-mcillwain/)
 - [What would you name a Uranus probe? The internet&#39;s answers are about what you&#39;d think](https://www.space.com/uranus-probe-names-internet-ideas/)
 - [LatAm’s Gen-t is working to enrich biotech with Brazilian genomic data](https://techcrunch.com/2022/09/13/latams-gen-t-is-working-to-enrich-biotech-with-brazilian-genomic-data/)
-- [Wegmans discontinues its in-store scan-and-go mobile app, citing high losses](https://techcrunch.com/2022/09/13/wegmans-discontinues-its-in-store-scan-and-go-mobile-app-citing-high-losses/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
