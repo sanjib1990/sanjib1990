@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Wegmans discontinues its in-store scan-and-go mobile app, citing high losses](https://techcrunch.com/2022/09/13/wegmans-discontinues-its-in-store-scan-and-go-mobile-app-citing-high-losses/)
+- [Instagram is internally testing a new monetization feature for creators called ‘Gifts’](https://techcrunch.com/2022/09/13/instagram-testing-gifts/)
 - [China&#39;s next moon missions get the green light](https://www.space.com/china-moon-exploration-chang-e-missions-approved/)
 - [Full moon calendar 2022: When to see the next full moon](https://www.space.com/16830-full-moon-calendar.html/)
 - [Patreon lays off 17% of staff, affecting 80 employees](https://techcrunch.com/2022/09/13/patreon-lays-off-17-of-staff-affecting-80-employees/)
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
-- [Webb’s Scientific Method, What to Expect](https://blogs.nasa.gov/webb/2022/09/13/webbs-scientific-method-what-to-expect/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
