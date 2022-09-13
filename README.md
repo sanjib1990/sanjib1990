@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Outer space is not the &quot;Wild West&quot;: There are clear rules for peace and war](https://www.space.com/outer-space-clear-rules-peace-and-war/)
-- [YC batch shows founders remain optimistic about fintech](https://techcrunch.com/2022/09/13/yc-batch-shows-founders-remain-optimistic-about-fintech/)
-- [Argo AI kicks into high gear to build a business out of AV tech](https://techcrunch.com/2022/09/13/argo-ai-kicks-into-high-gear-to-build-a-business-out-of-av-tech/)
-- [James Webb Space Telescope spots baby stars cocooned in the Orion Nebula](https://www.space.com/james-webb-space-telescope-orion-nebula-photo/)
-- [I’ve missed this feature since OmniWeb was shuttered — Safari 16 just brought it back](https://techcrunch.com/2022/09/13/ive-missed-this-feature-since-omniweb-was-shuttered-safari-16-just-brought-it-back/)
+- [Blue Origin&#39;s New Shepard grounded until FAA completes mishap investigation](https://www.space.com/blue-origin-new-shepard-grounded-faa-investigation/)
+- [Twitter shareholders approve Elon Musk’s $44 billion buyout offer](https://techcrunch.com/2022/09/13/twitter-shareholder-vote/)
+- [4 views on unpaid venture internships](https://techcrunch.com/2022/09/13/4-views-on-unpaid-venture-internships/)
+- [Tracking Fintech and Crypto at TechCrunch Disrupt](https://techcrunch.com/2022/09/13/tracking-fintech-and-crypto-at-techcrunch-disrupt/)
+- [3D print the cosmos: An interview with the authors of &#39;Stars in Your Hand&#39;](https://www.space.com/stars-in-your-hand-3d-printing-cosmos-book/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
