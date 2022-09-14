@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The moon passes in front of Uranus on Wednesday](https://www.space.com/moon-uranus-occultation-sept-14-22/)
-- [&#39;Star Trek&#39; Day bursting with cast news, teasers and announcements](https://www.space.com/star-trek-day-teasers-news-2022/)
-- [NASA moon contractor Masten Space Systems acquired by Astrobotic](https://www.space.com/astrobotic-acquires-nasa-moon-contractor-masten/)
-- [Best beginner drones 2022: Find the best entry-level drone for you and your budget](https://www.space.com/best-beginner-drone/)
-- [Sony FE 14mm f/1.8 GM lens review](https://www.space.com/sony-fe-14mm-f1.8-gm-lens-review/)
+- [Starlink arrives in Antarctica](https://techcrunch.com/2022/09/14/spacex-satellite-internet-starlink-comes-to-antarctica/)
+- [Can the algorithms that ride-hailing and delivery startups use be fair?](https://techcrunch.com/2022/09/14/can-the-algorithms-that-ride-hailing-and-delivery-startups-use-be-fair/)
+- [Watch NASA&#39;s Perseverance scientists discuss rover&#39;s first 18 months on Mars](https://www.space.com/perseverance-rover-mars-18-months-watch-live/)
+- [Europe wants to shape the future of virtual worlds with rules and taxes](https://techcrunch.com/2022/09/14/eu-metaverse-virtual-worlds-tax/)
+- [Ford gives dealers an ultimatum on EV sales](https://techcrunch.com/2022/09/14/ford-gives-dealers-an-ultimatum-on-ev-sales/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
