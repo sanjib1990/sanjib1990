@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google fails to overturn EU’s €4BN+ Android antitrust decision](https://techcrunch.com/2022/09/14/google-eu-android-antirust-appeal-ruling/)
+- [Google has already published its version of the new 31 emojis](https://techcrunch.com/2022/09/14/google-has-already-published-its-version-of-the-new-31-emojis/)
 - [NeoCarbon wants industrial cooling towers to join the climate fight](https://techcrunch.com/2022/09/14/neocarbon-pre-seed/)
 - [Yubo is about to verify the age of all its users using facial age estimation](https://techcrunch.com/2022/09/14/yubo-is-about-to-verify-the-age-of-all-its-users-using-facial-age-estimation/)
-- [South Korea issues arrest warrant for Luna founder Do Kwon](https://techcrunch.com/2022/09/13/south-korea-issues-arrest-warrant-for-luna-founder-do-kwon/)
-- [CoverSelf’s customizable platform simplifies the healthcare claims system](https://techcrunch.com/2022/09/13/coverselfs-customizable-platform-simplifies-the-healthcare-claims-system/)
-- [Southeast Asian fintech Fazz raises $100M Series C to serve businesses of all sizes](https://techcrunch.com/2022/09/13/southeast-asian-fintech-fazz-raises-100m-series-c-to-serve-businesses-of-all-sizes/)
+- [South Korea issues arrest warrant for Do Kwon, Luna drop nearly 50%](https://techcrunch.com/2022/09/13/south-korea-issues-arrest-warrant-for-luna-founder-do-kwon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
