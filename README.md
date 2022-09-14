@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Period tracking app Flo rolls out ‘Anonymous Mode’ on iOS, Android launch coming next month](https://techcrunch.com/2022/09/14/period-tracking-app-flo-anonymous-mode/)
-- [Three days left to score a $110 discount on Disrupt 2022 tickets](https://techcrunch.com/2022/09/14/three-days-left-to-score-a-110-discount-on-disrupt-2022-tickets/)
-- [Dear Sophie: Is there a way to keep working in the US after my J-1 visa expires?](https://techcrunch.com/2022/09/14/dear-sophie-is-there-a-way-to-keep-working-in-the-us-after-my-j-1-visa-expires/)
-- [TruckSmarter comes out of stealth with a free load board for truckers](https://techcrunch.com/2022/09/14/trucksmarter-stealth-free-load-board-for-truckers/)
-- [Microsoft patches a new zero-day affecting all versions of Windows](https://techcrunch.com/2022/09/14/microsoft-zero-day-windows/)
+- [The moon passes in front of Uranus on Wednesday](https://www.space.com/moon-uranus-occultation-sept-14-22/)
+- [&#39;Star Trek&#39; Day bursting with cast news, teasers and announcements](https://www.space.com/star-trek-day-teasers-news-2022/)
+- [NASA moon contractor Masten Space Systems acquired by Astrobotic](https://www.space.com/astrobotic-acquires-nasa-moon-contractor-masten/)
+- [Best beginner drones 2022: Find the best entry-level drone for you and your budget](https://www.space.com/best-beginner-drone/)
+- [Sony FE 14mm f/1.8 GM lens review](https://www.space.com/sony-fe-14mm-f1.8-gm-lens-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
