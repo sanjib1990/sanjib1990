@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google fails to overturn EU’s €4BN+ Android antitrust decision](https://techcrunch.com/2022/09/14/google-eu-android-antirust-appeal-ruling/)
-- [Google has already published its version of the new 31 emojis](https://techcrunch.com/2022/09/14/google-has-already-published-its-version-of-the-new-31-emojis/)
-- [NeoCarbon wants industrial cooling towers to join the climate fight](https://techcrunch.com/2022/09/14/neocarbon-pre-seed/)
-- [Yubo is about to verify the age of all its users using facial age estimation](https://techcrunch.com/2022/09/14/yubo-is-about-to-verify-the-age-of-all-its-users-using-facial-age-estimation/)
-- [South Korea issues arrest warrant for Do Kwon, Luna drop nearly 50%](https://techcrunch.com/2022/09/13/south-korea-issues-arrest-warrant-for-luna-founder-do-kwon/)
+- [EV charging platform Monta raises at $155M valuation to expand into the US](https://techcrunch.com/2022/09/14/ev-charging-platform-monta-raises-at-155m-valuation-to-expand-into-the-us/)
+- [Supernova alert! Astronomers just found a way to predict explosive star deaths](https://www.space.com/supernova-warning-system-star-explosions/)
+- [Germany and Japan pledge not to conduct destructive anti-satellite tests](https://www.space.com/japan-germany-no-destructive-anti-satellite-tests/)
+- [Hubble Space Telescope captures two &#39;overlapping&#39; spiral galaxies in new photo](https://www.space.com/hubble-space-telescope-overlapping-galaxies-photo/)
+- [NASA satellites help dogs hunt for otter and mink poop](https://www.space.com/nasa-satellites-help-dogs-hunt-for-poop/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
