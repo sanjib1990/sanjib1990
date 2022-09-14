@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NeoCarbon wants industrial cooling towers to join the climate fight](https://techcrunch.com/2022/09/14/neocarbon-pre-seed/)
+- [Yubo is about to verify the age of all its users using facial age estimation](https://techcrunch.com/2022/09/14/yubo-is-about-to-verify-the-age-of-all-its-users-using-facial-age-estimation/)
+- [South Korea issues arrest warrant for Luna founder Do Kwon](https://techcrunch.com/2022/09/13/south-korea-issues-arrest-warrant-for-luna-founder-do-kwon/)
+- [CoverSelf’s customizable platform simplifies the healthcare claims system](https://techcrunch.com/2022/09/13/coverselfs-customizable-platform-simplifies-the-healthcare-claims-system/)
 - [Southeast Asian fintech Fazz raises $100M Series C to serve businesses of all sizes](https://techcrunch.com/2022/09/13/southeast-asian-fintech-fazz-raises-100m-series-c-to-serve-businesses-of-all-sizes/)
-- [Canva moves beyond graphic design to launch a visual worksuite](https://techcrunch.com/2022/09/13/canva-moves-beyond-graphic-design-to-launch-a-visual-worksuite/)
-- [AC Ventures reaches first close of a $250M fund for Southeast Asian startups](https://techcrunch.com/2022/09/13/ac-ventures-announces-first-close-of-a-250m-fund-for-southeast-asian-startups/)
-- [TC Sessions: Crypto is in Miami — and 5 more reasons students should go](https://techcrunch.com/2022/09/13/tc-sessions-crypto-is-in-miami-and-5-more-reasons-students-should-go/)
-- [Astrobotic expands with acquisition of Masten Space Systems](https://techcrunch.com/2022/09/13/astrobotic-expands-with-acquisition-of-masten-space-systems/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
