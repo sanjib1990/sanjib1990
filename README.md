@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta, TikTok, YouTube and Twitter dodge questions on social media and national security](https://techcrunch.com/2022/09/14/meta-tiktok-youtube-and-twitter-senate-hearing/)
+- [Jeep turns to its heritage for newest and cheapest plug-in hybrid Wrangler](https://techcrunch.com/2022/09/14/jeep-turns-to-its-heritage-for-newest-and-cheapest-plug-in-hybrid-wrangler/)
+- [SpaceX&#39;s Starlink internet service reaches Antarctica](https://www.space.com/spacex-starlink-internet-service-antarctica/)
 - [Daily Crunch: Twilio CEO: Laying off 11% of company’s workforce is ‘wise and necessary’](https://techcrunch.com/2022/09/14/daily-crunch-twilio-laying-off-11-of-workforce/)
-- [Perceptron: AI that lights up the moon, improvises grammar, and teaches robots to walk like humans](https://techcrunch.com/2022/09/14/perceptron-ai-that-lights-up-the-moon-improvises-grammar-and-teaches-robots-to-walk-like-humans/)
-- [TikTok claims it’s not collecting U.S. users’ biometric data, despite what privacy policy says](https://techcrunch.com/2022/09/14/tiktok-claims-its-not-collecting-u-s-users-biometric-data-despite-what-privacy-policy-says/)
-- [Codi lands $16 million, led by a16z, to prove that we never really actually liked co-working](https://techcrunch.com/2022/09/14/codi-a16z-series-a-hybrid-work/)
-- [Lido, Coinbase, Kraken and Binance stake majority of ETH. Does that matter?](https://techcrunch.com/2022/09/14/lido-coinbase-kraken-and-binance-stake-majority-of-eth-does-that-matter/)
+- [Perceptron: AI that lights up the moon, improvises grammar and teaches robots to walk like humans](https://techcrunch.com/2022/09/14/perceptron-ai-that-lights-up-the-moon-improvises-grammar-and-teaches-robots-to-walk-like-humans/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
