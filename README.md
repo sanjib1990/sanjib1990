@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Claim your space: Smithsonian offers free passes for Air and Space reopening](https://www.space.com/smithsonian-air-space-museum-reopening-passes/)
-- [Dig scoops up $34M to tackle the fragmented world of cloud data security](https://techcrunch.com/2022/09/14/dig-scoops-up-34m-to-tackle-the-fragmented-world-of-cloud-data-security/)
-- [Fintech startup Power flexes its credit card muscle following $316M equity, debt injection](https://techcrunch.com/2022/09/14/fintech-power-credit-card/)
-- [DJI turns the world of action cams on its side with the Osmo Action 3](https://techcrunch.com/2022/09/14/dji-osmo-action-3/)
-- [Best telescopes for seeing planets 2022](https://www.space.com/best-telescopes-for-seeing-planets/)
+- [Construction tech startup Kojo rebrands, expands and lands $39M](https://techcrunch.com/2022/09/14/construction-tech-kojo-materials-management-supply-chain/)
+- [The alternative asset class needs new infrastructure — who will build it?](https://techcrunch.com/2022/09/14/the-alternative-asset-class-needs-new-infrastructure-who-will-build-it/)
+- [Extortion group claims cyberattack on pharmaceutical giant IPCA Laboratories](https://techcrunch.com/2022/09/14/ipca-laboratories-ransom-house/)
+- [Anycubic Kobra Go review: Excellent printing, some assembly required](https://www.space.com/anycubic-kobra-go-review/)
+- [Biden to announce $900M to build EV charging stations](https://techcrunch.com/2022/09/14/biden-to-announce-900m-to-build-ev-charging-stations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
