@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lido, Coinbase, Kraken and Binance stake majority of ETH. Does that matter?](https://techcrunch.com/2022/09/14/lido-coinbase-kraken-and-binance-stake-majority-of-eth-does-that-matter/)
+- [TikTok competitor YouTube Shorts is integrating more closely with YouTube Music](https://techcrunch.com/2022/09/14/tiktok-competitor-youtube-shorts-is-integrating-more-closely-with-youtube-music/)
+- [Apollo’s app brings Reddit to your iOS 16 Lock Screen](https://techcrunch.com/2022/09/14/apollos-app-brings-reddit-to-your-ios-16-lock-screen/)
+- [Arpeggi Labs banks a16z funding to build web3 music software](https://techcrunch.com/2022/09/14/arpeggi-labs-banks-a16z-funding-to-build-web3-music-creation-software/)
 - [Alexa may answer your questions with ads soon](https://techcrunch.com/2022/09/14/alexa-answers-customer-questions-with-ads/)
-- [What is the gravitational constant?](https://www.space.com/what-is-the-gravitational-constant/)
-- [Multifamily housing has missed the solar boom. PearlX wants to fix that with $70M Series B](https://techcrunch.com/2022/09/14/multifamily-housing-has-missed-the-solar-boom-pearlx-wants-to-fix-that-with-70m-series-b/)
-- [Google cancels half the projects at its internal R&amp;D group Area 120](https://techcrunch.com/2022/09/14/google-cancels-half-the-projects-at-its-internal-rd-group-area-120/)
-- [Facebook’s latest app update brings iOS 16 Lock Screen widgets](https://techcrunch.com/2022/09/14/facebooks-ios-16-lock-screen-widgets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
