@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA requests 2 new private astronaut missions to International Space Station](https://www.space.com/nasa-international-space-station-two-private-missions/)
 - [Starlink arrives in Antarctica](https://techcrunch.com/2022/09/14/spacex-satellite-internet-starlink-comes-to-antarctica/)
 - [Can the algorithms that ride-hailing and delivery startups use be fair?](https://techcrunch.com/2022/09/14/can-the-algorithms-that-ride-hailing-and-delivery-startups-use-be-fair/)
 - [Watch NASA&#39;s Perseverance scientists discuss rover&#39;s first 18 months on Mars](https://www.space.com/perseverance-rover-mars-18-months-watch-live/)
 - [Europe wants to shape the future of virtual worlds with rules and taxes](https://techcrunch.com/2022/09/14/eu-metaverse-virtual-worlds-tax/)
-- [Ford gives dealers an ultimatum on EV sales](https://techcrunch.com/2022/09/14/ford-gives-dealers-an-ultimatum-on-ev-sales/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
