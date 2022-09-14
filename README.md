@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Claim your space: Smithsonian offers free passes for Air and Space reopening](https://www.space.com/smithsonian-air-space-museum-reopening-passes/)
 - [Dig scoops up $34M to tackle the fragmented world of cloud data security](https://techcrunch.com/2022/09/14/dig-scoops-up-34m-to-tackle-the-fragmented-world-of-cloud-data-security/)
 - [Fintech startup Power flexes its credit card muscle following $316M equity, debt injection](https://techcrunch.com/2022/09/14/fintech-power-credit-card/)
 - [DJI turns the world of action cams on its side with the Osmo Action 3](https://techcrunch.com/2022/09/14/dji-osmo-action-3/)
 - [Best telescopes for seeing planets 2022](https://www.space.com/best-telescopes-for-seeing-planets/)
-- [Nyshex lands a fresh $25M to match shippers with ocean carriers](https://techcrunch.com/2022/09/14/nyshex-lands-a-fresh-25m-to-match-shippers-with-ocean-carriers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
