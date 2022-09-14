@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Enverus acquires solar planning solution RatedPower](https://techcrunch.com/2022/09/14/enverus-acquires-solar-planning-solution-ratedpower/)
-- [Cyrebro, a specialist in cloud-based security ops, locks down $40M](https://techcrunch.com/2022/09/14/cyrebro-a-specialist-in-cloud-based-security-ops-locks-down-40m/)
-- [French foodtech Standing Ovation nabs $12 million for animal-free dairy cheese](https://techcrunch.com/2022/09/14/french-foodtech-standing-ovation-nabs-12-million-for-animal-free-dairy-cheese/)
-- [Indian edtech giant Byju’s missed own revenue projections in FY21](https://techcrunch.com/2022/09/14/indian-edtech-giant-byjus-missed-own-revenue-projections-in-fy21/)
-- [EV charging platform Monta raises at $155M valuation to expand into the US](https://techcrunch.com/2022/09/14/ev-charging-platform-monta-raises-at-155m-valuation-to-expand-into-the-us/)
+- [Dig scoops up $34M to tackle the fragmented world of cloud data security](https://techcrunch.com/2022/09/14/dig-scoops-up-34m-to-tackle-the-fragmented-world-of-cloud-data-security/)
+- [Fintech startup Power flexes its credit card muscle following $316M equity, debt injection](https://techcrunch.com/2022/09/14/fintech-power-credit-card/)
+- [DJI turns the world of action cams on its side with the Osmo Action 3](https://techcrunch.com/2022/09/14/dji-osmo-action-3/)
+- [Best telescopes for seeing planets 2022](https://www.space.com/best-telescopes-for-seeing-planets/)
+- [Nyshex lands a fresh $25M to match shippers with ocean carriers](https://techcrunch.com/2022/09/14/nyshex-lands-a-fresh-25m-to-match-shippers-with-ocean-carriers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
