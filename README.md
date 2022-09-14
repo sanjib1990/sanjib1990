@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Construction tech startup Kojo rebrands, expands and lands $39M](https://techcrunch.com/2022/09/14/construction-tech-kojo-materials-management-supply-chain/)
-- [The alternative asset class needs new infrastructure — who will build it?](https://techcrunch.com/2022/09/14/the-alternative-asset-class-needs-new-infrastructure-who-will-build-it/)
-- [Extortion group claims cyberattack on pharmaceutical giant IPCA Laboratories](https://techcrunch.com/2022/09/14/ipca-laboratories-ransom-house/)
-- [Anycubic Kobra Go review: Excellent printing, some assembly required](https://www.space.com/anycubic-kobra-go-review/)
-- [Biden to announce $900M to build EV charging stations](https://techcrunch.com/2022/09/14/biden-to-announce-900m-to-build-ev-charging-stations/)
+- [Period tracking app Flo rolls out ‘Anonymous Mode’ on iOS, Android launch coming next month](https://techcrunch.com/2022/09/14/period-tracking-app-flo-anonymous-mode/)
+- [Three days left to score a $110 discount on Disrupt 2022 tickets](https://techcrunch.com/2022/09/14/three-days-left-to-score-a-110-discount-on-disrupt-2022-tickets/)
+- [Dear Sophie: Is there a way to keep working in the US after my J-1 visa expires?](https://techcrunch.com/2022/09/14/dear-sophie-is-there-a-way-to-keep-working-in-the-us-after-my-j-1-visa-expires/)
+- [TruckSmarter comes out of stealth with a free load board for truckers](https://techcrunch.com/2022/09/14/trucksmarter-stealth-free-load-board-for-truckers/)
+- [Microsoft patches a new zero-day affecting all versions of Windows](https://techcrunch.com/2022/09/14/microsoft-zero-day-windows/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
