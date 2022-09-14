@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Twilio CEO: Laying off 11% of company’s workforce is ‘wise and necessary’](https://techcrunch.com/2022/09/14/daily-crunch-twilio-laying-off-11-of-workforce/)
+- [Perceptron: AI that lights up the moon, improvises grammar, and teaches robots to walk like humans](https://techcrunch.com/2022/09/14/perceptron-ai-that-lights-up-the-moon-improvises-grammar-and-teaches-robots-to-walk-like-humans/)
+- [TikTok claims it’s not collecting U.S. users’ biometric data, despite what privacy policy says](https://techcrunch.com/2022/09/14/tiktok-claims-its-not-collecting-u-s-users-biometric-data-despite-what-privacy-policy-says/)
 - [Codi lands $16 million, led by a16z, to prove that we never really actually liked co-working](https://techcrunch.com/2022/09/14/codi-a16z-series-a-hybrid-work/)
 - [Lido, Coinbase, Kraken and Binance stake majority of ETH. Does that matter?](https://techcrunch.com/2022/09/14/lido-coinbase-kraken-and-binance-stake-majority-of-eth-does-that-matter/)
-- [TikTok competitor YouTube Shorts is integrating more closely with YouTube Music](https://techcrunch.com/2022/09/14/tiktok-competitor-youtube-shorts-is-integrating-more-closely-with-youtube-music/)
-- [Apollo’s app brings Reddit to your iOS 16 Lock Screen](https://techcrunch.com/2022/09/14/apollos-app-brings-reddit-to-your-ios-16-lock-screen/)
-- [Arpeggi Labs banks a16z funding to build web3 music software](https://techcrunch.com/2022/09/14/arpeggi-labs-banks-a16z-funding-to-build-web3-music-creation-software/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
