@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA requests 2 new private astronaut missions to International Space Station](https://www.space.com/nasa-international-space-station-two-private-missions/)
-- [Starlink arrives in Antarctica](https://techcrunch.com/2022/09/14/spacex-satellite-internet-starlink-comes-to-antarctica/)
-- [Can the algorithms that ride-hailing and delivery startups use be fair?](https://techcrunch.com/2022/09/14/can-the-algorithms-that-ride-hailing-and-delivery-startups-use-be-fair/)
-- [Watch NASA&#39;s Perseverance scientists discuss rover&#39;s first 18 months on Mars](https://www.space.com/perseverance-rover-mars-18-months-watch-live/)
-- [Europe wants to shape the future of virtual worlds with rules and taxes](https://techcrunch.com/2022/09/14/eu-metaverse-virtual-worlds-tax/)
+- [Alexa may answer your questions with ads soon](https://techcrunch.com/2022/09/14/alexa-answers-customer-questions-with-ads/)
+- [What is the gravitational constant?](https://www.space.com/what-is-the-gravitational-constant/)
+- [Multifamily housing has missed the solar boom. PearlX wants to fix that with $70M Series B](https://techcrunch.com/2022/09/14/multifamily-housing-has-missed-the-solar-boom-pearlx-wants-to-fix-that-with-70m-series-b/)
+- [Google cancels half the projects at its internal R&amp;D group Area 120](https://techcrunch.com/2022/09/14/google-cancels-half-the-projects-at-its-internal-rd-group-area-120/)
+- [Facebook’s latest app update brings iOS 16 Lock Screen widgets](https://techcrunch.com/2022/09/14/facebooks-ios-16-lock-screen-widgets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
