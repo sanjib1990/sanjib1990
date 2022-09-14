@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AC Ventures announces first close of a $250M fund for Southeast Asian startups](https://techcrunch.com/2022/09/13/ac-ventures-announces-first-close-of-a-250m-fund-for-southeast-asian-startups/)
+- [TC Sessions: Crypto is in Miami — and 5 more reasons students should go](https://techcrunch.com/2022/09/13/tc-sessions-crypto-is-in-miami-and-5-more-reasons-students-should-go/)
 - [Astrobotic expands with acquisition of Masten Space Systems](https://techcrunch.com/2022/09/13/astrobotic-expands-with-acquisition-of-masten-space-systems/)
 - [Daily Crunch: Xeneta raises $80M to build out its real-time analytics platform for shipping and air freight](https://techcrunch.com/2022/09/13/daily-crunch-xeneta-raises-80m-to-build-out-its-real-time-analytics-platform-for-shipping-and-air-freight/)
-- [Zoom is okay, but location is important as ever, argues Madrona’s Matt McIlwain](https://techcrunch.com/2022/09/13/zoom-is-okay-but-location-is-more-important-than-ever-argues-madronas-matt-mcillwain/)
-- [What would you name a Uranus probe? The internet&#39;s answers are about what you&#39;d think](https://www.space.com/uranus-probe-names-internet-ideas/)
-- [LatAm’s Gen-t is working to enrich biotech with Brazilian genomic data](https://techcrunch.com/2022/09/13/latams-gen-t-is-working-to-enrich-biotech-with-brazilian-genomic-data/)
+- [VC still requires in-person connection, argues Madrona’s Matt McIlwain](https://techcrunch.com/2022/09/13/zoom-is-okay-but-location-is-more-important-than-ever-argues-madronas-matt-mcillwain/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
