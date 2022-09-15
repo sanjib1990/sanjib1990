@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple is rolling out a setup fix for iPhone 14 buyers](https://techcrunch.com/2022/09/15/apple-is-rolling-out-a-setup-fix-for-iphone-14-buyers/)
-- [Could the forests and land of Europe offset most of its CO2? This startup hopes to prove it](https://techcrunch.com/2022/09/15/could-the-forests-and-land-of-europe-offset-most-of-its-co2-this-startup-hopes-to-prove-it/)
-- [Kenya’s insurtech Turaco maintains 1 billion user target as it raises $10M funding](https://techcrunch.com/2022/09/15/kenyas-insurtech-turaco-maintains-1-billion-user-target-as-it-raises-10m-funding/)
-- [MVP Match, a tech-talent marketplace, raises $5M from Stage 2 Capital](https://techcrunch.com/2022/09/15/mvp-match-a-tech-talent-marketplace-raises-5m-from-stage-2-capital/)
-- [Virtual Internships matches students with top companies around the world](https://techcrunch.com/2022/09/14/virtual-internships-matches-students-with-top-companies-around-the-world/)
+- [Wow! Shiny SpaceX Starlink satellites soar in front of glowing aurora &lpar;video&rpar;](https://www.space.com/spacex-starlink-satellites-aurora-video/)
+- [Farewell, Dr. Z! NASA science chief to step down after 6 years on the job](https://www.space.com/nasa-science-chief-thomas-zurbuchen-leaving/)
+- [European sun probe sees carbon dioxide escaping Venus&#39; atmosphere](https://www.space.com/solar-orbiter-venus-carbon-dioxide-escape/)
+- [Sun halo on Mars! This Martian sky sight spotted by Perseverance rover was once thought to be impossible](https://www.space.com/mars-perseverance-rover-sun-halo-surprise/)
+- [HICX raises $30M to give companies visibility into their supply chain](https://techcrunch.com/2022/09/15/hicx-raises-30m-to-give-companies-visibility-into-their-supply-chain/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
