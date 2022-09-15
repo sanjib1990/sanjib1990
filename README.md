@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Walmart introduces virtual try-on tech which uses customers’ own photos to model the clothing](https://techcrunch.com/2022/09/14/walmart-introduces-virtual-try-on-tech-which-uses-customers-own-photos-to-model-the-clothing/)
+- [Indonesian crypto platform Reku is built for both new and experienced traders](https://techcrunch.com/2022/09/14/indonesian-crypto-platform-reku-is-built-for-both-new-and-experienced-traders/)
 - [VCs look the other way as they give $205M more to Verkada, whose tech has been abused repeatedly](https://techcrunch.com/2022/09/14/vcs-look-the-other-way-as-they-give-205m-more-to-verkada-whose-tech-has-been-abused-repeatedly/)
 - [Sigmoid raises $12 million to scale its data engineering and analytics platform](https://techcrunch.com/2022/09/14/sigmoid-sequoia-capital-india-series-b-funding/)
 - [California attorney general accuses Amazon of anti-competitive pricing](https://techcrunch.com/2022/09/14/california-attorney-general-accuses-amazon-of-anticompetitive-pricing/)
-- [Morpheus Space’s satellite thrusters are propelled forward with a $28M Series A](https://techcrunch.com/2022/09/14/morpheus-spaces-satellite-thrusters-are-propelled-forward-with-a-28m-series-a/)
-- [Majority, a mobile bank for migrants, closes third venture round in just over a year](https://techcrunch.com/2022/09/14/majority-a-mobile-bank-for-migrants-closes-third-venture-round-in-just-over-a-year/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
