@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Rocket Lab launches radar satellite toward orbit on 30th Electron mission](https://www.space.com/rocket-lab-launch-radar-satellite-strix-september-2022/)
-- [SpaceX missile-tracking satellite launch delayed at least three months](https://www.space.com/spacex-missile-tracking-satellite-launch-delayed/)
-- [Now that the Ethereum Merge is behind us, what’s next?](https://techcrunch.com/2022/09/15/now-that-the-ethereum-merge-is-behind-us-whats-next/)
-- [Plant-based leather pushes Allbirds’ new silhouette into classier territory](https://techcrunch.com/2022/09/15/plant-based-leather-pushes-allbirds-new-silhouette-into-classier-territory/)
-- [Perseverance rover collects organics-rich Mars samples for future return to Earth](https://www.space.com/perseverance-rover-mars-samples-rich-organics/)
+- [Daily Crunch: Adobe snaps up Figma in proposed $20B deal that has some scratching their heads](https://techcrunch.com/2022/09/15/daily-crunch-adobe-snaps-up-figma-in-proposed-20b-deal-that-has-some-scratching-their-heads/)
+- [CFPB signals that regulation is coming for BNPL](https://techcrunch.com/2022/09/15/cfpb-signals-that-regulation-is-coming-for-bnpl/)
+- [FTC sets its sights on ‘unfair, deceptive, and anticompetitive practices’ in gig economy](https://techcrunch.com/2022/09/15/ftc-sets-its-sights-on-unfair-deceptive-and-anticompetitive-practices-in-gig-economy/)
+- [Anki’s spiritual successor hits Kickstarter with some impressive moves](https://techcrunch.com/2022/09/15/ankis-spiritual-successor-hits-kickstarter-with-some-impressive-moves/)
+- [Unagi throws in the towel on its $700K Model Eleven scooter Indiegogo campaign](https://techcrunch.com/2022/09/15/unagi-indiegogo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
