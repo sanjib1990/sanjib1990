@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Pitch Deck Teardown: Helu.io’s $9.8M Series A deck](https://techcrunch.com/2022/09/15/sample-series-a-pitch-deck-helu-io/)
-- [Opal revamps its screen time app to help anyone, not just parents with kids, focus and avoid distractions](https://techcrunch.com/2022/09/15/opal-revamps-its-screen-time-app-to-help-anyone-not-just-parents-with-kids-focus-and-avoid-distractions/)
-- [What to Expect for Amazon Prime Video’s Exclusive Thursday Night Football](https://techcrunch.com/2022/09/15/amazon-prime-video-thursday-night-football/)
-- [&#39;Star Wars&#39; prequel series &#39;Andor&#39; gets a final trailer for Sept. 21 release](https://www.space.com/star-wars-andor-trailer-disney/)
-- [Index Ventures, Sila, The Engine weigh in on startups that require a longer time horizon at Disrupt](https://techcrunch.com/2022/09/15/index-ventures-sila-the-engine-weigh-in-on-startups-that-require-a-longer-time-horizon-at-disrupt/)
+- [Institutions investing in crypto haven’t ‘wavered one inch,’ LMAX CEO says](https://techcrunch.com/2022/09/15/institutions-investing-in-crypto-havent-wavered-an-inch-lmax-ceo-says/)
+- [Splatoon is the video game version of those ASMR-like ‘oddly satisfying’ videos](https://techcrunch.com/2022/09/15/splatoon-is-video-game-version-of-those-asmr-like-oddly-satisfying-videos/)
+- [Saturn may have destroyed one of its moons to make its rings](https://www.space.com/saturn-destroyed-moon-to-make-rings/)
+- [‘Top Widgets’ soars to No 1 on the App Store, displacing BeReal, as iOS 16 customization takes off](https://techcrunch.com/2022/09/15/top-widgets-soars-to-no-1-on-the-app-store-displacing-bereal-as-ios-16-customization-takes-off/)
+- [Polywork lands $28 million more to add hyphens to your job title](https://techcrunch.com/2022/09/15/polywork-lands-28-million-series-b-professional-network/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
