@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch Rocket Lab launch a radar satellite to orbit today](https://www.space.com/rocket-lab-launch-radar-satellite-strix-september-2022/)
+- [Rocket Lab launches radar satellite toward orbit on 30th Electron mission](https://www.space.com/rocket-lab-launch-radar-satellite-strix-september-2022/)
+- [SpaceX missile-tracking satellite launch delayed at least three months](https://www.space.com/spacex-missile-tracking-satellite-launch-delayed/)
+- [Now that the Ethereum Merge is behind us, what’s next?](https://techcrunch.com/2022/09/15/now-that-the-ethereum-merge-is-behind-us-whats-next/)
+- [Plant-based leather pushes Allbirds’ new silhouette into classier territory](https://techcrunch.com/2022/09/15/plant-based-leather-pushes-allbirds-new-silhouette-into-classier-territory/)
 - [Perseverance rover collects organics-rich Mars samples for future return to Earth](https://www.space.com/perseverance-rover-mars-samples-rich-organics/)
-- [Amazon’s live radio app Amp is launching a new creator fund](https://techcrunch.com/2022/09/15/amazons-live-radio-app-amp-is-launching-a-new-creator-fund/)
-- [Stunning image of Comet Leonard&#39;s breakup wins astronomy photography prize](https://www.space.com/astronomy-photographer-of-the-year-2022/)
-- [Institutions investing in crypto haven’t ‘wavered one inch,’ LMAX CEO says](https://techcrunch.com/2022/09/15/institutions-investing-in-crypto-havent-wavered-an-inch-lmax-ceo-says/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
