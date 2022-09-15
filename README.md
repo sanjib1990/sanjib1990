@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The EU unboxes its plan for smart device security](https://techcrunch.com/2022/09/15/eu-cyber-resilience-act-draft/)
-- [Latitude brings AI-generated artwork to AI Dungeon](https://techcrunch.com/2022/09/15/latitude-brings-ai-generated-artwork-to-ai-dungeon/)
-- [Adobe snaps up Figma for $20B, taking out one of its biggest rivals in digital design](https://techcrunch.com/2022/09/15/adobe-is-buying-figma-for-20b-taking-out-one-of-its-biggest-rivals-in-digital-design/)
-- [Denim, a fintech platform for freight brokers, raises $126M in equity and debt](https://techcrunch.com/2022/09/15/denim-a-fintech-platform-for-freight-brokers-raises-126m-in-equity-and-debt/)
-- [Payall lands $10M in a16z-led seed round to help banks facilitate more cross-border payments](https://techcrunch.com/2022/09/15/payall-lands-10m-in-a16z-led-seed-round-to-help-banks-facilitate-more-cross-border-payments/)
+- [Expanding the boundaries of primary care with Kelsey Mellard from Sitka](https://techcrunch.com/2022/09/15/expanding-the-boundaries-of-primary-care-with-kelsey-mellard-from-sitka/)
+- [Samsung aims to make global operations and products carbon neutral by 2050](https://techcrunch.com/2022/09/15/samsung-aims-to-make-global-operations-and-products-carbon-neutral-by-2050/)
+- [Apple Watch Series 8 review: Hoping for the best, preparing for the worst](https://techcrunch.com/2022/09/15/apple-watch-series-8-review-hoping-for-the-best-preparing-for-the-worst/)
+- [Papa Johns delivers &#39;space-flavored&#39; pizza inspired by flown chorizo](https://www.space.com/papa-johns-planet-chorizo-space-pizza/)
+- [Ratio bags $411M in equity, credit for flexible subscription payment models](https://techcrunch.com/2022/09/15/ratio-saas-subscription-payment/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
