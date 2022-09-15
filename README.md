@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple is rolling out a setup fix for iPhone 14 buyers](https://techcrunch.com/2022/09/15/apple-is-rolling-out-a-setup-fix-for-iphone-14-buyers/)
 - [Could the forests and land of Europe offset most of its CO2? This startup hopes to prove it](https://techcrunch.com/2022/09/15/could-the-forests-and-land-of-europe-offset-most-of-its-co2-this-startup-hopes-to-prove-it/)
 - [Kenya’s insurtech Turaco maintains 1 billion user target as it raises $10M funding](https://techcrunch.com/2022/09/15/kenyas-insurtech-turaco-maintains-1-billion-user-target-as-it-raises-10m-funding/)
 - [MVP Match, a tech-talent marketplace, raises $5M from Stage 2 Capital](https://techcrunch.com/2022/09/15/mvp-match-a-tech-talent-marketplace-raises-5m-from-stage-2-capital/)
 - [Virtual Internships matches students with top companies around the world](https://techcrunch.com/2022/09/14/virtual-internships-matches-students-with-top-companies-around-the-world/)
-- [Reusable packaging startup Olive creates new model to keep clothes out of landfills](https://techcrunch.com/2022/09/14/reusable-packaging-olive-b2b-clothes-landfills/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
