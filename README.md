@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Wow! Shiny SpaceX Starlink satellites soar in front of glowing aurora &lpar;video&rpar;](https://www.space.com/spacex-starlink-satellites-aurora-video/)
-- [Farewell, Dr. Z! NASA science chief to step down after 6 years on the job](https://www.space.com/nasa-science-chief-thomas-zurbuchen-leaving/)
-- [European sun probe sees carbon dioxide escaping Venus&#39; atmosphere](https://www.space.com/solar-orbiter-venus-carbon-dioxide-escape/)
-- [Sun halo on Mars! This Martian sky sight spotted by Perseverance rover was once thought to be impossible](https://www.space.com/mars-perseverance-rover-sun-halo-surprise/)
-- [HICX raises $30M to give companies visibility into their supply chain](https://techcrunch.com/2022/09/15/hicx-raises-30m-to-give-companies-visibility-into-their-supply-chain/)
+- [Watch Rocket Lab launch a radar satellite to orbit today](https://www.space.com/rocket-lab-launch-radar-satellite-strix-september-2022/)
+- [The Autel EVO Nano+ Premium bundle is cheaper than the drone by itself for a limited time](https://www.space.com/save-150-dollars-on-autel-evo-nano-plus-premium-bundle-amazon-deal/)
+- [Celestron StarSense Explorer LT 114AZ telescope review](https://www.space.com/celestron-starsense-explorer-lt114az-telescope-review/)
+- [On cloud platforms and SME antitrust complaints](https://techcrunch.com/2022/09/15/cloud-platform-sme-eu-antitrust-complaints/)
+- [Ethereum switches to proof-of-stake consensus after completing The Merge](https://techcrunch.com/2022/09/15/ethereum-switches-to-proof-of-stake-consensus-after-completing-the-merge/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
