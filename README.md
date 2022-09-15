@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch Rocket Lab launch a radar satellite to orbit today](https://www.space.com/rocket-lab-launch-radar-satellite-strix-september-2022/)
-- [The Autel EVO Nano+ Premium bundle is cheaper than the drone by itself for a limited time](https://www.space.com/save-150-dollars-on-autel-evo-nano-plus-premium-bundle-amazon-deal/)
-- [Celestron StarSense Explorer LT 114AZ telescope review](https://www.space.com/celestron-starsense-explorer-lt114az-telescope-review/)
-- [On cloud platforms and SME antitrust complaints](https://techcrunch.com/2022/09/15/cloud-platform-sme-eu-antitrust-complaints/)
-- [Ethereum switches to proof-of-stake consensus after completing The Merge](https://techcrunch.com/2022/09/15/ethereum-switches-to-proof-of-stake-consensus-after-completing-the-merge/)
+- [The EU unboxes its plan for smart device security](https://techcrunch.com/2022/09/15/eu-cyber-resilience-act-draft/)
+- [Latitude brings AI-generated artwork to AI Dungeon](https://techcrunch.com/2022/09/15/latitude-brings-ai-generated-artwork-to-ai-dungeon/)
+- [Adobe snaps up Figma for $20B, taking out one of its biggest rivals in digital design](https://techcrunch.com/2022/09/15/adobe-is-buying-figma-for-20b-taking-out-one-of-its-biggest-rivals-in-digital-design/)
+- [Denim, a fintech platform for freight brokers, raises $126M in equity and debt](https://techcrunch.com/2022/09/15/denim-a-fintech-platform-for-freight-brokers-raises-126m-in-equity-and-debt/)
+- [Payall lands $10M in a16z-led seed round to help banks facilitate more cross-border payments](https://techcrunch.com/2022/09/15/payall-lands-10m-in-a16z-led-seed-round-to-help-banks-facilitate-more-cross-border-payments/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
