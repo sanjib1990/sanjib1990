@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Force is strong with new trailer for &#39;Star Wars: Tales of the Jedi&#39; animated anthology](https://www.space.com/star-wars-tales-of-the-jedi-trailer-d23/)
+- [Star Trek: Lower Decks and Discovery have ruined the original series for me](https://www.space.com/star-trek-lower-decks-and-discovery-have-ruined-original-series/)
+- [How about that $20B Figma-Adobe deal?](https://techcrunch.com/2022/09/15/how-about-that-20b-figma-adobe-deal/)
+- [Selling APIs with Orum and Amex Ventures on TechCrunch Live](https://techcrunch.com/2022/09/15/selling-apis-with-orum-and-amex-ventures-on-techcrunch-live/)
 - [Astronomers may be getting Webb&#39;s exoplanet measurements wrong, study suggests](https://www.space.com/astronomy-models-getting-webb-measurements-wrong/)
-- [Best Lego space sets 2022: NASA Lego sets, spaceships, Marvel, and more](https://www.space.com/best-lego-space-sets/)
-- [Allocations just got valued at $150M to help private equity funds lure smaller investors](https://techcrunch.com/2022/09/15/allocations-miami-private-equity-crypto-alternative-assets-apis-venture-startups/)
-- [Sendbird adds live streaming from any app to communications platform](https://techcrunch.com/2022/09/15/sendbird-adds-live-streaming-from-any-app-to-communications-platform/)
-- [Zoom is down in a major outage](https://techcrunch.com/2022/09/15/zoom-is-experiencing-a-major-outage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
