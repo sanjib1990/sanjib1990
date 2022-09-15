@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The Force is strong with new trailer for &#39;Star Wars: Tales of the Jedi&#39; animated anthology](https://www.space.com/star-wars-tales-of-the-jedi-trailer-d23/)
-- [Star Trek: Lower Decks and Discovery have ruined the original series for me](https://www.space.com/star-trek-lower-decks-and-discovery-have-ruined-original-series/)
-- [How about that $20B Figma-Adobe deal?](https://techcrunch.com/2022/09/15/how-about-that-20b-figma-adobe-deal/)
-- [Selling APIs with Orum and Amex Ventures on TechCrunch Live](https://techcrunch.com/2022/09/15/selling-apis-with-orum-and-amex-ventures-on-techcrunch-live/)
-- [Astronomers may be getting Webb&#39;s exoplanet measurements wrong, study suggests](https://www.space.com/astronomy-models-getting-webb-measurements-wrong/)
+- [Pitch Deck Teardown: Helu.io’s $9.8M Series A deck](https://techcrunch.com/2022/09/15/sample-series-a-pitch-deck-helu-io/)
+- [Opal revamps its screen time app to help anyone, not just parents with kids, focus and avoid distractions](https://techcrunch.com/2022/09/15/opal-revamps-its-screen-time-app-to-help-anyone-not-just-parents-with-kids-focus-and-avoid-distractions/)
+- [What to Expect for Amazon Prime Video’s Exclusive Thursday Night Football](https://techcrunch.com/2022/09/15/amazon-prime-video-thursday-night-football/)
+- [&#39;Star Wars&#39; prequel series &#39;Andor&#39; gets a final trailer for Sept. 21 release](https://www.space.com/star-wars-andor-trailer-disney/)
+- [Index Ventures, Sila, The Engine weigh in on startups that require a longer time horizon at Disrupt](https://techcrunch.com/2022/09/15/index-ventures-sila-the-engine-weigh-in-on-startups-that-require-a-longer-time-horizon-at-disrupt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
