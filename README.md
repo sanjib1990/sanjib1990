@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta, TikTok, YouTube and Twitter dodge questions on social media and national security](https://techcrunch.com/2022/09/14/meta-tiktok-youtube-and-twitter-senate-hearing/)
-- [Jeep turns to its heritage for newest and cheapest plug-in hybrid Wrangler](https://techcrunch.com/2022/09/14/jeep-turns-to-its-heritage-for-newest-and-cheapest-plug-in-hybrid-wrangler/)
-- [SpaceX&#39;s Starlink internet service reaches Antarctica](https://www.space.com/spacex-starlink-internet-service-antarctica/)
-- [Daily Crunch: Twilio CEO: Laying off 11% of company’s workforce is ‘wise and necessary’](https://techcrunch.com/2022/09/14/daily-crunch-twilio-laying-off-11-of-workforce/)
-- [Perceptron: AI that lights up the moon, improvises grammar and teaches robots to walk like humans](https://techcrunch.com/2022/09/14/perceptron-ai-that-lights-up-the-moon-improvises-grammar-and-teaches-robots-to-walk-like-humans/)
+- [VCs look the other way as they give $205M more to Verkada, whose tech has been abused repeatedly](https://techcrunch.com/2022/09/14/vcs-look-the-other-way-as-they-give-205m-more-to-verkada-whose-tech-has-been-abused-repeatedly/)
+- [Sigmoid raises $12 million to scale its data engineering and analytics platform](https://techcrunch.com/2022/09/14/sigmoid-sequoia-capital-india-series-b-funding/)
+- [California attorney general accuses Amazon of anti-competitive pricing](https://techcrunch.com/2022/09/14/california-attorney-general-accuses-amazon-of-anticompetitive-pricing/)
+- [Morpheus Space’s satellite thrusters are propelled forward with a $28M Series A](https://techcrunch.com/2022/09/14/morpheus-spaces-satellite-thrusters-are-propelled-forward-with-a-28m-series-a/)
+- [Majority, a mobile bank for migrants, closes third venture round in just over a year](https://techcrunch.com/2022/09/14/majority-a-mobile-bank-for-migrants-closes-third-venture-round-in-just-over-a-year/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
