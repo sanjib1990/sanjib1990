@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch Rocket Lab launch a radar satellite to orbit today](https://www.space.com/rocket-lab-launch-radar-satellite-strix-september-2022/)
+- [Perseverance rover collects organics-rich Mars samples for future return to Earth](https://www.space.com/perseverance-rover-mars-samples-rich-organics/)
+- [Amazon’s live radio app Amp is launching a new creator fund](https://techcrunch.com/2022/09/15/amazons-live-radio-app-amp-is-launching-a-new-creator-fund/)
+- [Stunning image of Comet Leonard&#39;s breakup wins astronomy photography prize](https://www.space.com/astronomy-photographer-of-the-year-2022/)
 - [Institutions investing in crypto haven’t ‘wavered one inch,’ LMAX CEO says](https://techcrunch.com/2022/09/15/institutions-investing-in-crypto-havent-wavered-an-inch-lmax-ceo-says/)
-- [Splatoon is the video game version of those ASMR-like ‘oddly satisfying’ videos](https://techcrunch.com/2022/09/15/splatoon-is-video-game-version-of-those-asmr-like-oddly-satisfying-videos/)
-- [Saturn may have destroyed one of its moons to make its rings](https://www.space.com/saturn-destroyed-moon-to-make-rings/)
-- [‘Top Widgets’ soars to No 1 on the App Store, displacing BeReal, as iOS 16 customization takes off](https://techcrunch.com/2022/09/15/top-widgets-soars-to-no-1-on-the-app-store-displacing-bereal-as-ios-16-customization-takes-off/)
-- [Polywork lands $28 million more to add hyphens to your job title](https://techcrunch.com/2022/09/15/polywork-lands-28-million-series-b-professional-network/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
