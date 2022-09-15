@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Brilliant green meteor lights up the skies over United Kingdom &lpar;video&rpar;](https://www.space.com/brilliant-green-fireball-uk-video-sept-2022/)
-- [Kav spools up a 3D printing factory for bike helmets in Silicon Valley](https://techcrunch.com/2022/09/15/kav-3d-printing/)
-- [Watch Activision unveil the next generation of Call of Duty right here](https://techcrunch.com/2022/09/15/cod-modern-warfare-ii-mwii-live-gameplay-cod-next/)
-- [Miners flee to Ethereum Classic as ‘the Merge’ arrives](https://techcrunch.com/2022/09/15/miners-ethereum-classic-the-merge/)
-- [Game on for UK’s deeper antitrust probe of Microsoft-Activision](https://techcrunch.com/2022/09/15/microsoft-activision-uk-antitrust-probe/)
+- [Astronomers may be getting Webb&#39;s exoplanet measurements wrong, study suggests](https://www.space.com/astronomy-models-getting-webb-measurements-wrong/)
+- [Best Lego space sets 2022: NASA Lego sets, spaceships, Marvel, and more](https://www.space.com/best-lego-space-sets/)
+- [Allocations just got valued at $150M to help private equity funds lure smaller investors](https://techcrunch.com/2022/09/15/allocations-miami-private-equity-crypto-alternative-assets-apis-venture-startups/)
+- [Sendbird adds live streaming from any app to communications platform](https://techcrunch.com/2022/09/15/sendbird-adds-live-streaming-from-any-app-to-communications-platform/)
+- [Zoom is down in a major outage](https://techcrunch.com/2022/09/15/zoom-is-experiencing-a-major-outage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
