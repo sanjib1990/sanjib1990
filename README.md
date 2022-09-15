@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Brilliant green meteor lights up the skies over United Kingdom &lpar;video&rpar;](https://www.space.com/brilliant-green-fireball-uk-video-sept-2022/)
+- [Kav spools up a 3D printing factory for bike helmets in Silicon Valley](https://techcrunch.com/2022/09/15/kav-3d-printing/)
+- [Watch Activision unveil the next generation of Call of Duty right here](https://techcrunch.com/2022/09/15/cod-modern-warfare-ii-mwii-live-gameplay-cod-next/)
 - [Miners flee to Ethereum Classic as ‘the Merge’ arrives](https://techcrunch.com/2022/09/15/miners-ethereum-classic-the-merge/)
 - [Game on for UK’s deeper antitrust probe of Microsoft-Activision](https://techcrunch.com/2022/09/15/microsoft-activision-uk-antitrust-probe/)
-- [TikTok just launched a BeReal clone called TikTok Now](https://techcrunch.com/2022/09/15/tiktok-just-launched-a-bereal-clone-called-tiktok-now/)
-- [Rephrase.ai lands fresh investment to grow its synthetic media platform](https://techcrunch.com/2022/09/15/rephrase-ai-lands-fresh-investment-to-grow-its-synthetic-media-platform/)
-- [NASA-funded spacesuit tech may help with menopause relief](https://www.space.com/nasa-funded-spacesuit-tech-menopause-relief/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
