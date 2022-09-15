@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Expanding the boundaries of primary care with Kelsey Mellard from Sitka](https://techcrunch.com/2022/09/15/expanding-the-boundaries-of-primary-care-with-kelsey-mellard-from-sitka/)
-- [Samsung aims to make global operations and products carbon neutral by 2050](https://techcrunch.com/2022/09/15/samsung-aims-to-make-global-operations-and-products-carbon-neutral-by-2050/)
-- [Apple Watch Series 8 review: Hoping for the best, preparing for the worst](https://techcrunch.com/2022/09/15/apple-watch-series-8-review-hoping-for-the-best-preparing-for-the-worst/)
-- [Papa Johns delivers &#39;space-flavored&#39; pizza inspired by flown chorizo](https://www.space.com/papa-johns-planet-chorizo-space-pizza/)
-- [Ratio bags $411M in equity, credit for flexible subscription payment models](https://techcrunch.com/2022/09/15/ratio-saas-subscription-payment/)
+- [Miners flee to Ethereum Classic as ‘the Merge’ arrives](https://techcrunch.com/2022/09/15/miners-ethereum-classic-the-merge/)
+- [Game on for UK’s deeper antitrust probe of Microsoft-Activision](https://techcrunch.com/2022/09/15/microsoft-activision-uk-antitrust-probe/)
+- [TikTok just launched a BeReal clone called TikTok Now](https://techcrunch.com/2022/09/15/tiktok-just-launched-a-bereal-clone-called-tiktok-now/)
+- [Rephrase.ai lands fresh investment to grow its synthetic media platform](https://techcrunch.com/2022/09/15/rephrase-ai-lands-fresh-investment-to-grow-its-synthetic-media-platform/)
+- [NASA-funded spacesuit tech may help with menopause relief](https://www.space.com/nasa-funded-spacesuit-tech-menopause-relief/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
