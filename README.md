@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See elusive planet Neptune in opposition tonight &lpar;Sept. 16&rpar;](https://www.space.com/neptune-opposition-friday-sept-17/)
 - [Autonomous electric truck company Einride rides into Germany](https://techcrunch.com/2022/09/16/autonomous-electric-truck-company-einride-rides-into-germany/)
 - [On This Day In Space: Sept. 16, 1949: V-2 Rocket Explodes, Kills Monkey Passenger](https://www.space.com/39251-on-this-day-in-space.html/)
 - [Federato raises $15M to help insurance customers manage risk](https://techcrunch.com/2022/09/16/2399423/)
 - [We still haven&#39;t found most of Mars&#39; ancient lakes](https://www.space.com/ancient-mars-lakes-water-revealed-new-detail/)
-- [See the conjunction of the moon and Mars tonight &lpar;Sept. 16&rpar;](https://www.space.com/moon-mars-conjunction-september-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
