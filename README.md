@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: All I can see is you — iOS 16 users enjoy new photo background removal feature](https://techcrunch.com/2022/09/16/daily-crunch-all-i-can-see-is-you-ios-16-users-enjoy-new-photo-background-removal-feature/)
+- [Parler forms a new parent company to offer ‘uncancelable’ cloud services](https://techcrunch.com/2022/09/16/parler-parlement-web-hosting/)
+- [Launch House holds private town hall, says investigation is underway](https://techcrunch.com/2022/09/16/launch-house-holds-private-town-hall-says-investigation-is-underway/)
 - [Nanoracks cut a piece of metal in space for the first time](https://techcrunch.com/2022/09/16/nanoracks-metal-cutting/)
 - [China, UAE will collaborate on moon rover missions](https://www.space.com/china-uae-moon-rover-missions/)
-- [Lynk may beat Starlink and Apple to the punch as FCC approves its space-based texting](https://techcrunch.com/2022/09/16/lynk-may-beat-starlink-and-apple-to-the-punch-as-fcc-approves-its-space-based-texting/)
-- [Most fintechs partner with banks. Varo became one, and says it’s paying off](https://techcrunch.com/2022/09/16/fintech-varo-digital-bank/)
-- [This robot crossed a line it shouldn’t have because humans told it to](https://techcrunch.com/2022/09/16/serve-robotics-sidewalk-robot-crime-scene/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
