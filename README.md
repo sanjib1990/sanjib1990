@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Singapore’s KNN3 wants to enable social discovery for decentralized apps](https://techcrunch.com/2022/09/16/singapore-knn3-social-graph-database-web3/)
 - [YouTube encourages creators to make Shorts directly from replies](https://techcrunch.com/2022/09/16/youtube-encourages-creators-to-make-shorts-directly-from-replies/)
 - [Uber investigating cybersecurity incident after hacker breaches its internal network](https://techcrunch.com/2022/09/16/uber-internal-network-hack/)
 - [General Atlantic buys out SoftBank’s 15% stake in edtech Kahoot, now valued at about $152M vs the $215M SoftBank ponied up 2 years ago](https://techcrunch.com/2022/09/16/kahoot-softbank-general-atlantic/)
 - [Controversial investor Shervin Pishevar resurfaces as “vice chairman” of Yeezy](https://techcrunch.com/2022/09/15/controversial-investor-shervin-pishevar-resurfaces-as-vice-chairman-of-yeezy/)
-- [Tencent lays off nearly all of staff at its gaming site Fanbyte](https://techcrunch.com/2022/09/15/tencent-lays-off-nearly-all-of-staff-at-its-gaming-site-fanbyte/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
