@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates/)
-- [China tests new engine for huge Long March 9 moon rocket](https://www.space.com/china-long-march-9-moon-rocket-engine-test/)
-- [Where’s the center of the startup world? Depends on which VC you ask](https://techcrunch.com/2022/09/16/wheres-the-center-of-the-startup-world-depends-on-which-vc-you-ask/)
-- [Anycubic Kobra Max review: we like big prints and we cannot lie](https://www.space.com/anycubic-kobra-max-review/)
-- [Ukraine invasion&#39;s impacts on space exploration: Live updates](https://www.space.com/news/live/russia-ukraine-invasion-space-impacts-updates/)
+- [After the Figma-Adobe deal, which design startups are acquisition targets?](https://techcrunch.com/2022/09/16/after-the-figma-adobe-deal-which-design-startups-are-acquisition-targets/)
+- [Intuitive Machines to go public in SPAC deal](https://techcrunch.com/2022/09/16/intuitive-machines-to-go-public-in-spac-deal/)
+- [Last call to save $1100 on Disrupt passes](https://techcrunch.com/2022/09/16/last-call-to-save-1100-on-disrupt-passes/)
+- [NebulaGraph reaps from China’s growing appetite for graph databases](https://techcrunch.com/2022/09/16/nebulagraph-china-open-source-graph-database/)
+- [&#39;The Mandalorian&#39; gets a thrilling new teaser trailer for season 3](https://www.space.com/star-wars-the-mandalorian-season-3-trailer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
