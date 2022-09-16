@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [General Atlantic buys out SoftBank’s 15% stake in edtech Kahoot, now valued at about $152M vs the $215M SoftBank ponied up 2 years ago](https://techcrunch.com/2022/09/16/kahoot-softbank-general-atlantic/)
 - [Controversial investor Shervin Pishevar resurfaces as “vice chairman” of Yeezy](https://techcrunch.com/2022/09/15/controversial-investor-shervin-pishevar-resurfaces-as-vice-chairman-of-yeezy/)
 - [Tencent lays off nearly all of staff at its gaming site Fanbyte](https://techcrunch.com/2022/09/15/tencent-lays-off-nearly-all-of-staff-at-its-gaming-site-fanbyte/)
 - [Rocket Lab celebrates 30th launch and 150th satellite sent to orbit](https://techcrunch.com/2022/09/15/rocket-lab-celebrates-30th-launch-and-150th-satellite-sent-to-orbit/)
 - [Private equity’s gatekeepers get serious about tokens](https://techcrunch.com/2022/09/15/private-equitys-gatekeepers-get-serious-about-tokens/)
-- [Happy anniversary, Inspiration4! Landmark SpaceX tourism mission launched 1 year ago today](https://www.space.com/inspiration4-spacex-astronaut-mission-one-year-anniversary/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
