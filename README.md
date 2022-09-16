@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Adobe makes $20B bet on a collaborative future with Figma acquisition](https://techcrunch.com/2022/09/16/adobe-makes-20b-bet-on-a-collaborative-future-with-figma-acquisition/)
-- [TechCrunch+ roundup: Growth activation metrics, 3 keys to Series B, pitch deck teardown](https://techcrunch.com/2022/09/16/techcrunch-roundup-growth-activation-metrics-3-keys-to-series-b-pitch-deck-teardown/)
-- [Canon EOS R5 mirrorless camera review](https://www.space.com/canon-eos-r5-review/)
-- [Smallsat launcher ABL Space Systems gearing up for its 1st-ever liftoff](https://www.space.com/abl-space-systems-debut-launch-preview/)
-- [Amazon Prime Video announces live-action ‘Blade Runner’ limited TV series](https://techcrunch.com/2022/09/16/amazon-prime-video-announces-live-action-blade-runner-limited-tv-series/)
+- [Unsealed docs in Facebook privacy suit offer glimpse of missing app audit](https://techcrunch.com/2022/09/16/unsealed-docs-in-facebook-privacy-suit-offer-glimpse-of-missing-app-audit/)
+- [Launch House’s community reacts to misconduct and harassment allegations](https://techcrunch.com/2022/09/16/launch-houses-community-reacts-to-misconduct-and-harassment-allegations/)
+- [How to create a due diligence road map for Series B investors](https://techcrunch.com/2022/09/16/due-diligence-roadmap-for-series-b-investors/)
+- [Weather satellites watch Tropical Storm Fiona develop in the Atlantic &lpar;video&rpar;](https://www.space.com/tropical-storm-fiona-satellite-video-goes-16/)
+- [Ultraluminous &#39;hot DOG&#39; galaxy fed by swarm of surrounding satellite galaxies](https://www.space.com/cosmic-hot-dog-galaxy-surrounded-by-smaller-galaxies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
