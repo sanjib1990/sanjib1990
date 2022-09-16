@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla ordered to tell laid off workers about lawsuit](https://techcrunch.com/2022/09/16/tesla-ordered-to-tell-laid-off-workers-about-lawsuit/)
+- [NASA requests proposals for 2nd moon lander for Artemis astronauts](https://www.space.com/nasa-artemis-astronauts-second-moon-lander/)
+- [Deep tech VC First Star plots a $40M third fund](https://techcrunch.com/2022/09/16/deep-tech-vc-first-star-targets-40m-fund-three/)
 - [Daily Crunch: All I can see is you — iOS 16 users enjoy new photo background removal feature](https://techcrunch.com/2022/09/16/daily-crunch-all-i-can-see-is-you-ios-16-users-enjoy-new-photo-background-removal-feature/)
 - [Parler forms a new parent company to offer ‘uncancelable’ cloud services](https://techcrunch.com/2022/09/16/parler-parlement-web-hosting/)
-- [Launch House holds private town hall, says investigation is underway](https://techcrunch.com/2022/09/16/launch-house-holds-private-town-hall-says-investigation-is-underway/)
-- [Nanoracks cut a piece of metal in space for the first time](https://techcrunch.com/2022/09/16/nanoracks-metal-cutting/)
-- [China, UAE will collaborate on moon rover missions](https://www.space.com/china-uae-moon-rover-missions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
