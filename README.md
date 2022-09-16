@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [See elusive planet Neptune in opposition tonight &lpar;Sept. 16&rpar;](https://www.space.com/neptune-opposition-friday-sept-17/)
-- [Autonomous electric truck company Einride rides into Germany](https://techcrunch.com/2022/09/16/autonomous-electric-truck-company-einride-rides-into-germany/)
-- [On This Day In Space: Sept. 16, 1949: V-2 Rocket Explodes, Kills Monkey Passenger](https://www.space.com/39251-on-this-day-in-space.html/)
-- [Federato raises $15M to help insurance customers manage risk](https://techcrunch.com/2022/09/16/2399423/)
-- [We still haven&#39;t found most of Mars&#39; ancient lakes](https://www.space.com/ancient-mars-lakes-water-revealed-new-detail/)
+- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates/)
+- [China tests new engine for huge Long March 9 moon rocket](https://www.space.com/china-long-march-9-moon-rocket-engine-test/)
+- [Where’s the center of the startup world? Depends on which VC you ask](https://techcrunch.com/2022/09/16/wheres-the-center-of-the-startup-world-depends-on-which-vc-you-ask/)
+- [Anycubic Kobra Max review: we like big prints and we cannot lie](https://www.space.com/anycubic-kobra-max-review/)
+- [Ukraine invasion&#39;s impacts on space exploration: Live updates](https://www.space.com/news/live/russia-ukraine-invasion-space-impacts-updates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
