@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Grocery delivery startups with low margins might drop IPO dreams for M&amp;A reality](https://techcrunch.com/2022/09/16/grocery-delivery-startups-with-low-margins-might-drop-ipo-dreams-for-ma-reality/)
+- [WhatsApp’s first original film to air on Prime Video and YouTube, NBA player Giannis Antetokounmpo stars](https://techcrunch.com/2022/09/16/whatsapps-first-original-film-to-air-on-prime-video-and-youtube-nba-player-giannis-antetokounmpo-stars/)
+- [A massive solar flare knocked out radio in Africa and the Middle East Friday](https://www.space.com/solar-flare-radio-blackouts-september-2022/)
 - [Unsealed docs in Facebook privacy suit offer glimpse of missing app audit](https://techcrunch.com/2022/09/16/unsealed-docs-in-facebook-privacy-suit-offer-glimpse-of-missing-app-audit/)
 - [Launch House’s community reacts to misconduct and harassment allegations](https://techcrunch.com/2022/09/16/launch-houses-community-reacts-to-misconduct-and-harassment-allegations/)
-- [How to create a due diligence road map for Series B investors](https://techcrunch.com/2022/09/16/due-diligence-roadmap-for-series-b-investors/)
-- [Weather satellites watch Tropical Storm Fiona develop in the Atlantic &lpar;video&rpar;](https://www.space.com/tropical-storm-fiona-satellite-video-goes-16/)
-- [Ultraluminous &#39;hot DOG&#39; galaxy fed by swarm of surrounding satellite galaxies](https://www.space.com/cosmic-hot-dog-galaxy-surrounded-by-smaller-galaxies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
