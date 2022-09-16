@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Grocery delivery startups with low margins might drop IPO dreams for M&amp;A reality](https://techcrunch.com/2022/09/16/grocery-delivery-startups-with-low-margins-might-drop-ipo-dreams-for-ma-reality/)
-- [WhatsApp’s first original film to air on Prime Video and YouTube, NBA player Giannis Antetokounmpo stars](https://techcrunch.com/2022/09/16/whatsapps-first-original-film-to-air-on-prime-video-and-youtube-nba-player-giannis-antetokounmpo-stars/)
-- [A massive solar flare knocked out radio in Africa and the Middle East Friday](https://www.space.com/solar-flare-radio-blackouts-september-2022/)
-- [Unsealed docs in Facebook privacy suit offer glimpse of missing app audit](https://techcrunch.com/2022/09/16/unsealed-docs-in-facebook-privacy-suit-offer-glimpse-of-missing-app-audit/)
-- [Launch House’s community reacts to misconduct and harassment allegations](https://techcrunch.com/2022/09/16/launch-houses-community-reacts-to-misconduct-and-harassment-allegations/)
+- [Nanoracks cut a piece of metal in space for the first time](https://techcrunch.com/2022/09/16/nanoracks-metal-cutting/)
+- [China, UAE will collaborate on moon rover missions](https://www.space.com/china-uae-moon-rover-missions/)
+- [Lynk may beat Starlink and Apple to the punch as FCC approves its space-based texting](https://techcrunch.com/2022/09/16/lynk-may-beat-starlink-and-apple-to-the-punch-as-fcc-approves-its-space-based-texting/)
+- [Most fintechs partner with banks. Varo became one, and says it’s paying off](https://techcrunch.com/2022/09/16/fintech-varo-digital-bank/)
+- [This robot crossed a line it shouldn’t have because humans told it to](https://techcrunch.com/2022/09/16/serve-robotics-sidewalk-robot-crime-scene/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
