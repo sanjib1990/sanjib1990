@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [A Month on &#39;Mars&#39;: Return to Earth](https://www.space.com/month-on-mars-return-to-earth/)
-- [YouTube is gearing up to give Shorts creators a cut of ad revenue, report says](https://techcrunch.com/2022/09/16/youtube-give-shorts-creators-cut-ad-revenue/)
-- [After the Figma-Adobe deal, which design startups are acquisition targets?](https://techcrunch.com/2022/09/16/after-the-figma-adobe-deal-which-design-startups-are-acquisition-targets/)
-- [Intuitive Machines to go public in SPAC deal](https://techcrunch.com/2022/09/16/intuitive-machines-to-go-public-in-spac-deal/)
-- [Last call to save $1100 on Disrupt passes](https://techcrunch.com/2022/09/16/last-call-to-save-1100-on-disrupt-passes/)
+- [Adobe makes $20B bet on a collaborative future with Figma acquisition](https://techcrunch.com/2022/09/16/adobe-makes-20b-bet-on-a-collaborative-future-with-figma-acquisition/)
+- [TechCrunch+ roundup: Growth activation metrics, 3 keys to Series B, pitch deck teardown](https://techcrunch.com/2022/09/16/techcrunch-roundup-growth-activation-metrics-3-keys-to-series-b-pitch-deck-teardown/)
+- [Canon EOS R5 mirrorless camera review](https://www.space.com/canon-eos-r5-review/)
+- [Smallsat launcher ABL Space Systems gearing up for its 1st-ever liftoff](https://www.space.com/abl-space-systems-debut-launch-preview/)
+- [Amazon Prime Video announces live-action ‘Blade Runner’ limited TV series](https://techcrunch.com/2022/09/16/amazon-prime-video-announces-live-action-blade-runner-limited-tv-series/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
