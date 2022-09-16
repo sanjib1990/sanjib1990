@@ -96,9 +96,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Tencent lays off nearly all of staff at its gaming site Fanbyte](https://techcrunch.com/2022/09/15/tencent-lays-off-nearly-all-of-staff-at-its-gaming-site-fanbyte/)
 - [Rocket Lab celebrates 30th launch and 150th satellite sent to orbit](https://techcrunch.com/2022/09/15/rocket-lab-celebrates-30th-launch-and-150th-satellite-sent-to-orbit/)
+- [Private equity’s gatekeepers get serious about tokens](https://techcrunch.com/2022/09/15/private-equitys-gatekeepers-get-serious-about-tokens/)
 - [Happy anniversary, Inspiration4! Landmark SpaceX tourism mission launched 1 year ago today](https://www.space.com/inspiration4-spacex-astronaut-mission-one-year-anniversary/)
 - [Daily Crunch: Adobe snaps up Figma in proposed $20B deal that has some scratching their heads](https://techcrunch.com/2022/09/15/daily-crunch-adobe-snaps-up-figma-in-proposed-20b-deal-that-has-some-scratching-their-heads/)
-- [CFPB signals that regulation is coming for BNPL](https://techcrunch.com/2022/09/15/cfpb-signals-that-regulation-is-coming-for-bnpl/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
