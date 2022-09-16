@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Indian fintech CRED to invest in lending partner LiquiLoans](https://techcrunch.com/2022/09/16/indian-fintech-cred-to-invest-in-lending-partner-liquiloans/)
-- [Singapore’s KNN3 wants to enable social discovery for decentralized apps](https://techcrunch.com/2022/09/16/singapore-knn3-social-graph-database-web3/)
-- [This spiral galaxy photo from the Hubble Space Telescope is just spectacular](https://www.space.com/hubble-telescope-spectacular-spiral-galaxy-photo/)
-- [Strange quark star may have formed from a lucky cosmic merger](https://www.space.com/strange-quark-stars-from-neutron-star-mergers/)
-- [Russia says private satellites could become &#39;legitimate target&#39; during wartime](https://www.space.com/russia-private-satellites-legitimate-target-wartime-united-nations/)
+- [Autonomous electric truck company Einride rides into Germany](https://techcrunch.com/2022/09/16/autonomous-electric-truck-company-einride-rides-into-germany/)
+- [On This Day In Space: Sept. 16, 1949: V-2 Rocket Explodes, Kills Monkey Passenger](https://www.space.com/39251-on-this-day-in-space.html/)
+- [Federato raises $15M to help insurance customers manage risk](https://techcrunch.com/2022/09/16/2399423/)
+- [We still haven&#39;t found most of Mars&#39; ancient lakes](https://www.space.com/ancient-mars-lakes-water-revealed-new-detail/)
+- [See the conjunction of the moon and Mars tonight &lpar;Sept. 16&rpar;](https://www.space.com/moon-mars-conjunction-september-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
