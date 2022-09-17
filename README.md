@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [No money for shelfware](https://techcrunch.com/2022/09/17/no-money-for-shelfware/)
+- [TC Sessions: Crypto is in Miami — and 5 more reasons students should go](https://techcrunch.com/2022/09/17/tc-sessions-crypto-is-in-miami-and-5-more-reasons-students-should-go/)
 - [Emerging managers should take advantage of the slower fundraising market by courting LPs](https://techcrunch.com/2022/09/17/emerging-managers-should-take-advantage-of-the-slower-fundraising-market-by-courting-lps/)
 - [Watch SpaceX launch Starlink satellites from Florida tonight &lpar;Sept. 17&rpar; after several delays](https://www.space.com/spacex-starlink-group-4-34-launch-rocket-landing/)
 - [YouTube Shorts could steal TikTok’s thunder with a better deal for creators](https://techcrunch.com/2022/09/17/youtube-shorts-could-steal-tiktoks-thunder-with-a-better-deal-for-creators/)
-- [&#39;Cosmic&#39; and &#39;phantom&#39; UFOs are all over Ukraine&#39;s skies, government report claims](https://www.space.com/ukraine-ufo-uap-report/)
-- [Chinese astronauts take 4-hour spacewalk outside new lab at Tiangong space station](https://www.space.com/chinese-astronauts-tiangong-space-station-wentian-spacewalk-september-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
