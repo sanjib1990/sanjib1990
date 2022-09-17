@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Chain Reaction x Equity talk the Ethereum Merge](https://techcrunch.com/2022/09/17/chain-reaction-equity-podcast-ethereum-merge-startups-reactions/)
+- [What is the moon phase today? Lunar phases 2022](https://www.space.com/18880-moon-phases.html/)
+- [On This Day In Space: Sept. 17, 1789: Saturn&#39;s &#39;Death Star&#39; moon Mimas discovered](https://www.space.com/39251-on-this-day-in-space.html/)
+- [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html/)
 - [This Week In Space podcast: Episode 29 — Flying on Titan!](https://www.space.com/this-week-in-space-podcast-twit/)
-- [Here comes Mars! Red Planet will soon offer us its best view until 2031](https://www.space.com/here-comes-mars-sept-22/)
-- [Watch SpaceX launch Starlink satellites from Florida tonight &lpar;Sept. 17&rpar; after several delays](https://www.space.com/spacex-starlink-group-4-34-launch-rocket-landing/)
-- [Canon EOS M50 Mark II camera review](https://www.space.com/canon-m50-mark-ii-review/)
-- [See the last quarter moon of September 2022 tonight &lpar;Sept. 17&rpar;](https://www.space.com/last-quarter-moon-sept-17/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
