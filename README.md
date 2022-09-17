@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See the last quarter moon tonight &lpar;Sept. 17&rpar;](https://www.space.com/last-quarter-moon-sept-17/)
+- [Here comes Mars!](https://www.space.com/here-comes-mars-sept-22/)
 - [VC Ann Miura-Ko is looking to help more students answer the question: Is this idea big enough?](https://techcrunch.com/2022/09/16/vc-ann-miura-ko-is-looking-to-help-more-students-answer-the-question-is-this-idea-big-enough/)
 - [Tesla ordered to tell laid off workers about lawsuit](https://techcrunch.com/2022/09/16/tesla-ordered-to-tell-laid-off-workers-about-lawsuit/)
 - [NASA requests proposals for 2nd moon lander for Artemis astronauts](https://www.space.com/nasa-artemis-astronauts-second-moon-lander/)
-- [Deep tech VC First Star plots a $40M third fund](https://techcrunch.com/2022/09/16/deep-tech-vc-first-star-targets-40m-fund-three/)
-- [Daily Crunch: All I can see is you — iOS 16 users enjoy new photo background removal feature](https://techcrunch.com/2022/09/16/daily-crunch-all-i-can-see-is-you-ios-16-users-enjoy-new-photo-background-removal-feature/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
