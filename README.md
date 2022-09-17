@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [See the last quarter moon tonight &lpar;Sept. 17&rpar;](https://www.space.com/last-quarter-moon-sept-17/)
-- [Here comes Mars!](https://www.space.com/here-comes-mars-sept-22/)
-- [VC Ann Miura-Ko is looking to help more students answer the question: Is this idea big enough?](https://techcrunch.com/2022/09/16/vc-ann-miura-ko-is-looking-to-help-more-students-answer-the-question-is-this-idea-big-enough/)
-- [Tesla ordered to tell laid off workers about lawsuit](https://techcrunch.com/2022/09/16/tesla-ordered-to-tell-laid-off-workers-about-lawsuit/)
-- [NASA requests proposals for 2nd moon lander for Artemis astronauts](https://www.space.com/nasa-artemis-astronauts-second-moon-lander/)
+- [This Week In Space podcast: Episode 29 — Flying on Titan!](https://www.space.com/this-week-in-space-podcast-twit/)
+- [Here comes Mars! Red Planet will soon offer us its best view until 2031](https://www.space.com/here-comes-mars-sept-22/)
+- [Watch SpaceX launch Starlink satellites from Florida tonight &lpar;Sept. 17&rpar; after several delays](https://www.space.com/spacex-starlink-group-4-34-launch-rocket-landing/)
+- [Canon EOS M50 Mark II camera review](https://www.space.com/canon-m50-mark-ii-review/)
+- [See the last quarter moon of September 2022 tonight &lpar;Sept. 17&rpar;](https://www.space.com/last-quarter-moon-sept-17/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
