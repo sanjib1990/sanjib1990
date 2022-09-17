@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [YouTube Shorts could steal TikTok’s thunder with a better deal for creators](https://techcrunch.com/2022/09/17/youtube-shorts-could-steal-tiktoks-thunder-with-a-better-deal-for-creators/)
+- [&#39;Cosmic&#39; and &#39;phantom&#39; UFOs are all over Ukraine&#39;s skies, government report claims](https://www.space.com/ukraine-ufo-uap-report/)
+- [Chinese astronauts take 4-hour spacewalk outside new lab at Tiangong space station](https://www.space.com/chinese-astronauts-tiangong-space-station-wentian-spacewalk-september-2022/)
 - [Chain Reaction x Equity talk the Ethereum Merge](https://techcrunch.com/2022/09/17/chain-reaction-equity-podcast-ethereum-merge-startups-reactions/)
-- [What is the moon phase today? Lunar phases 2022](https://www.space.com/18880-moon-phases.html/)
-- [On This Day In Space: Sept. 17, 1789: Saturn&#39;s &#39;Death Star&#39; moon Mimas discovered](https://www.space.com/39251-on-this-day-in-space.html/)
-- [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html/)
-- [This Week In Space podcast: Episode 29 — Flying on Titan!](https://www.space.com/this-week-in-space-podcast-twit/)
+- [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
