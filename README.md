@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Week in Apps: iOS 16 takes off, TikTok clones BeReal, social cos go to Congress](https://techcrunch.com/2022/09/17/this-week-in-apps-ios-16-takes-off-tiktok-clones-bereal-social-cos-go-to-congress/)
+- [Community isn’t a buzzword, it’s a challenge](https://techcrunch.com/2022/09/17/community-isnt-a-buzzword-its-a-challenge/)
 - [No money for shelfware](https://techcrunch.com/2022/09/17/no-money-for-shelfware/)
 - [TC Sessions: Crypto is in Miami — and 5 more reasons students should go](https://techcrunch.com/2022/09/17/tc-sessions-crypto-is-in-miami-and-5-more-reasons-students-should-go/)
 - [Emerging managers should take advantage of the slower fundraising market by courting LPs](https://techcrunch.com/2022/09/17/emerging-managers-should-take-advantage-of-the-slower-fundraising-market-by-courting-lps/)
-- [Watch SpaceX launch Starlink satellites from Florida tonight &lpar;Sept. 17&rpar; after several delays](https://www.space.com/spacex-starlink-group-4-34-launch-rocket-landing/)
-- [YouTube Shorts could steal TikTok’s thunder with a better deal for creators](https://techcrunch.com/2022/09/17/youtube-shorts-could-steal-tiktoks-thunder-with-a-better-deal-for-creators/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
