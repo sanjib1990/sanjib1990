@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [China&#39;s Yutu 2 rover still rolling after nearly 4 years on moon&#39;s far side](https://www.space.com/china-yutu-2-rover-still-alive-moon-far-side/)
+- [Nikon Z6 II review](https://www.space.com/nikon-z6-ii-review/)
+- [NASA prepping for key fueling test of Artemis 1 moon rocket on Wednesday](https://www.space.com/artemis-1-moon-rocket-fueling-test-wednesday/)
+- [The icy steps on these Mars plains may be ancient wind-blown dust](https://www.space.com/martian-ice-fossil-wind-blown-dust/)
 - [Astronauts could use Mars soil for 3D-printing on the Red Planet](https://www.space.com/martian-soil-manufacturing-human-mission-boon/)
-- [SpaceX now aims to launch Starlink on Sunday after five consecutive delays](https://www.space.com/spacex-starlink-group-4-34-launch-rocket-landing/)
-- [Adobe buys Figma, Uber gets hacked, and Google shrinks Area 120](https://techcrunch.com/2022/09/17/adobe-buys-figma-uber-gets-hacked-and-google-shrinks-area-120/)
-- [This Week in Apps: iOS 16 takes off, TikTok clones BeReal, social cos go to Congress](https://techcrunch.com/2022/09/17/this-week-in-apps-ios-16-takes-off-tiktok-clones-bereal-social-cos-go-to-congress/)
-- [Community isn’t a buzzword, it’s a challenge](https://techcrunch.com/2022/09/17/community-isnt-a-buzzword-its-a-challenge/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
