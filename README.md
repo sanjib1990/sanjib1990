@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronauts could use Mars soil for 3D-printing on the Red Planet](https://www.space.com/martian-soil-manufacturing-human-mission-boon/)
 - [SpaceX now aims to launch Starlink on Sunday after five consecutive delays](https://www.space.com/spacex-starlink-group-4-34-launch-rocket-landing/)
 - [Adobe buys Figma, Uber gets hacked, and Google shrinks Area 120](https://techcrunch.com/2022/09/17/adobe-buys-figma-uber-gets-hacked-and-google-shrinks-area-120/)
 - [This Week in Apps: iOS 16 takes off, TikTok clones BeReal, social cos go to Congress](https://techcrunch.com/2022/09/17/this-week-in-apps-ios-16-takes-off-tiktok-clones-bereal-social-cos-go-to-congress/)
 - [Community isn’t a buzzword, it’s a challenge](https://techcrunch.com/2022/09/17/community-isnt-a-buzzword-its-a-challenge/)
-- [No money for shelfware](https://techcrunch.com/2022/09/17/no-money-for-shelfware/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
