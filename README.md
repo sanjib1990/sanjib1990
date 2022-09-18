@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Classified UFO videos would &#39;harm national security&#39; if released, Navy says](https://www.space.com/navy-ufo-videos-national-security-threat/)
 - [Stop spending so much time on your product when pitching to investors](https://techcrunch.com/2022/09/18/investors-dgaf-about-your-product/)
 - [The James Webb Space Telescope has released its very first exoplanet image – here&#39;s what we can learn from it](https://www.space.com/jwst-space-telescope-first-exoplanet-image-what-we-learn/)
 - [Varo’s bank charter milestone, more corporate cards and BNPL under a microscope](https://techcrunch.com/2022/09/18/fintech-varo-corporate-cards-bnpl/)
 - [On This Day In Space: Sept. 18, 1977: Voyager 1 takes 1st photo of Earth-moon system](https://www.space.com/39251-on-this-day-in-space.html/)
-- [This Mac app makes it easy to create your own AI images with Stable Diffusion](https://techcrunch.com/2022/09/18/this-mac-app-makes-it-easy-to-create-your-own-ai-images-with-stable-diffusion/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
