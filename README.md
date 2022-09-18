@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Massive GTA 6 gameplay video leak depicts male and female playable characters](https://techcrunch.com/2022/09/18/gta-6-gameplay-video-leak/)
 - [China&#39;s Yutu 2 rover still rolling after nearly 4 years on moon&#39;s far side](https://www.space.com/china-yutu-2-rover-still-alive-moon-far-side/)
 - [Nikon Z6 II review](https://www.space.com/nikon-z6-ii-review/)
 - [NASA prepping for key fueling test of Artemis 1 moon rocket on Wednesday](https://www.space.com/artemis-1-moon-rocket-fueling-test-wednesday/)
 - [The icy steps on these Mars plains may be ancient wind-blown dust](https://www.space.com/martian-ice-fossil-wind-blown-dust/)
-- [Astronauts could use Mars soil for 3D-printing on the Red Planet](https://www.space.com/martian-soil-manufacturing-human-mission-boon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
