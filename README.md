@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How Xpeng’s city navigation will stack up against Tesla’s FSD](https://techcrunch.com/2022/09/19/how-xpengs-city-navigation-will-stack-up-against-teslas-fsd/)
-- [LockerGoGa ransomware victims can now recover their files for free](https://techcrunch.com/2022/09/19/lockergoga-ransomware-decryption/)
-- [Satellites watch Hurricane Fiona wallop Puerto Rico, Dominican Republic](https://www.space.com/hurricane-fiona-seen-from-space-puerto-rico/)
-- [1MRobotics emerges from stealth with $25M for ‘nano-fulfillment’ centers](https://techcrunch.com/2022/09/19/1mrobotics-emerges-from-stealth-with-25m-for-nano-fulfillment-centers/)
-- [Announcing the Startup Battlefield 200 at TechCrunch Disrupt 2022](https://techcrunch.com/2022/09/19/announcing-the-startup-battlefield-200-at-techcrunch-disrupt/)
+- [Facebook debuts a Reels API for sharing from third-party apps](https://techcrunch.com/2022/09/19/facebook-is-launching-a-reels-api-for-developers/)
+- [Global space agency leaders see asteroid deflection, moon missions as top priorities](https://www.space.com/asteroid-deflection-moon-missions-international-astronomical-conference-2022/)
+- [Keeping financial tabs on Instacart as it preps its IPO](https://techcrunch.com/2022/09/19/keeping-financial-tabs-on-instacart-as-it-preps-its-ipo/)
+- [OurCrowd announces its new $200M Global Health Equity Fund](https://techcrunch.com/2022/09/19/ourcrowd-announces-its-new-200m-global-health-equity-fund/)
+- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
