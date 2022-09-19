@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TikTok’s BeReal clone is now available as standalone app outside the U.S.](https://techcrunch.com/2022/09/19/tiktoks-bereal-clone-is-now-available-as-standalone-app-outside-the-u-s/)
+- [BeReal reportedly considers paid features in lieu of advertisements](https://techcrunch.com/2022/09/19/bereal-reportedly-considers-paid-features-in-lieu-of-advertisements/)
+- [OpenAI begins allowing users to edit faces with DALL-E 2](https://techcrunch.com/2022/09/19/openai-begins-allowing-users-to-edit-faces-with-dall-e-2/)
+- [Jupiter is at its closest to Earth in 59 years, NASA says](https://www.space.com/jupiter-opposition-closest-approach-skywatching/)
 - [NASA&#39;s Artemis 1 moon rocket launch hinges on critical fueling test on Sept. 21](https://www.space.com/nasa-artemis-1-fueling-test-moon-launch/)
-- [Funeral of Queen Elizabeth II draws crowds of mourners so large they&#39;re visible from space](https://www.space.com/satellite-images-mourners-queen-elizabeth-photos/)
-- [Retail tech startup Swiftly valued at $1B after bagging another $100M](https://techcrunch.com/2022/09/19/retail-tech-swiftly-valued-at-1b-100m/)
-- [TC editors weigh in: Tech, trends and controversy in the cryptoverse](https://techcrunch.com/2022/09/19/tc-editors-weigh-in-tech-trends-and-controversy-in-the-cryptoverse/)
-- [How do you fix a hack like Uber’s?](https://techcrunch.com/2022/09/19/how-to-fix-another-uber-breach/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
