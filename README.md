@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Byld Ventures, a $15M fund, backs fintechs in Africa](https://techcrunch.com/2022/09/19/byld-ventures-a-15m-fund-backs-fintechs-in-africa/)
-- [Porsche 911’s new meaning, a bot rolls into a crime scene and the bright side of a tiny Detroit auto show](https://techcrunch.com/2022/09/19/porsche-911s-new-meaning-a-bot-rolls-into-a-crime-scene-and-the-bright-side-of-a-tiny-detroit-auto-show/)
-- [SoftBank-backed Ola to cut 200 jobs in India](https://techcrunch.com/2022/09/19/softbank-backed-ola-to-cut-200-jobs-in-india/)
-- [On This Day In Space: Sept. 19, 1996: Shuttle Atlantis docks with Mir space station in STS-79](https://www.space.com/39251-on-this-day-in-space.html/)
-- [What is the moon phase today? Lunar phases 2022](https://www.space.com/18880-moon-phases.html/)
+- [Tesla ramps up production as rivals launch new EVs](https://techcrunch.com/2022/09/19/tesla-ramps-up-production-as-rivals-launch-new-evs/)
+- [Rockstar Games confirms GTA 6 footage leak](https://techcrunch.com/2022/09/19/rockstar-games-confirms-gta-6-footage-leak/)
+- [Brian Binnie, SpaceShipOne test pilot who won XPrize, dies at 69](https://www.space.com/brian-binnie-xprize-spaceshipone-obituary/)
+- [NEAR protocol spin-off Open Web Collective launches venture arm to invest in early-stage web3](https://techcrunch.com/2022/09/19/near-protocol-spin-off-open-web-collective-launches-venture-arm-to-invest-in-early-stage-web3/)
+- [Mars Is Mighty in First Webb Observations of Red Planet](https://blogs.nasa.gov/webb/2022/09/19/mars-is-mighty-in-first-webb-observations-of-red-planet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
