@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Byld Ventures, a $15M fund, backs fintechs in Africa](https://techcrunch.com/2022/09/19/byld-ventures-a-15m-fund-backs-fintechs-in-africa/)
+- [Porsche 911’s new meaning, a bot rolls into a crime scene and the bright side of a tiny Detroit auto show](https://techcrunch.com/2022/09/19/porsche-911s-new-meaning-a-bot-rolls-into-a-crime-scene-and-the-bright-side-of-a-tiny-detroit-auto-show/)
 - [SoftBank-backed Ola to cut 200 jobs in India](https://techcrunch.com/2022/09/19/softbank-backed-ola-to-cut-200-jobs-in-india/)
 - [On This Day In Space: Sept. 19, 1996: Shuttle Atlantis docks with Mir space station in STS-79](https://www.space.com/39251-on-this-day-in-space.html/)
 - [What is the moon phase today? Lunar phases 2022](https://www.space.com/18880-moon-phases.html/)
-- [Congress wants transparency on Blue Origin launch failure investigation by FAA](https://www.space.com/blue-origin-launch-failure-congress-faa-transparency/)
-- [Alien worlds could be discovered by hunting for debris orbiting them](https://www.space.com/new-method-for-detecting-young-planets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
