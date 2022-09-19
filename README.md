@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla ramps up production as rivals launch new EVs](https://techcrunch.com/2022/09/19/tesla-ramps-up-production-as-rivals-launch-new-evs/)
-- [Rockstar Games confirms GTA 6 footage leak](https://techcrunch.com/2022/09/19/rockstar-games-confirms-gta-6-footage-leak/)
-- [Brian Binnie, SpaceShipOne test pilot who won XPrize, dies at 69](https://www.space.com/brian-binnie-xprize-spaceshipone-obituary/)
-- [NEAR protocol spin-off Open Web Collective launches venture arm to invest in early-stage web3](https://techcrunch.com/2022/09/19/near-protocol-spin-off-open-web-collective-launches-venture-arm-to-invest-in-early-stage-web3/)
-- [Mars Is Mighty in First Webb Observations of Red Planet](https://blogs.nasa.gov/webb/2022/09/19/mars-is-mighty-in-first-webb-observations-of-red-planet/)
+- [Line goes down](https://techcrunch.com/2022/09/19/line-goes-down/)
+- [Fintech app Portabl raises $2.5M to help consumers securely store financial data](https://techcrunch.com/2022/09/19/fintech-app-portabl-raises-2-5m-to-help-consumers-securely-store-financial-data/)
+- [‘Just break even’ may the worst possible advice for startups in turbulent times](https://techcrunch.com/2022/09/19/just-break-even-may-the-worst-possible-advice-for-startups-in-turbulent-times/)
+- [ISS archaeologists launch Brick Moon to advise future space habitats](https://www.space.com/brick-moon-space-station-archaeology/)
+- [InnerPlant grows with new John Deere-backed millions for sustainable farming](https://techcrunch.com/2022/09/19/innerplant-john-deere-sustainable-farming/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
