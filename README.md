@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [South Korean prosecutors say Do Kwon ‘obviously on the run’, ask Interpol to issue red notice](https://techcrunch.com/2022/09/19/south-korean-prosecutors-say-do-kwon-obviously-on-the-run-ask-interpol-to-issue-red-notice/)
 - [SpaceX launches 54 Starlink satellites to orbit after 5 weather delays](https://www.space.com/spacex-starlink-group-4-34-launch-rocket-landing/)
 - [YC’s Michael Seibel clarifies some misconceptions about the accelerator](https://techcrunch.com/2022/09/18/ycs-michael-seibel-clarifies-some-misconceptions-about-the-accelerator/)
 - [TC editors weigh in: Tech, trends and controversy in the cryptoverse](https://techcrunch.com/2022/09/18/tc-editors-weigh-in-tech-trends-and-controversy-in-the-cryptoverse/)
 - [Classified UFO videos would &#39;harm national security&#39; if released, Navy says](https://www.space.com/navy-ufo-videos-national-security-threat/)
-- [Stop spending so much time on your product when pitching to investors](https://techcrunch.com/2022/09/18/investors-dgaf-about-your-product/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
