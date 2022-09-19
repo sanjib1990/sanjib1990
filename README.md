@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [D-ID, the company behind Deep Nostalgia, lets you create AI-generated videos from a single image](https://techcrunch.com/2022/09/19/d-id-the-company-behind-deep-nostalgia-lets-you-create-ai-generated-videos-from-a-single-image/)
-- [Swedish last-mile delivery companies Instabox and Budbee to become Instabee in $1.7B merger](https://techcrunch.com/2022/09/19/swedish-last-mile-delivery-companies-instabox-and-budbee-to-become-instabee-in-1-7b-merger/)
-- [South Korean prosecutors say Do Kwon ‘obviously on the run’, ask Interpol to issue red notice](https://techcrunch.com/2022/09/19/south-korean-prosecutors-say-do-kwon-obviously-on-the-run-ask-interpol-to-issue-red-notice/)
-- [SpaceX launches 54 Starlink satellites to orbit after 5 weather delays](https://www.space.com/spacex-starlink-group-4-34-launch-rocket-landing/)
-- [YC’s Michael Seibel clarifies some misconceptions about the accelerator](https://techcrunch.com/2022/09/18/ycs-michael-seibel-clarifies-some-misconceptions-about-the-accelerator/)
+- [SoftBank-backed Ola to cut 200 jobs in India](https://techcrunch.com/2022/09/19/softbank-backed-ola-to-cut-200-jobs-in-india/)
+- [On This Day In Space: Sept. 19, 1996: Shuttle Atlantis docks with Mir space station in STS-79](https://www.space.com/39251-on-this-day-in-space.html/)
+- [What is the moon phase today? Lunar phases 2022](https://www.space.com/18880-moon-phases.html/)
+- [Congress wants transparency on Blue Origin launch failure investigation by FAA](https://www.space.com/blue-origin-launch-failure-congress-faa-transparency/)
+- [Alien worlds could be discovered by hunting for debris orbiting them](https://www.space.com/new-method-for-detecting-young-planets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
