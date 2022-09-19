@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Line goes down](https://techcrunch.com/2022/09/19/line-goes-down/)
-- [Fintech app Portabl raises $2.5M to help consumers securely store financial data](https://techcrunch.com/2022/09/19/fintech-app-portabl-raises-2-5m-to-help-consumers-securely-store-financial-data/)
-- [‘Just break even’ may the worst possible advice for startups in turbulent times](https://techcrunch.com/2022/09/19/just-break-even-may-the-worst-possible-advice-for-startups-in-turbulent-times/)
-- [ISS archaeologists launch Brick Moon to advise future space habitats](https://www.space.com/brick-moon-space-station-archaeology/)
-- [InnerPlant grows with new John Deere-backed millions for sustainable farming](https://techcrunch.com/2022/09/19/innerplant-john-deere-sustainable-farming/)
+- [How Xpeng’s city navigation will stack up against Tesla’s FSD](https://techcrunch.com/2022/09/19/how-xpengs-city-navigation-will-stack-up-against-teslas-fsd/)
+- [LockerGoGa ransomware victims can now recover their files for free](https://techcrunch.com/2022/09/19/lockergoga-ransomware-decryption/)
+- [Satellites watch Hurricane Fiona wallop Puerto Rico, Dominican Republic](https://www.space.com/hurricane-fiona-seen-from-space-puerto-rico/)
+- [1MRobotics emerges from stealth with $25M for ‘nano-fulfillment’ centers](https://techcrunch.com/2022/09/19/1mrobotics-emerges-from-stealth-with-25m-for-nano-fulfillment-centers/)
+- [Announcing the Startup Battlefield 200 at TechCrunch Disrupt 2022](https://techcrunch.com/2022/09/19/announcing-the-startup-battlefield-200-at-techcrunch-disrupt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
