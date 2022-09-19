@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TikTok’s BeReal clone is now available as standalone app outside the U.S.](https://techcrunch.com/2022/09/19/tiktoks-bereal-clone-is-now-available-as-standalone-app-outside-the-u-s/)
-- [BeReal reportedly considers paid features in lieu of advertisements](https://techcrunch.com/2022/09/19/bereal-reportedly-considers-paid-features-in-lieu-of-advertisements/)
-- [OpenAI begins allowing users to edit faces with DALL-E 2](https://techcrunch.com/2022/09/19/openai-begins-allowing-users-to-edit-faces-with-dall-e-2/)
-- [Jupiter is at its closest to Earth in 59 years, NASA says](https://www.space.com/jupiter-opposition-closest-approach-skywatching/)
-- [NASA&#39;s Artemis 1 moon rocket launch hinges on critical fueling test on Sept. 21](https://www.space.com/nasa-artemis-1-fueling-test-moon-launch/)
+- [Daily Crunch: Rockstar’s whoopsie means you can get an early look at GTA 6](https://techcrunch.com/2022/09/19/daily-crunch-rockstars-whoopsie-means-you-can-get-an-early-look-at-gta-6/)
+- [Max Q: Propulsive!](https://techcrunch.com/2022/09/19/max-q-propulsive/)
+- [Why Ford will have to eat an extra $1B in supplier costs this quarter](https://techcrunch.com/2022/09/19/why-ford-will-have-to-eat-an-extra-1b-in-supplier-costs-this-quarter/)
+- [SpaceX&#39;s Starship Super Heavy rocket just fired up 7 engines for the 1st time &lpar;video&rpar;](https://www.space.com/spacex-starship-super-heavy-7-engine-test-video/)
+- [TikTok’s BeReal clone is now available as standalone app outside the US](https://techcrunch.com/2022/09/19/tiktoks-bereal-clone-is-now-available-as-standalone-app-outside-the-u-s/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
