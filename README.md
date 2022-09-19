@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Valery Polyakov, cosmonaut who logged longest space mission, dies at 80](https://www.space.com/valery-polyakov-cosmonaut-obituary/)
+- [Ideon Technologies digs up $16M Series A to use particle physics to find critical minerals](https://techcrunch.com/2022/09/19/ideon-technologies-digs-up-16m-series-a-to-use-particle-physics-to-find-critical-minerals/)
+- [Ford drivers could get alerts from nearby pedestrians’ phones](https://techcrunch.com/2022/09/19/ford-drivers-could-get-alerts-from-nearby-pedestrians-phones/)
+- [Investors prove that insurtech isn’t dead, thanks to e-bikes and pre-fab homes](https://techcrunch.com/2022/09/19/insurtech-startups-boundless-rider-covertree-e-bikes-pre-fab-homesvcs-pay-a-premium-for-startups-insuring-e-bikes-and-pre-fab-homes/)
 - [Facebook debuts a Reels API for sharing from third-party apps](https://techcrunch.com/2022/09/19/facebook-is-launching-a-reels-api-for-developers/)
-- [Global space agency leaders see asteroid deflection, moon missions as top priorities](https://www.space.com/asteroid-deflection-moon-missions-international-astronomical-conference-2022/)
-- [Keeping financial tabs on Instacart as it preps its IPO](https://techcrunch.com/2022/09/19/keeping-financial-tabs-on-instacart-as-it-preps-its-ipo/)
-- [OurCrowd announces its new $200M Global Health Equity Fund](https://techcrunch.com/2022/09/19/ourcrowd-announces-its-new-200m-global-health-equity-fund/)
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
