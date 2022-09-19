@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [James Webb Space Telescope&#39;s 1st images of Mars reveal atmosphere secrets](https://www.space.com/james-webb-space-telescope-first-images-mars/)
-- [Valery Polyakov, cosmonaut who logged longest space mission, dies at 80](https://www.space.com/valery-polyakov-cosmonaut-obituary/)
-- [Global space agency leaders see asteroid deflection, moon missions as top priorities](https://www.space.com/asteroid-deflection-moon-missions-international-astronomical-conference-2022/)
-- [Keeping financial tabs on Instacart as it preps its IPO](https://techcrunch.com/2022/09/19/keeping-financial-tabs-on-instacart-as-it-preps-its-ipo/)
-- [OurCrowd announces its new $200M Global Health Equity Fund](https://techcrunch.com/2022/09/19/ourcrowd-announces-its-new-200m-global-health-equity-fund/)
+- [NASA&#39;s Artemis 1 moon rocket launch hinges on critical fueling test on Sept. 21](https://www.space.com/nasa-artemis-1-fueling-test-moon-launch/)
+- [Funeral of Queen Elizabeth II draws crowds of mourners so large they&#39;re visible from space](https://www.space.com/satellite-images-mourners-queen-elizabeth-photos/)
+- [Retail tech startup Swiftly valued at $1B after bagging another $100M](https://techcrunch.com/2022/09/19/retail-tech-swiftly-valued-at-1b-100m/)
+- [TC editors weigh in: Tech, trends and controversy in the cryptoverse](https://techcrunch.com/2022/09/19/tc-editors-weigh-in-tech-trends-and-controversy-in-the-cryptoverse/)
+- [How do you fix a hack like Uber’s?](https://techcrunch.com/2022/09/19/how-to-fix-another-uber-breach/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
