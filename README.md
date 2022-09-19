@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [James Webb Space Telescope&#39;s 1st images of Mars reveal secrets of the Red Planet&#39;s atmosphere](https://www.space.com/james-webb-space-telescope-first-images-mars/)
-- [Tile rolls out ‘Lost and Found’ QR code stickers to complement its hardware lineup](https://techcrunch.com/2022/09/19/tile-rolls-out-lost-and-found-qr-code-stickers-to-complement-its-hardware-lineup/)
-- [Bainbridge Growth wants e-commerce brands to stop sales guessing game](https://techcrunch.com/2022/09/19/bainbridge-growth-e-commerce-sales/)
+- [James Webb Space Telescope&#39;s 1st images of Mars reveal atmosphere secrets](https://www.space.com/james-webb-space-telescope-first-images-mars/)
 - [Valery Polyakov, cosmonaut who logged longest space mission, dies at 80](https://www.space.com/valery-polyakov-cosmonaut-obituary/)
-- [Ideon Technologies digs up $16M Series A to use particle physics to find critical minerals](https://techcrunch.com/2022/09/19/ideon-technologies-digs-up-16m-series-a-to-use-particle-physics-to-find-critical-minerals/)
+- [Global space agency leaders see asteroid deflection, moon missions as top priorities](https://www.space.com/asteroid-deflection-moon-missions-international-astronomical-conference-2022/)
+- [Keeping financial tabs on Instacart as it preps its IPO](https://techcrunch.com/2022/09/19/keeping-financial-tabs-on-instacart-as-it-preps-its-ipo/)
+- [OurCrowd announces its new $200M Global Health Equity Fund](https://techcrunch.com/2022/09/19/ourcrowd-announces-its-new-200m-global-health-equity-fund/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
