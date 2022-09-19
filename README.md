@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [D-ID, the company behind Deep Nostalgia, lets you create AI-generated videos from a single image](https://techcrunch.com/2022/09/19/d-id-the-company-behind-deep-nostalgia-lets-you-create-ai-generated-videos-from-a-single-image/)
+- [Swedish last-mile delivery companies Instabox and Budbee to become Instabee in $1.7B merger](https://techcrunch.com/2022/09/19/swedish-last-mile-delivery-companies-instabox-and-budbee-to-become-instabee-in-1-7b-merger/)
 - [South Korean prosecutors say Do Kwon ‘obviously on the run’, ask Interpol to issue red notice](https://techcrunch.com/2022/09/19/south-korean-prosecutors-say-do-kwon-obviously-on-the-run-ask-interpol-to-issue-red-notice/)
 - [SpaceX launches 54 Starlink satellites to orbit after 5 weather delays](https://www.space.com/spacex-starlink-group-4-34-launch-rocket-landing/)
 - [YC’s Michael Seibel clarifies some misconceptions about the accelerator](https://techcrunch.com/2022/09/18/ycs-michael-seibel-clarifies-some-misconceptions-about-the-accelerator/)
-- [TC editors weigh in: Tech, trends and controversy in the cryptoverse](https://techcrunch.com/2022/09/18/tc-editors-weigh-in-tech-trends-and-controversy-in-the-cryptoverse/)
-- [Classified UFO videos would &#39;harm national security&#39; if released, Navy says](https://www.space.com/navy-ufo-videos-national-security-threat/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
