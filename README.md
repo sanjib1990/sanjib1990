@@ -94,9 +94,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX launches 54 Starlink satellites to orbit after 5 weather delays](https://www.space.com/spacex-starlink-group-4-34-launch-rocket-landing/)
 - [YC’s Michael Seibel clarifies some misconceptions about the accelerator](https://techcrunch.com/2022/09/18/ycs-michael-seibel-clarifies-some-misconceptions-about-the-accelerator/)
 - [TC editors weigh in: Tech, trends and controversy in the cryptoverse](https://techcrunch.com/2022/09/18/tc-editors-weigh-in-tech-trends-and-controversy-in-the-cryptoverse/)
-- [SpaceX now aims to launch Starlink tonight after 5 delays. Here&#39;s how to watch.](https://www.space.com/spacex-starlink-group-4-34-launch-rocket-landing/)
 - [Classified UFO videos would &#39;harm national security&#39; if released, Navy says](https://www.space.com/navy-ufo-videos-national-security-threat/)
 - [Stop spending so much time on your product when pitching to investors](https://techcrunch.com/2022/09/18/investors-dgaf-about-your-product/)
 <!-- BLOG-POST-LIST:END -->
