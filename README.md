@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Lerer Hippeau closes $230M across two new funds; Ben Lerer is back](https://techcrunch.com/2022/09/20/lerer-hippeau-closes-230m-across-two-new-funds-ben-lerer-is-back/)
-- [European neobank Monese nabs $35M from HSBC](https://techcrunch.com/2022/09/20/european-digital-bank-monese-nabs-35m-from-hsbc/)
-- [Slack adds persistent information layer to channels called Canvas](https://techcrunch.com/2022/09/20/slack-adds-persistent-information-layer-to-channels-with-new-quip-integration/)
-- [Healthcare financier Scratchpay secures $35M Series C](https://techcrunch.com/2022/09/20/healthcare-financier-scratchpay-secures-35m-series-c/)
-- [Salesforce built a data lake to transform how customer data moves on the platform](https://techcrunch.com/2022/09/20/salesforce-genie-completely-transforms-the-way-data-moves-on-the-platform/)
+- [Mullen to bid for bankrupt Electric Last Mile Solutions](https://techcrunch.com/2022/09/20/mullen-to-bid-for-bankrupt-electric-last-mile-solutions/)
+- [Augment’s personal AI assistant could help you keep track of a scattered digital life](https://techcrunch.com/2022/09/20/augments-personalized-ai-assistant-could-help-you-keep-track-of-a-scattered-digital-life/)
+- [Spotify brings audiobooks to U.S. users with a catalog of 300,000 titles to start](https://techcrunch.com/2022/09/20/spotify-brings-audiobooks-to-u-s-users-with-a-catalog-of-300000-titles-to-start/)
+- [TrovaTrip, a group travel management platform and marketplace, raises $15M](https://techcrunch.com/2022/09/20/trovatrip-raises-15m/)
+- [Sardine raises $51.5M led by a16z to sniff out fishy fintech transactions](https://techcrunch.com/2022/09/20/sardine-fintech-crypto-fraud-startup-a16z-series-b-funding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
