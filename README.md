@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [UK to change Online Safety Bill limits on ‘legal but harmful’ content for adults](https://techcrunch.com/2022/09/20/uk-online-safety-bill-legal-but-harmful-changes/)
-- [DTCP taps SoftBank as an anchor LP for its next $500-600M fund](https://techcrunch.com/2022/09/20/dtcp-the-former-venture-arm-of-deutsche-telekom-taps-softbank-as-an-anchor-lp-for-its-next-500-600m-fund/)
-- [Sources say Web Summit Ventures will be a new $40M follow-on fund](https://techcrunch.com/2022/09/20/sources-say-web-summit-ventures-will-be-a-new-40m-follow-on-fund/)
-- [Apple is raising prices on App Store across multiple countries in Asia and Europe](https://techcrunch.com/2022/09/20/apple-is-raising-prices-on-app-store-across-multiple-countries-in-asia-and-europe/)
-- [Nigeria’s YC-backed Remedial Health raises $4.4M seed funding](https://techcrunch.com/2022/09/20/nigerias-yc-backed-remedial-health-raises-4-4m-seed-funding/)
+- [Indonesia passes much-anticipated data privacy law to put bad actors behind bars](https://techcrunch.com/2022/09/20/indonesia-data-privacy-law-passed/)
+- [Malaysia-based Respond.io helps businesses juggle multiple messaging apps](https://techcrunch.com/2022/09/20/malaysia-based-respond-io-helps-businesses-juggle-multiple-messaging-apps/)
+- [NASA chief says cooperation with China in space is up to China](https://www.space.com/nasa-china-cooperation-bill-nelson-comments/)
+- [NASA&#39;s DART asteroid-impact mission will be a key test of planetary defense](https://www.space.com/dart-planetary-defense-asteroids-test-mission/)
+- [Help find weird comet-like asteroids that could reveal solar system secrets](https://www.space.com/comet-like-asteroids-citizen-science-project/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
