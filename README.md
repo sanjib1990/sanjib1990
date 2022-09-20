@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DTCP taps SoftBank as an anchor LP for its next $500-600M fund](https://techcrunch.com/2022/09/20/dtcp-the-former-venture-arm-of-deutsche-telekom-taps-softbank-as-an-anchor-lp-for-its-next-500-600m-fund/)
+- [Sources say Web Summit Ventures will be a new $40M follow-on fund](https://techcrunch.com/2022/09/20/sources-say-web-summit-ventures-will-be-a-new-40m-follow-on-fund/)
+- [Apple is raising prices on App Store across multiple countries in Asia and Europe](https://techcrunch.com/2022/09/20/apple-is-raising-prices-on-app-store-across-multiple-countries-in-asia-and-europe/)
 - [Nigeria’s YC-backed Remedial Health raises $4.4M seed funding](https://techcrunch.com/2022/09/20/nigerias-yc-backed-remedial-health-raises-4-4m-seed-funding/)
 - [Meta alumni’s startup TrueFoundry raises $2.3 million to accelerate ML deployments](https://techcrunch.com/2022/09/19/meta-alumni-startup-truefoundry-seed-funding-sequoia-surge-machine-learning/)
-- [Zopper raises $75 million to solve India’s insurance problem](https://techcrunch.com/2022/09/19/zopper-raises-75-million-to-solve-indias-insurance-problem/)
-- [Sequence orders up $19M led by a16z for a new approach to B2B fintech](https://techcrunch.com/2022/09/19/sequence-orders-up-19m-led-by-a16z-for-a-new-approach-to-b2b-fintech/)
-- [Daily Crunch: Rockstar’s whoopsie means you can get an early look at GTA 6](https://techcrunch.com/2022/09/19/daily-crunch-rockstars-whoopsie-means-you-can-get-an-early-look-at-gta-6/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
