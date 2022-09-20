@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Razor’s Edge Ventures closes $340M fund as it looks to invest in defense startups](https://techcrunch.com/2022/09/20/2403188/)
-- [Building control startup PassiveLogic inks partnership with Nvidia, secures $15M](https://techcrunch.com/2022/09/20/autonomous-building-control-startup-passivelogic-inks-partnership-with-nvidia-secures-15m/)
-- [Facebook adds new Pages features to help creators connect with fans and get discovered](https://techcrunch.com/2022/09/20/facebook-pages-features-creators/)
-- [Amid volatile markets, VCs and startups must embrace transparency](https://techcrunch.com/2022/09/20/amid-volatile-markets-vcs-and-startups-must-embrace-transparency/)
-- [Arcadia wants to bring carbon transparency to ESG claims with Salesforce partnership](https://techcrunch.com/2022/09/20/arcadia-wants-to-bring-carbon-transparency-to-esg-claims-with-salesforce-partnership/)
+- [SpinLaunch wraps up new round to fling payloads to space](https://techcrunch.com/2022/09/20/spinlaunch-wraps-up-new-round-to-fling-payloads-to-space/)
+- [US Space Force conducts training on &#39;live fire&#39; satellite jamming](https://www.space.com/space-force-live-fire-satellite-jamming/)
+- [Leoparda Electric is bringing battery swapping for two-wheelers to LatAm](https://techcrunch.com/2022/09/20/leoparda-electric-is-bringing-battery-swapping-for-two-wheelers-to-latam/)
+- [Ingenuity Mars helicopter soars on 32nd flight](https://www.space.com/mars-helicopter-ingenuity-flight-32/)
+- [33% of U.S. TikTok users say they regularly get their news on the app, up from 22% in 2020](https://techcrunch.com/2022/09/20/33-of-u-s-tiktok-users-say-they-regularly-get-their-news-on-the-app-up-from-22-in-2020/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
