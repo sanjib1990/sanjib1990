@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Zartico secures $20M to help tourism offices promote local destinations](https://techcrunch.com/2022/09/20/zartico-secures-20m-to-help-tourism-offices-promote-local-destinations/)
-- [DynamoFL aims to bring privacy-preserving AI to more industries](https://techcrunch.com/2022/09/20/dynamofl-aims-to-bring-privacy-preserving-ai-to-more-industries/)
-- [Are general purpose robots impossible? Apptronik says no, pockets fresh NASA partnership](https://techcrunch.com/2022/09/20/are-general-purpose-robots-impossible-apptronik-disagrees-pockets-fresh-nasa-partnership/)
-- [Peloton’s rower arrives in December, priced at $3,200](https://techcrunch.com/2022/09/20/pelotons-rower-arrives-in-december-priced-at-3200/)
-- [Amazon throws more weight behind e-fuels to see if they stick](https://techcrunch.com/2022/09/20/amazon-e-fuels-delivery-infinium-southern-ca/)
+- [Lerer Hippeau closes $230M across two new funds; Ben Lerer is back](https://techcrunch.com/2022/09/20/lerer-hippeau-closes-230m-across-two-new-funds-ben-lerer-is-back/)
+- [European neobank Monese nabs $35M from HSBC](https://techcrunch.com/2022/09/20/european-digital-bank-monese-nabs-35m-from-hsbc/)
+- [Slack adds persistent information layer to channels called Canvas](https://techcrunch.com/2022/09/20/slack-adds-persistent-information-layer-to-channels-with-new-quip-integration/)
+- [Healthcare financier Scratchpay secures $35M Series C](https://techcrunch.com/2022/09/20/healthcare-financier-scratchpay-secures-35m-series-c/)
+- [Salesforce built a data lake to transform how customer data moves on the platform](https://techcrunch.com/2022/09/20/salesforce-genie-completely-transforms-the-way-data-moves-on-the-platform/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
