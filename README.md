@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Flowhub launches Maui, the next generation of its cannabis POS platform](https://techcrunch.com/2022/09/20/flowhub-launches-maui-the-next-generation-of-its-cannabis-pos-platform/)
+- [Dating app Hinge adds more ways to connect with new polls and video-specific prompts](https://techcrunch.com/2022/09/20/hinge-gives-users-new-video-prompts-and-polls/)
 - [Mullen to bid for bankrupt Electric Last Mile Solutions](https://techcrunch.com/2022/09/20/mullen-to-bid-for-bankrupt-electric-last-mile-solutions/)
 - [Augment’s personal AI assistant could help you keep track of a scattered digital life](https://techcrunch.com/2022/09/20/augments-personalized-ai-assistant-could-help-you-keep-track-of-a-scattered-digital-life/)
 - [Spotify brings audiobooks to U.S. users with a catalog of 300,000 titles to start](https://techcrunch.com/2022/09/20/spotify-brings-audiobooks-to-u-s-users-with-a-catalog-of-300000-titles-to-start/)
-- [TrovaTrip, a group travel management platform and marketplace, raises $15M](https://techcrunch.com/2022/09/20/trovatrip-raises-15m/)
-- [Sardine raises $51.5M led by a16z to sniff out fishy fintech transactions](https://techcrunch.com/2022/09/20/sardine-fintech-crypto-fraud-startup-a16z-series-b-funding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
