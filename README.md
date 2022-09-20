@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Indonesia passes much-anticipated data privacy law to put bad actors behind bars](https://techcrunch.com/2022/09/20/indonesia-data-privacy-law-passed/)
-- [Malaysia-based Respond.io helps businesses juggle multiple messaging apps](https://techcrunch.com/2022/09/20/malaysia-based-respond-io-helps-businesses-juggle-multiple-messaging-apps/)
-- [NASA chief says cooperation with China in space is up to China](https://www.space.com/nasa-china-cooperation-bill-nelson-comments/)
-- [NASA&#39;s DART asteroid-impact mission will be a key test of planetary defense](https://www.space.com/dart-planetary-defense-asteroids-test-mission/)
-- [Help find weird comet-like asteroids that could reveal solar system secrets](https://www.space.com/comet-like-asteroids-citizen-science-project/)
+- [Zartico secures $20M to help tourism offices promote local destinations](https://techcrunch.com/2022/09/20/zartico-secures-20m-to-help-tourism-offices-promote-local-destinations/)
+- [DynamoFL aims to bring privacy-preserving AI to more industries](https://techcrunch.com/2022/09/20/dynamofl-aims-to-bring-privacy-preserving-ai-to-more-industries/)
+- [Are general purpose robots impossible? Apptronik says no, pockets fresh NASA partnership](https://techcrunch.com/2022/09/20/are-general-purpose-robots-impossible-apptronik-disagrees-pockets-fresh-nasa-partnership/)
+- [Peloton’s rower arrives in December, priced at $3,200](https://techcrunch.com/2022/09/20/pelotons-rower-arrives-in-december-priced-at-3200/)
+- [Amazon throws more weight behind e-fuels to see if they stick](https://techcrunch.com/2022/09/20/amazon-e-fuels-delivery-infinium-southern-ca/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
