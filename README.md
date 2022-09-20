@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Qwik… the world&#39;s first O&lpar;1&rpar; JavaScript framework?](https://www.youtube.com/watch?v=x2eF3YLiNhY)
 - [Lecture 14: Resonance and the S-Matrix](https://www.youtube.com/watch?v=wH9nO8_aDSI)
 - [SurrealDB in 100 Seconds](https://www.youtube.com/watch?v=C7WFwgDRStM)
 - [Alternative Uses for Blockchain - Computerphile](https://www.youtube.com/watch?v=qBAOsB6ETrY)
 - [PocketBase... The Ultimate Side-Hustle Backend?](https://www.youtube.com/watch?v=Wqy3PBEglXQ)
-- [5 reasons I chose DevOps as a Career](https://www.youtube.com/watch?v=2NtiI0Ojczw)
 <!-- YOUTUBE:END -->
 
 ---
