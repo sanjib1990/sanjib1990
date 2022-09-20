@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Asteroid impacts shifted the moon&#39;s poles over billions of years](https://www.space.com/asteroid-impacts-shifted-moon-magnetic-poles/)
+- [Announcing the agenda for TechCrunch Sessions: Crypto 2022](https://techcrunch.com/2022/09/20/announcing-the-agenda-for-techcrunch-sessions-crypto-2022/)
+- [Hertz will order up to 175,000 EVs from General Motors, including BrightDrop vans](https://techcrunch.com/2022/09/20/hertz-will-order-up-to-175000-evs-from-general-motors-including-brightdrop-vans/)
+- [SoftBank Robotics Europe is now Aldebaran &lpar;again&rpar;](https://techcrunch.com/2022/09/20/softbank-robotics-europe-is-now-aldebaran-again/)
 - [How big is the asteroid threat, really?](https://www.space.com/asteroid-how-big-threat-planetary-defense/)
-- [Nvidia unveils Drive Thor, one chip to rule all software-defined vehicles](https://techcrunch.com/2022/09/20/nvidia-unveils-drive-thor-one-chip-to-rule-all-software-defined-vehicles/)
-- [Nintendo is ending support for account logins via Facebook and Twitter](https://techcrunch.com/2022/09/20/nintendo-ending-support-account-login-facebook-twitter/)
-- [Nvidia launches new services for training large language models](https://techcrunch.com/2022/09/20/nvidia-launches-new-services-for-training-large-language-models/)
-- [Tesla extends FSD access amid regulator scrutiny](https://techcrunch.com/2022/09/20/tesla-extends-fsd-access-amid-regulator-scrutiny/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
