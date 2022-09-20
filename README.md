@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Revolut advises users to take caution after hacker breach triggers phishing campaign](https://techcrunch.com/2022/09/20/daily-crunch-revolut-advises-users-to-take-caution-after-hacker-breach-triggers-phishing-campaign/)
+- [PG&amp;E says Tesla battery was source of power storage site fire](https://techcrunch.com/2022/09/20/pge-says-tesla-battery-was-source-of-power-storage-site-fire/)
+- [Hilton hotels will design astronaut suites on private Starlab space station](https://www.space.com/hilton-astronaut-suites-starlab-private-space-station/)
 - [SpinLaunch wraps up new round to fling payloads to space](https://techcrunch.com/2022/09/20/spinlaunch-wraps-up-new-round-to-fling-payloads-to-space/)
 - [US Space Force conducts training on &#39;live fire&#39; satellite jamming](https://www.space.com/space-force-live-fire-satellite-jamming/)
-- [Leoparda Electric is bringing battery swapping for two-wheelers to LatAm](https://techcrunch.com/2022/09/20/leoparda-electric-is-bringing-battery-swapping-for-two-wheelers-to-latam/)
-- [Ingenuity Mars helicopter soars on 32nd flight](https://www.space.com/mars-helicopter-ingenuity-flight-32/)
-- [33% of U.S. TikTok users say they regularly get their news on the app, up from 22% in 2020](https://techcrunch.com/2022/09/20/33-of-u-s-tiktok-users-say-they-regularly-get-their-news-on-the-app-up-from-22-in-2020/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
