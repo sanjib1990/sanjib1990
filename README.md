@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Can we live long and prosper in space? The astronaut health dilemma](https://www.space.com/live-long-prosper-long-term-spaceflight-health-risks/)
 - [Daily Crunch: Revolut advises users to take caution after hacker breach triggers phishing campaign](https://techcrunch.com/2022/09/20/daily-crunch-revolut-advises-users-to-take-caution-after-hacker-breach-triggers-phishing-campaign/)
 - [PG&amp;E says Tesla battery was source of power storage site fire](https://techcrunch.com/2022/09/20/pge-says-tesla-battery-was-source-of-power-storage-site-fire/)
 - [Hilton hotels will design astronaut suites on private Starlab space station](https://www.space.com/hilton-astronaut-suites-starlab-private-space-station/)
 - [SpinLaunch wraps up new round to fling payloads to space](https://techcrunch.com/2022/09/20/spinlaunch-wraps-up-new-round-to-fling-payloads-to-space/)
-- [US Space Force conducts training on &#39;live fire&#39; satellite jamming](https://www.space.com/space-force-live-fire-satellite-jamming/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
