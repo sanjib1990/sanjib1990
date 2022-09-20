@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft rolls out Windows 11 update with File Explorer tabs, system-wide captions and more](https://techcrunch.com/2022/09/20/microsoft-rolls-out-windows-11-update-with-file-explorer-tabs-system-wide-captions-and-more/)
-- [YouTube targets TikTok with revenue sharing for Shorts, Partner Program expansion](https://techcrunch.com/2022/09/20/youtube-targets-tiktok-with-revenue-sharing-for-shorts-partner-program-expansion/)
+- [How big is the asteroid threat, really?](https://www.space.com/asteroid-how-big-threat-planetary-defense/)
 - [Nvidia unveils Drive Thor, one chip to rule all software-defined vehicles](https://techcrunch.com/2022/09/20/nvidia-unveils-drive-thor-one-chip-to-rule-all-software-defined-vehicles/)
 - [Nintendo is ending support for account logins via Facebook and Twitter](https://techcrunch.com/2022/09/20/nintendo-ending-support-account-login-facebook-twitter/)
 - [Nvidia launches new services for training large language models](https://techcrunch.com/2022/09/20/nvidia-launches-new-services-for-training-large-language-models/)
+- [Tesla extends FSD access amid regulator scrutiny](https://techcrunch.com/2022/09/20/tesla-extends-fsd-access-amid-regulator-scrutiny/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
