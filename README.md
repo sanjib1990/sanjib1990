@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Mid-Infrared Instrument Operations Update](https://blogs.nasa.gov/webb/2022/09/20/mid-infrared-instrument-operations-update/)
-- [China Mars mission data offers evidence for ancient ocean](https://www.space.com/china-mars-tianwen-1-zhurong-data-update/)
-- [Twitter’s new opt-in feature will remind you to add alt text to photo uploads](https://techcrunch.com/2022/09/20/twitters-remind-add-alt-text-photo-uploads/)
-- [5 questions for venture capital in Q3 2022](https://techcrunch.com/2022/09/20/5-questions-for-venture-capital-in-q3-2022/)
-- [InnovaFeed nabs $250M to extend its vertical insect farms to the U.S.](https://techcrunch.com/2022/09/20/innovafeed-nabs-250m-to-extend-its-vertical-insect-farms-to-the-u-s/)
+- [NASA&#39;s Mars lander hears the &#39;bloop&#39; of meteorites hitting the Red Planet](https://www.space.com/mars-insight-meteorite-strikes-detection/)
+- [LibreOffice begins charging Mac App Store users $8.99](https://techcrunch.com/2022/09/20/libreoffice-begins-charging-mac-app-store-users-8-99/)
+- [Antimatter brings shitposting to the classroom](https://techcrunch.com/2022/09/20/antimatter-brings-shitposting-to-the-classroom/)
+- [Announcing the agenda for TechCrunch Sessions: Crypto 2022](https://techcrunch.com/2022/09/20/announcing-the-agenda-for-techcrunch-sessions-crypto-2022/)
+- [4 employment law mistakes startups can stop making today](https://techcrunch.com/2022/09/20/4-employment-law-mistakes-startups-can-stop-making-today/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
