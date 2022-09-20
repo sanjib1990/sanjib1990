@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Asteroid impacts shifted the moon&#39;s poles over billions of years](https://www.space.com/asteroid-impacts-shifted-moon-magnetic-poles/)
-- [Announcing the agenda for TechCrunch Sessions: Crypto 2022](https://techcrunch.com/2022/09/20/announcing-the-agenda-for-techcrunch-sessions-crypto-2022/)
-- [Hertz will order up to 175,000 EVs from General Motors, including BrightDrop vans](https://techcrunch.com/2022/09/20/hertz-will-order-up-to-175000-evs-from-general-motors-including-brightdrop-vans/)
-- [SoftBank Robotics Europe is now Aldebaran &lpar;again&rpar;](https://techcrunch.com/2022/09/20/softbank-robotics-europe-is-now-aldebaran-again/)
-- [How big is the asteroid threat, really?](https://www.space.com/asteroid-how-big-threat-planetary-defense/)
+- [Razor’s Edge Ventures closes $340M fund as it looks to invest in defense startups](https://techcrunch.com/2022/09/20/2403188/)
+- [Building control startup PassiveLogic inks partnership with Nvidia, secures $15M](https://techcrunch.com/2022/09/20/autonomous-building-control-startup-passivelogic-inks-partnership-with-nvidia-secures-15m/)
+- [Facebook adds new Pages features to help creators connect with fans and get discovered](https://techcrunch.com/2022/09/20/facebook-pages-features-creators/)
+- [Amid volatile markets, VCs and startups must embrace transparency](https://techcrunch.com/2022/09/20/amid-volatile-markets-vcs-and-startups-must-embrace-transparency/)
+- [Arcadia wants to bring carbon transparency to ESG claims with Salesforce partnership](https://techcrunch.com/2022/09/20/arcadia-wants-to-bring-carbon-transparency-to-esg-claims-with-salesforce-partnership/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
