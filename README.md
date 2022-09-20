@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta alumni’s startup TrueFoundry raises $2.3 million to accelerate ML deployments](https://techcrunch.com/2022/09/19/meta-alumni-startup-truefoundry-seed-funding-sequoia-surge-machine-learning/)
 - [Zopper raises $75 million to solve India’s insurance problem](https://techcrunch.com/2022/09/19/zopper-raises-75-million-to-solve-indias-insurance-problem/)
 - [Sequence orders up $19M led by a16z for a new approach to B2B fintech](https://techcrunch.com/2022/09/19/sequence-orders-up-19m-led-by-a16z-for-a-new-approach-to-b2b-fintech/)
 - [Daily Crunch: Rockstar’s whoopsie means you can get an early look at GTA 6](https://techcrunch.com/2022/09/19/daily-crunch-rockstars-whoopsie-means-you-can-get-an-early-look-at-gta-6/)
 - [Max Q: Propulsive!](https://techcrunch.com/2022/09/19/max-q-propulsive/)
-- [Why Ford will have to eat an extra $1B in supplier costs this quarter](https://techcrunch.com/2022/09/19/why-ford-will-have-to-eat-an-extra-1b-in-supplier-costs-this-quarter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
