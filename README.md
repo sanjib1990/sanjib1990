@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s Mars lander hears the &#39;bloop&#39; of meteorites hitting the Red Planet](https://www.space.com/mars-insight-meteorite-strikes-detection/)
-- [LibreOffice begins charging Mac App Store users $8.99](https://techcrunch.com/2022/09/20/libreoffice-begins-charging-mac-app-store-users-8-99/)
-- [Antimatter brings shitposting to the classroom](https://techcrunch.com/2022/09/20/antimatter-brings-shitposting-to-the-classroom/)
-- [Announcing the agenda for TechCrunch Sessions: Crypto 2022](https://techcrunch.com/2022/09/20/announcing-the-agenda-for-techcrunch-sessions-crypto-2022/)
-- [4 employment law mistakes startups can stop making today](https://techcrunch.com/2022/09/20/4-employment-law-mistakes-startups-can-stop-making-today/)
+- [Microsoft rolls out Windows 11 update with File Explorer tabs, system-wide captions and more](https://techcrunch.com/2022/09/20/microsoft-rolls-out-windows-11-update-with-file-explorer-tabs-system-wide-captions-and-more/)
+- [YouTube targets TikTok with revenue sharing for Shorts, Partner Program expansion](https://techcrunch.com/2022/09/20/youtube-targets-tiktok-with-revenue-sharing-for-shorts-partner-program-expansion/)
+- [Nvidia unveils Drive Thor, one chip to rule all software-defined vehicles](https://techcrunch.com/2022/09/20/nvidia-unveils-drive-thor-one-chip-to-rule-all-software-defined-vehicles/)
+- [Nintendo is ending support for account logins via Facebook and Twitter](https://techcrunch.com/2022/09/20/nintendo-ending-support-account-login-facebook-twitter/)
+- [Nvidia launches new services for training large language models](https://techcrunch.com/2022/09/20/nvidia-launches-new-services-for-training-large-language-models/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
