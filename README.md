@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TikTok takes aim at political grifting and fundraising in latest policy tweaks](https://techcrunch.com/2022/09/21/tiktok-political-account-tweaks/)
-- [Noble emerges from stealth to help companies extend lines of credit to their customers](https://techcrunch.com/2022/09/21/noble-emerges-from-stealth-to-help-companies-extend-lines-of-credit-to-their-customers/)
-- [Malwarebytes lands a $100M cash injection weeks after laying off 125 employees](https://techcrunch.com/2022/09/21/malwarebytes-vector-capital-layoffs/)
-- [Best binoculars 2022: Top picks for stargazing, wildlife and more](https://www.space.com/26021-best-binoculars.html/)
-- [UPI supercharged mobile payments in India. It’s now gearing up for next phase of growth.](https://techcrunch.com/2022/09/21/upi-supercharged-mobile-payments-in-india-its-now-gearing-up-for-next-phase-of-growth/)
+- [Kode Labs raises $8m to advance its smart building platform](https://techcrunch.com/2022/09/21/kode-labs-raises-8m-to-advance-its-smart-building-platform/)
+- [Envoy Connect brings automated visitor management to high-rise buildings](https://techcrunch.com/2022/09/21/envoy-connect-brings-automated-visitor-management-to-high-rise-buildings/)
+- [A ‘Stripe for phone plans’: Gigs raises $20M to help any company be an MVNO](https://techcrunch.com/2022/09/21/a-stripe-for-phone-plans-gigs-raises-20m-to-help-any-company-be-an-mvno/)
+- [Brightflow AI aims to spotlight small business cash flow](https://techcrunch.com/2022/09/21/brightflow-small-business-capital/)
+- [Watch NASA&#39;s crucial fueling test of its Artemis 1 moon rocket today for free](https://www.space.com/artemis-1-moon-rocket-fueling-test-preview/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
