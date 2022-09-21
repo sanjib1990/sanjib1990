@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Ghanaian fintech SecondSTAX allows investors to access capital markets outside their countries, raises $1.6M](https://techcrunch.com/2022/09/21/ghanaian-fintech-secondstax-allows-investors-to-access-capital-markets-outside-their-countries-raises-1-6m/)
-- [NASA&#39;s DART mission will put on an asteroid-smashing show next week](https://www.space.com/double-asteroid-redirection-test-spacecraft-train/)
-- [Star Wars Andor streaming guide: release date, cast, trailers](https://www.space.com/star-wars-andor-release-date-trailers-streaming/)
-- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html/)
-- [8 ways to stop an asteroid: Nuclear weapons, paint and Bruce Willis](https://www.space.com/how-stop-asteroid-from-hitting-earth/)
+- [TikTok takes aim at political grifting and fundraising in latest policy tweaks](https://techcrunch.com/2022/09/21/tiktok-political-account-tweaks/)
+- [Noble emerges from stealth to help companies extend lines of credit to their customers](https://techcrunch.com/2022/09/21/noble-emerges-from-stealth-to-help-companies-extend-lines-of-credit-to-their-customers/)
+- [Malwarebytes lands a $100M cash injection weeks after laying off 125 employees](https://techcrunch.com/2022/09/21/malwarebytes-vector-capital-layoffs/)
+- [Best binoculars 2022: Top picks for stargazing, wildlife and more](https://www.space.com/26021-best-binoculars.html/)
+- [UPI supercharged mobile payments in India. It’s now gearing up for next phase of growth.](https://techcrunch.com/2022/09/21/upi-supercharged-mobile-payments-in-india-its-now-gearing-up-for-next-phase-of-growth/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
