@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google rolls out a new set of search tools for eco-conscious travelers](https://techcrunch.com/2022/09/21/google-rolls-out-a-new-set-of-search-tools-for-eco-conscious-travelers/)
-- [Network isn’t a dirty word](https://techcrunch.com/2022/09/21/network-isnt-a-dirty-word/)
-- [Morgan Stanley to pay $35M after hard drives with 15M customers’ personal data turn up in auction](https://techcrunch.com/2022/09/21/morgan-stanley-hard-drives-data-breach/)
-- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates/)
-- [Kode Labs raises $8m to advance its smart building platform](https://techcrunch.com/2022/09/21/kode-labs-raises-8m-to-advance-its-smart-building-platform/)
+- [Framework partners with Google for a user-repairable $999 Chromebook](https://techcrunch.com/2022/09/21/framework-google-chromebook/)
+- [TikTok’s new #BookTok feature lets you tag Penguin Random House titles in videos](https://techcrunch.com/2022/09/21/tiktoks-new-booktok-feature/)
+- [Intuitive Machines bets the moon could be big business](https://techcrunch.com/2022/09/21/intuitive-machines-bets-the-moon-could-be-big-business/)
+- [NASA investigating glitch on James Webb Space Telescope&#39;s ultracold camera](https://www.space.com/james-webb-space-telescope-miri-glitch-september-2022/)
+- [Russia launches NASA astronaut to space station under new &#39;crew swap&#39; agreement](https://www.space.com/soyuz-ms22-international-space-station-crew-swap-launch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
