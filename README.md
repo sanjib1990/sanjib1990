@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Binance CEO sees positive progress for crypto regulation, but it will be a ‘long process’](https://techcrunch.com/2022/09/21/binance-ceo-sees-positive-progress-for-crypto-regulation-but-it-will-be-a-long-process/)
+- [Marvel&#39;s &#39;Fantastic Four&#39; visits an alien universe in new Alex Ross graphic novel &lpar;exclusive&rpar;](https://www.space.com/fantastic-four-graphic-novel-marvel-alex-ross/)
+- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates/)
+- [Binance CEO sees positive progress for crypto regulation, but it will be a ‘long process’](https://techcrunch.com/2022/09/21/binance-ceo-sees-positive-progress-for-crypto-regulation/)
 - [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
 - [These autonomous, wireless robots could dance on a human hair](https://techcrunch.com/2022/09/21/these-autonomous-wireless-robots-could-dance-on-a-human-hair/)
-- [Soyuz astronaut launch spotted from International Space Station &lpar;photos&rpar;](https://www.space.com/soyuz-ms-22-astronaut-launch-space-station-photos/)
-- [Peacock invests in its first adult animation series, stars  Mike Judge and ‘Silicon Valley’s’ Zach Woods](https://techcrunch.com/2022/09/21/peacock-first-adult-animation-series/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
