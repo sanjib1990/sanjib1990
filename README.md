@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Marvel&#39;s &#39;Fantastic Four&#39; visits an alien universe in new Alex Ross graphic novel &lpar;exclusive&rpar;](https://www.space.com/fantastic-four-graphic-novel-marvel-alex-ross/)
-- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates/)
-- [Binance CEO sees positive progress for crypto regulation, but it will be a ‘long process’](https://techcrunch.com/2022/09/21/binance-ceo-sees-positive-progress-for-crypto-regulation/)
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
-- [These autonomous, wireless robots could dance on a human hair](https://techcrunch.com/2022/09/21/these-autonomous-wireless-robots-could-dance-on-a-human-hair/)
+- [Kitty Hawk, the electric aircraft moonshot backed by Larry Page, is shutting down](https://techcrunch.com/2022/09/21/kitty-hawk-the-electric-aircraft-moonshot-backed-by-larry-page-is-shutting-down/)
+- [Materials startup Novoloop brings its upcycled rubber to On’s new running shoe](https://techcrunch.com/2022/09/21/materials-startup-novoloop-brings-its-upcycled-rubber-to-ons-new-running-shoe/)
+- [Kia, Hyundai sued after viral TikTok causes rise in thefts](https://techcrunch.com/2022/09/21/kia-hyundai-sued-after-viral-tiktok-causes-rise-in-thefts/)
+- [NyQuil chicken isn’t actually a TikTok trend](https://techcrunch.com/2022/09/21/nyquil-chicken-fda-warning-tiktok-trend/)
+- [BeReal experiences a multi-hour outage, refuses to explain](https://techcrunch.com/2022/09/21/bereal-experiences-a-multi-hour-outage-refuses-to-explain/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
