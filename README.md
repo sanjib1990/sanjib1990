@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Tech is at the heart of the biggest chess drama in years](https://techcrunch.com/2022/09/21/tech-is-at-the-heart-of-the-biggest-chess-drama-in-years/)
-- [China launches Yunhai-1 03 Earth-observing satellite into orbit](https://www.space.com/china-yunhai-1-03-satellite-launch/)
-- [Twitch plans to cut subscription revenue for some top streamers in push toward ads](https://techcrunch.com/2022/09/21/twitch-subcription-revenue-share-changes/)
-- [An asteroid and volcano &#39;double punch&#39; doomed the dinosaurs, study suggests](https://www.space.com/dinosaur-extinction-volcanoes-aided-asteroid-impact/)
+- [Chinese EV startup Xpeng says its new G9 SUV is ‘last step’ before autonomous vehicles](https://techcrunch.com/2022/09/21/chinese-ev-startup-xpeng-says-its-new-g9-suv-is-last-step-before-autonomous-vehicles/)
+- [The 5 most interesting startups in this IndieBio cohort](https://techcrunch.com/2022/09/21/indiebio-batch-13-most-interesting-startups/)
+- [NASA&#39;s SpaceX Crew-5 astronauts ready for historic mission](https://www.space.com/nasa-spacex-crew-5-mission/)
 - [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
+- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
