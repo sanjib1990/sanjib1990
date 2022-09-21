@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Dear Sophie: My EB-2 priority date will be delayed 2 years! What should I do?](https://techcrunch.com/2022/09/21/dear-sophie-my-eb-2-priority-date-will-be-delayed-2-years-what-should-i-do/)
-- [Voxel51 lands funds for its platform to manage unstructured data](https://techcrunch.com/2022/09/21/voxel51-lands-funds-for-its-platform-to-manage-unstructured-data/)
-- [Logitech announces a handheld console focused on cloud gaming](https://techcrunch.com/2022/09/21/logitech-announces-a-handheld-console-focused-on-cloud-gaming/)
-- [Amazon brings its ‘Tap to Alexa’ accessibility feature to Fire tablets for the first time](https://techcrunch.com/2022/09/21/amazon-brings-its-tap-to-alexa-accessibility-feature-to-fire-tablets-for-the-first-time/)
-- [Salesforce Genie brings data sharing to Amazon SageMaker and Einstein](https://techcrunch.com/2022/09/21/salesforce-genie-brings-data-sharing-to-amazon-sagemaker-and-einstein/)
+- [Tech is at the heart of the biggest chess drama in years](https://techcrunch.com/2022/09/21/tech-is-at-the-heart-of-the-biggest-chess-drama-in-years/)
+- [China launches Yunhai-1 03 Earth-observing satellite into orbit](https://www.space.com/china-yunhai-1-03-satellite-launch/)
+- [Twitch plans to cut subscription revenue for some top streamers in push toward ads](https://techcrunch.com/2022/09/21/twitch-subcription-revenue-share-changes/)
+- [An asteroid and volcano &#39;double punch&#39; doomed the dinosaurs, study suggests](https://www.space.com/dinosaur-extinction-volcanoes-aided-asteroid-impact/)
+- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
