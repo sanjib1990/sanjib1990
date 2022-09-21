@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google rolls out a new set of search tools for eco-conscious travelers](https://techcrunch.com/2022/09/21/google-rolls-out-a-new-set-of-search-tools-for-eco-conscious-travelers/)
+- [Network isn’t a dirty word](https://techcrunch.com/2022/09/21/network-isnt-a-dirty-word/)
+- [Morgan Stanley to pay $35M after hard drives with 15M customers’ personal data turn up in auction](https://techcrunch.com/2022/09/21/morgan-stanley-hard-drives-data-breach/)
+- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates/)
 - [Kode Labs raises $8m to advance its smart building platform](https://techcrunch.com/2022/09/21/kode-labs-raises-8m-to-advance-its-smart-building-platform/)
-- [Envoy Connect brings automated visitor management to high-rise buildings](https://techcrunch.com/2022/09/21/envoy-connect-brings-automated-visitor-management-to-high-rise-buildings/)
-- [A ‘Stripe for phone plans’: Gigs raises $20M to help any company be an MVNO](https://techcrunch.com/2022/09/21/a-stripe-for-phone-plans-gigs-raises-20m-to-help-any-company-be-an-mvno/)
-- [Brightflow AI aims to spotlight small business cash flow](https://techcrunch.com/2022/09/21/brightflow-small-business-capital/)
-- [Watch NASA&#39;s crucial fueling test of its Artemis 1 moon rocket today for free](https://www.space.com/artemis-1-moon-rocket-fueling-test-preview/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
