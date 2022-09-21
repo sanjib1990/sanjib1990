@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Berlin’s Kaiko Systems nets €2M to help maritime technical operations go paperless](https://techcrunch.com/2022/09/21/berlins-kaiko-systems-nets-e2m-to-help-maritime-technical-operations-go-paperless/)
-- [Ivorian fintech Julaya gets $5M to become banking partner for businesses in Francophone Africa](https://techcrunch.com/2022/09/21/ivorian-fintech-julaya-gets-5m-to-become-banking-partner-for-businesses-in-francophone-africa/)
-- [What are neutrinos?](https://www.space.com/what-are-neutrinos/)
-- [Google is integrating Assistant and Calendar reminders with Tasks](https://techcrunch.com/2022/09/21/google-is-integrating-assistant-and-calendar-reminders-with-tasks/)
-- [Ledgy, a Carta for European startups to manage equity and cap tables, raises $22M from NEA, Sequoia and more](https://techcrunch.com/2022/09/21/ledgy-a-carta-for-european-startups-to-manage-equity-and-cap-tables-raises-22m-from-nea-sequoia-and-more/)
+- [Ghanaian fintech SecondSTAX allows investors to access capital markets outside their countries, raises $1.6M](https://techcrunch.com/2022/09/21/ghanaian-fintech-secondstax-allows-investors-to-access-capital-markets-outside-their-countries-raises-1-6m/)
+- [NASA&#39;s DART mission will put on an asteroid-smashing show next week](https://www.space.com/double-asteroid-redirection-test-spacecraft-train/)
+- [Star Wars Andor streaming guide: release date, cast, trailers](https://www.space.com/star-wars-andor-release-date-trailers-streaming/)
+- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html/)
+- [8 ways to stop an asteroid: Nuclear weapons, paint and Bruce Willis](https://www.space.com/how-stop-asteroid-from-hitting-earth/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
