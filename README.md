@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Berlin’s Kaiko Systems nets €2M to help maritime technical operations go paperless](https://techcrunch.com/2022/09/21/berlins-kaiko-systems-nets-e2m-to-help-maritime-technical-operations-go-paperless/)
+- [Ivorian fintech Julaya gets $5M to become banking partner for businesses in Francophone Africa](https://techcrunch.com/2022/09/21/ivorian-fintech-julaya-gets-5m-to-become-banking-partner-for-businesses-in-francophone-africa/)
 - [What are neutrinos?](https://www.space.com/what-are-neutrinos/)
 - [Google is integrating Assistant and Calendar reminders with Tasks](https://techcrunch.com/2022/09/21/google-is-integrating-assistant-and-calendar-reminders-with-tasks/)
 - [Ledgy, a Carta for European startups to manage equity and cap tables, raises $22M from NEA, Sequoia and more](https://techcrunch.com/2022/09/21/ledgy-a-carta-for-european-startups-to-manage-equity-and-cap-tables-raises-22m-from-nea-sequoia-and-more/)
-- [Immortal Game is building a web3 chess platform](https://techcrunch.com/2022/09/20/immortal-game-is-building-a-web3-chess-platform/)
-- [Synthetic speech startup Murf lends a voice to content creators of all sizes](https://techcrunch.com/2022/09/20/synthetic-speech-startup-murf-lends-a-voice-to-content-creators-of-all-sizes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
