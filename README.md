@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google is integrating Assistant and Calendar reminders with Tasks](https://techcrunch.com/2022/09/21/google-is-integrating-assistant-and-calendar-reminders-with-tasks/)
+- [Ledgy, a Carta for European startups to manage equity and cap tables, raises $22M from NEA, Sequoia and more](https://techcrunch.com/2022/09/21/ledgy-a-carta-for-european-startups-to-manage-equity-and-cap-tables-raises-22m-from-nea-sequoia-and-more/)
 - [Immortal Game is building a web3 chess platform](https://techcrunch.com/2022/09/20/immortal-game-is-building-a-web3-chess-platform/)
 - [Synthetic speech startup Murf lends a voice to content creators of all sizes](https://techcrunch.com/2022/09/20/synthetic-speech-startup-murf-lends-a-voice-to-content-creators-of-all-sizes/)
 - [Loctax is a collaborative platform for global tax teams](https://techcrunch.com/2022/09/20/loctax-is-a-collaborative-platform-for-global-tax-teams/)
-- [Twitch responds to gambling scam drama by banning some betting sites](https://techcrunch.com/2022/09/20/twitch-sliker-gambling-drama/)
-- [Bookending the blitz, Chamath Palihapitiya begins unwinding two SPACs](https://techcrunch.com/2022/09/20/blitz-chamath-spacs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
