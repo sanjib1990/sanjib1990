@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Chinese EV startup Xpeng says its new G9 SUV is ‘last step’ before autonomous vehicles](https://techcrunch.com/2022/09/21/chinese-ev-startup-xpeng-says-its-new-g9-suv-is-last-step-before-autonomous-vehicles/)
-- [The 5 most interesting startups in this IndieBio cohort](https://techcrunch.com/2022/09/21/indiebio-batch-13-most-interesting-startups/)
-- [NASA&#39;s SpaceX Crew-5 astronauts ready for historic mission](https://www.space.com/nasa-spacex-crew-5-mission/)
+- [Binance CEO sees positive progress for crypto regulation, but it will be a ‘long process’](https://techcrunch.com/2022/09/21/binance-ceo-sees-positive-progress-for-crypto-regulation-but-it-will-be-a-long-process/)
 - [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
-- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates/)
+- [These autonomous, wireless robots could dance on a human hair](https://techcrunch.com/2022/09/21/these-autonomous-wireless-robots-could-dance-on-a-human-hair/)
+- [Soyuz astronaut launch spotted from International Space Station &lpar;photos&rpar;](https://www.space.com/soyuz-ms-22-astronaut-launch-space-station-photos/)
+- [Peacock invests in its first adult animation series, stars  Mike Judge and ‘Silicon Valley’s’ Zach Woods](https://techcrunch.com/2022/09/21/peacock-first-adult-animation-series/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
