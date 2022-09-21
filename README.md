@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Moonlighters eclipsed — Wipro lets go of 300 employees who were working for its rivals](https://techcrunch.com/2022/09/21/daily-crunch-moonlighters-eclipsed-wipro-lets-go-of-300-employees-who-also-worked-for-its-rivals/)
+- [Bird board backs new scooter boss](https://techcrunch.com/2022/09/21/bird-board-backs-new-scooter-boss/)
+- [Announcing the agenda for TechCrunch Sessions: Crypto 2022](https://techcrunch.com/2022/09/21/announcing-the-agenda-for-techcrunch-sessions-crypto-2022/)
+- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
 - [Kitty Hawk, the electric aircraft moonshot backed by Larry Page, is shutting down](https://techcrunch.com/2022/09/21/kitty-hawk-the-electric-aircraft-moonshot-backed-by-larry-page-is-shutting-down/)
-- [Materials startup Novoloop brings its upcycled rubber to On’s new running shoe](https://techcrunch.com/2022/09/21/materials-startup-novoloop-brings-its-upcycled-rubber-to-ons-new-running-shoe/)
-- [Kia, Hyundai sued after viral TikTok causes rise in thefts](https://techcrunch.com/2022/09/21/kia-hyundai-sued-after-viral-tiktok-causes-rise-in-thefts/)
-- [NyQuil chicken isn’t actually a TikTok trend](https://techcrunch.com/2022/09/21/nyquil-chicken-fda-warning-tiktok-trend/)
-- [BeReal experiences a multi-hour outage, refuses to explain](https://techcrunch.com/2022/09/21/bereal-experiences-a-multi-hour-outage-refuses-to-explain/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
