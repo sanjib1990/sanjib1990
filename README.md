@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch crucial fueling test of NASA&#39;s Artemis 1 moon rocket today](https://www.space.com/artemis-1-moon-rocket-fueling-test-preview/)
-- [Announcing the agenda for TechCrunch Sessions: Crypto 2022](https://techcrunch.com/2022/09/20/announcing-the-agenda-for-techcrunch-sessions-crypto-2022/)
-- [Amazon’s latest challenger is China’s online dollar store Pinduoduo](https://techcrunch.com/2022/09/20/pinduoduo-china-overseas-expansion/)
-- [Can we live long and prosper in space? The astronaut health dilemma](https://www.space.com/live-long-prosper-long-term-spaceflight-health-risks/)
-- [Daily Crunch: Revolut advises users to take caution after hacker breach triggers phishing campaign](https://techcrunch.com/2022/09/20/daily-crunch-revolut-advises-users-to-take-caution-after-hacker-breach-triggers-phishing-campaign/)
+- [Immortal Game is building a web3 chess platform](https://techcrunch.com/2022/09/20/immortal-game-is-building-a-web3-chess-platform/)
+- [Synthetic speech startup Murf lends a voice to content creators of all sizes](https://techcrunch.com/2022/09/20/synthetic-speech-startup-murf-lends-a-voice-to-content-creators-of-all-sizes/)
+- [Loctax is a collaborative platform for global tax teams](https://techcrunch.com/2022/09/20/loctax-is-a-collaborative-platform-for-global-tax-teams/)
+- [Twitch responds to gambling scam drama by banning some betting sites](https://techcrunch.com/2022/09/20/twitch-sliker-gambling-drama/)
+- [Bookending the blitz, Chamath Palihapitiya begins unwinding two SPACs](https://techcrunch.com/2022/09/20/blitz-chamath-spacs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
