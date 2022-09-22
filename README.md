@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX astronaut missions for NASA: Crew-5 live updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates/)
-- [Want a free ticket to Disrupt 2022? Apply to volunteer today!](https://techcrunch.com/2022/09/22/want-a-free-ticket-to-disrupt-2022-apply-to-volunteer-today/)
-- [Pitch Deck Teardown: Party Round’s $7M, er, party round deck](https://techcrunch.com/2022/09/22/sample-angel-pitch-deck-party-round/)
-- [China wants to probe Uranus and Jupiter with 2 spacecraft on one rocket](https://www.space.com/china-probes-jupiter-uranus-same-launch/)
-- [SkyView stargazing app review: locate stars and planets with your smartphone](https://www.space.com/skyview-review/)
+- [NASA&#39;s planetary defense mission will test asteroid deflection, but how realistic is it?](https://www.space.com/dart-asteroid-planetary-defense-how-realistic/)
+- [8 investors discuss what’s ahead for reproductive health startups in a post-Roe world](https://techcrunch.com/2022/09/22/8-investors-discuss-whats-ahead-for-reproductive-health-startups-in-a-post-roe-world/)
+- [8 VCs discuss the overturning of Roe v. Wade, venture, and the midterm elections](https://techcrunch.com/2022/09/22/8-vcs-discuss-the-overturning-of-roe-v-wade-venture-and-the-midterm-elections/)
+- [Satellites track 5 storms as Atlantic hurricane season heats up](https://www.space.com/satellites-track-5-storms-atlantic-hurricane-season-2022/)
+- [Amazon Prime Video’s Thursday Night Football starts strong with 15.3 million viewers](https://techcrunch.com/2022/09/22/amazon-prime-videos-thursday-night-football-starts-strong-with-15-3-million-viewers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
