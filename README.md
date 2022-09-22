@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SoftBank slashes Oyo’s valuation to $2.7 billion](https://techcrunch.com/2022/09/22/softbank-slashes-oyos-valuation-to-2-7-billion/)
-- [South Korea finds more suspicious crypto-linked foreign exchange transactions](https://techcrunch.com/2022/09/22/south-korea-finds-more-suspicious-crypto-linked-foreign-exchange-transactions/)
-- [Inside Seoul Robotics’s contrarian approach to autonomous vehicle tech](https://techcrunch.com/2022/09/22/seoul-robotics-aims-to-automate-vehicles-movement-via-its-3d-sensor-platform-closes-25m-funding/)
-- [UAE moon rover, Japanese lander set to launch atop SpaceX rocket in November](https://www.space.com/uae-moon-rover-ispace-lander-spacex-launch-november-2022/)
-- [On This Day In Space: Sept. 22, 2006: Japan launches Hinode solar observatory](https://www.space.com/39251-on-this-day-in-space.html/)
+- [NASA&#39;s James Webb Space Telescope: The ultimate guide](https://www.space.com/21925-james-webb-space-telescope-jwst.html/)
+- [Kalogon’s smart cushion for wheelchairs keeps the pressure off and brings in $3.3M](https://techcrunch.com/2022/09/22/kalogons-smart-cushion-for-wheelchairs-keeps-the-pressure-off-and-brings-in-3-3m/)
+- [Keith Rabois’ OpenStore bags new funding as valuation soars to $970M](https://techcrunch.com/2022/09/22/keith-rabois-openstore-valuation-970m/)
+- [Google’s new Chromecast costs $30 — and it has a remote](https://techcrunch.com/2022/09/22/googles-new-chromecast-costs-30-and-it-has-a-remote/)
+- [&#39;LEGO Masters&#39;-winning spaceship to go on display at NASA](https://www.space.com/lego-masters-spacecraft-kennedy-space-center/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
