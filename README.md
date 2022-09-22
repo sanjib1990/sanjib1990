@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Inside Seoul Robotics’s contrarian approach to autonomous vehicle tech](https://techcrunch.com/2022/09/22/seoul-robotics-aims-to-automate-vehicles-movement-via-its-3d-sensor-platform-closes-25m-funding/)
+- [On This Day In Space: Sept. 22, 2006: Japan launches Hinode solar observatory](https://www.space.com/39251-on-this-day-in-space.html/)
+- [India proposes to regulate internet communication services](https://techcrunch.com/2022/09/22/india-draft-telecom-bill-2022-regulate-internet-based-communication/)
+- [Planet Venus: 20 interesting facts](https://www.space.com/15988-venus-planet-weird-facts.html/)
 - [Mozilla urges action to unpick platform browser lock-ins](https://techcrunch.com/2022/09/22/mozilla-browser-research/)
-- [Good Mars weather lets NASA&#39;s power-starved InSight lander live a little longer](https://www.space.com/mars-insight-lander-running-out-of-power/)
-- [NASA&#39;s Juno probe will peer beneath the icy crust of Jupiter&#39;s moon Europa](https://www.space.com/juno-flyby-jupiter-moon-europa-science/)
-- [Autumnal equinox brings fall to the northern hemisphere today &lpar;Sept. 22&rpar;](https://www.space.com/autumnal-equinox-first-day-of-autumn-sept-22/)
-- [Why did NASA pick Didymos for its asteroid-crash mission?](https://www.space.com/nasa-dart-asteroid-crash-why-didymos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
