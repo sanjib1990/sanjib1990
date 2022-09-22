@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [In Latin America, founders and investors seek to balance caution and optimism](https://techcrunch.com/2022/09/22/in-latin-america-founders-and-investors-seek-to-balance-caution-and-optimism/)
-- [The Milky Way&#39;s supermassive black hole has a hot spot](https://www.space.com/milky-way-supermassive-black-hole-hot-spot/)
-- [Glovo fined $78M for labor breaches in Spain](https://techcrunch.com/2022/09/22/glovo-labor-fine/)
-- [UK trumpets roaming caps for travellers to Norway, Iceland and – maybe one day – Liechtenstein](https://techcrunch.com/2022/09/22/uk-trumpets-roaming-caps-for-travellers-to-norway-iceland-and-maybe-one-day-liechtenstein/)
-- [Steadybit wants developers involved in chaos engineering before production](https://techcrunch.com/2022/09/22/steadybit-wants-developers-involved-in-chaos-engineering-before-production/)
+- [A quick checkup on consumer fintech activity ahead of Q3 data](https://techcrunch.com/2022/09/22/a-quick-checkup-on-consumer-fintech-activity-ahead-of-q3-data/)
+- [Get up to $260 off these Anycubic Photon series 3D printers from Amazon](https://www.space.com/save-up-to-260-dollars-on-anycubic-photon-3d-printers-amazon-september-deals/)
+- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates/)
+- [Share your carbon-adjusted earnings per share number, you cowards](https://techcrunch.com/2022/09/22/carbon-adjusted-earnings-per-share/)
+- [JBalvin enters the digital wellness space with the launch of a bilingual mental health app](https://techcrunch.com/2022/09/22/jbalvin-enters-the-digital-wellness-space-with-the-launch-of-a-bilingual-mental-health-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
