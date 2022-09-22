@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Want a glimpse at the Apple Watch Series 9? Look no further than the Ultra](https://techcrunch.com/2022/09/22/want-a-glimpse-at-the-apple-watch-series-9-look-no-further-than-the-ultra/)
+- [SpaceX rolls Starship Super Heavy booster off pad to prep for epic launch &lpar;video&rpar;](https://www.space.com/spacex-starship-super-heavy-booster-7-rollback-video/)
 - [Q1 performance data shows maturing VC fund vintages aren’t doomed](https://techcrunch.com/2022/09/22/q1-performance-data-shows-maturing-vc-fund-vintages-arent-doomed/)
 - [Facebook users sue Meta, accusing the company of tracking on iOS through a loophole](https://techcrunch.com/2022/09/22/meta-lawsuit-ios-privacy/)
 - [The Merge pregame is over, but where’s the party?](https://techcrunch.com/2022/09/22/the-merge-pregame-is-over-but-wheres-the-party/)
-- [Connect with Google Cloud for Startups, Blackstone Launchpad and more at TechCrunch Disrupt](https://techcrunch.com/2022/09/22/connect-with-google-cloud-for-startups-blackstone-launchpad-and-more-at-techcrunch-disrupt/)
-- [How Adobe and Salesforce are fine-tuning customer experience tools](https://techcrunch.com/2022/09/22/how-adobe-and-salesforce-are-fine-tuning-customer-experience-tools/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
