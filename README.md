@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Florida escalates the fight over a controversial social media law to the Supreme Court](https://techcrunch.com/2022/09/21/florida-social-media-law-supreme-court/)
+- [NASA&#39;s Artemis 1 moon rocket passes crucial fueling test](https://www.space.com/artemis-1-moon-rocket-passes-fueling-test/)
+- [Rocket Lab expands US presence with engine testing, launch facilities](https://techcrunch.com/2022/09/21/rocket-lab-expands-us-presence-with-engine-testing-launch-facilities/)
 - [Daily Crunch: Moonlighters eclipsed — Wipro lets go of 300 employees who were working for its rivals](https://techcrunch.com/2022/09/21/daily-crunch-moonlighters-eclipsed-wipro-lets-go-of-300-employees-who-also-worked-for-its-rivals/)
 - [Bird board backs new scooter boss](https://techcrunch.com/2022/09/21/bird-board-backs-new-scooter-boss/)
-- [Announcing the agenda for TechCrunch Sessions: Crypto 2022](https://techcrunch.com/2022/09/21/announcing-the-agenda-for-techcrunch-sessions-crypto-2022/)
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
-- [Kitty Hawk, the electric aircraft moonshot backed by Larry Page, is shutting down](https://techcrunch.com/2022/09/21/kitty-hawk-the-electric-aircraft-moonshot-backed-by-larry-page-is-shutting-down/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
