@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Berlin’s Visionaries Club VC boosts its funds with €350M worth of fresh capital for B2B investments](https://techcrunch.com/2022/09/22/berlins-visionaries-club-vc-boosts-its-funds-with-e350m-worth-of-fresh-capital-for-b2b-investments/)
 - [Save 23% on a Gysker telescope: ideal for beginners and kids](https://www.space.com/save-30-dollars-gskyer-telescope-september-deal/)
 - [DataGuard locks down $61M for data protection as a service](https://techcrunch.com/2022/09/21/dataguard-locks-down-61m-for-data-protection-as-a-service/)
 - [Codacy nabs $15M to improve code reviews with automation](https://techcrunch.com/2022/09/21/codacy-nabs-15m-to-improve-code-reviews-with-automation/)
 - [Crypto tax reporting app Binocs helps users navigate regulations](https://techcrunch.com/2022/09/21/crypto-tax-reporting-app-binocs-helps-users-navigate-regulations/)
-- [EV charging operator Bump unlocks $180 million](https://techcrunch.com/2022/09/21/ev-charging-operator-bump-unlocks-180-million/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
