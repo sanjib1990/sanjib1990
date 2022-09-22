@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s James Webb Space Telescope: The ultimate guide](https://www.space.com/21925-james-webb-space-telescope-jwst.html/)
-- [Kalogon’s smart cushion for wheelchairs keeps the pressure off and brings in $3.3M](https://techcrunch.com/2022/09/22/kalogons-smart-cushion-for-wheelchairs-keeps-the-pressure-off-and-brings-in-3-3m/)
-- [Keith Rabois’ OpenStore bags new funding as valuation soars to $970M](https://techcrunch.com/2022/09/22/keith-rabois-openstore-valuation-970m/)
-- [Google’s new Chromecast costs $30 — and it has a remote](https://techcrunch.com/2022/09/22/googles-new-chromecast-costs-30-and-it-has-a-remote/)
-- [&#39;LEGO Masters&#39;-winning spaceship to go on display at NASA](https://www.space.com/lego-masters-spacecraft-kennedy-space-center/)
+- [UK trumpets roaming caps for travellers to Norway, Iceland and – maybe one day – Liechtenstein](https://techcrunch.com/2022/09/22/uk-trumpets-roaming-caps-for-travellers-to-norway-iceland-and-maybe-one-day-liechtenstein/)
+- [Steadybit wants developers involved in chaos engineering before production](https://techcrunch.com/2022/09/22/steadybit-wants-developers-involved-in-chaos-engineering-before-production/)
+- [Apple Watch Ultra first impressions](https://techcrunch.com/2022/09/22/apple-watch-ultra-first-impressions/)
+- [Remofirst raises $14.1M to make it cheaper and easier for businesses to hire remote workers globally](https://techcrunch.com/2022/09/22/saas-startup-remofirst-raises-14-1m-to-make-it-cheaper-and-easier-for-businesses-to-hire-remote-workers-globally/)
+- [What the CHIPS and Science Act means for the future of the semiconductor industry](https://techcrunch.com/2022/09/22/what-the-chips-and-science-act-means-for-the-future-of-the-semiconductor-industry/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
