@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [EV charging operator Bump unlocks $180 million](https://techcrunch.com/2022/09/21/ev-charging-operator-bump-unlocks-180-million/)
 - [Florida escalates the fight over a controversial social media law to the Supreme Court](https://techcrunch.com/2022/09/21/florida-social-media-law-supreme-court/)
 - [NASA&#39;s Artemis 1 moon rocket passes crucial fueling test](https://www.space.com/artemis-1-moon-rocket-passes-fueling-test/)
 - [Rocket Lab expands US presence with engine testing, launch facilities](https://techcrunch.com/2022/09/21/rocket-lab-expands-us-presence-with-engine-testing-launch-facilities/)
 - [Daily Crunch: Moonlighters eclipsed — Wipro lets go of 300 employees who were working for its rivals](https://techcrunch.com/2022/09/21/daily-crunch-moonlighters-eclipsed-wipro-lets-go-of-300-employees-who-also-worked-for-its-rivals/)
-- [Bird board backs new scooter boss](https://techcrunch.com/2022/09/21/bird-board-backs-new-scooter-boss/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
