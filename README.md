@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: A closer look at Google’s remote-controlled $30 Chromecast](https://techcrunch.com/2022/09/22/daily-crunch-a-closer-look-at-googles-remote-controlled-30-chromecast/)
+- [Nothing is prepping a new pair of earbuds](https://techcrunch.com/2022/09/22/nothing-is-prepping-a-new-pair-of-earbuds/)
+- [Apple fixes camera shaking issues and the paste permissions bug in today’s iOS 16 update](https://techcrunch.com/2022/09/22/apple-fixes-camera-shaking-issues-and-the-paste-permissions-bug-in-todays-ios-16-update/)
+- [DocuSign has hired former Google ad exec Allan Thygesen as its new CEO](https://techcrunch.com/2022/09/22/docusign-has-hired-former-google-ad-exec-allan-thygesen-as-its-new-ceo/)
 - [Want a glimpse at the Apple Watch Series 9? Look no further than the Ultra](https://techcrunch.com/2022/09/22/want-a-glimpse-at-the-apple-watch-series-9-look-no-further-than-the-ultra/)
-- [SpaceX rolls Starship Super Heavy booster off pad to prep for epic launch &lpar;video&rpar;](https://www.space.com/spacex-starship-super-heavy-booster-7-rollback-video/)
-- [Q1 performance data shows maturing VC fund vintages aren’t doomed](https://techcrunch.com/2022/09/22/q1-performance-data-shows-maturing-vc-fund-vintages-arent-doomed/)
-- [Facebook users sue Meta, accusing the company of tracking on iOS through a loophole](https://techcrunch.com/2022/09/22/meta-lawsuit-ios-privacy/)
-- [The Merge pregame is over, but where’s the party?](https://techcrunch.com/2022/09/22/the-merge-pregame-is-over-but-wheres-the-party/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
