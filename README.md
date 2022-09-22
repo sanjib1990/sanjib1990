@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SoftBank slashes Oyo’s valuation to $2.7 billion](https://techcrunch.com/2022/09/22/softbank-slashes-oyos-valuation-to-2-7-billion/)
+- [South Korea finds more suspicious crypto-linked foreign exchange transactions](https://techcrunch.com/2022/09/22/south-korea-finds-more-suspicious-crypto-linked-foreign-exchange-transactions/)
 - [Inside Seoul Robotics’s contrarian approach to autonomous vehicle tech](https://techcrunch.com/2022/09/22/seoul-robotics-aims-to-automate-vehicles-movement-via-its-3d-sensor-platform-closes-25m-funding/)
+- [UAE moon rover, Japanese lander set to launch atop SpaceX rocket in November](https://www.space.com/uae-moon-rover-ispace-lander-spacex-launch-november-2022/)
 - [On This Day In Space: Sept. 22, 2006: Japan launches Hinode solar observatory](https://www.space.com/39251-on-this-day-in-space.html/)
-- [India proposes to regulate internet communication services](https://techcrunch.com/2022/09/22/india-draft-telecom-bill-2022-regulate-internet-based-communication/)
-- [Planet Venus: 20 interesting facts](https://www.space.com/15988-venus-planet-weird-facts.html/)
-- [Mozilla urges action to unpick platform browser lock-ins](https://techcrunch.com/2022/09/22/mozilla-browser-research/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
