@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [A quick checkup on consumer fintech activity ahead of Q3 data](https://techcrunch.com/2022/09/22/a-quick-checkup-on-consumer-fintech-activity-ahead-of-q3-data/)
-- [Get up to $260 off these Anycubic Photon series 3D printers from Amazon](https://www.space.com/save-up-to-260-dollars-on-anycubic-photon-3d-printers-amazon-september-deals/)
-- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates/)
-- [Share your carbon-adjusted earnings per share number, you cowards](https://techcrunch.com/2022/09/22/carbon-adjusted-earnings-per-share/)
-- [JBalvin enters the digital wellness space with the launch of a bilingual mental health app](https://techcrunch.com/2022/09/22/jbalvin-enters-the-digital-wellness-space-with-the-launch-of-a-bilingual-mental-health-app/)
+- [SpaceX astronaut missions for NASA: Crew-5 live updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates/)
+- [Want a free ticket to Disrupt 2022? Apply to volunteer today!](https://techcrunch.com/2022/09/22/want-a-free-ticket-to-disrupt-2022-apply-to-volunteer-today/)
+- [Pitch Deck Teardown: Party Round’s $7M, er, party round deck](https://techcrunch.com/2022/09/22/sample-angel-pitch-deck-party-round/)
+- [China wants to probe Uranus and Jupiter with 2 spacecraft on one rocket](https://www.space.com/china-probes-jupiter-uranus-same-launch/)
+- [SkyView stargazing app review: locate stars and planets with your smartphone](https://www.space.com/skyview-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
