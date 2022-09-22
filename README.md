@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Q1 performance data shows maturing VC fund vintages aren’t doomed](https://techcrunch.com/2022/09/22/q1-performance-data-shows-maturing-vc-fund-vintages-arent-doomed/)
+- [Facebook users sue Meta, accusing the company of tracking on iOS through a loophole](https://techcrunch.com/2022/09/22/meta-lawsuit-ios-privacy/)
+- [The Merge pregame is over, but where’s the party?](https://techcrunch.com/2022/09/22/the-merge-pregame-is-over-but-wheres-the-party/)
 - [Connect with Google Cloud for Startups, Blackstone Launchpad and more at TechCrunch Disrupt](https://techcrunch.com/2022/09/22/connect-with-google-cloud-for-startups-blackstone-launchpad-and-more-at-techcrunch-disrupt/)
 - [How Adobe and Salesforce are fine-tuning customer experience tools](https://techcrunch.com/2022/09/22/how-adobe-and-salesforce-are-fine-tuning-customer-experience-tools/)
-- [With new cuts, Klarna joins the ranks of companies having to conduct more than one layoff](https://techcrunch.com/2022/09/22/with-new-cuts-klarna-joins-the-ranks-of-companies-having-to-conduct-more-than-one-layoff/)
-- [Humankinda](https://techcrunch.com/2022/09/22/humanoid-robots-boston-dynamics-tesla/)
-- [Fundraise for network access with Sapphire Ventures and Medable](https://techcrunch.com/2022/09/22/fundraise-for-network-access-with-sapphire-ventures-and-medable/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
