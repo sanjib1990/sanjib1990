@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s planetary defense mission will test asteroid deflection, but how realistic is it?](https://www.space.com/dart-asteroid-planetary-defense-how-realistic/)
-- [8 investors discuss what’s ahead for reproductive health startups in a post-Roe world](https://techcrunch.com/2022/09/22/8-investors-discuss-whats-ahead-for-reproductive-health-startups-in-a-post-roe-world/)
-- [8 VCs discuss the overturning of Roe v. Wade, venture, and the midterm elections](https://techcrunch.com/2022/09/22/8-vcs-discuss-the-overturning-of-roe-v-wade-venture-and-the-midterm-elections/)
-- [Satellites track 5 storms as Atlantic hurricane season heats up](https://www.space.com/satellites-track-5-storms-atlantic-hurricane-season-2022/)
-- [Amazon Prime Video’s Thursday Night Football starts strong with 15.3 million viewers](https://techcrunch.com/2022/09/22/amazon-prime-videos-thursday-night-football-starts-strong-with-15-3-million-viewers/)
+- [Connect with Google Cloud for Startups, Blackstone Launchpad and more at TechCrunch Disrupt](https://techcrunch.com/2022/09/22/connect-with-google-cloud-for-startups-blackstone-launchpad-and-more-at-techcrunch-disrupt/)
+- [How Adobe and Salesforce are fine-tuning customer experience tools](https://techcrunch.com/2022/09/22/how-adobe-and-salesforce-are-fine-tuning-customer-experience-tools/)
+- [With new cuts, Klarna joins the ranks of companies having to conduct more than one layoff](https://techcrunch.com/2022/09/22/with-new-cuts-klarna-joins-the-ranks-of-companies-having-to-conduct-more-than-one-layoff/)
+- [Humankinda](https://techcrunch.com/2022/09/22/humanoid-robots-boston-dynamics-tesla/)
+- [Fundraise for network access with Sapphire Ventures and Medable](https://techcrunch.com/2022/09/22/fundraise-for-network-access-with-sapphire-ventures-and-medable/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
