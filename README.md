@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [In Latin America, founders and investors seek to balance caution and optimism](https://techcrunch.com/2022/09/22/in-latin-america-founders-and-investors-seek-to-balance-caution-and-optimism/)
+- [The Milky Way&#39;s supermassive black hole has a hot spot](https://www.space.com/milky-way-supermassive-black-hole-hot-spot/)
+- [Glovo fined $78M for labor breaches in Spain](https://techcrunch.com/2022/09/22/glovo-labor-fine/)
 - [UK trumpets roaming caps for travellers to Norway, Iceland and – maybe one day – Liechtenstein](https://techcrunch.com/2022/09/22/uk-trumpets-roaming-caps-for-travellers-to-norway-iceland-and-maybe-one-day-liechtenstein/)
 - [Steadybit wants developers involved in chaos engineering before production](https://techcrunch.com/2022/09/22/steadybit-wants-developers-involved-in-chaos-engineering-before-production/)
-- [Apple Watch Ultra first impressions](https://techcrunch.com/2022/09/22/apple-watch-ultra-first-impressions/)
-- [Remofirst raises $14.1M to make it cheaper and easier for businesses to hire remote workers globally](https://techcrunch.com/2022/09/22/saas-startup-remofirst-raises-14-1m-to-make-it-cheaper-and-easier-for-businesses-to-hire-remote-workers-globally/)
-- [What the CHIPS and Science Act means for the future of the semiconductor industry](https://techcrunch.com/2022/09/22/what-the-chips-and-science-act-means-for-the-future-of-the-semiconductor-industry/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
