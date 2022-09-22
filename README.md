@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Berlin’s Visionaries Club VC boosts its funds with €350M worth of fresh capital for B2B investments](https://techcrunch.com/2022/09/22/berlins-visionaries-club-vc-boosts-its-funds-with-e350m-worth-of-fresh-capital-for-b2b-investments/)
-- [Save 23% on a Gysker telescope: ideal for beginners and kids](https://www.space.com/save-30-dollars-gskyer-telescope-september-deal/)
-- [DataGuard locks down $61M for data protection as a service](https://techcrunch.com/2022/09/21/dataguard-locks-down-61m-for-data-protection-as-a-service/)
-- [Codacy nabs $15M to improve code reviews with automation](https://techcrunch.com/2022/09/21/codacy-nabs-15m-to-improve-code-reviews-with-automation/)
-- [Crypto tax reporting app Binocs helps users navigate regulations](https://techcrunch.com/2022/09/21/crypto-tax-reporting-app-binocs-helps-users-navigate-regulations/)
+- [Mozilla urges action to unpick platform browser lock-ins](https://techcrunch.com/2022/09/22/mozilla-browser-research/)
+- [Good Mars weather lets NASA&#39;s power-starved InSight lander live a little longer](https://www.space.com/mars-insight-lander-running-out-of-power/)
+- [NASA&#39;s Juno probe will peer beneath the icy crust of Jupiter&#39;s moon Europa](https://www.space.com/juno-flyby-jupiter-moon-europa-science/)
+- [Autumnal equinox brings fall to the northern hemisphere today &lpar;Sept. 22&rpar;](https://www.space.com/autumnal-equinox-first-day-of-autumn-sept-22/)
+- [Why did NASA pick Didymos for its asteroid-crash mission?](https://www.space.com/nasa-dart-asteroid-crash-why-didymos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
