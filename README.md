@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Optus, Australia’s second largest telco, says customer data exposed in data breach](https://techcrunch.com/2022/09/22/optus-australia-data-breach/)
+- [Looking at 320 pitch decks, here’s what science tells us works best](https://techcrunch.com/2022/09/22/science-of-pitch-decks/)
+- [DART asteroid-smashing mission &#39;on track for an impact&#39; Monday, NASA says](https://www.space.com/dart-asteroid-mission-on-track-for-impact/)
 - [Daily Crunch: A closer look at Google’s remote-controlled $30 Chromecast](https://techcrunch.com/2022/09/22/daily-crunch-a-closer-look-at-googles-remote-controlled-30-chromecast/)
 - [Nothing is prepping a new pair of earbuds](https://techcrunch.com/2022/09/22/nothing-is-prepping-a-new-pair-of-earbuds/)
-- [Apple fixes camera shaking issues and the paste permissions bug in today’s iOS 16 update](https://techcrunch.com/2022/09/22/apple-fixes-camera-shaking-issues-and-the-paste-permissions-bug-in-todays-ios-16-update/)
-- [DocuSign has hired former Google ad exec Allan Thygesen as its new CEO](https://techcrunch.com/2022/09/22/docusign-has-hired-former-google-ad-exec-allan-thygesen-as-its-new-ceo/)
-- [Want a glimpse at the Apple Watch Series 9? Look no further than the Ultra](https://techcrunch.com/2022/09/22/want-a-glimpse-at-the-apple-watch-series-9-look-no-further-than-the-ultra/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
