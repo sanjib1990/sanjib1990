@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How Blaseball’s fantasy sport fever dream is embracing the future](https://techcrunch.com/2022/09/23/blaseball-game-viral-hit-returning-soon/)
+- [Smaller Dreamforce still comes up big in first live meeting in three years](https://techcrunch.com/2022/09/23/smaller-dreamforce-still-comes-up-big-in-first-live-meeting-in-three-years/)
+- [FCC denies SpaceX $900 million in Starlink funding](https://www.space.com/spacex-starlink-fcc-funding-appeal/)
+- [Scientists trace high-energy particles back to sun&#39;s plasma](https://www.space.com/high-energy-particles-source-space-weather/)
 - [GM invests in Canadian battery recycler to fight supply shortage](https://techcrunch.com/2022/09/23/gm-invests-in-canadian-battery-recycler-to-fight-supply-shortage/)
-- [FTX, Uniswap and Visa talk blockchain economy and opportunity at Disrupt](https://techcrunch.com/2022/09/23/ftx-uniswap-and-visa-talk-blockchain-economy-and-opportunity-at-disrupt/)
-- [The case for US venture capital outperformance](https://techcrunch.com/2022/09/23/the-case-for-us-venture-capital-outperformance/)
-- [TechCrunch+ roundup: LatAm startup strength, global chip shortage, Visa Bulletin update](https://techcrunch.com/2022/09/23/techcrunch-roundup-latam-startup-strength-global-chip-shortage-visa-bulletin-update/)
-- [Declining VC investment into LatAm startups could throttle digital growth](https://techcrunch.com/2022/09/23/declining-vc-investment-into-latam-startups-could-throttle-digital-growth/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
