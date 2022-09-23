@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GM invests in Canadian battery recycler to fight supply shortage](https://techcrunch.com/2022/09/23/gm-invests-in-canadian-battery-recycler-to-fight-supply-shortage/)
+- [FTX, Uniswap and Visa talk blockchain economy and opportunity at Disrupt](https://techcrunch.com/2022/09/23/ftx-uniswap-and-visa-talk-blockchain-economy-and-opportunity-at-disrupt/)
+- [The case for US venture capital outperformance](https://techcrunch.com/2022/09/23/the-case-for-us-venture-capital-outperformance/)
+- [TechCrunch+ roundup: LatAm startup strength, global chip shortage, Visa Bulletin update](https://techcrunch.com/2022/09/23/techcrunch-roundup-latam-startup-strength-global-chip-shortage-visa-bulletin-update/)
 - [Declining VC investment into LatAm startups could throttle digital growth](https://techcrunch.com/2022/09/23/declining-vc-investment-into-latam-startups-could-throttle-digital-growth/)
-- [Volkswagen and Belgian utility giant partner on vehicle-to-grid energy storage](https://techcrunch.com/2022/09/23/volkswagen-and-belgian-utility-giant-partner-on-vehicle-to-grid-energy-storage/)
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
-- [TikTok is releasing its comment dislike button to all users worldwide](https://techcrunch.com/2022/09/23/tiktok-releasing-comment-dislike-button-all-users/)
-- [Best used lenses for digital cameras in 2022](https://www.space.com/best-used-lenses-for-digital-cameras/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
