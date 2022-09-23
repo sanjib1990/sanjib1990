@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: London-based spatial computing startup Hadean closes $30 million Series A](https://techcrunch.com/2022/09/23/daily-crunch-london-based-spatial-computing-startup-hadean-closes-30-million-series-a/)
 - [Wonder at the &#39;false dawn&#39; of zodiacal light in early autumn](https://www.space.com/zodiacal-light-false-dawn-early-autumn-2022/)
 - [The ‘ideal runway’ is a myth, isn’t it?](https://techcrunch.com/2022/09/23/the-ideal-runway-is-a-myth-isnt-it/)
 - [&#39;Drag sail&#39; to deorbit satellites receives $750K in seed funding](https://www.space.com/satellite-deorbiting-drag-sail-spinnaker-funding/)
 - [Mighty Capital’s thesis is that the best product wins — even more so in a downturn](https://techcrunch.com/2022/09/23/mighty-capitals-thesis-is-that-the-best-product-wins-even-more-so-in-a-downturn/)
-- [Triller settles lawsuit with Timbaland and Swizz Beatz](https://techcrunch.com/2022/09/23/triller-settles-lawsuit-with-timbaland-and-swizz-beatz/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
