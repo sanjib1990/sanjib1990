@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A guide to Low Power Mode on the Apple Watch](https://techcrunch.com/2022/09/23/a-guide-to-low-power-mode-on-the-apple-watch/)
+- [Arjun Sethi’s crypto derivatives protocol Nibiru raises maiden funding at $100M valuation](https://techcrunch.com/2022/09/23/arjun-sethis-derivatives-protocol-nibiru-raises-maiden-funding-at-100m-valuation/)
+- [A Strava co-founder races into a lucrative market – lending against life insurance](https://techcrunch.com/2022/09/23/strava-co-founder-gets-inclined-fintech/)
+- [Tesla countersues civil rights agency behind racial bias suit](https://techcrunch.com/2022/09/23/tesla-countersues-civil-rights-agency-behind-racial-bias-suit/)
 - [Italy fires Meta urgent request for info re: election interference measures](https://techcrunch.com/2022/09/23/italian-election-facebook-info-request/)
-- [UK mini budget: Government to boost gigabit broadband by easing access to infrastructure on private land](https://techcrunch.com/2022/09/23/uk-mini-budget-government-to-boost-gigabit-broadband-by-easing-access-to-infrastructure-on-private-land/)
-- [On This Day In Space: Sept. 23, 1962: &#39;The Jetsons&#39; premieres on ABC](https://www.space.com/39251-on-this-day-in-space.html/)
-- [See Jupiter at its best in the night sky as it nears closest point to Earth since 1963](https://www.space.com/jupiter-at-its-best-opposition-sept-2022/)
-- [Kenyan startup Ponea gaining momentum in driving access to medical services](https://techcrunch.com/2022/09/23/kenyan-startup-ponea-gaining-momentum-in-driving-access-to-medical-services/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
