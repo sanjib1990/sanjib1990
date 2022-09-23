@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How Blaseball’s fantasy sport fever dream is embracing the future](https://techcrunch.com/2022/09/23/blaseball-game-viral-hit-returning-soon/)
+- [How a pivot helped HopSkipDrive emerge successful in a sector where many failed](https://techcrunch.com/2022/09/23/how-a-pivot-helped-hopskipdrive-emerge-successful-in-a-sector-where-many-failed/)
+- [Byju’s clears $230 million payment to Blackstone for $1 billion Aakash deal](https://techcrunch.com/2022/09/23/byjus-clears-230-million-payment-to-blackstone-for-1-billion-aakash-deal/)
+- [How Blaseball’s fantasy sports fever dream is embracing the future](https://techcrunch.com/2022/09/23/blaseball-game-viral-hit-returning-soon/)
 - [Smaller Dreamforce still comes up big in first live meeting in three years](https://techcrunch.com/2022/09/23/smaller-dreamforce-still-comes-up-big-in-first-live-meeting-in-three-years/)
 - [FCC denies SpaceX $900 million in Starlink funding](https://www.space.com/spacex-starlink-fcc-funding-appeal/)
-- [Scientists trace high-energy particles back to sun&#39;s plasma](https://www.space.com/high-energy-particles-source-space-weather/)
-- [GM invests in Canadian battery recycler to fight supply shortage](https://techcrunch.com/2022/09/23/gm-invests-in-canadian-battery-recycler-to-fight-supply-shortage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
