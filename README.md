@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Declining VC investment into LatAm startups could throttle digital growth](https://techcrunch.com/2022/09/23/declining-vc-investment-into-latam-startups-could-throttle-digital-growth/)
+- [Volkswagen and Belgian utility giant partner on vehicle-to-grid energy storage](https://techcrunch.com/2022/09/23/volkswagen-and-belgian-utility-giant-partner-on-vehicle-to-grid-energy-storage/)
+- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
 - [TikTok is releasing its comment dislike button to all users worldwide](https://techcrunch.com/2022/09/23/tiktok-releasing-comment-dislike-button-all-users/)
 - [Best used lenses for digital cameras in 2022](https://www.space.com/best-used-lenses-for-digital-cameras/)
-- [The $5.6B epicenter of Ford’s EV effort is now under construction](https://techcrunch.com/2022/09/23/ford-breaks-ground-battery-ev-blueoval-city-tennessee/)
-- [Raise a bottle: Maison Mumm champagne to fly on Axiom Space missions](https://www.space.com/maison-mumm-champagne-axiom-space/)
-- [Can the James Webb Space Telescope really see the past?](https://www.space.com/james-webb-space-telescope-see-the-past/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
