@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Mighty Capital’s thesis is that the best product wins – even more so in a downturn](https://techcrunch.com/2022/09/23/mighty-capitals-thesis-is-that-the-best-product-wins-even-more-so-in-a-downturn/)
+- [Wonder at the &#39;false dawn&#39; of zodiacal light in early autumn](https://www.space.com/zodiacal-light-false-dawn-early-autumn-2022/)
+- [The ‘ideal runway’ is a myth, isn’t it?](https://techcrunch.com/2022/09/23/the-ideal-runway-is-a-myth-isnt-it/)
+- [&#39;Drag sail&#39; to deorbit satellites receives $750K in seed funding](https://www.space.com/satellite-deorbiting-drag-sail-spinnaker-funding/)
+- [Mighty Capital’s thesis is that the best product wins — even more so in a downturn](https://techcrunch.com/2022/09/23/mighty-capitals-thesis-is-that-the-best-product-wins-even-more-so-in-a-downturn/)
 - [Triller settles lawsuit with Timbaland and Swizz Beatz](https://techcrunch.com/2022/09/23/triller-settles-lawsuit-with-timbaland-and-swizz-beatz/)
-- [Dead stars in Milky Way&#39;s companion galaxy cause mysterious gamma-ray cocoon](https://www.space.com/gamma-ray-cocoon-sagittarius-dwarf-galaxy/)
-- [Instagram Stories under 60 seconds are no longer broken up into clips](https://techcrunch.com/2022/09/23/instagram-stories-under-60-seconds-no-longer-broken-up/)
-- [NASA&#39;s Artemis 1 moon launch scheduled for Sept. 27 despite gathering storm](https://www.space.com/artemis-1-moon-rocket-september-27-launch-weather/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
