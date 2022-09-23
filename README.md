@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SerMorpheus wants to make NFTs an everyday sight in Indonesia](https://techcrunch.com/2022/09/23/sermorpheus-nft-crypto-indonesia/)
 - [Backed by Epic Games, distributed computing startup Hadean nabs $30M to power the metaverse](https://techcrunch.com/2022/09/23/distributed-computing-startup-hadean-nabs-30m-to-power-the-metaverse/)
 - [Breaking Bad creator is making a new show for Apple TV+ with Rhea Seehorn](https://techcrunch.com/2022/09/23/breaking-bad-creator-is-making-a-new-show-for-apple-tv-with-rhea-seehorn/)
 - [Cloud kitchen startup CloudEats raises more capital to ramp up Southeast Asian expansion](https://techcrunch.com/2022/09/22/cloud-kitchen-startup-cloudeats-raises-more-capital-to-fuel-its-southeast-asia-expansion/)
 - [Rad Power Bikes and Cycle pilot consumer e-bike subscriptions](https://techcrunch.com/2022/09/22/rad-power-bikes-and-cycle-pilot-consumer-e-bike-subscriptions/)
-- [On Deck tried to do it all. Now, it’s trying to do less, better](https://techcrunch.com/2022/09/22/on-deck-tried-to-do-it-all-now-its-trying-to-do-less-better/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
