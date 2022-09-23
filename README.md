@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Italy fires Meta urgent request for info re: election interference measures](https://techcrunch.com/2022/09/23/italian-election-facebook-info-request/)
+- [UK mini budget: Government to boost gigabit broadband by easing access to infrastructure on private land](https://techcrunch.com/2022/09/23/uk-mini-budget-government-to-boost-gigabit-broadband-by-easing-access-to-infrastructure-on-private-land/)
+- [On This Day In Space: Sept. 23, 1962: &#39;The Jetsons&#39; premieres on ABC](https://www.space.com/39251-on-this-day-in-space.html/)
+- [See Jupiter at its best in the night sky as it nears closest point to Earth since 1963](https://www.space.com/jupiter-at-its-best-opposition-sept-2022/)
 - [Kenyan startup Ponea gaining momentum in driving access to medical services](https://techcrunch.com/2022/09/23/kenyan-startup-ponea-gaining-momentum-in-driving-access-to-medical-services/)
-- [Zeiss binoculars deals: Discounts on top-rated models right now](https://www.space.com/zeiss-binoculars-deals/)
-- [NASA&#39;s DART asteroid-smashing mission: A complete guide](https://www.space.com/dart-asteroid-mission/)
-- [VP Kamala Harris calls to diversify US space workforce](https://www.space.com/vice-president-kamala-harris-diversity-space-workforce/)
-- [James Webb, Hubble space telescopes will try to watch DART asteroid impact](https://www.space.com/dart-asteroid-impact-space-telescope-observations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
