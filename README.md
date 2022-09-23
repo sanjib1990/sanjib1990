@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Can the James Webb Space Telescope really see the past?](https://www.space.com/james-webb-space-telescope-see-the-past/)
+- [When VCs fund the thing you didn’t think they’d ever fund](https://techcrunch.com/2022/09/23/when-vcs-fund-the-thing-you-didnt-think-theyd-ever-fund/)
+- [National Geographic Astro Planetarium star projector review](https://www.space.com/national-geographic-astro-planetarium-star-projector-review/)
 - [A guide to Low Power Mode on the Apple Watch](https://techcrunch.com/2022/09/23/a-guide-to-low-power-mode-on-the-apple-watch/)
 - [Arjun Sethi’s crypto derivatives protocol Nibiru raises maiden funding at $100M valuation](https://techcrunch.com/2022/09/23/arjun-sethis-derivatives-protocol-nibiru-raises-maiden-funding-at-100m-valuation/)
-- [A Strava co-founder races into a lucrative market – lending against life insurance](https://techcrunch.com/2022/09/23/strava-co-founder-gets-inclined-fintech/)
-- [Tesla countersues civil rights agency behind racial bias suit](https://techcrunch.com/2022/09/23/tesla-countersues-civil-rights-agency-behind-racial-bias-suit/)
-- [Italy fires Meta urgent request for info re: election interference measures](https://techcrunch.com/2022/09/23/italian-election-facebook-info-request/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
