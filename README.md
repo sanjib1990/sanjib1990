@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How Change co-founders brainstormed their way into entrepreneurship](https://techcrunch.com/2022/09/24/how-change-co-founders-brainstormed-their-way-into-entrepreneurship/)
+- [Netflix’s edition of Night School’s ‘Oxenfree’ is now available to play on iOS and Android](https://techcrunch.com/2022/09/24/netflixs-night-schools-oxenfree-available-play-ios-android/)
 - [Tiger Global, fickle checks and the difficulty of acceleration](https://techcrunch.com/2022/09/24/tiger-global-fickle-checks-and-the-difficulty-of-acceleration/)
 - [This Week in Apps: YouTube takes on TikTok, Spotify adds audiobooks, BeReal takes a dive](https://techcrunch.com/2022/09/24/this-week-in-apps-youtube-takes-on-tiktok-spotify-adds-audiobooks-bereal-takes-a-dive/)
 - [For Brazilian shareholders, Nubank’s IPO has a bitter aftertaste](https://techcrunch.com/2022/09/24/for-brazilian-shareholders-nubanks-ipo-has-a-bitter-aftertaste/)
-- [Startups are building businesses out of DevOps tools for existing sales platforms](https://techcrunch.com/2022/09/24/startups-are-building-businesses-out-of-devops-tools-for-existing-sales-platforms/)
-- [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
