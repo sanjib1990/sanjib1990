@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [For Brazilian shareholders, Nubank’s IPO has a bitter aftertaste](https://techcrunch.com/2022/09/24/for-brazilian-shareholders-nubanks-ipo-has-a-bitter-aftertaste/)
 - [Startups are building businesses out of DevOps tools for existing sales platforms](https://techcrunch.com/2022/09/24/startups-are-building-businesses-out-of-devops-tools-for-existing-sales-platforms/)
 - [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html/)
 - [NASA calls off Artemis 1 moon rocket launch on Sept. 27 due to Tropical Storm Ian](https://www.space.com/artemis-1-moon-launch-delay-tropical-storm-ian/)
 - [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html/)
-- [This Week In Space podcast: Episode 30 — Why are we going to space anyway?](https://www.space.com/this-week-in-space-podcast-twit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
