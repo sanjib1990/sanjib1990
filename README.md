@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Save £50 on the Celestron StarSense Explorer DX 130 telescope](https://www.space.com/celestron-starsense-explorer-130-september-deal/)
 - [DART asteroid crash: What time will NASA probe hit Dimorphos on Sept. 26?](https://www.space.com/dart-asteroid-impact-crash-what-time/)
 - [Daily Crunch: London-based spatial computing startup Hadean closes $30 million Series A](https://techcrunch.com/2022/09/23/daily-crunch-london-based-spatial-computing-startup-hadean-closes-30-million-series-a/)
 - [Wonder at the &#39;false dawn&#39; of zodiacal light in early autumn](https://www.space.com/zodiacal-light-false-dawn-early-autumn-2022/)
 - [The ‘ideal runway’ is a myth, isn’t it?](https://techcrunch.com/2022/09/23/the-ideal-runway-is-a-myth-isnt-it/)
-- [&#39;Drag sail&#39; to deorbit satellites receives $750K in seed funding](https://www.space.com/satellite-deorbiting-drag-sail-spinnaker-funding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
