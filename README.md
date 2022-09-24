@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GTA 6 footage leaks, Revolut gets hacked, and Wipro fires 300 for “moonlighting”](https://techcrunch.com/2022/09/24/gta-6-footage-leaks-revolut-gets-hacked-and-wipro-fires-300-for-moonlighting/)
 - [How Change co-founders brainstormed their way into entrepreneurship](https://techcrunch.com/2022/09/24/how-change-co-founders-brainstormed-their-way-into-entrepreneurship/)
 - [Netflix’s edition of Night School’s ‘Oxenfree’ is now available to play on iOS and Android](https://techcrunch.com/2022/09/24/netflixs-night-schools-oxenfree-available-play-ios-android/)
 - [Tiger Global, fickle checks and the difficulty of acceleration](https://techcrunch.com/2022/09/24/tiger-global-fickle-checks-and-the-difficulty-of-acceleration/)
 - [This Week in Apps: YouTube takes on TikTok, Spotify adds audiobooks, BeReal takes a dive](https://techcrunch.com/2022/09/24/this-week-in-apps-youtube-takes-on-tiktok-spotify-adds-audiobooks-bereal-takes-a-dive/)
-- [For Brazilian shareholders, Nubank’s IPO has a bitter aftertaste](https://techcrunch.com/2022/09/24/for-brazilian-shareholders-nubanks-ipo-has-a-bitter-aftertaste/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
