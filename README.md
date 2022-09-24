@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch SpaceX launch 52 Starlink satellites, land rocket Saturday](https://www.space.com/spacex-starlink-satellite-launch-group-4-35/)
 - [Why ground-based telescopes are key to DART asteroid-smashing mission&#39;s success](https://www.space.com/dart-asteroid-impact-observations-from-earth/)
 - [Watch powerful Delta IV Heavy rocket launch US spy satellite Saturday](https://www.space.com/delta-iv-heavy-nrol-91-launch-preview/)
 - [NASA will crash a spacecraft into an asteroid on Monday and you can watch it through telescopes online](https://www.space.com/dart-impact-virtual-telescope-project-webcast/)
 - [See Mars pass an asterism in the Taurus constellation on Saturday &lpar;Sept. 24&rpar;](https://www.space.com/mars-passes-star-cluster-ngc1746-sept-24/)
-- [Steve Case is trying to make money with founders outside Silicon Valley; his plan is starting to work](https://techcrunch.com/2022/09/24/steve-case-plan-starting/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
