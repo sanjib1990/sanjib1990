@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch SpaceX launch 52 Starlink satellites, land rocket Saturday](https://www.space.com/spacex-starlink-satellite-launch-group-4-35/)
+- [On This Day In Space: Sept. 24, 2014: India&#39;s 1st Mars mission reaches orbit](https://www.space.com/39251-on-this-day-in-space.html/)
+- [Watch SpaceX launch another 52 Starlink satellites, land rocket tonight &lpar;Sept 24&rpar;](https://www.space.com/spacex-starlink-satellite-launch-group-4-35/)
 - [Why ground-based telescopes are key to DART asteroid-smashing mission&#39;s success](https://www.space.com/dart-asteroid-impact-observations-from-earth/)
-- [Watch powerful Delta IV Heavy rocket launch US spy satellite Saturday](https://www.space.com/delta-iv-heavy-nrol-91-launch-preview/)
-- [NASA will crash a spacecraft into an asteroid on Monday and you can watch it through telescopes online](https://www.space.com/dart-impact-virtual-telescope-project-webcast/)
-- [See Mars pass an asterism in the Taurus constellation on Saturday &lpar;Sept. 24&rpar;](https://www.space.com/mars-passes-star-cluster-ngc1746-sept-24/)
+- [Watch a huge Delta IV Heavy rocket launch a US spy satellite on its final West Coast flight live today](https://www.space.com/delta-iv-heavy-nrol-91-launch-preview/)
+- [NASA will crash a spacecraft into an asteroid on Sept. 26 and you can watch it through telescopes online for free](https://www.space.com/dart-impact-virtual-telescope-project-webcast/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
