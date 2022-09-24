@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Startups are building businesses out of DevOps tools for existing sales platforms](https://techcrunch.com/2022/09/24/startups-are-building-businesses-out-of-devops-tools-for-existing-sales-platforms/)
+- [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html/)
+- [NASA calls off Artemis 1 moon rocket launch on Sept. 27 due to Tropical Storm Ian](https://www.space.com/artemis-1-moon-launch-delay-tropical-storm-ian/)
+- [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html/)
 - [This Week In Space podcast: Episode 30 — Why are we going to space anyway?](https://www.space.com/this-week-in-space-podcast-twit/)
-- [Perceptron: Multilingual, laughing, Pitfall-playing and streetwise AI](https://techcrunch.com/2022/09/24/perceptron-multilingual-laughing-pitfall-playing-and-streetwise-ai/)
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
-- [On This Day In Space: Sept. 24, 2014: India&#39;s 1st Mars mission reaches orbit](https://www.space.com/39251-on-this-day-in-space.html/)
-- [Watch SpaceX launch another 52 Starlink satellites, land rocket tonight &lpar;Sept 24&rpar;](https://www.space.com/spacex-starlink-satellite-launch-group-4-35/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
