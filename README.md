@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Upcoming Star Wars TV shows](https://www.space.com/upcoming-star-wars-tv-shows/)
+- [On This Day In Space: Sept. 25, 2008: China launches its 3rd human spaceflight](https://www.space.com/39251-on-this-day-in-space.html/)
 - [What is the moon phase today? Lunar phases 2022](https://www.space.com/18880-moon-phases.html/)
 - [September New Moon 2022: Jupiter at opposition](https://www.space.com/17561-new-moon-explained-lunar-phases.html/)
 - [&#39;Blade Runner 2099&#39; live action TV show coming to Amazon Prime Video](https://www.space.com/blade-runner-tv-show-gets-go-ahead-on-amazon/)
-- [Protecting Earth from asteroids is complicated and requires global cooperation](https://www.space.com/asteroid-planetary-defense-global-effort/)
-- [NASA&#39;s DART asteroid mission is a rare opportunity for space-rock scientists](https://www.space.com/dart-asteroid-impact-science/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
