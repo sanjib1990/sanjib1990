@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This jaw-dropping Jupiter photo is a photographer&#39;s sharpest ever and made of 600,000 images](https://www.space.com/jupiter-photo-most-detailed-by-photographer/)
+- [Insurtech goes niche](https://techcrunch.com/2022/09/25/fintech-insurtech-goes-niche/)
 - [Upcoming Star Wars TV shows](https://www.space.com/upcoming-star-wars-tv-shows/)
 - [On This Day In Space: Sept. 25, 2008: China launches its 3rd human spaceflight](https://www.space.com/39251-on-this-day-in-space.html/)
 - [What is the moon phase today? Lunar phases 2022](https://www.space.com/18880-moon-phases.html/)
-- [September New Moon 2022: Jupiter at opposition](https://www.space.com/17561-new-moon-explained-lunar-phases.html/)
-- [&#39;Blade Runner 2099&#39; live action TV show coming to Amazon Prime Video](https://www.space.com/blade-runner-tv-show-gets-go-ahead-on-amazon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
