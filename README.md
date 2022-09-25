@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Blade Runner 2099&#39; live action TV show coming to Amazon Prime Video](https://www.space.com/blade-runner-tv-show-gets-go-ahead-on-amazon/)
+- [Protecting Earth from asteroids is complicated and requires global cooperation](https://www.space.com/asteroid-planetary-defense-global-effort/)
+- [NASA&#39;s DART asteroid mission is a rare opportunity for space-rock scientists](https://www.space.com/dart-asteroid-impact-science/)
+- [High roller: Dungeons &amp; Dragons launches a die, space &#39;pilot&#39; into stratosphere](https://www.space.com/dungeons-and-dragons-die-stratosphere-balloon/)
 - [SpaceX launches another 52 Starlink satellites, lands rocket at sea](https://www.space.com/spacex-starlink-satellite-launch-group-4-35/)
-- [Powerful Delta IV Heavy rocket launches US spy satellite on final flight from California](https://www.space.com/delta-iv-heavy-nrol-91-launch-success/)
-- [GTA 6 footage leaks, Revolut gets hacked, and Wipro fires 300 for “moonlighting”](https://techcrunch.com/2022/09/24/gta-6-footage-leaks-revolut-gets-hacked-and-wipro-fires-300-for-moonlighting/)
-- [How Change co-founders brainstormed their way into entrepreneurship](https://techcrunch.com/2022/09/24/how-change-co-founders-brainstormed-their-way-into-entrepreneurship/)
-- [Netflix’s edition of Night School’s ‘Oxenfree’ is now available to play on iOS and Android](https://techcrunch.com/2022/09/24/netflixs-night-schools-oxenfree-available-play-ios-android/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
