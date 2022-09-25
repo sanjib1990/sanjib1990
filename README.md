@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Conservative capitalists are funding their vision of the future](https://techcrunch.com/2022/09/25/conservative-capitalists-are-funding-their-vision-of-the-future/)
 - [The unicorn valuation gambit](https://techcrunch.com/2022/09/25/the-unicorn-valuation-gambit/)
 - [This jaw-dropping Jupiter photo is a photographer&#39;s sharpest ever and made of 600,000 images](https://www.space.com/jupiter-photo-most-detailed-by-photographer/)
 - [Insurtech goes niche](https://techcrunch.com/2022/09/25/fintech-insurtech-goes-niche/)
 - [Upcoming Star Wars TV shows](https://www.space.com/upcoming-star-wars-tv-shows/)
-- [On This Day In Space: Sept. 25, 2008: China launches its 3rd human spaceflight](https://www.space.com/39251-on-this-day-in-space.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
