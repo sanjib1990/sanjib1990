@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Cloudflare rolls out new mobile services to secure employees’ smartphones](https://techcrunch.com/2022/09/26/daily-crunch-cloudflare-rolls-out-new-mobile-services-to-secure-employees-smartphones/)
+- [Meta wants you to create more Instagram and Facebook accounts and hop between them easily](https://techcrunch.com/2022/09/26/facebook-instagram-new-accounts-switcher/)
+- [Max Q: Icy](https://techcrunch.com/2022/09/26/max-q-icy/)
+- [Connect with Mayfield, JETRO, Toptal and more at TechCrunch Disrupt](https://techcrunch.com/2022/09/26/connect-with-mayfield-jetro-toptal-and-more-at-techcrunch-disrupt/)
 - [AI is taking over the iconic voice of Darth Vader, with the blessing of James Earl Jones](https://techcrunch.com/2022/09/26/ai-is-taking-over-the-iconic-voice-of-darth-vader-with-the-blessing-of-james-earl-jones/)
-- [Twitter’s first comms exec is building a comms network for execs](https://techcrunch.com/2022/09/26/twitters-first-comms-exec-is-building-a-comms-network-for-execs/)
-- [Crypto platform Nexo sued by New York, California and six other US regulators](https://techcrunch.com/2022/09/26/crypto-platform-nexo-sued-by-new-york-california-and-six-other-us-regulators/)
-- [HBO Max releases ‘The Last of Us’ trailer to bring more gamers to the streaming service](https://techcrunch.com/2022/09/26/hbo-max-releases-the-last-of-us-trailer/)
-- [Hugging Face and ServiceNow launch BigCode, a project to open source code-generating AI systems](https://techcrunch.com/2022/09/26/hugging-face-and-servicenow-launch-bigcode-a-project-to-open-source-code-generating-ai-systems/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
