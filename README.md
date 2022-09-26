@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India is repurposing its COVID-19 contact tracing app and vaccination website](https://techcrunch.com/2022/09/25/india-aarogya-setu-contact-tracing-app-cowin-vaccination-repurpose/)
 - [Apple starts manufacturing iPhone 14 in India](https://techcrunch.com/2022/09/25/apple-starts-manufacturing-iphone-14-in-india/)
 - [Interpol issues red notice for Terraform founder Do Kwon](https://techcrunch.com/2022/09/25/do-kwon-interpol/)
 - [Disperse, which brings AI-fuelled data to construction projects, raises $16M](https://techcrunch.com/2022/09/25/disperse-which-brings-ai-fuelled-data-to-construction-projects-raises-16m/)
 - [Conservative capitalists are funding their vision of the future](https://techcrunch.com/2022/09/25/conservative-capitalists-are-funding-their-vision-of-the-future/)
-- [The unicorn valuation gambit](https://techcrunch.com/2022/09/25/the-unicorn-valuation-gambit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
