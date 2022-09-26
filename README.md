@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [UK police arrest teenager suspected of Uber, GTA 6 hacks](https://techcrunch.com/2022/09/26/london-police-arrest-uber-rockstar/)
-- [Netflix establishes an internal games studio in Helsinki, led by former Zynga GM](https://techcrunch.com/2022/09/26/netflix-establishes-an-internal-games-studio-in-helsinki-led-by-former-zynga-gm/)
-- [Netflix’s Mike Verdu has got game and he’s bringing it to Disrupt](https://techcrunch.com/2022/09/26/netflixs-mike-verdu-has-got-game-and-hes-bringing-it-to-disrupt/)
-- [Hey, look, some startups are still raising money](https://techcrunch.com/2022/09/26/hey-look-some-startups-are-still-raising-money/)
-- [50 million tons of water vapor from Tonga&#39;s eruption could warm Earth for years](https://www.space.com/tonga-eruption-water-vapor-warm-earth/)
+- [‘Insane’ — UK Tech reacts to Gov moves that might hand UK startups contract to Barclays Bank](https://techcrunch.com/2022/09/26/insane-uk-tech-reacts-to-gov-moves-that-might-hand-uk-startups-contract-to-barclays-bank/)
+- [This Celestron Schmidt-Cassegrain telescope is £50 off](https://www.space.com/celestron-telescope-deal-save-50-pounds-september/)
+- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
+- [Artemis 1 will roll off launch pad to ride out Hurricane Ian](https://www.space.com/artemis-1-rollback-hurricane-ian-shelter/)
+- [Volkswagen, Umicore venture shows the circular EV battery economy is heating up](https://techcrunch.com/2022/09/26/volkswagen-umicore-venture-shows-the-circular-ev-battery-economy-is-heating-up/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
