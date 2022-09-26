@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Kobo Clara 2E review: A worthy update to an solid e-reader, with an eco-conscious touch](https://techcrunch.com/2022/09/26/kobos-clara-2e-e-reader-review/)
+- [Take a peek at who’s attending Disrupt](https://techcrunch.com/2022/09/26/take-a-peek-at-whos-attending-disrupt/)
 - [Watch the asteroid-smashing DART spacecraft make its 6-million-mile shot today](https://techcrunch.com/2022/09/26/watch-the-asteroid-smashing-dart-spacecraft-make-its-6-million-mile-shot-today/)
 - [Walmart arrives on Roblox for the first time with two new virtual worlds to engage young shoppers](https://techcrunch.com/2022/09/26/walmart-arrives-on-roblox-two-new-virtual-worlds/)
 - [Rocket doubleheader: China launches 2 satellite missions 40 hours apart &lpar;video&rpar;](https://www.space.com/china-rocket-launch-doubleheader-september-2022/)
-- [Gently’s shopping aggregator aims to remove friction of locating secondhand apparel](https://techcrunch.com/2022/09/26/gently-shopping-secondhand-apparel/)
-- [Designers underwhelmed by Adobe-Figma deal](https://techcrunch.com/2022/09/26/designers-underwhelmed-by-adobe-figma-deal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
