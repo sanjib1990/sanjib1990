@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [‘Insane’ — UK Tech reacts to Gov moves that might hand UK startups contract to Barclays Bank](https://techcrunch.com/2022/09/26/insane-uk-tech-reacts-to-gov-moves-that-might-hand-uk-startups-contract-to-barclays-bank/)
-- [This Celestron Schmidt-Cassegrain telescope is £50 off](https://www.space.com/celestron-telescope-deal-save-50-pounds-september/)
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
-- [Artemis 1 will roll off launch pad to ride out Hurricane Ian](https://www.space.com/artemis-1-rollback-hurricane-ian-shelter/)
-- [Volkswagen, Umicore venture shows the circular EV battery economy is heating up](https://techcrunch.com/2022/09/26/volkswagen-umicore-venture-shows-the-circular-ev-battery-economy-is-heating-up/)
+- [Watch the asteroid-smashing DART spacecraft make its 6-million-mile shot today](https://techcrunch.com/2022/09/26/watch-the-asteroid-smashing-dart-spacecraft-make-its-6-million-mile-shot-today/)
+- [Walmart arrives on Roblox for the first time with two new virtual worlds to engage young shoppers](https://techcrunch.com/2022/09/26/walmart-arrives-on-roblox-two-new-virtual-worlds/)
+- [Rocket doubleheader: China launches 2 satellite missions 40 hours apart &lpar;video&rpar;](https://www.space.com/china-rocket-launch-doubleheader-september-2022/)
+- [Gently’s shopping aggregator aims to remove friction of locating secondhand apparel](https://techcrunch.com/2022/09/26/gently-shopping-secondhand-apparel/)
+- [Designers underwhelmed by Adobe-Figma deal](https://techcrunch.com/2022/09/26/designers-underwhelmed-by-adobe-figma-deal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
