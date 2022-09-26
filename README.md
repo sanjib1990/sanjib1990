@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Vendease, a food procurement platform for African restaurants, nabs $30M led by Partech Africa and TLcom](https://techcrunch.com/2022/09/26/vendease-a-food-procurement-platform-for-african-restaurants-nabs-30m-led-by-partech-africa-and-tlcom/)
-- [Samsung launches credit card in India](https://techcrunch.com/2022/09/26/samsung-launches-credit-card-in-india/)
-- [India is repurposing its COVID-19 contact tracing app and vaccination website](https://techcrunch.com/2022/09/25/india-aarogya-setu-contact-tracing-app-cowin-vaccination-repurpose/)
-- [Apple starts manufacturing iPhone 14 in India](https://techcrunch.com/2022/09/25/apple-starts-manufacturing-iphone-14-in-india/)
-- [Interpol issues red notice for Terraform founder Do Kwon](https://techcrunch.com/2022/09/25/do-kwon-interpol/)
+- [NASA&#39;s DART spacecraft will crash into an asteroid tonight: Watch live](https://www.space.com/nasa-dart-asteroid-impact-preview/)
+- [Do black holes explode?](https://www.space.com/can-a-black-hole-explode/)
+- [See Jupiter shine during its closest approach to Earth since 1963 on Monday &lpar;Sept. 26&rpar;](https://www.space.com/jupiter-shines-bright-at-opposition-sept-26/)
+- [Space junk worries prompt new action by NASA, Congress](https://www.space.com/space-junk-action-nasa-congress-remedies/)
+- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
