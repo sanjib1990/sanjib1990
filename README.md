@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Vendease, a food procurement platform for African restaurants, nabs $30M led by Partech Africa and TLcom](https://techcrunch.com/2022/09/26/vendease-a-food-procurement-platform-for-african-restaurants-nabs-30m-led-by-partech-africa-and-tlcom/)
+- [Samsung launches credit card in India](https://techcrunch.com/2022/09/26/samsung-launches-credit-card-in-india/)
 - [India is repurposing its COVID-19 contact tracing app and vaccination website](https://techcrunch.com/2022/09/25/india-aarogya-setu-contact-tracing-app-cowin-vaccination-repurpose/)
 - [Apple starts manufacturing iPhone 14 in India](https://techcrunch.com/2022/09/25/apple-starts-manufacturing-iphone-14-in-india/)
 - [Interpol issues red notice for Terraform founder Do Kwon](https://techcrunch.com/2022/09/25/do-kwon-interpol/)
-- [Disperse, which brings AI-fuelled data to construction projects, raises $16M](https://techcrunch.com/2022/09/25/disperse-which-brings-ai-fuelled-data-to-construction-projects-raises-16m/)
-- [Conservative capitalists are funding their vision of the future](https://techcrunch.com/2022/09/25/conservative-capitalists-are-funding-their-vision-of-the-future/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
