@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Not So Dark helps restaurants run a second delivery-focused business](https://techcrunch.com/2022/09/26/not-so-dark-helps-restaurants-run-a-second-delivery-focused-business/)
-- [Cloudflare launches an eSIM to secure mobile devices](https://techcrunch.com/2022/09/26/cloudflare-launches-an-esim-to-secure-mobile-devices/)
-- [WhatsApp is rolling out sharable call links feature](https://techcrunch.com/2022/09/26/whatsapp-is-rolling-out-sharable-call-links-feature/)
-- [IFC and other impact investors return to backing Ukraine startups, with new $250M fund aimed at founders under the gun](https://techcrunch.com/2022/09/26/ifc-ukraine-startups/)
-- [timeOS is a Chrome extension that puts your meeting details in one place](https://techcrunch.com/2022/09/26/timeos-is-a-chrome-extension-that-puts-your-meeting-details-in-one-place/)
+- [Netflix establishes an internal games studio in Helsinki, led by former Zynga GM](https://techcrunch.com/2022/09/26/netflix-establishes-an-internal-games-studio-in-helsinki-led-by-former-zynga-gm/)
+- [Netflix’s Mike Verdu has got game and he’s bringing it to Disrupt](https://techcrunch.com/2022/09/26/netflixs-mike-verdu-has-got-game-and-hes-bringing-it-to-disrupt/)
+- [Hey, look, some startups are still raising money](https://techcrunch.com/2022/09/26/hey-look-some-startups-are-still-raising-money/)
+- [50 million tons of water vapor from Tonga&#39;s eruption could warm Earth for years](https://www.space.com/tonga-eruption-water-vapor-warm-earth/)
+- [3 ways to implement a product-led sales motion to unleash PLG’s revenue potential](https://techcrunch.com/2022/09/26/3-ways-to-implement-a-product-led-sales-motion-to-unleash-plgs-revenue-potential/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
