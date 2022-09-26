@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Quantum Leap&#39; jumps into space shuttle history in &#39;Atlantis&#39; on NBC](https://www.space.com/quantum-leap-atlantis-preview-space-shuttle/)
+- [When will we know how much DART changed the orbit of asteroid Dimorphos?](https://www.space.com/dart-asteroid-impact-when-well-know/)
+- [Advocacy groups slam Amazon and MGM’s controversial “Ring Nation” show ahead of its premiere](https://techcrunch.com/2022/09/26/amazon-ring-nation-mgm-surveillance-tv-show-petition/)
+- [SpaceX rocket launch with Starlink fleet thrills stargazers along US East Coast](https://www.space.com/spacex-starlink-rocket-launch-thrills-stargazers-september-24/)
 - [See the mighty Delta IV Heavy rocket&#39;s final West Coast launch in these stunning photos](https://www.space.com/delta-iv-heavy-final-west-coast-launch-photos/)
-- [Why DART is a mover and shaker in asteroid planetary defense: NASA science chief](https://www.space.com/dart-asteroid-mission-planetary-defense-importance/)
-- [Kobo Clara 2E review: A worthy update to an solid e-reader, with an eco-conscious touch](https://techcrunch.com/2022/09/26/kobos-clara-2e-e-reader-review/)
-- [Take a peek at who’s attending Disrupt](https://techcrunch.com/2022/09/26/take-a-peek-at-whos-attending-disrupt/)
-- [Watch the asteroid-smashing DART spacecraft make its 6-million-mile shot today](https://techcrunch.com/2022/09/26/watch-the-asteroid-smashing-dart-spacecraft-make-its-6-million-mile-shot-today/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
