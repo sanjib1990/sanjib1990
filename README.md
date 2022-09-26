@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Quantum Leap&#39; jumps into space shuttle history in &#39;Atlantis&#39; on NBC](https://www.space.com/quantum-leap-atlantis-preview-space-shuttle/)
-- [When will we know how much DART changed the orbit of asteroid Dimorphos?](https://www.space.com/dart-asteroid-impact-when-well-know/)
-- [Advocacy groups slam Amazon and MGM’s controversial “Ring Nation” show ahead of its premiere](https://techcrunch.com/2022/09/26/amazon-ring-nation-mgm-surveillance-tv-show-petition/)
-- [SpaceX rocket launch with Starlink fleet thrills stargazers along US East Coast](https://www.space.com/spacex-starlink-rocket-launch-thrills-stargazers-september-24/)
-- [See the mighty Delta IV Heavy rocket&#39;s final West Coast launch in these stunning photos](https://www.space.com/delta-iv-heavy-final-west-coast-launch-photos/)
+- [AI is taking over the iconic voice of Darth Vader, with the blessing of James Earl Jones](https://techcrunch.com/2022/09/26/ai-is-taking-over-the-iconic-voice-of-darth-vader-with-the-blessing-of-james-earl-jones/)
+- [Twitter’s first comms exec is building a comms network for execs](https://techcrunch.com/2022/09/26/twitters-first-comms-exec-is-building-a-comms-network-for-execs/)
+- [Crypto platform Nexo sued by New York, California and six other US regulators](https://techcrunch.com/2022/09/26/crypto-platform-nexo-sued-by-new-york-california-and-six-other-us-regulators/)
+- [HBO Max releases ‘The Last of Us’ trailer to bring more gamers to the streaming service](https://techcrunch.com/2022/09/26/hbo-max-releases-the-last-of-us-trailer/)
+- [Hugging Face and ServiceNow launch BigCode, a project to open source code-generating AI systems](https://techcrunch.com/2022/09/26/hugging-face-and-servicenow-launch-bigcode-a-project-to-open-source-code-generating-ai-systems/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
