@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Not So Dark helps restaurants run a second delivery-focused business](https://techcrunch.com/2022/09/26/not-so-dark-helps-restaurants-run-a-second-delivery-focused-business/)
+- [Cloudflare launches an eSIM to secure mobile devices](https://techcrunch.com/2022/09/26/cloudflare-launches-an-esim-to-secure-mobile-devices/)
+- [WhatsApp is rolling out sharable call links feature](https://techcrunch.com/2022/09/26/whatsapp-is-rolling-out-sharable-call-links-feature/)
+- [IFC and other impact investors return to backing Ukraine startups, with new $250M fund aimed at founders under the gun](https://techcrunch.com/2022/09/26/ifc-ukraine-startups/)
 - [timeOS is a Chrome extension that puts your meeting details in one place](https://techcrunch.com/2022/09/26/timeos-is-a-chrome-extension-that-puts-your-meeting-details-in-one-place/)
-- [Checkmate captures all of your shopping deals so you don’t have to](https://techcrunch.com/2022/09/26/checkmate-captures-all-of-your-shopping-deals-so-you-dont-have-to/)
-- [NASA&#39;s DART spacecraft will crash into an asteroid tonight in historic planetary defense test](https://www.space.com/nasa-dart-asteroid-impact-preview/)
-- [On This Day In Space: Sept. 26, 1983: Soyuz crew narrowly escapes rocket explosion](https://www.space.com/39251-on-this-day-in-space.html/)
-- [EV charging deals keep coming, Ford squeezed by shortages and Kitty Hawk shuts down](https://techcrunch.com/2022/09/26/ev-charging-deals-keep-coming-ford-squeezed-by-shortages-and-kitty-hawk-shuts-down/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
