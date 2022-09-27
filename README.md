@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft’s M12 led $20M investment in web3 platform Space and Time](https://techcrunch.com/2022/09/27/microsofts-m12-led-20m-investment-in-web3-platform-space-and-time/)
+- [Got laid off? Grab a Free Expo Pass to TechCrunch Disrupt](https://techcrunch.com/2022/09/27/got-laid-off-grab-a-free-expo-pass-to-techcrunch-disrupt/)
+- [What can the 2000 dot-com crash teach us about the 2022 tech downturn?](https://techcrunch.com/2022/09/27/what-can-the-2000-dotcom-crash-teach-us-about-the-2022-tech-downturn/)
+- [WhatsApp fixes ‘critical’ security bug that put Android phone data at risk](https://techcrunch.com/2022/09/27/whatsapp-critical-security-bug/)
 - [Iliad launches its own payments processing platform Stancer](https://techcrunch.com/2022/09/27/iliad-launches-its-own-payments-processing-platform-stancer/)
-- [Arthur.ai machine learning monitoring gathers steam with $42M investment](https://techcrunch.com/2022/09/27/arthur-ais-machine-learning-monitoring-gathering-steam-with-42m-investment/)
-- [&#39;Quantum Leap&#39; showrunner, tech advisor on recreating space shuttle for &#39;Atlantis&#39;](https://www.space.com/quantum-leap-atlantis-space-shuttle-history/)
-- [The Freewrite Alpha boldly asks: Can a small screen be too small?](https://techcrunch.com/2022/09/27/freewrite-alpha-distraction-free-writing/)
-- [Use predictive marketing to cut CAC at your PLG B2B startup](https://techcrunch.com/2022/09/27/use-predictive-marketing-to-cut-cac-at-your-plg-b2b-startup/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
