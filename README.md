@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Silicon Valley really losing its crown?](https://techcrunch.com/2022/09/27/is-silicon-valley-really-losing-its-crown/)
-- [Moon&#39;s best friend: Robot dogs could be future lunar explorers](https://www.space.com/robot-dogs-future-moon-explorers/)
-- [A new Instagram test removes shopping tab from the home screen](https://techcrunch.com/2022/09/27/new-instagram-test-removes-shopping-tab-from-home-feed/)
-- [Listen live today as NASA discusses Artemis 1 moon rocket&#39;s hurricane rollback](https://www.space.com/nasa-artemis-1-rollback-press-conference-september-2022/)
-- [Alchemist Accelerator announces new leadership alongside its latest class of companies](https://techcrunch.com/2022/09/27/alchemist-accelerator-demo-day/)
+- [Netflix shares trailer for Spotify series ‘The Playlist’](https://techcrunch.com/2022/09/27/netflix-shares-trailer-for-spotify-series-the-playlist/)
+- [TechCrunch+ roundup: Dot-com crash lessons, reducing CAC, product-led sales](https://techcrunch.com/2022/09/27/techcrunch-roundup-dot-com-crash-lessons-reducing-cac-product-led-sales/)
+- [China launches three more satellites after recent rocket doubleheader](https://www.space.com/china-long-march-6-rocket-launch-september-26/)
+- [Cloudflare takes aim at AWS with promise of $1.25 billion to startups that use its own platform](https://techcrunch.com/2022/09/27/cloudflare-takes-aim-at-aws-with-promise-of-1-25-billion-to-startups-that-use-its-own-platform/)
+- [Behold the 1st images of DART&#39;s wild asteroid crash!](https://www.space.com/dart-asteroid-crash-first-photos-liciacube/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
