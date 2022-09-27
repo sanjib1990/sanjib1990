@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: NASA sings ‘I don’t want to miss a thing’ as DART spacecraft strikes asteroid](https://techcrunch.com/2022/09/27/daily-crunch-nasa-sings-i-dont-want-to-miss-a-thing-as-dart-spacecraft-strikes-asteroid/)
+- [BMW’s most powerful SUV is a plug-in hybrid](https://techcrunch.com/2022/09/27/bmws-most-powerful-suv-is-a-plug-in-hybrid/)
 - [Hurricane Ian delays SpaceX&#39;s Crew-5 astronaut launch to Oct. 4](https://www.space.com/spacex-crew-5-launch-delay-hurricane-ian/)
 - [Former MoviePass execs are being sued by the SEC for lying to customers](https://techcrunch.com/2022/09/27/former-moviepass-execs-are-being-sued-by-the-sec-for-lying-to-customers/)
 - [Firehawk’s rocket engines and 3D-printed fuel hit testing milestones ahead of first launch](https://techcrunch.com/2022/09/27/firehawks-rocket-engines-and-3d-printed-fuel-hit-testing-milestones-ahead-of-first-launch/)
-- [China’s Nio joins the race for lithium, buys 12% of Australia’s Greenwing Resources](https://techcrunch.com/2022/09/27/china-ev-nio-race-secure-lithium/)
-- [No, Tumblr is not bringing back porn](https://techcrunch.com/2022/09/27/tumblr-bring-back-porn-nsfw-community-labels/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
