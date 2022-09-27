@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Avidbots, maker of autonomous industrial cleaning robots, nabs $70M](https://techcrunch.com/2022/09/27/avidbots-maker-of-autonomous-industrial-cleaning-robots-nabs-70m/)
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
-- [Penpot inks $8M, as signups for its open source spin on Figma jump 5600% after Adobe’s $20B acquisition move](https://techcrunch.com/2022/09/27/penpot-inks-8m-as-signups-for-its-open-source-spin-on-figma-jump-5600-after-adobes-20b-acquisition-move/)
-- [GlossGenius triples valuation, raises $25M to give beauty industry’s tech stack a makeover](https://techcrunch.com/2022/09/27/glossgenius-funding-valuation-beauty-fintech-salon-wellness-owners-smbs/)
-- [Cake slices into new capital as it expands sexual wellness product placement](https://techcrunch.com/2022/09/27/cake-sexual-wellness-8m-series-a/)
+- [Iliad launches its own payments processing platform Stancer](https://techcrunch.com/2022/09/27/iliad-launches-its-own-payments-processing-platform-stancer/)
+- [Arthur.ai machine learning monitoring gathers steam with $42M investment](https://techcrunch.com/2022/09/27/arthur-ais-machine-learning-monitoring-gathering-steam-with-42m-investment/)
+- [&#39;Quantum Leap&#39; showrunner, tech advisor on recreating space shuttle for &#39;Atlantis&#39;](https://www.space.com/quantum-leap-atlantis-space-shuttle-history/)
+- [The Freewrite Alpha boldly asks: Can a small screen be too small?](https://techcrunch.com/2022/09/27/freewrite-alpha-distraction-free-writing/)
+- [Use predictive marketing to cut CAC at your PLG B2B startup](https://techcrunch.com/2022/09/27/use-predictive-marketing-to-cut-cac-at-your-plg-b2b-startup/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
