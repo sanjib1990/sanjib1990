@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Asteroid impact: Here&#39;s the last thing NASA&#39;s DART spacecraft saw before it crashed](https://www.space.com/dart-asteroid-impact-spacecraft-last-photos/)
-- [SpaceX&#39;s Crew-5 astronaut mission on course for Oct. 3 liftoff, weather permitting](https://www.space.com/spacex-crew-5-mission-cleared-october-3-launch/)
-- [NASA crashes DART spacecraft into asteroid in world&#39;s 1st planetary defense test](https://www.space.com/nasa-dart-asteroid-impact-planetary-defense-success/)
-- [Daily Crunch: Cloudflare rolls out new mobile services to secure employees’ smartphones](https://techcrunch.com/2022/09/26/daily-crunch-cloudflare-rolls-out-new-mobile-services-to-secure-employees-smartphones/)
-- [Meta wants you to create more Instagram and Facebook accounts and hop between them easily](https://techcrunch.com/2022/09/26/facebook-instagram-new-accounts-switcher/)
+- [Finally, a Roomba that vacuums and mops](https://techcrunch.com/2022/09/26/finally-a-roomba-that-vacuums-and-mops/)
+- [NASA rolls Artemis 1 moon rocket off the launch pad to shelter from Hurricane Ian](https://www.space.com/artemis-1-moon-rocket-rollback-hurricane-ian/)
+- [Investors bank on China’s alternatives to Nvidia’s auto chips](https://techcrunch.com/2022/09/26/china-auto-chipmaker/)
+- [&#39;Terror and joy&#39;: NASA&#39;s DART asteroid impact a historic success &lpar;and relief&rpar;](https://www.space.com/nasa-dart-asteroid-impact-celebration/)
+- [Asteroid Didymos: NASA&#39;s galactic target practice for DART](https://www.space.com/didymos-asteroid-facts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
