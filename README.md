@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Regate modernizes accounting and financial tools](https://techcrunch.com/2022/09/26/regate-modernizes-accounting-and-financial-tools/)
 - [Finally, a Roomba that vacuums and mops](https://techcrunch.com/2022/09/26/finally-a-roomba-that-vacuums-and-mops/)
 - [NASA rolls Artemis 1 moon rocket off the launch pad to shelter from Hurricane Ian](https://www.space.com/artemis-1-moon-rocket-rollback-hurricane-ian/)
 - [Investors bank on China’s alternatives to Nvidia’s auto chips](https://techcrunch.com/2022/09/26/china-auto-chipmaker/)
 - [&#39;Terror and joy&#39;: NASA&#39;s DART asteroid impact a historic success &lpar;and relief&rpar;](https://www.space.com/nasa-dart-asteroid-impact-celebration/)
-- [Asteroid Didymos: NASA&#39;s galactic target practice for DART](https://www.space.com/didymos-asteroid-facts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
