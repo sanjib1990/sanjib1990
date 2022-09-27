@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ghanaian agtech Farmerline raises $1.5M from Dutch investor Oikocredit](https://techcrunch.com/2022/09/27/ghanaian-agtech-farmerline-raises-1-5m-from-dutch-investor-oikocredit/)
 - [Productivity platform Loopin helps work teams wrangle meetings](https://techcrunch.com/2022/09/26/productivity-platform-loopin-helps-work-teams-wrangle-meetings/)
 - [Regate modernizes accounting and financial tools](https://techcrunch.com/2022/09/26/regate-modernizes-accounting-and-financial-tools/)
 - [Finally, a Roomba that vacuums and mops](https://techcrunch.com/2022/09/26/finally-a-roomba-that-vacuums-and-mops/)
 - [NASA rolls Artemis 1 moon rocket off the launch pad to shelter from Hurricane Ian](https://www.space.com/artemis-1-moon-rocket-rollback-hurricane-ian/)
-- [Investors bank on China’s alternatives to Nvidia’s auto chips](https://techcrunch.com/2022/09/26/china-auto-chipmaker/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
