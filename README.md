@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft’s M12 led $20M investment in web3 platform Space and Time](https://techcrunch.com/2022/09/27/microsofts-m12-led-20m-investment-in-web3-platform-space-and-time/)
-- [Got laid off? Grab a Free Expo Pass to TechCrunch Disrupt](https://techcrunch.com/2022/09/27/got-laid-off-grab-a-free-expo-pass-to-techcrunch-disrupt/)
-- [What can the 2000 dot-com crash teach us about the 2022 tech downturn?](https://techcrunch.com/2022/09/27/what-can-the-2000-dotcom-crash-teach-us-about-the-2022-tech-downturn/)
-- [WhatsApp fixes ‘critical’ security bug that put Android phone data at risk](https://techcrunch.com/2022/09/27/whatsapp-critical-security-bug/)
-- [Iliad launches its own payments processing platform Stancer](https://techcrunch.com/2022/09/27/iliad-launches-its-own-payments-processing-platform-stancer/)
+- [Is Silicon Valley really losing its crown?](https://techcrunch.com/2022/09/27/is-silicon-valley-really-losing-its-crown/)
+- [Moon&#39;s best friend: Robot dogs could be future lunar explorers](https://www.space.com/robot-dogs-future-moon-explorers/)
+- [A new Instagram test removes shopping tab from the home screen](https://techcrunch.com/2022/09/27/new-instagram-test-removes-shopping-tab-from-home-feed/)
+- [Listen live today as NASA discusses Artemis 1 moon rocket&#39;s hurricane rollback](https://www.space.com/nasa-artemis-1-rollback-press-conference-september-2022/)
+- [Alchemist Accelerator announces new leadership alongside its latest class of companies](https://techcrunch.com/2022/09/27/alchemist-accelerator-demo-day/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
