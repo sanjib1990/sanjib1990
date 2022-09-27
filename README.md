@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Can crypto make the world a better place?](https://techcrunch.com/2022/09/27/can-crypto-make-the-world-a-better-place/)
+- [Europe’s inaugural Women in VC Summit the first step in a long climb toward equity](https://techcrunch.com/2022/09/27/europes-inaugural-women-in-vc-summit-the-first-step-in-a-long-climb-toward-equity/)
+- [DART&#39;s impact won&#39;t make asteroid Dimorphos hit Earth — but here&#39;s what would happen if it did](https://www.space.com/dart-asteroid-impact-dimorphos-no-danger-to-earth/)
 - [Apple’s latest iPadOS 16 beta expands Stage Manager to older iPad Pro models](https://techcrunch.com/2022/09/27/lastest-ipados-beta-expands-stage-manager-older-ipad-pro-models/)
 - [Parker Conrad — Silicon Valley’s comeback kid — talks rebuilding at Disrupt](https://techcrunch.com/2022/09/27/parker-conrad-silicon-valleys-comeback-kid-talks-rebuilding-at-disrupt/)
-- [YouTube Shorts adds narration voiceovers, a popular TikTok feature](https://techcrunch.com/2022/09/27/youtube-shorts-narration-voiceovers-tiktok/)
-- [Cardano founder claims Ethereum community in for a ‘rough time’ following the Merge](https://techcrunch.com/2022/09/27/cardano-founder-claims-ethereum-community-in-for-a-rough-time-following-the-merge/)
-- [Startup Vast Space wants takes artificial gravity station concept for a spin](https://www.space.com/vast-artificial-gravity-space-station-cryptocurrency/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
