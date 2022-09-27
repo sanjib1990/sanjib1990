@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Unravel Data lands $50M to make sense of complex data stacks](https://techcrunch.com/2022/09/27/unravel-data-lands-50m-to-make-sense-of-complex-data-stacks/)
+- [Tatsumeeko strikes partnership with Immutable X to enhance its gameplay](https://techcrunch.com/2022/09/27/tatsumeeko-strikes-partnership-with-immutable-x-to-enhance-its-gameplay/)
 - [Papaya wants to help electrify last-mile logistics in Europe](https://techcrunch.com/2022/09/27/papaya-wants-to-help-electrify-last-mile-logistics-in-europe/)
 - [Ghanaian agtech Farmerline raises $1.5M from Dutch investor Oikocredit](https://techcrunch.com/2022/09/27/ghanaian-agtech-farmerline-raises-1-5m-from-dutch-investor-oikocredit/)
 - [Productivity platform Loopin helps work teams wrangle meetings](https://techcrunch.com/2022/09/26/productivity-platform-loopin-helps-work-teams-wrangle-meetings/)
-- [Regate modernizes accounting and financial tools](https://techcrunch.com/2022/09/26/regate-modernizes-accounting-and-financial-tools/)
-- [Finally, a Roomba that vacuums and mops](https://techcrunch.com/2022/09/26/finally-a-roomba-that-vacuums-and-mops/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
