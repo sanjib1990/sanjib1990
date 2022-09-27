@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA’s DART anti-asteroid satellite successfully smashes into space rock](https://techcrunch.com/2022/09/27/nasas-dart-anti-asteroid-satellite-successfully-smashes-into-space-rock/)
+- [Show me the money: General Catalyst and Coatue dish the state of VC at Disrupt](https://techcrunch.com/2022/09/27/show-me-the-money-general-catalyst-and-coatue-dish-the-state-of-vc-at-disrupt/)
+- [Livin Farms’ investors are betting $5.8M on powdered fly larvae](https://techcrunch.com/2022/09/27/livin-farms-fly-larvae-powder/)
+- [Didymos binary asteroid system: NASA&#39;s target for DART](https://www.space.com/didymos-asteroid-facts/)
 - [Document onboarding startup Flatfile nabs $50M from investors, including Workday](https://techcrunch.com/2022/09/27/document-onboarding-startup-flatfile-nabs-50m-from-investors-including-workday/)
-- [Contact with ET: How would humanity react?](https://www.space.com/contact-intelligent-alien-life-humanity-reaction/)
-- [AmazeVR wants to scale its virtual concert platform with $17M funding](https://techcrunch.com/2022/09/27/amazevr-wants-to-scale-its-virtual-concert-platform-with-17m-funding/)
-- [India searches premises, freezes bank accounts in ongoing Free Fire investigation](https://techcrunch.com/2022/09/27/india-searches-premises-freezes-bank-accounts-in-ongoing-free-fire-investigation/)
-- [NASA&#39;s DART asteroid-smashing mission: The ultimate guide](https://www.space.com/dart-asteroid-mission/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
