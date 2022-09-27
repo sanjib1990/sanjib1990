@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cardano founder claims Ethereum community in for a ‘rough time’ following the Merge](https://techcrunch.com/2022/09/27/cardano-founder-claims-ethereum-community-in-for-a-rough-time-following-the-merge/)
+- [Startup Vast Space wants takes artificial gravity station concept for a spin](https://www.space.com/vast-artificial-gravity-space-station-cryptocurrency/)
+- [Netflix launches game handles for users of its iOS and Android mobile games](https://techcrunch.com/2022/09/27/netflix-launches-game-handles-for-users-of-its-ios-and-android-mobile-games/)
+- [FCC solicits feedback from the public on rules to stop robotexts](https://techcrunch.com/2022/09/27/fcc-solicits-feedback-from-the-public-on-rules-to-stop-robotexts/)
 - [Netflix shares trailer for Spotify series ‘The Playlist’](https://techcrunch.com/2022/09/27/netflix-shares-trailer-for-spotify-series-the-playlist/)
-- [TechCrunch+ roundup: Dot-com crash lessons, reducing CAC, product-led sales](https://techcrunch.com/2022/09/27/techcrunch-roundup-dot-com-crash-lessons-reducing-cac-product-led-sales/)
-- [China launches three more satellites after recent rocket doubleheader](https://www.space.com/china-long-march-6-rocket-launch-september-26/)
-- [Cloudflare takes aim at AWS with promise of $1.25 billion to startups that use its own platform](https://techcrunch.com/2022/09/27/cloudflare-takes-aim-at-aws-with-promise-of-1-25-billion-to-startups-that-use-its-own-platform/)
-- [Behold the 1st images of DART&#39;s wild asteroid crash!](https://www.space.com/dart-asteroid-crash-first-photos-liciacube/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
