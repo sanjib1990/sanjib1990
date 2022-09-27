@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Can crypto make the world a better place?](https://techcrunch.com/2022/09/27/can-crypto-make-the-world-a-better-place/)
-- [Europe’s inaugural Women in VC Summit the first step in a long climb toward equity](https://techcrunch.com/2022/09/27/europes-inaugural-women-in-vc-summit-the-first-step-in-a-long-climb-toward-equity/)
-- [DART&#39;s impact won&#39;t make asteroid Dimorphos hit Earth — but here&#39;s what would happen if it did](https://www.space.com/dart-asteroid-impact-dimorphos-no-danger-to-earth/)
-- [Apple’s latest iPadOS 16 beta expands Stage Manager to older iPad Pro models](https://techcrunch.com/2022/09/27/lastest-ipados-beta-expands-stage-manager-older-ipad-pro-models/)
-- [Parker Conrad — Silicon Valley’s comeback kid — talks rebuilding at Disrupt](https://techcrunch.com/2022/09/27/parker-conrad-silicon-valleys-comeback-kid-talks-rebuilding-at-disrupt/)
+- [Firehawk’s rocket engines and 3D-printed fuel hit testing milestones ahead of first launch](https://techcrunch.com/2022/09/27/firehawks-rocket-engines-and-3d-printed-fuel-hit-testing-milestones-ahead-of-first-launch/)
+- [China’s Nio joins the race for lithium, buys 12% of Australia’s Greenwing Resources](https://techcrunch.com/2022/09/27/china-ev-nio-race-secure-lithium/)
+- [No, Tumblr is not bringing back porn](https://techcrunch.com/2022/09/27/tumblr-bring-back-porn-nsfw-community-labels/)
+- [Click to install: Kopperfield’s $5M seed round seeks to speed EV charger adoption](https://techcrunch.com/2022/09/27/click-to-install-kopperfields-5m-seed-round-seeks-to-speed-ev-charger-adoption/)
+- [Hurricane Ian approaching Florida as powerful Category 3 storm, satellite images show](https://www.space.com/hurricane-ian-from-space-goes-16-satellite-video/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
