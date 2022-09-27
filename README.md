@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hurricane Ian delays SpaceX&#39;s Crew-5 astronaut launch to Oct. 4](https://www.space.com/spacex-crew-5-launch-delay-hurricane-ian/)
+- [Former MoviePass execs are being sued by the SEC for lying to customers](https://techcrunch.com/2022/09/27/former-moviepass-execs-are-being-sued-by-the-sec-for-lying-to-customers/)
 - [Firehawk’s rocket engines and 3D-printed fuel hit testing milestones ahead of first launch](https://techcrunch.com/2022/09/27/firehawks-rocket-engines-and-3d-printed-fuel-hit-testing-milestones-ahead-of-first-launch/)
 - [China’s Nio joins the race for lithium, buys 12% of Australia’s Greenwing Resources](https://techcrunch.com/2022/09/27/china-ev-nio-race-secure-lithium/)
 - [No, Tumblr is not bringing back porn](https://techcrunch.com/2022/09/27/tumblr-bring-back-porn-nsfw-community-labels/)
-- [Click to install: Kopperfield’s $5M seed round seeks to speed EV charger adoption](https://techcrunch.com/2022/09/27/click-to-install-kopperfields-5m-seed-round-seeks-to-speed-ev-charger-adoption/)
-- [Hurricane Ian approaching Florida as powerful Category 3 storm, satellite images show](https://www.space.com/hurricane-ian-from-space-goes-16-satellite-video/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
