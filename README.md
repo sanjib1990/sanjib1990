@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Unravel Data lands $50M to make sense of complex data stacks](https://techcrunch.com/2022/09/27/unravel-data-lands-50m-to-make-sense-of-complex-data-stacks/)
-- [Tatsumeeko strikes partnership with Immutable X to enhance its gameplay](https://techcrunch.com/2022/09/27/tatsumeeko-strikes-partnership-with-immutable-x-to-enhance-its-gameplay/)
-- [Papaya wants to help electrify last-mile logistics in Europe](https://techcrunch.com/2022/09/27/papaya-wants-to-help-electrify-last-mile-logistics-in-europe/)
-- [Ghanaian agtech Farmerline raises $1.5M from Dutch investor Oikocredit](https://techcrunch.com/2022/09/27/ghanaian-agtech-farmerline-raises-1-5m-from-dutch-investor-oikocredit/)
-- [Productivity platform Loopin helps work teams wrangle meetings](https://techcrunch.com/2022/09/26/productivity-platform-loopin-helps-work-teams-wrangle-meetings/)
+- [Document onboarding startup Flatfile nabs $50M from investors, including Workday](https://techcrunch.com/2022/09/27/document-onboarding-startup-flatfile-nabs-50m-from-investors-including-workday/)
+- [Contact with ET: How would humanity react?](https://www.space.com/contact-intelligent-alien-life-humanity-reaction/)
+- [AmazeVR wants to scale its virtual concert platform with $17M funding](https://techcrunch.com/2022/09/27/amazevr-wants-to-scale-its-virtual-concert-platform-with-17m-funding/)
+- [India searches premises, freezes bank accounts in ongoing Free Fire investigation](https://techcrunch.com/2022/09/27/india-searches-premises-freezes-bank-accounts-in-ongoing-free-fire-investigation/)
+- [NASA&#39;s DART asteroid-smashing mission: The ultimate guide](https://www.space.com/dart-asteroid-mission/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
