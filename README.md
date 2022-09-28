@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Lego ISS, Saturn V, and Star Wars Star Destroyer among kits that are retiring soon](https://www.space.com/five-lego-space-and-star-wars-set-due-to-retire-soon-2022/)
-- [Elon Musk wants “government-imposed muzzle” on his tweets thrown out](https://techcrunch.com/2022/09/28/elon-musk-wants-government-imposed-muzzle-on-his-tweets-thrown-out/)
-- [Invisible AI raises $15M to stick worker-monitoring cameras in factories](https://techcrunch.com/2022/09/28/invisible-ai-raises-15m-to-stick-worker-monitoring-cameras-in-factories/)
-- [Building startups in public has an end date](https://techcrunch.com/2022/09/28/building-startups-in-public-has-an-end-date/)
-- [The unbearable lightness of being asset-light](https://techcrunch.com/2022/09/28/asset-light-model-versus-asset-heavy-model-marketplace/)
+- [Hear game-changing AI and ML leaders at the iMerit ML DataOps Summit](https://techcrunch.com/2022/09/28/hear-game-changing-ai-and-ml-leaders-at-the-imerit-ml-dataops-summit/)
+- [European spaceflight companies are racing to be the first to reach orbit](https://www.space.com/european-rocket-launch-companies-targeting-2023/)
+- [HeadsUp helps PLG sales teams understand how and when to sell](https://techcrunch.com/2022/09/28/headsup-helps-plg-sales-teams-understand-how-and-when-to-sell/)
+- [Dear Sophie: Is it OK to use a visitor visa while holding an H-1B?](https://techcrunch.com/2022/09/28/dear-sophie-is-it-ok-to-use-a-visitor-visa-while-holding-an-h-1b/)
+- [Solana developer platform Coral raises $20M led by FTX, Jump Crypto to build web3’s iPhone](https://techcrunch.com/2022/09/28/solana-coral-ftx-jump-crypto-iphone-web3-apps-xnfts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
