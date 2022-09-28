@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Roundtable wants to bring AngelList-style syndicates to Europe](https://techcrunch.com/2022/09/28/roundtable-wants-to-bring-angellist-style-syndicates-to-europe/)
 - [Stockly raises another $12 million to sell out-of-stock items via other retailers](https://techcrunch.com/2022/09/27/stockly-raises-another-12-million-to-sell-out-of-stock-items-via-other-retailers/)
 - [Announcing the agenda for TechCrunch Sessions: Crypto 2022](https://techcrunch.com/2022/09/27/announcing-the-agenda-for-techcrunch-sessions-crypto-2022/)
 - [Daily Crunch: NASA sings ‘I don’t want to miss a thing’ as DART spacecraft strikes asteroid](https://techcrunch.com/2022/09/27/daily-crunch-nasa-sings-i-dont-want-to-miss-a-thing-as-dart-spacecraft-strikes-asteroid/)
 - [BMW’s most powerful SUV is a plug-in hybrid](https://techcrunch.com/2022/09/27/bmws-most-powerful-suv-is-a-plug-in-hybrid/)
-- [Hurricane Ian delays SpaceX&#39;s Crew-5 astronaut launch to Oct. 4](https://www.space.com/spacex-crew-5-launch-delay-hurricane-ian/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
