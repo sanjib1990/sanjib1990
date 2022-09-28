@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Instacart plans to expand its EBT SNAP program and enable TANF payments](https://techcrunch.com/2022/09/28/instacart-expand-ebt-snap-program-introduce-tanf-payments/)
-- [South Korean prosecutors confirm they seek to freeze bitcoin assets linked to Do Kwon, who denies moving tokens](https://techcrunch.com/2022/09/28/south-korean-prosecutors-confirm-they-seek-to-freeze-bitcoin-assets-linked-to-do-kwon-who-denies-moving-tokens/)
-- [VRAI wants to tackle the energy crisis by bringing VR simulation training to offshore wind sector](https://techcrunch.com/2022/09/28/vrais-brings-vr-simulation-training-to-offshore-wind-and-other-hazardous-industries/)
-- [Italy’s Satispay raises €320M at a €1B+ valuation with backing from Block, Tencent and more for its indy payment network](https://techcrunch.com/2022/09/28/italys-satispay-raises-e320m-at-a-e1b-valuation-with-backing-from-block-tencent-and-more-for-its-indy-payment-network/)
-- [YC-backed fintech Numida raises $12.3M led by Serena Ventures to extend loans to MSMEs beyond Uganda](https://techcrunch.com/2022/09/28/yc-backed-fintech-numida-raises-12-3m-led-by-serena-ventures-to-extend-loans-to-msmes-beyond-uganda/)
+- [Apple reportedly readjusts iPhone 14 production targets after slow demand](https://techcrunch.com/2022/09/28/apple-reportedly-readjusts-iphone-14-production-targets-after-slow-demand/)
+- [Mars is littered with 15,694 pounds of human trash from 50 years of robotic exploration](https://www.space.com/mars-littered-with-human-trash/)
+- [NASA&#39;s flying telescope is coming to the end of its mission but leaves a strong science legacy](https://www.space.com/sofia-flying-telescope-retirement-science-discoveries/)
+- [Repeating fast radio burst with weird magnetic field challenges magnetar explanation](https://www.space.com/fast-radio-burst-weird-magnetic-field/)
+- [New Omega Marstimer watch keeps time on Earth and the Red Planet](https://www.space.com/omega-speedmaster-x33-marstimer-watch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
