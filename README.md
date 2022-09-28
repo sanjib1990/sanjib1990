@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Stockly raises another $12 million to sell out-of-stock items via other retailers](https://techcrunch.com/2022/09/27/stockly-raises-another-12-million-to-sell-out-of-stock-items-via-other-retailers/)
+- [Announcing the agenda for TechCrunch Sessions: Crypto 2022](https://techcrunch.com/2022/09/27/announcing-the-agenda-for-techcrunch-sessions-crypto-2022/)
 - [Daily Crunch: NASA sings ‘I don’t want to miss a thing’ as DART spacecraft strikes asteroid](https://techcrunch.com/2022/09/27/daily-crunch-nasa-sings-i-dont-want-to-miss-a-thing-as-dart-spacecraft-strikes-asteroid/)
 - [BMW’s most powerful SUV is a plug-in hybrid](https://techcrunch.com/2022/09/27/bmws-most-powerful-suv-is-a-plug-in-hybrid/)
 - [Hurricane Ian delays SpaceX&#39;s Crew-5 astronaut launch to Oct. 4](https://www.space.com/spacex-crew-5-launch-delay-hurricane-ian/)
-- [Former MoviePass execs are being sued by the SEC for lying to customers](https://techcrunch.com/2022/09/27/former-moviepass-execs-are-being-sued-by-the-sec-for-lying-to-customers/)
-- [Firehawk’s rocket engines and 3D-printed fuel hit testing milestones ahead of first launch](https://techcrunch.com/2022/09/27/firehawks-rocket-engines-and-3d-printed-fuel-hit-testing-milestones-ahead-of-first-launch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
