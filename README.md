@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Extremely dangerous&#39; Hurricane Ian makes landfall in Florida as NASA watches from space &lpar;video&rpar;](https://www.space.com/hurricane-ian-florida-landfall-space-station-video/)
-- [Battery-swapping SPAC Gogoro secures $345M loan](https://techcrunch.com/2022/09/28/battery-swapping-spac-gogoro-secures-345m-loan/)
-- [Regie secures $10M to generate marketing copy using AI](https://techcrunch.com/2022/09/28/regie-secures-10m-to-generate-marketing-copy-using-ai/)
-- [Streaming service Epix will get a facelift and relaunch as MGM+ in 2023](https://techcrunch.com/2022/09/28/epix-will-relaunch-as-mgm-in-2023/)
+- [Daily Crunch: Fast Company hacker sends 2 ‘obscene and racist’ notifications to Apple News users](https://techcrunch.com/2022/09/28/daily-crunch-fast-company-hacker-sends-2-obscene-and-racist-notifications-to-apple-news-users/)
+- [The Startup Battlefield 200: Hardware, Robotics, AI+ML &amp; Mobility + Transportation](https://techcrunch.com/2022/09/28/the-startup-battlefield-200-hardware-robotics-aiml-mobility-transportation/)
 - [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates/)
+- [Florida’s Space Coast braces for Hurricane Ian](https://techcrunch.com/2022/09/28/floridas-space-coast-braces-for-hurricane-ian/)
+- [Inside the human cost of Better.com’s brutal layoffs](https://techcrunch.com/2022/09/28/better-com-employees-detail-their-experiences/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
