@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astra will no longer launch NASA’s TROPICS satellites](https://techcrunch.com/2022/09/28/astra-will-no-longer-launch-nasas-tropics-satellites/)
 - [Daily Crunch: Fast Company hacker sends 2 ‘obscene and racist’ notifications to Apple News users](https://techcrunch.com/2022/09/28/daily-crunch-fast-company-hacker-sends-2-obscene-and-racist-notifications-to-apple-news-users/)
 - [The Startup Battlefield 200: Hardware, Robotics, AI+ML &amp; Mobility + Transportation](https://techcrunch.com/2022/09/28/the-startup-battlefield-200-hardware-robotics-aiml-mobility-transportation/)
 - [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates/)
 - [Florida’s Space Coast braces for Hurricane Ian](https://techcrunch.com/2022/09/28/floridas-space-coast-braces-for-hurricane-ian/)
-- [Inside the human cost of Better.com’s brutal layoffs](https://techcrunch.com/2022/09/28/better-com-employees-detail-their-experiences/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
