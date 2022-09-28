@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Lyft freezes hiring in the US amid economic instability](https://techcrunch.com/2022/09/28/lyft-freezes-hiring-in-the-us-amid-economic-instability/)
-- [Satellites track monstrous Hurricane Ian as it threatens &#39;catastrophic&#39; devastation in Florida](https://www.space.com/hurricane-ian-approaching-florida-satellite-images/)
-- [US senators aim to amend cybersecurity bill to include crypto](https://techcrunch.com/2022/09/28/us-senators-aim-to-amend-cybersecurity-bill-to-include-crypto/)
-- [Our top 4 Tesla AI day predictions](https://techcrunch.com/2022/09/28/our-top-4-tesla-ai-day-predictions/)
-- [Amazon sheds some light on your would-be intruders with Blink Floodlight](https://techcrunch.com/2022/09/28/blink-floodlight/)
+- [Streaming service Epix will get a facelift and relaunch as MGM+ in 2023](https://techcrunch.com/2022/09/28/epix-will-relaunch-as-mgm-in-2023/)
+- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates/)
+- [Ukraine invasion&#39;s impacts on space exploration: Live updates](https://www.space.com/news/live/russia-ukraine-invasion-space-impacts-updates/)
+- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
+- [Vietnam to restrict which social media accounts can post news: report](https://techcrunch.com/2022/09/28/vietnam-social-media-news-crackdown/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
