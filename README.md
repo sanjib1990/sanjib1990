@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Instacart plans to expand its EBT SNAP program and enable TANF payments](https://techcrunch.com/2022/09/28/instacart-expand-ebt-snap-program-introduce-tanf-payments/)
+- [South Korean prosecutors confirm they seek to freeze bitcoin assets linked to Do Kwon, who denies moving tokens](https://techcrunch.com/2022/09/28/south-korean-prosecutors-confirm-they-seek-to-freeze-bitcoin-assets-linked-to-do-kwon-who-denies-moving-tokens/)
+- [VRAI wants to tackle the energy crisis by bringing VR simulation training to offshore wind sector](https://techcrunch.com/2022/09/28/vrais-brings-vr-simulation-training-to-offshore-wind-and-other-hazardous-industries/)
+- [Italy’s Satispay raises €320M at a €1B+ valuation with backing from Block, Tencent and more for its indy payment network](https://techcrunch.com/2022/09/28/italys-satispay-raises-e320m-at-a-e1b-valuation-with-backing-from-block-tencent-and-more-for-its-indy-payment-network/)
 - [YC-backed fintech Numida raises $12.3M led by Serena Ventures to extend loans to MSMEs beyond Uganda](https://techcrunch.com/2022/09/28/yc-backed-fintech-numida-raises-12-3m-led-by-serena-ventures-to-extend-loans-to-msmes-beyond-uganda/)
-- [Roundtable wants to bring AngelList-style syndicates to Europe](https://techcrunch.com/2022/09/28/roundtable-wants-to-bring-angellist-style-syndicates-to-europe/)
-- [Stockly raises another $12 million to sell out-of-stock items via other retailers](https://techcrunch.com/2022/09/27/stockly-raises-another-12-million-to-sell-out-of-stock-items-via-other-retailers/)
-- [Announcing the agenda for TechCrunch Sessions: Crypto 2022](https://techcrunch.com/2022/09/27/announcing-the-agenda-for-techcrunch-sessions-crypto-2022/)
-- [Daily Crunch: NASA sings ‘I don’t want to miss a thing’ as DART spacecraft strikes asteroid](https://techcrunch.com/2022/09/27/daily-crunch-nasa-sings-i-dont-want-to-miss-a-thing-as-dart-spacecraft-strikes-asteroid/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
