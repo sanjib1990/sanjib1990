@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple takes down Russian social network VK’s app from the App Store](https://techcrunch.com/2022/09/28/apple-takes-down-russian-social-network-vks-app-from-the-app-store/)
-- [Cionic gets $12.5M to accelerate its assistive mobility wearable](https://techcrunch.com/2022/09/28/cionic-neural-sleeve-assistive-wearable/)
-- [On This Day In Space: Sept. 28, 1962: Canada launches its 1st satellite](https://www.space.com/39251-on-this-day-in-space.html/)
-- [Lunar eclipses 2022: When, where &amp; how to see them](https://www.space.com/33786-lunar-eclipse-guide.html/)
-- [Moxion nails $100M Series B to replace noxious diesel generators with silent batteries](https://techcrunch.com/2022/09/28/moxion-nails-100m-series-b-to-replace-noxious-diesel-generators-with-silent-batteries/)
+- [Hofy lands $15M to help companies remotely manage enterprise equipment](https://techcrunch.com/2022/09/28/hofy-lands-15m-to-help-companies-remotely-manage-enterprise-equipment/)
+- [Trading app Public debuts alternative asset offering with Birkins, Banksy and CryptoPunks](https://techcrunch.com/2022/09/28/alternative-assets-public-otis-collectibles-nfts-investing/)
+- [Bad robot: Europe plans product liability changes to make it easier to sue AIs](https://techcrunch.com/2022/09/28/eu-ai-liability-directive/)
+- [TikTok says fake account removal increased 61% to 33.6M in Q2 2022](https://techcrunch.com/2022/09/28/tiktok-says-fake-account-removal-increased-61-to-33-6m-in-q2-2022/)
+- [This new app is helping Gen Z invest in cars, food, video games and other ‘themes’](https://techcrunch.com/2022/09/28/fintech-startup-scout-is-a-new-app-that-aims-to-give-gen-zers-a-way-to-invest-in-themes-not-memes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
