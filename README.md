@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Moxion nails $100M Series B to replace noxious diesel generators with silent batteries](https://techcrunch.com/2022/09/28/moxion-nails-100m-series-b-to-replace-noxious-diesel-generators-with-silent-batteries/)
+- [Hacker breaches Fast Company systems to send offensive Apple News notifications](https://techcrunch.com/2022/09/28/hacker-breaches-fast-company-systems-to-send-offensive-apple-news-notifications/)
+- [Ocelot, an engagement platform aimed at college students, raises $117M in its first outside funding](https://techcrunch.com/2022/09/28/ocelot-an-engagement-platform-aimed-at-college-students-raises-117m-in-its-first-outside-funding/)
 - [Apple reportedly readjusts iPhone 14 production targets after slow demand](https://techcrunch.com/2022/09/28/apple-reportedly-readjusts-iphone-14-production-targets-after-slow-demand/)
 - [Mars is littered with 15,694 pounds of human trash from 50 years of robotic exploration](https://www.space.com/mars-littered-with-human-trash/)
-- [NASA&#39;s flying telescope is coming to the end of its mission but leaves a strong science legacy](https://www.space.com/sofia-flying-telescope-retirement-science-discoveries/)
-- [Repeating fast radio burst with weird magnetic field challenges magnetar explanation](https://www.space.com/fast-radio-burst-weird-magnetic-field/)
-- [New Omega Marstimer watch keeps time on Earth and the Red Planet](https://www.space.com/omega-speedmaster-x33-marstimer-watch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
