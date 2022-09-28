@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [YC-backed fintech Numida raises $12.3M led by Serena Ventures to extend loans to MSMEs beyond Uganda](https://techcrunch.com/2022/09/28/yc-backed-fintech-numida-raises-12-3m-led-by-serena-ventures-to-extend-loans-to-msmes-beyond-uganda/)
 - [Roundtable wants to bring AngelList-style syndicates to Europe](https://techcrunch.com/2022/09/28/roundtable-wants-to-bring-angellist-style-syndicates-to-europe/)
 - [Stockly raises another $12 million to sell out-of-stock items via other retailers](https://techcrunch.com/2022/09/27/stockly-raises-another-12-million-to-sell-out-of-stock-items-via-other-retailers/)
 - [Announcing the agenda for TechCrunch Sessions: Crypto 2022](https://techcrunch.com/2022/09/27/announcing-the-agenda-for-techcrunch-sessions-crypto-2022/)
 - [Daily Crunch: NASA sings ‘I don’t want to miss a thing’ as DART spacecraft strikes asteroid](https://techcrunch.com/2022/09/27/daily-crunch-nasa-sings-i-dont-want-to-miss-a-thing-as-dart-spacecraft-strikes-asteroid/)
-- [BMW’s most powerful SUV is a plug-in hybrid](https://techcrunch.com/2022/09/27/bmws-most-powerful-suv-is-a-plug-in-hybrid/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
