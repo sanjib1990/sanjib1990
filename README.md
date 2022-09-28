@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon’s latest Halo device is a bedside sleep tracker](https://techcrunch.com/2022/09/28/amazon-halo-rise-sleep-tracker/)
-- [Iranian tech activists detail how tech industry could unlock Internet access to aid anti-regime protests](https://techcrunch.com/2022/09/28/iranian-tech-activists-detail-how-tech-industry-could-unlock-internet-access-to-aid-anti-regime-protests/)
-- [Kindle Scribe brings writing to Amazon’s popular e-reader](https://techcrunch.com/2022/09/28/amazon-kindle-scribe/)
-- [Make your very own AI-generated Pokémon-like creature](https://techcrunch.com/2022/09/28/make-your-very-own-ai-generated-pokemon-like-creature/)
-- [CoRise’s approach to up-skilling involves fewer courses and more access](https://techcrunch.com/2022/09/28/corises-approach-to-up-skilling-involves-fewer-courses-and-more-access/)
+- [Kickstarter names Everette Taylor CEO](https://techcrunch.com/2022/09/28/kickstarter-everette-taylor-ceo/)
+- [Here are all of the new features and updates coming to Google Maps](https://techcrunch.com/2022/09/28/new-features-and-updates-coming-google-maps/)
+- [Google’s upcoming Maps feature will let you check out the ‘vibe’ of a neighborhood](https://techcrunch.com/2022/09/28/googles-maps-upcoming-feature-check-out-vibe-neighborhoods/)
+- [Google to launch its image and text-based ‘Multisearch Near Me’ local search feature in the U.S.](https://techcrunch.com/2022/09/28/google-to-launch-its-image-and-text-based-multisearch-near-me-local-search-feature-in-the-u-s/)
+- [Google turns to machine learning to advance translation of text out in the real world](https://techcrunch.com/2022/09/28/google-turns-to-machine-learning-to-advance-translation-of-text-out-in-the-real-world/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
