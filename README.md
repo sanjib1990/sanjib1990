@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Kickstarter names Everette Taylor CEO](https://techcrunch.com/2022/09/28/kickstarter-everette-taylor-ceo/)
-- [Here are all of the new features and updates coming to Google Maps](https://techcrunch.com/2022/09/28/new-features-and-updates-coming-google-maps/)
-- [Google’s upcoming Maps feature will let you check out the ‘vibe’ of a neighborhood](https://techcrunch.com/2022/09/28/googles-maps-upcoming-feature-check-out-vibe-neighborhoods/)
-- [Google to launch its image and text-based ‘Multisearch Near Me’ local search feature in the U.S.](https://techcrunch.com/2022/09/28/google-to-launch-its-image-and-text-based-multisearch-near-me-local-search-feature-in-the-u-s/)
-- [Google turns to machine learning to advance translation of text out in the real world](https://techcrunch.com/2022/09/28/google-turns-to-machine-learning-to-advance-translation-of-text-out-in-the-real-world/)
+- [Evidence of dinosaur-killing asteroid impact found on the moon](https://www.space.com/asteroid-impact-record-lunar-glass/)
+- [Rotten Tomatoes gets its first card game to entertain film buffs](https://techcrunch.com/2022/09/28/rotten-tomatoes-gets-its-first-card-game-to-entertain-film-buffs/)
+- [Google Search will soon begin translating local press coverage](https://techcrunch.com/2022/09/28/google-news-will-soon-begin-translating-local-press-coverage/)
+- [Google rolls out tool to request removal of personal info from search results, will later add proactive alerts](https://techcrunch.com/2022/09/28/google-rolls-out-tool-to-request-removal-of-personal-info-from-search-results-will-later-add-proactive-alerts/)
+- [Google Search now queries Reddit and Quora in response to open-ended questions](https://techcrunch.com/2022/09/28/google-search-now-queries-reddit-and-quora-in-response-to-open-ended-questions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
