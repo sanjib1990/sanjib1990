@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [S4:Trailer: Chalk Radio Season 4 Trailer](https://www.youtube.com/watch?v=RcAkiv8Bkpo)
 - [Laravel in 100 Seconds](https://www.youtube.com/watch?v=rIfdg_Ot-LI)
 - [learning Docker is HARD!! &lpar;this makes it easy&rpar;](https://www.youtube.com/watch?v=iX0HbrfRyvc)
 - [Model Driven Software Engineering - Computerphile](https://www.youtube.com/watch?v=3aoLV5i1feo)
 - [Qwik… the world&#39;s first O&lpar;1&rpar; JavaScript framework?](https://www.youtube.com/watch?v=x2eF3YLiNhY)
-- [Lecture 14: Resonance and the S-Matrix](https://www.youtube.com/watch?v=wH9nO8_aDSI)
 <!-- YOUTUBE:END -->
 
 ---
