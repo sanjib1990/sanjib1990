@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hear game-changing AI and ML leaders at the iMerit ML DataOps Summit](https://techcrunch.com/2022/09/28/hear-game-changing-ai-and-ml-leaders-at-the-imerit-ml-dataops-summit/)
-- [European spaceflight companies are racing to be the first to reach orbit](https://www.space.com/european-rocket-launch-companies-targeting-2023/)
-- [HeadsUp helps PLG sales teams understand how and when to sell](https://techcrunch.com/2022/09/28/headsup-helps-plg-sales-teams-understand-how-and-when-to-sell/)
-- [Dear Sophie: Is it OK to use a visitor visa while holding an H-1B?](https://techcrunch.com/2022/09/28/dear-sophie-is-it-ok-to-use-a-visitor-visa-while-holding-an-h-1b/)
-- [Solana developer platform Coral raises $20M led by FTX, Jump Crypto to build web3’s iPhone](https://techcrunch.com/2022/09/28/solana-coral-ftx-jump-crypto-iphone-web3-apps-xnfts/)
+- [Amazon’s latest Halo device is a bedside sleep tracker](https://techcrunch.com/2022/09/28/amazon-halo-rise-sleep-tracker/)
+- [Iranian tech activists detail how tech industry could unlock Internet access to aid anti-regime protests](https://techcrunch.com/2022/09/28/iranian-tech-activists-detail-how-tech-industry-could-unlock-internet-access-to-aid-anti-regime-protests/)
+- [Kindle Scribe brings writing to Amazon’s popular e-reader](https://techcrunch.com/2022/09/28/amazon-kindle-scribe/)
+- [Make your very own AI-generated Pokémon-like creature](https://techcrunch.com/2022/09/28/make-your-very-own-ai-generated-pokemon-like-creature/)
+- [CoRise’s approach to up-skilling involves fewer courses and more access](https://techcrunch.com/2022/09/28/corises-approach-to-up-skilling-involves-fewer-courses-and-more-access/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
