@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [S4:Trailer: Chalk Radio Season 4 Trailer](https://www.youtube.com/watch?v=RcAkiv8Bkpo)
-- [Laravel in 100 Seconds](https://www.youtube.com/watch?v=rIfdg_Ot-LI)
-- [learning Docker is HARD!! &lpar;this makes it easy&rpar;](https://www.youtube.com/watch?v=iX0HbrfRyvc)
-- [Model Driven Software Engineering - Computerphile](https://www.youtube.com/watch?v=3aoLV5i1feo)
-- [Qwik… the world&#39;s first O&lpar;1&rpar; JavaScript framework?](https://www.youtube.com/watch?v=x2eF3YLiNhY)
+- [Unit 2: The Forecast is ‘Always’ wrong, Video 2: Demand Forecasts](https://www.youtube.com/watch?v=pjBsOFUNN34)
+- [Unit 10: Utility Analysis and Multidimensional Evaluation, Video 1: Is Optimization Possible?](https://www.youtube.com/watch?v=cF6he3JbWbs)
+- [Unit 8: Decision Analysis 5 Video 5: Retrospective Overview](https://www.youtube.com/watch?v=8DlysThtgbM)
+- [Unit 5: Mechanics of Simulation, Video 5: Physical Situation](https://www.youtube.com/watch?v=JDmNvQj0I5A)
+- [Unit 4: Parking Garage Case Example, Video 5: Design to Manage Uncertainties](https://www.youtube.com/watch?v=9w73uiDyLHo)
 <!-- YOUTUBE:END -->
 
 ---
