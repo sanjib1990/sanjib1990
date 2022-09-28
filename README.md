@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple takes down Russian social network VK’s app from the App Store](https://techcrunch.com/2022/09/28/apple-takes-down-russian-social-network-vks-app-from-the-app-store/)
+- [Cionic gets $12.5M to accelerate its assistive mobility wearable](https://techcrunch.com/2022/09/28/cionic-neural-sleeve-assistive-wearable/)
+- [On This Day In Space: Sept. 28, 1962: Canada launches its 1st satellite](https://www.space.com/39251-on-this-day-in-space.html/)
+- [Lunar eclipses 2022: When, where &amp; how to see them](https://www.space.com/33786-lunar-eclipse-guide.html/)
 - [Moxion nails $100M Series B to replace noxious diesel generators with silent batteries](https://techcrunch.com/2022/09/28/moxion-nails-100m-series-b-to-replace-noxious-diesel-generators-with-silent-batteries/)
-- [Hacker breaches Fast Company systems to send offensive Apple News notifications](https://techcrunch.com/2022/09/28/hacker-breaches-fast-company-systems-to-send-offensive-apple-news-notifications/)
-- [Ocelot, an engagement platform aimed at college students, raises $117M in its first outside funding](https://techcrunch.com/2022/09/28/ocelot-an-engagement-platform-aimed-at-college-students-raises-117m-in-its-first-outside-funding/)
-- [Apple reportedly readjusts iPhone 14 production targets after slow demand](https://techcrunch.com/2022/09/28/apple-reportedly-readjusts-iphone-14-production-targets-after-slow-demand/)
-- [Mars is littered with 15,694 pounds of human trash from 50 years of robotic exploration](https://www.space.com/mars-littered-with-human-trash/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
