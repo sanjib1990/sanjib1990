@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hofy lands $15M to help companies remotely manage enterprise equipment](https://techcrunch.com/2022/09/28/hofy-lands-15m-to-help-companies-remotely-manage-enterprise-equipment/)
-- [Trading app Public debuts alternative asset offering with Birkins, Banksy and CryptoPunks](https://techcrunch.com/2022/09/28/alternative-assets-public-otis-collectibles-nfts-investing/)
-- [Bad robot: Europe plans product liability changes to make it easier to sue AIs](https://techcrunch.com/2022/09/28/eu-ai-liability-directive/)
-- [TikTok says fake account removal increased 61% to 33.6M in Q2 2022](https://techcrunch.com/2022/09/28/tiktok-says-fake-account-removal-increased-61-to-33-6m-in-q2-2022/)
-- [This new app is helping Gen Z invest in cars, food, video games and other ‘themes’](https://techcrunch.com/2022/09/28/fintech-startup-scout-is-a-new-app-that-aims-to-give-gen-zers-a-way-to-invest-in-themes-not-memes/)
+- [Lego ISS, Saturn V, and Star Wars Star Destroyer among kits that are retiring soon](https://www.space.com/five-lego-space-and-star-wars-set-due-to-retire-soon-2022/)
+- [Elon Musk wants “government-imposed muzzle” on his tweets thrown out](https://techcrunch.com/2022/09/28/elon-musk-wants-government-imposed-muzzle-on-his-tweets-thrown-out/)
+- [Invisible AI raises $15M to stick worker-monitoring cameras in factories](https://techcrunch.com/2022/09/28/invisible-ai-raises-15m-to-stick-worker-monitoring-cameras-in-factories/)
+- [Building startups in public has an end date](https://techcrunch.com/2022/09/28/building-startups-in-public-has-an-end-date/)
+- [The unbearable lightness of being asset-light](https://techcrunch.com/2022/09/28/asset-light-model-versus-asset-heavy-model-marketplace/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
