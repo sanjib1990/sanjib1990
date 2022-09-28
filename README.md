@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Evidence of dinosaur-killing asteroid impact found on the moon](https://www.space.com/asteroid-impact-record-lunar-glass/)
-- [Rotten Tomatoes gets its first card game to entertain film buffs](https://techcrunch.com/2022/09/28/rotten-tomatoes-gets-its-first-card-game-to-entertain-film-buffs/)
-- [Google Search will soon begin translating local press coverage](https://techcrunch.com/2022/09/28/google-news-will-soon-begin-translating-local-press-coverage/)
-- [Google rolls out tool to request removal of personal info from search results, will later add proactive alerts](https://techcrunch.com/2022/09/28/google-rolls-out-tool-to-request-removal-of-personal-info-from-search-results-will-later-add-proactive-alerts/)
-- [Google Search now queries Reddit and Quora in response to open-ended questions](https://techcrunch.com/2022/09/28/google-search-now-queries-reddit-and-quora-in-response-to-open-ended-questions/)
+- [Lyft freezes hiring in the US amid economic instability](https://techcrunch.com/2022/09/28/lyft-freezes-hiring-in-the-us-amid-economic-instability/)
+- [Satellites track monstrous Hurricane Ian as it threatens &#39;catastrophic&#39; devastation in Florida](https://www.space.com/hurricane-ian-approaching-florida-satellite-images/)
+- [US senators aim to amend cybersecurity bill to include crypto](https://techcrunch.com/2022/09/28/us-senators-aim-to-amend-cybersecurity-bill-to-include-crypto/)
+- [Our top 4 Tesla AI day predictions](https://techcrunch.com/2022/09/28/our-top-4-tesla-ai-day-predictions/)
+- [Amazon sheds some light on your would-be intruders with Blink Floodlight](https://techcrunch.com/2022/09/28/blink-floodlight/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
