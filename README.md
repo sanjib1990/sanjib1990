@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Extremely dangerous&#39; Hurricane Ian makes landfall in Florida as NASA watches from space &lpar;video&rpar;](https://www.space.com/hurricane-ian-florida-landfall-space-station-video/)
+- [Battery-swapping SPAC Gogoro secures $345M loan](https://techcrunch.com/2022/09/28/battery-swapping-spac-gogoro-secures-345m-loan/)
+- [Regie secures $10M to generate marketing copy using AI](https://techcrunch.com/2022/09/28/regie-secures-10m-to-generate-marketing-copy-using-ai/)
 - [Streaming service Epix will get a facelift and relaunch as MGM+ in 2023](https://techcrunch.com/2022/09/28/epix-will-relaunch-as-mgm-in-2023/)
 - [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates/)
-- [Ukraine invasion&#39;s impacts on space exploration: Live updates](https://www.space.com/news/live/russia-ukraine-invasion-space-impacts-updates/)
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
-- [Vietnam to restrict which social media accounts can post news: report](https://techcrunch.com/2022/09/28/vietnam-social-media-news-crackdown/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
