@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [mmhmm co-founders are building the great pyramid of hybrid work](https://techcrunch.com/2022/09/29/phil-libin-mmhmm-found/)
+- [Truepill, a digital health unicorn, conducts fourth round of layoffs in 2022](https://techcrunch.com/2022/09/29/truepill-a-digital-health-unicorn-conducts-fourth-round-of-layoffs-in-2022/)
 - [NASA and SpaceX are studying sending a private crew to boost Hubble’s orbit](https://techcrunch.com/2022/09/29/nasa-and-spacex-are-studying-sending-a-private-crew-to-boost-hubbles-orbit/)
 - [Daily Crunch: Google to sunset Stadia in January 2023, will refund hardware purchases](https://techcrunch.com/2022/09/29/daily-crunch-google-to-sunset-stadia-in-january-2023-will-refund-hardware-purchases/)
-- [House Democrats debut new facial recognition bill](https://techcrunch.com/2022/09/29/house-democrats-facial-recognition-act/)
-- [FCC rules satellites must deorbit within 5 years of ending mission](https://techcrunch.com/2022/09/29/fcc-rules-satellites-must-deorbit-within-5-years-of-ending-mission/)
-- [The biggest moonshots from 500 Global’s latest Demo Day](https://techcrunch.com/2022/09/29/the-biggest-moonshots-from-500-globals-latest-demo-day/)
+- [House Democrats debut new bill to limit US police use of facial recognition](https://techcrunch.com/2022/09/29/house-democrats-facial-recognition-act/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
