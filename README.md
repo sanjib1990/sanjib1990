@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The biggest moonshots from 500 Global’s latest Demo Day](https://techcrunch.com/2022/09/29/the-biggest-moonshots-from-500-globals-latest-demo-day/)
 - [Ingenuity Mars helicopter notches 33rd Red Planet flight](https://www.space.com/ingenuity-mars-helicopter-33rd-flight-september-2022/)
 - [Binance founder Changpeng ‘CZ’ Zhao shares his vision of web3 opportunities at TC Sessions: Crypto](https://techcrunch.com/2022/09/29/binance-founder-changpeng-cz-zhao-shares-his-vision-of-web3-opportunities-at-tc-sessions-crypto/)
 - [Meta’s Make-A-Video AI achieves a new, nightmarish state of the art](https://techcrunch.com/2022/09/29/meta-make-a-video-ai-achieves-a-new-creepy-state-of-the-art/)
 - [Mark Zuckerberg says Meta will freeze hiring and cut costs](https://techcrunch.com/2022/09/29/meta-hiring-freeze-zuckerberg/)
-- [Twitter is adding a new TikTok-like full-screen video feature](https://techcrunch.com/2022/09/29/twitter-adding-new-tiktok-like-video-discovery-feature/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
