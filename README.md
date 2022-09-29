@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Marvel movies in order: chronological &amp; release order](https://www.space.com/marvel-movies-in-order/)
-- [All Facebook and Instagram users in the U.S. can now share NFTs, cross-post between both apps](https://techcrunch.com/2022/09/29/all-facebook-instagram-users-in-us-share-nfts-cross-post-both-apps/)
-- [The upcoming TripActions IPO has us hype](https://techcrunch.com/2022/09/29/the-upcoming-tripactions-ipo-has-us-hype/)
-- [Dating app Inner Circle adds a suite of anti-ghosting features](https://techcrunch.com/2022/09/29/dating-app-inner-circle-adds-a-suite-of-anti-ghosting-features/)
-- [Binance founder Changpeng ‘CZ’ Zhao shares his vision of web3 opportunities at TC Sessions: Crypto](https://techcrunch.com/2022/09/29/binance-founder-changpeng-cz-zhao-shares-his-vision-of-web3-opportunities-at-tc-sessions-crypto/)
+- [New York follows California mandating zero-emissions vehicles by 2035](https://techcrunch.com/2022/09/29/new-york-follows-california-mandating-zero-emissions-vehicles-by-2035/)
+- [Pitch Deck Teardown: Rokoko’s $3M strategic extension deck](https://techcrunch.com/2022/09/29/sample-strategic-extension-pitch-deck-rokoko/)
+- [VCs at Index Ventures, Serena Ventures, NEA and Volition Capital join Startup Battlefield judges](https://techcrunch.com/2022/09/29/vcs-at-index-ventures-serena-ventures-nea-and-volition-capital-join-startup-battlefield-judges/)
+- [Now with VC backing, Ride1Up is producing affordable mid-drive ebikes, like the Prodigy](https://techcrunch.com/2022/09/29/now-with-vc-backing-ride1up-is-producing-affordable-mid-drive-ebikes-like-the-prodigy/)
+- [Tesla’s mythical Cybertruck will also be a temporary boat because why not](https://techcrunch.com/2022/09/29/teslas-mythical-cybertruck-will-also-be-a-temporary-boat-because-why-not/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
