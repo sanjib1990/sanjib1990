@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Can companies issue stakes in their success without using shares or options? This startup thinks so](https://techcrunch.com/2022/09/29/can-companies-issue-stakes-in-their-success-without-using-shares-or-options-this-startup-thinks-so/)
 - [Former Revolut employees launch Solvo, an app that simplifies crypto investing](https://techcrunch.com/2022/09/29/former-revolut-employees-launch-solvo-an-app-that-simplifies-crypto-investing/)
 - [‘Virtual ward’ startup Doccla gets Series A injection as it eyes AI tools](https://techcrunch.com/2022/09/28/doccla-series-a/)
 - [Pigment raises another $65M to build the modern business planning platform](https://techcrunch.com/2022/09/28/pigment-raises-another-65m-to-build-the-modern-business-planning-platform/)
 - [Watch live early Thursday: Russian cosmonauts departing International Space Station](https://www.space.com/international-space-station-landing-september-2022-watch-live/)
-- [Tesla appoints Airbnb co-founder to board](https://techcrunch.com/2022/09/28/tesla-appoints-airbnb-co-founder-to-board/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
