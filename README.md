@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Aiven’s first acquisition is Kafkawize, an open source data governance tool for Kafka](https://techcrunch.com/2022/09/29/aivens-first-acquisition-is-kafkawize-an-open-source-data-governance-tool-for-kafka/)
-- [Fairphone adds fully refurbished handsets to its modular reuse mix](https://techcrunch.com/2022/09/29/fairphone-3-refurbished/)
-- [Lunio raises $15M to combat click fraud with algorithms](https://techcrunch.com/2022/09/29/lunio-raises-15m-to-combat-click-fraud-with-algorithms/)
-- [Lego International Space Station review](https://www.space.com/lego-international-space-station-21321-review/)
-- [3 Russian cosmonauts land on Soyuz MS-21 capsule after 195 days on space station](https://www.space.com/soyuz-ms21-cosmonauts-landing/)
+- [YouTube will show personal stories of patients in search results for health-related queries](https://techcrunch.com/2022/09/29/youtube-will-show-personal-stories-of-patients-in-search-results-for-health-related-queries/)
+- [Latin American NFT marketplace Minteo raises $4.3M seed round](https://techcrunch.com/2022/09/29/latin-american-nft-marketplace-minteo-raises-4-3m-seed-round/)
+- [Ox Security lands $34M in seed funding to strengthen software supply chains](https://techcrunch.com/2022/09/29/ox-security-lands-34m-in-seed-funding-to-strengthen-software-supply-chains/)
+- [Airplane lands $32M in new cash to make it easier for companies to build internal dev tools](https://techcrunch.com/2022/09/29/airplane-lands-32m-in-new-cash-to-make-it-easier-for-companies-to-build-internal-dev-tools/)
+- [Detectify secures $10M more to expand its ethical hacking platform](https://techcrunch.com/2022/09/29/detectify-secures-10m-more-to-expand-its-ethical-hacking-platform/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
