@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA and SpaceX are studying sending a private crew to boost Hubble’s orbit](https://techcrunch.com/2022/09/29/nasa-and-spacex-are-studying-sending-a-private-crew-to-boost-hubbles-orbit/)
+- [Daily Crunch: Google to sunset Stadia in January 2023, will refund hardware purchases](https://techcrunch.com/2022/09/29/daily-crunch-google-to-sunset-stadia-in-january-2023-will-refund-hardware-purchases/)
+- [House Democrats debut new facial recognition bill](https://techcrunch.com/2022/09/29/house-democrats-facial-recognition-act/)
+- [FCC rules satellites must deorbit within 5 years of ending mission](https://techcrunch.com/2022/09/29/fcc-rules-satellites-must-deorbit-within-5-years-of-ending-mission/)
 - [The biggest moonshots from 500 Global’s latest Demo Day](https://techcrunch.com/2022/09/29/the-biggest-moonshots-from-500-globals-latest-demo-day/)
-- [Ingenuity Mars helicopter notches 33rd Red Planet flight](https://www.space.com/ingenuity-mars-helicopter-33rd-flight-september-2022/)
-- [Binance founder Changpeng ‘CZ’ Zhao shares his vision of web3 opportunities at TC Sessions: Crypto](https://techcrunch.com/2022/09/29/binance-founder-changpeng-cz-zhao-shares-his-vision-of-web3-opportunities-at-tc-sessions-crypto/)
-- [Meta’s Make-A-Video AI achieves a new, nightmarish state of the art](https://techcrunch.com/2022/09/29/meta-make-a-video-ai-achieves-a-new-creepy-state-of-the-art/)
-- [Mark Zuckerberg says Meta will freeze hiring and cut costs](https://techcrunch.com/2022/09/29/meta-hiring-freeze-zuckerberg/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
