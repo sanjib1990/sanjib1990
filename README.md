@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Square now supports Apple’s Tap to Pay on iPhones](https://techcrunch.com/2022/09/29/square-now-supports-apples-tap-to-pay-on-iphones/)
-- [You can watch 3 Russian cosmonauts return to Earth from International Space Station today](https://www.space.com/international-space-station-landing-september-2022-watch-live/)
-- [Meta urged to pay reparations for Facebook’s role in Rohingya genocide](https://techcrunch.com/2022/09/29/amnesty-report-facebook-rohingya-reparations/)
-- [GGV Capital latest to back Workstream’s goal of filling software gap for deskless workers](https://techcrunch.com/2022/09/29/ggv-capital-workstream-software-deskless-worker/)
-- [Juno flies past Jupiter&#39;s icy moon Europa in 1st spacecraft visit since 2000](https://www.space.com/juno-flyby-jupiter-moon-europa-mysteries/)
+- [Aiven’s first acquisition is Kafkawize, an open source data governance tool for Kafka](https://techcrunch.com/2022/09/29/aivens-first-acquisition-is-kafkawize-an-open-source-data-governance-tool-for-kafka/)
+- [Fairphone adds fully refurbished handsets to its modular reuse mix](https://techcrunch.com/2022/09/29/fairphone-3-refurbished/)
+- [Lunio raises $15M to combat click fraud with algorithms](https://techcrunch.com/2022/09/29/lunio-raises-15m-to-combat-click-fraud-with-algorithms/)
+- [Lego International Space Station review](https://www.space.com/lego-international-space-station-21321-review/)
+- [3 Russian cosmonauts land on Soyuz MS-21 capsule after 195 days on space station](https://www.space.com/soyuz-ms21-cosmonauts-landing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
