@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Twitter is rolling out podcasts to Blue subscribers on Android](https://techcrunch.com/2022/09/29/twitter-podcasts-blue-subscribers-android/)
-- [Amazon’s iRobot deal faces renewed scrutiny from Dems](https://techcrunch.com/2022/09/29/amazons-irobot-deal-faces-renewed-scrutiny-from-dems/)
-- [Roku will now work with Nielsen to track cross-media viewership](https://techcrunch.com/2022/09/29/roku-will-now-work-with-nielsen-to-track-cross-media-viewership/)
-- [As extreme weather events worsen, 7Analytics meshes AI and big data to predict flooding](https://techcrunch.com/2022/09/29/as-extreme-weather-events-worsen-7analytics-meshes-ai-and-big-data-to-predict-flooding/)
-- [Sky.Garden, Kenya’s Amazon-style marketplace, faces closure after funding fell through](https://techcrunch.com/2022/09/29/sky-garden-kenyas-amazon-style-marketplace-faces-closure-after-funding-fell-through/)
+- [Why build any fintech any more when you can just raise €20M and white-label it to banks?](https://techcrunch.com/2022/09/29/why-build-any-fintech-any-more-when-you-can-just-raise-e20m-and-white-label-it-to-banks/)
+- [Treepz founder Onyeka Akumah on how to succeed in transportation tech](https://techcrunch.com/2022/09/29/treepz-founder-onyeka-akumah-on-how-to-succeed-in-transportation-tech/)
+- [Hustle Fund’s side hustle just helped it close a third fund](https://techcrunch.com/2022/09/29/hustle-funds-side-hustle-just-helped-it-close-a-third-fund/)
+- [The Startup Battlefield 200: SaaS, Enterprise, Retail and FinTech edition](https://techcrunch.com/2022/09/29/the-startup-battlefield-200-saas-enterprise-retail-and-fintech-edition/)
+- [Amazon quietly picked up a cashierless store startup to stock its Amazon Go play in India](https://techcrunch.com/2022/09/29/amazon-go-india-plans/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
