@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Why build any fintech any more when you can just raise €20M and white-label it to banks?](https://techcrunch.com/2022/09/29/why-build-any-fintech-any-more-when-you-can-just-raise-e20m-and-white-label-it-to-banks/)
-- [Treepz founder Onyeka Akumah on how to succeed in transportation tech](https://techcrunch.com/2022/09/29/treepz-founder-onyeka-akumah-on-how-to-succeed-in-transportation-tech/)
-- [Hustle Fund’s side hustle just helped it close a third fund](https://techcrunch.com/2022/09/29/hustle-funds-side-hustle-just-helped-it-close-a-third-fund/)
-- [The Startup Battlefield 200: SaaS, Enterprise, Retail and FinTech edition](https://techcrunch.com/2022/09/29/the-startup-battlefield-200-saas-enterprise-retail-and-fintech-edition/)
-- [Amazon quietly picked up a cashierless store startup to stock its Amazon Go play in India](https://techcrunch.com/2022/09/29/amazon-go-india-plans/)
+- [Marvel movies in order: chronological &amp; release order](https://www.space.com/marvel-movies-in-order/)
+- [All Facebook and Instagram users in the U.S. can now share NFTs, cross-post between both apps](https://techcrunch.com/2022/09/29/all-facebook-instagram-users-in-us-share-nfts-cross-post-both-apps/)
+- [The upcoming TripActions IPO has us hype](https://techcrunch.com/2022/09/29/the-upcoming-tripactions-ipo-has-us-hype/)
+- [Dating app Inner Circle adds a suite of anti-ghosting features](https://techcrunch.com/2022/09/29/dating-app-inner-circle-adds-a-suite-of-anti-ghosting-features/)
+- [Binance founder Changpeng ‘CZ’ Zhao shares his vision of web3 opportunities at TC Sessions: Crypto](https://techcrunch.com/2022/09/29/binance-founder-changpeng-cz-zhao-shares-his-vision-of-web3-opportunities-at-tc-sessions-crypto/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
