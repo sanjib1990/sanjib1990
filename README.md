@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tokenization is key to linking TradFi to the blockchain](https://techcrunch.com/2022/09/29/tokenization-is-key-to-linking-tradfi-to-the-blockchain/)
+- [TikTok breaks records as top grossing app in Q3, as overall app store revenue declines](https://techcrunch.com/2022/09/29/tiktok-breaks-records-as-top-grossing-app-in-q3-as-overall-app-store-revenue-declines/)
 - [New York follows California mandating zero-emissions vehicles by 2035](https://techcrunch.com/2022/09/29/new-york-follows-california-mandating-zero-emissions-vehicles-by-2035/)
 - [Pitch Deck Teardown: Rokoko’s $3M strategic extension deck](https://techcrunch.com/2022/09/29/sample-strategic-extension-pitch-deck-rokoko/)
 - [VCs at Index Ventures, Serena Ventures, NEA and Volition Capital join Startup Battlefield judges](https://techcrunch.com/2022/09/29/vcs-at-index-ventures-serena-ventures-nea-and-volition-capital-join-startup-battlefield-judges/)
-- [Now with VC backing, Ride1Up is producing affordable mid-drive ebikes, like the Prodigy](https://techcrunch.com/2022/09/29/now-with-vc-backing-ride1up-is-producing-affordable-mid-drive-ebikes-like-the-prodigy/)
-- [Tesla’s mythical Cybertruck will also be a temporary boat because why not](https://techcrunch.com/2022/09/29/teslas-mythical-cybertruck-will-also-be-a-temporary-boat-because-why-not/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
