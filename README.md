@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Former Revolut employees launch Solvo, an app that simplifies crypto investing](https://techcrunch.com/2022/09/29/former-revolut-employees-launch-solvo-an-app-that-simplifies-crypto-investing/)
 - [‘Virtual ward’ startup Doccla gets Series A injection as it eyes AI tools](https://techcrunch.com/2022/09/28/doccla-series-a/)
 - [Pigment raises another $65M to build the modern business planning platform](https://techcrunch.com/2022/09/28/pigment-raises-another-65m-to-build-the-modern-business-planning-platform/)
 - [Watch live early Thursday: Russian cosmonauts departing International Space Station](https://www.space.com/international-space-station-landing-september-2022-watch-live/)
 - [Tesla appoints Airbnb co-founder to board](https://techcrunch.com/2022/09/28/tesla-appoints-airbnb-co-founder-to-board/)
-- [E-commerce aggregator Una Brands gets $30M to acquire more APAC brands](https://techcrunch.com/2022/09/28/e-commerce-aggregator-una-brands-gets-30m-to-acquire-more-apac-brands/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
