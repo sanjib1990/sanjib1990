@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Square now supports Apple’s Tap to Pay on iPhones](https://techcrunch.com/2022/09/29/square-now-supports-apples-tap-to-pay-on-iphones/)
+- [You can watch 3 Russian cosmonauts return to Earth from International Space Station today](https://www.space.com/international-space-station-landing-september-2022-watch-live/)
+- [Meta urged to pay reparations for Facebook’s role in Rohingya genocide](https://techcrunch.com/2022/09/29/amnesty-report-facebook-rohingya-reparations/)
 - [GGV Capital latest to back Workstream’s goal of filling software gap for deskless workers](https://techcrunch.com/2022/09/29/ggv-capital-workstream-software-deskless-worker/)
 - [Juno flies past Jupiter&#39;s icy moon Europa in 1st spacecraft visit since 2000](https://www.space.com/juno-flyby-jupiter-moon-europa-mysteries/)
-- [The Milky Way is &#39;rippling&#39; like a pond, and scientists may finally know why](https://www.space.com/milky-way-galaxy-ripple-sagittarius-collision/)
-- [Asteroid-smash aftermath: Why Europe is sending a probe to DART-battered Dimorphos](https://www.space.com/dart-asteroid-crash-requires-follow-up-mission/)
-- [Milky Way galaxy: Everything you need to know about our cosmic neighborhood](https://www.space.com/19915-milky-way-galaxy.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
