@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Venus: The scorching second planet from the sun](https://www.space.com/44-venus-second-planet-from-the-sun-brightest-planet-in-solar-system.html/)
-- [Meta says ad-free Instagram client The OG App breaks its rules](https://techcrunch.com/2022/09/29/meta-says-ad-free-instagram-client-the-og-app-breaks-its-rules/)
-- [Can companies issue stakes in their success without using shares or options? This startup thinks so](https://techcrunch.com/2022/09/29/can-companies-issue-stakes-in-their-success-without-using-shares-or-options-this-startup-thinks-so/)
-- [Former Revolut employees launch Solvo, an app that simplifies crypto investing](https://techcrunch.com/2022/09/29/former-revolut-employees-launch-solvo-an-app-that-simplifies-crypto-investing/)
-- [‘Virtual ward’ startup Doccla gets Series A injection as it eyes AI tools](https://techcrunch.com/2022/09/28/doccla-series-a/)
+- [GGV Capital latest to back Workstream’s goal of filling software gap for deskless workers](https://techcrunch.com/2022/09/29/ggv-capital-workstream-software-deskless-worker/)
+- [Juno flies past Jupiter&#39;s icy moon Europa in 1st spacecraft visit since 2000](https://www.space.com/juno-flyby-jupiter-moon-europa-mysteries/)
+- [The Milky Way is &#39;rippling&#39; like a pond, and scientists may finally know why](https://www.space.com/milky-way-galaxy-ripple-sagittarius-collision/)
+- [Asteroid-smash aftermath: Why Europe is sending a probe to DART-battered Dimorphos](https://www.space.com/dart-asteroid-crash-requires-follow-up-mission/)
+- [Milky Way galaxy: Everything you need to know about our cosmic neighborhood](https://www.space.com/19915-milky-way-galaxy.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
