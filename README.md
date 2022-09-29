@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pigment raises another $65M to build the modern business planning platform](https://techcrunch.com/2022/09/28/pigment-raises-another-65m-to-build-the-modern-business-planning-platform/)
+- [Watch live early Thursday: Russian cosmonauts departing International Space Station](https://www.space.com/international-space-station-landing-september-2022-watch-live/)
+- [Tesla appoints Airbnb co-founder to board](https://techcrunch.com/2022/09/28/tesla-appoints-airbnb-co-founder-to-board/)
 - [E-commerce aggregator Una Brands gets $30M to acquire more APAC brands](https://techcrunch.com/2022/09/28/e-commerce-aggregator-una-brands-gets-30m-to-acquire-more-apac-brands/)
 - [Astra will no longer launch NASA’s TROPICS satellites](https://techcrunch.com/2022/09/28/astra-will-no-longer-launch-nasas-tropics-satellites/)
-- [Daily Crunch: Fast Company hacker sends 2 ‘obscene and racist’ notifications to Apple News users](https://techcrunch.com/2022/09/28/daily-crunch-fast-company-hacker-sends-2-obscene-and-racist-notifications-to-apple-news-users/)
-- [The Startup Battlefield 200: Hardware, Robotics, AI+ML &amp; Mobility + Transportation](https://techcrunch.com/2022/09/28/the-startup-battlefield-200-hardware-robotics-aiml-mobility-transportation/)
-- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
