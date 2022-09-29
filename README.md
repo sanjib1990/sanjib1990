@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [8 investors weigh in on the state of insurtech in Q3 2022](https://techcrunch.com/2022/09/29/8-investors-weigh-in-on-the-state-of-insurtech-in-q3-2022/)
+- [Despite its many troubles, the insurtech market is ‘far from dead,’ investors say](https://techcrunch.com/2022/09/29/despite-its-many-troubles-the-insurtech-market-is-far-from-dead-investors-say/)
+- [Watch SpaceX, NASA and Hubble officials discuss mysterious new study today](https://www.space.com/spacex-nasa-hubble-science-commercial-study-preview/)
+- [It’s a sprint, not a marathon](https://techcrunch.com/2022/09/29/actuator-its-a-sprint-not-a-marathon/)
 - [Tokenization is key to linking TradFi to the blockchain](https://techcrunch.com/2022/09/29/tokenization-is-key-to-linking-tradfi-to-the-blockchain/)
-- [TikTok breaks records as top grossing app in Q3, as overall app store revenue declines](https://techcrunch.com/2022/09/29/tiktok-breaks-records-as-top-grossing-app-in-q3-as-overall-app-store-revenue-declines/)
-- [New York follows California mandating zero-emissions vehicles by 2035](https://techcrunch.com/2022/09/29/new-york-follows-california-mandating-zero-emissions-vehicles-by-2035/)
-- [Pitch Deck Teardown: Rokoko’s $3M strategic extension deck](https://techcrunch.com/2022/09/29/sample-strategic-extension-pitch-deck-rokoko/)
-- [VCs at Index Ventures, Serena Ventures, NEA and Volition Capital join Startup Battlefield judges](https://techcrunch.com/2022/09/29/vcs-at-index-ventures-serena-ventures-nea-and-volition-capital-join-startup-battlefield-judges/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
