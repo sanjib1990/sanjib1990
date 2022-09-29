@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [YouTube will show personal stories of patients in search results for health-related queries](https://techcrunch.com/2022/09/29/youtube-will-show-personal-stories-of-patients-in-search-results-for-health-related-queries/)
-- [Latin American NFT marketplace Minteo raises $4.3M seed round](https://techcrunch.com/2022/09/29/latin-american-nft-marketplace-minteo-raises-4-3m-seed-round/)
-- [Ox Security lands $34M in seed funding to strengthen software supply chains](https://techcrunch.com/2022/09/29/ox-security-lands-34m-in-seed-funding-to-strengthen-software-supply-chains/)
-- [Airplane lands $32M in new cash to make it easier for companies to build internal dev tools](https://techcrunch.com/2022/09/29/airplane-lands-32m-in-new-cash-to-make-it-easier-for-companies-to-build-internal-dev-tools/)
-- [Detectify secures $10M more to expand its ethical hacking platform](https://techcrunch.com/2022/09/29/detectify-secures-10m-more-to-expand-its-ethical-hacking-platform/)
+- [Twitter is rolling out podcasts to Blue subscribers on Android](https://techcrunch.com/2022/09/29/twitter-podcasts-blue-subscribers-android/)
+- [Amazon’s iRobot deal faces renewed scrutiny from Dems](https://techcrunch.com/2022/09/29/amazons-irobot-deal-faces-renewed-scrutiny-from-dems/)
+- [Roku will now work with Nielsen to track cross-media viewership](https://techcrunch.com/2022/09/29/roku-will-now-work-with-nielsen-to-track-cross-media-viewership/)
+- [As extreme weather events worsen, 7Analytics meshes AI and big data to predict flooding](https://techcrunch.com/2022/09/29/as-extreme-weather-events-worsen-7analytics-meshes-ai-and-big-data-to-predict-flooding/)
+- [Sky.Garden, Kenya’s Amazon-style marketplace, faces closure after funding fell through](https://techcrunch.com/2022/09/29/sky-garden-kenyas-amazon-style-marketplace-faces-closure-after-funding-fell-through/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
