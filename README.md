@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Enjoy these exclusive benefits in the TC+ Lounge at Disrupt](https://techcrunch.com/2022/09/30/enjoy-these-exclusive-benefits-in-the-tc-lounge-at-disrupt/)
+- [What are wormholes? An astrophysicist explains these shortcuts through space-time](https://www.space.com/what-are-wormholes-astrophysicist-explains/)
+- [How to watch Tesla AI Day 2022](https://techcrunch.com/2022/09/30/how-to-watch-tesla-ai-day-2022/)
+- [Free the female-presenting nipple and other TC news](https://techcrunch.com/2022/09/30/free-the-female-presenting-nipple-and-other-tc-news/)
 - [Indian market regulator tightens IPO disclosure norms](https://techcrunch.com/2022/09/30/india-market-regulator-ipo-startups/)
-- [500 Global’s take on the rising competition among startup accelerators](https://techcrunch.com/2022/09/30/500-globals-take-on-the-rising-competition-among-startup-accelerators/)
-- [International Observe the Moon Night 2022: Don&#39;t miss these livestreams and events on Saturday &lpar;Oct. 1&rpar;](https://www.space.com/international-observe-the-moon-night-2022-livestreams-events/)
-- [Twitter is rolling out a refreshed user interface for DMs on Android](https://techcrunch.com/2022/09/30/twitter-is-rolling-out-a-refreshed-user-interface-for-dms-on-android/)
-- [Twitch is testing ‘elevated chats’ that let you pay to highlight a message](https://techcrunch.com/2022/09/30/twitch-elevated-chat-test/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
