@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Celestron Astro Fi 102 telescope review](https://www.space.com/celestron-astro-fi-102-telescope-review/)
+- [Earth From Another Sun space MMO is an amazing homage to Starfield and Halo](https://www.space.com/earth-from-another-sun-space-mmo-trailer/)
+- [We’re all just a Hop, Skip and a Drive away from a better Hustle](https://techcrunch.com/2022/09/30/were-all-just-a-hop-skip-and-a-drive-away-from-a-better-hustle/)
+- [Behold! Our closest view of Jupiter&#39;s ocean moon Europa in 22 years](https://www.space.com/juno-close-flyby-jupiter-moon-europa-photo/)
 - [Arrival produces long-awaited battery-electric commercial van](https://techcrunch.com/2022/09/30/arrival-produces-long-awaited-battery-electric-commercial-van/)
-- [The best sci-fi movies and TV shows to stream on Disney Plus in October](https://www.space.com/disney-plus-best-space-scifi-streaming.html/)
-- [Astra brings on new CFO as it looks to scale launch and propulsion businesses](https://techcrunch.com/2022/09/30/astras-bringing-on-axel-martinez-as-new-cfo/)
-- [Why are sunspots black?](https://www.space.com/why-are-sunspots-black/)
-- [Social media a factor in death of UK schoolgirl, inquest finds](https://techcrunch.com/2022/09/30/molly-russell-inquest-verdict/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
