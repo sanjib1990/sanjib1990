@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TestGrid is a “one-stop shop” for testing apps at scale](https://techcrunch.com/2022/09/30/testgrid-is-a-one-stop-shop-for-testing-apps-at-scale/)
 - [3D sky: How astronomers measure the size, luminosity and distance of stars](https://www.space.com/measuring-stars-three-dimensional-sky/)
 - [See the crescent moon shine above the red star Antares tonight &lpar;Sept. 30&rpar;](https://www.space.com/crescent-moon-near-antares-sept-2022/)
 - [Behold! Our closest view of Jupiter&#39;s ocean moon Europa in 22 years](https://www.space.com/juno-close-flyby-jupiter-moon-europa-photo/)
 - [Uniswap Labs eyes over $100 million in new funding](https://techcrunch.com/2022/09/30/uniswap-labs-eyes-over-100-million-in-new-funding/)
-- [Firefly Aerospace aborts orbital test flight just after engine ignition](https://www.space.com/firefly-aerospace-alpha-rocket-test-flight-abort/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
