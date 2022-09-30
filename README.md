@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hurricane Ian regains strength, heads toward South Carolina as NASA&#39;s Florida spaceport recovers](https://www.space.com/hurricane-ian-gains-strength-nasa-ksc-recovery/)
-- [US Space Force gets its 2nd-ever chief](https://www.space.com/senate-confirms-saltzman-space-force-chief/)
-- [Show, don’t tell: Tips for robotics startups raising a Series B during a downturn](https://techcrunch.com/2022/09/30/show-dont-tell-tips-for-robotics-startups-raising-a-series-b-during-a-downturn/)
-- [TechCrunch+ roundup: Insurtech investor survey, H-1B red flags, SaaS sales coaching](https://techcrunch.com/2022/09/30/techcrunch-roundup-insurtech-investor-survey-h-1b-red-flags-saas-sales-coaching/)
-- [Hubble Space Telescope spots protective shield against greedy Milky Way](https://www.space.com/hubble-space-telescope-magellanic-corona/)
+- [Indian market regulator tightens IPO disclosure norms](https://techcrunch.com/2022/09/30/india-market-regulator-ipo-startups/)
+- [500 Global’s take on the rising competition among startup accelerators](https://techcrunch.com/2022/09/30/500-globals-take-on-the-rising-competition-among-startup-accelerators/)
+- [International Observe the Moon Night 2022: Don&#39;t miss these livestreams and events on Saturday &lpar;Oct. 1&rpar;](https://www.space.com/international-observe-the-moon-night-2022-livestreams-events/)
+- [Twitter is rolling out a refreshed user interface for DMs on Android](https://techcrunch.com/2022/09/30/twitter-is-rolling-out-a-refreshed-user-interface-for-dms-on-android/)
+- [Twitch is testing ‘elevated chats’ that let you pay to highlight a message](https://techcrunch.com/2022/09/30/twitch-elevated-chat-test/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
