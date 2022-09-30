@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TestGrid is a “one-stop shop” for testing apps at scale](https://techcrunch.com/2022/09/30/testgrid-is-a-one-stop-shop-for-testing-apps-at-scale/)
-- [3D sky: How astronomers measure the size, luminosity and distance of stars](https://www.space.com/measuring-stars-three-dimensional-sky/)
-- [See the crescent moon shine above the red star Antares tonight &lpar;Sept. 30&rpar;](https://www.space.com/crescent-moon-near-antares-sept-2022/)
+- [Everstores, an Open Store-style D2C Shopify aggregator out of Europe, emerges from stealth with €18 million](https://techcrunch.com/2022/09/30/everstores-an-open-store-style-d2c-shopify-aggregator-out-of-europe-emerges-from-stealth-with-e18-million/)
+- [HSBC invests in Singapore’s customer intelligence and risk assessment startup](https://techcrunch.com/2022/09/30/hsbc-investment-singapore-customer-intelligence-risk-assessment-startup-bizbaz-seed-round/)
 - [Behold! Our closest view of Jupiter&#39;s ocean moon Europa in 22 years](https://www.space.com/juno-close-flyby-jupiter-moon-europa-photo/)
-- [Uniswap Labs eyes over $100 million in new funding](https://techcrunch.com/2022/09/30/uniswap-labs-eyes-over-100-million-in-new-funding/)
+- [On This Day In Space: Sept. 30, 2016: Rosetta spacecraft crashes into a comet](https://www.space.com/39251-on-this-day-in-space.html/)
+- [TestGrid is a “one-stop shop” for testing apps at scale](https://techcrunch.com/2022/09/30/testgrid-is-a-one-stop-shop-for-testing-apps-at-scale/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
