@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How Volvo is leaning on software to drive its next great safety revolution](https://techcrunch.com/2022/09/30/how-volvo-is-leaning-on-software-to-drive-its-next-great-safety-revolution/)
+- [Apply to pitch your startup at TC Sessions: Crypto](https://techcrunch.com/2022/09/30/apply-to-pitch-your-startup-at-tc-sessions-crypto/)
+- [Is investor bullishness on embedded insurtech warranted?](https://techcrunch.com/2022/09/30/is-investor-bullishness-on-embedded-insurtech-warranted/)
+- [New evidence for liquid water on Mars suggests the planet is geothermally active](https://www.space.com/mars-liquid-water-south-pole-subglacial/)
 - [Enjoy these exclusive benefits in the TC+ Lounge at Disrupt](https://techcrunch.com/2022/09/30/enjoy-these-exclusive-benefits-in-the-tc-lounge-at-disrupt/)
-- [What are wormholes? An astrophysicist explains these shortcuts through space-time](https://www.space.com/what-are-wormholes-astrophysicist-explains/)
-- [How to watch Tesla AI Day 2022](https://techcrunch.com/2022/09/30/how-to-watch-tesla-ai-day-2022/)
-- [Free the female-presenting nipple and other TC news](https://techcrunch.com/2022/09/30/free-the-female-presenting-nipple-and-other-tc-news/)
-- [Indian market regulator tightens IPO disclosure norms](https://techcrunch.com/2022/09/30/india-market-regulator-ipo-startups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
