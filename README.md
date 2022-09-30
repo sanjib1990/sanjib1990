@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [World Space Week centers space sustainability for this year&#39;s events](https://www.space.com/world-space-week-2022-sustainability-events/)
-- [Chinese automaker Geely snaps up 7.6% stake in Aston Martin](https://techcrunch.com/2022/09/30/chinese-automaker-geely-snaps-up-7-6-stake-in-aston-martin/)
-- [Advanced AI discovers a treasure trove of gravitational lenses](https://www.space.com/gravitational-lens-treasure-trove-discovered/)
-- [VCs at Freestyle, Plexo Capital and Sequoia join Startup Battlefield judges](https://techcrunch.com/2022/09/30/vcs-at-freestyle-plexo-capital-and-sequoia-join-startup-battlefield-judges/)
-- [YouTube TV users can now subscribe to standalone networks without a base plan](https://techcrunch.com/2022/09/30/youtube-tv-users-can-now-subscribe-to-standalone-networks-without-a-base-plan/)
+- [Hurricane Ian regains strength, heads toward South Carolina as NASA&#39;s Florida spaceport recovers](https://www.space.com/hurricane-ian-gains-strength-nasa-ksc-recovery/)
+- [US Space Force gets its 2nd-ever chief](https://www.space.com/senate-confirms-saltzman-space-force-chief/)
+- [Show, don’t tell: Tips for robotics startups raising a Series B during a downturn](https://techcrunch.com/2022/09/30/show-dont-tell-tips-for-robotics-startups-raising-a-series-b-during-a-downturn/)
+- [TechCrunch+ roundup: Insurtech investor survey, H-1B red flags, SaaS sales coaching](https://techcrunch.com/2022/09/30/techcrunch-roundup-insurtech-investor-survey-h-1b-red-flags-saas-sales-coaching/)
+- [Hubble Space Telescope spots protective shield against greedy Milky Way](https://www.space.com/hubble-space-telescope-magellanic-corona/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
