@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Everstores, an Open Store-style D2C Shopify aggregator out of Europe, emerges from stealth with €18 million](https://techcrunch.com/2022/09/30/everstores-an-open-store-style-d2c-shopify-aggregator-out-of-europe-emerges-from-stealth-with-e18-million/)
-- [HSBC invests in Singapore’s customer intelligence and risk assessment startup](https://techcrunch.com/2022/09/30/hsbc-investment-singapore-customer-intelligence-risk-assessment-startup-bizbaz-seed-round/)
-- [Behold! Our closest view of Jupiter&#39;s ocean moon Europa in 22 years](https://www.space.com/juno-close-flyby-jupiter-moon-europa-photo/)
-- [On This Day In Space: Sept. 30, 2016: Rosetta spacecraft crashes into a comet](https://www.space.com/39251-on-this-day-in-space.html/)
-- [TestGrid is a “one-stop shop” for testing apps at scale](https://techcrunch.com/2022/09/30/testgrid-is-a-one-stop-shop-for-testing-apps-at-scale/)
+- [Arrival produces long-awaited battery-electric commercial van](https://techcrunch.com/2022/09/30/arrival-produces-long-awaited-battery-electric-commercial-van/)
+- [The best sci-fi movies and TV shows to stream on Disney Plus in October](https://www.space.com/disney-plus-best-space-scifi-streaming.html/)
+- [Astra brings on new CFO as it looks to scale launch and propulsion businesses](https://techcrunch.com/2022/09/30/astras-bringing-on-axel-martinez-as-new-cfo/)
+- [Why are sunspots black?](https://www.space.com/why-are-sunspots-black/)
+- [Social media a factor in death of UK schoolgirl, inquest finds](https://techcrunch.com/2022/09/30/molly-russell-inquest-verdict/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
