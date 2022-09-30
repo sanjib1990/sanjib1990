@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [40 Windows Commands you NEED to know &lpar;in 10 Minutes&rpar;](https://www.youtube.com/watch?v=Jfvg3CS1X3A)
 - [Unit 2: The Forecast is ‘Always’ wrong, Video 2: Demand Forecasts](https://www.youtube.com/watch?v=pjBsOFUNN34)
 - [Unit 10: Utility Analysis and Multidimensional Evaluation, Video 1: Is Optimization Possible?](https://www.youtube.com/watch?v=cF6he3JbWbs)
 - [Unit 8: Decision Analysis 5 Video 5: Retrospective Overview](https://www.youtube.com/watch?v=8DlysThtgbM)
 - [Unit 5: Mechanics of Simulation, Video 5: Physical Situation](https://www.youtube.com/watch?v=JDmNvQj0I5A)
-- [Unit 4: Parking Garage Case Example, Video 5: Design to Manage Uncertainties](https://www.youtube.com/watch?v=9w73uiDyLHo)
 <!-- YOUTUBE:END -->
 
 ---
