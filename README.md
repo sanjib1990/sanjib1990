@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon launches QVC-style livestream shopping in India](https://techcrunch.com/2022/09/29/amazon-live-commerce-india/)
 - [Why this Blizzard vet thinks the next killer web3 game will come from China](https://techcrunch.com/2022/09/29/china-web3-game-mmo/)
 - [Binance founder Changpeng ‘CZ’ Zhao shares his vision of web3 opportunities at TC Sessions: Crypto](https://techcrunch.com/2022/09/29/binance-founder-changpeng-cz-zhao-shares-his-vision-of-web3-opportunities-at-tc-sessions-crypto/)
 - [SoftBank Vision Fund is reportedly laying off 30% of its workforce, or at least 150 employees](https://techcrunch.com/2022/09/29/softbank-vision-fund-is-reportedly-laying-off-30-of-its-workforce-or-at-least-150-employees/)
 - [SpaceX, NASA look at launching Dragon to service Hubble Space Telescope](https://www.space.com/nasa-spacex-possible-dragon-mission-hubble-space-telescope/)
-- [GV aims to help build a company that can sniff out disease, literally](https://techcrunch.com/2022/09/29/gv-aims-to-help-build-a-company-that-can-sniff-out-disease-literally/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
