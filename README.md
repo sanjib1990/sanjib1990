@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: It’s AI day for Tesla, but we’re here for the cringey texts](https://techcrunch.com/2022/09/30/daily-crunch-its-ai-day-for-tesla-but-were-here-for-the-cringey-texts/)
+- [Hurricane Ian pushes Artemis 1 moon launch to mid-November](https://www.space.com/nasa-artemis-1-moon-mission-november-launch/)
+- [Google appears to have disabled Google Translate in parts of China](https://techcrunch.com/2022/09/30/google-appears-to-have-disabled-google-translate-in-parts-of-china/)
 - [How Volvo is leaning on software to drive its next great safety revolution](https://techcrunch.com/2022/09/30/how-volvo-is-leaning-on-software-to-drive-its-next-great-safety-revolution/)
 - [Apply to pitch your startup at TC Sessions: Crypto](https://techcrunch.com/2022/09/30/apply-to-pitch-your-startup-at-tc-sessions-crypto/)
-- [Is investor bullishness on embedded insurtech warranted?](https://techcrunch.com/2022/09/30/is-investor-bullishness-on-embedded-insurtech-warranted/)
-- [New evidence for liquid water on Mars suggests the planet is geothermally active](https://www.space.com/mars-liquid-water-south-pole-subglacial/)
-- [Enjoy these exclusive benefits in the TC+ Lounge at Disrupt](https://techcrunch.com/2022/09/30/enjoy-these-exclusive-benefits-in-the-tc-lounge-at-disrupt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
