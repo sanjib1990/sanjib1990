@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [mmhmm co-founders are building the great pyramid of hybrid work](https://techcrunch.com/2022/09/29/phil-libin-mmhmm-found/)
-- [Truepill, a digital health unicorn, conducts fourth round of layoffs in 2022](https://techcrunch.com/2022/09/29/truepill-a-digital-health-unicorn-conducts-fourth-round-of-layoffs-in-2022/)
-- [NASA and SpaceX are studying sending a private crew to boost Hubble’s orbit](https://techcrunch.com/2022/09/29/nasa-and-spacex-are-studying-sending-a-private-crew-to-boost-hubbles-orbit/)
-- [Daily Crunch: Google to sunset Stadia in January 2023, will refund hardware purchases](https://techcrunch.com/2022/09/29/daily-crunch-google-to-sunset-stadia-in-january-2023-will-refund-hardware-purchases/)
-- [House Democrats debut new bill to limit US police use of facial recognition](https://techcrunch.com/2022/09/29/house-democrats-facial-recognition-act/)
+- [SoftBank Vision Fund is reportedly laying off 30% of its workforce, or at least 150 employees](https://techcrunch.com/2022/09/29/softbank-vision-fund-is-reportedly-laying-off-30-of-its-workforce-or-at-least-150-employees/)
+- [SpaceX, NASA look at launching Dragon to service Hubble Space Telescope](https://www.space.com/nasa-spacex-possible-dragon-mission-hubble-space-telescope/)
+- [GV aims to help build a company that can sniff out disease, literally](https://techcrunch.com/2022/09/29/gv-aims-to-help-build-a-company-that-can-sniff-out-disease-literally/)
+- [Here are some of the cringiest revelations in the Elon Musk text dump](https://techcrunch.com/2022/09/29/elon-musk-texts-discovery-twitter/)
+- [Google Colaboratory launches a pay-as-you-go option, premium GPU access](https://techcrunch.com/2022/09/29/google-colaboratory-launches-a-pay-as-you-go-option-premium-gpu-access/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
