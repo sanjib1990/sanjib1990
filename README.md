@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [ByteDance’s Pico debuts its Quest rival, but challenges remain](https://techcrunch.com/2022/09/30/bytedance-vr-pico-meta-quest/)
+- [Tesla’s robot strategy is inextricably tied to its Autopilot strategy, for better or for worse](https://techcrunch.com/2022/09/30/teslas-robot-strategy-is-inextricably-tied-to-its-autopilot-strategy-for-better-or-for-worse/)
+- [Tesla’s robot is a real robot now, not just a guy in a suit](https://techcrunch.com/2022/09/30/teslas-robot-is-a-real-robot-now-not-just-a-guy-in-a-suit/)
+- [ByteDance’s Pico debuts its Oculus Quest rival, but challenges remain](https://techcrunch.com/2022/09/30/bytedance-vr-pico-meta-quest/)
 - [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
 - [Daily Crunch: It’s AI day for Tesla, but we’re here for the cringey texts](https://techcrunch.com/2022/09/30/daily-crunch-its-ai-day-for-tesla-but-were-here-for-the-cringey-texts/)
-- [Hurricane Ian pushes Artemis 1 moon launch to mid-November](https://www.space.com/nasa-artemis-1-moon-mission-november-launch/)
-- [Google appears to have disabled Google Translate in parts of China](https://techcrunch.com/2022/09/30/google-appears-to-have-disabled-google-translate-in-parts-of-china/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
