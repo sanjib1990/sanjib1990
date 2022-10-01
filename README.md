@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Celestron NexStar 8SE telescope review](https://www.space.com/celestron-nexstar-8se-telescope-review/)
+- [Firefly Aerospace&#39;s Alpha rocket reaches orbit for 1st time](https://www.space.com/firefly-aerospace-alpha-rocket-launch-success/)
 - [Tesla’s robot strategy is inextricably tied to its Autopilot strategy, for better or for worse](https://techcrunch.com/2022/09/30/teslas-robot-strategy-is-inextricably-tied-to-its-autopilot-strategy-for-better-or-for-worse/)
 - [Tesla’s robot is a real robot now, not just a guy in a suit](https://techcrunch.com/2022/09/30/teslas-robot-is-a-real-robot-now-not-just-a-guy-in-a-suit/)
 - [ByteDance’s Pico debuts its Oculus Quest rival, but challenges remain](https://techcrunch.com/2022/09/30/bytedance-vr-pico-meta-quest/)
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
-- [Daily Crunch: It’s AI day for Tesla, but we’re here for the cringey texts](https://techcrunch.com/2022/09/30/daily-crunch-its-ai-day-for-tesla-but-were-here-for-the-cringey-texts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
