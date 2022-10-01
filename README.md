@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Firefly Aerospace reaches orbit for the first time](https://techcrunch.com/2022/10/01/firefly-aerospace-reaches-orbit-for-the-first-time/)
 - [When is October&#39;s partial solar eclipse and who can see it?](https://www.space.com/when-is-october-partial-solar-eclipse-october-2022/)
 - [Ancient solar eclipse records reveal how Earth&#39;s rotation has changed](https://www.space.com/ancient-eclipse-records-earth-rotation-history/)
 - [Celestron NexStar 8SE telescope review](https://www.space.com/celestron-nexstar-8se-telescope-review/)
 - [Firefly Aerospace&#39;s Alpha rocket reaches orbit for 1st time](https://www.space.com/firefly-aerospace-alpha-rocket-launch-success/)
-- [Tesla’s robot strategy is inextricably tied to its Autopilot strategy, for better or for worse](https://techcrunch.com/2022/09/30/teslas-robot-strategy-is-inextricably-tied-to-its-autopilot-strategy-for-better-or-for-worse/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
