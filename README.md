@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ByteDance’s Pico debuts its Quest rival, but challenges remain](https://techcrunch.com/2022/09/30/bytedance-vr-pico-meta-quest/)
 - [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
 - [Daily Crunch: It’s AI day for Tesla, but we’re here for the cringey texts](https://techcrunch.com/2022/09/30/daily-crunch-its-ai-day-for-tesla-but-were-here-for-the-cringey-texts/)
 - [Hurricane Ian pushes Artemis 1 moon launch to mid-November](https://www.space.com/nasa-artemis-1-moon-mission-november-launch/)
 - [Google appears to have disabled Google Translate in parts of China](https://techcrunch.com/2022/09/30/google-appears-to-have-disabled-google-translate-in-parts-of-china/)
-- [How Volvo is leaning on software to drive its next great safety revolution](https://techcrunch.com/2022/09/30/how-volvo-is-leaning-on-software-to-drive-its-next-great-safety-revolution/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
