@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html/)
+- [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html/)
+- [This Week In Space podcast: Episode 31 — Investing in the Stars](https://www.space.com/this-week-in-space-podcast-twit/)
 - [On This Day In Space: Oct. 1, 1958: Happy Birthday, NASA!](https://www.space.com/39251-on-this-day-in-space.html/)
 - [What is the moon phase today? Lunar phases 2022](https://www.space.com/18880-moon-phases.html/)
-- [&#39;Andor&#39; is intelligent, enthralling sci-fi that should make other studios take note](https://www.space.com/andor-episodes-1-to-3-star-wars-review/)
-- [Web3 banking platform Juno raises $18 million, launches tokenized loyalty program](https://techcrunch.com/2022/10/01/crypto-native-banking-platform-juno-raises-18-million-launches-tokenized-loyalty-program/)
-- [International Observe the Moon Night 2022: Don&#39;t miss these livestreams and events tonight! &lpar;Oct. 1&rpar;](https://www.space.com/international-observe-the-moon-night-2022-livestreams-events/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
