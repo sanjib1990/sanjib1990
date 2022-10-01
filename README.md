@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Telegram cuts subscription fee by more than half in India](https://techcrunch.com/2022/10/01/telegram-premium-india-price-change/)
 - [Meta plans hiring freeze, NASA shoots an asteroid, and Elon’s texts about Twitter are made public](https://techcrunch.com/2022/10/01/meta-plans-hiring-freeze-nasa-shoots-an-asteroid-and-elons-texts-about-twitter-go-public/)
 - [Welcome to spooky season in startups](https://techcrunch.com/2022/10/01/welcome-to-spooky-season-in-startups/)
 - [This Week in Apps: Google goes visual, Twitter copies TikTok, OG app drama](https://techcrunch.com/2022/10/01/this-week-in-apps-google-goes-visual-twitter-copies-tiktok-og-app-drama/)
 - [It’s unclear what will happen in VC in Q4, but it definitely won’t be boring](https://techcrunch.com/2022/10/01/its-unclear-what-will-happen-in-vc-in-q4-but-it-definitely-wont-be-boring/)
-- [The rise of product-led growth is creating opportunities for startups](https://techcrunch.com/2022/10/01/the-rise-of-product-led-growth-is-creating-opportunities-for-startups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
