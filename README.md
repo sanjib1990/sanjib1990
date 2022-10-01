@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The rise of product-led growth is creating opportunities for startups](https://techcrunch.com/2022/10/01/the-rise-of-product-led-growth-is-creating-opportunities-for-startups/)
+- [Stadia died because no one trusts Google](https://techcrunch.com/2022/10/01/stadia-died-because-no-one-trusts-google/)
+- [Build for the future now with Mammoth Biosciences and Mayfield](https://techcrunch.com/2022/10/01/build-for-the-future-now-with-mammoth-biosciences-and-mayfield/)
 - [Binance founder Changpeng ‘CZ’ Zhao shares his vision of web3 opportunities at TC Sessions: Crypto](https://techcrunch.com/2022/10/01/binance-founder-changpeng-cz-zhao-shares-his-vision-of-web3-opportunities-at-tc-sessions-crypto/)
 - [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html/)
-- [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html/)
-- [This Week In Space podcast: Episode 31 — Investing in the Stars](https://www.space.com/this-week-in-space-podcast-twit/)
-- [On This Day In Space: Oct. 1, 1958: Happy Birthday, NASA!](https://www.space.com/39251-on-this-day-in-space.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
