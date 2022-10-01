@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Firefly Aerospace reaches orbit for the first time](https://techcrunch.com/2022/10/01/firefly-aerospace-reaches-orbit-for-the-first-time/)
-- [When is October&#39;s partial solar eclipse and who can see it?](https://www.space.com/when-is-october-partial-solar-eclipse-october-2022/)
-- [Ancient solar eclipse records reveal how Earth&#39;s rotation has changed](https://www.space.com/ancient-eclipse-records-earth-rotation-history/)
-- [Celestron NexStar 8SE telescope review](https://www.space.com/celestron-nexstar-8se-telescope-review/)
-- [Firefly Aerospace&#39;s Alpha rocket reaches orbit for 1st time](https://www.space.com/firefly-aerospace-alpha-rocket-launch-success/)
+- [On This Day In Space: Oct. 1, 1958: Happy Birthday, NASA!](https://www.space.com/39251-on-this-day-in-space.html/)
+- [What is the moon phase today? Lunar phases 2022](https://www.space.com/18880-moon-phases.html/)
+- [&#39;Andor&#39; is intelligent, enthralling sci-fi that should make other studios take note](https://www.space.com/andor-episodes-1-to-3-star-wars-review/)
+- [Web3 banking platform Juno raises $18 million, launches tokenized loyalty program](https://techcrunch.com/2022/10/01/crypto-native-banking-platform-juno-raises-18-million-launches-tokenized-loyalty-program/)
+- [International Observe the Moon Night 2022: Don&#39;t miss these livestreams and events tonight! &lpar;Oct. 1&rpar;](https://www.space.com/international-observe-the-moon-night-2022-livestreams-events/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
