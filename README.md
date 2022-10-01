@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Welcome to spooky season in startups](https://techcrunch.com/2022/10/01/welcome-to-spooky-season-in-startups/)
+- [This Week in Apps: Google goes visual, Twitter copies TikTok, OG app drama](https://techcrunch.com/2022/10/01/this-week-in-apps-google-goes-visual-twitter-copies-tiktok-og-app-drama/)
+- [It’s unclear what will happen in VC in Q4, but it definitely won’t be boring](https://techcrunch.com/2022/10/01/its-unclear-what-will-happen-in-vc-in-q4-but-it-definitely-wont-be-boring/)
 - [The rise of product-led growth is creating opportunities for startups](https://techcrunch.com/2022/10/01/the-rise-of-product-led-growth-is-creating-opportunities-for-startups/)
 - [Stadia died because no one trusts Google](https://techcrunch.com/2022/10/01/stadia-died-because-no-one-trusts-google/)
-- [Build for the future now with Mammoth Biosciences and Mayfield](https://techcrunch.com/2022/10/01/build-for-the-future-now-with-mammoth-biosciences-and-mayfield/)
-- [Binance founder Changpeng ‘CZ’ Zhao shares his vision of web3 opportunities at TC Sessions: Crypto](https://techcrunch.com/2022/10/01/binance-founder-changpeng-cz-zhao-shares-his-vision-of-web3-opportunities-at-tc-sessions-crypto/)
-- [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
