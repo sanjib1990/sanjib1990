@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [24 hours left to apply to volunteer at TechCrunch Disrupt and attend for free](https://techcrunch.com/2022/10/02/24-hours-left-to-volunteer-at-techcrunch-disrupt-and-attend-for-free/)
 - [Despite the venture slowdown, fintech startups are still hiring](https://techcrunch.com/2022/10/02/despite-the-venture-slowdown-fintech-startups-are-still-hiring/)
 - [The biological theory that explains why investors are bullish on fusion](https://techcrunch.com/2022/10/02/the-biological-theory-that-explains-why-investors-are-bullish-on-fusion/)
 - [Form Bio says now is the time to launch — despite cooling software sales](https://techcrunch.com/2022/10/02/form-bio-says-now-is-the-time-to-launch-despite-cooling-software-sales/)
 - [Nikon Nikkor Z 24-70mm f/2.8 S lens review](https://www.space.com/nikon-z-24-70-f28-s-lens-review/)
-- [Super-Earths are more common and more habitable than Earth. Astronomers are finding more of the billions out there.](https://www.space.com/super-earths-more-habitable-finding-more/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
