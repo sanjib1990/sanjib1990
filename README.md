@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Super-Earths are more common and more habitable than Earth. Astronomers are finding more of the billions out there.](https://www.space.com/super-earths-more-habitable-finding-more/)
+- [Gamma rays from a dwarf galaxy solve an astronomical puzzle](https://www.space.com/gamma-rays-from-dwarf-galaxy-solve-puzzle/)
 - [What is the moon phase today? Lunar phases 2022](https://www.space.com/18880-moon-phases.html/)
 - [Rare diamonds suggest water lurks much deeper in Earth&#39;s interior than scientists thought](https://www.space.com/diamond-inclusion-water-earth-lower-mantle/)
 - [On This Day In Space: Oct. 2, 2015: 100th liftoff for United Launch Alliance](https://www.space.com/39251-on-this-day-in-space.html/)
-- [See the moon appear half-lit during its closest first quarter phase tonight &lpar;Oct. 2&rpar;](https://www.space.com/moon-first-quarter-october-2022/)
-- [Missing element for life may be present in ocean of Saturn&#39;s moon Enceladus](https://www.space.com/saturn-moon-enceladus-ocean-phosphorus/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
