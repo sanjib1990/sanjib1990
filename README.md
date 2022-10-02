@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See the moon appear half-lit during its closest first quarter phase tonight &lpar;Oct. 2&rpar;](https://www.space.com/moon-first-quarter-october-2022/)
+- [Missing element for life may be present in ocean of Saturn&#39;s moon Enceladus](https://www.space.com/saturn-moon-enceladus-ocean-phosphorus/)
+- [SpaceX Crew-5 astronauts arrive at launch site for Oct. 5 liftoff](https://www.space.com/spacex-crew-5-astronauts-arrive-launch-site/)
+- [Look up! See the Orionid meteor shower from Sunday &lpar;Oct. 2&rpar;](https://www.space.com/see-orionid-meteor-shower-from-sunday-oct-2/)
 - [Telegram cuts subscription fee by more than half in India](https://techcrunch.com/2022/10/01/telegram-premium-india-price-change/)
-- [Meta plans hiring freeze, NASA shoots an asteroid, and Elon’s texts about Twitter are made public](https://techcrunch.com/2022/10/01/meta-plans-hiring-freeze-nasa-shoots-an-asteroid-and-elons-texts-about-twitter-go-public/)
-- [Welcome to spooky season in startups](https://techcrunch.com/2022/10/01/welcome-to-spooky-season-in-startups/)
-- [This Week in Apps: Google goes visual, Twitter copies TikTok, OG app drama](https://techcrunch.com/2022/10/01/this-week-in-apps-google-goes-visual-twitter-copies-tiktok-og-app-drama/)
-- [It’s unclear what will happen in VC in Q4, but it definitely won’t be boring](https://techcrunch.com/2022/10/01/its-unclear-what-will-happen-in-vc-in-q4-but-it-definitely-wont-be-boring/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
