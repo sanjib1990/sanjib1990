@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Form Bio says now is the time to launch — despite cooling software sales](https://techcrunch.com/2022/10/02/form-bio-says-now-is-the-time-to-launch-despite-cooling-software-sales/)
+- [Nikon Nikkor Z 24-70mm f/2.8 S lens review](https://www.space.com/nikon-z-24-70-f28-s-lens-review/)
 - [Super-Earths are more common and more habitable than Earth. Astronomers are finding more of the billions out there.](https://www.space.com/super-earths-more-habitable-finding-more/)
 - [Gamma rays from a dwarf galaxy solve an astronomical puzzle](https://www.space.com/gamma-rays-from-dwarf-galaxy-solve-puzzle/)
 - [What is the moon phase today? Lunar phases 2022](https://www.space.com/18880-moon-phases.html/)
-- [Rare diamonds suggest water lurks much deeper in Earth&#39;s interior than scientists thought](https://www.space.com/diamond-inclusion-water-earth-lower-mantle/)
-- [On This Day In Space: Oct. 2, 2015: 100th liftoff for United Launch Alliance](https://www.space.com/39251-on-this-day-in-space.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
