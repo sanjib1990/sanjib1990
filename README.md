@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Prosus calls off $4.7 billion BillDesk acquisition deal](https://techcrunch.com/2022/10/02/payu-calls-off-4-7-billion-billdesk-acquisition-deal/)
 - [Lemonade leans on Aviva to bring its next-gen insurance platform to the UK](https://techcrunch.com/2022/10/02/lemonade-leans-on-aviva-to-bring-its-next-gen-insurance-platform-to-the-uk/)
 - [Tesla delivered a record 343,830 vehicles in Q3, but still missed Wall Street’s forecasts](https://techcrunch.com/2022/10/02/tesla-delivered-a-record-343830-vehicles-in-q3-but-still-missed-wall-streets-forecasts/)
 - [24 hours left to apply to volunteer at TechCrunch Disrupt and attend for free](https://techcrunch.com/2022/10/02/24-hours-left-to-volunteer-at-techcrunch-disrupt-and-attend-for-free/)
 - [Despite the venture slowdown, fintech startups are still hiring](https://techcrunch.com/2022/10/02/despite-the-venture-slowdown-fintech-startups-are-still-hiring/)
-- [The biological theory that explains why investors are bullish on fusion](https://techcrunch.com/2022/10/02/the-biological-theory-that-explains-why-investors-are-bullish-on-fusion/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
