@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Geely’s Europe expansion continues, Argo robotaxis on the Lyft app and Tesla AI Day takeaways](https://techcrunch.com/2022/10/03/geelys-europe-expansion-continues-argo-robotaxis-on-the-lyft-app-and-tesla-ai-day-takeaways/)
-- [Can stringy physics rescue the universe from a catastrophic transformation?](https://www.space.com/string-theory-rescue-universe-instability/)
-- [Near-Earth asteroid Ryugu was born in the outer solar system 4 billion years ago](https://www.space.com/asteroid-ryugu-analysis-4-billion-years/)
-- [Scientists need your help to confirm Jupiter-like exoplanets](https://www.space.com/exoplanet-detection-citizen-science-program-tess/)
-- [South African startup Talk360’s seed funding hits $7M after new backing](https://techcrunch.com/2022/10/03/south-african-startup-talk360s-seed-funding-hits-7m-after-new-backing/)
+- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html/)
+- [Loop raises $60M to send EV charging infrastructure for a Loop](https://techcrunch.com/2022/10/03/loop-ev-charging-series-a/)
+- [Kim Kardashian charged by SEC for pushing crypto, reaches $1.26M settlement](https://techcrunch.com/2022/10/03/kim-kardashian-charged-by-sec-for-pushing-crypto-reaches-1-26m-settlement/)
+- [Deliveroo tweaks ‘dark store’ model to let grocery shoppers in the door](https://techcrunch.com/2022/10/03/deliveroo-hop-store/)
+- [With $17M in funding, Immerok launches cloud service for real-time streaming data](https://techcrunch.com/2022/10/03/with-17m-in-funding-immerok-launches-cloud-service-for-real-time-streaming-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
