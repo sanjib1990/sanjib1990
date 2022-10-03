@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html/)
-- [Loop raises $60M to send EV charging infrastructure for a Loop](https://techcrunch.com/2022/10/03/loop-ev-charging-series-a/)
-- [Kim Kardashian charged by SEC for pushing crypto, reaches $1.26M settlement](https://techcrunch.com/2022/10/03/kim-kardashian-charged-by-sec-for-pushing-crypto-reaches-1-26m-settlement/)
-- [Deliveroo tweaks ‘dark store’ model to let grocery shoppers in the door](https://techcrunch.com/2022/10/03/deliveroo-hop-store/)
-- [With $17M in funding, Immerok launches cloud service for real-time streaming data](https://techcrunch.com/2022/10/03/with-17m-in-funding-immerok-launches-cloud-service-for-real-time-streaming-data/)
+- [Amazon is launching a dedicated hub for its affordable shopping options](https://techcrunch.com/2022/10/03/amazon-hub-affordable-shopping-options/)
+- [Rivian taps Capital One exec Diane Lye as its first CIO](https://techcrunch.com/2022/10/03/rivian-draft/)
+- [Newborn volcanic island spotted from space &lpar;satellite photo&rpar;](https://www.space.com/newborn-volcanic-island-tonga-landsat-9-satellite-photo/)
+- [Hackers leak 500GB trove of data stolen during LAUSD ransomware attack](https://techcrunch.com/2022/10/03/los-angeles-school-district-ransomware-data/)
+- [3 guiding FinOps principles that will help you explain cloud costs to the board](https://techcrunch.com/2022/10/03/3-guiding-finops-principles-that-will-help-you-explain-cloud-costs-to-the-board/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
