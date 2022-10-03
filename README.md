@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Beats: Italian antitrust fine for Apple and Amazon cancelled on appeal](https://techcrunch.com/2022/10/03/italy-antitrust-amazon-apple-beats-fine-cancelled/)
-- [Best telescopes 2022: Top picks for viewing planets, galaxies, stars and more](https://www.space.com/15693-telescopes-beginners-telescope-reviews-buying-guide.html/)
-- [Kahani wants to turn your e-commerce website into an interactive experience](https://techcrunch.com/2022/10/03/kahani-e-commerce-interactive-mobile/)
-- [India loses contact with Mars orbiter: reports](https://www.space.com/india-mars-orbiter-mission-loses-contact/)
-- [AT&amp;T talks driving innovation through collaboration at Disrupt](https://techcrunch.com/2022/10/03/att-drives-innovation-through-collaboration-at-disrupt/)
+- [Twitter’s edit button is rolling out to Blue subscribers in Canada, Australia and New Zealand](https://techcrunch.com/2022/10/03/twitters-edit-button-is-rolling-out-to-blue-subscribers-in-canada-australia-and-new-zealand/)
+- [Watch SpaceX launch 52 more Starlink satellites, land rocket tonight](https://www.space.com/spacex-starlink-satellite-launch-group-4-2/)
+- [Why aren’t we seeing more aggressive SaaS M&amp;A?](https://techcrunch.com/2022/10/03/why-arent-we-seeing-more-aggressive-saas-ma/)
+- [Google’s GV backs SideQuest, an unofficial Meta Quest app store](https://techcrunch.com/2022/10/03/googles-gv-backs-sidequest-an-unofficial-meta-quest-app-store/)
+- [Bumble is testing a speed dating feature where users chat before matching](https://techcrunch.com/2022/10/03/bumble-is-testing-a-speed-dating-feature-where-users-chat-before-matching/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
