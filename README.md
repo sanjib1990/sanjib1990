@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tier Mobility-owned Spin lays off about 10% of workforce, exits two markets](https://techcrunch.com/2022/10/03/tier-mobility-owned-spin-lays-off-about-10-of-workforce-exits-two-markets/)
+- [What tech tycoon Richard Liu’s sexual misconduct case means for China’s #MeToo](https://techcrunch.com/2022/10/03/richard-liu-jd-com-sexual-assault-case-settlement-metoo/)
+- [Meta settles lawsuit for ‘significant’ sum against businesses scraping Facebook and Instagram data](https://techcrunch.com/2022/10/03/meta-settles-lawsuit-for-significant-sum-against-businesses-scraping-facebook-and-instagram-data/)
 - [NASA Webb Image Coming This Week](https://blogs.nasa.gov/webb/2022/10/03/nasa-webb-image-coming-this-week/)
-- [SpaceX rolls rocket to pad ahead of Crew-5 astronaut launch &lpar;photos&rpar;](https://www.space.com/spacex-rolls-crew-5-rocket-launch-pad-photos/)
-- [World Space Week 2022 centers space sustainability for the future](https://www.space.com/world-space-week-2022-sustainability-events/)
-- [Watch live: SpaceX&#39;s Crew-5 readies for International Space Station launch](https://www.space.com/spacex-crew-5-international-space-station-watch-live/)
-- [I will defend the $700M fizzy water](https://techcrunch.com/2022/10/03/i-will-defend-the-700m-fizzy-water/)
+- [Edited tweets is still a minefield, but Twitter’s solution just might work](https://techcrunch.com/2022/10/03/edited-tweets-is-a-minefield/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
