@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Best cameras for photos and videos 2022](https://www.space.com/best-cameras/)
+- [Vodafone confirms merger talks with Three UK in a “no cash” deal to scale up in 5G](https://techcrunch.com/2022/10/03/vodafone-confirms-merger-talks-with-three-uk-in-a-no-cash-deal-to-scale-up-in-5g/)
+- [Welcome to Q4, crypto fans and Tesla stans](https://techcrunch.com/2022/10/03/welcome-to-q4-crypto-fans-and-tesla-stans/)
+- [Major solar flare disrupts Hurricane Ian disaster response](https://www.space.com/major-solar-flare-radio-blackout-hurricane-ian/)
 - [Amazon is launching a dedicated hub for its affordable shopping options](https://techcrunch.com/2022/10/03/amazon-hub-affordable-shopping-options/)
-- [Rivian taps Capital One exec Diane Lye as its first CIO](https://techcrunch.com/2022/10/03/rivian-draft/)
-- [Newborn volcanic island spotted from space &lpar;satellite photo&rpar;](https://www.space.com/newborn-volcanic-island-tonga-landsat-9-satellite-photo/)
-- [Hackers leak 500GB trove of data stolen during LAUSD ransomware attack](https://techcrunch.com/2022/10/03/los-angeles-school-district-ransomware-data/)
-- [3 guiding FinOps principles that will help you explain cloud costs to the board](https://techcrunch.com/2022/10/03/3-guiding-finops-principles-that-will-help-you-explain-cloud-costs-to-the-board/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
