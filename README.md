@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA Webb Image Coming This Week](https://blogs.nasa.gov/webb/2022/10/03/nasa-webb-image-coming-this-week/)
+- [SpaceX rolls rocket to pad ahead of Crew-5 astronaut launch &lpar;photos&rpar;](https://www.space.com/spacex-rolls-crew-5-rocket-launch-pad-photos/)
 - [World Space Week 2022 centers space sustainability for the future](https://www.space.com/world-space-week-2022-sustainability-events/)
 - [Watch live: SpaceX&#39;s Crew-5 readies for International Space Station launch](https://www.space.com/spacex-crew-5-international-space-station-watch-live/)
 - [I will defend the $700M fizzy water](https://techcrunch.com/2022/10/03/i-will-defend-the-700m-fizzy-water/)
-- [Draymond Green will flip the script at TechCrunch Disrupt](https://techcrunch.com/2022/10/03/draymond-green-will-flip-the-script-at-techcrunch-disrupt/)
-- [Best space books for 2022](https://www.space.com/28973-best-space-books.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
