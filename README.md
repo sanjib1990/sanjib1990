@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Best cameras for photos and videos 2022](https://www.space.com/best-cameras/)
-- [Vodafone confirms merger talks with Three UK in a “no cash” deal to scale up in 5G](https://techcrunch.com/2022/10/03/vodafone-confirms-merger-talks-with-three-uk-in-a-no-cash-deal-to-scale-up-in-5g/)
-- [Welcome to Q4, crypto fans and Tesla stans](https://techcrunch.com/2022/10/03/welcome-to-q4-crypto-fans-and-tesla-stans/)
-- [Major solar flare disrupts Hurricane Ian disaster response](https://www.space.com/major-solar-flare-radio-blackout-hurricane-ian/)
-- [Amazon is launching a dedicated hub for its affordable shopping options](https://techcrunch.com/2022/10/03/amazon-hub-affordable-shopping-options/)
+- [Pregnancy in space: Studying stem cells in zero gravity may determine whether it&#39;s safe](https://www.space.com/pregnancy-in-space-stem-cells-zero-gravity/)
+- [Mad Realities’ Devin Lewtan talks onboarding new crypto users through content at TC Sessions: Crypto](https://techcrunch.com/2022/10/03/mad-realities-devin-lewtan-talks-onboarding-new-crypto-users-through-content-at-tc-sessions-crypto/)
+- [BeReal gets its own Saturday Night Live skit](https://techcrunch.com/2022/10/03/bereal-saturday-night-live-snl-skit/)
+- [Venmo rolls out ‘Charity Profiles’ to allow charities to raise funds directly within its app](https://techcrunch.com/2022/10/03/venmo-charity-profiles-raise-funds-directly-within-app/)
+- [Best cameras for low light photography](https://www.space.com/best-cameras-for-low-light-photography/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
