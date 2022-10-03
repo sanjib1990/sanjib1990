@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Tier Mobility-owned Spin lays off about 10% of workforce, exits two markets](https://techcrunch.com/2022/10/03/tier-mobility-owned-spin-lays-off-about-10-of-workforce-exits-two-markets/)
-- [What tech tycoon Richard Liu’s sexual misconduct case means for China’s #MeToo](https://techcrunch.com/2022/10/03/richard-liu-jd-com-sexual-assault-case-settlement-metoo/)
-- [Meta settles lawsuit for ‘significant’ sum against businesses scraping Facebook and Instagram data](https://techcrunch.com/2022/10/03/meta-settles-lawsuit-for-significant-sum-against-businesses-scraping-facebook-and-instagram-data/)
-- [NASA Webb Image Coming This Week](https://blogs.nasa.gov/webb/2022/10/03/nasa-webb-image-coming-this-week/)
-- [Edited tweets is still a minefield, but Twitter’s solution just might work](https://techcrunch.com/2022/10/03/edited-tweets-is-a-minefield/)
+- [Daily Crunch: Vice Society hackers post 500GB of data stolen from LA school district to dark web](https://techcrunch.com/2022/10/03/daily-crunch-vice-society-hackers-post-500gb-of-data-stolen-from-la-school-district-to-dark-web/)
+- [Max Q: Hubble hubble, toil and trouble](https://techcrunch.com/2022/10/03/max-q-hubble-hubble-toil-and-trouble/)
+- [The Supreme Court takes on Section 230](https://techcrunch.com/2022/10/03/the-supreme-court-takes-on-section-230/)
+- [Twitter expands access to its experimental Status feature…but not to its paid subscribers](https://techcrunch.com/2022/10/03/twitter-expands-access-to-its-experimental-status-feature-but-not-to-its-paid-subscribers/)
+- [Rivian made 7,363 of its EV pickups and SUVs in Q3](https://techcrunch.com/2022/10/03/rivian-production-delivery-numbers-q3-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
