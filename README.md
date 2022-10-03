@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Geely’s Europe expansion continues, Argo robotaxis on the Lyft app and Tesla AI Day takeaways](https://techcrunch.com/2022/10/03/geelys-europe-expansion-continues-argo-robotaxis-on-the-lyft-app-and-tesla-ai-day-takeaways/)
+- [Can stringy physics rescue the universe from a catastrophic transformation?](https://www.space.com/string-theory-rescue-universe-instability/)
+- [Near-Earth asteroid Ryugu was born in the outer solar system 4 billion years ago](https://www.space.com/asteroid-ryugu-analysis-4-billion-years/)
+- [Scientists need your help to confirm Jupiter-like exoplanets](https://www.space.com/exoplanet-detection-citizen-science-program-tess/)
 - [South African startup Talk360’s seed funding hits $7M after new backing](https://techcrunch.com/2022/10/03/south-african-startup-talk360s-seed-funding-hits-7m-after-new-backing/)
-- [TikTok said to be launching live shopping in the US](https://techcrunch.com/2022/10/03/tiktok-said-to-be-launching-live-shopping-in-the-us/)
-- [Prosus terminates $4.7 billion acquisition of India’s BillDesk](https://techcrunch.com/2022/10/02/payu-calls-off-4-7-billion-billdesk-acquisition-deal/)
-- [Lemonade leans on Aviva to bring its next-gen insurance platform to the UK](https://techcrunch.com/2022/10/02/lemonade-leans-on-aviva-to-bring-its-next-gen-insurance-platform-to-the-uk/)
-- [Tesla delivered a record 343,830 vehicles in Q3, but still missed Wall Street’s forecasts](https://techcrunch.com/2022/10/02/tesla-delivered-a-record-343830-vehicles-in-q3-but-still-missed-wall-streets-forecasts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
