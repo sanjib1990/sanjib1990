@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Party Round’s rebrand is banking on founder bank accounts](https://techcrunch.com/2022/10/04/party-rounds-rebrand-is-banking-on-founder-bank-accounts/)
+- [White House proposes voluntary safety and transparency rules around AI](https://techcrunch.com/2022/10/04/white-house-proposes-voluntary-safety-and-transparency-rules-around-ai/)
+- [Atlas V rocket launches 2 communications satellites to orbit](https://www.space.com/atlas-v-rocket-ses-20-ses-21-launch/)
+- [China officially bans fruit flavorings in e-cigarettes](https://techcrunch.com/2022/10/04/china-ban-fruit-flavored-vaping-ecig/)
 - [Daily Crunch: Blocking VLC player downloads violates Indian law, claims VideoLAN in legal challenge](https://techcrunch.com/2022/10/04/daily-crunch-blocking-vlc-player-downloads-violates-indian-law-claims-videolan-in-legal-challenge/)
-- [Just before Musk backtracked, a judge said Twitter could hunt for secret chats with whistleblower](https://techcrunch.com/2022/10/04/twitter-musk-zatko-whistleblower-anonymous-email/)
-- [Russia debates staying on ISS past 2024 despite tensions](https://techcrunch.com/2022/10/04/russia-debates-staying-on-iss-past-2024-despite-tensions/)
-- [SpaceX delays launch of Starlink satellites to make way for Crew-5 astronaut flight](https://www.space.com/spacex-delays-starlink-launch-crew-5-astronaut-mission/)
-- [Kickstarter CEO Everette Taylor on blockchain, inclusion, unions and the future of crowdfunding](https://techcrunch.com/2022/10/04/kickstarter-ceo-everette-taylor/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
