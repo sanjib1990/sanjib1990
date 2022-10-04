@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX astronaut missions for NASA: Crew-5 live updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates/)
-- [After DART crash, asteroid Dimorphos sports a tail of debris thousands of miles long](https://www.space.com/dart-asteroid-impact-debris-tail-photo/)
-- [3 takeaways from the Poshmark-Naver deal](https://techcrunch.com/2022/10/04/3-takeaways-from-the-poshmark-naver-deal/)
-- [Railsr, formerly Railsbank, raises $46M for embedded finance, says it now has 300 customers](https://techcrunch.com/2022/10/04/railsr-formerly-railsbank-raises-46m-for-embedded-finance-says-it-now-has-300-customers/)
-- [Hurricane Ian&#39;s Florida destruction seen from space &lpar;satellite photos&rpar;](https://www.space.com/hurricane-ian-destruction-satellite-photos/)
+- [Zipline’s drones to deliver medicine in Salt Lake City area](https://techcrunch.com/2022/10/04/ziplines-drones-to-deliver-medicine-in-salt-lake-city-area/)
+- [Instagram to increase ad load as Meta fights revenue decline](https://techcrunch.com/2022/10/04/instagram-to-increase-ad-load-as-meta-fights-revenue-decline/)
+- [Matter’s Internet of Things standard, certification ready for developers](https://techcrunch.com/2022/10/04/matters-internet-of-things-standard/)
+- [Scrapped Mars &#39;fetch rover&#39; may have a future on the moon](https://www.space.com/mars-sample-fetch-rover-possible-moon-mission/)
+- [Wireless power company Emrod beams 550 W across an Airbus warehouse](https://techcrunch.com/2022/10/04/wireless-power-company-emrod-beams-550-w-across-an-airbus-warehouse/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
