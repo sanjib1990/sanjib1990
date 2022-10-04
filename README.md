@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [VLC-developer VideoLAN sends legal notice to Indian ministries over ban](https://techcrunch.com/2022/10/04/vlc-developer-videolan-sends-legal-notice-to-indian-ministries-over-ban/)
+- [Egyptian venture capital firm Algebra Ventures hits first close of second fund at $100M](https://techcrunch.com/2022/10/03/algebra-ventures-hits-first-close-of-second-fund-at-100m/)
+- [GIC backs Indian EV startup Euler Motors in $60 million funding](https://techcrunch.com/2022/10/03/gic-backs-indian-ev-startup-euler-motors-in-60-million-funding/)
 - [SpaceX still on track to launch Crew-5 astronaut mission for NASA Wednesday](https://www.space.com/spacex-crew-5-mission-october-5-launch/)
 - [Activision Blizzard illegally withheld raises from unionizing workers, labor board finds](https://techcrunch.com/2022/10/03/activision-blizzard-illegally-withheld-raises-from-unionizing-workers-labor-board-finds/)
-- [Drowning in trash: Google opens applications for circular-economy accelerator](https://techcrunch.com/2022/10/03/google-accelerator-circular-economy-startups-trash/)
-- [Bessemer backs SaaS platform that automates billing workflows](https://techcrunch.com/2022/10/03/saas-billing-platform-zenskar-funding-bessemer-ventures-partners/)
-- [Elon Musk steps in it  — “F#ck off is my very diplomatic reply to you”](https://techcrunch.com/2022/10/03/elon-musk-stepped-in-it-again-today-fck-off-is-my-very-diplomatic-reply-to-you/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
