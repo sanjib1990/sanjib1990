@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This startup out of Carnegie Mellon wrangled my tabs once and for all](https://techcrunch.com/2022/10/04/this-startup-out-of-carnegie-mellon-wrangled-my-tabs-once-and-for-all/)
+- [Substack officially launches its ‘Reader’ Android app](https://techcrunch.com/2022/10/04/substack-android-version-reader-app/)
+- [It’s official, Elon Musk is buying Twitter](https://techcrunch.com/2022/10/04/elon-intends-buy-twitter/)
 - [Meta shuts down Bulletin newsletters, moves resources to its discovery algorithm](https://techcrunch.com/2022/10/04/bulletin-newsletter-shut-down-meta-facebook/)
 - [‘Grocery sharing’ app Recelery lets users resell food items to help minimize waste](https://techcrunch.com/2022/10/04/grocery-sharing-app-recelery-lets-users-resell-their-food-items/)
-- [Crypto losses total $428M in Q3, down 36% from previous quarter](https://techcrunch.com/2022/10/04/crypto-losses-total-428m-in-q3-down-36-from-previous-quarter/)
-- [Binance founder Changpeng ‘CZ’ Zhao shares his vision of web3 opportunities at TC Sessions: Crypto](https://techcrunch.com/2022/10/04/binance-founder-changpeng-cz-zhao-shares-his-vision-of-web3-opportunities-at-tc-sessions-crypto/)
-- [Google debuts a new Nest Doorbell, faster Wi-Fi router and redesigned Home app](https://techcrunch.com/2022/10/04/google-home-nest-doorbell-wifi/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
