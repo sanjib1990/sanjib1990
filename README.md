@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX still on track to launch Crew-5 astronaut mission for NASA Wednesday](https://www.space.com/spacex-crew-5-mission-october-5-launch/)
 - [Activision Blizzard illegally withheld raises from unionizing workers, labor board finds](https://techcrunch.com/2022/10/03/activision-blizzard-illegally-withheld-raises-from-unionizing-workers-labor-board-finds/)
 - [Drowning in trash: Google opens applications for circular-economy accelerator](https://techcrunch.com/2022/10/03/google-accelerator-circular-economy-startups-trash/)
 - [Bessemer backs SaaS platform that automates billing workflows](https://techcrunch.com/2022/10/03/saas-billing-platform-zenskar-funding-bessemer-ventures-partners/)
-- [Elon Musk stepped in it again today — “F#ck off is my very diplomatic reply to you”](https://techcrunch.com/2022/10/03/elon-musk-stepped-in-it-again-today-fck-off-is-my-very-diplomatic-reply-to-you/)
-- [UK pauses data reform bill to rethink how to replace GDPR](https://techcrunch.com/2022/10/03/uk-data-reform-bill-replace-gdpr/)
+- [Elon Musk steps in it  — “F#ck off is my very diplomatic reply to you”](https://techcrunch.com/2022/10/03/elon-musk-stepped-in-it-again-today-fck-off-is-my-very-diplomatic-reply-to-you/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
