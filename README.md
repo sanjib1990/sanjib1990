@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Best binoculars for kids: lightweight and compact models to view the stars](https://www.space.com/best-binoculars-for-kids/)
-- [Northrop Grumman names &#39;SS Sally Ride&#39; cargo craft for first US woman in space](https://www.space.com/northrop-grumman-ng18-sally-ride/)
-- [Europe gives final sign off to rebooted ecommerce rules](https://techcrunch.com/2022/10/04/digital-services-act-adopted/)
-- [Best telescopes for deep space](https://www.space.com/best-telescopes-for-deep-space/)
-- [Best telescopes for seeing planets in 2022](https://www.space.com/best-telescopes-for-seeing-planets/)
+- [Investing app Stash adds crypto offering, passes $125M in annual revenue](https://techcrunch.com/2022/10/04/stash-crypto-revenue-investing-fintech-wealthtech-startup/)
+- [EU vote paves way for USB-C to be common device charger in 2024](https://techcrunch.com/2022/10/04/eu-usb-c-common-charger-parliament-vote/)
+- [Partake Foods whips up new allergy-friendly products following new cash infusion](https://techcrunch.com/2022/10/04/partake-foods-allergy-friendly-series-b/)
+- [Humaans raises $15M to simplify HR tasks like onboarding](https://techcrunch.com/2022/10/04/humaans-raises-15m-to-simplify-hr-tasks-like-onboarding/)
+- [In 2019 this VC decided to invest in diverse founders. Three years later it’s already starting a second fund](https://techcrunch.com/2022/10/04/in-2019-this-vc-decided-to-invest-in-diverse-founders-three-years-later-its-already-starting-a-second-fund/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
