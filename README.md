@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Yeah, no, most VCs still don’t really care about your path to profitability](https://techcrunch.com/2022/10/04/yeah-no-most-vcs-still-dont-really-care-about-your-path-to-profitability/)
-- [Google Japan’s outlandish keyboards might be the best running joke in tech](https://techcrunch.com/2022/10/04/google-japans-outlandish-keyboards-might-be-the-best-running-joke-in-tech/)
-- [Elon Musk re-ups offer to buy Twitter for $44 billion: reports](https://www.space.com/elon-musk-offers-buy-twitter-again/)
-- [This startup out of Carnegie Mellon wrangled my tabs once and for all](https://techcrunch.com/2022/10/04/this-startup-out-of-carnegie-mellon-wrangled-my-tabs-once-and-for-all/)
-- [Duolingo makes its first official acquisition, with more to come](https://techcrunch.com/2022/10/04/duolingo-makes-its-first-official-acquisition-with-more-to-come/)
+- [Daily Crunch: Blocking VLC player downloads violates Indian law, claims VideoLAN in legal challenge](https://techcrunch.com/2022/10/04/daily-crunch-blocking-vlc-player-downloads-violates-indian-law-claims-videolan-in-legal-challenge/)
+- [Just before Musk backtracked, a judge said Twitter could hunt for secret chats with whistleblower](https://techcrunch.com/2022/10/04/twitter-musk-zatko-whistleblower-anonymous-email/)
+- [Russia debates staying on ISS past 2024 despite tensions](https://techcrunch.com/2022/10/04/russia-debates-staying-on-iss-past-2024-despite-tensions/)
+- [SpaceX delays launch of Starlink satellites to make way for Crew-5 astronaut flight](https://www.space.com/spacex-delays-starlink-launch-crew-5-astronaut-mission/)
+- [Kickstarter CEO Everette Taylor on blockchain, inclusion, unions and the future of crowdfunding](https://techcrunch.com/2022/10/04/kickstarter-ceo-everette-taylor/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
