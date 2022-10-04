@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How much to pay your engineer? This startup will tell you](https://techcrunch.com/2022/10/04/this-startup-wants-to-help-other-startups-figure-out-compensation/)
-- [SpaceX could launch 52 more Starlink satellites tonight &lpar;Oct. 4&rpar;. Here&#39;s how to watch.](https://www.space.com/spacex-starlink-satellite-launch-group-4-2/)
-- [Confluent launches visual streaming data pipeline designer](https://techcrunch.com/2022/10/04/confluent-launches-visual-streaming-data-pipeline-designer/)
-- [Leica binocular deals: The lowest prices on top-tier models](https://www.space.com/leica-binoculars-deals/)
-- [Asteroid that killed the dinosaurs also triggered global tsunami](https://www.space.com/asteroid-killed-dinosaur-triggered-global-tsunami/)
+- [SingleStore raises $30M more to brings its database tech to new customers](https://techcrunch.com/2022/10/04/singlestore-raises-30m-more-to-brings-its-database-tech-to-new-customers/)
+- [3 takeaways from the Poshmark-Naver deal](https://techcrunch.com/2022/10/04/3-takeaways-from-the-poshmark-naver-deal/)
+- [Railsr, formerly Railsbank, raises $46M for embedded finance, says it now has 300 customers](https://techcrunch.com/2022/10/04/railsr-formerly-railsbank-raises-46m-for-embedded-finance-says-it-now-has-300-customers/)
+- [Hurricane Ian&#39;s Florida destruction seen from space &lpar;satellite photos&rpar;](https://www.space.com/hurricane-ian-destruction-satellite-photos/)
+- [Xiaomi’s latest flagship has a 200-megapixel sensor — so don’t think spec race is over](https://techcrunch.com/2022/10/04/xiaomis-latest-flagship-has-a-200-megapixel-sensor-so-dont-think-spec-race-is-over/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
