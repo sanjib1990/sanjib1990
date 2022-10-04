@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Nigerian proptech Spleet gets $2.8M led by MaC VC to scale its property management products](https://techcrunch.com/2022/10/04/nigerian-proptech-spleet-gets-2-8m-led-by-mac-vc-to-scale-its-property-management-products/)
-- [Best mirrorless cameras in 2022](https://www.space.com/best-mirrorless-cameras/)
-- [App Store experienced sharp revenue drop in September, Morgan Stanley says](https://techcrunch.com/2022/10/04/app-store-experienced-sharp-revenue-drop-in-september-morgan-stanley-says/)
-- [VLC-developer VideoLAN sends legal notice to Indian ministries over ban](https://techcrunch.com/2022/10/04/vlc-developer-videolan-sends-legal-notice-to-indian-ministries-over-ban/)
-- [Egyptian venture capital firm Algebra Ventures hits first close of second fund at $100M](https://techcrunch.com/2022/10/03/algebra-ventures-hits-first-close-of-second-fund-at-100m/)
+- [Watch an Atlas V rocket launch 2 communications satellites on Tuesday](https://www.space.com/atlas-v-rocket-ses-20-ses-21-launch/)
+- [IWC Schaffhausen creates wristwatches for private Polaris Dawn crew](https://www.space.com/polaris-dawn-iwc-schaffhausen-watch/)
+- [Blue Origin will return husband-and-wife passengers to suborbital space](https://www.space.com/blue-origin-will-fly-husband-wife-again/)
+- [&#39;Pale blue dot&#39; planets like Earth may make up only 1% of potentially habitable worlds](https://www.space.com/habitable-rocky-planets-dominated-by-land/)
+- [Best beginner cameras in 2022](https://www.space.com/best-beginner-cameras/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
