@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nigerian proptech Spleet gets $2.8M led by MaC VC to scale its property management products](https://techcrunch.com/2022/10/04/nigerian-proptech-spleet-gets-2-8m-led-by-mac-vc-to-scale-its-property-management-products/)
+- [Best mirrorless cameras in 2022](https://www.space.com/best-mirrorless-cameras/)
 - [App Store experienced sharp revenue drop in September, Morgan Stanley says](https://techcrunch.com/2022/10/04/app-store-experienced-sharp-revenue-drop-in-september-morgan-stanley-says/)
 - [VLC-developer VideoLAN sends legal notice to Indian ministries over ban](https://techcrunch.com/2022/10/04/vlc-developer-videolan-sends-legal-notice-to-indian-ministries-over-ban/)
 - [Egyptian venture capital firm Algebra Ventures hits first close of second fund at $100M](https://techcrunch.com/2022/10/03/algebra-ventures-hits-first-close-of-second-fund-at-100m/)
-- [GIC backs Indian EV startup Euler Motors in $60 million funding](https://techcrunch.com/2022/10/03/gic-backs-indian-ev-startup-euler-motors-in-60-million-funding/)
-- [SpaceX still on track to launch Crew-5 astronaut mission for NASA Wednesday](https://www.space.com/spacex-crew-5-mission-october-5-launch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
