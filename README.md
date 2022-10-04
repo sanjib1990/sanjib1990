@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Zipline’s drones to deliver medicine in Salt Lake City area](https://techcrunch.com/2022/10/04/ziplines-drones-to-deliver-medicine-in-salt-lake-city-area/)
-- [Instagram to increase ad load as Meta fights revenue decline](https://techcrunch.com/2022/10/04/instagram-to-increase-ad-load-as-meta-fights-revenue-decline/)
-- [Matter’s Internet of Things standard, certification ready for developers](https://techcrunch.com/2022/10/04/matters-internet-of-things-standard/)
-- [Scrapped Mars &#39;fetch rover&#39; may have a future on the moon](https://www.space.com/mars-sample-fetch-rover-possible-moon-mission/)
-- [Wireless power company Emrod beams 550 W across an Airbus warehouse](https://techcrunch.com/2022/10/04/wireless-power-company-emrod-beams-550-w-across-an-airbus-warehouse/)
+- [Google debuts a new Nest Doorbell, faster Wi-Fi router and redesigned Home app](https://techcrunch.com/2022/10/04/google-home-nest-doorbell-wifi/)
+- [TechCrunch+ roundup: Edtech market map, robotics fundraising, getting started with FinOps](https://techcrunch.com/2022/10/04/techcrunch-roundup-edtech-market-map-robotics-fundraising-getting-started-with-finops/)
+- [Nobel Prize in Physics goes to scientists who paved the way for quantum computing](https://www.space.com/nobel-prize-physics-2022-quantum-entanglement/)
+- [The Startup Battlefield 200: Education, security and space edition](https://techcrunch.com/2022/10/04/the-startup-battlefield-200-education-security-and-space-edition/)
+- [New rocket science course lets you learn about spaceflight online for free](https://www.space.com/rocket-science-online-course-spaceflight/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
