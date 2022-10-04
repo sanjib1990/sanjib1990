@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [John Curtius is leaving Tiger Global to start his own venture fund](https://techcrunch.com/2022/10/03/john-curtius-is-leaving-tiger-global-to-start-his-own-venture-fund/)
-- [Daily Crunch: Vice Society hackers post 500GB of data stolen from LA school district to dark web](https://techcrunch.com/2022/10/03/daily-crunch-vice-society-hackers-post-500gb-of-data-stolen-from-la-school-district-to-dark-web/)
-- [Max Q: Hubble hubble, toil and trouble](https://techcrunch.com/2022/10/03/max-q-hubble-hubble-toil-and-trouble/)
-- [The Supreme Court takes on Section 230](https://techcrunch.com/2022/10/03/the-supreme-court-takes-on-section-230/)
-- [Twitter expands access to its experimental Status feature…but not to its paid subscribers](https://techcrunch.com/2022/10/03/twitter-expands-access-to-its-experimental-status-feature-but-not-to-its-paid-subscribers/)
+- [Activision Blizzard illegally withheld raises from unionizing workers, labor board finds](https://techcrunch.com/2022/10/03/activision-blizzard-illegally-withheld-raises-from-unionizing-workers-labor-board-finds/)
+- [Drowning in trash: Google opens applications for circular-economy accelerator](https://techcrunch.com/2022/10/03/google-accelerator-circular-economy-startups-trash/)
+- [Bessemer backs SaaS platform that automates billing workflows](https://techcrunch.com/2022/10/03/saas-billing-platform-zenskar-funding-bessemer-ventures-partners/)
+- [Elon Musk stepped in it again today — “F#ck off is my very diplomatic reply to you”](https://techcrunch.com/2022/10/03/elon-musk-stepped-in-it-again-today-fck-off-is-my-very-diplomatic-reply-to-you/)
+- [UK pauses data reform bill to rethink how to replace GDPR](https://techcrunch.com/2022/10/03/uk-data-reform-bill-replace-gdpr/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
