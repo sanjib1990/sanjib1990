@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SingleStore raises $30M more to brings its database tech to new customers](https://techcrunch.com/2022/10/04/singlestore-raises-30m-more-to-brings-its-database-tech-to-new-customers/)
+- [SpaceX astronaut missions for NASA: Crew-5 live updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates/)
+- [After DART crash, asteroid Dimorphos sports a tail of debris thousands of miles long](https://www.space.com/dart-asteroid-impact-debris-tail-photo/)
 - [3 takeaways from the Poshmark-Naver deal](https://techcrunch.com/2022/10/04/3-takeaways-from-the-poshmark-naver-deal/)
 - [Railsr, formerly Railsbank, raises $46M for embedded finance, says it now has 300 customers](https://techcrunch.com/2022/10/04/railsr-formerly-railsbank-raises-46m-for-embedded-finance-says-it-now-has-300-customers/)
 - [Hurricane Ian&#39;s Florida destruction seen from space &lpar;satellite photos&rpar;](https://www.space.com/hurricane-ian-destruction-satellite-photos/)
-- [Xiaomi’s latest flagship has a 200-megapixel sensor — so don’t think spec race is over](https://techcrunch.com/2022/10/04/xiaomis-latest-flagship-has-a-200-megapixel-sensor-so-dont-think-spec-race-is-over/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
