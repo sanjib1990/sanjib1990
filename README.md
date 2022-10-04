@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Investing app Stash adds crypto offering, passes $125M in annual revenue](https://techcrunch.com/2022/10/04/stash-crypto-revenue-investing-fintech-wealthtech-startup/)
-- [EU vote paves way for USB-C to be common device charger in 2024](https://techcrunch.com/2022/10/04/eu-usb-c-common-charger-parliament-vote/)
-- [Partake Foods whips up new allergy-friendly products following new cash infusion](https://techcrunch.com/2022/10/04/partake-foods-allergy-friendly-series-b/)
-- [Humaans raises $15M to simplify HR tasks like onboarding](https://techcrunch.com/2022/10/04/humaans-raises-15m-to-simplify-hr-tasks-like-onboarding/)
-- [In 2019 this VC decided to invest in diverse founders. Three years later it’s already starting a second fund](https://techcrunch.com/2022/10/04/in-2019-this-vc-decided-to-invest-in-diverse-founders-three-years-later-its-already-starting-a-second-fund/)
+- [How much to pay your engineer? This startup will tell you](https://techcrunch.com/2022/10/04/this-startup-wants-to-help-other-startups-figure-out-compensation/)
+- [SpaceX could launch 52 more Starlink satellites tonight &lpar;Oct. 4&rpar;. Here&#39;s how to watch.](https://www.space.com/spacex-starlink-satellite-launch-group-4-2/)
+- [Confluent launches visual streaming data pipeline designer](https://techcrunch.com/2022/10/04/confluent-launches-visual-streaming-data-pipeline-designer/)
+- [Leica binocular deals: The lowest prices on top-tier models](https://www.space.com/leica-binoculars-deals/)
+- [Asteroid that killed the dinosaurs also triggered global tsunami](https://www.space.com/asteroid-killed-dinosaur-triggered-global-tsunami/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
