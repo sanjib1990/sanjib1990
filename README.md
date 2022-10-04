@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch an Atlas V rocket launch 2 communications satellites on Tuesday](https://www.space.com/atlas-v-rocket-ses-20-ses-21-launch/)
-- [IWC Schaffhausen creates wristwatches for private Polaris Dawn crew](https://www.space.com/polaris-dawn-iwc-schaffhausen-watch/)
-- [Blue Origin will return husband-and-wife passengers to suborbital space](https://www.space.com/blue-origin-will-fly-husband-wife-again/)
-- [&#39;Pale blue dot&#39; planets like Earth may make up only 1% of potentially habitable worlds](https://www.space.com/habitable-rocky-planets-dominated-by-land/)
-- [Best beginner cameras in 2022](https://www.space.com/best-beginner-cameras/)
+- [Best binoculars for kids: lightweight and compact models to view the stars](https://www.space.com/best-binoculars-for-kids/)
+- [Northrop Grumman names &#39;SS Sally Ride&#39; cargo craft for first US woman in space](https://www.space.com/northrop-grumman-ng18-sally-ride/)
+- [Europe gives final sign off to rebooted ecommerce rules](https://techcrunch.com/2022/10/04/digital-services-act-adopted/)
+- [Best telescopes for deep space](https://www.space.com/best-telescopes-for-deep-space/)
+- [Best telescopes for seeing planets in 2022](https://www.space.com/best-telescopes-for-seeing-planets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
