@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Yeah, no, most VCs still don’t really care about your path to profitability](https://techcrunch.com/2022/10/04/yeah-no-most-vcs-still-dont-really-care-about-your-path-to-profitability/)
+- [Google Japan’s outlandish keyboards might be the best running joke in tech](https://techcrunch.com/2022/10/04/google-japans-outlandish-keyboards-might-be-the-best-running-joke-in-tech/)
+- [Elon Musk re-ups offer to buy Twitter for $44 billion: reports](https://www.space.com/elon-musk-offers-buy-twitter-again/)
 - [This startup out of Carnegie Mellon wrangled my tabs once and for all](https://techcrunch.com/2022/10/04/this-startup-out-of-carnegie-mellon-wrangled-my-tabs-once-and-for-all/)
-- [Substack officially launches its ‘Reader’ Android app](https://techcrunch.com/2022/10/04/substack-android-version-reader-app/)
-- [It’s official, Elon Musk is buying Twitter](https://techcrunch.com/2022/10/04/elon-intends-buy-twitter/)
-- [Meta shuts down Bulletin newsletters, moves resources to its discovery algorithm](https://techcrunch.com/2022/10/04/bulletin-newsletter-shut-down-meta-facebook/)
-- [‘Grocery sharing’ app Recelery lets users resell food items to help minimize waste](https://techcrunch.com/2022/10/04/grocery-sharing-app-recelery-lets-users-resell-their-food-items/)
+- [Duolingo makes its first official acquisition, with more to come](https://techcrunch.com/2022/10/04/duolingo-makes-its-first-official-acquisition-with-more-to-come/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
