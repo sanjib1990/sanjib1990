@@ -95,10 +95,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Twitter v. Musk judge says the trial is still on](https://techcrunch.com/2022/10/05/twitter-vs-musk-judge-trial/)
-- [Google answers Meta’s video-generating AI with its own, dubbed Imagen Video](https://techcrunch.com/2022/10/05/google-answers-metas-video-generating-ai-with-its-own-dubbed-imagen-video/)
-- [1st Russian cosmonaut to launch with SpaceX heads to space station](https://www.space.com/crew-5-anna-kikina-first-russian-on-spacex-mission/)
-- [7 investors discuss how agtech can solve agriculture’s biggest problems](https://techcrunch.com/2022/10/05/7-investors-discuss-how-agtech-can-solve-agricultures-biggest-problems/)
-- [Grubhub and Gopuff team up for grocery and alcohol delivery](https://techcrunch.com/2022/10/05/grubhub-gopuff-team-up-grocery-alcohol-delivery/)
+- [Astronauts fly Albert Einstein doll to demo physicist&#39;s &#39;happiest thought&#39;](https://www.space.com/spacex-crew5-einstein-zero-g-indicator/)
+- [Startups and VCs are increasingly embracing the federal government. Here’s why](https://techcrunch.com/2022/10/05/startups-and-vcs-are-increasingly-embracing-the-federal-government-heres-why/)
+- [Space billboards could cost $65M and still turn a profit](https://techcrunch.com/2022/10/05/space-billboards-could-cost-65m-and-still-turn-a-profit/)
+- [World Space Week: Sustaining astronomy in an age of satellite megaconstellations](https://www.space.com/world-space-week-satellite-megaconstellations-threaten-astronomy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
