@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;No Man&#39;s Sky&#39; recruits new players with Nintendo Switch expansion, &#39;relaxed&#39; mode](https://www.space.com/no-mans-sky-switch-expansion-relaxed-mode/)
-- [Mobileye IPO warns of potential potholes in the road to autonomous driving](https://techcrunch.com/2022/10/05/mobileye-ipo-warns-of-potential-potholes-in-the-road-to-autonomous-driving/)
+- [Lyft’s John Zimmer to talk AVs, growth and profit at Disrupt](https://techcrunch.com/2022/10/05/lyfts-john-zimmer-to-talk-avs-growth-and-profit-at-disrupt/)
 - [SpaceX astronaut missions for NASA: Crew-5 live updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates/)
-- [Amazon kills its interactive, video-calling device, Amazon Glow, launched last year](https://techcrunch.com/2022/10/05/amazon-kills-its-interactive-video-calling-device-amazon-glow-launched-last-year/)
-- [US hospital chain CommonSpirit Health says ‘IT security issue’ is disrupting services](https://techcrunch.com/2022/10/05/us-hospital-chain-commonspirit-health-says-it-security-issue-is-disrupting-services/)
+- [Founded by Google’s former head of ads, Neeva brings its ad-free search engine to Europe](https://techcrunch.com/2022/10/05/founded-by-googles-former-head-of-ads-neeva-brings-its-ad-free-search-engine-to-europe/)
+- [EcoCart drives $14.5M of new funding into its sustainable shopping experience](https://techcrunch.com/2022/10/05/ecocart-14-5m-sustainable-shopping/)
+- [Startup SpinLaunch aces 10th suborbital launch with high-tech slingshot](https://www.space.com/spinlaunch-aces-10th-suborbital-test-launch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
