@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter v. Musk judge says the trial is still on](https://techcrunch.com/2022/10/05/twitter-vs-musk-judge-trial/)
+- [Google answers Meta’s video-generating AI with its own, dubbed Imagen Video](https://techcrunch.com/2022/10/05/google-answers-metas-video-generating-ai-with-its-own-dubbed-imagen-video/)
+- [1st Russian cosmonaut to launch with SpaceX heads to space station](https://www.space.com/crew-5-anna-kikina-first-russian-on-spacex-mission/)
 - [7 investors discuss how agtech can solve agriculture’s biggest problems](https://techcrunch.com/2022/10/05/7-investors-discuss-how-agtech-can-solve-agricultures-biggest-problems/)
 - [Grubhub and Gopuff team up for grocery and alcohol delivery](https://techcrunch.com/2022/10/05/grubhub-gopuff-team-up-grocery-alcohol-delivery/)
-- [Engage with AT&amp;T, Polygon &amp; more at TechCrunch Disrupt](https://techcrunch.com/2022/10/05/engage-with-att-polygon-more-at-techcrunch-disrupt/)
-- [Massive space rock impact could have &#39;instantly&#39; created the moon](https://www.space.com/moon-rapid-formation-space-rock-impact/)
-- [As Iran throttles its internet, activists fight to get online](https://techcrunch.com/2022/10/05/iran-internet-protests-censorship/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
