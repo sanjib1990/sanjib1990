@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Gourmey grabs $48 million to keep working on lab-grown foie gras](https://techcrunch.com/2022/10/05/gourmey-grabs-48-million-to-keep-working-on-lab-grown-foie-gras/)
 - [IriusRisk lands $29M to automate threat modeling for apps](https://techcrunch.com/2022/10/04/iriusrisk-threat-modeling-startup-raises-29m-series-b/)
 - [Party Round’s rebrand is banking on founder bank accounts](https://techcrunch.com/2022/10/04/party-rounds-rebrand-is-banking-on-founder-bank-accounts/)
 - [White House proposes voluntary safety and transparency rules around AI](https://techcrunch.com/2022/10/04/white-house-proposes-voluntary-safety-and-transparency-rules-around-ai/)
 - [Atlas V rocket launches 2 communications satellites to orbit](https://www.space.com/atlas-v-rocket-ses-20-ses-21-launch/)
-- [China officially bans fruit flavorings in e-cigarettes](https://techcrunch.com/2022/10/04/china-ban-fruit-flavored-vaping-ecig/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
