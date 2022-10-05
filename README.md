@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [IriusRisk lands $29M to automate threat modeling for apps](https://techcrunch.com/2022/10/04/iriusrisk-threat-modeling-startup-raises-29m-series-b/)
 - [Party Round’s rebrand is banking on founder bank accounts](https://techcrunch.com/2022/10/04/party-rounds-rebrand-is-banking-on-founder-bank-accounts/)
 - [White House proposes voluntary safety and transparency rules around AI](https://techcrunch.com/2022/10/04/white-house-proposes-voluntary-safety-and-transparency-rules-around-ai/)
 - [Atlas V rocket launches 2 communications satellites to orbit](https://www.space.com/atlas-v-rocket-ses-20-ses-21-launch/)
 - [China officially bans fruit flavorings in e-cigarettes](https://techcrunch.com/2022/10/04/china-ban-fruit-flavored-vaping-ecig/)
-- [Daily Crunch: Blocking VLC player downloads violates Indian law, claims VideoLAN in legal challenge](https://techcrunch.com/2022/10/04/daily-crunch-blocking-vlc-player-downloads-violates-indian-law-claims-videolan-in-legal-challenge/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
