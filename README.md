@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Webb, Hubble Team Up to Trace Interstellar Dust Within a Galactic Pair](https://blogs.nasa.gov/webb/2022/10/05/webb-hubble-team-up-to-trace-interstellar-dust-within-a-galactic-pair/)
-- [Iconic James Webb Space Telescope images get X-ray vision boost](https://www.space.com/james-webb-space-telescope-chandra-x-ray-combination-images/)
-- [Draconid meteor shower 2022: When, where &amp; how to see it](https://www.space.com/38390-draconid-meteor-shower-guide.html/)
-- [Encalife Ambience Galaxy star projector now 50% off: Save $60](https://www.space.com/encalife-ambience-star-projector-deal-save-60-dollars/)
-- [Spotify acquires content moderation tech company Kinzen to address platform safety issues](https://techcrunch.com/2022/10/05/spotify-acquires-content-moderation-tech-company-kinzen-to-address-platform-safety-issues/)
+- [&#39;No Man&#39;s Sky&#39; recruits new players with Nintendo Switch expansion, &#39;relaxed&#39; mode](https://www.space.com/no-mans-sky-switch-expansion-relaxed-mode/)
+- [Mobileye IPO warns of potential potholes in the road to autonomous driving](https://techcrunch.com/2022/10/05/mobileye-ipo-warns-of-potential-potholes-in-the-road-to-autonomous-driving/)
+- [SpaceX astronaut missions for NASA: Crew-5 live updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates/)
+- [Amazon kills its interactive, video-calling device, Amazon Glow, launched last year](https://techcrunch.com/2022/10/05/amazon-kills-its-interactive-video-calling-device-amazon-glow-launched-last-year/)
+- [US hospital chain CommonSpirit Health says ‘IT security issue’ is disrupting services](https://techcrunch.com/2022/10/05/us-hospital-chain-commonspirit-health-says-it-security-issue-is-disrupting-services/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
