@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Best binoculars 2022: Top picks for stargazing, wildlife and more](https://www.space.com/26021-best-binoculars.html/)
 - [Massive ancient lava flow seen from space looks like a giant black scar on the New Mexico desert](https://www.space.com/new-mexico-lava-flow-astronaut-photo/)
 - [Martian glaciers were slowed by fast drainage and weak gravity, scientists suggest](https://www.space.com/mars-glaciers-slower-moving-faster-drainage/)
 - [Perseverance Mars rover picks up &#39;lucky&#39; 13th rock sample for return to Earth](https://www.space.com/perseverance-rover-13th-rock-core-sample/)
 - [Binoculars deals: The best discounts and savings available](https://www.space.com/binoculars-deals-sale-discount/)
-- [Google picks South Africa for its first cloud region in Africa](https://techcrunch.com/2022/10/05/google-picks-south-africa-for-its-first-cloud-region-in-africa/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
