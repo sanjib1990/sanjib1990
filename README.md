@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Best binoculars 2022: Top picks for stargazing, wildlife and more](https://www.space.com/26021-best-binoculars.html/)
-- [Massive ancient lava flow seen from space looks like a giant black scar on the New Mexico desert](https://www.space.com/new-mexico-lava-flow-astronaut-photo/)
-- [Martian glaciers were slowed by fast drainage and weak gravity, scientists suggest](https://www.space.com/mars-glaciers-slower-moving-faster-drainage/)
-- [Perseverance Mars rover picks up &#39;lucky&#39; 13th rock sample for return to Earth](https://www.space.com/perseverance-rover-13th-rock-core-sample/)
-- [Binoculars deals: The best discounts and savings available](https://www.space.com/binoculars-deals-sale-discount/)
+- [Best star projectors: Indoor views of the night sky](https://www.space.com/best-star-projectors/)
+- [A year in review of Google’s $1B commitment to support Africa’s digital economy](https://techcrunch.com/2022/10/05/a-year-in-review-of-googles-1b-commitment-to-support-africas-digital-economy/)
+- [Best cameras for astrophotography in 2022](https://www.space.com/best-cameras-for-astrophotography/)
+- [SpaceX astronaut missions for NASA: Crew-5 live updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates/)
+- [See the moon and Saturn close together in the night sky tonight &lpar;Oct. 5&rpar;](https://www.space.com/moon-saturn-conjunction-oct-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
