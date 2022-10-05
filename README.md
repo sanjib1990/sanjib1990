@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Best star projectors: Indoor views of the night sky](https://www.space.com/best-star-projectors/)
-- [A year in review of Google’s $1B commitment to support Africa’s digital economy](https://techcrunch.com/2022/10/05/a-year-in-review-of-googles-1b-commitment-to-support-africas-digital-economy/)
-- [Best cameras for astrophotography in 2022](https://www.space.com/best-cameras-for-astrophotography/)
-- [SpaceX astronaut missions for NASA: Crew-5 live updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates/)
-- [See the moon and Saturn close together in the night sky tonight &lpar;Oct. 5&rpar;](https://www.space.com/moon-saturn-conjunction-oct-2022/)
+- [Webb, Hubble Team Up to Trace Interstellar Dust Within a Galactic Pair](https://blogs.nasa.gov/webb/2022/10/05/webb-hubble-team-up-to-trace-interstellar-dust-within-a-galactic-pair/)
+- [Iconic James Webb Space Telescope images get X-ray vision boost](https://www.space.com/james-webb-space-telescope-chandra-x-ray-combination-images/)
+- [Draconid meteor shower 2022: When, where &amp; how to see it](https://www.space.com/38390-draconid-meteor-shower-guide.html/)
+- [Encalife Ambience Galaxy star projector now 50% off: Save $60](https://www.space.com/encalife-ambience-star-projector-deal-save-60-dollars/)
+- [Spotify acquires content moderation tech company Kinzen to address platform safety issues](https://techcrunch.com/2022/10/05/spotify-acquires-content-moderation-tech-company-kinzen-to-address-platform-safety-issues/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
