@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Massive ancient lava flow seen from space looks like a giant black scar on the New Mexico desert](https://www.space.com/new-mexico-lava-flow-astronaut-photo/)
+- [Martian glaciers were slowed by fast drainage and weak gravity, scientists suggest](https://www.space.com/mars-glaciers-slower-moving-faster-drainage/)
+- [Perseverance Mars rover picks up &#39;lucky&#39; 13th rock sample for return to Earth](https://www.space.com/perseverance-rover-13th-rock-core-sample/)
+- [Binoculars deals: The best discounts and savings available](https://www.space.com/binoculars-deals-sale-discount/)
 - [Google picks South Africa for its first cloud region in Africa](https://techcrunch.com/2022/10/05/google-picks-south-africa-for-its-first-cloud-region-in-africa/)
-- [Whistleblow while you work: This startup wants to make it easier to report corporate wrongdoings](https://techcrunch.com/2022/10/05/whistleblow-while-you-work-this-startup-wants-to-make-it-easier-to-report-corporate-wrongdoings/)
-- [Gourmey grabs $48 million to keep working on lab-grown foie gras](https://techcrunch.com/2022/10/05/gourmey-grabs-48-million-to-keep-working-on-lab-grown-foie-gras/)
-- [IriusRisk lands $29M to automate threat modeling for apps](https://techcrunch.com/2022/10/04/iriusrisk-threat-modeling-startup-raises-29m-series-b/)
-- [Party Round’s rebrand is banking on founder bank accounts](https://techcrunch.com/2022/10/04/party-rounds-rebrand-is-banking-on-founder-bank-accounts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
