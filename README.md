@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX astronaut missions for NASA: Crew-5 live updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates/)
-- [SpaceX&#39;s Crew-5 astronaut launch amazing photos](https://www.space.com/spacex-crew-5-astronaut-mission-amazing-photos/)
-- [James Webb Space Telescope and Hubble team up to peer through cosmic dust](https://www.space.com/james-webb-hubble-telescopes-photo-interstellar-dust/)
-- [Watch SpaceX&#39;s Crew-5 astronaut flight to the International Space Station live online](https://www.space.com/spacex-crew-5-international-space-station-watch-live/)
-- [Waiting for Raspberry Pi: Eben Upton talks supply constraints and demand shock](https://techcrunch.com/2022/10/05/raspberry-pi-supply-chain-shocks-eben-upton-interview/)
+- [7 investors discuss how agtech can solve agriculture’s biggest problems](https://techcrunch.com/2022/10/05/7-investors-discuss-how-agtech-can-solve-agricultures-biggest-problems/)
+- [Grubhub and Gopuff team up for grocery and alcohol delivery](https://techcrunch.com/2022/10/05/grubhub-gopuff-team-up-grocery-alcohol-delivery/)
+- [Engage with AT&amp;T, Polygon &amp; more at TechCrunch Disrupt](https://techcrunch.com/2022/10/05/engage-with-att-polygon-more-at-techcrunch-disrupt/)
+- [Massive space rock impact could have &#39;instantly&#39; created the moon](https://www.space.com/moon-rapid-formation-space-rock-impact/)
+- [As Iran throttles its internet, activists fight to get online](https://techcrunch.com/2022/10/05/iran-internet-protests-censorship/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
