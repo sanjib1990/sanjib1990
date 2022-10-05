@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Google will use private subsea cable to launch its first full-scale cloud region in Africa](https://techcrunch.com/2022/10/05/daily-crunch-google-will-use-private-subsea-cable-to-launch-its-first-full-scale-cloud-region-in-africa/)
+- [SpaceX notches eighth human spaceflight mission with Crew-5](https://techcrunch.com/2022/10/05/spacex-notches-eighth-human-spaceflight-mission-with-crew-5/)
+- [Popular censorship circumvention tools face fresh blockade by China](https://techcrunch.com/2022/10/05/china-censorship-vpn-ban-party-congress/)
 - [Twitter v. Musk judge says the trial is still on](https://techcrunch.com/2022/10/05/twitter-vs-musk-judge-trial/)
 - [Astronauts fly Albert Einstein doll to demo physicist&#39;s &#39;happiest thought&#39;](https://www.space.com/spacex-crew5-einstein-zero-g-indicator/)
-- [Startups and VCs are increasingly embracing the federal government. Here’s why](https://techcrunch.com/2022/10/05/startups-and-vcs-are-increasingly-embracing-the-federal-government-heres-why/)
-- [Space billboards could cost $65M and still turn a profit](https://techcrunch.com/2022/10/05/space-billboards-could-cost-65m-and-still-turn-a-profit/)
-- [World Space Week: Sustaining astronomy in an age of satellite megaconstellations](https://www.space.com/world-space-week-satellite-megaconstellations-threaten-astronomy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
