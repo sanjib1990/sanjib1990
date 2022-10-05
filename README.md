@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Lyft’s John Zimmer to talk AVs, growth and profit at Disrupt](https://techcrunch.com/2022/10/05/lyfts-john-zimmer-to-talk-avs-growth-and-profit-at-disrupt/)
 - [SpaceX astronaut missions for NASA: Crew-5 live updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates/)
-- [Founded by Google’s former head of ads, Neeva brings its ad-free search engine to Europe](https://techcrunch.com/2022/10/05/founded-by-googles-former-head-of-ads-neeva-brings-its-ad-free-search-engine-to-europe/)
-- [EcoCart drives $14.5M of new funding into its sustainable shopping experience](https://techcrunch.com/2022/10/05/ecocart-14-5m-sustainable-shopping/)
-- [Startup SpinLaunch aces 10th suborbital launch with high-tech slingshot](https://www.space.com/spinlaunch-aces-10th-suborbital-test-launch/)
+- [Watch SpaceX&#39;s Crew-5 astronaut flight to the International Space Station live online](https://www.space.com/spacex-crew-5-international-space-station-watch-live/)
+- [Waiting for Raspberry Pi: Eben Upton talks supply constraints and demand shock](https://techcrunch.com/2022/10/05/raspberry-pi-supply-chain-shocks-eben-upton-interview/)
+- [16 disability ambassadors will take a Zero-G flight for inclusion](https://www.space.com/disability-ambassadors-zero-g-flight-spaceflight-inclusion/)
+- [Crypto adoption skyrockets in Middle East and North Africa due to favorable economic climate](https://techcrunch.com/2022/10/05/crypto-adoption-skyrockets-in-middle-east-and-north-africa/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
