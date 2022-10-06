@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mysterious reflections on Mars might come from something stranger than water](https://www.space.com/mars-lake-reflection-rock-layering-alternative/)
+- [Uranus&#39; weird tilt may be the work of a long-lost moon](https://www.space.com/uranus-tilt-from-lost-moon-not-impact/)
+- [Mysterious high-speed gas cloud might be the result of an explosive stellar death](https://www.space.com/high-velocity-clouds-supernova-ursae-majoris/)
+- [Twitter now lets you post images, videos, and GIFs in a single tweet](https://techcrunch.com/2022/10/06/twitter-now-lets-you-post-images-videos-and-gifs-in-a-single-tweet/)
 - [Taurid meteor shower 2022: When, where &amp; how to see it](https://www.space.com/taurid-meteor-shower/)
-- [Microsoft explores investment in Indian gaming platform Zupee](https://techcrunch.com/2022/10/06/microsoft-explores-investment-in-indian-gaming-platform-zupee/)
-- [Lightdash takes on Looker with an open source BI platform built for dbt](https://techcrunch.com/2022/10/06/lightdash-takes-on-looker-with-an-open-source-bi-platform-built-for-dbt/)
-- [Do Kwon set to lose South Korean passport amid active Interpol red notice](https://techcrunch.com/2022/10/05/terraform-labs-founder-do-kwon-refutes-reports-about-his-funds-getting-frozen/)
-- [Fiserv, LG back Korea Credit Data as the SME-focused fintech startup raises another $24.7M](https://techcrunch.com/2022/10/05/fiserv-lg-back-fintech-startup-korea-credit-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
