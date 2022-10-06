@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s Juno spacecraft snaps its most detailed view of Jupiter&#39;s icy moon Europa](https://www.space.com/juno-photo-europa-jupiter-moon-most-detail/)
-- [Pitch Deck Teardown: Vori’s $10M Series A deck](https://techcrunch.com/2022/10/06/sample-series-a-pitch-deck-vori/)
-- [Animoca Brands’ Yat Siu storms Disrupt with tips for thriving in a crypto winter](https://techcrunch.com/2022/10/06/animoca-brands-yat-siu-storms-disrupt-with-tips-for-thriving-in-a-crypto-winter/)
-- [How Dutchie raised half a billion for cannabis tech on TechCrunch Live](https://techcrunch.com/2022/10/06/how-dutchie-raised-half-a-billion-for-cannabis-tech-on-techcrunch-live/)
-- [Google offers a better look at the Pixel Tablet](https://techcrunch.com/2022/10/06/google-offers-a-better-look-at-the-pixel-tablet/)
+- [Google’s Guided Frame gives visually impaired folks a voice-over for selfies](https://techcrunch.com/2022/10/06/google-guided-frame/)
+- [Orionid meteor shower 2022: When, where &amp; how to see it](https://www.space.com/34373-orionid-meteor-shower-guide.html/)
+- [What should you read next? Tertulia might hold the answer](https://techcrunch.com/2022/10/06/tertulia-app-book-discovery/)
+- [The US venture capital slowdown doesn’t look that bad](https://techcrunch.com/2022/10/06/the-us-venture-capital-slowdown-doesnt-look-that-bad/)
+- [&#39;Andor&#39; episode 4 soars as we finally meet the Rebels of &#39;Star Wars&#39;](https://www.space.com/star-wars-andor-episode-4-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
