@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The Startup Battlefield 200: Climate tech and health tech edition](https://techcrunch.com/2022/10/06/the-startup-battlefield-200-climate-tech-and-health-tech-edition/)
-- [Ready to launch: National Air and Space Museum set to reopen with new galleries](https://www.space.com/national-air-space-museum-reopening-new-galleries/)
-- [Google Pixel 7 up close: The software’s the thing](https://techcrunch.com/2022/10/06/google-pixel-7-up-close-the-softwares-the-thing/)
-- [Twitter’s edit button will reach all US subscribers by end of today](https://techcrunch.com/2022/10/06/twitters-edit-button-will-reach-all-u-s-subscribers-by-end-of-today/)
-- [Michigan is becoming the center of US battery manufacturing](https://techcrunch.com/2022/10/06/michigan-is-becoming-the-center-of-us-battery-manufacturing/)
+- [World Space Week 2022: &#39;Learning Lunchbox&#39; science kits reach kids across the US](https://www.space.com/world-space-week-learning-lunchbox-science-kit/)
+- [Sub-Optimus](https://techcrunch.com/2022/10/06/sub-optimus/)
+- [Ro says it ‘inadvertently’ exposed employees’ personal information](https://techcrunch.com/2022/10/06/ro-healthcare-unicorn-data-exposed/)
+- [GOP’s war on ESG could come back to bite it](https://techcrunch.com/2022/10/06/gops-war-on-esg-could-come-back-to-bite-it/)
+- [A new cross-border VC firm is offering a sweetener to its founder LPs: part of its own profits](https://techcrunch.com/2022/10/06/atman-capital-cross-border-vc-firm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
