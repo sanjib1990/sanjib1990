@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon has 365 days to pour $150 million into diverse check writers](https://techcrunch.com/2022/10/06/amazon-has-365-days-to-pour-150-million-into-diverse-check-writers/)
+- [The Musk vs. Twitter trial is temporarily on hold as proposed deal looms](https://techcrunch.com/2022/10/06/the-musk-v-twitter-trial-is-temporarily-on-hold-as-proposed-deal-looms/)
 - [Daily Crunch: Everything you wanted to know about Google Fall Event 2022 &lpar;but were afraid to ask&rpar;](https://techcrunch.com/2022/10/06/daily-crunch-everything-you-wanted-to-know-about-google-fall-event-2022-but-were-afraid-to-ask/)
 - [Meet the young turks of blockchain, DeFi and web3 exhibiting at TC Sessions: Crypto](https://techcrunch.com/2022/10/06/meet-the-young-turks-of-blockchain-defi-and-web3-exhibiting-at-tc-sessions-crypto/)
 - [SpaceX&#39;s Crew-5 astronaut mission arrives at the International Space Station](https://www.space.com/spacex-crew-5-mission-docking-success/)
-- [The Mario movie trailer is as cursed as we hoped](https://techcrunch.com/2022/10/06/super-mario-bros-movie-trailer-chris-pratt/)
-- [Spotify cancels 11 original podcasts, lays off under 5% of podcast staff](https://techcrunch.com/2022/10/06/spotify-cancels-11-original-podcasts-lays-off-under-5-of-staff/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
