@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Startup Battlefield 200: Climate tech and health tech edition](https://techcrunch.com/2022/10/06/the-startup-battlefield-200-climate-tech-and-health-tech-edition/)
+- [Ready to launch: National Air and Space Museum set to reopen with new galleries](https://www.space.com/national-air-space-museum-reopening-new-galleries/)
+- [Google Pixel 7 up close: The software’s the thing](https://techcrunch.com/2022/10/06/google-pixel-7-up-close-the-softwares-the-thing/)
+- [Twitter’s edit button will reach all US subscribers by end of today](https://techcrunch.com/2022/10/06/twitters-edit-button-will-reach-all-u-s-subscribers-by-end-of-today/)
 - [Michigan is becoming the center of US battery manufacturing](https://techcrunch.com/2022/10/06/michigan-is-becoming-the-center-of-us-battery-manufacturing/)
-- [Platforms beware: Politics won’t save you from antitrust legislation](https://techcrunch.com/2022/10/06/platforms-beware-politics-antitrust-legislation/)
-- [TikTok adds new editing tools to adjust clips, sounds, images and text](https://techcrunch.com/2022/10/06/tiktok-new-editing-tools-adjust-clips-sounds-images-text/)
-- [Post-pandemic, Telemedicine startups are evolving — this just one raised $6M for its hybrid approach](https://techcrunch.com/2022/10/06/post-pandemic-telemedicine-startups-are-evolving-this-just-one-raised-6m-for-its-hybrid-approach/)
-- [Phones and smartwatches and more, oh my: Here is everything Google launched at its Fall 2022 event today](https://techcrunch.com/2022/10/06/google-fall-2022-event-made-by-google-pixel-7/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
