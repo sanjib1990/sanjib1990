@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [On This Day In Space: Oct. 6, 1992: U.S. &amp; Russia sign human spaceflight agreement](https://www.space.com/39251-on-this-day-in-space.html/)
-- [Watch Google unveil the Pixel Watch and Pixel 7 here](https://techcrunch.com/2022/10/06/watch-google-unveil-the-pixel-watch-and-pixel-7-right-here/)
-- [Uber’s former security chief found guilty of covering up 2016 data breach](https://techcrunch.com/2022/10/06/ubers-former-security-chief-found-guilty-of-covering-up-2016-data-breach/)
-- [Mysterious reflections on Mars might come from something stranger than water](https://www.space.com/mars-lake-reflection-rock-layering-alternative/)
-- [Uranus&#39; weird tilt may be the work of a long-lost moon](https://www.space.com/uranus-tilt-from-lost-moon-not-impact/)
+- [Identity security platform Oort bags new cash to grow its product](https://techcrunch.com/2022/10/06/identity-security-platform-oort-bags-new-cash-to-grow-its-product/)
+- [Cyber firm Arctic Wolf raises $401M in debt, eyeing a potential IPO](https://techcrunch.com/2022/10/06/cyber-firm-arctic-wolf-raises-401m-in-debt-eyeing-a-potential-ipo/)
+- [See the mysterious October Camelopardalid meteor shower peak tonight &lpar;Oct. 6&rpar;](https://www.space.com/meteor-shower-camelopardalid-peak-october-6/)
+- [Gather AI secures new cash to scan inventory in warehouses using drones](https://techcrunch.com/2022/10/06/gather-ai-secures-new-cash-to-scan-inventory-in-warehouses-using-drones/)
+- [Uber and Motional to launch robotaxis across US over 10 years](https://techcrunch.com/2022/10/06/uber-and-motional-to-launch-robotaxis-across-us-over-10-years/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
