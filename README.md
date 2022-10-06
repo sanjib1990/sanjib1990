@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Identity security platform Oort bags new cash to grow its product](https://techcrunch.com/2022/10/06/identity-security-platform-oort-bags-new-cash-to-grow-its-product/)
-- [Cyber firm Arctic Wolf raises $401M in debt, eyeing a potential IPO](https://techcrunch.com/2022/10/06/cyber-firm-arctic-wolf-raises-401m-in-debt-eyeing-a-potential-ipo/)
-- [See the mysterious October Camelopardalid meteor shower peak tonight &lpar;Oct. 6&rpar;](https://www.space.com/meteor-shower-camelopardalid-peak-october-6/)
-- [Gather AI secures new cash to scan inventory in warehouses using drones](https://techcrunch.com/2022/10/06/gather-ai-secures-new-cash-to-scan-inventory-in-warehouses-using-drones/)
-- [Uber and Motional to launch robotaxis across US over 10 years](https://techcrunch.com/2022/10/06/uber-and-motional-to-launch-robotaxis-across-us-over-10-years/)
+- [Facing an uncertain future, Peloton will cut another 500 jobs](https://techcrunch.com/2022/10/06/facing-an-uncertain-future-peloton-will-cut-another-500-jobs/)
+- [Twitter is making its crowdsourced fact-checks visible to all U.S. users with Birdwatch expansion](https://techcrunch.com/2022/10/06/twitter-is-making-its-crowdsourced-fact-checks-visible-to-all-u-s-users-with-birdwatch-expansion/)
+- [Typhur cooks up $20M to channel your inner sous vide chef](https://techcrunch.com/2022/10/06/typhur-seed-sous-vide/)
+- [Jiko wants to help companies park their cash in T-Bills as everyone yield hunts](https://techcrunch.com/2022/10/06/fintech-jiko-banks-40m-in-series-b-funding-for-scaleable-money-storage/)
+- [Honda doesn’t want to wait until 2024 for its SUV customers to go electric](https://techcrunch.com/2022/10/06/honda-doesnt-want-to-wait-until-2024-for-customers-to-buy-electric/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
