@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google’s Guided Frame gives visually impaired folks a voice-over for selfies](https://techcrunch.com/2022/10/06/google-guided-frame/)
-- [Orionid meteor shower 2022: When, where &amp; how to see it](https://www.space.com/34373-orionid-meteor-shower-guide.html/)
-- [What should you read next? Tertulia might hold the answer](https://techcrunch.com/2022/10/06/tertulia-app-book-discovery/)
-- [The US venture capital slowdown doesn’t look that bad](https://techcrunch.com/2022/10/06/the-us-venture-capital-slowdown-doesnt-look-that-bad/)
-- [&#39;Andor&#39; episode 4 soars as we finally meet the Rebels of &#39;Star Wars&#39;](https://www.space.com/star-wars-andor-episode-4-review/)
+- [Michigan is becoming the center of US battery manufacturing](https://techcrunch.com/2022/10/06/michigan-is-becoming-the-center-of-us-battery-manufacturing/)
+- [Platforms beware: Politics won’t save you from antitrust legislation](https://techcrunch.com/2022/10/06/platforms-beware-politics-antitrust-legislation/)
+- [TikTok adds new editing tools to adjust clips, sounds, images and text](https://techcrunch.com/2022/10/06/tiktok-new-editing-tools-adjust-clips-sounds-images-text/)
+- [Post-pandemic, Telemedicine startups are evolving — this just one raised $6M for its hybrid approach](https://techcrunch.com/2022/10/06/post-pandemic-telemedicine-startups-are-evolving-this-just-one-raised-6m-for-its-hybrid-approach/)
+- [Phones and smartwatches and more, oh my: Here is everything Google launched at its Fall 2022 event today](https://techcrunch.com/2022/10/06/google-fall-2022-event-made-by-google-pixel-7/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
