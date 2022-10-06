@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Terra’s Do Kwon set to lose passport weeks after Interpol red notice](https://techcrunch.com/2022/10/05/terraform-labs-founder-do-kwon-refutes-reports-about-his-funds-getting-frozen/)
+- [Microsoft explores investment in Indian gaming platform Zupee](https://techcrunch.com/2022/10/06/microsoft-explores-investment-in-indian-gaming-platform-zupee/)
+- [Lightdash takes on Looker with an open source BI platform built for dbt](https://techcrunch.com/2022/10/06/lightdash-takes-on-looker-with-an-open-source-bi-platform-built-for-dbt/)
+- [Do Kwon set to lose South Korean passport amid active Interpol red notice](https://techcrunch.com/2022/10/05/terraform-labs-founder-do-kwon-refutes-reports-about-his-funds-getting-frozen/)
 - [Fiserv, LG back Korea Credit Data as the SME-focused fintech startup raises another $24.7M](https://techcrunch.com/2022/10/05/fiserv-lg-back-fintech-startup-korea-credit-data/)
 - [Halo Car’s teleoperated car-sharing service to roll out this year with no one behind the wheel](https://techcrunch.com/2022/10/05/halo-cars-teleoperated-car-sharing-service-to-roll-out-this-year-with-no-one-behind-the-wheel/)
-- [SpaceX launches 52 Starlink satellites, lands rocket on ship in Pacific](https://www.space.com/spacex-starlink-satellite-launch-group-4-2/)
-- [Daily Crunch: Google will use private subsea cable to launch its first full-scale cloud region in Africa](https://techcrunch.com/2022/10/05/daily-crunch-google-will-use-private-subsea-cable-to-launch-its-first-full-scale-cloud-region-in-africa/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
