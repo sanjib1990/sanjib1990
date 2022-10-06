@@ -98,7 +98,7 @@
 - [Sub-Optimus](https://techcrunch.com/2022/10/06/sub-optimus/)
 - [Ro says it ‘inadvertently’ exposed employees’ personal information](https://techcrunch.com/2022/10/06/ro-healthcare-unicorn-data-exposed/)
 - [GOP’s war on ESG could come back to bite it](https://techcrunch.com/2022/10/06/gops-war-on-esg-could-come-back-to-bite-it/)
-- [A new cross-border VC firm is offering a sweetener to its founder LPs: part of its own profits](https://techcrunch.com/2022/10/06/atman-capital-cross-border-vc-firm/)
+- [A new cross-border VC firm is offering a sweetener to its founder LPs: Part of its own profits](https://techcrunch.com/2022/10/06/atman-capital-cross-border-vc-firm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
