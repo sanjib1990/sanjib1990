@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Mario movie trailer is as cursed as we hoped](https://techcrunch.com/2022/10/06/super-mario-bros-movie-trailer-chris-pratt/)
+- [Spotify cancels 11 original podcasts, lays off under 5% of podcast staff](https://techcrunch.com/2022/10/06/spotify-cancels-11-original-podcasts-lays-off-under-5-of-staff/)
+- [Elon Musk moves to kill the upcoming Twitter trial](https://techcrunch.com/2022/10/06/elon-musk-moves-to-kill-the-upcoming-twitter-trial/)
 - [World Space Week 2022: &#39;Learning Lunchbox&#39; science kits reach kids across the US](https://www.space.com/world-space-week-learning-lunchbox-science-kit/)
 - [Sub-Optimus](https://techcrunch.com/2022/10/06/sub-optimus/)
-- [Ro says it ‘inadvertently’ exposed employees’ personal information](https://techcrunch.com/2022/10/06/ro-healthcare-unicorn-data-exposed/)
-- [GOP’s war on ESG could come back to bite it](https://techcrunch.com/2022/10/06/gops-war-on-esg-could-come-back-to-bite-it/)
-- [A new cross-border VC firm is offering a sweetener to its founder LPs: Part of its own profits](https://techcrunch.com/2022/10/06/atman-capital-cross-border-vc-firm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
