@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Everything you wanted to know about Google Fall Event 2022 &lpar;but were afraid to ask&rpar;](https://techcrunch.com/2022/10/06/daily-crunch-everything-you-wanted-to-know-about-google-fall-event-2022-but-were-afraid-to-ask/)
+- [Meet the young turks of blockchain, DeFi and web3 exhibiting at TC Sessions: Crypto](https://techcrunch.com/2022/10/06/meet-the-young-turks-of-blockchain-defi-and-web3-exhibiting-at-tc-sessions-crypto/)
+- [SpaceX&#39;s Crew-5 astronaut mission arrives at the International Space Station](https://www.space.com/spacex-crew-5-mission-docking-success/)
 - [The Mario movie trailer is as cursed as we hoped](https://techcrunch.com/2022/10/06/super-mario-bros-movie-trailer-chris-pratt/)
 - [Spotify cancels 11 original podcasts, lays off under 5% of podcast staff](https://techcrunch.com/2022/10/06/spotify-cancels-11-original-podcasts-lays-off-under-5-of-staff/)
-- [Elon Musk moves to kill the upcoming Twitter trial](https://techcrunch.com/2022/10/06/elon-musk-moves-to-kill-the-upcoming-twitter-trial/)
-- [World Space Week 2022: &#39;Learning Lunchbox&#39; science kits reach kids across the US](https://www.space.com/world-space-week-learning-lunchbox-science-kit/)
-- [Sub-Optimus](https://techcrunch.com/2022/10/06/sub-optimus/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
