@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Volocopter completes crewed eVTOL test flight out of Rome vertiport](https://techcrunch.com/2022/10/06/volocopter-completes-crewed-evtol-test-flight-out-of-rome-vertiport/)
-- [Boston Dynamics, Agility and others pen letter condemning weaponized ‘general purpose’ robots](https://techcrunch.com/2022/10/06/boston-dynamics-agility-and-others-pen-letter-condemning-weaponized-general-purpose-robots/)
-- [Alkymi wants to bring custom automations to every business user](https://techcrunch.com/2022/10/06/alkymi-wants-to-bring-custom-automations-to-every-business-user/)
-- [Form Energy’s iron-air battery on pace for 2024 launch with $450M Series E](https://techcrunch.com/2022/10/06/form-energys-iron-air-battery-on-pace-for-2024-launch-with-450m-series-e/)
-- [Miko Robotics acquires majority stake in AI chess startup, Square Off](https://techcrunch.com/2022/10/06/miko-robotics-acquires-majority-stake-in-ai-chess-startup-square-off/)
+- [NASA&#39;s Juno spacecraft snaps its most detailed view of Jupiter&#39;s icy moon Europa](https://www.space.com/juno-photo-europa-jupiter-moon-most-detail/)
+- [Pitch Deck Teardown: Vori’s $10M Series A deck](https://techcrunch.com/2022/10/06/sample-series-a-pitch-deck-vori/)
+- [Animoca Brands’ Yat Siu storms Disrupt with tips for thriving in a crypto winter](https://techcrunch.com/2022/10/06/animoca-brands-yat-siu-storms-disrupt-with-tips-for-thriving-in-a-crypto-winter/)
+- [How Dutchie raised half a billion for cannabis tech on TechCrunch Live](https://techcrunch.com/2022/10/06/how-dutchie-raised-half-a-billion-for-cannabis-tech-on-techcrunch-live/)
+- [Google offers a better look at the Pixel Tablet](https://techcrunch.com/2022/10/06/google-offers-a-better-look-at-the-pixel-tablet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
