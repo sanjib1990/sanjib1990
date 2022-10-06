@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Facing an uncertain future, Peloton will cut another 500 jobs](https://techcrunch.com/2022/10/06/facing-an-uncertain-future-peloton-will-cut-another-500-jobs/)
-- [Twitter is making its crowdsourced fact-checks visible to all U.S. users with Birdwatch expansion](https://techcrunch.com/2022/10/06/twitter-is-making-its-crowdsourced-fact-checks-visible-to-all-u-s-users-with-birdwatch-expansion/)
-- [Typhur cooks up $20M to channel your inner sous vide chef](https://techcrunch.com/2022/10/06/typhur-seed-sous-vide/)
-- [Jiko wants to help companies park their cash in T-Bills as everyone yield hunts](https://techcrunch.com/2022/10/06/fintech-jiko-banks-40m-in-series-b-funding-for-scaleable-money-storage/)
-- [Honda doesn’t want to wait until 2024 for its SUV customers to go electric](https://techcrunch.com/2022/10/06/honda-doesnt-want-to-wait-until-2024-for-customers-to-buy-electric/)
+- [Volocopter completes crewed eVTOL test flight out of Rome vertiport](https://techcrunch.com/2022/10/06/volocopter-completes-crewed-evtol-test-flight-out-of-rome-vertiport/)
+- [Boston Dynamics, Agility and others pen letter condemning weaponized ‘general purpose’ robots](https://techcrunch.com/2022/10/06/boston-dynamics-agility-and-others-pen-letter-condemning-weaponized-general-purpose-robots/)
+- [Alkymi wants to bring custom automations to every business user](https://techcrunch.com/2022/10/06/alkymi-wants-to-bring-custom-automations-to-every-business-user/)
+- [Form Energy’s iron-air battery on pace for 2024 launch with $450M Series E](https://techcrunch.com/2022/10/06/form-energys-iron-air-battery-on-pace-for-2024-launch-with-450m-series-e/)
+- [Miko Robotics acquires majority stake in AI chess startup, Square Off](https://techcrunch.com/2022/10/06/miko-robotics-acquires-majority-stake-in-ai-chess-startup-square-off/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
