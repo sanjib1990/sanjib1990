@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Binance admits hackers used cross-chain bridge to steal at least $100M](https://techcrunch.com/2022/10/07/daily-crunch-binance-admits-hackers-used-cross-chain-bridge-to-steal-at-least-100m/)
 - [Draconid meteor shower peaks this weekend under Hunter&#39;s Moon](https://www.space.com/draconid-meteor-shower-peak-oct-09-22/)
 - [Living with Apple’s iPhone 14 Plus](https://techcrunch.com/2022/10/07/living-with-apples-iphone-14-plus/)
 - [Rocket Lab’s 8th launch of 2022 breaks record for worst pun in space](https://techcrunch.com/2022/10/07/rocket-labs-8th-launch-of-2022-breaks-record-for-worst-pun-in-space/)
 - [Real estate investing app Fintor raises $6.2M at $80M valuation](https://techcrunch.com/2022/10/07/real-estate-investing-fintor-valuation-funding-round-startup-proptech/)
-- [Eutelsat accuses Iran of jamming 2 Persian-language broadcast satellites](https://www.space.com/iran-eutelsat-jamming-broadcast-satellites-accused/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
