@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Draconid meteor shower peaks this weekend under Hunter&#39;s Moon](https://www.space.com/draconid-meteor-shower-peak-oct-09-22/)
+- [Living with Apple’s iPhone 14 Plus](https://techcrunch.com/2022/10/07/living-with-apples-iphone-14-plus/)
+- [Rocket Lab’s 8th launch of 2022 breaks record for worst pun in space](https://techcrunch.com/2022/10/07/rocket-labs-8th-launch-of-2022-breaks-record-for-worst-pun-in-space/)
+- [Real estate investing app Fintor raises $6.2M at $80M valuation](https://techcrunch.com/2022/10/07/real-estate-investing-fintor-valuation-funding-round-startup-proptech/)
 - [Eutelsat accuses Iran of jamming 2 Persian-language broadcast satellites](https://www.space.com/iran-eutelsat-jamming-broadcast-satellites-accused/)
-- [October full moon 2022 guide: The Hunters&#39; Moon rises this weekend](https://www.space.com/38272-october-full-moon.html/)
-- [China launches pair of navigation enhancement satellites from sea platform](https://www.space.com/china-long-march-11-launch-navigation-satellites/)
-- [Plummeting unicorn births underscore a changing venture capital market](https://techcrunch.com/2022/10/07/plummeting-unicorn-births-underscore-a-changing-venture-capital-market/)
-- [Juno photos reveal more stunning glimpses of Jupiter&#39;s ice-covered moon Europa](https://www.space.com/juno-europa-flyby-image-gallery/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
