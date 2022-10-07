@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta Quest 2 gets exclusive VR series ‘Scream Park’ from entertainment studio BlackBox TV](https://techcrunch.com/2022/10/07/meta-quest-2-gets-exclusive-vr-series-scream-park-from-entertainment-studio-blackbox-tv/)
-- [Nice try, startup, but that’s not your serviceable obtainable market &lpar;SOM&rpar;](https://techcrunch.com/2022/10/07/nice-try-not-your-som/)
-- [Catch the best views of Mercury at its highest in the sky on Saturday &lpar;Oct. 8&rpar;](https://www.space.com/mercury-best-views-highest-point-oct-08-22/)
-- [What happened when this entrepreneur put her startup on hold to help Ukraine, and told VCs to donate](https://techcrunch.com/2022/10/07/what-happened-when-this-entrepreneur-put-her-startup-on-hold-to-help-ukraine-and-told-vcs-to-donate/)
-- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates/)
+- [President Biden signs Executive Order aimed at legal reboot of EU-US data flows](https://techcrunch.com/2022/10/07/eu-us-data-privacy-framework-executive-order-signed/)
+- [&#39;Cannibal&#39; stars have shortest known orbit of all binary systems](https://www.space.com/cataclysmic-variable-cannibal-binary-star-system/)
+- [FlyFeed flies in the face of the global food crisis](https://techcrunch.com/2022/10/07/flyfeed-angel-round/)
+- [AI music generators could be a boon for artists — but also problematic](https://techcrunch.com/2022/10/07/ai-music-generator-dance-diffusion/)
+- [Watch Rocket Lab launch a satellite for wildlife tracking and more today &lpar;Oct. 7&rpar;](https://www.space.com/rocket-lab-argos-wildlife-satellite-launch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
