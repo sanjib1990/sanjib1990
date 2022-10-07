@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Binance hit by $100 million blockchain bridge hack](https://techcrunch.com/2022/10/07/blockchain-bridge-hack/)
-- [Visa dives deeper into crypto as FTX-linked debit card expands outside US](https://techcrunch.com/2022/10/07/visa-dives-deeper-into-crypto-as-ftx-linked-debit-card-expands-outside-us/)
-- [On This Day In Space: Oct. 7, 2002: STS-112 launches to the International Space Station](https://www.space.com/39251-on-this-day-in-space.html/)
-- [SpaceX Falcon 9 rocket aborts double-satellite launch at last minute](https://www.space.com/spacex-rocket-launch-abort-intelsat-satellites/)
-- [Watch SpaceX Falcon 9 rocket launch on record-tying 14th mission Friday night](https://www.space.com/spacex-galaxy-33-34-intelsat-satellite-launch/)
+- [What gloom? Data show it’s still a great time to build a SaaS startup](https://techcrunch.com/2022/10/07/what-gloom-data-show-its-still-a-great-time-to-build-a-saas-startup/)
+- [Musk and Kardashian remind us to stop crying for the wealthy](https://techcrunch.com/2022/10/07/musk-and-kardashian-remind-us-to-stop-crying-for-the-wealthy/)
+- [For the 1st time, Mars robots found meteorite impact craters by sensing seismic shock waves](https://www.space.com/mars-robots-meteorite-impact-craters-seismic-shock-waves/)
+- [Ukraine invasion&#39;s impacts on space exploration: Live updates](https://www.space.com/news/live/russia-ukraine-invasion-space-impacts-updates/)
+- [Amazon scales back Scout delivery robot program](https://techcrunch.com/2022/10/07/amazon-scales-back-scout-delivery-robot-program/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
