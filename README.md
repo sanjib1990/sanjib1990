@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Eutelsat accuses Iran of jamming 2 Persian-language broadcast satellites](https://www.space.com/iran-eutelsat-jamming-broadcast-satellites-accused/)
+- [October full moon 2022 guide: The Hunters&#39; Moon rises this weekend](https://www.space.com/38272-october-full-moon.html/)
+- [China launches pair of navigation enhancement satellites from sea platform](https://www.space.com/china-long-march-11-launch-navigation-satellites/)
+- [Plummeting unicorn births underscore a changing venture capital market](https://techcrunch.com/2022/10/07/plummeting-unicorn-births-underscore-a-changing-venture-capital-market/)
 - [Juno photos reveal more stunning glimpses of Jupiter&#39;s ice-covered moon Europa](https://www.space.com/juno-europa-flyby-image-gallery/)
-- [If it’s agtech, it’s climate change: How the crisis is shaping investors’ strategies](https://techcrunch.com/2022/10/07/if-its-agtech-its-climate-change-how-the-crisis-is-shaping-investors-strategies/)
-- [Pakistan central bank revokes YC-backed fintech Tag’s services, orders to pull apps](https://techcrunch.com/2022/10/07/tag-fintech-state-bank-of-pakistan/)
-- [Massive Mars dust storm threatens NASA&#39;s InSight lander](https://www.space.com/mars-insight-lander-faces-massive-dust-storm/)
-- [Elon and Twitter’s will-they, won’t-they &lpar;and other TC news&rpar;](https://techcrunch.com/2022/10/07/tc-podcast-what-will-elon-do-next/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
