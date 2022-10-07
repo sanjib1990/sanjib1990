@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla Semi production begins with Pepsi getting the first deliveries](https://techcrunch.com/2022/10/06/tesla-semi-production-begins-with-pepsi-getting-the-first-deliveries/)
+- [As the market cools, aggressive Tiger Global looks to raise a fund that’s half the size as its last](https://techcrunch.com/2022/10/06/as-the-market-cools-aggressive-tiger-global-looks-to-raise-a-fund-thats-half-the-size-as-its-last/)
+- [Did Kim Kardashian really deserve that crypto fine?](https://techcrunch.com/2022/10/06/did-kim-kardashian-really-deserve-that-crypto-fine/)
 - [Amazon has 365 days to pour $150 million into diverse check writers](https://techcrunch.com/2022/10/06/amazon-has-365-days-to-pour-150-million-into-diverse-check-writers/)
 - [The Musk vs. Twitter trial is temporarily on hold as proposed deal looms](https://techcrunch.com/2022/10/06/the-musk-v-twitter-trial-is-temporarily-on-hold-as-proposed-deal-looms/)
-- [Daily Crunch: Everything you wanted to know about Google Fall Event 2022 &lpar;but were afraid to ask&rpar;](https://techcrunch.com/2022/10/06/daily-crunch-everything-you-wanted-to-know-about-google-fall-event-2022-but-were-afraid-to-ask/)
-- [Meet the young turks of blockchain, DeFi and web3 exhibiting at TC Sessions: Crypto](https://techcrunch.com/2022/10/06/meet-the-young-turks-of-blockchain-defi-and-web3-exhibiting-at-tc-sessions-crypto/)
-- [SpaceX&#39;s Crew-5 astronaut mission arrives at the International Space Station](https://www.space.com/spacex-crew-5-mission-docking-success/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
