@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [What gloom? Data show it’s still a great time to build a SaaS startup](https://techcrunch.com/2022/10/07/what-gloom-data-show-its-still-a-great-time-to-build-a-saas-startup/)
-- [Musk and Kardashian remind us to stop crying for the wealthy](https://techcrunch.com/2022/10/07/musk-and-kardashian-remind-us-to-stop-crying-for-the-wealthy/)
-- [For the 1st time, Mars robots found meteorite impact craters by sensing seismic shock waves](https://www.space.com/mars-robots-meteorite-impact-craters-seismic-shock-waves/)
-- [Ukraine invasion&#39;s impacts on space exploration: Live updates](https://www.space.com/news/live/russia-ukraine-invasion-space-impacts-updates/)
-- [Amazon scales back Scout delivery robot program](https://techcrunch.com/2022/10/07/amazon-scales-back-scout-delivery-robot-program/)
+- [Meta Quest 2 gets exclusive VR series ‘Scream Park’ from entertainment studio BlackBox TV](https://techcrunch.com/2022/10/07/meta-quest-2-gets-exclusive-vr-series-scream-park-from-entertainment-studio-blackbox-tv/)
+- [Nice try, startup, but that’s not your serviceable obtainable market &lpar;SOM&rpar;](https://techcrunch.com/2022/10/07/nice-try-not-your-som/)
+- [Catch the best views of Mercury at its highest in the sky on Saturday &lpar;Oct. 8&rpar;](https://www.space.com/mercury-best-views-highest-point-oct-08-22/)
+- [What happened when this entrepreneur put her startup on hold to help Ukraine, and told VCs to donate](https://techcrunch.com/2022/10/07/what-happened-when-this-entrepreneur-put-her-startup-on-hold-to-help-ukraine-and-told-vcs-to-donate/)
+- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
