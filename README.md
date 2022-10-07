@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [New space arms race could hinder exploration efforts](https://www.space.com/space-weapons-hinder-exploration-efforts/)
-- [Solar eclipses 2022: When, where &amp; how to see them](https://www.space.com/33784-solar-eclipse-guide.html/)
-- [Twitter nudges you to share the tweet instead of taking a screenshot](https://techcrunch.com/2022/10/07/twitter-nudges-you-to-share-the-tweet-instead-of-taking-a-screenshot/)
-- [New 3D view of Cat&#39;s Eye Nebula suggests double star hides at its heart](https://www.space.com/cats-eye-nebula-jets-3d-model/)
-- [Convective Capital’s $35 million answer to the increasing threat of wildfires](https://techcrunch.com/2022/10/07/convective-capitals-35-million-answer-to-the-increasing-threat-of-wildfires/)
+- [Visa dives deeper into crypto as FTX-linked debit card expands outside US](https://techcrunch.com/2022/10/07/visa-dives-deeper-into-crypto-as-ftx-linked-debit-card-expands-outside-us/)
+- [On This Day In Space: Oct. 7, 2002: STS-112 launches to the International Space Station](https://www.space.com/39251-on-this-day-in-space.html/)
+- [SpaceX Falcon 9 rocket aborts double-satellite launch at last minute](https://www.space.com/spacex-rocket-launch-abort-intelsat-satellites/)
+- [Watch SpaceX Falcon 9 rocket launch on record-tying 14th mission Friday night](https://www.space.com/spacex-galaxy-33-34-intelsat-satellite-launch/)
+- [Google will open its first data center in Japan in 2023](https://techcrunch.com/2022/10/07/google-will-open-its-first-data-center-in-japan-in-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
