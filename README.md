@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New 3D view of Cat&#39;s Eye Nebula suggests double star hides at its heart](https://www.space.com/cats-eye-nebula-jets-3d-model/)
+- [Convective Capital’s $35 million answer to the increasing threat of wildfires](https://techcrunch.com/2022/10/07/convective-capitals-35-million-answer-to-the-increasing-threat-of-wildfires/)
+- [The asteroid targets of this NASA mission are turning out to be very strange](https://www.space.com/lucy-trojan-asteroid-targets-weird-shapes/)
+- [Satellite images reveal the scale of Nord Stream pipeline leak](https://www.space.com/satellite-images-nord-stream-pipeline-leak-scale/)
 - [Purple Elephant Ventures, Kenya’s tourism-focused startup studio, raises $1M pre-seed funding](https://techcrunch.com/2022/10/07/purple-elephant-ventures-kenyas-tourism-focused-startup-studio-raises-1m-pre-seed-funding/)
-- [SaaS platform klikit saves restaurant kitchens from “tablet hell”](https://techcrunch.com/2022/10/06/saas-platform-klikit-saves-restaurant-kitchens-from-tablet-hell/)
-- [Tesla Semi production begins with Pepsi getting the first deliveries](https://techcrunch.com/2022/10/06/tesla-semi-production-begins-with-pepsi-getting-the-first-deliveries/)
-- [As the market cools, aggressive Tiger Global looks to raise a fund that’s half the size as its last](https://techcrunch.com/2022/10/06/as-the-market-cools-aggressive-tiger-global-looks-to-raise-a-fund-thats-half-the-size-as-its-last/)
-- [Did Kim Kardashian really deserve that crypto fine?](https://techcrunch.com/2022/10/06/did-kim-kardashian-really-deserve-that-crypto-fine/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
