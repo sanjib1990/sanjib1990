@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Elon and Twitter’s will-they, won’t-they &lpar;and other TC news&rpar;](https://techcrunch.com/2022/10/07/tc-podcast-what-will-elon-do-next/)
+- [Even as ESG faces growing backlash, these companies are all-in](https://techcrunch.com/2022/10/07/even-as-esg-faces-growing-backlash-these-companies-are-all-in/)
+- [Rocket Lab launches satellite wildlife tracking satellite into space](https://www.space.com/rocket-lab-argos-wildlife-satellite-launch/)
 - [Netflix reaches historic deal with AMC, Regal, Cinemark to show ‘Knives Out’ sequel in theaters](https://techcrunch.com/2022/10/07/netflix-reaches-historic-deal-with-amc-regal-cinemark-to-show-knives-out-sequel-in-theaters/)
 - [Telescope deals: Top picks from Celestron, Sky-Watcher and others](https://www.space.com/telescopes-deals-sale-discount/)
-- [Shopify agrees to consumer safety tweaks in Europe](https://techcrunch.com/2022/10/07/shopify-consumer-protection-commitments-eu/)
-- [5 key IP considerations for AI startups](https://techcrunch.com/2022/10/07/5-key-ip-considerations-for-ai-startups/)
-- [TechCrunch+ roundup: Green card sponsorships, startup prenups, agtech VC survey](https://techcrunch.com/2022/10/07/techcrunch-roundup-green-card-sponsorships-startup-prenups-agtech-vc-survey/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
