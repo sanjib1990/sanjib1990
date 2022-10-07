@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New space arms race could hinder exploration efforts](https://www.space.com/space-weapons-hinder-exploration-efforts/)
+- [Solar eclipses 2022: When, where &amp; how to see them](https://www.space.com/33784-solar-eclipse-guide.html/)
+- [Twitter nudges you to share the tweet instead of taking a screenshot](https://techcrunch.com/2022/10/07/twitter-nudges-you-to-share-the-tweet-instead-of-taking-a-screenshot/)
 - [New 3D view of Cat&#39;s Eye Nebula suggests double star hides at its heart](https://www.space.com/cats-eye-nebula-jets-3d-model/)
 - [Convective Capital’s $35 million answer to the increasing threat of wildfires](https://techcrunch.com/2022/10/07/convective-capitals-35-million-answer-to-the-increasing-threat-of-wildfires/)
-- [The asteroid targets of this NASA mission are turning out to be very strange](https://www.space.com/lucy-trojan-asteroid-targets-weird-shapes/)
-- [Satellite images reveal the scale of Nord Stream pipeline leak](https://www.space.com/satellite-images-nord-stream-pipeline-leak-scale/)
-- [Purple Elephant Ventures, Kenya’s tourism-focused startup studio, raises $1M pre-seed funding](https://techcrunch.com/2022/10/07/purple-elephant-ventures-kenyas-tourism-focused-startup-studio-raises-1m-pre-seed-funding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
