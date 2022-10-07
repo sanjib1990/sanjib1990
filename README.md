@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [President Biden signs Executive Order aimed at legal reboot of EU-US data flows](https://techcrunch.com/2022/10/07/eu-us-data-privacy-framework-executive-order-signed/)
-- [&#39;Cannibal&#39; stars have shortest known orbit of all binary systems](https://www.space.com/cataclysmic-variable-cannibal-binary-star-system/)
-- [FlyFeed flies in the face of the global food crisis](https://techcrunch.com/2022/10/07/flyfeed-angel-round/)
-- [AI music generators could be a boon for artists — but also problematic](https://techcrunch.com/2022/10/07/ai-music-generator-dance-diffusion/)
-- [Watch Rocket Lab launch a satellite for wildlife tracking and more today &lpar;Oct. 7&rpar;](https://www.space.com/rocket-lab-argos-wildlife-satellite-launch/)
+- [Netflix reaches historic deal with AMC, Regal, Cinemark to show ‘Knives Out’ sequel in theaters](https://techcrunch.com/2022/10/07/netflix-reaches-historic-deal-with-amc-regal-cinemark-to-show-knives-out-sequel-in-theaters/)
+- [Telescope deals: Top picks from Celestron, Sky-Watcher and others](https://www.space.com/telescopes-deals-sale-discount/)
+- [Shopify agrees to consumer safety tweaks in Europe](https://techcrunch.com/2022/10/07/shopify-consumer-protection-commitments-eu/)
+- [5 key IP considerations for AI startups](https://techcrunch.com/2022/10/07/5-key-ip-considerations-for-ai-startups/)
+- [TechCrunch+ roundup: Green card sponsorships, startup prenups, agtech VC survey](https://techcrunch.com/2022/10/07/techcrunch-roundup-green-card-sponsorships-startup-prenups-agtech-vc-survey/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
