@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SaaS platform klikit saves restaurant kitchens from “tablet hell”](https://techcrunch.com/2022/10/06/saas-platform-klikit-saves-restaurant-kitchens-from-tablet-hell/)
 - [Tesla Semi production begins with Pepsi getting the first deliveries](https://techcrunch.com/2022/10/06/tesla-semi-production-begins-with-pepsi-getting-the-first-deliveries/)
 - [As the market cools, aggressive Tiger Global looks to raise a fund that’s half the size as its last](https://techcrunch.com/2022/10/06/as-the-market-cools-aggressive-tiger-global-looks-to-raise-a-fund-thats-half-the-size-as-its-last/)
 - [Did Kim Kardashian really deserve that crypto fine?](https://techcrunch.com/2022/10/06/did-kim-kardashian-really-deserve-that-crypto-fine/)
 - [Amazon has 365 days to pour $150 million into diverse check writers](https://techcrunch.com/2022/10/06/amazon-has-365-days-to-pour-150-million-into-diverse-check-writers/)
-- [The Musk vs. Twitter trial is temporarily on hold as proposed deal looms](https://techcrunch.com/2022/10/06/the-musk-v-twitter-trial-is-temporarily-on-hold-as-proposed-deal-looms/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
