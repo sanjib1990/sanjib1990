@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Elon Musk buying Twitter after all, the ‘next Mark Zuckerberg’ and fare thee well, Stadia](https://techcrunch.com/2022/10/08/elon-musk-buying-twitter-after-all-the-next-mark-zuckerberg-and-fare-thee-well-stadia/)
+- [This Week in Apps: Twitter gets an Edit button, Instagram increases ads, Google gets serious about wearables](https://techcrunch.com/2022/10/08/this-week-in-apps-twitter-gets-an-edit-button-instagram-increases-ads-google-gets-serious-about-wearables/)
 - [Toil and trouble and … startup acquisitions!](https://techcrunch.com/2022/10/08/toil-and-trouble-and-startup-acquisitions/)
 - [US VC funding is holding up, but globally things are far from fair](https://techcrunch.com/2022/10/08/us-vc-funding-is-holding-up-but-globally-things-are-far-from-fair/)
 - [Elon Musk’s X app for ‘everything’ might be a non-starter in the US](https://techcrunch.com/2022/10/08/elon-musk-x-everything-wechat-tesla-app/)
-- [Could corporates be good matchmakers for startups and VCs?](https://techcrunch.com/2022/10/08/could-corporates-be-good-matchmakers-for-startups-and-vcs/)
-- [See Mercury shine bright while far from the sun on Saturday &lpar;Oct. 8&rpar;](https://www.space.com/news/mercury-at-dichotomy-shines-far-from-the-sun-on-saturday-oct-8/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
