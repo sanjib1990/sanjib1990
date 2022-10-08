@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [James Webb Space Telescope reveals the &#39;bones&#39; of a distant galaxy in stunning new image](https://www.space.com/james-webb-space-telescope-spiral-galaxy-bones/)
+- [See the moon visit Jupiter Saturday evening &lpar;Oct. 8&rpar;](https://www.space.com/moon-visits-jupiter-skywatching-oct-08-22/)
+- [NASA&#39;s tiny CAPSTONE moon probe has finally stopped tumbling in space](https://www.space.com/nasa-capstone-moon-probe-stop-tumbling-space/)
 - [Pakistan revokes YC-backed Tag’s fintech services, orders to pull apps](https://techcrunch.com/2022/10/07/tag-fintech-state-bank-of-pakistan/)
 - [China’s once-popular crypto exchange Huobi Global bought by About Capital](https://techcrunch.com/2022/10/07/huobi-crypto-exchange-about-capital-china/)
-- [Rivian voluntarily recalls 13,000 EVs for a potential loose fastener](https://techcrunch.com/2022/10/07/rivian-voluntarily-recalls-13000-evs-for-a-potential-loose-fastener/)
-- [Daily Crunch: Binance admits hackers used cross-chain bridge to steal at least $100M](https://techcrunch.com/2022/10/07/daily-crunch-binance-admits-hackers-used-cross-chain-bridge-to-steal-at-least-100m/)
-- [Draconid meteor shower peaks this weekend under Hunter&#39;s Moon](https://www.space.com/draconid-meteor-shower-peak-oct-09-22/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
