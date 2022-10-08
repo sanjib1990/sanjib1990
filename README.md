@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Will Tom Cruise perform a spacewalk while shooting film on space station?](https://www.space.com/tom-cruise-spacewalk-international-space-station/)
 - [On This Day In Space: Oct. 8, 1992: Pioneer 12 burns Up in Venus&#39; atmosphere](https://www.space.com/39251-on-this-day-in-space.html/)
 - [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html/)
 - [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html/)
 - [James Webb Space Telescope reveals the &#39;bones&#39; of a distant galaxy in stunning new image](https://www.space.com/james-webb-space-telescope-spiral-galaxy-bones/)
-- [See the moon visit Jupiter Saturday evening &lpar;Oct. 8&rpar;](https://www.space.com/moon-visits-jupiter-skywatching-oct-08-22/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
