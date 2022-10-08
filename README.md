@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ACLU’s Jennifer Stisa Granick and Google’s Maddie Stone talk security and surveillance at Disrupt](https://techcrunch.com/2022/10/08/aclus-jennifer-stisa-granick-and-googles-maddie-stone-talk-security-and-surveillance-at-disrupt/)
+- [Best multiverse movies and TV shows: from Dr Strange to Dr Who](https://www.space.com/best-multiverse-movies-and-tv-shows/)
+- [This Week In Space podcast: Episode 32 — Space Art Master James Vaughan](https://www.space.com/this-week-in-space-podcast-twit/)
 - [Watch a SpaceX Falcon 9 rocket launch on its 14th mission tonight &lpar;Oct. 8&rpar;](https://www.space.com/spacex-galaxy-33-34-intelsat-satellite-launch/)
 - [Will Tom Cruise perform a spacewalk while shooting film on space station?](https://www.space.com/tom-cruise-spacewalk-international-space-station/)
-- [On This Day In Space: Oct. 8, 1992: Pioneer 12 burns Up in Venus&#39; atmosphere](https://www.space.com/39251-on-this-day-in-space.html/)
-- [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html/)
-- [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
