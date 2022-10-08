@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Could corporates be good matchmakers for startups and VCs?](https://techcrunch.com/2022/10/08/could-corporates-be-good-matchmakers-for-startups-and-vcs/)
 - [ACLU’s Jennifer Stisa Granick and Google’s Maddie Stone talk security and surveillance at Disrupt](https://techcrunch.com/2022/10/08/aclus-jennifer-stisa-granick-and-googles-maddie-stone-talk-security-and-surveillance-at-disrupt/)
 - [Best multiverse movies and TV shows: from Dr Strange to Dr Who](https://www.space.com/best-multiverse-movies-and-tv-shows/)
 - [This Week In Space podcast: Episode 32 — Space Art Master James Vaughan](https://www.space.com/this-week-in-space-podcast-twit/)
 - [Watch a SpaceX Falcon 9 rocket launch on its 14th mission tonight &lpar;Oct. 8&rpar;](https://www.space.com/spacex-galaxy-33-34-intelsat-satellite-launch/)
-- [Will Tom Cruise perform a spacewalk while shooting film on space station?](https://www.space.com/tom-cruise-spacewalk-international-space-station/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
