@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [On This Day In Space: Oct. 8, 1992: Pioneer 12 burns Up in Venus&#39; atmosphere](https://www.space.com/39251-on-this-day-in-space.html/)
+- [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html/)
+- [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html/)
 - [James Webb Space Telescope reveals the &#39;bones&#39; of a distant galaxy in stunning new image](https://www.space.com/james-webb-space-telescope-spiral-galaxy-bones/)
 - [See the moon visit Jupiter Saturday evening &lpar;Oct. 8&rpar;](https://www.space.com/moon-visits-jupiter-skywatching-oct-08-22/)
-- [NASA&#39;s tiny CAPSTONE moon probe has finally stopped tumbling in space](https://www.space.com/nasa-capstone-moon-probe-stop-tumbling-space/)
-- [Pakistan revokes YC-backed Tag’s fintech services, orders to pull apps](https://techcrunch.com/2022/10/07/tag-fintech-state-bank-of-pakistan/)
-- [China’s once-popular crypto exchange Huobi Global bought by About Capital](https://techcrunch.com/2022/10/07/huobi-crypto-exchange-about-capital-china/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
