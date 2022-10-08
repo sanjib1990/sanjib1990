@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Toil and trouble and … startup acquisitions!](https://techcrunch.com/2022/10/08/toil-and-trouble-and-startup-acquisitions/)
 - [US VC funding is holding up, but globally things are far from fair](https://techcrunch.com/2022/10/08/us-vc-funding-is-holding-up-but-globally-things-are-far-from-fair/)
 - [Elon Musk’s X app for ‘everything’ might be a non-starter in the US](https://techcrunch.com/2022/10/08/elon-musk-x-everything-wechat-tesla-app/)
 - [Could corporates be good matchmakers for startups and VCs?](https://techcrunch.com/2022/10/08/could-corporates-be-good-matchmakers-for-startups-and-vcs/)
 - [See Mercury shine bright while far from the sun on Saturday &lpar;Oct. 8&rpar;](https://www.space.com/news/mercury-at-dichotomy-shines-far-from-the-sun-on-saturday-oct-8/)
-- [ACLU’s Jennifer Stisa Granick and Google’s Maddie Stone talk security and surveillance at Disrupt](https://techcrunch.com/2022/10/08/aclus-jennifer-stisa-granick-and-googles-maddie-stone-talk-security-and-surveillance-at-disrupt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
