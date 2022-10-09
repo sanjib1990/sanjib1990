@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter locks Kanye West’s account for anti-semitic tweet following warm Elon Musk welcome](https://techcrunch.com/2022/10/09/kanye-west-twitter-elon-musk/)
 - [Recalled EV? Automakers shouldn’t get to count it toward fleetwide fuel economy](https://techcrunch.com/2022/10/09/recalled-ev-automakers-shouldnt-get-to-count-it-toward-fleet-wide-fuel-economy/)
 - [Is the RPA market in trouble?](https://techcrunch.com/2022/10/09/is-the-rpa-market-in-trouble/)
 - [&#39;Rick and Morty&#39; cookbook offers sci-fi recipes straight from the multiverse](https://www.space.com/rick-and-morty-official-cookbook-multiverse/)
 - [China launches ASO-S satellite to study the sun and space weather](https://www.space.com/china-launches-advanced-space-based-solar-observatory/)
-- [Dragonfly GP talks web3’s current and future state at TC Sessions: Crypto](https://techcrunch.com/2022/10/09/dragonfly-gp-talks-web3s-current-and-future-state-at-tc-sessions-crypto/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
