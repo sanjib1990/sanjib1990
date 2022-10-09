@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [On This Day In Space: Oct. 9, 1992: Peekskill Meteorite Lands in New York](https://www.space.com/39251-on-this-day-in-space.html/)
+- [Could an asteroid destroy Earth?](https://www.space.com/can-asteroid-impact-destroy-earth/)
+- [Asteroid that wiped out the dinosaurs also triggered &#39;mega earthquake&#39;](https://www.space.com/asteroid-impact-dinosaur-extinction-mega-earthquake/)
+- [Spooky shadows emerge against a glittering sea of stars &lpar;image&rpar;](https://www.space.com/dark-nebulas-photo-small-sagittarius-star-cloud/)
 - [SpaceX Falcon 9 rocket launches 2 satellites on record-tying 14th mission](https://www.space.com/spacex-galaxy-33-34-intelsat-satellite-launch/)
-- [Full moon calendar 2022: When to see the next full moon](https://www.space.com/16830-full-moon-calendar.html/)
-- [Elon Musk buying Twitter after all, the ‘next Mark Zuckerberg’ and fare thee well, Stadia](https://techcrunch.com/2022/10/08/elon-musk-buying-twitter-after-all-the-next-mark-zuckerberg-and-fare-thee-well-stadia/)
-- [This Week in Apps: Twitter gets an Edit button, Instagram increases ads, Google gets serious about wearables](https://techcrunch.com/2022/10/08/this-week-in-apps-twitter-gets-an-edit-button-instagram-increases-ads-google-gets-serious-about-wearables/)
-- [Toil and trouble and … startup acquisitions!](https://techcrunch.com/2022/10/08/toil-and-trouble-and-startup-acquisitions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
