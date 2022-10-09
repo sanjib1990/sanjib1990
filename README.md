@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX Falcon 9 rocket launches 2 satellites on record-tying 14th mission](https://www.space.com/spacex-galaxy-33-34-intelsat-satellite-launch/)
 - [Full moon calendar 2022: When to see the next full moon](https://www.space.com/16830-full-moon-calendar.html/)
 - [Elon Musk buying Twitter after all, the ‘next Mark Zuckerberg’ and fare thee well, Stadia](https://techcrunch.com/2022/10/08/elon-musk-buying-twitter-after-all-the-next-mark-zuckerberg-and-fare-thee-well-stadia/)
 - [This Week in Apps: Twitter gets an Edit button, Instagram increases ads, Google gets serious about wearables](https://techcrunch.com/2022/10/08/this-week-in-apps-twitter-gets-an-edit-button-instagram-increases-ads-google-gets-serious-about-wearables/)
 - [Toil and trouble and … startup acquisitions!](https://techcrunch.com/2022/10/08/toil-and-trouble-and-startup-acquisitions/)
-- [US VC funding is holding up, but globally things are far from fair](https://techcrunch.com/2022/10/08/us-vc-funding-is-holding-up-but-globally-things-are-far-from-fair/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
