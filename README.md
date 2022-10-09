@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is the RPA market in trouble?](https://techcrunch.com/2022/10/09/is-the-rpa-market-in-trouble/)
 - [&#39;Rick and Morty&#39; cookbook offers sci-fi recipes straight from the multiverse](https://www.space.com/rick-and-morty-official-cookbook-multiverse/)
 - [China launches ASO-S satellite to study the sun and space weather](https://www.space.com/china-launches-advanced-space-based-solar-observatory/)
 - [Dragonfly GP talks web3’s current and future state at TC Sessions: Crypto](https://techcrunch.com/2022/10/09/dragonfly-gp-talks-web3s-current-and-future-state-at-tc-sessions-crypto/)
 - [‘Last year was the party. This year is the hangover.’](https://techcrunch.com/2022/10/09/last-year-was-the-party-this-year-is-the-hangover/)
-- [See the pumpkin orange Full Hunter&#39;s Moon of October 2022 rise tonight! Here&#39;s what to expect.](https://www.space.com/full-hunters-moon-orange-october-09-22/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
