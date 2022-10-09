@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dragonfly GP talks web3’s current and future state at TC Sessions: Crypto](https://techcrunch.com/2022/10/09/dragonfly-gp-talks-web3s-current-and-future-state-at-tc-sessions-crypto/)
+- [‘Last year was the party. This year is the hangover.’](https://techcrunch.com/2022/10/09/last-year-was-the-party-this-year-is-the-hangover/)
 - [See the pumpkin orange Full Hunter&#39;s Moon of October 2022 rise tonight! Here&#39;s what to expect.](https://www.space.com/full-hunters-moon-orange-october-09-22/)
 - [Titan Comics returns to hardcore sci-fi with new &#39;Blade Runner 2039&#39; series](https://www.space.com/blade-runner-2039-titan-comics/)
 - [On This Day In Space: Oct. 9, 1992: Peekskill Meteorite Lands in New York](https://www.space.com/39251-on-this-day-in-space.html/)
-- [Could an asteroid destroy Earth?](https://www.space.com/can-asteroid-impact-destroy-earth/)
-- [Asteroid that wiped out the dinosaurs also triggered &#39;mega earthquake&#39;](https://www.space.com/asteroid-impact-dinosaur-extinction-mega-earthquake/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
