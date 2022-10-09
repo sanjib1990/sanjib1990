@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See the pumpkin orange Full Hunter&#39;s Moon of October 2022 rise tonight! Here&#39;s what to expect.](https://www.space.com/full-hunters-moon-orange-october-09-22/)
+- [Titan Comics returns to hardcore sci-fi with new &#39;Blade Runner 2039&#39; series](https://www.space.com/blade-runner-2039-titan-comics/)
 - [On This Day In Space: Oct. 9, 1992: Peekskill Meteorite Lands in New York](https://www.space.com/39251-on-this-day-in-space.html/)
 - [Could an asteroid destroy Earth?](https://www.space.com/can-asteroid-impact-destroy-earth/)
 - [Asteroid that wiped out the dinosaurs also triggered &#39;mega earthquake&#39;](https://www.space.com/asteroid-impact-dinosaur-extinction-mega-earthquake/)
-- [Spooky shadows emerge against a glittering sea of stars &lpar;image&rpar;](https://www.space.com/dark-nebulas-photo-small-sagittarius-star-cloud/)
-- [SpaceX Falcon 9 rocket launches 2 satellites on record-tying 14th mission](https://www.space.com/spacex-galaxy-33-34-intelsat-satellite-launch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
