@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple TV+’s ‘Ted Lasso’ partners with Bumble to give users a blind dating experience](https://techcrunch.com/2022/10/10/apple-tvs-ted-lasso-partners-with-bumble-to-give-users-a-blind-dating-experience/)
+- [NASA Webb Image Coming This Week](https://blogs.nasa.gov/webb/2022/10/10/nasa-webb-image-coming-this-week-2/)
+- [Stunning Hunter&#39;s Moon mesmerizes skywatchers all over the world &lpar;photos&rpar;](https://www.space.com/hunters-full-moon-2022-photos/)
 - [Fears of climate tech underinvestment are probably overblown](https://techcrunch.com/2022/10/10/fears-of-climate-tech-underinvestment-are-probably-overblown/)
 - [Pre-Prime Day Early Access Sales deal: Save $100 on a Panasonic Lumix camera](https://www.space.com/panasonic-lumix-fz300-prime-day-early-access-deal/)
-- [Businesses in India are increasingly spamming users on WhatsApp](https://techcrunch.com/2022/10/10/in-india-businesses-are-increasingly-spamming-users-on-whatsapp/)
-- [BeReal tops 53M installs, but only 9% open the app daily, estimates claim](https://techcrunch.com/2022/10/10/bereal-tops-53m-installs-but-only-9-open-the-app-daily-estimates-claim/)
+- [Brands spamming WhatsApp users in India, Facebook’s largest market](https://techcrunch.com/2022/10/10/in-india-businesses-are-increasingly-spamming-users-on-whatsapp/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
