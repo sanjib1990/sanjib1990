@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [China fuels final space station module ahead of launch](https://www.space.com/china-fuels-mengtian-final-space-station-module/)
 - [It would be nice to not talk about Elon Musk for a bit](https://techcrunch.com/2022/10/10/it-would-be-nice-to-not-talk-about-elon-musk-for-a-bit/)
 - [Get the HP Reverb G2 VR headset for just $349 - its lowest ever price](https://www.space.com/get-the-hp-reverb-g2-for-349-dollars-lowest-ever-price/)
 - [First ever map of Milky Way&#39;s galactic graveyard revealed](https://www.space.com/first-map-milky-way-galactic-graveyard/)
 - [Only 72 hours left to save hundreds on TC Sessions: Crypto passes](https://techcrunch.com/2022/10/10/only-72-hours-left-to-save-hundreds-on-tc-sessions-crypto-passes/)
-- [Growth hacking is really just growth testing](https://techcrunch.com/2022/10/10/growth-hacking-is-really-just-growth-testing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
