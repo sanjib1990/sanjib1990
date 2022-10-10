@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: After bans by Apple and Google, The OG App ‘will be unable to continue serving users’](https://techcrunch.com/2022/10/10/daily-crunch-after-bans-by-apple-and-google-the-og-app-will-be-unable-to-continue-serving-users/)
+- [AgriWebb’s software seeks to boost yields, lower environmental impacts for farmers and ranchers](https://techcrunch.com/2022/10/10/agriwebbs-software-seeks-to-boost-yields-lower-environmental-impacts-for-farmers-and-ranchers/)
+- [Max Q: Oh my gourd](https://techcrunch.com/2022/10/10/max-q-oh-my-gourd/)
 - [Great, now the AI is coming for your grandma’s recipes as well!](https://techcrunch.com/2022/10/10/yummy-ai-recipes/)
 - [Matrix Partners, long an investor in software infrastructure, has some questions about web3](https://techcrunch.com/2022/10/10/matrix-800m/)
-- [NASA Webb Image Coming This Week](https://blogs.nasa.gov/webb/2022/10/10/nasa-webb-image-coming-this-week-2/)
-- [It’s your last week to save on passes to TechCrunch Disrupt](https://techcrunch.com/2022/10/10/its-your-last-week-to-save-on-passes-to-techcrunch-disrupt/)
-- [Stunning Hunter&#39;s Moon mesmerizes skywatchers all over the world &lpar;photos&rpar;](https://www.space.com/hunters-full-moon-2022-photos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
