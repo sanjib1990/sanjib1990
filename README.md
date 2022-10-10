@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OG App, what exactly was your end game here?](https://techcrunch.com/2022/10/10/lol-come-on/)
 - [Daily Crunch: After bans by Apple and Google, The OG App ‘will be unable to continue serving users’](https://techcrunch.com/2022/10/10/daily-crunch-after-bans-by-apple-and-google-the-og-app-will-be-unable-to-continue-serving-users/)
 - [AgriWebb’s software seeks to boost yields, lower environmental impacts for farmers and ranchers](https://techcrunch.com/2022/10/10/agriwebbs-software-seeks-to-boost-yields-lower-environmental-impacts-for-farmers-and-ranchers/)
 - [Max Q: Oh my gourd](https://techcrunch.com/2022/10/10/max-q-oh-my-gourd/)
 - [Great, now the AI is coming for your grandma’s recipes as well!](https://techcrunch.com/2022/10/10/yummy-ai-recipes/)
-- [Matrix Partners, long an investor in software infrastructure, has some questions about web3](https://techcrunch.com/2022/10/10/matrix-800m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
