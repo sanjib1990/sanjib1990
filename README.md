@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [China fuels final space station module ahead of launch](https://www.space.com/china-fuels-mengtian-final-space-station-module/)
-- [It would be nice to not talk about Elon Musk for a bit](https://techcrunch.com/2022/10/10/it-would-be-nice-to-not-talk-about-elon-musk-for-a-bit/)
-- [Get the HP Reverb G2 VR headset for just $349 - its lowest ever price](https://www.space.com/get-the-hp-reverb-g2-for-349-dollars-lowest-ever-price/)
-- [First ever map of Milky Way&#39;s galactic graveyard revealed](https://www.space.com/first-map-milky-way-galactic-graveyard/)
-- [Only 72 hours left to save hundreds on TC Sessions: Crypto passes](https://techcrunch.com/2022/10/10/only-72-hours-left-to-save-hundreds-on-tc-sessions-crypto-passes/)
+- [Meilisearch lands $15M investment to grow its ‘search-as-a-service’ business](https://techcrunch.com/2022/10/10/meilisearch-lands-15m-investment-to-grow-its-search-as-a-service-business/)
+- [Green shoots appear in crypto land as winter reigns](https://techcrunch.com/2022/10/10/looking-for-green-shoots-in-crypto-land-as-winter-reigns/)
+- [YouTube to broadly support the @username format with launch of YouTube handles](https://techcrunch.com/2022/10/10/youtube-to-broadly-support-the-username-format-with-launch-of-youtube-handles/)
+- [Novel superconducting magnet thrusters to be tested out on ISS](https://www.space.com/superconducting-magnet-thruster-tested-space-station/)
+- [VR headset deals: Save on Meta Quest 2, PSVR &amp; more](https://www.space.com/vr-headset-deals/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
