@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [It would be nice to not talk about Elon Musk for a bit](https://techcrunch.com/2022/10/10/it-would-be-nice-to-not-talk-about-elon-musk-for-a-bit/)
+- [Get the HP Reverb G2 VR headset for just $349 - its lowest ever price](https://www.space.com/get-the-hp-reverb-g2-for-349-dollars-lowest-ever-price/)
+- [First ever map of Milky Way&#39;s galactic graveyard revealed](https://www.space.com/first-map-milky-way-galactic-graveyard/)
 - [Only 72 hours left to save hundreds on TC Sessions: Crypto passes](https://techcrunch.com/2022/10/10/only-72-hours-left-to-save-hundreds-on-tc-sessions-crypto-passes/)
 - [Growth hacking is really just growth testing](https://techcrunch.com/2022/10/10/growth-hacking-is-really-just-growth-testing/)
-- [Meteor showers 2022: Where, when and how to see them](https://www.space.com/39469-best-meteor-showers.html/)
-- [Grab the Meta Quest 2 and get Beat Saber &amp; YouTube Premium free in Best Buy&#39;s pre-Prime Day Early Access deal](https://www.space.com/meta-quest-2-pre-prime-early-access-deal-2022/)
-- [Foodology’s cloud kitchen concept gains foothold across Latin America](https://techcrunch.com/2022/10/10/foodology-cloud-kitchen-50m-latin-america/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
