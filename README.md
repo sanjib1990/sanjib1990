@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Snapchat brings parental controls to India through in-app tool ‘Family Center’](https://techcrunch.com/2022/10/09/snapchat-parental-controls-family-center-india/)
+- [Demanding employees turn on their webcams is a human rights violation, Dutch Court rules](https://techcrunch.com/2022/10/09/ixnay-on-the-webcams/)
 - [Twitter locks Kanye West’s account for antisemitic tweet following warm Elon Musk welcome](https://techcrunch.com/2022/10/09/kanye-west-twitter-elon-musk/)
 - [Recalled EV? Automakers shouldn’t get to count it toward fleetwide fuel economy](https://techcrunch.com/2022/10/09/recalled-ev-automakers-shouldnt-get-to-count-it-toward-fleet-wide-fuel-economy/)
 - [Is the RPA market in trouble?](https://techcrunch.com/2022/10/09/is-the-rpa-market-in-trouble/)
-- [&#39;Rick and Morty&#39; cookbook offers sci-fi recipes straight from the multiverse](https://www.space.com/rick-and-morty-official-cookbook-multiverse/)
-- [China launches ASO-S satellite to study the sun and space weather](https://www.space.com/china-launches-advanced-space-based-solar-observatory/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
