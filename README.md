@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Meilisearch lands $15M investment to grow its ‘search-as-a-service’ business](https://techcrunch.com/2022/10/10/meilisearch-lands-15m-investment-to-grow-its-search-as-a-service-business/)
-- [Green shoots appear in crypto land as winter reigns](https://techcrunch.com/2022/10/10/looking-for-green-shoots-in-crypto-land-as-winter-reigns/)
-- [YouTube to broadly support the @username format with launch of YouTube handles](https://techcrunch.com/2022/10/10/youtube-to-broadly-support-the-username-format-with-launch-of-youtube-handles/)
-- [Novel superconducting magnet thrusters to be tested out on ISS](https://www.space.com/superconducting-magnet-thruster-tested-space-station/)
-- [VR headset deals: Save on Meta Quest 2, PSVR &amp; more](https://www.space.com/vr-headset-deals/)
+- [Apple TV+’s ‘Ted Lasso’ partners with Bumble to give users a blind dating experience](https://techcrunch.com/2022/10/10/apple-tvs-ted-lasso-partners-with-bumble-to-give-users-a-blind-dating-experience/)
+- [Fears of climate tech underinvestment are probably overblown](https://techcrunch.com/2022/10/10/fears-of-climate-tech-underinvestment-are-probably-overblown/)
+- [Pre-Prime Day Early Access Sales deal: Save $100 on a Panasonic Lumix camera](https://www.space.com/panasonic-lumix-fz300-prime-day-early-access-deal/)
+- [Businesses in India are increasingly spamming users on WhatsApp](https://techcrunch.com/2022/10/10/in-india-businesses-are-increasingly-spamming-users-on-whatsapp/)
+- [BeReal tops 53M installs, but only 9% open the app daily, estimates claim](https://techcrunch.com/2022/10/10/bereal-tops-53m-installs-but-only-9-open-the-app-daily-estimates-claim/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
