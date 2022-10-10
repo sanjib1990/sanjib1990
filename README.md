@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Clerkenwell Health raises £2.1m to test the new wave of psychedelics treatments](https://techcrunch.com/2022/10/10/clerkenwell-health-raises-2-1m-to-test-the-new-wave-of-psychedelics-treatments/)
 - [Snapchat brings parental controls to India through in-app tool ‘Family Center’](https://techcrunch.com/2022/10/09/snapchat-parental-controls-family-center-india/)
 - [Demanding employees turn on their webcams is a human rights violation, Dutch Court rules](https://techcrunch.com/2022/10/09/ixnay-on-the-webcams/)
 - [Twitter locks Kanye West’s account for antisemitic tweet following warm Elon Musk welcome](https://techcrunch.com/2022/10/09/kanye-west-twitter-elon-musk/)
 - [Recalled EV? Automakers shouldn’t get to count it toward fleetwide fuel economy](https://techcrunch.com/2022/10/09/recalled-ev-automakers-shouldnt-get-to-count-it-toward-fleet-wide-fuel-economy/)
-- [Is the RPA market in trouble?](https://techcrunch.com/2022/10/09/is-the-rpa-market-in-trouble/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
