@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Trendsi secures $25M to help sellers and manufacturers predict demand](https://techcrunch.com/2022/10/10/trendsi-secures-25m-to-help-sellers-and-manufacturers-predict-demand/)
 - [On This Day In Space: Oct. 10, 1967: The Outer Space Treaty is born](https://www.space.com/39251-on-this-day-in-space.html/)
 - [Samsung seeks smart TV growth with first Tizen OS licensing deals](https://techcrunch.com/2022/10/10/samsung-seeks-smart-tv-growth-with-first-tizen-os-licensing-deals/)
 - [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html/)
 - [NASA seeks new rockets for hurricane satellite launches after Astra failures](https://www.space.com/nasa-hurricane-satellites-need-new-rockets/)
-- [SpaceX competitor Lynk testing 5G cell phone service from space](https://www.space.com/spacex-competitor-lynk-cell-phone-5g-space-test/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
