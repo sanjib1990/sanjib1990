@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch Japan launch its 1st orbital mission of 2022 tonight](https://www.space.com/japan-epsilon-rocket-launch-october-2022/)
-- [Clearest images yet of Europa and Ganymede from Earth show Jupiter&#39;s icy moons in detail](https://www.space.com/europa-ganymede-jupiter-moons-photos-from-earth/)
-- [Save $90 on the Holy Stone HS700E 4K, an ideal beginner camera drone](https://www.space.com/holy-stone-hs700e-drone-deal-amazon-prime-day-early-access/)
-- [1 million-mile-long plasma plume shoots out of the sun in stunning photo](https://www.space.com/sun-plume-million-mile-long-cme-image/)
-- [Meta announces the $1,499 Quest Pro](https://techcrunch.com/2022/10/11/meta-announces-the-1499-quest-pro/)
+- [Full moon calendar 2022: When to see the next full moon](https://www.space.com/16830-full-moon-calendar.html/)
+- [Wield the Mandalorian Darksaber from &#39;Star Wars&#39; for just $21 this Prime Day](https://www.space.com/star-wars-mandalorian-darksaber-amazon-prime-day/)
+- [Watch astronauts give science lesson from China&#39;s space station early Wednesday](https://www.space.com/chinese-astronauts-science-lesson-tiangong-october-12/)
+- [Watch the moon pass in front of Uranus early Wednesday &lpar;Oct. 12&rpar;](https://www.space.com/moon-covers-uranus-lunar-occultation-oct-12/)
+- [Meta’s vision for the future of VR is a worse version of the past](https://techcrunch.com/2022/10/11/metas-vision-for-the-future-of-vr-is-a-worse-version-of-the-past/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
