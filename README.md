@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Foxglove raises $16M to build dev infrastructure for robots](https://techcrunch.com/2022/10/11/foxglove-raises-16m-to-build-dev-infrastructure-for-robots/)
-- [Earthmover to bring petascale data tools to climate tech with $1.7M pre-seed](https://techcrunch.com/2022/10/11/earthmover-to-bring-petascale-data-tools-to-climate-tech/)
-- [Honda to create $700M EV hub in Ohio](https://techcrunch.com/2022/10/11/honda-ev-ohio-investment/)
-- [Quantori is building an app development platform focused on life sciences](https://techcrunch.com/2022/10/11/quantori-is-building-a-platform-for-developing-life-sciences-applications/)
-- [Cubesat formations could beam ads to Earth, some researchers think](https://www.space.com/cubesat-formations-could-beam-adverts-to-earth/)
+- [Twitter is asking users to enter their birthdate to view sensitive content](https://techcrunch.com/2022/10/11/twitter-is-asking-users-to-enter-their-birthdate-to-view-sensitive-content/)
+- [BMW partners with AirConsole to bring in-car gaming in 2023](https://techcrunch.com/2022/10/11/bmw-partners-with-airconsole-to-bring-in-car-gaming-in-2023/)
+- [Epic Games and Match look to expand their antitrust claims against Google](https://techcrunch.com/2022/10/11/epic-games-and-match-look-to-expand-their-antitrust-claims-against-google/)
+- [Eruption of Italy&#39;s Stromboli volcano spotted from space](https://www.space.com/sentinel-2-stromboli-volcano-eruption-photo/)
+- [Kevin Hart gets serious about financial inclusion at Disrupt](https://techcrunch.com/2022/10/11/kevin-hart-gets-serious-about-financial-inclusion-at-disrupt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
