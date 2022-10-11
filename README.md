@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta announces legs](https://techcrunch.com/2022/10/11/meta-announces-legs/)
-- [Meta and news outlet’s spar deepens India’s trust deficit](https://techcrunch.com/2022/10/11/meta-and-news-outlets-spar-deepens-indias-trust-deficit/)
-- [Meta partners with Microsoft to bring Teams, Windows apps, and games to Quest devices](https://techcrunch.com/2022/10/11/meta-partners-with-microsoft-to-bring-teams-windows-apps-and-games-to-quest-devices/)
+- [Watch Japan launch its 1st orbital mission of 2022 tonight](https://www.space.com/japan-epsilon-rocket-launch-october-2022/)
+- [Clearest images yet of Europa and Ganymede from Earth show Jupiter&#39;s icy moons in detail](https://www.space.com/europa-ganymede-jupiter-moons-photos-from-earth/)
+- [Save $90 on the Holy Stone HS700E 4K, an ideal beginner camera drone](https://www.space.com/holy-stone-hs700e-drone-deal-amazon-prime-day-early-access/)
 - [1 million-mile-long plasma plume shoots out of the sun in stunning photo](https://www.space.com/sun-plume-million-mile-long-cme-image/)
-- [How to go from popular to profitable during a downturn](https://techcrunch.com/2022/10/11/how-to-go-from-popular-to-profitable-during-a-downturn/)
+- [Meta announces the $1,499 Quest Pro](https://techcrunch.com/2022/10/11/meta-announces-the-1499-quest-pro/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
