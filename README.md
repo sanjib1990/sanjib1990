@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [See these new Star Trek Universe teasers for &#39;Picard,&#39; &#39;Prodigy&#39; and &#39;Discovery&#39; from NYCC](https://www.space.com/star-trek-universe-teasers-shown-at-NYCC/)
-- [This startup is building a web3-friendly app store for developers](https://techcrunch.com/2022/10/11/magic-square-web3-app-store-apple/)
+- [Daily Crunch: News and updates from TechCrunch’s Meta Connect 2022 coverage](https://techcrunch.com/2022/10/11/daily-crunch-news-and-updates-from-techcrunchs-meta-connect-2022-coverage/)
+- [Smashing success: NASA’s DART spacecraft bumped an asteroid off its orbit](https://techcrunch.com/2022/10/11/smashing-success-nasas-dart-spacecraft-bumped-an-asteroid-off-its-orbit/)
+- [Here’s what you missed at Meta Connect 2022](https://techcrunch.com/2022/10/11/meta-connect-2022-roundup-quest-pro/)
 - [Federal gig worker proposal tanks Uber, Lyft and DoorDash stocks](https://techcrunch.com/2022/10/11/uber-lyft-doordash-stock-tank-gig-worker-rules/)
-- [Save up to 50% to stream your sci-fi with these Fire TV Cube and Fire TV Stick deals for October Prime Day](https://www.space.com/fire-tv-fire-tv-4k-stick-prime-day-early-access-deals/)
-- [NASA&#39;s DART impact changed asteroid&#39;s orbit forever in planetary defense test](https://www.space.com/nasa-dart-asteroid-impact-orbit-change-success/)
+- [See these new Star Trek Universe teasers for &#39;Picard,&#39; &#39;Prodigy&#39; and &#39;Discovery&#39; from NYCC](https://www.space.com/star-trek-universe-teasers-shown-at-NYCC/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
