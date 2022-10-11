@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Save up to $225 on Anycubic Kobra 3D printers with Amazon Prime Early Access deals](https://www.space.com/save-up-to-225-dollars-on-anycubic-kobra-printers-prime-early-access/)
 - [Construction equipment marketplace raises a $17.5M Series A led by Beringea](https://techcrunch.com/2022/10/11/construction-equipment-marketplace-raises-a-17-5m-series-a-led-by-beringea/)
 - [Nigerian data and intelligence company Stears raises $3.3M, backed by Mac VC and Serena Ventures](https://techcrunch.com/2022/10/10/nigerian-data-and-intelligence-company-stears-raises-3-3m-backed-by-mac-vc-and-serena-ventures/)
 - [Brands are spamming WhatsApp users in India, Facebook’s largest market](https://techcrunch.com/2022/10/10/in-india-businesses-are-increasingly-spamming-users-on-whatsapp/)
 - [Thai beauty platform Konvy raises Series A for international expansion](https://techcrunch.com/2022/10/10/thai-beauty-platform-konvy-raises-series-a-for-international-expansion/)
-- [Singapore-based staffing platform Workmate acquired by Persol Asia Pacific](https://techcrunch.com/2022/10/10/singapore-based-staffing-platform-workmate-acquired-by-persol-asia-pacific/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
