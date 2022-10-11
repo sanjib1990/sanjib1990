@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta’s Quest Store hits $1.5 billion in total revenue to date](https://techcrunch.com/2022/10/11/metas-quest-store-hits-1-5-billion-in-total-revenue-to-date/)
-- [Love the outdoors? Get 39% off on Celestron Nature DX 10x56 binoculars with Prime Day sale](https://www.space.com/celestron-binoculars-nature-dx-prime-day-deal/)
-- [TechCrunch+ roundup: Growth hacking real talk, RPA market slowdown, AI and IP](https://techcrunch.com/2022/10/11/techcrunch-roundup-growth-hacking-real-talk-rpa-market-slowdown-ai-and-ip/)
-- [Largest-ever map of 56,000 galaxies is demystifying the universe&#39;s expansion](https://www.space.com/massive-galaxy-map-universe-expansion-mystery/)
-- [Snapchat now lets you virtually try on and buy Halloween costumes directly within its app](https://techcrunch.com/2022/10/11/snapchat-virtually-try-on-buy-halloween-costumes-directly-within-app/)
+- [Meta announces legs](https://techcrunch.com/2022/10/11/meta-announces-legs/)
+- [Meta and news outlet’s spar deepens India’s trust deficit](https://techcrunch.com/2022/10/11/meta-and-news-outlets-spar-deepens-indias-trust-deficit/)
+- [Meta partners with Microsoft to bring Teams, Windows apps, and games to Quest devices](https://techcrunch.com/2022/10/11/meta-partners-with-microsoft-to-bring-teams-windows-apps-and-games-to-quest-devices/)
+- [1 million-mile-long plasma plume shoots out of the sun in stunning photo](https://www.space.com/sun-plume-million-mile-long-cme-image/)
+- [How to go from popular to profitable during a downturn](https://techcrunch.com/2022/10/11/how-to-go-from-popular-to-profitable-during-a-downturn/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
