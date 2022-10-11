@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Save up to $225 on Anycubic Kobra 3D printers with Amazon Prime Early Access deals](https://www.space.com/save-up-to-225-dollars-on-anycubic-kobra-printers-prime-early-access/)
-- [Construction equipment marketplace raises a $17.5M Series A led by Beringea](https://techcrunch.com/2022/10/11/construction-equipment-marketplace-raises-a-17-5m-series-a-led-by-beringea/)
-- [Nigerian data and intelligence company Stears raises $3.3M, backed by Mac VC and Serena Ventures](https://techcrunch.com/2022/10/10/nigerian-data-and-intelligence-company-stears-raises-3-3m-backed-by-mac-vc-and-serena-ventures/)
-- [Brands are spamming WhatsApp users in India, Facebook’s largest market](https://techcrunch.com/2022/10/10/in-india-businesses-are-increasingly-spamming-users-on-whatsapp/)
-- [Thai beauty platform Konvy raises Series A for international expansion](https://techcrunch.com/2022/10/10/thai-beauty-platform-konvy-raises-series-a-for-international-expansion/)
+- [How to use the James Webb Space Telescope to hunt for life around white dwarfs](https://www.space.com/white-dwarf-planets-search-for-life/)
+- [HEXEUM night vision binoculars deal - top specs for a fraction of the cost](https://www.space.com/hexeum-night-vision-goggles-prime-day-sale-save-53-percent/)
+- [GM is in the energy business now](https://techcrunch.com/2022/10/11/gm-launches-energy-business/)
+- [Hubble Space Telescope shows &#39;fan-like spray&#39; of gas and dust surrounding young star](https://www.space.com/hubble-space-telescope-stellar-shroud-image/)
+- [Relive Firefly&#39;s 1st successful rocket launch with highlight reel &lpar;video&rpar;](https://www.space.com/firefly-first-successful-alpha-rocket-launch-video/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
