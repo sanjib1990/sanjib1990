@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Quantori is building an app development platform focused on life sciences](https://techcrunch.com/2022/10/11/quantori-is-building-a-platform-for-developing-life-sciences-applications/)
+- [Cubesat formations could beam ads to Earth, some researchers think](https://www.space.com/cubesat-formations-could-beam-adverts-to-earth/)
+- [No sign of intelligent life anywhere, but there is 20% off the LEGO Lightyear XL-15 Spaceship at Amazon](https://www.space.com/save-20-percent-lego-lightyear-xl-15-spaceship-amazon-prime-day-early-access/)
 - [Plutonium: Facts about the radioactive element](https://www.space.com/what-is-plutonium/)
 - [This company wants to improve your credit by gamifying financial literacy](https://techcrunch.com/2022/10/11/this-company-wants-to-improve-your-credit-by-gamifying-financial-literacy/)
-- [Save $500 on the Sony Alpha a7II camera for Prime Day Early Access](https://www.space.com/prime-day-early-access-sony-alpha-a7ii-deal-2022/)
-- [Viam rolls out a free beta of its cloud-based robotics tools](https://techcrunch.com/2022/10/11/viam-rolls-out-a-free-beta-of-its-cloud-based-robotics-tools/)
-- [Charli D’Amelio-endorsed fintech Step borrows $300M to bring crypto to teens](https://techcrunch.com/2022/10/11/step-crypto-kids-debt-financing-digital-banking-fintech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
