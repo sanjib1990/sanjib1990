@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google looks to boost its security cred in the cloud](https://techcrunch.com/2022/10/11/google-looks-to-boost-its-security-cred-in-the-cloud/)
-- [Solestial promises solar panels in space for a tenth of the cost and lines up $10M seed](https://techcrunch.com/2022/10/11/solestial-promises-solar-panels-in-space-for-a-tenth-of-the-cost-and-lines-up-10m-seed/)
-- [Google Meet gets automatic meeting transcriptions](https://techcrunch.com/2022/10/11/google-meet-gets-automatic-meeting-transcriptions/)
-- [Google Cloud expands to six more countries](https://techcrunch.com/2022/10/11/google-cloud-expands-to-six-more-countries/)
-- [As crypto regulation looms ahead, here are the bills to look out for](https://techcrunch.com/2022/10/11/as-crypto-regulation-looms-ahead-here-are-the-bills-to-look-out-for/)
+- [Plutonium: Facts about the radioactive element](https://www.space.com/what-is-plutonium/)
+- [This company wants to improve your credit by gamifying financial literacy](https://techcrunch.com/2022/10/11/this-company-wants-to-improve-your-credit-by-gamifying-financial-literacy/)
+- [Save $500 on the Sony Alpha a7II camera for Prime Day Early Access](https://www.space.com/prime-day-early-access-sony-alpha-a7ii-deal-2022/)
+- [Viam rolls out a free beta of its cloud-based robotics tools](https://techcrunch.com/2022/10/11/viam-rolls-out-a-free-beta-of-its-cloud-based-robotics-tools/)
+- [Charli D’Amelio-endorsed fintech Step borrows $300M to bring crypto to teens](https://techcrunch.com/2022/10/11/step-crypto-kids-debt-financing-digital-banking-fintech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
