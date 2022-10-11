@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Full moon calendar 2022: When to see the next full moon](https://www.space.com/16830-full-moon-calendar.html/)
-- [Wield the Mandalorian Darksaber from &#39;Star Wars&#39; for just $21 this Prime Day](https://www.space.com/star-wars-mandalorian-darksaber-amazon-prime-day/)
-- [Watch astronauts give science lesson from China&#39;s space station early Wednesday](https://www.space.com/chinese-astronauts-science-lesson-tiangong-october-12/)
-- [Watch the moon pass in front of Uranus early Wednesday &lpar;Oct. 12&rpar;](https://www.space.com/moon-covers-uranus-lunar-occultation-oct-12/)
-- [Meta’s vision for the future of VR is a worse version of the past](https://techcrunch.com/2022/10/11/metas-vision-for-the-future-of-vr-is-a-worse-version-of-the-past/)
+- [See these new Star Trek Universe teasers for &#39;Picard,&#39; &#39;Prodigy&#39; and &#39;Discovery&#39; from NYCC](https://www.space.com/star-trek-universe-teasers-shown-at-NYCC/)
+- [This startup is building a web3-friendly app store for developers](https://techcrunch.com/2022/10/11/magic-square-web3-app-store-apple/)
+- [Federal gig worker proposal tanks Uber, Lyft and DoorDash stocks](https://techcrunch.com/2022/10/11/uber-lyft-doordash-stock-tank-gig-worker-rules/)
+- [Save up to 50% to stream your sci-fi with these Fire TV Cube and Fire TV Stick deals for October Prime Day](https://www.space.com/fire-tv-fire-tv-4k-stick-prime-day-early-access-deals/)
+- [NASA&#39;s DART impact changed asteroid&#39;s orbit forever in planetary defense test](https://www.space.com/nasa-dart-asteroid-impact-orbit-change-success/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
