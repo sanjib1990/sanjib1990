@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Twitter is asking users to enter their birthdate to view sensitive content](https://techcrunch.com/2022/10/11/twitter-is-asking-users-to-enter-their-birthdate-to-view-sensitive-content/)
-- [BMW partners with AirConsole to bring in-car gaming in 2023](https://techcrunch.com/2022/10/11/bmw-partners-with-airconsole-to-bring-in-car-gaming-in-2023/)
-- [Epic Games and Match look to expand their antitrust claims against Google](https://techcrunch.com/2022/10/11/epic-games-and-match-look-to-expand-their-antitrust-claims-against-google/)
-- [Eruption of Italy&#39;s Stromboli volcano spotted from space](https://www.space.com/sentinel-2-stromboli-volcano-eruption-photo/)
-- [Kevin Hart gets serious about financial inclusion at Disrupt](https://techcrunch.com/2022/10/11/kevin-hart-gets-serious-about-financial-inclusion-at-disrupt/)
+- [Meta’s Quest Store hits $1.5 billion in total revenue to date](https://techcrunch.com/2022/10/11/metas-quest-store-hits-1-5-billion-in-total-revenue-to-date/)
+- [Love the outdoors? Get 39% off on Celestron Nature DX 10x56 binoculars with Prime Day sale](https://www.space.com/celestron-binoculars-nature-dx-prime-day-deal/)
+- [TechCrunch+ roundup: Growth hacking real talk, RPA market slowdown, AI and IP](https://techcrunch.com/2022/10/11/techcrunch-roundup-growth-hacking-real-talk-rpa-market-slowdown-ai-and-ip/)
+- [Largest-ever map of 56,000 galaxies is demystifying the universe&#39;s expansion](https://www.space.com/massive-galaxy-map-universe-expansion-mystery/)
+- [Snapchat now lets you virtually try on and buy Halloween costumes directly within its app](https://techcrunch.com/2022/10/11/snapchat-virtually-try-on-buy-halloween-costumes-directly-within-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
