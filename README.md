@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [My virtual torso went to Meta Connect 2022](https://techcrunch.com/2022/10/11/watching-meta-connect-in-horizon-worlds-vr/)
 - [Daily Crunch: News and updates from TechCrunch’s Meta Connect 2022 coverage](https://techcrunch.com/2022/10/11/daily-crunch-news-and-updates-from-techcrunchs-meta-connect-2022-coverage/)
 - [Smashing success: NASA’s DART spacecraft bumped an asteroid off its orbit](https://techcrunch.com/2022/10/11/smashing-success-nasas-dart-spacecraft-bumped-an-asteroid-off-its-orbit/)
 - [Here’s what you missed at Meta Connect 2022](https://techcrunch.com/2022/10/11/meta-connect-2022-roundup-quest-pro/)
 - [Federal gig worker proposal tanks Uber, Lyft and DoorDash stocks](https://techcrunch.com/2022/10/11/uber-lyft-doordash-stock-tank-gig-worker-rules/)
-- [See these new Star Trek Universe teasers for &#39;Picard,&#39; &#39;Prodigy&#39; and &#39;Discovery&#39; from NYCC](https://www.space.com/star-trek-universe-teasers-shown-at-NYCC/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
