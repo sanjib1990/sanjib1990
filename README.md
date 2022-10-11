@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Construction equipment marketplace raises a $17.5M Series A led by Beringea](https://techcrunch.com/2022/10/11/construction-equipment-marketplace-raises-a-17-5m-series-a-led-by-beringea/)
 - [Nigerian data and intelligence company Stears raises $3.3M, backed by Mac VC and Serena Ventures](https://techcrunch.com/2022/10/10/nigerian-data-and-intelligence-company-stears-raises-3-3m-backed-by-mac-vc-and-serena-ventures/)
 - [Brands are spamming WhatsApp users in India, Facebook’s largest market](https://techcrunch.com/2022/10/10/in-india-businesses-are-increasingly-spamming-users-on-whatsapp/)
 - [Thai beauty platform Konvy raises Series A for international expansion](https://techcrunch.com/2022/10/10/thai-beauty-platform-konvy-raises-series-a-for-international-expansion/)
 - [Singapore-based staffing platform Workmate acquired by Persol Asia Pacific](https://techcrunch.com/2022/10/10/singapore-based-staffing-platform-workmate-acquired-by-persol-asia-pacific/)
-- [Only 72 hours left to save hundreds on TC Sessions: Crypto passes](https://techcrunch.com/2022/10/10/only-72-hours-left-to-save-hundreds-on-tc-sessions-crypto-passes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
