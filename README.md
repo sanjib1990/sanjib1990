@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Singapore-based staffing platform Workmate acquired by Persol Asia Pacific](https://techcrunch.com/2022/10/10/singapore-based-staffing-platform-workmate-acquired-by-persol-asia-pacific/)
+- [Only 72 hours left to save hundreds on TC Sessions: Crypto passes](https://techcrunch.com/2022/10/10/only-72-hours-left-to-save-hundreds-on-tc-sessions-crypto-passes/)
+- [Airwallex raises $100M to power cross-border business banking, valuation stays flat at $5.5B](https://techcrunch.com/2022/10/10/airwallex-raises-100m-to-power-cross-border-business-banking-valuation-stays-flat-at-5-5b/)
+- [UK’s Ofcom says one-third of under-18s lie about their age on social media](https://techcrunch.com/2022/10/10/uks-ofcom-says-one-third-of-under-18s-lie-about-their-age-on-social-media/)
 - [OG App, what exactly was your end game here?](https://techcrunch.com/2022/10/10/lol-come-on/)
-- [Daily Crunch: After bans by Apple and Google, The OG App ‘will be unable to continue serving users’](https://techcrunch.com/2022/10/10/daily-crunch-after-bans-by-apple-and-google-the-og-app-will-be-unable-to-continue-serving-users/)
-- [AgriWebb’s software seeks to boost yields, lower environmental impacts for farmers and ranchers](https://techcrunch.com/2022/10/10/agriwebbs-software-seeks-to-boost-yields-lower-environmental-impacts-for-farmers-and-ranchers/)
-- [Max Q: Oh my gourd](https://techcrunch.com/2022/10/10/max-q-oh-my-gourd/)
-- [Great, now the AI is coming for your grandma’s recipes as well!](https://techcrunch.com/2022/10/10/yummy-ai-recipes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
