@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Foxglove raises $16M to build dev infrastructure for robots](https://techcrunch.com/2022/10/11/foxglove-raises-16m-to-build-dev-infrastructure-for-robots/)
+- [Earthmover to bring petascale data tools to climate tech with $1.7M pre-seed](https://techcrunch.com/2022/10/11/earthmover-to-bring-petascale-data-tools-to-climate-tech/)
+- [Honda to create $700M EV hub in Ohio](https://techcrunch.com/2022/10/11/honda-ev-ohio-investment/)
 - [Quantori is building an app development platform focused on life sciences](https://techcrunch.com/2022/10/11/quantori-is-building-a-platform-for-developing-life-sciences-applications/)
 - [Cubesat formations could beam ads to Earth, some researchers think](https://www.space.com/cubesat-formations-could-beam-adverts-to-earth/)
-- [No sign of intelligent life anywhere, but there is 20% off the LEGO Lightyear XL-15 Spaceship at Amazon](https://www.space.com/save-20-percent-lego-lightyear-xl-15-spaceship-amazon-prime-day-early-access/)
-- [Plutonium: Facts about the radioactive element](https://www.space.com/what-is-plutonium/)
-- [This company wants to improve your credit by gamifying financial literacy](https://techcrunch.com/2022/10/11/this-company-wants-to-improve-your-credit-by-gamifying-financial-literacy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
