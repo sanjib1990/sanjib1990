@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Factorial adds $120M and doubles valuation to $1B to build enterprise-quality HR for SMBs](https://techcrunch.com/2022/10/11/factorial-adds-120m-and-doubles-valuation-to-1b-to-build-enterprise-quality-hr-for-smbs/)
-- [Prime Day drone deal: save over $200 on the Autel Evo Nano+ drone](https://www.space.com/autel-evo-nano-plus-premium-bundle-prime-day-early-access-october-2022/)
-- [NocoDB takes on Airtable with open source no-code platform that connects to production databases](https://techcrunch.com/2022/10/11/nocodb-takes-on-airtable-with-open-source-no-code-database-that-works-with-production-data/)
-- [How to use the James Webb Space Telescope to hunt for life around white dwarfs](https://www.space.com/white-dwarf-planets-search-for-life/)
-- [HEXEUM night vision binoculars deal - top specs for a fraction of the cost](https://www.space.com/hexeum-night-vision-goggles-prime-day-sale-save-53-percent/)
+- [Google looks to boost its security cred in the cloud](https://techcrunch.com/2022/10/11/google-looks-to-boost-its-security-cred-in-the-cloud/)
+- [Solestial promises solar panels in space for a tenth of the cost and lines up $10M seed](https://techcrunch.com/2022/10/11/solestial-promises-solar-panels-in-space-for-a-tenth-of-the-cost-and-lines-up-10m-seed/)
+- [Google Meet gets automatic meeting transcriptions](https://techcrunch.com/2022/10/11/google-meet-gets-automatic-meeting-transcriptions/)
+- [Google Cloud expands to six more countries](https://techcrunch.com/2022/10/11/google-cloud-expands-to-six-more-countries/)
+- [As crypto regulation looms ahead, here are the bills to look out for](https://techcrunch.com/2022/10/11/as-crypto-regulation-looms-ahead-here-are-the-bills-to-look-out-for/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
