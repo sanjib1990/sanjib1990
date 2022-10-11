@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Factorial adds $120M and doubles valuation to $1B to build enterprise-quality HR for SMBs](https://techcrunch.com/2022/10/11/factorial-adds-120m-and-doubles-valuation-to-1b-to-build-enterprise-quality-hr-for-smbs/)
+- [Prime Day drone deal: save over $200 on the Autel Evo Nano+ drone](https://www.space.com/autel-evo-nano-plus-premium-bundle-prime-day-early-access-october-2022/)
+- [NocoDB takes on Airtable with open source no-code platform that connects to production databases](https://techcrunch.com/2022/10/11/nocodb-takes-on-airtable-with-open-source-no-code-database-that-works-with-production-data/)
 - [How to use the James Webb Space Telescope to hunt for life around white dwarfs](https://www.space.com/white-dwarf-planets-search-for-life/)
 - [HEXEUM night vision binoculars deal - top specs for a fraction of the cost](https://www.space.com/hexeum-night-vision-goggles-prime-day-sale-save-53-percent/)
-- [GM is in the energy business now](https://techcrunch.com/2022/10/11/gm-launches-energy-business/)
-- [Hubble Space Telescope shows &#39;fan-like spray&#39; of gas and dust surrounding young star](https://www.space.com/hubble-space-telescope-stellar-shroud-image/)
-- [Relive Firefly&#39;s 1st successful rocket launch with highlight reel &lpar;video&rpar;](https://www.space.com/firefly-first-successful-alpha-rocket-launch-video/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
