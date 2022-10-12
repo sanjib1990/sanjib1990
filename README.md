@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Save $50 on the Canon EOS 2000D Rebel T7 camera bundle at Walmart](https://www.space.com/canon-eos-rebel-dslr-bundle-saving-early-access/)
 - [FlapKap provides revenue-based financing to e-commerce brands in MENA, gets $3.6M seed funding](https://techcrunch.com/2022/10/12/flapkap-provides-revenue-based-financing-to-e-commerce-brands-in-mena-gets-3-6m-seed-funding/)
 - [Investing platform raises $11M to offer climate investing from a different angle to ESG ratings](https://techcrunch.com/2022/10/12/investing-platform-raises-10m-to-offer-climate-investing-from-a-different-angle-to-esg-ratings/)
 - [Carbon accounting platform acquired by Sage as ClimateTech heats up](https://techcrunch.com/2022/10/12/2422480/)
 - [Uber scales back in Pakistan](https://techcrunch.com/2022/10/11/uber-scales-back-in-pakistan/)
-- [Apple, Google and Samsung to soon release 5G support software updates in India](https://techcrunch.com/2022/10/11/apple-google-software-update-5g-india/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
