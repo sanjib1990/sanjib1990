@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Get the Alien: Fate of the Nostromo board game for 30% off at Amazon](https://www.space.com/get-the-alien-fate-of-the-nostromo-board-game-for-under-15-dollars-at-amazon/)
-- [Microsoft launches new security services aimed at protecting code in the cloud](https://techcrunch.com/2022/10/12/microsoft-launches-new-security-services-aimed-at-protecting-code-in-the-cloud/)
-- [Microsoft’s Edge browser gets shared Workspaces, new security features and more](https://techcrunch.com/2022/10/12/microsofts-edge-browser-gets-shared-workspaces-new-security-features-and-more/)
-- [Largest asteroid ever to hit Earth was twice as big as the rock that killed off the dinosaurs](https://www.space.com/vredefort-asteroid-bigger-than-expected/)
-- [Microsoft expands Azure OpenAI Service with DALL-E 2 in preview](https://techcrunch.com/2022/10/12/microsoft-expands-azure-openai-service-with-dall-e-2-in-preview/)
+- [NASA now targeting Nov. 14 for Artemis 1 moon launch](https://www.space.com/nasa-artemis-1-moon-launch-november-14/)
+- [Save hundreds off this Autel Evo Lite+ bundle with Amazon coupon deal](https://www.space.com/autel-evo-lite-plus-drone-deal-prime-day-october-2022/)
+- [Polestar steers towards the mass market with its first electric SUV](https://techcrunch.com/2022/10/12/polestar-first-electric-suv/)
+- [Google Pixel 7 Pro: Refinements are perfectly fine](https://techcrunch.com/2022/10/12/google-pixel-7-pro-refinements-are-perfectly-fine/)
+- [&#39;Andor&#39; episode 5 lays the groundwork for the rebels&#39; action-packed heist](https://www.space.com/star-wars-andor-episode-5-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
