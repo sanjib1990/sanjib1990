@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Moon set for November traffic jam as both ispace and NASA target launches](https://techcrunch.com/2022/10/12/moon-set-for-november-traffic-jam-as-both-ispace-and-nasa-target-launches/)
-- [6 tips for launching a blockchain startup](https://techcrunch.com/2022/10/12/6-tips-for-launching-a-blockchain-startup/)
-- [Microsoft brings DALL-E 2 to the masses with Designer and Image Creator](https://techcrunch.com/2022/10/12/microsoft-brings-dall-e-2-to-the-masses-with-designer-and-image-creator/)
-- [Sarah Guo isn’t late to the AI party](https://techcrunch.com/2022/10/12/sarah-guo-conviction-isnt-late-to-the-ai-party/)
-- [B&amp;H Photo has taken 10% off these Canon 8x20 IS binoculars and thrown in a gift worth $21.99](https://www.space.com/canon-8x20-image-stabilized-binoculars-deal/)
+- [Cyber training platform pulls in another $66M after post-pandemic remote working increases cyber threats](https://techcrunch.com/2022/10/12/cyber-training-platform-pulls-in-another-66m-after-post-pandemic-remote-working-increases-cyber-threats/)
+- [Toyota exposed 300,000 customer email addresses for 5 years](https://techcrunch.com/2022/10/12/toyota-customer-email-addresses-exposed/)
+- [Metalenz ships millions of its tiny cameras and powers up with $30M B round](https://techcrunch.com/2022/10/12/metalenz-ships-millions-of-its-tiny-cameras-and-powers-up-with-30m-b-round/)
+- [Bizarre rings spied by James Webb Space Telescope are organic dust propelled by starlight](https://www.space.com/james-webb-space-telescope-star-dust-shells/)
+- [Dear Sophie: How can I protect my H-1B and green card if I am laid off?](https://techcrunch.com/2022/10/12/dear-sophie-how-can-i-protect-my-h-1b-and-green-card-if-i-am-laid-off/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
