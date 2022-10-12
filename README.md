@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Closed early-access product Relay raises $5M seed round to ‘tackle collaborative workflows’](https://techcrunch.com/2022/10/12/daily-crunch-closed-early-access-product-relay-raises-5m-seed-round-to-tackle-collaborative-workflows/)
 - [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates/)
 - [Founders shouldn’t bet on a Q4 venture capital resurgence](https://techcrunch.com/2022/10/12/founders-shouldnt-bet-on-a-q4-venture-capital-resurgence/)
 - [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
 - [SpaceX astronaut missions for NASA: Crew-4 landing updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates/)
-- [Save 15% on this Celestron 114LCM computerized Newtonian telescope for Prime Day](https://www.space.com/celestron-114lcm-computerized-telescope-deal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
