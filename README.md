@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Cyber training platform pulls in another $66M after post-pandemic remote working increases cyber threats](https://techcrunch.com/2022/10/12/cyber-training-platform-pulls-in-another-66m-after-post-pandemic-remote-working-increases-cyber-threats/)
-- [Toyota exposed 300,000 customer email addresses for 5 years](https://techcrunch.com/2022/10/12/toyota-customer-email-addresses-exposed/)
-- [Metalenz ships millions of its tiny cameras and powers up with $30M B round](https://techcrunch.com/2022/10/12/metalenz-ships-millions-of-its-tiny-cameras-and-powers-up-with-30m-b-round/)
-- [Bizarre rings spied by James Webb Space Telescope are organic dust propelled by starlight](https://www.space.com/james-webb-space-telescope-star-dust-shells/)
-- [Dear Sophie: How can I protect my H-1B and green card if I am laid off?](https://techcrunch.com/2022/10/12/dear-sophie-how-can-i-protect-my-h-1b-and-green-card-if-i-am-laid-off/)
+- [Get the Alien: Fate of the Nostromo board game for 30% off at Amazon](https://www.space.com/get-the-alien-fate-of-the-nostromo-board-game-for-under-15-dollars-at-amazon/)
+- [Microsoft launches new security services aimed at protecting code in the cloud](https://techcrunch.com/2022/10/12/microsoft-launches-new-security-services-aimed-at-protecting-code-in-the-cloud/)
+- [Microsoft’s Edge browser gets shared Workspaces, new security features and more](https://techcrunch.com/2022/10/12/microsofts-edge-browser-gets-shared-workspaces-new-security-features-and-more/)
+- [Largest asteroid ever to hit Earth was twice as big as the rock that killed off the dinosaurs](https://www.space.com/vredefort-asteroid-bigger-than-expected/)
+- [Microsoft expands Azure OpenAI Service with DALL-E 2 in preview](https://techcrunch.com/2022/10/12/microsoft-expands-azure-openai-service-with-dall-e-2-in-preview/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
