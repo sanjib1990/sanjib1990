@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Children’s financial app Greenlight signals next app iteration with family safety features](https://techcrunch.com/2022/10/12/children-app-greenlight-safety/)
+- [On This Day In Space: Oct. 12, 1964: 1st multi-person crew launches into space](https://www.space.com/39251-on-this-day-in-space.html/)
+- [Mandalorian and Grogu &#39;Star Wars&#39; Fire TV Sticks are 40% off during Prime Day](https://www.space.com/star-wars-mandalorian-fire-tv-sticks-amazon-prime-day-2022/)
 - [Soyuz rocket launches Russian GLONASS-K navigation satellite](https://www.space.com/russia-launches-glonass-navigation-satellite-october-2022/)
 - [After selling his last startup to Google, this founder now wants to automate mundane tasks with Relay](https://techcrunch.com/2022/10/12/after-selling-his-last-startup-to-google-this-founder-now-wants-to-automate-mundane-tasks-with-relay/)
-- [Lifestores Healthcare raises $3M to expand its pharmaceutical marketplace across Nigeria](https://techcrunch.com/2022/10/12/lifestores-healthcare-raises-3m-to-expand-its-pharmaceutical-marketplace-across-nigeria/)
-- [SpaceX’s Falcon Heavy rocket set to launch this month on 1st mission since 2019](https://www.space.com/spacex-falcon-heavy-space-force-launch-october-2022/)
-- [Watch SpaceX Crew-4 mission depart space station Wednesday](https://www.space.com/spacex-crew-4-space-station-departure-webcast/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
