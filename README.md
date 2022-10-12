@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tiger Global, Blume back Indian startup bringing safety — and intelligence — to EVs](https://techcrunch.com/2022/10/11/tiger-global-india-investment-ev-startup-vecmocon-funding/)
+- [Homa raises another $100 million for its data-driven mobile gaming tools](https://techcrunch.com/2022/10/11/homa-raises-another-100-million-for-its-data-driven-mobile-gaming-tools/)
+- [Japan&#39;s Epsilon rocket fails during launch of tech-demonstrating satellite: reports](https://www.space.com/japan-epsilon-rocket-launch-failure-october-2022/)
+- [Noom lays off more employees amid CFO departure](https://techcrunch.com/2022/10/11/noom-tech-layoffs-diet-app/)
 - [My virtual torso went to Meta Connect 2022](https://techcrunch.com/2022/10/11/watching-meta-connect-in-horizon-worlds-vr/)
-- [Daily Crunch: News and updates from TechCrunch’s Meta Connect 2022 coverage](https://techcrunch.com/2022/10/11/daily-crunch-news-and-updates-from-techcrunchs-meta-connect-2022-coverage/)
-- [Smashing success: NASA’s DART spacecraft bumped an asteroid off its orbit](https://techcrunch.com/2022/10/11/smashing-success-nasas-dart-spacecraft-bumped-an-asteroid-off-its-orbit/)
-- [Here’s what you missed at Meta Connect 2022](https://techcrunch.com/2022/10/11/meta-connect-2022-roundup-quest-pro/)
-- [Federal gig worker proposal tanks Uber, Lyft and DoorDash stocks](https://techcrunch.com/2022/10/11/uber-lyft-doordash-stock-tank-gig-worker-rules/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
