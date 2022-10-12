@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Investing platform raises $10M to offer climate investing from a different angle to ESG ratings](https://techcrunch.com/2022/10/12/investing-platform-raises-10m-to-offer-climate-investing-from-a-different-angle-to-esg-ratings/)
+- [FlapKap provides revenue-based financing to e-commerce brands in MENA, gets $3.6M seed funding](https://techcrunch.com/2022/10/12/flapkap-provides-revenue-based-financing-to-e-commerce-brands-in-mena-gets-3-6m-seed-funding/)
+- [Investing platform raises $11M to offer climate investing from a different angle to ESG ratings](https://techcrunch.com/2022/10/12/investing-platform-raises-10m-to-offer-climate-investing-from-a-different-angle-to-esg-ratings/)
 - [Carbon accounting platform acquired by Sage as ClimateTech heats up](https://techcrunch.com/2022/10/12/2422480/)
 - [Uber scales back in Pakistan](https://techcrunch.com/2022/10/11/uber-scales-back-in-pakistan/)
 - [Apple, Google and Samsung to soon release 5G support software updates in India](https://techcrunch.com/2022/10/11/apple-google-software-update-5g-india/)
-- [Meta and news outlet’s spar deepens India’s trust deficit](https://techcrunch.com/2022/10/11/meta-and-news-outlets-spar-deepens-indias-trust-deficit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
