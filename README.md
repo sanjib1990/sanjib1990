@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates/)
+- [Founders shouldn’t bet on a Q4 venture capital resurgence](https://techcrunch.com/2022/10/12/founders-shouldnt-bet-on-a-q4-venture-capital-resurgence/)
+- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
+- [SpaceX astronaut missions for NASA: Crew-4 landing updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates/)
 - [Save 15% on this Celestron 114LCM computerized Newtonian telescope for Prime Day](https://www.space.com/celestron-114lcm-computerized-telescope-deal/)
-- [James Webb Space Telescope imagery comes down to Earth in NYC art exhibit &lpar;photos&rpar;](https://www.space.com/james-webb-space-telescope-art-ashley-zelinskie/)
-- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates/)
-- [SpaceX says its 2nd private Starship trip around the moon will help make humanity multiplanetary](https://www.space.com/spacex-starship-moon-mission-make-humanity-multiplanetary/)
-- [Stargazers save $114 on Celestron SkyMaster Pro 20x80 binoculars for Prime Day](https://www.space.com/celestron-skymaster-pro-20x80-binoculars-amazon-prime-day-deal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
