@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple and Google to soon release 5G support software updates in India](https://techcrunch.com/2022/10/11/apple-google-software-update-5g-india/)
 - [Meta and news outlet’s spar deepens India’s trust deficit](https://techcrunch.com/2022/10/11/meta-and-news-outlets-spar-deepens-indias-trust-deficit/)
 - [Tiger Global, Blume back Indian startup bringing safety — and intelligence — to EVs](https://techcrunch.com/2022/10/11/tiger-global-india-investment-ev-startup-vecmocon-funding/)
 - [Homa raises another $100 million for its data-driven mobile gaming tools](https://techcrunch.com/2022/10/11/homa-raises-another-100-million-for-its-data-driven-mobile-gaming-tools/)
 - [Japan&#39;s Epsilon rocket fails during launch of tech-demonstrating satellite: reports](https://www.space.com/japan-epsilon-rocket-launch-failure-october-2022/)
-- [Noom lays off more employees amid CFO departure](https://techcrunch.com/2022/10/11/noom-tech-layoffs-diet-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
