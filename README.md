@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Netflix signs up with UK TV ratings agency BARB to reveal streaming viewership numbers](https://techcrunch.com/2022/10/12/netflix-joins-uk-tv-ratings-agency-barb-streaming-viewership-numbers/)
+- [Meatball mishap: SpaceX Crew-5 launch marked by distorted NASA logo](https://www.space.com/spacex-crew-5-launch-nasa-meatball-logo/)
+- [‘Pokémon Scarlet &amp; Violet’ has a VTuber gym leader](https://techcrunch.com/2022/10/12/iono-vtuber-gym-leader-pokemon-scarlet-violet/)
 - [NASA now targeting Nov. 14 for Artemis 1 moon launch](https://www.space.com/nasa-artemis-1-moon-launch-november-14/)
 - [Save hundreds off this Autel Evo Lite+ bundle with Amazon coupon deal](https://www.space.com/autel-evo-lite-plus-drone-deal-prime-day-october-2022/)
-- [Polestar steers towards the mass market with its first electric SUV](https://techcrunch.com/2022/10/12/polestar-first-electric-suv/)
-- [Google Pixel 7 Pro: Refinements are perfectly fine](https://techcrunch.com/2022/10/12/google-pixel-7-pro-refinements-are-perfectly-fine/)
-- [&#39;Andor&#39; episode 5 lays the groundwork for the rebels&#39; action-packed heist](https://www.space.com/star-wars-andor-episode-5-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
