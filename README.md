@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Save $50 on the Canon EOS 2000D Rebel T7 camera bundle at Walmart](https://www.space.com/canon-eos-rebel-dslr-bundle-saving-early-access/)
-- [FlapKap provides revenue-based financing to e-commerce brands in MENA, gets $3.6M seed funding](https://techcrunch.com/2022/10/12/flapkap-provides-revenue-based-financing-to-e-commerce-brands-in-mena-gets-3-6m-seed-funding/)
-- [Investing platform raises $11M to offer climate investing from a different angle to ESG ratings](https://techcrunch.com/2022/10/12/investing-platform-raises-10m-to-offer-climate-investing-from-a-different-angle-to-esg-ratings/)
-- [Carbon accounting platform acquired by Sage as ClimateTech heats up](https://techcrunch.com/2022/10/12/2422480/)
-- [Uber scales back in Pakistan](https://techcrunch.com/2022/10/11/uber-scales-back-in-pakistan/)
+- [Soyuz rocket launches Russian GLONASS-K navigation satellite](https://www.space.com/russia-launches-glonass-navigation-satellite-october-2022/)
+- [After selling his last startup to Google, this founder now wants to automate mundane tasks with Relay](https://techcrunch.com/2022/10/12/after-selling-his-last-startup-to-google-this-founder-now-wants-to-automate-mundane-tasks-with-relay/)
+- [Lifestores Healthcare raises $3M to expand its pharmaceutical marketplace across Nigeria](https://techcrunch.com/2022/10/12/lifestores-healthcare-raises-3m-to-expand-its-pharmaceutical-marketplace-across-nigeria/)
+- [SpaceX’s Falcon Heavy rocket set to launch this month on 1st mission since 2019](https://www.space.com/spacex-falcon-heavy-space-force-launch-october-2022/)
+- [Watch SpaceX Crew-4 mission depart space station Wednesday](https://www.space.com/spacex-crew-4-space-station-departure-webcast/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
