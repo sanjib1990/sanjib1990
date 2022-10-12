@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Check out our partner roundtable topics and speakers at Disrupt](https://techcrunch.com/2022/10/12/check-out-our-partner-roundtable-topics-and-speakers-at-disrupt/)
-- [The sun crackles in new images from spacecraft preparing for a close flyby](https://www.space.com/solar-orbiter-5th-sun-flyby-video/)
-- [Save a Targaryen-tastic 40% on HBO Max Annual TV Subscriptions](https://www.space.com/hbo-max-annual-tv-subscriptions-save-40-percent-deal/)
-- [Fintech fundraising has reverted to the mean](https://techcrunch.com/2022/10/12/fintech-fundraising-has-reverted-to-the-mean/)
-- [Get the Mars 3 high-resolution resin 3D printer for just $208 on Prime Day](https://www.space.com/mars-3-resin-3d-printer-prime-day-early-access-2022/)
+- [Save 15% on this Celestron 114LCM computerized Newtonian telescope for Prime Day](https://www.space.com/celestron-114lcm-computerized-telescope-deal/)
+- [James Webb Space Telescope imagery comes down to Earth in NYC art exhibit &lpar;photos&rpar;](https://www.space.com/james-webb-space-telescope-art-ashley-zelinskie/)
+- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates/)
+- [SpaceX says its 2nd private Starship trip around the moon will help make humanity multiplanetary](https://www.space.com/spacex-starship-moon-mission-make-humanity-multiplanetary/)
+- [Stargazers save $114 on Celestron SkyMaster Pro 20x80 binoculars for Prime Day](https://www.space.com/celestron-skymaster-pro-20x80-binoculars-amazon-prime-day-deal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
