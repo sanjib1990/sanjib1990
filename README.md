@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Moon set for November traffic jam as both ispace and NASA target launches](https://techcrunch.com/2022/10/12/moon-set-for-november-traffic-jam-as-both-ispace-and-nasa-target-launches/)
+- [6 tips for launching a blockchain startup](https://techcrunch.com/2022/10/12/6-tips-for-launching-a-blockchain-startup/)
+- [Microsoft brings DALL-E 2 to the masses with Designer and Image Creator](https://techcrunch.com/2022/10/12/microsoft-brings-dall-e-2-to-the-masses-with-designer-and-image-creator/)
+- [Sarah Guo isn’t late to the AI party](https://techcrunch.com/2022/10/12/sarah-guo-conviction-isnt-late-to-the-ai-party/)
 - [B&amp;H Photo has taken 10% off these Canon 8x20 IS binoculars and thrown in a gift worth $21.99](https://www.space.com/canon-8x20-image-stabilized-binoculars-deal/)
-- [The Berlin startup that wants to give Zapier a run for its money](https://techcrunch.com/2022/10/12/the-berlin-startup-that-wants-to-give-zapier-a-run-for-its-money/)
-- [SpaceX astronaut missions for NASA: Crew-5 live updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates/)
-- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates/)
-- [Last day to save hundreds on TC Sessions: Crypto passes](https://techcrunch.com/2022/10/12/last-day-to-save-hundreds-on-tc-sessions-crypto-passes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
