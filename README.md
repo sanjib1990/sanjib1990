@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Netflix signs up with UK TV ratings agency BARB to reveal streaming viewership numbers](https://techcrunch.com/2022/10/12/netflix-joins-uk-tv-ratings-agency-barb-streaming-viewership-numbers/)
-- [Meatball mishap: SpaceX Crew-5 launch marked by distorted NASA logo](https://www.space.com/spacex-crew-5-launch-nasa-meatball-logo/)
-- [‘Pokémon Scarlet &amp; Violet’ has a VTuber gym leader](https://techcrunch.com/2022/10/12/iono-vtuber-gym-leader-pokemon-scarlet-violet/)
-- [NASA now targeting Nov. 14 for Artemis 1 moon launch](https://www.space.com/nasa-artemis-1-moon-launch-november-14/)
-- [Save hundreds off this Autel Evo Lite+ bundle with Amazon coupon deal](https://www.space.com/autel-evo-lite-plus-drone-deal-prime-day-october-2022/)
+- [Check out our partner roundtable topics and speakers at Disrupt](https://techcrunch.com/2022/10/12/check-out-our-partner-roundtable-topics-and-speakers-at-disrupt/)
+- [The sun crackles in new images from spacecraft preparing for a close flyby](https://www.space.com/solar-orbiter-5th-sun-flyby-video/)
+- [Save a Targaryen-tastic 40% on HBO Max Annual TV Subscriptions](https://www.space.com/hbo-max-annual-tv-subscriptions-save-40-percent-deal/)
+- [Fintech fundraising has reverted to the mean](https://techcrunch.com/2022/10/12/fintech-fundraising-has-reverted-to-the-mean/)
+- [Get the Mars 3 high-resolution resin 3D printer for just $208 on Prime Day](https://www.space.com/mars-3-resin-3d-printer-prime-day-early-access-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
