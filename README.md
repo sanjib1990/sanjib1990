@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NHS vendor Advanced won’t say if patient data was stolen during ransomware attack](https://techcrunch.com/2022/10/13/advanced-nhs-patient-data-ransomware/)
+- [Astronomers discover heaviest exoplanet element yet on alien world so hot it rains iron](https://www.space.com/exoplanet-atmosphere-heaviest-element-barium-detection/)
 - [Firefly declares Alpha rocket launch success despite satellites falling back to Earth](https://www.space.com/firefly-alpha-satellite-payloads-reenter-atmosphere/)
 - [SpaceX, NASA delay Crew-4 astronaut landing on Dragon Freedom due to weather](https://www.space.com/spacex-crew-4-astronauts-dragon-landing-delayed/)
 - [SpaceX astronaut missions for NASA: Crew-4 landing updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates/)
