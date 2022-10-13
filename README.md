@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [China launches environmental satellite in 3rd flight in 6 days](https://www.space.com/china-launches-environment-satellite-third-launch-six-days/)
+- [Getaway launches a way for you to enjoy, and own, vacation homes](https://techcrunch.com/2022/10/13/getaway-launches-a-way-for-you-to-enjoy-and-own-vacation-homes/)
+- [Q3 data reminds us that venture debt is not a Hail Mary](https://techcrunch.com/2022/10/13/q3-data-reminds-us-that-venture-debt-is-not-a-hail-mary/)
+- [Activision Blizzard is once again being sued for sexual harassment](https://techcrunch.com/2022/10/13/activision-blizzard-is-once-again-being-sued-for-sexual-harassment/)
 - [Is the venture market slowing or did crossover funds just bounce?](https://techcrunch.com/2022/10/13/is-the-venture-market-slowing-or-did-crossover-funds-just-bounce/)
-- [See the hypersonic &#39;Darkstar&#39; jet from &#39;Top Gun: Maverick&#39; in person this weekend](https://www.space.com/top-gun-maverick-darkstar-air-show-edwards-air-force-base/)
-- [Receptions, parties and more at TechCrunch Disrupt](https://techcrunch.com/2022/10/13/receptions-parties-and-more-at-techcrunch-disrupt/)
-- [Strange molecules swirl around supermassive black holes, James Webb Space Telescope finds](https://www.space.com/james-webb-space-telescope-active-galaxy-pah/)
-- [Volkswagen to plough €2.4B into vehicle automation in China and form JV with Horizon Robotics](https://techcrunch.com/2022/10/13/volkswagen-autonomous-driving-china-horizon-robotics-jv/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
