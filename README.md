@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [From Zero to DevOps Engineer - DevOps Roadmap for YOUR specific background](https://www.youtube.com/watch?v=G_nVMUtaqCk)
 - [7 Things No Programmer Ever Wants to Hear](https://www.youtube.com/watch?v=OoQLoKHhohg)
 - [the challenge is over.](https://www.youtube.com/watch?v=ZSADD1nYD5Y)
 - [SQL Injections are scary!! &lpar;hacking tutorial for beginners&rpar;](https://www.youtube.com/watch?v=2OPVViV-GQk)
 - [How AI Image Generators Work &lpar;Stable Diffusion / Dall-E&rpar; - Computerphile](https://www.youtube.com/watch?v=1CIpzeNxIhU)
-- [40 Windows Commands you NEED to know &lpar;in 10 Minutes&rpar;](https://www.youtube.com/watch?v=Jfvg3CS1X3A)
 <!-- YOUTUBE:END -->
 
 ---
