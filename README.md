@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NHS vendor Advanced won’t say if patient data was stolen during ransomware attack](https://techcrunch.com/2022/10/13/advanced-nhs-patient-data-ransomware/)
+- [Firefly declares Alpha rocket launch success despite satellites falling back to Earth](https://www.space.com/firefly-alpha-satellite-payloads-reenter-atmosphere/)
+- [SpaceX, NASA delay Crew-4 astronaut landing on Dragon Freedom due to weather](https://www.space.com/spacex-crew-4-astronauts-dragon-landing-delayed/)
 - [SpaceX astronaut missions for NASA: Crew-4 landing updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates/)
 - [SecuriThings is bringing order to IoT device management with $21M investment](https://techcrunch.com/2022/10/13/securithings-is-bringing-order-to-iot-device-management-with-21m-investment/)
-- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates/)
-- [Watch SpaceX&#39;s Crew-4 astronauts depart space station on Friday after delay](https://www.space.com/spacex-crew-4-space-station-departure-webcast/)
-- [VUZ raises $20 million to scale its immersive social app](https://techcrunch.com/2022/10/13/vuz-raises-20-million-to-scale-its-immersive-social-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
