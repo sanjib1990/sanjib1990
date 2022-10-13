@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sony and Honda envision an EV that entertains while it takes the wheel](https://techcrunch.com/2022/10/13/sony-honda-envision-ev-that-entertains-while-it-takes-the-wheel/)
+- [Pitch Deck Teardown: Supliful’s $1M seed deck](https://techcrunch.com/2022/10/13/sample-seed-pitch-deck-supliful/)
+- [Scottish rocket startup Skyrora fails on 1st space launch attempt](https://www.space.com/skyrora-suborbital-rocket-launch-attempt-failure/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html/)
 - [Hubble Space Telescope finds neutron star collision&#39;s jet travels nearly as fast as light](https://www.space.com/hubble-space-telescope-neutron-star-collision-jet/)
-- [Netflix undercuts Disney+ with launch of its $7/month ad-supported plan starting Nov. 3](https://techcrunch.com/2022/10/13/netflixs-ad-supported-tier-set-to-launch-on-november-3/)
-- [SpaceX rocket launch spawns spectacular &#39;jellyfish&#39; in the sky &lpar;video, photos&rpar;](https://www.space.com/spacex-falcon-9-launch-sky-jellyfish-video-photos/)
-- [Crypto VC deployment still slow as investors wait for even lower valuations](https://techcrunch.com/2022/10/13/crypto-vc-deployment-still-slow-as-investors-wait-for-even-lower-valuations/)
-- [Meet these five emerging startups at TC Sessions: Crypto](https://techcrunch.com/2022/10/13/meet-these-five-emerging-startups-at-tc-sessions-crypto/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
