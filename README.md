@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [An ‘ambitious’ new D&amp;D game is on the way from Invoke Studios, formerly Tuque Games](https://techcrunch.com/2022/10/12/wizards-new-dnd-game-invoke-tuque/)
+- [Resonance is a new $150 million VC fund based in Paris](https://techcrunch.com/2022/10/12/resonance-is-a-new-150-million-vc-fund-based-in-paris/)
 - [Pillow wants to make crypto saving and investing easy for new users](https://techcrunch.com/2022/10/12/pillow-wants-to-make-crypto-saving-and-investing-easy-for-new-users/)
 - [Ask the professor: Wharton’s Mori Taheripour on how to negotiate the right way](https://techcrunch.com/2022/10/12/ask-the-professor-whartons-mori-taheripour-on-how-to-negotiate-the-right-way/)
 - [Royalty-backed Lightrock packs $834 million into its first climate fund](https://techcrunch.com/2022/10/12/lightrock-834-million-first-climate-fund/)
-- [Katana, an ERP for SMB manufacturers, raises $34M](https://techcrunch.com/2022/10/12/katana-an-erp-for-smb-manufacturers-raises-34m/)
-- [FOLX powers LGBTQ+ telehealth support groups with $30M round](https://techcrunch.com/2022/10/12/folx-powers-lgbtq-telehealth-support-groups-with-30m-round/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
