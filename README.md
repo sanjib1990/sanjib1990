@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pillow wants to make crypto saving and investing easy for new users](https://techcrunch.com/2022/10/12/pillow-wants-to-make-crypto-saving-and-investing-easy-for-new-users/)
 - [Ask the professor: Wharton’s Mori Taheripour on how to negotiate the right way](https://techcrunch.com/2022/10/12/ask-the-professor-whartons-mori-taheripour-on-how-to-negotiate-the-right-way/)
 - [Royalty-backed Lightrock packs $834 million into its first climate fund](https://techcrunch.com/2022/10/12/lightrock-834-million-first-climate-fund/)
 - [Katana, an ERP for SMB manufacturers, raises $34M](https://techcrunch.com/2022/10/12/katana-an-erp-for-smb-manufacturers-raises-34m/)
 - [FOLX powers LGBTQ+ telehealth support groups with $30M round](https://techcrunch.com/2022/10/12/folx-powers-lgbtq-telehealth-support-groups-with-30m-round/)
-- [GoHenry, the fintech for under-18s, raises $55M after passing 2M users](https://techcrunch.com/2022/10/12/gohenry-the-banking-service-for-under-18s-raises-55m-after-passing-2m-users/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
