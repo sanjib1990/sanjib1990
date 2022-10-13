@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Zen Educate, a marketplace that matches schools with teachers, raises $21M to fuel U.S. expansion](https://techcrunch.com/2022/10/13/zen-educate-a-marketplace-that-matches-schools-with-teachers-raises-21m-to-fuel-u-s-expansion/)
-- [Open finance startup Ayoconnect’s APIs enable financial inclusion in Southeast Asia](https://techcrunch.com/2022/10/13/open-finance-startup-ayoconnects-apis-enable-financial-inclusion-in-southeast-asia/)
-- [Truth Social debuts in the Google Play Store](https://techcrunch.com/2022/10/12/truth-social-google-play-android/)
-- [An ‘ambitious’ new D&amp;D game is on the way from Invoke Studios](https://techcrunch.com/2022/10/12/wizards-new-dnd-game-invoke-tuque/)
-- [Resonance is a new $150 million VC fund based in Paris](https://techcrunch.com/2022/10/12/resonance-is-a-new-150-million-vc-fund-based-in-paris/)
+- [Vedantu acquires majority stake in Deeksha for $40 million in offline push](https://techcrunch.com/2022/10/13/vedantu-acquires-majority-stake-in-deeksha-for-40-million-in-offline-push/)
+- [Russian Proton rocket launches communications satellite for Angola &lpar;video&rpar;](https://www.space.com/russia-proton-rocket-angosat-2-launch/)
+- [NASA planet hunter in safe mode after computer glitch](https://www.space.com/nasa-tess-exoplanet-mission-in-safe-mode/)
+- [SpaceX stacks Starship and Super Heavy on launch pad ahead of orbital test flight &lpar;photos&rpar;](https://www.space.com/spacex-starship-stacked-october-2022-photos/)
+- [MoKo, Kenya’s home furniture startup, raises $6.5M](https://techcrunch.com/2022/10/13/moko-kenyas-home-furniture-startup-raises-6-5m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
