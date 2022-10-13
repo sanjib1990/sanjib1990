@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch SpaceX&#39;s Crew-4 astronauts depart space station and return to Earth today &lpar;Oct. 13&rpar;](https://www.space.com/spacex-crew-4-space-station-departure-webcast/)
+- [On This Day In Space: Oct. 13, 1773: Charles Messier discovers the &#39;Whirlpool Galaxy&#39;](https://www.space.com/39251-on-this-day-in-space.html/)
 - [Nudge Security emerges from stealth to tackle cybersecurity’s people problem](https://techcrunch.com/2022/10/13/nudge-security-stealth/)
 - [Analytics operating system Redbird makes data more accessible to non-technical users](https://techcrunch.com/2022/10/13/analytics-operating-system-redbird-makes-data-science-accessible-to-non-technical-users/)
 - [Vedantu acquires majority stake in Deeksha for $40 million in offline push](https://techcrunch.com/2022/10/13/vedantu-acquires-majority-stake-in-deeksha-for-40-million-in-offline-push/)
-- [Russian Proton rocket launches communications satellite for Angola &lpar;video&rpar;](https://www.space.com/russia-proton-rocket-angosat-2-launch/)
-- [NASA planet hunter in safe mode after computer glitch](https://www.space.com/nasa-tess-exoplanet-mission-in-safe-mode/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
