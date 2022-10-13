@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nudge Security emerges from stealth to tackle cybersecurity’s people problem](https://techcrunch.com/2022/10/13/nudge-security-stealth/)
+- [Analytics operating system Redbird makes data more accessible to non-technical users](https://techcrunch.com/2022/10/13/analytics-operating-system-redbird-makes-data-science-accessible-to-non-technical-users/)
 - [Vedantu acquires majority stake in Deeksha for $40 million in offline push](https://techcrunch.com/2022/10/13/vedantu-acquires-majority-stake-in-deeksha-for-40-million-in-offline-push/)
 - [Russian Proton rocket launches communications satellite for Angola &lpar;video&rpar;](https://www.space.com/russia-proton-rocket-angosat-2-launch/)
 - [NASA planet hunter in safe mode after computer glitch](https://www.space.com/nasa-tess-exoplanet-mission-in-safe-mode/)
-- [SpaceX stacks Starship and Super Heavy on launch pad ahead of orbital test flight &lpar;photos&rpar;](https://www.space.com/spacex-starship-stacked-october-2022-photos/)
-- [MoKo, Kenya’s home furniture startup, raises $6.5M](https://techcrunch.com/2022/10/13/moko-kenyas-home-furniture-startup-raises-6-5m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
