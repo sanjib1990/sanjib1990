@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is the venture market slowing or did crossover funds just bounce?](https://techcrunch.com/2022/10/13/is-the-venture-market-slowing-or-did-crossover-funds-just-bounce/)
+- [See the hypersonic &#39;Darkstar&#39; jet from &#39;Top Gun: Maverick&#39; in person this weekend](https://www.space.com/top-gun-maverick-darkstar-air-show-edwards-air-force-base/)
 - [Receptions, parties and more at TechCrunch Disrupt](https://techcrunch.com/2022/10/13/receptions-parties-and-more-at-techcrunch-disrupt/)
 - [Strange molecules swirl around supermassive black holes, James Webb Space Telescope finds](https://www.space.com/james-webb-space-telescope-active-galaxy-pah/)
 - [Volkswagen to plough €2.4B into vehicle automation in China and form JV with Horizon Robotics](https://techcrunch.com/2022/10/13/volkswagen-autonomous-driving-china-horizon-robotics-jv/)
-- [The last mile](https://techcrunch.com/2022/10/13/the-last-mile/)
-- [Inside Motional’s strategy to bring robotaxis to market](https://techcrunch.com/2022/10/13/inside-motionals-strategy-to-bring-robotaxis-to-market/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
