@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Sony and Honda envision an EV that entertains while it takes the wheel](https://techcrunch.com/2022/10/13/sony-honda-envision-ev-that-entertains-while-it-takes-the-wheel/)
-- [Pitch Deck Teardown: Supliful’s $1M seed deck](https://techcrunch.com/2022/10/13/sample-seed-pitch-deck-supliful/)
-- [Scottish rocket startup Skyrora fails on 1st space launch attempt](https://www.space.com/skyrora-suborbital-rocket-launch-attempt-failure/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html/)
-- [Hubble Space Telescope finds neutron star collision&#39;s jet travels nearly as fast as light](https://www.space.com/hubble-space-telescope-neutron-star-collision-jet/)
+- [Receptions, parties and more at TechCrunch Disrupt](https://techcrunch.com/2022/10/13/receptions-parties-and-more-at-techcrunch-disrupt/)
+- [Strange molecules swirl around supermassive black holes, James Webb Space Telescope finds](https://www.space.com/james-webb-space-telescope-active-galaxy-pah/)
+- [Volkswagen to plough €2.4B into vehicle automation in China and form JV with Horizon Robotics](https://techcrunch.com/2022/10/13/volkswagen-autonomous-driving-china-horizon-robotics-jv/)
+- [The last mile](https://techcrunch.com/2022/10/13/the-last-mile/)
+- [Inside Motional’s strategy to bring robotaxis to market](https://techcrunch.com/2022/10/13/inside-motionals-strategy-to-bring-robotaxis-to-market/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
