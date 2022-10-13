@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch SpaceX&#39;s Crew-4 astronauts depart space station and return to Earth today &lpar;Oct. 13&rpar;](https://www.space.com/spacex-crew-4-space-station-departure-webcast/)
-- [On This Day In Space: Oct. 13, 1773: Charles Messier discovers the &#39;Whirlpool Galaxy&#39;](https://www.space.com/39251-on-this-day-in-space.html/)
-- [Nudge Security emerges from stealth to tackle cybersecurity’s people problem](https://techcrunch.com/2022/10/13/nudge-security-stealth/)
-- [Analytics operating system Redbird makes data more accessible to non-technical users](https://techcrunch.com/2022/10/13/analytics-operating-system-redbird-makes-data-science-accessible-to-non-technical-users/)
-- [Vedantu acquires majority stake in Deeksha for $40 million in offline push](https://techcrunch.com/2022/10/13/vedantu-acquires-majority-stake-in-deeksha-for-40-million-in-offline-push/)
+- [SpaceX astronaut missions for NASA: Crew-4 landing updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates/)
+- [SecuriThings is bringing order to IoT device management with $21M investment](https://techcrunch.com/2022/10/13/securithings-is-bringing-order-to-iot-device-management-with-21m-investment/)
+- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates/)
+- [Watch SpaceX&#39;s Crew-4 astronauts depart space station on Friday after delay](https://www.space.com/spacex-crew-4-space-station-departure-webcast/)
+- [VUZ raises $20 million to scale its immersive social app](https://techcrunch.com/2022/10/13/vuz-raises-20-million-to-scale-its-immersive-social-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
