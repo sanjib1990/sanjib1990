@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Astronomers discover heaviest exoplanet element yet on alien world so hot it rains iron](https://www.space.com/exoplanet-atmosphere-heaviest-element-barium-detection/)
-- [Firefly declares Alpha rocket launch success despite satellites falling back to Earth](https://www.space.com/firefly-alpha-satellite-payloads-reenter-atmosphere/)
-- [SpaceX, NASA delay Crew-4 astronaut landing on Dragon Freedom due to weather](https://www.space.com/spacex-crew-4-astronauts-dragon-landing-delayed/)
-- [SpaceX astronaut missions for NASA: Crew-4 landing updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates/)
-- [SecuriThings is bringing order to IoT device management with $21M investment](https://techcrunch.com/2022/10/13/securithings-is-bringing-order-to-iot-device-management-with-21m-investment/)
+- [Meet these five emerging startups at TC Sessions: Crypto](https://techcrunch.com/2022/10/13/meet-these-five-emerging-startups-at-tc-sessions-crypto/)
+- [Apple partners with Goldman Sachs to introduce high-yield savings accounts for Apple Card holders](https://techcrunch.com/2022/10/13/apple-partners-with-goldman-sachs-to-introduce-high-yield-savings-accounts-for-apple-card-holders/)
+- [Venus balloon prototype notches test flights over Nevada desert &lpar;video&rpar;](https://www.space.com/venus-balloon-prototype-test-flights-video/)
+- [With $67M in new capital, NorthOne is doubling down on SMBs as some fintech companies pull back](https://techcrunch.com/2022/10/13/with-67m-in-new-capital-northone-is-doubling-down-on-smbs-as-some-fintech-companies-pull-back/)
+- [5 more reasons to jump off the fence and go to Disrupt](https://techcrunch.com/2022/10/13/5-more-reasons-to-jump-off-the-fence-and-go-to-disrupt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
