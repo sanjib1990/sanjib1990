@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Open finance startup Ayoconnect’s APIs enable financial inclusion in Southeast Asia](https://techcrunch.com/2022/10/13/open-finance-startup-ayoconnects-apis-enable-financial-inclusion-in-southeast-asia/)
 - [Truth Social debuts in the Google Play Store](https://techcrunch.com/2022/10/12/truth-social-google-play-android/)
 - [An ‘ambitious’ new D&amp;D game is on the way from Invoke Studios](https://techcrunch.com/2022/10/12/wizards-new-dnd-game-invoke-tuque/)
 - [Resonance is a new $150 million VC fund based in Paris](https://techcrunch.com/2022/10/12/resonance-is-a-new-150-million-vc-fund-based-in-paris/)
 - [Pillow wants to make crypto saving and investing easy for new users](https://techcrunch.com/2022/10/12/pillow-wants-to-make-crypto-saving-and-investing-easy-for-new-users/)
-- [Ask the professor: Wharton’s Mori Taheripour on how to negotiate the right way](https://techcrunch.com/2022/10/12/ask-the-professor-whartons-mori-taheripour-on-how-to-negotiate-the-right-way/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
