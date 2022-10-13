@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Repairable laptop firm Framework introduces refurbished program](https://techcrunch.com/2022/10/13/repairable-laptop-firm-framework-introduces-refurbished-program/)
 - [Daily Crunch: Google holographic video chat booth, Project Starline, finds its way into the real world](https://techcrunch.com/2022/10/13/daily-crunch-google-holographic-video-chat-booth-project-starline-finds-its-way-into-the-real-world/)
 - [Meta files to dismiss FTC complaint over acquisition of VR fitness company Within](https://techcrunch.com/2022/10/13/meta-within-vr-ftc-complaint/)
 - [Fallen Arecibo Observatory telescope won&#39;t be rebuilt despite scientists&#39; hopes](https://www.space.com/arecibo-observatory-telescope-replaced-education-center/)
 - [China launches environmental satellite in 3rd flight in 6 days](https://www.space.com/china-launches-environment-satellite-third-launch-six-days/)
-- [Getaway launches a way for you to enjoy, and own, vacation homes](https://techcrunch.com/2022/10/13/getaway-launches-a-way-for-you-to-enjoy-and-own-vacation-homes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
