@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The highs and lows of Q3 venture capital data for women startup founders](https://techcrunch.com/2022/10/14/the-highs-and-lows-of-q3-venture-capital-data-for-women-startup-founders/)
-- [&#39;Star Trek: Strange New Worlds&#39; comic book miniseries launches in December](https://www.space.com/star-trek-strange-new-worlds-comic-miniseries/)
 - [SpaceX astronaut missions for NASA: Crew-4 landing updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates/)
 - [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates/)
-- [Astronomers just spotted the most powerful flash of light ever seen](https://www.space.com/most-powerful-gamma-ray-burst-ever-seen/)
+- [Tata Power, a top power producer in India, confirms cyberattack](https://techcrunch.com/2022/10/14/india-power-company-tata-power-cyber-attack/)
+- [The highs and lows of Q3 venture capital data for women startup founders](https://techcrunch.com/2022/10/14/the-highs-and-lows-of-q3-venture-capital-data-for-women-startup-founders/)
+- [&#39;Star Trek: Strange New Worlds&#39; comic book miniseries launches in December](https://www.space.com/star-trek-strange-new-worlds-comic-miniseries/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
