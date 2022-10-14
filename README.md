@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Lisp in 100 Seconds](https://www.youtube.com/watch?v=INUHCQST7CU)
 - [Stop calling Fleet a VS Code Killer](https://www.youtube.com/watch?v=h55emgImrLk)
 - [From Zero to DevOps Engineer - DevOps Roadmap for YOUR specific background](https://www.youtube.com/watch?v=G_nVMUtaqCk)
 - [7 Things No Programmer Ever Wants to Hear](https://www.youtube.com/watch?v=OoQLoKHhohg)
 - [the challenge is over.](https://www.youtube.com/watch?v=ZSADD1nYD5Y)
-- [SQL Injections are scary!! &lpar;hacking tutorial for beginners&rpar;](https://www.youtube.com/watch?v=2OPVViV-GQk)
 <!-- YOUTUBE:END -->
 
 ---
