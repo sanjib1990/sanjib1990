@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates/)
+- [Daily Crunch: Andreessen Horowitz backs Synonym’s development of ‘fermentation farms’](https://techcrunch.com/2022/10/14/daily-crunch-andreessen-horowitz-backs-synonyms-development-of-fermentation-farms/)
+- [One of the most extreme black hole collisions in the universe just proved Einstein right](https://www.space.com/black-hole-merger-precession-einstein-gravity/)
 - [SpaceX astronaut missions for NASA: Crew-4 landing updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates/)
-- [SpaceX&#39;s Crew-4 splashes down after 5 months on International Space Station](https://www.space.com/spacex-crew-4-mission-departs-space-station/)
-- [Tata Power, a top power producer in India, confirms cyberattack](https://techcrunch.com/2022/10/14/india-power-company-tata-power-cyber-attack/)
-- [The highs and lows of Q3 venture capital data for women startup founders](https://techcrunch.com/2022/10/14/the-highs-and-lows-of-q3-venture-capital-data-for-women-startup-founders/)
+- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates/)
+- [Former Everyrealm execs sue company for sexual harassment, race discrimination](https://techcrunch.com/2022/10/14/everyrealm-execs-metaverse-lawsuit-harassment-discrimination-crypto/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
