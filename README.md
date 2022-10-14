@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Night Vision Binoculars 2022](https://www.space.com/best-night-vision-binoculars/)
-- [Best DSLR cameras: our top picks of full-frame and crop-sensor bodies](https://www.space.com/best-dslr-cameras/)
-- [On This Day In Space: Oct. 14, 1947: Chuck Yeager breaks the sound barrier](https://www.space.com/39251-on-this-day-in-space.html/)
-- [Watch SpaceX&#39;s Crew-4 astronauts depart space station and return to Earth today after delay](https://www.space.com/spacex-crew-4-space-station-departure-webcast/)
-- [See the moon visit fiery-colored Mars in Friday night sky &lpar;Oct. 14&rpar;](https://www.space.com/moon-visits-mars-friday-oct-14-2022/)
+- [DIY: 5 ways disruptive component startups can win over OEMs](https://techcrunch.com/2022/10/14/diy-5-ways-disruptive-component-startups-can-win-over-oems/)
+- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates/)
+- [SpaceX astronaut missions for NASA: Crew-4 landing updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates/)
+- [Andreessen Horowitz backs Synonym’s bio-manufacturing facilities](https://techcrunch.com/2022/10/14/synonym-biotechnologies-bio-manufacturing/)
+- [Google is updating its ‘Ad’ tag to ‘Sponsored’ for mobile search](https://techcrunch.com/2022/10/14/google-is-updating-its-ad-tag-to-sponsored-for-mobile-search/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
