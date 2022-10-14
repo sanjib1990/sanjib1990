@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [See the moon visit fiery-colored Mars Friday evening &lpar;Oct. 14&rpar;](https://www.space.com/moon-visits-mars-friday-oct-14-2022/)
-- [Mysterious dust ring around Uranus spotted in rediscovered Voyager 2 data](https://www.space.com/uranus-voyager-hidden-data-ring-mystery/)
-- [Watch SpaceX launch satellite, land rocket at sea Friday night](https://www.space.com/spacex-hotbird-13f-rocket-launch-landing/)
-- [Instagram expands AI-powered age verification program to India and Brazil](https://techcrunch.com/2022/10/13/instagram-expands-ai-powered-age-verification-program-to-india-and-brazil/)
-- [Shein owner fined $1.9M for failing to notify 39M users of data breach](https://techcrunch.com/2022/10/13/shein-zoetop-fined-1-9m-data-breach/)
+- [Best Night Vision Binoculars 2022](https://www.space.com/best-night-vision-binoculars/)
+- [Best DSLR cameras: our top picks of full-frame and crop-sensor bodies](https://www.space.com/best-dslr-cameras/)
+- [On This Day In Space: Oct. 14, 1947: Chuck Yeager breaks the sound barrier](https://www.space.com/39251-on-this-day-in-space.html/)
+- [Watch SpaceX&#39;s Crew-4 astronauts depart space station and return to Earth today after delay](https://www.space.com/spacex-crew-4-space-station-departure-webcast/)
+- [See the moon visit fiery-colored Mars in Friday night sky &lpar;Oct. 14&rpar;](https://www.space.com/moon-visits-mars-friday-oct-14-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
