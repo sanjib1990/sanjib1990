@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [DIY: 5 ways disruptive component startups can win over OEMs](https://techcrunch.com/2022/10/14/diy-5-ways-disruptive-component-startups-can-win-over-oems/)
-- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates/)
-- [SpaceX astronaut missions for NASA: Crew-4 landing updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates/)
-- [Andreessen Horowitz backs Synonym’s bio-manufacturing facilities](https://techcrunch.com/2022/10/14/synonym-biotechnologies-bio-manufacturing/)
-- [Google is updating its ‘Ad’ tag to ‘Sponsored’ for mobile search](https://techcrunch.com/2022/10/14/google-is-updating-its-ad-tag-to-sponsored-for-mobile-search/)
+- [Got $5? These startups allow for investments in slices of real estate](https://techcrunch.com/2022/10/14/got-5-these-startups-allow-for-investments-in-slices-of-real-estate/)
+- [The 10 biggest telescopes on Earth](https://www.space.com/biggest-telescopes-on-earth/)
+- [Uganda’s changes on Computer Misuse law spark fears it will be used to silence dissidents](https://techcrunch.com/2022/10/14/ugandas-changes-on-computer-misuse-law-spark-fears-it-will-be-used-to-silence-dissidents/)
+- [Black hole is &#39;burping out&#39; a &#39;spaghettified&#39; star it devoured years ago](https://www.space.com/black-hole-spews-star-devoured-years-ago/)
+- [What’s the TAM of the 1%?](https://techcrunch.com/2022/10/14/whats-the-tam-of-the-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
