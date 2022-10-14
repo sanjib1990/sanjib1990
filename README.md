@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Fast Forward Venture Studio to build African startups from idea to scale](https://techcrunch.com/2022/10/14/fast-forward-venture-studio-to-build-african-startups-from-idea-to-scale/)
-- [Ukraine invasion&#39;s impacts on space exploration: Live updates](https://www.space.com/news/live/russia-ukraine-invasion-space-impacts-updates/)
-- [Is this really the second-best time ever to raise early-stage capital?](https://techcrunch.com/2022/10/14/is-this-really-the-second-best-time-ever-to-raise-early-stage-capital/)
-- [Clear Capital lays off 27% of its global staff](https://techcrunch.com/2022/10/14/clear-capital-lays-off-27-of-its-global-staff/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html/)
+- [The highs and lows of Q3 venture capital data for women startup founders](https://techcrunch.com/2022/10/14/the-highs-and-lows-of-q3-venture-capital-data-for-women-startup-founders/)
+- [&#39;Star Trek: Strange New Worlds&#39; comic book miniseries launches in December](https://www.space.com/star-trek-strange-new-worlds-comic-miniseries/)
+- [SpaceX astronaut missions for NASA: Crew-4 landing updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates/)
+- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates/)
+- [Astronomers just spotted the most powerful flash of light ever seen](https://www.space.com/most-powerful-gamma-ray-burst-ever-seen/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
