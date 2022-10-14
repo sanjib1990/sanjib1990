@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Twitter is developing a way for users to control who can mention them](https://techcrunch.com/2022/10/14/twitter-developing-feature-control-who-can-mention-you/)
-- [Mysterious &#39;ancient heart&#39; of the Milky Way discovered using Gaia probe](https://www.space.com/milky-way-protogalaxy-discovered-by-gaia/)
-- [A user’s guide to TechCrunch Disrupt 2022](https://techcrunch.com/2022/10/14/a-users-guide-to-techcrunch-disrupt-2022/)
-- [Meta’s legs update is not on the horizon yet](https://techcrunch.com/2022/10/14/metas-legs-update-is-not-on-the-horizon-yet/)
-- [Got $5? These startups allow for investments in slices of real estate](https://techcrunch.com/2022/10/14/got-5-these-startups-allow-for-investments-in-slices-of-real-estate/)
+- [SpaceX astronaut missions for NASA: Crew-4 landing updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates/)
+- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates/)
+- [Beyond Meat to cut 19% of its workforce amid sales slump](https://techcrunch.com/2022/10/14/beyond-meat-layoffs-sales-slump/)
+- [SpaceX&#39;s Crew-4 mission leaves space station and heads for home](https://www.space.com/spacex-crew-4-mission-departs-space-station/)
+- [Upcoming sci-fi movies for 2022](https://www.space.com/upcoming-sci-fi-movies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
