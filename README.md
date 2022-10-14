@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Instagram expands AI-powered age verification program to India and Brazil](https://techcrunch.com/2022/10/13/instagram-expands-ai-powered-age-verification-program-to-india-and-brazil/)
 - [Shein owner fined $1.9M for failing to notify 39M users of data breach](https://techcrunch.com/2022/10/13/shein-zoetop-fined-1-9m-data-breach/)
 - [Waste4Change is building a circular economy in Indonesia](https://techcrunch.com/2022/10/13/waste4change-is-building-a-circular-economy-in-indonesia/)
 - [Some new venture firms are going really, really &lpar;really&rpar; niche](https://techcrunch.com/2022/10/13/some-new-venture-firms-are-so-niche-that-at-first-glance-its-easy-to-laugh-off-their-focus/)
 - [Repairable laptop firm Framework introduces refurbished program](https://techcrunch.com/2022/10/13/repairable-laptop-firm-framework-introduces-refurbished-program/)
-- [Daily Crunch: Google holographic video chat booth, Project Starline, finds its way into the real world](https://techcrunch.com/2022/10/13/daily-crunch-google-holographic-video-chat-booth-project-starline-finds-its-way-into-the-real-world/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
