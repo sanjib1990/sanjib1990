@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Some new venture firms are so niche that, at first glance, it’s easy to laugh off their focus](https://techcrunch.com/2022/10/13/some-new-venture-firms-are-so-niche-that-at-first-glance-its-easy-to-laugh-off-their-focus/)
+- [Waste4Change is building a circular economy in Indonesia](https://techcrunch.com/2022/10/13/waste4change-is-building-a-circular-economy-in-indonesia/)
+- [Some new venture firms are so niche,  it’s tempting to laugh off their focus](https://techcrunch.com/2022/10/13/some-new-venture-firms-are-so-niche-that-at-first-glance-its-easy-to-laugh-off-their-focus/)
 - [Repairable laptop firm Framework introduces refurbished program](https://techcrunch.com/2022/10/13/repairable-laptop-firm-framework-introduces-refurbished-program/)
 - [Daily Crunch: Google holographic video chat booth, Project Starline, finds its way into the real world](https://techcrunch.com/2022/10/13/daily-crunch-google-holographic-video-chat-booth-project-starline-finds-its-way-into-the-real-world/)
 - [Meta files to dismiss FTC complaint over acquisition of VR fitness company Within](https://techcrunch.com/2022/10/13/meta-within-vr-ftc-complaint/)
-- [Fallen Arecibo Observatory telescope won&#39;t be rebuilt despite scientists&#39; hopes](https://www.space.com/arecibo-observatory-telescope-replaced-education-center/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
