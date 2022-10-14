@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See the moon visit fiery-colored Mars Friday evening &lpar;Oct. 14&rpar;](https://www.space.com/moon-visits-mars-friday-oct-14-2022/)
+- [Mysterious dust ring around Uranus spotted in rediscovered Voyager 2 data](https://www.space.com/uranus-voyager-hidden-data-ring-mystery/)
+- [Watch SpaceX launch satellite, land rocket at sea Friday night](https://www.space.com/spacex-hotbird-13f-rocket-launch-landing/)
 - [Instagram expands AI-powered age verification program to India and Brazil](https://techcrunch.com/2022/10/13/instagram-expands-ai-powered-age-verification-program-to-india-and-brazil/)
 - [Shein owner fined $1.9M for failing to notify 39M users of data breach](https://techcrunch.com/2022/10/13/shein-zoetop-fined-1-9m-data-breach/)
-- [Waste4Change is building a circular economy in Indonesia](https://techcrunch.com/2022/10/13/waste4change-is-building-a-circular-economy-in-indonesia/)
-- [Some new venture firms are going really, really &lpar;really&rpar; niche](https://techcrunch.com/2022/10/13/some-new-venture-firms-are-so-niche-that-at-first-glance-its-easy-to-laugh-off-their-focus/)
-- [Repairable laptop firm Framework introduces refurbished program](https://techcrunch.com/2022/10/13/repairable-laptop-firm-framework-introduces-refurbished-program/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
