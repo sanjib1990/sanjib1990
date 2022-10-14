@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter is developing a way for users to control who can mention them](https://techcrunch.com/2022/10/14/twitter-developing-feature-control-who-can-mention-you/)
+- [Mysterious &#39;ancient heart&#39; of the Milky Way discovered using Gaia probe](https://www.space.com/milky-way-protogalaxy-discovered-by-gaia/)
+- [A user’s guide to TechCrunch Disrupt 2022](https://techcrunch.com/2022/10/14/a-users-guide-to-techcrunch-disrupt-2022/)
+- [Meta’s legs update is not on the horizon yet](https://techcrunch.com/2022/10/14/metas-legs-update-is-not-on-the-horizon-yet/)
 - [Got $5? These startups allow for investments in slices of real estate](https://techcrunch.com/2022/10/14/got-5-these-startups-allow-for-investments-in-slices-of-real-estate/)
-- [The 10 biggest telescopes on Earth](https://www.space.com/biggest-telescopes-on-earth/)
-- [Uganda’s changes on Computer Misuse law spark fears it will be used to silence dissidents](https://techcrunch.com/2022/10/14/ugandas-changes-on-computer-misuse-law-spark-fears-it-will-be-used-to-silence-dissidents/)
-- [Black hole is &#39;burping out&#39; a &#39;spaghettified&#39; star it devoured years ago](https://www.space.com/black-hole-spews-star-devoured-years-ago/)
-- [What’s the TAM of the 1%?](https://techcrunch.com/2022/10/14/whats-the-tam-of-the-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
