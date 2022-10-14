@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX astronaut missions for NASA: Crew-4 landing updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates/)
-- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates/)
-- [Beyond Meat to cut 19% of its workforce amid sales slump](https://techcrunch.com/2022/10/14/beyond-meat-layoffs-sales-slump/)
-- [SpaceX&#39;s Crew-4 mission leaves space station and heads for home](https://www.space.com/spacex-crew-4-mission-departs-space-station/)
-- [Upcoming sci-fi movies for 2022](https://www.space.com/upcoming-sci-fi-movies/)
+- [Coroner’s report into UK schoolgirl’s suicide urges social media regulation](https://techcrunch.com/2022/10/14/molly-russell-coroner-report/)
+- [SurveyMonkey parent Momentive Global lays off 11% of workforce](https://techcrunch.com/2022/10/14/momentive-global-surveymonkey-layoff/)
+- [TechCrunch+ roundup: Layoffs and H1-B visas, SaaS growth levers, blockchain startup tips](https://techcrunch.com/2022/10/14/techcrunch-roundup-layoffs-and-h1-b-visas-saas-growth-levers-blockchain-startup-tips/)
+- [Today – last day to save on Disrupt passes](https://techcrunch.com/2022/10/14/today-last-day-to-save-on-disrupt-passes/)
+- [Elon Musk says SpaceX won&#39;t keep funding Starlink in Ukraine, asks Pentagon to take over](https://www.space.com/elon-musk-spacex-starlink-ukraine-funding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
