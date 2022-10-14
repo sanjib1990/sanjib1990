@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Coroner’s report into UK schoolgirl’s suicide urges social media regulation](https://techcrunch.com/2022/10/14/molly-russell-coroner-report/)
-- [SurveyMonkey parent Momentive Global lays off 11% of workforce](https://techcrunch.com/2022/10/14/momentive-global-surveymonkey-layoff/)
-- [TechCrunch+ roundup: Layoffs and H1-B visas, SaaS growth levers, blockchain startup tips](https://techcrunch.com/2022/10/14/techcrunch-roundup-layoffs-and-h1-b-visas-saas-growth-levers-blockchain-startup-tips/)
-- [Today – last day to save on Disrupt passes](https://techcrunch.com/2022/10/14/today-last-day-to-save-on-disrupt-passes/)
-- [Elon Musk says SpaceX won&#39;t keep funding Starlink in Ukraine, asks Pentagon to take over](https://www.space.com/elon-musk-spacex-starlink-ukraine-funding/)
+- [Fast Forward Venture Studio to build African startups from idea to scale](https://techcrunch.com/2022/10/14/fast-forward-venture-studio-to-build-african-startups-from-idea-to-scale/)
+- [Ukraine invasion&#39;s impacts on space exploration: Live updates](https://www.space.com/news/live/russia-ukraine-invasion-space-impacts-updates/)
+- [Is this really the second-best time ever to raise early-stage capital?](https://techcrunch.com/2022/10/14/is-this-really-the-second-best-time-ever-to-raise-early-stage-capital/)
+- [Clear Capital lays off 27% of its global staff](https://techcrunch.com/2022/10/14/clear-capital-lays-off-27-of-its-global-staff/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
