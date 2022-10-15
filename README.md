@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Starlink isn’t a charity, but the Ukraine war isn’t a business opportunity](https://techcrunch.com/2022/10/15/starlink-isnt-a-charity-but-the-ukraine-war-isnt-a-business-opportunity/)
+- [An Apple Store in Oklahoma City votes to unionize](https://techcrunch.com/2022/10/15/an-apple-store-in-oklahoma-city-votes-to-unionize/)
 - [Bizarre black hole is blasting a jet of plasma right at a neighboring galaxy](https://www.space.com/black-hole-shooting-jet-neighboring-galaxy/)
 - [Are CFOs OK? &lpar;Answer: Yes, but CEOs? That’s complicated&rpar;](https://techcrunch.com/2022/10/15/are-cfos-ok-answer-yes-but-ceos-thats-complicated/)
 - [Landing on Mars: Keep straight and fly right for Martian touchdown success](https://www.space.com/landing-on-mars-challenges-entry-descent/)
-- [This Week In Space podcast: Episode 33 —The DART asteroid impact bull&#39;s eye with Nancy Chabot](https://www.space.com/this-week-in-space-podcast-twit/)
-- [Sony A1 review](https://www.space.com/sony-a1-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
