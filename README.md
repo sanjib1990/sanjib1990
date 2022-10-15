@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [China launches 3 more spy satellites to orbit &lpar;video&rpar;](https://www.space.com/china-launches-yaogan-36-spy-satellites-october-2022/)
 - [Daily Crunch: Andreessen Horowitz backs Synonym’s development of ‘fermentation farms’](https://techcrunch.com/2022/10/14/daily-crunch-andreessen-horowitz-backs-synonyms-development-of-fermentation-farms/)
 - [One of the most extreme black hole collisions in the universe just proved Einstein right](https://www.space.com/black-hole-merger-precession-einstein-gravity/)
 - [SpaceX astronaut missions for NASA: Crew-4 landing updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates/)
 - [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates/)
-- [Former Everyrealm execs sue company for sexual harassment, race discrimination](https://techcrunch.com/2022/10/14/everyrealm-execs-metaverse-lawsuit-harassment-discrimination-crypto/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
