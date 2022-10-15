@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Europe plans to launch a quantum encryption satellite for ultrasecure communications in 2024](https://www.space.com/europe-quantum-encryption-satellite-planned/)
-- [Spot Lucy in the sky as NASA asteroid mission slingshots past Earth early Sunday &lpar;Oct. 16&rpar;](https://www.space.com/skywatching-nasa-lucy-asteroid-spacecraft/)
+- [This Week In Space podcast: Episode 33 —The DART asteroid impact mission with Nancy Chabot](https://www.space.com/this-week-in-space-podcast-twit/)
+- [Sony A1 review](https://www.space.com/sony-a1-review/)
+- [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html/)
+- [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html/)
 - [&#39;Delightfully boring:&#39; SpaceX&#39;s Dragon capsule Freedom aces 1st astronaut mission](https://www.space.com/spacex-dragon-capsule-freedom-aces-crew-4-mission/)
-- [SpaceX launches telecom satellite, lands rocket on ship at sea](https://www.space.com/spacex-hotbird-13f-rocket-launch-landing/)
-- [China launches 3 more spy satellites to orbit &lpar;video&rpar;](https://www.space.com/china-launches-yaogan-36-spy-satellites-october-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
