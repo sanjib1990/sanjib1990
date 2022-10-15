@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Europe plans to launch a quantum encryption satellite for ultrasecure communications in 2024](https://www.space.com/europe-quantum-encryption-satellite-planned/)
+- [Spot Lucy in the sky as NASA asteroid mission slingshots past Earth early Sunday &lpar;Oct. 16&rpar;](https://www.space.com/skywatching-nasa-lucy-asteroid-spacecraft/)
+- [&#39;Delightfully boring:&#39; SpaceX&#39;s Dragon capsule Freedom aces 1st astronaut mission](https://www.space.com/spacex-dragon-capsule-freedom-aces-crew-4-mission/)
 - [SpaceX launches telecom satellite, lands rocket on ship at sea](https://www.space.com/spacex-hotbird-13f-rocket-launch-landing/)
 - [China launches 3 more spy satellites to orbit &lpar;video&rpar;](https://www.space.com/china-launches-yaogan-36-spy-satellites-october-2022/)
-- [Daily Crunch: Andreessen Horowitz backs Synonym’s development of ‘fermentation farms’](https://techcrunch.com/2022/10/14/daily-crunch-andreessen-horowitz-backs-synonyms-development-of-fermentation-farms/)
-- [One of the most extreme black hole collisions in the universe just proved Einstein right](https://www.space.com/black-hole-merger-precession-einstein-gravity/)
-- [SpaceX astronaut missions for NASA: Crew-4 landing updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
