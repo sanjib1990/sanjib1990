@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pay as you drive, or pay how you drive?](https://techcrunch.com/2022/10/15/pay-as-you-drive-or-pay-how-you-drive/)
 - [Starlink isn’t a charity, but the Ukraine war isn’t a business opportunity](https://techcrunch.com/2022/10/15/starlink-isnt-a-charity-but-the-ukraine-war-isnt-a-business-opportunity/)
 - [An Apple Store in Oklahoma City votes to unionize](https://techcrunch.com/2022/10/15/an-apple-store-in-oklahoma-city-votes-to-unionize/)
 - [Bizarre black hole is blasting a jet of plasma right at a neighboring galaxy](https://www.space.com/black-hole-shooting-jet-neighboring-galaxy/)
 - [Are CFOs OK? &lpar;Answer: Yes, but CEOs? That’s complicated&rpar;](https://techcrunch.com/2022/10/15/are-cfos-ok-answer-yes-but-ceos-thats-complicated/)
-- [Landing on Mars: Keep straight and fly right for Martian touchdown success](https://www.space.com/landing-on-mars-challenges-entry-descent/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
