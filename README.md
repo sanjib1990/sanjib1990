@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Zombie startups](https://techcrunch.com/2022/10/15/zombie-startups/)
+- [This Week in Apps: Play Store revamp, Google antitrust suit updates, BeReal’s real traction](https://techcrunch.com/2022/10/15/this-week-in-apps-play-store-revamp-google-antitrust-suit-updates-bereals-real-traction/)
 - [Pay as you drive, or pay how you drive?](https://techcrunch.com/2022/10/15/pay-as-you-drive-or-pay-how-you-drive/)
 - [Starlink isn’t a charity, but the Ukraine war isn’t a business opportunity](https://techcrunch.com/2022/10/15/starlink-isnt-a-charity-but-the-ukraine-war-isnt-a-business-opportunity/)
 - [An Apple Store in Oklahoma City votes to unionize](https://techcrunch.com/2022/10/15/an-apple-store-in-oklahoma-city-votes-to-unionize/)
-- [Bizarre black hole is blasting a jet of plasma right at a neighboring galaxy](https://www.space.com/black-hole-shooting-jet-neighboring-galaxy/)
-- [Are CFOs OK? &lpar;Answer: Yes, but CEOs? That’s complicated&rpar;](https://techcrunch.com/2022/10/15/are-cfos-ok-answer-yes-but-ceos-thats-complicated/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
