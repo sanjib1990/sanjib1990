@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta announces legs, Hulu raises prices, and Microsoft embraces DALL-E 2](https://techcrunch.com/2022/10/15/meta-announces-legs-hulu-raises-prices-and-microsoft-embraces-dall-e-2/)
 - [Zombie startups](https://techcrunch.com/2022/10/15/zombie-startups/)
 - [This Week in Apps: Play Store revamp, Google antitrust suit updates, BeReal’s real traction](https://techcrunch.com/2022/10/15/this-week-in-apps-play-store-revamp-google-antitrust-suit-updates-bereals-real-traction/)
 - [Pay as you drive, or pay how you drive?](https://techcrunch.com/2022/10/15/pay-as-you-drive-or-pay-how-you-drive/)
 - [Starlink isn’t a charity, but the Ukraine war isn’t a business opportunity](https://techcrunch.com/2022/10/15/starlink-isnt-a-charity-but-the-ukraine-war-isnt-a-business-opportunity/)
-- [An Apple Store in Oklahoma City votes to unionize](https://techcrunch.com/2022/10/15/an-apple-store-in-oklahoma-city-votes-to-unionize/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
