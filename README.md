@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bizarre black hole is blasting a jet of plasma right at a neighboring galaxy](https://www.space.com/black-hole-shooting-jet-neighboring-galaxy/)
 - [Are CFOs OK? &lpar;Answer: Yes, but CEOs? That’s complicated&rpar;](https://techcrunch.com/2022/10/15/are-cfos-ok-answer-yes-but-ceos-thats-complicated/)
 - [Landing on Mars: Keep straight and fly right for Martian touchdown success](https://www.space.com/landing-on-mars-challenges-entry-descent/)
 - [This Week In Space podcast: Episode 33 —The DART asteroid impact bull&#39;s eye with Nancy Chabot](https://www.space.com/this-week-in-space-podcast-twit/)
 - [Sony A1 review](https://www.space.com/sony-a1-review/)
-- [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
