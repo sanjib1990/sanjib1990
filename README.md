@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sony FE 12-24mm f/2.8 G Master lens review](https://www.space.com/sony-fe-12-24mm-f28-g-master-lens-review/)
 - [Even decacorns have their challenges](https://techcrunch.com/2022/10/16/fintech-decacorn-brex/)
 - [Elon Musk says SpaceX will keep paying for Starlink satellite internet service in Ukraine](https://www.space.com/elon-musk-says-spacex-will-fund-starlink-ukraine/)
 - [Astronomers discovered something strange about &#39;potentially hazardous&#39; asteroid Phaethon](https://www.space.com/phaethon-asteroid-spin-speeding-up/)
 - [Shields up! Radiation coating experiment will spend six months outside space station](https://www.space.com/international-space-station-shield-radiation-experiment/)
-- [Russian Angara rocket launches mysterious military satellite](https://www.space.com/russia-angara-rocket-launches-military-satellite-october-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
