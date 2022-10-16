@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronomers discovered something strange about &#39;potentially hazardous&#39; asteroid Phaethon](https://www.space.com/phaethon-asteroid-spin-speeding-up/)
+- [Shields up! Radiation coating experiment will spend six months outside space station](https://www.space.com/international-space-station-shield-radiation-experiment/)
 - [Russian Angara rocket launches mysterious military satellite](https://www.space.com/russia-angara-rocket-launches-military-satellite-october-2022/)
 - [On This Day In Space: Oct. 16, 1975: NASA launches 1st GOES weather satellite](https://www.space.com/39251-on-this-day-in-space.html/)
 - [Entire known universe recreated in Minecraft by 18-year-old](https://www.space.com/entire-known-universe-recreated-minecraft-game/)
-- [Watch NASA&#39;s Lucy spacecraft streak through the skies with online broadcast](https://www.space.com/lucy-asteroid-spacecraft-earth-flyby-webcast/)
-- [NASA&#39;s asteroid scout zips past Earth today on 1st launch anniversary](https://www.space.com/lucy-asteroid-mission-first-earth-flyby/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
