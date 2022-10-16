@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Entire known universe recreated in Minecraft by 18-year-old](https://www.space.com/entire-known-universe-recreated-minecraft-game/)
+- [Watch NASA&#39;s Lucy spacecraft streak through the skies with online broadcast](https://www.space.com/lucy-asteroid-spacecraft-earth-flyby-webcast/)
+- [NASA&#39;s asteroid scout zips past Earth today on 1st launch anniversary](https://www.space.com/lucy-asteroid-mission-first-earth-flyby/)
+- [China&#39;s Shenzhou 14 astronauts snap stunning photos of Earth, the moon and more](https://www.space.com/shenzhou-14-china-space-station-photos/)
 - [India launches 75 digital banking units across rural areas in financial inclusion push](https://techcrunch.com/2022/10/16/india-launches-75-digital-banking-units-in-rural-areas-in-financial-inclusion-push/)
-- [Meta announces legs, Hulu raises prices, and Microsoft embraces DALL-E 2](https://techcrunch.com/2022/10/15/meta-announces-legs-hulu-raises-prices-and-microsoft-embraces-dall-e-2/)
-- [Zombie startups](https://techcrunch.com/2022/10/15/zombie-startups/)
-- [This Week in Apps: Play Store revamp, Google antitrust suit updates, BeReal’s real traction](https://techcrunch.com/2022/10/15/this-week-in-apps-play-store-revamp-google-antitrust-suit-updates-bereals-real-traction/)
-- [Pay as you drive, or pay how you drive?](https://techcrunch.com/2022/10/15/pay-as-you-drive-or-pay-how-you-drive/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
