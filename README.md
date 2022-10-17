@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jim McDivitt, astronaut who led Gemini 4 and Apollo 9 missions, dies at 93](https://www.space.com/james-mcdivitt-gemini-apollo-astronaut-obituary/)
 - [Lodewijk van den Berg, who became 1st Dutch-born astronaut, dies at 90](https://www.space.com/lodewijk-van-den-berg-astronaut-obituary/)
+- [Developers pour into crypto space despite stagnant markets](https://techcrunch.com/2022/10/17/developers-pour-into-crypto-space-despite-stagnant-markets/)
 - [US Space Force awards &#39;rapid launch&#39; contracts to Firefly, Millennium Space Systems](https://www.space.com/space-force-rapid-launch-firefly-millenium-space/)
 - [SpaceX &#39;proceeding very carefully&#39; with Starship testing, Elon Musk says](https://www.space.com/spacex-proceeding-carefully-starship-testing/)
-- [NASA asteroid-sampling mission on track for delivery next year](https://www.space.com/osiris-rex-bennu-asteroid-return-1st-burn/)
-- [&#39;Good Night Oppy&#39; director on his film about the Mars rover that refused to die &lpar;exclusive&rpar;](https://www.space.com/nasa-mars-opportunity-rover-good-night-oppy-film-ryan-white/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
