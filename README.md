@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Don’t let today’s software rally improve your mood](https://techcrunch.com/2022/10/17/dont-let-todays-software-rally-improve-your-mood/)
+- [Daily Crunch: Kanye West reaches agreement to acquire social media platform Parler](https://techcrunch.com/2022/10/17/daily-crunch-kanye-west-reaches-agreement-to-acquire-social-media-platform-parler/)
+- [Max Q: Any way you spice it](https://techcrunch.com/2022/10/17/max-q-any-way-you-spice-it/)
+- [SpaceX no longer seeking Pentagon funding for Starlink in Ukraine, Musk says](https://techcrunch.com/2022/10/17/spacex-no-longer-seeking-pentagon-funding-for-starlink-in-ukraine-musk-says/)
 - [Our moon has been slowly drifting away from Earth over the past 2.5 billion years](https://www.space.com/moon-drifting-away-from-earth-2-5-billion-years/)
-- [Jim McDivitt, astronaut who led Gemini 4 and Apollo 9 missions, dies at 93](https://www.space.com/james-mcdivitt-gemini-apollo-astronaut-obituary/)
-- [Lodewijk van den Berg, who became 1st Dutch-born astronaut, dies at 90](https://www.space.com/lodewijk-van-den-berg-astronaut-obituary/)
-- [Developers pour into crypto space despite stagnant markets](https://techcrunch.com/2022/10/17/developers-pour-into-crypto-space-despite-stagnant-markets/)
-- [US Space Force awards &#39;rapid launch&#39; contracts to Firefly, Millennium Space Systems](https://www.space.com/space-force-rapid-launch-firefly-millenium-space/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
