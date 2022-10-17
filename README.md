@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nigerian banking-as-a-service platform Maplerad raises $6M, led by Peter Thiel’s Valar Ventures](https://techcrunch.com/2022/10/17/nigerian-banking-as-a-service-platform-maplerad-raises-6m-led-by-peter-theils-valar-ventures/)
+- [Indian edtech giant Byju’s raises $250 million in fresh funding](https://techcrunch.com/2022/10/17/indian-edtech-giant-byjus-raises-250-million-in-fresh-funding/)
 - [Indian e-commerce giant Flipkart launches metaverse shopping experience](https://techcrunch.com/2022/10/17/indian-e-commerce-giant-flipkart-launches-metaverse-shopping-experience/)
 - [Why Cruise is making its own chips, and a lot more besides](https://techcrunch.com/2022/10/16/why-cruise-is-making-its-own-chips-and-a-lot-more-besides/)
 - [Top climate tech deals net nearly $4B in Q3, outpacing other industries](https://techcrunch.com/2022/10/16/top-climate-tech-deals-net-nearly-4b-in-q3-outpacing-other-industries/)
-- [With a $13B valuation, Celonis defies current startup economics](https://techcrunch.com/2022/10/16/with-a-13b-valuation-celonis-defies-current-startup-economics/)
-- [Sony FE 12-24mm f/2.8 G Master lens review](https://www.space.com/sony-fe-12-24mm-f28-g-master-lens-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
