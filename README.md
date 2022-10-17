@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Nigerian banking-as-a-service platform Maplerad raises $6M, led by Peter Thiel’s Valar Ventures](https://techcrunch.com/2022/10/17/nigerian-banking-as-a-service-platform-maplerad-raises-6m-led-by-peter-theils-valar-ventures/)
-- [Indian edtech giant Byju’s raises $250 million in fresh funding](https://techcrunch.com/2022/10/17/indian-edtech-giant-byjus-raises-250-million-in-fresh-funding/)
-- [Indian e-commerce giant Flipkart launches metaverse shopping experience](https://techcrunch.com/2022/10/17/indian-e-commerce-giant-flipkart-launches-metaverse-shopping-experience/)
-- [Why Cruise is making its own chips, and a lot more besides](https://techcrunch.com/2022/10/16/why-cruise-is-making-its-own-chips-and-a-lot-more-besides/)
-- [Top climate tech deals net nearly $4B in Q3, outpacing other industries](https://techcrunch.com/2022/10/16/top-climate-tech-deals-net-nearly-4b-in-q3-outpacing-other-industries/)
+- [South Pole&#39;s never-ending night and daily auroras are a dream for astrophotographers](https://www.space.com/polar-astrophotography-challenges-and-rewards/)
+- [NASA fires micro-bullets at Mars sample-return orbiter&#39;s meteoroid shield](https://www.space.com/nasa-testing-mars-spacecraft-meteoroid-shield/)
+- [See the half-lit third quarter moon shine tonight &lpar;Oct. 17&rpar;](https://www.space.com/last-quarter-moon-oct-2022/)
+- [Shares of Korean internet giant Kakao slide after fire disrupts service](https://techcrunch.com/2022/10/17/shares-of-korean-internet-giant-kakao-slide-after-fire-disrupts-service/)
+- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
