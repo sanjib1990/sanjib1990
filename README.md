@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch two Mini Cheetah robots square off on the soccer field](https://techcrunch.com/2022/10/17/watch-two-mini-cheetah-robots-square-off-on-the-soccer-field/)
+- [Chinese chipmakers, U.S. suppliers caught in crosshairs of new export restrictions](https://techcrunch.com/2022/10/17/chinese-chipmakers-u-s-suppliers-caught-in-crosshairs-of-new-export-restrictions/)
+- [Apple is bringing Spatial Audio to cars, starting with Mercedes-Benz](https://techcrunch.com/2022/10/17/apple-is-bringing-spatial-audio-to-cars-starting-with-mercedes-benz/)
+- [NASA asteroid-sampling mission on track for delivery next year](https://www.space.com/osiris-rex-bennu-asteroid-return-1st-burn/)
 - [&#39;Good Night Oppy&#39; director on his film about the Mars rover that refused to die &lpar;exclusive&rpar;](https://www.space.com/nasa-mars-opportunity-rover-good-night-oppy-film-ryan-white/)
-- [Netflix launches new ‘Profile Transfer’ feature to help end account sharing](https://techcrunch.com/2022/10/17/netflix-launches-new-profile-transfer-feature-to-help-end-account-sharing/)
-- [Low-cost hearing aids are now available over the counter in the US](https://techcrunch.com/2022/10/17/low-cost-hearing-aids-are-now-available-over-the-counter-in-the-us/)
-- [With over 43M K-12 users, Adobe Express for Education gets new AI and safe search tools](https://techcrunch.com/2022/10/17/with-over-43m-k-12-users-adobe-express-for-education-gets-new-ai-and-safe-search-tools/)
-- [Stability AI, the startup behind Stable Diffusion, raises $101M](https://techcrunch.com/2022/10/17/stability-ai-the-startup-behind-stable-diffusion-raises-101m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
