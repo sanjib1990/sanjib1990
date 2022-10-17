@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [With over 43M K-12 users, Adobe Express for Education gets new AI and safe search tools](https://techcrunch.com/2022/10/17/with-over-43m-k-12-users-adobe-express-for-education-gets-new-ai-and-safe-search-tools/)
+- [Stability AI, the startup behind Stable Diffusion, raises $101M](https://techcrunch.com/2022/10/17/stability-ai-the-startup-behind-stable-diffusion-raises-101m/)
+- [Want to tip for your Amazon delivery? Drivr is a new app for that](https://techcrunch.com/2022/10/17/drivr-tips-last-mile-delivery-amazon/)
+- [Amazon launches weekly livestream concert series ‘Amazon Music Live’ on Prime Video](https://techcrunch.com/2022/10/17/amazon-launches-weekly-livestream-concert-series-amazon-music-live/)
 - [Cyberdontics raises $15M for robotic root canals](https://techcrunch.com/2022/10/17/cyberdontics-raises-15m-for-robotic-root-canals/)
-- [TikTok is raising the age requirement for TikTok Live, adding adult-only livestreams](https://techcrunch.com/2022/10/17/tiktok-raising-age-requirement-tiktok-live-adding-adult-only-livestreams/)
-- [Maybe we didn’t deserve any IPOs this year](https://techcrunch.com/2022/10/17/maybe-we-didnt-deserve-any-ipos-this-year/)
-- [Star Wars Villainous board game review](https://www.space.com/star-wars-villainous-board-game-review/)
-- [Discord doubles down on apps to make servers more dynamic](https://techcrunch.com/2022/10/17/discord-bots-app-directory-activities/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
