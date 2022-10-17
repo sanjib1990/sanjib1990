@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Ambi Robotics secures $32M infusion to deploy its item-sorting robots in warehouses](https://techcrunch.com/2022/10/17/ambi-robotics-secures-32m-infusion-to-deploy-its-item-sorting-robots-in-warehouses/)
-- [Best Lego advent calendars 2022: Star Wars, Guardians of the Galaxy and more](https://www.space.com/best-lego-advent-calendars/)
-- [Kanye West to acquire ‘uncancelable’ social media platform Parler](https://techcrunch.com/2022/10/17/kanye-west-to-acquire-uncancelable-social-media-platform-parler/)
-- [South Pole&#39;s never-ending night and daily auroras are a dream for astrophotographers](https://www.space.com/polar-astrophotography-challenges-and-rewards/)
-- [NASA fires micro-bullets at Mars sample-return orbiter&#39;s meteoroid shield](https://www.space.com/nasa-testing-mars-spacecraft-meteoroid-shield/)
+- [PayPal debuts a new rewards program that combines Honey’s discounts with other ways to earn](https://techcrunch.com/2022/10/17/paypal-debuts-a-new-rewards-program-that-combines-honeys-discounts-with-other-ways-to-earn/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html/)
+- [Driverless in Phoenix and GM takes its EV offensive beyond vehicles](https://techcrunch.com/2022/10/17/driverless-in-phoenix-and-gm-takes-its-ev-offensive-beyond-vehicles/)
+- [Upcoming sci-fi TV shows for 2022](https://www.space.com/upcoming-sci-fi-tv-shows/)
+- [On This Day In Space: Oct. 17, 2016: Antares rocket returns to flight](https://www.space.com/39251-on-this-day-in-space.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
