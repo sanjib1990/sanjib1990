@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Destination Moon&#39;: Take a tour of new Air and Space Museum gallery](https://www.space.com/air-space-museum-destination-moon-tour/)
-- [Kanye West and Elon Musk provide a new exit path: the billionaire tantrum](https://techcrunch.com/2022/10/17/kanye-west-elon-musk-parler-twitter/)
-- [Dazzling Hubble Space Telescope image shows millions of stars glittering like jewels](https://www.space.com/hubble-space-telescope-photo-globular-cluster-terzan-4/)
-- [2023 VC predictions: Finding an exit from the ‘messy middle’](https://techcrunch.com/2022/10/17/2023-vc-predictions-finding-an-exit-from-the-messy-middle/)
-- [Online travel giant Booking.com faces antitrust probe in Spain](https://techcrunch.com/2022/10/17/booking-com-spain-antitrust-probe/)
+- [Discord doubles down on apps to make servers more dynamic](https://techcrunch.com/2022/10/17/discord-bots-app-directory-activities/)
+- [Disrupt kicks off tomorrow — check out the highlights](https://techcrunch.com/2022/10/17/disrupt-kicks-off-tomorrow-check-out-the-highlights/)
+- [Lyft increases service fees for riders amid rising insurance costs](https://techcrunch.com/2022/10/17/lyft-increases-service-fees-for-riders-amid-rising-insurance-costs/)
+- [Space station data show how dust contributes to climate change](https://www.space.com/space-station-dust-maps-climate-change/)
+- [Sila’s Gene Berdichevsky on the ‘5-year roller coaster’ facing battery companies](https://techcrunch.com/2022/10/17/silas-gene-berdichevsky-on-the-5-year-roller-coaster-facing-battery-companies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
