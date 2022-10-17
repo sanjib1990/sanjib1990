@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cyberdontics raises $15M for robotic root canals](https://techcrunch.com/2022/10/17/cyberdontics-raises-15m-for-robotic-root-canals/)
+- [TikTok is raising the age requirement for TikTok Live, adding adult-only livestreams](https://techcrunch.com/2022/10/17/tiktok-raising-age-requirement-tiktok-live-adding-adult-only-livestreams/)
+- [Maybe we didn’t deserve any IPOs this year](https://techcrunch.com/2022/10/17/maybe-we-didnt-deserve-any-ipos-this-year/)
+- [Star Wars Villainous board game review](https://www.space.com/star-wars-villainous-board-game-review/)
 - [Discord doubles down on apps to make servers more dynamic](https://techcrunch.com/2022/10/17/discord-bots-app-directory-activities/)
-- [Disrupt kicks off tomorrow — check out the highlights](https://techcrunch.com/2022/10/17/disrupt-kicks-off-tomorrow-check-out-the-highlights/)
-- [Lyft increases service fees for riders amid rising insurance costs](https://techcrunch.com/2022/10/17/lyft-increases-service-fees-for-riders-amid-rising-insurance-costs/)
-- [Space station data show how dust contributes to climate change](https://www.space.com/space-station-dust-maps-climate-change/)
-- [Sila’s Gene Berdichevsky on the ‘5-year roller coaster’ facing battery companies](https://techcrunch.com/2022/10/17/silas-gene-berdichevsky-on-the-5-year-roller-coaster-facing-battery-companies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
