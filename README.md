@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Destination Moon&#39;: Take a tour of new Air and Space Museum gallery](https://www.space.com/air-space-museum-destination-moon-tour/)
 - [Kanye West and Elon Musk provide a new exit path: the billionaire tantrum](https://techcrunch.com/2022/10/17/kanye-west-elon-musk-parler-twitter/)
 - [Dazzling Hubble Space Telescope image shows millions of stars glittering like jewels](https://www.space.com/hubble-space-telescope-photo-globular-cluster-terzan-4/)
 - [2023 VC predictions: Finding an exit from the ‘messy middle’](https://techcrunch.com/2022/10/17/2023-vc-predictions-finding-an-exit-from-the-messy-middle/)
 - [Online travel giant Booking.com faces antitrust probe in Spain](https://techcrunch.com/2022/10/17/booking-com-spain-antitrust-probe/)
-- [BlissLights Starport USB star projector review](https://www.space.com/blisslights-starport-usb-star-projector-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
