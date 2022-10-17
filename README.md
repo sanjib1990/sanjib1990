@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Good Night Oppy&#39; director on his film about the Mars rover that refused to die &lpar;exclusive&rpar;](https://www.space.com/nasa-mars-opportunity-rover-good-night-oppy-film-ryan-white/)
+- [Netflix launches new ‘Profile Transfer’ feature to help end account sharing](https://techcrunch.com/2022/10/17/netflix-launches-new-profile-transfer-feature-to-help-end-account-sharing/)
+- [Low-cost hearing aids are now available over the counter in the US](https://techcrunch.com/2022/10/17/low-cost-hearing-aids-are-now-available-over-the-counter-in-the-us/)
 - [With over 43M K-12 users, Adobe Express for Education gets new AI and safe search tools](https://techcrunch.com/2022/10/17/with-over-43m-k-12-users-adobe-express-for-education-gets-new-ai-and-safe-search-tools/)
 - [Stability AI, the startup behind Stable Diffusion, raises $101M](https://techcrunch.com/2022/10/17/stability-ai-the-startup-behind-stable-diffusion-raises-101m/)
-- [Want to tip for your Amazon delivery? Drivr is a new app for that](https://techcrunch.com/2022/10/17/drivr-tips-last-mile-delivery-amazon/)
-- [Amazon launches weekly livestream concert series ‘Amazon Music Live’ on Prime Video](https://techcrunch.com/2022/10/17/amazon-launches-weekly-livestream-concert-series-amazon-music-live/)
-- [Cyberdontics raises $15M for robotic root canals](https://techcrunch.com/2022/10/17/cyberdontics-raises-15m-for-robotic-root-canals/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
