@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ambi Robotics secures $32M infusion to deploy its item-sorting robots in warehouses](https://techcrunch.com/2022/10/17/ambi-robotics-secures-32m-infusion-to-deploy-its-item-sorting-robots-in-warehouses/)
+- [Best Lego advent calendars 2022: Star Wars, Guardians of the Galaxy and more](https://www.space.com/best-lego-advent-calendars/)
+- [Kanye West to acquire ‘uncancelable’ social media platform Parler](https://techcrunch.com/2022/10/17/kanye-west-to-acquire-uncancelable-social-media-platform-parler/)
 - [South Pole&#39;s never-ending night and daily auroras are a dream for astrophotographers](https://www.space.com/polar-astrophotography-challenges-and-rewards/)
 - [NASA fires micro-bullets at Mars sample-return orbiter&#39;s meteoroid shield](https://www.space.com/nasa-testing-mars-spacecraft-meteoroid-shield/)
-- [See the half-lit third quarter moon shine tonight &lpar;Oct. 17&rpar;](https://www.space.com/last-quarter-moon-oct-2022/)
-- [Shares of Korean internet giant Kakao slide after fire disrupts service](https://techcrunch.com/2022/10/17/shares-of-korean-internet-giant-kakao-slide-after-fire-disrupts-service/)
-- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
