@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Starfield game director wants players to avoid dying in space](https://www.space.com/starfield-game-director-die-in-space/)
-- [Most powerful gamma-ray burst ever seen could help reveal how black holes are born](https://www.space.com/gamma-ray-burst-brightest-of-all-time/)
-- [Marc Lore shares exclusive details on Jump Platforms, his stealth sports ticketing startup](https://techcrunch.com/2022/10/18/marc-lore-shares-exclusive-details-on-jump-platforms-his-new-sports-ticketing-startup/)
-- [Belkin’s $30 Continuity Camera accessory is now available for MagSafe iPhones](https://techcrunch.com/2022/10/18/belkins-30-continuity-camera-accessory-is-now-available-for-magsafe-iphones/)
-- [Drivetrain is the “Google Maps for business growth”](https://techcrunch.com/2022/10/18/drivetrain-is-the-google-maps-for-business-growth/)
+- [Smartphone woes continue as global market dips 9%](https://techcrunch.com/2022/10/18/smartphone-woes-continue-as-global-market-dips-9/)
+- [Astronomers discover ancient, very distant gamma-ray burst](https://www.space.com/ancient-gamma-ray-burst-discovered/)
+- [Biden’s new restrictions on exporting semiconductor tools hit China where it hurts](https://techcrunch.com/2022/10/18/bidens-new-restrictions-on-exporting-semiconductor-tools-hit-china-where-it-hurts/)
+- [Calm launches clinical mental health offering, Calm Health](https://techcrunch.com/2022/10/18/calm-launches-clinical-mental-health-offering-calm-health/)
+- [Marc Lore on ‘upsetting’ Diapers.com sale: ‘Investors got scared off by Amazon’s attack’](https://techcrunch.com/2022/10/18/marc-lore-upsetting-diapers-com-quidsi-sale-investors-scared-off-amazons/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
