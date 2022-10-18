@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Netflix adds 2.41M subscribers, soaring past expectations](https://techcrunch.com/2022/10/18/netflix-adds-2-41-million-subscribers-soaring-past-expectations/)
-- [Videos on tap: Vitag launches NFC-powered ‘sticky notes’ for visual instructions](https://techcrunch.com/2022/10/18/videos-on-tap-vitag-launches-nfc-powered-sticky-notes-for-visual-instructions/)
-- [Smartphone woes continue as global market dips 9%](https://techcrunch.com/2022/10/18/smartphone-woes-continue-as-global-market-dips-9/)
-- [Astronomers discover ancient, very distant gamma-ray burst](https://www.space.com/ancient-gamma-ray-burst-discovered/)
-- [Biden’s new restrictions on exporting semiconductor tools hit China where it hurts](https://techcrunch.com/2022/10/18/bidens-new-restrictions-on-exporting-semiconductor-tools-hit-china-where-it-hurts/)
+- [Swap Robotics is paving the way for electric solar vegetation cuts and sidewalk snow plowing](https://techcrunch.com/2022/10/18/swap-robotics-electric-solar-vegetation-cuts-sidewalk-snow-plowing/)
+- [DigestAI’s 19-year-old founder wants to make education addictive](https://techcrunch.com/2022/10/18/digestai-education-kado-education-addictive/)
+- [Deep Render believes AI holds the key to more efficient video compression](https://techcrunch.com/2022/10/18/deep-render-believes-ai-holds-the-key-to-more-efficient-video-compression/)
+- [Mother Honestly’s new commerce offering aims to give employees more freedom when it comes to caregiv](https://techcrunch.com/2022/10/18/mother-honestlys-new-commerce-offering-aims-to-give-employees-more-freedom-when-it-comes-to-caregiving-spend/)
+- [Netflix to expand into cloud gaming, opens new studio in Southern California](https://techcrunch.com/2022/10/18/netflix-to-expand-into-cloud-gaming-opens-new-studio-in-southern-california/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
