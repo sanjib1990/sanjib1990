@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Who is going to buy Cadillac’s $300,000 hand-built EV?](https://techcrunch.com/2022/10/17/who-is-going-to-buy-cadillacs-300000-hand-built-ev/)
+- [The Cadillac Celestiq is GM’s big &lpar;literally&rpar; luxury EV bet](https://techcrunch.com/2022/10/17/cadillac-celestiq-ev-reveal/)
+- [5 things you didn’t know about Cadillac’s $300,000 Celestiq EV](https://techcrunch.com/2022/10/17/5-things-you-didnt-know-about-cadillacs-300000-ev/)
+- [Jane Technologies launches its first iOS app for cannabis shopping](https://techcrunch.com/2022/10/17/jane-technologies-launches-its-first-ios-app-for-cannabis-shopping/)
 - [Don’t let today’s software rally improve your mood](https://techcrunch.com/2022/10/17/dont-let-todays-software-rally-improve-your-mood/)
-- [Daily Crunch: Kanye West reaches agreement to acquire social media platform Parler](https://techcrunch.com/2022/10/17/daily-crunch-kanye-west-reaches-agreement-to-acquire-social-media-platform-parler/)
-- [Max Q: Any way you spice it](https://techcrunch.com/2022/10/17/max-q-any-way-you-spice-it/)
-- [SpaceX no longer seeking Pentagon funding for Starlink in Ukraine, Musk says](https://techcrunch.com/2022/10/17/spacex-no-longer-seeking-pentagon-funding-for-starlink-in-ukraine-musk-says/)
-- [Our moon has been slowly drifting away from Earth over the past 2.5 billion years](https://www.space.com/moon-drifting-away-from-earth-2-5-billion-years/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
