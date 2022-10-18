@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google introduces a revamped Family Link app along with a web version](https://techcrunch.com/2022/10/18/google-introduces-a-revamped-family-link-app-along-with-a-web-version/)
-- [Google TV is getting parent-controlled watchlists and AI-powered suggestions for kids](https://techcrunch.com/2022/10/18/google-tv-is-getting-parent-controlled-watchlists-and-ai-powered-suggestions-for-kids/)
-- [Google antitrust complainants call for EU to shutter its Shopping Ads Units](https://techcrunch.com/2022/10/18/eu-antitrust-complaint-google-shopping-units/)
-- [Mars moon blocks out mighty Jupiter in rare satellite view &lpar;video&rpar;](https://www.space.com/mars-moons-occultations-jupiter-video/)
-- [How to watch the last solar eclipse of 2022 online for free &lpar;Oct. 25&rpar;](https://www.space.com/watch-partial-solar-eclipse-online-oct-25-2022/)
+- [Best telescopes for kids: Top picks for seeing the moon, stars, planets &amp; more](https://www.space.com/29798-best-telescopes-for-kids.html/)
+- [Enable lands $94M to help B2B companies manage their rebate programs](https://techcrunch.com/2022/10/18/enable-lands-94m-to-help-b2b-companies-manage-their-rebate-programs/)
+- [Streaming data processing platform RisingWave lands $36M to launch a cloud service](https://techcrunch.com/2022/10/18/streaming-data-processing-platform-risingwave-lands-36m-to-launch-a-cloud-service/)
+- [Meta gets final order to sell Giphy from UK antitrust watchdog](https://techcrunch.com/2022/10/18/meta-giphy-acquisition-cma-sale-order/)
+- [On This Day In Space: Oct. 18, 1963: Félicette Becomes the 1st Cat in Space!  &gt;^..^&lt;](https://www.space.com/39251-on-this-day-in-space.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
