@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [YouTube ends the test asking users to get a premium subscription to watch 4K videos](https://techcrunch.com/2022/10/17/youtube-ends-the-test-asking-users-to-get-a-premium-subscription-to-watch-4k-videos/)
 - [Who is going to buy Cadillac’s $300,000 hand-built EV?](https://techcrunch.com/2022/10/17/who-is-going-to-buy-cadillacs-300000-hand-built-ev/)
 - [The Cadillac Celestiq is GM’s big &lpar;literally&rpar; luxury EV bet](https://techcrunch.com/2022/10/17/cadillac-celestiq-ev-reveal/)
 - [5 things you didn’t know about Cadillac’s $300,000 Celestiq EV](https://techcrunch.com/2022/10/17/5-things-you-didnt-know-about-cadillacs-300000-ev/)
 - [Jane Technologies launches its first iOS app for cannabis shopping](https://techcrunch.com/2022/10/17/jane-technologies-launches-its-first-ios-app-for-cannabis-shopping/)
-- [Don’t let today’s software rally improve your mood](https://techcrunch.com/2022/10/17/dont-let-todays-software-rally-improve-your-mood/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
