@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NXgenPort aims to detect early signs of infection in cancer patients before symptoms arise](https://techcrunch.com/2022/10/18/nxgenport-detect-early-signs-infection-cancer-patients-before-symptoms-arise/)
-- [Kanye joins the ranks of arrogant billionaires buying their own echo chambers](https://techcrunch.com/2022/10/18/kanye-joins-the-ranks-of-arrogant-billionaires-buying-their-own-echo-chambers/)
-- [Most powerful gamma ray burst ever seen could help reveal how black holes are born](https://www.space.com/gamma-ray-burst-brightest-of-all-time/)
+- [Starfield game director wants players to avoid dying in space](https://www.space.com/starfield-game-director-die-in-space/)
+- [Most powerful gamma-ray burst ever seen could help reveal how black holes are born](https://www.space.com/gamma-ray-burst-brightest-of-all-time/)
 - [Marc Lore shares exclusive details on Jump Platforms, his stealth sports ticketing startup](https://techcrunch.com/2022/10/18/marc-lore-shares-exclusive-details-on-jump-platforms-his-new-sports-ticketing-startup/)
 - [Belkin’s $30 Continuity Camera accessory is now available for MagSafe iPhones](https://techcrunch.com/2022/10/18/belkins-30-continuity-camera-accessory-is-now-available-for-magsafe-iphones/)
+- [Drivetrain is the “Google Maps for business growth”](https://techcrunch.com/2022/10/18/drivetrain-is-the-google-maps-for-business-growth/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
