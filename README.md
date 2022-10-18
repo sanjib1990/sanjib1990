@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Best telescopes for kids: Top picks for seeing the moon, stars, planets &amp; more](https://www.space.com/29798-best-telescopes-for-kids.html/)
-- [Enable lands $94M to help B2B companies manage their rebate programs](https://techcrunch.com/2022/10/18/enable-lands-94m-to-help-b2b-companies-manage-their-rebate-programs/)
-- [Streaming data processing platform RisingWave lands $36M to launch a cloud service](https://techcrunch.com/2022/10/18/streaming-data-processing-platform-risingwave-lands-36m-to-launch-a-cloud-service/)
-- [Meta gets final order to sell Giphy from UK antitrust watchdog](https://techcrunch.com/2022/10/18/meta-giphy-acquisition-cma-sale-order/)
-- [On This Day In Space: Oct. 18, 1963: Félicette Becomes the 1st Cat in Space!  &gt;^..^&lt;](https://www.space.com/39251-on-this-day-in-space.html/)
+- [Will Ventures closes second fund with $150M to invest in sports technologies](https://techcrunch.com/2022/10/18/will-ventures-second-fund-sports-technologies/)
+- [Snapcommerce grabs its cape and becomes Super](https://techcrunch.com/2022/10/18/snapcommerce-grabs-its-cape-and-becomes-super/)
+- [Landis grabs $40M to turn renters into homeowners](https://techcrunch.com/2022/10/18/landis-grabs-40m-to-turn-renters-into-homeowners/)
+- [Get over $300 off the Panasonic Lumix G7 mirrorless camera](https://www.space.com/panasonic-lumix-g7-deal-save-302-dollars/)
+- [Adobe makes selecting and deleting objects and people in Photoshop and Lightroom a lot easier](https://techcrunch.com/2022/10/18/adobe-makes-selecting-and-deleting-objects-and-people-in-photoshop-and-lightroom-a-lot-easier/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
