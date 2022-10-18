@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Swap Robotics is paving the way for electric solar vegetation cuts and sidewalk snow plowing](https://techcrunch.com/2022/10/18/swap-robotics-electric-solar-vegetation-cuts-sidewalk-snow-plowing/)
-- [DigestAI’s 19-year-old founder wants to make education addictive](https://techcrunch.com/2022/10/18/digestai-education-kado-education-addictive/)
-- [Deep Render believes AI holds the key to more efficient video compression](https://techcrunch.com/2022/10/18/deep-render-believes-ai-holds-the-key-to-more-efficient-video-compression/)
-- [Mother Honestly’s new commerce offering aims to give employees more freedom when it comes to caregiv](https://techcrunch.com/2022/10/18/mother-honestlys-new-commerce-offering-aims-to-give-employees-more-freedom-when-it-comes-to-caregiving-spend/)
-- [Netflix to expand into cloud gaming, opens new studio in Southern California](https://techcrunch.com/2022/10/18/netflix-to-expand-into-cloud-gaming-opens-new-studio-in-southern-california/)
+- [Meet E-liza Dolls, the startup that’s building dolls to help young girls learn to code](https://techcrunch.com/2022/10/18/eliza-dolls-startup-building-dolls-help-young-girls-learn-to-code/)
+- [Bird exits Germany, Sweden, Norway and ‘several dozen’ US, EMEA markets](https://techcrunch.com/2022/10/18/bird-exits-germany-sweden-norway-and-several-dozen-us-emea-markets/)
+- [Staax thinks peer-to-peer payments can onboard a new generation of stock investors](https://techcrunch.com/2022/10/18/staax-techcrunch-startup-battlefield-payments-fintech-stocks-investing/)
+- [Cityblock Health CEO Toyin Ajayi on how to scale human-centered care models](https://techcrunch.com/2022/10/18/cityblock-health-ceo-toyin-ajayi-on-how-to-scale-human-centered-care-models/)
+- [Hormona wants women to track their ‘hormonal health’ with at-home testing](https://techcrunch.com/2022/10/18/hormona-startup-battlefield-tc-disrupt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
