@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Best tripods: For astrophotography, landscape, and more](https://www.space.com/best-tripods/)
-- [Russian cosmonaut who commanded space station struck pedestrian with car](https://www.space.com/russian-cosmonaut-traffic-accident-pedestrian-reports/)
-- [Starboard Value reportedly taking ‘significant’ stake in Salesforce](https://techcrunch.com/2022/10/18/starboard-value-reportedly-taking-significant-stake-in-salesforce/)
-- [Apple’s new M2 iPad Pro arrives October 26](https://techcrunch.com/2022/10/18/apples-new-m2-ipad-pro-arrives-october-26/)
-- [Orbex raises $63 million to help fund 1st vertical rocket launch from UK](https://www.space.com/orbex-reusable-rocket-raises-63-million-first-uk-vertical-launch/)
+- [Apple will release iPadOS 16 and macOS Ventura on October 24](https://techcrunch.com/2022/10/18/apple-will-release-ipados-16-and-macos-ventura-on-october-24/)
+- [Rolls-Royce Spectre EV to launch next year with 260-mile range](https://techcrunch.com/2022/10/18/rolls-royce-spectre-ev-to-launch-next-year-with-260-mile-range/)
+- [Nigeria’s AltSchool increases course options amidst soaring tech-skill demand](https://techcrunch.com/2022/10/18/nigerias-altschool-increases-course-options-amidst-soaring-tech-skill-demand/)
+- [Foxconn pushes deeper into automotive with an electric pickup and crossover](https://techcrunch.com/2022/10/18/foxconn-pushes-deeper-into-automotive-with-an-electric-pickup-and-crossover/)
+- [SpaceX&#39;s private Polaris Dawn mission now targeting March 2023](https://www.space.com/spacex-polaris-dawn-march-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
