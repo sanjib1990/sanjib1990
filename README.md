@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Orbex raises $63 million to help fund 1st vertical rocket launch from UK](https://www.space.com/orbex-reusable-rocket-raises-63-million-first-uk-vertical-launch/)
 - [How to combine PLG and enterprise sales to improve your funnel](https://techcrunch.com/2022/10/18/how-to-combine-plg-and-enterprise-sales-to-improve-your-funnel/)
 - [Earthquakes: Facts about one of Earth&#39;s deadliest hazards](https://www.space.com/earthquakes-facts-science/)
 - [What is the moon phase today? Lunar phases 2022](https://www.space.com/18880-moon-phases.html/)
 - [Will Ventures closes second fund with $150M to invest in sports technologies](https://techcrunch.com/2022/10/18/will-ventures-second-fund-sports-technologies/)
-- [Snapcommerce grabs its cape and becomes Super](https://techcrunch.com/2022/10/18/snapcommerce-grabs-its-cape-and-becomes-super/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
