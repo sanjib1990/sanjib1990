@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google introduces a revamped Family Link app along with a web version](https://techcrunch.com/2022/10/18/google-introduces-a-revamped-family-link-app-along-with-a-web-version/)
+- [Google TV is getting parent-controlled watchlists and AI-powered suggestions for kids](https://techcrunch.com/2022/10/18/google-tv-is-getting-parent-controlled-watchlists-and-ai-powered-suggestions-for-kids/)
+- [Google antitrust complainants call for EU to shutter its Shopping Ads Units](https://techcrunch.com/2022/10/18/eu-antitrust-complaint-google-shopping-units/)
 - [Mars moon blocks out mighty Jupiter in rare satellite view &lpar;video&rpar;](https://www.space.com/mars-moons-occultations-jupiter-video/)
 - [How to watch the last solar eclipse of 2022 online for free &lpar;Oct. 25&rpar;](https://www.space.com/watch-partial-solar-eclipse-online-oct-25-2022/)
-- [Best mirrorless cameras in 2022](https://www.space.com/best-mirrorless-cameras/)
-- [Terra’s Do Kwon says South Korea’s charges against him not legitimate and politically motivated](https://techcrunch.com/2022/10/18/terra-luna-do-kwon-south-korea-interpol/)
-- [Best Lego deals: Save on Star Wars, Space, Marvel &amp; DC Lego sets](https://www.space.com/38810-best-lego-deals.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
