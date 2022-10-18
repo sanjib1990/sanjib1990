@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple will release iPadOS 16 and macOS Ventura on October 24](https://techcrunch.com/2022/10/18/apple-will-release-ipados-16-and-macos-ventura-on-october-24/)
-- [Rolls-Royce Spectre EV to launch next year with 260-mile range](https://techcrunch.com/2022/10/18/rolls-royce-spectre-ev-to-launch-next-year-with-260-mile-range/)
-- [Nigeria’s AltSchool increases course options amidst soaring tech-skill demand](https://techcrunch.com/2022/10/18/nigerias-altschool-increases-course-options-amidst-soaring-tech-skill-demand/)
-- [Foxconn pushes deeper into automotive with an electric pickup and crossover](https://techcrunch.com/2022/10/18/foxconn-pushes-deeper-into-automotive-with-an-electric-pickup-and-crossover/)
-- [SpaceX&#39;s private Polaris Dawn mission now targeting March 2023](https://www.space.com/spacex-polaris-dawn-march-2023/)
+- [NXgenPort aims to detect early signs of infection in cancer patients before symptoms arise](https://techcrunch.com/2022/10/18/nxgenport-detect-early-signs-infection-cancer-patients-before-symptoms-arise/)
+- [Kanye joins the ranks of arrogant billionaires buying their own echo chambers](https://techcrunch.com/2022/10/18/kanye-joins-the-ranks-of-arrogant-billionaires-buying-their-own-echo-chambers/)
+- [Most powerful gamma ray burst ever seen could help reveal how black holes are born](https://www.space.com/gamma-ray-burst-brightest-of-all-time/)
+- [Marc Lore shares exclusive details on Jump Platforms, his stealth sports ticketing startup](https://techcrunch.com/2022/10/18/marc-lore-shares-exclusive-details-on-jump-platforms-his-new-sports-ticketing-startup/)
+- [Belkin’s $30 Continuity Camera accessory is now available for MagSafe iPhones](https://techcrunch.com/2022/10/18/belkins-30-continuity-camera-accessory-is-now-available-for-magsafe-iphones/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
