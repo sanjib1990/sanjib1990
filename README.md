@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Kenzz, an Egyptian e-commerce platform for the mass market, grabs $3.5M seed funding](https://techcrunch.com/2022/10/18/kenzz-an-egyptian-e-commerce-platform-for-the-mass-market-grabs-3-5m-seed-funding/)
+- [V3 Ventures launches to put €100M into startups in health, beauty and food](https://techcrunch.com/2022/10/18/v3-ventures-launches-to-put-e100m-into-startups-in-health-beauty-and-food/)
 - [Revyze is building the TikTok of educational videos](https://techcrunch.com/2022/10/17/revyze/)
 - [YouTube ends the test asking users to get a premium subscription to watch 4K videos](https://techcrunch.com/2022/10/17/youtube-ends-the-test-asking-users-to-get-a-premium-subscription-to-watch-4k-videos/)
 - [Who is going to buy Cadillac’s $300,000 hand-built EV?](https://techcrunch.com/2022/10/17/who-is-going-to-buy-cadillacs-300000-hand-built-ev/)
-- [The Cadillac Celestiq is GM’s big &lpar;literally&rpar; luxury EV bet](https://techcrunch.com/2022/10/17/cadillac-celestiq-ev-reveal/)
-- [5 things you didn’t know about Cadillac’s $300,000 Celestiq EV](https://techcrunch.com/2022/10/17/5-things-you-didnt-know-about-cadillacs-300000-ev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
