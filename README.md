@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to combine PLG and enterprise sales to improve your funnel](https://techcrunch.com/2022/10/18/how-to-combine-plg-and-enterprise-sales-to-improve-your-funnel/)
+- [Earthquakes: Facts about one of Earth&#39;s deadliest hazards](https://www.space.com/earthquakes-facts-science/)
+- [What is the moon phase today? Lunar phases 2022](https://www.space.com/18880-moon-phases.html/)
 - [Will Ventures closes second fund with $150M to invest in sports technologies](https://techcrunch.com/2022/10/18/will-ventures-second-fund-sports-technologies/)
 - [Snapcommerce grabs its cape and becomes Super](https://techcrunch.com/2022/10/18/snapcommerce-grabs-its-cape-and-becomes-super/)
-- [Landis grabs $40M to turn renters into homeowners](https://techcrunch.com/2022/10/18/landis-grabs-40m-to-turn-renters-into-homeowners/)
-- [Get over $300 off the Panasonic Lumix G7 mirrorless camera](https://www.space.com/panasonic-lumix-g7-deal-save-302-dollars/)
-- [Adobe makes selecting and deleting objects and people in Photoshop and Lightroom a lot easier](https://techcrunch.com/2022/10/18/adobe-makes-selecting-and-deleting-objects-and-people-in-photoshop-and-lightroom-a-lot-easier/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
