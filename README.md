@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [UK launch startup Orbex closes fresh funding in push to first orbital launch next year](https://techcrunch.com/2022/10/18/uk-launch-startup-orbex-closes-fresh-funding-in-push-to-first-orbital-launch-next-year/)
-- [Kenzz, an Egyptian e-commerce platform for the mass market, grabs $3.5M seed funding](https://techcrunch.com/2022/10/18/kenzz-an-egyptian-e-commerce-platform-for-the-mass-market-grabs-3-5m-seed-funding/)
-- [V3 Ventures launches to put €100M into startups in health, beauty and food](https://techcrunch.com/2022/10/18/v3-ventures-launches-to-put-e100m-into-startups-in-health-beauty-and-food/)
-- [Revyze is building the TikTok of educational videos](https://techcrunch.com/2022/10/17/revyze/)
-- [YouTube ends the test asking users to get a premium subscription to watch 4K videos](https://techcrunch.com/2022/10/17/youtube-ends-the-test-asking-users-to-get-a-premium-subscription-to-watch-4k-videos/)
+- [Mars moon blocks out mighty Jupiter in rare satellite view &lpar;video&rpar;](https://www.space.com/mars-moons-occultations-jupiter-video/)
+- [How to watch the last solar eclipse of 2022 online for free &lpar;Oct. 25&rpar;](https://www.space.com/watch-partial-solar-eclipse-online-oct-25-2022/)
+- [Best mirrorless cameras in 2022](https://www.space.com/best-mirrorless-cameras/)
+- [Terra’s Do Kwon says South Korea’s charges against him not legitimate and politically motivated](https://techcrunch.com/2022/10/18/terra-luna-do-kwon-south-korea-interpol/)
+- [Best Lego deals: Save on Star Wars, Space, Marvel &amp; DC Lego sets](https://www.space.com/38810-best-lego-deals.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
