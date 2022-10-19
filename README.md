@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [BetterData taps the blockchain to help create better synthetic data](https://techcrunch.com/2022/10/19/betterdata-taps-the-blockchain-to-help-create-better-synthetic-data/)
+- [Tesla Q3 revenue falls short of expectations, while energy unit shows growth](https://techcrunch.com/2022/10/19/tesla-q3-revenue-falls-short-of-expectations-while-energy-unit-shows-growth/)
+- [Intropic helps single-use plastics decompose from the inside out](https://techcrunch.com/2022/10/19/intropic-plastic-decomposition/)
 - [Rivian hires former Waymo exec for new autonomy, AI role](https://techcrunch.com/2022/10/19/rivian-hires-former-waymo-exec-for-new-autonomy-ai-role/)
 - [Netflix results confirm we’re not in 2021 anymore](https://techcrunch.com/2022/10/19/netflix-results-confirm-were-not-in-2021-anymore/)
-- [Rivian has fixed a ‘significant majority’ of its recalled vehicles](https://techcrunch.com/2022/10/19/rivian-has-fixed-a-significant-majority-of-its-recalled-vehicles/)
-- [What&#39;s going on with Elon Musk, SpaceX&#39;s Starlink and Ukraine? Here&#39;s what we know.](https://www.space.com/spacex-starlink-elon-musk-ukraine-explainer/)
-- [&#39;Andor&#39; episode 6 dials up the tension with a heart-pounding space heist](https://www.space.com/star-wars-andor-episode-6-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
