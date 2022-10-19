@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [MaxAB, an Egyptian B2B e-commerce platform for food and grocery supplies, nabs $40M](https://techcrunch.com/2022/10/19/maxab-an-egyptian-b2b-e-commerce-platform-for-food-and-grocery-supplies-nabs-40m/)
-- [Holidu pockets $98M to keep growing its vacation rentals business in Europe](https://techcrunch.com/2022/10/19/holidu-series-e/)
-- [Eswatini’s central bank mulls issuance of a digital currency](https://techcrunch.com/2022/10/18/eswatinis-central-bank-mulls-issuance-of-a-digital-currency/)
-- [Makersite lands $18M to help companies manage product supply chains](https://techcrunch.com/2022/10/18/makersite-lands-18m-to-help-companies-manage-product-supply-chains/)
-- [Google is finally making Chrome tablet-friendly](https://techcrunch.com/2022/10/18/google-is-finally-making-chrome-tablet-friendly/)
+- [NASA greenlights spacewalks again after March water incident](https://www.space.com/nasa-approves-spacewalks-march-2022-water-incident/)
+- [Virgin Orbit may aid NATO in Europe with &#39;responsive launch infrastructure&#39;](https://www.space.com/virgin-orbit-plan-aid-nato-europe/)
+- [Pinterest partners with record labels to bring popular music to its TikTok rival, ‘Idea Pins’](https://techcrunch.com/2022/10/19/pinterest-partners-with-record-labels-to-bring-popular-music-to-its-tiktok-rival-idea-pins/)
+- [The Orionid meteor shower peaks Oct. 21. Here&#39;s what to expect](https://www.space.com/orionid-meteor-shower-peak-oct-21-202-what-to-expect/)
+- [Camera deals: Discounts on models from Nikon, Sony, Fujifilm and others](https://www.space.com/camera-deals/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
