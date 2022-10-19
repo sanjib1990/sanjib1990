@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA greenlights spacewalks again after March water incident](https://www.space.com/nasa-approves-spacewalks-march-2022-water-incident/)
-- [Virgin Orbit may aid NATO in Europe with &#39;responsive launch infrastructure&#39;](https://www.space.com/virgin-orbit-plan-aid-nato-europe/)
-- [Pinterest partners with record labels to bring popular music to its TikTok rival, ‘Idea Pins’](https://techcrunch.com/2022/10/19/pinterest-partners-with-record-labels-to-bring-popular-music-to-its-tiktok-rival-idea-pins/)
-- [The Orionid meteor shower peaks Oct. 21. Here&#39;s what to expect](https://www.space.com/orionid-meteor-shower-peak-oct-21-202-what-to-expect/)
-- [Camera deals: Discounts on models from Nikon, Sony, Fujifilm and others](https://www.space.com/camera-deals/)
+- [Nourish Ingredients gets $28.6M boost for its animal-free fats](https://techcrunch.com/2022/10/19/nourish-ingredients-28-6m-fats-alternative-proteins/)
+- [How to shoot and edit HDR images with your drone](https://www.space.com/shoot-and-edit-HDR-images-with-drone/)
+- [Nigerian retail automation platform Bumpa raises $4M, led by Base10 Partners](https://techcrunch.com/2022/10/19/nigerian-retail-automation-platform-bumpa-raises-4m-led-by-base10-partners/)
+- [On This Day In Space: Oct. 19, 2016: Europe&#39;s ExoMars mission arrives at the Red Planet](https://www.space.com/39251-on-this-day-in-space.html/)
+- [NASA greenlights US spacewalks again after spacesuit helmet water incident](https://www.space.com/nasa-approves-spacewalks-march-2022-water-incident/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
