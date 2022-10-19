@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Magnificent Pillars of Creation sparkle in new James Webb Space Telescope image](https://www.space.com/james-webb-space-telescope-pillars-creation-photo/)
+- [Satellites spot gargantuan Airbus Beluga jet unloading satellite for SpaceX launch &lpar;photo&rpar;](https://www.space.com/airbus-beluga-seen-from-space-unloading-satellite/)
+- [Kevin Hart’s Hartbeat Ventures takes its first outside investment from J.P. Morgan](https://techcrunch.com/2022/10/19/kevin-harts-hartbeat-ventures-takes-investment-from-jp-morgan/)
+- [Sundial Foods is taking ‘chicken wings’ in a new direction](https://techcrunch.com/2022/10/19/sundial-foods-is-taking-chicken-wings-in-a-new-direction/)
 - [CVCs maintain stake in one-quarter of deals despite overall venture pullback](https://techcrunch.com/2022/10/19/cvcs-maintain-stake-in-one-quarter-of-deals-despite-overall-venture-pullback/)
-- [Join the 2022 Mars Society Convention online this week for the latest Red Planet ideas](https://www.space.com/international-mars-society-convention-2022-webcast/)
-- [Flights to offer drinks, snacks and now Starlink](https://techcrunch.com/2022/10/19/flights-to-offer-drinks-snacks-and-now-starlink/)
-- [There aren&#39;t actually UFOs over Ukraine, experts say](https://www.space.com/ukraine-uap-report-debunked/)
-- [DOE awards $2.8B to battery companies to boost domestic production](https://techcrunch.com/2022/10/19/doe-awards-2-8b-to-battery-companies-to-boost-domestic-production/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
