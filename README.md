@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MaxAB, an Egyptian B2B e-commerce platform for food and grocery supplies, nabs $40M](https://techcrunch.com/2022/10/19/maxab-an-egyptian-b2b-e-commerce-platform-for-food-and-grocery-supplies-nabs-40m/)
+- [Holidu pockets $98M to keep growing its vacation rentals business in Europe](https://techcrunch.com/2022/10/19/holidu-series-e/)
 - [Eswatini’s central bank mulls issuance of a digital currency](https://techcrunch.com/2022/10/18/eswatinis-central-bank-mulls-issuance-of-a-digital-currency/)
 - [Makersite lands $18M to help companies manage product supply chains](https://techcrunch.com/2022/10/18/makersite-lands-18m-to-help-companies-manage-product-supply-chains/)
 - [Google is finally making Chrome tablet-friendly](https://techcrunch.com/2022/10/18/google-is-finally-making-chrome-tablet-friendly/)
-- [Egypt’s Nexta to launch “next-gen banking” app with fresh $5M](https://techcrunch.com/2022/10/18/egypts-nexta-to-launch-next-gen-banking-app-with-fresh-5m/)
-- [Kakao co-CEO resigns, company to invest over $300M to build data center after mass outage](https://techcrunch.com/2022/10/18/kakao-co-ceo-resigns-after-fire-incident-that-caused-mass-outage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
