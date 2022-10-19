@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Kakao co-CEO resigns after fire incident that caused mass outage](https://techcrunch.com/2022/10/18/kakao-co-ceo-resigns-after-fire-incident-that-caused-mass-outage/)
+- [Makersite lands $18M to help companies manage product supply chains](https://techcrunch.com/2022/10/18/makersite-lands-18m-to-help-companies-manage-product-supply-chains/)
+- [Google is finally making Chrome tablet-friendly](https://techcrunch.com/2022/10/18/google-is-finally-making-chrome-tablet-friendly/)
+- [Egypt’s Nexta to launch “next-gen banking” app with fresh $5M](https://techcrunch.com/2022/10/18/egypts-nexta-to-launch-next-gen-banking-app-with-fresh-5m/)
+- [Kakao co-CEO resigns, company to invest over $300M to build data center after mass outage](https://techcrunch.com/2022/10/18/kakao-co-ceo-resigns-after-fire-incident-that-caused-mass-outage/)
 - [Activision Blizzard’s Johanna Faries highlights the company’s emerging ‘anti-tox’ strategy](https://techcrunch.com/2022/10/18/activision-blizzards-johanna-faries-highlights-the-companys-emerging-anti-tox-strategy/)
-- [Daily Crunch: AI content developer Jasper now valued at $1.5B following capital infusion](https://techcrunch.com/2022/10/18/daily-crunch-ai-content-developer-jasper-now-valued-at-1-7b-following-capital-infusion/)
-- [Why members-only club Chief, with a waitlist of 60K, hates the term ‘girl boss’](https://techcrunch.com/2022/10/18/why-members-only-club-chief-with-a-waitlist-of-60k-hates-the-term-girl-boss/)
-- [Watch Google’s ping pong robot pull off a 340-hit rally](https://techcrunch.com/2022/10/18/watch-googles-ping-pong-robot-pull-off-a-340-hit-rally/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
