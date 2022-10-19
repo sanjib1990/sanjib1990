@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Incooling is building servers that use liquid to cool down](https://techcrunch.com/2022/10/19/incooling-is-building-servers-that-use-liquid-to-cool-down/)
-- [Reverion eyes commercial launch to draw more energy out of biogas](https://techcrunch.com/2022/10/19/reverion-biogas-climate-tech/)
-- [Virgin Orbit’s Cosmic Girl arrives in UK ahead of landmark orbital launch](https://www.space.com/virgin-orbit-cosmic-girl-plane-arrives-uk/)
-- [How Serena Williams brings her killer instinct to early-stage investing](https://techcrunch.com/2022/10/19/how-serena-williams-brings-her-killer-instinct-to-early-stage-investing/)
-- [Minerva Lithium uses absorbent material to change the way we extract lithium](https://techcrunch.com/2022/10/19/minerva-lithium-uses-absorbent-material-to-change-the-way-we-extract-lithium/)
+- [What&#39;s going on with Elon Musk, SpaceX&#39;s Starlink and Ukraine? Here&#39;s what we know.](https://www.space.com/spacex-starlink-elon-musk-ukraine-explainer/)
+- [&#39;Andor&#39; episode 6 dials up the tension with a heart-pounding space heist](https://www.space.com/star-wars-andor-episode-6-review/)
+- [Watch Kevin Hart explain his path to investing and the launch of HartBeat Ventures](https://techcrunch.com/2022/10/19/watch-kevin-hart-explain-his-path-to-investing-and-the-launch-of-hartbeat-ventures/)
+- [Soccer legend Lionel Messi plans to get into tech investing via a new Silicon Valley holding company](https://techcrunch.com/2022/10/19/soccer-legend-lionel-messi-plans-to-get-into-tech-investing-via-a-new-silicon-valley-holding-company/)
+- [Starboard Value goes after 3 tech companies with cost-cutting axe](https://techcrunch.com/2022/10/19/starboard-value-goes-after-3-tech-companies-with-cost-cutting-axe/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
