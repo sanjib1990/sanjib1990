@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Magnificent Pillars of Creation sparkle in new James Webb Space Telescope image](https://www.space.com/james-webb-space-telescope-pillars-creation-photo/)
-- [Satellites spot gargantuan Airbus Beluga jet unloading satellite for SpaceX launch &lpar;photo&rpar;](https://www.space.com/airbus-beluga-seen-from-space-unloading-satellite/)
-- [Kevin Hart’s Hartbeat Ventures takes its first outside investment from J.P. Morgan](https://techcrunch.com/2022/10/19/kevin-harts-hartbeat-ventures-takes-investment-from-jp-morgan/)
-- [Sundial Foods is taking ‘chicken wings’ in a new direction](https://techcrunch.com/2022/10/19/sundial-foods-is-taking-chicken-wings-in-a-new-direction/)
-- [CVCs maintain stake in one-quarter of deals despite overall venture pullback](https://techcrunch.com/2022/10/19/cvcs-maintain-stake-in-one-quarter-of-deals-despite-overall-venture-pullback/)
+- [Incooling is building servers that use liquid to cool down](https://techcrunch.com/2022/10/19/incooling-is-building-servers-that-use-liquid-to-cool-down/)
+- [Reverion eyes commercial launch to draw more energy out of biogas](https://techcrunch.com/2022/10/19/reverion-biogas-climate-tech/)
+- [Virgin Orbit’s Cosmic Girl arrives in UK ahead of landmark orbital launch](https://www.space.com/virgin-orbit-cosmic-girl-plane-arrives-uk/)
+- [How Serena Williams brings her killer instinct to early-stage investing](https://techcrunch.com/2022/10/19/how-serena-williams-brings-her-killer-instinct-to-early-stage-investing/)
+- [Minerva Lithium uses absorbent material to change the way we extract lithium](https://techcrunch.com/2022/10/19/minerva-lithium-uses-absorbent-material-to-change-the-way-we-extract-lithium/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
