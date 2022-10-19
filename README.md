@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Swap Robotics is paving the way for electric solar vegetation cuts and sidewalk snow plowing](https://techcrunch.com/2022/10/18/swap-robotics-electric-solar-vegetation-cuts-sidewalk-snow-plowing/)
-- [DigestAI’s 19-year-old founder wants to make education addictive](https://techcrunch.com/2022/10/18/digestai-education-kado-education-addictive/)
-- [Deep Render believes AI holds the key to more efficient video compression](https://techcrunch.com/2022/10/18/deep-render-believes-ai-holds-the-key-to-more-efficient-video-compression/)
-- [Mother Honestly’s new offering aims to give employees more freedom when it comes to caregiving spend](https://techcrunch.com/2022/10/18/mother-honestlys-new-commerce-offering-aims-to-give-employees-more-freedom-when-it-comes-to-caregiving-spend/)
-- [Netflix to expand into cloud gaming, opens new studio in Southern California](https://techcrunch.com/2022/10/18/netflix-to-expand-into-cloud-gaming-opens-new-studio-in-southern-california/)
+- [Kakao co-CEO resigns after fire incident that caused mass outage](https://techcrunch.com/2022/10/18/kakao-co-ceo-resigns-after-fire-incident-that-caused-mass-outage/)
+- [Activision Blizzard’s Johanna Faries highlights the company’s emerging ‘anti-tox’ strategy](https://techcrunch.com/2022/10/18/activision-blizzards-johanna-faries-highlights-the-companys-emerging-anti-tox-strategy/)
+- [Daily Crunch: AI content developer Jasper now valued at $1.5B following capital infusion](https://techcrunch.com/2022/10/18/daily-crunch-ai-content-developer-jasper-now-valued-at-1-7b-following-capital-infusion/)
+- [Why members-only club Chief, with a waitlist of 60K, hates the term ‘girl boss’](https://techcrunch.com/2022/10/18/why-members-only-club-chief-with-a-waitlist-of-60k-hates-the-term-girl-boss/)
+- [Watch Google’s ping pong robot pull off a 340-hit rally](https://techcrunch.com/2022/10/18/watch-googles-ping-pong-robot-pull-off-a-340-hit-rally/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
