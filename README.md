@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Nourish Ingredients gets $28.6M boost for its animal-free fats](https://techcrunch.com/2022/10/19/nourish-ingredients-28-6m-fats-alternative-proteins/)
-- [How to shoot and edit HDR images with your drone](https://www.space.com/shoot-and-edit-HDR-images-with-drone/)
-- [Nigerian retail automation platform Bumpa raises $4M, led by Base10 Partners](https://techcrunch.com/2022/10/19/nigerian-retail-automation-platform-bumpa-raises-4m-led-by-base10-partners/)
-- [On This Day In Space: Oct. 19, 2016: Europe&#39;s ExoMars mission arrives at the Red Planet](https://www.space.com/39251-on-this-day-in-space.html/)
-- [NASA greenlights US spacewalks again after spacesuit helmet water incident](https://www.space.com/nasa-approves-spacewalks-march-2022-water-incident/)
+- [Amazon launches an insurance comparison site in the UK](https://techcrunch.com/2022/10/19/amazon-launches-an-insurance-comparison-site-in-the-uk/)
+- [Mullen Automotive acquires bankrupt ELMS for $240 million](https://techcrunch.com/2022/10/19/mullen-acquires-bankrupt-elms-for-240-million/)
+- [Thunes integrates with Visa Direct’s digital payments network](https://techcrunch.com/2022/10/19/thunes-integrates-with-visa-directs-digital-payments-network/)
+- [Adobe’s AI prototype pastes objects into photos while adding realistic lighting and shadows](https://techcrunch.com/2022/10/19/adobes-prototype-ai-pastes-objects-into-photos-and-adds-realistic-lighting-and-shadows/)
+- [The Great Migration and the next 10-year cycle in cloud](https://techcrunch.com/2022/10/19/the-great-migration-and-the-next-10-year-cycle-in-cloud/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
