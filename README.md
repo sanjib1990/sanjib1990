@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lego space deals: discounts on spaceships, space stations and NASA kits](https://www.space.com/lego-space-deals/)
+- [Klarna launches new creator features and shoppable video](https://techcrunch.com/2022/10/19/klarna-launches-new-creator-features-and-shoppable-video/)
+- [1,500 supernovas offer most precise survey of dark energy and dark matter to date](https://www.space.com/dark-energy-dark-matter-supernova-tally/)
+- [Well, that was Fast](https://techcrunch.com/2022/10/19/well-that-was-fast-disrupt-2022/)
 - [Amazon launches an insurance comparison site in the UK](https://techcrunch.com/2022/10/19/amazon-launches-an-insurance-comparison-site-in-the-uk/)
-- [Mullen Automotive acquires bankrupt ELMS for $240 million](https://techcrunch.com/2022/10/19/mullen-acquires-bankrupt-elms-for-240-million/)
-- [Thunes integrates with Visa Direct’s digital payments network](https://techcrunch.com/2022/10/19/thunes-integrates-with-visa-directs-digital-payments-network/)
-- [Adobe’s AI prototype pastes objects into photos while adding realistic lighting and shadows](https://techcrunch.com/2022/10/19/adobes-prototype-ai-pastes-objects-into-photos-and-adds-realistic-lighting-and-shadows/)
-- [The Great Migration and the next 10-year cycle in cloud](https://techcrunch.com/2022/10/19/the-great-migration-and-the-next-10-year-cycle-in-cloud/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
