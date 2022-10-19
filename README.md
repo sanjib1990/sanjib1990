@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Lego space deals: discounts on spaceships, space stations and NASA kits](https://www.space.com/lego-space-deals/)
-- [Klarna launches new creator features and shoppable video](https://techcrunch.com/2022/10/19/klarna-launches-new-creator-features-and-shoppable-video/)
-- [1,500 supernovas offer most precise survey of dark energy and dark matter to date](https://www.space.com/dark-energy-dark-matter-supernova-tally/)
-- [Well, that was Fast](https://techcrunch.com/2022/10/19/well-that-was-fast-disrupt-2022/)
-- [Amazon launches an insurance comparison site in the UK](https://techcrunch.com/2022/10/19/amazon-launches-an-insurance-comparison-site-in-the-uk/)
+- [Here’s what’s happening on day two of Disrupt](https://techcrunch.com/2022/10/19/heres-whats-happening-on-day-two-of-disrupt/)
+- [Nigerian president Muhammadu Buhari signs the Nigeria Startup Act into law](https://techcrunch.com/2022/10/19/nigerian-president-muhammadu-buhari-signs-the-nigeria-startup-act-into-law/)
+- [Space crystals project aims to put human DNA on the moon in 2023](https://www.space.com/space-crystals-project-human-dna-moon/)
+- [Bendy batteries could power new categories, and Anthro Energy thinks its cracked the code](https://techcrunch.com/2022/10/19/bendy-batteries-could-power-new-categories-and-anthro-energy-thinks-its-cracked-the-code/)
+- [Don’t worry, Uber WILL find a way to advertise to you](https://techcrunch.com/2022/10/19/dont-worry-uber-will-find-a-way-to-advertise-to-you/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
