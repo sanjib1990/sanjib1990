@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Dear Sophie: How can I launch a startup while on OPT?](https://techcrunch.com/2022/10/19/dear-sophie-how-can-i-launch-a-startup-while-on-opt/)
-- [Waymo to launch robotaxi service in Los Angeles](https://techcrunch.com/2022/10/19/waymo-robotaxi-los-angeles/)
-- [BMW to invest $1.7B to build EVs in South Carolina](https://techcrunch.com/2022/10/19/bmw-to-invest-1-7b-to-build-evs-in-south-carolina/)
-- [YouTube Music rolls out iOS 16 lock screen widget ‘Recently Played’](https://techcrunch.com/2022/10/19/youtube-music-rolls-out-ios-16-lock-screen-widget-recently-played/)
-- [Here’s what’s happening on day two of Disrupt](https://techcrunch.com/2022/10/19/heres-whats-happening-on-day-two-of-disrupt/)
+- [CVCs maintain stake in one-quarter of deals despite overall venture pullback](https://techcrunch.com/2022/10/19/cvcs-maintain-stake-in-one-quarter-of-deals-despite-overall-venture-pullback/)
+- [Join the 2022 Mars Society Convention online this week for the latest Red Planet ideas](https://www.space.com/international-mars-society-convention-2022-webcast/)
+- [Flights to offer drinks, snacks and now Starlink](https://techcrunch.com/2022/10/19/flights-to-offer-drinks-snacks-and-now-starlink/)
+- [There aren&#39;t actually UFOs over Ukraine, experts say](https://www.space.com/ukraine-uap-report-debunked/)
+- [DOE awards $2.8B to battery companies to boost domestic production](https://techcrunch.com/2022/10/19/doe-awards-2-8b-to-battery-companies-to-boost-domestic-production/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
