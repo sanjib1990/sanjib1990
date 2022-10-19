@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [BetterData taps the blockchain to help create better synthetic data](https://techcrunch.com/2022/10/19/betterdata-taps-the-blockchain-to-help-create-better-synthetic-data/)
-- [Tesla Q3 revenue falls short of expectations, while energy unit shows growth](https://techcrunch.com/2022/10/19/tesla-q3-revenue-falls-short-of-expectations-while-energy-unit-shows-growth/)
-- [Intropic helps single-use plastics decompose from the inside out](https://techcrunch.com/2022/10/19/intropic-plastic-decomposition/)
-- [Rivian hires former Waymo exec for new autonomy, AI role](https://techcrunch.com/2022/10/19/rivian-hires-former-waymo-exec-for-new-autonomy-ai-role/)
-- [Netflix results confirm we’re not in 2021 anymore](https://techcrunch.com/2022/10/19/netflix-results-confirm-were-not-in-2021-anymore/)
+- [RIF Robotics powers robots that inspect and organize surgical equipment](https://techcrunch.com/2022/10/19/rif-robotics-powers-robots-that-inspect-and-organize-surgical-equipment/)
+- [OnlyFans CEO says adult content will still have a home on the site in 5 years](https://techcrunch.com/2022/10/19/onlyfans-ceo-says-adult-content-will-still-have-a-home-on-the-site-in-5-years/)
+- [Solana’s web3 phone is an ‘opportunity’ against Google and Apple, co-founder says](https://techcrunch.com/2022/10/19/solana-co-founder-sees-its-web3-phone-as-a-developer-play-to-target-crypto-audience/)
+- [Kayhan Space is making orbit safer with timely, automatic collision warnings for satellites](https://techcrunch.com/2022/10/19/kayhan-space-is-making-orbit-safer-with-timely-automatic-collision-warnings-for-satellites/)
+- [Advanced Ionics teases electrolysis innovation ‘to clean up’ the filthy hydrogen business](https://techcrunch.com/2022/10/19/advanced-ionics-teases-electrolysis-innovation-to-clean-up-the-filthy-hydrogen-business/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
