@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dear Sophie: How can I launch a startup while on OPT?](https://techcrunch.com/2022/10/19/dear-sophie-how-can-i-launch-a-startup-while-on-opt/)
+- [Waymo to launch robotaxi service in Los Angeles](https://techcrunch.com/2022/10/19/waymo-robotaxi-los-angeles/)
+- [BMW to invest $1.7B to build EVs in South Carolina](https://techcrunch.com/2022/10/19/bmw-to-invest-1-7b-to-build-evs-in-south-carolina/)
+- [YouTube Music rolls out iOS 16 lock screen widget ‘Recently Played’](https://techcrunch.com/2022/10/19/youtube-music-rolls-out-ios-16-lock-screen-widget-recently-played/)
 - [Here’s what’s happening on day two of Disrupt](https://techcrunch.com/2022/10/19/heres-whats-happening-on-day-two-of-disrupt/)
-- [Nigerian president Muhammadu Buhari signs the Nigeria Startup Act into law](https://techcrunch.com/2022/10/19/nigerian-president-muhammadu-buhari-signs-the-nigeria-startup-act-into-law/)
-- [Space crystals project aims to put human DNA on the moon in 2023](https://www.space.com/space-crystals-project-human-dna-moon/)
-- [Bendy batteries could power new categories, and Anthro Energy thinks its cracked the code](https://techcrunch.com/2022/10/19/bendy-batteries-could-power-new-categories-and-anthro-energy-thinks-its-cracked-the-code/)
-- [Don’t worry, Uber WILL find a way to advertise to you](https://techcrunch.com/2022/10/19/dont-worry-uber-will-find-a-way-to-advertise-to-you/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
