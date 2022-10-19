@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rivian hires former Waymo exec for new autonomy, AI role](https://techcrunch.com/2022/10/19/rivian-hires-former-waymo-exec-for-new-autonomy-ai-role/)
+- [Netflix results confirm we’re not in 2021 anymore](https://techcrunch.com/2022/10/19/netflix-results-confirm-were-not-in-2021-anymore/)
+- [Rivian has fixed a ‘significant majority’ of its recalled vehicles](https://techcrunch.com/2022/10/19/rivian-has-fixed-a-significant-majority-of-its-recalled-vehicles/)
 - [What&#39;s going on with Elon Musk, SpaceX&#39;s Starlink and Ukraine? Here&#39;s what we know.](https://www.space.com/spacex-starlink-elon-musk-ukraine-explainer/)
 - [&#39;Andor&#39; episode 6 dials up the tension with a heart-pounding space heist](https://www.space.com/star-wars-andor-episode-6-review/)
-- [Watch Kevin Hart explain his path to investing and the launch of HartBeat Ventures](https://techcrunch.com/2022/10/19/watch-kevin-hart-explain-his-path-to-investing-and-the-launch-of-hartbeat-ventures/)
-- [Soccer legend Lionel Messi plans to get into tech investing via a new Silicon Valley holding company](https://techcrunch.com/2022/10/19/soccer-legend-lionel-messi-plans-to-get-into-tech-investing-via-a-new-silicon-valley-holding-company/)
-- [Starboard Value goes after 3 tech companies with cost-cutting axe](https://techcrunch.com/2022/10/19/starboard-value-goes-after-3-tech-companies-with-cost-cutting-axe/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
