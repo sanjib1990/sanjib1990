@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [RIF Robotics powers robots that inspect and organize surgical equipment](https://techcrunch.com/2022/10/19/rif-robotics-powers-robots-that-inspect-and-organize-surgical-equipment/)
-- [OnlyFans CEO says adult content will still have a home on the site in 5 years](https://techcrunch.com/2022/10/19/onlyfans-ceo-says-adult-content-will-still-have-a-home-on-the-site-in-5-years/)
-- [Solana’s web3 phone is an ‘opportunity’ against Google and Apple, co-founder says](https://techcrunch.com/2022/10/19/solana-co-founder-sees-its-web3-phone-as-a-developer-play-to-target-crypto-audience/)
-- [Kayhan Space is making orbit safer with timely, automatic collision warnings for satellites](https://techcrunch.com/2022/10/19/kayhan-space-is-making-orbit-safer-with-timely-automatic-collision-warnings-for-satellites/)
-- [Advanced Ionics teases electrolysis innovation ‘to clean up’ the filthy hydrogen business](https://techcrunch.com/2022/10/19/advanced-ionics-teases-electrolysis-innovation-to-clean-up-the-filthy-hydrogen-business/)
+- [Skuad manages hiring and compliance for building distributed teams](https://techcrunch.com/2022/10/19/skuad-manages-hiring-and-compliance-for-building-distributed-teams/)
+- [Date night? Relationship app Sparks wants to help you plan a lovely evening](https://techcrunch.com/2022/10/19/relationship-app-sparks-wants-make-date-nights-easier-plan/)
+- [UK watchdog gives first report into how video sharing sites are tackling online harms](https://techcrunch.com/2022/10/19/tiktok-onlyfans-ofcom-vsp-regulation-first-year-report/)
+- [Daily Crunch: World’s largest Black-led VC fund leads $4M seed round for Nigerian retail automation startup](https://techcrunch.com/2022/10/19/daily-crunch-worlds-largest-black-led-vc-fund-leads-4m-seed-round-for-nigerian-retail-automation-startup/)
+- [Theneo wants to bring Stripe-like API documentation to all developers](https://techcrunch.com/2022/10/19/theneo-wants-to-bring-stripe-like-api-documentation-to-all-developers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
