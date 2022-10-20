@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Farmers are key to Lithos Carbon’s quest to remove gigatons of carbon](https://techcrunch.com/2022/10/20/farmers-are-key-to-lithos-carbons-quest-to-remove-gigatons-of-carbon/)
-- [Meta Quest 2 review: revisiting the artist formerly known as Oculus](https://www.space.com/oculus-quest-2-review/)
-- [Bushnell binoculars deals: The best prices on popular models](https://www.space.com/bushnell-binoculars-deals/)
-- [On This Day In Space: Oct. 20, 1970: Soviet Union launches the last &#39;Zond&#39; Moon mission](https://www.space.com/39251-on-this-day-in-space.html/)
-- [Watch SpaceX launch 54 Starlink satellites and land rocket today](https://www.space.com/spacex-starlink-group-4-36-satellites-launch/)
+- [UK antitrust litigation targets Amazon Buy Box with $1BN+ damages claim](https://techcrunch.com/2022/10/20/amazon-uk-buy-box-claim-lawsuit/)
+- [Instagram is testing an in-app scheduling tool for posts and reels](https://techcrunch.com/2022/10/20/instagram-is-testing-an-in-app-post-scheduling-tool/)
+- [Stunning timelapse video reveals a decade in the life of the universe](https://www.space.com/nasa-neowise-stunning-timelapse-video-decade-universe/)
+- [Ocean-climate VC Propeller launches with $100M to fund ‘tomorrow’s narwhals’](https://techcrunch.com/2022/10/20/propeller-vc-ocean-climate-startups-carbon/)
+- [Google Messages adds reaction support for iPhone texts and in-app reminders](https://techcrunch.com/2022/10/20/google-messages-adds-reaction-support-for-iphone-texts-and-in-app-reminders/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
