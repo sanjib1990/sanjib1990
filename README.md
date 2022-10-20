@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Here are the 5 finalists of Startup Battlefield at Disrupt 2022](https://techcrunch.com/2022/10/19/meet-the-five-finalists-at-the-disrupt-2022-startup-battlefield/)
 - [Skuad manages hiring and compliance for building distributed teams](https://techcrunch.com/2022/10/19/skuad-manages-hiring-and-compliance-for-building-distributed-teams/)
 - [Date night? Relationship app Sparks wants to help you plan a lovely evening](https://techcrunch.com/2022/10/19/relationship-app-sparks-wants-make-date-nights-easier-plan/)
 - [UK watchdog gives first report into how video sharing sites are tackling online harms](https://techcrunch.com/2022/10/19/tiktok-onlyfans-ofcom-vsp-regulation-first-year-report/)
 - [Daily Crunch: World’s largest Black-led VC fund leads $4M seed round for Nigerian retail automation startup](https://techcrunch.com/2022/10/19/daily-crunch-worlds-largest-black-led-vc-fund-leads-4m-seed-round-for-nigerian-retail-automation-startup/)
-- [Theneo wants to bring Stripe-like API documentation to all developers](https://techcrunch.com/2022/10/19/theneo-wants-to-bring-stripe-like-api-documentation-to-all-developers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
