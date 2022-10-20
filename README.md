@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sensat raises $20.5M to build digital twins for infrastructure companies](https://techcrunch.com/2022/10/20/sensat-raises-20-5m-to-build-digital-twins-for-infrastructure-companies/)
+- [James Webb Space Telescope still performing better than expected despite glitch, micrometeoroids](https://www.space.com/james-webb-space-telescope-status-update-october-2022/)
+- [Musixmatch launches a podcast platform for transcription driven by AI and community](https://techcrunch.com/2022/10/20/musixmatch-launches-a-podcast-platform-for-transcription-driven-by-ai-and-community/)
 - [UK antitrust litigation targets Amazon Buy Box with $1BN+ damages claim](https://techcrunch.com/2022/10/20/amazon-uk-buy-box-claim-lawsuit/)
 - [Instagram is testing an in-app scheduling tool for posts and reels](https://techcrunch.com/2022/10/20/instagram-is-testing-an-in-app-post-scheduling-tool/)
-- [Stunning timelapse video reveals a decade in the life of the universe](https://www.space.com/nasa-neowise-stunning-timelapse-video-decade-universe/)
-- [Ocean-climate VC Propeller launches with $100M to fund ‘tomorrow’s narwhals’](https://techcrunch.com/2022/10/20/propeller-vc-ocean-climate-startups-carbon/)
-- [Google Messages adds reaction support for iPhone texts and in-app reminders](https://techcrunch.com/2022/10/20/google-messages-adds-reaction-support-for-iphone-texts-and-in-app-reminders/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
