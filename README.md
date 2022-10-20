@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [This space station astronaut&#39;s &#39;2001&#39; cosplay in orbit began with Velcro and thrift store duds](https://www.space.com/european-female-space-station-commander-2001-cosplay/)
-- [Join the 2022 Mars Society Convention online this week for the latest Red Planet ideas](https://www.space.com/international-mars-society-convention-2022-webcast/)
-- [Netmaker connects servers spread across multiple locations with WireGuard](https://techcrunch.com/2022/10/20/netmaker-connects-servers-spread-across-multiple-locations-with-wireguard/)
-- [&#39;Marshmallow&#39; world defies expectations for planets orbiting red dwarf stars](https://www.space.com/marshmallow-exoplanet-lowest-density-red-dwarf/)
-- [Operator Collective was early to bring on operators as LPs. Now it’s doubling down](https://techcrunch.com/2022/10/20/operator-collective-was-early-to-bring-on-operators-as-lps-now-its-doubling-down/)
+- [One month after entering the spend management space, Rippling goes after global payroll](https://techcrunch.com/2022/10/20/one-month-after-entering-the-spend-management-space-rippling-goes-after-global-payroll/)
+- [France fines Clearview AI maximum possible for GDPR breaches](https://techcrunch.com/2022/10/20/clearview-ai-fined-in-france/)
+- [Hubble Space Telescope sees unexpected twin &#39;tails&#39; from impacted asteroid](https://www.space.com/hubble-space-telescope-dart-asteroid-double-tail/)
+- [Draymond Green isn’t starting a fund, but is working with top VCs](https://techcrunch.com/2022/10/20/draymond-green-isnt-starting-a-fund-but-is-working-with-top-vcs/)
+- [The Warriors’ Draymond Green talks podcasts, social media and the elephant in the room](https://techcrunch.com/2022/10/20/warriors-draymond-green-podcast-social-media-punch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
