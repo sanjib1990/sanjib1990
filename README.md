@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google’s Android Go for entry-level phones is now on 250 million devices](https://techcrunch.com/2022/10/20/googles-android-go-250-million-android-13/)
 - [General Atlantic eyes increasing stake in Amazon-backed insurtech Acko](https://techcrunch.com/2022/10/19/general-atlantic-eyes-increasing-stake-in-amazon-backed-insurtech-acko/)
 - [Watch SpaceX launch 54 Starlink satellites and land rocket on Oct. 20](https://www.space.com/spacex-starlink-group-4-36-satellites-launch/)
 - [Here are the 5 finalists of Startup Battlefield at Disrupt 2022](https://techcrunch.com/2022/10/19/meet-the-five-finalists-at-the-disrupt-2022-startup-battlefield/)
 - [Skuad manages hiring and compliance for building distributed teams](https://techcrunch.com/2022/10/19/skuad-manages-hiring-and-compliance-for-building-distributed-teams/)
-- [Date night? Relationship app Sparks wants to help you plan a lovely evening](https://techcrunch.com/2022/10/19/relationship-app-sparks-wants-make-date-nights-easier-plan/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
