@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Sensat raises $20.5M to build digital twins for infrastructure companies](https://techcrunch.com/2022/10/20/sensat-raises-20-5m-to-build-digital-twins-for-infrastructure-companies/)
+- [James Webb Space Telescope spies galaxies merging around &#39;monster&#39; black hole](https://www.space.com/james-webb-space-telescope-early-galaxy-cluster/)
+- [Lego Star Wars deals 2022: Savings on vehicles, ships, helmets and more](https://www.space.com/lego-star-wars-deals/)
+- [Best rangefinder binoculars in 2022](https://www.space.com/best-rangefinder-binoculars/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html/)
 - [James Webb Space Telescope still performing better than expected despite glitch, micrometeoroids](https://www.space.com/james-webb-space-telescope-status-update-october-2022/)
-- [Musixmatch launches a podcast platform for transcription driven by AI and community](https://techcrunch.com/2022/10/20/musixmatch-launches-a-podcast-platform-for-transcription-driven-by-ai-and-community/)
-- [UK antitrust litigation targets Amazon Buy Box with $1BN+ damages claim](https://techcrunch.com/2022/10/20/amazon-uk-buy-box-claim-lawsuit/)
-- [Instagram is testing an in-app scheduling tool for posts and reels](https://techcrunch.com/2022/10/20/instagram-is-testing-an-in-app-post-scheduling-tool/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
