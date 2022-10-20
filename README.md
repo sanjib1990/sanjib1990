@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Seeds launching to the moon in 2025 will test plant resilience](https://www.space.com/moon-plants-beresheet-lunaria-one/)
+- [Zapier extends its automation service with first-party database and UI tools](https://techcrunch.com/2022/10/20/zapier-extends-its-automation-service-with-first-party-database-and-ui-tools/)
+- [Lyft co-founder says autonomous vehicles won’t replace drivers for at least a decade](https://techcrunch.com/2022/10/20/lyft-co-founder-says-autonomous-vehicles-wont-replace-drivers-for-at-least-a-decade/)
 - [Europe&#39;s long-awaited Ariane 6 rocket won&#39;t launch before late 2023](https://www.space.com/ariane6-debut-flight-late2023/)
 - [Figma CEO Dylan Field on why he sold to Adobe](https://techcrunch.com/2022/10/20/figma-ceo-dylan-field-on-why-he-sold-to-adobe/)
-- [Battlefield bots](https://techcrunch.com/2022/10/20/battlefield-bots/)
-- [One month after entering the spend management space, Rippling goes after global payroll](https://techcrunch.com/2022/10/20/one-month-after-entering-the-spend-management-space-rippling-goes-after-global-payroll/)
-- [France fines Clearview AI maximum possible for GDPR breaches](https://techcrunch.com/2022/10/20/clearview-ai-fined-in-france/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
