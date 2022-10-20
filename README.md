@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Seeds launching to the moon in 2025 will test plant resilience](https://www.space.com/moon-plants-beresheet-lunaria-one/)
-- [Zapier extends its automation service with first-party database and UI tools](https://techcrunch.com/2022/10/20/zapier-extends-its-automation-service-with-first-party-database-and-ui-tools/)
-- [Lyft co-founder says autonomous vehicles won’t replace drivers for at least a decade](https://techcrunch.com/2022/10/20/lyft-co-founder-says-autonomous-vehicles-wont-replace-drivers-for-at-least-a-decade/)
-- [Europe&#39;s long-awaited Ariane 6 rocket won&#39;t launch before late 2023](https://www.space.com/ariane6-debut-flight-late2023/)
-- [Figma CEO Dylan Field on why he sold to Adobe](https://techcrunch.com/2022/10/20/figma-ceo-dylan-field-on-why-he-sold-to-adobe/)
+- [SpaceX replaces Russia on 2 European launches after Ukraine invasion](https://www.space.com/spacex-replaces-russia-european-launches/)
+- [Watch Draymond Green discuss investing, media and mental health](https://techcrunch.com/2022/10/20/watch-draymond-green-discuss-investing-media-and-mental-health/)
+- [As healthcare goes remote, Equipt Health brings medical hardware to the home](https://techcrunch.com/2022/10/20/as-healthcare-goes-remote-equipt-health-brings-medical-hardware-to-the-home/)
+- [Handoff is creating a more equitable workforce through job sharing](https://techcrunch.com/2022/10/20/handoff-is-creating-a-more-equitable-workforce-through-job-sharing/)
+- [Forget flat — small cuts are the new up](https://techcrunch.com/2022/10/20/forget-flat-small-cuts-are-the-new-up/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
