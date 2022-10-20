@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX replaces Russia on 2 European launches after Ukraine invasion](https://www.space.com/spacex-replaces-russia-european-launches/)
-- [Watch Draymond Green discuss investing, media and mental health](https://techcrunch.com/2022/10/20/watch-draymond-green-discuss-investing-media-and-mental-health/)
-- [As healthcare goes remote, Equipt Health brings medical hardware to the home](https://techcrunch.com/2022/10/20/as-healthcare-goes-remote-equipt-health-brings-medical-hardware-to-the-home/)
-- [Handoff is creating a more equitable workforce through job sharing](https://techcrunch.com/2022/10/20/handoff-is-creating-a-more-equitable-workforce-through-job-sharing/)
-- [Forget flat — small cuts are the new up](https://techcrunch.com/2022/10/20/forget-flat-small-cuts-are-the-new-up/)
+- [SpaceX astronaut missions for NASA: Crew-4 landing updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates/)
+- [Snap stock down 25% as the social network struggles](https://techcrunch.com/2022/10/20/snap-q3-earnings/)
+- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates/)
+- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates/)
+- [Ukraine invasion&#39;s impacts on space exploration: Live updates](https://www.space.com/news/live/russia-ukraine-invasion-space-impacts-updates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
