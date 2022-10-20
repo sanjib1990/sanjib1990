@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Data recorder failure on 30-year-old NASA spacecraft could end magnetic field mission](https://www.space.com/nasa-geotail-magnetic-field-spacecraft-recorder-failed/)
+- [Electron booster arrives in Virginia for Rocket Lab&#39;s 1st-ever US launch](https://www.space.com/rocket-lab-electron-arrives-virginia-1st-us-launch/)
+- [Telescope deals: Top picks from Celestron, Sky-Watcher and others](https://www.space.com/telescopes-deals-sale-discount/)
 - [GlobalFair secures new cash to simplify procuring construction materials](https://techcrunch.com/2022/10/20/globalfair-secures-new-cash-to-simplify-procuring-construction-materials/)
 - [N26 adds crypto trading with new Bitpanda integration](https://techcrunch.com/2022/10/20/n26-adds-crypto-trading-with-new-bitpanda-integration/)
-- [Survey finds 67% of European women in tech feel under-paid compared to men, half experience sexism](https://techcrunch.com/2022/10/20/survey-finds-67-of-european-women-in-tech-feel-under-paid-compared-to-men-half-experience-sexism/)
-- [Reliance launches JioBook, its maiden Android-powered laptop](https://techcrunch.com/2022/10/20/reliance-jiobook-laptop-price-specifications-launch/)
-- [Google’s Android Go for entry-level phones is now on 250 million devices](https://techcrunch.com/2022/10/20/googles-android-go-250-million-android-13/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
