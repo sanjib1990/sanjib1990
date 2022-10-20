@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sources: BeReal raised $60M in its Series B earlier this year, now has 20M DAUs](https://techcrunch.com/2022/10/20/sources-bereal-raised-60m-in-its-series-b-earlier-this-year-now-has-20m-daus/)
+- [EV maker Arrival cutting jobs again in pivot away from UK to the US](https://techcrunch.com/2022/10/20/ev-maker-arrival-cutting-jobs-again-in-pivot-away-from-uk-to-the-us/)
+- [Elon Musk reportedly wants to lay off 75% of Twitter’s staff](https://techcrunch.com/2022/10/20/elon-musk-twitter-layoffs-wapo/)
 - [SpaceX astronaut missions for NASA: Crew-4 landing updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates/)
 - [Snap stock down 25% as the social network struggles](https://techcrunch.com/2022/10/20/snap-q3-earnings/)
-- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates/)
-- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates/)
-- [Ukraine invasion&#39;s impacts on space exploration: Live updates](https://www.space.com/news/live/russia-ukraine-invasion-space-impacts-updates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
