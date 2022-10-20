@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Banyan raises $43M to grow its network of item-level purchase data](https://techcrunch.com/2022/10/20/banyan-raises-43m-to-grow-its-network-of-item-level-purchase-data/)
-- [Vortex binoculars deals and discounts](https://www.space.com/vortex-binoculars-deals/)
-- [Best Star Wars fan films: amateur cinema from a galaxy far, far away](https://www.space.com/best-star-wars-fan-films/)
-- [Data recorder failure on 30-year-old NASA spacecraft could end magnetic field mission](https://www.space.com/nasa-geotail-magnetic-field-spacecraft-recorder-failed/)
-- [Electron booster arrives in Virginia for Rocket Lab&#39;s 1st-ever US launch](https://www.space.com/rocket-lab-electron-arrives-virginia-1st-us-launch/)
+- [Farmers are key to Lithos Carbon’s quest to remove gigatons of carbon](https://techcrunch.com/2022/10/20/farmers-are-key-to-lithos-carbons-quest-to-remove-gigatons-of-carbon/)
+- [Meta Quest 2 review: revisiting the artist formerly known as Oculus](https://www.space.com/oculus-quest-2-review/)
+- [Bushnell binoculars deals: The best prices on popular models](https://www.space.com/bushnell-binoculars-deals/)
+- [On This Day In Space: Oct. 20, 1970: Soviet Union launches the last &#39;Zond&#39; Moon mission](https://www.space.com/39251-on-this-day-in-space.html/)
+- [Watch SpaceX launch 54 Starlink satellites and land rocket today](https://www.space.com/spacex-starlink-group-4-36-satellites-launch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
