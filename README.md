@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This space station astronaut&#39;s &#39;2001&#39; cosplay in orbit began with Velcro and thrift store duds](https://www.space.com/european-female-space-station-commander-2001-cosplay/)
+- [Join the 2022 Mars Society Convention online this week for the latest Red Planet ideas](https://www.space.com/international-mars-society-convention-2022-webcast/)
 - [Netmaker connects servers spread across multiple locations with WireGuard](https://techcrunch.com/2022/10/20/netmaker-connects-servers-spread-across-multiple-locations-with-wireguard/)
 - [&#39;Marshmallow&#39; world defies expectations for planets orbiting red dwarf stars](https://www.space.com/marshmallow-exoplanet-lowest-density-red-dwarf/)
 - [Operator Collective was early to bring on operators as LPs. Now it’s doubling down](https://techcrunch.com/2022/10/20/operator-collective-was-early-to-bring-on-operators-as-lps-now-its-doubling-down/)
-- [Generally Intelligent secures cash from OpenAI vets to build capable AI systems](https://techcrunch.com/2022/10/20/generally-intelligent-secures-cash-from-openai-vets-to-build-capable-ai-systems/)
-- [Warner Bros. teams up with Web3 startup Eluvio to launch ‘Lord of the Rings’ NFTs](https://techcrunch.com/2022/10/20/warner-bros-teams-up-with-web3-startup-eluvio-to-launch-lord-of-the-rings-nfts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
