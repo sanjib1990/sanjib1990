@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [James Webb Space Telescope spies galaxies merging around &#39;monster&#39; black hole](https://www.space.com/james-webb-space-telescope-early-galaxy-cluster/)
-- [Lego Star Wars deals 2022: Savings on vehicles, ships, helmets and more](https://www.space.com/lego-star-wars-deals/)
-- [Best rangefinder binoculars in 2022](https://www.space.com/best-rangefinder-binoculars/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html/)
-- [James Webb Space Telescope still performing better than expected despite glitch, micrometeoroids](https://www.space.com/james-webb-space-telescope-status-update-october-2022/)
+- [Netmaker connects servers spread across multiple locations with WireGuard](https://techcrunch.com/2022/10/20/netmaker-connects-servers-spread-across-multiple-locations-with-wireguard/)
+- [&#39;Marshmallow&#39; world defies expectations for planets orbiting red dwarf stars](https://www.space.com/marshmallow-exoplanet-lowest-density-red-dwarf/)
+- [Operator Collective was early to bring on operators as LPs. Now it’s doubling down](https://techcrunch.com/2022/10/20/operator-collective-was-early-to-bring-on-operators-as-lps-now-its-doubling-down/)
+- [Generally Intelligent secures cash from OpenAI vets to build capable AI systems](https://techcrunch.com/2022/10/20/generally-intelligent-secures-cash-from-openai-vets-to-build-capable-ai-systems/)
+- [Warner Bros. teams up with Web3 startup Eluvio to launch ‘Lord of the Rings’ NFTs](https://techcrunch.com/2022/10/20/warner-bros-teams-up-with-web3-startup-eluvio-to-launch-lord-of-the-rings-nfts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
