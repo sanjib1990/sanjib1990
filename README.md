@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Europe&#39;s long-awaited Ariane 6 rocket won&#39;t launch before late 2023](https://www.space.com/ariane6-debut-flight-late2023/)
+- [Figma CEO Dylan Field on why he sold to Adobe](https://techcrunch.com/2022/10/20/figma-ceo-dylan-field-on-why-he-sold-to-adobe/)
+- [Battlefield bots](https://techcrunch.com/2022/10/20/battlefield-bots/)
 - [One month after entering the spend management space, Rippling goes after global payroll](https://techcrunch.com/2022/10/20/one-month-after-entering-the-spend-management-space-rippling-goes-after-global-payroll/)
 - [France fines Clearview AI maximum possible for GDPR breaches](https://techcrunch.com/2022/10/20/clearview-ai-fined-in-france/)
-- [Hubble Space Telescope sees unexpected twin &#39;tails&#39; from impacted asteroid](https://www.space.com/hubble-space-telescope-dart-asteroid-double-tail/)
-- [Draymond Green isn’t starting a fund, but is working with top VCs](https://techcrunch.com/2022/10/20/draymond-green-isnt-starting-a-fund-but-is-working-with-top-vcs/)
-- [The Warriors’ Draymond Green talks podcasts, social media and the elephant in the room](https://techcrunch.com/2022/10/20/warriors-draymond-green-podcast-social-media-punch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
