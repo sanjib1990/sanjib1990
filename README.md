@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GlobalFair secures new cash to simplify procuring construction materials](https://techcrunch.com/2022/10/20/globalfair-secures-new-cash-to-simplify-procuring-construction-materials/)
+- [N26 adds crypto trading with new Bitpanda integration](https://techcrunch.com/2022/10/20/n26-adds-crypto-trading-with-new-bitpanda-integration/)
+- [Survey finds 67% of European women in tech feel under-paid compared to men, half experience sexism](https://techcrunch.com/2022/10/20/survey-finds-67-of-european-women-in-tech-feel-under-paid-compared-to-men-half-experience-sexism/)
+- [Reliance launches JioBook, its maiden Android-powered laptop](https://techcrunch.com/2022/10/20/reliance-jiobook-laptop-price-specifications-launch/)
 - [Google’s Android Go for entry-level phones is now on 250 million devices](https://techcrunch.com/2022/10/20/googles-android-go-250-million-android-13/)
-- [General Atlantic eyes increasing stake in Amazon-backed insurtech Acko](https://techcrunch.com/2022/10/19/general-atlantic-eyes-increasing-stake-in-amazon-backed-insurtech-acko/)
-- [Watch SpaceX launch 54 Starlink satellites and land rocket on Oct. 20](https://www.space.com/spacex-starlink-group-4-36-satellites-launch/)
-- [Here are the 5 finalists of Startup Battlefield at Disrupt 2022](https://techcrunch.com/2022/10/19/meet-the-five-finalists-at-the-disrupt-2022-startup-battlefield/)
-- [Skuad manages hiring and compliance for building distributed teams](https://techcrunch.com/2022/10/19/skuad-manages-hiring-and-compliance-for-building-distributed-teams/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
