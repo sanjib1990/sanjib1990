@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Europe to ask for homegrown lander for troubled ExoMars rover](https://www.space.com/europe-homegrown-lander-exomars-rover/)
+- [Seven scaleups hog over 70% funding to Africa’s Solar PayGo ventures](https://techcrunch.com/2022/10/21/seven-scaleups-hog-over-70-funding-to-africas-solar-paygo-ventures/)
 - [Sight Tech Global 2022 announced](https://techcrunch.com/2022/10/21/sight-tech-global-2022-announced/)
+- [Ukraine invasion&#39;s impacts on space exploration: Live updates](https://www.space.com/news/live/russia-ukraine-invasion-space-impacts-updates/)
 - [Disney launches web3 experience to celebrate 100 years of Disney music](https://techcrunch.com/2022/10/21/disney-launches-web3-experience-to-celebrate-100-years-of-disney-music/)
-- [X-ray view of wreckage from a star-killing cosmic explosion reveals magnetic surprise](https://www.space.com/cassiopeia-a-star-killing-explosion-x-ray-polarization/)
-- [View select TechCrunch Disrupt content online today](https://techcrunch.com/2022/10/21/view-select-techcrunch-disrupt-content-online-today/)
-- [Suma Wealth helps Latinos build credit through gaming, in-culture content](https://techcrunch.com/2022/10/21/suma-wealth-latinos-credit-gaming/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
