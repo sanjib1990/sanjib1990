@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Kerbal Space Program 2 to launch on early access in February 2023](https://www.space.com/kerbal-space-program-2-launch-february-2023/)
+- [China moon mission samples upend theories of lunar volcanism](https://www.space.com/china-chang-e-5-moon-mission-samples-late-volcanism/)
 - [5 cloud investors illustrate the various paths ahead for startups](https://techcrunch.com/2022/10/21/5-cloud-investors-illustrate-the-various-paths-ahead-for-startups/)
 - [NASA UFO study team includes former astronaut, scientists and more](https://www.space.com/nasa-names-ufo-study-group-members/)
 - [3 ways to hire well for your startup](https://techcrunch.com/2022/10/21/3-tips-for-hiring-well-for-your-startup/)
-- [TechCrunch+ roundup: PLG and enterprise sales, SaaS pricing strategy, OPT options](https://techcrunch.com/2022/10/21/techcrunch-roundup-plg-and-enterprise-sales-saas-pricing-strategy-opt-options/)
-- [Save $70 with this Celestron StarSense Explorer 102AZ telescope deal](https://www.space.com/celestron-starsense-explorer-102az-october-amazon-deal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
