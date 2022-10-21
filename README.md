@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Reliance to hive off and list Jio Financial Services](https://techcrunch.com/2022/10/21/reliance-to-hive-off-and-list-jio-financial-services/)
-- [NASA astronauts &#39;moonwalk&#39; in the Arizona desert for our lunar future](https://www.space.com/artemis-astronauts-moonwalking-desert-simulation-2022/)
-- [A brief history of activist investors in tech and the role they play](https://techcrunch.com/2022/10/21/a-brief-history-of-activist-investors-in-tech-and-the-role-they-play/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html/)
-- [Europe to ask for homegrown lander for troubled ExoMars rover](https://www.space.com/europe-homegrown-lander-exomars-rover/)
+- [3 ways to hire well for your startup](https://techcrunch.com/2022/10/21/3-tips-for-hiring-well-for-your-startup/)
+- [TechCrunch+ roundup: PLG and enterprise sales, SaaS pricing strategy, OPT options](https://techcrunch.com/2022/10/21/techcrunch-roundup-plg-and-enterprise-sales-saas-pricing-strategy-opt-options/)
+- [Save $70 with this Celestron StarSense Explorer 102AZ telescope deal](https://www.space.com/celestron-starsense-explorer-102az-october-amazon-deal/)
+- [How the space race started a technological revolution in agriculture &lpar;op-ed&rpar;](https://www.space.com/space-race-technological-revolution-agriculture-op-ed/)
+- [Alchemy, Ava Labs and BlockFi break down funding in a bear market at TC Sessions: Crypto](https://techcrunch.com/2022/10/21/alchemy-ava-labs-and-blockfi-break-down-funding-in-a-bear-market-at-tc-sessions-crypto/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
