@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Delhivery falls to all-time low after muted growth report](https://techcrunch.com/2022/10/21/delhivery-falls-to-all-time-low-after-muted-growth-report/)
+- [YouTube Premium’s family plan gets a price hike in several countries](https://techcrunch.com/2022/10/21/youtube-premiums-family-plan-gets-a-price-hike-in-several-countries/)
 - [Uber pilots electric cab offering in India](https://techcrunch.com/2022/10/20/uber-electric-cabs-india/)
 - [Pillar of the community: How Talkbase plans to power user-led growth for any company](https://techcrunch.com/2022/10/20/pillar-of-the-community-how-talkbase-plans-to-power-user-led-growth-for-any-company/)
 - [GM takes another full-size pickup electric with the 400-mile range GMC Sierra EV](https://techcrunch.com/2022/10/20/gm-takes-another-full-size-pickup-electric-with-the-400-mile-range-gmc-sierra-ev/)
-- [Uils wants to lend LatAm’s rideshare drivers cash based on their driving record](https://techcrunch.com/2022/10/20/uils-wants-to-lend-latams-rideshare-drivers-cash-based-on-their-driving-record/)
-- [Meta’s $10B metaverse investment is ‘not enough’ according to Animoca Brands’ Yat Siu](https://techcrunch.com/2022/10/20/metas-10b-metaverse-investment-is-not-enough-according-to-animoca-brands-yat-siu/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
