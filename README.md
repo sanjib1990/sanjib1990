@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pillar of the community: How Talkbase plans to power user-led growth for any company](https://techcrunch.com/2022/10/20/pillar-of-the-community-how-talkbase-plans-to-power-user-led-growth-for-any-company/)
 - [GM takes another full-size pickup electric with the 400-mile range GMC Sierra EV](https://techcrunch.com/2022/10/20/gm-takes-another-full-size-pickup-electric-with-the-400-mile-range-gmc-sierra-ev/)
 - [Uils wants to lend LatAm’s rideshare drivers cash based on their driving record](https://techcrunch.com/2022/10/20/uils-wants-to-lend-latams-rideshare-drivers-cash-based-on-their-driving-record/)
 - [Meta’s $10B metaverse investment is ‘not enough’ according to Animoca Brands’ Yat Siu](https://techcrunch.com/2022/10/20/metas-10b-metaverse-investment-is-not-enough-according-to-animoca-brands-yat-siu/)
 - [And the winner of Startup Battlefield at Disrupt SF 2022 is…Minerva Lithium](https://techcrunch.com/2022/10/20/and-the-winner-of-startup-battlefield-at-disrupt-sf-2022-is-minerva-lithium/)
-- [Sources: BeReal raised $60M in its Series B earlier this year, now has 20M DAUs](https://techcrunch.com/2022/10/20/sources-bereal-raised-60m-in-its-series-b-earlier-this-year-now-has-20m-daus/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
