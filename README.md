@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon alleges some TV vendors are not partnering over fear of retaliation from Google](https://techcrunch.com/2022/10/21/amazon-alleges-some-tv-vendors-are-not-partnering-over-fear-of-retaliation-from-google/)
+- [Brainstorm Toys Deep Space Home Planetarium star projector review](https://www.space.com/brainstorm-toys-deep-space-home-planetarium-star-projector-review/)
+- [Solar eclipses 2022: When, where &amp; how to see them](https://www.space.com/33784-solar-eclipse-guide.html/)
 - [NASA orders 3 more Orion crew capsules for Artemis moon missions](https://www.space.com/nasa-orders-three-more-orion-capsules-artemis/)
 - [NASA&#39;s Mars rover Curiosity reaches intriguing salty site after treacherous journey](https://www.space.com/mars-curiosity-rover-reaches-salty-site/)
-- [Don&#39;t miss the Orionid meteor shower peak tonight &lpar;Oct. 21&rpar;](https://www.space.com/orionid-meteor-shower-peak-friday-october-21-2022/)
-- [Delhivery falls to all-time low after muted growth report](https://techcrunch.com/2022/10/21/delhivery-falls-to-all-time-low-after-muted-growth-report/)
-- [YouTube Premium’s family plan gets a price hike in several countries](https://techcrunch.com/2022/10/21/youtube-premiums-family-plan-gets-a-price-hike-in-several-countries/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
