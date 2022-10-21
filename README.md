@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sight Tech Global 2022 announced](https://techcrunch.com/2022/10/21/sight-tech-global-2022-announced/)
+- [Disney launches web3 experience to celebrate 100 years of Disney music](https://techcrunch.com/2022/10/21/disney-launches-web3-experience-to-celebrate-100-years-of-disney-music/)
+- [X-ray view of wreckage from a star-killing cosmic explosion reveals magnetic surprise](https://www.space.com/cassiopeia-a-star-killing-explosion-x-ray-polarization/)
+- [View select TechCrunch Disrupt content online today](https://techcrunch.com/2022/10/21/view-select-techcrunch-disrupt-content-online-today/)
 - [Suma Wealth helps Latinos build credit through gaming, in-culture content](https://techcrunch.com/2022/10/21/suma-wealth-latinos-credit-gaming/)
-- [I played a sneak peak of ‘Pokémon Scarlet,’ the franchise’s first open world game](https://techcrunch.com/2022/10/21/pokemon-scarlet-violet-preview/)
-- [Mars rover Perseverance gearing up to cache samples for future return to Earth](https://www.space.com/perseverance-mars-rover-cache-samples-soon/)
-- [Nikon binoculars deals available right now](https://www.space.com/nikon-binoculars-deals/)
-- [Google says India’s antitrust order ‘major setback’ for consumers and businesses, opens ‘serious security risks’](https://techcrunch.com/2022/10/21/google-says-indian-competition-regulators-order-major-setback-for-consumers-and-businesses/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
