@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Reliance to hive off and list Jio Financial Services](https://techcrunch.com/2022/10/21/reliance-to-hive-off-and-list-jio-financial-services/)
+- [NASA astronauts &#39;moonwalk&#39; in the Arizona desert for our lunar future](https://www.space.com/artemis-astronauts-moonwalking-desert-simulation-2022/)
+- [A brief history of activist investors in tech and the role they play](https://techcrunch.com/2022/10/21/a-brief-history-of-activist-investors-in-tech-and-the-role-they-play/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html/)
 - [Europe to ask for homegrown lander for troubled ExoMars rover](https://www.space.com/europe-homegrown-lander-exomars-rover/)
-- [Seven scaleups hog over 70% funding to Africa’s Solar PayGo ventures](https://techcrunch.com/2022/10/21/seven-scaleups-hog-over-70-funding-to-africas-solar-paygo-ventures/)
-- [Sight Tech Global 2022 announced](https://techcrunch.com/2022/10/21/sight-tech-global-2022-announced/)
-- [Ukraine invasion&#39;s impacts on space exploration: Live updates](https://www.space.com/news/live/russia-ukraine-invasion-space-impacts-updates/)
-- [Disney launches web3 experience to celebrate 100 years of Disney music](https://techcrunch.com/2022/10/21/disney-launches-web3-experience-to-celebrate-100-years-of-disney-music/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
