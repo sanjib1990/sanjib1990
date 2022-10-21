@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Suma Wealth helps Latinos build credit through gaming, in-culture content](https://techcrunch.com/2022/10/21/suma-wealth-latinos-credit-gaming/)
+- [I played a sneak peak of ‘Pokémon Scarlet,’ the franchise’s first open world game](https://techcrunch.com/2022/10/21/pokemon-scarlet-violet-preview/)
+- [Mars rover Perseverance gearing up to cache samples for future return to Earth](https://www.space.com/perseverance-mars-rover-cache-samples-soon/)
 - [Nikon binoculars deals available right now](https://www.space.com/nikon-binoculars-deals/)
 - [Google says India’s antitrust order ‘major setback’ for consumers and businesses, opens ‘serious security risks’](https://techcrunch.com/2022/10/21/google-says-indian-competition-regulators-order-major-setback-for-consumers-and-businesses/)
-- [On This Day In Space: Oct. 21, 2008: India launches its 1st moon mission](https://www.space.com/39251-on-this-day-in-space.html/)
-- [Amazon says fear of Google putting off vendors from TV hardware partnership](https://techcrunch.com/2022/10/21/amazon-alleges-some-tv-vendors-are-not-partnering-over-fear-of-retaliation-from-google/)
-- [Brainstorm Toys Deep Space Home Planetarium star projector review](https://www.space.com/brainstorm-toys-deep-space-home-planetarium-star-projector-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
