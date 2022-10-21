@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon alleges some TV vendors are not partnering over fear of retaliation from Google](https://techcrunch.com/2022/10/21/amazon-alleges-some-tv-vendors-are-not-partnering-over-fear-of-retaliation-from-google/)
+- [Nikon binoculars deals available right now](https://www.space.com/nikon-binoculars-deals/)
+- [Google says India’s antitrust order ‘major setback’ for consumers and businesses, opens ‘serious security risks’](https://techcrunch.com/2022/10/21/google-says-indian-competition-regulators-order-major-setback-for-consumers-and-businesses/)
+- [On This Day In Space: Oct. 21, 2008: India launches its 1st moon mission](https://www.space.com/39251-on-this-day-in-space.html/)
+- [Amazon says fear of Google putting off vendors from TV hardware partnership](https://techcrunch.com/2022/10/21/amazon-alleges-some-tv-vendors-are-not-partnering-over-fear-of-retaliation-from-google/)
 - [Brainstorm Toys Deep Space Home Planetarium star projector review](https://www.space.com/brainstorm-toys-deep-space-home-planetarium-star-projector-review/)
-- [Solar eclipses 2022: When, where &amp; how to see them](https://www.space.com/33784-solar-eclipse-guide.html/)
-- [NASA orders 3 more Orion crew capsules for Artemis moon missions](https://www.space.com/nasa-orders-three-more-orion-capsules-artemis/)
-- [NASA&#39;s Mars rover Curiosity reaches intriguing salty site after treacherous journey](https://www.space.com/mars-curiosity-rover-reaches-salty-site/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
