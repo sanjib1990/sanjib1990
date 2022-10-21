@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch SpaceX stack its Starship megarocket using giant &#39;chopsticks&#39; &lpar;video&rpar;](https://www.space.com/spacex-stacks-starship-chopsticks-video/)
+- [How to observe the sun safely &lpar;and what to look for&rpar;](https://www.space.com/sun-observing-safety-guide/)
+- [Black startup founders raised just $187 million in the third quarter](https://techcrunch.com/2022/10/21/black-startup-founders-raised-just-187-million-in-the-third-quarter/)
 - [Kerbal Space Program 2 to launch on early access in February 2023](https://www.space.com/kerbal-space-program-2-launch-february-2023/)
 - [China moon mission samples upend theories of lunar volcanism](https://www.space.com/china-chang-e-5-moon-mission-samples-late-volcanism/)
-- [5 cloud investors illustrate the various paths ahead for startups](https://techcrunch.com/2022/10/21/5-cloud-investors-illustrate-the-various-paths-ahead-for-startups/)
-- [NASA UFO study team includes former astronaut, scientists and more](https://www.space.com/nasa-names-ufo-study-group-members/)
-- [3 ways to hire well for your startup](https://techcrunch.com/2022/10/21/3-tips-for-hiring-well-for-your-startup/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
