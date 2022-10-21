@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [5 cloud investors illustrate the various paths ahead for startups](https://techcrunch.com/2022/10/21/5-cloud-investors-illustrate-the-various-paths-ahead-for-startups/)
+- [NASA UFO study team includes former astronaut, scientists and more](https://www.space.com/nasa-names-ufo-study-group-members/)
 - [3 ways to hire well for your startup](https://techcrunch.com/2022/10/21/3-tips-for-hiring-well-for-your-startup/)
 - [TechCrunch+ roundup: PLG and enterprise sales, SaaS pricing strategy, OPT options](https://techcrunch.com/2022/10/21/techcrunch-roundup-plg-and-enterprise-sales-saas-pricing-strategy-opt-options/)
 - [Save $70 with this Celestron StarSense Explorer 102AZ telescope deal](https://www.space.com/celestron-starsense-explorer-102az-october-amazon-deal/)
-- [How the space race started a technological revolution in agriculture &lpar;op-ed&rpar;](https://www.space.com/space-race-technological-revolution-agriculture-op-ed/)
-- [Alchemy, Ava Labs and BlockFi break down funding in a bear market at TC Sessions: Crypto](https://techcrunch.com/2022/10/21/alchemy-ava-labs-and-blockfi-break-down-funding-in-a-bear-market-at-tc-sessions-crypto/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
