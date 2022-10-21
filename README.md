@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [how hackers hide “stuff” in photos](https://www.youtube.com/watch?v=sLkdtjJc6mc)
 - [Stable Diffusion in Code &lpar;AI Image Generation&rpar; - Computerphile](https://www.youtube.com/watch?v=-lz30by8-sU)
 - [how to never write bug](https://www.youtube.com/watch?v=X3jw1JVNdPE)
 - [Uses of Information Theory - Computerphile](https://www.youtube.com/watch?v=ltGrrT_N4Ks)
 - [Lisp in 100 Seconds](https://www.youtube.com/watch?v=INUHCQST7CU)
-- [Stop calling Fleet a VS Code Killer](https://www.youtube.com/watch?v=h55emgImrLk)
 <!-- YOUTUBE:END -->
 
 ---
