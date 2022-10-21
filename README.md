@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Amazon says OEMs won’t build their smart TVs due to ‘concern that Google would retaliate’](https://techcrunch.com/2022/10/21/daily-crunch-amazon-says-oems-wont-build-their-smart-tvs-due-to-concern-that-google-would-retaliate/)
+- [How Zette plans to let people access paywalled news with a single monthly subscription](https://techcrunch.com/2022/10/21/how-zette-plans-to-let-people-access-paywalled-news-with-a-single-monthly-subscription/)
+- [Podcast app Pocket Casts goes open source](https://techcrunch.com/2022/10/21/podcast-app-pocket-casts-goes-open-source/)
+- [World&#39;s oldest complete star map, lost for millennia, found inside medieval manuscript](https://www.space.com/hipparchus-star-map-found/)
 - [Watch SpaceX stack its Starship megarocket using giant &#39;chopsticks&#39; &lpar;video&rpar;](https://www.space.com/spacex-stacks-starship-chopsticks-video/)
-- [How to observe the sun safely &lpar;and what to look for&rpar;](https://www.space.com/sun-observing-safety-guide/)
-- [Black startup founders raised just $187 million in the third quarter](https://techcrunch.com/2022/10/21/black-startup-founders-raised-just-187-million-in-the-third-quarter/)
-- [Kerbal Space Program 2 to launch on early access in February 2023](https://www.space.com/kerbal-space-program-2-launch-february-2023/)
-- [China moon mission samples upend theories of lunar volcanism](https://www.space.com/china-chang-e-5-moon-mission-samples-late-volcanism/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
