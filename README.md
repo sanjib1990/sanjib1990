@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jasper’s robots assemble fresh meals for nearby apartment dwellers](https://techcrunch.com/2022/10/21/jaspers-robots-assemble-fresh-meals-for-nearby-apartment-dwellers/)
 - [Aidar Health aims to provide physicians with consistent patient vitals](https://techcrunch.com/2022/10/21/aidar-health-aims-to-provide-physicians-with-consistent-patient-vitals/)
 - [Taylor Swift’s ‘Midnights’ is the priciest digital album Tencent has sold](https://techcrunch.com/2022/10/21/taylor-swifts-midnights-is-the-priciest-digital-album-tencent-has-sold/)
 - [Daily Crunch: Amazon says OEMs won’t build their smart TVs due to ‘concern that Google would retaliate’](https://techcrunch.com/2022/10/21/daily-crunch-amazon-says-oems-wont-build-their-smart-tvs-due-to-concern-that-google-would-retaliate/)
 - [How Zette plans to let people access paywalled news with a single monthly subscription](https://techcrunch.com/2022/10/21/how-zette-plans-to-let-people-access-paywalled-news-with-a-single-monthly-subscription/)
-- [Podcast app Pocket Casts goes open source](https://techcrunch.com/2022/10/21/podcast-app-pocket-casts-goes-open-source/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
