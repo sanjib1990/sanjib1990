@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hole in the ozone layer has grown for a 3rd year in a row — but scientists aren&#39;t concerned](https://www.space.com/earths-ozone-hole-biggest-since-2015-scientists-arent-concerned/)
-- [Watch Indian rocket launch 36 OneWeb internet satellites Saturday](https://www.space.com/indian-rocket-oneweb-launch-october-2022-webcast/)
-- [Russian Soyuz rocket launches 2 classified military satellites](https://www.space.com/russia-soyuz-rocket-classified-military-satellites-october-2022/)
-- [Jasper’s robots assemble fresh meals for nearby apartment dwellers](https://techcrunch.com/2022/10/21/jaspers-robots-assemble-fresh-meals-for-nearby-apartment-dwellers/)
-- [Aidar Health aims to provide physicians with consistent patient vitals](https://techcrunch.com/2022/10/21/aidar-health-aims-to-provide-physicians-with-consistent-patient-vitals/)
+- [On This Day In Space: Oct. 22, 1992: Gene Roddenberry&#39;s ashes launch into space](https://www.space.com/39251-on-this-day-in-space.html/)
+- [This Week In Space podcast: Episode 34 —Finding Mars on Earth with Pascal Lee](https://www.space.com/this-week-in-space-podcast-twit/)
+- [Watch Indian rocket launch 36 OneWeb internet satellites today](https://www.space.com/indian-rocket-oneweb-launch-october-2022-webcast/)
+- [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html/)
+- [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
