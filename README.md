@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hole in the ozone layer has grown for a 3rd year in a row — but scientists aren&#39;t concerned](https://www.space.com/earths-ozone-hole-biggest-since-2015-scientists-arent-concerned/)
+- [Watch Indian rocket launch 36 OneWeb internet satellites Saturday](https://www.space.com/indian-rocket-oneweb-launch-october-2022-webcast/)
+- [Russian Soyuz rocket launches 2 classified military satellites](https://www.space.com/russia-soyuz-rocket-classified-military-satellites-october-2022/)
 - [Jasper’s robots assemble fresh meals for nearby apartment dwellers](https://techcrunch.com/2022/10/21/jaspers-robots-assemble-fresh-meals-for-nearby-apartment-dwellers/)
 - [Aidar Health aims to provide physicians with consistent patient vitals](https://techcrunch.com/2022/10/21/aidar-health-aims-to-provide-physicians-with-consistent-patient-vitals/)
-- [Taylor Swift’s ‘Midnights’ is the priciest digital album Tencent has sold](https://techcrunch.com/2022/10/21/taylor-swifts-midnights-is-the-priciest-digital-album-tencent-has-sold/)
-- [Daily Crunch: Amazon says OEMs won’t build their smart TVs due to ‘concern that Google would retaliate’](https://techcrunch.com/2022/10/21/daily-crunch-amazon-says-oems-wont-build-their-smart-tvs-due-to-concern-that-google-would-retaliate/)
-- [How Zette plans to let people access paywalled news with a single monthly subscription](https://techcrunch.com/2022/10/21/how-zette-plans-to-let-people-access-paywalled-news-with-a-single-monthly-subscription/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
