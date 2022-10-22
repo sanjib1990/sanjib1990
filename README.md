@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Could machine learning refresh the cloud debate?](https://techcrunch.com/2022/10/22/could-machine-learning-refresh-the-cloud-debate/)
+- [Save over 30% with this Celestron Nature DX 10x42 binoculars deal](https://www.space.com/save-30-percent-celestron-nature-dx-10x42-binocular-deal/)
 - [Poppin’ bottles: VCs continue to pour millions into independent beverage startups](https://techcrunch.com/2022/10/22/poppin-bottles-vcs-continue-to-pour-millions-into-independent-beverage-startups/)
 - [Maro’s new app looks to help schools screen kids for depression and anxiety](https://techcrunch.com/2022/10/22/maro-help-parents-schools-educate-kids-about-mental-health/)
 - [Solar eclipse of October 2022: When, where and how to see it on Oct. 25](https://www.space.com/solar-eclipse-october-2022-guide/)
-- [On This Day In Space: Oct. 22, 1992: Gene Roddenberry&#39;s ashes launch into space](https://www.space.com/39251-on-this-day-in-space.html/)
-- [This Week In Space podcast: Episode 34 —Finding Mars on Earth with Pascal Lee](https://www.space.com/this-week-in-space-podcast-twit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
