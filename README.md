@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Solar eclipse of October 2022: When, where and how to see it on Oct. 25](https://www.space.com/solar-eclipse-october-2022-guide/)
 - [On This Day In Space: Oct. 22, 1992: Gene Roddenberry&#39;s ashes launch into space](https://www.space.com/39251-on-this-day-in-space.html/)
 - [This Week In Space podcast: Episode 34 —Finding Mars on Earth with Pascal Lee](https://www.space.com/this-week-in-space-podcast-twit/)
-- [Watch Indian rocket launch 36 OneWeb internet satellites today](https://www.space.com/indian-rocket-oneweb-launch-october-2022-webcast/)
+- [Watch an Indian rocket launch 36 OneWeb internet satellites today](https://www.space.com/indian-rocket-oneweb-launch-october-2022-webcast/)
 - [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html/)
-- [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
