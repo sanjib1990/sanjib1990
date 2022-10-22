@@ -82,7 +82,7 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [how hackers hide “stuff” in photos](https://www.youtube.com/watch?v=sLkdtjJc6mc)
+- [i hacked this photo](https://www.youtube.com/watch?v=sLkdtjJc6mc)
 - [Stable Diffusion in Code &lpar;AI Image Generation&rpar; - Computerphile](https://www.youtube.com/watch?v=-lz30by8-sU)
 - [how to never write bug](https://www.youtube.com/watch?v=X3jw1JVNdPE)
 - [Uses of Information Theory - Computerphile](https://www.youtube.com/watch?v=ltGrrT_N4Ks)
