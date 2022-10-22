@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Poppin’ bottles: VCs continue to pour millions into independent beverage startups](https://techcrunch.com/2022/10/22/poppin-bottles-vcs-continue-to-pour-millions-into-independent-beverage-startups/)
+- [Maro’s new app looks to help schools screen kids for depression and anxiety](https://techcrunch.com/2022/10/22/maro-help-parents-schools-educate-kids-about-mental-health/)
 - [Solar eclipse of October 2022: When, where and how to see it on Oct. 25](https://www.space.com/solar-eclipse-october-2022-guide/)
 - [On This Day In Space: Oct. 22, 1992: Gene Roddenberry&#39;s ashes launch into space](https://www.space.com/39251-on-this-day-in-space.html/)
 - [This Week In Space podcast: Episode 34 —Finding Mars on Earth with Pascal Lee](https://www.space.com/this-week-in-space-podcast-twit/)
-- [Watch an Indian rocket launch 36 OneWeb internet satellites today](https://www.space.com/indian-rocket-oneweb-launch-october-2022-webcast/)
-- [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
