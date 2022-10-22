@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Week in Apps: Kanye to buy Parler, TikTok’s adult-only streams, BeReal’s B round](https://techcrunch.com/2022/10/22/this-week-in-apps-kanye-to-buy-parler-tiktoks-adult-only-streams-bereals-b-round/)
+- [Pantheon Design alleviates supply chain uncertainty with factory-grade 3D printing](https://techcrunch.com/2022/10/22/pantheondesign-manufacturers-china-supply-chain-uncertainties-3d-printing/)
+- [Overheard at TechCrunch Disrupt 2022](https://techcrunch.com/2022/10/22/overheard-at-techcrunch-disrupt-2022/)
 - [Could machine learning refresh the cloud debate?](https://techcrunch.com/2022/10/22/could-machine-learning-refresh-the-cloud-debate/)
 - [Save over 30% with this Celestron Nature DX 10x42 binoculars deal](https://www.space.com/save-30-percent-celestron-nature-dx-10x42-binocular-deal/)
-- [Poppin’ bottles: VCs continue to pour millions into independent beverage startups](https://techcrunch.com/2022/10/22/poppin-bottles-vcs-continue-to-pour-millions-into-independent-beverage-startups/)
-- [Maro’s new app looks to help schools screen kids for depression and anxiety](https://techcrunch.com/2022/10/22/maro-help-parents-schools-educate-kids-about-mental-health/)
-- [Solar eclipse of October 2022: When, where and how to see it on Oct. 25](https://www.space.com/solar-eclipse-october-2022-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
