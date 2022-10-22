@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Kanye agrees to buy Parler, Elon Musk reportedly plans mass layoffs at Twitter, and Netflix gets into cloud gaming](https://techcrunch.com/2022/10/22/kanye-agrees-to-buy-parler-elon-musk-reportedly-plans-mass-layoffs-at-twitter-and-netflix-gets-into-cloud-gaming/)
 - [This Week in Apps: Kanye to buy Parler, TikTok’s adult-only streams, BeReal’s B round](https://techcrunch.com/2022/10/22/this-week-in-apps-kanye-to-buy-parler-tiktoks-adult-only-streams-bereals-b-round/)
 - [Pantheon Design alleviates supply chain uncertainty with factory-grade 3D printing](https://techcrunch.com/2022/10/22/pantheondesign-manufacturers-china-supply-chain-uncertainties-3d-printing/)
 - [Overheard at TechCrunch Disrupt 2022](https://techcrunch.com/2022/10/22/overheard-at-techcrunch-disrupt-2022/)
 - [Could machine learning refresh the cloud debate?](https://techcrunch.com/2022/10/22/could-machine-learning-refresh-the-cloud-debate/)
-- [Save over 30% with this Celestron Nature DX 10x42 binoculars deal](https://www.space.com/save-30-percent-celestron-nature-dx-10x42-binocular-deal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
