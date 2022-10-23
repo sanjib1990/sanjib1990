@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What time is the last solar eclipse of 2022 on Oct. 25?](https://www.space.com/solar-eclipse-october-2022-what-time/)
 - [Post-Disrupt notes](https://techcrunch.com/2022/10/23/post-disrupt-notes/)
 - [Auroras blasted a 250-mile-wide hole in Earth&#39;s ozone layer](https://www.space.com/auroras-blast-hole-ozone-layer/)
 - [How to watch the last solar eclipse of 2022 this week for free &lpar;Oct. 25&rpar;](https://www.space.com/watch-partial-solar-eclipse-online-oct-25-2022/)
 - [Massive Antarctic iceberg ripped in two by powerful ocean currents](https://www.space.com/iceberg-fracture-currents-southern-ocean/)
-- [On This Day In Space: Oct. 23, 2007: Space station&#39;s Harmony module launches on STS-120](https://www.space.com/39251-on-this-day-in-space.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
