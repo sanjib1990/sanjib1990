@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [#MeToo in space: We must address the potential for sexual harassment and assault away from Earth](https://www.space.com/me-too-in-space-sexual-harassment-and-assault-in-space/)
 - [Forged Galileo manuscript leads experts to controversial book he secretly wrote](https://www.space.com/anonymous-book-by-galileo-discovered/)
 - [&#39;Spooky action at a distance&#39; can lead to a multiverse. Here&#39;s how.](https://www.space.com/spooky-action-at-a-distance-create-multiverse/)
 - [India’s Wire retracts reports on Meta citing discrepancies](https://techcrunch.com/2022/10/22/the-wire-meta-reports/)
 - [India&#39;s most powerful rocket launches 36 OneWeb internet satellites into orbit](https://www.space.com/indian-rocket-launches-oneweb-satellites-october-2022/)
-- [Kanye agrees to buy Parler, Elon Musk reportedly plans mass layoffs at Twitter, and Netflix gets into cloud gaming](https://techcrunch.com/2022/10/22/kanye-agrees-to-buy-parler-elon-musk-reportedly-plans-mass-layoffs-at-twitter-and-netflix-gets-into-cloud-gaming/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
