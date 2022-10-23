@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Africa’s tech talent accelerators attract students, VC funding as Big Tech comes calling](https://techcrunch.com/2022/10/23/africas-tech-talent-accelerators-attract-students-vc-funding-as-big-tech-comes-calling/)
 - [Why Q3’s median valuations actually make perfect sense](https://techcrunch.com/2022/10/23/why-q3s-median-valuations-actually-make-perfect-sense/)
 - [These Celestron astronomy binoculars are up to $72 off.](https://www.space.com/celestron-skymaster-20x80-amazon-october-deal/)
 - [What time is the last solar eclipse of 2022 on Oct. 25?](https://www.space.com/solar-eclipse-october-2022-what-time/)
 - [Post-Disrupt notes](https://techcrunch.com/2022/10/23/post-disrupt-notes/)
-- [Auroras blasted a 250-mile-wide hole in Earth&#39;s ozone layer](https://www.space.com/auroras-blast-hole-ozone-layer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
