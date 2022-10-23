@@ -98,7 +98,7 @@
 - [Why Q3’s median valuations actually make perfect sense](https://techcrunch.com/2022/10/23/why-q3s-median-valuations-actually-make-perfect-sense/)
 - [These Celestron astronomy binoculars are up to $72 off.](https://www.space.com/celestron-skymaster-20x80-amazon-october-deal/)
 - [What time is the last solar eclipse of 2022 on Oct. 25?](https://www.space.com/solar-eclipse-october-2022-what-time/)
-- [Post-Disrupt notes](https://techcrunch.com/2022/10/23/post-disrupt-notes/)
+- [Brex lands Coinbase as new software customer](https://techcrunch.com/2022/10/23/post-disrupt-notes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
