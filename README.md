@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hubble Space Telescope shows Webb a thing or two with spectacular new photo](https://www.space.com/hubble-space-telescope-new-photo-globular-cluster-terzan-1/)
 - [#MeToo in space: We must address the potential for sexual harassment and assault away from Earth](https://www.space.com/me-too-in-space-sexual-harassment-and-assault-in-space/)
 - [Forged Galileo manuscript leads experts to controversial book he secretly wrote](https://www.space.com/anonymous-book-by-galileo-discovered/)
 - [&#39;Spooky action at a distance&#39; can lead to a multiverse. Here&#39;s how.](https://www.space.com/spooky-action-at-a-distance-create-multiverse/)
 - [India’s Wire retracts reports on Meta citing discrepancies](https://techcrunch.com/2022/10/22/the-wire-meta-reports/)
-- [India&#39;s most powerful rocket launches 36 OneWeb internet satellites into orbit](https://www.space.com/indian-rocket-launches-oneweb-satellites-october-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
