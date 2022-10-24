@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch wants to hear Black founders’ stories of VC fundraising](https://techcrunch.com/2022/10/24/techcrunch-wants-to-hear-black-founders-stories-of-vc-fundraising/)
 - [US charges two alleged Chinese spies over plot to obstruct Huawei prosecution](https://techcrunch.com/2022/10/24/us-charges-two-alleged-chinese-spies-over-plot-to-obstruct-huawei-prosecution/)
 - [Marvel drops first trailer for ‘Ant-Man and the Wasp: Quantumania’](https://techcrunch.com/2022/10/24/marvel-drops-first-trailer-for-ant-man-and-the-wasp-quantumania/)
 - [SpaceX gearing up for 1st Falcon Heavy launch since 2019 &lpar;photo&rpar;](https://www.space.com/spacex-falcon-heavy-engines-photo-october-2022/)
 - [The seas are getting even rougher for Chinese startups](https://techcrunch.com/2022/10/24/the-seas-are-getting-even-rougher-for-chinese-startups/)
-- [Apple iOS 16.1, iPad OS 16.1 and macOS Ventura are now available](https://techcrunch.com/2022/10/24/apple-ios-16-1-ipad-os-16-1-and-macos-13-are-now-available/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
