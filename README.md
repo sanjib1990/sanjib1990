@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [WeTravel books $27M to build fintech and more for bespoke group travel](https://techcrunch.com/2022/10/24/wetravel-books-27m-to-build-fintech-and-more-for-bespoke-group-travel/)
-- [YouTube rolls out new design with pinch-to-zoom on iOS and Android and other updates](https://techcrunch.com/2022/10/24/youtube-rolls-out-new-design-with-pinch-to-zoom-on-ios-and-android-and-other-updates/)
-- [Best telescopes for deep space in 2022](https://www.space.com/best-telescopes-for-deep-space/)
-- [Scorching &#39;super-Earth&#39; hot enough to melt gold may have lost its atmosphere](https://www.space.com/super-earth-planet-no-atmosphere-too-hot/)
-- [What color is the sun?](https://www.space.com/what-color-is-the-sun/)
+- [Arrival restructures &lpar;again&rpar;, Bird shrinks and highlights from Disrupt](https://techcrunch.com/2022/10/24/arrival-restructures-again-bird-shrinks-and-highlights-from-disrupt/)
+- [What does Instacart’s supposedly delayed IPO teach us about how unicorns think?](https://techcrunch.com/2022/10/24/darn-it-instacart-you-were-supposed-to-be-the-chosen-one/)
+- [PayPal rolls out support for passkeys on Apple devices](https://techcrunch.com/2022/10/24/paypal-rolls-out-support-for-passkeys-on-apple-devices/)
+- [Microsoft’s Windows Dev Kit 2023 lets developers tap AI processors on laptops](https://techcrunch.com/2022/10/24/microsofts-windows-dev-kit-2023-lets-developers-tap-ai-processors-on-laptops/)
+- [Budget telescopes under $500: Picks from Celestron, Meade and Orion](https://www.space.com/telescopes-under-500/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
