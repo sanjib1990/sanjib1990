@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fermyon raises $20M to build tools for cloud app dev](https://techcrunch.com/2022/10/24/fermyon-cloud-app-webassembly-20m-funding-series-a/)
+- [Building the bridge between Web 2.0 and web3](https://techcrunch.com/2022/10/24/building-the-bridge-between-web-2-and-web3/)
 - [The Logitech G Cloud and Shadow are a match made in cloud gaming heaven](https://techcrunch.com/2022/10/24/the-logitech-g-cloud-and-shadow-are-a-match-made-in-cloud-gaming-heaven/)
 - [Best compact binoculars: Lightweight, travel-friendly models](https://www.space.com/best-compact-binoculars/)
 - [The last solar eclipse of 2022 is on Oct. 25. Here&#39;s what to expect.](https://www.space.com/partial-solar-eclipse-tomorrow-europe-africa-asia/)
-- [On This Day In Space: Oct. 24, 1946: V-2 Rocket Takes 1st Photos of Earth from Space](https://www.space.com/39251-on-this-day-in-space.html/)
-- [Australia to toughen privacy laws with huge hike in penalties for breaches](https://techcrunch.com/2022/10/24/australia-privacy-law-update/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
