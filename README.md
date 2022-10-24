@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Fermyon raises $20M to build tools for cloud app dev](https://techcrunch.com/2022/10/24/fermyon-cloud-app-webassembly-20m-funding-series-a/)
-- [Building the bridge between Web 2.0 and web3](https://techcrunch.com/2022/10/24/building-the-bridge-between-web-2-and-web3/)
-- [The Logitech G Cloud and Shadow are a match made in cloud gaming heaven](https://techcrunch.com/2022/10/24/the-logitech-g-cloud-and-shadow-are-a-match-made-in-cloud-gaming-heaven/)
-- [Best compact binoculars: Lightweight, travel-friendly models](https://www.space.com/best-compact-binoculars/)
-- [The last solar eclipse of 2022 is on Oct. 25. Here&#39;s what to expect.](https://www.space.com/partial-solar-eclipse-tomorrow-europe-africa-asia/)
+- [Seeing startups tackle the health of our planet is giving me life](https://techcrunch.com/2022/10/24/seeing-startups-tackle-the-health-of-our-planet-is-giving-me-life/)
+- [Level’s new Level Lock+ with Apple Home Key is smart lock perfection](https://techcrunch.com/2022/10/24/level-lock-plus-with-apple-home-key-review/)
+- [How the gamma-ray burst of the century surprised spacecraft operators](https://www.space.com/gamma-ray-burst-surprises-satellite-operators/)
+- [NASA Webb Image Coming This Week](https://blogs.nasa.gov/webb/2022/10/24/nasa-webb-image-coming-this-week-3/)
+- [Trio of yellow, blue and green lakes in Ethiopia stuns in striking satellite image](https://www.space.com/multicolored-lakes-ethiopia-satellite-images/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
