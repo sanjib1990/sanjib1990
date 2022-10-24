@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Daily Crunch: Mobile gaming review — Playing on the Logitech G Cloud with Shadow](https://techcrunch.com/2022/10/24/daily-crunch-mobile-gaming-review-playing-on-the-logitech-g-cloud-with-shadow/)
-- [Max Q: The ghost in the machine](https://techcrunch.com/2022/10/24/max-q-the-ghost-in-the-machine/)
-- [Telehealth unicorn Cerebral lays off 20% of staff for ‘operational efficiencies’](https://techcrunch.com/2022/10/24/telehealth-unicorn-cerebral-lays-off-20-of-staff-for-operational-efficiencies/)
-- [Why startups are better off prioritizing growth instead of optimizing cloud costs](https://techcrunch.com/2022/10/24/why-startups-are-better-off-prioritizing-growth-instead-of-optimizing-cloud-costs/)
+- [Rooms with a view: Astronauts have design ideas for new space stations](https://www.space.com/astronaut-design-ideas-new-space-stations/)
+- [Celebrity chefs to provide &#39;Taste of Space&#39; at NASA visitor complex](https://www.space.com/taste-of-space-celebrity-chefs-nasa-kennedy/)
 - [Russia launches 4 satellites to orbit in 5th mission of last 2 weeks](https://www.space.com/russia-soyuz-launch-four-satellites-october-2022/)
+- [October new moon 2022: Partial solar eclipse](https://www.space.com/17561-new-moon-explained-lunar-phases.html/)
+- [A closer look at macOS Ventura](https://techcrunch.com/2022/10/24/a-closer-look-at-macos-ventura/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
