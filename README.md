@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [This Celestron beginner telescope is 23% off on Amazon](https://www.space.com/celestron-powerseeker-80eq-telescope-october-2022-deal/)
-- [Astronaut&#39;s gold Omega moonwatch sells for record $1.9M at auction](https://www.space.com/astronaut-wally-schirra-gold-omega-speedmaster-watch-record-sale/)
-- [How the gamma-ray burst of the century surprised spacecraft operators](https://www.space.com/gamma-ray-burst-surprises-satellite-operators/)
-- [NASA Webb Image Coming This Week](https://blogs.nasa.gov/webb/2022/10/24/nasa-webb-image-coming-this-week-3/)
-- [Trio of yellow, blue and green lakes in Ethiopia stuns in striking satellite image](https://www.space.com/multicolored-lakes-ethiopia-satellite-images/)
+- [WeTravel books $27M to build fintech and more for bespoke group travel](https://techcrunch.com/2022/10/24/wetravel-books-27m-to-build-fintech-and-more-for-bespoke-group-travel/)
+- [YouTube rolls out new design with pinch-to-zoom on iOS and Android and other updates](https://techcrunch.com/2022/10/24/youtube-rolls-out-new-design-with-pinch-to-zoom-on-ios-and-android-and-other-updates/)
+- [Best telescopes for deep space in 2022](https://www.space.com/best-telescopes-for-deep-space/)
+- [Scorching &#39;super-Earth&#39; hot enough to melt gold may have lost its atmosphere](https://www.space.com/super-earth-planet-no-atmosphere-too-hot/)
+- [What color is the sun?](https://www.space.com/what-color-is-the-sun/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
