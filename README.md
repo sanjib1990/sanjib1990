@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A closer look at macOS Ventura](https://techcrunch.com/2022/10/24/a-closer-look-at-macos-ventura/)
+- [Bumble open sourced its AI that detects unsolicited nudes](https://techcrunch.com/2022/10/24/bumble-open-sourced-its-ai-that-detects-unsolicited-nudes/)
 - [TechCrunch wants to hear Black founders’ stories of VC fundraising](https://techcrunch.com/2022/10/24/techcrunch-wants-to-hear-black-founders-stories-of-vc-fundraising/)
 - [US charges two alleged Chinese spies over plot to obstruct Huawei prosecution](https://techcrunch.com/2022/10/24/us-charges-two-alleged-chinese-spies-over-plot-to-obstruct-huawei-prosecution/)
 - [Marvel drops first trailer for ‘Ant-Man and the Wasp: Quantumania’](https://techcrunch.com/2022/10/24/marvel-drops-first-trailer-for-ant-man-and-the-wasp-quantumania/)
-- [SpaceX gearing up for 1st Falcon Heavy launch since 2019 &lpar;photo&rpar;](https://www.space.com/spacex-falcon-heavy-engines-photo-october-2022/)
-- [The seas are getting even rougher for Chinese startups](https://techcrunch.com/2022/10/24/the-seas-are-getting-even-rougher-for-chinese-startups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
