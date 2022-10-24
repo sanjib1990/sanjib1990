@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Arrival restructures &lpar;again&rpar;, Bird shrinks and highlights from Disrupt](https://techcrunch.com/2022/10/24/arrival-restructures-again-bird-shrinks-and-highlights-from-disrupt/)
-- [What does Instacart’s supposedly delayed IPO teach us about how unicorns think?](https://techcrunch.com/2022/10/24/darn-it-instacart-you-were-supposed-to-be-the-chosen-one/)
-- [PayPal rolls out support for passkeys on Apple devices](https://techcrunch.com/2022/10/24/paypal-rolls-out-support-for-passkeys-on-apple-devices/)
-- [Microsoft’s Windows Dev Kit 2023 lets developers tap AI processors on laptops](https://techcrunch.com/2022/10/24/microsofts-windows-dev-kit-2023-lets-developers-tap-ai-processors-on-laptops/)
-- [Budget telescopes under $500: Picks from Celestron, Meade and Orion](https://www.space.com/telescopes-under-500/)
+- [Apple iOS 16.1, iPad OS 16.1 and macOS Ventura are now available](https://techcrunch.com/2022/10/24/apple-ios-16-1-ipad-os-16-1-and-macos-13-are-now-available/)
+- [Why the James Webb Space Telescope&#39;s amazing &#39;Pillars of Creation&#39; photo has astronomers buzzing](https://www.space.com/james-webb-space-telescope-pillars-creation-excites-astronomer/)
+- [Apple increases US subscription prices for Apple Music, Apple TV+, Apple One bundle](https://techcrunch.com/2022/10/24/apple-increases-u-s-subscription-prices-for-apple-music-apple-tv-apple-one-bundle/)
+- [Russian cargo spacecraft ends mission with fiery return to Earth](https://www.space.com/russia-progress-80-cargo-spacecraft-ends-mission/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
