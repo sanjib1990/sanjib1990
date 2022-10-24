@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s DART asteroid crash: What scientists have learned about Dimorphos so far](https://www.space.com/dart-asteroid-smasher-reveals-dimorphos-mysteries/)
+- [Climate change keeps space debris afloat longer](https://www.space.com/climate-change-worsens-space-debri-problem/)
+- [The last solar eclipse of 2022 happens tomorrow. Here&#39;s what to expect](https://www.space.com/partial-solar-eclipse-tomorrow-europe-africa-asia/)
+- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html/)
 - [Global VC Flourish launches Madica, an Africa-focused program to back pre-seed stage startups](https://techcrunch.com/2022/10/24/global-vc-flourish-launches-madica-an-africa-focused-program-to-back-pre-seed-stage-startups/)
-- [Africa’s tech talent accelerators attract students, VC funding as Big Tech comes calling](https://techcrunch.com/2022/10/23/africas-tech-talent-accelerators-attract-students-vc-funding-as-big-tech-comes-calling/)
-- [Why Q3’s median valuations actually make perfect sense](https://techcrunch.com/2022/10/23/why-q3s-median-valuations-actually-make-perfect-sense/)
-- [These Celestron astronomy binoculars are up to $72 off.](https://www.space.com/celestron-skymaster-20x80-amazon-october-deal/)
-- [What time is the last solar eclipse of 2022 on Oct. 25?](https://www.space.com/solar-eclipse-october-2022-what-time/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
