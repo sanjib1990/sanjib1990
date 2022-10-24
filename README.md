@@ -94,8 +94,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Seeing startups tackle the health of our planet is giving me life](https://techcrunch.com/2022/10/24/seeing-startups-tackle-the-health-of-our-planet-is-giving-me-life/)
-- [Level’s new Level Lock+ with Apple Home Key is smart lock perfection](https://techcrunch.com/2022/10/24/level-lock-plus-with-apple-home-key-review/)
+- [This Celestron beginner telescope is 23% off on Amazon](https://www.space.com/celestron-powerseeker-80eq-telescope-october-2022-deal/)
+- [Astronaut&#39;s gold Omega moonwatch sells for record $1.9M at auction](https://www.space.com/astronaut-wally-schirra-gold-omega-speedmaster-watch-record-sale/)
 - [How the gamma-ray burst of the century surprised spacecraft operators](https://www.space.com/gamma-ray-burst-surprises-satellite-operators/)
 - [NASA Webb Image Coming This Week](https://blogs.nasa.gov/webb/2022/10/24/nasa-webb-image-coming-this-week-3/)
 - [Trio of yellow, blue and green lakes in Ethiopia stuns in striking satellite image](https://www.space.com/multicolored-lakes-ethiopia-satellite-images/)
