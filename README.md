@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [A closer look at macOS Ventura](https://techcrunch.com/2022/10/24/a-closer-look-at-macos-ventura/)
-- [Bumble open sourced its AI that detects unsolicited nudes](https://techcrunch.com/2022/10/24/bumble-open-sourced-its-ai-that-detects-unsolicited-nudes/)
-- [TechCrunch wants to hear Black founders’ stories of VC fundraising](https://techcrunch.com/2022/10/24/techcrunch-wants-to-hear-black-founders-stories-of-vc-fundraising/)
-- [US charges two alleged Chinese spies over plot to obstruct Huawei prosecution](https://techcrunch.com/2022/10/24/us-charges-two-alleged-chinese-spies-over-plot-to-obstruct-huawei-prosecution/)
-- [Marvel drops first trailer for ‘Ant-Man and the Wasp: Quantumania’](https://techcrunch.com/2022/10/24/marvel-drops-first-trailer-for-ant-man-and-the-wasp-quantumania/)
+- [Daily Crunch: Mobile gaming review — Playing on the Logitech G Cloud with Shadow](https://techcrunch.com/2022/10/24/daily-crunch-mobile-gaming-review-playing-on-the-logitech-g-cloud-with-shadow/)
+- [Max Q: The ghost in the machine](https://techcrunch.com/2022/10/24/max-q-the-ghost-in-the-machine/)
+- [Telehealth unicorn Cerebral lays off 20% of staff for ‘operational efficiencies’](https://techcrunch.com/2022/10/24/telehealth-unicorn-cerebral-lays-off-20-of-staff-for-operational-efficiencies/)
+- [Why startups are better off prioritizing growth instead of optimizing cloud costs](https://techcrunch.com/2022/10/24/why-startups-are-better-off-prioritizing-growth-instead-of-optimizing-cloud-costs/)
+- [Russia launches 4 satellites to orbit in 5th mission of last 2 weeks](https://www.space.com/russia-soyuz-launch-four-satellites-october-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
