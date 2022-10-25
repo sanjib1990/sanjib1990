@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html/)
-- [Pitch Deck Teardown: Palau Project’s $125k pre-seed deck](https://techcrunch.com/2022/10/25/sample-pre-seed-pitch-deck-palau-project/)
-- [&#39;Apollo Remastered&#39; features new look at moon mission photography](https://www.space.com/apollo-remastered-nasa-moon-photos-book/)
-- [Disney+ becomes the international home for new seasons of ‘Doctor Who’](https://techcrunch.com/2022/10/25/disney-international-home-doctor-who/)
-- [Best camera accessories for astrophotography in 2022](https://www.space.com/best-camera-accessories-for-astrophotography/)
+- [TechCrunch+ roundup: Technical due diligence, web3’s promise, how to hire well](https://techcrunch.com/2022/10/25/techcrunch-roundup-technical-due-diligence-web3s-promise-how-to-hire-well/)
+- [Five questions to consider ahead of Big Tech’s Q3 earnings](https://techcrunch.com/2022/10/25/five-questions-to-consider-ahead-of-big-techs-q3-earnings/)
+- [Celestron telescope &amp; binocular deals you can still get: Discounts &amp; what&#39;s in stock](https://www.space.com/38901-celestron-deals-telescopes-binoculars.html/)
+- [Investors are sitting on mountains of cash: Where will it be deployed?](https://techcrunch.com/2022/10/25/investors-are-sitting-on-mountains-of-cash-where-will-it-be-deployed/)
+- [Apple’s iMessage and FaceTime are down for some users](https://techcrunch.com/2022/10/25/apple-imessage-outage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
