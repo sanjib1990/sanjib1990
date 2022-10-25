@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Ahead of launching its third product, Nothing announces a brick-and-mortar store](https://techcrunch.com/2022/10/25/nothing-announces-a-brick-and-mortar-store/)
-- [Bilt Rewards’ valuation jumps to $1.5B following new $150M growth round](https://techcrunch.com/2022/10/25/bilt-rewards-valuation-1-5b-renter-credit-card/)
-- [Hive ransomware gang leaks data stolen during Tata Power cyberattack](https://techcrunch.com/2022/10/25/tata-power-hive-ransomware/)
-- [Bolt launches virtual Shopper Assistant for easier access to personalized experiences](https://techcrunch.com/2022/10/25/bolt-virtual-shopper-assistant/)
-- [Amazon now allows customers to make payments through Venmo](https://techcrunch.com/2022/10/25/amazon-now-allows-customers-to-make-payments-through-venmo/)
+- [Perceptron: AI saving whales, steadying gaits and banishing traffic](https://techcrunch.com/2022/10/25/perceptron-ai-saving-whales-steadying-gaits-and-banishing-traffic/)
+- [Get a load o’ this guy! &lpar;There’s a new ghost dog Pokémon called Greavard&rpar;](https://techcrunch.com/2022/10/25/greavard-pokemon-ghost-dog/)
+- [TechCrunch Disrupt Battlefield alum Perygee helps secure building operations](https://techcrunch.com/2022/10/25/techcrunch-disrupt-battlefield-alum-perygee-announces-4-75m-seed/)
+- [Watch Russia launch cargo spacecraft toward space station tonight](https://www.space.com/russia-progress-82-cargo-spacecraft-launch/)
+- [Everything we know about Avatar 2: release date, plot, cast and more](https://www.space.com/everything-you-need-to-know-about-avatar-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
