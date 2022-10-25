@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Major radio telescope &#39;levels up&#39; to get unprecedented views of the early universe](https://www.space.com/noema-radio-telescope-unprecedented-observations/)
-- [Earth&#39;s atmosphere could be turned into a giant dark-matter detector](https://www.space.com/find-dark-matter-with-meteor-radar/)
-- [Asteroid Ryugu was born out in the cold, in the solar system&#39;s earliest days](https://www.space.com/asteroid-ryugu-cold-outer-solar-system/)
-- [Best space horror games: Spooky space titles to play this Halloween](https://www.space.com/best-space-horror-games/)
-- [Anycubic Kobra Neo review: It is the one!](https://www.space.com/anycubic-kobra-neo-review/)
+- [Shutterstock to integrate OpenAI’s DALL-E 2 and launch fund for contributor artists](https://techcrunch.com/2022/10/25/shutterstock-openai-dall-e-2/)
+- [AI chip startup Axelera lands $27M in capital to commercialize its hardware](https://techcrunch.com/2022/10/25/ai-chip-startup-axelera-lands-27m-in-capital-to-commercialize-its-tech/)
+- [India fines Google $113 million, orders to allow third-party payments system in Play Store](https://techcrunch.com/2022/10/25/google-hit-with-113-million-fine-in-india-for-anti-competitive-practices-with-play-store-policies/)
+- [Verdict on continuation of Meta’s prosecution in Kenya to be made early next year](https://techcrunch.com/2022/10/25/verdict-on-continuation-of-metas-prosecution-in-kenya-to-be-made-early-next-year/)
+- [On This Day In Space: Oct. 25, 1671: Saturn&#39;s Yin-Yang Moon Iapetus Discovered by Giovanni Cassini](https://www.space.com/39251-on-this-day-in-space.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
