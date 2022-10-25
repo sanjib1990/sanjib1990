@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Station F turns its main startup program into an acceleration program](https://techcrunch.com/2022/10/25/station-f-turns-its-main-startup-program-into-an-acceleration-program/)
 - [Sequoia India eyes $50 million investment in K12 despite market slump](https://techcrunch.com/2022/10/24/sequoia-india-k12-techno-services-orchids-school/)
 - [54gene CEO steps down as the company looks to cut more jobs](https://techcrunch.com/2022/10/24/54gene-ceo-steps-down-as-the-company-looks-to-cut-more-jobs/)
 - [Top VCs have expanded into broader asset managers; is the model sustainable?](https://techcrunch.com/2022/10/24/top-vcs-have-expanded-into-broader-asset-managers-is-the-model-sustainable/)
 - [Don&#39;t miss the partial solar eclipse today, the last one of 2022](https://www.space.com/partial-solar-eclipse-today-oct-25-2022/)
-- [Heura tucks into $20M funding chunk for its plant-based proteins ahead of beefier B round next year](https://techcrunch.com/2022/10/24/heura-pre-b-funding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
