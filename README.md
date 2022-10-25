@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Perceptron: AI saving whales, steadying gaits and banishing traffic](https://techcrunch.com/2022/10/25/perceptron-ai-saving-whales-steadying-gaits-and-banishing-traffic/)
+- [Extremophiles on Mars could survive for hundreds of millions of years](https://www.space.com/mars-microbes-conan-the-bacterium-survival/)
+- [Solar eclipses 2022: When, where &amp; how to see them](https://www.space.com/33784-solar-eclipse-guide.html/)
 - [Get a load o’ this guy! &lpar;There’s a new ghost dog Pokémon called Greavard&rpar;](https://techcrunch.com/2022/10/25/greavard-pokemon-ghost-dog/)
 - [TechCrunch Disrupt Battlefield alum Perygee helps secure building operations](https://techcrunch.com/2022/10/25/techcrunch-disrupt-battlefield-alum-perygee-announces-4-75m-seed/)
 - [Watch Russia launch cargo spacecraft toward space station tonight](https://www.space.com/russia-progress-82-cargo-spacecraft-launch/)
-- [Everything we know about Avatar 2: release date, plot, cast and more](https://www.space.com/everything-you-need-to-know-about-avatar-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
