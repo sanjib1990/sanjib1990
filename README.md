@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to watch the last solar eclipse of 2022 for free today](https://www.space.com/watch-partial-solar-eclipse-online-oct-25-2022/)
-- [Apple cracks down on NFT functionality, social post boosts with App Store rules](https://techcrunch.com/2022/10/25/apple-cracks-down-on-nft-functionality-social-post-boosts-with-app-store-rules/)
-- [What is the moon phase today? Lunar phases 2022](https://www.space.com/18880-moon-phases.html/)
-- [WhatsApp emerges out of outage as Meta rolls out fix](https://techcrunch.com/2022/10/25/whatsapp-down/)
-- [Station F turns its main startup program into an acceleration program](https://techcrunch.com/2022/10/25/station-f-turns-its-main-startup-program-into-an-acceleration-program/)
+- [Major radio telescope &#39;levels up&#39; to get unprecedented views of the early universe](https://www.space.com/noema-radio-telescope-unprecedented-observations/)
+- [Earth&#39;s atmosphere could be turned into a giant dark-matter detector](https://www.space.com/find-dark-matter-with-meteor-radar/)
+- [Asteroid Ryugu was born out in the cold, in the solar system&#39;s earliest days](https://www.space.com/asteroid-ryugu-cold-outer-solar-system/)
+- [Best space horror games: Spooky space titles to play this Halloween](https://www.space.com/best-space-horror-games/)
+- [Anycubic Kobra Neo review: It is the one!](https://www.space.com/anycubic-kobra-neo-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
