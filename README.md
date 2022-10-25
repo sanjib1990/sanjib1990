@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New Zealand Uber drivers win case declaring them employees](https://techcrunch.com/2022/10/25/new-zealand-uber-drivers-win-case-declaring-them-employees/)
+- [Chris Sacca on climate investing right now; the opportunity “almost feels unfair”](https://techcrunch.com/2022/10/25/chris-sacca-on-climate-investing-right-now-were-trying-to-keep-up-with-tailwinds/)
+- [Who’s most likely to buy Nutanix?](https://techcrunch.com/2022/10/25/whos-most-likely-to-buy-nutanix/)
 - [See the moon&#39;s shadow crawl eerily across Earth in last solar eclipse of 2022 &lpar;satellite video&rpar;](https://www.space.com/moon-shadow-over-earth-partial-solar-eclipse-2022/)
 - [&#39;Ant-Man and The Wasp: Quantumania&#39; trailer dives into the quantum realm](https://www.space.com/ant-man-wasp-marvel-quantumania-trailer/)
-- [David Tennant surprises &#39;Doctor Who&#39; fans for 2023&#39;s big 60th anniversary party](https://www.space.com/doctor-who-david-tenant-returns-60th-anniversary/)
-- [Is MrBeast actually worth $1.5 billion?](https://techcrunch.com/2022/10/25/mrbeast-1-5-billion-valuation-youtuber/)
-- [James Webb Space Telescope reveals hidden star formation in pair of colliding galaxies &lpar;photo&rpar;](https://www.space.com/james-webb-telescope-star-formation-galactic-crash-photo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
