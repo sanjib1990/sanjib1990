@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Don&#39;t miss the partial solar eclipse today, the last one of 2022](https://www.space.com/partial-solar-eclipse-today-oct-25-2022/)
+- [Heura tucks into $20M funding chunk for its plant-based proteins ahead of beefier B round next year](https://techcrunch.com/2022/10/24/heura-pre-b-funding/)
 - [China’s XPeng moves closer to launching a robotaxi network](https://techcrunch.com/2022/10/24/chinas-xpeng-wants-to-launch-robotaxi-network-using-g9-suv/)
 - [Launch House splits with law firm conducting its harassment investigation](https://techcrunch.com/2022/10/24/launch-house-splits-with-law-firm-conducting-its-harassment-investigation/)
 - [Apex Space takes on satellite bus ‘bottleneck’ with seed round led by a16z](https://techcrunch.com/2022/10/24/apex-space-takes-on-satellite-bus-bottleneck-with-seed-round-led-by-a16z/)
-- [Starlink signals could work as GPS alternative, whether SpaceX likes it or not](https://techcrunch.com/2022/10/24/starlink-signals-could-work-as-gps-alternative-whether-spacex-likes-it-or-not/)
-- [Hyph set to launch a music creation app with an emphasis on remixing](https://techcrunch.com/2022/10/24/music-startup-hyph-set-to-launch-music-creation-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
