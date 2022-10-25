@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: After glitch causes a two-hour global outage, WhatsApp restores service](https://techcrunch.com/2022/10/25/daily-crunch-after-glitch-causes-a-2-hour-global-outage-whatsapp-restores-service/)
+- [Space station instrument spots methane &#39;super-emitters&#39; on Earth](https://www.space.com/emit-instrument-international-space-station-methane-super-emitters/)
+- [Overwatch 2 Review: Can you teach an old game new tricks?](https://techcrunch.com/2022/10/25/overwatch-2-review/)
+- [Microsoft says GitHub now has a $1B ARR, 90M active users](https://techcrunch.com/2022/10/25/microsoft-says-github-now-has-a-1b-arr-90m-active-users/)
 - [New Zealand Uber drivers win case declaring them employees](https://techcrunch.com/2022/10/25/new-zealand-uber-drivers-win-case-declaring-them-employees/)
-- [Chris Sacca on climate investing right now; the opportunity “almost feels unfair”](https://techcrunch.com/2022/10/25/chris-sacca-on-climate-investing-right-now-were-trying-to-keep-up-with-tailwinds/)
-- [Who’s most likely to buy Nutanix?](https://techcrunch.com/2022/10/25/whos-most-likely-to-buy-nutanix/)
-- [See the moon&#39;s shadow crawl eerily across Earth in last solar eclipse of 2022 &lpar;satellite video&rpar;](https://www.space.com/moon-shadow-over-earth-partial-solar-eclipse-2022/)
-- [&#39;Ant-Man and The Wasp: Quantumania&#39; trailer dives into the quantum realm](https://www.space.com/ant-man-wasp-marvel-quantumania-trailer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
