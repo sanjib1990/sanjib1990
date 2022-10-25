@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sequoia India eyes $50 million investment in K12 despite market slump](https://techcrunch.com/2022/10/24/sequoia-india-k12-techno-services-orchids-school/)
+- [54gene CEO steps down as the company looks to cut more jobs](https://techcrunch.com/2022/10/24/54gene-ceo-steps-down-as-the-company-looks-to-cut-more-jobs/)
+- [Top VCs have expanded into broader asset managers; is the model sustainable?](https://techcrunch.com/2022/10/24/top-vcs-have-expanded-into-broader-asset-managers-is-the-model-sustainable/)
 - [Don&#39;t miss the partial solar eclipse today, the last one of 2022](https://www.space.com/partial-solar-eclipse-today-oct-25-2022/)
 - [Heura tucks into $20M funding chunk for its plant-based proteins ahead of beefier B round next year](https://techcrunch.com/2022/10/24/heura-pre-b-funding/)
-- [China’s XPeng moves closer to launching a robotaxi network](https://techcrunch.com/2022/10/24/chinas-xpeng-wants-to-launch-robotaxi-network-using-g9-suv/)
-- [Launch House splits with law firm conducting its harassment investigation](https://techcrunch.com/2022/10/24/launch-house-splits-with-law-firm-conducting-its-harassment-investigation/)
-- [Apex Space takes on satellite bus ‘bottleneck’ with seed round led by a16z](https://techcrunch.com/2022/10/24/apex-space-takes-on-satellite-bus-bottleneck-with-seed-round-led-by-a16z/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
