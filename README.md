@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Rooms with a view: Astronauts have design ideas for new space stations](https://www.space.com/astronaut-design-ideas-new-space-stations/)
-- [Celebrity chefs to provide &#39;Taste of Space&#39; at NASA visitor complex](https://www.space.com/taste-of-space-celebrity-chefs-nasa-kennedy/)
-- [Russia launches 4 satellites to orbit in 5th mission of last 2 weeks](https://www.space.com/russia-soyuz-launch-four-satellites-october-2022/)
-- [October new moon 2022: Partial solar eclipse](https://www.space.com/17561-new-moon-explained-lunar-phases.html/)
-- [A closer look at macOS Ventura](https://techcrunch.com/2022/10/24/a-closer-look-at-macos-ventura/)
+- [China’s XPeng moves closer to launching a robotaxi network](https://techcrunch.com/2022/10/24/chinas-xpeng-wants-to-launch-robotaxi-network-using-g9-suv/)
+- [Launch House splits with law firm conducting its harassment investigation](https://techcrunch.com/2022/10/24/launch-house-splits-with-law-firm-conducting-its-harassment-investigation/)
+- [Apex Space takes on satellite bus ‘bottleneck’ with seed round led by a16z](https://techcrunch.com/2022/10/24/apex-space-takes-on-satellite-bus-bottleneck-with-seed-round-led-by-a16z/)
+- [Starlink signals could work as GPS alternative, whether SpaceX likes it or not](https://techcrunch.com/2022/10/24/starlink-signals-could-work-as-gps-alternative-whether-spacex-likes-it-or-not/)
+- [Hyph set to launch a music creation app with an emphasis on remixing](https://techcrunch.com/2022/10/24/music-startup-hyph-set-to-launch-music-creation-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
