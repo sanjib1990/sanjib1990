@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [David Tennant surprises &#39;Doctor Who&#39; fans for 2023&#39;s big 60th anniversary party](https://www.space.com/doctor-who-david-tenant-returns-60th-anniversary/)
+- [Is MrBeast actually worth $1.5 billion?](https://techcrunch.com/2022/10/25/mrbeast-1-5-billion-valuation-youtuber/)
 - [James Webb Space Telescope reveals hidden star formation in pair of colliding galaxies &lpar;photo&rpar;](https://www.space.com/james-webb-telescope-star-formation-galactic-crash-photo/)
 - [TechCrunch+ roundup: Technical due diligence, web3’s promise, how to hire well](https://techcrunch.com/2022/10/25/techcrunch-roundup-technical-due-diligence-web3s-promise-how-to-hire-well/)
 - [Five questions to consider ahead of Big Tech’s Q3 earnings](https://techcrunch.com/2022/10/25/five-questions-to-consider-ahead-of-big-techs-q3-earnings/)
-- [Celestron telescope &amp; binocular deals you can still get: Discounts &amp; what&#39;s in stock](https://www.space.com/38901-celestron-deals-telescopes-binoculars.html/)
-- [Investors are sitting on mountains of cash: Where will it be deployed?](https://techcrunch.com/2022/10/25/investors-are-sitting-on-mountains-of-cash-where-will-it-be-deployed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
