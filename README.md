@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Extremophiles on Mars could survive for hundreds of millions of years](https://www.space.com/mars-microbes-conan-the-bacterium-survival/)
-- [Solar eclipses 2022: When, where &amp; how to see them](https://www.space.com/33784-solar-eclipse-guide.html/)
-- [Get a load o’ this guy! &lpar;There’s a new ghost dog Pokémon called Greavard&rpar;](https://techcrunch.com/2022/10/25/greavard-pokemon-ghost-dog/)
-- [TechCrunch Disrupt Battlefield alum Perygee helps secure building operations](https://techcrunch.com/2022/10/25/techcrunch-disrupt-battlefield-alum-perygee-announces-4-75m-seed/)
-- [Watch Russia launch cargo spacecraft toward space station tonight](https://www.space.com/russia-progress-82-cargo-spacecraft-launch/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html/)
+- [Pitch Deck Teardown: Palau Project’s $125k pre-seed deck](https://techcrunch.com/2022/10/25/sample-pre-seed-pitch-deck-palau-project/)
+- [&#39;Apollo Remastered&#39; features new look at moon mission photography](https://www.space.com/apollo-remastered-nasa-moon-photos-book/)
+- [Disney+ becomes the international home for new seasons of ‘Doctor Who’](https://techcrunch.com/2022/10/25/disney-international-home-doctor-who/)
+- [Best camera accessories for astrophotography in 2022](https://www.space.com/best-camera-accessories-for-astrophotography/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
