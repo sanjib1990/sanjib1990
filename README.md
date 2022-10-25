@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Shutterstock to integrate OpenAI’s DALL-E 2 and launch fund for contributor artists](https://techcrunch.com/2022/10/25/shutterstock-openai-dall-e-2/)
-- [AI chip startup Axelera lands $27M in capital to commercialize its hardware](https://techcrunch.com/2022/10/25/ai-chip-startup-axelera-lands-27m-in-capital-to-commercialize-its-tech/)
-- [India fines Google $113 million, orders to allow third-party payments system in Play Store](https://techcrunch.com/2022/10/25/google-hit-with-113-million-fine-in-india-for-anti-competitive-practices-with-play-store-policies/)
-- [Verdict on continuation of Meta’s prosecution in Kenya to be made early next year](https://techcrunch.com/2022/10/25/verdict-on-continuation-of-metas-prosecution-in-kenya-to-be-made-early-next-year/)
-- [On This Day In Space: Oct. 25, 1671: Saturn&#39;s Yin-Yang Moon Iapetus Discovered by Giovanni Cassini](https://www.space.com/39251-on-this-day-in-space.html/)
+- [Ahead of launching its third product, Nothing announces a brick-and-mortar store](https://techcrunch.com/2022/10/25/nothing-announces-a-brick-and-mortar-store/)
+- [Bilt Rewards’ valuation jumps to $1.5B following new $150M growth round](https://techcrunch.com/2022/10/25/bilt-rewards-valuation-1-5b-renter-credit-card/)
+- [Hive ransomware gang leaks data stolen during Tata Power cyberattack](https://techcrunch.com/2022/10/25/tata-power-hive-ransomware/)
+- [Bolt launches virtual Shopper Assistant for easier access to personalized experiences](https://techcrunch.com/2022/10/25/bolt-virtual-shopper-assistant/)
+- [Amazon now allows customers to make payments through Venmo](https://techcrunch.com/2022/10/25/amazon-now-allows-customers-to-make-payments-through-venmo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
