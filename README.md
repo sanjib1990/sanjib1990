@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple cracks down on NFT functionality, social post boosts with App Store rules](https://techcrunch.com/2022/10/25/apple-cracks-down-on-nft-functionality-social-post-boosts-with-app-store-rules/)
+- [What is the moon phase today? Lunar phases 2022](https://www.space.com/18880-moon-phases.html/)
+- [WhatsApp is facing an outage, Meta working on a fix](https://techcrunch.com/2022/10/25/whatsapp-down/)
 - [Station F turns its main startup program into an acceleration program](https://techcrunch.com/2022/10/25/station-f-turns-its-main-startup-program-into-an-acceleration-program/)
 - [Sequoia India eyes $50 million investment in K12 despite market slump](https://techcrunch.com/2022/10/24/sequoia-india-k12-techno-services-orchids-school/)
-- [54gene CEO steps down as the company looks to cut more jobs](https://techcrunch.com/2022/10/24/54gene-ceo-steps-down-as-the-company-looks-to-cut-more-jobs/)
-- [Top VCs have expanded into broader asset managers; is the model sustainable?](https://techcrunch.com/2022/10/24/top-vcs-have-expanded-into-broader-asset-managers-is-the-model-sustainable/)
-- [Don&#39;t miss the partial solar eclipse today, the last one of 2022](https://www.space.com/partial-solar-eclipse-today-oct-25-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
