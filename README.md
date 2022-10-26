@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Jupiter&#39;s moons: Facts about the many moons of the Jovian system](https://www.space.com/16452-jupiters-moons.html/)
-- [Predator movies in order: chronological and release](https://www.space.com/predator-movies-in-order/)
-- [Trigo raises $100M to expand its Amazon-style cashier-free store technology](https://techcrunch.com/2022/10/26/trigo-raises-100m-to-expand-its-amazon-style-cashier-free-store-technology/)
-- [China rolls out rocket to launch 3rd and final space station module &lpar;photos&rpar;](https://www.space.com/china-rocket-rollout-launch-mengtian-space-station-module/)
-- [A new composite image of Saturn show its rings in unprecedented detail](https://www.space.com/saturns-rings-cassini-composite-image-mystery/)
+- [Twitter’s Elon problem could soon become Apple’s Elon problem, too](https://techcrunch.com/2022/10/26/twitters-elon-problem-could-soon-become-apples-elon-problem-too/)
+- [US charges Ukrainian national over alleged role in Raccoon Infostealer malware operation](https://techcrunch.com/2022/10/26/doj-raccoon-malware/)
+- [Valence Security raises fresh capital to secure the SaaS app supply chain](https://techcrunch.com/2022/10/26/valence-security-raises-fresh-capital-to-secure-the-saas-app-supply-chain/)
+- [Devtron raises fresh capital for its cloud DevOps platform](https://techcrunch.com/2022/10/26/devtron-raises-fresh-capital-for-its-cloud-devops-platform/)
+- [UK watchdog warns against AI for emotional analysis, dubs ‘immature’ biometrics a bias risk](https://techcrunch.com/2022/10/26/no-to-voight-kampff-tests/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
