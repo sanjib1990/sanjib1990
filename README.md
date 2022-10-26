@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html/)
-- [Needl wants to become the search engine for your accounts](https://techcrunch.com/2022/10/26/needl-wants-to-become-the-search-engine-for-your-accounts/)
-- [Crowded’s app gives clubs, associations banking flexibility](https://techcrunch.com/2022/10/26/crowded-club-banking-app/)
-- [Duolingo’s owl will now shout fractions at you](https://techcrunch.com/2022/10/26/duolingo-math-app-public/)
-- [Private space mission to study how solar flares kill exoplanet life](https://www.space.com/mauve-private-space-mission-exoplanet-flares/)
+- [Astronomers watch DART mission&#39;s asteroid Didymos eclipsing stars with tricky technique](https://www.space.com/asteroid-didymos-occultation-after-dart-impact/)
+- [Yes, Chief](https://techcrunch.com/2022/10/26/yes-chief-disrupt-2022/)
+- [Acquia jumps on headless CMS bandwagon with open source starter kit](https://techcrunch.com/2022/10/26/acquia-jumps-on-headless-cms-bandwagon-with-open-source-starter-kit/)
+- [Asset management firm Stone Ridge launches Bitcoin-focused accelerator program](https://techcrunch.com/2022/10/26/asset-management-firm-stone-ridge-launches-bitcoin-focused-accelerator-program/)
+- [Telescope deal: Save over $40 on the Celestron AstroMaster 70AZ](https://www.space.com/celestron-astromaster-telescopes-discounts-on-amazon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
