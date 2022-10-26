@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Former observatory head removed from university post after &#39;unacceptable behavior&#39; allegations: report](https://www.space.com/former-observatory-head-university-post-removal/)
 - [The tide is shifting on tech’s layoff wave. Kind of.](https://techcrunch.com/2022/10/26/the-tide-is-shifting-on-techs-layoff-wave-kind-of/)
 - [Beyond cost control: Where cloud management is going next](https://techcrunch.com/2022/10/26/beyond-cost-control-where-cloud-management-is-going-next/)
 - [Tesla said to face criminal investigation by the Department of Justice over self-driving claims](https://techcrunch.com/2022/10/26/tesla-criminal-investigation-doj-autopilot-self-driving/)
 - [Amazon resumes donations to some 2020 election deniers, just in time for midterms](https://techcrunch.com/2022/10/26/amazon-resumes-donations-to-some-2020-election-deniers-just-in-time-for-midterms/)
-- [The end is &lpar;maybe&rpar; near: Elon Musk is at Twitter HQ](https://techcrunch.com/2022/10/26/elon-musk-twitter-hq-deal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
