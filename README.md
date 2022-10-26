@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hyundai and WeRide plan to fuel self-driving with hydrogen in China](https://techcrunch.com/2022/10/25/hyundai-and-weride-plan-to-fuel-self-driving-with-hydrogen-in-china/)
+- [WATI, a CRM tool built for WhatsApp, raises $23M led by Tiger Global](https://techcrunch.com/2022/10/25/wati-a-crm-tool-built-for-whatsapp-raises-23m-led-by-tiger-global/)
+- [Helbiz’s Wheels acquisition fails to impress investors](https://techcrunch.com/2022/10/25/will-helbiz-wheels-acquisition-help-it-save-its-stock/)
 - [Square Peg Capital closes $550M fund for Southeast Asia, Australia and Israel](https://techcrunch.com/2022/10/25/square-peg-capital-closes-550m-fund-for-southeast-asia-australia-and-israel/)
 - [Russia launches cargo spacecraft toward International Space Station &lpar;video&rpar;](https://www.space.com/russia-progress-82-cargo-spacecraft-launch/)
-- [Lyft relaunches monthly subscription plan at half the price](https://techcrunch.com/2022/10/25/lyft-relaunches-monthly-subscription-plan-at-half-the-price/)
-- [Daily Crunch: After glitch causes a two-hour global outage, WhatsApp restores service](https://techcrunch.com/2022/10/25/daily-crunch-after-glitch-causes-a-2-hour-global-outage-whatsapp-restores-service/)
-- [Methane &#39;super-emitters&#39; on Earth spotted by space station experiment](https://www.space.com/emit-instrument-international-space-station-methane-super-emitters/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
