@@ -83,7 +83,7 @@
 
 <!-- YOUTUBE:START -->
 - [Is coding really dead? 6 trends that look bad](https://www.youtube.com/watch?v=Zs9Tifup1Bc)
-- [Robot Decision Making - Computerphile](https://www.youtube.com/watch?v=2iF9PRriA7w)
+- [Markov Decision Processes - Computerphile](https://www.youtube.com/watch?v=2iF9PRriA7w)
 - [Godot in 100 Seconds](https://www.youtube.com/watch?v=QKgTZWbwD1U)
 - [i hacked this photo](https://www.youtube.com/watch?v=sLkdtjJc6mc)
 - [Stable Diffusion in Code &lpar;AI Image Generation&rpar; - Computerphile](https://www.youtube.com/watch?v=-lz30by8-sU)
