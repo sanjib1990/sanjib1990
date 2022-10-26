@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s Voyager project scientist Ed Stone retires after 50 years](https://www.space.com/nasa-voyager-project-scientist-ed-stone-retires/)
-- [New Paris-based VC Satgana completes the first close of its €30M fund to back ClimateTech startups](https://techcrunch.com/2022/10/26/new-paris-based-vc-satgana-completes-the-first-close-of-its-e30m-fund-to-back-climatetech-startups/)
-- [Big Tech falls short in the first salvos of the Q3 earnings cycle](https://techcrunch.com/2022/10/26/big-tech-falls-short-in-the-first-salvos-of-the-q3-earnings-cycle/)
-- [At last! Blaseball is coming back for Fall Ball](https://techcrunch.com/2022/10/26/blaseball-return-fall-ball/)
-- [NASA&#39;s asteroid surveyor snapped stunning shots of Earth and moon before heading to Jupiter&#39;s Trojans](https://www.space.com/earth-moon-photos-from-lucy-asteroid-mission/)
+- [The end is &lpar;maybe&rpar; near: Elon Musk is at Twitter HQ](https://techcrunch.com/2022/10/26/elon-musk-twitter-hq-deal/)
+- [Ford, VW-backed Argo AI is shutting down](https://techcrunch.com/2022/10/26/ford-vw-backed-argo-ai-is-shutting-down/)
+- [Four years after being acquired by Microsoft, GitHub keeps doing its thing](https://techcrunch.com/2022/10/26/four-years-after-being-acquired-by-microsoft-github-keeps-doing-its-thing/)
+- [Elon Musk’s Twitter deal has to close by Friday or the trial is back on](https://techcrunch.com/2022/10/26/elon-musk-twitter-deal-deadline/)
+- [New James Webb Space Telescope photos show a massive galaxy cluster bending light](https://www.space.com/james-webb-space-telescope-galaxies-bending-light/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
