@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Twitter’s Elon problem could soon become Apple’s Elon problem, too](https://techcrunch.com/2022/10/26/twitters-elon-problem-could-soon-become-apples-elon-problem-too/)
-- [US charges Ukrainian national over alleged role in Raccoon Infostealer malware operation](https://techcrunch.com/2022/10/26/doj-raccoon-malware/)
-- [Valence Security raises fresh capital to secure the SaaS app supply chain](https://techcrunch.com/2022/10/26/valence-security-raises-fresh-capital-to-secure-the-saas-app-supply-chain/)
-- [Devtron raises fresh capital for its cloud DevOps platform](https://techcrunch.com/2022/10/26/devtron-raises-fresh-capital-for-its-cloud-devops-platform/)
-- [UK watchdog warns against AI for emotional analysis, dubs ‘immature’ biometrics a bias risk](https://techcrunch.com/2022/10/26/no-to-voight-kampff-tests/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html/)
+- [Needl wants to become the search engine for your accounts](https://techcrunch.com/2022/10/26/needl-wants-to-become-the-search-engine-for-your-accounts/)
+- [Crowded’s app gives clubs, associations banking flexibility](https://techcrunch.com/2022/10/26/crowded-club-banking-app/)
+- [Duolingo’s owl will now shout fractions at you](https://techcrunch.com/2022/10/26/duolingo-math-app-public/)
+- [Private space mission to study how solar flares kill exoplanet life](https://www.space.com/mauve-private-space-mission-exoplanet-flares/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
