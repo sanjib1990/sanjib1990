@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Nothing’s third device is a pair of pared down earbuds](https://techcrunch.com/2022/10/26/nothings-third-device-is-a-pair-of-pared-down-earbuds/)
-- [Webb Offers Never-Before-Seen Details of Early Universe](https://blogs.nasa.gov/webb/2022/10/26/webb-offers-never-before-seen-details-of-early-universe/)
-- [Inside TheTruthSpy, the stalkerware network spying on thousands](https://techcrunch.com/2022/10/26/inside-thetruthspy-stalkerware/)
-- [New short film to celebrate 50 years since &#39;Last Man on the Moon&#39; landed](https://www.space.com/last-man-on-moon-apollo-17-film/)
-- [The 2022 Orionid meteor shower put on a show for skywatchers around the world &lpar;gallery&rpar;](https://www.space.com/orionid-meteor-shower-2022-reader-photos-gallery/)
+- [Meta hit with antitrust breach order in Turkey for combining user data across Fb, WhatsApp, Instagram](https://techcrunch.com/2022/10/26/facebook-instagram-whatsapp-meta-turkey-antitrust-order/)
+- [Sigstore launches free software signing and verification service for open source projects](https://techcrunch.com/2022/10/26/sigstore-launches-free-software-signing-and-verification-service-for-open-source-projects/)
+- [This Mars meteorite contains a toxin that makes pigs vomit &lpar;and humans, too&rpar;](https://www.space.com/mars-meteorite-discovery-black-student-pig-toxin/)
+- [Korean internet giant Naver eyes North America, Europe as it grows its C2C marketplace business](https://techcrunch.com/2022/10/26/korean-internet-giant-naver-eyes-north-america-europe-as-it-grows-its-c2c-marketplace-business/)
+- [Best VR headsets 2022: Meta Quest 2, Valve Index, PSVR, and more...](https://www.space.com/best-vr-headsets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
