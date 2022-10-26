@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Square Peg Capital closes $550M fund for Southeast Asia, Australia and Israel](https://techcrunch.com/2022/10/25/square-peg-capital-closes-550m-fund-for-southeast-asia-australia-and-israel/)
+- [Russia launches cargo spacecraft toward International Space Station &lpar;video&rpar;](https://www.space.com/russia-progress-82-cargo-spacecraft-launch/)
 - [Lyft relaunches monthly subscription plan at half the price](https://techcrunch.com/2022/10/25/lyft-relaunches-monthly-subscription-plan-at-half-the-price/)
 - [Daily Crunch: After glitch causes a two-hour global outage, WhatsApp restores service](https://techcrunch.com/2022/10/25/daily-crunch-after-glitch-causes-a-2-hour-global-outage-whatsapp-restores-service/)
-- [Space station instrument spots methane &#39;super-emitters&#39; on Earth](https://www.space.com/emit-instrument-international-space-station-methane-super-emitters/)
-- [Overwatch 2 Review: Can you teach an old game new tricks?](https://techcrunch.com/2022/10/25/overwatch-2-review/)
-- [Microsoft says GitHub now has a $1B ARR, 90M active users](https://techcrunch.com/2022/10/25/microsoft-says-github-now-has-a-1b-arr-90m-active-users/)
+- [Methane &#39;super-emitters&#39; on Earth spotted by space station experiment](https://www.space.com/emit-instrument-international-space-station-methane-super-emitters/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
