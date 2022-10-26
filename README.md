@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Astronomers watch DART mission&#39;s asteroid Didymos eclipsing stars with tricky technique](https://www.space.com/asteroid-didymos-occultation-after-dart-impact/)
-- [Yes, Chief](https://techcrunch.com/2022/10/26/yes-chief-disrupt-2022/)
-- [Acquia jumps on headless CMS bandwagon with open source starter kit](https://techcrunch.com/2022/10/26/acquia-jumps-on-headless-cms-bandwagon-with-open-source-starter-kit/)
-- [Asset management firm Stone Ridge launches Bitcoin-focused accelerator program](https://techcrunch.com/2022/10/26/asset-management-firm-stone-ridge-launches-bitcoin-focused-accelerator-program/)
-- [Telescope deal: Save over $40 on the Celestron AstroMaster 70AZ](https://www.space.com/celestron-astromaster-telescopes-discounts-on-amazon/)
+- [Nothing’s third device is a pair of pared down earbuds](https://techcrunch.com/2022/10/26/nothings-third-device-is-a-pair-of-pared-down-earbuds/)
+- [Webb Offers Never-Before-Seen Details of Early Universe](https://blogs.nasa.gov/webb/2022/10/26/webb-offers-never-before-seen-details-of-early-universe/)
+- [Inside TheTruthSpy, the stalkerware network spying on thousands](https://techcrunch.com/2022/10/26/inside-thetruthspy-stalkerware/)
+- [New short film to celebrate 50 years since &#39;Last Man on the Moon&#39; landed](https://www.space.com/last-man-on-moon-apollo-17-film/)
+- [The 2022 Orionid meteor shower put on a show for skywatchers around the world &lpar;gallery&rpar;](https://www.space.com/orionid-meteor-shower-2022-reader-photos-gallery/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
