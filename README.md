@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta hit with antitrust breach order in Turkey for combining user data across Fb, WhatsApp, Instagram](https://techcrunch.com/2022/10/26/facebook-instagram-whatsapp-meta-turkey-antitrust-order/)
-- [Sigstore launches free software signing and verification service for open source projects](https://techcrunch.com/2022/10/26/sigstore-launches-free-software-signing-and-verification-service-for-open-source-projects/)
-- [This Mars meteorite contains a toxin that makes pigs vomit &lpar;and humans, too&rpar;](https://www.space.com/mars-meteorite-discovery-black-student-pig-toxin/)
-- [Korean internet giant Naver eyes North America, Europe as it grows its C2C marketplace business](https://techcrunch.com/2022/10/26/korean-internet-giant-naver-eyes-north-america-europe-as-it-grows-its-c2c-marketplace-business/)
-- [Best VR headsets 2022: Meta Quest 2, Valve Index, PSVR, and more...](https://www.space.com/best-vr-headsets/)
+- [At last! Blaseball is coming back for Fall Ball](https://techcrunch.com/2022/10/26/blaseball-return-fall-ball/)
+- [NASA&#39;s asteroid surveyor snapped stunning shots of Earth and moon before heading to Jupiter&#39;s Trojans](https://www.space.com/earth-moon-photos-from-lucy-asteroid-mission/)
+- [The last solar eclipse of 2022 in pictures: Incredible photos from around the world](https://www.space.com/last-solar-eclipse-2022-october-photos/)
+- [Drones in cities are a bad idea](https://techcrunch.com/2022/10/26/drones-in-cities-are-a-bad-idea/)
+- [Zillow lays off 300 employees in latest workforce shift](https://techcrunch.com/2022/10/26/zillow-layoff-300-employees/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
