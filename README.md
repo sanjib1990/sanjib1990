@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Singapore may soon require retail investors to take test before trading crypto, prohibit credit cards](https://techcrunch.com/2022/10/26/singapore-retail-test-crypto-credit-card/)
+- [LatticeFlow raises $12M to eliminate computer vision blind spots](https://techcrunch.com/2022/10/26/latticeflow-raises-12m-to-eliminate-computer-vision-blind-spots/)
+- [Flush with Series A funding, Daye unwraps the big gynae health mission](https://techcrunch.com/2022/10/26/daye-series-a/)
 - [Apple exec says future iPhones will comply with EU’s USB-C mandate](https://techcrunch.com/2022/10/25/apple-exec-says-future-iphones-will-comply-with-eus-usb-c-mandate/)
 - [Hyundai and WeRide plan to fuel self-driving with hydrogen in China](https://techcrunch.com/2022/10/25/hyundai-and-weride-plan-to-fuel-self-driving-with-hydrogen-in-china/)
-- [WATI, a CRM tool built for WhatsApp, raises $23M led by Tiger Global](https://techcrunch.com/2022/10/25/wati-a-crm-tool-built-for-whatsapp-raises-23m-led-by-tiger-global/)
-- [Helbiz’s Wheels acquisition fails to impress investors](https://techcrunch.com/2022/10/25/will-helbiz-wheels-acquisition-help-it-save-its-stock/)
-- [Square Peg Capital closes $550M fund for Southeast Asia, Australia and Israel](https://techcrunch.com/2022/10/25/square-peg-capital-closes-550m-fund-for-southeast-asia-australia-and-israel/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
