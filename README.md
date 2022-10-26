@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Beyond cost control: Where cloud management is going next](https://techcrunch.com/2022/10/26/beyond-cost-control-where-cloud-management-is-going-next/)
+- [Tesla said to face criminal investigation by the Department of Justice over self-driving claims](https://techcrunch.com/2022/10/26/tesla-criminal-investigation-doj-autopilot-self-driving/)
+- [Amazon resumes donations to some 2020 election deniers, just in time for midterms](https://techcrunch.com/2022/10/26/amazon-resumes-donations-to-some-2020-election-deniers-just-in-time-for-midterms/)
 - [The end is &lpar;maybe&rpar; near: Elon Musk is at Twitter HQ](https://techcrunch.com/2022/10/26/elon-musk-twitter-hq-deal/)
-- [Ford, VW-backed Argo AI is shutting down](https://techcrunch.com/2022/10/26/ford-vw-backed-argo-ai-is-shutting-down/)
-- [Four years after being acquired by Microsoft, GitHub keeps doing its thing](https://techcrunch.com/2022/10/26/four-years-after-being-acquired-by-microsoft-github-keeps-doing-its-thing/)
-- [Elon Musk’s Twitter deal has to close by Friday or the trial is back on](https://techcrunch.com/2022/10/26/elon-musk-twitter-deal-deadline/)
-- [New James Webb Space Telescope photos show a massive galaxy cluster bending light](https://www.space.com/james-webb-space-telescope-galaxies-bending-light/)
+- [The &#39;Guardians of the Galaxy Holiday Special&#39; is going to kidnap Kevin Bacon &lpar;trailer&rpar;](https://www.space.com/guardians-of-the-galaxy-holiday-special-trailer-kevin-bacon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
