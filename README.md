@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Celestron Travel Scope 70 portable telescope now on sale for under $100](https://www.space.com/celestron-travel-scope-70-october-amazon-deal/)
-- [On This Day In Space: Oct. 27, 1961: NASA launches 1st Saturn rocket test flight](https://www.space.com/39251-on-this-day-in-space.html/)
-- [UK government denies fresh delay to Online Safety Bill will derail it](https://techcrunch.com/2022/10/27/online-safety-bill-second-delay/)
-- [YouTube opens up certification program for health-related channels](https://techcrunch.com/2022/10/27/youtube-opens-up-certification-program-for-health-related-channels/)
-- [Huge HAARP antenna array is bouncing radio signals off Jupiter](https://www.space.com/haarp-atmospheric-research-facility-bouncing-signals-jupiter-moon/)
+- [The lack of VC funding to women is a Western societal shortfall](https://techcrunch.com/2022/10/27/the-lack-of-vc-funding-to-women-is-a-western-societal-shortfall/)
+- [Solo GP secures $140M for fifth seed, third opportunity funds](https://techcrunch.com/2022/10/27/solo-gp-streamlined-ventures-140m/)
+- [HealthJoy raises $60M to make benefits easier to navigate](https://techcrunch.com/2022/10/27/healthjoy-raises-60m-to-make-benefits-easier-to-navigate/)
+- [The space fan&#39;s guide to the US midterm elections 2022](https://www.space.com/us-midterm-elections-2022-space-fans-guide/)
+- [English-learning startup ELSA launches Speech Analyzer to help people gain conversational confidence](https://techcrunch.com/2022/10/27/english-learning-startup-elsa-launches-speech-analyzer-to-help-people-gain-conversational-confidence/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
