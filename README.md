@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple doesn’t want you trading NFTs on your phone &lpar;unless it makes them money&rpar;](https://techcrunch.com/2022/10/27/apple-reddit-nfts-app-store-chain-reaction-podcast/)
+- [Apple says, ‘NFTs? Yes, fees’](https://techcrunch.com/2022/10/27/chain-reaction-apple-nfts-reddit-rishi-sunak-podcast-newsletter/)
+- [Physical ‘copies’ of the new Call of Duty are just empty discs](https://techcrunch.com/2022/10/27/physical-copies-of-the-new-call-of-duty-are-just-empty-discs/)
+- [Dawn of the tentacle](https://techcrunch.com/2022/10/27/dawn-of-the-tentacle/)
 - [Google filing says EU’s antitrust division is investigating Play Store practices](https://techcrunch.com/2022/10/27/google-play-eu-antitrust/)
-- [Snapchat reduces total payouts for Spotlight creators](https://techcrunch.com/2022/10/27/snapchat-reduces-total-payouts-for-spotlight-creators/)
-- [Uber to freeze fake rider account names, pilot front-facing video recording](https://techcrunch.com/2022/10/27/uber-to-freeze-fake-rider-account-names-pilot-front-facing-video-recording/)
-- [Clubhouse’s Paul Davison on Twitter, the impact of hype and what happened](https://techcrunch.com/2022/10/27/clubhouses-paul-davison-on-twitter-the-impact-of-hype-and-what-happened/)
-- [YouTube’s ad revenue is declining, but creator economy experts aren’t worried](https://techcrunch.com/2022/10/27/youtubes-ad-revenue-is-declining-but-creator-economy-experts-arent-worried/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
