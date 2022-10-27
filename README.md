@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta is in trouble](https://techcrunch.com/2022/10/27/meta-stock-yikes/)
+- [How to raise funds when you aren’t in the Bay Area](https://techcrunch.com/2022/10/27/how-to-raise-funds-when-you-arent-in-the-bay-area/)
+- [The 1st ever Election Day Blood Moon lunar eclipse is coming on Nov. 8](https://www.space.com/moon-total-eclipse-election-day-nov-8/)
 - [Apple doesn’t want you trading NFTs on your phone &lpar;unless it makes them money&rpar;](https://techcrunch.com/2022/10/27/apple-reddit-nfts-app-store-chain-reaction-podcast/)
 - [Apple says, ‘NFTs? Yes, fees’](https://techcrunch.com/2022/10/27/chain-reaction-apple-nfts-reddit-rishi-sunak-podcast-newsletter/)
-- [Physical ‘copies’ of the new Call of Duty are just empty discs](https://techcrunch.com/2022/10/27/physical-copies-of-the-new-call-of-duty-are-just-empty-discs/)
-- [Dawn of the tentacle](https://techcrunch.com/2022/10/27/dawn-of-the-tentacle/)
-- [Google filing says EU’s antitrust division is investigating Play Store practices](https://techcrunch.com/2022/10/27/google-play-eu-antitrust/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
