@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Now Elon Musk says he won’t fire 75% of Twitter’s staff](https://techcrunch.com/2022/10/26/now-elon-musk-says-he-wont-fire-75-of-twitters-staff/)
+- [China’s smartphone shipments slumped 23% in Jan-Aug](https://techcrunch.com/2022/10/26/china-smartphone-shipment-slumps/)
+- [Apis in talks to back fintech Money View at $1 billion valuation despite market slump](https://techcrunch.com/2022/10/26/apis-in-talks-to-back-fintech-money-view-at-1-billion-valuation-despite-market-slump/)
 - [GenZero’s Frederick Teo on “limitless” opportunities in climate tech](https://techcrunch.com/2022/10/26/genzeros-frederick-teo-on-limitless-opportunities-in-climate-tech/)
 - [Y’all really made Mark Zuckerberg defend himself to investors because of your memes](https://techcrunch.com/2022/10/26/mark-zuckerberg-metaverse-memes/)
-- [Daily Crunch: After buying Twitter, will Musk bite back at Apple’s in-app purchase fees?](https://techcrunch.com/2022/10/26/daily-crunch-after-buying-twitter-will-musk-bite-back-at-apples-in-app-purchase-fees/)
-- [Meta will release a new consumer-grade VR headset next year](https://techcrunch.com/2022/10/26/meta-will-release-a-new-consumer-grade-vr-headset-next-year/)
-- [Former observatory head removed from university post after &#39;unacceptable behavior&#39; allegations: report](https://www.space.com/former-observatory-head-university-post-removal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
