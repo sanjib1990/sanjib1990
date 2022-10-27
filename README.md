@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch SpaceX launch 53 Starlink satellites, land rocket at sea tonight](https://www.space.com/spacex-starlink-group-4-31-launch/)
 - [YouTube redesign gives long-form videos, Shorts and Live videos their own tabs on channel pages](https://techcrunch.com/2022/10/27/youtube-redesign-gives-long-form-videos-shorts-and-live-videos-their-own-tabs-on-channel-pages/)
 - [Daily Crunch: Mason raises $7.5M seed round to scale its no-code commerce engine](https://techcrunch.com/2022/10/27/daily-crunch-mason-raises-7-5m-seed-round-to-scale-its-no-code-commerce-engine/)
 - [Amazon accidentally exposed an internal server packed with Prime Video viewing habits](https://techcrunch.com/2022/10/27/amazon-prime-video-server-exposed/)
 - [Skidattl’s augmented reality beacons are ‘like a Bat-Signal for fun’](https://techcrunch.com/2022/10/27/skidattls-augmented-reality-beacons-are-like-a-bat-signal-for-fun/)
-- [Apple earnings see iPhone revenues up, still short of forecast](https://techcrunch.com/2022/10/27/apple-earnings-see-iphone-revenues-up-still-short-of-forecast/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
