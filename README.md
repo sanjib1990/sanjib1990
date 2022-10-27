@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dispute between founders and board leaves Capiter in arrears to employees and creditors](https://techcrunch.com/2022/10/27/dispute-between-founders-and-board-leaves-capiter-in-arrears-to-employees-and-creditors/)
 - [Samsung names Jay Y Lee executive chairman amid global economic downturn](https://techcrunch.com/2022/10/26/samsung-electronics-names-jay-y-lee-executive-chairman-amid-global-economic-downturn/)
 - [Human Impact Capital is a new $50M fund investing in social impact startups](https://techcrunch.com/2022/10/26/human-impact-capital/)
 - [Now Elon Musk says he won’t fire 75% of Twitter’s staff](https://techcrunch.com/2022/10/26/now-elon-musk-says-he-wont-fire-75-of-twitters-staff/)
 - [China’s smartphone shipments slumped 23% in Jan-Aug](https://techcrunch.com/2022/10/26/china-smartphone-shipment-slumps/)
-- [Apis in talks to back fintech Money View at $1 billion valuation despite market slump](https://techcrunch.com/2022/10/26/apis-in-talks-to-back-fintech-money-view-at-1-billion-valuation-despite-market-slump/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
