@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google acquires Twitter-backed AI avatar startup Alter for $100 million, source says](https://techcrunch.com/2022/10/27/google-acquires-twitter-backed-ai-avatar-startup-alter-for-100-million-source-says/)
-- [Meta’s metaverse wager is also a bet on founder control](https://techcrunch.com/2022/10/27/metas-metaverse-wager-is-also-a-bet-on-founder-control/)
-- [The moon is enchanting in new photos from NASA&#39;s Lucy asteroid mission](https://www.space.com/lucy-asteroid-mission-moon-photos-first-flyby/)
-- [UK Lego deal: save up to £60 with promo code at John Lewis](https://www.space.com/lego-deal-save-up-to-60-pounds-john-lewis-deal-2022/)
-- [Telegram announces username auctions on TON blockchain](https://techcrunch.com/2022/10/27/telegram-announces-username-auctions-on-ton-blockchain/)
+- [Google filing says EU’s antitrust division is investigating Play Store practices](https://techcrunch.com/2022/10/27/google-play-eu-antitrust/)
+- [Snapchat reduces total payouts for Spotlight creators](https://techcrunch.com/2022/10/27/snapchat-reduces-total-payouts-for-spotlight-creators/)
+- [Uber to freeze fake rider account names, pilot front-facing video recording](https://techcrunch.com/2022/10/27/uber-to-freeze-fake-rider-account-names-pilot-front-facing-video-recording/)
+- [Clubhouse’s Paul Davison on Twitter, the impact of hype and what happened](https://techcrunch.com/2022/10/27/clubhouses-paul-davison-on-twitter-the-impact-of-hype-and-what-happened/)
+- [YouTube’s ad revenue is declining, but creator economy experts aren’t worried](https://techcrunch.com/2022/10/27/youtubes-ad-revenue-is-declining-but-creator-economy-experts-arent-worried/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
