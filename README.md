@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple earnings see iPhone revenues up, still short of forecast](https://techcrunch.com/2022/10/27/apple-earnings-see-iphone-revenues-up-still-short-of-forecast/)
+- [NASA&#39;s ailing Mars lander feels shockwaves from ice-blasting meteoroid impact](https://www.space.com/mars-fresh-large-crater-meteor-impact/)
+- [Amazon’s income dipped in Q3 2022 as the economy took its toll](https://techcrunch.com/2022/10/27/amazons-income-dipped-in-q3-2022-as-the-economy-took-its-toll/)
+- [Cruise opens robotaxi waitlist in Austin and Phoenix](https://techcrunch.com/2022/10/27/cruise-opens-robotaxi-waitlist-in-austin-and-phoenix/)
 - [Meta is in trouble](https://techcrunch.com/2022/10/27/meta-stock-yikes/)
-- [How to raise funds when you aren’t in the Bay Area](https://techcrunch.com/2022/10/27/how-to-raise-funds-when-you-arent-in-the-bay-area/)
-- [The 1st ever Election Day Blood Moon lunar eclipse is coming on Nov. 8](https://www.space.com/moon-total-eclipse-election-day-nov-8/)
-- [Apple doesn’t want you trading NFTs on your phone &lpar;unless it makes them money&rpar;](https://techcrunch.com/2022/10/27/apple-reddit-nfts-app-store-chain-reaction-podcast/)
-- [Apple says, ‘NFTs? Yes, fees’](https://techcrunch.com/2022/10/27/chain-reaction-apple-nfts-reddit-rishi-sunak-podcast-newsletter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
