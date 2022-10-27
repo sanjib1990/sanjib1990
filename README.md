@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Persona expands beyond identity verification with new suite of services](https://techcrunch.com/2022/10/27/persona-expands-beyond-identity-verification-with-new-suite-of-services/)
-- [New York Post says its site was hacked after posting offensive tweets](https://techcrunch.com/2022/10/27/new-york-post-hacked-offensive-tweets/)
-- [Something spooky is happening at the edge of the solar system](https://www.space.com/heliopause-unusual-ripples-voyager/)
-- [Best light pollution filters for astrophotography 2022](https://www.space.com/best-light-pollution-filters-for-astrophotography/)
-- [Neoplants bioengineers houseplants to use them as air purifiers](https://techcrunch.com/2022/10/27/neoplants-bioengineers-houseplants-to-use-them-as-air-purifiers/)
+- [Uber alum rakes in $9.7M to curb finance-related fights between co-parents](https://techcrunch.com/2022/10/27/uber-alum-raises-millions-for-fintech-app-aimed-at-helping-co-parents-bicker-less-over-finances/)
+- [Magma on Mars may be bubbling underground right now](https://www.space.com/mars-maybe-volcanically-active-insight-marsquakes/)
+- [Why Rogue One is the most underrated Star Wars movie in the galaxy](https://www.space.com/why-rogue-one-is-the-most-underrated-star-wars-movie/)
+- [5 tips for launching in a crowded web3 gaming market](https://techcrunch.com/2022/10/27/5-tips-for-launching-in-a-crowded-web3-gaming-market/)
+- [Elon Musk tells advertisers that Twitter cannot become “a free-for-all hellscape”](https://techcrunch.com/2022/10/27/elon-musk-tells-advertisers-that-twitter-cannot-become-a-free-for-all-hellscape/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
