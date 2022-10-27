@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The lack of VC funding to women is a Western societal shortfall](https://techcrunch.com/2022/10/27/the-lack-of-vc-funding-to-women-is-a-western-societal-shortfall/)
-- [Solo GP secures $140M for fifth seed, third opportunity funds](https://techcrunch.com/2022/10/27/solo-gp-streamlined-ventures-140m/)
-- [HealthJoy raises $60M to make benefits easier to navigate](https://techcrunch.com/2022/10/27/healthjoy-raises-60m-to-make-benefits-easier-to-navigate/)
-- [The space fan&#39;s guide to the US midterm elections 2022](https://www.space.com/us-midterm-elections-2022-space-fans-guide/)
-- [English-learning startup ELSA launches Speech Analyzer to help people gain conversational confidence](https://techcrunch.com/2022/10/27/english-learning-startup-elsa-launches-speech-analyzer-to-help-people-gain-conversational-confidence/)
+- [Persona expands beyond identity verification with new suite of services](https://techcrunch.com/2022/10/27/persona-expands-beyond-identity-verification-with-new-suite-of-services/)
+- [New York Post says its site was hacked after posting offensive tweets](https://techcrunch.com/2022/10/27/new-york-post-hacked-offensive-tweets/)
+- [Something spooky is happening at the edge of the solar system](https://www.space.com/heliopause-unusual-ripples-voyager/)
+- [Best light pollution filters for astrophotography 2022](https://www.space.com/best-light-pollution-filters-for-astrophotography/)
+- [Neoplants bioengineers houseplants to use them as air purifiers](https://techcrunch.com/2022/10/27/neoplants-bioengineers-houseplants-to-use-them-as-air-purifiers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
