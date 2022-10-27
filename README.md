@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Uber alum rakes in $9.7M to curb finance-related fights between co-parents](https://techcrunch.com/2022/10/27/uber-alum-raises-millions-for-fintech-app-aimed-at-helping-co-parents-bicker-less-over-finances/)
+- [These eerie sounds made from a NASA flyby of Jupiter&#39;s moon Europa are haunting](https://www.space.com/juno-europa-plasma-wave-eerie-audio/)
+- [Solar eclipses 2023: When, where &amp; how to see them](https://www.space.com/33784-solar-eclipse-guide.html/)
+- [Best telescopes 2022: Top picks for viewing planets, galaxies, stars and more](https://www.space.com/15693-telescopes-beginners-telescope-reviews-buying-guide.html/)
 - [Magma on Mars may be bubbling underground right now](https://www.space.com/mars-maybe-volcanically-active-insight-marsquakes/)
 - [Why Rogue One is the most underrated Star Wars movie in the galaxy](https://www.space.com/why-rogue-one-is-the-most-underrated-star-wars-movie/)
-- [5 tips for launching in a crowded web3 gaming market](https://techcrunch.com/2022/10/27/5-tips-for-launching-in-a-crowded-web3-gaming-market/)
-- [Elon Musk tells advertisers that Twitter cannot become “a free-for-all hellscape”](https://techcrunch.com/2022/10/27/elon-musk-tells-advertisers-that-twitter-cannot-become-a-free-for-all-hellscape/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
