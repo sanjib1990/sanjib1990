@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [These eerie sounds made from a NASA flyby of Jupiter&#39;s moon Europa are haunting](https://www.space.com/juno-europa-plasma-wave-eerie-audio/)
-- [Solar eclipses 2023: When, where &amp; how to see them](https://www.space.com/33784-solar-eclipse-guide.html/)
-- [Best telescopes 2022: Top picks for viewing planets, galaxies, stars and more](https://www.space.com/15693-telescopes-beginners-telescope-reviews-buying-guide.html/)
-- [Magma on Mars may be bubbling underground right now](https://www.space.com/mars-maybe-volcanically-active-insight-marsquakes/)
-- [Why Rogue One is the most underrated Star Wars movie in the galaxy](https://www.space.com/why-rogue-one-is-the-most-underrated-star-wars-movie/)
+- [Google acquires Twitter-backed AI avatar startup Alter for $100 million, source says](https://techcrunch.com/2022/10/27/google-acquires-twitter-backed-ai-avatar-startup-alter-for-100-million-source-says/)
+- [Meta’s metaverse wager is also a bet on founder control](https://techcrunch.com/2022/10/27/metas-metaverse-wager-is-also-a-bet-on-founder-control/)
+- [The moon is enchanting in new photos from NASA&#39;s Lucy asteroid mission](https://www.space.com/lucy-asteroid-mission-moon-photos-first-flyby/)
+- [UK Lego deal: save up to £60 with promo code at John Lewis](https://www.space.com/lego-deal-save-up-to-60-pounds-john-lewis-deal-2022/)
+- [Telegram announces username auctions on TON blockchain](https://techcrunch.com/2022/10/27/telegram-announces-username-auctions-on-ton-blockchain/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
