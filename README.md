@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Accel backs startup offering ‘Amazon-grade’ commerce engine to online sellers around the world](https://techcrunch.com/2022/10/27/accel-backs-startup-offering-amazon-grade-commerce-engine-to-online-sellers-around-the-world/)
+- [Celestron Travel Scope 70 portable telescope now on sale for under $100](https://www.space.com/celestron-travel-scope-70-october-amazon-deal/)
+- [On This Day In Space: Oct. 27, 1961: NASA launches 1st Saturn rocket test flight](https://www.space.com/39251-on-this-day-in-space.html/)
 - [UK government denies fresh delay to Online Safety Bill will derail it](https://techcrunch.com/2022/10/27/online-safety-bill-second-delay/)
 - [YouTube opens up certification program for health-related channels](https://techcrunch.com/2022/10/27/youtube-opens-up-certification-program-for-health-related-channels/)
 - [Huge HAARP antenna array is bouncing radio signals off Jupiter](https://www.space.com/haarp-atmospheric-research-facility-bouncing-signals-jupiter-moon/)
-- [Watch SpaceX launch 53 Starlink satellites, land rocket at sea Thursday](https://www.space.com/spacex-starlink-group-4-31-launch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
