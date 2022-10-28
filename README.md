@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Everything we know about Dune: Part 2](https://www.space.com/dune-part-2-release-date-how-to-watch-plot-cast-and-crew/)
+- [On This Day In Space: Oct. 28, 1971: UK Launches Its 1st Satellite](https://www.space.com/39251-on-this-day-in-space.html/)
 - [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html/)
 - [Elon Musk will reportedly take the CEO role after exec exodus](https://techcrunch.com/2022/10/28/elon-musk-will-reportedly-take-the-ceo-role-after-exec-exodus/)
 - [Europe schools Elon Musk that Twitter’s wings are already clipped](https://techcrunch.com/2022/10/28/eu-schools-elon-twitter-wings-clipped/)
-- [New Earth-monitoring weather satellite prepares for launch](https://www.space.com/noaa-weather-satellite-jpss-2-earth-science/)
-- [Chinese launch next week will set stage for another big space-junk crash](https://www.space.com/china-long-march-rocket-fall-mengtian-launch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
