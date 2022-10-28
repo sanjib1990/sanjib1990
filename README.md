@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter just keeps getting more expensive](https://techcrunch.com/2022/10/28/twitter-just-keeps-getting-more-expensive/)
+- [As overall cloud infrastructure market growth dips to 24%, AWS reports slowdown](https://techcrunch.com/2022/10/28/as-overall-cloud-infrastructure-market-growth-dips-to-24-aws-reports-slowdown/)
+- [Best free 3D prints for sci-fi fans: Star Wars, Star Trek, Dune &amp; more](https://www.space.com/best-free-3d-prints-for-sci-fi-fans/)
 - [Elon Musk assumes control of Twitter as SpaceX Falcon Heavy launch looms](https://www.space.com/elon-musk-assumes-control-twitter/)
 - [Sky-Watcher telescope deals available right now](https://www.space.com/skywatcher-deals-telescopes/)
-- [The 25 scariest spaceflight moments show dangers in orbit and beyond](https://www.space.com/scariest-moments-in-spaceflight-dangers-in-orbit-beyond/)
-- [India to create committees with veto power over social media content moderation](https://techcrunch.com/2022/10/28/india-to-create-committees-with-veto-power-over-social-media-content-moderation/)
-- [White House says US would respond if Russia targets commercial satellites](https://www.space.com/white-house-response-russia-target-commercial-satellites/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
