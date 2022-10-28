@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [I regret to inform you that Elon has something to do with this](https://techcrunch.com/2022/10/28/i-regret-to-inform-you-that-elon-has-something-to-do-with-this/)
-- [Galen Robotics looks to assist ENT surgeons with new bot and $15M round](https://techcrunch.com/2022/10/28/galen-robotics-looks-to-assist-ent-surgeons-with-new-bot-and-15m-round/)
-- [Crypto bear markets are a ‘great time’ to launch startups, industry execs say](https://techcrunch.com/2022/10/28/crypto-bear-markets-are-a-great-time-to-launch-startups-industry-execs-say/)
-- [Twilio hack investigation reveals second breach, as the number of affected customers rises](https://techcrunch.com/2022/10/28/twilio-june-data-breach/)
-- [Astronomy: The oldest scientific discipline](https://www.space.com/16014-astronomy.html/)
+- [Elon Musk assumes control of Twitter as SpaceX Falcon Heavy launch looms](https://www.space.com/elon-musk-assumes-control-twitter/)
+- [Sky-Watcher telescope deals available right now](https://www.space.com/skywatcher-deals-telescopes/)
+- [The 25 scariest spaceflight moments show dangers in orbit and beyond](https://www.space.com/scariest-moments-in-spaceflight-dangers-in-orbit-beyond/)
+- [India to create committees with veto power over social media content moderation](https://techcrunch.com/2022/10/28/india-to-create-committees-with-veto-power-over-social-media-content-moderation/)
+- [White House says US would respond if Russia targets commercial satellites](https://www.space.com/white-house-response-russia-target-commercial-satellites/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
