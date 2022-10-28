@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html/)
+- [Elon Musk will reportedly take the CEO role after exec exodus](https://techcrunch.com/2022/10/28/elon-musk-will-reportedly-take-the-ceo-role-after-exec-exodus/)
+- [Europe schools Elon Musk that Twitter’s wings are already clipped](https://techcrunch.com/2022/10/28/eu-schools-elon-twitter-wings-clipped/)
 - [New Earth-monitoring weather satellite prepares for launch](https://www.space.com/noaa-weather-satellite-jpss-2-earth-science/)
 - [Chinese launch next week will set stage for another big space-junk crash](https://www.space.com/china-long-march-rocket-fall-mengtian-launch/)
-- [SpaceX hasn&#39;t flown a Falcon Heavy rocket since 2019. Here&#39;s why.](https://www.space.com/spacex-falcon-heavy-launch-drought-explainer/)
-- [54gene valuation slashed by over $100M amid job cuts and CEO exit](https://techcrunch.com/2022/10/28/54gene-valuation-slashed-by-over-100m-amid-job-cuts-and-ceo-exit/)
-- [Xiaomi winds down financial services business in India](https://techcrunch.com/2022/10/27/xiaomi-winds-down-financial-services-business-in-india/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
