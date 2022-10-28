@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [US sanctions on China could extend to biotech, official says](https://techcrunch.com/2022/10/27/us-sanctions-on-china-biotech-ai-quantum-computing/)
 - [SpaceX fires up huge Falcon Heavy rocket ahead of Nov. 1 launch](https://www.space.com/spacex-falcon-heavy-static-fire-ussf-44-mission/)
 - [SpaceX launches 53 Starlink satellites, lands rocket at sea &lpar;video&rpar;](https://www.space.com/spacex-starlink-group-4-31-launch/)
 - [Elon Musk fired top Twitter execs including CEO, reports say](https://techcrunch.com/2022/10/27/elon-musk-fired-top-twitter-execs-including-ceo-reports-say/)
 - [It happened: Elon Musk officially owns Twitter](https://techcrunch.com/2022/10/27/elon-musk-bought-twitter/)
-- [Yuga Labs’ Nicole Muniz to talk about NFTs and Bored Apes at TC Sessions: Crypto](https://techcrunch.com/2022/10/27/yuga-labs-nicole-muniz-to-talk-about-nfts-and-bored-apes-at-tc-sessions-crypto/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
