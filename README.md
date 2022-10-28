@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google’s Nest Wifi Pro is a dead simple way to bring Wi-Fi 6E home](https://techcrunch.com/2022/10/28/googles-nest-wifi-pro-is-a-dead-simple-way-to-bring-wi-fi-6e-home/)
 - [Daily Crunch: With Musk’s purchase completed, NYSE will delist Twitter stock on Election Day](https://techcrunch.com/2022/10/28/daily-crunch-with-musks-purchase-completed-nyse-will-delist-twitter-stock-on-election-day/)
 - [Cruz Foam’s chitin-based packaging brings in $18M as industries scramble to go green](https://techcrunch.com/2022/10/28/cruz-foams-chitin-based-packaging-brings-in-18m-as-industries-scramble-to-go-green/)
 - [NASA’s Psyche mission to a metal-rich asteroid is back on the books for October 2023](https://techcrunch.com/2022/10/28/nasas-psyche-mission-to-a-metal-rich-asteroid-is-back-on-the-books-for-october-2023/)
 - [Watch NASA demolish one of its buildings in Alabama on Saturday](https://www.space.com/nasa-demolish-building-marshall-space-flight-center-webcast/)
-- [The TwitterMusking and other news](https://techcrunch.com/2022/10/28/the-twittermusking-and-other-news/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
