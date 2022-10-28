@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Latinx founders see VC funding drop as investors retreat from underrepresented cohorts](https://techcrunch.com/2022/10/28/latinx-founders-see-vc-funding-drop-as-investors-retreat-from-underrepresented-cohorts/)
+- [Getting space junk under control may require an attitude shift](https://www.space.com/space-junk-fight-attitude-shift/)
+- [Venus-bound NASA instrument preparing to brave the harsh atmosphere](https://www.space.com/venus-davinci-atmospheric-probe-instrument/)
 - [Twitter just keeps getting more expensive](https://techcrunch.com/2022/10/28/twitter-just-keeps-getting-more-expensive/)
 - [As overall cloud infrastructure market growth dips to 24%, AWS reports slowdown](https://techcrunch.com/2022/10/28/as-overall-cloud-infrastructure-market-growth-dips-to-24-aws-reports-slowdown/)
-- [Best free 3D prints for sci-fi fans: Star Wars, Star Trek, Dune &amp; more](https://www.space.com/best-free-3d-prints-for-sci-fi-fans/)
-- [Elon Musk assumes control of Twitter as SpaceX Falcon Heavy launch looms](https://www.space.com/elon-musk-assumes-control-twitter/)
-- [Sky-Watcher telescope deals available right now](https://www.space.com/skywatcher-deals-telescopes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
