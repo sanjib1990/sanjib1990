@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New Earth-monitoring weather satellite prepares for launch](https://www.space.com/noaa-weather-satellite-jpss-2-earth-science/)
+- [Chinese launch next week will set stage for another big space-junk crash](https://www.space.com/china-long-march-rocket-fall-mengtian-launch/)
+- [SpaceX hasn&#39;t flown a Falcon Heavy rocket since 2019. Here&#39;s why.](https://www.space.com/spacex-falcon-heavy-launch-drought-explainer/)
 - [54gene valuation slashed by over $100M amid job cuts and CEO exit](https://techcrunch.com/2022/10/28/54gene-valuation-slashed-by-over-100m-amid-job-cuts-and-ceo-exit/)
 - [Xiaomi winds down financial services business in India](https://techcrunch.com/2022/10/27/xiaomi-winds-down-financial-services-business-in-india/)
-- [US sanctions on China could extend to biotech, official says](https://techcrunch.com/2022/10/27/us-sanctions-on-china-biotech-ai-quantum-computing/)
-- [SpaceX fires up huge Falcon Heavy rocket ahead of Nov. 1 launch](https://www.space.com/spacex-falcon-heavy-static-fire-ussf-44-mission/)
-- [SpaceX launches 53 Starlink satellites, lands rocket at sea &lpar;video&rpar;](https://www.space.com/spacex-starlink-group-4-31-launch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
