@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I regret to inform you that Elon has something to do with this](https://techcrunch.com/2022/10/28/i-regret-to-inform-you-that-elon-has-something-to-do-with-this/)
 - [Galen Robotics looks to assist ENT surgeons with new bot and $15M round](https://techcrunch.com/2022/10/28/galen-robotics-looks-to-assist-ent-surgeons-with-new-bot-and-15m-round/)
 - [Crypto bear markets are a ‘great time’ to launch startups, industry execs say](https://techcrunch.com/2022/10/28/crypto-bear-markets-are-a-great-time-to-launch-startups-industry-execs-say/)
 - [Twilio hack investigation reveals second breach, as the number of affected customers rises](https://techcrunch.com/2022/10/28/twilio-june-data-breach/)
 - [Astronomy: The oldest scientific discipline](https://www.space.com/16014-astronomy.html/)
-- [Hubble Space Telescope watches galaxies&#39; destructive dance in new photo](https://www.space.com/hubble-space-telescope-warped-spiral-galaxies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
