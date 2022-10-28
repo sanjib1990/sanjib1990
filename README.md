@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Next-generation inflatable Mars landing gear to get a test during launch next week](https://www.space.com/nasa-inflatable-mars-landing-gear-loftid-test-flight/)
-- [James Webb Space Telescope snaps new, super-spooky image of Pillars of Creation](https://www.space.com/james-webb-space-telescope-pillars-creation-miri/)
-- [Venus-bound NASA instrument preparing to brave the harsh atmosphere](https://www.space.com/venus-davinci-atmospheric-probe-instrument/)
-- [Elon Musk says Twitter will form a content moderation ‘council’ before deciding on Trump](https://techcrunch.com/2022/10/28/elon-musk-twitter-trump-content-moderation-council/)
-- [Watch Europe&#39;s Solar Orbiter get up close and personal with the sun&#39;s corona &lpar;video&rpar;](https://www.space.com/closest-video-sun-corona-solar-orbiter/)
+- [Cruz Foam’s chitin-based packaging brings in $18M as industries scramble to go green](https://techcrunch.com/2022/10/28/cruz-foams-chitin-based-packaging-brings-in-18m-as-industries-scramble-to-go-green/)
+- [NASA’s Psyche mission to a metal-rich asteroid is back on the books for October 2023](https://techcrunch.com/2022/10/28/nasas-psyche-mission-to-a-metal-rich-asteroid-is-back-on-the-books-for-october-2023/)
+- [Watch NASA demolish one of its buildings in Alabama on Saturday](https://www.space.com/nasa-demolish-building-marshall-space-flight-center-webcast/)
+- [The TwitterMusking and other news](https://techcrunch.com/2022/10/28/the-twittermusking-and-other-news/)
+- [Listen to the terrifying rumble of Earth&#39;s magnetic field being assaulted by a solar storm](https://www.space.com/earth-magnetic-field-sonified-spooky-audio/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
