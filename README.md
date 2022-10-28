@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch European probe get up close and personal with the sun&#39;s corona &lpar;video&rpar;](https://www.space.com/closest-video-sun-corona-solar-orbiter/)
-- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates/)
-- [SpaceX astronaut missions for NASA: Crew-4 landing updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates/)
-- [Boeing Starliner: Live updates](https://www.space.com/news/live/boeing-starliner-oft-2-live-updates/)
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
+- [Next-generation inflatable Mars landing gear to get a test during launch next week](https://www.space.com/nasa-inflatable-mars-landing-gear-loftid-test-flight/)
+- [James Webb Space Telescope snaps new, super-spooky image of Pillars of Creation](https://www.space.com/james-webb-space-telescope-pillars-creation-miri/)
+- [Venus-bound NASA instrument preparing to brave the harsh atmosphere](https://www.space.com/venus-davinci-atmospheric-probe-instrument/)
+- [Elon Musk says Twitter will form a content moderation ‘council’ before deciding on Trump](https://techcrunch.com/2022/10/28/elon-musk-twitter-trump-content-moderation-council/)
+- [Watch Europe&#39;s Solar Orbiter get up close and personal with the sun&#39;s corona &lpar;video&rpar;](https://www.space.com/closest-video-sun-corona-solar-orbiter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
