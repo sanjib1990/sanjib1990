@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Everything we know about Dune: Part 2](https://www.space.com/dune-part-2-release-date-how-to-watch-plot-cast-and-crew/)
-- [On This Day In Space: Oct. 28, 1971: UK Launches Its 1st Satellite](https://www.space.com/39251-on-this-day-in-space.html/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html/)
-- [Elon Musk will reportedly take the CEO role after exec exodus](https://techcrunch.com/2022/10/28/elon-musk-will-reportedly-take-the-ceo-role-after-exec-exodus/)
-- [Europe schools Elon Musk that Twitter’s wings are already clipped](https://techcrunch.com/2022/10/28/eu-schools-elon-twitter-wings-clipped/)
+- [Galen Robotics looks to assist ENT surgeons with new bot and $15M round](https://techcrunch.com/2022/10/28/galen-robotics-looks-to-assist-ent-surgeons-with-new-bot-and-15m-round/)
+- [Crypto bear markets are a ‘great time’ to launch startups, industry execs say](https://techcrunch.com/2022/10/28/crypto-bear-markets-are-a-great-time-to-launch-startups-industry-execs-say/)
+- [Twilio hack investigation reveals second breach, as the number of affected customers rises](https://techcrunch.com/2022/10/28/twilio-june-data-breach/)
+- [Astronomy: The oldest scientific discipline](https://www.space.com/16014-astronomy.html/)
+- [Hubble Space Telescope watches galaxies&#39; destructive dance in new photo](https://www.space.com/hubble-space-telescope-warped-spiral-galaxies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
