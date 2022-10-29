@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GM pauses paid advertising on Twitter as Chief Twit Elon Musk takes ownership](https://techcrunch.com/2022/10/28/gm-pauses-paid-advertising-on-twitter-as-chief-twit-elon-musk-takes-ownership/)
+- [NASA won&#39;t cancel Psyche asteroid mission, targets October 2023 launch](https://www.space.com/nasa-continue-psyche-asteroid-mission-2023-launch/)
 - [Google’s Nest Wifi Pro is a dead simple way to bring Wi-Fi 6E home](https://techcrunch.com/2022/10/28/googles-nest-wifi-pro-is-a-dead-simple-way-to-bring-wi-fi-6e-home/)
 - [Daily Crunch: With Musk’s purchase completed, NYSE will delist Twitter stock on Election Day](https://techcrunch.com/2022/10/28/daily-crunch-with-musks-purchase-completed-nyse-will-delist-twitter-stock-on-election-day/)
 - [Cruz Foam’s chitin-based packaging brings in $18M as industries scramble to go green](https://techcrunch.com/2022/10/28/cruz-foams-chitin-based-packaging-brings-in-18m-as-industries-scramble-to-go-green/)
-- [NASA’s Psyche mission to a metal-rich asteroid is back on the books for October 2023](https://techcrunch.com/2022/10/28/nasas-psyche-mission-to-a-metal-rich-asteroid-is-back-on-the-books-for-october-2023/)
-- [Watch NASA demolish one of its buildings in Alabama on Saturday](https://www.space.com/nasa-demolish-building-marshall-space-flight-center-webcast/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
