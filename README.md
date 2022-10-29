@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Get $70 off the Celestron AstroMaster 130 EQ telescope](https://www.space.com/celestron-astromaster-130eq-october-deal-save-70-dollars/)
 - [See NASA destroy its vintage Marshall Space Flight Center headquarters &lpar;video&rpar;](https://www.space.com/nasa-demolish-building-marshall-space-flight-center-webcast/)
 - [This Week In Space podcast: Episode 35 —A Man on the Moon with author Andy Chaikin](https://www.space.com/this-week-in-space-podcast-twit/)
 - [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html/)
 - [On This Day In Space: Oct. 29, 1991: Galileo spacecraft flies by Asteroid Gaspra](https://www.space.com/39251-on-this-day-in-space.html/)
-- [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
