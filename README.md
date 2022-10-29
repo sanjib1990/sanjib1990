@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html/)
 - [Red Planet&#39;s massive dust storm finally weakening as Mars changes seasons](https://www.space.com/mars-massive-dust-storm-october-2022-update/)
 - [NASA study calls for Apollo site protection among lunar surface ops policies](https://www.space.com/nasa-lunar-landing-policy-analysis-apollo-protect/)
 - [Earth-monitoring JPSS-2 satellite is &#39;go&#39; for liftoff on Tuesday](https://www.space.com/jpss-2-weather-satellite-go-for-launch/)
 - [Join the hunt for elusive spooky sprites in the sky with this &#39;Spritacular&#39; project](https://www.space.com/sprite-citizen-science-project-skywatcher-photography/)
-- [Why “generative AI” is suddenly on everyone’s lips: it’s an “open field”](https://techcrunch.com/2022/10/28/generative-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
