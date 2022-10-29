@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why “generative AI” is suddenly on everyone’s lips: it’s an “open field”](https://techcrunch.com/2022/10/28/generative-ai/)
+- [Stratolaunch&#39;s Roc, the world&#39;s largest plane, aces 1st flight carrying hypersonic prototype](https://www.space.com/stratolaunch-hypersonic-prototype-first-captive-flight/)
 - [GM pauses paid advertising on Twitter as Chief Twit Elon Musk takes ownership](https://techcrunch.com/2022/10/28/gm-pauses-paid-advertising-on-twitter-as-chief-twit-elon-musk-takes-ownership/)
 - [NASA won&#39;t cancel Psyche asteroid mission, targets October 2023 launch](https://www.space.com/nasa-continue-psyche-asteroid-mission-2023-launch/)
 - [Google’s Nest Wifi Pro is a dead simple way to bring Wi-Fi 6E home](https://techcrunch.com/2022/10/28/googles-nest-wifi-pro-is-a-dead-simple-way-to-bring-wi-fi-6e-home/)
-- [Daily Crunch: With Musk’s purchase completed, NYSE will delist Twitter stock on Election Day](https://techcrunch.com/2022/10/28/daily-crunch-with-musks-purchase-completed-nyse-will-delist-twitter-stock-on-election-day/)
-- [Cruz Foam’s chitin-based packaging brings in $18M as industries scramble to go green](https://techcrunch.com/2022/10/28/cruz-foams-chitin-based-packaging-brings-in-18m-as-industries-scramble-to-go-green/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
