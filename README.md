@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Red Planet&#39;s massive dust storm finally weakening as Mars changes seasons](https://www.space.com/mars-massive-dust-storm-october-2022-update/)
+- [NASA study calls for Apollo site protection among lunar surface ops policies](https://www.space.com/nasa-lunar-landing-policy-analysis-apollo-protect/)
+- [Earth-monitoring JPSS-2 satellite is &#39;go&#39; for liftoff on Tuesday](https://www.space.com/jpss-2-weather-satellite-go-for-launch/)
+- [Join the hunt for elusive spooky sprites in the sky with this &#39;Spritacular&#39; project](https://www.space.com/sprite-citizen-science-project-skywatcher-photography/)
 - [Why “generative AI” is suddenly on everyone’s lips: it’s an “open field”](https://techcrunch.com/2022/10/28/generative-ai/)
-- [Stratolaunch&#39;s Roc, the world&#39;s largest plane, aces 1st flight carrying hypersonic prototype](https://www.space.com/stratolaunch-hypersonic-prototype-first-captive-flight/)
-- [GM pauses paid advertising on Twitter as Chief Twit Elon Musk takes ownership](https://techcrunch.com/2022/10/28/gm-pauses-paid-advertising-on-twitter-as-chief-twit-elon-musk-takes-ownership/)
-- [NASA won&#39;t cancel Psyche asteroid mission, targets October 2023 launch](https://www.space.com/nasa-continue-psyche-asteroid-mission-2023-launch/)
-- [Google’s Nest Wifi Pro is a dead simple way to bring Wi-Fi 6E home](https://techcrunch.com/2022/10/28/googles-nest-wifi-pro-is-a-dead-simple-way-to-bring-wi-fi-6e-home/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
