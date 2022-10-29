@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Let’s check in on community-focused startups](https://techcrunch.com/2022/10/29/lets-check-in-on-community-focused-startups/)
 - [Hubble telescope peeks through &#39;cosmic keyhole&#39; in stunning photo](https://www.space.com/hubble-cosmic-keyhole-stellar-nursery/)
 - [Get $70 off the Celestron AstroMaster 130 EQ telescope](https://www.space.com/celestron-astromaster-130eq-october-deal-save-70-dollars/)
 - [See NASA destroy its vintage Marshall Space Flight Center headquarters &lpar;video&rpar;](https://www.space.com/nasa-demolish-building-marshall-space-flight-center-webcast/)
 - [This Week In Space podcast: Episode 35 —A Man on the Moon with author Andy Chaikin](https://www.space.com/this-week-in-space-podcast-twit/)
-- [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
