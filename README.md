@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See NASA destroy its vintage Marshall Space Flight Center headquarters &lpar;video&rpar;](https://www.space.com/nasa-demolish-building-marshall-space-flight-center-webcast/)
+- [This Week In Space podcast: Episode 35 —A Man on the Moon with author Andy Chaikin](https://www.space.com/this-week-in-space-podcast-twit/)
+- [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html/)
+- [On This Day In Space: Oct. 29, 1991: Galileo spacecraft flies by Asteroid Gaspra](https://www.space.com/39251-on-this-day-in-space.html/)
 - [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html/)
-- [Red Planet&#39;s massive dust storm finally weakening as Mars changes seasons](https://www.space.com/mars-massive-dust-storm-october-2022-update/)
-- [NASA study calls for Apollo site protection among lunar surface ops policies](https://www.space.com/nasa-lunar-landing-policy-analysis-apollo-protect/)
-- [Earth-monitoring JPSS-2 satellite is &#39;go&#39; for liftoff on Tuesday](https://www.space.com/jpss-2-weather-satellite-go-for-launch/)
-- [Join the hunt for elusive spooky sprites in the sky with this &#39;Spritacular&#39; project](https://www.space.com/sprite-citizen-science-project-skywatcher-photography/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
