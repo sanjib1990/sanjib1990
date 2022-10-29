@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Elon Musk completes Twitter purchase, Meta’s in trouble and it’s time to admit self-driving cars ain’t gonna happen](https://techcrunch.com/2022/10/29/elon-musk-twitter-metas-in-trouble-and-its-time-to-admit-self-driving-cars/)
 - [Venture capital will soon be brimming with ghosts](https://techcrunch.com/2022/10/29/venture-capital-will-soon-be-brimming-with-ghosts/)
 - [This Week in Apps: Elon buys Twitter, new App Store rules, gambling ads backlash](https://techcrunch.com/2022/10/29/this-week-in-apps-elon-buys-twitter-new-app-store-rules-gambling-ads-backlash/)
 - [Should early-stage startups join in on the cloud marketplace fun?](https://techcrunch.com/2022/10/29/should-early-stage-startups-join-in-on-the-cloud-marketplace-fun/)
 - [What if your startup doesn’t take off overnight?](https://techcrunch.com/2022/10/29/what-if-your-startup-doesnt-take-off-overnight/)
-- [Let’s check in on community-focused startups](https://techcrunch.com/2022/10/29/lets-check-in-on-community-focused-startups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
