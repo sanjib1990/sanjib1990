@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Venture capital will soon be brimming with ghosts](https://techcrunch.com/2022/10/29/venture-capital-will-soon-be-brimming-with-ghosts/)
+- [This Week in Apps: Elon buys Twitter, new App Store rules, gambling ads backlash](https://techcrunch.com/2022/10/29/this-week-in-apps-elon-buys-twitter-new-app-store-rules-gambling-ads-backlash/)
 - [Should early-stage startups join in on the cloud marketplace fun?](https://techcrunch.com/2022/10/29/should-early-stage-startups-join-in-on-the-cloud-marketplace-fun/)
 - [What if your startup doesn’t take off overnight?](https://techcrunch.com/2022/10/29/what-if-your-startup-doesnt-take-off-overnight/)
 - [Let’s check in on community-focused startups](https://techcrunch.com/2022/10/29/lets-check-in-on-community-focused-startups/)
-- [Hubble telescope peeks through &#39;cosmic keyhole&#39; in stunning photo](https://www.space.com/hubble-cosmic-keyhole-stellar-nursery/)
-- [Get $70 off the Celestron AstroMaster 130 EQ telescope](https://www.space.com/celestron-astromaster-130eq-october-deal-save-70-dollars/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
