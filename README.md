@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Atoms: What are they and how do they build the elements?](https://www.space.com/atoms-definition-history-facts/)
+- [Best Minecraft space mods and builds: explore the cosmos, one block at a time](https://www.space.com/best-minecraft-space-mods/)
+- [&#39;Star Trek: Defiant&#39; comic sees Worf and Spock form a dream team crew](https://www.space.com/star-trek-defiant-comic-worf-2023/)
 - [Curious Kids: What is exotic matter, and could we use it to make wormholes?](https://www.space.com/curious-kids-what-is-exotic-matter-and-could-we-use-it-to-make-wormholes/)
+- [Atoms: What are they and how do they build the elements?](https://www.space.com/atoms-definition-history-facts/)
 - [Elon Musk completes Twitter purchase, Meta’s in trouble and it’s time to admit self-driving cars ain’t gonna happen](https://techcrunch.com/2022/10/29/elon-musk-twitter-metas-in-trouble-and-its-time-to-admit-self-driving-cars/)
-- [Venture capital will soon be brimming with ghosts](https://techcrunch.com/2022/10/29/venture-capital-will-soon-be-brimming-with-ghosts/)
-- [This Week in Apps: Elon buys Twitter, new App Store rules, gambling ads backlash](https://techcrunch.com/2022/10/29/this-week-in-apps-elon-buys-twitter-new-app-store-rules-gambling-ads-backlash/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
