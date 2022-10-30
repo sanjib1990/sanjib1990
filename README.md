@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Remote work is here to stay. Here’s how to manage your staff from afar](https://techcrunch.com/2022/10/30/remote-work-is-here-to-stay-heres-how-to-manage-your-staff-from-afar/)
 - [3 founders discuss how to navigate the nuances of early-stage fundraising](https://techcrunch.com/2022/10/30/3-founders-discuss-how-to-navigate-the-nuances-of-early-stage-fundraising/)
 - [Dracarys! This spiral galaxy in the constellation Draco is helping astronomers measure the universe](https://www.space.com/hubble-telescope-dragon-spiral-galaxy-photo/)
 - [On This Day In Space: Oct. 30, 1964: 1st Flight of the Lunar Landing Research Vehicle](https://www.space.com/39251-on-this-day-in-space.html/)
 - [A skyscraper-sized &#39;potentially hazardous&#39; asteroid will zip through Earth&#39;s orbit on Halloween](https://www.space.com/halloween-asteroid-2022-potentially-hazardous/)
-- [Best Minecraft space mods and builds: explore the cosmos, one block at a time](https://www.space.com/best-minecraft-space-mods/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
