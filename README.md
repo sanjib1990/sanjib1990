@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dracarys! This spiral galaxy in the constellation Draco is helping astronomers measure the universe](https://www.space.com/hubble-telescope-dragon-spiral-galaxy-photo/)
 - [On This Day In Space: Oct. 30, 1964: 1st Flight of the Lunar Landing Research Vehicle](https://www.space.com/39251-on-this-day-in-space.html/)
 - [A skyscraper-sized &#39;potentially hazardous&#39; asteroid will zip through Earth&#39;s orbit on Halloween](https://www.space.com/halloween-asteroid-2022-potentially-hazardous/)
 - [Best Minecraft space mods and builds: explore the cosmos, one block at a time](https://www.space.com/best-minecraft-space-mods/)
 - [&#39;Star Trek: Defiant&#39; comic sees Worf and Spock form a dream team crew](https://www.space.com/star-trek-defiant-comic-worf-2023/)
-- [Curious Kids: What is exotic matter, and could we use it to make wormholes?](https://www.space.com/curious-kids-what-is-exotic-matter-and-could-we-use-it-to-make-wormholes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
