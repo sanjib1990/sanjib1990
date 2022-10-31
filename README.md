@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon to delist top seller Appario on India marketplace amid regulatory heat](https://techcrunch.com/2022/10/31/amazon-to-delist-top-seller-appario-on-india-marketplace-amid-regulatory-heat/)
+- [On This Day In Space: Oct. 31, 2015: Skull-shaped Halloween asteroid flies by Earth](https://www.space.com/39251-on-this-day-in-space.html/)
+- [NASA has a life-detecting instrument ready to fly to Europa or Enceladus](https://www.space.com/life-detecting-instrument-ready-study-europa-enceladus/)
 - [Mobileye cruises into the public market and inside the Argo AI collapse](https://techcrunch.com/2022/10/31/mobileye-cruises-into-the-public-market-and-inside-the-argo-ai-collapse/)
 - [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html/)
-- [Launch of JPSS-2 weather satellite delayed to Nov. 9](https://www.space.com/jpss-2-weather-satellite-launch-delay-battery/)
-- [NASA seeks origin of &#39;weird&#39; fast-spinning dwarf planet Haumea](https://www.space.com/dwarf-planet-haumea-weird-fast-spin-origin/)
-- [Watch SpaceX launch a Falcon Heavy for the first time in three years](https://techcrunch.com/2022/10/31/watch-spacex-launch-a-falcon-heavy-for-the-first-time-in-three-years/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
