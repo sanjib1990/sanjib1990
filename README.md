@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mobileye cruises into the public market and inside the Argo AI collapse](https://techcrunch.com/2022/10/31/mobileye-cruises-into-the-public-market-and-inside-the-argo-ai-collapse/)
+- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html/)
 - [Launch of JPSS-2 weather satellite delayed to Nov. 9](https://www.space.com/jpss-2-weather-satellite-launch-delay-battery/)
 - [NASA seeks origin of &#39;weird&#39; fast-spinning dwarf planet Haumea](https://www.space.com/dwarf-planet-haumea-weird-fast-spin-origin/)
 - [Watch SpaceX launch a Falcon Heavy for the first time in three years](https://techcrunch.com/2022/10/31/watch-spacex-launch-a-falcon-heavy-for-the-first-time-in-three-years/)
-- [Bengaluru launches QR train ticketing service on WhatsApp](https://techcrunch.com/2022/10/31/india-bengaluru-metro-whatsapp-qr-ticketing-service/)
-- [Invygo raises $10M to make long-term car subscription a breeze](https://techcrunch.com/2022/10/31/invygo-raises-10m-to-make-long-term-car-subscription-a-breeze/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
