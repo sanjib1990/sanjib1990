@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Digital assets marketplace Creative Fabrica launches generative AI tool](https://techcrunch.com/2022/10/31/digital-assets-marketplace-creative-fabrica-launches-generative-ai-tool/)
+- [Mars moon mystery: Strange structures found inside &#39;fearful&#39; Phobos](https://www.space.com/phobos-radar-unknown-structures-mars-express/)
+- [TuSimple CEO and co-founder fired by board over ties to Chinese startup Hydron](https://techcrunch.com/2022/10/31/tusimple-ceo-and-co-founder-fired-by-board-over-ties-to-chinese-startup-hydron/)
+- [Google gets into the Halloween spirit with a ghostly multiplayer interactive Doodle](https://techcrunch.com/2022/10/31/google-halloween-ghostly-multiplayer-interactive-doodle/)
 - [Satellite peers at a creepy iceberg&#39;s &#39;Halloween crack&#39; &lpar;photo&rpar;](https://www.space.com/iceberg-halloween-crack-antarctica-satellite-photo/)
-- [Haunting photo of dead &#39;ghost star&#39; a cosmic Halloween treat](https://www.space.com/supernova-dead-star-ghost-european-space-observatory/)
-- [These founders landed early checks by being savvy about social media](https://techcrunch.com/2022/10/31/these-founders-landed-early-checks-by-being-savvy-about-social-media/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html/)
-- [China launches final module to complete Tiangong space station &lpar;video&rpar;](https://www.space.com/china-launches-mengtian-module-tiangong-space-station/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
