@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to effectively manage a remote team during wartime](https://techcrunch.com/2022/10/31/how-to-effectively-manage-a-remote-team-during-wartime/)
-- [Money Fellows, an Egyptian fintech digitizing money circles, raises $31M funding](https://techcrunch.com/2022/10/31/money-fellows-an-egyptian-fintech-digitizing-money-circles-raises-31m-funding/)
-- [Zebra Labs raises $5M to help Chinese celebrities enter the metaverse](https://techcrunch.com/2022/10/30/zebra-labs-5m-chinese-celebrities-metaverse/)
-- [Elon Musk refutes Twitter layoff timing to affect year-end compensation](https://techcrunch.com/2022/10/30/elon-musk-refutes-twitter-layoffs-timing-to-affect-year-end-compensation/)
-- [Remote work is here to stay. Here’s how to manage your staff from afar](https://techcrunch.com/2022/10/30/remote-work-is-here-to-stay-heres-how-to-manage-your-staff-from-afar/)
+- [Launch of JPSS-2 weather satellite delayed to Nov. 9](https://www.space.com/jpss-2-weather-satellite-launch-delay-battery/)
+- [NASA seeks origin of &#39;weird&#39; fast-spinning dwarf planet Haumea](https://www.space.com/dwarf-planet-haumea-weird-fast-spin-origin/)
+- [Watch SpaceX launch a Falcon Heavy for the first time in three years](https://techcrunch.com/2022/10/31/watch-spacex-launch-a-falcon-heavy-for-the-first-time-in-three-years/)
+- [Bengaluru launches QR train ticketing service on WhatsApp](https://techcrunch.com/2022/10/31/india-bengaluru-metro-whatsapp-qr-ticketing-service/)
+- [Invygo raises $10M to make long-term car subscription a breeze](https://techcrunch.com/2022/10/31/invygo-raises-10m-to-make-long-term-car-subscription-a-breeze/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
