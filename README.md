@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Arnica raises $7M to improve software supply chain security](https://techcrunch.com/2022/10/31/arnica-raises-7m-to-improve-software-supply-chain-security/)
-- [Immutable onboarded more web3 games in Q3 than any other quarter, co-founder says](https://techcrunch.com/2022/10/31/immutable-onboarded-more-web3-games-in-q3-than-any-other-quarter-co-founder-says/)
-- [NASA&#39;s Artemis 1 moon rocket &#39;on track&#39; to roll out to pad Friday &lpar;Nov. 4&rpar;](https://www.space.com/nasa-artemis-1-moon-rocket-roll-out-nov-4/)
-- [&#39;Play ball!&#39; Space station astronauts celebrate World Series with an orbital pitch](https://www.space.com/international-space-station-world-series-pitch-2022/)
-- [Shopify acquires Remix to bolster its storefront design tools](https://techcrunch.com/2022/10/31/shopify-acquires-remix-to-bolster-its-storefront-design-tools/)
+- [Daily Crunch: SpaceX set to launch two spacecraft tomorrow aboard Falcon Heavy rocket](https://techcrunch.com/2022/10/31/daily-crunch-spacex-set-to-launch-two-spacecraft-tomorrow-aboard-falcon-heavy-rocket/)
+- [Max Q: Halloween special](https://techcrunch.com/2022/10/31/max-q-halloween-special/)
+- [&#39;Invaders From Mars&#39; are landing! Celebrate 70th anniversary with restored Blu-Ray and 4K versions](https://www.space.com/invaders-from-mars-classic-sci-fi-blu-ray-4k/)
+- [Elon Musk’s Twitter already looks grim for the LGBTQ community](https://techcrunch.com/2022/10/31/elon-musk-twitter-lgbt-community/)
+- [OpenSea CEO Devin Finzer discusses staying on top of a turbulent NFT market at TC Sessions: Crypto](https://techcrunch.com/2022/10/31/opensea-ceo-devin-finzer-discusses-staying-on-top-of-a-turbulent-nft-market-at-tc-sessions-crypto/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
