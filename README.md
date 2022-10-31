@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to effectively manage a remote team during wartime](https://techcrunch.com/2022/10/31/how-to-effectively-manage-a-remote-team-during-wartime/)
 - [Money Fellows, an Egyptian fintech digitizing money circles, raises $31M funding](https://techcrunch.com/2022/10/31/money-fellows-an-egyptian-fintech-digitizing-money-circles-raises-31m-funding/)
 - [Zebra Labs raises $5M to help Chinese celebrities enter the metaverse](https://techcrunch.com/2022/10/30/zebra-labs-5m-chinese-celebrities-metaverse/)
 - [Elon Musk refutes Twitter layoff timing to affect year-end compensation](https://techcrunch.com/2022/10/30/elon-musk-refutes-twitter-layoffs-timing-to-affect-year-end-compensation/)
 - [Remote work is here to stay. Here’s how to manage your staff from afar](https://techcrunch.com/2022/10/30/remote-work-is-here-to-stay-heres-how-to-manage-your-staff-from-afar/)
-- [3 founders discuss how to navigate the nuances of early-stage fundraising](https://techcrunch.com/2022/10/30/3-founders-discuss-how-to-navigate-the-nuances-of-early-stage-fundraising/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
