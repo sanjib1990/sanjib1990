@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon to delist top seller Appario on India marketplace amid regulatory heat](https://techcrunch.com/2022/10/31/amazon-to-delist-top-seller-appario-on-india-marketplace-amid-regulatory-heat/)
-- [On This Day In Space: Oct. 31, 2015: Skull-shaped Halloween asteroid flies by Earth](https://www.space.com/39251-on-this-day-in-space.html/)
-- [NASA has a life-detecting instrument ready to fly to Europa or Enceladus](https://www.space.com/life-detecting-instrument-ready-study-europa-enceladus/)
-- [Mobileye cruises into the public market and inside the Argo AI collapse](https://techcrunch.com/2022/10/31/mobileye-cruises-into-the-public-market-and-inside-the-argo-ai-collapse/)
-- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html/)
+- [Halloween night sky 2022: See Jupiter, Mars and maybe some spooky fireballs](https://www.space.com/42289-halloween-night-sky-guide.html/)
+- [Topline Pro grabs $5M to help home service businesses scale online](https://techcrunch.com/2022/10/31/topline-pro-5m-home-service-business/)
+- [6 reasons why you shouldn’t join an accelerator](https://techcrunch.com/2022/10/31/6-reasons-why-you-shouldnt-join-an-accelerator/)
+- [Watch SpaceX&#39;s Falcon Heavy launch for 1st time since 2019 on Tuesday](https://www.space.com/spacex-falcon-heavy-ussf-44-launch-preview/)
+- [Contract lifecycle management vendor Icertis secures $150M in debt to stave off rivals](https://techcrunch.com/2022/10/31/contract-lifecycle-management-vendor-icertis-secures-150m-in-debt-to-stave-off-rivals/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
