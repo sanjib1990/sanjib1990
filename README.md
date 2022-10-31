@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [With Bret Taylor out as Twitter board chair, he can focus entirely on Salesforce](https://techcrunch.com/2022/10/31/with-bret-taylor-out-as-twitter-board-chair-he-can-focus-entirely-on-salesforce/)
-- [Elon Musk tells Europe that Twitter will comply with bloc’s illegal speech rules](https://techcrunch.com/2022/10/31/elon-musk-twitter-dsa-comply/)
-- [Netflix acquires Seattle-based cozy games developer Spry Fox](https://techcrunch.com/2022/10/31/netflix-acquires-seattle-based-cozy-games-developer-spry-fox/)
-- [NASA plans its second human moon landing on Artemis 4 after all: report](https://www.space.com/nasa-artemis-4-second-moon-landing/)
-- [With board’s dissolution, Elon is ‘sole director’ of Twitter](https://techcrunch.com/2022/10/31/with-boards-dissolution-elon-is-sole-director-of-twitter/)
+- [Arnica raises $7M to improve software supply chain security](https://techcrunch.com/2022/10/31/arnica-raises-7m-to-improve-software-supply-chain-security/)
+- [Immutable onboarded more web3 games in Q3 than any other quarter, co-founder says](https://techcrunch.com/2022/10/31/immutable-onboarded-more-web3-games-in-q3-than-any-other-quarter-co-founder-says/)
+- [NASA&#39;s Artemis 1 moon rocket &#39;on track&#39; to roll out to pad Friday &lpar;Nov. 4&rpar;](https://www.space.com/nasa-artemis-1-moon-rocket-roll-out-nov-4/)
+- [&#39;Play ball!&#39; Space station astronauts celebrate World Series with an orbital pitch](https://www.space.com/international-space-station-world-series-pitch-2022/)
+- [Shopify acquires Remix to bolster its storefront design tools](https://techcrunch.com/2022/10/31/shopify-acquires-remix-to-bolster-its-storefront-design-tools/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
