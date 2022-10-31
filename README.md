@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA plans its second human moon landing on Artemis 4 after all: report](https://www.space.com/nasa-artemis-4-second-moon-landing/)
+- [With board’s dissolution, Elon is ‘sole director’ of Twitter](https://techcrunch.com/2022/10/31/with-boards-dissolution-elon-is-sole-director-of-twitter/)
+- [I’m not really in the mood to finance your vanity project](https://techcrunch.com/2022/10/31/im-not-really-in-the-mood-to-finance-your-vanity-project/)
+- [Mastodon’s microblogging app saw a record number of downloads after Musk’s Twitter takeover](https://techcrunch.com/2022/10/31/mastodons-microblogging-app-saw-a-record-number-of-downloads-after-musks-twitter-takeover/)
 - [Digital assets marketplace Creative Fabrica launches generative AI tool](https://techcrunch.com/2022/10/31/digital-assets-marketplace-creative-fabrica-launches-generative-ai-tool/)
-- [Mars moon mystery: Strange structures found inside &#39;fearful&#39; Phobos](https://www.space.com/phobos-radar-unknown-structures-mars-express/)
-- [TuSimple CEO and co-founder fired by board over ties to Chinese startup Hydron](https://techcrunch.com/2022/10/31/tusimple-ceo-and-co-founder-fired-by-board-over-ties-to-chinese-startup-hydron/)
-- [Google gets into the Halloween spirit with a ghostly multiplayer interactive Doodle](https://techcrunch.com/2022/10/31/google-halloween-ghostly-multiplayer-interactive-doodle/)
-- [Satellite peers at a creepy iceberg&#39;s &#39;Halloween crack&#39; &lpar;photo&rpar;](https://www.space.com/iceberg-halloween-crack-antarctica-satellite-photo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
