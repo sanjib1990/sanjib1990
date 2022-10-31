@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Twitter Blue’s troubles: Twitter’s app has only generated $6.4M in consumer spending to date](https://techcrunch.com/2022/10/31/twitter-blues-troubles-twitters-app-has-only-generated-6-4m-in-consumer-spending-to-date/)
-- [Hubble spies a cosmic &#39;spider web&#39; containing clues to dark secret](https://www.space.com/hubble-cosmic-cobweb-clues-dark-matter/)
-- [Contraline erects $7.2M for contraceptive implants for men](https://techcrunch.com/2022/10/31/contraline-investment/)
-- [Elon Musk’s plan to charge for Twitter verification will be a misinformation nightmare](https://techcrunch.com/2022/10/31/elon-musk-pay-verified-twitter-misinformation/)
-- [Forget the metaverse: Meta should make a new Twitter](https://techcrunch.com/2022/10/31/forget-the-metaverse-meta-should-make-a-new-twitter/)
+- [Satellite peers at a creepy iceberg&#39;s &#39;Halloween crack&#39; &lpar;photo&rpar;](https://www.space.com/iceberg-halloween-crack-antarctica-satellite-photo/)
+- [Haunting photo of dead &#39;ghost star&#39; a cosmic Halloween treat](https://www.space.com/supernova-dead-star-ghost-european-space-observatory/)
+- [These founders landed early checks by being savvy about social media](https://techcrunch.com/2022/10/31/these-founders-landed-early-checks-by-being-savvy-about-social-media/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html/)
+- [China launches final module to complete Tiangong space station &lpar;video&rpar;](https://www.space.com/china-launches-mengtian-module-tiangong-space-station/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
