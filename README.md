@@ -82,7 +82,7 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [the Raspberry Pi Haunted House](https://www.youtube.com/watch?v=X2YH-XyqyXE)
+- [I SCARED my Daughters using a Raspberry Pi](https://www.youtube.com/watch?v=X2YH-XyqyXE)
 - [When your JavaScript framework gets acquired](https://www.youtube.com/watch?v=HleppfVh8jc)
 - [Next.js 13… this changes everything](https://www.youtube.com/watch?v=_w0Ikk4JY7U)
 - [Is coding really dead? 6 trends that look bad](https://www.youtube.com/watch?v=Zs9Tifup1Bc)
