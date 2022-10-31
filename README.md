@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [With Bret Taylor out as Twitter board chair, he can focus entirely on Salesforce](https://techcrunch.com/2022/10/31/with-bret-taylor-out-as-twitter-board-chair-he-can-focus-entirely-on-salesforce/)
+- [Elon Musk tells Europe that Twitter will comply with bloc’s illegal speech rules](https://techcrunch.com/2022/10/31/elon-musk-twitter-dsa-comply/)
+- [Netflix acquires Seattle-based cozy games developer Spry Fox](https://techcrunch.com/2022/10/31/netflix-acquires-seattle-based-cozy-games-developer-spry-fox/)
 - [NASA plans its second human moon landing on Artemis 4 after all: report](https://www.space.com/nasa-artemis-4-second-moon-landing/)
 - [With board’s dissolution, Elon is ‘sole director’ of Twitter](https://techcrunch.com/2022/10/31/with-boards-dissolution-elon-is-sole-director-of-twitter/)
-- [I’m not really in the mood to finance your vanity project](https://techcrunch.com/2022/10/31/im-not-really-in-the-mood-to-finance-your-vanity-project/)
-- [Mastodon’s microblogging app saw a record number of downloads after Musk’s Twitter takeover](https://techcrunch.com/2022/10/31/mastodons-microblogging-app-saw-a-record-number-of-downloads-after-musks-twitter-takeover/)
-- [Digital assets marketplace Creative Fabrica launches generative AI tool](https://techcrunch.com/2022/10/31/digital-assets-marketplace-creative-fabrica-launches-generative-ai-tool/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
