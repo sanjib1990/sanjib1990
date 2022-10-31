@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ispace wants to stake its claim to the moon with November launch](https://techcrunch.com/2022/10/31/ispace-wants-to-stake-its-claim-to-the-moon-with-november-launch/)
 - [Daily Crunch: SpaceX set to launch two spacecraft tomorrow aboard Falcon Heavy rocket](https://techcrunch.com/2022/10/31/daily-crunch-spacex-set-to-launch-two-spacecraft-tomorrow-aboard-falcon-heavy-rocket/)
 - [Max Q: Halloween special](https://techcrunch.com/2022/10/31/max-q-halloween-special/)
 - [&#39;Invaders From Mars&#39; are landing! Celebrate 70th anniversary with restored Blu-Ray and 4K versions](https://www.space.com/invaders-from-mars-classic-sci-fi-blu-ray-4k/)
 - [Elon Musk’s Twitter already looks grim for the LGBTQ community](https://techcrunch.com/2022/10/31/elon-musk-twitter-lgbt-community/)
-- [OpenSea CEO Devin Finzer discusses staying on top of a turbulent NFT market at TC Sessions: Crypto](https://techcrunch.com/2022/10/31/opensea-ceo-devin-finzer-discusses-staying-on-top-of-a-turbulent-nft-market-at-tc-sessions-crypto/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
