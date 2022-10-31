@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Pinecone vector database can now handle hybrid keyword-semantic search](https://techcrunch.com/2022/10/31/pinecone-vector-database-can-now-handle-hybrid-keyword-semantic-search/)
+- [&#39;Planet killer&#39; asteroid found hiding in sun&#39;s glare may one day hit Earth](https://www.space.com/dangerous-asteroid-discovered-in-sun-glare/)
+- [Best telescopes for seeing planets in 2022](https://www.space.com/best-telescopes-for-seeing-planets/)
 - [Asteroids threatening Earth could be spotted by network of spacecraft near Venus&#39; orbit, Chinese scientists say](https://www.space.com/china-asteroid-detection-satellite-constellation-idea/)
 - [Halloween night sky 2022: See Jupiter, Mars and maybe some spooky fireballs](https://www.space.com/42289-halloween-night-sky-guide.html/)
 - [Topline Pro grabs $5M to help home service businesses scale online](https://techcrunch.com/2022/10/31/topline-pro-5m-home-service-business/)
-- [6 reasons why you shouldn’t join an accelerator](https://techcrunch.com/2022/10/31/6-reasons-why-you-shouldnt-join-an-accelerator/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
