@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Digital card and gifting platform Givingli nabs $10M](https://techcrunch.com/2022/11/01/digital-card-and-gifting-platform-givingli-nabs-10m/)
-- [Best cameras for astrophotography in 2022](https://www.space.com/best-cameras-for-astrophotography/)
-- [Evolito, with an axial-flux motor lighter than Tesla’s, starts ramping up its team](https://techcrunch.com/2022/11/01/evolito-with-an-axial-flux-motor-lighter-than-teslas-starts-ramping-up-its-team/)
-- [The best sci-fi movies and TV shows to stream on Disney Plus in November](https://www.space.com/disney-plus-best-space-scifi-streaming.html/)
-- [Meet Crowd.dev, an open source user-led growth platform for fostering developer communities](https://techcrunch.com/2022/11/01/meet-crowd-dev-an-open-source-user-led-growth-platform-for-fostering-developer-communities/)
+- [Qwick raises VC money to match gig workers with hospitality jobs](https://techcrunch.com/2022/11/01/qwick-raises-vc-money-to-match-gig-workers-with-hospitality-jobs/)
+- [Rewind wants to revamp how you remember, with millions from a16z](https://techcrunch.com/2022/11/01/rewind-wants-to-revamp-how-you-remember-with-millions-from-a16z/)
+- [16 months after its IPO, UK online retailer Made.com prepares for administration](https://techcrunch.com/2022/11/01/16-months-after-its-ipo-uk-online-retailer-made-com-prepares-for-administration/)
+- [On This Day In Space: Nov. 1, 1962: Soviet Union launches Mars 1](https://www.space.com/39251-on-this-day-in-space.html/)
+- [Night sky, November 2022: What you can see tonight [maps]](https://www.space.com/16149-night-sky.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
