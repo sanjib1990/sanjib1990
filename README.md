@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter CMO is the latest to leave in a string of exec departures](https://techcrunch.com/2022/11/01/twitter-cmo-is-the-latest-to-leave-in-a-string-of-exec-departures/)
 - [They’re not going to ban TikTok &lpar;but…&rpar;](https://techcrunch.com/2022/11/01/theyre-not-going-to-ban-tiktok-but/)
 - [Daily Crunch: Amazon expands music catalog from 2M to 100M songs for Prime subscribers](https://techcrunch.com/2022/11/01/daily-crunch-amazon-expands-music-catalog-from-2m-to-100m-songs-for-prime-subscribers/)
 - [Lockheed Martin increases its bet on satellite manufacturer Terran Orbital with $100 million investment](https://techcrunch.com/2022/11/01/lockheed-martin-increases-its-bet-on-satellite-manufacturer-terran-orbital-with-100-million-investment/)
 - [Something big is dropping into the massive EVE Online gaming universe](https://www.space.com/eve-online-gaming-universe-expansion-november-2022/)
-- [Twitch opens Guest Star up so anyone can run their own talk show now](https://techcrunch.com/2022/11/01/twitch-guest-star-wide-release/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
