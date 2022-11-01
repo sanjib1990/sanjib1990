@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Unicorns face 5-1 odds as they wait for public markets to warm](https://techcrunch.com/2022/11/01/unicorns-face-5-1-odds-as-they-wait-for-public-markets-to-warm/)
+- [Everything is stupid and bad right now; maybe this $200 portable turntable will fix it](https://techcrunch.com/2022/11/01/everything-is-stupid-and-bad-right-now-maybe-this-200-portable-turntable-will-fix-it/)
 - [Dead and alive at the same time: Black holes have quantum properties](https://www.space.com/black-holes-have-quantum-properties-study/)
 - [Facebook expands its professional mode profile setting to all creators globally](https://techcrunch.com/2022/11/01/facebook-expands-professional-mode-all-creators-globally/)
 - [Full moon calendar 2022: When to see the next full moon](https://www.space.com/16830-full-moon-calendar.html/)
-- [Ford, VW seeking buyer for Argo AI’s lidar unit](https://techcrunch.com/2022/11/01/ford-vw-seeking-buyer-for-argo-ais-lidar-unit/)
-- [November full moon 2022: Full Beaver Blood Moon gets a total lunar eclipse](https://www.space.com/38454-november-full-moon.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
