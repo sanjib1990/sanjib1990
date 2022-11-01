@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [They’re not going to ban TikTok &lpar;but…&rpar;](https://techcrunch.com/2022/11/01/theyre-not-going-to-ban-tiktok-but/)
+- [Daily Crunch: Amazon expands music catalog from 2M to 100M songs for Prime subscribers](https://techcrunch.com/2022/11/01/daily-crunch-amazon-expands-music-catalog-from-2m-to-100m-songs-for-prime-subscribers/)
+- [Lockheed Martin increases its bet on satellite manufacturer Terran Orbital with $100 million investment](https://techcrunch.com/2022/11/01/lockheed-martin-increases-its-bet-on-satellite-manufacturer-terran-orbital-with-100-million-investment/)
 - [Something big is dropping into the massive EVE Online gaming universe](https://www.space.com/eve-online-gaming-universe-expansion-november-2022/)
 - [Twitch opens Guest Star up so anyone can run their own talk show now](https://techcrunch.com/2022/11/01/twitch-guest-star-wide-release/)
-- [Unicorns face 5-1 odds as they wait for public markets to warm](https://techcrunch.com/2022/11/01/unicorns-face-5-1-odds-as-they-wait-for-public-markets-to-warm/)
-- [Everything is stupid and bad right now; maybe this $200 portable turntable will fix it](https://techcrunch.com/2022/11/01/everything-is-stupid-and-bad-right-now-maybe-this-200-portable-turntable-will-fix-it/)
-- [Dead and alive at the same time: Black holes have quantum properties](https://www.space.com/black-holes-have-quantum-properties-study/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
