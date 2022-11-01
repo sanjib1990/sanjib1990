@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [See the first quarter moon join Saturn in the sky tonight &lpar;Nov. 1&rpar;](https://www.space.com/first-quarter-moon-saturn-conjunction-nov-1-2022/)
-- [Samsara Eco raises $54M AUD for its “infinite plastic recycling” tech](https://techcrunch.com/2022/11/01/samsara-eco-raises-54m-aud-for-its-infinite-plastic-recycling-tech/)
-- [Elon Musk floats $8 Twitter subscription that includes verification, long-form video and audio posting and fewer ads](https://techcrunch.com/2022/11/01/elon-musk-says-twitter-blue-will-cost-8-month-with-regional-pricing/)
-- [SpaceX now targeting December for 1st Starship orbital launch: report](https://www.space.com/spacex-starship-orbital-launch-december/)
-- [Google puts an end to Google Hangouts once and for all](https://techcrunch.com/2022/11/01/google-puts-an-end-to-google-hangouts-once-and-for-all/)
+- [Dead and alive at the same time: Black holes have quantum properties](https://www.space.com/black-holes-have-quantum-properties-study/)
+- [Facebook expands its professional mode profile setting to all creators globally](https://techcrunch.com/2022/11/01/facebook-expands-professional-mode-all-creators-globally/)
+- [Full moon calendar 2022: When to see the next full moon](https://www.space.com/16830-full-moon-calendar.html/)
+- [Ford, VW seeking buyer for Argo AI’s lidar unit](https://techcrunch.com/2022/11/01/ford-vw-seeking-buyer-for-argo-ais-lidar-unit/)
+- [November full moon 2022: Full Beaver Blood Moon gets a total lunar eclipse](https://www.space.com/38454-november-full-moon.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
