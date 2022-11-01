@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Prepare to amortize: Inflation may spell doom for R&amp;D tax expensing](https://techcrunch.com/2022/11/01/prepare-to-amortize-inflation-may-spell-doom-for-rd-tax-expensing/)
-- [MedCrypt lands $25M injection to secure vulnerable medical devices](https://techcrunch.com/2022/11/01/medcrypt-security-medical-device/)
-- [Waymo launches autonomous rides to Phoenix airport](https://techcrunch.com/2022/11/01/waymo-launches-autonomous-rides-to-phoenix-airport/)
-- [SpaceX successfully launches Falcon Heavy for the fourth time ever](https://techcrunch.com/2022/11/01/spacex-successfully-launches-falcon-heavy-2022/)
-- [SpaceX&#39;s Falcon Heavy rocket launches military satellites in 1st mission since 2019](https://www.space.com/spacex-falcon-heavy-ussf-44-launch-space-force/)
+- [How Metafy founder Josh Fabian caught the attention of 776 by building in public](https://techcrunch.com/2022/11/01/how-metafy-founder-josh-fabian-caught-the-attention-of-776-by-building-in-public/)
+- [Google Search is getting new shopping features to help you get a better deal](https://techcrunch.com/2022/11/01/google-search-new-shopping-features-get-better-deal/)
+- [Twitter to end ad-free news articles as part of its revamp of the Twitter Blue subscription](https://techcrunch.com/2022/11/01/twitter-to-end-ad-free-news-articles-as-part-of-its-revamp-of-the-twitter-blue-subscription/)
+- [Ralph Lauren redesigns Polo logo for first time ever in new digital collection with Fortnite](https://techcrunch.com/2022/11/01/ralph-lauren-polo-fortnite-fashion-metaverse-tech-gaming/)
+- [5G network roll-out in Africa continues as pricey devices impede adoption](https://techcrunch.com/2022/11/01/5g-network-roll-out-in-africa-continues-as-pricey-devices-impede-adoption/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
