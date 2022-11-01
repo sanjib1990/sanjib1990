@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Prime now comes with a full music catalog of 100 million songs and ad-free podcasts](https://techcrunch.com/2022/11/01/amazon-prime-now-comes-with-a-full-music-catalog-of-100-million-songs-and-ad-free-podcasts/)
-- [Amazon Prime members can now consume 100 million song and ad-free podcasts](https://techcrunch.com/2022/11/01/amazon-prime-members-can-now-consume-100-million-song-and-ad-free-podcasts/)
-- [Cinven snaps up tax preparation software provider TaxAct for $720M](https://techcrunch.com/2022/11/01/cinven-snaps-up-tax-preparation-software-provider-taxact-for-720m/)
-- [Retirable secures $6M to plan retirement for those without millions in savings](https://techcrunch.com/2022/11/01/retirable-6m-retirement-planning/)
-- [HR employee benefits platform Fringe raises $17M to offer customizable perks](https://techcrunch.com/2022/11/01/hr-employee-benefits-platform-fringe-raises-17m-to-offer-customizable-perks/)
+- [Prepare to amortize: Inflation may spell doom for R&amp;D tax expensing](https://techcrunch.com/2022/11/01/prepare-to-amortize-inflation-may-spell-doom-for-rd-tax-expensing/)
+- [MedCrypt lands $25M injection to secure vulnerable medical devices](https://techcrunch.com/2022/11/01/medcrypt-security-medical-device/)
+- [Waymo launches autonomous rides to Phoenix airport](https://techcrunch.com/2022/11/01/waymo-launches-autonomous-rides-to-phoenix-airport/)
+- [SpaceX successfully launches Falcon Heavy for the fourth time ever](https://techcrunch.com/2022/11/01/spacex-successfully-launches-falcon-heavy-2022/)
+- [SpaceX&#39;s Falcon Heavy rocket launches military satellites in 1st mission since 2019](https://www.space.com/spacex-falcon-heavy-ussf-44-launch-space-force/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
