@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rapyd Ventures backs Indian fintech-as-a-service startup Decentro](https://techcrunch.com/2022/10/31/y-combinator-backed-decentro-fintech-series-a-funding/)
 - [Indonesia weighs blockchain-powered carbon trading scheme](https://techcrunch.com/2022/10/31/indonesia-weighs-a-blockchain-powered-carbon-exchange/)
 - [Google pauses enforcement of Play Store billing requirement in India following antitrust order](https://techcrunch.com/2022/10/31/google-pauses-enforcement-play-store-billing-requirement-in-india-following-antitrust-order/)
 - [Uber tests push notifications, a feature literally no one wants](https://techcrunch.com/2022/10/31/uber-tests-push-notifications-a-feature-literally-no-one-wants/)
 - [SpaceX rolls out Falcon Heavy rocket ahead of Tuesday launch &lpar;photo&rpar;](https://www.space.com/spacex-rolls-out-falcon-heavy-ussf-44-launch-photo/)
-- [ispace wants to stake its claim to the moon with November launch](https://techcrunch.com/2022/10/31/ispace-wants-to-stake-its-claim-to-the-moon-with-november-launch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
