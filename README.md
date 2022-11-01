@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Something big is dropping into the massive EVE Online gaming universe](https://www.space.com/eve-online-gaming-universe-expansion-november-2022/)
+- [Twitch opens Guest Star up so anyone can run their own talk show now](https://techcrunch.com/2022/11/01/twitch-guest-star-wide-release/)
 - [Unicorns face 5-1 odds as they wait for public markets to warm](https://techcrunch.com/2022/11/01/unicorns-face-5-1-odds-as-they-wait-for-public-markets-to-warm/)
 - [Everything is stupid and bad right now; maybe this $200 portable turntable will fix it](https://techcrunch.com/2022/11/01/everything-is-stupid-and-bad-right-now-maybe-this-200-portable-turntable-will-fix-it/)
 - [Dead and alive at the same time: Black holes have quantum properties](https://www.space.com/black-holes-have-quantum-properties-study/)
-- [Facebook expands its professional mode profile setting to all creators globally](https://techcrunch.com/2022/11/01/facebook-expands-professional-mode-all-creators-globally/)
-- [Full moon calendar 2022: When to see the next full moon](https://www.space.com/16830-full-moon-calendar.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
