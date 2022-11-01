@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Digital card and gifting platform Givingli nabs $10M](https://techcrunch.com/2022/11/01/digital-card-and-gifting-platform-givingli-nabs-10m/)
+- [Best cameras for astrophotography in 2022](https://www.space.com/best-cameras-for-astrophotography/)
+- [Evolito, with an axial-flux motor lighter than Tesla’s, starts ramping up its team](https://techcrunch.com/2022/11/01/evolito-with-an-axial-flux-motor-lighter-than-teslas-starts-ramping-up-its-team/)
+- [The best sci-fi movies and TV shows to stream on Disney Plus in November](https://www.space.com/disney-plus-best-space-scifi-streaming.html/)
 - [Meet Crowd.dev, an open source user-led growth platform for fostering developer communities](https://techcrunch.com/2022/11/01/meet-crowd-dev-an-open-source-user-led-growth-platform-for-fostering-developer-communities/)
-- [TouchBistro bakes CAD$150M into restaurant management tech recipe](https://techcrunch.com/2022/11/01/touchbistro-restaurant-management-tech/)
-- [XPeng to begin autonomous driving public road tests in Guangzhou](https://techcrunch.com/2022/11/01/xpeng-to-begin-autonomous-driving-public-road-tests-in-guangzhou/)
-- [What is the moon phase today? Lunar phases 2022](https://www.space.com/18880-moon-phases.html/)
-- [Volocopter raises $182M to bring air taxi closer to certification](https://techcrunch.com/2022/11/01/volocopter-raises-182m-to-bring-air-taxi-closer-to-certification/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
