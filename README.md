@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How Metafy founder Josh Fabian caught the attention of 776 by building in public](https://techcrunch.com/2022/11/01/how-metafy-founder-josh-fabian-caught-the-attention-of-776-by-building-in-public/)
-- [Google Search is getting new shopping features to help you get a better deal](https://techcrunch.com/2022/11/01/google-search-new-shopping-features-get-better-deal/)
-- [Twitter to end ad-free news articles as part of its revamp of the Twitter Blue subscription](https://techcrunch.com/2022/11/01/twitter-to-end-ad-free-news-articles-as-part-of-its-revamp-of-the-twitter-blue-subscription/)
-- [Ralph Lauren redesigns Polo logo for first time ever in new digital collection with Fortnite](https://techcrunch.com/2022/11/01/ralph-lauren-polo-fortnite-fashion-metaverse-tech-gaming/)
-- [5G network roll-out in Africa continues as pricey devices impede adoption](https://techcrunch.com/2022/11/01/5g-network-roll-out-in-africa-continues-as-pricey-devices-impede-adoption/)
+- [Twitter ad sales head resigned amid turbulent Musk takeover](https://techcrunch.com/2022/11/01/twitter-ad-sales-head-resigned-amid-turbulent-musk-takeover/)
+- [Heylo wants to help you build your own little social circles for events](https://techcrunch.com/2022/11/01/heylo-fundraise/)
+- [MLOps platform Galileo lands $18M to launch a free service](https://techcrunch.com/2022/11/01/mlops-platform-galileo-lands-18m-to-launch-a-free-service/)
+- [Evidence of ancient Mars ocean increases probability of past life](https://www.space.com/evidence-mars-ocean-raises-life-probability/)
+- [Are investors really paying more for profits than growth today?](https://techcrunch.com/2022/11/01/are-investors-really-paying-more-for-profits-than-growth-today/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
