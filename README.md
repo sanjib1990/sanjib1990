@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Qwick raises VC money to match gig workers with hospitality jobs](https://techcrunch.com/2022/11/01/qwick-raises-vc-money-to-match-gig-workers-with-hospitality-jobs/)
-- [Rewind wants to revamp how you remember, with millions from a16z](https://techcrunch.com/2022/11/01/rewind-wants-to-revamp-how-you-remember-with-millions-from-a16z/)
-- [16 months after its IPO, UK online retailer Made.com prepares for administration](https://techcrunch.com/2022/11/01/16-months-after-its-ipo-uk-online-retailer-made-com-prepares-for-administration/)
-- [On This Day In Space: Nov. 1, 1962: Soviet Union launches Mars 1](https://www.space.com/39251-on-this-day-in-space.html/)
-- [Night sky, November 2022: What you can see tonight [maps]](https://www.space.com/16149-night-sky.html/)
+- [Amazon Prime now comes with a full music catalog of 100 million songs and ad-free podcasts](https://techcrunch.com/2022/11/01/amazon-prime-now-comes-with-a-full-music-catalog-of-100-million-songs-and-ad-free-podcasts/)
+- [Amazon Prime members can now consume 100 million song and ad-free podcasts](https://techcrunch.com/2022/11/01/amazon-prime-members-can-now-consume-100-million-song-and-ad-free-podcasts/)
+- [Cinven snaps up tax preparation software provider TaxAct for $720M](https://techcrunch.com/2022/11/01/cinven-snaps-up-tax-preparation-software-provider-taxact-for-720m/)
+- [Retirable secures $6M to plan retirement for those without millions in savings](https://techcrunch.com/2022/11/01/retirable-6m-retirement-planning/)
+- [HR employee benefits platform Fringe raises $17M to offer customizable perks](https://techcrunch.com/2022/11/01/hr-employee-benefits-platform-fringe-raises-17m-to-offer-customizable-perks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
