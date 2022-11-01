@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html/)
-- [TechCrunch+ roundup: 2022 R&amp;D tax prep, social media for founders, managing remote teams](https://techcrunch.com/2022/11/01/techcrunch-roundup-2022-rd-tax-prep-social-media-for-founders-managing-remote-teams/)
-- [Upstart lays off 7% staff amid weakening demand for loans](https://techcrunch.com/2022/11/01/upstart-layoffs/)
-- [Opportunity: Longest-running Mars rover](https://www.space.com/18289-opportunity-rover.html/)
-- [Metrist raises $5.5M to provide better cloud service outage data](https://techcrunch.com/2022/11/01/metrist-raises-5-5m-to-provide-better-cloud-service-outage-data/)
+- [See the first quarter moon join Saturn in the sky tonight &lpar;Nov. 1&rpar;](https://www.space.com/first-quarter-moon-saturn-conjunction-nov-1-2022/)
+- [Samsara Eco raises $54M AUD for its “infinite plastic recycling” tech](https://techcrunch.com/2022/11/01/samsara-eco-raises-54m-aud-for-its-infinite-plastic-recycling-tech/)
+- [Elon Musk floats $8 Twitter subscription that includes verification, long-form video and audio posting and fewer ads](https://techcrunch.com/2022/11/01/elon-musk-says-twitter-blue-will-cost-8-month-with-regional-pricing/)
+- [SpaceX now targeting December for 1st Starship orbital launch: report](https://www.space.com/spacex-starship-orbital-launch-december/)
+- [Google puts an end to Google Hangouts once and for all](https://techcrunch.com/2022/11/01/google-puts-an-end-to-google-hangouts-once-and-for-all/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
