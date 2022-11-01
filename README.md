@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Twitter ad sales head resigned amid turbulent Musk takeover](https://techcrunch.com/2022/11/01/twitter-ad-sales-head-resigned-amid-turbulent-musk-takeover/)
-- [Heylo wants to help you build your own little social circles for events](https://techcrunch.com/2022/11/01/heylo-fundraise/)
-- [MLOps platform Galileo lands $18M to launch a free service](https://techcrunch.com/2022/11/01/mlops-platform-galileo-lands-18m-to-launch-a-free-service/)
-- [Evidence of ancient Mars ocean increases probability of past life](https://www.space.com/evidence-mars-ocean-raises-life-probability/)
-- [Are investors really paying more for profits than growth today?](https://techcrunch.com/2022/11/01/are-investors-really-paying-more-for-profits-than-growth-today/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html/)
+- [TechCrunch+ roundup: 2022 R&amp;D tax prep, social media for founders, managing remote teams](https://techcrunch.com/2022/11/01/techcrunch-roundup-2022-rd-tax-prep-social-media-for-founders-managing-remote-teams/)
+- [Upstart lays off 7% staff amid weakening demand for loans](https://techcrunch.com/2022/11/01/upstart-layoffs/)
+- [Opportunity: Longest-running Mars rover](https://www.space.com/18289-opportunity-rover.html/)
+- [Metrist raises $5.5M to provide better cloud service outage data](https://techcrunch.com/2022/11/01/metrist-raises-5-5m-to-provide-better-cloud-service-outage-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
