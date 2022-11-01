@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meet Crowd.dev, an open source user-led growth platform for fostering developer communities](https://techcrunch.com/2022/11/01/meet-crowd-dev-an-open-source-user-led-growth-platform-for-fostering-developer-communities/)
+- [TouchBistro bakes CAD$150M into restaurant management tech recipe](https://techcrunch.com/2022/11/01/touchbistro-restaurant-management-tech/)
+- [XPeng to begin autonomous driving public road tests in Guangzhou](https://techcrunch.com/2022/11/01/xpeng-to-begin-autonomous-driving-public-road-tests-in-guangzhou/)
+- [What is the moon phase today? Lunar phases 2022](https://www.space.com/18880-moon-phases.html/)
 - [Volocopter raises $182M to bring air taxi closer to certification](https://techcrunch.com/2022/11/01/volocopter-raises-182m-to-bring-air-taxi-closer-to-certification/)
-- [Cover Genius lands $70M infusion to grow its embedded insurance business](https://techcrunch.com/2022/11/01/cover-genius-lands-70m-infusion-to-grow-its-embedded-insurance-business/)
-- [Rapyd Ventures backs Indian fintech-as-a-service startup Decentro](https://techcrunch.com/2022/10/31/y-combinator-backed-decentro-fintech-series-a-funding/)
-- [Indonesia weighs blockchain-powered carbon trading scheme](https://techcrunch.com/2022/10/31/indonesia-weighs-a-blockchain-powered-carbon-exchange/)
-- [Google pauses enforcement of Play Store billing requirement in India following antitrust order](https://techcrunch.com/2022/10/31/google-pauses-enforcement-play-store-billing-requirement-in-india-following-antitrust-order/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
