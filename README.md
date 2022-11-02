@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Byju’s eyes $1 billion IPO for physical tutor chain Aakash](https://techcrunch.com/2022/11/02/byjus-eyes-1-billion-ipo-for-physical-tutor-chain-aakash/)
-- [Ex-Bain investor launches $30M web3 consumer VC fund as solo female founder](https://techcrunch.com/2022/11/02/crypto-consumer-web3-solo-female-gp-magdalena-kala-double-down/)
-- [Troop rallies retail investors to get out the proxy vote](https://techcrunch.com/2022/11/02/retail-investors-shareholder-proposal-proxy-voting-esg-activist-fund-troop-fintech-funding/)
-- [Picsart adds an AI Image Generator and AI Writer to its suite of creative tools](https://techcrunch.com/2022/11/02/picsart-adds-an-ai-image-generator-and-ai-writer-to-its-suite-of-creative-tools/)
-- [Sunlu Terminator 3 &lpar;T3&rpar; review](https://www.space.com/sunlu-t3-terminator-3-review/)
+- [PlayStation VR2 launches February 22 for $549.99, pre-orders November 15](https://techcrunch.com/2022/11/02/playstation-vr2-launches-february-22-for-549-99/)
+- [Google’s wildfire detection is available in US, Mexico, Canada and parts of Australia](https://techcrunch.com/2022/11/02/googles-wildfire-detection-is-available-in-us-mexico-canada-and-parts-of-australia/)
+- [On average, CTOs make more than CEOs at early-stage startups](https://techcrunch.com/2022/11/02/cto-vs-ceo/)
+- [Brex is acting more and more like a venture capitalist over time](https://techcrunch.com/2022/11/02/brex-techstars-partnership-henrique-dubugras/)
+- [Mozilla launches $35M venture capital fund for early-stage ‘responsible’ startups](https://techcrunch.com/2022/11/02/mozilla-launches-35m-venture-capital-fund-for-early-stage-responsible-startups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
