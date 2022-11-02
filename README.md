@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Warner Bros. Discovery and HBO announce plans for ‘Game of Thrones’ NFTs](https://techcrunch.com/2022/11/02/warner-bros-discovery-and-hbo-announce-plans-for-game-of-thrones-nfts/)
-- [Y42 wants to become mission control for your data pipelines](https://techcrunch.com/2022/11/02/y42-wants-to-become-mission-control-for-your-data-pipelines/)
-- [Google Play revamp to highlight higher-quality apps, offer new promotional capabilities](https://techcrunch.com/2022/11/02/google-play-revamp-to-highlight-higher-quality-apps-offer-new-promotional-capabilities/)
-- [Here’s what happened at Elon Musk’s meeting with civil rights leaders](https://techcrunch.com/2022/11/02/heres-what-happened-at-elon-musks-meeting-with-civil-rights-leaders/)
+- [Scientists discover largest gas cloud in space that&#39;s 20 times bigger than the Milky Way](https://www.space.com/largest-atomic-gas-cloud-stephans-quintet/)
+- [Telescopes at Walmart: Deals on the best models from Celestron and others](https://www.space.com/telescopes-at-walmart/)
 - [Russia launches possible missile-tracking satellite amid continuing threats](https://www.space.com/russia-military-satellite-launch-us-rhetoric/)
+- [NASA&#39;s InSight Mars lander has just weeks left to live](https://www.space.com/nasa-insight-mars-lander-few-weeks-to-live/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
