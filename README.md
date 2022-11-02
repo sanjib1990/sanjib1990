@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Web3 infrastructure startup Tenderly takes on Infura, Alchemy with new node offering](https://techcrunch.com/2022/11/02/tenderly-web3-infrastructure-alchemy-infura-startup-blockchain-developer/)
-- [Proptech in Review: 3 investors explain how finance-focused proptech startups can survive the downturn](https://techcrunch.com/2022/11/02/proptech-in-review-3-investors-explain-how-finance-focused-proptech-startups-can-survive-the-downturn/)
-- [George Hotz, aka ‘geohot,’ is leaving Comma.ai for a lofty AI project](https://techcrunch.com/2022/11/02/george-hotz-aka-geohot-is-leaving-comma-ai-for-a-lofty-ai-project/)
-- [OpenAI will give roughly 10 AI startups $1M each and early access to its systems](https://techcrunch.com/2022/11/02/openai-will-give-roughly-ten-ai-startups-1m-each-and-early-access-to-its-systems/)
-- [Milky Way stars photobomb picturesque spiral galaxy in stunning Hubble photo](https://www.space.com/hubble-telescope-spiral-galaxy-NGC5495-sept2022/)
+- [Daily Crunch: Former Googlers raise more than $90M to scale alternative asset fintech startup](https://techcrunch.com/2022/11/02/daily-crunch-former-googlers-raise-more-than-90m-to-scale-alternative-asset-fintech-startup/)
+- [Instagram will soon allow select creators to make and sell NFTs directly in its app](https://techcrunch.com/2022/11/02/instagram-allow-select-creators-make-sell-nfts-creator-updates/)
+- [Roku drops ~19% as it braces for a bumpy fourth quarter](https://techcrunch.com/2022/11/02/roku-earnings-bumpy-outlook/)
+- [Revere is creating a ratings system for the venture capital industry](https://techcrunch.com/2022/11/02/revere-is-creating-a-ratings-system-for-the-venture-capital-industry/)
+- [Another huge piece of Chinese space junk is falling to Earth. &#39;Here we go again,&#39; experts say](https://www.space.com/huge-chinese-rocket-debris-crashing-to-earth-again/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
