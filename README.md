@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Milky Way stars photobomb picturesque spiral galaxy in stunning Hubble photo](https://www.space.com/hubble-telescope-spiral-galaxy-NGC5495-sept2022/)
 - [Is China&#39;s mysterious space plane about to return to Earth?](https://www.space.com/china-space-plane-possible-landing-november-2022/)
 - [Scientists discover largest gas cloud in space that&#39;s 20 times bigger than the Milky Way](https://www.space.com/largest-atomic-gas-cloud-stephans-quintet/)
 - [Telescopes at Walmart: Deals on the best models from Celestron and others](https://www.space.com/telescopes-at-walmart/)
-- [Russia launches possible missile-tracking satellite amid continuing threats](https://www.space.com/russia-military-satellite-launch-us-rhetoric/)
-- [NASA&#39;s InSight Mars lander has just weeks left to live](https://www.space.com/nasa-insight-mars-lander-few-weeks-to-live/)
+- [Google Play revamp to highlight higher-quality apps, offer new promotional capabilities](https://techcrunch.com/2022/11/02/google-play-revamp-to-highlight-higher-quality-apps-offer-new-promotional-capabilities/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
