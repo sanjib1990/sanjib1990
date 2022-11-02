@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [For immigrant founders in the UK, office hours with VCs are rocket fuel](https://techcrunch.com/2022/11/02/for-immigrant-founders-in-the-uk-office-hours-with-vcs-is-rocket-fuel/)
-- [Microsoft backs game developer Wemade in web3 push](https://techcrunch.com/2022/11/02/microsoft-backs-web3-game-developer-wemade/)
-- [One of Canada’s biggest climate-tech backers pulls back](https://techcrunch.com/2022/11/01/canada-climate-vc-fund-bdc/)
-- [Blackbird’s latest $1B AUD fund signals maturation of Australian, New Zealand venture scene](https://techcrunch.com/2022/11/01/blackbirds-latest-1b-aud-fund-signals-maturation-of-australian-new-zealand-venture-scene/)
-- [‘CZ’ Zhao on why Binance bet big on Twitter despite Musk’s machinations](https://techcrunch.com/2022/11/01/cz-zhao-on-why-binance-bet-big-on-twitter-despite-musks-machinations/)
+- [SpaceX launch of Japanese moon lander, UAE rover delayed to Nov. 22](https://www.space.com/spacex-launch-ispace-moon-lander-delay-november-22/)
+- [NASA&#39;s tiny CAPSTONE probe overcomes glitch, sets sights on the moon](https://www.space.com/nasa-capstone-overcomes-glitch-targets-moon-arrival/)
+- [Watch SpaceX launch telecom satellite, land rocket at sea tonight](https://www.space.com/spacex-hotbird-13g-telecom-satellite-launch/)
+- [Flowers Software helps SMBs manage their workflows](https://techcrunch.com/2022/11/02/flowers-software-helps-smbs-manage-their-workflows/)
+- [Best star projectors in 2022: Indoor views of the night sky](https://www.space.com/best-star-projectors/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
