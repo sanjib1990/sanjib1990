@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Web3 infrastructure startup Tenderly takes on Infura, Alchemy with new node offering](https://techcrunch.com/2022/11/02/tenderly-web3-infrastructure-alchemy-infura-startup-blockchain-developer/)
+- [Proptech in Review: 3 investors explain how finance-focused proptech startups can survive the downturn](https://techcrunch.com/2022/11/02/proptech-in-review-3-investors-explain-how-finance-focused-proptech-startups-can-survive-the-downturn/)
+- [George Hotz, aka ‘geohot,’ is leaving Comma.ai for a lofty AI project](https://techcrunch.com/2022/11/02/george-hotz-aka-geohot-is-leaving-comma-ai-for-a-lofty-ai-project/)
+- [OpenAI will give roughly 10 AI startups $1M each and early access to its systems](https://techcrunch.com/2022/11/02/openai-will-give-roughly-ten-ai-startups-1m-each-and-early-access-to-its-systems/)
 - [Milky Way stars photobomb picturesque spiral galaxy in stunning Hubble photo](https://www.space.com/hubble-telescope-spiral-galaxy-NGC5495-sept2022/)
-- [Is China&#39;s mysterious space plane about to return to Earth?](https://www.space.com/china-space-plane-possible-landing-november-2022/)
-- [Scientists discover largest gas cloud in space that&#39;s 20 times bigger than the Milky Way](https://www.space.com/largest-atomic-gas-cloud-stephans-quintet/)
-- [Telescopes at Walmart: Deals on the best models from Celestron and others](https://www.space.com/telescopes-at-walmart/)
-- [Google Play revamp to highlight higher-quality apps, offer new promotional capabilities](https://techcrunch.com/2022/11/02/google-play-revamp-to-highlight-higher-quality-apps-offer-new-promotional-capabilities/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
