@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [What’s going on with NFT royalties?](https://techcrunch.com/2022/11/02/whats-going-on-with-nft-royalties/)
-- [&#39;Star Wars&#39; is back in Fortnite with Luke, Leia, Han Solo and lightsabers!](https://www.space.com/star-wars-fortnite-returns-lightsabers-characters/)
-- [Momento launches out of stealth with a serverless cache](https://techcrunch.com/2022/11/02/momento-launches-out-of-stealth-with-a-serverless-cache/)
-- [Snap and Amazon partner on AR shopping in the Snapchat app, initially for eyewear](https://techcrunch.com/2022/11/02/snap-and-amazon-partner-on-ar-shopping-in-the-snapchat-app-initially-for-eyewear/)
-- [Suit up with this incredible 4049-piece Lego Marvel Hulkbuster set coming later this month](https://www.space.com/new-lego-marvel-hulkbuster-set-coming-soon/)
+- [Warner Bros. Discovery and HBO announce plans for ‘Game of Thrones’ NFTs](https://techcrunch.com/2022/11/02/warner-bros-discovery-and-hbo-announce-plans-for-game-of-thrones-nfts/)
+- [Y42 wants to become mission control for your data pipelines](https://techcrunch.com/2022/11/02/y42-wants-to-become-mission-control-for-your-data-pipelines/)
+- [Google Play revamp to highlight higher-quality apps, offer new promotional capabilities](https://techcrunch.com/2022/11/02/google-play-revamp-to-highlight-higher-quality-apps-offer-new-promotional-capabilities/)
+- [Here’s what happened at Elon Musk’s meeting with civil rights leaders](https://techcrunch.com/2022/11/02/heres-what-happened-at-elon-musks-meeting-with-civil-rights-leaders/)
+- [Russia launches possible missile-tracking satellite amid continuing threats](https://www.space.com/russia-military-satellite-launch-us-rhetoric/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
