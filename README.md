@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [One of Canada’s biggest climate-tech backers pulls back](https://techcrunch.com/2022/11/01/canada-climate-vc-fund-bdc/)
 - [Blackbird’s latest $1B AUD fund signals maturation of Australian, New Zealand venture scene](https://techcrunch.com/2022/11/01/blackbirds-latest-1b-aud-fund-signals-maturation-of-australian-new-zealand-venture-scene/)
 - [‘CZ’ Zhao on why Binance bet big on Twitter despite Musk’s machinations](https://techcrunch.com/2022/11/01/cz-zhao-on-why-binance-bet-big-on-twitter-despite-musks-machinations/)
 - [Twitter CMO is the latest to leave in a string of exec departures](https://techcrunch.com/2022/11/01/twitter-cmo-is-the-latest-to-leave-in-a-string-of-exec-departures/)
 - [They’re not going to ban TikTok &lpar;but…&rpar;](https://techcrunch.com/2022/11/01/theyre-not-going-to-ban-tiktok-but/)
-- [Daily Crunch: Amazon expands music catalog from 2M to 100M songs for Prime subscribers](https://techcrunch.com/2022/11/01/daily-crunch-amazon-expands-music-catalog-from-2m-to-100m-songs-for-prime-subscribers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
