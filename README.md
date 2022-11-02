@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [PlayStation VR2 launches February 22 for $549.99, pre-orders November 15](https://techcrunch.com/2022/11/02/playstation-vr2-launches-february-22-for-549-99/)
-- [Google’s wildfire detection is available in US, Mexico, Canada and parts of Australia](https://techcrunch.com/2022/11/02/googles-wildfire-detection-is-available-in-us-mexico-canada-and-parts-of-australia/)
-- [On average, CTOs make more than CEOs at early-stage startups](https://techcrunch.com/2022/11/02/cto-vs-ceo/)
-- [Brex is acting more and more like a venture capitalist over time](https://techcrunch.com/2022/11/02/brex-techstars-partnership-henrique-dubugras/)
-- [Mozilla launches $35M venture capital fund for early-stage ‘responsible’ startups](https://techcrunch.com/2022/11/02/mozilla-launches-35m-venture-capital-fund-for-early-stage-responsible-startups/)
+- [Xata gives Jamstack developers access to a serverless data platform with an API call](https://techcrunch.com/2022/11/02/xata-gives-jamstack-developers-access-to-a-serverless-data-platform-with-an-api-call/)
+- [Trio of Brown University grads think elder care needs a helping hand with data](https://techcrunch.com/2022/11/02/brown-university-grads-raise-14m-to-help-organizations-provide-better-care-for-low-income-seniors/)
+- [Investors are either ghosting, quiet quitting or rewriting their entire playbook](https://techcrunch.com/2022/11/02/investors-are-either-ghosting-quiet-quitting-or-rewriting-their-entire-playbook/)
+- [Eric Schmidt backs former Google exec’s digital family office platform in $90 million funding](https://techcrunch.com/2022/11/02/eric-schmidt-backs-former-google-execs-digital-family-office-platform-in-90-million-funding/)
+- [Welcome to the late-stage discount market, where everything is on sale and few folks are buying](https://techcrunch.com/2022/11/02/welcome-to-the-late-stage-discount-market-where-everything-is-on-sale-and-few-folks-are-buying/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
