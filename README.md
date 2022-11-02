@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Xata gives Jamstack developers access to a serverless data platform with an API call](https://techcrunch.com/2022/11/02/xata-gives-jamstack-developers-access-to-a-serverless-data-platform-with-an-api-call/)
-- [Trio of Brown University grads think elder care needs a helping hand with data](https://techcrunch.com/2022/11/02/brown-university-grads-raise-14m-to-help-organizations-provide-better-care-for-low-income-seniors/)
-- [Investors are either ghosting, quiet quitting or rewriting their entire playbook](https://techcrunch.com/2022/11/02/investors-are-either-ghosting-quiet-quitting-or-rewriting-their-entire-playbook/)
-- [Eric Schmidt backs former Google exec’s digital family office platform in $90 million funding](https://techcrunch.com/2022/11/02/eric-schmidt-backs-former-google-execs-digital-family-office-platform-in-90-million-funding/)
-- [Welcome to the late-stage discount market, where everything is on sale and few folks are buying](https://techcrunch.com/2022/11/02/welcome-to-the-late-stage-discount-market-where-everything-is-on-sale-and-few-folks-are-buying/)
+- [DJI’s latest Mavic drone starts at $1,469](https://techcrunch.com/2022/11/02/djis-latest-mavic-drone-starts-at-1469/)
+- [Dear Sophie: How can students work or launch a startup while maintaining their immigration status?](https://techcrunch.com/2022/11/02/dear-sophie-how-can-students-work-or-launch-a-startup-while-maintaining-their-immigration-status/)
+- [Satellites help scientists see how coral reefs are dealing with climate change](https://www.space.com/satellites-coral-reefs-climate-change/)
+- [All aboard the Spaceship Neptune: Flying to the edge of space on a balloon](https://www.space.com/spaceship-neptune/)
+- [Google is integrating Lens directly into its search box](https://techcrunch.com/2022/11/02/google-integrating-lens-search-box/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
