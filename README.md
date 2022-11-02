@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [DJI’s latest Mavic drone starts at $1,469](https://techcrunch.com/2022/11/02/djis-latest-mavic-drone-starts-at-1469/)
-- [Dear Sophie: How can students work or launch a startup while maintaining their immigration status?](https://techcrunch.com/2022/11/02/dear-sophie-how-can-students-work-or-launch-a-startup-while-maintaining-their-immigration-status/)
-- [Satellites help scientists see how coral reefs are dealing with climate change](https://www.space.com/satellites-coral-reefs-climate-change/)
-- [All aboard the Spaceship Neptune: Flying to the edge of space on a balloon](https://www.space.com/spaceship-neptune/)
-- [Google is integrating Lens directly into its search box](https://techcrunch.com/2022/11/02/google-integrating-lens-search-box/)
+- [What’s going on with NFT royalties?](https://techcrunch.com/2022/11/02/whats-going-on-with-nft-royalties/)
+- [&#39;Star Wars&#39; is back in Fortnite with Luke, Leia, Han Solo and lightsabers!](https://www.space.com/star-wars-fortnite-returns-lightsabers-characters/)
+- [Momento launches out of stealth with a serverless cache](https://techcrunch.com/2022/11/02/momento-launches-out-of-stealth-with-a-serverless-cache/)
+- [Snap and Amazon partner on AR shopping in the Snapchat app, initially for eyewear](https://techcrunch.com/2022/11/02/snap-and-amazon-partner-on-ar-shopping-in-the-snapchat-app-initially-for-eyewear/)
+- [Suit up with this incredible 4049-piece Lego Marvel Hulkbuster set coming later this month](https://www.space.com/new-lego-marvel-hulkbuster-set-coming-soon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
