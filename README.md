@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is China&#39;s mysterious space plane about to return to Earth?](https://www.space.com/china-space-plane-possible-landing-november-2022/)
 - [Scientists discover largest gas cloud in space that&#39;s 20 times bigger than the Milky Way](https://www.space.com/largest-atomic-gas-cloud-stephans-quintet/)
 - [Telescopes at Walmart: Deals on the best models from Celestron and others](https://www.space.com/telescopes-at-walmart/)
 - [Russia launches possible missile-tracking satellite amid continuing threats](https://www.space.com/russia-military-satellite-launch-us-rhetoric/)
 - [NASA&#39;s InSight Mars lander has just weeks left to live](https://www.space.com/nasa-insight-mars-lander-few-weeks-to-live/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
