@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch a &#39;ring of fire&#39; eclipse play out from space in epic new NASA footage](https://www.space.com/annular-solar-eclipse-nasa-october/)
+- [Don’t panic — this isn’t Tencent’s first tie-up with a state-owned firm](https://techcrunch.com/2022/11/02/tencent-state-carrier-china-unicom/)
 - [SpaceX launch of Japanese moon lander, UAE rover delayed to Nov. 22](https://www.space.com/spacex-launch-ispace-moon-lander-delay-november-22/)
 - [NASA&#39;s tiny CAPSTONE probe overcomes glitch, sets sights on the moon](https://www.space.com/nasa-capstone-overcomes-glitch-targets-moon-arrival/)
 - [Watch SpaceX launch telecom satellite, land rocket at sea tonight](https://www.space.com/spacex-hotbird-13g-telecom-satellite-launch/)
-- [Flowers Software helps SMBs manage their workflows](https://techcrunch.com/2022/11/02/flowers-software-helps-smbs-manage-their-workflows/)
-- [Best star projectors in 2022: Indoor views of the night sky](https://www.space.com/best-star-projectors/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
