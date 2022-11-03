@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Former ButcherBox execs leverage meat shipment expertise into new D2C startup](https://techcrunch.com/2022/11/03/butcherbox-shipping-grip-d2c/)
+- [PlayStation VR2 details: Everything we know about the PSVR 2 headset](https://www.space.com/psvr-2-details-release-date-price-specs/)
 - [Smartex sews up $24.7M to put smarter eyes on textile manufacturing](https://techcrunch.com/2022/11/03/smartex-funding/)
 - [US Air Force will unveil its advanced new B-21 Raider stealth bomber on Dec. 2.](https://www.space.com/us-air-force-unveil-b-21-raider-stealth-bomber-december-2/)
 - [Europe warming twice as fast as rest of the world, new report reveals](https://www.space.com/europe-warming-twice-global-average-rate/)
-- [Watch NASA roll Artemis 1 moon rocket to launch pad early Friday](https://www.space.com/nasa-artemis-1-moon-rocket-rollout-webcast-november-2022/)
-- [Patreon adds a long-awaited native video feature](https://techcrunch.com/2022/11/03/patreon-adds-a-long-awaited-native-video-feature/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
