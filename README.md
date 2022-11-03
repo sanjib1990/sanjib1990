@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Play Games for PC program expands to the US and seven other countries](https://techcrunch.com/2022/11/03/google-play-games-for-pc-program-expands-to-the-us-and-seven-other-countries/)
-- [Privilège Ventures launches $20M fund investing in women-led startups](https://techcrunch.com/2022/11/03/privilege-ventures-fund-iv/)
-- [Satellite startup Constellr wins backing to build out its water-monitoring platform](https://techcrunch.com/2022/11/03/satellite-startup-constellr-wins-backing-to-build-out-its-water-monitoring-platform/)
-- [Fintecture wants to replace paper checks or manual transfers for B2B payments](https://techcrunch.com/2022/11/03/fintecture-wants-to-replace-paper-checks-or-manual-transfers-for-b2b-payments/)
-- [WhatsApp officially launches its new discussion group feature, Communities](https://techcrunch.com/2022/11/03/whatsapp-officially-launches-its-new-discussion-group-feature-communities/)
+- [Smartex sews up $24.7M to put smarter eyes on textile manufacturing](https://techcrunch.com/2022/11/03/smartex-funding/)
+- [US Air Force will unveil its advanced new B-21 Raider stealth bomber on Dec. 2.](https://www.space.com/us-air-force-unveil-b-21-raider-stealth-bomber-december-2/)
+- [Europe warming twice as fast as rest of the world, new report reveals](https://www.space.com/europe-warming-twice-global-average-rate/)
+- [Watch NASA roll Artemis 1 moon rocket to launch pad early Friday](https://www.space.com/nasa-artemis-1-moon-rocket-rollout-webcast-november-2022/)
+- [Patreon adds a long-awaited native video feature](https://techcrunch.com/2022/11/03/patreon-adds-a-long-awaited-native-video-feature/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
