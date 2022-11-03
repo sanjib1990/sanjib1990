@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Craft Ventures leads $11.5M into meez’s culinary recipe tool](https://techcrunch.com/2022/11/03/craft-ventures-meez-recipe-management/)
-- [Bruvi’s new coffee pods bio-degrade faster with the power of enzymes](https://techcrunch.com/2022/11/03/bruvi-b-pods/)
-- [Amazon: Coming soon to your eyeballs](https://techcrunch.com/2022/11/03/amazon-coming-soon-to-your-eyeballs/)
-- [On This Day In Space: Nov. 3, 1957: Laika the dog launches with Sputnik 2](https://www.space.com/39251-on-this-day-in-space.html/)
-- [Former ButcherBox execs leverage meat shipment expertise into new D2C startup](https://techcrunch.com/2022/11/03/butcherbox-shipping-grip-d2c/)
+- [Meta India head Ajit Mohan departs to join Snap](https://techcrunch.com/2022/11/03/meta-india-head-ajit-mohan-departs-to-join-snap/)
+- [Loop lassos ex-Uber talent and money to finally fix freight invoicing](https://techcrunch.com/2022/11/03/meet-loop-a-payments-startup-founded-by-uber-alums-and-backed-by-founders-fund-and-two-of-ubers-co-founders/)
+- [Quinio’s $40M equity, debt raise shows LatAm is strong market for e-commerce aggregators](https://techcrunch.com/2022/11/03/quinios-40m-latam-e-commerce-aggregators/)
+- [Labrador Systems deploys its first assistive elder-care robots](https://techcrunch.com/2022/11/03/labrador-systems-deploys-its-first-assistive-eldercare-robots/)
+- [Snapchat now lets you share your Strava activities in snaps and stories](https://techcrunch.com/2022/11/03/snapchat-share-strava-activities-snaps-stories/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
