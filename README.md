@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Iron Ox lays off 50; amounting to nearly half its staff](https://techcrunch.com/2022/11/03/iron-ox-lays-off-50-amounting-to-nearly-half-its-staff/)
+- [Warner Bros. Discovery falls short of expectations in Q3 despite success of “Game of Thrones” spinoff](https://techcrunch.com/2022/11/03/warner-bros-discovery-falls-short-of-expectations-in-q3-despite-success-of-game-of-thrones-spinoff/)
+- [Wii? More like Woof, as video games for dogs become a thing](https://techcrunch.com/2022/11/03/joipaw-video-games-for-dogs/)
+- [Amazon exec confirms corporate hiring freeze through end of year](https://techcrunch.com/2022/11/03/amazon-exec-confirms-corporate-hiring-freeze-through-end-of-year/)
 - [NASA X-ray observatory reveals how black holes swallow and spit out matter](https://www.space.com/black-hole-cygnus-x1-polarized-x-rays/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html/)
-- [I reviewed 1,000+ pitch decks. These are the most common mistakes](https://techcrunch.com/2022/11/03/most-common-pitch-deck-fails/)
-- [Why the CEO of the world’s largest crypto exchange backed Musk’s Twitter buyout](https://techcrunch.com/2022/11/03/chain-reaction-podcast-binance-elon-musk-twitter-buyout/)
-- [Bitcoin’s future could hinge on mines over matter](https://techcrunch.com/2022/11/03/chain-reaction-newsletter-bitcoin-mining-binance-twitter-deal-nft-royalties-crypto/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
