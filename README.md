@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Leonid meteor shower 2022: When, where &amp; how to see it](https://www.space.com/34500-leonid-meteor-shower-guide.html/)
-- [Meta India head Ajit Mohan departs to join Snap](https://techcrunch.com/2022/11/03/meta-india-head-ajit-mohan-departs-to-join-snap/)
-- [Loop lassos ex-Uber talent and money to finally fix freight invoicing](https://techcrunch.com/2022/11/03/meet-loop-a-payments-startup-founded-by-uber-alums-and-backed-by-founders-fund-and-two-of-ubers-co-founders/)
-- [Quinio’s $40M equity, debt raise shows LatAm is strong market for e-commerce aggregators](https://techcrunch.com/2022/11/03/quinios-40m-latam-e-commerce-aggregators/)
-- [Labrador Systems deploys its first assistive elder-care robots](https://techcrunch.com/2022/11/03/labrador-systems-deploys-its-first-assistive-eldercare-robots/)
+- [Darkroom brings high-end photo smarts to your iCloud Photo Library](https://techcrunch.com/2022/11/03/darkroom-brings-high-end-photo-smarts-to-your-icloud-photo-library/)
+- [Unlock the secrets of the ice giants with All About Space magazine](https://www.space.com/all-about-space-magazine-issue-136/)
+- [Stripe cuts 14% of its workforce, CEO says they ‘overhired for the world we’re in’](https://techcrunch.com/2022/11/03/stripe-cuts-14-of-its-workforce-ceo-says-they-overhired-for-the-world-were-in/)
+- [Applications security startup Apiiro pulls in $100M Series B from A-list investors](https://techcrunch.com/2022/11/03/applications-security-startup-apiiro-pulls-in-100m-series-b-from-a-list-investors/)
+- [More than 70 VC firms join VCs for Repro coalition to support reproductive rights](https://techcrunch.com/2022/11/03/more-than-70-vc-firms-join-vcs-for-repro-coalition-to-support-reproductive-rights/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
