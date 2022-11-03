@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Epic galaxy collision hints at answer to missing matter mystery](https://www.space.com/galaxy-collision-missing-matter/)
-- [Now anyone can build apps that use DALL-E 2 to generate images](https://techcrunch.com/2022/11/03/now-anyone-can-build-apps-that-use-dall-e-2-to-generate-images/)
-- [Tips for e-commerce startups that want to win market share this holiday season](https://techcrunch.com/2022/11/03/tips-for-e-commerce-startups-that-want-to-win-market-share-this-holiday-season/)
-- [Canon EOS R review](https://www.space.com/canon-eos-r-review/)
-- [FlowForge nabs $7.2M to help companies integrate IoT using Node-RED](https://techcrunch.com/2022/11/03/flowforge-nabs-7-2m-to-help-companies-integrate-iot-using-node-red/)
+- [Elusive neutrinos caught streaming from a black hole hidden in dust](https://www.space.com/neutrinos-detected-from-dusty-active-galaxy/)
+- [Record-breaking Hunga Tonga volcanic plume might have warmed Earth&#39;s climate](https://www.space.com/tonga-volcano-plume-highest-ever-warmed-climate/)
+- [Substack targets Twitter with launch of discussions feature, Substack Chat](https://techcrunch.com/2022/11/03/substack-targets-twitter-with-launch-of-discussions-feature-substack-chat/)
+- [Review: God of War Ragnarok](https://techcrunch.com/2022/11/03/review-god-of-war-ragnarok/)
+- [Less than 24 hours until early bird prices vanish for TC Sessions: Space](https://techcrunch.com/2022/11/03/less-than-24-hours-until-early-bird-prices-vanish-for-tc-sessions-space/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
