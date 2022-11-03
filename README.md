@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Decentralized social network Mastodon grows to 655K users in wake of Elon Musk’s Twitter takeover](https://techcrunch.com/2022/11/03/decentralized-social-network-mastodon-grows-to-655k-users-in-wake-of-elon-musks-twitter-takeover/)
-- [AstraZeneca password lapse exposed patient data](https://techcrunch.com/2022/11/03/astrazeneca-passwords-exposed-patient-data/)
-- [Netflix’s ad-supported plan is finally here](https://techcrunch.com/2022/11/03/netflixs-ad-supported-plan-is-finally-here/)
-- [StretchSense built an actually comfortable hand-motion capture glove](https://techcrunch.com/2022/11/03/stretchsense-built-an-actually-comfortable-hand-motion-capture-glove/)
-- [Investor’s advice during a downturn: Don’t panic](https://techcrunch.com/2022/11/03/investors-advice-during-a-downturn-dont-panic/)
+- [Epic galaxy collision hints at answer to missing matter mystery](https://www.space.com/galaxy-collision-missing-matter/)
+- [Now anyone can build apps that use DALL-E 2 to generate images](https://techcrunch.com/2022/11/03/now-anyone-can-build-apps-that-use-dall-e-2-to-generate-images/)
+- [Tips for e-commerce startups that want to win market share this holiday season](https://techcrunch.com/2022/11/03/tips-for-e-commerce-startups-that-want-to-win-market-share-this-holiday-season/)
+- [Canon EOS R review](https://www.space.com/canon-eos-r-review/)
+- [FlowForge nabs $7.2M to help companies integrate IoT using Node-RED](https://techcrunch.com/2022/11/03/flowforge-nabs-7-2m-to-help-companies-integrate-iot-using-node-red/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
