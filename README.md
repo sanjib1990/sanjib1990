@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Satellite startup Constellr wins backing to build out its water-monitoring platform](https://techcrunch.com/2022/11/03/satellite-startup-constellr-wins-backing-to-build-out-its-water-monitoring-platform/)
+- [Fintecture wants to replace paper checks or manual transfers for B2B payments](https://techcrunch.com/2022/11/03/fintecture-wants-to-replace-paper-checks-or-manual-transfers-for-b2b-payments/)
 - [WhatsApp officially launches its new discussion group feature, Communities](https://techcrunch.com/2022/11/03/whatsapp-officially-launches-its-new-discussion-group-feature-communities/)
 - [Bump builds a central hub for all your APIs](https://techcrunch.com/2022/11/03/bump-builds-a-central-hub-for-all-your-apis/)
 - [Meet Seoul-based accelerator SparkLabs’ 19th batch of startups](https://techcrunch.com/2022/11/02/meet-seoul-based-accelerator-sparklabs-19th-batch-of-startups/)
-- [SpaceX launches Hotbird 13G telecom satellite, lands rocket at sea](https://www.space.com/spacex-hotbird-13g-telecom-satellite-launch/)
-- [Twitter cancels its Chirp conference for developers amid management transition](https://techcrunch.com/2022/11/02/twitter-cancels-its-chirp-conference-for-developers-amid-management-transition/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
