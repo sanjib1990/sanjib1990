@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Craft Ventures leads $11.5M into meez’s culinary recipe tool](https://techcrunch.com/2022/11/03/craft-ventures-meez-recipe-management/)
+- [Bruvi’s new coffee pods bio-degrade faster with the power of enzymes](https://techcrunch.com/2022/11/03/bruvi-b-pods/)
+- [Amazon: Coming soon to your eyeballs](https://techcrunch.com/2022/11/03/amazon-coming-soon-to-your-eyeballs/)
+- [On This Day In Space: Nov. 3, 1957: Laika the dog launches with Sputnik 2](https://www.space.com/39251-on-this-day-in-space.html/)
 - [Former ButcherBox execs leverage meat shipment expertise into new D2C startup](https://techcrunch.com/2022/11/03/butcherbox-shipping-grip-d2c/)
-- [PlayStation VR2 details: Everything we know about the PSVR 2 headset](https://www.space.com/psvr-2-details-release-date-price-specs/)
-- [Smartex sews up $24.7M to put smarter eyes on textile manufacturing](https://techcrunch.com/2022/11/03/smartex-funding/)
-- [US Air Force will unveil its advanced new B-21 Raider stealth bomber on Dec. 2.](https://www.space.com/us-air-force-unveil-b-21-raider-stealth-bomber-december-2/)
-- [Europe warming twice as fast as rest of the world, new report reveals](https://www.space.com/europe-warming-twice-global-average-rate/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
