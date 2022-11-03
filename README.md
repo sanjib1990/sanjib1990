@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA X-ray observatory reveals how black holes swallow and spit out matter](https://www.space.com/black-hole-cygnus-x1-polarized-x-rays/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html/)
+- [I reviewed 1,000+ pitch decks. These are the most common mistakes](https://techcrunch.com/2022/11/03/most-common-pitch-deck-fails/)
+- [Why the CEO of the world’s largest crypto exchange backed Musk’s Twitter buyout](https://techcrunch.com/2022/11/03/chain-reaction-podcast-binance-elon-musk-twitter-buyout/)
 - [Bitcoin’s future could hinge on mines over matter](https://techcrunch.com/2022/11/03/chain-reaction-newsletter-bitcoin-mining-binance-twitter-deal-nft-royalties-crypto/)
-- [Artemis 1 moon rocket &#39;ready to go&#39; for Nov. 14 launch, NASA says](https://www.space.com/nasa-artemis-1-moon-mission-officials-confident-nov-14-launch/)
-- [Watch Rocket Lab launch satellite, catch booster with a helicopter Friday](https://www.space.com/rocket-lab-launch-helicopter-catch-november-2022/)
-- [There’s still green in climate robots](https://techcrunch.com/2022/11/03/theres-still-green-in-climate-robots/)
-- [Bitwise, Paradigm and Perkins Coie talk regs at TC Sessions: Crypto](https://techcrunch.com/2022/11/03/bitwises-katherine-dowling-talks-rules-and-regs-at-tc-sessions-crypto/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
