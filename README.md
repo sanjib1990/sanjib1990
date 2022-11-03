@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Elusive neutrinos caught streaming from a black hole hidden in dust](https://www.space.com/neutrinos-detected-from-dusty-active-galaxy/)
-- [Record-breaking Hunga Tonga volcanic plume might have warmed Earth&#39;s climate](https://www.space.com/tonga-volcano-plume-highest-ever-warmed-climate/)
-- [Substack targets Twitter with launch of discussions feature, Substack Chat](https://techcrunch.com/2022/11/03/substack-targets-twitter-with-launch-of-discussions-feature-substack-chat/)
-- [Review: God of War Ragnarok](https://techcrunch.com/2022/11/03/review-god-of-war-ragnarok/)
-- [Less than 24 hours until early bird prices vanish for TC Sessions: Space](https://techcrunch.com/2022/11/03/less-than-24-hours-until-early-bird-prices-vanish-for-tc-sessions-space/)
+- [Bitcoin’s future could hinge on mines over matter](https://techcrunch.com/2022/11/03/chain-reaction-newsletter-bitcoin-mining-binance-twitter-deal-nft-royalties-crypto/)
+- [Artemis 1 moon rocket &#39;ready to go&#39; for Nov. 14 launch, NASA says](https://www.space.com/nasa-artemis-1-moon-mission-officials-confident-nov-14-launch/)
+- [Watch Rocket Lab launch satellite, catch booster with a helicopter Friday](https://www.space.com/rocket-lab-launch-helicopter-catch-november-2022/)
+- [There’s still green in climate robots](https://techcrunch.com/2022/11/03/theres-still-green-in-climate-robots/)
+- [Bitwise, Paradigm and Perkins Coie talk regs at TC Sessions: Crypto](https://techcrunch.com/2022/11/03/bitwises-katherine-dowling-talks-rules-and-regs-at-tc-sessions-crypto/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
