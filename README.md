@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Aurora says it has enough cash to commercialize autonomous trucks by 2024](https://techcrunch.com/2022/11/02/aurora-says-it-has-enough-cash-to-commercialize-autonomous-trucks-by-2024/)
+- [Tiger Global-backed SaaS startup Chargebee cuts 10% jobs](https://techcrunch.com/2022/11/02/tiger-global-chargebee-layoffs/)
+- [Sacca’s Lowercarbon doubles down on startup bringing solar modules to Indian rooftops](https://techcrunch.com/2022/11/02/saccas-lowercarbon-doubles-down-on-solarsquare-bringing-solar-modules-to-indian-rooftops/)
+- [India metro smart cards vulnerable to ‘free top-up’ bug](https://techcrunch.com/2022/11/02/india-delhi-metro-smart-card-bug/)
+- [Aurora says it has enough cash to commercialize autonomous trucks in 2024](https://techcrunch.com/2022/11/02/aurora-says-it-has-enough-cash-to-commercialize-autonomous-trucks-by-2024/)
 - [Fisker bumps up production for all-electric Ocean SUV](https://techcrunch.com/2022/11/02/fisker-bumps-up-production-for-all-electric-ocean-suv/)
-- [North Korea launches record 23-missile barrage](https://www.space.com/north-korea-launches-23-missile-barrage/)
-- [Daily Crunch: Former Googlers raise more than $90M to scale alternative asset fintech startup](https://techcrunch.com/2022/11/02/daily-crunch-former-googlers-raise-more-than-90m-to-scale-alternative-asset-fintech-startup/)
-- [Instagram will soon allow select creators to make and sell NFTs directly in its app](https://techcrunch.com/2022/11/02/instagram-allow-select-creators-make-sell-nfts-creator-updates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
