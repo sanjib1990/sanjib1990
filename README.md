@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Aurora says it has enough cash to commercialize autonomous trucks by 2024](https://techcrunch.com/2022/11/02/aurora-says-it-has-enough-cash-to-commercialize-autonomous-trucks-by-2024/)
+- [Fisker bumps up production for all-electric Ocean SUV](https://techcrunch.com/2022/11/02/fisker-bumps-up-production-for-all-electric-ocean-suv/)
 - [North Korea launches record 23-missile barrage](https://www.space.com/north-korea-launches-23-missile-barrage/)
 - [Daily Crunch: Former Googlers raise more than $90M to scale alternative asset fintech startup](https://techcrunch.com/2022/11/02/daily-crunch-former-googlers-raise-more-than-90m-to-scale-alternative-asset-fintech-startup/)
 - [Instagram will soon allow select creators to make and sell NFTs directly in its app](https://techcrunch.com/2022/11/02/instagram-allow-select-creators-make-sell-nfts-creator-updates/)
-- [Roku drops ~19% as it braces for a bumpy fourth quarter](https://techcrunch.com/2022/11/02/roku-earnings-bumpy-outlook/)
-- [Revere is creating a ratings system for the venture capital industry](https://techcrunch.com/2022/11/02/revere-is-creating-a-ratings-system-for-the-venture-capital-industry/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
