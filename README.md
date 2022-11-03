@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [EV-maker Arrival gets delisting warning from Nasdaq](https://techcrunch.com/2022/11/03/ev-maker-arrival-gets-delisting-warning-from-nasdaq/)
+- [A 23-ton Chinese rocket will fall to Earth Friday. But when and where will it land?](https://www.space.com/china-rocket-debris-fall-november-2022-predictions/)
 - [Daily Crunch: WhatsApp’s new discussion groups offer end-to-end encryption and support up to 1,024 users](https://techcrunch.com/2022/11/03/daily-crunch-112/)
 - [Rocket Lab will attempt to catch an Electron rocket booster with a helicopter again](https://techcrunch.com/2022/11/03/rocket-lab-helicopter-recovery/)
 - [Iron Ox lays off 50, amounting to nearly half its staff](https://techcrunch.com/2022/11/03/iron-ox-lays-off-50-amounting-to-nearly-half-its-staff/)
-- [Warner Bros. Discovery falls short of expectations in Q3 despite success of ‘Game of Thrones’ spinoff](https://techcrunch.com/2022/11/03/warner-bros-discovery-falls-short-of-expectations-in-q3-despite-success-of-game-of-thrones-spinoff/)
-- [Wii? More like Woof, as video games for dogs become a thing](https://techcrunch.com/2022/11/03/joipaw-video-games-for-dogs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
