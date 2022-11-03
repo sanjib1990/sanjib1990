@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [WhatsApp officially launches its new discussion group feature, Communities](https://techcrunch.com/2022/11/03/whatsapp-officially-launches-its-new-discussion-group-feature-communities/)
+- [Bump builds a central hub for all your APIs](https://techcrunch.com/2022/11/03/bump-builds-a-central-hub-for-all-your-apis/)
+- [Meet Seoul-based accelerator SparkLabs’ 19th batch of startups](https://techcrunch.com/2022/11/02/meet-seoul-based-accelerator-sparklabs-19th-batch-of-startups/)
+- [SpaceX launches Hotbird 13G telecom satellite, lands rocket at sea](https://www.space.com/spacex-hotbird-13g-telecom-satellite-launch/)
 - [Twitter cancels its Chirp conference for developers amid management transition](https://techcrunch.com/2022/11/02/twitter-cancels-its-chirp-conference-for-developers-amid-management-transition/)
-- [Tiger Global-backed SaaS startup Chargebee cuts 10% jobs](https://techcrunch.com/2022/11/02/tiger-global-chargebee-layoffs/)
-- [Sacca’s Lowercarbon doubles down on startup bringing solar modules to Indian rooftops](https://techcrunch.com/2022/11/02/saccas-lowercarbon-doubles-down-on-solarsquare-bringing-solar-modules-to-indian-rooftops/)
-- [India metro smart cards vulnerable to ‘free top-up’ bug](https://techcrunch.com/2022/11/02/india-delhi-metro-smart-card-bug/)
-- [Aurora says it has enough cash to commercialize autonomous trucks in 2024](https://techcrunch.com/2022/11/02/aurora-says-it-has-enough-cash-to-commercialize-autonomous-trucks-by-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
