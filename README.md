@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Darkroom brings high-end photo smarts to your iCloud Photo Library](https://techcrunch.com/2022/11/03/darkroom-brings-high-end-photo-smarts-to-your-icloud-photo-library/)
-- [Unlock the secrets of the ice giants with All About Space magazine](https://www.space.com/all-about-space-magazine-issue-136/)
-- [Stripe cuts 14% of its workforce, CEO says they ‘overhired for the world we’re in’](https://techcrunch.com/2022/11/03/stripe-cuts-14-of-its-workforce-ceo-says-they-overhired-for-the-world-were-in/)
-- [Applications security startup Apiiro pulls in $100M Series B from A-list investors](https://techcrunch.com/2022/11/03/applications-security-startup-apiiro-pulls-in-100m-series-b-from-a-list-investors/)
-- [More than 70 VC firms join VCs for Repro coalition to support reproductive rights](https://techcrunch.com/2022/11/03/more-than-70-vc-firms-join-vcs-for-repro-coalition-to-support-reproductive-rights/)
+- [Decentralized social network Mastodon grows to 655K users in wake of Elon Musk’s Twitter takeover](https://techcrunch.com/2022/11/03/decentralized-social-network-mastodon-grows-to-655k-users-in-wake-of-elon-musks-twitter-takeover/)
+- [AstraZeneca password lapse exposed patient data](https://techcrunch.com/2022/11/03/astrazeneca-passwords-exposed-patient-data/)
+- [Netflix’s ad-supported plan is finally here](https://techcrunch.com/2022/11/03/netflixs-ad-supported-plan-is-finally-here/)
+- [StretchSense built an actually comfortable hand-motion capture glove](https://techcrunch.com/2022/11/03/stretchsense-built-an-actually-comfortable-hand-motion-capture-glove/)
+- [Investor’s advice during a downturn: Don’t panic](https://techcrunch.com/2022/11/03/investors-advice-during-a-downturn-dont-panic/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
