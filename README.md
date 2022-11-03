@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Nim in 100 Seconds](https://www.youtube.com/watch?v=WHyOHQ_GkNo)
 - [&quot;Alexa, build me a Virtual Machine&quot;](https://www.youtube.com/watch?v=6rpTjEpvUtc)
 - [I SCARED my Daughters using a Raspberry Pi](https://www.youtube.com/watch?v=X2YH-XyqyXE)
 - [When your JavaScript framework gets acquired](https://www.youtube.com/watch?v=HleppfVh8jc)
 - [Next.js 13… this changes everything](https://www.youtube.com/watch?v=_w0Ikk4JY7U)
-- [Is coding really dead? 6 trends that look bad](https://www.youtube.com/watch?v=Zs9Tifup1Bc)
 <!-- YOUTUBE:END -->
 
 ---
