@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Elon Musk just axed key Twitter teams like human rights, accessibility, AI ethics and curation](https://techcrunch.com/2022/11/04/elon-musk-twitter-layoffs/)
+- [Benitago Group exec confirms it didn’t close, but did lay off some employees](https://techcrunch.com/2022/11/04/benitago-group-lay-off-employees/)
+- [Rocket Lab launches Swedish satellite but fails to catch booster with helicopter](https://www.space.com/rocket-lab-launch-helicopter-catch-november-2022/)
 - [How to land investors who fund game-changing companies](https://techcrunch.com/2022/11/04/how-to-land-investors-who-fund-game-changing-companies/)
 - [Stability AI backs effort to bring machine learning to biomed](https://techcrunch.com/2022/11/04/stability-ai-backs-effort-to-bring-machine-learning-to-biomed/)
-- [Buying your own identity on Elon’s Twitter and other news](https://techcrunch.com/2022/11/04/buying-your-own-identity-on-elons-twitter-and-other-news/)
-- [Combined HBO Max/Discovery+ service gets an earlier launch date, price hike is to be expected](https://techcrunch.com/2022/11/04/combined-hbo-max-discovery-service-gets-an-earlier-launch-date-price-hike-is-to-be-expected/)
-- [VCs decipher the recent fintech layoffs — and why they’re happening now](https://techcrunch.com/2022/11/04/vcs-decipher-the-recent-fintech-layoffs-and-why-theyre-happening-now/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
