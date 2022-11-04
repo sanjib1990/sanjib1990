@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to land investors who fund game-changing companies](https://techcrunch.com/2022/11/04/how-to-land-investors-who-fund-game-changing-companies/)
+- [Stability AI backs effort to bring machine learning to biomed](https://techcrunch.com/2022/11/04/stability-ai-backs-effort-to-bring-machine-learning-to-biomed/)
+- [Buying your own identity on Elon’s Twitter and other news](https://techcrunch.com/2022/11/04/buying-your-own-identity-on-elons-twitter-and-other-news/)
 - [Combined HBO Max/Discovery+ service gets an earlier launch date, price hike is to be expected](https://techcrunch.com/2022/11/04/combined-hbo-max-discovery-service-gets-an-earlier-launch-date-price-hike-is-to-be-expected/)
 - [VCs decipher the recent fintech layoffs — and why they’re happening now](https://techcrunch.com/2022/11/04/vcs-decipher-the-recent-fintech-layoffs-and-why-theyre-happening-now/)
-- [SpaceX&#39;s next Falcon Heavy rocket launch may fly before Christmas](https://www.space.com/spacex-falcon-heavy-launch-later-2022/)
-- [Hear NASA’s science and tech ambitions from Carolyn Mercer at TC Sessions: Space](https://techcrunch.com/2022/11/04/nasa-carolyn-mercer-tc-sessions-space/)
-- [Best camera phone 2022: Smartphones with stargazing capabilities](https://www.space.com/best-camera-phone-astrophotography/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
