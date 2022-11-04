@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Twitter’s mass layoffs are set to begin Friday morning](https://techcrunch.com/2022/11/03/twitter-layoffs-elon-musk/)
+- [Twitter’s mass layoffs have begun](https://techcrunch.com/2022/11/03/twitter-layoffs-elon-musk/)
 - [iPhone maker Foxconn and Saudi Arabia are going into the EV business](https://techcrunch.com/2022/11/03/iphone-maker-foxconn-and-saudi-arabia-are-going-into-the-ev-business/)
 - [EV-maker Arrival gets delisting warning from Nasdaq](https://techcrunch.com/2022/11/03/ev-maker-arrival-gets-delisting-warning-from-nasdaq/)
 - [A 23-ton Chinese rocket will fall to Earth Friday. But when and where will it land?](https://www.space.com/china-rocket-debris-fall-november-2022-predictions/)
