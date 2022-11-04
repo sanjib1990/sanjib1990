@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Spend management startup Pleo lays off 15% of its workforce](https://techcrunch.com/2022/11/04/spend-management-startup-pleo-lays-off-15-of-its-workforce/)
-- [A massive space rock impact may have kickstarted Earth&#39;s magnetic field](https://www.space.com/earth-magnetic-field-impact-ancient-history/)
-- [See the moon visit Jupiter in the sky on Friday &lpar;Nov.4&rpar;](https://www.space.com/moon-visits-jupiter-conjunction-friday-nov-04-2022/)
-- [Don&#39;t miss the Beaver Blood Moon lunar eclipse on Nov. 8](https://www.space.com/lunar-eclipse-beaver-blood-moon-nov-08-2022/)
-- [Record breaker! Newfound black hole is closest known to Earth](https://www.space.com/closest-black-hole-to-earth-gaia-mission/)
+- [Watch NASA roll Artemis 1 moon rocket to launch pad today](https://www.space.com/nasa-artemis-1-moon-rocket-rollout-webcast-november-2022/)
+- [Telescopes at Best Buy: What&#39;s in stock and what&#39;s on sale this season](https://www.space.com/telescopes-at-best-buy/)
+- [Regulating the future: A look at the EU’s plan to reboot product liability rules for AI](https://techcrunch.com/2022/11/04/eu-ai-liability-directive-product-liability-directive/)
+- [Whew! 23-ton Chinese rocket debris falls to Earth over Pacific Ocean](https://www.space.com/china-long-march-5b-rocket-falls-into-pacific-ocean/)
+- [Formula 1’s Toto Wolff, accused of running his team remotely, leans into software](https://techcrunch.com/2022/11/04/formula-1s-toto-wolff-looks-for-fresh-edge-in-2023-through-remote-software/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
