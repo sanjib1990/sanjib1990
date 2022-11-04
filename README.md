@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch NASA roll Artemis 1 moon rocket to launch pad today](https://www.space.com/nasa-artemis-1-moon-rocket-rollout-webcast-november-2022/)
-- [Telescopes at Best Buy: What&#39;s in stock and what&#39;s on sale this season](https://www.space.com/telescopes-at-best-buy/)
-- [Regulating the future: A look at the EU’s plan to reboot product liability rules for AI](https://techcrunch.com/2022/11/04/eu-ai-liability-directive-product-liability-directive/)
-- [Whew! 23-ton Chinese rocket debris falls to Earth over Pacific Ocean](https://www.space.com/china-long-march-5b-rocket-falls-into-pacific-ocean/)
-- [Formula 1’s Toto Wolff, accused of running his team remotely, leans into software](https://techcrunch.com/2022/11/04/formula-1s-toto-wolff-looks-for-fresh-edge-in-2023-through-remote-software/)
+- [Ukraine invasion&#39;s impacts on space exploration: Live updates](https://www.space.com/news/live/russia-ukraine-invasion-space-impacts-updates/)
+- [Is the modern data stack just old wine in a new bottle?](https://techcrunch.com/2022/11/04/is-the-modern-data-stack-just-old-wine-in-a-new-bottle/)
+- [Mars rover documentary &#39;Good Night Oppy&#39; rolls into movie theaters today](https://www.space.com/good-night-oppy-documentary-released-in-theaters-nov-3/)
+- [Astronaut Starry Sky Star Projector review](https://www.space.com/astronaut-starry-sky-star-projector-review/)
+- [Meet Budibase, a low-code open-source web app builder with automations](https://techcrunch.com/2022/11/04/meet-budibase-a-low-code-open-source-web-app-builder-with-automations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
