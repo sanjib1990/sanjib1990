@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spend management startup Pleo lays off 15% of its workforce](https://techcrunch.com/2022/11/04/spend-management-startup-pleo-lays-off-15-of-its-workforce/)
 - [A massive space rock impact may have kickstarted Earth&#39;s magnetic field](https://www.space.com/earth-magnetic-field-impact-ancient-history/)
 - [See the moon visit Jupiter in the sky on Friday &lpar;Nov.4&rpar;](https://www.space.com/moon-visits-jupiter-conjunction-friday-nov-04-2022/)
 - [Don&#39;t miss the Beaver Blood Moon lunar eclipse on Nov. 8](https://www.space.com/lunar-eclipse-beaver-blood-moon-nov-08-2022/)
 - [Record breaker! Newfound black hole is closest known to Earth](https://www.space.com/closest-black-hole-to-earth-gaia-mission/)
-- [Ant’s global play is to be a payments aggregator and it now reaches 1B users](https://techcrunch.com/2022/11/04/ant-alipay-plus-alibaba-global-expansion/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
