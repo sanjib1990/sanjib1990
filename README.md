@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Andor&#39; episode 8 continues its amazing world-building and paints a terrifying view in &#39;Narkina 5&#39;](https://www.space.com/star-wars-andor-episode-8-review/)
+- [Boeing&#39;s 1st Starliner astronaut flight delayed to April 2023](https://www.space.com/boeing-starliner-crewed-flight-delay-april-2023/)
+- [YouTube will soon roll out a ‘Go Live Together’ co-streaming feature to select creators](https://techcrunch.com/2022/11/04/youtube-go-live-together-co-streaming-feature/)
 - [Elon Musk just axed key Twitter teams like human rights, accessibility, AI ethics and curation](https://techcrunch.com/2022/11/04/elon-musk-twitter-layoffs/)
 - [Benitago Group exec confirms it didn’t close, but did lay off some employees](https://techcrunch.com/2022/11/04/benitago-group-lay-off-employees/)
-- [Rocket Lab launches Swedish satellite but fails to catch booster with helicopter](https://www.space.com/rocket-lab-launch-helicopter-catch-november-2022/)
-- [How to land investors who fund game-changing companies](https://techcrunch.com/2022/11/04/how-to-land-investors-who-fund-game-changing-companies/)
-- [Stability AI backs effort to bring machine learning to biomed](https://techcrunch.com/2022/11/04/stability-ai-backs-effort-to-bring-machine-learning-to-biomed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
