@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Artemis 1 moon rocket arrives at pad for Nov. 14 launch &lpar;photos&rpar;](https://www.space.com/artemis-1-moon-rocket-launch-pad-arrival-photos/)
-- [AfroTech Conference heads to Austin for first in-person event since 2019](https://techcrunch.com/2022/11/04/afrotech-conference-heads-to-austin-for-first-in-person-event-since-2019/)
-- [Watch Rocket Lab attempt a mid-air Electron rocket booster recovery live](https://techcrunch.com/2022/11/04/watch-rocket-lab-attempt-a-mid-air-electron-rocket-booster-recovery-live/)
-- [&#39;Avatar: The Way of Water&#39; trailer dives back into Pandora](https://www.space.com/avatar-way-of-water-second-trailer-released/)
-- [Most of the unicorns aren’t](https://techcrunch.com/2022/11/04/most-of-the-unicorns-arent/)
+- [Confirmed! A 2014 meteor is Earth&#39;s 1st known interstellar visitor](https://www.space.com/2014-meteor-first-interstellar-visitor-oumuamua/)
+- [What investors really think about the TAM slide in your pitch deck](https://techcrunch.com/2022/11/04/what-investors-really-think-about-the-tam-slide-in-your-pitch-deck/)
+- [Musk blames ‘activist groups’ for major advertisers pausing spending on Twitter](https://techcrunch.com/2022/11/04/musk-blames-activist-groups-for-major-advertisers-pausing-spending-on-twitter/)
+- [Lunar eclipses 2022: When, where &amp; how to see them](https://www.space.com/33786-lunar-eclipse-guide.html/)
+- [Should Twitter embrace porn and compete with OnlyFans?](https://techcrunch.com/2022/11/04/twitter-porn-onlyfans-elon-musk/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
