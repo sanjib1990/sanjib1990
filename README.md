@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Record breaker! Newfound black hole is closest known to Earth](https://www.space.com/closest-black-hole-to-earth-gaia-mission/)
+- [Ant’s global play is to be a payments aggregator and it now reaches 1B users](https://techcrunch.com/2022/11/04/ant-alipay-plus-alibaba-global-expansion/)
+- [After Stripe and Square, Venmo and PayPal are set to support Apple’s Tap to Pay on iPhones](https://techcrunch.com/2022/11/04/after-stripe-and-square-venmo-and-paypal-are-set-to-support-apples-tap-to-pay-on-iphones/)
 - [Twitter’s mass layoffs have begun](https://techcrunch.com/2022/11/03/twitter-layoffs-elon-musk/)
 - [iPhone maker Foxconn and Saudi Arabia are going into the EV business](https://techcrunch.com/2022/11/03/iphone-maker-foxconn-and-saudi-arabia-are-going-into-the-ev-business/)
-- [EV-maker Arrival gets delisting warning from Nasdaq](https://techcrunch.com/2022/11/03/ev-maker-arrival-gets-delisting-warning-from-nasdaq/)
-- [A 23-ton Chinese rocket will fall to Earth Friday. But when and where will it land?](https://www.space.com/china-rocket-debris-fall-november-2022-predictions/)
-- [Daily Crunch: WhatsApp’s new discussion groups offer end-to-end encryption and support up to 1,024 users](https://techcrunch.com/2022/11/03/daily-crunch-112/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
