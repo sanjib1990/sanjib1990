@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [iPhone maker Foxconn and Saudi Arabia are going into the EV business](https://techcrunch.com/2022/11/03/iphone-maker-foxconn-and-saudi-arabia-are-going-into-the-ev-business/)
 - [EV-maker Arrival gets delisting warning from Nasdaq](https://techcrunch.com/2022/11/03/ev-maker-arrival-gets-delisting-warning-from-nasdaq/)
 - [A 23-ton Chinese rocket will fall to Earth Friday. But when and where will it land?](https://www.space.com/china-rocket-debris-fall-november-2022-predictions/)
 - [Daily Crunch: WhatsApp’s new discussion groups offer end-to-end encryption and support up to 1,024 users](https://techcrunch.com/2022/11/03/daily-crunch-112/)
 - [Rocket Lab will attempt to catch an Electron rocket booster with a helicopter again](https://techcrunch.com/2022/11/03/rocket-lab-helicopter-recovery/)
-- [Iron Ox lays off 50, amounting to nearly half its staff](https://techcrunch.com/2022/11/03/iron-ox-lays-off-50-amounting-to-nearly-half-its-staff/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
