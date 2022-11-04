@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Most of the unicorns aren’t](https://techcrunch.com/2022/11/04/most-of-the-unicorns-arent/)
+- [Twitter faces a class action lawsuit over mass employee layoffs with proper legal notice](https://techcrunch.com/2022/11/04/twitter-faces-a-class-action-lawsuit-over-mass-employee-layoffs-with-proper-legal-notice/)
 - [Ukraine invasion&#39;s impacts on space exploration: Live updates](https://www.space.com/news/live/russia-ukraine-invasion-space-impacts-updates/)
 - [Is the modern data stack just old wine in a new bottle?](https://techcrunch.com/2022/11/04/is-the-modern-data-stack-just-old-wine-in-a-new-bottle/)
 - [Mars rover documentary &#39;Good Night Oppy&#39; rolls into movie theaters today](https://www.space.com/good-night-oppy-documentary-released-in-theaters-nov-3/)
-- [Astronaut Starry Sky Star Projector review](https://www.space.com/astronaut-starry-sky-star-projector-review/)
-- [Meet Budibase, a low-code open-source web app builder with automations](https://techcrunch.com/2022/11/04/meet-budibase-a-low-code-open-source-web-app-builder-with-automations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
