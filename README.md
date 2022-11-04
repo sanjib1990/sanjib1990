@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Robinhood and Coinbase gained ground after reporting earnings](https://techcrunch.com/2022/11/04/why-robinhood-and-coinbase-gained-ground-after-reporting-earnings/)
+- [Best Lego Star Wars sets 2022](https://www.space.com/best-lego-star-wars-sets/)
+- [Estes launches SpaceX Falcon 9 as new fly and display model rocket](https://www.space.com/spacex-falcon-9-estes-model-rocket/)
+- [Watch Rocket Lab launch satellite, catch booster with a helicopter today](https://www.space.com/rocket-lab-launch-helicopter-catch-november-2022/)
 - [Confirmed! A 2014 meteor is Earth&#39;s 1st known interstellar visitor](https://www.space.com/2014-meteor-first-interstellar-visitor-oumuamua/)
-- [What investors really think about the TAM slide in your pitch deck](https://techcrunch.com/2022/11/04/what-investors-really-think-about-the-tam-slide-in-your-pitch-deck/)
-- [Musk blames ‘activist groups’ for major advertisers pausing spending on Twitter](https://techcrunch.com/2022/11/04/musk-blames-activist-groups-for-major-advertisers-pausing-spending-on-twitter/)
-- [Lunar eclipses 2022: When, where &amp; how to see them](https://www.space.com/33786-lunar-eclipse-guide.html/)
-- [Should Twitter embrace porn and compete with OnlyFans?](https://techcrunch.com/2022/11/04/twitter-porn-onlyfans-elon-musk/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
