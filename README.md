@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Artemis 1 moon rocket arrives at pad for Nov. 14 launch &lpar;photos&rpar;](https://www.space.com/artemis-1-moon-rocket-launch-pad-arrival-photos/)
+- [AfroTech Conference heads to Austin for first in-person event since 2019](https://techcrunch.com/2022/11/04/afrotech-conference-heads-to-austin-for-first-in-person-event-since-2019/)
+- [Watch Rocket Lab attempt a mid-air Electron rocket booster recovery live](https://techcrunch.com/2022/11/04/watch-rocket-lab-attempt-a-mid-air-electron-rocket-booster-recovery-live/)
+- [&#39;Avatar: The Way of Water&#39; trailer dives back into Pandora](https://www.space.com/avatar-way-of-water-second-trailer-released/)
 - [Most of the unicorns aren’t](https://techcrunch.com/2022/11/04/most-of-the-unicorns-arent/)
-- [Twitter faces a class action lawsuit over mass employee layoffs with proper legal notice](https://techcrunch.com/2022/11/04/twitter-faces-a-class-action-lawsuit-over-mass-employee-layoffs-with-proper-legal-notice/)
-- [Ukraine invasion&#39;s impacts on space exploration: Live updates](https://www.space.com/news/live/russia-ukraine-invasion-space-impacts-updates/)
-- [Is the modern data stack just old wine in a new bottle?](https://techcrunch.com/2022/11/04/is-the-modern-data-stack-just-old-wine-in-a-new-bottle/)
-- [Mars rover documentary &#39;Good Night Oppy&#39; rolls into movie theaters today](https://www.space.com/good-night-oppy-documentary-released-in-theaters-nov-3/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
