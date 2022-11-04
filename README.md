@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A massive space rock impact may have kickstarted Earth&#39;s magnetic field](https://www.space.com/earth-magnetic-field-impact-ancient-history/)
+- [See the moon visit Jupiter in the sky on Friday &lpar;Nov.4&rpar;](https://www.space.com/moon-visits-jupiter-conjunction-friday-nov-04-2022/)
+- [Don&#39;t miss the Beaver Blood Moon lunar eclipse on Nov. 8](https://www.space.com/lunar-eclipse-beaver-blood-moon-nov-08-2022/)
 - [Record breaker! Newfound black hole is closest known to Earth](https://www.space.com/closest-black-hole-to-earth-gaia-mission/)
 - [Ant’s global play is to be a payments aggregator and it now reaches 1B users](https://techcrunch.com/2022/11/04/ant-alipay-plus-alibaba-global-expansion/)
-- [After Stripe and Square, Venmo and PayPal are set to support Apple’s Tap to Pay on iPhones](https://techcrunch.com/2022/11/04/after-stripe-and-square-venmo-and-paypal-are-set-to-support-apples-tap-to-pay-on-iphones/)
-- [Twitter’s mass layoffs have begun](https://techcrunch.com/2022/11/03/twitter-layoffs-elon-musk/)
-- [iPhone maker Foxconn and Saudi Arabia are going into the EV business](https://techcrunch.com/2022/11/03/iphone-maker-foxconn-and-saudi-arabia-are-going-into-the-ev-business/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
