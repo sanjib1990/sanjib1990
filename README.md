@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Robinhood and Coinbase gained ground after reporting earnings](https://techcrunch.com/2022/11/04/why-robinhood-and-coinbase-gained-ground-after-reporting-earnings/)
-- [Best Lego Star Wars sets 2022](https://www.space.com/best-lego-star-wars-sets/)
-- [Estes launches SpaceX Falcon 9 as new fly and display model rocket](https://www.space.com/spacex-falcon-9-estes-model-rocket/)
-- [Watch Rocket Lab launch satellite, catch booster with a helicopter today](https://www.space.com/rocket-lab-launch-helicopter-catch-november-2022/)
-- [Confirmed! A 2014 meteor is Earth&#39;s 1st known interstellar visitor](https://www.space.com/2014-meteor-first-interstellar-visitor-oumuamua/)
+- [Combined HBO Max/Discovery+ service gets an earlier launch date, price hike is to be expected](https://techcrunch.com/2022/11/04/combined-hbo-max-discovery-service-gets-an-earlier-launch-date-price-hike-is-to-be-expected/)
+- [VCs decipher the recent fintech layoffs — and why they’re happening now](https://techcrunch.com/2022/11/04/vcs-decipher-the-recent-fintech-layoffs-and-why-theyre-happening-now/)
+- [SpaceX&#39;s next Falcon Heavy rocket launch may fly before Christmas](https://www.space.com/spacex-falcon-heavy-launch-later-2022/)
+- [Hear NASA’s science and tech ambitions from Carolyn Mercer at TC Sessions: Space](https://techcrunch.com/2022/11/04/nasa-carolyn-mercer-tc-sessions-space/)
+- [Best camera phone 2022: Smartphones with stargazing capabilities](https://www.space.com/best-camera-phone-astrophotography/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
