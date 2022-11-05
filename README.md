@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Starlink adds a 1TB monthly soft cap for residential users](https://techcrunch.com/2022/11/04/starlink-adds-a-1tb-monthly-soft-cap-for-residential-users/)
-- [Daily Crunch: Twitter layoffs violated federal worker protections, class action lawsuit alleges](https://techcrunch.com/2022/11/04/daily-crunch-twitter-layoffs-violated-federal-worker-protections-class-action-lawsuit-alleges/)
-- [Ledger, Tezos and Chainalysis talk web3 security at TC Sessions: Crypto](https://techcrunch.com/2022/11/04/ledger-tezos-and-chainalysis-talk-web3-security-at-tc-sessions-crypto/)
-- [It’s no surprise HBO canceled ‘Westworld’ after four seasons](https://techcrunch.com/2022/11/04/its-no-surprise-hbo-canceled-westworld-after-four-seasons/)
-- [YouTube will soon roll out a ‘Go Live Together’ co-streaming feature to select creators](https://techcrunch.com/2022/11/04/youtube-go-live-together-co-streaming-feature/)
+- [How many people have walked on the moon?](https://www.space.com/how-many-people-have-walked-on-the-moon/)
+- [This Week In Space podcast: Episode 36 —NASA&#39;s finally tackling UFOS](https://www.space.com/this-week-in-space-podcast-twit/)
+- [On This Day In Space: Nov. 5, 2002: Galileo spacecraft flies by Jupiter&#39;s moon Amalthea](https://www.space.com/39251-on-this-day-in-space.html/)
+- [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html/)
+- [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
