@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to watch the Blood Moon lunar eclipse on Nov. 8 online, the last until 2025](https://www.space.com/blood-moon-lunar-eclipse-november-2022-livestreams/)
+- [The origins of Mars&#39; crust might be surprisingly complex](https://www.space.com/mars-crust-origins-more-complicated-than-expected/)
 - [How many people have walked on the moon?](https://www.space.com/how-many-people-have-walked-on-the-moon/)
 - [This Week In Space podcast: Episode 36 —NASA&#39;s finally tackling UFOS](https://www.space.com/this-week-in-space-podcast-twit/)
 - [On This Day In Space: Nov. 5, 2002: Galileo spacecraft flies by Jupiter&#39;s moon Amalthea](https://www.space.com/39251-on-this-day-in-space.html/)
-- [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html/)
-- [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
