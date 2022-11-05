@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [China completes T-shaped Tiangong space station with new Mengtian module move](https://www.space.com/china-completes-tiangong-space-station/)
-- [US military&#39;s X-37B space plane zooms past 900 days in orbit](https://www.space.com/x-37b-military-space-plane-900-days-orbit/)
-- [Watch ovarian cells and other wild experiments launch to space station on Sunday](https://www.space.com/cygnus-cargo-launch-space-station-november-2022/)
 - [Starlink adds a 1TB monthly soft cap for residential users](https://techcrunch.com/2022/11/04/starlink-adds-a-1tb-monthly-soft-cap-for-residential-users/)
 - [Daily Crunch: Twitter layoffs violated federal worker protections, class action lawsuit alleges](https://techcrunch.com/2022/11/04/daily-crunch-twitter-layoffs-violated-federal-worker-protections-class-action-lawsuit-alleges/)
+- [Ledger, Tezos and Chainalysis talk web3 security at TC Sessions: Crypto](https://techcrunch.com/2022/11/04/ledger-tezos-and-chainalysis-talk-web3-security-at-tc-sessions-crypto/)
+- [It’s no surprise HBO canceled ‘Westworld’ after four seasons](https://techcrunch.com/2022/11/04/its-no-surprise-hbo-canceled-westworld-after-four-seasons/)
+- [YouTube will soon roll out a ‘Go Live Together’ co-streaming feature to select creators](https://techcrunch.com/2022/11/04/youtube-go-live-together-co-streaming-feature/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
