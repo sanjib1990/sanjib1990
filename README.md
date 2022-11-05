@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter begins rolling out $7.99 Twitter Blue plan with verification, fewer ads](https://techcrunch.com/2022/11/05/twitter-begins-rolling-out-7-99-twitter-blue-plan-with-verification-fewer-ads/)
+- [Iran&#39;s Revolutionary Guard launches successful rocket test: report](https://www.space.com/iran-launches-ghaem-100-rocket-test/)
 - [This Week in Apps: Twitter chaos, Mastodon grows and WhatsApp launches Communities](https://techcrunch.com/2022/11/05/this-week-in-apps-twitter-chaos-mastodon-grows-and-whatsapp-launches-communities/)
 - [Tweep’s Twitter](https://techcrunch.com/2022/11/05/tweeps-twitter/)
 - [Connecting the dots: SaaS and alts](https://techcrunch.com/2022/11/05/connecting-the-dots-saas-and-alts/)
-- [Making DAOs accessible for normals on TechCrunch Live](https://techcrunch.com/2022/11/05/making-daos-accessible-for-normals-on-techcrunch-live/)
-- [Laid off? Climate tech is looking for talent and founders](https://techcrunch.com/2022/11/05/laid-off-climate-tech-is-looking-for-talent-and-founders/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
