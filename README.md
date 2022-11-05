@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Starlink adds a 1TB monthly soft cap for residential users](https://techcrunch.com/2022/11/04/starlink-adds-a-1tb-monthly-soft-cap-for-residential-users/)
 - [Daily Crunch: Twitter layoffs violated federal worker protections, class action lawsuit alleges](https://techcrunch.com/2022/11/04/daily-crunch-twitter-layoffs-violated-federal-worker-protections-class-action-lawsuit-alleges/)
 - [Most UFOs are &#39;Chinese surveillance&#39; drones and &#39;airborne clutter,&#39; Pentagon officials reveal](https://www.space.com/ufo-chinese-drones-report/)
 - [Ledger, Tezos and Chainalysis talk web3 security at TC Sessions: Crypto](https://techcrunch.com/2022/11/04/ledger-tezos-and-chainalysis-talk-web3-security-at-tc-sessions-crypto/)
 - [It’s no surprise HBO canceled ‘Westworld’ after four seasons](https://techcrunch.com/2022/11/04/its-no-surprise-hbo-canceled-westworld-after-four-seasons/)
-- [Problems with NASA asteroid mission Psyche delay Venus probe&#39;s launch to 2031](https://www.space.com/nasa-problems-psyche-venus-probe-veritas-launch-delay/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
