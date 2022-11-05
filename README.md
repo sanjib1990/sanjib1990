@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Week in Apps: Twitter chaos, Mastodon grows and WhatsApp launches Communities](https://techcrunch.com/2022/11/05/this-week-in-apps-twitter-chaos-mastodon-grows-and-whatsapp-launches-communities/)
+- [Tweep’s Twitter](https://techcrunch.com/2022/11/05/tweeps-twitter/)
 - [Connecting the dots: SaaS and alts](https://techcrunch.com/2022/11/05/connecting-the-dots-saas-and-alts/)
 - [Making DAOs accessible for normals on TechCrunch Live](https://techcrunch.com/2022/11/05/making-daos-accessible-for-normals-on-techcrunch-live/)
 - [Laid off? Climate tech is looking for talent and founders](https://techcrunch.com/2022/11/05/laid-off-climate-tech-is-looking-for-talent-and-founders/)
-- [Jack Dorsey breaks his silence, owns “responsibility for why everyone is in this situation” at Twitter](https://techcrunch.com/2022/11/05/jack-dorsey-speaks-twitter-layoffs/)
-- [Best star trackers for astrophotography 2022](https://www.space.com/best-star-trackers-for-astrophotography/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
