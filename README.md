@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fire alarm on Earth delays Northrop Grumman cargo launch to space station](https://www.space.com/northrop-grumman-cygnus-rocket-launch-delayed-fire-alarm/)
+- [Amateur radio operators and more will track NASA&#39;s Artemis 1 moon mission](https://www.space.com/artemis-1-tracking-amateur-radio-operators/)
+- [Galactic arms comb &#39;Berenice&#39;s Hair&#39; in gorgeous telescope photo](https://www.space.com/messier-99-galaxy-berenices-hair-photo/)
 - [Twitter Blue subscription with verification may launch in India in ‘less than a month’](https://techcrunch.com/2022/11/06/elon-musk-twitter-blue-verification-india-launch/)
 - [Elon guts Twitter, Google shutters Hangouts, and the tech layoffs continue](https://techcrunch.com/2022/11/05/elon-guts-twitter-google-shutters-hangouts-and-the-tech-layoffs-continue/)
-- [Twitter begins rolling out $7.99 Twitter Blue plan with verification, fewer ads](https://techcrunch.com/2022/11/05/twitter-begins-rolling-out-7-99-twitter-blue-plan-with-verification-fewer-ads/)
-- [Iran&#39;s Revolutionary Guard launches successful rocket test: report](https://www.space.com/iran-launches-ghaem-100-rocket-test/)
-- [This Week in Apps: Twitter chaos, Mastodon grows and WhatsApp launches Communities](https://techcrunch.com/2022/11/05/this-week-in-apps-twitter-chaos-mastodon-grows-and-whatsapp-launches-communities/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
