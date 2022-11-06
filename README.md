@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The fintech layoffs just keep on coming](https://techcrunch.com/2022/11/06/the-fintech-layoffs-just-keep-on-coming/)
 - [Watch an ancient ice sheet cover the British Isles then vanish, in eerie time-lapse animation](https://www.space.com/ancient-ice-sheet-melt-britain-ireland/)
 - [Scientists are working on an official &#39;alien contact protocol&#39; for when ET phones Earth](https://www.space.com/alien-contact-protocol.html/)
 - [On This Day In Space: Nov. 6, 1572: Tycho supernova discovered](https://www.space.com/39251-on-this-day-in-space.html/)
 - [Astronomers have detected another &#39;planet killer&#39; asteroid. Could we miss one coming our way?](https://www.space.com/astronomers-detect-planet-killer-asteroid-threat/)
-- [Buckle up for family board game night with &#39;Disney Space Mountain: All Systems Go&#39;](https://www.space.com/disney-space-mountain-board-game/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
