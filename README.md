@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple warns of lower iPhone 14 Pro models shipment due to Covid-19 restrictions](https://techcrunch.com/2022/11/06/apple-warns-lower-iphone-14-pro-models-shipment-due-to-covid-19-restrictions/)
 - [Twitter to delay verification check mark rollout until after US midterm elections](https://techcrunch.com/2022/11/06/twitter-delay-verification-check-mark-midterms/)
 - [How ButcherBox bootstrapped to $600M in revenue](https://techcrunch.com/2022/11/06/butcherbox-bootstrap/)
 - [Netflix is bringing back Stranger Things: Puzzle Tales with new gameplay](https://techcrunch.com/2022/11/06/netflix-is-bringing-back-stranger-things-puzzle-tales-with-new-gameplay/)
 - [Cloudflare reaches $1B run rate, promises $5B in 5 years. Investors? Not impressed](https://techcrunch.com/2022/11/06/cloudflare-reaches-1b-run-rate-promises-5b-in-5-years-investors-not-impressed/)
-- [What time is the Blood Moon total lunar eclipse on Nov. 8?](https://www.space.com/blood-moon-lunar-eclipse-november-2022-what-time/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
