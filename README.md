@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Netflix is bringing back ‘Stranger Things: Puzzle Tales’ with new gameplay](https://techcrunch.com/2022/11/06/netflix-is-bringing-back-stranger-things-puzzle-tales-with-new-gameplay/)
+- [How ButcherBox bootstrapped to $600M in revenue](https://techcrunch.com/2022/11/06/butcherbox-bootstrap/)
+- [Netflix is bringing back Stranger Things: Puzzle Tales with new gameplay](https://techcrunch.com/2022/11/06/netflix-is-bringing-back-stranger-things-puzzle-tales-with-new-gameplay/)
 - [Cloudflare reaches $1B run rate, promises $5B in 5 years. Investors? Not impressed](https://techcrunch.com/2022/11/06/cloudflare-reaches-1b-run-rate-promises-5b-in-5-years-investors-not-impressed/)
 - [What time is the Blood Moon total lunar eclipse on Nov. 8?](https://www.space.com/blood-moon-lunar-eclipse-november-2022-what-time/)
 - [The fintech layoffs just keep on coming](https://techcrunch.com/2022/11/06/the-fintech-layoffs-just-keep-on-coming/)
-- [Watch an ancient ice sheet cover the British Isles then vanish, in eerie time-lapse animation](https://www.space.com/ancient-ice-sheet-melt-britain-ireland/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
