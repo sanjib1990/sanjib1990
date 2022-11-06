@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [On This Day In Space: Nov. 6, 1572: Tycho supernova discovered](https://www.space.com/39251-on-this-day-in-space.html/)
+- [Astronomers have detected another &#39;planet killer&#39; asteroid. Could we miss one coming our way?](https://www.space.com/astronomers-detect-planet-killer-asteroid-threat/)
+- [Buckle up for family board game night with &#39;Disney Space Mountain: All Systems Go&#39;](https://www.space.com/disney-space-mountain-board-game/)
 - [Fire alarm on Earth delays Northrop Grumman cargo launch to space station](https://www.space.com/northrop-grumman-cygnus-rocket-launch-delayed-fire-alarm/)
 - [Amateur radio operators and more will track NASA&#39;s Artemis 1 moon mission](https://www.space.com/artemis-1-tracking-amateur-radio-operators/)
-- [Galactic arms comb &#39;Berenice&#39;s Hair&#39; in gorgeous telescope photo](https://www.space.com/messier-99-galaxy-berenices-hair-photo/)
-- [Twitter Blue subscription with verification may launch in India in ‘less than a month’](https://techcrunch.com/2022/11/06/elon-musk-twitter-blue-verification-india-launch/)
-- [Elon guts Twitter, Google shutters Hangouts, and the tech layoffs continue](https://techcrunch.com/2022/11/05/elon-guts-twitter-google-shutters-hangouts-and-the-tech-layoffs-continue/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
