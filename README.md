@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Last day to save with early-bird passes to TC Sessions: Crypto](https://techcrunch.com/2022/11/07/last-day-to-save-with-early-bird-passes-to-tc-sessions-crypto/)
-- [Blood Moon 2022 explained: Here are the phases of our last total lunar eclipse for 3 years](https://www.space.com/blood-moon-lunar-eclipse-phases-explained/)
-- [Apple is reportedly working to simplify its ‘Hey Siri’ trigger phrase to just ‘Siri’](https://techcrunch.com/2022/11/07/apple-reportedly-simplify-hey-siri-trigger-phrase-just-siri/)
-- [A sneak peek at early-stage startups exhibiting at TC Sessions: Space](https://techcrunch.com/2022/11/07/a-sneak-peek-at-early-stage-startups-exhibiting-at-tc-sessions-space/)
-- [Maybe we were valuing software companies the wrong way all along](https://techcrunch.com/2022/11/07/maybe-we-were-valuing-software-companies-the-wrong-way-all-along/)
+- [Travel app Hopper raises $96M from Capital One to double down on social commerce](https://techcrunch.com/2022/11/07/travel-app-hopper-raises-96m-from-capital-one-to-double-down-on-social-commerce/)
+- [See the eclipsed setting moon and rising sun simultaneously tomorrow during rare &#39;selenelion&#39;](https://www.space.com/total-lunar-eclipse-rare-sunrise-moonset-selenelion-nov-2022/)
+- [Dear Sophie: How can I stay in the US if I’ve been laid off?](https://techcrunch.com/2022/11/07/dear-sophie-how-can-i-stay-in-the-us-if-ive-been-laid-off/)
+- [YouTube begins rolling out Shorts on TV globally starting today](https://techcrunch.com/2022/11/07/youtube-begins-rolling-out-shorts-on-tv-globally-starting-today/)
+- [These folks are working to bring more diversity to the venture LP investing pool](https://techcrunch.com/2022/11/07/these-folks-are-working-to-bring-more-diversity-to-the-venture-lp-investing-pool/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
