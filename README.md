@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Airbnb will soon show prices inclusive of all fees in search results](https://techcrunch.com/2022/11/07/airbnb-will-soon-show-prices-inclusive-of-all-fees-in-search-results/)
+- [Ireland-led GDPR probe of Yahoo’s cookie banners moves to draft decision review](https://techcrunch.com/2022/11/07/yahoo-gdpr-dpc-article-60/)
 - [Yassir pulls in $150M for its super app, led by Mary Meeker’s BOND](https://techcrunch.com/2022/11/07/yassir-pulls-in-150m-for-its-super-app-led-by-mary-meekers-bond/)
 - [On This Day In Space: Nov. 7, 1996: Mars Global Surveyor launches to the Red Planet](https://www.space.com/39251-on-this-day-in-space.html/)
 - [Unity and IronSource’s $4.4B merger is now complete](https://techcrunch.com/2022/11/07/unity-and-ironsources-4-4b-merger-is-now-complete/)
-- [Antares rocket launches ovarian cells and other wild experiments to space station for NASA](https://www.space.com/cygnus-cargo-launch-space-station-november-2022/)
-- [Alien planets keep their parent stars young by forcing them to &#39;exercise&#39;](https://www.space.com/planets-make-stars-look-younger/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
