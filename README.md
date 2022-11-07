@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Mysterious blue &#39;aurora&#39; over Lapland surprises skywatchers &lpar;photos&rpar;](https://www.space.com/mysterious-blue-aurora-spotted-over-lapland-sweden/)
-- [NASA Webb Image Coming This Week](https://blogs.nasa.gov/webb/2022/11/07/nasa-webb-image-coming-this-week-4/)
-- [European Union lay outs data-sharing plan to boost transparency of p2p rentals](https://techcrunch.com/2022/11/07/eu-p2p-rentals-transparency-regulation/)
-- [US DOJ announces seizure of $3.36B in cryptocurrency](https://techcrunch.com/2022/11/07/us-doj-announces-seizure-of-3-36b-in-cryptocurrency/)
-- [One day all tech news will merely be updates to Twitter moderation policies](https://techcrunch.com/2022/11/07/one-day-all-tech-news-will-merely-be-updates-to-twitter-moderation-policies/)
+- [Last day to save with early-bird passes to TC Sessions: Crypto](https://techcrunch.com/2022/11/07/last-day-to-save-with-early-bird-passes-to-tc-sessions-crypto/)
+- [Blood Moon 2022 explained: Here are the phases of our last total lunar eclipse for 3 years](https://www.space.com/blood-moon-lunar-eclipse-phases-explained/)
+- [Apple is reportedly working to simplify its ‘Hey Siri’ trigger phrase to just ‘Siri’](https://techcrunch.com/2022/11/07/apple-reportedly-simplify-hey-siri-trigger-phrase-just-siri/)
+- [A sneak peek at early-stage startups exhibiting at TC Sessions: Space](https://techcrunch.com/2022/11/07/a-sneak-peek-at-early-stage-startups-exhibiting-at-tc-sessions-space/)
+- [Maybe we were valuing software companies the wrong way all along](https://techcrunch.com/2022/11/07/maybe-we-were-valuing-software-companies-the-wrong-way-all-along/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
