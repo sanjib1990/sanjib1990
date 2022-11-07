@@ -97,8 +97,8 @@
 - [Blood Moon lunar eclipse weather forecast for the US](https://www.space.com/blood-moon-lunar-eclipse-weather-nov-08-2022/)
 - [The moon&#39;s crown peeks above Earth a day before total lunar eclipse &lpar;satellite photo&rpar;](https://www.space.com/moon-peeks-above-earth-before-total-lunar-eclipse/)
 - [Cygnus cargo ship is trying to reach space station with only 1 solar array deployed](https://www.space.com/cygnus-cargo-ship-solar-array-problem/)
-- [Travel app Hopper raises $96M from Capital One to double down on social commerce](https://techcrunch.com/2022/11/07/travel-app-hopper-raises-96m-from-capital-one-to-double-down-on-social-commerce/)
 - [See the eclipsed setting moon and rising sun simultaneously during a rare &#39;selenelion&#39; on Nov. 8](https://www.space.com/total-lunar-eclipse-rare-sunrise-moonset-selenelion-nov-2022/)
+- [How to watch the Blood Moon lunar eclipse tomorrow online, the last until 2025](https://www.space.com/blood-moon-lunar-eclipse-november-2022-livestreams/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
