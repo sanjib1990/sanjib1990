@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Trouble brews at Arrival, TuSimple ousts its CEO and Cruise expands in San Francisco](https://techcrunch.com/2022/11/07/trouble-brews-at-arrival-tusimple-ousts-its-ceo-and-cruise-expands-in-san-francisco/)
-- [Ouster and Velodyne agree to merger, signaling consolidation in lidar industry](https://techcrunch.com/2022/11/07/ouster-and-velodyne-agree-to-merger-signaling-consolidation-in-lidar-industry/)
-- [Watch ovarian cells and other wild experiments launch to space station today](https://www.space.com/cygnus-cargo-launch-space-station-november-2022/)
-- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html/)
-- [After laying off half of its staff, Twitter might be asking some employees to come back](https://techcrunch.com/2022/11/07/after-laying-off-half-of-its-staff-twitter-might-be-asking-some-employees-to-come-back/)
+- [Yassir pulls in $150M for its super app, led by Mary Meeker’s BOND](https://techcrunch.com/2022/11/07/yassir-pulls-in-150m-for-its-super-app-led-by-mary-meekers-bond/)
+- [On This Day In Space: Nov. 7, 1996: Mars Global Surveyor launches to the Red Planet](https://www.space.com/39251-on-this-day-in-space.html/)
+- [Unity and IronSource’s $4.4B merger is now complete](https://techcrunch.com/2022/11/07/unity-and-ironsources-4-4b-merger-is-now-complete/)
+- [Antares rocket launches ovarian cells and other wild experiments to space station for NASA](https://www.space.com/cygnus-cargo-launch-space-station-november-2022/)
+- [Alien planets keep their parent stars young by forcing them to &#39;exercise&#39;](https://www.space.com/planets-make-stars-look-younger/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
