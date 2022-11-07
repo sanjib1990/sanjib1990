@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [No signs of alien life found near source of famous &#39;Wow!&#39; signal](https://www.space.com/seti-wow-signal-search-no-life-signs/)
+- [Launch of epic Artemis 1 moon mission just 1 week away as NASA watches storm](https://www.space.com/artemis-1-moon-mission-launch-one-week-away/)
+- [Remnants of oldest known solar system discovered just 90 light-years from Earth](https://www.space.com/remnants-earthlike-planets-oldest-solar-system/)
 - [Subtropical Storm Nicole delays SpaceX  launch to Saturday](https://www.space.com/subtropical-storm-nicole-spacex-launch-delay/)
 - [Truveta’s big data healthcare project is pretty cool](https://techcrunch.com/2022/11/07/truvetas-big-data-healthcare-project-is-pretty-cool/)
-- [China launches Zhongxing 19 communications satellite](https://www.space.com/china-launches-zhongxing-communications-satellite/)
-- [Here’s the rundown on the Binance and FTX fiasco](https://techcrunch.com/2022/11/07/heres-the-rundown-on-the-binance-and-ftx-fiasco/)
-- [Signal is the latest app to roll out a Stories feature](https://techcrunch.com/2022/11/07/signal-the-latest-platform-roll-out-stories-feature/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
