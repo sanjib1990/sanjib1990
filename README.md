@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Trouble brews at Arrival, TuSimple ousts its CEO and Cruise expands in San Francisco](https://techcrunch.com/2022/11/07/trouble-brews-at-arrival-tusimple-ousts-its-ceo-and-cruise-expands-in-san-francisco/)
+- [Ouster and Velodyne agree to merger, signaling consolidation in lidar industry](https://techcrunch.com/2022/11/07/ouster-and-velodyne-agree-to-merger-signaling-consolidation-in-lidar-industry/)
+- [Watch ovarian cells and other wild experiments launch to space station today](https://www.space.com/cygnus-cargo-launch-space-station-november-2022/)
+- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html/)
 - [After laying off half of its staff, Twitter might be asking some employees to come back](https://techcrunch.com/2022/11/07/after-laying-off-half-of-its-staff-twitter-might-be-asking-some-employees-to-come-back/)
-- [Devialet launches a high-end portable speaker](https://techcrunch.com/2022/11/07/devialet-launches-a-high-end-portable-speaker/)
-- [After 40 million app downloads, PhotoRoom raises $19 million](https://techcrunch.com/2022/11/07/after-40-million-app-downloads-photoroom-raises-19-million/)
-- [Amazon introduces a $7.3 annual Prime Video subscription tier in India](https://techcrunch.com/2022/11/06/amazon-introduces-a-7-3-annual-prime-video-subscription-tier-in-india/)
-- [Apple warns of lower iPhone 14 Pro models shipment due to Covid-19 restrictions](https://techcrunch.com/2022/11/06/apple-warns-lower-iphone-14-pro-models-shipment-due-to-covid-19-restrictions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
