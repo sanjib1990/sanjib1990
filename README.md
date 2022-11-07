@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Blood Moon lunar eclipse weather forecast for the US](https://www.space.com/blood-moon-lunar-eclipse-weather-nov-08-2022/)
-- [The moon&#39;s crown peeks above Earth a day before total lunar eclipse &lpar;satellite photo&rpar;](https://www.space.com/moon-peeks-above-earth-before-total-lunar-eclipse/)
-- [Cygnus cargo ship is trying to reach space station with only 1 solar array deployed](https://www.space.com/cygnus-cargo-ship-solar-array-problem/)
-- [See the eclipsed setting moon and rising sun simultaneously during a rare &#39;selenelion&#39; on Nov. 8](https://www.space.com/total-lunar-eclipse-rare-sunrise-moonset-selenelion-nov-2022/)
-- [How to watch the Blood Moon lunar eclipse tomorrow online, the last until 2025](https://www.space.com/blood-moon-lunar-eclipse-november-2022-livestreams/)
+- [Subtropical Storm Nicole delays SpaceX  launch to Saturday](https://www.space.com/subtropical-storm-nicole-spacex-launch-delay/)
+- [Truveta’s big data healthcare project is pretty cool](https://techcrunch.com/2022/11/07/truvetas-big-data-healthcare-project-is-pretty-cool/)
+- [China launches Zhongxing 19 communications satellite](https://www.space.com/china-launches-zhongxing-communications-satellite/)
+- [Here’s the rundown on the Binance and FTX fiasco](https://techcrunch.com/2022/11/07/heres-the-rundown-on-the-binance-and-ftx-fiasco/)
+- [Signal is the latest app to roll out a Stories feature](https://techcrunch.com/2022/11/07/signal-the-latest-platform-roll-out-stories-feature/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
