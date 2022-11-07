@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mysterious blue &#39;aurora&#39; over Lapland surprises skywatchers &lpar;photos&rpar;](https://www.space.com/mysterious-blue-aurora-spotted-over-lapland-sweden/)
+- [NASA Webb Image Coming This Week](https://blogs.nasa.gov/webb/2022/11/07/nasa-webb-image-coming-this-week-4/)
+- [European Union lay outs data-sharing plan to boost transparency of p2p rentals](https://techcrunch.com/2022/11/07/eu-p2p-rentals-transparency-regulation/)
+- [US DOJ announces seizure of $3.36B in cryptocurrency](https://techcrunch.com/2022/11/07/us-doj-announces-seizure-of-3-36b-in-cryptocurrency/)
 - [One day all tech news will merely be updates to Twitter moderation policies](https://techcrunch.com/2022/11/07/one-day-all-tech-news-will-merely-be-updates-to-twitter-moderation-policies/)
-- [New data shows how SaaS founders have been dealing with whiplash from public markets](https://techcrunch.com/2022/11/07/new-data-shows-how-saas-founders-have-been-dealing-with-whiplash-from-public-markets/)
-- [HR platform WorkTorch raises $2.2M seed round](https://techcrunch.com/2022/11/07/hr-platform-worktorch-raises-2-2m-seed-round/)
-- [Amazon is now replacing customers’ discontinued Cloud Cams with new Blink Mini devices](https://techcrunch.com/2022/11/07/amazon-is-now-replacing-customers-discontinued-cloud-cams-with-new-blink-mini-devices/)
-- [Boosted by Twitter drama, Mastodon reaches 1 million active monthly users](https://techcrunch.com/2022/11/07/boosted-by-twitter-drama-mastodon-reaches-1-million-active-monthly-users/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
