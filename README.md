@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Airbnb will soon show prices inclusive of all fees in search results](https://techcrunch.com/2022/11/07/airbnb-will-soon-show-prices-inclusive-of-all-fees-in-search-results/)
-- [Ireland-led GDPR probe of Yahoo’s cookie banners moves to draft decision review](https://techcrunch.com/2022/11/07/yahoo-gdpr-dpc-article-60/)
-- [Yassir pulls in $150M for its super app, led by Mary Meeker’s BOND](https://techcrunch.com/2022/11/07/yassir-pulls-in-150m-for-its-super-app-led-by-mary-meekers-bond/)
-- [On This Day In Space: Nov. 7, 1996: Mars Global Surveyor launches to the Red Planet](https://www.space.com/39251-on-this-day-in-space.html/)
-- [Unity and IronSource’s $4.4B merger is now complete](https://techcrunch.com/2022/11/07/unity-and-ironsources-4-4b-merger-is-now-complete/)
+- [Indian edtech Unacademy cuts 10% of jobs](https://techcrunch.com/2022/11/07/indian-edtech-unacademy-cuts-10-of-jobs/)
+- [2023 will be the year of cyber-risk quantification](https://techcrunch.com/2022/11/07/2023-will-be-the-year-of-cyber-risk-quantification/)
+- [5Mins makes your employees better, a few minutes at a time](https://techcrunch.com/2022/11/07/5mins-raise/)
+- [UK government is scanning British internet space for zero-day threats](https://techcrunch.com/2022/11/07/uk-government-zero-day-scans/)
+- [Jeremy Hodara and Sacha Poignonnec step down as Jumia co-CEOs](https://techcrunch.com/2022/11/07/jeremy-hodara-and-sacha-poignonnec-step-down-as-jumia-co-ceos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
