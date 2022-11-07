@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Block ALL ads with this…&lpar;and speed up your internet&rpar;](https://www.youtube.com/watch?v=B2V_8M9cjYw)
 - [Learn Climate with Open MIT Resources](https://www.youtube.com/watch?v=WXshIwISJ5Y)
 - [Network Time Protocol &lpar;NTP&rpar; - Computerphile](https://www.youtube.com/watch?v=BAo5C2qbLq8)
 - [Nim in 100 Seconds](https://www.youtube.com/watch?v=WHyOHQ_GkNo)
 - [&quot;Alexa, build me a Virtual Machine&quot;](https://www.youtube.com/watch?v=6rpTjEpvUtc)
-- [I SCARED my Daughters using a Raspberry Pi](https://www.youtube.com/watch?v=X2YH-XyqyXE)
 <!-- YOUTUBE:END -->
 
 ---
