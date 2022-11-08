@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Teamraderie, a B2B Masterclass-style platform for team building, raises $7M](https://techcrunch.com/2022/11/08/teamraderie-a-b2b-masterclass-style-platform-for-team-building-raises-7m/)
-- [On This Day In Space: Nov. 8, 2005: Europe launches its 1st mission to Venus](https://www.space.com/39251-on-this-day-in-space.html/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html/)
-- [Quona Capital sinking $332M into startups focused on financial inclusion](https://techcrunch.com/2022/11/08/quona-capital-332m-financial-inclusion/)
-- [The last Blood Moon lunar eclipse until 2025 is underway! See the first photos here.](https://www.space.com/blood-moon-lunar-eclipse-first-views-november-2022/)
+- [I’ve worked with hundreds of unicorns: Here’s what founders and executives need to focus on](https://techcrunch.com/2022/11/08/ive-worked-with-hundreds-of-unicorns-heres-what-founders-and-executives-need-to-focus-on/)
+- [A beginner’s guide to Mastodon, the open-source Twitter alternative](https://techcrunch.com/2022/11/08/what-is-mastodon/)
+- [Eliyan raises $40M from Intel and Micron to build chiplet interconnects](https://techcrunch.com/2022/11/08/eliyan-raises-40m-from-intel-and-micron-to-build-chiplet-interconnects/)
+- [Security automation startup Veriti launches out of stealth with $18.5M](https://techcrunch.com/2022/11/08/security-automation-startup-veriti-launches-out-of-stealth-with-18-5m/)
+- [A list of features Elon Musk has promised to bring to Twitter](https://techcrunch.com/2022/11/08/a-list-of-features-elon-musk-has-promised-to-bring-to-twitter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
