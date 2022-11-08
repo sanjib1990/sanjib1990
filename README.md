@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Gmail will no longer allow users to revert back to its old design](https://techcrunch.com/2022/11/08/gmail-no-longer-allow-users-revert-back-old-design/)
-- [Binance’s plan to acquire FTX is ‘real-life Game of Thrones’ as crypto winter winds blow](https://techcrunch.com/2022/11/08/binances-plan-to-acquire-ftx-is-real-life-game-of-thrones-as-crypto-winter-winds-blow/)
-- [Elizabeth Holmes is denied new trial, will be sentenced on Nov. 18](https://techcrunch.com/2022/11/08/elizabeth-holmes-sentencing-date/)
-- [Astronomers spot the exposed inner core of an &#39;oddball&#39; star by accident](https://www.space.com/first-ever-detection-star-core/)
-- [Carbon cap and trade for developing world could spur massive investments — if it works](https://techcrunch.com/2022/11/08/carbon-cap-and-trade-for-developing-world-could-spur-massive-investments-if-it-works/)
+- [Humble keeps excess inventory out of the Philippines’ landfills](https://techcrunch.com/2022/11/08/humble-keeps-excess-inventory-out-of-the-philippines-landfills/)
+- [Laid off from your tech job? Day One wants to give you $100,000 to start a company](https://techcrunch.com/2022/11/08/laid-off-from-your-tech-job-day-one-wants-to-give-you-100000-to-start-a-company/)
+- [Salesforce confirms it has laid off hundreds of employees](https://techcrunch.com/2022/11/08/salesforce-confirms-it-has-laid-off-hundreds-of-employees/)
+- [Disney+ reaches 164.2M subscribers as it prepares for ad-supported tier launch](https://techcrunch.com/2022/11/08/disney-reports-fourth-quarter-results-2022/)
+- [Branson blues? Challenges face Virgin Galactic and Virgin Orbit](https://www.space.com/richard-branson-space-companies-issues-virgin-galactic-orbit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
