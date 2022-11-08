@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lyft takes $135.7 million hit on Argo AI shutdown](https://techcrunch.com/2022/11/07/lyft-takes-135-7-million-hit-on-argo-ai-shutdown/)
+- [Foxconn invests another $170M into EV SPAC Lordstown Motors](https://techcrunch.com/2022/11/07/foxconn-invests-another-170m-into-ev-spac-lordstown-motors/)
 - [Harmonic helps investors query the startup searches of their wildest dreams](https://techcrunch.com/2022/11/07/harmonic-helps-investors-query-the-startup-searches-of-their-wildest-dreams/)
 - [Elon Musk’s Twitter faces US midterm elections, his first high-stakes test](https://techcrunch.com/2022/11/07/elon-musk-twitter-us-midterm-elections/)
 - [Daily Crunch: Say ‘fromage’! French startup PhotoRoom captures $19M Series A](https://techcrunch.com/2022/11/07/daily-crunch-say-fromage-french-startup-photoroom-captures-19m-series-a/)
-- [Max Q: Ocean splashdown](https://techcrunch.com/2022/11/07/max-q-ocean-splashdown/)
-- [Perceptron: AI that sees with sound, learns to walk and predicts seismic physics](https://techcrunch.com/2022/11/07/perceptron-ai-that-sees-with-sound-learns-to-walk-and-predicts-seismic-physics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
