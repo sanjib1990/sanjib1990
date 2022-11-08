@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronomers spot the exposed inner core of an &#39;oddball&#39; star by accident](https://www.space.com/first-ever-detection-star-core/)
+- [Carbon cap and trade for developing world could spur massive investments — if it works](https://techcrunch.com/2022/11/08/carbon-cap-and-trade-for-developing-world-could-spur-massive-investments-if-it-works/)
+- [Eclipsed Blood Moon looms over NASA&#39;s Artemis 1 rocket &lpar;photos&rpar;](https://www.space.com/artemis-1-moon-rocket-total-lunar-eclipse-photos/)
 - [NASA&#39;s last space shuttle cabin trainer lands at Lone Star Flight Museum](https://www.space.com/space-shuttle-trainer-lone-star-flight-museum/)
 - [How Formula E will shape Maserati’s first passenger EV](https://techcrunch.com/2022/11/08/how-formula-e-will-shape-maseratis-first-passenger-ev/)
-- [NASA astronaut votes from space bunk bed for Election Day 2022](https://www.space.com/nasa-astronaut-space-ballot-us-election-2022/)
-- [Twitter safety head suggests further ‘identity verification’ beyond paid verification may later be required](https://techcrunch.com/2022/11/08/twitter-safety-head-suggests-further-identity-verification-beyond-paid-verification-may-later-be-required/)
-- [TechCrunch+ roundup: H-1B worker layoffs, cyber risk quantification, SaaS whiplash](https://techcrunch.com/2022/11/08/techcrunch-roundup-h-1b-worker-layoffs-cyber-risk-quantification-saas-whiplash/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
