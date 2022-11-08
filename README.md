@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia touts a slower chip for China to avoid US ban](https://techcrunch.com/2022/11/07/nvidia-us-china-ban-alternative/)
 - [Musk’s $56 billion Tesla pay deal goes to trial amid Twitter overhaul](https://techcrunch.com/2022/11/07/musks-56-billion-tesla-pay-deal-goes-to-trial-amid-twitter-overhaul/)
 - [Outgoing YC President Geoff Ralston: The market is changing; YC’s terms are not](https://techcrunch.com/2022/11/07/outgoing-yc-president-geoff-ralston-the-market-is-changing-ycs-terms-are-not/)
 - [Lyft takes $135.7 million hit on Argo AI shutdown](https://techcrunch.com/2022/11/07/lyft-takes-135-7-million-hit-on-argo-ai-shutdown/)
 - [Foxconn invests another $170M into EV SPAC Lordstown Motors](https://techcrunch.com/2022/11/07/foxconn-invests-another-170m-into-ev-spac-lordstown-motors/)
-- [Harmonic helps investors query the startup searches of their wildest dreams](https://techcrunch.com/2022/11/07/harmonic-helps-investors-query-the-startup-searches-of-their-wildest-dreams/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
