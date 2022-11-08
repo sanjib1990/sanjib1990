@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Line launches NFT marketplace on its platform DOSI](https://techcrunch.com/2022/11/08/line-launches-nft-marketplace-on-its-platform-dosi/)
+- [Netflix launches a new interactive trivia experience, ‘Triviaverse’](https://techcrunch.com/2022/11/08/netflix-launches-a-new-interactive-trivia-experience-triviaverse/)
+- [Southeast Asia health tech platform Speedoc raises $28M](https://techcrunch.com/2022/11/08/southeast-asia-health-tech-platform-speedoc-raises-28m/)
 - [Doola nurses new capital for its ‘business in a box’ tool targeting global founders](https://techcrunch.com/2022/11/08/doola-nurses-new-capital-for-its-business-in-a-box-tool-targeting-global-founders/)
 - [Grab online bank leader Reuben Lai to step down](https://techcrunch.com/2022/11/08/grab-financial-leader-reuben-lai-to-step-down/)
-- [Amazon quietly opens its logistics network to third-party merchants in India](https://techcrunch.com/2022/11/07/amazon-quietly-opens-its-logistics-network-to-third-party-merchants-in-india/)
-- [Former Tink employees launch Atlar, a payment automation startup](https://techcrunch.com/2022/11/07/former-tink-employees-launch-atlar-a-payment-automation-startup/)
-- [Nvidia touts a slower chip for China to avoid US ban](https://techcrunch.com/2022/11/07/nvidia-us-china-ban-alternative/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
