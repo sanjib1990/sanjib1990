@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Gmail will no longer allow users to revert back to its old design](https://techcrunch.com/2022/11/08/gmail-no-longer-allow-users-revert-back-old-design/)
+- [Binance’s plan to acquire FTX is ‘real-life Game of Thrones’ as crypto winter winds blow](https://techcrunch.com/2022/11/08/binances-plan-to-acquire-ftx-is-real-life-game-of-thrones-as-crypto-winter-winds-blow/)
+- [Elizabeth Holmes is denied new trial, will be sentenced on Nov. 18](https://techcrunch.com/2022/11/08/elizabeth-holmes-sentencing-date/)
 - [Astronomers spot the exposed inner core of an &#39;oddball&#39; star by accident](https://www.space.com/first-ever-detection-star-core/)
 - [Carbon cap and trade for developing world could spur massive investments — if it works](https://techcrunch.com/2022/11/08/carbon-cap-and-trade-for-developing-world-could-spur-massive-investments-if-it-works/)
-- [Eclipsed Blood Moon looms over NASA&#39;s Artemis 1 rocket &lpar;photos&rpar;](https://www.space.com/artemis-1-moon-rocket-total-lunar-eclipse-photos/)
-- [NASA&#39;s last space shuttle cabin trainer lands at Lone Star Flight Museum](https://www.space.com/space-shuttle-trainer-lone-star-flight-museum/)
-- [How Formula E will shape Maserati’s first passenger EV](https://techcrunch.com/2022/11/08/how-formula-e-will-shape-maseratis-first-passenger-ev/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
