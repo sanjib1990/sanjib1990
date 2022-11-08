@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Webb’s Mid-Infrared Instrument Returns to Full Functionality](https://blogs.nasa.gov/webb/2022/11/08/webbs-mid-infrared-instrument-returns-to-full-functionality/)
-- [NASA needs a new moon car for off-roading astronauts at the lunar south pole](https://www.space.com/nasa-needs-a-new-moon-car-for-off-roading-astronauts-at-the-lunar-south-pole/)
-- [Laika laps up $50M for its automated security compliance platform](https://techcrunch.com/2022/11/08/laika-laps-up-50m-for-its-automated-security-compliance-platform/)
-- [Last Blood Moon lunar eclipse until 2025 wows observers around the world &lpar;photos&rpar;](https://www.space.com/blood-moon-lunar-eclipse-first-views-november-2022/)
-- [Ransomware gang threatens to publish thousands of Australians’ health data](https://techcrunch.com/2022/11/08/ransomware-medibank-australia-health-data/)
+- [FTX’s seemingly sluggish withdrawals raise eyebrows](https://techcrunch.com/2022/11/08/ftxs-seemingly-sluggish-withdrawals-raise-eyebrows/)
+- [Wing brings drone delivery options to DoorDash customers in Logan, Australia](https://techcrunch.com/2022/11/08/wing-brings-drone-delivery-options-to-doordash-customers-in-logan-australia/)
+- [Peloton co-founder John Foley is a rug guy now](https://techcrunch.com/2022/11/08/peloton-co-founder-john-foley-is-a-rug-guy-now/)
+- [Instagram rolls out an in-app scheduling tool to all professional accounts](https://techcrunch.com/2022/11/08/instagram-scheduling-tool-all-professional-accounts/)
+- [Electric commercial van maker Arrival delays revenue until 2024](https://techcrunch.com/2022/11/08/electric-commercial-van-maker-arrival-delays-revenue-until-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
