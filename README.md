@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Line launches NFT marketplace on its platform DOSI](https://techcrunch.com/2022/11/08/line-launches-nft-marketplace-on-its-platform-dosi/)
-- [Netflix launches a new interactive trivia experience, ‘Triviaverse’](https://techcrunch.com/2022/11/08/netflix-launches-a-new-interactive-trivia-experience-triviaverse/)
-- [Southeast Asia health tech platform Speedoc raises $28M](https://techcrunch.com/2022/11/08/southeast-asia-health-tech-platform-speedoc-raises-28m/)
-- [Doola nurses new capital for its ‘business in a box’ tool targeting global founders](https://techcrunch.com/2022/11/08/doola-nurses-new-capital-for-its-business-in-a-box-tool-targeting-global-founders/)
-- [Grab online bank leader Reuben Lai to step down](https://techcrunch.com/2022/11/08/grab-financial-leader-reuben-lai-to-step-down/)
+- [Teamraderie, a B2B Masterclass-style platform for team building, raises $7M](https://techcrunch.com/2022/11/08/teamraderie-a-b2b-masterclass-style-platform-for-team-building-raises-7m/)
+- [On This Day In Space: Nov. 8, 2005: Europe launches its 1st mission to Venus](https://www.space.com/39251-on-this-day-in-space.html/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html/)
+- [Quona Capital sinking $332M into startups focused on financial inclusion](https://techcrunch.com/2022/11/08/quona-capital-332m-financial-inclusion/)
+- [The last Blood Moon lunar eclipse until 2025 is underway! See the first photos here.](https://www.space.com/blood-moon-lunar-eclipse-first-views-november-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
