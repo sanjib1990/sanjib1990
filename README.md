@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Humble keeps excess inventory out of the Philippines’ landfills](https://techcrunch.com/2022/11/08/humble-keeps-excess-inventory-out-of-the-philippines-landfills/)
-- [Laid off from your tech job? Day One wants to give you $100,000 to start a company](https://techcrunch.com/2022/11/08/laid-off-from-your-tech-job-day-one-wants-to-give-you-100000-to-start-a-company/)
-- [Salesforce confirms it has laid off hundreds of employees](https://techcrunch.com/2022/11/08/salesforce-confirms-it-has-laid-off-hundreds-of-employees/)
-- [Disney+ reaches 164.2M subscribers as it prepares for ad-supported tier launch](https://techcrunch.com/2022/11/08/disney-reports-fourth-quarter-results-2022/)
-- [Branson blues? Challenges face Virgin Galactic and Virgin Orbit](https://www.space.com/richard-branson-space-companies-issues-virgin-galactic-orbit/)
+- [Twitter will add an ‘official’ badge to high-profile accounts in lieu of verification](https://techcrunch.com/2022/11/08/twitter-will-add-an-official-badge-to-high-profile-accounts-in-lieu-of-verification/)
+- [Daily Crunch: Binance says it will buy FTX after smaller rival stumbles through ‘liquidity crunch’](https://techcrunch.com/2022/11/08/daily-crunch-binance-says-it-will-buy-ftx-after-smaller-rival-stumbles-through-liquidity-crunch/)
+- [1,300 of Ukrainian military&#39;s SpaceX Starlink terminals went offline due to funding shortfall: report](https://www.space.com/ukraine-spacex-starlink-terminals-offline-funding-shortfall/)
+- [Skyroot wants to kickstart private spaceflight in India with first rocket launch next week](https://techcrunch.com/2022/11/08/skyroot-kickstart-india-launch/)
+- [What&#39;s that smell? Broccoli emits gas that could signal presence of alien life](https://www.space.com/broccoli-gas-life-on-other-planets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
