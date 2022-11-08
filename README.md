@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Zoom’s adding email and calendar as it pushes harder to expand the platform](https://techcrunch.com/2022/11/08/zooms-adding-email-and-calendar-as-it-pushes-hard-to-expand-the-platform/)
-- [What’s the right NDR target for SaaS startups?](https://techcrunch.com/2022/11/08/whats-the-right-ndr-target-for-saas-startups/)
-- [Crypto giant Binance to acquire FTX following ‘liquidity crunch’](https://techcrunch.com/2022/11/08/binance-signs-letter-of-intent-to-acquire-ftx/)
-- [FTX’s seemingly sluggish withdrawals raise eyebrows](https://techcrunch.com/2022/11/08/ftxs-seemingly-sluggish-withdrawals-raise-eyebrows/)
-- [Scientists launched seeds into space to create climate-resistant super varieties](https://www.space.com/seeds-international-space-station-experiment-climate-change/)
+- [Twitter safety head suggests further ‘identity verification’ beyond paid verification may later be required](https://techcrunch.com/2022/11/08/twitter-safety-head-suggests-further-identity-verification-beyond-paid-verification-may-later-be-required/)
+- [TechCrunch+ roundup: H-1B worker layoffs, cyber risk quantification, SaaS whiplash](https://techcrunch.com/2022/11/08/techcrunch-roundup-h-1b-worker-layoffs-cyber-risk-quantification-saas-whiplash/)
+- [Startup CEOs sound off on picking cloud providers](https://techcrunch.com/2022/11/08/startup-ceos-sound-off-on-picking-cloud-providers/)
+- [Five spectacular reasons to go to TC Sessions: Crypto](https://techcrunch.com/2022/11/08/five-spectacular-reasons-to-go-to-tc-sessions-crypto/)
+- [Movio wants to make your marketing videos with generative AI](https://techcrunch.com/2022/11/08/movio-marketing-videos-generative-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
