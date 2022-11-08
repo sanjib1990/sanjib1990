@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazing photos of the last Blood Moon lunar eclipse of 2022 &lpar;gallery&rpar;](https://www.space.com/blood-moon-lunar-eclipse-amazing-photos-november-2022/)
-- [A list of features Elon Musk has promised to bring to Twitter](https://techcrunch.com/2022/11/08/a-list-of-features-elon-musk-has-promised-to-bring-to-twitter/)
-- [Teamraderie, a B2B Masterclass-style platform for team building, raises $7M](https://techcrunch.com/2022/11/08/teamraderie-a-b2b-masterclass-style-platform-for-team-building-raises-7m/)
-- [On This Day In Space: Nov. 8, 2005: Europe launches its 1st mission to Venus](https://www.space.com/39251-on-this-day-in-space.html/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html/)
+- [Webb’s Mid-Infrared Instrument Returns to Full Functionality](https://blogs.nasa.gov/webb/2022/11/08/webbs-mid-infrared-instrument-returns-to-full-functionality/)
+- [NASA needs a new moon car for off-roading astronauts at the lunar south pole](https://www.space.com/nasa-needs-a-new-moon-car-for-off-roading-astronauts-at-the-lunar-south-pole/)
+- [Laika laps up $50M for its automated security compliance platform](https://techcrunch.com/2022/11/08/laika-laps-up-50m-for-its-automated-security-compliance-platform/)
+- [Last Blood Moon lunar eclipse until 2025 wows observers around the world &lpar;photos&rpar;](https://www.space.com/blood-moon-lunar-eclipse-first-views-november-2022/)
+- [Ransomware gang threatens to publish thousands of Australians’ health data](https://techcrunch.com/2022/11/08/ransomware-medibank-australia-health-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
