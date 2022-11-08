@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Grab Financial leader Reuben Lai to step down](https://techcrunch.com/2022/11/08/grab-financial-leader-reuben-lai-to-step-down/)
 - [Amazon quietly opens its logistics network to third-party merchants in India](https://techcrunch.com/2022/11/07/amazon-quietly-opens-its-logistics-network-to-third-party-merchants-in-india/)
 - [Former Tink employees launch Atlar, a payment automation startup](https://techcrunch.com/2022/11/07/former-tink-employees-launch-atlar-a-payment-automation-startup/)
 - [Nvidia touts a slower chip for China to avoid US ban](https://techcrunch.com/2022/11/07/nvidia-us-china-ban-alternative/)
 - [Musk’s $56 billion Tesla pay deal goes to trial amid Twitter overhaul](https://techcrunch.com/2022/11/07/musks-56-billion-tesla-pay-deal-goes-to-trial-amid-twitter-overhaul/)
-- [Outgoing YC President Geoff Ralston: The market is changing; YC’s terms are not](https://techcrunch.com/2022/11/07/outgoing-yc-president-geoff-ralston-the-market-is-changing-ycs-terms-are-not/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
