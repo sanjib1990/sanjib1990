@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Zoom’s adding email and calendar as it pushes harder to expand the platform](https://techcrunch.com/2022/11/08/zooms-adding-email-and-calendar-as-it-pushes-hard-to-expand-the-platform/)
+- [What’s the right NDR target for SaaS startups?](https://techcrunch.com/2022/11/08/whats-the-right-ndr-target-for-saas-startups/)
+- [Crypto giant Binance to acquire FTX following ‘liquidity crunch’](https://techcrunch.com/2022/11/08/binance-signs-letter-of-intent-to-acquire-ftx/)
 - [FTX’s seemingly sluggish withdrawals raise eyebrows](https://techcrunch.com/2022/11/08/ftxs-seemingly-sluggish-withdrawals-raise-eyebrows/)
-- [Wing brings drone delivery options to DoorDash customers in Logan, Australia](https://techcrunch.com/2022/11/08/wing-brings-drone-delivery-options-to-doordash-customers-in-logan-australia/)
-- [Peloton co-founder John Foley is a rug guy now](https://techcrunch.com/2022/11/08/peloton-co-founder-john-foley-is-a-rug-guy-now/)
-- [Instagram rolls out an in-app scheduling tool to all professional accounts](https://techcrunch.com/2022/11/08/instagram-scheduling-tool-all-professional-accounts/)
-- [Electric commercial van maker Arrival delays revenue until 2024](https://techcrunch.com/2022/11/08/electric-commercial-van-maker-arrival-delays-revenue-until-2024/)
+- [Scientists launched seeds into space to create climate-resistant super varieties](https://www.space.com/seeds-international-space-station-experiment-climate-change/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
