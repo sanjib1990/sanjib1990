@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Plain is a new customer support tool with a focus on API integrations](https://techcrunch.com/2022/11/09/plain-is-a-new-customer-support-tool-with-a-focus-on-api-integrations/)
 - [Early results show defeat for California Prop 30, a plan to tax the rich and fund EVs](https://techcrunch.com/2022/11/08/early-results-show-defeat-for-california-prop-30-a-plan-to-tax-the-rich-and-fund-evs/)
 - [Tiger Global taps TCV partner Rohit Iragavarapu](https://techcrunch.com/2022/11/08/tiger-global-taps-tcv-partner-rohit-iragavarapu/)
 - [Sweden’s EQT Ventures closes a its third fund at €1.1B to double down on European and early-stage startups](https://techcrunch.com/2022/11/08/swedens-eqt-ventures-closes-a-its-third-fund-at-e1-1b-to-double-down-on-european-and-early-stage-startups/)
 - [Instagram is updating its web interface to take advantage of large screens](https://techcrunch.com/2022/11/08/instagram-is-updating-its-web-interface-to-take-advantage-of-large-screens/)
-- [Kuda takes digital banking play to the U.K. with its remittance product](https://techcrunch.com/2022/11/08/kuda-takes-digital-banking-play-to-the-u-k-with-its-remittance-product/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
