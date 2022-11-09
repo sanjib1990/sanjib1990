@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Meta decimates its staff as the social media giant lays off 11,000](https://techcrunch.com/2022/11/09/daily-crunch-meta-decimates-its-staff-as-the-social-media-giant-lays-off-11000/)
+- [Rivian upholds 2022 production targets as net loss widens](https://techcrunch.com/2022/11/09/rivian-upholds-2022-production-targets-as-net-loss-widens/)
+- [Some crypto VCs see decentralization as the future following FTX collapse](https://techcrunch.com/2022/11/09/some-crypto-vcs-see-decentralization-as-the-future-following-ftx-collapse/)
+- [Fake Twitter accounts flock to blue check mark chaos](https://techcrunch.com/2022/11/09/fake-twitter-blue-check-lebron-musk/)
 - [Binance backs out of deal to buy FTX](https://techcrunch.com/2022/11/09/binance-backs-out-of-deal-to-buy-ftx/)
-- [Google and Twitter veteran maps out a Twitter alternative](https://techcrunch.com/2022/11/09/google-and-twitter-veteran-maps-out-a-twitter-alternative/)
-- [Gaming company Kabam lays off 7% of its workforce to better align with goals](https://techcrunch.com/2022/11/09/kabam-layoffs/)
-- [Power up with our partners at TC Sessions: Crypto](https://techcrunch.com/2022/11/09/power-up-with-our-partners-at-tc-sessions-crypto/)
-- [Elon Musk addresses Twitter advertisers in a meandering Q&amp;A](https://techcrunch.com/2022/11/09/elon-musk-addresses-twitter-advertisers-in-a-meandering-qa/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
