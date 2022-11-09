@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The bottom keeps dropping for software valuations](https://techcrunch.com/2022/11/09/the-bottom-keeps-dropping-for-software-valuations/)
+- [Elon Musk details his vision for a Twitter payments system](https://techcrunch.com/2022/11/09/elon-musk-details-his-vision-for-a-twitter-payments-system/)
+- [Tesla vehicles will soon have Zoom video conferencing](https://techcrunch.com/2022/11/09/tesla-vehicles-will-soon-have-zoom-video-conferencing/)
+- [Say hello to the newest crypto startups from web3 accelerator Alliance DAO’s demo day](https://techcrunch.com/2022/11/09/say-hello-to-the-newest-crypto-startups-from-web3-accelerator-alliance-daos-demo-day/)
 - [VC investors and startup founders see hope in the red wave that wasn’t](https://techcrunch.com/2022/11/09/investors-see-hope-in-the-red-wave-that-wasnt/)
-- [Crypto’s biggest M&amp;A deal, between Binance and FTX, looks unlikely to close](https://techcrunch.com/2022/11/09/cryptos-biggest-acquisition-binance-ftx-exchanges-sbf-cz-alameda-unlikely-close/)
-- [Astra lays off 16% after nearly tripling workforce in the last year](https://techcrunch.com/2022/11/09/astra-lays-off-16-after-nearly-tripling-workforce-in-the-last-year/)
-- [RIP TechCrunch’s Official Twitter Badge &lpar;11/9/22-11/9/22&rpar;](https://techcrunch.com/2022/11/09/rip-techcrunchs-official-twitter-badge/)
-- [Hear Slingshot CEO Melanie Stricklan’s take on simulating orbit at TC Sessions: Space](https://techcrunch.com/2022/11/09/hear-slingshot-ceo-melanie-stricklans-take-on-simulating-orbit-at-tc-sessions-space/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
