@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hear Slingshot CEO Melanie Stricklan’s take on simulating orbit at TC Sessions: Space](https://techcrunch.com/2022/11/09/hear-slingshot-ceo-melanie-stricklans-take-on-simulating-orbit-at-tc-sessions-space/)
-- [Troubled crypto exchange FTX investigated by U.S. regulators over customer funds](https://techcrunch.com/2022/11/09/ftx-crypto-exchange-us-regulators-sec-cftc-probe-binance/)
-- [Nintendo and DeNA to establish joint venture company called Nintendo Systems](https://techcrunch.com/2022/11/09/nintendo-dena-establish-joint-venture-company-nintendo-systems/)
-- [YouTube Music and Premium top 80 million paid subscribers](https://techcrunch.com/2022/11/09/youtube-music-and-premium-top-80-million-paid-subscribers/)
-- [Spotify revamps its Apple Watch app with larger artwork and new features, like direct downloads](https://techcrunch.com/2022/11/09/spotify-revamps-its-apple-watch-app-with-larger-artwork-and-new-features-like-direct-downloads/)
+- [OpenAI leads $23.5M round in Mem, an AI-powered note-taking app](https://techcrunch.com/2022/11/09/ai-powered-note-taking-app-mem-raises-23-5m-openai/)
+- [VC investors and startup founders see hope in the red wave that wasn’t](https://techcrunch.com/2022/11/09/investors-see-hope-in-the-red-wave-that-wasnt/)
+- [Crypto’s biggest M&amp;A deal, between Binance and FTX, looks unlikely to close](https://techcrunch.com/2022/11/09/cryptos-biggest-acquisition-binance-ftx-exchanges-sbf-cz-alameda-unlikely-close/)
+- [Astra lays off 16% after nearly tripling workforce in the last year](https://techcrunch.com/2022/11/09/astra-lays-off-16-after-nearly-tripling-workforce-in-the-last-year/)
+- [RIP TechCrunch’s Official Twitter Badge &lpar;11/9/22-11/9/22&rpar;](https://techcrunch.com/2022/11/09/rip-techcrunchs-official-twitter-badge/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
