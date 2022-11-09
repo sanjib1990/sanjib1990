@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Akamai leads $38M round in Macrometa as the two strike partnership](https://techcrunch.com/2022/11/09/akamai-leads-38m-round-in-macrometa-as-the-two-strike-partnership/)
-- [IBM unveils its 433 qubit Osprey quantum computer](https://techcrunch.com/2022/11/09/ibm-unveils-its-433-qubit-osprey-quantum-computer/)
-- [Ping wants to simplify global payments while helping Latin Americans embrace crypto](https://techcrunch.com/2022/11/09/ping-payments-crypto/)
-- [Filing: Meta slashes expenses on reduced hiring and capex investments](https://techcrunch.com/2022/11/09/filing-meta-slashes-expenses-on-reduced-hiring-and-capex-investments/)
-- [Medibank breach: Hackers start leaking health data after ransomware attack](https://techcrunch.com/2022/11/09/medibank-ransomware-leak/)
+- [Twitter begins to roll out grey checkmarks for high-profile accounts](https://techcrunch.com/2022/11/09/twitter-begins-to-roll-out-grey-checkmarks-for-high-profile-accounts/)
+- [Web3 messaging infrastructure Notifi raises $10M seed round co-led by Hashed, Race Capital](https://techcrunch.com/2022/11/09/web3-messaging-infrastructure-notifi-raises-10m-seed-round-co-led-by-hashed-race-capital/)
+- [Tech layoffs may get worse before they get better](https://techcrunch.com/2022/11/09/tech-layoffs-meta-twitter-behind-the-scenes-advice/)
+- [Binance chief says FTX going down ‘not good for anyone’, warns of greater regulatory scrutiny](https://techcrunch.com/2022/11/09/binance-chief-says-ftx-going-down-not-good-for-anyone-warns-of-greater-regulatory-scrutiny/)
+- [Why mobile subscription management platforms are enjoying tailwinds](https://techcrunch.com/2022/11/09/why-mobile-subscription-management-platforms-are-enjoying-tailwinds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
