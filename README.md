@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The bottom keeps dropping for software valuations](https://techcrunch.com/2022/11/09/the-bottom-keeps-dropping-for-software-valuations/)
-- [Elon Musk details his vision for a Twitter payments system](https://techcrunch.com/2022/11/09/elon-musk-details-his-vision-for-a-twitter-payments-system/)
-- [Tesla vehicles will soon have Zoom video conferencing](https://techcrunch.com/2022/11/09/tesla-vehicles-will-soon-have-zoom-video-conferencing/)
-- [Say hello to the newest crypto startups from web3 accelerator Alliance DAO’s demo day](https://techcrunch.com/2022/11/09/say-hello-to-the-newest-crypto-startups-from-web3-accelerator-alliance-daos-demo-day/)
-- [VC investors and startup founders see hope in the red wave that wasn’t](https://techcrunch.com/2022/11/09/investors-see-hope-in-the-red-wave-that-wasnt/)
+- [Binance backs out of deal to buy FTX](https://techcrunch.com/2022/11/09/binance-backs-out-of-deal-to-buy-ftx/)
+- [Google and Twitter veteran maps out a Twitter alternative](https://techcrunch.com/2022/11/09/google-and-twitter-veteran-maps-out-a-twitter-alternative/)
+- [Gaming company Kabam lays off 7% of its workforce to better align with goals](https://techcrunch.com/2022/11/09/kabam-layoffs/)
+- [Power up with our partners at TC Sessions: Crypto](https://techcrunch.com/2022/11/09/power-up-with-our-partners-at-tc-sessions-crypto/)
+- [Elon Musk addresses Twitter advertisers in a meandering Q&amp;A](https://techcrunch.com/2022/11/09/elon-musk-addresses-twitter-advertisers-in-a-meandering-qa/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
