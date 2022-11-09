@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Next acquires Made.com’s brand and IP as the online furniture retailer enters administration](https://techcrunch.com/2022/11/09/next-acquires-made-coms-brand-and-ip-as-the-online-furniture-retailer-enters-administration/)
-- [VR headset deals: Save on Meta Quest 2, PSVR &amp; more](https://www.space.com/vr-headset-deals/)
-- [Celonis can now map multiple processes and present them in subway-style map](https://techcrunch.com/2022/11/09/celonis-can-now-map-multiple-processes-and-present-them-in-subway-style-map/)
-- [Plain is a new customer support tool with a focus on API integrations](https://techcrunch.com/2022/11/09/plain-is-a-new-customer-support-tool-with-a-focus-on-api-integrations/)
-- [Early results show defeat for California Prop 30, a plan to tax the rich and fund EVs](https://techcrunch.com/2022/11/08/early-results-show-defeat-for-california-prop-30-a-plan-to-tax-the-rich-and-fund-evs/)
+- [Equals secures $15M investment to supercharge spreadsheets](https://techcrunch.com/2022/11/09/equals-secures-15m-investment-to-supercharge-spreadsheets/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html/)
+- [Apple’s Freeform aims to be a collaborative whiteboard for everyone](https://techcrunch.com/2022/11/09/apples-freeform-aims-to-be-a-collaborative-whiteboard-for-everyone/)
+- [On This Day In Space: Nov. 9, 1967: Saturn V launches for 1st time with Apollo 4](https://www.space.com/39251-on-this-day-in-space.html/)
+- [Meta confirms 11,000 layoffs, amounting to 13% of its workforce](https://techcrunch.com/2022/11/09/meta-confirms-11000-layoffs-amounting-to-13-of-its-workforce/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
