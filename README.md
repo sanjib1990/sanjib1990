@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Kuda takes digital banking play to the U.K. with its remittance product](https://techcrunch.com/2022/11/08/kuda-takes-digital-banking-play-to-the-u-k-with-its-remittance-product/)
+- [Beekeeper, which helps companies engage with their ‘deskless’ frontline workforce, raises $50M](https://techcrunch.com/2022/11/08/beekeeper-which-helps-companies-engage-with-their-deskless-frontline-workforce-raises-50m/)
+- [Crypto giant Binance agrees to buy rival FTX amid ‘liquidity crunch’](https://techcrunch.com/2022/11/08/binance-signs-letter-of-intent-to-acquire-ftx/)
 - [Elon Musk sells 19.5 million Tesla shares worth almost $4 billion](https://techcrunch.com/2022/11/08/elon-musk-sells-19-5-million-tesla-shares-worth-almost-4-billion/)
 - [Watch Cygnus cargo ship arrive at space station early Wednesday](https://www.space.com/cygnus-cargo-spacecraft-sally-ride-international-space-station-arrival/)
-- [Electric Era wants to put an EV charger in convenience store parking lot near you](https://techcrunch.com/2022/11/08/electric-era-ev-chargers/)
-- [Why watch a movie when you can watch your corporate all-hands meeting?](https://techcrunch.com/2022/11/08/zoom-rooms-amc-collaboration-movies/)
-- [NASA delays Artemis 1 moon launch to Nov. 16 due to Tropical Storm Nicole](https://www.space.com/artemis-1-moon-launch-delay-november-16-tropical-storm-nicole/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
