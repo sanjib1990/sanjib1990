@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Akamai leads $38M round in Macrometa as the two strike partnership](https://techcrunch.com/2022/11/09/akamai-leads-38m-round-in-macrometa-as-the-two-strike-partnership/)
+- [IBM unveils its 433 qubit Osprey quantum computer](https://techcrunch.com/2022/11/09/ibm-unveils-its-433-qubit-osprey-quantum-computer/)
 - [Ping wants to simplify global payments while helping Latin Americans embrace crypto](https://techcrunch.com/2022/11/09/ping-payments-crypto/)
 - [Filing: Meta slashes expenses on reduced hiring and capex investments](https://techcrunch.com/2022/11/09/filing-meta-slashes-expenses-on-reduced-hiring-and-capex-investments/)
 - [Medibank breach: Hackers start leaking health data after ransomware attack](https://techcrunch.com/2022/11/09/medibank-ransomware-leak/)
-- [Lunar eclipses 2023: When, where &amp; how to see them](https://www.space.com/33786-lunar-eclipse-guide.html/)
-- [Equals secures $15M investment to supercharge spreadsheets](https://techcrunch.com/2022/11/09/equals-secures-15m-investment-to-supercharge-spreadsheets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
