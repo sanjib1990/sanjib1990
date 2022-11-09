@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Electric Era wants to put an EV charger in convenience store parking lot near you](https://techcrunch.com/2022/11/08/electric-era-ev-chargers/)
+- [Why watch a movie when you can watch your corporate all-hands meeting?](https://techcrunch.com/2022/11/08/zoom-rooms-amc-collaboration-movies/)
+- [NASA delays Artemis 1 moon launch to Nov. 16 due to Tropical Storm Nicole](https://www.space.com/artemis-1-moon-launch-delay-november-16-tropical-storm-nicole/)
 - [Twitter will add an ‘official’ badge to high-profile accounts in lieu of verification](https://techcrunch.com/2022/11/08/twitter-will-add-an-official-badge-to-high-profile-accounts-in-lieu-of-verification/)
 - [Daily Crunch: Binance says it will buy FTX after smaller rival stumbles through ‘liquidity crunch’](https://techcrunch.com/2022/11/08/daily-crunch-binance-says-it-will-buy-ftx-after-smaller-rival-stumbles-through-liquidity-crunch/)
-- [1,300 of Ukrainian military&#39;s SpaceX Starlink terminals went offline due to funding shortfall: report](https://www.space.com/ukraine-spacex-starlink-terminals-offline-funding-shortfall/)
-- [Skyroot wants to kickstart private spaceflight in India with first rocket launch next week](https://techcrunch.com/2022/11/08/skyroot-kickstart-india-launch/)
-- [What&#39;s that smell? Broccoli emits gas that could signal presence of alien life](https://www.space.com/broccoli-gas-life-on-other-planets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
