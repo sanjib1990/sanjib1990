@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Early results show defeat for California Prop 30, a plan to tax the rich and fund EVs](https://techcrunch.com/2022/11/08/early-results-show-defeat-for-california-prop-30-a-plan-to-tax-the-rich-and-fund-evs/)
+- [Tiger Global taps TCV partner Rohit Iragavarapu](https://techcrunch.com/2022/11/08/tiger-global-taps-tcv-partner-rohit-iragavarapu/)
 - [Sweden’s EQT Ventures closes a its third fund at €1.1B to double down on European and early-stage startups](https://techcrunch.com/2022/11/08/swedens-eqt-ventures-closes-a-its-third-fund-at-e1-1b-to-double-down-on-european-and-early-stage-startups/)
 - [Instagram is updating its web interface to take advantage of large screens](https://techcrunch.com/2022/11/08/instagram-is-updating-its-web-interface-to-take-advantage-of-large-screens/)
 - [Kuda takes digital banking play to the U.K. with its remittance product](https://techcrunch.com/2022/11/08/kuda-takes-digital-banking-play-to-the-u-k-with-its-remittance-product/)
-- [Beekeeper, which helps companies engage with their ‘deskless’ frontline workforce, raises $50M](https://techcrunch.com/2022/11/08/beekeeper-which-helps-companies-engage-with-their-deskless-frontline-workforce-raises-50m/)
-- [Crypto giant Binance agrees to buy rival FTX amid ‘liquidity crunch’](https://techcrunch.com/2022/11/08/binance-signs-letter-of-intent-to-acquire-ftx/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
