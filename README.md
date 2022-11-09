@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Next acquires Made.com’s brand and IP as the online furniture retailer enters administration](https://techcrunch.com/2022/11/09/next-acquires-made-coms-brand-and-ip-as-the-online-furniture-retailer-enters-administration/)
+- [VR headset deals: Save on Meta Quest 2, PSVR &amp; more](https://www.space.com/vr-headset-deals/)
 - [Celonis can now map multiple processes and present them in subway-style map](https://techcrunch.com/2022/11/09/celonis-can-now-map-multiple-processes-and-present-them-in-subway-style-map/)
 - [Plain is a new customer support tool with a focus on API integrations](https://techcrunch.com/2022/11/09/plain-is-a-new-customer-support-tool-with-a-focus-on-api-integrations/)
 - [Early results show defeat for California Prop 30, a plan to tax the rich and fund EVs](https://techcrunch.com/2022/11/08/early-results-show-defeat-for-california-prop-30-a-plan-to-tax-the-rich-and-fund-evs/)
-- [Tiger Global taps TCV partner Rohit Iragavarapu](https://techcrunch.com/2022/11/08/tiger-global-taps-tcv-partner-rohit-iragavarapu/)
-- [Sweden’s EQT Ventures closes a its third fund at €1.1B to double down on European and early-stage startups](https://techcrunch.com/2022/11/08/swedens-eqt-ventures-closes-a-its-third-fund-at-e1-1b-to-double-down-on-european-and-early-stage-startups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
