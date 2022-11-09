@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Beneath the Night Sky in a Galaxy &lpar;Not Too&rpar; Far Away](https://blogs.nasa.gov/webb/2022/11/09/beneath-the-night-sky-in-a-galaxy-not-too-far-away/)
-- [Save $220 on this excellent Anycubic 3D printer, down to just $309](https://www.space.com/save-220-dollars-on-anycubic-photon-mono-x-down-to-just-309-dollars/)
-- [Peacock adds live TV from all local NBC stations to its Premium Plus tier](https://techcrunch.com/2022/11/09/peacock-adds-live-tv-from-all-local-nbc-stations-to-its-premium-plus-tier/)
-- [3 tips for managing a remote engineering team](https://techcrunch.com/2022/11/09/3-tips-for-managing-a-remote-engineering-team/)
-- [Roblox stock drops on widening losses in Q3, but other growth metrics remain strong](https://techcrunch.com/2022/11/09/roblox-stock-drops-on-widening-losses-in-q3-but-other-growth-metrics-remain-strong/)
+- [Hear Slingshot CEO Melanie Stricklan’s take on simulating orbit at TC Sessions: Space](https://techcrunch.com/2022/11/09/hear-slingshot-ceo-melanie-stricklans-take-on-simulating-orbit-at-tc-sessions-space/)
+- [Troubled crypto exchange FTX investigated by U.S. regulators over customer funds](https://techcrunch.com/2022/11/09/ftx-crypto-exchange-us-regulators-sec-cftc-probe-binance/)
+- [Nintendo and DeNA to establish joint venture company called Nintendo Systems](https://techcrunch.com/2022/11/09/nintendo-dena-establish-joint-venture-company-nintendo-systems/)
+- [YouTube Music and Premium top 80 million paid subscribers](https://techcrunch.com/2022/11/09/youtube-music-and-premium-top-80-million-paid-subscribers/)
+- [Spotify revamps its Apple Watch app with larger artwork and new features, like direct downloads](https://techcrunch.com/2022/11/09/spotify-revamps-its-apple-watch-app-with-larger-artwork-and-new-features-like-direct-downloads/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
