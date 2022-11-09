@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Twitter begins to roll out grey checkmarks for high-profile accounts](https://techcrunch.com/2022/11/09/twitter-begins-to-roll-out-grey-checkmarks-for-high-profile-accounts/)
-- [Web3 messaging infrastructure Notifi raises $10M seed round co-led by Hashed, Race Capital](https://techcrunch.com/2022/11/09/web3-messaging-infrastructure-notifi-raises-10m-seed-round-co-led-by-hashed-race-capital/)
-- [Tech layoffs may get worse before they get better](https://techcrunch.com/2022/11/09/tech-layoffs-meta-twitter-behind-the-scenes-advice/)
-- [Binance chief says FTX going down ‘not good for anyone’, warns of greater regulatory scrutiny](https://techcrunch.com/2022/11/09/binance-chief-says-ftx-going-down-not-good-for-anyone-warns-of-greater-regulatory-scrutiny/)
-- [Why mobile subscription management platforms are enjoying tailwinds](https://techcrunch.com/2022/11/09/why-mobile-subscription-management-platforms-are-enjoying-tailwinds/)
+- [Beneath the Night Sky in a Galaxy &lpar;Not Too&rpar; Far Away](https://blogs.nasa.gov/webb/2022/11/09/beneath-the-night-sky-in-a-galaxy-not-too-far-away/)
+- [Save $220 on this excellent Anycubic 3D printer, down to just $309](https://www.space.com/save-220-dollars-on-anycubic-photon-mono-x-down-to-just-309-dollars/)
+- [Peacock adds live TV from all local NBC stations to its Premium Plus tier](https://techcrunch.com/2022/11/09/peacock-adds-live-tv-from-all-local-nbc-stations-to-its-premium-plus-tier/)
+- [3 tips for managing a remote engineering team](https://techcrunch.com/2022/11/09/3-tips-for-managing-a-remote-engineering-team/)
+- [Roblox stock drops on widening losses in Q3, but other growth metrics remain strong](https://techcrunch.com/2022/11/09/roblox-stock-drops-on-widening-losses-in-q3-but-other-growth-metrics-remain-strong/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
