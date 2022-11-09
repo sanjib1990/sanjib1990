@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ping wants to simplify global payments while helping Latin Americans embrace crypto](https://techcrunch.com/2022/11/09/ping-payments-crypto/)
+- [Filing: Meta slashes expenses on reduced hiring and capex investments](https://techcrunch.com/2022/11/09/filing-meta-slashes-expenses-on-reduced-hiring-and-capex-investments/)
+- [Medibank breach: Hackers start leaking health data after ransomware attack](https://techcrunch.com/2022/11/09/medibank-ransomware-leak/)
+- [Lunar eclipses 2023: When, where &amp; how to see them](https://www.space.com/33786-lunar-eclipse-guide.html/)
 - [Equals secures $15M investment to supercharge spreadsheets](https://techcrunch.com/2022/11/09/equals-secures-15m-investment-to-supercharge-spreadsheets/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html/)
-- [Apple’s Freeform aims to be a collaborative whiteboard for everyone](https://techcrunch.com/2022/11/09/apples-freeform-aims-to-be-a-collaborative-whiteboard-for-everyone/)
-- [On This Day In Space: Nov. 9, 1967: Saturn V launches for 1st time with Apollo 4](https://www.space.com/39251-on-this-day-in-space.html/)
-- [Meta confirms 11,000 layoffs, amounting to 13% of its workforce](https://techcrunch.com/2022/11/09/meta-confirms-11000-layoffs-amounting-to-13-of-its-workforce/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
