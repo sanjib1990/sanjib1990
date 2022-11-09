@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Elon Musk sells 19.5 million Tesla shares worth almost $4 billion](https://techcrunch.com/2022/11/08/elon-musk-sells-19-5-million-tesla-shares-worth-almost-4-billion/)
+- [Watch Cygnus cargo ship arrive at space station early Wednesday](https://www.space.com/cygnus-cargo-spacecraft-sally-ride-international-space-station-arrival/)
 - [Electric Era wants to put an EV charger in convenience store parking lot near you](https://techcrunch.com/2022/11/08/electric-era-ev-chargers/)
 - [Why watch a movie when you can watch your corporate all-hands meeting?](https://techcrunch.com/2022/11/08/zoom-rooms-amc-collaboration-movies/)
 - [NASA delays Artemis 1 moon launch to Nov. 16 due to Tropical Storm Nicole](https://www.space.com/artemis-1-moon-launch-delay-november-16-tropical-storm-nicole/)
-- [Twitter will add an ‘official’ badge to high-profile accounts in lieu of verification](https://techcrunch.com/2022/11/08/twitter-will-add-an-official-badge-to-high-profile-accounts-in-lieu-of-verification/)
-- [Daily Crunch: Binance says it will buy FTX after smaller rival stumbles through ‘liquidity crunch’](https://techcrunch.com/2022/11/08/daily-crunch-binance-says-it-will-buy-ftx-after-smaller-rival-stumbles-through-liquidity-crunch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
