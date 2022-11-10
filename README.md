@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Waymo can now charge for fully driverless services in San Francisco](https://techcrunch.com/2022/11/09/waymo-can-now-charge-for-fully-driverless-services-in-san-francisco/)
+- [Sequoia Capital marks its FTX investment down to zero dollars](https://techcrunch.com/2022/11/09/sequoia-capital-marks-its-ftx-investment-down-to-zero-dollars/)
+- [I guess you can &lpar;officially&rpar; use your fancy Canon camera as a webcam studio now](https://techcrunch.com/2022/11/09/canon-webcam-utility-pro/)
 - [Lyft-backed plan to fund electric cars flops in California](https://techcrunch.com/2022/11/09/lyft-prop-30-fund-electric-cars-flops-california/)
 - [Canoo to buy vehicle manufacturing facility in Oklahoma City](https://techcrunch.com/2022/11/09/canoo-to-buy-vehicle-manufacturing-facility-in-oklahoma-city/)
-- [Daily Crunch: Meta decimates its staff as the social media giant lays off 11,000](https://techcrunch.com/2022/11/09/daily-crunch-meta-decimates-its-staff-as-the-social-media-giant-lays-off-11000/)
-- [Rivian upholds 2022 production targets as net loss widens](https://techcrunch.com/2022/11/09/rivian-upholds-2022-production-targets-as-net-loss-widens/)
-- [Some crypto VCs see decentralization as the future following FTX collapse](https://techcrunch.com/2022/11/09/some-crypto-vcs-see-decentralization-as-the-future-following-ftx-collapse/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
