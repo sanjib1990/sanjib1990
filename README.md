@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [“Self-therapy” startups are blooming in the ‘moderate mental health’ space](https://techcrunch.com/2022/11/10/self-therapy-startups-are-blooming-in-the-moderate-mental-health-space/)
-- [Use IRS Code Section 1202 to sell your multi-million dollar startup tax-free](https://techcrunch.com/2022/11/10/use-irs-code-section-1202-to-sell-your-multi-million-dollar-startup-tax-free/)
-- [Contraline erects $7.2M for contraceptive implants for men](https://techcrunch.com/2022/11/10/contraline-investment/)
-- [Black hole announces itself to astronomers by violently ripping apart a star](https://www.space.com/black-hole-announces-itself-star-death-tidal-disruption-event/)
-- [Reddit’s latest feature lets you mute entire communities](https://techcrunch.com/2022/11/10/reddits-latest-feature-lets-you-mute-entire-communities/)
+- [Tropical Storm Nicole batters Florida as NASA&#39;s Artemis 1 moon rocket rides out storm](https://www.space.com/tropical-storm-nicole-batters-florida-nasa-artemis-1-moon-rocket/)
+- [Police arrest suspected LockBit operator as the ransomware gang spills new data](https://techcrunch.com/2022/11/10/police-arrest-suspected-lockbit-operator-as-the-ransomware-gang-spills-new-data/)
+- [Meet Pineapple, the platform aiming to reshape professional networking for Gen Z](https://techcrunch.com/2022/11/10/pineapple-platform-reshape-professional-networking-gen-z/)
+- [Okta CEO opens up about Auth0 acquisition, SaaS slump and Lapsus$ attack](https://techcrunch.com/2022/11/10/okta-ceo-opens-up-about-auth0-acquisition-saas-slump-and-lapsus-attack/)
+- [NASA&#39;s inflatable flying saucer aces Mars heat shield reentry test](https://www.space.com/nasa-inflatable-flying-saucer-mars-heat-shield-reentry-test/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
