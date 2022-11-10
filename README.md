@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tumblr’s only viable business model is shitposting](https://techcrunch.com/2022/11/10/tumblr-blue-check-shitposting-business-model/)
 - [&#39;Fuzzy&#39; dark matter might make stars form in giant &#39;pancakes&#39;](https://www.space.com/fuzzy-dark-matter-oldest-star-formation/)
 - [Google says surveillance vendor targeted Samsung phones with zero-days](https://techcrunch.com/2022/11/10/google-surveillance-samsung-spyware/)
 - [We may all be #RatVerified forever](https://techcrunch.com/2022/11/10/twitter-rat-verified/)
 - [Crypto’s crown prince stumbles](https://techcrunch.com/2022/11/10/cryptos-crown-prince-stumbles/)
-- [World&#39;s largest iceberg is getting swept away from Antarctica to its doom, satellite image shows](https://www.space.com/largest-iceberg-enters-drake-passage-satellite-photos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
