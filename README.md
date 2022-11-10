@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [With $7M raised, Keyo launches a biometric palm verification network](https://techcrunch.com/2022/11/10/with-7m-raised-keyo-launches-a-biometric-palm-verification-network/)
-- [SoundHound, the voice AI platform, lays off 10% of staff citing ‘challenging market conditions’](https://techcrunch.com/2022/11/10/soundhound-layoffs/)
-- [Sam Bankman-Fried says FTX in talks to raise capital, Alameda Research to wind down trading](https://techcrunch.com/2022/11/10/sam-bankman-fried-says-alameda-research-to-wind-down-trading-ftx-attempting-to-raise-capital/)
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
-- [Apple pledges $450M toward expanding the satellite infrastructure powering Emergency SOS](https://techcrunch.com/2022/11/10/apple-pledges-450m-toward-expanding-the-satellite-infrastructure-powering-emergency-sos/)
+- [“Self-therapy” startups are blooming in the ‘moderate mental health’ space](https://techcrunch.com/2022/11/10/self-therapy-startups-are-blooming-in-the-moderate-mental-health-space/)
+- [Use IRS Code Section 1202 to sell your multi-million dollar startup tax-free](https://techcrunch.com/2022/11/10/use-irs-code-section-1202-to-sell-your-multi-million-dollar-startup-tax-free/)
+- [Contraline erects $7.2M for contraceptive implants for men](https://techcrunch.com/2022/11/10/contraline-investment/)
+- [Black hole announces itself to astronomers by violently ripping apart a star](https://www.space.com/black-hole-announces-itself-star-death-tidal-disruption-event/)
+- [Reddit’s latest feature lets you mute entire communities](https://techcrunch.com/2022/11/10/reddits-latest-feature-lets-you-mute-entire-communities/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
