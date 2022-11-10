@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter blocks new accounts from its $8 verified tier](https://techcrunch.com/2022/11/10/twitter-blocks-new-accounts-from-its-8-verified-tier-after-high-profile-fakes-abound/)
+- [GitHub teases new Copilot feature that lets developers code with their voice](https://techcrunch.com/2022/11/10/github-teases-new-copilot-feature-that-lets-developers-code-with-their-voice/)
+- [Audi, Redwood Materials launch recycling program for consumer electronics](https://techcrunch.com/2022/11/10/audi-redwood-materials-launch-recycling-program-for-consumer-electronics/)
 - [Tianzhou 4 cargo spacecraft undocks from China&#39;s Tiangong space station &lpar;video&rpar;](https://www.space.com/tianzhou-4-undocks-china-tiangong-space-station/)
 - [Google is launching cross-platform features to make it easier to follow the FIFA World Cup](https://techcrunch.com/2022/11/10/google-is-launching-cross-platform-features-to-make-it-easier-to-follow-the-fifa-world-cup/)
-- [Rocket Lab will launch its 1st mission from US soil on Dec. 7](https://www.space.com/rocket-lab-first-launch-us-soil-december-7/)
-- [Black hole announces itself to astronomers by violently ripping apart a star](https://www.space.com/black-hole-announces-itself-star-death-tidal-disruption-event/)
-- [Powerful JPSS-2 weather satellite launches on final Atlas V mission from West Coast](https://www.space.com/jpss-2-satellite-loftid-launch-atlas-v-rocket/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
