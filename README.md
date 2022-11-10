@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Tropical Storm Nicole batters Florida as NASA&#39;s Artemis 1 moon rocket rides out storm](https://www.space.com/tropical-storm-nicole-batters-florida-nasa-artemis-1-moon-rocket/)
-- [Police arrest suspected LockBit operator as the ransomware gang spills new data](https://techcrunch.com/2022/11/10/police-arrest-suspected-lockbit-operator-as-the-ransomware-gang-spills-new-data/)
-- [Meet Pineapple, the platform aiming to reshape professional networking for Gen Z](https://techcrunch.com/2022/11/10/pineapple-platform-reshape-professional-networking-gen-z/)
-- [Okta CEO opens up about Auth0 acquisition, SaaS slump and Lapsus$ attack](https://techcrunch.com/2022/11/10/okta-ceo-opens-up-about-auth0-acquisition-saas-slump-and-lapsus-attack/)
-- [NASA&#39;s inflatable flying saucer aces Mars heat shield reentry test](https://www.space.com/nasa-inflatable-flying-saucer-mars-heat-shield-reentry-test/)
+- [OpenAI leads $23.5M round in Mem, an AI-powered note-taking app](https://techcrunch.com/2022/11/10/ai-powered-note-taking-app-mem-raises-23-5m-openai/)
+- [Google Play to pilot third-party billing in new markets, including U.S.; Bumble joins Spotify as early tester](https://techcrunch.com/2022/11/10/google-play-to-pilot-third-party-billing-in-new-markets-including-u-s-bumble-joins-spotify-as-early-tester/)
+- [Amazon previews its new delivery drone, the MK30](https://techcrunch.com/2022/11/10/this-is-amazons-new-delivery-drone-the-mk30/)
+- [Earth will warm beyond &#39;safe&#39; threshold, but we may have time to cool it down](https://www.space.com/earth-global-warming-exceed-safe-threshold-cool-down/)
+- [Now anyone can hail a Waymo robotaxi in downtown Phoenix](https://techcrunch.com/2022/11/10/now-anyone-can-hail-a-waymo-robotaxi-in-downtown-phoenix/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
