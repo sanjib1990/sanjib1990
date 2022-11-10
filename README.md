@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [With $7M raised, Keyo launches a biometric palm verification network](https://techcrunch.com/2022/11/10/with-7m-raised-keyo-launches-a-biometric-palm-verification-network/)
+- [SoundHound, the voice AI platform, lays off 10% of staff citing ‘challenging market conditions’](https://techcrunch.com/2022/11/10/soundhound-layoffs/)
+- [Sam Bankman-Fried says FTX in talks to raise capital, Alameda Research to wind down trading](https://techcrunch.com/2022/11/10/sam-bankman-fried-says-alameda-research-to-wind-down-trading-ftx-attempting-to-raise-capital/)
+- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
 - [Apple pledges $450M toward expanding the satellite infrastructure powering Emergency SOS](https://techcrunch.com/2022/11/10/apple-pledges-450m-toward-expanding-the-satellite-infrastructure-powering-emergency-sos/)
-- [a16z-backed Tellus wants to help people use their savings to become real estate investors](https://techcrunch.com/2022/11/10/a16z-backed-tellus-wants-to-help-people-use-their-savings-to-become-real-estate-investors/)
-- [Colorado-based SpringTime Ventures pivots its focus for new $25 million fund](https://techcrunch.com/2022/11/10/colorado-based-springtime-ventures-pivots-its-focus-for-new-25-million-fund/)
-- [Perfekto bags $1.1M to find homes for imperfect produce in Mexico](https://techcrunch.com/2022/11/10/perfekto-imperfect-produce-mexico/)
-- [Roku’s home screen gains a new ‘Sports’ tab for users to access live and on-demand sports content](https://techcrunch.com/2022/11/10/rokus-home-screen-gains-a-new-sports-tab-for-users-to-access-live-and-on-demand-sports-content/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
