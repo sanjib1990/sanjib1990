@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Andor&#39; once again masterfully builds up tension for an expertly-crafted jail break](https://www.space.com/andor-star-wars-episode-9-review/)
-- [Who’ll get the last laugh over Musk toying with Twitter’s veracity?](https://techcrunch.com/2022/11/10/elon-musk-twitter-verification-disinformation/)
-- [Pitch Deck Teardown: Syneroid’s $500K seed deck](https://techcrunch.com/2022/11/10/sample-seed-pitch-deck-syneroid-technologies-corp/)
-- [OpenAI leads $23.5M round in Mem, an AI-powered note-taking app](https://techcrunch.com/2022/11/10/ai-powered-note-taking-app-mem-raises-23-5m-openai/)
-- [Google Play to pilot third-party billing in new markets, including U.S.; Bumble joins Spotify as early tester](https://techcrunch.com/2022/11/10/google-play-to-pilot-third-party-billing-in-new-markets-including-u-s-bumble-joins-spotify-as-early-tester/)
+- [We may all be #RatVerified forever](https://techcrunch.com/2022/11/10/twitter-rat-verified/)
+- [Crypto’s crown prince stumbles](https://techcrunch.com/2022/11/10/cryptos-crown-prince-stumbles/)
+- [World&#39;s largest iceberg is getting swept away from Antarctica to its doom, satellite image shows](https://www.space.com/largest-iceberg-enters-drake-passage-satellite-photos/)
+- [Even Healthcare lands additional capital to advance primary care adoption in India](https://techcrunch.com/2022/11/10/even-healthcare-lands-additional-capital-to-advance-primary-care-adoption-in-india/)
+- [Galaxy, Gradient and Lux VCs will judge the TC Sessions: Crypto pitch-off](https://techcrunch.com/2022/11/10/galaxy-gradient-and-lux-vcs-will-judge-the-tc-sessions-crypto-pitch-off/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
