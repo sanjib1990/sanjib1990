@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Andor&#39; once again masterfully builds up tension for an expertly-crafted jail break](https://www.space.com/andor-star-wars-episode-9-review/)
+- [Who’ll get the last laugh over Musk toying with Twitter’s veracity?](https://techcrunch.com/2022/11/10/elon-musk-twitter-verification-disinformation/)
+- [Pitch Deck Teardown: Syneroid’s $500K seed deck](https://techcrunch.com/2022/11/10/sample-seed-pitch-deck-syneroid-technologies-corp/)
 - [OpenAI leads $23.5M round in Mem, an AI-powered note-taking app](https://techcrunch.com/2022/11/10/ai-powered-note-taking-app-mem-raises-23-5m-openai/)
 - [Google Play to pilot third-party billing in new markets, including U.S.; Bumble joins Spotify as early tester](https://techcrunch.com/2022/11/10/google-play-to-pilot-third-party-billing-in-new-markets-including-u-s-bumble-joins-spotify-as-early-tester/)
-- [Amazon previews its new delivery drone, the MK30](https://techcrunch.com/2022/11/10/this-is-amazons-new-delivery-drone-the-mk30/)
-- [Earth will warm beyond &#39;safe&#39; threshold, but we may have time to cool it down](https://www.space.com/earth-global-warming-exceed-safe-threshold-cool-down/)
-- [Now anyone can hail a Waymo robotaxi in downtown Phoenix](https://techcrunch.com/2022/11/10/now-anyone-can-hail-a-waymo-robotaxi-in-downtown-phoenix/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
