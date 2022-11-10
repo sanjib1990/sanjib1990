@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Fuzzy&#39; dark matter might make stars form in giant &#39;pancakes&#39;](https://www.space.com/fuzzy-dark-matter-oldest-star-formation/)
+- [Google says surveillance vendor targeted Samsung phones with zero-days](https://techcrunch.com/2022/11/10/google-surveillance-samsung-spyware/)
 - [We may all be #RatVerified forever](https://techcrunch.com/2022/11/10/twitter-rat-verified/)
 - [Crypto’s crown prince stumbles](https://techcrunch.com/2022/11/10/cryptos-crown-prince-stumbles/)
 - [World&#39;s largest iceberg is getting swept away from Antarctica to its doom, satellite image shows](https://www.space.com/largest-iceberg-enters-drake-passage-satellite-photos/)
-- [Even Healthcare lands additional capital to advance primary care adoption in India](https://techcrunch.com/2022/11/10/even-healthcare-lands-additional-capital-to-advance-primary-care-adoption-in-india/)
-- [Galaxy, Gradient and Lux VCs will judge the TC Sessions: Crypto pitch-off](https://techcrunch.com/2022/11/10/galaxy-gradient-and-lux-vcs-will-judge-the-tc-sessions-crypto-pitch-off/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
