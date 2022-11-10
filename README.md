@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [General Atlantic values media tech Amagi at $1.4 billion in new funding](https://techcrunch.com/2022/11/10/general-atlantic-values-media-tech-amagi-at-1-4-billion-in-new-funding/)
-- [Aiphone door entry systems can be ‘easily’ bypassed thanks to NFC bug](https://techcrunch.com/2022/11/10/aiphone-door-entry-nfc-bug/)
-- [How OVHcloud’s Octave Klaba is building a different cloud computing company](https://techcrunch.com/2022/11/10/how-ovhclouds-octave-klaba-is-building-a-different-cloud-computing-company/)
-- [Ordergroove picks up $100M to grow e-commerce subscriptions as a service](https://techcrunch.com/2022/11/10/ordergroove-picks-up-100m-to-grow-e-commerce-subscriptions-as-a-service/)
-- [On This Day In Space: Nov. 10, 2013: Europe&#39;s GOCE Satellite falls from space](https://www.space.com/39251-on-this-day-in-space.html/)
+- [Apple pledges $450M toward expanding the satellite infrastructure powering Emergency SOS](https://techcrunch.com/2022/11/10/apple-pledges-450m-toward-expanding-the-satellite-infrastructure-powering-emergency-sos/)
+- [a16z-backed Tellus wants to help people use their savings to become real estate investors](https://techcrunch.com/2022/11/10/a16z-backed-tellus-wants-to-help-people-use-their-savings-to-become-real-estate-investors/)
+- [Colorado-based SpringTime Ventures pivots its focus for new $25 million fund](https://techcrunch.com/2022/11/10/colorado-based-springtime-ventures-pivots-its-focus-for-new-25-million-fund/)
+- [Perfekto bags $1.1M to find homes for imperfect produce in Mexico](https://techcrunch.com/2022/11/10/perfekto-imperfect-produce-mexico/)
+- [Roku’s home screen gains a new ‘Sports’ tab for users to access live and on-demand sports content](https://techcrunch.com/2022/11/10/rokus-home-screen-gains-a-new-sports-tab-for-users-to-access-live-and-on-demand-sports-content/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
