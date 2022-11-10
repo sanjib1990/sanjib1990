@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lyft-backed plan to fund electric cars flops in California](https://techcrunch.com/2022/11/09/lyft-prop-30-fund-electric-cars-flops-california/)
+- [Canoo to buy vehicle manufacturing facility in Oklahoma City](https://techcrunch.com/2022/11/09/canoo-to-buy-vehicle-manufacturing-facility-in-oklahoma-city/)
 - [Daily Crunch: Meta decimates its staff as the social media giant lays off 11,000](https://techcrunch.com/2022/11/09/daily-crunch-meta-decimates-its-staff-as-the-social-media-giant-lays-off-11000/)
 - [Rivian upholds 2022 production targets as net loss widens](https://techcrunch.com/2022/11/09/rivian-upholds-2022-production-targets-as-net-loss-widens/)
 - [Some crypto VCs see decentralization as the future following FTX collapse](https://techcrunch.com/2022/11/09/some-crypto-vcs-see-decentralization-as-the-future-following-ftx-collapse/)
-- [Fake Twitter accounts flock to blue check mark chaos](https://techcrunch.com/2022/11/09/fake-twitter-blue-check-lebron-musk/)
-- [Binance backs out of deal to buy FTX](https://techcrunch.com/2022/11/09/binance-backs-out-of-deal-to-buy-ftx/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
