@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Twitter blocks new accounts from its $8 verified tier](https://techcrunch.com/2022/11/10/twitter-blocks-new-accounts-from-its-8-verified-tier-after-high-profile-fakes-abound/)
-- [GitHub teases new Copilot feature that lets developers code with their voice](https://techcrunch.com/2022/11/10/github-teases-new-copilot-feature-that-lets-developers-code-with-their-voice/)
-- [Audi, Redwood Materials launch recycling program for consumer electronics](https://techcrunch.com/2022/11/10/audi-redwood-materials-launch-recycling-program-for-consumer-electronics/)
-- [Tianzhou 4 cargo spacecraft undocks from China&#39;s Tiangong space station &lpar;video&rpar;](https://www.space.com/tianzhou-4-undocks-china-tiangong-space-station/)
-- [Google is launching cross-platform features to make it easier to follow the FIFA World Cup](https://techcrunch.com/2022/11/10/google-is-launching-cross-platform-features-to-make-it-easier-to-follow-the-fifa-world-cup/)
+- [General Atlantic values media tech Amagi at $1.4 billion in new funding](https://techcrunch.com/2022/11/10/general-atlantic-values-media-tech-amagi-at-1-4-billion-in-new-funding/)
+- [Aiphone door entry systems can be ‘easily’ bypassed thanks to NFC bug](https://techcrunch.com/2022/11/10/aiphone-door-entry-nfc-bug/)
+- [How OVHcloud’s Octave Klaba is building a different cloud computing company](https://techcrunch.com/2022/11/10/how-ovhclouds-octave-klaba-is-building-a-different-cloud-computing-company/)
+- [Ordergroove picks up $100M to grow e-commerce subscriptions as a service](https://techcrunch.com/2022/11/10/ordergroove-picks-up-100m-to-grow-e-commerce-subscriptions-as-a-service/)
+- [On This Day In Space: Nov. 10, 2013: Europe&#39;s GOCE Satellite falls from space](https://www.space.com/39251-on-this-day-in-space.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
