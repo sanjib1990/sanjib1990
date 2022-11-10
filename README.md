@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is the moon phase today? Lunar phases 2022](https://www.space.com/18880-moon-phases.html/)
+- [In times of crisis, fintech startups should take the long view instead of hibernating](https://techcrunch.com/2022/11/10/in-times-of-crisis-fintech-startups-should-take-the-long-view-instead-of-hibernating/)
 - [Blnk, a fintech that provides instant consumer credit in Egypt, raises $32M in debt and equity](https://techcrunch.com/2022/11/10/blnk-a-fintech-that-provides-instant-consumer-credit-in-egypt-raises-32m-in-debt-and-equity/)
 - [Airly fights air pollution with a network of affordable sensors](https://techcrunch.com/2022/11/09/airly-fights-air-pollution-with-a-network-of-affordable-sensors/)
 - [Apple limits AirDrop ‘Everyone’ option to 10 minutes in China](https://techcrunch.com/2022/11/09/apple-limits-airdrop-everyone-option-to-10-minutes-in-china/)
-- [Waymo can now charge for fully driverless services in San Francisco](https://techcrunch.com/2022/11/09/waymo-can-now-charge-for-fully-driverless-services-in-san-francisco/)
-- [Sequoia Capital marks its FTX investment down to zero dollars](https://techcrunch.com/2022/11/09/sequoia-capital-marks-its-ftx-investment-down-to-zero-dollars/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
