@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple limits AirDrop ‘everyone’ option to 10 minutes in China](https://techcrunch.com/2022/11/09/apple-limits-airdrop-everyone-option-to-10-minutes-in-china/)
 - [Waymo can now charge for fully driverless services in San Francisco](https://techcrunch.com/2022/11/09/waymo-can-now-charge-for-fully-driverless-services-in-san-francisco/)
 - [Sequoia Capital marks its FTX investment down to zero dollars](https://techcrunch.com/2022/11/09/sequoia-capital-marks-its-ftx-investment-down-to-zero-dollars/)
 - [I guess you can &lpar;officially&rpar; use your fancy Canon camera as a webcam studio now](https://techcrunch.com/2022/11/09/canon-webcam-utility-pro/)
 - [Lyft-backed plan to fund electric cars flops in California](https://techcrunch.com/2022/11/09/lyft-prop-30-fund-electric-cars-flops-california/)
-- [Canoo to buy vehicle manufacturing facility in Oklahoma City](https://techcrunch.com/2022/11/09/canoo-to-buy-vehicle-manufacturing-facility-in-oklahoma-city/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
