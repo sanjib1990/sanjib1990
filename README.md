@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Sequoia Capital writes off its $210M investment in crypto exchange FTX](https://techcrunch.com/2022/11/10/daily-crunch-sequoia-capital-writes-off-its-210m-investment-in-crypto-exchange-ftx/)
+- [NASA assessing damage to Artemis 1 moon rocket from Tropical Storm Nicole](https://www.space.com/artemis-1-moon-rocket-nicole-storm-damage-assessment/)
+- [More key Twitter execs just quit, including the head of trust and safety](https://techcrunch.com/2022/11/10/twitter-elon-musk-resignations-yoel-roth-robin-wheeler/)
+- [FTC warns ‘no CEO or company is above the law’ if Twitter shirks privacy order](https://techcrunch.com/2022/11/10/ftc-warns-no-ceo-or-company-is-above-the-law-if-twitter-shirks-privacy-order/)
 - [Tumblr’s only viable business model is shitposting](https://techcrunch.com/2022/11/10/tumblr-blue-check-shitposting-business-model/)
-- [&#39;Fuzzy&#39; dark matter might make stars form in giant &#39;pancakes&#39;](https://www.space.com/fuzzy-dark-matter-oldest-star-formation/)
-- [Google says surveillance vendor targeted Samsung phones with zero-days](https://techcrunch.com/2022/11/10/google-surveillance-samsung-spyware/)
-- [We may all be #RatVerified forever](https://techcrunch.com/2022/11/10/twitter-rat-verified/)
-- [Crypto’s crown prince stumbles](https://techcrunch.com/2022/11/10/cryptos-crown-prince-stumbles/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
