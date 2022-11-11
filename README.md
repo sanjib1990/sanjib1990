@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Have you tried turning it off and on again, Elon?](https://techcrunch.com/2022/11/11/have-you-tried-turning-it-off-and-on-again-elon/)
+- [Facebook, TikTok, Twitter failed election integrity test in Kenya’s elections](https://techcrunch.com/2022/11/11/facebook-tiktok-twitter-failed-election-integrity-test-in-kenyas-elections/)
+- [Musk flip-flops on Twitter verification — brings back &lpar;some&rpar; ‘Official’ badges &lpar;in some parts of the world&rpar;](https://techcrunch.com/2022/11/11/elon-musk-twitter-official-verification-chaos/)
 - [Prediction Capital hits first close of €30M for new fund to back startups addressing UN SDGs](https://techcrunch.com/2022/11/11/prediction-capital-hits-first-close-of-e30m-for-new-fund-to-back-startups-addressing-un-sdgs/)
 - [RIP to FTX?](https://techcrunch.com/2022/11/10/ftx-binance-crypto-exchange-deal-web3-chain-reaction-podcast/)
-- [Daily Crunch: Sequoia Capital writes off its $210M investment in crypto exchange FTX](https://techcrunch.com/2022/11/10/daily-crunch-sequoia-capital-writes-off-its-210m-investment-in-crypto-exchange-ftx/)
-- [NASA assessing damage to Artemis 1 moon rocket from Tropical Storm Nicole](https://www.space.com/artemis-1-moon-rocket-nicole-storm-damage-assessment/)
-- [More key Twitter execs just quit, including the head of trust and safety](https://techcrunch.com/2022/11/10/twitter-elon-musk-resignations-yoel-roth-robin-wheeler/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
