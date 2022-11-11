@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch SpaceX rocket launch on record-tying 14th mission Saturday](https://www.space.com/spacex-powerful-communications-satellites-launch-webcast/)
-- [Answers for H-1B workers who’ve been laid off &lpar;or think they might be&rpar;](https://techcrunch.com/2022/11/11/answers-for-h-1b-workers-whove-been-laid-off-or-think-they-might-be/)
-- [Amid record dry powder, VCs are determined to fund anything but you](https://techcrunch.com/2022/11/11/amid-record-dry-powder-vcs-are-determined-to-fund-anything-but-you/)
-- [Crypto’s white knight was a black hat all along and other TC news](https://techcrunch.com/2022/11/11/techcrunch-podcast-ftx-sbf-crypo/)
-- [Can proof-of-reserves prevent future crypto exchange collapses?](https://techcrunch.com/2022/11/11/can-proof-of-reserves-prevent-future-crypto-exchange-collapses/)
+- [Daily Crunch: FTX CEO Sam Bankman-Fried quits as crypto exchange files for bankruptcy](https://techcrunch.com/2022/11/11/daily-crunch-ftx-ceo-sam-bankman-fried-quits-as-crypto-exchange-files-for-bankruptcy/)
+- [Engage with Aerospace Corp, Mynaric and Otter at TC Sessions: Space](https://techcrunch.com/2022/11/11/engage-with-aerospace-corp-mynaric-and-otter-at-tc-sessions-space/)
+- [Amazon eyes devices group as it undertakes broad cost cutting](https://techcrunch.com/2022/11/11/amazon-eyes-devices-group-as-it-undertakes-broad-cost-cutting/)
+- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
+- [TechCrunch+ roundup: H-1B worker advice, managing remote teams, pitch deck teardown](https://techcrunch.com/2022/11/11/techcrunch-roundup-h-1b-worker-advice-managing-remote-teams-pitch-deck-teardown/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
