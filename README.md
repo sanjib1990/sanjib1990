@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [DeviantArt provides a way for artists to opt out of AI art generators](https://techcrunch.com/2022/11/11/deviantart-provides-a-way-for-artists-to-opt-out-of-ai-art-generators/)
-- [China&#39;s huge new crew-launching moon rocket could fly for 1st time in 2027](https://www.space.com/china-crew-launching-moon-rocket-2027-debut/)
-- [Polestar doubles Q3 revenue, narrows losses](https://techcrunch.com/2022/11/11/polestar-doubles-q3-revenue-narrows-losses/)
-- [Celestron Elements FireCel Mega 6 power bank review](https://www.space.com/celestron-elements-firecel-mega-6-power-bank-review/)
-- [Why digital sourcing platform Fictiv stays in China when others are leaving](https://techcrunch.com/2022/11/11/why-digital-sourcing-platform-fictiv-stays-in-china-when-others-are-leaving/)
+- [Twitter’s lead EU watchdog for data protection has fresh questions for Musk](https://techcrunch.com/2022/11/11/elon-musk-twitter-gdpr-dpc/)
+- [It’s not a rug pull if it’s an accident](https://techcrunch.com/2022/11/11/its-not-a-rug-pull-if-its-an-accident/)
+- [James Webb Space Telescope peers into lonely dwarf galaxy with sparkling results](https://www.space.com/james-webb-space-telescope-wlm-dwarf-galaxy-image/)
+- [Thomson Reuters to acquire tax automation company SurePrep for $500M](https://techcrunch.com/2022/11/11/thomson-reuters-acquires-tax-automation-company-sureprep-for-500m/)
+- [FTX files for bankruptcy, CEO Sam Bankman-Fried steps down](https://techcrunch.com/2022/11/11/ftx-files-for-bankruptcy-ceo-sam-bankman-fried-steps-down/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
