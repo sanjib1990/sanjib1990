@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Prediction Capital hits first close of €30M for new fund to back startups addressing UN SDGs](https://techcrunch.com/2022/11/11/prediction-capital-hits-first-close-of-e30m-for-new-fund-to-back-startups-addressing-un-sdgs/)
 - [RIP to FTX?](https://techcrunch.com/2022/11/10/ftx-binance-crypto-exchange-deal-web3-chain-reaction-podcast/)
 - [Daily Crunch: Sequoia Capital writes off its $210M investment in crypto exchange FTX](https://techcrunch.com/2022/11/10/daily-crunch-sequoia-capital-writes-off-its-210m-investment-in-crypto-exchange-ftx/)
 - [NASA assessing damage to Artemis 1 moon rocket from Tropical Storm Nicole](https://www.space.com/artemis-1-moon-rocket-nicole-storm-damage-assessment/)
 - [More key Twitter execs just quit, including the head of trust and safety](https://techcrunch.com/2022/11/10/twitter-elon-musk-resignations-yoel-roth-robin-wheeler/)
-- [FTC warns ‘no CEO or company is above the law’ if Twitter shirks privacy order](https://techcrunch.com/2022/11/10/ftc-warns-no-ceo-or-company-is-above-the-law-if-twitter-shirks-privacy-order/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
