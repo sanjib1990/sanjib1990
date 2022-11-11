@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch SpaceX rocket launch on record-tying 14th mission Saturday](https://www.space.com/spacex-powerful-communications-satellites-launch-webcast/)
+- [Answers for H-1B workers who’ve been laid off &lpar;or think they might be&rpar;](https://techcrunch.com/2022/11/11/answers-for-h-1b-workers-whove-been-laid-off-or-think-they-might-be/)
+- [Amid record dry powder, VCs are determined to fund anything but you](https://techcrunch.com/2022/11/11/amid-record-dry-powder-vcs-are-determined-to-fund-anything-but-you/)
 - [Crypto’s white knight was a black hat all along and other TC news](https://techcrunch.com/2022/11/11/techcrunch-podcast-ftx-sbf-crypo/)
 - [Can proof-of-reserves prevent future crypto exchange collapses?](https://techcrunch.com/2022/11/11/can-proof-of-reserves-prevent-future-crypto-exchange-collapses/)
-- [Musk’s lawyer tells Twitter staff they won’t be liable if company violates FTC consent decree](https://techcrunch.com/2022/11/11/musks-lawyer-tells-twitter-staff-they-wont-be-liable-if-company-violates-ftc-consent-decree/)
-- [Supernova anniversary: Famous Tycho&#39;s star flared up 450 years ago this month](https://www.space.com/tychos-star-supernova-450-years-ago-november/)
-- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
