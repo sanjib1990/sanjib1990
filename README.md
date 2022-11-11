@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Celestron Elements FireCel Mega 6 power bank review](https://www.space.com/celestron-elements-firecel-mega-6-power-bank-review/)
+- [Why digital sourcing platform Fictiv stays in China when others are leaving](https://techcrunch.com/2022/11/11/why-digital-sourcing-platform-fictiv-stays-in-china-when-others-are-leaving/)
+- [On This Day In Space: Nov. 11, 1966: Gemini 12 launches Buzz Aldrin, Jim Lovell into orbit](https://www.space.com/39251-on-this-day-in-space.html/)
+- [SoftBank, NEC, Sony, Toyota + more team up for Rapidus, Japan’s bid for next-gen chip domination](https://techcrunch.com/2022/11/11/softbank-nec-sony-toyota-more-team-up-for-rapidus-japans-bid-for-next-gen-chip-domination/)
 - [Australia tells Medibank hackers: ‘We know who you are’](https://techcrunch.com/2022/11/11/australia-tells-medibank-hackers-we-know-who-you-are/)
-- [Revenue-based financing: A new playbook for startup fundraising](https://techcrunch.com/2022/11/11/revenue-based-financing-a-new-playbook-for-startup-fundraising/)
-- [Save $25 on the iconic Lego Galaxy Explorer with Walmart&#39;s early Black Friday deal](https://www.space.com/lego-galaxy-explorer-is-25-dollars-off-at-walmart-early-black-friday-deal/)
-- [Geminid meteor shower 2022: Everything you need to know](https://www.space.com/34921-geminid-meteor-shower-guide.html/)
-- [OSIRIS-REx: NASA&#39;s asteroid study and sample return mission](https://www.space.com/33776-osiris-rex.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
