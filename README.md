@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Astronaut Bob Behnken retires from NASA after trailblazing 22-year career](https://www.space.com/astronaut-bob-behnken-retires-nasa/)
-- [NASA&#39;s tiny CAPSTONE moon probe gearing up for lunar arrival on Nov. 13](https://www.space.com/nasa-capstone-preparing-sunday-moon-arrival/)
-- [Curious Kids: What would happen if the world split in half?](https://www.space.com/what-would-happen-if-earth-split-in-half/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html/)
-- [Katherine Johnson: Pioneering NASA mathematician](https://www.space.com/katherine-johnson.html/)
+- [Australia tells Medibank hackers: ‘We know who you are’](https://techcrunch.com/2022/11/11/australia-tells-medibank-hackers-we-know-who-you-are/)
+- [Revenue-based financing: A new playbook for startup fundraising](https://techcrunch.com/2022/11/11/revenue-based-financing-a-new-playbook-for-startup-fundraising/)
+- [Save $25 on the iconic Lego Galaxy Explorer with Walmart&#39;s early Black Friday deal](https://www.space.com/lego-galaxy-explorer-is-25-dollars-off-at-walmart-early-black-friday-deal/)
+- [Geminid meteor shower 2022: Everything you need to know](https://www.space.com/34921-geminid-meteor-shower-guide.html/)
+- [OSIRIS-REx: NASA&#39;s asteroid study and sample return mission](https://www.space.com/33776-osiris-rex.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
