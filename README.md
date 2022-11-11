@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DeviantArt provides a way for artists to opt out of AI art generators](https://techcrunch.com/2022/11/11/deviantart-provides-a-way-for-artists-to-opt-out-of-ai-art-generators/)
+- [China&#39;s huge new crew-launching moon rocket could fly for 1st time in 2027](https://www.space.com/china-crew-launching-moon-rocket-2027-debut/)
+- [Polestar doubles Q3 revenue, narrows losses](https://techcrunch.com/2022/11/11/polestar-doubles-q3-revenue-narrows-losses/)
 - [Celestron Elements FireCel Mega 6 power bank review](https://www.space.com/celestron-elements-firecel-mega-6-power-bank-review/)
 - [Why digital sourcing platform Fictiv stays in China when others are leaving](https://techcrunch.com/2022/11/11/why-digital-sourcing-platform-fictiv-stays-in-china-when-others-are-leaving/)
-- [On This Day In Space: Nov. 11, 1966: Gemini 12 launches Buzz Aldrin, Jim Lovell into orbit](https://www.space.com/39251-on-this-day-in-space.html/)
-- [SoftBank, NEC, Sony, Toyota + more team up for Rapidus, Japan’s bid for next-gen chip domination](https://techcrunch.com/2022/11/11/softbank-nec-sony-toyota-more-team-up-for-rapidus-japans-bid-for-next-gen-chip-domination/)
-- [Australia tells Medibank hackers: ‘We know who you are’](https://techcrunch.com/2022/11/11/australia-tells-medibank-hackers-we-know-who-you-are/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
