@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Have you tried turning it off and on again, Elon?](https://techcrunch.com/2022/11/11/have-you-tried-turning-it-off-and-on-again-elon/)
-- [Facebook, TikTok, Twitter failed election integrity test in Kenya’s elections](https://techcrunch.com/2022/11/11/facebook-tiktok-twitter-failed-election-integrity-test-in-kenyas-elections/)
-- [Musk flip-flops on Twitter verification — brings back &lpar;some&rpar; ‘Official’ badges &lpar;in some parts of the world&rpar;](https://techcrunch.com/2022/11/11/elon-musk-twitter-official-verification-chaos/)
-- [Prediction Capital hits first close of €30M for new fund to back startups addressing UN SDGs](https://techcrunch.com/2022/11/11/prediction-capital-hits-first-close-of-e30m-for-new-fund-to-back-startups-addressing-un-sdgs/)
-- [RIP to FTX?](https://techcrunch.com/2022/11/10/ftx-binance-crypto-exchange-deal-web3-chain-reaction-podcast/)
+- [Astronaut Bob Behnken retires from NASA after trailblazing 22-year career](https://www.space.com/astronaut-bob-behnken-retires-nasa/)
+- [NASA&#39;s tiny CAPSTONE moon probe gearing up for lunar arrival on Nov. 13](https://www.space.com/nasa-capstone-preparing-sunday-moon-arrival/)
+- [Curious Kids: What would happen if the world split in half?](https://www.space.com/what-would-happen-if-earth-split-in-half/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html/)
+- [Katherine Johnson: Pioneering NASA mathematician](https://www.space.com/katherine-johnson.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
