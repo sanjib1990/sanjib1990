@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sight Tech Global 2022 agenda announced](https://techcrunch.com/2022/11/11/sight-tech-global-2022-agenda-announced/)
+- [Numerous social apps see gains in wake of Twitter chaos, new data shows](https://techcrunch.com/2022/11/11/numerous-social-apps-see-gains-in-wake-of-twitter-chaos-new-data-shows/)
+- [Framework Ventures co-founder says DeFi gives hope following FTX collapse](https://techcrunch.com/2022/11/11/framework-ventures-co-founder-says-defi-gives-hope-following-ftx-collapse/)
 - [SpaceX, Relativity and others urge FCC to stay in its lane](https://techcrunch.com/2022/11/11/spacex-relativity-and-others-urge-fcc-to-stay-in-its-lane/)
 - [Huge Nord Stream pipeline gas leak not big enough to warm climate, scientists say](https://www.space.com/nord-stream-gas-leak-wont-warm-climate/)
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
-- [Mini Starship? Chinese startup wants to make its own version of SpaceX Mars rocket](https://www.space.com/china-rocket-startup-space-epoch-spacex-starship/)
-- [Pixxel’s Awais Ahmed talks going hyperspectral in dual-use at TC Sessions: Space](https://techcrunch.com/2022/11/11/pixxels-awais-ahmed-talks-going-hyperspectral-in-dual-use-at-tc-sessions-space/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
