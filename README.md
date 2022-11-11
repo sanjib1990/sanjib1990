@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Twitter’s lead EU watchdog for data protection has fresh questions for Musk](https://techcrunch.com/2022/11/11/elon-musk-twitter-gdpr-dpc/)
-- [It’s not a rug pull if it’s an accident](https://techcrunch.com/2022/11/11/its-not-a-rug-pull-if-its-an-accident/)
-- [James Webb Space Telescope peers into lonely dwarf galaxy with sparkling results](https://www.space.com/james-webb-space-telescope-wlm-dwarf-galaxy-image/)
-- [Thomson Reuters to acquire tax automation company SurePrep for $500M](https://techcrunch.com/2022/11/11/thomson-reuters-acquires-tax-automation-company-sureprep-for-500m/)
-- [FTX files for bankruptcy, CEO Sam Bankman-Fried steps down](https://techcrunch.com/2022/11/11/ftx-files-for-bankruptcy-ceo-sam-bankman-fried-steps-down/)
+- [Microsoft brings helicopters, gliders and the Spruce Goose to its Flight Simulator](https://techcrunch.com/2022/11/11/microsoft-brings-helicopters-gliders-and-the-spruce-goose-to-its-flight-simulator/)
+- [Facing economic headwinds, Amazon consolidates robotic projects](https://techcrunch.com/2022/11/11/facing-economic-headwinds-amazon-consolidates-robotic-projects/)
+- [Should we really be worried about China&#39;s uncontrolled rocket booster reentries?](https://www.space.com/chinese-rocket-booster-reentries-should-we-worry/)
+- [As the economy shifts, what’s the best software customer?](https://techcrunch.com/2022/11/11/as-the-economy-shifts-whats-the-best-software-customer/)
+- [Chris Rock is set to be the first to perform live on Netflix](https://techcrunch.com/2022/11/11/chris-rock-is-set-to-be-the-first-to-perform-live-on-netflix/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
