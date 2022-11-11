@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Pixxel’s Awais Ahmed talks going hyperspectral in dual-use at TC Sessions: Space](https://techcrunch.com/2022/11/11/pixxels-awais-ahmed-talks-going-hyperspectral-in-dual-use-at-tc-sessions-space/)
-- [Watch the moon visit Mars in the sky Friday night &lpar;Nov. 11&rpar;](https://www.space.com/moon-mars-conjunction-friday-nov-11-2022/)
-- [Pet insurance startups chase the market as pet ownership booms among Gen Z and Millennials](https://techcrunch.com/2022/11/11/pet-insurance-startups-chase-the-market-as-pet-ownership-booms-among-gen-z-and-millennials/)
+- [SpaceX, Relativity and others urge FCC to stay in its lane](https://techcrunch.com/2022/11/11/spacex-relativity-and-others-urge-fcc-to-stay-in-its-lane/)
+- [Huge Nord Stream pipeline gas leak not big enough to warm climate, scientists say](https://www.space.com/nord-stream-gas-leak-wont-warm-climate/)
 - [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
-- [Microsoft brings helicopters, gliders and the Spruce Goose to its Flight Simulator](https://techcrunch.com/2022/11/11/microsoft-brings-helicopters-gliders-and-the-spruce-goose-to-its-flight-simulator/)
+- [Mini Starship? Chinese startup wants to make its own version of SpaceX Mars rocket](https://www.space.com/china-rocket-startup-space-epoch-spacex-starship/)
+- [Pixxel’s Awais Ahmed talks going hyperspectral in dual-use at TC Sessions: Space](https://techcrunch.com/2022/11/11/pixxels-awais-ahmed-talks-going-hyperspectral-in-dual-use-at-tc-sessions-space/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
