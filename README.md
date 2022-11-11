@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Finally, the start of something solid?](https://www.youtube.com/watch?v=DVWu2b7mvFg)
 - [Is FAANG f**ked?](https://www.youtube.com/watch?v=2pfcynxODJc)
 - [Encryption &amp; Entropy - Computerphile](https://www.youtube.com/watch?v=8VSuwDG4bhw)
 - [Block ALL ads with this…&lpar;and speed up your internet&rpar;](https://www.youtube.com/watch?v=B2V_8M9cjYw)
 - [Learn Climate with Open MIT Resources](https://www.youtube.com/watch?v=WXshIwISJ5Y)
-- [Network Time Protocol &lpar;NTP&rpar; - Computerphile](https://www.youtube.com/watch?v=BAo5C2qbLq8)
 <!-- YOUTUBE:END -->
 
 ---
