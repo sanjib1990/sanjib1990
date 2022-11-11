@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Sight Tech Global 2022 agenda announced](https://techcrunch.com/2022/11/11/sight-tech-global-2022-agenda-announced/)
-- [Numerous social apps see gains in wake of Twitter chaos, new data shows](https://techcrunch.com/2022/11/11/numerous-social-apps-see-gains-in-wake-of-twitter-chaos-new-data-shows/)
-- [Framework Ventures co-founder says DeFi gives hope following FTX collapse](https://techcrunch.com/2022/11/11/framework-ventures-co-founder-says-defi-gives-hope-following-ftx-collapse/)
-- [SpaceX, Relativity and others urge FCC to stay in its lane](https://techcrunch.com/2022/11/11/spacex-relativity-and-others-urge-fcc-to-stay-in-its-lane/)
-- [Huge Nord Stream pipeline gas leak not big enough to warm climate, scientists say](https://www.space.com/nord-stream-gas-leak-wont-warm-climate/)
+- [Supernova anniversary: Famous Tycho&#39;s star flared up 450 years ago this month](https://www.space.com/tychos-star-supernova-450-years-ago-november/)
+- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates/)
+- [Tesla opens its EV connector design to other automakers](https://techcrunch.com/2022/11/11/tesla-opens-its-ev-connector-design-to-other-automakers/)
+- [Amazon CEO Andy Jassy faces enormous challenges amid falling profits and negative numbers](https://techcrunch.com/2022/11/11/amazon-ceo-andy-jassy-faces-enormous-challenges-amid-falling-profits-and-negative-numbers/)
+- [Tropical Storm Nicole delays next SpaceX cargo launch to Nov. 21](https://www.space.com/tropical-storm-nicole-spacex-cargo-launch-delay/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
