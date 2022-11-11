@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pixxel’s Awais Ahmed talks going hyperspectral in dual-use at TC Sessions: Space](https://techcrunch.com/2022/11/11/pixxels-awais-ahmed-talks-going-hyperspectral-in-dual-use-at-tc-sessions-space/)
+- [Watch the moon visit Mars in the sky Friday night &lpar;Nov. 11&rpar;](https://www.space.com/moon-mars-conjunction-friday-nov-11-2022/)
+- [Pet insurance startups chase the market as pet ownership booms among Gen Z and Millennials](https://techcrunch.com/2022/11/11/pet-insurance-startups-chase-the-market-as-pet-ownership-booms-among-gen-z-and-millennials/)
+- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
 - [Microsoft brings helicopters, gliders and the Spruce Goose to its Flight Simulator](https://techcrunch.com/2022/11/11/microsoft-brings-helicopters-gliders-and-the-spruce-goose-to-its-flight-simulator/)
-- [Facing economic headwinds, Amazon consolidates robotic projects](https://techcrunch.com/2022/11/11/facing-economic-headwinds-amazon-consolidates-robotic-projects/)
-- [Should we really be worried about China&#39;s uncontrolled rocket booster reentries?](https://www.space.com/chinese-rocket-booster-reentries-should-we-worry/)
-- [As the economy shifts, what’s the best software customer?](https://techcrunch.com/2022/11/11/as-the-economy-shifts-whats-the-best-software-customer/)
-- [Chris Rock is set to be the first to perform live on Netflix](https://techcrunch.com/2022/11/11/chris-rock-is-set-to-be-the-first-to-perform-live-on-netflix/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
