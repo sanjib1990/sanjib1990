@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch for fireballs as the Northern Taurid meteor shower peaks tonight &lpar;Nov. 12&rpar;](https://www.space.com/nothern-taurid-meteor-shower-peaks-saturday-nov-12-2022/)
-- [Wrinkles left over from the Big Bang may have magnetized the universe](https://www.space.com/big-bang-cosmic-strings-magnetic-fields/)
-- [&#39;Fear of a Red Planet&#39; comic series tells the tale of the 1st murder on Mars](https://www.space.com/fear-of-a-red-planet-comic-first-murder-on-mars/)
-- [Former NASA astronaut Mark Kelly re-elected to US Senate: reports](https://www.space.com/former-astronaut-mark-kelly-re-elected-us-senate/)
-- [China launches Tianzhou 5 cargo mission to its Tiangong space station](https://www.space.com/china-launches-tianzhou-5-mission-tiangong-space-station/)
+- [On This Day In Space: Nov. 12, 2014: Philae spacecraft gets lost on Comet 67p](https://www.space.com/39251-on-this-day-in-space.html/)
+- [This Week In Space podcast: Episode 37 —Rise of the megarockets](https://www.space.com/this-week-in-space-podcast-twit/)
+- [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html/)
+- [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html/)
+- [First upcycled socks worn in space inspire astronaut&#39;s new limited edition footwear](https://www.space.com/astronaut-doug-hurley-orbit-space-socks-osom-brand/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
