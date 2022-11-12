@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Freemium or free trials: Why not both?](https://techcrunch.com/2022/11/12/freemium-or-free-trials-why-not-both/)
+- [US military&#39;s X-37B space plane lands, ending record-breaking mystery mission](https://www.space.com/space-force-x-37b-space-plane-otv-6-mission-ends/)
+- [SpaceX rocket launches 2 big telecom satellites on record-tying 14th mission](https://www.space.com/spacex-powerful-communications-satellites-launch-webcast/)
 - [Nearly 80% of venture funds raised in just two states as US LPs retreat to the coasts](https://techcrunch.com/2022/11/12/nearly-80-of-venture-funds-raised-in-just-two-states-as-us-lps-retreat-to-the-coasts/)
 - [How Rad Power Bikes stacks up for a Boomer and a Millennial](https://techcrunch.com/2022/11/12/how-rad-power-bikes-stacks-up-for-a-boomer-and-a-millennial/)
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
-- [Watch NASA&#39;s Artemis 1 moon rocket launch on Nov. 16 online for free](https://www.space.com/nasa-artemis-1-sls-moon-rocket-launch-webcasts/)
-- [On This Day In Space: Nov. 12, 2014: Philae spacecraft gets lost on Comet 67p](https://www.space.com/39251-on-this-day-in-space.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
