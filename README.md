@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch for fireballs as the Northern Taurid meteor shower peaks tonight &lpar;Nov. 12&rpar;](https://www.space.com/nothern-taurid-meteor-shower-peaks-saturday-nov-12-2022/)
+- [Wrinkles left over from the Big Bang may have magnetized the universe](https://www.space.com/big-bang-cosmic-strings-magnetic-fields/)
+- [&#39;Fear of a Red Planet&#39; comic series tells the tale of the 1st murder on Mars](https://www.space.com/fear-of-a-red-planet-comic-first-murder-on-mars/)
 - [Former NASA astronaut Mark Kelly re-elected to US Senate: reports](https://www.space.com/former-astronaut-mark-kelly-re-elected-us-senate/)
 - [China launches Tianzhou 5 cargo mission to its Tiangong space station](https://www.space.com/china-launches-tianzhou-5-mission-tiangong-space-station/)
-- [Crypto VC David Pakman on FTX: an “entirely avoidable tragedy”](https://techcrunch.com/2022/11/11/crypto-vc-david-pakman-on-ftx-an-entirely-avoidable-tragedy/)
-- [NASA&#39;s Artemis 1 moon mission still on track for Nov. 16 launch after storm](https://www.space.com/artemis-1-moon-rocket-november-16-launch-storm-nicole/)
-- [Daily Crunch: FTX CEO Sam Bankman-Fried quits as crypto exchange files for bankruptcy](https://techcrunch.com/2022/11/11/daily-crunch-ftx-ceo-sam-bankman-fried-quits-as-crypto-exchange-files-for-bankruptcy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
