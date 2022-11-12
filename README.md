@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s Artemis 1 moon mission still on track for Nov. 16 launch after storm](https://www.space.com/artemis-1-moon-rocket-november-16-launch-storm-nicole/)
 - [Daily Crunch: FTX CEO Sam Bankman-Fried quits as crypto exchange files for bankruptcy](https://techcrunch.com/2022/11/11/daily-crunch-ftx-ceo-sam-bankman-fried-quits-as-crypto-exchange-files-for-bankruptcy/)
 - [Engage with Aerospace Corp, Mynaric and Otter at TC Sessions: Space](https://techcrunch.com/2022/11/11/engage-with-aerospace-corp-mynaric-and-otter-at-tc-sessions-space/)
 - [Amazon eyes devices group as it undertakes broad cost cutting](https://techcrunch.com/2022/11/11/amazon-eyes-devices-group-as-it-undertakes-broad-cost-cutting/)
 - [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
-- [TechCrunch+ roundup: H-1B worker advice, managing remote teams, pitch deck teardown](https://techcrunch.com/2022/11/11/techcrunch-roundup-h-1b-worker-advice-managing-remote-teams-pitch-deck-teardown/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
