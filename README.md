@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Week in Apps: Twitter’s crazy week drives social apps’ growth, Google expands user choice billing](https://techcrunch.com/2022/11/12/this-week-in-apps-twitters-crazy-week-drives-social-apps-growth-google-expands-user-choice-billing/)
 - [What the midterm madness means for startups](https://techcrunch.com/2022/11/12/what-the-midterm-madness-means-for-startups/)
 - [Freemium or free trials: Why not both?](https://techcrunch.com/2022/11/12/freemium-or-free-trials-why-not-both/)
 - [US military&#39;s X-37B space plane lands, ending record-breaking mystery mission](https://www.space.com/space-force-x-37b-space-plane-otv-6-mission-ends/)
 - [SpaceX rocket launches 2 big telecom satellites on record-tying 14th mission](https://www.space.com/spacex-powerful-communications-satellites-launch-webcast/)
-- [Nearly 80% of venture funds raised in just two states as US LPs retreat to the coasts](https://techcrunch.com/2022/11/12/nearly-80-of-venture-funds-raised-in-just-two-states-as-us-lps-retreat-to-the-coasts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
