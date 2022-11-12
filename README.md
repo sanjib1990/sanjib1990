@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Former NASA astronaut Mark Kelly re-elected to US Senate: reports](https://www.space.com/former-astronaut-mark-kelly-re-elected-us-senate/)
 - [China launches Tianzhou 5 cargo mission to its Tiangong space station](https://www.space.com/china-launches-tianzhou-5-mission-tiangong-space-station/)
 - [Crypto VC David Pakman on FTX: an “entirely avoidable tragedy”](https://techcrunch.com/2022/11/11/crypto-vc-david-pakman-on-ftx-an-entirely-avoidable-tragedy/)
 - [NASA&#39;s Artemis 1 moon mission still on track for Nov. 16 launch after storm](https://www.space.com/artemis-1-moon-rocket-november-16-launch-storm-nicole/)
 - [Daily Crunch: FTX CEO Sam Bankman-Fried quits as crypto exchange files for bankruptcy](https://techcrunch.com/2022/11/11/daily-crunch-ftx-ceo-sam-bankman-fried-quits-as-crypto-exchange-files-for-bankruptcy/)
-- [Engage with Aerospace Corp, Mynaric and Otter at TC Sessions: Space](https://techcrunch.com/2022/11/11/engage-with-aerospace-corp-mynaric-and-otter-at-tc-sessions-space/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
