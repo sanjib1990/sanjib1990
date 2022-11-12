@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
+- [Watch NASA&#39;s Artemis 1 moon rocket launch on Nov. 16 online for free](https://www.space.com/nasa-artemis-1-sls-moon-rocket-launch-webcasts/)
 - [On This Day In Space: Nov. 12, 2014: Philae spacecraft gets lost on Comet 67p](https://www.space.com/39251-on-this-day-in-space.html/)
 - [Space photos: The most amazing images this week!](https://www.space.com/32252-amazing-images.html/)
 - [The top space stories of the week!](https://www.space.com/36316-the-most-amazing-space-stories-of-the-week.html/)
-- [This Week In Space podcast: Episode 37 —Rise of the megarockets](https://www.space.com/this-week-in-space-podcast-twit/)
-- [First upcycled socks worn in space inspire astronaut&#39;s new limited edition footwear](https://www.space.com/astronaut-doug-hurley-orbit-space-socks-osom-brand/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
