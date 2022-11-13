@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists discover massive &#39;extragalactic structure&#39; behind the Milky Way](https://www.space.com/zone-of-avoidance-giant-structure/)
+- [On This Day In Space: Nov. 13, 1971: Mariner 9 becomes the 1st spacecraft to orbit Mars](https://www.space.com/39251-on-this-day-in-space.html/)
+- [Surviving the lunar night can be a challenge for astronauts on the moon](https://www.space.com/moon-missions-artemis-challenges-overnight/)
 - [A new approach might help scientists see inside a neutron star](https://www.space.com/neutron-star-equation-of-state/)
 - [The Kármán Line: Where does space begin?](https://www.space.com/karman-line-where-does-space-begin/)
-- [Meta lays off thousands, FTX collapses, and Twitter has a very weird week](https://techcrunch.com/2022/11/12/meta-lays-off-thousands-ftx-collapses-and-twitter-has-a-very-weird-week/)
-- [This Week in Apps: Twitter’s crazy week drives social apps’ growth, Google expands user choice billing](https://techcrunch.com/2022/11/12/this-week-in-apps-twitters-crazy-week-drives-social-apps-growth-google-expands-user-choice-billing/)
-- [What the midterm madness means for startups](https://techcrunch.com/2022/11/12/what-the-midterm-madness-means-for-startups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
