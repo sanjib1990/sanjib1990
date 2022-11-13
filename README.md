@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A new approach might help scientists see inside a neutron star](https://www.space.com/neutron-star-equation-of-state/)
+- [The Kármán Line: Where does space begin?](https://www.space.com/karman-line-where-does-space-begin/)
 - [Meta lays off thousands, FTX collapses, and Twitter has a very weird week](https://techcrunch.com/2022/11/12/meta-lays-off-thousands-ftx-collapses-and-twitter-has-a-very-weird-week/)
 - [This Week in Apps: Twitter’s crazy week drives social apps’ growth, Google expands user choice billing](https://techcrunch.com/2022/11/12/this-week-in-apps-twitters-crazy-week-drives-social-apps-growth-google-expands-user-choice-billing/)
 - [What the midterm madness means for startups](https://techcrunch.com/2022/11/12/what-the-midterm-madness-means-for-startups/)
-- [Freemium or free trials: Why not both?](https://techcrunch.com/2022/11/12/freemium-or-free-trials-why-not-both/)
-- [Nearly 80% of venture funds raised in just two states as US LPs retreat to the coasts](https://techcrunch.com/2022/11/12/nearly-80-of-venture-funds-raised-in-just-two-states-as-us-lps-retreat-to-the-coasts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
