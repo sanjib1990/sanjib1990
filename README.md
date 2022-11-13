@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The power pendulum is swinging back to employers, isn’t it?](https://techcrunch.com/2022/11/13/the-power-pendulum-is-swinging-back-to-employers-isnt-it/)
 - [What goes up must come down](https://techcrunch.com/2022/11/13/what-goes-up-must-come-down-fintech-layoffs/)
 - [Scientists have traced Earth&#39;s path through the galaxy via tiny crystals found in the crust](https://www.space.com/scientists--trace-earth-path-through-milky-way-galaxy/)
 - [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
 - [Mystery crater potentially caused by relative of dinosaur-killing asteroid](https://www.space.com/mystery-crater-by-dinosaur-killing-asteroid-relative/)
-- [What time is NASA&#39;s Artemis 1 moon rocket launch on Nov. 16?](https://www.space.com/artemis-1-sls-rocket-moon-launch-what-time/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
