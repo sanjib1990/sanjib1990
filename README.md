@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Real-time data startup Quix raises a $12.9M Series A round led by MMC Ventures](https://techcrunch.com/2022/11/14/real-time-data-startup-quix-raises-a-12-9m-series-a-round-led-by-mmc-ventures/)
-- [Success! NASA&#39;s tiny CAPSTONE probe arrives at the moon](https://www.space.com/nasa-capstone-cubesat-arrives-moon/)
-- [GoFreight raises $28M to become the “Shopify of freight forwarding”](https://techcrunch.com/2022/11/13/gofreight-raises-28m-to-become-the-shopify-of-freight-forwarding/)
-- [NASA&#39;s Artemis 1 moon mission still &#39;go&#39; for Nov. 16 launch](https://www.space.com/nasa-artemis-1-moon-rocket-november-16-launch-work/)
-- [The dilemma of Chinese startups going global](https://techcrunch.com/2022/11/13/dilemma-chinese-startups-going-global/)
+- [Covering Artemis: Rumpl embraces NASA moon missions with new blanket designs](https://www.space.com/rumpl-nasa-artemis-blankets-poncho/)
+- [Missing planets twice Earth&#39;s size may point to migrating worlds](https://www.space.com/exoplanet-size-gap-from-planetary-migrations/)
+- [Leonid meteor shower 2022: Here&#39;s what to expect](https://www.space.com/leonid-meteor-shower-2022-a-good-year/)
+- [India lifts download ban on VLC](https://techcrunch.com/2022/11/14/india-lifts-download-ban-on-vlc/)
+- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
