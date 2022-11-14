@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Citi backs Indian SaaS startup Lentra as it plans to expand internationally](https://techcrunch.com/2022/11/13/citi-india-investment-saas-startup-lentra-funding/)
 - [Volunteer at TC Sessions: Space and get a free pass to TechCrunch Disrupt 2023](https://techcrunch.com/2022/11/13/volunteer-at-tc-sessions-space-and-get-a-free-pass-to-techcrunch-disrupt-2023/)
 - [How the FirstBuild product co-creation studio is changing how new things are made](https://techcrunch.com/2022/11/13/firstbuild-profile/)
 - [The power pendulum is swinging back to employers, isn’t it?](https://techcrunch.com/2022/11/13/the-power-pendulum-is-swinging-back-to-employers-isnt-it/)
 - [What goes up must come down](https://techcrunch.com/2022/11/13/what-goes-up-must-come-down-fintech-layoffs/)
-- [Scientists have traced Earth&#39;s path through the galaxy via tiny crystals found in the crust](https://www.space.com/scientists--trace-earth-path-through-milky-way-galaxy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
