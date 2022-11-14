@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Amazonification of Uber](https://techcrunch.com/2022/11/14/the-amazonification-of-uber/)
+- [BlueWalker 3 satellite unfurls biggest commercial communications array ever](https://www.space.com/bluewalker-3-satellite-deploys-largest-commercial-array/)
+- [Long live the vibe capitalist!](https://techcrunch.com/2022/11/14/long-live-the-vibe-capitalist/)
 - [Spacesuit for women: Fashion is the final frontier in new Kickstarter campaign](https://www.space.com/women-spacesuit-kickstarter-campaign-nasa-engineer/)
 - [Chinese rocket body breaks up in orbit after successful satellite launch](https://www.space.com/chinese-rocket-body-breaks-up-after-satellite-launch/)
-- [Is Elon Musk’s Twitter about to fall out of the GDPR’s one-stop shop?](https://techcrunch.com/2022/11/14/is-elon-musks-twitter-about-to-fall-out-of-the-gdprs-one-stop-shop/)
-- [Google to pay $391.5 million in location-tracking settlement with 40 states](https://techcrunch.com/2022/11/14/google-pay-391-5-million-location-tracking-settlement/)
-- [SpaceX&#39;s Starship Super Heavy booster test-fires record 14 engines &lpar;video&rpar;](https://www.space.com/spacex-starship-super-heavy-14-engine-test-fire/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
