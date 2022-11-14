@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Binance’s CEO isn’t sweating the FTX implosion](https://techcrunch.com/2022/11/14/binances-ceo-isnt-sweating-the-ftx-implosion/)
+- [SoftBank writes down nearly $100 million investment in FTX](https://techcrunch.com/2022/11/14/softbank-ftx-crypto/)
 - [Disney+ has a new adorable short film for ‘The Mandalorian’ and ‘Spirited Away’ fans](https://techcrunch.com/2022/11/14/disney-plus-short-film-for-the-mandalorian-and-spirited-away-fans/)
 - [The startup and venture markets are coming back to square one](https://techcrunch.com/2022/11/14/the-startup-and-venture-markets-are-coming-back-to-square-one/)
 - [Apple faces new lawsuit over its data collection practices in first-party apps, like the App Store](https://techcrunch.com/2022/11/14/apple-faces-new-lawsuit-over-its-data-collection-practices-in-first-party-apps-like-the-app-store/)
-- [A simple Android lock screen bypass bug landed a researcher $70,000](https://techcrunch.com/2022/11/14/android-lock-screen-bypass-google-pixel/)
-- [Google’s Health Connect app is now available in beta](https://techcrunch.com/2022/11/14/googles-health-connect-app-is-now-available-in-beta/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
