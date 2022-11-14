@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The Epic Games-Apple antitrust battle resumes today in appeals court](https://techcrunch.com/2022/11/14/the-epic-games-apple-antitrust-battle-resumes-today-in-appeals-court/)
-- [Amazon launches ‘Sports Talk’ on Prime Video to give sports fans 12 hours of live daily content](https://techcrunch.com/2022/11/14/amazon-launches-sports-talk-on-prime-video-to-give-sports-fans-12-hours-of-live-daily-content/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html/)
-- [Blood Moon rises over Artemis 1 megarocket preparing for launch in stunning photos](https://www.space.com/blood-moon-artemis-1-launch-pad-photo/)
-- [Meeting camera startup Owl Labs lands $25M and partnership with HP](https://techcrunch.com/2022/11/14/meeting-camera-startup-owl-labs-lands-25m-and-partnership-with-hp/)
+- [Spacesuit for women: Fashion is the final frontier in new Kickstarter campaign](https://www.space.com/women-spacesuit-kickstarter-campaign-nasa-engineer/)
+- [Chinese rocket body breaks up in orbit after successful satellite launch](https://www.space.com/chinese-rocket-body-breaks-up-after-satellite-launch/)
+- [Is Elon Musk’s Twitter about to fall out of the GDPR’s one-stop shop?](https://techcrunch.com/2022/11/14/is-elon-musks-twitter-about-to-fall-out-of-the-gdprs-one-stop-shop/)
+- [Google to pay $391.5 million in location-tracking settlement with 40 states](https://techcrunch.com/2022/11/14/google-pay-391-5-million-location-tracking-settlement/)
+- [SpaceX&#39;s Starship Super Heavy booster test-fires record 14 engines &lpar;video&rpar;](https://www.space.com/spacex-starship-super-heavy-14-engine-test-fire/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
