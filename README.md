@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Best space gifts 2022: early Black Friday deals and gift ideas for kids &amp; adults](https://www.space.com/34669-kids-gifts.html/)
+- [TuSimple co-founders clapback, consolidation continues and Waymo reaches two milestones](https://techcrunch.com/2022/11/14/tusimple-co-founders-clapback-consolidation-continues-and-waymo-reaches-two-milestones/)
+- [Space board game deals 2022: Cosmic encounters on the tabletop](https://www.space.com/space-board-game-deals/)
 - [Covering Artemis: Rumpl embraces NASA moon missions with new blanket designs](https://www.space.com/rumpl-nasa-artemis-blankets-poncho/)
 - [Missing planets twice Earth&#39;s size may point to migrating worlds](https://www.space.com/exoplanet-size-gap-from-planetary-migrations/)
-- [Leonid meteor shower 2022: Here&#39;s what to expect](https://www.space.com/leonid-meteor-shower-2022-a-good-year/)
-- [India lifts download ban on VLC](https://techcrunch.com/2022/11/14/india-lifts-download-ban-on-vlc/)
-- [Space calendar 2022: Rocket launches, sky events, missions &amp; more!](https://www.space.com/32286-space-calendar.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
