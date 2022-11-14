@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Bird tells SEC it overstated revenue for two years](https://techcrunch.com/2022/11/14/bird-tells-sec-it-overstated-revenue-for-two-years/)
-- [3.5 billion-year-old rock structures are one of the oldest signs of life on Earth](https://www.space.com/oldest-stromatolites-australia/)
-- [Betelgeuse&#39;s mysterious &#39;Great Dimming&#39; may have been triggered by a wandering black hole](https://www.space.com/betelgeuse-great-dimming-passing-star-explanation/)
-- [Musk says orgs will soon verify affiliated accounts; Blue sign-ups and name changes will be reinstated end of this week](https://techcrunch.com/2022/11/14/musk-says-orgs-will-soon-verify-affiliated-accounts-blue-sign-ups-and-name-changes-will-be-reinstated-end-of-this-week/)
-- [African web3 startup Nestcoin declares it held its assets in FTX, lays off employees](https://techcrunch.com/2022/11/14/african-web3-startup-nestcoin-declares-it-held-its-assests-in-ftx-lays-off-employees/)
+- [Playground, Seraphim and Root VCs talk funding trends at TC Sessions: Space](https://techcrunch.com/2022/11/14/playground-seraphim-and-root-vcs-talk-funding-trends-at-tc-sessions-space/)
+- [Vaporized asteroids suggest planets and stars form at the same time](https://www.space.com/polluted-white-dwarfs-planets-form-early/)
+- [Hulu Live TV adds 14 channels including Hallmark and The Weather Channel](https://techcrunch.com/2022/11/14/hulu-live-tv-adds-14-channels-including-hallmark-and-the-weather-channel/)
+- [Gradient backs Butter’s operating system for food distribution businesses](https://techcrunch.com/2022/11/14/gradient-backs-butters-operating-system-for-food-distribution-businesses/)
+- [FTX and Avalanche co-led $5M round for Joepegs NFT marketplace](https://techcrunch.com/2022/11/14/ftx-and-avalanche-co-led-5m-round-for-joepegs-nft-marketplace/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
