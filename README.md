@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Binance’s CEO isn’t sweating the FTX implosion](https://techcrunch.com/2022/11/14/binances-ceo-isnt-sweating-the-ftx-implosion/)
-- [SoftBank writes down nearly $100 million investment in FTX](https://techcrunch.com/2022/11/14/softbank-ftx-crypto/)
-- [Disney+ has a new adorable short film for ‘The Mandalorian’ and ‘Spirited Away’ fans](https://techcrunch.com/2022/11/14/disney-plus-short-film-for-the-mandalorian-and-spirited-away-fans/)
-- [The startup and venture markets are coming back to square one](https://techcrunch.com/2022/11/14/the-startup-and-venture-markets-are-coming-back-to-square-one/)
-- [Apple faces new lawsuit over its data collection practices in first-party apps, like the App Store](https://techcrunch.com/2022/11/14/apple-faces-new-lawsuit-over-its-data-collection-practices-in-first-party-apps-like-the-app-store/)
+- [The Epic Games-Apple antitrust battle resumes today in appeals court](https://techcrunch.com/2022/11/14/the-epic-games-apple-antitrust-battle-resumes-today-in-appeals-court/)
+- [Amazon launches ‘Sports Talk’ on Prime Video to give sports fans 12 hours of live daily content](https://techcrunch.com/2022/11/14/amazon-launches-sports-talk-on-prime-video-to-give-sports-fans-12-hours-of-live-daily-content/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html/)
+- [Blood Moon rises over Artemis 1 megarocket preparing for launch in stunning photos](https://www.space.com/blood-moon-artemis-1-launch-pad-photo/)
+- [Meeting camera startup Owl Labs lands $25M and partnership with HP](https://techcrunch.com/2022/11/14/meeting-camera-startup-owl-labs-lands-25m-and-partnership-with-hp/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
