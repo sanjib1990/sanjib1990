@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Disney+ has a new adorable short film for ‘The Mandalorian’ and ‘Spirited Away’ fans](https://techcrunch.com/2022/11/14/disney-plus-short-film-for-the-mandalorian-and-spirited-away-fans/)
+- [The startup and venture markets are coming back to square one](https://techcrunch.com/2022/11/14/the-startup-and-venture-markets-are-coming-back-to-square-one/)
+- [Apple faces new lawsuit over its data collection practices in first-party apps, like the App Store](https://techcrunch.com/2022/11/14/apple-faces-new-lawsuit-over-its-data-collection-practices-in-first-party-apps-like-the-app-store/)
 - [A simple Android lock screen bypass bug landed a researcher $70,000](https://techcrunch.com/2022/11/14/android-lock-screen-bypass-google-pixel/)
 - [Google’s Health Connect app is now available in beta](https://techcrunch.com/2022/11/14/googles-health-connect-app-is-now-available-in-beta/)
-- [Faraday Future gets a lifeline to raise up to $350 million](https://techcrunch.com/2022/11/14/faraday-future-gets-a-lifeline-to-raise-up-to-350-million/)
-- [Playground, Seraphim and Root VCs talk funding trends at TC Sessions: Space](https://techcrunch.com/2022/11/14/playground-seraphim-and-root-vcs-talk-funding-trends-at-tc-sessions-space/)
-- [Vaporized asteroids suggest planets and stars form at the same time](https://www.space.com/polluted-white-dwarfs-planets-form-early/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
