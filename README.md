@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GoFreight raises $28M to become the “Shopify of freight forwarding”](https://techcrunch.com/2022/11/13/gofreight-raises-28m-to-become-the-shopify-of-freight-forwarding/)
+- [NASA&#39;s Artemis 1 moon mission still &#39;go&#39; for Nov. 16 launch](https://www.space.com/nasa-artemis-1-moon-rocket-november-16-launch-work/)
 - [The dilemma of Chinese startups going global](https://techcrunch.com/2022/11/13/dilemma-chinese-startups-going-global/)
 - [Citi backs Indian SaaS startup Lentra as it plans to expand internationally](https://techcrunch.com/2022/11/13/citi-india-investment-saas-startup-lentra-funding/)
 - [Volunteer at TC Sessions: Space and get a free pass to TechCrunch Disrupt 2023](https://techcrunch.com/2022/11/13/volunteer-at-tc-sessions-space-and-get-a-free-pass-to-techcrunch-disrupt-2023/)
-- [How the FirstBuild product co-creation studio is changing how new things are made](https://techcrunch.com/2022/11/13/firstbuild-profile/)
-- [The power pendulum is swinging back to employers, isn’t it?](https://techcrunch.com/2022/11/13/the-power-pendulum-is-swinging-back-to-employers-isnt-it/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
