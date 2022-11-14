@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Zenlytic develops commerce-specific, self-serve business intelligence tool](https://techcrunch.com/2022/11/14/zenlytic-commerce-business-intelligence/)
-- [222 wants to match perfect strangers for bespoke, real-life experiences](https://techcrunch.com/2022/11/14/2440702/)
-- [DoorDash rolls out new safety features for delivery people on its platform](https://techcrunch.com/2022/11/14/doordash-new-safety-features-for-delivery-people/)
+- [Bird tells SEC it overstated revenue for two years](https://techcrunch.com/2022/11/14/bird-tells-sec-it-overstated-revenue-for-two-years/)
+- [3.5 billion-year-old rock structures are one of the oldest signs of life on Earth](https://www.space.com/oldest-stromatolites-australia/)
 - [Betelgeuse&#39;s mysterious &#39;Great Dimming&#39; may have been triggered by a wandering black hole](https://www.space.com/betelgeuse-great-dimming-passing-star-explanation/)
-- [Everything we know about The Mandalorian season 3: release date, plot &amp; more](https://www.space.com/the-mandalorian-season-3-everything-we-know/)
+- [Musk says orgs will soon verify affiliated accounts; Blue sign-ups and name changes will be reinstated end of this week](https://techcrunch.com/2022/11/14/musk-says-orgs-will-soon-verify-affiliated-accounts-blue-sign-ups-and-name-changes-will-be-reinstated-end-of-this-week/)
+- [African web3 startup Nestcoin declares it held its assets in FTX, lays off employees](https://techcrunch.com/2022/11/14/african-web3-startup-nestcoin-declares-it-held-its-assests-in-ftx-lays-off-employees/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
