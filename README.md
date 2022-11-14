@@ -82,7 +82,7 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Hackers are STEALING Websites &lpar;yours could be next&rpar;](https://www.youtube.com/watch?v=GH6O3oBZLK8)
+- [how hackers can STEAL your website &lpar;SUPER EASY&rpar;](https://www.youtube.com/watch?v=GH6O3oBZLK8)
 - [a solid start](https://www.youtube.com/watch?v=DVWu2b7mvFg)
 - [Is FAANG f**ked?](https://www.youtube.com/watch?v=2pfcynxODJc)
 - [Encryption &amp; Entropy - Computerphile](https://www.youtube.com/watch?v=8VSuwDG4bhw)
