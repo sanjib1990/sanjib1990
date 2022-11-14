@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Vow’s first cultured meat product close to Singapore unveiling after $49.2M Series A](https://techcrunch.com/2022/11/14/vow-cultured-meat-singapore/)
-- [A ‘credible alternative to Google and Amazon’: Klarna brings its price comparison tool to Europe](https://techcrunch.com/2022/11/14/a-credible-alternative-to-google-and-amazon-klarna-brings-its-price-comparison-tool-to-europe/)
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
-- [Canon RF 24-70mm f/2.8L IS USM lens review](https://www.space.com/canon-rf-24-70mm-f28-l-is-usm-lens-review/)
-- [On This Day In Space: Nov. 14, 1969: Apollo 12 launches to the moon](https://www.space.com/39251-on-this-day-in-space.html/)
+- [Zenlytic develops commerce-specific, self-serve business intelligence tool](https://techcrunch.com/2022/11/14/zenlytic-commerce-business-intelligence/)
+- [222 wants to match perfect strangers for bespoke, real-life experiences](https://techcrunch.com/2022/11/14/2440702/)
+- [DoorDash rolls out new safety features for delivery people on its platform](https://techcrunch.com/2022/11/14/doordash-new-safety-features-for-delivery-people/)
+- [Betelgeuse&#39;s mysterious &#39;Great Dimming&#39; may have been triggered by a wandering black hole](https://www.space.com/betelgeuse-great-dimming-passing-star-explanation/)
+- [Everything we know about The Mandalorian season 3: release date, plot &amp; more](https://www.space.com/the-mandalorian-season-3-everything-we-know/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
