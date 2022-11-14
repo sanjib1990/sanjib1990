@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Real-time data startup Quix raises a $12.9M Series A round led by MMC Ventures](https://techcrunch.com/2022/11/14/real-time-data-startup-quix-raises-a-12-9m-series-a-round-led-by-mmc-ventures/)
 - [Success! NASA&#39;s tiny CAPSTONE probe arrives at the moon](https://www.space.com/nasa-capstone-cubesat-arrives-moon/)
 - [GoFreight raises $28M to become the “Shopify of freight forwarding”](https://techcrunch.com/2022/11/13/gofreight-raises-28m-to-become-the-shopify-of-freight-forwarding/)
 - [NASA&#39;s Artemis 1 moon mission still &#39;go&#39; for Nov. 16 launch](https://www.space.com/nasa-artemis-1-moon-rocket-november-16-launch-work/)
 - [The dilemma of Chinese startups going global](https://techcrunch.com/2022/11/13/dilemma-chinese-startups-going-global/)
-- [Citi backs Indian SaaS startup Lentra as it plans to expand internationally](https://techcrunch.com/2022/11/13/citi-india-investment-saas-startup-lentra-funding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
