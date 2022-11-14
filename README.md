@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A simple Android lock screen bypass bug landed a researcher $70,000](https://techcrunch.com/2022/11/14/android-lock-screen-bypass-google-pixel/)
+- [Google’s Health Connect app is now available in beta](https://techcrunch.com/2022/11/14/googles-health-connect-app-is-now-available-in-beta/)
+- [Faraday Future gets a lifeline to raise up to $350 million](https://techcrunch.com/2022/11/14/faraday-future-gets-a-lifeline-to-raise-up-to-350-million/)
 - [Playground, Seraphim and Root VCs talk funding trends at TC Sessions: Space](https://techcrunch.com/2022/11/14/playground-seraphim-and-root-vcs-talk-funding-trends-at-tc-sessions-space/)
 - [Vaporized asteroids suggest planets and stars form at the same time](https://www.space.com/polluted-white-dwarfs-planets-form-early/)
-- [Hulu Live TV adds 14 channels including Hallmark and The Weather Channel](https://techcrunch.com/2022/11/14/hulu-live-tv-adds-14-channels-including-hallmark-and-the-weather-channel/)
-- [Gradient backs Butter’s operating system for food distribution businesses](https://techcrunch.com/2022/11/14/gradient-backs-butters-operating-system-for-food-distribution-businesses/)
-- [FTX and Avalanche co-led $5M round for Joepegs NFT marketplace](https://techcrunch.com/2022/11/14/ftx-and-avalanche-co-led-5m-round-for-joepegs-nft-marketplace/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
