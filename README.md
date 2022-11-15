@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Save 5% on this Estes NASA SLS Flying Model Rocket kit](https://www.space.com/estes-nasa-model-rocket-deal-save-18-percent/)
-- [Chinese astronauts enter newly arrived cargo spacecraft at Tiangong space station](https://www.space.com/chinese-astronauts-enter-tianzhou-5-cargo-spacecraft/)
-- [Live from Artemis 1: Join Space.com&#39;s Brett Tingley for NASA&#39;s big moon launch](https://www.space.com/nasa-artemis-1-sls-moon-rocket-launch-webcast-brett/)
-- [LF Europe’s Project Sylva wants to create an open source telco cloud stack](https://techcrunch.com/2022/11/15/lf-europes-project-sylva-wants-to-create-an-open-source-telco-cloud-stack/)
 - [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
+- [Ring launches pilot program to let local agencies share updates and ‘safety information’](https://techcrunch.com/2022/11/15/ring-launches-pilot-program-to-let-local-agencies-share-updates-and-safety-information/)
+- [Live from Artemis 1: Join Space.com&#39;s Brett Tingley for NASA&#39;s big moon launch](https://www.space.com/nasa-artemis-1-sls-moon-rocket-launch-webcast-brett/)
+- [Save 5% on this Estes NASA SLS Flying Model Rocket kit](https://www.space.com/estes-nasa-model-rocket-deal-save-18-percent/)
+- [Global venture funding plateaued in October, with valuations likely to blame](https://techcrunch.com/2022/11/15/global-venture-funding-plateaued-in-october-with-valuations-likely-to-blame/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
