@@ -95,10 +95,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
-- [Ring launches pilot program to let local agencies share updates and ‘safety information’](https://techcrunch.com/2022/11/15/ring-launches-pilot-program-to-let-local-agencies-share-updates-and-safety-information/)
-- [Live from Artemis 1: Join Space.com&#39;s Brett Tingley for NASA&#39;s big moon launch](https://www.space.com/nasa-artemis-1-sls-moon-rocket-launch-webcast-brett/)
-- [Save 5% on this Estes NASA SLS Flying Model Rocket kit](https://www.space.com/estes-nasa-model-rocket-deal-save-18-percent/)
-- [Global venture funding plateaued in October, with valuations likely to blame](https://techcrunch.com/2022/11/15/global-venture-funding-plateaued-in-october-with-valuations-likely-to-blame/)
+- [Spacewalking NASA astronauts erect support frame for new ISS solar array](https://www.space.com/astronauts-spacewalk-irosa-solar-array-frame/)
+- [Boston Dynamics sues Ghost Robotics over robot dog patent infringements](https://techcrunch.com/2022/11/15/boston-dynamics-sues-ghost-robotics-over-robot-dog-patent-infringements/)
+- [How to watch NASA&#39;s Artemis 1 moon mission launch live in a 360-degree VR experience](https://www.space.com/artemis-1-virtual-reality-watch-live/)
+- [Bling Capital, avoiding crypto bets, pulls in capital across two new funds](https://techcrunch.com/2022/11/15/bling-capital-avoiding-crypto-bets-pulls-in-capital-across-two-new-funds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
