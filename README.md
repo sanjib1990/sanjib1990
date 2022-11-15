@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Impacked packs up $2.5M to give the packaging industry a greener tint](https://techcrunch.com/2022/11/15/impacked-seed/)
-- [AI-powered media editing app Descript lands fresh cash from OpenAI](https://techcrunch.com/2022/11/15/ai-powered-media-editing-app-descript-lands-fresh-cash-from-openai/)
-- [Mars orbiter notches 1st sighting of simultaneous auroras with different causes](https://www.space.com/mars-maven-two-aurora-types-simultaneously/)
-- [Zest wants to make buying and sending gifts online ‘delightful’](https://techcrunch.com/2022/11/15/zest-wants-to-make-buying-and-sending-gifts-online-delightful/)
-- [Pickle picks up $26M for its truck unloading robots](https://techcrunch.com/2022/11/15/pickle-picks-up-26m-for-its-truck-unloading-robots/)
+- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
+- [Retool launches Workflows to go beyond the front end](https://techcrunch.com/2022/11/15/retool-launches-workflows-to-go-beyond-the-front-end/)
+- [MotherDuck secures investment from Andreessen Horowitz to commercialize DuckDB](https://techcrunch.com/2022/11/15/motherduck-secures-investment-from-andreessen-horowitz-to-commercialize-duckdb/)
+- [Believe it, or maybe not: Ripley&#39;s displays Apollo 11 moon landing &#39;lost tapes&#39;](https://www.space.com/ripleys-believe-it-or-not-apollo-lost-tapes/)
+- [AI-driven fashion platform Shoptrue constantly learns its users shopping habits](https://techcrunch.com/2022/11/15/ai-driven-fashion-platform-shoptrue/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
