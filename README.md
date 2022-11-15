@@ -83,7 +83,7 @@
 
 <!-- YOUTUBE:START -->
 - [Is DevOps right for me? What it takes to be a DevOps Engineer](https://www.youtube.com/watch?v=Ms_jTcERvMY)
-- [hackers can steal your website in 5 minutes &lpar;subdomain takeover&rpar;](https://www.youtube.com/watch?v=GH6O3oBZLK8)
+- [subdomain takeover &lpar;stealing websites&rpar;](https://www.youtube.com/watch?v=GH6O3oBZLK8)
 - [a solid start](https://www.youtube.com/watch?v=DVWu2b7mvFg)
 - [Is FAANG f**ked?](https://www.youtube.com/watch?v=2pfcynxODJc)
 - [Encryption &amp; Entropy - Computerphile](https://www.youtube.com/watch?v=8VSuwDG4bhw)
