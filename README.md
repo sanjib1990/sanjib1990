@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Induction cooking heats up with a $20M cash injection for Impulse](https://techcrunch.com/2022/11/15/impulse-series-a/)
+- [Exclusive: Sidus Space CEO Carol Craig explains company&#39;s contributions to NASA&#39;s Artemis 1](https://www.space.com/artemis-sidus-space-carol-craig-nasa/)
+- [The dark secret to photographing the perfect rocket launch](https://www.space.com/how-to-photograph-rocket-launch/)
 - [After mothballing Amazon Care, Amazon reenters tele-health with Amazon Clinic, a marketplace for third-party virtual consultants](https://techcrunch.com/2022/11/15/amazon-clinic-telehealth-telemedicine/)
 - [IFC launches $225M platform to back early-stage startups in Africa, Asia, Middle East](https://techcrunch.com/2022/11/15/ifc-launches-225m-platform-to-back-early-stage-startups-in-africa-asia-middle-east/)
-- [Google Play finally adds UPI subscriptions in India](https://techcrunch.com/2022/11/15/google-play-upi-autopay-subscriptions-india/)
-- [Lisbon’s Indico VC launches €25M Opportunity Fund for its scale-ups, taking it to a €141M total](https://techcrunch.com/2022/11/15/lisbons-indico-vc-launches-e25m-opportunity-fund-for-its-scale-ups-taking-it-to-a-e141m-total/)
-- [Browser maker Opera adds built-in TikTok support to desktop sidebar function](https://techcrunch.com/2022/11/15/opera-adds-built-in-tiktok-support-to-desktop-sidebar-function/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
