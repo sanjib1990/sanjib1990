@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Modus expands to sub-Saharan Africa with the launch of its AI and blockchain-focused $75M fund](https://techcrunch.com/2022/11/15/modus-expands-to-sub-saharan-africa-with-the-launch-of-its-ai-and-blockchain-focused-75m-fund/)
+- [Vimcal wants be the most nifty calendar app on the block](https://techcrunch.com/2022/11/15/vimcal-wants-be-the-most-nifty-calendar-app-on-the-block/)
+- [From the founders of Acast, Sesamy is setting out to ‘de-wall’ digital content](https://techcrunch.com/2022/11/15/from-the-founders-of-acast-sesamy-wants-to-de-wall-digital-content/)
+- [BasiGo to kick-off EV assembly in Kenya after $6.6M funding](https://techcrunch.com/2022/11/15/basigo-to-kick-off-ev-assembly-in-kenya-after-6-6m-funding/)
 - [Alibaba eyes logistics growth in LatAm as China commerce slows](https://techcrunch.com/2022/11/14/alibaba-eyes-logistics-growth-in-latam-as-china-commerce-slows/)
-- [Helbiz sees losses in mobility revenue, slight gains in streaming](https://techcrunch.com/2022/11/14/helbiz-sees-losses-in-mobility-revenue-slight-gains-in-streaming/)
-- [Silkhaus gets $7.75M to digitize short-term rentals across emerging markets](https://techcrunch.com/2022/11/14/silkhaus-gets-7-75m-to-digitize-short-term-rentals-across-emerging-markets/)
-- [NASA clears Artemis 1 moon rocket for Nov. 16 launch despite storm damage](https://www.space.com/nasa-clears-artemis-1-moon-rocket-for-launch/)
-- [Daily Crunch: Nigerian startup that stored its ‘day-to-day operational budget’ on FTX announces staff cuts](https://techcrunch.com/2022/11/14/daily-crunch-nigerian-startup-that-stored-its-day-to-day-operational-budget-on-ftx-announces-staff-cuts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
