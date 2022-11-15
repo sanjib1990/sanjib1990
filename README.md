@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Helbiz sees losses in mobility revenue, slight gains in streaming](https://techcrunch.com/2022/11/14/helbiz-sees-losses-in-mobility-revenue-slight-gains-in-streaming/)
 - [Silkhaus gets $7.75M to digitize short-term rentals across emerging markets](https://techcrunch.com/2022/11/14/silkhaus-gets-7-75m-to-digitize-short-term-rentals-across-emerging-markets/)
 - [NASA clears Artemis 1 moon rocket for Nov. 16 launch despite storm damage](https://www.space.com/nasa-clears-artemis-1-moon-rocket-for-launch/)
 - [Daily Crunch: Nigerian startup that stored its ‘day-to-day operational budget’ on FTX announces staff cuts](https://techcrunch.com/2022/11/14/daily-crunch-nigerian-startup-that-stored-its-day-to-day-operational-budget-on-ftx-announces-staff-cuts/)
 - [Max Q: Join us!](https://techcrunch.com/2022/11/14/max-q-join-us/)
-- [Watch NASA&#39;s Artemis 1 moon rocket launch on Nov. 16 online for free](https://www.space.com/nasa-artemis-1-sls-moon-rocket-launch-webcasts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
