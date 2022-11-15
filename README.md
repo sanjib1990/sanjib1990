@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: High-precision induction stove startup Impulse powers up with $20M Series A](https://techcrunch.com/2022/11/15/daily-crunch-high-precision-induction-stove-startup-impulse-powers-up-with-20m-series-a/)
 - [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
+- [NASA&#39;s nighttime Artemis 1 moon rocket launch will light up Florida&#39;s coast &lpar;visibility map&rpar;](https://www.space.com/artemis-1-moon-rocket-night-launch-visibility-map/)
 - [Spacewalking NASA astronauts erect support frame for new ISS solar array](https://www.space.com/astronauts-spacewalk-irosa-solar-array-frame/)
 - [Boston Dynamics sues Ghost Robotics over robot dog patent infringements](https://techcrunch.com/2022/11/15/boston-dynamics-sues-ghost-robotics-over-robot-dog-patent-infringements/)
-- [How to watch NASA&#39;s Artemis 1 moon mission launch live in a 360-degree VR experience](https://www.space.com/artemis-1-virtual-reality-watch-live/)
-- [Bling Capital, avoiding crypto bets, pulls in capital across two new funds](https://techcrunch.com/2022/11/15/bling-capital-avoiding-crypto-bets-pulls-in-capital-across-two-new-funds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
