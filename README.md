@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s Artemis 1 moon rocket is go for launch on Nov. 16. Here&#39;s how to watch it live.](https://www.space.com/nasa-artemis-1-moon-mission-go-for-launch-watch-live/)
+- [Watch NASA astronauts take a spacewalk outside space station today](https://www.space.com/space-station-astronauts-spacewalk-nov-15-2022/)
+- [Germany widens antitrust probes of Amazon to loop in special abuse controls](https://techcrunch.com/2022/11/15/amazon-antitrust-german-fco-special-abuse-controls/)
 - [Induction cooking heats up with a $20M cash injection for Impulse](https://techcrunch.com/2022/11/15/impulse-series-a/)
 - [Exclusive: Sidus Space CEO Carol Craig explains company&#39;s contributions to NASA&#39;s Artemis 1](https://www.space.com/artemis-sidus-space-carol-craig-nasa/)
-- [The dark secret to photographing the perfect rocket launch](https://www.space.com/how-to-photograph-rocket-launch/)
-- [After mothballing Amazon Care, Amazon reenters tele-health with Amazon Clinic, a marketplace for third-party virtual consultants](https://techcrunch.com/2022/11/15/amazon-clinic-telehealth-telemedicine/)
-- [IFC launches $225M platform to back early-stage startups in Africa, Asia, Middle East](https://techcrunch.com/2022/11/15/ifc-launches-225m-platform-to-back-early-stage-startups-in-africa-asia-middle-east/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
