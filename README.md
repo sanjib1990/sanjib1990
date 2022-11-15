@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s Artemis 1 moon rocket is go for launch on Nov. 16. Here&#39;s how to watch it live.](https://www.space.com/nasa-artemis-1-moon-mission-go-for-launch-watch-live/)
-- [Watch NASA astronauts take a spacewalk outside space station today](https://www.space.com/space-station-astronauts-spacewalk-nov-15-2022/)
-- [Germany widens antitrust probes of Amazon to loop in special abuse controls](https://techcrunch.com/2022/11/15/amazon-antitrust-german-fco-special-abuse-controls/)
-- [Induction cooking heats up with a $20M cash injection for Impulse](https://techcrunch.com/2022/11/15/impulse-series-a/)
-- [Exclusive: Sidus Space CEO Carol Craig explains company&#39;s contributions to NASA&#39;s Artemis 1](https://www.space.com/artemis-sidus-space-carol-craig-nasa/)
+- [Pickle picks up $26M for its truck unloading robots](https://techcrunch.com/2022/11/15/pickle-picks-up-26m-for-its-truck-unloading-robots/)
+- [Weka announces $135M investment on $750M valuation to change how companies move data](https://techcrunch.com/2022/11/15/weka-announces-135m-investment-on-750m-valuation-to-change-how-companies-move-data/)
+- [WhatsApp India head Abhijit Bose, Meta India public policy director Rajiv Aggarwal quit](https://techcrunch.com/2022/11/15/whatsapp-india-head-abhijit-bose-meta-india-public-policy-director-rajiv-aggarwal-quit/)
+- [ULUU wants to solve the plastic crisis with seaweed](https://techcrunch.com/2022/11/15/uluu-wants-to-solve-the-plastic-crisis-with-seaweed/)
+- [Supported iPhones in the US and Canada can now contact emergency services via satellite](https://techcrunch.com/2022/11/15/apple-emergency-sos-via-satellite-hands-on/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
