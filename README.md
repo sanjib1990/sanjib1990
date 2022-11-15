@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [After mothballing Amazon Care, Amazon reenters tele-health with Amazon Clinic, a marketplace for third-party virtual consultants](https://techcrunch.com/2022/11/15/amazon-clinic-telehealth-telemedicine/)
+- [IFC launches $225M platform to back early-stage startups in Africa, Asia, Middle East](https://techcrunch.com/2022/11/15/ifc-launches-225m-platform-to-back-early-stage-startups-in-africa-asia-middle-east/)
 - [Google Play finally adds UPI subscriptions in India](https://techcrunch.com/2022/11/15/google-play-upi-autopay-subscriptions-india/)
 - [Lisbon’s Indico VC launches €25M Opportunity Fund for its scale-ups, taking it to a €141M total](https://techcrunch.com/2022/11/15/lisbons-indico-vc-launches-e25m-opportunity-fund-for-its-scale-ups-taking-it-to-a-e141m-total/)
 - [Browser maker Opera adds built-in TikTok support to desktop sidebar function](https://techcrunch.com/2022/11/15/opera-adds-built-in-tiktok-support-to-desktop-sidebar-function/)
-- [Modus expands to sub-Saharan Africa with the launch of its AI and blockchain-focused $75M fund](https://techcrunch.com/2022/11/15/modus-expands-to-sub-saharan-africa-with-the-launch-of-its-ai-and-blockchain-focused-75m-fund/)
-- [Vimcal wants be the most nifty calendar app on the block](https://techcrunch.com/2022/11/15/vimcal-wants-be-the-most-nifty-calendar-app-on-the-block/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
