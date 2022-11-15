@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [YC, Khosla-backed Atmos lands $12.5M to design custom dream homes](https://techcrunch.com/2022/11/15/yc-khosla-backed-atmos-lands-12-5m-to-help-people-design-their-dream-homes-real-estate/)
-- [What time is NASA&#39;s Artemis 1 moon rocket launch on Nov. 16?](https://www.space.com/artemis-1-sls-rocket-moon-launch-what-time/)
-- [Artemis launch delay is the latest of many NASA scrubs and comes from hard lessons on crew safety](https://www.space.com/artemis-launch-delay-nasa-scrubs-safety/)
-- [There’s still juice in the NFT market despite very real downturn](https://techcrunch.com/2022/11/15/theres-still-juice-in-the-nft-market-despite-very-real-downturn/)
-- [Announcing the agenda for TechCrunch Sessions: Space in Los Angeles](https://techcrunch.com/2022/11/15/announcing-the-agenda-for-techcrunch-sessions-space-in-los-angeles/)
+- [YouTube Shorts begins testing shopping features and affiliate marketing](https://techcrunch.com/2022/11/15/youtube-shorts-testing-shopping-features-affiliate-marketing/)
+- [TechCrunch+ roundup: Bootstrapping basics, fintech’s future, tech employers gain advantage](https://techcrunch.com/2022/11/15/techcrunch-roundup-bootstrapping-basics-fintechs-future-tech-employers-gain-advantage/)
+- [Netflix’s new feature lets subscribers kick devices off their accounts](https://techcrunch.com/2022/11/15/netflix-new-manage-access-and-devices-feature/)
+- [YouTube Shorts can now include 60 seconds of music or sounds, up from 15 seconds before](https://techcrunch.com/2022/11/15/youtube-shorts-can-now-include-60-seconds-of-music-or-sounds-up-from-15-seconds-before/)
+- [NASA water-hunting moon cubesat ready to launch with SpaceX](https://www.space.com/lunar-flashlight-water-seeking-satellite-launch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
