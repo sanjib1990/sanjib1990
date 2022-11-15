@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Play finally adds UPI subscriptions in India](https://techcrunch.com/2022/11/15/google-play-upi-autopay-subscriptions-india/)
+- [Lisbon’s Indico VC launches €25M Opportunity Fund for its scale-ups, taking it to a €141M total](https://techcrunch.com/2022/11/15/lisbons-indico-vc-launches-e25m-opportunity-fund-for-its-scale-ups-taking-it-to-a-e141m-total/)
+- [Browser maker Opera adds built-in TikTok support to desktop sidebar function](https://techcrunch.com/2022/11/15/opera-adds-built-in-tiktok-support-to-desktop-sidebar-function/)
 - [Modus expands to sub-Saharan Africa with the launch of its AI and blockchain-focused $75M fund](https://techcrunch.com/2022/11/15/modus-expands-to-sub-saharan-africa-with-the-launch-of-its-ai-and-blockchain-focused-75m-fund/)
 - [Vimcal wants be the most nifty calendar app on the block](https://techcrunch.com/2022/11/15/vimcal-wants-be-the-most-nifty-calendar-app-on-the-block/)
-- [From the founders of Acast, Sesamy is setting out to ‘de-wall’ digital content](https://techcrunch.com/2022/11/15/from-the-founders-of-acast-sesamy-wants-to-de-wall-digital-content/)
-- [BasiGo to kick-off EV assembly in Kenya after $6.6M funding](https://techcrunch.com/2022/11/15/basigo-to-kick-off-ev-assembly-in-kenya-after-6-6m-funding/)
-- [Alibaba eyes logistics growth in LatAm as China commerce slows](https://techcrunch.com/2022/11/14/alibaba-eyes-logistics-growth-in-latam-as-china-commerce-slows/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
