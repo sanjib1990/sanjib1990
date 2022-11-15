@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Live from Artemis 1: Join Space.com&#39;s Brett Tingley for NASA&#39;s big moon launch](https://www.space.com/nasa-artemis-1-sls-moon-rocket-launch-webcast-brett/)
+- [LF Europe’s Project Sylva wants to create an open source telco cloud stack](https://techcrunch.com/2022/11/15/lf-europes-project-sylva-wants-to-create-an-open-source-telco-cloud-stack/)
+- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
 - [YouTube Shorts begins testing shopping features and affiliate marketing](https://techcrunch.com/2022/11/15/youtube-shorts-testing-shopping-features-affiliate-marketing/)
 - [TechCrunch+ roundup: Bootstrapping basics, fintech’s future, tech employers gain advantage](https://techcrunch.com/2022/11/15/techcrunch-roundup-bootstrapping-basics-fintechs-future-tech-employers-gain-advantage/)
-- [Netflix’s new feature lets subscribers kick devices off their accounts](https://techcrunch.com/2022/11/15/netflix-new-manage-access-and-devices-feature/)
-- [YouTube Shorts can now include 60 seconds of music or sounds, up from 15 seconds before](https://techcrunch.com/2022/11/15/youtube-shorts-can-now-include-60-seconds-of-music-or-sounds-up-from-15-seconds-before/)
-- [NASA water-hunting moon cubesat ready to launch with SpaceX](https://www.space.com/lunar-flashlight-water-seeking-satellite-launch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
