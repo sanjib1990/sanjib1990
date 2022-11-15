@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Impacked packs up $2.5M to give the packaging industry a greener tint](https://techcrunch.com/2022/11/15/impacked-seed/)
+- [AI-powered media editing app Descript lands fresh cash from OpenAI](https://techcrunch.com/2022/11/15/ai-powered-media-editing-app-descript-lands-fresh-cash-from-openai/)
+- [Mars orbiter notches 1st sighting of simultaneous auroras with different causes](https://www.space.com/mars-maven-two-aurora-types-simultaneously/)
+- [Zest wants to make buying and sending gifts online ‘delightful’](https://techcrunch.com/2022/11/15/zest-wants-to-make-buying-and-sending-gifts-online-delightful/)
 - [Pickle picks up $26M for its truck unloading robots](https://techcrunch.com/2022/11/15/pickle-picks-up-26m-for-its-truck-unloading-robots/)
-- [Weka announces $135M investment on $750M valuation to change how companies move data](https://techcrunch.com/2022/11/15/weka-announces-135m-investment-on-750m-valuation-to-change-how-companies-move-data/)
-- [WhatsApp India head Abhijit Bose, Meta India public policy director Rajiv Aggarwal quit](https://techcrunch.com/2022/11/15/whatsapp-india-head-abhijit-bose-meta-india-public-policy-director-rajiv-aggarwal-quit/)
-- [ULUU wants to solve the plastic crisis with seaweed](https://techcrunch.com/2022/11/15/uluu-wants-to-solve-the-plastic-crisis-with-seaweed/)
-- [Supported iPhones in the US and Canada can now contact emergency services via satellite](https://techcrunch.com/2022/11/15/apple-emergency-sos-via-satellite-hands-on/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
