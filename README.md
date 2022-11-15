@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
-- [Retool launches Workflows to go beyond the front end](https://techcrunch.com/2022/11/15/retool-launches-workflows-to-go-beyond-the-front-end/)
-- [MotherDuck secures investment from Andreessen Horowitz to commercialize DuckDB](https://techcrunch.com/2022/11/15/motherduck-secures-investment-from-andreessen-horowitz-to-commercialize-duckdb/)
-- [Believe it, or maybe not: Ripley&#39;s displays Apollo 11 moon landing &#39;lost tapes&#39;](https://www.space.com/ripleys-believe-it-or-not-apollo-lost-tapes/)
-- [AI-driven fashion platform Shoptrue constantly learns its users shopping habits](https://techcrunch.com/2022/11/15/ai-driven-fashion-platform-shoptrue/)
+- [Startup founders go to war with UK government over its moves to appoint bank into key ecosystem role](https://techcrunch.com/2022/11/15/startup-founders-go-to-war-with-uk-government-over-its-moves-to-appoint-bank-into-key-ecosystem-role/)
+- [November new moon 2022: A young moon passes Saturn](https://www.space.com/17561-new-moon-explained-lunar-phases.html/)
+- [Yahaha raises $40M more for its user-generated, low-code immersive gaming platform](https://techcrunch.com/2022/11/15/yahaha-raises-40m-more-for-its-user-generated-low-code-immersive-gaming-platform/)
+- [Yakoa raises $4.8M to help detect NFT fraud for platforms and creators](https://techcrunch.com/2022/11/15/yakoa-raises-4-8m-to-help-detect-nft-fraud-for-platforms-and-creators/)
+- [Spotify’s video podcast publishing tools expand to creators worldwide](https://techcrunch.com/2022/11/15/spotifys-video-podcast-publishing-tools-expand-to-creators-worldwide/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
