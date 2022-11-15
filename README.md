@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Startup founders go to war with UK government over its moves to appoint bank into key ecosystem role](https://techcrunch.com/2022/11/15/startup-founders-go-to-war-with-uk-government-over-its-moves-to-appoint-bank-into-key-ecosystem-role/)
-- [November new moon 2022: A young moon passes Saturn](https://www.space.com/17561-new-moon-explained-lunar-phases.html/)
-- [Yahaha raises $40M more for its user-generated, low-code immersive gaming platform](https://techcrunch.com/2022/11/15/yahaha-raises-40m-more-for-its-user-generated-low-code-immersive-gaming-platform/)
-- [Yakoa raises $4.8M to help detect NFT fraud for platforms and creators](https://techcrunch.com/2022/11/15/yakoa-raises-4-8m-to-help-detect-nft-fraud-for-platforms-and-creators/)
-- [Spotify’s video podcast publishing tools expand to creators worldwide](https://techcrunch.com/2022/11/15/spotifys-video-podcast-publishing-tools-expand-to-creators-worldwide/)
+- [YC, Khosla-backed Atmos lands $12.5M to design custom dream homes](https://techcrunch.com/2022/11/15/yc-khosla-backed-atmos-lands-12-5m-to-help-people-design-their-dream-homes-real-estate/)
+- [What time is NASA&#39;s Artemis 1 moon rocket launch on Nov. 16?](https://www.space.com/artemis-1-sls-rocket-moon-launch-what-time/)
+- [Artemis launch delay is the latest of many NASA scrubs and comes from hard lessons on crew safety](https://www.space.com/artemis-launch-delay-nasa-scrubs-safety/)
+- [There’s still juice in the NFT market despite very real downturn](https://techcrunch.com/2022/11/15/theres-still-juice-in-the-nft-market-despite-very-real-downturn/)
+- [Announcing the agenda for TechCrunch Sessions: Space in Los Angeles](https://techcrunch.com/2022/11/15/announcing-the-agenda-for-techcrunch-sessions-space-in-los-angeles/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
