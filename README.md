@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Save 5% on this Estes NASA SLS Flying Model Rocket kit](https://www.space.com/estes-nasa-model-rocket-deal-save-18-percent/)
+- [Chinese astronauts enter newly arrived cargo spacecraft at Tiangong space station](https://www.space.com/chinese-astronauts-enter-tianzhou-5-cargo-spacecraft/)
 - [Live from Artemis 1: Join Space.com&#39;s Brett Tingley for NASA&#39;s big moon launch](https://www.space.com/nasa-artemis-1-sls-moon-rocket-launch-webcast-brett/)
 - [LF Europe’s Project Sylva wants to create an open source telco cloud stack](https://techcrunch.com/2022/11/15/lf-europes-project-sylva-wants-to-create-an-open-source-telco-cloud-stack/)
 - [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
-- [YouTube Shorts begins testing shopping features and affiliate marketing](https://techcrunch.com/2022/11/15/youtube-shorts-testing-shopping-features-affiliate-marketing/)
-- [TechCrunch+ roundup: Bootstrapping basics, fintech’s future, tech employers gain advantage](https://techcrunch.com/2022/11/15/techcrunch-roundup-bootstrapping-basics-fintechs-future-tech-employers-gain-advantage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
