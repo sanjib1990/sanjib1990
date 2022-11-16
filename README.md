@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Daily Crunch: High-precision induction stove startup Impulse powers up with $20M Series A](https://techcrunch.com/2022/11/15/daily-crunch-high-precision-induction-stove-startup-impulse-powers-up-with-20m-series-a/)
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
-- [NASA&#39;s nighttime Artemis 1 moon rocket launch will light up Florida&#39;s coast &lpar;visibility map&rpar;](https://www.space.com/artemis-1-moon-rocket-night-launch-visibility-map/)
-- [Spacewalking NASA astronauts erect support frame for new ISS solar array](https://www.space.com/astronauts-spacewalk-irosa-solar-array-frame/)
-- [Boston Dynamics sues Ghost Robotics over robot dog patent infringements](https://techcrunch.com/2022/11/15/boston-dynamics-sues-ghost-robotics-over-robot-dog-patent-infringements/)
+- [Thailand’s Beam simplifies checkout for social commerce](https://techcrunch.com/2022/11/15/thailands-beam-simplifies-checkout-for-social-commerce/)
+- [Artemis 1 moon rocket spotted from space &lpar;satellite radar image&rpar;](https://www.space.com/artemis-1-moon-rocket-capella-space-satellite-photo/)
+- [Uber, Lyft to pay NYC drivers more by end of year](https://techcrunch.com/2022/11/15/uber-lyft-to-pay-nyc-drivers-more-by-end-of-year/)
+- [Coinbase CEO dives into market madness at TC Sessions: Crypto](https://techcrunch.com/2022/11/15/coinbase-ceo-dives-into-market-madness-at-tc-sessions-crypto/)
+- [NASA taps SpaceX for second crewed Starship demonstration mission to the moon](https://techcrunch.com/2022/11/15/nasa-taps-spacex-for-second-crewed-starship-demonstration-mission-to-the-moon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
