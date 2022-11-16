@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Musk poses workers with a choice: quit Twitter, or prepare to get “hardcore”](https://techcrunch.com/2022/11/16/musk-poses-workers-with-a-choice-quit-twitter-or-prepare-to-get-hardcore/)
-- [Akeyless secures a cash infusion to help companies manage their passwords, certificates and keys](https://techcrunch.com/2022/11/16/akeyless-secures-a-cash-infusion-to-help-companies-manage-their-passwords-certificates-and-keys/)
-- [Epic Artemis 1 rocket launch spotted streaking through Earth&#39;s atmosphere in satellite image](https://www.space.com/artemis-1-launch-satellite-image/)
-- [Meet the startups competing at TC Sessions: Crypto](https://techcrunch.com/2022/11/16/meet-the-startups-competing-at-tc-sessions-crypto/)
-- [Amazon begins layoffs as economic woes mount](https://techcrunch.com/2022/11/16/amazon-begins-layoffs-as-economic-woes-mount/)
+- [New code suggests Twitter is reviving its work on encrypted DMs](https://techcrunch.com/2022/11/16/new-code-suggests-twitter-is-reviving-its-work-on-encrypted-dms/)
+- [Microsoft and Nvidia team up to build new Azure-hosted AI supercomputer](https://techcrunch.com/2022/11/16/microsoft-and-nvidia-team-up-to-build-new-azure-hosted-ai-supercomputer/)
+- [Elon Musk, disaster artist](https://techcrunch.com/2022/11/16/elon-musk-disaster-artist/)
+- [I volunteer as tribute!](https://techcrunch.com/2022/11/16/i-volunteer-as-tribute/)
+- [Microsoft Teams now lets you challenge colleagues to a game of Minesweeper or Solitaire](https://techcrunch.com/2022/11/16/microsoft-teams-now-lets-you-challenge-colleagues-to-a-game-of-minesweeper-or-solitaire/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
