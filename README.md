@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to turn user data into your next pitch deck](https://techcrunch.com/2022/11/16/how-to-turn-user-data-into-your-next-pitch-deck/)
-- [Best Lego Marvel sets 2022](https://www.space.com/best-lego-marvel-sets/)
-- [Microsoft’s SQL Server 2022 is all about Azure](https://techcrunch.com/2022/11/16/microsofts-sql-server-2022-is-all-about-azure/)
-- [New code suggests Twitter is reviving its work on encrypted DMs](https://techcrunch.com/2022/11/16/new-code-suggests-twitter-is-reviving-its-work-on-encrypted-dms/)
-- [Microsoft and Nvidia team up to build new Azure-hosted AI supercomputer](https://techcrunch.com/2022/11/16/microsoft-and-nvidia-team-up-to-build-new-azure-hosted-ai-supercomputer/)
+- [ABL Space Systems now targeting Thursday for 1st-ever launch after glitch](https://www.space.com/abl-space-systems-debut-launch-november-17/)
+- [Artemis 1&#39;s Orion capsule fires engine for 1st time on way to the moon](https://www.space.com/artemis-1-orion-first-engine-burn-success/)
+- [Students — Shoot for the stars at TC Sessions: Space](https://techcrunch.com/2022/11/16/students-shoot-for-the-stars-at-tc-sessions-space/)
+- [Join Bitcoin Association for BSV and Polygon at TC Sessions: Crypto](https://techcrunch.com/2022/11/16/join-bitcoin-association-for-bsv-and-polygon-at-tc-sessions-crypto/)
+- [Bending Spoons acquires Evernote, marking the end of an era](https://techcrunch.com/2022/11/16/bending-spoons-acquires-evernote-marking-the-end-of-an-era/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
