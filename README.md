@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Parallel Domain says autonomous driving won’t scale without synthetic data](https://techcrunch.com/2022/11/16/parallel-domain-says-autonomous-driving-wont-scale-without-synthetic-data/)
-- [Goodera makes corporate volunteering events easier, even for remote and hybrid workplaces](https://techcrunch.com/2022/11/16/goodera-makes-organizing-corporate-volunteering-events-easier/)
-- [See the half-lit last quarter moon tonight &lpar;Nov. 16&rpar;](https://www.space.com/last-quarter-moon-november-16-2022/)
-- [See the 1st space views from moon-bound Artemis 1 Orion capsule &lpar;photos&rpar;](https://www.space.com/artemis-1-orion-first-photos-from-space/)
-- [NASA&#39;s Artemis 1 moon mission heads for lunar orbit after crucial engine burn](https://www.space.com/artemis-1-orion-spacecraft-headed-for-moon/)
+- [Fiat Ventures, with $25M for first fund, brings ‘insider’ approach to investing in early-stage fintechs](https://techcrunch.com/2022/11/16/fiat-ventures-25m-fund-fintech/)
+- [On This Day In Space: Nov. 16, 1974: Arecibo Observatory broadcasts interstellar message](https://www.space.com/39251-on-this-day-in-space.html/)
+- [Airbnb rolls out a host of new perks for hosts](https://techcrunch.com/2022/11/16/airbnb-rolls-out-a-host-of-new-perks-for-hosts/)
+- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
+- [EU’s Digital Services Act enters into force — but no confirm if Twitter will feel its full force yet](https://techcrunch.com/2022/11/16/digital-services-act-enters-into-force/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
