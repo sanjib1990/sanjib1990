@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Fiery James Webb Space Telescope image shows the early days of star formation](https://www.space.com/james-webb-space-telescope-cosmic-hourglass/)
-- [Apple to launch ‘MLS Season Pass’ subscription on February 1](https://techcrunch.com/2022/11/16/apple-tv-to-launch-mls-season-pass-subscription-on-february-1/)
-- [Kenya’s Twiga dismisses in-house sales team, affecting 21% of it employees](https://techcrunch.com/2022/11/16/kenyas-twiga-dismisses-in-house-sales-team-affecting-21-of-it-employees/)
-- [FTX exposure hits market makers and funds](https://techcrunch.com/2022/11/16/ftx-exposure-hits-market-makers-and-funds-enigma-looking-to-buy-claims/)
-- [More reasons than ever to go to TC Sessions: Crypto](https://techcrunch.com/2022/11/16/more-reasons-than-ever-to-go-to-tc-sessions-crypto/)
+- [SBF regrets declaring FTX bankrupt, per his DMs to Vox](https://techcrunch.com/2022/11/16/sbf-regrets-declaring-ftx-bankrupt-per-his-dms-to-vox/)
+- [NASA&#39;s Artemis 1 moon mission will carry science across the solar system](https://www.space.com/artemis-1-solar-system-science-earth-benefits/)
+- [President Biden, VP Harris hail NASA Artemis 1 moon rocket launch and its &#39;limitless possibilities&#39;](https://www.space.com/artemis-1-success-white-house-congratulations/)
+- [This robotic dog can walk over just about any terrain](https://techcrunch.com/2022/11/16/this-robotic-dog-can-walk-over-just-about-any-terrain/)
+- [Spot NASA&#39;s Artemis 1 Orion on its way to the moon in a free livestream tonight &lpar;Nov. 16&rpar;](https://www.space.com/see-artemis-1-orion-spacecraft-headed-to-moon-livestream/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
