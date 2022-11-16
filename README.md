@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Artemis 1 launch photos: Amazing views of NASA&#39;s moon rocket debut &lpar;gallery&rpar;](https://www.space.com/artemis-1-moon-rocket-launch-photos/)
+- [See the 1st space views from moon-bound Artemis 1 Orion capsule &lpar;photos&rpar;](https://www.space.com/artemis-1-orion-first-photos-from-space/)
+- [NASA&#39;s Artemis 1 moon mission heads for lunar orbit after crucial engine burn](https://www.space.com/artemis-1-orion-spacecraft-headed-for-moon/)
 - [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
+- [Artemis 1 launch photos: Amazing views of NASA&#39;s moon rocket debut &lpar;gallery&rpar;](https://www.space.com/artemis-1-moon-rocket-launch-photos/)
 - [Supernova wants to make it easy to move design elements to code bases](https://techcrunch.com/2022/11/16/supernova-wants-to-make-it-easy-to-transfer-design-changes-to-code-bases/)
-- [NASA launches Artemis 1 moon mission on its most powerful rocket ever](https://www.space.com/nasa-artemis-1-moon-mission-launch/)
-- [NASA’s Space Launch System makes inaugural journey in historic launch](https://techcrunch.com/2022/11/15/nasas-space-launch-system-makes-inaugural-journey-in-historic-launch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
