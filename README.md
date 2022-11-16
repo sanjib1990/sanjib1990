@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Fiat Ventures, with $25M for first fund, brings ‘insider’ approach to investing in early-stage fintechs](https://techcrunch.com/2022/11/16/fiat-ventures-25m-fund-fintech/)
-- [On This Day In Space: Nov. 16, 1974: Arecibo Observatory broadcasts interstellar message](https://www.space.com/39251-on-this-day-in-space.html/)
-- [Airbnb rolls out a host of new perks for hosts](https://techcrunch.com/2022/11/16/airbnb-rolls-out-a-host-of-new-perks-for-hosts/)
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
-- [EU’s Digital Services Act enters into force — but no confirm if Twitter will feel its full force yet](https://techcrunch.com/2022/11/16/digital-services-act-enters-into-force/)
+- [Matter Labs, the company behind zkSync, raises $200 million to scale Ethereum](https://techcrunch.com/2022/11/16/matter-labs-the-company-behind-zksync-raises-200-million-to-scale-ethereum/)
+- [Hinge’s new feature makes it easier for those seeking non-monogamous relationships](https://techcrunch.com/2022/11/16/hinges-new-feature-is-a-small-win-for-users-in-non-monogamy-relationships/)
+- [Backbone launches an Android version of its mobile gaming controller](https://techcrunch.com/2022/11/16/backbone-controller-android/)
+- [Yubo expands its real-time audio moderation technology to the U.K., Australia and Canada](https://techcrunch.com/2022/11/16/yubo-expands-real-time-audio-moderation-technology/)
+- [SigmaOS raises $4 million to build a browser for productivity nerds](https://techcrunch.com/2022/11/16/sigmaos-raises-4-million-to-build-a-browser-for-productivity-nerds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
