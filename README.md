@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Parallel Domain says autonomous driving won’t scale without synthetic data](https://techcrunch.com/2022/11/16/parallel-domain-says-autonomous-driving-wont-scale-without-synthetic-data/)
+- [Goodera makes corporate volunteering events easier, even for remote and hybrid workplaces](https://techcrunch.com/2022/11/16/goodera-makes-organizing-corporate-volunteering-events-easier/)
 - [See the half-lit last quarter moon tonight &lpar;Nov. 16&rpar;](https://www.space.com/last-quarter-moon-november-16-2022/)
 - [See the 1st space views from moon-bound Artemis 1 Orion capsule &lpar;photos&rpar;](https://www.space.com/artemis-1-orion-first-photos-from-space/)
 - [NASA&#39;s Artemis 1 moon mission heads for lunar orbit after crucial engine burn](https://www.space.com/artemis-1-orion-spacecraft-headed-for-moon/)
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
-- [Artemis 1 launch photos: Amazing views of NASA&#39;s moon rocket debut &lpar;gallery&rpar;](https://www.space.com/artemis-1-moon-rocket-launch-photos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
