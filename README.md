@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fiery James Webb Space Telescope image shows the early days of star formation](https://www.space.com/james-webb-space-telescope-cosmic-hourglass/)
+- [Apple to launch ‘MLS Season Pass’ subscription on February 1](https://techcrunch.com/2022/11/16/apple-tv-to-launch-mls-season-pass-subscription-on-february-1/)
 - [Kenya’s Twiga dismisses in-house sales team, affecting 21% of it employees](https://techcrunch.com/2022/11/16/kenyas-twiga-dismisses-in-house-sales-team-affecting-21-of-it-employees/)
 - [FTX exposure hits market makers and funds](https://techcrunch.com/2022/11/16/ftx-exposure-hits-market-makers-and-funds-enigma-looking-to-buy-claims/)
 - [More reasons than ever to go to TC Sessions: Crypto](https://techcrunch.com/2022/11/16/more-reasons-than-ever-to-go-to-tc-sessions-crypto/)
-- [Iran-backed hackers breached a US federal agency that failed to patch year-old bug](https://techcrunch.com/2022/11/16/iran-hackers-federal-agency-log4shell/)
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
