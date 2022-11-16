@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to turn user data into your next pitch deck](https://techcrunch.com/2022/11/16/how-to-turn-user-data-into-your-next-pitch-deck/)
+- [Best Lego Marvel sets 2022](https://www.space.com/best-lego-marvel-sets/)
+- [Microsoft’s SQL Server 2022 is all about Azure](https://techcrunch.com/2022/11/16/microsofts-sql-server-2022-is-all-about-azure/)
 - [New code suggests Twitter is reviving its work on encrypted DMs](https://techcrunch.com/2022/11/16/new-code-suggests-twitter-is-reviving-its-work-on-encrypted-dms/)
 - [Microsoft and Nvidia team up to build new Azure-hosted AI supercomputer](https://techcrunch.com/2022/11/16/microsoft-and-nvidia-team-up-to-build-new-azure-hosted-ai-supercomputer/)
-- [Elon Musk, disaster artist](https://techcrunch.com/2022/11/16/elon-musk-disaster-artist/)
-- [I volunteer as tribute!](https://techcrunch.com/2022/11/16/i-volunteer-as-tribute/)
-- [Microsoft Teams now lets you challenge colleagues to a game of Minesweeper or Solitaire](https://techcrunch.com/2022/11/16/microsoft-teams-now-lets-you-challenge-colleagues-to-a-game-of-minesweeper-or-solitaire/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
