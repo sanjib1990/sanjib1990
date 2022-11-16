@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [ABL Space Systems now targeting Thursday for 1st-ever launch after glitch](https://www.space.com/abl-space-systems-debut-launch-november-17/)
-- [Artemis 1&#39;s Orion capsule fires engine for 1st time on way to the moon](https://www.space.com/artemis-1-orion-first-engine-burn-success/)
-- [Students — Shoot for the stars at TC Sessions: Space](https://techcrunch.com/2022/11/16/students-shoot-for-the-stars-at-tc-sessions-space/)
-- [Join Bitcoin Association for BSV and Polygon at TC Sessions: Crypto](https://techcrunch.com/2022/11/16/join-bitcoin-association-for-bsv-and-polygon-at-tc-sessions-crypto/)
-- [Bending Spoons acquires Evernote, marking the end of an era](https://techcrunch.com/2022/11/16/bending-spoons-acquires-evernote-marking-the-end-of-an-era/)
+- [How Bird clipped its own wings](https://techcrunch.com/2022/11/16/how-bird-clipped-its-own-wings/)
+- [Artemis 1&#39;s Orion capsule sends Earth 1st image of home on the way to the moon](https://www.space.com/artemis-1-orion-first-photos-earth/)
+- [Google Play streamlines policies around kids’ apps as regulations tighten](https://techcrunch.com/2022/11/16/google-play-streamlines-policies-around-kids-apps-as-regulations-tighten/)
+- [Dear Sophie: My co-founder’s a green card applicant who just got laid off. Now what?](https://techcrunch.com/2022/11/16/dear-sophie-my-co-founders-a-green-card-applicant-who-just-got-laid-off-now-what/)
+- [Amazon hardware head confirms layoffs in memo](https://techcrunch.com/2022/11/16/amazon-hardware-head-confirms-layoffs-in-memo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
