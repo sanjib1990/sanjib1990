@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How Bird clipped its own wings](https://techcrunch.com/2022/11/16/how-bird-clipped-its-own-wings/)
-- [Artemis 1&#39;s Orion capsule sends Earth 1st image of home on the way to the moon](https://www.space.com/artemis-1-orion-first-photos-earth/)
-- [Google Play streamlines policies around kids’ apps as regulations tighten](https://techcrunch.com/2022/11/16/google-play-streamlines-policies-around-kids-apps-as-regulations-tighten/)
-- [Dear Sophie: My co-founder’s a green card applicant who just got laid off. Now what?](https://techcrunch.com/2022/11/16/dear-sophie-my-co-founders-a-green-card-applicant-who-just-got-laid-off-now-what/)
-- [Amazon hardware head confirms layoffs in memo](https://techcrunch.com/2022/11/16/amazon-hardware-head-confirms-layoffs-in-memo/)
+- [Kenya’s Twiga dismisses in-house sales team, affecting 21% of it employees](https://techcrunch.com/2022/11/16/kenyas-twiga-dismisses-in-house-sales-team-affecting-21-of-it-employees/)
+- [FTX exposure hits market makers and funds](https://techcrunch.com/2022/11/16/ftx-exposure-hits-market-makers-and-funds-enigma-looking-to-buy-claims/)
+- [More reasons than ever to go to TC Sessions: Crypto](https://techcrunch.com/2022/11/16/more-reasons-than-ever-to-go-to-tc-sessions-crypto/)
+- [Iran-backed hackers breached a US federal agency that failed to patch year-old bug](https://techcrunch.com/2022/11/16/iran-hackers-federal-agency-log4shell/)
+- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
