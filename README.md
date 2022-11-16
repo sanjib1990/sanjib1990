@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Genesis teases its EV future with the Genesis X convertible](https://techcrunch.com/2022/11/15/genesis-teases-its-ev-future-with-the-genesis-x-convertible/)
+- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
+- [NASA taps SpaceX for 2nd astronaut moon landing with Starship](https://www.space.com/nasa-spacex-starship-second-astronaut-moon-landing/)
 - [Thailand’s Beam simplifies checkout for social commerce](https://techcrunch.com/2022/11/15/thailands-beam-simplifies-checkout-for-social-commerce/)
 - [Artemis 1 moon rocket spotted from space &lpar;satellite radar image&rpar;](https://www.space.com/artemis-1-moon-rocket-capella-space-satellite-photo/)
-- [Uber, Lyft to pay NYC drivers more by end of year](https://techcrunch.com/2022/11/15/uber-lyft-to-pay-nyc-drivers-more-by-end-of-year/)
-- [Coinbase CEO dives into market madness at TC Sessions: Crypto](https://techcrunch.com/2022/11/15/coinbase-ceo-dives-into-market-madness-at-tc-sessions-crypto/)
-- [NASA taps SpaceX for second crewed Starship demonstration mission to the moon](https://techcrunch.com/2022/11/15/nasa-taps-spacex-for-second-crewed-starship-demonstration-mission-to-the-moon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
