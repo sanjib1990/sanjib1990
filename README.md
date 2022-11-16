@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SBF regrets declaring FTX bankrupt, per his DMs to Vox](https://techcrunch.com/2022/11/16/sbf-regrets-declaring-ftx-bankrupt-per-his-dms-to-vox/)
+- [Tatum is building a robot arm to help people with deafblindness communicate](https://techcrunch.com/2022/11/16/tatum-is-building-a-robot-arm-to-help-people-with-deafblindness-communicate/)
+- [Daily Crunch: Amazon starts delivering layoff notices to thousands of employees](https://techcrunch.com/2022/11/16/daily-crunch-amazon-starts-delivering-layoff-notices-to-thousands-of-employees/)
+- [Upside’s cell-cultured chicken is first to receive FDA blessing for its production method](https://techcrunch.com/2022/11/16/upside-foods-cell-cultured-meat-fda/)
+- [SBF regrets declaring FTX bankrupt](https://techcrunch.com/2022/11/16/sbf-regrets-declaring-ftx-bankrupt-per-his-dms-to-vox/)
 - [NASA&#39;s Artemis 1 moon mission will carry science across the solar system](https://www.space.com/artemis-1-solar-system-science-earth-benefits/)
-- [President Biden, VP Harris hail NASA Artemis 1 moon rocket launch and its &#39;limitless possibilities&#39;](https://www.space.com/artemis-1-success-white-house-congratulations/)
-- [This robotic dog can walk over just about any terrain](https://techcrunch.com/2022/11/16/this-robotic-dog-can-walk-over-just-about-any-terrain/)
-- [Spot NASA&#39;s Artemis 1 Orion on its way to the moon in a free livestream tonight &lpar;Nov. 16&rpar;](https://www.space.com/see-artemis-1-orion-spacecraft-headed-to-moon-livestream/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
