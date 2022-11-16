@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Matter Labs, the company behind zkSync, raises $200 million to scale Ethereum](https://techcrunch.com/2022/11/16/matter-labs-the-company-behind-zksync-raises-200-million-to-scale-ethereum/)
-- [Hinge’s new feature makes it easier for those seeking non-monogamous relationships](https://techcrunch.com/2022/11/16/hinges-new-feature-is-a-small-win-for-users-in-non-monogamy-relationships/)
-- [Backbone launches an Android version of its mobile gaming controller](https://techcrunch.com/2022/11/16/backbone-controller-android/)
-- [Yubo expands its real-time audio moderation technology to the U.K., Australia and Canada](https://techcrunch.com/2022/11/16/yubo-expands-real-time-audio-moderation-technology/)
-- [SigmaOS raises $4 million to build a browser for productivity nerds](https://techcrunch.com/2022/11/16/sigmaos-raises-4-million-to-build-a-browser-for-productivity-nerds/)
+- [Musk poses workers with a choice: quit Twitter, or prepare to get “hardcore”](https://techcrunch.com/2022/11/16/musk-poses-workers-with-a-choice-quit-twitter-or-prepare-to-get-hardcore/)
+- [Akeyless secures a cash infusion to help companies manage their passwords, certificates and keys](https://techcrunch.com/2022/11/16/akeyless-secures-a-cash-infusion-to-help-companies-manage-their-passwords-certificates-and-keys/)
+- [Epic Artemis 1 rocket launch spotted streaking through Earth&#39;s atmosphere in satellite image](https://www.space.com/artemis-1-launch-satellite-image/)
+- [Meet the startups competing at TC Sessions: Crypto](https://techcrunch.com/2022/11/16/meet-the-startups-competing-at-tc-sessions-crypto/)
+- [Amazon begins layoffs as economic woes mount](https://techcrunch.com/2022/11/16/amazon-begins-layoffs-as-economic-woes-mount/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
