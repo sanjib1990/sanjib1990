@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tiger Global-backed Algorithmiq to collaborate with IBM over drug discovery using Quantum](https://techcrunch.com/2022/11/15/tiger-global-backed-algorithmiq-to-collaborate-with-ibm-over-drug-discovery-using-quantum/)
 - [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
 - [Valar Ventures leads $20M round in online brokerage platform baraka](https://techcrunch.com/2022/11/15/valar-ventures-backs-online-brokerage-platform-baraka-in-its-20m-round/)
 - [Genesis teases its EV future with the Genesis X convertible](https://techcrunch.com/2022/11/15/genesis-teases-its-ev-future-with-the-genesis-x-convertible/)
 - [NASA taps SpaceX for 2nd astronaut moon landing with Starship](https://www.space.com/nasa-spacex-starship-second-astronaut-moon-landing/)
-- [Thailand’s Beam simplifies checkout for social commerce](https://techcrunch.com/2022/11/15/thailands-beam-simplifies-checkout-for-social-commerce/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
