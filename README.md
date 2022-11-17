@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Experiment shows how space-based solar power could work](https://www.space.com/airbus-space-solar-power-test/)
-- [Watch the PC Gaming Show: 2023 preview for free today to prep for your next sci-fi gaming year](https://www.space.com/pc-gaming-show-2023-preview-livestream/)
-- [Telescopes on Amazon: The best deals and discounts available online](https://www.space.com/telescopes-on-amazon/)
-- [Binance chief says crypto exchange doesn’t see viable business in India](https://techcrunch.com/2022/11/17/binance-chief-says-crypto-exchange-doesnt-currently-see-a-viable-business-in-india/)
-- [Roku lays off 200 US employees, citing economic conditions](https://techcrunch.com/2022/11/17/roku-lays-off-200-us-employees-citing-economic-conditions/)
+- [Zulu banks $5M for its LatAm digital wallet amid shaky ground for crypto](https://techcrunch.com/2022/11/17/zulu-latam-digital-wallet-crypto/)
+- [WhatsApp broadens in-app business directory and search features](https://techcrunch.com/2022/11/17/whatsapp-broadens-in-app-business-directory-and-search-features/)
+- [Best Lego space sets 2022: Black Friday deals on NASA Lego sets, spaceships, Marvel, and more](https://www.space.com/best-lego-space-sets/)
+- [Hubble Space Telescope offers stunning view clouded out by a future star](https://www.space.com/hubble-space-telescope-dense-core-image/)
+- [Spot AI raises $40M to build smarter CCTV security camera tech](https://techcrunch.com/2022/11/17/spot-ai-raises-40m-to-build-smarter-cctv-security-camera-tech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
