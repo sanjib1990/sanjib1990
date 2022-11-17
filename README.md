@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fiat CEO teases subscriptions, car-sharing for all-electric 500e launch in US](https://techcrunch.com/2022/11/17/fiat-ceo-teases-subscriptions-car-sharing-for-all-electric-500e-launch-in-u-s/)
+- [The James Webb Space Telescope is revealing the earliest galaxies of the universe like never before, scientists say](https://www.space.com/james-webb-space-telescope-distant-galaxies-early-results/)
+- [Hyundai’s hydrogen fuel cell concept hints at the performance N brand’s future](https://techcrunch.com/2022/11/17/hyundais-hydrogen-fuel-cell-concept-hints-at-the-performance-n-brands-future/)
 - [Glaciers in Yellowstone and Yosemite on track to vanish within decades, UN report warns](https://www.space.com/glacier-loss-world-heritage-sites-2050/)
-- [The FTX implosion is an opportunity to learn](https://techcrunch.com/2022/11/17/the-ftx-implosion-is-an-opportunity-to-learn/)
-- [Meet Unstable Diffusion, the group trying to monetize AI porn generators](https://techcrunch.com/2022/11/17/meet-unstable-diffusion-the-group-trying-to-monetize-ai-porn-generators/)
-- [Beam raises $6.4M to help citizens access safety net funds](https://techcrunch.com/2022/11/17/beam-raises-6-4m-to-help-citizens-access-safety-net-funds/)
-- [Bahama homes were purchased with FTX corporate funds](https://techcrunch.com/2022/11/17/bahama-homes-were-purchased-with-ftx-corporate-funds/)
+- [Can gaming resurrect the NFT market? OpenSea thinks so](https://techcrunch.com/2022/11/17/can-gaming-resurrect-the-nft-market-opensea-thinks-so/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
