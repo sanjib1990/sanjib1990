@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Stellantis is bringing its new all-electric Fiat 500e to North America in early 2024](https://techcrunch.com/2022/11/17/stellantis-is-bringing-its-new-all-electric-fiat-500e-to-north-america-in-early-2024/)
+- [Virgil helps you buy bigger apartments in exchange for home equity stakes](https://techcrunch.com/2022/11/17/virgil-helps-you-buy-bigger-apartments-in-exchange-for-home-equity-stakes/)
+- [Meta appoints new India head amid key departures in its largest market](https://techcrunch.com/2022/11/16/meta-appoints-new-india-head-amid-key-departures/)
 - [Blizzard ends 14-year licensing deal with NetEase in China](https://techcrunch.com/2022/11/16/blizzard-ends-14-year-licensing-deal-with-netease-in-china/)
 - [Summer International uses social media data to launch new beauty brands](https://techcrunch.com/2022/11/16/summer-international-uses-social-media-data-to-launch-new-beauty-brands/)
-- [Singapore’s Temasek writes down $275M investment in FTX](https://techcrunch.com/2022/11/16/singapores-temasek-writes-down-275m-investment-in-ftx/)
-- [BoomPop gains traction by designing high-end off-sites for a remote-first world](https://techcrunch.com/2022/11/16/boompop-gains-traction-by-designing-high-end-off-sites-for-our-now-remote-first-world/)
-- [Toyota unveils all-electric SUV concept under its ‘Beyond Zero’ badge](https://techcrunch.com/2022/11/16/toyota-previews-new-beyond-zero-theme-with-all-electric-suv-concept/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
