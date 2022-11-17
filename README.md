@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Dept. of the Air Force’s Frank Calvelli talks startups and the military at TC Sessions: Space](https://techcrunch.com/2022/11/17/dept-of-the-air-forces-frank-calvelli-talks-startups-and-the-military-at-tc-sessions-space/)
-- [With $8.6M in seed funding, Nx wants to take monorepos mainstream](https://techcrunch.com/2022/11/17/with-8-6m-in-seed-funding-nx-wants-to-take-monorepos-mainstream/)
-- [Crypto-focused VC on the FTX fallout: ‘I’m worried about the overall lack of LP appetite going forward.’](https://techcrunch.com/2022/11/17/crypto-focused-vc-on-the-ftx-fallout-im-worried-about-the-overall-lack-of-lp-appetite-going-forward/)
-- [China launches mysterious Earth observation satellites](https://www.space.com/china-earth-observation-gaofen-satellite-launch-november-16/)
-- [Zulu banks $5M for its LatAm digital wallet amid shaky ground for crypto](https://techcrunch.com/2022/11/17/zulu-latam-digital-wallet-crypto/)
+- [NASA celebrates successful Artemis 1 launch by cutting ties](https://www.space.com/nasa-celebrates-artemis-1-launch-success/)
+- [Discord users can now link their Crunchyroll accounts](https://techcrunch.com/2022/11/17/now-discord-users-can-link-their-crunchyroll-accounts/)
+- [Pitch Deck Teardown: Sateliot’s $11.4M Series A deck](https://techcrunch.com/2022/11/17/sample-series-a-pitch-deck-sateliot/)
+- [Ghost Robotics fires back against ‘baseless’ Boston Dynamics lawsuit](https://techcrunch.com/2022/11/17/ghost-robotics-fires-back-against-baseless-boston-dynamics-lawsuit/)
+- [Plaid names former Meta exec as its new payments head](https://techcrunch.com/2022/11/17/fintech-plaid-names-former-meta-exec-as-its-new-payments-head/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
