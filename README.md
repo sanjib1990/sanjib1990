@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Index Ventures thinks new startups will emerge in the downturn and is putting $300M behind that bet](https://techcrunch.com/2022/11/17/index-ventures-thinks-new-startups-will-emerge-in-the-downturn-and-is-putting-300m-behind-that-bet/)
+- [The Leonid meteor shower peaks tonight &lpar;Nov. 17&rpar;](https://www.space.com/leonid-meteor-shower-peaks-tonight-november-17-2022/)
 - [Twitter is working on a feature to divide long text into a thread automatically](https://techcrunch.com/2022/11/17/twitter-is-working-on-a-feature-to-divide-long-text-into-a-thread-automatically/)
 - [Apple’s iCloud website gets a widget-styled redesign](https://techcrunch.com/2022/11/17/apples-icloud-website-gets-a-widget-styled-redesign/)
 - [Stellantis is bringing its new all-electric Fiat 500e to North America in early 2024](https://techcrunch.com/2022/11/17/stellantis-is-bringing-its-new-all-electric-fiat-500e-to-north-america-in-early-2024/)
-- [Virgil helps you buy bigger apartments in exchange for home equity stakes](https://techcrunch.com/2022/11/17/virgil-helps-you-buy-bigger-apartments-in-exchange-for-home-equity-stakes/)
-- [Meta appoints new India head amid key departures in its largest market](https://techcrunch.com/2022/11/16/meta-appoints-new-india-head-amid-key-departures/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
