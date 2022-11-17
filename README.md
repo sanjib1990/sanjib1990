@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [BoomPop gains traction by designing high-end off-sites for our now remote-first world](https://techcrunch.com/2022/11/16/boompop-gains-traction-by-designing-high-end-off-sites-for-our-now-remote-first-world/)
+- [Toyota unveils all-electric SUV concept under its ‘Beyond Zero’ badge](https://techcrunch.com/2022/11/16/toyota-previews-new-beyond-zero-theme-with-all-electric-suv-concept/)
+- [The new 2023 Toyota Prius plays up power, not fuel economy](https://techcrunch.com/2022/11/16/2023-toyota-prius-plays-up-power-not-fuel-economy/)
+- [Korean VC Sopoong closes $8M fund for startups focused on environmental impact](https://techcrunch.com/2022/11/16/korean-vc-sopoong-closes-8m-fund-for-startups-focused-on-environmental-impact/)
 - [Protein programmers get a helping hand from Cradle’s generative AI](https://techcrunch.com/2022/11/16/protein-programmers-get-a-helping-hand-from-cradles-generative-ai/)
-- [Cruise has expanded its driverless robotaxi service to daytime hours](https://techcrunch.com/2022/11/16/cruise-has-expanded-its-driverless-robotaxi-service-to-daytime-hours/)
-- [Tatum is building a robot arm to help people with deafblindness communicate](https://techcrunch.com/2022/11/16/tatum-is-building-a-robot-arm-to-help-people-with-deafblindness-communicate/)
-- [Daily Crunch: Amazon starts delivering layoff notices to thousands of employees](https://techcrunch.com/2022/11/16/daily-crunch-amazon-starts-delivering-layoff-notices-to-thousands-of-employees/)
-- [Upside’s cell-cultured chicken is first to receive FDA blessing for its production method](https://techcrunch.com/2022/11/16/upside-foods-cell-cultured-meat-fda/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
