@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Legged Robots - Computerphile](https://www.youtube.com/watch?v=fwdqWGgPPSM)
-- [60 Linux Commands you NEED to know &lpar;in 10 minutes&rpar;](https://www.youtube.com/watch?v=gd7BXuUQ91w)
-- [Is DevOps right for me? What it takes to be a DevOps Engineer](https://www.youtube.com/watch?v=Ms_jTcERvMY)
-- [subdomain takeover &lpar;stealing websites&rpar;](https://www.youtube.com/watch?v=GH6O3oBZLK8)
-- [a solid start](https://www.youtube.com/watch?v=DVWu2b7mvFg)
+- [Lecture 14: Basic Hilbert Space Theory](https://www.youtube.com/watch?v=EBdgFFf54U0)
+- [Lecture 19: Compact Subsets of a Hilbert Space and Finite-Rank Operators](https://www.youtube.com/watch?v=PBMyBVPRtKA)
+- [Lecture 20: Compact Operators and the Spectrum of a Bounded Linear Operator on a Hilbert Space](https://www.youtube.com/watch?v=SFDMFbzCsH0)
+- [Lecture 10: Simple Functions](https://www.youtube.com/watch?v=TXMCTAF6SEE)
+- [Lecture 18: The Adjoint of a Bounded Linear Operator on a Hilbert Space](https://www.youtube.com/watch?v=BctaYoR9tOY)
 <!-- YOUTUBE:END -->
 
 ---
