@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [OpsHelm emerges from stealth to automatically correct your security blunders](https://techcrunch.com/2022/11/17/opshelm-emerges-from-stealth-to-automatically-correct-your-security-blunders/)
-- [Mars&#39; clouds are strangely Earth-like, despite wildly different atmospheres](https://www.space.com/mars-atmosphere-dust-clouds-like-earth/)
-- [Corporate comms for the startup soul](https://techcrunch.com/2022/11/17/corporate-comms-for-the-startup-soul/)
-- [Is web3 really the new phase of the internet?](https://techcrunch.com/2022/11/17/is-web3-really-the-new-phase-of-the-internet/)
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
+- [Experiment shows how space-based solar power could work](https://www.space.com/airbus-space-solar-power-test/)
+- [Watch the PC Gaming Show: 2023 preview for free today to prep for your next sci-fi gaming year](https://www.space.com/pc-gaming-show-2023-preview-livestream/)
+- [Telescopes on Amazon: The best deals and discounts available online](https://www.space.com/telescopes-on-amazon/)
+- [Binance chief says crypto exchange doesn’t see viable business in India](https://techcrunch.com/2022/11/17/binance-chief-says-crypto-exchange-doesnt-currently-see-a-viable-business-in-india/)
+- [Roku lays off 200 US employees, citing economic conditions](https://techcrunch.com/2022/11/17/roku-lays-off-200-us-employees-citing-economic-conditions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
