@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Index Ventures thinks new startups will emerge in the downturn and is putting $300M behind that bet](https://techcrunch.com/2022/11/17/index-ventures-thinks-new-startups-will-emerge-in-the-downturn-and-is-putting-300m-behind-that-bet/)
-- [The Leonid meteor shower peaks tonight &lpar;Nov. 17&rpar;](https://www.space.com/leonid-meteor-shower-peaks-tonight-november-17-2022/)
-- [Twitter is working on a feature to divide long text into a thread automatically](https://techcrunch.com/2022/11/17/twitter-is-working-on-a-feature-to-divide-long-text-into-a-thread-automatically/)
-- [Apple’s iCloud website gets a widget-styled redesign](https://techcrunch.com/2022/11/17/apples-icloud-website-gets-a-widget-styled-redesign/)
-- [Stellantis is bringing its new all-electric Fiat 500e to North America in early 2024](https://techcrunch.com/2022/11/17/stellantis-is-bringing-its-new-all-electric-fiat-500e-to-north-america-in-early-2024/)
+- [Elephantech wants to create circuit boards that are kinder to the environment](https://techcrunch.com/2022/11/17/elephantech-wants-to-create-circuit-boards-that-are-kinder-to-the-environment/)
+- [Zennström calls the end of high-valuations era, says founders and VCs must remove stigma of downrounds](https://techcrunch.com/2022/11/17/zennstrom-calls-the-end-of-high-valuations-era-says-founders-will-have-to-get-used-to-downrounds/)
+- [Gravitics raises $20M to make the essential units for living and working in space](https://techcrunch.com/2022/11/17/gravitics-space-stations/)
+- [With fresh capital, Symend aims to build a better debt collection system](https://techcrunch.com/2022/11/17/with-fresh-capital-symend-aims-to-build-a-better-debt-collection-system/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
