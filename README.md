@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google rolls out new features across Maps, Search and Shopping](https://techcrunch.com/2022/11/17/google-new-features-across-maps-search-shopping/)
-- [Mozilla looks to its next chapter](https://techcrunch.com/2022/11/17/mozilla-looks-to-its-next-chapter/)
-- [Namecoach raises cash to teach users how to correctly pronounce names](https://techcrunch.com/2022/11/17/namecoach-raises-cash-to-teach-users-how-to-correctly-pronounce-names/)
-- [Terzo lands $16M to extract key data from contracts](https://techcrunch.com/2022/11/17/terzo-lands-16m-to-extract-key-data-from-contracts/)
-- [ReadySpaces, which offers co-warehousing spaces to corporate customers, secures $20M in debt](https://techcrunch.com/2022/11/17/readyspaces-which-offers-co-warehousing-spaces-to-corporate-customers-secures-20m-in-debt/)
+- [OpsHelm emerges from stealth to automatically correct your security blunders](https://techcrunch.com/2022/11/17/opshelm-emerges-from-stealth-to-automatically-correct-your-security-blunders/)
+- [Mars&#39; clouds are strangely Earth-like, despite wildly different atmospheres](https://www.space.com/mars-atmosphere-dust-clouds-like-earth/)
+- [Corporate comms for the startup soul](https://techcrunch.com/2022/11/17/corporate-comms-for-the-startup-soul/)
+- [Is web3 really the new phase of the internet?](https://techcrunch.com/2022/11/17/is-web3-really-the-new-phase-of-the-internet/)
+- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
