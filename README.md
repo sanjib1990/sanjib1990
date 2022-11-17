@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Protein programmers get a helping hand from Cradle’s generative AI](https://techcrunch.com/2022/11/16/protein-programmers-get-a-helping-hand-from-cradles-generative-ai/)
+- [Cruise has expanded its driverless robotaxi service to daytime hours](https://techcrunch.com/2022/11/16/cruise-has-expanded-its-driverless-robotaxi-service-to-daytime-hours/)
 - [Tatum is building a robot arm to help people with deafblindness communicate](https://techcrunch.com/2022/11/16/tatum-is-building-a-robot-arm-to-help-people-with-deafblindness-communicate/)
 - [Daily Crunch: Amazon starts delivering layoff notices to thousands of employees](https://techcrunch.com/2022/11/16/daily-crunch-amazon-starts-delivering-layoff-notices-to-thousands-of-employees/)
 - [Upside’s cell-cultured chicken is first to receive FDA blessing for its production method](https://techcrunch.com/2022/11/16/upside-foods-cell-cultured-meat-fda/)
-- [SBF regrets declaring FTX bankrupt](https://techcrunch.com/2022/11/16/sbf-regrets-declaring-ftx-bankrupt-per-his-dms-to-vox/)
-- [NASA&#39;s Artemis 1 moon mission will carry science across the solar system](https://www.space.com/artemis-1-solar-system-science-earth-benefits/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
