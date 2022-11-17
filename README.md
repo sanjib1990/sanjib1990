@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Glaciers in Yellowstone and Yosemite on track to vanish within decades, UN report warns](https://www.space.com/glacier-loss-world-heritage-sites-2050/)
+- [The FTX implosion is an opportunity to learn](https://techcrunch.com/2022/11/17/the-ftx-implosion-is-an-opportunity-to-learn/)
+- [Meet Unstable Diffusion, the group trying to monetize AI porn generators](https://techcrunch.com/2022/11/17/meet-unstable-diffusion-the-group-trying-to-monetize-ai-porn-generators/)
+- [Beam raises $6.4M to help citizens access safety net funds](https://techcrunch.com/2022/11/17/beam-raises-6-4m-to-help-citizens-access-safety-net-funds/)
 - [Bahama homes were purchased with FTX corporate funds](https://techcrunch.com/2022/11/17/bahama-homes-were-purchased-with-ftx-corporate-funds/)
-- [Qualcomm debuts latest flagship Snapdragon chip and a new AI platform](https://techcrunch.com/2022/11/17/qualcomm-debuts-latest-flagship-snapdragon-chip-and-a-new-ai-platform/)
-- [Scene Report: Boston](https://techcrunch.com/2022/11/17/boston-scene-report/)
-- [BrightDrop is tracking $1 billion revenue in 2023](https://techcrunch.com/2022/11/17/2444730/)
-- [NASA celebrates successful Artemis 1 launch by cutting ties](https://www.space.com/nasa-celebrates-artemis-1-launch-success/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
