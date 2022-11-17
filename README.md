@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Fiat CEO teases subscriptions, car-sharing for all-electric 500e launch in US](https://techcrunch.com/2022/11/17/fiat-ceo-teases-subscriptions-car-sharing-for-all-electric-500e-launch-in-u-s/)
-- [The James Webb Space Telescope is revealing the earliest galaxies of the universe like never before, scientists say](https://www.space.com/james-webb-space-telescope-distant-galaxies-early-results/)
-- [Hyundai’s hydrogen fuel cell concept hints at the performance N brand’s future](https://techcrunch.com/2022/11/17/hyundais-hydrogen-fuel-cell-concept-hints-at-the-performance-n-brands-future/)
-- [Glaciers in Yellowstone and Yosemite on track to vanish within decades, UN report warns](https://www.space.com/glacier-loss-world-heritage-sites-2050/)
-- [Can gaming resurrect the NFT market? OpenSea thinks so](https://techcrunch.com/2022/11/17/can-gaming-resurrect-the-nft-market-opensea-thinks-so/)
+- [Daily Crunch: Google upgrades Search, Shopping and Maps with more data, AR and accessibility](https://techcrunch.com/2022/11/17/daily-crunch-google-upgrades-search-shopping-and-maps-with-more-data-ar-and-accessibility/)
+- [Soft Robotics raises $26 million as staffing shortages continue across industries](https://techcrunch.com/2022/11/17/soft-robotics-raises-26-million-as-staffing-shortages-continue/)
+- [FCC orders ISPs to show broadband ‘nutrition labels’ with all fees and limits](https://techcrunch.com/2022/11/17/fcc-orders-isps-to-show-broadband-nutrition-labels-with-all-fees-and-limits/)
+- [Jack Selby of Thiel Capital is using a new VC fund to invest in Arizona startups](https://techcrunch.com/2022/11/17/jack-selby-of-thiel-capital-is-using-a-new-vc-fund-to-invest-in-arizona-startups/)
+- [Russian cosmonauts complete station spacewalk to ready radiator for move](https://www.space.com/iss-spacewalk-russian-radiator-move-prep/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
