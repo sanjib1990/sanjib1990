@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dept. of the Air Force’s Frank Calvelli talks startups and the military at TC Sessions: Space](https://techcrunch.com/2022/11/17/dept-of-the-air-forces-frank-calvelli-talks-startups-and-the-military-at-tc-sessions-space/)
+- [With $8.6M in seed funding, Nx wants to take monorepos mainstream](https://techcrunch.com/2022/11/17/with-8-6m-in-seed-funding-nx-wants-to-take-monorepos-mainstream/)
+- [Crypto-focused VC on the FTX fallout: ‘I’m worried about the overall lack of LP appetite going forward.’](https://techcrunch.com/2022/11/17/crypto-focused-vc-on-the-ftx-fallout-im-worried-about-the-overall-lack-of-lp-appetite-going-forward/)
+- [China launches mysterious Earth observation satellites](https://www.space.com/china-earth-observation-gaofen-satellite-launch-november-16/)
 - [Zulu banks $5M for its LatAm digital wallet amid shaky ground for crypto](https://techcrunch.com/2022/11/17/zulu-latam-digital-wallet-crypto/)
-- [WhatsApp broadens in-app business directory and search features](https://techcrunch.com/2022/11/17/whatsapp-broadens-in-app-business-directory-and-search-features/)
-- [Best Lego space sets 2022: Black Friday deals on NASA Lego sets, spaceships, Marvel, and more](https://www.space.com/best-lego-space-sets/)
-- [Hubble Space Telescope offers stunning view clouded out by a future star](https://www.space.com/hubble-space-telescope-dense-core-image/)
-- [Spot AI raises $40M to build smarter CCTV security camera tech](https://techcrunch.com/2022/11/17/spot-ai-raises-40m-to-build-smarter-cctv-security-camera-tech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
