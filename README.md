@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Best star trackers for astrophotography 2022 this Black Friday](https://www.space.com/best-star-trackers-for-astrophotography/)
-- [Best telescopes for deep space in 2022](https://www.space.com/best-telescopes-for-deep-space/)
-- [TAM takedown: Investors are looking for market opportunity, not just size](https://techcrunch.com/2022/11/17/tam-takedown-investors-are-looking-for-market-opportunity-not-just-size/)
-- [Best time travel games](https://www.space.com/best-time-travel-games/)
-- [Best telescopes for seeing planets in 2022](https://www.space.com/best-telescopes-for-seeing-planets/)
+- [Google rolls out new features across Maps, Search and Shopping](https://techcrunch.com/2022/11/17/google-new-features-across-maps-search-shopping/)
+- [Mozilla looks to its next chapter](https://techcrunch.com/2022/11/17/mozilla-looks-to-its-next-chapter/)
+- [Namecoach raises cash to teach users how to correctly pronounce names](https://techcrunch.com/2022/11/17/namecoach-raises-cash-to-teach-users-how-to-correctly-pronounce-names/)
+- [Terzo lands $16M to extract key data from contracts](https://techcrunch.com/2022/11/17/terzo-lands-16m-to-extract-key-data-from-contracts/)
+- [ReadySpaces, which offers co-warehousing spaces to corporate customers, secures $20M in debt](https://techcrunch.com/2022/11/17/readyspaces-which-offers-co-warehousing-spaces-to-corporate-customers-secures-20m-in-debt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
