@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bahama homes were purchased with FTX corporate funds](https://techcrunch.com/2022/11/17/bahama-homes-were-purchased-with-ftx-corporate-funds/)
+- [Qualcomm debuts latest flagship Snapdragon chip and a new AI platform](https://techcrunch.com/2022/11/17/qualcomm-debuts-latest-flagship-snapdragon-chip-and-a-new-ai-platform/)
+- [Scene Report: Boston](https://techcrunch.com/2022/11/17/boston-scene-report/)
+- [BrightDrop is tracking $1 billion revenue in 2023](https://techcrunch.com/2022/11/17/2444730/)
 - [NASA celebrates successful Artemis 1 launch by cutting ties](https://www.space.com/nasa-celebrates-artemis-1-launch-success/)
-- [Discord users can now link their Crunchyroll accounts](https://techcrunch.com/2022/11/17/now-discord-users-can-link-their-crunchyroll-accounts/)
-- [Pitch Deck Teardown: Sateliot’s $11.4M Series A deck](https://techcrunch.com/2022/11/17/sample-series-a-pitch-deck-sateliot/)
-- [Ghost Robotics fires back against ‘baseless’ Boston Dynamics lawsuit](https://techcrunch.com/2022/11/17/ghost-robotics-fires-back-against-baseless-boston-dynamics-lawsuit/)
-- [Plaid names former Meta exec as its new payments head](https://techcrunch.com/2022/11/17/fintech-plaid-names-former-meta-exec-as-its-new-payments-head/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
