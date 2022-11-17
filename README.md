@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple’s iCloud website gets a widget-styled redesign](https://techcrunch.com/2022/11/17/apples-icloud-website-gets-a-widget-styled-redesign/)
 - [Stellantis is bringing its new all-electric Fiat 500e to North America in early 2024](https://techcrunch.com/2022/11/17/stellantis-is-bringing-its-new-all-electric-fiat-500e-to-north-america-in-early-2024/)
 - [Virgil helps you buy bigger apartments in exchange for home equity stakes](https://techcrunch.com/2022/11/17/virgil-helps-you-buy-bigger-apartments-in-exchange-for-home-equity-stakes/)
 - [Meta appoints new India head amid key departures in its largest market](https://techcrunch.com/2022/11/16/meta-appoints-new-india-head-amid-key-departures/)
 - [Blizzard ends 14-year licensing deal with NetEase in China](https://techcrunch.com/2022/11/16/blizzard-ends-14-year-licensing-deal-with-netease-in-china/)
-- [Summer International uses social media data to launch new beauty brands](https://techcrunch.com/2022/11/16/summer-international-uses-social-media-data-to-launch-new-beauty-brands/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
