@@ -96,7 +96,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Summer International uses social media data to launch new beauty brands](https://techcrunch.com/2022/11/16/summer-international-uses-social-media-data-to-launch-new-beauty-brands/)
 - [Singapore’s Temasek writes down $275M investment in FTX](https://techcrunch.com/2022/11/16/singapores-temasek-writes-down-275m-investment-in-ftx/)
-- [BoomPop gains traction by designing high-end off-sites for our now remote-first world](https://techcrunch.com/2022/11/16/boompop-gains-traction-by-designing-high-end-off-sites-for-our-now-remote-first-world/)
+- [BoomPop gains traction by designing high-end off-sites for a remote-first world](https://techcrunch.com/2022/11/16/boompop-gains-traction-by-designing-high-end-off-sites-for-our-now-remote-first-world/)
 - [Toyota unveils all-electric SUV concept under its ‘Beyond Zero’ badge](https://techcrunch.com/2022/11/16/toyota-previews-new-beyond-zero-theme-with-all-electric-suv-concept/)
 - [The new 2023 Toyota Prius plays up power, not fuel economy](https://techcrunch.com/2022/11/16/2023-toyota-prius-plays-up-power-not-fuel-economy/)
 <!-- BLOG-POST-LIST:END -->
