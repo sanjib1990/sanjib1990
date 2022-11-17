@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Elephantech wants to create circuit boards that are kinder to the environment](https://techcrunch.com/2022/11/17/elephantech-wants-to-create-circuit-boards-that-are-kinder-to-the-environment/)
-- [Zennström calls the end of high-valuations era, says founders and VCs must remove stigma of downrounds](https://techcrunch.com/2022/11/17/zennstrom-calls-the-end-of-high-valuations-era-says-founders-will-have-to-get-used-to-downrounds/)
-- [Gravitics raises $20M to make the essential units for living and working in space](https://techcrunch.com/2022/11/17/gravitics-space-stations/)
-- [With fresh capital, Symend aims to build a better debt collection system](https://techcrunch.com/2022/11/17/with-fresh-capital-symend-aims-to-build-a-better-debt-collection-system/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html/)
+- [Best star trackers for astrophotography 2022 this Black Friday](https://www.space.com/best-star-trackers-for-astrophotography/)
+- [Best telescopes for deep space in 2022](https://www.space.com/best-telescopes-for-deep-space/)
+- [TAM takedown: Investors are looking for market opportunity, not just size](https://techcrunch.com/2022/11/17/tam-takedown-investors-are-looking-for-market-opportunity-not-just-size/)
+- [Best time travel games](https://www.space.com/best-time-travel-games/)
+- [Best telescopes for seeing planets in 2022](https://www.space.com/best-telescopes-for-seeing-planets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
