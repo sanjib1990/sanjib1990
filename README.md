@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meteorite that landed in English village last year is most pristine ever seen](https://www.space.com/winchcombe-meteorite-most-pristine-ever-seen/)
+- [Autonomous delivery startup Nuro lays off 20% of workforce](https://techcrunch.com/2022/11/18/autonomous-delivery-startup-nuro-lays-off-20-of-workforce/)
+- [China&#39;s Shenzhou 14 astronauts complete their 3rd and final spacewalk &lpar;video&rpar;](https://www.space.com/china-shenzhou-14-astronauts-spacewalk-november-2022/)
+- [Ransomware is a global problem that needs a global solution](https://techcrunch.com/2022/11/18/combatting-ransomware/)
 - [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates/)
-- [Better space weather forecast could have saved SpaceX Starlink satellites from solar storm](https://www.space.com/spacex-starlink-satellite-loss-space-weather-forecast/)
-- [Ukraine invasion&#39;s impacts on space exploration: Live updates](https://www.space.com/news/live/russia-ukraine-invasion-space-impacts-updates/)
-- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates/)
-- [Andor goes full &#39;Papillon&#39; in episode 10 &#39;One Way Out&#39;](https://www.space.com/andor-star-wars-episode-10-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
