@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ticketmaster faces antitrust scrutiny after Taylor Swift ticket chaos](https://techcrunch.com/2022/11/17/screaming-crying-ticketmaster-taylor-swift/)
 - [Follow Orion&#39;s trip to the moon with NASA Artemis 1 tracking website](https://www.space.com/artemis-1-orion-tracking-website-moon-journey/)
 - [ABL Space Systems&#39; RS1 rocket aborts 1st-ever launch try](https://www.space.com/abl-space-systems-debut-launch-abort/)
 - [Daily Crunch: Google upgrades Search, Shopping and Maps with more data, AR and accessibility](https://techcrunch.com/2022/11/17/daily-crunch-google-upgrades-search-shopping-and-maps-with-more-data-ar-and-accessibility/)
 - [Soft Robotics raises $26 million as staffing shortages continue across industries](https://techcrunch.com/2022/11/17/soft-robotics-raises-26-million-as-staffing-shortages-continue/)
-- [FCC orders ISPs to show broadband ‘nutrition labels’ with all fees and limits](https://techcrunch.com/2022/11/17/fcc-orders-isps-to-show-broadband-nutrition-labels-with-all-fees-and-limits/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
