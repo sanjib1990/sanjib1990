@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html/)
+- [Sweet! Neutron stars are like cosmic chocolates, with hard or soft shells and centers](https://www.space.com/neutron-star-structure-cosmic-candies/)
+- [Hive ransomware actors have extorted over $100M from victims, says FBI](https://techcrunch.com/2022/11/18/fbi-cisa-hive-ransomware-warning/)
+- [Fund of funds Sweetwood Ventures bets big on VC’s smallest funds](https://techcrunch.com/2022/11/18/fund-of-funds-sweetwood-ventures-bets-big-on-vcs-smallest-funds/)
 - [How much tax will you owe when you sell your company?](https://techcrunch.com/2022/11/18/how-much-tax-will-you-owe-when-you-sell-your-company/)
-- [On This Day In Space: Nov. 18, 2013: NASA launches MAVEN orbiter to Mars](https://www.space.com/39251-on-this-day-in-space.html/)
-- [Save up to $1000 with these Unistellar Black Friday deals](https://www.space.com/unistellar-telescope-black-friday-2022-deals/)
-- [Google clamps down on illegal loan apps in Kenya, Nigeria](https://techcrunch.com/2022/11/18/google-clamps-down-on-illegal-loan-apps-in-kenya-nigeria/)
-- [China’s EV upstart Nio switches on power swap station in Sweden](https://techcrunch.com/2022/11/18/chinas-ev-upstart-nio-power-swap-station-sweden/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
