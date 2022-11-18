@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [VinFast’s bid to attract US buyers includes 4 all-electric SUVs and maybe a sports car](https://techcrunch.com/2022/11/18/vinfasts-bid-to-attract-u-s-buyers-includes-4-all-electric-suvs-and-maybe-a-sports-car/)
+- [Missing astronomer found dead in Chile after 2-month search](https://www.space.com/missing-astronomer-found-dead-chile/)
+- [Quantifying the global e-commerce slowdown](https://techcrunch.com/2022/11/18/quantifying-the-global-e-commerce-slowdown/)
 - [Xbox Series S holiday price drop: save $50 and get ready for Starfield](https://www.space.com/xbox-series-s-deal-save-50-dollars-for-the-holidays/)
 - [TechCrunch+ roundup: TAM takedown, green card layoffs, when to ignore investor advice](https://techcrunch.com/2022/11/18/techcrunch-roundup-tam-takedown-green-card-layoffs-when-to-ignore-investor-advice/)
-- [The US Securing Open Source Software Act of 2022 is a step in the right direction](https://techcrunch.com/2022/11/18/the-us-securing-open-source-software-act-of-2022-is-a-step-in-the-right-direction/)
-- [Space Perspective to launch balloon-borne tourist flights from &#39;marine spaceport&#39;](https://www.space.com/space-perspective-balloon-tourism-marine-launch-platform/)
-- [Best star projectors: Get the best Black Friday deals](https://www.space.com/best-star-projectors/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
