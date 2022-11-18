@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google clamps down on illegal loan apps in Kenya, Nigeria](https://techcrunch.com/2022/11/18/google-clamps-down-on-illegal-loan-apps-in-kenya-nigeria/)
+- [China’s EV upstart Nio switches on power swap station in Sweden](https://techcrunch.com/2022/11/18/chinas-ev-upstart-nio-power-swap-station-sweden/)
 - [NSF plans another collapse for Arecibo Observatory &lpar;op-ed&rpar;](https://www.space.com/arecibo-observatory-national-science-foundation-collapse/)
 - [Boots on Mars: Artemis 1 launch and heat shield test take NASA closer](https://www.space.com/artemis-1-launch-loftid-heat-shield-success-mars-missions/)
 - [Snoopy and Peanuts gang to tell history of NASA in new stage show](https://www.space.com/snoopy-peanuts-all-systems-are-go-kennedy-space-certer-monlove/)
-- [Daylight, the LGBTQ+ neobank, raises cash to launch subscription plan for family planning](https://techcrunch.com/2022/11/18/daylight-queer-neobank-raises-15m-capital-subscription-service/)
-- [New Twitter accounts will have to wait 90 days before buying a subscription](https://techcrunch.com/2022/11/18/new-twitter-accounts-will-have-to-wait-90-days-before-buying-a-subscription/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
