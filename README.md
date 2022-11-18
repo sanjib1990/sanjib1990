@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How much tax will you owe when you sell your company?](https://techcrunch.com/2022/11/18/how-much-tax-will-you-owe-when-you-sell-your-company/)
+- [On This Day In Space: Nov. 18, 2013: NASA launches MAVEN orbiter to Mars](https://www.space.com/39251-on-this-day-in-space.html/)
+- [Save up to $1000 with these Unistellar Black Friday deals](https://www.space.com/unistellar-telescope-black-friday-2022-deals/)
 - [Google clamps down on illegal loan apps in Kenya, Nigeria](https://techcrunch.com/2022/11/18/google-clamps-down-on-illegal-loan-apps-in-kenya-nigeria/)
 - [China’s EV upstart Nio switches on power swap station in Sweden](https://techcrunch.com/2022/11/18/chinas-ev-upstart-nio-power-swap-station-sweden/)
-- [NSF plans another collapse for Arecibo Observatory &lpar;op-ed&rpar;](https://www.space.com/arecibo-observatory-national-science-foundation-collapse/)
-- [Boots on Mars: Artemis 1 launch and heat shield test take NASA closer](https://www.space.com/artemis-1-launch-loftid-heat-shield-success-mars-missions/)
-- [Snoopy and Peanuts gang to tell history of NASA in new stage show](https://www.space.com/snoopy-peanuts-all-systems-are-go-kennedy-space-certer-monlove/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
