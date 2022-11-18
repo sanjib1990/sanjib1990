@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Xbox Series S holiday price drop: save $50 and get ready for Starfield](https://www.space.com/xbox-series-s-deal-save-50-dollars-for-the-holidays/)
+- [TechCrunch+ roundup: TAM takedown, green card layoffs, when to ignore investor advice](https://techcrunch.com/2022/11/18/techcrunch-roundup-tam-takedown-green-card-layoffs-when-to-ignore-investor-advice/)
 - [The US Securing Open Source Software Act of 2022 is a step in the right direction](https://techcrunch.com/2022/11/18/the-us-securing-open-source-software-act-of-2022-is-a-step-in-the-right-direction/)
 - [Space Perspective to launch balloon-borne tourist flights from &#39;marine spaceport&#39;](https://www.space.com/space-perspective-balloon-tourism-marine-launch-platform/)
 - [Best star projectors: Get the best Black Friday deals](https://www.space.com/best-star-projectors/)
-- [TechCrunch staff on what we lose if we lose Twitter](https://techcrunch.com/2022/11/18/techcrunch-staff-on-what-we-lose-if-we-lose-twitter/)
-- [India’s securities depository CDSL says malware compromised its network](https://techcrunch.com/2022/11/18/cdsl-malware-internal-systems/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
