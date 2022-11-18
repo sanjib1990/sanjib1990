@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Meteorite that landed in English village last year is most pristine ever seen](https://www.space.com/winchcombe-meteorite-most-pristine-ever-seen/)
-- [Autonomous delivery startup Nuro lays off 20% of workforce](https://techcrunch.com/2022/11/18/autonomous-delivery-startup-nuro-lays-off-20-of-workforce/)
-- [China&#39;s Shenzhou 14 astronauts complete their 3rd and final spacewalk &lpar;video&rpar;](https://www.space.com/china-shenzhou-14-astronauts-spacewalk-november-2022/)
-- [Ransomware is a global problem that needs a global solution](https://techcrunch.com/2022/11/18/combatting-ransomware/)
-- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates/)
+- [The US Securing Open Source Software Act of 2022 is a step in the right direction](https://techcrunch.com/2022/11/18/the-us-securing-open-source-software-act-of-2022-is-a-step-in-the-right-direction/)
+- [Space Perspective to launch balloon-borne tourist flights from &#39;marine spaceport&#39;](https://www.space.com/space-perspective-balloon-tourism-marine-launch-platform/)
+- [Best star projectors: Get the best Black Friday deals](https://www.space.com/best-star-projectors/)
+- [TechCrunch staff on what we lose if we lose Twitter](https://techcrunch.com/2022/11/18/techcrunch-staff-on-what-we-lose-if-we-lose-twitter/)
+- [India’s securities depository CDSL says malware compromised its network](https://techcrunch.com/2022/11/18/cdsl-malware-internal-systems/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
