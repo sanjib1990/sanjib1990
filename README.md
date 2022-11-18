@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Pick your poison: recruitment or retention?](https://techcrunch.com/2022/11/18/pick-your-poison-recruitment-or-retention/)
-- [Save up to $70 on Meta Quest 2 and get free two games with this Black Friday VR deal](https://www.space.com/meta-quest-2-black-friday-deal-save-70-dollars-and-get-two-free-games/)
-- [Patreon competitor Fanfix launches ‘SuperLink,’ a link-in-bio platform aimed at Gen Z creators](https://techcrunch.com/2022/11/18/patreon-competitor-fanfix-link-in-bio-platform-superlink-gen-z-creators/)
-- [World&#39;s first computer, the Antikythera Mechanism, &#39;started up&#39; in 178 B.C., scientists claim](https://www.space.com/antikythera-mechanism-start-date-found/)
-- [Jumia to cut products and overheads as new management chase profits](https://techcrunch.com/2022/11/18/jumia-to-cut-products-and-overheads-as-new-management-chase-profits/)
+- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates/)
+- [Better space weather forecast could have saved SpaceX Starlink satellites from solar storm](https://www.space.com/spacex-starlink-satellite-loss-space-weather-forecast/)
+- [Ukraine invasion&#39;s impacts on space exploration: Live updates](https://www.space.com/news/live/russia-ukraine-invasion-space-impacts-updates/)
+- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates/)
+- [Andor goes full &#39;Papillon&#39; in episode 10 &#39;One Way Out&#39;](https://www.space.com/andor-star-wars-episode-10-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
