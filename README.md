@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Booz Allen says former staffer downloaded employees’ personal data](https://techcrunch.com/2022/11/18/booz-allen-employee-data-exposed/)
+- [It&#39;s official: NASA won&#39;t rename James Webb Space Telescope](https://www.space.com/james-webb-space-telescope-wont-be-renamed/)
 - [VinFast’s bid to attract US buyers includes 4 all-electric SUVs and maybe a sports car](https://techcrunch.com/2022/11/18/vinfasts-bid-to-attract-u-s-buyers-includes-4-all-electric-suvs-and-maybe-a-sports-car/)
 - [Missing astronomer found dead in Chile after 2-month search](https://www.space.com/missing-astronomer-found-dead-chile/)
 - [Quantifying the global e-commerce slowdown](https://techcrunch.com/2022/11/18/quantifying-the-global-e-commerce-slowdown/)
-- [Xbox Series S holiday price drop: save $50 and get ready for Starfield](https://www.space.com/xbox-series-s-deal-save-50-dollars-for-the-holidays/)
-- [TechCrunch+ roundup: TAM takedown, green card layoffs, when to ignore investor advice](https://techcrunch.com/2022/11/18/techcrunch-roundup-tam-takedown-green-card-layoffs-when-to-ignore-investor-advice/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
