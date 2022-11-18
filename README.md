@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India’s first private rocket, built by startup Skyroot, makes successful launch](https://techcrunch.com/2022/11/17/india-private-rocket-vikram-s-launch-skyroot/)
 - [GoTo cuts 1,300 jobs as it anticipates ‘uncertainties’ to linger for long](https://techcrunch.com/2022/11/17/goto-cuts-1300-jobs-as-it-anticipates-uncertainties-to-linger-for-long/)
 - [Ticketmaster faces antitrust scrutiny after Taylor Swift ticket chaos](https://techcrunch.com/2022/11/17/screaming-crying-ticketmaster-taylor-swift/)
 - [Follow Orion&#39;s trip to the moon with NASA Artemis 1 tracking website](https://www.space.com/artemis-1-orion-tracking-website-moon-journey/)
 - [ABL Space Systems&#39; RS1 rocket aborts 1st-ever launch try](https://www.space.com/abl-space-systems-debut-launch-abort/)
-- [Daily Crunch: Google upgrades Search, Shopping and Maps with more data, AR and accessibility](https://techcrunch.com/2022/11/17/daily-crunch-google-upgrades-search-shopping-and-maps-with-more-data-ar-and-accessibility/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
