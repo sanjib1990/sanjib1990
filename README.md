@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html/)
-- [Sweet! Neutron stars are like cosmic chocolates, with hard or soft shells and centers](https://www.space.com/neutron-star-structure-cosmic-candies/)
-- [Hive ransomware actors have extorted over $100M from victims, says FBI](https://techcrunch.com/2022/11/18/fbi-cisa-hive-ransomware-warning/)
-- [Fund of funds Sweetwood Ventures bets big on VC’s smallest funds](https://techcrunch.com/2022/11/18/fund-of-funds-sweetwood-ventures-bets-big-on-vcs-smallest-funds/)
-- [How much tax will you owe when you sell your company?](https://techcrunch.com/2022/11/18/how-much-tax-will-you-owe-when-you-sell-your-company/)
+- [Pick your poison: recruitment or retention?](https://techcrunch.com/2022/11/18/pick-your-poison-recruitment-or-retention/)
+- [Save up to $70 on Meta Quest 2 and get free two games with this Black Friday VR deal](https://www.space.com/meta-quest-2-black-friday-deal-save-70-dollars-and-get-two-free-games/)
+- [Patreon competitor Fanfix launches ‘SuperLink,’ a link-in-bio platform aimed at Gen Z creators](https://techcrunch.com/2022/11/18/patreon-competitor-fanfix-link-in-bio-platform-superlink-gen-z-creators/)
+- [World&#39;s first computer, the Antikythera Mechanism, &#39;started up&#39; in 178 B.C., scientists claim](https://www.space.com/antikythera-mechanism-start-date-found/)
+- [Jumia to cut products and overheads as new management chase profits](https://techcrunch.com/2022/11/18/jumia-to-cut-products-and-overheads-as-new-management-chase-profits/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
