@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Nuro founders admit aggressive hiring ‘was a mistake’ in email to laid-off workers](https://techcrunch.com/2022/11/18/daily-crunch-nuro-founders-admit-aggressive-hiring-was-a-mistake-in-email-to-laid-off-workers/)
+- [Google introduces Workspaces Spaces Chats conversations summaries](https://techcrunch.com/2022/11/18/google-introduces-workspaces-spaces-chats-conversations-summaries/)
+- [Elizabeth Holmes sentenced to 11 years in prison for Theranos fraud](https://techcrunch.com/2022/11/18/elizabeth-holmes-sentenced-to-11-years-in-prison-for-theranos-fraud/)
 - [Booz Allen says former staffer downloaded employees’ personal data](https://techcrunch.com/2022/11/18/booz-allen-employee-data-exposed/)
 - [It&#39;s official: NASA won&#39;t rename James Webb Space Telescope](https://www.space.com/james-webb-space-telescope-wont-be-renamed/)
-- [VinFast’s bid to attract US buyers includes 4 all-electric SUVs and maybe a sports car](https://techcrunch.com/2022/11/18/vinfasts-bid-to-attract-u-s-buyers-includes-4-all-electric-suvs-and-maybe-a-sports-car/)
-- [Missing astronomer found dead in Chile after 2-month search](https://www.space.com/missing-astronomer-found-dead-chile/)
-- [Quantifying the global e-commerce slowdown](https://techcrunch.com/2022/11/18/quantifying-the-global-e-commerce-slowdown/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
