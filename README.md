@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon layoffs begin, Ticketmaster can’t handle Taylor Swift, and much of Twitter HQ quits](https://techcrunch.com/2022/11/19/amazon-layoffs-begin-ticketmaster-cant-handle-taylor-swift-and-much-of-twitter-hq-quits/)
 - [Ok, I take back what I said about tech layoffs](https://techcrunch.com/2022/11/19/ok-i-take-back-what-i-said-about-tech-layoffs/)
 - [This Week in Apps: Apple-Epic antitrust battle resumes, Apple sued over tracking, Google’s new rules for kids’ apps](https://techcrunch.com/2022/11/19/this-week-in-apps-apple-epic-antitrust-battle-resumes-apple-sued-over-tracking-googles-new-rules-for-kids-apps/)
 - [You shouldn’t skim over gross dollar retention](https://techcrunch.com/2022/11/19/you-shouldnt-skim-over-gross-dollar-retention/)
 - [Artemis 1 Orion spacecraft sees the moon for 1st time in stunning video](https://www.space.com/artemis-1-orion-spacecraft-first-moon-photo-video/)
-- [A love letter to micro funds, the backbone and future of venture capital](https://techcrunch.com/2022/11/19/a-love-letter-to-micro-funds-the-backbone-and-future-of-venture-capital/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
