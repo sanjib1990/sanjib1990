@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Elon Musk talked about laying off 75% of Twitter employees; he may have just gotten his wish](https://techcrunch.com/2022/11/18/elon-musk-talked-about-laying-off-75-of-employees-he-may-have-just-gotten-his-wish/)
+- [Artemis 1&#39;s Orion capsule still on track for Monday moon flyby](https://www.space.com/nasa-artemis-1-orion-on-track-moon-arrival/)
+- [The exodus at Twitter may have been the plan all along, maybe?](https://techcrunch.com/2022/11/18/elon-musk-talked-about-laying-off-75-of-employees-he-may-have-just-gotten-his-wish/)
 - [Daily Crunch: Nuro founders admit aggressive hiring ‘was a mistake’ in email to laid-off workers](https://techcrunch.com/2022/11/18/daily-crunch-nuro-founders-admit-aggressive-hiring-was-a-mistake-in-email-to-laid-off-workers/)
 - [Google introduces Workspaces Spaces Chats conversations summaries](https://techcrunch.com/2022/11/18/google-introduces-workspaces-spaces-chats-conversations-summaries/)
 - [Elizabeth Holmes sentenced to 11 years in prison for Theranos fraud](https://techcrunch.com/2022/11/18/elizabeth-holmes-sentenced-to-11-years-in-prison-for-theranos-fraud/)
-- [Booz Allen says former staffer downloaded employees’ personal data](https://techcrunch.com/2022/11/18/booz-allen-employee-data-exposed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
