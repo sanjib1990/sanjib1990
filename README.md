@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [James Webb Space Telescope&#39;s early science thrills congressional representatives](https://www.space.com/james-webb-space-telescope-congress-hearing/)
+- [Virgin Orbit ready for historic UK launch after spaceport secures license](https://www.space.com/spaceport-cornwall-launch-license-virgin-orbit/)
+- [LightSail 2 spacecraft ends its solar-sailing mission in a blaze of glory](https://www.space.com/lightsail-2-solar-sailing-mission-ends/)
 - [Drive Capital’s investors reach a fork in the road](https://techcrunch.com/2022/11/18/drive-capitals-investors-hit-a-fork-in-the-road/)
 - [Artemis 1&#39;s Orion capsule still on track for Monday moon flyby](https://www.space.com/nasa-artemis-1-orion-on-track-moon-arrival/)
-- [The exodus at Twitter may have been the plan all along, maybe?](https://techcrunch.com/2022/11/18/elon-musk-talked-about-laying-off-75-of-employees-he-may-have-just-gotten-his-wish/)
-- [Daily Crunch: Nuro founders admit aggressive hiring ‘was a mistake’ in email to laid-off workers](https://techcrunch.com/2022/11/18/daily-crunch-nuro-founders-admit-aggressive-hiring-was-a-mistake-in-email-to-laid-off-workers/)
-- [Google introduces Workspaces Spaces Chats conversations summaries](https://techcrunch.com/2022/11/18/google-introduces-workspaces-spaces-chats-conversations-summaries/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
