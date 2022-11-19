@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX&#39;s next cargo launch to space station delayed to Tuesday](https://www.space.com/spacex-crs-26-cargo-launch-delay/)
+- [SpaceX to launch Japanese moon lander, UAE rover on Nov. 28](https://www.space.com/ispace-japanese-moon-landing-launch-november-28/)
+- [SpaceX&#39;s next NASA cargo launch to space station delayed to Nov. 22](https://www.space.com/spacex-crs-26-cargo-launch-delay/)
 - [James Webb Space Telescope&#39;s early science thrills congressional representatives](https://www.space.com/james-webb-space-telescope-congress-hearing/)
 - [Virgin Orbit ready for historic UK launch after spaceport secures license](https://www.space.com/spaceport-cornwall-launch-license-virgin-orbit/)
 - [LightSail 2 spacecraft ends its solar-sailing mission in a blaze of glory](https://www.space.com/lightsail-2-solar-sailing-mission-ends/)
-- [Drive Capital’s investors reach a fork in the road](https://techcrunch.com/2022/11/18/drive-capitals-investors-hit-a-fork-in-the-road/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
