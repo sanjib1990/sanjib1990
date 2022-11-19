@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ok, I take back what I said about tech layoffs](https://techcrunch.com/2022/11/19/ok-i-take-back-what-i-said-about-tech-layoffs/)
+- [This Week in Apps: Apple-Epic antitrust battle resumes, Apple sued over tracking, Google’s new rules for kids’ apps](https://techcrunch.com/2022/11/19/this-week-in-apps-apple-epic-antitrust-battle-resumes-apple-sued-over-tracking-googles-new-rules-for-kids-apps/)
 - [You shouldn’t skim over gross dollar retention](https://techcrunch.com/2022/11/19/you-shouldnt-skim-over-gross-dollar-retention/)
 - [Artemis 1 Orion spacecraft sees the moon for 1st time in stunning video](https://www.space.com/artemis-1-orion-spacecraft-first-moon-photo-video/)
 - [A love letter to micro funds, the backbone and future of venture capital](https://techcrunch.com/2022/11/19/a-love-letter-to-micro-funds-the-backbone-and-future-of-venture-capital/)
-- [&#39;The Art of Star Wars: The High Republic&#39; unveils the magic of Lucasfilm&#39;s book crossover event &lpar;exclusive&rpar;](https://www.space.com/art-of-star-wars-the-high-republic-book/)
-- [SpaceX to launch Japanese moon lander, UAE rover on Nov. 28](https://www.space.com/ispace-japanese-moon-landing-launch-november-28/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
