@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [You shouldn’t skim over gross dollar retention](https://techcrunch.com/2022/11/19/you-shouldnt-skim-over-gross-dollar-retention/)
+- [Artemis 1 Orion spacecraft sees the moon for 1st time in stunning video](https://www.space.com/artemis-1-orion-spacecraft-first-moon-photo-video/)
 - [A love letter to micro funds, the backbone and future of venture capital](https://techcrunch.com/2022/11/19/a-love-letter-to-micro-funds-the-backbone-and-future-of-venture-capital/)
 - [&#39;The Art of Star Wars: The High Republic&#39; unveils the magic of Lucasfilm&#39;s book crossover event &lpar;exclusive&rpar;](https://www.space.com/art-of-star-wars-the-high-republic-book/)
 - [SpaceX to launch Japanese moon lander, UAE rover on Nov. 28](https://www.space.com/ispace-japanese-moon-landing-launch-november-28/)
-- [SpaceX&#39;s next NASA cargo launch to space station delayed to Nov. 22](https://www.space.com/spacex-crs-26-cargo-launch-delay/)
-- [James Webb Space Telescope&#39;s early science thrills US lawmakers in Congress](https://www.space.com/james-webb-space-telescope-congress-hearing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
