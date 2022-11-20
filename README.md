@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Einride founder on building an underlying business to support future tech goals](https://techcrunch.com/2022/11/20/einride-founder-on-building-an-underlying-business-to-support-future-tech-goals/)
 - [How to stream the 2022 FIFA World Cup in USA](https://techcrunch.com/2022/11/20/how-to-watch-2022-fifa-world-cup-qatar/)
 - [Boom!&#39;s shiny &#39;Firefly: Keep Flying&#39; one-shot comic is an early holiday treat](https://www.space.com/firefly-keep-flying-one-shot-comic/)
 - [Hyundai launches home charging ecosystem as part of EV push](https://techcrunch.com/2022/11/20/hyundai-launches-home-charging-ecosystem-as-part-of-ev-push/)
 - [The latest in Plaid’s payments push](https://techcrunch.com/2022/11/20/fintech-plaids-payments-push/)
-- [Something is wrong with Einstein&#39;s theory of gravity](https://www.space.com/einstein-theory-of-gravity-something-wrong/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
