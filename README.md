@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hybrid solar eclipse: Everything you need to know about the rare and strange phenomenon](https://www.space.com/hybrid-solar-eclipse-guide/)
+- [Space scientists and astronauts launch to other platforms amid Twitter turmoil](https://www.space.com/astronomers-scientists-leave-elon-musks-twitter/)
+- [Watch as Artemis 1&#39;s Orion capsule flies by the moon Monday morning](https://www.space.com/nasa-artemis-1-orion-close-flyby-moon/)
 - [Elon Musk ends Trump’s Twitter ban](https://techcrunch.com/2022/11/19/donald-trump-unbanned-twitter-elon-musk/)
 - [Gopuff launches scheduled deliveries, gifting and in-store pickup](https://techcrunch.com/2022/11/19/gopuff-launches-scheduled-deliveries-gifting-and-in-store-pickup/)
-- [Amazon layoffs begin, Ticketmaster can’t handle Taylor Swift, and much of Twitter HQ quits](https://techcrunch.com/2022/11/19/amazon-layoffs-begin-ticketmaster-cant-handle-taylor-swift-and-much-of-twitter-hq-quits/)
-- [Ok, I take back what I said about tech layoffs](https://techcrunch.com/2022/11/19/ok-i-take-back-what-i-said-about-tech-layoffs/)
-- [This Week in Apps: Apple-Epic antitrust battle resumes, Apple sued over tracking, Google’s new rules for kids’ apps](https://techcrunch.com/2022/11/19/this-week-in-apps-apple-epic-antitrust-battle-resumes-apple-sued-over-tracking-googles-new-rules-for-kids-apps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
