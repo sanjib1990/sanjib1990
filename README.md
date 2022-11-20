@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Something is wrong with Einstein&#39;s theory of gravity](https://www.space.com/einstein-theory-of-gravity-something-wrong/)
+- [What was the US military&#39;s secret space plane doing on its record-breaking mission?](https://www.space.com/x-37b-space-plane-908-day-mystery-mission-activities/)
 - [Hybrid solar eclipse: Everything you need to know about the rare and strange phenomenon](https://www.space.com/hybrid-solar-eclipse-guide/)
 - [Space scientists and astronauts launch to other platforms amid Twitter turmoil](https://www.space.com/astronomers-scientists-leave-elon-musks-twitter/)
 - [Watch as Artemis 1&#39;s Orion capsule flies by the moon Monday morning](https://www.space.com/nasa-artemis-1-orion-close-flyby-moon/)
-- [Elon Musk ends Trump’s Twitter ban](https://techcrunch.com/2022/11/19/donald-trump-unbanned-twitter-elon-musk/)
-- [Gopuff launches scheduled deliveries, gifting and in-store pickup](https://techcrunch.com/2022/11/19/gopuff-launches-scheduled-deliveries-gifting-and-in-store-pickup/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
