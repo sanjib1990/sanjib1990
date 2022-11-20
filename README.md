@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The era of oil-driven foreign policy is over. Welcome to decarbonization diplomacy](https://techcrunch.com/2022/11/20/the-era-of-oil-driven-foreign-policy-is-over-welcome-to-decarbonization-diplomacy/)
 - [Einride founder on building an underlying business to support future tech goals](https://techcrunch.com/2022/11/20/einride-founder-on-building-an-underlying-business-to-support-future-tech-goals/)
 - [How to stream the 2022 FIFA World Cup in USA](https://techcrunch.com/2022/11/20/how-to-watch-2022-fifa-world-cup-qatar/)
 - [Boom!&#39;s shiny &#39;Firefly: Keep Flying&#39; one-shot comic is an early holiday treat](https://www.space.com/firefly-keep-flying-one-shot-comic/)
 - [Hyundai launches home charging ecosystem as part of EV push](https://techcrunch.com/2022/11/20/hyundai-launches-home-charging-ecosystem-as-part-of-ev-push/)
-- [The latest in Plaid’s payments push](https://techcrunch.com/2022/11/20/fintech-plaids-payments-push/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
