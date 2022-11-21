@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronomers spot small space rock just hours before it drops meteorites over Canada](https://www.space.com/meteorite-spotted-hours-before-hitting-Canada/)
+- [Holmes’ sentencing sends a clear message that the startup ecosystem must be built on good faith](https://techcrunch.com/2022/11/21/holmes-sentencing-sends-a-clear-message-that-the-startup-ecosystem-must-be-built-on-good-faith/)
+- [Musk’s impact on content moderation at Twitter faces early test in Germany](https://techcrunch.com/2022/11/21/elon-musk-twitter-netzdg-test/)
+- [Private investors appear key to COP27’s ‘loss and damage’ fund for vulnerable countries](https://techcrunch.com/2022/11/21/private-investors-appear-key-to-cop27s-loss-and-damage-fund-for-vulnerable-countries/)
 - [ABL Space Systems&#39; RS1 rocket aiming to launch today &lpar;Nov. 21&rpar;](https://www.space.com/abl-space-systems-rs1-rocket-launch-attempt-monday-nov-21/)
-- [Vast volcanic eruptions may have turned Venus from paradise into hell](https://www.space.com/venus-volcano-eruptions-large-igneous-province/)
-- [SpaceX Falcon 9 rocket readies to send new communications satellite to space](https://www.space.com/spacex-falcon-9-eutelsat-communications-satellite-webcast-november-2022/)
-- [Series C is the new venture-startup bottleneck](https://techcrunch.com/2022/11/21/series-c-is-the-new-venture-startup-bottleneck/)
-- [&#39;Power tower&#39; rover to land on the moon by 2025](https://www.space.com/power-charging-rover-moon-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
