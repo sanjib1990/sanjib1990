@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA’s Thomas Zurbuchen tackles cosmic questions at TC Sessions: Space](https://techcrunch.com/2022/11/21/nasas-thomas-zurbuchen-tackles-cosmic-questions-at-tc-sessions-space/)
+- [Vast volcanic eruptions may have turned Venus from paradise into hell](https://www.space.com/venus-volcano-eruptions-large-igneous-province/)
+- [Space startup Stells wants to put spacecraft-charging covers on the Moon](https://techcrunch.com/2022/11/21/space-startup-stells-wants-to-put-spacecraft-charging-covers-on-the-moon/)
 - [SpaceX Falcon 9 rocket readies to send new communications satellite to space](https://www.space.com/spacex-falcon-9-eutelsat-communications-satellite-webcast-november-2022/)
 - [Series C is the new venture-startup bottleneck](https://techcrunch.com/2022/11/21/series-c-is-the-new-venture-startup-bottleneck/)
-- [&#39;Power tower&#39; rover to land on the moon by 2025](https://www.space.com/power-charging-rover-moon-2025/)
-- [Former Snap Kitchen CEO whips up Prado for better access to fresh food](https://techcrunch.com/2022/11/21/snap-kitchen-prado-meal-delivery/)
-- [Track and capture: Getting started with attention metrics](https://techcrunch.com/2022/11/21/track-and-capture-getting-started-with-attention-metrics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
