@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Quit Twitter better with these free tools that make archiving a breeze](https://techcrunch.com/2022/11/21/quit-twitter-better-with-these-free-tools-that-make-archiving-a-breeze/)
+- [NASA&#39;s Artemis 1 mission launched 10 cubesats. Here&#39;s how they&#39;re doing](https://www.space.com/artemis-1-cubesats-deep-space-updates/)
 - [Astronomers spot small space rock just hours before it drops meteorites over Canada](https://www.space.com/meteorite-spotted-hours-before-hitting-Canada/)
 - [Holmes’ sentencing sends a clear message that the startup ecosystem must be built on good faith](https://techcrunch.com/2022/11/21/holmes-sentencing-sends-a-clear-message-that-the-startup-ecosystem-must-be-built-on-good-faith/)
 - [Musk’s impact on content moderation at Twitter faces early test in Germany](https://techcrunch.com/2022/11/21/elon-musk-twitter-netzdg-test/)
-- [Private investors appear key to COP27’s ‘loss and damage’ fund for vulnerable countries](https://techcrunch.com/2022/11/21/private-investors-appear-key-to-cop27s-loss-and-damage-fund-for-vulnerable-countries/)
-- [ABL Space Systems&#39; RS1 rocket aiming to launch today &lpar;Nov. 21&rpar;](https://www.space.com/abl-space-systems-rs1-rocket-launch-attempt-monday-nov-21/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
