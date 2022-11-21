@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA’s Thomas Zurbuchen tackles cosmic questions at TC Sessions: Space](https://techcrunch.com/2022/11/21/nasas-thomas-zurbuchen-tackles-cosmic-questions-at-tc-sessions-space/)
+- [ABL Space Systems&#39; RS1 rocket aiming to launch today &lpar;Nov. 21&rpar;](https://www.space.com/abl-space-systems-rs1-rocket-launch-attempt-monday-nov-21/)
 - [Vast volcanic eruptions may have turned Venus from paradise into hell](https://www.space.com/venus-volcano-eruptions-large-igneous-province/)
-- [Space startup Stells wants to put spacecraft-charging covers on the Moon](https://techcrunch.com/2022/11/21/space-startup-stells-wants-to-put-spacecraft-charging-covers-on-the-moon/)
 - [SpaceX Falcon 9 rocket readies to send new communications satellite to space](https://www.space.com/spacex-falcon-9-eutelsat-communications-satellite-webcast-november-2022/)
 - [Series C is the new venture-startup bottleneck](https://techcrunch.com/2022/11/21/series-c-is-the-new-venture-startup-bottleneck/)
+- [&#39;Power tower&#39; rover to land on the moon by 2025](https://www.space.com/power-charging-rover-moon-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
