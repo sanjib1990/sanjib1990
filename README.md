@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fairmat raises $35 million to recycle carbon fiber composite into a new material](https://techcrunch.com/2022/11/20/fairmat-raises-35-million-to-recycle-carbon-fiber-composite-into-a-new-material/)
+- [TSMC to produce 3-nanometer chips at its Arizona factory](https://techcrunch.com/2022/11/20/tsmc-3-nanometer-arizona/)
 - [Bob Iger is returning to head Disney as Bob Chapek steps down](https://techcrunch.com/2022/11/20/bob-iger-is-returning-to-head-disney-as-bob-chapek-steps-down/)
 - [What to expect from crypto regulation in the wake of the FTX scandal](https://techcrunch.com/2022/11/20/what-to-expect-from-crypto-regulation-in-the-wake-of-the-ftx-scandal/)
 - [The era of oil-driven foreign policy is over. Welcome to decarbonization diplomacy](https://techcrunch.com/2022/11/20/the-era-of-oil-driven-foreign-policy-is-over-welcome-to-decarbonization-diplomacy/)
-- [Einride founder on building an underlying business to support future tech goals](https://techcrunch.com/2022/11/20/einride-founder-on-building-an-underlying-business-to-support-future-tech-goals/)
-- [How to stream the 2022 FIFA World Cup in the USA](https://techcrunch.com/2022/11/20/how-to-watch-2022-fifa-world-cup-qatar/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
