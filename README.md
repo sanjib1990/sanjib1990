@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Good morning, assets are selling off](https://techcrunch.com/2022/11/21/good-morning-assets-are-selling-off/)
-- [Slush and VC pitch judges revoke decision to hand $1M to Russian founders after industry outcry](https://techcrunch.com/2022/11/21/slush-and-vc-pitch-judges-revoke-decision-to-hand-1m-to-russian-founders-after-industry-outcry/)
-- [3D intergalactic map will reveal details about dark matter, black holes and stars](https://www.space.com/first-intergalactic-map-of-local-universe/)
-- [SoftBank-backed on-demand laundry startup Laundrygo picks up $37M Series C](https://techcrunch.com/2022/11/21/softbank-backed-on-demand-laundry-startup-laundrygo-picks-up-37m-series-c/)
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
+- [&#39;Power tower&#39; rover to land on the moon by 2025](https://www.space.com/power-charging-rover-moon-2025/)
+- [Former Snap Kitchen CEO whips up Prado for better access to fresh food](https://techcrunch.com/2022/11/21/snap-kitchen-prado-meal-delivery/)
+- [Track and capture: Getting started with attention metrics](https://techcrunch.com/2022/11/21/track-and-capture-getting-started-with-attention-metrics/)
+- [Meta rolls out new privacy updates for teens on Instagram and Facebook](https://techcrunch.com/2022/11/21/meta-rolls-out-new-privacy-updates-teens-instagram-facebook/)
+- [‘Stranger Things’ actor wants to spread the wealth around tbh, his vegan Nutella alternative](https://techcrunch.com/2022/11/21/tbh-stranger-things-actor-noah-schnapp-wants-to-spread-the-wealth-around-his-vegan-nutella-alternative/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
