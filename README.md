@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hubble Space Telescope&#39;s mesmerizing views of enormous spiral galaxy could help solve one of the biggest mysteries in astronomy](https://www.space.com/hubble-space-telescope-big-astronomy-mystery/)
-- [Surprise finding at Arctic vent site could help in the search for extraterrestrial life](https://www.space.com/arctic-hydrothermal-vents-search-extraterrestrial-life/)
-- [Mars may be slowly ripping its largest moon apart](https://www.space.com/mars-moon-phobos-being-ripped-apart/)
-- [Flipkart chief warns startups of turmoil and funding crunch for another 12 to 18 months](https://techcrunch.com/2022/11/21/flipkart-chief-warns-startups-of-turmoil-and-funding-crunch-for-another-12-to-18-months/)
-- [Fairmat raises $35 million to recycle carbon fiber composite into a new material](https://techcrunch.com/2022/11/20/fairmat-raises-35-million-to-recycle-carbon-fiber-composite-into-a-new-material/)
+- [Amazon owned Wickr is shutting down its free encrypted messaging app](https://techcrunch.com/2022/11/21/amazon-wickr-app-shutting-down/)
+- [India issues guidelines to curb fake reviews on e-commerce platforms](https://techcrunch.com/2022/11/21/india-fake-reviews-ecommerce-guidelines/)
+- [Encalife Lightsabers review: push the button and let it glow](https://www.space.com/encalife-lightsabers-review/)
+- [Broadcom’s proposed $61B VMware acquisition scrutinized by UK regulators](https://techcrunch.com/2022/11/21/broadcoms-proposed-61b-vmware-acquisition-scrutinized-by-uk-regulators/)
+- [3D printer deals 2022: Black Friday deals on FDM &amp; resin printers](https://www.space.com/3d-printer-deals/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
