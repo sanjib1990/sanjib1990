@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Nikon Monarch HG 10x42 binocular review](https://www.space.com/nikon-monarch-hg-10x42-binocular-review/)
-- [Get your product and customer success teams on the same page to improve net retention](https://techcrunch.com/2022/11/21/get-your-product-and-customer-success-teams-on-the-same-page-to-improve-net-retention/)
 - [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
-- [Custom jeweler Wove bags $3.85M to make engagement ring purchases less stressful](https://techcrunch.com/2022/11/21/engagement-ring-online-wove/)
-- [SponsorUnited secures $35M investment to build out its database of brand sponsorships](https://techcrunch.com/2022/11/21/sponsorunited-secures-35m-investment-to-build-out-its-database-of-brand-sponsorships/)
+- [NASA&#39;s Artemis 1 spacecraft flies by moon with Apollo 11 lunar soil aboard](https://www.space.com/artemis-1-orion-flyby-apollo-11-moon-rock/)
+- [Meta’s surveillance biz model targeted in UK ‘right to object’ GDPR lawsuit](https://techcrunch.com/2022/11/21/meta-surveillance-gdpr-right-to-object-lawsuit/)
+- [NASA&#39;s Artemis 1 Orion spacecraft aces close moon flyby in crucial engine burn](https://www.space.com/nasa-artemis-1-orion-close-flyby-moon/)
+- [Nikon Monarch HG 10x42 binocular review](https://www.space.com/nikon-monarch-hg-10x42-binocular-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
