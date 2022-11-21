@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX Falcon 9 rocket readies to send new communications satellite to space](https://www.space.com/spacex-falcon-9-eutelsat-communications-satellite-webcast-november-2022/)
+- [Series C is the new venture-startup bottleneck](https://techcrunch.com/2022/11/21/series-c-is-the-new-venture-startup-bottleneck/)
 - [&#39;Power tower&#39; rover to land on the moon by 2025](https://www.space.com/power-charging-rover-moon-2025/)
 - [Former Snap Kitchen CEO whips up Prado for better access to fresh food](https://techcrunch.com/2022/11/21/snap-kitchen-prado-meal-delivery/)
 - [Track and capture: Getting started with attention metrics](https://techcrunch.com/2022/11/21/track-and-capture-getting-started-with-attention-metrics/)
-- [Meta rolls out new privacy updates for teens on Instagram and Facebook](https://techcrunch.com/2022/11/21/meta-rolls-out-new-privacy-updates-teens-instagram-facebook/)
-- [‘Stranger Things’ actor wants to spread the wealth around tbh, his vegan Nutella alternative](https://techcrunch.com/2022/11/21/tbh-stranger-things-actor-noah-schnapp-wants-to-spread-the-wealth-around-his-vegan-nutella-alternative/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
