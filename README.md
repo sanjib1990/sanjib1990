@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon owned Wickr is shutting down its free encrypted messaging app](https://techcrunch.com/2022/11/21/amazon-wickr-app-shutting-down/)
-- [India issues guidelines to curb fake reviews on e-commerce platforms](https://techcrunch.com/2022/11/21/india-fake-reviews-ecommerce-guidelines/)
-- [Encalife Lightsabers review: push the button and let it glow](https://www.space.com/encalife-lightsabers-review/)
-- [Broadcom’s proposed $61B VMware acquisition scrutinized by UK regulators](https://techcrunch.com/2022/11/21/broadcoms-proposed-61b-vmware-acquisition-scrutinized-by-uk-regulators/)
-- [3D printer deals 2022: Black Friday deals on FDM &amp; resin printers](https://www.space.com/3d-printer-deals/)
+- [Nikon Monarch HG 10x42 binocular review](https://www.space.com/nikon-monarch-hg-10x42-binocular-review/)
+- [Get your product and customer success teams on the same page to improve net retention](https://techcrunch.com/2022/11/21/get-your-product-and-customer-success-teams-on-the-same-page-to-improve-net-retention/)
+- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
+- [Custom jeweler Wove bags $3.85M to make engagement ring purchases less stressful](https://techcrunch.com/2022/11/21/engagement-ring-online-wove/)
+- [SponsorUnited secures $35M investment to build out its database of brand sponsorships](https://techcrunch.com/2022/11/21/sponsorunited-secures-35m-investment-to-build-out-its-database-of-brand-sponsorships/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
