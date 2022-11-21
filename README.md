@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Swedish tech conference yanks $1M pitch contest prize from Russian co-founders](https://techcrunch.com/2022/11/21/daily-crunch-swedish-tech-conference-yanks-1m-pitch-contest-prize-from-russian-co-founders/)
+- [Max Q: We are going](https://techcrunch.com/2022/11/21/max-q-we-are-going/)
+- [Crypto firm Genesis says it has “no plans to file bankruptcy imminently”](https://techcrunch.com/2022/11/21/crypto-firm-genesis-says-it-has-no-plans-to-file-bankruptcy-imminently/)
+- [Tumblr to add support for ActivityPub, the social protocol powering Mastodon and other apps](https://techcrunch.com/2022/11/21/tumblr-to-add-support-for-activitypub-the-social-protocol-powering-mastodon-and-other-apps/)
 - [Quit Twitter better with these free tools that make archiving a breeze](https://techcrunch.com/2022/11/21/quit-twitter-better-with-these-free-tools-that-make-archiving-a-breeze/)
-- [NASA&#39;s Artemis 1 mission launched 10 cubesats. Here&#39;s how they&#39;re doing](https://www.space.com/artemis-1-cubesats-deep-space-updates/)
-- [Astronomers spot small space rock just hours before it drops meteorites over Canada](https://www.space.com/meteorite-spotted-hours-before-hitting-Canada/)
-- [Holmes’ sentencing sends a clear message that the startup ecosystem must be built on good faith](https://techcrunch.com/2022/11/21/holmes-sentencing-sends-a-clear-message-that-the-startup-ecosystem-must-be-built-on-good-faith/)
-- [Musk’s impact on content moderation at Twitter faces early test in Germany](https://techcrunch.com/2022/11/21/elon-musk-twitter-netzdg-test/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
