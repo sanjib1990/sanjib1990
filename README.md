@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [50 Mac Terminal Commands you NEED to know &lpar;in 10 minutes&rpar;](https://www.youtube.com/watch?v=qOrlYzqXPa8)
 - [Lecture 14: Basic Hilbert Space Theory](https://www.youtube.com/watch?v=EBdgFFf54U0)
 - [Lecture 19: Compact Subsets of a Hilbert Space and Finite-Rank Operators](https://www.youtube.com/watch?v=PBMyBVPRtKA)
 - [Lecture 20: Compact Operators and the Spectrum of a Bounded Linear Operator on a Hilbert Space](https://www.youtube.com/watch?v=SFDMFbzCsH0)
 - [Lecture 10: Simple Functions](https://www.youtube.com/watch?v=TXMCTAF6SEE)
-- [Lecture 18: The Adjoint of a Bounded Linear Operator on a Hilbert Space](https://www.youtube.com/watch?v=BctaYoR9tOY)
 <!-- YOUTUBE:END -->
 
 ---
