@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Good morning, assets are selling off](https://techcrunch.com/2022/11/21/good-morning-assets-are-selling-off/)
+- [Slush and VC pitch judges revoke decision to hand $1M to Russian founders after industry outcry](https://techcrunch.com/2022/11/21/slush-and-vc-pitch-judges-revoke-decision-to-hand-1m-to-russian-founders-after-industry-outcry/)
+- [3D intergalactic map will reveal details about dark matter, black holes and stars](https://www.space.com/first-intergalactic-map-of-local-universe/)
+- [SoftBank-backed on-demand laundry startup Laundrygo picks up $37M Series C](https://techcrunch.com/2022/11/21/softbank-backed-on-demand-laundry-startup-laundrygo-picks-up-37m-series-c/)
 - [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
-- [NASA&#39;s Artemis 1 spacecraft flies by moon with Apollo 11 lunar soil aboard](https://www.space.com/artemis-1-orion-flyby-apollo-11-moon-rock/)
-- [Meta’s surveillance biz model targeted in UK ‘right to object’ GDPR lawsuit](https://techcrunch.com/2022/11/21/meta-surveillance-gdpr-right-to-object-lawsuit/)
-- [NASA&#39;s Artemis 1 Orion spacecraft aces close moon flyby in crucial engine burn](https://www.space.com/nasa-artemis-1-orion-close-flyby-moon/)
-- [Nikon Monarch HG 10x42 binocular review](https://www.space.com/nikon-monarch-hg-10x42-binocular-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
