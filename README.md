@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [James Webb Space Telescope practices studying alien atmospheres for signs of life](https://www.space.com/james-webb-space-telescope-details-exoplanet-atmosphere)
-- [This manta ray-inspired soft robot flies through the water](https://techcrunch.com/2022/11/22/this-manta-ray-inspired-soft-robot-flies-through-the-water/)
-- [Spotify launches audiobooks to more English-speaking markets outside the U.S.](https://techcrunch.com/2022/11/22/spotify-launches-audiobooks-to-more-english-speaking-markets-outside-the-u-s/)
-- [Save $70 on Celestron&#39;s powerful AstroMaster 114 EQ telescope](https://www.space.com/celestron-astromaster-114-eq-save-70-dollars-deal)
-- [US offshore oil and gas rigs at ‘significant’ risk of cyberattacks, warns government watchdog](https://techcrunch.com/2022/11/22/offshore-oil-gas-cyberattacks-watchdog/)
+- [Venmo adds in-app charitable donations, redesigned ‘send money’ screen](https://techcrunch.com/2022/11/22/venmo-adds-in-app-charitable-donations-redesigned-send-money-screen/)
+- [Turbulent &#39;cosmic web&#39; binds cluster of galaxies in new radio telescope images](https://www.space.com/cosmic-web-galaxy-cluster-abell-2255-lofar-radio-telescope)
+- [Researchers are building robots that can build themselves](https://techcrunch.com/2022/11/22/researchers-are-building-robots-that-can-build-themselves/)
+- [Aerospace Corp discusses Space Workforce 2030 at TC Sessions: Space](https://techcrunch.com/2022/11/22/aerospace-corp-discusses-space-workforce-2030-at-tc-sessions-space/)
+- [Are tech valuations artificially low, or are we simply returning to reality?](https://techcrunch.com/2022/11/22/are-tech-valuations-artificially-low-or-are-we-simply-returning-to-reality/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
