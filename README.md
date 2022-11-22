@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [China rolls out rocket to launch new crew to newly-completed space station](https://www.space.com/china-shenzhou-15-long-march-2f-rocket-crew-tiangong-space-station/)
-- [Save $40 on the Encalife 10x50 ED binocular on Black Friday](https://www.space.com/save-40-on-encalife-10x50-ed-binocular-black-friday-deal/)
-- [Popup grabs $3.5M for no-code way to personalize online storefronts](https://techcrunch.com/2022/11/22/popup-merchants-no-code-storefront/)
-- [Visible launches activity-tracking platform to tackle Long COVID](https://techcrunch.com/2022/11/22/visible-launches-activity-tracking-platform-to-tackle-long-covid/)
-- [UK confirms antitrust probe of Android-iOS ‘mobile duopoly’ focused on browsers and cloud gaming](https://techcrunch.com/2022/11/22/apple-google-mobile-duopoly-cma-phase-2-investigation-mobile-browsers-cloud-gaming/)
+- [US offshore oil and gas rigs at ‘significant’ risk of cyberattacks, warns government watchdog](https://techcrunch.com/2022/11/22/offshore-oil-gas-cyberattacks-watchdog/)
+- [Rocket startup ABL Space Systems aborts 3rd launch attempt in a week](https://www.space.com/abl-space-systems-rocket-launch-3rd-abort/)
+- [As employees shift from office, Cloudbrink provides a strong, secure internet connection](https://techcrunch.com/2022/11/22/as-employees-shift-from-office-cloudbrink-provides-a-strong-secure-internet-connection/)
+- [Pitch on stage at TC Sessions: Space 2022](https://techcrunch.com/2022/11/22/pitch-on-stage-at-tc-sessions-space-2022/)
+- [Save up to $100 on these beginner-friendly Vantop drones this Black Friday](https://www.space.com/save-up-to-100-dollars-on-beginner-friendly-vantop-drones-this-black-friday/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
