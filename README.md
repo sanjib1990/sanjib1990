@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s Perseverance Mars rover hunts tantalizing bedrock that could hide evidence of life](https://www.space.com/perseverance-mars-rover-reaches-yori-pass/)
-- [Polaris Dawn crew prepares for world&#39;s 1st private spacewalk with SpaceX](https://www.space.com/polaris-dawn-crew-private-space-mission/)
-- [SpaceX to launch science, solar arrays to International Space Station today](https://www.space.com/spacex-launch-crs-26-international-space-station/)
-- [Carv valued at $40M as investors race to back web3 identity builders](https://techcrunch.com/2022/11/22/carv-funding-40-million-valuation/)
-- [Taktile raises $20M to help fintech companies test and deploy decision-making models](https://techcrunch.com/2022/11/22/taktile-raises-20m-to-help-fintech-companies-test-and-deploy-decision-making-models/)
+- [Indian social network Koo gains popularity in Brazil but faces moderation challenges](https://techcrunch.com/2022/11/22/indian-social-network-koo-gains-popularity-in-brazil-but-faces-moderation-challenges/)
+- [Save nearly $900 on the Nikon D850 camera with this Black Friday deal](https://www.space.com/save-almost-900-nikon-d850-black-friday-deal/)
+- [Bitpanda obtains German crypto license as crypto platforms want to prove they are legit](https://techcrunch.com/2022/11/22/bitpanda-obtains-german-crypto-license-as-crypto-platforms-want-to-prove-they-are-legit/)
+- [Pinduoduo’s sister shopping app Temu tops US App Store](https://techcrunch.com/2022/11/22/pinduoduos-sister-shopping-app-temu-tops-us-app-store/)
+- [Black Friday UK deal: Save £100 on Xbox Series S &amp; Halo Infinite on Amazon](https://www.space.com/halo-infinite-xbox-series-s-black-friday-uk-deal-save-100-pounds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
