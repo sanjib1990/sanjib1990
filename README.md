@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Taktile raises $20M to help fintech companies test and deploy decision-making models](https://techcrunch.com/2022/11/22/taktile-raises-20m-to-help-fintech-companies-test-and-deploy-decision-making-models/)
+- [Leta, a Kenyan supply chain and logistics SaaS provider, raises $3M to scale in Africa](https://techcrunch.com/2022/11/22/leta-a-kenyan-supply-chain-and-logistics-saas-provider-raises-3m-to-scale-in-africa/)
+- [India’s Paytm slides over 10% to all-time low after lock-up period expires](https://techcrunch.com/2022/11/21/india-paytm-slides-over-10-to-all-time-low-after-lock-up-period-expires/)
+- [George Hotz, hacker and long-time frenemy of Elon Musk, signs on for 12 weeks at Twitter](https://techcrunch.com/2022/11/21/george-hotz-hacker-and-long-time-frenemy-of-elon-musk-signs-on-for-12-weeks-at-twitter/)
 - [Spain’s Cobee raises $41M for an employee benefits ‘superapp’](https://techcrunch.com/2022/11/21/spains-cobee-raises-41m-for-an-employee-benefits-superapp/)
-- [FTX processed billions monthly in Africa before going bust](https://techcrunch.com/2022/11/21/ftx-processed-billions-monthly-in-africa-before-going-bust/)
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
-- [Faraday Future warns it may not be able to deliver its luxury EV](https://techcrunch.com/2022/11/21/faraday-future-warns-it-may-not-be-able-to-deliver-its-luxury-ev/)
-- [Elon Musk puts Twitter’s Blue Verified relaunch on hold](https://techcrunch.com/2022/11/21/elon-musk-puts-twitters-blue-verified-relaunch-on-hold/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
