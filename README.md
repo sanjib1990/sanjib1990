@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Black Friday Lego deals: Save on Star Wars, Space, Marvel &amp; DC Lego sets](https://www.space.com/38810-best-lego-deals.html)
-- [TechCrunch+ roundup: Attention metrics, growth through retention, cold-calling advice](https://techcrunch.com/2022/11/22/techcrunch-roundup-attention-metrics-growth-through-retention-cold-calling-advice/)
-- [How the search for a downed plane led to a fallen space shuttle and vice versa](https://www.space.com/challenger-shuttle-find-history-channel-bermuda-triangle)
-- [Pipe’s founding team stepping down as hunt for ‘veteran’ CEO begins](https://techcrunch.com/2022/11/22/pipes-founding-team-stepping-down-as-hunt-for-veteran-ceo-begins/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [FTX’s bankruptcy hearing details prior control by ‘inexperienced and unsophisticated individuals’](https://techcrunch.com/2022/11/22/ftxs-bankruptcy-hearing-details-prior-control-by-inexperienced-and-unsophisticated-individuals/)
+- [Hackers are locking out Mars Stealer operators from their own servers](https://techcrunch.com/2022/11/22/mars-stealers-flaw-lock-out/)
+- [Mars&#39; water may have come from ancient asteroid impacts](https://www.space.com/mars-meteorites-water-asteroid-impacts)
+- [Startup founders need to be data-informed, not just ‘data-driven’](https://techcrunch.com/2022/11/22/startup-founders-need-to-be-data-informed-not-just-data-driven/)
+- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
