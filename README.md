@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [FTX’s bankruptcy hearing details prior control by ‘inexperienced and unsophisticated individuals’](https://techcrunch.com/2022/11/22/ftxs-bankruptcy-hearing-details-prior-control-by-inexperienced-and-unsophisticated-individuals/)
-- [Hackers are locking out Mars Stealer operators from their own servers](https://techcrunch.com/2022/11/22/mars-stealers-flaw-lock-out/)
-- [Mars&#39; water may have come from ancient asteroid impacts](https://www.space.com/mars-meteorites-water-asteroid-impacts)
-- [Startup founders need to be data-informed, not just ‘data-driven’](https://techcrunch.com/2022/11/22/startup-founders-need-to-be-data-informed-not-just-data-driven/)
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates)
+- [NASA&#39;s CAPSTONE cubesat reaches final orbit around the moon](https://www.space.com/nasa-capstone-cubesat-final-orbit-moon)
+- [Apple TV+ series ‘Severance’ gets exclusive ‘innie’ and ‘outie’ vinyl records](https://techcrunch.com/2022/11/22/apple-tv-severance-vinyl-records/)
+- [Food delivery company JOKR confirms closing of Santiago, Medellin operations](https://techcrunch.com/2022/11/22/jokr-closes-santiago-medellin-operations/)
+- [James Webb Space Telescope reveals alien planet&#39;s atmosphere like never before](https://www.space.com/james-webb-space-telescope-details-exoplanet-atmosphere)
+- [FCC 86es first carrier for flouting robocall rules](https://techcrunch.com/2022/11/22/fcc-86es-first-carrier-for-flouting-robocall-rules/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
