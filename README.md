@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Daily Crunch: Swedish tech conference yanks $1M pitch contest prize from Russian co-founders](https://techcrunch.com/2022/11/21/daily-crunch-swedish-tech-conference-yanks-1m-pitch-contest-prize-from-russian-co-founders/)
+- [NASA &#39;giddy&#39; over amazing moon views from Artemis 1 Orion spacecraft](https://www.space.com/artemis-1-orion-spacecraft-moon-flyby-nasa-briefing/)
+- [Daily Crunch: Finnish tech conference yanks $1M pitch contest prize from Russian co-founders](https://techcrunch.com/2022/11/21/daily-crunch-swedish-tech-conference-yanks-1m-pitch-contest-prize-from-russian-co-founders/)
 - [Max Q: We are going](https://techcrunch.com/2022/11/21/max-q-we-are-going/)
-- [Crypto firm Genesis says it has “no plans to file bankruptcy imminently”](https://techcrunch.com/2022/11/21/crypto-firm-genesis-says-it-has-no-plans-to-file-bankruptcy-imminently/)
+- [Crypto firm Genesis says it has ‘no plans to file bankruptcy imminently’](https://techcrunch.com/2022/11/21/crypto-firm-genesis-says-it-has-no-plans-to-file-bankruptcy-imminently/)
 - [Tumblr to add support for ActivityPub, the social protocol powering Mastodon and other apps](https://techcrunch.com/2022/11/21/tumblr-to-add-support-for-activitypub-the-social-protocol-powering-mastodon-and-other-apps/)
-- [Quit Twitter better with these free tools that make archiving a breeze](https://techcrunch.com/2022/11/21/quit-twitter-better-with-these-free-tools-that-make-archiving-a-breeze/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
