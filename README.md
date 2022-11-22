@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spain’s Cobee raises $41M for an employee benefits ‘superapp’](https://techcrunch.com/2022/11/21/spains-cobee-raises-41m-for-an-employee-benefits-superapp/)
+- [FTX processed billions monthly in Africa before going bust](https://techcrunch.com/2022/11/21/ftx-processed-billions-monthly-in-africa-before-going-bust/)
 - [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates/)
 - [Faraday Future warns it may not be able to deliver its luxury EV](https://techcrunch.com/2022/11/21/faraday-future-warns-it-may-not-be-able-to-deliver-its-luxury-ev/)
 - [Elon Musk puts Twitter’s Blue Verified relaunch on hold](https://techcrunch.com/2022/11/21/elon-musk-puts-twitters-blue-verified-relaunch-on-hold/)
-- [NASA &#39;giddy&#39; over amazing moon views from Artemis 1 Orion spacecraft](https://www.space.com/artemis-1-orion-spacecraft-moon-flyby-nasa-briefing/)
-- [Daily Crunch: Finnish tech conference yanks $1M pitch contest prize from Russian co-founders](https://techcrunch.com/2022/11/21/daily-crunch-swedish-tech-conference-yanks-1m-pitch-contest-prize-from-russian-co-founders/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
