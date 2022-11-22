@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The best Black Friday 2022 tech deals](https://techcrunch.com/2022/11/22/the-best-black-friday-2022-tech-deals/)
-- [Artemis 1&#39;s Orion spacecraft sees Earth setting behind moon &lpar;video&rpar;](https://www.space.com/artemis-1-orion-spacecraft-earth-setting-behind-moon)
-- [NASA&#39;s CAPSTONE cubesat reaches final orbit around the moon](https://www.space.com/nasa-capstone-cubesat-final-orbit-moon)
-- [Apple TV+ series ‘Severance’ gets exclusive ‘innie’ and ‘outie’ vinyl records](https://techcrunch.com/2022/11/22/apple-tv-severance-vinyl-records/)
-- [Food delivery company JOKR confirms closing of Santiago, Medellin operations](https://techcrunch.com/2022/11/22/jokr-closes-santiago-medellin-operations/)
+- [Daily Crunch: No-code fintech services startup Taktile closes $20M Series A round](https://techcrunch.com/2022/11/22/daily-crunch-no-code-fintech-services-startup-taktile-closes-20-million-series-a-round/)
+- [Ronna learn some new metric prefixes? They’re quetta upgrade](https://techcrunch.com/2022/11/22/ronna-learn-some-new-metric-prefixes-theyre-quetta-upgrade/)
+- [HyperloopTT’s SPAC public debut may be going nowhere fast](https://techcrunch.com/2022/11/22/hyperlooptts-spac-public-debut-may-be-going-nowhere-fast/)
+- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates)
+- [Artemis 1&#39;s tiny Japanese probe abandons moon landing try](https://www.space.com/artemis-1-japanese-moon-lander-abandon-touchdown-try)
 <!-- BLOG-POST-LIST:END -->
 
 ---
