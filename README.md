@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Venmo adds in-app charitable donations, redesigned ‘send money’ screen](https://techcrunch.com/2022/11/22/venmo-adds-in-app-charitable-donations-redesigned-send-money-screen/)
-- [Turbulent &#39;cosmic web&#39; binds cluster of galaxies in new radio telescope images](https://www.space.com/cosmic-web-galaxy-cluster-abell-2255-lofar-radio-telescope)
-- [Researchers are building robots that can build themselves](https://techcrunch.com/2022/11/22/researchers-are-building-robots-that-can-build-themselves/)
-- [Aerospace Corp discusses Space Workforce 2030 at TC Sessions: Space](https://techcrunch.com/2022/11/22/aerospace-corp-discusses-space-workforce-2030-at-tc-sessions-space/)
-- [Are tech valuations artificially low, or are we simply returning to reality?](https://techcrunch.com/2022/11/22/are-tech-valuations-artificially-low-or-are-we-simply-returning-to-reality/)
+- [Black Friday Lego deals: Save on Star Wars, Space, Marvel &amp; DC Lego sets](https://www.space.com/38810-best-lego-deals.html)
+- [TechCrunch+ roundup: Attention metrics, growth through retention, cold-calling advice](https://techcrunch.com/2022/11/22/techcrunch-roundup-attention-metrics-growth-through-retention-cold-calling-advice/)
+- [How the search for a downed plane led to a fallen space shuttle and vice versa](https://www.space.com/challenger-shuttle-find-history-channel-bermuda-triangle)
+- [Pipe’s founding team stepping down as hunt for ‘veteran’ CEO begins](https://techcrunch.com/2022/11/22/pipes-founding-team-stepping-down-as-hunt-for-veteran-ceo-begins/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
