@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s Perseverance Mars rover hunts tantalizing bedrock that could hide evidence of life](https://www.space.com/perseverance-mars-rover-reaches-yori-pass/)
+- [Polaris Dawn crew prepares for world&#39;s 1st private spacewalk with SpaceX](https://www.space.com/polaris-dawn-crew-private-space-mission/)
+- [SpaceX to launch science, solar arrays to International Space Station today](https://www.space.com/spacex-launch-crs-26-international-space-station/)
+- [Carv valued at $40M as investors race to back web3 identity builders](https://techcrunch.com/2022/11/22/carv-funding-40-million-valuation/)
 - [Taktile raises $20M to help fintech companies test and deploy decision-making models](https://techcrunch.com/2022/11/22/taktile-raises-20m-to-help-fintech-companies-test-and-deploy-decision-making-models/)
-- [Leta, a Kenyan supply chain and logistics SaaS provider, raises $3M to scale in Africa](https://techcrunch.com/2022/11/22/leta-a-kenyan-supply-chain-and-logistics-saas-provider-raises-3m-to-scale-in-africa/)
-- [India’s Paytm slides over 10% to all-time low after lock-up period expires](https://techcrunch.com/2022/11/21/india-paytm-slides-over-10-to-all-time-low-after-lock-up-period-expires/)
-- [Hacker George Hotz, long a frenemy of Elon Musk, signs on for 12 weeks at Twitter](https://techcrunch.com/2022/11/21/george-hotz-hacker-and-long-time-frenemy-of-elon-musk-signs-on-for-12-weeks-at-twitter/)
-- [Spain’s Cobee raises $41M for an employee benefits ‘superapp’](https://techcrunch.com/2022/11/21/spains-cobee-raises-41m-for-an-employee-benefits-superapp/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
