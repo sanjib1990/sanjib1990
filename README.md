@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Save 21% on the Celestron AstroMaster 70AZ with this Black Friday deal](https://www.space.com/celestron-astromaster-70az-early-black-friday-2022-discount/)
-- [Indian social network Koo gains popularity in Brazil but faces moderation challenges](https://techcrunch.com/2022/11/22/indian-social-network-koo-gains-popularity-in-brazil-but-faces-moderation-challenges/)
-- [Save nearly $900 on the Nikon D850 camera with this Black Friday deal](https://www.space.com/save-almost-900-nikon-d850-black-friday-deal/)
-- [Bitpanda obtains German crypto license as crypto platforms want to prove they are legit](https://techcrunch.com/2022/11/22/bitpanda-obtains-german-crypto-license-as-crypto-platforms-want-to-prove-they-are-legit/)
-- [Pinduoduo’s sister shopping app Temu tops US App Store](https://techcrunch.com/2022/11/22/pinduoduos-sister-shopping-app-temu-tops-us-app-store/)
+- [China rolls out rocket to launch new crew to newly-completed space station](https://www.space.com/china-shenzhou-15-long-march-2f-rocket-crew-tiangong-space-station/)
+- [Save $40 on the Encalife 10x50 ED binocular on Black Friday](https://www.space.com/save-40-on-encalife-10x50-ed-binocular-black-friday-deal/)
+- [Popup grabs $3.5M for no-code way to personalize online storefronts](https://techcrunch.com/2022/11/22/popup-merchants-no-code-storefront/)
+- [Visible launches activity-tracking platform to tackle Long COVID](https://techcrunch.com/2022/11/22/visible-launches-activity-tracking-platform-to-tackle-long-covid/)
+- [UK confirms antitrust probe of Android-iOS ‘mobile duopoly’ focused on browsers and cloud gaming](https://techcrunch.com/2022/11/22/apple-google-mobile-duopoly-cma-phase-2-investigation-mobile-browsers-cloud-gaming/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
