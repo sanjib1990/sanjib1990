@@ -82,7 +82,7 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [sudo with Touch ID!?!?! &lpar;MacOS Tips for Everyone&rpar;](https://www.youtube.com/watch?v=qOrlYzqXPa8)
+- [50 macOS Tips and Tricks Using Terminal &lpar;the last one is CRAZY!&rpar;](https://www.youtube.com/watch?v=qOrlYzqXPa8)
 - [Lecture 14: Basic Hilbert Space Theory](https://www.youtube.com/watch?v=EBdgFFf54U0)
 - [Lecture 19: Compact Subsets of a Hilbert Space and Finite-Rank Operators](https://www.youtube.com/watch?v=PBMyBVPRtKA)
 - [Lecture 20: Compact Operators and the Spectrum of a Bounded Linear Operator on a Hilbert Space](https://www.youtube.com/watch?v=SFDMFbzCsH0)
