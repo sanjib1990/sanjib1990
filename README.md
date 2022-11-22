@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Save 21% on the Celestron AstroMaster 70AZ with this Black Friday deal](https://www.space.com/celestron-astromaster-70az-early-black-friday-2022-discount/)
 - [Indian social network Koo gains popularity in Brazil but faces moderation challenges](https://techcrunch.com/2022/11/22/indian-social-network-koo-gains-popularity-in-brazil-but-faces-moderation-challenges/)
 - [Save nearly $900 on the Nikon D850 camera with this Black Friday deal](https://www.space.com/save-almost-900-nikon-d850-black-friday-deal/)
 - [Bitpanda obtains German crypto license as crypto platforms want to prove they are legit](https://techcrunch.com/2022/11/22/bitpanda-obtains-german-crypto-license-as-crypto-platforms-want-to-prove-they-are-legit/)
 - [Pinduoduo’s sister shopping app Temu tops US App Store](https://techcrunch.com/2022/11/22/pinduoduos-sister-shopping-app-temu-tops-us-app-store/)
-- [Black Friday UK deal: Save £100 on Xbox Series S &amp; Halo Infinite on Amazon](https://www.space.com/halo-infinite-xbox-series-s-black-friday-uk-deal-save-100-pounds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
