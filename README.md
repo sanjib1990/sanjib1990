@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [James Webb Space Telescope practices studying alien atmospheres for signs of life](https://www.space.com/james-webb-space-telescope-details-exoplanet-atmosphere)
+- [This manta ray-inspired soft robot flies through the water](https://techcrunch.com/2022/11/22/this-manta-ray-inspired-soft-robot-flies-through-the-water/)
+- [Spotify launches audiobooks to more English-speaking markets outside the U.S.](https://techcrunch.com/2022/11/22/spotify-launches-audiobooks-to-more-english-speaking-markets-outside-the-u-s/)
+- [Save $70 on Celestron&#39;s powerful AstroMaster 114 EQ telescope](https://www.space.com/celestron-astromaster-114-eq-save-70-dollars-deal)
 - [US offshore oil and gas rigs at ‘significant’ risk of cyberattacks, warns government watchdog](https://techcrunch.com/2022/11/22/offshore-oil-gas-cyberattacks-watchdog/)
-- [Rocket startup ABL Space Systems aborts 3rd launch attempt in a week](https://www.space.com/abl-space-systems-rocket-launch-3rd-abort/)
-- [As employees shift from office, Cloudbrink provides a strong, secure internet connection](https://techcrunch.com/2022/11/22/as-employees-shift-from-office-cloudbrink-provides-a-strong-secure-internet-connection/)
-- [Pitch on stage at TC Sessions: Space 2022](https://techcrunch.com/2022/11/22/pitch-on-stage-at-tc-sessions-space-2022/)
-- [Save up to $100 on these beginner-friendly Vantop drones this Black Friday](https://www.space.com/save-up-to-100-dollars-on-beginner-friendly-vantop-drones-this-black-friday/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
