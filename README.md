@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Delhivery hits all-time low, market cap falls below 2021 private valuation](https://techcrunch.com/2022/11/23/delhivery-hits-all-time-low-market-cap-falls-below-2021-private-valuation/)
+- [More headaches for Apple in China as protests erupt at Foxconn](https://techcrunch.com/2022/11/23/headaches-apple-protestst-foxconn-china/)
 - [Tanzania’s YC alum Ramani raises $32M to digitize CPG supply chains, lend resellers](https://techcrunch.com/2022/11/23/tanzanias-yc-alum-ramani-raises-32m-to-digitize-cpg-supply-chains-lend-resellers/)
 - [Sequoia India’s Surge backs healthtech startup RedBrick AI in $4.6M funding](https://techcrunch.com/2022/11/22/redbrick-ai-sequoia-surge-funding/)
 - [Ukio, a premium apartment rental platform for Europe’s ‘flexible workforce,’ raises $28M](https://techcrunch.com/2022/11/22/ukio-a-short-term-apartment-rental-platform-for-the-flexible-workforce-raises-28m/)
-- [Daily Crunch: No-code fintech services startup Taktile closes $20M Series A round](https://techcrunch.com/2022/11/22/daily-crunch-no-code-fintech-services-startup-taktile-closes-20-million-series-a-round/)
-- [Ronna learn some new metric prefixes? They’re quetta upgrade](https://techcrunch.com/2022/11/22/ronna-learn-some-new-metric-prefixes-theyre-quetta-upgrade/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
