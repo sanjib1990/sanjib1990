@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hearing aids may be the surprise holiday gift category nobody saw coming](https://techcrunch.com/2022/11/23/otc-hearing-aids/)
+- [Quantum Space, US Space Force talk commercial ops in orbit at TC Sessions: Space](https://techcrunch.com/2022/11/23/quantum-space-us-space-force-talk-commercial-ops-in-orbit-at-tc-sessions-space/)
+- [Get Lego Star Wars: The Skywalker Saga from Amazon for a bricktastic $29.99](https://www.space.com/get-lego-star-wars-the-skywalker-saga-from-amazon-for-a-bricktastic-30-dollars)
+- [Meta’s VR remains under antitrust abuse watch in Germany](https://techcrunch.com/2022/11/23/meta-horizon-vr-antitrust-germany/)
 - [How to obtain FDA buy-in and unlock more funding for your health tech startup](https://techcrunch.com/2022/11/23/how-to-obtain-fda-buy-in-and-unlock-more-funding-for-your-healthtech-startup/)
-- [Tech’s homogeneity problem](https://techcrunch.com/2022/11/23/homogenity-tech-layoffs/)
-- [This scorching &#39;super-Earth&#39; exoplanet is one of the most massive ever discovered](https://www.space.com/hulk-massive-super-earth-exoplanet-discovered)
-- [Save up to $230 on Anycubic 3D Printers, including the Photon M3 Max &amp; Mono X](https://www.space.com/save-up-to-230-dollars-on-anycubic-3d-printers-including-photon-m3-max)
-- [Hulu subscribers are now able to stream the first two episodes of ‘Andor’](https://techcrunch.com/2022/11/23/hulu-subscribers-stream-first-two-episodes-of-andor/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
