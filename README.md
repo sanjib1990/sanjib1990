@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tanzania’s YC alum Ramani raises $32M to digitize CPG supply chains, lend resellers](https://techcrunch.com/2022/11/23/tanzanias-yc-alum-ramani-raises-32m-to-digitize-cpg-supply-chains-lend-resellers/)
 - [Sequoia India’s Surge backs healthtech startup RedBrick AI in $4.6M funding](https://techcrunch.com/2022/11/22/redbrick-ai-sequoia-surge-funding/)
 - [Ukio, a premium apartment rental platform for Europe’s ‘flexible workforce,’ raises $28M](https://techcrunch.com/2022/11/22/ukio-a-short-term-apartment-rental-platform-for-the-flexible-workforce-raises-28m/)
 - [Daily Crunch: No-code fintech services startup Taktile closes $20M Series A round](https://techcrunch.com/2022/11/22/daily-crunch-no-code-fintech-services-startup-taktile-closes-20-million-series-a-round/)
 - [Ronna learn some new metric prefixes? They’re quetta upgrade](https://techcrunch.com/2022/11/22/ronna-learn-some-new-metric-prefixes-theyre-quetta-upgrade/)
-- [HyperloopTT’s SPAC public debut may be going nowhere fast](https://techcrunch.com/2022/11/22/hyperlooptts-spac-public-debut-may-be-going-nowhere-fast/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
