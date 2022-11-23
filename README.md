@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Get $85 off Celestron&#39;s Trailseeker 8x42 ED binoculars](https://www.space.com/save-85-dollars-celestron-trailseeker-8x42-ed-binoculars-black-friday-deal)
 - [Artemis 1 cubesat fails to fire engine as planned during moon flyby](https://www.space.com/artemis-1-cubesat-lunah-map-engine-burn-fails)
 - [4 ways to use e-commerce data to optimize LTV pre- and post-holiday](https://techcrunch.com/2022/11/23/4-ways-to-use-e-commerce-data-for-optimal-results-pre-and-post-holiday/)
 - [Lopsided star cluster may disprove Newton and Einstein, controversial new study claims](https://www.space.com/star-cluster-mond-disprove-newton)
 - [Juno spacecraft snaps gorgeous photo of Jupiter&#39;s atmosphere, 2 big moons](https://www.space.com/juno-jupiter-moons-io-callisto-photo)
-- [Delhivery hits all-time low, market cap falls below 2021 private valuation](https://techcrunch.com/2022/11/23/delhivery-hits-all-time-low-market-cap-falls-below-2021-private-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
