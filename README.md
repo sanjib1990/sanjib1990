@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hearing aids may be the surprise holiday gift category nobody saw coming](https://techcrunch.com/2022/11/23/otc-hearing-aids/)
-- [Quantum Space, US Space Force talk commercial ops in orbit at TC Sessions: Space](https://techcrunch.com/2022/11/23/quantum-space-us-space-force-talk-commercial-ops-in-orbit-at-tc-sessions-space/)
-- [Get Lego Star Wars: The Skywalker Saga from Amazon for a bricktastic $29.99](https://www.space.com/get-lego-star-wars-the-skywalker-saga-from-amazon-for-a-bricktastic-30-dollars)
-- [Meta’s VR remains under antitrust abuse watch in Germany](https://techcrunch.com/2022/11/23/meta-horizon-vr-antitrust-germany/)
-- [How to obtain FDA buy-in and unlock more funding for your health tech startup](https://techcrunch.com/2022/11/23/how-to-obtain-fda-buy-in-and-unlock-more-funding-for-your-healthtech-startup/)
+- [Mark Cuban-backed streaming app Fireside acquires Stremium to bring live, interactive shows to your TV](https://techcrunch.com/2022/11/23/mark-cuban-backed-streaming-app-fireside-acquires-stremium-to-bring-live-interactive-shows-to-your-tv/)
+- [Artemis 1&#39;s Orion spacecraft watches Earth rise over the shadowed moon &lpar;video&rpar;](https://www.space.com/artemis-1-orion-spacecraft-earth-rise-moon-video)
+- [Shadow launches cloud storage service Shadow Drive](https://techcrunch.com/2022/11/23/shadow-launches-cloud-storage-service-shadow-drive/)
+- [YouTube starts testing a quiz feature for community posts](https://techcrunch.com/2022/11/23/youtube-creators-quizzes-community-posts/)
+- [NASA loses contact with Artemis 1&#39;s Orion spacecraft for 47 minutes](https://www.space.com/nasa-loses-contact-artemis-1-orion)
 <!-- BLOG-POST-LIST:END -->
 
 ---
