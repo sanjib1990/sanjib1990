@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Artemis 1 cubesat fails to fire engine as planned during moon flyby](https://www.space.com/artemis-1-cubesat-lunah-map-engine-burn-fails)
+- [4 ways to use e-commerce data to optimize LTV pre- and post-holiday](https://techcrunch.com/2022/11/23/4-ways-to-use-e-commerce-data-for-optimal-results-pre-and-post-holiday/)
+- [Lopsided star cluster may disprove Newton and Einstein, controversial new study claims](https://www.space.com/star-cluster-mond-disprove-newton)
+- [Juno spacecraft snaps gorgeous photo of Jupiter&#39;s atmosphere, 2 big moons](https://www.space.com/juno-jupiter-moons-io-callisto-photo)
 - [Delhivery hits all-time low, market cap falls below 2021 private valuation](https://techcrunch.com/2022/11/23/delhivery-hits-all-time-low-market-cap-falls-below-2021-private-valuation/)
-- [More headaches for Apple in China as protests erupt at Foxconn](https://techcrunch.com/2022/11/23/headaches-apple-protestst-foxconn-china/)
-- [Tanzania’s YC alum Ramani raises $32M to digitize CPG supply chains, lend resellers](https://techcrunch.com/2022/11/23/tanzanias-yc-alum-ramani-raises-32m-to-digitize-cpg-supply-chains-lend-resellers/)
-- [Sequoia India’s Surge backs healthtech startup RedBrick AI in $4.6M funding](https://techcrunch.com/2022/11/22/redbrick-ai-sequoia-surge-funding/)
-- [Ukio, a premium apartment rental platform for Europe’s ‘flexible workforce,’ raises $28M](https://techcrunch.com/2022/11/22/ukio-a-short-term-apartment-rental-platform-for-the-flexible-workforce-raises-28m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
