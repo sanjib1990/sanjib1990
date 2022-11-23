@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [level up and learn to hack | top Black Friday deals](https://www.youtube.com/watch?v=tHBUxYGthYg)
 - [100+ JavaScript Concepts you Need to Know](https://www.youtube.com/watch?v=lkIFF4maKMU)
 - [50 macOS Tips and Tricks Using Terminal &lpar;the last one is CRAZY!&rpar;](https://www.youtube.com/watch?v=qOrlYzqXPa8)
 - [Lecture 14: Basic Hilbert Space Theory](https://www.youtube.com/watch?v=EBdgFFf54U0)
 - [Lecture 19: Compact Subsets of a Hilbert Space and Finite-Rank Operators](https://www.youtube.com/watch?v=PBMyBVPRtKA)
-- [Lecture 20: Compact Operators and the Spectrum of a Bounded Linear Operator on a Hilbert Space](https://www.youtube.com/watch?v=SFDMFbzCsH0)
 <!-- YOUTUBE:END -->
 
 ---
