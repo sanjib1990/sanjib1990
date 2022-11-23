@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s Perseverance rover opens a window to Mars&#39; watery past](https://www.space.com/mars-perseverance-rover-story-fire-water)
+- [FTX’s failure could be a stress test for corporate credit card startups](https://techcrunch.com/2022/11/23/ftxs-failure-could-be-a-stress-test-for-corporate-credit-card-startups/)
+- [Enter the virtual world at half price, with $300 off the HP Reverb G2 this Black Friday](https://www.space.com/enter-the-virtual-world-at-half-price-with-300-off-hp-reverb-g2-black-friday)
+- [A wave of late-stage startups quietly marked down their valuations in Q3](https://techcrunch.com/2022/11/23/a-wave-of-late-stage-startups-quietly-marked-down-their-valuations-in-q3/)
 - [Black Friday Deals live now: Telescopes, VR headsets, Lego and more](https://www.space.com/news/live/black-friday-deals-2022)
-- [Europe&#39;s new astronaut class features 2 women and a paralympian trauma surgeon](https://www.space.com/europe-announces-new-astronaut-class-november-2022)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [30% discount on Astronaut star projectors this Black Friday](https://www.space.com/astronaut-star-projector-black-friday-deal-save-30-percent)
-- [Artemis 1&#39;s Orion spacecraft watches Earth rise over the shadowed moon &lpar;video&rpar;](https://www.space.com/artemis-1-orion-spacecraft-earth-rise-moon-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
