@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s Perseverance rover opens a window to Mars&#39; watery past](https://www.space.com/mars-perseverance-rover-story-fire-water)
-- [FTX’s failure could be a stress test for corporate credit card startups](https://techcrunch.com/2022/11/23/ftxs-failure-could-be-a-stress-test-for-corporate-credit-card-startups/)
-- [Enter the virtual world at half price, with $300 off the HP Reverb G2 this Black Friday](https://www.space.com/enter-the-virtual-world-at-half-price-with-300-off-hp-reverb-g2-black-friday)
-- [A wave of late-stage startups quietly marked down their valuations in Q3](https://techcrunch.com/2022/11/23/a-wave-of-late-stage-startups-quietly-marked-down-their-valuations-in-q3/)
-- [Black Friday Deals live now: Telescopes, VR headsets, Lego and more](https://www.space.com/news/live/black-friday-deals-2022)
+- [Astronomer and solar eclipse expert Jay Pasachoff dies at age 79](https://www.space.com/solar-eclipse-expert-jay-pasachoff-obituary)
+- [Lyft, Redwood Materials partner to recycle shared e-bike and e-scooter batteries](https://techcrunch.com/2022/11/23/lyft-redwood-materials-partner-to-recycle-shared-e-bike-and-e-scooter-batteries/)
+- [College social app Fizz is growing fast – maybe too fast](https://techcrunch.com/2022/11/23/fizz-college-social-app-series-a/)
+- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates)
+- [Prepare for the holidays in a galaxy far, far away with 20% off the Lego Star Wars Advent Calendar](https://www.space.com/prepare-for-the-holidays-in-a-galaxy-far-far-away-with-20-percent-off-the-lego-star-wars-advent-calendar)
 <!-- BLOG-POST-LIST:END -->
 
 ---
