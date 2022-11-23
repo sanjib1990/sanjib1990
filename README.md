@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Good Night Oppy&#39; explores human side of robotic rover&#39;s life on Mars](https://www.space.com/good-night-oppy-movie-director-interview)
-- [Black Friday Deals live now: Telescopes, star projectors, Lego and more](https://www.space.com/news/live/black-friday-deals-2022)
-- [Save 30% on the Celestron Outland X 8x42 binoculars this Black Friday](https://www.space.com/celestron-outland-x-8x42-binoculars-black-friday-deal-2022)
-- [Celestron SkyMaster 15x70 binoculars, now less than $100 at Amazon](https://www.space.com/celestron-skymaster-15x70-binoculars-100-dollars-saving-black-friday-deal-2022)
-- [Acclaimed &#39;Andor&#39; costume designer Michael Wilkinson dishes on the look of Star Wars and more &lpar;exclusive&rpar;](https://www.space.com/star-wars-andor-costume-designer-michael-wilkinson-interview)
+- [How to obtain FDA buy-in and unlock more funding for your health tech startup](https://techcrunch.com/2022/11/23/how-to-obtain-fda-buy-in-and-unlock-more-funding-for-your-healthtech-startup/)
+- [Tech’s homogeneity problem](https://techcrunch.com/2022/11/23/homogenity-tech-layoffs/)
+- [This scorching &#39;super-Earth&#39; exoplanet is one of the most massive ever discovered](https://www.space.com/hulk-massive-super-earth-exoplanet-discovered)
+- [Save up to $230 on Anycubic 3D Printers, including the Photon M3 Max &amp; Mono X](https://www.space.com/save-up-to-230-dollars-on-anycubic-3d-printers-including-photon-m3-max)
+- [Hulu subscribers are now able to stream the first two episodes of ‘Andor’](https://techcrunch.com/2022/11/23/hulu-subscribers-stream-first-two-episodes-of-andor/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
