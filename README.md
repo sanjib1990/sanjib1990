@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Let’s talk about killer robots](https://techcrunch.com/2022/11/23/lets-talk-about-killer-robots/)
+- [Black Friday Deals live now: Telescopes, VR headsets, Lego and more](https://www.space.com/news/live/black-friday-deals-2022)
+- [Hulu Black Friday Deal - Get one year for just $1.99 per month](https://www.space.com/hulu-black-friday-deal-2022)
+- [Here’s what NASA’s Orion spacecraft is doing over Thanksgiving weekend](https://techcrunch.com/2022/11/23/heres-what-nasas-orion-spacecraft-is-doing-over-thanksgiving-weekend/)
+- [It’s time to talk about killer robots](https://techcrunch.com/2022/11/23/lets-talk-about-killer-robots/)
 - [South Korean financial regulator confirms it is reviewing Apple Pay service for launch](https://techcrunch.com/2022/11/23/south-korean-financial-regulator-confirms-it-is-reviewing-apple-pay-service-for-launch/)
-- [Bitcoin believers maintain view it could find institutional buy-in despite FTX chaos](https://techcrunch.com/2022/11/23/bitcoin-believers-maintain-view-it-could-find-institutional-buy-in-despite-ftx-chaos/)
-- [Mars rover documentary &#39;Good Night Oppy&#39; now streaming on Prime Video](https://www.space.com/good-night-oppy-mars-rover-documentary-now-streaming-prime-video-nov-23)
-- [NASA selects Rocket Lab to launch TROPICS satellites](https://techcrunch.com/2022/11/23/nasa-selects-rocket-lab-to-launch-tropics-satellites/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
