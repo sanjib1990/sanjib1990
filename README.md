@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Good Night Oppy&#39; explores human side of robotic rover&#39;s life on Mars](https://www.space.com/good-night-oppy-movie-director-interview)
+- [Black Friday Deals live now: Telescopes, star projectors, Lego and more](https://www.space.com/news/live/black-friday-deals-2022)
+- [Save 30% on the Celestron Outland X 8x42 binoculars this Black Friday](https://www.space.com/celestron-outland-x-8x42-binoculars-black-friday-deal-2022)
+- [Celestron SkyMaster 15x70 binoculars, now less than $100 at Amazon](https://www.space.com/celestron-skymaster-15x70-binoculars-100-dollars-saving-black-friday-deal-2022)
 - [Acclaimed &#39;Andor&#39; costume designer Michael Wilkinson dishes on the look of Star Wars and more &lpar;exclusive&rpar;](https://www.space.com/star-wars-andor-costume-designer-michael-wilkinson-interview)
-- [Harvey, which uses AI to answer legal questions, lands cash from OpenAI](https://techcrunch.com/2022/11/23/harvey-which-uses-ai-to-answer-legal-questions-lands-cash-from-openai/)
-- [Top 3 riskiest misconfigurations on the Salesforce platform](https://techcrunch.com/2022/11/23/top-3-riskiest-misconfigurations-on-the-salesforce-platform/)
-- [Save $100 on Lego&#39;s epic Star Wars UCS Millennium Falcon for the ultimate gift this Black Friday](https://www.space.com/lego-star-wars-ucs-millennium-falcon-black-friday-deal-2022)
-- [Sony A7R III is now $500 cheaper in this Black Friday deal](https://www.space.com/sony-a7r-iii-500-dollars-off-black-friday-deal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
