@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Mark Cuban-backed streaming app Fireside acquires Stremium to bring live, interactive shows to your TV](https://techcrunch.com/2022/11/23/mark-cuban-backed-streaming-app-fireside-acquires-stremium-to-bring-live-interactive-shows-to-your-tv/)
+- [Black Friday Deals live now: Telescopes, VR headsets, Lego and more](https://www.space.com/news/live/black-friday-deals-2022)
+- [Europe&#39;s new astronaut class features 2 women and a paralympian trauma surgeon](https://www.space.com/europe-announces-new-astronaut-class-november-2022)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [30% discount on Astronaut star projectors this Black Friday](https://www.space.com/astronaut-star-projector-black-friday-deal-save-30-percent)
 - [Artemis 1&#39;s Orion spacecraft watches Earth rise over the shadowed moon &lpar;video&rpar;](https://www.space.com/artemis-1-orion-spacecraft-earth-rise-moon-video)
-- [Shadow launches cloud storage service Shadow Drive](https://techcrunch.com/2022/11/23/shadow-launches-cloud-storage-service-shadow-drive/)
-- [YouTube starts testing a quiz feature for community posts](https://techcrunch.com/2022/11/23/youtube-creators-quizzes-community-posts/)
-- [NASA loses contact with Artemis 1&#39;s Orion spacecraft for 47 minutes](https://www.space.com/nasa-loses-contact-artemis-1-orion)
 <!-- BLOG-POST-LIST:END -->
 
 ---
