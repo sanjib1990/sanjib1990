@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Astronomer and solar eclipse expert Jay Pasachoff dies at age 79](https://www.space.com/solar-eclipse-expert-jay-pasachoff-obituary)
-- [Lyft, Redwood Materials partner to recycle shared e-bike and e-scooter batteries](https://techcrunch.com/2022/11/23/lyft-redwood-materials-partner-to-recycle-shared-e-bike-and-e-scooter-batteries/)
-- [College social app Fizz is growing fast – maybe too fast](https://techcrunch.com/2022/11/23/fizz-college-social-app-series-a/)
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates)
-- [Prepare for the holidays in a galaxy far, far away with 20% off the Lego Star Wars Advent Calendar](https://www.space.com/prepare-for-the-holidays-in-a-galaxy-far-far-away-with-20-percent-off-the-lego-star-wars-advent-calendar)
+- [Bitcoin believers maintain view it could find institutional buy-in despite FTX chaos](https://techcrunch.com/2022/11/23/bitcoin-believers-maintain-view-it-could-find-institutional-buy-in-despite-ftx-chaos/)
+- [Mars rover documentary &#39;Good Night Oppy&#39; now streaming on Prime Video](https://www.space.com/good-night-oppy-mars-rover-documentary-now-streaming-prime-video-nov-23)
+- [NASA selects Rocket Lab to launch TROPICS satellites](https://techcrunch.com/2022/11/23/nasa-selects-rocket-lab-to-launch-tropics-satellites/)
+- [Early Light Ventures plots a second, $15M fund for software ‘underdogs’](https://techcrunch.com/2022/11/23/early-light-ventures-second-15m-fund-saas-software-underdogs/)
+- [Black Friday Deals live now: Telescopes, VR headsets, Lego and more](https://www.space.com/news/live/black-friday-deals-2022)
 <!-- BLOG-POST-LIST:END -->
 
 ---
