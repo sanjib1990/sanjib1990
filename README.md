@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Get $85 off Celestron&#39;s Trailseeker 8x42 ED binoculars](https://www.space.com/save-85-dollars-celestron-trailseeker-8x42-ed-binoculars-black-friday-deal)
-- [Artemis 1 cubesat fails to fire engine as planned during moon flyby](https://www.space.com/artemis-1-cubesat-lunah-map-engine-burn-fails)
-- [4 ways to use e-commerce data to optimize LTV pre- and post-holiday](https://techcrunch.com/2022/11/23/4-ways-to-use-e-commerce-data-for-optimal-results-pre-and-post-holiday/)
-- [Lopsided star cluster may disprove Newton and Einstein, controversial new study claims](https://www.space.com/star-cluster-mond-disprove-newton)
-- [Juno spacecraft snaps gorgeous photo of Jupiter&#39;s atmosphere, 2 big moons](https://www.space.com/juno-jupiter-moons-io-callisto-photo)
+- [Acclaimed &#39;Andor&#39; costume designer Michael Wilkinson dishes on the look of Star Wars and more &lpar;exclusive&rpar;](https://www.space.com/star-wars-andor-costume-designer-michael-wilkinson-interview)
+- [Harvey, which uses AI to answer legal questions, lands cash from OpenAI](https://techcrunch.com/2022/11/23/harvey-which-uses-ai-to-answer-legal-questions-lands-cash-from-openai/)
+- [Top 3 riskiest misconfigurations on the Salesforce platform](https://techcrunch.com/2022/11/23/top-3-riskiest-misconfigurations-on-the-salesforce-platform/)
+- [Save $100 on Lego&#39;s epic Star Wars UCS Millennium Falcon for the ultimate gift this Black Friday](https://www.space.com/lego-star-wars-ucs-millennium-falcon-black-friday-deal-2022)
+- [Sony A7R III is now $500 cheaper in this Black Friday deal](https://www.space.com/sony-a7r-iii-500-dollars-off-black-friday-deal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
