@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Anne Hathaway backs Pact, an all-women led VC for mission-driven startups, from West to East](https://techcrunch.com/2022/11/24/anne-hathaway-backs-pact-an-all-women-led-vc-for-mission-driven-startups-from-west-to-east/)
+- [Atoa helps UK merchants cut down on card processing fees](https://techcrunch.com/2022/11/24/atoa-helps-uk-merchants-cut-down-on-card-processing-fees/)
 - [Consumer finance app Djamo eyes Francophone Africa expansion, backed by new $14M round](https://techcrunch.com/2022/11/23/consumer-finance-app-djamo-eyes-francophone-africa-expansion-backed-by-new-14m-round/)
 - [Amazon to shut down its online learning platform in India](https://techcrunch.com/2022/11/23/amazon-academy-education-india-shut-down/)
 - [Female Invest acquires sustainability-focused investment platform Gaia Investments](https://techcrunch.com/2022/11/23/female-invest-acquires-sustainability-focused-investment-platform-gaia-investments/)
-- [Amazon is working on a TV series about FTX drama with Russo Brothers](https://techcrunch.com/2022/11/23/amazon-is-working-on-a-tv-series-about-ftx-drama-with-russo-brothers/)
-- [Google Cloud partners with Indian startup SuperGaming to offer gaming engine to developers](https://techcrunch.com/2022/11/23/google-cloud-supergaming-partnership/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
