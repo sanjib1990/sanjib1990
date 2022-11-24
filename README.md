@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India’s AIIMS hit by outages after cyberattack](https://techcrunch.com/2022/11/24/india-aiims-outages-cyberattack/)
+- [This is the way... to get Lego Mandalorian sets for 20% off during Black Friday](https://www.space.com/get-two-fantastic-the-mandalorian-lego-star-wars-sets-for-20-off-at-best-buy)
 - [$50 discount on the Encalife ENTE501P refractor telescope](https://www.space.com/50-dollar-discount-encalife-ente501p-black-friday-telescope-deal-2022)
 - [Watch fiery separation of NASA&#39;s moon rocket boosters](https://www.space.com/nasa-moon-rocket-sheds-boosters-video)
 - [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [Canon 10x32 IS image stabilized binoculars now $200 off](https://www.space.com/canon-10x32-is-binoculars-200-saving-black-friday-deals-2022)
-- [Europe&#39;s record-breaking space budget to save beleaguered ExoMars rover](https://www.space.com/europe-space-budget-record-exomars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
