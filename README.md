@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bessemer, Playground, Root and Seraphim VCs will judge the TC Sessions: Space Pitch-off](https://techcrunch.com/2022/11/24/bessemer-playground-root-and-seraphim-vcs-will-judge-the-tc-sessions-space-pitch-off/)
+- [Can FTX’s bankruptcy bring order to its chaos?](https://techcrunch.com/2022/11/24/can-ftxs-bankruptcy-bring-order-and-justice-to-its-users/)
+- [Celestron PowerSeeker 50 AZ now under $50 for Black Friday](https://www.space.com/celestron-powerseeker-save-22-percent-black-friday-deal)
+- [Automating the income gap](https://techcrunch.com/2022/11/24/automating-the-income-gap/)
 - [India’s AIIMS hit by outages after cyberattack](https://techcrunch.com/2022/11/24/india-aiims-outages-cyberattack/)
-- [This is the way... to get Lego Mandalorian sets for 20% off during Black Friday](https://www.space.com/get-two-fantastic-the-mandalorian-lego-star-wars-sets-for-20-off-at-best-buy)
-- [$50 discount on the Encalife ENTE501P refractor telescope](https://www.space.com/50-dollar-discount-encalife-ente501p-black-friday-telescope-deal-2022)
-- [Watch fiery separation of NASA&#39;s moon rocket boosters](https://www.space.com/nasa-moon-rocket-sheds-boosters-video)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
