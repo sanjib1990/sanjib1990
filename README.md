@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Paramount Plus is just $2 a month for Black Friday if you sign up for a year](https://www.space.com/paramount-plus-black-friday-deal-2022)
+- [Dat Bike gets another $8M to put more e-bikes on Vietnam’s roads](https://techcrunch.com/2022/11/23/dat-bike-gets-another-8m-to-put-more-e-bikes-on-vietnams-roads/)
+- [Daily Crunch: Vulnerable component in IoT devices poses ‘supply chain risk,’ Microsoft says](https://techcrunch.com/2022/11/23/vulnerable-component-in-iot-devices-poses-supply-chain-risk-microsoft-says/)
 - [Black Friday Deals live now: Telescopes, VR headsets, Lego and more](https://www.space.com/news/live/black-friday-deals-2022)
 - [Hulu Black Friday Deal - Get one year for just $1.99 per month](https://www.space.com/hulu-black-friday-deal-2022)
-- [Here’s what NASA’s Orion spacecraft is doing over Thanksgiving weekend](https://techcrunch.com/2022/11/23/heres-what-nasas-orion-spacecraft-is-doing-over-thanksgiving-weekend/)
-- [It’s time to talk about killer robots](https://techcrunch.com/2022/11/23/lets-talk-about-killer-robots/)
-- [South Korean financial regulator confirms it is reviewing Apple Pay service for launch](https://techcrunch.com/2022/11/23/south-korean-financial-regulator-confirms-it-is-reviewing-apple-pay-service-for-launch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
