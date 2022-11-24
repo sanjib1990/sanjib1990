@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pivo powers up Nigerian freight carriers with a bespoke digital bank, gets $2M seed funding](https://techcrunch.com/2022/11/24/pivo-powers-up-nigerian-freight-carriers-with-a-bespoke-digital-bank-gets-2m-seed-funding/)
+- [Watch Europe&#39;s Vega C rocket launch 2nd-ever mission Thursday night](https://www.space.com/europe-vega-c-rocket-launch-november-2022)
+- [Become a superhero with this Black Friday PlayStation VR deal](https://www.space.com/become-a-superhero-with-black-friday-psvr-deal)
 - [Tesla extends FSD access to “anyone in North America who requests it”](https://techcrunch.com/2022/11/24/tesla-extends-fsd-access-to-anyone-in-north-america-who-requests-it/)
 - [Anne Hathaway backs Pact, an all-women led VC for mission-driven startups, from West to East](https://techcrunch.com/2022/11/24/anne-hathaway-backs-pact-an-all-women-led-vc-for-mission-driven-startups-from-west-to-east/)
-- [Atoa helps UK merchants cut down on card processing fees](https://techcrunch.com/2022/11/24/atoa-helps-uk-merchants-cut-down-on-card-processing-fees/)
-- [Consumer finance app Djamo eyes Francophone Africa expansion, backed by new $14M round](https://techcrunch.com/2022/11/23/consumer-finance-app-djamo-eyes-francophone-africa-expansion-backed-by-new-14m-round/)
-- [Amazon to shut down its online learning platform in India](https://techcrunch.com/2022/11/23/amazon-academy-education-india-shut-down/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
