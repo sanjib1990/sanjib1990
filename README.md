@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [LinkedIn’s rolling out a new feature that lets you schedule posts for later](https://techcrunch.com/2022/11/24/linkedins-rolling-out-a-new-feature-that-lets-you-schedule-posts-for-later/)
+- [Save over $100 on an entry-level Celestron 100AZ telescope](https://www.space.com/save-100-dollars-celestron-inspire-100az-telescope-black-friday-deal-2022)
+- [Black Friday Deal: 20% off the Celestron PowerSeeker 70 AZ](https://www.space.com/celestron-powerseeker-70az-black-friday-save-20-percent)
+- [The Lego Galaxy Explorer set is now a stellar 50% off for Black Friday](https://www.space.com/the-lego-galaxy-explorer-set-is-50-percent-off-for-black-friday)
 - [Pivo powers up Nigerian freight carriers with a bespoke digital bank, gets $2M seed funding](https://techcrunch.com/2022/11/24/pivo-powers-up-nigerian-freight-carriers-with-a-bespoke-digital-bank-gets-2m-seed-funding/)
-- [Watch Europe&#39;s Vega C rocket launch 2nd-ever mission Thursday night](https://www.space.com/europe-vega-c-rocket-launch-november-2022)
-- [Become a superhero with this Black Friday PlayStation VR deal](https://www.space.com/become-a-superhero-with-black-friday-psvr-deal)
-- [Tesla extends FSD access to “anyone in North America who requests it”](https://techcrunch.com/2022/11/24/tesla-extends-fsd-access-to-anyone-in-north-america-who-requests-it/)
-- [Anne Hathaway backs Pact, an all-women led VC for mission-driven startups, from West to East](https://techcrunch.com/2022/11/24/anne-hathaway-backs-pact-an-all-women-led-vc-for-mission-driven-startups-from-west-to-east/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
