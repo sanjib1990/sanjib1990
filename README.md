@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [What is dark energy?](https://www.space.com/dark-energy-what-is-it)
-- [25% off the Nikon ProStaff 3S binoculars for Black Friday](https://www.space.com/25-percent-off-nikon-prostaff-3s-black-friday-binocular-deal-2022)
-- [Which 3D printer should you buy this Black Friday?](https://www.space.com/which-3d-printer-should-you-buy)
-- [Save $80 on the Celestron StarSense Explorer DX130 telescope](https://www.space.com/celestron-starsense-explorer-dx130-save-80-black-friday-2022)
-- [Gobble, gobble! Satellite spies Thanksgiving turkeys being &#39;pardoned&#39; at White House &lpar;photos&rpar;](https://www.space.com/thanksgiving-turkey-white-house-satellite-photo)
+- [There&#39;s a massive $800 Black Friday reduction on the medium-format Fujifilm GFX50S II](https://www.space.com/news/theres-a-massive-dollar800-black-friday-reduction-on-the-medium-format-fujifilm-gfx50s-ii)
+- [The brightest stars in the sky: A guide](https://www.space.com/brightest-stars-in-the-sky)
+- [Save over $240 on Anycubic FDM printers in Walmart&#39;s Black Friday sale](https://www.space.com/save-over-240-dollars-on-anycubic-fdm-printers-in-walmart-black-friday-sale)
+- [Netflix is working on ‘brand-new AAA PC game’ based on job listings](https://techcrunch.com/2022/11/24/netflix-is-working-on-brand-new-aaa-pc-game-based-on-job-listings/)
+- [The Olympus OM-D E-M1X camera is $1200 off this Black Friday](https://www.space.com/olympus-om-d-e-m1x-camera-black-friday-deal-save-1200-dollars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
