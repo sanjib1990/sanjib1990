@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Europe&#39;s record-breaking space budget to save beleaguered ExoMars rover](https://www.space.com/europe-space-budget-record-exomars)
+- [3 views: How wrong were our 2022 startup predictions?](https://techcrunch.com/2022/11/24/3-views-heres-what-our-2022-startup-theses-got-wrong/)
+- [US Naval Academy unveils NASA-inspired football uniforms ahead of Army-Navy game](https://www.space.com/nasa-uniforms-naval-academy-army-navy-game-2022)
+- [Get your sci-fi fix with HBO Max at $1.99 a month for three months](https://www.space.com/get-your-sci-fi-fix-with-hbo-max-at-199-a-month-for-three-months)
 - [There&#39;s a massive $800 Black Friday reduction on the medium-format Fujifilm GFX50S II](https://www.space.com/news/theres-a-massive-dollar800-black-friday-reduction-on-the-medium-format-fujifilm-gfx50s-ii)
-- [The brightest stars in the sky: A guide](https://www.space.com/brightest-stars-in-the-sky)
-- [Save over $240 on Anycubic FDM printers in Walmart&#39;s Black Friday sale](https://www.space.com/save-over-240-dollars-on-anycubic-fdm-printers-in-walmart-black-friday-sale)
-- [Netflix is working on ‘brand-new AAA PC game’ based on job listings](https://techcrunch.com/2022/11/24/netflix-is-working-on-brand-new-aaa-pc-game-based-on-job-listings/)
-- [The Olympus OM-D E-M1X camera is $1200 off this Black Friday](https://www.space.com/olympus-om-d-e-m1x-camera-black-friday-deal-save-1200-dollars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
