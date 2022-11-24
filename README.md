@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [$50 discount on the Encalife ENTE501P refractor telescope](https://www.space.com/50-dollar-discount-encalife-ente501p-black-friday-telescope-deal-2022)
+- [Watch fiery separation of NASA&#39;s moon rocket boosters](https://www.space.com/nasa-moon-rocket-sheds-boosters-video)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [Canon 10x32 IS image stabilized binoculars now $200 off](https://www.space.com/canon-10x32-is-binoculars-200-saving-black-friday-deals-2022)
 - [Europe&#39;s record-breaking space budget to save beleaguered ExoMars rover](https://www.space.com/europe-space-budget-record-exomars)
-- [3 views: How wrong were our 2022 startup predictions?](https://techcrunch.com/2022/11/24/3-views-heres-what-our-2022-startup-theses-got-wrong/)
-- [US Naval Academy unveils NASA-inspired football uniforms ahead of Army-Navy game](https://www.space.com/nasa-uniforms-naval-academy-army-navy-game-2022)
-- [Get your sci-fi fix with HBO Max at $1.99 a month for three months](https://www.space.com/get-your-sci-fi-fix-with-hbo-max-at-199-a-month-for-three-months)
-- [There&#39;s a massive $800 Black Friday reduction on the medium-format Fujifilm GFX50S II](https://www.space.com/news/theres-a-massive-dollar800-black-friday-reduction-on-the-medium-format-fujifilm-gfx50s-ii)
 <!-- BLOG-POST-LIST:END -->
 
 ---
