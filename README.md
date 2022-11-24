@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [US authorities seize iSpoof, a call spoofing site that stole millions](https://techcrunch.com/2022/11/24/ispoof-seized/)
-- [Thanksgiving space festivities come from &#39;the future,&#39; astronauts say](https://www.space.com/international-space-station-thanksgiving-festivities-2022)
-- [Is this the Nikon Z6 II&#39;s lowest-ever price?](https://www.space.com/nikon-z6-ii-save-300-black-friday-deal-2022)
-- [LinkedIn’s new feature lets you schedule posts for later](https://techcrunch.com/2022/11/24/linkedins-rolling-out-a-new-feature-that-lets-you-schedule-posts-for-later/)
-- [Save over $100 on an entry-level Celestron 100AZ telescope](https://www.space.com/save-100-dollars-celestron-inspire-100az-telescope-black-friday-deal-2022)
+- [Gobble, gobble! Satellite spies Thanksgiving turkeys being &#39;pardoned&#39; at White House &lpar;photos&rpar;](https://www.space.com/thanksgiving-turkey-white-house-satellite-photo)
+- [NASA&#39;s Artemis 1 launched a solar sail cubesat to an asteroid. It may be in trouble.](https://www.space.com/artemis-1-cubesat-nea-scout-asteroid-silent)
+- [Surveillance powers in UK’s Online Safety Bill are risk to E2EE, warns legal expert](https://techcrunch.com/2022/11/24/uk-online-safety-bill-css-e2ee/)
+- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates)
+- [Save $340 on Nikon 200-500mm f/5.6E lens: Black Friday deal](https://www.space.com/nikon-af-s-200-500mm-340-dollars-off-black-friday-deal-2022)
 <!-- BLOG-POST-LIST:END -->
 
 ---
