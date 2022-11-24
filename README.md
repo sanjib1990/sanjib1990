@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [73% discount on Astronaut star projectors this Black Friday](https://www.space.com/astronaut-star-projector-black-friday-deal-save-30-percent)
+- [Stellantis to restructure European dealer network in July 2023](https://techcrunch.com/2022/11/24/stellantis-to-restructure-european-dealer-network-in-july-2023/)
+- [10 best Black Friday telescope deals we&#39;ve seen so far 2022](https://www.space.com/10-best-black-friday-telescope-deals-2022)
 - [Bessemer, Playground, Root and Seraphim VCs will judge the TC Sessions: Space Pitch-off](https://techcrunch.com/2022/11/24/bessemer-playground-root-and-seraphim-vcs-will-judge-the-tc-sessions-space-pitch-off/)
 - [Can FTX’s bankruptcy bring order to its chaos?](https://techcrunch.com/2022/11/24/can-ftxs-bankruptcy-bring-order-and-justice-to-its-users/)
-- [Celestron PowerSeeker 50 AZ now under $50 for Black Friday](https://www.space.com/celestron-powerseeker-save-22-percent-black-friday-deal)
-- [Automating the income gap](https://techcrunch.com/2022/11/24/automating-the-income-gap/)
-- [India’s AIIMS hit by outages after cyberattack](https://techcrunch.com/2022/11/24/india-aiims-outages-cyberattack/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
