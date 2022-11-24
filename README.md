@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [LinkedIn’s rolling out a new feature that lets you schedule posts for later](https://techcrunch.com/2022/11/24/linkedins-rolling-out-a-new-feature-that-lets-you-schedule-posts-for-later/)
+- [US authorities seize iSpoof, a call spoofing site that stole millions](https://techcrunch.com/2022/11/24/ispoof-seized/)
+- [Thanksgiving space festivities come from &#39;the future,&#39; astronauts say](https://www.space.com/international-space-station-thanksgiving-festivities-2022)
+- [Is this the Nikon Z6 II&#39;s lowest-ever price?](https://www.space.com/nikon-z6-ii-save-300-black-friday-deal-2022)
+- [LinkedIn’s new feature lets you schedule posts for later](https://techcrunch.com/2022/11/24/linkedins-rolling-out-a-new-feature-that-lets-you-schedule-posts-for-later/)
 - [Save over $100 on an entry-level Celestron 100AZ telescope](https://www.space.com/save-100-dollars-celestron-inspire-100az-telescope-black-friday-deal-2022)
-- [Black Friday Deal: 20% off the Celestron PowerSeeker 70 AZ](https://www.space.com/celestron-powerseeker-70az-black-friday-save-20-percent)
-- [The Lego Galaxy Explorer set is now a stellar 50% off for Black Friday](https://www.space.com/the-lego-galaxy-explorer-set-is-50-percent-off-for-black-friday)
-- [Pivo powers up Nigerian freight carriers with a bespoke digital bank, gets $2M seed funding](https://techcrunch.com/2022/11/24/pivo-powers-up-nigerian-freight-carriers-with-a-bespoke-digital-bank-gets-2m-seed-funding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
