@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What it would mean for Tesla to buy back shares](https://techcrunch.com/2022/11/23/what-it-would-mean-for-tesla-to-buy-back-shares/)
 - [Obrizum uses AI to build employee training modules out of existing content](https://techcrunch.com/2022/11/23/obrizum-uses-ai-to-build-employee-training-modules-out-of-existing-content/)
 - [Paramount Plus is just $2 a month for Black Friday if you sign up for a year](https://www.space.com/paramount-plus-black-friday-deal-2022)
 - [Dat Bike gets another $8M to put more e-bikes on Vietnam’s roads](https://techcrunch.com/2022/11/23/dat-bike-gets-another-8m-to-put-more-e-bikes-on-vietnams-roads/)
 - [Daily Crunch: Vulnerable component in IoT devices poses ‘supply chain risk,’ Microsoft says](https://techcrunch.com/2022/11/23/vulnerable-component-in-iot-devices-poses-supply-chain-risk-microsoft-says/)
-- [Black Friday Deals live now: Telescopes, VR headsets, Lego and more](https://www.space.com/news/live/black-friday-deals-2022)
 <!-- BLOG-POST-LIST:END -->
 
 ---
