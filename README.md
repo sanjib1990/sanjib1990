@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is dark energy?](https://www.space.com/dark-energy-what-is-it)
+- [25% off the Nikon ProStaff 3S binoculars for Black Friday](https://www.space.com/25-percent-off-nikon-prostaff-3s-black-friday-binocular-deal-2022)
+- [Which 3D printer should you buy this Black Friday?](https://www.space.com/which-3d-printer-should-you-buy)
+- [Save $80 on the Celestron StarSense Explorer DX130 telescope](https://www.space.com/celestron-starsense-explorer-dx130-save-80-black-friday-2022)
 - [Gobble, gobble! Satellite spies Thanksgiving turkeys being &#39;pardoned&#39; at White House &lpar;photos&rpar;](https://www.space.com/thanksgiving-turkey-white-house-satellite-photo)
-- [NASA&#39;s Artemis 1 launched a solar sail cubesat to an asteroid. It may be in trouble.](https://www.space.com/artemis-1-cubesat-nea-scout-asteroid-silent)
-- [Surveillance powers in UK’s Online Safety Bill are risk to E2EE, warns legal expert](https://techcrunch.com/2022/11/24/uk-online-safety-bill-css-e2ee/)
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates)
-- [Save $340 on Nikon 200-500mm f/5.6E lens: Black Friday deal](https://www.space.com/nikon-af-s-200-500mm-340-dollars-off-black-friday-deal-2022)
 <!-- BLOG-POST-LIST:END -->
 
 ---
