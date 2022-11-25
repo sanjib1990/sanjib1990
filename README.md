@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Meet 5 startups working to harness the Earth’s heat to save the planet](https://techcrunch.com/2022/11/25/meet-5-startups-working-to-harness-the-earths-heat-to-save-the-planet/)
-- [Get these free rewards from Lego&#39;s Black Friday sale while shopping for Star Wars deals](https://www.space.com/lego-vip-star-wars-black-friday-deals)
-- [Has the FTX mess iced venture interest in crypto?](https://techcrunch.com/2022/11/25/has-the-ftx-mess-iced-venture-interest-in-crypto/)
-- [Save up to $170 on Elegoo Saturn models with these Black Friday 3D printer deals](https://www.space.com/save-up-to-170-on-these-fantastic-elegoo-3d-resin-printers)
-- [Binance launches proof-of-reserves system for BTC holdings](https://techcrunch.com/2022/11/25/binance-launches-proof-of-reserves-system-for-btc-holdings/)
+- [Crimson Dawn&#39;s Lady Qi&#39;ra slays the Sith in Marvel Comics&#39; &#39;Star Wars: Hidden Empire&#39;](https://www.space.com/star-wars-hidden-empire-comics)
+- [Pitch Deck Teardown: Juro’s $23M Series B deck](https://techcrunch.com/2022/11/25/sample-series-b-pitch-deck-juro/)
+- [Mars helicopter Ingenuity aces 1st flight after major software update](https://www.space.com/ingenuity-mars-helicopter-flight-34-new-software)
+- [SpaceX to launch Japanese moon lander, UAE rover on Nov. 30](https://www.space.com/ispace-japanese-moon-landing-launch-november-28)
+- [Save $200 on the Canon EOS R6 camera this Black Friday](https://www.space.com/black-friday-canon-eos-r6-deal-save-200-dollars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
