@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meet 5 startups working to harness the Earth’s heat to save the planet](https://techcrunch.com/2022/11/25/meet-5-startups-working-to-harness-the-earths-heat-to-save-the-planet/)
+- [Get these free rewards from Lego&#39;s Black Friday sale while shopping for Star Wars deals](https://www.space.com/lego-vip-star-wars-black-friday-deals)
 - [Has the FTX mess iced venture interest in crypto?](https://techcrunch.com/2022/11/25/has-the-ftx-mess-iced-venture-interest-in-crypto/)
 - [Save up to $170 on Elegoo Saturn models with these Black Friday 3D printer deals](https://www.space.com/save-up-to-170-on-these-fantastic-elegoo-3d-resin-printers)
 - [Binance launches proof-of-reserves system for BTC holdings](https://techcrunch.com/2022/11/25/binance-launches-proof-of-reserves-system-for-btc-holdings/)
-- [Failed spacesuit pump aborts planned Russian spacewalk at space station](https://www.space.com/russian-spacewalk-aborted-spacesuit-problem-november-2022)
-- [Crush the Decepticons with $30 off this Lego Optimus Prime set](https://www.space.com/crush-the-decepticons-with-30-off-this-lego-optimus-prime-kit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
