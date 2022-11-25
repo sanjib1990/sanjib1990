@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Should you buy the DJI Mavic Mini 2 in the Black Friday sale?](https://www.space.com/should-you-buy-the-dji-mavic-mini-2)
-- [Gaze into the heavens with this Celestron Black Friday deal](https://www.space.com/gaze-into-the-heavens-celestron-black-friday-telescope-deal-2022)
-- [Finish the fight with this Black Friday Nerf Halo MA40 blaster deal](https://www.space.com/finish-the-fight-with-this-black-friday-nerf-halo-blaster-deal)
-- [Peacock Black Friday deal: Get Peacock for just $1 per month for a full year](https://www.space.com/save-80-percent-on-peacock-yearly-subscription-this-black-friday)
-- [UK to criminalize deepfake porn sharing without consent](https://techcrunch.com/2022/11/25/deepfake-porn-revenge-porn-uk-law-change/)
+- [$50 off the Canon 8x20IS binoculars plus a free gift](https://www.space.com/canon-8x20is-binoculars-50-off-free-harness-black-friday-deal-2022)
+- [How to run data on Kubernetes: 6 starting principles](https://techcrunch.com/2022/11/25/how-to-run-data-on-kubernetes-6-starting-principles/)
+- [Thanksgiving 2022 online sales pip past forecasts at $5.3B, up 2.8% on last year, mobile accounted for 55% of all purchases](https://techcrunch.com/2022/11/25/thanksgiving-online-sales-figures/)
+- [Be like Gmail? Proton Mail will soon offer email categorization, message scheduling, and more](https://techcrunch.com/2022/11/25/proton-mail-will-soon-be-more-like-gmail-with-email-categorization-message-scheduling-and-more/)
+- [Save up to $220 on the DJI Mini 3 Pro &amp; FPV drones in Black Friday DJI drone deals](https://www.space.com/save-up-to-220-dollars-on-dji-mini-3-pro-and-fpv-drones-in-black-friday-dji-drone-deals)
 <!-- BLOG-POST-LIST:END -->
 
 ---
