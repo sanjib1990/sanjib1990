@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Musk says Twitter will offer “amnesty” to suspended accounts](https://techcrunch.com/2022/11/24/musk-says-twitter-will-offer-amnesty-to-suspended-accounts/)
 - [Completely transform a room for less than $20: The perfect gift for space lovers](https://www.space.com/blisslights-sky-lite-star-projector-save-60-black-friday-deals-2022)
 - [Twitter layoffs trigger oversight risk warning from Brussels](https://techcrunch.com/2022/11/24/elon-musk-twitter-layoffs-eu-dsa-vlop-warning/)
 - [73% discount on Astronaut star projectors this Black Friday](https://www.space.com/astronaut-star-projector-black-friday-deal-save-30-percent)
 - [Stellantis to restructure European dealer network in July 2023](https://techcrunch.com/2022/11/24/stellantis-to-restructure-european-dealer-network-in-july-2023/)
-- [10 best Black Friday telescope deals we&#39;ve seen so far 2022](https://www.space.com/10-best-black-friday-telescope-deals-2022)
 <!-- BLOG-POST-LIST:END -->
 
 ---
