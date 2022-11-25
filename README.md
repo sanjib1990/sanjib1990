@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Crimson Dawn&#39;s Lady Qi&#39;ra slays the Sith in Marvel Comics&#39; &#39;Star Wars: Hidden Empire&#39;](https://www.space.com/star-wars-hidden-empire-comics)
-- [Pitch Deck Teardown: Juro’s $23M Series B deck](https://techcrunch.com/2022/11/25/sample-series-b-pitch-deck-juro/)
-- [Mars helicopter Ingenuity aces 1st flight after major software update](https://www.space.com/ingenuity-mars-helicopter-flight-34-new-software)
-- [SpaceX to launch Japanese moon lander, UAE rover on Nov. 30](https://www.space.com/ispace-japanese-moon-landing-launch-november-28)
-- [Save $200 on the Canon EOS R6 camera this Black Friday](https://www.space.com/black-friday-canon-eos-r6-deal-save-200-dollars)
+- [$400 off the Nikon Z7 II this Black Friday](https://www.space.com/nikon-z7-ii-save-400-black-friday-camera-deal-2022)
+- [Artemis 1 flies away from the launch pad in epic Orion spacecraft video](https://www.space.com/artemis-1-rocket-camera-launch-videos)
+- [Watch Indian rocket launch ocean-studying satellite early Saturday](https://www.space.com/india-pslv-rocket-launch-eos-6-satellite)
+- [Canon RF 15-35mm f/2.8L IS USM lens now reduced to under $2000 this Black Friday](https://www.space.com/canon-rf-15-35mm-lens-save-400-black-friday-deal-2022)
+- [Save over $500 on the Panasonic Lumix GH6 with this Black Friday deal](https://www.space.com/panasonic-lumix-gh6-black-friday-deal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
