@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [China tests novel &#39;lobster eye&#39; X-ray telescope for observing cosmic events](https://www.space.com/china-lobster-eye-x-ray-telescope-1st-images)
+- [Peacock Black Friday deal: Get Peacock for just $1 per month for a full year](https://www.space.com/save-80-percent-on-peacock-yearly-subscription-this-black-friday)
+- [UK to criminalize deepfake porn sharing without consent](https://techcrunch.com/2022/11/25/deepfake-porn-revenge-porn-uk-law-change/)
 - [Watch Artemis 1&#39;s Orion spacecraft enter lunar orbit Friday](https://www.space.com/artemis-1-orion-arrive-orbit-moon)
+- [China tests novel &#39;lobster eye&#39; X-ray telescope for observing cosmic events](https://www.space.com/china-lobster-eye-x-ray-telescope-1st-images)
 - [Dance off, bro! Save 20% on these two Lego Guardians of the Galaxy sets this Black Friday](https://www.space.com/lego-marvel-black-friday-deals-2022-guardians-of-the-galaxy)
-- [Elon Musk says Twitter’s new multicoloured verification will launch next week](https://techcrunch.com/2022/11/25/elon-musk-says-twitters-new-multicoloured-verification-will-launch-next-week/)
-- [A new wave of Solo GP VCs is coming to Europe and Hypernova hopes to power it](https://techcrunch.com/2022/11/25/a-new-wave-of-solo-gp-vcs-is-coming-to-europe-and-hypernova-hopes-to-power-it/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
