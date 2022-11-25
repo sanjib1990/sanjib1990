@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [South Africa’s Revio allows businesses to connect to multiple payment methods and reduce failures](https://techcrunch.com/2022/11/25/revio-allows-african-businesses-to-connect-to-multiple-payment-methods-and-reduce-payment-failures/)
 - [WeWork China’s former tech head introduces on-demand work pods for mental health](https://techcrunch.com/2022/11/24/wework-chinas-former-tech-head-launches-on-demand-work-pods/)
 - [Musk says Twitter will offer “amnesty” to suspended accounts](https://techcrunch.com/2022/11/24/musk-says-twitter-will-offer-amnesty-to-suspended-accounts/)
 - [Completely transform a room for less than $20: The perfect gift for space lovers](https://www.space.com/blisslights-sky-lite-star-projector-save-60-black-friday-deals-2022)
 - [Twitter layoffs trigger oversight risk warning from Brussels](https://techcrunch.com/2022/11/24/elon-musk-twitter-layoffs-eu-dsa-vlop-warning/)
-- [73% discount on Astronaut star projectors this Black Friday](https://www.space.com/astronaut-star-projector-black-friday-deal-save-30-percent)
 <!-- BLOG-POST-LIST:END -->
 
 ---
