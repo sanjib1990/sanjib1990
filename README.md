@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Has the FTX mess iced venture interest in crypto?](https://techcrunch.com/2022/11/25/has-the-ftx-mess-iced-venture-interest-in-crypto/)
+- [Save up to $170 on Elegoo Saturn models with these Black Friday 3D printer deals](https://www.space.com/save-up-to-170-on-these-fantastic-elegoo-3d-resin-printers)
+- [Binance launches proof-of-reserves system for BTC holdings](https://techcrunch.com/2022/11/25/binance-launches-proof-of-reserves-system-for-btc-holdings/)
 - [Failed spacesuit pump aborts planned Russian spacewalk at space station](https://www.space.com/russian-spacewalk-aborted-spacesuit-problem-november-2022)
 - [Crush the Decepticons with $30 off this Lego Optimus Prime set](https://www.space.com/crush-the-decepticons-with-30-off-this-lego-optimus-prime-kit)
-- [Celestron Travel Scope 70 now under $100 for Black Friday](https://www.space.com/celestron-travel-scope-70-under-100-black-friday-2022)
-- [Save 30% on the Mandalorian&#39;s iconic Razor Crest Lego set this Black Friday](https://www.space.com/save-30-percent-on-the-mandalorians-razor-crest-lego-set-this-black-friday)
-- [Amazon to shut down food delivery business in India](https://techcrunch.com/2022/11/25/amazon-to-shut-down-food-delivery-business-in-india/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
