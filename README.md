@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Elon Musk says Twitter’s new multicoloured verification will launch next week](https://techcrunch.com/2022/11/25/elon-musk-says-twitters-new-multicoloured-verification-will-launch-next-week/)
 - [A new wave of Solo GP VCs is coming to Europe and Hypernova hopes to power it](https://techcrunch.com/2022/11/25/a-new-wave-of-solo-gp-vcs-is-coming-to-europe-and-hypernova-hopes-to-power-it/)
 - [Black Friday Deals live now: Telescopes, VR headsets, Lego and more](https://www.space.com/news/live/black-friday-deals-2022)
 - [South Africa’s Revio allows businesses to connect to multiple payment methods and reduce failures](https://techcrunch.com/2022/11/25/revio-allows-african-businesses-to-connect-to-multiple-payment-methods-and-reduce-payment-failures/)
 - [WeWork China’s former tech head introduces on-demand work pods for mental health](https://techcrunch.com/2022/11/24/wework-chinas-former-tech-head-launches-on-demand-work-pods/)
-- [Musk says Twitter will offer “amnesty” to suspended accounts](https://techcrunch.com/2022/11/24/musk-says-twitter-will-offer-amnesty-to-suspended-accounts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
