@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Save a massive $760 Black Friday off this Autel EVO II V2 Pro drone bundle](https://www.space.com/save-a-massive-760-dollars-off-this-autel-evo-ii-v2-drone-bundle)
-- [Beam up the Playmobil Star Trek USS Enterprise and save over $150 for Black Friday](https://www.space.com/playmobil-star-trek-uss-enterprise-black-friday-deal)
-- [40% off the 3 Legged Thing Punks Corey tripod](https://www.space.com/3-legged-thing-punks-corey-tripod-40-percent-off-black-friday-deal-2022)
-- [$400 off the Nikon Z7 II this Black Friday](https://www.space.com/nikon-z7-ii-save-400-black-friday-camera-deal-2022)
-- [Artemis 1 flies away from the launch pad in epic Orion spacecraft video](https://www.space.com/artemis-1-rocket-camera-launch-videos)
+- [Black Friday Deals live now: Telescopes, VR headsets, Lego and more](https://www.space.com/news/live/black-friday-deals-2022)
+- [Celestron&#39;s powerful Skymaster 18-40x80 binoculars are $48 off this Black Friday](https://www.space.com/celestron-skymaster-18-40x80-binoculars-black-friday)
+- [Artemis 1&#39;s Orion spacecraft enters orbit around the moon](https://www.space.com/artemis-1-orion-arrive-orbit-moon)
+- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates)
+- [Save $70 on this Lego Star Wars Republic Gunship this Black Friday](https://www.space.com/lego-star-wars-republic-gunship-save-70-black-friday-deal-2022)
 <!-- BLOG-POST-LIST:END -->
 
 ---
