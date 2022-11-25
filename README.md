@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [$50 off the Canon 8x20IS binoculars plus a free gift](https://www.space.com/canon-8x20is-binoculars-50-off-free-harness-black-friday-deal-2022)
-- [How to run data on Kubernetes: 6 starting principles](https://techcrunch.com/2022/11/25/how-to-run-data-on-kubernetes-6-starting-principles/)
-- [Thanksgiving 2022 online sales pip past forecasts at $5.3B, up 2.8% on last year, mobile accounted for 55% of all purchases](https://techcrunch.com/2022/11/25/thanksgiving-online-sales-figures/)
-- [Be like Gmail? Proton Mail will soon offer email categorization, message scheduling, and more](https://techcrunch.com/2022/11/25/proton-mail-will-soon-be-more-like-gmail-with-email-categorization-message-scheduling-and-more/)
-- [Save up to $220 on the DJI Mini 3 Pro &amp; FPV drones in Black Friday DJI drone deals](https://www.space.com/save-up-to-220-dollars-on-dji-mini-3-pro-and-fpv-drones-in-black-friday-dji-drone-deals)
+- [Failed spacesuit pump aborts planned Russian spacewalk at space station](https://www.space.com/russian-spacewalk-aborted-spacesuit-problem-november-2022)
+- [Crush the Decepticons with $30 off this Lego Optimus Prime set](https://www.space.com/crush-the-decepticons-with-30-off-this-lego-optimus-prime-kit)
+- [Celestron Travel Scope 70 now under $100 for Black Friday](https://www.space.com/celestron-travel-scope-70-under-100-black-friday-2022)
+- [Save 30% on the Mandalorian&#39;s iconic Razor Crest Lego set this Black Friday](https://www.space.com/save-30-percent-on-the-mandalorians-razor-crest-lego-set-this-black-friday)
+- [Amazon to shut down food delivery business in India](https://techcrunch.com/2022/11/25/amazon-to-shut-down-food-delivery-business-in-india/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
