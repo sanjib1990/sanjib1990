@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Gaze into the heavens with this Celestron Black Friday deal](https://www.space.com/gaze-into-the-heavens-celestron-black-friday-telescope-deal-2022)
+- [Finish the fight with this Black Friday Nerf Halo MA40 blaster deal](https://www.space.com/finish-the-fight-with-this-black-friday-nerf-halo-blaster-deal)
 - [Peacock Black Friday deal: Get Peacock for just $1 per month for a full year](https://www.space.com/save-80-percent-on-peacock-yearly-subscription-this-black-friday)
 - [UK to criminalize deepfake porn sharing without consent](https://techcrunch.com/2022/11/25/deepfake-porn-revenge-porn-uk-law-change/)
 - [Watch Artemis 1&#39;s Orion spacecraft enter lunar orbit Friday](https://www.space.com/artemis-1-orion-arrive-orbit-moon)
-- [China tests novel &#39;lobster eye&#39; X-ray telescope for observing cosmic events](https://www.space.com/china-lobster-eye-x-ray-telescope-1st-images)
-- [Dance off, bro! Save 20% on these two Lego Guardians of the Galaxy sets this Black Friday](https://www.space.com/lego-marvel-black-friday-deals-2022-guardians-of-the-galaxy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
