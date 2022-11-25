@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [40% off the 3 Legged Thing Punks Corey tripod](https://www.space.com/3-legged-thing-punks-corey-tripod-40-percent-off-black-friday-deal-2022)
 - [$400 off the Nikon Z7 II this Black Friday](https://www.space.com/nikon-z7-ii-save-400-black-friday-camera-deal-2022)
 - [Artemis 1 flies away from the launch pad in epic Orion spacecraft video](https://www.space.com/artemis-1-rocket-camera-launch-videos)
 - [Watch Indian rocket launch ocean-studying satellite early Saturday](https://www.space.com/india-pslv-rocket-launch-eos-6-satellite)
 - [Canon RF 15-35mm f/2.8L IS USM lens now reduced to under $2000 this Black Friday](https://www.space.com/canon-rf-15-35mm-lens-save-400-black-friday-deal-2022)
-- [Save over $500 on the Panasonic Lumix GH6 with this Black Friday deal](https://www.space.com/panasonic-lumix-gh6-black-friday-deal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
