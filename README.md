@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Save over $60 on the exceptional SuperTank Pro Power Bank](https://www.space.com/zendure-power-bank-save-60-black-friday-deal-2022)
+- [Weird young super-Jupiter challenges theories of planet formation](https://www.space.com/weird-super-jupiter-planet-very-dense)
+- [Artemis 1 Orion spacecraft captures selfie as Earth sets behind moon &lpar;video&rpar;](https://www.space.com/artemis-1-orion-spacecraft-selfie-earth-moon)
+- [China&#39;s new solar probe snaps its 1st image of the sun &lpar;photo&rpar;](https://www.space.com/china-solar-probe-aso-s-first-sun-photo)
 - [Mandalorian Fire TV Stick is up to 39% off during Black Friday](https://www.space.com/star-wars-mandalorian-fire-tv-sticks-black-friday-2022)
-- [Black Friday Deals live now: Telescopes, VR headsets, Lego and more](https://www.space.com/news/live/black-friday-deals-2022)
-- [Snap up $720 off the Sony Alpha a7 IIk E-mount camera this Black Friday](https://www.space.com/sony-alpha-a7ii-with-lens-black-friday-save-720-dollars)
-- [This remote control Star Wars Grogu plush will melt your heart for just $44 on Black Friday](https://www.space.com/star-wars-grogu-remote-control-plush-black-friday)
-- [Celestron&#39;s powerful SkyMaster 18-40x80 binoculars are $50 off this Black Friday](https://www.space.com/celestron-skymaster-18-40x80-binoculars-black-friday)
 <!-- BLOG-POST-LIST:END -->
 
 ---
