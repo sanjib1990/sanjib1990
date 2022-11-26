@@ -94,10 +94,10 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Black Friday Deals live now: Telescopes, VR headsets, Lego and more](https://www.space.com/news/live/black-friday-deals-2022)
 - [Watch SpaceX&#39;s Dragon cargo capsule arrive at space station Sunday morning](https://www.space.com/spacex-dragon-crs-26-arrive-space-station)
 - [SpaceX Dragon launches science, solar arrays to International Space Station](https://www.space.com/spacex-launch-crs-26-international-space-station)
 - [At 20%-off, Black Friday&#39;s Lego Star Wars helmet deals are the perfect Holiday gift](https://www.space.com/lego-star-wars-helmet-deals)
-- [Black Friday Deals live now: Telescopes, VR headsets, Lego and more](https://www.space.com/news/live/black-friday-deals-2022)
 - [Save 20% on this Lego Robot Inventor kit for Black Friday as a coding gift before it&#39;s retired for good](https://www.space.com/lego-robot-inventor-kit-save-20-percent-black-friday-deal)
 <!-- BLOG-POST-LIST:END -->
 
