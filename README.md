@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Black Friday Deals live now: Telescopes, VR headsets, Lego and more](https://www.space.com/news/live/black-friday-deals-2022)
+- [Save 20% on this Lego Robot Inventor kit for Black Friday as a coding gift before it&#39;s retired for good](https://www.space.com/lego-robot-inventor-kit-save-20-percent-black-friday-deal)
 - [Efficient growth? No problem, bootstrapped startups say](https://techcrunch.com/2022/11/26/efficient-growth-no-problem-bootstrapped-startups-say/)
 - [Discover the cosmos for less: Celestron 114AZ-SR telescope now half price](https://www.space.com/celestron-114-az-sr-half-price-black-friday-telescope-deal-2022)
 - [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates)
-- [Save up to 50% on Amazon Fire TV Sticks this Black Friday](https://www.space.com/amazon-fire-tv-stick-deals-2022)
-- [NASA&#39;s Artemis 1 Orion spacecraft flies past record distance set by Apollo 13](https://www.space.com/artemis-1-orion-breaks-apollo-13-distance-earth-record)
 <!-- BLOG-POST-LIST:END -->
 
 ---
