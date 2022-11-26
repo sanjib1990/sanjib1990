@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch SpaceX&#39;s Dragon cargo capsule arrive at space station Sunday morning](https://www.space.com/spacex-dragon-crs-26-arrive-space-station)
+- [SpaceX Dragon launches science, solar arrays to International Space Station](https://www.space.com/spacex-launch-crs-26-international-space-station)
+- [At 20%-off, Black Friday&#39;s Lego Star Wars helmet deals are the perfect Holiday gift](https://www.space.com/lego-star-wars-helmet-deals)
 - [Black Friday Deals live now: Telescopes, VR headsets, Lego and more](https://www.space.com/news/live/black-friday-deals-2022)
 - [Save 20% on this Lego Robot Inventor kit for Black Friday as a coding gift before it&#39;s retired for good](https://www.space.com/lego-robot-inventor-kit-save-20-percent-black-friday-deal)
-- [Efficient growth? No problem, bootstrapped startups say](https://techcrunch.com/2022/11/26/efficient-growth-no-problem-bootstrapped-startups-say/)
-- [Discover the cosmos for less: Celestron 114AZ-SR telescope now half price](https://www.space.com/celestron-114-az-sr-half-price-black-friday-telescope-deal-2022)
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
