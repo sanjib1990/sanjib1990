@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Artemis 1&#39;s BioSentinel cubesat aces lunar flyby, readies for biology mission](https://www.space.com/artemis-1-biosentinel-cubesat-readies-biology-mission)
 - [Vaonis Vespera smart telescope: Black Friday savings of $500](https://www.space.com/vaonis-vespera-black-friday-telescope-deal-save-500)
 - [Save over $60 on the exceptional SuperTank Pro Power Bank](https://www.space.com/zendure-power-bank-save-60-black-friday-deal-2022)
 - [Weird young super-Jupiter challenges theories of planet formation](https://www.space.com/weird-super-jupiter-planet-very-dense)
 - [Artemis 1 Orion spacecraft captures selfie as Earth sets behind moon &lpar;video&rpar;](https://www.space.com/artemis-1-orion-spacecraft-selfie-earth-moon)
-- [China&#39;s new solar probe snaps its 1st image of the sun &lpar;photo&rpar;](https://www.space.com/china-solar-probe-aso-s-first-sun-photo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
