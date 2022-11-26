@@ -98,7 +98,7 @@
 - [Black Friday Deals live now: Telescopes, VR headsets, Lego and more](https://www.space.com/news/live/black-friday-deals-2022)
 - [Snap up $720 off the Sony Alpha a7 IIk E-mount camera this Black Friday](https://www.space.com/sony-alpha-a7ii-with-lens-black-friday-save-720-dollars)
 - [This remote control Star Wars Grogu plush will melt your heart for just $44 on Black Friday](https://www.space.com/star-wars-grogu-remote-control-plush-black-friday)
-- [Celestron&#39;s powerful Skymaster 18-40x80 binoculars are $48 off this Black Friday](https://www.space.com/celestron-skymaster-18-40x80-binoculars-black-friday)
+- [Celestron&#39;s powerful SkyMaster 18-40x80 binoculars are $50 off this Black Friday](https://www.space.com/celestron-skymaster-18-40x80-binoculars-black-friday)
 <!-- BLOG-POST-LIST:END -->
 
 ---
