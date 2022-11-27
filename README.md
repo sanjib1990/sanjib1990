@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lawyers see crypto regulation coming in 2023 because industry needs to rebuild trust](https://techcrunch.com/2022/11/27/lawyers-see-crypto-regulation-coming-in-2023-because-industry-needs-to-rebuild-trust/)
+- [Cyber Monday Deals live now: Telescopes, VR headsets, Lego and more](https://www.space.com/news/live/black-friday-deals-2022)
+- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates)
 - [This Lego Star Wars deal gets you the rare, retiring Imperial Probe Droid for its lowest price ever](https://www.space.com/lego-star-wars-imperial-probe-droid-cyber-monday-deal-2022)
 - [This Canon EOS R5 bundle is now $500 cheaper this Black Friday/Cyber Monday](https://www.space.com/canon-eos-r5-500-off-black-friday-cyber-monday-2022)
-- [The &#39;Andor&#39; penultimate Season 1 episode reminds us there are many threads in the fabric of this story](https://www.space.com/andor-star-wars-episode-11-review)
-- [The new Canon EOS R10 is now $100 cheaper this Black Friday/Cyber Monday](https://www.space.com/canon-eos-r10-100-off-black-friday-cyber-monday-deal-2022)
-- [Protons: The essential building blocks of atoms](https://www.space.com/protons-facts-discovery-charge-mass)
 <!-- BLOG-POST-LIST:END -->
 
 ---
