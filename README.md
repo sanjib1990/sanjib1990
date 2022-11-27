@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Gift these moon lamps to your astronomy fan for up to 30% less](https://www.space.com/moon-lamps-astronomy-discount-black-friday-2022)
 - [Black Friday Deals live now: Telescopes, VR headsets, Lego and more](https://www.space.com/news/live/black-friday-deals-2022)
+- [Spot your next holiday gift! Save 15% on Nikon ProStaff P3 8x42 waterproof binoculars](https://www.space.com/nikon-prostaff-8-42-waterproof-binoculars-black-friday-2022)
 - [Save 10% on a great beginner astronomy gift: Celestron 76mm Signature Series FirstScope](https://www.space.com/celestron-76mm-signature-series-firstscope-telescope-black-friday-2022)
 - [Watch SpaceX&#39;s Dragon cargo capsule arrive at space station Sunday morning](https://www.space.com/spacex-dragon-crs-26-arrive-space-station)
-- [SpaceX Dragon launches science, solar arrays to International Space Station](https://www.space.com/spacex-launch-crs-26-international-space-station)
-- [At 20%-off, Black Friday&#39;s Lego Star Wars helmet deals are the perfect Holiday gift](https://www.space.com/lego-star-wars-helmet-deals)
 <!-- BLOG-POST-LIST:END -->
 
 ---
