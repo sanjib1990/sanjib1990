@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Protons: The essential building blocks of atoms](https://www.space.com/protons-facts-discovery-charge-mass)
+- [Exclusive: Netflix&#39;s new &#39;Our Universe&#39; docuseries combines natural history with ancient ties to the stars](https://www.space.com/news/exclusive-netflixs-new-our-universe-docuseries-combines-natural-history-with-ancient-ties-to-the-stars)
+- [Planet-killing stars can cover up their crimes. Here&#39;s how we could catch them.](https://www.space.com/identify-planets-that-ate-their-planets)
 - [Gift the Force! Save up to 72% on Star Wars lightsaber gifts for your Jedi](https://www.space.com/star-wars-lightsabers-deals-black-friday-2022)
 - [Gift these moon lamps to your astronomy fan for up to 30% less](https://www.space.com/moon-lamps-astronomy-discount-black-friday-2022)
-- [Black Friday Deals live now: Telescopes, VR headsets, Lego and more](https://www.space.com/news/live/black-friday-deals-2022)
-- [Spot your next holiday gift! Save 15% on Nikon ProStaff P3 8x42 waterproof binoculars](https://www.space.com/nikon-prostaff-8-42-waterproof-binoculars-black-friday-2022)
-- [Save 10% on a great beginner astronomy gift: Celestron 76mm Signature Series FirstScope](https://www.space.com/celestron-76mm-signature-series-firstscope-telescope-black-friday-2022)
 <!-- BLOG-POST-LIST:END -->
 
 ---
