@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Lego Star Wars deal gets you the rare, retiring Imperial Probe Droid for its lowest price ever](https://www.space.com/lego-star-wars-imperial-probe-droid-cyber-monday-deal-2022)
+- [This Canon EOS R5 bundle is now $500 cheaper this Black Friday/Cyber Monday](https://www.space.com/canon-eos-r5-500-off-black-friday-cyber-monday-2022)
 - [The &#39;Andor&#39; penultimate Season 1 episode reminds us there are many threads in the fabric of this story](https://www.space.com/andor-star-wars-episode-11-review)
 - [The new Canon EOS R10 is now $100 cheaper this Black Friday/Cyber Monday](https://www.space.com/canon-eos-r10-100-off-black-friday-cyber-monday-deal-2022)
 - [Protons: The essential building blocks of atoms](https://www.space.com/protons-facts-discovery-charge-mass)
-- [Exclusive: Netflix&#39;s new &#39;Our Universe&#39; docuseries combines natural history with ancient ties to the stars](https://www.space.com/news/exclusive-netflixs-new-our-universe-docuseries-combines-natural-history-with-ancient-ties-to-the-stars)
-- [Planet-killing stars can cover up their crimes. Here&#39;s how we could catch them.](https://www.space.com/identify-planets-that-ate-their-planets)
 <!-- BLOG-POST-LIST:END -->
 
 ---
