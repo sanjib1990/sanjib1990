@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Save 20% on this National Geographic 70 Computerized Telescope and gift the stars this holiday](https://www.space.com/national-geographic-70-computerized-telescope-cyber-monday-deal)
+- [Cyber Monday Deals live now: Telescopes, VR headsets, Lego and more](https://www.space.com/news/live/cyber-monday-deals-2022)
 - [Affinity Photo image editing software $20 off this Black Friday/Cyber Monday](https://www.space.com/affinity-photo-image-editing-software-save-20-black-friday-cyber-monday-2022)
 - [Lawyers see crypto regulation coming in 2023 because industry needs to rebuild trust](https://techcrunch.com/2022/11/27/lawyers-see-crypto-regulation-coming-in-2023-because-industry-needs-to-rebuild-trust/)
-- [Cyber Monday Deals live now: Telescopes, VR headsets, Lego and more](https://www.space.com/news/live/black-friday-deals-2022)
 - [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates)
-- [This Lego Star Wars deal gets you the rare, retiring Imperial Probe Droid for its lowest price ever](https://www.space.com/lego-star-wars-imperial-probe-droid-cyber-monday-deal-2022)
 <!-- BLOG-POST-LIST:END -->
 
 ---
