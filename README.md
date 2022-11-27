@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The new Canon EOS R10 is now $100 cheaper this Black Friday/Cyber Monday](https://www.space.com/canon-eos-r10-100-off-black-friday-cyber-monday-deal-2022)
 - [Protons: The essential building blocks of atoms](https://www.space.com/protons-facts-discovery-charge-mass)
 - [Exclusive: Netflix&#39;s new &#39;Our Universe&#39; docuseries combines natural history with ancient ties to the stars](https://www.space.com/news/exclusive-netflixs-new-our-universe-docuseries-combines-natural-history-with-ancient-ties-to-the-stars)
 - [Planet-killing stars can cover up their crimes. Here&#39;s how we could catch them.](https://www.space.com/identify-planets-that-ate-their-planets)
 - [Gift the Force! Save up to 72% on Star Wars lightsaber gifts for your Jedi](https://www.space.com/star-wars-lightsabers-deals-black-friday-2022)
-- [Gift these moon lamps to your astronomy fan for up to 30% less](https://www.space.com/moon-lamps-astronomy-discount-black-friday-2022)
 <!-- BLOG-POST-LIST:END -->
 
 ---
