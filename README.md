@@ -94,8 +94,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Use the Force and save up to 84% on Star Wars lightsaber gifts for Cyber Monday](https://www.space.com/news/use-the-force-and-save-up-to-84-on-star-wars-lightsaber-gifts-for-cyber-monday)
 - [Cyber Monday Deals live now: Telescopes, VR headsets, Lego and more](https://www.space.com/news/live/cyber-monday-deals-2022)
+- [Use the Force and save up to 84% on Star Wars lightsaber gifts for Cyber Monday](https://www.space.com/star-wars-lightsabers-cyber-monday-deal)
 - [Save 20% on this National Geographic 70 Computerized Telescope and gift the stars this holiday](https://www.space.com/national-geographic-70-computerized-telescope-cyber-monday-deal)
 - [Affinity Photo image editing software $20 off this Black Friday/Cyber Monday](https://www.space.com/affinity-photo-image-editing-software-save-20-black-friday-cyber-monday-2022)
 - [Lawyers see crypto regulation coming in 2023 because industry needs to rebuild trust](https://techcrunch.com/2022/11/27/lawyers-see-crypto-regulation-coming-in-2023-because-industry-needs-to-rebuild-trust/)
