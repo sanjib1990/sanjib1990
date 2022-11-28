@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cyber Monday sale – save 50% on passes for TC Sessions: Space](https://techcrunch.com/2022/11/28/cyber-monday-sale-save-50-on-passes-for-tc-sessions-space/)
+- [These binoculars can reveal the stars: Now they&#39;re $65 off for Cyber Monday](https://www.space.com/these-binoculars-can-show-you-the-stars-65-dollars-off-cyber-monday-2022)
+- [Get 37% off Lego Star Wars Imperial Light Cruiser this Cyber Monday](https://www.space.com/save-60-dollars-lego-imperial-light-cruiser-cyber-monday)
 - [Bionaut Labs gets $43.2M for its tiny drug delivery robots](https://techcrunch.com/2022/11/28/bionaut-labs-gets-43-2m-for-its-tiny-drug-delivery-robots/)
 - [NASA&#39;s Artemis 1 Orion spacecraft reaches maximum distance from Earth today](https://www.space.com/nasa-artemis-1-orion-maximum-distance)
-- [A scale story: TechCrunch’s parent company links up with Taboola](https://techcrunch.com/2022/11/28/a-scale-story-techcrunchs-parent-company-links-up-with-taboola/)
-- [Google, Microsoft-backed VerSe Innovation cuts 5% of workforce, reduces salaries](https://techcrunch.com/2022/11/28/verse-innovation-layoff-salary-cut/)
-- [BlockFi files for Chapter 11 bankruptcy](https://techcrunch.com/2022/11/28/blockfi-files-for-chapter-11-bankruptcy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
