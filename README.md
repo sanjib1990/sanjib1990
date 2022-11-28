@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cyber Monday Deals live now: Telescopes, VR headsets, Lego and more](https://www.space.com/news/live/cyber-monday-deals-2022)
+- [Move over, operators — consultants are the new nontraditional VC](https://techcrunch.com/2022/11/28/move-over-operators-consultants-are-the-new-nontraditional-vc/)
+- [NASA Webb Image Coming This Week](https://blogs.nasa.gov/webb/2022/11/28/nasa-webb-image-coming-this-week-5/)
 - [On affinity-focused fintechs, the future of BNPL, and more](https://techcrunch.com/2022/11/28/on-affinity-focused-fintechs-the-future-of-bnpl-and-more/)
 - [China reveals the 3 astronauts flying on Shenzhou 15 space station mission](https://www.space.com/china-reveals-three-astronauts-shenzhou-15-mission)
-- [Spy this great gift! Save 35% on Celestron SkyMaster 25X70 Binoculars for Cyber Monday](https://www.space.com/celestron-skymaster-25-70-binocular-deal-cyber-monday)
-- [Cyber Monday Deals live now: Telescopes, VR headsets, Lego and more](https://www.space.com/news/live/cyber-monday-deals-2022)
-- [Snap up $225 off the Olympus OM-D E-M10 Mark IV this Cyber Monday](https://www.space.com/olympus-om-de-m10-mark-iv-cyber-monday-save-225-dollars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
