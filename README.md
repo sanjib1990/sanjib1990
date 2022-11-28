@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [10 best Cyber Monday telescope deals we&#39;ve seen so far 2022](https://www.space.com/10-best-cyber-monday-telescope-deals-seen-so-far-2022)
+- [WhatsApp rolls out a feature that makes it easier to message yourself](https://techcrunch.com/2022/11/28/whatsapp-rolls-out-a-feature-that-makes-it-easier-to-message-yourself/)
+- [Great Wall of porn obscures China protest news on Twitter](https://techcrunch.com/2022/11/28/great-wall-of-porn-obscures-china-protest-news-on-twitter/)
 - [Amie grabbed $7 million for its opinionated calendar and todo app](https://techcrunch.com/2022/11/28/amie-grabbed-7-million-for-its-opinionated-calendar-and-todo-app/)
 - [Amazon shutting down wholesale distribution in third business exit in India](https://techcrunch.com/2022/11/27/amazon-shutting-down-wholesale-distribution-in-third-business-exit-in-india/)
-- [TipTip uses a hyperlocal strategy to help Southeast Asian creators monetize](https://techcrunch.com/2022/11/27/tiptip-southeast-asia-creators/)
-- [Cyber Monday Deals live now: Telescopes, VR headsets, Lego and more](https://www.space.com/news/live/cyber-monday-deals-2022)
-- [Lift off with Estes model rockets: Up to 32% Cyber Monday savings on Saturn V, Little Joe and more](https://www.space.com/estes-model-rockets-discounts-cyber-monday-2022)
 <!-- BLOG-POST-LIST:END -->
 
 ---
