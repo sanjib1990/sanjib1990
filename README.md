@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [ATLAS observatory atop Hawai&#39;i&#39;s Mauna Loa volcano watching eruption closely](https://www.space.com/mauna-loa-eruptions-observatories-status)
-- [Post News, a Twitter alternative, gets funding from a16z](https://techcrunch.com/2022/11/28/post-news-twitter-alternative-a16z/)
-- [Elon Musk’s next trick? Picking a fight with Apple](https://techcrunch.com/2022/11/28/elon-musk-twitter-vs-apple/)
-- [Cyber Monday Deals live now: Telescopes, VR headsets, Lego and more](https://www.space.com/news/live/cyber-monday-deals-2022)
-- [Move over, operators — consultants are the new nontraditional VC](https://techcrunch.com/2022/11/28/move-over-operators-consultants-are-the-new-nontraditional-vc/)
+- [Daily Crunch: WhatsApp rolls out new ‘Message Yourself’ feature globally](https://techcrunch.com/2022/11/28/daily-crunch-whatsapp-rolls-out-new-message-yourself-feature-globally/)
+- [Max Q: Thank you](https://techcrunch.com/2022/11/28/max-q-thank-you/)
+- [You can still save $20 on this Lego Star Wars The Bad Batch Attack Shuttle for Cyber Monday](https://www.space.com/lego-star-wars-bad-batch-attack-shuttle-cyber-monday)
+- [Nufa lets you live up to unrealistic beauty standards at the tap of an app](https://techcrunch.com/2022/11/28/nufa-ai/)
+- [Last chance to save $180 on Lego&#39;s epic Star Wars UCS Millennium Falcon for Cyber Monday](https://www.space.com/lego-star-wars-ucs-millennium-falcon-cyber-monday-2022)
 <!-- BLOG-POST-LIST:END -->
 
 ---
