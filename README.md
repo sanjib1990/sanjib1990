@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [See the crescent moon visit Saturn in the night sky Monday &lpar;Nov. 28&rpar;](https://www.space.com/moon-visits-saturn-monday-nov-28-2022)
-- [US government bans Huawei, ZTE, and Hikvision tech over ‘unacceptable’ spying fears](https://techcrunch.com/2022/11/28/fcc-huawei-zte-hikvision-hytera-dahua-ban/)
-- [Deepomatic wants to build the AI-based computer vision companion for field workers](https://techcrunch.com/2022/11/28/deepomatic-wants-to-build-the-ai-based-computer-vision-companion-for-field-workers/)
-- [Hubble Space Telescope captures stunning intergalactic bridge of stars in new image](https://www.space.com/hubble-space-telescope-wilds-triplet-galaxies)
-- [Cameroonian crypto and savings platform Ejara raises $8M, led by Anthemis and Dragonfly](https://techcrunch.com/2022/11/28/cameroonian-crypto-and-savings-platform-ejara-raises-8m-led-by-anthemis-and-dragonfly/)
+- [3 mistakes to avoid as an emerging manager](https://techcrunch.com/2022/11/28/3-mistakes-to-avoid-as-an-emerging-manager/)
+- [Nebulas glow with forming stars in stunning new image](https://www.space.com/nebulas-image-vista-telescope-infrared)
+- [Yahoo gets 25% stake in Taboola as part of long-term advertising deal](https://techcrunch.com/2022/11/28/yahoo-gets-25-stake-in-taboola-as-part-of-long-term-advertising-deal/)
+- [SWVL reduces its headcount by 50% six months after axing 400+ staff](https://techcrunch.com/2022/11/28/swvl-reduces-its-headcount-by-50-six-months-after-axing-400-staff/)
+- [BackingMinds raises new €50 million fund to fund normally overlooked entrepreneurs](https://techcrunch.com/2022/11/28/backingminds-raises-new-e50-million-fund-to-fund-normally-overlooked-entrepreneurs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
