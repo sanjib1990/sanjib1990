@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [3 mistakes to avoid as an emerging manager](https://techcrunch.com/2022/11/28/3-mistakes-to-avoid-as-an-emerging-manager/)
-- [Nebulas glow with forming stars in stunning new image](https://www.space.com/nebulas-image-vista-telescope-infrared)
-- [Yahoo gets 25% stake in Taboola as part of long-term advertising deal](https://techcrunch.com/2022/11/28/yahoo-gets-25-stake-in-taboola-as-part-of-long-term-advertising-deal/)
-- [SWVL reduces its headcount by 50% six months after axing 400+ staff](https://techcrunch.com/2022/11/28/swvl-reduces-its-headcount-by-50-six-months-after-axing-400-staff/)
-- [BackingMinds raises new €50 million fund to fund normally overlooked entrepreneurs](https://techcrunch.com/2022/11/28/backingminds-raises-new-e50-million-fund-to-fund-normally-overlooked-entrepreneurs/)
+- [Bionaut Labs gets $43.2M for its tiny drug delivery robots](https://techcrunch.com/2022/11/28/bionaut-labs-gets-43-2m-for-its-tiny-drug-delivery-robots/)
+- [NASA&#39;s Artemis 1 Orion spacecraft reaches maximum distance from Earth today](https://www.space.com/nasa-artemis-1-orion-maximum-distance)
+- [A scale story: TechCrunch’s parent company links up with Taboola](https://techcrunch.com/2022/11/28/a-scale-story-techcrunchs-parent-company-links-up-with-taboola/)
+- [Google, Microsoft-backed VerSe Innovation cuts 5% of workforce, reduces salaries](https://techcrunch.com/2022/11/28/verse-innovation-layoff-salary-cut/)
+- [BlockFi files for Chapter 11 bankruptcy](https://techcrunch.com/2022/11/28/blockfi-files-for-chapter-11-bankruptcy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
