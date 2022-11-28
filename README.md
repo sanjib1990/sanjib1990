@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [COVID-19 pandemic widened the gender gap in astronomy publishing](https://www.space.com/astronomy-research-covid-pandemic-gender-gap)
-- [Take on the galaxy for less with up to 50% off on these Cyber Monday board game deals](https://www.space.com/take-on-the-galaxy-for-less-with-these-cyber-monday-space-board-game-deals)
-- [Wow! Artemis 1 Orion spacecraft captures live view of Earth and moon from deep space &lpar;video&rpar;](https://www.space.com/artemis-1-orion-spacecraft-earth-moon-live-view)
-- [Cyber Monday sale – save 50% on passes for TC Sessions: Space](https://techcrunch.com/2022/11/28/cyber-monday-sale-save-50-on-passes-for-tc-sessions-space/)
-- [These binoculars can reveal the stars: Now they&#39;re $65 off for Cyber Monday](https://www.space.com/these-binoculars-can-show-you-the-stars-65-dollars-off-cyber-monday-2022)
+- [Amazon CloudWorks Internet Monitor lets you track connection-related performance issues](https://techcrunch.com/2022/11/28/amazon-cloudworks-internet-monitor-lets-you-track-connection-related-performance-issues/)
+- [AirTree and Greycroft return to lead Australian regtech FrankieOne’s Series A+](https://techcrunch.com/2022/11/28/frankieone-series-a-plus/)
+- [Satellites watch Mauna Loa, world&#39;s largest active volcano, erupt in Hawaii &lpar;photos&rpar;](https://www.space.com/mauna-loa-volcano-eruption-satellite-views)
+- [Interim rate of return: A better approach to valuing early-stage startups](https://techcrunch.com/2022/11/28/interim-rate-of-return-a-better-approach-to-valuing-early-stage-startups/)
+- [Logistics and procurement on autopilot is the future Cofactr wants to live in](https://techcrunch.com/2022/11/28/cofactr-seed-round/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
