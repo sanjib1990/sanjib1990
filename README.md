@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ATLAS observatory atop Hawai&#39;i&#39;s Mauna Loa volcano watching eruption closely](https://www.space.com/mauna-loa-eruptions-observatories-status)
+- [Post News, a Twitter alternative, gets funding from a16z](https://techcrunch.com/2022/11/28/post-news-twitter-alternative-a16z/)
+- [Elon Musk’s next trick? Picking a fight with Apple](https://techcrunch.com/2022/11/28/elon-musk-twitter-vs-apple/)
 - [Cyber Monday Deals live now: Telescopes, VR headsets, Lego and more](https://www.space.com/news/live/cyber-monday-deals-2022)
 - [Move over, operators — consultants are the new nontraditional VC](https://techcrunch.com/2022/11/28/move-over-operators-consultants-are-the-new-nontraditional-vc/)
-- [NASA Webb Image Coming This Week](https://blogs.nasa.gov/webb/2022/11/28/nasa-webb-image-coming-this-week-5/)
-- [On affinity-focused fintechs, the future of BNPL, and more](https://techcrunch.com/2022/11/28/on-affinity-focused-fintechs-the-future-of-bnpl-and-more/)
-- [China reveals the 3 astronauts flying on Shenzhou 15 space station mission](https://www.space.com/china-reveals-three-astronauts-shenzhou-15-mission)
 <!-- BLOG-POST-LIST:END -->
 
 ---
