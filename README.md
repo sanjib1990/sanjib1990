@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [10 best Cyber Monday telescope deals we&#39;ve seen so far 2022](https://www.space.com/10-best-cyber-monday-telescope-deals-seen-so-far-2022)
-- [WhatsApp rolls out a feature that makes it easier to message yourself](https://techcrunch.com/2022/11/28/whatsapp-rolls-out-a-feature-that-makes-it-easier-to-message-yourself/)
-- [Great Wall of porn obscures China protest news on Twitter](https://techcrunch.com/2022/11/28/great-wall-of-porn-obscures-china-protest-news-on-twitter/)
-- [Amie grabbed $7 million for its opinionated calendar and todo app](https://techcrunch.com/2022/11/28/amie-grabbed-7-million-for-its-opinionated-calendar-and-todo-app/)
-- [Amazon shutting down wholesale distribution in third business exit in India](https://techcrunch.com/2022/11/27/amazon-shutting-down-wholesale-distribution-in-third-business-exit-in-india/)
+- [One small step for man, one giant 30% discount on this Lego NASA Lunar Lander in Cyber Monday Lego deal](https://www.space.com/one-small-step-for-man-one-giant-30-percent-discount-on-lego-lunar-lander-cyber-monday-deal)
+- [UK expands Online Safety Bill to criminalize encouraging self harm](https://techcrunch.com/2022/11/28/online-safety-bill-self-harm/)
+- [Students and teachers save a massive 71% on Adobe Creative Cloud All Apps in this Cyber Monday Deal](https://www.space.com/adobe-creative-cloud-all-apps-deal-save-71-percent-cyber-monday-2022)
+- [Magnetic Milky Way filaments dwarfed by mysterious structures in distant galaxy cluster](https://www.space.com/milky-way-massive-filaments-formation-mystery)
+- [What is a moon halo?](https://www.space.com/moon-halo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
