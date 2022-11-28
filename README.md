@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [COVID-19 pandemic widened the gender gap in astronomy publishing](https://www.space.com/astronomy-research-covid-pandemic-gender-gap)
+- [Take on the galaxy for less with up to 50% off on these Cyber Monday board game deals](https://www.space.com/take-on-the-galaxy-for-less-with-these-cyber-monday-space-board-game-deals)
+- [Wow! Artemis 1 Orion spacecraft captures live view of Earth and moon from deep space &lpar;video&rpar;](https://www.space.com/artemis-1-orion-spacecraft-earth-moon-live-view)
 - [Cyber Monday sale – save 50% on passes for TC Sessions: Space](https://techcrunch.com/2022/11/28/cyber-monday-sale-save-50-on-passes-for-tc-sessions-space/)
 - [These binoculars can reveal the stars: Now they&#39;re $65 off for Cyber Monday](https://www.space.com/these-binoculars-can-show-you-the-stars-65-dollars-off-cyber-monday-2022)
-- [Get 37% off Lego Star Wars Imperial Light Cruiser this Cyber Monday](https://www.space.com/save-60-dollars-lego-imperial-light-cruiser-cyber-monday)
-- [Bionaut Labs gets $43.2M for its tiny drug delivery robots](https://techcrunch.com/2022/11/28/bionaut-labs-gets-43-2m-for-its-tiny-drug-delivery-robots/)
-- [NASA&#39;s Artemis 1 Orion spacecraft reaches maximum distance from Earth today](https://www.space.com/nasa-artemis-1-orion-maximum-distance)
 <!-- BLOG-POST-LIST:END -->
 
 ---
