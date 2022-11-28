@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amie grabbed $7 million for its opinionated calendar and todo app](https://techcrunch.com/2022/11/28/amie-grabbed-7-million-for-its-opinionated-calendar-and-todo-app/)
+- [Amazon shutting down wholesale distribution in third business exit in India](https://techcrunch.com/2022/11/27/amazon-shutting-down-wholesale-distribution-in-third-business-exit-in-india/)
 - [TipTip uses a hyperlocal strategy to help Southeast Asian creators monetize](https://techcrunch.com/2022/11/27/tiptip-southeast-asia-creators/)
 - [Cyber Monday Deals live now: Telescopes, VR headsets, Lego and more](https://www.space.com/news/live/cyber-monday-deals-2022)
 - [Lift off with Estes model rockets: Up to 32% Cyber Monday savings on Saturn V, Little Joe and more](https://www.space.com/estes-model-rockets-discounts-cyber-monday-2022)
-- [Gift this HR Drone for kids that soars at 72% off this Cyber Monday](https://www.space.com/hr-drone-for-kids-deal-cyber-monday-2022)
-- [Use the Force and save up to 84% on Star Wars lightsaber gifts for Cyber Monday](https://www.space.com/star-wars-lightsabers-cyber-monday-deal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
