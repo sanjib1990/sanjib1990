@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Deepomatic wants to build the AI-based computer vision companion for field workers](https://techcrunch.com/2022/11/28/deepomatic-wants-to-build-the-ai-based-computer-vision-companion-for-field-workers/)
+- [Hubble Space Telescope captures stunning intergalactic bridge of stars in new image](https://www.space.com/hubble-space-telescope-wilds-triplet-galaxies)
+- [Cameroonian crypto and savings platform Ejara raises $8M, led by Anthemis and Dragonfly](https://techcrunch.com/2022/11/28/cameroonian-crypto-and-savings-platform-ejara-raises-8m-led-by-anthemis-and-dragonfly/)
 - [One small step for man, one giant 30% discount on this Lego NASA Lunar Lander in Cyber Monday Lego deal](https://www.space.com/one-small-step-for-man-one-giant-30-percent-discount-on-lego-lunar-lander-cyber-monday-deal)
 - [UK expands Online Safety Bill to criminalize encouraging self harm](https://techcrunch.com/2022/11/28/online-safety-bill-self-harm/)
-- [Students and teachers save a massive 71% on Adobe Creative Cloud All Apps in this Cyber Monday Deal](https://www.space.com/adobe-creative-cloud-all-apps-deal-save-71-percent-cyber-monday-2022)
-- [Magnetic Milky Way filaments dwarfed by mysterious structures in distant galaxy cluster](https://www.space.com/milky-way-massive-filaments-formation-mystery)
-- [What is a moon halo?](https://www.space.com/moon-halo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
