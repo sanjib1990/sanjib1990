@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See the crescent moon visit Saturn in the night sky Monday &lpar;Nov. 28&rpar;](https://www.space.com/moon-visits-saturn-monday-nov-28-2022)
+- [US government bans Huawei, ZTE, and Hikvision tech over ‘unacceptable’ spying fears](https://techcrunch.com/2022/11/28/fcc-huawei-zte-hikvision-hytera-dahua-ban/)
 - [Deepomatic wants to build the AI-based computer vision companion for field workers](https://techcrunch.com/2022/11/28/deepomatic-wants-to-build-the-ai-based-computer-vision-companion-for-field-workers/)
 - [Hubble Space Telescope captures stunning intergalactic bridge of stars in new image](https://www.space.com/hubble-space-telescope-wilds-triplet-galaxies)
 - [Cameroonian crypto and savings platform Ejara raises $8M, led by Anthemis and Dragonfly](https://techcrunch.com/2022/11/28/cameroonian-crypto-and-savings-platform-ejara-raises-8m-led-by-anthemis-and-dragonfly/)
-- [One small step for man, one giant 30% discount on this Lego NASA Lunar Lander in Cyber Monday Lego deal](https://www.space.com/one-small-step-for-man-one-giant-30-percent-discount-on-lego-lunar-lander-cyber-monday-deal)
-- [UK expands Online Safety Bill to criminalize encouraging self harm](https://techcrunch.com/2022/11/28/online-safety-bill-self-harm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
