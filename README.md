@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Dozens of earthquakes swarm Hawaii as the world&#39;s largest volcano erupts](https://www.space.com/mauna-loa-erupts-after-forty-years)
-- [Snapchat complies with the California Privacy Rights Act with a new toggle switch for users](https://techcrunch.com/2022/11/29/snapchat-complies-with-the-california-privacy-rights-act-with-a-new-toggle-switch-for-users/)
-- [We review Abby, a sleek one-plant weed farm for your apartment](https://techcrunch.com/2022/11/29/abby-hydroponic-review/)
-- [As tech companies seek to limit losses, a reminder of how far some have to go](https://techcrunch.com/2022/11/29/as-tech-companies-seek-to-limit-losses-a-reminder-of-how-far-some-have-to-go/)
-- [See you in Boston for TechCrunch’s Annual Founder Summit](https://techcrunch.com/2022/11/29/see-you-in-boston-for-techcrunchs-annual-founder-summit/)
+- [Amazon announces preview of new Inf2 instances designed for larger models](https://techcrunch.com/2022/11/29/amazon-announces-preview-of-new-inf2-instances-designed-for-larger-models/)
+- [TechCrunch+ roundup: Fundraising under scrutiny, optimizing LTV, visa bulletin update](https://techcrunch.com/2022/11/29/techcrunch-roundup-fundraising-under-scrutiny-optimizing-ltv-visa-bulletin-update/)
+- [Edtech Saasguru wants to fix the cloud talent shortage at scale](https://techcrunch.com/2022/11/29/saasguru-cloud-skills-shortage/)
+- [Galactic cannibal Andromeda feasts on smaller galaxies, cosmic leftovers reveal](https://www.space.com/andromeda-galaxy-cannibalism-finding-remains)
+- [For $20 a month, you can host meetings in Mozilla’s mini metaverse](https://techcrunch.com/2022/11/29/for-20-a-month-you-can-host-meetings-in-mozillas-mini-metaverse/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
