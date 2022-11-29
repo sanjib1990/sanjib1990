@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Andor&#39; concludes epic first season with a slightly confusing finale](https://www.space.com/star-wars-andor-episode-12-review)
+- [Blue Origin’s Shahir Gerges discusses a post-ISS orbital economy at TC Sessions: Space](https://techcrunch.com/2022/11/29/blue-origins-shahir-gerges-discusses-a-post-iss-orbital-economy-at-tc-sessions-space/)
+- [AWS adds automated agent monitoring to Amazon Contact Center](https://techcrunch.com/2022/11/29/aws-adds-automated-agent-monitoring-to-amazon-contact-center/)
+- [8 Great gifts for anyone working from home](https://techcrunch.com/2022/11/29/8-great-gifts-for-anyone-working-from-home-remote-work/)
 - [China completes world&#39;s largest solar telescope array with a whopping 313 dishes](https://www.space.com/china-completes-giant-radio-telescope-array-solar-observation)
-- [Amazon introduces AWS Supply Chain to help bring order to supply chain chaos](https://techcrunch.com/2022/11/29/amazon-introduces-aws-supply-chain-to-help-bring-order-to-supply-chain-chaos/)
-- [AWS gets data clean rooms for analytics data](https://techcrunch.com/2022/11/29/aws-gets-data-clean-rooms-for-analytics-data/)
-- [AWS SimSpace Weaver can run city-sized simulations in the Cloud](https://techcrunch.com/2022/11/29/aws-simspace-weaver-can-run-city-sized-simulations-in-the-cloud/)
-- [China tests reusable rocket engine for the 1st time &lpar;video&rpar;](https://www.space.com/china-tests-reusable-rocket-engine-first-time)
 <!-- BLOG-POST-LIST:END -->
 
 ---
