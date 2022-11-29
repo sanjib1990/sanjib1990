@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Founder factories: Alumni from European and Israeli unicorns have birthed 1,018 startups since 2008](https://techcrunch.com/2022/11/29/founder-factories-alumni-from-european-and-israeli-unicorns-have-birthed-1018-startups-since-2008/)
+- [Locus raises another $117M for its warehouse robots](https://techcrunch.com/2022/11/29/locus-raises-another-107m-for-its-warehouse-robots/)
 - [Orda raises millions to digitize African restaurants with its cloud-based operating system](https://techcrunch.com/2022/11/29/orda-raises-millions-to-digitize-african-restaurants-with-its-cloud-based-operating-system/)
 - [Instafest app lets you create your own festival lineup from Spotify](https://techcrunch.com/2022/11/28/instafest-app-lets-you-create-your-own-festival-lineup-from-spotify/)
 - [Seedstars Capital launches to support new fund managers around the world](https://techcrunch.com/2022/11/28/seedstars-capital/)
-- [AWS makes Lambda cold start latency a thing of the past with SnapStart](https://techcrunch.com/2022/11/28/aws-makes-lambda-cold-start-latency-a-thing-of-the-past-with-snapstart/)
-- [Despite ban, Twitter downloads surge in China amid COVID protests](https://techcrunch.com/2022/11/28/despite-ban-twitter-downloads-surge-in-china-amid-covid-protests/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
