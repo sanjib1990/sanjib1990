@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Cyber Monday online sales hit a record $11.3B, driven by demand, not just inflation, says Adobe](https://techcrunch.com/2022/11/29/cyber-monday-online-sales/)
-- [Slate’s ‘Slow Burn’ is the winner of Apple’s first podcast award](https://techcrunch.com/2022/11/29/slates-slow-burn-is-the-winner-of-apples-first-podcast-award/)
-- [Solana-focused crypto wallet Phantom adds Ethereum and Polygon support](https://techcrunch.com/2022/11/29/solana-focused-crypto-wallet-phantom-adds-ethereum-and-polygon-support/)
-- [‘Co-warehouse’ company Saltbox closes $35M Series B](https://techcrunch.com/2022/11/29/co-warehouse-company-saltbox-closes-35m-series-b/)
-- [Artemis 1 Orion spacecraft hits halfway point of epic moon mission](https://www.space.com/orion-halfway-point-artemis-1-moon-mission)
+- [Amplio helps companies find components when supply chain breaks down](https://techcrunch.com/2022/11/29/amplio-helps-companies-find-components-when-supply-chain-breaks-down/)
+- [YouTube Music starts rolling out its personalized end-of-year Recaps](https://techcrunch.com/2022/11/29/youtube-music-personalized-2022-end-of-year-recaps-spotify-wrapped/)
+- [Breathtaking image of galaxy cluster made by merging X-ray and radio data](https://www.space.com/galaxy-clusters-merge-chandra-x-ray-lofar-radio-data)
+- [Apple Music launches revamped 2022 Replay experience with new highlight reel](https://techcrunch.com/2022/11/29/apple-music-2022-replay-experience-with-new-highlight-reel/)
+- [Early-stage founders still have currency: Fundraising in times of greater VC scrutiny](https://techcrunch.com/2022/11/29/early-stage-founders-still-have-currency-fundraising-in-times-of-greater-vc-scrutiny/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
