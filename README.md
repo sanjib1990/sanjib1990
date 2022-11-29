@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Let’s-a-go again with a new ‘The Super Mario Bros. Movie’ trailer](https://techcrunch.com/2022/11/29/the-super-mario-bros-movie-trailer/)
+- [Daily Crunch: Apple announces its 2022 App Store Award winners](https://techcrunch.com/2022/11/29/daily-crunch-apple-announces-its-2022-app-store-award-winners/)
+- [Magic creator Richard Garfield on why he put a paper game on the blockchain](https://techcrunch.com/2022/11/29/magic-creator-richard-garfield-on-why-he-put-a-paper-game-on-the-blockchain/)
 - [Rising sea levels could swamp the US coastline by 2050, NASA predicts](https://www.space.com/earthquakes-swarm-hawaii-mauna-loa-volcano-erupts)
 - [SpaceX fires 11 engines of Starship Super Heavy booster ahead of test flight &lpar;video&rpar;](https://www.space.com/spacex-starship-super-heavy-static-fire-november-29)
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates)
-- [&#39;Andor&#39; concludes epic first season with a slightly confusing finale](https://www.space.com/star-wars-andor-episode-12-review)
-- [Blue Origin’s Shahir Gerges discusses a post-ISS orbital economy at TC Sessions: Space](https://techcrunch.com/2022/11/29/blue-origins-shahir-gerges-discusses-a-post-iss-orbital-economy-at-tc-sessions-space/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
