@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS makes Lambda cold start latency a thing of the past with SnapStart](https://techcrunch.com/2022/11/28/aws-makes-lambda-cold-start-latency-a-thing-of-the-past-with-snapstart/)
+- [Despite ban, Twitter downloads surge in China amid COVID protests](https://techcrunch.com/2022/11/28/despite-ban-twitter-downloads-surge-in-china-amid-covid-protests/)
 - [AWS launches Graviton3E, its new Arm-based chip for HPC workloads](https://techcrunch.com/2022/11/28/aws-launches-graviton3e-its-new-arm-based-chip-for-hpc-workloads/)
 - [As Pipe’s founding team departs, tensions rise over allegations](https://techcrunch.com/2022/11/28/as-pipes-founding-team-departs-tensions-rise-over-allegations/)
 - [Southeast Asia insurtech Igloo increases its Series B to $46M](https://techcrunch.com/2022/11/28/igloo-series-b-extension/)
-- [EV SPAC Faraday Future ousts its CEO](https://techcrunch.com/2022/11/28/ev-spac-faraday-future-ousts-its-ceo/)
-- [You can get 3 months of Discovery+ at $0.99 a month for Cyber Monday, but act fast](https://www.space.com/discovery-plus-cyber-monday-streaming-deal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
