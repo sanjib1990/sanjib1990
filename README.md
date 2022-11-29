@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Amplio helps companies find components when supply chain breaks down](https://techcrunch.com/2022/11/29/amplio-helps-companies-find-components-when-supply-chain-breaks-down/)
-- [YouTube Music starts rolling out its personalized end-of-year Recaps](https://techcrunch.com/2022/11/29/youtube-music-personalized-2022-end-of-year-recaps-spotify-wrapped/)
-- [Breathtaking image of galaxy cluster made by merging X-ray and radio data](https://www.space.com/galaxy-clusters-merge-chandra-x-ray-lofar-radio-data)
-- [Apple Music launches revamped 2022 Replay experience with new highlight reel](https://techcrunch.com/2022/11/29/apple-music-2022-replay-experience-with-new-highlight-reel/)
-- [Early-stage founders still have currency: Fundraising in times of greater VC scrutiny](https://techcrunch.com/2022/11/29/early-stage-founders-still-have-currency-fundraising-in-times-of-greater-vc-scrutiny/)
+- [Google/iHeartMedia will pay $9.4M to settle FTC charges for ‘deceptive’ Pixel 4 radio ads](https://techcrunch.com/2022/11/29/google-iheartmedia-will-pay-9-4m-to-settle-ftc-charges-for-deceptive-pixel-4-radio-ads/)
+- [A new tool ‘Movetodon’ makes it easier to find your Twitter friends on Mastodon](https://techcrunch.com/2022/11/29/a-new-tool-movetodon-makes-it-easier-to-find-your-twitter-friends-on-mastodon/)
+- [Dropbox acquires Boxcryptor assets to bring zero-knowledge encryption to file storage](https://techcrunch.com/2022/11/29/dropbox-acquires-boxcryptor-assets-to-bring-zero-knowledge-encryption-to-file-storage/)
+- [Four more days left to save on tix to TC Sessions: Space](https://techcrunch.com/2022/11/29/four-more-days-left-to-save-on-tix-to-tc-sessions-space/)
+- [Lordstown Motors begins shipping its Foxconn-made EV pickup trucks](https://techcrunch.com/2022/11/29/lordstown-motors-begins-shipping-its-foxconn-made-ev-pickup-trucks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
