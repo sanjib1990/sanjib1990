@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [As Pipe’s founding team departs, tensions rise over allegations](https://techcrunch.com/2022/11/28/as-pipes-founding-team-departs-tensions-rise-over-allegations/)
 - [Southeast Asia insurtech Igloo increases its Series B to $46M](https://techcrunch.com/2022/11/28/igloo-series-b-extension/)
 - [EV SPAC Faraday Future ousts its CEO](https://techcrunch.com/2022/11/28/ev-spac-faraday-future-ousts-its-ceo/)
 - [You can get 3 months of Discovery+ at $0.99 a month for Cyber Monday, but act fast](https://www.space.com/discovery-plus-cyber-monday-streaming-deal)
 - [Daily Crunch: WhatsApp rolls out new ‘Message Yourself’ feature globally](https://techcrunch.com/2022/11/28/daily-crunch-whatsapp-rolls-out-new-message-yourself-feature-globally/)
-- [Max Q: Thank you](https://techcrunch.com/2022/11/28/max-q-thank-you/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
