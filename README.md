@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [India to pilot retail digital currency on December 1](https://techcrunch.com/2022/11/29/india-to-pilot-retail-digital-currency-on-december-1/)
-- [It’s maybe a little late to be talking about red flags in venture investing?](https://techcrunch.com/2022/11/29/its-a-little-late-to-be-talking-about-red-flags-in-venture-investing/)
-- [Apple announces winners of the App Store Awards for 2022](https://techcrunch.com/2022/11/29/apple-announces-winners-of-the-app-store-awards-for-2022/)
-- [CRED acquires CreditVidya](https://techcrunch.com/2022/11/29/cred-acquires-creditvidya/)
-- [Founder factories: Alumni from 344 European and Israeli unicorns have birthed 1,018 startups since 2008](https://techcrunch.com/2022/11/29/founder-factories-alumni-from-european-and-israeli-unicorns-have-birthed-1018-startups-since-2008/)
+- [Building on the moon: NASA awards Texas company $57 million for lunar construction system](https://www.space.com/icon-moon-construction-project-olympus-nasa-funding)
+- [Deepgram lands new cash to grow its enterprise voice-recognition business](https://techcrunch.com/2022/11/29/deepgram-lands-new-cash-to-grow-its-enterprise-voice-recognition-business/)
+- [Lyst, the UK fashion marketplace, is laying off 25% of staff](https://techcrunch.com/2022/11/29/lyst-the-uk-fashion-marketplace-is-laying-off-25-of-staff/)
+- [UK confirms removal of Online Safety Bill’s ‘legal but harmful’ clause](https://techcrunch.com/2022/11/29/uk-online-safety-bill-legal-but-harmful-edit/)
+- [Watch China launch Shenzhou 15 astronauts to Tiangong space station today](https://www.space.com/china-shenzhou-15-astronaut-launch-webcast)
 <!-- BLOG-POST-LIST:END -->
 
 ---
