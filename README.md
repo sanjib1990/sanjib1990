@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google/iHeartMedia will pay $9.4M to settle FTC charges for ‘deceptive’ Pixel 4 radio ads](https://techcrunch.com/2022/11/29/google-iheartmedia-will-pay-9-4m-to-settle-ftc-charges-for-deceptive-pixel-4-radio-ads/)
-- [A new tool ‘Movetodon’ makes it easier to find your Twitter friends on Mastodon](https://techcrunch.com/2022/11/29/a-new-tool-movetodon-makes-it-easier-to-find-your-twitter-friends-on-mastodon/)
-- [Dropbox acquires Boxcryptor assets to bring zero-knowledge encryption to file storage](https://techcrunch.com/2022/11/29/dropbox-acquires-boxcryptor-assets-to-bring-zero-knowledge-encryption-to-file-storage/)
-- [Four more days left to save on tix to TC Sessions: Space](https://techcrunch.com/2022/11/29/four-more-days-left-to-save-on-tix-to-tc-sessions-space/)
-- [Lordstown Motors begins shipping its Foxconn-made EV pickup trucks](https://techcrunch.com/2022/11/29/lordstown-motors-begins-shipping-its-foxconn-made-ev-pickup-trucks/)
+- [Dozens of earthquakes swarm Hawaii as the world&#39;s largest volcano erupts](https://www.space.com/mauna-loa-erupts-after-forty-years)
+- [Snapchat complies with the California Privacy Rights Act with a new toggle switch for users](https://techcrunch.com/2022/11/29/snapchat-complies-with-the-california-privacy-rights-act-with-a-new-toggle-switch-for-users/)
+- [We review Abby, a sleek one-plant weed farm for your apartment](https://techcrunch.com/2022/11/29/abby-hydroponic-review/)
+- [As tech companies seek to limit losses, a reminder of how far some have to go](https://techcrunch.com/2022/11/29/as-tech-companies-seek-to-limit-losses-a-reminder-of-how-far-some-have-to-go/)
+- [See you in Boston for TechCrunch’s Annual Founder Summit](https://techcrunch.com/2022/11/29/see-you-in-boston-for-techcrunchs-annual-founder-summit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
