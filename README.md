@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Artemis 1&#39;s Orion spacecraft hits halfway point of epic moon mission](https://www.space.com/orion-halfway-point-artemis-1-moon-mission)
-- [Moovit users can now track transit vehicles on map in real time](https://techcrunch.com/2022/11/29/moovit-users-can-now-track-transit-vehicles-on-map-in-real-time/)
-- [Pearpop raises $18M at a $300M valuation to scale its social collaboration marketplace](https://techcrunch.com/2022/11/29/pearpop-raises-18m-300m-valuation-social-collaboration-marketplace/)
-- [Software supply chain security is broader than SolarWinds and Log4J](https://techcrunch.com/2022/11/29/software-supply-chain-security-is-broader-than-solarwinds-and-log4j/)
-- [NopeaRide, Kenya’s first EV taxi service, shuts down](https://techcrunch.com/2022/11/29/nopearide-kenyas-first-ev-taxi-service-shuts-down/)
+- [Cyber Monday online sales hit a record $11.3B, driven by demand, not just inflation, says Adobe](https://techcrunch.com/2022/11/29/cyber-monday-online-sales/)
+- [Slate’s ‘Slow Burn’ is the winner of Apple’s first podcast award](https://techcrunch.com/2022/11/29/slates-slow-burn-is-the-winner-of-apples-first-podcast-award/)
+- [Solana-focused crypto wallet Phantom adds Ethereum and Polygon support](https://techcrunch.com/2022/11/29/solana-focused-crypto-wallet-phantom-adds-ethereum-and-polygon-support/)
+- [‘Co-warehouse’ company Saltbox closes $35M Series B](https://techcrunch.com/2022/11/29/co-warehouse-company-saltbox-closes-35m-series-b/)
+- [Artemis 1 Orion spacecraft hits halfway point of epic moon mission](https://www.space.com/orion-halfway-point-artemis-1-moon-mission)
 <!-- BLOG-POST-LIST:END -->
 
 ---
