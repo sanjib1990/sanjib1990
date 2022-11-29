@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Building on the moon: NASA awards Texas company $57 million for lunar construction system](https://www.space.com/icon-moon-construction-project-olympus-nasa-funding)
-- [Deepgram lands new cash to grow its enterprise voice-recognition business](https://techcrunch.com/2022/11/29/deepgram-lands-new-cash-to-grow-its-enterprise-voice-recognition-business/)
-- [Lyst, the UK fashion marketplace, is laying off 25% of staff](https://techcrunch.com/2022/11/29/lyst-the-uk-fashion-marketplace-is-laying-off-25-of-staff/)
-- [UK confirms removal of Online Safety Bill’s ‘legal but harmful’ clause](https://techcrunch.com/2022/11/29/uk-online-safety-bill-legal-but-harmful-edit/)
-- [Watch China launch Shenzhou 15 astronauts to Tiangong space station today](https://www.space.com/china-shenzhou-15-astronaut-launch-webcast)
+- [Artemis 1&#39;s Orion spacecraft hits halfway point of epic moon mission](https://www.space.com/orion-halfway-point-artemis-1-moon-mission)
+- [Moovit users can now track transit vehicles on map in real time](https://techcrunch.com/2022/11/29/moovit-users-can-now-track-transit-vehicles-on-map-in-real-time/)
+- [Pearpop raises $18M at a $300M valuation to scale its social collaboration marketplace](https://techcrunch.com/2022/11/29/pearpop-raises-18m-300m-valuation-social-collaboration-marketplace/)
+- [Software supply chain security is broader than SolarWinds and Log4J](https://techcrunch.com/2022/11/29/software-supply-chain-security-is-broader-than-solarwinds-and-log4j/)
+- [NopeaRide, Kenya’s first EV taxi service, shuts down](https://techcrunch.com/2022/11/29/nopearide-kenyas-first-ev-taxi-service-shuts-down/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
