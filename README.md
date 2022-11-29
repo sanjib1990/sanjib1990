@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon announces preview of new Inf2 instances designed for larger models](https://techcrunch.com/2022/11/29/amazon-announces-preview-of-new-inf2-instances-designed-for-larger-models/)
-- [TechCrunch+ roundup: Fundraising under scrutiny, optimizing LTV, visa bulletin update](https://techcrunch.com/2022/11/29/techcrunch-roundup-fundraising-under-scrutiny-optimizing-ltv-visa-bulletin-update/)
-- [Edtech Saasguru wants to fix the cloud talent shortage at scale](https://techcrunch.com/2022/11/29/saasguru-cloud-skills-shortage/)
-- [Galactic cannibal Andromeda feasts on smaller galaxies, cosmic leftovers reveal](https://www.space.com/andromeda-galaxy-cannibalism-finding-remains)
-- [For $20 a month, you can host meetings in Mozilla’s mini metaverse](https://techcrunch.com/2022/11/29/for-20-a-month-you-can-host-meetings-in-mozillas-mini-metaverse/)
+- [China completes world&#39;s largest solar telescope array with a whopping 313 dishes](https://www.space.com/china-completes-giant-radio-telescope-array-solar-observation)
+- [Amazon introduces AWS Supply Chain to help bring order to supply chain chaos](https://techcrunch.com/2022/11/29/amazon-introduces-aws-supply-chain-to-help-bring-order-to-supply-chain-chaos/)
+- [AWS gets data clean rooms for analytics data](https://techcrunch.com/2022/11/29/aws-gets-data-clean-rooms-for-analytics-data/)
+- [AWS SimSpace Weaver can run city-sized simulations in the Cloud](https://techcrunch.com/2022/11/29/aws-simspace-weaver-can-run-city-sized-simulations-in-the-cloud/)
+- [China tests reusable rocket engine for the 1st time &lpar;video&rpar;](https://www.space.com/china-tests-reusable-rocket-engine-first-time)
 <!-- BLOG-POST-LIST:END -->
 
 ---
