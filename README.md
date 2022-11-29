@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Seedstars Capital launches to support new fund managers around the world](https://techcrunch.com/2022/11/28/seedstars-capital/)
 - [AWS makes Lambda cold start latency a thing of the past with SnapStart](https://techcrunch.com/2022/11/28/aws-makes-lambda-cold-start-latency-a-thing-of-the-past-with-snapstart/)
 - [Despite ban, Twitter downloads surge in China amid COVID protests](https://techcrunch.com/2022/11/28/despite-ban-twitter-downloads-surge-in-china-amid-covid-protests/)
 - [AWS launches Graviton3E, its new Arm-based chip for HPC workloads](https://techcrunch.com/2022/11/28/aws-launches-graviton3e-its-new-arm-based-chip-for-hpc-workloads/)
 - [As Pipe’s founding team departs, tensions rise over allegations](https://techcrunch.com/2022/11/28/as-pipes-founding-team-departs-tensions-rise-over-allegations/)
-- [Southeast Asia insurtech Igloo increases its Series B to $46M](https://techcrunch.com/2022/11/28/igloo-series-b-extension/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
