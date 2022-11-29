@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [It’s a little late to be talking about red flags in venture investing?](https://techcrunch.com/2022/11/29/its-a-little-late-to-be-talking-about-red-flags-in-venture-investing/)
+- [India to pilot retail digital currency on December 1](https://techcrunch.com/2022/11/29/india-to-pilot-retail-digital-currency-on-december-1/)
+- [It’s maybe a little late to be talking about red flags in venture investing?](https://techcrunch.com/2022/11/29/its-a-little-late-to-be-talking-about-red-flags-in-venture-investing/)
 - [Apple announces winners of the App Store Awards for 2022](https://techcrunch.com/2022/11/29/apple-announces-winners-of-the-app-store-awards-for-2022/)
 - [CRED acquires CreditVidya](https://techcrunch.com/2022/11/29/cred-acquires-creditvidya/)
-- [Founder factories: Alumni from European and Israeli unicorns have birthed 1,018 startups since 2008](https://techcrunch.com/2022/11/29/founder-factories-alumni-from-european-and-israeli-unicorns-have-birthed-1018-startups-since-2008/)
-- [Locus raises another $117M for its warehouse robots](https://techcrunch.com/2022/11/29/locus-raises-another-107m-for-its-warehouse-robots/)
+- [Founder factories: Alumni from 344 European and Israeli unicorns have birthed 1,018 startups since 2008](https://techcrunch.com/2022/11/29/founder-factories-alumni-from-european-and-israeli-unicorns-have-birthed-1018-startups-since-2008/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
