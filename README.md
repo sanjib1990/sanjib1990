@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX fires engines of Starship Super Heavy booster ahead of test flight &lpar;video&rpar;](https://www.space.com/spacex-starship-super-heavy-static-fire-november-29)
+- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates)
 - [&#39;Andor&#39; concludes epic first season with a slightly confusing finale](https://www.space.com/star-wars-andor-episode-12-review)
 - [Blue Origin’s Shahir Gerges discusses a post-ISS orbital economy at TC Sessions: Space](https://techcrunch.com/2022/11/29/blue-origins-shahir-gerges-discusses-a-post-iss-orbital-economy-at-tc-sessions-space/)
 - [AWS adds automated agent monitoring to Amazon Contact Center](https://techcrunch.com/2022/11/29/aws-adds-automated-agent-monitoring-to-amazon-contact-center/)
-- [8 Great gifts for anyone working from home](https://techcrunch.com/2022/11/29/8-great-gifts-for-anyone-working-from-home-remote-work/)
-- [China completes world&#39;s largest solar telescope array with a whopping 313 dishes](https://www.space.com/china-completes-giant-radio-telescope-array-solar-observation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
