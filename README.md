@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to turn off World Cup notifications from Twitter](https://techcrunch.com/2022/11/30/how-to-turn-off-world-cup-notifications-from-twitter/)
 - [The hunt is on in neighboring galaxy for 2nd closest monster black hole to Earth](https://www.space.com/second-nearest-supermassive-black-hole-hunt)
 - [Search for possible sign of life in Venus&#39; clouds comes up empty](https://www.space.com/sofia-flying-telescope-fails-find-phosphine-venus)
 - [See the half-lit first quarter moon on Wednesday &lpar;Nov. 30&rpar;](https://www.space.com/first-quarter-moon-half-lit-nov-30-2022)
 - [South Korean prosecutors seek arrest warrants for Terraform Labs co-founder, investors and engineers](https://techcrunch.com/2022/11/30/south-korean-prosecutors-seek-arrest-warrants-for-terraform-labs-co-founder-investors-and-engineers/)
-- [Pinterest shuts down its ‘Creator Rewards’ program](https://techcrunch.com/2022/11/30/pinterest-shuts-down-its-creator-rewards-program/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
