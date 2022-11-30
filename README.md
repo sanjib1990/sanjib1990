@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to turn off World Cup notifications from Twitter](https://techcrunch.com/2022/11/30/how-to-turn-off-world-cup-notifications-from-twitter/)
-- [The hunt is on in neighboring galaxy for 2nd closest monster black hole to Earth](https://www.space.com/second-nearest-supermassive-black-hole-hunt)
-- [Search for possible sign of life in Venus&#39; clouds comes up empty](https://www.space.com/sofia-flying-telescope-fails-find-phosphine-venus)
-- [See the half-lit first quarter moon on Wednesday &lpar;Nov. 30&rpar;](https://www.space.com/first-quarter-moon-half-lit-nov-30-2022)
-- [South Korean prosecutors seek arrest warrants for Terraform Labs co-founder, investors and engineers](https://techcrunch.com/2022/11/30/south-korean-prosecutors-seek-arrest-warrants-for-terraform-labs-co-founder-investors-and-engineers/)
+- [Binance poised for Japan expansion after buying local exchange Sakura](https://techcrunch.com/2022/11/30/binance-japan-expansion-sakura/)
+- [New Gorilla Glass just dropped](https://techcrunch.com/2022/11/30/new-gorilla-glass-just-dropped/)
+- [Spotify Wrapped 2022 arrives with new features like your ‘Listening Personality,’ 40K+ Artist Messages](https://techcrunch.com/2022/11/30/spotify-wrapped-2022-arrives-with-new-features-like-your-listening-personality-plus-40k-artist-messages/)
+- [See Mars at its best in the night sky on Wednesday &lpar;Nov. 30&rpar;](https://www.space.com/mars-at-perigee-closest-to-earth-nov-30-2022)
+- [Bitcoin ‘rarely’ used for legal transactions, on ‘road to irrelevance’, say European Central Bank officials](https://techcrunch.com/2022/11/30/bitcoin-rarely-used-for-legal-transactions-on-road-to-irrelevance-say-european-central-bank-officials/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
