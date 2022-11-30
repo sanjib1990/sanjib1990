@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [StartupOS launches what it hopes will be the operating system for early-stage startups](https://techcrunch.com/2022/11/30/startupos-launch/)
+- [Satellites track glowing lava from Hawaii&#39;s Mauna Loa eruption &lpar;photos&rpar;](https://www.space.com/mauna-loa-eruption-satellite-images-november)
+- [2 minerals never seen before on Earth found inside 17-ton meteorite](https://www.space.com/two-new-minerals-found-inside-meteorite)
 - [Proptech in Review: 3 investors explain why they’re bullish on tech that makes buildings greener](https://techcrunch.com/2022/11/30/proptech-in-review-3-investors-explain-why-theyre-bullish-on-tech-that-makes-buildings-greener/)
 - [T-minus 72 hours left to save on passes to TC Sessions: Space](https://techcrunch.com/2022/11/30/t-minus-72-hours-left-to-save-on-passes-to-tc-sessions-space/)
-- [Breakthrough wormhole simulation may unite quantum physics and general relativity](https://www.space.com/wormhole-simulation-may-unite-quantum-physics-general-relativity)
-- [Bumble rolls out a new message-before-match feature ‘Compliments’](https://techcrunch.com/2022/11/30/bumble-message-before-match-feature-compliments/)
-- [Astronomers denounce super-bright new BlueWalker 3 satellite](https://www.space.com/bluewalker-3-satellite-interference-worries-astronomers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
