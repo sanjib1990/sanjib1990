@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Disney coughs up $900M to acquire MLB’s remaining stake in BAMTech streaming company](https://techcrunch.com/2022/11/29/disney-coughs-up-900m-to-acquire-mlbs-remaining-stake-in-bamtech-streaming-company/)
+- [Telegram shares data of users accused of copyright violation following court order](https://techcrunch.com/2022/11/29/telegram-shares-data-of-users-accused-of-copyright-violation-following-court-order/)
 - [eFounders morphs into Hexa, a portfolio company of startup studios](https://techcrunch.com/2022/11/29/efounders-morphs-into-hexa-a-portfolio-company-of-startup-studios/)
 - [Gogoro to pilot battery swapping and Smartscooters in Philippines next year](https://techcrunch.com/2022/11/29/gogoro-to-pilot-battery-swapping-and-smartscooters-in-philippines-next-year/)
 - [Sequoia India backs Prismforce that helps IT companies build better talent supply chain](https://techcrunch.com/2022/11/29/prismforce-funding-sequoia-capital-india/)
-- [Iterative launches its second fund for Southeast Asia startups](https://techcrunch.com/2022/11/29/iterative-fund-2/)
-- [Austin-based ICON awarded $57.2 million NASA contract for lunar construction tech](https://techcrunch.com/2022/11/29/austin-based-icon-awarded-57-2-million-nasa-contract-for-lunar-construction-tech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
