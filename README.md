@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Iterative launches its second fund for Southeast Asia startups](https://techcrunch.com/2022/11/29/iterative-fund-2/)
+- [Austin-based ICON awarded $57.2 million NASA contract for lunar construction tech](https://techcrunch.com/2022/11/29/austin-based-icon-awarded-57-2-million-nasa-contract-for-lunar-construction-tech/)
 - [Let’s-a-go again with a new ‘The Super Mario Bros. Movie’ trailer](https://techcrunch.com/2022/11/29/the-super-mario-bros-movie-trailer/)
 - [Daily Crunch: Apple announces its 2022 App Store Award winners](https://techcrunch.com/2022/11/29/daily-crunch-apple-announces-its-2022-app-store-award-winners/)
 - [Magic creator Richard Garfield on why he put a paper game on the blockchain](https://techcrunch.com/2022/11/29/magic-creator-richard-garfield-on-why-he-put-a-paper-game-on-the-blockchain/)
-- [Rising sea levels could swamp the US coastline by 2050, NASA predicts](https://www.space.com/earthquakes-swarm-hawaii-mauna-loa-volcano-erupts)
-- [SpaceX fires 11 engines of Starship Super Heavy booster ahead of test flight &lpar;video&rpar;](https://www.space.com/spacex-starship-super-heavy-static-fire-november-29)
 <!-- BLOG-POST-LIST:END -->
 
 ---
