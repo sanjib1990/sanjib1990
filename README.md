@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Book Excerpt: ‘Better Venture’ looks at how the current venture model connects to the slave trade](https://techcrunch.com/2022/11/30/book-excerpt-better-venture-looks-at-how-the-current-venture-model-connects-to-the-slave-trade/)
+- [Russia launches final GLONASS-M navigation satellite into orbit](https://www.space.com/russia-launches-final-glonass-m-navigation-satellite)
+- [Netflix launches 9 more mobile games, including Gameloft’s ‘FarmVille’ clone](https://techcrunch.com/2022/11/30/netflix-launches-more-mobile-games/)
+- [Antaris predicts the future of the space economy at TC Sessions: Space](https://techcrunch.com/2022/11/30/antaris-predicts-the-future-of-the-space-economy-at-tc-sessions-space/)
 - [Dear Sophie: How should I prepare for my visa interview?](https://techcrunch.com/2022/11/30/dear-sophie-how-should-i-prepare-for-my-visa-interview/)
-- [10 strange things NASA&#39;s Artemis 1 Orion spacecraft took to the moon](https://www.space.com/10-strange-things-on-artemis-1-orion-moon-mission)
-- [Spyware vendor Variston exploited Chrome, Firefox, and Windows zero-days, says Google](https://techcrunch.com/2022/11/30/variston-spyware-chrome-firefox-windows/)
-- [Crypto exchange Kraken cuts 1,100 jobs](https://techcrunch.com/2022/11/30/crypto-exchange-kraken-cuts-1100-jobs/)
-- [Jack Dorsey’s Bitcoin project TBD kills its plan to trademark ‘Web5’](https://techcrunch.com/2022/11/30/jack-dorseys-bitcoin-project-tbd-kills-its-plan-to-trademark-web5/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
