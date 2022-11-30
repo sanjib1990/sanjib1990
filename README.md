@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Transforming old cardboard boxes into insulation nets CleanFiber $10 million round](https://techcrunch.com/2022/11/30/transforming-old-cardboard-boxes-into-insulation-nets-cleanfiber-10-million-round/)
-- [Honda to launch fuel cell vehicle in 2024](https://techcrunch.com/2022/11/30/honda-to-launch-fuel-cell-vehicle-in-2024/)
-- [Amazon Kindle Scribe review](https://techcrunch.com/2022/11/30/amazon-kindle-scribe-review/)
-- [Airbnb is helping find renters an apartment so they can Airbnb it](https://techcrunch.com/2022/11/30/airbnb-is-helping-finds-renters-an-apartment-so-they-can-airbnb-it/)
-- [Natives Rising wins backing to help Native Americans into tech and startups](https://techcrunch.com/2022/11/30/natives-rising-wins-backing-to-help-native-americans-into-tech-and-startups/)
+- [Let’s Encrypt issues 3 billion HTTPS certificates](https://techcrunch.com/2022/11/30/lets-encrypt-https-three-billion/)
+- [Lab-grown black hole may prove Stephen Hawking&#39;s most challenging theory right](https://www.space.com/synthetic-black-hole-matches-hawking-prediction)
+- [‘If you have too much, you can drown’ How tech PR’s job changed in 2022](https://techcrunch.com/2022/11/30/startup-pitching-storytelling-tech-pr-2022/)
+- [New Fare Partners is latest female-led VC to close first fund](https://techcrunch.com/2022/11/30/new-fare-partners-first-fund/)
+- [San Francisco police can now use robots to kill](https://techcrunch.com/2022/11/30/san-francisco-police-can-now-use-robots-to-kill/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
