@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Proptech in Review: 3 investors explain why they’re bullish on tech that makes buildings greener](https://techcrunch.com/2022/11/30/proptech-in-review-3-investors-explain-why-theyre-bullish-on-tech-that-makes-buildings-greener/)
+- [T-minus 72 hours left to save on passes to TC Sessions: Space](https://techcrunch.com/2022/11/30/t-minus-72-hours-left-to-save-on-passes-to-tc-sessions-space/)
+- [Breakthrough wormhole simulation may unite quantum physics and general relativity](https://www.space.com/wormhole-simulation-may-unite-quantum-physics-general-relativity)
+- [Bumble rolls out a new message-before-match feature ‘Compliments’](https://techcrunch.com/2022/11/30/bumble-message-before-match-feature-compliments/)
 - [Astronomers denounce super-bright new BlueWalker 3 satellite](https://www.space.com/bluewalker-3-satellite-interference-worries-astronomers)
-- [Russia launches final GLONASS-M navigation satellite into orbit](https://www.space.com/russia-launches-final-glonass-m-navigation-satellite)
-- [Dear Sophie: How should I prepare for my visa interview?](https://techcrunch.com/2022/11/30/dear-sophie-how-should-i-prepare-for-my-visa-interview/)
-- [10 strange things NASA&#39;s Artemis 1 Orion spacecraft took to the moon](https://www.space.com/10-strange-things-on-artemis-1-orion-moon-mission)
-- [Spyware vendor Variston exploited Chrome, Firefox, and Windows zero-days, says Google](https://techcrunch.com/2022/11/30/variston-spyware-chrome-firefox-windows/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
