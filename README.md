@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Music fans revisit their year in music with Spotify Wrapped 2022](https://techcrunch.com/2022/11/30/daily-crunch-music-fans-revisit-their-year-in-music-with-spotify-wrapped-2022/)
+- [As Sisko returns in IDW&#39;s new flagship &#39;Star Trek&#39; series, writers Jackson Lanzing and Collin Kelly weigh in &lpar;exclusive&rpar;](https://www.space.com/star-trek-sisko-returns-idw-comics-exclusive)
+- [Stability AI doubles down on AWS](https://techcrunch.com/2022/11/30/stability-ai-doubles-down-on-aws/)
 - [A Voyager probe becomes an alien survival tool in Image Comics&#39; sci-fi series &#39;Voyagis&#39;](https://www.space.com/voyager-sci-fi-comic-voyagis-launch)
 - [Musk at Twitter has ‘huge work’ ahead to comply with EU rules, warns bloc](https://techcrunch.com/2022/11/30/elon-musk-twitter-eu-dsa-warning/)
-- [YouTube acknowledges its iOS app is crashing, says it’s working on a fix](https://techcrunch.com/2022/11/30/youtube-ios-app-crash/)
-- [9 suitcase-friendly gifts for frequent flyers](https://techcrunch.com/2022/11/30/gift-guide-9-suitcase-friendly-holiday-gifts-for-frequent-flyers/)
-- [Bret Taylor steps down as co-chair and CEO of Salesforce](https://techcrunch.com/2022/11/30/bret-taylor-steps-down-as-co-chair-and-ceo-of-salesforce/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
