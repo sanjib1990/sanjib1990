@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Ultimate Course for IT Beginners - From Zero to Engineer [22 Hours Released]](https://www.youtube.com/watch?v=Iyfntbj2jWU)
 - [Just In Time &lpar;JIT&rpar; Compilers - Computerphile](https://www.youtube.com/watch?v=d7KHAVaX_Rs)
 - [Supabase in 100 Seconds](https://www.youtube.com/watch?v=zBZgdTb-dns)
 - [JavaScript for the Haters](https://www.youtube.com/watch?v=aXOChLn5ZdQ)
 - [level up and learn to hack | top Black Friday deals](https://www.youtube.com/watch?v=tHBUxYGthYg)
-- [100+ JavaScript Concepts you Need to Know](https://www.youtube.com/watch?v=lkIFF4maKMU)
 <!-- YOUTUBE:END -->
 
 ---
