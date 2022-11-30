@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Super-distant black hole is eating half a sun a year and blasting its leftovers at Earth](https://www.space.com/black-hole-eating-star-jet-points-earth)
-- [ResortPass, backed by Jessica Alba and Gwyneth Paltrow, lands $26M so you can take a daycation](https://techcrunch.com/2022/11/30/backed-by-jessica-alba-and-gwyneth-paltrow-resortpass-lands-26m-in-new-funding/)
-- [Series A rounds are looking a little crunchy in the United States](https://techcrunch.com/2022/11/30/series-a-rounds-are-looking-a-little-crunchy-in-the-united-states/)
-- [Spend management platform Teampay expands partnership with Mastercard, raises $47M](https://techcrunch.com/2022/11/30/teampay-expands-mastercard-deal-raises-47m-debt-equity/)
-- [Adtech antitrust class damages claim filed against Google in UK — seeking up to $16.3BN](https://techcrunch.com/2022/11/30/google-adtech-antitrust-lawsuit-uk/)
+- [Dear Sophie: How should I prepare for my visa interview?](https://techcrunch.com/2022/11/30/dear-sophie-how-should-i-prepare-for-my-visa-interview/)
+- [10 strange things NASA&#39;s Artemis 1 Orion spacecraft took to the moon](https://www.space.com/10-strange-things-on-artemis-1-orion-moon-mission)
+- [Spyware vendor Variston exploited Chrome, Firefox, and Windows zero-days, says Google](https://techcrunch.com/2022/11/30/variston-spyware-chrome-firefox-windows/)
+- [Crypto exchange Kraken cuts 1,100 jobs](https://techcrunch.com/2022/11/30/crypto-exchange-kraken-cuts-1100-jobs/)
+- [Jack Dorsey’s Bitcoin project TBD kills its plan to trademark ‘Web5’](https://techcrunch.com/2022/11/30/jack-dorseys-bitcoin-project-tbd-kills-its-plan-to-trademark-web5/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
