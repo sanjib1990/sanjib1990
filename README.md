@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The hunt is on in neighboring galaxy for 2nd closest monster black hole to Earth](https://www.space.com/second-nearest-supermassive-black-hole-hunt)
+- [Search for possible sign of life in Venus&#39; clouds comes up empty](https://www.space.com/sofia-flying-telescope-fails-find-phosphine-venus)
+- [See the half-lit first quarter moon on Wednesday &lpar;Nov. 30&rpar;](https://www.space.com/first-quarter-moon-half-lit-nov-30-2022)
+- [South Korean prosecutors seek arrest warrants for Terraform Labs co-founder, investors and engineers](https://techcrunch.com/2022/11/30/south-korean-prosecutors-seek-arrest-warrants-for-terraform-labs-co-founder-investors-and-engineers/)
 - [Pinterest shuts down its ‘Creator Rewards’ program](https://techcrunch.com/2022/11/30/pinterest-shuts-down-its-creator-rewards-program/)
-- [India pips North America to become the biggest smartwatch market](https://techcrunch.com/2022/11/30/india-pips-north-america-to-become-the-biggest-smartwatch-market/)
-- [Disney coughs up $900M to acquire MLB’s remaining stake in BAMTech streaming company](https://techcrunch.com/2022/11/29/disney-coughs-up-900m-to-acquire-mlbs-remaining-stake-in-bamtech-streaming-company/)
-- [Telegram shares users data in copyright violation lawsuit](https://techcrunch.com/2022/11/29/telegram-shares-data-of-users-accused-of-copyright-violation-following-court-order/)
-- [eFounders morphs into Hexa, a portfolio company of startup studios](https://techcrunch.com/2022/11/29/efounders-morphs-into-hexa-a-portfolio-company-of-startup-studios/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
