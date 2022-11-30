@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pinterest shuts down its ‘Creator Rewards’ program](https://techcrunch.com/2022/11/30/pinterest-shuts-down-its-creator-rewards-program/)
 - [India pips North America to become the biggest smartwatch market](https://techcrunch.com/2022/11/30/india-pips-north-america-to-become-the-biggest-smartwatch-market/)
 - [Disney coughs up $900M to acquire MLB’s remaining stake in BAMTech streaming company](https://techcrunch.com/2022/11/29/disney-coughs-up-900m-to-acquire-mlbs-remaining-stake-in-bamtech-streaming-company/)
 - [Telegram shares users data in copyright violation lawsuit](https://techcrunch.com/2022/11/29/telegram-shares-data-of-users-accused-of-copyright-violation-following-court-order/)
 - [eFounders morphs into Hexa, a portfolio company of startup studios](https://techcrunch.com/2022/11/29/efounders-morphs-into-hexa-a-portfolio-company-of-startup-studios/)
-- [Gogoro to pilot battery swapping and Smartscooters in Philippines next year](https://techcrunch.com/2022/11/29/gogoro-to-pilot-battery-swapping-and-smartscooters-in-philippines-next-year/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
