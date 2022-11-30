@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [StartupOS launches what it hopes will be the operating system for early-stage startups](https://techcrunch.com/2022/11/30/startupos-launch/)
-- [Satellites track glowing lava from Hawaii&#39;s Mauna Loa eruption &lpar;photos&rpar;](https://www.space.com/mauna-loa-eruption-satellite-images-november)
-- [2 minerals never seen before on Earth found inside 17-ton meteorite](https://www.space.com/two-new-minerals-found-inside-meteorite)
-- [Proptech in Review: 3 investors explain why they’re bullish on tech that makes buildings greener](https://techcrunch.com/2022/11/30/proptech-in-review-3-investors-explain-why-theyre-bullish-on-tech-that-makes-buildings-greener/)
-- [T-minus 72 hours left to save on passes to TC Sessions: Space](https://techcrunch.com/2022/11/30/t-minus-72-hours-left-to-save-on-passes-to-tc-sessions-space/)
+- [A Voyager probe becomes an alien survival tool in Image Comics&#39; sci-fi series &#39;Voyagis&#39;](https://www.space.com/voyager-sci-fi-comic-voyagis-launch)
+- [Musk at Twitter has ‘huge work’ ahead to comply with EU rules, warns bloc](https://techcrunch.com/2022/11/30/elon-musk-twitter-eu-dsa-warning/)
+- [YouTube acknowledges its iOS app is crashing, says it’s working on a fix](https://techcrunch.com/2022/11/30/youtube-ios-app-crash/)
+- [9 suitcase-friendly gifts for frequent flyers](https://techcrunch.com/2022/11/30/gift-guide-9-suitcase-friendly-holiday-gifts-for-frequent-flyers/)
+- [Bret Taylor steps down as co-chair and CEO of Salesforce](https://techcrunch.com/2022/11/30/bret-taylor-steps-down-as-co-chair-and-ceo-of-salesforce/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
