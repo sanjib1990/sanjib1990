@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Let’s Encrypt issues 3 billion HTTPS certificates](https://techcrunch.com/2022/11/30/lets-encrypt-https-three-billion/)
-- [Lab-grown black hole may prove Stephen Hawking&#39;s most challenging theory right](https://www.space.com/synthetic-black-hole-matches-hawking-prediction)
-- [‘If you have too much, you can drown’ How tech PR’s job changed in 2022](https://techcrunch.com/2022/11/30/startup-pitching-storytelling-tech-pr-2022/)
-- [New Fare Partners is latest female-led VC to close first fund](https://techcrunch.com/2022/11/30/new-fare-partners-first-fund/)
-- [San Francisco police can now use robots to kill](https://techcrunch.com/2022/11/30/san-francisco-police-can-now-use-robots-to-kill/)
+- [Super-distant black hole is eating half a sun a year and blasting its leftovers at Earth](https://www.space.com/black-hole-eating-star-jet-points-earth)
+- [ResortPass, backed by Jessica Alba and Gwyneth Paltrow, lands $26M so you can take a daycation](https://techcrunch.com/2022/11/30/backed-by-jessica-alba-and-gwyneth-paltrow-resortpass-lands-26m-in-new-funding/)
+- [Series A rounds are looking a little crunchy in the United States](https://techcrunch.com/2022/11/30/series-a-rounds-are-looking-a-little-crunchy-in-the-united-states/)
+- [Spend management platform Teampay expands partnership with Mastercard, raises $47M](https://techcrunch.com/2022/11/30/teampay-expands-mastercard-deal-raises-47m-debt-equity/)
+- [Adtech antitrust class damages claim filed against Google in UK — seeking up to $16.3BN](https://techcrunch.com/2022/11/30/google-adtech-antitrust-lawsuit-uk/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
