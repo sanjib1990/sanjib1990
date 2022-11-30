@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Binance poised for Japan expansion after buying local exchange Sakura](https://techcrunch.com/2022/11/30/binance-japan-expansion-sakura/)
-- [New Gorilla Glass just dropped](https://techcrunch.com/2022/11/30/new-gorilla-glass-just-dropped/)
-- [Spotify Wrapped 2022 arrives with new features like your ‘Listening Personality,’ 40K+ Artist Messages](https://techcrunch.com/2022/11/30/spotify-wrapped-2022-arrives-with-new-features-like-your-listening-personality-plus-40k-artist-messages/)
-- [See Mars at its best in the night sky on Wednesday &lpar;Nov. 30&rpar;](https://www.space.com/mars-at-perigee-closest-to-earth-nov-30-2022)
-- [Bitcoin ‘rarely’ used for legal transactions, on ‘road to irrelevance’, say European Central Bank officials](https://techcrunch.com/2022/11/30/bitcoin-rarely-used-for-legal-transactions-on-road-to-irrelevance-say-european-central-bank-officials/)
+- [Transforming old cardboard boxes into insulation nets CleanFiber $10 million round](https://techcrunch.com/2022/11/30/transforming-old-cardboard-boxes-into-insulation-nets-cleanfiber-10-million-round/)
+- [Honda to launch fuel cell vehicle in 2024](https://techcrunch.com/2022/11/30/honda-to-launch-fuel-cell-vehicle-in-2024/)
+- [Amazon Kindle Scribe review](https://techcrunch.com/2022/11/30/amazon-kindle-scribe-review/)
+- [Airbnb is helping find renters an apartment so they can Airbnb it](https://techcrunch.com/2022/11/30/airbnb-is-helping-finds-renters-an-apartment-so-they-can-airbnb-it/)
+- [Natives Rising wins backing to help Native Americans into tech and startups](https://techcrunch.com/2022/11/30/natives-rising-wins-backing-to-help-native-americans-into-tech-and-startups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
