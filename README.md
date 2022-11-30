@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Gogoro to pilot battery swapping and Smartscooters in Philippines next year](https://techcrunch.com/2022/11/29/gogoro-to-pilot-battery-swapping-and-smartscooters-in-philippines-next-year/)
 - [Sequoia India backs Prismforce that helps IT companies build better talent supply chain](https://techcrunch.com/2022/11/29/prismforce-funding-sequoia-capital-india/)
 - [Iterative launches its second fund for Southeast Asia startups](https://techcrunch.com/2022/11/29/iterative-fund-2/)
 - [Austin-based ICON awarded $57.2 million NASA contract for lunar construction tech](https://techcrunch.com/2022/11/29/austin-based-icon-awarded-57-2-million-nasa-contract-for-lunar-construction-tech/)
 - [Let’s-a-go again with a new ‘The Super Mario Bros. Movie’ trailer](https://techcrunch.com/2022/11/29/the-super-mario-bros-movie-trailer/)
-- [Daily Crunch: Apple announces its 2022 App Store Award winners](https://techcrunch.com/2022/11/29/daily-crunch-apple-announces-its-2022-app-store-award-winners/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
