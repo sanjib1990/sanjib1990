@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How Up.Labs threads the needle between corporate venture capital and accelerators](https://techcrunch.com/2022/12/01/how-up-labs-threads-the-needle-between-corporate-venture-capital-and-accelerators/)
-- [See the moon visit Jupiter in the sky tonight &lpar;Dec. 1&rpar;](https://www.space.com/moon-jupiter-conjunction-dec-1-2022)
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates)
-- [LinkedIn rolls out focused inbox and messaging safety tools as it gets to grip with spam and scams](https://techcrunch.com/2022/12/01/linkedin-rolls-out-focused-inbox-and-messaging-safety-tools-as-it-gets-to-grip-with-spam-and-scams/)
-- [Frore secures $100M, collabs with Intel to create a new way to cool processors](https://techcrunch.com/2022/12/01/frore-secures-100m-collabs-with-intel-to-create-a-new-way-to-cool-processors/)
+- [Here&#39;s how NASA and Europe will bring Mars samples back to Earth &lpar;video&rpar;](https://www.space.com/mars-sample-return-plan-nasa-esa-video)
+- [No one seemed to see Bret Taylor stepping away from Salesforce &lpar;even Marc Benioff&rpar;](https://techcrunch.com/2022/12/01/no-one-seemed-to-see-bret-taylor-stepping-away-from-salesforce-even-marc-benioff/)
+- [Webb, Keck Telescopes Team Up to Track Clouds on Saturn’s Moon Titan](https://blogs.nasa.gov/webb/2022/12/01/webb-keck-telescopes-team-up-to-track-clouds-on-saturns-moon-titan/)
+- [Ukraine invasion&#39;s impacts on space exploration: Live updates](https://www.space.com/news/live/russia-ukraine-invasion-space-impacts-updates)
+- [Blue Origin space tourist launches: Live mission updates](https://www.space.com/news/live/blue-origin-mission-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
