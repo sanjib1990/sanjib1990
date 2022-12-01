@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [iPhone users can share car keys in Wallet with non-iPhone users](https://techcrunch.com/2022/12/01/iphone-users-can-share-car-keys-in-wallet-with-non-iphone-users/)
-- [Medibank hackers declare ‘case closed’ as trove of stolen data is released](https://techcrunch.com/2022/12/01/medibank-case-closed-stolen-data-released/)
-- [Meteorites reveal how they brought space water to Earth](https://www.space.com/meteorite-water-found-with-new-method)
-- [Gift Guide: Picking out the right iPad](https://techcrunch.com/2022/12/01/gift-guide-picking-out-the-right-ipad/)
-- [Five reasons why you need to go to TC Sessions: Space](https://techcrunch.com/2022/12/01/five-reasons-why-you-need-to-go-to-tc-sessions-space/)
+- [‘The Mandalorian’ Season 3 will premiere on March 1](https://techcrunch.com/2022/12/01/the-mandalorian-season-3-will-premiere-on-march-1/)
+- [Discord opens up paid subscriptions so servers can sell premium perks](https://techcrunch.com/2022/12/01/discord-opens-up-paid-subscriptions-so-servers-can-sell-premium-perks/)
+- [Startup valuations are declining — but not consistently](https://techcrunch.com/2022/12/01/startup-valuations-are-declining-but-not-consistently/)
+- [Kanye West isn’t buying Parler after all](https://techcrunch.com/2022/12/01/kanye-west-isnt-buying-parler-after-all/)
+- [BloomTech, previously Lambda School, cuts half of staff](https://techcrunch.com/2022/12/01/bloomtech-previously-lambda-school-cuts-half-of-staff/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
