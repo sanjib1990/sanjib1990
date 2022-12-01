@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch as NASA&#39;s Artemis 1 Orion spacecraft leaves lunar orbit today &lpar;Dec. 1&rpar;](https://www.space.com/artemis-1-orion-moon-depature-engine-burn)
+- [Artemis 1 moon rocket, NASA&#39;s most powerful ever, aced its debut launch, agency says](https://www.space.com/artemis-1-sls-moon-rocket-aced-debut-launch)
 - [Web3 developer platform Fleek raises $25M led by Polychain Capital](https://techcrunch.com/2022/12/01/web3-developer-platform-fleek-raises-25m-led-by-polychain-capital/)
 - [Discover the glitch in the universe with All About Space magazine](https://www.space.com/all-about-space-magazine-issue-137)
 - [Zoe, which went viral with its Covid-reporting app, raises $30M to track nutrition and health](https://techcrunch.com/2022/12/01/zoe-which-went-viral-with-its-covid-tracking-app-raises-30m-at-a-303m-valuation-to-track-nutrition/)
-- [Was Sam Bankman-Fried’s appearance a performance?](https://techcrunch.com/2022/12/01/was-sam-bankman-frieds-appearance-a-performance/)
-- [Smartphone re-commerce startup Badili raises $2.1M pre-seed funding](https://techcrunch.com/2022/12/01/smartphone-re-commerce-startup-badili-raises-2-1m-pre-seed-funding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
