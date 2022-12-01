@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Here&#39;s how NASA and Europe will bring Mars samples back to Earth &lpar;video&rpar;](https://www.space.com/mars-sample-return-plan-nasa-esa-video)
-- [No one seemed to see Bret Taylor stepping away from Salesforce &lpar;even Marc Benioff&rpar;](https://techcrunch.com/2022/12/01/no-one-seemed-to-see-bret-taylor-stepping-away-from-salesforce-even-marc-benioff/)
-- [Webb, Keck Telescopes Team Up to Track Clouds on Saturn’s Moon Titan](https://blogs.nasa.gov/webb/2022/12/01/webb-keck-telescopes-team-up-to-track-clouds-on-saturns-moon-titan/)
-- [Ukraine invasion&#39;s impacts on space exploration: Live updates](https://www.space.com/news/live/russia-ukraine-invasion-space-impacts-updates)
-- [Blue Origin space tourist launches: Live mission updates](https://www.space.com/news/live/blue-origin-mission-updates)
+- [X1 gets 50% valuation boost, aims to give consumers a way to buy stocks via credit card reward points](https://techcrunch.com/2022/12/01/x1-a-challenger-credit-card-startup-gets-50-valuation-boost-and-plans-to-offer-consumers-a-way-to-buy-stocks-with-reward-points/)
+- [Google’s Reading Mode app helps visually impaired people read long-form content](https://techcrunch.com/2022/12/01/googles-reading-mode-app-helps-visually-impaired-people-read-long-form-content/)
+- [Android’s December update features includes accessible reading mode and sharable car keys](https://techcrunch.com/2022/12/01/androids-december-update-features-includes-accessible-reading-mode-and-sharable-car-keys/)
+- [Saturn V, space shuttle Pathfinder up for &#39;adoption&#39; to aid in artifact preservation](https://www.space.com/space-rocket-center-adopt-shuttle-artifact)
+- [SpaceX astronaut missions for NASA: Crew-5 updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
