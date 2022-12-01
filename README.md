@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [James Webb Space Telescope view of Saturn&#39;s weirdest moon Titan thrills scientists](https://www.space.com/james-webb-space-telescope-saturn-moon-titan)
-- [Does B stand for Bankman-Fried or Bankruptcy?](https://techcrunch.com/2022/12/01/does-b-stand-for-bankman-fried-or-bankruptcy/)
-- [Canoo sends its EV pickup truck to the US Army for testing](https://techcrunch.com/2022/12/01/canoo-sends-its-ev-pickup-truck-to-the-us-army-for-testing/)
-- [YouTube launches its first-ever official trends podcast, ‘Like &amp; Describe,’ with content creator MatPat](https://techcrunch.com/2022/12/01/youtube-launches-first-ever-official-trends-podcast/)
-- [Macro machines](https://techcrunch.com/2022/12/01/macro-machines/)
+- [iPhone users can share car keys in Wallet with non-iPhone users](https://techcrunch.com/2022/12/01/iphone-users-can-share-car-keys-in-wallet-with-non-iphone-users/)
+- [Medibank hackers declare ‘case closed’ as trove of stolen data is released](https://techcrunch.com/2022/12/01/medibank-case-closed-stolen-data-released/)
+- [Meteorites reveal how they brought space water to Earth](https://www.space.com/meteorite-water-found-with-new-method)
+- [Gift Guide: Picking out the right iPad](https://techcrunch.com/2022/12/01/gift-guide-picking-out-the-right-ipad/)
+- [Five reasons why you need to go to TC Sessions: Space](https://techcrunch.com/2022/12/01/five-reasons-why-you-need-to-go-to-tc-sessions-space/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
