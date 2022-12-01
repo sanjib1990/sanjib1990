@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lumen raises $62M for its handheld weight loss hardware](https://techcrunch.com/2022/12/01/lumen-raises-62m-for-its-handheld-weight-loss-hardware/)
+- [Solar storm from &#39;canyon-like&#39; hole in the sun could hit Earth as soon as Thursday &lpar;Dec. 1&rpar;](https://www.space.com/sun-canyon-like-hole-solar-storm-december-2022)
+- [5 methods for leveraging digital advertising during a downturn](https://techcrunch.com/2022/12/01/5-ways-consumer-startups-can-leverage-digital-advertising-in-a-downturn/)
+- [On-demand car rental company Kyte is now offering car subscriptions](https://techcrunch.com/2022/12/01/on-demand-car-rental-company-kyte-is-now-offering-car-subscriptions/)
 - [Watch an egg fall from near space — and survive &lpar;video&rpar;](https://www.space.com/egg-drop-near-space-video)
-- [Shield, a communication compliance platform for financial institutions, raises $20M](https://techcrunch.com/2022/12/01/shield-a-communication-compliance-platform-for-financial-institutions-raises-20m/)
-- [Watch as NASA&#39;s Artemis 1 Orion spacecraft leaves lunar orbit today &lpar;Dec. 1&rpar;](https://www.space.com/artemis-1-orion-moon-depature-engine-burn)
-- [Artemis 1 moon rocket, NASA&#39;s most powerful ever, aced its debut launch, agency says](https://www.space.com/artemis-1-sls-moon-rocket-aced-debut-launch)
-- [Web3 developer platform Fleek raises $25M led by Polychain Capital](https://techcrunch.com/2022/12/01/web3-developer-platform-fleek-raises-25m-led-by-polychain-capital/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
