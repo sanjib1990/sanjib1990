@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Europa Clipper instrument delays worry scientists eyeing 2024 launch](https://www.space.com/europa-clipper-instrument-schedule-concerns)
-- [Blaseball, the cult favorite online game, will return on January 9](https://techcrunch.com/2022/12/01/blaseball-return-date-january-9/)
-- [Netflix is letting more subscribers preview its films and TV shows, report says](https://techcrunch.com/2022/12/01/netflix-is-letting-more-subscribers-preview-its-films-and-tv-shows-report-says/)
-- [Amazon announces Eventbridge Pipes, a simpler way to connect events from multiple services](https://techcrunch.com/2022/12/01/amazon-announces-eventbridge-pipes-a-simpler-way-to-connect-events-from-multiple-services/)
-- [AWS launches Application Composer, a low-code tool for building serverless apps](https://techcrunch.com/2022/12/01/aws-launches-application-composer-a-low-code-tool-for-building-serverless-apps/)
+- [‘Indie App Santa’ returns, this year offering 40 deals on free and discounted iPhone apps](https://techcrunch.com/2022/12/01/indie-app-santa-returns-this-year-offering-40-deals-on-free-and-discounted-iphone-apps/)
+- [Explore accessibility via Amazon Alexa at Sight Tech Global 2022](https://techcrunch.com/2022/12/01/explore-accessibility-via-amazon-alexa-at-sight-tech-global-2022/)
+- [China has 6 astronauts in space for the 1st time](https://www.space.com/china-six-astronauts-space-station-at-once)
+- [Pitch Deck Teardown: Hour One’s $20M Series A deck](https://techcrunch.com/2022/12/01/pitch-deck-teardown-hour-ones-20m-series-a-deck/)
+- [Amazon CodeCatalyst provides blueprints for collaborative app development](https://techcrunch.com/2022/12/01/amazon-codecatalyst-provides-blueprints-for-collaborative-app-development/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
