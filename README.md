@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX delays launch of Japanese moon lander again, citing rocket issues](https://www.space.com/spacex-delays-japan-moon-lander-launch-again)
+- [Twitter is going to show you more tweets from people you don’t follow](https://techcrunch.com/2022/11/30/twitter-recommended-tweets/)
+- [Indian agritech DeHaat tops $700 million valuation in $60 million funding](https://techcrunch.com/2022/11/30/indian-agritech-dehaat-tops-700-million-valuation-in-60-million-funding/)
+- [LastPass says it was breached — again](https://techcrunch.com/2022/11/30/lastpass-goto-breached-customer-information/)
 - [SBF says journalists are good, actually](https://techcrunch.com/2022/11/30/sbf-says-journalists-are-good-actually/)
-- [SBF claims massive ignorance on obvious conflicts in FTX downfall](https://techcrunch.com/2022/11/30/sbf-claims-massive-ignorance-on-obvious-conflicts-in-ftx-downfall/)
-- [Daily Crunch: Music fans revisit their year in music with Spotify Wrapped 2022](https://techcrunch.com/2022/11/30/daily-crunch-music-fans-revisit-their-year-in-music-with-spotify-wrapped-2022/)
-- [As Sisko returns in IDW&#39;s new flagship &#39;Star Trek&#39; series, writers Jackson Lanzing and Collin Kelly weigh in &lpar;exclusive&rpar;](https://www.space.com/star-trek-sisko-returns-idw-comics-exclusive)
-- [Stability AI doubles down on AWS](https://techcrunch.com/2022/11/30/stability-ai-doubles-down-on-aws/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
