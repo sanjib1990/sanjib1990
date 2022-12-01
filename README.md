@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [‘Indie App Santa’ returns, this year offering 40 deals on free and discounted iPhone apps](https://techcrunch.com/2022/12/01/indie-app-santa-returns-this-year-offering-40-deals-on-free-and-discounted-iphone-apps/)
-- [Explore accessibility via Amazon Alexa at Sight Tech Global 2022](https://techcrunch.com/2022/12/01/explore-accessibility-via-amazon-alexa-at-sight-tech-global-2022/)
-- [China has 6 astronauts in space for the 1st time](https://www.space.com/china-six-astronauts-space-station-at-once)
-- [Pitch Deck Teardown: Hour One’s $20M Series A deck](https://techcrunch.com/2022/12/01/pitch-deck-teardown-hour-ones-20m-series-a-deck/)
-- [Amazon CodeCatalyst provides blueprints for collaborative app development](https://techcrunch.com/2022/12/01/amazon-codecatalyst-provides-blueprints-for-collaborative-app-development/)
+- [James Webb Space Telescope view of Saturn&#39;s weirdest moon Titan thrills scientists](https://www.space.com/james-webb-space-telescope-saturn-moon-titan)
+- [Does B stand for Bankman-Fried or Bankruptcy?](https://techcrunch.com/2022/12/01/does-b-stand-for-bankman-fried-or-bankruptcy/)
+- [Canoo sends its EV pickup truck to the US Army for testing](https://techcrunch.com/2022/12/01/canoo-sends-its-ev-pickup-truck-to-the-us-army-for-testing/)
+- [YouTube launches its first-ever official trends podcast, ‘Like &amp; Describe,’ with content creator MatPat](https://techcrunch.com/2022/12/01/youtube-launches-first-ever-official-trends-podcast/)
+- [Macro machines](https://techcrunch.com/2022/12/01/macro-machines/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
