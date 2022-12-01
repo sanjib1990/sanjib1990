@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Web3 developer platform Fleek raises $25M led by Polychain Capital](https://techcrunch.com/2022/12/01/web3-developer-platform-fleek-raises-25m-led-by-polychain-capital/)
+- [Discover the glitch in the universe with All About Space magazine](https://www.space.com/all-about-space-magazine-issue-137)
+- [Zoe, which went viral with its Covid-reporting app, raises $30M to track nutrition and health](https://techcrunch.com/2022/12/01/zoe-which-went-viral-with-its-covid-tracking-app-raises-30m-at-a-303m-valuation-to-track-nutrition/)
 - [Was Sam Bankman-Fried’s appearance a performance?](https://techcrunch.com/2022/12/01/was-sam-bankman-frieds-appearance-a-performance/)
 - [Smartphone re-commerce startup Badili raises $2.1M pre-seed funding](https://techcrunch.com/2022/12/01/smartphone-re-commerce-startup-badili-raises-2-1m-pre-seed-funding/)
-- [Plant-based food brand Huel valued at $560M following Idris Elba-backed round](https://techcrunch.com/2022/11/30/huel-idris-elba-plant-based/)
-- [SpaceX delays launch of Japanese moon lander again, citing rocket issues](https://www.space.com/spacex-delays-japan-moon-lander-launch-again)
-- [Twitter is going to show you more tweets from people you don’t follow](https://techcrunch.com/2022/11/30/twitter-recommended-tweets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
