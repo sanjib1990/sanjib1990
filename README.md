@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Lumen raises $62M for its handheld weight loss hardware](https://techcrunch.com/2022/12/01/lumen-raises-62m-for-its-handheld-weight-loss-hardware/)
-- [Solar storm from &#39;canyon-like&#39; hole in the sun could hit Earth as soon as Thursday &lpar;Dec. 1&rpar;](https://www.space.com/sun-canyon-like-hole-solar-storm-december-2022)
-- [5 methods for leveraging digital advertising during a downturn](https://techcrunch.com/2022/12/01/5-ways-consumer-startups-can-leverage-digital-advertising-in-a-downturn/)
-- [On-demand car rental company Kyte is now offering car subscriptions](https://techcrunch.com/2022/12/01/on-demand-car-rental-company-kyte-is-now-offering-car-subscriptions/)
-- [Watch an egg fall from near space — and survive &lpar;video&rpar;](https://www.space.com/egg-drop-near-space-video)
+- [How Up.Labs threads the needle between corporate venture capital and accelerators](https://techcrunch.com/2022/12/01/how-up-labs-threads-the-needle-between-corporate-venture-capital-and-accelerators/)
+- [See the moon visit Jupiter in the sky tonight &lpar;Dec. 1&rpar;](https://www.space.com/moon-jupiter-conjunction-dec-1-2022)
+- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates)
+- [LinkedIn rolls out focused inbox and messaging safety tools as it gets to grip with spam and scams](https://techcrunch.com/2022/12/01/linkedin-rolls-out-focused-inbox-and-messaging-safety-tools-as-it-gets-to-grip-with-spam-and-scams/)
+- [Frore secures $100M, collabs with Intel to create a new way to cool processors](https://techcrunch.com/2022/12/01/frore-secures-100m-collabs-with-intel-to-create-a-new-way-to-cool-processors/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
