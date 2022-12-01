@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch an egg fall from near space — and survive &lpar;video&rpar;](https://www.space.com/egg-drop-near-space-video)
+- [Shield, a communication compliance platform for financial institutions, raises $20M](https://techcrunch.com/2022/12/01/shield-a-communication-compliance-platform-for-financial-institutions-raises-20m/)
 - [Watch as NASA&#39;s Artemis 1 Orion spacecraft leaves lunar orbit today &lpar;Dec. 1&rpar;](https://www.space.com/artemis-1-orion-moon-depature-engine-burn)
 - [Artemis 1 moon rocket, NASA&#39;s most powerful ever, aced its debut launch, agency says](https://www.space.com/artemis-1-sls-moon-rocket-aced-debut-launch)
 - [Web3 developer platform Fleek raises $25M led by Polychain Capital](https://techcrunch.com/2022/12/01/web3-developer-platform-fleek-raises-25m-led-by-polychain-capital/)
-- [Discover the glitch in the universe with All About Space magazine](https://www.space.com/all-about-space-magazine-issue-137)
-- [Zoe, which went viral with its Covid-reporting app, raises $30M to track nutrition and health](https://techcrunch.com/2022/12/01/zoe-which-went-viral-with-its-covid-tracking-app-raises-30m-at-a-303m-valuation-to-track-nutrition/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
