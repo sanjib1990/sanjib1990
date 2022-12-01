@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Was Sam Bankman-Fried’s appearance a performance?](https://techcrunch.com/2022/12/01/was-sam-bankman-frieds-appearance-a-performance/)
 - [Smartphone re-commerce startup Badili raises $2.1M pre-seed funding](https://techcrunch.com/2022/12/01/smartphone-re-commerce-startup-badili-raises-2-1m-pre-seed-funding/)
 - [Plant-based food brand Huel valued at $560M following Idris Elba-backed round](https://techcrunch.com/2022/11/30/huel-idris-elba-plant-based/)
 - [SpaceX delays launch of Japanese moon lander again, citing rocket issues](https://www.space.com/spacex-delays-japan-moon-lander-launch-again)
 - [Twitter is going to show you more tweets from people you don’t follow](https://techcrunch.com/2022/11/30/twitter-recommended-tweets/)
-- [Indian agritech DeHaat tops $700 million valuation in $60 million funding](https://techcrunch.com/2022/11/30/indian-agritech-dehaat-tops-700-million-valuation-in-60-million-funding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
