@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SBF says journalists are good, actually](https://techcrunch.com/2022/11/30/sbf-says-journalists-are-good-actually/)
+- [SBF claims massive ignorance on obvious conflicts in FTX downfall](https://techcrunch.com/2022/11/30/sbf-claims-massive-ignorance-on-obvious-conflicts-in-ftx-downfall/)
 - [Daily Crunch: Music fans revisit their year in music with Spotify Wrapped 2022](https://techcrunch.com/2022/11/30/daily-crunch-music-fans-revisit-their-year-in-music-with-spotify-wrapped-2022/)
 - [As Sisko returns in IDW&#39;s new flagship &#39;Star Trek&#39; series, writers Jackson Lanzing and Collin Kelly weigh in &lpar;exclusive&rpar;](https://www.space.com/star-trek-sisko-returns-idw-comics-exclusive)
 - [Stability AI doubles down on AWS](https://techcrunch.com/2022/11/30/stability-ai-doubles-down-on-aws/)
-- [A Voyager probe becomes an alien survival tool in Image Comics&#39; sci-fi series &#39;Voyagis&#39;](https://www.space.com/voyager-sci-fi-comic-voyagis-launch)
-- [Musk at Twitter has ‘huge work’ ahead to comply with EU rules, warns bloc](https://techcrunch.com/2022/11/30/elon-musk-twitter-eu-dsa-warning/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
