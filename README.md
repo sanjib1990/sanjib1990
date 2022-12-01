@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [X1 gets 50% valuation boost, aims to give consumers a way to buy stocks via credit card reward points](https://techcrunch.com/2022/12/01/x1-a-challenger-credit-card-startup-gets-50-valuation-boost-and-plans-to-offer-consumers-a-way-to-buy-stocks-with-reward-points/)
-- [Google’s Reading Mode app helps visually impaired people read long-form content](https://techcrunch.com/2022/12/01/googles-reading-mode-app-helps-visually-impaired-people-read-long-form-content/)
-- [Android’s December update features includes accessible reading mode and sharable car keys](https://techcrunch.com/2022/12/01/androids-december-update-features-includes-accessible-reading-mode-and-sharable-car-keys/)
-- [Saturn V, space shuttle Pathfinder up for &#39;adoption&#39; to aid in artifact preservation](https://www.space.com/space-rocket-center-adopt-shuttle-artifact)
-- [SpaceX astronaut missions for NASA: Crew-5 updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates)
+- [Europa Clipper instrument delays worry scientists eyeing 2024 launch](https://www.space.com/europa-clipper-instrument-schedule-concerns)
+- [Blaseball, the cult favorite online game, will return on January 9](https://techcrunch.com/2022/12/01/blaseball-return-date-january-9/)
+- [Netflix is letting more subscribers preview its films and TV shows, report says](https://techcrunch.com/2022/12/01/netflix-is-letting-more-subscribers-preview-its-films-and-tv-shows-report-says/)
+- [Amazon announces Eventbridge Pipes, a simpler way to connect events from multiple services](https://techcrunch.com/2022/12/01/amazon-announces-eventbridge-pipes-a-simpler-way-to-connect-events-from-multiple-services/)
+- [AWS launches Application Composer, a low-code tool for building serverless apps](https://techcrunch.com/2022/12/01/aws-launches-application-composer-a-low-code-tool-for-building-serverless-apps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
