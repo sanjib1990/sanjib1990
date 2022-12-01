@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s Artemis 1 Orion spacecraft leaves moon&#39;s orbit to head home](https://www.space.com/artemis-1-orion-departs-moon-orbit)
+- [Tesla offers $3,750 discount for Model 3, Model Y deliveries in December](https://techcrunch.com/2022/12/01/tesla-offers-3750-discount-for-model-3-model-y-deliveries-in-december/)
 - [‘The Mandalorian’ Season 3 will premiere on March 1](https://techcrunch.com/2022/12/01/the-mandalorian-season-3-will-premiere-on-march-1/)
 - [Discord opens up paid subscriptions so servers can sell premium perks](https://techcrunch.com/2022/12/01/discord-opens-up-paid-subscriptions-so-servers-can-sell-premium-perks/)
 - [Startup valuations are declining — but not consistently](https://techcrunch.com/2022/12/01/startup-valuations-are-declining-but-not-consistently/)
-- [Kanye West isn’t buying Parler after all](https://techcrunch.com/2022/12/01/kanye-west-isnt-buying-parler-after-all/)
-- [BloomTech, previously Lambda School, cuts half of staff](https://techcrunch.com/2022/12/01/bloomtech-previously-lambda-school-cuts-half-of-staff/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
