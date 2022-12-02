@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Guardians of the Galaxy Vol. 3&#39; trailer gathers the gang for another epic space mission](https://www.space.com/guardians-of-the-galaxy-3-trailer)
-- [ChatGPT isn’t putting me out of a job yet, but it’s very good fun](https://techcrunch.com/2022/12/02/chatgpt-isnt-putting-me-out-of-a-job-yet-but-its-very-good-fun/)
-- [Singapore-based e-commerce platform Carousell lays off 10% of staff](https://techcrunch.com/2022/12/02/singapore-based-e-commerce-platform-carousell-lays-off-10-of-staff/)
-- [Are we bullfighting in Spain? Because that’s a red flag](https://techcrunch.com/2022/12/02/are-we-bullfighting-in-spain-because-thats-a-red-flag/)
-- [UFOs 101: Hype, uproar, disinformation and mystery: &#39;Here we go again.&#39;](https://www.space.com/ufos-101-hype-uproar-disinformation-mystery)
+- [Hundreds report seeing a bright fireball in northeastern U.S.](https://www.space.com/hundreds-report-bright-meteor-northeastern-us)
+- [Google is testing end-to-end encryption for group chats in the Messages app](https://techcrunch.com/2022/12/02/google-is-testing-end-to-end-encryption-for-group-chats-in-the-messages-app/)
+- [Stripe announces fiat-to-crypto onramp widget](https://techcrunch.com/2022/12/02/stripe-announces-fiat-to-crypto-onramp-widget/)
+- [Box reaches $1B run rate in spite of a quarter dogged by currency challenges](https://techcrunch.com/2022/12/02/box-reaches-1b-run-rate-in-spite-of-a-quarter-dogged-by-currency-challenges/)
+- [GoStudent uses its warchest to acquire large network of traditional tutoring centres in Europe](https://techcrunch.com/2022/12/02/gostudent-uses-its-warchest-to-acquire-large-network-of-traditional-tutoring-centres-in-europe/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
