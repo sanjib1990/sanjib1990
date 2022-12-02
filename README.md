@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch 2 NASA astronauts conduct spacewalk on Saturday](https://www.space.com/nasa-spacewalk-international-space-station-december-3-webcast)
+- [The era of constant innovation at Amazon could be over](https://techcrunch.com/2022/12/02/the-era-of-constant-innovation-at-amazon-could-be-over/)
+- [Plant Prefab nabs $42M to crank out ‘extremely sustainable’ custom homes](https://techcrunch.com/2022/12/02/plant-prefab-homes-climate-sustainable-gerdau/)
+- [US Air Force unveils new B-21 Raider stealth bomber today. Here&#39;s what we know](https://www.space.com/air-force-b-21-raider-stealth-bomber-unveiling)
 - [The final 12-hours to savings on passes to TC Sessions: Space](https://techcrunch.com/2022/12/02/the-final-12-hours-to-savings-on-passes-to-tc-sessions-space/)
-- [TechCrunch wants to meet your startup at CES 2023](https://techcrunch.com/2022/12/02/techcrunch-wants-to-meet-your-startup-at-ces-2023/)
-- [China&#39;s Shenzhou 15 crew has busy 6 months ahead aboard Tiangong space station](https://www.space.com/china-shenzhou-15-plans-tiangong-space-station)
-- [Salesforce CEO succession drama and other TC news](https://techcrunch.com/2022/12/02/salesforce-ceo-succession-drama-and-other-tc-news/)
-- [TechCrunch+ roundup: Cash management basics, proptech investor survey, visa interview prep](https://techcrunch.com/2022/12/02/techcrunch-roundup-cash-management-basics-proptech-investor-survey-visa-interview-prep/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
