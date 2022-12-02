@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Guardians of the Galaxy Vol. 3&#39; trailer gathers the gang for another epic space mission](https://www.space.com/guardians-of-the-galaxy-3-trailer)
+- [ChatGPT isn’t putting me out of a job yet, but it’s very good fun](https://techcrunch.com/2022/12/02/chatgpt-isnt-putting-me-out-of-a-job-yet-but-its-very-good-fun/)
 - [Singapore-based e-commerce platform Carousell lays off 10% of staff](https://techcrunch.com/2022/12/02/singapore-based-e-commerce-platform-carousell-lays-off-10-of-staff/)
 - [Are we bullfighting in Spain? Because that’s a red flag](https://techcrunch.com/2022/12/02/are-we-bullfighting-in-spain-because-thats-a-red-flag/)
 - [UFOs 101: Hype, uproar, disinformation and mystery: &#39;Here we go again.&#39;](https://www.space.com/ufos-101-hype-uproar-disinformation-mystery)
-- [The best sci-fi movies and TV shows to stream on Disney Plus in December](https://www.space.com/disney-plus-best-space-scifi-streaming.html)
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
