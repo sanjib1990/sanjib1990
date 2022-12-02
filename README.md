@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Kenya’s Uncover raises $1M to expand skincare product enterprise across Africa](https://techcrunch.com/2022/12/01/kenyas-uncover-raises-1m-to-expand-skincare-product-enterprise-across-africa/)
+- [Mozilla acquires Active Replica to build on its metaverse vision](https://techcrunch.com/2022/12/01/mozilla-acquires-active-replica-to-build-on-its-metaverse-vision/)
 - [Elon Musk suspends Kanye West’s account for breaking Twitter rules](https://techcrunch.com/2022/12/01/elon-musk-suspends-kanye-wests-account-for-breaking-twitter-rules/)
 - [Tesla reveals long-awaited Semi Truck and begins first deliveries](https://techcrunch.com/2022/12/01/tesla-reveals-long-awaited-semi-truck-and-begins-first-deliveries/)
 - [This secondary markets expert says we haven’t hit bottom yet](https://techcrunch.com/2022/12/01/this-secondary-market-pro-thinks-we-havent-hit-bottom-but-he-sees-price-drops-slowing/)
-- [Boundary Layer pivots from container ships to hydrofoiling personal watercraft](https://techcrunch.com/2022/12/01/boundary-layer-personal-watercraft-pivot/)
-- [To da moon: Emm aims to innovate on the menstrual cup](https://techcrunch.com/2022/12/01/emm-series-seed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
