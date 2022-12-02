@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [LineupSupply updates its app to generate Instafest-styled posters via your Spotify](https://techcrunch.com/2022/12/02/lineupsupply-updates-its-app-to-generate-instafest-styled-posters-via-your-spotify/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [Telescopes at Best Buy: What&#39;s in stock and what&#39;s on sale this season](https://www.space.com/telescopes-at-best-buy)
 - [SpaceX Dragon cargo spacecraft lands at Chicago museum ahead of exhibit](https://www.space.com/spacex-dragon-chicago-museum-science-industry)
 - [Beautiful interactive map of the universe lets you journey through space-time almost to the Big Bang](https://www.space.com/interactive-universe-map-back-to-big-bang)
-- [Shein jumps on the third-party brandwagon with Alibaba veteran](https://techcrunch.com/2022/12/02/shein-jumps-on-the-third-party-brandwagon-with-alibaba-veteran/)
-- [Twitter-backed ShareChat to shut down fantasy sports app Jeet11, eliminate some jobs](https://techcrunch.com/2022/12/02/twitter-backed-sharechat-to-shut-down-fantasy-sports-app-jeet11-eliminate-some-jobs/)
-- [Kenya’s Uncover raises $1M to expand skincare product enterprise across Africa](https://techcrunch.com/2022/12/01/kenyas-uncover-raises-1m-to-expand-skincare-product-enterprise-across-africa/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
