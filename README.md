@@ -95,7 +95,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Tesla reveals long-awaited Semi Truck and begins first deliveries](https://techcrunch.com/2022/12/01/tesla-reveals-long-awaited-semi-truck-and-begins-first-deliveries/)
-- [On the secondary market, shares are discounted 40% on average, says industry pro](https://techcrunch.com/2022/12/01/this-secondary-market-pro-thinks-we-havent-hit-bottom-but-he-sees-price-drops-slowing/)
+- [This secondary markets expert says we haven’t hit bottom yet](https://techcrunch.com/2022/12/01/this-secondary-market-pro-thinks-we-havent-hit-bottom-but-he-sees-price-drops-slowing/)
 - [Boundary Layer pivots from container ships to hydrofoiling personal watercraft](https://techcrunch.com/2022/12/01/boundary-layer-personal-watercraft-pivot/)
 - [To da moon: Emm aims to innovate on the menstrual cup](https://techcrunch.com/2022/12/01/emm-series-seed/)
 - [Rocket Lab carves off defense-focused subsidiary for national security customers](https://techcrunch.com/2022/12/01/rocket-lab-carves-off-defense-focused-subsidiary-for-national-security-customers/)
