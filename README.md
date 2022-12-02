@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hubble Space Telescope captures dazzling embrace of merging galaxies](https://www.space.com/hubble-space-telescope-galaxies-dazzling-dance-image)
+- [OpenAI’s ChatGPT shows why implementation is key with generative AI](https://techcrunch.com/2022/12/02/openais-chatgpt-shows-why-implementation-is-key-with-generative-ai/)
+- [India’s KreditBee raises $80 million from Azim Premji’s Premji Invest, Motilal Oswal Alternates, among others](https://techcrunch.com/2022/12/02/kreditbee-funding-80-million-series-d-round/)
+- [India won’t enforce market share cap on UPI until 2025 in a win for Google and Walmart](https://techcrunch.com/2022/12/02/india-wont-enforce-market-share-cap-on-upi-until-2025-in-a-win-for-google-and-walmart/)
 - [LineupSupply updates its app to generate Instafest-styled posters via your Spotify](https://techcrunch.com/2022/12/02/lineupsupply-updates-its-app-to-generate-instafest-styled-posters-via-your-spotify/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [Telescopes at Best Buy: What&#39;s in stock and what&#39;s on sale this season](https://www.space.com/telescopes-at-best-buy)
-- [SpaceX Dragon cargo spacecraft lands at Chicago museum ahead of exhibit](https://www.space.com/spacex-dragon-chicago-museum-science-industry)
-- [Beautiful interactive map of the universe lets you journey through space-time almost to the Big Bang](https://www.space.com/interactive-universe-map-back-to-big-bang)
 <!-- BLOG-POST-LIST:END -->
 
 ---
