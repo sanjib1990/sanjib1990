@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Smoodi closes $5M to expand reach for its robotic smart blender](https://techcrunch.com/2022/12/02/smoodi-robotic-smart-blender-series-a/)
+- [Learn about Orbital Reef and the LEO economy at TC Sessions: Space](https://techcrunch.com/2022/12/02/learn-about-orbital-reef-and-the-leo-economy-at-tc-sessions-space/)
+- [Japanese astronaut keeps International Space Station mission amid research scandal](https://www.space.com/japanese-astronaut-international-space-station-mission-research)
+- [Treasury management should be top of mind for startup founders](https://techcrunch.com/2022/12/02/treasury-management-should-be-top-of-mind-for-startup-founders/)
 - [Hubble Space Telescope captures dazzling embrace of merging galaxies](https://www.space.com/hubble-space-telescope-galaxies-dazzling-dance-image)
-- [OpenAI’s ChatGPT shows why implementation is key with generative AI](https://techcrunch.com/2022/12/02/openais-chatgpt-shows-why-implementation-is-key-with-generative-ai/)
-- [India’s KreditBee raises $80 million from Azim Premji’s Premji Invest, Motilal Oswal Alternates, among others](https://techcrunch.com/2022/12/02/kreditbee-funding-80-million-series-d-round/)
-- [India won’t enforce market share cap on UPI until 2025 in a win for Google and Walmart](https://techcrunch.com/2022/12/02/india-wont-enforce-market-share-cap-on-upi-until-2025-in-a-win-for-google-and-walmart/)
-- [LineupSupply updates its app to generate Instafest-styled posters via your Spotify](https://techcrunch.com/2022/12/02/lineupsupply-updates-its-app-to-generate-instafest-styled-posters-via-your-spotify/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
