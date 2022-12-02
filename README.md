@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The final 12-hours to savings on passes to TC Sessions: Space](https://techcrunch.com/2022/12/02/the-final-12-hours-to-savings-on-passes-to-tc-sessions-space/)
+- [TechCrunch wants to meet your startup at CES 2023](https://techcrunch.com/2022/12/02/techcrunch-wants-to-meet-your-startup-at-ces-2023/)
+- [China&#39;s Shenzhou 15 crew has busy 6 months ahead aboard Tiangong space station](https://www.space.com/china-shenzhou-15-plans-tiangong-space-station)
 - [Salesforce CEO succession drama and other TC news](https://techcrunch.com/2022/12/02/salesforce-ceo-succession-drama-and-other-tc-news/)
 - [TechCrunch+ roundup: Cash management basics, proptech investor survey, visa interview prep](https://techcrunch.com/2022/12/02/techcrunch-roundup-cash-management-basics-proptech-investor-survey-visa-interview-prep/)
-- [Astra star hire Benjamin Lyon resigns, management team restructured](https://techcrunch.com/2022/12/02/astra-star-hire-benjamin-lyon-resigns-management-team-restructured/)
-- [Activision Blizzard workers in Albany vote to form the company’s second union](https://techcrunch.com/2022/12/02/activision-blizzard-workers-in-albany-vote-to-form-the-companys-second-union/)
-- [Bird’s plan to stay in the shared scooter game](https://techcrunch.com/2022/12/02/birds-plan-to-stay-in-the-shared-scooter-game/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
