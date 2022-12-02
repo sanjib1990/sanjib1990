@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hundreds report seeing a bright fireball in northeastern U.S.](https://www.space.com/hundreds-report-bright-meteor-northeastern-us)
-- [Google is testing end-to-end encryption for group chats in the Messages app](https://techcrunch.com/2022/12/02/google-is-testing-end-to-end-encryption-for-group-chats-in-the-messages-app/)
-- [Stripe announces fiat-to-crypto onramp widget](https://techcrunch.com/2022/12/02/stripe-announces-fiat-to-crypto-onramp-widget/)
-- [Box reaches $1B run rate in spite of a quarter dogged by currency challenges](https://techcrunch.com/2022/12/02/box-reaches-1b-run-rate-in-spite-of-a-quarter-dogged-by-currency-challenges/)
-- [GoStudent uses its warchest to acquire large network of traditional tutoring centres in Europe](https://techcrunch.com/2022/12/02/gostudent-uses-its-warchest-to-acquire-large-network-of-traditional-tutoring-centres-in-europe/)
+- [When one door closes … Opendoor CEO Eric Wu steps down, CFO Carrie Wheeler steps in as new chief executive](https://techcrunch.com/2022/12/02/when-one-door-closes-opendoor-ceo-eric-wu-steps-down-cfo-carrie-wheeler-steps-in-as-new-chief-executive/)
+- [Megatsunami swept over Mars after massive asteroid hit the Red Planet](https://www.space.com/mars-megatsunami-massive-asteroid-impact-crater)
+- [Florida state tax website bug exposed filers’ data](https://techcrunch.com/2022/12/02/florida-tax-bug-data-exposed/)
+- [Google shuts down Duplex on the Web, its attempt to bring AI smarts to retail sites and more](https://techcrunch.com/2022/12/02/google-shuts-down-duplex-on-the-web-its-attempt-to-bring-ai-smarts-to-retail-sites-and-more/)
+- [Q&amp;A: ‘Better Venture’ authors on why VC has failed to reinvent itself](https://techcrunch.com/2022/12/02/qa-better-venture-authors-on-why-vc-has-failed-to-reinvent-itself/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
