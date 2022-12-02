@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [On the secondary market, shares are discounted 40% on average, says industry pro](https://techcrunch.com/2022/12/01/this-secondary-market-pro-thinks-we-havent-hit-bottom-but-he-sees-price-drops-slowing/)
+- [Boundary Layer pivots from container ships to hydrofoiling personal watercraft](https://techcrunch.com/2022/12/01/boundary-layer-personal-watercraft-pivot/)
 - [To da moon: Emm aims to innovate on the menstrual cup](https://techcrunch.com/2022/12/01/emm-series-seed/)
 - [Rocket Lab carves off defense-focused subsidiary for national security customers](https://techcrunch.com/2022/12/01/rocket-lab-carves-off-defense-focused-subsidiary-for-national-security-customers/)
 - [What’s a Twitter user to do?](https://techcrunch.com/2022/12/01/whats-a-twitter-user-to-do/)
-- [While anticipation builds for GPT-4, OpenAI quietly releases GPT-3.5](https://techcrunch.com/2022/12/01/while-anticipation-builds-for-gpt-4-openai-quietly-releases-gpt-3-5/)
-- [Meet the early-stage startups exhibiting at TC Sessions: Space](https://techcrunch.com/2022/12/01/meet-the-early-stage-startups-exhibiting-at-tc-sessions-space/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
