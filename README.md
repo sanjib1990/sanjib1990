@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mars at opposition will meet up with the full moon next week &lpar;Dec. 7&rpar;. Here&#39;s how to see it](https://www.space.com/mars-at-opposition-full-moon-dec-07-2022)
+- [Elon Musk just brought an infamous neo-Nazi back to Twitter](https://techcrunch.com/2022/12/02/elon-musk-nazis-kanye-twitter-andrew-anglin/)
+- [SpaceX gets permission to deploy 7,500 next-generation Starlink satellites](https://www.space.com/spacex-fcc-approval-7500-starlink-satellites)
 - [Watch 2 NASA astronauts conduct spacewalk on Saturday](https://www.space.com/nasa-spacewalk-international-space-station-december-3-webcast)
 - [The era of constant innovation at Amazon could be over](https://techcrunch.com/2022/12/02/the-era-of-constant-innovation-at-amazon-could-be-over/)
-- [Plant Prefab nabs $42M to crank out ‘extremely sustainable’ custom homes](https://techcrunch.com/2022/12/02/plant-prefab-homes-climate-sustainable-gerdau/)
-- [US Air Force unveils new B-21 Raider stealth bomber today. Here&#39;s what we know](https://www.space.com/air-force-b-21-raider-stealth-bomber-unveiling)
-- [The final 12-hours to savings on passes to TC Sessions: Space](https://techcrunch.com/2022/12/02/the-final-12-hours-to-savings-on-passes-to-tc-sessions-space/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
