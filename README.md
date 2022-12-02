@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Smoodi closes $5M to expand reach for its robotic smart blender](https://techcrunch.com/2022/12/02/smoodi-robotic-smart-blender-series-a/)
-- [Learn about Orbital Reef and the LEO economy at TC Sessions: Space](https://techcrunch.com/2022/12/02/learn-about-orbital-reef-and-the-leo-economy-at-tc-sessions-space/)
-- [Japanese astronaut keeps International Space Station mission amid research scandal](https://www.space.com/japanese-astronaut-international-space-station-mission-research)
-- [Treasury management should be top of mind for startup founders](https://techcrunch.com/2022/12/02/treasury-management-should-be-top-of-mind-for-startup-founders/)
-- [Hubble Space Telescope captures dazzling embrace of merging galaxies](https://www.space.com/hubble-space-telescope-galaxies-dazzling-dance-image)
+- [Singapore-based e-commerce platform Carousell lays off 10% of staff](https://techcrunch.com/2022/12/02/singapore-based-e-commerce-platform-carousell-lays-off-10-of-staff/)
+- [Are we bullfighting in Spain? Because that’s a red flag](https://techcrunch.com/2022/12/02/are-we-bullfighting-in-spain-because-thats-a-red-flag/)
+- [UFOs 101: Hype, uproar, disinformation and mystery: &#39;Here we go again.&#39;](https://www.space.com/ufos-101-hype-uproar-disinformation-mystery)
+- [The best sci-fi movies and TV shows to stream on Disney Plus in December](https://www.space.com/disney-plus-best-space-scifi-streaming.html)
+- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
