@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter-backed ShareChat to shut down fantasy sports app Jeet11, eliminate some jobs](https://techcrunch.com/2022/12/02/twitter-backed-sharechat-to-shut-down-fantasy-sports-app-jeet11-eliminate-some-jobs/)
 - [Kenya’s Uncover raises $1M to expand skincare product enterprise across Africa](https://techcrunch.com/2022/12/01/kenyas-uncover-raises-1m-to-expand-skincare-product-enterprise-across-africa/)
 - [Mozilla acquires Active Replica to build on its metaverse vision](https://techcrunch.com/2022/12/01/mozilla-acquires-active-replica-to-build-on-its-metaverse-vision/)
 - [Elon Musk suspends Kanye West’s account for breaking Twitter rules](https://techcrunch.com/2022/12/01/elon-musk-suspends-kanye-wests-account-for-breaking-twitter-rules/)
 - [Tesla reveals long-awaited Semi Truck and begins first deliveries](https://techcrunch.com/2022/12/01/tesla-reveals-long-awaited-semi-truck-and-begins-first-deliveries/)
-- [This secondary markets expert says we haven’t hit bottom yet](https://techcrunch.com/2022/12/01/this-secondary-market-pro-thinks-we-havent-hit-bottom-but-he-sees-price-drops-slowing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
