@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [When one door closes … Opendoor CEO Eric Wu steps down, CFO Carrie Wheeler steps in as new chief executive](https://techcrunch.com/2022/12/02/when-one-door-closes-opendoor-ceo-eric-wu-steps-down-cfo-carrie-wheeler-steps-in-as-new-chief-executive/)
-- [Megatsunami swept over Mars after massive asteroid hit the Red Planet](https://www.space.com/mars-megatsunami-massive-asteroid-impact-crater)
-- [Florida state tax website bug exposed filers’ data](https://techcrunch.com/2022/12/02/florida-tax-bug-data-exposed/)
-- [Google shuts down Duplex on the Web, its attempt to bring AI smarts to retail sites and more](https://techcrunch.com/2022/12/02/google-shuts-down-duplex-on-the-web-its-attempt-to-bring-ai-smarts-to-retail-sites-and-more/)
-- [Q&amp;A: ‘Better Venture’ authors on why VC has failed to reinvent itself](https://techcrunch.com/2022/12/02/qa-better-venture-authors-on-why-vc-has-failed-to-reinvent-itself/)
+- [Salesforce CEO succession drama and other TC news](https://techcrunch.com/2022/12/02/salesforce-ceo-succession-drama-and-other-tc-news/)
+- [TechCrunch+ roundup: Cash management basics, proptech investor survey, visa interview prep](https://techcrunch.com/2022/12/02/techcrunch-roundup-cash-management-basics-proptech-investor-survey-visa-interview-prep/)
+- [Astra star hire Benjamin Lyon resigns, management team restructured](https://techcrunch.com/2022/12/02/astra-star-hire-benjamin-lyon-resigns-management-team-restructured/)
+- [Activision Blizzard workers in Albany vote to form the company’s second union](https://techcrunch.com/2022/12/02/activision-blizzard-workers-in-albany-vote-to-form-the-companys-second-union/)
+- [Bird’s plan to stay in the shared scooter game](https://techcrunch.com/2022/12/02/birds-plan-to-stay-in-the-shared-scooter-game/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
