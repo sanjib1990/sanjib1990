@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA astronauts deploy roll-out solar array while spacewalking outside space station](https://www.space.com/astronauts-spacewalk-space-station-irosa-solar-array-deployed)
+- [This Week in Apps: The year’s best apps, Twitter rival Hive’s security woes, App Store backlash grows](https://techcrunch.com/2022/12/03/this-week-in-apps-the-years-best-apps-twitter-rival-hives-security-woes-app-store-backlash-grows/)
 - [Copycats can drown](https://techcrunch.com/2022/12/03/copycats-can-drown/)
 - [It’s foie gras season in unicorn land](https://techcrunch.com/2022/12/03/its-foie-gras-season-in-unicorn-land/)
 - [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates)
-- [Space 220 at Disney&#39;s Epcot serves up more space fact trading cards](https://www.space.com/space-220-collector-cards-disney-epcot)
-- [Tech’s growth story shifted this year. How has that impacted transparency?](https://techcrunch.com/2022/12/03/techs-growth-story-shifted-this-year-how-has-that-impacted-transparency/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
