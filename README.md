@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [US Air Force unveils new B-21 Raider stealth bomber, most advanced military aircraft ever](https://www.space.com/air-force-unveils-b-21-raider-stealth-bomber)
+- [LastPass hacked, OpenAI opens access to ChatGPT, and Kanye gets suspended from Twitter &lpar;again&rpar;](https://techcrunch.com/2022/12/03/lastpass-hacked-openai-opens-access-to-chatgpt-and-kanye-gets-suspended-from-twitter-again/)
 - [NASA astronauts deploy roll-out solar array while spacewalking outside space station](https://www.space.com/astronauts-spacewalk-space-station-irosa-solar-array-deployed)
 - [This Week in Apps: The year’s best apps, Twitter rival Hive’s security woes, App Store backlash grows](https://techcrunch.com/2022/12/03/this-week-in-apps-the-years-best-apps-twitter-rival-hives-security-woes-app-store-backlash-grows/)
 - [Copycats can drown](https://techcrunch.com/2022/12/03/copycats-can-drown/)
-- [It’s foie gras season in unicorn land](https://techcrunch.com/2022/12/03/its-foie-gras-season-in-unicorn-land/)
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
