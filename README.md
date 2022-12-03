@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [It’s foie gras season in unicorn land](https://techcrunch.com/2022/12/03/its-foie-gras-season-in-unicorn-land/)
 - [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates)
 - [Space 220 at Disney&#39;s Epcot serves up more space fact trading cards](https://www.space.com/space-220-collector-cards-disney-epcot)
 - [Tech’s growth story shifted this year. How has that impacted transparency?](https://techcrunch.com/2022/12/03/techs-growth-story-shifted-this-year-how-has-that-impacted-transparency/)
 - [Artemis 1 moon mission squeezing communications with James Webb Space Telescope](https://www.space.com/james-webb-space-telescope-artemis-1-communications)
-- [China&#39;s Shenzhou 14 astronauts set to return to Earth on Sunday](https://www.space.com/china-shenzhou-14-astronauts-ready-depart-tiangong)
 <!-- BLOG-POST-LIST:END -->
 
 ---
