@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Veteran astronaut Tom Marshburn retires from NASA](https://www.space.com/nasa-astronaut-tom-marshburn-retires)
+- [Taur’s Carson Brown on why owned scooters &gt; shared scooters](https://techcrunch.com/2022/12/04/taurs-carson-brown-on-why-owned-scooters-shared-scooters/)
+- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates)
 - [Climate tech is not doomed, despite climate doom](https://techcrunch.com/2022/12/04/climate-tech-is-not-doomed-despite-climate-doom/)
 - [Neutrons: Facts about the influential subatomic particles](https://www.space.com/neutrons-facts-discovery-charge-mass)
-- [China&#39;s Shenzhou 14 astronauts return to Earth after helping build Tiangong space station](https://www.space.com/china-shenzhou-14-astronauts-land-earth)
-- [&#39;Avatar: The Way of Water&#39;: Dive into its immersive final trailer &lpar;video&rpar;](https://www.space.com/avatar-the-way-of-water-final-trailer)
-- [National Geographic&#39;s new &#39;Stargazer&#39;s Atlas&#39; is a breathtaking guide to the cosmos &lpar;exclusive&rpar;](https://www.space.com/stargazers-atlas-national-geographic-author-interview)
 <!-- BLOG-POST-LIST:END -->
 
 ---
