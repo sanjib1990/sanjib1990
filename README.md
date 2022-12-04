@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Blown away! Watch NASA&#39;s Artemis 1 Launch Abort System blast off into space &lpar;video&rpar;](https://www.space.com/artemis-1-launch-abort-system-orion-cockpit-view)
+- [When a startup’s founders are pretty much its board](https://techcrunch.com/2022/12/04/fintech-startups-interchange/)
 - [Veteran astronaut Tom Marshburn retires from NASA](https://www.space.com/nasa-astronaut-tom-marshburn-retires)
 - [Taur’s Carson Brown on why owned scooters &gt; shared scooters](https://techcrunch.com/2022/12/04/taurs-carson-brown-on-why-owned-scooters-shared-scooters/)
 - [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates)
-- [Climate tech is not doomed, despite climate doom](https://techcrunch.com/2022/12/04/climate-tech-is-not-doomed-despite-climate-doom/)
-- [Neutrons: Facts about the influential subatomic particles](https://www.space.com/neutrons-facts-discovery-charge-mass)
 <!-- BLOG-POST-LIST:END -->
 
 ---
