@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [National Geographic&#39;s new &#39;Stargazer&#39;s Atlas&#39; is a breathtaking guide to the cosmos &lpar;exclusive&rpar;](https://www.space.com/stargazers-atlas-national-geographic-author-interview)
+- [Orion Nebula image tells a dramatic tale of stellar death and rebirth](https://www.space.com/orion-nebula-video-stellar-death-rebirth)
 - [Fortnite&#39;s Chapter 3 finale event &#39;Fracture&#39; just launched players to space to reforge the island](https://www.space.com/fortnite-chapter-3-finale-event-goes-to-space)
 - [US Air Force unveils new B-21 Raider stealth bomber, most advanced military aircraft ever](https://www.space.com/air-force-unveils-b-21-raider-stealth-bomber)
 - [LastPass hacked, OpenAI opens access to ChatGPT, and Kanye gets suspended from Twitter &lpar;again&rpar;](https://techcrunch.com/2022/12/03/lastpass-hacked-openai-opens-access-to-chatgpt-and-kanye-gets-suspended-from-twitter-again/)
-- [NASA astronauts deploy roll-out solar array while spacewalking outside space station](https://www.space.com/astronauts-spacewalk-space-station-irosa-solar-array-deployed)
-- [This Week in Apps: The year’s best apps, Twitter rival Hive’s security woes, App Store backlash grows](https://techcrunch.com/2022/12/03/this-week-in-apps-the-years-best-apps-twitter-rival-hives-security-woes-app-store-backlash-grows/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
