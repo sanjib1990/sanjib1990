@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Climate tech is not doomed, despite climate doom](https://techcrunch.com/2022/12/04/climate-tech-is-not-doomed-despite-climate-doom/)
+- [Neutrons: Facts about the influential subatomic particles](https://www.space.com/neutrons-facts-discovery-charge-mass)
+- [China&#39;s Shenzhou 14 astronauts return to Earth after helping build Tiangong space station](https://www.space.com/china-shenzhou-14-astronauts-land-earth)
+- [&#39;Avatar: The Way of Water&#39;: Dive into its immersive final trailer &lpar;video&rpar;](https://www.space.com/avatar-the-way-of-water-final-trailer)
 - [National Geographic&#39;s new &#39;Stargazer&#39;s Atlas&#39; is a breathtaking guide to the cosmos &lpar;exclusive&rpar;](https://www.space.com/stargazers-atlas-national-geographic-author-interview)
-- [Orion Nebula image tells a dramatic tale of stellar death and rebirth](https://www.space.com/orion-nebula-video-stellar-death-rebirth)
-- [Fortnite&#39;s Chapter 3 finale event &#39;Fracture&#39; just launched players to space to reforge the island](https://www.space.com/fortnite-chapter-3-finale-event-goes-to-space)
-- [US Air Force unveils new B-21 Raider stealth bomber, most advanced military aircraft ever](https://www.space.com/air-force-unveils-b-21-raider-stealth-bomber)
-- [LastPass hacked, OpenAI opens access to ChatGPT, and Kanye gets suspended from Twitter &lpar;again&rpar;](https://techcrunch.com/2022/12/03/lastpass-hacked-openai-opens-access-to-chatgpt-and-kanye-gets-suspended-from-twitter-again/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
