@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Andor&#39; sound and VFX wizards on bringing a grittier &#39;Star Wars&#39; to life &lpar;exclusive&rpar;](https://www.space.com/andor-sound-vfx-grittier-star-wars)
-- [Construction begins on world&#39;s largest radio telescope after decades of preparations](https://www.space.com/square-kilometer-array-observatory-construction-begins)
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates)
-- [Mars sports massive hidden plume of searing rock](https://www.space.com/mars-recent-volcanism-earthquakes-from-mantle-plume)
-- [How companies can slash ballooning SaaS costs](https://techcrunch.com/2022/12/05/how-companies-can-slash-ballooning-saas-costs/)
+- [See Mars at opposition pass behind the moon this week for free online](https://www.space.com/mars-opposition-lunar-occultation-watch-online-dec-2022)
+- [Artemis 1 Orion spacecraft suffered power blip hours before its close lunar flyby](https://www.space.com/artemis-1-orion-spacecraft-power-blip)
+- [Investors sound the alarm about possible private equity tech deals](https://techcrunch.com/2022/12/05/investors-sound-the-alarm-about-possible-private-equity-tech-deals/)
+- [Gift Guide: More than 20 STEM gift ideas to inspire kids to code](https://techcrunch.com/2022/12/05/stem-gift-guide-2022/)
+- [Meet the startups competing at TC Sessions: Space](https://techcrunch.com/2022/12/05/meet-the-startups-competing-at-tc-sessions-space/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
