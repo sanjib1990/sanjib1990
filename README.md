@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Is this what good news feels like?](https://techcrunch.com/2022/12/05/is-this-what-good-news-feels-like/)
-- [Check out what’s happening tomorrow at TC Sessions: Space](https://techcrunch.com/2022/12/05/check-out-whats-happening-tomorrow-at-tc-sessions-space/)
 - [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates)
-- [Twelve Labs lands $12M for AI that understands the context of videos](https://techcrunch.com/2022/12/05/twelve-labs-lands-12m-for-ai-that-understands-the-context-of-videos/)
-- [What are spaceports?](https://www.space.com/what-are-spaceports)
+- [Massive eruption from icy volcanic comet detected in solar system](https://www.space.com/comet-29p-erupts-cryovolcanic-ice)
+- [Facebook to now test age verification tech on Facebook Dating in the U.S.](https://techcrunch.com/2022/12/05/facebook-to-now-test-age-verification-tech-on-facebook-dating-in-the-u-s/)
+- [Which way is up? The end of free money and the importance of keeping cash on hand](https://techcrunch.com/2022/12/05/which-way-is-up-the-end-of-free-money-and-the-importance-of-keeping-some-on-hand/)
+- [Is this what good news feels like?](https://techcrunch.com/2022/12/05/is-this-what-good-news-feels-like/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
