@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s Lucy asteroid-scouting mission resumes work on solar arrays in deep space](https://www.space.com/lucy-asteroid-mission-solar-arrays-after-flyby)
+- [How companies can slash ballooning SaaS costs](https://techcrunch.com/2022/12/05/how-companies-can-slash-ballooning-saas-costs/)
+- [Operative Intelligence helps contact centers figure out what customers really need](https://techcrunch.com/2022/12/05/operative-intelligence-funding/)
+- [Google’s new Pixel update brings new features like clear calling and Google One VPN](https://techcrunch.com/2022/12/05/googles-new-pixel-update-brings-new-features-like-clear-calling-and-google-one-vpn/)
+- [BrightDrop expands e-delivery van business to Canada with DHL Express](https://techcrunch.com/2022/12/05/brightdrop-expands-e-delivery-van-business-to-canada-with-dhl-express/)
 - [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates)
-- [Massive eruption from icy volcanic comet detected in solar system](https://www.space.com/comet-29p-erupts-cryovolcanic-ice)
-- [Facebook to now test age verification tech on Facebook Dating in the US](https://techcrunch.com/2022/12/05/facebook-to-now-test-age-verification-tech-on-facebook-dating-in-the-u-s/)
-- [Which way is up? The end of free money and the importance of keeping cash on hand](https://techcrunch.com/2022/12/05/which-way-is-up-the-end-of-free-money-and-the-importance-of-keeping-some-on-hand/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
