@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch the moon pass in front of Uranus today &lpar;Dec. 5&rpar;](https://www.space.com/moon-covers-uranus-lunar-occultation-dec-05-2022)
-- [Apple expands car key sharing, Bird charts out a strategy and layoffs come for Motional](https://techcrunch.com/2022/12/05/apple-expands-car-key-sharing-bird-charts-out-a-strategy-and-layoffs-come-for-motional/)
-- [As demand for real estate VR booms, Founders Fund leads $16M round into Giraffe360 platform](https://techcrunch.com/2022/12/05/as-demand-for-real-estate-vr-booms-founders-fund-leads-16m-round-into-giraffe360-platform/)
-- [Seoul court rejects warrants for former Terraform Labs employees and investors over Luna collapse](https://techcrunch.com/2022/12/05/seoul-court-rejects-warrants-for-former-terraform-labs-employees-and-investors-over-luna-collapse/)
-- [Telescopes at Walmart in 2022: Deals on the best models from Celestron and others](https://www.space.com/telescopes-at-walmart)
+- [Twelve Labs lands $12M for AI that understands the context of videos](https://techcrunch.com/2022/12/05/twelve-labs-lands-12m-for-ai-that-understands-the-context-of-videos/)
+- [What are spaceports?](https://www.space.com/what-are-spaceports)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates)
+- [Loft Dynamics raises $20M to tackle pilot shortage with VR training](https://techcrunch.com/2022/12/05/loft-dynamics-raises-20m-to-tackle-pilot-shortage-with-vr-training/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
