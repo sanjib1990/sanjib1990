@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is this what good news feels like?](https://techcrunch.com/2022/12/05/is-this-what-good-news-feels-like/)
+- [Check out what’s happening tomorrow at TC Sessions: Space](https://techcrunch.com/2022/12/05/check-out-whats-happening-tomorrow-at-tc-sessions-space/)
+- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates)
 - [Twelve Labs lands $12M for AI that understands the context of videos](https://techcrunch.com/2022/12/05/twelve-labs-lands-12m-for-ai-that-understands-the-context-of-videos/)
 - [What are spaceports?](https://www.space.com/what-are-spaceports)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates)
-- [Loft Dynamics raises $20M to tackle pilot shortage with VR training](https://techcrunch.com/2022/12/05/loft-dynamics-raises-20m-to-tackle-pilot-shortage-with-vr-training/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
