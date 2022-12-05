@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meet the startups competing at TC Sessions: Space](https://techcrunch.com/2022/12/05/meet-the-startups-competing-at-tc-sessions-space/)
+- [Third-party Twitter app makers turn their attention to Mastodon](https://techcrunch.com/2022/12/05/third-party-twitter-app-makers-turn-their-attention-to-mastodon/)
+- [Construction begins on world&#39;s largest radio telescope after decades of preparations](https://www.space.com/square-kilometer-array-observatory-construction-begins)
 - [Autonomous driving’s blunders are good news for the climate](https://techcrunch.com/2022/12/05/autonomous-drivings-blunders-are-good-news-for-the-climate/)
 - [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates)
-- [Mars sports massive hidden plume of searing rock](https://www.space.com/mars-recent-volcanism-earthquakes-from-mantle-plume)
-- [How companies can slash ballooning SaaS costs](https://techcrunch.com/2022/12/05/how-companies-can-slash-ballooning-saas-costs/)
-- [Operative Intelligence helps contact centers figure out what customers really need](https://techcrunch.com/2022/12/05/operative-intelligence-funding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
