@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Autonomous driving’s blunders are good news for the climate](https://techcrunch.com/2022/12/05/autonomous-drivings-blunders-are-good-news-for-the-climate/)
+- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates)
+- [Mars sports massive hidden plume of searing rock](https://www.space.com/mars-recent-volcanism-earthquakes-from-mantle-plume)
 - [How companies can slash ballooning SaaS costs](https://techcrunch.com/2022/12/05/how-companies-can-slash-ballooning-saas-costs/)
 - [Operative Intelligence helps contact centers figure out what customers really need](https://techcrunch.com/2022/12/05/operative-intelligence-funding/)
-- [Google’s new Pixel update brings new features like clear calling and Google One VPN](https://techcrunch.com/2022/12/05/googles-new-pixel-update-brings-new-features-like-clear-calling-and-google-one-vpn/)
-- [BrightDrop expands e-delivery van business to Canada with DHL Express](https://techcrunch.com/2022/12/05/brightdrop-expands-e-delivery-van-business-to-canada-with-dhl-express/)
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
