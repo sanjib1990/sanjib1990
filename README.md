@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch as Artemis 1 Orion spacecraft performs crucial maneuver near moon on Monday](https://www.space.com/artemis-1-orion-moon-flyby-burn-december-5)
+- [Hubble telescope captures the colorful fireworks left by a star&#39;s violent death](https://www.space.com/hubble-space-telescope-firework-supernova-remnants)
+- [Aigens scales digital menus in Asia with $14M round led by Ant](https://techcrunch.com/2022/12/05/aigens-scales-digital-menus-in-asia-with-14m-round-led-by-ant/)
 - [With $3M new funding, Egyptian startup OneOrder sets out on growth drive](https://techcrunch.com/2022/12/05/with-3m-new-funding-egyptian-startup-oneorder-sets-out-on-growth-drive/)
 - [Partech raises fourth seed fund](https://techcrunch.com/2022/12/05/partech-raises-fourth-seed-fund/)
-- [Social commerce startup Kapu, by ex-Jumia executive, comes out of stealth with $8M funding](https://techcrunch.com/2022/12/04/social-commerce-startup-kapu-by-ex-jumia-executive-comes-out-of-stealth-with-8m-funding/)
-- [Egypt’s SideUp raises $1.2M to grow its e-commerce support platform](https://techcrunch.com/2022/12/04/egypts-sideup-raises-1-2m-to-grow-its-e-commerce-support-platform/)
-- [Engage with Aerospace Corp, Antaris, Orbital Reef, &amp; Space Systems Command at TC Sessions: Space](https://techcrunch.com/2022/12/04/engage-with-aerospace-corp-antaris-orbital-reef-space-systems-command-at-tc-sessions-space/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
