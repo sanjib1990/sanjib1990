@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch the moon pass in front of Uranus today &lpar;Dec. 5&rpar;](https://www.space.com/moon-covers-uranus-lunar-occultation-dec-05-2022)
+- [Apple expands car key sharing, Bird charts out a strategy and layoffs come for Motional](https://techcrunch.com/2022/12/05/apple-expands-car-key-sharing-bird-charts-out-a-strategy-and-layoffs-come-for-motional/)
 - [As demand for real estate VR booms, Founders Fund leads $16M round into Giraffe360 platform](https://techcrunch.com/2022/12/05/as-demand-for-real-estate-vr-booms-founders-fund-leads-16m-round-into-giraffe360-platform/)
 - [Seoul court rejects warrants for former Terraform Labs employees and investors over Luna collapse](https://techcrunch.com/2022/12/05/seoul-court-rejects-warrants-for-former-terraform-labs-employees-and-investors-over-luna-collapse/)
 - [Telescopes at Walmart in 2022: Deals on the best models from Celestron and others](https://www.space.com/telescopes-at-walmart)
-- [Watch as Artemis 1 Orion spacecraft performs crucial maneuver near moon on Monday](https://www.space.com/artemis-1-orion-moon-flyby-burn-december-5)
-- [Hubble telescope captures the colorful fireworks left by a star&#39;s violent death](https://www.space.com/hubble-space-telescope-firework-supernova-remnants)
 <!-- BLOG-POST-LIST:END -->
 
 ---
