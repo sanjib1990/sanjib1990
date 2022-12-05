@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Social commerce startup Kapu, by ex-Jumia executive, comes out of stealth with $8M funding](https://techcrunch.com/2022/12/04/social-commerce-startup-kapu-by-ex-jumia-executive-comes-out-of-stealth-with-8m-funding/)
 - [Egypt’s SideUp raises $1.2M to grow its e-commerce support platform](https://techcrunch.com/2022/12/04/egypts-sideup-raises-1-2m-to-grow-its-e-commerce-support-platform/)
 - [Engage with Aerospace Corp, Antaris, Orbital Reef, &amp; Space Systems Command at TC Sessions: Space](https://techcrunch.com/2022/12/04/engage-with-aerospace-corp-antaris-orbital-reef-space-systems-command-at-tc-sessions-space/)
 - [Sam Bankman-Fried says unlikely to testify in Dec 13 House Committee hearing](https://techcrunch.com/2022/12/04/sam-bankman-fried-indicates-he-is-unlikely-to-testify-in-house-committee-hearing-on-ftx-collapse-on-december-13/)
 - [Blown away! Watch NASA&#39;s Artemis 1 Launch Abort System blast off into space &lpar;video&rpar;](https://www.space.com/artemis-1-launch-abort-system-orion-cockpit-view)
-- [When a startup’s founders are pretty much its board](https://techcrunch.com/2022/12/04/fintech-startups-interchange/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
