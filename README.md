@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rezonate raises $8.7M and launches its cloud identity protection platform out of stealth](https://techcrunch.com/2022/12/06/rezonate-raises-8-7m-and-launches-its-cloud-identity-protection-platform-out-of-stealth/)
+- [NeuReality lands $35M to bring AI accelerator chips to market](https://techcrunch.com/2022/12/06/neureality-ai-accelerator-chips-startup-raises-35m/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [Apple expands Self Service Repair to iPhone and MacBook users in Europe](https://techcrunch.com/2022/12/06/apple-expands-self-service-repair-to-iphone-and-macbook-users-in-europe/)
 - [GPS: Everything you need to know about the space-based technology keeping us on track](https://www.space.com/gps-what-is-it)
-- [Artemis 1 Orion spacecraft aced its test flight but still hasn&#39;t tested life support](https://www.space.com/orion-life-support-system-artemis-1)
-- [Meta’s Oversight Board wants Facebook to be more transparent about VIP accounts](https://techcrunch.com/2022/12/06/metas-oversight-board-wants-facebook-to-be-more-transparent-about-vip-accounts/)
-- [Discovery+ brings the offline download feature to the US](https://techcrunch.com/2022/12/06/discovery-brings-the-offline-download-feature-to-the-us/)
-- [Iran-backed hackers linked to espionage campaign targeting journalists and activists](https://techcrunch.com/2022/12/06/iran-hackers-espionage-campaign-journalists-activists/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
