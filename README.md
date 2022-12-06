@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amnesty Canada says it was targeted by Chinese state-sponsored hackers](https://techcrunch.com/2022/12/06/amnesty-canada-targeted-chinese-hackers/)
+- [Twitter’s iOS app is riddled with privacy settings glitches](https://techcrunch.com/2022/12/06/twitters-ios-app-is-riddled-with-privacy-settings-glitches/)
 - [Telegram Premium tops 1 million subscribers](https://techcrunch.com/2022/12/06/telegram-premium-tops-1-million-subscribers/)
 - [Apple Music is getting a new karaoke-like feature, Apple Sing](https://techcrunch.com/2022/12/06/apple-music-is-getting-a-new-karaoke-like-feature-apple-sing/)
 - [NASA&#39;s Artemis 1 Orion snaps gorgeous moon views as it sails over Apollo landing sites &lpar;video&rpar;](https://www.space.com/artemis-1-orion-views-apollo-moon-landing-geology)
-- [ClickHouse launches ClickHouse Cloud, extends its Series B](https://techcrunch.com/2022/12/06/clickhouse-launches-clickhouse-cloud-extends-its-series-b/)
-- [It’s way too easy to trick Lensa AI into making NSFW images](https://techcrunch.com/2022/12/06/lensa-goes-nsfw/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
