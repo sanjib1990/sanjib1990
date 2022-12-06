@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mars helicopter Ingenuity soars higher than ever on 35th Red Planet flight](https://www.space.com/mars-helicopter-ingenuity-altitude-record-35th-flight)
+- [TechCrunch+ roundup: The end of free money, how to forecast NRR, slashing SaaS spending](https://techcrunch.com/2022/12/06/techcrunch-roundup-the-end-of-free-money-how-to-forecast-nrr-slashing-saas-spending/)
+- [Artemis 1 Orion spacecraft captures moon craters in stunning flyby footage &lpar;video&rpar;](https://www.space.com/artemis-1-orion-moon-craters-flyby-video)
 - [Starting the tampon revolution with Valentina Milanova](https://techcrunch.com/2022/12/06/starting-the-tampon-revolution-with-valentina-milanova/)
 - [Apple loosens grip on App Store pricing with 700 new price points, support for prices that don’t end in $.99](https://techcrunch.com/2022/12/06/apple-loosens-grip-on-app-store-pricing-with-700-new-price-points-support-for-prices-that-dont-end-in-99/)
-- [Circle and Footprint’s aborted debuts are the final nail in the SPAC coffin](https://techcrunch.com/2022/12/06/circle-and-footprints-aborted-debuts-are-the-final-nail-in-the-spac-coffin/)
-- [Google Search’s new topic filters make it easier to refine results and expand searches](https://techcrunch.com/2022/12/06/google-searchs-new-topic-filters-refine-results-expand-search/)
-- [Use customer health data to grow and forecast NRR](https://techcrunch.com/2022/12/06/use-customer-health-data-to-grow-and-forecast-nrr/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
