@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Mars helicopter Ingenuity soars higher than ever on 35th Red Planet flight](https://www.space.com/mars-helicopter-ingenuity-altitude-record-35th-flight)
-- [TechCrunch+ roundup: The end of free money, how to forecast NRR, slashing SaaS spending](https://techcrunch.com/2022/12/06/techcrunch-roundup-the-end-of-free-money-how-to-forecast-nrr-slashing-saas-spending/)
-- [Artemis 1 Orion spacecraft captures moon craters in stunning flyby footage &lpar;video&rpar;](https://www.space.com/artemis-1-orion-moon-craters-flyby-video)
-- [Starting the tampon revolution with Valentina Milanova](https://techcrunch.com/2022/12/06/starting-the-tampon-revolution-with-valentina-milanova/)
-- [Apple loosens grip on App Store pricing with 700 new price points, support for prices that don’t end in $.99](https://techcrunch.com/2022/12/06/apple-loosens-grip-on-app-store-pricing-with-700-new-price-points-support-for-prices-that-dont-end-in-99/)
+- [Mauna Loa&#39;s continuing eruption is spectacular in satellite views](https://www.space.com/hawaii-mauna-loa-volcanic-eruption-from-space)
+- [Prisma Labs, maker of Lensa AI, says it is working to prevent accidental generation of nudes](https://techcrunch.com/2022/12/06/prisma-ai-regulation/)
+- [UPDATED: It’s way too easy to trick Lensa AI into making NSFW images](https://techcrunch.com/2022/12/06/lensa-goes-nsfw/)
+- [As Butterfield exits stage left, it’s fair to wonder what’s happening at Salesforce](https://techcrunch.com/2022/12/06/as-butterfield-exits-stage-left-its-fair-to-wonder-whats-happening-at-salesforce/)
+- [Apple’s first car effort might not be self driving after all](https://techcrunch.com/2022/12/06/apples-first-car-delayed-until-2026-wont-be-self-driving/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
