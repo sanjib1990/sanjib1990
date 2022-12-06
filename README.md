@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Solar cycle peak reduces cosmic rays around Mars, Venus and Earth](https://www.space.com/solar-cycle-cosmic-rays-mars-venus-earth)
+- [FTX and Alameda’s massive investments will take a long time to unwind from crypto industry](https://techcrunch.com/2022/12/06/ftx-and-alamedas-massive-investments-will-take-a-long-time-to-unwind-from-crypto-industry/)
+- [Vietnamese luxury EV-maker VinFast files to go public on Nasdaq](https://techcrunch.com/2022/12/06/vietnamese-luxury-ev-maker-vinfast-files-to-go-public-on-nasdaq/)
 - [Mauna Loa&#39;s continuing eruption is spectacular in satellite views](https://www.space.com/hawaii-mauna-loa-volcanic-eruption-from-space)
 - [Prisma Labs, maker of Lensa AI, says it is working to prevent accidental generation of nudes](https://techcrunch.com/2022/12/06/prisma-ai-regulation/)
-- [UPDATED: It’s way too easy to trick Lensa AI into making NSFW images](https://techcrunch.com/2022/12/06/lensa-goes-nsfw/)
-- [As Butterfield exits stage left, it’s fair to wonder what’s happening at Salesforce](https://techcrunch.com/2022/12/06/as-butterfield-exits-stage-left-its-fair-to-wonder-whats-happening-at-salesforce/)
-- [Apple’s first car effort might not be self driving after all](https://techcrunch.com/2022/12/06/apples-first-car-delayed-until-2026-wont-be-self-driving/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
