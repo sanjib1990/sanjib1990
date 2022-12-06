@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TuSimple and Navistar end deal to co-develop autonomous trucks](https://techcrunch.com/2022/12/05/tusimple-and-navistar-end-deal-to-co-develop-autonomous-trucks/)
+- [Microsoft could get its first official union as ZeniMax QA testers organize](https://techcrunch.com/2022/12/05/zenimax-union-microsoft-gaming/)
 - [Uber Eats to pay millions for listing Chicago restaurants without consent](https://techcrunch.com/2022/12/05/uber-eats-to-pay-millions-for-listing-chicago-restaurants-without-consent/)
 - [Chattermill, which uses AI to extract insights from customer experience data, raises $26M](https://techcrunch.com/2022/12/05/chattermill-which-uses-ai-to-extract-insights-from-customer-experience-data-raises-26m/)
 - [ChatGPT shrugged](https://techcrunch.com/2022/12/05/chatgpt-shrugged/)
-- [Lensa AI, the viral app making ‘magic avatars,’ raises red flags for artists](https://techcrunch.com/2022/12/05/lensa-ai-app-store-magic-avatars-artists/)
-- [Tier-owned Spin exits 10 US markets amid low demand, unfavorable city regulations](https://techcrunch.com/2022/12/05/tier-owned-spin-exits-10-us-markets-amid-low-demand-unfavorable-city-regulations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
