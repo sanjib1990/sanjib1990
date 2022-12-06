@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Bosch shuts down its app store for AI-powered, internet-connected cameras](https://techcrunch.com/2022/12/06/bosch-shuts-down-its-app-store-for-ai-powered-internet-connected-cameras/)
-- [A data-driven duo just raised roughly $350M to fund seed-stage startups with metrics](https://techcrunch.com/2022/12/06/a-data-driven-duo-just-raised-roughly-350m-to-fund-seed-stage-startups-with-metrics/)
-- [What time will the moon eclipse Mars on Dec. 7?](https://www.space.com/mars-opposition-lunar-occultation-december-2022-what-time)
-- [Solar cycle peak reduces cosmic rays around Mars, Venus and Earth](https://www.space.com/solar-cycle-cosmic-rays-mars-venus-earth)
-- [FTX and Alameda’s massive investments will take a long time to unwind from crypto industry](https://techcrunch.com/2022/12/06/ftx-and-alamedas-massive-investments-will-take-a-long-time-to-unwind-from-crypto-industry/)
+- [Daily Crunch: Lensa AI can transform Photoshopped fakes into nonconsensual pornography](https://techcrunch.com/2022/12/06/daily-crunch-lensa-ai-can-transform-photoshopped-fakes-into-nonconsensual-pornography/)
+- [Amazon tests machine learning software to analyze satellite images from space](https://www.space.com/amazon-satellites-machine-learning-in-orbit-first)
+- [Listen to the Artemis 1 Orion capsule phone home from deep space](https://www.space.com/artemis-orion-spacecraft-listen-phone-home)
+- [Meta won’t let staff discuss topics like abortion, gun control and vaccines at work](https://techcrunch.com/2022/12/06/meta-wont-let-staff-discuss-topics-like-abortion-gun-control-and-vaccines-at-work/)
+- [Fintech unicorn valuations have fallen hard in 2022](https://techcrunch.com/2022/12/06/fintech-unicorn-valuations-have-fallen-hard-in-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
