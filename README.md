@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon set to launch Prime Gaming in India](https://techcrunch.com/2022/12/05/amazon-prime-gaming-india/)
 - [Onomotion raises €21 million to expand e-cargo bike urban logistics business](https://techcrunch.com/2022/12/05/onomotion-raises-e21-million-to-expand-e-cargo-bike-urban-logistics-business/)
 - [SBM Bank India, building BaaS platform, seeks funding at $200 million valuation](https://techcrunch.com/2022/12/05/sbm-bank-india-building-baas-platform-seeks-funding-at-200-million-valuation/)
 - [Accacia tackles the real estate industry’s massive carbon emissions problem](https://techcrunch.com/2022/12/05/accacia-funding/)
 - [TuSimple and Navistar end deal to co-develop autonomous trucks](https://techcrunch.com/2022/12/05/tusimple-and-navistar-end-deal-to-co-develop-autonomous-trucks/)
-- [Microsoft could get its first official union as ZeniMax QA testers organize](https://techcrunch.com/2022/12/05/zenimax-union-microsoft-gaming/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
