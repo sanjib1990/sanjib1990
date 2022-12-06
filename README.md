@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Cacheflow doubles valuation while raising $10M, proving that the venture market is far from dead](https://techcrunch.com/2022/12/06/cacheflow-doubles-valuation-while-raising-10m-proving-that-the-venture-market-is-far-from-dead/)
-- [Axiom launches its automated identity and access management platform](https://techcrunch.com/2022/12/06/axiom-launches-its-automated-identity-and-access-management-platform/)
-- [Kodiak Robotics wins $50M to help US Army build AVs for recon, surveillance](https://techcrunch.com/2022/12/06/kodiak-robotics-wins-50m-to-help-us-army-build-avs-for-recon-surveillance/)
-- [Early-stage startups say no runway, no problem heading into 2023](https://techcrunch.com/2022/12/06/early-stage-startups-say-no-runway-no-problem-heading-into-2023/)
-- [Oda, the Norwegian grocery delivery startup, raises a fresh $151M, but at a lowered valuation of $353M](https://techcrunch.com/2022/12/06/oda-the-norwegian-grocery-delivery-startup-raises-a-fresh-151m-but-at-a-lowered-valuation-of-353m/)
+- [Telegram Premium tops 1 million subscribers](https://techcrunch.com/2022/12/06/telegram-premium-tops-1-million-subscribers/)
+- [Apple Music is getting a new karaoke-like feature, Apple Sing](https://techcrunch.com/2022/12/06/apple-music-is-getting-a-new-karaoke-like-feature-apple-sing/)
+- [NASA&#39;s Artemis 1 Orion snaps gorgeous moon views as it sails over Apollo landing sites &lpar;video&rpar;](https://www.space.com/artemis-1-orion-views-apollo-moon-landing-geology)
+- [ClickHouse launches ClickHouse Cloud, extends its Series B](https://techcrunch.com/2022/12/06/clickhouse-launches-clickhouse-cloud-extends-its-series-b/)
+- [It’s way too easy to trick Lensa AI into making NSFW images](https://techcrunch.com/2022/12/06/lensa-goes-nsfw/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
