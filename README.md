@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch Mars at opposition pass behind the moon this week in these free webcasts](https://www.space.com/mars-opposition-lunar-occultation-watch-online-dec-2022)
-- [Artemis 1 Orion spacecraft suffered power blip hours before its close lunar flyby](https://www.space.com/artemis-1-orion-spacecraft-power-blip)
-- [&#39;Andor&#39; sound and VFX wizards on bringing a grittier &#39;Star Wars&#39; to life &lpar;exclusive&rpar;](https://www.space.com/andor-sound-vfx-grittier-star-wars)
-- [Construction begins on world&#39;s largest radio telescope after decades of preparations](https://www.space.com/square-kilometer-array-observatory-construction-begins)
-- [Autonomous driving’s blunders are good news for the climate](https://techcrunch.com/2022/12/05/autonomous-drivings-blunders-are-good-news-for-the-climate/)
+- [Uber Eats to pay millions for listing Chicago restaurants without consent](https://techcrunch.com/2022/12/05/uber-eats-to-pay-millions-for-listing-chicago-restaurants-without-consent/)
+- [Chattermill, which uses AI to extract insights from customer experience data, raises $26M](https://techcrunch.com/2022/12/05/chattermill-which-uses-ai-to-extract-insights-from-customer-experience-data-raises-26m/)
+- [ChatGPT shrugged](https://techcrunch.com/2022/12/05/chatgpt-shrugged/)
+- [Lensa AI, the viral app making ‘magic avatars,’ raises red flags for artists](https://techcrunch.com/2022/12/05/lensa-ai-app-store-magic-avatars-artists/)
+- [Tier-owned Spin exits 10 US markets amid low demand, unfavorable city regulations](https://techcrunch.com/2022/12/05/tier-owned-spin-exits-10-us-markets-amid-low-demand-unfavorable-city-regulations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
