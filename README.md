@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bosch shuts down its app store for AI-powered, internet-connected cameras](https://techcrunch.com/2022/12/06/bosch-shuts-down-its-app-store-for-ai-powered-internet-connected-cameras/)
+- [A data-driven duo just raised roughly $350M to fund seed-stage startups with metrics](https://techcrunch.com/2022/12/06/a-data-driven-duo-just-raised-roughly-350m-to-fund-seed-stage-startups-with-metrics/)
+- [What time will the moon eclipse Mars on Dec. 7?](https://www.space.com/mars-opposition-lunar-occultation-december-2022-what-time)
 - [Solar cycle peak reduces cosmic rays around Mars, Venus and Earth](https://www.space.com/solar-cycle-cosmic-rays-mars-venus-earth)
 - [FTX and Alameda’s massive investments will take a long time to unwind from crypto industry](https://techcrunch.com/2022/12/06/ftx-and-alamedas-massive-investments-will-take-a-long-time-to-unwind-from-crypto-industry/)
-- [Vietnamese luxury EV-maker VinFast files to go public on Nasdaq](https://techcrunch.com/2022/12/06/vietnamese-luxury-ev-maker-vinfast-files-to-go-public-on-nasdaq/)
-- [Mauna Loa&#39;s continuing eruption is spectacular in satellite views](https://www.space.com/hawaii-mauna-loa-volcanic-eruption-from-space)
-- [Prisma Labs, maker of Lensa AI, says it is working to prevent accidental generation of nudes](https://techcrunch.com/2022/12/06/prisma-ai-regulation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
