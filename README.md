@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [One Peak scales up and closes $1B fund aimed at European and Israeli growth rounds](https://techcrunch.com/2022/12/06/one-peak-scales-up-and-closes-1b-fund-aimed-at-european-and-israeli-growth-rounds/)
 - [Singapore-based corporate services super app Osome raises $25M Series B](https://techcrunch.com/2022/12/06/osome-series-b/)
 - [Expeto, a startup selling tools to manage private cellular networks, raises $13M](https://techcrunch.com/2022/12/06/expeto-a-startup-selling-tools-to-manage-private-cellular-networks-raises-13m/)
 - [Cubzh wants to build the next-generation Minecraft](https://techcrunch.com/2022/12/06/cubzh-wants-to-build-the-next-generation-minecraft/)
 - [Google introduces “Continuous Scrolling” on desktop for Search](https://techcrunch.com/2022/12/05/google-introduces-continuous-scrolling-on-desktop-for-search/)
-- [Amazon set to launch Prime Gaming in India](https://techcrunch.com/2022/12/05/amazon-prime-gaming-india/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
