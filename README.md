@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Amnesty Canada says it was targeted by Chinese state-sponsored hackers](https://techcrunch.com/2022/12/06/amnesty-canada-targeted-chinese-hackers/)
-- [Twitter’s iOS app is riddled with privacy settings glitches](https://techcrunch.com/2022/12/06/twitters-ios-app-is-riddled-with-privacy-settings-glitches/)
-- [Telegram Premium tops 1 million subscribers](https://techcrunch.com/2022/12/06/telegram-premium-tops-1-million-subscribers/)
-- [Apple Music is getting a new karaoke-like feature, Apple Sing](https://techcrunch.com/2022/12/06/apple-music-is-getting-a-new-karaoke-like-feature-apple-sing/)
-- [NASA&#39;s Artemis 1 Orion snaps gorgeous moon views as it sails over Apollo landing sites &lpar;video&rpar;](https://www.space.com/artemis-1-orion-views-apollo-moon-landing-geology)
+- [Rackspace blames ransomware attack for ongoing Exchange outage](https://techcrunch.com/2022/12/06/rackspace-blames-ransomware-attack-for-ongoing-exchange-outage/)
+- [Sellscale uses generative AI to create better marketing emails](https://techcrunch.com/2022/12/06/sellscale-funding/)
+- [Snapchat is testing Lenses with power-ups and upgrades that you can buy](https://techcrunch.com/2022/12/06/snapchat-is-testing-lenses-with-power-ups-and-upgrades-that-you-can-buy/)
+- [Meta’s behavioral ads will finally face GDPR privacy reckoning in January](https://techcrunch.com/2022/12/06/meta-gdpr-forced-consent-edpb-decisions/)
+- [Future Africa teams up with TLG Capital to set up $25M venture debt fund for portfolio companies](https://techcrunch.com/2022/12/06/future-africa-teams-up-with-tlg-capital-to-set-up-25m-venture-debt-fund-for-portfolio-companies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
