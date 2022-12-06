@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Artemis 1 Orion spacecraft on track for return to Earth after moon flyby](https://www.space.com/artemis-1-orion-spacecraft-on-track-to-return-to-Earth)
-- [From the creator of Homebrew, Tea raises $8.9M to build a protocol that helps open source developers get paid](https://techcrunch.com/2022/12/06/from-the-creator-of-homebrew-tea-raises-8-9m-to-build-a-protocol-that-helps-open-source-developers-get-paid/)
-- [3 ways SaaS businesses can boost revenue in a recession](https://techcrunch.com/2022/12/06/3-ways-saas-businesses-can-boost-revenue-in-a-recession/)
-- [Archive lands $15M as more clothing brands ‘get serious about resale’](https://techcrunch.com/2022/12/06/archive-15m-clothing-resale/)
-- [How Chargifi pivoted to Kadence, a platform to enable hybrid co-working, then pulled in $10M](https://techcrunch.com/2022/12/06/how-chargifi-pivoted-to-kadence-a-platform-to-enable-hybrid-co-working-then-pulled-in-10m/)
+- [Cacheflow doubles valuation while raising $10M, proving that the venture market is far from dead](https://techcrunch.com/2022/12/06/cacheflow-doubles-valuation-while-raising-10m-proving-that-the-venture-market-is-far-from-dead/)
+- [Axiom launches its automated identity and access management platform](https://techcrunch.com/2022/12/06/axiom-launches-its-automated-identity-and-access-management-platform/)
+- [Kodiak Robotics wins $50M to help US Army build AVs for recon, surveillance](https://techcrunch.com/2022/12/06/kodiak-robotics-wins-50m-to-help-us-army-build-avs-for-recon-surveillance/)
+- [Early-stage startups say no runway, no problem heading into 2023](https://techcrunch.com/2022/12/06/early-stage-startups-say-no-runway-no-problem-heading-into-2023/)
+- [Oda, the Norwegian grocery delivery startup, raises a fresh $151M, but at a lowered valuation of $353M](https://techcrunch.com/2022/12/06/oda-the-norwegian-grocery-delivery-startup-raises-a-fresh-151m-but-at-a-lowered-valuation-of-353m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
