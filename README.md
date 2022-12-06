@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Rezonate raises $8.7M and launches its cloud identity protection platform out of stealth](https://techcrunch.com/2022/12/06/rezonate-raises-8-7m-and-launches-its-cloud-identity-protection-platform-out-of-stealth/)
-- [NeuReality lands $35M to bring AI accelerator chips to market](https://techcrunch.com/2022/12/06/neureality-ai-accelerator-chips-startup-raises-35m/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [Apple expands Self Service Repair to iPhone and MacBook users in Europe](https://techcrunch.com/2022/12/06/apple-expands-self-service-repair-to-iphone-and-macbook-users-in-europe/)
-- [GPS: Everything you need to know about the space-based technology keeping us on track](https://www.space.com/gps-what-is-it)
+- [Artemis 1 Orion spacecraft on track for return to Earth after moon flyby](https://www.space.com/artemis-1-orion-spacecraft-on-track-to-return-to-Earth)
+- [From the creator of Homebrew, Tea raises $8.9M to build a protocol that helps open source developers get paid](https://techcrunch.com/2022/12/06/from-the-creator-of-homebrew-tea-raises-8-9m-to-build-a-protocol-that-helps-open-source-developers-get-paid/)
+- [3 ways SaaS businesses can boost revenue in a recession](https://techcrunch.com/2022/12/06/3-ways-saas-businesses-can-boost-revenue-in-a-recession/)
+- [Archive lands $15M as more clothing brands ‘get serious about resale’](https://techcrunch.com/2022/12/06/archive-15m-clothing-resale/)
+- [How Chargifi pivoted to Kadence, a platform to enable hybrid co-working, then pulled in $10M](https://techcrunch.com/2022/12/06/how-chargifi-pivoted-to-kadence-a-platform-to-enable-hybrid-co-working-then-pulled-in-10m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
