@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Rackspace blames ransomware attack for ongoing Exchange outage](https://techcrunch.com/2022/12/06/rackspace-blames-ransomware-attack-for-ongoing-exchange-outage/)
-- [Sellscale uses generative AI to create better marketing emails](https://techcrunch.com/2022/12/06/sellscale-funding/)
-- [Snapchat is testing Lenses with power-ups and upgrades that you can buy](https://techcrunch.com/2022/12/06/snapchat-is-testing-lenses-with-power-ups-and-upgrades-that-you-can-buy/)
-- [Meta’s behavioral ads will finally face GDPR privacy reckoning in January](https://techcrunch.com/2022/12/06/meta-gdpr-forced-consent-edpb-decisions/)
-- [Future Africa teams up with TLG Capital to set up $25M venture debt fund for portfolio companies](https://techcrunch.com/2022/12/06/future-africa-teams-up-with-tlg-capital-to-set-up-25m-venture-debt-fund-for-portfolio-companies/)
+- [Starting the tampon revolution with Valentina Milanova](https://techcrunch.com/2022/12/06/starting-the-tampon-revolution-with-valentina-milanova/)
+- [Apple loosens grip on App Store pricing with 700 new price points, support for prices that don’t end in $.99](https://techcrunch.com/2022/12/06/apple-loosens-grip-on-app-store-pricing-with-700-new-price-points-support-for-prices-that-dont-end-in-99/)
+- [Circle and Footprint’s aborted debuts are the final nail in the SPAC coffin](https://techcrunch.com/2022/12/06/circle-and-footprints-aborted-debuts-are-the-final-nail-in-the-spac-coffin/)
+- [Google Search’s new topic filters make it easier to refine results and expand searches](https://techcrunch.com/2022/12/06/google-searchs-new-topic-filters-refine-results-expand-search/)
+- [Use customer health data to grow and forecast NRR](https://techcrunch.com/2022/12/06/use-customer-health-data-to-grow-and-forecast-nrr/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
