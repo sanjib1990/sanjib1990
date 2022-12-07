@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Security compliance and automation platform Drata nabs $200M at $2B valuation](https://techcrunch.com/2022/12/07/security-compliance-and-automation-platform-drata-nabs-200m-at-2b-valuation/)
-- [Budget telescopes under $500: Picks from Celestron, Meade and Orion](https://www.space.com/telescopes-under-500)
-- [Gamma-rays may have helped meteorites seed Earth with the building blocks of life](https://www.space.com/gamma-ray-meteorites-seed-life-earth)
-- [3 methods for investors assessing AI-readiness in portfolio companies](https://techcrunch.com/2022/12/07/3-ways-investors-can-assess-ai-readiness-in-portfolio-companies/)
-- [MarginEdge lands $45M to give restaurants real-time spend data](https://techcrunch.com/2022/12/07/marginedge-45m-restaurant-spend/)
+- [Maergo raises $20M to provide Amazon-style fast and cheap air and ‘middle mile’ services to online retailers](https://techcrunch.com/2022/12/07/maergo-raises-20m-to-provide-amazon-style-fast-and-cheap-air-and-middle-mile-services-to-online-retailers/)
+- [Watch the Cold Moon rise tonight &lpar;Dec. 7&rpar;, the last full moon of 2022](https://www.space.com/december-full-moon-rises-tonight-dec-07-2022)
+- [Vaultree raises $12.8M to let companies more easily work with encrypted data](https://techcrunch.com/2022/12/07/vaultree-raises-12-8m-to-let-companies-more-easily-work-with-encrypted-data/)
+- [Hunt Club injects AI and a network of experts into the recruitment process](https://techcrunch.com/2022/12/07/hunt-club-injects-ai-and-a-network-of-experts-into-the-recruitment-process/)
+- [Telegram is auctioning phone numbers to let users sign up to the service without any SIM](https://techcrunch.com/2022/12/07/telegram-is-auctioning-phone-numbers-to-let-users-sign-up-to-the-service-without-any-sim/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
