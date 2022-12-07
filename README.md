@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Autonomous and electric truck company Einride raises $500M in equity and debt](https://techcrunch.com/2022/12/07/autonomous-electric-truck-company-einride-raises-500m-in-equity-and-debt/)
-- [China&#39;s Shenzhou 14 astronauts begin recovery on Earth after 6-month mission &lpar;video&rpar;](https://www.space.com/china-shenzhou-14-astronauts-recovery-on-earth)
-- [Uber and Motional launch robotaxi service in Las Vegas](https://techcrunch.com/2022/12/07/uber-and-motional-launch-robotaxi-service-in-las-vegas/)
-- [Happy anniversary, Apollo 17! Final moonwalking mission launched 50 years ago today](https://www.space.com/apollo-17-50-year-launch-anniversary)
-- [Vortex binoculars deals and discounts](https://www.space.com/vortex-binoculars-deals)
+- [Proton Drive encrypted cloud storage service arrives on mobile](https://techcrunch.com/2022/12/07/proton-drive-encrypted-cloud-storage-service-arrives-on-mobile/)
+- [Xiaomi’s India business head quits amid growing scrutiny](https://techcrunch.com/2022/12/07/xiaomis-india-business-head-raghu-reddy-quit/)
+- [Gaia raises $3M to bring more science to the art of forestry](https://techcrunch.com/2022/12/07/gaia-pre-seed/)
+- [StructureFlow helps attorneys visualize deal flow in a workflow-style interface](https://techcrunch.com/2022/12/07/structureflow-helps-attorneys-visualize-deal-flow-in-a-workflow-style-interface/)
+- [African credit-led fintech Finclusion raises additional capital amidst rebrand](https://techcrunch.com/2022/12/07/african-credit-led-fintech-finclusion-raises-additional-capital-amidst-rebrand/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
