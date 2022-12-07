@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Maergo raises $20M to provide Amazon-style fast and cheap air and ‘middle mile’ services to online retailers](https://techcrunch.com/2022/12/07/maergo-raises-20m-to-provide-amazon-style-fast-and-cheap-air-and-middle-mile-services-to-online-retailers/)
-- [Watch the Cold Moon rise tonight &lpar;Dec. 7&rpar;, the last full moon of 2022](https://www.space.com/december-full-moon-rises-tonight-dec-07-2022)
-- [Vaultree raises $12.8M to let companies more easily work with encrypted data](https://techcrunch.com/2022/12/07/vaultree-raises-12-8m-to-let-companies-more-easily-work-with-encrypted-data/)
-- [Hunt Club injects AI and a network of experts into the recruitment process](https://techcrunch.com/2022/12/07/hunt-club-injects-ai-and-a-network-of-experts-into-the-recruitment-process/)
-- [Telegram is auctioning phone numbers to let users sign up to the service without any SIM](https://techcrunch.com/2022/12/07/telegram-is-auctioning-phone-numbers-to-let-users-sign-up-to-the-service-without-any-sim/)
+- [The 1st photograph of all Earth: 50 years on, Blue Marble still inspires](https://www.space.com/blue-marble-picture-50th-anniversary)
+- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [To win over investors, use growth as your differentiator](https://techcrunch.com/2022/12/07/to-win-over-investors-use-growth-as-your-differentiator/)
+- [San Francisco rethinks policy on police using killer robots](https://techcrunch.com/2022/12/07/san-francisco-rethinks-policy-on-police-using-killer-robots/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
