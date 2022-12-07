@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Wordle was Google’s top trending search term globally in 2022](https://techcrunch.com/2022/12/07/wordle-was-googles-top-trending-search-term-globally-in-2022/)
-- [Bizarre long gamma-ray burst came from merging stellar corpses](https://www.space.com/gamma-ray-burst-merging-neutron-star-kilonova)
-- [Roadtripping with &lpar;and camping in&rpar; the Rivian R1S](https://techcrunch.com/2022/12/07/roadtripping-with-and-camping-in-the-rivian-r1s/)
-- [Plaid lays off 20% of staff, CEO says the fintech company ‘hired and invested ahead of revenue growth’](https://techcrunch.com/2022/12/07/plaid-layoff-fintech/)
-- [Microsoft Teams targets Facebook Groups with new ‘Communities’ feature](https://techcrunch.com/2022/12/07/microsoft-teams-targets-facebook-groups-with-new-communities-feature/)
+- [VoiceOver on the iPhone was a miracle for people who can’t see, and it keeps getting better — learn how at Sight Tech Global](https://techcrunch.com/2022/12/07/voiceover-on-the-iphone-was-a-miracle-for-people-who-cant-see-and-it-keeps-getting-better-learn-how-at-sight-tech-global/)
+- [Product demo startup LeadrPro wants to help companies pay for your attention](https://techcrunch.com/2022/12/07/product-demo-leadrpro/)
+- [With Pickme, your neighbor can receive your packages for you](https://techcrunch.com/2022/12/07/with-pickme-your-neighbor-can-receive-your-packages-for-you/)
+- [Thoma Bravo adds record $32B in new capital to fuel buyout funds](https://techcrunch.com/2022/12/07/thoma-bravo-adds-record-32b-in-new-capital-to-fuel-buyout-funds/)
+- [Amazon will give your overworked delivery driver $5 if you ask Alexa to say thank you](https://techcrunch.com/2022/12/07/amazon-will-give-your-overworked-delivery-driver-5-if-you-ask-alexa-to-say-thank-you/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
