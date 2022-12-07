@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Oh no, they added NFTs to Winamp](https://techcrunch.com/2022/12/07/oh-no-they-added-nfts-to-winamp/)
+- [A healthcare brand for women begins to take shape](https://techcrunch.com/2022/12/07/a-healthcare-brand-for-women-begins-to-take-shape/)
+- [Navier’s 30-foot hydrofoiling electric boat hits the water and prepares for production](https://techcrunch.com/2022/12/07/naviers-30-foot-hydrofoiling-electric-boat-hits-the-water-and-prepares-for-production/)
 - [Peekaboo! Strange tiny galaxy provides a glimpse into the universe&#39;s early history](https://www.space.com/peekaboo-dwarf-galaxy-hidden-by-star)
 - [Apple changes AirDrop security for all with iOS 16.2 after backlash over restrictions in China](https://techcrunch.com/2022/12/07/apple-changes-airdrop-security-for-all-with-ios-16-2-after-backlash-over-restrictions-in-china/)
-- [Apple launches end-to-end encryption for iCloud data](https://techcrunch.com/2022/12/07/apple-launches-end-to-end-encryption-for-icloud-data/)
-- [SpaceX now targeting Dec. 11 for launch of Japanese moon lander after delays](https://www.space.com/spacex-japan-moon-lander-launch-december-11-delays)
-- [With eyes on Mars, NASA algorithm tackles dust devils on Earth](https://www.space.com/mars-dust-devil-study-mojave-desert)
 <!-- BLOG-POST-LIST:END -->
 
 ---
