@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The 1st photograph of all Earth: 50 years on, Blue Marble still inspires](https://www.space.com/blue-marble-picture-50th-anniversary)
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [To win over investors, use growth as your differentiator](https://techcrunch.com/2022/12/07/to-win-over-investors-use-growth-as-your-differentiator/)
-- [San Francisco rethinks policy on police using killer robots](https://techcrunch.com/2022/12/07/san-francisco-rethinks-policy-on-police-using-killer-robots/)
+- [Wordle was Google’s top trending search term globally in 2022](https://techcrunch.com/2022/12/07/wordle-was-googles-top-trending-search-term-globally-in-2022/)
+- [Bizarre long gamma-ray burst came from merging stellar corpses](https://www.space.com/gamma-ray-burst-merging-neutron-star-kilonova)
+- [Roadtripping with &lpar;and camping in&rpar; the Rivian R1S](https://techcrunch.com/2022/12/07/roadtripping-with-and-camping-in-the-rivian-r1s/)
+- [Plaid lays off 20% of staff, CEO says the fintech company ‘hired and invested ahead of revenue growth’](https://techcrunch.com/2022/12/07/plaid-layoff-fintech/)
+- [Microsoft Teams targets Facebook Groups with new ‘Communities’ feature](https://techcrunch.com/2022/12/07/microsoft-teams-targets-facebook-groups-with-new-communities-feature/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
