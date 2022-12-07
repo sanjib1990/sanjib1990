@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Peekaboo! Strange tiny galaxy provides a glimpse into the universe&#39;s early history](https://www.space.com/peekaboo-dwarf-galaxy-hidden-by-star)
+- [Apple changes AirDrop security for all with iOS 16.2 after backlash over restrictions in China](https://techcrunch.com/2022/12/07/apple-changes-airdrop-security-for-all-with-ios-16-2-after-backlash-over-restrictions-in-china/)
+- [Apple launches end-to-end encryption for iCloud data](https://techcrunch.com/2022/12/07/apple-launches-end-to-end-encryption-for-icloud-data/)
+- [SpaceX now targeting Dec. 11 for launch of Japanese moon lander after delays](https://www.space.com/spacex-japan-moon-lander-launch-december-11-delays)
 - [With eyes on Mars, NASA algorithm tackles dust devils on Earth](https://www.space.com/mars-dust-devil-study-mojave-desert)
-- [Andreessen Horowitz leads $43M Series A for Setpoint, which aims to be the ‘Stripe for credit’](https://techcrunch.com/2022/12/07/andreessen-horowitz-leads-43m-series-a-for-setpoint-which-aims-to-be-the-stripe-for-credit/)
-- [Here’s how we know the US climate legislation is already working](https://techcrunch.com/2022/12/07/heres-how-we-know-the-us-climate-legislation-is-already-working/)
-- [See Mars at opposition join the full moon in the sky tonight &lpar;Dec. 7&rpar;](https://www.space.com/mars-at-opposition-night-sky-dec-07-2022)
-- [Skydio takes flight with new drone docking stations for easy remote deployment](https://techcrunch.com/2022/12/07/skydio-takes-flight-with-new-drone-docking-stations-for-easy-remote-deployment/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
