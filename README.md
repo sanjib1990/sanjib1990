@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Chrome is adding shortcuts to easily search for tabs, bookmarks, and history from the address bar](https://techcrunch.com/2022/12/06/chrome-is-adding-shortcuts-to-easily-search-for-tabs-bookmarks-and-history-from-the-address-bar/)
 - [Atomico report: European startups on track to raise $85B this year, down from $100B+ in 2021](https://techcrunch.com/2022/12/06/atomico-report-european-startups-on-track-to-raise-85b-this-year-down-from-100b-in-2021/)
 - [India’s nationwide 5G rollout plan could hit turbulence due to aircraft interference concerns](https://techcrunch.com/2022/12/06/india-5g-rollout-plan-aircraft-interference-concerns/)
 - [India’s Blume Ventures more than doubles in size, raises over $250 million for new fund](https://techcrunch.com/2022/12/06/india-blume-ventures-raises-over-250-million-fund-despite-market-slowdown/)
 - [As its fashion empire booms, Shein wants an ESG makeover](https://techcrunch.com/2022/12/06/as-its-fashion-empire-booms-shein-wants-an-esg-makeover/)
-- [SpaceX reveals &#39;Starshield&#39; satellite project for national security use](https://www.space.com/spacex-starshield-satellite-internet-military-starlink)
 <!-- BLOG-POST-LIST:END -->
 
 ---
