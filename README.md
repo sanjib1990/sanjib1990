@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [WhatsApp starts rolling out 3D avatars](https://techcrunch.com/2022/12/07/whatsapp-avatars-rollout/)
 - [Harbor Lab secures €6.1M to make shipping dock more easily and cheaply](https://techcrunch.com/2022/12/07/harbor-lab-secures-e6-1m-to-make-shipping-dock-more-easily-and-cheaply/)
 - [FTX marked down Chipper Cash’s $2B valuation to $1.25B](https://techcrunch.com/2022/12/06/ftx-marked-down-chipper-cashs-valuation-from-2b-to-1-25b/)
 - [Chrome is adding shortcuts to easily search for tabs, bookmarks, and history from the address bar](https://techcrunch.com/2022/12/06/chrome-is-adding-shortcuts-to-easily-search-for-tabs-bookmarks-and-history-from-the-address-bar/)
 - [Atomico report: European startups on track to raise $85B this year, down from $100B+ in 2021](https://techcrunch.com/2022/12/06/atomico-report-european-startups-on-track-to-raise-85b-this-year-down-from-100b-in-2021/)
-- [India’s nationwide 5G rollout plan could hit turbulence due to aircraft interference concerns](https://techcrunch.com/2022/12/06/india-5g-rollout-plan-aircraft-interference-concerns/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
