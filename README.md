@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Proton Drive encrypted cloud storage service arrives on mobile](https://techcrunch.com/2022/12/07/proton-drive-encrypted-cloud-storage-service-arrives-on-mobile/)
-- [Xiaomi’s India business head quits amid growing scrutiny](https://techcrunch.com/2022/12/07/xiaomis-india-business-head-raghu-reddy-quit/)
-- [Gaia raises $3M to bring more science to the art of forestry](https://techcrunch.com/2022/12/07/gaia-pre-seed/)
-- [StructureFlow helps attorneys visualize deal flow in a workflow-style interface](https://techcrunch.com/2022/12/07/structureflow-helps-attorneys-visualize-deal-flow-in-a-workflow-style-interface/)
-- [African credit-led fintech Finclusion raises additional capital amidst rebrand](https://techcrunch.com/2022/12/07/african-credit-led-fintech-finclusion-raises-additional-capital-amidst-rebrand/)
+- [Security compliance and automation platform Drata nabs $200M at $2B valuation](https://techcrunch.com/2022/12/07/security-compliance-and-automation-platform-drata-nabs-200m-at-2b-valuation/)
+- [Budget telescopes under $500: Picks from Celestron, Meade and Orion](https://www.space.com/telescopes-under-500)
+- [Gamma-rays may have helped meteorites seed Earth with the building blocks of life](https://www.space.com/gamma-ray-meteorites-seed-life-earth)
+- [3 methods for investors assessing AI-readiness in portfolio companies](https://techcrunch.com/2022/12/07/3-ways-investors-can-assess-ai-readiness-in-portfolio-companies/)
+- [MarginEdge lands $45M to give restaurants real-time spend data](https://techcrunch.com/2022/12/07/marginedge-45m-restaurant-spend/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
