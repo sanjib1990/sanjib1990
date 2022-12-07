@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [VoiceOver on the iPhone was a miracle for people who can’t see, and it keeps getting better — learn how at Sight Tech Global](https://techcrunch.com/2022/12/07/voiceover-on-the-iphone-was-a-miracle-for-people-who-cant-see-and-it-keeps-getting-better-learn-how-at-sight-tech-global/)
-- [Product demo startup LeadrPro wants to help companies pay for your attention](https://techcrunch.com/2022/12/07/product-demo-leadrpro/)
-- [With Pickme, your neighbor can receive your packages for you](https://techcrunch.com/2022/12/07/with-pickme-your-neighbor-can-receive-your-packages-for-you/)
-- [Thoma Bravo adds record $32B in new capital to fuel buyout funds](https://techcrunch.com/2022/12/07/thoma-bravo-adds-record-32b-in-new-capital-to-fuel-buyout-funds/)
-- [Amazon will give your overworked delivery driver $5 if you ask Alexa to say thank you](https://techcrunch.com/2022/12/07/amazon-will-give-your-overworked-delivery-driver-5-if-you-ask-alexa-to-say-thank-you/)
+- [See Mars at opposition join the full moon in the sky tonight &lpar;Dec. 7&rpar;](https://www.space.com/mars-at-opposition-night-sky-dec-07-2022)
+- [Skydio takes flight with new drone docking stations for easy remote deployment](https://techcrunch.com/2022/12/07/skydio-takes-flight-with-new-drone-docking-stations-for-easy-remote-deployment/)
+- [Slingshot Aerospace closes Series A-2 to grow space situational awareness platform](https://techcrunch.com/2022/12/07/slingshot-aerospace-closes-series-a-2-to-grow-space-situational-awareness-platform/)
+- [Instagram’s new transparency tools will tell you if your content is ineligible to be recommended](https://techcrunch.com/2022/12/07/instagrams-new-transparency-tools-will-tell-you-if-your-content-is-ineligible-to-be-recommended/)
+- [As Apple’s App Store expands price points options, RevenueCat rolls out A/B price testing tools](https://techcrunch.com/2022/12/07/as-apples-app-store-expands-price-points-options-revenuecat-rolls-out-a-b-price-testing-tools/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
