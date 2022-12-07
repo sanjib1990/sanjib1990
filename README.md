@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India’s nationwide 5G rollout plan could hit turbulence due to aircraft interference concerns](https://techcrunch.com/2022/12/06/india-5g-rollout-plan-aircraft-interference-concerns/)
+- [India’s Blume Ventures more than doubles in size, raises over $250 million for new fund](https://techcrunch.com/2022/12/06/india-blume-ventures-raises-over-250-million-fund-despite-market-slowdown/)
 - [As its fashion empire booms, Shein wants an ESG makeover](https://techcrunch.com/2022/12/06/as-its-fashion-empire-booms-shein-wants-an-esg-makeover/)
 - [SpaceX reveals &#39;Starshield&#39; satellite project for national security use](https://www.space.com/spacex-starshield-satellite-internet-military-starlink)
 - [American Battery Factory’s first ‘gigafactory’ inches toward reality](https://techcrunch.com/2022/12/06/american-battery-factorys-first-gigafactory-inches-toward-reality/)
-- [Daily Crunch: Lensa AI can transform Photoshopped fakes into nonconsensual pornography](https://techcrunch.com/2022/12/06/daily-crunch-lensa-ai-can-transform-photoshopped-fakes-into-nonconsensual-pornography/)
-- [Amazon tests machine learning software to analyze satellite images from space](https://www.space.com/amazon-satellites-machine-learning-in-orbit-first)
 <!-- BLOG-POST-LIST:END -->
 
 ---
