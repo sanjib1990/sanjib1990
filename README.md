@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s new moon lander contest heats up with Blue Origin, Northrop Grumman](https://www.space.com/nasa-artemis-moon-lander-northrop-grumman-blue-origin)
+- [America’s weak EV charging infrastructure might get a boost from dealers](https://techcrunch.com/2022/12/07/america-ev-charging-infrastructure-boost-gm-ford-dealers/)
 - [Halo and Sea of Thieves ambience tracks come to Calm meditation app](https://techcrunch.com/2022/12/07/halo-and-sea-of-thieves-ambience-tracks-come-to-calm-meditation-app/)
 - [Private Chinese rocket reaches orbit 2 years after test-flight failure &lpar;video&rpar;](https://www.space.com/china-kuaizhou-11-solid-rocket-launch-success)
 - [Oh no, they added NFTs to Winamp](https://techcrunch.com/2022/12/07/oh-no-they-added-nfts-to-winamp/)
-- [A healthcare brand for women begins to take shape](https://techcrunch.com/2022/12/07/a-healthcare-brand-for-women-begins-to-take-shape/)
-- [Navier’s 30-foot hydrofoiling electric boat hits the water and prepares for production](https://techcrunch.com/2022/12/07/naviers-30-foot-hydrofoiling-electric-boat-hits-the-water-and-prepares-for-production/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
