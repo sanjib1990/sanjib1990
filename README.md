@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [WhatsApp starts rolling out 3D avatars](https://techcrunch.com/2022/12/07/whatsapp-avatars-rollout/)
-- [Harbor Lab secures €6.1M to make shipping dock more easily and cheaply](https://techcrunch.com/2022/12/07/harbor-lab-secures-e6-1m-to-make-shipping-dock-more-easily-and-cheaply/)
-- [FTX marked down Chipper Cash’s $2B valuation to $1.25B](https://techcrunch.com/2022/12/06/ftx-marked-down-chipper-cashs-valuation-from-2b-to-1-25b/)
-- [Chrome is adding shortcuts to easily search for tabs, bookmarks, and history from the address bar](https://techcrunch.com/2022/12/06/chrome-is-adding-shortcuts-to-easily-search-for-tabs-bookmarks-and-history-from-the-address-bar/)
-- [Atomico report: European startups on track to raise $85B this year, down from $100B+ in 2021](https://techcrunch.com/2022/12/06/atomico-report-european-startups-on-track-to-raise-85b-this-year-down-from-100b-in-2021/)
+- [Autonomous and electric truck company Einride raises $500M in equity and debt](https://techcrunch.com/2022/12/07/autonomous-electric-truck-company-einride-raises-500m-in-equity-and-debt/)
+- [China&#39;s Shenzhou 14 astronauts begin recovery on Earth after 6-month mission &lpar;video&rpar;](https://www.space.com/china-shenzhou-14-astronauts-recovery-on-earth)
+- [Uber and Motional launch robotaxi service in Las Vegas](https://techcrunch.com/2022/12/07/uber-and-motional-launch-robotaxi-service-in-las-vegas/)
+- [Happy anniversary, Apollo 17! Final moonwalking mission launched 50 years ago today](https://www.space.com/apollo-17-50-year-launch-anniversary)
+- [Vortex binoculars deals and discounts](https://www.space.com/vortex-binoculars-deals)
 <!-- BLOG-POST-LIST:END -->
 
 ---
