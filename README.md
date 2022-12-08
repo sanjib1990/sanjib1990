@@ -82,7 +82,7 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [you need to monitor your stuff RIGHT NOW!!](https://www.youtube.com/watch?v=DbF96IHOZig)
+- [you need to monitor your stuff RIGHT NOW!! &lpar;free&rpar;](https://www.youtube.com/watch?v=DbF96IHOZig)
 - [Things are gonna get weird in 2023](https://www.youtube.com/watch?v=1v_TEnpqHXE)
 - [Ultimate Course for IT Beginners - From Zero to Engineer [22 Hours Released]](https://www.youtube.com/watch?v=Iyfntbj2jWU)
 - [Just In Time &lpar;JIT&rpar; Compilers - Computerphile](https://www.youtube.com/watch?v=d7KHAVaX_Rs)
