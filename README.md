@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Cinder’s content moderation software is custom-built for trust and safety teams](https://techcrunch.com/2022/12/08/cinder-builds-a-trust-and-safety-platform/)
-- [NFT-focused startup Metagood raises $5 million to grow ‘social good’ impact](https://techcrunch.com/2022/12/08/nft-focused-startup-metagood-raises-5-million-to-grow-social-good-impact/)
-- [NASA astronaut Stan Love on the digital-age Artemis cockpit inside the Orion spacecraft](https://www.space.com/artemis-orion-spacecraft-digital-age-cockpit)
-- [Salesforce to expand Sustainability Cloud into full ESG reporting tool](https://techcrunch.com/2022/12/08/salesforce-to-expand-sustainability-cloud-into-full-esg-reporting-tool/)
-- [TripActions secures $400M in credit facilities from Goldman Sachs, SVB](https://techcrunch.com/2022/12/08/spend-management-startup-tripactions-secures-400m-in-credit-facilities-from-goldman-sachs-svb/)
+- [In uncertain times, B2B sales teams must put value front and center](https://techcrunch.com/2022/12/08/in-uncertain-times-b2b-sales-teams-must-put-value-front-and-center/)
+- [Starbucks opens up its blockchain-based loyalty program and NFT community to first beta testers](https://techcrunch.com/2022/12/08/starbucks-opens-up-its-blockchain-based-loyalty-program-and-nft-community-to-first-beta-testers/)
+- [Space-grown plants brought home by China&#39;s Shenzhou 14 mission undergo analysis &lpar;video&rpar;](https://www.space.com/china-testing-space-grown-plants-shenzhou-14)
+- [Best FPV drones: ready to fly kits for beginners and experienced pilots](https://www.space.com/best-fpv-drones)
+- [Komi, a landing page tool for content creators, raises $5M seed round](https://techcrunch.com/2022/12/08/komi-a-landing-page-tool-for-content-creators-raises-5m-seed-round/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
