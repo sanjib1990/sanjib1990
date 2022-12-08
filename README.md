@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [WeWalk raises cash to bring computer vision to smart cane for visually-impaired people](https://techcrunch.com/2022/12/08/wewalk-raises-cash-to-bring-computer-vision-to-smart-cane-for-visually-impaired-people/)
-- [Save up to $900 on these festive Unistellar telescope deals](https://www.space.com/unistellar-evscope-and-equinox-festive-telescope-deals-2022)
-- [North Korean hackers exploited Internet Explorer zero-day to spread malware](https://techcrunch.com/2022/12/08/north-korean-hackers-exploited-internet-explorer-zero-day-to-spread-malware/)
-- [Watch SpaceX launch 40 OneWeb internet satellites Thursday](https://www.space.com/spacex-oneweb-internet-satellite-launch-december-2022)
-- [At a powerful radio telescope, the hunt for signals from intelligent extraterrestrial life is on](https://www.space.com/breakthrough-listen-meerkat-million-stars)
+- [TripActions secures $400M in credit facilities from Goldman Sachs, SVB](https://techcrunch.com/2022/12/08/spend-management-startup-tripactions-secures-400m-in-credit-facilities-from-goldman-sachs-svb/)
+- [Black Sheep Foods grabs $12.3M to craft tastier plant-based meats](https://techcrunch.com/2022/12/08/black-sheep-foods-12-3m-plant-based-meat/)
+- [To prepare for a downturn, build a three-case model](https://techcrunch.com/2022/12/08/to-prepare-for-a-downturn-build-a-three-case-model/)
+- [China will launch 2-in-1 asteroid deflection mission in 2025](https://www.space.com/china-asteroid-impact-mission-two-spacecraft)
+- [The Orville started as a spoof, but it has evolved into so much more](https://www.space.com/the-orville-started-as-a-spoof-but-it-has-evolved-into-so-much-more)
 <!-- BLOG-POST-LIST:END -->
 
 ---
