@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [In Pokémon Go you can now capture super big or super small friends](https://techcrunch.com/2022/12/08/in-pokemon-go-you-can-now-capture-super-big-or-super-small-friends/)
+- [Daily Crunch: Airtable lays off 250+ as CEO cites importance of ‘being a lean organization’](https://techcrunch.com/2022/12/08/daily-crunch-airtable-lays-off-250-as-ceo-cites-importance-of-being-a-lean-organization/)
+- [Japanese billionaire unveils the 8 artists he&#39;ll fly to the moon on SpaceX&#39;s Starship dearMoon flight](https://www.space.com/dearmoon-announces-moon-crew-spacex-starship)
+- [In Pokémon Go, you can now capture superbig or supersmall friends](https://techcrunch.com/2022/12/08/in-pokemon-go-you-can-now-capture-super-big-or-super-small-friends/)
 - [Slack’s new CEO, Lidiane Jones, brings two decades of product experience to the job](https://techcrunch.com/2022/12/08/slacks-new-ceo-lidiane-jones-brings-two-decades-of-product-experience-to-the-job/)
 - [Solana founders see now as a time to bridge the blockchain and the physical world](https://techcrunch.com/2022/12/08/solana-founders-see-now-as-a-time-to-bridge-the-blockchain-and-the-physical-world/)
-- [GitHub launches Copilot for business plan as legal questions remain unresolved](https://techcrunch.com/2022/12/08/github-launches-copilot-for-business-plan-as-legal-questions-remain-unresolved/)
-- [Rare Mars eclipse by the full moon wows stargazers with occultation &lpar;video&rpar;](https://www.space.com/mars-eclipse-full-cold-moon-wows-stargazers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
