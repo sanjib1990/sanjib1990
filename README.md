@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google combines Maps and Waze teams as pressures mount to cut costs](https://techcrunch.com/2022/12/07/google-combines-maps-and-waze-teams-as-pressures-mount-to-cut-costs/)
+- [Tesla appears to be turning back to radar for its vehicles](https://techcrunch.com/2022/12/07/tesla-appears-to-be-turning-back-to-radar-for-its-vehicles/)
 - [NASA loses contact with ICON atmosphere-studying satellite in Earth orbit](https://www.space.com/nasa-icon-earth-satellite-loses-contact)
+- [Daily Crunch: Plaid unravels a fifth of its workforce after ‘growth did not materialize as quickly as expected’](https://techcrunch.com/2022/12/07/daily-crunch-plaid-unravels-a-fifth-of-its-workforce-after-growth-did-not-materialize-as-quickly-as-expected/)
 - [NASA&#39;s new moon lander contest heats up with Blue Origin, Northrop Grumman](https://www.space.com/nasa-artemis-moon-lander-northrop-grumman-blue-origin)
-- [Private Chinese rocket reaches orbit 2 years after test-flight failure &lpar;video&rpar;](https://www.space.com/china-kuaizhou-11-solid-rocket-launch-success)
-- [A healthcare brand for women begins to take shape](https://techcrunch.com/2022/12/07/a-healthcare-brand-for-women-begins-to-take-shape/)
-- [Navier’s 30-foot hydrofoiling electric boat hits the water and prepares for production](https://techcrunch.com/2022/12/07/naviers-30-foot-hydrofoiling-electric-boat-hits-the-water-and-prepares-for-production/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
