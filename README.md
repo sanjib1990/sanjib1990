@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Chrome gets memory and energy saver modes](https://techcrunch.com/2022/12/08/chrome-gets-memory-and-energy-saver-modes/)
-- [Duffl’s David Lin dishes on why traditional rapid grocery delivery is not working](https://techcrunch.com/2022/12/08/duffl-david-lin-rapid-grocery-delivery/)
-- [James Webb Space Telescope&#39;s iconic image reveals a stellar surprise](https://www.space.com/james-webb-space-telescope-southern-ring-nebula-surprise)
-- [India’s Paytm considers buying back shares following a rough year](https://techcrunch.com/2022/12/08/paytm-considers-buying-back-shares/)
-- [Just how bad is the Q1 ad market going to be?](https://techcrunch.com/2022/12/08/just-how-bad-is-the-q1-ad-market-going-to-be/)
+- [Women are rising through the ranks at VC firms, new survey shows](https://techcrunch.com/2022/12/08/women-are-rising-through-the-ranks-at-vc-firms-new-survey-shows/)
+- [NASA&#39;s Mars Perseverance rover bottles up 1st dirt samples](https://www.space.com/perseverance-rover-mars-1st-regolith-samples)
+- [Reddit’s end-of-year Recap experience rolls out with personalized shareable cards](https://techcrunch.com/2022/12/08/reddits-end-of-year-recap-experience-rolls-out-with-personalized-shareable-cards/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [Amazon launches Inspire, a TikTok-like shopping feed that supports both photos and videos](https://techcrunch.com/2022/12/08/amazon-launches-inspire-a-tiktok-like-shopping-feed-that-supports-both-photos-and-videos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
