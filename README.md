@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pitch Deck Teardown: Rootine’s $10M Series A deck](https://techcrunch.com/2022/12/08/sample-series-a-pitch-deck-rootine/)
+- [Airtable, last valued at $11 billion for its no-code software, lays off over 250](https://techcrunch.com/2022/12/08/airtable-layoffs/)
 - [Women are rising through the ranks at VC firms, new survey shows](https://techcrunch.com/2022/12/08/women-are-rising-through-the-ranks-at-vc-firms-new-survey-shows/)
 - [NASA&#39;s Mars Perseverance rover bottles up 1st dirt samples](https://www.space.com/perseverance-rover-mars-1st-regolith-samples)
 - [Reddit’s end-of-year Recap experience rolls out with personalized shareable cards](https://techcrunch.com/2022/12/08/reddits-end-of-year-recap-experience-rolls-out-with-personalized-shareable-cards/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [Amazon launches Inspire, a TikTok-like shopping feed that supports both photos and videos](https://techcrunch.com/2022/12/08/amazon-launches-inspire-a-tiktok-like-shopping-feed-that-supports-both-photos-and-videos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
