@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Smartynames uses AI to find you the perfect domain name](https://techcrunch.com/2022/12/07/smartynames/)
+- [Porsche, World Fund join $63M bet on batteries for electric planes](https://techcrunch.com/2022/12/07/porsche-world-fund-join-63m-bet-on-batteries-for-electric-planes/)
 - [Google combines Maps and Waze teams as pressures mount to cut costs](https://techcrunch.com/2022/12/07/google-combines-maps-and-waze-teams-as-pressures-mount-to-cut-costs/)
 - [Tesla appears to be turning back to radar for its vehicles](https://techcrunch.com/2022/12/07/tesla-appears-to-be-turning-back-to-radar-for-its-vehicles/)
 - [NASA loses contact with ICON atmosphere-studying satellite in Earth orbit](https://www.space.com/nasa-icon-earth-satellite-loses-contact)
-- [Daily Crunch: Plaid unravels a fifth of its workforce after ‘growth did not materialize as quickly as expected’](https://techcrunch.com/2022/12/07/daily-crunch-plaid-unravels-a-fifth-of-its-workforce-after-growth-did-not-materialize-as-quickly-as-expected/)
-- [NASA&#39;s new moon lander contest heats up with Blue Origin, Northrop Grumman](https://www.space.com/nasa-artemis-moon-lander-northrop-grumman-blue-origin)
 <!-- BLOG-POST-LIST:END -->
 
 ---
