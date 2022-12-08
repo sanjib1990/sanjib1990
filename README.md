@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Pitch Deck Teardown: Rootine’s $10M Series A deck](https://techcrunch.com/2022/12/08/sample-series-a-pitch-deck-rootine/)
-- [Airtable, last valued at $11 billion for its no-code software, lays off over 250](https://techcrunch.com/2022/12/08/airtable-layoffs/)
-- [Women are rising through the ranks at VC firms, new survey shows](https://techcrunch.com/2022/12/08/women-are-rising-through-the-ranks-at-vc-firms-new-survey-shows/)
-- [NASA&#39;s Mars Perseverance rover bottles up 1st dirt samples](https://www.space.com/perseverance-rover-mars-1st-regolith-samples)
-- [Reddit’s end-of-year Recap experience rolls out with personalized shareable cards](https://techcrunch.com/2022/12/08/reddits-end-of-year-recap-experience-rolls-out-with-personalized-shareable-cards/)
+- [Rare Mars eclipse by the full moon wows stargazers with occultation](https://www.space.com/mars-eclipse-full-cold-moon-wows-stargazers)
+- [6 gifts for coffee lovers looking to up their game](https://techcrunch.com/2022/12/08/gifts-for-coffee-lovers/)
+- [Will SBF saddle up for a testimony after his media tour?](https://techcrunch.com/2022/12/08/will-sbf-saddle-up-for-a-testimony-after-his-media-tour/)
+- [The FTC is suing to block Microsoft from buying Activision](https://techcrunch.com/2022/12/08/the-ftc-is-suing-to-block-microsoft-from-buying-activision/)
+- [Critical mass](https://techcrunch.com/2022/12/08/critical-mass/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
