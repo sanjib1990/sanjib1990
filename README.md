@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India’s Uolo raises $22.5M to bring edtech to the masses](https://techcrunch.com/2022/12/07/uolo-funding-series-a-round-winter-capital-edtech/)
+- [Twitter will reportedly charge $11 on iOS for Blue subscription to offset App Store fees](https://techcrunch.com/2022/12/07/twitter-will-reportedly-charge-11-on-ios-for-blue-subscription-to-offset-app-store-fees/)
 - [Smartynames uses AI to find you the perfect domain name](https://techcrunch.com/2022/12/07/smartynames/)
 - [Porsche, World Fund join $63M bet on batteries for electric planes](https://techcrunch.com/2022/12/07/porsche-world-fund-join-63m-bet-on-batteries-for-electric-planes/)
 - [Google combines Maps and Waze teams as pressures mount to cut costs](https://techcrunch.com/2022/12/07/google-combines-maps-and-waze-teams-as-pressures-mount-to-cut-costs/)
-- [Tesla appears to be turning back to radar for its vehicles](https://techcrunch.com/2022/12/07/tesla-appears-to-be-turning-back-to-radar-for-its-vehicles/)
-- [NASA loses contact with ICON atmosphere-studying satellite in Earth orbit](https://www.space.com/nasa-icon-earth-satellite-loses-contact)
 <!-- BLOG-POST-LIST:END -->
 
 ---
