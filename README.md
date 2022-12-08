@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Sigfox owner UnaBiz doubles its Series B funding to $50 million](https://techcrunch.com/2022/12/07/unabiz-series-b/)
+- [Sigfox tech owner UnaBiz doubles its Series B funding to $50 million](https://techcrunch.com/2022/12/07/unabiz-series-b/)
 - [Pixyle AI wants to make visual search more intuitive for online retailers](https://techcrunch.com/2022/12/07/pixyle-ai/)
 - [India’s Uolo raises $22.5M to bring edtech to the masses](https://techcrunch.com/2022/12/07/uolo-funding-series-a-round-winter-capital-edtech/)
 - [Twitter will reportedly charge $11 on iOS for Blue subscription to offset App Store fees](https://techcrunch.com/2022/12/07/twitter-will-reportedly-charge-11-on-ios-for-blue-subscription-to-offset-app-store-fees/)
