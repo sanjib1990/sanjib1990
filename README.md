@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla appears to be turning back to radar for its vehicles](https://techcrunch.com/2022/12/07/tesla-appears-to-be-turning-back-to-radar-for-its-vehicles/)
 - [NASA loses contact with ICON atmosphere-studying satellite in Earth orbit](https://www.space.com/nasa-icon-earth-satellite-loses-contact)
 - [Daily Crunch: Plaid unravels a fifth of its workforce after ‘growth did not materialize as quickly as expected’](https://techcrunch.com/2022/12/07/daily-crunch-plaid-unravels-a-fifth-of-its-workforce-after-growth-did-not-materialize-as-quickly-as-expected/)
 - [NASA&#39;s new moon lander contest heats up with Blue Origin, Northrop Grumman](https://www.space.com/nasa-artemis-moon-lander-northrop-grumman-blue-origin)
 - [Theranos exec Sunny Balwani sentenced to 13 years in prison for defrauding patients and investors](https://techcrunch.com/2022/12/07/theranos-exec-sunny-balwani-sentenced-to-13-years-in-prison-for-defrauding-patients-and-investors/)
-- [America’s weak EV charging infrastructure might get a boost from dealers](https://techcrunch.com/2022/12/07/america-ev-charging-infrastructure-boost-gm-ford-dealers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
