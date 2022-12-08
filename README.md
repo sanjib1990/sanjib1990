@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [In uncertain times, B2B sales teams must put value front and center](https://techcrunch.com/2022/12/08/in-uncertain-times-b2b-sales-teams-must-put-value-front-and-center/)
-- [Starbucks opens up its blockchain-based loyalty program and NFT community to first beta testers](https://techcrunch.com/2022/12/08/starbucks-opens-up-its-blockchain-based-loyalty-program-and-nft-community-to-first-beta-testers/)
-- [Space-grown plants brought home by China&#39;s Shenzhou 14 mission undergo analysis &lpar;video&rpar;](https://www.space.com/china-testing-space-grown-plants-shenzhou-14)
-- [Best FPV drones: ready to fly kits for beginners and experienced pilots](https://www.space.com/best-fpv-drones)
-- [Komi, a landing page tool for content creators, raises $5M seed round](https://techcrunch.com/2022/12/08/komi-a-landing-page-tool-for-content-creators-raises-5m-seed-round/)
+- [India’s Paytm considers buying back shares](https://techcrunch.com/2022/12/08/paytm-considers-buying-back-shares/)
+- [Just how bad is the Q1 ad market going to be?](https://techcrunch.com/2022/12/08/just-how-bad-is-the-q1-ad-market-going-to-be/)
+- [Disney+ launches its ad-supported tier to compete with Netflix](https://techcrunch.com/2022/12/08/disney-launches-its-ad-supported-tier/)
+- [Cameo now offers kid-friendly personalized videos from CoComelon, Blippi, Thomas the Tank Engine](https://techcrunch.com/2022/12/08/cameo-now-offers-kid-friendly-personalized-videos-from-cocomelon-blippi-thomas-the-tank-engine/)
+- [Report indicates friction prior to Bret Taylor’s resignation from Salesforce](https://techcrunch.com/2022/12/08/report-indicates-friction-prior-to-bret-taylors-resignation-from-salesforce/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
