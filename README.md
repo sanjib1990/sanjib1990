@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Renault China boss is making super-premium EVs that monitor your health](https://techcrunch.com/2022/12/08/renault-china-boss-is-making-super-premium-evs-that-monitor-your-health/)
+- [France’s IRIS Capital reaches €110M first close for its new €150M venture fund](https://techcrunch.com/2022/12/08/frances-iris-capital-reaches-e110m-first-close-for-its-new-e150m-venture-fund/)
 - [Sigfox tech owner UnaBiz doubles its Series B funding to $50 million](https://techcrunch.com/2022/12/07/unabiz-series-b/)
 - [Pixyle AI wants to make visual search more intuitive for online retailers](https://techcrunch.com/2022/12/07/pixyle-ai/)
 - [India’s Uolo raises $22.5M to bring edtech to the masses](https://techcrunch.com/2022/12/07/uolo-funding-series-a-round-winter-capital-edtech/)
-- [Twitter will reportedly charge $11 on iOS for Blue subscription to offset App Store fees](https://techcrunch.com/2022/12/07/twitter-will-reportedly-charge-11-on-ios-for-blue-subscription-to-offset-app-store-fees/)
-- [Smartynames uses AI to find you the perfect domain name](https://techcrunch.com/2022/12/07/smartynames/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
