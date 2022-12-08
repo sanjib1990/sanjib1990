@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cinder’s content moderation software is custom-built for trust and safety teams](https://techcrunch.com/2022/12/08/cinder-builds-a-trust-and-safety-platform/)
+- [NFT-focused startup Metagood raises $5 million to grow ‘social good’ impact](https://techcrunch.com/2022/12/08/nft-focused-startup-metagood-raises-5-million-to-grow-social-good-impact/)
+- [NASA astronaut Stan Love on the digital-age Artemis cockpit inside the Orion spacecraft](https://www.space.com/artemis-orion-spacecraft-digital-age-cockpit)
+- [Salesforce to expand Sustainability Cloud into full ESG reporting tool](https://techcrunch.com/2022/12/08/salesforce-to-expand-sustainability-cloud-into-full-esg-reporting-tool/)
 - [TripActions secures $400M in credit facilities from Goldman Sachs, SVB](https://techcrunch.com/2022/12/08/spend-management-startup-tripactions-secures-400m-in-credit-facilities-from-goldman-sachs-svb/)
-- [Black Sheep Foods grabs $12.3M to craft tastier plant-based meats](https://techcrunch.com/2022/12/08/black-sheep-foods-12-3m-plant-based-meat/)
-- [To prepare for a downturn, build a three-case model](https://techcrunch.com/2022/12/08/to-prepare-for-a-downturn-build-a-three-case-model/)
-- [China will launch 2-in-1 asteroid deflection mission in 2025](https://www.space.com/china-asteroid-impact-mission-two-spacecraft)
-- [The Orville started as a spoof, but it has evolved into so much more](https://www.space.com/the-orville-started-as-a-spoof-but-it-has-evolved-into-so-much-more)
 <!-- BLOG-POST-LIST:END -->
 
 ---
