@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [WeWalk raises cash to bring computer vision to smart cane for visually-impaired people](https://techcrunch.com/2022/12/08/wewalk-raises-cash-to-bring-computer-vision-to-smart-cane-for-visually-impaired-people/)
+- [Save up to $900 on these festive Unistellar telescope deals](https://www.space.com/unistellar-evscope-and-equinox-festive-telescope-deals-2022)
+- [North Korean hackers exploited Internet Explorer zero-day to spread malware](https://techcrunch.com/2022/12/08/north-korean-hackers-exploited-internet-explorer-zero-day-to-spread-malware/)
 - [Watch SpaceX launch 40 OneWeb internet satellites Thursday](https://www.space.com/spacex-oneweb-internet-satellite-launch-december-2022)
 - [At a powerful radio telescope, the hunt for signals from intelligent extraterrestrial life is on](https://www.space.com/breakthrough-listen-meerkat-million-stars)
-- [Watch the moon eclipse Earth in stunning video from Artemis 1&#39;s Orion spacecraft](https://www.space.com/artemis-1-orion-moon-eclipse-earth-video)
-- [ShareGPT lets you easily share your ChatGPT conversations](https://techcrunch.com/2022/12/08/sharegpt-lets-you-easily-share-your-chatgpt-conversations/)
-- [Renault China boss is making super-premium EVs that monitor your health](https://techcrunch.com/2022/12/08/renault-china-boss-is-making-super-premium-evs-that-monitor-your-health/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
