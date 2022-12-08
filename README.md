@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sigfox owner UnaBiz doubles its Series B funding to $50 million](https://techcrunch.com/2022/12/07/unabiz-series-b/)
+- [Pixyle AI wants to make visual search more intuitive for online retailers](https://techcrunch.com/2022/12/07/pixyle-ai/)
 - [India’s Uolo raises $22.5M to bring edtech to the masses](https://techcrunch.com/2022/12/07/uolo-funding-series-a-round-winter-capital-edtech/)
 - [Twitter will reportedly charge $11 on iOS for Blue subscription to offset App Store fees](https://techcrunch.com/2022/12/07/twitter-will-reportedly-charge-11-on-ios-for-blue-subscription-to-offset-app-store-fees/)
 - [Smartynames uses AI to find you the perfect domain name](https://techcrunch.com/2022/12/07/smartynames/)
-- [Porsche, World Fund join $63M bet on batteries for electric planes](https://techcrunch.com/2022/12/07/porsche-world-fund-join-63m-bet-on-batteries-for-electric-planes/)
-- [Google combines Maps and Waze teams as pressures mount to cut costs](https://techcrunch.com/2022/12/07/google-combines-maps-and-waze-teams-as-pressures-mount-to-cut-costs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
