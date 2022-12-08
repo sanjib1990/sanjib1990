@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [What will AI Programming look like in 5 Years?](https://www.youtube.com/watch?v=eaedq1Jl2fc)
 - [Verifying AI &#39;Black Boxes&#39; - Computerphile](https://www.youtube.com/watch?v=jzRrUPQgrpc)
 - [you need to monitor your stuff RIGHT NOW!! &lpar;free&rpar;](https://www.youtube.com/watch?v=DbF96IHOZig)
 - [Things are gonna get weird in 2023](https://www.youtube.com/watch?v=1v_TEnpqHXE)
 - [Ultimate Course for IT Beginners - From Zero to Engineer [22 Hours Released]](https://www.youtube.com/watch?v=Iyfntbj2jWU)
-- [Just In Time &lpar;JIT&rpar; Compilers - Computerphile](https://www.youtube.com/watch?v=d7KHAVaX_Rs)
 <!-- YOUTUBE:END -->
 
 ---
