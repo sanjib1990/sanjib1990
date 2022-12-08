@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA loses contact with ICON atmosphere-studying satellite in Earth orbit](https://www.space.com/nasa-icon-earth-satellite-loses-contact)
+- [Daily Crunch: Plaid unravels a fifth of its workforce after ‘growth did not materialize as quickly as expected’](https://techcrunch.com/2022/12/07/daily-crunch-plaid-unravels-a-fifth-of-its-workforce-after-growth-did-not-materialize-as-quickly-as-expected/)
 - [NASA&#39;s new moon lander contest heats up with Blue Origin, Northrop Grumman](https://www.space.com/nasa-artemis-moon-lander-northrop-grumman-blue-origin)
+- [Theranos exec Sunny Balwani sentenced to 13 years in prison for defrauding patients and investors](https://techcrunch.com/2022/12/07/theranos-exec-sunny-balwani-sentenced-to-13-years-in-prison-for-defrauding-patients-and-investors/)
 - [America’s weak EV charging infrastructure might get a boost from dealers](https://techcrunch.com/2022/12/07/america-ev-charging-infrastructure-boost-gm-ford-dealers/)
-- [Halo and Sea of Thieves ambience tracks come to Calm meditation app](https://techcrunch.com/2022/12/07/halo-and-sea-of-thieves-ambience-tracks-come-to-calm-meditation-app/)
-- [Private Chinese rocket reaches orbit 2 years after test-flight failure &lpar;video&rpar;](https://www.space.com/china-kuaizhou-11-solid-rocket-launch-success)
-- [Oh no, they added NFTs to Winamp](https://techcrunch.com/2022/12/07/oh-no-they-added-nfts-to-winamp/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
