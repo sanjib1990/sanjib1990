@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [China may enlarge its Tiangong space station](https://www.space.com/china-may-enlarge-tiangong-space-station)
+- [The climate founders’ guide to the Inflation Reduction Act](https://techcrunch.com/2022/12/09/the-climate-founders-guide-to-the-inflation-reduction-act/)
+- [Instant grocery app Getir acquires its competitor Gorillas](https://techcrunch.com/2022/12/09/instant-grocery-app-getir-acquires-its-competitor-gorillas/)
 - [Naval Academy&#39;s NASA-inspired uniforms extend Army-Navy Game&#39;s space history](https://www.space.com/army-navy-game-nasa-astronaut-uniform)
 - [How to respond when a VC asks about your startup’s valuation](https://techcrunch.com/2022/12/09/how-to-respond-when-a-vc-asks-about-your-startups-valuation/)
-- [Amid growing concerns from third-party developers, Twitter shuts down Toolbox and other projects](https://techcrunch.com/2022/12/09/amid-growing-concerns-from-third-party-developers-twitter-shuts-down-toolbox-and-other-projects/)
-- [Primer, the UK e-commerce tech startup, has laid off one-third of its staff](https://techcrunch.com/2022/12/09/primer-the-uk-e-commerce-tech-startup-has-laid-off-one-third-of-its-staff/)
-- [NASA drawing on Apollo to design Artemis moonwalkers&#39; tools](https://www.space.com/nasa-artemis-moon-tools-apollo-lessons)
 <!-- BLOG-POST-LIST:END -->
 
 ---
