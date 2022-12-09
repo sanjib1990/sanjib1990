@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Artemis 1 vs Apollo 17: 50 years apart, which was the greater challenge?](https://www.space.com/artemis-i-apollo-17-50th-challenges)
+- [Proposed legislation would force US higher education endowments to reveal where they invest](https://techcrunch.com/2022/12/09/proposed-legislation-would-force-us-higher-education-endowments-to-reveal-where-they-invest/)
+- [The Block founder says he’s exploring ways to get the publication into ‘trustworthy’ hands](https://techcrunch.com/2022/12/09/the-block-founder-says-hes-exploring-ways-to-get-the-publication-into-trustworthy-hands/)
 - [Chinese rocket body disintegrates into big cloud of space junk](https://www.space.com/china-rocket-disintegrates-space-junk-cloud)
 - [Don&#39;t miss the Geminid meteor shower peak next week on Dec. 14](https://www.space.com/geminid-meteor-shower-moonlit-next-week)
-- [Gift Guide: On-the-go fitness tech to boost their training anywhere](https://techcrunch.com/2022/12/09/fitness-gift-guide-2022/)
-- [China launches hyperspectral Earth-imaging satellite to orbit &lpar;video&rpar;](https://www.space.com/china-launches-earth-imaging-satellite-gaofen-5-01a)
-- [Amazon ends support for third-party HIPAA-compliant Alexa skills](https://techcrunch.com/2022/12/09/amazon-ends-support-for-third-party-hipaa-compliant-alexa-skills/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
