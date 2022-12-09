@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to respond when a VC asks about your startup’s valuation](https://techcrunch.com/2022/12/09/how-to-respond-when-a-vc-asks-about-your-startups-valuation/)
+- [Amid growing concerns from third-party developers, Twitter shuts down Toolbox and other projects](https://techcrunch.com/2022/12/09/amid-growing-concerns-from-third-party-developers-twitter-shuts-down-toolbox-and-other-projects/)
+- [Primer, the UK e-commerce tech startup, has laid off one-third of its staff](https://techcrunch.com/2022/12/09/primer-the-uk-e-commerce-tech-startup-has-laid-off-one-third-of-its-staff/)
 - [NASA drawing on Apollo to design Artemis moonwalkers&#39; tools](https://www.space.com/nasa-artemis-moon-tools-apollo-lessons)
 - [Star may have drawn scorching &#39;hell planet&#39; into super-close orbit](https://www.space.com/how-hell-planet-janssen-got-so-hot)
-- [CommonSpirit Health says patient data was stolen during ransomware attack](https://techcrunch.com/2022/12/09/commonspirit-health-ransomware-attack-exposed-patient-data/)
-- [Japan’s health-tech Ubie wants to fuel its U.S expansion with $19M Series C extension](https://techcrunch.com/2022/12/09/japans-health-tech-ubie-wants-to-fuel-its-u-s-expansion-with-19m-series-c-extension/)
-- [NASA&#39;s Artemis 1 Orion spacecraft set for return to Earth on Dec. 11](https://www.space.com/artemis-1-orion-spacecraft-ready-for-return-earth)
 <!-- BLOG-POST-LIST:END -->
 
 ---
