@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s Artemis 1 moon mission is going so well that engineers added more Orion tests &lpar;video&rpar;](https://www.space.com/artemis-1-nasa-boosts-future-moon-mission)
 - [Artemis 1 vs Apollo 17: 50 years apart, which was the greater challenge?](https://www.space.com/artemis-i-apollo-17-50th-challenges)
 - [Proposed legislation would force US higher education endowments to reveal where they invest](https://techcrunch.com/2022/12/09/proposed-legislation-would-force-us-higher-education-endowments-to-reveal-where-they-invest/)
 - [The Block founder says he’s exploring ways to get the publication into ‘trustworthy’ hands](https://techcrunch.com/2022/12/09/the-block-founder-says-hes-exploring-ways-to-get-the-publication-into-trustworthy-hands/)
 - [Chinese rocket body disintegrates into big cloud of space junk](https://www.space.com/china-rocket-disintegrates-space-junk-cloud)
-- [Don&#39;t miss the Geminid meteor shower peak next week on Dec. 14](https://www.space.com/geminid-meteor-shower-moonlit-next-week)
 <!-- BLOG-POST-LIST:END -->
 
 ---
