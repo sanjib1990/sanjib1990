@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [China may enlarge its Tiangong space station](https://www.space.com/china-may-enlarge-tiangong-space-station)
-- [The climate founders’ guide to the Inflation Reduction Act](https://techcrunch.com/2022/12/09/the-climate-founders-guide-to-the-inflation-reduction-act/)
-- [Instant grocery app Getir acquires its competitor Gorillas](https://techcrunch.com/2022/12/09/instant-grocery-app-getir-acquires-its-competitor-gorillas/)
-- [Naval Academy&#39;s NASA-inspired uniforms extend Army-Navy Game&#39;s space history](https://www.space.com/army-navy-game-nasa-astronaut-uniform)
-- [How to respond when a VC asks about your startup’s valuation](https://techcrunch.com/2022/12/09/how-to-respond-when-a-vc-asks-about-your-startups-valuation/)
+- [Confirmed! James Webb Space Telescope has bagged the oldest known galaxies](https://www.space.com/james-webb-space-telescope-oldest-galaxies-confirmed)
+- [NASA’s Webb Reaches New Milestone in Quest for Distant Galaxies](https://blogs.nasa.gov/webb/2022/12/09/nasas-webb-reaches-new-milestone-in-quest-for-distant-galaxies/)
+- [2022: The good, the bad, and the wake-up calls](https://techcrunch.com/2022/12/09/2022-the-good-the-bad-and-the-wake-up-calls/)
+- [These Celestron beginner telescopes are over 30% off this holiday season](https://www.space.com/celestron-travelscope-firstscope-telescope-festive-deals-2022)
+- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
