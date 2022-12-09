@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Confirmed! James Webb Space Telescope has bagged the oldest known galaxies](https://www.space.com/james-webb-space-telescope-oldest-galaxies-confirmed)
-- [NASA’s Webb Reaches New Milestone in Quest for Distant Galaxies](https://blogs.nasa.gov/webb/2022/12/09/nasas-webb-reaches-new-milestone-in-quest-for-distant-galaxies/)
-- [2022: The good, the bad, and the wake-up calls](https://techcrunch.com/2022/12/09/2022-the-good-the-bad-and-the-wake-up-calls/)
-- [These Celestron beginner telescopes are over 30% off this holiday season](https://www.space.com/celestron-travelscope-firstscope-telescope-festive-deals-2022)
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates)
+- [Build your own Lego minifigures as flown to the moon on Artemis 1](https://www.space.com/how-build-artemis-1-lego-minifigures)
+- [Getaround braves chilly public markets with SPAC combination](https://techcrunch.com/2022/12/09/getaround-braves-chilly-public-markets-with-spac-combination/)
+- [Tesla hopes China boss will bring secret sauce to Gigafactory Texas](https://techcrunch.com/2022/12/09/tesla-hopes-china-boss-will-bring-secret-sauce-to-gigafactory-texas/)
+- [Here&#39;s how the US Navy will fish NASA&#39;s Artemis 1 Orion spacecraft out of the sea after splashdown](https://www.space.com/how-navy-recover-artemis-1-orion-spacecraft)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
