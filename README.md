@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch your Lego festive fun with 25% off the Galaxy Explorer set](https://www.space.com/lego-icons-galaxy-explorer-festive-deal-save-25-dollars)
-- [Build your own Lego minifigures as flown to the moon on Artemis 1](https://www.space.com/how-build-artemis-1-lego-minifigures)
-- [Getaround braves chilly public markets with SPAC combination](https://techcrunch.com/2022/12/09/getaround-braves-chilly-public-markets-with-spac-combination/)
-- [Tesla hopes China boss will bring secret sauce to Gigafactory Texas](https://techcrunch.com/2022/12/09/tesla-hopes-china-boss-will-bring-secret-sauce-to-gigafactory-texas/)
-- [Here&#39;s how the US Navy will fish NASA&#39;s Artemis 1 Orion spacecraft out of the sea after splashdown](https://www.space.com/how-navy-recover-artemis-1-orion-spacecraft)
+- [Computer vision technology startup Brodmann17 has shut down](https://techcrunch.com/2022/12/09/computer-vision-technology-startup-brodmann17-has-shut-down/)
+- [TechCrunch+ roundup: VC trick questions, building 3-case models, B2B sales coaching](https://techcrunch.com/2022/12/09/techcrunch-roundup-when-vcs-ask-trick-questions-building-3-case-models-b2b-sales-team-coaching/)
+- [Roblox will let 13+ users import contacts and add recommended friends](https://techcrunch.com/2022/12/09/roblox-will-let-13-users-import-contacts-and-add-recommended-friends/)
+- [Hubble Space Telescope spots haunting glow surrounding the solar system](https://www.space.com/hubble-space-telescope-solar-system-glow)
+- [Pressured by fossil fuel interests, Vanguard decides maybe climate change isn’t a problem after all](https://techcrunch.com/2022/12/09/pressured-by-fossil-fuel-interests-vanguard-decides-maybe-climate-change-isnt-a-problem-after-all/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
