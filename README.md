@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Computer vision technology startup Brodmann17 has shut down](https://techcrunch.com/2022/12/09/computer-vision-technology-startup-brodmann17-has-shut-down/)
-- [TechCrunch+ roundup: VC trick questions, building 3-case models, B2B sales coaching](https://techcrunch.com/2022/12/09/techcrunch-roundup-when-vcs-ask-trick-questions-building-3-case-models-b2b-sales-team-coaching/)
-- [Roblox will let 13+ users import contacts and add recommended friends](https://techcrunch.com/2022/12/09/roblox-will-let-13-users-import-contacts-and-add-recommended-friends/)
-- [Hubble Space Telescope spots haunting glow surrounding the solar system](https://www.space.com/hubble-space-telescope-solar-system-glow)
-- [Pressured by fossil fuel interests, Vanguard decides maybe climate change isn’t a problem after all](https://techcrunch.com/2022/12/09/pressured-by-fossil-fuel-interests-vanguard-decides-maybe-climate-change-isnt-a-problem-after-all/)
+- [Chinese rocket body disintegrates into big cloud of space junk](https://www.space.com/china-rocket-disintegrates-space-junk-cloud)
+- [Don&#39;t miss the Geminid meteor shower peak next week on Dec. 14](https://www.space.com/geminid-meteor-shower-moonlit-next-week)
+- [Gift Guide: On-the-go fitness tech to boost their training anywhere](https://techcrunch.com/2022/12/09/fitness-gift-guide-2022/)
+- [China launches hyperspectral Earth-imaging satellite to orbit &lpar;video&rpar;](https://www.space.com/china-launches-earth-imaging-satellite-gaofen-5-01a)
+- [Amazon ends support for third-party HIPAA-compliant Alexa skills](https://techcrunch.com/2022/12/09/amazon-ends-support-for-third-party-hipaa-compliant-alexa-skills/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
