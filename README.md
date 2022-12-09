@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Grocery delivery app Getir bags rival Gorillas in a $1.2B acquisition](https://techcrunch.com/2022/12/09/daily-crunch-grocery-delivery-app-getir-bags-rival-gorillas-in-a-1-2b-acquisition/)
+- [James Webb Space Telescope peers into the &#39;ghostly light&#39; of interstellar space](https://www.space.com/james-webb-space-telescope-ghostly-light-between-galaxies)
+- [Rocket Lab now aims to launch 1st Electron booster from US soil on Dec. 13](https://www.space.com/rocket-lab-first-us-electron-launch-december-2022)
+- [Musk’s ‘Twitter Files’ offer a glimpse of the raw, complicated and thankless task of moderation](https://techcrunch.com/2022/12/09/musks-twitter-files-offer-a-glimpse-of-the-raw-complicated-and-thankless-task-of-moderation/)
 - [NASA&#39;s Artemis 1 moon mission is going so well that engineers added more Orion tests &lpar;video&rpar;](https://www.space.com/artemis-1-nasa-boosts-future-moon-mission)
-- [Artemis 1 vs Apollo 17: 50 years apart, which was the greater challenge?](https://www.space.com/artemis-i-apollo-17-50th-challenges)
-- [Proposed legislation would force US higher education endowments to reveal where they invest](https://techcrunch.com/2022/12/09/proposed-legislation-would-force-us-higher-education-endowments-to-reveal-where-they-invest/)
-- [The Block founder says he’s exploring ways to get the publication into ‘trustworthy’ hands](https://techcrunch.com/2022/12/09/the-block-founder-says-hes-exploring-ways-to-get-the-publication-into-trustworthy-hands/)
-- [Chinese rocket body disintegrates into big cloud of space junk](https://www.space.com/china-rocket-disintegrates-space-junk-cloud)
 <!-- BLOG-POST-LIST:END -->
 
 ---
