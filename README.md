@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Japan’s health-tech Ubie wants to fuel its U.S expansion with $19M Series C extension](https://techcrunch.com/2022/12/09/japans-health-tech-ubie-wants-to-fuel-its-u-s-expansion-with-19m-series-c-extension/)
 - [NASA&#39;s Artemis 1 Orion spacecraft set for return to Earth on Dec. 11](https://www.space.com/artemis-1-orion-spacecraft-ready-for-return-earth)
 - [Akros Technologies, an AI-powered asset management platform, raises funding from Z Holdings](https://techcrunch.com/2022/12/08/akros-technologies-an-ai-powered-asset-management-platform-raises-funding-from-z-holdings/)
 - [UK regulator says it’s not to blame for Virgin Orbit mission delay](https://techcrunch.com/2022/12/08/uk-regulator-says-its-not-to-blame-for-virgin-orbit-mission-delay/)
 - [SpaceX launches 40 OneWeb satellites into orbit, aces rocket landing](https://www.space.com/spacex-oneweb-internet-satellite-launch-december-2022)
-- [Daily Crunch: Airtable lays off 250+ as CEO cites importance of ‘being a lean organization’](https://techcrunch.com/2022/12/08/daily-crunch-airtable-lays-off-250-as-ceo-cites-importance-of-being-a-lean-organization/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
