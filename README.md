@@ -95,10 +95,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [NASA&#39;s Artemis 1 Orion spacecraft set for return to Earth on Dec. 11](https://www.space.com/artemis-1-orion-spacecraft-ready-for-return-earth)
+- [Akros Technologies, an AI-powered asset management platform, raises funding from Z Holdings](https://techcrunch.com/2022/12/08/akros-technologies-an-ai-powered-asset-management-platform-raises-funding-from-z-holdings/)
+- [UK regulator says it’s not to blame for Virgin Orbit mission delay](https://techcrunch.com/2022/12/08/uk-regulator-says-its-not-to-blame-for-virgin-orbit-mission-delay/)
 - [SpaceX launches 40 OneWeb satellites into orbit, aces rocket landing](https://www.space.com/spacex-oneweb-internet-satellite-launch-december-2022)
-- [Japanese billionaire unveils the 8 artists he&#39;ll fly to the moon on SpaceX&#39;s Starship dearMoon flight](https://www.space.com/dearmoon-announces-moon-crew-spacex-starship)
-- [Slack’s new CEO, Lidiane Jones, brings two decades of product experience to the job](https://techcrunch.com/2022/12/08/slacks-new-ceo-lidiane-jones-brings-two-decades-of-product-experience-to-the-job/)
-- [Solana founders see now as a time to bridge the blockchain and the physical world](https://techcrunch.com/2022/12/08/solana-founders-see-now-as-a-time-to-bridge-the-blockchain-and-the-physical-world/)
+- [Daily Crunch: Airtable lays off 250+ as CEO cites importance of ‘being a lean organization’](https://techcrunch.com/2022/12/08/daily-crunch-airtable-lays-off-250-as-ceo-cites-importance-of-being-a-lean-organization/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
