@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Is ChatGPT a  “virus that has been released into the wild”?](https://techcrunch.com/2022/12/09/is-chatgpt-a-virus-that-has-been-released-into-the-wild/)
+- [Is ChatGPT a ‘virus that has been released into the wild’?](https://techcrunch.com/2022/12/09/is-chatgpt-a-virus-that-has-been-released-into-the-wild/)
 - [Daily Crunch: Grocery delivery app Getir bags rival Gorillas in a $1.2B acquisition](https://techcrunch.com/2022/12/09/daily-crunch-grocery-delivery-app-getir-bags-rival-gorillas-in-a-1-2b-acquisition/)
 - [James Webb Space Telescope peers into the &#39;ghostly light&#39; of interstellar space](https://www.space.com/james-webb-space-telescope-ghostly-light-between-galaxies)
 - [Rocket Lab now aims to launch 1st Electron booster from US soil on Dec. 13](https://www.space.com/rocket-lab-first-us-electron-launch-december-2022)
