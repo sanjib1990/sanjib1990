@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What time does the Artemis 1 Orion spacecraft splash down on Dec. 11 to end NASA&#39;s moon mission?](https://www.space.com/artemis-1-orion-spacecraft-splashdown-what-time)
 - [&#39;Star Trek: Discovery&#39; Season 4 warps onto home video and is 24% off for the holidays](https://www.space.com/star-trek-discovery-season-4-blu-ray-deal)
 - [OpenAI’s attempts to watermark AI text hit limits](https://techcrunch.com/2022/12/10/openais-attempts-to-watermark-ai-text-hit-limits/)
 - [NASA rolls Artemis 1&#39;s huge launch tower off pad for repairs, upgrades &lpar;photos&rpar;](https://www.space.com/artemis-1-mobile-launch-tower-rolled-off-pad)
 - [Here&#39;s how NASA&#39;s Artemis 1 Orion spacecraft will splash down to end its moon mission in 8 not-so-easy steps](https://www.space.com/artemis-1-orion-spacecraft-landing-sequence)
-- [Relive the Artemis 1 launch as the Orion spacecraft prepares to return &lpar;photos&rpar;](https://www.space.com/nasa-artemis-1-launch-relive-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
