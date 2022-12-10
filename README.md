@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How NASA&#39;s Artemis 1 Orion spacecraft will splash down to end its moon mission in 8 not-so-easy steps](https://www.space.com/artemis-1-orion-spacecraft-landing-sequence)
+- [Relive the Artemis 1 launch as the Orion spacecraft prepares to return &lpar;photos&rpar;](https://www.space.com/nasa-artemis-1-launch-relive-photos)
 - [Is ChatGPT a ‘virus that has been released into the wild’?](https://techcrunch.com/2022/12/09/is-chatgpt-a-virus-that-has-been-released-into-the-wild/)
 - [Daily Crunch: Grocery delivery app Getir bags rival Gorillas in a $1.2B acquisition](https://techcrunch.com/2022/12/09/daily-crunch-grocery-delivery-app-getir-bags-rival-gorillas-in-a-1-2b-acquisition/)
 - [James Webb Space Telescope peers into the &#39;ghostly light&#39; of interstellar space](https://www.space.com/james-webb-space-telescope-ghostly-light-between-galaxies)
-- [Rocket Lab now aims to launch 1st Electron booster from US soil on Dec. 13](https://www.space.com/rocket-lab-first-us-electron-launch-december-2022)
-- [Musk’s ‘Twitter Files’ offer a glimpse of the raw, complicated and thankless task of moderation](https://techcrunch.com/2022/12/09/musks-twitter-files-offer-a-glimpse-of-the-raw-complicated-and-thankless-task-of-moderation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
