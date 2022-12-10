@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hybrid pricing can help app developers better monetize their apps](https://techcrunch.com/2022/12/10/hybrid-pricing-can-help-app-developers-better-monetize-their-apps/)
 - [With Kite’s demise, can generative AI for code succeed?](https://techcrunch.com/2022/12/10/with-kites-demise-can-generative-ai-for-code-succeed/)
 - [Here’s how Audi Q4 50 E-Tron stacks up against the Tesla Model Y](https://techcrunch.com/2022/12/10/audi-e-tron-q4-50-vs-tesla-model-y-review-category-comparison/)
 - [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates)
 - [What time does the Artemis 1 Orion spacecraft splash down on Dec. 11 to end NASA&#39;s moon mission?](https://www.space.com/artemis-1-orion-spacecraft-splashdown-what-time)
-- [&#39;Star Trek: Discovery&#39; Season 4 warps onto home video and is 24% off for the holidays](https://www.space.com/star-trek-discovery-season-4-blu-ray-deal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
