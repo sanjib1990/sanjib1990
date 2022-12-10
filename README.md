@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Orion&#39;s &#39;Easter eggs&#39; revealed: NASA flew secret messages to the moon on Artemis 1](https://www.space.com/artemis-1-orion-easter-eggs-revealed)
 - [This Week in Apps: Apple App Store’s new pricing, Twitter app makers shift to Mastodon, debate over Lensa AI](https://techcrunch.com/2022/12/10/this-week-in-apps-apple-app-stores-new-pricing-twitter-app-makers-shift-to-mastodon-debate-over-lensa-ai/)
 - [Edtech’s brightest are struggling to pass](https://techcrunch.com/2022/12/10/some-of-edtech-boldest-are-struggling/)
 - [Hybrid pricing can help app developers better monetize their apps](https://techcrunch.com/2022/12/10/hybrid-pricing-can-help-app-developers-better-monetize-their-apps/)
 - [With Kite’s demise, can generative AI for code succeed?](https://techcrunch.com/2022/12/10/with-kites-demise-can-generative-ai-for-code-succeed/)
-- [Here’s how Audi Q4 50 E-Tron stacks up against the Tesla Model Y](https://techcrunch.com/2022/12/10/audi-e-tron-q4-50-vs-tesla-model-y-review-category-comparison/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
