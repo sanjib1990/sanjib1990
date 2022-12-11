@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See the Geminid meteor shower light up the night sky this week on Dec. 14](https://www.space.com/geminid-meteor-shower-peaks-this-week-dec-2022)
 - [NASA&#39;s adventurous Parker Solar Probe spacecraft zips past the sun again today](https://www.space.com/parker-solar-probe-sun-flyby-perihelion-14)
 - [Watch NASA&#39;s Artemis 1 Orion spacecraft return to Earth on Sunday](https://www.space.com/nasa-artemis-1-orion-return-earth-preview)
 - [SpaceX launches Japanese lander, UAE rover to the moon](https://www.space.com/spacex-launches-japanese-moon-lander-uae-rover)
 - [SpaceX will launch Japanese moon lander, UAE rover early Sunday. Here&#39;s how to watch.](https://www.space.com/spacex-ispace-moon-lander-uae-rover-webcast)
-- [Another week of layoffs, executive departures and AI-generated everything](https://techcrunch.com/2022/12/10/another-week-of-layoffs-executive-departures-and-ai-generated-everything/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
