@@ -94,8 +94,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [VP Kamala Harris hails NASA Artemis 1 Orion spacecraft&#39;s splashdown success](https://www.space.com/nasa-artemis-1-orion-splashdown-white-house-celebrates)
 - [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates)
+- [VP Kamala Harris hails NASA Artemis 1 Orion spacecraft&#39;s splashdown success](https://www.space.com/nasa-artemis-1-orion-splashdown-white-house-celebrates)
 - [The one slide 99% of founders get wrong when fundraising](https://techcrunch.com/2022/12/11/the-ask/)
 - [Behold! This is the last view of Earth from space from NASA&#39;s Artemis 1 Orion &lpar;video&rpar;](https://www.space.com/nasa-artemis-1-orion-earth-last-view)
 - [The 10 greatest images from NASA&#39;s Artemis 1 moon mission](https://www.space.com/10-greatest-images-nasa-artemis-1-moon-mission)
