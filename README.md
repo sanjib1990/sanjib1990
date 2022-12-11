@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [There are a lot of reasons to be excited about Canada’s venture market](https://techcrunch.com/2022/12/11/there-are-a-lot-of-reasons-to-be-excited-about-canadas-venture-market/)
-- [Avarni is building a comprehensive dataset to analyze supply chain emissions](https://techcrunch.com/2022/12/11/avarni/)
-- [Watch live as NASA recovers the Artemis 1 Orion spacecraft after smooth splashdown today](https://www.space.com/nasa-artemis-1-orion-return-earth-preview)
+- [The one slide 99% of founders get wrong when fundraising](https://techcrunch.com/2022/12/11/the-ask/)
+- [Behold! This is the last view of Earth from space from NASA&#39;s Artemis 1 Orion &lpar;video&rpar;](https://www.space.com/nasa-artemis-1-orion-earth-last-view)
 - [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates)
-- [Splashdown! NASA&#39;s Artemis 1 Orion capsule lands in Pacific to end epic moon mission](https://www.space.com/artemis-1-orion-splashdown-moon-mission-success)
+- [The 10 greatest images from NASA&#39;s Artemis 1 moon mission](https://www.space.com/10-greatest-images-nasa-artemis-1-moon-mission)
+- [There are a lot of reasons to be excited about Canada’s venture market](https://techcrunch.com/2022/12/11/there-are-a-lot-of-reasons-to-be-excited-about-canadas-venture-market/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
