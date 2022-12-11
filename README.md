@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Who owns the moon?](https://www.space.com/who-owns-the-moon)
 - [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates)
+- [Watch NASA&#39;s Artemis 1 Orion spacecraft return to Earth for free online today](https://www.space.com/nasa-artemis-1-orion-return-earth-preview)
+- [Fintech giants face uphill battle](https://techcrunch.com/2022/12/11/fintech-interchange-startups/)
+- [Who owns the moon?](https://www.space.com/who-owns-the-moon)
 - [5 lessons we’ve learned from building a venture fund from scratch](https://techcrunch.com/2022/12/11/5-lessons-weve-learned-from-building-a-venture-fund-from-scratch/)
-- [See the Geminid meteor shower light up the night sky this week on Dec. 14](https://www.space.com/geminid-meteor-shower-peaks-this-week-dec-2022)
-- [NASA&#39;s adventurous Parker Solar Probe spacecraft zips past the sun again today](https://www.space.com/parker-solar-probe-sun-flyby-perihelion-14)
 <!-- BLOG-POST-LIST:END -->
 
 ---
