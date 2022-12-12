@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nigerian startup Taeillo raises funding to scale its online furniture e-commerce platform](https://techcrunch.com/2022/12/12/nigerian-startup-taeillo-raises-funding-to-scale-its-online-furniture-e-commerce-platform/)
 - [Robco links up with $14M led by Sequoia to bring modular robotics to industrial SMBs](https://techcrunch.com/2022/12/11/robco-links-up-with-14m-led-by-sequoia-to-bring-modular-robotics-to-industrial-smbs/)
 - [Uber sues NYC Taxi &amp; Limo Commission to block rate increase for drivers](https://techcrunch.com/2022/12/11/uber-sues-nyc-taxi-limo-commission-to-block-rate-increase-for-drivers/)
 - [NASA is over the moon with success of Artemis 1 Orion test flight](https://www.space.com/nasa-celebrates-artemis-1-orion-success)
 - [Twitter Blue to relaunch with actual verification process, higher price for Apple users](https://techcrunch.com/2022/12/11/twitter-blue-to-relaunch-with-actual-verification-process-higher-price-for-apple-users/)
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
