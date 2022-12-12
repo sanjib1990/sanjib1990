@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Thoma Bravo snags Coupa for $8B despite activist pressure to hold off for higher price](https://techcrunch.com/2022/12/12/thoma-bravo-snags-coupa-for-8b-despite-activist-pressure-to-hold-off-for-higher-price/)
+- [NASA may unlock future James Webb Space Telescope data](https://www.space.com/james-webb-space-telescope-exclusive-data-controversy)
+- [Nillion raises over $20 million to build new web3 infrastructure](https://techcrunch.com/2022/12/12/nillion-raises-over-20-million-to-build-new-web3-infrastructure/)
 - [On This Day In Space: Dec. 12, 1967: Pioneer 8 launches on mission to study the sun](https://www.space.com/39251-on-this-day-in-space.html)
 - [Playtika lays off 610 workers, shuts down three online gaming titles amid broader restructure](https://techcrunch.com/2022/12/12/playtika-lays-off-610-workers-shuts-down-three-online-gaming-titles-amid-broader-restructure/)
-- [After Artemis 1, it will take NASA 2 years to send astronauts to the moon. Why so long?](https://www.space.com/nasa-artemis-2-mission-2024-why-so-long)
-- [&#39;Vanishing stars&#39; citizen-science project opens the skies to the public](https://www.space.com/vasco-vanishing-stars-citizen-science-project)
-- [Microsoft to acquire 4% stake in London Stock Exchange Group as part of 10-year cloud partnership](https://techcrunch.com/2022/12/12/microsoft-acquires-4-stake-in-london-stock-exchange-group-as-part-of-10-year-deal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
