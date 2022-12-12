@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Uber sues NYC Taxi &amp; Limo Commission to block rate increase for drivers](https://techcrunch.com/2022/12/11/uber-sues-nyc-taxi-limo-commission-to-block-rate-increase-for-drivers/)
 - [NASA is over the moon with success of Artemis 1 Orion test flight](https://www.space.com/nasa-celebrates-artemis-1-orion-success)
 - [Twitter Blue to relaunch with actual verification process, higher price for Apple users](https://techcrunch.com/2022/12/11/twitter-blue-to-relaunch-with-actual-verification-process-higher-price-for-apple-users/)
 - [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates)
 - [VP Kamala Harris hails NASA Artemis 1 Orion spacecraft&#39;s splashdown success](https://www.space.com/nasa-artemis-1-orion-splashdown-white-house-celebrates)
-- [The one slide 99% of founders get wrong when fundraising](https://techcrunch.com/2022/12/11/the-ask/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
