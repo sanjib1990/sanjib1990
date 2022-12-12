@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [HR platform Sequoia says hackers accessed customer SSNs and COVID-19 data](https://techcrunch.com/2022/12/12/sequoia-human-resources-hackers/)
+- [Pesky &#39;leap second&#39; will be abolished by 2035](https://www.space.com/goodbye-leap-second-2035)
+- [Fortnite and MrBeast will give away $1 million in a pop-up game challenge](https://techcrunch.com/2022/12/12/mrbeast-fortnite-will-give-away-1-million-in-a-pop-up-game-challenge/)
 - [HBO/HBO Max and Netflix are top streamers among Golden Globe nominees](https://techcrunch.com/2022/12/12/hbo-hbo-max-and-netflix-are-top-streamers-among-golden-globe-nominees/)
 - [Elusive intergalactic light from orphaned stars studied for 1st time](https://www.space.com/orphan-stars-intergroup-glow-between-galaxies)
-- [Sydney-based Pathzero helps investors track their portfolios’ carbon emissions](https://techcrunch.com/2022/12/12/pathzero/)
-- [Breakthrough fusion power announcement expected tomorrow. Here’s what it means](https://techcrunch.com/2022/12/12/breakthrough-fusion-power-announcement-expected-tomorrow-heres-what-it-means/)
-- [Twitter launches Blue for Business, grants gold checkmarks to ‘corporate entities’](https://techcrunch.com/2022/12/12/twitter-launches-blue-for-business-grants-gold-checkmarks-to-corporate-entities/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
