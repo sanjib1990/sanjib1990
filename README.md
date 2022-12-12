@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Arduino in 100 Seconds](https://www.youtube.com/watch?v=1ENiVwk8idM)
 - [Guest lecture &lpar;2022&rpar;: Unmaking and remaking community &lpar;part 2&rpar;](https://www.youtube.com/watch?v=A1vOpAxkuZ4)
 - [Guest lecture &lpar;2022&rpar;: Unmaking and remaking community &lpar;part 1&rpar;](https://www.youtube.com/watch?v=qU8Wi_KHH1E)
 - [What will AI Programming look like in 5 Years?](https://www.youtube.com/watch?v=eaedq1Jl2fc)
 - [Verifying AI &#39;Black Boxes&#39; - Computerphile](https://www.youtube.com/watch?v=jzRrUPQgrpc)
-- [you need to monitor your stuff RIGHT NOW!! &lpar;free&rpar;](https://www.youtube.com/watch?v=DbF96IHOZig)
 <!-- YOUTUBE:END -->
 
 ---
