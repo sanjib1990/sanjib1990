@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Looking back from beyond the moon: How views from space have changed the way we see Earth](https://www.space.com/images-from-moon-space-change-earth-mindset)
-- [MessageGears, a cloud customer engagement platform, raises $62M](https://techcrunch.com/2022/12/12/messagegears-a-cloud-customer-engagement-platform-raises-62m/)
-- [Using the blockchain to enhance KYC processes for web3 businesses](https://techcrunch.com/2022/12/12/using-the-blockchain-to-enhance-kyc-processes-for-web3-businesses/)
-- [NASA green-lights asteroid-hunting space telescope for 2028 launch](https://www.space.com/neo-surveyor-asteroid-detection-mission-confirmed)
-- [How to implement a video SEO strategy](https://techcrunch.com/2022/12/12/how-to-implement-a-video-seo-strategy/)
+- [Jeff Bezos and GMA host Michael Strahan star in new Blue Origin kids’ space show](https://techcrunch.com/2022/12/12/jeff-bezos-kids-series-blue-origin-space-rangers/)
+- [Xnspy stalkerware spied on thousands of iPhones and Android devices](https://techcrunch.com/2022/12/12/xnspy-stalkerware-iphone-android/)
+- [Private equity could be gearing up to shop for vulnerable tech companies](https://techcrunch.com/2022/12/12/how-many-tech-companies-can-private-equity-snap-up-while-valuations-are-in-the-gutter/)
+- [Vinfast takes the IPO path, TuSimple and Navistar break up and Rad Power Bikes makes its most important product yet](https://techcrunch.com/2022/12/12/vinfast-takes-the-ipo-path-tusimple-and-navistar-break-up-and-rad-power-bikes-makes-its-most-important-product-yet/)
+- [Twitter begins rolling out its Community Notes feature globally](https://techcrunch.com/2022/12/12/twitter-begins-rolling-out-its-community-notes-feature-globally/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
