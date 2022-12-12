@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Looking back from beyond the moon: How views from space have changed the way we see Earth](https://www.space.com/images-from-moon-space-change-earth-mindset)
+- [MessageGears, a cloud customer engagement platform, raises $62M](https://techcrunch.com/2022/12/12/messagegears-a-cloud-customer-engagement-platform-raises-62m/)
+- [Using the blockchain to enhance KYC processes for web3 businesses](https://techcrunch.com/2022/12/12/using-the-blockchain-to-enhance-kyc-processes-for-web3-businesses/)
+- [NASA green-lights asteroid-hunting space telescope for 2028 launch](https://www.space.com/neo-surveyor-asteroid-detection-mission-confirmed)
 - [How to implement a video SEO strategy](https://techcrunch.com/2022/12/12/how-to-implement-a-video-seo-strategy/)
-- [Thoma Bravo snags Coupa for $8B despite activist pressure to hold off for higher price](https://techcrunch.com/2022/12/12/thoma-bravo-snags-coupa-for-8b-despite-activist-pressure-to-hold-off-for-higher-price/)
-- [NASA may unlock future James Webb Space Telescope data](https://www.space.com/james-webb-space-telescope-exclusive-data-controversy)
-- [Nillion raises over $20 million to build new web3 infrastructure](https://techcrunch.com/2022/12/12/nillion-raises-over-20-million-to-build-new-web3-infrastructure/)
-- [On This Day In Space: Dec. 12, 1967: Pioneer 8 launches on mission to study the sun](https://www.space.com/39251-on-this-day-in-space.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
