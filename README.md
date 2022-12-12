@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [HBO/HBO Max and Netflix are top streamers among Golden Globe nominees](https://techcrunch.com/2022/12/12/hbo-hbo-max-and-netflix-are-top-streamers-among-golden-globe-nominees/)
+- [Elusive intergalactic light from orphaned stars studied for 1st time](https://www.space.com/orphan-stars-intergroup-glow-between-galaxies)
+- [Sydney-based Pathzero helps investors track their portfolios’ carbon emissions](https://techcrunch.com/2022/12/12/pathzero/)
+- [Breakthrough fusion power announcement expected tomorrow. Here’s what it means](https://techcrunch.com/2022/12/12/breakthrough-fusion-power-announcement-expected-tomorrow-heres-what-it-means/)
 - [Twitter launches Blue for Business, grants gold checkmarks to ‘corporate entities’](https://techcrunch.com/2022/12/12/twitter-launches-blue-for-business-grants-gold-checkmarks-to-corporate-entities/)
-- [NASA confident in SpaceX after raucous Twitter takeover by Elon Musk: report](https://www.space.com/nasa-confident-spacex-elon-musk-twitter-takeover)
-- [How much money should you raise for your startup?](https://techcrunch.com/2022/12/12/how-much-to-raise/)
-- [Twitter will require phone number verification to purchase a Twitter Blue subscription](https://techcrunch.com/2022/12/12/twitter-will-require-phone-number-verification-to-purchase-a-twitter-blue-subscription/)
-- [Save $61.95 on this Celestron 70AZ telescope kit this holiday](https://www.space.com/celestron-astromaster-festive-deal-save-over-60-dollars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
