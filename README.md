@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Playtika lays off 610 workers, shuts down three online gaming titles amid broader restructure](https://techcrunch.com/2022/12/12/playtika-lays-off-610-workers-shuts-down-three-online-gaming-titles-amid-broader-restructure/)
+- [After Artemis 1, it will take NASA 2 years to send astronauts to the moon. Why so long?](https://www.space.com/nasa-artemis-2-mission-2024-why-so-long)
+- [&#39;Vanishing stars&#39; citizen-science project opens the skies to the public](https://www.space.com/vasco-vanishing-stars-citizen-science-project)
 - [Microsoft to acquire 4% stake in London Stock Exchange Group as part of 10-year cloud partnership](https://techcrunch.com/2022/12/12/microsoft-acquires-4-stake-in-london-stock-exchange-group-as-part-of-10-year-deal/)
 - [Nigerian startup Taeillo raises funding to scale its online furniture e-commerce platform](https://techcrunch.com/2022/12/12/nigerian-startup-taeillo-raises-funding-to-scale-its-online-furniture-e-commerce-platform/)
-- [Robco links up with $14M led by Sequoia to bring modular robotics to industrial SMBs](https://techcrunch.com/2022/12/11/robco-links-up-with-14m-led-by-sequoia-to-bring-modular-robotics-to-industrial-smbs/)
-- [Uber sues NYC Taxi &amp; Limo Commission to block rate increase for drivers](https://techcrunch.com/2022/12/11/uber-sues-nyc-taxi-limo-commission-to-block-rate-increase-for-drivers/)
-- [NASA is over the moon with success of Artemis 1 Orion test flight](https://www.space.com/nasa-celebrates-artemis-1-orion-success)
 <!-- BLOG-POST-LIST:END -->
 
 ---
