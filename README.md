@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Thoma Bravo buys Coupa Software for $8B, but will that price satisfy shareholders?](https://techcrunch.com/2022/12/12/daily-crunch-thoma-bravo-buys-coupa-software-for-8b-but-will-that-price-satisfy-shareholders/)
+- [Max Q: That’s a wrap](https://techcrunch.com/2022/12/12/max-q-thats-a-wrap/)
+- [Snyk scores another $196M as valuation drops 12% to $7.4B](https://techcrunch.com/2022/12/12/snyk-scores-another-196m-as-valuation-drops-12-to-7-4b-valuation/)
+- [US Air Force launches 1st operational hypersonic missile](https://www.space.com/us-air-force-launches-first-hypersonic-missile)
 - [Meta unplugs Connectivity division, home of satellite and drone internet experiments](https://techcrunch.com/2022/12/12/meta-unplugs-connectivity-division-home-of-satellite-and-drone-internet-experiments/)
-- [Supernova algorithm classifies 1,000 dying stars without error](https://www.space.com/supernovas-classified-machine-learning-zwicky-transient-facility)
-- [All signs point to IT spending rising in 2023](https://techcrunch.com/2022/12/12/all-signs-point-to-it-spending-rising-in-2023/)
-- [AI art apps are cluttering the App Store’s Top Charts following Lensa AI’s success](https://techcrunch.com/2022/12/12/ai-art-apps-are-cluttering-the-app-stores-top-charts-following-lensa-ais-success/)
-- [HR platform Sequoia says hackers accessed customer SSNs and COVID-19 data](https://techcrunch.com/2022/12/12/sequoia-human-resources-hackers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
