@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s TV coverage of Artemis I recovery included &#39;hat tip&#39; to Apollo](https://www.space.com/artemis-1-recovery-ship-caps-golf-wang)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [SBF scheduled to testify tomorrow at US House hearing on FTX collapse](https://techcrunch.com/2022/12/12/sbf-scheduled-to-testify-tomorrow-at-us-house-hearing-on-ftx-collapse/)
-- [Rivian and Mercedes ‘pause’ plans to produce electric commercial van](https://techcrunch.com/2022/12/12/rivian-and-mercedes-pause-plans-to-produce-electric-commercial-van/)
-- [The Large Hadron Collider reveals how far antimatter can travel through the Milky Way](https://www.space.com/lhc-alice-antimatter-milky-way-transparency)
+- [Twitter launches Blue for Business, grants gold checkmarks to ‘corporate entities’](https://techcrunch.com/2022/12/12/twitter-launches-blue-for-business-grants-gold-checkmarks-to-corporate-entities/)
+- [NASA confident in SpaceX after raucous Twitter takeover by Elon Musk: report](https://www.space.com/nasa-confident-spacex-elon-musk-twitter-takeover)
+- [How much money should you raise for your startup?](https://techcrunch.com/2022/12/12/how-much-to-raise/)
+- [Twitter will require phone number verification to purchase a Twitter Blue subscription](https://techcrunch.com/2022/12/12/twitter-will-require-phone-number-verification-to-purchase-a-twitter-blue-subscription/)
+- [Save $61.95 on this Celestron 70AZ telescope kit this holiday](https://www.space.com/celestron-astromaster-festive-deal-save-over-60-dollars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
