@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta unplugs Connectivity division, home of satellite and drone internet experiments](https://techcrunch.com/2022/12/12/meta-unplugs-connectivity-division-home-of-satellite-and-drone-internet-experiments/)
+- [Supernova algorithm classifies 1,000 dying stars without error](https://www.space.com/supernovas-classified-machine-learning-zwicky-transient-facility)
+- [All signs point to IT spending rising in 2023](https://techcrunch.com/2022/12/12/all-signs-point-to-it-spending-rising-in-2023/)
+- [AI art apps are cluttering the App Store’s Top Charts following Lensa AI’s success](https://techcrunch.com/2022/12/12/ai-art-apps-are-cluttering-the-app-stores-top-charts-following-lensa-ais-success/)
 - [HR platform Sequoia says hackers accessed customer SSNs and COVID-19 data](https://techcrunch.com/2022/12/12/sequoia-human-resources-hackers/)
-- [Pesky &#39;leap second&#39; will be abolished by 2035](https://www.space.com/goodbye-leap-second-2035)
-- [Fortnite and MrBeast will give away $1 million in a pop-up game challenge](https://techcrunch.com/2022/12/12/mrbeast-fortnite-will-give-away-1-million-in-a-pop-up-game-challenge/)
-- [HBO/HBO Max and Netflix are top streamers among Golden Globe nominees](https://techcrunch.com/2022/12/12/hbo-hbo-max-and-netflix-are-top-streamers-among-golden-globe-nominees/)
-- [Elusive intergalactic light from orphaned stars studied for 1st time](https://www.space.com/orphan-stars-intergroup-glow-between-galaxies)
 <!-- BLOG-POST-LIST:END -->
 
 ---
