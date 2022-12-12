@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft to acquire 4% stake in London Stock Exchange Group as part of 10-year cloud partnership](https://techcrunch.com/2022/12/12/microsoft-acquires-4-stake-in-london-stock-exchange-group-as-part-of-10-year-deal/)
 - [Nigerian startup Taeillo raises funding to scale its online furniture e-commerce platform](https://techcrunch.com/2022/12/12/nigerian-startup-taeillo-raises-funding-to-scale-its-online-furniture-e-commerce-platform/)
 - [Robco links up with $14M led by Sequoia to bring modular robotics to industrial SMBs](https://techcrunch.com/2022/12/11/robco-links-up-with-14m-led-by-sequoia-to-bring-modular-robotics-to-industrial-smbs/)
 - [Uber sues NYC Taxi &amp; Limo Commission to block rate increase for drivers](https://techcrunch.com/2022/12/11/uber-sues-nyc-taxi-limo-commission-to-block-rate-increase-for-drivers/)
 - [NASA is over the moon with success of Artemis 1 Orion test flight](https://www.space.com/nasa-celebrates-artemis-1-orion-success)
-- [Twitter Blue to relaunch with actual verification process, higher price for Apple users](https://techcrunch.com/2022/12/11/twitter-blue-to-relaunch-with-actual-verification-process-higher-price-for-apple-users/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
