@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Bezos and GMA host Michael Strahan star in new Blue Origin kids’ space show](https://techcrunch.com/2022/12/12/jeff-bezos-kids-series-blue-origin-space-rangers/)
-- [Xnspy stalkerware spied on thousands of iPhones and Android devices](https://techcrunch.com/2022/12/12/xnspy-stalkerware-iphone-android/)
-- [Private equity could be gearing up to shop for vulnerable tech companies](https://techcrunch.com/2022/12/12/how-many-tech-companies-can-private-equity-snap-up-while-valuations-are-in-the-gutter/)
-- [Vinfast takes the IPO path, TuSimple and Navistar break up and Rad Power Bikes makes its most important product yet](https://techcrunch.com/2022/12/12/vinfast-takes-the-ipo-path-tusimple-and-navistar-break-up-and-rad-power-bikes-makes-its-most-important-product-yet/)
-- [Twitter begins rolling out its Community Notes feature globally](https://techcrunch.com/2022/12/12/twitter-begins-rolling-out-its-community-notes-feature-globally/)
+- [NASA&#39;s TV coverage of Artemis I recovery included &#39;hat tip&#39; to Apollo](https://www.space.com/artemis-1-recovery-ship-caps-golf-wang)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [SBF scheduled to testify tomorrow at US House hearing on FTX collapse](https://techcrunch.com/2022/12/12/sbf-scheduled-to-testify-tomorrow-at-us-house-hearing-on-ftx-collapse/)
+- [Rivian and Mercedes ‘pause’ plans to produce electric commercial van](https://techcrunch.com/2022/12/12/rivian-and-mercedes-pause-plans-to-produce-electric-commercial-van/)
+- [The Large Hadron Collider reveals how far antimatter can travel through the Milky Way](https://www.space.com/lhc-alice-antimatter-milky-way-transparency)
 <!-- BLOG-POST-LIST:END -->
 
 ---
