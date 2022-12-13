@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Netflix rolls out two more mobile games, will release a ‘Vikings: Valhalla’ game next year](https://techcrunch.com/2022/12/13/netflix-mobile-games-release-vikings-valhalla-game-next-year/)
-- [OK, now. Now we’re going to see more startups acquire other startups](https://techcrunch.com/2022/12/13/ok-now-now-were-going-to-see-more-startups-acquire-other-startups/)
-- [Uber’s food delivery platform agrees to pay severance to couriers let go ahead of Spain’s Riders Law](https://techcrunch.com/2022/12/13/uber-spain-food-delivery-severance-settlement/)
-- [Here are the top features of Apple’s iOS 16.2 update](https://techcrunch.com/2022/12/13/here-are-the-top-features-of-apples-ios-16-2-update/)
-- [Why Checkout‏‎.com lowered its internal valuation](https://techcrunch.com/2022/12/13/why-checkoutcom-lowered-its-internal-valuation/)
+- [SpaceX launched Qatar World Cup match balls on Falcon 9 first stage](https://www.space.com/spacex-falcon-flies-world-cup-balls)
+- [Private Japanese moon lander snaps 1st photos in deep space](https://www.space.com/japanese-moon-lander-hakuto-r-first-photos)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [Mirosław Hermaszewski, first Pole to fly into space, dies at 81](https://www.space.com/miroslaw-hermaszewski-polish-cosmonaut-obituary)
+- [Netflix rolls out two more mobile games, will release a Vikings: Valhalla game next year](https://techcrunch.com/2022/12/13/netflix-mobile-games-release-vikings-valhalla-game-next-year/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
