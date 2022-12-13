@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s Mars Perseverance rover records 1st-ever audio of Red Planet dust devil](https://www.space.com/perseverance-mars-dust-devil-audio-recording)
+- [India’s Paytm to buy back shares](https://techcrunch.com/2022/12/13/indias-paytm-to-buy-back-shares/)
+- [Ah, so SBF’s FTX was all BS](https://techcrunch.com/2022/12/13/ah-so-sbfs-ftx-was-all-bs/)
+- [The Geminid meteor shower peaks tonight. Here&#39;s how to see it](https://www.space.com/geminid-meteor-shower-peaks-tonight-dec-14-2022)
 - [EU confirms draft decision on replacement US data transfer pact](https://techcrunch.com/2022/12/13/eu-us-data-privacy-framework-draft-decision/)
-- [Arianespace targets triple satellite launch today](https://www.space.com/arianespace-ariane-5-mtg-1-launch)
-- [Common Fate wants to make it easier to manage privileged access for developers](https://techcrunch.com/2022/12/13/common-fate-wants-to-make-it-easier-to-provide-privileged-access-for-developers/)
-- [Amateur astronomers challenged to spot an asteroid for Christmas](https://www.space.com/amateur-astronomers-spot-christmas-asteroid)
-- [Foundamental closes $85M fund for early-stage construction tech startups](https://techcrunch.com/2022/12/13/foundamental-closes-85m-fund-for-early-stage-construction-tech-startups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
