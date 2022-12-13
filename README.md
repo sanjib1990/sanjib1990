@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Boom! Watch an inflatable space station module explode on video](https://www.space.com/sierra-space-life-habitat-explosion-test)
+- [Swoop Aero’s drones hit a million items delivered as the company raises for expansion](https://techcrunch.com/2022/12/13/swoop-aeros-drones-hit-a-million-items-delivered-as-the-company-raises-for-expansion/)
+- [Apple’s iPhone 14 Emergency SOS via satellite feature is now live in France, Germany, Ireland and the UK](https://techcrunch.com/2022/12/13/apples-iphone-14-emergency-sos-via-satellite-feature-france-germany-ireland-uk/)
 - [NASA&#39;s Mars Perseverance rover records 1st-ever audio of Red Planet dust devil](https://www.space.com/perseverance-mars-dust-devil-audio-recording)
 - [India’s Paytm to buy back shares](https://techcrunch.com/2022/12/13/indias-paytm-to-buy-back-shares/)
-- [Ah, so SBF’s FTX was all BS](https://techcrunch.com/2022/12/13/ah-so-sbfs-ftx-was-all-bs/)
-- [The Geminid meteor shower peaks tonight. Here&#39;s how to see it](https://www.space.com/geminid-meteor-shower-peaks-tonight-dec-14-2022)
-- [EU confirms draft decision on replacement US data transfer pact](https://techcrunch.com/2022/12/13/eu-us-data-privacy-framework-draft-decision/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
