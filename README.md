@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Boom! Watch an inflatable space station module explode on video](https://www.space.com/sierra-space-life-habitat-explosion-test)
-- [Swoop Aero’s drones hit a million items delivered as the company raises for expansion](https://techcrunch.com/2022/12/13/swoop-aeros-drones-hit-a-million-items-delivered-as-the-company-raises-for-expansion/)
-- [Apple’s iPhone 14 Emergency SOS via satellite feature is now live in France, Germany, Ireland and the UK](https://techcrunch.com/2022/12/13/apples-iphone-14-emergency-sos-via-satellite-feature-france-germany-ireland-uk/)
-- [NASA&#39;s Mars Perseverance rover records 1st-ever audio of Red Planet dust devil](https://www.space.com/perseverance-mars-dust-devil-audio-recording)
-- [India’s Paytm to buy back shares](https://techcrunch.com/2022/12/13/indias-paytm-to-buy-back-shares/)
+- [Here are the top features of Apple’s iOS 16.2 update](https://techcrunch.com/2022/12/13/here-are-the-top-features-of-apples-ios-16-2-update/)
+- [Why Checkout‏‎.com lowered its internal valuation](https://techcrunch.com/2022/12/13/why-checkoutcom-lowered-its-internal-valuation/)
+- [TechCrunch+ roundup: Summary slide showcase, video SEO strategy, how to value AI startups](https://techcrunch.com/2022/12/13/techcrunch-roundup-summary-slide-showcase-video-seo-strategy-how-to-value-ai-startups/)
+- [Close Encounters of the Third Kind Holds Up Forty-five Years Later](https://www.space.com/close-encounters-of-the-third-kind-still-holds-up)
+- [Major breakthrough in pursuit of nuclear fusion unveiled by US scientists](https://www.space.com/nuclear-fusion-breaktrough)
 <!-- BLOG-POST-LIST:END -->
 
 ---
