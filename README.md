@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Quantum Space picks up speed with $15M in funding for cislunar space vehicles](https://techcrunch.com/2022/12/13/quantum-space-picks-up-speed-with-15m-in-funding-for-cislunar-space-vehicles/)
-- [Trusting your gut microbiome with Cheryl Sew Hoy from Tiny Health](https://techcrunch.com/2022/12/13/trusting-your-gut-microbiome-with-cheryl-sew-hoy-from-tiny-health/)
-- [&#39;High on Life&#39; launches you into space with potty-mouth guns and interplanetary bounty hunting](https://www.space.com/high-on-life-space-game-bounty-hunting)
-- [US attorney says ‘we are not done’ charging individuals for FTX collapse](https://techcrunch.com/2022/12/13/us-attorney-says-we-are-not-done-charging-individuals-for-ftx-collapse/)
-- [Geely’s electric car brand Zeekr files US IPO confidentially](https://techcrunch.com/2022/12/13/geelys-electric-car-brand-zeekr-files-us-ipo-confidentially/)
+- [Daily Crunch: US law enforcement charges SBF with fraud as he awaits extradition after Bahamas arrest](https://techcrunch.com/2022/12/13/daily-crunch-us-law-enforcement-charges-sbf-with-fraud-as-he-awaits-extradition-after-bahamas-arrest/)
+- [Honda says VR is changing how it designs cars. You might not notice.](https://techcrunch.com/2022/12/13/virtual-reality-honda-changing-how-design-cars/)
+- [Ransomware gang caught using Microsoft-approved drivers to hack targets](https://techcrunch.com/2022/12/13/cuba-ransomware-microsoft-drivers/)
+- [Anti-LGBTQ slur takes off on Twitter after Elon Musk’s takeover](https://techcrunch.com/2022/12/13/anti-lgbtq-slur-takes-off-on-twitter-after-elon-musks-takeover/)
+- [NASA&#39;s Artemis 1 Orion spacecraft reaches port in San Diego](https://www.space.com/artemis-1-orion-capsule-reaches-port)
 <!-- BLOG-POST-LIST:END -->
 
 ---
