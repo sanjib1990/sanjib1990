@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Relive NASA&#39;s Artemis 1 moon mission with this epic highlight reel](https://www.space.com/nasa-artemis-1-moon-mission-highlights-reel)
+- [NASA&#39;s retired flying telescope heads to museum](https://www.space.com/nasa-sofia-flying-telescope-aircraft-retire-museum)
+- [Sana raises $34M for its AI-based knowledge management and learning platform for workplaces](https://techcrunch.com/2022/12/13/sana-raises-34m-for-its-ai-based-knowledge-management-and-learning-platform-for-workplaces/)
 - [TheyDo fires the starting gun on the race to own the customer journey](https://techcrunch.com/2022/12/13/theydo-fires-the-starting-gun-on-the-race-to-own-the-customer-journey/)
 - [Digip digitizes the process of applying for trademarks](https://techcrunch.com/2022/12/12/digip/)
-- [Beamery, the all-in-one talent management platform, becomes a unicorn](https://techcrunch.com/2022/12/12/beamery-the-all-in-one-talent-management-platform-becomes-a-unicorn/)
-- [Twitter disperses the Trust &amp; Safety Council after key members resigned](https://techcrunch.com/2022/12/12/twitter-disperses-the-trust-safety-council-after-key-members-resigned/)
-- [As China relaxes zero-COVID, tech firms assume a larger role in fighting the virus](https://techcrunch.com/2022/12/12/as-china-relaxes-zero-covid-tech-firms-assume-a-larger-role-in-fighting-the-virus/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
