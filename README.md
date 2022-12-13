@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Beamery, the all-in-one talent management platform, becomes a unicorn](https://techcrunch.com/2022/12/12/beamery-the-all-in-one-talent-management-platform-becomes-a-unicorn/)
+- [Twitter disperses the Trust &amp; Safety Council after key members resigned](https://techcrunch.com/2022/12/12/twitter-disperses-the-trust-safety-council-after-key-members-resigned/)
+- [As China relaxes zero-COVID, tech firms assume a larger role in fighting the virus](https://techcrunch.com/2022/12/12/as-china-relaxes-zero-covid-tech-firms-assume-a-larger-role-in-fighting-the-virus/)
 - [Ex-Rocket Lab engineer raises $21M for Partly to make buying car parts easier](https://techcrunch.com/2022/12/12/ex-rocket-lab-engineer-raises-21m-for-partly-to-make-buying-car-parts-easier/)
 - [FTX founder Sam Bankman-Fried has been arrested in the Bahamas](https://techcrunch.com/2022/12/12/ftx-founder-sam-bankman-fried-has-been-arrested-in-the-bahamas/)
-- [NASA’s Orion capsule returns to Earth as ispace’s lunar lander takes flight](https://techcrunch.com/2022/12/12/nasas-orion-capsule-returns-to-earth-as-ispaces-lunar-lander-takes-flight/)
-- [Elon says Twitter will remove all legacy verifications ‘in a few months’](https://techcrunch.com/2022/12/12/elon-says-twitter-will-remove-all-legacy-verifications-in-a-few-months/)
-- [Daily Crunch: Thoma Bravo buys Coupa Software for $8B, but will that price satisfy shareholders?](https://techcrunch.com/2022/12/12/daily-crunch-thoma-bravo-buys-coupa-software-for-8b-but-will-that-price-satisfy-shareholders/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
