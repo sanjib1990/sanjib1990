@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Quantum Space picks up speed with $15M in funding for cislunar space vehicles](https://techcrunch.com/2022/12/13/quantum-space-picks-up-speed-with-15m-in-funding-for-cislunar-space-vehicles/)
+- [Trusting your gut microbiome with Cheryl Sew Hoy from Tiny Health](https://techcrunch.com/2022/12/13/trusting-your-gut-microbiome-with-cheryl-sew-hoy-from-tiny-health/)
+- [&#39;High on Life&#39; launches you into space with potty-mouth guns and interplanetary bounty hunting](https://www.space.com/high-on-life-space-game-bounty-hunting)
+- [US attorney says ‘we are not done’ charging individuals for FTX collapse](https://techcrunch.com/2022/12/13/us-attorney-says-we-are-not-done-charging-individuals-for-ftx-collapse/)
 - [Geely’s electric car brand Zeekr files US IPO confidentially](https://techcrunch.com/2022/12/13/geelys-electric-car-brand-zeekr-files-us-ipo-confidentially/)
-- [Komodo Health, once tipped for a looming IPO, has cut staff as CFO departs](https://techcrunch.com/2022/12/13/komodo-health-once-tipped-for-a-looming-ipo-has-cut-staff-as-cfo-departs/)
-- [FTX’s new CEO, John Ray, details crypto exchange’s downfall in US House testimony](https://techcrunch.com/2022/12/13/ftxs-new-ceo-john-ray-details-crypto-exchanges-downfall-in-us-house-testimony/)
-- [TikTok inches further into YouTube’s territory with a new horizontal full screen mode](https://techcrunch.com/2022/12/13/tiktok-inches-further-youtubes-territory-horizontal-full-screen-mode/)
-- [Boom takes the wraps off its supersonic Symphony engine design](https://techcrunch.com/2022/12/13/boom-takes-the-wraps-off-its-supersonic-symphony-engine-design/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
