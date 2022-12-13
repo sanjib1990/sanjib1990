@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [EU confirms draft decision on replacement US data transfer pact](https://techcrunch.com/2022/12/13/eu-us-data-privacy-framework-draft-decision/)
+- [Arianespace targets triple satellite launch today](https://www.space.com/arianespace-ariane-5-mtg-1-launch)
+- [Common Fate wants to make it easier to manage privileged access for developers](https://techcrunch.com/2022/12/13/common-fate-wants-to-make-it-easier-to-provide-privileged-access-for-developers/)
+- [Amateur astronomers challenged to spot an asteroid for Christmas](https://www.space.com/amateur-astronomers-spot-christmas-asteroid)
 - [Foundamental closes $85M fund for early-stage construction tech startups](https://techcrunch.com/2022/12/13/foundamental-closes-85m-fund-for-early-stage-construction-tech-startups/)
-- [Poppi raises a can to fresh capital to support its functional beverage growth](https://techcrunch.com/2022/12/13/poppi-functional-beverage-25-m/)
-- [Magazine app Flipboard adds support for original content with new notes feature](https://techcrunch.com/2022/12/13/magazine-app-flipboard-adds-support-for-original-content-and-conversation-with-new-notes-feature/)
-- [Ngrok, a service to help devs deploy sites, services and apps, raises $50M](https://techcrunch.com/2022/12/13/ngrok-a-service-to-help-devs-deploy-sites-services-and-apps-raises-50m/)
-- [Amazon’s Echo Show adds more accessibility features, including ‘Gestures’ and text-to-speech](https://techcrunch.com/2022/12/13/amazons-echo-show-adds-more-accessibility-features-including-gestures-and-text-to-speech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
