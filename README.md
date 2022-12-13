@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX launched Qatar World Cup match balls on Falcon 9 first stage](https://www.space.com/spacex-falcon-flies-world-cup-balls)
-- [Private Japanese moon lander snaps 1st photos in deep space](https://www.space.com/japanese-moon-lander-hakuto-r-first-photos)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [Mirosław Hermaszewski, first Pole to fly into space, dies at 81](https://www.space.com/miroslaw-hermaszewski-polish-cosmonaut-obituary)
-- [Netflix rolls out two more mobile games, will release a Vikings: Valhalla game next year](https://techcrunch.com/2022/12/13/netflix-mobile-games-release-vikings-valhalla-game-next-year/)
+- [Geely’s electric car brand Zeekr files US IPO confidentially](https://techcrunch.com/2022/12/13/geelys-electric-car-brand-zeekr-files-us-ipo-confidentially/)
+- [Komodo Health, once tipped for a looming IPO, has cut staff as CFO departs](https://techcrunch.com/2022/12/13/komodo-health-once-tipped-for-a-looming-ipo-has-cut-staff-as-cfo-departs/)
+- [FTX’s new CEO, John Ray, details crypto exchange’s downfall in US House testimony](https://techcrunch.com/2022/12/13/ftxs-new-ceo-john-ray-details-crypto-exchanges-downfall-in-us-house-testimony/)
+- [TikTok inches further into YouTube’s territory with a new horizontal full screen mode](https://techcrunch.com/2022/12/13/tiktok-inches-further-youtubes-territory-horizontal-full-screen-mode/)
+- [Boom takes the wraps off its supersonic Symphony engine design](https://techcrunch.com/2022/12/13/boom-takes-the-wraps-off-its-supersonic-symphony-engine-design/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
