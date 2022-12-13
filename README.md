@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Digip digitizes the process of applying for trademarks](https://techcrunch.com/2022/12/12/digip/)
 - [Beamery, the all-in-one talent management platform, becomes a unicorn](https://techcrunch.com/2022/12/12/beamery-the-all-in-one-talent-management-platform-becomes-a-unicorn/)
 - [Twitter disperses the Trust &amp; Safety Council after key members resigned](https://techcrunch.com/2022/12/12/twitter-disperses-the-trust-safety-council-after-key-members-resigned/)
 - [As China relaxes zero-COVID, tech firms assume a larger role in fighting the virus](https://techcrunch.com/2022/12/12/as-china-relaxes-zero-covid-tech-firms-assume-a-larger-role-in-fighting-the-virus/)
 - [Ex-Rocket Lab engineer raises $21M for Partly to make buying car parts easier](https://techcrunch.com/2022/12/12/ex-rocket-lab-engineer-raises-21m-for-partly-to-make-buying-car-parts-easier/)
-- [FTX founder Sam Bankman-Fried has been arrested in the Bahamas](https://techcrunch.com/2022/12/12/ftx-founder-sam-bankman-fried-has-been-arrested-in-the-bahamas/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
