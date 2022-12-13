@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SEC, CFTC and SDNY attorney’s office charge FTX’s Sam Bankman-Fried with defrauding investors](https://techcrunch.com/2022/12/13/sec-cftc-and-sdny-attorneys-office-charge-ftxs-sam-bankman-fried-with-defrauding-investors/)
-- [Relive NASA&#39;s Artemis 1 moon mission with this epic highlight reel](https://www.space.com/nasa-artemis-1-moon-mission-highlights-reel)
-- [NASA&#39;s retired flying telescope heads to museum](https://www.space.com/nasa-sofia-flying-telescope-aircraft-retire-museum)
-- [Sana raises $34M for its AI-based knowledge management and learning platform for workplaces](https://techcrunch.com/2022/12/13/sana-raises-34m-for-its-ai-based-knowledge-management-and-learning-platform-for-workplaces/)
-- [TheyDo fires the starting gun on the race to own the customer journey](https://techcrunch.com/2022/12/13/theydo-fires-the-starting-gun-on-the-race-to-own-the-customer-journey/)
+- [Zappi raises $170M for its AI-based market research platform](https://techcrunch.com/2022/12/13/zappi-raises-170m-for-its-ai-based-market-research-platform/)
+- [&#39;Quantum time flip&#39; makes light move simultaneously forward and backward in time](https://www.space.com/quantum-time-flipped-photon-first-time)
+- [3 methods for valuing pre-revenue novel AI startups](https://techcrunch.com/2022/12/13/3-methods-for-valuing-pre-revenue-novel-ai-startups/)
+- [Pack delivers with headless commerce approach to faster online shopping](https://techcrunch.com/2022/12/13/pack-headless-commerce-online-shopping/)
+- [Microsoft to sunset Soundscape 3D audio app and open-source the code](https://techcrunch.com/2022/12/13/microsoft-sunsets-soundscape-3d-audio-app-but-will-open-source-the-code/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
