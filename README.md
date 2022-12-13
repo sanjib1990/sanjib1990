@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Zappi raises $170M for its AI-based market research platform](https://techcrunch.com/2022/12/13/zappi-raises-170m-for-its-ai-based-market-research-platform/)
-- [&#39;Quantum time flip&#39; makes light move simultaneously forward and backward in time](https://www.space.com/quantum-time-flipped-photon-first-time)
-- [3 methods for valuing pre-revenue novel AI startups](https://techcrunch.com/2022/12/13/3-methods-for-valuing-pre-revenue-novel-ai-startups/)
-- [Pack delivers with headless commerce approach to faster online shopping](https://techcrunch.com/2022/12/13/pack-headless-commerce-online-shopping/)
-- [Microsoft to sunset Soundscape 3D audio app and open-source the code](https://techcrunch.com/2022/12/13/microsoft-sunsets-soundscape-3d-audio-app-but-will-open-source-the-code/)
+- [Foundamental closes $85M fund for early-stage construction tech startups](https://techcrunch.com/2022/12/13/foundamental-closes-85m-fund-for-early-stage-construction-tech-startups/)
+- [Poppi raises a can to fresh capital to support its functional beverage growth](https://techcrunch.com/2022/12/13/poppi-functional-beverage-25-m/)
+- [Magazine app Flipboard adds support for original content with new notes feature](https://techcrunch.com/2022/12/13/magazine-app-flipboard-adds-support-for-original-content-and-conversation-with-new-notes-feature/)
+- [Ngrok, a service to help devs deploy sites, services and apps, raises $50M](https://techcrunch.com/2022/12/13/ngrok-a-service-to-help-devs-deploy-sites-services-and-apps-raises-50m/)
+- [Amazon’s Echo Show adds more accessibility features, including ‘Gestures’ and text-to-speech](https://techcrunch.com/2022/12/13/amazons-echo-show-adds-more-accessibility-features-including-gestures-and-text-to-speech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
