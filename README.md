@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The impact of hype with Clubhouse’s Paul Davison](https://techcrunch.com/2022/12/14/the-impact-of-hype-with-clubhouses-paul-davison/)
-- [OSIRIS-REx asteroid samples will land on Earth in 2023 and scientists can&#39;t wait](https://www.space.com/osiris-rex-asteroid-sample-delivery-preview)
-- [Guidewheel lands $9M Series A-1 for SaaS that boosts manufacturing and trims carbon emissions](https://techcrunch.com/2022/12/14/guidewheel-lands-9m-series-a-1-for-saas-that-boosts-manufacturing-and-trims-carbon-emissions/)
-- [In a turbulent market, it’s time to get methodical about sales](https://techcrunch.com/2022/12/14/in-a-turbulent-market-its-time-to-get-methodical-about-sales/)
-- [Reports of Musk forcing tracking ads on Twitter put him on a costly collision course with EU privacy laws](https://techcrunch.com/2022/12/14/elon-musk-twitter-forced-ads-europe/)
+- [Tesla’s latest OTA update adds Steam games, Apple Music, Zoom and a wild light show mode](https://techcrunch.com/2022/12/14/teslas-latest-ota-update-adds-steam-games-apple-music-zoom-and-a-wild-light-show-mode/)
+- [Spotify is ending production of several of its live audio shows](https://techcrunch.com/2022/12/14/spotify-is-ending-production-of-several-of-its-live-audio-shows/)
+- [Webb Glimpses Field of Extragalactic PEARLS, Studded With Galactic Diamonds](https://blogs.nasa.gov/webb/2022/12/14/webb-glimpses-field-of-extragalactic-pearls-studded-with-galactic-diamonds/)
+- [NASA&#39;s new SWOT satellite to study Earth&#39;s water from space a &#39;game changer&#39; for understanding climate change](https://www.space.com/nasa-swot-satellite-earth-water-science)
+- [LexCheck raises $17M to automate common contracting processes](https://techcrunch.com/2022/12/14/2458088/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
