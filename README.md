@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla’s latest OTA update adds Steam games, Apple Music, Zoom and a wild light show mode](https://techcrunch.com/2022/12/14/teslas-latest-ota-update-adds-steam-games-apple-music-zoom-and-a-wild-light-show-mode/)
-- [Spotify is ending production of several of its live audio shows](https://techcrunch.com/2022/12/14/spotify-is-ending-production-of-several-of-its-live-audio-shows/)
-- [Webb Glimpses Field of Extragalactic PEARLS, Studded With Galactic Diamonds](https://blogs.nasa.gov/webb/2022/12/14/webb-glimpses-field-of-extragalactic-pearls-studded-with-galactic-diamonds/)
-- [NASA&#39;s new SWOT satellite to study Earth&#39;s water from space a &#39;game changer&#39; for understanding climate change](https://www.space.com/nasa-swot-satellite-earth-water-science)
-- [LexCheck raises $17M to automate common contracting processes](https://techcrunch.com/2022/12/14/2458088/)
+- [Elon Jet, the Twitter account tracking Elon Musk’s flights, was permanently suspended](https://techcrunch.com/2022/12/14/elon-jet-the-twitter-account-tracking-elon-musks-flights-was-permanently-suspended/)
+- [Meet two of 12 rising startups pitching at Cross Chain Coalition Web3 Demo Day](https://techcrunch.com/2022/12/14/meet-two-of-12-rising-startups-pitching-at-cross-chain-coalition-web3-demo-day/)
+- [Despite the Crypto Winter and other scandals, blockchains seem here to stay in the sports betting market](https://techcrunch.com/2022/12/14/despite-the-crypto-winter-and-other-scandals-blockchains-seem-here-to-stay-in-the-sports-betting-market/)
+- [Dear Sophie: When can I register my employee for the H-1B lottery?](https://techcrunch.com/2022/12/14/dear-sophie-when-can-i-register-my-employee-for-the-h-1b-lottery/)
+- [TechCrunch Live is filming at CES, and you’re invited!](https://techcrunch.com/2022/12/14/techcrunch-live-is-filming-at-ces-and-youre-invited/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
