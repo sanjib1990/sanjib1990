@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [This startup just landed $8.5M led by Bessemer to help companies automate their financial workflows](https://techcrunch.com/2022/12/14/fintech-nilus-lands-8-5m-led-by-bessemer/)
-- [Apple will reportedly allow sideloading apps with iOS 17](https://techcrunch.com/2022/12/14/apple-will-reportedly-allow-sideloading-apps-with-ios-17/)
-- [EnCharge AI emerges from stealth with $21.7M to develop AI accelerator hardware](https://techcrunch.com/2022/12/14/encharge-ai-emerges-from-stealth-with-21-7m-to-develop-ai-accelerator-hardware/)
-- [Tinder launches ‘Relationship Goals’ to follow in sister dating app Hinge’s footsteps](https://techcrunch.com/2022/12/14/tinder-launches-relationship-goals-feature/)
-- [Surprising loss of sea ice after record-breaking Arctic storm is a mystery to scientists](https://www.space.com/record-arctic-storm-sea-ice-loss)
+- [The impact of hype with Clubhouse’s Paul Davison](https://techcrunch.com/2022/12/14/the-impact-of-hype-with-clubhouses-paul-davison/)
+- [OSIRIS-REx asteroid samples will land on Earth in 2023 and scientists can&#39;t wait](https://www.space.com/osiris-rex-asteroid-sample-delivery-preview)
+- [Guidewheel lands $9M Series A-1 for SaaS that boosts manufacturing and trims carbon emissions](https://techcrunch.com/2022/12/14/guidewheel-lands-9m-series-a-1-for-saas-that-boosts-manufacturing-and-trims-carbon-emissions/)
+- [In a turbulent market, it’s time to get methodical about sales](https://techcrunch.com/2022/12/14/in-a-turbulent-market-its-time-to-get-methodical-about-sales/)
+- [Reports of Musk forcing tracking ads on Twitter put him on a costly collision course with EU privacy laws](https://techcrunch.com/2022/12/14/elon-musk-twitter-forced-ads-europe/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
