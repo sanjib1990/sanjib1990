@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Bollywood star Deepika Padukone’s skincare startup attracts VC backing](https://techcrunch.com/2022/12/14/bollywood-star-deepika-padukone-skincare-startup-attracts-vc-backing/)
-- [James Webb Space Telescope spots rare red spiral galaxies in the early universe](https://www.space.com/james-webb-space-telescope-red-spiral-galaxies)
-- [Nerdio lands $117M to build management tools on top of Azure Virtual Desktop](https://techcrunch.com/2022/12/14/nerdio-lands-117m-to-build-management-tools-on-top-of-azure-virtual-desktop/)
-- [A guide to navigating your first 90 days as a new CISO](https://techcrunch.com/2022/12/14/a-guide-to-navigating-your-first-90-days-as-a-new-ciso/)
-- [Meta sued by Ethiopians and Kenyan rights group for fueling Tigray War](https://techcrunch.com/2022/12/14/meta-sued-by-ethiopians-and-kenyan-rights-group-for-fueling-tigray-war/)
+- [This startup just landed $8.5M led by Bessemer to help companies automate their financial workflows](https://techcrunch.com/2022/12/14/fintech-nilus-lands-8-5m-led-by-bessemer/)
+- [Apple will reportedly allow sideloading apps with iOS 17](https://techcrunch.com/2022/12/14/apple-will-reportedly-allow-sideloading-apps-with-ios-17/)
+- [EnCharge AI emerges from stealth with $21.7M to develop AI accelerator hardware](https://techcrunch.com/2022/12/14/encharge-ai-emerges-from-stealth-with-21-7m-to-develop-ai-accelerator-hardware/)
+- [Tinder launches ‘Relationship Goals’ to follow in sister dating app Hinge’s footsteps](https://techcrunch.com/2022/12/14/tinder-launches-relationship-goals-feature/)
+- [Surprising loss of sea ice after record-breaking Arctic storm is a mystery to scientists](https://www.space.com/record-arctic-storm-sea-ice-loss)
 <!-- BLOG-POST-LIST:END -->
 
 ---
