@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Horrible, Helpful, http3 Hack - Computerphile](https://www.youtube.com/watch?v=wV9FSyFB8tk)
+- [EXPOSE your home network to the INTERNET!! &lpar;it&#39;s safe&rpar;](https://www.youtube.com/watch?v=ey4u7OUAF3c)
 - [Arduino in 100 Seconds](https://www.youtube.com/watch?v=1ENiVwk8idM)
 - [Guest lecture &lpar;2022&rpar;: Unmaking and remaking community &lpar;part 2&rpar;](https://www.youtube.com/watch?v=A1vOpAxkuZ4)
 - [Guest lecture &lpar;2022&rpar;: Unmaking and remaking community &lpar;part 1&rpar;](https://www.youtube.com/watch?v=qU8Wi_KHH1E)
-- [What will AI Programming look like in 5 Years?](https://www.youtube.com/watch?v=eaedq1Jl2fc)
-- [Verifying AI &#39;Black Boxes&#39; - Computerphile](https://www.youtube.com/watch?v=jzRrUPQgrpc)
 <!-- YOUTUBE:END -->
 
 ---
