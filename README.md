@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bondaval raises $15M Series A for its alternative to traditional bank guarantees](https://techcrunch.com/2022/12/14/bondaval-series-a/)
 - [Oxyle’s tech uses water movement to remove pollutants](https://techcrunch.com/2022/12/13/oxyle/)
 - [YouTube will send a notification to users if their comment is abusive](https://techcrunch.com/2022/12/13/youtube-will-send-a-notification-to-users-if-their-comment-is-abusive/)
 - [India’s Paytm to spend up to $103 million to buy back shares](https://techcrunch.com/2022/12/13/indias-paytm-to-buy-back-shares/)
 - [Vegas visitors can take semi-autonomous EVs for a tour starting in 2023](https://techcrunch.com/2022/12/13/vegas-visitors-can-take-semi-autonomous-evs-for-a-tour-starting-in-2023/)
-- [Shield AI raises another $60M at a $2.3B valuation for its military autonomous flying tech](https://techcrunch.com/2022/12/13/shield-ai-raises-another-60m-at-a-2-3b-valuation-for-its-military-autonomous-flying-tech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
