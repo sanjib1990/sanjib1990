@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why the SPAC route makes sense for Getaround](https://techcrunch.com/2022/12/14/why-the-spac-route-makes-sense-for-getaround/)
 - [Space helicopters will help us explore Mars and other worlds. Here&#39;s how.](https://www.space.com/space-helicopters-will-explore-mars-titan)
 - [7 great gifts for smart home smarties](https://techcrunch.com/2022/12/14/7-great-gifts-for-smart-home-smarties/)
-- [SmartHelio raises $5M to fix solar panels before they break](https://techcrunch.com/2022/12/14/smarthelio-predictive-maintenance/)
+- [How SmartHelio aims to fix solar panels before they break](https://techcrunch.com/2022/12/14/smarthelio-predictive-maintenance/)
 - [Twitter shuts down Revue, its newsletter platform](https://techcrunch.com/2022/12/14/twitter-shuts-down-revue-its-newsletter-platform/)
-- [The Geminid meteor shower of 2022 wowed skywatchers with bright fireballs &lpar;photos&rpar;](https://www.space.com/geminid-meteor-shower-2022-peak-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
