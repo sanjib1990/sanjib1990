@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [WhatsApp Pay India head departs after only four months in the top job](https://techcrunch.com/2022/12/14/whatsapp-pay-india-head-departs-after-only-four-months-in-the-top-job/)
-- [60 years ago today, a spacecraft zipped past planet Venus for the 1st time ever](https://www.space.com/mariner-2-venus-flyby-60-year-anniversary)
-- [The Christmas asteroid challenge starts tonight. Here&#39;s how to join in](https://www.space.com/news/the-christmas-asteroid-challenge-starts-tonight-heres-how-to-join-in)
-- [Bondaval raises $15M Series A for its alternative to traditional bank guarantees](https://techcrunch.com/2022/12/14/bondaval-series-a/)
-- [Oxyle’s tech uses water movement to remove pollutants](https://techcrunch.com/2022/12/13/oxyle/)
+- [Bollywood star Deepika Padukone’s skincare startup attracts VC backing](https://techcrunch.com/2022/12/14/bollywood-star-deepika-padukone-skincare-startup-attracts-vc-backing/)
+- [James Webb Space Telescope spots rare red spiral galaxies in the early universe](https://www.space.com/james-webb-space-telescope-red-spiral-galaxies)
+- [Nerdio lands $117M to build management tools on top of Azure Virtual Desktop](https://techcrunch.com/2022/12/14/nerdio-lands-117m-to-build-management-tools-on-top-of-azure-virtual-desktop/)
+- [A guide to navigating your first 90 days as a new CISO](https://techcrunch.com/2022/12/14/a-guide-to-navigating-your-first-90-days-as-a-new-ciso/)
+- [Meta sued by Ethiopians and Kenyan rights group for fueling Tigray War](https://techcrunch.com/2022/12/14/meta-sued-by-ethiopians-and-kenyan-rights-group-for-fueling-tigray-war/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
