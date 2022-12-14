@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Elon Jet, the Twitter account tracking Elon Musk’s flights, was permanently suspended](https://techcrunch.com/2022/12/14/elon-jet-the-twitter-account-tracking-elon-musks-flights-was-permanently-suspended/)
-- [Meet two of 12 rising startups pitching at Cross Chain Coalition Web3 Demo Day](https://techcrunch.com/2022/12/14/meet-two-of-12-rising-startups-pitching-at-cross-chain-coalition-web3-demo-day/)
-- [Despite the Crypto Winter and other scandals, blockchains seem here to stay in the sports betting market](https://techcrunch.com/2022/12/14/despite-the-crypto-winter-and-other-scandals-blockchains-seem-here-to-stay-in-the-sports-betting-market/)
-- [Dear Sophie: When can I register my employee for the H-1B lottery?](https://techcrunch.com/2022/12/14/dear-sophie-when-can-i-register-my-employee-for-the-h-1b-lottery/)
-- [TechCrunch Live is filming at CES, and you’re invited!](https://techcrunch.com/2022/12/14/techcrunch-live-is-filming-at-ces-and-youre-invited/)
+- [Space helicopters will help us explore Mars and other worlds. Here&#39;s how.](https://www.space.com/space-helicopters-will-explore-mars-titan)
+- [7 great gifts for smart home smarties](https://techcrunch.com/2022/12/14/7-great-gifts-for-smart-home-smarties/)
+- [SmartHelio raises $5M to fix solar panels before they break](https://techcrunch.com/2022/12/14/smarthelio-predictive-maintenance/)
+- [Twitter shuts down Revue, its newsletter platform](https://techcrunch.com/2022/12/14/twitter-shuts-down-revue-its-newsletter-platform/)
+- [The Geminid meteor shower of 2022 wowed skywatchers with bright fireballs &lpar;photos&rpar;](https://www.space.com/geminid-meteor-shower-2022-peak-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
