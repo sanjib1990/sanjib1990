@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Here are the best books that TechCrunch read this year](https://techcrunch.com/2022/12/14/here-are-the-best-books-that-techcrunch-read-this-year/)
+- [Despite the FTX mess, the crypto market looks to the future](https://techcrunch.com/2022/12/14/despite-the-ftx-mess-the-crypto-market-looks-to-the-future/)
+- [Watch 2 Russian cosmonauts conduct spacewalk Wednesday night](https://www.space.com/russian-cosmonauts-spacewalk-webcast-december-14)
 - [&#39;Star Wars Jedi: Survivor&#39; trailer reveals epic lightsaber battles and Force powers](https://www.space.com/star-wars-jedi-survivor-trailer-game-awards)
 - [Amazon set to release a ‘God of War’ live-action series on Prime Video](https://techcrunch.com/2022/12/14/amazon-prime-video-god-of-war-live-action-series/)
-- [Murmur gets a loud ask: reinvent closed door decisions](https://techcrunch.com/2022/12/14/murmur-future-of-work-funding/)
-- [From James Webb to Artemis 1: NASA chief hails epic successes of 2022](https://www.space.com/nasa-successes-2022-james-webb-artemis-1)
-- [&#39;Avatar: The Way of Water&#39; cast talks sequel&#39;s visual magic in new featurette](https://www.space.com/avatar-way-of-water-sequel-cast-featurette)
 <!-- BLOG-POST-LIST:END -->
 
 ---
