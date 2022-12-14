@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [China&#39;s launch of world&#39;s 1st methane-fueled orbital rocket fails, 14 satellites lost](https://www.space.com/china-zhuque-2-methane-rocket-fail-reach-orbit)
 - [Here are the best books that TechCrunch read this year](https://techcrunch.com/2022/12/14/here-are-the-best-books-that-techcrunch-read-this-year/)
 - [Despite the FTX mess, the crypto market looks to the future](https://techcrunch.com/2022/12/14/despite-the-ftx-mess-the-crypto-market-looks-to-the-future/)
 - [Watch 2 Russian cosmonauts conduct spacewalk Wednesday night](https://www.space.com/russian-cosmonauts-spacewalk-webcast-december-14)
 - [&#39;Star Wars Jedi: Survivor&#39; trailer reveals epic lightsaber battles and Force powers](https://www.space.com/star-wars-jedi-survivor-trailer-game-awards)
-- [Amazon set to release a ‘God of War’ live-action series on Prime Video](https://techcrunch.com/2022/12/14/amazon-prime-video-god-of-war-live-action-series/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
