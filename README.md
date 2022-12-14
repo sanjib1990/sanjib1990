@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Vegas visitors can take semi-autonomous EVs for a tour starting in 2023](https://techcrunch.com/2022/12/13/vegas-visitors-can-take-semi-autonomous-evs-for-a-tour-starting-in-2023/)
 - [Shield AI raises another $60M at a $2.3B valuation for its military autonomous flying tech](https://techcrunch.com/2022/12/13/shield-ai-raises-another-60m-at-a-2-3b-valuation-for-its-military-autonomous-flying-tech/)
 - [Eratani supports Indonesia’s farmers through the entire growing process](https://techcrunch.com/2022/12/13/eratani/)
 - [Jack Dorsey warns against attacks on Twitter staff and dedicates $1M a year to Signal](https://techcrunch.com/2022/12/13/jack-dorsey-warns-against-attacks-on-twitter-staff-and-dedicates-1m-a-year-to-signal/)
 - [9 high-tech gift ideas for the cannabis users in your life](https://techcrunch.com/2022/12/13/9-high-tech-gift-ideas-for-the-cannabis-users-in-your-life/)
-- [Daily Crunch: US law enforcement charges SBF with fraud as he awaits extradition after Bahamas arrest](https://techcrunch.com/2022/12/13/daily-crunch-us-law-enforcement-charges-sbf-with-fraud-as-he-awaits-extradition-after-bahamas-arrest/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
