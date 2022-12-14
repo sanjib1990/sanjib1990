@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [60 years ago today, a spacecraft zipped past planet Venus for the 1st time ever](https://www.space.com/mariner-2-venus-flyby-60-year-anniversary)
+- [The Christmas asteroid challenge starts tonight. Here&#39;s how to join in](https://www.space.com/news/the-christmas-asteroid-challenge-starts-tonight-heres-how-to-join-in)
 - [Bondaval raises $15M Series A for its alternative to traditional bank guarantees](https://techcrunch.com/2022/12/14/bondaval-series-a/)
 - [Oxyle’s tech uses water movement to remove pollutants](https://techcrunch.com/2022/12/13/oxyle/)
 - [YouTube will send a notification to users if their comment is abusive](https://techcrunch.com/2022/12/13/youtube-will-send-a-notification-to-users-if-their-comment-is-abusive/)
-- [India’s Paytm to spend up to $103 million to buy back shares](https://techcrunch.com/2022/12/13/indias-paytm-to-buy-back-shares/)
-- [Vegas visitors can take semi-autonomous EVs for a tour starting in 2023](https://techcrunch.com/2022/12/13/vegas-visitors-can-take-semi-autonomous-evs-for-a-tour-starting-in-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
