@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Shield AI raises another $60M at a $2.3B valuation for its military autonomous flying tech](https://techcrunch.com/2022/12/13/shield-ai-raises-another-60m-at-a-2-3b-valuation-for-its-military-autonomous-flying-tech/)
+- [Eratani supports Indonesia’s farmers through the entire growing process](https://techcrunch.com/2022/12/13/eratani/)
+- [Jack Dorsey warns against attacks on Twitter staff and dedicates $1M a year to Signal](https://techcrunch.com/2022/12/13/jack-dorsey-warns-against-attacks-on-twitter-staff-and-dedicates-1m-a-year-to-signal/)
+- [9 high-tech gift ideas for the cannabis users in your life](https://techcrunch.com/2022/12/13/9-high-tech-gift-ideas-for-the-cannabis-users-in-your-life/)
 - [Daily Crunch: US law enforcement charges SBF with fraud as he awaits extradition after Bahamas arrest](https://techcrunch.com/2022/12/13/daily-crunch-us-law-enforcement-charges-sbf-with-fraud-as-he-awaits-extradition-after-bahamas-arrest/)
-- [Honda says VR is changing how it designs cars. You might not notice.](https://techcrunch.com/2022/12/13/virtual-reality-honda-changing-how-design-cars/)
-- [Ransomware gang caught using Microsoft-approved drivers to hack targets](https://techcrunch.com/2022/12/13/cuba-ransomware-microsoft-drivers/)
-- [Anti-LGBTQ slur takes off on Twitter after Elon Musk’s takeover](https://techcrunch.com/2022/12/13/anti-lgbtq-slur-takes-off-on-twitter-after-elon-musks-takeover/)
-- [NASA&#39;s Artemis 1 Orion spacecraft reaches port in San Diego](https://www.space.com/artemis-1-orion-capsule-reaches-port)
 <!-- BLOG-POST-LIST:END -->
 
 ---
