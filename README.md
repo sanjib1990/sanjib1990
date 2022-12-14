@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Why the SPAC route makes sense for Getaround](https://techcrunch.com/2022/12/14/why-the-spac-route-makes-sense-for-getaround/)
-- [Space helicopters will help us explore Mars and other worlds. Here&#39;s how.](https://www.space.com/space-helicopters-will-explore-mars-titan)
-- [7 great gifts for smart home smarties](https://techcrunch.com/2022/12/14/7-great-gifts-for-smart-home-smarties/)
-- [How SmartHelio aims to fix solar panels before they break](https://techcrunch.com/2022/12/14/smarthelio-predictive-maintenance/)
-- [Twitter shuts down Revue, its newsletter platform](https://techcrunch.com/2022/12/14/twitter-shuts-down-revue-its-newsletter-platform/)
+- [&#39;Star Wars Jedi: Survivor&#39; trailer reveals epic lightsaber battles and Force powers](https://www.space.com/star-wars-jedi-survivor-trailer-game-awards)
+- [Amazon set to release a ‘God of War’ live-action series on Prime Video](https://techcrunch.com/2022/12/14/amazon-prime-video-god-of-war-live-action-series/)
+- [Murmur gets a loud ask: reinvent closed door decisions](https://techcrunch.com/2022/12/14/murmur-future-of-work-funding/)
+- [From James Webb to Artemis 1: NASA chief hails epic successes of 2022](https://www.space.com/nasa-successes-2022-james-webb-artemis-1)
+- [&#39;Avatar: The Way of Water&#39; cast talks sequel&#39;s visual magic in new featurette](https://www.space.com/avatar-way-of-water-sequel-cast-featurette)
 <!-- BLOG-POST-LIST:END -->
 
 ---
