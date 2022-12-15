@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mews books $185M for its SaaS-based hotel management platform](https://techcrunch.com/2022/12/14/mews-books-185m-for-its-saas-based-hotel-management-platform/)
+- [Plugo, an e-commerce support platform for D2C brands in Southeast Asia, picks up $9M Series A](https://techcrunch.com/2022/12/14/plugo-an-e-commerce-support-platform-for-d2c-brands-in-southeast-asia-picks-up-9m-series-a/)
+- [OECD adopts declaration on trusted government access to private sector data](https://techcrunch.com/2022/12/14/oecd-declaration-trusted-government-access/)
 - [Parsing LastPass’ data breach notice](https://techcrunch.com/2022/12/14/parsing-lastpass-august-data-breach-notice/)
 - [Daily Crunch: Twitter backpedals on CEO’s promise, permanently bans user who tracked his private jet](https://techcrunch.com/2022/12/14/daily-crunch-twitter-backpedals-on-ceos-promise-permanently-bans-user-who-tracked-his-private-jet/)
-- [Frustration and anger after SPV platform Assure dumps users at the curb ahead of holidays](https://techcrunch.com/2022/12/14/frustration-and-anger-after-spv-platform-assure-dumps-users-at-the-curb-ahead-of-holidays/)
-- [Apple’s Emergency SOS via satellite prompts rescue after car goes off a cliff north of LA](https://techcrunch.com/2022/12/14/apples-emergency-sos-via-satellite-prompts-rescue-after-car-goes-off-a-cliff-north-of-la/)
-- [Sun unleashes barrage of 8 powerful solar flares &lpar;video&rpar;](https://www.space.com/sun-eight-m-class-solar-flares)
 <!-- BLOG-POST-LIST:END -->
 
 ---
