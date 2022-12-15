@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [India doesn’t plan to limit play time for online game usage](https://techcrunch.com/2022/12/15/india-doesnt-plan-to-limit-play-time-for-online-game-usage/)
-- [MyHealth Africa, a startup connecting patients with health specialists across the globe, lands $1M funding](https://techcrunch.com/2022/12/15/myhealth-africa-a-startup-connecting-patients-with-health-specialists-across-the-globe-lands-1m-funding/)
-- [Egypt’s Suplyd raises $1.6M to digitize restaurants supply chain](https://techcrunch.com/2022/12/14/egypts-suplyd-raises-1-6-to-digitize-restaurants-supply-chain/)
-- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
-- [Rocket issue delays SpaceX launch of NASA water-watching satellite to Friday](https://www.space.com/spacex-swot-satellite-launch-delay-rocket-issue)
+- [Pan-African early-stage firm Ventures Platform closes fund, hits $46M](https://techcrunch.com/2022/12/15/pan-african-early-stage-fund-ventures-platform-closes-hits-46m/)
+- [Lucid wants a slice of China’s crowded EV market](https://techcrunch.com/2022/12/15/lucid-wants-a-slice-of-chinas-crowded-ev-market/)
+- [Sweep, a no-code config tool for Salesforce software, raises $28M](https://techcrunch.com/2022/12/15/sweep-a-no-code-config-tool-for-salesforce-software-raises-28m/)
+- [Airbnb is rolling out a toggle to show you price inclusive of all fees](https://techcrunch.com/2022/12/15/airbnb-is-rolling-out-a-toggle-to-show-you-price-inclusive-of-all-fees/)
+- [Taiwanese startup WritePath’s AI tech speeds up financial disclosure translation](https://techcrunch.com/2022/12/15/writepath-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
