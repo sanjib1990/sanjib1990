@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Parsing LastPass’ data breach notice](https://techcrunch.com/2022/12/14/parsing-lastpass-august-data-breach-notice/)
 - [Daily Crunch: Twitter backpedals on CEO’s promise, permanently bans user who tracked his private jet](https://techcrunch.com/2022/12/14/daily-crunch-twitter-backpedals-on-ceos-promise-permanently-bans-user-who-tracked-his-private-jet/)
 - [Frustration and anger after SPV platform Assure dumps users at the curb ahead of holidays](https://techcrunch.com/2022/12/14/frustration-and-anger-after-spv-platform-assure-dumps-users-at-the-curb-ahead-of-holidays/)
 - [Apple’s Emergency SOS via satellite prompts rescue after car goes off a cliff north of LA](https://techcrunch.com/2022/12/14/apples-emergency-sos-via-satellite-prompts-rescue-after-car-goes-off-a-cliff-north-of-la/)
 - [Sun unleashes barrage of 8 powerful solar flares &lpar;video&rpar;](https://www.space.com/sun-eight-m-class-solar-flares)
-- [China&#39;s launch of world&#39;s 1st methane-fueled orbital rocket fails, 14 satellites lost](https://www.space.com/china-zhuque-2-methane-rocket-fail-reach-orbit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
