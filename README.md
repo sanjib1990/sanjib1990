@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India doesn’t plan to limit play time for online game usage](https://techcrunch.com/2022/12/15/india-doesnt-plan-to-limit-play-time-for-online-game-usage/)
+- [MyHealth Africa, a startup connecting patients with health specialists across the globe, lands $1M funding](https://techcrunch.com/2022/12/15/myhealth-africa-a-startup-connecting-patients-with-health-specialists-across-the-globe-lands-1m-funding/)
 - [Egypt’s Suplyd raises $1.6M to digitize restaurants supply chain](https://techcrunch.com/2022/12/14/egypts-suplyd-raises-1-6-to-digitize-restaurants-supply-chain/)
 - [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
 - [Rocket issue delays SpaceX launch of NASA water-watching satellite to Friday](https://www.space.com/spacex-swot-satellite-launch-delay-rocket-issue)
-- [Soyuz spacecraft leak at space station cancels spacewalk by Russian cosmonauts](https://www.space.com/soyuz-spacecraft-leak-space-station-cancels-spacewalk)
-- [UPDATE: Russian space agency studying Soyuz spacecraft coolant leak on space station](https://www.space.com/russian-cosmonauts-spacewalk-webcast-december-14)
 <!-- BLOG-POST-LIST:END -->
 
 ---
