@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronomers discover strange twin planets might be water worlds](https://www.space.com/exoplanets-potential-water-worlds-discovered)
+- [Cultivated beef companies tout sustainability. Will it lead to marketability?](https://techcrunch.com/2022/12/15/cultivated-beef-companies-shine-light-on-sustainability/)
+- [Rocket Lab&#39;s 1st US launch may be visible along East Coast on Dec. 16. Here&#39;s where to look.](https://www.space.com/rocket-lab-1st-US-launch-east-coast-visibility-map)
+- [James Webb Space Telescope spots faint galaxy &#39;PEARLS&#39; in stunning new view](https://www.space.com/james-webb-space-telescope-pearls-image)
 - [Nuclear fusion breakthrough: What does it mean for space exploration?](https://www.space.com/nuclear-fusion-breakthrough-spacetravel)
-- [Developer platforms are all about trust, and Twitter lost it](https://techcrunch.com/2022/12/15/developer-platforms-are-all-about-trust-and-twitter-lost-it/)
-- [Spotify’s grand plan to monetize developers via its open source Backstage project](https://techcrunch.com/2022/12/15/spotifys-plan-to-monetize-its-open-source-backstage-developer-project/)
-- [US claims major DDoS-for-hire takedown, but some ‘seized’ sites still load](https://techcrunch.com/2022/12/15/ddos-booter-justice-department-seized/)
-- [PayPal and MetaMask team up to make it easier to buy crypto](https://techcrunch.com/2022/12/15/paypal-and-metamask-team-up-to-make-it-easier-to-buy-crypto/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
