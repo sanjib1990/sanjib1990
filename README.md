@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA has lost communications with a hurricane-watching satellite](https://www.space.com/nasa-cygnss-tropical-storms-hurricanes-lost-contact)
-- [Which Instagram ad placement is more cost-effective: Reels, Feed Posts or Stories?](https://techcrunch.com/2022/12/15/which-instagram-ad-placement-is-more-cost-effective-reels-feed-posts-or-stories/)
-- [Meta, Microsoft, AWS and TomTom launch the Overture Maps Foundation to develop interoperable open map data](https://techcrunch.com/2022/12/15/meta-microsoft-aws-and-tomtom-launch-the-overture-maps-foundation-to-develop-interoperable-open-map-data/)
-- [Former Prime Video exec launches Trendio, a video shopping app aiming to reimagine beauty e-commerce](https://techcrunch.com/2022/12/15/former-prime-video-exec-launches-trendio-video-shopping-app/)
-- [China launches yet more classified Yaogan reconnaissance satellites to orbit](https://www.space.com/china-launches-yaogan-satellites-december-2022)
+- [PayPal and MetaMask team up to make it easier to buy crypto](https://techcrunch.com/2022/12/15/paypal-and-metamask-team-up-to-make-it-easier-to-buy-crypto/)
+- [Presto can now make Santa, celebrities, ‘appear’ in your drive-thru](https://techcrunch.com/2022/12/15/presto-santa-drive-thru/)
+- [Protect AI lands a $13.5M investment to harden AI projects from attack](https://techcrunch.com/2022/12/15/protect-ai-lands-a-13-5m-investment-to-harden-ai-projects-from-attack/)
+- [Artifact wants to record your family history in podcast-like audio recordings](https://techcrunch.com/2022/12/15/artifact-wants-to-record-your-family-history-in-podcast-like-audio-recordings/)
+- [China&#39;s new space station opens for business in an increasingly competitive era of space activity](https://www.space.com/chinas-new-space-station-opens-for-business-in-increasingly-competitive-era)
 <!-- BLOG-POST-LIST:END -->
 
 ---
