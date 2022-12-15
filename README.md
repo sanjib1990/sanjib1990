@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Astronomers discover strange twin planets might be water worlds](https://www.space.com/exoplanets-potential-water-worlds-discovered)
-- [Cultivated beef companies tout sustainability. Will it lead to marketability?](https://techcrunch.com/2022/12/15/cultivated-beef-companies-shine-light-on-sustainability/)
-- [Rocket Lab&#39;s 1st US launch may be visible along East Coast on Dec. 16. Here&#39;s where to look.](https://www.space.com/rocket-lab-1st-US-launch-east-coast-visibility-map)
-- [James Webb Space Telescope spots faint galaxy &#39;PEARLS&#39; in stunning new view](https://www.space.com/james-webb-space-telescope-pearls-image)
-- [Nuclear fusion breakthrough: What does it mean for space exploration?](https://www.space.com/nuclear-fusion-breakthrough-spacetravel)
+- [GitHub brings free secret scanning to all public repos](https://techcrunch.com/2022/12/15/github-brings-free-secret-scanning-to-all-repos/)
+- [Stripe-backed Eion digs up $12M Series A to help farms capture carbon with green rock dust](https://techcrunch.com/2022/12/15/stripe-backed-eion-digs-up-12m-series-a-to-help-farms-capture-carbon-with-green-rock-dust/)
+- [Aztec Network takes on encrypted blockchains with $100M round led by a16z](https://techcrunch.com/2022/12/15/aztec-network-takes-on-encrypted-blockchains-with-100m-round-led-by-a16z/)
+- [Poolit raises millions to turn accredited investors into LPs in VC, private equity funds](https://techcrunch.com/2022/12/15/fintech-poolit-raises-millions-to-turn-accredicted-investors-into-lps-in-vc-private-equity-funds/)
+- [Companies — and VCs — continue to invest in AI despite market slowdown](https://techcrunch.com/2022/12/15/despite-the-market-slowdown-companies-and-vcs-continue-to-invest-in-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
