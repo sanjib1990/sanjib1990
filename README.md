@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [As AI pervades biotech, what are investors looking for in 2023?](https://techcrunch.com/2022/12/15/as-ai-pervades-biotech-what-are-investors-looking-for-in-2023/)
-- [Heartex’s Label Studio makes labeling audio for ML easier](https://techcrunch.com/2022/12/15/heartexs-label-studio-makes-labeling-audio-for-ml-easier/)
-- [6 investors discuss why AI is more than just a buzzword in biotech](https://techcrunch.com/2022/12/15/6-investors-discuss-why-ai-is-more-than-just-a-buzzword-in-biotech/)
-- [The battle over gig worker status is heating up](https://techcrunch.com/2022/12/15/the-battle-over-gig-worker-status-is-heating-up/)
-- [NASA probe to inspect the solar system&#39;s most active volcanic world, Jupiter&#39;s Io](https://www.space.com/juno-flyby-jupiter-volcanic-moon-io)
+- [Juno raises millions to provide family-first healthcare from Inglewood to Harlem](https://techcrunch.com/2022/12/15/juno-family-first-healthcare/)
+- [SpaceX fires up Starship prototype again ahead of test flight &lpar;video&rpar;](https://www.space.com/spacex-starship-static-fire-ship-24-december-15)
+- [Sun King, a provider of solar energy products in Africa and Asia, expands Series D to $330M](https://techcrunch.com/2022/12/15/sun-king-a-provider-of-solar-energy-products-in-africa-and-asia-expands-series-d-to-330m/)
+- [Soyuz capsule leak at space station prompts Russia to postpone another spacewalk](https://www.space.com/soyuz-leak-russia-cancels-more-spacewalks)
+- [&#39;Star Wars: The Bad Batch&#39; Season 2 trailer  means more mutated mercenary mayhem](https://www.space.com/star-wars-bad-batch-season-2-trailer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
