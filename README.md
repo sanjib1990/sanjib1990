@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Can China’s venture capital market help it reignite growth?](https://techcrunch.com/2022/12/15/can-chinas-venture-capital-market-help-it-reignite-growth/)
+- [Russian space agency reports Soyuz capsule was damaged due to leak on space station](https://www.space.com/roscosmos-statement-soyuz-damage-leak-space-station)
 - [Here are the 13 shows leaving HBO Max &lpar;yes, ‘Westworld’ is one of them&rpar;](https://techcrunch.com/2022/12/15/here-are-the-13-shows-leaving-hbo-max/)
 - [50 years late, US gifts Apollo 17 moon rock to people of Cyprus](https://www.space.com/apollo-17-goodwill-moon-rock-cyprus-presentation)
 - [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [GitHub brings free secret scanning to all public repos](https://techcrunch.com/2022/12/15/github-brings-free-secret-scanning-to-all-repos/)
-- [Stripe-backed Eion digs up $12M Series A to help farms capture carbon with green rock dust](https://techcrunch.com/2022/12/15/stripe-backed-eion-digs-up-12m-series-a-to-help-farms-capture-carbon-with-green-rock-dust/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
