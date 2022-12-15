@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nuclear fusion breakthrough: What does it mean for space exploration?](https://www.space.com/nuclear-fusion-breakthrough-spacetravel)
+- [Developer platforms are all about trust, and Twitter lost it](https://techcrunch.com/2022/12/15/developer-platforms-are-all-about-trust-and-twitter-lost-it/)
+- [Spotify’s grand plan to monetize developers via its open source Backstage project](https://techcrunch.com/2022/12/15/spotifys-plan-to-monetize-its-open-source-backstage-developer-project/)
+- [US claims major DDoS-for-hire takedown, but some ‘seized’ sites still load](https://techcrunch.com/2022/12/15/ddos-booter-justice-department-seized/)
 - [PayPal and MetaMask team up to make it easier to buy crypto](https://techcrunch.com/2022/12/15/paypal-and-metamask-team-up-to-make-it-easier-to-buy-crypto/)
-- [Presto can now make Santa, celebrities, ‘appear’ in your drive-thru](https://techcrunch.com/2022/12/15/presto-santa-drive-thru/)
-- [Protect AI lands a $13.5M investment to harden AI projects from attack](https://techcrunch.com/2022/12/15/protect-ai-lands-a-13-5m-investment-to-harden-ai-projects-from-attack/)
-- [Artifact wants to record your family history in podcast-like audio recordings](https://techcrunch.com/2022/12/15/artifact-wants-to-record-your-family-history-in-podcast-like-audio-recordings/)
-- [China&#39;s new space station opens for business in an increasingly competitive era of space activity](https://www.space.com/chinas-new-space-station-opens-for-business-in-increasingly-competitive-era)
 <!-- BLOG-POST-LIST:END -->
 
 ---
