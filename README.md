@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Here are the 13 shows leaving HBO Max &lpar;yes, ‘Westworld’ is one of them&rpar;](https://techcrunch.com/2022/12/15/here-are-the-13-shows-leaving-hbo-max/)
+- [50 years late, US gifts Apollo 17 moon rock to people of Cyprus](https://www.space.com/apollo-17-goodwill-moon-rock-cyprus-presentation)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [GitHub brings free secret scanning to all public repos](https://techcrunch.com/2022/12/15/github-brings-free-secret-scanning-to-all-repos/)
 - [Stripe-backed Eion digs up $12M Series A to help farms capture carbon with green rock dust](https://techcrunch.com/2022/12/15/stripe-backed-eion-digs-up-12m-series-a-to-help-farms-capture-carbon-with-green-rock-dust/)
-- [Aztec Network takes on encrypted blockchains with $100M round led by a16z](https://techcrunch.com/2022/12/15/aztec-network-takes-on-encrypted-blockchains-with-100m-round-led-by-a16z/)
-- [Poolit raises millions to turn accredited investors into LPs in VC, private equity funds](https://techcrunch.com/2022/12/15/fintech-poolit-raises-millions-to-turn-accredicted-investors-into-lps-in-vc-private-equity-funds/)
-- [Companies — and VCs — continue to invest in AI despite market slowdown](https://techcrunch.com/2022/12/15/despite-the-market-slowdown-companies-and-vcs-continue-to-invest-in-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
