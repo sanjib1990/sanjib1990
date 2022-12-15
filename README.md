@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA has lost communications with a hurricane-watching satellite](https://www.space.com/nasa-cygnss-tropical-storms-hurricanes-lost-contact)
+- [Which Instagram ad placement is more cost-effective: Reels, Feed Posts or Stories?](https://techcrunch.com/2022/12/15/which-instagram-ad-placement-is-more-cost-effective-reels-feed-posts-or-stories/)
 - [Meta, Microsoft, AWS and TomTom launch the Overture Maps Foundation to develop interoperable open map data](https://techcrunch.com/2022/12/15/meta-microsoft-aws-and-tomtom-launch-the-overture-maps-foundation-to-develop-interoperable-open-map-data/)
 - [Former Prime Video exec launches Trendio, a video shopping app aiming to reimagine beauty e-commerce](https://techcrunch.com/2022/12/15/former-prime-video-exec-launches-trendio-video-shopping-app/)
 - [China launches yet more classified Yaogan reconnaissance satellites to orbit](https://www.space.com/china-launches-yaogan-satellites-december-2022)
-- [Pan-African early-stage firm Ventures Platform closes fund, hits $46M](https://techcrunch.com/2022/12/15/pan-african-early-stage-fund-ventures-platform-closes-hits-46m/)
-- [Lucid wants a slice of China’s crowded EV market](https://techcrunch.com/2022/12/15/lucid-wants-a-slice-of-chinas-crowded-ev-market/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
