@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rocket issue delays SpaceX launch of NASA water-watching satellite to Friday](https://www.space.com/spacex-swot-satellite-launch-delay-rocket-issue)
 - [Soyuz spacecraft leak on space station forces cosmonauts to cancel spacewalk](https://www.space.com/soyuz-spacecraft-leak-space-station-cancels-spacewalk)
 - [UPDATE: Russian space agency studying Soyuz spacecraft coolant leak on space station](https://www.space.com/russian-cosmonauts-spacewalk-webcast-december-14)
 - [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
 - [Musk sells $3.5B worth of Tesla stock as investors voice concern over Twitter involvement](https://techcrunch.com/2022/12/14/musk-sells-3-5b-worth-of-tesla-stock-as-investors-voice-concern-over-twitter-involvement/)
-- [Mews books $185M for its SaaS-based hotel management platform](https://techcrunch.com/2022/12/14/mews-books-185m-for-its-saas-based-hotel-management-platform/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
