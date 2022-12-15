@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Can China’s venture capital market help it reignite growth?](https://techcrunch.com/2022/12/15/can-chinas-venture-capital-market-help-it-reignite-growth/)
-- [Russian space agency reports Soyuz capsule was damaged due to leak on space station](https://www.space.com/roscosmos-statement-soyuz-damage-leak-space-station)
-- [Here are the 13 shows leaving HBO Max &lpar;yes, ‘Westworld’ is one of them&rpar;](https://techcrunch.com/2022/12/15/here-are-the-13-shows-leaving-hbo-max/)
-- [50 years late, US gifts Apollo 17 moon rock to people of Cyprus](https://www.space.com/apollo-17-goodwill-moon-rock-cyprus-presentation)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [The battle over gig worker status is heating up](https://techcrunch.com/2022/12/15/the-battle-over-gig-worker-status-is-heating-up/)
+- [NASA probe to inspect the solar system&#39;s most active volcanic world, Jupiter&#39;s Io](https://www.space.com/juno-flyby-jupiter-volcanic-moon-io)
+- [SBF’s handcuffs aren’t loosening up anytime soon](https://techcrunch.com/2022/12/15/sbfs-handcuffs-arent-loosening-up-anytime-soon/)
+- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates)
+- [Pitch Deck Teardown: MedCrypt’s $25M Series B deck](https://techcrunch.com/2022/12/15/sample-series-b-pitch-deck-medcrypt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
