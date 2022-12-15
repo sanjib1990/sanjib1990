@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Former Prime Video exec launches Trendio, a video shopping app aiming to reimagine beauty e-commerce](https://techcrunch.com/2022/12/15/former-prime-video-exec-launches-trendio-video-shopping-app/)
+- [China launches yet more classified Yaogan reconnaissance satellites to orbit](https://www.space.com/china-launches-yaogan-satellites-december-2022)
 - [Pan-African early-stage firm Ventures Platform closes fund, hits $46M](https://techcrunch.com/2022/12/15/pan-african-early-stage-fund-ventures-platform-closes-hits-46m/)
 - [Lucid wants a slice of China’s crowded EV market](https://techcrunch.com/2022/12/15/lucid-wants-a-slice-of-chinas-crowded-ev-market/)
 - [Sweep, a no-code config tool for Salesforce software, raises $28M](https://techcrunch.com/2022/12/15/sweep-a-no-code-config-tool-for-salesforce-software-raises-28m/)
-- [Airbnb is rolling out a toggle to show you price inclusive of all fees](https://techcrunch.com/2022/12/15/airbnb-is-rolling-out-a-toggle-to-show-you-price-inclusive-of-all-fees/)
-- [Taiwanese startup WritePath’s AI tech speeds up financial disclosure translation](https://techcrunch.com/2022/12/15/writepath-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
