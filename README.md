@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [As AI pervades biotech, what are investors looking for in 2023?](https://techcrunch.com/2022/12/15/as-ai-pervades-biotech-what-are-investors-looking-for-in-2023/)
+- [Heartex’s Label Studio makes labeling audio for ML easier](https://techcrunch.com/2022/12/15/heartexs-label-studio-makes-labeling-audio-for-ml-easier/)
+- [6 investors discuss why AI is more than just a buzzword in biotech](https://techcrunch.com/2022/12/15/6-investors-discuss-why-ai-is-more-than-just-a-buzzword-in-biotech/)
 - [The battle over gig worker status is heating up](https://techcrunch.com/2022/12/15/the-battle-over-gig-worker-status-is-heating-up/)
 - [NASA probe to inspect the solar system&#39;s most active volcanic world, Jupiter&#39;s Io](https://www.space.com/juno-flyby-jupiter-volcanic-moon-io)
-- [SBF’s handcuffs aren’t loosening up anytime soon](https://techcrunch.com/2022/12/15/sbfs-handcuffs-arent-loosening-up-anytime-soon/)
-- [NASA&#39;s Artemis 1 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-1-moon-mission-updates)
-- [Pitch Deck Teardown: MedCrypt’s $25M Series B deck](https://techcrunch.com/2022/12/15/sample-series-b-pitch-deck-medcrypt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
