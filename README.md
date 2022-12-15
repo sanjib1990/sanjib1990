@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Soyuz spacecraft leak on space station forces cosmonauts to cancel spacewalk](https://www.space.com/soyuz-spacecraft-leak-space-station-cancels-spacewalk)
+- [UPDATE: Russian space agency studying Soyuz spacecraft coolant leak on space station](https://www.space.com/russian-cosmonauts-spacewalk-webcast-december-14)
+- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
+- [Musk sells $3.5B worth of Tesla stock as investors voice concern over Twitter involvement](https://techcrunch.com/2022/12/14/musk-sells-3-5b-worth-of-tesla-stock-as-investors-voice-concern-over-twitter-involvement/)
 - [Mews books $185M for its SaaS-based hotel management platform](https://techcrunch.com/2022/12/14/mews-books-185m-for-its-saas-based-hotel-management-platform/)
-- [Plugo, an e-commerce support platform for D2C brands in Southeast Asia, picks up $9M Series A](https://techcrunch.com/2022/12/14/plugo-an-e-commerce-support-platform-for-d2c-brands-in-southeast-asia-picks-up-9m-series-a/)
-- [OECD adopts declaration on trusted government access to private sector data](https://techcrunch.com/2022/12/14/oecd-declaration-trusted-government-access/)
-- [Parsing LastPass’ data breach notice](https://techcrunch.com/2022/12/14/parsing-lastpass-august-data-breach-notice/)
-- [Daily Crunch: Twitter backpedals on CEO’s promise, permanently bans user who tracked his private jet](https://techcrunch.com/2022/12/14/daily-crunch-twitter-backpedals-on-ceos-promise-permanently-bans-user-who-tracked-his-private-jet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
