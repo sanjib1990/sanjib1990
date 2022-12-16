@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter just banned prominent journalists who cover Elon Musk with no explanation](https://techcrunch.com/2022/12/15/twitter-just-banned-a-wave-of-prominent-journalists-with-no-explanation/)
 - [Twitter suspends Mastodon’s account, making a good case for Mastodon](https://techcrunch.com/2022/12/15/elon-musk-suspends-mastodon-twitter-account-over-elonjet-tracking/)
 - [Mars helicopter Ingenuity aces 36th Red Planet flight](https://www.space.com/mars-helicopter-ingenuity-36th-red-planet-flight)
 - [Tesla Powerwall customers in Texas can now sell their electricity back to the grid](https://techcrunch.com/2022/12/15/tesla-powerwall-customers-in-texas-can-now-sell-their-electricity-back-to-the-grid/)
 - [Daily Crunch: Major tech firms partner with Linux Foundation to support open map data development](https://techcrunch.com/2022/12/15/daily-crunch-major-tech-firms-partner-with-linux-nonprofit-to-launch-overture-maps-foundation/)
-- [Try ‘Riffusion,’ an AI model that composes music by visualizing it](https://techcrunch.com/2022/12/15/try-riffusion-an-ai-model-that-composes-music-by-visualizing-it/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
