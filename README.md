@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Twitter removes live audio chat after CEO joins Space with banished reporters](https://techcrunch.com/2022/12/16/daily-crunch-twitter-removes-live-audio-chat-after-ceo-joins-space-with-banished-reporters/)
+- [Cruise’s autonomous driving tech comes under scrutiny from safety regulators](https://techcrunch.com/2022/12/16/cruises-autonomous-driving-tech-comes-under-scrutiny-from-safety-regulators/)
 - [SBF doesn’t need SPF where he’s going and other TC news](https://techcrunch.com/2022/12/16/sbf-doesnt-need-spf-where-hes-going-and-other-tc-news/)
 - [Rocket startup ABL Space Systems pushes debut launch to Jan. 9](https://www.space.com/abl-space-systems-launch-delay-january-9)
 - [See the 2022 FIFA World Cup from space in this dazzling satellite image](https://www.space.com/fifa-world-cup-2022-from-space-satellite-image)
-- [Perseverance Mars rover set to start caching samples for future return to Earth](https://www.space.com/nasa-mars-rover-perseverance-set-cache-first-sample)
-- [Censorship, lockdowns, arbitrary bans — Twitter is turning into the China of social media](https://techcrunch.com/2022/12/16/censorship-lockdowns-arbitrary-bans-twitter-is-turning-into-the-china-of-social-media/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
