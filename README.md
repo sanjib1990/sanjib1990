@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TLDraw offers a collaborative whiteboard without any login](https://techcrunch.com/2022/12/16/tldraw-offers-a-collaborative-whiteboard-without-any-login/)
+- [Twitter pulls its Spaces group audio feature after Musk run-in with banned journalists](https://techcrunch.com/2022/12/16/twitter-pulls-its-spaces-group-audio-feature-after-musk-run-in-with-banned-journalists/)
 - [James Webb Space Telescope&#39;s best images of all time &lpar;gallery&rpar;](https://www.space.com/james-webb-space-telescope-best-images-all-time-gallery)
-- [See the final last quarter moon of 2022 rise on Friday &lpar;Dec. 16&rpar;](https://www.space.com/last-quarter-moon-dec-16-2022)
+- [See the final last quarter moon of 2022 rise tonight &lpar;Dec. 16&rpar;](https://www.space.com/last-quarter-moon-dec-16-2022)
 - [With Bling, the fintech startup revolution spreads even to pocket money](https://techcrunch.com/2022/12/16/with-bling-the-fintech-startup-revolution-spreads-even-to-pocket-money/)
-- [Former Myntra chief’s fashion startup Virgio valued at $161 million in new funding](https://techcrunch.com/2022/12/15/former-myntra-chiefs-fashion-startup-virgio-valued-at-161-million-in-new-funding/)
-- [Crypto trader Amber raises $300M as it seeks protection for FTX-hit customers](https://techcrunch.com/2022/12/15/crypto-trader-amber-pockets-300m-series-c-amid-layoff/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
