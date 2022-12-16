@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Waymo opens Phoenix airport rides to the public, doubles downtown service area](https://techcrunch.com/2022/12/16/waymo-opens-phoenix-airport-rides-to-the-public-doubles-downtown-service-area/)
+- [Nuclear fusion reactor &#39;breakthrough&#39; is significant, but light-years away from being useful](https://www.space.com/fusion-ignition-scientists-skeptical-explained)
+- [On Dropbox, Slack pings and Twitter moderation](https://techcrunch.com/2022/12/16/on-dropbox-slack-pings-and-twitter-moderation/)
 - [‘Black Adam’ arrives on HBO Max following box office bust](https://techcrunch.com/2022/12/16/black-adam-movie-on-hbo-max-dwayne-johnson/)
 - [The rules of VC are changing: Here’s what founders should be considering in the new era](https://techcrunch.com/2022/12/16/the-rules-of-vc-are-changing-heres-what-founders-should-be-considering-in-the-new-era/)
-- [NASA&#39;s DART asteroid smash flung 2 million pounds of rock into space](https://www.space.com/dart-asteroid-impact-ejecta-findings-beta)
-- [Meta is shutting down its Cameo-like ‘Super’ app in February](https://techcrunch.com/2022/12/16/meta-is-shutting-down-its-cameo-like-super-app-in-february/)
-- [Equity’s 2023 predictions on the future of building, crypto and AI](https://techcrunch.com/2022/12/16/equitys-2023-predictions-on-the-future-of-building-crypto-and-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
