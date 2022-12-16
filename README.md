@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rocket startup ABL Space Systems pushes debut launch to Jan. 9](https://www.space.com/abl-space-systems-launch-delay-january-9)
 - [See the 2022 FIFA World Cup from space in this dazzling satellite image](https://www.space.com/fifa-world-cup-2022-from-space-satellite-image)
 - [Perseverance Mars rover set to start caching samples for future return to Earth](https://www.space.com/nasa-mars-rover-perseverance-set-cache-first-sample)
 - [Censorship, lockdowns, arbitrary bans — Twitter is turning into the China of social media](https://techcrunch.com/2022/12/16/censorship-lockdowns-arbitrary-bans-twitter-is-turning-into-the-china-of-social-media/)
 - [Baby stars throw cosmic tantrums in iconic James Webb Space Telescope image](https://www.space.com/james-webb-space-telescope-carina-nebula-image-protostars)
-- [With IT spending forecast to rise in 2023, what does it mean for startups?](https://techcrunch.com/2022/12/16/with-it-spending-forecast-to-rise-in-2023-what-does-it-mean-for-startups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
