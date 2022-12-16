@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See the 2022 FIFA World Cup from space in this dazzling satellite image](https://www.space.com/fifa-world-cup-2022-from-space-satellite-image)
+- [Perseverance Mars rover set to start caching samples for future return to Earth](https://www.space.com/nasa-mars-rover-perseverance-set-cache-first-sample)
+- [Censorship, lockdowns, arbitrary bans — Twitter is turning into the China of social media](https://techcrunch.com/2022/12/16/censorship-lockdowns-arbitrary-bans-twitter-is-turning-into-the-china-of-social-media/)
 - [Baby stars throw cosmic tantrums in iconic James Webb Space Telescope image](https://www.space.com/james-webb-space-telescope-carina-nebula-image-protostars)
 - [With IT spending forecast to rise in 2023, what does it mean for startups?](https://techcrunch.com/2022/12/16/with-it-spending-forecast-to-rise-in-2023-what-does-it-mean-for-startups/)
-- [TechCrunch+ roundup: New VC rules, AI biotech investor survey, Instagram ad case study](https://techcrunch.com/2022/12/16/techcrunch-roundup-new-vc-rules-ai-biotech-investor-survey-instagram-ad-case-study/)
-- [Jupiter moons take center stage in bonus science from NASA&#39;s Juno spacecraft](https://www.space.com/juno-mission-jovian-moons-photos-science)
-- [Amazon acquires film/TV rights to ‘Warhammer 40,000’ IP](https://techcrunch.com/2022/12/16/amazon-warhammer-40000-henry-cavill/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
