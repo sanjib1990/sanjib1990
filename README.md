@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Startup founders, this is how you get your first investor meeting](https://techcrunch.com/2022/12/16/intros-cold-emails/)
-- [This startup bagged $6M to show you which promotions bring ROI and which don’t](https://techcrunch.com/2022/12/16/kuona-6m-cpg-promotions/)
-- [Europe wastes no time warning Musk over ‘arbitrary suspension of journalists’](https://techcrunch.com/2022/12/16/eu-warns-elon-musk-over-journalist-bans/)
-- [Watch a SpaceX rocket launch 2 telecom satellites into orbit today &lpar;Dec. 16&rpar;](https://www.space.com/spacex-ses-o3b-mpower-launch-webcast)
-- [Update: Watch SpaceX launch NASA&#39;s SWOT water-monitoring satellite](https://www.space.com/spacex-launch-nasa-swot-satellite-webcast)
+- [‘Black Adam’ arrives on HBO Max following box office bust](https://techcrunch.com/2022/12/16/black-adam-movie-on-hbo-max-dwayne-johnson/)
+- [The rules of VC are changing: Here’s what founders should be considering in the new era](https://techcrunch.com/2022/12/16/the-rules-of-vc-are-changing-heres-what-founders-should-be-considering-in-the-new-era/)
+- [NASA&#39;s DART asteroid smash flung 2 million pounds of rock into space](https://www.space.com/dart-asteroid-impact-ejecta-findings-beta)
+- [Meta is shutting down its Cameo-like ‘Super’ app in February](https://techcrunch.com/2022/12/16/meta-is-shutting-down-its-cameo-like-super-app-in-february/)
+- [Equity’s 2023 predictions on the future of building, crypto and AI](https://techcrunch.com/2022/12/16/equitys-2023-predictions-on-the-future-of-building-crypto-and-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
