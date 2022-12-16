@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Audit firm Mazars ceases proof-of-reserves work for Binance and others](https://techcrunch.com/2022/12/16/audit-firm-mazars-ceases-proof-of-reserves-work-for-binance-and-others/)
-- [Collegiate entrepreneur hubs look to provide first support for would-be startups](https://techcrunch.com/2022/12/16/collegiate-entrepreneur-hubs-startups/)
-- [Soyuz capsule leak could strand 3 astronauts on space station, raising safety concern, expert says](https://www.space.com/soyuz-capsule-strand-astronauts-international-space-station-crew-safety-risk)
-- [Twitter is a mess, so former employees are creating Spill as an alternative](https://techcrunch.com/2022/12/16/spill-twitter-alternative/)
-- [Waymo opens Phoenix airport rides to the public, doubles downtown service area](https://techcrunch.com/2022/12/16/waymo-opens-phoenix-airport-rides-to-the-public-doubles-downtown-service-area/)
+- [TechCrunch+ roundup: New VC rules, AI biotech investor survey, Instagram ad case study](https://techcrunch.com/2022/12/16/techcrunch-roundup-new-vc-rules-ai-biotech-investor-survey-instagram-ad-case-study/)
+- [Jupiter moons take center stage in bonus science from NASA&#39;s Juno spacecraft](https://www.space.com/juno-mission-jovian-moons-photos-science)
+- [Amazon acquires film/TV rights to ‘Warhammer 40,000’ IP](https://techcrunch.com/2022/12/16/amazon-warhammer-40000-henry-cavill/)
+- [Solo GP Nichole Wischoff raises $20M fund backed by Peter Thiel to invest in ‘unsexy businesses’](https://techcrunch.com/2022/12/16/solo-gp-nichole-wischoff-raises-20m-fund-backed-by-peter-thiel-to-invest-in-unsexy-businesses/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
