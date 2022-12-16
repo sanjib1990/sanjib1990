@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Former Myntra chief’s fashion startup Virgio valued at $161 million in new funding](https://techcrunch.com/2022/12/15/former-myntra-chiefs-fashion-startup-virgio-valued-at-161-million-in-new-funding/)
 - [Crypto trader Amber raises $300M as it seeks protection for FTX-hit customers](https://techcrunch.com/2022/12/15/crypto-trader-amber-pockets-300m-series-c-amid-layoff/)
 - [Twitter just banned prominent journalists who cover Elon Musk with no warning](https://techcrunch.com/2022/12/15/twitter-just-banned-a-wave-of-prominent-journalists-with-no-explanation/)
 - [Twitter suspends Mastodon’s account and bans links to Mastodon servers](https://techcrunch.com/2022/12/15/elon-musk-suspends-mastodon-twitter-account-over-elonjet-tracking/)
 - [Mars helicopter Ingenuity aces 36th Red Planet flight](https://www.space.com/mars-helicopter-ingenuity-36th-red-planet-flight)
-- [Tesla Powerwall customers in Texas can now sell their electricity back to the grid](https://techcrunch.com/2022/12/15/tesla-powerwall-customers-in-texas-can-now-sell-their-electricity-back-to-the-grid/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
