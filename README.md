@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Startup founders, this is how you get your first investor meeting](https://techcrunch.com/2022/12/16/intros-cold-emails/)
 - [This startup bagged $6M to show you which promotions bring ROI and which don’t](https://techcrunch.com/2022/12/16/kuona-6m-cpg-promotions/)
 - [Europe wastes no time warning Musk over ‘arbitrary suspension of journalists’](https://techcrunch.com/2022/12/16/eu-warns-elon-musk-over-journalist-bans/)
-- [Watch SpaceX launch 2 telecom satellites to orbit Friday afternoon](https://www.space.com/spacex-ses-o3b-mpower-launch-webcast)
-- [SpaceX launches NASA satellite to study world&#39;s water, sticks rocket landing](https://www.space.com/spacex-launches-nasa-swot-water-monitoring-satellite)
-- [TLDraw offers a collaborative whiteboard without any login](https://techcrunch.com/2022/12/16/tldraw-offers-a-collaborative-whiteboard-without-any-login/)
+- [Watch a SpaceX rocket launch 2 telecom satellites into orbit today &lpar;Dec. 16&rpar;](https://www.space.com/spacex-ses-o3b-mpower-launch-webcast)
+- [Update: Watch SpaceX launch NASA&#39;s SWOT water-monitoring satellite](https://www.space.com/spacex-launch-nasa-swot-satellite-webcast)
 <!-- BLOG-POST-LIST:END -->
 
 ---
