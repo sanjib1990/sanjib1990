@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Baby stars throw cosmic tantrums in iconic James Webb Space Telescope image](https://www.space.com/james-webb-space-telescope-carina-nebula-image-protostars)
+- [With IT spending forecast to rise in 2023, what does it mean for startups?](https://techcrunch.com/2022/12/16/with-it-spending-forecast-to-rise-in-2023-what-does-it-mean-for-startups/)
 - [TechCrunch+ roundup: New VC rules, AI biotech investor survey, Instagram ad case study](https://techcrunch.com/2022/12/16/techcrunch-roundup-new-vc-rules-ai-biotech-investor-survey-instagram-ad-case-study/)
 - [Jupiter moons take center stage in bonus science from NASA&#39;s Juno spacecraft](https://www.space.com/juno-mission-jovian-moons-photos-science)
 - [Amazon acquires film/TV rights to ‘Warhammer 40,000’ IP](https://techcrunch.com/2022/12/16/amazon-warhammer-40000-henry-cavill/)
-- [Solo GP Nichole Wischoff raises $20M fund backed by Peter Thiel to invest in ‘unsexy businesses’](https://techcrunch.com/2022/12/16/solo-gp-nichole-wischoff-raises-20m-fund-backed-by-peter-thiel-to-invest-in-unsexy-businesses/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
