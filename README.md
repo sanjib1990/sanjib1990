@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [James Webb Space Telescope&#39;s best images of all time &lpar;gallery&rpar;](https://www.space.com/james-webb-space-telescope-best-images-all-time-gallery)
+- [See the final last quarter moon of 2022 rise on Friday &lpar;Dec. 16&rpar;](https://www.space.com/last-quarter-moon-dec-16-2022)
 - [With Bling, the fintech startup revolution spreads even to pocket money](https://techcrunch.com/2022/12/16/with-bling-the-fintech-startup-revolution-spreads-even-to-pocket-money/)
 - [Former Myntra chief’s fashion startup Virgio valued at $161 million in new funding](https://techcrunch.com/2022/12/15/former-myntra-chiefs-fashion-startup-virgio-valued-at-161-million-in-new-funding/)
 - [Crypto trader Amber raises $300M as it seeks protection for FTX-hit customers](https://techcrunch.com/2022/12/15/crypto-trader-amber-pockets-300m-series-c-amid-layoff/)
-- [Twitter just banned prominent journalists who cover Elon Musk with no warning](https://techcrunch.com/2022/12/15/twitter-just-banned-a-wave-of-prominent-journalists-with-no-explanation/)
-- [Twitter suspends Mastodon’s account and bans links to Mastodon servers](https://techcrunch.com/2022/12/15/elon-musk-suspends-mastodon-twitter-account-over-elonjet-tracking/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
