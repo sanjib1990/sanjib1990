@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Audit firm Mazars ceases proof-of-reserves work for Binance and others](https://techcrunch.com/2022/12/16/audit-firm-mazars-ceases-proof-of-reserves-work-for-binance-and-others/)
+- [Collegiate entrepreneur hubs look to provide first support for would-be startups](https://techcrunch.com/2022/12/16/collegiate-entrepreneur-hubs-startups/)
+- [Soyuz capsule leak could strand 3 astronauts on space station, raising safety concern, expert says](https://www.space.com/soyuz-capsule-strand-astronauts-international-space-station-crew-safety-risk)
+- [Twitter is a mess, so former employees are creating Spill as an alternative](https://techcrunch.com/2022/12/16/spill-twitter-alternative/)
 - [Waymo opens Phoenix airport rides to the public, doubles downtown service area](https://techcrunch.com/2022/12/16/waymo-opens-phoenix-airport-rides-to-the-public-doubles-downtown-service-area/)
-- [Nuclear fusion reactor &#39;breakthrough&#39; is significant, but light-years away from being useful](https://www.space.com/fusion-ignition-scientists-skeptical-explained)
-- [On Dropbox, Slack pings and Twitter moderation](https://techcrunch.com/2022/12/16/on-dropbox-slack-pings-and-twitter-moderation/)
-- [‘Black Adam’ arrives on HBO Max following box office bust](https://techcrunch.com/2022/12/16/black-adam-movie-on-hbo-max-dwayne-johnson/)
-- [The rules of VC are changing: Here’s what founders should be considering in the new era](https://techcrunch.com/2022/12/16/the-rules-of-vc-are-changing-heres-what-founders-should-be-considering-in-the-new-era/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
