@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This startup bagged $6M to show you which promotions bring ROI and which don’t](https://techcrunch.com/2022/12/16/kuona-6m-cpg-promotions/)
+- [Europe wastes no time warning Musk over ‘arbitrary suspension of journalists’](https://techcrunch.com/2022/12/16/eu-warns-elon-musk-over-journalist-bans/)
+- [Watch SpaceX launch 2 telecom satellites to orbit Friday afternoon](https://www.space.com/spacex-ses-o3b-mpower-launch-webcast)
+- [SpaceX launches NASA satellite to study world&#39;s water, sticks rocket landing](https://www.space.com/spacex-launches-nasa-swot-water-monitoring-satellite)
 - [TLDraw offers a collaborative whiteboard without any login](https://techcrunch.com/2022/12/16/tldraw-offers-a-collaborative-whiteboard-without-any-login/)
-- [Twitter pulls its Spaces group audio feature after Musk run-in with banned journalists](https://techcrunch.com/2022/12/16/twitter-pulls-its-spaces-group-audio-feature-after-musk-run-in-with-banned-journalists/)
-- [James Webb Space Telescope&#39;s best images of all time &lpar;gallery&rpar;](https://www.space.com/james-webb-space-telescope-best-images-all-time-gallery)
-- [See the final last quarter moon of 2022 rise tonight &lpar;Dec. 16&rpar;](https://www.space.com/last-quarter-moon-dec-16-2022)
-- [With Bling, the fintech startup revolution spreads even to pocket money](https://techcrunch.com/2022/12/16/with-bling-the-fintech-startup-revolution-spreads-even-to-pocket-money/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
