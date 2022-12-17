@@ -95,7 +95,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Leaky Soyuz spacecraft tests thrusters at space station, US spacewalk delayed](https://www.space.com/leaky-soyuz-capsule-tests-thrusters)
-- [The most active global VC firm on deal terms, fatality rates and the drawbacks of credit lines](https://techcrunch.com/2022/12/16/the-most-active-global-vc-firm-on-deal-terms-fatality-rates-and-the-drawbacks-of-credit-lines/)
+- [Deal terms, fatality rates and the drawbacks of credit lines; a view from today’s most active VC firm](https://techcrunch.com/2022/12/16/the-most-active-global-vc-firm-on-deal-terms-fatality-rates-and-the-drawbacks-of-credit-lines/)
 - [SpaceX launches 2 telecom satellites to orbit in landmark 200th mission](https://www.space.com/spacex-200th-launch-falcon-9-ses-satellites)
 - [Daily Crunch: Twitter removes live audio chat after CEO joins Space with banished reporters](https://techcrunch.com/2022/12/16/daily-crunch-twitter-removes-live-audio-chat-after-ceo-joins-space-with-banished-reporters/)
 - [Cruise’s autonomous driving tech comes under scrutiny from safety regulators](https://techcrunch.com/2022/12/16/cruises-autonomous-driving-tech-comes-under-scrutiny-from-safety-regulators/)
