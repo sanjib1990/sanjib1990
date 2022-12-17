@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX rocket launch at sunset wows some stargazers with ethereal &#39;space jellyfish&#39; &lpar;photos&rpar;](https://www.space.com/spacex-sunset-rocket-launch-space-jellyfish-photos-december-2022)
-- [South Korea&#39;s 1st moon probe Danuri begins to enter lunar orbit](https://www.space.com/south-korea-danuri-moon-probe-begins-orbit-entry)
-- [Watch SpaceX rocket launch on record-setting 15th mission Saturday](https://www.space.com/spacex-starlink-15th-launch-falcon-9-rocket)
-- [Why fusion ignition is being hailed as a major breakthrough in fusion — a nuclear physicist explains](https://www.space.com/why-fusion-ignition-major-breakthrough)
-- [Look up! The Ursid meteor shower starts tonight &lpar;Dec. 17&rpar;](https://www.space.com/ursid-meteor-shower-begins-dec-17-2022)
+- [Tech’s latest controversy? The return of the five-day, in-person work week](https://techcrunch.com/2022/12/17/techs-latest-controversy-the-return-of-the-five-day-in-person-work-week/)
+- [This Week in Apps: AI Art apps top the charts, Instagram adds text-only ‘Notes,’ alternative app stores in EU](https://techcrunch.com/2022/12/17/this-week-in-apps-ai-art-apps-top-the-charts-instagram-adds-text-only-notes-alternative-app-stores-in-eu/)
+- [Deal-flow mavens aren’t sweating the venture slowdown](https://techcrunch.com/2022/12/17/deal-flow-mavens-arent-sweating-the-venture-slowdown/)
+- [Gift Guide: a few ideas for the mechanical keyboard fans](https://techcrunch.com/2022/12/17/gift-guide-a-few-ideas-for-the-mechanical-keyboard-fans/)
+- [Support King, banned by FTC, linked to new stalkerware operation](https://techcrunch.com/2022/12/17/support-king-ftc-spytrac/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
