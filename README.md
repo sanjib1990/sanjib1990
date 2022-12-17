@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter battles all things ElonJet, SBF gets arrested, and OpenAI tries to figure out watermarking](https://techcrunch.com/2022/12/17/twitter-battles-all-things-elonjet-sbf-gets-arrested-and-openai-tries-to-figure-out-watermarking/)
 - [Tech’s latest controversy? The return of the five-day, in-person work week](https://techcrunch.com/2022/12/17/techs-latest-controversy-the-return-of-the-five-day-in-person-work-week/)
 - [This Week in Apps: AI Art apps top the charts, Instagram adds text-only ‘Notes,’ alternative app stores in EU](https://techcrunch.com/2022/12/17/this-week-in-apps-ai-art-apps-top-the-charts-instagram-adds-text-only-notes-alternative-app-stores-in-eu/)
 - [Deal-flow mavens aren’t sweating the venture slowdown](https://techcrunch.com/2022/12/17/deal-flow-mavens-arent-sweating-the-venture-slowdown/)
 - [Gift Guide: a few ideas for the mechanical keyboard fans](https://techcrunch.com/2022/12/17/gift-guide-a-few-ideas-for-the-mechanical-keyboard-fans/)
-- [Support King, banned by FTC, linked to new stalkerware operation](https://techcrunch.com/2022/12/17/support-king-ftc-spytrac/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
