@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Support King, banned by FTC, linked to new stalkerware operation](https://techcrunch.com/2022/12/17/support-king-ftc-spytrac/)
+- [Netflix’s ‘Wednesday’ is the second most popular English-language series, with 1.02B hours viewed](https://techcrunch.com/2022/12/17/netflix-wednesday-series/)
 - [SpaceX rocket launch at sunset wows some stargazers with ethereal &#39;space jellyfish&#39; &lpar;photos&rpar;](https://www.space.com/spacex-sunset-rocket-launch-space-jellyfish-photos-december-2022)
 - [Why did Wall Street favor Adobe’s quarter over Salesforce’s?](https://techcrunch.com/2022/12/17/why-did-wall-street-favor-adobes-quarter-over-salesforces/)
 - [South Korea&#39;s 1st moon probe Danuri begins to enter lunar orbit](https://www.space.com/south-korea-danuri-moon-probe-begins-orbit-entry)
-- [Watch SpaceX rocket launch on record-setting 15th mission Saturday](https://www.space.com/spacex-starlink-15th-launch-falcon-9-rocket)
-- [Why fusion ignition is being hailed as a major breakthrough in fusion — a nuclear physicist explains](https://www.space.com/why-fusion-ignition-major-breakthrough)
 <!-- BLOG-POST-LIST:END -->
 
 ---
