@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch SpaceX rocket launch on record-setting 15th mission Saturday](https://www.space.com/spacex-starlink-15th-launch-falcon-9-rocket)
 - [Why fusion ignition is being hailed as a major breakthrough in fusion — a nuclear physicist explains](https://www.space.com/why-fusion-ignition-major-breakthrough)
 - [Look up! The Ursid meteor shower starts tonight &lpar;Dec. 17&rpar;](https://www.space.com/ursid-meteor-shower-begins-dec-17-2022)
 - [Leaky Soyuz spacecraft tests thrusters at space station, US spacewalk delayed](https://www.space.com/leaky-soyuz-capsule-tests-thrusters)
 - [Deal terms, fatality rates and the drawbacks of credit lines; a view from today’s most active VC firm](https://techcrunch.com/2022/12/16/the-most-active-global-vc-firm-on-deal-terms-fatality-rates-and-the-drawbacks-of-credit-lines/)
-- [SpaceX launches 2 telecom satellites to orbit in landmark 200th mission](https://www.space.com/spacex-200th-launch-falcon-9-ses-satellites)
 <!-- BLOG-POST-LIST:END -->
 
 ---
