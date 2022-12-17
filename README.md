@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why fusion ignition is being hailed as a major breakthrough in fusion — a nuclear physicist explains](https://www.space.com/why-fusion-ignition-major-breakthrough)
+- [Look up! The Ursid meteor shower starts tonight &lpar;Dec. 17&rpar;](https://www.space.com/ursid-meteor-shower-begins-dec-17-2022)
 - [Leaky Soyuz spacecraft tests thrusters at space station, US spacewalk delayed](https://www.space.com/leaky-soyuz-capsule-tests-thrusters)
 - [Deal terms, fatality rates and the drawbacks of credit lines; a view from today’s most active VC firm](https://techcrunch.com/2022/12/16/the-most-active-global-vc-firm-on-deal-terms-fatality-rates-and-the-drawbacks-of-credit-lines/)
 - [SpaceX launches 2 telecom satellites to orbit in landmark 200th mission](https://www.space.com/spacex-200th-launch-falcon-9-ses-satellites)
-- [Daily Crunch: Twitter removes live audio chat after CEO joins Space with banished reporters](https://techcrunch.com/2022/12/16/daily-crunch-twitter-removes-live-audio-chat-after-ceo-joins-space-with-banished-reporters/)
-- [Cruise’s autonomous driving tech comes under scrutiny from safety regulators](https://techcrunch.com/2022/12/16/cruises-autonomous-driving-tech-comes-under-scrutiny-from-safety-regulators/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
