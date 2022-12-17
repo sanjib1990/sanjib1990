@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Deal-flow mavens aren’t sweating the venture slowdown](https://techcrunch.com/2022/12/17/deal-flow-mavens-arent-sweating-the-venture-slowdown/)
+- [Gift Guide: a few ideas for the mechanical keyboard fans](https://techcrunch.com/2022/12/17/gift-guide-a-few-ideas-for-the-mechanical-keyboard-fans/)
 - [Support King, banned by FTC, linked to new stalkerware operation](https://techcrunch.com/2022/12/17/support-king-ftc-spytrac/)
 - [Netflix’s ‘Wednesday’ is the second most popular English-language series, with 1.02B hours viewed](https://techcrunch.com/2022/12/17/netflix-wednesday-series/)
 - [SpaceX rocket launch at sunset wows some stargazers with ethereal &#39;space jellyfish&#39; &lpar;photos&rpar;](https://www.space.com/spacex-sunset-rocket-launch-space-jellyfish-photos-december-2022)
-- [Why did Wall Street favor Adobe’s quarter over Salesforce’s?](https://techcrunch.com/2022/12/17/why-did-wall-street-favor-adobes-quarter-over-salesforces/)
-- [South Korea&#39;s 1st moon probe Danuri begins to enter lunar orbit](https://www.space.com/south-korea-danuri-moon-probe-begins-orbit-entry)
 <!-- BLOG-POST-LIST:END -->
 
 ---
