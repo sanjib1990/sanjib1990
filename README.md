@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Star Trek: &#39;Q and False&#39; and Other Stories&#39; extends the final frontier with new](https://www.space.com/star-trek-q-and-false-and-other-stories-collection)
 - [A look back at the world of fintech in 2022](https://techcrunch.com/2022/12/18/a-look-back-at-2022-in-the-world-of-fintech/)
 - [How was the universe created?](https://www.space.com/how-was-the-universe-created)
 - [&#39;Transformers: Rise of the Beasts&#39; trailer offers 1st look at a chest-thumping Optimus Primal](https://www.space.com/transformers-rise-of-the-beasts-trailer-optimus-primal)
 - [Watch Rocket Lab attempt its 1st US launch with an Electron booster today](https://www.space.com/rocket-lab-1st-us-electron-launch-livestream)
-- [Nigeria, Rwanda become 1st African nations to sign Artemis Accords](https://www.space.com/artemis-accords-first-african-nations-rwanda-nigeria)
 <!-- BLOG-POST-LIST:END -->
 
 ---
