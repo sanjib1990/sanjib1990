@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A look back at the world of fintech in 2022](https://techcrunch.com/2022/12/18/a-look-back-at-2022-in-the-world-of-fintech/)
+- [How was the universe created?](https://www.space.com/how-was-the-universe-created)
 - [&#39;Transformers: Rise of the Beasts&#39; trailer offers 1st look at a chest-thumping Optimus Primal](https://www.space.com/transformers-rise-of-the-beasts-trailer-optimus-primal)
 - [Watch Rocket Lab attempt its 1st US launch with an Electron booster today](https://www.space.com/rocket-lab-1st-us-electron-launch-livestream)
 - [Nigeria, Rwanda become 1st African nations to sign Artemis Accords](https://www.space.com/artemis-accords-first-african-nations-rwanda-nigeria)
-- [NASA cancels climate change satellite to monitor greenhouse gases](https://www.space.com/nasa-geocarb-climate-change-mission-canceled)
-- [Twitter battles all things ElonJet, SBF gets arrested, and OpenAI tries to figure out watermarking](https://techcrunch.com/2022/12/17/twitter-battles-all-things-elonjet-sbf-gets-arrested-and-openai-tries-to-figure-out-watermarking/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
