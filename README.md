@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Toyota president keeps pushing idea that people hate EVs, despite epic waitlists](https://techcrunch.com/2022/12/19/toyota-president-keeps-pushing-idea-that-people-hate-evs-despite-epic-waitlists/)
-- [Meteoroid strike may have caused Soyuz spacecraft leak, Russian state news reports](https://www.space.com/soyuz-spacecraft-meteorite-cause-russian-action)
-- [Fujifilm X-T5 review](https://www.space.com/fujifilm-x-t5-review)
-- [Helm.ai snags $31M to scale its ‘unsupervised’ autonomous driving software](https://techcrunch.com/2022/12/19/helm-ai-snags-31m-to-scale-its-unsupervised-autonomous-driving-software/)
-- [Ancient Mexico&#39;s solar calendar in the mountains identified](https://www.space.com/ancient-mexico-solar-observatory-accuracy)
+- [Benioff’s reported Slack statement muddles message about Salesforce’s view of WFH](https://techcrunch.com/2022/12/19/benioffs-reported-slack-statement-muddles-message-about-salesforces-view-of-wfh/)
+- [3 Black founders explain how they’re preparing for a tough 2023](https://techcrunch.com/2022/12/19/3-black-founders-explain-how-theyre-preparing-for-a-tough-2023/)
+- [3 Black founders predict little will change in VC in 2023](https://techcrunch.com/2022/12/19/3-black-founders-predict-little-will-change-in-vc-in-2023/)
+- [Bored Apes creator Yuga Labs appoints Activision’s Daniel Alegre as CEO](https://techcrunch.com/2022/12/19/bored-apes-creator-yuga-labs-appoints-activisions-daniel-alegre-as-ceo/)
+- [North Korea launches test flight for planned 2023 spy satellite](https://www.space.com/north-korea-test-satellite-launch-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
