@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Gift Guide: A look at some of the best gaming headphones of 2022](https://techcrunch.com/2022/12/19/gift-guide-a-look-at-some-of-the-best-gaming-headphones-of-2022/)
 - [Fintech Vint hopes to turn wine and spirits into a mainstream asset class](https://techcrunch.com/2022/12/19/fintech-vint-hopes-to-turn-wine-and-spirits-into-a-mainstream-asset-class/)
 - [Max Q: A week of firsts](https://techcrunch.com/2022/12/19/max-q-a-week-of-firsts/)
 - [Investors’ flight to safety and regulation creates tailwinds for passion assets](https://techcrunch.com/2022/12/19/investors-flight-to-safety-and-regulation-creates-tailwinds-for-passion-assets/)
-- [&#39;Avatar: The Way of Water&#39; is a striking sci-fi fantasia drowned in Hollywood cliches](https://www.space.com/avatar-the-way-of-water-movie-review)
-- [Benioff’s reported Slack statement muddles message about Salesforce’s view of WFH](https://techcrunch.com/2022/12/19/benioffs-reported-slack-statement-muddles-message-about-salesforces-view-of-wfh/)
+- [Megadrought on Earth affected gravity waves at the edge of space](https://www.space.com/drought-on-earth-affects-space-gravity-waves)
 <!-- BLOG-POST-LIST:END -->
 
 ---
