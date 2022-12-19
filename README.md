@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ImagenAI, which uses AI to personalize photo editing styles, lands $30M](https://techcrunch.com/2022/12/19/imagenai-which-uses-ai-to-personalize-photo-editing-styles-lands-30m/)
 - [Zeekr files for an IPO, Elon sells more Tesla shares and a message to readers](https://techcrunch.com/2022/12/19/zeekr-files-for-an-ipo-elon-sells-more-tesla-shares-and-a-message-to-readers/)
 - [Should Elon step down as head of Twitter? Users vote Yes by a margin of 15%](https://techcrunch.com/2022/12/19/should-elon-step-down-as-head-of-twitter-users-vote-yes-by-a-margin-of-15/)
 - [Scientists trace fireball to strange rocky meteoroid from the edge of the solar system](https://www.space.com/fireball-strange-rocky-meteoroid-from-oort-cloud)
 - [NASA&#39;s InSight lander just recorded its biggest quake on Mars ever](https://www.space.com/mars-insight-most-powerful-marsquake)
-- [Important that India’s regulations provide legal and innovation certainty to firms, Google CEO says](https://techcrunch.com/2022/12/19/important-that-indias-regulations-provide-legal-and-innovation-certainty-to-firms-google-ceo-says/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
