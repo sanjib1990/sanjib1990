@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google brings multi-search and in-video search features to India](https://techcrunch.com/2022/12/19/google-brings-multi-search-and-in-video-search-features-to-india/)
+- [YouTube to launch Courses in edtech push in India](https://techcrunch.com/2022/12/19/youtube-to-launch-courses-in-edtech-push-in-india/)
 - [Google can now decode doctors’ bad handwriting](https://techcrunch.com/2022/12/18/google-can-now-decode-doctors-bad-handwriting/)
 - [Rocket Lab delays 1st US launch due to unacceptably high winds](https://www.space.com/rocket-lab-1st-electron-launch-delayed-by-winds)
 - [The fundraising stages are not about dollar values — they’re about risk](https://techcrunch.com/2022/12/18/staged-derisking/)
-- [Twitter bans posting of handles and links to Facebook, Instagram, Mastodon and more &lpar;Updated&rpar;](https://techcrunch.com/2022/12/18/twitter-wont-let-you-post-your-facebook-instagram-and-mastodon-handles/)
-- [Salesforce ends 2022 in an unusually turbulent position](https://techcrunch.com/2022/12/18/salesforce-ends-2022-in-an-unusually-turbulent-position/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
