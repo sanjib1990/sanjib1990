@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rocket Lab delays 1st US launch due to unacceptably high winds](https://www.space.com/rocket-lab-1st-electron-launch-delayed-by-winds)
 - [The fundraising stages are not about dollar values — they’re about risk](https://techcrunch.com/2022/12/18/staged-derisking/)
 - [Twitter bans posting of handles and links to Facebook, Instagram, Mastodon and more](https://techcrunch.com/2022/12/18/twitter-wont-let-you-post-your-facebook-instagram-and-mastodon-handles/)
 - [Salesforce ends 2022 in an unusually turbulent position](https://techcrunch.com/2022/12/18/salesforce-ends-2022-in-an-unusually-turbulent-position/)
 - [&#39;Star Trek: &#39;Q and False&#39; and Other Stories&#39; extends the final frontier with new anthology](https://www.space.com/star-trek-q-and-false-and-other-stories-collection)
-- [A look back at the world of fintech in 2022](https://techcrunch.com/2022/12/18/a-look-back-at-2022-in-the-world-of-fintech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
