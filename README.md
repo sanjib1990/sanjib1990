@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Helm.ai snags $31M to scale its ‘unsupervised’ autonomous driving software](https://techcrunch.com/2022/12/19/helm-ai-snags-31m-to-scale-its-unsupervised-autonomous-driving-software/)
+- [Ancient Mexico&#39;s solar calendar in the mountains identified](https://www.space.com/ancient-mexico-solar-observatory-accuracy)
+- [The creatures of Avatar &amp; Avatar: The Way of Water](https://www.space.com/creatures-of-avatar-movies)
 - [FTC fines Fortnite maker Epic Games $520M over children’s privacy charges](https://techcrunch.com/2022/12/19/ftc-fines-fortnite-maker-epic-games-520m-over-childrens-privacy-charges/)
 - [Mammals were already poised to take over the world before the dino-killing asteroid struck](https://www.space.com/mammal-poised-to-succeed-dinosaur-extinction)
-- [Instagram’s new Reels template lets you create your own 2022 recap](https://techcrunch.com/2022/12/19/instagrams-new-reels-template-lets-users-create-their-own-2022-recaps/)
-- [Foundation raises $7M to return ‘sovereignty’ to a chaotic crypto world](https://techcrunch.com/2022/12/19/foundation-devices-seed/)
-- [Binance.US to buy Voyager Digital’s assets for $1 billion](https://techcrunch.com/2022/12/19/binance-us-to-buy-voyager-digitals-assets-for-1-billion/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
