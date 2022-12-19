@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The #MyTechBestfriend fallout continues](https://techcrunch.com/2022/12/19/the-mytechbestfriend-fallout-continues/)
+- [Tesla accused of illegally firing employees critical of Musk](https://techcrunch.com/2022/12/19/tesla-accused-of-illegally-firing-employees-critical-of-musk/)
+- [Under pressure! Watch a Lockheed Martin inflatable space habitat explode &lpar;video&rpar;](https://www.space.com/lockheed-martin-space-habitat-explodes-video)
+- [Something weird is happening in Jupiter&#39;s atmosphere, 40-year study shows](https://www.space.com/jupiter-atmosphere-strange-patterns-over-40-years)
 - [Gift Guide: A look at some of the best gaming headphones of 2022](https://techcrunch.com/2022/12/19/gift-guide-a-look-at-some-of-the-best-gaming-headphones-of-2022/)
-- [Fintech Vint hopes to turn wine and spirits into a mainstream asset class](https://techcrunch.com/2022/12/19/fintech-vint-hopes-to-turn-wine-and-spirits-into-a-mainstream-asset-class/)
-- [Max Q: A week of firsts](https://techcrunch.com/2022/12/19/max-q-a-week-of-firsts/)
-- [Investors’ flight to safety and regulation creates tailwinds for passion assets](https://techcrunch.com/2022/12/19/investors-flight-to-safety-and-regulation-creates-tailwinds-for-passion-assets/)
-- [Megadrought on Earth affected gravity waves at the edge of space](https://www.space.com/drought-on-earth-affects-space-gravity-waves)
 <!-- BLOG-POST-LIST:END -->
 
 ---
