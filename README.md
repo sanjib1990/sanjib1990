@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [ImagenAI, which uses AI to personalize photo editing styles, lands $30M](https://techcrunch.com/2022/12/19/imagenai-which-uses-ai-to-personalize-photo-editing-styles-lands-30m/)
-- [Zeekr files for an IPO, Elon sells more Tesla shares and a message to readers](https://techcrunch.com/2022/12/19/zeekr-files-for-an-ipo-elon-sells-more-tesla-shares-and-a-message-to-readers/)
-- [Should Elon step down as head of Twitter? Users vote Yes by a margin of 15%](https://techcrunch.com/2022/12/19/should-elon-step-down-as-head-of-twitter-users-vote-yes-by-a-margin-of-15/)
-- [Scientists trace fireball to strange rocky meteoroid from the edge of the solar system](https://www.space.com/fireball-strange-rocky-meteoroid-from-oort-cloud)
-- [NASA&#39;s InSight lander just recorded its biggest quake on Mars ever](https://www.space.com/mars-insight-most-powerful-marsquake)
+- [Doom-spiraling exoplanet will someday meet fiery demise](https://www.space.com/exoplanet-on-spiral-collision-course-with-star)
+- [Salon software Mangomint raises $13M as it booms in post-COVID labor shortage](https://techcrunch.com/2022/12/19/salon-software-mangomint-raises-13m-as-it-booms-in-post-covid-labor-shortage/)
+- [Revel raises $7.8M to become the Instagram and Robinhood of NFT platforms](https://techcrunch.com/2022/12/19/revel-raised-7-8m-to-become-the-instagram-and-robinhood-of-nft-platforms/)
+- [WhatsApp lets you undo ‘Delete for Me’ in case you hit that button too quickly](https://techcrunch.com/2022/12/19/whatsapp-lets-you-undo-delete-for-me-in-case-you-hit-that-button-too-quickly/)
+- [YouTube is testing a feature to let users in India watch a video in multiple languages](https://techcrunch.com/2022/12/19/youtube-is-testing-a-feature-to-let-users-in-india-watch-a-video-in-multiple-languages/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
