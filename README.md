@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fintech Vint hopes to turn wine and spirits into a mainstream asset class](https://techcrunch.com/2022/12/19/fintech-vint-hopes-to-turn-wine-and-spirits-into-a-mainstream-asset-class/)
+- [Max Q: A week of firsts](https://techcrunch.com/2022/12/19/max-q-a-week-of-firsts/)
+- [Investors’ flight to safety and regulation creates tailwinds for passion assets](https://techcrunch.com/2022/12/19/investors-flight-to-safety-and-regulation-creates-tailwinds-for-passion-assets/)
+- [&#39;Avatar: The Way of Water&#39; is a striking sci-fi fantasia drowned in Hollywood cliches](https://www.space.com/avatar-the-way-of-water-movie-review)
 - [Benioff’s reported Slack statement muddles message about Salesforce’s view of WFH](https://techcrunch.com/2022/12/19/benioffs-reported-slack-statement-muddles-message-about-salesforces-view-of-wfh/)
-- [3 Black founders explain how they’re preparing for a tough 2023](https://techcrunch.com/2022/12/19/3-black-founders-explain-how-theyre-preparing-for-a-tough-2023/)
-- [3 Black founders predict little will change in VC in 2023](https://techcrunch.com/2022/12/19/3-black-founders-predict-little-will-change-in-vc-in-2023/)
-- [Bored Apes creator Yuga Labs appoints Activision’s Daniel Alegre as CEO](https://techcrunch.com/2022/12/19/bored-apes-creator-yuga-labs-appoints-activisions-daniel-alegre-as-ceo/)
-- [North Korea launches test flight for planned 2023 spy satellite](https://www.space.com/north-korea-test-satellite-launch-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
