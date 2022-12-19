@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Zeekr files for an IPO, Elon sells more Tesla shares and a message to readers](https://techcrunch.com/2022/12/19/zeekr-files-for-an-ipo-elon-sells-more-tesla-shares-and-a-message-to-readers/)
+- [Should Elon step down as head of Twitter? Users vote Yes by a margin of 15%](https://techcrunch.com/2022/12/19/should-elon-step-down-as-head-of-twitter-users-vote-yes-by-a-margin-of-15/)
+- [Scientists trace fireball to strange rocky meteoroid from the edge of the solar system](https://www.space.com/fireball-strange-rocky-meteoroid-from-oort-cloud)
+- [NASA&#39;s InSight lander just recorded its biggest quake on Mars ever](https://www.space.com/mars-insight-most-powerful-marsquake)
 - [Important that India’s regulations provide legal and innovation certainty to firms, Google CEO says](https://techcrunch.com/2022/12/19/important-that-indias-regulations-provide-legal-and-innovation-certainty-to-firms-google-ceo-says/)
-- [Google introduces India’s DigiLocker integration to Files app to access official documents](https://techcrunch.com/2022/12/19/google-introduces-indias-digilocker-integration-to-files-app-to-access-official-documents/)
-- [Google brings multi-search and in-video search features to India](https://techcrunch.com/2022/12/19/google-brings-multi-search-and-in-video-search-features-to-india/)
-- [YouTube to launch Courses in edtech push in India](https://techcrunch.com/2022/12/19/youtube-to-launch-courses-in-edtech-push-in-india/)
-- [Google can now decode doctors’ bad handwriting](https://techcrunch.com/2022/12/18/google-can-now-decode-doctors-bad-handwriting/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
