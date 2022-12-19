@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fujifilm X-T5 review](https://www.space.com/fujifilm-x-t5-review)
 - [Helm.ai snags $31M to scale its ‘unsupervised’ autonomous driving software](https://techcrunch.com/2022/12/19/helm-ai-snags-31m-to-scale-its-unsupervised-autonomous-driving-software/)
 - [Ancient Mexico&#39;s solar calendar in the mountains identified](https://www.space.com/ancient-mexico-solar-observatory-accuracy)
 - [The creatures of Avatar &amp; Avatar: The Way of Water](https://www.space.com/creatures-of-avatar-movies)
-- [FTC fines Fortnite maker Epic Games $520M over children’s privacy charges](https://techcrunch.com/2022/12/19/ftc-fines-fortnite-maker-epic-games-520m-over-childrens-privacy-charges/)
-- [Mammals were already poised to take over the world before the dino-killing asteroid struck](https://www.space.com/mammal-poised-to-succeed-dinosaur-extinction)
+- [FTC fines Fortnite maker Epic Games $520M over children’s privacy and item shop charges](https://techcrunch.com/2022/12/19/ftc-fines-fortnite-maker-epic-games-520m-over-childrens-privacy-charges/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
