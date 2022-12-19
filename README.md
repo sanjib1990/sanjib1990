@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Important that India’s regulations provide legal and innovation certainty to firms, Google CEO says](https://techcrunch.com/2022/12/19/important-that-indias-regulations-provide-legal-and-innovation-certainty-to-firms-google-ceo-says/)
+- [Google introduces India’s DigiLocker integration to Files app to access official documents](https://techcrunch.com/2022/12/19/google-introduces-indias-digilocker-integration-to-files-app-to-access-official-documents/)
 - [Google brings multi-search and in-video search features to India](https://techcrunch.com/2022/12/19/google-brings-multi-search-and-in-video-search-features-to-india/)
 - [YouTube to launch Courses in edtech push in India](https://techcrunch.com/2022/12/19/youtube-to-launch-courses-in-edtech-push-in-india/)
 - [Google can now decode doctors’ bad handwriting](https://techcrunch.com/2022/12/18/google-can-now-decode-doctors-bad-handwriting/)
-- [Rocket Lab delays 1st US launch due to unacceptably high winds](https://www.space.com/rocket-lab-1st-electron-launch-delayed-by-winds)
-- [The fundraising stages are not about dollar values — they’re about risk](https://techcrunch.com/2022/12/18/staged-derisking/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
