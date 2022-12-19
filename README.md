@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Doom-spiraling exoplanet will someday meet fiery demise](https://www.space.com/exoplanet-on-spiral-collision-course-with-star)
-- [Salon software Mangomint raises $13M as it booms in post-COVID labor shortage](https://techcrunch.com/2022/12/19/salon-software-mangomint-raises-13m-as-it-booms-in-post-covid-labor-shortage/)
-- [Revel raises $7.8M to become the Instagram and Robinhood of NFT platforms](https://techcrunch.com/2022/12/19/revel-raised-7-8m-to-become-the-instagram-and-robinhood-of-nft-platforms/)
-- [WhatsApp lets you undo ‘Delete for Me’ in case you hit that button too quickly](https://techcrunch.com/2022/12/19/whatsapp-lets-you-undo-delete-for-me-in-case-you-hit-that-button-too-quickly/)
-- [YouTube is testing a feature to let users in India watch a video in multiple languages](https://techcrunch.com/2022/12/19/youtube-is-testing-a-feature-to-let-users-in-india-watch-a-video-in-multiple-languages/)
+- [FTC fines Fortnite maker Epic Games $520M over children’s privacy charges](https://techcrunch.com/2022/12/19/ftc-fines-fortnite-maker-epic-games-520m-over-childrens-privacy-charges/)
+- [Mammals were already poised to take over the world before the dino-killing asteroid struck](https://www.space.com/mammal-poised-to-succeed-dinosaur-extinction)
+- [Instagram’s new Reels template lets you create your own 2022 recap](https://techcrunch.com/2022/12/19/instagrams-new-reels-template-lets-users-create-their-own-2022-recaps/)
+- [Foundation raises $7M to return ‘sovereignty’ to a chaotic crypto world](https://techcrunch.com/2022/12/19/foundation-devices-seed/)
+- [Binance.US to buy Voyager Digital’s assets for $1 billion](https://techcrunch.com/2022/12/19/binance-us-to-buy-voyager-digitals-assets-for-1-billion/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
