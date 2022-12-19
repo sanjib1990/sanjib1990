@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: After Musk puts it to a vote, 57% of Twitter poll respondents tell him to resign](https://techcrunch.com/2022/12/19/daily-crunch-musk-says-he-will-abide-by-the-results-after-twitter-users-vote-for-his-resignation/)
+- [Boldly go: SpaceX to launch diversity tribute to &#39;Star Trek&#39; creator Gene Roddenberry](https://www.space.com/spacex-star-trek-diversity-tribute-launch)
+- [Layoffs are coming for self-driving truck company TuSimple](https://techcrunch.com/2022/12/19/layoffs-are-coming-for-self-driving-truck-company-tusimple/)
+- [Spotify considers rebranding Anchor to Spotify Creator Studio](https://techcrunch.com/2022/12/19/spotify-considers-rebranding-anchor-to-spotify-creator-studio/)
 - [The #MyTechBestfriend fallout continues](https://techcrunch.com/2022/12/19/the-mytechbestfriend-fallout-continues/)
-- [Tesla accused of illegally firing employees critical of Musk](https://techcrunch.com/2022/12/19/tesla-accused-of-illegally-firing-employees-critical-of-musk/)
-- [Under pressure! Watch a Lockheed Martin inflatable space habitat explode &lpar;video&rpar;](https://www.space.com/lockheed-martin-space-habitat-explodes-video)
-- [Something weird is happening in Jupiter&#39;s atmosphere, 40-year study shows](https://www.space.com/jupiter-atmosphere-strange-patterns-over-40-years)
-- [Gift Guide: A look at some of the best gaming headphones of 2022](https://techcrunch.com/2022/12/19/gift-guide-a-look-at-some-of-the-best-gaming-headphones-of-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
