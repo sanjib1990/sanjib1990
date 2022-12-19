@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [I built a $5 chat app with Pocketbase &amp; Svelte. Will it scale?](https://www.youtube.com/watch?v=gUYBFDPZ5qk)
+- [A Guide of how to get started in IT in 2023 - Top IT Career Paths](https://www.youtube.com/watch?v=XmWkcePhf84)
 - [7 killer website features](https://www.youtube.com/watch?v=8B20fRB78nA)
 - [SvelteKit is my mistress](https://www.youtube.com/watch?v=uEJ-Rnm2yOE)
 - [Horrible, Helpful, http3 Hack - Computerphile](https://www.youtube.com/watch?v=wV9FSyFB8tk)
-- [EXPOSE your home network to the INTERNET!! &lpar;it&#39;s safe&rpar;](https://www.youtube.com/watch?v=ey4u7OUAF3c)
-- [Arduino in 100 Seconds](https://www.youtube.com/watch?v=1ENiVwk8idM)
 <!-- YOUTUBE:END -->
 
 ---
