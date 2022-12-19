@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google can now decode doctors’ bad handwriting](https://techcrunch.com/2022/12/18/google-can-now-decode-doctors-bad-handwriting/)
 - [Rocket Lab delays 1st US launch due to unacceptably high winds](https://www.space.com/rocket-lab-1st-electron-launch-delayed-by-winds)
 - [The fundraising stages are not about dollar values — they’re about risk](https://techcrunch.com/2022/12/18/staged-derisking/)
 - [Twitter bans posting of handles and links to Facebook, Instagram, Mastodon and more &lpar;Updated&rpar;](https://techcrunch.com/2022/12/18/twitter-wont-let-you-post-your-facebook-instagram-and-mastodon-handles/)
 - [Salesforce ends 2022 in an unusually turbulent position](https://techcrunch.com/2022/12/18/salesforce-ends-2022-in-an-unusually-turbulent-position/)
-- [&#39;Star Trek: &#39;Q and False&#39; and Other Stories&#39; extends the final frontier with new anthology](https://www.space.com/star-trek-q-and-false-and-other-stories-collection)
 <!-- BLOG-POST-LIST:END -->
 
 ---
