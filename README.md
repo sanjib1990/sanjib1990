@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rocket Lab’s first mission from Virginia delayed until 2023](https://techcrunch.com/2022/12/20/rocket-labs-first-mission-from-virginia-delayed-until-2023/)
+- [NASA’s InSight mission is winding down — look back at the Mars lander’s many accomplishments](https://techcrunch.com/2022/12/20/nasas-insight-mission-is-winding-down-look-back-at-the-mars-landers-many-accomplishments/)
+- [Two potentially habitable Earth-like worlds orbit a star in our cosmic backyard](https://www.space.com/potentially-habitable-earth-like-worlds-cosmic-backyard)
 - [More investors, more problems](https://techcrunch.com/2022/12/20/more-investors-more-problems/)
 - [FTC puts Zuckerberg on the stand over Meta’s plan to acquire Within](https://techcrunch.com/2022/12/20/ftc-puts-zuckerberg-on-the-stand-over-metas-plan-to-acquire-within/)
-- [The Drop Sense75 is not the keyboard you’ve been waiting for](https://techcrunch.com/2022/12/20/just-doesnt-make-enough-sense-the-drop-sense75-is-not-the-keyboard-youve-been-waiting-for/)
-- [Watch 2 NASA astronauts conduct spacewalk early Wednesday](https://www.space.com/nasa-astronauts-spacewalk-december-21-webcast)
-- [Zero-G flight for disability ambassadors shows space is accessible for all](https://www.space.com/disability-ambassadors-astroaccess-zero-g-science)
 <!-- BLOG-POST-LIST:END -->
 
 ---
