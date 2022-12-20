@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Magic Eden exec sees NFT gaming like the ‘early days of mobile gaming’](https://techcrunch.com/2022/12/20/magic-eden-exec-sees-nft-gaming-like-the-early-days-of-mobile-gaming/)
-- [Bird tanks on word that a Canadian company is saving its bacon](https://techcrunch.com/2022/12/20/bird-tanks-on-word-that-a-canadian-company-is-saving-its-bacon/)
-- [NASA&#39;s InSight lander on Mars goes silent as power runs low](https://www.space.com/mars-lander-insight-contact-lost)
-- [Amazon adds free music videos, viral videos and more ad-supported content to Fire TV](https://techcrunch.com/2022/12/20/amazon-free-music-videos-viral-videos-ad-supported-content-fire-tv/)
-- [TechCrunch+ roundup: Vanity metric dangers, planning for failure, Black founders survey](https://techcrunch.com/2022/12/20/techcrunch-roundup-vanity-metric-dangers-planning-for-failure-black-founders-survey/)
+- [Zero-G flight for disability ambassadors shows space is accessible for all](https://www.space.com/disability-ambassadors-astroaccess-zero-g-science)
+- [Cruise soft-launches robotaxi rides in Phoenix and Austin](https://techcrunch.com/2022/12/20/cruise-soft-launches-robotaxi-rides-in-phoenix-and-austin/)
+- [The best books that venture capitalists read in 2022](https://techcrunch.com/2022/12/20/the-best-books-that-venture-capitalists-read-in-2022/)
+- [Ukraine lines up 10,000 more Starlink terminals as funding issues are ‘resolved’](https://techcrunch.com/2022/12/20/ukraine-lines-up-10000-more-starlink-terminals-as-funding-issues-are-resolved/)
+- [SpaceX aims to start launching next-gen Starlink satellites this month: report](https://www.space.com/spacex-starlink-satellite-new-generation-launch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
