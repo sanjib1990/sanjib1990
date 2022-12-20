@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Database Sharting Explained](https://www.youtube.com/watch?v=K7iRfOs-aUw)
 - [MDE under the Hood &lpar;Model Driven Engineering&rpar; - Computerphile](https://www.youtube.com/watch?v=flWqmB4UaBA)
 - [I built a $5 chat app with Pocketbase &amp; Svelte. Will it scale?](https://www.youtube.com/watch?v=gUYBFDPZ5qk)
 - [A Guide of how to get started in IT in 2023 - Top IT Career Paths](https://www.youtube.com/watch?v=XmWkcePhf84)
 - [7 killer website features](https://www.youtube.com/watch?v=8B20fRB78nA)
-- [SvelteKit is my mistress](https://www.youtube.com/watch?v=uEJ-Rnm2yOE)
 <!-- YOUTUBE:END -->
 
 ---
