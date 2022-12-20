@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Kredito banks $6M as the LatAm business lender eyes international expansion](https://techcrunch.com/2022/12/20/kredito-6m-business-lending/)
-- [This may be the last Mars photo from NASA&#39;s InSight lander before it dies on the Red Planet](https://www.space.com/mars-insight-lander-possible-final-photo)
-- [Why haven&#39;t aliens contacted Earth? New Fermi Paradox analysis suggests we&#39;re not that interesting yet](https://www.space.com/fermi-paradox-aliens-contact-earth-not-interesting)
-- [Twitter Blue for Business now allows companies to identify their employees](https://techcrunch.com/2022/12/19/twitter-blue-for-business-now-allows-companies-to-identify-their-employees/)
-- [Amazon quietly launches Prime Gaming in India](https://techcrunch.com/2022/12/19/amazon-quietly-launches-prime-gaming-in-india/)
+- [Early-stage Mexico fintech Aviva is making loans as easy as a video call](https://techcrunch.com/2022/12/20/mexico-fintech-aviva-loans-video/)
+- [Superdense neutron star likely has solid crust, NASA telescope finds](https://www.space.com/neutron-star-solid-crust-ixpe-telescope)
+- [Simplify debugging to reduce the complexity of embedded system development](https://techcrunch.com/2022/12/20/simplify-debugging-to-reduce-the-complexity-of-embedded-system-development/)
+- [TikTok’s new feature will tell you why a particular video appeared in your For You feed](https://techcrunch.com/2022/12/20/tiktoks-tell-you-why-a-particular-video-appeared-in-for-you-feed/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
