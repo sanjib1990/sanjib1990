@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Kredito banks $6M as the LatAm business lender eyes international expansion](https://techcrunch.com/2022/12/20/kredito-6m-business-lending/)
+- [This may be the last Mars photo from NASA&#39;s InSight lander before it dies on the Red Planet](https://www.space.com/mars-insight-lander-possible-final-photo)
+- [Why haven&#39;t aliens contacted Earth? New Fermi Paradox analysis suggests we&#39;re not that interesting yet](https://www.space.com/fermi-paradox-aliens-contact-earth-not-interesting)
 - [Twitter Blue for Business now allows companies to identify their employees](https://techcrunch.com/2022/12/19/twitter-blue-for-business-now-allows-companies-to-identify-their-employees/)
 - [Amazon quietly launches Prime Gaming in India](https://techcrunch.com/2022/12/19/amazon-quietly-launches-prime-gaming-in-india/)
-- [South Korean financial super app Toss closes $405M Series G as valuation rises 7%](https://techcrunch.com/2022/12/19/south-korean-financial-super-app-toss-closes-405m-series-g-as-valuation-rises-7/)
-- [Hole spotted in leaky Russian Soyuz spacecraft](https://www.space.com/russian-soyuz-spaceraft-leak-hole-detected)
-- [Three counterintuitive 2023 predictions about Musk, SFB and even Kraft](https://techcrunch.com/2022/12/19/three-counterintuitive-2023-predictions-about-musk-sfb-and-even-kraft/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
