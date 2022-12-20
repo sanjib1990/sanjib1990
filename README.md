@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Three counterintuitive 2023 predictions about Musk, SFB and even Kraft](https://techcrunch.com/2022/12/19/three-counterintuitive-2023-predictions-about-musk-sfb-and-even-kraft/)
 - [Daily Crunch: After Musk puts it to a vote, 57% of Twitter poll respondents tell him to resign](https://techcrunch.com/2022/12/19/daily-crunch-musk-says-he-will-abide-by-the-results-after-twitter-users-vote-for-his-resignation/)
 - [Boldly go: SpaceX to launch diversity tribute to &#39;Star Trek&#39; creator Gene Roddenberry](https://www.space.com/spacex-star-trek-diversity-tribute-launch)
 - [Layoffs are coming for self-driving truck company TuSimple](https://techcrunch.com/2022/12/19/layoffs-are-coming-for-self-driving-truck-company-tusimple/)
 - [Spotify considers rebranding Anchor to Spotify Creator Studio](https://techcrunch.com/2022/12/19/spotify-considers-rebranding-anchor-to-spotify-creator-studio/)
-- [The #MyTechBestfriend fallout continues](https://techcrunch.com/2022/12/19/the-mytechbestfriend-fallout-continues/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
