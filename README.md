@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon quietly launches Prime Gaming in India](https://techcrunch.com/2022/12/19/amazon-quietly-launches-prime-gaming-in-india/)
 - [South Korean financial super app Toss closes $405M Series G as valuation rises 7%](https://techcrunch.com/2022/12/19/south-korean-financial-super-app-toss-closes-405m-series-g-as-valuation-rises-7/)
 - [Hole spotted in leaky Russian Soyuz spacecraft](https://www.space.com/russian-soyuz-spaceraft-leak-hole-detected)
 - [Three counterintuitive 2023 predictions about Musk, SFB and even Kraft](https://techcrunch.com/2022/12/19/three-counterintuitive-2023-predictions-about-musk-sfb-and-even-kraft/)
 - [Daily Crunch: After Musk puts it to a vote, 57% of Twitter poll respondents tell him to resign](https://techcrunch.com/2022/12/19/daily-crunch-musk-says-he-will-abide-by-the-results-after-twitter-users-vote-for-his-resignation/)
-- [Boldly go: SpaceX to launch diversity tribute to &#39;Star Trek&#39; creator Gene Roddenberry](https://www.space.com/spacex-star-trek-diversity-tribute-launch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
