@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Augmenting creativity with Alice Albrecht from re:collect](https://techcrunch.com/2022/12/20/augmenting-creativity-with-alice-albrecht-from-recollect/)
-- [Shock wave from sun has opened up a crack in Earth&#39;s magnetic field, and it could trigger a geomagnetic storm](https://www.space.com/shock-wave-opens-crack-in-magnetosphere)
-- [OpenAI releases Point-E, an AI that generates 3D models](https://techcrunch.com/2022/12/20/openai-releases-point-e-an-ai-that-generates-3d-models/)
-- [This VC is bullish about American dynamism – ‘the real one’](https://techcrunch.com/2022/12/20/this-vc-is-bullish-about-american-dynamism-the-real-one/)
-- [Vercel makes it easier to collaborate on preview deployments](https://techcrunch.com/2022/12/20/vercel-makes-it-easier-to-collaborate-on-preview-deployments/)
+- [Magic Eden exec sees NFT gaming like the ‘early days of mobile gaming’](https://techcrunch.com/2022/12/20/magic-eden-exec-sees-nft-gaming-like-the-early-days-of-mobile-gaming/)
+- [Bird tanks on word that a Canadian company is saving its bacon](https://techcrunch.com/2022/12/20/bird-tanks-on-word-that-a-canadian-company-is-saving-its-bacon/)
+- [NASA&#39;s InSight lander on Mars goes silent as power runs low](https://www.space.com/mars-lander-insight-contact-lost)
+- [Amazon adds free music videos, viral videos and more ad-supported content to Fire TV](https://techcrunch.com/2022/12/20/amazon-free-music-videos-viral-videos-ad-supported-content-fire-tv/)
+- [TechCrunch+ roundup: Vanity metric dangers, planning for failure, Black founders survey](https://techcrunch.com/2022/12/20/techcrunch-roundup-vanity-metric-dangers-planning-for-failure-black-founders-survey/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
