@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Augmenting creativity with Alice Albrecht from re:collect](https://techcrunch.com/2022/12/20/augmenting-creativity-with-alice-albrecht-from-recollect/)
+- [Shock wave from sun has opened up a crack in Earth&#39;s magnetic field, and it could trigger a geomagnetic storm](https://www.space.com/shock-wave-opens-crack-in-magnetosphere)
+- [OpenAI releases Point-E, an AI that generates 3D models](https://techcrunch.com/2022/12/20/openai-releases-point-e-an-ai-that-generates-3d-models/)
 - [This VC is bullish about American dynamism – ‘the real one’](https://techcrunch.com/2022/12/20/this-vc-is-bullish-about-american-dynamism-the-real-one/)
 - [Vercel makes it easier to collaborate on preview deployments](https://techcrunch.com/2022/12/20/vercel-makes-it-easier-to-collaborate-on-preview-deployments/)
-- [Salute Apollo 17&#39;s 50th anniversary with freshly restored moon mission shots](https://www.space.com/apollo-17-remastered-50th-anniversary)
-- [Watch Europe&#39;s Vega C rocket launch its 2nd mission Tuesday night](https://www.space.com/vega-c-rocket-launch-december-2022)
-- [Remembering the startups we lost in 2022](https://techcrunch.com/2022/12/20/remembering-the-startups-we-lost-in-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
