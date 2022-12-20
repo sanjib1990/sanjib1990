@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [China picks 4 international payloads for historic sample-return mission to moon&#39;s far side](https://www.space.com/china-moon-far-side-sample-return-mission-payloads)
+- [Apple fixes bug that let malicious apps skirt macOS’ security protections](https://techcrunch.com/2022/12/20/macos-gatekeeper-bug-microsoft/)
 - [Ursid meteor shower shines with ideal dark sky conditions this year](https://www.space.com/ursid-meteor-shower-dark-moon-dec-2022)
 - [Porsche pumps first synthetic fuel as Chilean plant finally starts producing](https://techcrunch.com/2022/12/20/porsche-pumps-first-synthetic-fuel-as-chilean-plant-finally-starts-producing/)
 - [Europa&#39;s icy crust may let more material into hidden ocean than thought](https://www.space.com/europa-comet-strikes-life-melt-ice-shell)
-- [User Interviews, which helps companies recruit survey participants, raises $27.5M](https://techcrunch.com/2022/12/20/user-interviews-which-helps-companies-recruit-survey-participants-raises-27-5m/)
-- [We had thoughts in 2022. Here are the top takes from the TechCrunch+ team](https://techcrunch.com/2022/12/20/we-had-thoughts-in-2022-here-are-the-top-takes-from-the-techcrunch-team/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
