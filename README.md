@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [More investors, more problems](https://techcrunch.com/2022/12/20/more-investors-more-problems/)
+- [FTC puts Zuckerberg on the stand over Meta’s plan to acquire Within](https://techcrunch.com/2022/12/20/ftc-puts-zuckerberg-on-the-stand-over-metas-plan-to-acquire-within/)
+- [The Drop Sense75 is not the keyboard you’ve been waiting for](https://techcrunch.com/2022/12/20/just-doesnt-make-enough-sense-the-drop-sense75-is-not-the-keyboard-youve-been-waiting-for/)
+- [Watch 2 NASA astronauts conduct spacewalk early Wednesday](https://www.space.com/nasa-astronauts-spacewalk-december-21-webcast)
 - [Zero-G flight for disability ambassadors shows space is accessible for all](https://www.space.com/disability-ambassadors-astroaccess-zero-g-science)
-- [Cruise soft-launches robotaxi rides in Phoenix and Austin](https://techcrunch.com/2022/12/20/cruise-soft-launches-robotaxi-rides-in-phoenix-and-austin/)
-- [The best books that venture capitalists read in 2022](https://techcrunch.com/2022/12/20/the-best-books-that-venture-capitalists-read-in-2022/)
-- [Ukraine lines up 10,000 more Starlink terminals as funding issues are ‘resolved’](https://techcrunch.com/2022/12/20/ukraine-lines-up-10000-more-starlink-terminals-as-funding-issues-are-resolved/)
-- [SpaceX aims to start launching next-gen Starlink satellites this month: report](https://www.space.com/spacex-starlink-satellite-new-generation-launch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
