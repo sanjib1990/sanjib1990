@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [China picks 4 international payloads for historic sample-return mission to moon&#39;s far side](https://www.space.com/china-moon-far-side-sample-return-mission-payloads)
-- [Apple fixes bug that let malicious apps skirt macOS’ security protections](https://techcrunch.com/2022/12/20/macos-gatekeeper-bug-microsoft/)
-- [Ursid meteor shower shines with ideal dark sky conditions this year](https://www.space.com/ursid-meteor-shower-dark-moon-dec-2022)
-- [Porsche pumps first synthetic fuel as Chilean plant finally starts producing](https://techcrunch.com/2022/12/20/porsche-pumps-first-synthetic-fuel-as-chilean-plant-finally-starts-producing/)
-- [Europa&#39;s icy crust may let more material into hidden ocean than thought](https://www.space.com/europa-comet-strikes-life-melt-ice-shell)
+- [This VC is bullish about American dynamism – ‘the real one’](https://techcrunch.com/2022/12/20/this-vc-is-bullish-about-american-dynamism-the-real-one/)
+- [Vercel makes it easier to collaborate on preview deployments](https://techcrunch.com/2022/12/20/vercel-makes-it-easier-to-collaborate-on-preview-deployments/)
+- [Salute Apollo 17&#39;s 50th anniversary with freshly restored moon mission shots](https://www.space.com/apollo-17-remastered-50th-anniversary)
+- [Watch Europe&#39;s Vega C rocket launch its 2nd mission Tuesday night](https://www.space.com/vega-c-rocket-launch-december-2022)
+- [Remembering the startups we lost in 2022](https://techcrunch.com/2022/12/20/remembering-the-startups-we-lost-in-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
