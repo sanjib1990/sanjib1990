@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: New Point-E AI allows users to generate 3D objects from detailed text prompts](https://techcrunch.com/2022/12/20/daily-crunch-new-point-e-ai-allows-users-to-generate-3d-objects-from-detailed-text-prompts/)
+- [Tesla stock plunges as investors fear Twitter dramas, loss of China sales](https://techcrunch.com/2022/12/20/tesla-stock-plunges-as-investors-fear-twitter-dramas-loss-of-china-sales/)
+- [EU to probe $61B Broadcom-VMware deal over competition concerns](https://techcrunch.com/2022/12/20/eu-to-probe-61b-broadcom-vmware-deal-over-competition-concerns/)
 - [Rocket Lab’s first mission from Virginia delayed until 2023](https://techcrunch.com/2022/12/20/rocket-labs-first-mission-from-virginia-delayed-until-2023/)
-- [NASA’s InSight mission is winding down — look back at the Mars lander’s many accomplishments](https://techcrunch.com/2022/12/20/nasas-insight-mission-is-winding-down-look-back-at-the-mars-landers-many-accomplishments/)
-- [Two potentially habitable Earth-like worlds orbit a star in our cosmic backyard](https://www.space.com/potentially-habitable-earth-like-worlds-cosmic-backyard)
-- [More investors, more problems](https://techcrunch.com/2022/12/20/more-investors-more-problems/)
-- [FTC puts Zuckerberg on the stand over Meta’s plan to acquire Within](https://techcrunch.com/2022/12/20/ftc-puts-zuckerberg-on-the-stand-over-metas-plan-to-acquire-within/)
+- [NASA’s InSight mission is winding down — a look back at the Mars lander’s many accomplishments](https://techcrunch.com/2022/12/20/nasas-insight-mission-is-winding-down-look-back-at-the-mars-landers-many-accomplishments/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
