@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Early-stage Mexico fintech Aviva is making loans as easy as a video call](https://techcrunch.com/2022/12/20/mexico-fintech-aviva-loans-video/)
-- [Superdense neutron star likely has solid crust, NASA telescope finds](https://www.space.com/neutron-star-solid-crust-ixpe-telescope)
-- [Simplify debugging to reduce the complexity of embedded system development](https://techcrunch.com/2022/12/20/simplify-debugging-to-reduce-the-complexity-of-embedded-system-development/)
-- [TikTok’s new feature will tell you why a particular video appeared in your For You feed](https://techcrunch.com/2022/12/20/tiktoks-tell-you-why-a-particular-video-appeared-in-for-you-feed/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [Europa&#39;s icy crust may let more material into hidden ocean than thought](https://www.space.com/europa-comet-strikes-life-melt-ice-shell)
+- [User Interviews, which helps companies recruit survey participants, raises $27.5M](https://techcrunch.com/2022/12/20/user-interviews-which-helps-companies-recruit-survey-participants-raises-27-5m/)
+- [We had thoughts in 2022. Here are the top takes from the TechCrunch+ team](https://techcrunch.com/2022/12/20/we-had-thoughts-in-2022-here-are-the-top-takes-from-the-techcrunch-team/)
+- [Banish vanity metrics from your startup’s pitch deck](https://techcrunch.com/2022/12/20/banish-vanity-metrics-from-your-startups-pitch-deck/)
+- [Amazon and EU settle two antitrust cases, including one focused on merchant data abuse](https://techcrunch.com/2022/12/20/amazon-and-eu-settle-two-antitrust-cases-including-one-focused-on-merchant-data-abuse/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
