@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Winter solstice 2022 brings the longest night of the year to Northern Hemisphere](https://www.space.com/winter-solstice-longest-night-northern-hemisphere--dec-21-2022)
+- [8 ways the James Webb Space Telescope is revolutionizing astronomy](https://www.space.com/james-webb-space-telescope-revolutionizing-astronomy)
 - [Google Play now lets children send purchase requests to guardians](https://techcrunch.com/2022/12/21/google-play-now-lets-children-send-purchase-requests-to-guardians/)
 - [India central bank chief warns crypto will cause the next financial crisis if permitted to grow](https://techcrunch.com/2022/12/20/india-central-bank-chief-warns-crypto-will-cause-the-next-financial-crisis-if-permitted-to-grow/)
 - [As expats fled China’s zero-COVID, this developer built a sci-fi game for NetEase](https://techcrunch.com/2022/12/20/cygnus-enterprise-netease-game-miaozi/)
-- [Europe&#39;s Vega C rocket fails on 2nd-ever mission, 2 satellites lost](https://www.space.com/arianespace-vega-c-launch-failure-december-2022)
-- [This autonomous ornithopter lands and perches on a single claw](https://techcrunch.com/2022/12/20/this-autonomous-ornithopter-lands-and-perches-on-a-single-claw/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
