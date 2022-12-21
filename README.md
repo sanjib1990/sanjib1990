@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [There&#39;s a new trailer for the sci-fi movie &#39;65&#39; and it looks fantastic](https://www.space.com/65-trailer-release-how-it-looks)
+- [The sun is waking up, and the world&#39;s largest solar telescope is watching](https://www.space.com/solar-cycle-science-eclipses-observatories)
+- [How to solve the financial close dilemma: 3 strategies that never fail](https://techcrunch.com/2022/12/21/how-to-solve-the-financial-close-dilemma-3-strategies-that-never-fail/)
 - [Winter solstice 2022 brings the longest night of the year to Northern Hemisphere](https://www.space.com/winter-solstice-longest-night-northern-hemisphere--dec-21-2022)
 - [8 ways the James Webb Space Telescope is revolutionizing astronomy](https://www.space.com/james-webb-space-telescope-revolutionizing-astronomy)
-- [Google Play now lets children send purchase requests to guardians](https://techcrunch.com/2022/12/21/google-play-now-lets-children-send-purchase-requests-to-guardians/)
-- [India central bank chief warns crypto will cause the next financial crisis if permitted to grow](https://techcrunch.com/2022/12/20/india-central-bank-chief-warns-crypto-will-cause-the-next-financial-crisis-if-permitted-to-grow/)
-- [As expats fled China’s zero-COVID, this developer built a sci-fi game for NetEase](https://techcrunch.com/2022/12/20/cygnus-enterprise-netease-game-miaozi/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
