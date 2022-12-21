@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [First &#39;Barbie&#39; teaser trailer parodies Stanley Kubrick&#39;s &#39;2001: A Space Odyssey&#39;](https://www.space.com/barbie-trailer-2001-space-odyssey-homage)
+- [The best books that startup founders read in 2022](https://techcrunch.com/2022/12/21/the-best-books-that-startup-founders-read-in-2022/)
+- [Brex’s 2022 reality](https://techcrunch.com/2022/12/21/brexs-2022-reality/)
+- [British newspaper The Guardian says it’s been hit by ransomware](https://techcrunch.com/2022/12/21/the-guardian-ransomware/)
 - [Starbucks’ NFT program may drive more digital collectible integrations with big brands](https://techcrunch.com/2022/12/21/starbucks-nft-program-may-drive-more-digital-collectible-integrations-with-big-brands/)
-- [Healthcare data is a mess and Metriport is here with a broom](https://techcrunch.com/2022/12/21/metriport-funding/)
-- [Russian space debris forces space station to dodge, cancels US spacewalk](https://www.space.com/russian-space-debris-cancels-nasa-spacewalk)
-- [There&#39;s a new trailer for the sci-fi movie &#39;65&#39; and it looks fantastic](https://www.space.com/65-trailer-release-how-it-looks)
-- [The sun is waking up, and the world&#39;s largest solar telescope is watching](https://www.space.com/solar-cycle-science-eclipses-observatories)
 <!-- BLOG-POST-LIST:END -->
 
 ---
