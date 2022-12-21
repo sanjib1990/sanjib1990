@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SBF is headed back to the U.S. as he faces a number of criminal charges](https://techcrunch.com/2022/12/21/sbf-is-headed-back-to-the-u-s-as-he-faces-a-number-of-criminal-charges/)
-- [Ingenuity Mars helicopter tests new software on 37th Red Planet flight &lpar;video&rpar;](https://www.space.com/ingenuity-mars-helicopter-37th-flight-new-software)
-- [How to make the most of your investor relationships in 2023](https://techcrunch.com/2022/12/21/how-to-make-the-most-of-your-investor-relationships-in-2023/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [TechCrunch Early Stage focuses on fledgling founders](https://techcrunch.com/2022/12/21/techcrunch-early-stage-focuses-on-fledgling-founders/)
+- [James Webb Space Telescope Operations Update](https://blogs.nasa.gov/webb/2022/12/21/james-webb-space-telescope-operations-update/)
+- [Tesla said to be conducting a fresh round of layoffs next quarter](https://techcrunch.com/2022/12/21/tesla-said-to-be-conducting-a-fresh-round-of-layoffs-next-quarter/)
+- [Quora launches Poe, a way to talk to AI chatbots like ChatGPT](https://techcrunch.com/2022/12/21/quora-launches-poe-a-way-to-talk-to-ai-chatbots-like-chatgpt/)
+- [South Park creators’ deepfake video startup Deep Voodoo conjures $20M in new funding](https://techcrunch.com/2022/12/21/south-park-creators-deepfake-video-startup-deep-voodoo-conjures-20m-in-new-funding/)
+- [SBF is headed back to the US to face a number of criminal charges](https://techcrunch.com/2022/12/21/sbf-is-headed-back-to-the-u-s-as-he-faces-a-number-of-criminal-charges/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
