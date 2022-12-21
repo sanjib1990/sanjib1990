@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [We could build space cities in asteroids like in sci-fi with this wild concept](https://www.space.com/wild-asteroid-concept-the-expanse-cities)
-- [Investor interest in SpaceX appears immune to Musk’s meddling](https://techcrunch.com/2022/12/21/investor-interest-in-spacex-appears-immune-to-musks-meddling/)
-- [Kickstarter shut down the campaign for AI porn group Unstable Diffusion amid changing guidelines](https://techcrunch.com/2022/12/21/kickstarter-shut-down-the-campaign-for-ai-porn-group-unstable-diffusion-amid-changing-guidelines/)
-- [Baby stars &#39;burp&#39; in Orion Nebula after frantic feeding sessions](https://www.space.com/baby-stars-burp-in-orion-nebula)
-- [James Webb Space Telescope Operations Update](https://blogs.nasa.gov/webb/2022/12/21/james-webb-space-telescope-operations-update/)
+- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
+- [Self-driving truck company TuSimple to lay off 25% of workforce](https://techcrunch.com/2022/12/21/self-driving-truck-company-tusimple-to-lay-off-25-of-workforce/)
+- [It was a big year for the space industry. 2023 will be even bigger.](https://techcrunch.com/2022/12/21/it-was-a-big-year-for-the-space-industry-2023-will-be-even-bigger/)
+- [Netflix branches out into fitness content with upcoming launch of Nike Training Club classes](https://techcrunch.com/2022/12/21/netflix-branches-out-into-fitness-content-nike-training-club-classes/)
+- [James Webb Space Telescope back to science operations after glitch](https://www.space.com/james-webb-space-telescope-glitch-2022)
 <!-- BLOG-POST-LIST:END -->
 
 ---
