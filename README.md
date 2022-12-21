@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Starbucks’ NFT program may drive more digital collectible integrations with big brands](https://techcrunch.com/2022/12/21/starbucks-nft-program-may-drive-more-digital-collectible-integrations-with-big-brands/)
+- [Healthcare data is a mess and Metriport is here with a broom](https://techcrunch.com/2022/12/21/metriport-funding/)
+- [Russian space debris forces space station to dodge, cancels US spacewalk](https://www.space.com/russian-space-debris-cancels-nasa-spacewalk)
 - [There&#39;s a new trailer for the sci-fi movie &#39;65&#39; and it looks fantastic](https://www.space.com/65-trailer-release-how-it-looks)
 - [The sun is waking up, and the world&#39;s largest solar telescope is watching](https://www.space.com/solar-cycle-science-eclipses-observatories)
-- [How to solve the financial close dilemma: 3 strategies that never fail](https://techcrunch.com/2022/12/21/how-to-solve-the-financial-close-dilemma-3-strategies-that-never-fail/)
-- [Winter solstice 2022 brings the longest night of the year to Northern Hemisphere](https://www.space.com/winter-solstice-longest-night-northern-hemisphere--dec-21-2022)
-- [8 ways the James Webb Space Telescope is revolutionizing astronomy](https://www.space.com/james-webb-space-telescope-revolutionizing-astronomy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
