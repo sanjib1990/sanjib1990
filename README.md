@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [As expats fled China’s zero-COVID, this developer built a sci-fi game for NetEase](https://techcrunch.com/2022/12/20/cygnus-enterprise-netease-game-miaozi/)
+- [Europe&#39;s Vega C rocket fails on 2nd-ever mission, 2 satellites lost](https://www.space.com/arianespace-vega-c-launch-failure-december-2022)
 - [This autonomous ornithopter lands and perches on a single claw](https://techcrunch.com/2022/12/20/this-autonomous-ornithopter-lands-and-perches-on-a-single-claw/)
 - [Sequoia’s Carl Eschenbach, who led deals for Zoom and Snowflake, to run Workday as co-CEO](https://techcrunch.com/2022/12/20/sequoias-carl-eschenbach-who-led-deals-for-zoom-and-snowflake-to-run-workday-as-co-ceo/)
 - [Daily Crunch: New Point-E AI allows users to generate 3D objects from detailed text prompts](https://techcrunch.com/2022/12/20/daily-crunch-new-point-e-ai-allows-users-to-generate-3d-objects-from-detailed-text-prompts/)
-- [Tesla stock plunges as investors fear Twitter dramas, loss of China sales](https://techcrunch.com/2022/12/20/tesla-stock-plunges-as-investors-fear-twitter-dramas-loss-of-china-sales/)
-- [EU to probe $61B Broadcom-VMware deal over competition concerns](https://techcrunch.com/2022/12/20/eu-to-probe-61b-broadcom-vmware-deal-over-competition-concerns/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
