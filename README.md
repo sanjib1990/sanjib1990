@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [We could build space cities in asteroids like in sci-fi with this wild concept](https://www.space.com/wild-asteroid-concept-the-expanse-cities)
+- [Investor interest in SpaceX appears immune to Musk’s meddling](https://techcrunch.com/2022/12/21/investor-interest-in-spacex-appears-immune-to-musks-meddling/)
+- [Kickstarter shut down the campaign for AI porn group Unstable Diffusion amid changing guidelines](https://techcrunch.com/2022/12/21/kickstarter-shut-down-the-campaign-for-ai-porn-group-unstable-diffusion-amid-changing-guidelines/)
 - [Baby stars &#39;burp&#39; in Orion Nebula after frantic feeding sessions](https://www.space.com/baby-stars-burp-in-orion-nebula)
 - [James Webb Space Telescope Operations Update](https://blogs.nasa.gov/webb/2022/12/21/james-webb-space-telescope-operations-update/)
-- [Tesla said to be conducting a fresh round of layoffs next quarter](https://techcrunch.com/2022/12/21/tesla-said-to-be-conducting-a-fresh-round-of-layoffs-next-quarter/)
-- [Quora launches Poe, a way to talk to AI chatbots like ChatGPT](https://techcrunch.com/2022/12/21/quora-launches-poe-a-way-to-talk-to-ai-chatbots-like-chatgpt/)
-- [South Park creators’ deepfake video startup Deep Voodoo conjures $20M in new funding](https://techcrunch.com/2022/12/21/south-park-creators-deepfake-video-startup-deep-voodoo-conjures-20m-in-new-funding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
