@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dear Sophie: What are the pros and cons of the E-2 and L-1A visas?](https://techcrunch.com/2022/12/21/dear-sophie-what-are-the-pros-and-cons-of-the-e-2-and-l-1a-visas/)
+- [Blue Origin offers new bobbleheads of 1st New Shepard female fliers](https://www.space.com/blue-origin-new-shepard-bobbleheads)
+- [NASA&#39;s Mars InSight lander ends mission after losing power](https://www.space.com/nasa-mars-insight-lander-mission-ends)
+- [Solid Power and BMW’s R&amp;D deal offers a sneak peek into the battery industry’s future](https://techcrunch.com/2022/12/21/solid-power-and-bmws-rd-deal-offers-a-sneak-peek-into-the-battery-industrys-future/)
 - [Gynger launches out of stealth to loan companies cash for software](https://techcrunch.com/2022/12/21/gynger-launches-out-of-stealth-to-loan-companies-cash-for-software/)
-- [Tracking CO2 emissions from space could help support climate agreements](https://www.space.com/tracking-co2-emissions-from-space-climate-agreements)
-- [Snapchat+ adds new customization features and the option to gift a subscription](https://techcrunch.com/2022/12/21/snapchat-adds-new-customization-features-and-the-option-to-gift-a-subscription-to-a-friend/)
-- [First &#39;Barbie&#39; teaser trailer parodies Stanley Kubrick&#39;s &#39;2001: A Space Odyssey&#39;](https://www.space.com/barbie-trailer-2001-space-odyssey-homage)
-- [The best books that startup founders read in 2022](https://techcrunch.com/2022/12/21/the-best-books-that-startup-founders-read-in-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
