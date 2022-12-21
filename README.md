@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Gynger launches out of stealth to loan companies cash for software](https://techcrunch.com/2022/12/21/gynger-launches-out-of-stealth-to-loan-companies-cash-for-software/)
+- [Tracking CO2 emissions from space could help support climate agreements](https://www.space.com/tracking-co2-emissions-from-space-climate-agreements)
+- [Snapchat+ adds new customization features and the option to gift a subscription](https://techcrunch.com/2022/12/21/snapchat-adds-new-customization-features-and-the-option-to-gift-a-subscription-to-a-friend/)
 - [First &#39;Barbie&#39; teaser trailer parodies Stanley Kubrick&#39;s &#39;2001: A Space Odyssey&#39;](https://www.space.com/barbie-trailer-2001-space-odyssey-homage)
 - [The best books that startup founders read in 2022](https://techcrunch.com/2022/12/21/the-best-books-that-startup-founders-read-in-2022/)
-- [Brex’s 2022 reality](https://techcrunch.com/2022/12/21/brexs-2022-reality/)
-- [British newspaper The Guardian says it’s been hit by ransomware](https://techcrunch.com/2022/12/21/the-guardian-ransomware/)
-- [Starbucks’ NFT program may drive more digital collectible integrations with big brands](https://techcrunch.com/2022/12/21/starbucks-nft-program-may-drive-more-digital-collectible-integrations-with-big-brands/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
