@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Mars&#39; ancient atmosphere may not have had much oxygen after all](https://www.space.com/ancient-mars-atmosphere-no-oxygen)
-- [Holiday shipping is easier this year, but the tech is still lagging](https://techcrunch.com/2022/12/22/holiday-shipping-is-easier-this-year-but-the-tech-is-still-lagging/)
-- [VFX studio Perception takes us inside the tech of ‘Black Panther: Wakanda Forever’](https://techcrunch.com/2022/12/22/vfx-studio-perception-black-panther-wakanda-forever/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [James Webb Space Telescope spots mesmerizing wreath-like galaxy](https://www.space.com/james-webb-space-telescope-wreath-galaxy-image)
+- [Uniswap Labs’ COO will judge pitches at the CCC Web3 Demo Day](https://techcrunch.com/2022/12/22/uniswap-labs-coo-will-judge-pitches-at-the-ccc-web3-demo-day/)
+- [Amid renewed interest, startups are changing how bonds are traded](https://techcrunch.com/2022/12/22/amid-renewed-interest-startups-are-changing-how-bonds-are-traded/)
+- [Who is Astrobotic Technology and what do they do?](https://www.space.com/astrobotic-technology)
+- [Twitter now shows how many people view your tweets](https://techcrunch.com/2022/12/22/twitter-now-shows-how-many-people-view-your-tweets/)
+- [Why do NASA&#39;s Mars Perseverance rover sample tubes look like Star Wars lightsabers?](https://www.space.com/nasa-mars-perseverance-rover-sample-tubes-lightsabers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
