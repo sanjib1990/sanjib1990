@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Automotus raises $9M to scale automated curb management tech](https://techcrunch.com/2022/12/22/automotus-raises-9m-to-scale-automated-curb-management-tech/)
-- [A brief history of diffusion, the tech at the heart of modern image-generating AI](https://techcrunch.com/2022/12/22/a-brief-history-of-diffusion-the-tech-at-the-heart-of-modern-image-generating-ai/)
-- [Wind farms on Mars could power future astronaut bases](https://www.space.com/mars-wind-power-support-red-planet-missions)
-- [Avoid 3 common sales mistakes startups make during a downturn](https://techcrunch.com/2022/12/22/how-to-avoid-3-common-sales-mistakes-startups-make-in-a-downturn/)
-- [On This Day In Space: Dec. 22, 1966: 1st flight of the HL-10 lifting body](https://www.space.com/39251-on-this-day-in-space.html)
+- [YouTube secures NFL Sunday Ticket in landmark streaming deal](https://techcrunch.com/2022/12/22/youtube-secures-nfl-sunday-ticket-in-landmark-streaming-deal/)
+- [The future of milk is … milk?](https://techcrunch.com/2022/12/22/the-future-of-milk-is-milk/)
+- [NASA watches black hole snack on destroyed star&#39;s corpse](https://www.space.com/black-holes-snacks-on-dead-star-corona)
+- [Okta confirms another breach after hackers steal source code](https://techcrunch.com/2022/12/22/okta-breach-source-code-github/)
+- [US military reports &#39;several hundred&#39; UFO sightings in 2022, Pentagon officials claim](https://www.space.com/hundreds-of-ufo-reports)
 <!-- BLOG-POST-LIST:END -->
 
 ---
