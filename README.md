@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pitch Deck Teardown: Card Blanch’s $460K deck for its angel round](https://techcrunch.com/2022/12/22/sample-angel-pitch-deck-card-blanch/)
+- [Twitter lays off employees in public policy, engineering](https://techcrunch.com/2022/12/22/twitter-lays-off-employees-in-public-policy-engineering/)
+- [Hole in leaky Russian Soyuz spacecraft not caused by Geminid meteor](https://www.space.com/russian-soyuz-spacecraft-leak-not-geminid-meteor)
+- [NASA&#39;s Artemis 1 Orion space capsule begins cross-country trip home to Florida](https://www.space.com/nasa-artemis-1-orion-moon-spacecraft-journey-florida)
 - [US Space Force practices &#39;space combat tactics&#39; to win a European conflict](https://www.space.com/space-force-combat-tactics-european-conflict)
-- [Deliver Us Mars preview: lasers, rock climbing, and uncovering Martian mysteries](https://www.space.com/deliver-us-mars-preview)
-- [Fatal police shooting of startup founder puts Austin’s diversity problem in the spotlight](https://techcrunch.com/2022/12/22/fatal-police-shooting-of-startup-founder-puts-austins-diversity-problem-in-the-spotlight/)
-- [Reliance buys 23.3% stake in US-based AI firm Exyn](https://techcrunch.com/2022/12/22/reliance-buys-23-3-stake-in-us-based-ai-firm-exyn/)
-- [Uniswap Labs’ COO will judge pitches at the CCC Web3 Demo Day](https://techcrunch.com/2022/12/22/uniswap-labs-coo-will-judge-pitches-at-the-ccc-web3-demo-day/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
