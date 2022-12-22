@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [FTX co-founder Gary Wang and Alameda’s Caroline Ellison plead guilty to criminal charges](https://techcrunch.com/2022/12/22/ftx-co-founder-gary-wang-and-alamedas-caroline-ellison-plead-guilty-to-criminal-charges/)
+- [The Ursid meteor shower, last &#39;shooting stars&#39; of 2022, peaks tonight](https://www.space.com/ursid-meteor-shower-last-shooting-stars-2022)
+- [James Webb Space Telescope meets the 7 intriguing exoplanets of TRAPPIST-1](https://www.space.com/james-webb-space-telescope-trappist-planets)
+- [Twitter now displays stock and cryptocurrency prices directly in search results](https://techcrunch.com/2022/12/22/twitter-now-displays-stock-and-cryptocurrency-prices-directly-in-search-results/)
 - [15 gift ideas for every stargazer this holiday season 2022](https://www.space.com/15-gifts-every-stargazer-holiday-season-2022)
-- [Vianova builds the location data platform for shared mobility companies and cities](https://techcrunch.com/2022/12/21/vianova-builds-the-location-data-platform-for-shared-mobility-companies-and-cities/)
-- [Daily Crunch: UK-based news site The Guardian under ransomware attack, editor says](https://techcrunch.com/2022/12/21/daily-crunch-uk-based-news-site-the-guardian-under-ransomware-attack-editor-says/)
-- [NASA&#39;s Mars Perseverance rover just dropped its 1st sample on the Martian surface](https://www.space.com/nasa-perservance-rover-mars-sample-first-tube-dropped)
-- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
