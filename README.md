@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [YouTube secures NFL Sunday Ticket in landmark streaming deal](https://techcrunch.com/2022/12/22/youtube-secures-nfl-sunday-ticket-in-landmark-streaming-deal/)
-- [The future of milk is … milk?](https://techcrunch.com/2022/12/22/the-future-of-milk-is-milk/)
-- [NASA watches black hole snack on destroyed star&#39;s corpse](https://www.space.com/black-holes-snacks-on-dead-star-corona)
-- [Okta confirms another breach after hackers steal source code](https://techcrunch.com/2022/12/22/okta-breach-source-code-github/)
-- [US military reports &#39;several hundred&#39; UFO sightings in 2022, Pentagon officials claim](https://www.space.com/hundreds-of-ufo-reports)
+- [Mars&#39; ancient atmosphere may not have had much oxygen after all](https://www.space.com/ancient-mars-atmosphere-no-oxygen)
+- [Holiday shipping is easier this year, but the tech is still lagging](https://techcrunch.com/2022/12/22/holiday-shipping-is-easier-this-year-but-the-tech-is-still-lagging/)
+- [VFX studio Perception takes us inside the tech of ‘Black Panther: Wakanda Forever’](https://techcrunch.com/2022/12/22/vfx-studio-perception-black-panther-wakanda-forever/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [James Webb Space Telescope spots mesmerizing wreath-like galaxy](https://www.space.com/james-webb-space-telescope-wreath-galaxy-image)
 <!-- BLOG-POST-LIST:END -->
 
 ---
