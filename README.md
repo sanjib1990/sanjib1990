@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Vianova builds the location data platform for shared mobility companies and cities](https://techcrunch.com/2022/12/21/vianova-builds-the-location-data-platform-for-shared-mobility-companies-and-cities/)
 - [Daily Crunch: UK-based news site The Guardian under ransomware attack, editor says](https://techcrunch.com/2022/12/21/daily-crunch-uk-based-news-site-the-guardian-under-ransomware-attack-editor-says/)
 - [NASA&#39;s Mars Perseverance rover just dropped its 1st sample on the Martian surface](https://www.space.com/nasa-perservance-rover-mars-sample-first-tube-dropped)
 - [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
 - [Self-driving truck company TuSimple to lay off 25% of workforce](https://techcrunch.com/2022/12/21/self-driving-truck-company-tusimple-to-lay-off-25-of-workforce/)
-- [It was a big year for the space industry. 2023 will be even bigger](https://techcrunch.com/2022/12/21/it-was-a-big-year-for-the-space-industry-2023-will-be-even-bigger/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
