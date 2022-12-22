@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [‘Tis the season for more FTX charges](https://techcrunch.com/2022/12/22/tis-the-season-for-sbfs-extradition/)
+- [3 Black investors talk about what they’re looking for in 2023](https://techcrunch.com/2022/12/22/3-black-investors-talk-about-what-theyre-looking-for-in-2023/)
+- [Notes on robotics research](https://techcrunch.com/2022/12/22/2451921/)
 - [Pitch Deck Teardown: Card Blanch’s $460K deck for its angel round](https://techcrunch.com/2022/12/22/sample-angel-pitch-deck-card-blanch/)
 - [Twitter lays off employees in public policy, engineering](https://techcrunch.com/2022/12/22/twitter-lays-off-employees-in-public-policy-engineering/)
-- [Hole in leaky Russian Soyuz spacecraft not caused by Geminid meteor](https://www.space.com/russian-soyuz-spacecraft-leak-not-geminid-meteor)
-- [NASA&#39;s Artemis 1 Orion space capsule begins cross-country trip home to Florida](https://www.space.com/nasa-artemis-1-orion-moon-spacecraft-journey-florida)
-- [US Space Force practices &#39;space combat tactics&#39; to win a European conflict](https://www.space.com/space-force-combat-tactics-european-conflict)
 <!-- BLOG-POST-LIST:END -->
 
 ---
