@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Automotus raises $9M to scale automated curb management tech](https://techcrunch.com/2022/12/22/automotus-raises-9m-to-scale-automated-curb-management-tech/)
+- [A brief history of diffusion, the tech at the heart of modern image-generating AI](https://techcrunch.com/2022/12/22/a-brief-history-of-diffusion-the-tech-at-the-heart-of-modern-image-generating-ai/)
 - [Wind farms on Mars could power future astronaut bases](https://www.space.com/mars-wind-power-support-red-planet-missions)
 - [Avoid 3 common sales mistakes startups make during a downturn](https://techcrunch.com/2022/12/22/how-to-avoid-3-common-sales-mistakes-startups-make-in-a-downturn/)
 - [On This Day In Space: Dec. 22, 1966: 1st flight of the HL-10 lifting body](https://www.space.com/39251-on-this-day-in-space.html)
-- [Why a low-cost telescope is perfect this holiday season 2022](https://www.space.com/low-cost-telescope-this-holiday-season)
-- [FTX co-founder Gary Wang and Alameda’s Caroline Ellison plead guilty to criminal charges](https://techcrunch.com/2022/12/22/ftx-co-founder-gary-wang-and-alamedas-caroline-ellison-plead-guilty-to-criminal-charges/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
