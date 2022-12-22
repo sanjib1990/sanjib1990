@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [LastPass says hackers stole customers’ password vaults](https://techcrunch.com/2022/12/22/lastpass-customer-password-vaults-stolen/)
 - [NASA astronauts unfurl 4th roll-out solar array on spacewalk outside space station](https://www.space.com/astronauts-spacewalk-international-space-station-fourth-solar-array-deployed)
 - [Tesla’s $7,500 discount feels desperate, and it’s giving investors the ick](https://techcrunch.com/2022/12/22/teslas-7500-discount-feels-desperate-and-its-giving-investors-the-ick/)
 - [‘Tis the season for more FTX charges](https://techcrunch.com/2022/12/22/tis-the-season-for-sbfs-extradition/)
 - [3 Black investors talk about what they’re looking for in 2023](https://techcrunch.com/2022/12/22/3-black-investors-talk-about-what-theyre-looking-for-in-2023/)
-- [Notes on robotics research](https://techcrunch.com/2022/12/22/2451921/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
