@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Why my chat app broke… a cautionary tale](https://www.youtube.com/watch?v=M93w3TjzVUE)
 - [From Open Access to Educational Equity: An HBCU+MERLOT+MIT OCW Collaboration](https://www.youtube.com/watch?v=-htdFMTbPvg)
 - [Database Sharting Explained](https://www.youtube.com/watch?v=K7iRfOs-aUw)
 - [MDE under the Hood &lpar;Model Driven Engineering&rpar; - Computerphile](https://www.youtube.com/watch?v=flWqmB4UaBA)
 - [I built a $5 chat app with Pocketbase &amp; Svelte. Will it scale?](https://www.youtube.com/watch?v=gUYBFDPZ5qk)
-- [A Guide of how to get started in IT in 2023 - Top IT Career Paths](https://www.youtube.com/watch?v=XmWkcePhf84)
 <!-- YOUTUBE:END -->
 
 ---
