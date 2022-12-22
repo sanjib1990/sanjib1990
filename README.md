@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [US Space Force practices &#39;space combat tactics&#39; to win a European conflict](https://www.space.com/space-force-combat-tactics-european-conflict)
+- [Deliver Us Mars preview: lasers, rock climbing, and uncovering Martian mysteries](https://www.space.com/deliver-us-mars-preview)
+- [Fatal police shooting of startup founder puts Austin’s diversity problem in the spotlight](https://techcrunch.com/2022/12/22/fatal-police-shooting-of-startup-founder-puts-austins-diversity-problem-in-the-spotlight/)
+- [Reliance buys 23.3% stake in US-based AI firm Exyn](https://techcrunch.com/2022/12/22/reliance-buys-23-3-stake-in-us-based-ai-firm-exyn/)
 - [Uniswap Labs’ COO will judge pitches at the CCC Web3 Demo Day](https://techcrunch.com/2022/12/22/uniswap-labs-coo-will-judge-pitches-at-the-ccc-web3-demo-day/)
-- [Amid renewed interest, startups are changing how bonds are traded](https://techcrunch.com/2022/12/22/amid-renewed-interest-startups-are-changing-how-bonds-are-traded/)
-- [Who is Astrobotic Technology and what do they do?](https://www.space.com/astrobotic-technology)
-- [Twitter now shows how many people view your tweets](https://techcrunch.com/2022/12/22/twitter-now-shows-how-many-people-view-your-tweets/)
-- [Why do NASA&#39;s Mars Perseverance rover sample tubes look like Star Wars lightsabers?](https://www.space.com/nasa-mars-perseverance-rover-sample-tubes-lightsabers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
