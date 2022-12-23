@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google appeals against India’s fine over business practices on Android](https://techcrunch.com/2022/12/23/google-appeals-against-india-fine-over-unfair-business-practices-on-android/)
+- [Google appeals against India’s fine over ‘unfair’ business practices on Android](https://techcrunch.com/2022/12/23/google-appeals-against-india-fine-over-unfair-business-practices-on-android/)
 - [Persistent Jack Sweeney brings back @ElonJet &lpar;but delayed&rpar; to Twitter](https://techcrunch.com/2022/12/22/jack-sweeney-brings-back-elonjet-but-delayed-to-twitter/)
 - [Twitter Blue users can now upload 60-minute long videos](https://techcrunch.com/2022/12/22/twitter-blue-users-can-now-upload-60-minute-long-videos/)
 - [Flipkart and PhonePe complete separation](https://techcrunch.com/2022/12/22/flipkart-and-phonepe-complete-separation/)
