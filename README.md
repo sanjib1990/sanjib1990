@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [While Amazon had a rocky year, AWS remains reliable cash cow](https://techcrunch.com/2022/12/23/while-amazon-had-a-rocky-year-aws-remains-reliable-cash-cow/)
-- [Questions linger over Facebook, Twitter, TikTok’s commitment to uphold election integrity in Africa, as countries head to polls](https://techcrunch.com/2022/12/23/questions-linger-over-facebook-twitter-tittoks-commitment-to-uphold-election-integrity-in-africa-as-countries-head-to-polls/)
-- [How artificial intelligence is helping us explore the solar system](https://www.space.com/solar-system-planetary-science-machine-learning)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [The Celestron PowerSeeker 127EQ is 30% off and arrives before new year](https://www.space.com/celestron-powerseeker-127eq-save-30-percent-december-2022)
+- [TechCrunch+ roundup: Headcount data study, SaaS sales mistakes, financial close strategies](https://techcrunch.com/2022/12/23/techcrunch-roundup-headcount-data-study-saas-sales-mistakes-financial-close-strategies/)
+- [No chimney? No problem! How Santa will visit astronauts on the International Space Station &lpar;video&rpar;](https://www.space.com/santa-international-space-station-airlock-holiday)
+- [Backed by Electrolux, Mila raises at a $52M valuation to add smarts to fresh air](https://techcrunch.com/2022/12/23/mila-series-a/)
+- [Winter storm from &#39;bomb cyclone&#39; hits eastern US as satellites watch &lpar;video&rpar;](https://www.space.com/winter-storm-united-states-satellites-december-2022)
+- [The Christmas night sky 2022: The planets pay a holiday visit](https://www.space.com/42845-christmas-night-sky-stargazing-guide.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
