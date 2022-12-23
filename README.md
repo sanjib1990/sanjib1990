@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Flipkart and PhonePe complete separation](https://techcrunch.com/2022/12/22/flipkart-and-phonepe-complete-separation/)
 - [Daily Crunch: 2 former SBF associates plead guilty to fraud and are cooperating with US federal prosecutors](https://techcrunch.com/2022/12/22/daily-crunch-2-former-sbf-associates-plead-guilty-to-fraud-and-are-cooperating-with-us-federal-prosecutors/)
 - [The FCC can finally hammer predatory prison phone call companies, thanks to just-passed bill](https://techcrunch.com/2022/12/22/the-fcc-can-finally-hammer-predatory-prison-phonecall-companies-thanks-to-just-passed-bill/)
 - [LastPass says hackers stole customers’ password vaults](https://techcrunch.com/2022/12/22/lastpass-customer-password-vaults-stolen/)
 - [NASA astronauts unfurl 4th roll-out solar array on spacewalk outside space station](https://www.space.com/astronauts-spacewalk-international-space-station-fourth-solar-array-deployed)
-- [Tesla’s $7,500 discount feels desperate, and it’s giving investors the ick](https://techcrunch.com/2022/12/22/teslas-7500-discount-feels-desperate-and-its-giving-investors-the-ick/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
