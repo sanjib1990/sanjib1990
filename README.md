@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Can space-based solar power really work? Here are the pros and cons.](https://www.space.com/space-solar-power-pros-cons)
 - [TechCrunch’s Favorite Things of 2022](https://techcrunch.com/2022/12/23/techcrunchs-favorite-things-of-2022/)
 - [How Mastodon is scaling amid the Twitter exodus](https://techcrunch.com/2022/12/23/how-mastodon-is-scaling-amid-the-twitter-exodus/)
 - [Mastodon creator Eugen Rochko talks funding and how to build the anti-Twitter](https://techcrunch.com/2022/12/23/mastodon-creator-eugen-rochko-talks-funding-and-how-to-build-the-anti-twitter/)
 - [One of the world&#39;s largest lasers could be used to detect alien warp drives](https://www.space.com/ligo-to-detect-alien-spaceships)
-- [China&#39;s space station releases small test satellite into orbit](https://www.space.com/china-tiangong-space-station-releases-satellite)
 <!-- BLOG-POST-LIST:END -->
 
 ---
