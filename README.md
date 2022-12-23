@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [One of the world&#39;s largest lasers could be used to detect alien warp drives](https://www.space.com/ligo-to-detect-alien-spaceships)
+- [China&#39;s space station releases small test satellite into orbit](https://www.space.com/china-tiangong-space-station-releases-satellite)
+- [3 Black investors share what they are prepping for come the new year](https://techcrunch.com/2022/12/23/3-black-investors-share-what-they-are-prepping-for-come-the-new-year/)
 - [TechCrunch+ roundup: Headcount data study, SaaS sales mistakes, financial close strategies](https://techcrunch.com/2022/12/23/techcrunch-roundup-headcount-data-study-saas-sales-mistakes-financial-close-strategies/)
 - [No chimney? No problem! How Santa will visit astronauts on the International Space Station &lpar;video&rpar;](https://www.space.com/santa-international-space-station-airlock-holiday)
-- [Backed by Electrolux, Mila raises at a $52M valuation to add smarts to fresh air](https://techcrunch.com/2022/12/23/mila-series-a/)
-- [Winter storm from &#39;bomb cyclone&#39; hits eastern US as satellites watch &lpar;video&rpar;](https://www.space.com/winter-storm-united-states-satellites-december-2022)
-- [The Christmas night sky 2022: The planets pay a holiday visit](https://www.space.com/42845-christmas-night-sky-stargazing-guide.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
