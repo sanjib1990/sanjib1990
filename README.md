@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How artificial intelligence is helping us explore the solar system](https://www.space.com/solar-system-planetary-science-machine-learning)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [The Celestron PowerSeeker 127EQ is 30% off and arrives before new year](https://www.space.com/celestron-powerseeker-127eq-save-30-percent-december-2022)
 - [NASA highlights climate research at opening of inaugural summit](https://www.space.com/nasa-climate-change-earth-observing-research)
 - [Clean energy investments may close 2022 hitting new heights, setting stage for lofty 2023](https://techcrunch.com/2022/12/23/clean-energy-investments-may-close-2022-hitting-new-heights-setting-stage-for-lofty-2023/)
-- [Tesla announces a $300 charging mat that can recharge 3 devices at once](https://techcrunch.com/2022/12/23/tesla-300-charging-mat-airpower/)
-- [What are sundogs and how do they form?](https://www.space.com/sundogs-definition-formation-science)
-- [India’s Reliance backs US-based AI startup Exyn in $35 million funding](https://techcrunch.com/2022/12/23/reliance-buys-23-3-stake-in-us-based-ai-firm-exyn/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
