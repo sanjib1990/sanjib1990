@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Headcount growth is slowing as startups prepare for worst-case scenarios](https://techcrunch.com/2022/12/23/headcount-growth-is-slowing-as-startups-prepare-for-worst-case-scenarios/)
-- [James Webb Space Telescope&#39;s 1st year in space has blown astronomers away](https://www.space.com/james-webb-space-telescope-first-year-in-space)
-- [Santa Claus is coming to town! Here&#39;s how to track him this Christmas Eve with NORAD](https://www.space.com/norad-santa-tracker-christmas-2022)
-- [Facebook parent Meta to settle Cambridge Analytica class-action lawsuit for $725M](https://techcrunch.com/2022/12/23/meta-to-settle-facebooks-cambridge-analytica-class-action-lawsuit-for-725m/)
-- [Google appeals against India’s fine over ‘unfair’ business practices on Android](https://techcrunch.com/2022/12/23/google-appeals-against-india-fine-over-unfair-business-practices-on-android/)
+- [NASA highlights climate research at opening of inaugural summit](https://www.space.com/nasa-climate-change-earth-observing-research)
+- [Clean energy investments may close 2022 hitting new heights, setting stage for lofty 2023](https://techcrunch.com/2022/12/23/clean-energy-investments-may-close-2022-hitting-new-heights-setting-stage-for-lofty-2023/)
+- [Tesla announces a $300 charging mat that can recharge 3 devices at once](https://techcrunch.com/2022/12/23/tesla-300-charging-mat-airpower/)
+- [What are sundogs and how do they form?](https://www.space.com/sundogs-definition-formation-science)
+- [India’s Reliance backs US-based AI startup Exyn in $35 million funding](https://techcrunch.com/2022/12/23/reliance-buys-23-3-stake-in-us-based-ai-firm-exyn/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
