@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Facebook parent Meta to settle Cambridge Analytica class-action lawsuit for $725M](https://techcrunch.com/2022/12/23/meta-to-settle-facebooks-cambridge-analytica-class-action-lawsuit-for-725m/)
 - [Google appeals against India’s fine over ‘unfair’ business practices on Android](https://techcrunch.com/2022/12/23/google-appeals-against-india-fine-over-unfair-business-practices-on-android/)
 - [Persistent Jack Sweeney brings back @ElonJet &lpar;but delayed&rpar; to Twitter](https://techcrunch.com/2022/12/22/jack-sweeney-brings-back-elonjet-but-delayed-to-twitter/)
 - [Twitter Blue users can now upload 60-minute long videos](https://techcrunch.com/2022/12/22/twitter-blue-users-can-now-upload-60-minute-long-videos/)
 - [Flipkart and PhonePe complete separation](https://techcrunch.com/2022/12/22/flipkart-and-phonepe-complete-separation/)
-- [Daily Crunch: 2 former SBF associates plead guilty to fraud and are cooperating with US federal prosecutors](https://techcrunch.com/2022/12/22/daily-crunch-2-former-sbf-associates-plead-guilty-to-fraud-and-are-cooperating-with-us-federal-prosecutors/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
