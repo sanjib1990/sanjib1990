@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Headcount growth is slowing as startups prepare for worst-case scenarios](https://techcrunch.com/2022/12/23/headcount-growth-is-slowing-as-startups-prepare-for-worst-case-scenarios/)
 - [James Webb Space Telescope&#39;s 1st year in space has blown astronomers away](https://www.space.com/james-webb-space-telescope-first-year-in-space)
 - [Santa Claus is coming to town! Here&#39;s how to track him this Christmas Eve with NORAD](https://www.space.com/norad-santa-tracker-christmas-2022)
 - [Facebook parent Meta to settle Cambridge Analytica class-action lawsuit for $725M](https://techcrunch.com/2022/12/23/meta-to-settle-facebooks-cambridge-analytica-class-action-lawsuit-for-725m/)
 - [Google appeals against India’s fine over ‘unfair’ business practices on Android](https://techcrunch.com/2022/12/23/google-appeals-against-india-fine-over-unfair-business-practices-on-android/)
-- [Persistent Jack Sweeney brings back @ElonJet &lpar;but delayed&rpar; to Twitter](https://techcrunch.com/2022/12/22/jack-sweeney-brings-back-elonjet-but-delayed-to-twitter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
