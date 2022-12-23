@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Boom! Studios&#39; &#39;All-New Firefly&#39; series wraps up a stellar run with &#39;Big Damn Finale #1&#39;](https://www.space.com/all-new-firefly-big-damn-finale-comic-series-ends)
+- [Solar storm could make auroras visible from northern Maine or Michigan tonight](https://www.space.com/auroras-visible-northern-maine-michigan)
+- [Rescue Soyuz spacecraft can&#39;t reach International Space Station until February](https://www.space.com/international-space-station-rescue-soyuz-february)
 - [Can space-based solar power really work? Here are the pros and cons.](https://www.space.com/space-solar-power-pros-cons)
 - [TechCrunch’s Favorite Things of 2022](https://techcrunch.com/2022/12/23/techcrunchs-favorite-things-of-2022/)
-- [How Mastodon is scaling amid the Twitter exodus](https://techcrunch.com/2022/12/23/how-mastodon-is-scaling-amid-the-twitter-exodus/)
-- [Mastodon creator Eugen Rochko talks funding and how to build the anti-Twitter](https://techcrunch.com/2022/12/23/mastodon-creator-eugen-rochko-talks-funding-and-how-to-build-the-anti-twitter/)
-- [One of the world&#39;s largest lasers could be used to detect alien warp drives](https://www.space.com/ligo-to-detect-alien-spaceships)
 <!-- BLOG-POST-LIST:END -->
 
 ---
