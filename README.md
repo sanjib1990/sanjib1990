@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [While Amazon had a rocky year, AWS remains reliable cash cow](https://techcrunch.com/2022/12/23/while-amazon-had-a-rocky-year-aws-remains-reliable-cash-cow/)
+- [Questions linger over Facebook, Twitter, TikTok’s commitment to uphold election integrity in Africa, as countries head to polls](https://techcrunch.com/2022/12/23/questions-linger-over-facebook-twitter-tittoks-commitment-to-uphold-election-integrity-in-africa-as-countries-head-to-polls/)
 - [How artificial intelligence is helping us explore the solar system](https://www.space.com/solar-system-planetary-science-machine-learning)
 - [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [The Celestron PowerSeeker 127EQ is 30% off and arrives before new year](https://www.space.com/celestron-powerseeker-127eq-save-30-percent-december-2022)
-- [NASA highlights climate research at opening of inaugural summit](https://www.space.com/nasa-climate-change-earth-observing-research)
-- [Clean energy investments may close 2022 hitting new heights, setting stage for lofty 2023](https://techcrunch.com/2022/12/23/clean-energy-investments-may-close-2022-hitting-new-heights-setting-stage-for-lofty-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
