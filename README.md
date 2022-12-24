@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [What do Computer Scientists Read? - Computerphile](https://www.youtube.com/watch?v=dMYgY5FhO3M)
 - [you NEED to use VS Code RIGHT NOW!!](https://www.youtube.com/watch?v=1ZfO149BJvg)
 - [Why my chat app broke… a cautionary tale](https://www.youtube.com/watch?v=M93w3TjzVUE)
 - [From Open Access to Educational Equity: An HBCU+MERLOT+MIT OCW Collaboration](https://www.youtube.com/watch?v=-htdFMTbPvg)
 - [Database Sharting Explained](https://www.youtube.com/watch?v=K7iRfOs-aUw)
-- [MDE under the Hood &lpar;Model Driven Engineering&rpar; - Computerphile](https://www.youtube.com/watch?v=flWqmB4UaBA)
 <!-- YOUTUBE:END -->
 
 ---
