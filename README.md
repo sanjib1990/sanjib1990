@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Perseverance rover drops 2nd sample tube on Mars, its biggest early Christmas present yet for 2033](https://www.space.com/mars-perseverance-rover-drops-longest-sample-tube)
 - [Daily Crunch: Meta to pay $725M settlement in Cambridge Analytica data access case](https://techcrunch.com/2022/12/23/meta-to-pay-725m-settlement-in-cambridge-analytica-data-access-case/)
 - [Boom! Studios&#39; &#39;All-New Firefly&#39; series wraps up a stellar run with &#39;Big Damn Finale #1&#39;](https://www.space.com/all-new-firefly-big-damn-finale-comic-series-ends)
 - [Solar storm could make auroras visible from northern Maine or Michigan tonight](https://www.space.com/auroras-visible-northern-maine-michigan)
 - [Rescue Soyuz spacecraft can&#39;t reach International Space Station until February](https://www.space.com/international-space-station-rescue-soyuz-february)
-- [Can space-based solar power really work? Here are the pros and cons.](https://www.space.com/space-solar-power-pros-cons)
 <!-- BLOG-POST-LIST:END -->
 
 ---
