@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mars terrain highlighted by frosty features in &#39;winter wonderland&#39; image](https://www.space.com/mars-winter-wonderland-frosty-craters-image)
 - [See Mercury shine brightly in the sky this Christmas](https://www.space.com/mercury-bright-christmas-day-2022)
 - [The 12 biggest rocket failures of 2022 show why spaceflight is still hard](https://www.space.com/12-biggest-rocket-failures-2022)
 - [The top spaceflight stories of 2022 brought us across the solar system](https://www.space.com/12-biggest-spaceflight-mission-moments-2022)
 - [Perseverance rover drops 2nd sample tube on Mars, its biggest early Christmas present yet for 2033](https://www.space.com/mars-perseverance-rover-drops-longest-sample-tube)
-- [Daily Crunch: Meta to pay $725M settlement in Cambridge Analytica data access case](https://techcrunch.com/2022/12/23/meta-to-pay-725m-settlement-in-cambridge-analytica-data-access-case/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
