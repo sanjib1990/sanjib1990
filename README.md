@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This year in tech felt like a simulation](https://techcrunch.com/2022/12/24/this-year-in-tech-felt-like-a-simulation/)
 - [How to track Santa Claus this Christmas Eve](https://techcrunch.com/2022/12/24/how-to-track-santa-claus-this-christmas-eve-2022/)
 - [Mars is a &#39;winter wonderland&#39; in this frosty &lpar;and stunning&rpar; image from space](https://www.space.com/mars-winter-wonderland-frosty-craters-image)
 - [See Mercury shine brightly in the sky this Christmas](https://www.space.com/mercury-bright-christmas-day-2022)
 - [The 12 biggest rocket failures of 2022 show why spaceflight is still hard](https://www.space.com/12-biggest-rocket-failures-2022)
-- [The best spaceflight stories of 2022 brought us across the solar system](https://www.space.com/12-biggest-spaceflight-mission-moments-2022)
 <!-- BLOG-POST-LIST:END -->
 
 ---
