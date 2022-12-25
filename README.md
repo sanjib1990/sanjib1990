@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See the Christmas moon and 4 planets align as Jupiter, Saturn, Mercury and Venus offer a holiday treat this week!](https://www.space.com/christmas-moon-saturn-jupiter-mercury-venus-align-2022)
 - [Recreated &#39;Blue Marble&#39; photo of Earth tests powerful new climate model](https://www.space.com/blue-marble-recreation-climate-model-test)
 - [Watch an epic Christmas tree launch for the holidays by DIY &#39;Rocket-tree&#39; makers &lpar;videos&rpar;](https://www.space.com/christmas-tree-rocket-launch-2022-videos)
 - [Rick and Morty plunge into pit of Lovecraftian horror in new comic miniseries](https://www.space.com/rick-and-morty-vs-cthulhu-comic-series)
 - [This year in tech felt like a simulation](https://techcrunch.com/2022/12/24/this-year-in-tech-felt-like-a-simulation/)
-- [How to track Santa Claus this Christmas Eve](https://techcrunch.com/2022/12/24/how-to-track-santa-claus-this-christmas-eve-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
