@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Unwrap the alien magic of &#39;Avatar: The Way of Water&#39; in this lush concept art book](https://www.space.com/the-art-of-avatar-the-way-of-water-book)
+- [Don’t stop writing, or your words will vanish off the page](https://techcrunch.com/2022/12/25/the-most-dangerous-writing-app/)
 - [Rock glaciers on Earth may help us prepare for water-seeking missions on Mars](https://www.space.com/rock-glaciers-mars-earth-water)
 - [Winter on Mars looks beautiful in this festive NASA video](https://www.space.com/mars-winter-tour-nasa-wonderland-video)
 - [Christmas moon and 4 planets align as Jupiter, Saturn, Mercury and Venus offer a holiday treat this week!](https://www.space.com/christmas-moon-saturn-jupiter-mercury-venus-align-2022)
-- [Recreated &#39;Blue Marble&#39; photo of Earth tests powerful new climate model](https://www.space.com/blue-marble-recreation-climate-model-test)
-- [Watch an epic Christmas tree launch for the holidays by DIY &#39;Rocket-tree&#39; makers &lpar;videos&rpar;](https://www.space.com/christmas-tree-rocket-launch-2022-videos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
