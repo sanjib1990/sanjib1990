@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Asteroid Launcher simulator lets you destroy your hometown — or anywhere else](https://www.space.com/asteroid-launcher-earth-impact-simulator)
+- [See Saturn near the moon in a late Christmas gift in the night sky tonight &lpar;Dec. 26&rpar;](https://www.space.com/saturn-moon-conjunction-december-26-2022)
 - [Indian fintech Money View valued at $900 million in new funding](https://techcrunch.com/2022/12/26/indian-fintech-money-view-valued-at-900-million-in-new-funding/)
 - [Unwrap the alien magic of &#39;Avatar: The Way of Water&#39; in this lush concept art book](https://www.space.com/the-art-of-avatar-the-way-of-water-book)
 - [Don’t stop writing, or your words will vanish off the page](https://techcrunch.com/2022/12/25/the-most-dangerous-writing-app/)
-- [Rock glaciers on Earth may help us prepare for water-seeking missions on Mars](https://www.space.com/rock-glaciers-mars-earth-water)
-- [Winter on Mars looks beautiful in this festive NASA video](https://www.space.com/mars-winter-tour-nasa-wonderland-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
