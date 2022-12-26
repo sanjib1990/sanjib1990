@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [10 things we learned about aliens &lpar;or the lack thereof&rpar; in 2022](https://www.space.com/aliens-ufos-research-things-learned-2022)
+- [High-growth startups should start de-risking their path to IPO now](https://techcrunch.com/2022/12/26/high-growth-startups-should-start-de-risking-their-path-to-ipo-now/)
+- [Manfrotto Element MII tripod review](https://www.space.com/manfrotto-element-mii-tripod-review)
 - [This Asteroid Launcher simulator lets you destroy your hometown — or anywhere else](https://www.space.com/asteroid-launcher-earth-impact-simulator)
 - [See Saturn near the moon in a late Christmas gift in the night sky tonight &lpar;Dec. 26&rpar;](https://www.space.com/saturn-moon-conjunction-december-26-2022)
-- [Indian fintech Money View valued at $900 million in new funding](https://techcrunch.com/2022/12/26/indian-fintech-money-view-valued-at-900-million-in-new-funding/)
-- [Unwrap the alien magic of &#39;Avatar: The Way of Water&#39; in this lush concept art book](https://www.space.com/the-art-of-avatar-the-way-of-water-book)
-- [Don’t stop writing, or your words will vanish off the page](https://techcrunch.com/2022/12/25/the-most-dangerous-writing-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
