@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Light pollution damaging views of space for majority of large observatories, survey finds](https://www.space.com/major-observatories-suffering-light-pollution)
 - [What to expect from AI in 2023](https://techcrunch.com/2022/12/26/what-to-expect-from-ai-in-2023/)
 - [10 things we learned about aliens &lpar;or the lack thereof&rpar; in 2022](https://www.space.com/aliens-ufos-research-things-learned-2022)
 - [High-growth startups should start de-risking their path to IPO now](https://techcrunch.com/2022/12/26/high-growth-startups-should-start-de-risking-their-path-to-ipo-now/)
 - [Manfrotto Element MII tripod review](https://www.space.com/manfrotto-element-mii-tripod-review)
-- [This Asteroid Launcher simulator lets you destroy your hometown — or anywhere else](https://www.space.com/asteroid-launcher-earth-impact-simulator)
 <!-- BLOG-POST-LIST:END -->
 
 ---
