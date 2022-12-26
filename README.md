@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meet the dearMoon crew of artists, athletes and a billionaire riding SpaceX&#39;s Starship to the moon](https://www.space.com/meet-dearmoon-crew-spacex-moon-mission)
 - [Happy New Year on Mars! NASA rings in Red Planet year 37](https://www.space.com/mars-new-year-37-nasa-celebrates)
 - [Can we save Mars robots from death by dust?](https://www.space.com/saving-mars-robots-from-death-by-dust)
 - [Scientists are finally peering inside the sun&#39;s middle corona](https://www.space.com/sun-middle-corona-solar-wind-source)
 - [Light pollution damaging views of space for majority of large observatories, survey finds](https://www.space.com/major-observatories-suffering-light-pollution)
-- [What to expect from AI in 2023](https://techcrunch.com/2022/12/26/what-to-expect-from-ai-in-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
