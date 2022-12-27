@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Stars young and old glitter with &#39;nebulosity&#39; in Hubble telescope photos](https://www.space.com/hubble-telescope-stars-nebulosity-photos)
+- [Taking advantage of Latin America’s market downturn](https://techcrunch.com/2022/12/27/taking-advantage-of-latin-americas-market-downturn/)
+- [There is no ‘Next Twitter,’ and that’s OK](https://techcrunch.com/2022/12/27/there-is-no-next-twitter-and-thats-ok/)
 - [&#39;The Short Story of the Universe&#39; fits a big topic into your pocket](https://www.space.com/the-short-story-of-the-universe-book-gemma-lavender)
 - [Six 🔥 climate tech trends to watch for in 2023](https://techcrunch.com/2022/12/27/six-hot-climate-tech-trends-to-watch-for-in-2023/)
-- [How do we know the fundamental constants are constant? We don&#39;t.](https://www.space.com/are-fundamental-constants-of-universe-constant)
-- [Embracing digital commerce may be retailers’ best bet for staying ahead of a fast-moving industry](https://techcrunch.com/2022/12/27/digital-commerce-retailers/)
-- [It’s all in the &lpar;lack of&rpar; details: 2022’s badly handled data breaches](https://techcrunch.com/2022/12/27/badly-handled-data-breaches-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
