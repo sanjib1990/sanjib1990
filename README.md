@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Y Combinator-backed Poly uses AI to generate art assets](https://techcrunch.com/2022/12/27/y-combinator-backed-poly-uses-ai-to-generate-art-assets/)
 - [Top Solana NFT projects DeGods and y00ts to leave the blockchain and ‘explore new opportunities’](https://techcrunch.com/2022/12/27/top-solana-nft-projects-degods-and-y00ts-to-leave-the-blockchain-and-explore-new-opportunities/)
 - [Clean energy: Scrubbing wind turbines with robots nets Aerones $39M](https://techcrunch.com/2022/12/27/clean-energy-scrubbing-wind-turbines-with-robots-nets-aerones-39m/)
 - [Amateur astronomers &#39;swipe right&#39; to hunt dark energy and ID nearly a quarter million galaxies](https://www.space.com/amateurs-swipe-right-galaxy-cosmic-tinder-project)
 - [Stars young and old glitter with &#39;nebulosity&#39; in Hubble telescope photos](https://www.space.com/hubble-telescope-stars-nebulosity-photos)
-- [Taking advantage of Latin America’s market downturn](https://techcrunch.com/2022/12/27/taking-advantage-of-latin-americas-market-downturn/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
