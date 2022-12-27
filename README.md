@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Wild space &#39;ferry&#39; concept uses paragliders to return satellites and science to Earth](https://www.space.com/outpost-space-ferry-paragliders-return-satellites)
-- [An EV-plosion awaits in 2023, and it’ll be packed with tech](https://techcrunch.com/2022/12/27/an-ev-plosion-awaits-in-2023-and-itll-be-packed-with-tech/)
-- [Digital health startups can incorporate clinical expertise into business models – here’s how](https://techcrunch.com/2022/12/27/digital-health-startups-can-incorporate-clinical-expertise-into-business-models-heres-how/)
-- [Uber and Amazon blasted for poor working conditions for gig workers in India](https://techcrunch.com/2022/12/27/uber-and-amazon-blasted-for-poor-working-conditions-for-gig-workers-in-india/)
-- [NASA&#39;s $25.4 billion budget for 2023 includes funding for second moon lander alongside SpaceX Starship](https://www.space.com/nasa-2023-budget-approved-starship-moon)
+- [It’s all in the &lpar;lack of&rpar; details: 2022’s badly handled data breaches](https://techcrunch.com/2022/12/27/badly-handled-data-breaches-2022/)
+- [See Earth from space in stunning video from China&#39;s Tiangong space station](https://www.space.com/amazing-earth-views-china-space-station-video)
+- [SpaceX activates nearly 100 Starlinks in Iran amid country-wide protests: report](https://www.space.com/spacex-iran-100-starlinks-internet-protests)
+- [All we are saying is give due diligence a chance in 2023](https://techcrunch.com/2022/12/27/all-we-are-saying-is-give-due-diligence-a-chance-in-2023/)
+- [Special episode: Augmenting creativity with Alice Albrecht from re:collect &lpar;Found&rpar;](https://techcrunch.com/2022/12/27/special-episode-augmenting-creativity-with-alice-albrecht-from-recollect-found/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
