@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How do we know the fundamental constants are constant? We don&#39;t.](https://www.space.com/are-fundamental-constants-of-universe-constant)
+- [Embracing digital commerce may be retailers’ best bet for staying ahead of a fast-moving industry](https://techcrunch.com/2022/12/27/digital-commerce-retailers/)
 - [It’s all in the &lpar;lack of&rpar; details: 2022’s badly handled data breaches](https://techcrunch.com/2022/12/27/badly-handled-data-breaches-2022/)
 - [See Earth from space in stunning video from China&#39;s Tiangong space station](https://www.space.com/amazing-earth-views-china-space-station-video)
 - [SpaceX activates nearly 100 Starlinks in Iran amid country-wide protests: report](https://www.space.com/spacex-iran-100-starlinks-internet-protests)
-- [All we are saying is give due diligence a chance in 2023](https://techcrunch.com/2022/12/27/all-we-are-saying-is-give-due-diligence-a-chance-in-2023/)
-- [Special episode: Augmenting creativity with Alice Albrecht from re:collect &lpar;Found&rpar;](https://techcrunch.com/2022/12/27/special-episode-augmenting-creativity-with-alice-albrecht-from-recollect-found/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
