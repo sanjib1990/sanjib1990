@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [9 alien planet discoveries that were out-of-this-world in 2022](https://www.space.com/biggest-alien-planet-discoveries-2022)
 - [Hubble Space Telescope spies young stars amid glowing interstellar gas](https://www.space.com/hubble-space-telescope-emission-nebula-image)
 - [10 weird things about SpaceX&#39;s Starlink internet satellites](https://www.space.com/spacex-starlink-satellites-10-weird-things)
 - [Balance is a Mac timekeeper app that requires you to manually clock in your hours](https://techcrunch.com/2022/12/27/balance-is-a-mac-timekeeper-app-that-requires-you-to-manually-clock-in-your-hours/)
 - [Baidu starts offering nighttime driverless taxis in China](https://techcrunch.com/2022/12/26/baidu-night-time-driverless-robotaxis-china/)
-- [Jakarta-based fintech Akulaku raises $200M from Japan’s largest bank](https://techcrunch.com/2022/12/26/akulaku-mufg/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
