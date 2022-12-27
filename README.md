@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hubble Space Telescope spies young stars amid glowing interstellar gas](https://www.space.com/hubble-space-telescope-emission-nebula-image)
+- [10 weird things about SpaceX&#39;s Starlink internet satellites](https://www.space.com/spacex-starlink-satellites-10-weird-things)
 - [Balance is a Mac timekeeper app that requires you to manually clock in your hours](https://techcrunch.com/2022/12/27/balance-is-a-mac-timekeeper-app-that-requires-you-to-manually-clock-in-your-hours/)
 - [Baidu starts offering nighttime driverless taxis in China](https://techcrunch.com/2022/12/26/baidu-night-time-driverless-robotaxis-china/)
 - [Jakarta-based fintech Akulaku raises $200M from Japan’s largest bank](https://techcrunch.com/2022/12/26/akulaku-mufg/)
-- [Greenland&#39;s glaciers are melting 100 times faster than estimated](https://www.space.com/greenland-glacier-melt-model)
-- [Meet the dearMoon crew of artists, athletes and a billionaire riding SpaceX&#39;s Starship to the moon](https://www.space.com/meet-dearmoon-crew-spacex-moon-mission)
 <!-- BLOG-POST-LIST:END -->
 
 ---
