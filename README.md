@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amateur astronomers &#39;swipe right&#39; to hunt dark energy and ID nearly a quarter million galaxies](https://www.space.com/amateurs-swipe-right-galaxy-cosmic-tinder-project)
 - [Stars young and old glitter with &#39;nebulosity&#39; in Hubble telescope photos](https://www.space.com/hubble-telescope-stars-nebulosity-photos)
 - [Taking advantage of Latin America’s market downturn](https://techcrunch.com/2022/12/27/taking-advantage-of-latin-americas-market-downturn/)
 - [There is no ‘Next Twitter,’ and that’s OK](https://techcrunch.com/2022/12/27/there-is-no-next-twitter-and-thats-ok/)
 - [&#39;The Short Story of the Universe&#39; fits a big topic into your pocket](https://www.space.com/the-short-story-of-the-universe-book-gemma-lavender)
-- [Six 🔥 climate tech trends to watch for in 2023](https://techcrunch.com/2022/12/27/six-hot-climate-tech-trends-to-watch-for-in-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
