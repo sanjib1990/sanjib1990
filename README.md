@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Wild space &#39;ferry&#39; concept uses paragliders to return satellites and science to Earth](https://www.space.com/outpost-space-ferry-paragliders-return-satellites)
+- [An EV-plosion awaits in 2023, and it’ll be packed with tech](https://techcrunch.com/2022/12/27/an-ev-plosion-awaits-in-2023-and-itll-be-packed-with-tech/)
+- [Digital health startups can incorporate clinical expertise into business models – here’s how](https://techcrunch.com/2022/12/27/digital-health-startups-can-incorporate-clinical-expertise-into-business-models-heres-how/)
+- [Uber and Amazon blasted for poor working conditions for gig workers in India](https://techcrunch.com/2022/12/27/uber-and-amazon-blasted-for-poor-working-conditions-for-gig-workers-in-india/)
 - [NASA&#39;s $25.4 billion budget for 2023 includes funding for second moon lander alongside SpaceX Starship](https://www.space.com/nasa-2023-budget-approved-starship-moon)
-- [9 alien planet discoveries that were out-of-this-world in 2022](https://www.space.com/biggest-alien-planet-discoveries-2022)
-- [Hubble Space Telescope spies young stars amid glowing interstellar gas](https://www.space.com/hubble-space-telescope-emission-nebula-image)
-- [10 weird things about SpaceX&#39;s Starlink internet satellites](https://www.space.com/spacex-starlink-satellites-10-weird-things)
-- [Balance is a Mac timekeeper app that requires you to manually clock in your hours](https://techcrunch.com/2022/12/27/balance-is-a-mac-timekeeper-app-that-requires-you-to-manually-clock-in-your-hours/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
