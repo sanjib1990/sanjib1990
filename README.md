@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Startup says it has received $1M in preorders for its $60K hydrofoiling personal watercraft](https://techcrunch.com/2022/12/28/daily-crunch-startup-says-it-has-received-1m-in-preorders-for-its-60k-hydrofoiling-personal-watercraft/)
 - [Mars dust won&#39;t bury Perseverance rover&#39;s rock sample tubes on Martian surface](https://www.space.com/mars-dust-wont-bury-perseverance-rover-samples)
 - [The transportation stories that drove 2022](https://techcrunch.com/2022/12/28/the-transportation-stories-that-drove-2022/)
 - [Gamma rays: Everything you need to know about these powerful packets of energy](https://www.space.com/gamma-rays-explained)
 - [The best TechCrunch+ investor surveys of 2022](https://techcrunch.com/2022/12/28/the-best-techcrunch-investor-surveys-from-2022/)
-- [The rise of platform engineering, an opportunity for startups](https://techcrunch.com/2022/12/28/the-rise-of-platform-engineering-an-opportunity-for-startups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
