@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The rise of platform engineering, an opportunity for startups](https://techcrunch.com/2022/12/28/the-rise-of-platform-engineering-an-opportunity-for-startups/)
 - [Bitcoin miner Argo to avoid bankruptcy with $100M deal from Galaxy Digital](https://techcrunch.com/2022/12/28/bitcoin-miner-argo-to-avoid-bankruptcy-with-100m-deal-from-galaxy-digital/)
 - [How to spin up an investing network from scratch as a first-time founder](https://techcrunch.com/2022/12/28/how-to-spin-up-vc/)
+- [Nobody took John F. Clauser&#39;s quantum experiments seriously. 50 years later, he&#39;s collecting a Nobel Prize.](https://www.space.com/john-f-clauser-nobel-prize)
 - [Some good news from this year in tech](https://techcrunch.com/2022/12/28/some-good-news-from-this-year-in-tech/)
-- [Sneak peek: Look who’s pitching at the CCC Web3 Demo Day](https://techcrunch.com/2022/12/28/sneak-peek-look-whos-pitching-at-the-ccc-web3-demo-day/)
-- [Dear Sophie: Do employees have to stop working until they get their EAD?](https://techcrunch.com/2022/12/28/dear-sophie-do-employees-have-to-stop-working-until-they-get-their-ead/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
