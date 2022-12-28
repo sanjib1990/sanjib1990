@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hot takes: How TechCrunch+ covered climate tech in 2022](https://techcrunch.com/2022/12/28/how-techcrunch-covered-climate-tech-in-2022-hot-takes/)
+- [This tool helps you trim your follow list on Twitter](https://techcrunch.com/2022/12/28/this-tool-helps-you-trim-your-follow-list-on-twitter/)
+- [Pakistan cracks down on sketchy digital lending](https://techcrunch.com/2022/12/28/pakistan-cracks-down-on-sketchy-digital-lending/)
 - [Former Russian space agency chief injured in Ukraine shelling, completes surgery: report](https://www.space.com/former-russian-space-agency-chief-rogozin-ukraine-injured)
 - [Every planet in the solar system will be visible on Wednesday &lpar;Dec. 28&rpar;. Here&#39;s how to see them](https://www.space.com/solar-system-planets-visible-grand-tour-livestream)
-- [Movano’s new smart ring is focused on women’s health](https://techcrunch.com/2022/12/28/movanos-new-smart-ring-is-focused-on-womens-health/)
-- [China unveils plans for the largest optical telescope in Asia](https://www.space.com/china-expanding-optical-telescope-design)
-- [15 times black holes surprised us in 2022](https://www.space.com/black-hole-discoveries-2022-15-surprises)
 <!-- BLOG-POST-LIST:END -->
 
 ---
