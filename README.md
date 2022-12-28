@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Some good news from this year in tech](https://techcrunch.com/2022/12/28/some-good-news-from-this-year-in-tech/)
+- [Sneak peek: Look who’s pitching at the CCC Web3 Demo Day](https://techcrunch.com/2022/12/28/sneak-peek-look-whos-pitching-at-the-ccc-web3-demo-day/)
+- [Dear Sophie: Do employees have to stop working until they get their EAD?](https://techcrunch.com/2022/12/28/dear-sophie-do-employees-have-to-stop-working-until-they-get-their-ead/)
+- [$60K personal water toy lands $1M worth of preorders](https://techcrunch.com/2022/12/28/boundary-layer-pre-orders/)
 - [NASA&#39;s new X-59 supersonic plane gets powerful engine for quiet sonic booms](https://www.space.com/nasa-x-59-supersonic-jet-engine)
-- [Amazon is working on a standalone app for sports content, new report claims](https://techcrunch.com/2022/12/28/amazon-standalone-app-watching-sports-content-report-claims/)
-- [Ample’s founder explains what it takes to scale EV battery swapping](https://techcrunch.com/2022/12/28/amples-founder-explains-what-it-takes-to-scale-ev-battery-swapping/)
-- [How to protect your IP during fundraising so you don’t get ripped off](https://techcrunch.com/2022/12/28/how-to-protect-your-ip-during-fundraising-so-you-dont-get-ripped-off/)
-- [US House bans TikTok on lawmakers’ official phones](https://techcrunch.com/2022/12/28/house-bans-tiktok-lawmakers-phones/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
