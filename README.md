@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s new X-59 supersonic plane gets powerful engine for quiet sonic booms](https://www.space.com/nasa-x-59-supersonic-jet-engine)
+- [Amazon is working on a standalone app for sports content, new report claims](https://techcrunch.com/2022/12/28/amazon-standalone-app-watching-sports-content-report-claims/)
+- [Ample’s founder explains what it takes to scale EV battery swapping](https://techcrunch.com/2022/12/28/amples-founder-explains-what-it-takes-to-scale-ev-battery-swapping/)
 - [How to protect your IP during fundraising so you don’t get ripped off](https://techcrunch.com/2022/12/28/how-to-protect-your-ip-during-fundraising-so-you-dont-get-ripped-off/)
 - [US House bans TikTok on lawmakers’ official phones](https://techcrunch.com/2022/12/28/house-bans-tiktok-lawmakers-phones/)
-- [Code-generating AI can introduce security vulnerabilities, study finds](https://techcrunch.com/2022/12/28/code-generating-ai-can-introduce-security-vulnerabilities-study-finds/)
-- [Hot takes: How TechCrunch+ covered climate tech in 2022](https://techcrunch.com/2022/12/28/how-techcrunch-covered-climate-tech-in-2022-hot-takes/)
-- [This tool helps you trim your follow list on Twitter](https://techcrunch.com/2022/12/28/this-tool-helps-you-trim-your-follow-list-on-twitter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
