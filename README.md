@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mars dust won&#39;t bury Perseverance rover&#39;s rock sample tubes on Martian surface](https://www.space.com/mars-dust-wont-bury-perseverance-rover-samples)
 - [The transportation stories that drove 2022](https://techcrunch.com/2022/12/28/the-transportation-stories-that-drove-2022/)
 - [Gamma rays: Everything you need to know about these powerful packets of energy](https://www.space.com/gamma-rays-explained)
 - [The best TechCrunch+ investor surveys of 2022](https://techcrunch.com/2022/12/28/the-best-techcrunch-investor-surveys-from-2022/)
 - [The rise of platform engineering, an opportunity for startups](https://techcrunch.com/2022/12/28/the-rise-of-platform-engineering-an-opportunity-for-startups/)
-- [Bitcoin miner Argo to avoid bankruptcy with $100M deal from Galaxy Digital](https://techcrunch.com/2022/12/28/bitcoin-miner-argo-to-avoid-bankruptcy-with-100m-deal-from-galaxy-digital/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
