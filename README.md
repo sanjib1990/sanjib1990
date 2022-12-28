@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Movano’s new smart ring is focused on women’s health](https://techcrunch.com/2022/12/28/movanos-new-smart-ring-is-focused-on-womens-health/)
+- [China unveils plans for the largest optical telescope in Asia](https://www.space.com/china-expanding-optical-telescope-design)
+- [15 times black holes surprised us in 2022](https://www.space.com/black-hole-discoveries-2022-15-surprises)
 - [SpaceX launches 54 upgraded Starlink internet satellites and nails rocket landing at sea in 60th flight of the year](https://www.space.com/spacex-starlink-satellites-5-1-group-launch)
 - [Daily Crunch: What’s around the corner for the EV market in 2023?](https://techcrunch.com/2022/12/27/daily-crunch-whats-around-the-corner-for-the-ev-market-in-2023/)
-- [Y Combinator-backed Poly uses AI to generate art assets](https://techcrunch.com/2022/12/27/y-combinator-backed-poly-uses-ai-to-generate-art-assets/)
-- [Top Solana NFT projects DeGods and y00ts to leave the blockchain and ‘explore new opportunities’](https://techcrunch.com/2022/12/27/top-solana-nft-projects-degods-and-y00ts-to-leave-the-blockchain-and-explore-new-opportunities/)
-- [Clean energy: Scrubbing wind turbines with robots nets Aerones $39M](https://techcrunch.com/2022/12/27/clean-energy-scrubbing-wind-turbines-with-robots-nets-aerones-39m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
