@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Former Russian space agency chief injured in Ukraine shelling, completes surgery: report](https://www.space.com/former-russian-space-agency-chief-rogozin-ukraine-injured)
+- [Every planet in the solar system will be visible on Wednesday &lpar;Dec. 28&rpar;. Here&#39;s how to see them](https://www.space.com/solar-system-planets-visible-grand-tour-livestream)
 - [Movano’s new smart ring is focused on women’s health](https://techcrunch.com/2022/12/28/movanos-new-smart-ring-is-focused-on-womens-health/)
 - [China unveils plans for the largest optical telescope in Asia](https://www.space.com/china-expanding-optical-telescope-design)
 - [15 times black holes surprised us in 2022](https://www.space.com/black-hole-discoveries-2022-15-surprises)
-- [SpaceX launches 54 upgraded Starlink internet satellites and nails rocket landing at sea in 60th flight of the year](https://www.space.com/spacex-starlink-satellites-5-1-group-launch)
-- [Daily Crunch: What’s around the corner for the EV market in 2023?](https://techcrunch.com/2022/12/27/daily-crunch-whats-around-the-corner-for-the-ev-market-in-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
