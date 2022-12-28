@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to protect your IP during fundraising so you don’t get ripped off](https://techcrunch.com/2022/12/28/how-to-protect-your-ip-during-fundraising-so-you-dont-get-ripped-off/)
+- [US House bans TikTok on lawmakers’ official phones](https://techcrunch.com/2022/12/28/house-bans-tiktok-lawmakers-phones/)
+- [Code-generating AI can introduce security vulnerabilities, study finds](https://techcrunch.com/2022/12/28/code-generating-ai-can-introduce-security-vulnerabilities-study-finds/)
 - [Hot takes: How TechCrunch+ covered climate tech in 2022](https://techcrunch.com/2022/12/28/how-techcrunch-covered-climate-tech-in-2022-hot-takes/)
 - [This tool helps you trim your follow list on Twitter](https://techcrunch.com/2022/12/28/this-tool-helps-you-trim-your-follow-list-on-twitter/)
-- [Pakistan cracks down on sketchy digital lending](https://techcrunch.com/2022/12/28/pakistan-cracks-down-on-sketchy-digital-lending/)
-- [Former Russian space agency chief injured in Ukraine shelling, completes surgery: report](https://www.space.com/former-russian-space-agency-chief-rogozin-ukraine-injured)
-- [Every planet in the solar system will be visible on Wednesday &lpar;Dec. 28&rpar;. Here&#39;s how to see them](https://www.space.com/solar-system-planets-visible-grand-tour-livestream)
 <!-- BLOG-POST-LIST:END -->
 
 ---
