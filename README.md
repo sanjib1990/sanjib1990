@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bitcoin miner Argo to avoid bankruptcy with $100M deal from Galaxy Digital](https://techcrunch.com/2022/12/28/bitcoin-miner-argo-to-avoid-bankruptcy-with-100m-deal-from-galaxy-digital/)
+- [How to spin up an investing network from scratch as a first-time founder](https://techcrunch.com/2022/12/28/how-to-spin-up-vc/)
 - [Some good news from this year in tech](https://techcrunch.com/2022/12/28/some-good-news-from-this-year-in-tech/)
 - [Sneak peek: Look who’s pitching at the CCC Web3 Demo Day](https://techcrunch.com/2022/12/28/sneak-peek-look-whos-pitching-at-the-ccc-web3-demo-day/)
 - [Dear Sophie: Do employees have to stop working until they get their EAD?](https://techcrunch.com/2022/12/28/dear-sophie-do-employees-have-to-stop-working-until-they-get-their-ead/)
-- [$60K personal water toy lands $1M worth of preorders](https://techcrunch.com/2022/12/28/boundary-layer-pre-orders/)
-- [NASA&#39;s new X-59 supersonic plane gets powerful engine for quiet sonic booms](https://www.space.com/nasa-x-59-supersonic-jet-engine)
 <!-- BLOG-POST-LIST:END -->
 
 ---
