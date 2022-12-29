@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is Instacart a forerunner of bad news?](https://techcrunch.com/2022/12/29/is-instacart-a-forerunner-of-bad-news/)
+- [China&#39;s last launch of 2022 sparks falling rocket debris warning from Philippine Space Agency](https://www.space.com/china-last-rocket-launch-2022-debris-warning)
+- [Reflecting on a roller coaster year for robotics](https://techcrunch.com/2022/12/29/reflecting-on-a-rollercoaster-year-for-robotics/)
 - [Will Twitter, PayPal and Walmart compete to launch America’s super app?](https://techcrunch.com/2022/12/29/will-twitter-paypal-and-walmart-compete-to-launch-americas-super-app/)
 - [IDW honors &#39;Star Trek: Deep Space Nine&#39; 30th anniversary with new comics miniseries](https://www.space.com/star-trek-deep-space-nine-dog-of-war-comics-miniseries)
-- [&#39;Atmospheric river&#39; hits US West Coast with rain and snow as satellites watch from space](https://www.space.com/atmospheric-river-hits-us-west-coast-satellite-views)
-- [Private equity dominated the top 10 enterprise M&amp;A deals in 2022](https://techcrunch.com/2022/12/29/private-equity-dominated-the-top-10-enterprise-ma-deals-in-2022/)
-- [E-bike subsidies, consolidation and IPOs: Our 2023 micromobility predictions](https://techcrunch.com/2022/12/29/e-bike-subsidies-consolidation-and-ipos-our-2023-micromobility-predictions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
