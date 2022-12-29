@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [12 amazing James Webb Space Telescope discoveries of 2022](https://www.space.com/james-webb-space-telescope-12-amazing-discoveries-2022)
+- [Will Bitcoin and Ethereum prices stagnate, sink or rebound in 2023?](https://techcrunch.com/2022/12/29/will-bitcoin-and-ethereum-prices-stagnate-sink-or-rebound-in-2023/)
 - [NASA ponders SpaceX astronaut rescue as backup after Soyuz leak: report](https://www.space.com/nasa-spacex-dragon-rescue-spacecraft-soyuz-leak)
 - [Spotify wants to help you ring in 2023 with its New Year’s Hub](https://techcrunch.com/2022/12/29/spotify-ring-in-2023-with-new-years-hub/)
 - [NASA wants ideas to boost Hubble Space Telescope into a higher orbit with private spaceships](https://www.space.com/nasa-spacex-hubble-space-telescope-reboost-study)
-- [India to explore prohibition of unbacked crypto in its G20 presidency](https://techcrunch.com/2022/12/29/india-to-explore-prohibition-of-unbacked-crypto-in-its-g20-presidency/)
-- [Why GGV Capital’s Hans Tung is OK with 2023 being ‘the year of down rounds’](https://techcrunch.com/2022/12/29/fintech-ggv-capital-hans-tung-down-rounds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
