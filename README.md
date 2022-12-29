@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Russia&#39;s &#39;final decision&#39; on leaky Soyuz spacecraft at space station to come in January: reports](https://www.space.com/russia-leaky-soyuz-decision-january-2023)
+- [See the final first quarter moon of 2022 join Jupiter in the sky tonight &lpar;Dec. 29&rpar;](https://www.space.com/first-quarter-moon-jupiter-dec-29-2022)
 - [Alibaba CEO to oversee cloud arm following major server outage](https://techcrunch.com/2022/12/29/alibaba-reshuffle-2022/)
-- [Twitter suffers outage amid Elon Musk making ‘significant’ backend server architecture changes](https://techcrunch.com/2022/12/28/twitter-down-outage/)
+- [Twitter suffered outage after Elon Musk made ‘significant’ backend server architecture changes](https://techcrunch.com/2022/12/28/twitter-down-outage/)
 - [Daily Crunch: Startup says it has received $1M in preorders for its $60K hydrofoiling personal watercraft](https://techcrunch.com/2022/12/28/daily-crunch-startup-says-it-has-received-1m-in-preorders-for-its-60k-hydrofoiling-personal-watercraft/)
-- [Mars dust won&#39;t bury Perseverance rover&#39;s rock sample tubes on Martian surface](https://www.space.com/mars-dust-wont-bury-perseverance-rover-samples)
-- [The transportation stories that drove 2022](https://techcrunch.com/2022/12/28/the-transportation-stories-that-drove-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
