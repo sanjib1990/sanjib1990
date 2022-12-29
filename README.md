@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: 2 weeks after extended system failure, Alibaba CEO takes over company’s cloud division](https://techcrunch.com/2022/12/29/daily-crunch-2-weeks-after-extended-system-failure-alibaba-ceo-takes-over-companys-cloud-division/)
+- [What to expect at CES 2023](https://techcrunch.com/2022/12/29/ces-2023-preview-what-to-expect/)
 - [Is Instacart a forerunner of bad news?](https://techcrunch.com/2022/12/29/is-instacart-a-forerunner-of-bad-news/)
 - [China&#39;s last launch of 2022 sparks falling rocket debris warning from Philippine Space Agency](https://www.space.com/china-last-rocket-launch-2022-debris-warning)
 - [Reflecting on a roller coaster year for robotics](https://techcrunch.com/2022/12/29/reflecting-on-a-rollercoaster-year-for-robotics/)
-- [Will Twitter, PayPal and Walmart compete to launch America’s super app?](https://techcrunch.com/2022/12/29/will-twitter-paypal-and-walmart-compete-to-launch-americas-super-app/)
-- [IDW honors &#39;Star Trek: Deep Space Nine&#39; 30th anniversary with new comics miniseries](https://www.space.com/star-trek-deep-space-nine-dog-of-war-comics-miniseries)
 <!-- BLOG-POST-LIST:END -->
 
 ---
