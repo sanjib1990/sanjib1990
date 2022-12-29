@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why GGV Capital’s Hans Tung is OK with 2023 being ‘the year of down rounds’](https://techcrunch.com/2022/12/29/fintech-ggv-capital-hans-tung-down-rounds/)
+- [How TechCrunch+ followed the roller-coaster crypto market in 2022](https://techcrunch.com/2022/12/29/crypto-market-2022-how-techcrunch-covered-crypto-market/)
+- [Recall.ai helps companies make the most of virtual meeting data](https://techcrunch.com/2022/12/29/recall-ai/)
 - [Redefining ‘founder-friendly’ capital in the post-FTX era](https://techcrunch.com/2022/12/29/redefining-founder-friendly-capital-in-the-post-ftx-era/)
-- [Stunning SpaceX rocket launch lights up predawn sky over Florida &lpar;photos&rpar;](https://www.space.com/spacex-starlink-5-1-satellites-launch-stunning-photos)
-- [Joby GorillaPod 3K Pro Kit tripod review](https://www.space.com/joby-gorillapod-3k-pro-kit-tripod-review)
-- [Russia&#39;s &#39;final decision&#39; on leaky Soyuz spacecraft at space station to come in January: reports](https://www.space.com/russia-leaky-soyuz-decision-january-2023)
-- [See the final first quarter moon of 2022 join Jupiter in the sky tonight &lpar;Dec. 29&rpar;](https://www.space.com/first-quarter-moon-jupiter-dec-29-2022)
+- [Jupiter&#39;s 10 most massive mysteries](https://www.space.com/33304-biggest-mysteries-of-jupiter.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
