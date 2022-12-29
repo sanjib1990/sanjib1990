@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA ponders SpaceX astronaut rescue as backup after Soyuz leak: report](https://www.space.com/nasa-spacex-dragon-rescue-spacecraft-soyuz-leak)
+- [Spotify wants to help you ring in 2023 with its New Year’s Hub](https://techcrunch.com/2022/12/29/spotify-ring-in-2023-with-new-years-hub/)
+- [NASA wants ideas to boost Hubble Space Telescope into a higher orbit with private spaceships](https://www.space.com/nasa-spacex-hubble-space-telescope-reboost-study)
+- [India to explore prohibition of unbacked crypto in its G20 presidency](https://techcrunch.com/2022/12/29/india-to-explore-prohibition-of-unbacked-crypto-in-its-g20-presidency/)
 - [Why GGV Capital’s Hans Tung is OK with 2023 being ‘the year of down rounds’](https://techcrunch.com/2022/12/29/fintech-ggv-capital-hans-tung-down-rounds/)
-- [How TechCrunch+ followed the roller-coaster crypto market in 2022](https://techcrunch.com/2022/12/29/crypto-market-2022-how-techcrunch-covered-crypto-market/)
-- [Recall.ai helps companies make the most of virtual meeting data](https://techcrunch.com/2022/12/29/recall-ai/)
-- [Redefining ‘founder-friendly’ capital in the post-FTX era](https://techcrunch.com/2022/12/29/redefining-founder-friendly-capital-in-the-post-ftx-era/)
-- [Jupiter&#39;s 10 most massive mysteries](https://www.space.com/33304-biggest-mysteries-of-jupiter.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
