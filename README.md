@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Redefining ‘founder-friendly’ capital in the post-FTX era](https://techcrunch.com/2022/12/29/redefining-founder-friendly-capital-in-the-post-ftx-era/)
+- [Stunning SpaceX rocket launch lights up predawn sky over Florida &lpar;photos&rpar;](https://www.space.com/spacex-starlink-5-1-satellites-launch-stunning-photos)
 - [Joby GorillaPod 3K Pro Kit tripod review](https://www.space.com/joby-gorillapod-3k-pro-kit-tripod-review)
 - [Russia&#39;s &#39;final decision&#39; on leaky Soyuz spacecraft at space station to come in January: reports](https://www.space.com/russia-leaky-soyuz-decision-january-2023)
 - [See the final first quarter moon of 2022 join Jupiter in the sky tonight &lpar;Dec. 29&rpar;](https://www.space.com/first-quarter-moon-jupiter-dec-29-2022)
-- [Alibaba CEO to oversee cloud arm following major server outage](https://techcrunch.com/2022/12/29/alibaba-reshuffle-2022/)
-- [Twitter suffered outage after Elon Musk made ‘significant’ backend server architecture changes](https://techcrunch.com/2022/12/28/twitter-down-outage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
