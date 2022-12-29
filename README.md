@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Private equity dominated the top 10 enterprise M&amp;A deals in 2022](https://techcrunch.com/2022/12/29/private-equity-dominated-the-top-10-enterprise-ma-deals-in-2022/)
+- [E-bike subsidies, consolidation and IPOs: Our 2023 micromobility predictions](https://techcrunch.com/2022/12/29/e-bike-subsidies-consolidation-and-ipos-our-2023-micromobility-predictions/)
 - [12 amazing James Webb Space Telescope discoveries of 2022](https://www.space.com/james-webb-space-telescope-12-amazing-discoveries-2022)
 - [Will Bitcoin and Ethereum prices stagnate, sink or rebound in 2023?](https://techcrunch.com/2022/12/29/will-bitcoin-and-ethereum-prices-stagnate-sink-or-rebound-in-2023/)
 - [NASA ponders SpaceX astronaut rescue as backup after Soyuz leak: report](https://www.space.com/nasa-spacex-dragon-rescue-spacecraft-soyuz-leak)
-- [Spotify wants to help you ring in 2023 with its New Year’s Hub](https://techcrunch.com/2022/12/29/spotify-ring-in-2023-with-new-years-hub/)
-- [NASA wants ideas to boost Hubble Space Telescope into a higher orbit with private spaceships](https://www.space.com/nasa-spacex-hubble-space-telescope-reboost-study)
 <!-- BLOG-POST-LIST:END -->
 
 ---
