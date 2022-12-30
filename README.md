@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See the rare &#39;planet parade&#39; of 5 naked-eye planets in these photos by an astronomer](https://www.space.com/rare-naked-eye-planets-parade-december-2022-photos)
+- [There’s now an open source alternative to ChatGPT, but good luck running it](https://techcrunch.com/2022/12/30/theres-now-an-open-source-alternative-to-chatgpt-but-good-luck-running-it/)
 - [What to look for in a term sheet as a first-time founder](https://techcrunch.com/2022/12/30/what-to-look-for-in-a-term-sheet-as-a-first-time-founder/)
 - [Is there life on Mars? A NASA scientist explains in new video](https://www.space.com/could-life-exist-on-mars-nasa-video-2022)
 - [Meta acquires Luxexcel, a smart eyewear company](https://techcrunch.com/2022/12/30/meta-acquires-luxexcel-a-smart-eyewear-company/)
-- [Despite myriad flaws, US remains top spot for Black startup founders seeking VC dollars](https://techcrunch.com/2022/12/30/despite-myriad-flaws-us-remains-top-spot-for-black-startup-founders-seeking-vc-dollars/)
-- [See Mars &#39;peek out&#39; from behind the moon in stunning eclipse photo](https://www.space.com/mars-lunar-occultation-image-december-2022)
 <!-- BLOG-POST-LIST:END -->
 
 ---
