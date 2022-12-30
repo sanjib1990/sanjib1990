@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [5 of the best apps to track your reading and discover new books](https://techcrunch.com/2022/12/30/5-best-apps-track-reading-discover-new-books/)
+- [Detecting life on Saturn moon Enceladus would require 100 flybys through its geyser plume, study suggests](https://www.space.com/detecting-enceladus-life-100-plume-flybys)
+- [How TechCrunch+ followed the venture dollars in 2022](https://techcrunch.com/2022/12/30/how-techcrunch-covered-venture-capital-2022/)
 - [Meet the cybercriminals of 2022](https://techcrunch.com/2022/12/30/meet-the-cybercriminals-2022/)
 - [See the best photos from the International Space Station of 2022 in this NASA video](https://www.space.com/nasa-best-international-space-station-photos-2022-video)
-- [5 promising fusion startups that aren’t unicorns — yet](https://techcrunch.com/2022/12/30/5-promising-fusion-startups-that-arent-unicorns-yet/)
-- [2022’s best and worst dinner guests: Elon Musk and SBF](https://techcrunch.com/2022/12/30/2022s-best-and-worst-dinner-guests-elon-musk-and-sbf/)
-- [Inside Matrix, the protocol that might finally make messaging apps interoperable](https://techcrunch.com/2022/12/30/inside-matrix-the-protocol-that-might-finally-make-messaging-apps-interoperable/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
