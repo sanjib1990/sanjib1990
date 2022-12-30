@@ -95,7 +95,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Dispatch from Bangalore, end of 2022 edition](https://techcrunch.com/2022/12/29/state-of-indian-startups-venture-2022/)
-- [Watch SpaceX launch an Israeli reconnaissance satellite in its final flight of 2022 tonight](https://www.space.com/spacex-israeli-military-satellite-launch-last-of-2022)
+- [SpaceX launches Israeli reconnaissance satellite, lands rocket in final flight of 2022](https://www.space.com/spacex-israeli-military-satellite-launch-last-of-2022)
 - [Daily Crunch: 2 weeks after extended system failure, Alibaba CEO takes over company’s cloud division](https://techcrunch.com/2022/12/29/daily-crunch-2-weeks-after-extended-system-failure-alibaba-ceo-takes-over-companys-cloud-division/)
 - [What to expect at CES 2023](https://techcrunch.com/2022/12/29/ces-2023-preview-what-to-expect/)
 - [Is Instacart a forerunner of bad news?](https://techcrunch.com/2022/12/29/is-instacart-a-forerunner-of-bad-news/)
