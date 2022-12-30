@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [QuickVid uses AI to generate short-form videos, complete with voiceovers](https://techcrunch.com/2022/12/30/quickvid-uses-ai-to-generate-short-form-videos-complete-with-voiceovers/)
 - [Earth looks stunning in this 1st full view from the NOAA-21 satellite &lpar;photos&rpar;](https://www.space.com/first-full-earth-image-noaa-21-instrument)
 - [See the rare &#39;planet parade&#39; of 5 naked-eye planets in these photos by an astronomer](https://www.space.com/rare-naked-eye-planets-parade-december-2022-photos)
 - [There’s now an open source alternative to ChatGPT, but good luck running it](https://techcrunch.com/2022/12/30/theres-now-an-open-source-alternative-to-chatgpt-but-good-luck-running-it/)
 - [What to look for in a term sheet as a first-time founder](https://techcrunch.com/2022/12/30/what-to-look-for-in-a-term-sheet-as-a-first-time-founder/)
-- [Is there life on Mars? A NASA scientist explains in new video](https://www.space.com/could-life-exist-on-mars-nasa-video-2022)
 <!-- BLOG-POST-LIST:END -->
 
 ---
