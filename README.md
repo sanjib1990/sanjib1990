@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The most distant spacecraft in the solar system — Where are they now?](https://www.space.com/most-distant-spacecraft-voyagers-new-horizons)
+- [This wild interstellar picogram probe idea  could carry engineered microbes to other stars](https://www.space.com/interstellar-probes-microbes-other-stars)
 - [Dispatch from Bangalore, end of 2022 edition](https://techcrunch.com/2022/12/29/state-of-indian-startups-venture-2022/)
 - [SpaceX launches Israeli reconnaissance satellite, lands rocket in final flight of 2022](https://www.space.com/spacex-israeli-military-satellite-launch-last-of-2022)
 - [Daily Crunch: 2 weeks after extended system failure, Alibaba CEO takes over company’s cloud division](https://techcrunch.com/2022/12/29/daily-crunch-2-weeks-after-extended-system-failure-alibaba-ceo-takes-over-companys-cloud-division/)
-- [What to expect at CES 2023](https://techcrunch.com/2022/12/29/ces-2023-preview-what-to-expect/)
-- [Is Instacart a forerunner of bad news?](https://techcrunch.com/2022/12/29/is-instacart-a-forerunner-of-bad-news/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
