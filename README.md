@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Boom Supersonic unveils new Symphony engine for faster-than-sound Overture airliner](https://www.space.com/boom-supersonic-symphony-engine-overture-airliner)
+- [5 tips for dealing with Day 2 Kubernetes operational challenges](https://techcrunch.com/2022/12/30/5-tips-for-dealing-with-day-2-kubernetes-operations/)
 - [US Space Force launches new recruitment site with flashy Vulcan Centaur rocket](https://www.space.com/us-space-force-recruitment-vulcan-centaur-rocket)
 - [The most distant spacecraft in the solar system — Where are they now?](https://www.space.com/most-distant-spacecraft-voyagers-new-horizons)
 - [This wild interstellar picogram probe idea  could carry engineered microbes to other stars](https://www.space.com/interstellar-probes-microbes-other-stars)
-- [Dispatch from Bangalore, end of 2022 edition](https://techcrunch.com/2022/12/29/state-of-indian-startups-venture-2022/)
-- [SpaceX launches Israeli reconnaissance satellite, lands rocket in final flight of 2022](https://www.space.com/spacex-israeli-military-satellite-launch-last-of-2022)
 <!-- BLOG-POST-LIST:END -->
 
 ---
