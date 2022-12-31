@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Micromobility in limbo: Takeaways from Paris and LA](https://techcrunch.com/2022/12/31/micromobility-takeaways-paris-los-angeles-2022/)
+- [This gorgeous spiral galaxy spotted by Hubble telescope is a yardstick for galactic expansion](https://www.space.com/hubble-telescope-gorgeous-spiral-galaxy-ngc-6965)
 - [How we covered the creator economy in 2022](https://techcrunch.com/2022/12/31/how-we-covered-the-creator-economy-in-2022/)
 - [The year customer experience died](https://techcrunch.com/2022/12/31/the-year-customer-experience-died/)
 - [NASA sensors could help detect landfill methane from space to help limit climate change](https://www.space.com/nasa-mapping-methane-from-space-climate-change)
-- [How China is building a parallel generative AI universe](https://techcrunch.com/2022/12/31/how-china-is-building-a-parallel-generative-ai-universe/)
-- [Juno spacecraft recovering its memory after mind-blowing Jupiter flyby, NASA says](https://www.space.com/juno-spacecraft-memory-recovery-jupiter-flyby)
 <!-- BLOG-POST-LIST:END -->
 
 ---
