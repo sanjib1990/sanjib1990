@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hubble Space Telescope delivers holiday sparkle in new image](https://www.space.com/hubble-space-telescope-new-year-holiday-sparkle-photo)
+- [How to watch the Quadrantids – one of the best meteor showers all year – on Jan. 2 and 3](https://www.space.com/quadrantid-meteors-2023)
 - [Fidelity slashes the value of its Twitter stake by over half](https://techcrunch.com/2022/12/30/fidelity-slashes-the-value-of-its-twitter-stake-by-over-half/)
 - [Daily Crunch: To take the friction out of consumer messaging, more companies are entering the Matrix](https://techcrunch.com/2022/12/30/daily-crunch-to-take-the-friction-out-of-consumer-messaging-more-companies-are-entering-the-matrix/)
 - [QuickVid uses AI to generate short-form videos, complete with voiceovers](https://techcrunch.com/2022/12/30/quickvid-uses-ai-to-generate-short-form-videos-complete-with-voiceovers/)
-- [Earth looks stunning in this 1st full view from the NOAA-21 satellite &lpar;photos&rpar;](https://www.space.com/first-full-earth-image-noaa-21-instrument)
-- [See the rare &#39;planet parade&#39; of 5 naked-eye planets in these photos by an astronomer](https://www.space.com/rare-naked-eye-planets-parade-december-2022-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
