@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fidelity slashes the value of its Twitter stake by over half](https://techcrunch.com/2022/12/30/fidelity-slashes-the-value-of-its-twitter-stake-by-over-half/)
 - [Daily Crunch: To take the friction out of consumer messaging, more companies are entering the Matrix](https://techcrunch.com/2022/12/30/daily-crunch-to-take-the-friction-out-of-consumer-messaging-more-companies-are-entering-the-matrix/)
 - [QuickVid uses AI to generate short-form videos, complete with voiceovers](https://techcrunch.com/2022/12/30/quickvid-uses-ai-to-generate-short-form-videos-complete-with-voiceovers/)
 - [Earth looks stunning in this 1st full view from the NOAA-21 satellite &lpar;photos&rpar;](https://www.space.com/first-full-earth-image-noaa-21-instrument)
 - [See the rare &#39;planet parade&#39; of 5 naked-eye planets in these photos by an astronomer](https://www.space.com/rare-naked-eye-planets-parade-december-2022-photos)
-- [There’s now an open source alternative to ChatGPT, but good luck running it](https://techcrunch.com/2022/12/30/theres-now-an-open-source-alternative-to-chatgpt-but-good-luck-running-it/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
