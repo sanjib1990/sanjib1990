@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [On International Space Station, astronauts ring in New Year 2023 ahead of 2nd Christmas](https://www.space.com/international-space-station-new-year-2023)
 - [Newfound kind of supernova can tear apart a planet&#39;s atmosphere](https://www.space.com/new-supernova-type-destroy-planet-atmosphere)
 - [Micromobility in limbo: Takeaways from Paris and LA](https://techcrunch.com/2022/12/31/micromobility-takeaways-paris-los-angeles-2022/)
 - [This gorgeous spiral galaxy spotted by Hubble telescope is a yardstick for galactic expansion](https://www.space.com/hubble-telescope-gorgeous-spiral-galaxy-ngc-6965)
 - [How we covered the creator economy in 2022](https://techcrunch.com/2022/12/31/how-we-covered-the-creator-economy-in-2022/)
-- [The year customer experience died](https://techcrunch.com/2022/12/31/the-year-customer-experience-died/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
