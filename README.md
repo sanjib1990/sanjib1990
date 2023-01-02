@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch SpaceX launch 1st rocket of 2023 with EOS Sat-1 and 113 other satellites on Tuesday](https://www.space.com/watch-spacex-1st-rocket-launch-2023-transporter-6-rideshare-satellites)
+- [How to make the most of your startup’s big fundraising moment](https://techcrunch.com/2023/01/02/how-to-make-the-most-of-your-startups-big-fundraising-moment/)
 - [Why time-traveling tachyons probably don&#39;t exist](https://www.space.com/tachyon-time-travel-relativity)
 - [Hubble telescope spies a swarm of stars in a cosmic beehive](https://www.space.com/hubble-telescope-glittering-stars-bee-swarm-photos)
 - [India set an ‘incredibly important precedent’ by banning TikTok, FCC Commissioner says](https://techcrunch.com/2023/01/01/india-set-an-incredibly-important-precedent-by-banning-tiktok-fcc-commissioner-says/)
-- [On International Space Station, astronauts ring in New Year 2023 ahead of 2nd Christmas](https://www.space.com/international-space-station-new-year-2023)
-- [Newfound kind of supernova can tear apart a planet&#39;s atmosphere](https://www.space.com/new-supernova-type-destroy-planet-atmosphere)
 <!-- BLOG-POST-LIST:END -->
 
 ---
