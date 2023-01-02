@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Max Q: 2022 was big. 2023 will be even bigger.](https://techcrunch.com/2023/01/02/max-q-2022-was-big-2023-will-be-even-bigger/)
 - [Tesla delivers 405,278 vehicles in Q4, missing Wall Street expectations](https://techcrunch.com/2023/01/02/tesla-delivers-405278-vehicles-in-q4-missing-wall-street-expectations/)
 - [Feeding black hole blows &#39;cosmic bubbles&#39; amid high-energy burps](https://www.space.com/feeding-black-hole-burps-cosmic-bubbles)
 - [Product-led growth and profitability: What’s going on?](https://techcrunch.com/2023/01/02/product-led-growth-and-profitability-whats-going-on/)
 - [Watch NASA&#39;s SWOT satellite unfold in space to map Earth&#39;s water in stunning video](https://www.space.com/nasa-swot-earth-satellite-unfolds-video)
-- [Fintech predictions and opportunities for 2023](https://techcrunch.com/2023/01/02/fintech-predictions-and-opportunities-for-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
