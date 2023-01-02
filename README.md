@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Possible naked-eye comet will visit Earth for 1st time since Neanderthals in 2023](https://www.space.com/comet-2022-e3-ztf-possible-naked-eye-visibility-2023)
+- [What to expect from the creator economy in 2023](https://techcrunch.com/2023/01/02/what-to-expect-from-the-creator-economy-in-2023/)
+- [Yet another Zomato co-founder leaves the firm](https://techcrunch.com/2023/01/02/yet-another-zomato-co-founder-leaves-the-firm/)
 - [We need to destigmatize down rounds in 2023](https://techcrunch.com/2023/01/02/we-need-to-destigmatize-down-rounds-in-2023/)
-- [Hear from Ecobee CEO and Founder at a special, in-person TechCrunch Live at CES](https://techcrunch.com/2023/01/02/hear-from-ecobee-ceo-and-founder-at-a-special-in-person-techcrunch-live-at-ces/)
-- [Watch SpaceX launch 1st rocket of 2023 with EOS Sat-1 and 113 other satellites on Tuesday](https://www.space.com/watch-spacex-1st-rocket-launch-2023-transporter-6-rideshare-satellites)
-- [How to make the most of your startup’s big fundraising moment](https://techcrunch.com/2023/01/02/how-to-make-the-most-of-your-startups-big-fundraising-moment/)
-- [Why time-traveling tachyons probably don&#39;t exist](https://www.space.com/tachyon-time-travel-relativity)
+- [How gravitational waves can &#39;see inside&#39; black holes](https://www.space.com/black-hole-singularity-gravitational-waves)
 <!-- BLOG-POST-LIST:END -->
 
 ---
