@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [We need to destigmatize down rounds in 2023](https://techcrunch.com/2023/01/02/we-need-to-destigmatize-down-rounds-in-2023/)
+- [Hear from Ecobee CEO and Founder at a special, in-person TechCrunch Live at CES](https://techcrunch.com/2023/01/02/hear-from-ecobee-ceo-and-founder-at-a-special-in-person-techcrunch-live-at-ces/)
 - [Watch SpaceX launch 1st rocket of 2023 with EOS Sat-1 and 113 other satellites on Tuesday](https://www.space.com/watch-spacex-1st-rocket-launch-2023-transporter-6-rideshare-satellites)
 - [How to make the most of your startup’s big fundraising moment](https://techcrunch.com/2023/01/02/how-to-make-the-most-of-your-startups-big-fundraising-moment/)
 - [Why time-traveling tachyons probably don&#39;t exist](https://www.space.com/tachyon-time-travel-relativity)
-- [Hubble telescope spies a swarm of stars in a cosmic beehive](https://www.space.com/hubble-telescope-glittering-stars-bee-swarm-photos)
-- [India set an ‘incredibly important precedent’ by banning TikTok, FCC Commissioner says](https://techcrunch.com/2023/01/01/india-set-an-incredibly-important-precedent-by-banning-tiktok-fcc-commissioner-says/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
