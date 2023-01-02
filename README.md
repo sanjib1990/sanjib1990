@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Feeding black hole blows &#39;cosmic bubbles&#39; amid high-energy burps](https://www.space.com/feeding-black-hole-burps-cosmic-bubbles)
 - [Product-led growth and profitability: What’s going on?](https://techcrunch.com/2023/01/02/product-led-growth-and-profitability-whats-going-on/)
 - [Watch NASA&#39;s SWOT satellite unfold in space to map Earth&#39;s water in stunning video](https://www.space.com/nasa-swot-earth-satellite-unfolds-video)
 - [Fintech predictions and opportunities for 2023](https://techcrunch.com/2023/01/02/fintech-predictions-and-opportunities-for-2023/)
 - [Possible naked-eye comet will visit Earth for 1st time since Neanderthals in 2023](https://www.space.com/comet-2022-e3-ztf-possible-naked-eye-visibility-2023)
-- [What to expect from the creator economy in 2023](https://techcrunch.com/2023/01/02/what-to-expect-from-the-creator-economy-in-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
