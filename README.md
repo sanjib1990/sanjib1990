@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch NASA&#39;s SWOT satellite unfold in space to map Earth&#39;s water in stunning video](https://www.space.com/nasa-swot-earth-satellite-unfolds-video)
+- [Fintech predictions and opportunities for 2023](https://techcrunch.com/2023/01/02/fintech-predictions-and-opportunities-for-2023/)
 - [Possible naked-eye comet will visit Earth for 1st time since Neanderthals in 2023](https://www.space.com/comet-2022-e3-ztf-possible-naked-eye-visibility-2023)
 - [What to expect from the creator economy in 2023](https://techcrunch.com/2023/01/02/what-to-expect-from-the-creator-economy-in-2023/)
 - [Yet another Zomato co-founder leaves the firm](https://techcrunch.com/2023/01/02/yet-another-zomato-co-founder-leaves-the-firm/)
-- [We need to destigmatize down rounds in 2023](https://techcrunch.com/2023/01/02/we-need-to-destigmatize-down-rounds-in-2023/)
-- [How gravitational waves can &#39;see inside&#39; black holes](https://www.space.com/black-hole-singularity-gravitational-waves)
 <!-- BLOG-POST-LIST:END -->
 
 ---
