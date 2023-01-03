@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Does consciousness explain quantum mechanics?](https://www.space.com/does-consciousness-explain-quantum-mechanics)
+- [Hubble telescope spots magnificent open star cluster 160,000 light-years away](https://www.space.com/hubble-telescope-open-star-cluster-ngc-2002-photo)
 - [Here&#39;s China&#39;s 1st moon landing with astronauts might look like &lpar;video&rpar;](https://www.space.com/china-moon-landers-astronauts-renderings)
 - [Apple is increasing battery replacement service charges for out-of-warranty devices](https://techcrunch.com/2023/01/03/apple-is-increasing-battery-replacement-service-charges-for-out-of-warranty-devices/)
 - [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [This startup brings Southeast Asia’s vacant hospital rooms into the sharing economy](https://techcrunch.com/2023/01/02/this-startup-brings-southeast-asias-vacant-hospital-rooms-into-the-sharing-economy/)
-- [Indian fintech BharatPe CEO Suhail Sameer to leave top job](https://techcrunch.com/2023/01/02/indian-fintech-bharatpe-ceo-suhail-sameer-to-leave-top-job/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
