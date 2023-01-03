@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Reddit users discover Apple is raising its battery replacement service fees](https://techcrunch.com/2023/01/03/daily-crunch-reddit-users-discover-apple-is-raising-its-battery-replacement-service-fees/)
+- [NASA&#39;s Artemis 1 Orion spacecraft arrives in Florida &lpar;photos&rpar;](https://www.space.com/nasa-artemis-1-spacecraft-orion-arrives-florida)
+- [Astronaut Walt Cunningham, who test-flew Apollo 7 command module, dies at 90](https://www.space.com/apollo-7-astronaut-walt-cunningham-obituary)
+- [NASA asks SpaceX about International Space Station rescue options](https://www.space.com/nasa-spacex-dragon-international-space-station-rescue)
 - [Newfound &#39;hot Jupiter&#39; exoplanet celebrates New Year&#39;s every 5 days](https://www.space.com/hot-jupiter-exoplanet-rapidly-spinning-star)
-- [You must now verify your drivers license to watch Pornhub in Louisiana](https://techcrunch.com/2023/01/03/you-must-now-verify-your-drivers-license-to-watch-pornhub-in-louisiana/)
-- [Remember how this whole working thing works?](https://techcrunch.com/2023/01/03/remember-how-this-whole-working-thing-works/)
-- [How well did Israel’s cybersecurity industry do in 2022?](https://techcrunch.com/2023/01/03/how-well-did-israels-cybersecurity-industry-do-in-2022/)
-- [Former FTX CEO SBF pleads not guilty to US criminal charges](https://techcrunch.com/2023/01/03/ftx-former-ceo-sbf-pleads-not-guilty-to-u-s-criminal-charges/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
