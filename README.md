@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Some black hole mergers happen in chaotic star cluster &#39;carnivals&#39;](https://www.space.com/black-hole-carnivals-mergers-star-clusters)
+- [Here’s how you described the tech industry’s 2022 in a headline](https://techcrunch.com/2023/01/03/heres-how-you-described-the-tech-industrys-2022-in-a-headline/)
+- [Nvidia upgrades GeForce Now with RTX 4080 performance for premium users](https://techcrunch.com/2023/01/03/nvidia-upgrades-geforce-now-with-rtx-4080-performance-for-premium-users/)
 - [New year, new space stuff: A look ahead at 2023 in space memorabilia](https://www.space.com/space-memorabilia-2023-year-ahead)
 - [3 ways PE firms can ensure relevant due diligence for M&amp;A targets ahead of a recession](https://techcrunch.com/2023/01/03/how-pe-firms-can-ensure-relevant-due-diligence-for-ma-targets-ahead-of-a-recession/)
-- [Foxconn’s EVs will be built with Nvidia’s self-driving toolkit](https://techcrunch.com/2023/01/03/foxconns-evs-will-be-built-with-nvidias-self-driving-toolkit/)
-- [Mercedes to use Nvidia’s digital twin tech to modernize its factories](https://techcrunch.com/2023/01/03/mercedes-to-use-nvidias-digital-twin-tech-to-modernize-its-factories/)
-- [Nvidia’s robot simulator adds human coworkers](https://techcrunch.com/2023/01/03/nvidias-robot-simulator-adds-human-coworkers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
