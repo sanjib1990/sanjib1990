@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Remember how this whole working thing works?](https://techcrunch.com/2023/01/03/remember-how-this-whole-working-thing-works/)
 - [How well did Israel’s cybersecurity industry do in 2022?](https://techcrunch.com/2023/01/03/how-well-did-israels-cybersecurity-industry-do-in-2022/)
-- [Former FTX CEO SBF pleads not guilty to U.S. criminal charges](https://techcrunch.com/2023/01/03/ftx-former-ceo-sbf-pleads-not-guilty-to-u-s-criminal-charges/)
+- [Former FTX CEO SBF pleads not guilty to US criminal charges](https://techcrunch.com/2023/01/03/ftx-former-ceo-sbf-pleads-not-guilty-to-u-s-criminal-charges/)
 - [Microsoft now has its first official union in the US](https://techcrunch.com/2023/01/03/microsoft-zenimax-union/)
 - [Two CEOs is better than one with Henrique Dubugras from Brex](https://techcrunch.com/2023/01/03/two-ceos-is-better-than-one-with-henrique-dubugras-from-brex/)
-- [Chinese moon mission&#39;s sample haul includes exotic volcanic rocks](https://www.space.com/china-moon-mission-sample-return-volcanic-rocks)
 <!-- BLOG-POST-LIST:END -->
 
 ---
