@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [5 tips for healthcare startups fundraising in a down market](https://techcrunch.com/2023/01/03/5-tips-for-healthcare-startups-fundraising-in-a-down-market/)
-- [James Webb Space Telescope captures chaotic cosmic collision](https://www.space.com/james-webb-space-telescope-galaxy-collision-photo)
-- [James Webb Space Telescope captures chaotic cosmic collision](https://www.space.com/james-webb-space-telescope-cosmic-collision)
-- [SpaceX launches 114 satellites and nails rocket landing in its landmark 200th flight](https://www.space.com/spacex-transporter-6-mission-launch-success)
-- [Solana price spikes as newly launched dog coin BONK gains community hype](https://techcrunch.com/2023/01/03/solana-price-spikes-as-newly-launched-dog-coin-bonk-gains-community-hype/)
+- [New year, new space stuff: A look ahead at 2023 in space memorabilia](https://www.space.com/space-memorabilia-2023-year-ahead)
+- [3 ways PE firms can ensure relevant due diligence for M&amp;A targets ahead of a recession](https://techcrunch.com/2023/01/03/how-pe-firms-can-ensure-relevant-due-diligence-for-ma-targets-ahead-of-a-recession/)
+- [Foxconn’s EVs will be built with Nvidia’s self-driving toolkit](https://techcrunch.com/2023/01/03/foxconns-evs-will-be-built-with-nvidias-self-driving-toolkit/)
+- [Mercedes to use Nvidia’s digital twin tech to modernize its factories](https://techcrunch.com/2023/01/03/mercedes-to-use-nvidias-digital-twin-tech-to-modernize-its-factories/)
+- [Nvidia’s robot simulator adds human coworkers](https://techcrunch.com/2023/01/03/nvidias-robot-simulator-adds-human-coworkers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
