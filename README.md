@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Here&#39;s China&#39;s 1st moon landing with astronauts might look like &lpar;video&rpar;](https://www.space.com/china-moon-landers-astronauts-renderings)
 - [Apple is increasing battery replacement service charges for out-of-warranty devices](https://techcrunch.com/2023/01/03/apple-is-increasing-battery-replacement-service-charges-for-out-of-warranty-devices/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [This startup brings Southeast Asia’s vacant hospital rooms into the sharing economy](https://techcrunch.com/2023/01/02/this-startup-brings-southeast-asias-vacant-hospital-rooms-into-the-sharing-economy/)
 - [Indian fintech BharatPe CEO Suhail Sameer to leave top job](https://techcrunch.com/2023/01/02/indian-fintech-bharatpe-ceo-suhail-sameer-to-leave-top-job/)
-- [Startups set to go to space for the first time on SpaceX’s Transporter-6 mission](https://techcrunch.com/2023/01/02/startups-spacex-transporter-6-mission/)
-- [Max Q: 2022 was big. 2023 will be even bigger.](https://techcrunch.com/2023/01/02/max-q-2022-was-big-2023-will-be-even-bigger/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
