@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Some black hole mergers happen in chaotic star cluster &#39;carnivals&#39;](https://www.space.com/black-hole-carnivals-mergers-star-clusters)
-- [Here’s how you described the tech industry’s 2022 in a headline](https://techcrunch.com/2023/01/03/heres-how-you-described-the-tech-industrys-2022-in-a-headline/)
-- [Nvidia upgrades GeForce Now with RTX 4080 performance for premium users](https://techcrunch.com/2023/01/03/nvidia-upgrades-geforce-now-with-rtx-4080-performance-for-premium-users/)
-- [New year, new space stuff: A look ahead at 2023 in space memorabilia](https://www.space.com/space-memorabilia-2023-year-ahead)
-- [3 ways PE firms can ensure relevant due diligence for M&amp;A targets ahead of a recession](https://techcrunch.com/2023/01/03/how-pe-firms-can-ensure-relevant-due-diligence-for-ma-targets-ahead-of-a-recession/)
+- [Microsoft now has its first official union in the U.S.](https://techcrunch.com/2023/01/03/microsoft-zenimax-union/)
+- [Two CEOs is better than one with Henrique Dubugras from Brex](https://techcrunch.com/2023/01/03/two-ceos-is-better-than-one-with-henrique-dubugras-from-brex/)
+- [Chinese moon mission&#39;s sample haul includes exotic volcanic rocks](https://www.space.com/china-moon-mission-sample-return-volcanic-rocks)
+- [Hackers claim ransomware attack on Los Angeles housing authority](https://techcrunch.com/2023/01/03/hackers-claims-ransomware-attack-on-los-angeles-housing-authority/)
+- [Here’s what USV plans to do in 2023 with its $200M climate fund](https://techcrunch.com/2023/01/03/heres-what-usv-plans-to-do-in-2023-with-its-200m-climate-fund/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
