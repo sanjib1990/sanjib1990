@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple is increasing battery replacement service charges for out-of-warranty devices](https://techcrunch.com/2023/01/03/apple-is-increasing-battery-replacement-service-charges-for-out-of-warranty-devices/)
 - [This startup brings Southeast Asia’s vacant hospital rooms into the sharing economy](https://techcrunch.com/2023/01/02/this-startup-brings-southeast-asias-vacant-hospital-rooms-into-the-sharing-economy/)
 - [Indian fintech BharatPe CEO Suhail Sameer to leave top job](https://techcrunch.com/2023/01/02/indian-fintech-bharatpe-ceo-suhail-sameer-to-leave-top-job/)
 - [Startups set to go to space for the first time on SpaceX’s Transporter-6 mission](https://techcrunch.com/2023/01/02/startups-spacex-transporter-6-mission/)
 - [Max Q: 2022 was big. 2023 will be even bigger.](https://techcrunch.com/2023/01/02/max-q-2022-was-big-2023-will-be-even-bigger/)
-- [Tesla delivers 405,278 vehicles in Q4, missing Wall Street expectations](https://techcrunch.com/2023/01/02/tesla-delivers-405278-vehicles-in-q4-missing-wall-street-expectations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
