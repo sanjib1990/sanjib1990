@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Mind-boggling&#39; alloy is Earth&#39;s toughest material, even at extreme temperatures](https://www.space.com/toughest-material-nickel-cobalt-chromium-alloy)
-- [Does consciousness explain quantum mechanics?](https://www.space.com/does-consciousness-explain-quantum-mechanics)
-- [Hubble telescope spots magnificent open star cluster 160,000 light-years away](https://www.space.com/hubble-telescope-open-star-cluster-ngc-2002-photo)
-- [Here&#39;s what China&#39;s 1st moon landing with astronauts might look like &lpar;video&rpar;](https://www.space.com/china-moon-landers-astronauts-renderings)
-- [Apple is increasing battery replacement service charges for out-of-warranty devices](https://techcrunch.com/2023/01/03/apple-is-increasing-battery-replacement-service-charges-for-out-of-warranty-devices/)
+- [5 tips for healthcare startups fundraising in a down market](https://techcrunch.com/2023/01/03/5-tips-for-healthcare-startups-fundraising-in-a-down-market/)
+- [James Webb Space Telescope captures chaotic cosmic collision](https://www.space.com/james-webb-space-telescope-galaxy-collision-photo)
+- [James Webb Space Telescope captures chaotic cosmic collision](https://www.space.com/james-webb-space-telescope-cosmic-collision)
+- [SpaceX launches 114 satellites and nails rocket landing in its landmark 200th flight](https://www.space.com/spacex-transporter-6-mission-launch-success)
+- [Solana price spikes as newly launched dog coin BONK gains community hype](https://techcrunch.com/2023/01/03/solana-price-spikes-as-newly-launched-dog-coin-bonk-gains-community-hype/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
