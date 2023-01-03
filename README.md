@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This startup brings Southeast Asia’s vacant hospital rooms into the sharing economy](https://techcrunch.com/2023/01/02/this-startup-brings-southeast-asias-vacant-hospital-rooms-into-the-sharing-economy/)
+- [Indian fintech BharatPe CEO Suhail Sameer to leave top job](https://techcrunch.com/2023/01/02/indian-fintech-bharatpe-ceo-suhail-sameer-to-leave-top-job/)
 - [Startups set to go to space for the first time on SpaceX’s Transporter-6 mission](https://techcrunch.com/2023/01/02/startups-spacex-transporter-6-mission/)
 - [Max Q: 2022 was big. 2023 will be even bigger.](https://techcrunch.com/2023/01/02/max-q-2022-was-big-2023-will-be-even-bigger/)
 - [Tesla delivers 405,278 vehicles in Q4, missing Wall Street expectations](https://techcrunch.com/2023/01/02/tesla-delivers-405278-vehicles-in-q4-missing-wall-street-expectations/)
-- [Feeding black hole blows &#39;cosmic bubbles&#39; amid high-energy burps](https://www.space.com/feeding-black-hole-burps-cosmic-bubbles)
-- [Product-led growth and profitability: What’s going on?](https://techcrunch.com/2023/01/02/product-led-growth-and-profitability-whats-going-on/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
