@@ -97,7 +97,7 @@
 - [&#39;Mind-boggling&#39; alloy is Earth&#39;s toughest material, even at extreme temperatures](https://www.space.com/toughest-material-nickel-cobalt-chromium-alloy)
 - [Does consciousness explain quantum mechanics?](https://www.space.com/does-consciousness-explain-quantum-mechanics)
 - [Hubble telescope spots magnificent open star cluster 160,000 light-years away](https://www.space.com/hubble-telescope-open-star-cluster-ngc-2002-photo)
-- [Here&#39;s China&#39;s 1st moon landing with astronauts might look like &lpar;video&rpar;](https://www.space.com/china-moon-landers-astronauts-renderings)
+- [Here&#39;s what China&#39;s 1st moon landing with astronauts might look like &lpar;video&rpar;](https://www.space.com/china-moon-landers-astronauts-renderings)
 - [Apple is increasing battery replacement service charges for out-of-warranty devices](https://techcrunch.com/2023/01/03/apple-is-increasing-battery-replacement-service-charges-for-out-of-warranty-devices/)
 <!-- BLOG-POST-LIST:END -->
 
