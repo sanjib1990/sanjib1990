@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Breathe along with the robot pillow](https://techcrunch.com/2023/01/03/breathe-along-with-the-robot-pillow/)
+- [Aromajoin brings videos to life by squirting your face with smells](https://techcrunch.com/2023/01/03/aromajoin-launch/)
+- [Bosch is rolling out a security dashcam designed for rideshare drivers](https://techcrunch.com/2023/01/03/bosch-is-rolling-out-a-security-dashcam-designed-for-rideshare-drivers/)
+- [Nanoleaf debuts smart lighting for ceilings, TVs and more](https://techcrunch.com/2023/01/03/nanoleaf-debuts-smart-lighting-for-ceilings-tvs-and-more/)
 - [Icoma shows off a suitcase-size electric Transformer-style motorbike](https://techcrunch.com/2023/01/03/icoma-tatamal-bike/)
-- [The Volkswagen all-electric ID 7 sedan’s most interesting feature isn’t its light-up paint](https://techcrunch.com/2023/01/03/the-volkswagen-all-electric-id-7-sedans-most-interesting-feature-isnt-its-light-up-paint/)
-- [Amazon secures $8B loan, anticipating market headwinds](https://techcrunch.com/2023/01/03/amazon-secures-8b-loan-anticipating-market-headwinds/)
-- [New York’s right-to-repair bill has major carve-outs for manufacturers](https://techcrunch.com/2023/01/03/new-yorks-right-to-repair-bill-has-major-carve-outs-for-manufacturers/)
-- [Daily Crunch: Reddit users discover Apple is raising its battery replacement service fees](https://techcrunch.com/2023/01/03/daily-crunch-reddit-users-discover-apple-is-raising-its-battery-replacement-service-fees/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
