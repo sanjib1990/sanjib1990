@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Wireless Power Consortium is working with Apple to bring MagSafe-like capabilities to Android](https://techcrunch.com/2023/01/04/wireless-power-consortium-is-working-with-apple-to-bring-magsafe-like-capabilities-to-android/)
-- [Bird Buddy’s new smart hummingbird feeder can photograph and identify 350 different bird species](https://techcrunch.com/2023/01/04/bird-buddys-new-smart-hummingbird-feeder-can-photograph-and-identify-350-different-bird-species/)
-- [Online grocery startup Kurly scraps IPO amid market uncertainty](https://techcrunch.com/2023/01/04/online-grocery-startup-kurly-scraps-ipo-amid-market-uncertainty/)
-- [Joby GorillaPod 5K Tripod review](https://www.space.com/joby-gorillapod-5k-tripod-review)
-- [HAARP antenna array attempts to look inside a passing asteroid with radio waves](https://www.space.com/haarp-peers-inside-asteroid)
+- [Salesforce to cut workforce by 10% after hiring ‘too many people’ during the pandemic](https://techcrunch.com/2023/01/04/salesforce-to-cut-workforce-by-10-after-hiring-too-many-people-during-the-pandemic/)
+- [Nowatch is a health-focused smartwatch without the watch part](https://techcrunch.com/2023/01/04/nowatch/)
+- [5 failure points between $5M and $100M in ARR](https://techcrunch.com/2023/01/04/5-failure-points-between-5m-and-100m-in-arr/)
+- [61 launches! SpaceX celebrates record-breaking 2022](https://www.space.com/spacex-celebrates-2022-61-launches)
+- [SurrealDB raises $6M for its database-as-a-service offering](https://techcrunch.com/2023/01/04/surrealdb-raises-6m-startup-funding-database-as-a-service/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
