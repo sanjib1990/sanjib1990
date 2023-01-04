@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ottonomy’s new delivery robot gets an automatic package dispenser](https://techcrunch.com/2023/01/04/ottonomys-new-delivery-robot-gets-an-automatic-package-dispenser/)
+- [Camera maker Canon leans into software at CES](https://techcrunch.com/2023/01/04/canon-at-ces/)
+- [Seen at CES: Nuralogix uses AI and a selfie to measure your heart rate, BP, body mass, skin age, stress level, and more](https://techcrunch.com/2023/01/04/seen-at-ces-nuralogix-uses-ai-and-a-selfie-to-measure-your-heart-rate-bp-body-mass-skin-age-stress-level-and-more/)
 - [Read, which lets you measure how well a meeting is going, is now a Zoom Essential App](https://techcrunch.com/2023/01/04/read-zoom/)
 - [Investors say web3 and hype are in for 2023, high valuations are out — maybe?](https://techcrunch.com/2023/01/04/investors-say-web3-and-hype-are-in-for-2023-high-valuations-are-out-maybe/)
-- [Spotify’s new time capsule feature will let you revisit your musical taste a year from now](https://techcrunch.com/2023/01/04/spotifys-time-capsule-feature-revisit-your-music-tastes-one-year-later/)
-- [Harman’s driver monitoring system can measure your heart rate](https://techcrunch.com/2023/01/04/harmans-driver-monitoring-system-can-measure-your-heart-rate/)
-- [Satellites watch &#39;atmospheric river&#39; bring extreme rain to California &lpar;photos&rpar;](https://www.space.com/atmospheric-river-record-rain-california-satellite-view)
 <!-- BLOG-POST-LIST:END -->
 
 ---
