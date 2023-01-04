@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This is Chrysler’s vision for your future car cabin](https://techcrunch.com/2023/01/03/this-is-chryslers-vision-for-your-future-car-cabin/)
 - [India’s crypto tax pushing traders to foreign exchanges](https://techcrunch.com/2023/01/03/india-crypto-tax-pushing-traders-to-foreign-exchanges/)
 - [It’s like the Power Glove, but for VR](https://techcrunch.com/2023/01/03/its-like-the-power-glove-but-for-vr/)
 - [Breathe along with the robot pillow](https://techcrunch.com/2023/01/03/breathe-along-with-the-robot-pillow/)
 - [Aromajoin brings videos to life by squirting your face with smells](https://techcrunch.com/2023/01/03/aromajoin-launch/)
-- [Bosch is rolling out a security dashcam designed for rideshare drivers](https://techcrunch.com/2023/01/03/bosch-is-rolling-out-a-security-dashcam-designed-for-rideshare-drivers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
