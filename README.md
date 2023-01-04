@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to ACTUALLY learn to code... 7 Roadmaps for 2023](https://www.youtube.com/watch?v=66tfvFeALBQ)
 - [JPG vs PNG vs WEBP vs GIF vs SVG](https://www.youtube.com/watch?v=U_QNznf2FZA)
 - [What do Computer Scientists Read? - Computerphile](https://www.youtube.com/watch?v=dMYgY5FhO3M)
 - [you NEED to use VS Code RIGHT NOW!!](https://www.youtube.com/watch?v=1ZfO149BJvg)
 - [Why my chat app broke… a cautionary tale](https://www.youtube.com/watch?v=M93w3TjzVUE)
-- [From Open Access to Educational Equity: An HBCU+MERLOT+MIT OCW Collaboration](https://www.youtube.com/watch?v=-htdFMTbPvg)
 <!-- YOUTUBE:END -->
 
 ---
