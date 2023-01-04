@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Coinbase reaches $100M settlement over background check failures](https://techcrunch.com/2023/01/04/coinbase-reaches-100m-settlement-over-background-check-failures/)
+- [A giant plasma cloud bursts from the sun, but fortunately it won&#39;t hit Earth](https://www.space.com/massive-cme-erupts-from-behind-sun)
+- [DoorDash will now return your packages for you](https://techcrunch.com/2023/01/04/doordash-will-now-return-your-packages-for-you/)
 - [Formlabs inches towards mass manufacturing with high-volume 3D printing solutions](https://techcrunch.com/2023/01/04/formlabs-automation-ecosystem/)
 - [Holoride launches new device to bring VR entertainment to any vehicle](https://techcrunch.com/2023/01/04/holoride-launches-device-to-bring-vr-into-any-vehicle/)
-- [Private Japanese lunar lander performs 2nd major maneuver on its way to the moon](https://www.space.com/ispace-moon-lander-second-deep-space-maneuver)
-- [Meta’s New Year kicks off with over $410M in fresh EU privacy fines](https://techcrunch.com/2023/01/04/facebook-instagram-gdpr-forced-consent-final-decisions/)
-- [When will IPOs return? The past may hold some clues](https://techcrunch.com/2023/01/04/when-will-ipos-return-the-past-may-hold-some-clues/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
