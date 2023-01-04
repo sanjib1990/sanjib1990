@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Satellites watch &#39;atmospheric river&#39; bring extreme rain to California &lpar;photos&rpar;](https://www.space.com/atmospheric-river-record-rain-california-satellite-view)
+- [WoWee returns to robots with a dog named ‘Dog-E’](https://techcrunch.com/2023/01/04/wowee-returns-to-robots-with-a-dog-named-dog-e/)
+- [Vimeo enters 2023 with a round of layoffs, impacting 11% of employees](https://techcrunch.com/2023/01/04/vimeo-layoffs-2023/)
 - [South Korea&#39;s moon mission snaps stunning Earth pics after successful lunar arrival](https://www.space.com/south-korea-earth-moon-photos-danuri)
 - [SBF’s anticipated not guilty plea was a ‘smart play’](https://techcrunch.com/2023/01/04/sbfs-anticipated-not-guilty-plea-was-a-smart-play/)
-- [Goodyear, Gatik say tire tech is key to bringing AVs to winter climates](https://techcrunch.com/2023/01/04/goodyear-gatik-say-tire-tech-is-key-to-bringing-avs-to-winter-climates/)
-- [Amazon’s custom-built ‘Hey Disney!’ voice assistant will become available for purchase later this year](https://techcrunch.com/2023/01/04/amazons-custom-built-hey-disney-voice-assistant-will-become-available-for-purchase-later-this-year/)
-- [Trade Republic, a popular stock trading app, adds 2% interest on cash](https://techcrunch.com/2023/01/04/trade-republic-a-popular-stock-trading-app-adds-2-interest-on-cash/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
