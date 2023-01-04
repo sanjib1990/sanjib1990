@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Product Science, which develops mobile app performance monitoring tools, lands $18M](https://techcrunch.com/2023/01/04/product-science-raises-18m-for-mobile-app-performance-testing/)
-- [Salesforce to cut workforce by 10% after hiring ‘too many people’ during the pandemic](https://techcrunch.com/2023/01/04/salesforce-to-cut-workforce-by-10-after-hiring-too-many-people-during-the-pandemic/)
-- [Nowatch is a health-focused smartwatch without the watch part](https://techcrunch.com/2023/01/04/nowatch/)
-- [5 failure points between $5M and $100M in ARR](https://techcrunch.com/2023/01/04/5-failure-points-between-5m-and-100m-in-arr/)
-- [61 launches! SpaceX celebrates record-breaking 2022](https://www.space.com/spacex-celebrates-2022-61-launches)
+- [Formlabs inches towards mass manufacturing with high-volume 3D printing solutions](https://techcrunch.com/2023/01/04/formlabs-automation-ecosystem/)
+- [Holoride launches new device to bring VR entertainment to any vehicle](https://techcrunch.com/2023/01/04/holoride-launches-device-to-bring-vr-into-any-vehicle/)
+- [Private Japanese lunar lander performs 2nd major maneuver on its way to the moon](https://www.space.com/ispace-moon-lander-second-deep-space-maneuver)
+- [Meta’s New Year kicks off with over $410M in fresh EU privacy fines](https://techcrunch.com/2023/01/04/facebook-instagram-gdpr-forced-consent-final-decisions/)
+- [When will IPOs return? The past may hold some clues](https://techcrunch.com/2023/01/04/when-will-ipos-return-the-past-may-hold-some-clues/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
