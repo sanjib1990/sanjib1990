@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Singapore-based AlterPacks turns food waste into food containers](https://techcrunch.com/2023/01/03/alterpacks/)
+- [Twitter is set to reverse the political ad ban to bolster up its revenue](https://techcrunch.com/2023/01/03/twitter-is-set-to-reverse-the-political-ad-ban-to-bolster-up-its-revenue/)
 - [This is Chrysler’s vision for your future car cabin](https://techcrunch.com/2023/01/03/this-is-chryslers-vision-for-your-future-car-cabin/)
 - [India’s crypto tax pushing traders to foreign exchanges](https://techcrunch.com/2023/01/03/india-crypto-tax-pushing-traders-to-foreign-exchanges/)
 - [It’s like the Power Glove, but for VR](https://techcrunch.com/2023/01/03/its-like-the-power-glove-but-for-vr/)
-- [Breathe along with the robot pillow](https://techcrunch.com/2023/01/03/breathe-along-with-the-robot-pillow/)
-- [Aromajoin brings videos to life by squirting your face with smells](https://techcrunch.com/2023/01/03/aromajoin-launch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
