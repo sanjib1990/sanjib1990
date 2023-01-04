@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Salesforce CEO admits ‘we hired too many people’ as company lays off +7,000 employees](https://techcrunch.com/2023/01/04/daily-crunch-salesforce-ceo-admits-we-hired-too-many-people-as-company-lays-off-7000-employees/)
+- [Bankruptcy judge rules Celsius Network owns users’ interest-bearing crypto accounts](https://techcrunch.com/2023/01/04/bankruptcy-judge-rules-celsius-network-owns-users-interest-bearing-crypto-accounts/)
 - [Twitter’s advanced search filters for mobile are on their way](https://techcrunch.com/2023/01/04/twitters-advanced-search-filters-for-mobile-are-on-their-way/)
 - [Samsung’s new wireless charger has a smart home hub built-in](https://techcrunch.com/2023/01/04/samsungs-new-wireless-charger-has-a-smart-home-hub-built-in/)
 - [Ottonomy’s new delivery robot gets an automatic package dispenser](https://techcrunch.com/2023/01/04/ottonomys-new-delivery-robot-gets-an-automatic-package-dispenser/)
-- [Camera maker Canon leans into software at CES](https://techcrunch.com/2023/01/04/canon-at-ces/)
-- [Seen at CES: Nuralogix uses AI and a selfie to measure your heart rate, BP, body mass, skin age, stress level, and more](https://techcrunch.com/2023/01/04/seen-at-ces-nuralogix-uses-ai-and-a-selfie-to-measure-your-heart-rate-bp-body-mass-skin-age-stress-level-and-more/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
