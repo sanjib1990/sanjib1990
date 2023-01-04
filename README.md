@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Read, which lets you measure how well a meeting is going, is now a Zoom Essential App](https://techcrunch.com/2023/01/04/read-zoom/)
+- [Investors say web3 and hype are in for 2023, high valuations are out — maybe?](https://techcrunch.com/2023/01/04/investors-say-web3-and-hype-are-in-for-2023-high-valuations-are-out-maybe/)
+- [Spotify’s new time capsule feature will let you revisit your musical taste a year from now](https://techcrunch.com/2023/01/04/spotifys-time-capsule-feature-revisit-your-music-tastes-one-year-later/)
+- [Harman’s driver monitoring system can measure your heart rate](https://techcrunch.com/2023/01/04/harmans-driver-monitoring-system-can-measure-your-heart-rate/)
 - [Satellites watch &#39;atmospheric river&#39; bring extreme rain to California &lpar;photos&rpar;](https://www.space.com/atmospheric-river-record-rain-california-satellite-view)
-- [WoWee returns to robots with a dog named ‘Dog-E’](https://techcrunch.com/2023/01/04/wowee-returns-to-robots-with-a-dog-named-dog-e/)
-- [Vimeo enters 2023 with a round of layoffs, impacting 11% of employees](https://techcrunch.com/2023/01/04/vimeo-layoffs-2023/)
-- [South Korea&#39;s moon mission snaps stunning Earth pics after successful lunar arrival](https://www.space.com/south-korea-earth-moon-photos-danuri)
-- [SBF’s anticipated not guilty plea was a ‘smart play’](https://techcrunch.com/2023/01/04/sbfs-anticipated-not-guilty-plea-was-a-smart-play/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
