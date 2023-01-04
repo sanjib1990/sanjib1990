@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The sky isn&#39;t just blue — airglow makes it green, yellow and red too](https://www.space.com/sky-not-just-blue-airglow-colors)
+- [Pee is the magic number, as Withings puts a urine analysis lab in your toilet](https://techcrunch.com/2023/01/04/withings-u-scan/)
+- [Last chance — Apply to present at TechCrunch Early Stage](https://techcrunch.com/2023/01/04/last-chance-apply-to-present-at-techcrunch-early-stage/)
+- [Stellantis to mass produce Archer’s electric aircraft in expanded deal](https://techcrunch.com/2023/01/04/stellantis-will-build-evtol-aircraft-for-archer/)
 - [Coinbase reaches $100M settlement over background check failures](https://techcrunch.com/2023/01/04/coinbase-reaches-100m-settlement-over-background-check-failures/)
-- [A giant plasma cloud bursts from the sun, but fortunately it won&#39;t hit Earth](https://www.space.com/massive-cme-erupts-from-behind-sun)
-- [DoorDash will now return your packages for you](https://techcrunch.com/2023/01/04/doordash-will-now-return-your-packages-for-you/)
-- [Formlabs inches towards mass manufacturing with high-volume 3D printing solutions](https://techcrunch.com/2023/01/04/formlabs-automation-ecosystem/)
-- [Holoride launches new device to bring VR entertainment to any vehicle](https://techcrunch.com/2023/01/04/holoride-launches-device-to-bring-vr-into-any-vehicle/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
