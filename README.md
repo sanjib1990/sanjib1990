@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple launches AI-powered book narrations](https://techcrunch.com/2023/01/05/apple-launches-ai-powered-book-narrations/)
-- [Save over $100 on the Celestron 114AZ-SR telescope this new year](https://www.space.com/celestron-114az-sr-telescope-deal-save-100-dollars-january-2023)
-- [&#39;Space Legend&#39; watch set celebrates 1975 visit by Apollo-Soyuz crew to Disney](https://www.space.com/undone-disney-space-legend-watches)
-- [Moon scientists hail Artemis opportunities while still learning from Apollo](https://www.space.com/moon-science-apollo-artemis-geology)
-- [France fines Apple over App Store ad targeting ePrivacy breach](https://techcrunch.com/2023/01/05/apple-app-store-ad-targeting-eprivacy-breach/)
+- [4 data science predictions for 2023](https://techcrunch.com/2023/01/05/4-data-science-predictions-for-2023/)
+- [&#39;We&#39;re in a space race.&#39; NASA chief says US &#39;better watch out&#39; for China&#39;s moon goals](https://www.space.com/nasa-bill-nelson-china-space-race-moon)
+- [MeetKai launches new room-scanning tech and metaverse builder](https://techcrunch.com/2023/01/05/meetkai-launches-new-room-scanning-tech-and-metaverse-builder/)
+- [See a 5-planet parade in the night sky this month. Venus and Saturn stand out.](https://www.space.com/five-naked-eye-planets-venus-saturn)
+- [CircleCI warns customers to rotate ‘any and all secrets’ after hack](https://techcrunch.com/2023/01/05/circleci-breach/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
