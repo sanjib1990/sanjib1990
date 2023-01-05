@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Trova launches a stylish hiding spot for your unmentionables](https://techcrunch.com/2023/01/05/trova-home/)
-- [Teach yourself growth marketing: How to set up a landing page](https://techcrunch.com/2023/01/05/teach-yourself-growth-marketing-how-to-set-up-a-landing-page/)
-- [Meet four more startups pitching at the CCC Web3 Demo Day](https://techcrunch.com/2023/01/05/meet-four-more-startups-pitching-at-the-ccc-web3-demo-day/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [Apple Fitness+ to add kickboxing workouts, sleep meditation and more](https://techcrunch.com/2023/01/05/apple-fitness-kickboxing-workouts-sleep-meditation/)
+- [Making sense of Coinbase’s post-settlement stock bump](https://techcrunch.com/2023/01/05/making-sense-of-coinbases-post-settlement-stock-bump/)
+- [Google launches HD maps for vehicles, Volvo and Polestar first to integrate](https://techcrunch.com/2023/01/05/google-hd-maps-volvo-polestar/)
+- [New Android Auto features give car display a user design makeover](https://techcrunch.com/2023/01/05/new-android-auto-features-give-car-display-a-user-design-makeover/)
+- [Google is working on cross-device notifications to let you resume media playback on the move](https://techcrunch.com/2023/01/05/google-is-working-on-cross-device-notifications-to-let-you-resume-media-playback-on-the-move/)
+- [John Deere at CES? Yes, with a robotics-based fertilizer system and a new electric excavator](https://techcrunch.com/2023/01/05/john-deere-at-ces-yes-with-a-robotics-based-fertilizer-system-and-a-new-electric-excavator/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
