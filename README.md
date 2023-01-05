@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [BMW unveils Dee prototype, “the next level of human-machine interaction”](https://techcrunch.com/2023/01/04/bmw-unveils-dee-prototype-the-next-level-of-human-machine-interaction/)
+- [Profet AI helps manufacturers build prediction models and industrial AI software](https://techcrunch.com/2023/01/04/profet-ai/)
 - [The Aeo robot is designed to patrol and disinfect hospitals](https://techcrunch.com/2023/01/04/the-aeo-robot-is-designed-to-patrol-and-disinfect-hospitals/)
 - [Ember brings Find My functionality to its self-heating travel mug](https://techcrunch.com/2023/01/04/ember-brings-find-my-functionality-to-its-self-heating-travel-mug/)
 - [BMW reimagines the head-up display](https://techcrunch.com/2023/01/04/bmw-reimagines-the-head-up-display/)
-- [Sony and Honda reveal Afeela, their joint EV brand, at CES](https://techcrunch.com/2023/01/04/sony-and-honda-reveal-afeela-their-joint-ev-brand-at-ces/)
-- [Today at CES: Smellscapes, robot dogs, and ‘awareables’](https://techcrunch.com/2023/01/04/today-at-ces-smellscapes-robot-dogs-and-awareables/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
