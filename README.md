@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Space Legend&#39; watch set celebrates 1975 visit by Apollo-Soyuz crew to Disney](https://www.space.com/undone-disney-space-legend-watches)
+- [Moon scientists hail Artemis opportunities while still learning from Apollo](https://www.space.com/moon-science-apollo-artemis-geology)
+- [France fines Apple over App Store ad targeting ePrivacy breach](https://techcrunch.com/2023/01/05/apple-app-store-ad-targeting-eprivacy-breach/)
+- [Amazon to cut 18,000 jobs as tech layoffs continue](https://techcrunch.com/2023/01/05/amazon-to-cut-18000-jobs-as-tech-layoffs-continue/)
 - [Microsoft partners with India space agency to work with startups](https://techcrunch.com/2023/01/04/microsoft-partners-with-india-space-agency-to-work-with-startups/)
-- [BMW unveils Dee prototype, “the next level of human-machine interaction”](https://techcrunch.com/2023/01/04/bmw-unveils-dee-prototype-the-next-level-of-human-machine-interaction/)
-- [Profet AI helps manufacturers build prediction models and industrial AI software](https://techcrunch.com/2023/01/04/profet-ai/)
-- [The Aeo robot is designed to patrol and disinfect hospitals](https://techcrunch.com/2023/01/04/the-aeo-robot-is-designed-to-patrol-and-disinfect-hospitals/)
-- [Ember brings Find My functionality to its self-heating travel mug](https://techcrunch.com/2023/01/04/ember-brings-find-my-functionality-to-its-self-heating-travel-mug/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
