@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Whoops! Is generative AI already becoming a bubble?](https://techcrunch.com/2023/01/05/whoops-is-generative-ai-already-becoming-a-bubble/)
-- [FluentPet’s talking button system lets you get a “text” from your dog](https://techcrunch.com/2023/01/05/fluentpets-talking-button-system-lets-you-get-a-text-from-your-dog/)
-- [Perseverance Mars rover&#39;s sample cache now 40% complete](https://www.space.com/perseverance-mars-rover-sample-depot-40-percent-complete)
-- [The Power1 AirPods charging case gets a lot smaller](https://techcrunch.com/2023/01/05/the-power1-airpods-charging-case-gets-a-lot-smaller/)
-- [Making sense of Coinbase’s post-settlement stock bump](https://techcrunch.com/2023/01/05/making-sense-of-coinbases-post-settlement-stock-bump/)
+- [TikTok adds video scrubbing thumbnails to make it easier to find specific parts of videos](https://techcrunch.com/2023/01/05/tiktok-video-scrubbing-thumbnails-find-specific-parts-of-videos/)
+- [Razer’s 5G Edge gaming handheld hits on January 26 for $400](https://techcrunch.com/2023/01/05/razers-5g-edge-gaming-handheld-hits-on-january-26-for-400/)
+- [Massive, months-long volcanic eruption roils Jupiter&#39;s moon Io](https://www.space.com/io-jupiter-moon-massive-volcanic-eruption)
+- [Consumer Robotics Show](https://techcrunch.com/2023/01/05/consumer-robotics-show-2/)
+- [Delta launches free WiFi](https://techcrunch.com/2023/01/05/delta-launches-free-wifi/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
