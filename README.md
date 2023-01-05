@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Whoops! Is generative AI already becoming a bubble?](https://techcrunch.com/2023/01/05/whoops-is-generative-ai-already-becoming-a-bubble/)
+- [FluentPet’s talking button system lets you get a “text” from your dog](https://techcrunch.com/2023/01/05/fluentpets-talking-button-system-lets-you-get-a-text-from-your-dog/)
+- [Perseverance Mars rover&#39;s sample cache now 40% complete](https://www.space.com/perseverance-mars-rover-sample-depot-40-percent-complete)
+- [The Power1 AirPods charging case gets a lot smaller](https://techcrunch.com/2023/01/05/the-power1-airpods-charging-case-gets-a-lot-smaller/)
 - [Making sense of Coinbase’s post-settlement stock bump](https://techcrunch.com/2023/01/05/making-sense-of-coinbases-post-settlement-stock-bump/)
-- [Google launches HD maps for vehicles, Volvo and Polestar first to integrate](https://techcrunch.com/2023/01/05/google-hd-maps-volvo-polestar/)
-- [New Android Auto features give car display a user design makeover](https://techcrunch.com/2023/01/05/new-android-auto-features-give-car-display-a-user-design-makeover/)
-- [Google is working on cross-device notifications to let you resume media playback on the move](https://techcrunch.com/2023/01/05/google-is-working-on-cross-device-notifications-to-let-you-resume-media-playback-on-the-move/)
-- [John Deere at CES? Yes, with a robotics-based fertilizer system and a new electric excavator](https://techcrunch.com/2023/01/05/john-deere-at-ces-yes-with-a-robotics-based-fertilizer-system-and-a-new-electric-excavator/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
