@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple launches AI-powered book narrations](https://techcrunch.com/2023/01/05/apple-launches-ai-powered-book-narrations/)
+- [Save over $100 on the Celestron 114AZ-SR telescope this new year](https://www.space.com/celestron-114az-sr-telescope-deal-save-100-dollars-january-2023)
 - [&#39;Space Legend&#39; watch set celebrates 1975 visit by Apollo-Soyuz crew to Disney](https://www.space.com/undone-disney-space-legend-watches)
 - [Moon scientists hail Artemis opportunities while still learning from Apollo](https://www.space.com/moon-science-apollo-artemis-geology)
 - [France fines Apple over App Store ad targeting ePrivacy breach](https://techcrunch.com/2023/01/05/apple-app-store-ad-targeting-eprivacy-breach/)
-- [Amazon to cut 18,000 jobs as tech layoffs continue](https://techcrunch.com/2023/01/05/amazon-to-cut-18000-jobs-as-tech-layoffs-continue/)
-- [Microsoft partners with India space agency to work with startups](https://techcrunch.com/2023/01/04/microsoft-partners-with-india-space-agency-to-work-with-startups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
