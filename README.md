@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Aeo robot is designed to patrol and disinfect hospitals](https://techcrunch.com/2023/01/04/the-aeo-robot-is-designed-to-patrol-and-disinfect-hospitals/)
+- [Ember brings Find My functionality to its self-heating travel mug](https://techcrunch.com/2023/01/04/ember-brings-find-my-functionality-to-its-self-heating-travel-mug/)
+- [BMW reimagines the head-up display](https://techcrunch.com/2023/01/04/bmw-reimagines-the-head-up-display/)
 - [Sony and Honda reveal Afeela, their joint EV brand, at CES](https://techcrunch.com/2023/01/04/sony-and-honda-reveal-afeela-their-joint-ev-brand-at-ces/)
 - [Today at CES: Smellscapes, robot dogs, and ‘awareables’](https://techcrunch.com/2023/01/04/today-at-ces-smellscapes-robot-dogs-and-awareables/)
-- [Sony aims to make PlayStation more accessible with Project Leonardo controller](https://techcrunch.com/2023/01/04/sony-aims-to-make-playstation-more-accessible-with-project-leonardo-controller/)
-- [Sony offers a sneak peek at Neil Blomkamp’s ‘Gran Turismo’ film](https://techcrunch.com/2023/01/04/sony-offers-a-sneak-peek-at-neil-blomkamps-gran-turismo-film/)
-- [ZF and Beep to launch ‘several thousand’ autonomous shuttles in the US](https://techcrunch.com/2023/01/04/zf-and-beep-to-launch-several-thousand-autonomous-shuttles-in-the-us/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
