@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [EcoFlow teases full-house battery backup coming later this year](https://techcrunch.com/2023/01/05/ecoflow-launches-battery-backup-a-lawnmower-a-portable-a-c-and-a-portable-fridge/)
+- [Daily Crunch: In layoff update, Amazon CEO tells workers ‘we plan to eliminate just over 18,000 roles’](https://techcrunch.com/2023/01/05/daily-crunch-in-layoff-update-amazon-ceo-tells-workers-we-plan-to-eliminate-just-over-18000-roles/)
+- [Stellantis launches new business unit to turn vehicle data into cash](https://techcrunch.com/2023/01/05/stellantis-launches-new-business-unit-to-turn-vehicle-data-into-cash/)
+- [As NYC public schools block ChatGPT, OpenAI says it’s working on ‘mitigations’ to help spot ChatGPT-generated text](https://techcrunch.com/2023/01/05/as-nyc-public-schools-block-chatgpt-openai-says-its-working-on-mitigations-to-help-spot-chatgpt-generated-text/)
 - [Fly to space and back with SpaceX Falcon 9 rocket in amazing video](https://www.space.com/spacex-falcon-9-rocket-transporter-6-video)
-- [Tiny Space Force weather cubesat went up on SpaceX Falcon 9 rocket](https://www.space.com/space-force-weather-satellite-spacex-transporter-6)
-- [Twitch experiences an outage for the second time in a week](https://techcrunch.com/2023/01/05/twitch-experiences-an-outage-for-the-second-time-in-a-week/)
-- [Crypto is ringing in the New Year with new lawsuits and new chaos](https://techcrunch.com/2023/01/05/crypto-is-ringing-in-the-new-year-with-new-lawsuits-and-new-chaos/)
-- [Qualcomm partners with Iridium to bring satellite messaging to Android phones](https://techcrunch.com/2023/01/05/qualcomm-partners-with-iridium-to-bring-satellite-messaging-to-android-phones/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
