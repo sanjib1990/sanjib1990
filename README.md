@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft partners with India space agency to work with startups](https://techcrunch.com/2023/01/04/microsoft-partners-with-india-space-agency-to-work-with-startups/)
 - [BMW unveils Dee prototype, “the next level of human-machine interaction”](https://techcrunch.com/2023/01/04/bmw-unveils-dee-prototype-the-next-level-of-human-machine-interaction/)
 - [Profet AI helps manufacturers build prediction models and industrial AI software](https://techcrunch.com/2023/01/04/profet-ai/)
 - [The Aeo robot is designed to patrol and disinfect hospitals](https://techcrunch.com/2023/01/04/the-aeo-robot-is-designed-to-patrol-and-disinfect-hospitals/)
 - [Ember brings Find My functionality to its self-heating travel mug](https://techcrunch.com/2023/01/04/ember-brings-find-my-functionality-to-its-self-heating-travel-mug/)
-- [BMW reimagines the head-up display](https://techcrunch.com/2023/01/04/bmw-reimagines-the-head-up-display/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
