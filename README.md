@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Frosty fundraising environment may change early startups’ DNA for the better](https://techcrunch.com/2023/01/05/frosty-fundraising-environment-may-change-early-startups-dna-for-the-better/)
-- [Ossia is taking its wireless power tech to consumers with a new charging base](https://techcrunch.com/2023/01/05/ossia-is-taking-its-wireless-power-tech-to-consumers-with-anew-charging-base/)
-- [NASA chief says 2023 will be a &#39;game-changing&#39; year for space and aeronautics &lpar;video&rpar;](https://www.space.com/nasa-2023-look-ahead-video-space-aeronautics)
-- [Streamer Plex finally ready to launch a TV and movie rentals marketplace](https://techcrunch.com/2023/01/05/streamer-plex-finally-ready-to-launch-a-tv-and-movie-rentals-marketplace/)
-- [Crypto losses in 2022 dropped 51% year on year to $4B](https://techcrunch.com/2023/01/05/crypto-losses-in-2022-dropped-51-year-on-year-to-4b/)
+- [New York Attorney General sues former Celsius CEO for defrauding crypto investors](https://techcrunch.com/2023/01/05/new-york-attorney-general-sues-former-celsius-ceo-for-defrauding-crypto-investors/)
+- [WhatsApp launches official proxy support for users globally](https://techcrunch.com/2023/01/05/whatsapp-launches-proxy-support-for-users-globally/)
+- [Hubble Space Telescope spots ghostly light from ancient wayward stars](https://www.space.com/hubble-space-telescope-ghost-light-wandering-stars)
+- [Stellantis’ Free2move expands car-sharing and subscriptions in U.S.](https://techcrunch.com/2023/01/05/stellantis-free2move-expands-car-sharing-and-subscriptions-in-u-s/)
+- [Toyota stumbled as Hyundai was stealing the successful Prius playbook](https://techcrunch.com/2023/01/05/toyota-stumbled-as-hyundai-was-stealing-the-successful-prius-playbook/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
