@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Picsart’s AI-powered SketchAI app turns images and outlines into digital art](https://techcrunch.com/2023/01/05/picsarts-ai-powered-sketchai-app-turns-images-and-outlines-into-digital-art/)
-- [Ring brings back the Peephole Cam, now starting at $129](https://techcrunch.com/2023/01/05/ring-brings-back-the-peephole-cam-now-starting-at-129/)
-- [Alexa, find me an EV charging station](https://techcrunch.com/2023/01/05/alexa-find-an-ev-charging-station/)
-- [Solar-sailing probes may soon get their moment in the sun](https://www.space.com/solar-sail-spacecraft-development-progress)
-- [Labrador taps the Echo Show to expand functionality for its eldercare robot](https://techcrunch.com/2023/01/05/labrador-taps-the-echo-show-to-expand-functionality-for-its-eldercare-robot/)
+- [Frosty fundraising environment may change early startups’ DNA for the better](https://techcrunch.com/2023/01/05/frosty-fundraising-environment-may-change-early-startups-dna-for-the-better/)
+- [Ossia is taking its wireless power tech to consumers with a new charging base](https://techcrunch.com/2023/01/05/ossia-is-taking-its-wireless-power-tech-to-consumers-with-anew-charging-base/)
+- [NASA chief says 2023 will be a &#39;game-changing&#39; year for space and aeronautics &lpar;video&rpar;](https://www.space.com/nasa-2023-look-ahead-video-space-aeronautics)
+- [Streamer Plex finally ready to launch a TV and movie rentals marketplace](https://techcrunch.com/2023/01/05/streamer-plex-finally-ready-to-launch-a-tv-and-movie-rentals-marketplace/)
+- [Crypto losses in 2022 dropped 51% year on year to $4B](https://techcrunch.com/2023/01/05/crypto-losses-in-2022-dropped-51-year-on-year-to-4b/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
