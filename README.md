@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Daily Crunch: Salesforce CEO admits ‘we hired too many people’ as company lays off +7,000 employees](https://techcrunch.com/2023/01/04/daily-crunch-salesforce-ceo-admits-we-hired-too-many-people-as-company-lays-off-7000-employees/)
-- [Bankruptcy judge rules Celsius Network owns users’ interest-bearing crypto accounts](https://techcrunch.com/2023/01/04/bankruptcy-judge-rules-celsius-network-owns-users-interest-bearing-crypto-accounts/)
-- [Twitter’s advanced search filters for mobile are on their way](https://techcrunch.com/2023/01/04/twitters-advanced-search-filters-for-mobile-are-on-their-way/)
-- [Samsung’s new wireless charger has a smart home hub built-in](https://techcrunch.com/2023/01/04/samsungs-new-wireless-charger-has-a-smart-home-hub-built-in/)
-- [Ottonomy’s new delivery robot gets an automatic package dispenser](https://techcrunch.com/2023/01/04/ottonomys-new-delivery-robot-gets-an-automatic-package-dispenser/)
+- [ZF and Beep to launch ‘several thousand’ autonomous shuttles in the US](https://techcrunch.com/2023/01/04/zf-and-beep-to-launch-several-thousand-autonomous-shuttles-in-the-us/)
+- [Samsung’s new washer captures microplastics from your dirty laundry](https://techcrunch.com/2023/01/04/samsungs-new-washer-captures-microplastics-from-your-dirty-laundry/)
+- [Archelis’ exoskeleton is basically a chair you can wear](https://techcrunch.com/2023/01/04/archelis-exoskeleton-is-basically-a-chair-you-can-wear/)
+- [10-year old Chipolo explains why it’s not worried about Apple’s AirTag](https://techcrunch.com/2023/01/04/10-year-old-chipolo-explains-why-its-not-worried-about-apples-airtag-rival/)
+- [Burned by layoffs, tech workers are rethinking risk](https://techcrunch.com/2023/01/04/burned-by-layoffs-tech-workers-are-rethinking-risk/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
