@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tiny Space Force weather cubesat went up on SpaceX Falcon 9 rocket](https://www.space.com/space-force-weather-satellite-spacex-transporter-6)
+- [Twitch experiences an outage for the second time in a week](https://techcrunch.com/2023/01/05/twitch-experiences-an-outage-for-the-second-time-in-a-week/)
+- [Crypto is ringing in the New Year with new lawsuits and new chaos](https://techcrunch.com/2023/01/05/crypto-is-ringing-in-the-new-year-with-new-lawsuits-and-new-chaos/)
+- [Qualcomm partners with Iridium to bring satellite messaging to Android phones](https://techcrunch.com/2023/01/05/qualcomm-partners-with-iridium-to-bring-satellite-messaging-to-android-phones/)
 - [TikTok adds video scrubbing thumbnails to make it easier to find specific parts of videos](https://techcrunch.com/2023/01/05/tiktok-video-scrubbing-thumbnails-find-specific-parts-of-videos/)
-- [Razer’s 5G Edge gaming handheld hits on January 26 for $400](https://techcrunch.com/2023/01/05/razers-5g-edge-gaming-handheld-hits-on-january-26-for-400/)
-- [Massive, months-long volcanic eruption roils Jupiter&#39;s moon Io](https://www.space.com/io-jupiter-moon-massive-volcanic-eruption)
-- [Consumer Robotics Show](https://techcrunch.com/2023/01/05/consumer-robotics-show-2/)
-- [Delta launches free WiFi](https://techcrunch.com/2023/01/05/delta-launches-free-wifi/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
