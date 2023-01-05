@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [New York Attorney General sues former Celsius CEO for defrauding crypto investors](https://techcrunch.com/2023/01/05/new-york-attorney-general-sues-former-celsius-ceo-for-defrauding-crypto-investors/)
-- [WhatsApp launches official proxy support for users globally](https://techcrunch.com/2023/01/05/whatsapp-launches-proxy-support-for-users-globally/)
-- [Hubble Space Telescope spots ghostly light from ancient wayward stars](https://www.space.com/hubble-space-telescope-ghost-light-wandering-stars)
-- [Stellantis’ Free2move expands car-sharing and subscriptions in U.S.](https://techcrunch.com/2023/01/05/stellantis-free2move-expands-car-sharing-and-subscriptions-in-u-s/)
-- [Toyota stumbled as Hyundai was stealing the successful Prius playbook](https://techcrunch.com/2023/01/05/toyota-stumbled-as-hyundai-was-stealing-the-successful-prius-playbook/)
+- [Trova launches a stylish hiding spot for your unmentionables](https://techcrunch.com/2023/01/05/trova-home/)
+- [Teach yourself growth marketing: How to set up a landing page](https://techcrunch.com/2023/01/05/teach-yourself-growth-marketing-how-to-set-up-a-landing-page/)
+- [Meet four more startups pitching at the CCC Web3 Demo Day](https://techcrunch.com/2023/01/05/meet-four-more-startups-pitching-at-the-ccc-web3-demo-day/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [Apple Fitness+ to add kickboxing workouts, sleep meditation and more](https://techcrunch.com/2023/01/05/apple-fitness-kickboxing-workouts-sleep-meditation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
