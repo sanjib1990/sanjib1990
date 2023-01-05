@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Today at CES: Smellscapes, robot dogs, and ‘awareables’](https://techcrunch.com/2023/01/04/today-at-ces-smellscapes-robot-dogs-and-awareables/)
+- [Sony aims to make PlayStation more accessible with Project Leonardo controller](https://techcrunch.com/2023/01/04/sony-aims-to-make-playstation-more-accessible-with-project-leonardo-controller/)
+- [Sony offers a sneak peek at Neil Blomkamp’s ‘Gran Turismo’ film](https://techcrunch.com/2023/01/04/sony-offers-a-sneak-peek-at-neil-blomkamps-gran-turismo-film/)
 - [ZF and Beep to launch ‘several thousand’ autonomous shuttles in the US](https://techcrunch.com/2023/01/04/zf-and-beep-to-launch-several-thousand-autonomous-shuttles-in-the-us/)
 - [Samsung’s new washer captures microplastics from your dirty laundry](https://techcrunch.com/2023/01/04/samsungs-new-washer-captures-microplastics-from-your-dirty-laundry/)
-- [Archelis’ exoskeleton is basically a chair you can wear](https://techcrunch.com/2023/01/04/archelis-exoskeleton-is-basically-a-chair-you-can-wear/)
-- [10-year old Chipolo explains why it’s not worried about Apple’s AirTag](https://techcrunch.com/2023/01/04/10-year-old-chipolo-explains-why-its-not-worried-about-apples-airtag-rival/)
-- [Burned by layoffs, tech workers are rethinking risk](https://techcrunch.com/2023/01/04/burned-by-layoffs-tech-workers-are-rethinking-risk/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
