@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [HealthAtom empowers LatAm’s small healthcare offices with cloud-based ops](https://techcrunch.com/2023/01/06/healthatom-empowers-latams-small-healthcare-offices-with-cloud-based-ops/)
+- [Mojo Vision puts contact lens production ‘on hold’ as it lays off 75% of staff](https://techcrunch.com/2023/01/06/mojo-vision-puts-contact-lens-production-on-hold-as-it-lays-off-75-of-staff/)
 - [NFT marketplace SuperRare cuts 30% of staff](https://techcrunch.com/2023/01/06/nft-marketplace-superrare-cuts-30-of-staff/)
 - [Satellites watch atmospheric river continue to drench California](https://www.space.com/more-atmospheric-river-storms-coming-california)
 - [VC deal activity fell in 2022, signaling tough times ahead](https://techcrunch.com/2023/01/06/vc-deal-activity-fell-in-2022-signaling-tough-times-ahead/)
-- [Virgin Orbit aims to launch historic mission from UK on Monday](https://www.space.com/virgin-orbit-first-uk-launch-january-9)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
