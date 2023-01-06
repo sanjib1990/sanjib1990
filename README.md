@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TechCrunch+ roundup: Dry powder’s slow fuse, landing page basics, generative AI hype](https://techcrunch.com/2023/01/06/techcrunch-roundup-dry-powders-slow-fuse-landing-page-basics-generative-ai-hype/)
-- [How global unrest will impact innovation in 2023](https://techcrunch.com/2023/01/06/how-global-unrest-will-impact-innovation-in-2023/)
-- [Will record levels of dry powder trigger a delayed explosion of startup investment?](https://techcrunch.com/2023/01/06/will-record-levels-of-dry-powder-trigger-a-delayed-explosion-of-startup-investment/)
-- [Watch a comet make its closest approach in 50,000 years online next week](https://www.space.com/comet-c2022-e3-ztf-perihelion-livestream)
-- [Black founders still raised just 1% of all VC funds in 2022](https://techcrunch.com/2023/01/06/black-founders-still-raised-just-1-of-all-vc-funds-in-2022/)
+- [Finding Vegas VR nirvana in the backseat of a ’67 DeVille at CES 2023](https://techcrunch.com/2023/01/06/finding-vegas-vr-nirvana-in-the-backseat-of-a-67-deville-at-ces-2023/)
+- [Netflix’s ‘Wednesday’ gets a second season](https://techcrunch.com/2023/01/06/netflixs-wednesday-gets-a-second-season/)
+- [Mastercard launches web3-focused artist incubator with Polygon](https://techcrunch.com/2023/01/06/mastercard-launches-web3-focused-artist-incubator-with-polygon/)
+- [YouTuber Logan Paul’s CryptoZoo NFT project is a total mess](https://techcrunch.com/2023/01/06/youtuber-logan-pauls-cryptozoo-nft-project-is-a-total-mess/)
+- [TikTok is testing a ‘sleep reminders’ feature that nudges you when it’s bedtime](https://techcrunch.com/2023/01/06/tiktok-testing-sleep-reminders-feature-nudge-you-when-bedtime/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
