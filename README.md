@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rackspace says hackers accessed customer data during ransomware attack](https://techcrunch.com/2023/01/06/rackspace-ransomware-data-exchange/)
+- [Satellites watch Europe get hit by most severe winter heatwave ever](https://www.space.com/record-breaking-january-heatwave-europe)
+- [Lumus shows off AR glasses that don’t look too dorky](https://techcrunch.com/2023/01/06/lumus-ar-glasses/)
 - [CES, NYE, SBF and FTX. Lol.](https://techcrunch.com/2023/01/06/ces-nye-sbf-and-ftx-lol/)
 - [MegaCortex ransomware victims can now recover stolen files for free](https://techcrunch.com/2023/01/06/megacortex-ransomware-decryption/)
-- [Doorstead closes on $21.5M to make sure you always have a tenant for your rental property](https://techcrunch.com/2023/01/06/proptech-doorstead-closes-on-21-5m-to/)
-- [Previously hidden sunspot unleashes colossal X-class solar flare as it turns to face Earth](https://www.space.com/sun-releases-first-massive-solar-flare-of-2023)
-- [10 best camera gifts for astrophotography and videography 2023](https://www.space.com/10-best-camera-gifts-for-astrophotography-and-videography)
 <!-- BLOG-POST-LIST:END -->
 
 ---
