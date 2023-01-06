@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Malware and Machine Learning - Computerphile](https://www.youtube.com/watch?v=rjYUeh3tlpc)
 - [get a grip on grep](https://www.youtube.com/watch?v=5_t_I_4OuwQ)
 - [the hacker’s roadmap &lpar;how to get started in IT in 2023&rpar;](https://www.youtube.com/watch?v=uTAaFExLgwQ)
 - [How to ACTUALLY learn to code... 7 Roadmaps for 2023](https://www.youtube.com/watch?v=66tfvFeALBQ)
 - [JPG vs PNG vs WEBP vs GIF vs SVG](https://www.youtube.com/watch?v=U_QNznf2FZA)
-- [What do Computer Scientists Read? - Computerphile](https://www.youtube.com/watch?v=dMYgY5FhO3M)
 <!-- YOUTUBE:END -->
 
 ---
