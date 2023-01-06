@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A comet not seen in 50,000 years is coming. Here&#39;s what you need to know](https://www.space.com/comet-c2022-e3-ztf-visible-naked-eye-january-2023)
+- [3 questions founders should be asking investors in Q1 2023](https://techcrunch.com/2023/01/06/3-questions-founders-should-be-asking-investors-in-q1-2023/)
 - [Crew set to fly on Boeing Starliner add final touches to mission patch](https://www.space.com/boeing-starliner-crew-flight-test-cft-patch)
 - [Perseverance rover marks 1 Mars year on Red Planet](https://www.space.com/perseverance-one-mars-year-on-red-planet)
 - [Howl at January&#39;s Wolf Moon as the 1st full moon of 2023 rises tonight](https://www.space.com/january-full-wolf-moon-tonight-jan-06-2023)
-- [Indian fintech KreditBee nears $700 million valuation in new funding](https://techcrunch.com/2023/01/06/indian-fintech-kreditbee-nears-700-million-valuation-in-new-funding/)
-- [Samsung’s quarterly profit hits 8-year low amid weak demand for memory chips, smartphones](https://techcrunch.com/2023/01/06/samsungs-quarterly-profit-hits-8-year-low-amid-weak-demand-for-memory-chips-smartphones/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
