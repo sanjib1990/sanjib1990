@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Perseverance rover marks 1 Mars year on Red Planet](https://www.space.com/perseverance-one-mars-year-on-red-planet)
+- [Howl at January&#39;s Wolf Moon as the 1st full moon of 2023 rises tonight](https://www.space.com/january-full-wolf-moon-tonight-jan-06-2023)
 - [Indian fintech KreditBee nears $700 million valuation in new funding](https://techcrunch.com/2023/01/06/indian-fintech-kreditbee-nears-700-million-valuation-in-new-funding/)
 - [Samsung’s quarterly profit hits 8-year low amid weak demand for memory chips, smartphones](https://techcrunch.com/2023/01/06/samsungs-quarterly-profit-hits-8-year-low-amid-weak-demand-for-memory-chips-smartphones/)
 - [Snap is shutting down its desktop camera app that allows users to apply filters during video calls](https://techcrunch.com/2023/01/05/snap-is-shutting-down-its-desktop-camera-app-that-allows-users-to-apply-filters-during-video-calls/)
-- [Tesla slashes Model 3, Model Y prices in China for the second time in three months](https://techcrunch.com/2023/01/05/tesla-slashes-model-3-model-y-prices-in-china-for-the-second-time-in-three-months/)
-- [Today at CES: Baby wearables, texts from dogs, and E-Ink cars](https://techcrunch.com/2023/01/05/today-at-ces-baby-wearables-texts-from-dogs-and-e-ink-cars/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
