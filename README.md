@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Finding Vegas VR nirvana in the backseat of a ’67 DeVille at CES 2023](https://techcrunch.com/2023/01/06/finding-vegas-vr-nirvana-in-the-backseat-of-a-67-deville-at-ces-2023/)
-- [Netflix’s ‘Wednesday’ gets a second season](https://techcrunch.com/2023/01/06/netflixs-wednesday-gets-a-second-season/)
-- [Mastercard launches web3-focused artist incubator with Polygon](https://techcrunch.com/2023/01/06/mastercard-launches-web3-focused-artist-incubator-with-polygon/)
-- [YouTuber Logan Paul’s CryptoZoo NFT project is a total mess](https://techcrunch.com/2023/01/06/youtuber-logan-pauls-cryptozoo-nft-project-is-a-total-mess/)
-- [TikTok is testing a ‘sleep reminders’ feature that nudges you when it’s bedtime](https://techcrunch.com/2023/01/06/tiktok-testing-sleep-reminders-feature-nudge-you-when-bedtime/)
+- [VC deal activity fell in 2022, signaling tough times ahead](https://techcrunch.com/2023/01/06/vc-deal-activity-fell-in-2022-signaling-tough-times-ahead/)
+- [Virgin Orbit aims to launch historic mission from UK on Monday](https://www.space.com/virgin-orbit-first-uk-launch-january-9)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [Verizon’s +Play subscription store to later open to non-Verizon customers](https://techcrunch.com/2023/01/06/verizons-play-subscription-store-to-later-open-to-non-verizon-customers/)
+- [James Webb Space Telescope spies Milky Way mimics that could challenge theories of galaxy evolution](https://www.space.com/james-webb-space-telescope-milky-way-galaxies-early-universe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
