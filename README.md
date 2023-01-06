@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Samsung’s quarterly profit hits 8-year low amid weak demand for memory chips, smartphones](https://techcrunch.com/2023/01/06/samsungs-quarterly-profit-hits-8-year-low-amid-weak-demand-for-memory-chips-smartphones/)
 - [Snap is shutting down its desktop camera app that allows users to apply filters during video calls](https://techcrunch.com/2023/01/05/snap-is-shutting-down-its-desktop-camera-app-that-allows-users-to-apply-filters-during-video-calls/)
 - [Tesla slashes Model 3, Model Y prices in China for the second time in three months](https://techcrunch.com/2023/01/05/tesla-slashes-model-3-model-y-prices-in-china-for-the-second-time-in-three-months/)
 - [Today at CES: Baby wearables, texts from dogs, and E-Ink cars](https://techcrunch.com/2023/01/05/today-at-ces-baby-wearables-texts-from-dogs-and-e-ink-cars/)
 - [Studiobox is a remote video team’s high-def dream](https://techcrunch.com/2023/01/05/studiobox-at-ces/)
-- [EcoFlow teases full-house battery backup coming later this year](https://techcrunch.com/2023/01/05/ecoflow-launches-battery-backup-a-lawnmower-a-portable-a-c-and-a-portable-fridge/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
