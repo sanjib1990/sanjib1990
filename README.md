@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NFT marketplace SuperRare cuts 30% of staff](https://techcrunch.com/2023/01/06/nft-marketplace-superrare-cuts-30-of-staff/)
+- [Satellites watch atmospheric river continue to drench California](https://www.space.com/more-atmospheric-river-storms-coming-california)
 - [VC deal activity fell in 2022, signaling tough times ahead](https://techcrunch.com/2023/01/06/vc-deal-activity-fell-in-2022-signaling-tough-times-ahead/)
 - [Virgin Orbit aims to launch historic mission from UK on Monday](https://www.space.com/virgin-orbit-first-uk-launch-january-9)
 - [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [Verizon’s +Play subscription store to later open to non-Verizon customers](https://techcrunch.com/2023/01/06/verizons-play-subscription-store-to-later-open-to-non-verizon-customers/)
-- [James Webb Space Telescope spies Milky Way mimics that could challenge theories of galaxy evolution](https://www.space.com/james-webb-space-telescope-milky-way-galaxies-early-universe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
