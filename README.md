@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Will record levels of dry powder trigger a delayed explosion of startup investment?](https://techcrunch.com/2023/01/06/will-record-levels-of-dry-powder-trigger-a-delayed-explosion-of-startup-investment/)
+- [Watch a comet make its closet approach in 50,000 years online next week](https://www.space.com/comet-c2022-e3-ztf-perihelion-livestream)
+- [Black founders still raised just 1% of all VC funds in 2022](https://techcrunch.com/2023/01/06/black-founders-still-raised-just-1-of-all-vc-funds-in-2022/)
 - [Rackspace says hackers accessed customer data during ransomware attack](https://techcrunch.com/2023/01/06/rackspace-ransomware-data-exchange/)
 - [Satellites watch Europe get hit by most severe winter heatwave ever](https://www.space.com/record-breaking-january-heatwave-europe)
-- [Lumus shows off AR glasses that don’t look too dorky](https://techcrunch.com/2023/01/06/lumus-ar-glasses/)
-- [CES, NYE, SBF and FTX. Lol.](https://techcrunch.com/2023/01/06/ces-nye-sbf-and-ftx-lol/)
-- [MegaCortex ransomware victims can now recover stolen files for free](https://techcrunch.com/2023/01/06/megacortex-ransomware-decryption/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
