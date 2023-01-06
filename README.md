@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch+ roundup: Dry powder’s slow fuse, landing page basics, generative AI hype](https://techcrunch.com/2023/01/06/techcrunch-roundup-dry-powders-slow-fuse-landing-page-basics-generative-ai-hype/)
+- [How global unrest will impact innovation in 2023](https://techcrunch.com/2023/01/06/how-global-unrest-will-impact-innovation-in-2023/)
 - [Will record levels of dry powder trigger a delayed explosion of startup investment?](https://techcrunch.com/2023/01/06/will-record-levels-of-dry-powder-trigger-a-delayed-explosion-of-startup-investment/)
-- [Watch a comet make its closet approach in 50,000 years online next week](https://www.space.com/comet-c2022-e3-ztf-perihelion-livestream)
+- [Watch a comet make its closest approach in 50,000 years online next week](https://www.space.com/comet-c2022-e3-ztf-perihelion-livestream)
 - [Black founders still raised just 1% of all VC funds in 2022](https://techcrunch.com/2023/01/06/black-founders-still-raised-just-1-of-all-vc-funds-in-2022/)
-- [Rackspace says hackers accessed customer data during ransomware attack](https://techcrunch.com/2023/01/06/rackspace-ransomware-data-exchange/)
-- [Satellites watch Europe get hit by most severe winter heatwave ever](https://www.space.com/record-breaking-january-heatwave-europe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
