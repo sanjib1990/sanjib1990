@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hubble Space Telescope captures exquisite view of nearby star cluster before it fades away](https://www.space.com/hubble-space-telescope-dazzling-star-ccluster-photo)
+- [Space mining startups see a rich future on asteroids and the moon](https://www.space.com/space-mining-grinding-into-reality)
 - [VCs are pushing startups — will their investors tighten the thumbscrews, too?](https://techcrunch.com/2023/01/06/vcs-are-pushing-startups-will-their-investors-tighten-the-thumbscrews-too/)
 - [Despite challenges, Netflix says its ad tier is doing well](https://techcrunch.com/2023/01/06/despite-initial-challenges-netflix-says-its-ad-tier-is-doing-well/)
 - [This pepper spray will phone your friends as you mace your assailants](https://techcrunch.com/2023/01/06/444-pepper-spray/)
-- [Brane X portable speaker packs a hell of a punch in a small package](https://techcrunch.com/2023/01/06/brane-x/)
-- [Is Adobe using your photos to train its AI? It’s complicated](https://techcrunch.com/2023/01/06/is-adobe-using-your-photos-to-train-its-ai-its-complicated/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
