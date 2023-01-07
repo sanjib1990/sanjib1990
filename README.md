@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is Adobe using your photos to train its AI? It’s complicated](https://techcrunch.com/2023/01/06/is-adobe-using-your-photos-to-train-its-ai-its-complicated/)
+- [Dead NASA satellite to crash to Earth this weekend](https://www.space.com/defunct-nasa-satellte-erbs-crash-january-2022)
 - [Daily Crunch: Property management startup Doorstead raises $21.5M Series B](https://techcrunch.com/2023/01/06/daily-crunch-property-management-startup-doorstead-raises-21-5m-series-b/)
 - [HealthAtom empowers LatAm’s small healthcare offices with cloud-based ops](https://techcrunch.com/2023/01/06/healthatom-empowers-latams-small-healthcare-offices-with-cloud-based-ops/)
 - [Mojo Vision puts contact lens production ‘on hold’ as it lays off 75% of staff](https://techcrunch.com/2023/01/06/mojo-vision-puts-contact-lens-production-on-hold-as-it-lays-off-75-of-staff/)
-- [NFT marketplace SuperRare cuts 30% of staff](https://techcrunch.com/2023/01/06/nft-marketplace-superrare-cuts-30-of-staff/)
-- [Satellites watch atmospheric river continue to drench California](https://www.space.com/more-atmospheric-river-storms-coming-california)
 <!-- BLOG-POST-LIST:END -->
 
 ---
