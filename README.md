@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [VCs are pushing startups — will their investors tighten the thumbscrews, too?](https://techcrunch.com/2023/01/06/vcs-are-pushing-startups-will-their-investors-tighten-the-thumbscrews-too/)
 - [Despite challenges, Netflix says its ad tier is doing well](https://techcrunch.com/2023/01/06/despite-initial-challenges-netflix-says-its-ad-tier-is-doing-well/)
 - [This pepper spray will phone your friends as you mace your assailants](https://techcrunch.com/2023/01/06/444-pepper-spray/)
 - [Brane X portable speaker packs a hell of a punch in a small package](https://techcrunch.com/2023/01/06/brane-x/)
 - [Is Adobe using your photos to train its AI? It’s complicated](https://techcrunch.com/2023/01/06/is-adobe-using-your-photos-to-train-its-ai-its-complicated/)
-- [Dead NASA satellite to crash to Earth this weekend](https://www.space.com/defunct-nasa-satellte-erbs-crash-january-2022)
 <!-- BLOG-POST-LIST:END -->
 
 ---
