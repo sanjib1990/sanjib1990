@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Q&amp;A with Dr. Z: Former NASA science chief talks about his 6 years at the helm](https://www.space.com/former-nasa-science-chief-thomas-zurbuchen-interview)
+- [The pen gets smarter as Nuwa shows off its smart ballpoint and app combo](https://techcrunch.com/2023/01/07/nuwa/)
 - [What time will newfound comet be closest to the sun next week?](https://www.space.com/comet-c2022-e3-ztf-what-time-closest-approach)
 - [Guide dogs will be giving the side-eye to self-driving car tech coming for their jobs](https://techcrunch.com/2023/01/07/ai-guided/)
 - [1st full moon of 2023 was a wonderful Wolf Moon worldwide &lpar;photos&rpar;](https://www.space.com/full-wolf-moon-january-2023-gallery)
-- [Hubble Space Telescope captures exquisite view of nearby star cluster before it fades away](https://www.space.com/hubble-space-telescope-dazzling-star-ccluster-photo)
-- [Space mining startups see a rich future on asteroids and the moon](https://www.space.com/space-mining-grinding-into-reality)
 <!-- BLOG-POST-LIST:END -->
 
 ---
