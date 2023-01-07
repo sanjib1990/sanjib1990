@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [After struggling with consumers, Magic Leap hang its hopes on enterprise](https://techcrunch.com/2023/01/07/after-struggling-with-consumers-magic-leap-hang-its-hopes-on-enterprise/)
+- [Unistellar’s telescope turns your smartphone into a stargazer](https://techcrunch.com/2023/01/07/unistellar-equinox-2/)
 - [At CES, this VR headset wears you](https://techcrunch.com/2023/01/07/brelyon-display/)
 - [Labor trends in 2023: Over-employment, fatigue and hope](https://techcrunch.com/2023/01/07/startup-resolution-number-one-follow-up-on-what-happened-last-year/)
 - [HTC’s Global Head of Product on VR’s ‘race to the bottom’](https://techcrunch.com/2023/01/07/htcs-global-head-of-product-on-vrs-race-to-the-bottom/)
-- [Let’s keep our seed activity expectations in check](https://techcrunch.com/2023/01/07/lets-keep-our-seed-activity-expectations-in-check/)
-- [The Soul of Blackleaf brings analog visualization to your music experience](https://techcrunch.com/2023/01/07/soul-of-blackleaf-bluetooth-speaker/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
