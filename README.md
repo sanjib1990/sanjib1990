@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Week in Apps: 2022 in review](https://techcrunch.com/2023/01/07/this-week-in-apps-2022-in-review/)
+- [Ex-Apple team creates BlenderCap, a delightfully over-engineered portable blender](https://techcrunch.com/2023/01/07/blend-cap/)
 - [Sony and Honda unveil Afeela, Bird Buddy launches a new smart feeder, and Amazon secures an $8B loan](https://techcrunch.com/2023/01/07/sony-and-honda-unveil-afeela-bird-buddy-launches-a-new-smart-feeder-and-amazon-secures-an-8b-loan/)
 - [After struggling with consumers, Magic Leap hang its hopes on enterprise](https://techcrunch.com/2023/01/07/after-struggling-with-consumers-magic-leap-hang-its-hopes-on-enterprise/)
 - [Unistellar’s telescope turns your smartphone into a stargazer](https://techcrunch.com/2023/01/07/unistellar-equinox-2/)
-- [At CES, this VR headset wears you](https://techcrunch.com/2023/01/07/brelyon-display/)
-- [Labor trends in 2023: Over-employment, fatigue and hope](https://techcrunch.com/2023/01/07/startup-resolution-number-one-follow-up-on-what-happened-last-year/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
