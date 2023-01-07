@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Labor trends in 2023: Over-employment, fatigue and hope](https://techcrunch.com/2023/01/07/startup-resolution-number-one-follow-up-on-what-happened-last-year/)
+- [HTC’s Global Head of Product on VR’s ‘race to the bottom’](https://techcrunch.com/2023/01/07/htcs-global-head-of-product-on-vrs-race-to-the-bottom/)
 - [Let’s keep our seed activity expectations in check](https://techcrunch.com/2023/01/07/lets-keep-our-seed-activity-expectations-in-check/)
 - [The Soul of Blackleaf brings analog visualization to your music experience](https://techcrunch.com/2023/01/07/soul-of-blackleaf-bluetooth-speaker/)
 - [3 views: What does the future of social media look like after Twitter?](https://techcrunch.com/2023/01/07/3-views-what-does-the-future-of-social-media-after-twitter-look-like/)
-- [When it’s time for a steamy nooner, Steambox has you covered](https://techcrunch.com/2023/01/07/steambox-lunch-box/)
-- [Q&amp;A with Dr. Z: Former NASA science chief talks about his 6 years at the helm](https://www.space.com/former-nasa-science-chief-thomas-zurbuchen-interview)
 <!-- BLOG-POST-LIST:END -->
 
 ---
