@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This pepper spray will phone your friends as you mace your assailants](https://techcrunch.com/2023/01/06/444-pepper-spray/)
+- [Brane X portable speaker packs a hell of a punch in a small package](https://techcrunch.com/2023/01/06/brane-x/)
 - [Is Adobe using your photos to train its AI? It’s complicated](https://techcrunch.com/2023/01/06/is-adobe-using-your-photos-to-train-its-ai-its-complicated/)
 - [Dead NASA satellite to crash to Earth this weekend](https://www.space.com/defunct-nasa-satellte-erbs-crash-january-2022)
 - [Daily Crunch: Property management startup Doorstead raises $21.5M Series B](https://techcrunch.com/2023/01/06/daily-crunch-property-management-startup-doorstead-raises-21-5m-series-b/)
-- [HealthAtom empowers LatAm’s small healthcare offices with cloud-based ops](https://techcrunch.com/2023/01/06/healthatom-empowers-latams-small-healthcare-offices-with-cloud-based-ops/)
-- [Mojo Vision puts contact lens production ‘on hold’ as it lays off 75% of staff](https://techcrunch.com/2023/01/06/mojo-vision-puts-contact-lens-production-on-hold-as-it-lays-off-75-of-staff/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
