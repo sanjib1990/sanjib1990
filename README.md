@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Does everyone want to be a landlord, or what?](https://techcrunch.com/2023/01/08/does-everyone-want-to-be-a-landlord-or-what/)
+- [Amazing photos of gorgeously green Comet C/2022 E3 &lpar;ZFT&rpar; in the night sky &lpar;gallery&rpar;](https://www.space.com/comet-c2022-e3-ztf-january-06-gallery)
 - [Plant-based foods investor says her focus is more on teams than taste](https://techcrunch.com/2023/01/08/plant-based-foods-investor-says-her-focus-is-more-on-teams-than-taste/)
 - [Watch SpaceX launch 40 OneWeb internet satellites on Sunday night](https://www.space.com/spacex-oneweb-satellites-launch-january-8)
 - [BlueWalker 3, an enormous and bright communications satellite, is genuinely alarming astronomers](https://www.space.com/bluewalker-3-bright-satellite-alarming-astronomers)
-- [This is our best look yet at how young stars stifle planetary formation](https://www.space.com/x-ray-image-super-powerful-stars)
-- [NASA&#39;s moon-orbiting space station will be claustrophobic, architect says](https://www.space.com/lunar-gateway-station-claustrophobic-architect-says)
 <!-- BLOG-POST-LIST:END -->
 
 ---
