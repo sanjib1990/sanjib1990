@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [All the tech &lpar;and other flashy features&rpar; stuffed into the Ram 1500 Revolution EV truck](https://techcrunch.com/2023/01/08/all-the-tech-and-other-features-stuffed-into-the-all-electric-ram-1500-revolution/)
 - [Does everyone want to be a landlord, or what?](https://techcrunch.com/2023/01/08/does-everyone-want-to-be-a-landlord-or-what/)
 - [Amazing photos of gorgeously green Comet C/2022 E3 &lpar;ZFT&rpar;](https://www.space.com/comet-c2022-e3-ztf-january-06-gallery)
 - [Plant-based foods investor says her focus is more on teams than taste](https://techcrunch.com/2023/01/08/plant-based-foods-investor-says-her-focus-is-more-on-teams-than-taste/)
 - [Watch SpaceX launch 40 OneWeb internet satellites tonight](https://www.space.com/spacex-oneweb-satellites-launch-january-8)
-- [BlueWalker 3, an enormous and bright communications satellite, is genuinely alarming astronomers](https://www.space.com/bluewalker-3-bright-satellite-alarming-astronomers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
