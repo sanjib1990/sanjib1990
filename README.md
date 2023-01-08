@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [BlueWalker 3, an enormous and bright communications satellite, is genuinely alarming astronomers](https://www.space.com/bluewalker-3-bright-satellite-alarming-astronomers)
 - [This is our best look yet at how young stars stifle planetary formation](https://www.space.com/x-ray-image-super-powerful-stars)
 - [NASA&#39;s moon-orbiting space station will be claustrophobic, architect admits](https://www.space.com/lunar-gateway-station-claustrophobic-architect-says)
 - [What is Intuitive Machines and how is it aiming for the moon?](https://www.space.com/intuitive-machines)
 - [Urine luck: these CES startups want to take a closer look at your waste](https://techcrunch.com/2023/01/07/ces-urine/)
-- [A big CES 2023 trend: all battery power, everywhere, all the time.](https://techcrunch.com/2023/01/07/batteries-batteries-everywhere/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
