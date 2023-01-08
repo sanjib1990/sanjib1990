@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This is our best look yet at how young stars stifle planetary formation](https://www.space.com/x-ray-image-super-powerful-stars)
+- [NASA&#39;s moon-orbiting space station will be claustrophobic, architect admits](https://www.space.com/lunar-gateway-station-claustrophobic-architect-says)
+- [What is Intuitive Machines and how is it aiming for the moon?](https://www.space.com/intuitive-machines)
 - [Urine luck: these CES startups want to take a closer look at your waste](https://techcrunch.com/2023/01/07/ces-urine/)
 - [A big CES 2023 trend: all battery power, everywhere, all the time.](https://techcrunch.com/2023/01/07/batteries-batteries-everywhere/)
-- [Did you hear? AnkerWork is going after the wireless mic market](https://techcrunch.com/2023/01/07/ankerwork-m650-wireless-microphone/)
-- [This Week in Apps: 2022 in review](https://techcrunch.com/2023/01/07/this-week-in-apps-2022-in-review/)
-- [Ex-Apple team creates BlenderCap, a delightfully over-engineered portable blender](https://techcrunch.com/2023/01/07/blend-cap/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
