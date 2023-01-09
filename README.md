@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [See a naked-eye comet at its closest to the sun on Thursday &lpar;Jan. 12&rpar;](https://www.space.com/comet-c2022-e3-ztf-closest-to-sun-thursday-jan-12-2023)
+- [How can fintech startups outlast the VC winter?](https://techcrunch.com/2023/01/09/how-can-fintech-startups-outlast-the-vc-winter/)
+- [&#39;One of the greatest damn mysteries of physics&#39;: We studied distant suns in the most precise astronomical test of electromagnetism yet](https://www.space.com/test-electromagnetism-rainbows-from-sun-twins)
+- [See a possible naked-eye comet at its closest to the sun on Thursday &lpar;Jan. 12&rpar;](https://www.space.com/comet-c2022-e3-ztf-closest-to-sun-thursday-jan-12-2023)
 - [Watch SpaceX Dragon cargo capsule leave space station on Jan. 9](https://www.space.com/spacex-dragon-crs-26-return-to-earth)
 - [Nigerian agritech Releaf gets more capital as it launches new tech for food processing](https://techcrunch.com/2023/01/09/nigerian-agritech-releaf-gets-more-capital-as-it-launches-new-tech-for-food-processing/)
-- [Superscript, a bespoke insurance provider for SMEs, raises $54 million](https://techcrunch.com/2023/01/09/superscript-a-bespoke-insurance-provider-for-smes-raises-54-million/)
-- [US tech giants say Indian panel’s recommended competition act ‘absolutist and regressive’](https://techcrunch.com/2023/01/08/us-tech-giants-say-indian-panels-recommended-competition-act-absolutist-and-regressive/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
