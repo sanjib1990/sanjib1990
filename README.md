@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [US tech giants say Indian panel’s recommended competition act ‘absolutist and regressive’](https://techcrunch.com/2023/01/08/us-tech-giants-say-indian-panels-recommended-competition-act-absolutist-and-regressive/)
 - [What each streaming service has up its sleeve in 2023](https://techcrunch.com/2023/01/08/what-each-streaming-service-is-planning-for-2023/)
 - [Senator Mark Warner on cybersecurity, Musk’s Twitter and legislating killer robots](https://techcrunch.com/2023/01/08/senator-mark-warner-on-cyber-security-musks-twitter-and-legislating-killer-robots/)
 - [All the tech &lpar;and other flashy features&rpar; stuffed into the Ram 1500 Revolution EV truck](https://techcrunch.com/2023/01/08/all-the-tech-and-other-features-stuffed-into-the-all-electric-ram-1500-revolution/)
 - [Does everyone want to be a landlord, or what?](https://techcrunch.com/2023/01/08/does-everyone-want-to-be-a-landlord-or-what/)
-- [Amazing photos of gorgeously green Comet C/2022 E3 &lpar;ZFT&rpar;](https://www.space.com/comet-c2022-e3-ztf-january-06-gallery)
 <!-- BLOG-POST-LIST:END -->
 
 ---
