@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: In an all-cash transaction, private equity firm buys insurtech startup Duck Creek for $2.6B](https://techcrunch.com/2023/01/09/daily-crunch-in-an-all-cash-transaction-private-equity-firm-buys-insurtech-startup-duck-creek-for-2-6b/)
+- [Max Q: Hitting the ground running](https://techcrunch.com/2023/01/09/max-q-hitting-the-ground-running/)
 - [Huge solar flare erupts on the sun from &#39;hyperactive&#39; sunspot](https://www.space.com/huge-solar-flare-eruption-hyperactive-sunspot)
 - [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [SpaceX could launch 1st Starship orbital flight in February, Elon Musk says](https://www.space.com/spacex-starship-first-orbital-launch-february-2023)
-- [Climate benefits of killing gas stoves aren’t what you think, but the health benefits are](https://techcrunch.com/2023/01/09/climate-benefits-of-killing-gas-stoves-arent-what-you-think-but-the-health-benefits-are/)
-- [Stardew Valley’s big update is now available for iOS and Android](https://techcrunch.com/2023/01/09/stardew-valley-apps-ios-android-patch-1-5/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
