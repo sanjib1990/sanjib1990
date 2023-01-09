@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ecobee CEO and Founder speaks to TechCrunch Live about CES, Nest, and finding product market fit](https://techcrunch.com/2023/01/09/ecobee-ceo-and-founder-speaks-to-techcrunch-live-about-ces-nest-and-finding-product-market-fit/)
+- [Vista Equity Partners to acquire insurance software company Duck Creek for $2.6B](https://techcrunch.com/2023/01/09/vista-equity-partners-to-acquire-insurance-software-company-duck-creek-for-2-6b/)
 - [5 cloud trends to track in 2023](https://techcrunch.com/2023/01/09/5-cloud-trends-to-track-in-2023/)
 - [FLIK’s unified checkout solution gives Southeast Asian sellers more control over data](https://techcrunch.com/2023/01/09/flik/)
 - [All systems go for Virgin Orbit&#39;s first UK launch, a historic 1st for Europe](https://www.space.com/virgin-orbit-first-united-kingdom-launch-preview)
-- [How can fintech startups outlast the VC winter?](https://techcrunch.com/2023/01/09/how-can-fintech-startups-outlast-the-vc-winter/)
-- [&#39;One of the greatest damn mysteries of physics&#39;: We studied distant suns in the most precise astronomical test of electromagnetism yet](https://www.space.com/test-electromagnetism-rainbows-from-sun-twins)
 <!-- BLOG-POST-LIST:END -->
 
 ---
