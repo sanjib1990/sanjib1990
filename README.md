@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Huge solar flare erupts on the sun from &#39;hyperactive&#39; sunspot](https://www.space.com/huge-solar-flare-eruption-hyperactive-sunspot)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [SpaceX could launch 1st Starship orbital flight in February, Elon Musk says](https://www.space.com/spacex-starship-first-orbital-launch-february-2023)
 - [Climate benefits of killing gas stoves aren’t what you think, but the health benefits are](https://techcrunch.com/2023/01/09/climate-benefits-of-killing-gas-stoves-arent-what-you-think-but-the-health-benefits-are/)
 - [Stardew Valley’s big update is now available for iOS and Android](https://techcrunch.com/2023/01/09/stardew-valley-apps-ios-android-patch-1-5/)
-- [YouTube rolls out new Partner Program terms as Shorts revenue sharing begins on February 1](https://techcrunch.com/2023/01/09/youtube-new-partner-program-terms-shorts-revenue-sharing-february-1/)
-- [Watch SpaceX launch 51 Starlink satellites Monday night](https://www.space.com/spacex-launch-starlink-group-2-4)
-- [European carriers file to create joint venture for opt-in ad targeting of mobile users](https://techcrunch.com/2023/01/09/trustpid-joint-venture/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
