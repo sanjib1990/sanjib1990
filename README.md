@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [5 cloud trends to track in 2023](https://techcrunch.com/2023/01/09/5-cloud-trends-to-track-in-2023/)
+- [FLIK’s unified checkout solution gives Southeast Asian sellers more control over data](https://techcrunch.com/2023/01/09/flik/)
+- [All systems go for Virgin Orbit&#39;s first UK launch, a historic 1st for Europe](https://www.space.com/virgin-orbit-first-united-kingdom-launch-preview)
 - [How can fintech startups outlast the VC winter?](https://techcrunch.com/2023/01/09/how-can-fintech-startups-outlast-the-vc-winter/)
 - [&#39;One of the greatest damn mysteries of physics&#39;: We studied distant suns in the most precise astronomical test of electromagnetism yet](https://www.space.com/test-electromagnetism-rainbows-from-sun-twins)
-- [See a possible naked-eye comet at its closest to the sun on Thursday &lpar;Jan. 12&rpar;](https://www.space.com/comet-c2022-e3-ztf-closest-to-sun-thursday-jan-12-2023)
-- [Watch SpaceX Dragon cargo capsule leave space station on Jan. 9](https://www.space.com/spacex-dragon-crs-26-return-to-earth)
-- [Nigerian agritech Releaf gets more capital as it launches new tech for food processing](https://techcrunch.com/2023/01/09/nigerian-agritech-releaf-gets-more-capital-as-it-launches-new-tech-for-food-processing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
