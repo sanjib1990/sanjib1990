@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [A dead NASA satellite from the 1980s just fell to Earth to meet its fiery demise](https://www.space.com/dead-nasa-earth-satellite-falls-to-earth-january-2022)
-- [Khosla Ventures goes after $3B in new funds](https://techcrunch.com/2023/01/09/khosla-ventures-goes-after-3b-in-new-funds/)
-- [In-car tech and EVs dominated CES 2023](https://techcrunch.com/2023/01/09/in-car-tech-and-evs-dominated-ces-2023/)
-- [Half-Life games ranked, worst to best](https://www.space.com/half-life-games-ranked)
-- [Backed by the National Institute on Aging, the a2 Pilot Awards fosters agetech entrepreneurship](https://techcrunch.com/2023/01/09/a2-pilot-awards/)
+- [Anime streaming services to try in 2023](https://techcrunch.com/2023/01/09/anime-streaming-services-to-try-in-2023/)
+- [Watch here: Virgin Orbit attempts the first orbital launch from British soil](https://techcrunch.com/2023/01/09/watch-here-virgin-orbit-attempts-the-first-orbital-launch-from-british-soil/)
+- [These 5 companies bootstrapped their way to big businesses while VCs came knocking](https://techcrunch.com/2023/01/09/these-5-companies-bootstrapped-their-way-to-big-businesses-while-vcs-came-knocking/)
+- [Microsoft acquires Fungible, a maker of data processing units, to bolster Azure](https://techcrunch.com/2023/01/09/microsoft-acquires-fungible-a-maker-of-data-processing-units-to-bolster-azure/)
+- [Apple Maps teams up with parking app SpotHero to give users access to 8K parking options](https://techcrunch.com/2023/01/09/apple-maps-spothero-parking-feature/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
