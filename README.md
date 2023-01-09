@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Anime streaming services to try in 2023](https://techcrunch.com/2023/01/09/anime-streaming-services-to-try-in-2023/)
-- [Watch here: Virgin Orbit attempts the first orbital launch from British soil](https://techcrunch.com/2023/01/09/watch-here-virgin-orbit-attempts-the-first-orbital-launch-from-british-soil/)
-- [These 5 companies bootstrapped their way to big businesses while VCs came knocking](https://techcrunch.com/2023/01/09/these-5-companies-bootstrapped-their-way-to-big-businesses-while-vcs-came-knocking/)
-- [Microsoft acquires Fungible, a maker of data processing units, to bolster Azure](https://techcrunch.com/2023/01/09/microsoft-acquires-fungible-a-maker-of-data-processing-units-to-bolster-azure/)
-- [Apple Maps teams up with parking app SpotHero to give users access to 8K parking options](https://techcrunch.com/2023/01/09/apple-maps-spothero-parking-feature/)
+- [European carriers file to create joint venture for opt-in ad targeting of mobile users](https://techcrunch.com/2023/01/09/trustpid-joint-venture/)
+- [Astronomy photographer of the year competition opens for submissions](https://www.space.com/astronomy-photographer-of-the-year-competition-2023-royal-observatory-greenwich)
+- [A flat year for crowdfunding isn’t a bad sign at all for early-stage startups](https://techcrunch.com/2023/01/09/a-flat-year-for-crowdfunding-isnt-a-bad-sign-at-all-for-early-stage-startups/)
+- [Anthropic’s Claude improves on ChatGPT, but still suffers from limitations](https://techcrunch.com/2023/01/09/anthropics-claude-improves-on-chatgpt-but-still-suffers-from-limitations/)
+- [Instagram is removing the Shop tab, moving Reels from the center spot in design overhaul next month](https://techcrunch.com/2023/01/09/instagram-is-removing-the-shop-tab-moving-reels-from-the-center-spot-in-design-overhaul-next-month/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
