@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Ecobee CEO and Founder speaks to TechCrunch Live about CES, Nest, and finding product market fit](https://techcrunch.com/2023/01/09/ecobee-ceo-and-founder-speaks-to-techcrunch-live-about-ces-nest-and-finding-product-market-fit/)
-- [Vista Equity Partners to acquire insurance software company Duck Creek for $2.6B](https://techcrunch.com/2023/01/09/vista-equity-partners-to-acquire-insurance-software-company-duck-creek-for-2-6b/)
-- [5 cloud trends to track in 2023](https://techcrunch.com/2023/01/09/5-cloud-trends-to-track-in-2023/)
-- [FLIK’s unified checkout solution gives Southeast Asian sellers more control over data](https://techcrunch.com/2023/01/09/flik/)
-- [All systems go for Virgin Orbit&#39;s first UK launch, a historic 1st for Europe](https://www.space.com/virgin-orbit-first-united-kingdom-launch-preview)
+- [XetHub raises $7.5M for its Git-based data collaboration platform](https://techcrunch.com/2023/01/09/xethub-raises-7-5m-for-its-git-based-data-collaboration-platform/)
+- [Attention uses natural language processing to help sales reps sell faster](https://techcrunch.com/2023/01/09/attention/)
+- [2 tiny space weather satellites deployed from space station](https://www.space.com/space-weather-cubesats-deployed-from-space-station)
+- [Apple’s mixed-reality headset could arrive this year](https://techcrunch.com/2023/01/09/apples-mixed-reality-headset-could-arrive-this-year/)
+- [Best space games on Xbox Game Pass](https://www.space.com/best-space-games-on-xbox-game-pass)
 <!-- BLOG-POST-LIST:END -->
 
 ---
