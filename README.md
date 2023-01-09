@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Backed by the National Institute on Aging, the a2 Pilot Awards fosters agetech entrepreneurship](https://techcrunch.com/2023/01/09/a2-pilot-awards/)
+- [D’Amelio family’s new footwear line to launch May 2023](https://techcrunch.com/2023/01/09/damelio-familys-new-footwear-line-to-launch-may-2023/)
+- [China&#39;s 1st Mars rover and Tianwen 1 orbiter may have gone silent: report](https://www.space.com/china-mars-orbiter-rover-trouble-reports)
 - [XetHub raises $7.5M for its Git-based data collaboration platform](https://techcrunch.com/2023/01/09/xethub-raises-7-5m-for-its-git-based-data-collaboration-platform/)
 - [Attention uses natural language processing to help sales reps sell faster](https://techcrunch.com/2023/01/09/attention/)
-- [2 tiny space weather satellites deployed from space station](https://www.space.com/space-weather-cubesats-deployed-from-space-station)
-- [Apple’s mixed-reality headset could arrive this year](https://techcrunch.com/2023/01/09/apples-mixed-reality-headset-could-arrive-this-year/)
-- [Best space games on Xbox Game Pass](https://www.space.com/best-space-games-on-xbox-game-pass)
 <!-- BLOG-POST-LIST:END -->
 
 ---
