@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A dead NASA satellite from the 1980s just fell to Earth to meet its fiery demise](https://www.space.com/dead-nasa-earth-satellite-falls-to-earth-january-2022)
+- [Khosla Ventures goes after $3B in new funds](https://techcrunch.com/2023/01/09/khosla-ventures-goes-after-3b-in-new-funds/)
+- [In-car tech and EVs dominated CES 2023](https://techcrunch.com/2023/01/09/in-car-tech-and-evs-dominated-ces-2023/)
+- [Half-Life games ranked, worst to best](https://www.space.com/half-life-games-ranked)
 - [Backed by the National Institute on Aging, the a2 Pilot Awards fosters agetech entrepreneurship](https://techcrunch.com/2023/01/09/a2-pilot-awards/)
-- [D’Amelio family’s new footwear line to launch May 2023](https://techcrunch.com/2023/01/09/damelio-familys-new-footwear-line-to-launch-may-2023/)
-- [China&#39;s 1st Mars rover and Tianwen 1 orbiter may have gone silent: report](https://www.space.com/china-mars-orbiter-rover-trouble-reports)
-- [XetHub raises $7.5M for its Git-based data collaboration platform](https://techcrunch.com/2023/01/09/xethub-raises-7-5m-for-its-git-based-data-collaboration-platform/)
-- [Attention uses natural language processing to help sales reps sell faster](https://techcrunch.com/2023/01/09/attention/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
