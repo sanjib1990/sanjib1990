@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [John Deere will let farmers repair their own equipment](https://techcrunch.com/2023/01/10/john-deere-will-let-farmers-repair-their-own-equipment/)
-- [Are Arm and Ant Group’s derailed exits back on track?](https://techcrunch.com/2023/01/10/are-arm-and-ant-groups-derailed-exits-back-on-track/)
-- [New Jersey and Ohio are the latest states to ban TikTok on government devices](https://techcrunch.com/2023/01/10/new-jersey-and-ohio-are-the-latest-states-to-ban-tiktok-on-government-devices/)
-- [Everything we know about Ant-Man and the Wasp: Quantumania](https://www.space.com/everything-we-know-about-ant-man-and-the-wasp-quantumania)
-- [2023 will bring crisper methods for evaluating startup success](https://techcrunch.com/2023/01/10/2023-will-bring-crisper-methods-for-evaluating-startup-success/)
+- [BioNTech acquires Tunisian-born and U.K-based AI startup InstaDeep for £562M](https://techcrunch.com/2023/01/10/biontech-acquires-tunisian-born-and-u-k-based-ai-startup-instadeep-for-562m/)
+- [India’s antitrust order will stall Android’s progress in the country, Google warns](https://techcrunch.com/2023/01/10/india-antitrust-order-android-progress-google/)
+- [Wyze launches its new $34 pan and tilt security camera](https://techcrunch.com/2023/01/10/wyze-launches-its-new-34-pan-and-tilt-security-camera/)
+- [Check out the final four startups pitching tomorrow at CCC Web3 Demo Day](https://techcrunch.com/2023/01/10/check-out-the-final-four-startups-pitching-tomorrow-at-ccc-web3-demo-day/)
+- [Some investors are &lpar;cautiously&rpar; implementing ChatGPT in their workflows](https://techcrunch.com/2023/01/10/some-investors-are-cautiously-implementing-chatgpt-in-their-workflows/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
