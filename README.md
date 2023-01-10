@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [2023 will bring crisper methods for evaluating startup success](https://techcrunch.com/2023/01/10/2023-will-bring-crisper-methods-for-evaluating-startup-success/)
+- [SpaceX launches 1st European solar sail on Transporter 6 mission](https://www.space.com/spacex-transporter-6-first-european-solar-sail)
+- [Facebook data-scraping breach triggers GDPR enforcement lawsuit in Ireland](https://techcrunch.com/2023/01/10/digital-rights-ireland-gdpr-lawsuit-facebook-data-scraping-breach/)
+- [New functional tea brand, buoyed by $6.7M in new funding, debuts in Wegmans, Whole Foods](https://techcrunch.com/2023/01/10/functional-tea-ryl-wegmans-whole-foods/)
 - [Early James Webb Space Telescope findings take center stage at key astronomy conference](https://www.space.com/james-webb-space-telescope-aas-excitement)
-- [Instagram and Facebook introduce more limits on targeting teens with ads](https://techcrunch.com/2023/01/10/instagram-and-facebook-introduce-more-limits-on-targeting-teens-with-ads/)
-- [Data observability startup Metaplane lands investment from YC, others](https://techcrunch.com/2023/01/10/data-observability-startup-metaplane-lands-investment-from-yc-others/)
-- [Observability platform Chronosphere raises another $115M at a $1.6B valuation](https://techcrunch.com/2023/01/10/observability-platform-chronosphere-raises-another-115m-at-a-1-6b-valuation/)
-- [The Easy Company raised $14.2M to build an easy-to-use ‘social’ crypto wallet](https://techcrunch.com/2023/01/10/the-easy-company-raised-14-2m-to-build-an-easy-to-use-crypto-wallet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
