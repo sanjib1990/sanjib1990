@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fidelity makes first acquisition in 7 years, snapping up fintech Shoobx](https://techcrunch.com/2023/01/10/fidelity-snaps-up-fintech-shoobx-after-7-years-without-an-acquisition/)
+- [Why the Matter logo was everywhere at CES 2023](https://techcrunch.com/2023/01/10/why-the-matter-logo-was-everywhere-at-ces-2023/)
+- [Virgin Orbit’s botched launch highlights shaky financial future](https://techcrunch.com/2023/01/10/virgin-orbits-botched-launch-highlights-shaky-financial-future/)
+- [Final &#39;Ant-Man and the Wasp: Quantumania&#39; trailer dives into the Quantum Realm](https://www.space.com/ant-man-wasp-quantumania-trailer-quantum-realm)
 - [SpaceX fires up Falcon Heavy rocket ahead of Saturday launch &lpar;photo&rpar;](https://www.space.com/spacex-fifth-falcon-heavy-launch-static-fire)
-- [Six crypto investors talk about DeFi and the road ahead for adoption in 2023](https://techcrunch.com/2023/01/10/six-crypto-investors-talk-about-defi-and-the-road-ahead-for-adoption-in-2023/)
-- [China issues gold and silver coins to mark completion of Tiangong space station](https://www.space.com/china-tiangong-space-station-completion-coins)
-- [A government watchdog spent $15,000 to crack a federal agency’s passwords in minutes](https://techcrunch.com/2023/01/10/interior-department-watchdog-passwords/)
-- [Astronomers find 2nd Earth-size planet in intriguing alien solar system](https://www.space.com/tess-second-earth-size-habitable-zone-exoplanet)
 <!-- BLOG-POST-LIST:END -->
 
 ---
