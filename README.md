@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX fires up Falcon Heavy rocket ahead of Saturday launch &lpar;photo&rpar;](https://www.space.com/spacex-fifth-falcon-heavy-launch-static-fire)
 - [Six crypto investors talk about DeFi and the road ahead for adoption in 2023](https://techcrunch.com/2023/01/10/six-crypto-investors-talk-about-defi-and-the-road-ahead-for-adoption-in-2023/)
 - [China issues gold and silver coins to mark completion of Tiangong space station](https://www.space.com/china-tiangong-space-station-completion-coins)
 - [A government watchdog spent $15,000 to crack a federal agency’s passwords in minutes](https://techcrunch.com/2023/01/10/interior-department-watchdog-passwords/)
 - [Astronomers find 2nd Earth-size planet in intriguing alien solar system](https://www.space.com/tess-second-earth-size-habitable-zone-exoplanet)
-- [Meta’s main content moderation partner in Africa shuts down operations](https://techcrunch.com/2023/01/10/metas-main-content-moderation-partner-in-africa-shuts-down-operations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
