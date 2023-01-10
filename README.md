@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Virgin Orbit rocket suffers anomaly during 1st launch from UK](https://www.space.com/virgin-orbit-first-united-kingdom-launch-failure)
+- [FCC moves to form Space Bureau as its role in regulating orbit intensifies](https://techcrunch.com/2023/01/09/fcc-moves-to-form-space-bureau-as-its-role-in-regulating-orbit-intensifies/)
+- [How companies at CES are taking on climate change &lpar;or pretending to&rpar;](https://techcrunch.com/2023/01/09/how-companies-at-ces-are-taking-on-climate-change-or-pretending-to/)
 - [Daily Crunch: In an all-cash transaction, private equity firm buys insurtech startup Duck Creek for $2.6B](https://techcrunch.com/2023/01/09/daily-crunch-in-an-all-cash-transaction-private-equity-firm-buys-insurtech-startup-duck-creek-for-2-6b/)
 - [Max Q: Hitting the ground running](https://techcrunch.com/2023/01/09/max-q-hitting-the-ground-running/)
-- [Huge solar flare erupts on the sun from &#39;hyperactive&#39; sunspot](https://www.space.com/huge-solar-flare-eruption-hyperactive-sunspot)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [SpaceX could launch 1st Starship orbital flight in February, Elon Musk says](https://www.space.com/spacex-starship-first-orbital-launch-february-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
