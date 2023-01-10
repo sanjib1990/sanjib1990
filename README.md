@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Salesforce turmoil continues into new year, as recent layoffs attest](https://techcrunch.com/2023/01/10/salesforce-turmoil-continues-into-new-year-as-recent-layoffs-attest/)
-- [LauncherOne rocket from failed Virgin Orbit launch spotted crashing to Earth &lpar;video&rpar;](https://www.space.com/virgin-orbit-rocket-failure-reentry-video)
-- [Comcast’s Xfinity Stream app adds support for Apple’s AirPlay](https://techcrunch.com/2023/01/10/comcasts-xfinity-stream-app-adds-support-for-apples-airplay/)
-- [Scale AI cuts 20% of its workforce](https://techcrunch.com/2023/01/10/scale-ai-cuts-20-of-its-workforce/)
-- [Europe quizzes TikTok on data safety, disinformation and DSA compliance](https://techcrunch.com/2023/01/10/tiktok-eu-meeting/)
+- [Six crypto investors talk about DeFi and the road ahead for adoption in 2023](https://techcrunch.com/2023/01/10/six-crypto-investors-talk-about-defi-and-the-road-ahead-for-adoption-in-2023/)
+- [China issues gold and silver coins to mark completion of Tiangong space station](https://www.space.com/china-tiangong-space-station-completion-coins)
+- [A government watchdog spent $15,000 to crack a federal agency’s passwords in minutes](https://techcrunch.com/2023/01/10/interior-department-watchdog-passwords/)
+- [Astronomers find 2nd Earth-size planet in intriguing alien solar system](https://www.space.com/tess-second-earth-size-habitable-zone-exoplanet)
+- [Meta’s main content moderation partner in Africa shuts down operations](https://techcrunch.com/2023/01/10/metas-main-content-moderation-partner-in-africa-shuts-down-operations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
