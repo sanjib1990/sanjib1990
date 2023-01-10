@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [John Deere will let farmers repair their own equipment](https://techcrunch.com/2023/01/10/john-deere-will-let-farmers-repair-their-own-equipment/)
+- [Are Arm and Ant Group’s derailed exits back on track?](https://techcrunch.com/2023/01/10/are-arm-and-ant-groups-derailed-exits-back-on-track/)
+- [New Jersey and Ohio are the latest states to ban TikTok on government devices](https://techcrunch.com/2023/01/10/new-jersey-and-ohio-are-the-latest-states-to-ban-tiktok-on-government-devices/)
+- [Everything we know about Ant-Man and the Wasp: Quantumania](https://www.space.com/everything-we-know-about-ant-man-and-the-wasp-quantumania)
 - [2023 will bring crisper methods for evaluating startup success](https://techcrunch.com/2023/01/10/2023-will-bring-crisper-methods-for-evaluating-startup-success/)
-- [SpaceX launches 1st European solar sail on Transporter 6 mission](https://www.space.com/spacex-transporter-6-first-european-solar-sail)
-- [Facebook data-scraping breach triggers GDPR enforcement lawsuit in Ireland](https://techcrunch.com/2023/01/10/digital-rights-ireland-gdpr-lawsuit-facebook-data-scraping-breach/)
-- [New functional tea brand, buoyed by $6.7M in new funding, debuts in Wegmans, Whole Foods](https://techcrunch.com/2023/01/10/functional-tea-ryl-wegmans-whole-foods/)
-- [Early James Webb Space Telescope findings take center stage at key astronomy conference](https://www.space.com/james-webb-space-telescope-aas-excitement)
 <!-- BLOG-POST-LIST:END -->
 
 ---
