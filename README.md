@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Buy with Prime, which brings Prime to third-party sites, officially launches in U.S. on Jan. 31](https://techcrunch.com/2023/01/10/buy-with-prime-which-brings-prime-to-third-party-sites-officially-launches-in-u-s-on-jan-31/)
-- [A timeline for startup M&amp;A processes: Key steps and factors to consider](https://techcrunch.com/2023/01/10/a-timeline-for-startup-ma-processes-key-steps-and-factors-to-consider/)
-- [Pew, pew! Massive &#39;oddball&#39; blasts a jet of material at over a million mph](https://www.space.com/alma-oddball-star-jet-million-mph)
-- [Google’s Extension SDK aims to bring latest features to older Android versions](https://techcrunch.com/2023/01/10/googles-extension-sdk-aims-to-bring-latest-features-to-older-android-versions/)
-- [Coinbase to cut 20% jobs, abandon ‘several’ projects to weather downturns in crypto market](https://techcrunch.com/2023/01/10/coinbase-to-cut-20-jobs-and-abandon-several-projects/)
+- [Early James Webb Space Telescope findings take center stage at key astronomy conference](https://www.space.com/james-webb-space-telescope-aas-excitement)
+- [Instagram and Facebook introduce more limits on targeting teens with ads](https://techcrunch.com/2023/01/10/instagram-and-facebook-introduce-more-limits-on-targeting-teens-with-ads/)
+- [Data observability startup Metaplane lands investment from YC, others](https://techcrunch.com/2023/01/10/data-observability-startup-metaplane-lands-investment-from-yc-others/)
+- [Observability platform Chronosphere raises another $115M at a $1.6B valuation](https://techcrunch.com/2023/01/10/observability-platform-chronosphere-raises-another-115m-at-a-1-6b-valuation/)
+- [The Easy Company raised $14.2M to build an easy-to-use ‘social’ crypto wallet](https://techcrunch.com/2023/01/10/the-easy-company-raised-14-2m-to-build-an-easy-to-use-crypto-wallet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
