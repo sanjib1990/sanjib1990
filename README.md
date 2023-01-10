@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [BioNTech acquires Tunisian-born and U.K-based AI startup InstaDeep for £562M](https://techcrunch.com/2023/01/10/biontech-acquires-tunisian-born-and-u-k-based-ai-startup-instadeep-for-562m/)
-- [India’s antitrust order will stall Android’s progress in the country, Google warns](https://techcrunch.com/2023/01/10/india-antitrust-order-android-progress-google/)
-- [Wyze launches its new $34 pan and tilt security camera](https://techcrunch.com/2023/01/10/wyze-launches-its-new-34-pan-and-tilt-security-camera/)
-- [Check out the final four startups pitching tomorrow at CCC Web3 Demo Day](https://techcrunch.com/2023/01/10/check-out-the-final-four-startups-pitching-tomorrow-at-ccc-web3-demo-day/)
-- [Some investors are &lpar;cautiously&rpar; implementing ChatGPT in their workflows](https://techcrunch.com/2023/01/10/some-investors-are-cautiously-implementing-chatgpt-in-their-workflows/)
+- [Europe quizzes TikTok on data safety, disinformation and DSA compliance](https://techcrunch.com/2023/01/10/tiktok-eu-meeting/)
+- [Paramount+ orders a live-action ‘Dungeons &amp; Dragons’ series](https://techcrunch.com/2023/01/10/paramount-orders-a-live-action-dungeons-dragons-series/)
+- [TechCrunch+ roundup: New success metrics, M&amp;A timeline, 5 cloud trends for 2023](https://techcrunch.com/2023/01/10/techcrunch-roundup-new-success-metrics-ma-timeline-5-cloud-trends-for-2023/)
+- [Web3-focused Beacon launches flagship demo day with 13 crypto startups](https://techcrunch.com/2023/01/10/web3-focused-beacon-launches-flagship-demo-day-with-13-crypto-startups/)
+- [Hungry black holes trapped in an intimate dance feast on leftovers from a galactic merger](https://www.space.com/closest-pair-black-holes-galaxy-merger)
 <!-- BLOG-POST-LIST:END -->
 
 ---
