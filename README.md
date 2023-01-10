@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Salesforce turmoil continues into new year, as recent layoffs attest](https://techcrunch.com/2023/01/10/salesforce-turmoil-continues-into-new-year-as-recent-layoffs-attest/)
+- [LauncherOne rocket from failed Virgin Orbit launch spotted crashing to Earth &lpar;video&rpar;](https://www.space.com/virgin-orbit-rocket-failure-reentry-video)
+- [Comcast’s Xfinity Stream app adds support for Apple’s AirPlay](https://techcrunch.com/2023/01/10/comcasts-xfinity-stream-app-adds-support-for-apples-airplay/)
+- [Scale AI cuts 20% of its workforce](https://techcrunch.com/2023/01/10/scale-ai-cuts-20-of-its-workforce/)
 - [Europe quizzes TikTok on data safety, disinformation and DSA compliance](https://techcrunch.com/2023/01/10/tiktok-eu-meeting/)
-- [Paramount+ orders a live-action ‘Dungeons &amp; Dragons’ series](https://techcrunch.com/2023/01/10/paramount-orders-a-live-action-dungeons-dragons-series/)
-- [TechCrunch+ roundup: New success metrics, M&amp;A timeline, 5 cloud trends for 2023](https://techcrunch.com/2023/01/10/techcrunch-roundup-new-success-metrics-ma-timeline-5-cloud-trends-for-2023/)
-- [Web3-focused Beacon launches flagship demo day with 13 crypto startups](https://techcrunch.com/2023/01/10/web3-focused-beacon-launches-flagship-demo-day-with-13-crypto-startups/)
-- [Hungry black holes trapped in an intimate dance feast on leftovers from a galactic merger](https://www.space.com/closest-pair-black-holes-galaxy-merger)
 <!-- BLOG-POST-LIST:END -->
 
 ---
