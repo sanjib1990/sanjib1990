@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [App Store and Play Store are flooded with dubious ChatGPT apps](https://techcrunch.com/2023/01/10/app-store-and-play-store-are-flooded-with-dubious-chatgpt-apps/)
 - [Jetstream, a Ghanaian e-logistics platform for Africa’s B2B importers and exporters, takes in $13M equity, debt](https://techcrunch.com/2023/01/10/jetstream-a-ghanaian-e-logistics-platform-for-africas-b2b-importers-and-exporters-takes-in-13m-equity-debt/)
 - [Qarnot creates green data centers by putting servers in central heating boilers](https://techcrunch.com/2023/01/09/qarnot-creates-green-data-centers-by-putting-servers-in-central-heating-boilers/)
 - [Singapore-based Supermom helps parenting brands navigate a post-cookie world](https://techcrunch.com/2023/01/09/supermom/)
 - [Korean handmade goods marketplace Backpackr gears up to expand into Southeast Asia](https://techcrunch.com/2023/01/09/korean-handmade-goods-marketplace-backpackr-gears-up-to-expand-into-southeast-asia/)
-- [Virgin Orbit rocket suffers anomaly during 1st launch from UK](https://www.space.com/virgin-orbit-first-united-kingdom-launch-failure)
 <!-- BLOG-POST-LIST:END -->
 
 ---
