@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Coinbase to cut 20% jobs, abandon ‘several’ projects to weather downturns in crypto market](https://techcrunch.com/2023/01/10/coinbase-to-cut-20-jobs-and-abandon-several-projects/)
+- [Microsoft partners with AiFi to launch Smart Store Analytics, a tracking service for cashierless outlets](https://techcrunch.com/2023/01/10/aifi-microsoft-smart-store-analytics/)
+- [Tinder and other Match dating apps will offer in-app tips on avoiding romance scams](https://techcrunch.com/2023/01/10/tinder-hinge-match-group-online-scam-alerts/)
 - [SpaceX and NASA target Crew-6 astronaut launch in mid-February](https://www.space.com/spacex-crew-6-launch-feb-2023)
 - [SpaceX gearing up for 5th Falcon Heavy launch &lpar;photos&rpar;](https://www.space.com/spacex-preparing-fifth-falcon-heavy-launch-photos)
-- [Indian edtech Unacademy cuts upskilling service to double down on tests product and LinkedIn rival](https://techcrunch.com/2023/01/10/indian-edtech-unacademy-cuts-upskilling-service-to-double-down-on-tests-product-and-linkedin-rival/)
-- [OpenAI in talks to back Zeloof and chip legend Keller’s startup at $100 million valuation](https://techcrunch.com/2023/01/10/openai-in-talks-to-back-zeloof-and-chip-legend-kellers-startup-at-100-million-valuation/)
-- [App Store and Play Store are flooded with dubious ChatGPT apps](https://techcrunch.com/2023/01/10/app-store-and-play-store-are-flooded-with-dubious-chatgpt-apps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
