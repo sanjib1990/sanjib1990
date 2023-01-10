@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX and NASA target Crew-6 astronaut launch in mid-February](https://www.space.com/spacex-crew-6-launch-feb-2023)
+- [SpaceX gearing up for 5th Falcon Heavy launch &lpar;photos&rpar;](https://www.space.com/spacex-preparing-fifth-falcon-heavy-launch-photos)
+- [Indian edtech Unacademy cuts upskilling service to double down on tests product and LinkedIn rival](https://techcrunch.com/2023/01/10/indian-edtech-unacademy-cuts-upskilling-service-to-double-down-on-tests-product-and-linkedin-rival/)
+- [OpenAI in talks to back Zeloof and chip legend Keller’s startup at $100 million valuation](https://techcrunch.com/2023/01/10/openai-in-talks-to-back-zeloof-and-chip-legend-kellers-startup-at-100-million-valuation/)
 - [App Store and Play Store are flooded with dubious ChatGPT apps](https://techcrunch.com/2023/01/10/app-store-and-play-store-are-flooded-with-dubious-chatgpt-apps/)
-- [Jetstream, a Ghanaian e-logistics platform for Africa’s B2B importers and exporters, takes in $13M equity, debt](https://techcrunch.com/2023/01/10/jetstream-a-ghanaian-e-logistics-platform-for-africas-b2b-importers-and-exporters-takes-in-13m-equity-debt/)
-- [Qarnot creates green data centers by putting servers in central heating boilers](https://techcrunch.com/2023/01/09/qarnot-creates-green-data-centers-by-putting-servers-in-central-heating-boilers/)
-- [Singapore-based Supermom helps parenting brands navigate a post-cookie world](https://techcrunch.com/2023/01/09/supermom/)
-- [Korean handmade goods marketplace Backpackr gears up to expand into Southeast Asia](https://techcrunch.com/2023/01/09/korean-handmade-goods-marketplace-backpackr-gears-up-to-expand-into-southeast-asia/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
