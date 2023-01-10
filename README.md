@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Citing ‘unscrupulous actors’ and market trends, Coinbase CEO lays off 950 workers](https://techcrunch.com/2023/01/10/daily-crunch-citing-unscrupulous-actors-and-market-trends-coinbase-ceo-lays-off-950-workers/)
+- [Want the Nothing phone in the US? Be a beta](https://techcrunch.com/2023/01/10/want-the-nothing-phone-in-the-us-be-a-beta/)
 - [Fidelity makes first acquisition in 7 years, snapping up fintech Shoobx](https://techcrunch.com/2023/01/10/fidelity-snaps-up-fintech-shoobx-after-7-years-without-an-acquisition/)
 - [Why the Matter logo was everywhere at CES 2023](https://techcrunch.com/2023/01/10/why-the-matter-logo-was-everywhere-at-ces-2023/)
 - [Virgin Orbit’s botched launch highlights shaky financial future](https://techcrunch.com/2023/01/10/virgin-orbits-botched-launch-highlights-shaky-financial-future/)
-- [Final &#39;Ant-Man and the Wasp: Quantumania&#39; trailer dives into the Quantum Realm](https://www.space.com/ant-man-wasp-quantumania-trailer-quantum-realm)
-- [SpaceX fires up Falcon Heavy rocket ahead of Saturday launch &lpar;photo&rpar;](https://www.space.com/spacex-fifth-falcon-heavy-launch-static-fire)
 <!-- BLOG-POST-LIST:END -->
 
 ---
