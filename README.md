@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Buy with Prime, which brings Prime to third-party sites, officially launches in U.S. on Jan. 31](https://techcrunch.com/2023/01/10/buy-with-prime-which-brings-prime-to-third-party-sites-officially-launches-in-u-s-on-jan-31/)
+- [A timeline for startup M&amp;A processes: Key steps and factors to consider](https://techcrunch.com/2023/01/10/a-timeline-for-startup-ma-processes-key-steps-and-factors-to-consider/)
+- [Pew, pew! Massive &#39;oddball&#39; blasts a jet of material at over a million mph](https://www.space.com/alma-oddball-star-jet-million-mph)
+- [Google’s Extension SDK aims to bring latest features to older Android versions](https://techcrunch.com/2023/01/10/googles-extension-sdk-aims-to-bring-latest-features-to-older-android-versions/)
 - [Coinbase to cut 20% jobs, abandon ‘several’ projects to weather downturns in crypto market](https://techcrunch.com/2023/01/10/coinbase-to-cut-20-jobs-and-abandon-several-projects/)
-- [Microsoft partners with AiFi to launch Smart Store Analytics, a tracking service for cashierless outlets](https://techcrunch.com/2023/01/10/aifi-microsoft-smart-store-analytics/)
-- [Tinder and other Match dating apps will offer in-app tips on avoiding romance scams](https://techcrunch.com/2023/01/10/tinder-hinge-match-group-online-scam-alerts/)
-- [SpaceX and NASA target Crew-6 astronaut launch in mid-February](https://www.space.com/spacex-crew-6-launch-feb-2023)
-- [SpaceX gearing up for 5th Falcon Heavy launch &lpar;photos&rpar;](https://www.space.com/spacex-preparing-fifth-falcon-heavy-launch-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
