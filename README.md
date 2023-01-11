@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Rare &#39;green pea&#39; galaxy may be the most &#39;chemically primitive&#39; galaxy ever discovered](https://www.space.com/james-webb-space-telescope-green-pea-galaxies)
-- [Carta lays off 10% as CTO lawsuit looms](https://techcrunch.com/2023/01/11/carta-lays-off-10-as-cto-lawsuit-looms/)
-- [Astronomers make 1st-ever 3D map of Local Bubble&#39;s magnetic fields](https://www.space.com/local-bubble-first-3d-magnetic-field-map)
-- [Major EU privacy decisions against Meta’s legal basis for ads raise fresh complaints](https://techcrunch.com/2023/01/11/meta-ads-legal-basis-dpc-final-decisions/)
-- [AWS partners with Avalanche to scale blockchain solutions for enterprises, governments](https://techcrunch.com/2023/01/11/aws-partners-with-avalanche-to-scale-blockchain-solutions-for-enterprises-governments/)
+- [Twitter is considering selling usernames through online auctions, new report claims](https://techcrunch.com/2023/01/11/twitter-selling-usernames-via-online-auctions/)
+- [7-year eclipse reveals &#39;exceptionally rare&#39; binary system with 1000-year orbit](https://www.space.com/dusty-white-dwarf-star-dimming-once-in-lifetime)
+- [When it comes to web3, investors say they’re in it for the long haul](https://techcrunch.com/2023/01/11/when-it-comes-to-web3-investors-say-theyre-in-it-for-the-long-haul/)
+- [Company created by Citrix-Tibco merger confirms it has laid off 15% of staff](https://techcrunch.com/2023/01/11/company-created-by-citrix-tibco-merger-confirms-it-has-laid-off-15-of-staff/)
+- [I put Dyson’s Bane mask on my face](https://techcrunch.com/2023/01/11/i-put-dysons-bane-mask-on-my-face/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
