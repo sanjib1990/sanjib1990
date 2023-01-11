@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [HBO and HBO Max dominates Golden Globes with most wins](https://techcrunch.com/2023/01/11/hbo-max-dominates-golden-globes-with-most-wins/)
-- [Deel enters equity management space with acquisition of Capbase](https://techcrunch.com/2023/01/11/deel-enters-equity-management-space-with-acquisition-of-capbase/)
-- [Dear Sophie: Any tips for presenting a strong H-1B case? What if I’m not selected?](https://techcrunch.com/2023/01/11/dear-sophie-any-tips-for-presenting-a-strong-h-1b-case-what-if-im-not-selected/)
-- [Solar flare hat trick: Sun unleashes another powerful X-flare in less than a week!](https://www.space.com/sun-solar-flare-x-class-jan-10-2023)
-- [Microsoft 365 Basic launches with 100 GB of storage, Outlook and more for $1.99 per month](https://techcrunch.com/2023/01/11/microsoft-365-basic-launches-with-100-gb-of-storage-outlook-and-more-for-1-99-per-month/)
+- [Major EU privacy decisions against Meta’s legal basis for ads raise fresh complaints](https://techcrunch.com/2023/01/11/meta-ads-legal-basis-dpc-final-decisions/)
+- [AWS partners with Avalanche to scale blockchain solutions for enterprises, governments](https://techcrunch.com/2023/01/11/aws-partners-with-avalanche-to-scale-blockchain-solutions-for-enterprises-governments/)
+- [NASA&#39;s Juno Jupiter probe bounces back from memory glitch](https://www.space.com/jupiter-mission-juno-recovers-memory-glitch)
+- [How we pivoted our deep tech startup to become a SaaS company](https://techcrunch.com/2023/01/11/how-we-pivoted-our-deep-tech-startup-to-become-a-saas-company/)
+- [SpaceX Dragon cargo capsule returns to Earth after 6-week stay at space station](https://www.space.com/spacex-dragon-crs-26-splashdown)
 <!-- BLOG-POST-LIST:END -->
 
 ---
