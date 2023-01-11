@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See 133 days on the sun in just 2 minutes in this mesmerizing NASA video](https://www.space.com/see-133-days-of-the-sun-in-minutes-nasa-video)
+- [SpaceX stacks giant Starship rocket again to prep for test flight &lpar;video&rpar;](https://www.space.com/spacex-stacks-starship-january-2023-video)
 - [OpenAI begins piloting ChatGPT Professional, a premium version of its viral chatbot](https://techcrunch.com/2023/01/11/openai-begins-piloting-chatgpt-professional-a-premium-version-of-its-viral-chatbot/)
 - [Inflow, a platform for managing ADHD through cognitive behavioral therapy, raises $11M](https://techcrunch.com/2023/01/11/inflow-a-platform-for-managing-adhd-through-cbt-raises-11m/)
 - [Twitter makes algorithmic timeline default on iOS](https://techcrunch.com/2023/01/11/twitter-makes-algorithmic-timeline-default-on-ios/)
-- [Hack the Box, a gamified cybersecurity training platform with 1.7M users, raises $55M](https://techcrunch.com/2023/01/11/hack-the-box-a-gamified-cybersecurity-training-platform-with-1-7m-users-raises-55m/)
-- [Kleiner Perkins-backed Vylo thinks the future of news is video commentary](https://techcrunch.com/2023/01/11/kleiner-perkins-vylo-future-of-news-is-video-commentary/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
