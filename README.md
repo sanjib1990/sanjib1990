@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: In ‘an early experimental program,’ OpenAI opens waitlist for GPT Professional](https://techcrunch.com/2023/01/11/daily-crunch-in-an-early-experimental-program-openai-opens-waitlist-for-gpt-professional/)
+- [NASA opens hatch of Artemis 1 Orion spacecraft &lpar;photo&rpar;](https://www.space.com/artemis-1-orion-spacecraft-hatch-opened)
+- [In photos: Virgin Orbit&#39;s first UK launch from Spaceport Cornwall](https://www.space.com/first-virgin-orbit-launch-uk-photos)
 - [PC sales slip for fourth straight quarter in Q4 as demand remains muted](https://techcrunch.com/2023/01/11/pc-sales-slip-for-fourth-straight-quarter-in-q4-as-demand-remains-muted/)
 - [US solar manufacturing gets boost with $2.5B Georgia deal](https://techcrunch.com/2023/01/11/us-solar-manufacturing-gets-boost-with-2-5b-georgia-deal/)
-- [Rocket Lab targeting Jan. 23 for 1st launch from US soil](https://www.space.com/rocket-lab-first-us-launch-january-23)
-- [Funding for Black founders remains dismal — where do we go from here?](https://techcrunch.com/2023/01/11/funding-for-black-founders-remains-dismal-where-do-we-go-from-here/)
-- [Is ChatGPT a cybersecurity threat?](https://techcrunch.com/2023/01/11/chatgpt-cybersecurity-threat/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
