@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Inbenta, a provider of AI-powered chatbots and more, lands $40M](https://techcrunch.com/2023/01/11/inbenta-a-provider-of-ai-powered-chatbots-and-more-lands-40m/)
+- [Samsung is holding its next Galaxy Unpacked event on February 1, teases camera improvements](https://techcrunch.com/2023/01/11/samsung-is-holding-its-next-galaxy-unpacked-event-on-february-1-teases-camera-improvements/)
+- [India to spend $320 million to promote homegrown payments network](https://techcrunch.com/2023/01/11/india-to-spend-320-million-to-promote-homegrown-payments-network/)
+- [Google users not given sufficient choice over its data processing, says German antitrust watchdog](https://techcrunch.com/2023/01/11/google-germany-data-processing-fco-statement-of-objections/)
 - [See 133 days on the sun in just 2 minutes in this mesmerizing NASA video](https://www.space.com/see-133-days-of-the-sun-in-minutes-nasa-video)
-- [SpaceX stacks giant Starship rocket again to prep for test flight &lpar;video&rpar;](https://www.space.com/spacex-stacks-starship-january-2023-video)
-- [OpenAI begins piloting ChatGPT Professional, a premium version of its viral chatbot](https://techcrunch.com/2023/01/11/openai-begins-piloting-chatgpt-professional-a-premium-version-of-its-viral-chatbot/)
-- [Inflow, a platform for managing ADHD through cognitive behavioral therapy, raises $11M](https://techcrunch.com/2023/01/11/inflow-a-platform-for-managing-adhd-through-cbt-raises-11m/)
-- [Twitter makes algorithmic timeline default on iOS](https://techcrunch.com/2023/01/11/twitter-makes-algorithmic-timeline-default-on-ios/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
