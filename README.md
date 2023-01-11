@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rare &#39;green pea&#39; galaxy may be the most &#39;chemically primitive&#39; galaxy ever discovered](https://www.space.com/james-webb-space-telescope-green-pea-galaxies)
+- [Carta lays off 10% as CTO lawsuit looms](https://techcrunch.com/2023/01/11/carta-lays-off-10-as-cto-lawsuit-looms/)
+- [Astronomers make 1st-ever 3D map of Local Bubble&#39;s magnetic fields](https://www.space.com/local-bubble-first-3d-magnetic-field-map)
 - [Major EU privacy decisions against Meta’s legal basis for ads raise fresh complaints](https://techcrunch.com/2023/01/11/meta-ads-legal-basis-dpc-final-decisions/)
 - [AWS partners with Avalanche to scale blockchain solutions for enterprises, governments](https://techcrunch.com/2023/01/11/aws-partners-with-avalanche-to-scale-blockchain-solutions-for-enterprises-governments/)
-- [NASA&#39;s Juno Jupiter probe bounces back from memory glitch](https://www.space.com/jupiter-mission-juno-recovers-memory-glitch)
-- [How we pivoted our deep tech startup to become a SaaS company](https://techcrunch.com/2023/01/11/how-we-pivoted-our-deep-tech-startup-to-become-a-saas-company/)
-- [SpaceX Dragon cargo capsule returns to Earth after 6-week stay at space station](https://www.space.com/spacex-dragon-crs-26-splashdown)
 <!-- BLOG-POST-LIST:END -->
 
 ---
