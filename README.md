@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Inbenta, a provider of AI-powered chatbots and more, lands $40M](https://techcrunch.com/2023/01/11/inbenta-a-provider-of-ai-powered-chatbots-and-more-lands-40m/)
-- [Samsung is holding its next Galaxy Unpacked event on February 1, teases camera improvements](https://techcrunch.com/2023/01/11/samsung-is-holding-its-next-galaxy-unpacked-event-on-february-1-teases-camera-improvements/)
-- [India to spend $320 million to promote homegrown payments network](https://techcrunch.com/2023/01/11/india-to-spend-320-million-to-promote-homegrown-payments-network/)
-- [Google users not given sufficient choice over its data processing, says German antitrust watchdog](https://techcrunch.com/2023/01/11/google-germany-data-processing-fco-statement-of-objections/)
-- [See 133 days on the sun in just 2 minutes in this mesmerizing NASA video](https://www.space.com/see-133-days-of-the-sun-in-minutes-nasa-video)
+- [NASA moon camera on South Korean probe takes a peek where the sun doesn&#39;t shine](https://www.space.com/nasa-moon-camera-danuri-korea-pathfinder-lunar-orbiter)
+- [10 ways to save money on astrophotography gear 2023](https://www.space.com/10-ways-to-save-money-on-astrophotography-gear)
+- [Hackers stole data of 460,000 individuals in MFHS ransomware attack](https://techcrunch.com/2023/01/11/hackers-mfhs-ransomware/)
+- [All U.S. domestic flights grounded as key FAA system goes down](https://techcrunch.com/2023/01/11/all-u-s-domestic-flights-grounded-as-key-faa-system-goes-down/)
+- [Destiny 2 beginner’s guide: joining the fight before Lightfall](https://www.space.com/destiny-2-beginners-guide)
 <!-- BLOG-POST-LIST:END -->
 
 ---
