@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI begins piloting ChatGPT Professional, a premium version of its viral chatbot](https://techcrunch.com/2023/01/11/openai-begins-piloting-chatgpt-professional-a-premium-version-of-its-viral-chatbot/)
+- [Inflow, a platform for managing ADHD through cognitive behavioral therapy, raises $11M](https://techcrunch.com/2023/01/11/inflow-a-platform-for-managing-adhd-through-cbt-raises-11m/)
+- [Twitter makes algorithmic timeline default on iOS](https://techcrunch.com/2023/01/11/twitter-makes-algorithmic-timeline-default-on-ios/)
+- [Hack the Box, a gamified cybersecurity training platform with 1.7M users, raises $55M](https://techcrunch.com/2023/01/11/hack-the-box-a-gamified-cybersecurity-training-platform-with-1-7m-users-raises-55m/)
 - [Kleiner Perkins-backed Vylo thinks the future of news is video commentary](https://techcrunch.com/2023/01/11/kleiner-perkins-vylo-future-of-news-is-video-commentary/)
-- [Project Eaden’s fiber technology poised to spin threads into whole cuts of ‘meat’](https://techcrunch.com/2023/01/11/project-eaden-fiber-technology-plant-based-meat/)
-- [The app economy slowed for the first time in 2022, with consumer spend down 2% to $167 billion](https://techcrunch.com/2023/01/11/the-app-economy-slowed-for-the-first-time-in-2022-with-consumer-spend-down-2-to-167-billion/)
-- [Carta, previously sued for gender discrimination, is now suing its former CTO](https://techcrunch.com/2023/01/10/carta-previously-sued-for-gender-discrimination-is-now-suing-its-former-cto/)
-- [Peppy secures a $45M Series B to expand its B2B2C health services platform to the US](https://techcrunch.com/2023/01/10/peppy-secures-a-45m-series-b-to-expand-its-b2b2c-health-services-platform-to-the-us/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
