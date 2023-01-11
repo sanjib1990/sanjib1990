@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rocket Lab targeting Jan. 23 for 1st launch from US soil](https://www.space.com/rocket-lab-first-us-launch-january-23)
+- [Funding for Black founders remains dismal — where do we go from here?](https://techcrunch.com/2023/01/11/funding-for-black-founders-remains-dismal-where-do-we-go-from-here/)
+- [Is ChatGPT a cybersecurity threat?](https://techcrunch.com/2023/01/11/chatgpt-cybersecurity-threat/)
 - [Twitter is considering selling usernames through online auctions, new report claims](https://techcrunch.com/2023/01/11/twitter-selling-usernames-via-online-auctions/)
 - [7-year eclipse reveals &#39;exceptionally rare&#39; binary system with 1000-year orbit](https://www.space.com/dusty-white-dwarf-star-dimming-once-in-lifetime)
-- [When it comes to web3, investors say they’re in it for the long haul](https://techcrunch.com/2023/01/11/when-it-comes-to-web3-investors-say-theyre-in-it-for-the-long-haul/)
-- [Company created by Citrix-Tibco merger confirms it has laid off 15% of staff](https://techcrunch.com/2023/01/11/company-created-by-citrix-tibco-merger-confirms-it-has-laid-off-15-of-staff/)
-- [I put Dyson’s Bane mask on my face](https://techcrunch.com/2023/01/11/i-put-dysons-bane-mask-on-my-face/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
