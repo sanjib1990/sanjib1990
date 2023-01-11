@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Seek lands $7.5M investment for AI that answers domain-specific questions](https://techcrunch.com/2023/01/11/seek-lands-7-5m-investment-for-ai-that-answers-domain-specific-questions/)
-- [Astronomers spot the most distant stars in the Milky Way — a million light-years away](https://www.space.com/astronomers-spot-most-distant-milky-way-stars)
-- [DeepL, the AI-based language translator, raises over $100M at a $1B+ valuation](https://techcrunch.com/2023/01/11/deepl-the-ai-based-language-translator-raises-over-100m-at-a-1b-valuation/)
-- [NASA moon camera on South Korean probe takes a peek where the sun doesn&#39;t shine](https://www.space.com/nasa-moon-camera-danuri-korea-pathfinder-lunar-orbiter)
-- [10 ways to save money on astrophotography gear 2023](https://www.space.com/10-ways-to-save-money-on-astrophotography-gear)
+- [Curiosity rover discovers opal gems on Mars with clues to watery past](https://www.space.com/mars-opals-water-habitable)
+- [Apple Maps’ business listings are about to get more detailed with launch of ‘Apple Business Connect’](https://techcrunch.com/2023/01/11/apple-maps-business-listings-are-about-to-get-more-detailed-with-launch-of-apple-business-connect/)
+- [Meta rescinded some full-time job offers](https://techcrunch.com/2023/01/11/meta-rescinded-some-full-time-job-offers/)
+- [Venom Foundation and Iceberg Capital launch $1B venture fund to invest in web3](https://techcrunch.com/2023/01/11/venom-foundation-and-iceberg-capital-launch-1b-venture-fund-to-invest-in-web3/)
+- [Blaze makes coding more accessible with AI-driven, no code app builder](https://techcrunch.com/2023/01/11/blaze-makes-coding-more-accessible-with-ai-driven-no-code-app-builder/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
