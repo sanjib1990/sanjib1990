@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Everything we know about Star Wars Jedi Survivor: release date, plot &amp; more](https://www.space.com/star-wars-jedi-survivor-release-date-platforms-plot)
+- [Russia to launch new Soyuz capsule to replace leaky spacecraft on space station](https://www.space.com/russia-replacement-soyuz-launching-february-2023)
+- [Inside Secfi’s 2022 state of stock options equity report](https://techcrunch.com/2023/01/11/2022-saw-nearly-a-quarter-of-startups-employee-stock-options-going-underwater/)
+- [Netflix gets live streaming rights to SAG Awards in 2024](https://techcrunch.com/2023/01/11/netflix-gets-live-streaming-rights-to-sag-awards-in-2024/)
 - [Curiosity rover discovers opal gems on Mars with clues to watery past](https://www.space.com/mars-opals-water-habitable)
-- [Apple Maps’ business listings are about to get more detailed with launch of ‘Apple Business Connect’](https://techcrunch.com/2023/01/11/apple-maps-business-listings-are-about-to-get-more-detailed-with-launch-of-apple-business-connect/)
-- [Meta rescinded some full-time job offers](https://techcrunch.com/2023/01/11/meta-rescinded-some-full-time-job-offers/)
-- [Venom Foundation and Iceberg Capital launch $1B venture fund to invest in web3](https://techcrunch.com/2023/01/11/venom-foundation-and-iceberg-capital-launch-1b-venture-fund-to-invest-in-web3/)
-- [Blaze makes coding more accessible with AI-driven, no code app builder](https://techcrunch.com/2023/01/11/blaze-makes-coding-more-accessible-with-ai-driven-no-code-app-builder/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
