@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter launches its Blue subscription service in Japan](https://techcrunch.com/2023/01/10/twitter-launches-its-blue-subscription-service-in-japan/)
 - [1st orbital rocket launch by ABL Space Systems fails](https://www.space.com/abl-space-systems-debut-launch-failure)
 - [Alphabet X graduates robotic agtech firm Mineral](https://techcrunch.com/2023/01/10/alphabet-x-graduates-robotic-agtech-firm-mineral/)
 - [Oxbotica raises $140M more as its B2B autonomous vehicle platform gains ground](https://techcrunch.com/2023/01/10/oxbotica-raises-140m-more-as-its-b2b-autonomous-vehicle-platform-gains-ground/)
 - [Daily Crunch: Citing ‘unscrupulous actors’ and market trends, Coinbase CEO lays off 950 workers](https://techcrunch.com/2023/01/10/daily-crunch-citing-unscrupulous-actors-and-market-trends-coinbase-ceo-lays-off-950-workers/)
-- [Want the Nothing phone in the US? Be a beta](https://techcrunch.com/2023/01/10/want-the-nothing-phone-in-the-us-be-a-beta/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
