@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Everything we know about Star Wars Jedi Survivor: release date, plot &amp; more](https://www.space.com/star-wars-jedi-survivor-release-date-platforms-plot)
-- [Russia to launch new Soyuz capsule to replace leaky spacecraft on space station](https://www.space.com/russia-replacement-soyuz-launching-february-2023)
-- [Inside Secfi’s 2022 state of stock options equity report](https://techcrunch.com/2023/01/11/2022-saw-nearly-a-quarter-of-startups-employee-stock-options-going-underwater/)
-- [Netflix gets live streaming rights to SAG Awards in 2024](https://techcrunch.com/2023/01/11/netflix-gets-live-streaming-rights-to-sag-awards-in-2024/)
-- [Curiosity rover discovers opal gems on Mars with clues to watery past](https://www.space.com/mars-opals-water-habitable)
+- [HBO and HBO Max dominates Golden Globes with most wins](https://techcrunch.com/2023/01/11/hbo-max-dominates-golden-globes-with-most-wins/)
+- [Deel enters equity management space with acquisition of Capbase](https://techcrunch.com/2023/01/11/deel-enters-equity-management-space-with-acquisition-of-capbase/)
+- [Dear Sophie: Any tips for presenting a strong H-1B case? What if I’m not selected?](https://techcrunch.com/2023/01/11/dear-sophie-any-tips-for-presenting-a-strong-h-1b-case-what-if-im-not-selected/)
+- [Solar flare hat trick: Sun unleashes another powerful X-flare in less than a week!](https://www.space.com/sun-solar-flare-x-class-jan-10-2023)
+- [Microsoft 365 Basic launches with 100 GB of storage, Outlook and more for $1.99 per month](https://techcrunch.com/2023/01/11/microsoft-365-basic-launches-with-100-gb-of-storage-outlook-and-more-for-1-99-per-month/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
