@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [India’s Jio partners with Gamestream in cloud gaming push](https://techcrunch.com/2023/01/12/india-ambani-jio-partners-with-gamestream-in-cloud-gaming-push/)
-- [Why Africa had no unicorns last year despite record fundraising haul](https://techcrunch.com/2023/01/12/why-africa-had-no-unicorns-last-year-despite-record-fundraising-haul/)
-- [Clouds might be scattering in China’s venture capital world](https://techcrunch.com/2023/01/12/end-of-year-2022-vc/)
-- [Apple is reportedly working on MacBooks with touchscreens](https://techcrunch.com/2023/01/11/apple-is-reportedly-working-on-macbooks-with-touchscreens/)
-- [Stripe’s internal valuation gets cut to $63 billion](https://techcrunch.com/2023/01/11/stripe-internal-valuation-63-billion-409a/)
+- [As it shifts focus from DIY computer kits, Kano spins out its creative software suite as a standalone business](https://techcrunch.com/2023/01/12/as-it-pivots-away-from-diy-computer-kits-kano-spins-out-its-creative-software-suite-as-a-standalone-business/)
+- [Watch Mars reverse directions in the sky tonight &lpar;Jan. 12&rpar;](https://www.space.com/mars-reverse-directions-retrograde-motion-ends-jan-12-2023)
+- [Construction begins on NASA&#39;s NEO Surveyor asteroid-hunting telescope](https://www.space.com/neo-surveyor-asteroid-mission-begins-construction)
+- [Google is finally rolling out emoji reactions for Meet video calls](https://techcrunch.com/2023/01/12/google-is-finally-rolling-out-emoji-reactions-for-meet-video-calls/)
+- [Indian giant Jio makes cloud gaming push](https://techcrunch.com/2023/01/12/india-ambani-jio-partners-with-gamestream-in-cloud-gaming-push/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
