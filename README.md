@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Satellites measure emissions from giant coal-fired power plant for the 1st time](https://www.space.com/nasa-measures-carbon-dioxide-power-plant-first)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [Teach yourself growth marketing: How to launch a paid acquisition channel](https://techcrunch.com/2023/01/12/teach-yourself-growth-marketing-how-to-launch-a-paid-acquisition-channel/)
-- [Nvidia unveils new AI workflows to help the retail industry with loss prevention](https://techcrunch.com/2023/01/12/nvidia-ai-retail-theft/)
-- [No Meat Factory eats up new capital to build bigger protein production plant in U.S.](https://techcrunch.com/2023/01/12/no-meat-factory-protein-production/)
+- [Dungeons &amp; Dragons content creators are fighting to protect their livelihoods](https://techcrunch.com/2023/01/12/dungeons-and-dragons-ogl-wizards-of-the-coast/)
+- [SEC filing shows Adobe had interest in buying Figma as early as 2020](https://techcrunch.com/2023/01/12/sec-filing-shows-adobe-had-interest-in-buying-figma-as-early-as-2020/)
+- [Lego Star Wars BD-1 review](https://www.space.com/lego-star-wars-bd-1-review-75335)
+- [James Webb Space Telescope notches 1st rocky planet confirmation](https://www.space.com/james-webb-space-telescope-first-rocket-exoplanet)
+- [Apple TV and Apple Music apps for Windows quietly appear on the Microsoft Store](https://techcrunch.com/2023/01/12/apple-tv-apple-music-apps-windows-microsoft-store/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
