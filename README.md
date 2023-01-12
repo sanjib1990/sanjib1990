@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Pet tech startup Digitail fetches $11M Series A led by Atomico](https://techcrunch.com/2023/01/12/daily-crunch-pet-tech-startup-digitail-fetches-11m-series-a-led-by-atomico/)
+- [E Ink’s latest color displays have me dreaming of electronic paper magazines](https://techcrunch.com/2023/01/12/e-ink-color-tech-epaper-magazines/)
+- [Crime reporting app Citizen lays off 33 employees](https://techcrunch.com/2023/01/12/crime-reporting-app-citizen-lays-off-33-employees/)
 - [Alphabet robotics division Intrinsic hit with layoffs](https://techcrunch.com/2023/01/12/alphabet-robotics-division-intrinsic-hit-with-layoffs/)
 - [NASA&#39;s tiny Lunar Flashlight moon probe may be in trouble in deep space](https://www.space.com/nasa-lunar-spacecraft-moon-probe-in-trouble)
-- [SpaceX&#39;s giant Starship rocket spotted from space by satellite &lpar;and poses for epic photos, too&rpar;](https://www.space.com/spacex-starship-airbus-satellite-photo)
-- [Greenlight, kids-focused fintech startup, lays off 104 employees to optimize expenses](https://techcrunch.com/2023/01/12/greenlight-fintech-layoff/)
-- [Medium embraces Twitter alternative Mastodon with launch of its own community](https://techcrunch.com/2023/01/12/medium-embraces-twitter-alternative-mastodon-with-launch-of-its-own-community/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
