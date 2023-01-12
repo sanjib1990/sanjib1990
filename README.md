@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Alphabet robotics division Intrinsic hit with layoffs](https://techcrunch.com/2023/01/12/alphabet-robotics-division-intrinsic-hit-with-layoffs/)
+- [NASA&#39;s tiny Lunar Flashlight moon probe may be in trouble in deep space](https://www.space.com/nasa-lunar-spacecraft-moon-probe-in-trouble)
+- [SpaceX&#39;s giant Starship rocket spotted from space by satellite &lpar;and poses for epic photos, too&rpar;](https://www.space.com/spacex-starship-airbus-satellite-photo)
 - [Greenlight, kids-focused fintech startup, lays off 104 employees to optimize expenses](https://techcrunch.com/2023/01/12/greenlight-fintech-layoff/)
 - [Medium embraces Twitter alternative Mastodon with launch of its own community](https://techcrunch.com/2023/01/12/medium-embraces-twitter-alternative-mastodon-with-launch-of-its-own-community/)
-- [Keychron gets it right with its Q10 Alice-style keyboard](https://techcrunch.com/2023/01/12/keychron-gets-it-right-with-its-q10-alice-style-keyboard/)
-- [Can we get more crypto partnerships and less crypto layoffs, please?](https://techcrunch.com/2023/01/12/can-we-get-more-crypto-partnerships-and-less-crypto-layoffs-please/)
-- [Missing the moment history happens: The media and &#39;NewSpace&#39; &lpar;op-ed&rpar;](https://www.space.com/newspace-media-missing-the-moment)
 <!-- BLOG-POST-LIST:END -->
 
 ---
