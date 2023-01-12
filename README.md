@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Planet factories&#39; may explain mysterious diversity of super-Earth alien worlds](https://www.space.com/super-earth-alien-planet-formation-explanation)
-- [Pitch Deck Teardown: Mint House’s $35M Series B deck](https://techcrunch.com/2023/01/12/sample-series-b-pitch-deck-mint-house/)
-- [TikTok fined in France for manipulative cookie consent flow](https://techcrunch.com/2023/01/12/tiktok-cnil-cookie-fine/)
-- [The 1st galaxies may have formed much earlier than we thought, James Webb Space Telescope reveals](https://www.space.com/james-webb-space-telescope-dozens-early-galaxies)
-- [Web3 could help fashion become more sustainable](https://techcrunch.com/2023/01/12/web3-could-help-fashion-become-more-sustainable/)
+- [Can we get more crypto partnerships and less crypto layoffs, please?](https://techcrunch.com/2023/01/12/can-we-get-more-crypto-partnerships-and-less-crypto-layoffs-please/)
+- [Missing the moment history happens: The media and &#39;NewSpace&#39; &lpar;op-ed&rpar;](https://www.space.com/newspace-media-missing-the-moment)
+- [Twitter rival ‘T2’ raises its first outside funding, $1.1M from a group of high profile angels](https://techcrunch.com/2023/01/12/twitter-rival-t2-raises-its-first-outside-funding-1-1m-from-a-group-of-high-profile-angels/)
+- [Robot or fauxbot?](https://techcrunch.com/2023/01/12/robot-or-fauxbot/)
+- [VALL-E’s quickie voice deepfakes should worry you, if you weren’t worried already](https://techcrunch.com/2023/01/12/vall-es-quickie-voice-deepfakes-should-worry-you-if-you-werent-worried-already/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
