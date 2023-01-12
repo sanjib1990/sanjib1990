@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Planet factories&#39; may explain mysterious diversity of super-Earth alien worlds](https://www.space.com/super-earth-alien-planet-formation-explanation)
+- [Pitch Deck Teardown: Mint House’s $35M Series B deck](https://techcrunch.com/2023/01/12/sample-series-b-pitch-deck-mint-house/)
 - [TikTok fined in France for manipulative cookie consent flow](https://techcrunch.com/2023/01/12/tiktok-cnil-cookie-fine/)
 - [The 1st galaxies may have formed much earlier than we thought, James Webb Space Telescope reveals](https://www.space.com/james-webb-space-telescope-dozens-early-galaxies)
 - [Web3 could help fashion become more sustainable](https://techcrunch.com/2023/01/12/web3-could-help-fashion-become-more-sustainable/)
-- [Career Karma’s latest layoff underscores edtech’s new challenge](https://techcrunch.com/2023/01/12/career-karma-conducts-another-round-of-layoffs-extends-runway-to-five-years/)
-- [DeFi startups need to experiment with new use cases and build solutions, investors say](https://techcrunch.com/2023/01/12/defi-startups-need-to-experiment-with-new-use-cases-and-build-solutions-investors-say/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
