@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Greenlight, kids-focused fintech startup, lays off 104 employees to optimize expenses](https://techcrunch.com/2023/01/12/greenlight-fintech-layoff/)
+- [Medium embraces Twitter alternative Mastodon with launch of its own community](https://techcrunch.com/2023/01/12/medium-embraces-twitter-alternative-mastodon-with-launch-of-its-own-community/)
+- [Keychron gets it right with its Q10 Alice-style keyboard](https://techcrunch.com/2023/01/12/keychron-gets-it-right-with-its-q10-alice-style-keyboard/)
 - [Can we get more crypto partnerships and less crypto layoffs, please?](https://techcrunch.com/2023/01/12/can-we-get-more-crypto-partnerships-and-less-crypto-layoffs-please/)
 - [Missing the moment history happens: The media and &#39;NewSpace&#39; &lpar;op-ed&rpar;](https://www.space.com/newspace-media-missing-the-moment)
-- [Twitter rival ‘T2’ raises its first outside funding, $1.1M from a group of high profile angels](https://techcrunch.com/2023/01/12/twitter-rival-t2-raises-its-first-outside-funding-1-1m-from-a-group-of-high-profile-angels/)
-- [Robot or fauxbot?](https://techcrunch.com/2023/01/12/robot-or-fauxbot/)
-- [VALL-E’s quickie voice deepfakes should worry you, if you weren’t worried already](https://techcrunch.com/2023/01/12/vall-es-quickie-voice-deepfakes-should-worry-you-if-you-werent-worried-already/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
