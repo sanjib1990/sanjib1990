@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [PasarPolis is now one of Indonesia’s first full-stack insurtechs](https://techcrunch.com/2023/01/11/pasarpolis-full-stack/)
+- [Kakao Entertainment lands $966M from sovereign wealth funds, including Saudi Arabia’s PIF](https://techcrunch.com/2023/01/11/kakao-entertainment-lands-966m-from-sovereign-wealth-funds-including-saudi-arabias-pif/)
 - [ABL Space Systems’ rocket experiences simultaneous engine shutdown shortly after lift-off](https://techcrunch.com/2023/01/11/abl-space-systems-rocket-experiences-simultaneous-engine-shutdown-shortly-after-lift-off/)
 - [Daily Crunch: In ‘an early experimental program,’ OpenAI opens waitlist for GPT Professional](https://techcrunch.com/2023/01/11/daily-crunch-in-an-early-experimental-program-openai-opens-waitlist-for-gpt-professional/)
 - [NASA opens hatch of Artemis 1 Orion spacecraft &lpar;photo&rpar;](https://www.space.com/artemis-1-orion-spacecraft-hatch-opened)
-- [In photos: Virgin Orbit&#39;s first UK launch from Spaceport Cornwall](https://www.space.com/first-virgin-orbit-launch-uk-photos)
-- [PC sales slip for fourth straight quarter in Q4 as demand remains muted](https://techcrunch.com/2023/01/11/pc-sales-slip-for-fourth-straight-quarter-in-q4-as-demand-remains-muted/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
