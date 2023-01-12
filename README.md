@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Satellites measure emissions from giant coal-fired power plant for the 1st time](https://www.space.com/nasa-measures-carbon-dioxide-power-plant-first)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [Teach yourself growth marketing: How to launch a paid acquisition channel](https://techcrunch.com/2023/01/12/teach-yourself-growth-marketing-how-to-launch-a-paid-acquisition-channel/)
 - [Nvidia unveils new AI workflows to help the retail industry with loss prevention](https://techcrunch.com/2023/01/12/nvidia-ai-retail-theft/)
 - [No Meat Factory eats up new capital to build bigger protein production plant in U.S.](https://techcrunch.com/2023/01/12/no-meat-factory-protein-production/)
-- [The Guardians of the Galaxy explore strange spaceways in Marvel Comics&#39; upcoming series](https://www.space.com/guardians-of-the-galaxy-comic-series-2023)
-- [Sending atomic clocks close to the sun could unlock the secrets of dark matter](https://www.space.com/news/sending-atomic-clocks-close-to-the-sun-could-unlock-the-secrets-of-dark-matter)
-- [Coho AI, which uses AI to help B2B SaaS companies boost revenue, raises $8.5M](https://techcrunch.com/2023/01/12/coho-ai-which-uses-ai-to-help-b2b-saas-companies-boost-revenue-raises-8-5m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
