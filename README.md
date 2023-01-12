@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [HPE acquires Pachyderm as looks to bolster its AI dev offerings](https://techcrunch.com/2023/01/12/hpe-acquires-pachyderm-as-looks-to-bolster-its-ai-dev-offerings/)
-- [Lucid shares pop after exceeding EV production goal](https://techcrunch.com/2023/01/12/lucid-shares-pop-after-exceeding-ev-production-goal/)
-- [DirecTV is the latest pay-TV company to lay off staff amid the ongoing shift to streaming](https://techcrunch.com/2023/01/12/directv-layoffs-2023/)
-- [Snoopy comes home: NASA photos show &#39;zero-g indicator&#39; after trip to the moon](https://www.space.com/snoopy-artemis-1-post-moon-mission)
-- [TikTok launches a Talent Manager Portal so managers can negotiate brand deals for clients](https://techcrunch.com/2023/01/12/tiktok-launches-a-talent-manager-portal-so-managers-can-negotiate-brand-deals-for-clients/)
+- [TikTok fined in France for manipulative cookie consent flow](https://techcrunch.com/2023/01/12/tiktok-cnil-cookie-fine/)
+- [The 1st galaxies may have formed much earlier than we thought, James Webb Space Telescope reveals](https://www.space.com/james-webb-space-telescope-dozens-early-galaxies)
+- [Web3 could help fashion become more sustainable](https://techcrunch.com/2023/01/12/web3-could-help-fashion-become-more-sustainable/)
+- [Career Karma’s latest layoff underscores edtech’s new challenge](https://techcrunch.com/2023/01/12/career-karma-conducts-another-round-of-layoffs-extends-runway-to-five-years/)
+- [DeFi startups need to experiment with new use cases and build solutions, investors say](https://techcrunch.com/2023/01/12/defi-startups-need-to-experiment-with-new-use-cases-and-build-solutions-investors-say/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
