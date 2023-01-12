@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sending atomic clocks close to the sun could unlock the secrets of dark matter](https://www.space.com/news/sending-atomic-clocks-close-to-the-sun-could-unlock-the-secrets-of-dark-matter)
+- [Coho AI, which uses AI to help B2B SaaS companies boost revenue, raises $8.5M](https://techcrunch.com/2023/01/12/coho-ai-which-uses-ai-to-help-b2b-saas-companies-boost-revenue-raises-8-5m/)
+- [Meta’s ads being found unlawful in the EU is a warning to other ad-funded platforms](https://techcrunch.com/2023/01/12/meta-ads-gdpr-decisions-edpb/)
+- [Lego Star Wars The Mandalorian’s N-1 Starfighter review](https://www.space.com/lego-star-wars-the-mandalorians-n-1-starfighter-review-75325)
 - [Why the time is right for a Mercedes-Benz charging network](https://techcrunch.com/2023/01/12/why-the-time-is-right-for-a-mercedes-benz-charging-network/)
-- [Our obsession with pets means startups aimed at Vets are booming, as Digitail shows](https://techcrunch.com/2023/01/12/our-obsession-with-pets-means-startups-aimed-at-vets-are-booming-as-digitail-shows/)
-- [As it shifts focus from DIY computer kits, Kano spins out its creative software suite as a standalone business](https://techcrunch.com/2023/01/12/as-it-pivots-away-from-diy-computer-kits-kano-spins-out-its-creative-software-suite-as-a-standalone-business/)
-- [Watch Mars reverse directions in the sky tonight &lpar;Jan. 12&rpar;](https://www.space.com/mars-reverse-directions-retrograde-motion-ends-jan-12-2023)
-- [Construction begins on NASA&#39;s NEO Surveyor asteroid-hunting telescope](https://www.space.com/neo-surveyor-asteroid-mission-begins-construction)
 <!-- BLOG-POST-LIST:END -->
 
 ---
