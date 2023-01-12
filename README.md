@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Dungeons &amp; Dragons content creators are fighting to protect their livelihoods](https://techcrunch.com/2023/01/12/dungeons-and-dragons-ogl-wizards-of-the-coast/)
-- [SEC filing shows Adobe had interest in buying Figma as early as 2020](https://techcrunch.com/2023/01/12/sec-filing-shows-adobe-had-interest-in-buying-figma-as-early-as-2020/)
-- [Lego Star Wars BD-1 review](https://www.space.com/lego-star-wars-bd-1-review-75335)
-- [James Webb Space Telescope notches 1st rocky planet confirmation](https://www.space.com/james-webb-space-telescope-first-rocket-exoplanet)
-- [Apple TV and Apple Music apps for Windows quietly appear on the Microsoft Store](https://techcrunch.com/2023/01/12/apple-tv-apple-music-apps-windows-microsoft-store/)
+- [HPE acquires Pachyderm as looks to bolster its AI dev offerings](https://techcrunch.com/2023/01/12/hpe-acquires-pachyderm-as-looks-to-bolster-its-ai-dev-offerings/)
+- [Lucid shares pop after exceeding EV production goal](https://techcrunch.com/2023/01/12/lucid-shares-pop-after-exceeding-ev-production-goal/)
+- [DirecTV is the latest pay-TV company to lay off staff amid the ongoing shift to streaming](https://techcrunch.com/2023/01/12/directv-layoffs-2023/)
+- [Snoopy comes home: NASA photos show &#39;zero-g indicator&#39; after trip to the moon](https://www.space.com/snoopy-artemis-1-post-moon-mission)
+- [TikTok launches a Talent Manager Portal so managers can negotiate brand deals for clients](https://techcrunch.com/2023/01/12/tiktok-launches-a-talent-manager-portal-so-managers-can-negotiate-brand-deals-for-clients/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
