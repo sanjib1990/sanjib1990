@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why the time is right for a Mercedes-Benz charging network](https://techcrunch.com/2023/01/12/why-the-time-is-right-for-a-mercedes-benz-charging-network/)
+- [Our obsession with pets means startups aimed at Vets are booming, as Digitail shows](https://techcrunch.com/2023/01/12/our-obsession-with-pets-means-startups-aimed-at-vets-are-booming-as-digitail-shows/)
 - [As it shifts focus from DIY computer kits, Kano spins out its creative software suite as a standalone business](https://techcrunch.com/2023/01/12/as-it-pivots-away-from-diy-computer-kits-kano-spins-out-its-creative-software-suite-as-a-standalone-business/)
 - [Watch Mars reverse directions in the sky tonight &lpar;Jan. 12&rpar;](https://www.space.com/mars-reverse-directions-retrograde-motion-ends-jan-12-2023)
 - [Construction begins on NASA&#39;s NEO Surveyor asteroid-hunting telescope](https://www.space.com/neo-surveyor-asteroid-mission-begins-construction)
-- [Google is finally rolling out emoji reactions for Meet video calls](https://techcrunch.com/2023/01/12/google-is-finally-rolling-out-emoji-reactions-for-meet-video-calls/)
-- [Indian giant Jio makes cloud gaming push](https://techcrunch.com/2023/01/12/india-ambani-jio-partners-with-gamestream-in-cloud-gaming-push/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
