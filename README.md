@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Africa had no unicorns last year despite record fundraising haul](https://techcrunch.com/2023/01/12/why-africa-had-no-unicorns-last-year-despite-record-fundraising-haul/)
+- [Clouds might be scattering in China’s venture capital world](https://techcrunch.com/2023/01/12/end-of-year-2022-vc/)
 - [Apple is reportedly working on MacBooks with touchscreens](https://techcrunch.com/2023/01/11/apple-is-reportedly-working-on-macbooks-with-touchscreens/)
 - [Stripe’s internal valuation gets cut to $63 billion](https://techcrunch.com/2023/01/11/stripe-internal-valuation-63-billion-409a/)
 - [PasarPolis is now one of Indonesia’s first full-stack insurtechs](https://techcrunch.com/2023/01/11/pasarpolis-full-stack/)
-- [Kakao Entertainment lands $966M from sovereign wealth funds, including Saudi Arabia’s PIF](https://techcrunch.com/2023/01/11/kakao-entertainment-lands-966m-from-sovereign-wealth-funds-including-saudi-arabias-pif/)
-- [ABL Space Systems’ rocket experiences simultaneous engine shutdown shortly after lift-off](https://techcrunch.com/2023/01/11/abl-space-systems-rocket-experiences-simultaneous-engine-shutdown-shortly-after-lift-off/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
