@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia unveils new AI workflows to help the retail industry with loss prevention](https://techcrunch.com/2023/01/12/nvidia-ai-retail-theft/)
+- [No Meat Factory eats up new capital to build bigger protein production plant in U.S.](https://techcrunch.com/2023/01/12/no-meat-factory-protein-production/)
+- [The Guardians of the Galaxy explore strange spaceways in Marvel Comics&#39; upcoming series](https://www.space.com/guardians-of-the-galaxy-comic-series-2023)
 - [Sending atomic clocks close to the sun could unlock the secrets of dark matter](https://www.space.com/news/sending-atomic-clocks-close-to-the-sun-could-unlock-the-secrets-of-dark-matter)
 - [Coho AI, which uses AI to help B2B SaaS companies boost revenue, raises $8.5M](https://techcrunch.com/2023/01/12/coho-ai-which-uses-ai-to-help-b2b-saas-companies-boost-revenue-raises-8-5m/)
-- [Meta’s ads being found unlawful in the EU is a warning to other ad-funded platforms](https://techcrunch.com/2023/01/12/meta-ads-gdpr-decisions-edpb/)
-- [Lego Star Wars The Mandalorian’s N-1 Starfighter review](https://www.space.com/lego-star-wars-the-mandalorians-n-1-starfighter-review-75325)
-- [Why the time is right for a Mercedes-Benz charging network](https://techcrunch.com/2023/01/12/why-the-time-is-right-for-a-mercedes-benz-charging-network/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
