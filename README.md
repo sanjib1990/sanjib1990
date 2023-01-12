@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Emulation - Computerphile](https://www.youtube.com/watch?v=m6l3Elk7-Hg)
 - [ChatGPT will make you better](https://www.youtube.com/watch?v=WRe46LISkTw)
 - [S4:E1: The Greatest Existential Threat with Prof. Robert Redwine and Dr. Jim Walsh](https://www.youtube.com/watch?v=_Y-G8sTTYsg)
 - [Kafka in 100 Seconds](https://www.youtube.com/watch?v=uvb00oaa3k8)
 - [my code will never stop never stopping](https://www.youtube.com/watch?v=1CDfTpD8dxo)
-- [Reverse Engineering Logan Paul&#39;s Scam](https://www.youtube.com/watch?v=NGXW4xhlYa4)
 <!-- YOUTUBE:END -->
 
 ---
