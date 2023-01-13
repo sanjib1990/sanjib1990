@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bugatti’s new electric scooter is bigger with W16 Mistral vibes](https://techcrunch.com/2023/01/13/bugattis-new-electric-scooter-is-bigger-with-w16-mistral-vibes/)
+- [Daily Crunch: 2 Tesla models qualify for EV tax credits after company marks prices down by 20%](https://techcrunch.com/2023/01/13/daily-crunch-2-tesla-models-qualify-for-ev-tax-credits-after-company-marks-prices-down-by-20/)
+- [HBO’s ‘The Last of Us’ is a video game adaptation that’s actually good](https://techcrunch.com/2023/01/13/the-last-of-us-hbo-series-review/)
+- [BlackRock acquires minority stake in SMB 401&lpar;k&rpar; provider Human Interest](https://techcrunch.com/2023/01/13/blackrock-acquires-minority-stake-in-smb-401k-provider-human-interest/)
 - [5 of the best journaling apps to log your thoughts and experiences](https://techcrunch.com/2023/01/13/5-best-journaling-apps-log-your-thoughts-and-experiences/)
-- [2022 was 5th-hottest year on record despite cooling La Nina conditions](https://www.space.com/nasa-2022-fifth-hottest-year-on-record)
-- [Deconstructing ‘The Twitter Files’](https://techcrunch.com/2023/01/13/deconstructing-the-twitter-files/)
-- [Bad Meta! and other TC news](https://techcrunch.com/2023/01/13/bad-meta-and-other-tc-news/)
-- [Tim Dodd, the &#39;Everyday Astronaut,&#39; gets down to Earth about SpaceX moon trip](https://www.space.com/tim-dodd-everyday-astronaut)
 <!-- BLOG-POST-LIST:END -->
 
 ---
