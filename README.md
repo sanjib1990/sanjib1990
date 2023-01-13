@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Mars meteorite with organic molecules holds clues to chances of ancient life](https://www.space.com/mars-meteorite-organic-molecules-ancient-life)
-- [A dazzling green comet not seen since the Stone Age has stargazers thrilled in these amazing photos](https://www.space.com/rare-green-comet-thrills-stargazers-c-2022-e3-zft-photos)
-- [Bright green comet a rare &#39;messenger from the outer reaches of our solar system,&#39; astronomers say](https://www.space.com/comet-c2022-e3-ztf-messenger-from-outer-solar-system)
-- [NASA starts designing futuristic space telescope to hunt for alien Earths](https://www.space.com/habitable-worlds-observatory-first-glimpse)
-- [Africa predicted to experience sustained funding slowdown in 2023](https://techcrunch.com/2023/01/13/africa-predicted-to-experience-sustained-funding-slowdown-in-2023/)
+- [Xetova exploring market data gaps in Africa to boost trade insight access](https://techcrunch.com/2023/01/13/xetova-exploring-market-data-gaps-in-africa-to-boost-trade-insight-access/)
+- [Backed by Tiger Global, Mayfair emerges from stealth to offer businesses a higher yield on their cash](https://techcrunch.com/2023/01/13/fintech-mayfair-emerges-from-stealth-to-offer-businesses-a-higher-yield-on-their-cash/)
+- [Mars rover Perseverance spots Ingenuity helicopter resting on sand dune &lpar;photo&rpar;](https://www.space.com/perseverance-mars-rover-ingenuity-helicopter-sand-dune-photo)
+- [Crypto in for a ‘choppy year’ of slow capital deployment, investors say](https://techcrunch.com/2023/01/13/crypto-in-for-a-choppy-year-of-slow-capital-deployment-investors-say/)
+- [Lego Star Wars UCS Republic Gunship review](https://www.space.com/lego-star-wars-ucs-republic-gunship-review-75309)
 <!-- BLOG-POST-LIST:END -->
 
 ---
