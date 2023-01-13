@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [News aggregator SmartNews lays off 40% of US and China staff, with further reductions planned in Japan](https://techcrunch.com/2023/01/12/news-aggregator-smartnews-lays-off-40-of-non-japan-staff-with-further-reductions-planned-in-japan/)
 - [Biden’s call to ‘unite against big tech abuses’ sure sounds familiar](https://techcrunch.com/2023/01/12/bidens-call-to-unite-against-big-tech-abuses-sure-sounds-familiar/)
 - [CES 2023 debrief](https://techcrunch.com/2023/01/12/ces-2023-debrief/)
 - [Daily Crunch: Pet tech startup Digitail fetches $11M Series A led by Atomico](https://techcrunch.com/2023/01/12/daily-crunch-pet-tech-startup-digitail-fetches-11m-series-a-led-by-atomico/)
 - [E Ink’s latest color displays have me dreaming of electronic paper magazines](https://techcrunch.com/2023/01/12/e-ink-color-tech-epaper-magazines/)
-- [Crime-reporting app Citizen lays off 33 employees](https://techcrunch.com/2023/01/12/crime-reporting-app-citizen-lays-off-33-employees/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
