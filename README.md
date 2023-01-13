@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [As sun&#39;s most active regions turn toward Earth, potential for violent solar activity builds](https://www.space.com/sun-active-regions-turn-facing-earth)
+- [Does it ever make more sense to raise a structured round over taking a valuation cut?](https://techcrunch.com/2023/01/13/does-it-ever-make-more-sense-to-raise-a-structured-round-over-taking-a-valuation-cut/)
+- [The Matrix Resurrections would make an amazing video game](https://www.space.com/the-matrix-resurrections-would-make-an-amazing-video-game)
 - [Scooters in Paris are at a crossroads](https://techcrunch.com/2023/01/13/scooters-in-paris-are-at-a-crossroad-and-it-could-shape-the-future-of-micromobility/)
 - [Frank-ly, the Kardashian method won’t work for SBF](https://techcrunch.com/2023/01/13/frank-ly-the-kardashian-method-wont-work-for-sbf/)
-- [China launches new commercial communications satellite to orbit](https://www.space.com/china-commercial-communications-satellite-launch-apstar-6e)
-- [Google says India antitrust order poses threat to national security](https://techcrunch.com/2023/01/13/google-says-india-antitrust-order-poses-threat-to-national-security/)
-- [Xetova exploring market data gaps in Africa to boost trade insight access](https://techcrunch.com/2023/01/13/xetova-exploring-market-data-gaps-in-africa-to-boost-trade-insight-access/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
