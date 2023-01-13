@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [i almost quit youtube](https://www.youtube.com/watch?v=KA_KPmTxPSg)
 - [5 impressive command line tricks](https://www.youtube.com/watch?v=wYN3KC9lLS0)
 - [Emulation - Computerphile](https://www.youtube.com/watch?v=m6l3Elk7-Hg)
 - [ChatGPT will make you better](https://www.youtube.com/watch?v=WRe46LISkTw)
 - [S4:E1: The Greatest Existential Threat with Prof. Robert Redwine and Dr. Jim Walsh](https://www.youtube.com/watch?v=_Y-G8sTTYsg)
-- [Kafka in 100 Seconds](https://www.youtube.com/watch?v=uvb00oaa3k8)
 <!-- YOUTUBE:END -->
 
 ---
