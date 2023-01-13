@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Africa predicted to experience sustained funding slowdown in 2023](https://techcrunch.com/2023/01/13/africa-predicted-to-experience-sustained-funding-slowdown-in-2023/)
 - [Third-party Twitter apps are facing issues, users say](https://techcrunch.com/2023/01/12/third-party-twitter-apps-tweetbot-twitterrific-echofon-down/)
 - [Crypto.com cuts 20% jobs amid ‘unforeseeable’ industry events](https://techcrunch.com/2023/01/12/crypto-com-cuts-20-jobs-amid-unforeseeable-industry-events/)
 - [News aggregator SmartNews lays off 40% of US and China staff, with further reductions planned in Japan](https://techcrunch.com/2023/01/12/news-aggregator-smartnews-lays-off-40-of-non-japan-staff-with-further-reductions-planned-in-japan/)
 - [Biden’s call to ‘unite against big tech abuses’ sure sounds familiar](https://techcrunch.com/2023/01/12/bidens-call-to-unite-against-big-tech-abuses-sure-sounds-familiar/)
-- [CES 2023 debrief](https://techcrunch.com/2023/01/12/ces-2023-debrief/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
