@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [4 tips to find the funding that fits your business](https://techcrunch.com/2023/01/13/4-tips-to-find-the-funding-that-fits-your-business/)
+- [TechCrunch+ roundup: 2022 stock options report, pivot to SaaS, crypto investor survey](https://techcrunch.com/2023/01/13/techcrunch-roundup-2022-stock-options-report-pivot-to-saas-crypto-investor-survey/)
+- [Hungry black hole is transforming star into a stellar taffy and a cosmic donut](https://www.space.com/hungry-black-hole-star-cosmic-donut)
 - [You’re not going to grow into your 2021 valuation](https://techcrunch.com/2023/01/13/youre-not-going-to-grow-into-your-2021-valuation/)
 - [These are the most detailed images of the moon ever taken on Earth](https://www.space.com/green-bank-radar-highest-resolution-moon-photos)
-- [Stratospheric balloon company World View to go public in $350M SPAC deal](https://techcrunch.com/2023/01/13/stratospheric-balloon-company-world-view-to-go-public-in-350m-spac-deal/)
-- [Tesla keeps slashing prices, this time by as much as 20%](https://techcrunch.com/2023/01/13/tesla-keeps-slashing-prices-this-time-by-as-much-as-20/)
-- [As sun&#39;s most active regions turn toward Earth, potential for violent solar activity builds](https://www.space.com/sun-active-regions-turn-facing-earth)
 <!-- BLOG-POST-LIST:END -->
 
 ---
