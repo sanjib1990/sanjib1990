@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scooters in Paris are at a crossroads](https://techcrunch.com/2023/01/13/scooters-in-paris-are-at-a-crossroad-and-it-could-shape-the-future-of-micromobility/)
+- [Frank-ly, the Kardashian method won’t work for SBF](https://techcrunch.com/2023/01/13/frank-ly-the-kardashian-method-wont-work-for-sbf/)
+- [China launches new commercial communications satellite to orbit](https://www.space.com/china-commercial-communications-satellite-launch-apstar-6e)
+- [Google says India antitrust order poses threat to national security](https://techcrunch.com/2023/01/13/google-says-india-antitrust-order-poses-threat-to-national-security/)
 - [Xetova exploring market data gaps in Africa to boost trade insight access](https://techcrunch.com/2023/01/13/xetova-exploring-market-data-gaps-in-africa-to-boost-trade-insight-access/)
-- [Backed by Tiger Global, Mayfair emerges from stealth to offer businesses a higher yield on their cash](https://techcrunch.com/2023/01/13/fintech-mayfair-emerges-from-stealth-to-offer-businesses-a-higher-yield-on-their-cash/)
-- [Mars rover Perseverance spots Ingenuity helicopter resting on sand dune &lpar;photo&rpar;](https://www.space.com/perseverance-mars-rover-ingenuity-helicopter-sand-dune-photo)
-- [Crypto in for a ‘choppy year’ of slow capital deployment, investors say](https://techcrunch.com/2023/01/13/crypto-in-for-a-choppy-year-of-slow-capital-deployment-investors-say/)
-- [Lego Star Wars UCS Republic Gunship review](https://www.space.com/lego-star-wars-ucs-republic-gunship-review-75309)
 <!-- BLOG-POST-LIST:END -->
 
 ---
