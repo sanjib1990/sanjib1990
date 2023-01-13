@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bad Meta! and other TC news](https://techcrunch.com/2023/01/13/bad-meta-and-other-tc-news/)
+- [Q&amp;A with Tim Dodd: &#39;Everyday Astronaut&#39; discusses future moon trip with SpaceX](https://www.space.com/tim-dodd-everyday-astronaut)
+- [‘We rolled a 1’: D&amp;D publisher addresses backlash over controversial license](https://techcrunch.com/2023/01/13/dungeons-dragons-ogl-backlash-wotc/)
 - [The mixed messaging of mixed reality](https://techcrunch.com/2023/01/13/the-mixed-messaging-of-mixed-reality/)
 - [Darth Vader stars in new &#39;Black, White &amp; Red&#39; anthology in April](https://www.space.com/darth-vader-black-white-red-comic-anthology)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [4 tips to find the funding that fits your business](https://techcrunch.com/2023/01/13/4-tips-to-find-the-funding-that-fits-your-business/)
-- [TechCrunch+ roundup: 2022 stock options report, pivot to SaaS, crypto investor survey](https://techcrunch.com/2023/01/13/techcrunch-roundup-2022-stock-options-report-pivot-to-saas-crypto-investor-survey/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
