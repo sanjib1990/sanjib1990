@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The mixed messaging of mixed reality](https://techcrunch.com/2023/01/13/the-mixed-messaging-of-mixed-reality/)
+- [Darth Vader stars in new &#39;Black, White &amp; Red&#39; anthology in April](https://www.space.com/darth-vader-black-white-red-comic-anthology)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [4 tips to find the funding that fits your business](https://techcrunch.com/2023/01/13/4-tips-to-find-the-funding-that-fits-your-business/)
 - [TechCrunch+ roundup: 2022 stock options report, pivot to SaaS, crypto investor survey](https://techcrunch.com/2023/01/13/techcrunch-roundup-2022-stock-options-report-pivot-to-saas-crypto-investor-survey/)
-- [Hungry black hole is transforming star into a stellar taffy and a cosmic donut](https://www.space.com/hungry-black-hole-star-cosmic-donut)
-- [You’re not going to grow into your 2021 valuation](https://techcrunch.com/2023/01/13/youre-not-going-to-grow-into-your-2021-valuation/)
-- [These are the most detailed images of the moon ever taken on Earth](https://www.space.com/green-bank-radar-highest-resolution-moon-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
