@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [2022 was 5th-hottest year on record despite cooling La Nina conditions](https://www.space.com/nasa-2022-fifth-hottest-year-on-record)
+- [Deconstructing ‘The Twitter Files’](https://techcrunch.com/2023/01/13/deconstructing-the-twitter-files/)
 - [Bad Meta! and other TC news](https://techcrunch.com/2023/01/13/bad-meta-and-other-tc-news/)
-- [Q&amp;A with Tim Dodd: &#39;Everyday Astronaut&#39; discusses future moon trip with SpaceX](https://www.space.com/tim-dodd-everyday-astronaut)
+- [Tim Dodd, the &#39;Everyday Astronaut,&#39; gets down to Earth about SpaceX moon trip](https://www.space.com/tim-dodd-everyday-astronaut)
 - [‘We rolled a 1’: D&amp;D publisher addresses backlash over controversial license](https://techcrunch.com/2023/01/13/dungeons-dragons-ogl-backlash-wotc/)
-- [The mixed messaging of mixed reality](https://techcrunch.com/2023/01/13/the-mixed-messaging-of-mixed-reality/)
-- [Darth Vader stars in new &#39;Black, White &amp; Red&#39; anthology in April](https://www.space.com/darth-vader-black-white-red-comic-anthology)
 <!-- BLOG-POST-LIST:END -->
 
 ---
