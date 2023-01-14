@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The slow-burn standardization of venture capital](https://techcrunch.com/2023/01/14/the-slow-burn-standardization-of-venture-capital/)
 - [The mirage of dry powder](https://techcrunch.com/2023/01/14/the-mirage-of-dry-powder/)
 - [After the James Webb Space Telescope, what&#39;s the next big thing for astronomers?](https://www.space.com/james-webb-space-telescope-what-next-john-mather)
 - [Is it time for a Common App for startup founders?](https://techcrunch.com/2023/01/14/is-it-time-for-a-common-app-for-startup-founders/)
 - [Miss USA R&#39;Bonney Gabriel celebrates NASA moon landing in Miss Universe 2023 national costume contest](https://www.space.com/miss-universe-2023-miss-usa-moon-costume)
-- [See the moon in its half-lit last quarter phase tonight &lpar;Jan. 14&rpar;](https://www.space.com/moon-last-quarter-phase-jan-14-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
