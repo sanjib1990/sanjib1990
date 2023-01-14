@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sealed buys sensor startup InfiSense to fuel energy-saving services](https://techcrunch.com/2023/01/13/sealed-buys-sensor-startup-infisense-to-fuel-energy-saving-services/)
 - [Sequoia Capital’s Alfred Lin in his first public interview since the implosion of FTX &lpar;video&rpar;](https://techcrunch.com/2023/01/13/sequoia-capitals-alfred-lin-in-his-first-public-interview-since-the-implosion-of-ftx-video/)
 - [Bugatti’s new electric scooter is bigger with W16 Mistral vibes](https://techcrunch.com/2023/01/13/bugattis-new-electric-scooter-is-bigger-with-w16-mistral-vibes/)
 - [Daily Crunch: 2 Tesla models qualify for EV tax credits after company marks prices down by 20%](https://techcrunch.com/2023/01/13/daily-crunch-2-tesla-models-qualify-for-ev-tax-credits-after-company-marks-prices-down-by-20/)
 - [HBO’s ‘The Last of Us’ is a video game adaptation that’s actually good](https://techcrunch.com/2023/01/13/the-last-of-us-hbo-series-review/)
-- [BlackRock acquires minority stake in SMB 401&lpar;k&rpar; provider Human Interest](https://techcrunch.com/2023/01/13/blackrock-acquires-minority-stake-in-smb-401k-provider-human-interest/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
