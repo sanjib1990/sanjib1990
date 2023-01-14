@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [YouTube plans to modify profanity rules that prompted creator backlash](https://techcrunch.com/2023/01/14/youtube-plans-to-modify-profanity-rules-that-prompted-creator-backlash/)
+- [This Week in Apps: ChatGPT app scammers, Instagram revamp and a consumer spending slowdown](https://techcrunch.com/2023/01/14/this-week-in-apps-chatgpt-app-scammers-instagram-revamp-and-a-consumer-spending-slowdown/)
 - [The slow-burn standardization of venture capital](https://techcrunch.com/2023/01/14/the-slow-burn-standardization-of-venture-capital/)
 - [The mirage of dry powder](https://techcrunch.com/2023/01/14/the-mirage-of-dry-powder/)
 - [After the James Webb Space Telescope, what&#39;s the next big thing for astronomers?](https://www.space.com/james-webb-space-telescope-what-next-john-mather)
-- [Is it time for a Common App for startup founders?](https://techcrunch.com/2023/01/14/is-it-time-for-a-common-app-for-startup-founders/)
-- [Miss USA R&#39;Bonney Gabriel celebrates NASA moon landing in Miss Universe 2023 national costume contest](https://www.space.com/miss-universe-2023-miss-usa-moon-costume)
 <!-- BLOG-POST-LIST:END -->
 
 ---
