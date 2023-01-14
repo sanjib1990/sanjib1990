@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch SpaceX Falcon Heavy rocket launch classified military mission on Saturday](https://www.space.com/spacex-falcon-heavy-ussf-67-mission-webcast)
+- [World&#39;s largest plane, Stratolaunch&#39;s Roc, aces 2nd captive-carry test flight](https://www.space.com/stratolaunch-roc-second-captive-carry-test-flight)
 - [Twitter brings its “For You” and “Following” dual-timeline view to the web](https://techcrunch.com/2023/01/13/twitter-brings-its-for-you-and-following-dual-timeline-view-to-the-web/)
 - [Sealed buys sensor startup InfiSense to fuel energy-saving services](https://techcrunch.com/2023/01/13/sealed-buys-sensor-startup-infisense-to-fuel-energy-saving-services/)
 - [Sequoia Capital’s Alfred Lin in his first public interview since the implosion of FTX &lpar;video&rpar;](https://techcrunch.com/2023/01/13/sequoia-capitals-alfred-lin-in-his-first-public-interview-since-the-implosion-of-ftx-video/)
-- [Bugatti’s new electric scooter is bigger with W16 Mistral vibes](https://techcrunch.com/2023/01/13/bugattis-new-electric-scooter-is-bigger-with-w16-mistral-vibes/)
-- [Daily Crunch: 2 Tesla models qualify for EV tax credits after company marks prices down by 20%](https://techcrunch.com/2023/01/13/daily-crunch-2-tesla-models-qualify-for-ev-tax-credits-after-company-marks-prices-down-by-20/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
