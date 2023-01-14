@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is it time for a Common App for startup founders?](https://techcrunch.com/2023/01/14/is-it-time-for-a-common-app-for-startup-founders/)
+- [Miss USA R&#39;Bonney Gabriel celebrates NASA moon landing in Miss Universe 2023 national costume contest](https://www.space.com/miss-universe-2023-miss-usa-moon-costume)
 - [See the moon in its half-lit last quarter phase tonight &lpar;Jan. 14&rpar;](https://www.space.com/moon-last-quarter-phase-jan-14-2023)
 - [Amazon quietly tests even cheaper Prime membership in India](https://techcrunch.com/2023/01/14/amazon-prime-lite-membership-india/)
 - [Watch SpaceX Falcon Heavy rocket launch classified military mission on Saturday](https://www.space.com/spacex-falcon-heavy-ussf-67-mission-webcast)
-- [World&#39;s largest plane, Stratolaunch&#39;s Roc, aces 2nd captive-carry test flight](https://www.space.com/stratolaunch-roc-second-captive-carry-test-flight)
-- [Twitter brings its “For You” and “Following” dual-timeline view to the web](https://techcrunch.com/2023/01/13/twitter-brings-its-for-you-and-following-dual-timeline-view-to-the-web/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
