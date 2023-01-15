@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ODIN Intelligence website is defaced as hackers claim breach](https://techcrunch.com/2023/01/15/odin-intelligence-website-defaced-sweepwizard/)
 - [Norton LifeLock says thousands of customer accounts breached](https://techcrunch.com/2023/01/15/norton-lifelock-password-manager-data/)
 - [Why hasn&#39;t ET phoned Earth? Maybe aliens are waiting for the exact right moment.](https://www.space.com/seti-planetary-transit-alien-signals)
 - [So much fintech M&amp;A](https://techcrunch.com/2023/01/15/so-much-fintech-ma/)
 - [Climate tech roundup: From solar to CES, this week had something for everyone](https://techcrunch.com/2023/01/15/climate-tech-roundup-from-solar-to-ces-this-week-had-something-for-everyone/)
-- [Incredible time-lapse photo captures the sun during an 8-year sunspot peak](https://www.space.com/sunspot-timelapse-december-2022)
 <!-- BLOG-POST-LIST:END -->
 
 ---
