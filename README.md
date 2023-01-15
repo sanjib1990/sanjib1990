@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why hasn&#39;t ET phoned Earth? Maybe aliens are waiting for the exact right moment.](https://www.space.com/seti-planetary-transit-alien-signals)
+- [So much fintech M&amp;A](https://techcrunch.com/2023/01/15/so-much-fintech-ma/)
 - [Climate tech roundup: From solar to CES, this week had something for everyone](https://techcrunch.com/2023/01/15/climate-tech-roundup-from-solar-to-ces-this-week-had-something-for-everyone/)
 - [Incredible time-lapse photo captures the sun during an 8-year sunspot peak](https://www.space.com/sunspot-timelapse-december-2022)
 - [Environmental health and safety software is now a hot commodity](https://techcrunch.com/2023/01/15/environmental-health-and-safety-software-is-now-a-hot-commodity/)
-- [Powerful linear accelerator begins smashing atoms – 2 scientists on the team explain how it could reveal rare forms of matter](https://www.space.com/powerful-linear-accelerator-begins-smashing-atoms-2-scientists-on-the-team-explain-how-it-could-reveal-rare-forms-of-matter)
-- [Spectacular Butterfly Nebula offers a glimpse of our sun&#39;s final fate](https://www.space.com/butterfly-nebula-time-lapse-images)
 <!-- BLOG-POST-LIST:END -->
 
 ---
