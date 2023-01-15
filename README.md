@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Climate tech roundup: From solar to CES, this week had something for everyone](https://techcrunch.com/2023/01/15/climate-tech-roundup-from-solar-to-ces-this-week-had-something-for-everyone/)
+- [Incredible time-lapse photo captures the sun during an 8-year sunspot peak](https://www.space.com/sunspot-timelapse-december-2022)
 - [Environmental health and safety software is now a hot commodity](https://techcrunch.com/2023/01/15/environmental-health-and-safety-software-is-now-a-hot-commodity/)
 - [Powerful linear accelerator begins smashing atoms – 2 scientists on the team explain how it could reveal rare forms of matter](https://www.space.com/powerful-linear-accelerator-begins-smashing-atoms-2-scientists-on-the-team-explain-how-it-could-reveal-rare-forms-of-matter)
 - [Spectacular Butterfly Nebula offers a glimpse of our sun&#39;s final fate](https://www.space.com/butterfly-nebula-time-lapse-images)
-- [NASA needs your help finding alien worlds](https://www.space.com/nasa-exoplanet-watch-project-citizen-science)
-- [Brace yourself for Clone Force 99&#39;s return with &#39;Star Wars: The Bad Batch&#39; Season 2](https://www.space.com/news/brace-yourself-for-clone-force-99s-return-with-star-wars-the-bad-batch-season-2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
