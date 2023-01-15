@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [CircleCI says hackers stole encryption keys and customers’ source code](https://techcrunch.com/2023/01/14/circleci-hackers-stole-customer-source-code/)
+- [CircleCI says hackers stole encryption keys and customers’ secrets](https://techcrunch.com/2023/01/14/circleci-hackers-stole-customer-source-code/)
 - [ChatGPT goes pro, layoffs at Alphabet, and Dungeons &amp; Dragons flirts with restrictive new licensing](https://techcrunch.com/2023/01/14/chatgpt-goes-pro-layoffs-at-alphabet-and-dungeons-dragons-flirts-with-restrictive-new-licensing/)
 - [YouTube plans to modify profanity rules that prompted creator backlash](https://techcrunch.com/2023/01/14/youtube-plans-to-modify-profanity-rules-that-prompted-creator-backlash/)
 - [This Week in Apps: ChatGPT app scammers, Instagram revamp and a consumer spending slowdown](https://techcrunch.com/2023/01/14/this-week-in-apps-chatgpt-app-scammers-instagram-revamp-and-a-consumer-spending-slowdown/)
