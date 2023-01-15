@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA needs your help finding alien worlds](https://www.space.com/nasa-exoplanet-watch-project-citizen-science)
+- [Brace yourself for Clone Force 99&#39;s return with &#39;Star Wars: The Bad Batch&#39; Season 2](https://www.space.com/news/brace-yourself-for-clone-force-99s-return-with-star-wars-the-bad-batch-season-2)
 - [CircleCI says hackers stole encryption keys and customers’ secrets](https://techcrunch.com/2023/01/14/circleci-hackers-stole-customer-source-code/)
 - [ChatGPT goes pro, layoffs at Alphabet, and Dungeons &amp; Dragons flirts with restrictive new licensing](https://techcrunch.com/2023/01/14/chatgpt-goes-pro-layoffs-at-alphabet-and-dungeons-dragons-flirts-with-restrictive-new-licensing/)
 - [YouTube plans to modify profanity rules that prompted creator backlash](https://techcrunch.com/2023/01/14/youtube-plans-to-modify-profanity-rules-that-prompted-creator-backlash/)
-- [This Week in Apps: ChatGPT app scammers, Instagram revamp and a consumer spending slowdown](https://techcrunch.com/2023/01/14/this-week-in-apps-chatgpt-app-scammers-instagram-revamp-and-a-consumer-spending-slowdown/)
-- [The slow-burn standardization of venture capital](https://techcrunch.com/2023/01/14/the-slow-burn-standardization-of-venture-capital/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
