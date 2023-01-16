@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Vitruvian’s Trainer+ is an all-in-one home gym that actually lives up to its promises](https://techcrunch.com/2023/01/16/vitruvian-trainer-plus-review/)
+- [&#39;Impossible&#39; neutron stars could explain strange flashes](https://www.space.com/hypermassive-neutron-stars-oscillating-gamma-ray-bursts)
 - [If your CEO isn’t pitching to VCs, you’ll never raise money](https://techcrunch.com/2023/01/16/your-ceo-should-be-fundraising/)
 - [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [Nucleus aims to simplify the process of managing microservices](https://techcrunch.com/2023/01/16/nucleus-aims-to-simplify-the-process-of-managing-microservices/)
-- [Galaxies in early universe were surprisingly diverse, James Webb Space Telescope finds](https://www.space.com/galaxies-early-universe-surprisingly-diverse-james-webb-space-telescope)
-- [Tesla rolls into a pressure cooker, Paris mulls its scooter future, and the double SPAC arrives](https://techcrunch.com/2023/01/16/tesla-rolls-into-a-pressure-cooker-paris-mulls-its-scooter-future-and-the-double-spac-arrives/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
