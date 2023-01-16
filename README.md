@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Indian edtech giant Byju’s changes sales strategy in key revamp](https://techcrunch.com/2023/01/15/indian-edtech-giant-byjus-changes-sales-strategy-in-key-revamp/)
+- [Google-backed ShareChat cuts 20% workforce to ‘sustain through headwinds’](https://techcrunch.com/2023/01/15/sharechat-layoffs/)
 - [Locad lands Series A to expand its “logistics engine” across Southeast Asia and Australia](https://techcrunch.com/2023/01/15/locad-series-a/)
 - [SpaceX&#39;s Falcon Heavy rocket launches classified mission for US Space Force](https://www.space.com/spacex-falcon-heavy-ussf-67-mission-success)
 - [Jakarta-based Mindtera helps companies keep an eye on employee morale](https://techcrunch.com/2023/01/15/mindtera/)
-- [ODIN Intelligence website is defaced as hackers claim breach](https://techcrunch.com/2023/01/15/odin-intelligence-website-defaced-sweepwizard/)
-- [Norton LifeLock says thousands of customer accounts breached](https://techcrunch.com/2023/01/15/norton-lifelock-password-manager-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
