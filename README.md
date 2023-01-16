@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [We finally know why mysterious waves appear to survive the journey through Earth&#39;s turbulent &#39;shock&#39; region](https://www.space.com/solar-wind-foreshock-earth-magentic-field)
+- [Twitter’s third-party client issue is seemingly a deliberate suspension](https://techcrunch.com/2023/01/16/twitters-third-party-client-issue-is-seemingly-a-deliberate-suspension/)
 - [Didi gets China approval to relaunch after 18-month security probe](https://techcrunch.com/2023/01/16/didi-ride-hailing-china-back/)
 - [Kenyan fintech Kwara raises $3M seed extension, signs deal to reach over 4,000 credit unions](https://techcrunch.com/2023/01/16/kenyan-fintech-kwara-raises-3m-seed-extension-signs-deal-to-reach-over-4000-credit-unions/)
 - [Indian edtech giant Byju’s changes sales strategy in key revamp](https://techcrunch.com/2023/01/15/indian-edtech-giant-byjus-changes-sales-strategy-in-key-revamp/)
-- [Google-backed ShareChat cuts 20% workforce to ‘sustain through headwinds’](https://techcrunch.com/2023/01/15/sharechat-layoffs/)
-- [Locad lands Series A to expand its “logistics engine” across Southeast Asia and Australia](https://techcrunch.com/2023/01/15/locad-series-a/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
