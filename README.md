@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See Venus and Saturn snuggle in the sky Sunday &lpar;Jan. 22&rpar;](https://www.space.com/venus-saturn-snuggle-sunday-jan-22-2023)
 - [Vitruvian’s Trainer+ is an all-in-one home gym that actually lives up to its promises](https://techcrunch.com/2023/01/16/vitruvian-trainer-plus-review/)
 - [&#39;Impossible&#39; neutron stars could explain strange flashes](https://www.space.com/hypermassive-neutron-stars-oscillating-gamma-ray-bursts)
 - [If your CEO isn’t pitching to VCs, you’ll never raise money](https://techcrunch.com/2023/01/16/your-ceo-should-be-fundraising/)
 - [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [Nucleus aims to simplify the process of managing microservices](https://techcrunch.com/2023/01/16/nucleus-aims-to-simplify-the-process-of-managing-microservices/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
