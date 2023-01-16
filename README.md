@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Tailwind CSS is the worst…](https://www.youtube.com/watch?v=lHZwlzOUOZ4)
 - [The Official JavaScript Tier List is Here](https://www.youtube.com/watch?v=vdiYtiKD8eI)
 - [i almost quit youtube](https://www.youtube.com/watch?v=KA_KPmTxPSg)
 - [Emulation - Computerphile](https://www.youtube.com/watch?v=m6l3Elk7-Hg)
 - [ChatGPT will make you better](https://www.youtube.com/watch?v=WRe46LISkTw)
-- [S4:E1: The Greatest Existential Threat with Prof. Robert Redwine and Dr. Jim Walsh](https://www.youtube.com/watch?v=_Y-G8sTTYsg)
 <!-- YOUTUBE:END -->
 
 ---
