@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Guardians of the Galaxy&#39;s Groot finally gets an origin story in new Marvel Comics series](https://www.space.com/guardians-of-the-galaxy-groot-origin-marvel-comics)
+- [How to view and photograph comets](https://www.space.com/how-to-view-and-photograph-comets)
 - [See Venus and Saturn snuggle in the sky Sunday &lpar;Jan. 22&rpar;](https://www.space.com/venus-saturn-snuggle-sunday-jan-22-2023)
 - [Vitruvian’s Trainer+ is an all-in-one home gym that actually lives up to its promises](https://techcrunch.com/2023/01/16/vitruvian-trainer-plus-review/)
 - [&#39;Impossible&#39; neutron stars could explain strange flashes](https://www.space.com/hypermassive-neutron-stars-oscillating-gamma-ray-bursts)
-- [If your CEO isn’t pitching to VCs, you’ll never raise money](https://techcrunch.com/2023/01/16/your-ceo-should-be-fundraising/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
