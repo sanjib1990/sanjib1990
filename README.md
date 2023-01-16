@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Max Q: Anomalous](https://techcrunch.com/2023/01/16/max-q-anomalous/)
 - [Rare, &#39;rule-breaking&#39; quasicrystal found in chunk of &#39;fossilized&#39; lightning](https://www.space.com/fulgurite-quasicrystal)
 - [UV radiation pulse played a role in a mass extinction event, fossilized pollen reveals](https://www.space.com/uv-radiation-fossilized-pollen)
 - [Guardians of the Galaxy&#39;s Groot finally gets an origin story in new Marvel Comics series](https://www.space.com/guardians-of-the-galaxy-groot-origin-marvel-comics)
 - [How to view and photograph comets](https://www.space.com/how-to-view-and-photograph-comets)
-- [See Venus and Saturn snuggle in the sky Sunday &lpar;Jan. 22&rpar;](https://www.space.com/venus-saturn-snuggle-sunday-jan-22-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
