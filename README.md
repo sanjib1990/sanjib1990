@@ -95,10 +95,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Nucleus aims to simplify the process of managing microservices](https://techcrunch.com/2023/01/16/nucleus-aims-to-simplify-the-process-of-managing-microservices/)
+- [Galaxies in early universe were surprisingly diverse, James Webb Space Telescope finds](https://www.space.com/galaxies-early-universe-surprisingly-diverse-james-webb-space-telescope)
 - [Tesla rolls into a pressure cooker, Paris mulls its scooter future, and the double SPAC arrives](https://techcrunch.com/2023/01/16/tesla-rolls-into-a-pressure-cooker-paris-mulls-its-scooter-future-and-the-double-spac-arrives/)
 - [Paris to hold vote on shared scooters](https://techcrunch.com/2023/01/16/paris-to-hold-vote-on-shared-scooters/)
 - [We finally know why mysterious waves appear to survive the journey through Earth&#39;s turbulent &#39;shock&#39; region](https://www.space.com/solar-wind-foreshock-earth-magentic-field)
-- [Twitter’s third-party client issue is seemingly a deliberate suspension](https://techcrunch.com/2023/01/16/twitters-third-party-client-issue-is-seemingly-a-deliberate-suspension/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
