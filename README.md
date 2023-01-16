@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Kenyan fintech Kwara raises $3M seed extension, signs deal to reach over 4,000 credit unions](https://techcrunch.com/2023/01/16/kenyan-fintech-kwara-raises-3m-seed-extension-signs-deal-to-reach-over-4000-credit-unions/)
 - [Indian edtech giant Byju’s changes sales strategy in key revamp](https://techcrunch.com/2023/01/15/indian-edtech-giant-byjus-changes-sales-strategy-in-key-revamp/)
 - [Google-backed ShareChat cuts 20% workforce to ‘sustain through headwinds’](https://techcrunch.com/2023/01/15/sharechat-layoffs/)
 - [Locad lands Series A to expand its “logistics engine” across Southeast Asia and Australia](https://techcrunch.com/2023/01/15/locad-series-a/)
 - [SpaceX&#39;s Falcon Heavy rocket launches classified mission for US Space Force](https://www.space.com/spacex-falcon-heavy-ussf-67-mission-success)
-- [Jakarta-based Mindtera helps companies keep an eye on employee morale](https://techcrunch.com/2023/01/15/mindtera/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
