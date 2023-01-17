@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Fledgling startup founders — buy an early-bird ticket to build your future](https://techcrunch.com/2023/01/17/early-bird-tickets-for-techcrunch-early-stage-2023-on-sale-now/)
-- [TechCrunch+ roundup: Space tech predictions, startup IP strategy, finding feasible funding](https://techcrunch.com/2023/01/17/techcrunch-roundup-space-tech-predictions-startup-ip-strategy-finding-feasible-funding/)
-- [Clearco co-founder Michele Romanow steps down, cuts 30% of staff](https://techcrunch.com/2023/01/17/clearco-co-founder-michele-romanow-steps-down-cuts-30-of-staff/)
-- [Build a company, not a feature](https://techcrunch.com/2023/01/17/build-a-company-not-a-feature/)
-- [Dating app Hinge tests a pricier $60 per month subscription, similar to Tinder Platinum](https://techcrunch.com/2023/01/17/dating-app-hinge-tests-a-pricier-60-per-month-subscription-similar-to-tinder-platinum/)
+- [UK privacy watchdog silent as Google flicks off critique its Topics API fails to reform ad-tracking](https://techcrunch.com/2023/01/17/privacy-sandbox-topics-api-criticism/)
+- [Twitter rivals, unicorn trivia and valuation homework](https://techcrunch.com/2023/01/17/twitter-rivals-unicorn-trivia-and-valuation-homework/)
+- [2022 global smartphone shipments were the lowest in nearly a decade](https://techcrunch.com/2023/01/17/2022-global-smartphone-shipments-were-the-lowest-in-nearly-a-decade/)
+- [Web3 developer activity spiked in Q4 2022 despite market volatility](https://techcrunch.com/2023/01/17/web3-developer-activity-spiked-in-q4-2022-despite-market-volatility/)
+- [Netflix refreshes its iPhone app with a more fluid design](https://techcrunch.com/2023/01/17/netflix-iphone-app-update-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
