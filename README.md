@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Best free Star Wars 3D prints](https://www.space.com/best-free-star-wars-3d-prints)
-- [Nest co-founder Matt Rogers’ new startup is trash](https://techcrunch.com/2023/01/17/nest-co-founder-matt-rogers-new-startup-is-trash/)
-- [Stell wants to modernize the “unsexy” workflows slowing down America’s industrial base](https://techcrunch.com/2023/01/17/stell-wants-to-modernize-the-unsexy-workflows-slowing-down-americas-industrial-base/)
-- [Milky Way&#39;s &#39;poor old heart&#39; could reveal how our galaxy formed](https://www.space.com/milky-way-oldest-stars-found)
-- [CloseFactor raises $15.2M to automate repetitive sales processes](https://techcrunch.com/2023/01/17/closefactor-raises-15-2m-to-automate-repetitive-sales-processes/)
+- [Komunal raises $8.5M to digitize Indonesia’s rural banks](https://techcrunch.com/2023/01/17/komunal/)
+- [Amplifica Capital ‘wants to be fund that Latin America’s female tech founders reach out to first’](https://techcrunch.com/2023/01/17/amplifica-capital-fund-latin-america/)
+- [Cost-effective IP strategies can lead to massive exit valuations](https://techcrunch.com/2023/01/17/cost-effective-ip-strategies-can-lead-to-massive-exit-valuations/)
+- [AI21 Labs intros an AI writing assistant that cites its sources](https://techcrunch.com/2023/01/17/ai21-labs-intros-an-ai-writing-assistant-that-cites-its-sources/)
+- [New Tarantula Nebula mosaic captures spectacular star formation](https://www.space.com/chandra-james-webb-tarantula-nebula-observations)
 <!-- BLOG-POST-LIST:END -->
 
 ---
