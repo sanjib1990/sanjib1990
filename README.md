@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Apple powers up 14- and 16-inch MacBook Pro models with M2 Pro and Max chips](https://techcrunch.com/2023/01/17/daily-crunch-apple-powers-up-14-and-16-inch-macbook-pro-models-with-m2-pro-and-max-chips/)
 - [James Webb Space Telescope uncovers  starbirth clues at &#39;cosmic noon&#39; for 33,000 young stars](https://www.space.com/james-webb-space-telescope-dusty-ribbons-young-stars-neighbor-galaxy)
 - [Discord acquires Gas, a compliments-based social media app for teens](https://techcrunch.com/2023/01/17/discord-acquires-gas-a-compliments-based-social-media-app-for-teens/)
 - [Tesla engineer testifies that 2016 video promoting self-driving was faked](https://techcrunch.com/2023/01/17/tesla-engineer-testifies-that-2016-video-promoting-self-driving-was-faked/)
 - [SpaceX Falcon Heavy rocket stuns viewers with gorgeous liftoff &lpar;photos&rpar;](https://www.space.com/spacex-falcon-heavy-rocket-ussf-67-photos)
-- [Watch SpaceX launch advanced GPS satellite for US Space Force early Wednesday](https://www.space.com/spacex-falcon-9-gps-iii-sv06-amelia-earhart-launch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
