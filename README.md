@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [African gaming startup Carry1st raises $27M from Bitkraft Ventures and a16z](https://techcrunch.com/2023/01/17/african-gaming-startup-carry1st-raises-27m-from-bitkraft-ventures-and-a16z/)
-- [Could humans use black holes to time travel?](https://www.space.com/are-black-holes-time-machines)
-- [Uber drivers in Europe gain access to Tesla, Polestar and other EVs through Hertz](https://techcrunch.com/2023/01/17/uber-drivers-in-europe-gain-access-to-tesla-polestar-and-other-evs-through-hertz/)
-- [Chevy announces the fastest Corvette yet, the electrified 2024 Corvette E-Ray](https://techcrunch.com/2023/01/17/chevy-corvette-eray-2024/)
-- [Google’s Clock app now lets you record your own alarm sound](https://techcrunch.com/2023/01/17/googles-clock-app-now-lets-you-record-your-own-alarm-sound/)
+- [NASA satellite view shows California&#39;s soaked start to 2023](https://www.space.com/california-atmospheric-river-timelapse-january-2023)
+- [Now that it’s thoroughly spoiled, here’s Apple’s M2 MacBook Pro ‘event’ video](https://techcrunch.com/2023/01/17/now-that-its-thoroughly-spoiled-heres-apples-m2-macbook-pro-event-video/)
+- [Disney+ releases full trailer for ‘The Mandalorian’ Season 3](https://techcrunch.com/2023/01/17/disney-trailer-the-mandalorian-season-3/)
+- [Royal Mail CEO confirms cyberattack downed UK postal service](https://techcrunch.com/2023/01/17/royal-mail-cyberattack-disruption-lawmakers/)
+- [Amberflo wants to transform SaaS pricing with metered usage](https://techcrunch.com/2023/01/17/amberflo-wants-to-transform-saas-pricing-with-metered-usage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
