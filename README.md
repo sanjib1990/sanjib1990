@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [UK privacy watchdog silent as Google flicks off critique its Topics API fails to reform ad-tracking](https://techcrunch.com/2023/01/17/privacy-sandbox-topics-api-criticism/)
-- [Twitter rivals, unicorn trivia and valuation homework](https://techcrunch.com/2023/01/17/twitter-rivals-unicorn-trivia-and-valuation-homework/)
-- [2022 global smartphone shipments were the lowest in nearly a decade](https://techcrunch.com/2023/01/17/2022-global-smartphone-shipments-were-the-lowest-in-nearly-a-decade/)
-- [Web3 developer activity spiked in Q4 2022 despite market volatility](https://techcrunch.com/2023/01/17/web3-developer-activity-spiked-in-q4-2022-despite-market-volatility/)
-- [Netflix refreshes its iPhone app with a more fluid design](https://techcrunch.com/2023/01/17/netflix-iphone-app-update-2023/)
+- [&#39;The Mandalorian&#39; Season 3 trailer reveals the return of &#39;Baby Yoda&#39; Grogu](https://www.space.com/star-wars-the-mandalorian-season-3-trailer-grogu-returns)
+- [Oversight Board presses Meta to revise ‘convoluted and poorly defined’ nudity policy](https://techcrunch.com/2023/01/17/oversight-board-presses-meta-to-revise-convoluted-and-poorly-defined-nudity-policy/)
+- [HBO’s ‘The Last of Us’ gets a warm welcome with 4.7M U.S. viewers](https://techcrunch.com/2023/01/17/hbos-the-last-of-us-4-7-million-viewers/)
+- [Delphia co-founder placed on leave after sexual assault allegations from former employee](https://techcrunch.com/2023/01/17/delphia-co-founder-placed-on-leave-after-sexual-assault-allegations-from-former-employee/)
+- [China launches classified remote sensing and tech test satellites &lpar;video&rpar;](https://www.space.com/china-yaogan-shiyan-satellite-launch-january-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
