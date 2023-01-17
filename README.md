@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [7 space tech predictions for 2023](https://techcrunch.com/2023/01/16/7-space-tech-predictions-for-2023/)
 - [A peek into the future as Sam Altman sees it](https://techcrunch.com/2023/01/16/a-peek-into-future-as-sam-altman-sees-it/)
 - [Max Q: Anomalous](https://techcrunch.com/2023/01/16/max-q-anomalous/)
 - [Rare, &#39;rule-breaking&#39; quasicrystal found in chunk of &#39;fossilized&#39; lightning](https://www.space.com/fulgurite-quasicrystal)
 - [UV radiation pulse played a role in a mass extinction event, fossilized pollen reveals](https://www.space.com/uv-radiation-fossilized-pollen)
-- [Guardians of the Galaxy&#39;s Groot finally gets an origin story in new Marvel Comics series](https://www.space.com/guardians-of-the-galaxy-groot-origin-marvel-comics)
 <!-- BLOG-POST-LIST:END -->
 
 ---
