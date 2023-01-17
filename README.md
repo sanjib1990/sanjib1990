@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [National Geographic 6x21 children&#39;s binoculars review](https://www.space.com/national-geographic-6x21-childrens-binocular-review)
+- [Google is piloting its own ‘soundbox’ in India for merchants to get audio-based payment alerts](https://techcrunch.com/2023/01/17/google-pay-soundbox-india/)
 - [Interstellar space: What is it and where does it begin?](https://www.space.com/interstellar-space-definition-explanation)
 - [Luxury fashion meets blockchain on Syky, the Seven Seven Six-backed web3 platform](https://techcrunch.com/2023/01/17/luxury-fashion-syky-seven-seven-six-web3/)
 - [Cumul.io, a low-code embedded analytics platform for SaaS companies, raises $10.8M](https://techcrunch.com/2023/01/17/cumul-io-a-low-code-embedded-analytics-platform-for-saas-companies-raises-10-8m/)
-- [The Edit LDN raises seed round to serve sneakerheads around the world](https://techcrunch.com/2023/01/17/the-edit-ldn/)
-- [Wristcheck wants to make used luxury watches more affordable](https://techcrunch.com/2023/01/16/wristcheck-secondhand-luxury-watch-trading/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
