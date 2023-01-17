@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [James Webb Space Telescope uncovers  starbirth clues at &#39;cosmic noon&#39; for 33,000 young stars](https://www.space.com/james-webb-space-telescope-dusty-ribbons-young-stars-neighbor-galaxy)
+- [Discord acquires Gas, a compliments-based social media app for teens](https://techcrunch.com/2023/01/17/discord-acquires-gas-a-compliments-based-social-media-app-for-teens/)
+- [Tesla engineer testifies that 2016 video promoting self-driving was faked](https://techcrunch.com/2023/01/17/tesla-engineer-testifies-that-2016-video-promoting-self-driving-was-faked/)
+- [SpaceX Falcon Heavy rocket stuns viewers with gorgeous liftoff &lpar;photos&rpar;](https://www.space.com/spacex-falcon-heavy-rocket-ussf-67-photos)
 - [Watch SpaceX launch advanced GPS satellite for US Space Force early Wednesday](https://www.space.com/spacex-falcon-9-gps-iii-sv06-amelia-earhart-launch)
-- [Putting numbers on the global venture slowdown](https://techcrunch.com/2023/01/17/putting-numbers-on-the-global-venture-slowdown/)
-- [&#39;The Mandalorian&#39; Season 3 trailer reveals the return of &#39;Baby Yoda&#39; Grogu](https://www.space.com/star-wars-the-mandalorian-season-3-trailer-grogu-returns)
-- [Oversight Board presses Meta to revise ‘convoluted and poorly defined’ nudity policy](https://techcrunch.com/2023/01/17/oversight-board-presses-meta-to-revise-convoluted-and-poorly-defined-nudity-policy/)
-- [HBO’s ‘The Last of Us’ gets a warm welcome with 4.7M U.S. viewers](https://techcrunch.com/2023/01/17/hbos-the-last-of-us-4-7-million-viewers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
