@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Luxury fashion meets blockchain on Syky, the Seven Seven Six-backed web3 platform](https://techcrunch.com/2023/01/17/luxury-fashion-syky-seven-seven-six-web3/)
 - [Cumul.io, a low-code embedded analytics platform for SaaS companies, raises $10.8M](https://techcrunch.com/2023/01/17/cumul-io-a-low-code-embedded-analytics-platform-for-saas-companies-raises-10-8m/)
 - [The Edit LDN raises seed round to serve sneakerheads around the world](https://techcrunch.com/2023/01/17/the-edit-ldn/)
 - [Wristcheck wants to make used luxury watches more affordable](https://techcrunch.com/2023/01/16/wristcheck-secondhand-luxury-watch-trading/)
 - [7 space tech predictions for 2023](https://techcrunch.com/2023/01/16/7-space-tech-predictions-for-2023/)
-- [A peek into the future as Sam Altman sees it](https://techcrunch.com/2023/01/16/a-peek-into-future-as-sam-altman-sees-it/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
