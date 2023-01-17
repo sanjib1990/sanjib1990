@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Komunal raises $8.5M to digitize Indonesia’s rural banks](https://techcrunch.com/2023/01/17/komunal/)
-- [Amplifica Capital ‘wants to be fund that Latin America’s female tech founders reach out to first’](https://techcrunch.com/2023/01/17/amplifica-capital-fund-latin-america/)
-- [Cost-effective IP strategies can lead to massive exit valuations](https://techcrunch.com/2023/01/17/cost-effective-ip-strategies-can-lead-to-massive-exit-valuations/)
-- [AI21 Labs intros an AI writing assistant that cites its sources](https://techcrunch.com/2023/01/17/ai21-labs-intros-an-ai-writing-assistant-that-cites-its-sources/)
-- [New Tarantula Nebula mosaic captures spectacular star formation](https://www.space.com/chandra-james-webb-tarantula-nebula-observations)
+- [African gaming startup Carry1st raises $27M from Bitkraft Ventures and a16z](https://techcrunch.com/2023/01/17/african-gaming-startup-carry1st-raises-27m-from-bitkraft-ventures-and-a16z/)
+- [Could humans use black holes to time travel?](https://www.space.com/are-black-holes-time-machines)
+- [Uber drivers in Europe gain access to Tesla, Polestar and other EVs through Hertz](https://techcrunch.com/2023/01/17/uber-drivers-in-europe-gain-access-to-tesla-polestar-and-other-evs-through-hertz/)
+- [Chevy announces the fastest Corvette yet, the electrified 2024 Corvette E-Ray](https://techcrunch.com/2023/01/17/chevy-corvette-eray-2024/)
+- [Google’s Clock app now lets you record your own alarm sound](https://techcrunch.com/2023/01/17/googles-clock-app-now-lets-you-record-your-own-alarm-sound/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
