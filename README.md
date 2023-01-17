@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA satellite view shows California&#39;s soaked start to 2023](https://www.space.com/california-atmospheric-river-timelapse-january-2023)
-- [Now that it’s thoroughly spoiled, here’s Apple’s M2 MacBook Pro ‘event’ video](https://techcrunch.com/2023/01/17/now-that-its-thoroughly-spoiled-heres-apples-m2-macbook-pro-event-video/)
-- [Disney+ releases full trailer for ‘The Mandalorian’ Season 3](https://techcrunch.com/2023/01/17/disney-trailer-the-mandalorian-season-3/)
-- [Royal Mail CEO confirms cyberattack downed UK postal service](https://techcrunch.com/2023/01/17/royal-mail-cyberattack-disruption-lawmakers/)
-- [Amberflo wants to transform SaaS pricing with metered usage](https://techcrunch.com/2023/01/17/amberflo-wants-to-transform-saas-pricing-with-metered-usage/)
+- [Dating app Hinge tests a pricier $60 per month subscription, similar to Tinder Platinum](https://techcrunch.com/2023/01/17/dating-app-hinge-tests-a-pricier-60-per-month-subscription-similar-to-tinder-platinum/)
+- [Wyze goes back to its roots with the Wyze Cam OG and OG Telephoto](https://techcrunch.com/2023/01/17/wyze-goes-back-to-its-roots-with-the-wyze-cam-og-and-og-telephoto/)
+- [Beaconstac lands $25M investment for its QR code management platform](https://techcrunch.com/2023/01/17/beaconstac-lands-25m-investment-for-its-qr-code-management-platform/)
+- [Creality Ender 5 S1 review: speed and precision](https://www.space.com/creality-ender-5-s1-review)
+- [Modernizing the live music industry with Mir Hwang from GigFinesse](https://techcrunch.com/2023/01/17/modernizing-the-live-music-industry-with-mir-hwang-from-gigfinesse/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
