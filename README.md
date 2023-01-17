@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cumul.io, a low-code embedded analytics platform for SaaS companies, raises $10.8M](https://techcrunch.com/2023/01/17/cumul-io-a-low-code-embedded-analytics-platform-for-saas-companies-raises-10-8m/)
+- [The Edit LDN raises seed round to serve sneakerheads around the world](https://techcrunch.com/2023/01/17/the-edit-ldn/)
+- [Wristcheck wants to make used luxury watches more affordable](https://techcrunch.com/2023/01/16/wristcheck-secondhand-luxury-watch-trading/)
 - [7 space tech predictions for 2023](https://techcrunch.com/2023/01/16/7-space-tech-predictions-for-2023/)
 - [A peek into the future as Sam Altman sees it](https://techcrunch.com/2023/01/16/a-peek-into-future-as-sam-altman-sees-it/)
-- [Max Q: Anomalous](https://techcrunch.com/2023/01/16/max-q-anomalous/)
-- [Rare, &#39;rule-breaking&#39; quasicrystal found in chunk of &#39;fossilized&#39; lightning](https://www.space.com/fulgurite-quasicrystal)
-- [UV radiation pulse played a role in a mass extinction event, fossilized pollen reveals](https://www.space.com/uv-radiation-fossilized-pollen)
 <!-- BLOG-POST-LIST:END -->
 
 ---
