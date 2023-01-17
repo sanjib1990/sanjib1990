@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fledgling startup founders — buy an early-bird ticket to build your future](https://techcrunch.com/2023/01/17/early-bird-tickets-for-techcrunch-early-stage-2023-on-sale-now/)
+- [TechCrunch+ roundup: Space tech predictions, startup IP strategy, finding feasible funding](https://techcrunch.com/2023/01/17/techcrunch-roundup-space-tech-predictions-startup-ip-strategy-finding-feasible-funding/)
+- [Clearco co-founder Michele Romanow steps down, cuts 30% of staff](https://techcrunch.com/2023/01/17/clearco-co-founder-michele-romanow-steps-down-cuts-30-of-staff/)
+- [Build a company, not a feature](https://techcrunch.com/2023/01/17/build-a-company-not-a-feature/)
 - [Dating app Hinge tests a pricier $60 per month subscription, similar to Tinder Platinum](https://techcrunch.com/2023/01/17/dating-app-hinge-tests-a-pricier-60-per-month-subscription-similar-to-tinder-platinum/)
-- [Wyze goes back to its roots with the Wyze Cam OG and OG Telephoto](https://techcrunch.com/2023/01/17/wyze-goes-back-to-its-roots-with-the-wyze-cam-og-and-og-telephoto/)
-- [Beaconstac lands $25M investment for its QR code management platform](https://techcrunch.com/2023/01/17/beaconstac-lands-25m-investment-for-its-qr-code-management-platform/)
-- [Creality Ender 5 S1 review: speed and precision](https://www.space.com/creality-ender-5-s1-review)
-- [Modernizing the live music industry with Mir Hwang from GigFinesse](https://techcrunch.com/2023/01/17/modernizing-the-live-music-industry-with-mir-hwang-from-gigfinesse/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
