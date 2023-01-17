@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch SpaceX launch advanced GPS satellite for US Space Force early Wednesday](https://www.space.com/spacex-falcon-9-gps-iii-sv06-amelia-earhart-launch)
+- [Putting numbers on the global venture slowdown](https://techcrunch.com/2023/01/17/putting-numbers-on-the-global-venture-slowdown/)
 - [&#39;The Mandalorian&#39; Season 3 trailer reveals the return of &#39;Baby Yoda&#39; Grogu](https://www.space.com/star-wars-the-mandalorian-season-3-trailer-grogu-returns)
 - [Oversight Board presses Meta to revise ‘convoluted and poorly defined’ nudity policy](https://techcrunch.com/2023/01/17/oversight-board-presses-meta-to-revise-convoluted-and-poorly-defined-nudity-policy/)
 - [HBO’s ‘The Last of Us’ gets a warm welcome with 4.7M U.S. viewers](https://techcrunch.com/2023/01/17/hbos-the-last-of-us-4-7-million-viewers/)
-- [Delphia co-founder placed on leave after sexual assault allegations from former employee](https://techcrunch.com/2023/01/17/delphia-co-founder-placed-on-leave-after-sexual-assault-allegations-from-former-employee/)
-- [China launches classified remote sensing and tech test satellites &lpar;video&rpar;](https://www.space.com/china-yaogan-shiyan-satellite-launch-january-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
