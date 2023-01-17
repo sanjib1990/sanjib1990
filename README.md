@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [National Geographic 6x21 children&#39;s binoculars review](https://www.space.com/national-geographic-6x21-childrens-binocular-review)
-- [Google is piloting its own ‘soundbox’ in India for merchants to get audio-based payment alerts](https://techcrunch.com/2023/01/17/google-pay-soundbox-india/)
-- [Interstellar space: What is it and where does it begin?](https://www.space.com/interstellar-space-definition-explanation)
-- [Luxury fashion meets blockchain on Syky, the Seven Seven Six-backed web3 platform](https://techcrunch.com/2023/01/17/luxury-fashion-syky-seven-seven-six-web3/)
-- [Cumul.io, a low-code embedded analytics platform for SaaS companies, raises $10.8M](https://techcrunch.com/2023/01/17/cumul-io-a-low-code-embedded-analytics-platform-for-saas-companies-raises-10-8m/)
+- [Best free Star Wars 3D prints](https://www.space.com/best-free-star-wars-3d-prints)
+- [Nest co-founder Matt Rogers’ new startup is trash](https://techcrunch.com/2023/01/17/nest-co-founder-matt-rogers-new-startup-is-trash/)
+- [Stell wants to modernize the “unsexy” workflows slowing down America’s industrial base](https://techcrunch.com/2023/01/17/stell-wants-to-modernize-the-unsexy-workflows-slowing-down-americas-industrial-base/)
+- [Milky Way&#39;s &#39;poor old heart&#39; could reveal how our galaxy formed](https://www.space.com/milky-way-oldest-stars-found)
+- [CloseFactor raises $15.2M to automate repetitive sales processes](https://techcrunch.com/2023/01/17/closefactor-raises-15-2m-to-automate-repetitive-sales-processes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
