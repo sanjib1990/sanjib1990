@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Goldenset launches out of stealth to make equity investments in creators](https://techcrunch.com/2023/01/18/goldenset-launches-out-of-stealth-to-make-equity-investments-in-creators/)
-- [Chord connects new funding to predictive commerce metrics so brands can grow](https://techcrunch.com/2023/01/18/chord-headless-commerce-series-a/)
-- [Deal Box’s venture arm to invest $125M in startups using web3 technology](https://techcrunch.com/2023/01/18/deal-boxs-venture-arm-to-invest-125m-in-startups-using-web3-technology/)
-- [Kerbal Space Program 2 to feature Atlas V rocket launch audio](https://www.space.com/kerbal-space-program-2-rocket-launch-audio)
-- [Self-driving truck startup Waabi brings on Volvo VC as strategic investor](https://techcrunch.com/2023/01/18/self-driving-truck-startup-waabi-brings-on-volvo-vc-as-strategic-investor/)
+- [Boston Dynamics’ latest Atlas video demos a robot that run, jump, and now, grab and throw things](https://techcrunch.com/2023/01/18/boston-dynamics-latest-atlas-video-demos-a-robot-that-run-jump-and-now-grab-and-throw-things/)
+- [Sophos to lay off 450 employees globally](https://techcrunch.com/2023/01/18/sophos-global-layoffs/)
+- [What’s next for the entrepreneur behind Layoffs.FYI](https://techcrunch.com/2023/01/18/whats-next-for-the-entrepreneur-behind-layoffs-fyi/)
+- [Will China&#39;s Zhurong Mars rover wake up from its worrying hibernation?](https://www.space.com/will-china-zhurong-mars-rover-tianwen-1-wake-up)
+- [Microsoft announces 10,000 job cuts, nearly 5% of its global workforce](https://techcrunch.com/2023/01/18/microsoft-announces-10000-job-cuts-nearly-5-of-its-workforce/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
