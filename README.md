@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Lidar companies face a ‘make it or break it’ year](https://techcrunch.com/2023/01/18/lidar-companies-face-a-make-it-or-break-it-year/)
-- [Mailchimp says it was hacked — again](https://techcrunch.com/2023/01/18/mailchimp-hacked/)
-- [Zack Snyder’s ‘Rebel Moon’ is set to arrive on Netflix in December](https://techcrunch.com/2023/01/18/netflixs-rebel-moon-december-2023-release-date/)
-- [Solana co-founder sees potential for devs to lead its network in 2023](https://techcrunch.com/2023/01/18/solana-co-founder-sees-potential-for-devs-to-lead-its-network-in-2023/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [This gentle drone collects loose DNA from swaying tree branches](https://techcrunch.com/2023/01/18/this-gentle-drone-collects-loose-dna-from-swaying-tree-branches/)
+- [Sequoia injects $195 million into an ever-eager seed environment](https://techcrunch.com/2023/01/18/sequoia-capital-195-million-seed-pre-seed-fund/)
+- [Losing the horn: VCs think majority of unicorns aren’t worth $1 billion anymore](https://techcrunch.com/2023/01/18/losing-the-horn-vcs-think-majority-of-unicorns-arent-worth-1-billion-anymore/)
+- [Newfound ultra-faint dwarf galaxies are &#39;pristine fossils of the early universe&#39;](https://www.space.com/new-dwarf-galaxies-ngc253-early-universe)
+- [&#39;Unwanted fire&#39; may have caused ABL Space Systems&#39; launch failure](https://www.space.com/abl-launch-failure-fire-possible-cause)
 <!-- BLOG-POST-LIST:END -->
 
 ---
