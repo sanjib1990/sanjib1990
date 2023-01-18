@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Uber, Bolt drivers hope for increased earnings foiled as Tanzania reinstates 25% commission](https://techcrunch.com/2023/01/18/uber-bolt-drivers-hope-for-increased-earnings-foiled-as-tanzania-reinstates-25-commission/)
+- [Good Meat approved to sell serum-free cultivated meat in Singapore](https://techcrunch.com/2023/01/18/good-meat-regulatory-approval/)
 - [Kate is a new car maker focused on micro-cars for everyday use](https://techcrunch.com/2023/01/18/kate-is-a-new-car-maker-focused-on-micro-cars-for-everyday-use/)
 - [South Africa’s Flow gets funding to automate social media advertising for real estate agencies](https://techcrunch.com/2023/01/17/south-africas-flow-gets-funding-to-automate-social-media-advertising-for-real-estate-agencies/)
 - [Tabby raises $58M at $660M valuation as PayPal Ventures makes first investment in the GCC](https://techcrunch.com/2023/01/17/tabby-raises-58m-at-660m-valuation-as-paypal-ventures-makes-first-investment-in-the-gcc/)
-- [That Microsoft deal isn’t exclusive, video is coming, and more from OpenAI CEO Sam Altman](https://techcrunch.com/2023/01/17/that-microsoft-deal-isnt-exclusive-video-is-coming-and-more-from-openai-ceo-sam-altman/)
-- [P2P lending platform PeopleFund raises $20M Series C extension led by Bain Capital](https://techcrunch.com/2023/01/17/p2p-lending-platform-peoplefund-tacks-on-20m-to-series-c-led-by-bain-capital/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
