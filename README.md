@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Satellite spots glowing lava inside erupting Hawaiian volcano](https://www.space.com/hawaiian-kilauea-volcano-lava-smoke-landsat-8)
-- [Decodable wants to take real-time stream processing mainstream](https://techcrunch.com/2023/01/18/decodable-wants-to-take-real-time-stream-processing-mainstream/)
-- [Bitwarden acquires Passwordless.dev to help companies authenticate users without passwords](https://techcrunch.com/2023/01/18/bitwarden-acquires-passwordless-dev-to-help-companies-authenticate-users-without-passwords/)
-- [YouTube TV upgrades its live TV guide and library to give users more control](https://techcrunch.com/2023/01/18/youtube-tv-upgrades-its-live-tv-guide-and-library/)
-- [Save over 50% on these Hexeum night vision binoculars](https://www.space.com/hexeum-night-vision-binoculars-save-54-percent-deal)
+- [Lidar companies face a ‘make it or break it’ year](https://techcrunch.com/2023/01/18/lidar-companies-face-a-make-it-or-break-it-year/)
+- [Mailchimp says it was hacked — again](https://techcrunch.com/2023/01/18/mailchimp-hacked/)
+- [Zack Snyder’s ‘Rebel Moon’ is set to arrive on Netflix in December](https://techcrunch.com/2023/01/18/netflixs-rebel-moon-december-2023-release-date/)
+- [Solana co-founder sees potential for devs to lead its network in 2023](https://techcrunch.com/2023/01/18/solana-co-founder-sees-potential-for-devs-to-lead-its-network-in-2023/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
