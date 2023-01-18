@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Some initial thoughts on Apple’s resurrected HomePod](https://techcrunch.com/2023/01/18/some-initial-thoughts-on-apples-resurrected-homepod/)
+- [3.3 billion Milky Way objects revealed by colossal astronomical survey](https://www.space.com/dark-energy-camera-milky-way-survey)
+- [Women-founded startups raised 1.9% of all VC funds in 2022, a drop from 2021](https://techcrunch.com/2023/01/18/women-founded-startups-raised-1-9-of-all-vc-funds-in-2022-a-drop-from-2021/)
 - [Ethereum’s shift to proof-of-stake draws increasing institutional interest](https://techcrunch.com/2023/01/18/ethereums-shift-to-proof-of-stake-draws-increasing-institutional-interest/)
 - [&#39;Absolutely bonkers&#39; aurora lights up the sky above Iceland &lpar;video&rpar;](https://www.space.com/iceland-green-aurora-bonkers-january-2023)
-- [Wastewater recycler Membrion makes light work of removing heavy metals](https://techcrunch.com/2023/01/18/wastewater-recycler-membrion-makes-light-work-of-removing-heavy-metals/)
-- [Wallapop, the circular marketplace out of Spain, raised $87M more at a $832M valuation led by Korea’s Naver](https://techcrunch.com/2023/01/18/wallapop-the-circular-marketplace-out-of-spain-raised-87m-more-at-a-832m-valuation-led-by-koreas-naver/)
-- [Wikipedia gets its first makeover in over a decade…and it’s fairly subtle](https://techcrunch.com/2023/01/18/wikipedia-gets-its-first-makeover-in-over-a-decade-and-its-fairly-subtle/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
