@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Goldenset launches out of stealth to make equity investments in creators](https://techcrunch.com/2023/01/18/goldenset-launches-out-of-stealth-to-make-equity-investments-in-creators/)
+- [Chord connects new funding to predictive commerce metrics so brands can grow](https://techcrunch.com/2023/01/18/chord-headless-commerce-series-a/)
+- [Deal Box’s venture arm to invest $125M in startups using web3 technology](https://techcrunch.com/2023/01/18/deal-boxs-venture-arm-to-invest-125m-in-startups-using-web3-technology/)
+- [Kerbal Space Program 2 to feature Atlas V rocket launch audio](https://www.space.com/kerbal-space-program-2-rocket-launch-audio)
 - [Self-driving truck startup Waabi brings on Volvo VC as strategic investor](https://techcrunch.com/2023/01/18/self-driving-truck-startup-waabi-brings-on-volvo-vc-as-strategic-investor/)
-- [Lego Star Wars Inquisitor Transport Scythe review](https://www.space.com/lego-star-wars-inquisitor-transport-scythe-review-75336)
-- [ThriveCart, which sells tools to build ecommerce carts, raises $35M](https://techcrunch.com/2023/01/18/thrivecart-which-sells-tools-to-build-ecommerce-carts-raises-35m/)
-- [Meteorite that crashed onto UK driveway contains the building blocks of life](https://www.space.com/pristine-meteorite-winchcombe-amino-acids)
-- [Get a free Elite strap worth $60 when you grab a Meta Quest 2 VR headset](https://www.space.com/meta-quest-2-free-elite-strap-deal-january-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
