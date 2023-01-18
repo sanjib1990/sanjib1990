@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Save 20% on the Celestron NexStar Evolution 9.25 telescope](https://www.space.com/save-20-percent-celestron-nexstar-evolution-925-telescope)
-- [Black holes at galactic centers blast out 10 times more light than previously thought](https://www.space.com/black-hole-agn-more-energy-than-thought)
-- [Dear Sophie: What are some fast options for hiring someone on an expiring grace period?](https://techcrunch.com/2023/01/18/dear-sophie-what-are-some-fast-options-for-hiring-someone-on-an-expiring-grace-period/)
-- [TikTok rolls out its ‘state-controlled media’ label to 40 more countries](https://techcrunch.com/2023/01/18/tiktok-rolls-out-its-state-controlled-media-label-to-40-more-countries/)
-- [Boston Dynamics’ latest Atlas video demos a robot that run, jump, and now, grab and throw](https://techcrunch.com/2023/01/18/boston-dynamics-latest-atlas-video-demos-a-robot-that-run-jump-and-now-grab-and-throw-things/)
+- [Satellite spots glowing lava inside erupting Hawaiian volcano](https://www.space.com/hawaiian-kilauea-volcano-lava-smoke-landsat-8)
+- [Decodable wants to take real-time stream processing mainstream](https://techcrunch.com/2023/01/18/decodable-wants-to-take-real-time-stream-processing-mainstream/)
+- [Bitwarden acquires Passwordless.dev to help companies authenticate users without passwords](https://techcrunch.com/2023/01/18/bitwarden-acquires-passwordless-dev-to-help-companies-authenticate-users-without-passwords/)
+- [YouTube TV upgrades its live TV guide and library to give users more control](https://techcrunch.com/2023/01/18/youtube-tv-upgrades-its-live-tv-guide-and-library/)
+- [Save over 50% on these Hexeum night vision binoculars](https://www.space.com/hexeum-night-vision-binoculars-save-54-percent-deal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
