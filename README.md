@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Font furore as State Dept retires Times New Roman for retiring Calibri](https://techcrunch.com/2023/01/18/font-furore-as-state-dept-retires-times-new-roman-for-retiring-calibri/)
+- [Analysts cut 2023 tech spending predictions as consumers hold back](https://techcrunch.com/2023/01/18/analysts-cut-2023-techs-spending-predictions-as-consumers-hold-back/)
 - [Some initial thoughts on Apple’s resurrected HomePod](https://techcrunch.com/2023/01/18/some-initial-thoughts-on-apples-resurrected-homepod/)
 - [3.3 billion Milky Way objects revealed by colossal astronomical survey](https://www.space.com/dark-energy-camera-milky-way-survey)
 - [Women-founded startups raised 1.9% of all VC funds in 2022, a drop from 2021](https://techcrunch.com/2023/01/18/women-founded-startups-raised-1-9-of-all-vc-funds-in-2022-a-drop-from-2021/)
-- [Ethereum’s shift to proof-of-stake draws increasing institutional interest](https://techcrunch.com/2023/01/18/ethereums-shift-to-proof-of-stake-draws-increasing-institutional-interest/)
-- [&#39;Absolutely bonkers&#39; aurora lights up the sky above Iceland &lpar;video&rpar;](https://www.space.com/iceland-green-aurora-bonkers-january-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
