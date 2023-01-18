@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Noon Energy brings Mars tech down to Earth with carbon-oxygen battery system](https://techcrunch.com/2023/01/18/noon-energy-brings-mars-tech-down-to-earth-with-carbon-oxygen-battery-system/)
-- [SpaceX Dragon capsule to be 5-person &#39;lifeboat&#39; in event of ISS emergency](https://www.space.com/nasa-equipping-spacex-dragon-iss-lifeboat)
-- [Watch Venus and Saturn begin joining up in the night sky this week](https://www.space.com/venus-saturn-join-up-before-conjunction-jan-22-2023)
-- [Sequoia-backed GoMechanic cuts 70% jobs amid ‘grave errors’ in financial reporting](https://techcrunch.com/2023/01/18/sequoia-india-backed-gomechanic-faces-severe-trouble/)
-- [Uber, Bolt drivers hope for increased earnings foiled as Tanzania reinstates 25% commission](https://techcrunch.com/2023/01/18/uber-bolt-drivers-hope-for-increased-earnings-foiled-as-tanzania-reinstates-25-commission/)
+- [Self-driving truck startup Waabi brings on Volvo VC as strategic investor](https://techcrunch.com/2023/01/18/self-driving-truck-startup-waabi-brings-on-volvo-vc-as-strategic-investor/)
+- [Lego Star Wars Inquisitor Transport Scythe review](https://www.space.com/lego-star-wars-inquisitor-transport-scythe-review-75336)
+- [ThriveCart, which sells tools to build ecommerce carts, raises $35M](https://techcrunch.com/2023/01/18/thrivecart-which-sells-tools-to-build-ecommerce-carts-raises-35m/)
+- [Meteorite that crashed onto UK driveway contains the building blocks of life](https://www.space.com/pristine-meteorite-winchcombe-amino-acids)
+- [Get a free Elite strap worth $60 when you grab a Meta Quest 2 VR headset](https://www.space.com/meta-quest-2-free-elite-strap-deal-january-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
