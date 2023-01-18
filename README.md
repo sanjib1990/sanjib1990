@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [This gentle drone collects loose DNA from swaying tree branches](https://techcrunch.com/2023/01/18/this-gentle-drone-collects-loose-dna-from-swaying-tree-branches/)
-- [Sequoia injects $195 million into an ever-eager seed environment](https://techcrunch.com/2023/01/18/sequoia-capital-195-million-seed-pre-seed-fund/)
-- [Losing the horn: VCs think majority of unicorns aren’t worth $1 billion anymore](https://techcrunch.com/2023/01/18/losing-the-horn-vcs-think-majority-of-unicorns-arent-worth-1-billion-anymore/)
-- [Newfound ultra-faint dwarf galaxies are &#39;pristine fossils of the early universe&#39;](https://www.space.com/new-dwarf-galaxies-ngc253-early-universe)
-- [&#39;Unwanted fire&#39; may have caused ABL Space Systems&#39; launch failure](https://www.space.com/abl-launch-failure-fire-possible-cause)
+- [Ethereum’s shift to proof-of-stake draws increasing institutional interest](https://techcrunch.com/2023/01/18/ethereums-shift-to-proof-of-stake-draws-increasing-institutional-interest/)
+- [&#39;Absolutely bonkers&#39; aurora lights up the sky above Iceland &lpar;video&rpar;](https://www.space.com/iceland-green-aurora-bonkers-january-2023)
+- [Wastewater recycler Membrion makes light work of removing heavy metals](https://techcrunch.com/2023/01/18/wastewater-recycler-membrion-makes-light-work-of-removing-heavy-metals/)
+- [Wallapop, the circular marketplace out of Spain, raised $87M more at a $832M valuation led by Korea’s Naver](https://techcrunch.com/2023/01/18/wallapop-the-circular-marketplace-out-of-spain-raised-87m-more-at-a-832m-valuation-led-by-koreas-naver/)
+- [Wikipedia gets its first makeover in over a decade…and it’s fairly subtle](https://techcrunch.com/2023/01/18/wikipedia-gets-its-first-makeover-in-over-a-decade-and-its-fairly-subtle/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
