@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Sequoia India-backed GoMechanic cuts 70% jobs after ‘grave errors’ in financial reporting](https://techcrunch.com/2023/01/18/sequoia-india-backed-gomechanic-faces-severe-trouble/)
+- [SpaceX Dragon capsule to be 5-person &#39;lifeboat&#39; in event of ISS emergency](https://www.space.com/nasa-equipping-spacex-dragon-iss-lifeboat)
+- [Watch Venus and Saturn begin joining up in the night sky this week](https://www.space.com/venus-saturn-join-up-before-conjunction-jan-22-2023)
+- [Sequoia-backed GoMechanic cuts 70% jobs amid ‘grave errors’ in financial reporting](https://techcrunch.com/2023/01/18/sequoia-india-backed-gomechanic-faces-severe-trouble/)
 - [Uber, Bolt drivers hope for increased earnings foiled as Tanzania reinstates 25% commission](https://techcrunch.com/2023/01/18/uber-bolt-drivers-hope-for-increased-earnings-foiled-as-tanzania-reinstates-25-commission/)
 - [Good Meat approved to sell serum-free cultivated meat in Singapore](https://techcrunch.com/2023/01/18/good-meat-regulatory-approval/)
-- [Kate is a new car maker focused on micro-cars for everyday use](https://techcrunch.com/2023/01/18/kate-is-a-new-car-maker-focused-on-micro-cars-for-everyday-use/)
-- [South Africa’s Flow gets funding to automate social media advertising for real estate agencies](https://techcrunch.com/2023/01/17/south-africas-flow-gets-funding-to-automate-social-media-advertising-for-real-estate-agencies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
