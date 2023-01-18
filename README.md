@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Font furore as State Dept retires Times New Roman for retiring Calibri](https://techcrunch.com/2023/01/18/font-furore-as-state-dept-retires-times-new-roman-for-retiring-calibri/)
+- [Daily Crunch: GoMechanic lays off 70% after investors discover ‘founders knowingly misstated facts’](https://techcrunch.com/2023/01/18/daily-crunch-gomechanic-lays-off-70-after-investors-discover-founders-knowingly-misstated-facts/)
+- [Scrintal raises $1 million for its visual collaboration tool](https://techcrunch.com/2023/01/18/scrintal-raises-1-million-for-its-visual-collaboration-tool/)
+- [Amazon fined by regulators for unsafe warehouse work conditions](https://techcrunch.com/2023/01/18/amazon-fined-by-regulators-for-unsafe-warehouse-work-conditions/)
+- [Font furore as State Department retires Times New Roman for retired Calibri](https://techcrunch.com/2023/01/18/font-furore-as-state-dept-retires-times-new-roman-for-retiring-calibri/)
 - [Analysts cut 2023 tech spending predictions as consumers hold back](https://techcrunch.com/2023/01/18/analysts-cut-2023-techs-spending-predictions-as-consumers-hold-back/)
-- [Some initial thoughts on Apple’s resurrected HomePod](https://techcrunch.com/2023/01/18/some-initial-thoughts-on-apples-resurrected-homepod/)
-- [3.3 billion Milky Way objects revealed by colossal astronomical survey](https://www.space.com/dark-energy-camera-milky-way-survey)
-- [Women-founded startups raised 1.9% of all VC funds in 2022, a drop from 2021](https://techcrunch.com/2023/01/18/women-founded-startups-raised-1-9-of-all-vc-funds-in-2022-a-drop-from-2021/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
