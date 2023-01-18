@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [That Microsoft deal isn’t exclusive, video is coming, and more from OpenAI CEO Sam Altman](https://techcrunch.com/2023/01/17/that-microsoft-deal-isnt-exclusive-video-is-coming-and-more-from-openai-ceo-sam-altman/)
 - [P2P lending platform PeopleFund raises $20M Series C extension led by Bain Capital](https://techcrunch.com/2023/01/17/p2p-lending-platform-peoplefund-tacks-on-20m-to-series-c-led-by-bain-capital/)
 - [Gogoro, Belrise JV to spend $2.5B on battery swapping network in Indian state](https://techcrunch.com/2023/01/17/gogoro-belrise-jv-to-spend-2-5b-on-battery-swapping-network-in-indian-state/)
 - [Daily Crunch: Apple powers up 14- and 16-inch MacBook Pro models with M2 Pro and Max chips](https://techcrunch.com/2023/01/17/daily-crunch-apple-powers-up-14-and-16-inch-macbook-pro-models-with-m2-pro-and-max-chips/)
 - [James Webb Space Telescope uncovers  starbirth clues at &#39;cosmic noon&#39; for 33,000 young stars](https://www.space.com/james-webb-space-telescope-dusty-ribbons-young-stars-neighbor-galaxy)
-- [Discord acquires Gas, a compliments-based social media app for teens](https://techcrunch.com/2023/01/17/discord-acquires-gas-a-compliments-based-social-media-app-for-teens/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
