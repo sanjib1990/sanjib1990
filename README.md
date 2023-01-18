@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Boston Dynamics’ latest Atlas video demos a robot that run, jump, and now, grab and throw things](https://techcrunch.com/2023/01/18/boston-dynamics-latest-atlas-video-demos-a-robot-that-run-jump-and-now-grab-and-throw-things/)
-- [Sophos to lay off 450 employees globally](https://techcrunch.com/2023/01/18/sophos-global-layoffs/)
-- [What’s next for the entrepreneur behind Layoffs.FYI](https://techcrunch.com/2023/01/18/whats-next-for-the-entrepreneur-behind-layoffs-fyi/)
-- [Will China&#39;s Zhurong Mars rover wake up from its worrying hibernation?](https://www.space.com/will-china-zhurong-mars-rover-tianwen-1-wake-up)
-- [Microsoft announces 10,000 job cuts, nearly 5% of its global workforce](https://techcrunch.com/2023/01/18/microsoft-announces-10000-job-cuts-nearly-5-of-its-workforce/)
+- [Save 20% on the Celestron NexStar Evolution 9.25 telescope](https://www.space.com/save-20-percent-celestron-nexstar-evolution-925-telescope)
+- [Black holes at galactic centers blast out 10 times more light than previously thought](https://www.space.com/black-hole-agn-more-energy-than-thought)
+- [Dear Sophie: What are some fast options for hiring someone on an expiring grace period?](https://techcrunch.com/2023/01/18/dear-sophie-what-are-some-fast-options-for-hiring-someone-on-an-expiring-grace-period/)
+- [TikTok rolls out its ‘state-controlled media’ label to 40 more countries](https://techcrunch.com/2023/01/18/tiktok-rolls-out-its-state-controlled-media-label-to-40-more-countries/)
+- [Boston Dynamics’ latest Atlas video demos a robot that run, jump, and now, grab and throw](https://techcrunch.com/2023/01/18/boston-dynamics-latest-atlas-video-demos-a-robot-that-run-jump-and-now-grab-and-throw-things/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
