@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta centralizes more user and privacy settings across its apps, announces changes to ads controls](https://techcrunch.com/2023/01/19/meta-centralizes-more-user-and-privacy-settings-across-its-apps-announces-changes-to-ads-controls/)
+- [Artemis 1 moon mannequins unpacked from Orion spacecraft &lpar;photos&rpar;](https://www.space.com/artemis-1-moon-mannequins-unpacked-orion-spacecraft)
+- [Pitch Deck Teardown: Scrintal’s $1M seed deck](https://techcrunch.com/2023/01/19/sample-seed-pitch-deck-scrintal/)
 - [Newfound alien planet has nuclear fusion going in its core](https://www.space.com/europe-gaia-mission-exoplanet-nuclear-fusion)
 - [WhatsApp slapped for processing data without a lawful basis under EU’s GDPR](https://techcrunch.com/2023/01/19/whatsapp-gdpr-breach/)
-- [Epic and Match’s antitrust case against Google heads to jury trial on November 6](https://techcrunch.com/2023/01/19/epic-and-matchs-antitrust-case-against-google-heads-to-jury-trial-on-november-6/)
-- [FTX’s new CEO says there’s possibility for exchange to restart](https://techcrunch.com/2023/01/19/ftxs-new-ceo-says-theres-possibility-for-exchange-to-restart/)
-- [Sophia Amoruso launches Trust Fund for founders](https://techcrunch.com/2023/01/19/sophia-amoruso-enters-venture-with-her-trust-fund-nasty-gal-girlboss/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
