@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [More money, more problems for crypto](https://techcrunch.com/2023/01/19/more-money-more-problems-for-crypto/)
+- [Building up and tearing down](https://techcrunch.com/2023/01/19/building-up-and-tearing-down/)
 - [Meta centralizes more user and privacy settings across its apps, announces changes to ads controls](https://techcrunch.com/2023/01/19/meta-centralizes-more-user-and-privacy-settings-across-its-apps-announces-changes-to-ads-controls/)
+- [Light pollution is erasing stars from the night sky at breakneck pace. It&#39;s only going to get worse.](https://www.space.com/light-pollution-makes-stars-disappear)
 - [Artemis 1 moon mannequins unpacked from Orion spacecraft &lpar;photos&rpar;](https://www.space.com/artemis-1-moon-mannequins-unpacked-orion-spacecraft)
-- [Pitch Deck Teardown: Scrintal’s $1M seed deck](https://techcrunch.com/2023/01/19/sample-seed-pitch-deck-scrintal/)
-- [Newfound alien planet has nuclear fusion going in its core](https://www.space.com/europe-gaia-mission-exoplanet-nuclear-fusion)
-- [WhatsApp slapped for processing data without a lawful basis under EU’s GDPR](https://techcrunch.com/2023/01/19/whatsapp-gdpr-breach/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
