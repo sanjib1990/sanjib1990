@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Zitti soaks up some funding sauce so restaurants can manage their food supply chain](https://techcrunch.com/2023/01/19/zitti-food-supply-chain/)
-- [Scenario lands $6M for its AI platform that generates game art assets](https://techcrunch.com/2023/01/19/scenario-lands-6m-for-its-ai-platform-that-generates-game-art-assets/)
-- [Link raises $30M to help merchants accept direct bank payments](https://techcrunch.com/2023/01/19/link-raises-30m-to-help-merchants-accept-direct-bank-payments/)
-- [Britishvolt’s bankruptcy is the death knell for the UK’s battery industry](https://techcrunch.com/2023/01/19/britishvolts-bankruptcy-is-the-death-knell-for-the-uks-battery-industry/)
-- [Instagram’s new ‘Quiet Mode’ helps you take a break from the app](https://techcrunch.com/2023/01/19/instagrams-new-quiet-mode-helps-you-take-a-break-from-the-app/)
+- [Twitter’s data leak response is a lesson in how not to do cybersecurity](https://techcrunch.com/2023/01/19/twitters-data-leak-response-is-a-lesson-in-how-not-to-do-cybersecurity/)
+- [Fintech in 2022: a story of falling funding, fewer unicorns and insurtech M&amp;A](https://techcrunch.com/2023/01/19/fintech-in-2022-a-story-of-falling-funding-fewer-unicorns-and-insurtech-ma/)
+- [Meta dodged a €4BN privacy fine over unlawful ads, argues GDPR complainant](https://techcrunch.com/2023/01/19/meta-ads-noyb-epdb-gdpr-complaint/)
+- [Taco Bell, KFC owner says data stolen during ransomware attack](https://techcrunch.com/2023/01/19/taco-bell-kfc-owner-says-data-stolen-during-ransomware-attack/)
+- [Ancient &#39;guest star&#39; may mark rare collision of stellar corpses](https://www.space.com/ancient-guest-star-supernova-remnant-confirmed)
 <!-- BLOG-POST-LIST:END -->
 
 ---
