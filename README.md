@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [BioLite Charge PD series power bank review](https://www.space.com/biolite-charge-pd-series-power-bank-review)
+- [Sweden just opened an orbital spaceport, Europe&#39;s new &#39;gateway to space&#39;](https://www.space.com/first-european-mainland-orbital-spaceport-swedish-rocket-range)
+- [Save over $118 on the Celestron Inspire 100 AZ telescope](https://www.space.com/celestron-inspire-100az-telescope-save-25-percent-january-2023)
 - [Twitter’s data leak response is a lesson in how not to do cybersecurity](https://techcrunch.com/2023/01/19/twitters-data-leak-response-is-a-lesson-in-how-not-to-do-cybersecurity/)
 - [Fintech in 2022: a story of falling funding, fewer unicorns and insurtech M&amp;A](https://techcrunch.com/2023/01/19/fintech-in-2022-a-story-of-falling-funding-fewer-unicorns-and-insurtech-ma/)
-- [Meta dodged a €4BN privacy fine over unlawful ads, argues GDPR complainant](https://techcrunch.com/2023/01/19/meta-ads-noyb-epdb-gdpr-complaint/)
-- [Taco Bell, KFC owner says data stolen during ransomware attack](https://techcrunch.com/2023/01/19/taco-bell-kfc-owner-says-data-stolen-during-ransomware-attack/)
-- [Ancient &#39;guest star&#39; may mark rare collision of stellar corpses](https://www.space.com/ancient-guest-star-supernova-remnant-confirmed)
 <!-- BLOG-POST-LIST:END -->
 
 ---
