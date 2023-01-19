@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [See &#39;3 days in the life&#39; of gorgeous green comet as it heads towards Earth &lpar;photo&rpar;](https://www.space.com/comet-c-2022-e3-ztf-3-days-life-photo)
-- [Astronomers weighed our Milky Way, and it&#39;s lighter than expected](https://www.space.com/fast-radio-bursts-weigh-milky-way)
-- [Outrider raises $73M to brings its autonomous electric yard trucks into the mainstream](https://techcrunch.com/2023/01/19/outrider-raises-73m-to-scale-its-autonomous-electric-yard-truck-operation/)
-- [German teens went crazy for this ‘compliments’ app, and now VCs are backing its next phase](https://techcrunch.com/2023/01/19/german-teens-went-crazy-for-this-compliments-app-and-now-vcs-are-backing-its-next-phase/)
-- [Oro, an open-source B2B ecommerce platform from Magento’s cofounder, raises $13M](https://techcrunch.com/2023/01/19/oro-an-open-source-ecommerce-platform-for-b2b-raises-13m/)
+- [Teach yourself growth marketing: How to boot up an email marketing campaign](https://techcrunch.com/2023/01/19/teach-yourself-growth-marketing-how-to-boot-up-an-email-marketing-campaign/)
+- [What time is the conjunction of Venus and Saturn on Sunday &lpar;Jan. 22&rpar;?](https://www.space.com/venus-saturn-conjunction-what-time-january-22-2023)
+- [See the Gamma Ursae Minorid meteor shower peak on Thursday &lpar;Jan. 19&rpar;](https://www.space.com/meteor-shower-gamma-ursae-minorid-peaks-jan-19-2023)
+- [Smores is a music discovery app with a TikTok-like feed](https://techcrunch.com/2023/01/19/smores-is-a-music-discovery-app-with-a-tiktok-like-feed/)
+- [Amazon ends charity donation program AmazonSmile](https://techcrunch.com/2023/01/19/amazon-ends-charity-donation-program-amazonsmile/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
