@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Teach yourself growth marketing: How to boot up an email marketing campaign](https://techcrunch.com/2023/01/19/teach-yourself-growth-marketing-how-to-boot-up-an-email-marketing-campaign/)
-- [What time is the conjunction of Venus and Saturn on Sunday &lpar;Jan. 22&rpar;?](https://www.space.com/venus-saturn-conjunction-what-time-january-22-2023)
-- [See the Gamma Ursae Minorid meteor shower peak on Thursday &lpar;Jan. 19&rpar;](https://www.space.com/meteor-shower-gamma-ursae-minorid-peaks-jan-19-2023)
-- [Smores is a music discovery app with a TikTok-like feed](https://techcrunch.com/2023/01/19/smores-is-a-music-discovery-app-with-a-tiktok-like-feed/)
-- [Amazon ends charity donation program AmazonSmile](https://techcrunch.com/2023/01/19/amazon-ends-charity-donation-program-amazonsmile/)
+- [Zitti soaks up some funding sauce so restaurants can manage their food supply chain](https://techcrunch.com/2023/01/19/zitti-food-supply-chain/)
+- [Scenario lands $6M for its AI platform that generates game art assets](https://techcrunch.com/2023/01/19/scenario-lands-6m-for-its-ai-platform-that-generates-game-art-assets/)
+- [Link raises $30M to help merchants accept direct bank payments](https://techcrunch.com/2023/01/19/link-raises-30m-to-help-merchants-accept-direct-bank-payments/)
+- [Britishvolt’s bankruptcy is the death knell for the UK’s battery industry](https://techcrunch.com/2023/01/19/britishvolts-bankruptcy-is-the-death-knell-for-the-uks-battery-industry/)
+- [Instagram’s new ‘Quiet Mode’ helps you take a break from the app](https://techcrunch.com/2023/01/19/instagrams-new-quiet-mode-helps-you-take-a-break-from-the-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
