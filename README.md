@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Outrider raises $73M to brings its autonomous electric yard trucks into the mainstream](https://techcrunch.com/2023/01/19/outrider-raises-73m-to-scale-its-autonomous-electric-yard-truck-operation/)
 - [German teens went crazy for this ‘compliments’ app, and now VCs are backing its next phase](https://techcrunch.com/2023/01/19/german-teens-went-crazy-for-this-compliments-app-and-now-vcs-are-backing-its-next-phase/)
 - [Oro, an open-source B2B ecommerce platform from Magento’s cofounder, raises $13M](https://techcrunch.com/2023/01/19/oro-an-open-source-ecommerce-platform-for-b2b-raises-13m/)
 - [A lot of fintechs “have to fix their business models,” say VCs who invest in fintech](https://techcrunch.com/2023/01/18/a-lot-of-fintechs-have-to-fix-their-business-models-say-vcs-who-invest-in-fintechs/)
 - [Twitter Blue is now available on Android at the same price as iOS](https://techcrunch.com/2023/01/18/twitter-blue-is-now-available-on-android-at-the-same-price-as-ios/)
-- [India’s PhonePe tops $12 billion valuation in new funding](https://techcrunch.com/2023/01/18/indias-phonepe-tops-12-billion-valuation-in-new-funding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
