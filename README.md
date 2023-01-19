@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Brilliant green comet loses part of its tail to solar storm in this stunning astrophotographer photo](https://www.space.com/comet-c2022-e3-ztf-tail-breaking-space-weather)
+- [SpaceX Falcon Heavy launch spotted from space station &lpar;photo&rpar;](https://www.space.com/spacex-falcon-heavy-ussf-67-launch-photo-space-station)
+- [In race to electrify, Uber wants EVs that sacrifice top speeds, wheels](https://techcrunch.com/2023/01/19/electrify-uber-ceo-wants-evs-that-sacrifice-top-speeds-wheels/)
+- [SpaceX GPS launch delivers stunning sunrise views &lpar;photos&rpar;](https://www.space.com/spacex-gps-launch-iii-photos-january-2023)
 - [More money, more problems for crypto](https://techcrunch.com/2023/01/19/more-money-more-problems-for-crypto/)
-- [Building up and tearing down](https://techcrunch.com/2023/01/19/building-up-and-tearing-down/)
-- [Meta centralizes more user and privacy settings across its apps, announces changes to ads controls](https://techcrunch.com/2023/01/19/meta-centralizes-more-user-and-privacy-settings-across-its-apps-announces-changes-to-ads-controls/)
-- [Light pollution is erasing stars from the night sky at breakneck pace. It&#39;s only going to get worse.](https://www.space.com/light-pollution-makes-stars-disappear)
-- [Artemis 1 moon mannequins unpacked from Orion spacecraft &lpar;photos&rpar;](https://www.space.com/artemis-1-moon-mannequins-unpacked-orion-spacecraft)
 <!-- BLOG-POST-LIST:END -->
 
 ---
