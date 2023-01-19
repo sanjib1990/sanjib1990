@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A lot of fintechs “have to fix their business models,” say VCs who invest in fintechs](https://techcrunch.com/2023/01/18/a-lot-of-fintechs-have-to-fix-their-business-models-say-vcs-who-invest-in-fintechs/)
+- [Twitter Blue is now available on Android at the same price as iOS](https://techcrunch.com/2023/01/18/twitter-blue-is-now-available-on-android-at-the-same-price-as-ios/)
 - [India’s PhonePe tops $12 billion valuation in new funding](https://techcrunch.com/2023/01/18/indias-phonepe-tops-12-billion-valuation-in-new-funding/)
 - [Shein valuation reportedly plummets by a third as it seeks $3B](https://techcrunch.com/2023/01/18/shein-valuation-plunge/)
 - [Curated Loop is ranging indie designer picks for an edgier take on fashion rentals](https://techcrunch.com/2023/01/18/curated-loop/)
-- [Musk stands to lose billions in trial over ‘funding secured’ tweet](https://techcrunch.com/2023/01/18/musk-stands-to-lose-billions-in-trial-over-funding-secured-tweet/)
-- [Daily Crunch: GoMechanic lays off 70% after investors discover ‘founders knowingly misstated facts’](https://techcrunch.com/2023/01/18/daily-crunch-gomechanic-lays-off-70-after-investors-discover-founders-knowingly-misstated-facts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
