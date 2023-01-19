@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Dry-cleaning robotics startup Presso pulls in another $8M](https://techcrunch.com/2023/01/19/dry-cleaning-robotics-startup-presso-pulls-in-another-8m/)
-- [Sling TV’s subscriber base continues to tank, loses over 75K subs in Q4](https://techcrunch.com/2023/01/19/sling-tv-loses-over-75k-subs-in-q4-2022/)
-- [BioLite Charge PD series power bank review](https://www.space.com/biolite-charge-pd-series-power-bank-review)
-- [Sweden just opened an orbital spaceport, Europe&#39;s new &#39;gateway to space&#39;](https://www.space.com/first-european-mainland-orbital-spaceport-swedish-rocket-range)
-- [Save over $118 on the Celestron Inspire 100 AZ telescope](https://www.space.com/celestron-inspire-100az-telescope-save-25-percent-january-2023)
+- [Newfound alien planet has nuclear fusion going in its core](https://www.space.com/europe-gaia-mission-exoplanet-nuclear-fusion)
+- [WhatsApp slapped for processing data without a lawful basis under EU’s GDPR](https://techcrunch.com/2023/01/19/whatsapp-gdpr-breach/)
+- [Epic and Match’s antitrust case against Google heads to jury trial on November 6](https://techcrunch.com/2023/01/19/epic-and-matchs-antitrust-case-against-google-heads-to-jury-trial-on-november-6/)
+- [FTX’s new CEO says there’s possibility for exchange to restart](https://techcrunch.com/2023/01/19/ftxs-new-ceo-says-theres-possibility-for-exchange-to-restart/)
+- [Sophia Amoruso launches Trust Fund for founders](https://techcrunch.com/2023/01/19/sophia-amoruso-enters-venture-with-her-trust-fund-nasty-gal-girlboss/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
