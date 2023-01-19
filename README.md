@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [China launches 14 commercial satellites into orbit atop Long March 2D rocket &lpar;video&rpar;](https://www.space.com/china-launches-14-commercial-satellites-to-orbit)
+- [Musk oversaw misleading 2016 video saying Tesla drove itself](https://techcrunch.com/2023/01/19/musk-oversaw-misleading-2016-video-saying-tesla-drove-itself/)
+- [Netflix founder Reed Hastings steps down as co-CEO](https://techcrunch.com/2023/01/19/netflix-founder-reed-hastings-steps-down-as-co-ceo/)
 - [Brilliant green comet loses part of its tail to solar storm in this stunning astrophotographer photo](https://www.space.com/comet-c2022-e3-ztf-tail-breaking-space-weather)
 - [SpaceX Falcon Heavy launch spotted from space station &lpar;photo&rpar;](https://www.space.com/spacex-falcon-heavy-ussf-67-launch-photo-space-station)
-- [In race to electrify, Uber wants EVs that sacrifice top speeds, wheels](https://techcrunch.com/2023/01/19/electrify-uber-ceo-wants-evs-that-sacrifice-top-speeds-wheels/)
-- [SpaceX GPS launch delivers stunning sunrise views &lpar;photos&rpar;](https://www.space.com/spacex-gps-launch-iii-photos-january-2023)
-- [More money, more problems for crypto](https://techcrunch.com/2023/01/19/more-money-more-problems-for-crypto/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
