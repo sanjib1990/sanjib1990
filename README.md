@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [See the conjunction of Venus and Saturn in free webcast on Jan. 22](https://www.space.com/venus-saturn-free-livestream-jan-22-2023)
-- [Canada wants to support commercial space launches](https://techcrunch.com/2023/01/20/canada-wants-to-support-commercial-space-launches/)
-- [This new authority will decide the fate of astronomy atop Hawaii&#39;s contested Maunakea volcano](https://www.space.com/maunakea-stewardship-authority-astronomy-introduction)
-- [Amazon’s Music Unlimited quietly gets a price hike in the US and UK](https://techcrunch.com/2023/01/20/amazons-music-unlimited-gets-a-price-hike-in-the-us-and-uk/)
-- [1st-ever recovered US rocket stage, an artifact from Gemini 5, returns to launch site 60 years later](https://www.space.com/gemini-titan-5-recovered-stage-delivery)
+- [Microsoft joined the layoff parade. Did it really have to?](https://techcrunch.com/2023/01/20/microsoft-joined-the-layoff-parade-did-it-really-have-to/)
+- [Tiny, bright flashes on the sun could help scientists predict solar flares](https://www.space.com/sun-corona-flash-before-solar-flare)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [Netflix says it’s open to adding free streaming ‘FAST’ channels to grow its ads business](https://techcrunch.com/2023/01/20/netflix-free-streaming-fast-channels/)
+- [Why international DFIs are looking to African startups to scale impact investing efforts](https://techcrunch.com/2023/01/20/why-international-dfis-are-looking-to-african-startups-to-scale-impact-investing-efforts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
