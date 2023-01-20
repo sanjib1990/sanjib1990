@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Grazzy wants to stop letting people use ‘no cash’ as an excuse to avoid tipping](https://techcrunch.com/2023/01/20/grazzy-digital-tipping/)
+- [Astronomers capture radio signal from ancient galaxy at record-breaking distance](https://www.space.com/radio-signal-ancient-galaxy-record-breaking-distance)
 - [EU watchdogs agree on how to handle certain cookie consent dark patterns](https://techcrunch.com/2023/01/20/cookie-taskforce-report-consent-dark-patterns/)
 - [Shadow acquires Android emulation startup Genymobile](https://techcrunch.com/2023/01/20/shadow-acquires-android-emulation-startup-genymobile/)
 - [BetaFPV Pavo25 Walksnail Whoop review](https://www.space.com/betafpv-pavo25-walksnail-whoop-kit-review)
-- [Google parent Alphabet cuts 6% of its workforce impacting 12,000 people, saying it had ‘hired for a different economic reality’](https://techcrunch.com/2023/01/20/google-parent-alphabet-cuts-6-of-its-workforce-impacting-12000-people/)
-- [Watch 2 astronauts perform 1st spacewalk of 2023 on Friday](https://www.space.com/space-station-first-spacewalk-2023-webcast)
 <!-- BLOG-POST-LIST:END -->
 
 ---
