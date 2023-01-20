@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [4 investors discuss the next big wave for alternative seafood startups](https://techcrunch.com/2023/01/20/4-investors-alternative-seafood-startups/)
+- [James Webb Space Telescope&#39;s ground-breaking study of a planet-forming disk hints at future exoplanet discoveries](https://www.space.com/james-webb-photographs-dusty-disk-red-dwarf)
+- [Mars helicopter Ingenuity aces 40th Red Planet flight](https://www.space.com/mars-helicopter-ingenuity-40th-flight)
+- [GoodOnes raises to help make sense of your mess of a camera roll](https://techcrunch.com/2023/01/20/goodones/)
 - [Microsoft joined the layoff parade. Did it really have to?](https://techcrunch.com/2023/01/20/microsoft-joined-the-layoff-parade-did-it-really-have-to/)
-- [Tiny, bright flashes on the sun could help scientists predict solar flares](https://www.space.com/sun-corona-flash-before-solar-flare)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [Netflix says it’s open to adding free streaming ‘FAST’ channels to grow its ads business](https://techcrunch.com/2023/01/20/netflix-free-streaming-fast-channels/)
-- [Why international DFIs are looking to African startups to scale impact investing efforts](https://techcrunch.com/2023/01/20/why-international-dfis-are-looking-to-african-startups-to-scale-impact-investing-efforts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
