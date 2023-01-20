@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A new kind of PE fund plans to roll-up German startups into potential unicorns and bigger exits](https://techcrunch.com/2023/01/20/a-new-kind-of-pe-fund-plans-to-roll-up-german-startups-into-potential-unicorns-and-bigger-exits/)
+- [Gas, Slay, what’s next? Fire?](https://techcrunch.com/2023/01/20/gas-slay-whats-next-fire/)
+- [Coinbase and others back ex-FTX US president’s crypto trading infra startup Architect](https://techcrunch.com/2023/01/20/coinbase-and-others-back-ex-ftx-us-presidents-crypto-trading-infra-startup-architect/)
+- [Wordle clone Quordle acquired by Merriam-Webster](https://techcrunch.com/2023/01/20/wordle-clone-quordle-acquired-by-merriam-webster/)
 - [Leptons: The elementary particles explained](https://www.space.com/leptons-facts-explained)
-- [4 questions to ask when evaluating AI prototypes for bias](https://techcrunch.com/2023/01/20/4-questions-to-ask-when-evaluating-ai-prototypes-for-bias/)
-- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
-- [Grazzy wants to stop letting people use ‘no cash’ as an excuse to avoid tipping](https://techcrunch.com/2023/01/20/grazzy-digital-tipping/)
-- [Astronomers capture radio signal from ancient galaxy at record-breaking distance](https://www.space.com/radio-signal-ancient-galaxy-record-breaking-distance)
 <!-- BLOG-POST-LIST:END -->
 
 ---
