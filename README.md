@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fandom lays off employees across Giant Bomb, GameSpot and Metacritic](https://techcrunch.com/2023/01/20/fandom-lays-off-employees-across-giant-bomb-gamespot-and-metacritic/)
 - [More universities are banning TikTok from their campus networks and devices](https://techcrunch.com/2023/01/19/tiktok-college-bans-texas-bytedance/)
 - [Indian food delivery giant Swiggy to cut 380 jobs](https://techcrunch.com/2023/01/19/indian-food-delivery-giant-swiggy-to-cut-380-jobs/)
 - [Share Creators wants to solve asset management mess for game developers](https://techcrunch.com/2023/01/19/share-creators-game-media-asset-management/)
 - [Twitterrific and other clients begin offloading their apps after Twitter shuts them out](https://techcrunch.com/2023/01/19/twitterrific-tweetbot-app-store-removal-twitter-api/)
-- [DCG’s crypto-lending subsidiary Genesis files for Chapter 11 bankruptcy](https://techcrunch.com/2023/01/19/dcgs-crypto-lending-subsidiary-genesis-files-for-chapter-11-bankruptcy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
