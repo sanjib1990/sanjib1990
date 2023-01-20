@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google to cooperate with Indian authorities after losing Android antitrust ruling bid](https://techcrunch.com/2023/01/19/google-to-cooperate-with-indian-authorities-after-losing-android-antitrust-ruling-bid/)
+- [Google to cooperate with Indian authorities after losing bid to block Android antitrust ruling](https://techcrunch.com/2023/01/19/google-to-cooperate-with-indian-authorities-after-losing-android-antitrust-ruling-bid/)
 - [A $32 million seed round for Chris DeWolfe’s next gaming biz defies 2023 trends](https://techcrunch.com/2023/01/19/a-32-million-seed-round-for-chris-dewolfes-next-gaming-biz-defies-2023-trends/)
 - [Twitter officially bans third-party clients after cutting off prominent devs](https://techcrunch.com/2023/01/19/twitter-officially-bans-third-party-clients-after-cutting-off-prominent-devs/)
 - [Daily Crunch: Amazon cancels charitable donation initiative so it can focus on ‘programs with greater impact’](https://techcrunch.com/2023/01/19/daily-crunch-amazon-cancels-charitable-donation-initiative-so-it-can-focus-on-programs-with-greater-impact/)
