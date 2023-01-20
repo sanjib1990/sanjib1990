@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA astronaut and 2 cosmonauts may stay on space station for a full year after Soyuz leak](https://www.space.com/international-space-station-3-astronauts-stay-full-year)
+- [SpaceX astronaut missions for NASA: Crew-5 updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates)
+- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
 - [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
 - [Debunking the myths of why venture investors don’t fund diverse startups](https://techcrunch.com/2023/01/20/debunking-the-myths-of-why-venture-investors-dont-fund-diverse-startups/)
-- [This wild DARPA CRANE X-plane could be a giant leap in aircraft design](https://www.space.com/darpa-crane-x-plane-active-flow-control)
-- [Spacewalking astronauts hit snags installing new solar array mount outside space station](https://www.space.com/astronauts-spacewalk-international-space-station-solar-array-mounts)
-- [Thoma Bravo agrees to acquire digital forensics firm Magnet Forensics for over $1B](https://techcrunch.com/2023/01/20/thoma-bravo-agrees-to-acquire-digital-forensics-firm-magnet-forensics-for-over-1b/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
