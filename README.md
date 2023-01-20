@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch 2 astronauts perform 1st spacewalk of 2023 on Friday](https://www.space.com/space-station-first-spacewalk-2023-webcast)
+- [Star survives spaghettification by black hole](https://www.space.com/star-surviving-being-eaten-by-black-hole)
 - [Twitter puts more emphasis on the bookmark feature on iOS](https://techcrunch.com/2023/01/20/twitter-puts-more-emphasis-on-the-bookmark-feature-on-ios/)
 - [India releases guidelines for social media influencers accepting paid promotions](https://techcrunch.com/2023/01/20/india-social-media-influencers-guidelines/)
 - [Fandom lays off employees across Giant Bomb, GameSpot and Metacritic](https://techcrunch.com/2023/01/20/fandom-lays-off-employees-across-giant-bomb-gamespot-and-metacritic/)
-- [More universities are banning TikTok from their campus networks and devices](https://techcrunch.com/2023/01/19/tiktok-college-bans-texas-bytedance/)
-- [Indian food delivery giant Swiggy to cut 380 jobs](https://techcrunch.com/2023/01/19/indian-food-delivery-giant-swiggy-to-cut-380-jobs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
