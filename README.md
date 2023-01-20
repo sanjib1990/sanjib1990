@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon’s Music Unlimited quietly gets a price hike in the U.S. and U.K.](https://techcrunch.com/2023/01/20/amazons-music-unlimited-gets-a-price-hike-in-the-us-and-uk/)
+- [Canada wants to support commercial space launches](https://techcrunch.com/2023/01/20/canada-wants-to-support-commercial-space-launches/)
+- [This new authority will decide the fate of astronomy atop Hawaii&#39;s contested Maunakea volcano](https://www.space.com/maunakea-stewardship-authority-astronomy-introduction)
+- [Amazon’s Music Unlimited quietly gets a price hike in the US and UK](https://techcrunch.com/2023/01/20/amazons-music-unlimited-gets-a-price-hike-in-the-us-and-uk/)
 - [1st-ever recovered US rocket stage, an artifact from Gemini 5, returns to launch site 60 years later](https://www.space.com/gemini-titan-5-recovered-stage-delivery)
-- [A new kind of PE fund plans to roll-up German startups into potential unicorns and bigger exits](https://techcrunch.com/2023/01/20/a-new-kind-of-pe-fund-plans-to-roll-up-german-startups-into-potential-unicorns-and-bigger-exits/)
-- [Gas, Slay, what’s next? Fire?](https://techcrunch.com/2023/01/20/gas-slay-whats-next-fire/)
-- [SpaceX and NASA targeting Feb. 26 for Crew-6 astronaut launch](https://www.space.com/spacex-nasa-crew-6-launch-february-26)
+- [A new kind of PE fund plans to roll up German startups into potential unicorns and bigger exits](https://techcrunch.com/2023/01/20/a-new-kind-of-pe-fund-plans-to-roll-up-german-startups-into-potential-unicorns-and-bigger-exits/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
