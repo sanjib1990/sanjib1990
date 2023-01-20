@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [EU watchdogs agree on how to handle certain cookie consent dark patterns](https://techcrunch.com/2023/01/20/cookie-taskforce-report-consent-dark-patterns/)
+- [Shadow acquires Android emulation startup Genymobile](https://techcrunch.com/2023/01/20/shadow-acquires-android-emulation-startup-genymobile/)
+- [BetaFPV Pavo25 Walksnail Whoop review](https://www.space.com/betafpv-pavo25-walksnail-whoop-kit-review)
+- [Google parent Alphabet cuts 6% of its workforce impacting 12,000 people, saying it had ‘hired for a different economic reality’](https://techcrunch.com/2023/01/20/google-parent-alphabet-cuts-6-of-its-workforce-impacting-12000-people/)
 - [Watch 2 astronauts perform 1st spacewalk of 2023 on Friday](https://www.space.com/space-station-first-spacewalk-2023-webcast)
-- [Star survives spaghettification by black hole](https://www.space.com/star-surviving-being-eaten-by-black-hole)
-- [Twitter puts more emphasis on the bookmark feature on iOS](https://techcrunch.com/2023/01/20/twitter-puts-more-emphasis-on-the-bookmark-feature-on-ios/)
-- [India releases guidelines for social media influencers accepting paid promotions](https://techcrunch.com/2023/01/20/india-social-media-influencers-guidelines/)
-- [Fandom lays off employees across Giant Bomb, GameSpot and Metacritic](https://techcrunch.com/2023/01/20/fandom-lays-off-employees-across-giant-bomb-gamespot-and-metacritic/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
