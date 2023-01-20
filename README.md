@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A $32 million seed round for Chris DeWolfe’s next gaming biz defies 2023 trends](https://techcrunch.com/2023/01/19/a-32-million-seed-round-for-chris-dewolfes-next-gaming-biz-defies-2023-trends/)
 - [Twitter officially bans third-party clients after cutting off prominent devs](https://techcrunch.com/2023/01/19/twitter-officially-bans-third-party-clients-after-cutting-off-prominent-devs/)
 - [Daily Crunch: Amazon cancels charitable donation initiative so it can focus on ‘programs with greater impact’](https://techcrunch.com/2023/01/19/daily-crunch-amazon-cancels-charitable-donation-initiative-so-it-can-focus-on-programs-with-greater-impact/)
 - [T-Mobile says hacker accessed personal data of 37 million customers](https://techcrunch.com/2023/01/19/t-mobile-data-breach/)
 - [Copilot lands $10M to help service businesses build digital customer experiences](https://techcrunch.com/2023/01/19/copilot-lands-10m-to-help-service-businesses-build-digital-customer-experiences/)
-- [Dungeons &amp; Dragons’ publisher will put the game under a Creative Commons license](https://techcrunch.com/2023/01/19/dungeons-dragons-creative-commons/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
