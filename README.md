@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Venus will steal the show in the night sky throughout 2023](https://www.space.com/venus-night-sky-steal-show-2023)
+- [5 things we want to see in The Mandalorian Season 3](https://www.space.com/5-things-we-want-to-see-in-the-mandalorian-season-3)
 - [The new moon is the closest in nearly 1,000 years tonight](https://www.space.com/new-moon-closest-1000-years-jan-21-2023)
 - [Scientists find 17-pound meteorite in icy Antarctica](https://www.space.com/antartica-meteorite-discovered-17-pounds)
 - [Area 120, Google’s in-house incubator, severely impacted by Alphabet mass layoffs](https://techcrunch.com/2023/01/20/area-120-googles-in-house-incubator-severely-impacted-by-alphabet-mass-layoffs/)
-- [Daily Crunch: Alphabet CEO lays off 12,000 people, says company ‘hired for a different economic reality’](https://techcrunch.com/2023/01/20/daily-crunch-alphabet-ceo-lays-off-12000-people-says-company-hired-for-a-different-economic-reality/)
-- [&#39;Tron 3&#39; finally moving forward, with Jared Leto set to star: report](https://www.space.com/tron-3-moving-forward-jared-leto-star)
 <!-- BLOG-POST-LIST:END -->
 
 ---
