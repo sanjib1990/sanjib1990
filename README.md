@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft is sunsetting social VR pioneer AltspaceVR](https://techcrunch.com/2023/01/21/rip-altspace-vr-microsoft/)
 - [A hack at ODIN Intelligence exposes a huge trove of police raid files](https://techcrunch.com/2023/01/21/odin-intelligence-breach-police-surveillance/)
 - [Alphabet makes cuts, Twitter bans third-party clients, and Netflix’s Reed Hastings steps down](https://techcrunch.com/2023/01/21/alphabet-makes-cuts-twitter-bans-third-party-clients-and-netflixs-reed-hastings-steps-down/)
 - [Tech forgot its umbrella](https://techcrunch.com/2023/01/21/tech-forgot-its-umbrella/)
 - [This Week in Apps: Twitter kills third-party apps, Instagram adds Quiet Mode, Google’s antitrust trial gets a date](https://techcrunch.com/2023/01/21/this-week-in-apps-twitter-kills-third-party-apps-instagram-adds-quiet-mode-googles-antitrust-trial-gets-a-date/)
-- [Elon Musk admits Twitter has too many ads, says fix is coming](https://techcrunch.com/2023/01/21/elon-musk-admits-twitter-has-too-many-ads-says-fix-is-coming/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
