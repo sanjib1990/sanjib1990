@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Area 120, Google’s in-house incubator, severely impacted by Alphabet mass layoffs](https://techcrunch.com/2023/01/20/area-120-googles-in-house-incubator-severely-impacted-by-alphabet-mass-layoffs/)
 - [Daily Crunch: Alphabet CEO lays off 12,000 people, says company ‘hired for a different economic reality’](https://techcrunch.com/2023/01/20/daily-crunch-alphabet-ceo-lays-off-12000-people-says-company-hired-for-a-different-economic-reality/)
 - [&#39;Tron 3&#39; finally moving forward, with Jared Leto set to star: report](https://www.space.com/tron-3-moving-forward-jared-leto-star)
 - [Court to decide if Elon Musk is careless or criminal, and other TC news](https://techcrunch.com/2023/01/20/court-to-decide-if-elon-musk-is-careless-or-criminal-and-other-tc-news/)
 - [NASA astronaut and 2 cosmonauts may stay on space station for a full year after Soyuz leak](https://www.space.com/international-space-station-3-astronauts-stay-full-year)
-- [SpaceX astronaut missions for NASA: Crew-5 updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
