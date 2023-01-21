@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Protect me from what I want](https://techcrunch.com/2023/01/21/protect-me-from-what-i-want/)
 - [TikTok’s ‘corecore’ is the latest iteration of absurdist meme art](https://techcrunch.com/2023/01/21/tiktoks-corecore-is-the-latest-iteration-of-absurdist-meme-art/)
 - [India blocks YouTube videos and Twitter posts on BBC Modi documentary](https://techcrunch.com/2023/01/21/india-blocks-youtube-videos-and-twitter-posts-on-bbc-modi-documentary/)
 - [Rocket operators can now apply to launch to orbit from Canadian soil](https://www.space.com/canada-orbital-launches-60-years-after-alouette)
 - [Venus will steal the show in the night sky throughout 2023](https://www.space.com/venus-night-sky-steal-show-2023)
-- [5 things we want to see in The Mandalorian Season 3](https://www.space.com/5-things-we-want-to-see-in-the-mandalorian-season-3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
