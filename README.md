@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tech forgot its umbrella](https://techcrunch.com/2023/01/21/tech-forgot-its-umbrella/)
+- [This Week in Apps: Twitter kills third-party apps, Instagram adds Quiet Mode, Google’s antitrust trial gets a date](https://techcrunch.com/2023/01/21/this-week-in-apps-twitter-kills-third-party-apps-instagram-adds-quiet-mode-googles-antitrust-trial-gets-a-date/)
+- [Elon Musk admits Twitter has too many ads, says fix is coming](https://techcrunch.com/2023/01/21/elon-musk-admits-twitter-has-too-many-ads-says-fix-is-coming/)
 - [Protect me from what I want](https://techcrunch.com/2023/01/21/protect-me-from-what-i-want/)
 - [TikTok’s ‘corecore’ is the latest iteration of absurdist meme art](https://techcrunch.com/2023/01/21/tiktoks-corecore-is-the-latest-iteration-of-absurdist-meme-art/)
-- [India blocks YouTube videos and Twitter posts on BBC Modi documentary](https://techcrunch.com/2023/01/21/india-blocks-youtube-videos-and-twitter-posts-on-bbc-modi-documentary/)
-- [Rocket operators can now apply to launch to orbit from Canadian soil](https://www.space.com/canada-orbital-launches-60-years-after-alouette)
-- [Venus will steal the show in the night sky throughout 2023](https://www.space.com/venus-night-sky-steal-show-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
