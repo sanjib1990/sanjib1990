@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India blocks YouTube videos and Twitter posts on BBC Modi documentary](https://techcrunch.com/2023/01/21/india-blocks-youtube-videos-and-twitter-posts-on-bbc-modi-documentary/)
 - [Rocket operators can now apply to launch to orbit from Canadian soil](https://www.space.com/canada-orbital-launches-60-years-after-alouette)
 - [Venus will steal the show in the night sky throughout 2023](https://www.space.com/venus-night-sky-steal-show-2023)
 - [5 things we want to see in The Mandalorian Season 3](https://www.space.com/5-things-we-want-to-see-in-the-mandalorian-season-3)
 - [The new moon is the closest in nearly 1,000 years tonight](https://www.space.com/new-moon-closest-1000-years-jan-21-2023)
-- [Scientists find 17-pound meteorite in icy Antarctica](https://www.space.com/antartica-meteorite-discovered-17-pounds)
 <!-- BLOG-POST-LIST:END -->
 
 ---
