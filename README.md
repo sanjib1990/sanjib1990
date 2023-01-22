@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [We certainly don’t need a repeat of last year](https://techcrunch.com/2023/01/22/fintech-the-interchange-we-certainly-dont-need-a-repeat-of-last-year/)
 - [Climate tech roundup: Food waste, wastewater, and the UK’s troubled battery industry](https://techcrunch.com/2023/01/22/climate-tech-roundup-food-waste-wastewater-and-the-uks-troubled-battery-industry/)
 - [Google celebrates Lunar New Year 2023 with Year of the Rabbit doodle](https://www.space.com/lunar-new-year-2023-google-doodles)
 - [What are the Artemis Accords?](https://www.space.com/artemis-accords-explained)
 - [Lunar New Year 2023 launches the Year of the Rabbit](https://www.space.com/lunar-new-year-2023-year-of-the-rabbit)
-- [NASA scientist explains why Venus is Earth&#39;s &#39;evil twin&#39; &lpar;video&rpar;](https://www.space.com/venus-earth-evil-twin-nasa-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
