@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lunar New Year 2023 launches the Year of the Rabbit](https://www.space.com/lunar-new-year-2023-year-of-the-rabbit)
+- [NASA scientist explains why Venus is Earth&#39;s &#39;evil twin&#39; &lpar;video&rpar;](https://www.space.com/venus-earth-evil-twin-nasa-video)
+- [Don&#39;t miss Saturn and Venus together in the night sky tonight](https://www.space.com/venus-saturn-conjunction-tonight-jan-22-2023)
 - [Microsoft is sunsetting social VR pioneer AltspaceVR](https://techcrunch.com/2023/01/21/rip-altspace-vr-microsoft/)
 - [A hack at ODIN Intelligence exposes a huge trove of police raid files](https://techcrunch.com/2023/01/21/odin-intelligence-breach-police-surveillance/)
-- [Alphabet makes cuts, Twitter bans third-party clients, and Netflix’s Reed Hastings steps down](https://techcrunch.com/2023/01/21/alphabet-makes-cuts-twitter-bans-third-party-clients-and-netflixs-reed-hastings-steps-down/)
-- [Tech forgot its umbrella](https://techcrunch.com/2023/01/21/tech-forgot-its-umbrella/)
-- [This Week in Apps: Twitter kills third-party apps, Instagram adds Quiet Mode, Google’s antitrust trial gets a date](https://techcrunch.com/2023/01/21/this-week-in-apps-twitter-kills-third-party-apps-instagram-adds-quiet-mode-googles-antitrust-trial-gets-a-date/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
