@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Zenfi takes in new funding to bring Mexicans some financial peace](https://techcrunch.com/2023/01/23/zenfi-mexico-financial-health/)
-- [Failures are valuable IP: Protect your startup’s negative trade secrets](https://techcrunch.com/2023/01/23/failures-are-valuable-ip-protect-your-startups-negative-trade-secrets/)
-- [&#39;Little hurricanes&#39; around young stars can help astronomers measure and infant exoplanets](https://www.space.com/exoplanet-weight-from-little-hurricanes)
-- [Zeekr goes on a hiring spree, Tesla kicks off a price war and Hesai files for an IPO](https://techcrunch.com/2023/01/23/zeekr-goes-on-a-hiring-spree-tesla-kicks-off-a-price-war-and-hesai-files-for-an-ipo/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [Review: The 2023 Mac Mini is a serious contender with the M2 Pro](https://techcrunch.com/2023/01/23/2023-mac-mini-m2-m2-pro-review/)
+- [Forspoken review: Square-Enix’s risky new IP arrives half-baked](https://techcrunch.com/2023/01/23/forspoken-review-square-enixs-risky-new-ip-arrives-half-baked/)
+- [Apple MacBook Pro 14-inch M2 Max review](https://techcrunch.com/2023/01/23/apple-macbook-pro-14-inch-m2-max-review/)
+- [Germany is looking into PayPal’s terms for merchants](https://techcrunch.com/2023/01/23/paypal-germany-fco-proceeding/)
+- [India central bank orders SBM local unit to stop outward remittance transactions](https://techcrunch.com/2023/01/23/india-central-bank-orders-sbm-local-unit-to-stop-outward-remittance-transactions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
