@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [2 massive &#39;active regions&#39; on the sun have rotated into Earth&#39;s view](https://www.space.com/sun-active-regions-facing-earth-january-2023)
-- [Bresser Junior Astro Planetarium Deluxe star projector review](https://www.space.com/bresser-junior-astro-planetarium-deluxe-star-projector-review)
-- [Rocket Lab now targeting Jan. 24 for 1st-ever launch from US. Here&#39;s how to watch live.](https://www.space.com/rocket-lab-first-us-launch-january-24)
-- [Shopping app Temu is using TikTok’s strategy to keep its No. 1 spot on App Store](https://techcrunch.com/2023/01/23/shopping-app-temu-is-using-tiktoks-strategy-to-keep-its-no-1-spot-on-app-store/)
-- [With Starship testing, SpaceX moves one step closer to making science fiction a reality](https://techcrunch.com/2023/01/23/with-starship-testing-spacex-moves-one-step-closer-to-making-science-fiction-a-reality/)
+- [Daily Crunch: Days after announcing plans to cut 10K jobs, Microsoft invests billions more in OpenAI](https://techcrunch.com/2023/01/23/daily-crunch-days-after-announcing-plans-to-cut-10k-jobs-microsoft-invests-billions-more-in-openai/)
+- [Hidden, never-before-seen penguin colony spotted from space](https://www.space.com/satellites-reveal-emperor-penguin-colony-antarctica)
+- [Max Q: Things are tough out there](https://techcrunch.com/2023/01/23/max-q-things-are-tough-out-there/)
+- [United Launch Alliance&#39;s 1st Vulcan Centaur rocket arrives in Florida for debut flight](https://www.space.com/first-vulcan-centaur-rocket-arrives-cape-canaveral)
+- [Construction robotics firm Kewazo raises $10 million](https://techcrunch.com/2023/01/23/construction-robotics-firm-kewazo-raises-10-million/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
