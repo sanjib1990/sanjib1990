@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Zeekr goes on a hiring spree, Tesla kicks off a price war and Hesai files for an IPO](https://techcrunch.com/2023/01/23/zeekr-goes-on-a-hiring-spree-tesla-kicks-off-a-price-war-and-hesai-files-for-an-ipo/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [Arrakhis: The tiny satellite aiming to reveal what dark matter is made of](https://www.space.com/arrakhis-dark-matter-tiny-european-satellite)
 - [Don&#39;t miss the moon eclipse Mars next week on Monday &lpar;Jan. 30&rpar;](https://www.space.com/moon-mars-eclipse-lunar-occultation-jan-30-2023)
 - [Twitter is now accepting Community Notes contributions from four more countries](https://techcrunch.com/2023/01/22/twitter-is-now-accepting-community-notes-contributions-from-four-more-countries/)
-- [Amazon launches freight service Air in India](https://techcrunch.com/2023/01/22/amazon-air-india-launch/)
-- [Save $80 on the Ultimate Collector Series Lego Millennium Falcon set](https://www.space.com/ucs-millennium-falcon-deal-save-80-dollars-january-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
