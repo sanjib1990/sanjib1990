@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The FTC fines HomeAdvisor up to $7.2M for lying about lead quality and other matters](https://techcrunch.com/2023/01/23/the-ftc-fines-homeadvisor-up-to-7-2m-for-lying-about-lead-quality-and-other-matters/)
+- [Messenger ramps up testing of default end-to-end encryption](https://techcrunch.com/2023/01/23/messenger-ramps-up-testing-of-default-end-to-end-encryption/)
+- [Remote work revolution helps Deel reach $295M in ARR](https://techcrunch.com/2023/01/23/remote-work-revolution-helps-deel-reach-295m-in-arr/)
+- [Bling Capital-backed Coverdash unveils its embedded, digital insurance for small businesses](https://techcrunch.com/2023/01/23/bling-capital-coverdash-insurtech/)
 - [Mega-constellations, rockets and supersonic aircraft could thwart ozone layer&#39;s recovery](https://www.space.com/supersonic-aviation-megaconstellations-new-threats-ozone)
-- [HubSpot co-founder Shah backs Peerlist for a new take on professional networking](https://techcrunch.com/2023/01/23/hubspot-dharmesh-shah-peerlist-investment-linkedin-alternative/)
-- [See Mercury at its highest point in the sky Tuesday morning &lpar;Jan. 24&rpar;](https://www.space.com/mercury-highest-altitude-jan-24-2023)
-- [Netflix teams up with Bumble so users can bond over popular TV shows](https://techcrunch.com/2023/01/23/netflix-teams-up-with-bumble/)
-- [No rest for Salesforce as activist investor Elliott Management takes multibillion stake in company](https://techcrunch.com/2023/01/23/no-rest-for-salesforce-as-activist-investor-elliott-management-takes-multibillion-stake-in-company/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
