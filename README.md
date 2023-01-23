@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Babylist makes an even bigger bet on baby products with Expectful acquisition](https://techcrunch.com/2023/01/23/babylist-makes-an-even-bigger-bet-on-baby-products-with-expectful-acquisition/)
+- [Cowboy Ventures goes bigger, with $260M across two new funds, including an opportunity fund](https://techcrunch.com/2023/01/23/cowboy-ventures-goes-bigger-with-260m-across-two-new-funds-including-an-opportunity-fund/)
+- [McKinsey, eyeing the MLOps space, buys Tel Aviv-based Iguazio](https://techcrunch.com/2023/01/23/mckinsey-eyeing-the-mlops-space-buys-tel-aviv-based-iguazio/)
+- [All that VC dry powder is damper than you think](https://techcrunch.com/2023/01/23/all-that-vc-dry-powder-is-damper-than-you-think/)
 - [How to see green comet C/2022 E3 &lpar;ZTF&rpar; as it approaches Earth](https://www.space.com/comet-c2022-e3-ztf-how-to-see-approach-earth)
-- [Astronauts ring in Chinese New Year on Tiangong space station](https://www.space.com/chinese-new-year-tiangong-space-station-astronauts)
-- [TechCrunch Live is back with top founders and investors, and you get to ask the questions each week](https://techcrunch.com/2023/01/23/techcrunch-live-is-back-with-top-founders-and-investors-and-you-get-to-ask-the-questions-each-week/)
-- [Meta expands its partnership with the NBA to offer 52 games in VR](https://techcrunch.com/2023/01/23/meta-partnership-nba-offer-52-games-vr/)
-- [Apollo 11&#39;s Buzz Aldrin and new wife over the moon with wedding, &#39;as excited as eloping teenagers&#39;](https://www.space.com/apollo-11-moonwalker-buzz-aldrin-marriage-anca-faur)
 <!-- BLOG-POST-LIST:END -->
 
 ---
