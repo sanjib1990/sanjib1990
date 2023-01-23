@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mega-constellations, rockets and supersonic aircraft could thwart ozone layer&#39;s recovery](https://www.space.com/supersonic-aviation-megaconstellations-new-threats-ozone)
+- [HubSpot co-founder Shah backs Peerlist for a new take on professional networking](https://techcrunch.com/2023/01/23/hubspot-dharmesh-shah-peerlist-investment-linkedin-alternative/)
 - [See Mercury at its highest point in the sky Tuesday morning &lpar;Jan. 24&rpar;](https://www.space.com/mercury-highest-altitude-jan-24-2023)
 - [Netflix teams up with Bumble so users can bond over popular TV shows](https://techcrunch.com/2023/01/23/netflix-teams-up-with-bumble/)
 - [No rest for Salesforce as activist investor Elliott Management takes multibillion stake in company](https://techcrunch.com/2023/01/23/no-rest-for-salesforce-as-activist-investor-elliott-management-takes-multibillion-stake-in-company/)
-- [Microsoft invests billions more dollars in OpenAI, extends partnership](https://techcrunch.com/2023/01/23/microsoft-invests-billions-more-dollars-in-openai-extends-partnership/)
-- [Review: The 2023 Mac Mini is a serious contender with the M2 Pro](https://techcrunch.com/2023/01/23/2023-mac-mini-m2-m2-pro-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
