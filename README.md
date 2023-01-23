@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rocket Lab now targeting Jan. 24 for 1st-ever launch from US](https://www.space.com/rocket-lab-first-us-launch-january-24)
+- [Shopping app Temu is using TikTok’s strategy to keep its No. 1 spot on App Store](https://techcrunch.com/2023/01/23/shopping-app-temu-is-using-tiktoks-strategy-to-keep-its-no-1-spot-on-app-store/)
+- [With Starship testing, SpaceX moves one step closer to making science fiction a reality](https://techcrunch.com/2023/01/23/with-starship-testing-spacex-moves-one-step-closer-to-making-science-fiction-a-reality/)
 - [Babylist makes an even bigger bet on baby products with Expectful acquisition](https://techcrunch.com/2023/01/23/babylist-makes-an-even-bigger-bet-on-baby-products-with-expectful-acquisition/)
 - [Cowboy Ventures goes bigger, with $260M across two new funds, including an opportunity fund](https://techcrunch.com/2023/01/23/cowboy-ventures-goes-bigger-with-260m-across-two-new-funds-including-an-opportunity-fund/)
-- [McKinsey, eyeing the MLOps space, buys Tel Aviv-based Iguazio](https://techcrunch.com/2023/01/23/mckinsey-eyeing-the-mlops-space-buys-tel-aviv-based-iguazio/)
-- [All that VC dry powder is damper than you think](https://techcrunch.com/2023/01/23/all-that-vc-dry-powder-is-damper-than-you-think/)
-- [How to see green comet C/2022 E3 &lpar;ZTF&rpar; as it approaches Earth](https://www.space.com/comet-c2022-e3-ztf-how-to-see-approach-earth)
 <!-- BLOG-POST-LIST:END -->
 
 ---
