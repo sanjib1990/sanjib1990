@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Rocket Lab now targeting Jan. 24 for 1st-ever launch from US](https://www.space.com/rocket-lab-first-us-launch-january-24)
+- [2 massive &#39;active regions&#39; on the sun have rotated into Earth&#39;s view](https://www.space.com/sun-active-regions-facing-earth-january-2023)
+- [Bresser Junior Astro Planetarium Deluxe star projector review](https://www.space.com/bresser-junior-astro-planetarium-deluxe-star-projector-review)
+- [Rocket Lab now targeting Jan. 24 for 1st-ever launch from US. Here&#39;s how to watch live.](https://www.space.com/rocket-lab-first-us-launch-january-24)
 - [Shopping app Temu is using TikTok’s strategy to keep its No. 1 spot on App Store](https://techcrunch.com/2023/01/23/shopping-app-temu-is-using-tiktoks-strategy-to-keep-its-no-1-spot-on-app-store/)
 - [With Starship testing, SpaceX moves one step closer to making science fiction a reality](https://techcrunch.com/2023/01/23/with-starship-testing-spacex-moves-one-step-closer-to-making-science-fiction-a-reality/)
-- [Babylist makes an even bigger bet on baby products with Expectful acquisition](https://techcrunch.com/2023/01/23/babylist-makes-an-even-bigger-bet-on-baby-products-with-expectful-acquisition/)
-- [Cowboy Ventures goes bigger, with $260M across two new funds, including an opportunity fund](https://techcrunch.com/2023/01/23/cowboy-ventures-goes-bigger-with-260m-across-two-new-funds-including-an-opportunity-fund/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
