@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Zenfi takes in new funding to bring Mexicans some financial peace](https://techcrunch.com/2023/01/23/zenfi-mexico-financial-health/)
+- [Failures are valuable IP: Protect your startup’s negative trade secrets](https://techcrunch.com/2023/01/23/failures-are-valuable-ip-protect-your-startups-negative-trade-secrets/)
+- [&#39;Little hurricanes&#39; around young stars can help astronomers measure and infant exoplanets](https://www.space.com/exoplanet-weight-from-little-hurricanes)
 - [Zeekr goes on a hiring spree, Tesla kicks off a price war and Hesai files for an IPO](https://techcrunch.com/2023/01/23/zeekr-goes-on-a-hiring-spree-tesla-kicks-off-a-price-war-and-hesai-files-for-an-ipo/)
 - [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [Arrakhis: The tiny satellite aiming to reveal what dark matter is made of](https://www.space.com/arrakhis-dark-matter-tiny-european-satellite)
-- [Don&#39;t miss the moon eclipse Mars next week on Monday &lpar;Jan. 30&rpar;](https://www.space.com/moon-mars-eclipse-lunar-occultation-jan-30-2023)
-- [Twitter is now accepting Community Notes contributions from four more countries](https://techcrunch.com/2023/01/22/twitter-is-now-accepting-community-notes-contributions-from-four-more-countries/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
