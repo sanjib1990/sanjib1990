@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The FTC fines HomeAdvisor up to $7.2M for lying about lead quality and other matters](https://techcrunch.com/2023/01/23/the-ftc-fines-homeadvisor-up-to-7-2m-for-lying-about-lead-quality-and-other-matters/)
-- [Messenger ramps up testing of default end-to-end encryption](https://techcrunch.com/2023/01/23/messenger-ramps-up-testing-of-default-end-to-end-encryption/)
-- [Remote work revolution helps Deel reach $295M in ARR](https://techcrunch.com/2023/01/23/remote-work-revolution-helps-deel-reach-295m-in-arr/)
-- [Bling Capital-backed Coverdash unveils its embedded, digital insurance for small businesses](https://techcrunch.com/2023/01/23/bling-capital-coverdash-insurtech/)
-- [Mega-constellations, rockets and supersonic aircraft could thwart ozone layer&#39;s recovery](https://www.space.com/supersonic-aviation-megaconstellations-new-threats-ozone)
+- [How to see green comet C/2022 E3 &lpar;ZTF&rpar; as it approaches Earth](https://www.space.com/comet-c2022-e3-ztf-how-to-see-approach-earth)
+- [Astronauts ring in Chinese New Year on Tiangong space station](https://www.space.com/chinese-new-year-tiangong-space-station-astronauts)
+- [TechCrunch Live is back with top founders and investors, and you get to ask the questions each week](https://techcrunch.com/2023/01/23/techcrunch-live-is-back-with-top-founders-and-investors-and-you-get-to-ask-the-questions-each-week/)
+- [Meta expands its partnership with the NBA to offer 52 games in VR](https://techcrunch.com/2023/01/23/meta-partnership-nba-offer-52-games-vr/)
+- [Apollo 11&#39;s Buzz Aldrin and new wife over the moon with wedding, &#39;as excited as eloping teenagers&#39;](https://www.space.com/apollo-11-moonwalker-buzz-aldrin-marriage-anca-faur)
 <!-- BLOG-POST-LIST:END -->
 
 ---
