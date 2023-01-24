@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Accord, which offers a platform to manage sales processes, secures $10M](https://techcrunch.com/2023/01/24/accord-which-offers-a-platform-to-manage-sales-processes-secures-10m/)
-- [DevZero speeds up programmer tasks by shifting developer tools to cloud](https://techcrunch.com/2023/01/24/devzero-speeds-up-developer-tasks-by-moving-developer-environment-to-cloud/)
-- [Sunfish’s technology wants to bring affordability to assisted reproduction](https://techcrunch.com/2023/01/24/sunfishs-technology-wants-to-bring-affordability-to-assisted-reproduction/)
-- [Garmin launches a new FDA-cleared ECG app for the Venu 2 Plus](https://techcrunch.com/2023/01/24/garmin-new-fda-cleared-ecg-app-venu-2-plus/)
-- [Watch Rocket Lab launch Electron from U.S. soil for the first time](https://techcrunch.com/2023/01/24/watch-rocket-lab-launch-electron-from-u-s-soil-for-the-first-time/)
+- [TechCrunch+ roundup: Deep tech fundraising, negative trade secrets, 3 metrics investors love](https://techcrunch.com/2023/01/24/techcrunch-roundup-deep-tech-fundraising-negative-trade-secrets-3-metrics-investors-love/)
+- [U.S. officially sues Google, claiming it has a digital ad monopoly](https://techcrunch.com/2023/01/24/u-s-officially-sues-google-claiming-it-has-a-digital-ad-monopoly/)
+- [Wow! Iceberg larger than London breaks off Antarctica &lpar;photos&rpar;](https://www.space.com/iceberg-size-of-london-breaks-off-antarctic-ice-shelf)
+- [Despite 2022’s headwinds, women’s health startups did better than ever before](https://techcrunch.com/2023/01/24/despite-2022s-headwinds-womens-health-startups-did-better-than-ever-before/)
+- [Nikon Prostaff P3 8x42 binocular review](https://www.space.com/nikon-prostaff-p3-8x42-binocular-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
