@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Web3 gaming needs to focus on sustainable economies, Immutable co-founder says](https://techcrunch.com/2023/01/24/web3-gaming-needs-to-focus-on-sustainable-economies-immutable-co-founder-says/)
-- [Honda is setting up a dedicated EV division](https://techcrunch.com/2023/01/24/honda-is-setting-up-a-dedicated-ev-division/)
-- [Opportunistic investors are giving up on aging pre-IPO companies, shows a new report](https://techcrunch.com/2023/01/24/opportunistic-investors-are-giving-up-on-aging-pre-ipo-companies-shows-a-new-report/)
-- [Instagram’s new dynamic profile photo flips between your picture and avatar](https://techcrunch.com/2023/01/24/instagrams-new-dynamic-profile-photo-flips-between-image-avatar/)
-- [Tapbots launches a new Mastodon client, Ivory, after Twitter kills its Tweetbot app](https://techcrunch.com/2023/01/24/tapbots-launches-a-new-mastodon-client-ivory-after-twitter-kills-its-tweetbot-app/)
+- [How has Earth&#39;s core stayed as hot as the sun&#39;s surface for billions of years?](https://www.space.com/how-has-earths-core-stayed-as-hot-as-the-suns-surface-for-billions-of-years)
+- [Hear how Cambly found profits after failing to raise a Series A on TechCrunch Live](https://techcrunch.com/2023/01/24/hear-how-cambly-found-profits-after-failing-to-raise-a-series-a-on-techcrunch-live/)
+- [Senate questions Live Nation president amid Taylor Swift ticketing debacle](https://techcrunch.com/2023/01/24/senate-questions-live-nation-president-amid-taylor-swift-ticketing-debacle/)
+- [Task force proposes new federal AI research outfit with $2.6B in funding](https://techcrunch.com/2023/01/24/task-force-proposes-new-federal-ai-research-outfit-with-2-6b-in-funding/)
+- [Consumer advocacy groups want Walmart’s Roblox game audited for ‘stealth marketing’ to kids](https://techcrunch.com/2023/01/24/consumer-advocacy-groups-want-walmarts-roblox-game-audited-for-stealth-marketing-to-kids/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
