@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [All Raise CEO steps down again](https://techcrunch.com/2023/01/24/all-raise-ceo-steps-down-again/)
+- [YouTube unveils new program that enables students to earn college credits](https://techcrunch.com/2023/01/24/youtube-program-enables-students-earn-college-credits/)
+- [Another All Raise CEO steps down](https://techcrunch.com/2023/01/24/all-raise-ceo-steps-down-again/)
 - [Perseverance Mars rover&#39;s samples will be curated at new NASA office in Houston](https://www.space.com/nasa-creates-mars-sample-receiving-project-office)
 - [Crypto recruiters see opportunity to snatch up talent amid Big Tech layoffs](https://techcrunch.com/2023/01/24/crypto-recruiters-see-opportunity-to-snatch-up-talent-amid-big-tech-layoffs/)
 - [Riot Games hack could help cheaters](https://techcrunch.com/2023/01/24/riot-games-hack-cheaters/)
-- [How has Earth&#39;s core stayed as hot as the sun&#39;s surface for billions of years?](https://www.space.com/how-has-earths-core-stayed-as-hot-as-the-suns-surface-for-billions-of-years)
 <!-- BLOG-POST-LIST:END -->
 
 ---
