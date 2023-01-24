@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Kind Snacks founder Daniel Lubetzky begins new ‘journey’ with Camino Partners](https://techcrunch.com/2023/01/24/kind-bar-daniel-lubetzky-camino-partners/)
-- [FBI accuses North Korean government hackers of stealing $100M in Harmony bridge theft](https://techcrunch.com/2023/01/24/north-korea-fbi-harmony-horizon-crypto/)
-- [Metrics that matter: 3 KPIs to track on the path to profitability](https://techcrunch.com/2023/01/24/metrics-that-matter-3-kpis-to-track-on-the-path-to-profitability/)
-- [B2B sales closing and financing platform Vartana raises $12M](https://techcrunch.com/2023/01/24/b2b-sales-closing-and-financing-platform-vartana-raises-12m/)
-- [WhatsApp releases its native macOS client in public beta](https://techcrunch.com/2023/01/24/whatsapp-releases-its-native-macos-client-in-public-beta/)
+- [How the recently shuttered third-party apps contributed to Twitter’s development](https://techcrunch.com/2023/01/24/how-the-recently-shuttered-third-party-apps-contributed-to-twitters-development/)
+- [An asteroid will pass close by Earth this week. Here&#39;s how to watch it live](https://www.space.com/asteroid-2023-bu-close-encounter-watch-live)
+- [Mozilla revamps its read-it-later app Pocket with new tabs and curated recommendations](https://techcrunch.com/2023/01/24/mozilla-revamps-its-read-it-later-app-pocket-with-new-tabs-and-curated-recommendations/)
+- [Roblox taps former Google Play VP for creator role](https://techcrunch.com/2023/01/24/roblox-tian-lim-creator-vp/)
+- [Netflix’s ‘All Quiet on the Western Front’ is among the most-nominated Oscar films](https://techcrunch.com/2023/01/24/oscar-nominations-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
