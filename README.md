@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TechCrunch+ roundup: Deep tech fundraising, negative trade secrets, 3 metrics investors love](https://techcrunch.com/2023/01/24/techcrunch-roundup-deep-tech-fundraising-negative-trade-secrets-3-metrics-investors-love/)
-- [U.S. officially sues Google, claiming it has a digital ad monopoly](https://techcrunch.com/2023/01/24/u-s-officially-sues-google-claiming-it-has-a-digital-ad-monopoly/)
-- [Wow! Iceberg larger than London breaks off Antarctica &lpar;photos&rpar;](https://www.space.com/iceberg-size-of-london-breaks-off-antarctic-ice-shelf)
-- [Despite 2022’s headwinds, women’s health startups did better than ever before](https://techcrunch.com/2023/01/24/despite-2022s-headwinds-womens-health-startups-did-better-than-ever-before/)
-- [Nikon Prostaff P3 8x42 binocular review](https://www.space.com/nikon-prostaff-p3-8x42-binocular-review)
+- [Web3 gaming needs to focus on sustainable economies, Immutable co-founder says](https://techcrunch.com/2023/01/24/web3-gaming-needs-to-focus-on-sustainable-economies-immutable-co-founder-says/)
+- [Honda is setting up a dedicated EV division](https://techcrunch.com/2023/01/24/honda-is-setting-up-a-dedicated-ev-division/)
+- [Opportunistic investors are giving up on aging pre-IPO companies, shows a new report](https://techcrunch.com/2023/01/24/opportunistic-investors-are-giving-up-on-aging-pre-ipo-companies-shows-a-new-report/)
+- [Instagram’s new dynamic profile photo flips between your picture and avatar](https://techcrunch.com/2023/01/24/instagrams-new-dynamic-profile-photo-flips-between-image-avatar/)
+- [Tapbots launches a new Mastodon client, Ivory, after Twitter kills its Tweetbot app](https://techcrunch.com/2023/01/24/tapbots-launches-a-new-mastodon-client-ivory-after-twitter-kills-its-tweetbot-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
