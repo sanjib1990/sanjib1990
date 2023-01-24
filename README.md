@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Neo4j in 100 Seconds](https://www.youtube.com/watch?v=T6L9EoBy8Zk)
 - [real eyes realize AI lies](https://www.youtube.com/watch?v=Z8omJ59hNfY)
 - [5 ideas for your own AI grift with ChatGPT](https://www.youtube.com/watch?v=Aa83vRghue4)
 - [Garbage Collection &lpar;Mark &amp; Sweep&rpar; - Computerphile](https://www.youtube.com/watch?v=c32zXYAK7CI)
 - [ChatGPT Tutorial - Use ChatGPT for DevOps tasks to 10x Your Productivity](https://www.youtube.com/watch?v=l-kE11fhfaQ)
-- [Tailwind CSS is the worst…](https://www.youtube.com/watch?v=lHZwlzOUOZ4)
 <!-- YOUTUBE:END -->
 
 ---
