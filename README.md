@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Six ex-OneWeb engineers raise $2.5M for Quindar to revolutionize satellite mission management](https://techcrunch.com/2023/01/24/six-ex-oneweb-engineers-raise-2-5m-for-quindar-to-revolutionize-satellite-mission-management/)
-- [Reimbursement and spend management platform PayEm secures $220M in equity and debt](https://techcrunch.com/2023/01/24/reimbursement-and-spend-management-platform-payem-secures-220m-in-equity-and-debt/)
-- [Orange you glad this company is making it easier to get EV charging in your building](https://techcrunch.com/2023/01/24/orange-funding/)
-- [QuickNode raises $60M at $800M valuation to become the ‘AWS or Azure of blockchain’](https://techcrunch.com/2023/01/24/quicknode-raises-60m-at-800m-valuation-to-become-the-aws-or-azure-of-blockchain/)
-- [Near Infrared Imager and Slitless Spectrograph Operations Update](https://blogs.nasa.gov/webb/2023/01/24/near-infrared-imager-and-slitless-spectrograph-operations-update/)
+- [Kind Snacks founder Daniel Lubetzky begins new ‘journey’ with Camino Partners](https://techcrunch.com/2023/01/24/kind-bar-daniel-lubetzky-camino-partners/)
+- [FBI accuses North Korean government hackers of stealing $100M in Harmony bridge theft](https://techcrunch.com/2023/01/24/north-korea-fbi-harmony-horizon-crypto/)
+- [Metrics that matter: 3 KPIs to track on the path to profitability](https://techcrunch.com/2023/01/24/metrics-that-matter-3-kpis-to-track-on-the-path-to-profitability/)
+- [B2B sales closing and financing platform Vartana raises $12M](https://techcrunch.com/2023/01/24/b2b-sales-closing-and-financing-platform-vartana-raises-12m/)
+- [WhatsApp releases its native macOS client in public beta](https://techcrunch.com/2023/01/24/whatsapp-releases-its-native-macos-client-in-public-beta/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
