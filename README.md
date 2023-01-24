@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Strava acquires Fatmap, a 3D mapping platform for the great outdoors](https://techcrunch.com/2023/01/24/strava-acquires-fatmap-a-3d-map-platform-for-the-great-outdoors/)
+- [Amazon launches RxPass, a $5/month Prime add-on for all-you-need generic drugs covering 80 conditions](https://techcrunch.com/2023/01/23/amazon-launches-rxpass-a-5-month-prime-add-on-for-all-you-need-generic-drugs-covering-80-conditions/)
 - [Pasqal raises $100M to build a neutral atom-based quantum computer](https://techcrunch.com/2023/01/23/pasqal-raises-100m-to-build-a-neutral-atom-based-quantum-computer/)
 - [Lightyear stops production on €250,000 solar-powered EV](https://techcrunch.com/2023/01/23/lightyear-stops-production-on-e250000-solar-powered-ev/)
 - [SpaceX fuels up fully stacked Starship vehicle for 1st time ever &lpar;video&rpar;](https://www.space.com/spacex-stacked-starship-first-fueling-test)
-- [Bluedot’s debit card for EV owners offers cheaper charging, cash back](https://techcrunch.com/2023/01/23/bluedots-debit-card-for-ev-owners-offers-cheaper-charging-cash-back/)
-- [Musk said he could have funded a Tesla buyout with SpaceX shares](https://techcrunch.com/2023/01/23/musk-said-he-could-have-funded-a-tesla-buyout-with-spacex-shares/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
