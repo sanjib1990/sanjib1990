@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Star Wars Micro Galaxy Squadron review](https://www.space.com/star-wars-micro-galaxy-squadron-range-review)
-- [Saturn IB rocket no longer safe to keep standing at Alabama rest stop](https://www.space.com/saturn-ib-rocket-alabama-welcome-center)
-- [Classified Chinese satellite releases small object in orbit](https://www.space.com/classified-chinese-satellite-shijian-23-releases-subsatellite)
-- [Zillow introduces Calendly-like instant booking for rental property tours](https://techcrunch.com/2023/01/24/zillow-introduces-calendly-like-instant-booking-for-rental-property-tours/)
-- [Plum launches its money management app in five more countries](https://techcrunch.com/2023/01/24/plum-launches-its-money-management-app-in-five-more-countries/)
+- [Forward Networks raises $50M for digital twin technology to help model, manage and secure complex enterprise networks](https://techcrunch.com/2023/01/24/forward-networks-raises-50m-for-digital-twin-technology-to-help-model-manage-and-secure-complex-enterprise-networks/)
+- [The moon will eclipse Uranus Saturday &lpar;Jan. 28&rpar;](https://www.space.com/uranus-moon-occultation-telescope-jan-28-2023)
+- [Memfault raises $24M to help companies manage their growing IoT device fleets](https://techcrunch.com/2023/01/24/memfault-raises-24m-to-help-companies-manage-their-iot-devices/)
+- [Komprise raises $37M to help companies index, manage and transform data](https://techcrunch.com/2023/01/24/komprise-raises-37m-to-help-companies-index-manage-and-transform-data/)
+- [Scythe raises $42 million for its electric robotic mower](https://techcrunch.com/2023/01/24/scythe-raises-42-million-for-its-electric-robotic-mower/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
