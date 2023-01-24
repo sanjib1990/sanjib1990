@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [YouTube unveils new program that enables students to earn college credits](https://techcrunch.com/2023/01/24/youtube-program-enables-students-earn-college-credits/)
-- [Another All Raise CEO steps down](https://techcrunch.com/2023/01/24/all-raise-ceo-steps-down-again/)
-- [Perseverance Mars rover&#39;s samples will be curated at new NASA office in Houston](https://www.space.com/nasa-creates-mars-sample-receiving-project-office)
-- [Crypto recruiters see opportunity to snatch up talent amid Big Tech layoffs](https://techcrunch.com/2023/01/24/crypto-recruiters-see-opportunity-to-snatch-up-talent-amid-big-tech-layoffs/)
-- [Riot Games hack could help cheaters](https://techcrunch.com/2023/01/24/riot-games-hack-cheaters/)
+- [Daily Crunch: Hackers pinched LastPass customers’ encrypted password vaults, parent company admits](https://techcrunch.com/2023/01/24/daily-crunch-hackers-pinched-lastpass-customers-encrypted-password-vaults-parent-company-admits/)
+- [Chemical giant Denka dives into VC with $100 fund managed by Pegasus Tech](https://techcrunch.com/2023/01/24/pegasus-tech-ventures-closes-100m-fund-with-japanese-chemical-firm-denka/)
+- [SpaceX&#39;s 1st orbital Starship looks supercool in these fueling test photos](https://www.space.com/spacex-first-orbital-starship-fueling-test-photos)
+- [Built buys fellow construction robotics firm, Roin](https://techcrunch.com/2023/01/24/built-buys-fellow-construction-robotics-firm-roin/)
+- [Waymo lays off staff as Alphabet announces 12,000 job cuts](https://techcrunch.com/2023/01/24/waymo-lays-off-staff-as-alphabet-announces-12000-job-cuts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
