@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [All Raise CEO steps down again](https://techcrunch.com/2023/01/24/all-raise-ceo-steps-down-again/)
+- [Perseverance Mars rover&#39;s samples will be curated at new NASA office in Houston](https://www.space.com/nasa-creates-mars-sample-receiving-project-office)
+- [Crypto recruiters see opportunity to snatch up talent amid Big Tech layoffs](https://techcrunch.com/2023/01/24/crypto-recruiters-see-opportunity-to-snatch-up-talent-amid-big-tech-layoffs/)
+- [Riot Games hack could help cheaters](https://techcrunch.com/2023/01/24/riot-games-hack-cheaters/)
 - [How has Earth&#39;s core stayed as hot as the sun&#39;s surface for billions of years?](https://www.space.com/how-has-earths-core-stayed-as-hot-as-the-suns-surface-for-billions-of-years)
-- [Hear how Cambly found profits after failing to raise a Series A on TechCrunch Live](https://techcrunch.com/2023/01/24/hear-how-cambly-found-profits-after-failing-to-raise-a-series-a-on-techcrunch-live/)
-- [Senate questions Live Nation president amid Taylor Swift ticketing debacle](https://techcrunch.com/2023/01/24/senate-questions-live-nation-president-amid-taylor-swift-ticketing-debacle/)
-- [Task force proposes new federal AI research outfit with $2.6B in funding](https://techcrunch.com/2023/01/24/task-force-proposes-new-federal-ai-research-outfit-with-2-6b-in-funding/)
-- [Consumer advocacy groups want Walmart’s Roblox game audited for ‘stealth marketing’ to kids](https://techcrunch.com/2023/01/24/consumer-advocacy-groups-want-walmarts-roblox-game-audited-for-stealth-marketing-to-kids/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
