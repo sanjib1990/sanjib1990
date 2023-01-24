@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How the recently shuttered third-party apps contributed to Twitter’s development](https://techcrunch.com/2023/01/24/how-the-recently-shuttered-third-party-apps-contributed-to-twitters-development/)
-- [An asteroid will pass close by Earth this week. Here&#39;s how to watch it live](https://www.space.com/asteroid-2023-bu-close-encounter-watch-live)
-- [Mozilla revamps its read-it-later app Pocket with new tabs and curated recommendations](https://techcrunch.com/2023/01/24/mozilla-revamps-its-read-it-later-app-pocket-with-new-tabs-and-curated-recommendations/)
-- [Roblox taps former Google Play VP for creator role](https://techcrunch.com/2023/01/24/roblox-tian-lim-creator-vp/)
-- [Netflix’s ‘All Quiet on the Western Front’ is among the most-nominated Oscar films](https://techcrunch.com/2023/01/24/oscar-nominations-2023/)
+- [Accord, which offers a platform to manage sales processes, secures $10M](https://techcrunch.com/2023/01/24/accord-which-offers-a-platform-to-manage-sales-processes-secures-10m/)
+- [DevZero speeds up programmer tasks by shifting developer tools to cloud](https://techcrunch.com/2023/01/24/devzero-speeds-up-developer-tasks-by-moving-developer-environment-to-cloud/)
+- [Sunfish’s technology wants to bring affordability to assisted reproduction](https://techcrunch.com/2023/01/24/sunfishs-technology-wants-to-bring-affordability-to-assisted-reproduction/)
+- [Garmin launches a new FDA-cleared ECG app for the Venu 2 Plus](https://techcrunch.com/2023/01/24/garmin-new-fda-cleared-ecg-app-venu-2-plus/)
+- [Watch Rocket Lab launch Electron from U.S. soil for the first time](https://techcrunch.com/2023/01/24/watch-rocket-lab-launch-electron-from-u-s-soil-for-the-first-time/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
