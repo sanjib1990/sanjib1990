@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Zillow introduces Calendly-like instant booking for rental property tours](https://techcrunch.com/2023/01/24/zillow-introduces-calendly-like-instant-booking-for-rental-property-tours/)
+- [Plum launches its money management app in five more countries](https://techcrunch.com/2023/01/24/plum-launches-its-money-management-app-in-five-more-countries/)
+- [Niantic tries its hand at sports with NBA All-World](https://techcrunch.com/2023/01/24/niantic-tries-its-hand-at-sports-with-nba-all-world/)
 - [Strava acquires Fatmap, a 3D mapping platform for the great outdoors](https://techcrunch.com/2023/01/24/strava-acquires-fatmap-a-3d-map-platform-for-the-great-outdoors/)
 - [Amazon launches RxPass, a $5/month Prime add-on for all-you-need generic drugs covering 80 conditions](https://techcrunch.com/2023/01/23/amazon-launches-rxpass-a-5-month-prime-add-on-for-all-you-need-generic-drugs-covering-80-conditions/)
-- [Pasqal raises $100M to build a neutral atom-based quantum computer](https://techcrunch.com/2023/01/23/pasqal-raises-100m-to-build-a-neutral-atom-based-quantum-computer/)
-- [Lightyear stops production on €250,000 solar-powered EV](https://techcrunch.com/2023/01/23/lightyear-stops-production-on-e250000-solar-powered-ev/)
-- [SpaceX fuels up fully stacked Starship vehicle for 1st time ever &lpar;video&rpar;](https://www.space.com/spacex-stacked-starship-first-fueling-test)
 <!-- BLOG-POST-LIST:END -->
 
 ---
