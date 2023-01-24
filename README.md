@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Forward Networks raises $50M for digital twin technology to help model, manage and secure complex enterprise networks](https://techcrunch.com/2023/01/24/forward-networks-raises-50m-for-digital-twin-technology-to-help-model-manage-and-secure-complex-enterprise-networks/)
-- [The moon will eclipse Uranus Saturday &lpar;Jan. 28&rpar;](https://www.space.com/uranus-moon-occultation-telescope-jan-28-2023)
-- [Memfault raises $24M to help companies manage their growing IoT device fleets](https://techcrunch.com/2023/01/24/memfault-raises-24m-to-help-companies-manage-their-iot-devices/)
-- [Komprise raises $37M to help companies index, manage and transform data](https://techcrunch.com/2023/01/24/komprise-raises-37m-to-help-companies-index-manage-and-transform-data/)
-- [Scythe raises $42 million for its electric robotic mower](https://techcrunch.com/2023/01/24/scythe-raises-42-million-for-its-electric-robotic-mower/)
+- [Six ex-OneWeb engineers raise $2.5M for Quindar to revolutionize satellite mission management](https://techcrunch.com/2023/01/24/six-ex-oneweb-engineers-raise-2-5m-for-quindar-to-revolutionize-satellite-mission-management/)
+- [Reimbursement and spend management platform PayEm secures $220M in equity and debt](https://techcrunch.com/2023/01/24/reimbursement-and-spend-management-platform-payem-secures-220m-in-equity-and-debt/)
+- [Orange you glad this company is making it easier to get EV charging in your building](https://techcrunch.com/2023/01/24/orange-funding/)
+- [QuickNode raises $60M at $800M valuation to become the ‘AWS or Azure of blockchain’](https://techcrunch.com/2023/01/24/quicknode-raises-60m-at-800m-valuation-to-become-the-aws-or-azure-of-blockchain/)
+- [Near Infrared Imager and Slitless Spectrograph Operations Update](https://blogs.nasa.gov/webb/2023/01/24/near-infrared-imager-and-slitless-spectrograph-operations-update/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
