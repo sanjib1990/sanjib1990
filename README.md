@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Star Wars Micro Galaxy Squadron review](https://www.space.com/star-wars-micro-galaxy-squadron-range-review)
+- [Saturn IB rocket no longer safe to keep standing at Alabama rest stop](https://www.space.com/saturn-ib-rocket-alabama-welcome-center)
+- [Classified Chinese satellite releases small object in orbit](https://www.space.com/classified-chinese-satellite-shijian-23-releases-subsatellite)
 - [Zillow introduces Calendly-like instant booking for rental property tours](https://techcrunch.com/2023/01/24/zillow-introduces-calendly-like-instant-booking-for-rental-property-tours/)
 - [Plum launches its money management app in five more countries](https://techcrunch.com/2023/01/24/plum-launches-its-money-management-app-in-five-more-countries/)
-- [Niantic tries its hand at sports with NBA All-World](https://techcrunch.com/2023/01/24/niantic-tries-its-hand-at-sports-with-nba-all-world/)
-- [Strava acquires Fatmap, a 3D mapping platform for the great outdoors](https://techcrunch.com/2023/01/24/strava-acquires-fatmap-a-3d-map-platform-for-the-great-outdoors/)
-- [Amazon launches RxPass, a $5/month Prime add-on for all-you-need generic drugs covering 80 conditions](https://techcrunch.com/2023/01/23/amazon-launches-rxpass-a-5-month-prime-add-on-for-all-you-need-generic-drugs-covering-80-conditions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
