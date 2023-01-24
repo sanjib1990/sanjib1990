@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX fuels up fully stacked Starship vehicle for 1st time ever &lpar;video&rpar;](https://www.space.com/spacex-stacked-starship-first-fueling-test)
 - [Bluedot’s debit card for EV owners offers cheaper charging, cash back](https://techcrunch.com/2023/01/23/bluedots-debit-card-for-ev-owners-offers-cheaper-charging-cash-back/)
 - [Musk said he could have funded a Tesla buyout with SpaceX shares](https://techcrunch.com/2023/01/23/musk-said-he-could-have-funded-a-tesla-buyout-with-spacex-shares/)
 - [Daily Crunch: Days after announcing plans to cut 10K jobs, Microsoft invests billions more in OpenAI](https://techcrunch.com/2023/01/23/daily-crunch-days-after-announcing-plans-to-cut-10k-jobs-microsoft-invests-billions-more-in-openai/)
 - [Hidden, never-before-seen penguin colony spotted from space](https://www.space.com/satellites-reveal-emperor-penguin-colony-antarctica)
-- [Max Q: Things are tough out there](https://techcrunch.com/2023/01/23/max-q-things-are-tough-out-there/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
