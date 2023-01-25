@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Critical Role’s second campaign will get its own Amazon animated series](https://techcrunch.com/2023/01/25/critical-role-mighty-nein-c2-amazon-prime-video-show/)
+- [SpaceX Crew Dragon may get a shield upgrade after Soyuz spacecraft leak](https://www.space.com/spacex-crew-dragon-possible-shield-upgrade)
 - [Proptech in Review: Investors predict slower growth in 2023](https://techcrunch.com/2023/01/25/2475219/)
 - [Earth&#39;s inner core may be slowing down compared to the rest of the planet](https://www.space.com/earth-inner-core-slowing-study)
 - [Don’t be sucked in by AI’s head-spinning hype cycles](https://techcrunch.com/2023/01/25/dont-be-sucked-in-by-ais-head-spinning-hype-cycles/)
-- [Disney+ advertisers will soon get Hulu’s ad targeting capabilities](https://techcrunch.com/2023/01/25/disney-advertisers-will-soon-get-hulus-ad-targeting-capabilities/)
-- [Startups should expect more scrutiny from VCs on their hiring plans](https://techcrunch.com/2023/01/25/startups-should-expect-more-scrutiny-from-vcs-on-their-hiring-plans/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
