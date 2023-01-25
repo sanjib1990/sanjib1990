@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter partners with DoubleVerify and IAS on brand safety initiative amid advertiser exits](https://techcrunch.com/2023/01/25/twitter-partners-with-doubleverify-and-ias-on-brand-safety-initiative-amid-advertiser-exits/)
+- [Fellow astronauts remember Apollo 7 pilot Walt Cunningham as friend and mentor](https://www.space.com/walt-cunningham-remembered-astronauts)
+- [The rise of product-led sales, or why product-led growth requires a sales makeover](https://techcrunch.com/2023/01/25/the-rise-of-product-led-sales-or-why-product-led-growth-requires-a-sales-makeover/)
+- [Valiant Hearts mobile game sequel is set to launch on Netflix Games on Jan 31](https://techcrunch.com/2023/01/25/valiant-hearts-mobile-game-launches-on-netflix-games-on-jan-31/)
 - [Elon Musk’s Twitter hit with holocaust denial hate speech lawsuit in Germany](https://techcrunch.com/2023/01/25/elon-musk-twitter-antisemitic-hate-speech-lawsuit-germany/)
-- [Crowdbotics raises $40M to help devs build apps from modular code](https://techcrunch.com/2023/01/25/crowdbotics-raises-40m-to-help-devs-build-apps-from-modular-code/)
-- [App downloads were stagnant in the fourth quarter, new analysis finds](https://techcrunch.com/2023/01/25/app-downloads-were-stagnant-in-the-fourth-quarter-new-analysis-finds/)
-- [Dear Sophie: How do I change my L-1B to an H-1B through the lottery?](https://techcrunch.com/2023/01/25/dear-sophie-how-do-i-change-my-l-1b-to-an-h-1b-through-the-lottery/)
-- [Fortnite on iOS and Google Play will be 18+ starting on January 30](https://techcrunch.com/2023/01/25/fortnite-on-ios-and-google-play-will-be-18-starting-on-january-30/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
