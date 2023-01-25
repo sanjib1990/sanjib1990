@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: ‘Network issue’ causes cloud outage that takes down multiple Microsoft services for 4+ hours](https://techcrunch.com/2023/01/25/daily-crunch-network-issue-causes-cloud-outage-that-takes-down-multiple-microsoft-services-for-4-hours/)
+- [Tier Mobility and Spin lay off 100 more employees](https://techcrunch.com/2023/01/25/tier-mobility-and-spin-lay-off-100-more-employees/)
+- [Dell has acquired cloud orchestration startup Cloudify, sources tell us for around $100M](https://techcrunch.com/2023/01/25/dell-has-acquired-cloud-orchestration-startup-cloudify-sources-tell-us-for-around-100m/)
+- [Meta will restore Trump’s Facebook account ‘in the coming weeks’](https://techcrunch.com/2023/01/25/trump-facebook-instagram-meta/)
 - [2022 European edtech report: Smaller rounds and fewer deals, but more angel activity](https://techcrunch.com/2023/01/25/2022-european-edtech-report-smaller-rounds-and-fewer-deals-but-more-angel-activity/)
-- [Google spares three Area 120 R&amp;D projects, including team working on a ‘Gen Z consumer product’](https://techcrunch.com/2023/01/25/google-spares-three-area-120-rd-projects-including-team-working-on-a-gen-z-consumer-product/)
-- [Tesla reports $24.3B revenue in the fourth quarter, beating Street estimates](https://techcrunch.com/2023/01/25/tesla-reports-24-3b-revenue-in-the-fourth-quarter-beating-street-estimates/)
-- [Tesla’s energy storage arm caps 2022 with ‘highest level’ of deployments ever](https://techcrunch.com/2023/01/25/tesla-energy-storage-q4-2022-earnings/)
-- [A network of knockoff apparel stores exposed 330,000 customer credit cards](https://techcrunch.com/2023/01/25/apparel-designer-goods-credit-cards-exposed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
