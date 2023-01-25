@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [When it comes to large language models, should you build or buy?](https://techcrunch.com/2023/01/25/when-it-comes-to-large-language-models-should-you-build-or-buy/)
-- [Comet C/2022 E3 &lpar;ZTF&rpar; shines bright while closest to the sun in gorgeous photo](https://www.space.com/comet-c2022-e3-ztf-portugal-photo)
-- [After inking its OpenAI deal, Shutterstock rolls out a generative AI toolkit to create images based on text prompts](https://techcrunch.com/2023/01/25/after-inking-its-openai-deal-shutterstock-rolls-out-a-generative-ai-toolkit-to-create-images-based-on-text-prompts/)
-- [Save $135 on the Celestron NexStar 4SE computerized telescope](https://www.space.com/celestron-nexstar-4se-amazon-deal-save-135-dollars)
-- [See the moon meet up with Jupiter tonight &lpar;Jan. 25&rpar;](https://www.space.com/see-the-moon-meet-up-with-jupiter-tonight-jan-25)
+- [James Webb Space Telescope experiences 2nd instrument glitch](https://www.space.com/james-webb-space-telescope-niriss-glitch)
+- [Injective launches $150M ecosystem fund to accelerate interoperable infra and DeFi adoption](https://techcrunch.com/2023/01/25/injective-launches-150m-ecosystem-fund-to-accelerate-interoperable-infra-and-defi-adoption/)
+- [We flush valuable nutrients down the toilet. Wasted wants to save them](https://techcrunch.com/2023/01/25/we-flush-valuable-nutrients-down-the-toilet-wasted-wants-to-save-them/)
+- [Google to ease agreement with phonemakers, allow third-party billing in India in major business revamp](https://techcrunch.com/2023/01/25/google-to-ease-agreement-with-phonemakers-allow-third-party-billing-in-india-in-major-business-revamp/)
+- [With new funding, Atomic AI envisions RNA as the next frontier in drug discovery](https://techcrunch.com/2023/01/25/with-new-funding-atomic-ai-envisions-rna-as-the-next-frontier-in-drug-discovery/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
