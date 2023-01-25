@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rocket Lab launches 1st Electron booster from US soil in twilight liftoff](https://www.space.com/rocket-lab-1st-us-electron-launch)
+- [Asteroid mining startup AstroForge will test its metal refinery tech in space this year](https://techcrunch.com/2023/01/24/asteroid-mining-startup-astroforge-will-test-its-metal-refinery-tech-in-space-this-year/)
+- [Tesla invests $3.6B in two new Nevada factories to build Semis and cells](https://techcrunch.com/2023/01/24/tesla-invests-3-6b-in-two-new-nevada-factories-to-build-semis-and-cells/)
 - [Daily Crunch: Hackers pinched LastPass customers’ encrypted password vaults, parent company admits](https://techcrunch.com/2023/01/24/daily-crunch-hackers-pinched-lastpass-customers-encrypted-password-vaults-parent-company-admits/)
 - [Chemical giant Denka dives into VC with $100 fund managed by Pegasus Tech](https://techcrunch.com/2023/01/24/pegasus-tech-ventures-closes-100m-fund-with-japanese-chemical-firm-denka/)
-- [SpaceX&#39;s 1st orbital Starship looks supercool in these fueling test photos](https://www.space.com/spacex-first-orbital-starship-fueling-test-photos)
-- [Built buys fellow construction robotics firm, Roin](https://techcrunch.com/2023/01/24/built-buys-fellow-construction-robotics-firm-roin/)
-- [Waymo lays off staff as Alphabet announces 12,000 job cuts](https://techcrunch.com/2023/01/24/waymo-lays-off-staff-as-alphabet-announces-12000-job-cuts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
