@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Webb Spies Chariklo Ring System With High-Precision Technique](https://blogs.nasa.gov/webb/2023/01/25/webb-spies-chariklo-ring-system-with-high-precision-technique/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [All is fair in love and moderation](https://techcrunch.com/2023/01/25/twitter-t2-human-rights-and-future-of-trust/)
-- [&#39;Star Trek: Picard&#39; Season 3 teaser builds excitement for upcoming final trailer](https://www.space.com/picard-season-3-new-teaser)
-- [Google’s Flutter showcases new graphics capabilities, WebAssembly and RISC-V support](https://techcrunch.com/2023/01/25/googles-flutter-showcases-new-graphics-capabilities-webassembly-and-risc-v-support/)
+- [Elon Musk’s Twitter hit with holocaust denial hate speech lawsuit in Germany](https://techcrunch.com/2023/01/25/elon-musk-twitter-antisemitic-hate-speech-lawsuit-germany/)
+- [Crowdbotics raises $40M to help devs build apps from modular code](https://techcrunch.com/2023/01/25/crowdbotics-raises-40m-to-help-devs-build-apps-from-modular-code/)
+- [App downloads were stagnant in the fourth quarter, new analysis finds](https://techcrunch.com/2023/01/25/app-downloads-were-stagnant-in-the-fourth-quarter-new-analysis-finds/)
+- [Dear Sophie: How do I change my L-1B to an H-1B through the lottery?](https://techcrunch.com/2023/01/25/dear-sophie-how-do-i-change-my-l-1b-to-an-h-1b-through-the-lottery/)
+- [Fortnite on iOS and Google Play will be 18+ starting on January 30](https://techcrunch.com/2023/01/25/fortnite-on-ios-and-google-play-will-be-18-starting-on-january-30/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
