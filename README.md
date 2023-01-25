@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [When it comes to large language models, should you build or buy?](https://techcrunch.com/2023/01/25/when-it-comes-to-large-language-models-should-you-build-or-buy/)
+- [Comet C/2022 E3 &lpar;ZTF&rpar; shines bright while closest to the sun in gorgeous photo](https://www.space.com/comet-c2022-e3-ztf-portugal-photo)
+- [After inking its OpenAI deal, Shutterstock rolls out a generative AI toolkit to create images based on text prompts](https://techcrunch.com/2023/01/25/after-inking-its-openai-deal-shutterstock-rolls-out-a-generative-ai-toolkit-to-create-images-based-on-text-prompts/)
 - [Save $135 on the Celestron NexStar 4SE computerized telescope](https://www.space.com/celestron-nexstar-4se-amazon-deal-save-135-dollars)
-- [See the moon meet up with Jupiter tonight &lpar;Jan. 25&rpar;](https://www.space.com/news/see-the-moon-meet-up-with-jupiter-tonight-jan-25)
-- [Hunga Tonga eruption likely to make next year&#39;s ozone hole larger](https://www.space.com/hunga-tonga-will-make-ozone-hole-larger)
-- [India’s gig economy drivers face bust in the country’s digital boom](https://techcrunch.com/2023/01/25/india-gig-workers-problems/)
-- [BMW iVentures continues its love affair with EVs, backing this Bulgarian startup’s $13M A-round](https://techcrunch.com/2023/01/25/bmw-continues-its-love-affair-with-evs-backing-this-bulgarian-startups-13m-a-round/)
+- [See the moon meet up with Jupiter tonight &lpar;Jan. 25&rpar;](https://www.space.com/see-the-moon-meet-up-with-jupiter-tonight-jan-25)
 <!-- BLOG-POST-LIST:END -->
 
 ---
