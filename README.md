@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Proptech in Review: Investors predict slower growth in 2023](https://techcrunch.com/2023/01/25/2475219/)
+- [Earth&#39;s inner core may be slowing down compared to the rest of the planet](https://www.space.com/earth-inner-core-slowing-study)
+- [Don’t be sucked in by AI’s head-spinning hype cycles](https://techcrunch.com/2023/01/25/dont-be-sucked-in-by-ais-head-spinning-hype-cycles/)
 - [Disney+ advertisers will soon get Hulu’s ad targeting capabilities](https://techcrunch.com/2023/01/25/disney-advertisers-will-soon-get-hulus-ad-targeting-capabilities/)
 - [Startups should expect more scrutiny from VCs on their hiring plans](https://techcrunch.com/2023/01/25/startups-should-expect-more-scrutiny-from-vcs-on-their-hiring-plans/)
-- [Twitter partners with DoubleVerify and IAS on brand safety initiative amid advertiser exits](https://techcrunch.com/2023/01/25/twitter-partners-with-doubleverify-and-ias-on-brand-safety-initiative-amid-advertiser-exits/)
-- [Fellow astronauts remember Apollo 7 pilot Walt Cunningham as friend and mentor](https://www.space.com/walt-cunningham-remembered-astronauts)
-- [The rise of product-led sales, or why product-led growth requires a sales makeover](https://techcrunch.com/2023/01/25/the-rise-of-product-led-sales-or-why-product-led-growth-requires-a-sales-makeover/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
