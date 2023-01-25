@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Webb Spies Chariklo Ring System With High-Precision Technique](https://blogs.nasa.gov/webb/2023/01/25/webb-spies-chariklo-ring-system-with-high-precision-technique/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [All is fair in love and moderation](https://techcrunch.com/2023/01/25/twitter-t2-human-rights-and-future-of-trust/)
 - [&#39;Star Trek: Picard&#39; Season 3 teaser builds excitement for upcoming final trailer](https://www.space.com/picard-season-3-new-teaser)
 - [Google’s Flutter showcases new graphics capabilities, WebAssembly and RISC-V support](https://techcrunch.com/2023/01/25/googles-flutter-showcases-new-graphics-capabilities-webassembly-and-risc-v-support/)
-- [Strata, a provider of identity orchestration to bridge disparate log-in procedures, raises $26M](https://techcrunch.com/2023/01/25/strata-a-provider-of-identity-orchestration-to-bridge-disparate-log-in-procedures-raises-26m/)
-- [Madrid selects Dott, Lime and Tier for scooter licenses](https://techcrunch.com/2023/01/25/madrid-selects-dott-lime-and-tier-for-scooter-licenses/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
