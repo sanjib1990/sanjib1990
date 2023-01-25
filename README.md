@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter won’t force you to the ‘For You’ timeline on web anymore](https://techcrunch.com/2023/01/24/twitter-wont-force-you-to-the-for-you-timeline-on-web-anymore/)
 - [Dubai-based accounting and financial compliance startup, Wafeq, raises $3M](https://techcrunch.com/2023/01/24/dubai-based-accounting-and-financial-compliance-startup-wafeq-raises-3m/)
 - [Oneleaf is self-hypnosis app that guides you through audio programs](https://techcrunch.com/2023/01/24/oneleaf-is-self-hypnosis-app-that-guides-you-through-audio-programs/)
 - [Big factories, big trucks and big Musk: Tesla Q4 earnings expectations](https://techcrunch.com/2023/01/24/big-factories-big-trucks-and-big-musk-tesla-q4-earnings-expectations/)
 - [Japan’s Terra Drone gets $14M lift from Saudi investors](https://techcrunch.com/2023/01/24/japans-terra-drone-gets-14m-lift-from-saudi-investors/)
-- [Rocket Lab launches 1st Electron booster from US soil in twilight liftoff](https://www.space.com/rocket-lab-1st-us-electron-launch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
