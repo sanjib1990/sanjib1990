@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Disney+ advertisers will soon get Hulu’s ad targeting capabilities](https://techcrunch.com/2023/01/25/disney-advertisers-will-soon-get-hulus-ad-targeting-capabilities/)
+- [Startups should expect more scrutiny from VCs on their hiring plans](https://techcrunch.com/2023/01/25/startups-should-expect-more-scrutiny-from-vcs-on-their-hiring-plans/)
 - [Twitter partners with DoubleVerify and IAS on brand safety initiative amid advertiser exits](https://techcrunch.com/2023/01/25/twitter-partners-with-doubleverify-and-ias-on-brand-safety-initiative-amid-advertiser-exits/)
 - [Fellow astronauts remember Apollo 7 pilot Walt Cunningham as friend and mentor](https://www.space.com/walt-cunningham-remembered-astronauts)
 - [The rise of product-led sales, or why product-led growth requires a sales makeover](https://techcrunch.com/2023/01/25/the-rise-of-product-led-sales-or-why-product-led-growth-requires-a-sales-makeover/)
-- [Valiant Hearts mobile game sequel is set to launch on Netflix Games on Jan 31](https://techcrunch.com/2023/01/25/valiant-hearts-mobile-game-launches-on-netflix-games-on-jan-31/)
-- [Elon Musk’s Twitter hit with holocaust denial hate speech lawsuit in Germany](https://techcrunch.com/2023/01/25/elon-musk-twitter-antisemitic-hate-speech-lawsuit-germany/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
