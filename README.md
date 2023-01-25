@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See the moon meet up with Jupiter tonight &lpar;Jan. 25&rpar;](https://www.space.com/news/see-the-moon-meet-up-with-jupiter-tonight-jan-25)
+- [Hunga Tonga eruption likely to make next year&#39;s ozone hole larger](https://www.space.com/hunga-tonga-will-make-ozone-hole-larger)
 - [India’s gig economy drivers face bust in the country’s digital boom](https://techcrunch.com/2023/01/25/india-gig-workers-problems/)
-- [BMW continues its love affair with EVs, backing this Bulgarian startup’s $13M A-round](https://techcrunch.com/2023/01/25/bmw-continues-its-love-affair-with-evs-backing-this-bulgarian-startups-13m-a-round/)
+- [BMW iVentures continues its love affair with EVs, backing this Bulgarian startup’s $13M A-round](https://techcrunch.com/2023/01/25/bmw-continues-its-love-affair-with-evs-backing-this-bulgarian-startups-13m-a-round/)
 - [Gemba, a corporate VR training platform used by Coca-Cola and Pfizer,  raises $18M](https://techcrunch.com/2023/01/25/gemba-a-corporate-vr-training-platform-used-by-coca-cola-and-pfizer-raises-18m/)
-- [Multiple Microsoft services including Outlook, Teams and Xbox Live suffer outage](https://techcrunch.com/2023/01/25/microsoft-teams-outlook-service-outage/)
-- [Emperia is helping brands like Bloomingdales build shopping experiences in VR](https://techcrunch.com/2023/01/25/emperia-is-helping-brands-build-shopping-experiences-in-vr/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
