@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dubai-based accounting and financial compliance startup, Wafeq, raises $3M](https://techcrunch.com/2023/01/24/dubai-based-accounting-and-financial-compliance-startup-wafeq-raises-3m/)
+- [Oneleaf is self-hypnosis app that guides you through audio programs](https://techcrunch.com/2023/01/24/oneleaf-is-self-hypnosis-app-that-guides-you-through-audio-programs/)
 - [Big factories, big trucks and big Musk: Tesla Q4 earnings expectations](https://techcrunch.com/2023/01/24/big-factories-big-trucks-and-big-musk-tesla-q4-earnings-expectations/)
 - [Japan’s Terra Drone gets $14M lift from Saudi investors](https://techcrunch.com/2023/01/24/japans-terra-drone-gets-14m-lift-from-saudi-investors/)
 - [Rocket Lab launches 1st Electron booster from US soil in twilight liftoff](https://www.space.com/rocket-lab-1st-us-electron-launch)
-- [Asteroid mining startup AstroForge will test its metal refinery tech in space this year](https://techcrunch.com/2023/01/24/asteroid-mining-startup-astroforge-will-test-its-metal-refinery-tech-in-space-this-year/)
-- [Tesla invests $3.6B in two new Nevada factories to build Semis and cells](https://techcrunch.com/2023/01/24/tesla-invests-3-6b-in-two-new-nevada-factories-to-build-semis-and-cells/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
