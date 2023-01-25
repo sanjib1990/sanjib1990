@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [BMW continues its love affair with EVs, backing this Bulgarian startup’s $13M A-round](https://techcrunch.com/2023/01/25/bmw-continues-its-love-affair-with-evs-backing-this-bulgarian-startups-13m-a-round/)
+- [Gemba, a corporate VR training platform used by Coca-Cola and Pfizer,  raises $18M](https://techcrunch.com/2023/01/25/gemba-a-corporate-vr-training-platform-used-by-coca-cola-and-pfizer-raises-18m/)
+- [Multiple Microsoft services including Outlook, Teams and Xbox Live suffer outage](https://techcrunch.com/2023/01/25/microsoft-teams-outlook-service-outage/)
 - [Emperia is helping brands like Bloomingdales build shopping experiences in VR](https://techcrunch.com/2023/01/25/emperia-is-helping-brands-build-shopping-experiences-in-vr/)
 - [Twitter won’t force you to the ‘For You’ timeline on web anymore](https://techcrunch.com/2023/01/24/twitter-wont-force-you-to-the-for-you-timeline-on-web-anymore/)
-- [Dubai-based accounting and financial compliance startup, Wafeq, raises $3M](https://techcrunch.com/2023/01/24/dubai-based-accounting-and-financial-compliance-startup-wafeq-raises-3m/)
-- [Oneleaf is a self-hypnosis app that guides you through audio programs](https://techcrunch.com/2023/01/24/oneleaf-is-self-hypnosis-app-that-guides-you-through-audio-programs/)
-- [Big factories, big trucks and big Musk: Tesla Q4 earnings expectations](https://techcrunch.com/2023/01/24/big-factories-big-trucks-and-big-musk-tesla-q4-earnings-expectations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
