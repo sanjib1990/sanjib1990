@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Qiara is a new home security service for the French market](https://techcrunch.com/2023/01/25/qiara-is-a-new-home-security-service-for-the-french-market/)
+- [“Most active investor” FJ Labs closes on $260M across two new funds](https://techcrunch.com/2023/01/25/most-active-investor-fj-labs-closes-on-260m-across-two-new-vehicles/)
 - [Getsafe expands to France starting with home insurance](https://techcrunch.com/2023/01/25/getsafe-expands-to-france-starting-with-home-insurance/)
 - [Supernormal raises $10M to automatically transcribe and summarize meetings](https://techcrunch.com/2023/01/25/supernormal-raises-10m-to-automatically-transcribe-and-summarize-meetings/)
 - [Welcome to the Jungle grabs $54 million for its slick job platform](https://techcrunch.com/2023/01/25/welcome-to-the-jungle-grabs-54-million-for-its-slick-job-platform/)
-- [The thing we thought was happening with robotic investments is definitely happening](https://techcrunch.com/2023/01/25/the-thing-we-thought-was-happening-with-robotic-investments-is-definitely-happening/)
-- [Daily Crunch: ‘Network issue’ causes cloud outage that takes down multiple Microsoft services for 4+ hours](https://techcrunch.com/2023/01/25/daily-crunch-network-issue-causes-cloud-outage-that-takes-down-multiple-microsoft-services-for-4-hours/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
