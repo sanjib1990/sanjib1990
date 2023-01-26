@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Kenya’s growth was strongest in Africa’s VC market; Clean tech, E-commerce pulled in most of the funding](https://techcrunch.com/2023/01/26/kenyas-growth-was-strongest-in-africas-vc-market-clean-tech-e-commerce-pulled-in-most-of-the-funding/)
+- [Boeing&#39;s Starliner crew capsule channels R2-D2 ahead of astronaut test flight](https://www.space.com/boeing-starliner-r2d2-crew-flight-test)
+- [Teach yourself growth marketing: How to perform growth experimentation through A/B testing](https://techcrunch.com/2023/01/26/teach-yourself-growth-marketing-how-to-perform-growth-experimentation-through-a-b-testing/)
+- [Spatial Labs, a web3 infrastructure and hardware company, closes $10M seed round](https://techcrunch.com/2023/01/26/spatial-labs-a-web3-infrastructure-and-hardware-company-closes-10m-seed-round/)
 - [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [Mushroom protein company Meati Foods opens ‘mega’ facility; closes $22M in new funding](https://techcrunch.com/2023/01/26/meati-foods-foodtech-mycelium/)
-- [GitHub says it now has 100M active users](https://techcrunch.com/2023/01/26/github-says-it-now-has-100m-active-users/)
-- [Lego Icons Optimus Prime review](https://www.space.com/lego-icons-optimus-prime-10302-review)
-- [Rubble-pile asteroids are &#39;giant space cushions&#39; that live forever](https://www.space.com/rubble-pile-asteroids-resilient-long-lived)
 <!-- BLOG-POST-LIST:END -->
 
 ---
