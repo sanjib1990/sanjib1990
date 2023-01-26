@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX Starlink launch spawns gorgeous dawn clouds in Florida sky](https://www.space.com/spacex-starlink-launch-noctilucent-clouds-january-26)
-- [Mark Cuban’s bidet brand buys shower startup that wooed Tim Cook](https://techcrunch.com/2023/01/26/mark-cuban-brondell-acquires-shower-nebia-tim-cook/)
-- [HBO’s ‘Succession’ Season 4 premieres on March 26](https://techcrunch.com/2023/01/26/hbos-succession-season-4-premieres-on-march-26/)
-- [Renaissance Fusion raises $16.4 million to build nuclear fusion technology in Europe](https://techcrunch.com/2023/01/26/renaissance-fusion-raises-164-million-to-build-nuclear-fusion-technology-in-europe/)
-- [Mirantis acquires Shipa](https://techcrunch.com/2023/01/26/mirantis-acquires-shipa/)
+- [Pitch Deck Teardown: Orange’s $2.5M seed deck](https://techcrunch.com/2023/01/26/sample-seed-pitch-deck-orange/)
+- [NASA &#39;Day of Remembrance&#39; marks 20 years since space shuttle Columbia tragedy](https://www.space.com/nasa-day-of-remembrance-columbia-disaster-20th-anniversary)
+- [Stripe eyes an exit over next 12 months](https://techcrunch.com/2023/01/26/fintech-stripe-eyes-an-exit/)
+- [SpaceX destacks Starship to prep for epic 33-engine test fire &lpar;photos&rpar;](https://www.space.com/spacex-destacks-starship-33-engine-static-fire)
+- [Substack introduces ‘private Substacks’ that readers can request to subscribe to](https://techcrunch.com/2023/01/26/substack-introduces-private-substacks-that-readers-can-request-to-subscribe-to/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
