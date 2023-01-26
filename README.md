@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jumia’s investors rethink their stakes — for better and worse](https://techcrunch.com/2023/01/26/jumias-investors-rethink-their-stakes-for-better-and-worse/)
+- [Daily Crunch: Berlin-based design platform Kittl raises $11.6M Series A to take on Adobe and Canva](https://techcrunch.com/2023/01/26/daily-crunch-berlin-based-design-platform-kittl-raises-11-6m-series-a-to-take-on-adobe-and-canva/)
+- [Hands on with Walmart’s new &lpar;but buggy&rpar; ‘Text to Shop’ feature](https://techcrunch.com/2023/01/26/hands-on-with-walmarts-new-but-buggy-text-to-shop-feature/)
 - [NASA funds nuclear probes for icy moons, huge new space telescopes and other far-out tech ideas](https://www.space.com/nasa-space-technology-niac-grants-2023)
 - [Match restructures executive leadership, hires former Snap VP of Product as new CTO](https://techcrunch.com/2023/01/26/match-reshuffles-executive-leadership-hires-former-snap-vp-product-cto/)
-- [NASA&#39;s Lucy asteroid mission adds 10th space rock target](https://www.space.com/nasa-lucy-10th-asteroid-target-added)
-- [Blue Origin plans to fly all-female crew to suborbital space: report](https://www.space.com/blue-origin-all-female-mission-suborbital-space)
-- [China working on new moon rover for 2026 mission to lunar south pole](https://www.space.com/china-new-moon-rover-change-7-mission)
 <!-- BLOG-POST-LIST:END -->
 
 ---
