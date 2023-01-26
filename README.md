@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA funds nuclear probes for icy moons, huge new space telescopes and other far-out tech ideas](https://www.space.com/nasa-space-technology-niac-grants-2023)
+- [Match restructures executive leadership, hires former Snap VP of Product as new CTO](https://techcrunch.com/2023/01/26/match-reshuffles-executive-leadership-hires-former-snap-vp-product-cto/)
+- [NASA&#39;s Lucy asteroid mission adds 10th space rock target](https://www.space.com/nasa-lucy-10th-asteroid-target-added)
 - [Blue Origin plans to fly all-female crew to suborbital space: report](https://www.space.com/blue-origin-all-female-mission-suborbital-space)
 - [China working on new moon rover for 2026 mission to lunar south pole](https://www.space.com/china-new-moon-rover-change-7-mission)
-- [As activist investors target Salesforce, what’s next for the CRM giant?](https://techcrunch.com/2023/01/26/as-activist-investors-target-salesforce-whats-next-for-the-crm-giant/)
-- [Crypto job hunters should build personal brands and be ‘obsessed with web3’](https://techcrunch.com/2023/01/26/crypto-job-hunters-should-build-personal-brands-and-be-obsessed-with-web3/)
-- [Inscribe bags $25M to fight financial fraud with AI](https://techcrunch.com/2023/01/26/inscribe-bags-25m-to-fight-financial-fraud-with-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
