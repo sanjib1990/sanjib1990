@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [European smart thermostat startup Tado raises $46.9M after IPO plans falter](https://techcrunch.com/2023/01/26/european-smart-thermostat-startup-tado-raises-46-8m-after-ipo-plans-falter/)
+- [Danish startup Kanpla wants to help canteens cut food waste](https://techcrunch.com/2023/01/26/danish-startup-kanpla-wants-to-help-canteens-cut-food-waste/)
+- [This startup hopes to take on Canva, raising a $11.6M Series A for its design platform](https://techcrunch.com/2023/01/26/this-startup-hopes-to-take-on-canva-raising-a-11-6m-series-a-for-its-design-platform/)
 - [Angry Miao’s AM 65 Less is both more and less keyboard than you’ll ever need](https://techcrunch.com/2023/01/26/angry-miaos-500-am-65-less-is-both-more-and-less-keyboard-than-youll-ever-need/)
 - [Walmart readies another $2.5 billion investment in India’s e-commerce and payments](https://techcrunch.com/2023/01/25/walmart-readies-another-2-5-billion-investment-in-india-phonepe-flipkart/)
-- [Qiara is a new home security service for the French market](https://techcrunch.com/2023/01/25/qiara-is-a-new-home-security-service-for-the-french-market/)
-- [“Most active investor” FJ Labs closes on $260M across two new funds](https://techcrunch.com/2023/01/25/most-active-investor-fj-labs-closes-on-260m-across-two-new-vehicles/)
-- [Getsafe expands to France starting with home insurance](https://techcrunch.com/2023/01/25/getsafe-expands-to-france-starting-with-home-insurance/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
