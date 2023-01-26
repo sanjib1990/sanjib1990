@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mirantis acquires Shipa](https://techcrunch.com/2023/01/26/mirantis-acquires-shipa/)
+- [Car-sized asteroid will pass extremely close to Earth tonight](https://www.space.com/asteroid-2023-bu-super-close-earth-flyby)
+- [NEA now manages over $25 billion in assets – oh, and it’s looking beyond venture](https://techcrunch.com/2023/01/26/nea-now-manages-25-billion-in-assets-oh-and-its-looking-beyond-venture/)
+- [US announces it seized Hive ransomware gang’s leak sites and decryption keys](https://techcrunch.com/2023/01/26/united-states-hive-ransomware-seized/)
 - [SpaceX and astronomers come to agreement on reducing Starlink astronomy impact](https://www.space.com/spacex-starlink-astronomy-impact-reduction-agreement)
-- [TikTok expands its DM settings to let users choose who can message them](https://techcrunch.com/2023/01/26/tiktok-expands-dm-settings-let-users-choose-who-can-message-them/)
-- [Save over $200 on the Panasonic Lumix G100 mirrorless camera](https://www.space.com/panasonic-lumix-g100-deal-save-200-dollars-january)
-- [Japanese rocket launches radar spy satellite](https://www.space.com/japanese-rocket-igs-7-radar-satellite-launch)
-- [Peacock tops 20M subscribers in Q4 as losses widen](https://techcrunch.com/2023/01/26/peacock-tops-20m-subscribers-in-q4-as-losses-widen/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
