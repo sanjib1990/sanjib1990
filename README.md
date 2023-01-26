@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Japanese rocket launches radar spy satellite](https://www.space.com/japanese-rocket-igs-7-radar-satellite-launch)
+- [Peacock tops 20M subscribers in Q4 as losses widen](https://techcrunch.com/2023/01/26/peacock-tops-20m-subscribers-in-q4-as-losses-widen/)
 - [Method raises $16M to power loan repayment, balance transfers and more across fintech apps](https://techcrunch.com/2023/01/26/method-raises-16m-to-power-loan-repayment-balance-transfers-and-more-across-fintech-apps/)
 - [Finn brings B2B car subscriptions to US](https://techcrunch.com/2023/01/26/finn-brings-b2b-car-subscriptions-to-us/)
 - [Whalesync wants to simplify the process of syncing data between SaaS apps](https://techcrunch.com/2023/01/26/whalesync-wants-to-simplify-the-process-of-syncing-data-between-saas-apps/)
-- [Laid off from your crypto job? Here’s what founders are looking for in new talent](https://techcrunch.com/2023/01/26/laid-off-from-your-crypto-job-heres-what-founders-are-looking-for-in-new-talent/)
-- [European banks suck at AI, with US banks leading the field, according to a new index](https://techcrunch.com/2023/01/26/european-banks-suck-at-ai-with-us-banks-leading-the-field-according-to-a-new-index/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
