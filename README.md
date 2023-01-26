@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Angry Miao’s AM 65 Less is both more and less keyboard than you’ll ever need](https://techcrunch.com/2023/01/26/angry-miaos-500-am-65-less-is-both-more-and-less-keyboard-than-youll-ever-need/)
+- [Walmart readies another $2.5 billion investment in India’s e-commerce and payments](https://techcrunch.com/2023/01/25/walmart-readies-another-2-5-billion-investment-in-india-phonepe-flipkart/)
 - [Qiara is a new home security service for the French market](https://techcrunch.com/2023/01/25/qiara-is-a-new-home-security-service-for-the-french-market/)
 - [“Most active investor” FJ Labs closes on $260M across two new funds](https://techcrunch.com/2023/01/25/most-active-investor-fj-labs-closes-on-260m-across-two-new-vehicles/)
 - [Getsafe expands to France starting with home insurance](https://techcrunch.com/2023/01/25/getsafe-expands-to-france-starting-with-home-insurance/)
-- [Supernormal raises $10M to automatically transcribe and summarize meetings](https://techcrunch.com/2023/01/25/supernormal-raises-10m-to-automatically-transcribe-and-summarize-meetings/)
-- [Welcome to the Jungle grabs $54 million for its slick job platform](https://techcrunch.com/2023/01/25/welcome-to-the-jungle-grabs-54-million-for-its-slick-job-platform/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
