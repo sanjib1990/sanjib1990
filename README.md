@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Pitch Deck Teardown: Orange’s $2.5M seed deck](https://techcrunch.com/2023/01/26/sample-seed-pitch-deck-orange/)
-- [NASA &#39;Day of Remembrance&#39; marks 20 years since space shuttle Columbia tragedy](https://www.space.com/nasa-day-of-remembrance-columbia-disaster-20th-anniversary)
-- [Stripe eyes an exit over next 12 months](https://techcrunch.com/2023/01/26/fintech-stripe-eyes-an-exit/)
-- [SpaceX destacks Starship to prep for epic 33-engine test fire &lpar;photos&rpar;](https://www.space.com/spacex-destacks-starship-33-engine-static-fire)
-- [Substack introduces ‘private Substacks’ that readers can request to subscribe to](https://techcrunch.com/2023/01/26/substack-introduces-private-substacks-that-readers-can-request-to-subscribe-to/)
+- [China working on new moon rover for 2026 mission to lunar south pole](https://www.space.com/china-new-moon-rover-change-7-mission)
+- [As activist investors target Salesforce, what’s next for the CRM giant?](https://techcrunch.com/2023/01/26/as-activist-investors-target-salesforce-whats-next-for-the-crm-giant/)
+- [Crypto job hunters should build personal brands and be ‘obsessed with web3’](https://techcrunch.com/2023/01/26/crypto-job-hunters-should-build-personal-brands-and-be-obsessed-with-web3/)
+- [Inscribe bags $25M to fight financial fraud with AI](https://techcrunch.com/2023/01/26/inscribe-bags-25m-to-fight-financial-fraud-with-ai/)
+- [Then call them ‘robots’](https://techcrunch.com/2023/01/26/then-call-them-robots/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
