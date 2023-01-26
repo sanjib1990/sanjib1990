@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Kenya’s growth was strongest in Africa’s VC market; Clean tech, E-commerce pulled in most of the funding](https://techcrunch.com/2023/01/26/kenyas-growth-was-strongest-in-africas-vc-market-clean-tech-e-commerce-pulled-in-most-of-the-funding/)
-- [Boeing&#39;s Starliner crew capsule channels R2-D2 ahead of astronaut test flight](https://www.space.com/boeing-starliner-r2d2-crew-flight-test)
-- [Teach yourself growth marketing: How to perform growth experimentation through A/B testing](https://techcrunch.com/2023/01/26/teach-yourself-growth-marketing-how-to-perform-growth-experimentation-through-a-b-testing/)
-- [Spatial Labs, a web3 infrastructure and hardware company, closes $10M seed round](https://techcrunch.com/2023/01/26/spatial-labs-a-web3-infrastructure-and-hardware-company-closes-10m-seed-round/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [Method raises $16M to power loan repayment, balance transfers and more across fintech apps](https://techcrunch.com/2023/01/26/method-raises-16m-to-power-loan-repayment-balance-transfers-and-more-across-fintech-apps/)
+- [Finn brings B2B car subscriptions to US](https://techcrunch.com/2023/01/26/finn-brings-b2b-car-subscriptions-to-us/)
+- [Whalesync wants to simplify the process of syncing data between SaaS apps](https://techcrunch.com/2023/01/26/whalesync-wants-to-simplify-the-process-of-syncing-data-between-saas-apps/)
+- [Laid off from your crypto job? Here’s what founders are looking for in new talent](https://techcrunch.com/2023/01/26/laid-off-from-your-crypto-job-heres-what-founders-are-looking-for-in-new-talent/)
+- [European banks suck at AI, with US banks leading the field, according to a new index](https://techcrunch.com/2023/01/26/european-banks-suck-at-ai-with-us-banks-leading-the-field-according-to-a-new-index/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
