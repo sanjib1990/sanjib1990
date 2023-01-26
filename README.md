@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX Starlink launch spawns gorgeous dawn clouds in Florida sky](https://www.space.com/spacex-starlink-launch-noctilucent-clouds-january-26)
+- [Mark Cuban’s bidet brand buys shower startup that wooed Tim Cook](https://techcrunch.com/2023/01/26/mark-cuban-brondell-acquires-shower-nebia-tim-cook/)
+- [HBO’s ‘Succession’ Season 4 premieres on March 26](https://techcrunch.com/2023/01/26/hbos-succession-season-4-premieres-on-march-26/)
+- [Renaissance Fusion raises $16.4 million to build nuclear fusion technology in Europe](https://techcrunch.com/2023/01/26/renaissance-fusion-raises-164-million-to-build-nuclear-fusion-technology-in-europe/)
 - [Mirantis acquires Shipa](https://techcrunch.com/2023/01/26/mirantis-acquires-shipa/)
-- [Car-sized asteroid will pass extremely close to Earth tonight](https://www.space.com/asteroid-2023-bu-super-close-earth-flyby)
-- [NEA now manages over $25 billion in assets – oh, and it’s looking beyond venture](https://techcrunch.com/2023/01/26/nea-now-manages-25-billion-in-assets-oh-and-its-looking-beyond-venture/)
-- [US announces it seized Hive ransomware gang’s leak sites and decryption keys](https://techcrunch.com/2023/01/26/united-states-hive-ransomware-seized/)
-- [SpaceX and astronomers come to agreement on reducing Starlink astronomy impact](https://www.space.com/spacex-starlink-astronomy-impact-reduction-agreement)
 <!-- BLOG-POST-LIST:END -->
 
 ---
