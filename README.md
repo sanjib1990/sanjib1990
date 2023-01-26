@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [Mushroom protein company Meati Foods opens ‘mega’ facility; closes $22M in new funding](https://techcrunch.com/2023/01/26/meati-foods-foodtech-mycelium/)
+- [GitHub says it now has 100M active users](https://techcrunch.com/2023/01/26/github-says-it-now-has-100m-active-users/)
+- [Lego Icons Optimus Prime review](https://www.space.com/lego-icons-optimus-prime-10302-review)
 - [Rubble-pile asteroids are &#39;giant space cushions&#39; that live forever](https://www.space.com/rubble-pile-asteroids-resilient-long-lived)
-- [China&#39;s Yutu 2 rover still going strong after 4 years on the moon&#39;s far side](https://www.space.com/china-yutu-2-rover-four-years-moon)
-- [Hawk AI, an anti-money laundering and fraud prevention platform for banks, raises $17M](https://techcrunch.com/2023/01/26/hawk-ai-an-anti-money-laundering-and-fraud-prevention-platform-for-banks-raises-16m/)
-- [SpaceX launches heaviest payload on nine times reused rocket](https://www.space.com/spacex-starlink-satellites-group-5-2-launch)
-- [European smart thermostat startup Tado raises $46.9M after IPO plans falter](https://techcrunch.com/2023/01/26/european-smart-thermostat-startup-tado-raises-46-8m-after-ipo-plans-falter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
