@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The thing we thought was happening with robotic investments is definitely happening](https://techcrunch.com/2023/01/25/the-thing-we-thought-was-happening-with-robotic-investments-is-definitely-happening/)
 - [Daily Crunch: ‘Network issue’ causes cloud outage that takes down multiple Microsoft services for 4+ hours](https://techcrunch.com/2023/01/25/daily-crunch-network-issue-causes-cloud-outage-that-takes-down-multiple-microsoft-services-for-4-hours/)
 - [Tier Mobility and Spin lay off 100 more employees](https://techcrunch.com/2023/01/25/tier-mobility-and-spin-lay-off-100-more-employees/)
 - [Dell has acquired cloud orchestration startup Cloudify, sources tell us for around $100M](https://techcrunch.com/2023/01/25/dell-has-acquired-cloud-orchestration-startup-cloudify-sources-tell-us-for-around-100m/)
 - [Meta will restore Trump’s Facebook account ‘in the coming weeks’](https://techcrunch.com/2023/01/25/trump-facebook-instagram-meta/)
-- [2022 European edtech report: Smaller rounds and fewer deals, but more angel activity](https://techcrunch.com/2023/01/25/2022-european-edtech-report-smaller-rounds-and-fewer-deals-but-more-angel-activity/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
