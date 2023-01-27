@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [The Best PC I Have Ever Built!](https://www.youtube.com/watch?v=InnFUrE73tU)
-- [S4:E2: Wellbeing is the Goal with Prof. Frank Schilbach](https://www.youtube.com/watch?v=4GiPsGjGVVM)
-- [Neo4j in 100 Seconds](https://www.youtube.com/watch?v=T6L9EoBy8Zk)
-- [real eyes realize AI lies](https://www.youtube.com/watch?v=Z8omJ59hNfY)
-- [5 ideas for your own AI grift with ChatGPT](https://www.youtube.com/watch?v=Aa83vRghue4)
+- [Lecture 2: Morphology, Part 1](https://www.youtube.com/watch?v=Mvy5hjAWeZw)
+- [Lecture 26: Signed Languages](https://www.youtube.com/watch?v=12UWP2ZhUl0)
+- [Lecture 4: Morphology, Part 3](https://www.youtube.com/watch?v=vxOO8cIn398)
+- [Lecture 5: Phonetics, Part 1](https://www.youtube.com/watch?v=xZ8mnJPu95Q)
+- [Lecture 22: Dialects](https://www.youtube.com/watch?v=6QRlpk8ZmPI)
 <!-- YOUTUBE:END -->
 
 ---
