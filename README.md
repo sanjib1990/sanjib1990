@@ -82,7 +82,7 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [My New Hacking PC &lpar;2023&rpar;](https://www.youtube.com/watch?v=InnFUrE73tU)
+- [The Best PC I Have Ever Built!](https://www.youtube.com/watch?v=InnFUrE73tU)
 - [S4:E2: Wellbeing is the Goal with Prof. Frank Schilbach](https://www.youtube.com/watch?v=4GiPsGjGVVM)
 - [Neo4j in 100 Seconds](https://www.youtube.com/watch?v=T6L9EoBy8Zk)
 - [real eyes realize AI lies](https://www.youtube.com/watch?v=Z8omJ59hNfY)
