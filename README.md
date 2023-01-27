@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists spot 1st gamma-ray eclipses from strange &#39;spider&#39; star systems](https://www.space.com/spider-system-pulsar-gamma-ray-eclipses)
+- [The best Twitter alternatives worth checking out](https://techcrunch.com/2023/01/27/best-twitter-alternatives-social-apps/)
+- [Europe&#39;s JUICE mission to Jupiter&#39;s moons preparing for April 14 launch](https://www.space.com/juice-jupiter-moons-mission-launch-target-april-14)
 - [Atomos tows a $16M load of funding to create tugboats in space](https://techcrunch.com/2023/01/27/space-tug-boats-toot-toot-atomos/)
 - [Warner Bros. swiped our Harry Potter wand IP, says Kano](https://techcrunch.com/2023/01/27/warner-bros-swiped-our-harry-potter-wand-ip-says-kano/)
-- [Hear the right way to acquire customers with Cube and Mayfield on TechCrunch Live](https://techcrunch.com/2023/01/27/techcrunch-live-with-cube-and-mayfield-february8/)
-- [You could be Wasted and not even know it](https://techcrunch.com/2023/01/27/you-could-be-wasted-and-not-even-know-it/)
-- [TechCrunch+ roundup: No-code MVP strategy, hiring under scrutiny, A/B growth testing](https://techcrunch.com/2023/01/27/techcrunch-roundup-no-code-mvp-strategy-a-b-growth-testing-hiring-under-scrutiny/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
