@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How US police use digital data to prosecute abortions](https://techcrunch.com/2023/01/27/digital-data-roe-wade-reproductive-privacy/)
-- [Scientists spot 1st gamma-ray eclipses from strange &#39;spider&#39; star systems](https://www.space.com/spider-system-pulsar-gamma-ray-eclipses)
-- [The best Twitter alternatives worth checking out](https://techcrunch.com/2023/01/27/best-twitter-alternatives-social-apps/)
-- [Europe&#39;s JUICE mission to Jupiter&#39;s moons preparing for April 14 launch](https://www.space.com/juice-jupiter-moons-mission-launch-target-april-14)
-- [Atomos tows a $16M load of funding to create tugboats in space](https://techcrunch.com/2023/01/27/space-tug-boats-toot-toot-atomos/)
+- [&#39;Dead Space&#39; returns to haunt your dreams with new next-generation remake](https://www.space.com/dead-space-remake-next-generation)
+- [The 403-page Dungeons &amp; Dragons game system is now licensed under Creative Commons](https://techcrunch.com/2023/01/27/dungeons-dragons-creative-commons-license/)
+- [Elon Musk is being investigated by the SEC for Tesla self-driving claims, report says](https://techcrunch.com/2023/01/27/elon-musk-is-being-investigated-by-the-sec-for-tesla-self-driving-claims/)
+- [What does selling to platform engineering teams mean for developer relations?](https://techcrunch.com/2023/01/27/what-does-selling-to-platform-engineering-teams-mean-for-developer-relations/)
+- [Watch an SUV-sized asteroid zoom by Earth in close shave flyby in this time-lapse video](https://www.space.com/watch-asteroid-2023bu-make-close-earth-flyby)
 <!-- BLOG-POST-LIST:END -->
 
 ---
