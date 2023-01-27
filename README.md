@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter co-founder Biz Stone joins board of audiovisual startup Chroma](https://techcrunch.com/2023/01/27/twitter-co-founder-biz-stone-joins-board-of-audio-visual-startup-chroma/)
 - [Chrome for Android now lets you lock your incognito session](https://techcrunch.com/2023/01/26/chrome-for-android-now-lets-you-lock-your-incognito-session/)
 - [Jumia’s investors rethink their stakes — for better and worse](https://techcrunch.com/2023/01/26/jumias-investors-rethink-their-stakes-for-better-and-worse/)
 - [Daily Crunch: Berlin-based design platform Kittl raises $11.6M Series A to take on Adobe and Canva](https://techcrunch.com/2023/01/26/daily-crunch-berlin-based-design-platform-kittl-raises-11-6m-series-a-to-take-on-adobe-and-canva/)
 - [Hands on with Walmart’s new &lpar;but buggy&rpar; ‘Text to Shop’ feature](https://techcrunch.com/2023/01/26/hands-on-with-walmarts-new-but-buggy-text-to-shop-feature/)
-- [NASA funds nuclear probes for icy moons, huge new space telescopes and other far-out tech ideas](https://www.space.com/nasa-space-technology-niac-grants-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
