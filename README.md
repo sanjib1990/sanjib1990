@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Stripe responds to report that it seeks to raise $2B with a terse ‘no comment’](https://techcrunch.com/2023/01/27/daily-crunch-stripe-responds-to-report-that-it-seeks-to-raise-2b-with-a-terse-no-comment/)
+- [Private Peregrine moon lander completes testing ahead of landmark lunar launch](https://www.space.com/peregrine-moon-lander-spaceflight-testing-complete)
+- [2 big pieces of space junk nearly collide in orbital &#39;bad neighborhood&#39;](https://www.space.com/space-debris-near-miss-orbital-bad-neighborhood)
 - [&#39;Dead Space&#39; returns to haunt your dreams with new next-generation remake](https://www.space.com/dead-space-remake-next-generation)
 - [The 403-page Dungeons &amp; Dragons game system is now licensed under Creative Commons](https://techcrunch.com/2023/01/27/dungeons-dragons-creative-commons-license/)
-- [Elon Musk is being investigated by the SEC for Tesla self-driving claims, report says](https://techcrunch.com/2023/01/27/elon-musk-is-being-investigated-by-the-sec-for-tesla-self-driving-claims/)
-- [What does selling to platform engineering teams mean for developer relations?](https://techcrunch.com/2023/01/27/what-does-selling-to-platform-engineering-teams-mean-for-developer-relations/)
-- [Watch an SUV-sized asteroid zoom by Earth in close shave flyby in this time-lapse video](https://www.space.com/watch-asteroid-2023bu-make-close-earth-flyby)
 <!-- BLOG-POST-LIST:END -->
 
 ---
