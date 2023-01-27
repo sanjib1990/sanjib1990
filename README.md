@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Optical illusion gives rare green comet an &#39;anti-tail&#39; that seemingly defies physics](https://www.space.com/green-comet-anti-tail-illusion)
+- [Report: Stripe tried to raise more funding at a $55B-$60B valuation](https://techcrunch.com/2023/01/27/fintech-stripe-tried-to-raise-more-capital-at-a-55b-60b-valuation/)
+- [Starling Medical’s new urine-testing device turns your toilet into a health tracker](https://techcrunch.com/2023/01/27/starling-medical-urine-health/)
+- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
 - [Energy transition investments hit $1.1 trillion — with a T — last year](https://techcrunch.com/2023/01/27/energy-transition-investments-hit-1-1-trillion-with-a-t-last-year/)
-- [NASA to launch Psyche asteroid probe in October 2023 after delays](https://www.space.com/psyche-asteroid-probe-october-2023-launch)
-- [How African startups raised venture capital in 2022](https://techcrunch.com/2023/01/27/how-african-startups-raised-venture-capital-in-2022/)
-- [See the moon eclipse Mars on Jan. 30 in free telescope webcast](https://www.space.com/mars-lunar-occultation-january-30-2023-webcast)
-- [4 practical steps for using no-code to evolve your prototype to an MVP](https://techcrunch.com/2023/01/27/4-practical-steps-for-using-no-code-to-evolve-your-prototype-to-an-mvp/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
