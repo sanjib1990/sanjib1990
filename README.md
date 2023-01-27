@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s Geotail spacecraft ends 30-year mission studying Earth&#39;s magnetosphere](https://www.space.com/nasa-geotail-magnetosphere-spacecraft-ends-mission)
+- [Celestron NexStar 4SE telescope review](https://www.space.com/celestron-nexstar-4se-telescope-review)
 - [Optical illusion gives rare green comet an &#39;anti-tail&#39; that seemingly defies physics](https://www.space.com/green-comet-anti-tail-illusion)
 - [Report: Stripe tried to raise more funding at a $55B-$60B valuation](https://techcrunch.com/2023/01/27/fintech-stripe-tried-to-raise-more-capital-at-a-55b-60b-valuation/)
 - [Starling Medical’s new urine-testing device turns your toilet into a health tracker](https://techcrunch.com/2023/01/27/starling-medical-urine-health/)
-- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
-- [Energy transition investments hit $1.1 trillion — with a T — last year](https://techcrunch.com/2023/01/27/energy-transition-investments-hit-1-1-trillion-with-a-t-last-year/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
