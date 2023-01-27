@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Atomos tows a $16M load of funding to create tugboats in space](https://techcrunch.com/2023/01/27/space-tug-boats-toot-toot-atomos/)
+- [Warner Bros. swiped our Harry Potter wand IP, says Kano](https://techcrunch.com/2023/01/27/warner-bros-swiped-our-harry-potter-wand-ip-says-kano/)
+- [Hear the right way to acquire customers with Cube and Mayfield on TechCrunch Live](https://techcrunch.com/2023/01/27/techcrunch-live-with-cube-and-mayfield-february8/)
+- [You could be Wasted and not even know it](https://techcrunch.com/2023/01/27/you-could-be-wasted-and-not-even-know-it/)
 - [TechCrunch+ roundup: No-code MVP strategy, hiring under scrutiny, A/B growth testing](https://techcrunch.com/2023/01/27/techcrunch-roundup-no-code-mvp-strategy-a-b-growth-testing-hiring-under-scrutiny/)
-- [China wants to launch over 200 spacecraft in 2023](https://www.space.com/china-launch-200-spacecraft-2023)
-- [HBO’s ‘The Last of Us’ gets a second season following successful debut](https://techcrunch.com/2023/01/27/hbos-the-last-of-us-gets-a-second-season/)
-- [Google created an AI that can generate music from text descriptions, but won’t release it](https://techcrunch.com/2023/01/27/google-created-an-ai-that-can-generate-music-from-text-descriptions-but-wont-release-it/)
-- [Galactic collisions act as a &#39;cosmic delivery service&#39; for hungry monster black holes](https://www.space.com/galactic-collisions-feed-supermassive-black-holes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
