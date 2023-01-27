@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch+ roundup: No-code MVP strategy, hiring under scrutiny, A/B growth testing](https://techcrunch.com/2023/01/27/techcrunch-roundup-no-code-mvp-strategy-a-b-growth-testing-hiring-under-scrutiny/)
+- [China wants to launch over 200 spacecraft in 2023](https://www.space.com/china-launch-200-spacecraft-2023)
+- [HBO’s ‘The Last of Us’ gets a second season following successful debut](https://techcrunch.com/2023/01/27/hbos-the-last-of-us-gets-a-second-season/)
+- [Google created an AI that can generate music from text descriptions, but won’t release it](https://techcrunch.com/2023/01/27/google-created-an-ai-that-can-generate-music-from-text-descriptions-but-wont-release-it/)
 - [Galactic collisions act as a &#39;cosmic delivery service&#39; for hungry monster black holes](https://www.space.com/galactic-collisions-feed-supermassive-black-holes)
-- [What’s going on in the Dutch startup scene?](https://techcrunch.com/2023/01/27/hrh-prince-constantijn-at-ces-2023/)
-- [The current legal cases against generative AI are just the beginning](https://techcrunch.com/2023/01/27/the-current-legal-cases-against-generative-ai-are-just-the-beginning/)
-- [Celestron SkyMaster 12x60 binocular review](https://www.space.com/celestron-skymaster-12x60-binocular-review)
-- [Uber Eats now shows you how much of your information is shared with delivery people](https://techcrunch.com/2023/01/27/uber-eats-now-shows-how-much-information-shared-delivery-people/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
