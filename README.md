@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Juno: New Origins&#39; indie game lets you launch rockets and build planets](https://www.space.com/juno-new-origins-game-launch-rockets-build-planets)
+- [James Webb Space Telescope discovers water ice at ringed asteroid Chariklo &#39;by remarkable luck&#39;](https://www.space.com/james-webb-space-telescope-chariklo-water-ice)
 - [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [Twitter co-founder Biz Stone joins board of audiovisual startup Chroma](https://techcrunch.com/2023/01/27/twitter-co-founder-biz-stone-joins-board-of-audio-visual-startup-chroma/)
 - [Chrome for Android now lets you lock your incognito session](https://techcrunch.com/2023/01/26/chrome-for-android-now-lets-you-lock-your-incognito-session/)
-- [Jumia’s investors rethink their stakes — for better and worse](https://techcrunch.com/2023/01/26/jumias-investors-rethink-their-stakes-for-better-and-worse/)
-- [Daily Crunch: Berlin-based design platform Kittl raises $11.6M Series A to take on Adobe and Canva](https://techcrunch.com/2023/01/26/daily-crunch-berlin-based-design-platform-kittl-raises-11-6m-series-a-to-take-on-adobe-and-canva/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
