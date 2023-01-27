@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s Geotail spacecraft ends 30-year mission studying Earth&#39;s magnetosphere](https://www.space.com/nasa-geotail-magnetosphere-spacecraft-ends-mission)
-- [Celestron NexStar 4SE telescope review](https://www.space.com/celestron-nexstar-4se-telescope-review)
-- [Optical illusion gives rare green comet an &#39;anti-tail&#39; that seemingly defies physics](https://www.space.com/green-comet-anti-tail-illusion)
-- [Report: Stripe tried to raise more funding at a $55B-$60B valuation](https://techcrunch.com/2023/01/27/fintech-stripe-tried-to-raise-more-capital-at-a-55b-60b-valuation/)
-- [Starling Medical’s new urine-testing device turns your toilet into a health tracker](https://techcrunch.com/2023/01/27/starling-medical-urine-health/)
+- [Galactic collisions act as a &#39;cosmic delivery service&#39; for hungry monster black holes](https://www.space.com/galactic-collisions-feed-supermassive-black-holes)
+- [What’s going on in the Dutch startup scene?](https://techcrunch.com/2023/01/27/hrh-prince-constantijn-at-ces-2023/)
+- [The current legal cases against generative AI are just the beginning](https://techcrunch.com/2023/01/27/the-current-legal-cases-against-generative-ai-are-just-the-beginning/)
+- [Celestron SkyMaster 12x60 binocular review](https://www.space.com/celestron-skymaster-12x60-binocular-review)
+- [Uber Eats now shows you how much of your information is shared with delivery people](https://techcrunch.com/2023/01/27/uber-eats-now-shows-how-much-information-shared-delivery-people/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
