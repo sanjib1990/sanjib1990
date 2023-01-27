@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See the moon eclipse Mars on Jan. 30 in free telescope webcast](https://www.space.com/mars-lunar-occultation-january-30-2023-webcast)
+- [4 practical steps for using no-code to evolve your prototype to an MVP](https://techcrunch.com/2023/01/27/4-practical-steps-for-using-no-code-to-evolve-your-prototype-to-an-mvp/)
 - [&#39;Juno: New Origins&#39; indie game lets you launch rockets and build planets](https://www.space.com/juno-new-origins-game-launch-rockets-build-planets)
 - [James Webb Space Telescope discovers water ice at ringed asteroid Chariklo &#39;by remarkable luck&#39;](https://www.space.com/james-webb-space-telescope-chariklo-water-ice)
 - [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [Twitter co-founder Biz Stone joins board of audiovisual startup Chroma](https://techcrunch.com/2023/01/27/twitter-co-founder-biz-stone-joins-board-of-audio-visual-startup-chroma/)
-- [Chrome for Android now lets you lock your incognito session](https://techcrunch.com/2023/01/26/chrome-for-android-now-lets-you-lock-your-incognito-session/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
