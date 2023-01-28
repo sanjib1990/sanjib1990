@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Aptos wants to shake up the blockchain space by creating more economic value, co-founder says](https://techcrunch.com/2023/01/28/aptos-wants-to-shake-up-the-blockchain-space-by-creating-more-economic-value-co-founder-says/)
+- [UAE lunar rover will test 1st artificial intelligence on the moon with Canada](https://www.space.com/moon-artificial-intelligence-system-first-solar-system)
 - [Toyota’s surprise executive shakeup may disappoint investors](https://techcrunch.com/2023/01/28/toyotas-surprise-executive-shakeup-may-disappoint-investors/)
 - [NASA astronaut Sally Ride statue to be unveiled in Los Angeles on July 4](https://www.space.com/sally-ride-statue-los-angeles-unveiling-july-4)
 - [Watch the 1st half-lit first quarter moon of 2023 rise tonight](https://www.space.com/1st-first-quarter-moon-2023-jan-28-2023)
-- [European Space Agency seeks more use of logo, mission patches on merchandise](https://www.space.com/european-space-agency-esa-logo-brand-merchandise)
-- [Watch the moon eclipse Uranus tonight](https://www.space.com/uranus-moon-occultation-jan-28-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
