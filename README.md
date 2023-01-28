@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA’s ‘Mega Moon Rocket’ aced first flight and is ready for crewed Artemis II launch](https://techcrunch.com/2023/01/27/nasas-mega-moon-rocket-aced-first-flight-and-is-ready-for-crewed-artemis-ii-launch/)
 - [Daily Crunch: Stripe responds to report that it seeks to raise $2B with a terse ‘no comment’](https://techcrunch.com/2023/01/27/daily-crunch-stripe-responds-to-report-that-it-seeks-to-raise-2b-with-a-terse-no-comment/)
 - [Private Peregrine moon lander completes testing ahead of landmark lunar launch](https://www.space.com/peregrine-moon-lander-spaceflight-testing-complete)
 - [2 big pieces of space junk nearly collide in orbital &#39;bad neighborhood&#39;](https://www.space.com/space-debris-near-miss-orbital-bad-neighborhood)
 - [&#39;Dead Space&#39; returns to haunt your dreams with new next-generation remake](https://www.space.com/dead-space-remake-next-generation)
-- [The 403-page Dungeons &amp; Dragons game system is now licensed under Creative Commons](https://techcrunch.com/2023/01/27/dungeons-dragons-creative-commons-license/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
