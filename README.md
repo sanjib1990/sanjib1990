@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA astronaut Sally Ride statue to be unveiled in Los Angeles on July 4](https://www.space.com/sally-ride-statue-los-angeles-unveiling-july-4)
+- [Watch the 1st half-lit first quarter moon of 2023 rise tonight](https://www.space.com/1st-first-quarter-moon-2023-jan-28-2023)
 - [European Space Agency seeks more use of logo, mission patches on merchandise](https://www.space.com/european-space-agency-esa-logo-brand-merchandise)
 - [Watch the moon eclipse Uranus tonight](https://www.space.com/uranus-moon-occultation-jan-28-2023)
 - [Return to the Rocinante with a new 12-issue comic series, &#39;The Expanse: Dragon Tooth&#39;](https://www.space.com/the-expanse-dragon-tooth-comic-series-april)
-- [Fifth Wall, focused on real estate tech and managing $3.2B, looks to eat up even more of its market](https://techcrunch.com/2023/01/27/fifth-wall-focused-on-real-estate-tech-and-managing-3-2b-looks-to-eat-up-even-more-of-its-market/)
-- [NASA’s ‘Mega Moon Rocket’ aced first flight and is ready for crewed Artemis II launch](https://techcrunch.com/2023/01/27/nasas-mega-moon-rocket-aced-first-flight-and-is-ready-for-crewed-artemis-ii-launch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
