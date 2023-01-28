@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Toyota’s surprise executive shakeup may disappoint investors](https://techcrunch.com/2023/01/28/toyotas-surprise-executive-shakeup-may-disappoint-investors/)
 - [NASA astronaut Sally Ride statue to be unveiled in Los Angeles on July 4](https://www.space.com/sally-ride-statue-los-angeles-unveiling-july-4)
 - [Watch the 1st half-lit first quarter moon of 2023 rise tonight](https://www.space.com/1st-first-quarter-moon-2023-jan-28-2023)
 - [European Space Agency seeks more use of logo, mission patches on merchandise](https://www.space.com/european-space-agency-esa-logo-brand-merchandise)
 - [Watch the moon eclipse Uranus tonight](https://www.space.com/uranus-moon-occultation-jan-28-2023)
-- [Return to the Rocinante with a new 12-issue comic series, &#39;The Expanse: Dragon Tooth&#39;](https://www.space.com/the-expanse-dragon-tooth-comic-series-april)
 <!-- BLOG-POST-LIST:END -->
 
 ---
