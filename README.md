@@ -98,7 +98,7 @@
 - [NASA spies Martian rocks that look just like a teddy bear](https://www.space.com/mars-teddy-bear-face-hirise)
 - [VC funding to Black web3 founders popped last year, bucking trends](https://techcrunch.com/2023/01/29/vc-funding-to-black-web3-startups-popped-last-year-bucking-trends/)
 - [Hubble Space Telescope captures stunning red view of the Soul Nebula](https://www.space.com/hubble-space-telescope-soul-nebula-photo)
-- [Watch SpaceX launch 49 Starlink internet satellites to orbit Sunday](https://www.space.com/spacex-starlink-group-2-6-launch)
+- [Watch SpaceX launch 49 Starlink internet satellites to orbit Monday after delay](https://www.space.com/spacex-starlink-group-2-6-launch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
