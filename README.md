@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hubble Space Telescope captures stunning red view of the Soul Nebula](https://www.space.com/hubble-space-telescope-soul-nebula-photo)
 - [Watch SpaceX launch 49 Starlink internet satellites to orbit Sunday](https://www.space.com/spacex-starlink-group-2-6-launch)
 - [What are gluons?](https://www.space.com/gluons-carriers-strong-force-explained)
 - [I drove 10 hours to watch a 9-minute Rocket Lab launch from Virginia and it was glorious](https://www.space.com/rocket-lab-first-us-launch-first-person-view)
 - [Almost anyone can become an amateur astronomer. What will you find?](https://www.space.com/astronomy-space-for-amateurs)
-- [Stripe eyes an exit, Dell bets on the cloud, and Shutterstock embraces generative AI](https://techcrunch.com/2023/01/28/stripe-eyes-an-exit-dell-bets-on-the-cloud-and-shutterstock-embraces-generative-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
