@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [VC funding to Black web3 founders popped last year, bucking trends](https://techcrunch.com/2023/01/29/vc-funding-to-black-web3-startups-popped-last-year-bucking-trends/)
 - [Hubble Space Telescope captures stunning red view of the Soul Nebula](https://www.space.com/hubble-space-telescope-soul-nebula-photo)
 - [Watch SpaceX launch 49 Starlink internet satellites to orbit Sunday](https://www.space.com/spacex-starlink-group-2-6-launch)
 - [What are gluons?](https://www.space.com/gluons-carriers-strong-force-explained)
 - [I drove 10 hours to watch a 9-minute Rocket Lab launch from Virginia and it was glorious](https://www.space.com/rocket-lab-first-us-launch-first-person-view)
-- [Almost anyone can become an amateur astronomer. What will you find?](https://www.space.com/astronomy-space-for-amateurs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
