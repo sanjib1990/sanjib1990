@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch SpaceX launch 49 Starlink internet satellites to orbit Sunday](https://www.space.com/spacex-starlink-group-2-6-launch)
+- [What are gluons?](https://www.space.com/gluons-carriers-strong-force-explained)
+- [I drove 10 hours to watch a 9-minute Rocket Lab launch from Virginia and it was glorious](https://www.space.com/rocket-lab-first-us-launch-first-person-view)
+- [Almost anyone can become an amateur astronomer. What will you find?](https://www.space.com/astronomy-space-for-amateurs)
 - [Stripe eyes an exit, Dell bets on the cloud, and Shutterstock embraces generative AI](https://techcrunch.com/2023/01/28/stripe-eyes-an-exit-dell-bets-on-the-cloud-and-shutterstock-embraces-generative-ai/)
-- [This Week in Apps: Temu’s hot streak, Walmart’s m-commerce &amp; an Apple XR App Store](https://techcrunch.com/2023/01/28/this-week-in-apps-temus-hot-streak-walmarts-m-commerce-an-apple-xr-app-store/)
-- [The latecomer advantage in startups](https://techcrunch.com/2023/01/28/the-latecomer-advantage-in-startups/)
-- [Where should sales sit in product-led companies?](https://techcrunch.com/2023/01/28/where-should-sales-sit-in-product-led-companies/)
-- [Aptos wants to shake up the blockchain space by creating more economic value, co-founder says](https://techcrunch.com/2023/01/28/aptos-wants-to-shake-up-the-blockchain-space-by-creating-more-economic-value-co-founder-says/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
