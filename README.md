@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cubesat that launched on SpaceX Falcon 9 rocket will test water-based propulsion](https://www.space.com/cubesat-water-thruster-propulsion-test-pale-blue)
 - [Rewind’s new app lets you ‘time travel’ through music from decades past](https://techcrunch.com/2023/01/30/rewinds-new-app-lets-you-time-travel-through-music-from-decades-past/)
 - [Green comet C/2022 E3 &lpar;ZTF&rpar; will be closest to Earth on Feb. 1. Here&#39;s how to see it.](https://www.space.com/comet-c2022-e3-ztf-closest-approach-feb-1)
 - [If, and only if, McDonald’s had an appetite for acquisitions](https://techcrunch.com/2023/01/30/if-and-only-if-mcdonalds-had-an-appetite-for-acquisitions/)
 - [Like me, Loona the Petbot is dumb but lovable](https://techcrunch.com/2023/01/30/loona-petbot-review/)
-- [Perseverance Mars rover stashes 10th sample, completing Red Planet depot](https://www.space.com/perseverance-mars-rover-completes-sample-depot)
 <!-- BLOG-POST-LIST:END -->
 
 ---
