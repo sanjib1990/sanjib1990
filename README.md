@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Elon takes the stand, Akio Toyoda hands over the CEO keys and layoffs come for Waymo](https://techcrunch.com/2023/01/30/elon-takes-the-stand-akio-toyoda-hands-over-the-ceo-keys-and-layoffs-come-for-waymo/)
+- [Sorare teams up with the Premier League for its NFT fantasy football game](https://techcrunch.com/2023/01/30/sorare-teams-up-with-the-premier-league-for-its-nft-fantasy-football-game/)
 - [The Comet Interceptor probe could visit a stunning object like the green C/2022 E3 &lpar;ZTF&rpar;](https://www.space.com/comet-ztf-interceptor-mission-virtual-target)
 - [Watch the moon eclipse Mars tonight](https://www.space.com/mars-moon-occultation-conjunction-appulse-jan-30-2023)
 - [Walmart-backed PhonePe’s nine-month 2022 revenue surged to $234 million](https://techcrunch.com/2023/01/29/walmart-backed-phonepe-revenue-and-projections/)
-- [China smartphone market slumps to 10-year low in 2022](https://techcrunch.com/2023/01/29/chinas-smartphone-10-year-low-2022/)
-- [Eazy Digital helps Southeast Asia’s small insurers digitize their operations](https://techcrunch.com/2023/01/29/eazy-digital/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
