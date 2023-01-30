@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA renames space observatory in honor of moon telescope visionary George Carruthers](https://www.space.com/nasa-geocorona-mission-honor-george-carruthers)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [Marqeta buys fintech Power Finance in $275M all-cash deal, its first acquisition](https://techcrunch.com/2023/01/30/marqeta-to-acquire-fintech-infrastructure-startup-power-finance-in-200m-all-cash-deal/)
-- [No, the Big Bang theory is not &#39;broken.&#39; Here&#39;s how we know.](https://www.space.com/james-webb-space-telescope-didnt-break-big-bang-explained)
-- [Crypto security startup Hypernative raises $9M to help prevent web3 cyber attacks](https://techcrunch.com/2023/01/30/crypto-security-startup-hypernative-raises-9m-to-help-prevent-web3-cyber-attacks/)
+- [Quantum sensing startup Q-CTRL raises another $27.4M](https://techcrunch.com/2023/01/30/quantum-sensing-startup-q-ctrl-raises-another-27-4m/)
+- [Polaris Dawn: The trailblazing commercial mission of the Polaris Program](https://www.space.com/polaris-dawn-facts-about-mission)
+- [It’s time to cast your votes for TC Early Stage Audience Choice](https://techcrunch.com/2023/01/30/audience-choice-voting-at-techcrunch-early-stage-2023/)
+- [Jump on our limited two-for-one Disrupt 2023 presale offer](https://techcrunch.com/2023/01/30/techcrunch-disrupt-2023-2-4-1-presale-ticket-sign-up/)
+- [Amazon will soon start charging delivery fees on Fresh grocery orders under $150](https://techcrunch.com/2023/01/30/amazon-charging-delivery-fees-fresh-grocery-orders-under-150/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
