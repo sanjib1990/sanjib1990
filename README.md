@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [China smartphone market slumps to 10-year low in 2022](https://techcrunch.com/2023/01/29/chinas-smartphone-10-year-low-2022/)
 - [Eazy Digital helps Southeast Asia’s small insurers digitize their operations](https://techcrunch.com/2023/01/29/eazy-digital/)
 - [What’s Stripe’s deal?](https://techcrunch.com/2023/01/29/fintech-whats-stripes-deal/)
 - [NASA spies Martian rocks that look just like a teddy bear](https://www.space.com/mars-teddy-bear-face-hirise)
 - [VC funding to Black web3 founders popped last year, bucking trends](https://techcrunch.com/2023/01/29/vc-funding-to-black-web3-startups-popped-last-year-bucking-trends/)
-- [Hubble Space Telescope captures stunning red view of the Soul Nebula](https://www.space.com/hubble-space-telescope-soul-nebula-photo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
