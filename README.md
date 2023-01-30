@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Walmart-backed PhonePe’s nine-month 2022 revenue surged to $234 million](https://techcrunch.com/2023/01/29/walmart-backed-phonepe-revenue-and-projections/)
 - [China smartphone market slumps to 10-year low in 2022](https://techcrunch.com/2023/01/29/chinas-smartphone-10-year-low-2022/)
 - [Eazy Digital helps Southeast Asia’s small insurers digitize their operations](https://techcrunch.com/2023/01/29/eazy-digital/)
 - [What’s Stripe’s deal?](https://techcrunch.com/2023/01/29/fintech-whats-stripes-deal/)
 - [NASA spies Martian rocks that look just like a teddy bear](https://www.space.com/mars-teddy-bear-face-hirise)
-- [VC funding to Black web3 founders popped last year, bucking trends](https://techcrunch.com/2023/01/29/vc-funding-to-black-web3-startups-popped-last-year-bucking-trends/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
