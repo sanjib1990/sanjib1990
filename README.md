@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Elon takes the stand, Akio Toyoda hands over the CEO keys and layoffs come for Waymo](https://techcrunch.com/2023/01/30/elon-takes-the-stand-akio-toyoda-hands-over-the-ceo-keys-and-layoffs-come-for-waymo/)
-- [Sorare teams up with the Premier League for its NFT fantasy football game](https://techcrunch.com/2023/01/30/sorare-teams-up-with-the-premier-league-for-its-nft-fantasy-football-game/)
-- [The Comet Interceptor probe could visit a stunning object like the green C/2022 E3 &lpar;ZTF&rpar;](https://www.space.com/comet-ztf-interceptor-mission-virtual-target)
-- [Watch the moon eclipse Mars tonight](https://www.space.com/mars-moon-occultation-conjunction-appulse-jan-30-2023)
-- [Walmart-backed PhonePe’s nine-month 2022 revenue surged to $234 million](https://techcrunch.com/2023/01/29/walmart-backed-phonepe-revenue-and-projections/)
+- [No, the Big Bang theory is not &#39;broken.&#39; Here&#39;s how we know.](https://www.space.com/james-webb-space-telescope-didnt-break-big-bang-explained)
+- [Crypto security startup Hypernative raises $9M to help prevent web3 cyber attacks](https://techcrunch.com/2023/01/30/crypto-security-startup-hypernative-raises-9m-to-help-prevent-web3-cyber-attacks/)
+- [What do recent changes to state taxes mean for US SaaS startups?](https://techcrunch.com/2023/01/30/what-do-recent-changes-to-state-taxes-mean-for-us-saas-startups/)
+- [Manu Jain, Xiaomi exec who set up and scaled India business, leaves](https://techcrunch.com/2023/01/30/manu-jain-xiaomi-exec-who-set-up-and-scaled-india-business-leaves/)
+- [Stashpad is a notepad for devs with a “DM to yourself” interface](https://techcrunch.com/2023/01/30/stashpad-is-a-notepad-for-devs-with-a-dm-to-yourself-interface/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
