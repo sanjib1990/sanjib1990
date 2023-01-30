@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Marqeta acquires fintech infrastructure startup Power Finance for $275M](https://techcrunch.com/2023/01/30/daily-crunch-fintech-infrastructure-startup-power-finance-acquired-by-marqeta-for-275m/)
+- [Max Q: A very Virginia affair](https://techcrunch.com/2023/01/30/max-q-a-very-virginia-affair/)
+- [Lego fan renders Vulcan Centaur ahead of ULA rocket&#39;s debut flight](https://www.space.com/united-launch-alliance-vulcan-centaur-lego)
 - [Watch a green comet make its first Earth approach in 50,000 years with this free webcast](https://www.space.com/comet-c2022-e3-ztf-perigee-feb-1-2023-webcast)
 - [Russia is blocking encrypted email startup Skiff](https://techcrunch.com/2023/01/30/russia-skiff-block/)
-- [Report: Impossible Foods planning to lay off 20% of staff](https://techcrunch.com/2023/01/30/report-impossible-foods-planning-to-lay-off-20/)
-- [The universe is slightly hotter than it should be. &#39;Dark photons&#39; could be to blame.](https://www.space.com/dark-matter-dark-photons)
-- [Amid growing competition, Paramount+ and Showtime are combining in the US](https://techcrunch.com/2023/01/30/amid-growing-competition-paramount-and-showtime-are-combining-in-the-u-s/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
