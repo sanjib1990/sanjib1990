@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is venture funding already back?](https://techcrunch.com/2023/01/30/hold-up-venture-funding/)
+- [We&#39;ve spotted 50% off the Bushnell H20 10x42 binoculars](https://www.space.com/bushnell-h20-10x42-binoculars-deal-save-50-percent)
+- [Haun Ventures leads Sovereign Labs’ $7.4M seed round to help scale blockchains](https://techcrunch.com/2023/01/30/haun-ventures-leads-sovereign-labs-7-4m-seed-round-to-help-scale-blockchains/)
 - [Three months ago, he was laid off from Twitter. Now, his competing app Spill is funded.](https://techcrunch.com/2023/01/30/three-months-ago-he-was-laid-off-from-twitter-now-his-competing-app-spill-is-funded/)
 - [EV company Arrival to cut workforce by 50% in third restructuring effort](https://techcrunch.com/2023/01/30/ev-company-arrival-to-cut-workforce-by-50-in-third-restructuring-effort/)
-- [Hacker finds bug that allowed anyone to bypass Facebook and Instagram 2FA](https://techcrunch.com/2023/01/30/facebook-instagram-two-factor-bypass-bug/)
-- [Meta is killing Move, another experimental social app from its in-house incubator NPE Team](https://techcrunch.com/2023/01/30/meta-is-killing-move-another-experimental-social-app-from-its-in-house-incubator-npe-team/)
-- [‘One Piece’ live-action series set to arrive on Netflix this year](https://techcrunch.com/2023/01/30/one-piece-live-action-series-netflix/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
