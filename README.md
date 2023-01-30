@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Quantum sensing startup Q-CTRL raises another $27.4M](https://techcrunch.com/2023/01/30/quantum-sensing-startup-q-ctrl-raises-another-27-4m/)
-- [Polaris Dawn: The trailblazing commercial mission of the Polaris Program](https://www.space.com/polaris-dawn-facts-about-mission)
-- [It’s time to cast your votes for TC Early Stage Audience Choice](https://techcrunch.com/2023/01/30/audience-choice-voting-at-techcrunch-early-stage-2023/)
-- [Jump on our limited two-for-one Disrupt 2023 presale offer](https://techcrunch.com/2023/01/30/techcrunch-disrupt-2023-2-4-1-presale-ticket-sign-up/)
-- [Amazon will soon start charging delivery fees on Fresh grocery orders under $150](https://techcrunch.com/2023/01/30/amazon-charging-delivery-fees-fresh-grocery-orders-under-150/)
+- [Three months ago, he was laid off from Twitter. Now, his competing app Spill is funded.](https://techcrunch.com/2023/01/30/three-months-ago-he-was-laid-off-from-twitter-now-his-competing-app-spill-is-funded/)
+- [EV company Arrival to cut workforce by 50% in third restructuring effort](https://techcrunch.com/2023/01/30/ev-company-arrival-to-cut-workforce-by-50-in-third-restructuring-effort/)
+- [Hacker finds bug that allowed anyone to bypass Facebook and Instagram 2FA](https://techcrunch.com/2023/01/30/facebook-instagram-two-factor-bypass-bug/)
+- [Meta is killing Move, another experimental social app from its in-house incubator NPE Team](https://techcrunch.com/2023/01/30/meta-is-killing-move-another-experimental-social-app-from-its-in-house-incubator-npe-team/)
+- [‘One Piece’ live-action series set to arrive on Netflix this year](https://techcrunch.com/2023/01/30/one-piece-live-action-series-netflix/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
