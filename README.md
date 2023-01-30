@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Star Trek: Picard&#39; Season 3 trailer offers an emotional farewell to &#39;The Next Generation&#39;](https://www.space.com/star-trek-picard-final-season-3-trailer)
+- [Instagram’s text update Notes feature is expanding to Europe and Japan](https://techcrunch.com/2023/01/30/instagrams-text-update-notes-feature-is-expanding-to-europe-and-japan/)
+- [NASA Artemis 2 moon-bound astronaut rumors name American, Canadian candidates: report](https://www.space.com/nasa-artemis-2-moon-crew-selection-rumors)
 - [Is venture funding already back?](https://techcrunch.com/2023/01/30/hold-up-venture-funding/)
 - [We&#39;ve spotted 50% off the Bushnell H20 10x42 binoculars](https://www.space.com/bushnell-h20-10x42-binoculars-deal-save-50-percent)
-- [Haun Ventures leads Sovereign Labs’ $7.4M seed round to help scale blockchains](https://techcrunch.com/2023/01/30/haun-ventures-leads-sovereign-labs-7-4m-seed-round-to-help-scale-blockchains/)
-- [Three months ago, he was laid off from Twitter. Now, his competing app Spill is funded.](https://techcrunch.com/2023/01/30/three-months-ago-he-was-laid-off-from-twitter-now-his-competing-app-spill-is-funded/)
-- [EV company Arrival to cut workforce by 50% in third restructuring effort](https://techcrunch.com/2023/01/30/ev-company-arrival-to-cut-workforce-by-50-in-third-restructuring-effort/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
