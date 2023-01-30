@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Cubesat that launched on SpaceX Falcon 9 rocket will test water-based propulsion](https://www.space.com/cubesat-water-thruster-propulsion-test-pale-blue)
-- [Rewind’s new app lets you ‘time travel’ through music from decades past](https://techcrunch.com/2023/01/30/rewinds-new-app-lets-you-time-travel-through-music-from-decades-past/)
-- [Green comet C/2022 E3 &lpar;ZTF&rpar; will be closest to Earth on Feb. 1. Here&#39;s how to see it.](https://www.space.com/comet-c2022-e3-ztf-closest-approach-feb-1)
-- [If, and only if, McDonald’s had an appetite for acquisitions](https://techcrunch.com/2023/01/30/if-and-only-if-mcdonalds-had-an-appetite-for-acquisitions/)
-- [Like me, Loona the Petbot is dumb but lovable](https://techcrunch.com/2023/01/30/loona-petbot-review/)
+- [Watch a green comet make its first Earth approach in 50,000 years with this free webcast](https://www.space.com/comet-c2022-e3-ztf-perigee-feb-1-2023-webcast)
+- [Russia is blocking encrypted email startup Skiff](https://techcrunch.com/2023/01/30/russia-skiff-block/)
+- [Report: Impossible Foods planning to lay off 20% of staff](https://techcrunch.com/2023/01/30/report-impossible-foods-planning-to-lay-off-20/)
+- [The universe is slightly hotter than it should be. &#39;Dark photons&#39; could be to blame.](https://www.space.com/dark-matter-dark-photons)
+- [Amid growing competition, Paramount+ and Showtime are combining in the US](https://techcrunch.com/2023/01/30/amid-growing-competition-paramount-and-showtime-are-combining-in-the-u-s/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
