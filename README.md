@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Marqeta buys fintech Power Finance in $275M all-cash deal, its first acquisition](https://techcrunch.com/2023/01/30/marqeta-to-acquire-fintech-infrastructure-startup-power-finance-in-200m-all-cash-deal/)
 - [No, the Big Bang theory is not &#39;broken.&#39; Here&#39;s how we know.](https://www.space.com/james-webb-space-telescope-didnt-break-big-bang-explained)
 - [Crypto security startup Hypernative raises $9M to help prevent web3 cyber attacks](https://techcrunch.com/2023/01/30/crypto-security-startup-hypernative-raises-9m-to-help-prevent-web3-cyber-attacks/)
 - [What do recent changes to state taxes mean for US SaaS startups?](https://techcrunch.com/2023/01/30/what-do-recent-changes-to-state-taxes-mean-for-us-saas-startups/)
 - [Manu Jain, Xiaomi exec who set up and scaled India business, leaves](https://techcrunch.com/2023/01/30/manu-jain-xiaomi-exec-who-set-up-and-scaled-india-business-leaves/)
-- [Stashpad is a notepad for devs with a “DM to yourself” interface](https://techcrunch.com/2023/01/30/stashpad-is-a-notepad-for-devs-with-a-dm-to-yourself-interface/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
