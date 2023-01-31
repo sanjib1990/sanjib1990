@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Backed by Elevation Capital, Profit.co helps companies execute OKRs](https://techcrunch.com/2023/01/31/profit-co/)
-- [Google Fi says hackers accessed customers’ information](https://techcrunch.com/2023/01/31/google-fi-customer-data-breach/)
-- [When to build a freemium plan and how to get it right](https://techcrunch.com/2023/01/31/when-to-build-a-freemium-plan-and-how-to-get-it-right/)
-- [Could we use antimatter-based propulsion to visit alien worlds?](https://www.space.com/antimatter-propulsion-visiting-exoplanets)
-- [Quantum sensing startup Q-CTRL raises another $27.4M](https://techcrunch.com/2023/01/31/quantum-sensing-startup-q-ctrl-raises-another-27-4m/)
+- [Plugable’s new dock turns your tablet or phone into a workstation](https://techcrunch.com/2023/01/31/plugable-dock-phone/)
+- [How to cut your SaaS spending by 30% in 2023](https://techcrunch.com/2023/01/31/how-to-cut-your-saas-spending-by-30-in-2023/)
+- [Faraway blue star cluster shines in Hubble Space Telescope photo](https://www.space.com/blue-globular-cluster-hubble-space-telescope-photo)
+- [Apple HomePod &lpar;2023&rpar; review](https://techcrunch.com/2023/01/31/apple-homepod-2023-review/)
+- [Orbital Sidekick raises $10M to bring hyperspectral imaging to oil and gas pipeline monitoring](https://techcrunch.com/2023/01/31/orbital-sidekick-raises-10m-to-bring-hyperspectral-imaging-to-oil-and-gas-pipeline-monitoring/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
