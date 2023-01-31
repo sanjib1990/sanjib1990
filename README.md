@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Put a &lpar;smart&rpar; ring on it: Monavo on why its health wearable will put women first](https://techcrunch.com/2023/01/30/evie-smart-ring-interview/)
+- [AV company Aurora hires president ahead of commercial launch](https://techcrunch.com/2023/01/30/av-company-aurora-hires-president-ahead-of-commercial-launch/)
 - [Daily Crunch: Marqeta acquires fintech infrastructure startup Power Finance for $275M](https://techcrunch.com/2023/01/30/daily-crunch-fintech-infrastructure-startup-power-finance-acquired-by-marqeta-for-275m/)
 - [Max Q: A very Virginia affair](https://techcrunch.com/2023/01/30/max-q-a-very-virginia-affair/)
 - [Lego fan renders Vulcan Centaur ahead of ULA rocket&#39;s debut flight](https://www.space.com/united-launch-alliance-vulcan-centaur-lego)
-- [Watch a green comet make its first Earth approach in 50,000 years with this free webcast](https://www.space.com/comet-c2022-e3-ztf-perigee-feb-1-2023-webcast)
-- [Russia is blocking encrypted email startup Skiff](https://techcrunch.com/2023/01/30/russia-skiff-block/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
