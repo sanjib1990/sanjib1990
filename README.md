@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [New cosmic map reveals the universe&#39;s matter isn&#39;t as &#39;clumpy&#39; as it should be](https://www.space.com/precise-matter-map-universe-less-clumpy)
-- [Avoiding the pitfalls of OnlyFans with Rosie Nguyen from Fanhouse](https://techcrunch.com/2023/01/31/avoiding-the-pitfalls-of-onlyfans-with-rosie-nguyen-from-fanhouse/)
-- [Thrive Capital believed to be leading new multi-billion dollar investment in Stripe](https://techcrunch.com/2023/01/31/thrive-capital-believed-to-be-leading-potential-new-investment-in-fintech-stripe-report-says/)
-- [Practice your startup pitch on TechCrunch Live with Benchmark and Cambly](https://techcrunch.com/2023/01/31/practice-your-startup-pitch-on-techcrunch-live-with-benchmark-and-cambly/)
-- [Mars helicopter Ingenuity soars over Perseverance rover tracks on 41st flight](https://www.space.com/mars-helicopter-ingenuity-41st-flight)
+- [DARPA&#39;s hypersonic HAWC completes final flight test at over Mach 5](https://www.space.com/darpa-hypersonic-air-breathing-weapon-final-flight-test)
+- [GM invests $650M in lithium mining to lock down EV raw materials](https://techcrunch.com/2023/01/31/gm-invests-650-million-lithium-evs/)
+- [TechCrunch+ roundup: SaaS spending squeeze, tax time tips, freemium frameworks](https://techcrunch.com/2023/01/31/techcrunch-roundup-saas-spending-squeeze-tax-time-tips-freemium-frameworks/)
+- [Precision Neuroscience is making brain implants safer, smarter and reversible](https://techcrunch.com/2023/01/31/precision-neuroscience-is-making-brain-implants-safer-smarter-and-reversible/)
+- [Teal unwraps $8.8M to build out a telehealth platform for women — starting with cervical cancer screening](https://techcrunch.com/2023/01/31/teal-health-seed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
