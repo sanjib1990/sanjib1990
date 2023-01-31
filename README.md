@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Would Baidu’s answer to ChatGPT make a difference?](https://techcrunch.com/2023/01/31/would-baidus-answer-to-chatgpt-make-a-difference/)
 - [InstaDeep’s acquisition is a classic case of an African startup gone global](https://techcrunch.com/2023/01/31/instadeeps-acquisition-is-a-classic-case-of-an-african-startup-gone-global/)
 - [Entocycle grabs $5 million for its insect breeding technology](https://techcrunch.com/2023/01/31/entocycle-grabs-5-million-for-its-insect-breeding-technology/)
 - [Groupon cuts another 500 employees in the second round of layoffs](https://techcrunch.com/2023/01/30/groupon-cuts-another-500-employees-in-the-second-round-of-layoffs/)
 - [Southeast Asia farm-to-table startup Secai Marche raises Series A](https://techcrunch.com/2023/01/30/secai-marche-series-a/)
-- [Labor officials found that Apple execs infringed on workers’ rights](https://techcrunch.com/2023/01/30/labor-officials-found-that-apple-execs-infringed-on-workers-rights/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
