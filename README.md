@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Spotify’s third-party billing option has now reached over 140 global markets](https://techcrunch.com/2023/01/31/spotifys-third-party-billing-option-has-now-reached-over-140-global-markets/)
-- [Check Twitter in paradise with Iridium’s new ‘executive’ satellite hotspot](https://techcrunch.com/2023/01/31/check-twitter-in-paradise-with-iridiums-new-executive-hotspot/)
-- [Sentra raises $30M to provide a security layer for data in the cloud](https://techcrunch.com/2023/01/31/sentra-raises-30m-to-provide-a-security-layer-for-data-in-the-cloud/)
-- [The Team Slide is the most important slide in a startup pitch deck](https://techcrunch.com/2023/01/31/team-slide/)
-- [Machine learning spots 8 potential technosignatures](https://www.space.com/machine-learning-seti-technosignatures)
+- [Practice your startup pitch on TechCrunch Live with Benchmark and Cambly](https://techcrunch.com/2023/01/31/practice-your-startup-pitch-on-techcrunch-live-with-benchmark-and-cambly/)
+- [Mars helicopter Ingenuity soars over Perseverance rover tracks on 41st flight](https://www.space.com/mars-helicopter-ingenuity-41st-flight)
+- [Lost your crypto amid Chapter 11 bankruptcy filings? You’re probably not getting it back](https://techcrunch.com/2023/01/31/lost-your-crypto-amid-chapter-11-bankruptcy-filings-youre-probably-not-getting-it-back/)
+- [Save a whopping $400 on the Meta Quest Pro VR headset at Amazon](https://www.space.com/meta-quest-pro-deal-save-400-dollars-january)
+- [Privacy assistant Jumbo tears down its paywall](https://techcrunch.com/2023/01/31/privacy-assistant-jumbo-tears-down-its-paywall/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
