@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Plugable’s new dock turns your tablet or phone into a workstation](https://techcrunch.com/2023/01/31/plugable-dock-phone/)
-- [How to cut your SaaS spending by 30% in 2023](https://techcrunch.com/2023/01/31/how-to-cut-your-saas-spending-by-30-in-2023/)
-- [Faraway blue star cluster shines in Hubble Space Telescope photo](https://www.space.com/blue-globular-cluster-hubble-space-telescope-photo)
-- [Apple HomePod &lpar;2023&rpar; review](https://techcrunch.com/2023/01/31/apple-homepod-2023-review/)
-- [Orbital Sidekick raises $10M to bring hyperspectral imaging to oil and gas pipeline monitoring](https://techcrunch.com/2023/01/31/orbital-sidekick-raises-10m-to-bring-hyperspectral-imaging-to-oil-and-gas-pipeline-monitoring/)
+- [Brazilian online grocery deliverer Diferente secures $3M to increase customers’ access to healthier food](https://techcrunch.com/2023/01/31/brazil-grocery-delivery-diferente/)
+- [Bitcoin-based app Strike expands in Philippines to grow cross-border payment solutions](https://techcrunch.com/2023/01/31/bitcoin-based-app-strike-expands-in-philippines-to-grow-cross-border-payment-solutions/)
+- [Cleary raises $4.5M to reinvent the intranet](https://techcrunch.com/2023/01/31/cleary-raises-4-5m-to-reinvent-the-intranet/)
+- [Linktree adds new monetization options, including a ‘Buy Me a Gift’ feature](https://techcrunch.com/2023/01/31/linktree-new-monetization-options-including-a-buy-me-a-gift-feature/)
+- [Warner Bros. Discovery reaches deals with Roku and Tubi to license 2,000 hours of content, including ‘Westworld’](https://techcrunch.com/2023/01/31/warner-bros-discovery-reaches-deals-with-roku-and-tubi-to-license-2000-hours-of-content-including-westworld/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
