@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New cosmic map reveals the universe&#39;s matter isn&#39;t as &#39;clumpy&#39; as it should be](https://www.space.com/precise-matter-map-universe-less-clumpy)
+- [Avoiding the pitfalls of OnlyFans with Rosie Nguyen from Fanhouse](https://techcrunch.com/2023/01/31/avoiding-the-pitfalls-of-onlyfans-with-rosie-nguyen-from-fanhouse/)
+- [Thrive Capital believed to be leading new multi-billion dollar investment in Stripe](https://techcrunch.com/2023/01/31/thrive-capital-believed-to-be-leading-potential-new-investment-in-fintech-stripe-report-says/)
 - [Practice your startup pitch on TechCrunch Live with Benchmark and Cambly](https://techcrunch.com/2023/01/31/practice-your-startup-pitch-on-techcrunch-live-with-benchmark-and-cambly/)
 - [Mars helicopter Ingenuity soars over Perseverance rover tracks on 41st flight](https://www.space.com/mars-helicopter-ingenuity-41st-flight)
-- [Lost your crypto amid Chapter 11 bankruptcy filings? You’re probably not getting it back](https://techcrunch.com/2023/01/31/lost-your-crypto-amid-chapter-11-bankruptcy-filings-youre-probably-not-getting-it-back/)
-- [Save a whopping $400 on the Meta Quest Pro VR headset at Amazon](https://www.space.com/meta-quest-pro-deal-save-400-dollars-january)
-- [Privacy assistant Jumbo tears down its paywall](https://techcrunch.com/2023/01/31/privacy-assistant-jumbo-tears-down-its-paywall/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
