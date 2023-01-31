@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Star Trek: Picard&#39;s&#39; sinister Borg Queen Annie Wersching has died at 45](https://www.space.com/star-trek-picard-borg-queen-annie-wersching-passes)
+- [DOJ requests Autopilot, FSD documents from Tesla](https://techcrunch.com/2023/01/31/doj-requests-autopilot-fsd-documents-from-tesla/)
+- [Peacock kills its free tier option for new customers](https://techcrunch.com/2023/01/31/peacock-kills-its-free-tier-option-for-new-customers/)
+- [Spotify’s test of a Friends tab on mobile hints at expanded social ambitions](https://techcrunch.com/2023/01/31/spotifys-test-of-a-friends-tab-on-mobile-hints-at-expanded-social-ambitions/)
 - [Exoplanets dance around distant star in stunning 12-year timelapse &lpar;video&rpar;](https://www.space.com/exoplanets-orbit-12-year-timelapse-video)
-- [Meta starts testing ‘members-only worlds’ in Horizon Worlds](https://techcrunch.com/2023/01/31/meta-starts-testing-members-only-worlds-in-horizon-worlds/)
-- [DARPA&#39;s hypersonic HAWC completes final flight test at over Mach 5](https://www.space.com/darpa-hypersonic-air-breathing-weapon-final-flight-test)
-- [GM invests $650M in lithium mining to lock down EV raw materials](https://techcrunch.com/2023/01/31/gm-invests-650-million-lithium-evs/)
-- [TechCrunch+ roundup: SaaS spending squeeze, tax time tips, freemium frameworks](https://techcrunch.com/2023/01/31/techcrunch-roundup-saas-spending-squeeze-tax-time-tips-freemium-frameworks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
