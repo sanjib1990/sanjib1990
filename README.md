@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Put a &lpar;smart&rpar; ring on it: Monavo on why its health wearable will put women first](https://techcrunch.com/2023/01/30/evie-smart-ring-interview/)
+- [Hotai Motor exposed thousands of iRent customer documents](https://techcrunch.com/2023/01/30/hotai-motor-exposed-irent-customer-data/)
+- [Put a &lpar;smart&rpar; ring on it: Movano on why its health wearable will put women first](https://techcrunch.com/2023/01/30/evie-smart-ring-interview/)
 - [AV company Aurora hires president ahead of commercial launch](https://techcrunch.com/2023/01/30/av-company-aurora-hires-president-ahead-of-commercial-launch/)
 - [Daily Crunch: Marqeta acquires fintech infrastructure startup Power Finance for $275M](https://techcrunch.com/2023/01/30/daily-crunch-fintech-infrastructure-startup-power-finance-acquired-by-marqeta-for-275m/)
 - [Max Q: A very Virginia affair](https://techcrunch.com/2023/01/30/max-q-a-very-virginia-affair/)
-- [Lego fan renders Vulcan Centaur ahead of ULA rocket&#39;s debut flight](https://www.space.com/united-launch-alliance-vulcan-centaur-lego)
 <!-- BLOG-POST-LIST:END -->
 
 ---
