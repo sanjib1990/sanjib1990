@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Brazilian online grocery deliverer Diferente secures $3M to increase customers’ access to healthier food](https://techcrunch.com/2023/01/31/brazil-grocery-delivery-diferente/)
-- [Bitcoin-based app Strike expands in Philippines to grow cross-border payment solutions](https://techcrunch.com/2023/01/31/bitcoin-based-app-strike-expands-in-philippines-to-grow-cross-border-payment-solutions/)
-- [Cleary raises $4.5M to reinvent the intranet](https://techcrunch.com/2023/01/31/cleary-raises-4-5m-to-reinvent-the-intranet/)
-- [Linktree adds new monetization options, including a ‘Buy Me a Gift’ feature](https://techcrunch.com/2023/01/31/linktree-new-monetization-options-including-a-buy-me-a-gift-feature/)
-- [Warner Bros. Discovery reaches deals with Roku and Tubi to license 2,000 hours of content, including ‘Westworld’](https://techcrunch.com/2023/01/31/warner-bros-discovery-reaches-deals-with-roku-and-tubi-to-license-2000-hours-of-content-including-westworld/)
+- [Spotify’s third-party billing option has now reached over 140 global markets](https://techcrunch.com/2023/01/31/spotifys-third-party-billing-option-has-now-reached-over-140-global-markets/)
+- [Check Twitter in paradise with Iridium’s new ‘executive’ satellite hotspot](https://techcrunch.com/2023/01/31/check-twitter-in-paradise-with-iridiums-new-executive-hotspot/)
+- [Sentra raises $30M to provide a security layer for data in the cloud](https://techcrunch.com/2023/01/31/sentra-raises-30m-to-provide-a-security-layer-for-data-in-the-cloud/)
+- [The Team Slide is the most important slide in a startup pitch deck](https://techcrunch.com/2023/01/31/team-slide/)
+- [Machine learning spots 8 potential technosignatures](https://www.space.com/machine-learning-seti-technosignatures)
 <!-- BLOG-POST-LIST:END -->
 
 ---
