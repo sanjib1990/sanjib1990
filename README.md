@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Tech Nation looks for new home as UK Gov hands tech ecosystem contract to Barclays](https://techcrunch.com/2023/01/31/tech-nation-looks-for-new-home-as-uk-gov-hands-tech-ecosystem-contract-to-barclays/)
-- [Fairphone nabs $53M in growth capital for ‘sustainable’ consumer electronics](https://techcrunch.com/2023/01/31/fairphone-growth-capital-raise/)
-- [Guardz emerges from stealth with $10M for SMB security and cyber insurance to protect against attack-as-a-service breaches](https://techcrunch.com/2023/01/31/guardz-emerges-from-stealth-with-10m-for-smb-security-and-cyber-insurance-to-protect-against-attack-as-a-service-breaches/)
-- [Finley closes $17M to turn 100-page debt capital agreements into software-managed code](https://techcrunch.com/2023/01/31/finley-debt-capital-software-series-a/)
-- [Watch 2 pioneering former astronauts get Congressional Space Medal of Honor on Tuesday](https://www.space.com/behnken-hurley-spacex-space-medal-honor-webcast)
+- [Backed by Elevation Capital, Profit.co helps companies execute OKRs](https://techcrunch.com/2023/01/31/profit-co/)
+- [Google Fi says hackers accessed customers’ information](https://techcrunch.com/2023/01/31/google-fi-customer-data-breach/)
+- [When to build a freemium plan and how to get it right](https://techcrunch.com/2023/01/31/when-to-build-a-freemium-plan-and-how-to-get-it-right/)
+- [Could we use antimatter-based propulsion to visit alien worlds?](https://www.space.com/antimatter-propulsion-visiting-exoplanets)
+- [Quantum sensing startup Q-CTRL raises another $27.4M](https://techcrunch.com/2023/01/31/quantum-sensing-startup-q-ctrl-raises-another-27-4m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
