@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tech Nation looks for new home as UK Gov hands tech ecosystem contract to Barclays](https://techcrunch.com/2023/01/31/tech-nation-looks-for-new-home-as-uk-gov-hands-tech-ecosystem-contract-to-barclays/)
+- [Fairphone nabs $53M in growth capital for ‘sustainable’ consumer electronics](https://techcrunch.com/2023/01/31/fairphone-growth-capital-raise/)
+- [Guardz emerges from stealth with $10M for SMB security and cyber insurance to protect against attack-as-a-service breaches](https://techcrunch.com/2023/01/31/guardz-emerges-from-stealth-with-10m-for-smb-security-and-cyber-insurance-to-protect-against-attack-as-a-service-breaches/)
 - [Finley closes $17M to turn 100-page debt capital agreements into software-managed code](https://techcrunch.com/2023/01/31/finley-debt-capital-software-series-a/)
 - [Watch 2 pioneering former astronauts get Congressional Space Medal of Honor on Tuesday](https://www.space.com/behnken-hurley-spacex-space-medal-honor-webcast)
-- [Identity management platform Saviynt secures $205M in debt, appoints new CEO](https://techcrunch.com/2023/01/31/identity-management-platform-saviynt-secures-205m-in-debt-appoints-new-ceo/)
-- [Space diet rich in veggies and fish could boost astronaut heath](https://www.space.com/astronaut-health-spaceflight-diet-vegetables-fish)
-- [Would Baidu’s answer to ChatGPT make a difference?](https://techcrunch.com/2023/01/31/would-baidus-answer-to-chatgpt-make-a-difference/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
