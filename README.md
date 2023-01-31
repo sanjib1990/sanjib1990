@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Star Trek: Picard&#39;s&#39; sinister Borg Queen Annie Wersching has died at 45](https://www.space.com/star-trek-picard-borg-queen-annie-wersching-passes)
+- [Daily Crunch: Cell network provider Google Fi confirms customer data breach](https://techcrunch.com/2023/01/31/daily-crunch-cell-network-provider-google-fi-confirms-customer-data-breach/)
+- [OpenAI releases tool to detect AI-generated text, including from ChatGPT](https://techcrunch.com/2023/01/31/openai-releases-tool-to-detect-ai-generated-text-including-from-chatgpt/)
+- [Annie Wersching, the Borg Queen of &#39;Star Trek: Picard,&#39; dies at 45](https://www.space.com/star-trek-picard-borg-queen-annie-wersching-passes)
 - [DOJ requests Autopilot, FSD documents from Tesla](https://techcrunch.com/2023/01/31/doj-requests-autopilot-fsd-documents-from-tesla/)
 - [Peacock kills its free tier option for new customers](https://techcrunch.com/2023/01/31/peacock-kills-its-free-tier-option-for-new-customers/)
-- [Spotify’s test of a Friends tab on mobile hints at expanded social ambitions](https://techcrunch.com/2023/01/31/spotifys-test-of-a-friends-tab-on-mobile-hints-at-expanded-social-ambitions/)
-- [Exoplanets dance around distant star in stunning 12-year timelapse &lpar;video&rpar;](https://www.space.com/exoplanets-orbit-12-year-timelapse-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
