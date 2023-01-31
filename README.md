@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Groupon cuts another 500 employees in the second round of layoffs](https://techcrunch.com/2023/01/30/groupon-cuts-another-500-employees-in-the-second-round-of-layoffs/)
 - [Southeast Asia farm-to-table startup Secai Marche raises Series A](https://techcrunch.com/2023/01/30/secai-marche-series-a/)
 - [Labor officials found that Apple execs infringed on workers’ rights](https://techcrunch.com/2023/01/30/labor-officials-found-that-apple-execs-infringed-on-workers-rights/)
 - [Hotai Motor exposed thousands of iRent customer documents](https://techcrunch.com/2023/01/30/hotai-motor-exposed-irent-customer-data/)
 - [Put a &lpar;smart&rpar; ring on it: Movano on why its health wearable will put women first](https://techcrunch.com/2023/01/30/evie-smart-ring-interview/)
-- [AV company Aurora hires president ahead of commercial launch](https://techcrunch.com/2023/01/30/av-company-aurora-hires-president-ahead-of-commercial-launch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
