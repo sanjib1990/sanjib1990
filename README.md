@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Exoplanets dance around distant star in stunning 12-year timelapse &lpar;video&rpar;](https://www.space.com/exoplanets-orbit-12-year-timelapse-video)
+- [Meta starts testing ‘members-only worlds’ in Horizon Worlds](https://techcrunch.com/2023/01/31/meta-starts-testing-members-only-worlds-in-horizon-worlds/)
 - [DARPA&#39;s hypersonic HAWC completes final flight test at over Mach 5](https://www.space.com/darpa-hypersonic-air-breathing-weapon-final-flight-test)
 - [GM invests $650M in lithium mining to lock down EV raw materials](https://techcrunch.com/2023/01/31/gm-invests-650-million-lithium-evs/)
 - [TechCrunch+ roundup: SaaS spending squeeze, tax time tips, freemium frameworks](https://techcrunch.com/2023/01/31/techcrunch-roundup-saas-spending-squeeze-tax-time-tips-freemium-frameworks/)
-- [Precision Neuroscience is making brain implants safer, smarter and reversible](https://techcrunch.com/2023/01/31/precision-neuroscience-is-making-brain-implants-safer-smarter-and-reversible/)
-- [Teal unwraps $8.8M to build out a telehealth platform for women — starting with cervical cancer screening](https://techcrunch.com/2023/01/31/teal-health-seed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
