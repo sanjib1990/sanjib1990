@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Southeast Asia farm-to-table startup Secai Marche raises Series A](https://techcrunch.com/2023/01/30/secai-marche-series-a/)
 - [Labor officials found that Apple execs infringed on workers’ rights](https://techcrunch.com/2023/01/30/labor-officials-found-that-apple-execs-infringed-on-workers-rights/)
 - [Hotai Motor exposed thousands of iRent customer documents](https://techcrunch.com/2023/01/30/hotai-motor-exposed-irent-customer-data/)
 - [Put a &lpar;smart&rpar; ring on it: Movano on why its health wearable will put women first](https://techcrunch.com/2023/01/30/evie-smart-ring-interview/)
 - [AV company Aurora hires president ahead of commercial launch](https://techcrunch.com/2023/01/30/av-company-aurora-hires-president-ahead-of-commercial-launch/)
-- [Daily Crunch: Marqeta acquires fintech infrastructure startup Power Finance for $275M](https://techcrunch.com/2023/01/30/daily-crunch-fintech-infrastructure-startup-power-finance-acquired-by-marqeta-for-275m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
