@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Finley closes $17M to turn 100-page debt capital agreements into software-managed code](https://techcrunch.com/2023/01/31/finley-debt-capital-software-series-a/)
+- [Watch 2 pioneering former astronauts get Congressional Space Medal of Honor on Tuesday](https://www.space.com/behnken-hurley-spacex-space-medal-honor-webcast)
+- [Identity management platform Saviynt secures $205M in debt, appoints new CEO](https://techcrunch.com/2023/01/31/identity-management-platform-saviynt-secures-205m-in-debt-appoints-new-ceo/)
+- [Space diet rich in veggies and fish could boost astronaut heath](https://www.space.com/astronaut-health-spaceflight-diet-vegetables-fish)
 - [Would Baidu’s answer to ChatGPT make a difference?](https://techcrunch.com/2023/01/31/would-baidus-answer-to-chatgpt-make-a-difference/)
-- [InstaDeep’s acquisition is a classic case of an African startup gone global](https://techcrunch.com/2023/01/31/instadeeps-acquisition-is-a-classic-case-of-an-african-startup-gone-global/)
-- [Entocycle grabs $5 million for its insect breeding technology](https://techcrunch.com/2023/01/31/entocycle-grabs-5-million-for-its-insect-breeding-technology/)
-- [Groupon cuts another 500 employees in the second round of layoffs](https://techcrunch.com/2023/01/30/groupon-cuts-another-500-employees-in-the-second-round-of-layoffs/)
-- [Southeast Asia farm-to-table startup Secai Marche raises Series A](https://techcrunch.com/2023/01/30/secai-marche-series-a/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
