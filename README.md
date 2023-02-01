@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Risilience, a climate analytics and risk assessment platform for enterprises, raises $26M](https://techcrunch.com/2023/02/01/risilience-a-climate-analytics-and-risk-assessment-platform-for-enterprises-raises-26m/)
-- [Michroma wants to make food colorings, flavors more ‘fun’gi](https://techcrunch.com/2023/02/01/michroma-food-coloring-fungi-foodtech/)
-- [Teach yourself growth marketing: Which metrics really matter?](https://techcrunch.com/2023/02/01/teach-yourself-growth-marketing-which-metrics-really-matter/)
-- [Smashin&#39; asteroids, Hollywood style: could nuking an asteroid save the Earth?](https://www.space.com/smashin-asteroids-hollywood-style-could-nuking-an-asteroid-save-earth)
-- [Portside lands $50M to help manage business aviation](https://techcrunch.com/2023/02/01/portside-50m-business-aviation-startup/)
+- [Passthrough raises $8.4M to simplify the process of investor onboarding](https://techcrunch.com/2023/02/01/passthrough-raises-8-4m-to-simplify-the-process-of-investor-onboarding/)
+- [Enterprise blockchain adoption may grow as hybrid use cases evolve](https://techcrunch.com/2023/02/01/enterprise-blockchain-adoption-may-grow-as-hybrid-use-cases-evolve/)
+- [Proving that banking as a service is hotter than ever, Treasury Prime raises $40M Series C](https://techcrunch.com/2023/02/01/proving-that-banking-as-a-service-is-hotter-than-ever-treasury-prime-raises-40m-series-c/)
+- [Rolls-Royce unveils early-stage design for space nuclear reactor](https://www.space.com/rolls-royce-early-design-space-nuclear-reactor)
+- [Netflix gives Premium members more download devices and spatial audio on 700+ titles](https://techcrunch.com/2023/02/01/netflix-gives-premium-members-more-download-devices-and-spatial-audio-on-700-titles/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
