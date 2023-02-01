@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Biden administration says Apple and Google’s app stores are stifling competition](https://techcrunch.com/2023/02/01/the-biden-administration-says-apple-and-googles-app-stores-are-stifling-competition/)
+- [Google Fi hack victim had Coinbase, 2FA app hijacked by hackers](https://techcrunch.com/2023/02/01/google-fi-hack-victim-had-coinbase-2fa-app-hijacked-by-hackers/)
 - [The James Webb Space Telescope image shows spiral galaxy in stunning detail](https://www.space.com/james-webb-space-telescope-spiral-galaxy-image)
-- [Astronomers identify 1st twin stars doomed to collide in kilonova explosion](https://www.space.com/neutron-star-binary-before-collision)
-- [Apollo 11 astronaut Michael Collins laid to rest at Arlington National Cemetery](https://www.space.com/apollo-11-astronaut-michael-collins-interment-arlington-national-ceremony)
-- [Green comet flaunts its tail in dazzling deep space photo](https://www.space.com/green-comet-tail-c2022-e3-ztf-photo-miguel-claro)
-- [Watch SpaceX launch 53 Starlink internet satellites early Thursday](https://www.space.com/spacex-starlink-group-5-3-launch)
+- [New Red Hat partnerships with SAP and Oracle could bode well for owner IBM](https://techcrunch.com/2023/02/01/new-red-hat-partnerships-with-sap-and-oracle-could-bode-well-for-owner-ibm/)
+- [Netlify acquires front-end platform Gatsby](https://techcrunch.com/2023/02/01/netlify-acquires-frontend-platform-gatsby/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
