@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Be relevant, or get downturned](https://techcrunch.com/2023/02/01/be-relevant-or-get-downturned/)
-- [Gem Security wants to secure your cloud infrastructure, raises $11M](https://techcrunch.com/2023/02/01/gem-security-wants-to-secure-your-cloud-infrastructure-raises-11m/)
-- [Dear Sophie: What H-1B and other immigration changes can we expect this year?](https://techcrunch.com/2023/02/01/dear-sophie-what-h-1b-and-other-immigration-changes-can-we-expect-this-year/)
-- [Kapow! Inflatable space station module blows to pieces in video explosion](https://www.space.com/sierra-space-third-space-station-module-explosion-test)
-- [Empathy’s new tool uses AI to generate obituaries, and it’s not half bad](https://techcrunch.com/2023/02/01/empathys-new-tool-uses-ai-to-generate-obituaries-and-its-not-half-bad/)
+- [Watch SpaceX launch 53 Starlink internet satellites early Thursday](https://www.space.com/spacex-starlink-group-5-3-launch)
+- [VC Dayna Grayson tees up a talk on TAM at TechCrunch Early Stage](https://techcrunch.com/2023/02/01/vc-dayna-grayson-takes-on-tam-at-tc-early-stage-2023/)
+- [Addressable raises $7.5M to match crypto wallets to Twitter accounts. But how?](https://techcrunch.com/2023/02/01/addressable-raises-7-5m-to-match-crypto-wallets-to-twitter-accounts-but-how/)
+- [‘Black Panther: Wakanda Forever’ gets its streaming debut on Disney+](https://techcrunch.com/2023/02/01/black-panther-wakanda-forever-streaming-on-disney-plus/)
+- [Needles to say, Ghostline drags tattoo stencil making ‘inkto’ the current millennium](https://techcrunch.com/2023/02/01/ghostline-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
