@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [South African digital lender Lulalend to launch banking product off the back of $35M Series B](https://techcrunch.com/2023/02/01/south-african-digital-lender-lulalend-to-launch-banking-product-off-the-back-of-35m-series-b/)
+- [Tiger Global says India returns have ‘sucked historically’ but bullish on future prospect](https://techcrunch.com/2023/02/01/tiger-global-india-returns-way-below-average-but-firm-remains-bullish-says-scott-shleifer/)
 - [ValueBase, backed by Sam Altman’s Hydrazine, raises $1.6 million seed round](https://techcrunch.com/2023/02/01/valuebase-backed-by-sam-altmans-hydrazine-raises-1-6-million-seed-round/)
 - [MUFG, Japan’s largest bank, launches $100M fund for Indonesian startups](https://techcrunch.com/2023/02/01/mufg-japans-largest-bank-launches-100m-fund-for-indonesian-startups/)
 - [Snapchat now has more than 2 million paid subscribers](https://techcrunch.com/2023/01/31/snapchat-now-has-more-than-2-million-paid-subscribers/)
-- [Egyptian financial services provider MNT-Halan valued at $1B in $400M funding](https://techcrunch.com/2023/01/31/egyptian-financial-services-provider-mnt-halan-gets-1b-valuation-after-securing-400m/)
-- [Superstrata e-bike review: Rebel without a cause](https://techcrunch.com/2023/01/31/superstrata-e-bike-review-rebel-without-a-cause/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
