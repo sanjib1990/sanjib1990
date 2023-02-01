@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Passthrough raises $8.4M to simplify the process of investor onboarding](https://techcrunch.com/2023/02/01/passthrough-raises-8-4m-to-simplify-the-process-of-investor-onboarding/)
-- [Enterprise blockchain adoption may grow as hybrid use cases evolve](https://techcrunch.com/2023/02/01/enterprise-blockchain-adoption-may-grow-as-hybrid-use-cases-evolve/)
-- [Proving that banking as a service is hotter than ever, Treasury Prime raises $40M Series C](https://techcrunch.com/2023/02/01/proving-that-banking-as-a-service-is-hotter-than-ever-treasury-prime-raises-40m-series-c/)
-- [Rolls-Royce unveils early-stage design for space nuclear reactor](https://www.space.com/rolls-royce-early-design-space-nuclear-reactor)
-- [Netflix gives Premium members more download devices and spatial audio on 700+ titles](https://techcrunch.com/2023/02/01/netflix-gives-premium-members-more-download-devices-and-spatial-audio-on-700-titles/)
+- [Be relevant, or get downturned](https://techcrunch.com/2023/02/01/be-relevant-or-get-downturned/)
+- [Gem Security wants to secure your cloud infrastructure, raises $11M](https://techcrunch.com/2023/02/01/gem-security-wants-to-secure-your-cloud-infrastructure-raises-11m/)
+- [Dear Sophie: What H-1B and other immigration changes can we expect this year?](https://techcrunch.com/2023/02/01/dear-sophie-what-h-1b-and-other-immigration-changes-can-we-expect-this-year/)
+- [Kapow! Inflatable space station module blows to pieces in video explosion](https://www.space.com/sierra-space-third-space-station-module-explosion-test)
+- [Empathy’s new tool uses AI to generate obituaries, and it’s not half bad](https://techcrunch.com/2023/02/01/empathys-new-tool-uses-ai-to-generate-obituaries-and-its-not-half-bad/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
