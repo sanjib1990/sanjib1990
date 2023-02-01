@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple TV users can now watch Major League Soccer matches with MLS Season Pass](https://techcrunch.com/2023/02/01/apple-tv-major-league-soccer-season-pass-subscription/)
+- [Which open source startups rocketed in 2022?](https://techcrunch.com/2023/02/01/which-open-source-startups-rocketed-in-2022/)
 - [Battery darling Our Next Energy lands massive $300M Series B to build gigafactory](https://techcrunch.com/2023/02/01/battery-darling-our-next-energy-lands-massive-300m-series-b-to-build-gigafactory/)
 - [NASA loses more than 200 Jupiter photos after Juno probe camera glitch](https://www.space.com/nasa-juno-camera-glitch-repeats)
 - [NASA pledges &#39;acute awareness&#39; of astronaut safety 20 years after Columbia shuttle tragedy](https://www.space.com/columbia-space-shuttle-tragedy-20-year-anniversary)
-- [Twitter discontinues CoTweets, says will debut text attachments next week](https://techcrunch.com/2023/02/01/twitter-discontinues-cotweets-says-will-debut-text-attachments-next-week/)
-- [Get ready for Starfield with $60 off the Xbox Series S](https://www.space.com/xbox-series-s-save-60-dollars-january-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
