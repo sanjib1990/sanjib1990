@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch SpaceX launch 53 Starlink internet satellites early Thursday](https://www.space.com/spacex-starlink-group-5-3-launch)
-- [VC Dayna Grayson tees up a talk on TAM at TechCrunch Early Stage](https://techcrunch.com/2023/02/01/vc-dayna-grayson-takes-on-tam-at-tc-early-stage-2023/)
-- [Addressable raises $7.5M to match crypto wallets to Twitter accounts. But how?](https://techcrunch.com/2023/02/01/addressable-raises-7-5m-to-match-crypto-wallets-to-twitter-accounts-but-how/)
-- [‘Black Panther: Wakanda Forever’ gets its streaming debut on Disney+](https://techcrunch.com/2023/02/01/black-panther-wakanda-forever-streaming-on-disney-plus/)
-- [Needles to say, Ghostline drags tattoo stencil making ‘inkto’ the current millennium](https://techcrunch.com/2023/02/01/ghostline-app/)
+- [Jetpack.io helps developers focus on applications instead of infrastructure](https://techcrunch.com/2023/02/01/jetpack-io-helps-developers-focus-on-applications-instead-of-infrastructure/)
+- [FTC slaps $1.5M fine on GoodRx for sharing users’ health data with Facebook and Google](https://techcrunch.com/2023/02/01/ftc-slaps-online-pharmacy-goodrx-for-sharing-users-health-data-with-facebook-and-google/)
+- [Green comet flaunts its tail in dazzling deep space photo](https://www.space.com/green-comet-tail-c2022-e3-ztf-photo-miguel-claro)
+- [Report: Microsoft plans to update Bing with a faster version of ChatGPT in the coming weeks](https://techcrunch.com/2023/02/01/report-microsoft-plans-to-update-bing-with-a-faster-version-of-chatgpt-in-the-coming-weeks/)
+- [Snap hints at future AR glasses powered by generative AI](https://techcrunch.com/2023/02/01/snap-hints-at-future-ar-glasses-powered-by-generative-a-i/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
