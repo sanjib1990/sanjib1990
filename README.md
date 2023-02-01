@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Damus, another decentralized social networking app, arrives to take on Twitter](https://techcrunch.com/2023/02/01/damus-another-decentralized-social-networking-app-arrives-to-take-on-twitter/)
-- [Samsung’s new Galaxy S23 Ultra arrives with a 200-megapixel camera](https://techcrunch.com/2023/02/01/samsungs-new-galaxy-s23-ultra-arrives-with-a-20mp-camera/)
-- [Apollo 11 astronaut Michael Collins laid to rest at Arlington National Cemetery](https://www.space.com/apollo-11-astronaut-michael-collins-interment-arlington-national-ceremony)
-- [Samsung has the MacBook Pro in its sights with the $2,400 Galaxy Book 3 Ultra](https://techcrunch.com/2023/02/01/samsung-has-the-macbook-pro-in-its-sights-with-the-2400-galaxy-book-3-ultra/)
-- [Digs is a Figma-like collaboration tool for home builders and suppliers](https://techcrunch.com/2023/02/01/digs-is-a-figma-like-collaboration-tool-for-home-builders-and-suppliers/)
+- [Astronomers identify 1st twin stars doomed to collide in kilonova explosion](https://www.space.com/neutron-star-binary-before-collision)
+- [Summari pivots to AI-generated link previews that really click](https://techcrunch.com/2023/02/01/summari-pivots-to-ai-generated-link-previews-that-really-click/)
+- [The biggest names in D&amp;D are going independent on ‘Worlds Beyond Number’](https://techcrunch.com/2023/02/01/worlds-beyond-number-podcast/)
+- [Hear how to find profitability early with Cambly and Benchmark on TechCrunch Live](https://techcrunch.com/2023/02/01/hear-how-to-find-profitability-early-with-cambly-and-benchmark-on-techcrunch-live/)
+- [Coinbase’s asset recovery tool just saved my bacon](https://techcrunch.com/2023/02/01/coinbase-asset-recovery/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
