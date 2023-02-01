@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Jetpack.io helps developers focus on applications instead of infrastructure](https://techcrunch.com/2023/02/01/jetpack-io-helps-developers-focus-on-applications-instead-of-infrastructure/)
-- [FTC slaps $1.5M fine on GoodRx for sharing users’ health data with Facebook and Google](https://techcrunch.com/2023/02/01/ftc-slaps-online-pharmacy-goodrx-for-sharing-users-health-data-with-facebook-and-google/)
-- [Green comet flaunts its tail in dazzling deep space photo](https://www.space.com/green-comet-tail-c2022-e3-ztf-photo-miguel-claro)
-- [Report: Microsoft plans to update Bing with a faster version of ChatGPT in the coming weeks](https://techcrunch.com/2023/02/01/report-microsoft-plans-to-update-bing-with-a-faster-version-of-chatgpt-in-the-coming-weeks/)
-- [Snap hints at future AR glasses powered by generative AI](https://techcrunch.com/2023/02/01/snap-hints-at-future-ar-glasses-powered-by-generative-a-i/)
+- [Damus, another decentralized social networking app, arrives to take on Twitter](https://techcrunch.com/2023/02/01/damus-another-decentralized-social-networking-app-arrives-to-take-on-twitter/)
+- [Samsung’s new Galaxy S23 Ultra arrives with a 200-megapixel camera](https://techcrunch.com/2023/02/01/samsungs-new-galaxy-s23-ultra-arrives-with-a-20mp-camera/)
+- [Apollo 11 astronaut Michael Collins laid to rest at Arlington National Cemetery](https://www.space.com/apollo-11-astronaut-michael-collins-interment-arlington-national-ceremony)
+- [Samsung has the MacBook Pro in its sights with the $2,400 Galaxy Book 3 Ultra](https://techcrunch.com/2023/02/01/samsung-has-the-macbook-pro-in-its-sights-with-the-2400-galaxy-book-3-ultra/)
+- [Digs is a Figma-like collaboration tool for home builders and suppliers](https://techcrunch.com/2023/02/01/digs-is-a-figma-like-collaboration-tool-for-home-builders-and-suppliers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
