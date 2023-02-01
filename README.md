@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The James Webb Space Telescope image shows spiral galaxy in stunning detail](https://www.space.com/james-webb-space-telescope-spiral-galaxy-image)
 - [Astronomers identify 1st twin stars doomed to collide in kilonova explosion](https://www.space.com/neutron-star-binary-before-collision)
-- [Summari pivots to AI-generated link previews that really click](https://techcrunch.com/2023/02/01/summari-pivots-to-ai-generated-link-previews-that-really-click/)
-- [The biggest names in D&amp;D are going independent on ‘Worlds Beyond Number’](https://techcrunch.com/2023/02/01/worlds-beyond-number-podcast/)
-- [Hear how to find profitability early with Cambly and Benchmark on TechCrunch Live](https://techcrunch.com/2023/02/01/hear-how-to-find-profitability-early-with-cambly-and-benchmark-on-techcrunch-live/)
-- [Coinbase’s asset recovery tool just saved my bacon](https://techcrunch.com/2023/02/01/coinbase-asset-recovery/)
+- [Apollo 11 astronaut Michael Collins laid to rest at Arlington National Cemetery](https://www.space.com/apollo-11-astronaut-michael-collins-interment-arlington-national-ceremony)
+- [Green comet flaunts its tail in dazzling deep space photo](https://www.space.com/green-comet-tail-c2022-e3-ztf-photo-miguel-claro)
+- [Watch SpaceX launch 53 Starlink internet satellites early Thursday](https://www.space.com/spacex-starlink-group-5-3-launch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
