@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Snapchat now has more than 2 million paid subscribers](https://techcrunch.com/2023/01/31/snapchat-now-has-more-than-2-million-paid-subscribers/)
 - [Egyptian financial services provider MNT-Halan valued at $1B in $400M funding](https://techcrunch.com/2023/01/31/egyptian-financial-services-provider-mnt-halan-gets-1b-valuation-after-securing-400m/)
 - [Superstrata e-bike review: Rebel without a cause](https://techcrunch.com/2023/01/31/superstrata-e-bike-review-rebel-without-a-cause/)
 - [Tesla records $204M loss from bitcoin in 2022](https://techcrunch.com/2023/01/31/tesla-records-204m-loss-from-bitcoin-in-2022/)
 - [Energy X secures $20M at $120M valuation to slash building sector emissions](https://techcrunch.com/2023/01/31/energy-x-secures-20m-at-120m-valuation-to-slash-building-sector-emissions/)
-- [SpaceX crewmates Doug Hurley and Bob Behnken awarded Space Medal of Honor](https://www.space.com/hurley-behnken-congressional-space-medal-honor)
 <!-- BLOG-POST-LIST:END -->
 
 ---
