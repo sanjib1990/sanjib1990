@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [South African digital lender Lulalend to launch banking product off the back of $35M Series B](https://techcrunch.com/2023/02/01/south-african-digital-lender-lulalend-to-launch-banking-product-off-the-back-of-35m-series-b/)
-- [Tiger Global says India returns have ‘sucked historically’ but bullish on future prospect](https://techcrunch.com/2023/02/01/tiger-global-india-returns-way-below-average-but-firm-remains-bullish-says-scott-shleifer/)
-- [ValueBase, backed by Sam Altman’s Hydrazine, raises $1.6 million seed round](https://techcrunch.com/2023/02/01/valuebase-backed-by-sam-altmans-hydrazine-raises-1-6-million-seed-round/)
-- [MUFG, Japan’s largest bank, launches $100M fund for Indonesian startups](https://techcrunch.com/2023/02/01/mufg-japans-largest-bank-launches-100m-fund-for-indonesian-startups/)
-- [Snapchat now has more than 2 million paid subscribers](https://techcrunch.com/2023/01/31/snapchat-now-has-more-than-2-million-paid-subscribers/)
+- [Battery darling Our Next Energy lands massive $300M Series B to build gigafactory](https://techcrunch.com/2023/02/01/battery-darling-our-next-energy-lands-massive-300m-series-b-to-build-gigafactory/)
+- [NASA loses more than 200 Jupiter photos after Juno probe camera glitch](https://www.space.com/nasa-juno-camera-glitch-repeats)
+- [NASA pledges &#39;acute awareness&#39; of astronaut safety 20 years after Columbia shuttle tragedy](https://www.space.com/columbia-space-shuttle-tragedy-20-year-anniversary)
+- [Twitter discontinues CoTweets, says will debut text attachments next week](https://techcrunch.com/2023/02/01/twitter-discontinues-cotweets-says-will-debut-text-attachments-next-week/)
+- [Get ready for Starfield with $60 off the Xbox Series S](https://www.space.com/xbox-series-s-save-60-dollars-january-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
