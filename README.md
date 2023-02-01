@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple TV users can now watch Major League Soccer matches with MLS Season Pass](https://techcrunch.com/2023/02/01/apple-tv-major-league-soccer-season-pass-subscription/)
-- [Which open source startups rocketed in 2022?](https://techcrunch.com/2023/02/01/which-open-source-startups-rocketed-in-2022/)
-- [Battery darling Our Next Energy lands massive $300M Series B to build gigafactory](https://techcrunch.com/2023/02/01/battery-darling-our-next-energy-lands-massive-300m-series-b-to-build-gigafactory/)
-- [NASA loses more than 200 Jupiter photos after Juno probe camera glitch](https://www.space.com/nasa-juno-camera-glitch-repeats)
-- [NASA pledges &#39;acute awareness&#39; of astronaut safety 20 years after Columbia shuttle tragedy](https://www.space.com/columbia-space-shuttle-tragedy-20-year-anniversary)
+- [Risilience, a climate analytics and risk assessment platform for enterprises, raises $26M](https://techcrunch.com/2023/02/01/risilience-a-climate-analytics-and-risk-assessment-platform-for-enterprises-raises-26m/)
+- [Michroma wants to make food colorings, flavors more ‘fun’gi](https://techcrunch.com/2023/02/01/michroma-food-coloring-fungi-foodtech/)
+- [Teach yourself growth marketing: Which metrics really matter?](https://techcrunch.com/2023/02/01/teach-yourself-growth-marketing-which-metrics-really-matter/)
+- [Smashin&#39; asteroids, Hollywood style: could nuking an asteroid save the Earth?](https://www.space.com/smashin-asteroids-hollywood-style-could-nuking-an-asteroid-save-earth)
+- [Portside lands $50M to help manage business aviation](https://techcrunch.com/2023/02/01/portside-50m-business-aviation-startup/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
