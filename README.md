@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Superstrata e-bike review: Rebel without a cause](https://techcrunch.com/2023/01/31/superstrata-e-bike-review-rebel-without-a-cause/)
+- [Tesla records $204M loss from bitcoin in 2022](https://techcrunch.com/2023/01/31/tesla-records-204m-loss-from-bitcoin-in-2022/)
 - [Energy X secures $20M at $120M valuation to slash building sector emissions](https://techcrunch.com/2023/01/31/energy-x-secures-20m-at-120m-valuation-to-slash-building-sector-emissions/)
 - [SpaceX crewmates Doug Hurley and Bob Behnken awarded Space Medal of Honor](https://www.space.com/hurley-behnken-congressional-space-medal-honor)
 - [Daily Crunch: Cell network provider Google Fi confirms customer data breach](https://techcrunch.com/2023/01/31/daily-crunch-cell-network-provider-google-fi-confirms-customer-data-breach/)
-- [OpenAI releases tool to detect AI-generated text, including from ChatGPT](https://techcrunch.com/2023/01/31/openai-releases-tool-to-detect-ai-generated-text-including-from-chatgpt/)
-- [Annie Wersching, the Borg Queen of &#39;Star Trek: Picard,&#39; dies at 45](https://www.space.com/star-trek-picard-borg-queen-annie-wersching-passes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
