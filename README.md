@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Netflix to include more EVs in its TV shows and movies as part of new partnership with GM](https://techcrunch.com/2023/02/02/netflix-evs-tv-shows-and-movies-part-new-partnership-with-gm/)
+- [Saturn&#39;s moon Mimas may be a &#39;stealth&#39; ocean world](https://www.space.com/saturn-moon-mimas-stealth-ocean-world)
+- [Apple’s hardware VP on the HomePod’s return](https://techcrunch.com/2023/02/02/apple-hardware-vp-matthew-costello-on-the-homepods-return/)
 - [ToolJet, an open source low-code app builder, wants to help companies do more with less](https://techcrunch.com/2023/02/02/tooljet-an-open-source-low-code-app-builder-wants-to-help-companies-do-more-with-less/)
 - [Meet Beek, a startup bringing audiobooks to LatAm with big-name backing](https://techcrunch.com/2023/02/02/meet-beek-a-startup-bringing-audiobooks-to-latam-with-big-name-backing/)
-- [Save $127 on the Celestron NexStar 5SE computerized telescope](https://www.space.com/celestron-nexstar-5se-telescope-deal-save-127-dollars)
-- [Holes in sun&#39;s atmosphere can help predict space weather on Earth](https://www.space.com/study-forecasts-space-weather-from-coronal-holes)
-- [Want to buy an EV or heat pump? New coin will help you defray the costs](https://techcrunch.com/2023/02/02/want-to-buy-an-ev-or-heat-pump-new-coin-will-help-you-defray-the-costs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
