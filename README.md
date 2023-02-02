@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Pitch Deck Teardown: Laoshi’s $570K angel deck](https://techcrunch.com/2023/02/02/sample-angel-pitch-deck-laoshi/)
-- [Samooha launches with tech that lets companies share data securely](https://techcrunch.com/2023/02/02/samooh-launches-with-tech-that-lets-companies-share-data-securely/)
-- [OneHouse is building a neutral data lake integration layer on top of Apache Hudi](https://techcrunch.com/2023/02/02/onehouse-is-building-a-neutral-data-lake-integration-layer-on-top-of-apache-hudi/)
-- [With moon crews to assign, Joe Acaba named NASA&#39;s new chief astronaut](https://www.space.com/nasa-chief-astronaut-joe-acaba)
-- [Artemis 1 moon rocket looks ready for astronaut missions, NASA says](https://www.space.com/artemis-1-moon-rocket-sls-ready-launch-astronauts)
+- [Usage-based pricing is rising, but not replacing other models](https://techcrunch.com/2023/02/02/usage-based-pricing-is-rising-but-not-replacing-other-models/)
+- [New month, new crypto market moves?](https://techcrunch.com/2023/02/02/new-month-new-crypto-market-moves/)
+- [Chaotic &#39;knot&#39; of merging galaxy clusters captured in multiple wavelengths](https://www.space.com/chandra-images-knot-of-galactic-clusters)
+- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
+- [With a &#39;wiggle and nudge,&#39; spacewalking astronauts install stubborn array mount outside space station](https://www.space.com/spacewalk-astronauts-install-irosa-mount)
 <!-- BLOG-POST-LIST:END -->
 
 ---
