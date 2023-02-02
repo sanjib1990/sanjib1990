@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Samsung, Google and Qualcomm are making a mixed reality platform](https://techcrunch.com/2023/02/02/samsung-google-and-qualcomm-are-making-a-mixed-reality-platform/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [New School Foods’ filet looks and tastes like salmon, but it’s actually plants](https://techcrunch.com/2023/02/02/new-school-foods-salmon-foodtech/)
 - [Europe won&#39;t send astronauts to China&#39;s Tiangong space station after all: report](https://www.space.com/europe-not-send-astronauts-china-tiangong-space-station)
 - [The James Webb Space Telescope gets its own micrometeoroid forecast — here&#39;s how](https://www.space.com/james-webb-space-telescope-micrometeoroid-environment)
-- [EU lawmakers launch tips hotline to catch Big Tech’s ‘shady’ lobbying](https://techcrunch.com/2023/02/02/lobbyleaks/)
-- [SpaceX marks Falcon 9&#39;s 200th mission with successful Starlink launch.](https://www.space.com/spacex-starlink-group-5-3-launch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
