@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [EU lawmakers launch tips hotline to catch Big Tech’s ‘shady’ lobbying](https://techcrunch.com/2023/02/02/lobbyleaks/)
+- [SpaceX marks Falcon 9&#39;s 200th mission with successful Starlink launch.](https://www.space.com/spacex-starlink-group-5-3-launch)
 - [India’s retail giant Reliance to accept CBDC at stores](https://techcrunch.com/2023/02/02/india-retail-reliance-cbdc-digital-rupee-stores/)
 - [Twitter to end free access to its API in Elon Musk’s latest monetization push](https://techcrunch.com/2023/02/01/twitter-to-end-free-access-to-its-api/)
 - [Seyna adds claim management product for insurance brokers](https://techcrunch.com/2023/02/01/seyna-adds-claim-management-product-for-insurance-brokers/)
-- [Pinterest lays off 150 people as a part of its ‘long-term strategy’](https://techcrunch.com/2023/02/01/pinterest-lays-off-150-people-as-a-part-of-its-long-term-strategy/)
-- [Sequoia Capital India backs Freightify’s vertical SaaS platform for freight forwarders](https://techcrunch.com/2023/02/01/freightify-series-a/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
