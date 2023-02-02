@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Samsung, Google and Qualcomm are making a mixed reality platform](https://techcrunch.com/2023/02/02/samsung-google-and-qualcomm-are-making-a-mixed-reality-platform/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [New School Foods’ filet looks and tastes like salmon, but it’s actually plants](https://techcrunch.com/2023/02/02/new-school-foods-salmon-foodtech/)
-- [Europe won&#39;t send astronauts to China&#39;s Tiangong space station after all: report](https://www.space.com/europe-not-send-astronauts-china-tiangong-space-station)
-- [The James Webb Space Telescope gets its own micrometeoroid forecast — here&#39;s how](https://www.space.com/james-webb-space-telescope-micrometeoroid-environment)
+- [Penpot, the open-source platform for designers and their coders, draws up $12M as users jump to 250K](https://techcrunch.com/2023/02/02/penpot-the-open-source-platform-for-designers-and-their-coders-draws-up-12m-as-users-jump-to-250k/)
+- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
+- [Lavender lands $13.2M for its AI-powered email marketing engine](https://techcrunch.com/2023/02/02/lavender-lands-13-2m-for-its-ai-powered-email-marketing-engine/)
+- [Optimizing freemium products: Challenges and opportunities](https://techcrunch.com/2023/02/02/optimizing-freemium-products-challenges-and-opportunities/)
+- [Xenomorphs hatch from the deep freeze in Marvel’s new &#39;Alien&#39; comic series](https://www.space.com/marvel-alien-comic-april-release)
 <!-- BLOG-POST-LIST:END -->
 
 ---
