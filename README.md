@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [New satellite to police carbon dioxide emitters from space](https://www.space.com/ghgsat-carbon-dioxide-detecting-satellite-to-launch)
-- [How Fictiv is making hardware manufacturing more like building software](https://techcrunch.com/2023/02/02/hardware-2023/)
-- [BlockJoy raises $12M to help cut operating costs for businesses running blockchain nodes](https://techcrunch.com/2023/02/02/blockjoy-raises-12m-to-help-cut-operating-costs-for-businesses-running-blockchain-nodes/)
-- [TikTok introduces a strike system for violations, tests a feature to “refresh” the For You feed](https://techcrunch.com/2023/02/02/tiktok-introduces-a-strike-system-for-violations-tests-a-feature-to-refresh-the-for-you-feed/)
-- [Some Salesforce employees just found out they’re part of the 10% layoff announced last month](https://techcrunch.com/2023/02/02/some-salesforce-employees-just-found-out-theyre-part-of-the-10-layoff-announced-last-month/)
+- [Artemis 1 moon rocket looks ready for astronaut missions, NASA says](https://www.space.com/artemis-1-moon-rocket-sls-ready-launch-astronauts)
+- [Political ads face tougher targeting restrictions in EU if MEPs get their way](https://techcrunch.com/2023/02/02/eu-political-ads-transparency-rules-parliament-mandate/)
+- [Bollinger Motors sues Munro Vehicles over similarity of its EVs](https://techcrunch.com/2023/02/02/bollinger-motors-sues-munro-vehicles-over-similarity-of-its-evs/)
+- [Triple Whale raises $25M for its smart Shopify data platform](https://techcrunch.com/2023/02/02/triple-whale-raises-25m-for-its-shopify-data-platform/)
+- [Roblox to host a free virtual Super Bowl concert featuring Saweetie](https://techcrunch.com/2023/02/02/roblox-free-virtual-super-bowl-concert-saweetie/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
