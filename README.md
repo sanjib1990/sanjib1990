@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pinterest lays off 150 people as a part of its ‘long-term strategy’](https://techcrunch.com/2023/02/01/pinterest-lays-off-150-people-as-a-part-of-its-long-term-strategy/)
+- [Sequoia Capital India backs Freightify’s vertical SaaS platform for freight forwarders](https://techcrunch.com/2023/02/01/freightify-series-a/)
 - [Watch 2 astronauts perform 2nd spacewalk of 2023 on Thursday morning](https://www.space.com/spacewalk-international-space-station-february-2-webcast)
 - [China’s EV upstart Xpeng ready to take off with flying permit](https://techcrunch.com/2023/02/01/chinas-ev-upstart-xpeng-ready-to-take-off-with-flying-permit/)
 - [Nissan finally shows off the Max-Out EV convertible concept in IRL](https://techcrunch.com/2023/02/01/nissan-finally-shows-its-max-out-ev-convertible-concept-in-irl/)
-- [Zopa, the UK neobank, raises $93M more at a $1B+ valuation](https://techcrunch.com/2023/02/01/zopa-the-uk-neobank-raises-93m-more-at-a-1b-valuation/)
-- [‘Keep Lex filthy’: Users react to queer dating app’s new direction](https://techcrunch.com/2023/02/01/keep-lex-filthy-users-react-queer-dating-apps-redesign/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
