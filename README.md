@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Netflix to include more EVs in its TV shows and movies as part of new partnership with GM](https://techcrunch.com/2023/02/02/netflix-evs-tv-shows-and-movies-part-new-partnership-with-gm/)
-- [Saturn&#39;s moon Mimas may be a &#39;stealth&#39; ocean world](https://www.space.com/saturn-moon-mimas-stealth-ocean-world)
-- [Apple’s hardware VP on the HomePod’s return](https://techcrunch.com/2023/02/02/apple-hardware-vp-matthew-costello-on-the-homepods-return/)
-- [ToolJet, an open source low-code app builder, wants to help companies do more with less](https://techcrunch.com/2023/02/02/tooljet-an-open-source-low-code-app-builder-wants-to-help-companies-do-more-with-less/)
-- [Meet Beek, a startup bringing audiobooks to LatAm with big-name backing](https://techcrunch.com/2023/02/02/meet-beek-a-startup-bringing-audiobooks-to-latam-with-big-name-backing/)
+- [New satellite to police carbon dioxide emitters from space](https://www.space.com/ghgsat-carbon-dioxide-detecting-satellite-to-launch)
+- [How Fictiv is making hardware manufacturing more like building software](https://techcrunch.com/2023/02/02/hardware-2023/)
+- [BlockJoy raises $12M to help cut operating costs for businesses running blockchain nodes](https://techcrunch.com/2023/02/02/blockjoy-raises-12m-to-help-cut-operating-costs-for-businesses-running-blockchain-nodes/)
+- [TikTok introduces a strike system for violations, tests a feature to “refresh” the For You feed](https://techcrunch.com/2023/02/02/tiktok-introduces-a-strike-system-for-violations-tests-a-feature-to-refresh-the-for-you-feed/)
+- [Some Salesforce employees just found out they’re part of the 10% layoff announced last month](https://techcrunch.com/2023/02/02/some-salesforce-employees-just-found-out-theyre-part-of-the-10-layoff-announced-last-month/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
