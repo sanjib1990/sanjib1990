@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Zopa, the UK neobank, raises $93M more at a $1B+ valuation](https://techcrunch.com/2023/02/01/zopa-the-uk-neobank-raises-93m-more-at-a-1b-valuation/)
+- [‘Keep Lex filthy’: Users react to queer dating app’s new direction](https://techcrunch.com/2023/02/01/keep-lex-filthy-users-react-queer-dating-apps-redesign/)
+- [Disclo aims to inspire inclusive workplaces — starting with disability accommodations](https://techcrunch.com/2023/02/01/disclo-aims-to-inspire-inclusive-workplaces-starting-with-disability-accommodations/)
 - [‘Inaudible’ watermark could identify AI-generated voices](https://techcrunch.com/2023/02/01/inaudible-watermark-could-identify-ai-generated-voices/)
 - [Daily Crunch: Netflix’s new sharing restrictions force subscribers to select a primary viewing location](https://techcrunch.com/2023/02/01/daily-crunch-netflixs-new-sharing-restrictions-force-subscribers-to-select-a-primary-viewing-location/)
-- [Meta stock perks up as the company promises a ‘year of efficiency’](https://techcrunch.com/2023/02/01/meta-q4-2022-earnings-ai-efficiency/)
-- [Car-sharing platform Getaround gets delisting warning from NYSE](https://techcrunch.com/2023/02/01/car-sharing-platform-getaround-gets-delisting-warning-from-nyse/)
-- [&#39;The Ark&#39; premiere sets up a sci-fi survival saga in outer space](https://www.space.com/the-ark-premiere-syfy-outer-space-survival)
 <!-- BLOG-POST-LIST:END -->
 
 ---
