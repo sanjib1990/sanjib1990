@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Penpot, the open-source platform for designers and their coders, draws up $12M as users jump to 250K](https://techcrunch.com/2023/02/02/penpot-the-open-source-platform-for-designers-and-their-coders-draws-up-12m-as-users-jump-to-250k/)
-- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
-- [Lavender lands $13.2M for its AI-powered email marketing engine](https://techcrunch.com/2023/02/02/lavender-lands-13-2m-for-its-ai-powered-email-marketing-engine/)
-- [Optimizing freemium products: Challenges and opportunities](https://techcrunch.com/2023/02/02/optimizing-freemium-products-challenges-and-opportunities/)
-- [Xenomorphs hatch from the deep freeze in Marvel’s new &#39;Alien&#39; comic series](https://www.space.com/marvel-alien-comic-april-release)
+- [Minu knows financial, employee wellness are connected, so it built 30 gamified benefits](https://techcrunch.com/2023/02/02/minu-employee-wellness-fintech/)
+- [Lyft wants to reshape shared micromobility with dockable e-scooter](https://techcrunch.com/2023/02/02/lyft-wants-to-reshape-shared-micromobility-with-dockable-e-scooter/)
+- [Gigantic &#39;alien&#39; comet spotted heading straight for the sun](https://www.space.com/comet-machholz1-approaches-sun-sixth-time)
+- [Dashlane publishes its source code to GitHub in transparency push](https://techcrunch.com/2023/02/02/dashlane-publishes-its-source-code-to-github-in-transparency-push/)
+- [European Parliament agrees a way forward on platform workers’ rights](https://techcrunch.com/2023/02/02/eu-platform-worker-directive-parliament-mandate/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
