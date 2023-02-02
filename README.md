@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pitch Deck Teardown: Laoshi’s $570K angel deck](https://techcrunch.com/2023/02/02/sample-angel-pitch-deck-laoshi/)
+- [Samooha launches with tech that lets companies share data securely](https://techcrunch.com/2023/02/02/samooh-launches-with-tech-that-lets-companies-share-data-securely/)
+- [OneHouse is building a neutral data lake integration layer on top of Apache Hudi](https://techcrunch.com/2023/02/02/onehouse-is-building-a-neutral-data-lake-integration-layer-on-top-of-apache-hudi/)
+- [With moon crews to assign, Joe Acaba named NASA&#39;s new chief astronaut](https://www.space.com/nasa-chief-astronaut-joe-acaba)
 - [Artemis 1 moon rocket looks ready for astronaut missions, NASA says](https://www.space.com/artemis-1-moon-rocket-sls-ready-launch-astronauts)
-- [Political ads face tougher targeting restrictions in EU if MEPs get their way](https://techcrunch.com/2023/02/02/eu-political-ads-transparency-rules-parliament-mandate/)
-- [Bollinger Motors sues Munro Vehicles over similarity of its EVs](https://techcrunch.com/2023/02/02/bollinger-motors-sues-munro-vehicles-over-similarity-of-its-evs/)
-- [Triple Whale raises $25M for its smart Shopify data platform](https://techcrunch.com/2023/02/02/triple-whale-raises-25m-for-its-shopify-data-platform/)
-- [Roblox to host a free virtual Super Bowl concert featuring Saweetie](https://techcrunch.com/2023/02/02/roblox-free-virtual-super-bowl-concert-saweetie/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
