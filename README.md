@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Minu knows financial, employee wellness are connected, so it built 30 gamified benefits](https://techcrunch.com/2023/02/02/minu-employee-wellness-fintech/)
-- [Lyft wants to reshape shared micromobility with dockable e-scooter](https://techcrunch.com/2023/02/02/lyft-wants-to-reshape-shared-micromobility-with-dockable-e-scooter/)
-- [Gigantic &#39;alien&#39; comet spotted heading straight for the sun](https://www.space.com/comet-machholz1-approaches-sun-sixth-time)
-- [Dashlane publishes its source code to GitHub in transparency push](https://techcrunch.com/2023/02/02/dashlane-publishes-its-source-code-to-github-in-transparency-push/)
-- [European Parliament agrees a way forward on platform workers’ rights](https://techcrunch.com/2023/02/02/eu-platform-worker-directive-parliament-mandate/)
+- [ToolJet, an open source low-code app builder, wants to help companies do more with less](https://techcrunch.com/2023/02/02/tooljet-an-open-source-low-code-app-builder-wants-to-help-companies-do-more-with-less/)
+- [Meet Beek, a startup bringing audiobooks to LatAm with big-name backing](https://techcrunch.com/2023/02/02/meet-beek-a-startup-bringing-audiobooks-to-latam-with-big-name-backing/)
+- [Save $127 on the Celestron NexStar 5SE computerized telescope](https://www.space.com/celestron-nexstar-5se-telescope-deal-save-127-dollars)
+- [Holes in sun&#39;s atmosphere can help predict space weather on Earth](https://www.space.com/study-forecasts-space-weather-from-coronal-holes)
+- [Want to buy an EV or heat pump? New coin will help you defray the costs](https://techcrunch.com/2023/02/02/want-to-buy-an-ev-or-heat-pump-new-coin-will-help-you-defray-the-costs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
