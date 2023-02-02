@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nissan finally shows off the Max-Out EV convertible concept in IRL](https://techcrunch.com/2023/02/01/nissan-finally-shows-its-max-out-ev-convertible-concept-in-irl/)
 - [Zopa, the UK neobank, raises $93M more at a $1B+ valuation](https://techcrunch.com/2023/02/01/zopa-the-uk-neobank-raises-93m-more-at-a-1b-valuation/)
 - [‘Keep Lex filthy’: Users react to queer dating app’s new direction](https://techcrunch.com/2023/02/01/keep-lex-filthy-users-react-queer-dating-apps-redesign/)
 - [Disclo aims to inspire inclusive workplaces — starting with disability accommodations](https://techcrunch.com/2023/02/01/disclo-aims-to-inspire-inclusive-workplaces-starting-with-disability-accommodations/)
 - [‘Inaudible’ watermark could identify AI-generated voices](https://techcrunch.com/2023/02/01/inaudible-watermark-could-identify-ai-generated-voices/)
-- [Daily Crunch: Netflix’s new sharing restrictions force subscribers to select a primary viewing location](https://techcrunch.com/2023/02/01/daily-crunch-netflixs-new-sharing-restrictions-force-subscribers-to-select-a-primary-viewing-location/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
