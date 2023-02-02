@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New School Foods’ filet looks and tastes like salmon, but it’s actually plants](https://techcrunch.com/2023/02/02/new-school-foods-salmon-foodtech/)
+- [Europe won&#39;t send astronauts to China&#39;s Tiangong space station after all: report](https://www.space.com/europe-not-send-astronauts-china-tiangong-space-station)
+- [The James Webb Space Telescope gets its own micrometeoroid forecast — here&#39;s how](https://www.space.com/james-webb-space-telescope-micrometeoroid-environment)
 - [EU lawmakers launch tips hotline to catch Big Tech’s ‘shady’ lobbying](https://techcrunch.com/2023/02/02/lobbyleaks/)
 - [SpaceX marks Falcon 9&#39;s 200th mission with successful Starlink launch.](https://www.space.com/spacex-starlink-group-5-3-launch)
-- [India’s retail giant Reliance to accept CBDC at stores](https://techcrunch.com/2023/02/02/india-retail-reliance-cbdc-digital-rupee-stores/)
-- [Twitter to end free access to its API in Elon Musk’s latest monetization push](https://techcrunch.com/2023/02/01/twitter-to-end-free-access-to-its-api/)
-- [Seyna adds claim management product for insurance brokers](https://techcrunch.com/2023/02/01/seyna-adds-claim-management-product-for-insurance-brokers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
