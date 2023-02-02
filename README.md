@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rebar robotics firm Toggle adds another $3M to its fundraising tally](https://techcrunch.com/2023/02/02/rebar-robotics-firm-toggle-adds-another-3m-to-its-fundraising-tally/)
+- [Ford left ‘$2B of profits on the table’ in 2022](https://techcrunch.com/2023/02/02/ford-earnings-left-2b-of-profits-on-the-table-in-2022/)
 - [‘0ktapus’ hackers are back and targeting tech and gaming companies, says leaked report](https://techcrunch.com/2023/02/02/0ktapus-hackers-are-back-and-targeting-tech-and-gaming-companies-says-leaked-report/)
 - [Is Instagram considering paid verification? Code reveals references to a ‘paid blue badge’](https://techcrunch.com/2023/02/02/is-instagram-considering-paid-verification-code-reveals-references-to-a-paid-blue-badge/)
 - [Usage-based pricing is rising, but not replacing other models](https://techcrunch.com/2023/02/02/usage-based-pricing-is-rising-but-not-replacing-other-models/)
-- [New month, new crypto market moves?](https://techcrunch.com/2023/02/02/new-month-new-crypto-market-moves/)
-- [Chaotic &#39;knot&#39; of merging galaxy clusters captured in multiple wavelengths](https://www.space.com/chandra-images-knot-of-galactic-clusters)
 <!-- BLOG-POST-LIST:END -->
 
 ---
