@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple says it now has 935 million paid subscriptions](https://techcrunch.com/2023/02/03/apple-says-it-now-has-935-million-paid-subscriptions/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [Nothing’s second phone will take on the US this year](https://techcrunch.com/2023/02/03/nothings-second-phone-will-take-on-the-us-this-year/)
 - [Tricky alien worlds easier to find when humans and machines team up](https://www.space.com/exoplanet-discovery-with-machine-learning-algorithm)
 - [Curiosity rover finds metallic meteorite on Mars](https://www.space.com/curiosity-rover-metallic-mars-meteorite-cacao)
-- [Google says YouTube Shorts has crossed 50 billion daily views](https://techcrunch.com/2023/02/03/google-says-youtube-shorts-has-crossed-50-billion-daily-views/)
-- [SunFi aims to be the fastest way for Nigerians to find, finance and manage solar](https://techcrunch.com/2023/02/03/sunfi-wants-to-become-the-fastest-way-for-nigerians-to-find-finance-install-and-manage-solar/)
-- [Twitter Blue expands to six new countries, brings back Spaces curation](https://techcrunch.com/2023/02/02/twitter-blue-expands-to-six-new-countries-brings-back-spaces-curation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
