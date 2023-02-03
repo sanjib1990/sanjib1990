@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Car-sharing SPAC Getaround lays off 10% of staff](https://techcrunch.com/2023/02/02/car-sharing-spac-getaround-lays-off-10-of-staff/)
-- [Apple stock drops on rare Q4 earnings miss](https://techcrunch.com/2023/02/02/apple-revenue-drops-amid-quarterly-hardware-decline/)
-- [Daily Crunch: Hundreds of Salesforce workers laid off in January just discovered they were out of work today](https://techcrunch.com/2023/02/02/daily-crunch-hundreds-of-salesforce-workers-laid-off-in-january-just-discovered-they-were-out-of-work-today/)
-- [Rebar robotics firm Toggle adds another $3M to its fundraising tally](https://techcrunch.com/2023/02/02/rebar-robotics-firm-toggle-adds-another-3m-to-its-fundraising-tally/)
-- [Ford left ‘$2B of profits on the table’ in 2022](https://techcrunch.com/2023/02/02/ford-earnings-left-2b-of-profits-on-the-table-in-2022/)
+- [Chaotic &#39;knot&#39; of merging galaxy clusters captured in multiple wavelengths](https://www.space.com/chandra-images-knot-of-galactic-clusters)
+- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
+- [With a &#39;wiggle and nudge,&#39; spacewalking astronauts install stubborn array mount outside space station](https://www.space.com/spacewalk-astronauts-install-irosa-mount)
+- [Watch a drone drop a microgravity capsule in 1st-of-its-kind experiment &lpar;video&rpar;](https://www.space.com/gravitilab-first-drone-based-microgravity-experiment-video)
+- [With moon crews to assign, Joe Acaba named NASA&#39;s new chief astronaut](https://www.space.com/nasa-chief-astronaut-joe-acaba)
 <!-- BLOG-POST-LIST:END -->
 
 ---
