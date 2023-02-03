@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Zero-gravity parabolic flights get surge of demand for spaceflight work](https://www.space.com/zero-gravity-parabolic-flights-high-demand)
-- [Why invest in Ukrainian startups today?](https://techcrunch.com/2023/02/03/why-invest-in-ukrainian-startups-today/)
-- [Apple says it now has 935 million paid subscriptions](https://techcrunch.com/2023/02/03/apple-says-it-now-has-935-million-paid-subscriptions/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [Nothing’s second phone will take on the US this year](https://techcrunch.com/2023/02/03/nothings-second-phone-will-take-on-the-us-this-year/)
+- [Grocery deliverer JOKR doubles down on Brazil as it secures $50M on $1.3B valuation](https://techcrunch.com/2023/02/03/jokr-brazil-instant-grocery-delivery/)
+- [Is your startup heading to MWC? TechCrunch wants to hear from you](https://techcrunch.com/2023/02/03/is-your-startup-heading-to-mwc-techcrunch-wants-to-hear-from-you/)
+- [Rare green comet&#39;s close approach a feast for astrophotographers &lpar;photos&rpar;](https://www.space.com/green-comet-close-approach-skywatcher-photos)
+- [Spaceport Cornwall: The ultimate guide to the UK&#39;s first spaceport](https://www.space.com/spaceport-cornwall)
+- [Watch Cambly CEO and Benchmark partner explain startup fundraising tactics](https://techcrunch.com/2023/02/03/watch-cambly-ceo-and-benchmark-partner-explain-startup-fundraising-tactics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
