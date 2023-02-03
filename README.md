@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The bright moon meets up with the Gemini twins tonight &lpar;Feb. 3&rpar;](https://www.space.com/moon-shines-with-gemini-constellation-stars-february-2023)
+- [Miniature sun with simulated gravity could help prepare us for deadly solar storms](https://www.space.com/tiny-sun-could-predict-solar-flares)
 - [Good Lawd! Mass of lone &quot;dead star&quot; measured for the first time](https://www.space.com/hubble-space-telescope-white-dwarf-mass)
-- [Replika, a ‘virtual friendship’ AI chatbot, hit with data ban in Italy over child safety](https://techcrunch.com/2023/02/03/replika-italy-data-processing-ban/)
-- [The UK rolls back controversial plans to open up text and data mining regulations](https://techcrunch.com/2023/02/03/the-uk-rolls-back-controversial-plans-to-open-up-text-and-data-mining-regulations/)
-- [The impact investor and climate correspondent walk into a bar](https://techcrunch.com/2023/02/03/impact-investing-climate-tech/)
 - [Astronomers discover potential habitable exoplanet only 31 light-years from Earth](https://www.space.com/wolf-1069-b-exoplanet-habitable-earth-mass-discovery)
+- [India orders Vodafone Idea to convert government dues into $2 billion equity](https://techcrunch.com/2023/02/03/india-orders-vodafone-idea-to-convert-government-dues-into-2-billion-equity/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
