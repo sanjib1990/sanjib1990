@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Zero-gravity parabolic flights get surge of demand for spaceflight work](https://www.space.com/zero-gravity-parabolic-flights-high-demand)
+- [Why invest in Ukrainian startups today?](https://techcrunch.com/2023/02/03/why-invest-in-ukrainian-startups-today/)
 - [Apple says it now has 935 million paid subscriptions](https://techcrunch.com/2023/02/03/apple-says-it-now-has-935-million-paid-subscriptions/)
 - [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [Nothing’s second phone will take on the US this year](https://techcrunch.com/2023/02/03/nothings-second-phone-will-take-on-the-us-this-year/)
-- [Tricky alien worlds easier to find when humans and machines team up](https://www.space.com/exoplanet-discovery-with-machine-learning-algorithm)
-- [Curiosity rover finds metallic meteorite on Mars](https://www.space.com/curiosity-rover-metallic-mars-meteorite-cacao)
 <!-- BLOG-POST-LIST:END -->
 
 ---
