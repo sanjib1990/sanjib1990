@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter Blue expands to six new countries, brings back Spaces curation](https://techcrunch.com/2023/02/02/twitter-blue-expands-to-six-new-countries-brings-back-spaces-curation/)
 - [Damus pulled from Apple’s App Store in China after two days](https://techcrunch.com/2023/02/02/damus-pulled-from-apples-app-store-in-china-after-two-days/)
 - [Car-sharing SPAC Getaround lays off 10% of staff](https://techcrunch.com/2023/02/02/car-sharing-spac-getaround-lays-off-10-of-staff/)
 - [Apple stock drops on rare Q4 earnings miss](https://techcrunch.com/2023/02/02/apple-revenue-drops-amid-quarterly-hardware-decline/)
 - [Daily Crunch: Hundreds of Salesforce workers laid off in January just discovered they were out of work today](https://techcrunch.com/2023/02/02/daily-crunch-hundreds-of-salesforce-workers-laid-off-in-january-just-discovered-they-were-out-of-work-today/)
-- [Rebar robotics firm Toggle adds another $3M to its fundraising tally](https://techcrunch.com/2023/02/02/rebar-robotics-firm-toggle-adds-another-3m-to-its-fundraising-tally/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
