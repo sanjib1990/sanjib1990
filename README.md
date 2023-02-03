@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [7 better ways to create a React app](https://www.youtube.com/watch?v=2OTq15A5s0Y)
 - [ChatGPT with Rob Miles - Computerphile](https://www.youtube.com/watch?v=viJt_DXTfwA)
 - [The weird future of music](https://www.youtube.com/watch?v=1LV1K69885E)
 - [Unreal in 100 Seconds](https://www.youtube.com/watch?v=DXDe-2BC4cE)
 - [Lecture 2: Morphology, Part 1](https://www.youtube.com/watch?v=Mvy5hjAWeZw)
-- [Lecture 26: Signed Languages](https://www.youtube.com/watch?v=12UWP2ZhUl0)
 <!-- YOUTUBE:END -->
 
 ---
