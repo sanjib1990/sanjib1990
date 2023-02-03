@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Can 4 activist investors play nice in the Salesforce sandbox?](https://techcrunch.com/2023/02/03/can-4-activist-investors-play-nice-in-the-salesforce-sandbox/)
+- [Apple Pay gets the green light to launch its service in South Korea](https://techcrunch.com/2023/02/03/apply-pay-gets-the-green-light-to-launch-its-service-in-south-korea/)
 - [TechCrunch+ roundup: SaaS pricing strategies, 2022 open source report, can Vine regrow?](https://techcrunch.com/2023/02/03/techcrunch-roundup-saas-pricing-strategies-2022-open-source-report-can-vine-regrow/)
 - [Tesla, Ford and GM win in EV tax credit change](https://techcrunch.com/2023/02/03/tesla-ford-and-gm-win-in-ev-tax-credit-change/)
-- [AWS says growth dropped to mid-teens to start new year as customer cost cutting continues](https://techcrunch.com/2023/02/03/aws-says-growth-dropped-to-mid-teens-to-start-new-year-as-customer-cost-cutting-continues/)
-- [More job cuts loom as Sendy changes course in Nigeria](https://techcrunch.com/2023/02/03/more-job-cuts-loom-as-sendy-changes-course-in-nigeria/)
-- [GitHub CEO on why open source developers should be exempt from the EU’s AI Act](https://techcrunch.com/2023/02/03/github-ceo-on-why-open-source-developers-should-be-exempt-from-the-eus-ai-act/)
+- [AWS says growth dropped to mid-teens to start new year as customer cost-cutting continues](https://techcrunch.com/2023/02/03/aws-says-growth-dropped-to-mid-teens-to-start-new-year-as-customer-cost-cutting-continues/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
