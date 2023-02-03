@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Car-sharing SPAC Getaround lays off 10% of staff](https://techcrunch.com/2023/02/02/car-sharing-spac-getaround-lays-off-10-of-staff/)
+- [Apple stock drops on rare Q4 earnings miss](https://techcrunch.com/2023/02/02/apple-revenue-drops-amid-quarterly-hardware-decline/)
 - [Daily Crunch: Hundreds of Salesforce workers laid off in January just discovered they were out of work today](https://techcrunch.com/2023/02/02/daily-crunch-hundreds-of-salesforce-workers-laid-off-in-january-just-discovered-they-were-out-of-work-today/)
 - [Rebar robotics firm Toggle adds another $3M to its fundraising tally](https://techcrunch.com/2023/02/02/rebar-robotics-firm-toggle-adds-another-3m-to-its-fundraising-tally/)
 - [Ford left ‘$2B of profits on the table’ in 2022](https://techcrunch.com/2023/02/02/ford-earnings-left-2b-of-profits-on-the-table-in-2022/)
-- [‘0ktapus’ hackers are back and targeting tech and gaming companies, says leaked report](https://techcrunch.com/2023/02/02/0ktapus-hackers-are-back-and-targeting-tech-and-gaming-companies-says-leaked-report/)
-- [Is Instagram considering paid verification? Code reveals references to a ‘paid blue badge’](https://techcrunch.com/2023/02/02/is-instagram-considering-paid-verification-code-reveals-references-to-a-paid-blue-badge/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
