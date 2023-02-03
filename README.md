@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Apple says it earned $20.8B from 935M subscriptions last fiscal quarter](https://techcrunch.com/2023/02/03/daily-crunch-apple-says-it-earned-20-8b-from-935-million-subscriptions-last-fiscal-quarter/)
+- [YouTube Music contractors strike over alleged unfair labor practices](https://techcrunch.com/2023/02/03/youtube-music-contractors-strike-over-alleged-unfair-labor-practices/)
+- [SpaceX&#39;s 200th Falcon 9 rocket launch looks absolutely gorgeous in these photos](https://www.space.com/spacex-falcon-9-200th-launch-photos)
+- [Venture funding has started flooding back in at least one area: Secondaries](https://techcrunch.com/2023/02/03/venture-funding-has-started-flooding-back-in-at-least-one-area-secondaries/)
 - [Voyager Space raises $80M as it continues development on private space station, Starlab](https://techcrunch.com/2023/02/03/voyager-space-raises-80m-as-it-continues-development-on-private-space-station-starlab/)
-- [Twitter Circle glitches have users worried about privacy](https://techcrunch.com/2023/02/03/twitter-circle-glitches-have-users-worried-about-privacy/)
-- [Private Peregrine moon lander will now touch down near &#39;geologic enigma&#39;](https://www.space.com/peregrine-moon-lander-new-touchdown-site)
-- [Elon Musk says that Twitter will start sharing ad revenue with creators ‘today’](https://techcrunch.com/2023/02/03/elon-musk-creator-revenue-share-ads-twitter/)
-- [Google tries to reassure investors on AI progress as ChatGPT breathes down its neck](https://techcrunch.com/2023/02/03/google-best-yet-to-come-ai-journey-faces-potential-disruption-openai-chatgpt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
