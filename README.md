@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The impact investor and climate correspondent walk into a bar](https://techcrunch.com/2023/02/03/impact-investing-climate-tech/)
+- [Astronomers discover potential habitable exoplanet only 31 light-years from Earth](https://www.space.com/wolf-1069-b-exoplanet-habitable-earth-mass-discovery)
+- [‘Nothing, Forever,’ an AI ‘Seinfeld’ spoof, is the next ‘Twitch Plays Pokémon’](https://techcrunch.com/2023/02/03/nothing-forever-ai-generated-seinfeld-twitch/)
+- [India orders Vodafone Idea to convert government dues into $2 billion equity](https://techcrunch.com/2023/02/03/india-orders-vodafone-idea-to-convert-government-dues-into-2-billion-equity/)
 - [Grocery deliverer JOKR doubles down on Brazil as it secures $50M on $1.3B valuation](https://techcrunch.com/2023/02/03/jokr-brazil-instant-grocery-delivery/)
-- [Is your startup heading to MWC? TechCrunch wants to hear from you](https://techcrunch.com/2023/02/03/is-your-startup-heading-to-mwc-techcrunch-wants-to-hear-from-you/)
-- [Rare green comet&#39;s close approach a feast for astrophotographers &lpar;photos&rpar;](https://www.space.com/green-comet-close-approach-skywatcher-photos)
-- [Spaceport Cornwall: The ultimate guide to the UK&#39;s first spaceport](https://www.space.com/spaceport-cornwall)
-- [Watch Cambly CEO and Benchmark partner explain startup fundraising tactics](https://techcrunch.com/2023/02/03/watch-cambly-ceo-and-benchmark-partner-explain-startup-fundraising-tactics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
