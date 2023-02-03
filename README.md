@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Move over, Saturn: Jupiter is the solar system&#39;s new &#39;moon master&#39;](https://www.space.com/jupiter-moon-discoveries-total-92)
+- [Watch February&#39;s Full Snow Moon on Sunday &lpar;Feb. 5&rpar; with this free telescope webcast](https://www.space.com/full-snow-moon-feb-5-2023-webcast)
 - [Can 4 activist investors play nice in the Salesforce sandbox?](https://techcrunch.com/2023/02/03/can-4-activist-investors-play-nice-in-the-salesforce-sandbox/)
 - [Apple Pay gets the green light to launch its service in South Korea](https://techcrunch.com/2023/02/03/apply-pay-gets-the-green-light-to-launch-its-service-in-south-korea/)
 - [TechCrunch+ roundup: SaaS pricing strategies, 2022 open source report, can Vine regrow?](https://techcrunch.com/2023/02/03/techcrunch-roundup-saas-pricing-strategies-2022-open-source-report-can-vine-regrow/)
-- [Tesla, Ford and GM win in EV tax credit change](https://techcrunch.com/2023/02/03/tesla-ford-and-gm-win-in-ev-tax-credit-change/)
-- [AWS says growth dropped to mid-teens to start new year as customer cost-cutting continues](https://techcrunch.com/2023/02/03/aws-says-growth-dropped-to-mid-teens-to-start-new-year-as-customer-cost-cutting-continues/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
