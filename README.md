@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The bright moon meets up with the Gemini twins tonight &lpar;Feb. 3&rpar;](https://www.space.com/moon-shines-with-gemini-constellation-stars-february-2023)
-- [Miniature sun with simulated gravity could help prepare us for deadly solar storms](https://www.space.com/tiny-sun-could-predict-solar-flares)
-- [Good Lawd! Mass of lone &quot;dead star&quot; measured for the first time](https://www.space.com/hubble-space-telescope-white-dwarf-mass)
-- [Astronomers discover potential habitable exoplanet only 31 light-years from Earth](https://www.space.com/wolf-1069-b-exoplanet-habitable-earth-mass-discovery)
-- [India orders Vodafone Idea to convert government dues into $2 billion equity](https://techcrunch.com/2023/02/03/india-orders-vodafone-idea-to-convert-government-dues-into-2-billion-equity/)
+- [TechCrunch+ roundup: SaaS pricing strategies, 2022 open source report, can Vine regrow?](https://techcrunch.com/2023/02/03/techcrunch-roundup-saas-pricing-strategies-2022-open-source-report-can-vine-regrow/)
+- [Tesla, Ford and GM win in EV tax credit change](https://techcrunch.com/2023/02/03/tesla-ford-and-gm-win-in-ev-tax-credit-change/)
+- [AWS says growth dropped to mid-teens to start new year as customer cost cutting continues](https://techcrunch.com/2023/02/03/aws-says-growth-dropped-to-mid-teens-to-start-new-year-as-customer-cost-cutting-continues/)
+- [More job cuts loom as Sendy changes course in Nigeria](https://techcrunch.com/2023/02/03/more-job-cuts-loom-as-sendy-changes-course-in-nigeria/)
+- [GitHub CEO on why open source developers should be exempt from the EU’s AI Act](https://techcrunch.com/2023/02/03/github-ceo-on-why-open-source-developers-should-be-exempt-from-the-eus-ai-act/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
