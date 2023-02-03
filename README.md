@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tricky alien worlds easier to find when humans and machines team up](https://www.space.com/exoplanet-discovery-with-machine-learning-algorithm)
+- [Curiosity rover finds metallic meteorite on Mars](https://www.space.com/curiosity-rover-metallic-mars-meteorite-cacao)
+- [Google says YouTube Shorts has crossed 50 billion daily views](https://techcrunch.com/2023/02/03/google-says-youtube-shorts-has-crossed-50-billion-daily-views/)
 - [SunFi aims to be the fastest way for Nigerians to find, finance and manage solar](https://techcrunch.com/2023/02/03/sunfi-wants-to-become-the-fastest-way-for-nigerians-to-find-finance-install-and-manage-solar/)
 - [Twitter Blue expands to six new countries, brings back Spaces curation](https://techcrunch.com/2023/02/02/twitter-blue-expands-to-six-new-countries-brings-back-spaces-curation/)
-- [Damus pulled from Apple’s App Store in China after two days](https://techcrunch.com/2023/02/02/damus-pulled-from-apples-app-store-in-china-after-two-days/)
-- [Car-sharing SPAC Getaround lays off 10% of staff](https://techcrunch.com/2023/02/02/car-sharing-spac-getaround-lays-off-10-of-staff/)
-- [Apple stock drops on rare Q4 earnings miss](https://techcrunch.com/2023/02/02/apple-revenue-drops-amid-quarterly-hardware-decline/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
