@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Voyager Space raises $80M as it continues development on private space station, Starlab](https://techcrunch.com/2023/02/03/voyager-space-raises-80m-as-it-continues-development-on-private-space-station-starlab/)
+- [Twitter Circle glitches have users worried about privacy](https://techcrunch.com/2023/02/03/twitter-circle-glitches-have-users-worried-about-privacy/)
 - [Private Peregrine moon lander will now touch down near &#39;geologic enigma&#39;](https://www.space.com/peregrine-moon-lander-new-touchdown-site)
 - [Elon Musk says that Twitter will start sharing ad revenue with creators ‘today’](https://techcrunch.com/2023/02/03/elon-musk-creator-revenue-share-ads-twitter/)
 - [Google tries to reassure investors on AI progress as ChatGPT breathes down its neck](https://techcrunch.com/2023/02/03/google-best-yet-to-come-ai-journey-faces-potential-disruption-openai-chatgpt/)
-- [&#39;Vibration disturbance&#39; caused failure of new Indian rocket, ISRO says](https://www.space.com/india-sslv-rocket-failure-cause-identified)
-- [Jupiter now has the most moons in the solar system, beating Saturn thanks to 12 newfound satellites](https://www.space.com/jupiter-moon-discoveries-total-92)
 <!-- BLOG-POST-LIST:END -->
 
 ---
