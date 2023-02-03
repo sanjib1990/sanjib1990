@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Move over, Saturn: Jupiter is the solar system&#39;s new &#39;moon master&#39;](https://www.space.com/jupiter-moon-discoveries-total-92)
-- [Watch February&#39;s Full Snow Moon on Sunday &lpar;Feb. 5&rpar; with this free telescope webcast](https://www.space.com/full-snow-moon-feb-5-2023-webcast)
-- [Can 4 activist investors play nice in the Salesforce sandbox?](https://techcrunch.com/2023/02/03/can-4-activist-investors-play-nice-in-the-salesforce-sandbox/)
-- [Apple Pay gets the green light to launch its service in South Korea](https://techcrunch.com/2023/02/03/apply-pay-gets-the-green-light-to-launch-its-service-in-south-korea/)
-- [TechCrunch+ roundup: SaaS pricing strategies, 2022 open source report, can Vine regrow?](https://techcrunch.com/2023/02/03/techcrunch-roundup-saas-pricing-strategies-2022-open-source-report-can-vine-regrow/)
+- [Private Peregrine moon lander will now touch down near &#39;geologic enigma&#39;](https://www.space.com/peregrine-moon-lander-new-touchdown-site)
+- [Elon Musk says that Twitter will start sharing ad revenue with creators ‘today’](https://techcrunch.com/2023/02/03/elon-musk-creator-revenue-share-ads-twitter/)
+- [Google tries to reassure investors on AI progress as ChatGPT breathes down its neck](https://techcrunch.com/2023/02/03/google-best-yet-to-come-ai-journey-faces-potential-disruption-openai-chatgpt/)
+- [&#39;Vibration disturbance&#39; caused failure of new Indian rocket, ISRO says](https://www.space.com/india-sslv-rocket-failure-cause-identified)
+- [Jupiter now has the most moons in the solar system, beating Saturn thanks to 12 newfound satellites](https://www.space.com/jupiter-moon-discoveries-total-92)
 <!-- BLOG-POST-LIST:END -->
 
 ---
