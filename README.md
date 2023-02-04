@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Data hints at the value of startup offices](https://techcrunch.com/2023/02/04/data-hints-at-the-value-of-startup-offices/)
+- [Watch the green comet pass the bright star Capella on Sunday &lpar;Feb. 5&rpar;](https://www.space.com/green-comet-c2022-e3-ztf-capella-goat-star-feb-5-2023)
+- [Space Foundation to award US Postal Service for 75 years of space stamps](https://www.space.com/space-foundation-usps-stamps-morrow-award)
 - [Hubble Space Telescope captures chaotic globular cluster near Milky Way&#39;s core](https://www.space.com/hubble-space-telescope-globular-cluster-galactic-core)
 - [When the government is the customer &lpar;some things to keep in mind&rpar;](https://techcrunch.com/2023/02/03/when-the-government-is-the-customer/)
-- [Kapor Capital’s new crew is raising an opportunity fund](https://techcrunch.com/2023/02/03/kapor-capitals-new-crew-is-raising-an-opportunity-fund/)
-- [Plant-based Rebellyous is raising millions to ‘rethink the nugget’](https://techcrunch.com/2023/02/03/rebellyous-raising-millions-rethink-chicken-nugget/)
-- [Meta’s Reality Labs lost $13.7 billion on VR and AR last year](https://techcrunch.com/2023/02/03/metas-reality-labs-lost-13-7-billion-on-vr-and-ar-last-year/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
