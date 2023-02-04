@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Kapor Capital’s new crew is raising an opportunity fund](https://techcrunch.com/2023/02/03/kapor-capitals-new-crew-is-raising-an-opportunity-fund/)
+- [Plant-based Rebellyous is raising millions to ‘rethink the nugget’](https://techcrunch.com/2023/02/03/rebellyous-raising-millions-rethink-chicken-nugget/)
+- [Meta’s Reality Labs lost $13.7 billion on VR and AR last year](https://techcrunch.com/2023/02/03/metas-reality-labs-lost-13-7-billion-on-vr-and-ar-last-year/)
+- [Elon Musk, Tesla found not liable in ‘funding secured’ tweet lawsuit](https://techcrunch.com/2023/02/03/elon-musk-tesla-found-not-liable-in-funding-secured-tweet-lawsuit/)
 - [Daily Crunch: Apple says it earned $20.8B from 935M subscriptions last fiscal quarter](https://techcrunch.com/2023/02/03/daily-crunch-apple-says-it-earned-20-8b-from-935-million-subscriptions-last-fiscal-quarter/)
-- [YouTube Music contractors strike over alleged unfair labor practices](https://techcrunch.com/2023/02/03/youtube-music-contractors-strike-over-alleged-unfair-labor-practices/)
-- [SpaceX&#39;s 200th Falcon 9 rocket launch looks absolutely gorgeous in these photos](https://www.space.com/spacex-falcon-9-200th-launch-photos)
-- [Venture funding has started flooding back in at least one area: Secondaries](https://techcrunch.com/2023/02/03/venture-funding-has-started-flooding-back-in-at-least-one-area-secondaries/)
-- [Voyager Space raises $80M as it continues development on private space station, Starlab](https://techcrunch.com/2023/02/03/voyager-space-raises-80m-as-it-continues-development-on-private-space-station-starlab/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
