@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [When the government is the customer &lpar;some things to keep in mind&rpar;](https://techcrunch.com/2023/02/03/when-the-government-is-the-customer/)
 - [Kapor Capital’s new crew is raising an opportunity fund](https://techcrunch.com/2023/02/03/kapor-capitals-new-crew-is-raising-an-opportunity-fund/)
 - [Plant-based Rebellyous is raising millions to ‘rethink the nugget’](https://techcrunch.com/2023/02/03/rebellyous-raising-millions-rethink-chicken-nugget/)
 - [Meta’s Reality Labs lost $13.7 billion on VR and AR last year](https://techcrunch.com/2023/02/03/metas-reality-labs-lost-13-7-billion-on-vr-and-ar-last-year/)
 - [Elon Musk, Tesla found not liable in ‘funding secured’ tweet lawsuit](https://techcrunch.com/2023/02/03/elon-musk-tesla-found-not-liable-in-funding-secured-tweet-lawsuit/)
-- [Daily Crunch: Apple says it earned $20.8B from 935M subscriptions last fiscal quarter](https://techcrunch.com/2023/02/03/daily-crunch-apple-says-it-earned-20-8b-from-935-million-subscriptions-last-fiscal-quarter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
