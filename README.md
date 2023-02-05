@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How astronaut diversity changed for the better in a single NASA class](https://www.space.com/the-new-guys-book-astronaut-diversity)
+- [US military shoots down Chinese surveillance balloon](https://www.space.com/chinese-spy-balloon-destroyed-f-22-jet)
+- [Watch SpaceX launch big communications satellite on Sunday](https://www.space.com/spacex-launch-hispasat-communications-satellite)
+- [India is blocking over 230 betting and loan apps, many with ties to China](https://techcrunch.com/2023/02/05/india-is-blocking-over-230-betting-and-loan-apps-many-with-ties-to-china/)
 - [Elon Musk says Twitter will provide a free write-only API to bots providing ‘good’ content](https://techcrunch.com/2023/02/04/elon-musk-says-twitter-will-provide-a-free-write-only-api-to-bots-providing-good-content/)
-- [This Week in Apps: Instagram’s founders’ new app, another Twitter rival, Biden admin criticizes app stores](https://techcrunch.com/2023/02/04/this-week-in-apps-instagrams-founders-new-app-another-twitter-rival-biden-admin-criticizes-app-stores/)
-- [Dear founders, returning to the office is a numbers game](https://techcrunch.com/2023/02/04/2023-is-the-year-of-the-bottom-line/)
-- [Netflix crackdown, monetizing ChatGPT and bypassing FB’s 2FA](https://techcrunch.com/2023/02/04/netflix-crackdown-monetizing-chatgpt-and-bypassing-fbs-2fa/)
-- [Does usage-based pricing call for a new growth infrastructure stack?](https://techcrunch.com/2023/02/04/does-usage-based-pricing-call-for-a-new-growth-infrastructure-stack/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
