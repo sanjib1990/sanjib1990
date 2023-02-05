@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bright blue stars crawl among Tarantula Nebula clouds in Hubble telescope photo](https://www.space.com/hubble-space-telescope-tarantula-nebula-young-stars)
 - [Doomsday clock advances to 90 seconds to midnight — the closest to apocalypse it&#39;s ever been](https://www.space.com/doomsday-clock-moves-90-seconds-to-midnight)
 - [Strange unprecedented vortex spotted around the sun&#39;s north pole](https://www.space.com/vortex-sun-poles)
 - [Startups, here’s how you can make hardware without ruining the planet](https://techcrunch.com/2023/02/05/sustainable-hardware-startups/)
 - [SpaceX Crew-6 astronauts gear up for Feb. 26 launch to space station](https://www.space.com/nasa-artemis-1-international-space-station-crew-6-moon-research)
-- [The Full Snow Moon of 2023: Smallest &#39;micromoon&#39; of the year rises tonight](https://www.space.com/full-snow-moon-rises-tonight-feb-5-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
