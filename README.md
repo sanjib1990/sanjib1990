@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Full Snow Moon of 2023: Smallest &#39;micromoon&#39; of the year rises tonight](https://www.space.com/full-snow-moon-rises-tonight-feb-5-2023)
 - [How astronaut diversity changed for the better in a single NASA class](https://www.space.com/the-new-guys-book-astronaut-diversity)
 - [US military shoots down Chinese surveillance balloon](https://www.space.com/chinese-spy-balloon-destroyed-f-22-jet)
 - [Watch SpaceX launch big communications satellite on Sunday](https://www.space.com/spacex-launch-hispasat-communications-satellite)
 - [India is blocking over 230 betting and loan apps, many with ties to China](https://techcrunch.com/2023/02/05/india-is-blocking-over-230-betting-and-loan-apps-many-with-ties-to-china/)
-- [Elon Musk says Twitter will provide a free write-only API to bots providing ‘good’ content](https://techcrunch.com/2023/02/04/elon-musk-says-twitter-will-provide-a-free-write-only-api-to-bots-providing-good-content/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
