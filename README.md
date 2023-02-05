@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Strange unprecedented vortex spotted around the sun&#39;s north pole](https://www.space.com/vortex-sun-poles)
+- [Startups, here’s how you can make hardware without ruining the planet](https://techcrunch.com/2023/02/05/sustainable-hardware-startups/)
 - [SpaceX Crew-6 astronauts gear up for Feb. 26 launch to space station](https://www.space.com/nasa-artemis-1-international-space-station-crew-6-moon-research)
 - [The Full Snow Moon of 2023: Smallest &#39;micromoon&#39; of the year rises tonight](https://www.space.com/full-snow-moon-rises-tonight-feb-5-2023)
-- [How astronaut diversity changed for the better in a single NASA class](https://www.space.com/the-new-guys-book-astronaut-diversity)
-- [US military shoots down Chinese surveillance balloon](https://www.space.com/chinese-spy-balloon-destroyed-f-22-jet)
-- [Watch SpaceX launch big communications satellite on Sunday](https://www.space.com/spacex-launch-hispasat-communications-satellite)
+- [How astronaut diversity changed for the better in a single NASA class recounted in &#39;The New Guys&#39; book](https://www.space.com/the-new-guys-book-astronaut-diversity)
 <!-- BLOG-POST-LIST:END -->
 
 ---
