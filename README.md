@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What do investors need from your problem slide?](https://techcrunch.com/2023/02/06/problem-slide/)
+- [EV SPAC Canoo agrees to sell $52M in stock to stay alive](https://techcrunch.com/2023/02/06/ev-spac-canoo-agrees-to-sell-52m-in-stock-to-stay-alive/)
+- [Neko, Daniel Ek’s next play, is another spin on preventative healthcare](https://techcrunch.com/2023/02/06/neko-health/)
 - [Zenly co-founder returns with new social app company, Amo](https://techcrunch.com/2023/02/06/zenly-co-founder-returns-with-new-social-app-company-amo/)
 - [Practice your startup pitch on TechCrunch Live with Mayfield and Cube](https://techcrunch.com/2023/02/06/practice-your-startup-pitch-on-techcrunch-live-with-mayfield-and-cube/)
-- [India blocks Kissht and PayU’s LazyPay in fresh crackdown](https://techcrunch.com/2023/02/06/india-blocks-kissht-and-payu-lazypay/)
-- [Simple HealthKit is taking on health equity with at-home diagnostics, treatment](https://techcrunch.com/2023/02/06/simple-healthkit-at-home-diagnostics-health/)
-- [Code-generating platform Magic challenges GitHub’s Copilot with $23M in VC backing](https://techcrunch.com/2023/02/06/magic-dev-code-generating-startup-raises-23m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
