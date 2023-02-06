@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [Senator Mark Kelly, Roy Bridges to enter Astronaut Hall of Fame](https://www.space.com/astronaut-hall-of-fame-2023-bridges-kelly)
-- [God killers target Sisko and Worf in IDW&#39;s  &#39;Star Trek: Day of Blood&#39; story arc](https://www.space.com/news/god-killers-target-sisko-and-worf-in-idws-star-trek-day-of-blood-story-arc)
+- [God killers target Sisko and Worf in IDW&#39;s  &#39;Star Trek: Day of Blood&#39; story arc](https://www.space.com/star-trek-day-of-blood-crossover-comic-worf-sisko)
 - [Only filmed interview with Georges Lemaître, &#39;father of the Big Bang,&#39; rediscovered after 60 years](https://www.space.com/lost-georges-lemaitre-big-bang-interview-recovered)
 - [Watch the &#39;Ant-Man and the Wasp: Quantumania&#39; world premiere red carpet event live online tonight!](https://www.space.com/ant-man-wasp-marvel-red-carpet-premiere-livestream)
-- [FTX wants politicians and PACs to return their donations](https://techcrunch.com/2023/02/06/ftx-wants-politicians-and-pacs-to-return-their-donations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
