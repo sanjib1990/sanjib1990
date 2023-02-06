@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Nex Cubed launched $40 million fund targeting Black colleges and universities](https://techcrunch.com/2023/02/06/nex-cubed-launched-40-million-fund-targeting-black-colleges-and-universities/)
-- [To improve close rates for technical interviews, give applicants feedback &lpar;good or bad&rpar;](https://techcrunch.com/2023/02/06/to-improve-close-rates-for-technical-interviews-give-applicants-feedback-good-or-bad/)
-- [Do we live in a rotating universe? If we did, we could travel back in time](https://www.space.com/rotating-universe-would-permit-time-travel)
-- [Breef raises $16M to match brands with marketing agencies](https://techcrunch.com/2023/02/06/breef-raises-16m-to-match-brands-with-marketing-agencies/)
-- [Choosing a cloud infrastructure provider: A beginner’s guide](https://techcrunch.com/2023/02/06/choosing-a-cloud-infrastructure-provider-a-beginners-guide/)
+- [Simple HealthKit is taking on health equity with at-home diagnostics, treatment](https://techcrunch.com/2023/02/06/simple-healthkit-at-home-diagnostics-health/)
+- [Code-generating platform Magic challenges GitHub’s Copilot with $23M in VC backing](https://techcrunch.com/2023/02/06/magic-dev-code-generating-startup-raises-23m/)
+- [Hackers exploiting two-year-old VMware flaw to launch large-scale ransomware campaign](https://techcrunch.com/2023/02/06/hackers-vmware-esxi-ransomware/)
+- [More tech job market misery as Dell lays off 5% of worldwide workforce](https://techcrunch.com/2023/02/06/more-tech-job-market-misery-as-dell-lays-off-5-of-worldwide-workforce/)
+- [Labor marketplace ShiftMed secures $200M to solve nursing shortage](https://techcrunch.com/2023/02/06/shiftmed-nursing-shortage-200-million/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
