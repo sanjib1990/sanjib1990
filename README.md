@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [What do investors need from your problem slide?](https://techcrunch.com/2023/02/06/problem-slide/)
-- [EV SPAC Canoo agrees to sell $52M in stock to stay alive](https://techcrunch.com/2023/02/06/ev-spac-canoo-agrees-to-sell-52m-in-stock-to-stay-alive/)
-- [Neko, Daniel Ek’s next play, is another spin on preventative healthcare](https://techcrunch.com/2023/02/06/neko-health/)
-- [Zenly co-founder returns with new social app company, Amo](https://techcrunch.com/2023/02/06/zenly-co-founder-returns-with-new-social-app-company-amo/)
-- [Practice your startup pitch on TechCrunch Live with Mayfield and Cube](https://techcrunch.com/2023/02/06/practice-your-startup-pitch-on-techcrunch-live-with-mayfield-and-cube/)
+- [Senator Mark Kelly, Roy Bridges to enter Astronaut Hall of Fame](https://www.space.com/astronaut-hall-of-fame-2023-bridges-kelly)
+- [God killers target Sisko and Worf in IDW&#39;s  &#39;Star Trek: Day of Blood&#39; story arc](https://www.space.com/news/god-killers-target-sisko-and-worf-in-idws-star-trek-day-of-blood-story-arc)
+- [Only filmed interview with Georges Lemaître, &#39;father of the Big Bang,&#39; rediscovered after 60 years](https://www.space.com/lost-georges-lemaitre-big-bang-interview-recovered)
+- [Watch the &#39;Ant-Man and the Wasp: Quantumania&#39; world premiere red carpet event live online tonight!](https://www.space.com/ant-man-wasp-marvel-red-carpet-premiere-livestream)
+- [FTX wants politicians and PACs to return their donations](https://techcrunch.com/2023/02/06/ftx-wants-politicians-and-pacs-to-return-their-donations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
