@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Do we live in a rotating universe? If we did, we could travel back in time](https://www.space.com/rotating-universe-would-permit-time-travel)
+- [Breef raises $16M to match brands with marketing agencies](https://techcrunch.com/2023/02/06/breef-raises-16m-to-match-brands-with-marketing-agencies/)
 - [Choosing a cloud infrastructure provider: A beginner’s guide](https://techcrunch.com/2023/02/06/choosing-a-cloud-infrastructure-provider-a-beginners-guide/)
 - [Meta fails in bid to be removed as a party from an exploitation lawsuit against it and moderation partner Sama in Kenya](https://techcrunch.com/2023/02/06/meta-fails-in-bid-to-be-removed-as-a-party-from-an-exploitation-lawsuit-against-it-and-moderation-partner-sama-in-kenya/)
 - [SpaceX eyeing March for 1st Starship orbital flight, Elon Musk says](https://www.space.com/spacex-first-starship-orbital-launch-march-elon-musk)
-- [Astronomers poised to hunt new kind of gravitational wave](https://www.space.com/continuous-gravitational-wave-constraints-established)
-- [Post Series-B, anti-fraud platform SEON acquires AML startup Complytron for a rumoured €2.5M](https://techcrunch.com/2023/02/05/post-series-b-anti-fraud-platform-seon-acquires-aml-startup-complytron-for-a-rumoured-e2-5m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
