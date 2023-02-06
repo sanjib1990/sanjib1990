@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [ShareWell wants to scale mental health support with its 10,000 support groups](https://techcrunch.com/2023/02/06/sharewell-pre-seed/)
-- [AI-generated ‘Seinfeld’ suspended on Twitch for AI-generated transphobic jokes](https://techcrunch.com/2023/02/06/ai-generated-seinfeld-suspended-on-twitch-for-ai-generated-transphobic-jokes/)
-- [Scientists created a weird new type of ice that is almost exactly as dense as water](https://www.space.com/new-medium-density-amorphous-ice)
-- [SpaceX&#39;s 1st Falcon Heavy rocket launched Elon Musk&#39;s Tesla into space 5 years ago](https://www.space.com/spacex-falcon-heavy-first-launch-fifth-anniversary)
-- [Full Snow Moon, the smallest &#39;micromoon&#39; of 2023, dazzles winter stargazers](https://www.space.com/full-snow-moon-february-2023-pictures)
+- [‘Black Panther: Wakanda Forever’ becomes the most-watched Marvel premiere on Disney+](https://techcrunch.com/2023/02/06/black-panther-wakanda-forever-becomes-the-most-watched-marvel-premiere-on-disney/)
+- [FRIDA’s robot arm attempts to bring DALL-E-style AI art to real-world canvases](https://techcrunch.com/2023/02/06/fridas-robot-arm-attempts-to-bring-dall-e-style-ai-art-to-real-world-canvases/)
+- [Daily Crunch: Bitcoin-demanding cybercriminals use bug from 2021 to initiate global ransomware attack](https://techcrunch.com/2023/02/06/daily-crunch-bitcoin-demanding-cybercriminals-use-bug-from-2021-to-initiate-global-ransomware-attack/)
+- [Max Q: Space raise](https://techcrunch.com/2023/02/06/max-q-space-raise/)
+- [EV maker VinFast downsizes in US, Canada](https://techcrunch.com/2023/02/06/ev-maker-vinfast-downsizes-in-us-canada/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
