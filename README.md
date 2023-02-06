@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ShareWell wants to scale mental health support with its 10,000 support groups](https://techcrunch.com/2023/02/06/sharewell-pre-seed/)
+- [AI-generated ‘Seinfeld’ suspended on Twitch for AI-generated transphobic jokes](https://techcrunch.com/2023/02/06/ai-generated-seinfeld-suspended-on-twitch-for-ai-generated-transphobic-jokes/)
+- [Scientists created a weird new type of ice that is almost exactly as dense as water](https://www.space.com/new-medium-density-amorphous-ice)
 - [SpaceX&#39;s 1st Falcon Heavy rocket launched Elon Musk&#39;s Tesla into space 5 years ago](https://www.space.com/spacex-falcon-heavy-first-launch-fifth-anniversary)
 - [Full Snow Moon, the smallest &#39;micromoon&#39; of 2023, dazzles winter stargazers](https://www.space.com/full-snow-moon-february-2023-pictures)
-- [Turkey earthquake prompts United Nations to activate emergency satellite mapping](https://www.space.com/turkey-earthquake-united-nations-emergency-mapping-satellite)
-- [Even as cloud infrastructure market growth slows, Microsoft continues to gain on Amazon](https://techcrunch.com/2023/02/06/even-as-cloud-infrastructure-market-growth-slows-microsoft-continues-to-gain-on-amazon/)
-- [Wikipedia unblocked in Pakistan after Prime Minister’s intervention](https://techcrunch.com/2023/02/06/wikipedia-pakistan/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
