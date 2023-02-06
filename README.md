@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Zenly co-founder returns with new social app company, Amo](https://techcrunch.com/2023/02/06/zenly-co-founder-returns-with-new-social-app-company-amo/)
+- [Practice your startup pitch on TechCrunch Live with Mayfield and Cube](https://techcrunch.com/2023/02/06/practice-your-startup-pitch-on-techcrunch-live-with-mayfield-and-cube/)
+- [India blocks Kissht and PayU’s LazyPay in fresh crackdown](https://techcrunch.com/2023/02/06/india-blocks-kissht-and-payu-lazypay/)
 - [Simple HealthKit is taking on health equity with at-home diagnostics, treatment](https://techcrunch.com/2023/02/06/simple-healthkit-at-home-diagnostics-health/)
 - [Code-generating platform Magic challenges GitHub’s Copilot with $23M in VC backing](https://techcrunch.com/2023/02/06/magic-dev-code-generating-startup-raises-23m/)
-- [Hackers exploiting two-year-old VMware flaw to launch large-scale ransomware campaign](https://techcrunch.com/2023/02/06/hackers-vmware-esxi-ransomware/)
-- [More tech job market misery as Dell lays off 5% of worldwide workforce](https://techcrunch.com/2023/02/06/more-tech-job-market-misery-as-dell-lays-off-5-of-worldwide-workforce/)
-- [Labor marketplace ShiftMed secures $200M to solve nursing shortage](https://techcrunch.com/2023/02/06/shiftmed-nursing-shortage-200-million/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
