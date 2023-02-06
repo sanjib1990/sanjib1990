@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nex Cubed launched $40 million fund targeting Black colleges and universities](https://techcrunch.com/2023/02/06/nex-cubed-launched-40-million-fund-targeting-black-colleges-and-universities/)
+- [To improve close rates for technical interviews, give applicants feedback &lpar;good or bad&rpar;](https://techcrunch.com/2023/02/06/to-improve-close-rates-for-technical-interviews-give-applicants-feedback-good-or-bad/)
 - [Do we live in a rotating universe? If we did, we could travel back in time](https://www.space.com/rotating-universe-would-permit-time-travel)
 - [Breef raises $16M to match brands with marketing agencies](https://techcrunch.com/2023/02/06/breef-raises-16m-to-match-brands-with-marketing-agencies/)
 - [Choosing a cloud infrastructure provider: A beginner’s guide](https://techcrunch.com/2023/02/06/choosing-a-cloud-infrastructure-provider-a-beginners-guide/)
-- [Meta fails in bid to be removed as a party from an exploitation lawsuit against it and moderation partner Sama in Kenya](https://techcrunch.com/2023/02/06/meta-fails-in-bid-to-be-removed-as-a-party-from-an-exploitation-lawsuit-against-it-and-moderation-partner-sama-in-kenya/)
-- [SpaceX eyeing March for 1st Starship orbital flight, Elon Musk says](https://www.space.com/spacex-first-starship-orbital-launch-march-elon-musk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
