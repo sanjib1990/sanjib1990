@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Edtech reacquaints itself with fintech](https://techcrunch.com/2023/02/07/edtech-reacquaints-itself-with-fintech/)
-- [Moonhub wants to transform the way companies find job candidates using AI](https://techcrunch.com/2023/02/07/moonhub-wants-to-transform-the-way-companies-find-job-candidates-using-ai/)
-- [Save up to $280 with Anycubic&#39;s Valentine&#39;s Day 3D printer deals](https://www.space.com/anycubic-3d-printer-valentines-day-deals-2023)
-- [Jobber fixes on $100M as its platform for home services pros hits 200K users](https://techcrunch.com/2023/02/07/jobber-fixes-on-100m-as-its-platform-for-home-services-pros-hits-200k-users/)
-- [New social investment platform Follow taps influencers to mirror their investment strategies](https://techcrunch.com/2023/02/07/social-investing-follow-influencers-fintech/)
+- [NASA reaches &#39;full utilization&#39; of the International Space Station: report](https://www.space.com/nasa-international-space-station-full-capacity)
+- [A new Linux variant of Clop ransomware has major flaws, researchers say](https://techcrunch.com/2023/02/07/clop-ransomware-linux-flaw/)
+- [OnePlus teases tablet, mechanical keyboard](https://techcrunch.com/2023/02/07/oneplus-teases-tablet-mechanical-keyboard/)
+- [Mercedes-Benz is bringing its new, all-electric eSprinter van to North America this year](https://techcrunch.com/2023/02/07/mercedes-benz-esprinter-coming-to-north-america-2023/)
+- [OnePlus launches Buds Pro 2 with improved sound and noise cancelation at $179](https://techcrunch.com/2023/02/07/oneplus-launches-buds-pro-2-with-improved-sound-and-noise-cancelation-at-179/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
