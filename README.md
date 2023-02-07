@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Frond is a witty cross between Discord and Facebook groups](https://techcrunch.com/2023/02/07/frond-combines-the-best-of-discord-and-facebook-groups/)
-- [Ushur, which aims to automate aspects of the customer experience, raises $50M](https://techcrunch.com/2023/02/07/ushur-which-aims-to-automate-aspects-of-the-customer-experience-raises-50m/)
-- [How fallen space junk could aid the fight against orbital debris](https://www.space.com/fallen-space-junk-help-fight-orbital-debris)
-- [Cybersecurity teams, beware: The defender’s dilemma is a lie](https://techcrunch.com/2023/02/07/cybersecurity-teams-beware-the-defenders-dilemma-is-a-lie/)
-- [LockBit ransomware group threatens to publish stolen Royal Mail data](https://techcrunch.com/2023/02/07/lockbit-ransomware-royal-mail/)
+- [Jobber fixes on $100M as its platform for home services pros hits 200K users](https://techcrunch.com/2023/02/07/jobber-fixes-on-100m-as-its-platform-for-home-services-pros-hits-200k-users/)
+- [New social investment platform Follow taps influencers to mirror their investment strategies](https://techcrunch.com/2023/02/07/social-investing-follow-influencers-fintech/)
+- [Google will soon blur explicit imagery in Search results by default](https://techcrunch.com/2023/02/07/google-will-soon-blur-explicit-imagery-in-search-results-by-default/)
+- [Flox raises $27M to bring Nix to more developers](https://techcrunch.com/2023/02/07/flox-raises-27m-to-bring-nix-to-more-developers/)
+- [Moderne is building automated code remediation for complex code bases](https://techcrunch.com/2023/02/07/moderne-is-bringing-automated-code-remediation-across-complex-code-bases/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
