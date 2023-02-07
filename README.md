@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [WhatsApp lets users put voice notes as status updates](https://techcrunch.com/2023/02/07/whatsapp-voice-status-updates/)
-- [Save a stellar 47% on the Celestron AstroMaster 70 AZ telescope](https://www.space.com/celestron-astromaster-70az-deal-save-47-percent)
-- [Sequoia reveals in filing how much is sitting in its Sequoia Capital Fund &lpar;and yes, it’s a lot&rpar;](https://techcrunch.com/2023/02/06/sequoia-reveals-in-filing-how-much-is-sitting-in-its-sequoia-capital-fund-and-yes-its-a-lot/)
-- [SoftBank loses nearly $6 billion in a quarter as downturn continues](https://techcrunch.com/2023/02/06/softbank-loses-nearly-6-billion-in-a-quarter-as-downturn-continues/)
-- [Dotfile is a one-stop identity verification API for compliance purposes](https://techcrunch.com/2023/02/06/dotfile-is-a-one-stop-identity-verification-api-for-compliance-purposes/)
+- [Pinterest reaches 450 million monthly users, will focus on making videos ‘shoppable’](https://techcrunch.com/2023/02/07/pinterest-reaches-450-million-monthly-users-will-focus-on-making-videos-shoppable/)
+- [The James Webb Space Telescope just found an asteroid by total accident, its smallest object yet](https://www.space.com/james-webb-space-telescope-asteroid-accident-smallest-object)
+- [Drone imagery firm DroneBase rebrands to Zeitview, lands $55M investment](https://techcrunch.com/2023/02/07/drone-imagery-firm-dronebase-rebrands-to-zeitview-lands-55m-investment/)
+- [Partech hits first close of largest Africa-focused fund, at €245M](https://techcrunch.com/2023/02/07/partech-hits-first-close-of-largest-africa-focused-fund-at-e245m/)
+- [Blue stragglers are the weird grandparents of the galaxy](https://www.space.com/blue-straggler-stars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
