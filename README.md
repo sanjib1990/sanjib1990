@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA reaches &#39;full utilization&#39; of the International Space Station: report](https://www.space.com/nasa-international-space-station-full-capacity)
-- [A new Linux variant of Clop ransomware has major flaws, researchers say](https://techcrunch.com/2023/02/07/clop-ransomware-linux-flaw/)
-- [OnePlus teases tablet, mechanical keyboard](https://techcrunch.com/2023/02/07/oneplus-teases-tablet-mechanical-keyboard/)
-- [Mercedes-Benz is bringing its new, all-electric eSprinter van to North America this year](https://techcrunch.com/2023/02/07/mercedes-benz-esprinter-coming-to-north-america-2023/)
-- [OnePlus launches Buds Pro 2 with improved sound and noise cancelation at $179](https://techcrunch.com/2023/02/07/oneplus-launches-buds-pro-2-with-improved-sound-and-noise-cancelation-at-179/)
+- [$500M in, GV gears up for more deals in Europe with a new partner in London, Luna Dai Schmid](https://techcrunch.com/2023/02/07/500m-in-gv-gears-up-for-more-deals-in-europe-with-a-new-partner-in-london-luna-dai-schmid/)
+- [Go behind the scenes of &#39;The Mandalorian&#39; Season 3 with new Disney featurette](https://www.space.com/mandalorian-season-3-featurette)
+- [Facebook rolls out new comment moderation tools for creators](https://techcrunch.com/2023/02/07/facebook-rolls-out-new-comment-moderation-tools-for-creators/)
+- [Riot prepares your team against highly sophisticated cyberattacks](https://techcrunch.com/2023/02/07/riot-prepares-your-team-against-highly-sophisticated-cyberattacks/)
+- [TikTok is crushing YouTube in annual study of kids’ and teens’ app usage](https://techcrunch.com/2023/02/07/tiktok-is-crushing-youtube-in-annual-study-of-kids-and-teens-app-usage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
