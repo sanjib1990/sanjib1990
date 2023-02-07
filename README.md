@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [WhatsApp lets users put voice notes as status updates](https://techcrunch.com/2023/02/07/whatsapp-voice-status-updates/)
+- [Save a stellar 47% on the Celestron AstroMaster 70 AZ telescope](https://www.space.com/celestron-astromaster-70az-deal-save-47-percent)
 - [Sequoia reveals in filing how much is sitting in its Sequoia Capital Fund &lpar;and yes, it’s a lot&rpar;](https://techcrunch.com/2023/02/06/sequoia-reveals-in-filing-how-much-is-sitting-in-its-sequoia-capital-fund-and-yes-its-a-lot/)
 - [SoftBank loses nearly $6 billion in a quarter as downturn continues](https://techcrunch.com/2023/02/06/softbank-loses-nearly-6-billion-in-a-quarter-as-downturn-continues/)
 - [Dotfile is a one-stop identity verification API for compliance purposes](https://techcrunch.com/2023/02/06/dotfile-is-a-one-stop-identity-verification-api-for-compliance-purposes/)
-- [PhonePe taps cross-border UPI payments in revenue push](https://techcrunch.com/2023/02/06/phonepe-taps-cross-border-upi-payments-in-revenue-push/)
-- [Twitter will stop forcing its algorithmic timeline on iOS and Android](https://techcrunch.com/2023/02/06/twitter-will-stop-forcing-its-algorithmic-timeline-on-ios-and-android/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
