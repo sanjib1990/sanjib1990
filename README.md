@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX launch and more &#39;photobombed&#39; by February&#39;s Full Snow Moon &lpar;photos&rpar;](https://www.space.com/spacex-launch-full-snow-moon-photobomb)
+- [Biden to address children’s online safety at State of the Union](https://techcrunch.com/2023/02/07/biden-to-address-childrens-online-safety-at-state-of-the-union/)
 - [Accutron and Bulova debut new Astronaut and Lunar Pilot timepieces](https://www.space.com/accutron-astronaut-bulova-lunar-pilot-watches)
 - [Google winds down feature that put playable podcasts directly in search results](https://techcrunch.com/2023/02/07/google-winds-down-feature-that-put-playable-podcasts-directly-in-search-results/)
 - [Previous Chinese spy balloons over US were classified as UFOs: report](https://www.space.com/chinese-spy-balloons-classified-ufos-us-military)
-- [Intuitive Machines now targeting moon&#39;s south pole for delayed lunar landing mission](https://www.space.com/intuitive-machines-moon-south-pole-mission-delay)
-- [OpenAI’s ‘next-generation’ AI model is behind Microsoft’s new search](https://techcrunch.com/2023/02/07/openais-next-generation-ai-model-is-behind-microsofts-new-search/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
