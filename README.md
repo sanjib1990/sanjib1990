@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sequoia reveals in filing how much is sitting in its Sequoia Capital Fund &lpar;and yes, it’s a lot&rpar;](https://techcrunch.com/2023/02/06/sequoia-reveals-in-filing-how-much-is-sitting-in-its-sequoia-capital-fund-and-yes-its-a-lot/)
+- [SoftBank loses nearly $6 billion in a quarter as downturn continues](https://techcrunch.com/2023/02/06/softbank-loses-nearly-6-billion-in-a-quarter-as-downturn-continues/)
 - [Dotfile is a one-stop identity verification API for compliance purposes](https://techcrunch.com/2023/02/06/dotfile-is-a-one-stop-identity-verification-api-for-compliance-purposes/)
 - [PhonePe taps cross-border UPI payments in revenue push](https://techcrunch.com/2023/02/06/phonepe-taps-cross-border-upi-payments-in-revenue-push/)
 - [Twitter will stop forcing its algorithmic timeline on iOS and Android](https://techcrunch.com/2023/02/06/twitter-will-stop-forcing-its-algorithmic-timeline-on-ios-and-android/)
-- [Tinder rolls out new safety features, including an Incognito Mode](https://techcrunch.com/2023/02/06/tinder-rolls-out-new-safety-features-including-an-incognito-mode/)
-- [Gameball raises $3.5M to scale its CRM platform for consumer brands](https://techcrunch.com/2023/02/06/gameball-raises-3-5m-to-scale-its-crm-platform-for-consumer-brands/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
