@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Accutron and Bulova debut new Astronaut and Lunar Pilot timepieces](https://www.space.com/accutron-astronaut-bulova-lunar-pilot-watches)
+- [Google winds down feature that put playable podcasts directly in search results](https://techcrunch.com/2023/02/07/google-winds-down-feature-that-put-playable-podcasts-directly-in-search-results/)
+- [Previous Chinese spy balloons over US were classified as UFOs: report](https://www.space.com/chinese-spy-balloons-classified-ufos-us-military)
 - [Intuitive Machines now targeting moon&#39;s south pole for delayed lunar landing mission](https://www.space.com/intuitive-machines-moon-south-pole-mission-delay)
 - [OpenAI’s ‘next-generation’ AI model is behind Microsoft’s new search](https://techcrunch.com/2023/02/07/openais-next-generation-ai-model-is-behind-microsofts-new-search/)
-- [Disrupting beauty’s last frontier with Keta Burke-Williams from Ourside](https://techcrunch.com/2023/02/07/disrupting-beautys-last-frontier-with-keta-burke-williams-from-ourside/)
-- [FTX’s attempts to claw back political donations may target largest recipients, experts say](https://techcrunch.com/2023/02/07/ftxs-attempts-to-claw-back-political-donations-may-target-largest-recipients-experts-say/)
-- [Zoom layoffs impact 15% of staff](https://techcrunch.com/2023/02/07/zoom-layoffs-impact-15-of-staff/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
