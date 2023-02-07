@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TechCrunch+ roundup: Generative AI for proptech, cloud vendor shopping, cybersecurity fairy tales](https://techcrunch.com/2023/02/07/techcrunch-roundup-generative-ai-for-proptech-cloud-vendor-shopping-cybersecurity-fairy-tales/)
-- [Last Boeing 747 rolls out of the factory: How the &#39;queen of the skies&#39; reigned over air travel](https://www.space.com/last-boeing-747-rolls-out-of-the-factory-how-the-queen-of-the-skies-reigned-over-air-travel)
-- [Pipe has a new CEO from Block, months after founding team announces departure](https://techcrunch.com/2023/02/07/pipe-new-ceo-fintech/)
-- [Save $200 on the Samyang AF f/2.8 14mm lens: A great wide-angle lens](https://www.space.com/samyang-camera-lens-deal-save-200-dollars-february)
-- [VC Mark Crane explains how to raise funding beyond Silicon Valley](https://techcrunch.com/2023/02/07/vc-mark-crane-raising-funds-outside-silicon-valley-techrunch-early-stage/)
+- [Microsoft updates its Edge web browser with built-in A.I. capabilities](https://techcrunch.com/2023/02/07/microsoft-updates-its-edge-web-browser-with-built-in-a-i-capabilities/)
+- [&#39;Failed star&#39; brown dwarf imaged in nearby star cluster &lpar;photos&rpar;](https://www.space.com/brown-dwarf-photos-hyades-cluster)
+- [‘Tracers in the Dark’ shows how cops go after crypto-criminals](https://techcrunch.com/2023/02/07/andy-greenberg-tracers-in-the-dark-book-review/)
+- [Microsoft launches the new Bing, with ChatGPT built in](https://techcrunch.com/2023/02/07/microsoft-launches-the-new-bing-with-chatgpt-built-in/)
+- [Stack it up! ULA assembles 1st Vulcan Centaur rocket ahead of debut launch &lpar;photos&rpar;](https://www.space.com/united-launch-alliance-stacks-vulcan-centaur-rocket-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
