@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple execs on M2 chips, winning gamers and when to buy a Mac](https://techcrunch.com/2023/02/06/apple-execs-on-m2-chips-winning-gamers-and-when-to-buy-a-mac/)
 - [‘Black Panther: Wakanda Forever’ becomes the most-watched Marvel premiere on Disney+](https://techcrunch.com/2023/02/06/black-panther-wakanda-forever-becomes-the-most-watched-marvel-premiere-on-disney/)
 - [FRIDA’s robot arm attempts to bring DALL-E-style AI art to real-world canvases](https://techcrunch.com/2023/02/06/fridas-robot-arm-attempts-to-bring-dall-e-style-ai-art-to-real-world-canvases/)
 - [Daily Crunch: Bitcoin-demanding cybercriminals use bug from 2021 to initiate global ransomware attack](https://techcrunch.com/2023/02/06/daily-crunch-bitcoin-demanding-cybercriminals-use-bug-from-2021-to-initiate-global-ransomware-attack/)
 - [Max Q: Space raise](https://techcrunch.com/2023/02/06/max-q-space-raise/)
-- [EV maker VinFast downsizes in US, Canada](https://techcrunch.com/2023/02/06/ev-maker-vinfast-downsizes-in-us-canada/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
