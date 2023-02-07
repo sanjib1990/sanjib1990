@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Laser-focused on creativity, Glowforge adds AI image generation](https://techcrunch.com/2023/02/07/glowforge-ai/)
-- [Generative AI is building the foundation of proptech’s next wave](https://techcrunch.com/2023/02/07/generative-ai-is-building-the-foundation-of-proptechs-next-wave/)
-- [Lego Star Wars Boba Fett&#39;s Starship review](https://www.space.com/lego-star-wars-boba-fetts-starship-review-75312)
-- [China’s globalizing startups could be a boon to US cloud giants](https://techcrunch.com/2023/02/07/chinas-globalizing-startups-could-be-a-boon-to-us-cloud-giants/)
-- [Pinterest reaches 450 million monthly users, will focus on making videos ‘shoppable’](https://techcrunch.com/2023/02/07/pinterest-reaches-450-million-monthly-users-will-focus-on-making-videos-shoppable/)
+- [Frond is a witty cross between Discord and Facebook groups](https://techcrunch.com/2023/02/07/frond-combines-the-best-of-discord-and-facebook-groups/)
+- [Ushur, which aims to automate aspects of the customer experience, raises $50M](https://techcrunch.com/2023/02/07/ushur-which-aims-to-automate-aspects-of-the-customer-experience-raises-50m/)
+- [How fallen space junk could aid the fight against orbital debris](https://www.space.com/fallen-space-junk-help-fight-orbital-debris)
+- [Cybersecurity teams, beware: The defender’s dilemma is a lie](https://techcrunch.com/2023/02/07/cybersecurity-teams-beware-the-defenders-dilemma-is-a-lie/)
+- [LockBit ransomware group threatens to publish stolen Royal Mail data](https://techcrunch.com/2023/02/07/lockbit-ransomware-royal-mail/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
