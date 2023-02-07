@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft updates its Edge web browser with built-in A.I. capabilities](https://techcrunch.com/2023/02/07/microsoft-updates-its-edge-web-browser-with-built-in-a-i-capabilities/)
-- [&#39;Failed star&#39; brown dwarf imaged in nearby star cluster &lpar;photos&rpar;](https://www.space.com/brown-dwarf-photos-hyades-cluster)
-- [‘Tracers in the Dark’ shows how cops go after crypto-criminals](https://techcrunch.com/2023/02/07/andy-greenberg-tracers-in-the-dark-book-review/)
-- [Microsoft launches the new Bing, with ChatGPT built in](https://techcrunch.com/2023/02/07/microsoft-launches-the-new-bing-with-chatgpt-built-in/)
-- [Stack it up! ULA assembles 1st Vulcan Centaur rocket ahead of debut launch &lpar;photos&rpar;](https://www.space.com/united-launch-alliance-stacks-vulcan-centaur-rocket-photos)
+- [Intuitive Machines now targeting moon&#39;s south pole for delayed lunar landing mission](https://www.space.com/intuitive-machines-moon-south-pole-mission-delay)
+- [OpenAI’s ‘next-generation’ AI model is behind Microsoft’s new search](https://techcrunch.com/2023/02/07/openais-next-generation-ai-model-is-behind-microsofts-new-search/)
+- [Disrupting beauty’s last frontier with Keta Burke-Williams from Ourside](https://techcrunch.com/2023/02/07/disrupting-beautys-last-frontier-with-keta-burke-williams-from-ourside/)
+- [FTX’s attempts to claw back political donations may target largest recipients, experts say](https://techcrunch.com/2023/02/07/ftxs-attempts-to-claw-back-political-donations-may-target-largest-recipients-experts-say/)
+- [Zoom layoffs impact 15% of staff](https://techcrunch.com/2023/02/07/zoom-layoffs-impact-15-of-staff/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
