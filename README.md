@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [$500M in, GV gears up for more deals in Europe with a new partner in London, Luna Dai Schmid](https://techcrunch.com/2023/02/07/500m-in-gv-gears-up-for-more-deals-in-europe-with-a-new-partner-in-london-luna-dai-schmid/)
-- [Go behind the scenes of &#39;The Mandalorian&#39; Season 3 with new Disney featurette](https://www.space.com/mandalorian-season-3-featurette)
-- [Facebook rolls out new comment moderation tools for creators](https://techcrunch.com/2023/02/07/facebook-rolls-out-new-comment-moderation-tools-for-creators/)
-- [Riot prepares your team against highly sophisticated cyberattacks](https://techcrunch.com/2023/02/07/riot-prepares-your-team-against-highly-sophisticated-cyberattacks/)
-- [TikTok is crushing YouTube in annual study of kids’ and teens’ app usage](https://techcrunch.com/2023/02/07/tiktok-is-crushing-youtube-in-annual-study-of-kids-and-teens-app-usage/)
+- [TechCrunch+ roundup: Generative AI for proptech, cloud vendor shopping, cybersecurity fairy tales](https://techcrunch.com/2023/02/07/techcrunch-roundup-generative-ai-for-proptech-cloud-vendor-shopping-cybersecurity-fairy-tales/)
+- [Last Boeing 747 rolls out of the factory: How the &#39;queen of the skies&#39; reigned over air travel](https://www.space.com/last-boeing-747-rolls-out-of-the-factory-how-the-queen-of-the-skies-reigned-over-air-travel)
+- [Pipe has a new CEO from Block, months after founding team announces departure](https://techcrunch.com/2023/02/07/pipe-new-ceo-fintech/)
+- [Save $200 on the Samyang AF f/2.8 14mm lens: A great wide-angle lens](https://www.space.com/samyang-camera-lens-deal-save-200-dollars-february)
+- [VC Mark Crane explains how to raise funding beyond Silicon Valley](https://techcrunch.com/2023/02/07/vc-mark-crane-raising-funds-outside-silicon-valley-techrunch-early-stage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
