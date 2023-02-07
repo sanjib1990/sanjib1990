@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Laser-focused on creativity, Glowforge adds AI image generation](https://techcrunch.com/2023/02/07/glowforge-ai/)
+- [Generative AI is building the foundation of proptech’s next wave](https://techcrunch.com/2023/02/07/generative-ai-is-building-the-foundation-of-proptechs-next-wave/)
+- [Lego Star Wars Boba Fett&#39;s Starship review](https://www.space.com/lego-star-wars-boba-fetts-starship-review-75312)
+- [China’s globalizing startups could be a boon to US cloud giants](https://techcrunch.com/2023/02/07/chinas-globalizing-startups-could-be-a-boon-to-us-cloud-giants/)
 - [Pinterest reaches 450 million monthly users, will focus on making videos ‘shoppable’](https://techcrunch.com/2023/02/07/pinterest-reaches-450-million-monthly-users-will-focus-on-making-videos-shoppable/)
-- [The James Webb Space Telescope just found an asteroid by total accident, its smallest object yet](https://www.space.com/james-webb-space-telescope-asteroid-accident-smallest-object)
-- [Drone imagery firm DroneBase rebrands to Zeitview, lands $55M investment](https://techcrunch.com/2023/02/07/drone-imagery-firm-dronebase-rebrands-to-zeitview-lands-55m-investment/)
-- [Partech hits first close of largest Africa-focused fund, at €245M](https://techcrunch.com/2023/02/07/partech-hits-first-close-of-largest-africa-focused-fund-at-e245m/)
-- [Blue stragglers are the weird grandparents of the galaxy](https://www.space.com/blue-straggler-stars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
