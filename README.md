@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tinder rolls out new safety features, including an Incognito Mode](https://techcrunch.com/2023/02/06/tinder-rolls-out-new-safety-features-including-an-incognito-mode/)
+- [Gameball raises $3.5M to scale its CRM platform for consumer brands](https://techcrunch.com/2023/02/06/gameball-raises-3-5m-to-scale-its-crm-platform-for-consumer-brands/)
 - [Recycleye grabs $17M, calling plastic crisis a ‘tremendous business opportunity’](https://techcrunch.com/2023/02/06/recycleye-grabs-17m-calling-plastic-crisis-a-tremendous-business-opportunity/)
 - [Apple execs on M2 chips, winning gamers and when to buy a Mac](https://techcrunch.com/2023/02/06/apple-execs-on-m2-chips-winning-gamers-and-when-to-buy-a-mac/)
 - [‘Black Panther: Wakanda Forever’ becomes the most-watched Marvel premiere on Disney+](https://techcrunch.com/2023/02/06/black-panther-wakanda-forever-becomes-the-most-watched-marvel-premiere-on-disney/)
-- [FRIDA’s robot arm attempts to bring DALL-E-style AI art to real-world canvases](https://techcrunch.com/2023/02/06/fridas-robot-arm-attempts-to-bring-dall-e-style-ai-art-to-real-world-canvases/)
-- [Daily Crunch: Bitcoin-demanding cybercriminals use bug from 2021 to initiate global ransomware attack](https://techcrunch.com/2023/02/06/daily-crunch-bitcoin-demanding-cybercriminals-use-bug-from-2021-to-initiate-global-ransomware-attack/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
