@@ -97,7 +97,7 @@
 - [Daily Crunch: Global VC firm Partech reaches first close of largest African fund at €245 million](https://techcrunch.com/2023/02/07/daily-crunch-global-vc-firm-partech-reaches-first-close-of-largest-african-fund-at-e245-million/)
 - [GlossAi’s generative highlights are a glimpse of content’s crowded future](https://techcrunch.com/2023/02/07/glossais-generative-highlights-are-a-glimpse-of-contents-crowded-future/)
 - [Mysterious Russian satellite breaks up in orbit, generating cloud of debris](https://www.space.com/russian-satellite-kosmos-2499-breakup-earth-orbit)
-- [Silvija Martincevic leaves Affirm to lead shift work management platform Deputy](https://techcrunch.com/2023/02/07/silvija-martincevic-deputy/)
+- [Former Affirm exec Silvija Martincevic to lead shift work management platform Deputy](https://techcrunch.com/2023/02/07/silvija-martincevic-deputy/)
 - [SpaceX launch and more &#39;photobombed&#39; by February&#39;s Full Snow Moon &lpar;photos&rpar;](https://www.space.com/spacex-launch-full-snow-moon-photobomb)
 <!-- BLOG-POST-LIST:END -->
 
