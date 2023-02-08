@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Star Wars: Visions&#39; Volume 2 blasts back onto Disney+ this year for Star Wars Day](https://www.space.com/star-wars-visions-volume-2-disney-plus)
-- [Fable Foods land Series A for its mushroom-based meat alternatives](https://techcrunch.com/2023/02/08/fable-foods-series-a/)
-- [Disney+ reports its first subscriber loss, drops 2.4 million subscribers](https://techcrunch.com/2023/02/08/disney-q1-2023-earnings/)
-- [Tiny NASA moon probe can&#39;t reach lunar orbit as planned](https://www.space.com/nasa-moon-probe-lunar-orbit-impossible)
-- [SpaceX will attempt a full static fire test of Starship’s Super Heavy booster tomorrow](https://techcrunch.com/2023/02/08/spacex-will-attempt-a-full-static-fire-test-of-starships-super-heavy-booster-tomorrow/)
+- [Daily Crunch: Google announces global rollout for AI-driven ‘multisearch’ on mobile devices](https://techcrunch.com/2023/02/08/daily-crunch-google-announces-global-rollout-for-ai-driven-multisearch-on-mobile-devices/)
+- [AI is eating itself: Bing’s AI quotes COVID disinfo sourced from ChatGPT](https://techcrunch.com/2023/02/08/ai-is-eating-itself-bings-ai-quotes-covid-disinfo-sourced-from-chatgpt/)
+- [Hands-on with the new Bing](https://techcrunch.com/2023/02/08/hands-on-with-the-new-bing/)
+- [Twitter is telling users that they’re over the daily tweet limit](https://techcrunch.com/2023/02/08/twitter-tweet-limit-bug-error/)
+- [Affirm’s stock plunges as it misses earnings, cuts 500 jobs and shutters crypto unit](https://techcrunch.com/2023/02/08/affirms-stock-plunges-as-it-misses-earnings-cuts-500-jobs-and-shutters-crypto-unit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
