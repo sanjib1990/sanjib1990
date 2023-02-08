@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Space claw! Sun shoots powerful flare that knocks out shortwave radio &lpar;video&rpar;](https://www.space.com/sun-flare-shortwave-radio-blackout-february-7-2023)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [A dwarf planet beyond Neptune has a mysterious ring that astronomers can&#39;t explain](https://www.space.com/mysterious-ring-around-dwarf-planet-puzzles-astronomers)
-- [Breaking the Tracking Speed Limit With Webb](https://blogs.nasa.gov/webb/2023/02/08/breaking-the-tracking-speed-limit-with-webb/)
-- [Here’s when Tesla CEO Elon Musk will finally reveal his Master Plan 3](https://techcrunch.com/2023/02/08/heres-when-tesla-ceo-elon-musk-will-finally-reveal-his-master-plan-3/)
+- [See the green comet near Mars in the night sky this week](https://www.space.com/green-comet-c2022-e3-ztf-near-mars-february-2023)
+- [Bing’s app sees a 10x jump in downloads after Microsoft’s AI news](https://techcrunch.com/2023/02/08/bings-previously-unpopular-app-sees-a-10x-jump-in-downloads-after-microsofts-ai-news/)
+- [Sesame Labs raises $4.5M to help improve web3 marketing tools](https://techcrunch.com/2023/02/08/sesame-labs-raises-4-5m-to-help-improve-web3-marketing-tools/)
+- [Warner Bros. Discovery plans to keep Discovery+ as a stand-alone streaming service in the US](https://techcrunch.com/2023/02/08/warner-bros-discovery-plans-to-keep-discovery-as-a-stand-alone-streaming-service-in-the-u-s/)
+- [Dbt Labs acquires Transform, adding semantic tools to its data analytics platform](https://techcrunch.com/2023/02/08/dbt-acquires-transform/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
