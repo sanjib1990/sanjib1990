@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The Alpha-Centaurids meteor shower peaks tonight for Southern Hemisphere skywatchers](https://www.space.com/alpha-centaurids-meteor-shower-peaks-feb-08-2023)
-- [Data observability platform Acceldata raises $50M](https://techcrunch.com/2023/02/08/data-observability-platform-acceldata-raises-50m/)
-- [Musk’s Twitter is facing tricky questions over data deletion](https://techcrunch.com/2023/02/08/elon-musk-twitter-dm-deletion/)
-- [Dear Sophie: Will published articles better my odds of getting an O-1A or H-1B visa?](https://techcrunch.com/2023/02/08/dear-sophie-will-published-articles-better-my-odds-of-getting-an-o-1a-or-h-1b-visa/)
-- [EV startup Zypp Electric nabs $25M to hit 30 Indian cities by 2025](https://techcrunch.com/2023/02/08/zypp-electric-funding-gogoro/)
+- [Giannis, Doja Cat and Amy Schumer will peddle Google’s Pixel during the Super Bowl](https://techcrunch.com/2023/02/08/giannis-dojo-cat-and-amy-schumer-will-peddle-googles-pixel-7-during-the-super-bowl/)
+- [Google intros new features for EVs with Maps built in](https://techcrunch.com/2023/02/08/google-intros-new-features-for-evs-with-maps-built-in/)
+- [Google Maps launches Immersive View in five cities, will roll out ‘glanceable directions’ soon](https://techcrunch.com/2023/02/08/google-maps-immersive-view-five-cities-glanceable-directions/)
+- [Streamdal wants to bring greater visibility to streaming data architectures](https://techcrunch.com/2023/02/08/streamdal-wants-to-bring-greater-visibility-to-streaming-data-architectures/)
+- [Watch Russia launch cargo mission to space station early Thursday](https://www.space.com/russia-launch-progress-cargo-spacecraft-february-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
