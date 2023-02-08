@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A dwarf planet beyond Neptune has a mysterious ring that astronomers can&#39;t explain](https://www.space.com/mysterious-ring-around-dwarf-planet-puzzles-astronomers)
+- [Breaking the Tracking Speed Limit With Webb](https://blogs.nasa.gov/webb/2023/02/08/breaking-the-tracking-speed-limit-with-webb/)
+- [Here’s when Tesla CEO Elon Musk will finally reveal his Master Plan 3](https://techcrunch.com/2023/02/08/heres-when-tesla-ceo-elon-musk-will-finally-reveal-his-master-plan-3/)
+- [Announcing the first group of speakers for TC Early Stage](https://techcrunch.com/2023/02/08/first-group-speakers-techcrunch-early-stage-2023-agenda/)
 - [Instagram expands access to Reels-focused tipping feature, Gifts](https://techcrunch.com/2023/02/08/instagram-expands-access-to-reels-focused-tipping-feature-gifts/)
-- [The individual mistake that tech startups are collectively making](https://techcrunch.com/2023/02/08/the-individual-mistake-that-tech-startups-are-collectively-making/)
-- [Former Gemini CTO launches Fierce, a high-yield finance super app](https://techcrunch.com/2023/02/08/fierce-fintech-super-app/)
-- [AI is the next frontier — but for whom?](https://techcrunch.com/2023/02/08/ai-is-the-next-frontier-but-for-whom/)
-- [A fleet of gamma-ray burst detecting cubesats could help crack mystery of neutron star mergers](https://www.space.com/cubesats-revolutionize-gamma-ray-burst-detection)
 <!-- BLOG-POST-LIST:END -->
 
 ---
