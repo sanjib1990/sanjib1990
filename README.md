@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Space claw! Sun shoots powerful flare that knocks out shortwave radio &lpar;video&rpar;](https://www.space.com/sun-flare-shortwave-radio-blackout-february-7-2023)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [A dwarf planet beyond Neptune has a mysterious ring that astronomers can&#39;t explain](https://www.space.com/mysterious-ring-around-dwarf-planet-puzzles-astronomers)
 - [Breaking the Tracking Speed Limit With Webb](https://blogs.nasa.gov/webb/2023/02/08/breaking-the-tracking-speed-limit-with-webb/)
 - [Here’s when Tesla CEO Elon Musk will finally reveal his Master Plan 3](https://techcrunch.com/2023/02/08/heres-when-tesla-ceo-elon-musk-will-finally-reveal-his-master-plan-3/)
-- [Announcing the first group of speakers for TC Early Stage](https://techcrunch.com/2023/02/08/first-group-speakers-techcrunch-early-stage-2023-agenda/)
-- [Instagram expands access to Reels-focused tipping feature, Gifts](https://techcrunch.com/2023/02/08/instagram-expands-access-to-reels-focused-tipping-feature-gifts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
