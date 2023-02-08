@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [ESA successfully unfurls sail to drag spacecraft out of orbit](https://www.space.com/esa-drag-sail-prototype-adeo-unfurls)
-- [Planet A Ventures comes out of the door with a €160M European, science-backed climate fund](https://techcrunch.com/2023/02/08/planet-a-ventures-comes-out-of-the-door-with-a-e160m-european-science-backed-climate-fund/)
-- [How the NYT is building a modern tech stack to drive every part of its media biz](https://techcrunch.com/2023/02/08/how-the-nyt-is-building-a-modern-tech-stack-to-drive-every-part-of-its-media-biz/)
-- [Today’s TechCrunch Live: Acquiring customers with Cube and Mayfield](https://techcrunch.com/2023/02/08/todays-techcrunch-live-acquring-customers-with-cube-and-mayfield/)
-- [Twitter launches subscription service Blue in India, Indonesia and Brazil](https://techcrunch.com/2023/02/08/twitter-launches-subscription-service-blue-in-india-indonesia-and-brazil/)
+- [Virgin Orbit&#39;s failed debut UK rocket launch traced to &#39;$100 part:&#39; report](https://www.space.com/virgin-orbit-united-kingdom-launch-failure-rocket-part)
+- [Bitcoin holding above $20,000 offers miners hope as margins become healthier](https://techcrunch.com/2023/02/08/bitcoin-holding-above-20000-offers-miners-hope-as-margins-become-healthier/)
+- [In a trademark battle between an NFT artist and a big brand, Hermès, the artist just lost](https://techcrunch.com/2023/02/08/in-a-trademark-battle-between-an-nft-artist-and-a-big-brand-hermes-the-artist-just-lost/)
+- [Spotify now lets you select which playlists you’d like to impact your recommendations less](https://techcrunch.com/2023/02/08/spotify-now-lets-you-select-which-playlists-youd-like-to-impact-your-recommendations-less/)
+- [Meet the prolific Russian espionage crew hacking spymasters and lawmakers](https://techcrunch.com/2023/02/08/seaborgium-cold-river-hacking/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
