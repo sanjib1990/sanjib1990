@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [James Webb Space Telescope pushed past its limits to observe DART asteroid crash](https://www.space.com/dart-impact-forces-webb-through-limit)
-- [BoxPower wants to cut emissions, wildfire risk by taking power off the main grid](https://techcrunch.com/2023/02/08/microgrid-startup-boxpower-cut-emissions-wildfire-risk-macrogrid/)
-- [Former Salesforce exec Bret Taylor is teaming up with Google AR/VR vet Clay Bavor on mystery startup](https://techcrunch.com/2023/02/08/former-salesforce-exec-bret-taylor-is-teaming-up-with-google-ar-vr-vet-clay-bavor-on-mystery-startup/)
-- [Netflix starts cracking down on password sharing in four new markets, including Canada](https://techcrunch.com/2023/02/08/netflix-starts-cracking-down-on-password-sharing-in-four-new-markets-including-canada/)
-- [Virgin Orbit&#39;s failed debut UK rocket launch traced to &#39;$100 part:&#39; report](https://www.space.com/virgin-orbit-united-kingdom-launch-failure-rocket-part)
+- [&#39;Star Wars: Visions&#39; Volume 2 blasts back onto Disney+ this year for Star Wars Day](https://www.space.com/star-wars-visions-volume-2-disney-plus)
+- [Fable Foods land Series A for its mushroom-based meat alternatives](https://techcrunch.com/2023/02/08/fable-foods-series-a/)
+- [Disney+ reports its first subscriber loss, drops 2.4 million subscribers](https://techcrunch.com/2023/02/08/disney-q1-2023-earnings/)
+- [Tiny NASA moon probe can&#39;t reach lunar orbit as planned](https://www.space.com/nasa-moon-probe-lunar-orbit-impossible)
+- [SpaceX will attempt a full static fire test of Starship’s Super Heavy booster tomorrow](https://techcrunch.com/2023/02/08/spacex-will-attempt-a-full-static-fire-test-of-starships-super-heavy-booster-tomorrow/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
