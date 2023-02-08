@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Chinese influence, loan-collection practices reasons for India’s crackdown on lending apps](https://techcrunch.com/2023/02/08/china-influence-debt-collection-reasons-for-india-crackdown-on-lending-apps/)
+- [US military begins recovering Chinese spy balloon debris &lpar;photos&rpar;](https://www.space.com/chinese-spy-balloon-debris-recovery-photos)
+- [Russian ‘WhisperGate’ hackers are using new data-stealing malware to target Ukraine](https://techcrunch.com/2023/02/08/whispergate-hackers-data-stealing-malware-ukraine/)
+- [Massive comet hurtling past the sun is chasing its tail](https://www.space.com/comet-96p-machholz-chasing-own-tail)
+- [Chinese influence, loan-collection practices reasons for India’s crackdown on lending firms](https://techcrunch.com/2023/02/08/china-influence-debt-collection-reasons-for-india-crackdown-on-lending-apps/)
 - [Palm.hr raises $5M, embarks on MENA growth](https://techcrunch.com/2023/02/07/palm-hr-raises-5m-embarks-on-mena-growth/)
-- [Daily Crunch: Global VC firm Partech reaches first close of largest African fund at €245 million](https://techcrunch.com/2023/02/07/daily-crunch-global-vc-firm-partech-reaches-first-close-of-largest-african-fund-at-e245-million/)
-- [GlossAi’s generative highlights are a glimpse of content’s crowded future](https://techcrunch.com/2023/02/07/glossais-generative-highlights-are-a-glimpse-of-contents-crowded-future/)
-- [Mysterious Russian satellite breaks up in orbit, generating cloud of debris](https://www.space.com/russian-satellite-kosmos-2499-breakup-earth-orbit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
