@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [See the green comet near Mars in the night sky this week](https://www.space.com/green-comet-c2022-e3-ztf-near-mars-february-2023)
-- [Bing’s app sees a 10x jump in downloads after Microsoft’s AI news](https://techcrunch.com/2023/02/08/bings-previously-unpopular-app-sees-a-10x-jump-in-downloads-after-microsofts-ai-news/)
-- [Sesame Labs raises $4.5M to help improve web3 marketing tools](https://techcrunch.com/2023/02/08/sesame-labs-raises-4-5m-to-help-improve-web3-marketing-tools/)
-- [Warner Bros. Discovery plans to keep Discovery+ as a stand-alone streaming service in the US](https://techcrunch.com/2023/02/08/warner-bros-discovery-plans-to-keep-discovery-as-a-stand-alone-streaming-service-in-the-u-s/)
-- [Dbt Labs acquires Transform, adding semantic tools to its data analytics platform](https://techcrunch.com/2023/02/08/dbt-acquires-transform/)
+- [ESA successfully unfurls sail to drag spacecraft out of orbit](https://www.space.com/esa-drag-sail-prototype-adeo-unfurls)
+- [Planet A Ventures comes out of the door with a €160M European, science-backed climate fund](https://techcrunch.com/2023/02/08/planet-a-ventures-comes-out-of-the-door-with-a-e160m-european-science-backed-climate-fund/)
+- [How the NYT is building a modern tech stack to drive every part of its media biz](https://techcrunch.com/2023/02/08/how-the-nyt-is-building-a-modern-tech-stack-to-drive-every-part-of-its-media-biz/)
+- [Today’s TechCrunch Live: Acquiring customers with Cube and Mayfield](https://techcrunch.com/2023/02/08/todays-techcrunch-live-acquring-customers-with-cube-and-mayfield/)
+- [Twitter launches subscription service Blue in India, Indonesia and Brazil](https://techcrunch.com/2023/02/08/twitter-launches-subscription-service-blue-in-india-indonesia-and-brazil/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
