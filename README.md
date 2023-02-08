@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Giannis, Doja Cat and Amy Schumer will peddle Google’s Pixel during the Super Bowl](https://techcrunch.com/2023/02/08/giannis-dojo-cat-and-amy-schumer-will-peddle-googles-pixel-7-during-the-super-bowl/)
-- [Google intros new features for EVs with Maps built in](https://techcrunch.com/2023/02/08/google-intros-new-features-for-evs-with-maps-built-in/)
-- [Google Maps launches Immersive View in five cities, will roll out ‘glanceable directions’ soon](https://techcrunch.com/2023/02/08/google-maps-immersive-view-five-cities-glanceable-directions/)
-- [Streamdal wants to bring greater visibility to streaming data architectures](https://techcrunch.com/2023/02/08/streamdal-wants-to-bring-greater-visibility-to-streaming-data-architectures/)
-- [Watch Russia launch cargo mission to space station early Thursday](https://www.space.com/russia-launch-progress-cargo-spacecraft-february-2023)
+- [Instagram expands access to Reels-focused tipping feature, Gifts](https://techcrunch.com/2023/02/08/instagram-expands-access-to-reels-focused-tipping-feature-gifts/)
+- [The individual mistake that tech startups are collectively making](https://techcrunch.com/2023/02/08/the-individual-mistake-that-tech-startups-are-collectively-making/)
+- [Former Gemini CTO launches Fierce, a high-yield finance super app](https://techcrunch.com/2023/02/08/fierce-fintech-super-app/)
+- [AI is the next frontier — but for whom?](https://techcrunch.com/2023/02/08/ai-is-the-next-frontier-but-for-whom/)
+- [A fleet of gamma-ray burst detecting cubesats could help crack mystery of neutron star mergers](https://www.space.com/cubesats-revolutionize-gamma-ray-burst-detection)
 <!-- BLOG-POST-LIST:END -->
 
 ---
