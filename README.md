@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [US military begins recovering Chinese spy balloon debris &lpar;photos&rpar;](https://www.space.com/chinese-spy-balloon-debris-recovery-photos)
-- [Russian ‘WhisperGate’ hackers are using new data-stealing malware to target Ukraine](https://techcrunch.com/2023/02/08/whispergate-hackers-data-stealing-malware-ukraine/)
-- [Massive comet hurtling past the sun is chasing its tail](https://www.space.com/comet-96p-machholz-chasing-own-tail)
-- [Chinese influence, loan-collection practices reasons for India’s crackdown on lending firms](https://techcrunch.com/2023/02/08/china-influence-debt-collection-reasons-for-india-crackdown-on-lending-apps/)
-- [Palm.hr raises $5M, embarks on MENA growth](https://techcrunch.com/2023/02/07/palm-hr-raises-5m-embarks-on-mena-growth/)
+- [The Alpha-Centaurids meteor shower peaks tonight for Southern Hemisphere skywatchers](https://www.space.com/alpha-centaurids-meteor-shower-peaks-feb-08-2023)
+- [Data observability platform Acceldata raises $50M](https://techcrunch.com/2023/02/08/data-observability-platform-acceldata-raises-50m/)
+- [Musk’s Twitter is facing tricky questions over data deletion](https://techcrunch.com/2023/02/08/elon-musk-twitter-dm-deletion/)
+- [Dear Sophie: Will published articles better my odds of getting an O-1A or H-1B visa?](https://techcrunch.com/2023/02/08/dear-sophie-will-published-articles-better-my-odds-of-getting-an-o-1a-or-h-1b-visa/)
+- [EV startup Zypp Electric nabs $25M to hit 30 Indian cities by 2025](https://techcrunch.com/2023/02/08/zypp-electric-funding-gogoro/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
