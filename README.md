@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub lays off 10% and goes fully remote](https://techcrunch.com/2023/02/09/github-lays-off-10-and-goes-fully-remote/)
-- [Pitch Deck Teardown: Spinach.io’s $6M seed deck](https://techcrunch.com/2023/02/09/sample-seed-pitch-deck-spinach-io/)
-- [NASA&#39;s CAPSTONE moon probe bounces back from 11-day communications glitch](https://www.space.com/nasa-moon-probe-no-communications-11-days)
-- [Yahoo will lay off 20% of staff, or 1600 people](https://techcrunch.com/2023/02/09/yahoo-will-lay-off-20-of-staff-or-1600-people/)
-- [SKA Observatory &lpar;SKAO&rpar;: A guide to the soon-to-be largest radio telescopes in the world](https://www.space.com/square-kilometre-array-observatory-skao)
+- [After a record 2022, 8 investors explain why it’s ‘still just Day 1’ for Africa’s startup ecosystem](https://techcrunch.com/2023/02/09/after-a-record-2022-8-investors-explain-why-its-still-just-day-1-for-africas-startup-ecosystem/)
+- [Can you take back a gift? FTX thinks so](https://techcrunch.com/2023/02/09/can-you-take-back-a-gift-ftx-thinks-so/)
+- [Blast aliens to bits as bounty hunter Samus Aran in in &#39;Metroid Prime Remastered&#39;](https://www.space.com/metroid-prime-remastered-nintentdo-switch)
+- [Self-driving truck companies face a potential roadblock in California](https://techcrunch.com/2023/02/09/self-driving-truck-companies-face-a-potential-roadblock-in-california/)
+- [Hype machines](https://techcrunch.com/2023/02/09/hype-machines/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
