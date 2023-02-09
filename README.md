@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Redwood Materials lands $2B conditional loan from DOE](https://techcrunch.com/2023/02/09/redwood-materials-lands-2b-conditional-loan-from-doe/)
-- [Andromeda galaxy crash triggered a mass galactic migration 2 billion years ago](https://www.space.com/andromeda-galaxy-collision-stellar-immigration)
-- [GM locks in exclusive U.S. semiconductor chip production with GlobalFoundries](https://techcrunch.com/2023/02/09/gm-locks-in-exclusive-semiconductor-chip-production-with-globalfoundries/)
-- [Statsig expands its free feature management tools](https://techcrunch.com/2023/02/09/statsig-expands-its-free-feature-management-tools/)
-- [Amex and Microsoft turn to AI to make expense reports less horrible](https://techcrunch.com/2023/02/09/amex-and-microsoft-turn-to-ai-to-make-expense-reports-less-horrible/)
+- [SKA Observatory &lpar;SKAO&rpar;: A guide to the soon-to-be largest radio telescopes in the world](https://www.space.com/square-kilometre-array-observatory-skao)
+- [SpaceX conducting epic 33-engine Starship test today: reports](https://www.space.com/spacex-starship-33-engine-static-fire-preview)
+- [Peacock lets subscribers watch live episodes with their favorite stars in real-time](https://techcrunch.com/2023/02/09/peacock-feature-lets-subscribers-watch-live-episodes-with-stars/)
+- [Our Valentine’s Day Gift list is brimming with Star Wars, Star Trek, and NASA ideas](https://www.space.com/space-valentines-day-gifts)
+- [Flipboard launches its notes feature on iOS and Android](https://techcrunch.com/2023/02/09/flipboard-notes-feature-ios-android/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
