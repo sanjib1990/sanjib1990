@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Replo gives businesses a low-code option for creating Shopify landing pages](https://techcrunch.com/2023/02/09/replo-shopify-low-code/)
-- [DoorDash introduces new safety features for riders including reduced notifications](https://techcrunch.com/2023/02/09/doordash-introduces-new-safety-features-for-riders-including-reduced-notifications/)
-- [James Webb Telescope question costs Google $100 billion — here&#39;s why](https://www.space.com/james-webb-space-telescope-google-100-billion)
-- [Musk’s Twitter gets ‘yellow card’ for missing data in EU disinformation report](https://techcrunch.com/2023/02/09/elon-musk-twitter-eu-disinformation-code-report/)
-- [DJI’s Mini 2 SE ultraportable drone takes to the skies](https://techcrunch.com/2023/02/09/djis-mini-2-se/)
+- [Knott&#39;s Berry Farm celebrates Snoopy and NASA in &#39;To the Moon&#39; exhibit](https://www.space.com/snoopy-nasa-knotts-berry-farm-moon-exhibit)
+- [Meta acquires Within despite FTC concerns](https://techcrunch.com/2023/02/09/meta-acquires-within-despite-ftc-concerns/)
+- [US, UK sanction 7 alleged members of infamous Russian Trickbot hacking gang](https://techcrunch.com/2023/02/09/us-uk-sanctions-russian-trickbot-ryuk-conti/)
+- [GitLab to reduce workforce by 7%](https://techcrunch.com/2023/02/09/gitlab-to-reduce-workforce-by-7/)
+- [Amid ChatGPT frenzy, a hundred followers bloom in China](https://techcrunch.com/2023/02/09/chatgpt-china-openai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
