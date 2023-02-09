@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amex and Microsoft turn to AI to make expense reports less horrible](https://techcrunch.com/2023/02/09/amex-and-microsoft-turn-to-ai-to-make-expense-reports-less-horrible/)
+- [Lunar, the Danish neobank last year valued at $2.2B, raises $38M to shoot for the profitability moon](https://techcrunch.com/2023/02/09/lunar-the-danish-neobank-last-year-valued-at-2-2b-raises-38m-to-shoot-for-the-profitability-moon/)
+- [Wikifarmer uses its agricultural knowledge base to bring people to its marketplace](https://techcrunch.com/2023/02/09/wikifarmer-uses-its-agricultural-knowledge-base-to-bring-people-to-its-marketplace/)
 - [Knott&#39;s Berry Farm celebrates Snoopy and NASA in &#39;To the Moon&#39; exhibit](https://www.space.com/snoopy-nasa-knotts-berry-farm-moon-exhibit)
 - [Meta acquires Within despite FTC concerns](https://techcrunch.com/2023/02/09/meta-acquires-within-despite-ftc-concerns/)
-- [US, UK sanction 7 alleged members of infamous Russian Trickbot hacking gang](https://techcrunch.com/2023/02/09/us-uk-sanctions-russian-trickbot-ryuk-conti/)
-- [GitLab to reduce workforce by 7%](https://techcrunch.com/2023/02/09/gitlab-to-reduce-workforce-by-7/)
-- [Amid ChatGPT frenzy, a hundred followers bloom in China](https://techcrunch.com/2023/02/09/chatgpt-china-openai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
