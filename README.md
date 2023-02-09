@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Save 38% on the Celestron Outland X 10x42 a compact and high quality binoculars](https://www.space.com/celestron-outland-x-10x42-binoculars-save-38-percent-february)
-- [Atlantic Money launches its cheap foreign exchange service across Europe](https://techcrunch.com/2023/02/09/atlantic-money-launches-its-cheap-foreign-exchange-service-across-europe/)
-- [Egyptian health tech Yodawy raises $16M, backed by Delivery Hero Ventures](https://techcrunch.com/2023/02/08/egyptian-health-tech-yodawy-raises-16m-backed-by-delivery-hero-ventures/)
-- [Sendmarc nabs $7M to offer email protection from phishing attacks and email impersonation](https://techcrunch.com/2023/02/08/sendmarc-nabs-7m-to-offers-email-protection-from-phishing-attacks-and-email-impersonation/)
-- [Twitter says the basic tier of its API will cost $100 per month](https://techcrunch.com/2023/02/08/twitter-says-the-basic-tier-of-its-api-will-cost-100-per-month/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [Sling TV launches free ad-supported streaming TV service ‘Sling Freestream’](https://techcrunch.com/2023/02/09/sling-tv-launches-free-ad-supported-streaming-tv-service-sling-freestream/)
+- [4 video content tips for your startup’s growth marketing](https://techcrunch.com/2023/02/09/4-video-content-tips-for-your-startups-growth-marketing/)
+- [Atlassian’s Jira Product Discovery is now generally available](https://techcrunch.com/2023/02/09/atlassians-jira-product-discovery-is-now-generally-available/)
+- [Twitter puts its developer community website behind a login after announcing new API pricing](https://techcrunch.com/2023/02/09/twitter-puts-its-developer-community-website-behind-a-login-after-announcing-new-api-pricing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
