@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Replo gives businesses a low-code option for creating Shopify landing pages](https://techcrunch.com/2023/02/09/replo-shopify-low-code/)
+- [DoorDash introduces new safety features for riders including reduced notifications](https://techcrunch.com/2023/02/09/doordash-introduces-new-safety-features-for-riders-including-reduced-notifications/)
+- [James Webb Telescope question costs Google $100 billion — here&#39;s why](https://www.space.com/james-webb-space-telescope-google-100-billion)
+- [Musk’s Twitter gets ‘yellow card’ for missing data in EU disinformation report](https://techcrunch.com/2023/02/09/elon-musk-twitter-eu-disinformation-code-report/)
 - [DJI’s Mini 2 SE ultraportable drone takes to the skies](https://techcrunch.com/2023/02/09/djis-mini-2-se/)
-- [Watch green comet near Mars Saturday with free telescope livestream](https://www.space.com/comet-c2022-e3-ztf-close-approach-mars-livestream)
-- [Coincover raises $30M to help protect digital assets from hacks and human error](https://techcrunch.com/2023/02/09/coincover-raises-30m-to-help-protect-digital-assets-from-hacks-and-human-error/)
-- [Arrcus snaps up $50M for a software-based alternative to costly network router equipment](https://techcrunch.com/2023/02/09/arrcus-snaps-up-50m-for-a-software-based-alternative-to-costly-network-router-equipment/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
