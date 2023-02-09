@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Redwood Materials lands $2B conditional loan from DOE](https://techcrunch.com/2023/02/09/redwood-materials-lands-2b-conditional-loan-from-doe/)
+- [Andromeda galaxy crash triggered a mass galactic migration 2 billion years ago](https://www.space.com/andromeda-galaxy-collision-stellar-immigration)
+- [GM locks in exclusive U.S. semiconductor chip production with GlobalFoundries](https://techcrunch.com/2023/02/09/gm-locks-in-exclusive-semiconductor-chip-production-with-globalfoundries/)
+- [Statsig expands its free feature management tools](https://techcrunch.com/2023/02/09/statsig-expands-its-free-feature-management-tools/)
 - [Amex and Microsoft turn to AI to make expense reports less horrible](https://techcrunch.com/2023/02/09/amex-and-microsoft-turn-to-ai-to-make-expense-reports-less-horrible/)
-- [Lunar, the Danish neobank last year valued at $2.2B, raises $38M to shoot for the profitability moon](https://techcrunch.com/2023/02/09/lunar-the-danish-neobank-last-year-valued-at-2-2b-raises-38m-to-shoot-for-the-profitability-moon/)
-- [Wikifarmer uses its agricultural knowledge base to bring people to its marketplace](https://techcrunch.com/2023/02/09/wikifarmer-uses-its-agricultural-knowledge-base-to-bring-people-to-its-marketplace/)
-- [Knott&#39;s Berry Farm celebrates Snoopy and NASA in &#39;To the Moon&#39; exhibit](https://www.space.com/snoopy-nasa-knotts-berry-farm-moon-exhibit)
-- [Meta acquires Within despite FTC concerns](https://techcrunch.com/2023/02/09/meta-acquires-within-despite-ftc-concerns/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
