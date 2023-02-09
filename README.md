@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub lays off 10% and goes fully remote](https://techcrunch.com/2023/02/09/github-lays-off-10-and-goes-fully-remote/)
+- [Pitch Deck Teardown: Spinach.io’s $6M seed deck](https://techcrunch.com/2023/02/09/sample-seed-pitch-deck-spinach-io/)
+- [NASA&#39;s CAPSTONE moon probe bounces back from 11-day communications glitch](https://www.space.com/nasa-moon-probe-no-communications-11-days)
+- [Yahoo will lay off 20% of staff, or 1600 people](https://techcrunch.com/2023/02/09/yahoo-will-lay-off-20-of-staff-or-1600-people/)
 - [SKA Observatory &lpar;SKAO&rpar;: A guide to the soon-to-be largest radio telescopes in the world](https://www.space.com/square-kilometre-array-observatory-skao)
-- [SpaceX conducting epic 33-engine Starship test today: reports](https://www.space.com/spacex-starship-33-engine-static-fire-preview)
-- [Peacock lets subscribers watch live episodes with their favorite stars in real-time](https://techcrunch.com/2023/02/09/peacock-feature-lets-subscribers-watch-live-episodes-with-stars/)
-- [Our Valentine’s Day Gift list is brimming with Star Wars, Star Trek, and NASA ideas](https://www.space.com/space-valentines-day-gifts)
-- [Flipboard launches its notes feature on iOS and Android](https://techcrunch.com/2023/02/09/flipboard-notes-feature-ios-android/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
