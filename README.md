@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter Blue introduces 4,000 character tweets, says half ads coming soon](https://techcrunch.com/2023/02/08/twitter-blue-introduces-4000-character-tweets-says-half-ads-coming-soon/)
 - [Nintendo releases trailers for new Zelda and Pikmin games](https://techcrunch.com/2023/02/08/zelda-tears-kingdom-trailer-pikmin-nintendo/)
 - [Daily Crunch: Google announces global rollout for AI-driven ‘multisearch’ on mobile devices](https://techcrunch.com/2023/02/08/daily-crunch-google-announces-global-rollout-for-ai-driven-multisearch-on-mobile-devices/)
 - [AI is eating itself: Bing’s AI quotes COVID disinfo sourced from ChatGPT](https://techcrunch.com/2023/02/08/ai-is-eating-itself-bings-ai-quotes-covid-disinfo-sourced-from-chatgpt/)
 - [Hands-on with Bing’s new ChatGPT-like features](https://techcrunch.com/2023/02/08/hands-on-with-the-new-bing/)
-- [Twitter is telling users that they’re over the daily tweet limit](https://techcrunch.com/2023/02/08/twitter-tweet-limit-bug-error/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
