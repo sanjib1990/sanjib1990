@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Egyptian health tech Yodawy raises $16M, backed by Delivery Hero Ventures](https://techcrunch.com/2023/02/08/egyptian-health-tech-yodawy-raises-16m-backed-by-delivery-hero-ventures/)
+- [Sendmarc nabs $7M to offer email protection from phishing attacks and email impersonation](https://techcrunch.com/2023/02/08/sendmarc-nabs-7m-to-offers-email-protection-from-phishing-attacks-and-email-impersonation/)
+- [Twitter says the basic tier of its API will cost $100 per month](https://techcrunch.com/2023/02/08/twitter-says-the-basic-tier-of-its-api-will-cost-100-per-month/)
 - [Sequoia India’s Surge backs engineering analytics startup Hatica in $3.7M funding](https://techcrunch.com/2023/02/08/hatica-funding-sequoia-india-surge/)
 - [Twitter Blue introduces 4,000 character tweets, says half ads coming soon](https://techcrunch.com/2023/02/08/twitter-blue-introduces-4000-character-tweets-says-half-ads-coming-soon/)
-- [Nintendo releases trailers for new Zelda and Pikmin games](https://techcrunch.com/2023/02/08/zelda-tears-kingdom-trailer-pikmin-nintendo/)
-- [Daily Crunch: Google announces global rollout for AI-driven ‘multisearch’ on mobile devices](https://techcrunch.com/2023/02/08/daily-crunch-google-announces-global-rollout-for-ai-driven-multisearch-on-mobile-devices/)
-- [AI is eating itself: Bing’s AI quotes COVID disinfo sourced from ChatGPT](https://techcrunch.com/2023/02/08/ai-is-eating-itself-bings-ai-quotes-covid-disinfo-sourced-from-chatgpt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
