@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DJI’s Mini 2 SE ultraportable drone takes to the skies](https://techcrunch.com/2023/02/09/djis-mini-2-se/)
+- [Watch green comet near Mars Saturday with free telescope livestream](https://www.space.com/comet-c2022-e3-ztf-close-approach-mars-livestream)
+- [Coincover raises $30M to help protect digital assets from hacks and human error](https://techcrunch.com/2023/02/09/coincover-raises-30m-to-help-protect-digital-assets-from-hacks-and-human-error/)
+- [Arrcus snaps up $50M for a software-based alternative to costly network router equipment](https://techcrunch.com/2023/02/09/arrcus-snaps-up-50m-for-a-software-based-alternative-to-costly-network-router-equipment/)
 - [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [Sling TV launches free ad-supported streaming TV service ‘Sling Freestream’](https://techcrunch.com/2023/02/09/sling-tv-launches-free-ad-supported-streaming-tv-service-sling-freestream/)
-- [4 video content tips for your startup’s growth marketing](https://techcrunch.com/2023/02/09/4-video-content-tips-for-your-startups-growth-marketing/)
-- [Atlassian’s Jira Product Discovery is now generally available](https://techcrunch.com/2023/02/09/atlassians-jira-product-discovery-is-now-generally-available/)
-- [Twitter puts its developer community website behind a login after announcing new API pricing](https://techcrunch.com/2023/02/09/twitter-puts-its-developer-community-website-behind-a-login-after-announcing-new-api-pricing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
