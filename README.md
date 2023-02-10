@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mars atmosphere mystery could be solved by rocks in Minnesota](https://www.space.com/mars-atmosphere-mystery-minnesota-rocks)
+- [Manfrotto MK055XPRO3-BHQ2 tripod review](https://www.space.com/manfrotto-mk055xpro3-bhq2-tripod-review)
 - [Can your startup survive the economic downturn?](https://techcrunch.com/2023/02/10/can-your-startup-survive-the-economic-downturn/)
 - [&#39;PneumoPlanet&#39; inflatable moon habitat could house 32 astronauts](https://www.space.com/pneumoplanet-inflatable-moon-habitat-concept)
 - [NASA test fires upgraded rocket engines for future Artemis moon missions &lpar;video&rpar;](https://www.space.com/nasa-artemis-moon-space-launch-system-engine-test-february-2023)
-- [Wait a secondary](https://techcrunch.com/2023/02/10/wait-a-secondary/)
-- [Digital rights defenders infiltrate alleged mercenary hacking group](https://techcrunch.com/2023/02/10/digital-rights-defenders-infiltrate-alleged-mercenary-hacking-group/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
