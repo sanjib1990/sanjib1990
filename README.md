@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hurricane-tracking satellites can also keep tabs on harmful microplastics in the ocean](https://www.space.com/satellites-track-ocean-microplastics-from-space)
 - [Mars atmosphere mystery could be solved by rocks in Minnesota](https://www.space.com/mars-atmosphere-mystery-minnesota-rocks)
 - [Manfrotto MK055XPRO3-BHQ2 tripod review](https://www.space.com/manfrotto-mk055xpro3-bhq2-tripod-review)
 - [Can your startup survive the economic downturn?](https://techcrunch.com/2023/02/10/can-your-startup-survive-the-economic-downturn/)
 - [&#39;PneumoPlanet&#39; inflatable moon habitat could house 32 astronauts](https://www.space.com/pneumoplanet-inflatable-moon-habitat-concept)
-- [NASA test fires upgraded rocket engines for future Artemis moon missions &lpar;video&rpar;](https://www.space.com/nasa-artemis-moon-space-launch-system-engine-test-february-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
