@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India&#39;s new rocket flies 1st successful mission, delivering 3 satellites to orbit](https://www.space.com/indian-rocket-sslv-launches-first-successful-mission)
+- [Low-code database APITable is another Airtable challenger](https://techcrunch.com/2023/02/09/low-code-database-apitable-is-another-airtable-challenger/)
 - [Uber is integrating its driver app with Apple CarPlay](https://techcrunch.com/2023/02/09/uber-driver-app-apple-carplay-integration/)
 - [NASA will launch a Mars mission on Blue Origin’s New Glenn](https://techcrunch.com/2023/02/09/nasa-will-launch-a-mars-mission-on-blue-origins-new-glenn/)
 - [Daily Crunch: Atlassian offers Jira Product Discovery in open beta release](https://techcrunch.com/2023/02/09/daily-crunch-atlassian-offers-jira-product-discovery-in-open-beta-release/)
-- [Lyft shares get crushed on weak guidance for first quarter](https://techcrunch.com/2023/02/09/lyft-shares-get-crushed-on-weak-guidance-for-first-quarter/)
-- [SpaceX&#39;s huge Starship booster conducts historic 31-engine burn &lpar;video&rpar;](https://www.space.com/spacex-starship-33-engine-static-fire)
 <!-- BLOG-POST-LIST:END -->
 
 ---
