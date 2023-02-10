@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [European Space Agency wants you to help design moon and Mars spacesuits](https://www.space.com/european-space-agency-moon-mars-spacesuit-contest)
+- [China&#39;s Shenzhou 15 astronauts take their 1st spacewalk outside Tiangong space station &lpar;video&rpar;](https://www.space.com/china-shenzhou-15-astronauts-first-spacewalk-tiangong)
+- [Reddit says hackers accessed internal data following employee phishing attack](https://techcrunch.com/2023/02/10/reddit-says-hackers-accessed-internal-data-following-employee-phishing-attack/)
+- [Amazon in talks to acquire Indian video giant MX Player](https://techcrunch.com/2023/02/10/amazon-mx-player-times-internet/)
 - [India lifts ban on PayU’s LazyPay and some other lending apps](https://techcrunch.com/2023/02/10/india-lifts-ban-on-payus-lazypay-and-some-other-lending-apps/)
-- [Sequoia Capital Southeast Asia backs cross-border payments startup Tazapay](https://techcrunch.com/2023/02/10/tazapay/)
-- [Jendaya raises funding to scale its Africa-focused luxury e-commerce platform](https://techcrunch.com/2023/02/10/jendaya-raises-funding-to-scale-its-africa-focused-luxury-e-commerce-platform/)
-- [India&#39;s new rocket flies 1st successful mission, delivering 3 satellites to orbit](https://www.space.com/indian-rocket-sslv-launches-first-successful-mission)
-- [Low-code database APITable is another Airtable challenger](https://techcrunch.com/2023/02/09/low-code-database-apitable-is-another-airtable-challenger/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
