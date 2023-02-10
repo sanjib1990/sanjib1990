@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to think about your business model as part of a VC pitch](https://techcrunch.com/2023/02/10/business-model-slide/)
+- [Lunar love affair: Enjoying the beauty of the moon](https://www.space.com/moonwatching-101-enjoying-moon-night-sky)
 - [How to manage third-party cybersecurity risks that are too costly to ignore](https://techcrunch.com/2023/02/10/why-third-party-cybersecurity-risks-are-too-costly-to-ignore/)
 - [Arctic squirrel research may teach NASA astronauts how to hibernate on deep space missions](https://www.space.com/squirrel-hibernation-research-may-help-future-astronauts)
 - [Nikon binoculars deal spotted: Save 25% on the Nikon Aculon A211](https://www.space.com/nikon-aculon-a211-binoculars-deal-save-25-percent-february)
-- [Otonomo, the mobility data business valued at $1.4B in 2021 SPAC IPO, acquired by Urgent.ly as market cap dips to $70M](https://techcrunch.com/2023/02/10/otonomo-the-mobility-data-business-valued-at-1-4b-in-2021-spac-ipo-acquired-by-urgent-ly-as-market-cap-dips-to-70m/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
