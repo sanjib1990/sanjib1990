@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA test fires new rocket engines for future Artemis moon missions &lpar;video&rpar;](https://www.space.com/nasa-artemis-moon-space-launch-system-engine-test-february-2023)
+- [Can your startup survive the economic downturn?](https://techcrunch.com/2023/02/10/can-your-startup-survive-the-economic-downturn/)
+- [&#39;PneumoPlanet&#39; inflatable moon habitat could house 32 astronauts](https://www.space.com/pneumoplanet-inflatable-moon-habitat-concept)
+- [NASA test fires upgraded rocket engines for future Artemis moon missions &lpar;video&rpar;](https://www.space.com/nasa-artemis-moon-space-launch-system-engine-test-february-2023)
 - [Wait a secondary](https://techcrunch.com/2023/02/10/wait-a-secondary/)
 - [Digital rights defenders infiltrate alleged mercenary hacking group](https://techcrunch.com/2023/02/10/digital-rights-defenders-infiltrate-alleged-mercenary-hacking-group/)
-- [For startups, ‘we haven’t spent a penny on marketing’ isn’t always a good thing](https://techcrunch.com/2023/02/10/startups-marketing-cost-of-acquisition/)
-- [Taiwan fines car renting giant iRent for customer data spill](https://techcrunch.com/2023/02/10/taiwan-irent-exposed-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
