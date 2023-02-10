@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA will launch a Mars mission on Blue Origin’s New Glenn](https://techcrunch.com/2023/02/09/nasa-will-launch-a-mars-mission-on-blue-origins-new-glenn/)
 - [Daily Crunch: Atlassian offers Jira Product Discovery in open beta release](https://techcrunch.com/2023/02/09/daily-crunch-atlassian-offers-jira-product-discovery-in-open-beta-release/)
 - [Lyft shares get crushed on weak guidance for first quarter](https://techcrunch.com/2023/02/09/lyft-shares-get-crushed-on-weak-guidance-for-first-quarter/)
 - [SpaceX&#39;s huge Starship booster conducts historic 31-engine burn &lpar;video&rpar;](https://www.space.com/spacex-starship-33-engine-static-fire)
 - [Women-founded AI startups see a boost in VC funding](https://techcrunch.com/2023/02/09/women-founded-ai-startups-see-a-boost-in-vc-funding/)
-- [Epic Games launches Postparty, an app for sharing Fortnite clips](https://techcrunch.com/2023/02/09/epic-postparty-share-fortnite-clips/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
