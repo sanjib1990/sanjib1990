@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India lifts ban on PayU’s LazyPay and some other lending apps](https://techcrunch.com/2023/02/10/india-lifts-ban-on-payus-lazypay-and-some-other-lending-apps/)
+- [Sequoia Capital Southeast Asia backs cross-border payments startup Tazapay](https://techcrunch.com/2023/02/10/tazapay/)
 - [Jendaya raises funding to scale its Africa-focused luxury e-commerce platform](https://techcrunch.com/2023/02/10/jendaya-raises-funding-to-scale-its-africa-focused-luxury-e-commerce-platform/)
 - [India&#39;s new rocket flies 1st successful mission, delivering 3 satellites to orbit](https://www.space.com/indian-rocket-sslv-launches-first-successful-mission)
 - [Low-code database APITable is another Airtable challenger](https://techcrunch.com/2023/02/09/low-code-database-apitable-is-another-airtable-challenger/)
-- [Uber is integrating its driver app with Apple CarPlay](https://techcrunch.com/2023/02/09/uber-driver-app-apple-carplay-integration/)
-- [NASA will launch a Mars mission on Blue Origin’s New Glenn](https://techcrunch.com/2023/02/09/nasa-will-launch-a-mars-mission-on-blue-origins-new-glenn/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
