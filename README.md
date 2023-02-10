@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Sources say Times Internet plans to sell Indian streaming platform MX Player to Amazon](https://techcrunch.com/2023/02/10/daily-crunch-sources-say-times-internet-plans-to-sell-indian-streaming-platform-mx-player-to-amazon/)
+- [From shipping container to table: Adapt brings urban mushroom farms to US](https://techcrunch.com/2023/02/10/adapt-agtech-shipping-container-mushroom-farm-usa/)
+- [Samsung Galaxy S23 Ultra review](https://techcrunch.com/2023/02/10/samsung-galaxy-s23-ultra-review/)
 - [Who’s afraid of diversity quotas?](https://techcrunch.com/2023/02/10/black-owned-businesses-entrepreneur-grants/)
 - [Ryse Aero’s one-person eVTOL is like a flying ATV](https://techcrunch.com/2023/02/10/ryse-aero-one-person-evtol-flying-atv/)
-- [US military shoots down small object over Alaska](https://www.space.com/us-military-shoots-down-object-over-alaska)
-- [Puffy helium planets could explain exoplanet size mystery](https://www.space.com/puffy-helium-planets--exoplanet-size-mystery)
-- [NFL considers a cheaper Sunday Ticket offering on YouTube with fewer games](https://techcrunch.com/2023/02/10/nfl-considers-a-cheaper-sunday-ticket-offering-on-youtube/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
