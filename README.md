@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The 2023 Mercedes-Benz EQE is EV perfection in a humdrum shell](https://techcrunch.com/2023/02/10/the-2023-mercedes-benz-eqe-is-ev-perfection-in-a-humdrum-shell/)
-- [Google is losing control](https://techcrunch.com/2023/02/10/google-is-losing-control/)
-- [Turkey earthquake opened 190-mile-long fissure, satellite images show](https://www.space.com/turkey-earthquake-satellite-images-200-mile-rupture)
-- [TechCrunch+ roundup: Africa investor survey, biz model basics, video marketing tactics](https://techcrunch.com/2023/02/10/techcrunch-roundup-africa-investor-survey-biz-model-basics-video-marketing-tactics/)
-- [Hurricane-tracking satellites can also keep tabs on harmful microplastics in the ocean](https://www.space.com/satellites-track-ocean-microplastics-from-space)
+- [Blue Origin teams up with Shaq to send kids&#39; postcards to space on New Shepard](https://www.space.com/blue-origin-shaquille-o-neal-space-chicken)
+- [Watch Russian cargo ship arrive at space station early Saturday](https://www.space.com/progress-83-cargo-spacecraft-dock-international-space-station)
+- [Weee! grocery startup says customer data stolen in data breach](https://techcrunch.com/2023/02/10/weee-hacked/)
+- [MrBeast’s blindness video puts systemic ableism on display](https://techcrunch.com/2023/02/10/mrbeasts-blindness-video-puts-systemic-ableism-on-display/)
+- [Blue Origin aims for Mars in 2024 with twin NASA spacecraft](https://www.space.com/nasa-blue-origin-mars-spacecraft-mission-contract)
 <!-- BLOG-POST-LIST:END -->
 
 ---
