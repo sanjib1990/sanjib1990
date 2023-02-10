@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The 2023 Mercedes-Benz EQE is EV perfection in a humdrum shell](https://techcrunch.com/2023/02/10/the-2023-mercedes-benz-eqe-is-ev-perfection-in-a-humdrum-shell/)
+- [Google is losing control](https://techcrunch.com/2023/02/10/google-is-losing-control/)
+- [Turkey earthquake opened 190-mile-long fissure, satellite images show](https://www.space.com/turkey-earthquake-satellite-images-200-mile-rupture)
+- [TechCrunch+ roundup: Africa investor survey, biz model basics, video marketing tactics](https://techcrunch.com/2023/02/10/techcrunch-roundup-africa-investor-survey-biz-model-basics-video-marketing-tactics/)
 - [Hurricane-tracking satellites can also keep tabs on harmful microplastics in the ocean](https://www.space.com/satellites-track-ocean-microplastics-from-space)
-- [Mars atmosphere mystery could be solved by rocks in Minnesota](https://www.space.com/mars-atmosphere-mystery-minnesota-rocks)
-- [Manfrotto MK055XPRO3-BHQ2 tripod review](https://www.space.com/manfrotto-mk055xpro3-bhq2-tripod-review)
-- [Can your startup survive the economic downturn?](https://techcrunch.com/2023/02/10/can-your-startup-survive-the-economic-downturn/)
-- [&#39;PneumoPlanet&#39; inflatable moon habitat could house 32 astronauts](https://www.space.com/pneumoplanet-inflatable-moon-habitat-concept)
 <!-- BLOG-POST-LIST:END -->
 
 ---
