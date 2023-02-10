@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to manage third-party cybersecurity risks that are too costly to ignore](https://techcrunch.com/2023/02/10/why-third-party-cybersecurity-risks-are-too-costly-to-ignore/)
+- [Arctic squirrel research may teach NASA astronauts how to hibernate on deep space missions](https://www.space.com/squirrel-hibernation-research-may-help-future-astronauts)
+- [Nikon binoculars deal spotted: Save 25% on the Nikon Aculon A211](https://www.space.com/nikon-aculon-a211-binoculars-deal-save-25-percent-february)
 - [Otonomo, the mobility data business valued at $1.4B in 2021 SPAC IPO, acquired by Urgent.ly as market cap dips to $70M](https://techcrunch.com/2023/02/10/otonomo-the-mobility-data-business-valued-at-1-4b-in-2021-spac-ipo-acquired-by-urgent-ly-as-market-cap-dips-to-70m/)
 - [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [Scope out $85 off the Celestron AstroMaster 130 EQ telescope](https://www.space.com/celestron-astromaster-130eq-deal-save-85-dollars-february-2023)
-- [European Space Agency wants you to help design moon and Mars spacesuits](https://www.space.com/european-space-agency-moon-mars-spacesuit-contest)
-- [China&#39;s Shenzhou 15 astronauts take their 1st spacewalk outside Tiangong space station &lpar;video&rpar;](https://www.space.com/china-shenzhou-15-astronauts-first-spacewalk-tiangong)
 <!-- BLOG-POST-LIST:END -->
 
 ---
