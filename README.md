@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Otonomo, the mobility data business valued at $1.4B in 2021 SPAC IPO, acquired by Urgent.ly as market cap dips to $70M](https://techcrunch.com/2023/02/10/otonomo-the-mobility-data-business-valued-at-1-4b-in-2021-spac-ipo-acquired-by-urgent-ly-as-market-cap-dips-to-70m/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [Scope out $85 off the Celestron AstroMaster 130 EQ telescope](https://www.space.com/celestron-astromaster-130eq-deal-save-85-dollars-february-2023)
 - [European Space Agency wants you to help design moon and Mars spacesuits](https://www.space.com/european-space-agency-moon-mars-spacesuit-contest)
 - [China&#39;s Shenzhou 15 astronauts take their 1st spacewalk outside Tiangong space station &lpar;video&rpar;](https://www.space.com/china-shenzhou-15-astronauts-first-spacewalk-tiangong)
-- [Reddit says hackers accessed internal data following employee phishing attack](https://techcrunch.com/2023/02/10/reddit-says-hackers-accessed-internal-data-following-employee-phishing-attack/)
-- [Amazon in talks to acquire Indian video giant MX Player](https://techcrunch.com/2023/02/10/amazon-mx-player-times-internet/)
-- [India lifts ban on PayU’s LazyPay and some other lending apps](https://techcrunch.com/2023/02/10/india-lifts-ban-on-payus-lazypay-and-some-other-lending-apps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
