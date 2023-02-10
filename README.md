@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to think about your business model as part of a VC pitch](https://techcrunch.com/2023/02/10/business-model-slide/)
-- [Lunar love affair: Enjoying the beauty of the moon](https://www.space.com/moonwatching-101-enjoying-moon-night-sky)
-- [How to manage third-party cybersecurity risks that are too costly to ignore](https://techcrunch.com/2023/02/10/why-third-party-cybersecurity-risks-are-too-costly-to-ignore/)
-- [Arctic squirrel research may teach NASA astronauts how to hibernate on deep space missions](https://www.space.com/squirrel-hibernation-research-may-help-future-astronauts)
-- [Nikon binoculars deal spotted: Save 25% on the Nikon Aculon A211](https://www.space.com/nikon-aculon-a211-binoculars-deal-save-25-percent-february)
+- [NASA test fires new rocket engines for future Artemis moon missions &lpar;video&rpar;](https://www.space.com/nasa-artemis-moon-space-launch-system-engine-test-february-2023)
+- [Wait a secondary](https://techcrunch.com/2023/02/10/wait-a-secondary/)
+- [Digital rights defenders infiltrate alleged mercenary hacking group](https://techcrunch.com/2023/02/10/digital-rights-defenders-infiltrate-alleged-mercenary-hacking-group/)
+- [For startups, ‘we haven’t spent a penny on marketing’ isn’t always a good thing](https://techcrunch.com/2023/02/10/startups-marketing-cost-of-acquisition/)
+- [Taiwan fines car renting giant iRent for customer data spill](https://techcrunch.com/2023/02/10/taiwan-irent-exposed-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
