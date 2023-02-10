@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Who’s afraid of diversity quotas?](https://techcrunch.com/2023/02/10/black-owned-businesses-entrepreneur-grants/)
+- [Ryse Aero’s one-person eVTOL is like a flying ATV](https://techcrunch.com/2023/02/10/ryse-aero-one-person-evtol-flying-atv/)
+- [US military shoots down small object over Alaska](https://www.space.com/us-military-shoots-down-object-over-alaska)
+- [Puffy helium planets could explain exoplanet size mystery](https://www.space.com/puffy-helium-planets--exoplanet-size-mystery)
 - [NFL considers a cheaper Sunday Ticket offering on YouTube with fewer games](https://techcrunch.com/2023/02/10/nfl-considers-a-cheaper-sunday-ticket-offering-on-youtube/)
-- [Blue Origin teams up with Shaq to send kids&#39; postcards to space on New Shepard](https://www.space.com/blue-origin-shaquille-o-neal-space-chicken)
-- [Watch Russian cargo ship arrive at space station early Saturday](https://www.space.com/progress-83-cargo-spacecraft-dock-international-space-station)
-- [Weee! grocery startup says customer data stolen in data breach](https://techcrunch.com/2023/02/10/weee-hacked/)
-- [MrBeast’s blindness video puts systemic ableism on display](https://techcrunch.com/2023/02/10/mrbeasts-blindness-video-puts-systemic-ableism-on-display/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
