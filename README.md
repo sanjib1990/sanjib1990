@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Week in Apps: AI apps, Bing hits the Top Charts, Google and Mozilla test non-WebKit browsers](https://techcrunch.com/2023/02/11/this-week-in-apps-ai-apps-bing-hits-the-top-charts-google-and-mozilla-test-non-webkit-browsers/)
 - [Cities, cycles and San Francisco’s ‘return’](https://techcrunch.com/2023/02/11/cities-cycles-and-san-franciscos-return/)
 - [AI is coming to your Bing and Google searches, Apple’s M2 chip and Super Bowl streaming](https://techcrunch.com/2023/02/11/ai-google-bing-apples-m2-chip-super-bowl-streaming/)
 - [Democratizing good privacy and compliance practices](https://techcrunch.com/2023/02/11/democratizing-good-privacy-and-compliance-practices/)
 - [The Arcimoto Fun Utility Vehicle is a blast &lpar;that might not last&rpar;](https://techcrunch.com/2023/02/11/the-arcimoto-fun-utility-vehicle-is-a-blast-that-might-not-last/)
-- [Russian Progress cargo craft at space station springs a leak](https://www.space.com/russia-progress-82-cargo-spacecraft-leak)
 <!-- BLOG-POST-LIST:END -->
 
 ---
