@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Indian social media app Slick exposed childrens’ user data](https://techcrunch.com/2023/02/10/slick-social-media-app-data-exposed/)
 - [LGBTQ organizations report a recent uptick in Twitter hate](https://techcrunch.com/2023/02/10/lgbtq-organizations-report-a-recent-uptick-in-twitter-hate/)
 - [Daily Crunch: Sources say Times Internet plans to sell Indian streaming platform MX Player to Amazon](https://techcrunch.com/2023/02/10/daily-crunch-sources-say-times-internet-plans-to-sell-indian-streaming-platform-mx-player-to-amazon/)
 - [From shipping container to table: Adapt brings urban mushroom farms to US](https://techcrunch.com/2023/02/10/adapt-agtech-shipping-container-mushroom-farm-usa/)
 - [Samsung Galaxy S23 Ultra review](https://techcrunch.com/2023/02/10/samsung-galaxy-s23-ultra-review/)
-- [Who’s afraid of diversity quotas?](https://techcrunch.com/2023/02/10/diversity-quota-venture-capital/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
