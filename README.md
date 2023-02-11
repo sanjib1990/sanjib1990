@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Russian cargo ship arrived at space station early Saturday](https://www.space.com/progress-83-cargo-spacecraft-dock-international-space-station)
+- [On This Day In Space: Feb. 11, 2010: NASA launches Solar Dynamics Observatory](https://www.space.com/39251-on-this-day-in-space.html)
 - [Watch SpaceX launch 55 Starlink satellites early Sunday morning](https://www.space.com/spacex-starlink-satellite-launch-group-5-4)
 - [Relive SpaceX Starship&#39;s epic 31-engine burn with these photos](https://www.space.com/spacex-starship-31-engine-static-fire-photos)
 - [Indian social media app Slick exposed childrens’ user data](https://techcrunch.com/2023/02/10/slick-social-media-app-data-exposed/)
-- [LGBTQ organizations report a recent uptick in Twitter hate](https://techcrunch.com/2023/02/10/lgbtq-organizations-report-a-recent-uptick-in-twitter-hate/)
-- [Daily Crunch: Sources say Times Internet plans to sell Indian streaming platform MX Player to Amazon](https://techcrunch.com/2023/02/10/daily-crunch-sources-say-times-internet-plans-to-sell-indian-streaming-platform-mx-player-to-amazon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
