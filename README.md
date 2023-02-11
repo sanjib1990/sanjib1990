@@ -97,7 +97,7 @@
 - [Daily Crunch: Sources say Times Internet plans to sell Indian streaming platform MX Player to Amazon](https://techcrunch.com/2023/02/10/daily-crunch-sources-say-times-internet-plans-to-sell-indian-streaming-platform-mx-player-to-amazon/)
 - [From shipping container to table: Adapt brings urban mushroom farms to US](https://techcrunch.com/2023/02/10/adapt-agtech-shipping-container-mushroom-farm-usa/)
 - [Samsung Galaxy S23 Ultra review](https://techcrunch.com/2023/02/10/samsung-galaxy-s23-ultra-review/)
-- [Who’s afraid of diversity quotas?](https://techcrunch.com/2023/02/10/black-owned-businesses-entrepreneur-grants/)
+- [Who’s afraid of diversity quotas?](https://techcrunch.com/2023/02/10/diversity-quota-venture-capital/)
 - [Ryse Aero’s one-person eVTOL is like a flying ATV](https://techcrunch.com/2023/02/10/ryse-aero-one-person-evtol-flying-atv/)
 <!-- BLOG-POST-LIST:END -->
 
