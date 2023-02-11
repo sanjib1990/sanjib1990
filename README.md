@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India tests recovery of spacecraft for Gaganyaan astronaut mission &lpar;photos&rpar;](https://www.space.com/india-tests-recovery-gaganyaan-crew-module-photos)
 - [Russian cargo ship arrived at space station early Saturday](https://www.space.com/progress-83-cargo-spacecraft-dock-international-space-station)
 - [On This Day In Space: Feb. 11, 2010: NASA launches Solar Dynamics Observatory](https://www.space.com/39251-on-this-day-in-space.html)
 - [Watch SpaceX launch 55 Starlink satellites early Sunday morning](https://www.space.com/spacex-starlink-satellite-launch-group-5-4)
 - [Relive SpaceX Starship&#39;s epic 31-engine burn with these photos](https://www.space.com/spacex-starship-31-engine-static-fire-photos)
-- [Indian social media app Slick exposed childrens’ user data](https://techcrunch.com/2023/02/10/slick-social-media-app-data-exposed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
