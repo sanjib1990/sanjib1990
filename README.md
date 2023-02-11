@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cities, cycles and San Francisco’s ‘return’](https://techcrunch.com/2023/02/11/cities-cycles-and-san-franciscos-return/)
+- [AI is coming to your Bing and Google searches, Apple’s M2 chip and Super Bowl streaming](https://techcrunch.com/2023/02/11/ai-google-bing-apples-m2-chip-super-bowl-streaming/)
 - [Democratizing good privacy and compliance practices](https://techcrunch.com/2023/02/11/democratizing-good-privacy-and-compliance-practices/)
 - [The Arcimoto Fun Utility Vehicle is a blast &lpar;that might not last&rpar;](https://techcrunch.com/2023/02/11/the-arcimoto-fun-utility-vehicle-is-a-blast-that-might-not-last/)
 - [Russian Progress cargo craft at space station springs a leak](https://www.space.com/russia-progress-82-cargo-spacecraft-leak)
-- [BNB Chain is doubling down on web3 gaming](https://techcrunch.com/2023/02/11/bnb-chain-is-doubling-down-on-web3-gaming/)
-- [Hubble captures dazzling star cluster that may soon disperse](https://www.space.com/vela-open-star-cluster-hubble-photo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
