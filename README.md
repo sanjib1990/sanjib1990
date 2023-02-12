@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [US shoots down &#39;UFO&#39; over Canada](https://www.space.com/us-shoots-down-ufo-over-canada)
 - [AI comes to expense reports](https://techcrunch.com/2023/02/12/ai-comes-to-expense-reports/)
 - [The sun just erupted with a major X-class solar flare. Here&#39;s what it looked like on video.](https://www.space.com/sun-erupts-huge-x-class-solar-flare-february-2023)
 - [&#39;Black history is American history&#39;: NASA celebrates African Americans and space achievements at Smithsonian event](https://www.space.com/nasa-smithsonian-celebrates-black-history-space-achievements)
 - [Cracks on Pluto&#39;s moon Charon may be evidence of a frozen subsurface ocean](https://www.space.com/pluto-moon-charon-cracks-frozen-ocean)
-- [The James Webb Space Telescope catches distant young galaxy devouring its neighbors](https://www.space.com/webb-sees-young-cannibal-galaxy-resembling-milky-way)
 <!-- BLOG-POST-LIST:END -->
 
 ---
