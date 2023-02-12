@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The James Webb Space Telescope catches distant young galaxy devouring its neighbors](https://www.space.com/webb-sees-young-cannibal-galaxy-resembling-milky-way)
 - [Be hypnotized by this mesmerizing blue and gold spiral galaxy &lpar;photo&rpar;](https://www.space.com/news/be-hypnotized-by-this-mesmerizing-blue-and-gold-spiral-galaxy-photo)
 - [This Week in Apps: AI apps, Bing hits the Top Charts, Google and Mozilla test non-WebKit browsers](https://techcrunch.com/2023/02/11/this-week-in-apps-ai-apps-bing-hits-the-top-charts-google-and-mozilla-test-non-webkit-browsers/)
 - [Cities, cycles and San Francisco’s ‘return’](https://techcrunch.com/2023/02/11/cities-cycles-and-san-franciscos-return/)
 - [AI is coming to your Bing and Google searches, Apple’s M2 chip and Super Bowl streaming](https://techcrunch.com/2023/02/11/ai-google-bing-apples-m2-chip-super-bowl-streaming/)
-- [Democratizing good privacy and compliance practices](https://techcrunch.com/2023/02/11/democratizing-good-privacy-and-compliance-practices/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
