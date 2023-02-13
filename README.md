@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Uber and Lyft earnings diverge, a self-driving truck roadblock emerges and Redwood Materials lands a big one](https://techcrunch.com/2023/02/13/uber-lyft-earnings-self-driving-truck-roadblock-redwood-materials-deal/)
+- [Strava searches for new CEO with cofounder Michael Horvath departing for a second time](https://techcrunch.com/2023/02/13/strava-searches-for-new-ceo-with-cofounder-michael-horvath-departing-for-a-second-time/)
+- [Green comet C/2022 E3 &lpar;ZTF&rpar; may be heading out of the solar system for good](https://www.space.com/green-comet-c2022-e3-ztf-leave-solar-system)
+- [A total solar eclipse and a &#39;ring of fire&#39; make 2023 special for eclipse-chasers](https://www.space.com/solar-eclipses-2023-special-year)
 - [As ChatGPT hype hits fever pitch, Neeva launches its generative AI search engine internationally](https://techcrunch.com/2023/02/13/as-chatgpt-hype-hits-fever-pitch-neeva-brings-its-generative-ai-search-engine-to-international-markets/)
-- [Cleantech Qotto embarks on growth plan backed by $8M funding](https://techcrunch.com/2023/02/13/cleantech-qotto-embarks-on-growth-plan-backed-by-8m-funding/)
-- [BuuPass raises $1.3M to scale mobility sector digitization in Africa](https://techcrunch.com/2023/02/13/buupass-raises-1-3m-to-scale-mobility-sector-digitization-in-africa/)
-- [Is Xiaomi’s shine dimming in India?](https://techcrunch.com/2023/02/12/xiaomi-india-challenges/)
-- [Two-year-old Zeekr raises $750M at $13B valuation](https://techcrunch.com/2023/02/12/china-ev-upstart-zeekr-750m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
