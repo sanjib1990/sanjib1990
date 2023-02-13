@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is this the end of the BNPL boom?](https://techcrunch.com/2023/02/13/is-this-the-end-of-the-bnpl-boom/)
+- [Volunteer at TC Early Stage for a free pass to TC Disrupt](https://techcrunch.com/2023/02/13/volunteer-tc-early-stage-boston-free-pass-tc-disrupt-san-franciscovolunteer-at-tc-early-stage-for-a-free-pass-to-tc-disrupt/)
+- [Ford to build $3.5B LFP battery factory using China tech](https://techcrunch.com/2023/02/13/ford-to-build-3-5b-factory-catl/)
 - [Phenomenal Ventures, built by Meena Harris and Helen Min, debuts](https://techcrunch.com/2023/02/13/phenomenal-ventures-meena-harris-helen-min-vc-fund/)
 - [The AI photo app trend has already fizzled, new data shows](https://techcrunch.com/2023/02/13/the-ai-photo-app-trend-has-already-fizzled-new-data-shows/)
-- [SpaceX to launch 1st Saudi woman to space on private Ax-2 mission](https://www.space.com/first-saudi-arabian-woman-space-spacex-ax-2)
-- [Meta is reportedly planning a fresh round of layoffs](https://techcrunch.com/2023/02/13/meta-reportedly-planning-fresh-round-layoffs/)
-- [Samsung adds temperature-based period tracking to its Galaxy Watch5](https://techcrunch.com/2023/02/13/samsung-adds-temperature-based-period-tracking-to-its-galaxy-watch5/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
