@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TechCrunch Disrupt returns this September](https://techcrunch.com/2023/02/13/super-early-bird-tickets-techcrunch-disrupt-2023-save-up-to-1000/)
-- [Bigscreen’s new VR headset goes small](https://techcrunch.com/2023/02/13/bigscreenss-new-vr-headset-goes-small/)
-- [New UFO docuseries seeks to shed light on flying saucer folklore](https://www.space.com/ufos-investigating-the-unknown-docuseries-leslie-kean)
-- [Falling asteroid sparks brilliant fireball over Europe just hours after discovery &lpar;video&rpar;](https://www.space.com/fireball-europe-found-hours-before-reaching-earth)
-- [Matchmaking service Tawkify picks up ‘anti-superficial’ dating app S’More in mobile expansion](https://techcrunch.com/2023/02/13/tawkify-matchmaking-acquistion-smore-dating-app/)
+- [Everything we know about Marvel Studios’ Secret Invasion](https://www.space.com/everything-we-know-about-secret-invasion)
+- [See the half-lit last quarter moon rise tonight](https://www.space.com/last-quarter-moon-rises-feb-13-2023)
+- [Twilio cuts 17% of its workforce just months after previous round of layoffs](https://techcrunch.com/2023/02/13/twilio-cuts-17-of-its-workforce-just-months-after-previous-round-of-layoffs/)
+- [TechCrunch Live Podcast: Why you should buy your kids a cash register](https://techcrunch.com/2023/02/13/techcrunch-live-podcast-why-you-should-buy-your-kids-a-cash-register/)
+- [The electric RAM 1500 REV is packed with screens and, surprisingly, buttons and knobs](https://techcrunch.com/2023/02/13/the-electric-ram-1500-rev-is-packed-with-screens-and-surprisingly-buttons-and-knobs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
