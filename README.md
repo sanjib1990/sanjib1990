@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Highbeam secures $10M loan to provide credit, spend monitoring and more to e-commerce retailers](https://techcrunch.com/2023/02/13/highbeam-secures-10m-loan-to-provide-credit-spend-monitoring-and-more-to-e-commerce-retailers/)
-- [Caldera raises $9M from two rounds led by Sequoia and Dragonfly Capital](https://techcrunch.com/2023/02/13/caldera-raises-9m-from-two-rounds-led-by-sequoia-and-dragonfly-capital/)
-- [Introducing the Inside Startup Battlefield podcast](https://techcrunch.com/2023/02/13/introducing-the-inside-startup-battlefield-podcast/)
-- [Here are the tech industry’s 2023 Super Bowl commercials, with noticeably less crypto](https://techcrunch.com/2023/02/13/here-are-the-tech-industrys-2023-super-bowl-commercials-with-noticeably-less-crypto/)
-- [Everything we know about Marvel Studios’ Secret Invasion](https://www.space.com/everything-we-know-about-secret-invasion)
+- [Meta is reportedly planning a fresh round of layoffs](https://techcrunch.com/2023/02/13/meta-reportedly-planning-fresh-round-layoffs/)
+- [Samsung adds temperature-based period tracking to its Galaxy Watch5](https://techcrunch.com/2023/02/13/samsung-adds-temperature-based-period-tracking-to-its-galaxy-watch5/)
+- [Zoox robotaxis start rolling out on California public roads](https://techcrunch.com/2023/02/13/zoox-robotaxis-start-slowly-rolling-out-on-california-public-roads/)
+- [Here are the top movie trailers that aired during the 2023 Super Bowl](https://techcrunch.com/2023/02/13/super-bowl-2023-movie-trailers/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
