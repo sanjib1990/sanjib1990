@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Phenomenal Ventures, built by Meena Harris and Helen Min, debuts](https://techcrunch.com/2023/02/13/phenomenal-ventures-meena-harris-helen-min-vc-fund/)
+- [The AI photo app trend has already fizzled, new data shows](https://techcrunch.com/2023/02/13/the-ai-photo-app-trend-has-already-fizzled-new-data-shows/)
+- [SpaceX to launch 1st Saudi woman to space on private Ax-2 mission](https://www.space.com/first-saudi-arabian-woman-space-spacex-ax-2)
 - [Meta is reportedly planning a fresh round of layoffs](https://techcrunch.com/2023/02/13/meta-reportedly-planning-fresh-round-layoffs/)
 - [Samsung adds temperature-based period tracking to its Galaxy Watch5](https://techcrunch.com/2023/02/13/samsung-adds-temperature-based-period-tracking-to-its-galaxy-watch5/)
-- [Zoox robotaxis start rolling out on California public roads](https://techcrunch.com/2023/02/13/zoox-robotaxis-start-slowly-rolling-out-on-california-public-roads/)
-- [Here are the top movie trailers that aired during the 2023 Super Bowl](https://techcrunch.com/2023/02/13/super-bowl-2023-movie-trailers/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
