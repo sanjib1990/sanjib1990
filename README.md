@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Startup pledges to ‘deliver a cup of coffee’s worth of energy in just three sprays’](https://techcrunch.com/2023/02/13/vae-labs-sprayable-caffeine/)
-- [A decade of fintech failures: 4 innovations that didn’t live up to the hype](https://techcrunch.com/2023/02/13/a-decade-of-fintech-failures-4-innovations-that-didnt-live-up-to-the-hype/)
-- [A Black YC alum explains how he raised $107M](https://techcrunch.com/2023/02/13/a-black-yc-alum-explains-how-he-raised-107m/)
-- [Largest known spiral galaxy in the universe shines in multi-telescope image](https://www.space.com/largest-spiral-universe-galaxy-ngc-6872-photo)
-- [Adtech joint venture by European telcos DK, Orange, Telefonica, Vodafone not a competition concern, finds EU](https://techcrunch.com/2023/02/13/european-mobile-carriers-adtech-jv-competition-clearance/)
+- [TechCrunch Disrupt returns this September](https://techcrunch.com/2023/02/13/super-early-bird-tickets-techcrunch-disrupt-2023-save-up-to-1000/)
+- [Bigscreen’s new VR headset goes small](https://techcrunch.com/2023/02/13/bigscreenss-new-vr-headset-goes-small/)
+- [New UFO docuseries seeks to shed light on flying saucer folklore](https://www.space.com/ufos-investigating-the-unknown-docuseries-leslie-kean)
+- [Falling asteroid sparks brilliant fireball over Europe just hours after discovery &lpar;video&rpar;](https://www.space.com/fireball-europe-found-hours-before-reaching-earth)
+- [Matchmaking service Tawkify picks up ‘anti-superficial’ dating app S’More in mobile expansion](https://techcrunch.com/2023/02/13/tawkify-matchmaking-acquistion-smore-dating-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
