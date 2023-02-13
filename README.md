@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cleantech Qotto embarks on growth plan backed by $8M funding](https://techcrunch.com/2023/02/13/cleantech-qotto-embarks-on-growth-plan-backed-by-8m-funding/)
 - [BuuPass raises $1.3M to scale mobility sector digitization in Africa](https://techcrunch.com/2023/02/13/buupass-raises-1-3m-to-scale-mobility-sector-digitization-in-africa/)
 - [Is Xiaomi’s shine dimming in India?](https://techcrunch.com/2023/02/12/xiaomi-india-challenges/)
 - [Two-year-old Zeekr raises $750M at $13B valuation](https://techcrunch.com/2023/02/12/china-ev-upstart-zeekr-750m/)
 - [Tesla’s biggest hater airs Super Bowl ad against FSD](https://techcrunch.com/2023/02/12/tesla-dawn-project-super-bowl-fsd/)
-- [US shoots down &#39;UFO&#39; over Canada](https://www.space.com/us-shoots-down-ufo-over-canada)
 <!-- BLOG-POST-LIST:END -->
 
 ---
