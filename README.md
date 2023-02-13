@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Sphere&#39; is 25 and coming to TV soon. Here&#39;s why Michael Crichton&#39;s mind-bending sci-fi tale is still awesome](https://www.space.com/sphere-michael-chricton-25-anniversary)
+- [Want to buy an NFT with your credit card? Magic Eden lets you do just that](https://techcrunch.com/2023/02/13/want-to-buy-an-nft-with-your-credit-card-magic-eden-lets-you-do-just-that/)
+- [What are these mystery objects that US fighter jets keep shooting down?](https://www.space.com/mystery-objects-shot-down-ufos-uap)
 - [Is this the end of the BNPL boom?](https://techcrunch.com/2023/02/13/is-this-the-end-of-the-bnpl-boom/)
 - [Volunteer at TC Early Stage for a free pass to TC Disrupt](https://techcrunch.com/2023/02/13/volunteer-tc-early-stage-boston-free-pass-tc-disrupt-san-franciscovolunteer-at-tc-early-stage-for-a-free-pass-to-tc-disrupt/)
-- [Ford to build $3.5B LFP battery factory using China tech](https://techcrunch.com/2023/02/13/ford-to-build-3-5b-factory-catl/)
-- [Phenomenal Ventures, built by Meena Harris and Helen Min, debuts](https://techcrunch.com/2023/02/13/phenomenal-ventures-meena-harris-helen-min-vc-fund/)
-- [The AI photo app trend has already fizzled, new data shows](https://techcrunch.com/2023/02/13/the-ai-photo-app-trend-has-already-fizzled-new-data-shows/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
