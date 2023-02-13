@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Sphere&#39; is 25 and coming to TV soon. Here&#39;s why Michael Crichton&#39;s mind-bending sci-fi tale is still awesome](https://www.space.com/sphere-michael-chricton-25-anniversary)
-- [Want to buy an NFT with your credit card? Magic Eden lets you do just that](https://techcrunch.com/2023/02/13/want-to-buy-an-nft-with-your-credit-card-magic-eden-lets-you-do-just-that/)
-- [What are these mystery objects that US fighter jets keep shooting down?](https://www.space.com/mystery-objects-shot-down-ufos-uap)
-- [Is this the end of the BNPL boom?](https://techcrunch.com/2023/02/13/is-this-the-end-of-the-bnpl-boom/)
-- [Volunteer at TC Early Stage for a free pass to TC Disrupt](https://techcrunch.com/2023/02/13/volunteer-tc-early-stage-boston-free-pass-tc-disrupt-san-franciscovolunteer-at-tc-early-stage-for-a-free-pass-to-tc-disrupt/)
+- [Daily Crunch: Generative AI search engine NeevaAI rolls out subscription service to more countries](https://techcrunch.com/2023/02/13/daily-crunch-generative-ai-search-engine-neevaai-rolls-out-subscription-service-to-more-countries/)
+- [Rihanna’s Savage X Fenty and a newer startup, FIT:MATCH, team up to sell better-fitting lingerie](https://techcrunch.com/2023/02/13/rihannas-savage-x-fenty-and-a-newer-startup-fitmatch-team-up-to-sell-better-fitting-lingerie/)
+- [Max Q: All fired up!](https://techcrunch.com/2023/02/13/max-q-all-fired-up/)
+- [&#39;No indication&#39; shot-down objects are alien spacecraft, White House says](https://www.space.com/white-house-no-evidence-shot-down-objects-alien-spacecraft)
+- [Russia releases 1st images of damage to leaky Soyuz spacecraft &lpar;photos&rpar;](https://www.space.com/soyuz-spacecraft-leak-photos-russia-space-agency)
 <!-- BLOG-POST-LIST:END -->
 
 ---
