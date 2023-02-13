@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A Black YC alum explains how he raised $107M](https://techcrunch.com/2023/02/13/a-black-yc-alum-explains-how-he-raised-107m/)
+- [Largest known spiral galaxy in the universe shines in multi-telescope image](https://www.space.com/largest-spiral-universe-galaxy-ngc-6872-photo)
+- [Adtech joint venture by European telcos DK, Orange, Telefonica, Vodafone not a competition concern, finds EU](https://techcrunch.com/2023/02/13/european-mobile-carriers-adtech-jv-competition-clearance/)
+- [Dockhunt is a new way to discover Mac apps by looking at other people’s docks](https://techcrunch.com/2023/02/13/dockhunt-is-a-new-way-to-discover-mac-apps-by-looking-at-other-peoples-docks/)
 - [Uber and Lyft earnings diverge, a self-driving truck roadblock emerges and Redwood Materials lands a big one](https://techcrunch.com/2023/02/13/uber-lyft-earnings-self-driving-truck-roadblock-redwood-materials-deal/)
-- [Strava searches for new CEO with cofounder Michael Horvath departing for a second time](https://techcrunch.com/2023/02/13/strava-searches-for-new-ceo-with-cofounder-michael-horvath-departing-for-a-second-time/)
-- [Green comet C/2022 E3 &lpar;ZTF&rpar; may be heading out of the solar system for good](https://www.space.com/green-comet-c2022-e3-ztf-leave-solar-system)
-- [A total solar eclipse and a &#39;ring of fire&#39; make 2023 special for eclipse-chasers](https://www.space.com/solar-eclipses-2023-special-year)
-- [As ChatGPT hype hits fever pitch, Neeva launches its generative AI search engine internationally](https://techcrunch.com/2023/02/13/as-chatgpt-hype-hits-fever-pitch-neeva-brings-its-generative-ai-search-engine-to-international-markets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
