@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Highbeam secures $10M loan to provide credit, spend monitoring and more to e-commerce retailers](https://techcrunch.com/2023/02/13/highbeam-secures-10m-loan-to-provide-credit-spend-monitoring-and-more-to-e-commerce-retailers/)
+- [Caldera raises $9M from two rounds led by Sequoia and Dragonfly Capital](https://techcrunch.com/2023/02/13/caldera-raises-9m-from-two-rounds-led-by-sequoia-and-dragonfly-capital/)
+- [Introducing the Inside Startup Battlefield podcast](https://techcrunch.com/2023/02/13/introducing-the-inside-startup-battlefield-podcast/)
+- [Here are the tech industry’s 2023 Super Bowl commercials, with noticeably less crypto](https://techcrunch.com/2023/02/13/here-are-the-tech-industrys-2023-super-bowl-commercials-with-noticeably-less-crypto/)
 - [Everything we know about Marvel Studios’ Secret Invasion](https://www.space.com/everything-we-know-about-secret-invasion)
-- [See the half-lit last quarter moon rise tonight](https://www.space.com/last-quarter-moon-rises-feb-13-2023)
-- [Twilio cuts 17% of its workforce just months after previous round of layoffs](https://techcrunch.com/2023/02/13/twilio-cuts-17-of-its-workforce-just-months-after-previous-round-of-layoffs/)
-- [TechCrunch Live Podcast: Why you should buy your kids a cash register](https://techcrunch.com/2023/02/13/techcrunch-live-podcast-why-you-should-buy-your-kids-a-cash-register/)
-- [The electric RAM 1500 REV is packed with screens and, surprisingly, buttons and knobs](https://techcrunch.com/2023/02/13/the-electric-ram-1500-rev-is-packed-with-screens-and-surprisingly-buttons-and-knobs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
