@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Startup pledges to ‘deliver a cup of coffee’s worth of energy in just three sprays’](https://techcrunch.com/2023/02/13/vae-labs-sprayable-caffeine/)
+- [A decade of fintech failures: 4 innovations that didn’t live up to the hype](https://techcrunch.com/2023/02/13/a-decade-of-fintech-failures-4-innovations-that-didnt-live-up-to-the-hype/)
 - [A Black YC alum explains how he raised $107M](https://techcrunch.com/2023/02/13/a-black-yc-alum-explains-how-he-raised-107m/)
 - [Largest known spiral galaxy in the universe shines in multi-telescope image](https://www.space.com/largest-spiral-universe-galaxy-ngc-6872-photo)
 - [Adtech joint venture by European telcos DK, Orange, Telefonica, Vodafone not a competition concern, finds EU](https://techcrunch.com/2023/02/13/european-mobile-carriers-adtech-jv-competition-clearance/)
-- [Dockhunt is a new way to discover Mac apps by looking at other people’s docks](https://techcrunch.com/2023/02/13/dockhunt-is-a-new-way-to-discover-mac-apps-by-looking-at-other-peoples-docks/)
-- [Uber and Lyft earnings diverge, a self-driving truck roadblock emerges and Redwood Materials lands a big one](https://techcrunch.com/2023/02/13/uber-lyft-earnings-self-driving-truck-roadblock-redwood-materials-deal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
