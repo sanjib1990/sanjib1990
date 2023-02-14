@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fresh off its merger, Ouster-Velodyne make a bet on smart infrastructure](https://techcrunch.com/2023/02/14/ouster-velodyne-merger-lidar-smart-infrastructure/)
+- [&#39;Starspots&#39; could improve our understanding of habitable zones](https://www.space.com/starspots-habitable-zones)
+- [EU formally bans sale of gas and diesel cars from 2035](https://techcrunch.com/2023/02/14/eu-formally-bans-sale-of-gas-and-diesel-cars-from-2035/)
 - [Relationship app Flamme, previously Sparks, rebrands and adds new AI tool](https://techcrunch.com/2023/02/14/relationship-app-flamme-previously-sparks-rebrands-and-adds-new-ai-tool/)
-- [MarioGPT hints at a glorious AI-generated future where we will all play Nintendo forever](https://techcrunch.com/2023/02/14/mariogpt-hints-at-a-glorious-ai-generated-future-where-we-will-all-play-nintendo-forever/)
-- [Peacock will no longer include its free Premium offering as part of Xfinity bundle on June 26](https://techcrunch.com/2023/02/14/peacock-will-no-longer-include-its-free-premium-offering-as-part-of-xfinity-bundle-on-june-26/)
-- [Royal Mail refused to pay ‘absurd’ LockBit ransom, chat logs say](https://techcrunch.com/2023/02/14/royal-mail-refused-to-pay-absurd-lockbit-ransom-chat-logs-say/)
-- [Hubble spies strange spokes on Saturn&#39;s rings after 14-year hiatus &lpar;video&rpar;](https://www.space.com/saturn-spoke-season-hubble-telescope-photo)
+- [South Korea&#39;s Danuri probe captures phases of Earth from lunar orbit &lpar;photo&rpar;](https://www.space.com/south-korea-danuri-photos-earth-phases)
 <!-- BLOG-POST-LIST:END -->
 
 ---
