@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Joby flies towards 2025 commercial launch with final assembly of eVTOL](https://techcrunch.com/2023/02/14/joby-aviation-evtol-company-conforming/)
-- [Sony A6600 camera review](https://www.space.com/sony-a6600-camera-review)
-- [Building a growth marketing team the right way](https://techcrunch.com/2023/02/14/building-a-growth-marketing-team-the-right-way/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [Monad Labs raises $19M to grow its smart contract platform and improve the Ethereum space](https://techcrunch.com/2023/02/14/monad-labs-raises-19m-to-grow-its-smart-contract-platform-and-improve-the-ethereum-space/)
+- [Andreessen Horowitz backs ModernFi’s deposit marketplace for banks](https://techcrunch.com/2023/02/14/andreessen-horowitz-modernfi-deposit-marketplace-fintech/)
+- [Super Bowl trailer offers another peek at &#39;Guardians of the Galaxy Vol. 3&#39;](https://www.space.com/guardians-of-the-galaxy-volume-3-super-bowl-trailer)
+- [Otter.ai launches OtterPilot, its new AI meeting assistant](https://techcrunch.com/2023/02/14/otter-ai-launches-otterpilot-its-new-ai-meeting-assistant/)
+- [On the journey to Series B, strategy is more important than metrics](https://techcrunch.com/2023/02/14/strategy-trumps-metrics-on-the-journey-to-series-b/)
+- [Crew aims to build the ‘HubSpot for recruiting’](https://techcrunch.com/2023/02/14/crew-aims-to-build-the-hubspot-for-recruiting/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
