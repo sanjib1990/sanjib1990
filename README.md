@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn what it takes to turn a lab idea into a real business](https://techcrunch.com/2023/02/14/how-to-turn-lab-research-into-viable-business-techcrunch-early-stage-2023/)
-- [Bibak is building the software stack to manage reusable food containers at scale](https://techcrunch.com/2023/02/14/bibak-is-building-the-software-stack-to-manage-reusable-food-containers-at-scale/)
-- [6 VCs share advice for laid-off tech workers planning to launch startups](https://techcrunch.com/2023/02/14/6-vcs-share-advice-for-laid-off-tech-workers-planning-to-launch-startups/)
-- [What is the U.S. Space Force and what does it do?](https://www.space.com/us-space-force-history-mission-capabilities)
-- [Instagram is killing live shopping in March, will focus on ads instead](https://techcrunch.com/2023/02/14/instagram-is-killing-live-shopping-in-march-will-focus-on-ads-instead/)
+- [GitHub’s Copilot for Business is now generally available](https://techcrunch.com/2023/02/14/githubs-copilot-for-business-is-now-generally-available/)
+- [TechCrunch+ roundup: Advice for laid-off techies, fintech flops, how to build a growth team](https://techcrunch.com/2023/02/14/techcrunch-roundup-advice-for-laid-off-techies-fintech-flops-how-to-build-a-growth-team/)
+- [Logz.io bets on generative AI to help ops teams remediate issues](https://techcrunch.com/2023/02/14/logz-io-bets-on-generative-ai-to-help-ops-teams-remediate-issues/)
+- [Europe&#39;s JUICE Jupiter spacecraft arrives at spaceport ahead of April launch](https://www.space.com/juice-jupiter-mission-arrives-kourou-spaceport)
+- [Google starts beta testing its rebrand of interest-based ad-targeting on Android](https://techcrunch.com/2023/02/14/google-starts-beta-testing-its-rebrand-of-interest-based-ad-targeting-on-android/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
