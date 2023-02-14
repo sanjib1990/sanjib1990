@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Fresh off its merger, Ouster-Velodyne make a bet on smart infrastructure](https://techcrunch.com/2023/02/14/ouster-velodyne-merger-lidar-smart-infrastructure/)
-- [&#39;Starspots&#39; could improve our understanding of habitable zones](https://www.space.com/starspots-habitable-zones)
-- [EU formally bans sale of gas and diesel cars from 2035](https://techcrunch.com/2023/02/14/eu-formally-bans-sale-of-gas-and-diesel-cars-from-2035/)
-- [Relationship app Flamme, previously Sparks, rebrands and adds new AI tool](https://techcrunch.com/2023/02/14/relationship-app-flamme-previously-sparks-rebrands-and-adds-new-ai-tool/)
-- [South Korea&#39;s Danuri probe captures phases of Earth from lunar orbit &lpar;photo&rpar;](https://www.space.com/south-korea-danuri-photos-earth-phases)
+- [&#39;Star Trek Annual 2023&#39; is a holodeck trip through Trek history](https://www.space.com/star-trek-annual-2023-covers-idw-publishing)
+- [Targeted at commercial and military, hydrogen-powered drones are coming](https://techcrunch.com/2023/02/14/heven-drones-hydrogen/)
+- [Airbnb posts a record Q4 as travel recovers post-pandemic](https://techcrunch.com/2023/02/14/airbnb-posts-a-record-q4-as-travel-recovers-post-pandemic/)
+- [Salesforce yields to activist pressure with harsh new policies for engineers, sales people](https://techcrunch.com/2023/02/14/salesforce-yields-to-activist-pressure-with-harsh-new-policies-for-engineers-sales-people/)
+- [Bitcoin NFTs are growing quickly as community sees long-term potential](https://techcrunch.com/2023/02/14/bitcoin-nfts-are-growing-quickly-as-community-sees-long-term-potential/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
