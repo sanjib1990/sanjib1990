@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [Monad Labs raises $19M to grow its smart contract platform and improve the Ethereum space](https://techcrunch.com/2023/02/14/monad-labs-raises-19m-to-grow-its-smart-contract-platform-and-improve-the-ethereum-space/)
+- [Microsoft ditches Yammer brand and goes all-in on Viva Engage](https://techcrunch.com/2023/02/14/microsoft-ditches-yammer-brand-and-goes-all-in-on-viva-engage/)
 - [Chance encounters: Mercury probe and sun spacecraft provide new info about Venus](https://www.space.com/bepicolombo-solar-orbiter-venus-magnetic-field)
 - [Watch Venus snuggle up to Neptune for Valentine&#39;s Day tonight](https://www.space.com/venus-neptune-night-sky-valentines-day-feb-14-2023)
-- [Tiger Global and Ribbit invest another $100 million in PhonePe](https://techcrunch.com/2023/02/14/walmart-phonepe-india/)
-- [Nigeria’s Curacel raises funding to power insurance offerings and expand into North Africa](https://techcrunch.com/2023/02/14/nigerias-curacel-raises-funding-to-power-insurance-offerings-and-expand-into-north-africa/)
-- [Kenya’s fintech Power set to scale after $3M seed round](https://techcrunch.com/2023/02/14/kenyas-fintech-power-set-to-scale-after-3m-seed-round/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
