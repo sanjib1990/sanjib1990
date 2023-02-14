@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hear how Tonkean built its impressive board of directors on TechCrunch Live](https://techcrunch.com/2023/02/14/hear-how-tonkean-built-its-impressive-board-of-directors-on-techcrunch-live/)
-- [Stellantis’ Ram is workshopping a mid-sized EV pickup truck](https://techcrunch.com/2023/02/14/stellantis-ram-is-workshopping-a-mid-sized-ev-pickup-truck/)
-- [Turning waste water into water that works with Alex Rappaport from ZwitterCo](https://techcrunch.com/2023/02/14/turning-waste-water-into-water-that-works-with-alex-rappaport-from-zwitterco/)
-- [Ford halts production and shipments of electric F-150 Lightning over battery concerns](https://techcrunch.com/2023/02/14/ford-halts-production-and-shipments-of-electric-f-150-lightning-over-battery-concerns/)
-- [Meta improves its consumer-facing tool that explains why you’re seeing that ad](https://techcrunch.com/2023/02/14/meta-improves-its-consumer-facing-tool-that-explains-why-youre-seeing-that-ad/)
+- [Relationship app Flamme, previously Sparks, rebrands and adds new AI tool](https://techcrunch.com/2023/02/14/relationship-app-flamme-previously-sparks-rebrands-and-adds-new-ai-tool/)
+- [MarioGPT hints at a glorious AI-generated future where we will all play Nintendo forever](https://techcrunch.com/2023/02/14/mariogpt-hints-at-a-glorious-ai-generated-future-where-we-will-all-play-nintendo-forever/)
+- [Peacock will no longer include its free Premium offering as part of Xfinity bundle on June 26](https://techcrunch.com/2023/02/14/peacock-will-no-longer-include-its-free-premium-offering-as-part-of-xfinity-bundle-on-june-26/)
+- [Royal Mail refused to pay ‘absurd’ LockBit ransom, chat logs say](https://techcrunch.com/2023/02/14/royal-mail-refused-to-pay-absurd-lockbit-ransom-chat-logs-say/)
+- [Hubble spies strange spokes on Saturn&#39;s rings after 14-year hiatus &lpar;video&rpar;](https://www.space.com/saturn-spoke-season-hubble-telescope-photo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
