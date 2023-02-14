@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Polaris Program: One big step for civilian spaceflight](https://www.space.com/polaris-program-facts-missions-history)
+- [How one Brazilian startup’s pivot to corporate cards has paid off](https://techcrunch.com/2023/02/14/how-one-brazilian-startups-pivot-to-corporate-cards-has-paid-off/)
+- [BuzzFeed launches Infinity Quizzes, creating personalized stories powered by OpenAI](https://techcrunch.com/2023/02/14/buzzfeed-launches-infinity-quizzes-creating-personalized-stories-powered-by-openai/)
+- [Earth-size exoplanet spotted just 72 light-years away](https://www.space.com/k2-415b-nearby-earth-size-exoplanet)
 - [Security breach? Don’t blame your employees](https://techcrunch.com/2023/02/14/security-breach-blame-employees/)
-- [Season 3 of ‘Ted Lasso’ will premiere on Apple TV+ on March 15](https://techcrunch.com/2023/02/14/season-3-of-ted-lasso-will-premiere-on-apple-tv-on-march-15/)
-- [Andreessen Horowitz backs ModernFi’s deposit marketplace for banks](https://techcrunch.com/2023/02/14/andreessen-horowitz-modernfi-deposit-marketplace-fintech/)
-- [Super Bowl trailer offers another peek at &#39;Guardians of the Galaxy Vol. 3&#39;](https://www.space.com/guardians-of-the-galaxy-volume-3-super-bowl-trailer)
-- [Otter.ai launches OtterPilot, its new AI meeting assistant](https://techcrunch.com/2023/02/14/otter-ai-launches-otterpilot-its-new-ai-meeting-assistant/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
