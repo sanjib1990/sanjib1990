@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Akamai reaches for the cloud](https://techcrunch.com/2023/02/13/akamai-reaches-for-the-cloud/)
+- [Singapore-based neobank Aspire raises $100M from Lightspeed and Sequoia SEA](https://techcrunch.com/2023/02/13/aspire-100m-seriesc/)
+- [Twitter delays launch of its new API platform again](https://techcrunch.com/2023/02/13/twitter-delays-launch-of-its-new-api-platform-again/)
 - [Watch debut launch of Japan&#39;s powerful new H3 rocket on Tuesday](https://www.space.com/japan-h3-rocket-debut-launch-webcast)
 - [India’s InsuranceDekho raises $150 million despite market slump](https://techcrunch.com/2023/02/13/insurancedekho-funding/)
-- [Subaru recalls Solterra for its nagging wheels-fall-off problem](https://techcrunch.com/2023/02/13/subaru-recalls-solterra-for-its-nagging-wheels-fall-off-problem/)
-- [Writer deploys home-cooked large language models to power up enterprise copy](https://techcrunch.com/2023/02/13/writer-deploys-home-cooked-large-language-models-to-power-up-enterprise-copy/)
-- [Daily Crunch: Generative AI search engine NeevaAI rolls out subscription service to more countries](https://techcrunch.com/2023/02/13/daily-crunch-generative-ai-search-engine-neevaai-rolls-out-subscription-service-to-more-countries/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
