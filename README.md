@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India’s InsuranceDekho raises $150 million despite market slump](https://techcrunch.com/2023/02/13/insurancedekho-funding/)
 - [Subaru recalls Solterra for its nagging wheels-fall-off problem](https://techcrunch.com/2023/02/13/subaru-recalls-solterra-for-its-nagging-wheels-fall-off-problem/)
 - [Writer deploys home-cooked large language models to power up enterprise copy](https://techcrunch.com/2023/02/13/writer-deploys-home-cooked-large-language-models-to-power-up-enterprise-copy/)
 - [Daily Crunch: Generative AI search engine NeevaAI rolls out subscription service to more countries](https://techcrunch.com/2023/02/13/daily-crunch-generative-ai-search-engine-neevaai-rolls-out-subscription-service-to-more-countries/)
 - [Rihanna’s Savage X Fenty and a newer startup, FIT:MATCH, team up to sell better-fitting lingerie](https://techcrunch.com/2023/02/13/rihannas-savage-x-fenty-and-a-newer-startup-fitmatch-team-up-to-sell-better-fitting-lingerie/)
-- [Max Q: All fired up!](https://techcrunch.com/2023/02/13/max-q-all-fired-up/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
