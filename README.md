@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amid merger and bankruptcy in the West, lidar maker Hesai nails $190M IPO](https://techcrunch.com/2023/02/13/amid-merger-and-bankruptcy-in-the-west-lidar-maker-hesai-nails-190m-ipo/)
+- [Morocco’s foodtech Terraa raises $1.5M led by FoodLabs](https://techcrunch.com/2023/02/13/moroccos-foodtech-terraa-raises-1-5m-led-by-foodlabs/)
 - [Akamai reaches for the cloud](https://techcrunch.com/2023/02/13/akamai-reaches-for-the-cloud/)
 - [Singapore-based neobank Aspire raises $100M from Lightspeed and Sequoia SEA](https://techcrunch.com/2023/02/13/aspire-100m-seriesc/)
 - [Twitter delays launch of its new API platform again](https://techcrunch.com/2023/02/13/twitter-delays-launch-of-its-new-api-platform-again/)
-- [Watch debut launch of Japan&#39;s powerful new H3 rocket on Tuesday](https://www.space.com/japan-h3-rocket-debut-launch-webcast)
-- [India’s InsuranceDekho raises $150 million despite market slump](https://techcrunch.com/2023/02/13/insurancedekho-funding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
