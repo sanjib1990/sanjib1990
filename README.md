@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nigeria’s Curacel raises funding to power insurance offerings and expand into North Africa](https://techcrunch.com/2023/02/14/nigerias-curacel-raises-funding-to-power-insurance-offerings-and-expand-into-north-africa/)
+- [Kenya’s fintech Power set to scale after $3M seed round](https://techcrunch.com/2023/02/14/kenyas-fintech-power-set-to-scale-after-3m-seed-round/)
+- [Crypto makes you more attractive, according to a new Binance survey](https://techcrunch.com/2023/02/14/crypto-makes-you-more-attractive-according-to-a-new-binance-survey/)
 - [Africa’s smartphone market shrunk by 18% last year](https://techcrunch.com/2023/02/14/africas-smartphone-market-shrunk-by-18-last-year/)
 - [Bain Capital has closed its second Tech Opportunities fund with $2.4 billion](https://techcrunch.com/2023/02/13/bain-capitals-growth-arm-has-a-fresh-2-4-billion-to-invest-and-lots-of-ideas-where-to-invest-it/)
-- [Amid merger and bankruptcy in the West, lidar maker Hesai nails $190M IPO](https://techcrunch.com/2023/02/13/amid-merger-and-bankruptcy-in-the-west-lidar-maker-hesai-nails-190m-ipo/)
-- [Morocco’s foodtech Terraa raises $1.5M led by FoodLabs](https://techcrunch.com/2023/02/13/moroccos-foodtech-terraa-raises-1-5m-led-by-foodlabs/)
-- [Akamai reaches for the cloud](https://techcrunch.com/2023/02/13/akamai-reaches-for-the-cloud/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
