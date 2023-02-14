@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [how big is a yottabyte?](https://www.youtube.com/watch?v=6V-eRPPLSy0)
-- [ChatGPT is a perfectly balanced AI with no exploits](https://www.youtube.com/watch?v=y3iLOxBTuy4)
-- [Legacy Code Conversion - Computerphile](https://www.youtube.com/watch?v=Xz06zYlQrck)
-- [15 futuristic databases you’ve never heard of](https://www.youtube.com/watch?v=jb2AvF8XzII)
-- [S4:E3: Seeing Green with Drs. Jessica Sandland and Cécile Chazot](https://www.youtube.com/watch?v=po0oVE5Lhf0)
+- [1-1: Introduction, Overview, and Syllabus for Game Design](https://www.youtube.com/watch?v=xHNIknabsRY)
+- [22. Changing Rules I](https://www.youtube.com/watch?v=VXQAhzat098)
+- [2-1: Meaningful Decisions in Gameplay](https://www.youtube.com/watch?v=S_fiR00UBGo)
+- [14. Adding and Cutting Mechanics](https://www.youtube.com/watch?v=DF9fniCnL10)
+- [23. Changing Rules II](https://www.youtube.com/watch?v=K3QfVXBqbYM)
 <!-- YOUTUBE:END -->
 
 ---
