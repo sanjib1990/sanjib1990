@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Microsoft dumps Yammer and makes Viva Engage its preferred enterprise social platform](https://techcrunch.com/2023/02/14/daily-crunch-microsoft-dumps-yammer-and-makes-viva-engage-its-preferred-enterprise-social-platform/)
+- [Tubi reaches 64M monthly active users as ad-supported streaming grows](https://techcrunch.com/2023/02/14/tubi-reaches-64m-monthly-active-users-as-ad-supported-streaming-grows/)
 - [&#39;Star Trek Annual 2023&#39; is a holodeck trip through Trek history](https://www.space.com/star-trek-annual-2023-covers-idw-publishing)
 - [Targeted at commercial and military, hydrogen-powered drones are coming](https://techcrunch.com/2023/02/14/heven-drones-hydrogen/)
 - [Airbnb posts a record Q4 as travel recovers post-pandemic](https://techcrunch.com/2023/02/14/airbnb-posts-a-record-q4-as-travel-recovers-post-pandemic/)
-- [Salesforce yields to activist pressure with harsh new policies for engineers, sales people](https://techcrunch.com/2023/02/14/salesforce-yields-to-activist-pressure-with-harsh-new-policies-for-engineers-sales-people/)
-- [Bitcoin NFTs are growing quickly as community sees long-term potential](https://techcrunch.com/2023/02/14/bitcoin-nfts-are-growing-quickly-as-community-sees-long-term-potential/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
