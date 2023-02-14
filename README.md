@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Subaru recalls Solterra for its nagging wheels-fall-off problem](https://techcrunch.com/2023/02/13/subaru-recalls-solterra-for-its-nagging-wheels-fall-off-problem/)
+- [Writer deploys home-cooked large language models to power up enterprise copy](https://techcrunch.com/2023/02/13/writer-deploys-home-cooked-large-language-models-to-power-up-enterprise-copy/)
 - [Daily Crunch: Generative AI search engine NeevaAI rolls out subscription service to more countries](https://techcrunch.com/2023/02/13/daily-crunch-generative-ai-search-engine-neevaai-rolls-out-subscription-service-to-more-countries/)
 - [Rihanna’s Savage X Fenty and a newer startup, FIT:MATCH, team up to sell better-fitting lingerie](https://techcrunch.com/2023/02/13/rihannas-savage-x-fenty-and-a-newer-startup-fitmatch-team-up-to-sell-better-fitting-lingerie/)
 - [Max Q: All fired up!](https://techcrunch.com/2023/02/13/max-q-all-fired-up/)
-- [&#39;No indication&#39; shot-down objects are alien spacecraft, White House says](https://www.space.com/white-house-no-evidence-shot-down-objects-alien-spacecraft)
-- [Russia releases 1st images of damage to leaky Soyuz spacecraft &lpar;photos&rpar;](https://www.space.com/soyuz-spacecraft-leak-photos-russia-space-agency)
 <!-- BLOG-POST-LIST:END -->
 
 ---
