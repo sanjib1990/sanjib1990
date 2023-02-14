@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Joby flies towards 2025 commercial launch with final assembly of eVTOL](https://techcrunch.com/2023/02/14/joby-aviation-evtol-company-conforming/)
+- [Sony A6600 camera review](https://www.space.com/sony-a6600-camera-review)
+- [Building a growth marketing team the right way](https://techcrunch.com/2023/02/14/building-a-growth-marketing-team-the-right-way/)
 - [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [Monad Labs raises $19M to grow its smart contract platform and improve the Ethereum space](https://techcrunch.com/2023/02/14/monad-labs-raises-19m-to-grow-its-smart-contract-platform-and-improve-the-ethereum-space/)
-- [Microsoft ditches Yammer brand and goes all-in on Viva Engage](https://techcrunch.com/2023/02/14/microsoft-ditches-yammer-brand-and-goes-all-in-on-viva-engage/)
-- [Chance encounters: Mercury probe and sun spacecraft provide new info about Venus](https://www.space.com/bepicolombo-solar-orbiter-venus-magnetic-field)
-- [Watch Venus snuggle up to Neptune for Valentine&#39;s Day tonight](https://www.space.com/venus-neptune-night-sky-valentines-day-feb-14-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
