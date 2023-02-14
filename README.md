@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Security breach? Don’t blame your employees](https://techcrunch.com/2023/02/14/security-breach-blame-employees/)
+- [Season 3 of ‘Ted Lasso’ will premiere on Apple TV+ on March 15](https://techcrunch.com/2023/02/14/season-3-of-ted-lasso-will-premiere-on-apple-tv-on-march-15/)
 - [Andreessen Horowitz backs ModernFi’s deposit marketplace for banks](https://techcrunch.com/2023/02/14/andreessen-horowitz-modernfi-deposit-marketplace-fintech/)
 - [Super Bowl trailer offers another peek at &#39;Guardians of the Galaxy Vol. 3&#39;](https://www.space.com/guardians-of-the-galaxy-volume-3-super-bowl-trailer)
 - [Otter.ai launches OtterPilot, its new AI meeting assistant](https://techcrunch.com/2023/02/14/otter-ai-launches-otterpilot-its-new-ai-meeting-assistant/)
-- [On the journey to Series B, strategy is more important than metrics](https://techcrunch.com/2023/02/14/strategy-trumps-metrics-on-the-journey-to-series-b/)
-- [Crew aims to build the ‘HubSpot for recruiting’](https://techcrunch.com/2023/02/14/crew-aims-to-build-the-hubspot-for-recruiting/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
