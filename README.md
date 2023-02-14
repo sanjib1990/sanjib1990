@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Chance encounters: Mercury probe and sun spacecraft provide new info about Venus](https://www.space.com/bepicolombo-solar-orbiter-venus-magnetic-field)
+- [Watch Venus snuggle up to Neptune for Valentine&#39;s Day tonight](https://www.space.com/venus-neptune-night-sky-valentines-day-feb-14-2023)
+- [Tiger Global and Ribbit invest another $100 million in PhonePe](https://techcrunch.com/2023/02/14/walmart-phonepe-india/)
 - [Nigeria’s Curacel raises funding to power insurance offerings and expand into North Africa](https://techcrunch.com/2023/02/14/nigerias-curacel-raises-funding-to-power-insurance-offerings-and-expand-into-north-africa/)
 - [Kenya’s fintech Power set to scale after $3M seed round](https://techcrunch.com/2023/02/14/kenyas-fintech-power-set-to-scale-after-3m-seed-round/)
-- [Crypto makes you more attractive, according to a new Binance survey](https://techcrunch.com/2023/02/14/crypto-makes-you-more-attractive-according-to-a-new-binance-survey/)
-- [Africa’s smartphone market shrunk by 18% last year](https://techcrunch.com/2023/02/14/africas-smartphone-market-shrunk-by-18-last-year/)
-- [Bain Capital has closed its second Tech Opportunities fund with $2.4 billion](https://techcrunch.com/2023/02/13/bain-capitals-growth-arm-has-a-fresh-2-4-billion-to-invest-and-lots-of-ideas-where-to-invest-it/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
