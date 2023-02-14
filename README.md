@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch debut launch of Japan&#39;s powerful new H3 rocket on Tuesday](https://www.space.com/japan-h3-rocket-debut-launch-webcast)
 - [India’s InsuranceDekho raises $150 million despite market slump](https://techcrunch.com/2023/02/13/insurancedekho-funding/)
 - [Subaru recalls Solterra for its nagging wheels-fall-off problem](https://techcrunch.com/2023/02/13/subaru-recalls-solterra-for-its-nagging-wheels-fall-off-problem/)
 - [Writer deploys home-cooked large language models to power up enterprise copy](https://techcrunch.com/2023/02/13/writer-deploys-home-cooked-large-language-models-to-power-up-enterprise-copy/)
 - [Daily Crunch: Generative AI search engine NeevaAI rolls out subscription service to more countries](https://techcrunch.com/2023/02/13/daily-crunch-generative-ai-search-engine-neevaai-rolls-out-subscription-service-to-more-countries/)
-- [Rihanna’s Savage X Fenty and a newer startup, FIT:MATCH, team up to sell better-fitting lingerie](https://techcrunch.com/2023/02/13/rihannas-savage-x-fenty-and-a-newer-startup-fitmatch-team-up-to-sell-better-fitting-lingerie/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
