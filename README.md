@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub’s Copilot for Business is now generally available](https://techcrunch.com/2023/02/14/githubs-copilot-for-business-is-now-generally-available/)
-- [TechCrunch+ roundup: Advice for laid-off techies, fintech flops, how to build a growth team](https://techcrunch.com/2023/02/14/techcrunch-roundup-advice-for-laid-off-techies-fintech-flops-how-to-build-a-growth-team/)
-- [Logz.io bets on generative AI to help ops teams remediate issues](https://techcrunch.com/2023/02/14/logz-io-bets-on-generative-ai-to-help-ops-teams-remediate-issues/)
-- [Europe&#39;s JUICE Jupiter spacecraft arrives at spaceport ahead of April launch](https://www.space.com/juice-jupiter-mission-arrives-kourou-spaceport)
-- [Google starts beta testing its rebrand of interest-based ad-targeting on Android](https://techcrunch.com/2023/02/14/google-starts-beta-testing-its-rebrand-of-interest-based-ad-targeting-on-android/)
+- [Hear how Tonkean built its impressive board of directors on TechCrunch Live](https://techcrunch.com/2023/02/14/hear-how-tonkean-built-its-impressive-board-of-directors-on-techcrunch-live/)
+- [Stellantis’ Ram is workshopping a mid-sized EV pickup truck](https://techcrunch.com/2023/02/14/stellantis-ram-is-workshopping-a-mid-sized-ev-pickup-truck/)
+- [Turning waste water into water that works with Alex Rappaport from ZwitterCo](https://techcrunch.com/2023/02/14/turning-waste-water-into-water-that-works-with-alex-rappaport-from-zwitterco/)
+- [Ford halts production and shipments of electric F-150 Lightning over battery concerns](https://techcrunch.com/2023/02/14/ford-halts-production-and-shipments-of-electric-f-150-lightning-over-battery-concerns/)
+- [Meta improves its consumer-facing tool that explains why you’re seeing that ad](https://techcrunch.com/2023/02/14/meta-improves-its-consumer-facing-tool-that-explains-why-youre-seeing-that-ad/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
