@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The Polaris Program: One big step for civilian spaceflight](https://www.space.com/polaris-program-facts-missions-history)
-- [How one Brazilian startup’s pivot to corporate cards has paid off](https://techcrunch.com/2023/02/14/how-one-brazilian-startups-pivot-to-corporate-cards-has-paid-off/)
-- [BuzzFeed launches Infinity Quizzes, creating personalized stories powered by OpenAI](https://techcrunch.com/2023/02/14/buzzfeed-launches-infinity-quizzes-creating-personalized-stories-powered-by-openai/)
-- [Earth-size exoplanet spotted just 72 light-years away](https://www.space.com/k2-415b-nearby-earth-size-exoplanet)
-- [Security breach? Don’t blame your employees](https://techcrunch.com/2023/02/14/security-breach-blame-employees/)
+- [Learn what it takes to turn a lab idea into a real business](https://techcrunch.com/2023/02/14/how-to-turn-lab-research-into-viable-business-techcrunch-early-stage-2023/)
+- [Bibak is building the software stack to manage reusable food containers at scale](https://techcrunch.com/2023/02/14/bibak-is-building-the-software-stack-to-manage-reusable-food-containers-at-scale/)
+- [6 VCs share advice for laid-off tech workers planning to launch startups](https://techcrunch.com/2023/02/14/6-vcs-share-advice-for-laid-off-tech-workers-planning-to-launch-startups/)
+- [What is the U.S. Space Force and what does it do?](https://www.space.com/us-space-force-history-mission-capabilities)
+- [Instagram is killing live shopping in March, will focus on ads instead](https://techcrunch.com/2023/02/14/instagram-is-killing-live-shopping-in-march-will-focus-on-ads-instead/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
