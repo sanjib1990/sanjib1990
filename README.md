@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Chelyabinsk meteor explosion was a planetary defense wakeup call](https://www.space.com/chelyabinsk-meteor-explosion-ten-years-later)
+- [Here&#39;s how China&#39;s astronauts keep fit aboard Tiangong space station &lpar;video&rpar;](https://www.space.com/china-astronauts-exercise-tiangong-space-station-video)
 - [Sequoia-backed Bento wants be more than a link-in-bio tool for creators](https://techcrunch.com/2023/02/15/sequoia-backed-bento-wants-be-more-than-a-link-in-bio-tool-for-creators/)
 - [Costanoa Ventures and Norrsken22 back Smile Identity in $20M Series B round](https://techcrunch.com/2023/02/15/costanoa-ventures-and-norrsken22-back-smile-identity-in-20m-series-b-round/)
 - [Battery recycling startup Cylib recharges its coffers to go faster](https://techcrunch.com/2023/02/15/cylib-seed-extension/)
-- [Google rolls out new features to make in-app browsers better on Android](https://techcrunch.com/2023/02/14/google-rolls-out-new-features-to-make-in-app-browsers-better-on-android/)
-- [China’s games industry shrinks for the first time in years](https://techcrunch.com/2023/02/14/china-gaming-industry-shrinks-first-time/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
