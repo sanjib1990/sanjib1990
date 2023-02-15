@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pakistan gets space-flown seeds from China&#39;s Shenzhou 14 mission &lpar;video&rpar;](https://www.space.com/pakistan-space-flown-seeds-china-shenzhou-14-mission)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [Intuitive Machines rings Nasdaq bell on path to private moon landing](https://www.space.com/intuitive-machines-astronauts-moon-technology-nasdaq)
 - [Silicon Valley goes to war](https://techcrunch.com/2023/02/15/defense-tech-startups-war/)
 - [Russia delays launch of replacement Soyuz to March](https://www.space.com/russia-soyuz-replacement-ms-23-international-space-station-delay-march)
-- [Apkudo, a platform for managing connected devices, raises $37.5M](https://techcrunch.com/2023/02/15/apkudo-a-platform-for-managing-connected-devices-raises-37-5m/)
-- [&#39;Star Trek: Picard&#39; Season 3 is almost upon us. What can we expect?](https://www.space.com/star-trek-picard-season-3-preview)
 <!-- BLOG-POST-LIST:END -->
 
 ---
