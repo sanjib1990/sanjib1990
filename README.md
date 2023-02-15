@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Intuitive Machines rings Nasdaq bell on path to private moon landing](https://www.space.com/intuitive-machines-astronauts-moon-technology-nasdaq)
+- [Silicon Valley goes to war](https://techcrunch.com/2023/02/15/defense-tech-startups-war/)
+- [Russia delays launch of replacement Soyuz to March](https://www.space.com/russia-soyuz-replacement-ms-23-international-space-station-delay-march)
 - [Apkudo, a platform for managing connected devices, raises $37.5M](https://techcrunch.com/2023/02/15/apkudo-a-platform-for-managing-connected-devices-raises-37-5m/)
 - [&#39;Star Trek: Picard&#39; Season 3 is almost upon us. What can we expect?](https://www.space.com/star-trek-picard-season-3-preview)
-- [Dear Sophie: Do I qualify for an E-1 trader visa?](https://techcrunch.com/2023/02/15/dear-sophie-do-i-qualify-for-an-e-1-trader-visa/)
-- [a16z, GV back Thatch in its effort to simplify health benefits for startups and their employees](https://techcrunch.com/2023/02/15/a16z-gv-back-thatch-in-its-effort-to-simplify-health-benefits-for-startups-and-their-employees/)
-- [Intuitive Machines’ post-SPAC war chest depleted by shareholder redemptions](https://techcrunch.com/2023/02/15/intuitive-machines-post-spac-war-chest-depleted-by-shareholder-redemptions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
