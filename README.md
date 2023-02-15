@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Comet C/2022 A2 &lpar;Pan-STARRS&rpar; passes close by the sun this weekend](https://www.space.com/comet-c2022-a2-pan-starrs-approaches-perihelion)
+- [Is the ‘exodus’ over? Here’s how Twitter alternatives have fared since Elon Musk’s acquisition](https://techcrunch.com/2023/02/15/is-the-exodus-over-heres-how-twitter-alternatives-have-fared-since-elon-musks-acquisition/)
 - [Pakistan gets space-flown seeds from China&#39;s Shenzhou 14 mission &lpar;video&rpar;](https://www.space.com/pakistan-space-flown-seeds-china-shenzhou-14-mission)
 - [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [Intuitive Machines rings Nasdaq bell on path to private moon landing](https://www.space.com/intuitive-machines-astronauts-moon-technology-nasdaq)
-- [Silicon Valley goes to war](https://techcrunch.com/2023/02/15/defense-tech-startups-war/)
-- [Russia delays launch of replacement Soyuz to March](https://www.space.com/russia-soyuz-replacement-ms-23-international-space-station-delay-march)
 <!-- BLOG-POST-LIST:END -->
 
 ---
