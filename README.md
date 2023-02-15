@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Generative AI search engine startup You.com adds multimodal chat](https://techcrunch.com/2023/02/15/daily-crunch-generative-ai-search-engine-startup-you-com-adds-multimodal-chat/)
+- [James Webb Space Telescope opens Pandora&#39;s Cluster in stunning image with help from Einstein &lpar;video&rpar;](https://www.space.com/james-webb-space-telescope-pandoras-cluster)
 - [When fundraising, anchor your company with the ‘why now?’ slide](https://techcrunch.com/2023/02/15/fundraising-timing-startups-gig-economy/)
 - [Supercharged Valentine&#39;s Day auroras give Alaska-based polar lights chaser the night of his life &lpar;photos&rpar;](https://www.space.com/solar-storm-supercharged-alaska-auroras-valentines-day)
 - [Roku soars past revenue expectations as it bets on streaming devices to boost growth](https://techcrunch.com/2023/02/15/roku-q4-2023-earnings/)
-- [Comet C/2022 A2 &lpar;Pan-STARRS&rpar; passes close by the sun this weekend](https://www.space.com/comet-c2022-a2-pan-starrs-approaches-perihelion)
-- [Is the ‘exodus’ over? Here’s how Twitter alternatives have fared since Elon Musk’s acquisition](https://techcrunch.com/2023/02/15/is-the-exodus-over-heres-how-twitter-alternatives-have-fared-since-elon-musks-acquisition/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
