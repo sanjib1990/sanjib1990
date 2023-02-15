@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [You.com takes aim at Google and Microsoft with multimodal chat search](https://techcrunch.com/2023/02/15/you-com-takes-aim-at-google-and-microsoft-with-multimodal-chat-search/)
-- [Task complete! Perseverance Mars rover snaps photo of filled sample depot](https://www.space.com/mars-rover-perseverance-sample-depot-photo)
-- [Lego Star Wars AT-TE Walker review](https://www.space.com/lego-star-wars-at-te-walker-review-75337)
-- [IFC leads $17M investment in South African insurtech Naked](https://techcrunch.com/2023/02/15/ifc-leads-17m-investment-in-south-african-insurtech-naked/)
-- [Smartrr bags $10M for its customer experience approach to e-commerce subscriptions](https://techcrunch.com/2023/02/15/smartrr-e-commerce-subscriptions-series-a/)
+- [Superplastic, a creator of ‘synthetic’ influencers, raises $20M led by Amazon in deal to make TV shows and more](https://techcrunch.com/2023/02/15/superplastic-a-creator-of-synthetic-influencers-raises-20m-led-by-amazon-in-deal-to-make-tv-shows-and-more/)
+- [Caretakers, ageism and other topics venture needs to stop overlooking](https://techcrunch.com/2023/02/15/caretakers-ageism-and-other-topics-venture-needs-to-stop-overlooking/)
+- [Crypto index platform Alongside raises $11M led by a16z](https://techcrunch.com/2023/02/15/crypto-index-platform-alongside-raises-11m-led-by-a16z/)
+- [New satellite photos show surface cracks from devastating Turkey earthquake](https://www.space.com/turkey-earthquakes-damage-maxar-satellite-photos)
+- [Today’s TechCrunch Live: Why cybersecurity is still hiring and spending with Vanta and Sequoia](https://techcrunch.com/2023/02/15/todays-techcrunch-live-why-cybersecurity-is-still-hiring-and-spending-with-vanta-and-sequoia/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
