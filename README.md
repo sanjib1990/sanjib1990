@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Costanoa Ventures and Norrsken22 back Smile Identity in $20M Series B round](https://techcrunch.com/2023/02/15/costanoa-ventures-and-norrsken22-back-smile-identity-in-20m-series-b-round/)
 - [Battery recycling startup Cylib recharges its coffers to go faster](https://techcrunch.com/2023/02/15/cylib-seed-extension/)
 - [Google rolls out new features to make in-app browsers better on Android](https://techcrunch.com/2023/02/14/google-rolls-out-new-features-to-make-in-app-browsers-better-on-android/)
 - [China’s games industry shrinks for the first time in years](https://techcrunch.com/2023/02/14/china-gaming-industry-shrinks-first-time/)
 - [Korea’s Portlogics makes international shipping easier for merchants with its software tool](https://techcrunch.com/2023/02/14/koreas-portlogics-makes-international-shipping-easier-for-merchants-with-its-software-tool/)
-- [New Zealand Uber drivers begin collective bargaining for first time](https://techcrunch.com/2023/02/14/new-zealand-uber-drivers-begin-collective-bargaining-for-first-time/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
