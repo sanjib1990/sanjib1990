@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla agrees to double supercharger network, open to all EVs under Biden’s $7.5B charging plan](https://techcrunch.com/2023/02/15/tesla-agrees-to-double-supercharger-network-open-to-all-evs-under-bidens-7-5b-charging-plan/)
+- [Snap introduces ray tracing technology for its AR lenses to enhance realism](https://techcrunch.com/2023/02/15/snap-introduces-ray-tracing-technology-for-its-ar-lenses-to-enhance-realism/)
+- [Elegoo Neptune 3 Plus review: the total package](https://www.space.com/elegoo-neptune-3-plus-review)
+- [Axion Ray brings intelligence to manufacturing to find issues before they cause trouble](https://techcrunch.com/2023/02/15/axion-ray-brings-intelligence-to-manufacturing-to-find-issues-before-they-cause-trouble/)
 - [Superplastic, a creator of ‘synthetic’ influencers, raises $20M led by Amazon in deal to make TV shows and more](https://techcrunch.com/2023/02/15/superplastic-a-creator-of-synthetic-influencers-raises-20m-led-by-amazon-in-deal-to-make-tv-shows-and-more/)
-- [Caretakers, ageism and other topics venture needs to stop overlooking](https://techcrunch.com/2023/02/15/caretakers-ageism-and-other-topics-venture-needs-to-stop-overlooking/)
-- [Crypto index platform Alongside raises $11M led by a16z](https://techcrunch.com/2023/02/15/crypto-index-platform-alongside-raises-11m-led-by-a16z/)
-- [New satellite photos show surface cracks from devastating Turkey earthquake](https://www.space.com/turkey-earthquakes-damage-maxar-satellite-photos)
-- [Today’s TechCrunch Live: Why cybersecurity is still hiring and spending with Vanta and Sequoia](https://techcrunch.com/2023/02/15/todays-techcrunch-live-why-cybersecurity-is-still-hiring-and-spending-with-vanta-and-sequoia/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
