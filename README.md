@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New Zealand Uber drivers begin collective bargaining for first time](https://techcrunch.com/2023/02/14/new-zealand-uber-drivers-begin-collective-bargaining-for-first-time/)
+- [One faulty fuel filter scuttled Virgin Orbit’s big UK launch debut](https://techcrunch.com/2023/02/14/one-faulty-fuel-filter-scuttled-virgin-orbits-big-uk-launch-debut/)
+- [Virgin Orbit traces failed UK rocket launch to &#39;dislodged fuel filter&#39;](https://www.space.com/virgin-orbit-united-kingdom-flight-failure-cause)
+- [Tesla workers in New York launch a union campaign](https://techcrunch.com/2023/02/14/tesla-workers-in-new-york-launch-a-union-campaign/)
 - [Daily Crunch: Microsoft dumps Yammer and makes Viva Engage its preferred enterprise social platform](https://techcrunch.com/2023/02/14/daily-crunch-microsoft-dumps-yammer-and-makes-viva-engage-its-preferred-enterprise-social-platform/)
-- [Tubi reaches 64M monthly active users as ad-supported streaming grows](https://techcrunch.com/2023/02/14/tubi-reaches-64m-monthly-active-users-as-ad-supported-streaming-grows/)
-- [&#39;Star Trek Annual 2023&#39; is a holodeck trip through Trek history](https://www.space.com/star-trek-annual-2023-covers-idw-publishing)
-- [Targeted at commercial and military, hydrogen-powered drones are coming](https://techcrunch.com/2023/02/14/heven-drones-hydrogen/)
-- [Airbnb posts a record Q4 as travel recovers post-pandemic](https://techcrunch.com/2023/02/14/airbnb-posts-a-record-q4-as-travel-recovers-post-pandemic/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
