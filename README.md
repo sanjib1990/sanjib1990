@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [You.com takes aim at Google and Microsoft with multimodal chat search](https://techcrunch.com/2023/02/15/you-com-takes-aim-at-google-and-microsoft-with-multimodal-chat-search/)
+- [Task complete! Perseverance Mars rover snaps photo of filled sample depot](https://www.space.com/mars-rover-perseverance-sample-depot-photo)
+- [Lego Star Wars AT-TE Walker review](https://www.space.com/lego-star-wars-at-te-walker-review-75337)
 - [IFC leads $17M investment in South African insurtech Naked](https://techcrunch.com/2023/02/15/ifc-leads-17m-investment-in-south-african-insurtech-naked/)
 - [Smartrr bags $10M for its customer experience approach to e-commerce subscriptions](https://techcrunch.com/2023/02/15/smartrr-e-commerce-subscriptions-series-a/)
-- [Passwordless authentication startup Descope lands whopping $53M seed round](https://techcrunch.com/2023/02/15/passwordless-authentication-startup-descope-lands-whopping-53m-seed-round/)
-- [Mini astrobiology laser could join hunt for life on Mars and beyond](https://www.space.com/astrobiology-laser-hunt-alien-life)
-- [Yext hops on the generative AI train with Yext Chat, an enterprise-focused chatbot](https://techcrunch.com/2023/02/15/yext-hops-on-the-generative-ai-train-with-yext-chat-an-enterprise-focused-chatbot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
