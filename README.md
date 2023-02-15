@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla agrees to double supercharger network, open to all EVs under Biden’s $7.5B charging plan](https://techcrunch.com/2023/02/15/tesla-agrees-to-double-supercharger-network-open-to-all-evs-under-bidens-7-5b-charging-plan/)
-- [Snap introduces ray tracing technology for its AR lenses to enhance realism](https://techcrunch.com/2023/02/15/snap-introduces-ray-tracing-technology-for-its-ar-lenses-to-enhance-realism/)
-- [Elegoo Neptune 3 Plus review: the total package](https://www.space.com/elegoo-neptune-3-plus-review)
-- [Axion Ray brings intelligence to manufacturing to find issues before they cause trouble](https://techcrunch.com/2023/02/15/axion-ray-brings-intelligence-to-manufacturing-to-find-issues-before-they-cause-trouble/)
-- [Superplastic, a creator of ‘synthetic’ influencers, raises $20M led by Amazon in deal to make TV shows and more](https://techcrunch.com/2023/02/15/superplastic-a-creator-of-synthetic-influencers-raises-20m-led-by-amazon-in-deal-to-make-tv-shows-and-more/)
+- [Funga wants to accelerate carbon capture using belowground fungal biodiversity](https://techcrunch.com/2023/02/15/funga-mushroom-carbon-removal/)
+- [How the superfast flight of astronauts and fighter pilots changes their brains](https://www.space.com/astronaut-fighter-pilot-brain-changes-space)
+- [In a boost for the ‘metaverse,’ Roblox stock pops 25% after strong Q4 earnings](https://techcrunch.com/2023/02/15/in-a-boost-for-the-metaverse-roblox-stock-pops-25-after-strong-q4-earnings/)
+- [Instacart’s new features give shoppers more ways to earn on their own schedules](https://techcrunch.com/2023/02/15/instacarts-new-features-give-shoppers-on-its-platform-more-ways-to-earn/)
+- [What is the Nancy Grace Roman Space Telescope?](https://www.space.com/nancy-grace-roman-space-telescope)
 <!-- BLOG-POST-LIST:END -->
 
 ---
