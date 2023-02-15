@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Funga wants to accelerate carbon capture using belowground fungal biodiversity](https://techcrunch.com/2023/02/15/funga-mushroom-carbon-removal/)
-- [How the superfast flight of astronauts and fighter pilots changes their brains](https://www.space.com/astronaut-fighter-pilot-brain-changes-space)
-- [In a boost for the ‘metaverse,’ Roblox stock pops 25% after strong Q4 earnings](https://techcrunch.com/2023/02/15/in-a-boost-for-the-metaverse-roblox-stock-pops-25-after-strong-q4-earnings/)
-- [Instacart’s new features give shoppers more ways to earn on their own schedules](https://techcrunch.com/2023/02/15/instacarts-new-features-give-shoppers-on-its-platform-more-ways-to-earn/)
-- [What is the Nancy Grace Roman Space Telescope?](https://www.space.com/nancy-grace-roman-space-telescope)
+- [Apkudo, a platform for managing connected devices, raises $37.5M](https://techcrunch.com/2023/02/15/apkudo-a-platform-for-managing-connected-devices-raises-37-5m/)
+- [&#39;Star Trek: Picard&#39; Season 3 is almost upon us. What can we expect?](https://www.space.com/star-trek-picard-season-3-preview)
+- [Dear Sophie: Do I qualify for an E-1 trader visa?](https://techcrunch.com/2023/02/15/dear-sophie-do-i-qualify-for-an-e-1-trader-visa/)
+- [a16z, GV back Thatch in its effort to simplify health benefits for startups and their employees](https://techcrunch.com/2023/02/15/a16z-gv-back-thatch-in-its-effort-to-simplify-health-benefits-for-startups-and-their-employees/)
+- [Intuitive Machines’ post-SPAC war chest depleted by shareholder redemptions](https://techcrunch.com/2023/02/15/intuitive-machines-post-spac-war-chest-depleted-by-shareholder-redemptions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
