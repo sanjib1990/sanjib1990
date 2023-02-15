@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Oligo raises $28M to secure open-source libraries at runtime](https://techcrunch.com/2023/02/15/oligo-raises-28m-to-secure-open-source-libraries-at-runtime/)
+- [Sprinklr cuts 4% of global workforce amid slowdown](https://techcrunch.com/2023/02/15/sprinklr-layoffs-2023/)
 - [Chelyabinsk meteor explosion was a planetary defense wakeup call](https://www.space.com/chelyabinsk-meteor-explosion-ten-years-later)
 - [Here&#39;s how China&#39;s astronauts keep fit aboard Tiangong space station &lpar;video&rpar;](https://www.space.com/china-astronauts-exercise-tiangong-space-station-video)
 - [Sequoia-backed Bento wants be more than a link-in-bio tool for creators](https://techcrunch.com/2023/02/15/sequoia-backed-bento-wants-be-more-than-a-link-in-bio-tool-for-creators/)
-- [Costanoa Ventures and Norrsken22 back Smile Identity in $20M Series B round](https://techcrunch.com/2023/02/15/costanoa-ventures-and-norrsken22-back-smile-identity-in-20m-series-b-round/)
-- [Battery recycling startup Cylib recharges its coffers to go faster](https://techcrunch.com/2023/02/15/cylib-seed-extension/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
