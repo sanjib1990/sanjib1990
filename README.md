@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Oligo raises $28M to secure open-source libraries at runtime](https://techcrunch.com/2023/02/15/oligo-raises-28m-to-secure-open-source-libraries-at-runtime/)
-- [Sprinklr cuts 4% of global workforce amid slowdown](https://techcrunch.com/2023/02/15/sprinklr-layoffs-2023/)
-- [Chelyabinsk meteor explosion was a planetary defense wakeup call](https://www.space.com/chelyabinsk-meteor-explosion-ten-years-later)
-- [Here&#39;s how China&#39;s astronauts keep fit aboard Tiangong space station &lpar;video&rpar;](https://www.space.com/china-astronauts-exercise-tiangong-space-station-video)
-- [Sequoia-backed Bento wants be more than a link-in-bio tool for creators](https://techcrunch.com/2023/02/15/sequoia-backed-bento-wants-be-more-than-a-link-in-bio-tool-for-creators/)
+- [IFC leads $17M investment in South African insurtech Naked](https://techcrunch.com/2023/02/15/ifc-leads-17m-investment-in-south-african-insurtech-naked/)
+- [Smartrr bags $10M for its customer experience approach to e-commerce subscriptions](https://techcrunch.com/2023/02/15/smartrr-e-commerce-subscriptions-series-a/)
+- [Passwordless authentication startup Descope lands whopping $53M seed round](https://techcrunch.com/2023/02/15/passwordless-authentication-startup-descope-lands-whopping-53m-seed-round/)
+- [Mini astrobiology laser could join hunt for life on Mars and beyond](https://www.space.com/astrobiology-laser-hunt-alien-life)
+- [Yext hops on the generative AI train with Yext Chat, an enterprise-focused chatbot](https://techcrunch.com/2023/02/15/yext-hops-on-the-generative-ai-train-with-yext-chat-an-enterprise-focused-chatbot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
