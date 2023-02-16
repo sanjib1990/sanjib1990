@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Planetarians grabs $6M to get its plant-based protein into foodservice orbit](https://techcrunch.com/2023/02/16/planetarians-plant-based-protein-6-m/)
+- [NASA, HeroX need your help to simulate astronaut Mars missions](https://www.space.com/nasa-herox-mars-missions-virtual-reality-simulation-challenge)
+- [Zerocater raises $15M as demand heats up for flexible in-office food services](https://techcrunch.com/2023/02/16/zerocater-raises-15m-as-demand-heats-up-for-flexible-in-office-food-services/)
+- [5 buyer red flags to look for during the M&amp;A process](https://techcrunch.com/2023/02/16/5-buyer-red-flags-to-look-for-when-selling-your-startup/)
 - [Former Amazon, Starbucks exec launches Yelp-like platform to review and discover NFTs](https://techcrunch.com/2023/02/16/former-amazon-starbucks-exec-launches-yelp-like-platform-to-review-and-discover-nfts/)
-- [Everything we know about The Flash: release date, plot, trailers and more](https://www.space.com/everything-we-know-about-the-flash-release-date-plot-trailers)
-- [Physicists mimic gravity inside the sun using sound waves](https://www.space.com/physicists-mimic-sun-gravity-sound-waves)
-- [Hubble Space Telescope spies odd pair of galaxies near Big Dipper &lpar;photo&rpar;](https://www.space.com/hubble-space-telescope-two-galaxies-photo.html)
-- [Lightspeed backs CommandK’s mission to become the go-to enterprise security command center](https://techcrunch.com/2023/02/16/commandk-funding-lightspeed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
