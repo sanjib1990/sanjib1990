@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Planetarians grabs $6M to get its plant-based protein into foodservice orbit](https://techcrunch.com/2023/02/16/planetarians-plant-based-protein-6-m/)
-- [NASA, HeroX need your help to simulate astronaut Mars missions](https://www.space.com/nasa-herox-mars-missions-virtual-reality-simulation-challenge)
-- [Zerocater raises $15M as demand heats up for flexible in-office food services](https://techcrunch.com/2023/02/16/zerocater-raises-15m-as-demand-heats-up-for-flexible-in-office-food-services/)
-- [5 buyer red flags to look for during the M&amp;A process](https://techcrunch.com/2023/02/16/5-buyer-red-flags-to-look-for-when-selling-your-startup/)
-- [Former Amazon, Starbucks exec launches Yelp-like platform to review and discover NFTs](https://techcrunch.com/2023/02/16/former-amazon-starbucks-exec-launches-yelp-like-platform-to-review-and-discover-nfts/)
+- [Puzzle is building a modern accounting package for today’s API-enabled startups](https://techcrunch.com/2023/02/16/puzzle-is-building-a-modern-accounting-package-for-todays-api-enabled-startups/)
+- [&#39;Pristine&#39; meteorite contaminated with table salt upon crash landing on Earth](https://www.space.com/meteorite-contaminated-with-table-salt-upon-crash-landing-on-earth)
+- [Sequoia backs open source data-validation framework Pydantic to commercialize with cloud services](https://techcrunch.com/2023/02/16/sequoia-backs-open-source-data-validation-framework-pydantic-to-commercialize-with-cloud-services/)
+- [Meteorite found! Space rock from brilliant fireball over Europe located in France](https://www.space.com/meteorite-found-fireball-europe-february-16-2023)
+- [Consumers find chatbots disappointing, but that won’t harm adoption](https://techcrunch.com/2023/02/16/chatbots-adoption-customer-service/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
