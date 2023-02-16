@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronomers unravel how complex organic molecules form in deep space](https://www.space.com/how-complex-organic-molecules-form-deep-space)
+- [Neobank Vexi raises millions to offer young Mexicans lower interest rate credit cards](https://techcrunch.com/2023/02/16/fintech-neobank-vexi-raises-millions-to-offer-young-mexicans-lower-interst-rate-credit-cards/)
+- [Goldilocks zone: Everything you need to know about the habitable sweet spot](https://www.space.com/goldilocks-zone-habitable-area-life)
+- [TikTok to launch live ‘TikTok Trivia’ game with $500K in prize money](https://techcrunch.com/2023/02/16/tiktok-set-to-launch-tiktok-trivia-game/)
 - [Planetary defense: Protecting Earth from space-based threats](https://www.space.com/planetary-defense-explained)
-- [A comprehensive list of 2023 tech layoffs](https://techcrunch.com/2023/02/16/tech-industry-layoffs/)
-- [Tesla fires dozens of workers one day after launching union campaign](https://techcrunch.com/2023/02/16/tesla-fires-dozens-of-workers-one-day-after-launching-union-campaign/)
-- [Jumia laid off 20% of staff in Q4 2022 amid work to reduce losses by half this year](https://techcrunch.com/2023/02/16/jumia-laid-off-20-of-staff-in-q4-2022-amid-work-to-reduce-losses-by-half-this-year/)
-- [&#39;Star Trek: Picard&#39; Season 3 premiere is pure &#39;Next Generation&#39; nostalgia, for better or worse](https://www.space.com/star-trek-picard-s03-e01-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
