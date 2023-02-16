@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [German startup Kern AI nabs seed funding for modular NLP development platform](https://techcrunch.com/2023/02/16/german-startup-kern-ai-nabs-seed-funding-for-modular-nlp-development-platform/)
+- [Dash CEO placed on ‘indefinite administrative leave’ as the Insight-backed startup carries out financial audit](https://techcrunch.com/2023/02/16/dash-ceo-placed-on-indefinite-administrative-leave/)
 - [VivaCity raises at $42M valuation to make US cities safer, starting with New York](https://techcrunch.com/2023/02/16/vivacity-fundraise/)
 - [Wefunder’s equity crowdfunding platform has officially expanded to the EU](https://techcrunch.com/2023/02/15/wefunders-equity-crowdfunding-platform-has-officially-expanded-to-the-eu/)
 - [Brigad raises $30 million for its freelancer marketplace for hospitality and care workers](https://techcrunch.com/2023/02/15/brigad-raises-30-million-for-its-freelancer-marketplace-for-hospitality-and-care-workers/)
-- [If Sequoia, Paradigm and Thoma Bravo settle a new lawsuit, it could upend VC; here’s why](https://techcrunch.com/2023/02/15/settling-venture-capital/)
-- [Crypto exchange Binance expects to pay penalties to settle US investigations](https://techcrunch.com/2023/02/15/crypto-exchange-binance-expects-to-pay-penalties-to-settle-us-investigations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
