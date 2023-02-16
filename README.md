@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple TV+ unveils ‘Tetris’ movie trailer](https://techcrunch.com/2023/02/16/apple-tv-tetris-movie-trailer/)
+- [Tesla opening its Superchargers to all EVs might be a masterstroke — or a terrible mistake](https://techcrunch.com/2023/02/16/tesla-opening-its-superchargers-to-all-evs-might-be-a-masterstroke-or-a-terrible-mistake/)
+- [TikTok adds dedicated video feeds for sports, fashion, gaming and food](https://techcrunch.com/2023/02/16/tiktok-adds-dedicated-video-feeds-for-sports-fashion-gaming-and-food/)
+- [Ledge aims to build automation tools for finance teams](https://techcrunch.com/2023/02/16/ledge-aims-to-build-automation-tools-for-finance-teams/)
 - [Virgin Galactic carrier plane flies for 1st time since 2021](https://www.space.com/virgin-galactic-vms-eve-first-flight-since-2021)
-- [3 mystery objects shot down by US likely weren&#39;t spy craft, Biden says](https://www.space.com/mystery-objects-shot-down-not-spycraft-biden)
-- [The tech jobs market might not be as shaky as it feels](https://techcrunch.com/2023/02/16/jobs-layoffs-big-tech/)
-- [NFTs could give Bitcoin a facelift as it increases its blockchain demand](https://techcrunch.com/2023/02/16/nfts-could-give-bitcoin-a-face-lift-as-it-increases-demand-for-the-blockchain/)
-- [Black holes may be the source of mysterious dark energy](https://www.space.com/black-holes-create-dark-energy-first-evidence)
 <!-- BLOG-POST-LIST:END -->
 
 ---
