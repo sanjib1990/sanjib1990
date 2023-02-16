@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Former Amazon, Starbucks exec launches Yelp-like platform to review and discover NFTs](https://techcrunch.com/2023/02/16/former-amazon-starbucks-exec-launches-yelp-like-platform-to-review-and-discover-nfts/)
+- [Everything we know about The Flash: release date, plot, trailers and more](https://www.space.com/everything-we-know-about-the-flash-release-date-plot-trailers)
 - [Physicists mimic gravity inside the sun using sound waves](https://www.space.com/physicists-mimic-sun-gravity-sound-waves)
 - [Hubble Space Telescope spies odd pair of galaxies near Big Dipper &lpar;photo&rpar;](https://www.space.com/hubble-space-telescope-two-galaxies-photo.html)
 - [Lightspeed backs CommandK’s mission to become the go-to enterprise security command center](https://techcrunch.com/2023/02/16/commandk-funding-lightspeed/)
-- [Micro-EV subscription startup Dance pulls in another €12M from existing investors](https://techcrunch.com/2023/02/16/micro-ev-subscription-startup-dance-pulls-in-another-e12m-from-existing-investors/)
-- [South Korea boosts its AI chip industry with $642M amid ChatGPT frenzy](https://techcrunch.com/2023/02/16/south-korea-boosts-its-ai-chip-industry-with-642m-amid-chatgpt-frenzy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
