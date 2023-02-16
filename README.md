@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [VivaCity raises at $42M valuation to make US cities safer, starting with New York](https://techcrunch.com/2023/02/16/vivacity-fundraise/)
+- [Wefunder’s equity crowdfunding platform has officially expanded to the EU](https://techcrunch.com/2023/02/15/wefunders-equity-crowdfunding-platform-has-officially-expanded-to-the-eu/)
 - [Brigad raises $30 million for its freelancer marketplace for hospitality and care workers](https://techcrunch.com/2023/02/15/brigad-raises-30-million-for-its-freelancer-marketplace-for-hospitality-and-care-workers/)
 - [If Sequoia, Paradigm and Thoma Bravo settle a new lawsuit, it could upend VC; here’s why](https://techcrunch.com/2023/02/15/settling-venture-capital/)
 - [Crypto exchange Binance expects to pay penalties to settle US investigations](https://techcrunch.com/2023/02/15/crypto-exchange-binance-expects-to-pay-penalties-to-settle-us-investigations/)
-- [Twitter allows cannabis ads in states where it’s legal](https://techcrunch.com/2023/02/15/twitter-allows-cannabis-ads-in-states-where-its-legal/)
-- [SEC’s proposal could affect which crypto companies can manage assets](https://techcrunch.com/2023/02/15/sec-crypto-rules-custody-assets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
