@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NFTs could give Bitcoin a face lift as it increases its blockchain demand](https://techcrunch.com/2023/02/16/nfts-could-give-bitcoin-a-face-lift-as-it-increases-demand-for-the-blockchain/)
+- [Virgin Galactic carrier plane flies for 1st time since 2021](https://www.space.com/virgin-galactic-vms-eve-first-flight-since-2021)
+- [3 mystery objects shot down by US likely weren&#39;t spy craft, Biden says](https://www.space.com/mystery-objects-shot-down-not-spycraft-biden)
+- [The tech jobs market might not be as shaky as it feels](https://techcrunch.com/2023/02/16/jobs-layoffs-big-tech/)
+- [NFTs could give Bitcoin a facelift as it increases its blockchain demand](https://techcrunch.com/2023/02/16/nfts-could-give-bitcoin-a-face-lift-as-it-increases-demand-for-the-blockchain/)
 - [Black holes may be the source of mysterious dark energy](https://www.space.com/black-holes-create-dark-energy-first-evidence)
-- [Most sites claiming to catch AI-written text fail spectacularly](https://techcrunch.com/2023/02/16/most-sites-claiming-to-catch-ai-written-text-fail-spectacularly/)
-- [iOS 16.4 to bring 31 new emoji, including shaking face, pink heart, two pushing hands and more](https://techcrunch.com/2023/02/16/ios-16-4-to-bring-31-new-emoji-including-shaking-face-pink-heart-two-pushing-hands-and-more/)
-- [Autonomation](https://techcrunch.com/2023/02/16/autonomation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
