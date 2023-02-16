@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla recalls 362,758 vehicles over FSD beta software safety concerns](https://techcrunch.com/2023/02/16/tesla-recalls-362758-vehicles-over-fsd-beta-software-safety-concerns/)
-- [Ordinals creator views his Bitcoin-centric creation as ‘digital artifacts,’ not just NFTs](https://techcrunch.com/2023/02/16/ordinals-creator-views-his-bitcoin-centric-creation-as-digital-artifacts-not-just-nfts/)
-- [Instagram launches a new broadcast chat feature called ‘Channels’](https://techcrunch.com/2023/02/16/instagram-broadcast-chat-feature-channels/)
-- [YouTube CEO Susan Wojcicki steps down, will assume advisory role at Google and Alphabet](https://techcrunch.com/2023/02/16/youtube-ceo-susan-wojcicki-steps-down-will-assume-advisory-role-at-google-and-alphabet/)
-- [Convoy cuts more jobs as part of a restructuring](https://techcrunch.com/2023/02/16/trucking-app-convoy-layoffs-restructuring/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [Pitch Deck Teardown: Gaming monetization company Incymo AI’s $850K seed deck](https://techcrunch.com/2023/02/16/sample-seed-pitch-deck-incymo-ai/)
+- [NASA&#39;s heartbeat-detecting tech to help with Turkey earthquake relief effort](https://www.space.com/nasa-tech-helps-turkey-earthquake-rescue-effort)
+- [Snapchat announces 750 million monthly active users](https://techcrunch.com/2023/02/16/snapchat-announces-750-million-monthly-active-users/)
+- [NASA names moon mountain after Black mathematician and &#39;Hidden Figure&#39; Melba Mouton](https://www.space.com/nasa-artemis-3-potential-landing-site-melba-mouton-hidden-figures)
 <!-- BLOG-POST-LIST:END -->
 
 ---
