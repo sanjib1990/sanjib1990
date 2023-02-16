@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SEC’s proposal could affect which crypto companies can manage assets](https://techcrunch.com/2023/02/15/sec-crypto-rules-custody-assets/)
+- [Bing around and find out](https://techcrunch.com/2023/02/15/bing-around-and-find-out/)
 - [Daily Crunch: Generative AI search engine startup You.com adds multimodal chat](https://techcrunch.com/2023/02/15/daily-crunch-generative-ai-search-engine-startup-you-com-adds-multimodal-chat/)
 - [James Webb Space Telescope opens Pandora&#39;s Cluster in stunning image with help from Einstein &lpar;video&rpar;](https://www.space.com/james-webb-space-telescope-pandoras-cluster)
 - [When fundraising, anchor your company with the ‘why now?’ slide](https://techcrunch.com/2023/02/15/fundraising-timing-startups-gig-economy/)
-- [Supercharged Valentine&#39;s Day auroras give Alaska-based polar lights chaser the night of his life &lpar;photos&rpar;](https://www.space.com/solar-storm-supercharged-alaska-auroras-valentines-day)
-- [Roku soars past revenue expectations as it bets on streaming devices to boost growth](https://techcrunch.com/2023/02/15/roku-q4-2023-earnings/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
