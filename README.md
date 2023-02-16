@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SoftBank joins game-focused blockchain Oasys as validator](https://techcrunch.com/2023/02/16/softbank-joins-game-focused-blockchain-oasys-as-validator/)
+- [Firefox for Android gets extension for listening to articles and hiding email addresses](https://techcrunch.com/2023/02/16/firefox-for-android-gets-extension-for-listening-to-articles-and-hiding-email-addresses/)
 - [German startup Kern AI nabs seed funding for modular NLP development platform](https://techcrunch.com/2023/02/16/german-startup-kern-ai-nabs-seed-funding-for-modular-nlp-development-platform/)
 - [Dash CEO placed on ‘indefinite administrative leave’ as the Insight-backed startup carries out financial audit](https://techcrunch.com/2023/02/16/dash-ceo-placed-on-indefinite-administrative-leave/)
 - [VivaCity raises at $42M valuation to make US cities safer, starting with New York](https://techcrunch.com/2023/02/16/vivacity-fundraise/)
-- [Wefunder’s equity crowdfunding platform has officially expanded to the EU](https://techcrunch.com/2023/02/15/wefunders-equity-crowdfunding-platform-has-officially-expanded-to-the-eu/)
-- [Brigad raises $30 million for its freelancer marketplace for hospitality and care workers](https://techcrunch.com/2023/02/15/brigad-raises-30-million-for-its-freelancer-marketplace-for-hospitality-and-care-workers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
