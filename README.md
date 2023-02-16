@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [Pitch Deck Teardown: Gaming monetization company Incymo AI’s $850K seed deck](https://techcrunch.com/2023/02/16/sample-seed-pitch-deck-incymo-ai/)
-- [NASA&#39;s heartbeat-detecting tech to help with Turkey earthquake relief effort](https://www.space.com/nasa-tech-helps-turkey-earthquake-rescue-effort)
-- [Snapchat announces 750 million monthly active users](https://techcrunch.com/2023/02/16/snapchat-announces-750-million-monthly-active-users/)
-- [NASA names moon mountain after Black mathematician and &#39;Hidden Figure&#39; Melba Mouton](https://www.space.com/nasa-artemis-3-potential-landing-site-melba-mouton-hidden-figures)
+- [NFTs could give Bitcoin a face lift as it increases its blockchain demand](https://techcrunch.com/2023/02/16/nfts-could-give-bitcoin-a-face-lift-as-it-increases-demand-for-the-blockchain/)
+- [Black holes may be the source of mysterious dark energy](https://www.space.com/black-holes-create-dark-energy-first-evidence)
+- [Most sites claiming to catch AI-written text fail spectacularly](https://techcrunch.com/2023/02/16/most-sites-claiming-to-catch-ai-written-text-fail-spectacularly/)
+- [iOS 16.4 to bring 31 new emoji, including shaking face, pink heart, two pushing hands and more](https://techcrunch.com/2023/02/16/ios-16-4-to-bring-31-new-emoji-including-shaking-face-pink-heart-two-pushing-hands-and-more/)
+- [Autonomation](https://techcrunch.com/2023/02/16/autonomation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
