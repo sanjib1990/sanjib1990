@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Puzzle is building a modern accounting package for today’s API-enabled startups](https://techcrunch.com/2023/02/16/puzzle-is-building-a-modern-accounting-package-for-todays-api-enabled-startups/)
-- [&#39;Pristine&#39; meteorite contaminated with table salt upon crash landing on Earth](https://www.space.com/meteorite-contaminated-with-table-salt-upon-crash-landing-on-earth)
-- [Sequoia backs open source data-validation framework Pydantic to commercialize with cloud services](https://techcrunch.com/2023/02/16/sequoia-backs-open-source-data-validation-framework-pydantic-to-commercialize-with-cloud-services/)
-- [Meteorite found! Space rock from brilliant fireball over Europe located in France](https://www.space.com/meteorite-found-fireball-europe-february-16-2023)
-- [Consumers find chatbots disappointing, but that won’t harm adoption](https://techcrunch.com/2023/02/16/chatbots-adoption-customer-service/)
+- [Planetary defense: Protecting Earth from space-based threats](https://www.space.com/planetary-defense-explained)
+- [A comprehensive list of 2023 tech layoffs](https://techcrunch.com/2023/02/16/tech-industry-layoffs/)
+- [Tesla fires dozens of workers one day after launching union campaign](https://techcrunch.com/2023/02/16/tesla-fires-dozens-of-workers-one-day-after-launching-union-campaign/)
+- [Jumia laid off 20% of staff in Q4 2022 amid work to reduce losses by half this year](https://techcrunch.com/2023/02/16/jumia-laid-off-20-of-staff-in-q4-2022-amid-work-to-reduce-losses-by-half-this-year/)
+- [&#39;Star Trek: Picard&#39; Season 3 premiere is pure &#39;Next Generation&#39; nostalgia, for better or worse](https://www.space.com/star-trek-picard-s03-e01-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
