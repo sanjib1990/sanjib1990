@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Astronomers unravel how complex organic molecules form in deep space](https://www.space.com/how-complex-organic-molecules-form-deep-space)
-- [Neobank Vexi raises millions to offer young Mexicans lower interest rate credit cards](https://techcrunch.com/2023/02/16/fintech-neobank-vexi-raises-millions-to-offer-young-mexicans-lower-interst-rate-credit-cards/)
-- [Goldilocks zone: Everything you need to know about the habitable sweet spot](https://www.space.com/goldilocks-zone-habitable-area-life)
-- [TikTok to launch live ‘TikTok Trivia’ game with $500K in prize money](https://techcrunch.com/2023/02/16/tiktok-set-to-launch-tiktok-trivia-game/)
-- [Planetary defense: Protecting Earth from space-based threats](https://www.space.com/planetary-defense-explained)
+- [Tesla recalls 362,758 vehicles over FSD beta software safety concerns](https://techcrunch.com/2023/02/16/tesla-recalls-362758-vehicles-over-fsd-beta-software-safety-concerns/)
+- [Ordinals creator views his Bitcoin-centric creation as ‘digital artifacts,’ not just NFTs](https://techcrunch.com/2023/02/16/ordinals-creator-views-his-bitcoin-centric-creation-as-digital-artifacts-not-just-nfts/)
+- [Instagram launches a new broadcast chat feature called ‘Channels’](https://techcrunch.com/2023/02/16/instagram-broadcast-chat-feature-channels/)
+- [YouTube CEO Susan Wojcicki steps down, will assume advisory role at Google and Alphabet](https://techcrunch.com/2023/02/16/youtube-ceo-susan-wojcicki-steps-down-will-assume-advisory-role-at-google-and-alphabet/)
+- [Convoy cuts more jobs as part of a restructuring](https://techcrunch.com/2023/02/16/trucking-app-convoy-layoffs-restructuring/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
