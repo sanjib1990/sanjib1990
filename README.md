@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Crypto exchange Binance expects to pay penalties to settle US investigations](https://techcrunch.com/2023/02/15/crypto-exchange-binance-expects-to-pay-penalties-to-settle-us-investigations/)
 - [Twitter allows cannabis ads in states where it’s legal](https://techcrunch.com/2023/02/15/twitter-allows-cannabis-ads-in-states-where-its-legal/)
 - [SEC’s proposal could affect which crypto companies can manage assets](https://techcrunch.com/2023/02/15/sec-crypto-rules-custody-assets/)
 - [Bing around and find out](https://techcrunch.com/2023/02/15/bing-around-and-find-out/)
 - [Daily Crunch: Generative AI search engine startup You.com adds multimodal chat](https://techcrunch.com/2023/02/15/daily-crunch-generative-ai-search-engine-startup-you-com-adds-multimodal-chat/)
-- [James Webb Space Telescope opens Pandora&#39;s Cluster in stunning image with help from Einstein &lpar;video&rpar;](https://www.space.com/james-webb-space-telescope-pandoras-cluster)
 <!-- BLOG-POST-LIST:END -->
 
 ---
