@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Ch&lpar;e&rpar;at GPT? - Computerphile](https://www.youtube.com/watch?v=XZJc1p6RE78)
 - [Neovim in 100 Seconds](https://www.youtube.com/watch?v=c4OyfL5o7DU)
 - [Docker Crash Course for Absolute Beginners [NEW]](https://www.youtube.com/watch?v=pg19Z8LL06w)
 - [1-1: Introduction, Overview, and Syllabus for Game Design](https://www.youtube.com/watch?v=xHNIknabsRY)
 - [22. Changing Rules I](https://www.youtube.com/watch?v=VXQAhzat098)
-- [2-1: Meaningful Decisions in Gameplay](https://www.youtube.com/watch?v=S_fiR00UBGo)
 <!-- YOUTUBE:END -->
 
 ---
