@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SoftBank joins game-focused blockchain Oasys as validator](https://techcrunch.com/2023/02/16/softbank-joins-game-focused-blockchain-oasys-as-validator/)
-- [Firefox for Android gets extension for listening to articles and hiding email addresses](https://techcrunch.com/2023/02/16/firefox-for-android-gets-extension-for-listening-to-articles-and-hiding-email-addresses/)
-- [German startup Kern AI nabs seed funding for modular NLP development platform](https://techcrunch.com/2023/02/16/german-startup-kern-ai-nabs-seed-funding-for-modular-nlp-development-platform/)
-- [Dash CEO placed on ‘indefinite administrative leave’ as the Insight-backed startup carries out financial audit](https://techcrunch.com/2023/02/16/dash-ceo-placed-on-indefinite-administrative-leave/)
-- [VivaCity raises at $42M valuation to make US cities safer, starting with New York](https://techcrunch.com/2023/02/16/vivacity-fundraise/)
+- [Physicists mimic gravity inside the sun using sound waves](https://www.space.com/physicists-mimic-sun-gravity-sound-waves)
+- [Hubble Space Telescope spies odd pair of galaxies near Big Dipper &lpar;photo&rpar;](https://www.space.com/hubble-space-telescope-two-galaxies-photo.html)
+- [Lightspeed backs CommandK’s mission to become the go-to enterprise security command center](https://techcrunch.com/2023/02/16/commandk-funding-lightspeed/)
+- [Micro-EV subscription startup Dance pulls in another €12M from existing investors](https://techcrunch.com/2023/02/16/micro-ev-subscription-startup-dance-pulls-in-another-e12m-from-existing-investors/)
+- [South Korea boosts its AI chip industry with $642M amid ChatGPT frenzy](https://techcrunch.com/2023/02/16/south-korea-boosts-its-ai-chip-industry-with-642m-amid-chatgpt-frenzy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
