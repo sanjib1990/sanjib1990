@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The crescent moon meets up with Mercury tomorrow morning &lpar;Feb. 18&rpar;](https://www.space.com/moon-meets-mercury-feb-18-2023)
+- [Watch SpaceX&#39;s Crew-6 astronaut flight live online](https://www.space.com/spacex-crew-6-astronaut-flight-watch-live)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [Got product-market fit? Learn how to find it at TC Early Stage](https://techcrunch.com/2023/02/17/how-to-find-product-market-fit-techcrunch-early-stage-2023/)
 - [Tech layoffs are creating a new era of scrappy &lpar;and humbled&rpar; founders](https://techcrunch.com/2023/02/17/tech-layoffs-new-founders/)
-- [Why are there so few &#39;hot Neptune&#39; exoplanets?](https://www.space.com/why-so-few-hot-neptune-exoplanets)
-- [TechCrunch+ roundup: M&amp;A red flags, handling problematic CEOs, E-1 visa questions](https://techcrunch.com/2023/02/17/techcrunch-roundup-ma-red-flags-problematic-ceos-e-1-visa-questions/)
-- [Lyft is charging riders wait time fees — but drivers aren’t reaping the rewards](https://techcrunch.com/2023/02/17/lyft-is-charging-riders-wait-time-fees-but-drivers-arent-reaping-the-rewards/)
-- [More brands are now testing TikTok’s Shop feature in the U.S.](https://techcrunch.com/2023/02/17/more-brands-are-now-testing-tiktoks-shop-feature-in-the-u-s/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
