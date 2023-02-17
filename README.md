@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tech layoffs are creating a new era of scrappy &lpar;and humbled&rpar; founders](https://techcrunch.com/2023/02/17/tech-layoffs-new-founders/)
+- [Why are there so few &#39;hot Neptune&#39; exoplanets?](https://www.space.com/why-so-few-hot-neptune-exoplanets)
+- [TechCrunch+ roundup: M&amp;A red flags, handling problematic CEOs, E-1 visa questions](https://techcrunch.com/2023/02/17/techcrunch-roundup-ma-red-flags-problematic-ceos-e-1-visa-questions/)
+- [Lyft is charging riders wait time fees — but drivers aren’t reaping the rewards](https://techcrunch.com/2023/02/17/lyft-is-charging-riders-wait-time-fees-but-drivers-arent-reaping-the-rewards/)
 - [More brands are now testing TikTok’s Shop feature in the U.S.](https://techcrunch.com/2023/02/17/more-brands-are-now-testing-tiktoks-shop-feature-in-the-u-s/)
-- [See a bright Venus and Jupiter hold a celestial meeting in the night sky this month](https://www.space.com/venus-jupiter-celestial-meeting-february-2023)
-- [SpaceX faces a $175,000 fine for not submitting info ahead of a recent launch](https://techcrunch.com/2023/02/17/spacex-faces-a-175000-fine-for-not-submitting-info-ahead-of-a-recent-launch/)
-- [How to think about your competitor slide for your pitch deck](https://techcrunch.com/2023/02/17/competition-slide-pitch-deck/)
-- [Traeger’s latest pellet grill features improved hood &lpar;yay&rpar; and a touchscreen &lpar;nay&rpar;](https://techcrunch.com/2023/02/17/treagers-latest-pellet-grill-features-improved-hood-yay-and-a-touchscreen-nay/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
