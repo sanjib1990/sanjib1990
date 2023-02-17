@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Co-Creation Hub’s edtech accelerator puts $15M towards African startups](https://techcrunch.com/2023/02/17/co-creation-hubs-edtech-accelerator-puts-15m-towards-african-startups/)
+- [SEC charges Terraform Labs and founder Do Kwon with defrauding investors](https://techcrunch.com/2023/02/17/sec-charges-terraform-labs-and-founder-do-kwon-with-defrauding-investors/)
 - [Binance-backed web3 gaming startup Unagi gets funding to expand fantasy sports platform](https://techcrunch.com/2023/02/16/binance-backed-web3-gaming-startup-unagi-gets-funding-to-expand-fantasy-sports-platform/)
 - [Can ‘we the people’ keep AI in check?](https://techcrunch.com/2023/02/16/ai_governance/)
 - [Here are the features coming to iOS 16.4](https://techcrunch.com/2023/02/16/here-are-the-features-coming-to-ios-16-4/)
-- [ByteDance’s Slack-like tool generated $100M in 2022](https://techcrunch.com/2023/02/16/bytedance-slack-feishu-arr-milestone/)
-- [Japan&#39;s new H3 rocket aborts 1st-ever launch attempt](https://www.space.com/japan-h3-rocket-first-launch-attempt-abort)
 <!-- BLOG-POST-LIST:END -->
 
 ---
