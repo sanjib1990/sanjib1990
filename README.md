@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [James Webb Space Telescope spies baby stars dancing in swirling gas and dust &lpar;photos&rpar;](https://www.space.com/james-webb-space-telescope-image-young-stars-ngc-1433)
+- [SpaceX launches 51 Starlink satellites, lands rocket on ship at sea &lpar;video&rpar;](https://www.space.com/spacex-launch-starlink-group-2-5)
+- [Balloon expert explains the challenges of shooting down China’s suspected spy balloon](https://techcrunch.com/2023/02/17/balloon-expert-explains-the-challenges-of-shooting-down-chinas-suspected-spy-balloon/)
+- [Taking Ultrahuman’s sleep &amp; fitness tracking Ring for a spin](https://techcrunch.com/2023/02/17/ultrahuman-ring-review/)
 - [The crescent moon meets up with Mercury tomorrow morning &lpar;Feb. 18&rpar;](https://www.space.com/moon-meets-mercury-feb-18-2023)
-- [Watch SpaceX&#39;s Crew-6 astronaut flight live online](https://www.space.com/spacex-crew-6-astronaut-flight-watch-live)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [Got product-market fit? Learn how to find it at TC Early Stage](https://techcrunch.com/2023/02/17/how-to-find-product-market-fit-techcrunch-early-stage-2023/)
-- [Tech layoffs are creating a new era of scrappy &lpar;and humbled&rpar; founders](https://techcrunch.com/2023/02/17/tech-layoffs-new-founders/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
