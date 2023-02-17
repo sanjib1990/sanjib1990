@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ByteDance’s Slack-like tool generated $100M in 2022](https://techcrunch.com/2023/02/16/bytedance-slack-feishu-arr-milestone/)
 - [Japan&#39;s new H3 rocket aborts 1st-ever launch attempt](https://www.space.com/japan-h3-rocket-first-launch-attempt-abort)
 - [The entire fintech industry is not in distress – here’s who is hiring](https://techcrunch.com/2023/02/16/the-entire-fintech-industry-is-not-in-distress-heres-who-is-hiring/)
 - [Singapore-based Transcelestial uses lasers to build affordable internet networks](https://techcrunch.com/2023/02/16/transcelestial/)
 - [Toyota Research Institute’s robots leave home](https://techcrunch.com/2023/02/16/toyota-research-institutes-robots-leave-home/)
-- [Pass the grass: How Plantd aims to decarbonize new buildings](https://techcrunch.com/2023/02/16/pass-the-grass-how-plantd-aims-to-decarbonize-new-buildings/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
