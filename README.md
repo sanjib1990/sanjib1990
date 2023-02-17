@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rare red auroras explode over America&#39;s and Europe&#39;s north, and more are on their way](https://www.space.com/rare-red-aurora-explodes-more-on-the-way)
+- [Doomsday Glacier melting in Antarctica means terrible news for global sea level rise](https://www.space.com/antarctica-doomsday-glacier-melts-in-treacherous-ways)
 - [Mystery object shot down over Yukon may have been harmless &#39;pico balloon&#39;](https://www.space.com/mystery-object-shot-down-yukon-amateur-ballloon)
 - [SpaceX astronaut missions for NASA: Crew-6 updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates)
 - [FTC’s new Office of Technology will help mop up tech ‘oozing with snake oil’](https://techcrunch.com/2023/02/17/ftcs-new-office-of-technology-will-help-mop-up-tech-oozing-with-snake-oil/)
-- [James Webb Space Telescope spies baby stars dancing in swirling gas and dust &lpar;photos&rpar;](https://www.space.com/james-webb-space-telescope-image-young-stars-ngc-1433)
-- [SpaceX launches 51 Starlink satellites, lands rocket on ship at sea &lpar;video&rpar;](https://www.space.com/spacex-launch-starlink-group-2-5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
