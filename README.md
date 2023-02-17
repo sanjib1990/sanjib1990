@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Disney’s Hotstar suffers outage in an apparent domain renewal mess](https://techcrunch.com/2023/02/17/disney-hotstar-glitches-due-to-domain-renewal-issue/)
+- [Autonomous cargo drone airline Dronamics reveals it’s raised $40M, pre-Series A](https://techcrunch.com/2023/02/17/autonomous-cargo-drone-airline-dronamics-reveals-its-raised-40m-pre-series-a/)
 - [Co-Creation Hub’s edtech accelerator puts $15M towards African startups](https://techcrunch.com/2023/02/17/co-creation-hubs-edtech-accelerator-puts-15m-towards-african-startups/)
 - [SEC charges Terraform Labs and founder Do Kwon with defrauding investors](https://techcrunch.com/2023/02/17/sec-charges-terraform-labs-and-founder-do-kwon-with-defrauding-investors/)
 - [Binance-backed web3 gaming startup Unagi gets funding to expand fantasy sports platform](https://techcrunch.com/2023/02/16/binance-backed-web3-gaming-startup-unagi-gets-funding-to-expand-fantasy-sports-platform/)
-- [Can ‘we the people’ keep AI in check?](https://techcrunch.com/2023/02/16/ai_governance/)
-- [Here are the features coming to iOS 16.4](https://techcrunch.com/2023/02/16/here-are-the-features-coming-to-ios-16-4/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
