@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Artemis 1 moon launch was as loud as 40 million bowls of Rice Krispies: study](https://www.space.com/artemis-1-sls-moon-launch-sound-levels)
+- [Outsized seed rounds, neobanks and spicy M&amp;A? Well hello, 2023](https://techcrunch.com/2023/02/17/outsized-seed-rounds-neobanks-and-spicy-ma-well-hello-2023/)
 - [Higher egg prices yield demand for alternatives](https://techcrunch.com/2023/02/17/higher-egg-prices-yield-demand-for-alternatives/)
+- [Uranus up close: What proposed NASA &#39;ice giant&#39; mission could teach us](https://www.space.com/nasa-uranus-orbiter-and-probe-mission-objectives)
 - [Ingenuity helicopter aces 43rd Mars flight, its longest in 10 months](https://www.space.com/mars-helicopter-ingenuity-43rd-red-planet-flight)
-- [Atlassian and Envoy briefly blame each other for data breach](https://techcrunch.com/2023/02/17/atlassian-and-envoy-briefly-blame-each-other-for-data-breach/)
-- [5 product management tips that can help startups thrive in 2023](https://techcrunch.com/2023/02/17/5-product-management-tips-that-can-help-startups-thrive-in-2023/)
-- [Binoculars deal spotted: 34% off Celestron Nature DX ED 8x42](https://www.space.com/celestron-nature-dx-8x42-binoculars-deal-save-34-percent)
 <!-- BLOG-POST-LIST:END -->
 
 ---
