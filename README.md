@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mystery object shot down over Yukon may have been harmless &#39;pico balloon&#39;](https://www.space.com/mystery-object-shot-down-yukon-amateur-ballloon)
+- [SpaceX astronaut missions for NASA: Crew-6 updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates)
+- [FTC’s new Office of Technology will help mop up tech ‘oozing with snake oil’](https://techcrunch.com/2023/02/17/ftcs-new-office-of-technology-will-help-mop-up-tech-oozing-with-snake-oil/)
 - [James Webb Space Telescope spies baby stars dancing in swirling gas and dust &lpar;photos&rpar;](https://www.space.com/james-webb-space-telescope-image-young-stars-ngc-1433)
 - [SpaceX launches 51 Starlink satellites, lands rocket on ship at sea &lpar;video&rpar;](https://www.space.com/spacex-launch-starlink-group-2-5)
-- [Balloon expert explains the challenges of shooting down China’s suspected spy balloon](https://techcrunch.com/2023/02/17/balloon-expert-explains-the-challenges-of-shooting-down-chinas-suspected-spy-balloon/)
-- [Taking Ultrahuman’s sleep &amp; fitness tracking Ring for a spin](https://techcrunch.com/2023/02/17/ultrahuman-ring-review/)
-- [The crescent moon meets up with Mercury tomorrow morning &lpar;Feb. 18&rpar;](https://www.space.com/moon-meets-mercury-feb-18-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
