@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Higher egg prices yield demand for alternatives](https://techcrunch.com/2023/02/17/higher-egg-prices-yield-demand-for-alternatives/)
 - [Ingenuity helicopter aces 43rd Mars flight, its longest in 10 months](https://www.space.com/mars-helicopter-ingenuity-43rd-red-planet-flight)
 - [Atlassian and Envoy briefly blame each other for data breach](https://techcrunch.com/2023/02/17/atlassian-and-envoy-briefly-blame-each-other-for-data-breach/)
 - [5 product management tips that can help startups thrive in 2023](https://techcrunch.com/2023/02/17/5-product-management-tips-that-can-help-startups-thrive-in-2023/)
 - [Binoculars deal spotted: 34% off Celestron Nature DX ED 8x42](https://www.space.com/celestron-nature-dx-8x42-binoculars-deal-save-34-percent)
-- [Lance Bass once tried to go to space. His new podcast &#39;The Last Soviet&#39; heads back with a famed cosmonaut. &lpar;exclusive video&rpar;](https://www.space.com/nsync-lass-bass-canceled-space-mission-podcast)
 <!-- BLOG-POST-LIST:END -->
 
 ---
