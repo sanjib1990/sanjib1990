@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The entire fintech industry is not in distress – here’s who is hiring](https://techcrunch.com/2023/02/16/the-entire-fintech-industry-is-not-in-distress-heres-who-is-hiring/)
 - [Singapore-based Transcelestial uses lasers to build affordable internet networks](https://techcrunch.com/2023/02/16/transcelestial/)
 - [Toyota Research Institute’s robots leave home](https://techcrunch.com/2023/02/16/toyota-research-institutes-robots-leave-home/)
 - [Pass the grass: How Plantd aims to decarbonize new buildings](https://techcrunch.com/2023/02/16/pass-the-grass-how-plantd-aims-to-decarbonize-new-buildings/)
 - [Daily Crunch: Dash board temporarily suspends CEO as company investigates financial impropriety](https://techcrunch.com/2023/02/16/daily-crunch-dash-board-temporarily-suspends-ceo-as-company-investigates-financial-impropriety/)
-- [Apple TV+ unveils ‘Tetris’ movie trailer](https://techcrunch.com/2023/02/16/apple-tv-tetris-movie-trailer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
