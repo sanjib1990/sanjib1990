@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [FBI confirms it’s investigating a cyber incident on its own network](https://techcrunch.com/2023/02/17/fbi-confirms-its-investigating-a-cyber-incident-on-its-own-network/)
-- [&#39;Hello Tomorrow!&#39; offers a darker look at life on the moon](https://www.space.com/hello-tomorrow-premiere-apple-tv-plus)
-- [Artemis 1 moon launch was as loud as 40 million bowls of Rice Krispies: study](https://www.space.com/artemis-1-sls-moon-launch-sound-levels)
-- [Outsized seed rounds, neobanks and spicy M&amp;A? Well hello, 2023](https://techcrunch.com/2023/02/17/outsized-seed-rounds-neobanks-and-spicy-ma-well-hello-2023/)
-- [Higher egg prices yield demand for alternatives](https://techcrunch.com/2023/02/17/higher-egg-prices-yield-demand-for-alternatives/)
+- [More brands are now testing TikTok’s Shop feature in the U.S.](https://techcrunch.com/2023/02/17/more-brands-are-now-testing-tiktoks-shop-feature-in-the-u-s/)
+- [See a bright Venus and Jupiter hold a celestial meeting in the night sky this month](https://www.space.com/venus-jupiter-celestial-meeting-february-2023)
+- [SpaceX faces a $175,000 fine for not submitting info ahead of a recent launch](https://techcrunch.com/2023/02/17/spacex-faces-a-175000-fine-for-not-submitting-info-ahead-of-a-recent-launch/)
+- [How to think about your competitor slide for your pitch deck](https://techcrunch.com/2023/02/17/competition-slide-pitch-deck/)
+- [Traeger’s latest pellet grill features improved hood &lpar;yay&rpar; and a touchscreen &lpar;nay&rpar;](https://techcrunch.com/2023/02/17/treagers-latest-pellet-grill-features-improved-hood-yay-and-a-touchscreen-nay/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
