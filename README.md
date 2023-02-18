@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch a comet make its 1st and final pass by the sun this weekend](https://www.space.com/comet-c2022-a2-pan-starrs-perhelion-feb-19-2023)
+- [Happy anniversary, Perseverance! NASA rover marks 2 years on Mars](https://www.space.com/mars-rover-perseverance-two-year-landing-anniversary)
 - [Roblox wants to let people build virtual worlds just by typing](https://techcrunch.com/2023/02/17/roblox-studio-generative-ai/)
 - [Daily Crunch: Dronamics lands $40M pre-Series A for cargo drones that ‘can cross all of Europe in 12 hours or less’](https://techcrunch.com/2023/02/17/daily-crunch-dronamics-lands-40m-pre-series-a-for-cargo-drones-that-can-cross-all-of-europe-in-12-hours-or-less/)
 - [&#39;Fantastic Voyage&#39; and &#39;One Million Years B.C.&#39; star Raquel Welch dies at 82](https://www.space.com/raquel-welch-obituary-fantastic-voyage)
-- [Rare red auroras explode over America&#39;s and Europe&#39;s north, and more are on their way](https://www.space.com/rare-red-aurora-explodes-more-on-the-way)
-- [Doomsday Glacier melting in Antarctica means terrible news for global sea level rise](https://www.space.com/antarctica-doomsday-glacier-melts-in-treacherous-ways)
 <!-- BLOG-POST-LIST:END -->
 
 ---
