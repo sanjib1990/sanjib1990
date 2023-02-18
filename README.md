@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dry powder versus wet powder: The numbers have spoken](https://techcrunch.com/2023/02/18/bridge-rounds-carta-report/)
 - [How to keep your Twitter secure without giving Elon Musk any money](https://techcrunch.com/2023/02/18/how-to-keep-twitter-secure-two-factor/)
 - [New auroras detected on Jupiter&#39;s four largest moons](https://www.space.com/auroras-jupiter-four-largest-moons)
 - [Russian Progress cargo ship undocks from space station despite coolant leak](https://www.space.com/russian-progress-82-cargo-ship-undocks-after-leak)
 - [Leonardo da Vinci&#39;s lost sketches show early experiments to understand gravity](https://www.space.com/leonardo-da-vinci-sketches-gravity-experiments)
-- [Instrument on NASA&#39;s Parker Solar Probe switches off unexpectedly](https://www.space.com/parker-solar-probe-epi-hi-instrument-glitch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
