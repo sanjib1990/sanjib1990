@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Week in Apps: Twitter alternative winners and losers, BeReal declines, iOS web apps to get notifications](https://techcrunch.com/2023/02/18/this-week-in-apps-twitter-alternative-winners-and-losers-bereal-declines-ios-web-apps-to-get-notifications/)
 - [Dry powder versus wet powder: The numbers have spoken](https://techcrunch.com/2023/02/18/bridge-rounds-carta-report/)
 - [How to keep your Twitter secure without giving Elon Musk any money](https://techcrunch.com/2023/02/18/how-to-keep-twitter-secure-two-factor/)
 - [New auroras detected on Jupiter&#39;s four largest moons](https://www.space.com/auroras-jupiter-four-largest-moons)
 - [Russian Progress cargo ship undocks from space station despite coolant leak](https://www.space.com/russian-progress-82-cargo-ship-undocks-after-leak)
-- [Leonardo da Vinci&#39;s lost sketches show early experiments to understand gravity](https://www.space.com/leonardo-da-vinci-sketches-gravity-experiments)
 <!-- BLOG-POST-LIST:END -->
 
 ---
