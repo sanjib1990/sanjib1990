@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Russian Progress cargo ship undocks from space station despite coolant leak](https://www.space.com/russian-progress-82-cargo-ship-undocks-after-leak)
+- [Leonardo da Vinci&#39;s lost sketches show early experiments to understand gravity](https://www.space.com/leonardo-da-vinci-sketches-gravity-experiments)
 - [Instrument on NASA&#39;s Parker Solar Probe switches off unexpectedly](https://www.space.com/parker-solar-probe-epi-hi-instrument-glitch)
 - [Sun unleashes massive X2-class solar flare during geomagnetic storm watch &lpar;video&rpar;](https://www.space.com/sun-unleashes-x2-solar-flare-video)
 - [Watch a comet make its 1st and final pass by the sun this weekend](https://www.space.com/comet-c2022-a2-pan-starrs-perhelion-feb-19-2023)
-- [Happy anniversary, Perseverance! NASA rover marks 2 years on Mars](https://www.space.com/mars-rover-perseverance-two-year-landing-anniversary)
-- [Roblox wants to let people build virtual worlds just by typing](https://techcrunch.com/2023/02/17/roblox-studio-generative-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
