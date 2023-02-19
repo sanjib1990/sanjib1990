@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Your MVP doesn’t need to be perfect; it needs to be stage appropriate](https://techcrunch.com/2023/02/19/stage-appropriate-mvps-investors-founders/)
+- [China to send 2 astronaut crews, 1 cargo ship to Tiangong space station this year](https://www.space.com/china-tiangong-space-station-plans-2023)
+- [Layoffs spell opportunity for some fintech startups](https://techcrunch.com/2023/02/19/whos-hiring-in-the-world-of-fintech/)
 - [Hidden lights on the sun could help crack solar atmosphere mystery](https://www.space.com/image-nustar-high-energy-x-ray-heating-corona)
 - [Meet the SpaceX Crew-6 astronauts launching to the International Space Station on Feb. 26](https://www.space.com/meet-spacex-crew-dragon-crew-6-astronauts)
-- [Space debris apocalypse: 6 objects that could wreak havoc in Earth&#39;s orbit](https://www.space.com/most-dangerous-types-space-junk)
-- [Chinese asteroid-detection system enters new phase of construction](https://www.space.com/china-asteroid-detection-system-construction-progress)
-- [Surprise! Colliding neutron stars create perfectly spherical &#39;kilonova&#39; explosions](https://www.space.com/colliding-neutron-stars-spherical-kilonova-explosions)
 <!-- BLOG-POST-LIST:END -->
 
 ---
