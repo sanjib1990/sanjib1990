@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Chinese asteroid-detection system enters new phase of construction](https://www.space.com/china-asteroid-detection-system-construction-progress)
+- [Surprise! Colliding neutron stars create perfectly spherical &#39;kilonova&#39; explosions](https://www.space.com/colliding-neutron-stars-spherical-kilonova-explosions)
 - [iOS gains new emoji, Showtime joins a pricier Paramount+, and Instagram launches Channels](https://techcrunch.com/2023/02/18/ios-gains-new-emoji-showtime-joins-a-pricier-paramount-and-instagram-launches-channels/)
 - [Toyota Research Institute SVP on the difficulty of building the perfect home robot](https://techcrunch.com/2023/02/18/toyota-research-institute-svp-on-the-difficulty-of-building-the-perfect-home-robot/)
 - [Tech’s next great mafia? Laid-off talent](https://techcrunch.com/2023/02/18/techs-next-great-mafia-laid-off-talent/)
-- [This Week in Apps: Twitter alternative winners and losers, BeReal declines, iOS web apps to get notifications](https://techcrunch.com/2023/02/18/this-week-in-apps-twitter-alternative-winners-and-losers-bereal-declines-ios-web-apps-to-get-notifications/)
-- [Dry powder versus wet powder: The numbers have spoken](https://techcrunch.com/2023/02/18/bridge-rounds-carta-report/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
