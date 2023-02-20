@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Last call to apply to pitch at TechCrunch’s &lpar;virtual&rpar; event in Boston](https://techcrunch.com/2023/02/20/last-call-to-apply-to-pitch-at-techcrunchs-virtual-event-in-boston/)
 - [Very Large Telescope photographs its lightest ever exoplanet](https://www.space.com/very-large-telescope-photographs-lightest-ever-exoplanet)
 - [Hong Kong shows desire to be crypto hub with new regulation](https://techcrunch.com/2023/02/20/hong-kong-crypto-regulation/)
 - [TikTok launches a revamped creator fund called the ‘Creativity Program’ in beta](https://techcrunch.com/2023/02/20/tiktok-revamped-creator-fund-creativity-program-beta/)
 - [Deliver Us Mars: Are we there yet? Red Planet game takes patience and dexterity](https://www.space.com/deliver-us-mars-game-takes-patience-and-dexterity)
-- [February&#39;s new moon makes this a great night to view the Winter Triangle](https://www.space.com/new-moon-february-20-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
