@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Very Large Telescope photographs its lightest ever exoplanet](https://www.space.com/very-large-telescope-photographs-lightest-ever-exoplanet)
+- [Hong Kong shows desire to be crypto hub with new regulation](https://techcrunch.com/2023/02/20/hong-kong-crypto-regulation/)
 - [TikTok launches a revamped creator fund called the ‘Creativity Program’ in beta](https://techcrunch.com/2023/02/20/tiktok-revamped-creator-fund-creativity-program-beta/)
 - [Deliver Us Mars: Are we there yet? Red Planet game takes patience and dexterity](https://www.space.com/deliver-us-mars-game-takes-patience-and-dexterity)
 - [February&#39;s new moon makes this a great night to view the Winter Triangle](https://www.space.com/new-moon-february-20-2023)
-- [These are the biggest French startups in 2023 according to the French government](https://techcrunch.com/2023/02/20/these-are-the-biggest-french-startups-in-2023-according-to-the-french-government/)
-- [Tesla battles with union organizers, Zoox hits the road and Zeekr scores more capital](https://techcrunch.com/2023/02/20/tesla-battles-with-union-organizers-zoox-hits-the-road-and-zeekr-scores-more-capital/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
