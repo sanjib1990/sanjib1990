@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Hubble Space Telescope spots three galaxies about to collide](https://www.space.com/hubble-spots-three-galaxies-about-to-collide)
 - [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [China silent on fate of Zhurong Mars rover on 2nd anniversary of Tianwen 1 mission](https://www.space.com/china-silent-zhurong-mars-rover-tianwen-1)
 - [Kerbal Space Program 2 makes it easier than ever to launch — and crash —  rockets &lpar;exclusive 1st look video&rpar;](https://www.space.com/kerbal-space-program-2-first-look-video-exclusive)
 - [Asteroid targeted by NASA&#39;s Lucy spacecraft gets a marvelous name](https://www.space.com/lucy-first-target-asteroid-gets-a-name)
-- [Former astronaut Chris Cassidy raises hand for My Hand My Cause photo](https://www.space.com/astronaut-chris-cassidy-my-hand-my-cause-charity)
 <!-- BLOG-POST-LIST:END -->
 
 ---
