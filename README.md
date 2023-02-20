@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jumba, a Kenyan startup simplifying sourcing of construction supplies, raises $4.5M](https://techcrunch.com/2023/02/19/jumba-a-kenyan-startup-simplifying-sourcing-of-construction-supplies-raises-4-5m/)
 - [Carbon Maps helps the food industry reduce their climate impact](https://techcrunch.com/2023/02/19/carbon-maps-helps-the-food-industry-reduce-their-climate-impact/)
 - [Inside SyFy&#39;s &#39;The Ark&#39;: Creator Dean Devlin on his spirited new sci-fi survival series &lpar;exclusive&rpar;](https://www.space.com/the-ark-syfy-series-creator-dean-devlin-interview)
 - [Meta to sell blue badge on Instagram and Facebook as Zuckerberg borrows Musk’s playbook](https://techcrunch.com/2023/02/19/meta-verified-instagram-facebook/)
 - [Your MVP doesn’t need to be perfect; it needs to be stage appropriate](https://techcrunch.com/2023/02/19/stage-appropriate-mvps-investors-founders/)
-- [China to send 2 astronaut crews, 1 cargo ship to Tiangong space station this year](https://www.space.com/china-tiangong-space-station-plans-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
