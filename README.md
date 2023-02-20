@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [February&#39;s new moon makes this a great night to view the Winter Triangle](https://www.space.com/new-moon-february-20-2023)
+- [These are the biggest French startups in 2023 according to the French government](https://techcrunch.com/2023/02/20/these-are-the-biggest-french-startups-in-2023-according-to-the-french-government/)
+- [Tesla battles with union organizers, Zoox hits the road and Zeekr scores more capital](https://techcrunch.com/2023/02/20/tesla-battles-with-union-organizers-zoox-hits-the-road-and-zeekr-scores-more-capital/)
+- [3 tips for CEOs planning to take parental leave](https://techcrunch.com/2023/02/20/3-tips-for-ceos-planning-to-take-parental-leave/)
 - [On This Day In Space: Feb. 20, 1962: John Glenn becomes 1st American to orbit Earth](https://www.space.com/39251-on-this-day-in-space.html)
-- [Event Horizon Telescope spies a black hole powering a super bright monster object](https://www.space.com/event-horizon-telescope-sees-black-hole-quasar)
-- [Hubble telescope captures dazzling stellar duo in Orion Nebula &lpar;photo&rpar;](https://www.space.com/dazzling-stellar-duo-orion-nebula-hubble-photo)
-- [Japan’s central bank to pilot digital currency starting in April](https://techcrunch.com/2023/02/20/japans-central-bank-to-pilot-digital-currency-starting-in-april/)
-- [WhatsApp for iOS gets picture-in-picture feature for video calls](https://techcrunch.com/2023/02/20/whatsapp-for-ios-gets-picture-in-picture-feature-for-video-calls/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
