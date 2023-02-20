@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [On This Day In Space: Feb. 20, 1962: John Glenn becomes 1st American to orbit Earth](https://www.space.com/39251-on-this-day-in-space.html)
 - [Event Horizon Telescope spies a black hole powering a super bright monster object](https://www.space.com/event-horizon-telescope-sees-black-hole-quasar)
 - [Hubble telescope captures dazzling stellar duo in Orion Nebula &lpar;photo&rpar;](https://www.space.com/dazzling-stellar-duo-orion-nebula-hubble-photo)
 - [Japan’s central bank to pilot digital currency starting in April](https://techcrunch.com/2023/02/20/japans-central-bank-to-pilot-digital-currency-starting-in-april/)
 - [WhatsApp for iOS gets picture-in-picture feature for video calls](https://techcrunch.com/2023/02/20/whatsapp-for-ios-gets-picture-in-picture-feature-for-video-calls/)
-- [Quell’s gamified home fitness tech drums up $10M](https://techcrunch.com/2023/02/20/quells-gamified-home-fitness-tech-drums-up-10m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
