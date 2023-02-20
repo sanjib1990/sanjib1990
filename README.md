@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Event Horizon Telescope spies a black hole powering a super bright monster object](https://www.space.com/event-horizon-telescope-sees-black-hole-quasar)
+- [Hubble telescope captures dazzling stellar duo in Orion Nebula &lpar;photo&rpar;](https://www.space.com/dazzling-stellar-duo-orion-nebula-hubble-photo)
+- [Japan’s central bank to pilot digital currency starting in April](https://techcrunch.com/2023/02/20/japans-central-bank-to-pilot-digital-currency-starting-in-april/)
 - [WhatsApp for iOS gets picture-in-picture feature for video calls](https://techcrunch.com/2023/02/20/whatsapp-for-ios-gets-picture-in-picture-feature-for-video-calls/)
 - [Quell’s gamified home fitness tech drums up $10M](https://techcrunch.com/2023/02/20/quells-gamified-home-fitness-tech-drums-up-10m/)
-- [Chipper Cash executes second round of layoffs less than three months after axing 12.5% of staff](https://techcrunch.com/2023/02/20/chipper-cash-executes-second-round-of-layoffs-less-than-three-months-after-axing-12-5-of-staff/)
-- [Jumba, a Kenyan startup simplifying sourcing of construction supplies, raises $4.5M](https://techcrunch.com/2023/02/19/jumba-a-kenyan-startup-simplifying-sourcing-of-construction-supplies-raises-4-5m/)
-- [Carbon Maps helps the food industry reduce their climate impact](https://techcrunch.com/2023/02/19/carbon-maps-helps-the-food-industry-reduce-their-climate-impact/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
