@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Accel, Square Peg back Chronicle’s tool for presentations that won’t put you to sleep](https://techcrunch.com/2023/02/21/chronicle/)
+- [YC-backed HR-payroll provider Workpay raises $2.7M to scale in Africa](https://techcrunch.com/2023/02/21/yc-backed-hr-payroll-provider-workpay-raises-2-7m-to-scale-in-africa/)
+- [SaaS leaders: Use customer insights to accelerate growth during a downturn](https://techcrunch.com/2023/02/21/saas-leaders-use-customer-insights-to-accelerate-growth-during-a-downturn/)
 - [Agtech startup Green Labs is the latest Korean startup to lay off employees](https://techcrunch.com/2023/02/21/agtech-startup-green-labs-is-the-latest-korean-startup-to-lay-off-employees/)
 - [Oddly shaped asteroid once considered an impact risk for Earth races past the planet](https://www.space.com/empire-state-building-asteroid-races-past-earth)
-- [Video: Solar Orbiter catches Mercury crossing sun&#39;s disk](https://www.space.com/solar-orbiter-spots-mercury-transit-sun)
-- [Kempus wants to be the ultimate app for sharing college hacks](https://techcrunch.com/2023/02/21/kempus-online-student-community/)
-- [AeroCloud, a cloud-native airport management platform, raises $12.6M](https://techcrunch.com/2023/02/20/aerocloud-a-cloud-native-airport-management-platform-raises-12-6m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
