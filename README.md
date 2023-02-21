@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Green comet seen from space by Artemis 1 moon mission cubesat &lpar;video&rpar;](https://www.space.com/japanaese-moon-cubesat-sees-green-comet-C2022E3-video)
+- [Activision did not notify employees of data breach for months](https://techcrunch.com/2023/02/21/activision-did-not-notify-employees-of-data-breach-for-months/)
 - [Meta Quest users can now tap and swipe in VR without controllers](https://techcrunch.com/2023/02/21/meta-quest-users-can-now-tap-and-swipe-in-vr-without-controllers/)
 - [VCs should want to hold early-stage companies more accountable](https://techcrunch.com/2023/02/21/early-stage-companies-accountably/)
 - [&#39;Ant-Man and the Wasp: Quantumania&#39; drops the Marvel Universe down a subatomic rabbit hole](https://www.space.com/ant-man-and-the-wasp-quantumania-marvel-review)
-- [SpaceX Crew-6 astronauts arrive at NASA spaceport for Feb. 26 launch](https://www.space.com/spacex-crew-6-arrive-nasa-kennedy-space-center-feb-26-launch)
-- [TechCrunch+ roundup: Optimizing acquisition, parental leave tips, riding the downturn express](https://techcrunch.com/2023/02/21/techcrunch-roundup-optimizing-acquisition-parental-leave-tips-riding-the-downturn-express/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
