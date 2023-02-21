@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tracksuit raises $5M to make brand tracking more accessible](https://techcrunch.com/2023/02/21/tracksuit-raises-5m-to-make-brand-tracking-more-accessible/)
+- [Daily Crunch: Pentagon locks down unsecured email server that exposed sensitive military data](https://techcrunch.com/2023/02/21/daily-crunch-pentagon-locks-down-unsecured-email-server-that-exposed-sensitive-military-data/)
+- [Elon Musk suggests Twitter could open source its algorithm ‘next week’](https://techcrunch.com/2023/02/21/elon-musk-suggests-twitter-could-open-source-its-algorithm-next-week/)
+- [Soylent acquired by Starco Brands as nutrition company shifts into its ‘natural next stage’](https://techcrunch.com/2023/02/21/soylent-acquired-starco-brands-nutrition/)
 - [Digging into Coinbase’s better-than-expected Q4 results](https://techcrunch.com/2023/02/21/coinbases-better-than-expected-fourth-quarter-results/)
-- [YouTube Music’s latest feature lets users create custom radio stations](https://techcrunch.com/2023/02/21/youtube-musics-create-custom-radio-stations/)
-- [Starry files for bankruptcy](https://techcrunch.com/2023/02/21/starry-files-for-bankruptcy/)
-- [Science fiction publishers are being flooded with AI-generated stories](https://techcrunch.com/2023/02/21/clarkesworld-ai-generated-submissions/)
-- [Arcimoto promises new 3-wheeled EVs will steer better as it ramps up 2023 deliveries](https://techcrunch.com/2023/02/21/arcimoto-promises-new-3-wheeled-evs-will-steer-better-as-it-ramps-up-2023-deliveries/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
