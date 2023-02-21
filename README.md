@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX Dragon capsule arrives at launch site for Feb. 26 astronaut liftoff &lpar;photos&rpar;](https://www.space.com/spacex-crew-6-dragon-capsule-arrives-launch-site)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [3 questions for Coinbase as we count down to its Q4 earnings](https://techcrunch.com/2023/02/21/coinbase-earnings-q4-2023/)
-- [Inside Startup Battlefield: Making the Pitch Perfect](https://techcrunch.com/2023/02/21/inside-startup-battlefield-making-the-pitch-perfect/)
-- [Tumblr iOS revenue increased 125% since launching its parody of paid verification](https://techcrunch.com/2023/02/21/tumblr-ios-revenue-increased-125-since-launching-its-parody-of-paid-verification/)
+- [Meta Quest users can now tap and swipe in VR without controllers](https://techcrunch.com/2023/02/21/meta-quest-users-can-now-tap-and-swipe-in-vr-without-controllers/)
+- [VCs should want to hold early-stage companies more accountable](https://techcrunch.com/2023/02/21/early-stage-companies-accountably/)
+- [&#39;Ant-Man and the Wasp: Quantumania&#39; drops the Marvel Universe down a subatomic rabbit hole](https://www.space.com/ant-man-and-the-wasp-quantumania-marvel-review)
+- [SpaceX Crew-6 astronauts arrive at NASA spaceport for Feb. 26 launch](https://www.space.com/spacex-crew-6-arrive-nasa-kennedy-space-center-feb-26-launch)
+- [TechCrunch+ roundup: Optimizing acquisition, parental leave tips, riding the downturn express](https://techcrunch.com/2023/02/21/techcrunch-roundup-optimizing-acquisition-parental-leave-tips-riding-the-downturn-express/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
