@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX Dragon capsule arrives at launch site for Feb. 26 astronaut liftoff &lpar;photos&rpar;](https://www.space.com/spacex-crew-6-dragon-capsule-arrives-launch-site)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [3 questions for Coinbase as we count down to its Q4 earnings](https://techcrunch.com/2023/02/21/coinbase-earnings-q4-2023/)
 - [Inside Startup Battlefield: Making the Pitch Perfect](https://techcrunch.com/2023/02/21/inside-startup-battlefield-making-the-pitch-perfect/)
 - [Tumblr iOS revenue increased 125% since launching its parody of paid verification](https://techcrunch.com/2023/02/21/tumblr-ios-revenue-increased-125-since-launching-its-parody-of-paid-verification/)
-- [Amazon’s AWS cozies up to carriers, launches 2 services to build and operate networks in the cloud](https://techcrunch.com/2023/02/21/amazons-aws-cozies-up-to-carriers-launches-2-services-to-build-and-operate-networks-in-the-cloud/)
-- [UAE astronaut on SpaceX Crew-6 mission will spend Ramadan in space](https://www.space.com/united-arab-emirates-long-duration-astronaut-ramadan)
-- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
