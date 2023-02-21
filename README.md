@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX astronaut missions for NASA: Crew-6 updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates)
-- [Vast acquires Launcher in quest to build artificial gravity space stations](https://techcrunch.com/2023/02/21/vast-acquires-launcher-in-quest-to-build-artificial-gravity-space-stations/)
-- [Watch SpaceX&#39;s Crew-6 astronaut flight live online](https://www.space.com/spacex-crew-6-astronaut-flight-watch-live)
-- [5 key metrics that help edtech startups improve profitability](https://techcrunch.com/2023/02/21/5-key-metrics-that-help-edtech-startups-improve-profitability/)
-- [Accel, Square Peg back Chronicle’s tool for presentations that won’t put you to sleep](https://techcrunch.com/2023/02/21/chronicle/)
+- [Russia to launch replacement Soyuz to space station on Thursday &lpar;Feb. 23&rpar;](https://www.space.com/russia-soyuz-replacement-ms-23-international-space-station-february-23)
+- [Watch the moon meet Venus and Jupiter in the sky on Wednesday with free livestream](https://www.space.com/new-moon-venus-jupiter-conjunction-feb-2023)
+- [AI-powered crypto search engine Kaito raises $5.3M to improve browsing with AI, ChatGPT](https://techcrunch.com/2023/02/21/ai-powered-crypto-search-engine-kaito-raises-5-3m-to-improve-browsing-with-ai-chatgpt/)
+- [Swap’s robotic mowers score $7M in seed funding](https://techcrunch.com/2023/02/21/swaps-robotic-mowers-score-7m-in-seed-funding/)
+- [Lime reports first profitable year, tests the waters for IPO](https://techcrunch.com/2023/02/21/lime-reports-first-profitable-year-tests-the-waters-for-ipo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
