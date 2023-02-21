@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Strive gets backing from Y Combinator to show kids that coding is fun](https://techcrunch.com/2023/02/20/strive/)
 - [Max Q: Only a matter of time](https://techcrunch.com/2023/02/20/max-q-only-a-matter-of-time/)
 - [U.K. quantum computing startup Quantum Motion raises $50.5M](https://techcrunch.com/2023/02/20/u-k-quantum-computing-startup-quantum-motion-raises-50-5m/)
 - [NHTSA requests info after Tesla crashes into fire truck](https://techcrunch.com/2023/02/20/nhtsa-requests-info-after-tesla-crashes-into-fire-truck/)
 - [The Hubble Space Telescope spots three galaxies about to collide](https://www.space.com/hubble-spots-three-galaxies-about-to-collide)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
