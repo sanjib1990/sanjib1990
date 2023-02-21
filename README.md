@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Signs of Mars life may be too elusive for rovers to detect](https://www.space.com/mars-life-hunt-difficulties-sample-return)
-- [Current Surgical is developing a ‘smart’ needle designed to treat cancerous tumors](https://techcrunch.com/2023/02/21/current-surgical-is-developing-a-smart-needle-designed-to-treat-cancerous-tumors/)
-- [Hackers allegedly steal Activision games and employee data](https://techcrunch.com/2023/02/21/hackers-allegedly-steal-activision-games-and-employee-data/)
-- [TikTok expands its research API to nonprofit academic institutions in the U.S.](https://techcrunch.com/2023/02/21/tiktok-expands-its-research-api-to-nonprofit-academic-institutions-in-the-u-s/)
-- [Coinbase says some employees’ information stolen by hackers](https://techcrunch.com/2023/02/21/0ktapus-coinbase-stolen-employees-information/)
+- [Amazon’s AWS cozies up to carriers, launches 2 services to build and operate networks in the cloud](https://techcrunch.com/2023/02/21/amazons-aws-cozies-up-to-carriers-launches-2-services-to-build-and-operate-networks-in-the-cloud/)
+- [UAE&#39;s 1st long-duration astronaut will spend Ramadan in space](https://www.space.com/united-arab-emirates-long-duration-astronaut-ramadan)
+- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
+- [Amazon backs Indian meat startup FreshToHome in $104 million funding](https://techcrunch.com/2023/02/21/amazon-freshtohome-india/)
+- [Nestment raises $3.5M to help friends and family buy homes together](https://techcrunch.com/2023/02/21/nestment-raises-3-5m-in-pre-seed-funding-to-allow-friends-and-family-to-co-buy-homes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
