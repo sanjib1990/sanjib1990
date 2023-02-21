@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX astronaut missions for NASA: Crew-6 updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates)
+- [Vast acquires Launcher in quest to build artificial gravity space stations](https://techcrunch.com/2023/02/21/vast-acquires-launcher-in-quest-to-build-artificial-gravity-space-stations/)
+- [Watch SpaceX&#39;s Crew-6 astronaut flight live online](https://www.space.com/spacex-crew-6-astronaut-flight-watch-live)
+- [5 key metrics that help edtech startups improve profitability](https://techcrunch.com/2023/02/21/5-key-metrics-that-help-edtech-startups-improve-profitability/)
 - [Accel, Square Peg back Chronicle’s tool for presentations that won’t put you to sleep](https://techcrunch.com/2023/02/21/chronicle/)
-- [YC-backed HR-payroll provider Workpay raises $2.7M to scale in Africa](https://techcrunch.com/2023/02/21/yc-backed-hr-payroll-provider-workpay-raises-2-7m-to-scale-in-africa/)
-- [SaaS leaders: Use customer insights to accelerate growth during a downturn](https://techcrunch.com/2023/02/21/saas-leaders-use-customer-insights-to-accelerate-growth-during-a-downturn/)
-- [Agtech startup Green Labs is the latest Korean startup to lay off employees](https://techcrunch.com/2023/02/21/agtech-startup-green-labs-is-the-latest-korean-startup-to-lay-off-employees/)
-- [Oddly shaped asteroid once considered an impact risk for Earth races past the planet](https://www.space.com/empire-state-building-asteroid-races-past-earth)
 <!-- BLOG-POST-LIST:END -->
 
 ---
