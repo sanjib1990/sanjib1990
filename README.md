@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Ch&lpar;e&rpar;at GPT? - Computerphile](https://www.youtube.com/watch?v=XZJc1p6RE78)
-- [Neovim in 100 Seconds](https://www.youtube.com/watch?v=c4OyfL5o7DU)
-- [Docker Crash Course for Absolute Beginners [NEW]](https://www.youtube.com/watch?v=pg19Z8LL06w)
-- [1-1: Introduction, Overview, and Syllabus for Game Design](https://www.youtube.com/watch?v=xHNIknabsRY)
-- [22. Changing Rules I](https://www.youtube.com/watch?v=VXQAhzat098)
+- [Lecture 4: Computational Illumination: dual photography, relighting - Part 1](https://www.youtube.com/watch?v=2QZUwB6F6Zw)
+- [Lecture 8: Project ideas discussion](https://www.youtube.com/watch?v=hnAqRae1nTM)
+- [Lecture 6: Recent research: BiDi Screen](https://www.youtube.com/watch?v=wbI3VXsOJ6k)
+- [Lecture 5: Recent research: Retrographic Sensing for the Measurement of Surface Texture and Shape](https://www.youtube.com/watch?v=LP085DG79lU)
+- [Lecture 8: Wavelengths and colors](https://www.youtube.com/watch?v=wHeJbvRoj00)
 <!-- YOUTUBE:END -->
 
 ---
