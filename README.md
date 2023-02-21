@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Oddly shaped asteroid once considered an impact risk for Earth races past the planet](https://www.space.com/empire-state-building-asteroid-races-past-earth)
+- [Video: Solar Orbiter catches Mercury crossing sun&#39;s disk](https://www.space.com/solar-orbiter-spots-mercury-transit-sun)
+- [Kempus wants to be the ultimate app for sharing college hacks](https://techcrunch.com/2023/02/21/kempus-online-student-community/)
 - [AeroCloud, a cloud-native airport management platform, raises $12.6M](https://techcrunch.com/2023/02/20/aerocloud-a-cloud-native-airport-management-platform-raises-12-6m/)
 - [India and Singapore link UPI and PayNow in cross-border payments push](https://techcrunch.com/2023/02/20/india-singapore-upi-paynow/)
-- [Strive gets backing from Y Combinator to show kids that coding is fun](https://techcrunch.com/2023/02/20/strive/)
-- [Max Q: Only a matter of time](https://techcrunch.com/2023/02/20/max-q-only-a-matter-of-time/)
-- [U.K. quantum computing startup Quantum Motion raises $50.5M](https://techcrunch.com/2023/02/20/u-k-quantum-computing-startup-quantum-motion-raises-50-5m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
