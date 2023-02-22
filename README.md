@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [European VC firms Amadeus and Apex partner for €80m early-stage ‘deep tech’ fund](https://techcrunch.com/2023/02/21/european-vc-firms-amadeus-and-apex-partner-for-e80m-early-stage-deep-tech-fund/)
+- [Supreme Court arguments this week could reshape the future of the internet](https://techcrunch.com/2023/02/21/supreme-court-section-230-gonzalez-v-google/)
+- [SignalFire’s founder says his VC firm lost staffers who “thought we were too cheap” in prior years](https://techcrunch.com/2023/02/21/signalfire-900million-vc/)
 - [Twitter will send a notification when a tweet you replied to or retweeted gets a Community Note](https://techcrunch.com/2023/02/21/twitter-will-send-a-notification-when-a-tweet-you-replied-to-or-retweeted-gets-a-community-note/)
 - [OpenAI’s Foundry will let customers buy dedicated compute to run its AI models](https://techcrunch.com/2023/02/21/openai-foundry-will-let-customers-buy-dedicated-capacity-to-run-its-ai-models/)
-- [WhatsApp said to plot a newsletter play](https://techcrunch.com/2023/02/21/whatsapp-newsletter/)
-- [What to expect from Tesla’s long-awaited FSD version 11](https://techcrunch.com/2023/02/21/what-to-expect-from-teslas-long-awaited-fsd-version-11/)
-- [SpaceX, NASA delay Crew-6 astronaut launch to Feb. 27](https://www.space.com/spacex-crew-6-astronaut-mission-launch-delay-feb-27)
 <!-- BLOG-POST-LIST:END -->
 
 ---
