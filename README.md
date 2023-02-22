@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch Russia launch replacement Soyuz to International Space Station on Thursday &lpar;Feb. 23&rpar;](https://www.space.com/russia-replacement-soyuz-ms-23-webcast)
+- [See the moon and Venus dance together in Wednesday evening&#39;s sky](https://www.space.com/moon-venus-appulse-conjunction-february-22-2023)
+- [Baidu to deploy conversational AI across search, in-car entertainment and more](https://techcrunch.com/2023/02/22/baidu-chatgpt/)
 - [South African car subscription service Planet42 raises $100M equity, debt](https://techcrunch.com/2023/02/22/south-african-car-subscription-service-planet42-raises-100m-equity-debt/)
 - [Meta Verified won’t let you change name, username or profile photo for now](https://techcrunch.com/2023/02/22/meta-verified-wont-let-you-change-name-username-or-profile-photo-for-now/)
-- [European VC firms Amadeus and Apex partner for €80m early-stage ‘deep tech’ fund](https://techcrunch.com/2023/02/21/european-vc-firms-amadeus-and-apex-partner-for-e80m-early-stage-deep-tech-fund/)
-- [Supreme Court arguments this week could reshape the future of the internet](https://techcrunch.com/2023/02/21/supreme-court-section-230-gonzalez-v-google/)
-- [SignalFire’s founder says his VC firm lost staffers who “thought we were too cheap” in prior years](https://techcrunch.com/2023/02/21/signalfire-900million-vc/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
