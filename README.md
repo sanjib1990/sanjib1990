@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mars helicopter Ingenuity’s historic 1st flights shed light on Martian dust dynamics](https://www.space.com/mars-helicopter-ingenuity-flights-dust-dynamics)
+- [Microsoft brings the new AI-powered Bing to mobile and Skype, gives it a voice](https://techcrunch.com/2023/02/22/microsoft-brings-the-new-ai-powered-bing-to-mobile-and-skype/)
+- [Klarna wins over the US](https://techcrunch.com/2023/02/22/fintech-klarna-ceo-on-u-s-growth-momentum/)
+- [Finch lands $40M to connect disparate HR systems with a single API](https://techcrunch.com/2023/02/22/finch-lands-40m-to-connect-disparate-hr-systems-with-a-single-api/)
 - [For Black founders and investors, ringing Nasdaq’s opening bell symbolizes progress](https://techcrunch.com/2023/02/22/black-founders-investors-nasdaq-bell/)
-- [Uber redesigns app for simpler, more personalized experience](https://techcrunch.com/2023/02/22/uber-redesigns-app-for-simpler-more-personalized-experience/)
-- [In the wake of shadows: the legacy of Babylon 5](https://www.space.com/in-the-wake-of-shadows-the-legacy-of-babylon-5)
-- [Watch Russia launch replacement Soyuz to International Space Station on Thursday &lpar;Feb. 23&rpar;](https://www.space.com/russia-replacement-soyuz-ms-23-webcast)
-- [See the moon and Venus dance together in Wednesday evening&#39;s sky](https://www.space.com/moon-venus-appulse-conjunction-february-22-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
