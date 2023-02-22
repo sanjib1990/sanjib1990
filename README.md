@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [For Black founders and investors, ringing Nasdaq’s opening bell symbolizes progress](https://techcrunch.com/2023/02/22/black-founders-investors-nasdaq-bell/)
+- [Uber redesigns app for simpler, more personalized experience](https://techcrunch.com/2023/02/22/uber-redesigns-app-for-simpler-more-personalized-experience/)
+- [In the wake of shadows: the legacy of Babylon 5](https://www.space.com/in-the-wake-of-shadows-the-legacy-of-babylon-5)
 - [Watch Russia launch replacement Soyuz to International Space Station on Thursday &lpar;Feb. 23&rpar;](https://www.space.com/russia-replacement-soyuz-ms-23-webcast)
 - [See the moon and Venus dance together in Wednesday evening&#39;s sky](https://www.space.com/moon-venus-appulse-conjunction-february-22-2023)
-- [Baidu to deploy conversational AI across search, in-car entertainment and more](https://techcrunch.com/2023/02/22/baidu-chatgpt/)
-- [South African car subscription service Planet42 raises $100M equity, debt](https://techcrunch.com/2023/02/22/south-african-car-subscription-service-planet42-raises-100m-equity-debt/)
-- [Meta Verified won’t let you change name, username or profile photo for now](https://techcrunch.com/2023/02/22/meta-verified-wont-let-you-change-name-username-or-profile-photo-for-now/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
