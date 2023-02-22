@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [South African car subscription service Planet42 raises $100M equity, debt](https://techcrunch.com/2023/02/22/south-african-car-subscription-service-planet42-raises-100m-equity-debt/)
+- [Meta Verified won’t let you change name, username or profile photo for now](https://techcrunch.com/2023/02/22/meta-verified-wont-let-you-change-name-username-or-profile-photo-for-now/)
 - [European VC firms Amadeus and Apex partner for €80m early-stage ‘deep tech’ fund](https://techcrunch.com/2023/02/21/european-vc-firms-amadeus-and-apex-partner-for-e80m-early-stage-deep-tech-fund/)
 - [Supreme Court arguments this week could reshape the future of the internet](https://techcrunch.com/2023/02/21/supreme-court-section-230-gonzalez-v-google/)
 - [SignalFire’s founder says his VC firm lost staffers who “thought we were too cheap” in prior years](https://techcrunch.com/2023/02/21/signalfire-900million-vc/)
-- [Twitter will send a notification when a tweet you replied to or retweeted gets a Community Note](https://techcrunch.com/2023/02/21/twitter-will-send-a-notification-when-a-tweet-you-replied-to-or-retweeted-gets-a-community-note/)
-- [OpenAI’s Foundry will let customers buy dedicated compute to run its AI models](https://techcrunch.com/2023/02/21/openai-foundry-will-let-customers-buy-dedicated-capacity-to-run-its-ai-models/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
