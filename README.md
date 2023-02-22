@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA rover snaps photos of ancient &#39;waves&#39; carved into Mars mountainside](https://www.space.com/nasa-rover-snaps-photos-of-ancient-waves-carved-into-mars-mountainside)
 - [Security researchers warn of a new class of Apple bugs](https://techcrunch.com/2023/02/22/security-researchers-warn-of-new-class-of-apple-bugs/)
 - [Meta is internally testing a BeReal-like ‘Roll Call’ feature in Messenger](https://techcrunch.com/2023/02/22/meta-internally-testing-bereal-roll-call-feature-messenger/)
 - [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [SpaceX will attempt 1st Starship orbital flight in March: report](https://www.space.com/spacex-starship-first-orbital-launch-march-confirmed)
-- [Mercedes partners with Google to bring Maps and YouTube into its vehicles](https://techcrunch.com/2023/02/22/mercedes-google-maps-youtube/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
