@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [S4:E4: Opening Computer Science to Everyone with Chancellor Eric Grimson](https://www.youtube.com/watch?v=Ad4HmoAkgBo)
 - [Lecture 4: Computational Illumination: dual photography, relighting - Part 1](https://www.youtube.com/watch?v=2QZUwB6F6Zw)
 - [Lecture 8: Project ideas discussion](https://www.youtube.com/watch?v=hnAqRae1nTM)
 - [Lecture 6: Recent research: BiDi Screen](https://www.youtube.com/watch?v=wbI3VXsOJ6k)
 - [Lecture 5: Recent research: Retrographic Sensing for the Measurement of Surface Texture and Shape](https://www.youtube.com/watch?v=LP085DG79lU)
-- [Lecture 8: Wavelengths and colors](https://www.youtube.com/watch?v=wHeJbvRoj00)
 <!-- YOUTUBE:END -->
 
 ---
