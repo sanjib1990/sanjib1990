@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Blue Origin makes solar cells out of simulated moon dirt with &#39;alchemist&#39; project](https://www.space.com/blue-origin-solar-cells-moon-dirt-simulant)
-- [Female check-writers alone aren’t enough to close the female fundraising gap, data shows](https://techcrunch.com/2023/02/22/female-check-writers-alone-arent-enough-to-close-the-female-fundraising-gap-data-shows/)
-- [Tencent is finally joining the web3 wild west](https://techcrunch.com/2023/02/22/tencent-is-finally-joining-the-web3-wild-west/)
-- [How to watch SpaceX&#39;s Crew-6 astronaut launch live online](https://www.space.com/spacex-crew-6-astronaut-flight-watch-live)
-- [Intel slashes dividend by nearly two-thirds to shore up cash as chip giant braces for a tough year](https://techcrunch.com/2023/02/22/intel-slashes-divdend-by-two-thirds-to-shore-up-cash/)
+- [Samsung debuts a Bixby feature that creates an AI-generated copy of a user’s voice to answer calls](https://techcrunch.com/2023/02/22/samsung-bixby-feature-creates-ai-generated-copy-users-voice-answer-calls/)
+- [Future Fields is turning fruit flies into bioreactors](https://techcrunch.com/2023/02/22/future-fields-fruit-flies-bioreactors/)
+- [The James Webb Space Telescope discovers enormous distant galaxies that should not exist](https://www.space.com/james-webb-space-telescope-giant-distant-galaxies-surprise)
+- [Webb Observes a Globular Cluster Sparkling with Separate Stars](https://blogs.nasa.gov/webb/2023/02/22/webb-observes-a-globular-cluster-sparkling-with-separate-stars/)
+- [Build online branding to fuel startup success](https://techcrunch.com/2023/02/22/startup-success-online-branding-techcrunch-early-stage-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
