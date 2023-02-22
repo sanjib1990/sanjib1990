@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX, NASA delay Crew-6 astronaut launch to Feb. 27](https://www.space.com/spacex-crew-6-astronaut-mission-launch-delay-feb-27)
+- [Colliding black holes &#39;ring&#39; across space-time with gravitational wave ripples](https://www.space.com/black-hole-collisions-spacetime-ring-non-linear-effects)
 - [Tracksuit raises $5M to make brand tracking more accessible](https://techcrunch.com/2023/02/21/tracksuit-raises-5m-to-make-brand-tracking-more-accessible/)
 - [Daily Crunch: Pentagon locks down unsecured email server that exposed sensitive military data](https://techcrunch.com/2023/02/21/daily-crunch-pentagon-locks-down-unsecured-email-server-that-exposed-sensitive-military-data/)
 - [Elon Musk suggests Twitter could open source its algorithm ‘next week’](https://techcrunch.com/2023/02/21/elon-musk-suggests-twitter-could-open-source-its-algorithm-next-week/)
-- [Soylent acquired by Starco Brands as nutrition company shifts into its ‘natural next stage’](https://techcrunch.com/2023/02/21/soylent-acquired-starco-brands-nutrition/)
-- [Digging into Coinbase’s better-than-expected Q4 results](https://techcrunch.com/2023/02/21/coinbases-better-than-expected-fourth-quarter-results/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
