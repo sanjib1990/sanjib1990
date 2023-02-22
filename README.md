@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Security researchers warn of a new class of Apple bugs](https://techcrunch.com/2023/02/22/security-researchers-warn-of-new-class-of-apple-bugs/)
+- [Meta is internally testing a BeReal-like ‘Roll Call’ feature in Messenger](https://techcrunch.com/2023/02/22/meta-internally-testing-bereal-roll-call-feature-messenger/)
 - [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [SpaceX will attempt 1st Starship orbital flight in March: report](https://www.space.com/spacex-starship-first-orbital-launch-march-confirmed)
-- [The $100M venture round is going extinct](https://techcrunch.com/2023/02/22/the-100m-venture-round-is-going-extinct/)
-- [Watch the moon meet up with Jupiter in the night sky tonight](https://www.space.com/jupiter-moon-conjunction-feb-22-2023)
-- [Instagram’s co-founders’ personalized news app Artifact launches to the public with new features](https://techcrunch.com/2023/02/22/instagrams-co-founders-personalized-news-app-artifact-launches-to-the-public-with-new-features/)
+- [Mercedes partners with Google to bring Maps and YouTube into its vehicles](https://techcrunch.com/2023/02/22/mercedes-google-maps-youtube/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
