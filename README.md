@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Intel slashes divdend by nearly two-thirds to shore up cash as chip giant braces for a tough year](https://techcrunch.com/2023/02/22/intel-slashes-divdend-by-two-thirds-to-shore-up-cash/)
-- [Google Cloud partners with Tezos blockchain to bring web3 technology to its customers](https://techcrunch.com/2023/02/22/google-cloud-partners-with-tezos-blockchain-to-bring-web3-technology-to-its-customers/)
-- [Hubble Space Telescope peers into a glittering sea of extragalactic stars &lpar;photo&rpar;](https://www.space.com/hubble-photo-open-cluster-kmhk-1231)
-- [Scoot lands $12M to inject customization into videoconferencing](https://techcrunch.com/2023/02/22/scoot-lands-12m-to-inject-customization-into-videoconferencing/)
-- [Showing customer success platforms haven’t lost steam, Vitally secures $30M](https://techcrunch.com/2023/02/22/showing-customer-success-platforms-havent-lost-steam-vitally-secures-30m/)
+- [Blue Origin makes solar cells out of simulated moon dirt with &#39;alchemist&#39; project](https://www.space.com/blue-origin-solar-cells-moon-dirt-simulant)
+- [Female check-writers alone aren’t enough to close the female fundraising gap, data shows](https://techcrunch.com/2023/02/22/female-check-writers-alone-arent-enough-to-close-the-female-fundraising-gap-data-shows/)
+- [Tencent is finally joining the web3 wild west](https://techcrunch.com/2023/02/22/tencent-is-finally-joining-the-web3-wild-west/)
+- [How to watch SpaceX&#39;s Crew-6 astronaut launch live online](https://www.space.com/spacex-crew-6-astronaut-flight-watch-live)
+- [Intel slashes dividend by nearly two-thirds to shore up cash as chip giant braces for a tough year](https://techcrunch.com/2023/02/22/intel-slashes-divdend-by-two-thirds-to-shore-up-cash/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
