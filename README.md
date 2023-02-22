@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Mars helicopter Ingenuity’s historic 1st flights shed light on Martian dust dynamics](https://www.space.com/mars-helicopter-ingenuity-flights-dust-dynamics)
-- [Microsoft brings the new AI-powered Bing to mobile and Skype, gives it a voice](https://techcrunch.com/2023/02/22/microsoft-brings-the-new-ai-powered-bing-to-mobile-and-skype/)
-- [Klarna wins over the US](https://techcrunch.com/2023/02/22/fintech-klarna-ceo-on-u-s-growth-momentum/)
-- [Finch lands $40M to connect disparate HR systems with a single API](https://techcrunch.com/2023/02/22/finch-lands-40m-to-connect-disparate-hr-systems-with-a-single-api/)
-- [For Black founders and investors, ringing Nasdaq’s opening bell symbolizes progress](https://techcrunch.com/2023/02/22/black-founders-investors-nasdaq-bell/)
+- [Intel slashes divdend by nearly two-thirds to shore up cash as chip giant braces for a tough year](https://techcrunch.com/2023/02/22/intel-slashes-divdend-by-two-thirds-to-shore-up-cash/)
+- [Google Cloud partners with Tezos blockchain to bring web3 technology to its customers](https://techcrunch.com/2023/02/22/google-cloud-partners-with-tezos-blockchain-to-bring-web3-technology-to-its-customers/)
+- [Hubble Space Telescope peers into a glittering sea of extragalactic stars &lpar;photo&rpar;](https://www.space.com/hubble-photo-open-cluster-kmhk-1231)
+- [Scoot lands $12M to inject customization into videoconferencing](https://techcrunch.com/2023/02/22/scoot-lands-12m-to-inject-customization-into-videoconferencing/)
+- [Showing customer success platforms haven’t lost steam, Vitally secures $30M](https://techcrunch.com/2023/02/22/showing-customer-success-platforms-havent-lost-steam-vitally-secures-30m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
