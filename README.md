@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dear Sophie: Is there a domestic pilot program for H-1B and L visa stamping?](https://techcrunch.com/2023/02/22/dear-sophie-is-there-a-domestic-pilot-program-for-h-1b-and-l-visa-stamping/)
+- [Kerbal Space Program 2 trailer wants you to &#39;Fail harder&#39; and &#39;Add more boosters&#39;](https://www.space.com/kerbal-space-program-2-early-access-gameplay-trailer)
+- [Stripe expands Tap to Pay to Android, turning NFC-enabled Android devices into payment terminals](https://techcrunch.com/2023/02/22/stripe-expands-tap-to-pay-to-android-turning-nfc-enabled-android-devices-into-payment-terminals/)
+- [Subsurface ocean tides on Saturn&#39;s moon Titan are influenced by its icy crust](https://www.space.com/saturn-moon-titan-ocean-tides-icy-crust-study)
 - [Samsung debuts a Bixby feature that creates an AI-generated copy of a user’s voice to answer calls](https://techcrunch.com/2023/02/22/samsung-bixby-feature-creates-ai-generated-copy-users-voice-answer-calls/)
-- [Future Fields is turning fruit flies into bioreactors](https://techcrunch.com/2023/02/22/future-fields-fruit-flies-bioreactors/)
-- [The James Webb Space Telescope discovers enormous distant galaxies that should not exist](https://www.space.com/james-webb-space-telescope-giant-distant-galaxies-surprise)
-- [Webb Observes a Globular Cluster Sparkling with Separate Stars](https://blogs.nasa.gov/webb/2023/02/22/webb-observes-a-globular-cluster-sparkling-with-separate-stars/)
-- [Build online branding to fuel startup success](https://techcrunch.com/2023/02/22/startup-success-online-branding-techcrunch-early-stage-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
