@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [SpaceX will attempt 1st Starship orbital flight in March: report](https://www.space.com/spacex-starship-first-orbital-launch-march-confirmed)
 - [The $100M venture round is going extinct](https://techcrunch.com/2023/02/22/the-100m-venture-round-is-going-extinct/)
 - [Watch the moon meet up with Jupiter in the night sky tonight](https://www.space.com/jupiter-moon-conjunction-feb-22-2023)
 - [Instagram’s co-founders’ personalized news app Artifact launches to the public with new features](https://techcrunch.com/2023/02/22/instagrams-co-founders-personalized-news-app-artifact-launches-to-the-public-with-new-features/)
-- [Dear Sophie: Is there a domestic pilot program for H-1B and L visa stamping?](https://techcrunch.com/2023/02/22/dear-sophie-is-there-a-domestic-pilot-program-for-h-1b-and-l-visa-stamping/)
-- [Kerbal Space Program 2 trailer wants you to &#39;Fail harder&#39; and &#39;Add more boosters&#39;](https://www.space.com/kerbal-space-program-2-early-access-gameplay-trailer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
