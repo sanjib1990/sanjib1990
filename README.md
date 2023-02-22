@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA rover snaps photos of ancient &#39;waves&#39; carved into Mars mountainside](https://www.space.com/nasa-rover-snaps-photos-of-ancient-waves-carved-into-mars-mountainside)
-- [Security researchers warn of a new class of Apple bugs](https://techcrunch.com/2023/02/22/security-researchers-warn-of-new-class-of-apple-bugs/)
-- [Meta is internally testing a BeReal-like ‘Roll Call’ feature in Messenger](https://techcrunch.com/2023/02/22/meta-internally-testing-bereal-roll-call-feature-messenger/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [SpaceX will attempt 1st Starship orbital flight in March: report](https://www.space.com/spacex-starship-first-orbital-launch-march-confirmed)
+- [Daily Crunch: Spotify says new AI DJ feature currently in beta testing has ‘stunningly realistic voice’](https://techcrunch.com/2023/02/22/daily-crunch-spotify-says-new-ai-dj-feature-currently-in-beta-testing-has-stunningly-realistic-voice/)
+- [Relativity Space sets March launch date for Terran 1](https://techcrunch.com/2023/02/22/relativity-space-sets-march-launch-date-for-terran-1/)
+- [Lucid shares drop as EV maker misses 2023 delivery expectations](https://techcrunch.com/2023/02/22/lucid-shares-drop-as-ev-maker-misses-2023-delivery-expectations/)
+- [Netflix partners with NFL to debut new series ‘Quarterback’](https://techcrunch.com/2023/02/22/netflix-partners-with-nfl-to-debut-new-series-quarterback/)
+- [Instagram accidentally reinstated Pornhub’s banned account](https://techcrunch.com/2023/02/22/instagram-accidentally-reinstated-pornhubs-banned-account/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
