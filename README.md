@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The $100M venture round is going extinct](https://techcrunch.com/2023/02/22/the-100m-venture-round-is-going-extinct/)
+- [Watch the moon meet up with Jupiter in the night sky tonight](https://www.space.com/jupiter-moon-conjunction-feb-22-2023)
+- [Instagram’s co-founders’ personalized news app Artifact launches to the public with new features](https://techcrunch.com/2023/02/22/instagrams-co-founders-personalized-news-app-artifact-launches-to-the-public-with-new-features/)
 - [Dear Sophie: Is there a domestic pilot program for H-1B and L visa stamping?](https://techcrunch.com/2023/02/22/dear-sophie-is-there-a-domestic-pilot-program-for-h-1b-and-l-visa-stamping/)
 - [Kerbal Space Program 2 trailer wants you to &#39;Fail harder&#39; and &#39;Add more boosters&#39;](https://www.space.com/kerbal-space-program-2-early-access-gameplay-trailer)
-- [Stripe expands Tap to Pay to Android, turning NFC-enabled Android devices into payment terminals](https://techcrunch.com/2023/02/22/stripe-expands-tap-to-pay-to-android-turning-nfc-enabled-android-devices-into-payment-terminals/)
-- [Subsurface ocean tides on Saturn&#39;s moon Titan are influenced by its icy crust](https://www.space.com/saturn-moon-titan-ocean-tides-icy-crust-study)
-- [Samsung debuts a Bixby feature that creates an AI-generated copy of a user’s voice to answer calls](https://techcrunch.com/2023/02/22/samsung-bixby-feature-creates-ai-generated-copy-users-voice-answer-calls/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
