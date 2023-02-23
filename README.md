@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [California Science Center reopens retired space shuttle Endeavour&#39;s payload bay](https://www.space.com/space-shuttle-endeavour-inspection-boom-california-science-center)
-- [Pitch Deck Teardown: Uber’s $200K pre-seed deck from 2008](https://techcrunch.com/2023/02/23/sample-pre-seed-pitch-deck-uber-2008/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [&#39;New Eye on the Universe&#39; illuminates the James Webb Space Telescope&#39;s latest marvels on PBS Nova. Watch it for free.](https://www.space.com/james-webb-space-telescope-pbs-nova-documentary-2023)
-- [Is ocean conservation the next climate tech? 7 investors explain why they’re all in](https://techcrunch.com/2023/02/23/is-ocean-conservation-the-next-climate-tech-7-investors-explain-why-theyre-all-in/)
+- [Google rolls out tests that block news content for some users in Canada](https://techcrunch.com/2023/02/23/google-rolls-out-tests-that-block-news-content-for-some-users-in-canada/)
+- [Coinbase’s layer-2 blockchain may help expand scaling on Ethereum](https://techcrunch.com/2023/02/23/coinbases-layer-2-blockchain-may-help-expand-scaling-on-ethereum/)
+- [Coinbase is adding another layer to its business through the blockchain space](https://techcrunch.com/2023/02/23/coinbase-is-adding-another-layer-to-its-business-through-the-blockchain-space/)
+- [Polygon partners with rollup provider Eclipse to expand blockchain interoperability with Solana](https://techcrunch.com/2023/02/23/polygon-partners-with-rollup-provider-eclipse-to-expand-blockchain-interoperability-with-solana/)
+- [Google Photos’ AI-powered ‘Magic Eraser’ is now a Google One subscription perk](https://techcrunch.com/2023/02/23/google-photos-ai-powered-magic-eraser-is-now-a-google-one-subscription-perk/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
