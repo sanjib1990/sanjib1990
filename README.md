@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [California Science Center reopens retired space shuttle Endeavour&#39;s payload bay](https://www.space.com/space-shuttle-endeavour-inspection-boom-california-science-center)
+- [Pitch Deck Teardown: Uber’s $200K pre-seed deck from 2008](https://techcrunch.com/2023/02/23/sample-pre-seed-pitch-deck-uber-2008/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [&#39;New Eye on the Universe&#39; illuminates the James Webb Space Telescope&#39;s latest marvels on PBS Nova. Watch it for free.](https://www.space.com/james-webb-space-telescope-pbs-nova-documentary-2023)
 - [Is ocean conservation the next climate tech? 7 investors explain why they’re all in](https://techcrunch.com/2023/02/23/is-ocean-conservation-the-next-climate-tech-7-investors-explain-why-theyre-all-in/)
-- [Google TV’s new update adds dedicated destinations for Movies, Shows, Family and Español](https://techcrunch.com/2023/02/23/google-tvs-new-update-adds-dedicated-destinations-for-movies-shows-family-and-espanol/)
-- [Podcasts are coming to YouTube Music](https://techcrunch.com/2023/02/23/podcasts-are-coming-to-youtube-music/)
-- [A new Starship Troopers: Extermination trailer has dropped – would you like to know more?](https://www.space.com/starship-troopers-extermination-video-game-trailer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
