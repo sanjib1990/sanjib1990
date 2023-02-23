@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google, complying with regulatory order, supports third-party billing in India](https://techcrunch.com/2023/02/23/google-third-party-billing-india/)
+- [Chain Reaction raises $70M, emerges from stealth to launch chips designed to compute encrypted data](https://techcrunch.com/2023/02/23/chain-reaction-raises-70m-emerges-from-stealth-to-launch-chips-designed-to-compute-encrypted-data/)
 - [The Milky Way&#39;s monster black hole is destroying a mysterious dust cloud](https://www.space.com/monster-black-hole-milky-way-shredding-mysterious-dust-cloud)
 - [James Webb Space Telescope reveals packed stars in Milky Way&#39;s oldest cluster &lpar;photos&rpar;](https://www.space.com/james-webb-space-telescopes-milky-way-oldest-cluster-images)
 - [Linux Foundation Europe launches the OpenWallet Foundation to power interoperable digital wallets](https://techcrunch.com/2023/02/23/linux-foundation-europe-launches-the-openwallet-foundation-to-power-interoperable-digital-wallets/)
-- [Samsung unveils its own solution for satellite-based smartphone communication](https://techcrunch.com/2023/02/23/samsung-unveils-its-own-solution-for-satellite-based-smartphone-communication/)
-- [CyberSmart raises $15M for an all-in-one cybersecurity and insurance solution targeting SMBs](https://techcrunch.com/2023/02/23/cybersmart-raises-15m-for-an-all-in-one-cybersecurity-and-insurance-solution-targeting-smbs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
