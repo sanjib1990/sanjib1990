@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Snapchat rolls out new Sounds features to make it easier to create content](https://techcrunch.com/2023/02/22/snapchat-rolls-out-new-sounds-features-to-make-it-easier-to-create-content/)
 - [Byju’s has discussed shutting down coding platform WhiteHat Jr](https://techcrunch.com/2023/02/22/byjus-has-discussed-shutting-down-coding-platform-whitehat-jr/)
 - [Tesla to build engineering HQ in California](https://techcrunch.com/2023/02/22/tesla-to-build-engineering-hq-in-california/)
 - [TikTok is coming to cars, starting with Mercedes-Benz](https://techcrunch.com/2023/02/22/tiktok-is-coming-to-cars-starting-with-mercedes-benz/)
 - [Daily Crunch: Spotify says new AI DJ feature currently in beta testing has ‘stunningly realistic voice’](https://techcrunch.com/2023/02/22/daily-crunch-spotify-says-new-ai-dj-feature-currently-in-beta-testing-has-stunningly-realistic-voice/)
-- [Relativity Space sets March launch date for Terran 1](https://techcrunch.com/2023/02/22/relativity-space-sets-march-launch-date-for-terran-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
