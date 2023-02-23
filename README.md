@@ -82,7 +82,7 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [why do we even use this?](https://www.youtube.com/watch?v=fR_D_KIAYrE)
+- [why do we use this?](https://www.youtube.com/watch?v=fR_D_KIAYrE)
 - [Rust and RAII Memory Management - Computerphile](https://www.youtube.com/watch?v=pTMvh6VzDls)
 - [S4:E4: Opening Computer Science to Everyone with Chancellor Eric Grimson](https://www.youtube.com/watch?v=Ad4HmoAkgBo)
 - [Lecture 4: Computational Illumination: dual photography, relighting - Part 1](https://www.youtube.com/watch?v=2QZUwB6F6Zw)
