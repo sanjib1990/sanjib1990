@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla to build engineering HQ in California](https://techcrunch.com/2023/02/22/tesla-to-build-engineering-hq-in-california/)
+- [TikTok is coming to cars, starting with Mercedes-Benz](https://techcrunch.com/2023/02/22/tiktok-is-coming-to-cars-starting-with-mercedes-benz/)
 - [Daily Crunch: Spotify says new AI DJ feature currently in beta testing has ‘stunningly realistic voice’](https://techcrunch.com/2023/02/22/daily-crunch-spotify-says-new-ai-dj-feature-currently-in-beta-testing-has-stunningly-realistic-voice/)
 - [Relativity Space sets March launch date for Terran 1](https://techcrunch.com/2023/02/22/relativity-space-sets-march-launch-date-for-terran-1/)
 - [Lucid shares drop as EV maker misses 2023 delivery expectations](https://techcrunch.com/2023/02/22/lucid-shares-drop-as-ev-maker-misses-2023-delivery-expectations/)
-- [Netflix partners with NFL to debut new series ‘Quarterback’](https://techcrunch.com/2023/02/22/netflix-partners-with-nfl-to-debut-new-series-quarterback/)
-- [Instagram accidentally reinstated Pornhub’s banned account](https://techcrunch.com/2023/02/22/instagram-accidentally-reinstated-pornhubs-banned-account/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
