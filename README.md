@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google, complying with regulatory order, supports third-party billing in India](https://techcrunch.com/2023/02/23/google-third-party-billing-india/)
-- [Chain Reaction raises $70M, emerges from stealth to launch chips designed to compute encrypted data](https://techcrunch.com/2023/02/23/chain-reaction-raises-70m-emerges-from-stealth-to-launch-chips-designed-to-compute-encrypted-data/)
-- [The Milky Way&#39;s monster black hole is destroying a mysterious dust cloud](https://www.space.com/monster-black-hole-milky-way-shredding-mysterious-dust-cloud)
-- [James Webb Space Telescope reveals packed stars in Milky Way&#39;s oldest cluster &lpar;photos&rpar;](https://www.space.com/james-webb-space-telescopes-milky-way-oldest-cluster-images)
-- [Linux Foundation Europe launches the OpenWallet Foundation to power interoperable digital wallets](https://techcrunch.com/2023/02/23/linux-foundation-europe-launches-the-openwallet-foundation-to-power-interoperable-digital-wallets/)
+- [Spotify is testing playlists that could be unlocked by NFT holders](https://techcrunch.com/2023/02/23/spotify-is-testing-playlists-that-could-be-unlocked-by-nft-holders/)
+- [Trust &amp; Will secures $15M after doubling revenue](https://techcrunch.com/2023/02/23/digital-estate-planning-startup-trust-will-secures-15m-from-amex-ventures-and-others-after-doubling-revenue-yoy/)
+- [Why space is the best setting for horror](https://www.space.com/why-space-is-the-best-setting-for-horror)
+- [&#39;Star Trek: Picard&#39; episode 2 is unexpectedly excellent](https://www.space.com/star-trek-picard-season-3-episode-2-review)
+- [European Commission orders staff to remove TikTok from work devices](https://techcrunch.com/2023/02/23/european-commission-orders-staff-to-remove-tiktok-from-work-devices/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
