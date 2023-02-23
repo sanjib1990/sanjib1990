@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Announcing the TechCrunch Early Stage Audience Choice winners](https://techcrunch.com/2023/02/23/audience-choice-winners-techcrunch-early-stage-2023/)
-- [Unity’s earnings show just how hard it is to earn a 10x software multiple today](https://techcrunch.com/2023/02/23/unitys-earnings-show-just-how-hard-it-is-to-earn-a-10x-software-multiple-today/)
-- [Earthly wants to reinvent continuous integration to make it faster and cheaper](https://techcrunch.com/2023/02/23/earthly-wants-to-reinvent-continuous-integration-to-make-it-faster-and-cheaper/)
-- [Royal Mail restores global shipping weeks after LockBit ransomware attack](https://techcrunch.com/2023/02/23/royal-mail-restores-global-shipping-weeks-after-lockbit-ransomware-attack/)
-- [SpaceX, Amazon, US space industry to talk climate change with VP Kamala Harris &lpar;exclusive&rpar;](https://www.space.com/vice-president-kamala-harris-spacex-amazon-climate-change)
+- [Sam Bankman-Fried faces new criminal charges for unlawful political contributions](https://techcrunch.com/2023/02/23/sam-bankman-fried-faces-new-criminal-charges-for-unlawful-political-contributions/)
+- [Storj Next could make decentralized storage more appealing to both supply and demand sides](https://techcrunch.com/2023/02/23/storj-next-could-make-decentralized-storage-more-appealing-to-both-supply-and-demand-sides/)
+- [Source.ag raises $23M to raise the bar on raising crops with AI](https://techcrunch.com/2023/02/23/source-ag-raises-23m-to-raise-the-bar-on-raising-crops-with-ai/)
+- [Netflix lowers prices in 100+ territories as scrutiny grows over password-sharing rules](https://techcrunch.com/2023/02/23/netflix-lowers-prices-in-over-100-territories/)
+- [Keep trying after a VC says no, says Tonkean CEO on TechCrunch Live](https://techcrunch.com/2023/02/23/keep-trying-after-a-vc-says-no-says-tonkean-ceo-on-techcrunch-live/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
