@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spoke AI is using generative AI to pull signal from workplace noise](https://techcrunch.com/2023/02/22/spoke-ai-pre-seed/)
 - [Volition’s Larry Cheng on trying to raise a fund right now: “All of the LPs felt more constrained”](https://techcrunch.com/2023/02/22/vc-larry-cheng-on-fundraising-right-now-all-of-the-lps-felt-more-constrained-we-could-feel-it/)
 - [Snapchat rolls out new Sounds features to make it easier to create content](https://techcrunch.com/2023/02/22/snapchat-rolls-out-new-sounds-features-to-make-it-easier-to-create-content/)
 - [Byju’s has discussed shutting down coding platform WhiteHat Jr](https://techcrunch.com/2023/02/22/byjus-has-discussed-shutting-down-coding-platform-whitehat-jr/)
 - [Tesla to build engineering HQ in California](https://techcrunch.com/2023/02/22/tesla-to-build-engineering-hq-in-california/)
-- [TikTok is coming to cars, starting with Mercedes-Benz](https://techcrunch.com/2023/02/22/tiktok-is-coming-to-cars-starting-with-mercedes-benz/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
