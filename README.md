@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Spotify is testing playlists that could be unlocked by NFT holders](https://techcrunch.com/2023/02/23/spotify-is-testing-playlists-that-could-be-unlocked-by-nft-holders/)
-- [Trust &amp; Will secures $15M after doubling revenue](https://techcrunch.com/2023/02/23/digital-estate-planning-startup-trust-will-secures-15m-from-amex-ventures-and-others-after-doubling-revenue-yoy/)
-- [Why space is the best setting for horror](https://www.space.com/why-space-is-the-best-setting-for-horror)
-- [&#39;Star Trek: Picard&#39; episode 2 is unexpectedly excellent](https://www.space.com/star-trek-picard-season-3-episode-2-review)
-- [European Commission orders staff to remove TikTok from work devices](https://techcrunch.com/2023/02/23/european-commission-orders-staff-to-remove-tiktok-from-work-devices/)
+- [DJI Mini 3 review](https://www.space.com/dji-mini-3-review)
+- [YouTube launches a multi-language audio feature for dubbing videos, previously tested by Mr. Beast](https://techcrunch.com/2023/02/23/youtube-launches-a-multi-language-audio-feature-for-dubbing-videos-previously-tested-by-mr-beast/)
+- [Logistics startup Slync raises $24M, attempts to distance itself from disgraced founder](https://techcrunch.com/2023/02/23/logistics-startup-slync-raises-24m-attempts-to-distance-itself-from-disgraced-founder/)
+- [Coinbase launches blockchain Base to help developers build dApps on-chain](https://techcrunch.com/2023/02/23/coinbase-launches-blockchain-base-to-help-developers-build-dapps-on-chain/)
+- [Motional opens Las Vegas robotaxi service to nighttime hours](https://techcrunch.com/2023/02/23/motional-las-vegas-robotaxi-uber-lyft-night-rides/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
