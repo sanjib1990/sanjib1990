@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: YouTube rolls out support for dubbing videos in more than 40 languages](https://techcrunch.com/2023/02/23/daily-crunch-youtube-rolls-out-support-for-dubbing-videos-in-more-than-40-languages/)
+- [NASA&#39;s Mars Reconnaissance Orbiter confirms that China&#39;s Zhurong rover has been stationary for months](https://www.space.com/mars-reconaissance-orbiter-zhurong-rover-images)
+- [Hear how to find a co-founder on TechCrunch Live](https://techcrunch.com/2023/02/23/hear-how-to-find-a-co-founder-on-techcrunch-live/)
 - [SpaceX&#39;s private Polaris Dawn mission now targeting summer 2023](https://www.space.com/spacex-polaris-dawn-summer-2023-launch-update)
 - [This photo of China&#39;s spy balloon taken from a U-2 reconnaissance plane is absolutely bonkers &lpar;video&rpar;](https://www.space.com/chinese-spy-balloon-u-2-spy-plane-selfie-photo)
-- [Google rolls out tests that block news content for some users in Canada](https://techcrunch.com/2023/02/23/google-rolls-out-tests-that-block-news-content-for-some-users-in-canada/)
-- [Coinbase’s layer-2 blockchain may help expand scaling on Ethereum](https://techcrunch.com/2023/02/23/coinbases-layer-2-blockchain-may-help-expand-scaling-on-ethereum/)
-- [Coinbase is adding another layer to its business through the blockchain space](https://techcrunch.com/2023/02/23/coinbase-is-adding-another-layer-to-its-business-through-the-blockchain-space/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
