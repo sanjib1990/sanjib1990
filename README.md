@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Twitch’s new experiments hub tells streamers what’s being tested each month](https://techcrunch.com/2023/02/23/twitch-experiments/)
-- [Amazon gets a green light to launch 3,000-satellite Kuiper constellation](https://www.space.com/fcc-approves-amazon-constellation-kuiper)
-- [SpaceX astronaut missions for NASA: Crew-6 updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates)
-- [Applications are open for the TechCrunch Startup Battlefield 200](https://techcrunch.com/2023/02/23/startup-battlefield-applications-disrupt-2023/)
-- [Meta announces ‘Facebook Jail’ reforms that focus more on better explanations of policy, less on ‘timeouts’](https://techcrunch.com/2023/02/23/meta-announces-facebook-jail-reforms-that-focus-more-on-better-explanations-of-policy-less-on-timeouts/)
+- [&#39;New Eye on the Universe&#39; illuminates the James Webb Space Telescope&#39;s latest marvels on PBS Nova. Watch it for free.](https://www.space.com/james-webb-space-telescope-pbs-nova-documentary-2023)
+- [Is ocean conservation the next climate tech? 7 investors explain why they’re all in](https://techcrunch.com/2023/02/23/is-ocean-conservation-the-next-climate-tech-7-investors-explain-why-theyre-all-in/)
+- [Google TV’s new update adds dedicated destinations for Movies, Shows, Family and Español](https://techcrunch.com/2023/02/23/google-tvs-new-update-adds-dedicated-destinations-for-movies-shows-family-and-espanol/)
+- [Podcasts are coming to YouTube Music](https://techcrunch.com/2023/02/23/podcasts-are-coming-to-youtube-music/)
+- [A new Starship Troopers: Extermination trailer has dropped – would you like to know more?](https://www.space.com/starship-troopers-extermination-video-game-trailer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
