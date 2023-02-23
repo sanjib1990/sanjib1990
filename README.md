@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Milky Way&#39;s monster black hole is destroying a mysterious dust cloud](https://www.space.com/monster-black-hole-milky-way-shredding-mysterious-dust-cloud)
+- [James Webb Space Telescope reveals packed stars in Milky Way&#39;s oldest cluster &lpar;photos&rpar;](https://www.space.com/james-webb-space-telescopes-milky-way-oldest-cluster-images)
+- [Linux Foundation Europe launches the OpenWallet Foundation to power interoperable digital wallets](https://techcrunch.com/2023/02/23/linux-foundation-europe-launches-the-openwallet-foundation-to-power-interoperable-digital-wallets/)
+- [Samsung unveils its own solution for satellite-based smartphone communication](https://techcrunch.com/2023/02/23/samsung-unveils-its-own-solution-for-satellite-based-smartphone-communication/)
 - [CyberSmart raises $15M for an all-in-one cybersecurity and insurance solution targeting SMBs](https://techcrunch.com/2023/02/23/cybersmart-raises-15m-for-an-all-in-one-cybersecurity-and-insurance-solution-targeting-smbs/)
-- [Popular Android apps’ Play Store privacy labels don’t match up to their claims, Mozilla says](https://techcrunch.com/2023/02/23/popular-android-apps-play-store-privacy-labels-dont-match-up-to-their-claims-mozilla-says/)
-- [Spoke AI is using generative AI to pull signal from workplace noise](https://techcrunch.com/2023/02/22/spoke-ai-pre-seed/)
-- [Volition’s Larry Cheng on trying to raise a fund right now: “All of the LPs felt more constrained”](https://techcrunch.com/2023/02/22/vc-larry-cheng-on-fundraising-right-now-all-of-the-lps-felt-more-constrained-we-could-feel-it/)
-- [Snapchat rolls out new Sounds features to make it easier to create content](https://techcrunch.com/2023/02/22/snapchat-rolls-out-new-sounds-features-to-make-it-easier-to-create-content/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
