@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [South Africa’s Envisionit Deep AI gets $1.65M to expand access to medical imaging](https://techcrunch.com/2023/02/23/south-africas-envisionit-deep-ai-gets-1-65m-to-expand-access-to-medical-imaging/)
 - [SEC says Elon Musk still needs lawyer to approve his tweets](https://techcrunch.com/2023/02/23/sec-says-elon-musk-still-needs-lawyer-to-approve-his-tweets/)
 - [Russia launches Soyuz capsule without crew to replace leaky spaceship at space station](https://www.space.com/russia-replacement-soyuz-ms-23-spacecraft-launch-success)
 - [What we expect from MWC 2023](https://techcrunch.com/2023/02/23/what-we-expect-from-mwc-2021/)
 - [SpaceX rolls out rocket for NASA&#39;s Crew-6 astronaut launch &lpar;photos&rpar;](https://www.space.com/spacex-crew-6-dragon-astronaut-rocket-launch-pad-photos)
-- [Daily Crunch: YouTube rolls out support for dubbing videos in more than 40 languages](https://techcrunch.com/2023/02/23/daily-crunch-youtube-rolls-out-support-for-dubbing-videos-in-more-than-40-languages/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
