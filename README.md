@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Faulty power supply scuttled debut launch of Japan&#39;s new H3 rocket](https://www.space.com/japan-h3-rocket-abort-faulty-power-supply-engine)
 - [Review: PlayStation VR2 is a huge leap that still can’t escape its niche](https://techcrunch.com/2023/02/24/review-playstation-vr2-is-a-huge-leap-that-still-cant-escape-its-niche/)
 - [Ford Lightning production to remain halted for another week](https://techcrunch.com/2023/02/24/ford-lightning-production-to-remain-halted-for-another-week/)
 - [The largest 2D map of the sky over Earth just got even bigger](https://www.space.com/largest-2d-sky-map-over-earth-bigger)
 - [Sono Motors has killed off its Sion EV in a pivot to solar tech business](https://techcrunch.com/2023/02/24/sono-motors-has-killed-off-its-sion-ev-in-a-pivot-to-solar-tech-business/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
