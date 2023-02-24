@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Ukraine invasion&#39;s impacts on space exploration: Live updates](https://www.space.com/news/live/russia-ukraine-invasion-space-impacts-updates)
-- [Xiaomi’s short-video app Zili is shutting down next month](https://techcrunch.com/2023/02/24/xiaomi-zili-app-shutdown/)
-- [5 questions emerging managers should ask before selecting LPs](https://techcrunch.com/2023/02/24/5-questions-emerging-managers-need-to-ask-before-selecting-lps/)
-- [Meta Verified is rolling out to users in Australia and New Zeland](https://techcrunch.com/2023/02/24/meta-verified-is-rolling-out-to-users-in-australia-and-new-zeland/)
-- [Poshmark lays off employees just two months after being acquired by Naver](https://techcrunch.com/2023/02/24/poshmark-lays-off-employees-just-two-months-after-being-acquired-by-naver/)
+- [Rebuy is out to change the customer buying experience, one personalization at a time](https://techcrunch.com/2023/02/24/rebuy-commerce-personalization-series-a/)
+- [Alchemy launches tool that allows devs to start building dApps within 4 minutes](https://techcrunch.com/2023/02/24/alchemy-launches-tool-that-allows-devs-to-start-building-dapps-within-4-minutes/)
+- [Scooters and social media companies are surprising IPO candidates](https://techcrunch.com/2023/02/24/reddit-lime-scooter-ipo-market/)
+- [SpaceX test-fires rocket ahead of Crew-6 astronaut launch for NASA &lpar;photos&rpar;](https://www.space.com/spacex-crew-6-astronaut-rocket-static-fire-photos)
+- [NASA&#39;s Artemis moon program receives salute from Apollo 11&#39;s Buzz Aldrin &lpar;video&rpar;](https://www.space.com/nasa-artemis-moon-program-salute-apollo-11-buzz-aldrin)
 <!-- BLOG-POST-LIST:END -->
 
 ---
