@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch+ roundup: Finding the right LPs, ocean conservation, inside Uber’s pre-seed deck](https://techcrunch.com/2023/02/24/techcrunch-roundup-finding-the-right-lps-ocean-conservation-inside-ubers-pre-seed-deck/)
+- [Can AI really be protected from text-based attacks?](https://techcrunch.com/2023/02/24/can-language-models-really-be-protected-from-text-based-attacks/)
+- [Scientists find meteorite in Texas from fireball that exploded with the force of 8 tons of TNT](https://www.space.com/nasa-confirms-meteor-over-texas-feb-15-2023)
+- [Kerbal Space Program 2 is here! Spark joy with exploding rockets today](https://www.space.com/kerbal-space-program-2-release-day-trailer)
 - [How are global chipmakers preparing for the US-China chip war?](https://techcrunch.com/2023/02/24/how-are-global-chipmakers-preparing-for-the-us-china-chip-war/)
-- [Modernizing 911 calls with Michael Chime from Found](https://techcrunch.com/2023/02/24/modernizing-911-calls-with-michael-chime-from-found/)
-- [Warner Bros. Discovery continues to lose money despite success of ‘The Last of Us’ and ‘Hogwarts Legacy’](https://techcrunch.com/2023/02/24/warner-bros-discovery-q4-2022-earnings/)
-- [Hear from Oort and .406 Ventures on why cybersecurity companies thrive in Boston](https://techcrunch.com/2023/02/24/hear-from-oort-and-406-ventures-on-why-cybersecurity-companies-thrive-in-boston/)
-- [When do we reach the unicorn death cliff?](https://techcrunch.com/2023/02/24/when-do-we-reach-the-unicorn-death-cliff/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
