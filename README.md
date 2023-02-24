@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch the moon moon visit Mars for a close encounter next week](https://www.space.com/moon-mars-close-encounter-feb-27-2023)
-- [Relativity Space sets launch of world&#39;s 1st 3D-printed rocket launch for March 8](https://www.space.com/relativity-space-terran-1-3d-rocket-launch-march-8)
-- [Amazon joins India-backed e-commerce initiative that’s seeking to challenge the retail giant](https://techcrunch.com/2023/02/23/amazon-india-ondc/)
-- [South Africa’s Envisionit Deep AI gets $1.65M to expand access to medical imaging](https://techcrunch.com/2023/02/23/south-africas-envisionit-deep-ai-gets-1-65m-to-expand-access-to-medical-imaging/)
-- [SEC says Elon Musk still needs lawyer to approve his tweets](https://techcrunch.com/2023/02/23/sec-says-elon-musk-still-needs-lawyer-to-approve-his-tweets/)
+- [Meta Verified is rolling out to users in Australia and New Zeland](https://techcrunch.com/2023/02/24/meta-verified-is-rolling-out-to-users-in-australia-and-new-zeland/)
+- [Poshmark lays off employees just two months after being acquired by Naver](https://techcrunch.com/2023/02/24/poshmark-lays-off-employees-just-two-months-after-being-acquired-by-naver/)
+- [Massive &#39;forbidden planet&#39; orbits a strangely tiny star only 4 times its size](https://www.space.com/forbidden-planet-orbiting-tiny-star)
+- [A year on from Russia’s invasion, Ukrainian startups show astounding resilience](https://techcrunch.com/2023/02/24/a-year-on-from-russias-invasion-ukrainian-startups-show-astounding-resilience/)
+- [Watch the moon visit Mars for a close encounter on Feb. 27](https://www.space.com/moon-mars-close-encounter-feb-27-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
