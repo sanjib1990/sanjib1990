@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How are global chipmakers preparing for the US-China chip war?](https://techcrunch.com/2023/02/24/how-are-global-chipmakers-preparing-for-the-us-china-chip-war/)
+- [Modernizing 911 calls with Michael Chime from Found](https://techcrunch.com/2023/02/24/modernizing-911-calls-with-michael-chime-from-found/)
 - [Warner Bros. Discovery continues to lose money despite success of ‘The Last of Us’ and ‘Hogwarts Legacy’](https://techcrunch.com/2023/02/24/warner-bros-discovery-q4-2022-earnings/)
 - [Hear from Oort and .406 Ventures on why cybersecurity companies thrive in Boston](https://techcrunch.com/2023/02/24/hear-from-oort-and-406-ventures-on-why-cybersecurity-companies-thrive-in-boston/)
 - [When do we reach the unicorn death cliff?](https://techcrunch.com/2023/02/24/when-do-we-reach-the-unicorn-death-cliff/)
-- [Telecom giant Airtel eyes a stake in Paytm](https://techcrunch.com/2023/02/24/airtel-paytm/)
-- [SpaceX astronaut missions for NASA: Crew-6 updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
