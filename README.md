@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ford Lightning production to remain halted for another week](https://techcrunch.com/2023/02/24/ford-lightning-production-to-remain-halted-for-another-week/)
+- [The largest 2D map of the sky over Earth just got even bigger](https://www.space.com/largest-2d-sky-map-over-earth-bigger)
+- [Sono Motors has killed off its Sion EV in a pivot to solar tech business](https://techcrunch.com/2023/02/24/sono-motors-has-killed-off-its-sion-ev-in-a-pivot-to-solar-tech-business/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [TechCrunch+ roundup: Finding the right LPs, ocean conservation, inside Uber’s pre-seed deck](https://techcrunch.com/2023/02/24/techcrunch-roundup-finding-the-right-lps-ocean-conservation-inside-ubers-pre-seed-deck/)
-- [Can AI really be protected from text-based attacks?](https://techcrunch.com/2023/02/24/can-language-models-really-be-protected-from-text-based-attacks/)
-- [Scientists find meteorite in Texas from fireball that exploded with the force of 8 tons of TNT](https://www.space.com/nasa-confirms-meteor-over-texas-feb-15-2023)
-- [Kerbal Space Program 2 is here! Spark joy with exploding rockets today](https://www.space.com/kerbal-space-program-2-release-day-trailer)
-- [How are global chipmakers preparing for the US-China chip war?](https://techcrunch.com/2023/02/24/how-are-global-chipmakers-preparing-for-the-us-china-chip-war/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
