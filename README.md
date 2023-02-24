@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ukraine invasion&#39;s impacts on space exploration: Live updates](https://www.space.com/news/live/russia-ukraine-invasion-space-impacts-updates)
+- [Xiaomi’s short-video app Zili is shutting down next month](https://techcrunch.com/2023/02/24/xiaomi-zili-app-shutdown/)
+- [5 questions emerging managers should ask before selecting LPs](https://techcrunch.com/2023/02/24/5-questions-emerging-managers-need-to-ask-before-selecting-lps/)
 - [Meta Verified is rolling out to users in Australia and New Zeland](https://techcrunch.com/2023/02/24/meta-verified-is-rolling-out-to-users-in-australia-and-new-zeland/)
 - [Poshmark lays off employees just two months after being acquired by Naver](https://techcrunch.com/2023/02/24/poshmark-lays-off-employees-just-two-months-after-being-acquired-by-naver/)
-- [Massive &#39;forbidden planet&#39; orbits a strangely tiny star only 4 times its size](https://www.space.com/forbidden-planet-orbiting-tiny-star)
-- [A year on from Russia’s invasion, Ukrainian startups show astounding resilience](https://techcrunch.com/2023/02/24/a-year-on-from-russias-invasion-ukrainian-startups-show-astounding-resilience/)
-- [Watch the moon visit Mars for a close encounter on Feb. 27](https://www.space.com/moon-mars-close-encounter-feb-27-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
