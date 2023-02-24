@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Rebuy is out to change the customer buying experience, one personalization at a time](https://techcrunch.com/2023/02/24/rebuy-commerce-personalization-series-a/)
-- [Alchemy launches tool that allows devs to start building dApps within 4 minutes](https://techcrunch.com/2023/02/24/alchemy-launches-tool-that-allows-devs-to-start-building-dapps-within-4-minutes/)
-- [Scooters and social media companies are surprising IPO candidates](https://techcrunch.com/2023/02/24/reddit-lime-scooter-ipo-market/)
-- [SpaceX test-fires rocket ahead of Crew-6 astronaut launch for NASA &lpar;photos&rpar;](https://www.space.com/spacex-crew-6-astronaut-rocket-static-fire-photos)
-- [NASA&#39;s Artemis moon program receives salute from Apollo 11&#39;s Buzz Aldrin &lpar;video&rpar;](https://www.space.com/nasa-artemis-moon-program-salute-apollo-11-buzz-aldrin)
+- [Warner Bros. Discovery continues to lose money despite success of ‘The Last of Us’ and ‘Hogwarts Legacy’](https://techcrunch.com/2023/02/24/warner-bros-discovery-q4-2022-earnings/)
+- [Hear from Oort and .406 Ventures on why cybersecurity companies thrive in Boston](https://techcrunch.com/2023/02/24/hear-from-oort-and-406-ventures-on-why-cybersecurity-companies-thrive-in-boston/)
+- [When do we reach the unicorn death cliff?](https://techcrunch.com/2023/02/24/when-do-we-reach-the-unicorn-death-cliff/)
+- [Telecom giant Airtel eyes a stake in Paytm](https://techcrunch.com/2023/02/24/airtel-paytm/)
+- [SpaceX astronaut missions for NASA: Crew-6 updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
