@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nokia phonemaker HMD Global to move some manufacturing to Europe](https://techcrunch.com/2023/02/25/nokia-phonemaker-hmd-global-to-move-some-manufacturing-to-europe/)
+- [Everything we know about Loki season 2: release window, plot, cast &amp; more](https://www.space.com/loki-season-2-release-date-plot-cast-crew)
 - [Will AI receive the same celebrity-fueled hype as crypto once did? It’s complicated](https://techcrunch.com/2023/02/25/crypto-celebrities-artificial-intelligence/)
 - [SpaceX Crew-6 astronauts will answer &#39;burning questions&#39; with space station science](https://www.space.com/spacex-nasa-crew-6-science-international-space-station)
 - [Use the moon to find Uranus in the night sky tonight](https://www.space.com/moon-passes-uranus-feb-25-2023)
-- [Watch Russia&#39;s replacement Soyuz capsule arrive at space station tonight in this livestream](https://www.space.com/russia-soyuz-replacement-ms-23-international-space-station-docking)
-- [On This Day In Space: Feb. 25, 1982: Western Union launches Westar 4 communications satellite](https://www.space.com/39251-on-this-day-in-space.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
