@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Week In Space podcast: Episode 50 —Experiencing Apollo 11 with Tom Jennings](https://www.space.com/this-week-in-space-podcast-twit)
 - [Daily Crunch: Falling short of analysts’ estimates, Warner Bros. Discovery posts $2.1B net loss for Q4 2022](https://techcrunch.com/2023/02/24/daily-crunch-falling-short-of-analysts-estimates-warner-bros-discovery-posts-2-1b-net-loss-for-q4-2022/)
 - [TikTok’s teenage filter has us confronting our own mortality](https://techcrunch.com/2023/02/24/tiktoks-teenage-filter-has-us-confronting-our-own-mortality/)
 - [Air taxi rivals Wisk and Archer will enter mediation in March in trade secret theft suit](https://techcrunch.com/2023/02/24/air-taxi-rivals-wisk-and-archer-will-enter-mediation-in-march-in-trade-secret-theft-suit/)
 - [Faulty power supply scuttled debut launch of Japan&#39;s new H3 rocket](https://www.space.com/japan-h3-rocket-abort-faulty-power-supply-engine)
-- [Review: PlayStation VR2 is a huge leap that still can’t escape its niche](https://techcrunch.com/2023/02/24/review-playstation-vr2-is-a-huge-leap-that-still-cant-escape-its-niche/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
