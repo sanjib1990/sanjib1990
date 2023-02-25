@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI’s hype isn’t going to be simply star-studded](https://techcrunch.com/2023/02/25/ais-hype-isnt-going-to-be-simply-star-studded/)
+- [Boeing&#39;s Starliner on track to launch its 1st astronaut flight this spring, NASA says](https://www.space.com/boeing-starliner-on-track-first-crewed-launch-april-2023)
 - [Decentralized storage: Tailwinds and open questions](https://techcrunch.com/2023/02/25/decentralized-storage-tailwinds-and-open-questions/)
 - [Biotech proved a surprisingly bright spot in 2022’s startup correction](https://techcrunch.com/2023/02/25/biotech-fundraising-2022/)
 - [Bitcoin rewards and NFTs may help grow the blockchain](https://techcrunch.com/2023/02/25/bitcoin-rewards-and-nfts-may-help-grow-the-blockchain/)
-- [Nokia phonemaker HMD Global to move some manufacturing to Europe](https://techcrunch.com/2023/02/25/nokia-phonemaker-hmd-global-to-move-some-manufacturing-to-europe/)
-- [Everything we know about Loki season 2: release window, plot, cast &amp; more](https://www.space.com/loki-season-2-release-date-plot-cast-crew)
 <!-- BLOG-POST-LIST:END -->
 
 ---
