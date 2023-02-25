@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bitcoin rewards and NFTs may help grow the blockchain](https://techcrunch.com/2023/02/25/bitcoin-rewards-and-nfts-may-help-grow-the-blockchain/)
 - [Nokia phonemaker HMD Global to move some manufacturing to Europe](https://techcrunch.com/2023/02/25/nokia-phonemaker-hmd-global-to-move-some-manufacturing-to-europe/)
 - [Everything we know about Loki season 2: release window, plot, cast &amp; more](https://www.space.com/loki-season-2-release-date-plot-cast-crew)
 - [Will AI receive the same celebrity-fueled hype as crypto once did? It’s complicated](https://techcrunch.com/2023/02/25/crypto-celebrities-artificial-intelligence/)
 - [SpaceX Crew-6 astronauts will answer &#39;burning questions&#39; with space station science](https://www.space.com/spacex-nasa-crew-6-science-international-space-station)
-- [Use the moon to find Uranus in the night sky tonight](https://www.space.com/moon-passes-uranus-feb-25-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
