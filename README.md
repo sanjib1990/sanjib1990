@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [More layoffs at Twitter, and loyalist Esther Crawford isn’t spared](https://techcrunch.com/2023/02/26/more-layoffs-at-twitter-and-loyalist-esther-crawford-isnt-spared/)
+- [Experience SpaceX&#39;s Crew-6 astronaut mission with these amazing photos](https://www.space.com/spacex-crew-6-amazing-photos)
 - [DNA from 4 American presidents will launch to deep space](https://www.space.com/celestis-enterprise-us-presidents-dna-deep-space)
 - [Mapping out the future of AR, ThirdEye is taking on Google and Microsoft in real-life scenarios](https://techcrunch.com/2023/02/26/thirdeye-ar-glasses/)
 - [Asteroid Ryugu is rich in organic molecules that can be building blocks of life](https://www.space.com/asteroid-ryugu-building-blocks-life)
-- [Xiaomi’s 13 Pro flagship has a 1-inch sensor](https://techcrunch.com/2023/02/26/xiaomi-launches-its-13-pro-flagship-with-a-1-inch-sensor-at-mwc/)
-- [Sequoia and Andreessen Horowitz invested more in fintech than any other sector in 2022](https://techcrunch.com/2023/02/26/sequoia-and-andreessen-horowitz-invested-more-in-fintech-than-any-other-sector-in-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
