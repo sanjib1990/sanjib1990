@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX on track to launch Crew-6 astronaut mission for NASA tomorrow &lpar;Feb. 27&rpar;](https://www.space.com/spacex-nasa-crew-6-astronaut-mission-launch-feb-27)
 - [Magic Eraser comes to more devices, Spotify gains an AI DJ, and Netflix decreases prices](https://techcrunch.com/2023/02/25/magic-eraser-comes-to-more-devices-spotify-gains-an-ai-dj-and-netflix-decreases-prices/)
 - [This Week in Apps: Meta’s paid verifications, Instagram’s founders’ new app and Spotify’s AI DJ](https://techcrunch.com/2023/02/25/this-week-in-apps-metas-paid-verifications-instagrams-founders-new-app-and-spotifys-ai-dj/)
 - [AI’s hype isn’t going to be simply star-studded](https://techcrunch.com/2023/02/25/ais-hype-isnt-going-to-be-simply-star-studded/)
 - [Boeing&#39;s Starliner on track to launch its 1st astronaut flight this spring, NASA says](https://www.space.com/boeing-starliner-on-track-first-crewed-launch-april-2023)
-- [Decentralized storage: Tailwinds and open questions](https://techcrunch.com/2023/02/25/decentralized-storage-tailwinds-and-open-questions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
