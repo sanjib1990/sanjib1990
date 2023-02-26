@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Xiaomi launches its 13 Pro flagship with a 1-inch sensor at MWC](https://techcrunch.com/2023/02/26/xiaomi-launches-its-13-pro-flagship-with-a-1-inch-sensor-at-mwc/)
+- [Sequoia and Andreessen Horowitz invested more in fintech than any other sector in 2022](https://techcrunch.com/2023/02/26/sequoia-and-andreessen-horowitz-invested-more-in-fintech-than-any-other-sector-in-2022/)
 - [Don’t leave developers behind in the Section 230 debate](https://techcrunch.com/2023/02/26/dont-leave-developers-behind-in-the-section-230-debate/)
 - [On This Day In Space: Feb. 26, 1966: 1st launch of Saturn 1B rocket](https://www.space.com/39251-on-this-day-in-space.html)
 - [How deep-sea silica ends up in Saturn moon Enceladus&#39; famous geysers](https://www.space.com/saturn-moon-enceladus-silica-geysers)
-- [SpaceX on track to launch Crew-6 astronaut mission for NASA tomorrow &lpar;Feb. 27&rpar;](https://www.space.com/spacex-nasa-crew-6-astronaut-mission-launch-feb-27)
-- [Magic Eraser comes to more devices, Spotify gains an AI DJ, and Netflix decreases prices](https://techcrunch.com/2023/02/25/magic-eraser-comes-to-more-devices-spotify-gains-an-ai-dj-and-netflix-decreases-prices/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
