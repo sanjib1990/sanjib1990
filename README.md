@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Here’s how every social media company is trying to adopt subscriptions](https://techcrunch.com/2023/02/27/social-media-apps-adopting-subscription-models/)
-- [Of course the Adobe-Figma deal is anti-competitive](https://techcrunch.com/2023/02/27/of-course-the-adobe-figma-deal-is-anti-competitive/)
-- [Dish hit by multi-day outage after reported cyberattack](https://techcrunch.com/2023/02/27/dish-outage-reported-cyberattack/)
-- [Marvel&#39;s &#39;Star Wars&#39; comics celebrate Women&#39;s History Month with Peach Momoko covers](https://www.space.com/star-wars-comics-womens-history-month-peach-momoko-covers)
-- [Bending Spoons lays off 129 Evernote staffers](https://techcrunch.com/2023/02/27/bending-spoons-lays-off-129-evernote-staffers/)
+- [VSCO is growing into a legit social network for photographers](https://techcrunch.com/2023/02/27/vsco-is-growing-into-a-legit-social-network-for-photographers/)
+- [Why so many gigafactories? It’s not just EVs driving demand](https://techcrunch.com/2023/02/27/why-so-many-gigafactories-its-not-just-evs-driving-demand/)
+- [Inside the Sony-Honda Afeela concept](https://techcrunch.com/2023/02/27/inside-the-sony-honda-afeela-concept/)
+- [Spotify kills its heart button to be replaced with a “plus” sign](https://techcrunch.com/2023/02/27/spotify-kills-its-heart-button-to-be-replaced-with-a-plus-sign/)
+- [SepPure’s nanofilters massively reduce energy cost of industrial separation processes](https://techcrunch.com/2023/02/27/seppures-nanofilters-massively-reduce-energy-cost-of-industrial-separation-processes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
