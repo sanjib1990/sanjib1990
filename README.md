@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CollX raises $5.5M to scan and evaluate value of trading cards](https://techcrunch.com/2023/02/27/collx-raises-5-5m-to-scan-and-evaluate-value-of-trading-cards/)
+- [Watch SpaceX launch 2 rockets less than an hour apart on Monday](https://www.space.com/spacex-starlink-launch-doubleheader-february-27)
+- [See the half moon pass by Mars in the sky tonight](https://www.space.com/half-moon-passes-fading-mars)
 - [Planet Computers hits the desktop with a line of touchscreen Linux computers](https://techcrunch.com/2023/02/27/planet-computers-hits-the-desktop-with-a-line-of-linux-computers/)
 - [Born of drone tech, InsureTech Flock raises $38M Series B to nudge commercial drivers towards safety](https://techcrunch.com/2023/02/27/born-of-drone-tech-insuretech-flock-raises-38m-series-b-to-nudge-commercial-drivers-towards-safety/)
-- [Google announces new features for Android and Wear OS](https://techcrunch.com/2023/02/27/google-announces-new-features-for-android-and-wear-os/)
-- [OnePlus’ gaming concept phone has glowing liquid cooling](https://techcrunch.com/2023/02/27/oneplus-new-concept-phone-has-glowing-liquid-cooling/)
-- [Xiaomi unveils lightweight AR glasses with ‘retina-level’ display](https://techcrunch.com/2023/02/27/xiaomi-unveils-lightweight-ar-glasses-with-retina-level-display/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
