@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Oppo, Vivo, and Xiaomi are bringing satellite communication to their devices through Qualcomm](https://techcrunch.com/2023/02/26/xiaomi-oppo-and-vivo-are-bringing-satellite-communication-to-their-devices-through-qualcomm/)
 - [Mobile carriers team up with AWS, Microsoft to launch Open Gateway, a set of Twilio-like APIs to tap network services](https://techcrunch.com/2023/02/26/mobile-carriers-team-up-with-aws-microsoft-to-launch-open-gateway-a-set-of-twilio-like-apis-to-tap-network-services/)
 - [Indian fintech CRED adds buy now, pay later and tap to pay offerings](https://techcrunch.com/2023/02/26/cred-bnpl-and-tap-to-pay/)
 - [Microsoft Azure expands its telco solutions](https://techcrunch.com/2023/02/26/microsoft-azure-expands-its-telco-solutions/)
 - [More layoffs at Twitter, and loyalist Esther Crawford isn’t spared](https://techcrunch.com/2023/02/26/more-layoffs-at-twitter-and-loyalist-esther-crawford-isnt-spared/)
-- [Experience SpaceX&#39;s Crew-6 astronaut mission with these amazing photos](https://www.space.com/spacex-crew-6-amazing-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
