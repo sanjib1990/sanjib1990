@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s IBEX spacecraft not responding to commands after computer glitch during 15-year mission to study interstellar border](https://www.space.com/nasa-ibex-flight-computer-reset-february-2023)
+- [Reddit now lets you search comments within a post](https://techcrunch.com/2023/02/27/reddit-now-lets-you-search-comments-within-a-post/)
 - [Intense solar storm supercharges auroras over UK and more &lpar;photos&rpar;](https://www.space.com/aurora-displays-british-isles-february-2023)
 - [Inside Startup Battlefield: Getting to know the Battlefield 200](https://techcrunch.com/2023/02/27/inside-startup-battlefield-getting-to-know-the-battlefield-200/)
 - [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [SpaceX now targeting early Thursday for Crew-6 astronaut launch](https://www.space.com/spacex-crew-6-astronaut-launch-march-2)
-- [VSCO is growing into a legit social network for photographers](https://techcrunch.com/2023/02/27/vsco-is-growing-into-a-legit-social-network-for-photographers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
