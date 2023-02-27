@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Born of drone tech, InsureTech Flock raises $38M Series B to nudge commercial drivers towards safety](https://techcrunch.com/2023/02/27/born-of-drone-tech-insuretech-flock-raises-38m-series-b-to-nudge-commercial-drivers-towards-safety/)
+- [Google announces new features for Android and Wear OS](https://techcrunch.com/2023/02/27/google-announces-new-features-for-android-and-wear-os/)
 - [OnePlus’ gaming concept phone has glowing liquid cooling](https://techcrunch.com/2023/02/27/oneplus-new-concept-phone-has-glowing-liquid-cooling/)
 - [Xiaomi unveils lightweight AR glasses with ‘retina-level’ display](https://techcrunch.com/2023/02/27/xiaomi-unveils-lightweight-ar-glasses-with-retina-level-display/)
 - [SpaceX scrubs Crew-6 astronaut launch due to ignition-fluid issue](https://www.space.com/spacex-crew-6-astronaut-launch-scrub)
-- [Oppo, Vivo, and Xiaomi are bringing satellite communication to their devices through Qualcomm](https://techcrunch.com/2023/02/26/xiaomi-oppo-and-vivo-are-bringing-satellite-communication-to-their-devices-through-qualcomm/)
-- [Mobile carriers team up with AWS, Microsoft to launch Open Gateway, a set of Twilio-like APIs to tap network services](https://techcrunch.com/2023/02/26/mobile-carriers-team-up-with-aws-microsoft-to-launch-open-gateway-a-set-of-twilio-like-apis-to-tap-network-services/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
