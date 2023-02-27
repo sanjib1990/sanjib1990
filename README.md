@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Astroscale closes new funding to grow in-orbit servicing and orbital debris clean-up tech](https://techcrunch.com/2023/02/27/astroscale-closes-new-funding-to-grow-in-orbit-servicing-and-orbital-debris-clean-up-tech/)
-- [DoJ accuses Google of deleting chats in its antitrust investigation, similar to Fortnite’s case](https://techcrunch.com/2023/02/27/doj-accuses-google-of-deleting-chats-in-its-antitrust-investigation-similar-to-fortnites-case/)
-- [NASA&#39;s IBEX spacecraft not responding to commands after computer glitch during 15-year mission to study interstellar border](https://www.space.com/nasa-ibex-flight-computer-reset-february-2023)
-- [Reddit now lets you search comments within a post](https://techcrunch.com/2023/02/27/reddit-now-lets-you-search-comments-within-a-post/)
-- [Intense solar storm supercharges auroras over UK and more &lpar;photos&rpar;](https://www.space.com/aurora-displays-british-isles-february-2023)
+- [Canada bans TikTok on government devices](https://techcrunch.com/2023/02/27/canada-bans-tiktok-on-government-devices/)
+- [Who markets marketing? This duo started a VC firm to scale what ‘founders are starving for’](https://techcrunch.com/2023/02/27/who-markets-marketing-this-duo-started-a-vc-firm-to-scale-what-founders-are-starving-for/)
+- [We need more rules for space junk and moon bases, NASA and US officials say](https://www.space.com/national-space-council-moon-bases-space-junk-regulation)
+- [NASA&#39;s SWOT water satellite suffers instrument shutdown in orbit](https://www.space.com/nasa-swot-water-satellite-instrument-shutdown-february-2023)
+- [Astroscale closes new funding to grow in-orbit servicing and orbital debris cleanup tech](https://techcrunch.com/2023/02/27/astroscale-closes-new-funding-to-grow-in-orbit-servicing-and-orbital-debris-clean-up-tech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
