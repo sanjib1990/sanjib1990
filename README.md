@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Interview with Bernard Harris, the 1st African-American spacewalker](https://www.space.com/nasa-astronaut-spacewalker-bernard-harris-interview)
+- [Going private: A guide to PE tech acquisitions](https://techcrunch.com/2023/02/27/going-private-a-guide-to-pe-tech-acquisitions/)
 - [Anthropic begins supplying its text-generating AI models to select startups](https://techcrunch.com/2023/02/27/anthropic-begins-supplying-its-text-generating-ai-models-to-startups/)
 - [EU uses key telco stage to press the case for rethinking network funding](https://techcrunch.com/2023/02/27/thierry-breton-mwc-2023-speech/)
 - [CollX raises $5.5M to scan and evaluate value of trading cards](https://techcrunch.com/2023/02/27/collx-raises-5-5m-to-scan-and-evaluate-value-of-trading-cards/)
-- [Watch SpaceX launch 2 rockets less than an hour apart on Monday](https://www.space.com/spacex-starlink-launch-doubleheader-february-27)
-- [See the half moon pass by Mars in the sky tonight](https://www.space.com/half-moon-passes-fading-mars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
