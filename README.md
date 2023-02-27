@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Who still loves fintech?](https://techcrunch.com/2023/02/27/who-still-loves-fintech/)
-- [Fantasy sports app Champions Round raises $7M to build new content creator feature](https://techcrunch.com/2023/02/27/fantasy-sports-app-champions-round-raises-7-million/)
-- [How many satellites can we safely fit in Earth orbit?](https://www.space.com/how-many-satellites-fit-safely-earth-orbit)
-- [Apply now to speak at TechCrunch Disrupt in September](https://techcrunch.com/2023/02/27/apply-to-speak-at-disrupt-2023/)
-- [Snapchat launches an AI chatbot powered by OpenAI’s GPT technology](https://techcrunch.com/2023/02/27/snapchat-launches-an-ai-chatbot-powered-by-openais-gpt-technology/)
+- [Bending Spoons lays off 129 Evernote staffers](https://techcrunch.com/2023/02/27/bending-spoons-lays-off-129-evernote-staffers/)
+- [Meta backs a new system that allows minors to stop their intimate images from being posted online](https://techcrunch.com/2023/02/27/meta-backs-a-new-system-that-allows-minors-to-stop-their-intimate-images-from-being-posted-online/)
+- [Pokémon Go gets integration with Scarlet &amp; Violet, plus Pokémon Sleep update](https://techcrunch.com/2023/02/27/pokemon-go-gets-integration-with-scarlet-violet-plus-pokemon-sleep-update/)
+- [Using predictive LTV to juice up marketing campaigns](https://techcrunch.com/2023/02/27/using-predictive-ltv-to-juice-up-marketing-campaigns/)
+- [Skydio soars to a $2.2 billion valuation after raising $230m Series E](https://techcrunch.com/2023/02/27/skydio-soars-to-a-2-2-billion-valuation-after-raising-230m-series-e/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
