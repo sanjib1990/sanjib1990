@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Planet Computers hits the desktop with a line of touchscreen Linux computers](https://techcrunch.com/2023/02/27/planet-computers-hits-the-desktop-with-a-line-of-linux-computers/)
 - [Born of drone tech, InsureTech Flock raises $38M Series B to nudge commercial drivers towards safety](https://techcrunch.com/2023/02/27/born-of-drone-tech-insuretech-flock-raises-38m-series-b-to-nudge-commercial-drivers-towards-safety/)
 - [Google announces new features for Android and Wear OS](https://techcrunch.com/2023/02/27/google-announces-new-features-for-android-and-wear-os/)
 - [OnePlus’ gaming concept phone has glowing liquid cooling](https://techcrunch.com/2023/02/27/oneplus-new-concept-phone-has-glowing-liquid-cooling/)
 - [Xiaomi unveils lightweight AR glasses with ‘retina-level’ display](https://techcrunch.com/2023/02/27/xiaomi-unveils-lightweight-ar-glasses-with-retina-level-display/)
-- [SpaceX scrubs Crew-6 astronaut launch due to ignition-fluid issue](https://www.space.com/spacex-crew-6-astronaut-launch-scrub)
 <!-- BLOG-POST-LIST:END -->
 
 ---
