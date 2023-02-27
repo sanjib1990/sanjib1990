@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic begins supplying its text-generating AI models to select startups](https://techcrunch.com/2023/02/27/anthropic-begins-supplying-its-text-generating-ai-models-to-startups/)
+- [EU uses key telco stage to press the case for rethinking network funding](https://techcrunch.com/2023/02/27/thierry-breton-mwc-2023-speech/)
 - [CollX raises $5.5M to scan and evaluate value of trading cards](https://techcrunch.com/2023/02/27/collx-raises-5-5m-to-scan-and-evaluate-value-of-trading-cards/)
 - [Watch SpaceX launch 2 rockets less than an hour apart on Monday](https://www.space.com/spacex-starlink-launch-doubleheader-february-27)
 - [See the half moon pass by Mars in the sky tonight](https://www.space.com/half-moon-passes-fading-mars)
-- [Planet Computers hits the desktop with a line of touchscreen Linux computers](https://techcrunch.com/2023/02/27/planet-computers-hits-the-desktop-with-a-line-of-linux-computers/)
-- [Born of drone tech, InsureTech Flock raises $38M Series B to nudge commercial drivers towards safety](https://techcrunch.com/2023/02/27/born-of-drone-tech-insuretech-flock-raises-38m-series-b-to-nudge-commercial-drivers-towards-safety/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
