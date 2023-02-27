@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astroscale closes new funding to grow in-orbit servicing and orbital debris clean-up tech](https://techcrunch.com/2023/02/27/astroscale-closes-new-funding-to-grow-in-orbit-servicing-and-orbital-debris-clean-up-tech/)
+- [DoJ accuses Google of deleting chats in its antitrust investigation, similar to Fortnite’s case](https://techcrunch.com/2023/02/27/doj-accuses-google-of-deleting-chats-in-its-antitrust-investigation-similar-to-fortnites-case/)
 - [NASA&#39;s IBEX spacecraft not responding to commands after computer glitch during 15-year mission to study interstellar border](https://www.space.com/nasa-ibex-flight-computer-reset-february-2023)
 - [Reddit now lets you search comments within a post](https://techcrunch.com/2023/02/27/reddit-now-lets-you-search-comments-within-a-post/)
 - [Intense solar storm supercharges auroras over UK and more &lpar;photos&rpar;](https://www.space.com/aurora-displays-british-isles-february-2023)
-- [Inside Startup Battlefield: Getting to know the Battlefield 200](https://techcrunch.com/2023/02/27/inside-startup-battlefield-getting-to-know-the-battlefield-200/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
