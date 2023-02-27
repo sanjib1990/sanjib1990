@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Here’s how every social media company is trying to adopt subscriptions](https://techcrunch.com/2023/02/27/social-media-apps-adopting-subscription-models/)
+- [Of course the Adobe-Figma deal is anti-competitive](https://techcrunch.com/2023/02/27/of-course-the-adobe-figma-deal-is-anti-competitive/)
+- [Dish hit by multi-day outage after reported cyberattack](https://techcrunch.com/2023/02/27/dish-outage-reported-cyberattack/)
+- [Marvel&#39;s &#39;Star Wars&#39; comics celebrate Women&#39;s History Month with Peach Momoko covers](https://www.space.com/star-wars-comics-womens-history-month-peach-momoko-covers)
 - [Bending Spoons lays off 129 Evernote staffers](https://techcrunch.com/2023/02/27/bending-spoons-lays-off-129-evernote-staffers/)
-- [Meta backs a new system that allows minors to stop their intimate images from being posted online](https://techcrunch.com/2023/02/27/meta-backs-a-new-system-that-allows-minors-to-stop-their-intimate-images-from-being-posted-online/)
-- [Pokémon Go gets integration with Scarlet &amp; Violet, plus Pokémon Sleep update](https://techcrunch.com/2023/02/27/pokemon-go-gets-integration-with-scarlet-violet-plus-pokemon-sleep-update/)
-- [Using predictive LTV to juice up marketing campaigns](https://techcrunch.com/2023/02/27/using-predictive-ltv-to-juice-up-marketing-campaigns/)
-- [Skydio soars to a $2.2 billion valuation after raising $230m Series E](https://techcrunch.com/2023/02/27/skydio-soars-to-a-2-2-billion-valuation-after-raising-230m-series-e/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
