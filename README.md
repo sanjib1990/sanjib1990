@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Spade turns credit card transaction gibberish into clear, actionable data](https://techcrunch.com/2023/02/27/spade-credit-card-data-a16z/)
-- [As companies shift from growth to efficiency, what does it mean for tech budgets?](https://techcrunch.com/2023/02/27/as-companies-shift-from-growth-to-efficiency-what-does-it-mean-for-tech-budgets/)
-- [SpaceX astronaut missions for NASA: Crew-6 updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates)
-- [Cloud security startup Wiz, now valued at $10B, raises $300M](https://techcrunch.com/2023/02/27/cloud-security-startup-wiz-now-valued-at-10b-raises-300m/)
-- [Interview with Bernard Harris, the 1st African-American spacewalker](https://www.space.com/nasa-astronaut-spacewalker-bernard-harris-interview)
+- [Who still loves fintech?](https://techcrunch.com/2023/02/27/who-still-loves-fintech/)
+- [Fantasy sports app Champions Round raises $7M to build new content creator feature](https://techcrunch.com/2023/02/27/fantasy-sports-app-champions-round-raises-7-million/)
+- [How many satellites can we safely fit in Earth orbit?](https://www.space.com/how-many-satellites-fit-safely-earth-orbit)
+- [Apply now to speak at TechCrunch Disrupt in September](https://techcrunch.com/2023/02/27/apply-to-speak-at-disrupt-2023/)
+- [Snapchat launches an AI chatbot powered by OpenAI’s GPT technology](https://techcrunch.com/2023/02/27/snapchat-launches-an-ai-chatbot-powered-by-openais-gpt-technology/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
