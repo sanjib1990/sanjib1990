@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Intense solar storm supercharges auroras over UK and more &lpar;photos&rpar;](https://www.space.com/aurora-displays-british-isles-february-2023)
+- [Inside Startup Battlefield: Getting to know the Battlefield 200](https://techcrunch.com/2023/02/27/inside-startup-battlefield-getting-to-know-the-battlefield-200/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [SpaceX now targeting early Thursday for Crew-6 astronaut launch](https://www.space.com/spacex-crew-6-astronaut-launch-march-2)
 - [VSCO is growing into a legit social network for photographers](https://techcrunch.com/2023/02/27/vsco-is-growing-into-a-legit-social-network-for-photographers/)
-- [Why so many gigafactories? It’s not just EVs driving demand](https://techcrunch.com/2023/02/27/why-so-many-gigafactories-its-not-just-evs-driving-demand/)
-- [Inside the Sony-Honda Afeela concept](https://techcrunch.com/2023/02/27/inside-the-sony-honda-afeela-concept/)
-- [Spotify kills its heart button to be replaced with a “plus” sign](https://techcrunch.com/2023/02/27/spotify-kills-its-heart-button-to-be-replaced-with-a-plus-sign/)
-- [SepPure’s nanofilters massively reduce energy cost of industrial separation processes](https://techcrunch.com/2023/02/27/seppures-nanofilters-massively-reduce-energy-cost-of-industrial-separation-processes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
