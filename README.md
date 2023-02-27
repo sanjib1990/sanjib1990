@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Indian fintech CRED adds buy now, pay later and tap to pay offerings](https://techcrunch.com/2023/02/26/cred-bnpl-and-tap-to-pay/)
 - [Microsoft Azure expands its telco solutions](https://techcrunch.com/2023/02/26/microsoft-azure-expands-its-telco-solutions/)
 - [More layoffs at Twitter, and loyalist Esther Crawford isn’t spared](https://techcrunch.com/2023/02/26/more-layoffs-at-twitter-and-loyalist-esther-crawford-isnt-spared/)
 - [Experience SpaceX&#39;s Crew-6 astronaut mission with these amazing photos](https://www.space.com/spacex-crew-6-amazing-photos)
 - [DNA from 4 American presidents will launch to deep space](https://www.space.com/celestis-enterprise-us-presidents-dna-deep-space)
-- [Mapping out the future of AR, ThirdEye is taking on Google and Microsoft in real-life scenarios](https://techcrunch.com/2023/02/26/thirdeye-ar-glasses/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
