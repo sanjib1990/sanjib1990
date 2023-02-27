@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mammoth is a free Mastodon app for iOS that makes it easier to get started](https://techcrunch.com/2023/02/27/mammoth-is-a-free-mastodon-app-for-ios-that-makes-it-easier-to-get-started/)
+- [Daily Crunch: Mobile World Congress 2023 kicks off with new features for Android, Chromebook and Wear OS](https://techcrunch.com/2023/02/27/daily-crunch-mobile-world-congress-2023-kicks-off-with-new-features-for-android-chromebook-and-wear-os/)
+- [Max Q: It’s the final countdown](https://techcrunch.com/2023/02/27/max-q-its-the-final-countdown/)
 - [Canada bans TikTok on government devices](https://techcrunch.com/2023/02/27/canada-bans-tiktok-on-government-devices/)
 - [Who markets marketing? This duo started a VC firm to scale what ‘founders are starving for’](https://techcrunch.com/2023/02/27/who-markets-marketing-this-duo-started-a-vc-firm-to-scale-what-founders-are-starving-for/)
-- [We need more rules for space junk and moon bases, NASA and US officials say](https://www.space.com/national-space-council-moon-bases-space-junk-regulation)
-- [NASA&#39;s SWOT water satellite suffers instrument shutdown in orbit](https://www.space.com/nasa-swot-water-satellite-instrument-shutdown-february-2023)
-- [Astroscale closes new funding to grow in-orbit servicing and orbital debris cleanup tech](https://techcrunch.com/2023/02/27/astroscale-closes-new-funding-to-grow-in-orbit-servicing-and-orbital-debris-clean-up-tech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
