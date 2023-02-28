@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Serena Ventures backs SoLo Funds as finance platform tops 1M registered users](https://techcrunch.com/2023/02/28/serena-ventures-solo-funds-1m-registered-users/)
-- [Gable raises the roof &lpar;and $12M&rpar; for better remote working options](https://techcrunch.com/2023/02/28/gable-series-a/)
-- [Google is rolling out fall detection to all Pixel Watch users](https://techcrunch.com/2023/02/28/google-is-rolling-out-fall-detection-to-all-pixel-watch-users/)
-- [Bonusly, a startup aiming to help employees get recognized for quality work, raises $18.8M](https://techcrunch.com/2023/02/28/bonusly-a-startup-aiming-to-help-employees-get-recognized-for-quality-work-raises-18-8m/)
-- [Google says Chrome won’t drain your MacBook battery as much](https://techcrunch.com/2023/02/28/google-says-chrome-wont-drain-your-macbook-battery-as-much/)
+- [New &#39;Star Trek: The Motion Picture—Echoes&#39; comic series channels the 1979 film](https://www.space.com/idw-star-trek-motion-picture-echoes-comic-series)
+- [SpaceX astronaut missions for NASA: Crew-6 updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates)
+- [Canva launches a new paid subscription for universities and colleges](https://techcrunch.com/2023/02/28/canva-for-campus-college/)
+- [US Marshals Service says hackers accessed sensitive law enforcement data](https://techcrunch.com/2023/02/28/us-marshals-service-says-hackers-accessed-sensitive-law-enforcement-data/)
+- [Key legal issues for influencers and brands &lpar;and how to deal with them&rpar;](https://techcrunch.com/2023/02/28/key-legal-issues-for-influencers-and-brands-and-how-to-deal-with-them/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
