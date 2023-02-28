@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Active learning is the future of generative AI: Here’s how to leverage it](https://techcrunch.com/2023/02/28/active-learning-is-the-future-of-generative-ai-heres-how-to-leverage-it/)
-- [Bitwise Industries lands $80M to expand its sprawling software dev business](https://techcrunch.com/2023/02/28/bitwise-industries-lands-80m-to-expand-its-sprawling-software-dev-business/)
-- [Businesses can now hire project managers through Fiverr](https://techcrunch.com/2023/02/28/businesses-can-now-hire-project-managers-through-fiverr/)
-- [FAA seeks to fine SpaceX for August 2022 Starlink launch](https://www.space.com/faa-proposes-fining-spacex-starlink-launch)
-- [African watchdog forces Jumia to review its terms in push to protect consumers](https://techcrunch.com/2023/02/28/african-watchdog-forces-jumia-to-review-its-terms-in-push-to-protect-consumers/)
+- [Serena Ventures backs SoLo Funds as finance platform tops 1M registered users](https://techcrunch.com/2023/02/28/serena-ventures-solo-funds-1m-registered-users/)
+- [Gable raises the roof &lpar;and $12M&rpar; for better remote working options](https://techcrunch.com/2023/02/28/gable-series-a/)
+- [Google is rolling out fall detection to all Pixel Watch users](https://techcrunch.com/2023/02/28/google-is-rolling-out-fall-detection-to-all-pixel-watch-users/)
+- [Bonusly, a startup aiming to help employees get recognized for quality work, raises $18.8M](https://techcrunch.com/2023/02/28/bonusly-a-startup-aiming-to-help-employees-get-recognized-for-quality-work-raises-18-8m/)
+- [Google says Chrome won’t drain your MacBook battery as much](https://techcrunch.com/2023/02/28/google-says-chrome-wont-drain-your-macbook-battery-as-much/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
