@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Flipboard joins the Fediverse with a Mastodon integration and community, plans for ActivityPub](https://techcrunch.com/2023/02/28/flipboard-joins-the-fediverse-with-a-mastodon-integration-and-community-plans-for-activitypub/)
+- [Watch SpaceX deploy its 1st V2 mini Starlink internet satellites in orbit in this stunning video](https://www.space.com/spacex-starlink-satellite-v2-mini-deploy-video)
+- [Archetype wants to help developers build a metered API billing solution](https://techcrunch.com/2023/02/28/archetype-wants-to-help-developers-build-a-metered-api-billing-solution/)
+- [VCs and founders are finding life easy in the Big Easy](https://techcrunch.com/2023/02/28/new-orleans-venture-capital-startups/)
 - [New &#39;Star Trek: The Motion Picture—Echoes&#39; comic series channels the 1979 film](https://www.space.com/idw-star-trek-motion-picture-echoes-comic-series)
-- [SpaceX astronaut missions for NASA: Crew-6 updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates)
-- [Canva launches a new paid subscription for universities and colleges](https://techcrunch.com/2023/02/28/canva-for-campus-college/)
-- [US Marshals Service says hackers accessed sensitive law enforcement data](https://techcrunch.com/2023/02/28/us-marshals-service-says-hackers-accessed-sensitive-law-enforcement-data/)
-- [Key legal issues for influencers and brands &lpar;and how to deal with them&rpar;](https://techcrunch.com/2023/02/28/key-legal-issues-for-influencers-and-brands-and-how-to-deal-with-them/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
