@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Astronomers spy new class of dark, water-rich asteroids like dwarf planet Ceres](https://www.space.com/dark-water-rich-asteroids-dwarf-planet-ceres)
-- [Google says Chrome won’t drain your MacBook battery as much](https://techcrunch.com/2023/02/28/google-says-chrome-wont-drain-your-macbook-battery-as-much/)
-- [Microservices orchestration platform Temporal raises $75M and remains a unicorn](https://techcrunch.com/2023/02/28/microservices-orchestration-platform-temporal-raises-75m-and-remains-a-unicorn/)
-- [MortalKombat ransomware victims can now decrypt their files for free](https://techcrunch.com/2023/02/28/mortalkombat-ransomware-victims-can-now-decrypt-their-files-for-free/)
-- [Putting the Boston in Boston Dynamics](https://techcrunch.com/2023/02/28/putting-the-boston-in-boston-dynamics/)
+- [TechCrunch+ roundup: Using predictive LTV, Boston VC survey, active learning for ML teams](https://techcrunch.com/2023/02/28/techcrunch-roundup-using-predictive-ltv-boston-vc-survey-active-learning-for-ml-teams/)
+- [Private Japanese lander sets distance record on its way to the moon](https://www.space.com/ispace-hakuto-r-moon-lander-distance-record)
+- [With 5 activists in the mix, Salesforce will report earnings Wednesday](https://techcrunch.com/2023/02/28/with-5-activists-in-the-mix-salesforce-will-report-earnings-wednesday/)
+- [4 big asteroids are flying by Earth this week, but don&#39;t worry. They aren&#39;t getting too close.](https://www.space.com/four-big-asteroid-flybys-february-march-2023)
+- [Venus has a squishy shell that might be key to its youthful look](https://www.space.com/squishy-shell-makes-venus-look-young)
 <!-- BLOG-POST-LIST:END -->
 
 ---
