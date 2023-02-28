@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Eyeing a new lunar economy, ispace plans to land on the moon at the end of April](https://techcrunch.com/2023/02/27/eyeing-a-new-lunar-economy-ispace-plans-to-land-on-the-moon-at-the-end-of-april/)
+- [Waymo to test driverless rides with employees in Los Angeles](https://techcrunch.com/2023/02/27/waymo-to-test-driverless-rides-with-employees-in-los-angeles/)
 - [FTC warns tech: ‘Keep your AI claims in check’](https://techcrunch.com/2023/02/27/ftc-warns-tech-keep-your-ai-claims-in-check/)
-- [Chris Rock gears up to talk about “The Slap” in a live performance on Netflix this Saturday](https://techcrunch.com/2023/02/27/chris-rock-gears-up-to-talk-about-the-slap-in-a-live-performance-on-netflix-this-saturday/)
+- [Chris Rock to address ‘The Slap’ in Netflix’s first livestreamed broadcast this Saturday](https://techcrunch.com/2023/02/27/chris-rock-gears-up-to-talk-about-the-slap-in-a-live-performance-on-netflix-this-saturday/)
 - [Senator Markey calls on Elon Musk to reinstate Twitter’s accessibility team](https://techcrunch.com/2023/02/27/senator-markey-calls-on-elon-musk-to-reinstate-twitters-accessibility-team/)
-- [Mammoth is a free Mastodon app for iOS that makes it easier to get started](https://techcrunch.com/2023/02/27/mammoth-is-a-free-mastodon-app-for-ios-that-makes-it-easier-to-get-started/)
-- [Daily Crunch: Mobile World Congress 2023 kicks off with new features for Android, Chromebook and Wear OS](https://techcrunch.com/2023/02/27/daily-crunch-mobile-world-congress-2023-kicks-off-with-new-features-for-android-chromebook-and-wear-os/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
