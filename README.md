@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Want to go from direct-to-consumer to retail? This startup has a platform for that](https://techcrunch.com/2023/02/28/crstl-commerce-direct-to-consumer-retail-seed/)
-- [For Bain Capital Ventures, ‘it is 2021 all over again’ &lpar;well, almost&rpar;](https://techcrunch.com/2023/02/28/bain-capital-ventures-1-9-billion-2021-all-over-again/)
-- [Watch SpaceX launch 51 Starlink satellites to orbit on Tuesday](https://www.space.com/spacex-starlink-launch-group-2-7)
-- [China&#39;s Zhurong rover reveals complex layers beneath the surface of Mars](https://www.space.com/china-zhurong-rover-mars-subsurface-layers)
-- [OnePlus’ first foldable will arrive in the second half of the year](https://techcrunch.com/2023/02/28/oneplus-first-foldable-will-arrive-in-the-second-half-of-the-year/)
+- [Active learning is the future of generative AI: Here’s how to leverage it](https://techcrunch.com/2023/02/28/active-learning-is-the-future-of-generative-ai-heres-how-to-leverage-it/)
+- [Bitwise Industries lands $80M to expand its sprawling software dev business](https://techcrunch.com/2023/02/28/bitwise-industries-lands-80m-to-expand-its-sprawling-software-dev-business/)
+- [Businesses can now hire project managers through Fiverr](https://techcrunch.com/2023/02/28/businesses-can-now-hire-project-managers-through-fiverr/)
+- [FAA seeks to fine SpaceX for August 2022 Starlink launch](https://www.space.com/faa-proposes-fining-spacex-starlink-launch)
+- [African watchdog forces Jumia to review its terms in push to protect consumers](https://techcrunch.com/2023/02/28/african-watchdog-forces-jumia-to-review-its-terms-in-push-to-protect-consumers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
