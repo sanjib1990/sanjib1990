@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cycle is a new product management hub that centralizes all customer feedback](https://techcrunch.com/2023/02/28/cycle-is-a-new-product-management-hub-that-centralizes-all-customer-feedback/)
 - [Meta says it is experimenting with AI-powered chat on WhatsApp and Messenger](https://techcrunch.com/2023/02/27/meta-says-it-is-experimenting-with-ai-powered-chat-on-whatsapp-and-messenger/)
 - [Eyeing a new lunar economy, ispace plans to land on the moon at the end of April](https://techcrunch.com/2023/02/27/eyeing-a-new-lunar-economy-ispace-plans-to-land-on-the-moon-at-the-end-of-april/)
 - [Waymo to test driverless rides with employees in Los Angeles](https://techcrunch.com/2023/02/27/waymo-to-test-driverless-rides-with-employees-in-los-angeles/)
 - [FTC warns tech: ‘Keep your AI claims in check’](https://techcrunch.com/2023/02/27/ftc-warns-tech-keep-your-ai-claims-in-check/)
-- [Chris Rock to address ‘The Slap’ in Netflix’s first livestreamed broadcast this Saturday](https://techcrunch.com/2023/02/27/chris-rock-gears-up-to-talk-about-the-slap-in-a-live-performance-on-netflix-this-saturday/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
