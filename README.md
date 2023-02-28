@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Remote workspace platform Gable raises $12M Series A](https://techcrunch.com/2023/02/28/daily-crunch-remote-workspace-platform-gable-raises-12m-series-a/)
+- [China launches secretive Horus 1 remote-sensing satellite &lpar;video&rpar;](https://www.space.com/china-launches-secretive-horus-1-satellite)
+- [Startup inks $65M deal to help Air Force make ‘sustainable’ jet fuel on bases](https://techcrunch.com/2023/02/28/air-company-65m-deal-air-force-make-sustainable-jet-fuel-on-bases/)
 - [Virgin Galactic&#39;s carrier plane flies back to New Mexico spaceport](https://www.space.com/virgin-galactic-vms-eve-returns-spaceport-america)
 - [&#39;Absolutely unreal:&#39; NASA astronaut snaps amazing photo of auroras from space station](https://www.space.com/astronaut-josh-cassada-aurora-photo-space-station)
-- [Rivian shares fall on missed revenue expectations, production forecast](https://techcrunch.com/2023/02/28/rivian-shares-fall-on-missed-revenue-expectations-production-forecast/)
-- [Mozilla leads Mastodon app Mammoth’s pre-seed funding](https://techcrunch.com/2023/02/28/mozilla-leads-mastodon-app-mammoths-pre-seed-funding/)
-- [Powerful solar storm delays SpaceX rocket launch, stalls oil rigs in Canada amid aurora-palooza](https://www.space.com/solar-storm-delays-spacex-launch-supercharges-auroras)
 <!-- BLOG-POST-LIST:END -->
 
 ---
