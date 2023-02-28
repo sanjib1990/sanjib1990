@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [FTC warns tech: ‘Keep your AI claims in check’](https://techcrunch.com/2023/02/27/ftc-warns-tech-keep-your-ai-claims-in-check/)
+- [Chris Rock gears up to talk about “The Slap” in a live performance on Netflix this Saturday](https://techcrunch.com/2023/02/27/chris-rock-gears-up-to-talk-about-the-slap-in-a-live-performance-on-netflix-this-saturday/)
+- [Senator Markey calls on Elon Musk to reinstate Twitter’s accessibility team](https://techcrunch.com/2023/02/27/senator-markey-calls-on-elon-musk-to-reinstate-twitters-accessibility-team/)
 - [Mammoth is a free Mastodon app for iOS that makes it easier to get started](https://techcrunch.com/2023/02/27/mammoth-is-a-free-mastodon-app-for-ios-that-makes-it-easier-to-get-started/)
 - [Daily Crunch: Mobile World Congress 2023 kicks off with new features for Android, Chromebook and Wear OS](https://techcrunch.com/2023/02/27/daily-crunch-mobile-world-congress-2023-kicks-off-with-new-features-for-android-chromebook-and-wear-os/)
-- [Max Q: It’s the final countdown](https://techcrunch.com/2023/02/27/max-q-its-the-final-countdown/)
-- [Canada bans TikTok on government devices](https://techcrunch.com/2023/02/27/canada-bans-tiktok-on-government-devices/)
-- [Who markets marketing? This duo started a VC firm to scale what ‘founders are starving for’](https://techcrunch.com/2023/02/27/who-markets-marketing-this-duo-started-a-vc-firm-to-scale-what-founders-are-starving-for/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
