@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [JAXA selects 2 new astronaut candidates for future flights to the moon](https://www.space.com/jaxa-japan-astronaut-selection-artemis-moon-program)
+- [Record breakers! Super-close dwarf stars orbit each other in less than a day](https://www.space.com/ultracool-dwarf-binary-stars-closest-ever)
+- [TIDAL will cut ‘direct artist payout’ program to invest more in emerging artists](https://techcrunch.com/2023/02/28/tidal-will-cut-direct-artist-payout-program-to-invest-more-in-emerging-artists/)
+- [Ethereum NFT marketplace passes $1B in volume for first time since May as the creator royalties war heats up](https://techcrunch.com/2023/02/28/ethereum-nft-marketplace-passes-1b-in-volume-for-first-time-since-may-as-the-creator-royalties-war-heats-up/)
 - [Jack Dorsey-backed Twitter alternative Bluesky hits the App Store as an invite-only app](https://techcrunch.com/2023/02/28/jack-dorsey-backed-twitter-alternative-bluesky-hits-the-app-store-as-an-invite-only-app/)
-- [Dish confirms ransomware attack allowed hackers to steal personal data](https://techcrunch.com/2023/02/28/dish-cyberattack-personal-data-theft/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [Typeface emerges from stealth with $65M to bring generative AI to the enterprise](https://techcrunch.com/2023/02/28/typeface-emerges-from-stealth-with-65m-to-bring-generative-ai-to-the-enterprise/)
-- [TechCrunch+ roundup: Using predictive LTV, Boston VC survey, active learning for ML teams](https://techcrunch.com/2023/02/28/techcrunch-roundup-using-predictive-ltv-boston-vc-survey-active-learning-for-ml-teams/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
