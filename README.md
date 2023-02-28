@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Want to go from direct-to-consumer to retail? This startup has a platform for that](https://techcrunch.com/2023/02/28/crstl-commerce-direct-to-consumer-retail-seed/)
+- [For Bain Capital Ventures, ‘it is 2021 all over again’ &lpar;well, almost&rpar;](https://techcrunch.com/2023/02/28/bain-capital-ventures-1-9-billion-2021-all-over-again/)
 - [Watch SpaceX launch 51 Starlink satellites to orbit on Tuesday](https://www.space.com/spacex-starlink-launch-group-2-7)
 - [China&#39;s Zhurong rover reveals complex layers beneath the surface of Mars](https://www.space.com/china-zhurong-rover-mars-subsurface-layers)
 - [OnePlus’ first foldable will arrive in the second half of the year](https://techcrunch.com/2023/02/28/oneplus-first-foldable-will-arrive-in-the-second-half-of-the-year/)
-- [Cycle is a new product management hub that centralizes all customer feedback](https://techcrunch.com/2023/02/28/cycle-is-a-new-product-management-hub-that-centralizes-all-customer-feedback/)
-- [Meta says it is experimenting with AI-powered chat on WhatsApp and Messenger](https://techcrunch.com/2023/02/27/meta-says-it-is-experimenting-with-ai-powered-chat-on-whatsapp-and-messenger/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
