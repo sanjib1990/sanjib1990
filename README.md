@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Powerful solar storm delays SpaceX rocket launch, stalls oil rigs in Canada amid aurora-palooza](https://www.space.com/solar-storm-delays-spacex-launch-supercharges-auroras)
 - [JAXA selects 2 new astronaut candidates for future flights to the moon](https://www.space.com/jaxa-japan-astronaut-selection-artemis-moon-program)
 - [Record breakers! Super-close dwarf stars orbit each other in less than a day](https://www.space.com/ultracool-dwarf-binary-stars-closest-ever)
 - [TIDAL will cut ‘direct artist payout’ program to invest more in emerging artists](https://techcrunch.com/2023/02/28/tidal-will-cut-direct-artist-payout-program-to-invest-more-in-emerging-artists/)
 - [Ethereum NFT marketplace passes $1B in volume for first time since May as the creator royalties war heats up](https://techcrunch.com/2023/02/28/ethereum-nft-marketplace-passes-1b-in-volume-for-first-time-since-may-as-the-creator-royalties-war-heats-up/)
-- [Jack Dorsey-backed Twitter alternative Bluesky hits the App Store as an invite-only app](https://techcrunch.com/2023/02/28/jack-dorsey-backed-twitter-alternative-bluesky-hits-the-app-store-as-an-invite-only-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
