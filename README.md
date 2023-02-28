@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Flipboard joins the Fediverse with a Mastodon integration and community, plans for ActivityPub](https://techcrunch.com/2023/02/28/flipboard-joins-the-fediverse-with-a-mastodon-integration-and-community-plans-for-activitypub/)
-- [Watch SpaceX deploy its 1st V2 mini Starlink internet satellites in orbit in this stunning video](https://www.space.com/spacex-starlink-satellite-v2-mini-deploy-video)
-- [Archetype wants to help developers build a metered API billing solution](https://techcrunch.com/2023/02/28/archetype-wants-to-help-developers-build-a-metered-api-billing-solution/)
-- [VCs and founders are finding life easy in the Big Easy](https://techcrunch.com/2023/02/28/new-orleans-venture-capital-startups/)
-- [New &#39;Star Trek: The Motion Picture—Echoes&#39; comic series channels the 1979 film](https://www.space.com/idw-star-trek-motion-picture-echoes-comic-series)
+- [Astronomers spy new class of dark, water-rich asteroids like dwarf planet Ceres](https://www.space.com/dark-water-rich-asteroids-dwarf-planet-ceres)
+- [Google says Chrome won’t drain your MacBook battery as much](https://techcrunch.com/2023/02/28/google-says-chrome-wont-drain-your-macbook-battery-as-much/)
+- [Microservices orchestration platform Temporal raises $75M and remains a unicorn](https://techcrunch.com/2023/02/28/microservices-orchestration-platform-temporal-raises-75m-and-remains-a-unicorn/)
+- [MortalKombat ransomware victims can now decrypt their files for free](https://techcrunch.com/2023/02/28/mortalkombat-ransomware-victims-can-now-decrypt-their-files-for-free/)
+- [Putting the Boston in Boston Dynamics](https://techcrunch.com/2023/02/28/putting-the-boston-in-boston-dynamics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
