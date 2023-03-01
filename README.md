@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Headless CMS startup Strapi launches Strapi Cloud](https://techcrunch.com/2023/03/01/headless-cms-startup-strapi-launches-strapi-cloud/)
-- [Ben Nye’s new VC firm won’t just give you a fish, but will guide you to the best lake](https://techcrunch.com/2023/03/01/ben-nyes-new-vc-firm-wont-just-give-you-a-fish-but-will-guide-you-to-the-best-lake/)
-- [DoorDash launches its first co-branded credit card with Chase](https://techcrunch.com/2023/03/01/doordash-launches-its-first-co-branded-credit-card-with-chase/)
-- [Insurtech giant Equisoft lands $125M investment, eyes acquisitions](https://techcrunch.com/2023/03/01/insurtech-giant-equisoft-lands-125m-investment-eyes-acquisitions/)
-- [European Union to build its own satellite-internet constellation](https://www.space.com/european-union-satellite-internet-constellation-iriss)
+- [Netflix’s ‘Stranger Things’ gets a stage play about the origin story of Vecna](https://techcrunch.com/2023/03/01/netflixs-stranger-things-gets-a-stage-play-about-the-origin-story-of-vecna/)
+- [Dear Sophie: What are my options for changing my status from an L-1 visa?](https://techcrunch.com/2023/03/01/dear-sophie-what-are-my-options-for-changing-my-status-from-an-l-1-visa/)
+- [Savant Labs aims to bring analytics directly to line of business users](https://techcrunch.com/2023/03/01/savant-labs-aims-to-bring-analytics-directly-to-line-of-business-users/)
+- [This is fintech’s ‘Noah’s Ark Year’](https://techcrunch.com/2023/03/01/this-is-fintechs-noahs-ark-year/)
+- [Celestron Outland X 10x42 binoculars review](https://www.space.com/celestron-outland-x-10x42-binocular-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
