@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Varo, Stripe said to be raising new funds at much lower valuations](https://techcrunch.com/2023/03/01/varo-stripe-said-to-be-raising-new-funds-at-much-lower-valuations/)
-- [Zarta, a creator platform focused on pay-per-view video content, raises $5.7M led by a16z](https://techcrunch.com/2023/03/01/zarta-a-creator-platform-focused-on-pay-per-view-video-content-raises-5-7m-led-by-a16z/)
-- [Elliott has nominated its own slate of candidates for Salesforce board](https://techcrunch.com/2023/03/01/elliott-has-nominated-its-own-slate-of-candidates-for-salesforce-board/)
-- [Chainlink’s new platform lets web3 projects connect to Web 2.0 systems like AWS and Meta](https://techcrunch.com/2023/03/01/chainlink-launches-web3-dev-platform-to-connect-builders-to-web2-0-apis-like-aws-and-meta/)
-- [Culinary marketplace Shef whips up nationwide expansion with new funding, growth ingredients](https://techcrunch.com/2023/03/01/food-marketplace-shef-series-b/)
+- [Thoughtworks lays off around 500 employees amid ongoing slowdown](https://techcrunch.com/2023/03/01/thoughtworks-layoffs-economic-slowdown/)
+- [Does web3 need a venture bailout now that AI has all the hype?](https://techcrunch.com/2023/03/01/does-web3-need-a-venture-bailout-now-that-ai-has-all-the-hype/)
+- [Proposed bill would give Biden the power to ban TikTok](https://techcrunch.com/2023/03/01/proposed-bill-would-give-biden-the-power-to-ban-tiktok/)
+- [Tesla Investor Day: Here’s how to watch and what to expect](https://techcrunch.com/2023/03/01/tesla-investor-day-how-to-watch-what-to-expect/)
+- [SpaceX &#39;go&#39; to launch Crew-6 astronauts for NASA on March 2 after rocket review](https://www.space.com/spacex-crew-6-astronaut-go-for-launch-march-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
