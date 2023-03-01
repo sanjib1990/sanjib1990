@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Shortwave email app introduces AI-powered summaries](https://techcrunch.com/2023/03/01/shortwave-email-app-introduces-ai-powered-summaries/)
-- [D-ID unveils new chat API to enable face-to-face conversations with an AI digital human](https://techcrunch.com/2023/02/28/d-id-unveils-new-chat-api-to-enable-face-to-face-conversations-with-an-ai-digital-human/)
-- [Sequoia heats up early-stage startup investments in India and Southeast Asia](https://techcrunch.com/2023/02/28/sequoia-heats-up-early-stage-startup-investments-in-india-and-southeast-asia/)
-- [Amazon is letting employees use their stock to finance home purchases and even second homes](https://techcrunch.com/2023/02/28/amazon-is-letting-employees-use-their-stock-to-finance-home-purchases-and-even-second-homes/)
-- [StudentFinance nabs $41M to help Europeans upskill for in-demand jobs](https://techcrunch.com/2023/02/28/studentfinance-nabs-41m-to-help-europeans-upskill-for-in-demand-jobs/)
+- [TikTok rolls out new screen time controls, adds new default settings for teens and expands Family Pairing](https://techcrunch.com/2023/03/01/tiktok-rolls-out-new-screen-time-controls-adds-new-default-settings-for-teens-and-expands-family-pairing/)
+- [Watch Venus and Jupiter come close to each other tonight and tomorrow in live webcasts](https://www.space.com/venus-jupiter-virtual-telescope-project-webcast-march-2023)
+- [Venus grade: NASA seeks a lander battery tough enough to survive Earth&#39;s evil twin](https://www.space.com/nasa-venus-lander-mission-battery-technology)
+- [Revolut reports first full year of profit](https://techcrunch.com/2023/03/01/revolut-reports-first-full-year-of-profit/)
+- [UK provisionally greenlights Viasat and Inmarsat’s $7.3B pointing to competition from Starlink](https://techcrunch.com/2023/03/01/uk-provisionally-greenlights-viasat-and-inmarsats-7-3b-pointing-to-competition-from-starlink/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
