@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Chase and DoorDash deliver new co-branded credit card with loyalty rewards](https://techcrunch.com/2023/03/01/daily-crunch-chase-and-doordash-deliver-new-co-branded-credit-card-with-loyalty-rewards/)
 - [Salesforce strikes back](https://techcrunch.com/2023/03/01/salesforce-strikes-back/)
 - [Link-in-bio platform Koji launches new tool to let creators sell e-books](https://techcrunch.com/2023/03/01/link-in-bio-platform-koji-launches-new-e-book-app/)
 - [Auroras, spacecraft mods and more: SpaceX Crew-5 astronauts reflect on their time in orbit](https://www.space.com/spacex-crew-5-astronaut-how-capture-auroras-space)
 - [Chamath Palihapitiya: it could take three years for the market to “accurately” reprice late-stage cos](https://techcrunch.com/2023/03/01/chamath-palihapitiya-venture-money/)
-- [Airbnb is banning people associated with prohibited users as a safety precaution](https://techcrunch.com/2023/03/01/airbnb-is-banning-people-associated-with-prohibited-users-as-a-safety-precaution/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
