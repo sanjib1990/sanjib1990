@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sequoia heats up early-stage startup investments in India and Southeast Asia](https://techcrunch.com/2023/02/28/sequoia-heats-up-early-stage-startup-investments-in-india-and-southeast-asia/)
+- [Amazon is letting employees use their stock to finance home purchases and even second homes](https://techcrunch.com/2023/02/28/amazon-is-letting-employees-use-their-stock-to-finance-home-purchases-and-even-second-homes/)
+- [StudentFinance nabs $41M to help Europeans upskill for in-demand jobs](https://techcrunch.com/2023/02/28/studentfinance-nabs-41m-to-help-europeans-upskill-for-in-demand-jobs/)
+- [E-commerce aggregator Una Brands lands $30M just five months after its Series B](https://techcrunch.com/2023/02/28/e-commerce-aggregator-una-brands-lands-30m-just-five-months-after-its-series-b/)
 - [Daily Crunch: Remote workspace platform Gable raises $12M Series A](https://techcrunch.com/2023/02/28/daily-crunch-remote-workspace-platform-gable-raises-12m-series-a/)
-- [China launches secretive Horus 1 remote-sensing satellite &lpar;video&rpar;](https://www.space.com/china-launches-secretive-horus-1-satellite)
-- [Startup inks $65M deal to help Air Force make ‘sustainable’ jet fuel on bases](https://techcrunch.com/2023/02/28/air-company-65m-deal-air-force-make-sustainable-jet-fuel-on-bases/)
-- [Virgin Galactic&#39;s carrier plane flies back to New Mexico spaceport](https://www.space.com/virgin-galactic-vms-eve-returns-spaceport-america)
-- [&#39;Absolutely unreal:&#39; NASA astronaut snaps amazing photo of auroras from space station](https://www.space.com/astronaut-josh-cassada-aurora-photo-space-station)
 <!-- BLOG-POST-LIST:END -->
 
 ---
