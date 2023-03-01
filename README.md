@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How an entrepreneur, who didn’t know how to cook, started a recipe company](https://techcrunch.com/2023/03/01/sidechef-commerce-recipe-app/)
+- [See Venus and Jupiter get super-close in the sky tonight](https://www.space.com/venus-jupiter-meetup-night-sky-march-1)
+- [This e-bike brand by Lime and Didi vets pedals into the US with $12M raised](https://techcrunch.com/2023/03/01/this-e-bike-brand-by-lime-and-didi-vets-pedals-into-the-us-with-12m-raised/)
+- [VW’s software unit Cariad launches app store to bring Spotify, Tiktok and hundreds more to vehicles](https://techcrunch.com/2023/03/01/vw-software-unit-cariad-launches-app-store-to-bring-spotify-tiktok-and-hundreds-more-to-vehicles/)
 - [Divert bags $100M growth equity, $1B financing to tackle grocery store food waste](https://techcrunch.com/2023/03/01/divert-bags-100m-growth-equity-1b-financing-to-tackle-grocery-store-food-waste/)
-- [Twitter timeline is broken for multiple users](https://techcrunch.com/2023/03/01/twitter-timeline-is-broken-for-multiple-users/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [The Mandalorian season 3 episode 1 review: a breezy set-up for things to come](https://www.space.com/the-mandalorian-season-3-episode-1-review)
-- [TikTok rolls out new screen time controls, adds new default settings for teens and expands Family Pairing](https://techcrunch.com/2023/03/01/tiktok-rolls-out-new-screen-time-controls-adds-new-default-settings-for-teens-and-expands-family-pairing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
