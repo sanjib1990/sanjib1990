@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Thoughtworks lays off around 500 employees amid ongoing slowdown](https://techcrunch.com/2023/03/01/thoughtworks-layoffs-economic-slowdown/)
-- [Does web3 need a venture bailout now that AI has all the hype?](https://techcrunch.com/2023/03/01/does-web3-need-a-venture-bailout-now-that-ai-has-all-the-hype/)
-- [Proposed bill would give Biden the power to ban TikTok](https://techcrunch.com/2023/03/01/proposed-bill-would-give-biden-the-power-to-ban-tiktok/)
-- [Tesla Investor Day: Here’s how to watch and what to expect](https://techcrunch.com/2023/03/01/tesla-investor-day-how-to-watch-what-to-expect/)
-- [SpaceX &#39;go&#39; to launch Crew-6 astronauts for NASA on March 2 after rocket review](https://www.space.com/spacex-crew-6-astronaut-go-for-launch-march-2023)
+- [OpenAI debuts Whisper API for text-to-speech transcription and translation](https://techcrunch.com/2023/03/01/openai-debuts-whisper-api-for-text-to-speech-transcription-and-translation/)
+- [OpenAI launches an API for ChatGPT, plus dedicated capacity for enterprise customers](https://techcrunch.com/2023/03/01/openai-launches-an-api-for-chatgpt-plus-dedicated-capacity-for-enterprise-customers/)
+- [Addressing criticism, OpenAI will no longer use customer data to train its models by default](https://techcrunch.com/2023/03/01/addressing-criticism-openai-will-no-longer-use-customer-data-to-train-its-models-by-default/)
+- [Sesamm bags $37M to give corporates ESG insights using natural language processing](https://techcrunch.com/2023/03/01/sesamm-bags-37m-to-give-corporates-esg-insights-using-natural-language-processing/)
+- [Audible set to launch its first audio-only singing competition series with judges Kelly Rowland &amp; Sara Bareilles](https://techcrunch.com/2023/03/01/audible-first-audio-only-singing-competition-series-kelly-rowland-sara-bareilles/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
