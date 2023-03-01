@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Netflix’s ‘Stranger Things’ gets a stage play about the origin story of Vecna](https://techcrunch.com/2023/03/01/netflixs-stranger-things-gets-a-stage-play-about-the-origin-story-of-vecna/)
-- [Dear Sophie: What are my options for changing my status from an L-1 visa?](https://techcrunch.com/2023/03/01/dear-sophie-what-are-my-options-for-changing-my-status-from-an-l-1-visa/)
-- [Savant Labs aims to bring analytics directly to line of business users](https://techcrunch.com/2023/03/01/savant-labs-aims-to-bring-analytics-directly-to-line-of-business-users/)
-- [This is fintech’s ‘Noah’s Ark Year’](https://techcrunch.com/2023/03/01/this-is-fintechs-noahs-ark-year/)
-- [Celestron Outland X 10x42 binoculars review](https://www.space.com/celestron-outland-x-10x42-binocular-review)
+- [Varo, Stripe said to be raising new funds at much lower valuations](https://techcrunch.com/2023/03/01/varo-stripe-said-to-be-raising-new-funds-at-much-lower-valuations/)
+- [Zarta, a creator platform focused on pay-per-view video content, raises $5.7M led by a16z](https://techcrunch.com/2023/03/01/zarta-a-creator-platform-focused-on-pay-per-view-video-content-raises-5-7m-led-by-a16z/)
+- [Elliott has nominated its own slate of candidates for Salesforce board](https://techcrunch.com/2023/03/01/elliott-has-nominated-its-own-slate-of-candidates-for-salesforce-board/)
+- [Chainlink’s new platform lets web3 projects connect to Web 2.0 systems like AWS and Meta](https://techcrunch.com/2023/03/01/chainlink-launches-web3-dev-platform-to-connect-builders-to-web2-0-apis-like-aws-and-meta/)
+- [Culinary marketplace Shef whips up nationwide expansion with new funding, growth ingredients](https://techcrunch.com/2023/03/01/food-marketplace-shef-series-b/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
