@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Divert bags $100M growth equity, $1B financing to tackle grocery store food waste](https://techcrunch.com/2023/03/01/divert-bags-100m-growth-equity-1b-financing-to-tackle-grocery-store-food-waste/)
+- [Twitter timeline is broken for multiple users](https://techcrunch.com/2023/03/01/twitter-timeline-is-broken-for-multiple-users/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [The Mandalorian season 3 episode 1 review: a breezy set-up for things to come](https://www.space.com/the-mandalorian-season-3-episode-1-review)
 - [TikTok rolls out new screen time controls, adds new default settings for teens and expands Family Pairing](https://techcrunch.com/2023/03/01/tiktok-rolls-out-new-screen-time-controls-adds-new-default-settings-for-teens-and-expands-family-pairing/)
-- [Watch Venus and Jupiter come close to each other tonight and tomorrow in live webcasts](https://www.space.com/venus-jupiter-virtual-telescope-project-webcast-march-2023)
-- [Venus grade: NASA seeks a lander battery tough enough to survive Earth&#39;s evil twin](https://www.space.com/nasa-venus-lander-mission-battery-technology)
-- [Revolut reports first full year of profit](https://techcrunch.com/2023/03/01/revolut-reports-first-full-year-of-profit/)
-- [UK provisionally greenlights Viasat and Inmarsat’s $7.3B pointing to competition from Starlink](https://techcrunch.com/2023/03/01/uk-provisionally-greenlights-viasat-and-inmarsats-7-3b-pointing-to-competition-from-starlink/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
