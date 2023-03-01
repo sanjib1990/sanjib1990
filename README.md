@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How an entrepreneur, who didn’t know how to cook, started a recipe company](https://techcrunch.com/2023/03/01/sidechef-commerce-recipe-app/)
-- [See Venus and Jupiter get super-close in the sky tonight](https://www.space.com/venus-jupiter-meetup-night-sky-march-1)
-- [This e-bike brand by Lime and Didi vets pedals into the US with $12M raised](https://techcrunch.com/2023/03/01/this-e-bike-brand-by-lime-and-didi-vets-pedals-into-the-us-with-12m-raised/)
-- [VW’s software unit Cariad launches app store to bring Spotify, Tiktok and hundreds more to vehicles](https://techcrunch.com/2023/03/01/vw-software-unit-cariad-launches-app-store-to-bring-spotify-tiktok-and-hundreds-more-to-vehicles/)
-- [Divert bags $100M growth equity, $1B financing to tackle grocery store food waste](https://techcrunch.com/2023/03/01/divert-bags-100m-growth-equity-1b-financing-to-tackle-grocery-store-food-waste/)
+- [Headless CMS startup Strapi launches Strapi Cloud](https://techcrunch.com/2023/03/01/headless-cms-startup-strapi-launches-strapi-cloud/)
+- [Ben Nye’s new VC firm won’t just give you a fish, but will guide you to the best lake](https://techcrunch.com/2023/03/01/ben-nyes-new-vc-firm-wont-just-give-you-a-fish-but-will-guide-you-to-the-best-lake/)
+- [DoorDash launches its first co-branded credit card with Chase](https://techcrunch.com/2023/03/01/doordash-launches-its-first-co-branded-credit-card-with-chase/)
+- [Insurtech giant Equisoft lands $125M investment, eyes acquisitions](https://techcrunch.com/2023/03/01/insurtech-giant-equisoft-lands-125m-investment-eyes-acquisitions/)
+- [European Union to build its own satellite-internet constellation](https://www.space.com/european-union-satellite-internet-constellation-iriss)
 <!-- BLOG-POST-LIST:END -->
 
 ---
