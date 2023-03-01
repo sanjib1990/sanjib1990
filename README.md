@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The amazing auroras of February 2023 are a visual feast for stargazers &lpar;photos&rpar;](https://www.space.com/amazing-aurora-photos-february-2023)
+- [Astronomers catch rare glimpse of oldest known supernova, which dates back to Year 185](https://www.space.com/ancient-supernova-remains-from-year-185-photo)
 - [Free, ad-supported creator content comes to The Roku Channel](https://techcrunch.com/2023/03/01/the-roku-channel-free-ad-supported-creator-content/)
 - [DART&#39;s epic asteroid crash: What NASA has learned 5 months later](https://www.space.com/nasa-dart-asteroid-crash-what-nasa-learned)
 - [How many astronauts can fly on a SpaceX Crew Dragon capsule?](https://www.space.com/spacex-crew-dragon-how-many-astronauts)
-- [The life-upending flaw that USPS won’t fix](https://techcrunch.com/2023/03/01/us-postal-service-change-of-address-fraud/)
-- [OpenAI debuts Whisper API for speech-to-text transcription and translation](https://techcrunch.com/2023/03/01/openai-debuts-whisper-api-for-text-to-speech-transcription-and-translation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
