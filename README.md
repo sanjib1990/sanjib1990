@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Big Tech on notice as regulators in Africa group to investigate their market conduct](https://techcrunch.com/2023/03/02/big-tech-on-notice-as-regulators-in-africa-group-to-investigate-their-market-conduct/)
 - [Snapchat will now let you pause your Snap Streaks](https://techcrunch.com/2023/03/01/snapchat-will-now-let-you-pause-your-snap-streaks/)
 - [SpaceX Crew-6 astronaut mission: Live updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates)
 - [SpaceX launches Crew-6 astronaut mission to space station for NASA](https://www.space.com/spacex-crew-6-mission-launches-to-space-station)
 - [Robinhood’s wallet app is now available to all iOS users](https://techcrunch.com/2023/03/01/robinhoods-wallet-app-is-now-available-to-all-ios-users/)
-- [Everything Elon Musk and execs shared &lpar;and skipped&rpar; at Tesla Investor Day](https://techcrunch.com/2023/03/01/everything-elon-musk-and-execs-shared-and-skipped-at-tesla-investor-day/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
