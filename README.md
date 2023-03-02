@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Pitch Deck Teardown: Gable’s $12M Series A deck](https://techcrunch.com/2023/03/02/sample-series-a-pitch-deck-gable/)
-- [Target will allow you to return items from your car starting this spring](https://techcrunch.com/2023/03/02/target-will-allow-you-to-return-items-from-your-car-starting-this-spring/)
-- [Hear why so many cybersecurity companies call Boston home](https://techcrunch.com/2023/03/02/hear-why-so-many-cybersecurity-companies-call-boston-home/)
-- [SpaceX’s sunset Starlink launch was amazing, and here are the pictures to prove it](https://www.space.com/spacex-starlink-v2-mini-launch-photos)
-- [As tensions build, Silicon Valley’s Chinese affiliates invest in sensitive space tech](https://techcrunch.com/2023/03/02/china-semiconductor-restrictions-investments/)
+- [Brinc’s Lemur 2 straps on blue strobes and is ready for action](https://techcrunch.com/2023/03/02/brinc-lemur-2/)
+- [Instacart’s Q4 results impressed. Are they good enough to push it toward an IPO?](https://techcrunch.com/2023/03/02/instacart-q4-results-ipo/)
+- [Brave Search launches an AI-powered summarization feature](https://techcrunch.com/2023/03/02/brave-search-launches-an-ai-powered-summarization-feature/)
+- [Canon EOS R7 Review](https://www.space.com/canon-eos-r7-review)
+- [Felicis funded 50% more deals last year than in 2021, some as prices were still rising — and it says it has no regrets](https://techcrunch.com/2023/03/02/felicis-funded-50-more-deals-last-year-than-in-2021-some-as-prices-were-still-rising-and-it-says-it-has-no-regrets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
