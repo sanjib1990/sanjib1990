@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
-- [SpaceX Crew-6 astronaut mission: Live updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates)
-- [Hexa raises $20.5M to turn images into 3D objects for VR, AR and more](https://techcrunch.com/2023/03/02/hexa-raises-20-5m-to-turn-images-into-3d-objects-for-vr-ar-and-more/)
-- [Renovate is building robots to install roof shingles](https://techcrunch.com/2023/03/02/renovate-is-building-robots-to-install-roof-shingles/)
-- [SpaceX gearing up to launch 2 private astronaut missions](https://www.space.com/spacex-next-astronaut-missions-private-flights)
+- [Naomi Osaka, Usher, Apolo Ohno back Immi’s next phase of instant ramen domination](https://techcrunch.com/2023/03/02/naomi-osaka-usher-immi-instant-ramen-food/)
+- [Behavioral marketing platform Wunderkind nabs $76M](https://techcrunch.com/2023/03/02/behavioral-marketing-platform-wunderkind-nabs-76m/)
+- [Legaltech startup SpotDraft raises $26M to streamline contracts](https://techcrunch.com/2023/03/02/spotdraft-funding-india-legaltech-startup/)
+- [HR Signal helps companies figure out who is most likely to quit and why](https://techcrunch.com/2023/03/02/hr-signal/)
+- [SpotDraft shows that contract lifecycle management remains profitable, raises $26M](https://techcrunch.com/2023/03/02/spotdraft-shows-contract-lifecycle-management-is-still-profitable-raises-26m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
