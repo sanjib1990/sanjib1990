@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Brinc’s Lemur 2 straps on blue strobes and is ready for action](https://techcrunch.com/2023/03/02/brinc-lemur-2/)
-- [Instacart’s Q4 results impressed. Are they good enough to push it toward an IPO?](https://techcrunch.com/2023/03/02/instacart-q4-results-ipo/)
-- [Brave Search launches an AI-powered summarization feature](https://techcrunch.com/2023/03/02/brave-search-launches-an-ai-powered-summarization-feature/)
-- [Canon EOS R7 Review](https://www.space.com/canon-eos-r7-review)
-- [Felicis funded 50% more deals last year than in 2021, some as prices were still rising — and it says it has no regrets](https://techcrunch.com/2023/03/02/felicis-funded-50-more-deals-last-year-than-in-2021-some-as-prices-were-still-rising-and-it-says-it-has-no-regrets/)
+- [Instagram starts testing its age verification tools in more countries](https://techcrunch.com/2023/03/02/instagram-starts-testing-its-age-verification-tools-in-more-countries/)
+- [Senators urge Zuckerberg to keep teens out of the metaverse](https://techcrunch.com/2023/03/02/senators-urge-zuckerberg-to-keep-teens-out-of-the-metaverse/)
+- [Pinterest is testing a new premium video ad format on its app’s search tab](https://techcrunch.com/2023/03/02/pinterest-is-testing-a-new-premium-video-ad-format-on-its-apps-search-tab/)
+- [Hatch Bank says hackers used Fortra bug to steal 140,000 customer Social Security numbers](https://techcrunch.com/2023/03/02/hatch-bank-breach-fortra-goanywhere-exploit/)
+- [Ford to restart F-150 Lightning production on March 13](https://techcrunch.com/2023/03/02/ford-to-restart-f-150-lightning-production-on-march-13/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
