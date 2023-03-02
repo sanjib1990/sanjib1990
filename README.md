@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX Crew-6 astronaut launch: Live updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates)
 - [Everything Elon Musk and execs shared &lpar;and skipped&rpar; at Tesla Investor Day](https://techcrunch.com/2023/03/01/everything-elon-musk-and-execs-shared-and-skipped-at-tesla-investor-day/)
 - [8VC raises $880M in new fund that aims ‘to fix a broken world’](https://techcrunch.com/2023/03/01/8vc-raises-880m-in-new-fund-that-aims-to-fix-a-broken-world/)
 - [Google’s Sameer Samat on ecosystems, regulation and competition](https://techcrunch.com/2023/03/01/googles-sameer-samat-on-ecosystems-regulation-and-competition/)
 - [Tweetbot and Twitterrific ask customers to decline refunds in rare App Store exception](https://techcrunch.com/2023/03/01/twitter-apps-tweetbot-and-twitterific-ask-customers-to-decline-their-refunds-in-rare-app-store-exception/)
-- [Daily Crunch: Chase and DoorDash deliver new co-branded credit card with loyalty rewards](https://techcrunch.com/2023/03/01/daily-crunch-chase-and-doordash-deliver-new-co-branded-credit-card-with-loyalty-rewards/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
