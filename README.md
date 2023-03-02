@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [As tensions build, Silicon Valley’s Chinese affiliates invest in sensitive space tech](https://techcrunch.com/2023/03/02/china-semiconductor-restrictions-investments/)
+- [How to turn an open source project into a profitable business](https://techcrunch.com/2023/03/02/how-to-turn-an-open-source-project-into-a-profitable-business/)
 - [Naomi Osaka, Usher, Apolo Ohno back Immi’s next phase of instant ramen domination](https://techcrunch.com/2023/03/02/naomi-osaka-usher-immi-instant-ramen-food/)
+- [Apollo &#39;hook-up:&#39; New keychain replicates carabiner used on the moon](https://www.space.com/apollo-tether-hook-keychain-luna-replicas-global-effects)
 - [Behavioral marketing platform Wunderkind nabs $76M](https://techcrunch.com/2023/03/02/behavioral-marketing-platform-wunderkind-nabs-76m/)
-- [Legaltech startup SpotDraft raises $26M to streamline contracts](https://techcrunch.com/2023/03/02/spotdraft-funding-india-legaltech-startup/)
-- [HR Signal helps companies figure out who is most likely to quit and why](https://techcrunch.com/2023/03/02/hr-signal/)
-- [SpotDraft shows that contract lifecycle management remains profitable, raises $26M](https://techcrunch.com/2023/03/02/spotdraft-shows-contract-lifecycle-management-is-still-profitable-raises-26m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
