@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Attio raises $23.5M to build a next-gen CRM platform](https://techcrunch.com/2023/03/02/attio-raises-23-5m-to-build-a-next-gen-crm-platform/)
-- [Denuo Novo The Mandalorian Helmet review](https://www.space.com/denuo-novo-the-mandalorian-helmet-review)
-- [Retro 51 pen embodies NASA&#39;s first and fallen space shuttle Columbia](https://www.space.com/space-shuttle-columbia-retro51-pen)
-- [NASA hails SpaceX&#39;s &#39;beautiful&#39; Crew-6 astronaut launch](https://www.space.com/nasa-spacex-celebrate-crew-6-launch-success)
-- [Big Tech on notice as regulators in Africa group to investigate their market conduct](https://techcrunch.com/2023/03/02/big-tech-on-notice-as-regulators-in-africa-group-to-investigate-their-market-conduct/)
+- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
+- [SpaceX Crew-6 astronaut mission: Live updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates)
+- [Hexa raises $20.5M to turn images into 3D objects for VR, AR and more](https://techcrunch.com/2023/03/02/hexa-raises-20-5m-to-turn-images-into-3d-objects-for-vr-ar-and-more/)
+- [Renovate is building robots to install roof shingles](https://techcrunch.com/2023/03/02/renovate-is-building-robots-to-install-roof-shingles/)
+- [SpaceX gearing up to launch 2 private astronaut missions](https://www.space.com/spacex-next-astronaut-missions-private-flights)
 <!-- BLOG-POST-LIST:END -->
 
 ---
