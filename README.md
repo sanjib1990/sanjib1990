@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Instagram starts testing its age verification tools in more countries](https://techcrunch.com/2023/03/02/instagram-starts-testing-its-age-verification-tools-in-more-countries/)
-- [Senators urge Zuckerberg to keep teens out of the metaverse](https://techcrunch.com/2023/03/02/senators-urge-zuckerberg-to-keep-teens-out-of-the-metaverse/)
-- [Pinterest is testing a new premium video ad format on its app’s search tab](https://techcrunch.com/2023/03/02/pinterest-is-testing-a-new-premium-video-ad-format-on-its-apps-search-tab/)
-- [Hatch Bank says hackers used Fortra bug to steal 140,000 customer Social Security numbers](https://techcrunch.com/2023/03/02/hatch-bank-breach-fortra-goanywhere-exploit/)
-- [Ford to restart F-150 Lightning production on March 13](https://techcrunch.com/2023/03/02/ford-to-restart-f-150-lightning-production-on-march-13/)
+- [Hackers steal gun owners’ data from firearm auction website](https://techcrunch.com/2023/03/02/hackers-steal-gun-owners-data-from-firearm-auction-website/)
+- [Mars helicopter Ingenuity soars between Red Planet airfields on 46th flight](https://www.space.com/mars-helicopter-ingenuity-46th-red-planet-flight)
+- [BetterHelp owes customers $7.8M after FTC alleges data mishandling](https://techcrunch.com/2023/03/02/betterhelp-owes-customers-7-8m-after-ftc-alleges-data-mishandling/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [&#39;Star Trek: Picard&#39; episode 3 marks the emotional return of Deanna Troi](https://www.space.com/star-trek-picard-season-3-episode-3-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
