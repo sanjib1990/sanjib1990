@@ -82,7 +82,7 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [you need to learn Machine Learning RIGHT NOW!!](https://www.youtube.com/watch?v=JJCq21Dc-Us)
+- [learning AI and ChatGPT isn’t that hard](https://www.youtube.com/watch?v=JJCq21Dc-Us)
 - [why are TUPLES even a thing?](https://www.youtube.com/watch?v=fR_D_KIAYrE)
 - [Rust and RAII Memory Management - Computerphile](https://www.youtube.com/watch?v=pTMvh6VzDls)
 - [S4:E4: Opening Computer Science to Everyone with Chancellor Eric Grimson](https://www.youtube.com/watch?v=Ad4HmoAkgBo)
