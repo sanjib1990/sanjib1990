@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [An ode to big tech cos putting earbuds in smartwatches and other weird crap](https://techcrunch.com/2023/03/02/an-ode-to-big-tech-cos-putting-earbuds-in-smartwatches-and-other-weird-crap/)
+- [See Jupiter and Venus dance across the twilight sky in this amazing photo collage](https://www.space.com/venus-jupiter-conjunction-amazing-stargazer-photo)
 - [Are NFT marketplaces becoming an open sea for creator royalties?](https://techcrunch.com/2023/03/02/are-nft-marketplaces-becoming-an-open-sea-for-creator-royalties/)
 - [Moon-dust shield could help fight climate change on Earth](https://www.space.com/moon-dust-shield-earth-fight-climate-change)
 - [To fix the climate, these 10 investors are betting the house on the ocean](https://techcrunch.com/2023/03/02/to-fix-the-climate-these-10-investors-are-betting-the-house-on-the-ocean/)
-- [Barcelona nights](https://techcrunch.com/2023/03/02/__trashed-19/)
-- [Hackers steal gun owners’ data from firearm auction website](https://techcrunch.com/2023/03/02/hackers-steal-gun-owners-data-from-firearm-auction-website/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
