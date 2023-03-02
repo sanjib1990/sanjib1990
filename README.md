@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [An ode to big tech cos putting earbuds in smartwatches and other weird crap](https://techcrunch.com/2023/03/02/an-ode-to-big-tech-cos-putting-earbuds-in-smartwatches-and-other-weird-crap/)
-- [See Jupiter and Venus dance across the twilight sky in this amazing photo collage](https://www.space.com/venus-jupiter-conjunction-amazing-stargazer-photo)
-- [Are NFT marketplaces becoming an open sea for creator royalties?](https://techcrunch.com/2023/03/02/are-nft-marketplaces-becoming-an-open-sea-for-creator-royalties/)
-- [Moon-dust shield could help fight climate change on Earth](https://www.space.com/moon-dust-shield-earth-fight-climate-change)
-- [To fix the climate, these 10 investors are betting the house on the ocean](https://techcrunch.com/2023/03/02/to-fix-the-climate-these-10-investors-are-betting-the-house-on-the-ocean/)
+- [Daily Crunch: Stealth startup Figure releases first photos of its all-purpose humanoid robot](https://techcrunch.com/2023/03/02/daily-crunch-stealth-startup-figure-releases-first-photos-of-its-all-purpose-humanoid-robot/)
+- [Universal Hydrogen takes to the air with the largest hydrogen fuel cell ever to fly](https://techcrunch.com/2023/03/02/universal-hydrogen-takes-to-the-air-with-the-largest-hydrogen-fuel-cell-ever-to-fly/)
+- [Secret Service and ICE conducted warrantless stingray surveillance, says watchdog](https://techcrunch.com/2023/03/02/secret-service-ice-warrantless-stingray/)
+- [Adobe’s Scott Belsky talks generative AI – and why it’s not going to end up like web3](https://techcrunch.com/2023/03/02/adobes-scott-belsky-talks-generative-ai-and-why-its-not-going-to-end-up-like-web3/)
+- [Indent raises $8.1M funding for its AI-powered customer video review tool](https://techcrunch.com/2023/03/02/indent-raises-8-1m-funding-to-continue-developing-its-ai-powered-customer-video-review-tool/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
