@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [US government warns Royal ransomware is targeting critical infrastructure](https://techcrunch.com/2023/03/03/us-government-royal-ransomware-advisory/)
-- [Here&#39;s how to catch up on The Mandalorian according to its showrunner](https://www.space.com/the-mandalorian-season-3-how-to-catch-up-disney-plus)
-- [Digital locker app Movies Anywhere sunsets ‘Screen Pass’ and ‘Watch Together’ features](https://techcrunch.com/2023/03/03/movies-anywhere-shuts-down-screen-pass-and-watch-together-features/)
-- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
-- [SpaceX Crew-6 astronaut mission: Live updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates)
+- [Uber is coming for Instacart](https://techcrunch.com/2023/03/03/uber-is-coming-for-instacart/)
+- [Inside the metaverse hype train at MWC 2023](https://techcrunch.com/2023/03/03/inside-the-metaverse-hype-train-at-mwc-2023/)
+- [How Scout Motors plans to bring rugged, retro cred to the EV era](https://techcrunch.com/2023/03/03/how-scout-motors-plans-to-bring-rugged-retro-cred-to-the-ev-era/)
+- [You can’t beat student pricing for TC Early Stage](https://techcrunch.com/2023/03/03/99-dollar-student-pass-techcrunch-early-stage-2023/)
+- [Europe&#39;s Vega C rocket launch failure caused by nozzle flaw, investigators say](https://www.space.com/vega-c-failure-rocket-nozzle-flaw-investigation-report)
 <!-- BLOG-POST-LIST:END -->
 
 ---
