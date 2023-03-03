@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Super early-bird savings to TC Disrupt ending soon](https://techcrunch.com/2023/03/03/super-early-bird-savings-end-soon-techcrunch-disrupt-2023/)
-- [Why hasn’t generative AI come up with something easier to say than ‘generative AI’?](https://techcrunch.com/2023/03/03/why-hasnt-generative-ai-come-up-with-something-easier-to-say-than-generative-ai/)
-- [China&#39;s Shenzhou 15 astronauts perform 2nd spacewalk and 1st &#39;fire in space&#39; test &lpar;video&rpar;](https://www.space.com/shenzhou-15-second-spacewalk-fire-test-tiangong)
-- [China selects mystery astronauts for 2023 missions to Tiangong space station](https://www.space.com/china-selects-astronauts-tiangong-missions-2023)
-- [SpaceX Crew 6 liftoff lights up the sky in stunning photos](https://www.space.com/spacex-crew-6-launch-photos)
+- [US government warns Royal ransomware is targeting critical infrastructure](https://techcrunch.com/2023/03/03/us-government-royal-ransomware-advisory/)
+- [Here&#39;s how to catch up on The Mandalorian according to its showrunner](https://www.space.com/the-mandalorian-season-3-how-to-catch-up-disney-plus)
+- [Digital locker app Movies Anywhere sunsets ‘Screen Pass’ and ‘Watch Together’ features](https://techcrunch.com/2023/03/03/movies-anywhere-shuts-down-screen-pass-and-watch-together-features/)
+- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
+- [SpaceX Crew-6 astronaut mission: Live updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
