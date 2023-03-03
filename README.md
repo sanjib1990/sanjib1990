@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX Crew 6 liftoff lights up the sky in stunning photos](https://www.space.com/spacex-crew-6-launch-photos)
+- [Startup PR professionals should be jumping on the AI bandwagon](https://techcrunch.com/2023/03/03/startup-pr-professionals-should-be-jumping-on-the-ai-bandwagon/)
 - [India’s central bank slaps penalty on Amazon’s payments unit](https://techcrunch.com/2023/03/03/reserve-bank-of-india-amazon-pay/)
 - [Flash sale: SkySafari 7 astronomy app is up to 60% off on app stores](https://www.space.com/sky-safari-7-astronomy-app-flash-sale-save-60-percent)
 - [Japan’s Geniee acquires AdPushup-operator Zelto for $70 million](https://techcrunch.com/2023/03/03/softbank-geniee-acquires-zelto-adpushup-for-70-million/)
-- [Designing a drone that can search for life on other planets](https://www.space.com/designing-drone-search-alien-life-op-ed)
-- [A Chinese spacecraft has been checking out US satellites high above Earth](https://www.space.com/chinese-spacecraft-tjs-3-inspecting-us-satellites)
 <!-- BLOG-POST-LIST:END -->
 
 ---
