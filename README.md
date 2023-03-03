@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Twitter Blue expands to more than 20 countries](https://techcrunch.com/2023/03/02/twitter-blue-expands-to-more-than-20-countries/)
-- [Daily Crunch: Stealth startup Figure releases first photos of its all-purpose humanoid robot](https://techcrunch.com/2023/03/02/daily-crunch-stealth-startup-figure-releases-first-photos-of-its-all-purpose-humanoid-robot/)
-- [Universal Hydrogen takes to the air with the largest hydrogen fuel cell ever to fly](https://techcrunch.com/2023/03/02/universal-hydrogen-takes-to-the-air-with-the-largest-hydrogen-fuel-cell-ever-to-fly/)
-- [Secret Service and ICE conducted warrantless stingray surveillance, says watchdog](https://techcrunch.com/2023/03/02/secret-service-ice-warrantless-stingray/)
-- [Adobe’s Scott Belsky talks generative AI — and why it’s not going to end up like web3](https://techcrunch.com/2023/03/02/adobes-scott-belsky-talks-generative-ai-and-why-its-not-going-to-end-up-like-web3/)
+- [India’s central bank slaps penalty on Amazon’s payments unit](https://techcrunch.com/2023/03/03/reserve-bank-of-india-amazon-pay/)
+- [Flash sale: SkySafari 7 astronomy app is up to 60% off on app stores](https://www.space.com/sky-safari-7-astronomy-app-flash-sale-save-60-percent)
+- [Japan’s Geniee acquires AdPushup-operator Zelto for $70 million](https://techcrunch.com/2023/03/03/softbank-geniee-acquires-zelto-adpushup-for-70-million/)
+- [Designing a drone that can search for life on other planets](https://www.space.com/designing-drone-search-alien-life-op-ed)
+- [A Chinese spacecraft has been checking out US satellites high above Earth](https://www.space.com/chinese-spacecraft-tjs-3-inspecting-us-satellites)
 <!-- BLOG-POST-LIST:END -->
 
 ---
