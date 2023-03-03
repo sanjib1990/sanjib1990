@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Blue Origin still investigating New Shepard failure 6 months later](https://www.space.com/blue-origin-investigating-new-shepard-failure-6-months)
 - [Vigilante hackers fix Black Ops III, and other TC news](https://techcrunch.com/2023/03/03/vigilante-hackers-fix-black-ops-iii-and-other-tc-news/)
 - [Honda’s aging hydrogen fuel cells get new life in data center](https://techcrunch.com/2023/03/03/hondas-aging-hydrogen-fuel-cells-get-new-life-in-data-center/)
 - [Gorgeous auroral glow surprises astrophotographer in California&#39;s Death Valley](https://www.space.com/beautiful-aurora-california-death-valley)
 - [Smartphone makers searched for a way forward at MWC 2023](https://techcrunch.com/2023/03/03/smartphone-makers-searched-for-a-way-forward-at-mwc-2023/)
-- [Amazon pauses HQ2 construction after nationwide battle royale over location](https://techcrunch.com/2023/03/03/amazon-pauses-hq2-construction-after-nationwide-battle-royale-over-location/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
