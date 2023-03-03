@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Super early-bird savings to TC Disrupt ending soon](https://techcrunch.com/2023/03/03/super-early-bird-savings-end-soon-techcrunch-disrupt-2023/)
+- [Why hasn’t generative AI come up with something easier to say than ‘generative AI’?](https://techcrunch.com/2023/03/03/why-hasnt-generative-ai-come-up-with-something-easier-to-say-than-generative-ai/)
+- [China&#39;s Shenzhou 15 astronauts perform 2nd spacewalk and 1st &#39;fire in space&#39; test &lpar;video&rpar;](https://www.space.com/shenzhou-15-second-spacewalk-fire-test-tiangong)
+- [China selects mystery astronauts for 2023 missions to Tiangong space station](https://www.space.com/china-selects-astronauts-tiangong-missions-2023)
 - [SpaceX Crew 6 liftoff lights up the sky in stunning photos](https://www.space.com/spacex-crew-6-launch-photos)
-- [Startup PR professionals should be jumping on the AI bandwagon](https://techcrunch.com/2023/03/03/startup-pr-professionals-should-be-jumping-on-the-ai-bandwagon/)
-- [India’s central bank slaps penalty on Amazon’s payments unit](https://techcrunch.com/2023/03/03/reserve-bank-of-india-amazon-pay/)
-- [Flash sale: SkySafari 7 astronomy app is up to 60% off on app stores](https://www.space.com/sky-safari-7-astronomy-app-flash-sale-save-60-percent)
-- [Japan’s Geniee acquires AdPushup-operator Zelto for $70 million](https://techcrunch.com/2023/03/03/softbank-geniee-acquires-zelto-adpushup-for-70-million/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
