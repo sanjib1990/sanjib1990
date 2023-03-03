@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Gorgeous auroral glow surprises astrophotographer in California&#39;s Death Valley](https://www.space.com/beautiful-aurora-california-death-valley)
+- [Smartphone makers searched for a way forward at MWC 2023](https://techcrunch.com/2023/03/03/smartphone-makers-searched-for-a-way-forward-at-mwc-2023/)
+- [Amazon pauses HQ2 construction after nationwide battle royale over location](https://techcrunch.com/2023/03/03/amazon-pauses-hq2-construction-after-nationwide-battle-royale-over-location/)
 - [At Upfront Summit 2023, AI is the omnipresent celebrity](https://techcrunch.com/2023/03/03/upfront-summit-2023-artificial-intelligence/)
 - [SpaceX’s acquisition of Swarm is paying off with new Starlink thrusters](https://techcrunch.com/2023/03/03/spacexs-acquisition-of-swarm-is-paying-off-with-new-starlink-thrusters/)
-- [Japan targeting Sunday for 2nd try at H3 rocket&#39;s debut launch](https://www.space.com/japan-h3-rocket-debut-launch-march-5)
-- [Astra rocket lost 2 NASA satellites due to &#39;runaway&#39; cooling system error](https://www.space.com/astra-rocket-loss-nasa-satellite-runaway-event)
-- [Meta rolls out new Facebook Reels features, expands max video length to 90 seconds](https://techcrunch.com/2023/03/03/meta-rolls-out-new-facebook-reels-features-expands-max-video-length-to-90-seconds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
