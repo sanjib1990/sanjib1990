@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Embark Trucks lays off workers, explores liquidation of self-driving truck assets](https://techcrunch.com/2023/03/03/embark-trucks-lays-off-workers-explores-liquidation-of-self-driving-truck-assets/)
-- [TechCrunch+ roundup: Ocean tech investor survey, AI and PR, L-1 visa options](https://techcrunch.com/2023/03/03/techcrunch-roundup-ocean-tech-investor-survey-ai-and-pr-l-1-visa-options/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [Perhaps Substack can grow just fine without venture dollars](https://techcrunch.com/2023/03/03/perhaps-substack-can-grow-just-fine-without-venture-dollars/)
-- [Indian startup Yes Madam exposed sensitive data of customers and gig workers](https://techcrunch.com/2023/03/03/yes-madam-india-data-exposed/)
+- [At Upfront Summit 2023, AI is the omnipresent celebrity](https://techcrunch.com/2023/03/03/upfront-summit-2023-artificial-intelligence/)
+- [SpaceX’s acquisition of Swarm is paying off with new Starlink thrusters](https://techcrunch.com/2023/03/03/spacexs-acquisition-of-swarm-is-paying-off-with-new-starlink-thrusters/)
+- [Japan targeting Sunday for 2nd try at H3 rocket&#39;s debut launch](https://www.space.com/japan-h3-rocket-debut-launch-march-5)
+- [Astra rocket lost 2 NASA satellites due to &#39;runaway&#39; cooling system error](https://www.space.com/astra-rocket-loss-nasa-satellite-runaway-event)
+- [Meta rolls out new Facebook Reels features, expands max video length to 90 seconds](https://techcrunch.com/2023/03/03/meta-rolls-out-new-facebook-reels-features-expands-max-video-length-to-90-seconds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
