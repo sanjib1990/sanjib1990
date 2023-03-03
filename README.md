@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [SenseMaking &lpar;Data Visualisation&rpar; - Computerphile](https://www.youtube.com/watch?v=lSCbt_N_Oao)
 - [learning AI and ChatGPT isn’t that hard](https://www.youtube.com/watch?v=JJCq21Dc-Us)
 - [why are TUPLES even a thing?](https://www.youtube.com/watch?v=fR_D_KIAYrE)
 - [Rust and RAII Memory Management - Computerphile](https://www.youtube.com/watch?v=pTMvh6VzDls)
 - [S4:E4: Opening Computer Science to Everyone with Chancellor Eric Grimson](https://www.youtube.com/watch?v=Ad4HmoAkgBo)
-- [Lecture 4: Computational Illumination: dual photography, relighting - Part 1](https://www.youtube.com/watch?v=2QZUwB6F6Zw)
 <!-- YOUTUBE:END -->
 
 ---
