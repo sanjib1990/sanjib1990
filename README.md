@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Uber is coming for Instacart](https://techcrunch.com/2023/03/03/uber-is-coming-for-instacart/)
-- [Inside the metaverse hype train at MWC 2023](https://techcrunch.com/2023/03/03/inside-the-metaverse-hype-train-at-mwc-2023/)
-- [How Scout Motors plans to bring rugged, retro cred to the EV era](https://techcrunch.com/2023/03/03/how-scout-motors-plans-to-bring-rugged-retro-cred-to-the-ev-era/)
-- [You can’t beat student pricing for TC Early Stage](https://techcrunch.com/2023/03/03/99-dollar-student-pass-techcrunch-early-stage-2023/)
-- [Europe&#39;s Vega C rocket launch failure caused by nozzle flaw, investigators say](https://www.space.com/vega-c-failure-rocket-nozzle-flaw-investigation-report)
+- [Embark Trucks lays off workers, explores liquidation of self-driving truck assets](https://techcrunch.com/2023/03/03/embark-trucks-lays-off-workers-explores-liquidation-of-self-driving-truck-assets/)
+- [TechCrunch+ roundup: Ocean tech investor survey, AI and PR, L-1 visa options](https://techcrunch.com/2023/03/03/techcrunch-roundup-ocean-tech-investor-survey-ai-and-pr-l-1-visa-options/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [Perhaps Substack can grow just fine without venture dollars](https://techcrunch.com/2023/03/03/perhaps-substack-can-grow-just-fine-without-venture-dollars/)
+- [Indian startup Yes Madam exposed sensitive data of customers and gig workers](https://techcrunch.com/2023/03/03/yes-madam-india-data-exposed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
