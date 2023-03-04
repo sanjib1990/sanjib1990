@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sun unleashes powerful X2-class flare &lpar;video&rpar;](https://www.space.com/sun-unleashes-x2-class-flare-march-3-video)
 - [Daily Crunch: Japanese marketing tech firm Geniee acquires Zelto for $70M](https://techcrunch.com/2023/03/03/daily-crunch-japanese-marketing-tech-firm-geniee-acquires-zelto-for-70m/)
 - [Blue Origin still investigating New Shepard failure 6 months later](https://www.space.com/blue-origin-investigating-new-shepard-failure-6-months)
 - [Vigilante hackers fix Black Ops III, and other TC news](https://techcrunch.com/2023/03/03/vigilante-hackers-fix-black-ops-iii-and-other-tc-news/)
 - [Honda’s aging hydrogen fuel cells get new life in data center](https://techcrunch.com/2023/03/03/hondas-aging-hydrogen-fuel-cells-get-new-life-in-data-center/)
-- [Gorgeous auroral glow surprises astrophotographer in California&#39;s Death Valley](https://www.space.com/beautiful-aurora-california-death-valley)
 <!-- BLOG-POST-LIST:END -->
 
 ---
