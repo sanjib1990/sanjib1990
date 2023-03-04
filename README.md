@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nikon Prostaff P7 8x42 binoculars review](https://www.space.com/nikon-prostaff-p7-8x42-binoculars-review)
+- [SpaceX Crew-6 mission&#39;s approach to space station captured in breathtaking video](https://www.space.com/spacex-crew-6-docking-space-station-video)
 - [Watch NASA test fire new and improved Artemis moon rocket engine &lpar;video&rpar;](https://www.space.com/nasa-artemis-moon-rocket-engine-test)
 - [The sounds of Kerbal Space Program 2: How an emotional real-life rocket launch transformed the game](https://www.space.com/kerbal-space-program-2-audio-recording-launch-experience)
 - [Wonder at the colorful Orion nebula in the southwestern sky throughout March](https://www.space.com/orion-nebula-southwestern-sky-march-2023)
-- [Sun unleashes powerful X2-class flare &lpar;video&rpar;](https://www.space.com/sun-unleashes-x2-class-flare-march-3-video)
-- [Daily Crunch: Japanese marketing tech firm Geniee acquires Zelto for $70M](https://techcrunch.com/2023/03/03/daily-crunch-japanese-marketing-tech-firm-geniee-acquires-zelto-for-70m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
