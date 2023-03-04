@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Week in Apps: Jack Dorsey-backed Bluesky, social apps’ teen protections, Twitter clients get help](https://techcrunch.com/2023/03/04/this-week-in-apps-jack-dorsey-backed-bluesky-social-apps-teen-protections-twitter-clients-get-help/)
 - [The oh-so-biased branding risk in venture capital](https://techcrunch.com/2023/03/04/the-oh-so-biased-branding-risk-in-venture-capital/)
 - [Enterprise SaaS companies continue to navigate a complex economic environment](https://techcrunch.com/2023/03/04/enterprise-saas-companies-continue-to-navigate-a-complex-economic-environment/)
 - [The good news for long-term software growth](https://techcrunch.com/2023/03/04/the-good-news-for-long-term-software-growth/)
 - [Nikon Prostaff P7 8x42 binoculars review](https://www.space.com/nikon-prostaff-p7-8x42-binoculars-review)
-- [SpaceX Crew-6 mission&#39;s approach to space station captured in breathtaking video](https://www.space.com/spacex-crew-6-docking-space-station-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
