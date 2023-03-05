@@ -82,7 +82,7 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [did I just make a virus proof browser?](https://www.youtube.com/watch?v=NDlQrK_QAzY)
+- [the most SECURE browser!! &lpar;testing it with malware&rpar;](https://www.youtube.com/watch?v=NDlQrK_QAzY)
 - [SenseMaking &lpar;Data Visualisation&rpar; - Computerphile](https://www.youtube.com/watch?v=lSCbt_N_Oao)
 - [learning AI and ChatGPT isn’t that hard](https://www.youtube.com/watch?v=JJCq21Dc-Us)
 - [why are TUPLES even a thing?](https://www.youtube.com/watch?v=fR_D_KIAYrE)
