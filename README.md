@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Chinese carmaker to launch 72 satellites to assist intelligent driving](https://www.space.com/news/chinese-carmaker-to-launch-72-satellites-to-assist-intelligent-driving)
 - [China and France prepare to launch satellite to hunt for gamma-ray bursts](https://www.space.com/china-france-gamma-ray-burst-satellite)
 - [OpenAI launches an API for ChatGPT, a startup attempts a humanoid robot, and Salesforce turns it around](https://techcrunch.com/2023/03/04/openai-launches-an-api-for-chatgpt-a-startup-attempts-a-humanoid-robot-and-salesforce-turns-it-around/)
 - [This Week in Apps: Jack Dorsey-backed Bluesky, social apps’ teen protections, Twitter clients get help](https://techcrunch.com/2023/03/04/this-week-in-apps-jack-dorsey-backed-bluesky-social-apps-teen-protections-twitter-clients-get-help/)
 - [The oh-so-biased branding risk in venture capital](https://techcrunch.com/2023/03/04/the-oh-so-biased-branding-risk-in-venture-capital/)
-- [Enterprise SaaS companies continue to navigate a complex economic environment](https://techcrunch.com/2023/03/04/enterprise-saas-companies-continue-to-navigate-a-complex-economic-environment/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
