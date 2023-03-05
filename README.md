@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Star Wars: The High Republic&#39; gets lavish illustrated guide from Insight Editions &lpar;exclusive&rpar;](https://www.space.com/star-wars-the-high-republic-illustrated-guide-book)
+- [Will one good quarter appease the activist investors dogging Salesforce?](https://techcrunch.com/2023/03/05/salesforce-activist-investors-earnings-results/)
+- [This fantastic trailer for retro-future game &#39;The Invincible&#39; aims for the stars &lpar;video&rpar;](https://www.space.com/the-invinvible-space-game-trailer)
 - [I drove a rover on a moon-like landscape and felt like an Apollo astronaut &lpar;video&rpar;](https://www.space.com/moon-rover-simulated-drive-apollo-astronaut)
 - [Chinese carmaker to launch 72 satellites to assist intelligent driving](https://www.space.com/news/chinese-carmaker-to-launch-72-satellites-to-assist-intelligent-driving)
-- [China and France prepare to launch satellite to hunt for gamma-ray bursts](https://www.space.com/china-france-gamma-ray-burst-satellite)
-- [OpenAI launches an API for ChatGPT, a startup attempts a humanoid robot, and Salesforce turns it around](https://techcrunch.com/2023/03/04/openai-launches-an-api-for-chatgpt-a-startup-attempts-a-humanoid-robot-and-salesforce-turns-it-around/)
-- [This Week in Apps: Jack Dorsey-backed Bluesky, social apps’ teen protections, Twitter clients get help](https://techcrunch.com/2023/03/04/this-week-in-apps-jack-dorsey-backed-bluesky-social-apps-teen-protections-twitter-clients-get-help/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
