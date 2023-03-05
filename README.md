@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [If you have more than one business model, you don’t have a business model](https://techcrunch.com/2023/03/05/keep-it-simple-on-the-business-models/)
 - [Amazon and Better.com’s unlikely pairing](https://techcrunch.com/2023/03/05/amazon-and-fintech-better-coms-unlikely-pairing/)
 - [&#39;Star Wars: The High Republic&#39; gets lavish illustrated guide from Insight Editions &lpar;exclusive&rpar;](https://www.space.com/star-wars-the-high-republic-illustrated-guide-book)
 - [Will one good quarter appease the activist investors dogging Salesforce?](https://techcrunch.com/2023/03/05/salesforce-activist-investors-earnings-results/)
 - [This fantastic trailer for retro-future game &#39;The Invincible&#39; aims for the stars &lpar;video&rpar;](https://www.space.com/the-invinvible-space-game-trailer)
-- [I drove a rover on a moon-like landscape and felt like an Apollo astronaut &lpar;video&rpar;](https://www.space.com/moon-rover-simulated-drive-apollo-astronaut)
 <!-- BLOG-POST-LIST:END -->
 
 ---
