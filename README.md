@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [We’d give an arm and a leg for an ARM IPO filing](https://techcrunch.com/2023/03/06/wed-give-an-arm-and-a-leg-for-an-arm-ipo-filing/)
-- [Only 5 days left to save $1,000 on Disrupt passes](https://techcrunch.com/2023/03/06/only-5-days-left-to-save-1000-on-disrupt-passes/)
-- [5 mysteries we want to see unraveled in Mass Effect 4](https://www.space.com/mass-effect-4-plot-point-mysteries)
-- [Lego Star Wars deals 2023: savings on vehicles, ships, helmets and more](https://www.space.com/lego-star-wars-deals)
-- [Ursa Major Constellation: Everything you need to know about the Great Bear](https://www.space.com/ursa-major-constellation-great-bear)
+- [Sony E 16-55mm f/2.8 G lens review](https://www.space.com/sony-16-55mm-f28-g-lens-review)
+- [Valuation pressure on software startups is easing](https://techcrunch.com/2023/03/06/valuation-pressure-on-software-startups-is-easing/)
+- [Russian game developer bans and doxes 6,700 cheaters](https://techcrunch.com/2023/03/06/russian-game-developer-bans-and-doxes-6700-cheaters/)
+- [Watch the Full Worm Moon rise tomorrow &lpar;March 7&rpar; in free telescope webcast](https://www.space.com/full-moon-march-2023-virtual-telescope-webcast)
+- [SiriusXM announces layoffs of 475 people, or 8% of its total workforce](https://techcrunch.com/2023/03/06/siriusxm-announces-layoffs-of-475-people-or-8-of-its-total-workforce/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
