@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fire TV launches a new dedicated Oscars hub that lets users predict the winners](https://techcrunch.com/2023/03/06/amazon-fire-tv-dedicated-oscars-hub/)
+- [Melting ice cores on frozen worlds could speed up the search for alien life](https://www.space.com/mars-europa-ice-deposits-to-search-for-life)
+- [Catch founder says health benefits startup is shutting down](https://techcrunch.com/2023/03/06/catch-insurtech-shutting-down/)
 - [Upload Ventures, a SoftBank LatAm spin-out, seeks to raise a $250 million fund](https://techcrunch.com/2023/03/06/upload-ventures-a-softbank-latam-spin-out-seeks-to-raise-a-250-million-fund/)
 - [&#39;Star Trek: Discovery&#39; will come to a close with Season 5 in 2024](https://www.space.com/star-trek-discovery-will-end-season-five-2024)
-- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
-- [X-rays reveal how 450-year-old Tycho supernova became a giant cosmic particle accelerator](https://www.space.com/x-rays-tycho-supernova-cosmic-rays-particle-accelerator)
-- [Arbitrum co-founders see opportunity for continued layer-2 growth through DeFi, gaming](https://techcrunch.com/2023/03/06/arbitrum-ethereum-layer-2-growth/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
