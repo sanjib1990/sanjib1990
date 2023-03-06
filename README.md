@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Inside Startup Battlefield: Say Hello to the Startup Battlefield Winner](https://techcrunch.com/2023/03/06/inside-startup-battlefield-say-hello-to-the-startup-battlefield-winner/)
+- [Tweet, tweet, pass: Twitter unlocks a budding growth opportunity for cannabis startups](https://techcrunch.com/2023/03/06/cannabis-startups-twitter-advertising/)
+- [SoundCloud is testing a TikTok-like feed for music discovery](https://techcrunch.com/2023/03/06/soundcloud-is-testing-a-tiktok-like-feed-for-music-discovery/)
+- [Bright new comet discovered zooming toward the sun could outshine the stars next year](https://www.space.com/bright-new-comet-discovered-zooming-toward-the-sun-could-outshine-the-stars-next-year)
 - [Sony E 16-55mm f/2.8 G lens review](https://www.space.com/sony-16-55mm-f28-g-lens-review)
-- [Valuation pressure on software startups is easing](https://techcrunch.com/2023/03/06/valuation-pressure-on-software-startups-is-easing/)
-- [Russian game developer bans and doxes 6,700 cheaters](https://techcrunch.com/2023/03/06/russian-game-developer-bans-and-doxes-6700-cheaters/)
-- [Watch the Full Worm Moon rise tomorrow &lpar;March 7&rpar; in free telescope webcast](https://www.space.com/full-moon-march-2023-virtual-telescope-webcast)
-- [SiriusXM announces layoffs of 475 people, or 8% of its total workforce](https://techcrunch.com/2023/03/06/siriusxm-announces-layoffs-of-475-people-or-8-of-its-total-workforce/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
