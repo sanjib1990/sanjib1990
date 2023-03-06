@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Upload Ventures, a SoftBank LatAm spin-out, seeks to raise a $250 million fund](https://techcrunch.com/2023/03/06/upload-ventures-a-softbank-latam-spin-out-seeks-to-raise-a-250-million-fund/)
+- [&#39;Star Trek: Discovery&#39; will come to a close with Season 5 in 2024](https://www.space.com/star-trek-discovery-will-end-season-five-2024)
+- [NASA&#39;s James Webb Space Telescope mission: Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
 - [X-rays reveal how 450-year-old Tycho supernova became a giant cosmic particle accelerator](https://www.space.com/x-rays-tycho-supernova-cosmic-rays-particle-accelerator)
 - [Arbitrum co-founders see opportunity for continued layer-2 growth through DeFi, gaming](https://techcrunch.com/2023/03/06/arbitrum-ethereum-layer-2-growth/)
-- [Asteroids may have picked up building blocks of life from interstellar clouds](https://www.space.com/interstellar-clouds-asteroids-amino-acids-building-blocks-life)
-- [Honeycomb’s yoke and throttle let you take your flight sim experience to the next level](https://techcrunch.com/2023/03/06/honeycomb-alpha-flight-control-xpc-yoke-and-bravo-throttle-take-flight-sim-review-pc-xbox/)
-- [Medium launches a ‘premium’ Mastodon instance as a membership perk](https://techcrunch.com/2023/03/06/medium-launches-a-premium-mastodon-instance-as-a-membership-perk/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
