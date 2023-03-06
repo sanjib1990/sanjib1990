@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [X-rays reveal how 450-year-old Tycho supernova became a giant cosmic particle accelerator](https://www.space.com/x-rays-tycho-supernova-cosmic-rays-particle-accelerator)
+- [Arbitrum co-founders see opportunity for continued layer-2 growth through DeFi, gaming](https://techcrunch.com/2023/03/06/arbitrum-ethereum-layer-2-growth/)
+- [Asteroids may have picked up building blocks of life from interstellar clouds](https://www.space.com/interstellar-clouds-asteroids-amino-acids-building-blocks-life)
 - [Honeycomb’s yoke and throttle let you take your flight sim experience to the next level](https://techcrunch.com/2023/03/06/honeycomb-alpha-flight-control-xpc-yoke-and-bravo-throttle-take-flight-sim-review-pc-xbox/)
 - [Medium launches a ‘premium’ Mastodon instance as a membership perk](https://techcrunch.com/2023/03/06/medium-launches-a-premium-mastodon-instance-as-a-membership-perk/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [Vinod Khosla’s advice for top VCs? Don’t sit on your founders’ boards](https://techcrunch.com/2023/03/06/vinod-khoslas-advice-for-top-vcs-dont-sit-on-your-founders-boards/)
-- [Twitter fixes broken links and images caused by ‘internal change’](https://techcrunch.com/2023/03/06/twitter-images-and-links-are-currently-broken/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
