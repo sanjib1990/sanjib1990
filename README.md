@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Police arrest suspected members of prolific DoppelPaymer ransomware gang](https://techcrunch.com/2023/03/06/police-arrest-suspected-members-of-prolific-doppelpaymer-ransomware-gang/)
+- [In designing &#39;Hello Tomorrow!&#39; on Apple TV+, Maya Sigel shoots for the moon  &lpar;exclusive&rpar;](https://www.space.com/hello-tomorrow-apple-tv-plus-sci-fi-show-designer-interview)
+- [WhatsApp agrees to clean up its user messaging in the EU](https://techcrunch.com/2023/03/06/whatsapp-tos-commitments-eu/)
 - [Another AV company hits the skids, Scout Motors picks a home and Tesla’s tepid investor day](https://techcrunch.com/2023/03/06/another-av-company-hits-the-skids-scout-motors-picks-a-home-and-teslas-tepid-investor-day/)
 - [Open banking startup Abound nabs $601M to supercharge its AI-based consumer lending platform](https://techcrunch.com/2023/03/06/open-banking-loans-platform-abound-nabs-601m-to-supercharge-its-consumer-lending-business/)
-- [This former NASA astronaut steered a space shuttle to safety after overcoming gender discrimination](https://www.space.com/womens-history-month-space-shuttle-astronaut-susan-kilrain)
-- [James Webb Space Telescope &#39;sees triple&#39; with help from Einstein &lpar;photos&rpar;](https://www.space.com/james-webb-space-telescope-triple-galaxy-photos)
-- [Nigerian B2B e-commerce startup Alerzo cuts 15% of full-time staff in second round of layoffs](https://techcrunch.com/2023/03/06/nigerian-b2b-e-commerce-startup-alerzo-cuts-15-of-full-time-staff-in-second-round-of-layoffs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
