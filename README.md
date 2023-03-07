@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Candidly picks up student debt relief where new US policies leave off](https://techcrunch.com/2023/03/07/candidly-student-debt-relief-employee-benefit-fintech/)
-- [Roami takes on Airbnb with creativity, grit and $14M](https://techcrunch.com/2023/03/07/sextant-stays-becomes-roami/)
-- [Plus One raises $50M for its parcel robotics vision systems](https://techcrunch.com/2023/03/07/plusone-raises-50m-for-its-parcel-robotics-vision-systems/)
-- [Sonos replaces the One, adds a spatial audio speaker to lineup](https://techcrunch.com/2023/03/07/sonos-replaces-the-one-adds-a-spatial-audio-speaker-to-lineup/)
-- [Overhaul, which taps AI to secure physical supply chains, raises $73M in equity and debt](https://techcrunch.com/2023/03/07/overhaul-which-taps-ai-to-secure-physical-supply-chains-raises-73m-in-equity-and-debt/)
+- [Gatik’s Gautam Narang on the importance of knowing your customer](https://techcrunch.com/2023/03/07/gatiks-gautam-narang-on-the-importance-of-knowing-your-customer/)
+- [Nikon Travelite EX 8x25 binoculars review](https://www.space.com/nikon-travelite-ex-8x25-binoculars-review)
+- [Sonos to add support for spatial audio on Apple Music on March 28](https://techcrunch.com/2023/03/07/sonos-support-spatial-audio-apple-music-march-28/)
+- [Bring historic NASA missions to your fingertips with new ORLY nail polishes](https://www.space.com/orly-nasa-nail-polish-lacquers)
+- [Apple releases new yellow iPhone 14 and 14 Plus](https://techcrunch.com/2023/03/07/apple-releases-new-yellow-iphone-14-and-14-plus/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
