@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Climate tech startups team up to decarbonize Arizona cement plant](https://techcrunch.com/2023/03/07/climate-tech-startups-team-up-to-decarbonize-arizona-cement-plant/)
+- [YouTube relaxes controversial profanity and monetization rules following creator backlash](https://techcrunch.com/2023/03/07/youtube-relaxes-controversial-profanity-and-monetization-rules-following-creator-backlash/)
+- [The big reveal: What&#39;s ahead in returning samples from Mars?](https://www.space.com/mars-sample-return-whats-ahead)
 - [Is $12.4B a fair price for Qualtrics?](https://techcrunch.com/2023/03/07/qualtrics-sap-purchase-price-analysis/)
 - [Walt Disney Imagineering snags Chief Creative Officer Bruce Vaughn back from Airbnb](https://techcrunch.com/2023/03/07/walt-disney-imagineering-snags-chief-creative-officer-bruce-vaughn-back-from-airbnb/)
-- [Talking trash with Matt Rogers from Mill](https://techcrunch.com/2023/03/07/talking-trash-with-matt-rogers-from-mill/)
-- [Carina Nebula twinkles in gorgeous new view from Hubble &lpar;photo&rpar;](https://www.space.com/carina-nebula-hubble-space-telescope-photo)
-- [7 investors reveal what’s hot in fintech in Q1 2023](https://techcrunch.com/2023/03/07/7-investors-reveal-whats-hot-in-fintech-in-q1-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
