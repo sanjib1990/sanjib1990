@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Climate tech startups team up to decarbonize Arizona cement plant](https://techcrunch.com/2023/03/07/climate-tech-startups-team-up-to-decarbonize-arizona-cement-plant/)
-- [YouTube relaxes controversial profanity and monetization rules following creator backlash](https://techcrunch.com/2023/03/07/youtube-relaxes-controversial-profanity-and-monetization-rules-following-creator-backlash/)
-- [The big reveal: What&#39;s ahead in returning samples from Mars?](https://www.space.com/mars-sample-return-whats-ahead)
-- [Is $12.4B a fair price for Qualtrics?](https://techcrunch.com/2023/03/07/qualtrics-sap-purchase-price-analysis/)
-- [Walt Disney Imagineering snags Chief Creative Officer Bruce Vaughn back from Airbnb](https://techcrunch.com/2023/03/07/walt-disney-imagineering-snags-chief-creative-officer-bruce-vaughn-back-from-airbnb/)
+- [Daily Crunch: AI-driven fintech Candidly nabs $20.5M Series B to help consumers ‘crush debt’](https://techcrunch.com/2023/03/07/daily-crunch-ai-driven-fintech-candidly-nabs-20-5m-series-b-to-help-consumers-crush-debt/)
+- [Rare black hole 1 billion times the mass of the sun could upend our understanding of galaxy formation](https://www.space.com/rare-black-hole-1-billion-times--mass-of-sun)
+- [Google I/O returns to Mountain View May 10](https://techcrunch.com/2023/03/07/google-i-o-returns-to-mountain-view-may-10/)
+- [NASA&#39;s Artemis 1 Orion spacecraft aced moon mission despite heat shield issue](https://www.space.com/artemis-1-orion-moon-mission-heat-shield-issue)
+- [Russians will fly on SpaceX&#39;s Crew-7, Crew-8 astronaut missions: report](https://www.space.com/spacex-crew-7-crew-8-russian-astronaut-missions)
 <!-- BLOG-POST-LIST:END -->
 
 ---
