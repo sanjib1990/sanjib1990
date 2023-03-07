@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Growfin’s AI-based cash collection SaaS expands further to US and Asia](https://techcrunch.com/2023/03/06/growfin-for-cfos-and-finance-teams-to-the-cash-collection-cycle/)
 - [Japan&#39;s new H3 rocket fails on 1st test flight, advanced Earth observation satellite lost](https://www.space.com/japan-h3-rocket-fails-1st-test-flight)
 - [Atlassian cuts 5% of its workforce](https://techcrunch.com/2023/03/06/atlassian-cuts-5-of-its-workforce/)
 - [Meet UniUni, Shein’s last-mile solution delivered by gig drivers](https://techcrunch.com/2023/03/06/meet-uniuni-sheins-last-mile-solution-delivered-by-gig-drivers/)
 - [Daily Crunch: Game developer bans 6,700 cheaters and publishes their usernames](https://techcrunch.com/2023/03/06/daily-crunch-game-publisher-bans-6700-cheaters-and-publishes-their-usernames/)
-- [Max Q: About that ‘for sale’ sign on a ULA Atlas V](https://techcrunch.com/2023/03/06/max-q-about-that-for-sale-sign-on-a-ula-atlas-v/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
