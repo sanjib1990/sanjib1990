@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Facebook’s latest test brings back in-app messaging](https://techcrunch.com/2023/03/07/facebooks-latest-test-brings-back-in-app-messaging/)
-- [The first-ever Black Friday NFL game will stream for free on Prime Video](https://techcrunch.com/2023/03/07/the-first-ever-black-friday-nfl-game-will-stream-for-free-on-prime-video/)
-- [Reddit gets a TikTok-style feature that introduces a separate video feed](https://techcrunch.com/2023/03/07/reddit-gets-a-tiktok-style-feature-that-introduces-a-separate-video-feed/)
-- [NASA&#39;s Mars rover Curiosity sees dazzling &#39;sun rays&#39; over Red Planet](https://www.space.com/nasa-curiosity-mars-rover-sun-rays)
-- [TechCrunch+ roundup: Building a core AI team, Brazil’s CVC climate, remote work rituals](https://techcrunch.com/2023/03/07/techcrunch-roundup-building-a-core-ai-team-brazils-cvc-climate-remote-work-rituals/)
+- [Talking trash with Matt Rogers from Mill](https://techcrunch.com/2023/03/07/talking-trash-with-matt-rogers-from-mill/)
+- [Carina Nebula twinkles in gorgeous new view from Hubble &lpar;photo&rpar;](https://www.space.com/carina-nebula-hubble-space-telescope-photo)
+- [7 investors reveal what’s hot in fintech in Q1 2023](https://techcrunch.com/2023/03/07/7-investors-reveal-whats-hot-in-fintech-in-q1-2023/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [UAE&#39;s 1st long-duration astronaut sets sights on moon and Mars](https://www.space.com/united-arab-emirates-long-duration-mission-moon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
