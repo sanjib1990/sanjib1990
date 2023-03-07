@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tensor raises $3M for Solana-focused NFT trading platform](https://techcrunch.com/2023/03/07/tensor-raises-3m-for-solana-focused-nft-trading-platform/)
+- [Alien &amp; Star Trek fandoms forged the world of new space game Scars Above](https://www.space.com/scars-above-fandoms-alien-star-trek-influence)
 - [Assured Allies secures $42.5M Series B to help Americans ‘successfully age’](https://techcrunch.com/2023/03/07/assured-allies-retirement-insurance-series-b/)
-- [Online food delivery platforms in Kenya under probe](https://techcrunch.com/2023/03/07/online-food-delivery-platforms-in-kenya-under-probe/)
-- [ADHD startups are exploding, and now there even a dedicated browser](https://techcrunch.com/2023/03/06/adhd-startups-are-exploding-and-now-there-even-a-dedicated-browser/)
-- [Growfin’s AI-based cash collection SaaS expands further to US and Asia](https://techcrunch.com/2023/03/06/growfin-for-cfos-and-finance-teams-to-the-cash-collection-cycle/)
-- [Japan&#39;s new H3 rocket fails on 1st test flight, advanced Earth observation satellite lost](https://www.space.com/japan-h3-rocket-fails-1st-test-flight)
+- [Russia&#39;s war on Ukraine has caused lasting damage to international spaceflight cooperation](https://www.space.com/russia-war-ukraine-damage-international-spaceflight-cooperation)
+- [Don&#39;t miss March&#39;s Full Worm Moon in the sky tonight](https://www.space.com/full-moon-rises-tonight-march-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
