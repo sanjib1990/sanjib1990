@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is $12.4B a fair price for Qualtrics?](https://techcrunch.com/2023/03/07/qualtrics-sap-purchase-price-analysis/)
+- [Walt Disney Imagineering snags Chief Creative Officer Bruce Vaughn back from Airbnb](https://techcrunch.com/2023/03/07/walt-disney-imagineering-snags-chief-creative-officer-bruce-vaughn-back-from-airbnb/)
 - [Talking trash with Matt Rogers from Mill](https://techcrunch.com/2023/03/07/talking-trash-with-matt-rogers-from-mill/)
 - [Carina Nebula twinkles in gorgeous new view from Hubble &lpar;photo&rpar;](https://www.space.com/carina-nebula-hubble-space-telescope-photo)
 - [7 investors reveal what’s hot in fintech in Q1 2023](https://techcrunch.com/2023/03/07/7-investors-reveal-whats-hot-in-fintech-in-q1-2023/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [UAE&#39;s 1st long-duration astronaut sets sights on moon and Mars](https://www.space.com/united-arab-emirates-long-duration-mission-moon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
