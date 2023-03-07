@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meet UniUni, Shein’s last-mile solution delivered by gig drivers](https://techcrunch.com/2023/03/06/meet-uniuni-sheins-last-mile-solution-delivered-by-gig-drivers/)
 - [Daily Crunch: Game developer bans 6,700 cheaters and publishes their usernames](https://techcrunch.com/2023/03/06/daily-crunch-game-publisher-bans-6700-cheaters-and-publishes-their-usernames/)
 - [Max Q: About that ‘for sale’ sign on a ULA Atlas V](https://techcrunch.com/2023/03/06/max-q-about-that-for-sale-sign-on-a-ula-atlas-v/)
 - [NASA&#39;s IBEX spacecraft bounces back from glitch to study edge of solar system](https://www.space.com/nasa-ibex-flight-computer-normal-march-2023)
 - [Fire TV launches a new dedicated Oscars hub that lets users predict the winners](https://techcrunch.com/2023/03/06/amazon-fire-tv-dedicated-oscars-hub/)
-- [Melting ice cores on frozen worlds could speed up the search for alien life](https://www.space.com/mars-europa-ice-deposits-to-search-for-life)
 <!-- BLOG-POST-LIST:END -->
 
 ---
