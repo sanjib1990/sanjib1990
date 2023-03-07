@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Tensor raises $3M for Solana-focused NFT trading platform](https://techcrunch.com/2023/03/07/tensor-raises-3m-for-solana-focused-nft-trading-platform/)
-- [Alien &amp; Star Trek fandoms forged the world of new space game Scars Above](https://www.space.com/scars-above-fandoms-alien-star-trek-influence)
-- [Assured Allies secures $42.5M Series B to help Americans ‘successfully age’](https://techcrunch.com/2023/03/07/assured-allies-retirement-insurance-series-b/)
-- [Russia&#39;s war on Ukraine has caused lasting damage to international spaceflight cooperation](https://www.space.com/russia-war-ukraine-damage-international-spaceflight-cooperation)
-- [Don&#39;t miss March&#39;s Full Worm Moon in the sky tonight](https://www.space.com/full-moon-rises-tonight-march-2023)
+- [Threecolts raises $90M to build out its toolkit for third parties selling on marketplaces like Amazon](https://techcrunch.com/2023/03/07/threecolts-raises-90m-to-build-out-its-toolkit-for-third-parties-selling-on-marketplaces-like-amazon/)
+- [Droit, a regulatory compliance platform used by major banks, raises $23M](https://techcrunch.com/2023/03/07/droit-a-regulatory-compliance-platform-used-by-major-banks-raises-23m/)
+- [reMarkable powers up its e-paper tablet with a keyboard case for distraction-free writing](https://techcrunch.com/2023/03/07/remarkable-powers-up-its-e-paper-tablet-with-a-keyboard-case-for-distraction-free-writing/)
+- [D-ID’s new web app gives a face and voice to OpenAI’s ChatGPT](https://techcrunch.com/2023/03/07/d-ids-new-web-app-gives-a-face-and-voice-to-openais-chatgpt/)
+- [Salesforce plans to incorporate generative AI across the platform](https://techcrunch.com/2023/03/07/salesforce-plans-to-incorporate-generative-ai-across-the-platform/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
