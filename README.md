@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Threecolts raises $90M to build out its toolkit for third parties selling on marketplaces like Amazon](https://techcrunch.com/2023/03/07/threecolts-raises-90m-to-build-out-its-toolkit-for-third-parties-selling-on-marketplaces-like-amazon/)
-- [Droit, a regulatory compliance platform used by major banks, raises $23M](https://techcrunch.com/2023/03/07/droit-a-regulatory-compliance-platform-used-by-major-banks-raises-23m/)
-- [reMarkable powers up its e-paper tablet with a keyboard case for distraction-free writing](https://techcrunch.com/2023/03/07/remarkable-powers-up-its-e-paper-tablet-with-a-keyboard-case-for-distraction-free-writing/)
-- [D-ID’s new web app gives a face and voice to OpenAI’s ChatGPT](https://techcrunch.com/2023/03/07/d-ids-new-web-app-gives-a-face-and-voice-to-openais-chatgpt/)
-- [Salesforce plans to incorporate generative AI across the platform](https://techcrunch.com/2023/03/07/salesforce-plans-to-incorporate-generative-ai-across-the-platform/)
+- [Candidly picks up student debt relief where new US policies leave off](https://techcrunch.com/2023/03/07/candidly-student-debt-relief-employee-benefit-fintech/)
+- [Roami takes on Airbnb with creativity, grit and $14M](https://techcrunch.com/2023/03/07/sextant-stays-becomes-roami/)
+- [Plus One raises $50M for its parcel robotics vision systems](https://techcrunch.com/2023/03/07/plusone-raises-50m-for-its-parcel-robotics-vision-systems/)
+- [Sonos replaces the One, adds a spatial audio speaker to lineup](https://techcrunch.com/2023/03/07/sonos-replaces-the-one-adds-a-spatial-audio-speaker-to-lineup/)
+- [Overhaul, which taps AI to secure physical supply chains, raises $73M in equity and debt](https://techcrunch.com/2023/03/07/overhaul-which-taps-ai-to-secure-physical-supply-chains-raises-73m-in-equity-and-debt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
