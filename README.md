@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Who’s to blame for all the SPAC implosions?](https://techcrunch.com/2023/03/07/whos-to-blame-for-all-the-spac-implosions/)
-- [Tick tock — 4 days left to save $1,000 on Disrupt passes](https://techcrunch.com/2023/03/07/four-days-left-save-a-thousand-dollars-techcrunch-disrupt-2023/)
-- [Banyan wants to unlock financing for a &lpar;more&rpar; sustainable future](https://techcrunch.com/2023/03/07/banyan-series-b/)
-- [Salesforce Ventures targets new $250M fund at generative AI startups](https://techcrunch.com/2023/03/07/salesforce-ventures-targets-new-250m-fund-at-generative-ai-startups/)
-- [Gatik’s Gautam Narang on the importance of knowing your customer](https://techcrunch.com/2023/03/07/gatiks-gautam-narang-on-the-importance-of-knowing-your-customer/)
+- [Fynn raises $36M for a platform to finance students in vocational education](https://techcrunch.com/2023/03/07/fynn-raises-36m-for-a-platform-to-finance-students-in-vocational-education/)
+- [A list of robotics companies that are hiring](https://techcrunch.com/2023/03/07/a-list-of-robotics-companies-that-are-hiring/)
+- [Twitter Blue’s quiet rollout in EU frets watchdog over lack of notice](https://techcrunch.com/2023/03/07/twitter-blue-eu-dpc-concern/)
+- [What you need to know about raising a Series A](https://techcrunch.com/2023/03/07/how-to-raise-series-a-techcrunch-early-stage-2023/)
+- [Jason Sudeikis teases possible ‘Ted Lasso’ extended cinematic universe for Apple TV+](https://techcrunch.com/2023/03/07/jason-sudekis-teases-possible-ted-lasso-extended-cinematic-universe-for-apple-tv/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
