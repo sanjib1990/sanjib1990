@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Fynn raises $36M for a platform to finance students in vocational education](https://techcrunch.com/2023/03/07/fynn-raises-36m-for-a-platform-to-finance-students-in-vocational-education/)
-- [A list of robotics companies that are hiring](https://techcrunch.com/2023/03/07/a-list-of-robotics-companies-that-are-hiring/)
-- [Twitter Blue’s quiet rollout in EU frets watchdog over lack of notice](https://techcrunch.com/2023/03/07/twitter-blue-eu-dpc-concern/)
-- [What you need to know about raising a Series A](https://techcrunch.com/2023/03/07/how-to-raise-series-a-techcrunch-early-stage-2023/)
-- [Jason Sudeikis teases possible ‘Ted Lasso’ extended cinematic universe for Apple TV+](https://techcrunch.com/2023/03/07/jason-sudekis-teases-possible-ted-lasso-extended-cinematic-universe-for-apple-tv/)
+- [Reddit gets a TikTok-style feature that introduces a separate video feed](https://techcrunch.com/2023/03/07/reddit-gets-a-tiktok-style-feature-that-introduces-a-separate-video-feed/)
+- [NASA&#39;s Mars rover Curiosity sees dazzling &#39;sun rays&#39; over Red Planet](https://www.space.com/nasa-curiosity-mars-rover-sun-rays)
+- [TechCrunch+ roundup: Building a core AI team, Brazil’s CVC climate, remote work rituals](https://techcrunch.com/2023/03/07/techcrunch-roundup-building-a-core-ai-team-brazils-cvc-climate-remote-work-rituals/)
+- [Amazon to close eight Amazon Go stores in Seattle, San Francisco and New York](https://techcrunch.com/2023/03/07/amazon-to-close-eight-amazon-go-stores-in-seattle-san-francisco-and-new-york/)
+- [China builds huge propellant tank for massive future rocket &lpar;photos&rpar;](https://www.space.com/china-huge-propellant-tank-long-march-9-rocket)
 <!-- BLOG-POST-LIST:END -->
 
 ---
