@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Coinbase is ‘laser-focused’ on growing dev world and onboarding crypto-curious](https://techcrunch.com/2023/03/08/coinbase-wallet-new-markets/)
-- [New VR game &#39;Journey to Foundation&#39; channels galactic chaos of Asimov novels](https://www.space.com/journey-to-foundation-vr-game-asimov)
-- [Dear startups, your developers and engineers are on island](https://techcrunch.com/2023/03/08/developer-engineering-tech-job-onboarding-quotient/)
-- [Elon Musk apologizes after publicly mocking Twitter employee with disability](https://techcrunch.com/2023/03/08/elon-musk-apologizes-after-publicly-mocking-twitter-employee-with-disability/)
-- [Full moon worms its way into stunning photos from around the world](https://www.space.com/full-moon-march-2023-in-pictures)
+- [Dear Sophie: Last-minute H-1Bs, O-1A &amp; EB-1A extraordinary credential prep](https://techcrunch.com/2023/03/08/dear-sophie-last-minute-h-1bs-o-1a-eb-1a-extraordinary-credential-prep/)
+- [Lagoon Nebula shines in gorgeous new Hubble image](https://www.space.com/lagoon-nebula-hubble-space-telescope-photo)
+- [Tesla under investigation after steering wheels fall off two Model Y vehicles](https://techcrunch.com/2023/03/08/tesla-under-investigation-after-steering-wheels-fall-off-two-model-y-vehicles/)
+- [Yikes! 72 hours left to save $1K on passes to Disrupt](https://techcrunch.com/2023/03/08/72-hours-left-save-a-thousand-dollars-techcrunch-disrupt-2023/)
+- [Two separate lawsuits allege ageist hiring practices at Blue Origin](https://techcrunch.com/2023/03/08/two-separate-lawsuits-allege-ageist-hiring-practices-at-blue-origin/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
