@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meet the women-led web3 startups from Thousand Faces’ demo day](https://techcrunch.com/2023/03/08/meet-the-women-led-web3-startups-from-thousand-faces-demo-day/)
+- [Shockwaves rocking the &#39;cosmic web&#39; connecting galaxies seen for the 1st time](https://www.space.com/cosmic-web-shockwaves-1st-radio-glow)
+- [Microsoft makes it easier to integrate quantum and classical computing](https://techcrunch.com/2023/03/08/microsoft-makes-it-easier-to-integrate-quantum-and-classical-computing/)
 - [The sky isn’t falling for cloud software spend](https://techcrunch.com/2023/03/08/the-sky-isnt-falling-for-cloud-software-spend/)
 - [Starfish Space captures new funding ahead of orbital servicing demo mission](https://techcrunch.com/2023/03/08/starfish-space-captures-new-funding-ahead-of-orbital-servicing-demo-mission/)
-- [Humane, a secretive AI startup founded by ex-Apple employees, raises another $100M](https://techcrunch.com/2023/03/08/humane-the-secretive-ai-startup-founded-by-ex-apple-employees-raises-another-100m/)
-- [Google expands VPN access to all Google One members, rolls out new ‘dark web report’ feature](https://techcrunch.com/2023/03/08/google-expands-vpn-access-to-all-google-one-members-rolls-out-new-dark-web-report-feature/)
-- [Vantage raises $21M Series A to help bring down cloud costs](https://techcrunch.com/2023/03/08/vantage-raises-21m-series-a-to-help-bring-down-cloud-costs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
