@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Worldcoin, cofounded by Sam Altman, is betting the next big thing in AI is proving you are human](https://techcrunch.com/2023/03/07/worldcoin-cofounded-by-sam-altman-is-betting-the-next-big-thing-in-ai-is-proving-you-are-human/)
 - [Elyn slightly delays online payments so you can try before you pay](https://techcrunch.com/2023/03/07/elyn-slightly-delays-online-payments-so-you-can-try-before-you-pay/)
-- [Soon not streaming on Disney+ Hotstar: HBO content](https://techcrunch.com/2023/03/07/soon-not-streaming-on-disney-hotstar-hbo-content/)
+- [Soon, not streaming on Disney+ Hotstar: HBO content](https://techcrunch.com/2023/03/07/soon-not-streaming-on-disney-hotstar-hbo-content/)
 - [Indian fintech unicorn Slice acquires stake in a bank](https://techcrunch.com/2023/03/07/slice-acquires-stake-in-a-north-east-bank/)
 - [Relativity Space has had a wild ride to launch](https://techcrunch.com/2023/03/07/relativity-space-has-had-a-wild-ride-to-launch/)
-- [Daily Crunch: AI-driven fintech Candidly nabs $20.5M Series B to help consumers ‘crush debt’](https://techcrunch.com/2023/03/07/daily-crunch-ai-driven-fintech-candidly-nabs-20-5m-series-b-to-help-consumers-crush-debt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
