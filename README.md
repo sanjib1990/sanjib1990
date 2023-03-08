@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [One-of-kind Barbie dolls honor citizen astronaut, space scientist as role models on International Women&#39;s Day](https://www.space.com/mattel-barbie-stem-role-models-echazarreta-aderin-pocock)
-- [Spotify introduces Countdown Pages and its own Stories feature](https://techcrunch.com/2023/03/08/spotify-introduces-countdown-pages-and-its-own-stories-feature/)
-- [Spotify debuts new new growth and discovery tools for artists, merch and live events](https://techcrunch.com/2023/03/08/spotify-debuts-new-new-growth-and-discovery-tools-for-artists-merch-and-live-events/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [Wonder Dynamics puts a full-service CG character studio in a web platform](https://techcrunch.com/2023/03/08/wonder-dynamics-puts-a-full-service-cg-character-studio-in-a-web-platform/)
+- [Better.com’s SPAC gets a lifeline but remains on life support](https://techcrunch.com/2023/03/08/better-aurora-spac-deal-closing/)
+- [US Space Force grants 4 companies launch pads at Cape Canaveral](https://www.space.com/space-force-cape-canaveral-launch-pads-private-companies)
+- [Hear why Kleiner Perkins went all in on Arianna Huffington’s Thrive Global on TechCrunch Live](https://techcrunch.com/2023/03/08/hear-why-kleiner-perkins-went-all-in-on-arianna-huffingtons-thrive-global-on-techcrunch-live/)
+- [SpaceX Crew 5 astronauts to leave space station for Earth tomorrow](https://www.space.com/spacex-crew-5-international-space-station-mission-splashdown)
+- [Spotify is revamping its podcaster tools, including Anchor, and is partnering with Patreon](https://techcrunch.com/2023/03/08/spotify-is-revamping-its-podcaster-tools-including-anchor-and-is-partnering-with-patreon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
