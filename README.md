@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TikTok begins blocking links to app store pages from creators’ bios](https://techcrunch.com/2023/03/08/tiktok-begins-blocking-links-to-app-store-pages-from-creators-bios/)
+- [Today’s startups should terrify you](https://techcrunch.com/2023/03/08/startups-today-should-terrify-you/)
+- [Relativity scrubs first Terran 1 launch attempt](https://techcrunch.com/2023/03/08/relativity-scrubs-first-terran-1-launch-attempt/)
+- [International Space Station fires thrusters to avoid collision with satellite](https://www.space.com/international-space-station-avoid-satellite)
 - [Better.com’s SPAC gets a lifeline but remains on life support](https://techcrunch.com/2023/03/08/better-aurora-spac-deal-closing/)
-- [US Space Force grants 4 companies launch pads at Cape Canaveral](https://www.space.com/space-force-cape-canaveral-launch-pads-private-companies)
-- [Hear why Kleiner Perkins went all in on Arianna Huffington’s Thrive Global on TechCrunch Live](https://techcrunch.com/2023/03/08/hear-why-kleiner-perkins-went-all-in-on-arianna-huffingtons-thrive-global-on-techcrunch-live/)
-- [SpaceX Crew 5 astronauts to leave space station for Earth tomorrow](https://www.space.com/spacex-crew-5-international-space-station-mission-splashdown)
-- [Spotify is revamping its podcaster tools, including Anchor, and is partnering with Patreon](https://techcrunch.com/2023/03/08/spotify-is-revamping-its-podcaster-tools-including-anchor-and-is-partnering-with-patreon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
