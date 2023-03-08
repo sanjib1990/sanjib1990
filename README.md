@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Why this unicorn chose to take a credit facility](https://techcrunch.com/2023/03/08/why-socure-chose-a-credit-facility/)
-- [Forethought aims to build more accurate chatbots with constrained generative AI models](https://techcrunch.com/2023/03/08/forethought-aims-to-build-more-accurate-chatbots-with-more-constrained-generative-ai-models/)
-- [Hailo’s new AI chips bring more image processing power to the edge](https://techcrunch.com/2023/03/08/hailos-new-ai-chips-bring-more-image-power-to-the-edge/)
-- [Coinbase launches wallet API to help integrate Web 2.0 devs into web3 world](https://techcrunch.com/2023/03/08/coinbase-launches-wallet-api-to-help-integrate-web2-0-devs-into-web3-world/)
-- [Ring launches a higher-res, battery-powered doorbell](https://techcrunch.com/2023/03/08/ring-launches-a-new-180-battery-powered-doorbell-with-improved-resolution/)
+- [Coinbase is ‘laser-focused’ on growing dev world and onboarding crypto-curious](https://techcrunch.com/2023/03/08/coinbase-wallet-new-markets/)
+- [New VR game &#39;Journey to Foundation&#39; channels galactic chaos of Asimov novels](https://www.space.com/journey-to-foundation-vr-game-asimov)
+- [Dear startups, your developers and engineers are on island](https://techcrunch.com/2023/03/08/developer-engineering-tech-job-onboarding-quotient/)
+- [Elon Musk apologizes after publicly mocking Twitter employee with disability](https://techcrunch.com/2023/03/08/elon-musk-apologizes-after-publicly-mocking-twitter-employee-with-disability/)
+- [Full moon worms its way into stunning photos from around the world](https://www.space.com/full-moon-march-2023-in-pictures)
 <!-- BLOG-POST-LIST:END -->
 
 ---
