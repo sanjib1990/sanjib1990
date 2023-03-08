@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Meet the women-led web3 startups from Thousand Faces’ demo day](https://techcrunch.com/2023/03/08/meet-the-women-led-web3-startups-from-thousand-faces-demo-day/)
-- [Shockwaves rocking the &#39;cosmic web&#39; connecting galaxies seen for the 1st time](https://www.space.com/cosmic-web-shockwaves-1st-radio-glow)
-- [Microsoft makes it easier to integrate quantum and classical computing](https://techcrunch.com/2023/03/08/microsoft-makes-it-easier-to-integrate-quantum-and-classical-computing/)
-- [The sky isn’t falling for cloud software spend](https://techcrunch.com/2023/03/08/the-sky-isnt-falling-for-cloud-software-spend/)
-- [Starfish Space captures new funding ahead of orbital servicing demo mission](https://techcrunch.com/2023/03/08/starfish-space-captures-new-funding-ahead-of-orbital-servicing-demo-mission/)
+- [One-of-kind Barbie dolls honor citizen astronaut, space scientist as role models on International Women&#39;s Day](https://www.space.com/mattel-barbie-stem-role-models-echazarreta-aderin-pocock)
+- [Spotify introduces Countdown Pages and its own Stories feature](https://techcrunch.com/2023/03/08/spotify-introduces-countdown-pages-and-its-own-stories-feature/)
+- [Spotify debuts new new growth and discovery tools for artists, merch and live events](https://techcrunch.com/2023/03/08/spotify-debuts-new-new-growth-and-discovery-tools-for-artists-merch-and-live-events/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [Wonder Dynamics puts a full-service CG character studio in a web platform](https://techcrunch.com/2023/03/08/wonder-dynamics-puts-a-full-service-cg-character-studio-in-a-web-platform/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
