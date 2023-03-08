@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Elyn slightly delays online payments so you can try before you pay](https://techcrunch.com/2023/03/07/elyn-slightly-delays-online-payments-so-you-can-try-before-you-pay/)
+- [Soon not streaming on Disney+ Hotstar: HBO content](https://techcrunch.com/2023/03/07/soon-not-streaming-on-disney-hotstar-hbo-content/)
 - [Indian fintech unicorn Slice acquires stake in a bank](https://techcrunch.com/2023/03/07/slice-acquires-stake-in-a-north-east-bank/)
 - [Relativity Space has had a wild ride to launch](https://techcrunch.com/2023/03/07/relativity-space-has-had-a-wild-ride-to-launch/)
 - [Daily Crunch: AI-driven fintech Candidly nabs $20.5M Series B to help consumers ‘crush debt’](https://techcrunch.com/2023/03/07/daily-crunch-ai-driven-fintech-candidly-nabs-20-5m-series-b-to-help-consumers-crush-debt/)
-- [Rare black hole 1 billion times the mass of the sun could upend our understanding of galaxy formation](https://www.space.com/rare-black-hole-1-billion-times--mass-of-sun)
-- [Google I/O returns to Mountain View May 10](https://techcrunch.com/2023/03/07/google-i-o-returns-to-mountain-view-may-10/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
