@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Berlin VC fund La Famiglia raises €250M for both Seed and Growth B2B startups](https://techcrunch.com/2023/03/08/berlin-vc-fund-la-famiglia-raises-e250m-for-both-seed-and-growth-b2b-startups/)
 - [Worldcoin, cofounded by Sam Altman, is betting the next big thing in AI is proving you are human](https://techcrunch.com/2023/03/07/worldcoin-cofounded-by-sam-altman-is-betting-the-next-big-thing-in-ai-is-proving-you-are-human/)
 - [Elyn slightly delays online payments so you can try before you pay](https://techcrunch.com/2023/03/07/elyn-slightly-delays-online-payments-so-you-can-try-before-you-pay/)
 - [Soon, not streaming on Disney+ Hotstar: HBO content](https://techcrunch.com/2023/03/07/soon-not-streaming-on-disney-hotstar-hbo-content/)
 - [Indian fintech unicorn Slice acquires stake in a bank](https://techcrunch.com/2023/03/07/slice-acquires-stake-in-a-north-east-bank/)
-- [Relativity Space has had a wild ride to launch](https://techcrunch.com/2023/03/07/relativity-space-has-had-a-wild-ride-to-launch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
