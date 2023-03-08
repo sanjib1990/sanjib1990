@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [International Women&#39;s Day: Female astronauts keep making strides off Earth](https://www.space.com/international-womens-day-space-diversity-2023)
+- [Relativity Space scrubs debut launch attempt of world&#39;s 1st 3D-printed rocket after abort](https://www.space.com/relativity-space-1st-terran-1-3d-printed-rocket-scrub)
+- [Netflix now lets TV viewers customize text for subtitles and closed captions](https://techcrunch.com/2023/03/08/netflix-now-lets-tv-viewers-customize-text-for-subtitles-and-closed-captions/)
 - [TikTok begins blocking links to app store pages from creators’ bios](https://techcrunch.com/2023/03/08/tiktok-begins-blocking-links-to-app-store-pages-from-creators-bios/)
 - [Today’s startups should terrify you](https://techcrunch.com/2023/03/08/startups-today-should-terrify-you/)
-- [Relativity scrubs first Terran 1 launch attempt](https://techcrunch.com/2023/03/08/relativity-scrubs-first-terran-1-launch-attempt/)
-- [International Space Station fires thrusters to avoid collision with satellite](https://www.space.com/international-space-station-avoid-satellite)
-- [Better.com’s SPAC gets a lifeline but remains on life support](https://techcrunch.com/2023/03/08/better-aurora-spac-deal-closing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
