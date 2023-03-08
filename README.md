@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Relativity Space has had a wild ride to launch](https://techcrunch.com/2023/03/07/relativity-space-has-had-a-wild-ride-to-launch/)
 - [Daily Crunch: AI-driven fintech Candidly nabs $20.5M Series B to help consumers ‘crush debt’](https://techcrunch.com/2023/03/07/daily-crunch-ai-driven-fintech-candidly-nabs-20-5m-series-b-to-help-consumers-crush-debt/)
 - [Rare black hole 1 billion times the mass of the sun could upend our understanding of galaxy formation](https://www.space.com/rare-black-hole-1-billion-times--mass-of-sun)
 - [Google I/O returns to Mountain View May 10](https://techcrunch.com/2023/03/07/google-i-o-returns-to-mountain-view-may-10/)
 - [NASA&#39;s Artemis 1 Orion spacecraft aced moon mission despite heat shield issue](https://www.space.com/artemis-1-orion-moon-mission-heat-shield-issue)
-- [Russians will fly on SpaceX&#39;s Crew-7, Crew-8 astronaut missions: report](https://www.space.com/spacex-crew-7-crew-8-russian-astronaut-missions)
 <!-- BLOG-POST-LIST:END -->
 
 ---
