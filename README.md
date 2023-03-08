@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [DuckDuckGo dabbles with AI search](https://techcrunch.com/2023/03/08/duckassist/)
-- [Proposed US bipartisan bill could lead to TikTok ban](https://techcrunch.com/2023/03/08/proposed-us-bipartisan-bill-could-lead-to-tiktok-ban/)
-- [Twitter’s privacy-preserving Tor service goes dark](https://techcrunch.com/2023/03/08/twitter-tor-service-goes-dark/)
-- [The Mandalorian season 3 episode 2 review: Diving headfirst into Manda-lore](https://www.space.com/the-mandalorian-season-3-episode-2-review)
-- [Consensus raises $110M to inject automation into SaaS product demos](https://techcrunch.com/2023/03/08/consensus-raises-110m-to-injection-automation-into-saas-product-demos/)
+- [Why this unicorn chose to take a credit facility](https://techcrunch.com/2023/03/08/why-socure-chose-a-credit-facility/)
+- [Forethought aims to build more accurate chatbots with constrained generative AI models](https://techcrunch.com/2023/03/08/forethought-aims-to-build-more-accurate-chatbots-with-more-constrained-generative-ai-models/)
+- [Hailo’s new AI chips bring more image processing power to the edge](https://techcrunch.com/2023/03/08/hailos-new-ai-chips-bring-more-image-power-to-the-edge/)
+- [Coinbase launches wallet API to help integrate Web 2.0 devs into web3 world](https://techcrunch.com/2023/03/08/coinbase-launches-wallet-api-to-help-integrate-web2-0-devs-into-web3-world/)
+- [Ring launches a higher-res, battery-powered doorbell](https://techcrunch.com/2023/03/08/ring-launches-a-new-180-battery-powered-doorbell-with-improved-resolution/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
