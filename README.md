@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DuckDuckGo dabbles with AI search](https://techcrunch.com/2023/03/08/duckassist/)
+- [Proposed US bipartisan bill could lead to TikTok ban](https://techcrunch.com/2023/03/08/proposed-us-bipartisan-bill-could-lead-to-tiktok-ban/)
+- [Twitter’s privacy-preserving Tor service goes dark](https://techcrunch.com/2023/03/08/twitter-tor-service-goes-dark/)
+- [The Mandalorian season 3 episode 2 review: Diving headfirst into Manda-lore](https://www.space.com/the-mandalorian-season-3-episode-2-review)
 - [Consensus raises $110M to inject automation into SaaS product demos](https://techcrunch.com/2023/03/08/consensus-raises-110m-to-injection-automation-into-saas-product-demos/)
-- [James Webb Space Telescope spots galaxy from early universe rich in star formation](https://www.space.com/james-webb-space-telescope-metal-rich-galaxy-photo)
-- [Watch Relativity Space launch Terran 1, world&#39;s 1st 3D-printed rocket, on debut flight today](https://www.space.com/relativity-space-terran-1-debut-launch-webcast)
-- [Berlin VC fund La Famiglia raises €250M for both Seed and Growth B2B startups](https://techcrunch.com/2023/03/08/berlin-vc-fund-la-famiglia-raises-e250m-for-both-seed-and-growth-b2b-startups/)
-- [Worldcoin, cofounded by Sam Altman, is betting the next big thing in AI is proving you are human](https://techcrunch.com/2023/03/07/worldcoin-cofounded-by-sam-altman-is-betting-the-next-big-thing-in-ai-is-proving-you-are-human/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
