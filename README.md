@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Indian fintech unicorn Slice acquires stake in a bank](https://techcrunch.com/2023/03/07/slice-acquires-stake-in-a-north-east-bank/)
 - [Relativity Space has had a wild ride to launch](https://techcrunch.com/2023/03/07/relativity-space-has-had-a-wild-ride-to-launch/)
 - [Daily Crunch: AI-driven fintech Candidly nabs $20.5M Series B to help consumers ‘crush debt’](https://techcrunch.com/2023/03/07/daily-crunch-ai-driven-fintech-candidly-nabs-20-5m-series-b-to-help-consumers-crush-debt/)
 - [Rare black hole 1 billion times the mass of the sun could upend our understanding of galaxy formation](https://www.space.com/rare-black-hole-1-billion-times--mass-of-sun)
 - [Google I/O returns to Mountain View May 10](https://techcrunch.com/2023/03/07/google-i-o-returns-to-mountain-view-may-10/)
-- [NASA&#39;s Artemis 1 Orion spacecraft aced moon mission despite heat shield issue](https://www.space.com/artemis-1-orion-moon-mission-heat-shield-issue)
 <!-- BLOG-POST-LIST:END -->
 
 ---
