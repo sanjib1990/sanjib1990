@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Dear Sophie: Last-minute H-1Bs, O-1A &amp; EB-1A extraordinary credential prep](https://techcrunch.com/2023/03/08/dear-sophie-last-minute-h-1bs-o-1a-eb-1a-extraordinary-credential-prep/)
-- [Lagoon Nebula shines in gorgeous new Hubble image](https://www.space.com/lagoon-nebula-hubble-space-telescope-photo)
-- [Tesla under investigation after steering wheels fall off two Model Y vehicles](https://techcrunch.com/2023/03/08/tesla-under-investigation-after-steering-wheels-fall-off-two-model-y-vehicles/)
-- [Yikes! 72 hours left to save $1K on passes to Disrupt](https://techcrunch.com/2023/03/08/72-hours-left-save-a-thousand-dollars-techcrunch-disrupt-2023/)
-- [Two separate lawsuits allege ageist hiring practices at Blue Origin](https://techcrunch.com/2023/03/08/two-separate-lawsuits-allege-ageist-hiring-practices-at-blue-origin/)
+- [The sky isn’t falling for cloud software spend](https://techcrunch.com/2023/03/08/the-sky-isnt-falling-for-cloud-software-spend/)
+- [Starfish Space captures new funding ahead of orbital servicing demo mission](https://techcrunch.com/2023/03/08/starfish-space-captures-new-funding-ahead-of-orbital-servicing-demo-mission/)
+- [Humane, a secretive AI startup founded by ex-Apple employees, raises another $100M](https://techcrunch.com/2023/03/08/humane-the-secretive-ai-startup-founded-by-ex-apple-employees-raises-another-100m/)
+- [Google expands VPN access to all Google One members, rolls out new ‘dark web report’ feature](https://techcrunch.com/2023/03/08/google-expands-vpn-access-to-all-google-one-members-rolls-out-new-dark-web-report-feature/)
+- [Vantage raises $21M Series A to help bring down cloud costs](https://techcrunch.com/2023/03/08/vantage-raises-21m-series-a-to-help-bring-down-cloud-costs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
