@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [ThoughtSpot adds GPT-3 integration to help customers query data](https://techcrunch.com/2023/03/09/thoughtspot-adds-gpt-3-integration-to-help-customers-query-data/)
-- [Telegram introduces a Power Saving Mode for battery preservation](https://techcrunch.com/2023/03/09/telegram-introduces-a-power-saving-mode-for-battery-preservation/)
-- [Wing likens its drone ‘delivery network’ to rideshare](https://techcrunch.com/2023/03/09/wing-likens-its-drone-delivery-network-to-ride-share/)
-- [Antarctic sea ice hits record low, satellites reveal](https://www.space.com/antarctic-sea-ice-record-low-february-2023)
-- [NASA chief to give &#39;State of NASA&#39; address today. Here&#39;s how to watch it live.](https://www.space.com/news/watch-nasa-chief-give-annual-state-of-nasa-address-on-thursday)
+- [Synctera raises $15M to help companies launch embedded banking products in Canada](https://techcrunch.com/2023/03/09/synctera-raises-15m-to-help-companies-launch-embedded-banking-products-in-canada/)
+- [Wheel the World grabs $6M to offer guaranteed accessibility, price match for hotel rooms](https://techcrunch.com/2023/03/09/wheel-the-world-travel-disabilities/)
+- [Tweed is a crypto wallet API to add a web3 flavor to any web service](https://techcrunch.com/2023/03/09/tweed-is-a-crypto-wallet-api-to-add-a-web3-flavor-to-any-web-service/)
+- [Y Combinator–backed Patterns is building a platform to abstract away data science busywork](https://techcrunch.com/2023/03/09/y-combinator-backed-patterns-is-building-a-platform-to-abstract-away-data-science-busywork/)
+- [Roku’s latest software update brings local news, more live sports and a new mobile app](https://techcrunch.com/2023/03/09/rokus-latest-software-update-brings-local-news-more-live-sports-and-a-new-mobile-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
