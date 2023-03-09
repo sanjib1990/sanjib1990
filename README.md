@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MentorcliQ raises over $80 million to grow its employee mentoring software and services](https://techcrunch.com/2023/03/09/mentorcliq-raises-over-80-million-to-grow-its-employee-mentoring-software-and-services/)
+- [Save $70 on the Meta Quest 2 VR headset and get two free games](https://www.space.com/meta-quest-2-deal-save-70-dollars-and-two-free-games)
+- [Watch SpaceX Crew-5 astronauts leave the space station Thursday evening](https://www.space.com/spacex-crew-5-depart-international-space-station)
+- [Watch SpaceX launch 40 OneWeb internet satellites on Thursday](https://www.space.com/spacex-oneweb-17-mission-launch)
 - [E-bike maker Cowboy raises new funding round and launches AdaptivePower](https://techcrunch.com/2023/03/09/e-bike-maker-cowboy-raises-new-funding-round-and-launches-adaptivepower/)
-- [Crypto-friendly bank Silvergate to wind down after FTX blow-up](https://techcrunch.com/2023/03/08/crypto-friendly-bank-silvergate-to-wind-down-after-ftx-blow-up/)
-- [Wattpad lays off 15% of its staff, blames changing economic environment](https://techcrunch.com/2023/03/08/wattpad-lays-off-15-of-its-staff-blames-changing-economic-environment/)
-- [Houseware launches out of stealth to help SaaS companies optimize revenue using data](https://techcrunch.com/2023/03/08/houseware-launches-out-of-stealth-to-help-saas-companies-optimize-revenue-using-data/)
-- [QuantWare raises €6M to scale its quantum processor business](https://techcrunch.com/2023/03/08/quantware-raises-e6m-to-scale-its-quantum-processor-business/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
