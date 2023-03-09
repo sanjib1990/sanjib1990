@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [QuantWare raises €6M to scale its quantum processor business](https://techcrunch.com/2023/03/08/quantware-raises-e6m-to-scale-its-quantum-processor-business/)
 - [Faraday Future on track to start production of FF 91 this month if funds come through](https://techcrunch.com/2023/03/08/faraday-future-on-track-to-start-production-of-ff-91-this-month-if-funds-come-through/)
 - [Comedian Hasan Minhaj returns as The Riddler in new Spotify podcast series](https://techcrunch.com/2023/03/08/comedian-hasan-minhaj-returns-as-the-riddler-in-new-spotify-podcast-series/)
 - [Daily Crunch: Twitter CEO expresses regret after using his platform to call disabled employee ‘the worst’](https://techcrunch.com/2023/03/08/daily-crunch-twitter-ceo-expresses-regret-after-using-his-platform-to-call-disabled-employee-the-worst/)
 - [Ant veteran turns to NFT verification for SXSW festival VIP feast](https://techcrunch.com/2023/03/08/ant-veteran-redeem-sxsw-verify-vip-dinner/)
-- [International Women&#39;s Day: Female astronauts keep making strides off Earth](https://www.space.com/international-womens-day-space-diversity-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
