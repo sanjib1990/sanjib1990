@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Wattpad lays off 15% of its staff, blames changing economic environment](https://techcrunch.com/2023/03/08/wattpad-lays-off-15-of-its-staff-blames-changing-economic-environment/)
 - [Houseware launches out of stealth to help SaaS companies optimize revenue using data](https://techcrunch.com/2023/03/08/houseware-launches-out-of-stealth-to-help-saas-companies-optimize-revenue-using-data/)
 - [QuantWare raises €6M to scale its quantum processor business](https://techcrunch.com/2023/03/08/quantware-raises-e6m-to-scale-its-quantum-processor-business/)
+- [Envisics raises $50M at a $500M valuation for its in-car holographic tech](https://techcrunch.com/2023/03/08/envisics-raises-50m-at-a-500m-valuation-for-its-in-car-holographic-tech/)
 - [Faraday Future on track to start production of FF 91 this month if funds come through](https://techcrunch.com/2023/03/08/faraday-future-on-track-to-start-production-of-ff-91-this-month-if-funds-come-through/)
-- [Comedian Hasan Minhaj returns as The Riddler in new Spotify podcast series](https://techcrunch.com/2023/03/08/comedian-hasan-minhaj-returns-as-the-riddler-in-new-spotify-podcast-series/)
-- [Daily Crunch: Twitter CEO expresses regret after using his platform to call disabled employee ‘the worst’](https://techcrunch.com/2023/03/08/daily-crunch-twitter-ceo-expresses-regret-after-using-his-platform-to-call-disabled-employee-the-worst/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
