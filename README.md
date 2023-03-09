@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Star Trek: Picard&#39; season 3 episode 4 feels like a thrown-together mix of clichés](https://www.space.com/star-trek-picard-season-3-episode-4-review)
+- [GitHub to require 2FA for all contributors starting from March 13](https://techcrunch.com/2023/03/09/github-to-require-2fa-for-all-contributors-starting-from-march-13-to-secure-the-software-supply-chain/)
+- [Crypto bank Silvergate’s ‘collywobbles’ could add to industry’s woes](https://techcrunch.com/2023/03/09/silvergate-crypto-bank-problems/)
 - [Discord updates its bot with ChatGPT-like features, rolls out AI-generated conversation summaries and more](https://techcrunch.com/2023/03/09/discord-updates-its-bot-with-chatgpt-like-features-rolls-out-ai-generated-conversation-summaries-and-more/)
 - [It turns out burn reduction at startups is more aspiration than reality](https://techcrunch.com/2023/03/09/it-turns-out-burn-reduction-at-startups-is-more-aspiration-than-reality/)
-- [AI chip startup Mythic rises from the ashes with $13M, new CEO](https://techcrunch.com/2023/03/09/ai-chip-startup-mythic-rises-from-the-ashes-with-13m-new-ceo/)
-- [India proposes to replace its two decades old IT law](https://techcrunch.com/2023/03/09/india-proposes-to-replace-its-two-decades-old-it-law/)
-- [Just 48 hours left to save $1,000 on TC Disrupt passes](https://techcrunch.com/2023/03/09/just-48-hours-left-to-save-1000-on-tc-disrupt-passes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
