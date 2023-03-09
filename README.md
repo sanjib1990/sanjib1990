@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Silicon Valley Bank’s shares are tanking, as a mess unfolds](https://techcrunch.com/2023/03/09/silicon-valley-banks-shares-are-tanking-as-a-mess-unfolds/)
+- [Silvergate’s shiny hinges have rusted as the crypto bank plans to shut down](https://techcrunch.com/2023/03/09/silvergates-shiny-hinges-have-rusted-as-the-crypto-bank-plans-to-shut-down/)
+- [ChatGPT comes to Microsoft’s enterprise-focused, Azure-powered managed service](https://techcrunch.com/2023/03/09/chatgpt-comes-to-microsofts-enterprise-focused-azure-powered-managed-service/)
 - [Pitch Deck Teardown: MiO Marketplace’s $550K angel deck](https://techcrunch.com/2023/03/09/sample-angel-pitch-deck-mio-marketplace/)
 - [Wormholes might bend light like black holes do — and that could be the key to finding them](https://www.space.com/wormholes-black-holes-bend-light)
-- [NASA gets $27.2 billion in White House&#39;s 2024 budget request](https://www.space.com/white-house-2024-budget-request-nasa)
-- [&#39;Women in Spaceflight&#39; VR experience launches to celebrate female astronauts](https://www.space.com/women-in-spaceflight-vr-experience-launch)
-- [Railsr, the UK embedded fintech once valued at nearly $1B, goes into bankruptcy protection under new consortium owner](https://techcrunch.com/2023/03/09/railsr-off-the-rails-embedded-finance/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
