@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [With this brain map we are one step closer to total fruit fly simulation](https://techcrunch.com/2023/03/09/with-this-brain-map-we-are-one-step-closer-to-total-fruit-fly-simulation/)
+- [Some SVB customers are struggling to wire funds out of the bank](https://techcrunch.com/2023/03/09/silicon-valley-back-withdrawal-issues/)
+- [ULA targets May for debut launch of new Vulcan Centaur rocket](https://www.space.com/ula-vulcan-centaur-debut-launch-may-2023)
 - [NASA scientists push for a treaty to tackle risky &#39;space junk&#39;](https://www.space.com/nasa-scientists-space-junk-treaty)
 - [Silicon Valley Bank shoots self in foot](https://techcrunch.com/2023/03/09/silicon-valley-bank-shoots-self-in-foot/)
-- [How the FBI proved a remote admin tool was actually malware](https://techcrunch.com/2023/03/09/how-the-fbi-proved-a-remote-admin-tool-was-actually-malware/)
-- [NASA to reveal Artemis 2 moon astronauts on April 3](https://www.space.com/nasa-announce-artemis-2-astronauts-april-2023)
-- [Strange circular dunes on Mars spotted in these NASA photos](https://www.space.com/mars-reconaissance-orbiter-circular-sand-dunes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
