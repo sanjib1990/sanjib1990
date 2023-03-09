@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pitch Deck Teardown: MiO Marketplace’s $550K angel deck](https://techcrunch.com/2023/03/09/sample-angel-pitch-deck-mio-marketplace/)
+- [Wormholes might bend light like black holes do — and that could be the key to finding them](https://www.space.com/wormholes-black-holes-bend-light)
+- [NASA gets $27.2 billion in White House&#39;s 2024 budget request](https://www.space.com/white-house-2024-budget-request-nasa)
 - [&#39;Women in Spaceflight&#39; VR experience launches to celebrate female astronauts](https://www.space.com/women-in-spaceflight-vr-experience-launch)
 - [Railsr, the UK embedded fintech once valued at nearly $1B, goes into bankruptcy protection under new consortium owner](https://techcrunch.com/2023/03/09/railsr-off-the-rails-embedded-finance/)
-- [Arrival is running out of cash — and fast](https://techcrunch.com/2023/03/09/arrival-is-running-out-of-cash-and-fast/)
-- [Loft makes working with virtualized Kubernetes clusters easier](https://techcrunch.com/2023/03/09/loft-makes-working-with-virtualized-kubernetes-clusters-easier/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
