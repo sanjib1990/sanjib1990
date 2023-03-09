@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Comedian Hasan Minhaj returns as The Riddler in new Spotify podcast series](https://techcrunch.com/2023/03/08/comedian-hasan-minhaj-returns-as-the-riddler-in-new-spotify-podcast-series/)
 - [Daily Crunch: Twitter CEO expresses regret after using his platform to call disabled employee ‘the worst’](https://techcrunch.com/2023/03/08/daily-crunch-twitter-ceo-expresses-regret-after-using-his-platform-to-call-disabled-employee-the-worst/)
 - [Ant veteran turns to NFT verification for SXSW festival VIP feast](https://techcrunch.com/2023/03/08/ant-veteran-redeem-sxsw-verify-vip-dinner/)
 - [International Women&#39;s Day: Female astronauts keep making strides off Earth](https://www.space.com/international-womens-day-space-diversity-2023)
 - [Relativity Space scrubs debut launch attempt of world&#39;s 1st 3D-printed rocket after abort](https://www.space.com/relativity-space-1st-terran-1-3d-printed-rocket-scrub)
-- [Netflix now lets TV viewers customize text for subtitles and closed captions](https://techcrunch.com/2023/03/08/netflix-now-lets-tv-viewers-customize-text-for-subtitles-and-closed-captions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
