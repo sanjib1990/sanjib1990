@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [‘Pan-variant’ COVID vaccine could defang future strains thanks to machine learning](https://techcrunch.com/2023/03/09/pan-variant-covid-vaccine-could-defang-future-strains-thanks-to-machine-learning/)
-- [Bach, an app for planning bachelorette trips and group travel experiences, raises $9M](https://techcrunch.com/2023/03/09/bach-an-app-for-planning-bachelorette-trips-and-group-travel-experiences-raises-9m/)
-- [Project management service Zenhub raises $10M as it goes beyond GitHub](https://techcrunch.com/2023/03/09/project-management-service-zenhub-raises-10m-as-it-goes-beyond-github/)
-- [Apple launches its new classical music streaming app for pre-order](https://techcrunch.com/2023/03/09/apple-launches-its-new-classical-music-streaming-app-for-pre-order/)
-- [New wave of VC funds show it’s time to rethink how many LPs is ‘too many’](https://techcrunch.com/2023/03/09/venture-capital-firms-limited-partners/)
+- [Discord updates its bot with ChatGPT-like features, rolls out AI-generated conversation summaries and more](https://techcrunch.com/2023/03/09/discord-updates-its-bot-with-chatgpt-like-features-rolls-out-ai-generated-conversation-summaries-and-more/)
+- [It turns out burn reduction at startups is more aspiration than reality](https://techcrunch.com/2023/03/09/it-turns-out-burn-reduction-at-startups-is-more-aspiration-than-reality/)
+- [AI chip startup Mythic rises from the ashes with $13M, new CEO](https://techcrunch.com/2023/03/09/ai-chip-startup-mythic-rises-from-the-ashes-with-13m-new-ceo/)
+- [India proposes to replace its two decades old IT law](https://techcrunch.com/2023/03/09/india-proposes-to-replace-its-two-decades-old-it-law/)
+- [Just 48 hours left to save $1,000 on TC Disrupt passes](https://techcrunch.com/2023/03/09/just-48-hours-left-to-save-1000-on-tc-disrupt-passes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
