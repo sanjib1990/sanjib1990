@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [FFmpeg in 100 Seconds](https://www.youtube.com/watch?v=26Mayv5JPz0)
 - [S4E5: Communication is the Whole Game with Paige Bright and Prof. Haynes Miller](https://www.youtube.com/watch?v=jejZMh_-geI)
 - [Glitch Tokens - Computerphile](https://www.youtube.com/watch?v=WO2X3oZEJOA)
 - [Python Automation with ChatGPT](https://www.youtube.com/watch?v=w-X_EQ2Xva4)
 - [the most SECURE browser!! &lpar;testing it with malware&rpar;](https://www.youtube.com/watch?v=NDlQrK_QAzY)
-- [SenseMaking &lpar;Data Visualisation&rpar; - Computerphile](https://www.youtube.com/watch?v=lSCbt_N_Oao)
 <!-- YOUTUBE:END -->
 
 ---
