@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Silicon Valley Bank’s shares are tanking, as a mess unfolds](https://techcrunch.com/2023/03/09/silicon-valley-banks-shares-are-tanking-as-a-mess-unfolds/)
-- [Silvergate’s shiny hinges have rusted as the crypto bank plans to shut down](https://techcrunch.com/2023/03/09/silvergates-shiny-hinges-have-rusted-as-the-crypto-bank-plans-to-shut-down/)
-- [ChatGPT comes to Microsoft’s enterprise-focused, Azure-powered managed service](https://techcrunch.com/2023/03/09/chatgpt-comes-to-microsofts-enterprise-focused-azure-powered-managed-service/)
-- [Pitch Deck Teardown: MiO Marketplace’s $550K angel deck](https://techcrunch.com/2023/03/09/sample-angel-pitch-deck-mio-marketplace/)
-- [Wormholes might bend light like black holes do — and that could be the key to finding them](https://www.space.com/wormholes-black-holes-bend-light)
+- [Strange circular dunes on Mars spotted in these NASA photos](https://www.space.com/mars-reconaissance-orbiter-circular-sand-dunes)
+- [Venture firms are advising portfolio companies to move money out of SVB](https://techcrunch.com/2023/03/09/silicon-valley-bank-firms-reactions/)
+- [Mistakes were made &lpar;and that’s fine&rpar;](https://techcrunch.com/2023/03/09/mistakes-were-made-and-thats-fine/)
+- [&#39;Missing link&#39; protostar may prove solar system&#39;s water is older than the sun](https://www.space.com/solar-system-water-sun-missing-link)
+- [Silicon Valley Bank’s shares are tanking as a mess unfolds](https://techcrunch.com/2023/03/09/silicon-valley-banks-shares-are-tanking-as-a-mess-unfolds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
