@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA scientists push for a treaty to tackle risky &#39;space junk&#39;](https://www.space.com/nasa-scientists-space-junk-treaty)
+- [Silicon Valley Bank shoots self in foot](https://techcrunch.com/2023/03/09/silicon-valley-bank-shoots-self-in-foot/)
+- [How the FBI proved a remote admin tool was actually malware](https://techcrunch.com/2023/03/09/how-the-fbi-proved-a-remote-admin-tool-was-actually-malware/)
+- [NASA to reveal Artemis 2 moon astronauts on April 3](https://www.space.com/nasa-announce-artemis-2-astronauts-april-2023)
 - [Strange circular dunes on Mars spotted in these NASA photos](https://www.space.com/mars-reconaissance-orbiter-circular-sand-dunes)
-- [Venture firms are advising portfolio companies to move money out of SVB](https://techcrunch.com/2023/03/09/silicon-valley-bank-firms-reactions/)
-- [Mistakes were made &lpar;and that’s fine&rpar;](https://techcrunch.com/2023/03/09/mistakes-were-made-and-thats-fine/)
-- [&#39;Missing link&#39; protostar may prove solar system&#39;s water is older than the sun](https://www.space.com/solar-system-water-sun-missing-link)
-- [Silicon Valley Bank’s shares are tanking as a mess unfolds](https://techcrunch.com/2023/03/09/silicon-valley-banks-shares-are-tanking-as-a-mess-unfolds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
