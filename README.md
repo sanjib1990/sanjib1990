@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Synctera raises $15M to help companies launch embedded banking products in Canada](https://techcrunch.com/2023/03/09/synctera-raises-15m-to-help-companies-launch-embedded-banking-products-in-canada/)
-- [Wheel the World grabs $6M to offer guaranteed accessibility, price match for hotel rooms](https://techcrunch.com/2023/03/09/wheel-the-world-travel-disabilities/)
-- [Tweed is a crypto wallet API to add a web3 flavor to any web service](https://techcrunch.com/2023/03/09/tweed-is-a-crypto-wallet-api-to-add-a-web3-flavor-to-any-web-service/)
-- [Y Combinator–backed Patterns is building a platform to abstract away data science busywork](https://techcrunch.com/2023/03/09/y-combinator-backed-patterns-is-building-a-platform-to-abstract-away-data-science-busywork/)
-- [Roku’s latest software update brings local news, more live sports and a new mobile app](https://techcrunch.com/2023/03/09/rokus-latest-software-update-brings-local-news-more-live-sports-and-a-new-mobile-app/)
+- [‘Pan-variant’ COVID vaccine could defang future strains thanks to machine learning](https://techcrunch.com/2023/03/09/pan-variant-covid-vaccine-could-defang-future-strains-thanks-to-machine-learning/)
+- [Bach, an app for planning bachelorette trips and group travel experiences, raises $9M](https://techcrunch.com/2023/03/09/bach-an-app-for-planning-bachelorette-trips-and-group-travel-experiences-raises-9m/)
+- [Project management service Zenhub raises $10M as it goes beyond GitHub](https://techcrunch.com/2023/03/09/project-management-service-zenhub-raises-10m-as-it-goes-beyond-github/)
+- [Apple launches its new classical music streaming app for pre-order](https://techcrunch.com/2023/03/09/apple-launches-its-new-classical-music-streaming-app-for-pre-order/)
+- [New wave of VC funds show it’s time to rethink how many LPs is ‘too many’](https://techcrunch.com/2023/03/09/venture-capital-firms-limited-partners/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
