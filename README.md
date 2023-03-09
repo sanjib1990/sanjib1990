@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [MentorcliQ raises over $80 million to grow its employee mentoring software and services](https://techcrunch.com/2023/03/09/mentorcliq-raises-over-80-million-to-grow-its-employee-mentoring-software-and-services/)
-- [Save $70 on the Meta Quest 2 VR headset and get two free games](https://www.space.com/meta-quest-2-deal-save-70-dollars-and-two-free-games)
-- [Watch SpaceX Crew-5 astronauts leave the space station Thursday evening](https://www.space.com/spacex-crew-5-depart-international-space-station)
-- [Watch SpaceX launch 40 OneWeb internet satellites on Thursday](https://www.space.com/spacex-oneweb-17-mission-launch)
-- [E-bike maker Cowboy raises new funding round and launches AdaptivePower](https://techcrunch.com/2023/03/09/e-bike-maker-cowboy-raises-new-funding-round-and-launches-adaptivepower/)
+- [ThoughtSpot adds GPT-3 integration to help customers query data](https://techcrunch.com/2023/03/09/thoughtspot-adds-gpt-3-integration-to-help-customers-query-data/)
+- [Telegram introduces a Power Saving Mode for battery preservation](https://techcrunch.com/2023/03/09/telegram-introduces-a-power-saving-mode-for-battery-preservation/)
+- [Wing likens its drone ‘delivery network’ to rideshare](https://techcrunch.com/2023/03/09/wing-likens-its-drone-delivery-network-to-ride-share/)
+- [Antarctic sea ice hits record low, satellites reveal](https://www.space.com/antarctic-sea-ice-record-low-february-2023)
+- [NASA chief to give &#39;State of NASA&#39; address today. Here&#39;s how to watch it live.](https://www.space.com/news/watch-nasa-chief-give-annual-state-of-nasa-address-on-thursday)
 <!-- BLOG-POST-LIST:END -->
 
 ---
