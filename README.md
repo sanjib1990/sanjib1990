@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Star Trek: Picard&#39; season 3 episode 4 feels like a thrown-together mix of clichés](https://www.space.com/star-trek-picard-season-3-episode-4-review)
-- [GitHub to require 2FA for all contributors starting from March 13](https://techcrunch.com/2023/03/09/github-to-require-2fa-for-all-contributors-starting-from-march-13-to-secure-the-software-supply-chain/)
-- [Crypto bank Silvergate’s ‘collywobbles’ could add to industry’s woes](https://techcrunch.com/2023/03/09/silvergate-crypto-bank-problems/)
-- [Discord updates its bot with ChatGPT-like features, rolls out AI-generated conversation summaries and more](https://techcrunch.com/2023/03/09/discord-updates-its-bot-with-chatgpt-like-features-rolls-out-ai-generated-conversation-summaries-and-more/)
-- [It turns out burn reduction at startups is more aspiration than reality](https://techcrunch.com/2023/03/09/it-turns-out-burn-reduction-at-startups-is-more-aspiration-than-reality/)
+- [&#39;Women in Spaceflight&#39; VR experience launches to celebrate female astronauts](https://www.space.com/women-in-spaceflight-vr-experience-launch)
+- [Railsr, the UK embedded fintech once valued at nearly $1B, goes into bankruptcy protection under new consortium owner](https://techcrunch.com/2023/03/09/railsr-off-the-rails-embedded-finance/)
+- [Arrival is running out of cash — and fast](https://techcrunch.com/2023/03/09/arrival-is-running-out-of-cash-and-fast/)
+- [Loft makes working with virtualized Kubernetes clusters easier](https://techcrunch.com/2023/03/09/loft-makes-working-with-virtualized-kubernetes-clusters-easier/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
