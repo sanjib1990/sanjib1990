@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Say goodbye to winter stars and watch the night sky transition to spring this month](https://www.space.com/sky-in-transition-winter-spring-march-2023)
+- [TC+ roundup: Silicon Valley Bank fails, fintech VC survey, B2B growth tools](https://techcrunch.com/2023/03/10/tc-roundup-silicon-valley-bank-fails-fintech-vc-survey-b2b-growth-tools/)
+- [For startup competition, SVB’s nightmare is a win and a dare](https://techcrunch.com/2023/03/10/for-startup-competition-svbs-nightmare-is-a-win-and-a-dare/)
 - [Boom! Japanese astronomer catches meteorite smashing into the moon &lpar;video&rpar;](https://www.space.com/meteorite-impacts-moon-february-2023-video)
-- [Rethink rethinks mobility and logistics with new €50M fund](https://techcrunch.com/2023/03/10/rethink-logistics-fund/)
 - [Silicon Valley Bank is being shut down today by regulators](https://techcrunch.com/2023/03/10/silicon-valley-bank-is-being-shut-down-today-by-regulators/)
-- [Secure messaging apps line up to warn UK’s Online Safety Bill risks web security](https://techcrunch.com/2023/03/10/uk-osb-e2ee-warning/)
-- [US strengthens tech ties with India but doesn’t seek decoupling from China, Raimondo says](https://techcrunch.com/2023/03/10/us-strengthens-tech-ties-with-india-but-doesnt-seek-decoupling-from-china-raimondo-says/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
