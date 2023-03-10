@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Gowalla returns to see if location-based networking is ready for its mainstream moment](https://techcrunch.com/2023/03/10/gowalla-location-based-social-app/)
+- [&#39;Starfield&#39; release date confirmed! Bethesda&#39;s epic space game launches Sept. 6](https://www.space.com/starfield-space-game-release-date)
+- [Q1 2023 market map: SaaS cost optimization and management](https://techcrunch.com/2023/03/10/q1-2023-market-map-saas-cost-optimization-and-management/)
+- [PeopleGrove security lapse exposed users’ personal information](https://techcrunch.com/2023/03/10/peoplegrove-users-data-exposed/)
 - [Apple could reportedly release a HomePod with a display](https://techcrunch.com/2023/03/10/apple-could-reportedly-release-a-homepod-with-a-display/)
-- [Bird still has a long way to go to reach profitability](https://techcrunch.com/2023/03/10/bird-still-has-a-long-way-to-go-to-reach-profitability/)
-- [A comet coming in 2024 could outshine the stars - if we&#39;re lucky](https://www.space.com/comet-coming-2024-could-be-bright)
-- [Newly discovered asteroid the size of a swimming pool has a 1-in-600 chance of colliding with Earth, NASA says](https://www.space.com/asteroid-2023-dw-earth-impact-risk-february-2046)
-- [Prosus in talks to sell Olx Autos business in India, other markets](https://techcrunch.com/2023/03/10/prosus-in-talks-to-sell-olx-autos-business-in-india-other-markets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
