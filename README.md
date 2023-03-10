@@ -82,7 +82,7 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [top 3 hacking gadgets &lpar;raspberry pi zero&rpar;](https://www.youtube.com/watch?v=km81ph7pZz8)
+- [3 HACKING gadgets you have to TRY!!](https://www.youtube.com/watch?v=km81ph7pZz8)
 - [the PATH var of righteousness](https://www.youtube.com/watch?v=-J7EWBYipqI)
 - [FFmpeg in 100 Seconds](https://www.youtube.com/watch?v=26Mayv5JPz0)
 - [S4E5: Communication is the Whole Game with Paige Bright and Prof. Haynes Miller](https://www.youtube.com/watch?v=jejZMh_-geI)
