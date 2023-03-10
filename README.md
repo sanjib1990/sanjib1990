@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s Ingenuity helicopter captures breathtaking shot of Martian sunset &lpar;photo&rpar;](https://www.space.com/nasa-mars-helicopter-ingenuity-sunset-photo)
+- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
+- [With SVB locked up, how are startups going to pay for stuff?](https://techcrunch.com/2023/03/10/with-svb-locked-up-how-are-startups-going-to-pay-for-stuff/)
 - [Say goodbye to winter stars and watch the night sky transition to spring this month](https://www.space.com/sky-in-transition-winter-spring-march-2023)
 - [TC+ roundup: Silicon Valley Bank fails, fintech VC survey, B2B growth tools](https://techcrunch.com/2023/03/10/tc-roundup-silicon-valley-bank-fails-fintech-vc-survey-b2b-growth-tools/)
-- [For startup competition, SVB’s nightmare is a win and a dare](https://techcrunch.com/2023/03/10/for-startup-competition-svbs-nightmare-is-a-win-and-a-dare/)
-- [Boom! Japanese astronomer catches meteorite smashing into the moon &lpar;video&rpar;](https://www.space.com/meteorite-impacts-moon-february-2023-video)
-- [Silicon Valley Bank is being shut down today by regulators](https://techcrunch.com/2023/03/10/silicon-valley-bank-is-being-shut-down-today-by-regulators/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
