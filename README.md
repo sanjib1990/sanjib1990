@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A comet coming in 2024 could outshine the stars - if we&#39;re lucky](https://www.space.com/comet-coming-2024-could-be-bright)
+- [Newly discovered asteroid the size of a swimming pool has a 1-in-600 chance of colliding with Earth, NASA says](https://www.space.com/asteroid-2023-dw-earth-impact-risk-february-2046)
 - [Prosus in talks to sell Olx Autos business in India, other markets](https://techcrunch.com/2023/03/10/prosus-in-talks-to-sell-olx-autos-business-in-india-other-markets/)
 - [Meta is working on a decentralized social app](https://techcrunch.com/2023/03/09/meta-is-working-on-a-decentralized-social-app/)
 - [Daily Crunch: Bach to the future – Forthcoming Apple Music Classical app will feature 5M tracks](https://techcrunch.com/2023/03/09/daily-crunch-bach-to-the-future-forthcoming-apple-music-classical-app-will-feature-5m-tracks/)
-- [With this brain map we are one step closer to total fruit fly simulation](https://techcrunch.com/2023/03/09/with-this-brain-map-we-are-one-step-closer-to-total-fruit-fly-simulation/)
-- [Some SVB customers are struggling to wire funds out of the bank](https://techcrunch.com/2023/03/09/silicon-valley-back-withdrawal-issues/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
