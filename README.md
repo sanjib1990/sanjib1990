@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Boom! Japanese astronomer catches meteorite smashing into the moon &lpar;video&rpar;](https://www.space.com/meteorite-impacts-moon-february-2023-video)
+- [Rethink rethinks mobility and logistics with new €50M fund](https://techcrunch.com/2023/03/10/rethink-logistics-fund/)
+- [Silicon Valley Bank is being shut down today by regulators](https://techcrunch.com/2023/03/10/silicon-valley-bank-is-being-shut-down-today-by-regulators/)
 - [Secure messaging apps line up to warn UK’s Online Safety Bill risks web security](https://techcrunch.com/2023/03/10/uk-osb-e2ee-warning/)
 - [US strengthens tech ties with India but doesn’t seek decoupling from China, Raimondo says](https://techcrunch.com/2023/03/10/us-strengthens-tech-ties-with-india-but-doesnt-seek-decoupling-from-china-raimondo-says/)
-- [Prelaunch assembles a pre-seed round to help hardware founders pre-build the right pre-products](https://techcrunch.com/2023/03/10/prelaunch-com-fundraise/)
-- [SpaceX Crew-5 and Crew-6 astronaut mission: Live updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates)
-- [Roku partners with Best Buy and its advertising business to get first-party shopper data](https://techcrunch.com/2023/03/10/roku-partners-with-best-buy-and-its-advertising-business-to-get-first-party-shopper-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
