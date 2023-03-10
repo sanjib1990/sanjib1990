@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Everything you know about computer vision may soon be wrong](https://techcrunch.com/2023/03/10/ubicept-computer-vision/)
-- [SEC charges Blackbaud for failing to disclose ‘full impact’ of ransomware attack](https://techcrunch.com/2023/03/10/sec-blackbaud-charged-ransomware/)
-- [Earth spouts &#39;biosignatures&#39; into space, hinting that other life-bearing worlds may do the same](https://www.space.com/biological-oxygen-in-space-around-earth-sofia)
-- [Meta will stop offering Reels bonuses to creators on Facebook and Instagram](https://techcrunch.com/2023/03/10/meta-will-stop-offering-reels-bonuses-to-creators-on-facebook-and-instagram/)
-- [Gowalla returns to see if location-based networking is ready for its mainstream moment](https://techcrunch.com/2023/03/10/gowalla-location-based-social-app/)
+- [Hubble Space Telescope images increasingly affected by Starlink satellite streaks](https://www.space.com/hubble-images-spoiled-starlink-satellite-steaks)
+- [Flat is the new up, down is the new flat, dead is the new down](https://techcrunch.com/2023/03/10/flat-is-the-new-up-down-is-the-new-flat-dead-is-the-new-down/)
+- [It’s the last day to save $1,000 on passes to Disrupt 2023](https://techcrunch.com/2023/03/10/last-day-save-a-thousand-dollars-techcrunch-disrupt-2023/)
+- [What the flying heck happened to SVB?](https://techcrunch.com/2023/03/10/what-the-flying-heck-happened-to-svb/)
+- [UK closes ‘Jedi Blue’ antitrust collusion case against Google and Meta](https://techcrunch.com/2023/03/10/uk-retreats-from-jedi-blue-antitrust-collusion-case-against-google-and-meta/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
