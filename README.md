@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Silicon Valley Bank goes bust — regulators take control of $175B+ in deposits](https://techcrunch.com/2023/03/10/daily-crunch-silicon-valley-bank-goes-bust-regulators-take-control-of-175b-in-deposits/)
+- [What does the collapse of SVB mean for venture debt?](https://techcrunch.com/2023/03/10/silicon-valley-bank-venture-debt/)
 - [Mercury re-rising: Stoke Space to balance past and future at historic Florida launch pad](https://www.space.com/historic-launch-complex-14-stoke-space-john-glenn)
 - [SVB’s debacle is causing panic in China’s startup industry](https://techcrunch.com/2023/03/10/silicon-valley-banks-debacle-panics-chinas-tech-industry/)
 - [How founders are reacting to Silicon Valley Bank’s collapse](https://techcrunch.com/2023/03/10/silicon-valley-bank-founders-reactions/)
-- [SVB is already the talk of SXSW](https://techcrunch.com/2023/03/10/svb-is-already-the-talk-of-sxsw/)
-- [Uncertainty stands around multibillion USDC empire as issuer Circle held reserves at Silicon Valley Bank](https://techcrunch.com/2023/03/10/uncertainty-stands-around-multi-billion-usdc-empire-as-issuer-circle-held-reserves-at-silicon-valley-bank/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
