@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Secure messaging apps line up to warn UK’s Online Safety Bill risks web security](https://techcrunch.com/2023/03/10/uk-osb-e2ee-warning/)
+- [US strengthens tech ties with India but doesn’t seek decoupling from China, Raimondo says](https://techcrunch.com/2023/03/10/us-strengthens-tech-ties-with-india-but-doesnt-seek-decoupling-from-china-raimondo-says/)
+- [Prelaunch assembles a pre-seed round to help hardware founders pre-build the right pre-products](https://techcrunch.com/2023/03/10/prelaunch-com-fundraise/)
 - [SpaceX Crew-5 and Crew-6 astronaut mission: Live updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates)
 - [Roku partners with Best Buy and its advertising business to get first-party shopper data](https://techcrunch.com/2023/03/10/roku-partners-with-best-buy-and-its-advertising-business-to-get-first-party-shopper-data/)
-- [The long goodbye at Salesforce continues with more layoffs reported today](https://techcrunch.com/2023/03/10/the-long-goodbye-at-salesforce-continues-with-more-layoffs-off-reported-today/)
-- [SpaceX, NASA targeting March 14 for next cargo launch to space station](https://www.space.com/spacex-nasa-iss-cargo-launch-march-2023)
-- [Mandalore: Everything you need to know about the Mandalorian home planet](https://www.space.com/everything-about-planet-mandalore-star-wars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
