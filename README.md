@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Everything you know about computer vision may soon be wrong](https://techcrunch.com/2023/03/10/ubicept-computer-vision/)
+- [SEC charges Blackbaud for failing to disclose ‘full impact’ of ransomware attack](https://techcrunch.com/2023/03/10/sec-blackbaud-charged-ransomware/)
+- [Earth spouts &#39;biosignatures&#39; into space, hinting that other life-bearing worlds may do the same](https://www.space.com/biological-oxygen-in-space-around-earth-sofia)
+- [Meta will stop offering Reels bonuses to creators on Facebook and Instagram](https://techcrunch.com/2023/03/10/meta-will-stop-offering-reels-bonuses-to-creators-on-facebook-and-instagram/)
 - [Gowalla returns to see if location-based networking is ready for its mainstream moment](https://techcrunch.com/2023/03/10/gowalla-location-based-social-app/)
-- [&#39;Starfield&#39; release date confirmed! Bethesda&#39;s epic space game launches Sept. 6](https://www.space.com/starfield-space-game-release-date)
-- [Q1 2023 market map: SaaS cost optimization and management](https://techcrunch.com/2023/03/10/q1-2023-market-map-saas-cost-optimization-and-management/)
-- [PeopleGrove security lapse exposed users’ personal information](https://techcrunch.com/2023/03/10/peoplegrove-users-data-exposed/)
-- [Apple could reportedly release a HomePod with a display](https://techcrunch.com/2023/03/10/apple-could-reportedly-release-a-homepod-with-a-display/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
