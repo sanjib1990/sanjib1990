@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hubble Space Telescope images increasingly affected by Starlink satellite streaks](https://www.space.com/hubble-images-spoiled-starlink-satellite-steaks)
-- [Flat is the new up, down is the new flat, dead is the new down](https://techcrunch.com/2023/03/10/flat-is-the-new-up-down-is-the-new-flat-dead-is-the-new-down/)
-- [It’s the last day to save $1,000 on passes to Disrupt 2023](https://techcrunch.com/2023/03/10/last-day-save-a-thousand-dollars-techcrunch-disrupt-2023/)
-- [What the flying heck happened to SVB?](https://techcrunch.com/2023/03/10/what-the-flying-heck-happened-to-svb/)
-- [UK closes ‘Jedi Blue’ antitrust collusion case against Google and Meta](https://techcrunch.com/2023/03/10/uk-retreats-from-jedi-blue-antitrust-collusion-case-against-google-and-meta/)
+- [SpaceX Crew-5 and Crew-6 astronaut mission: Live updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates)
+- [Roku partners with Best Buy and its advertising business to get first-party shopper data](https://techcrunch.com/2023/03/10/roku-partners-with-best-buy-and-its-advertising-business-to-get-first-party-shopper-data/)
+- [The long goodbye at Salesforce continues with more layoffs reported today](https://techcrunch.com/2023/03/10/the-long-goodbye-at-salesforce-continues-with-more-layoffs-off-reported-today/)
+- [SpaceX, NASA targeting March 14 for next cargo launch to space station](https://www.space.com/spacex-nasa-iss-cargo-launch-march-2023)
+- [Mandalore: Everything you need to know about the Mandalorian home planet](https://www.space.com/everything-about-planet-mandalore-star-wars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
