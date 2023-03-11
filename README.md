@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch Relativity attempt to launch Terran 1…again](https://techcrunch.com/2023/03/11/watch-relativity-attempt-to-launch-terran-1again/)
+- [SVB contagion: UK arm shuts down, government scrambles and startups brace for the worst](https://techcrunch.com/2023/03/11/svb-contagion-uk-arm-shuts-down-government-scrambles-and-startups-brace-for-the-worst/)
 - [For fintechs in 2022, the bigger the exit, the larger the decline in value](https://techcrunch.com/2023/03/11/fintechs-2022-decline-value/)
 - [Roku, Roblox and others disclose their exposure to SVB in SEC filings](https://techcrunch.com/2023/03/11/roku-roblox-and-others-disclose-their-exposure-to-svb-in-sec-filings/)
 - [Bitcoin and the Lightning Network are moving payments globally](https://techcrunch.com/2023/03/11/bitcoin-and-the-lightning-network-are-moving-payments-globally/)
-- [ULA rolls 1st Vulcan Centaur rocket to launch pad for testing &lpar;photos&rpar;](https://www.space.com/ula-rolls-vulcan-centaur-launch-pad-photos)
-- [Read a revealing Doug Jones interview excerpt from the new issue of &#39;Star Trek Explorer&#39; &lpar;exclusive&rpar;](https://www.space.com/doug-jones-interview-excerpt-star-trek-explorer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
