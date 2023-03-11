@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ULA rolls 1st Vulcan Centaur rocket to launch pad for testing &lpar;photos&rpar;](https://www.space.com/ula-rolls-vulcan-centaur-launch-pad-photos)
 - [Read a revealing Doug Jones interview excerpt from the new issue of &#39;Star Trek Explorer&#39; &lpar;exclusive&rpar;](https://www.space.com/doug-jones-interview-excerpt-star-trek-explorer)
 - [Watch Rocket Lab launch 2nd mission from US soil tonight](https://www.space.com/rocket-lab-stronger-together-launch-march-2023)
 - [Hunt for alien biosignatures in &#39;Mars Horizon 2: The Search for Life&#39; on PC](https://www.space.com/mars-horizon-2-the-search-for-life-2024-release)
 - [Silicon Valley Bank collapse is impacting many Indian startups](https://techcrunch.com/2023/03/11/silicon-valley-bank-collapse-is-impacting-many-indian-startups/)
-- [Flutterwave’s troubles in Kenya yet to end as second case proceeds](https://techcrunch.com/2023/03/11/flutterwaves-troubles-in-kenya-yet-to-end-as-second-case-proceeds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
