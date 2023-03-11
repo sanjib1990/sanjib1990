@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Silicon Valley Bank collapse is impacting many Indian startups](https://techcrunch.com/2023/03/11/silicon-valley-bank-collapse-is-impacting-many-indian-startups/)
 - [Flutterwave’s troubles in Kenya yet to end as second case proceeds](https://techcrunch.com/2023/03/11/flutterwaves-troubles-in-kenya-yet-to-end-as-second-case-proceeds/)
 - [SpaceX Crew-5 astronauts leave the space station after five months in space](https://www.space.com/spacex-crew-5-depart-international-space-station)
 - [Investor Mark Suster says a “handful” of bad actors in VC destroyed Silicon Valley Bank](https://techcrunch.com/2023/03/10/investor-mark-suster-says-a-handful-of-bad-actors-in-vc-destroyed-silicon-valley-bank/)
 - [Microsoft bets on algae to mitigate its growing carbon footprint](https://techcrunch.com/2023/03/10/microsoft-bets-on-algae-to-mitigate-its-growing-carbon-footprint/)
-- [Daily Crunch: Silicon Valley Bank goes bust — regulators take control of $175B+ in deposits](https://techcrunch.com/2023/03/10/daily-crunch-silicon-valley-bank-goes-bust-regulators-take-control-of-175b-in-deposits/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
