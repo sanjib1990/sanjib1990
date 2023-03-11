@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Regulators are requesting SVB employees to stay on for the next 45 days](https://techcrunch.com/2023/03/11/regulators-are-requesting-svb-employees-to-stay-on-for-the-next-45-days/)
 - [OK, what is going on with SVB?](https://techcrunch.com/2023/03/11/silicon-valley-banks-collapse-is-a-human-story/)
 - [This Week in Apps: TikTok-style feeds come to Spotify and Reddit; Meta’s Fediverse plans](https://techcrunch.com/2023/03/11/this-week-in-apps-tiktok-style-feeds-come-to-spotify-and-reddit-metas-fediverse-plans/)
 - [On cloud marketplaces, nobody knows you’re a startup](https://techcrunch.com/2023/03/11/on-cloud-marketplaces-nobody-knows-youre-a-startup/)
 - [Watch Relativity attempt to launch Terran 1…again](https://techcrunch.com/2023/03/11/watch-relativity-attempt-to-launch-terran-1again/)
-- [SVB contagion: UK arm shuts down, government scrambles and startups brace for the worst](https://techcrunch.com/2023/03/11/svb-contagion-uk-arm-shuts-down-government-scrambles-and-startups-brace-for-the-worst/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
