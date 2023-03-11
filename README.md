@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [For fintechs in 2022, the bigger the exit, the larger the decline in value](https://techcrunch.com/2023/03/11/fintechs-2022-decline-value/)
 - [Roku, Roblox and others disclose their exposure to SVB in SEC filings](https://techcrunch.com/2023/03/11/roku-roblox-and-others-disclose-their-exposure-to-svb-in-sec-filings/)
 - [Bitcoin and the Lightning Network are moving payments globally](https://techcrunch.com/2023/03/11/bitcoin-and-the-lightning-network-are-moving-payments-globally/)
 - [ULA rolls 1st Vulcan Centaur rocket to launch pad for testing &lpar;photos&rpar;](https://www.space.com/ula-rolls-vulcan-centaur-launch-pad-photos)
 - [Read a revealing Doug Jones interview excerpt from the new issue of &#39;Star Trek Explorer&#39; &lpar;exclusive&rpar;](https://www.space.com/doug-jones-interview-excerpt-star-trek-explorer)
-- [Watch Rocket Lab launch 2nd mission from US soil tonight](https://www.space.com/rocket-lab-stronger-together-launch-march-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
