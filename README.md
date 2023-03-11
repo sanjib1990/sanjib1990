@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Relativity Space aborts launch of Terran 1, the world&#39;s first 3D-printed rocket, twice in 1 day](https://www.space.com/relativity-space-terran-1-rocket-aborts-2nd-launch-try)
+- [VCs are declaring their allegiances in the wake of SVB’s collapse](https://techcrunch.com/2023/03/11/vcs-are-declaring-their-allegiances-in-the-wake-of-svbs-collapse/)
+- [Silicon Valley Bank implodes, Apple launches a new music service, and ChatGPT goes enterprise](https://techcrunch.com/2023/03/11/silicon-valley-bank-implodes-apple-launches-a-new-music-service-and-chatgpt-goes-enterprise/)
 - [Regulators are requesting SVB employees to stay on for the next 45 days](https://techcrunch.com/2023/03/11/regulators-are-requesting-svb-employees-to-stay-on-for-the-next-45-days/)
 - [OK, what is going on with SVB?](https://techcrunch.com/2023/03/11/silicon-valley-banks-collapse-is-a-human-story/)
-- [This Week in Apps: TikTok-style feeds come to Spotify and Reddit; Meta’s Fediverse plans](https://techcrunch.com/2023/03/11/this-week-in-apps-tiktok-style-feeds-come-to-spotify-and-reddit-metas-fediverse-plans/)
-- [On cloud marketplaces, nobody knows you’re a startup](https://techcrunch.com/2023/03/11/on-cloud-marketplaces-nobody-knows-youre-a-startup/)
-- [Watch Relativity attempt to launch Terran 1…again](https://techcrunch.com/2023/03/11/watch-relativity-attempt-to-launch-terran-1again/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
