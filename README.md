@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [On cloud marketplaces, nobody knows you’re a startup](https://techcrunch.com/2023/03/11/on-cloud-marketplaces-nobody-knows-youre-a-startup/)
 - [Watch Relativity attempt to launch Terran 1…again](https://techcrunch.com/2023/03/11/watch-relativity-attempt-to-launch-terran-1again/)
 - [SVB contagion: UK arm shuts down, government scrambles and startups brace for the worst](https://techcrunch.com/2023/03/11/svb-contagion-uk-arm-shuts-down-government-scrambles-and-startups-brace-for-the-worst/)
 - [For fintechs in 2022, the bigger the exit, the larger the decline in value](https://techcrunch.com/2023/03/11/fintechs-2022-decline-value/)
 - [Roku, Roblox and others disclose their exposure to SVB in SEC filings](https://techcrunch.com/2023/03/11/roku-roblox-and-others-disclose-their-exposure-to-svb-in-sec-filings/)
-- [Bitcoin and the Lightning Network are moving payments globally](https://techcrunch.com/2023/03/11/bitcoin-and-the-lightning-network-are-moving-payments-globally/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
