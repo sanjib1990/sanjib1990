@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX Crew-5 astronauts leave the space station after five months in space](https://www.space.com/spacex-crew-5-depart-international-space-station)
 - [Investor Mark Suster says a “handful” of bad actors in VC destroyed Silicon Valley Bank](https://techcrunch.com/2023/03/10/investor-mark-suster-says-a-handful-of-bad-actors-in-vc-destroyed-silicon-valley-bank/)
 - [Microsoft bets on algae to mitigate its growing carbon footprint](https://techcrunch.com/2023/03/10/microsoft-bets-on-algae-to-mitigate-its-growing-carbon-footprint/)
 - [Daily Crunch: Silicon Valley Bank goes bust — regulators take control of $175B+ in deposits](https://techcrunch.com/2023/03/10/daily-crunch-silicon-valley-bank-goes-bust-regulators-take-control-of-175b-in-deposits/)
 - [What does the collapse of SVB mean for venture debt?](https://techcrunch.com/2023/03/10/silicon-valley-bank-venture-debt/)
-- [Mercury re-rising: Stoke Space to balance past and future at historic Florida launch pad](https://www.space.com/historic-launch-complex-14-stoke-space-john-glenn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
