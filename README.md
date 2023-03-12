@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Silicon Valley Bank’s depositors will be fully protected, according to the Federal Reserve](https://techcrunch.com/2023/03/12/silicon-valley-banks-depositors-will-be-fully-protected-according-to-the-federal-reserve/)
+- [Sam Altman, Vinod Khosla say they’ll personally loan cash to startups in the wake of SVB collapse](https://techcrunch.com/2023/03/12/sam-altman-vinod-khosla-say-theyll-personally-loan-cash-to-startups-in-the-wake-of-svb-collapse/)
 - [As the SVB auction continues, the sale of its UK arm bounces between potential suitors](https://techcrunch.com/2023/03/12/as-the-svb-auction-continues-the-sale-of-its-uk-arm-bounces-between-potential-suitors/)
 - [FDIC auction for SVB assets said to be underway](https://techcrunch.com/2023/03/12/fdic-auction-silicon-valley-bank-svb/)
 - [Online education platform Kajabi helps creators earn money for sharing their expertise](https://techcrunch.com/2023/03/12/online-education-platform-kajabi-helps-creators-earn-money-for-sharing-their-expertise/)
-- [Is generative AI really ready for the enterprise?](https://techcrunch.com/2023/03/12/is-generative-ai-really-ready-for-the-enterprise/)
-- [Web of lies: Web3 isn’t the security fix-all you think it is](https://techcrunch.com/2023/03/12/web3-security-web2-problems/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
