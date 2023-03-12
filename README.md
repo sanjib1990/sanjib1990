@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [No, the moon phase can&#39;t help find your soulmate on TikTok](https://www.space.com/moon-phase-find-soulmate-tiktok)
+- [Russia looking into possibility of manufacturing defect on leaky spacecraft](https://www.space.com/russia-soyuz-progress-leaks-possible-manufacturing-defect)
 - [SpaceX Crew-5 astronaut splashdown: Live updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates)
 - [SpaceX Dragon capsule splashes down with Crew-5 astronauts after 157 days in space](https://www.space.com/spacex-crew-5-astronauts-splashdown-success)
 - [A 10-step playbook for founders with Silicon Valley Bank accounts](https://techcrunch.com/2023/03/11/a-10-step-playbook-for-founders-with-silicon-valley-bank-accounts/)
-- [Y Combinator calls on Congress to act on SVB collapse](https://techcrunch.com/2023/03/11/y-combinator-svb-collapse-congress/)
-- [Brex CEO is trying to raise over $1 billion in a weekend for SVB-related bridge loans](https://techcrunch.com/2023/03/11/brex-ceo-is-trying-to-raise-over-1-billion-in-a-weekend-for-svb-related-bridge-loans/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
