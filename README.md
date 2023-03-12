@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;The Autobiography of Benjamin Sisko&#39; reveals untold history of Starfleet’s fearless war captain &lpar;exclusive&rpar;](https://www.space.com/autobiography-benjamin-sisko-star-trek-book-exclusive)
 - [No, the moon phase can&#39;t help find your soulmate on TikTok](https://www.space.com/moon-phase-find-soulmate-tiktok)
 - [Russia looking into possibility of manufacturing defect on leaky spacecraft](https://www.space.com/russia-soyuz-progress-leaks-possible-manufacturing-defect)
 - [SpaceX Crew-5 astronaut splashdown: Live updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates)
 - [SpaceX Dragon capsule splashes down with Crew-5 astronauts after 157 days in space](https://www.space.com/spacex-crew-5-astronauts-splashdown-success)
-- [A 10-step playbook for founders with Silicon Valley Bank accounts](https://techcrunch.com/2023/03/11/a-10-step-playbook-for-founders-with-silicon-valley-bank-accounts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
