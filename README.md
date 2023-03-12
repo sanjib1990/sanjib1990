@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [As the SVB auction continues, the sale of its UK arm bounces between potential suitors](https://techcrunch.com/2023/03/12/as-the-svb-auction-continues-the-sale-of-its-uk-arm-bounces-between-potential-suitors/)
 - [FDIC auction for SVB assets said to be underway](https://techcrunch.com/2023/03/12/fdic-auction-silicon-valley-bank-svb/)
 - [Online education platform Kajabi helps creators earn money for sharing their expertise](https://techcrunch.com/2023/03/12/online-education-platform-kajabi-helps-creators-earn-money-for-sharing-their-expertise/)
 - [Is generative AI really ready for the enterprise?](https://techcrunch.com/2023/03/12/is-generative-ai-really-ready-for-the-enterprise/)
 - [Web of lies: Web3 isn’t the security fix-all you think it is](https://techcrunch.com/2023/03/12/web3-security-web2-problems/)
-- [We’re only beginning to see the impact of Silicon Valley Bank’s implosion](https://techcrunch.com/2023/03/12/fintech-interchange-svb-implosion-impact/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
