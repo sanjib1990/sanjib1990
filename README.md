@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Yellen says gov’t concerned about Silicon Valley Bank depositors but dismisses bailout](https://techcrunch.com/2023/03/12/yellen-says-govt-concerned-about-silicon-valley-bank-depositors-but-dismisses-bailout/)
+- [Web of lies: Web3 isn’t the security fix-all you think it is](https://techcrunch.com/2023/03/12/web3-security-web2-problems/)
+- [We’re only beginning to see the impact of Silicon Valley Bank’s implosion](https://techcrunch.com/2023/03/12/fintech-interchange-svb-implosion-impact/)
+- [Yellen says government trying to help Silicon Valley Bank depositors but dismisses bailout](https://techcrunch.com/2023/03/12/yellen-says-govt-concerned-about-silicon-valley-bank-depositors-but-dismisses-bailout/)
 - [See the moon in the grip of the Scorpion&#39;s claws tonight](https://www.space.com/news/see-the-moon-in-the-grip-of-the-scorpions-claws-tonight)
 - [Synthesis Institute collapse is a major setback for US psychedelic therapy](https://techcrunch.com/2023/03/12/synthesis-institute-collapse/)
-- [&#39;The Autobiography of Benjamin Sisko&#39; reveals untold history of Starfleet’s fearless war captain &lpar;exclusive&rpar;](https://www.space.com/autobiography-benjamin-sisko-star-trek-book-exclusive)
-- [No, the moon phase can&#39;t help find your soulmate on TikTok](https://www.space.com/moon-phase-find-soulmate-tiktok)
 <!-- BLOG-POST-LIST:END -->
 
 ---
