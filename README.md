@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Signature Bank seizure creates obstacles for crypto industry while promoting ‘unbanked’ innovations](https://techcrunch.com/2023/03/13/signature-bank-seizure-creates-obstacles-for-crypto-industry-while-promoting-unbanked-innovations/)
-- [Aether wants to shift you from blood diamonds to gems pulled from thin air](https://techcrunch.com/2023/03/13/aether-air-diamonds/)
-- [WordPress.com owner Automattic acquires an ActivityPub plugin so blogs can join the Fediverse](https://techcrunch.com/2023/03/13/wordpress-com-owner-automattic-acquires-an-activitypub-plugin-so-blogs-can-join-the-fediverse/)
-- [Double trouble! Two pairs of giant black holes spotted on collision course](https://www.space.com/black-holes-two-pairs-collision-courses-chandra)
-- [123 Baby Box delivers for parents seeking children’s products without the hassle](https://techcrunch.com/2023/03/13/123-baby-box-subscription-commerce/)
+- [Porsche adds all-electric flagship SUV to its growing EV lineup](https://techcrunch.com/2023/03/13/porsche-adds-all-electric-flagship-suv-to-its-growing-ev-lineup/)
+- [Some international regulators froze assets of local SVB branches](https://techcrunch.com/2023/03/13/some-international-regulators-froze-assets-of-local-svb-branches/)
+- [More lunar missions means more space junk around the moon – two scientists are building a catalog to track the trash](https://www.space.com/moon-missions-1st-catalog-cislunar-space-junk)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [Fire TV users can fill out NCAA brackets with the new March Madness feature](https://techcrunch.com/2023/03/13/fire-tv-new-march-madness-feature-ncaa-bracket/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
