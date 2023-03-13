@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Volkswagen and PowerCo to build North American battery factory in Canada](https://techcrunch.com/2023/03/13/volkswagen-and-powerco-to-build-north-american-battery-factory-in-canada/)
-- [Apple’s AR/VR headset reportedly being pushed out due to ‘huge pressure to ship’](https://techcrunch.com/2023/03/13/apples-ar-vr-headset-reportedly-being-pushed-out-due-to-huge-pressure-to-ship/)
-- [China’s robotaxi upstart WeRide confidentially files for IPO: Bloomberg](https://techcrunch.com/2023/03/13/weride-ipo/)
-- [Here&#39;s the devastating impact a super-Earth would have on our solar system](https://www.space.com/super-earth-impact-solar-system-study)
-- [Despite 2022’s volatility, VC funds performed better than you think](https://techcrunch.com/2023/03/13/despite-2022s-volatility-vc-funds-performed-better-than-you-think/)
+- [SVB’s mess could become stablecoins’ problem](https://techcrunch.com/2023/03/13/usdc-stablecoin-fed-regulation/)
+- [NASA wants new &#39;deorbit tug&#39; to bring space station down in 2030](https://www.space.com/nasa-deorbit-tug-bring-down-international-space-station)
+- [Y Combinator cuts nearly 20% of staff, scales back growth stage investments](https://techcrunch.com/2023/03/13/y-combinator-cuts-nearly-20-of-staff-scales-back-growth-stage-investments/)
+- [Sorry, Spock, but planet Vulcan&#39;s real-life doppelgänger doesn&#39;t exist](https://www.space.com/planet-vulcan-still-science-fiction)
+- [&#39;Everything Everywhere All At Once&#39; takes home 7 Oscars, including Best Picture](https://www.space.com/everything-everywhere-all-at-once-film-wins-seven-oscars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
