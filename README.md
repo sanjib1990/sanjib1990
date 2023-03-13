@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [China’s robotaxi upstart WeRide confidentially files for IPO: Bloomberg](https://techcrunch.com/2023/03/13/weride-ipo/)
+- [Here&#39;s the devastating impact a super-Earth would have on our solar system](https://www.space.com/super-earth-impact-solar-system-study)
+- [Despite 2022’s volatility, VC funds performed better than you think](https://techcrunch.com/2023/03/13/despite-2022s-volatility-vc-funds-performed-better-than-you-think/)
 - [Porsche adds all-electric flagship SUV to its growing EV lineup](https://techcrunch.com/2023/03/13/porsche-adds-all-electric-flagship-suv-to-its-growing-ev-lineup/)
 - [Some international regulators froze assets of local SVB branches](https://techcrunch.com/2023/03/13/some-international-regulators-froze-assets-of-local-svb-branches/)
-- [More lunar missions means more space junk around the moon – two scientists are building a catalog to track the trash](https://www.space.com/moon-missions-1st-catalog-cislunar-space-junk)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [Fire TV users can fill out NCAA brackets with the new March Madness feature](https://techcrunch.com/2023/03/13/fire-tv-new-march-madness-feature-ncaa-bracket/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
