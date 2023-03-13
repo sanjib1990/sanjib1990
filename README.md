@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Deel makes over $120M of its own cash available to support customers affected by SVB crisis](https://techcrunch.com/2023/03/12/deel-makes-over-120m-of-its-own-cash-available-to-support-customers-affected-by-svb-crisis/)
 - [Silicon Valley Bank’s depositors will be fully protected, according to the Federal Reserve](https://techcrunch.com/2023/03/12/silicon-valley-banks-depositors-will-be-fully-protected-according-to-the-federal-reserve/)
 - [Sam Altman, Vinod Khosla say they’ll personally loan cash to startups in the wake of SVB collapse](https://techcrunch.com/2023/03/12/sam-altman-vinod-khosla-say-theyll-personally-loan-cash-to-startups-in-the-wake-of-svb-collapse/)
 - [As the SVB auction continues, the sale of its UK arm bounces between potential suitors](https://techcrunch.com/2023/03/12/as-the-svb-auction-continues-the-sale-of-its-uk-arm-bounces-between-potential-suitors/)
 - [FDIC auction for SVB assets said to be underway](https://techcrunch.com/2023/03/12/fdic-auction-silicon-valley-bank-svb/)
-- [Online education platform Kajabi helps creators earn money for sharing their expertise](https://techcrunch.com/2023/03/12/online-education-platform-kajabi-helps-creators-earn-money-for-sharing-their-expertise/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
