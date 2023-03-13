@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Volkswagen and PowerCo to build North American battery factory in Canada](https://techcrunch.com/2023/03/13/volkswagen-and-powerco-to-build-north-american-battery-factory-in-canada/)
+- [Apple’s AR/VR headset reportedly being pushed out due to ‘huge pressure to ship’](https://techcrunch.com/2023/03/13/apples-ar-vr-headset-reportedly-being-pushed-out-due-to-huge-pressure-to-ship/)
 - [China’s robotaxi upstart WeRide confidentially files for IPO: Bloomberg](https://techcrunch.com/2023/03/13/weride-ipo/)
 - [Here&#39;s the devastating impact a super-Earth would have on our solar system](https://www.space.com/super-earth-impact-solar-system-study)
 - [Despite 2022’s volatility, VC funds performed better than you think](https://techcrunch.com/2023/03/13/despite-2022s-volatility-vc-funds-performed-better-than-you-think/)
-- [Porsche adds all-electric flagship SUV to its growing EV lineup](https://techcrunch.com/2023/03/13/porsche-adds-all-electric-flagship-suv-to-its-growing-ev-lineup/)
-- [Some international regulators froze assets of local SVB branches](https://techcrunch.com/2023/03/13/some-international-regulators-froze-assets-of-local-svb-branches/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
