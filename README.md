@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Starlink and T-Mobile’s sat-to-cell service will start testing this year](https://techcrunch.com/2023/03/13/starlink-and-t-mobiles-sat-to-cell-service-will-start-testing-this-year/)
 - [Daily Crunch: HSBC buys Silicon Valley Bank UK, says ‘customers should not notice any changes’](https://techcrunch.com/2023/03/13/daily-crunch-hsbc-buys-silicon-valley-bank-uk-says-customers-should-not-notice-any-changes/)
 - [Max Q: Have luck and good fun](https://techcrunch.com/2023/03/13/max-q-have-luck-and-good-fun/)
 - [&#39;Guardians of the Galaxy #1&#39; blasts off with brash new trailer and variant covers](https://www.space.com/guardians-of-the-galaxy-comic-covers)
 - [Meta winds down support for NFTs on Instagram and Facebook](https://techcrunch.com/2023/03/13/meta-winds-down-support-for-nfts-on-instagram-and-facebook/)
-- [&#39;Khan!!! The Musical!&#39; is a wacky &#39;Star Trek&#39; adaptation best served live Off-Broadway](https://www.space.com/star-trek-khan-musical-coming-soon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
