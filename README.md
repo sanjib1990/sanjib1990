@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hear from Sequoia Capital and Kleiner Perkins this week on TechCrunch Live](https://techcrunch.com/2023/03/13/hear-from-sequoia-capital-and-kleiner-perkins-this-week-on-techcrunch-live/)
+- [Watch &#39;kissing&#39; planets Venus and Jupiter go their separate ways](https://www.space.com/venus-jupiter-go-separate-ways-march-2023)
 - [TuneIn rolls out its immersive map experience for mobile listeners](https://techcrunch.com/2023/03/13/tunein-rolls-out-its-immersive-map-experience-for-mobile-listeners/)
 - [Founder of troubled crypto asset unicorn Babel launches new DeFi project, stablecoin](https://techcrunch.com/2023/03/13/babel-flex-yang-stablecoin/)
 - [Radio telescope on moon&#39;s far side will peer into universe&#39;s &#39;Dark Ages&#39;](https://www.space.com/moon-far-side-telescope-universe-dark-ages)
-- [Naspers shuts down Foundry, its $100M fund focused on South African startups](https://techcrunch.com/2023/03/13/naspers-shuts-down-foundry-its-100m-fund-focused-on-south-african-startups/)
-- [After SVB failure, regulators close crypto-friendly bank Signature Bank](https://techcrunch.com/2023/03/13/after-svb-failure-regulators-close-crypto-friendly-bank-signature-bank/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
