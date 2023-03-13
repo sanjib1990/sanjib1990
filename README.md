@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [123 Baby Box delivers for parents seeking children’s products without the hassle](https://techcrunch.com/2023/03/13/123-baby-box-subscription-commerce/)
+- [Europe&#39;s 1st ever Jupiter mission in &#39;home straight&#39; ahead of April launch](https://www.space.com/europe-jupiter-explorer-juice-readies-for-launch)
+- [Bitcoin rallies over 18% in 24-hour span in wake of SVB crisis](https://techcrunch.com/2023/03/13/bitcoin-rallies-18-percent-in-wake-of-svb-crisis/)
 - [Rivian in talks with Amazon to remove exclusivity clause of EV van agreement](https://techcrunch.com/2023/03/13/rivian-in-talks-with-amazon-to-remove-exclusivity-clause-of-ev-van-agreement/)
 - [Etsy begins processing seller payments via alternative partners after delays caused by SVB implosion](https://techcrunch.com/2023/03/13/etsy-processing-seller-payments-alternative-partners-after-svb-implosion/)
-- [First Republic Bank shares plunge, prompting trading halt as startups process SVB crash](https://techcrunch.com/2023/03/13/first-republic-bank-shares-plunge-prompting-trading-halt-as-startups-process-svb-crash/)
-- [Hackers steal around $200 million from crypto lender Euler Finance](https://techcrunch.com/2023/03/13/hackers-steal-around-200-million-from-crypto-lender-euler-finance/)
-- [Volunteer at TC Early Stage for a free pass to TC Disrupt](https://techcrunch.com/2023/03/13/volunteer-tc-early-stage-boston-free-pass-tc-disrupt-san-franciscovolunteer-at-tc-early-stage-for-a-free-pass-to-tc-disrupt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
