@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Signature Bank seizure creates obstacles for crypto industry while promoting ‘unbanked’ innovations](https://techcrunch.com/2023/03/13/signature-bank-seizure-creates-obstacles-for-crypto-industry-while-promoting-unbanked-innovations/)
+- [Aether wants to shift you from blood diamonds to gems pulled from thin air](https://techcrunch.com/2023/03/13/aether-air-diamonds/)
+- [WordPress.com owner Automattic acquires an ActivityPub plugin so blogs can join the Fediverse](https://techcrunch.com/2023/03/13/wordpress-com-owner-automattic-acquires-an-activitypub-plugin-so-blogs-can-join-the-fediverse/)
+- [Double trouble! Two pairs of giant black holes spotted on collision course](https://www.space.com/black-holes-two-pairs-collision-courses-chandra)
 - [123 Baby Box delivers for parents seeking children’s products without the hassle](https://techcrunch.com/2023/03/13/123-baby-box-subscription-commerce/)
-- [Europe&#39;s 1st ever Jupiter mission in &#39;home straight&#39; ahead of April launch](https://www.space.com/europe-jupiter-explorer-juice-readies-for-launch)
-- [Bitcoin rallies over 18% in 24-hour span in wake of SVB crisis](https://techcrunch.com/2023/03/13/bitcoin-rallies-18-percent-in-wake-of-svb-crisis/)
-- [Rivian in talks with Amazon to remove exclusivity clause of EV van agreement](https://techcrunch.com/2023/03/13/rivian-in-talks-with-amazon-to-remove-exclusivity-clause-of-ev-van-agreement/)
-- [Etsy begins processing seller payments via alternative partners after delays caused by SVB implosion](https://techcrunch.com/2023/03/13/etsy-processing-seller-payments-alternative-partners-after-svb-implosion/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
