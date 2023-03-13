@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hear from Sequoia Capital and Kleiner Perkins this week on TechCrunch Live](https://techcrunch.com/2023/03/13/hear-from-sequoia-capital-and-kleiner-perkins-this-week-on-techcrunch-live/)
-- [Watch &#39;kissing&#39; planets Venus and Jupiter go their separate ways](https://www.space.com/venus-jupiter-go-separate-ways-march-2023)
-- [TuneIn rolls out its immersive map experience for mobile listeners](https://techcrunch.com/2023/03/13/tunein-rolls-out-its-immersive-map-experience-for-mobile-listeners/)
-- [Founder of troubled crypto asset unicorn Babel launches new DeFi project, stablecoin](https://techcrunch.com/2023/03/13/babel-flex-yang-stablecoin/)
-- [Radio telescope on moon&#39;s far side will peer into universe&#39;s &#39;Dark Ages&#39;](https://www.space.com/moon-far-side-telescope-universe-dark-ages)
+- [Rivian in talks with Amazon to remove exclusivity clause of EV van agreement](https://techcrunch.com/2023/03/13/rivian-in-talks-with-amazon-to-remove-exclusivity-clause-of-ev-van-agreement/)
+- [Etsy begins processing seller payments via alternative partners after delays caused by SVB implosion](https://techcrunch.com/2023/03/13/etsy-processing-seller-payments-alternative-partners-after-svb-implosion/)
+- [First Republic Bank shares plunge, prompting trading halt as startups process SVB crash](https://techcrunch.com/2023/03/13/first-republic-bank-shares-plunge-prompting-trading-halt-as-startups-process-svb-crash/)
+- [Hackers steal around $200 million from crypto lender Euler Finance](https://techcrunch.com/2023/03/13/hackers-steal-around-200-million-from-crypto-lender-euler-finance/)
+- [Volunteer at TC Early Stage for a free pass to TC Disrupt](https://techcrunch.com/2023/03/13/volunteer-tc-early-stage-boston-free-pass-tc-disrupt-san-franciscovolunteer-at-tc-early-stage-for-a-free-pass-to-tc-disrupt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
