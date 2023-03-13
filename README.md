@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [EV SPACs hunt for cash, the SVB fallout continues and a new AV startup emerges](https://techcrunch.com/2023/03/13/ev-spacs-hunt-for-cash-the-svb-fallout-continues-and-a-new-av-startup-emerges/)
-- [Qualtrics accepts $12.5B all-cash acquisition offer to go private](https://techcrunch.com/2023/03/13/qualtrics-accepts-12-5b-all-cash-acquisition-offer-to-go-private/)
-- [Instagram is making it more accesible to reshare Reels you already sent to friends](https://techcrunch.com/2023/03/13/instagram-is-making-it-more-accesible-to-reshare-reels-you-already-sent-to-friends/)
-- [How often does the International Space Station have to dodge space debris?](https://www.space.com/international-space-station-space-dodge-debris-how-often)
-- [Watch NASA discuss 2024 federal budget request Monday](https://www.space.com/nasa-2024-federal-budget-request-webcast)
+- [Founder of troubled crypto asset unicorn Babel launches new DeFi project, stablecoin](https://techcrunch.com/2023/03/13/babel-flex-yang-stablecoin/)
+- [Radio telescope on moon&#39;s far side will peer into universe&#39;s &#39;Dark Ages&#39;](https://www.space.com/moon-far-side-telescope-universe-dark-ages)
+- [Naspers shuts down Foundry, its $100M fund focused on South African startups](https://techcrunch.com/2023/03/13/naspers-shuts-down-foundry-its-100m-fund-focused-on-south-african-startups/)
+- [After SVB failure, regulators close crypto-friendly bank Signature Bank](https://techcrunch.com/2023/03/13/after-svb-failure-regulators-close-crypto-friendly-bank-signature-bank/)
+- [Building a PLG motion on top of usage-based pricing](https://techcrunch.com/2023/03/13/building-a-plg-motion-on-top-of-usage-based-pricing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
