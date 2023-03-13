@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [EV SPACs hunt for cash, the SVB fallout continues and a new AV startup emerges](https://techcrunch.com/2023/03/13/ev-spacs-hunt-for-cash-the-svb-fallout-continues-and-a-new-av-startup-emerges/)
+- [Qualtrics accepts $12.5B all-cash acquisition offer to go private](https://techcrunch.com/2023/03/13/qualtrics-accepts-12-5b-all-cash-acquisition-offer-to-go-private/)
+- [Instagram is making it more accesible to reshare Reels you already sent to friends](https://techcrunch.com/2023/03/13/instagram-is-making-it-more-accesible-to-reshare-reels-you-already-sent-to-friends/)
 - [How often does the International Space Station have to dodge space debris?](https://www.space.com/international-space-station-space-dodge-debris-how-often)
 - [Watch NASA discuss 2024 federal budget request Monday](https://www.space.com/nasa-2024-federal-budget-request-webcast)
-- [UK tech ecosystem reacts to the news of SVB UK acquisition by HSBC](https://techcrunch.com/2023/03/13/uk-tech-ecosystem-reacts-to-the-news-of-svb-uk-acquisition-by-hsbc/)
-- [HSBC acquires Silicon Valley Bank UK in last-minute deal, says all depositors’ money is safe](https://techcrunch.com/2023/03/13/in-historic-last-minute-deal-hsbc-acquires-silicon-valley-bank-uk-says-all-depositors-money-is-safe/)
-- [Medigo’s app makes prescription deliveries available 24/7 in Vietnam](https://techcrunch.com/2023/03/12/medigos-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
