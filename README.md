@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fortnite’s maximalism still works in its new cyberpunk season](https://techcrunch.com/2023/03/13/fortnite-new-season-still-got-it/)
+- [Microsoft lays off an ethical AI team as it doubles down on OpenAI](https://techcrunch.com/2023/03/13/microsoft-lays-off-an-ethical-ai-team-as-it-doubles-down-on-openai/)
+- [SpaceX is &#39;go&#39; for March 14 cargo launch to space station](https://www.space.com/spacex-go-crs-27-launch-international-space-station)
+- [Silicon Valley Bank’s new CEO sends letter to clients: ‘We are conducting business as usual’](https://techcrunch.com/2023/03/13/svb-new-ceo-tim-mayopoulos-business-as-usual/)
 - [California court upholds Prop 22 in win for Uber, Lyft, DoorDash](https://techcrunch.com/2023/03/13/california-court-upholds-prop-22-in-win-for-uber-lyft-doordash/)
-- [Arrival nabs $300M lifeline, but is still seeking more funds](https://techcrunch.com/2023/03/13/arrival-nabs-300m-lifeline-but-is-still-seeking-more-funds/)
-- [Finding your startup’s valuation: An angel investor explains how](https://techcrunch.com/2023/03/13/finding-your-startups-valuation-an-angel-investor-explains-how/)
-- [Starlink and T-Mobile’s sat-to-cell service will start testing this year](https://techcrunch.com/2023/03/13/starlink-and-t-mobiles-sat-to-cell-service-will-start-testing-this-year/)
-- [Daily Crunch: HSBC buys Silicon Valley Bank UK, says ‘customers should not notice any changes’](https://techcrunch.com/2023/03/13/daily-crunch-hsbc-buys-silicon-valley-bank-uk-says-customers-should-not-notice-any-changes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
