@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rethink rethinks mobility and logistics with new €50M fund](https://techcrunch.com/2023/03/14/rethink-logistics-fund/)
 - [MENA VC Flat6Labs’ new fund to back startups in East, West Africa](https://techcrunch.com/2023/03/13/mena-vc-flat6labs-new-fund-to-back-startups-in-east-west-africa/)
 - [TuSimple co-founder resigns, accused of poaching staff for new venture](https://techcrunch.com/2023/03/13/tusimple-co-founder-resigns-accused-of-poaching-staff-for-new-venture/)
 - [Indonesia’s Broom builds out automated asset-backed lending for used car dealers](https://techcrunch.com/2023/03/13/indonesian-used-auto-finance-platform-broom-raises-10m-to-build-out-automated-asset-backed-lending/)
 - [Fortnite’s maximalism still works in its new cyberpunk season](https://techcrunch.com/2023/03/13/fortnite-new-season-still-got-it/)
-- [Microsoft lays off an ethical AI team as it doubles down on OpenAI](https://techcrunch.com/2023/03/13/microsoft-lays-off-an-ethical-ai-team-as-it-doubles-down-on-openai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
