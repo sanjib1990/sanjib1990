@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Cvent to go private again in $4.6B Blackstone deal](https://techcrunch.com/2023/03/14/cvent-to-go-private-again-in-4-6b-blackstone-deal/)
-- [China&#39;s Zhurong Mars rover reveals seasonal wind changes in Red Planet weather report](https://www.space.com/china-mars-zhurong-rover-wind-changes)
-- [Google introduces Open Health Stack for developers](https://techcrunch.com/2023/03/14/google-introduces-open-health-stack-for-developers/)
-- [Google is making it easier to find low-cost healthcare centers in search results](https://techcrunch.com/2023/03/14/google-is-making-it-easier-to-find-low-cost-healthcare-centers-in-search-results/)
-- [TikTok is adding a dedicated feed for STEM content](https://techcrunch.com/2023/03/14/tiktok-is-adding-a-dedicated-feed-for-stem-content/)
+- [Chinese rocket stage crashes to Earth over Texas](https://www.space.com/chinese-rocket-stage-crashes-earth-over-texas)
+- [Anthropic launches Claude, a chatbot to rival OpenAI’s ChatGPT](https://techcrunch.com/2023/03/14/anthropic-launches-claude-a-chatbot-to-rival-openais-chatgpt/)
+- [Google Play Games for PC to roll out to Europe and Japan, add new titles including Garena Free Fire](https://techcrunch.com/2023/03/14/google-play-games-for-pc-to-roll-out-to-europe-and-japan-add-new-titles-including-garena-free-fire/)
+- [YouTube TV launches early access to a ‘multiview’ feature for watching four streams at once](https://techcrunch.com/2023/03/14/youtube-tv-launches-early-access-to-a-multiview-feature-for-watching-four-streams-at-once/)
+- [3 investors presage the future of startups and VC following SVB’s downfall](https://techcrunch.com/2023/03/14/svb-failure-investor-predictions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
