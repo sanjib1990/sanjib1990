@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Ring won’t say if it was hacked after ransomware gang claims attack](https://techcrunch.com/2023/03/14/ring-alphv-ransomware-attack/)
-- [With Evals, OpenAI hopes to crowdsource AI model testing](https://techcrunch.com/2023/03/14/with-evals-openai-hopes-to-crowdsource-ai-model-testing/)
-- [Scientists hail DART success 6 months after historic asteroid crash](https://www.space.com/scientists-hail-dart-asteroid-crash-success-six-months)
-- [Silicon Valley Bank’s new CEO urges customers to bring deposits back](https://techcrunch.com/2023/03/14/silicon-valley-banks-new-ceo-urges-customers-to-bring-deposits-back/)
-- [Duolingo launches new subscription tier with access to AI tutor powered by GPT-4](https://techcrunch.com/2023/03/14/duolingo-launches-new-subscription-tier-with-access-to-ai-tutor-powered-by-gpt-4/)
+- [UK launches Space City Leicester to push into the final frontier](https://www.space.com/space-city-leicester-england-launch)
+- [Security giant Rubrik says hackers used Fortra zero-day to steal internal data](https://techcrunch.com/2023/03/14/security-giant-rubrik-says-hackers-used-fortra-zero-day-to-steal-internal-data/)
+- [TechCrunch+ roundup: Beyond the Turing Test, 3 VCs on SVB, usage-based pricing tactics](https://techcrunch.com/2023/03/14/techcrunch-roundup-beyond-the-turing-test-3-vcs-on-svb-usage-based-pricing-tactics/)
+- [&#39;Silo&#39; explores post-apocalyptic life underground in new Apple TV+ series &lpar;trailer&rpar;](https://www.space.com/silo-apple-tv-plus-series-life-underground)
+- [Chaos in US banks could push crypto industry toward decentralization](https://techcrunch.com/2023/03/14/svb-crypto-regulation-decentralization/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
