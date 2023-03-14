@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI is testing a version of GPT-4 that can ‘remember’ long conversations](https://techcrunch.com/2023/03/14/openai-is-testing-a-version-of-gpt-4-that-can-remember-long-conversations/)
-- [SpaceX&#39;s Starship has 50% chance of success on 1st orbital flight, Elon Musk says](https://www.space.com/starship-success-odds-first-orbital-flight-elon-musk)
-- [Axiom Space to reveal Artemis 3 moonwalking spacesuits on March 15. Here&#39;s how to watch it live.](https://www.space.com/artemis-3-axiom-space-moon-spacesuits-webcast)
-- [UK launches Space City Leicester to push into the final frontier](https://www.space.com/space-city-leicester-england-launch)
-- [Security giant Rubrik says hackers used Fortra zero-day to steal internal data](https://techcrunch.com/2023/03/14/security-giant-rubrik-says-hackers-used-fortra-zero-day-to-steal-internal-data/)
+- [California agency must provide Tesla with details of racial bias investigation](https://techcrunch.com/2023/03/14/california-agency-must-provide-tesla-with-details-of-racial-bias-investigation/)
+- [Daily Crunch: Meta’s ‘year of efficiency’ continues as CEO announces plans to dismiss 10,000 more workers](https://techcrunch.com/2023/03/14/daily-crunch-metas-year-of-efficiency-continues-as-ceo-announces-plans-to-dismiss-10000-more-workers/)
+- [&#39;Everything Everywhere All At Once&#39; is now the celebrated sci-fi film in Oscar history](https://www.space.com/everything-everywhere-all-at-once-most-celebrated-oscars-sci-fi-film)
+- [Regulators are taking a harder look at those insider stock sales by SVB execs](https://techcrunch.com/2023/03/14/regulators-are-taking-a-harder-look-at-those-insider-stock-sales-by-svb-execs/)
+- [James Webb Space Telescope spots huge star about to go supernova &lpar;video, photos&rpar;](https://www.space.com/james-webb-space-telescope-star-soon-go-supernova-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
