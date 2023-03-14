@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [India probing ‘several’ crypto cases for money laundering, seizes over $115 million](https://techcrunch.com/2023/03/14/india-probing-several-crypto-cases-for-money-laundering-seizes-over-115-million/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [Pi Day turns 35: The circle of mathematics needs more diversity, advocates say](https://www.space.com/pi-day-35-year-anniversary-diversity-mathematics)
-- [Collapse of Silicon Valley Bank is felt by the space sector](https://www.space.com/silicon-valley-bank-collapse-space-industry-impacts)
-- [Nigerian credit-led fintech FairMoney acquires PayForce in retail-merchant banking play](https://techcrunch.com/2023/03/14/nigerian-credit-led-fintech-fairmoney-acquires-payforce-in-retail-merchant-banking-play/)
+- [Copy that: RightHub wants to be the command center for intellectual property management](https://techcrunch.com/2023/03/14/copy-that-how-righthub-plans-to-bring-efficiency-and-collaboration-to-ip-management/)
+- [Mars-backed Bundle x Joy bags $1M to double its pet care footprint in retailers](https://techcrunch.com/2023/03/14/bundle-x-joy-pet-care-commerce/)
+- [Watch the half-lit last quarter moon rise tonight](https://www.space.com/last-quarter-moon-march-2023)
+- [Cloud security vendor Mitiga lands $45M, valuing the company at over $100M](https://techcrunch.com/2023/03/14/mitiga-raises-45m-for-cloud-security/)
+- [Time to trust: Questions cybersecurity customers ask and how to answer them](https://techcrunch.com/2023/03/14/time-to-trust-questions-cybersecurity-customers-ask-and-how-to-answer-them/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
