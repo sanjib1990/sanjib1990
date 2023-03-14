@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla has a home battery to sell you, with or without solar](https://techcrunch.com/2023/03/14/tesla-has-a-home-battery-to-sell-you-with-or-without-solar/)
+- [Reddit has been down for hours](https://techcrunch.com/2023/03/14/reddit-has-been-down-for-hours/)
 - [California agency must provide Tesla with details of racial bias investigation](https://techcrunch.com/2023/03/14/california-agency-must-provide-tesla-with-details-of-racial-bias-investigation/)
 - [Daily Crunch: Meta’s ‘year of efficiency’ continues as CEO announces plans to dismiss 10,000 more workers](https://techcrunch.com/2023/03/14/daily-crunch-metas-year-of-efficiency-continues-as-ceo-announces-plans-to-dismiss-10000-more-workers/)
-- [&#39;Everything Everywhere All At Once&#39; is now the celebrated sci-fi film in Oscar history](https://www.space.com/everything-everywhere-all-at-once-most-celebrated-oscars-sci-fi-film)
-- [Regulators are taking a harder look at those insider stock sales by SVB execs](https://techcrunch.com/2023/03/14/regulators-are-taking-a-harder-look-at-those-insider-stock-sales-by-svb-execs/)
-- [James Webb Space Telescope spots huge star about to go supernova &lpar;video, photos&rpar;](https://www.space.com/james-webb-space-telescope-star-soon-go-supernova-photos)
+- [&#39;Everything Everywhere All At Once&#39; is now the most celebrated sci-fi film in Oscar history](https://www.space.com/everything-everywhere-all-at-once-most-celebrated-oscars-sci-fi-film)
 <!-- BLOG-POST-LIST:END -->
 
 ---
