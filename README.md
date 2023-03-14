@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI releases GPT-4, a multimodal AI that it claims is state-of-the-art](https://techcrunch.com/2023/03/14/openai-releases-gpt-4-ai-that-it-claims-is-state-of-the-art/)
+- [International Space Station fires thrusters to dodge space junk](https://www.space.com/international-space-station-dodge-space-junk-march-2023)
+- [First Republic bounces back as SVB panic lessens](https://techcrunch.com/2023/03/14/first-republic-bounces-back-as-svb-panic-lessens/)
 - [Chinese rocket stage crashes to Earth over Texas](https://www.space.com/chinese-rocket-stage-crashes-earth-over-texas)
 - [Anthropic launches Claude, a chatbot to rival OpenAI’s ChatGPT](https://techcrunch.com/2023/03/14/anthropic-launches-claude-a-chatbot-to-rival-openais-chatgpt/)
-- [Google Play Games for PC to roll out to Europe and Japan, add new titles including Garena Free Fire](https://techcrunch.com/2023/03/14/google-play-games-for-pc-to-roll-out-to-europe-and-japan-add-new-titles-including-garena-free-fire/)
-- [YouTube TV launches early access to a ‘multiview’ feature for watching four streams at once](https://techcrunch.com/2023/03/14/youtube-tv-launches-early-access-to-a-multiview-feature-for-watching-four-streams-at-once/)
-- [3 investors presage the future of startups and VC following SVB’s downfall](https://techcrunch.com/2023/03/14/svb-failure-investor-predictions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
