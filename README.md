@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nabla, a French digital health startup, launches Copilot, using GPT-3 to turn patient conversations into actionable items](https://techcrunch.com/2023/03/14/nabla-a-french-digital-health-startup-launches-copilot-using-gpt-3-to-turn-patient-conversations-into-actionable-items/)
+- [Apple launches a new way to shop online for iPhone with help from a live specialist](https://techcrunch.com/2023/03/14/apple-launches-a-new-way-to-shop-for-iphone-online-with-help-from-a-live-specialist/)
+- [UK gov’t asks National Cyber Security Centre to review TikTok](https://techcrunch.com/2023/03/14/tiktok-uk-ncsc-security-review/)
 - [Kakao to close Tapas Entertainment Korean office next month as part of a restructuring](https://techcrunch.com/2023/03/14/kakao-to-close-tapas-entertainment-korean-office-next-month-as-part-of-a-restructuring/)
 - [Inside Lightship’s electric RV](https://techcrunch.com/2023/03/14/inside-lightships-electric-rv/)
-- [Meta to cut another 10,000 jobs, Zuckerberg says](https://techcrunch.com/2023/03/14/meta-to-cut-another-10000-jobs-zuckerberg-says/)
-- [Metaverse payment platform Tilia gets new strategic investment from J.P Morgan](https://techcrunch.com/2023/03/14/metaverse-payment-platform-tilia-gets-new-strategic-investment-from-j-p-morgan/)
-- [How astronauts could farm on the moon with lunar soil nutrients](https://www.space.com/moon-farming-lunar-soil-nutrients)
 <!-- BLOG-POST-LIST:END -->
 
 ---
