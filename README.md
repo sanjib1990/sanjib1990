@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Nabla, a French digital health startup, launches Copilot, using GPT-3 to turn patient conversations into actionable items](https://techcrunch.com/2023/03/14/nabla-a-french-digital-health-startup-launches-copilot-using-gpt-3-to-turn-patient-conversations-into-actionable-items/)
-- [Apple launches a new way to shop online for iPhone with help from a live specialist](https://techcrunch.com/2023/03/14/apple-launches-a-new-way-to-shop-for-iphone-online-with-help-from-a-live-specialist/)
-- [UK gov’t asks National Cyber Security Centre to review TikTok](https://techcrunch.com/2023/03/14/tiktok-uk-ncsc-security-review/)
-- [Kakao to close Tapas Entertainment Korean office next month as part of a restructuring](https://techcrunch.com/2023/03/14/kakao-to-close-tapas-entertainment-korean-office-next-month-as-part-of-a-restructuring/)
-- [Inside Lightship’s electric RV](https://techcrunch.com/2023/03/14/inside-lightships-electric-rv/)
+- [Cvent to go private again in $4.6B Blackstone deal](https://techcrunch.com/2023/03/14/cvent-to-go-private-again-in-4-6b-blackstone-deal/)
+- [China&#39;s Zhurong Mars rover reveals seasonal wind changes in Red Planet weather report](https://www.space.com/china-mars-zhurong-rover-wind-changes)
+- [Google introduces Open Health Stack for developers](https://techcrunch.com/2023/03/14/google-introduces-open-health-stack-for-developers/)
+- [Google is making it easier to find low-cost healthcare centers in search results](https://techcrunch.com/2023/03/14/google-is-making-it-easier-to-find-low-cost-healthcare-centers-in-search-results/)
+- [TikTok is adding a dedicated feed for STEM content](https://techcrunch.com/2023/03/14/tiktok-is-adding-a-dedicated-feed-for-stem-content/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
