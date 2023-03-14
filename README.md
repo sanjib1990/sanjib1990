@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Copy that: RightHub wants to be the command center for intellectual property management](https://techcrunch.com/2023/03/14/copy-that-how-righthub-plans-to-bring-efficiency-and-collaboration-to-ip-management/)
-- [Mars-backed Bundle x Joy bags $1M to double its pet care footprint in retailers](https://techcrunch.com/2023/03/14/bundle-x-joy-pet-care-commerce/)
-- [Watch the half-lit last quarter moon rise tonight](https://www.space.com/last-quarter-moon-march-2023)
-- [Cloud security vendor Mitiga lands $45M, valuing the company at over $100M](https://techcrunch.com/2023/03/14/mitiga-raises-45m-for-cloud-security/)
-- [Time to trust: Questions cybersecurity customers ask and how to answer them](https://techcrunch.com/2023/03/14/time-to-trust-questions-cybersecurity-customers-ask-and-how-to-answer-them/)
+- [Kakao to close Tapas Entertainment Korean office next month as part of a restructuring](https://techcrunch.com/2023/03/14/kakao-to-close-tapas-entertainment-korean-office-next-month-as-part-of-a-restructuring/)
+- [Inside Lightship’s electric RV](https://techcrunch.com/2023/03/14/inside-lightships-electric-rv/)
+- [Meta to cut another 10,000 jobs, Zuckerberg says](https://techcrunch.com/2023/03/14/meta-to-cut-another-10000-jobs-zuckerberg-says/)
+- [Metaverse payment platform Tilia gets new strategic investment from J.P Morgan](https://techcrunch.com/2023/03/14/metaverse-payment-platform-tilia-gets-new-strategic-investment-from-j-p-morgan/)
+- [How astronauts could farm on the moon with lunar soil nutrients](https://www.space.com/moon-farming-lunar-soil-nutrients)
 <!-- BLOG-POST-LIST:END -->
 
 ---
