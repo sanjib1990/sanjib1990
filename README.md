@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [One of the best binoculars for kids on sale now just $30 with this half-price saving](https://www.space.com/occer-12x25-binoculars-deal-save-45-percent)
-- [Liftoff on Mars! Perseverance rover captures amazing video of Ingenuity helicopter flight](https://www.space.com/mars-helicopter-ingenuity-47th-red-planet-flight)
-- [Futurama reboot on Hulu: Release window, cast, where to watch, &amp; more](https://www.space.com/futurama-reboot-on-hulu-everything-we-know)
-- [Mark Zuckerberg says engineers who joined Meta in-person perform better than those who joined remotely](https://techcrunch.com/2023/03/14/mark-zuckerberg-says-engineers-who-joined-meta-in-person-perform-better-than-those-who-joined-remotely/)
-- [GPT-4’s new capabilities power a ‘virtual volunteer’ for the visually impaired](https://techcrunch.com/2023/03/14/gpt-4s-first-app-is-a-virtual-volunteer-for-the-visually-impaired/)
+- [Ring won’t say if it was hacked after ransomware gang claims attack](https://techcrunch.com/2023/03/14/ring-alphv-ransomware-attack/)
+- [With Evals, OpenAI hopes to crowdsource AI model testing](https://techcrunch.com/2023/03/14/with-evals-openai-hopes-to-crowdsource-ai-model-testing/)
+- [Scientists hail DART success 6 months after historic asteroid crash](https://www.space.com/scientists-hail-dart-asteroid-crash-success-six-months)
+- [Silicon Valley Bank’s new CEO urges customers to bring deposits back](https://techcrunch.com/2023/03/14/silicon-valley-banks-new-ceo-urges-customers-to-bring-deposits-back/)
+- [Duolingo launches new subscription tier with access to AI tutor powered by GPT-4](https://techcrunch.com/2023/03/14/duolingo-launches-new-subscription-tier-with-access-to-ai-tutor-powered-by-gpt-4/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
