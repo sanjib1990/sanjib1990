@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India probing ‘several’ crypto cases for money laundering, seizes over $115 million](https://techcrunch.com/2023/03/14/india-probing-several-crypto-cases-for-money-laundering-seizes-over-115-million/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [Pi Day turns 35: The circle of mathematics needs more diversity, advocates say](https://www.space.com/pi-day-35-year-anniversary-diversity-mathematics)
 - [Collapse of Silicon Valley Bank is felt by the space sector](https://www.space.com/silicon-valley-bank-collapse-space-industry-impacts)
 - [Nigerian credit-led fintech FairMoney acquires PayForce in retail-merchant banking play](https://techcrunch.com/2023/03/14/nigerian-credit-led-fintech-fairmoney-acquires-payforce-in-retail-merchant-banking-play/)
-- [AG5 throws a lifeline to a manufacturing industry drowning in spreadsheets](https://techcrunch.com/2023/03/14/ag5-fundraise/)
-- [Rethink rethinks mobility and logistics with new €50M fund](https://techcrunch.com/2023/03/14/rethink-logistics-fund/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
