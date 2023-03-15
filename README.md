@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Zero-based budgeting: A proven framework for extending runway](https://techcrunch.com/2023/03/15/zero-based-budgeting-a-proven-framework-for-extending-runway/)
+- [GitHub releases blueprint for budding open source program offices](https://techcrunch.com/2023/03/15/github-releases-blueprint-for-budding-open-source-program-offices/)
 - [Gamma Normid meteor shower peaks on March 15 for the southern hemisphere](https://www.space.com/gamma-normid-meteor-shower-peak-march-2023)
 - [Suspected US hypersonic missile test launch from Cape Canaveral scrubbed](https://www.space.com/us-hypersonic-missile-test-launch-scrubbed)
 - [Torch is building solar-powered outdoor sensors to spot wildfires early](https://techcrunch.com/2023/03/15/torch-is-building-solar-powered-outdoor-sensors-to-spot-wildfires-early/)
-- [Waze is making it easier for EV owners to find compatible charging points](https://techcrunch.com/2023/03/15/waze-is-making-it-easier-for-ev-owners-to-find-compatible-charging-points/)
-- [Medwing, a recruitment marketplace for Europe’s healthcare workforce, raises $47M](https://techcrunch.com/2023/03/14/medwing-a-recruitment-marketplace-for-europes-healthcare-workforce-raises-47m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
