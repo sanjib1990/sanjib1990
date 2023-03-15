@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Axiom Space targeting November 2023 for 3rd private astronaut mission to space station](https://www.space.com/axiom-space-ax-3-astronaut-mission-november-2023)
+- [Behold the new Moon Suit](https://techcrunch.com/2023/03/15/behold-the-new-moon-suit/)
+- [A retiree’s group for cheese toast lovers is an earnest glimpse of Weird Facebook](https://techcrunch.com/2023/03/15/a-retirees-group-for-cheese-toast-lovers-is-an-earnest-glimpse-of-weird-facebook/)
+- [The bizarre trailer for Peacock’s new series, ‘Mrs. Davis,’ features a war against AI](https://techcrunch.com/2023/03/15/peacock-mrs-davis-tv-series-trailer-ai/)
 - [UK Spring Budget: Government trumpets improved tax relief scheme for ‘R&amp;D-intensive SMEs’](https://techcrunch.com/2023/03/15/uk-spring-budget-government-trumpets-improved-tax-relief-scheme-for-rd-intensive-smes/)
-- [Sun spews &#39;dark plasma&#39; into space from its far side](https://www.space.com/sun-dark-plasma-far-side-storm)
-- [ADIA invests $500 million in Lenskart](https://techcrunch.com/2023/03/15/adia-invests-500-million-in-lenskart/)
-- [Save $310 on this Nikon Z5 camera and accessories bundle](https://www.space.com/nikon-z5-mirrorless-camera-deal-310-dollars-discount)
-- [Get utterly roasted by Carrot Weather’s new chatbot with ChatGPT update](https://techcrunch.com/2023/03/15/carrot-weather-app-new-chatbot-with-chatgpt-update/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
