@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s new air pollution sensor will monitor smog above America in real time](https://www.space.com/nasa-new-sensor-improves-air-pollution-monitoring)
-- [One founder’s account of what’s left behind from SVB’s crash](https://techcrunch.com/2023/03/15/one-founders-account-of-whats-left-behind-from-svbs-crash/)
-- [T-Mobile to acquire Ryan Reynolds’ Mint Mobile in $1.35 billion deal](https://techcrunch.com/2023/03/15/t-mobile-to-acquire-ryan-reynolds-mint-mobile-in-1-35-billion-deal/)
-- [Once scammed for ten grand, this VC is building a crypto security vault](https://techcrunch.com/2023/03/15/staging-labs-crypto-nft-fraud-prevention/)
-- [Axiom Space reveals prototype spacesuit for Artemis astronauts on the moon](https://www.space.com/axiom-space-artemis-moon-spacesuits-revealed)
+- [The trailer for “BlackBerry” just dropped, and you have to watch it](https://techcrunch.com/2023/03/15/the-trailer-for-blackberry-just-dropped-and-you-have-to-watch-it/)
+- [UK Spring Budget: Chancellor plans £1M annual AI prize, quantum investments, and a new £900M ‘exascale’ computer](https://techcrunch.com/2023/03/15/uk-spring-budget-chancellor-plans-1m-annual-ai-prize-quantum-investments-and-a-new-900m-exascale-computer/)
+- [AI’s ascendance seems unfazed by SVB mess](https://techcrunch.com/2023/03/15/svb-artificial-intelligence-progress/)
+- [Snapchat adds new parental controls that block ‘sensitive’ and ‘suggestive’ content from viewing by teens](https://techcrunch.com/2023/03/15/snapchat-adds-new-parental-controls-that-block-sensitive-and-suggestive-content-from-viewing-by-teens/)
+- [Police shut down dark web crypto laundering service linked to FTX hack](https://techcrunch.com/2023/03/15/police-shut-down-dark-web-crypto-laundering-service-linked-to-ftx-hack/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
