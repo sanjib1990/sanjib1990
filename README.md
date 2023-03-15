@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [UK Spring Budget: Government trumpets improved tax relief scheme for ‘R&amp;D-intensive SMEs’](https://techcrunch.com/2023/03/15/uk-spring-budget-government-trumpets-improved-tax-relief-scheme-for-rd-intensive-smes/)
+- [Sun spews &#39;dark plasma&#39; into space from its far side](https://www.space.com/sun-dark-plasma-far-side-storm)
+- [ADIA invests $500 million in Lenskart](https://techcrunch.com/2023/03/15/adia-invests-500-million-in-lenskart/)
+- [Save $310 on this Nikon Z5 camera and accessories bundle](https://www.space.com/nikon-z5-mirrorless-camera-deal-310-dollars-discount)
 - [Get utterly roasted by Carrot Weather’s new chatbot with ChatGPT update](https://techcrunch.com/2023/03/15/carrot-weather-app-new-chatbot-with-chatgpt-update/)
-- [Ghost debuts an anonymous group messaging app with ChatGPT baked in](https://techcrunch.com/2023/03/15/ghost-debuts-an-anonymous-group-messaging-app-with-chatgpt-baked-in/)
-- [Dish customers kept in the dark as ransomware fallout continues](https://techcrunch.com/2023/03/15/dish-customers-kept-in-the-dark-as-ransomware-fallout-continues/)
-- [Sling TV launches new features for sports fans, including picture-in-picture mode and an iOS widget](https://techcrunch.com/2023/03/15/sling-tv-launches-new-features-for-sports-fans-including-picture-in-picture-mode-and-an-ios-widget/)
-- [Verity raises $32M as IKEA stores deploy its inventory drones](https://techcrunch.com/2023/03/15/verity-raises-32m-as-ikea-stores-deploy-its-inventory-drones/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
