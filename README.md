@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Fine-dining meals delivered to your home are just an Entrée order away](https://techcrunch.com/2023/03/15/meal-delivery-entree-pre-seed/)
-- [UFO-shaped clouds invade skies over Keck Observatory in Hawaii &lpar;photos&rpar;](https://www.space.com/ufo-shaped-lenticular-clouds-keck-observatory-hawaii)
-- [‘Trust is a hard thing to earn’: SVB’s closure could disproportionately affect Black founders](https://techcrunch.com/2023/03/15/svb-collapse-black-founders-banking/)
-- [Save $300 on the Meade 16MP Monochrome Deep Sky Imager IV](https://www.space.com/meade-16mp-monochrome-deep-sky-imager-iv-astro-camera-deal-save-300-dollars)
-- [Practice your pitch with Kleiner Perkins and Sequoia Capital on TechCrunch Live](https://techcrunch.com/2023/03/15/practice-your-pitch-with-kleiner-perkins-and-sequoia-capital-on-techcrunch-live/)
+- [NASA&#39;s new air pollution sensor will monitor smog above America in real time](https://www.space.com/nasa-new-sensor-improves-air-pollution-monitoring)
+- [One founder’s account of what’s left behind from SVB’s crash](https://techcrunch.com/2023/03/15/one-founders-account-of-whats-left-behind-from-svbs-crash/)
+- [T-Mobile to acquire Ryan Reynolds’ Mint Mobile in $1.35 billion deal](https://techcrunch.com/2023/03/15/t-mobile-to-acquire-ryan-reynolds-mint-mobile-in-1-35-billion-deal/)
+- [Once scammed for ten grand, this VC is building a crypto security vault](https://techcrunch.com/2023/03/15/staging-labs-crypto-nft-fraud-prevention/)
+- [Axiom Space reveals prototype spacesuit for Artemis astronauts on the moon](https://www.space.com/axiom-space-artemis-moon-spacesuits-revealed)
 <!-- BLOG-POST-LIST:END -->
 
 ---
