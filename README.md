@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Zipline unveils cute little droid to make drone delivery more accurate](https://techcrunch.com/2023/03/15/zipline-unveils-cute-little-droid-to-make-drone-delivery-more-accurate/)
-- [Watch SpaceX Dragon cargo ship arrive at space station on March 16](https://www.space.com/spacex-dragon-crs-27-space-station-arrival)
-- [Zed raises $10M for a code editor built for collaboration](https://techcrunch.com/2023/03/15/zed-code-editor-raises-10m/)
-- [KuCoin and Circle back Chinese yuan-pegged stablecoin in $10M round](https://techcrunch.com/2023/03/15/circle-kucoin-chinese-yuan-stablecoin/)
-- [The trailer for “BlackBerry” just dropped, and you have to watch it](https://techcrunch.com/2023/03/15/the-trailer-for-blackberry-just-dropped-and-you-have-to-watch-it/)
+- [Dish customers kept in the dark as ransomware fallout continues](https://techcrunch.com/2023/03/15/dish-customers-kept-in-the-dark-as-ransomware-fallout-continues/)
+- [Sling TV launches new features for sports fans, including picture-in-picture mode and an iOS widget](https://techcrunch.com/2023/03/15/sling-tv-launches-new-features-for-sports-fans-including-picture-in-picture-mode-and-an-ios-widget/)
+- [Verity raises $32M as IKEA stores deploy its inventory drones](https://techcrunch.com/2023/03/15/verity-raises-32m-as-ikea-stores-deploy-its-inventory-drones/)
+- [BlaBlaCar to acquire Klaxit, a ride-sharing service for daily commutes](https://techcrunch.com/2023/03/15/blablacar-to-acquire-klaxit-a-ride-sharing-service-for-daily-commutes/)
+- [Facebook’s behavioral ads lacked legal basis, Dutch court rules](https://techcrunch.com/2023/03/15/facebook-dutch-ads-ruling/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
