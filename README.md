@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: T-Mobile buys Mint Mobile’s parent company in a deal worth up to $1.35B](https://techcrunch.com/2023/03/15/daily-crunch-t-mobile-buys-mint-mobiles-parent-company-in-a-deal-worth-up-to-1-35b/)
+- [Stripe now valued at $50B following $6.5B raise](https://techcrunch.com/2023/03/15/stripe-now-valued-at-50b-following-6-5b-raise/)
+- [Queen guitarist and astrophysicist Brian May knighted by King Charles III](https://www.space.com/queen-brian-may-astrophysicist-knighted-king-charles)
 - [Faint gravitational waves may be from primordial fractures in space-time](https://www.space.com/gravitational-waves-fractures-space-time-early-universe)
 - [Adept, a startup training AI to use existing software and APIs, raises $350M](https://techcrunch.com/2023/03/15/adept-a-startup-training-ai-to-use-existing-software-and-apis-raises-350m/)
-- [1st Native American woman astronaut wants the world to &#39;share in that joy&#39; after SpaceX Crew-5 flight](https://www.space.com/spacex-crew-5-native-american-woman-astronaut-nasa)
-- [Substack brings its ‘Chat’ discussions feature to the web](https://techcrunch.com/2023/03/15/substack-brings-its-chat-discussions-feature-to-the-web/)
-- [Axiom Space targeting November 2023 for 3rd private astronaut mission to space station](https://www.space.com/axiom-space-ax-3-astronaut-mission-november-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
