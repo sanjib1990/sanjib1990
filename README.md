@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Medwing, a recruitment marketplace for Europe’s healthcare workforce, raises $47M](https://techcrunch.com/2023/03/14/medwing-a-recruitment-marketplace-for-europes-healthcare-workforce-raises-47m/)
 - [Krafton backs Indian influencer marketing platform One Impression in $10M funding](https://techcrunch.com/2023/03/14/one-impression-krafton-india-funding/)
 - [TuSimple co-founder blames exit on CEO pay and autonomy downgrade](https://techcrunch.com/2023/03/14/tusimple-co-founder-blames-exit-on-ceo-pay-and-autonomy-downgrade/)
 - [Mental health startup Intellect partners with Asia’s largest private healthcare group](https://techcrunch.com/2023/03/14/intellect-ihh/)
 - [LexxPluss expands into US with its warehouse robots](https://techcrunch.com/2023/03/14/lexxpluss-expands-into-us-with-its-warehouse-robots/)
-- [India’s HealthPlix raises $22M to accelerate growth and enhance healthcare delivery](https://techcrunch.com/2023/03/14/healthplix-series-c-funding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
