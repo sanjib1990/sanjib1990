@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Faint gravitational waves may be from primordial fractures in space-time](https://www.space.com/gravitational-waves-fractures-space-time-early-universe)
+- [Adept, a startup training AI to use existing software and APIs, raises $350M](https://techcrunch.com/2023/03/15/adept-a-startup-training-ai-to-use-existing-software-and-apis-raises-350m/)
+- [1st Native American woman astronaut wants the world to &#39;share in that joy&#39; after SpaceX Crew-5 flight](https://www.space.com/spacex-crew-5-native-american-woman-astronaut-nasa)
+- [Substack brings its ‘Chat’ discussions feature to the web](https://techcrunch.com/2023/03/15/substack-brings-its-chat-discussions-feature-to-the-web/)
 - [Axiom Space targeting November 2023 for 3rd private astronaut mission to space station](https://www.space.com/axiom-space-ax-3-astronaut-mission-november-2023)
-- [Behold the new Moon Suit](https://techcrunch.com/2023/03/15/behold-the-new-moon-suit/)
-- [A retiree’s group for cheese toast lovers is an earnest glimpse of Weird Facebook](https://techcrunch.com/2023/03/15/a-retirees-group-for-cheese-toast-lovers-is-an-earnest-glimpse-of-weird-facebook/)
-- [The bizarre trailer for Peacock’s new series, ‘Mrs. Davis,’ features a war against AI](https://techcrunch.com/2023/03/15/peacock-mrs-davis-tv-series-trailer-ai/)
-- [UK Spring Budget: Government trumpets improved tax relief scheme for ‘R&amp;D-intensive SMEs’](https://techcrunch.com/2023/03/15/uk-spring-budget-government-trumpets-improved-tax-relief-scheme-for-rd-intensive-smes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
