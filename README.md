@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Zero-based budgeting: A proven framework for extending runway](https://techcrunch.com/2023/03/15/zero-based-budgeting-a-proven-framework-for-extending-runway/)
-- [GitHub releases blueprint for budding open source program offices](https://techcrunch.com/2023/03/15/github-releases-blueprint-for-budding-open-source-program-offices/)
-- [Gamma Normid meteor shower peaks on March 15 for the southern hemisphere](https://www.space.com/gamma-normid-meteor-shower-peak-march-2023)
-- [Suspected US hypersonic missile test launch from Cape Canaveral scrubbed](https://www.space.com/us-hypersonic-missile-test-launch-scrubbed)
-- [Torch is building solar-powered outdoor sensors to spot wildfires early](https://techcrunch.com/2023/03/15/torch-is-building-solar-powered-outdoor-sensors-to-spot-wildfires-early/)
+- [The Mandalorian season 3 episode 3 review: A fun diversion that actually makes sense](https://www.space.com/the-mandalorian-season-3-episode-3-review)
+- [China launches 2nd Horus remote-sensing satellite for Egypt &lpar;video&rpar;](https://www.space.com/china-launches-second-horus-satellite-egypt)
+- [Grafana acquires Pyroscope and merges it with its Phlare continuous profiling database](https://techcrunch.com/2023/03/15/grafana-acquires-pyroscope-and-merges-it-with-its-phlare-continuous-profiling-database/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [Quora’s Poe is launching subscriptions to let you chat with GPT-4 powered bot](https://techcrunch.com/2023/03/15/quoras-poe-is-launching-subscriptions-to-let-you-chat-with-gpt-4-powered-bot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
