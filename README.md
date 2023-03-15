@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [GPT-4 has been unleashed](https://www.youtube.com/watch?v=EunbKbPV2C0)
 - [The MIT 24-Hour Challenge is now!!](https://www.youtube.com/watch?v=oaaVwpHQ4RI)
 - [Ethics of AI Bias](https://www.youtube.com/watch?v=NgaW_p7gsRc)
 - [Silicon Valley had a bank... HAD](https://www.youtube.com/watch?v=nMdwS3A6zck)
 - [3 HACKING gadgets you have to TRY!!](https://www.youtube.com/watch?v=km81ph7pZz8)
-- [the PATH var of righteousness](https://www.youtube.com/watch?v=-J7EWBYipqI)
 <!-- YOUTUBE:END -->
 
 ---
