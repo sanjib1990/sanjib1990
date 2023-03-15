@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The Mandalorian season 3 episode 3 review: A fun diversion that actually makes sense](https://www.space.com/the-mandalorian-season-3-episode-3-review)
-- [China launches 2nd Horus remote-sensing satellite for Egypt &lpar;video&rpar;](https://www.space.com/china-launches-second-horus-satellite-egypt)
-- [Grafana acquires Pyroscope and merges it with its Phlare continuous profiling database](https://techcrunch.com/2023/03/15/grafana-acquires-pyroscope-and-merges-it-with-its-phlare-continuous-profiling-database/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [Quora’s Poe is launching subscriptions to let you chat with GPT-4 powered bot](https://techcrunch.com/2023/03/15/quoras-poe-is-launching-subscriptions-to-let-you-chat-with-gpt-4-powered-bot/)
+- [Fine-dining meals delivered to your home are just an Entrée order away](https://techcrunch.com/2023/03/15/meal-delivery-entree-pre-seed/)
+- [UFO-shaped clouds invade skies over Keck Observatory in Hawaii &lpar;photos&rpar;](https://www.space.com/ufo-shaped-lenticular-clouds-keck-observatory-hawaii)
+- [‘Trust is a hard thing to earn’: SVB’s closure could disproportionately affect Black founders](https://techcrunch.com/2023/03/15/svb-collapse-black-founders-banking/)
+- [Save $300 on the Meade 16MP Monochrome Deep Sky Imager IV](https://www.space.com/meade-16mp-monochrome-deep-sky-imager-iv-astro-camera-deal-save-300-dollars)
+- [Practice your pitch with Kleiner Perkins and Sequoia Capital on TechCrunch Live](https://techcrunch.com/2023/03/15/practice-your-pitch-with-kleiner-perkins-and-sequoia-capital-on-techcrunch-live/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
