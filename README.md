@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [LexxPluss expands into US with its warehouse robots](https://techcrunch.com/2023/03/14/lexxpluss-expands-into-us-with-its-warehouse-robots/)
+- [India’s HealthPlix raises $22M to accelerate growth and enhance healthcare delivery](https://techcrunch.com/2023/03/14/healthplix-series-c-funding/)
+- [Europe’s Bolt expands to Nepal with ride-hailing service](https://techcrunch.com/2023/03/14/bolt-nepal-launch/)
 - [Tesla has a home battery to sell you, with or without solar](https://techcrunch.com/2023/03/14/tesla-has-a-home-battery-to-sell-you-with-or-without-solar/)
 - [Reddit has been down for hours](https://techcrunch.com/2023/03/14/reddit-has-been-down-for-hours/)
-- [California agency must provide Tesla with details of racial bias investigation](https://techcrunch.com/2023/03/14/california-agency-must-provide-tesla-with-details-of-racial-bias-investigation/)
-- [Daily Crunch: Meta’s ‘year of efficiency’ continues as CEO announces plans to dismiss 10,000 more workers](https://techcrunch.com/2023/03/14/daily-crunch-metas-year-of-efficiency-continues-as-ceo-announces-plans-to-dismiss-10000-more-workers/)
-- [&#39;Everything Everywhere All At Once&#39; is now the most celebrated sci-fi film in Oscar history](https://www.space.com/everything-everywhere-all-at-once-most-celebrated-oscars-sci-fi-film)
 <!-- BLOG-POST-LIST:END -->
 
 ---
