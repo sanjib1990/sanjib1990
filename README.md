@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [GPT-4 has been unleashed](https://www.youtube.com/watch?v=EunbKbPV2C0)
-- [Ethics of AI Bias](https://www.youtube.com/watch?v=NgaW_p7gsRc)
-- [Silicon Valley had a bank... HAD](https://www.youtube.com/watch?v=nMdwS3A6zck)
-- [3 HACKING gadgets you have to TRY!!](https://www.youtube.com/watch?v=km81ph7pZz8)
-- [the PATH var of righteousness](https://www.youtube.com/watch?v=-J7EWBYipqI)
+- [Video 5:  Kanji in Tobira Lesson 5](https://www.youtube.com/watch?v=q7WZdYAaVtQ)
+- [Video 4:  Kanji in Tobira Lesson 4](https://www.youtube.com/watch?v=TxKzqbpLi0Y)
+- [Video 1:  Kanji in Tobira Lesson 1](https://www.youtube.com/watch?v=_FtXi0_ZMvk)
+- [Video 3:  Kanji in Tobira Lesson 3](https://www.youtube.com/watch?v=3N1A14hQjZA)
+- [Video 2:  Kanji in Tobira Lesson 2](https://www.youtube.com/watch?v=zZlD3c_1PLg)
 <!-- YOUTUBE:END -->
 
 ---
