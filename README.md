@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Torch is building solar-powered outdoor sensors to spot wildfires early](https://techcrunch.com/2023/03/15/torch-is-building-solar-powered-outdoor-sensors-to-spot-wildfires-early/)
 - [Waze is making it easier for EV owners to find compatible charging points](https://techcrunch.com/2023/03/15/waze-is-making-it-easier-for-ev-owners-to-find-compatible-charging-points/)
 - [Medwing, a recruitment marketplace for Europe’s healthcare workforce, raises $47M](https://techcrunch.com/2023/03/14/medwing-a-recruitment-marketplace-for-europes-healthcare-workforce-raises-47m/)
 - [Krafton backs Indian influencer marketing platform One Impression in $10M funding](https://techcrunch.com/2023/03/14/one-impression-krafton-india-funding/)
 - [TuSimple co-founder blames exit on CEO pay and autonomy downgrade](https://techcrunch.com/2023/03/14/tusimple-co-founder-blames-exit-on-ceo-pay-and-autonomy-downgrade/)
-- [Mental health startup Intellect partners with Asia’s largest private healthcare group](https://techcrunch.com/2023/03/14/intellect-ihh/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
