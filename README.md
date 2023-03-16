@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Maple leaf to the moon: Canadian Space Agency debuts new logo](https://www.space.com/canadian-space-agency-csa-new-logo)
-- [Finance YouTubers sued over promotion of FTX](https://techcrunch.com/2023/03/16/finance-youtubers-sued-over-promotion-of-ftx/)
-- [Goodbye Google Glass, we knew you well](https://techcrunch.com/2023/03/16/goodbye-google-glass-we-knew-you-well/)
-- [Anonymous app Sidechat picks up rival Yik Yak…and users aren’t happy](https://techcrunch.com/2023/03/16/anonymous-app-sidechat-picks-up-rival-yik-yak-and-users-arent-happy/)
-- [Wedding platform Joy will let you outsource your vows to OpenAI](https://techcrunch.com/2023/03/16/wedding-platform-joy-will-let-you-outsource-your-vows-to-openai/)
+- [Daily Crunch: Microsoft waives its waitlist and opens up its AI-powered Bing chatbot to all](https://techcrunch.com/2023/03/16/daily-crunch-microsoft-waives-its-waitlist-and-opens-up-its-ai-powered-bing-chatbot-to-all/)
+- [At Virgin Orbit, it never should’ve come to a staff furlough](https://techcrunch.com/2023/03/16/virgin-orbit-staff-furlough/)
+- [Scientists discover signs of &#39;modern&#39; glacier on Mars that hints at buried water ice](https://www.space.com/mars-modern-glacier-buried-water)
+- [Pornhub owner MindGeek sold to private equity firm](https://techcrunch.com/2023/03/16/pornhub-owner-mindgeek-sold-to-private-equity-firm/)
+- [Watch a small asteroid fly by Earth closer than the moon tonight in this free livestream](https://www.space.com/asteroid-earth-flyby-march-2023-livestream)
 <!-- BLOG-POST-LIST:END -->
 
 ---
