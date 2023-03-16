@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [5 strategies for biotech startups to outlast a market downturn](https://techcrunch.com/2023/03/16/5-strategies-biotech-startups-outlast-market-downturn/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [Not dead yet: Active volcano spotted on Venus](https://www.space.com/venus-active-volcano-nasa-magellan-mission)
 - [New Horizons Pluto probe notches 3 more discoveries in outer solar system](https://www.space.com/nasa-new-horizons-pluto-probe-lpsc-2023-discoveries)
 - [The Climate Choice wants to make supply chain emissions more visible and more green](https://techcrunch.com/2023/03/16/the-climate-choice/)
-- [MLOps platform Seldon raises £20M Series B to improve the productions of AI models](https://techcrunch.com/2023/03/16/mlops-platform-seldon-raises-20m-series-b-to-improve-the-productions-of-ai-models/)
-- [SVB collapse forces African startups to rethink their banking options](https://techcrunch.com/2023/03/16/svb-collapse-forces-african-startups-to-rethink-their-banking-options/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
