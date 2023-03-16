@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Bitcoin rises about 14% in 7-day span as US banking system wobbles](https://techcrunch.com/2023/03/16/bitcoin-rises-about-14-in-7-day-span-as-u-s-banking-system-wobbles/)
-- [Solving space junk problem may require lasers and space tugs, NASA says](https://www.space.com/space-debris-lasers-space-tugs-nasa-report)
-- [‘BRB, storing my money in gold’: Founders scramble to figure out which banks are safe](https://techcrunch.com/2023/03/16/bank-volatility-svb-first-republic/)
-- [Mistaking performance for competence](https://techcrunch.com/2023/03/16/mistaking-performance-for-competence/)
-- [First Republic Bank could see $30B in rescue deposits coming, report says](https://techcrunch.com/2023/03/16/first-republic-bank-rescue-deposits/)
+- [Anonymous app Sidechat picks up rival Yik Yak…and users aren’t happy](https://techcrunch.com/2023/03/16/anonymous-app-sidechat-picks-up-rival-yik-yak-and-users-arent-happy/)
+- [Wedding platform Joy will let you outsource your vows to OpenAI](https://techcrunch.com/2023/03/16/wedding-platform-joy-will-let-you-outsource-your-vows-to-openai/)
+- [Student-led &#39;beach ball&#39; space antenna aims to boost cubesat communications](https://www.space.com/student-cubesat-beach-ball-antenna-catsat)
+- [Course Hero, edtech unicorn last valued at $3.6 billion, conducts layoffs](https://techcrunch.com/2023/03/16/course-hero-edtech-unicorn-last-valued-at-3-6-billion-conducts-layoffs/)
+- [China’s ChatGPT rival Baidu Ernie is off to a rough start](https://techcrunch.com/2023/03/16/baidu-chatgpt-launch-china/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
