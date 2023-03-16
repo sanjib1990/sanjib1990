@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Maple leaf to the moon: Canadian Space Agency debuts new logo](https://www.space.com/canadian-space-agency-csa-new-logo)
+- [Finance YouTubers sued over promotion of FTX](https://techcrunch.com/2023/03/16/finance-youtubers-sued-over-promotion-of-ftx/)
+- [Goodbye Google Glass, we knew you well](https://techcrunch.com/2023/03/16/goodbye-google-glass-we-knew-you-well/)
 - [Anonymous app Sidechat picks up rival Yik Yak…and users aren’t happy](https://techcrunch.com/2023/03/16/anonymous-app-sidechat-picks-up-rival-yik-yak-and-users-arent-happy/)
 - [Wedding platform Joy will let you outsource your vows to OpenAI](https://techcrunch.com/2023/03/16/wedding-platform-joy-will-let-you-outsource-your-vows-to-openai/)
-- [Student-led &#39;beach ball&#39; space antenna aims to boost cubesat communications](https://www.space.com/student-cubesat-beach-ball-antenna-catsat)
-- [Course Hero, edtech unicorn last valued at $3.6 billion, conducts layoffs](https://techcrunch.com/2023/03/16/course-hero-edtech-unicorn-last-valued-at-3-6-billion-conducts-layoffs/)
-- [China’s ChatGPT rival Baidu Ernie is off to a rough start](https://techcrunch.com/2023/03/16/baidu-chatgpt-launch-china/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
