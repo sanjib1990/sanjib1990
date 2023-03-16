@@ -95,7 +95,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [How to pitch me: 7 investors discuss what they’re looking for in March 2023](https://techcrunch.com/2023/03/15/how-to-pitch-me-7-investors-discuss-what-theyre-looking-for-in-march-2023/)
-- [Klaviyo conducts company-wide layoffs](https://techcrunch.com/2023/03/15/klaviyo-conducts-company-wide-layoffs/)
+- [Klaviyo conducts companywide layoffs](https://techcrunch.com/2023/03/15/klaviyo-conducts-company-wide-layoffs/)
 - [1st Artemis spacesuits to be worn on the moon will not return to Earth](https://www.space.com/axiom-space-axemu-artemis-3-spacesuits-fate)
 - [Daily Crunch: T-Mobile buys Mint Mobile’s parent company in a deal worth up to $1.35B](https://techcrunch.com/2023/03/15/daily-crunch-t-mobile-buys-mint-mobiles-parent-company-in-a-deal-worth-up-to-1-35b/)
 - [Stripe now valued at $50B following $6.5B raise](https://techcrunch.com/2023/03/15/stripe-now-valued-at-50b-following-6-5b-raise/)
