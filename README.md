@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Climate Choice wants to make supply chain emissions more visible and more green](https://techcrunch.com/2023/03/16/the-climate-choice/)
+- [MLOps platform Seldon raises £20M Series B to improve the productions of AI models](https://techcrunch.com/2023/03/16/mlops-platform-seldon-raises-20m-series-b-to-improve-the-productions-of-ai-models/)
+- [SVB collapse forces African startups to rethink their banking options](https://techcrunch.com/2023/03/16/svb-collapse-forces-african-startups-to-rethink-their-banking-options/)
 - [Bing said to remove waitlist for its GPT-4 powered chat](https://techcrunch.com/2023/03/16/bing-said-to-remove-waitlist-for-its-gpt-4-powered-chat/)
 - [IT-as-a-Service startup Deeploi raises €3M](https://techcrunch.com/2023/03/15/it-as-a-service-startup-deeploi-raises-e3m/)
-- [The FTC finalizes Epic’s $245 million settlement over sketchy Fortnite purchases](https://techcrunch.com/2023/03/15/ftc-fortnite-epic-games-purchases-settlement/)
-- [Dear Sophie: How can I return to the United States as a founder?](https://techcrunch.com/2023/03/15/dear-sophie-how-can-i-return-to-the-united-states-as-a-founder/)
-- [How to pitch me: 7 investors discuss what they’re looking for in March 2023](https://techcrunch.com/2023/03/15/how-to-pitch-me-7-investors-discuss-what-theyre-looking-for-in-march-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
