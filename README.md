@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Not dead yet: Active volcano spotted on Venus](https://www.space.com/venus-active-volcano-nasa-magellan-mission)
+- [New Horizons Pluto probe notches 3 more discoveries in outer solar system](https://www.space.com/nasa-new-horizons-pluto-probe-lpsc-2023-discoveries)
 - [The Climate Choice wants to make supply chain emissions more visible and more green](https://techcrunch.com/2023/03/16/the-climate-choice/)
 - [MLOps platform Seldon raises £20M Series B to improve the productions of AI models](https://techcrunch.com/2023/03/16/mlops-platform-seldon-raises-20m-series-b-to-improve-the-productions-of-ai-models/)
 - [SVB collapse forces African startups to rethink their banking options](https://techcrunch.com/2023/03/16/svb-collapse-forces-african-startups-to-rethink-their-banking-options/)
-- [Bing said to remove waitlist for its GPT-4 powered chat](https://techcrunch.com/2023/03/16/bing-said-to-remove-waitlist-for-its-gpt-4-powered-chat/)
-- [IT-as-a-Service startup Deeploi raises €3M](https://techcrunch.com/2023/03/15/it-as-a-service-startup-deeploi-raises-e3m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
