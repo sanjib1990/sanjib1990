@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Everything you need to get caught up on the SVB crisis](https://techcrunch.com/2023/03/16/svb-crash-2023-timeline/)
+- [Technical recruitment platform Karat snaps up Triplebyte to add AI-based quizzes for engineers](https://techcrunch.com/2023/03/16/technical-recruitment-platform-karat-snaps-up-triplebyte-to-add-ai-based-quizzes-for-engineers/)
+- [Virgin Orbit pauses operations for a week to conduct a search for cash](https://techcrunch.com/2023/03/16/virgin-orbit-pauses-operations-for-a-week-to-conduct-a-search-for-cash/)
 - [Artifact co-founder Kevin Systrom on the SVB crisis, its further impacts and future of tech](https://techcrunch.com/2023/03/16/artifact-co-founder-kevin-systrom-on-the-svb-crisis-its-further-impacts-and-future-of-tech/)
 - [Microsoft’s new Power Platform AI copilot will build your apps for you](https://techcrunch.com/2023/03/16/microsofts-new-power-platform-ai-copilot-will-build-your-apps-for-you/)
-- [Employees at Epic-owned Bandcamp form union](https://techcrunch.com/2023/03/16/employees-at-epic-owned-bandcamp-form-union/)
-- [Twitch CEO Emmett Shear is stepping down](https://techcrunch.com/2023/03/16/twitch-ceo-emmett-shear-is-stepping-down/)
-- [Bummed out from the last week? Here’s some bullish news for software companies](https://techcrunch.com/2023/03/16/svb-uipath-pagerduty-saas/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
