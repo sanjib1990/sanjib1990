@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Here’s a new corporate card startup, backed by $157M in equity, debt, going after Brex, Ramp](https://techcrunch.com/2023/03/16/parker-ecommerce-corporate-card-fintech/)
+- [Warp brings an AI bot to its terminal](https://techcrunch.com/2023/03/16/warp-brings-an-ai-bot-to-its-terminal/)
+- [SpaceX delivers new science experiments to ISS to explore origins of life on Earth](https://www.space.com/crew-6-crs-27-international-space-station-science)
+- [Via confirms it’s acquired trip planning app Citymapper to boost its transit tech](https://techcrunch.com/2023/03/16/via-acquires-trip-planning-app-citymapper-to-boost-transit-tech/)
 - [Use of Meta tracking tools found to breach EU rules on data transfers](https://techcrunch.com/2023/03/16/meta-tracking-gdpr-data-transfer-breach/)
-- [Mavn launches its app to connect influencers with brands and provide paid experiences](https://techcrunch.com/2023/03/16/mavn-launches-its-app-to-connect-influencers-with-brands-and-provide-paid-experiences/)
-- [Everything we know about Spider-Man: Across the Spider-Verse](https://www.space.com/spider-man-across-the-spider-verse-everything-we-know-release-date-plot)
-- [Ledger launches browser extension to improve crypto wallet connectivity](https://techcrunch.com/2023/03/16/ledger-launches-browser-wallet-extension-to-improve-crypto-connectivity/)
-- [TikTok’s new feature lets you refresh your For You feed and retrain your algorithm](https://techcrunch.com/2023/03/16/tiktoks-new-feature-lets-you-refresh-your-for-you-feed-and-retrain-your-algorithm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
