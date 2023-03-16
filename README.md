@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Here’s a new corporate card startup, backed by $157M in equity, debt, going after Brex, Ramp](https://techcrunch.com/2023/03/16/parker-ecommerce-corporate-card-fintech/)
-- [Warp brings an AI bot to its terminal](https://techcrunch.com/2023/03/16/warp-brings-an-ai-bot-to-its-terminal/)
-- [SpaceX delivers new science experiments to ISS to explore origins of life on Earth](https://www.space.com/crew-6-crs-27-international-space-station-science)
-- [Via confirms it’s acquired trip planning app Citymapper to boost its transit tech](https://techcrunch.com/2023/03/16/via-acquires-trip-planning-app-citymapper-to-boost-transit-tech/)
-- [Use of Meta tracking tools found to breach EU rules on data transfers](https://techcrunch.com/2023/03/16/meta-tracking-gdpr-data-transfer-breach/)
+- [Cast AI raises $20M to help companies reduce cloud spend](https://techcrunch.com/2023/03/16/cast-ai-raises-20m-to-help-companies-reduce-cloud-spend/)
+- [Jupiter moon Europa&#39;s buried ocean may alter rotation of its icy shell](https://www.space.com/jupiter-moon-europa-ocean-shell-rotation)
+- [The UK joins other countries in banning TikTok from Government devices](https://techcrunch.com/2023/03/16/the-uk-joins-other-countries-in-banning-tiktok-from-government-devices/)
+- [Ember is in the baby bottle business now](https://techcrunch.com/2023/03/16/ember-is-in-the-baby-bottle-business-now/)
+- [Camo 2 launches with support for any camera, new tools and more](https://techcrunch.com/2023/03/16/camo-2-launches-with-support-for-any-camera-new-effects-and-more/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
