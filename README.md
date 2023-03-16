@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Yandex and 4 other Russian tech firms to be delisted from Nasdaq and NYSE](https://techcrunch.com/2023/03/16/yandex-and-4-other-russian-tech-firms-to-be-delisted-from-nasdaq-and-nyse/)
-- [Apple is reportedly experimenting with language-generating AI](https://techcrunch.com/2023/03/16/apple-is-reportedly-experimenting-with-language-generating-ai/)
-- [Nimble makes the leap to fully automated third-party logistics warehouses](https://techcrunch.com/2023/03/16/nimble-makes-the-leap-to-fully-automated-third-party-logistics-warehouses/)
-- [Orion constellation goes from hunter to hunted in the March night sky](https://www.space.com/orion-constellation-nebula-march-2023)
-- [Fairmatic raises $46M to bring AI to commercial auto insurance](https://techcrunch.com/2023/03/16/fairmatic-raises-46m-to-bring-ai-to-commercial-auto-insurance/)
+- [Use of Meta tracking tools found to breach EU rules on data transfers](https://techcrunch.com/2023/03/16/meta-tracking-gdpr-data-transfer-breach/)
+- [Mavn launches its app to connect influencers with brands and provide paid experiences](https://techcrunch.com/2023/03/16/mavn-launches-its-app-to-connect-influencers-with-brands-and-provide-paid-experiences/)
+- [Everything we know about Spider-Man: Across the Spider-Verse](https://www.space.com/spider-man-across-the-spider-verse-everything-we-know-release-date-plot)
+- [Ledger launches browser extension to improve crypto wallet connectivity](https://techcrunch.com/2023/03/16/ledger-launches-browser-wallet-extension-to-improve-crypto-connectivity/)
+- [TikTok’s new feature lets you refresh your For You feed and retrain your algorithm](https://techcrunch.com/2023/03/16/tiktoks-new-feature-lets-you-refresh-your-for-you-feed-and-retrain-your-algorithm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
