@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [5 strategies for biotech startups to outlast a market downturn](https://techcrunch.com/2023/03/16/5-strategies-biotech-startups-outlast-market-downturn/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [Not dead yet: Active volcano spotted on Venus](https://www.space.com/venus-active-volcano-nasa-magellan-mission)
-- [New Horizons Pluto probe notches 3 more discoveries in outer solar system](https://www.space.com/nasa-new-horizons-pluto-probe-lpsc-2023-discoveries)
-- [The Climate Choice wants to make supply chain emissions more visible and more green](https://techcrunch.com/2023/03/16/the-climate-choice/)
+- [Yandex and 4 other Russian tech firms to be delisted from Nasdaq and NYSE](https://techcrunch.com/2023/03/16/yandex-and-4-other-russian-tech-firms-to-be-delisted-from-nasdaq-and-nyse/)
+- [Apple is reportedly experimenting with language-generating AI](https://techcrunch.com/2023/03/16/apple-is-reportedly-experimenting-with-language-generating-ai/)
+- [Nimble makes the leap to fully automated third-party logistics warehouses](https://techcrunch.com/2023/03/16/nimble-makes-the-leap-to-fully-automated-third-party-logistics-warehouses/)
+- [Orion constellation goes from hunter to hunted in the March night sky](https://www.space.com/orion-constellation-nebula-march-2023)
+- [Fairmatic raises $46M to bring AI to commercial auto insurance](https://techcrunch.com/2023/03/16/fairmatic-raises-46m-to-bring-ai-to-commercial-auto-insurance/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
