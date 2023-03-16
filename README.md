@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bing said to remove waitlist for its GPT-4 powered chat](https://techcrunch.com/2023/03/16/bing-said-to-remove-waitlist-for-its-gpt-4-powered-chat/)
 - [IT-as-a-Service startup Deeploi raises €3M](https://techcrunch.com/2023/03/15/it-as-a-service-startup-deeploi-raises-e3m/)
 - [The FTC finalizes Epic’s $245 million settlement over sketchy Fortnite purchases](https://techcrunch.com/2023/03/15/ftc-fortnite-epic-games-purchases-settlement/)
 - [Dear Sophie: How can I return to the United States as a founder?](https://techcrunch.com/2023/03/15/dear-sophie-how-can-i-return-to-the-united-states-as-a-founder/)
 - [How to pitch me: 7 investors discuss what they’re looking for in March 2023](https://techcrunch.com/2023/03/15/how-to-pitch-me-7-investors-discuss-what-theyre-looking-for-in-march-2023/)
-- [Klaviyo conducts companywide layoffs](https://techcrunch.com/2023/03/15/klaviyo-conducts-company-wide-layoffs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
