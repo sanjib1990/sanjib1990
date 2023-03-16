@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Automata &amp; Python - Computerphile](https://www.youtube.com/watch?v=32bC33nJR3A)
 - [Video 5:  Kanji in Tobira Lesson 5](https://www.youtube.com/watch?v=q7WZdYAaVtQ)
 - [Video 4:  Kanji in Tobira Lesson 4](https://www.youtube.com/watch?v=TxKzqbpLi0Y)
 - [Video 1:  Kanji in Tobira Lesson 1](https://www.youtube.com/watch?v=_FtXi0_ZMvk)
 - [Video 3:  Kanji in Tobira Lesson 3](https://www.youtube.com/watch?v=3N1A14hQjZA)
-- [Video 2:  Kanji in Tobira Lesson 2](https://www.youtube.com/watch?v=zZlD3c_1PLg)
 <!-- YOUTUBE:END -->
 
 ---
