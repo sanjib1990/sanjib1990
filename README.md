@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bitcoin rises about 14% in 7-day span as US banking system wobbles](https://techcrunch.com/2023/03/16/bitcoin-rises-about-14-in-7-day-span-as-u-s-banking-system-wobbles/)
+- [Solving space junk problem may require lasers and space tugs, NASA says](https://www.space.com/space-debris-lasers-space-tugs-nasa-report)
+- [‘BRB, storing my money in gold’: Founders scramble to figure out which banks are safe](https://techcrunch.com/2023/03/16/bank-volatility-svb-first-republic/)
+- [Mistaking performance for competence](https://techcrunch.com/2023/03/16/mistaking-performance-for-competence/)
 - [First Republic Bank could see $30B in rescue deposits coming, report says](https://techcrunch.com/2023/03/16/first-republic-bank-rescue-deposits/)
-- [Top crypto app downloads rise over 15% following SVB collapse](https://techcrunch.com/2023/03/16/top-crypto-app-downloads-rise-over-15-following-svb-collapse/)
-- [Asteroid feared to hit Earth in 2046 will almost certainly miss, NASA says](https://www.space.com/asteroid-2046-will-almost-certainly-miss-earth)
-- [Pitch Deck Teardown: StudentFinance’s $41M Series A deck](https://techcrunch.com/2023/03/16/sample-series-a-pitch-deck-studentfinance/)
-- [Virgin Orbit pauses operations while it looks for funding](https://www.space.com/virgin-orbit-pauses-operations-seeks-funding)
 <!-- BLOG-POST-LIST:END -->
 
 ---
