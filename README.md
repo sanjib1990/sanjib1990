@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Everything you need to get caught up on the SVB crisis](https://techcrunch.com/2023/03/16/svb-crash-2023-timeline/)
-- [Technical recruitment platform Karat snaps up Triplebyte to add AI-based quizzes for engineers](https://techcrunch.com/2023/03/16/technical-recruitment-platform-karat-snaps-up-triplebyte-to-add-ai-based-quizzes-for-engineers/)
-- [Virgin Orbit pauses operations for a week to conduct a search for cash](https://techcrunch.com/2023/03/16/virgin-orbit-pauses-operations-for-a-week-to-conduct-a-search-for-cash/)
-- [Artifact co-founder Kevin Systrom on the SVB crisis, its further impacts and future of tech](https://techcrunch.com/2023/03/16/artifact-co-founder-kevin-systrom-on-the-svb-crisis-its-further-impacts-and-future-of-tech/)
-- [Microsoft’s new Power Platform AI copilot will build your apps for you](https://techcrunch.com/2023/03/16/microsofts-new-power-platform-ai-copilot-will-build-your-apps-for-you/)
+- [First Republic Bank could see $30B in rescue deposits coming, report says](https://techcrunch.com/2023/03/16/first-republic-bank-rescue-deposits/)
+- [Top crypto app downloads rise over 15% following SVB collapse](https://techcrunch.com/2023/03/16/top-crypto-app-downloads-rise-over-15-following-svb-collapse/)
+- [Asteroid feared to hit Earth in 2046 will almost certainly miss, NASA says](https://www.space.com/asteroid-2046-will-almost-certainly-miss-earth)
+- [Pitch Deck Teardown: StudentFinance’s $41M Series A deck](https://techcrunch.com/2023/03/16/sample-series-a-pitch-deck-studentfinance/)
+- [Virgin Orbit pauses operations while it looks for funding](https://www.space.com/virgin-orbit-pauses-operations-seeks-funding)
 <!-- BLOG-POST-LIST:END -->
 
 ---
