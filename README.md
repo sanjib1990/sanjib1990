@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TikTok and MLS enter multi-year partnership to deepen the league’s presence on the app](https://techcrunch.com/2023/03/17/tiktok-and-mls-enter-multi-year-partnership-to-deepen-the-leagues-presence-on-the-app/)
-- [YouTube reinstates Donald Trump’s account](https://techcrunch.com/2023/03/17/youtube-reinstates-donald-trumps-account/)
-- [Banking isn’t the only ‘single point of failure’ entrepreneurs should be rethinking](https://techcrunch.com/2023/03/17/svb-crash-balancing-risk/)
-- [Don’t use Sam Altman and AI hype in the same sentence](https://techcrunch.com/2023/03/17/sam-altman-ai-hype-gpt-4-update/)
-- [Unearthly Materials claimed to have big-name investors, but they weren’t all on board](https://techcrunch.com/2023/03/17/unearthly-materials-superconductors-investors/)
+- [China&#39;s 1st liquid-fueled rocket moved to launch pad for liftoff this month](https://www.space.com/china-tianlong-2-1st-liquid-rocket-launch-pad)
+- [Will software for CFOs create a bright spot in a battered fintech market?](https://techcrunch.com/2023/03/17/cfo-software-stack-fintech/)
+- [Meta launches paid verification on Instagram and Facebook in the US](https://techcrunch.com/2023/03/17/meta-launches-paid-verification-on-instagram-and-facebook-in-the-us/)
+- [NASA&#39;s Parker Solar Probe makes its 15th close flyby of the sun this St. Patrick&#39;s Day](https://www.space.com/parker-solar-probe-sun-flyby-perihelion-15)
+- [TikTok and MLS enter multiyear partnership to deepen the league’s presence on the app](https://techcrunch.com/2023/03/17/tiktok-and-mls-enter-multi-year-partnership-to-deepen-the-leagues-presence-on-the-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
