@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA asteroid sample return mission to land on U.S. postage stamp](https://www.space.com/usps-osiris-rex-return-to-earth-postage-stamp)
+- [Doubleheader! Watch SpaceX launch 2 rockets less than 5 hours apart today](https://www.space.com/spacex-launch-doubleheader-march-2023)
 - [OpenAI’s ChatGPT Plus subscription launches in India](https://techcrunch.com/2023/03/16/chatgpt-plus-india/)
 - [Walmart invests $200 million in Indian mobile payments giant PhonePe](https://techcrunch.com/2023/03/16/walmart-invests-200-million-in-indian-mobile-payments-giant-phonepe/)
 - [The US government ramps up its pressure campaign against TikTok](https://techcrunch.com/2023/03/16/the-us-government-ramps-up-its-pressure-campaign-against-tiktok/)
-- [Daily Crunch: Microsoft waives its waitlist and opens up its AI-powered Bing chatbot to all](https://techcrunch.com/2023/03/16/daily-crunch-microsoft-waives-its-waitlist-and-opens-up-its-ai-powered-bing-chatbot-to-all/)
-- [At Virgin Orbit, it never should’ve come to a staff furlough](https://techcrunch.com/2023/03/16/virgin-orbit-staff-furlough/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
