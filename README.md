@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX launches 52 Starlink satellites, lands rocket at sea](https://www.space.com/spacex-starlink-satellite-launch-group-2-8)
+- [Exoplanets, dark matter and more: Big discoveries coming from James Webb Space Telescope, astronomers say](https://www.space.com/james-webb-space-telescope-big-discoveries-coming)
+- [&#39;Star Trek: Strange New Worlds&#39; Season 1 warps onto Blu-ray and we&#39;ve got an exclusive clip](https://www.space.com/star-trek-strange-new-worlds-season-1-blu-ray)
 - [Rawr? Green Li-ion recharges with $20.5M to scale its recycling tech](https://techcrunch.com/2023/03/17/rawr-green-li-ion-recharges-with-20-5m-to-scale-its-recycling-tech/)
 - [Glaze protects art from prying AIs](https://techcrunch.com/2023/03/17/glaze-generative-ai-art-style-mimicry-protection/)
-- [Newly discovered &#39;mini-Neptune&#39; may have an ocean or an atmosphere - but not for long](https://www.space.com/mini-neptune-atmosphere-ocean-both)
-- [A $500 million term sheet in 12 hours: How Rippling struck a deal as SVB was melting down](https://techcrunch.com/2023/03/17/a-500-million-term-sheet-in-12-hours-how-rippling-struck-a-deal-as-svb-was-melting-down/)
-- [Strangeworks might be the first startup to rely on AI to create everything it brought to SXSW](https://techcrunch.com/2023/03/17/strangeworks-might-be-the-first-startup-to-rely-on-ai-to-create-everything-it-brought-to-sxsw/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
