@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: With just $2.2B in remaining liquidity, SVB’s parent company files for bankruptcy](https://techcrunch.com/2023/03/17/daily-crunch-with-just-2-2b-in-remaining-liquidity-svbs-parent-company-files-for-bankruptcy/)
+- [The Monarch could be the next big thing in Braille](https://techcrunch.com/2023/03/17/the-monarch-could-be-the-next-big-thing-in-braille/)
+- [Chinese scientists hold out hope for silent Zhurong Mars rover](https://www.space.com/china-zhurong-mars-rover-hope-recovery)
 - [SpaceX launches 52 Starlink satellites, lands rocket at sea](https://www.space.com/spacex-starlink-satellite-launch-group-2-8)
 - [Exoplanets, dark matter and more: Big discoveries coming from James Webb Space Telescope, astronomers say](https://www.space.com/james-webb-space-telescope-big-discoveries-coming)
-- [&#39;Star Trek: Strange New Worlds&#39; Season 1 warps onto Blu-ray and we&#39;ve got an exclusive clip](https://www.space.com/star-trek-strange-new-worlds-season-1-blu-ray)
-- [Rawr? Green Li-ion recharges with $20.5M to scale its recycling tech](https://techcrunch.com/2023/03/17/rawr-green-li-ion-recharges-with-20-5m-to-scale-its-recycling-tech/)
-- [Glaze protects art from prying AIs](https://techcrunch.com/2023/03/17/glaze-generative-ai-art-style-mimicry-protection/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
