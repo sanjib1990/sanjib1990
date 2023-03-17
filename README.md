@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [You can probably manufacture closer to home than you think](https://techcrunch.com/2023/03/17/bringing-manufacturing-back/)
+- [Possible Artemis 3 moon landing site spied by NASA spacecraft &lpar;photos&rpar;](https://www.space.com/artemis-3-possible-moon-landing-site-lro-photos)
+- [SVB Financial files for Ch. 11 bankruptcy protection, says it has $2.2B in liquidity](https://techcrunch.com/2023/03/17/svb-financial-files-for-ch-11-bankruptcy-protection-says-it-has-2-2b-in-liquidity/)
 - [New Zealand bans TikTok from phones of parliamentarians](https://techcrunch.com/2023/03/17/new-zealand-bans-tiktok-from-phones-of-parliamentarians/)
 - [NASA selects Firefly Aerospace for mission to moon&#39;s far side in 2026](https://www.space.com/moon-far-side-mission-firefly-aerospace-2026)
-- [Best practices for leveraging artificial intelligence and machine learning in 2023](https://techcrunch.com/2023/03/17/best-practices-for-leveraging-artificial-intelligence-and-machine-learning-in-2023/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [NASA asteroid sample return mission to land on U.S. postage stamp](https://www.space.com/usps-osiris-rex-return-to-earth-postage-stamp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
