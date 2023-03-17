@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Newly discovered &#39;mini-Neptune&#39; may have an ocean or an atmosphere - but not for long](https://www.space.com/mini-neptune-atmosphere-ocean-both)
+- [A $500 million term sheet in 12 hours: How Rippling struck a deal as SVB was melting down](https://techcrunch.com/2023/03/17/a-500-million-term-sheet-in-12-hours-how-rippling-struck-a-deal-as-svb-was-melting-down/)
+- [Strangeworks might be the first startup to rely on AI to create everything it brought to SXSW](https://techcrunch.com/2023/03/17/strangeworks-might-be-the-first-startup-to-rely-on-ai-to-create-everything-it-brought-to-sxsw/)
 - [Creality Sonic Pad review: A turbo boost for your FDM printer](https://www.space.com/creality-sonic-pad-review)
 - [TechCrunch+ roundup: 7 VCs who are taking pitches, AI best practices, zero-based budgeting](https://techcrunch.com/2023/03/17/techcrunch-roundup-7-vcs-who-are-taking-pitches-ai-best-practices-zero-based-budgeting/)
-- [SpaceX now eyeing April for Starship&#39;s 1st orbital launch, Elon Musk says](https://www.space.com/spacex-starship-orbital-launch-april-2023-elon-musk)
-- [Elemental aims to pump $43M into climate startups with ‘deep community impact’](https://techcrunch.com/2023/03/17/elemental-aims-to-pump-43m-into-climate-startups-with-deep-community-impact/)
-- [China&#39;s 1st liquid-fueled rocket moved to launch pad for liftoff this month](https://www.space.com/china-tianlong-2-1st-liquid-rocket-launch-pad)
 <!-- BLOG-POST-LIST:END -->
 
 ---
