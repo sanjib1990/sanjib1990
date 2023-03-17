@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New Zealand bans TikTok from phones of parliamentarians](https://techcrunch.com/2023/03/17/new-zealand-bans-tiktok-from-phones-of-parliamentarians/)
+- [NASA selects Firefly Aerospace for mission to moon&#39;s far side in 2026](https://www.space.com/moon-far-side-mission-firefly-aerospace-2026)
 - [Best practices for leveraging artificial intelligence and machine learning in 2023](https://techcrunch.com/2023/03/17/best-practices-for-leveraging-artificial-intelligence-and-machine-learning-in-2023/)
 - [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [NASA asteroid sample return mission to land on U.S. postage stamp](https://www.space.com/usps-osiris-rex-return-to-earth-postage-stamp)
-- [Doubleheader! Watch SpaceX launch 2 rockets less than 5 hours apart today](https://www.space.com/spacex-launch-doubleheader-march-2023)
-- [OpenAI’s ChatGPT Plus subscription launches in India](https://techcrunch.com/2023/03/16/chatgpt-plus-india/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
