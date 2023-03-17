@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TikTok and MLS enter multi-year partnership to deepen the league’s presence on the app](https://techcrunch.com/2023/03/17/tiktok-and-mls-enter-multi-year-partnership-to-deepen-the-leagues-presence-on-the-app/)
+- [YouTube reinstates Donald Trump’s account](https://techcrunch.com/2023/03/17/youtube-reinstates-donald-trumps-account/)
+- [Banking isn’t the only ‘single point of failure’ entrepreneurs should be rethinking](https://techcrunch.com/2023/03/17/svb-crash-balancing-risk/)
 - [Don’t use Sam Altman and AI hype in the same sentence](https://techcrunch.com/2023/03/17/sam-altman-ai-hype-gpt-4-update/)
 - [Unearthly Materials claimed to have big-name investors, but they weren’t all on board](https://techcrunch.com/2023/03/17/unearthly-materials-superconductors-investors/)
-- [Wētā FX talks all things ‘The Last of Us,’ including the iconic bloater and giraffe scenes](https://techcrunch.com/2023/03/17/weta-fx-the-last-of-us-vfx-cgi/)
-- [You can probably manufacture closer to home than you think](https://techcrunch.com/2023/03/17/bringing-manufacturing-back/)
-- [Possible Artemis 3 moon landing site spied by NASA spacecraft &lpar;photos&rpar;](https://www.space.com/artemis-3-possible-moon-landing-site-lro-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
