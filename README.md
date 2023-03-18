@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Justice Department is investigating TikTok over journalist spying incident](https://techcrunch.com/2023/03/17/the-justice-department-is-investigating-tiktok-over-journalist-spying-incident/)
 - [Pull Systems launches out of Up.Labs-Porsche partnership to tackle EV performance](https://techcrunch.com/2023/03/17/pull-systems-launches-out-of-up-labs-porsche-partnership-to-tackle-ev-performance/)
 - [Daily Crunch: With just $2.2B in remaining liquidity, SVB’s parent company files for bankruptcy](https://techcrunch.com/2023/03/17/daily-crunch-with-just-2-2b-in-remaining-liquidity-svbs-parent-company-files-for-bankruptcy/)
 - [The Monarch could be the next big thing in Braille](https://techcrunch.com/2023/03/17/the-monarch-could-be-the-next-big-thing-in-braille/)
 - [Chinese scientists hold out hope for silent Zhurong Mars rover](https://www.space.com/china-zhurong-mars-rover-hope-recovery)
-- [SpaceX launches 52 Starlink satellites, lands rocket at sea](https://www.space.com/spacex-starlink-satellite-launch-group-2-8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
