@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI unleashes GPT-4, SVB files for bankruptcy, and a PE firm acquires Pornhub](https://techcrunch.com/2023/03/18/openai-unleashes-gpt-4-svb-files-for-bankruptcy-and-a-pe-firm-acquires-pornhub/)
 - [Let’s talk about succession plans](https://techcrunch.com/2023/03/18/lets-talk-about-succession-plans/)
 - [This Week in Apps: AI-powered productivity apps, US weighs TikTok ban, SVB crash boosts crypto apps](https://techcrunch.com/2023/03/18/this-week-in-apps-ai-powered-productivity-apps-us-weighs-tiktok-ban-svb-crash-boosts-crypto-apps/)
 - [Founders, don’t put all your cash in one basket](https://techcrunch.com/2023/03/18/svb-crash-banking-diversification-advice/)
 - [To my infinite chagrin, we’re probably not getting tech IPOs until later this year](https://techcrunch.com/2023/03/18/tech-ipo-market-2023-predictions/)
-- [Hear why AtoB calls itself Stripe for trucking on TechCrunch Live](https://techcrunch.com/2023/03/18/hear-why-atob-calls-itself-stripe-for-trucking-on-techcrunch-live/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
