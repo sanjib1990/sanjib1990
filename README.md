@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Surprising newfound ocean bacteria could aid search for alien life](https://www.space.com/newfound-bacteria-aid-search-alien-life)
 - [Rolls-Royce gets funding to develop miniature nuclear reactor for moon base](https://www.space.com/rolls-royce-funding-microreactor-moon-base)
 - [Women&#39;s History Month: Retired NASA astronaut Janet Kavandi brings inclusion to Sierra Space missions](https://www.space.com/womens-history-month-astronaut-janet-kavandi-sierra-space)
 - [OpenAI unleashes GPT-4, SVB files for bankruptcy, and a PE firm acquires Pornhub](https://techcrunch.com/2023/03/18/openai-unleashes-gpt-4-svb-files-for-bankruptcy-and-a-pe-firm-acquires-pornhub/)
 - [Let’s talk about succession plans](https://techcrunch.com/2023/03/18/lets-talk-about-succession-plans/)
-- [This Week in Apps: AI-powered productivity apps, US weighs TikTok ban, SVB crash boosts crypto apps](https://techcrunch.com/2023/03/18/this-week-in-apps-ai-powered-productivity-apps-us-weighs-tiktok-ban-svb-crash-boosts-crypto-apps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
