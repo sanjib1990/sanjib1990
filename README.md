@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Emerging managers hope the new SVB offers the same support to new VCs](https://techcrunch.com/2023/03/19/emerging-managers-svb-venture-capitalists/)
 - [10 tips for de-risking hardware products](https://techcrunch.com/2023/03/19/derisking-hardware-products/)
 - [Silicon Valley Bank’s crash is providing valuable lessons all over the world](https://techcrunch.com/2023/03/19/fintech-interchange-silicon-valley-bank-lessons/)
 - [The early universe was crammed with stars 10,000 times the size of our sun, new study suggests](https://www.space.com/the-early-universe-was-crammed-with-stars-10000-times-the-size-of-our-sun-new-study-suggests)
 - [Equinox on March 20 means more stunning auroras are coming. Here&#39;s why](https://www.space.com/aurora-equinox-earth-magnetism-russell-mcpherron)
-- [Surprising newfound ocean bacteria could aid search for alien life](https://www.space.com/newfound-bacteria-aid-search-alien-life)
 <!-- BLOG-POST-LIST:END -->
 
 ---
