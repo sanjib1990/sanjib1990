@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [10 tips for de-risking hardware products](https://techcrunch.com/2023/03/19/derisking-hardware-products/)
+- [Silicon Valley Bank’s crash is providing valuable lessons all over the world](https://techcrunch.com/2023/03/19/fintech-interchange-silicon-valley-bank-lessons/)
 - [The early universe was crammed with stars 10,000 times the size of our sun, new study suggests](https://www.space.com/the-early-universe-was-crammed-with-stars-10000-times-the-size-of-our-sun-new-study-suggests)
 - [Equinox on March 20 means more stunning auroras are coming. Here&#39;s why](https://www.space.com/aurora-equinox-earth-magnetism-russell-mcpherron)
 - [Surprising newfound ocean bacteria could aid search for alien life](https://www.space.com/newfound-bacteria-aid-search-alien-life)
-- [Rolls-Royce gets funding to develop miniature nuclear reactor for moon base](https://www.space.com/rolls-royce-funding-microreactor-moon-base)
-- [Women&#39;s History Month: Retired NASA astronaut Janet Kavandi brings inclusion to Sierra Space missions](https://www.space.com/womens-history-month-astronaut-janet-kavandi-sierra-space)
 <!-- BLOG-POST-LIST:END -->
 
 ---
