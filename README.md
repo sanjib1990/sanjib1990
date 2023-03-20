@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cruise Origin rolls into Austin, WeRide makes its IPO move and TuSimple stirs up more drama](https://techcrunch.com/2023/03/20/cruise-origin-rolls-into-austin-weride-makes-its-ipo-move-and-tusimple-stirs-up-more-drama/)
+- [The cloud backlash has begun: Why big data is pulling compute back on premises](https://techcrunch.com/2023/03/20/the-cloud-backlash-has-begun-why-big-data-is-pulling-compute-back-on-premises/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [March equinox 2023 brings spring to the Northern Hemisphere with a not-so-equal timing twist](https://www.space.com/equinox-march-2023-not-so-equal)
 - [This epic NASA map shows where to see US solar eclipses in 2023 and 2024 &lpar;photos&rpar;](https://www.space.com/nasa-solar-eclipse-us-maps-2023-2024)
-- [Foiled again: Candela raises another $20M to set course for the future of ferries](https://techcrunch.com/2023/03/20/candela-hydrofoiling-ferries/)
-- [Credable, a digital banking infra startup that wants to build Unit for emerging markets, gets funding](https://techcrunch.com/2023/03/20/credable-a-digital-banking-infra-startup-that-wants-to-build-unit-for-emerging-markets-gets-funding/)
-- [Microsoft banks on regulations to build a mobile games store](https://techcrunch.com/2023/03/20/microsoft-banks-on-regulations-to-build-a-mobile-games-store/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
