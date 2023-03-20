@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Flagstar Bank to buy some Signature Bank assets, but not crypto operations](https://techcrunch.com/2023/03/20/flagstar-bank-to-buy-some-signature-bank-assets-but-not-crypto-operations/)
+- [For tech titans, AI prominence is the new measuring stick](https://techcrunch.com/2023/03/20/chatgpt-ai-startup-valuations/)
+- [Hear why AtoB calls itself Stripe for trucking on TechCrunch Live](https://techcrunch.com/2023/03/20/hear-why-atob-calls-itself-stripe-for-trucking-on-techcrunch-live/)
+- [Twitter testing government ID-based verification, new screenshots show](https://techcrunch.com/2023/03/20/twitter-testing-government-id-based-verification-new-screenshots-show/)
 - [Podcast network Maximum Fun is becoming a worker-owned co-op](https://techcrunch.com/2023/03/20/maximum-fun-podcast-co-op-worker-owned/)
-- [Announcing the TC Include Founders program at Disrupt 2023](https://techcrunch.com/2023/03/20/tc-include-underrepresented-founders-75-percent-off-techcrunch-disrupt-2023/)
-- [Europa Clipper: A guide to NASA&#39;s new astrobiology mission](https://www.space.com/europa-clipper-mission-explained)
-- [Amazon confirms another round of layoffs, impacting 9,000 people in AWS, Twitch and other units](https://techcrunch.com/2023/03/20/amazon-confirms-another-round-of-layoffs-impacting-9000-people-in-aws-twitch-and-other-units/)
-- [As banks totter, crypto is busy racking up gains](https://techcrunch.com/2023/03/20/as-banks-totter-crypto-is-busy-racking-up-gains/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
