@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [March equinox 2023 brings spring to the Northern Hemisphere with a not-so-equal timing twist](https://www.space.com/equinox-march-2023-not-so-equal)
+- [This epic NASA map shows where to see US solar eclipses in 2023 and 2024 &lpar;photos&rpar;](https://www.space.com/nasa-solar-eclipse-us-maps-2023-2024)
 - [Foiled again: Candela raises another $20M to set course for the future of ferries](https://techcrunch.com/2023/03/20/candela-hydrofoiling-ferries/)
 - [Credable, a digital banking infra startup that wants to build Unit for emerging markets, gets funding](https://techcrunch.com/2023/03/20/credable-a-digital-banking-infra-startup-that-wants-to-build-unit-for-emerging-markets-gets-funding/)
 - [Microsoft banks on regulations to build a mobile games store](https://techcrunch.com/2023/03/20/microsoft-banks-on-regulations-to-build-a-mobile-games-store/)
-- [Emerging managers hope the new SVB offers the same support to new VCs](https://techcrunch.com/2023/03/19/emerging-managers-svb-venture-capitalists/)
-- [10 tips for de-risking hardware products](https://techcrunch.com/2023/03/19/derisking-hardware-products/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
