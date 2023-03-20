@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hubble Space Telescope spies &#39;irregular&#39; spiral galaxy in Ursa Major &lpar;photo&rpar;](https://www.space.com/hubble-telescope-irregular-spiral-galaxy-photo)
+- [Meet the new face of Agility Robotics’ Digit](https://techcrunch.com/2023/03/20/meet-the-new-face-and-hands-of-agility-robotics-digit/)
 - [Consumer electronics reseller Reebelo adds to Series A as it lays down roots in US](https://techcrunch.com/2023/03/20/consumer-electronics-reseller-reebelo-series-a/)
 - [PitchBook’s new tool uses AI to predict which startups will successfully exit](https://techcrunch.com/2023/03/20/pitchbooks-new-tool-uses-ai-to-predict-which-startups-will-successfully-exit/)
 - [Monster black hole may have killed this galaxy&#39;s star-forming power, James Webb Telescope reveals](https://www.space.com/jwst-finds-monster-black-hole-quenched-galaxy)
-- [Tavus taps generative AI to power personalized videos with voice and face cloning](https://techcrunch.com/2023/03/20/tavus-taps-generative-ai-to-power-personalized-videos-with-voice-and-face-cloning/)
-- [Cruise Origin rolls into Austin, WeRide makes its IPO move and TuSimple stirs up more drama](https://techcrunch.com/2023/03/20/cruise-origin-rolls-into-austin-weride-makes-its-ipo-move-and-tusimple-stirs-up-more-drama/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
