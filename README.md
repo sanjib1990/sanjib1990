@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Podcast network Maximum Fun is becoming a worker-owned co-op](https://techcrunch.com/2023/03/20/maximum-fun-podcast-co-op-worker-owned/)
+- [Announcing the TC Include Founders program at Disrupt 2023](https://techcrunch.com/2023/03/20/tc-include-underrepresented-founders-75-percent-off-techcrunch-disrupt-2023/)
+- [Europa Clipper: A guide to NASA&#39;s new astrobiology mission](https://www.space.com/europa-clipper-mission-explained)
+- [Amazon confirms another round of layoffs, impacting 9,000 people in AWS, Twitch and other units](https://techcrunch.com/2023/03/20/amazon-confirms-another-round-of-layoffs-impacting-9000-people-in-aws-twitch-and-other-units/)
 - [As banks totter, crypto is busy racking up gains](https://techcrunch.com/2023/03/20/as-banks-totter-crypto-is-busy-racking-up-gains/)
-- [Filmustage leverages AI to breakdown film scripts, create shooting schedules and more](https://techcrunch.com/2023/03/20/filmustage-leverages-ai-to-breakdown-film-scripts-create-shooting-schedules-and-more/)
-- [Netflix plans to release 40 more games this year, will add Monument Valley in 2024](https://techcrunch.com/2023/03/20/netflix-release-40-more-games-this-year-add-monument-valley-2024/)
-- [Corporate investment in AI is on the rise, driven by the tech’s promise](https://techcrunch.com/2023/03/20/corporate-investment-artificial-intelligence/)
-- [Berlin’s Monite raises $5M Seed for its embedded B2B payments platform](https://techcrunch.com/2023/03/20/berlins-monite-raises-5m-seed-for-its-embedded-b2b-payments-platform/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
