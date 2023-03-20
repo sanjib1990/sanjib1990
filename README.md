@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Amazon CEO says laying off 9,000 more workers ‘is best for the company long-term’](https://techcrunch.com/2023/03/20/daily-crunch-amazon-ceo-says-laying-off-9000-more-workers-is-best-for-the-company-long-term/)
+- [Max Q: Maybe next time](https://techcrunch.com/2023/03/20/max-q-maybe-next-time/)
+- [NASA climate change satellite back online after instrument shutdown](https://www.space.com/nasa-climate-change-satellite-swot-instrument-online)
+- [When it comes to early-stage growth marketing, it’s often better to imitate than innovate](https://techcrunch.com/2023/03/20/when-it-comes-to-early-stage-growth-marketing-its-often-better-to-imitate-than-innovate/)
 - [Two moons of Uranus may have active subsurface oceans](https://www.space.com/uranus-moons-ariel-miranda-active-subsurface-oceans)
-- [Pickle launches its truck unloading robot arm](https://techcrunch.com/2023/03/20/pickle-launches-its-truck-unloading-robot-arm/)
-- [Win a free copy of Star Trek: Strange New Worlds Season 1 in this Facebook giveaway!](https://www.space.com/star-trek-strange-new-worlds-season-one-giveaway-paramount)
-- [How much water lurks beneath an exoplanet&#39;s surface? New tool could help astronomers tell](https://www.space.com/exoplanets-subsurface-water-modeling-tool)
-- [1st map of moon water could help Artemis astronauts live at the lunar south pole](https://www.space.com/moon-water-1st-map-sofia-artemis)
 <!-- BLOG-POST-LIST:END -->
 
 ---
