@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hubble Space Telescope spies &#39;irregular&#39; spiral galaxy in Ursa Major &lpar;photo&rpar;](https://www.space.com/hubble-telescope-irregular-spiral-galaxy-photo)
-- [Meet the new face of Agility Robotics’ Digit](https://techcrunch.com/2023/03/20/meet-the-new-face-and-hands-of-agility-robotics-digit/)
-- [Consumer electronics reseller Reebelo adds to Series A as it lays down roots in US](https://techcrunch.com/2023/03/20/consumer-electronics-reseller-reebelo-series-a/)
-- [PitchBook’s new tool uses AI to predict which startups will successfully exit](https://techcrunch.com/2023/03/20/pitchbooks-new-tool-uses-ai-to-predict-which-startups-will-successfully-exit/)
-- [Monster black hole may have killed this galaxy&#39;s star-forming power, James Webb Telescope reveals](https://www.space.com/jwst-finds-monster-black-hole-quenched-galaxy)
+- [As banks totter, crypto is busy racking up gains](https://techcrunch.com/2023/03/20/as-banks-totter-crypto-is-busy-racking-up-gains/)
+- [Filmustage leverages AI to breakdown film scripts, create shooting schedules and more](https://techcrunch.com/2023/03/20/filmustage-leverages-ai-to-breakdown-film-scripts-create-shooting-schedules-and-more/)
+- [Netflix plans to release 40 more games this year, will add Monument Valley in 2024](https://techcrunch.com/2023/03/20/netflix-release-40-more-games-this-year-add-monument-valley-2024/)
+- [Corporate investment in AI is on the rise, driven by the tech’s promise](https://techcrunch.com/2023/03/20/corporate-investment-artificial-intelligence/)
+- [Berlin’s Monite raises $5M Seed for its embedded B2B payments platform](https://techcrunch.com/2023/03/20/berlins-monite-raises-5m-seed-for-its-embedded-b2b-payments-platform/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
