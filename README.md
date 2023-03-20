@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bad news for alien life? Even calm red dwarf stars rage more violently than the sun](https://www.space.com/red-dwarfs-activity-bad-news-alien-life)
+- [AWS takes a hit in latest round of Amazon layoffs](https://techcrunch.com/2023/03/20/aws-takes-a-hit-in-latest-round-of-amazon-layoffs/)
+- [Joby Compact Advanced tripod review](https://www.space.com/joby-compact-advanced-kit-tripod-review)
 - [Flagstar Bank to buy some Signature Bank assets, but not crypto operations](https://techcrunch.com/2023/03/20/flagstar-bank-to-buy-some-signature-bank-assets-but-not-crypto-operations/)
 - [For tech titans, AI prominence is the new measuring stick](https://techcrunch.com/2023/03/20/chatgpt-ai-startup-valuations/)
-- [Hear why AtoB calls itself Stripe for trucking on TechCrunch Live](https://techcrunch.com/2023/03/20/hear-why-atob-calls-itself-stripe-for-trucking-on-techcrunch-live/)
-- [Twitter testing government ID-based verification, new screenshots show](https://techcrunch.com/2023/03/20/twitter-testing-government-id-based-verification-new-screenshots-show/)
-- [Podcast network Maximum Fun is becoming a worker-owned co-op](https://techcrunch.com/2023/03/20/maximum-fun-podcast-co-op-worker-owned/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
