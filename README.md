@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Bad news for alien life? Even calm red dwarf stars rage more violently than the sun](https://www.space.com/red-dwarfs-activity-bad-news-alien-life)
-- [AWS takes a hit in latest round of Amazon layoffs](https://techcrunch.com/2023/03/20/aws-takes-a-hit-in-latest-round-of-amazon-layoffs/)
-- [Joby Compact Advanced tripod review](https://www.space.com/joby-compact-advanced-kit-tripod-review)
-- [Flagstar Bank to buy some Signature Bank assets, but not crypto operations](https://techcrunch.com/2023/03/20/flagstar-bank-to-buy-some-signature-bank-assets-but-not-crypto-operations/)
-- [For tech titans, AI prominence is the new measuring stick](https://techcrunch.com/2023/03/20/chatgpt-ai-startup-valuations/)
+- [Web3 gaming will onboard up to 100M gamers in next 2 years, Polygon and Immutable presidents predict](https://techcrunch.com/2023/03/20/polygon-immutable-web3-gaming/)
+- [Polygon and Immutable partner to help onboard more gamers and developers into web3](https://techcrunch.com/2023/03/20/polygon-and-immutable-partner-to-help-onboard-more-gamers-and-developers-into-web3/)
+- [Virgin Orbit eyes options as it works to generate cash flow: report](https://www.space.com/virgin-orbit-options-generate-cash-flow)
+- [Aembit raises $16.6M to bring identity management to workloads](https://techcrunch.com/2023/03/20/aembit-raises-16-6m-to-bring-identity-management-to-workloads/)
+- [Twitch says it will lay off 400 employees](https://techcrunch.com/2023/03/20/twitch-says-it-will-lay-off-400-employees/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
