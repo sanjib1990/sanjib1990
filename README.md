@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Consumer electronics reseller Reebelo adds to Series A as it lays down roots in US](https://techcrunch.com/2023/03/20/consumer-electronics-reseller-reebelo-series-a/)
+- [PitchBook’s new tool uses AI to predict which startups will successfully exit](https://techcrunch.com/2023/03/20/pitchbooks-new-tool-uses-ai-to-predict-which-startups-will-successfully-exit/)
+- [Monster black hole may have killed this galaxy&#39;s star-forming power, James Webb Telescope reveals](https://www.space.com/jwst-finds-monster-black-hole-quenched-galaxy)
+- [Tavus taps generative AI to power personalized videos with voice and face cloning](https://techcrunch.com/2023/03/20/tavus-taps-generative-ai-to-power-personalized-videos-with-voice-and-face-cloning/)
 - [Cruise Origin rolls into Austin, WeRide makes its IPO move and TuSimple stirs up more drama](https://techcrunch.com/2023/03/20/cruise-origin-rolls-into-austin-weride-makes-its-ipo-move-and-tusimple-stirs-up-more-drama/)
-- [The cloud backlash has begun: Why big data is pulling compute back on premises](https://techcrunch.com/2023/03/20/the-cloud-backlash-has-begun-why-big-data-is-pulling-compute-back-on-premises/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [March equinox 2023 brings spring to the Northern Hemisphere with a not-so-equal timing twist](https://www.space.com/equinox-march-2023-not-so-equal)
-- [This epic NASA map shows where to see US solar eclipses in 2023 and 2024 &lpar;photos&rpar;](https://www.space.com/nasa-solar-eclipse-us-maps-2023-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
