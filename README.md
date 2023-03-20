@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [1st map of moon water could help Artemis astronauts live at the lunar south pole](https://www.space.com/moon-water-1st-map-sofia-artemis)
+- [Meta faces third lawsuit in Kenya as moderators claim illegal sacking, blacklisting](https://techcrunch.com/2023/03/20/meta-faces-third-lawsuit-in-kenya-as-moderators-claim-illegal-sacking-blacklisting/)
 - [Web3 gaming will onboard up to 100M gamers in next 2 years, Polygon and Immutable presidents predict](https://techcrunch.com/2023/03/20/polygon-immutable-web3-gaming/)
 - [Polygon and Immutable partner to help onboard more gamers and developers into web3](https://techcrunch.com/2023/03/20/polygon-and-immutable-partner-to-help-onboard-more-gamers-and-developers-into-web3/)
 - [Virgin Orbit eyes options as it works to generate cash flow: report](https://www.space.com/virgin-orbit-options-generate-cash-flow)
-- [Aembit raises $16.6M to bring identity management to workloads](https://techcrunch.com/2023/03/20/aembit-raises-16-6m-to-bring-identity-management-to-workloads/)
-- [Twitch says it will lay off 400 employees](https://techcrunch.com/2023/03/20/twitch-says-it-will-lay-off-400-employees/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
