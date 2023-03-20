@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Foiled again: Candela raises another $20M to set course for the future of ferries](https://techcrunch.com/2023/03/20/candela-hydrofoiling-ferries/)
+- [Credable, a digital banking infra startup that wants to build Unit for emerging markets, gets funding](https://techcrunch.com/2023/03/20/credable-a-digital-banking-infra-startup-that-wants-to-build-unit-for-emerging-markets-gets-funding/)
+- [Microsoft banks on regulations to build a mobile games store](https://techcrunch.com/2023/03/20/microsoft-banks-on-regulations-to-build-a-mobile-games-store/)
 - [Emerging managers hope the new SVB offers the same support to new VCs](https://techcrunch.com/2023/03/19/emerging-managers-svb-venture-capitalists/)
 - [10 tips for de-risking hardware products](https://techcrunch.com/2023/03/19/derisking-hardware-products/)
-- [Silicon Valley Bank’s crash is providing valuable lessons all over the world](https://techcrunch.com/2023/03/19/fintech-interchange-silicon-valley-bank-lessons/)
-- [The early universe was crammed with stars 10,000 times the size of our sun, new study suggests](https://www.space.com/the-early-universe-was-crammed-with-stars-10000-times-the-size-of-our-sun-new-study-suggests)
-- [Equinox on March 20 means more stunning auroras are coming. Here&#39;s why](https://www.space.com/aurora-equinox-earth-magnetism-russell-mcpherron)
 <!-- BLOG-POST-LIST:END -->
 
 ---
