@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SaaS is still open for business, but it’s going to take longer to buy and sell](https://techcrunch.com/2023/03/21/saas-is-still-open-for-business-but-its-going-to-take-longer-to-buy-and-sell/)
-- [Building block of life found in sample from asteroid Ryugu](https://www.space.com/building-block-life-uracil-rna-asteroid-ryugu)
-- [Meta barred by Kenyan court from engaging its new content moderation partner](https://techcrunch.com/2023/03/21/meta-barred-by-kenyan-court-from-engaging-its-new-content-moderation-partner/)
-- [Adobe promises artists will be compensated fairly with new generative AI product, but is fuzzy on details](https://techcrunch.com/2023/03/21/adobe-promises-artists-will-be-compensated-fairly-with-new-generative-ai-product-but-is-fuzzy-on-details/)
-- [Nvidia launches new cloud services and partnerships to train generative AI](https://techcrunch.com/2023/03/21/nvidia-launches-new-cloud-services-and-partnerships-to-train-generative-ai/)
+- [Nvidia teams up with Quantum Machines to combine classical and quantum machines](https://techcrunch.com/2023/03/21/nvidia-teams-up-with-quantum-machines-to-combine-classical-and-quantum-machines/)
+- [Elon Musk’s The Boring Company seeks to double the size of its Vegas Loop](https://techcrunch.com/2023/03/21/elon-musks-the-boring-company-seeks-to-double-the-size-of-its-vegas-loop/)
+- [Amazon kills DPReview, the best camera review site on the web](https://techcrunch.com/2023/03/21/amazon-kills-dpreview-the-best-camera-review-site-on-the-web/)
+- [Private Japanese moon lander reaches lunar orbit](https://www.space.com/japan-hakuto-r-moon-lander-lunar-orbit)
+- [Bionic Health raises $3M for its AI health clinic using GPT-4 and other ML models to design better preventative care](https://techcrunch.com/2023/03/21/bionic-health-raises-3m-for-its-ai-health-clinic-using-gpt-4-and-other-ml-models-to-design-better-preventative-care/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
