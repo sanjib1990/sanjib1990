@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OP3N raises $28M to build ‘WhatsApp meets Amazon’ for web3](https://techcrunch.com/2023/03/21/op3n-raises-28m-to-build-whatsapp-meets-amazon-for-web3/)
+- [Watch Rocket Lab launch 2 satellites, recover booster early on March 22](https://www.space.com/rocket-lab-launch-booster-recovery-livestream-march-2023)
+- [IPRally, a patent search engine powered by explainable AI, raises $10.8M](https://techcrunch.com/2023/03/21/iprally-a-patent-search-engine-powered-by-explainable-ai-raises-10-8m/)
+- [Consumers are splurging on premium smartphones amid tough economic conditions, report says](https://techcrunch.com/2023/03/21/consumers-are-splurging-on-premium-smartphones-amid-tough-economic-conditions-report-says/)
 - [Ferrari says ransomware attack exposed customers’ personal data](https://techcrunch.com/2023/03/21/ferrari-says-ransomware-attack-exposed-customers-personal-data/)
-- [TikTok overhauls its community guidelines, adds new policies on AI and climate misinformation](https://techcrunch.com/2023/03/21/tiktok-overhauls-community-guidelines-adds-new-policies-ai-climate-misinformation/)
-- [Mecanizou, now with $14.5M, plans to expand auto parts marketplace in São Paulo](https://techcrunch.com/2023/03/21/mecanizou-automotive-brazil/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [Astronauts that hibernate on long spaceflights is not just for sci-fi. We could test it in 10 years.](https://www.space.com/astronaut-hibernation-trials-possible-in-decade)
 <!-- BLOG-POST-LIST:END -->
 
 ---
