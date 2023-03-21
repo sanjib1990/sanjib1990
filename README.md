@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Nvidia teams up with Quantum Machines to combine classical and quantum machines](https://techcrunch.com/2023/03/21/nvidia-teams-up-with-quantum-machines-to-combine-classical-and-quantum-machines/)
-- [Elon Musk’s The Boring Company seeks to double the size of its Vegas Loop](https://techcrunch.com/2023/03/21/elon-musks-the-boring-company-seeks-to-double-the-size-of-its-vegas-loop/)
-- [Amazon kills DPReview, the best camera review site on the web](https://techcrunch.com/2023/03/21/amazon-kills-dpreview-the-best-camera-review-site-on-the-web/)
-- [Private Japanese moon lander reaches lunar orbit](https://www.space.com/japan-hakuto-r-moon-lander-lunar-orbit)
-- [Bionic Health raises $3M for its AI health clinic using GPT-4 and other ML models to design better preventative care](https://techcrunch.com/2023/03/21/bionic-health-raises-3m-for-its-ai-health-clinic-using-gpt-4-and-other-ml-models-to-design-better-preventative-care/)
+- [Big asteroids hit Earth more frequently than thought, study suggests](https://www.space.com/dangerous-asteroid-impact-rate-controversy)
+- [Magic Eden launches Bitcoin marketplace as Ordinal inscriptions continue to grow](https://techcrunch.com/2023/03/21/magic-eden-launches-bitcoin-marketplace-as-ordinal-inscriptions-continue-to-grow/)
+- [DART mission reveals asteroid Dimorphos is dry as a bone](https://www.space.com/dart-mission-asteroid-dimorphos-no-water)
+- [Everything you need to know about accelerators and incubators](https://techcrunch.com/2023/03/21/matt-segneri-accelerators-incubators-techcrunch-early-stage-2023/)
+- [Even the hottest startup categories are not immune from the venture slowdown](https://techcrunch.com/2023/03/21/api-startups-venture-slowdown/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
