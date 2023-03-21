@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Instagram is bringing ads to search results and launching ‘Reminder Ads’](https://techcrunch.com/2023/03/21/instagram-is-bringing-ads-to-search-results-and-launching-reminder-ads/)
+- [Spectacular SpaceX video shows Earth as beautiful blue marble in blackness of space](https://www.space.com/spacex-launch-video-earth-march-2023)
+- [World must act now to defuse &#39;climate time bomb,&#39; UN scientists warn](https://www.space.com/world-must-act-to-defuse-climate-time-bomb-scientists-warn)
 - [TechCrunch+ roundup: Big Data’s cloud backlash, CVC pitch tips, de-risking hardware startups](https://techcrunch.com/2023/03/21/techcrunch-roundup-big-datas-cloud-backlash-cvc-pitch-tips-de-risking-hardware-startups/)
-- [Netflix’s ‘Gears of War’ movie gets ‘Doctor Strange’ writer Jon Spaihts](https://techcrunch.com/2023/03/21/netflixs-gears-of-war-movie/)
-- [Google’s Bard lags behind GPT-4 and Claude in head-to-head comparison](https://techcrunch.com/2023/03/21/googles-bard-lags-behind-gpt-4-and-claude-in-head-to-head-comparison/)
-- [Big asteroids hit Earth more frequently than thought, study suggests](https://www.space.com/dangerous-asteroid-impact-rate-controversy)
-- [Magic Eden launches Bitcoin marketplace as Ordinal inscriptions continue to grow](https://techcrunch.com/2023/03/21/magic-eden-launches-bitcoin-marketplace-as-ordinal-inscriptions-continue-to-grow/)
+- [New &#39;Star Wars Jedi: Survivor&#39; trailer shows off breathtaking lightsaber combat &lpar;video&rpar;](https://www.space.com/star-wars-jedi-survivor-trailer-lightsaber-combat)
 <!-- BLOG-POST-LIST:END -->
 
 ---
