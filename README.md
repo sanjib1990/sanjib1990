@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Seed Club Ventures emerges from stealth with $25M fund focused on DAOs](https://techcrunch.com/2023/03/21/seed-club-ventures-emerges-from-stealth-with-25m-fund-focused-on-daos/)
-- [Watch Jupiter meet the moon and Mercury this week before leaving the night sky](https://www.space.com/jupiter-mercury-march-2023)
-- [This VC built a lab to make building biotech startups easier](https://techcrunch.com/2023/03/21/portal-biotech-labs/)
-- [Google opens early access to Bard, its AI chatbot](https://techcrunch.com/2023/03/21/google-opens-early-access-to-bard-its-ai-chatbot/)
-- [DoorDash is adding support for cash — but not in its main app](https://techcrunch.com/2023/03/21/doordash-is-adding-support-for-cash-but-not-in-its-main-app/)
+- [SaaS is still open for business, but it’s going to take longer to buy and sell](https://techcrunch.com/2023/03/21/saas-is-still-open-for-business-but-its-going-to-take-longer-to-buy-and-sell/)
+- [Building block of life found in sample from asteroid Ryugu](https://www.space.com/building-block-life-uracil-rna-asteroid-ryugu)
+- [Meta barred by Kenyan court from engaging its new content moderation partner](https://techcrunch.com/2023/03/21/meta-barred-by-kenyan-court-from-engaging-its-new-content-moderation-partner/)
+- [Adobe promises artists will be compensated fairly with new generative AI product, but is fuzzy on details](https://techcrunch.com/2023/03/21/adobe-promises-artists-will-be-compensated-fairly-with-new-generative-ai-product-but-is-fuzzy-on-details/)
+- [Nvidia launches new cloud services and partnerships to train generative AI](https://techcrunch.com/2023/03/21/nvidia-launches-new-cloud-services-and-partnerships-to-train-generative-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
