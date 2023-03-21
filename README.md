@@ -95,10 +95,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Daily Crunch: Bing allows users to generate images using ‘very latest DALL-E models’](https://techcrunch.com/2023/03/21/daily-crunch-bing-allows-users-to-generate-images-using-very-latest-dall-e-models/)
+- [Artemis 2 moon rocket coming together ahead of 2024 astronaut launch &lpar;photo&rpar;](https://www.space.com/artemis-2-moon-rocket-core-stage-assembly-photo)
 - [South Korean probe&#39;s NASA moon camera illuminates dark lunar crater &lpar;photo&rpar;](https://www.space.com/danuri-shadowcam-moon-crater-photo)
 - [Watch likely Chinese rocket body burn up over Texas &lpar;video&rpar;](https://www.space.com/china-rocket-reentry-texas-video)
 - [Instagram is bringing ads to search results and launching ‘Reminder Ads’](https://techcrunch.com/2023/03/21/instagram-is-bringing-ads-to-search-results-and-launching-reminder-ads/)
-- [Spectacular SpaceX video shows Earth as beautiful blue marble in blackness of space](https://www.space.com/spacex-launch-video-earth-march-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
