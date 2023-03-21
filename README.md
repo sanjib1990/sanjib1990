@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ferrari says ransomware attack exposed customers’ personal data](https://techcrunch.com/2023/03/21/ferrari-says-ransomware-attack-exposed-customers-personal-data/)
+- [TikTok overhauls its community guidelines, adds new policies on AI and climate misinformation](https://techcrunch.com/2023/03/21/tiktok-overhauls-community-guidelines-adds-new-policies-ai-climate-misinformation/)
+- [Mecanizou, now with $14.5M, plans to expand auto parts marketplace in São Paulo](https://techcrunch.com/2023/03/21/mecanizou-automotive-brazil/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [Astronauts that hibernate on long spaceflights is not just for sci-fi. We could test it in 10 years.](https://www.space.com/astronaut-hibernation-trials-possible-in-decade)
-- [Watch solar tornado as tall as 14 Earths hurl plasma cloud into space &lpar;video&rpar;](https://www.space.com/plasma-tornado-sun-north-pole-video)
-- [Sifflet raises cash to expand its data observability platform](https://techcrunch.com/2023/03/21/sifflet-raises-cash-to-expand-its-data-observability-platform/)
-- [Mapping drone startup Wingtra is charting a new future after landing $22M](https://techcrunch.com/2023/03/21/wingtra/)
-- [Apple Pay is now available in South Korea](https://techcrunch.com/2023/03/20/apple-pay-is-now-available-in-south-korea/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
