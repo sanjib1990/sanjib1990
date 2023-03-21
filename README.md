@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google flags apps made by popular Chinese e-commerce giant as malware](https://techcrunch.com/2023/03/20/google-flags-apps-made-by-popular-chinese-e-commerce-giant-as-malware/)
+- [India won’t tolerate abusive, obscene content on streaming services, minister warns](https://techcrunch.com/2023/03/20/india-wont-tolerate-abusive-obscene-content-on-streaming-services-minister-warns/)
 - [Duolingo is working on a music app](https://techcrunch.com/2023/03/20/duolingo-for-music-app/)
 - [Daily Crunch: Amazon CEO says laying off 9,000 more workers ‘is best for the company long-term’](https://techcrunch.com/2023/03/20/daily-crunch-amazon-ceo-says-laying-off-9000-more-workers-is-best-for-the-company-long-term/)
 - [Max Q: Maybe next time](https://techcrunch.com/2023/03/20/max-q-maybe-next-time/)
-- [NASA climate change satellite back online after instrument shutdown](https://www.space.com/nasa-climate-change-satellite-swot-instrument-online)
-- [When it comes to early-stage growth marketing, it’s often better to imitate than innovate](https://techcrunch.com/2023/03/20/when-it-comes-to-early-stage-growth-marketing-its-often-better-to-imitate-than-innovate/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
