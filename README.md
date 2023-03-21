@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mysterious radio signal reveals intricate core of distant galaxy cluster](https://www.space.com/mysterious-radio-signal-intricate-core-galaxy-cluster)
+- [TikTok CEO takes to the app to announce company’s more than 150M active users in the U.S.](https://techcrunch.com/2023/03/21/tiktok-ceo-takes-to-the-app-to-announce-companys-more-than-150m-active-users-in-the-u-s/)
 - [Adobe Express launches an enterprise tier with generative AI tools](https://techcrunch.com/2023/03/21/adobe-express-launches-an-enterprise-tier-with-generative-ai-tools/)
 - [Adobe brings product analytics to its Experience Cloud](https://techcrunch.com/2023/03/21/adobe-brings-product-analytics-to-its-experience-cloud/)
 - [With Firefly, Adobe gets into the generative AI game](https://techcrunch.com/2023/03/21/adobe-firefly-generative-ai/)
-- [Spot dwarf planet Ceres during the new moon tonight &lpar;March 21&rpar;](https://www.space.com/new-moon-dwarf-planet-ceres-skywatching-march-2023)
-- [Microsoft brings OpenAI’s DALL-E image creator to the new Bing](https://techcrunch.com/2023/03/21/microsoft-brings-openais-dall-e-image-creator-to-the-new-bing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
