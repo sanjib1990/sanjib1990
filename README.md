@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronauts that hibernate on long spaceflights is not just for sci-fi. We could test it in 10 years.](https://www.space.com/astronaut-hibernation-trials-possible-in-decade)
+- [Watch solar tornado as tall as 14 Earths hurl plasma cloud into space &lpar;video&rpar;](https://www.space.com/plasma-tornado-sun-north-pole-video)
 - [Sifflet raises cash to expand its data observability platform](https://techcrunch.com/2023/03/21/sifflet-raises-cash-to-expand-its-data-observability-platform/)
 - [Mapping drone startup Wingtra is charting a new future after landing $22M](https://techcrunch.com/2023/03/21/wingtra/)
 - [Apple Pay is now available in South Korea](https://techcrunch.com/2023/03/20/apple-pay-is-now-available-in-south-korea/)
-- [Facebook political microtargeting at center of GDPR complaints in Germany](https://techcrunch.com/2023/03/20/facebook-political-ads-germany-gdpr-complaints-noyb/)
-- [Roundtable raises funding round on Roundtable](https://techcrunch.com/2023/03/20/roundtable-raises-funding-round-on-roundtable/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
