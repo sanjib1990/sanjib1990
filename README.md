@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch+ roundup: Big Data’s cloud backlash, CVC pitch tips, de-risking hardware startups](https://techcrunch.com/2023/03/21/techcrunch-roundup-big-datas-cloud-backlash-cvc-pitch-tips-de-risking-hardware-startups/)
+- [Netflix’s ‘Gears of War’ movie gets ‘Doctor Strange’ writer Jon Spaihts](https://techcrunch.com/2023/03/21/netflixs-gears-of-war-movie/)
+- [Google’s Bard lags behind GPT-4 and Claude in head-to-head comparison](https://techcrunch.com/2023/03/21/googles-bard-lags-behind-gpt-4-and-claude-in-head-to-head-comparison/)
 - [Big asteroids hit Earth more frequently than thought, study suggests](https://www.space.com/dangerous-asteroid-impact-rate-controversy)
 - [Magic Eden launches Bitcoin marketplace as Ordinal inscriptions continue to grow](https://techcrunch.com/2023/03/21/magic-eden-launches-bitcoin-marketplace-as-ordinal-inscriptions-continue-to-grow/)
-- [DART mission reveals asteroid Dimorphos is dry as a bone](https://www.space.com/dart-mission-asteroid-dimorphos-no-water)
-- [Everything you need to know about accelerators and incubators](https://techcrunch.com/2023/03/21/matt-segneri-accelerators-incubators-techcrunch-early-stage-2023/)
-- [Even the hottest startup categories are not immune from the venture slowdown](https://techcrunch.com/2023/03/21/api-startups-venture-slowdown/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
