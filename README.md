@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mapping drone startup Wingtra is charting a new future after landing $22M](https://techcrunch.com/2023/03/21/wingtra/)
 - [Facebook political microtargeting at center of GDPR complaints in Germany](https://techcrunch.com/2023/03/20/facebook-political-ads-germany-gdpr-complaints-noyb/)
 - [Roundtable raises funding round on Roundtable](https://techcrunch.com/2023/03/20/roundtable-raises-funding-round-on-roundtable/)
 - [Google flags apps made by popular Chinese e-commerce giant as malware](https://techcrunch.com/2023/03/20/google-flags-apps-made-by-popular-chinese-e-commerce-giant-as-malware/)
 - [India won’t tolerate abusive, obscene content on streaming services, minister warns](https://techcrunch.com/2023/03/20/india-wont-tolerate-abusive-obscene-content-on-streaming-services-minister-warns/)
-- [Duolingo is working on a music app](https://techcrunch.com/2023/03/20/duolingo-for-music-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
