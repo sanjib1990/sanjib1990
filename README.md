@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Bing allows users to generate images using ‘very latest DALL-E models’](https://techcrunch.com/2023/03/21/daily-crunch-bing-allows-users-to-generate-images-using-very-latest-dall-e-models/)
+- [South Korean probe&#39;s NASA moon camera illuminates dark lunar crater &lpar;photo&rpar;](https://www.space.com/danuri-shadowcam-moon-crater-photo)
 - [Watch likely Chinese rocket body burn up over Texas &lpar;video&rpar;](https://www.space.com/china-rocket-reentry-texas-video)
 - [Instagram is bringing ads to search results and launching ‘Reminder Ads’](https://techcrunch.com/2023/03/21/instagram-is-bringing-ads-to-search-results-and-launching-reminder-ads/)
 - [Spectacular SpaceX video shows Earth as beautiful blue marble in blackness of space](https://www.space.com/spacex-launch-video-earth-march-2023)
-- [World must act now to defuse &#39;climate time bomb,&#39; UN scientists warn](https://www.space.com/world-must-act-to-defuse-climate-time-bomb-scientists-warn)
-- [TechCrunch+ roundup: Big Data’s cloud backlash, CVC pitch tips, de-risking hardware startups](https://techcrunch.com/2023/03/21/techcrunch-roundup-big-datas-cloud-backlash-cvc-pitch-tips-de-risking-hardware-startups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
