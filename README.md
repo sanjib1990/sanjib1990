@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [When the tech IPO market reopens, keep an eye on HR unicorns](https://techcrunch.com/2023/03/22/rippling-gusto-deel-velocity-global-ipo/)
+- [Cultivated meat is closer to our plate now that Good Meat also gets FDA blessing](https://techcrunch.com/2023/03/22/cultivated-meat-good-meat-fda/)
+- [Ubisoft’s new AI tool automatically generates dialogue for non-playable game characters](https://techcrunch.com/2023/03/22/ubisofts-new-ai-tool-automatically-generates-dialogue-for-non-playable-game-characters/)
+- [James Webb Telescope spies hot, gritty clouds in skies of huge exoplanet with 2 suns](https://www.space.com/james-webb-space-telescope-exoplanet-gritty-clouds)
 - [CodiumAI is using generative AI to help developers build code logic tests automatically](https://techcrunch.com/2023/03/22/codiumai-is-using-generative-ai-to-help-developers-build-code-logic-tests-automatically/)
-- [Amazon expands Fire TV lineup with more QLED models, entry-level 2-Series TVs and new markets](https://techcrunch.com/2023/03/22/amazon-expands-fire-tv-lineup-with-more-qled-models-entry-level-2-series-tvs-and-new-markets/)
-- [Fly over Perseverance rover&#39;s Mars stomping grounds in new video](https://www.space.com/jezero-crater-perseverance-rover-mars-express-video)
-- [How Fellow bootstrapped for 8 years to build a coffee empire](https://techcrunch.com/2023/03/22/fellow-coffee-grinder-bootstrapped/)
-- [Apple TV+ drops its free offering for ‘Friday Night Baseball,’ expands games to 45+ countries](https://techcrunch.com/2023/03/22/apple-tv-friday-night-baseball-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
