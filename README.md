@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch Relativity Space launch world&#39;s 1st 3D-printed rocket tonight &lpar;March 22&rpar;](https://www.space.com/relativity-space-debut-launch-livestream-march-2023)
+- [3 tips for crypto startups preparing for continued compliance](https://techcrunch.com/2023/03/22/3-tips-for-crypto-startups-preparing-for-continued-compliance/)
 - [F3C puts its investment spin on consumer brands with new $25M fund](https://techcrunch.com/2023/03/22/f3c-venture-capital-consumer-brands-25m-fund/)
 - [Amazon’s palm-reading payment tech is coming to Panera Bread](https://techcrunch.com/2023/03/22/amazons-palm-reading-payments-tech-is-coming-to-panera-bread/)
 - [Best space-themed 3D prints: Recreate iconic spacecraft and objects](https://www.space.com/best-space-3d-prints)
-- [This mysterious streak of light over California is actually an old space station antenna meeting its doom &lpar;video&rpar;](https://www.space.com/space-debris-fireball-atmosphere-sacramento-st-patricks-day)
-- [Sea level rise slowed down in 2022. NASA says it&#39;s just a blip](https://www.space.com/sea-level-rise-slow-down-2022)
 <!-- BLOG-POST-LIST:END -->
 
 ---
