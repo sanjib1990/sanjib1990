@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Google Bard… the ChatGPT killer?](https://www.youtube.com/watch?v=xW9DJTvB3NI)
 - [S4 E6: Teaching Teachers with Dr. Summer Morrill](https://www.youtube.com/watch?v=7i5fpNGMMhA)
 - [PyTorch in 100 Seconds](https://www.youtube.com/watch?v=ORMx45xqWkA)
 - [Midjourney 5 must be stopped at all costs](https://www.youtube.com/watch?v=nYqeHIRKboM)
 - [Automata &amp; Python - Computerphile](https://www.youtube.com/watch?v=32bC33nJR3A)
-- [Video 5:  Kanji in Tobira Lesson 5](https://www.youtube.com/watch?v=q7WZdYAaVtQ)
 <!-- YOUTUBE:END -->
 
 ---
