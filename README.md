@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Beloved hacking veteran Kelly ‘Aloria’ Lum passes away at 41](https://techcrunch.com/2023/03/22/kelly-aloria-lum-passes-away-at-41-obituary/)
-- [A colossal &#39;hole&#39; in the sun&#39;s atmosphere could supercharge Earth&#39;s auroras on March 24](https://www.space.com/sun-coronal-hole-supercharge-auroras-march-2023)
-- [Ask Sophie: Which visas will allow us to expand our startup in the US?](https://techcrunch.com/2023/03/22/ask-sophie-which-visas-will-allow-us-to-expand-our-startup-in-the-u-s/)
-- [Europe tools up for the repairable future](https://techcrunch.com/2023/03/22/eu-right-to-repair/)
-- [Virgin Orbit restarts operations with &#39;small&#39; team as it works on finance deal: reports](https://www.space.com/virgin-orbit-resumes-operations-small-team-finance-deal)
+- [4 Indian investors explain how their investment strategy has changed since 2021](https://techcrunch.com/2023/03/22/4-indian-investors-explain-how-their-investment-strategy-has-changed-since-2021/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [America’s space-based spy agency awards six contracts to hyperspectral imagery providers](https://techcrunch.com/2023/03/22/americas-space-based-spy-agency-awards-six-contracts-to-hyperspectral-imagery-providers/)
+- [How a proposed federal e-bike incentive could lead to fewer battery fires](https://techcrunch.com/2023/03/22/how-a-proposed-federal-e-bike-incentive-could-lead-to-fewer-battery-fires/)
+- [TikTok gears up for its big day in Congress](https://techcrunch.com/2023/03/22/tiktok-gears-up-for-its-big-day-in-congress/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
