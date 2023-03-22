@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Epic launches Unreal Editor for Fortnite, will give 40% of all revenue to creators](https://techcrunch.com/2023/03/22/epic-launches-unreal-editor-for-fortnite-will-give-40-of-all-revenue-to-creators/)
+- [Coinbase stock drops after SEC Wells notice, a possible prelude to ‘enforcement action’](https://techcrunch.com/2023/03/22/coinbase-stock-drops-after-sec-wells-notice-a-possible-prelude-to-enforcement-action/)
 - [Daily Crunch: GitHub CEO says new code completion tool ‘brings the fun back to programming’](https://techcrunch.com/2023/03/22/daily-crunch-github-ceo-says-new-code-completion-tool-brings-the-fun-back-to-programming/)
 - [Mars helicopter Ingenuity aces 48th flight on the Red Planet](https://www.space.com/nasa-ingenuity-mars-helicopter-flight-48)
 - [Adobe’s thoughts on the ethics of AI-generated images &lpar;and paying its contributors for them&rpar;](https://techcrunch.com/2023/03/22/adobes-thoughts-on-the-ethics-of-ai-generated-images-and-paying-its-contributors-for-them/)
-- [Boston Dynamics puts its robots to work](https://techcrunch.com/2023/03/22/boston-dynamics-puts-its-robots-to-work/)
-- [US Space Force wants to test how to build satellites in orbit with $1.6 million Arkysys deal](https://www.space.com/space-force-picks-arkisys-to-build-satellites-in-orbit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
