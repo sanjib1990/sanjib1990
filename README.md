@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Brex takes a swipe at Concur with an expansion into travel](https://techcrunch.com/2023/03/22/fintech-brex-takes-a-swipe-at-concur-with-an-expansion-into-travel/)
-- [See the moon and Jupiter meet in the sky tonight &lpar;March 22&rpar;](https://www.space.com/moon-jupiter-conjunction-skywatching-march-2023)
-- [Retro camera app Hipstamatic makes its return as an anti-Instagram social network](https://techcrunch.com/2023/03/22/retro-camera-app-hipstamatic-makes-its-return-as-an-anti-instagram-social-network/)
-- [The Mandalorian season 3 episode 4 review: Saving the next generation](https://www.space.com/the-mandalorian-season-3-episode-4-review)
-- [Mozilla launches a new startup focused on ‘trustworthy’ AI](https://techcrunch.com/2023/03/22/mozilla-launches-a-new-startup-focused-on-trustworthy-ai/)
+- [CodiumAI is using generative AI to help developers build code logic tests automatically](https://techcrunch.com/2023/03/22/codiumai-is-using-generative-ai-to-help-developers-build-code-logic-tests-automatically/)
+- [Amazon expands Fire TV lineup with more QLED models, entry-level 2-Series TVs and new markets](https://techcrunch.com/2023/03/22/amazon-expands-fire-tv-lineup-with-more-qled-models-entry-level-2-series-tvs-and-new-markets/)
+- [Fly over Perseverance rover&#39;s Mars stomping grounds in new video](https://www.space.com/jezero-crater-perseverance-rover-mars-express-video)
+- [How Fellow bootstrapped for 8 years to build a coffee empire](https://techcrunch.com/2023/03/22/fellow-coffee-grinder-bootstrapped/)
+- [Apple TV+ drops its free offering for ‘Friday Night Baseball,’ expands games to 45+ countries](https://techcrunch.com/2023/03/22/apple-tv-friday-night-baseball-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
