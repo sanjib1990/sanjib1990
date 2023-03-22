@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [US Space Force wants to test how to build satellites in orbit with $1.6 million Arkysys deal](https://www.space.com/space-force-picks-arkisys-to-build-satellites-in-orbit)
+- [SEC sues Tron founder and celebrities, including Lindsay Lohan, Jake Paul and Soulja Boy, for crypto securities violations](https://techcrunch.com/2023/03/22/sec-sues-tron-founder-and-celebrities-including-lindsay-lohan-jake-paul-and-soulja-boy-for-crypto-securities-violations/)
+- [Skyscraper-size asteroid will get closer to Earth than the moon on March 25](https://www.space.com/skyscraper-size-asteroid-2023-dz2-march-2023-flyby)
 - [Oma Fertility to speak on building a better IVF experience on TechCrunch Live](https://techcrunch.com/2023/03/22/oma-fertility-to-speak-on-building-a-better-ivf-experience-on-techcrunch-live/)
 - [Microsoft launches Loop, its Notion competitor, in public preview](https://techcrunch.com/2023/03/22/microsoft-launches-loop-its-notion-competitor-in-public-preview/)
-- [Sorry, E.T. fans: Interstellar visitor &#39;Oumuamua isn&#39;t an alien spacecraft. It&#39;s just passing gas.](https://www.space.com/interstellar-object-oumuamua-acceleration-hydrogen-outgassing)
-- [5 planets will align on March 27 and you won&#39;t want to miss it. Here&#39;s where to look.](https://www.space.com/5-planet-alignment-march-2023-viewing-opportunity)
-- [4 Indian investors explain how their investment strategy has changed since 2021](https://techcrunch.com/2023/03/22/4-indian-investors-explain-how-their-investment-strategy-has-changed-since-2021/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
