@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [F3C puts its investment spin on consumer brands with new $25M fund](https://techcrunch.com/2023/03/22/f3c-venture-capital-consumer-brands-25m-fund/)
+- [Amazon’s palm-reading payment tech is coming to Panera Bread](https://techcrunch.com/2023/03/22/amazons-palm-reading-payments-tech-is-coming-to-panera-bread/)
+- [Best space-themed 3D prints: Recreate iconic spacecraft and objects](https://www.space.com/best-space-3d-prints)
 - [This mysterious streak of light over California is actually an old space station antenna meeting its doom &lpar;video&rpar;](https://www.space.com/space-debris-fireball-atmosphere-sacramento-st-patricks-day)
 - [Sea level rise slowed down in 2022. NASA says it&#39;s just a blip](https://www.space.com/sea-level-rise-slow-down-2022)
-- [Opera browser adds ChatGPT and AI summarization features](https://techcrunch.com/2023/03/22/opera-browser-adds-chatgpt-and-ai-summarization-features/)
-- [Checkout.com launches virtual and physical card issuing](https://techcrunch.com/2023/03/22/checkoutcom-launches-virtual-and-physical-card-issuing/)
-- [Emblem is the latest European seed fund in new wave of VC funds](https://techcrunch.com/2023/03/22/emblem-is-the-latest-european-seed-fund-in-new-wave-of-vc-funds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
