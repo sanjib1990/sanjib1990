@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask Sophie: Which visas will allow us to expand our startup in the US?](https://techcrunch.com/2023/03/22/ask-sophie-which-visas-will-allow-us-to-expand-our-startup-in-the-u-s/)
+- [Europe tools up for the repairable future](https://techcrunch.com/2023/03/22/eu-right-to-repair/)
 - [Virgin Orbit restarts operations with &#39;small&#39; team as it works on finance deal: reports](https://www.space.com/virgin-orbit-resumes-operations-small-team-finance-deal)
 - [Best Marvel games of all time](https://www.space.com/best-marvel-games-of-all-time)
 - [Shadow wants to make game demos cool again with cloud computing](https://techcrunch.com/2023/03/22/shadow-wants-to-make-game-demos-cool-again-with-cloud-computing/)
-- [The top 10 AI mobile apps have already pulled in over $14 million this year](https://techcrunch.com/2023/03/22/the-top-10-ai-mobile-apps-have-already-pulled-in-over-14-million-this-year/)
-- [What is a UFO? The US shot down three mysterious objects as interest and concern increase over unidentified craft](https://www.space.com/what-is-a-ufo-concern-over-unidentified-craft)
 <!-- BLOG-POST-LIST:END -->
 
 ---
