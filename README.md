@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch Relativity Space launch world&#39;s 1st 3D-printed rocket tonight &lpar;March 22&rpar;](https://www.space.com/relativity-space-debut-launch-livestream-march-2023)
-- [3 tips for crypto startups preparing for continued compliance](https://techcrunch.com/2023/03/22/3-tips-for-crypto-startups-preparing-for-continued-compliance/)
-- [F3C puts its investment spin on consumer brands with new $25M fund](https://techcrunch.com/2023/03/22/f3c-venture-capital-consumer-brands-25m-fund/)
-- [Amazon’s palm-reading payment tech is coming to Panera Bread](https://techcrunch.com/2023/03/22/amazons-palm-reading-payments-tech-is-coming-to-panera-bread/)
-- [Best space-themed 3D prints: Recreate iconic spacecraft and objects](https://www.space.com/best-space-3d-prints)
+- [Brex takes a swipe at Concur with an expansion into travel](https://techcrunch.com/2023/03/22/fintech-brex-takes-a-swipe-at-concur-with-an-expansion-into-travel/)
+- [See the moon and Jupiter meet in the sky tonight &lpar;March 22&rpar;](https://www.space.com/moon-jupiter-conjunction-skywatching-march-2023)
+- [Retro camera app Hipstamatic makes its return as an anti-Instagram social network](https://techcrunch.com/2023/03/22/retro-camera-app-hipstamatic-makes-its-return-as-an-anti-instagram-social-network/)
+- [The Mandalorian season 3 episode 4 review: Saving the next generation](https://www.space.com/the-mandalorian-season-3-episode-4-review)
+- [Mozilla launches a new startup focused on ‘trustworthy’ AI](https://techcrunch.com/2023/03/22/mozilla-launches-a-new-startup-focused-on-trustworthy-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
