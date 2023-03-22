@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: GitHub CEO says new code completion tool ‘brings the fun back to programming’](https://techcrunch.com/2023/03/22/daily-crunch-github-ceo-says-new-code-completion-tool-brings-the-fun-back-to-programming/)
+- [Mars helicopter Ingenuity aces 48th flight on the Red Planet](https://www.space.com/nasa-ingenuity-mars-helicopter-flight-48)
+- [Adobe’s thoughts on the ethics of AI-generated images &lpar;and paying its contributors for them&rpar;](https://techcrunch.com/2023/03/22/adobes-thoughts-on-the-ethics-of-ai-generated-images-and-paying-its-contributors-for-them/)
+- [Boston Dynamics puts its robots to work](https://techcrunch.com/2023/03/22/boston-dynamics-puts-its-robots-to-work/)
 - [US Space Force wants to test how to build satellites in orbit with $1.6 million Arkysys deal](https://www.space.com/space-force-picks-arkisys-to-build-satellites-in-orbit)
-- [SEC sues Tron founder and celebrities, including Lindsay Lohan, Jake Paul and Soulja Boy, for crypto securities violations](https://techcrunch.com/2023/03/22/sec-sues-tron-founder-and-celebrities-including-lindsay-lohan-jake-paul-and-soulja-boy-for-crypto-securities-violations/)
-- [Skyscraper-size asteroid will get closer to Earth than the moon on March 25](https://www.space.com/skyscraper-size-asteroid-2023-dz2-march-2023-flyby)
-- [Oma Fertility to speak on building a better IVF experience on TechCrunch Live](https://techcrunch.com/2023/03/22/oma-fertility-to-speak-on-building-a-better-ivf-experience-on-techcrunch-live/)
-- [Microsoft launches Loop, its Notion competitor, in public preview](https://techcrunch.com/2023/03/22/microsoft-launches-loop-its-notion-competitor-in-public-preview/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
