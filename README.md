@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Beloved hacking veteran Kelly ‘Aloria’ Lum passes away at 41](https://techcrunch.com/2023/03/22/kelly-aloria-lum-passes-away-at-41-obituary/)
+- [A colossal &#39;hole&#39; in the sun&#39;s atmosphere could supercharge Earth&#39;s auroras on March 24](https://www.space.com/sun-coronal-hole-supercharge-auroras-march-2023)
 - [Ask Sophie: Which visas will allow us to expand our startup in the US?](https://techcrunch.com/2023/03/22/ask-sophie-which-visas-will-allow-us-to-expand-our-startup-in-the-u-s/)
 - [Europe tools up for the repairable future](https://techcrunch.com/2023/03/22/eu-right-to-repair/)
 - [Virgin Orbit restarts operations with &#39;small&#39; team as it works on finance deal: reports](https://www.space.com/virgin-orbit-resumes-operations-small-team-finance-deal)
-- [Best Marvel games of all time](https://www.space.com/best-marvel-games-of-all-time)
-- [Shadow wants to make game demos cool again with cloud computing](https://techcrunch.com/2023/03/22/shadow-wants-to-make-game-demos-cool-again-with-cloud-computing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
