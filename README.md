@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [“Graceful way out”: Investors propose some certain founders close shop and return funding](https://techcrunch.com/2023/03/21/vcs-struggling-founders/)
 - [Aspecta nabs $3.5M to build AI-vetted coder profiles](https://techcrunch.com/2023/03/21/aspecta-nabs-3-5m-to-build-ai-vetted-coder-profiles/)
 - [Kakao Mobility picks up ‘super app’ startup Splyt, once backed by SoftBank and Grab](https://techcrunch.com/2023/03/21/kakao-mobility-picks-up-super-app-startup-splyt-once-backed-by-softbank-and-grab/)
 - [Daily Crunch: Bing allows users to generate images using ‘very latest DALL-E models’](https://techcrunch.com/2023/03/21/daily-crunch-bing-allows-users-to-generate-images-using-very-latest-dall-e-models/)
 - [Artemis 2 moon rocket coming together ahead of 2024 astronaut launch &lpar;photo&rpar;](https://www.space.com/artemis-2-moon-rocket-core-stage-assembly-photo)
-- [South Korean probe&#39;s NASA moon camera illuminates dark lunar crater &lpar;photo&rpar;](https://www.space.com/danuri-shadowcam-moon-crater-photo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
