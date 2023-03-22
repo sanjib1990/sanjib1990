@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Oma Fertility to speak on building a better IVF experience on TechCrunch Live](https://techcrunch.com/2023/03/22/oma-fertility-to-speak-on-building-a-better-ivf-experience-on-techcrunch-live/)
+- [Microsoft launches Loop, its Notion competitor, in public preview](https://techcrunch.com/2023/03/22/microsoft-launches-loop-its-notion-competitor-in-public-preview/)
+- [Sorry, E.T. fans: Interstellar visitor &#39;Oumuamua isn&#39;t an alien spacecraft. It&#39;s just passing gas.](https://www.space.com/interstellar-object-oumuamua-acceleration-hydrogen-outgassing)
+- [5 planets will align on March 27 and you won&#39;t want to miss it. Here&#39;s where to look.](https://www.space.com/5-planet-alignment-march-2023-viewing-opportunity)
 - [4 Indian investors explain how their investment strategy has changed since 2021](https://techcrunch.com/2023/03/22/4-indian-investors-explain-how-their-investment-strategy-has-changed-since-2021/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [America’s space-based spy agency awards six contracts to hyperspectral imagery providers](https://techcrunch.com/2023/03/22/americas-space-based-spy-agency-awards-six-contracts-to-hyperspectral-imagery-providers/)
-- [How a proposed federal e-bike incentive could lead to fewer battery fires](https://techcrunch.com/2023/03/22/how-a-proposed-federal-e-bike-incentive-could-lead-to-fewer-battery-fires/)
-- [TikTok gears up for its big day in Congress](https://techcrunch.com/2023/03/22/tiktok-gears-up-for-its-big-day-in-congress/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
