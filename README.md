@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This mysterious streak of light over California is actually an old space station antenna meeting its doom &lpar;video&rpar;](https://www.space.com/space-debris-fireball-atmosphere-sacramento-st-patricks-day)
+- [Sea level rise slowed down in 2022. NASA says it&#39;s just a blip](https://www.space.com/sea-level-rise-slow-down-2022)
+- [Opera browser adds ChatGPT and AI summarization features](https://techcrunch.com/2023/03/22/opera-browser-adds-chatgpt-and-ai-summarization-features/)
 - [Checkout.com launches virtual and physical card issuing](https://techcrunch.com/2023/03/22/checkoutcom-launches-virtual-and-physical-card-issuing/)
 - [Emblem is the latest European seed fund in new wave of VC funds](https://techcrunch.com/2023/03/22/emblem-is-the-latest-european-seed-fund-in-new-wave-of-vc-funds/)
-- [“Graceful way out”: Investors propose some struggling founders close shop and return funding](https://techcrunch.com/2023/03/21/vcs-struggling-founders/)
-- [Aspecta nabs $3.5M to build AI-vetted coder profiles](https://techcrunch.com/2023/03/21/aspecta-nabs-3-5m-to-build-ai-vetted-coder-profiles/)
-- [Kakao Mobility picks up ‘super app’ startup Splyt, once backed by SoftBank and Grab](https://techcrunch.com/2023/03/21/kakao-mobility-picks-up-super-app-startup-splyt-once-backed-by-softbank-and-grab/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
