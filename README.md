@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Potato starch is better than human blood for making space bricks, scientists say](https://www.space.com/space-bricks-potato-starch-mars-moon-dirt)
+- [Indian edtech giant Byju’s says not acquiring Unacademy](https://techcrunch.com/2023/03/23/indian-edtech-giant-byjus-says-not-acquiring-unacademy/)
+- [OpenAI connects ChatGPT to the internet](https://techcrunch.com/2023/03/23/openai-connects-chatgpt-to-the-internet/)
 - [Now is the time to invest in Black-owned banks](https://techcrunch.com/2023/03/23/svb-black-owned-banks/)
 - [Look up! See Venus shine next to the young moon tonight](https://www.space.com/venus-moon-shine-close-sky-march-2023)
-- [TikTok questioned on ineffective teen time limits in Congressional hearing](https://techcrunch.com/2023/03/23/tiktok-questioned-on-ineffective-teen-time-limits-in-congressional-hearing/)
-- [TikTok called out for misusing Citizen Lab research](https://techcrunch.com/2023/03/23/tiktok-called-out-for-misusing-citizen-lab-research/)
-- [Fifteen shows off the latest generation of its shared, docked bikes](https://techcrunch.com/2023/03/23/fifteen-shows-off-the-latest-generation-of-its-shared-docked-bikes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
