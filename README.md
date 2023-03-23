@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Potato starch is better than human blood for making space bricks, scientists say](https://www.space.com/space-bricks-potato-starch-mars-moon-dirt)
-- [Indian edtech giant Byju’s says not acquiring Unacademy](https://techcrunch.com/2023/03/23/indian-edtech-giant-byjus-says-not-acquiring-unacademy/)
-- [OpenAI connects ChatGPT to the internet](https://techcrunch.com/2023/03/23/openai-connects-chatgpt-to-the-internet/)
-- [Now is the time to invest in Black-owned banks](https://techcrunch.com/2023/03/23/svb-black-owned-banks/)
-- [Look up! See Venus shine next to the young moon tonight](https://www.space.com/venus-moon-shine-close-sky-march-2023)
+- [New moon glows with &#39;Earthshine&#39; in incredible time-lapse photo series](https://www.space.com/miguel-claro-earthshine-moon-photo-series)
+- [SEC clamps down on Coinbase and Tron, while Do Kwon is arrested overseas](https://techcrunch.com/2023/03/23/sec-clamps-down-on-coinbase-and-tron-while-do-kwon-is-arrested-overseas/)
+- [Annular solar eclipse 2023: Everything you need to know about North America&#39;s &#39;ring of fire&#39; eclipse](https://www.space.com/annular-solar-eclipse-2023-guide-ring-of-fire)
+- [Metaverse is just VR, admits Meta, as it lobbies against ‘arbitrary’ network fee](https://techcrunch.com/2023/03/23/meta-metaverse-network-fee-nonsense/)
+- [Conventional wisdom](https://techcrunch.com/2023/03/23/conventional-wisdom/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
