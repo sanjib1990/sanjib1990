@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TikTok CEO says company scans public videos to determine users’ ages](https://techcrunch.com/2023/03/23/tiktok-ceo-says-company-scans-public-videos-to-determine-users-ages/)
-- [Enter the Objaverse: 800,000 virtual props for AIs to play with](https://techcrunch.com/2023/03/23/enter-the-objaverse-800000-virtual-props-for-ais-to-play-with/)
-- [Klarna plugs ChatGPT into its platform for faster product recommendations](https://techcrunch.com/2023/03/23/klarna-chatgpt-shopping/)
-- [Hivemapper is 1M kilometers closer to goal of beating Google Maps](https://techcrunch.com/2023/03/23/hivemapper-is-1m-kilometers-closer-to-goal-of-beating-google-maps/)
+- [&#39;Star Trek: Picard&#39; season 3 episode 6 beams in Trek cameos aplenty](https://www.space.com/star-trek-picard-season-3-episode-6-review)
+- [Perseverance rover snaps gorgeous shots of drifting predawn clouds on Mars &lpar;photos&rpar;](https://www.space.com/nasa-perseverance-rover-mars-predawn-cloud-photos)
 - [Boom! Sierra Space blows up final inflatable space station module in initial test series &lpar;video&rpar;](https://www.space.com/sierra-space-explosion-inflatable-life-habitat-space-station)
+- [New moon glows with &#39;Earthshine&#39; in incredible time-lapse photo series](https://www.space.com/miguel-claro-earthshine-moon-photo-series)
+- [Annular solar eclipse 2023: Everything you need to know about North America&#39;s &#39;ring of fire&#39; eclipse](https://www.space.com/annular-solar-eclipse-2023-guide-ring-of-fire)
 <!-- BLOG-POST-LIST:END -->
 
 ---
