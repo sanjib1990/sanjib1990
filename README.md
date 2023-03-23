@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hivemapper is 1M kilometers closer to goal of beating Google Maps](https://techcrunch.com/2023/03/23/hivemapper-is-1m-kilometers-closer-to-goal-of-beating-google-maps/)
+- [Boom! Sierra Space blows up final inflatable space station module in initial test series &lpar;video&rpar;](https://www.space.com/sierra-space-explosion-inflatable-life-habitat-space-station)
+- [TikTok CEO testifies before Congress](https://techcrunch.com/2023/03/23/tiktok-gears-up-for-its-big-day-in-congress/)
+- [Kids tech camp iD Tech still silent weeks after data breach](https://techcrunch.com/2023/03/23/id-tech-kids-tech-camp-data-breach/)
 - [New moon glows with &#39;Earthshine&#39; in incredible time-lapse photo series](https://www.space.com/miguel-claro-earthshine-moon-photo-series)
-- [SEC clamps down on Coinbase and Tron, while Do Kwon is arrested overseas](https://techcrunch.com/2023/03/23/sec-clamps-down-on-coinbase-and-tron-while-do-kwon-is-arrested-overseas/)
-- [Annular solar eclipse 2023: Everything you need to know about North America&#39;s &#39;ring of fire&#39; eclipse](https://www.space.com/annular-solar-eclipse-2023-guide-ring-of-fire)
-- [Metaverse is just VR, admits Meta, as it lobbies against ‘arbitrary’ network fee](https://techcrunch.com/2023/03/23/meta-metaverse-network-fee-nonsense/)
-- [Conventional wisdom](https://techcrunch.com/2023/03/23/conventional-wisdom/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
