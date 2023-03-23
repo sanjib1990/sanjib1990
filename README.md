@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ford expects EV business unit to lose $3B this year](https://techcrunch.com/2023/03/23/ford-expects-ev-business-unit-to-lose-3b-this-year-hit-profitability-in-2026/)
+- [Accenture to cut 19,000 jobs](https://techcrunch.com/2023/03/23/accenture-to-cut-19000-jobs/)
+- [How to spot investment-worthy founders: Look for mindset, competence and confidence](https://techcrunch.com/2023/03/23/how-to-spot-investment-worthy-founders-look-for-mindset-competence-and-confidence/)
 - [Workera double downs on AI for upskilling with $23.5M infusion](https://techcrunch.com/2023/03/23/upskilling-platform-workera-raises-23-5m-to-double-down-on-its-ai-tech/)
 - [Relativity Space’s first launch fails to reach orbit, but proves its 3D-printing rocket tech works](https://techcrunch.com/2023/03/23/relativity-space-launches-first-3d-printed-rocket/)
-- [Reselling marketplace Kream’s valuation rises to $742M with $168M Series C](https://techcrunch.com/2023/03/23/reselling-marketplace-kreams-valuation-rises-to-742m-with-168m-series-c/)
-- [Supermassive black hole&#39;s relativistic jets are blowing bubbles in the Teacup Galaxy](https://www.space.com/black-holes-relativistic-jets-teacup-galaxy)
-- [Rwazi to scale its market intelligence platform backed by $4 million seed funding](https://techcrunch.com/2023/03/23/rwazi-to-scale-its-market-intelligence-platform-backed-by-4-million-seed-funding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
