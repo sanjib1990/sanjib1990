@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Canva unveils a series of new features, including several AI-powered tools](https://techcrunch.com/2023/03/22/canva-new-features-including-suite-of-ai-powered-tools/)
+- [Lun is in a mad rush to help heat-pump installers decarbonize homes](https://techcrunch.com/2023/03/22/lun-seed/)
+- [Relativity Space launches world&#39;s 1st 3D-printed rocket on historic test flight, but fails to reach orbit](https://www.space.com/relativity-space-terran-1-test-launch-failure)
 - [WhatsApp introduces a new Windows client with better calling features](https://techcrunch.com/2023/03/22/whatsapp-introduces-a-new-windows-client-with-better-calling-features/)
 - [Roofstock, valued at $1.9B last year, cuts 27% of staff in second round of layoffs](https://techcrunch.com/2023/03/22/roofstock-valued-at-1-9b-last-year-cuts-27-of-staff-in-second-round-of-layoffs/)
-- [Temasek’s Sheares Healthcare backs Asia-focused mental health startup Thoughtfull](https://techcrunch.com/2023/03/22/sheares-thoughtfull/)
-- [Southeast Asian credit fintech Kredivo scores $270M Series D](https://techcrunch.com/2023/03/22/kredivo-series-d/)
-- [Epic launches Unreal Editor for Fortnite, will give 40% of all revenue to creators](https://techcrunch.com/2023/03/22/epic-launches-unreal-editor-for-fortnite-will-give-40-of-all-revenue-to-creators/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
