@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Space dust could carry alien life across the galaxy, study suggests](https://www.space.com/alien-life-search-ejecta-asteroid-impacts)
-- [Astrophotography with a film camera: Is it possible?](https://www.space.com/astrophotography-with-a-film-camera)
-- [Pitch Deck Teardown: Prelaunch.com’s $1.5M seed deck](https://techcrunch.com/2023/03/23/sample-seed-pitch-deck-prelaunch-dot-com/)
-- [Daily.dev is like Reddit meets Stack Overflow](https://techcrunch.com/2023/03/23/daily-dev-is-like-reddit-meets-stack-overflow/)
-- [Terra creator Do Kwon reportedly arrested at Montenegro airport](https://techcrunch.com/2023/03/23/terra-creator-do-kwon-reportedly-arrested-at-montenegro-airport/)
+- [Bears abound, but none in sight at Denver’s crypto fest](https://techcrunch.com/2023/03/23/crypto-bear-market/)
+- [Astronomers urged to fight &#39;tooth and nail&#39; to protect dark skies](https://www.space.com/astronomers-urged-protect-dark-skies)
+- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2023/03/23/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/)
+- [Former Stripe engineer raises $4M for Beam, a fintech startup out to help contractors get paid faster](https://techcrunch.com/2023/03/23/former-stripe-engineer-raises-4m-for-beam-a-fintech-startup-out-to-help-contractors-get-paid-faster/)
+- [Earth is on track for devastating climate change if we don&#39;t act. These 5 weather disasters show what&#39;s to come.](https://www.space.com/earth-faces-climate-change-weather-disasters)
 <!-- BLOG-POST-LIST:END -->
 
 ---
