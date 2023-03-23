@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hex lands another $28M as data collaboration platform continues to gain traction](https://techcrunch.com/2023/03/23/hex-lands-another-28m-as-data-collaboration-platform-continues-to-gain-traction/)
-- [Plural VC lures mRNA vaccine and AI pioneer to become its newest partner](https://techcrunch.com/2023/03/23/plural-vc-lures-mrna-vaccine-and-ai-pioneer-to-become-its-newest-partner/)
-- [Snap is offering its AR tools to enterprise customers](https://techcrunch.com/2023/03/23/snap-is-offering-its-ar-tools-to-enterprise-customers/)
-- [TikTok’s hearing in Congress is a reminder of Chinese startups’ identity crisis](https://techcrunch.com/2023/03/23/tiktoks-hearing-in-congress-is-a-reminder-of-chinese-startups-identity-crisis/)
-- [DoorDash is adding three new retail partners and updating its shopping features](https://techcrunch.com/2023/03/23/doordash-new-retail-partners-updating-shopping-features/)
+- [Space dust could carry alien life across the galaxy, study suggests](https://www.space.com/alien-life-search-ejecta-asteroid-impacts)
+- [Astrophotography with a film camera: Is it possible?](https://www.space.com/astrophotography-with-a-film-camera)
+- [Pitch Deck Teardown: Prelaunch.com’s $1.5M seed deck](https://techcrunch.com/2023/03/23/sample-seed-pitch-deck-prelaunch-dot-com/)
+- [Daily.dev is like Reddit meets Stack Overflow](https://techcrunch.com/2023/03/23/daily-dev-is-like-reddit-meets-stack-overflow/)
+- [Terra creator Do Kwon reportedly arrested at Montenegro airport](https://techcrunch.com/2023/03/23/terra-creator-do-kwon-reportedly-arrested-at-montenegro-airport/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
