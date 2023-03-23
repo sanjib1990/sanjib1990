@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Vue Storefront snaps up $20M to grow its open-source based ‘frontend-as-a-service’ e-commerce toolkit and platform](https://techcrunch.com/2023/03/23/vue-snaps-up-20m-to-grow-its-open-source-based-frontend-as-a-service-e-commerce-toolkit-and-platform/)
 - [IntegrityNext raises $109M for a platform to audit supply chains for ESG compliance](https://techcrunch.com/2023/03/23/integritynext-raises-109m-for-a-platform-to-audit-supply-chains-for-esg-compliance/)
 - [India government-backed open e-commerce network expands to mobility](https://techcrunch.com/2023/03/23/india-government-backed-open-e-commerce-network-expands-to-mobility/)
 - [Ex-Flipkart exec’s Flash app wants to be an inbox for your e-commerce needs](https://techcrunch.com/2023/03/22/ex-flipkart-execs-flash-app-wants-to-be-an-inbox-for-your-e-commerce-needs/)
 - [Canva unveils a series of new features, including several AI-powered tools](https://techcrunch.com/2023/03/22/canva-new-features-including-suite-of-ai-powered-tools/)
-- [Lun is in a mad rush to help heat-pump installers decarbonize homes](https://techcrunch.com/2023/03/22/lun-seed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
