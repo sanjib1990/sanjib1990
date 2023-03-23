@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Roofstock, valued at $1.9B last year, cuts 27% of staff in second round of layoffs](https://techcrunch.com/2023/03/22/roofstock-valued-at-1-9b-last-year-cuts-27-of-staff-in-second-round-of-layoffs/)
 - [Temasek’s Sheares Healthcare backs Asia-focused mental health startup Thoughtfull](https://techcrunch.com/2023/03/22/sheares-thoughtfull/)
 - [Southeast Asian credit fintech Kredivo scores $270M Series D](https://techcrunch.com/2023/03/22/kredivo-series-d/)
 - [Epic launches Unreal Editor for Fortnite, will give 40% of all revenue to creators](https://techcrunch.com/2023/03/22/epic-launches-unreal-editor-for-fortnite-will-give-40-of-all-revenue-to-creators/)
 - [Coinbase stock drops after SEC Wells notice, a possible prelude to ‘enforcement action’](https://techcrunch.com/2023/03/22/coinbase-stock-drops-after-sec-wells-notice-a-possible-prelude-to-enforcement-action/)
-- [Daily Crunch: GitHub CEO says new code completion tool ‘brings the fun back to programming’](https://techcrunch.com/2023/03/22/daily-crunch-github-ceo-says-new-code-completion-tool-brings-the-fun-back-to-programming/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
