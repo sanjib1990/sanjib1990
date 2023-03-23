@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Supermassive black hole&#39;s relativistic jets are blowing bubbles in the Teacup Galaxy](https://www.space.com/black-holes-relativistic-jets-teacup-galaxy)
+- [Rwazi to scale its market intelligence platform backed by $4 million seed funding](https://techcrunch.com/2023/03/23/rwazi-to-scale-its-market-intelligence-platform-backed-by-4-million-seed-funding/)
+- [UAE&#39;s 1st long-duration astronaut marks the start of Ramadan in space](https://www.space.com/uae-astronaut-ramadan-in-space)
+- [YouTube shutting down Indian social commerce app Simsim](https://techcrunch.com/2023/03/23/youtube-shutting-down-indian-social-commerce-app-simsim/)
 - [Vue Storefront snaps up $20M to grow its open-source based ‘frontend-as-a-service’ e-commerce toolkit and platform](https://techcrunch.com/2023/03/23/vue-snaps-up-20m-to-grow-its-open-source-based-frontend-as-a-service-e-commerce-toolkit-and-platform/)
-- [IntegrityNext raises $109M for a platform to audit supply chains for ESG compliance](https://techcrunch.com/2023/03/23/integritynext-raises-109m-for-a-platform-to-audit-supply-chains-for-esg-compliance/)
-- [India government-backed open e-commerce network expands to mobility](https://techcrunch.com/2023/03/23/india-government-backed-open-e-commerce-network-expands-to-mobility/)
-- [Ex-Flipkart exec’s Flash app wants to be an inbox for your e-commerce needs](https://techcrunch.com/2023/03/22/ex-flipkart-execs-flash-app-wants-to-be-an-inbox-for-your-e-commerce-needs/)
-- [Canva unveils a series of new features, including several AI-powered tools](https://techcrunch.com/2023/03/22/canva-new-features-including-suite-of-ai-powered-tools/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
