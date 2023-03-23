@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Bears abound, but none in sight at Denver’s crypto fest](https://techcrunch.com/2023/03/23/crypto-bear-market/)
-- [Astronomers urged to fight &#39;tooth and nail&#39; to protect dark skies](https://www.space.com/astronomers-urged-protect-dark-skies)
-- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2023/03/23/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/)
-- [Former Stripe engineer raises $4M for Beam, a fintech startup out to help contractors get paid faster](https://techcrunch.com/2023/03/23/former-stripe-engineer-raises-4m-for-beam-a-fintech-startup-out-to-help-contractors-get-paid-faster/)
-- [Earth is on track for devastating climate change if we don&#39;t act. These 5 weather disasters show what&#39;s to come.](https://www.space.com/earth-faces-climate-change-weather-disasters)
+- [Now is the time to invest in Black-owned banks](https://techcrunch.com/2023/03/23/svb-black-owned-banks/)
+- [Look up! See Venus shine next to the young moon tonight](https://www.space.com/venus-moon-shine-close-sky-march-2023)
+- [TikTok questioned on ineffective teen time limits in Congressional hearing](https://techcrunch.com/2023/03/23/tiktok-questioned-on-ineffective-teen-time-limits-in-congressional-hearing/)
+- [TikTok called out for misusing Citizen Lab research](https://techcrunch.com/2023/03/23/tiktok-called-out-for-misusing-citizen-lab-research/)
+- [Fifteen shows off the latest generation of its shared, docked bikes](https://techcrunch.com/2023/03/23/fifteen-shows-off-the-latest-generation-of-its-shared-docked-bikes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
