@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hex lands another $28M as data collaboration platform continues to gain traction](https://techcrunch.com/2023/03/23/hex-lands-another-28m-as-data-collaboration-platform-continues-to-gain-traction/)
+- [Plural VC lures mRNA vaccine and AI pioneer to become its newest partner](https://techcrunch.com/2023/03/23/plural-vc-lures-mrna-vaccine-and-ai-pioneer-to-become-its-newest-partner/)
+- [Snap is offering its AR tools to enterprise customers](https://techcrunch.com/2023/03/23/snap-is-offering-its-ar-tools-to-enterprise-customers/)
+- [TikTok’s hearing in Congress is a reminder of Chinese startups’ identity crisis](https://techcrunch.com/2023/03/23/tiktoks-hearing-in-congress-is-a-reminder-of-chinese-startups-identity-crisis/)
 - [DoorDash is adding three new retail partners and updating its shopping features](https://techcrunch.com/2023/03/23/doordash-new-retail-partners-updating-shopping-features/)
-- [Stunning Hubble photo reveals star-studded M55 cluster](https://www.space.com/hubble-space-telescope-m55-cluster-photo)
-- [First drive: The 2024 GMC Hummer EV SUV is the perfect vehicle for chaos](https://techcrunch.com/2023/03/23/first-drive-the-2024-gmc-hummer-ev-suv-is-the-perfect-vehicle-for-chaos/)
-- [Britive, which helps secure public clouds, lands $20.5M investment](https://techcrunch.com/2023/03/23/britive-which-helps-secure-public-clouds-lands-20-5m-investment/)
-- [TikTok ban will benefit Meta, Google and Snap the most: Bernstein](https://techcrunch.com/2023/03/23/tiktok-ban-will-benefit-meta-google-and-snap-the-most-bernstein/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
