@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Workera double downs on AI for upskilling with $23.5M infusion](https://techcrunch.com/2023/03/23/upskilling-platform-workera-raises-23-5m-to-double-down-on-its-ai-tech/)
+- [Relativity Space’s first launch fails to reach orbit, but proves its 3D-printing rocket tech works](https://techcrunch.com/2023/03/23/relativity-space-launches-first-3d-printed-rocket/)
+- [Reselling marketplace Kream’s valuation rises to $742M with $168M Series C](https://techcrunch.com/2023/03/23/reselling-marketplace-kreams-valuation-rises-to-742m-with-168m-series-c/)
 - [Supermassive black hole&#39;s relativistic jets are blowing bubbles in the Teacup Galaxy](https://www.space.com/black-holes-relativistic-jets-teacup-galaxy)
 - [Rwazi to scale its market intelligence platform backed by $4 million seed funding](https://techcrunch.com/2023/03/23/rwazi-to-scale-its-market-intelligence-platform-backed-by-4-million-seed-funding/)
-- [UAE&#39;s 1st long-duration astronaut marks the start of Ramadan in space](https://www.space.com/uae-astronaut-ramadan-in-space)
-- [YouTube shutting down Indian social commerce app Simsim](https://techcrunch.com/2023/03/23/youtube-shutting-down-indian-social-commerce-app-simsim/)
-- [Vue Storefront snaps up $20M to grow its open-source based ‘frontend-as-a-service’ e-commerce toolkit and platform](https://techcrunch.com/2023/03/23/vue-snaps-up-20m-to-grow-its-open-source-based-frontend-as-a-service-e-commerce-toolkit-and-platform/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
