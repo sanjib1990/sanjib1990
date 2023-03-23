@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Ford expects EV business unit to lose $3B this year](https://techcrunch.com/2023/03/23/ford-expects-ev-business-unit-to-lose-3b-this-year-hit-profitability-in-2026/)
-- [Accenture to cut 19,000 jobs](https://techcrunch.com/2023/03/23/accenture-to-cut-19000-jobs/)
-- [How to spot investment-worthy founders: Look for mindset, competence and confidence](https://techcrunch.com/2023/03/23/how-to-spot-investment-worthy-founders-look-for-mindset-competence-and-confidence/)
-- [Workera double downs on AI for upskilling with $23.5M infusion](https://techcrunch.com/2023/03/23/upskilling-platform-workera-raises-23-5m-to-double-down-on-its-ai-tech/)
-- [Relativity Space’s first launch fails to reach orbit, but proves its 3D-printing rocket tech works](https://techcrunch.com/2023/03/23/relativity-space-launches-first-3d-printed-rocket/)
+- [DoorDash is adding three new retail partners and updating its shopping features](https://techcrunch.com/2023/03/23/doordash-new-retail-partners-updating-shopping-features/)
+- [Stunning Hubble photo reveals star-studded M55 cluster](https://www.space.com/hubble-space-telescope-m55-cluster-photo)
+- [First drive: The 2024 GMC Hummer EV SUV is the perfect vehicle for chaos](https://techcrunch.com/2023/03/23/first-drive-the-2024-gmc-hummer-ev-suv-is-the-perfect-vehicle-for-chaos/)
+- [Britive, which helps secure public clouds, lands $20.5M investment](https://techcrunch.com/2023/03/23/britive-which-helps-secure-public-clouds-lands-20-5m-investment/)
+- [TikTok ban will benefit Meta, Google and Snap the most: Bernstein](https://techcrunch.com/2023/03/23/tiktok-ban-will-benefit-meta-google-and-snap-the-most-bernstein/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
