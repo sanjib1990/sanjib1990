@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [When it comes to space, failure isn&#39;t just an option — it&#39;s a requirement](https://www.space.com/spaceflight-failure-necessity-sls-spacex)
-- [Crypto giant Binance temporarily suspends withdrawals and spot trading](https://techcrunch.com/2023/03/24/crypto-giant-binance-temporarily-suspends-spot-trading/)
-- [US, South Korea both seek Do Kwon’s extradition to face charges](https://techcrunch.com/2023/03/24/us-south-korea-both-seek-do-kwons-extradition-to-face-charges/)
-- [Rocket Lab launches 2 satellites, returns booster to Earth after delay from surprise solar storm](https://www.space.com/rocket-lab-launch-booster-recovery-march-2023)
-- [Want to see Uranus? The crescent moon points the way tonight &lpar;March 24&rpar;](https://www.space.com/see-moon-point-to-uranus-march-2023)
+- [UK narrows antitrust probe of Microsoft-Activision](https://techcrunch.com/2023/03/24/microsoft-activision-uk-antitrust-probe-2/)
+- [Kid-focused short video app Zigazoo launches a TikTok competitor for Gen Z](https://techcrunch.com/2023/03/24/kid-focused-short-video-app-zigazoo-launches-a-tiktok-competitor-for-gen-z/)
+- [How to use the secondary market to find clues about who will IPO first](https://techcrunch.com/2023/03/24/secondary-market-startup-ipo-predictions/)
+- [Hubble captures galactic jellyfish with bright tendrils of star formation &lpar;photo&rpar;](https://www.space.com/jellyfish-galaxy-star-formation-hubble-photo)
+- [Best alien invasion movies of all time](https://www.space.com/best-alien-invasion-movies)
 <!-- BLOG-POST-LIST:END -->
 
 ---
