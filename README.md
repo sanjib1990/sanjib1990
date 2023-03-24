@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [When it comes to space, failure isn&#39;t just an option — it&#39;s a requirement](https://www.space.com/spaceflight-failure-necessity-sls-spacex)
+- [Crypto giant Binance temporarily suspends withdrawals and spot trading](https://techcrunch.com/2023/03/24/crypto-giant-binance-temporarily-suspends-spot-trading/)
 - [US, South Korea both seek Do Kwon’s extradition to face charges](https://techcrunch.com/2023/03/24/us-south-korea-both-seek-do-kwons-extradition-to-face-charges/)
-- [Rocket Lab lifts off with 2 satellites onboard after unexpected solar storm delays launch](https://www.space.com/rocket-lab-launch-booster-recovery-march-2023)
+- [Rocket Lab launches 2 satellites, returns booster to Earth after delay from surprise solar storm](https://www.space.com/rocket-lab-launch-booster-recovery-march-2023)
 - [Want to see Uranus? The crescent moon points the way tonight &lpar;March 24&rpar;](https://www.space.com/see-moon-point-to-uranus-march-2023)
-- [Watch SpaceX launch 56 Starlink satellites, land rocket at sea today](https://www.space.com/spacex-starlink-satellites-group-5-5-launch)
-- [Watch Rocket Lab launch 2 satellites, recover booster on March 24 after delay](https://www.space.com/rocket-lab-launch-booster-recovery-livestream-march-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
