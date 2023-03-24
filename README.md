@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fortra told breached companies their data was safe](https://techcrunch.com/2023/03/24/fortra-goanywhere-clop-ransomware/)
+- [&#39;Ring of fire&#39; from US national parks: 7 great places to see the annular solar eclipse 2023](https://www.space.com/annular-solar-eclipse-2023-best-national-parks-locations)
+- [ABL Space Systems scores $60 million for rapid response launch for defense customers](https://techcrunch.com/2023/03/24/abl-space-systems-scores-60-million-for-rapid-response-launch-for-defense-customers/)
 - [SEC puts Coinbase on notice and other TC news](https://techcrunch.com/2023/03/24/sec-puts-coinbase-on-notice-and-other-tc-news/)
 - [How the FBI caught the BreachForums admin](https://techcrunch.com/2023/03/24/how-the-fbi-caught-the-breachforums-admin/)
-- [Uranus grows a smoggy cap while Jupiter&#39;s Red Spot keeps shrinking, Hubble telescope reveals &lpar;photos&rpar;](https://www.space.com/hubble-telescope-weather-uranus-jupiter)
-- [Turo just dropped its 2022 financials as its IPO hunt continues](https://techcrunch.com/2023/03/24/turo-just-dropped-its-2022-financials-as-its-ipo-hunt-continues/)
-- [Woolly introduces a Twitter and TweetDeck-inspired Mastodon app](https://techcrunch.com/2023/03/24/woolly-introduces-a-twitter-and-tweetdeck-inspired-mastodon-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
