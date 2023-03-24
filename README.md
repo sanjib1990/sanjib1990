@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Today’s cost-conscious business climate could give RPA a boost](https://techcrunch.com/2023/03/24/rpa-cost-conscious-boost/)
-- [Dylibso raises $6.6M to help developers take WebAssembly to production](https://techcrunch.com/2023/03/24/dylibso-raises-6-6m-to-help-developers-take-webassembly-to-production/)
-- [Here&#39;s what the sky would look like if humans could see gamma rays &lpar;video&rpar;](https://www.space.com/gamma-ray-sky-nasa-video-fermi-space-telescope)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [NASA investigates veteran Mars orbiter to solve a missing fuel mystery](https://www.space.com/mars-odyssey-orbiter-missing-fuel-mystery-solved)
+- [Blue Origin releases report on launch anomaly and plans to fly again ‘soon’](https://techcrunch.com/2023/03/24/blue-origin-releases-report-on-launch-anomaly-and-plans-to-fly-again-soon/)
+- [Just 7 days until the TC Early Stage early bird flies away](https://techcrunch.com/2023/03/24/7-days-until-the-tc-early-stage-early-bird-flies-away/)
+- [Investors want best-of-the-best ESG data. Here’s how to give it to them.](https://techcrunch.com/2023/03/24/investors-want-best-of-the-best-esg-data-heres-how-to-give-it-to-them/)
+- [TechCrunch+ roundup: 20 questions VCs ask, crypto compliance tips, Indian investor survey](https://techcrunch.com/2023/03/24/techcrunch-roundup-20-questions-vcs-ask-crypto-compliance-tips-indian-investor-survey/)
+- [FTC proposes new rule to make it easier to cancel free trials and subscriptions](https://techcrunch.com/2023/03/24/ftc-proposes-rule-easier-cancel-free-trials-subscriptions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
