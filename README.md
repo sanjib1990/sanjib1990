@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [UK narrows antitrust probe of Microsoft-Activision](https://techcrunch.com/2023/03/24/microsoft-activision-uk-antitrust-probe-2/)
-- [Kid-focused short video app Zigazoo launches a TikTok competitor for Gen Z](https://techcrunch.com/2023/03/24/kid-focused-short-video-app-zigazoo-launches-a-tiktok-competitor-for-gen-z/)
-- [How to use the secondary market to find clues about who will IPO first](https://techcrunch.com/2023/03/24/secondary-market-startup-ipo-predictions/)
-- [Hubble captures galactic jellyfish with bright tendrils of star formation &lpar;photo&rpar;](https://www.space.com/jellyfish-galaxy-star-formation-hubble-photo)
-- [Best alien invasion movies of all time](https://www.space.com/best-alien-invasion-movies)
+- [NASA investigates veteran Mars orbiter to solve a missing fuel mystery](https://www.space.com/mars-odyssey-orbiter-missing-fuel-mystery-solved)
+- [Not-so-fake dry powder, AI and the future of DAOs](https://techcrunch.com/2023/03/24/not-so-fake-dry-powder-ai-and-the-future-of-daos/)
+- [How Webb’s Coronagraphs Reveal Exoplanets in the Infrared](https://blogs.nasa.gov/webb/2023/03/24/how-webbs-coronagraphs-reveal-exoplanets-in-the-infrared/)
+- [Ford to build next-gen EV truck at $5.6B factory in 2025](https://techcrunch.com/2023/03/24/ford-to-build-next-gen-ev-truck-at-5-6b-factory-in-2025/)
+- [Huupe, a ‘smart’ basketball hoop startup, raises its game with $11M](https://techcrunch.com/2023/03/24/huupe-a-smart-basketball-hoop-startup-raises-its-game-with-11m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
