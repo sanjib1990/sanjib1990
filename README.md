@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Skywatchers enjoy a night of surprise auroras as strongest solar storm in years hits Earth &lpar;photos&rpar;](https://www.space.com/surprise-auroras-new-mexico-arizona-photos)
-- [Twitter Blue relaunched has made just $11M on mobile in its first 3 months](https://techcrunch.com/2023/03/24/twitter-blue-subscriptions-spendings-mobile-users/)
-- [Boeing Starliner&#39;s 1st astronaut mission delayed to May at the earliest](https://www.space.com/boeing-starliner-crew-flight-test-delay-may-2023)
-- [Blue Origin says it finally knows what caused its New Shepard rocket launch to fail last year](https://www.space.com/blue-origin-new-shepard-mishap-engine-nozzle-failure)
-- [Threading the needle: Exploring 5 ideas with the founders of LGBT+ VC](https://techcrunch.com/2023/03/24/threading-the-needle-exploring-5-ideas-with-the-founders-of-lgbt-vc/)
+- [SEC puts Coinbase on notice and other TC news](https://techcrunch.com/2023/03/24/sec-puts-coinbase-on-notice-and-other-tc-news/)
+- [How the FBI caught the BreachForums admin](https://techcrunch.com/2023/03/24/how-the-fbi-caught-the-breachforums-admin/)
+- [Uranus grows a smoggy cap while Jupiter&#39;s Red Spot keeps shrinking, Hubble telescope reveals &lpar;photos&rpar;](https://www.space.com/hubble-telescope-weather-uranus-jupiter)
+- [Turo just dropped its 2022 financials as its IPO hunt continues](https://techcrunch.com/2023/03/24/turo-just-dropped-its-2022-financials-as-its-ipo-hunt-continues/)
+- [Woolly introduces a Twitter and TweetDeck-inspired Mastodon app](https://techcrunch.com/2023/03/24/woolly-introduces-a-twitter-and-tweetdeck-inspired-mastodon-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
