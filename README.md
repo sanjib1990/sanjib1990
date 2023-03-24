@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter will kill ‘legacy’ blue checks on April 1](https://techcrunch.com/2023/03/23/twitter-will-kill-legacy-blue-checks-on-april-1/)
 - [Daily Crunch: In SEC filing, Accenture reveals plans to dismiss 19,000 workers over the next 18 months](https://techcrunch.com/2023/03/23/daily-crunch-in-sec-filing-accenture-reveals-plans-to-dismiss-19000-workers-over-the-next-18-months/)
 - [Coinbase execs weigh in on the crypto’s future in US amid regulatory scrutiny](https://techcrunch.com/2023/03/23/coinbase-sec-warning-crypto-future/)
 - [Startup says the seaweed blobbing toward Florida has a silver lining](https://techcrunch.com/2023/03/23/startup-says-the-seaweed-blobbing-toward-florida-has-a-silver-lining/)
 - [&#39;Star Trek: Picard&#39; season 3 episode 6 beams in Trek cameos aplenty](https://www.space.com/star-trek-picard-season-3-episode-6-review)
-- [TikTok CEO says company scans public videos to determine users’ ages](https://techcrunch.com/2023/03/23/tiktok-ceo-says-company-scans-public-videos-to-determine-users-ages/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
