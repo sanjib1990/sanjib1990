@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Skywatchers enjoy a night of surprise auroras as strongest solar storm in years hits Earth &lpar;photos&rpar;](https://www.space.com/surprise-auroras-new-mexico-arizona-photos)
+- [Twitter Blue relaunched has made just $11M on mobile in its first 3 months](https://techcrunch.com/2023/03/24/twitter-blue-subscriptions-spendings-mobile-users/)
+- [Boeing Starliner&#39;s 1st astronaut mission delayed to May at the earliest](https://www.space.com/boeing-starliner-crew-flight-test-delay-may-2023)
+- [Blue Origin says it finally knows what caused its New Shepard rocket launch to fail last year](https://www.space.com/blue-origin-new-shepard-mishap-engine-nozzle-failure)
 - [Threading the needle: Exploring 5 ideas with the founders of LGBT+ VC](https://techcrunch.com/2023/03/24/threading-the-needle-exploring-5-ideas-with-the-founders-of-lgbt-vc/)
-- [Framework refines its laptops and adds a cute way to reuse old parts](https://techcrunch.com/2023/03/24/framework-refines-its-laptops-and-adds-a-cute-way-to-reuse-old-parts/)
-- [French parliament votes for biometric surveillance at Paris Olympics](https://techcrunch.com/2023/03/24/paris-olympics-biometrics-surveillance/)
-- [Blue Origin releases report on launch anomaly and plans to fly again ‘soon’](https://techcrunch.com/2023/03/24/blue-origin-releases-report-on-launch-anomaly-and-plans-to-fly-again-soon/)
-- [Just 7 days until the TC Early Stage early bird flies away](https://techcrunch.com/2023/03/24/7-days-until-the-tc-early-stage-early-bird-flies-away/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
