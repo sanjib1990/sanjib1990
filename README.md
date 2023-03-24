@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [US, South Korea both seek Do Kwon’s extradition to face charges](https://techcrunch.com/2023/03/24/us-south-korea-both-seek-do-kwons-extradition-to-face-charges/)
+- [Rocket Lab lifts off with 2 satellites onboard after unexpected solar storm delays launch](https://www.space.com/rocket-lab-launch-booster-recovery-march-2023)
 - [Want to see Uranus? The crescent moon points the way tonight &lpar;March 24&rpar;](https://www.space.com/see-moon-point-to-uranus-march-2023)
 - [Watch SpaceX launch 56 Starlink satellites, land rocket at sea today](https://www.space.com/spacex-starlink-satellites-group-5-5-launch)
 - [Watch Rocket Lab launch 2 satellites, recover booster on March 24 after delay](https://www.space.com/rocket-lab-launch-booster-recovery-livestream-march-2023)
-- [New accounts now have to wait only 30 days for Twitter Blue](https://techcrunch.com/2023/03/24/new-accounts-now-have-to-wait-only-30-days-for-twitter-blue/)
-- [Twitter will kill ‘legacy’ blue checks on April 1](https://techcrunch.com/2023/03/23/twitter-will-kill-legacy-blue-checks-on-april-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
