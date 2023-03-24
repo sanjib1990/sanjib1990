@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Threading the needle: Exploring 5 ideas with the founders of LGBT+ VC](https://techcrunch.com/2023/03/24/threading-the-needle-exploring-5-ideas-with-the-founders-of-lgbt-vc/)
+- [Framework refines its laptops and adds a cute way to reuse old parts](https://techcrunch.com/2023/03/24/framework-refines-its-laptops-and-adds-a-cute-way-to-reuse-old-parts/)
+- [French parliament votes for biometric surveillance at Paris Olympics](https://techcrunch.com/2023/03/24/paris-olympics-biometrics-surveillance/)
 - [Blue Origin releases report on launch anomaly and plans to fly again ‘soon’](https://techcrunch.com/2023/03/24/blue-origin-releases-report-on-launch-anomaly-and-plans-to-fly-again-soon/)
 - [Just 7 days until the TC Early Stage early bird flies away](https://techcrunch.com/2023/03/24/7-days-until-the-tc-early-stage-early-bird-flies-away/)
-- [Investors want best-of-the-best ESG data. Here’s how to give it to them.](https://techcrunch.com/2023/03/24/investors-want-best-of-the-best-esg-data-heres-how-to-give-it-to-them/)
-- [TechCrunch+ roundup: 20 questions VCs ask, crypto compliance tips, Indian investor survey](https://techcrunch.com/2023/03/24/techcrunch-roundup-20-questions-vcs-ask-crypto-compliance-tips-indian-investor-survey/)
-- [FTC proposes new rule to make it easier to cancel free trials and subscriptions](https://techcrunch.com/2023/03/24/ftc-proposes-rule-easier-cancel-free-trials-subscriptions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
