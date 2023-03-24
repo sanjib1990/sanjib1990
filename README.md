@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Here&#39;s what the sky would look like if humans could see gamma rays &lpar;video&rpar;](https://www.space.com/gamma-ray-sky-nasa-video-fermi-space-telescope)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [NASA investigates veteran Mars orbiter to solve a missing fuel mystery](https://www.space.com/mars-odyssey-orbiter-missing-fuel-mystery-solved)
 - [Not-so-fake dry powder, AI and the future of DAOs](https://techcrunch.com/2023/03/24/not-so-fake-dry-powder-ai-and-the-future-of-daos/)
 - [How Webb’s Coronagraphs Reveal Exoplanets in the Infrared](https://blogs.nasa.gov/webb/2023/03/24/how-webbs-coronagraphs-reveal-exoplanets-in-the-infrared/)
-- [Ford to build next-gen EV truck at $5.6B factory in 2025](https://techcrunch.com/2023/03/24/ford-to-build-next-gen-ev-truck-at-5-6b-factory-in-2025/)
-- [Huupe, a ‘smart’ basketball hoop startup, raises its game with $11M](https://techcrunch.com/2023/03/24/huupe-a-smart-basketball-hoop-startup-raises-its-game-with-11m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
