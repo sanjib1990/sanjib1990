@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Want to see Uranus? The crescent moon points the way tonight &lpar;March 24&rpar;](https://www.space.com/see-moon-point-to-uranus-march-2023)
+- [Watch SpaceX launch 56 Starlink satellites, land rocket at sea today](https://www.space.com/spacex-starlink-satellites-group-5-5-launch)
 - [Watch Rocket Lab launch 2 satellites, recover booster on March 24 after delay](https://www.space.com/rocket-lab-launch-booster-recovery-livestream-march-2023)
 - [New accounts now have to wait only 30 days for Twitter Blue](https://techcrunch.com/2023/03/24/new-accounts-now-have-to-wait-only-30-days-for-twitter-blue/)
 - [Twitter will kill ‘legacy’ blue checks on April 1](https://techcrunch.com/2023/03/23/twitter-will-kill-legacy-blue-checks-on-april-1/)
-- [Daily Crunch: In SEC filing, Accenture reveals plans to dismiss 19,000 workers over the next 18 months](https://techcrunch.com/2023/03/23/daily-crunch-in-sec-filing-accenture-reveals-plans-to-dismiss-19000-workers-over-the-next-18-months/)
-- [Coinbase execs weigh in on the crypto’s future in US amid regulatory scrutiny](https://techcrunch.com/2023/03/23/coinbase-sec-warning-crypto-future/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
