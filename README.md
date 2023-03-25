@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rounds that matter: Fintech’s fortunes, DAO dreams, Asia’s reseller revival](https://techcrunch.com/2023/03/25/etoro-kredivo-kream-big-rounds/)
+- [How to watch Ceres, a dwarf planet 14 times smaller than Pluto, photobomb a spiral galaxy this weekend](https://www.space.com/dwarf-planet-asteroid-ceres-photobombs-galaxy-livestream)
+- [Avalanche wants to digitize all of the world’s assets on the blockchain](https://techcrunch.com/2023/03/25/avalanche-wants-to-digitize-all-of-the-worlds-assets-on-the-blockchain/)
+- [Watch Indian rocket launch final 36 OneWeb satellites tonight &lpar;March 25&rpar;](https://www.space.com/indian-rocket-launch-oneweb-satellites-march-2023)
 - [&#39;65&#39; star Adam Driver asks NASA about the asteroid threat to Earth &lpar;video&rpar;](https://www.space.com/adam-driver-65-nasa-asteroid-danger-video)
-- [See the moon shine next to the Pleiades star cluster tonight &lpar;March 25&rpar;](https://www.space.com/moon-shine-close-pleiades-march-2023-skywatching-target)
-- [Are solo GPs screwed?](https://techcrunch.com/2023/03/25/venture-capital-solo-gps/)
-- [Alien mothership lurking in our solar system could be watching us with tiny probes, Pentagon official suggests](https://www.space.com/alien-mothership-lurking-in-solar-system-pentagon-official-suggests)
-- [Watch skyscraper-sized asteroid zoom near Earth tonight &lpar;March 25&rpar; in free livestream](https://www.space.com/asteroid-2023-dz2-earth-flyby-livestream)
 <!-- BLOG-POST-LIST:END -->
 
 ---
