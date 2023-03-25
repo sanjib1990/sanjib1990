@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The tide has shifted for solo GPs](https://techcrunch.com/2023/03/25/the-tide-has-shifted-for-solo-gps/)
+- [This Week in Apps: TikTok goes to Congress, apps connect to ChatGPT, Microsoft’s mobile games store plan](https://techcrunch.com/2023/03/25/this-week-in-apps-tiktok-goes-to-congress-apps-connect-to-chatgpt-microsofts-mobile-games-store-plan/)
 - [Ticketmaster sucks. Can blockchain be the cure?](https://techcrunch.com/2023/03/25/ticketmaster-sucks-blockchain-cure/)
 - [BlissLights Sky Lite Evolve Galaxy Star Projector review](https://www.space.com/blisslights-sky-lite-evolve-galaxy-star-projector-review)
 - [‘So infuriating’: TikTokers are fuming over potential ban](https://techcrunch.com/2023/03/25/tiktok-ban-creators-react/)
-- [Artificial intelligence could help hunt for life on Mars and other alien worlds](https://www.space.com/artificial-intelligence-alien-life-hunt-mars)
-- [Rounds that matter: Fintech’s fortunes, DAO dreams, Asia’s reseller revival](https://techcrunch.com/2023/03/25/etoro-kredivo-kream-big-rounds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
