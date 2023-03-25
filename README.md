@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ticketmaster sucks. Can blockchain be the cure?](https://techcrunch.com/2023/03/25/ticketmaster-sucks-blockchain-cure/)
 - [BlissLights Sky Lite Evolve Galaxy Star Projector review](https://www.space.com/blisslights-sky-lite-evolve-galaxy-star-projector-review)
 - [‘So infuriating’: TikTokers are fuming over potential ban](https://techcrunch.com/2023/03/25/tiktok-ban-creators-react/)
 - [Artificial intelligence could help hunt for life on Mars and other alien worlds](https://www.space.com/artificial-intelligence-alien-life-hunt-mars)
 - [Rounds that matter: Fintech’s fortunes, DAO dreams, Asia’s reseller revival](https://techcrunch.com/2023/03/25/etoro-kredivo-kream-big-rounds/)
-- [How to watch Ceres, a dwarf planet 14 times smaller than Pluto, photobomb a spiral galaxy this weekend](https://www.space.com/dwarf-planet-asteroid-ceres-photobombs-galaxy-livestream)
 <!-- BLOG-POST-LIST:END -->
 
 ---
