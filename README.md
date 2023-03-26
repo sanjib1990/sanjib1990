@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Deadly cyclone &#39;Freddy&#39; may be the longest-lived and most energetic storm ever recorded](https://www.space.com/deadly-cyclone-freddy-longest-lived-storm)
+- [Blinded by the speed of change](https://techcrunch.com/2023/03/26/generative-ai-quick-growth/)
+- [Forget banks: Investors should be worrying about the climate](https://techcrunch.com/2023/03/26/investors-climate-more-panicking/)
 - [The layoffs will continue until &lpar;investor&rpar; morale improves](https://techcrunch.com/2023/03/26/tech-company-layoffs-2023-morale/)
 - [What equipment do you need to see and photograph the planets](https://www.space.com/what-equipment-do-you-need-to-see-and-photograph-the-planets)
-- [The universe might be shaped like a doughnut, not like a pancake, new research suggests](https://www.space.com/universe-might-be-shaped-like-doughnut-not-pancake)
-- [Pinterest brings shopping capabilities to Shuffles, its collage-making app](https://techcrunch.com/2023/03/26/pinterest-brings-shopping-capabilities-to-shuffles-its-collage-making-app/)
-- [CNES astronaut Jean-Jacques Favier, 1st French scientist to fly in space, dies at 73](https://www.space.com/cnes-astronaut-jean-jaques-favier-obituary)
 <!-- BLOG-POST-LIST:END -->
 
 ---
