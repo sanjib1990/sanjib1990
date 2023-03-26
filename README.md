@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Unreal Engine 5.2 is getting too real](https://www.youtube.com/watch?v=qLGmj86-j4k)
 - [ChatGPT gets another insane new buff](https://www.youtube.com/watch?v=mpnh1YTT66w)
 - [Bing Chat Behaving Badly - Computerphile](https://www.youtube.com/watch?v=jHwHPyWkShk)
 - [Game over… GitHub Copilot X announced](https://www.youtube.com/watch?v=q1HZj40ZQrM)
 - [Google Bard… the ChatGPT killer?](https://www.youtube.com/watch?v=xW9DJTvB3NI)
-- [S4 E6: Teaching Teachers with Dr. Summer Morrill](https://www.youtube.com/watch?v=7i5fpNGMMhA)
 <!-- YOUTUBE:END -->
 
 ---
