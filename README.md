@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The layoffs will continue until &lpar;investor&rpar; morale improves](https://techcrunch.com/2023/03/26/tech-company-layoffs-2023-morale/)
+- [What equipment do you need to see and photograph the planets](https://www.space.com/what-equipment-do-you-need-to-see-and-photograph-the-planets)
+- [The universe might be shaped like a doughnut, not like a pancake, new research suggests](https://www.space.com/universe-might-be-shaped-like-doughnut-not-pancake)
+- [Pinterest brings shopping capabilities to Shuffles, its collage-making app](https://techcrunch.com/2023/03/26/pinterest-brings-shopping-capabilities-to-shuffles-its-collage-making-app/)
 - [CNES astronaut Jean-Jacques Favier, 1st French scientist to fly in space, dies at 73](https://www.space.com/cnes-astronaut-jean-jaques-favier-obituary)
-- [On This Day In Space: March 26, 1958: US Army launches Explorer 3 satellite](https://www.space.com/39251-on-this-day-in-space.html)
-- [How is Data in &#39;Star Trek: Picard&#39; if he died in &#39;Star Trek: Nemesis?&#39;](https://www.space.com/data-in-star-trek-picard-season-3-nemesis-death-explained)
-- [NASA selects solar physicist Nicola Fox as its new science chief](https://www.space.com/solar-physicist-nicola-fox-nasa-science-chief)
-- [Just 7 days until the TC Early Stage early bird flies away](https://techcrunch.com/2023/03/25/7-days-until-the-tc-early-stage-early-bird-flies-away/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
