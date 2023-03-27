@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jury selection begins for Tesla racial discrimination lawsuit](https://techcrunch.com/2023/03/27/jury-selection-begins-for-tesla-racial-discrimination-lawsuit/)
+- [Despite uncertain U.S. future, TikTok launches a Branded Effects platform for marketers](https://techcrunch.com/2023/03/27/despite-uncertain-u-s-future-tiktok-launches-a-branded-effects-platform-for-marketers/)
+- [Microsoft rebuilt Teams from the ground up, promises 2x faster performance](https://techcrunch.com/2023/03/27/microsoft-rebuilds-teams-promises-2x-faster-performance/)
 - [Slack backs Videowise’s approach to creating interactive, shoppable videos](https://techcrunch.com/2023/03/27/slack-videowise-shoppable-video-commerce/)
 - [Not all unicorns are in trouble, just a lot of them](https://techcrunch.com/2023/03/27/not-all-unicorns-are-in-trouble-just-a-lot-of-them/)
-- [Apple acquired a startup using AI to compress videos](https://techcrunch.com/2023/03/27/apple-acquired-a-startup-using-ai-to-compress-videos/)
-- [Just starting out angel investing? Avoid these 7 mistakes.](https://techcrunch.com/2023/03/27/just-starting-out-angel-investing-avoid-these-7-mistakes/)
-- [OpenView goes bigger with seventh fund, closing on $570M to invest in business software startups](https://techcrunch.com/2023/03/27/openview-570m-venture-capital-business-software/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
