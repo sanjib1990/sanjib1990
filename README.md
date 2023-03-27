@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple’s iOS 17 may include ‘several’ requested features](https://techcrunch.com/2023/03/27/apples-ios-17-may-include-several-requested-features/)
-- [Biden executive order bans federal agencies from using commercial spyware](https://techcrunch.com/2023/03/27/biden-order-commercial-spyware-ban/)
-- [Here’s how to stream Major League Baseball games in 2023](https://techcrunch.com/2023/03/27/heres-how-to-stream-major-league-baseball-games-in-2023/)
-- [More layoff misery could be coming to Salesforce](https://techcrunch.com/2023/03/27/more-layoff-misery-could-be-coming-to-salesforce/)
-- [Binance and CEO Changpeng Zhao sued by CFTC over trading and derivative violations](https://techcrunch.com/2023/03/27/binance-and-ceo-changpeng-zhao-sued-by-cftc-over-trading-and-derivative-violations/)
+- [Recruiting marketplace Paraform gets backing from Primer Sazze and Twitch founders](https://techcrunch.com/2023/03/27/paraform/)
+- [NASA rockets search for hurricane-like swirls at the edge of space](https://www.space.com/nasa-sounding-rockets-hurricane-swirls-upper-atmosphere)
+- [Lucid recalls hundreds of Air sedans over risk vehicles could lose power](https://techcrunch.com/2023/03/27/lucid-recalls-hundreds-of-air-sedans-over-risk-vehicles-could-lose-power/)
+- [Deep Agency shows the perils of applying AI to the fashion industry](https://techcrunch.com/2023/03/27/deep-agency-shows-the-perils-of-applying-ai-to-the-fashion-industry/)
+- [Snap exec and head of growth Jacob Andreou heads to Greylock](https://techcrunch.com/2023/03/27/snap-exec-and-head-of-growth-jacob-andreou-heads-to-greylock/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
