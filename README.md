@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [GitHub takes down repository containing Twitter’s source code](https://techcrunch.com/2023/03/27/github-takes-down-repository-containing-twitters-source-code/)
-- [Black holes may be swallowing invisible matter that slows the movement of stars](https://www.space.com/black-holes-may-be-swallowing-invisible-matter)
-- [Why is Mercury so weird? Blame the giant outer planets.](https://www.space.com/mercury-weird-because-of-jupiter-outer-planets)
-- [Activist investor Elliott ditches director nomination plans for Salesforce](https://techcrunch.com/2023/03/27/activist-investor-elliott-ditches-director-nomination-plans-for-salesforce/)
+- [OpenView goes bigger with seventh fund, closing on $570M to invest in business software startups](https://techcrunch.com/2023/03/27/openview-570m-venture-capital-business-software/)
+- [&#39;All Systems Are Go&#39; Snoopy stage show debuts at NASA visitor complex](https://www.space.com/all-systems-are-go-snoopy-nasa-show)
+- [How Mindbloom’s CEO sees the future of psychedelic mental health](https://techcrunch.com/2023/03/27/mindbloom-ketamine-therapy-treatment/)
+- [Sonos Era 100 and Era 300 review: The next generation of great, reliable multi-room sound](https://techcrunch.com/2023/03/27/sonos-era-100-era-300-review/)
+- [Anycubic Photon Mono X2 review](https://www.space.com/anycubic-photon-mono-x2-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
