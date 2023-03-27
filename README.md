@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Casetify launches iPhone cases that look like Crocs with Jibbtiz. Yes, for real.](https://techcrunch.com/2023/03/27/casetify-launches-iphone-cases-that-look-like-crocs-with-jibbtiz-yes-for-real/)
+- [Disrupt 2023 — we’re shipping a big new release](https://techcrunch.com/2023/03/27/disrupt-2023-were-shipping-a-big-new-release/)
+- [Russia&#39;s leaky Soyuz capsule will depart space station on March 28. Here&#39;s how to watch it live online.](https://www.space.com/leaky-soyuz-spaceraft-departs-space-station-return-to-earth)
 - [NASA to name Artemis 2 crew next week, the first moon astronauts in 50 years](https://www.space.com/artemis-2-moon-astronauts-announcement-one-week)
 - [Saturn moon Titan could hold the clues to life&#39;s origin. This NASA drone could find them](https://www.space.com/nasa-drone-saturn-moon-titan-search-for-life)
-- [As Elliott withdraws Salesforce board nominations, activist pressure could be easing](https://techcrunch.com/2023/03/27/elliott-salesforce-board-withdraw/)
-- [Apple releases iOS 16.4 with new emojis, web push notifications, voice isolation for calls &amp; more](https://techcrunch.com/2023/03/27/apple-releases-ios-16-4-with-new-emojis-web-push-notifications-voice-isolation-for-calls-more/)
-- [What’s Turo worth?](https://techcrunch.com/2023/03/27/turo-getaround-ipo-valuations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
