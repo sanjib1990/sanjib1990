@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Recruiting marketplace Paraform gets backing from Primer Sazze and Twitch founders](https://techcrunch.com/2023/03/27/paraform/)
-- [NASA rockets search for hurricane-like swirls at the edge of space](https://www.space.com/nasa-sounding-rockets-hurricane-swirls-upper-atmosphere)
-- [Lucid recalls hundreds of Air sedans over risk vehicles could lose power](https://techcrunch.com/2023/03/27/lucid-recalls-hundreds-of-air-sedans-over-risk-vehicles-could-lose-power/)
-- [Deep Agency shows the perils of applying AI to the fashion industry](https://techcrunch.com/2023/03/27/deep-agency-shows-the-perils-of-applying-ai-to-the-fashion-industry/)
-- [Snap exec and head of growth Jacob Andreou heads to Greylock](https://techcrunch.com/2023/03/27/snap-exec-and-head-of-growth-jacob-andreou-heads-to-greylock/)
+- [The first round of Disney layoffs begins this week, CEO Bob Iger shares in memo](https://techcrunch.com/2023/03/27/disney-layoffs-2023-ceo-bob-iger-memo/)
+- [Satellites spy widespread devastation from Mississippi tornado &lpar;photos&rpar;](https://www.space.com/mississippi-tornado-satellite-imagery-town-devastation)
+- [Neptyne is building a Python-powered spreadsheet for data scientists](https://techcrunch.com/2023/03/27/y-combinator-backed-neptyne-is-building-a-python-powered-spreadsheet-for-data-scientists/)
+- [Apple discusses iPadOS 16.4’s new Pencil hover features](https://techcrunch.com/2023/03/27/apple-discusses-ipados-16-4s-new-pencil-hover-features/)
+- [Why some VCs bet on people over businesses](https://techcrunch.com/2023/03/27/why-some-vcs-bet-on-people-over-businesses/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
