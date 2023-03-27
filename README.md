@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Jury selection begins for Tesla racial discrimination lawsuit](https://techcrunch.com/2023/03/27/jury-selection-begins-for-tesla-racial-discrimination-lawsuit/)
-- [Despite uncertain U.S. future, TikTok launches a Branded Effects platform for marketers](https://techcrunch.com/2023/03/27/despite-uncertain-u-s-future-tiktok-launches-a-branded-effects-platform-for-marketers/)
-- [Microsoft rebuilt Teams from the ground up, promises 2x faster performance](https://techcrunch.com/2023/03/27/microsoft-rebuilds-teams-promises-2x-faster-performance/)
-- [Slack backs Videowise’s approach to creating interactive, shoppable videos](https://techcrunch.com/2023/03/27/slack-videowise-shoppable-video-commerce/)
-- [Not all unicorns are in trouble, just a lot of them](https://techcrunch.com/2023/03/27/not-all-unicorns-are-in-trouble-just-a-lot-of-them/)
+- [Apple’s iOS 17 may include ‘several’ requested features](https://techcrunch.com/2023/03/27/apples-ios-17-may-include-several-requested-features/)
+- [Biden executive order bans federal agencies from using commercial spyware](https://techcrunch.com/2023/03/27/biden-order-commercial-spyware-ban/)
+- [Here’s how to stream Major League Baseball games in 2023](https://techcrunch.com/2023/03/27/heres-how-to-stream-major-league-baseball-games-in-2023/)
+- [More layoff misery could be coming to Salesforce](https://techcrunch.com/2023/03/27/more-layoff-misery-could-be-coming-to-salesforce/)
+- [Binance and CEO Changpeng Zhao sued by CFTC over trading and derivative violations](https://techcrunch.com/2023/03/27/binance-and-ceo-changpeng-zhao-sued-by-cftc-over-trading-and-derivative-violations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
