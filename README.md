@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [As Elliott withdraws Salesforce board nominations, activist pressure could be easing](https://techcrunch.com/2023/03/27/elliott-salesforce-board-withdraw/)
+- [Apple releases iOS 16.4 with new emojis, web push notifications, voice isolation for calls &amp; more](https://techcrunch.com/2023/03/27/apple-releases-ios-16-4-with-new-emojis-web-push-notifications-voice-isolation-for-calls-more/)
+- [What’s Turo worth?](https://techcrunch.com/2023/03/27/turo-getaround-ipo-valuations/)
+- [Epic Games produces documents in antitrust case showing Googlers avoiding its litigation hold](https://techcrunch.com/2023/03/27/epic-games-produces-documents-in-antitrust-case-showing-googlers-avoiding-its-litigation-hold/)
 - [The first round of Disney layoffs begins this week, CEO Bob Iger shares in memo](https://techcrunch.com/2023/03/27/disney-layoffs-2023-ceo-bob-iger-memo/)
-- [Satellites spy widespread devastation from Mississippi tornado &lpar;photos&rpar;](https://www.space.com/mississippi-tornado-satellite-imagery-town-devastation)
-- [Neptyne is building a Python-powered spreadsheet for data scientists](https://techcrunch.com/2023/03/27/y-combinator-backed-neptyne-is-building-a-python-powered-spreadsheet-for-data-scientists/)
-- [Apple discusses iPadOS 16.4’s new Pencil hover features](https://techcrunch.com/2023/03/27/apple-discusses-ipados-16-4s-new-pencil-hover-features/)
-- [Why some VCs bet on people over businesses](https://techcrunch.com/2023/03/27/why-some-vcs-bet-on-people-over-businesses/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
