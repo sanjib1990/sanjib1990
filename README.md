@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA to name Artemis 2 crew next week, the first moon astronauts in 50 years](https://www.space.com/artemis-2-moon-astronauts-announcement-one-week)
+- [Saturn moon Titan could hold the clues to life&#39;s origin. This NASA drone could find them](https://www.space.com/nasa-drone-saturn-moon-titan-search-for-life)
 - [As Elliott withdraws Salesforce board nominations, activist pressure could be easing](https://techcrunch.com/2023/03/27/elliott-salesforce-board-withdraw/)
 - [Apple releases iOS 16.4 with new emojis, web push notifications, voice isolation for calls &amp; more](https://techcrunch.com/2023/03/27/apple-releases-ios-16-4-with-new-emojis-web-push-notifications-voice-isolation-for-calls-more/)
 - [What’s Turo worth?](https://techcrunch.com/2023/03/27/turo-getaround-ipo-valuations/)
-- [Epic Games produces documents in antitrust case showing Googlers avoiding its litigation hold](https://techcrunch.com/2023/03/27/epic-games-produces-documents-in-antitrust-case-showing-googlers-avoiding-its-litigation-hold/)
-- [The first round of Disney layoffs begins this week, CEO Bob Iger shares in memo](https://techcrunch.com/2023/03/27/disney-layoffs-2023-ceo-bob-iger-memo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
