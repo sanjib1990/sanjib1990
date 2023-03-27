@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pinterest brings shopping capabilities to Shuffles, its collage-making app](https://techcrunch.com/2023/03/26/pinterest-brings-shopping-capabilities-to-shuffles-its-collage-making-app/)
 - [Why this round of tech optimism feels different](https://techcrunch.com/2023/03/26/tech-optimism-feels-different/)
 - [Oma Fertility to speak on building a better IVF experience on TechCrunch Live](https://techcrunch.com/2023/03/26/oma-fertility-to-speak-on-building-a-better-ivf-experience-on-techcrunch-live/)
 - [The story of how Dave took the long road to become a neobank](https://techcrunch.com/2023/03/26/the-story-of-how-dave-took-the-long-road-to-become-a-neobank/)
 - [Deadly cyclone &#39;Freddy&#39; may be the longest-lived and most energetic storm ever recorded](https://www.space.com/deadly-cyclone-freddy-longest-lived-storm)
-- [Blinded by the speed of change](https://techcrunch.com/2023/03/26/generative-ai-quick-growth/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
