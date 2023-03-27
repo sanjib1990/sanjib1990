@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [GitHub takes down repository containing Twitter’s source code](https://techcrunch.com/2023/03/27/github-takes-down-repository-containing-twitters-source-code/)
 - [Black holes may be swallowing invisible matter that slows the movement of stars](https://www.space.com/black-holes-may-be-swallowing-invisible-matter)
 - [Why is Mercury so weird? Blame the giant outer planets.](https://www.space.com/mercury-weird-because-of-jupiter-outer-planets)
 - [Activist investor Elliott ditches director nomination plans for Salesforce](https://techcrunch.com/2023/03/27/activist-investor-elliott-ditches-director-nomination-plans-for-salesforce/)
-- [First Citizens to acquire failed Silicon Valley Bank](https://techcrunch.com/2023/03/26/first-citizens-to-acquire-silicon-valley-bank/)
-- [Pinterest brings shopping capabilities to Shuffles, its collage-making app](https://techcrunch.com/2023/03/26/pinterest-brings-shopping-capabilities-to-shuffles-its-collage-making-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
