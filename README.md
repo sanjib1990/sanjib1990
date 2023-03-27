@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Twitter tells GitHub to remove proprietary source code and help them ID who posted it](https://techcrunch.com/2023/03/27/daily-crunch-twitter-tells-github-to-remove-proprietary-source-code-and-help-them-id-who-posted-it/)
+- [Max Q: A lifeline](https://techcrunch.com/2023/03/27/max-q-a-lifeline/)
+- [Lyft CEO and president stepping down to be replaced by former Amazon exec](https://techcrunch.com/2023/03/27/lyft-ceo-and-president-stepping-down-to-be-replaced-by-former-amazon-exec/)
 - [Casetify launches iPhone cases that look like Crocs with Jibbtiz. Yes, for real.](https://techcrunch.com/2023/03/27/casetify-launches-iphone-cases-that-look-like-crocs-with-jibbtiz-yes-for-real/)
 - [Disrupt 2023 — we’re shipping a big new release](https://techcrunch.com/2023/03/27/disrupt-2023-were-shipping-a-big-new-release/)
-- [Russia&#39;s leaky Soyuz capsule will depart space station on March 28. Here&#39;s how to watch it live online.](https://www.space.com/leaky-soyuz-spaceraft-departs-space-station-return-to-earth)
-- [NASA to name Artemis 2 crew next week, the first moon astronauts in 50 years](https://www.space.com/artemis-2-moon-astronauts-announcement-one-week)
-- [Saturn moon Titan could hold the clues to life&#39;s origin. This NASA drone could find them](https://www.space.com/nasa-drone-saturn-moon-titan-search-for-life)
 <!-- BLOG-POST-LIST:END -->
 
 ---
