@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Slack backs Videowise’s approach to creating interactive, shoppable videos](https://techcrunch.com/2023/03/27/slack-videowise-shoppable-video-commerce/)
+- [Not all unicorns are in trouble, just a lot of them](https://techcrunch.com/2023/03/27/not-all-unicorns-are-in-trouble-just-a-lot-of-them/)
+- [Apple acquired a startup using AI to compress videos](https://techcrunch.com/2023/03/27/apple-acquired-a-startup-using-ai-to-compress-videos/)
+- [Just starting out angel investing? Avoid these 7 mistakes.](https://techcrunch.com/2023/03/27/just-starting-out-angel-investing-avoid-these-7-mistakes/)
 - [OpenView goes bigger with seventh fund, closing on $570M to invest in business software startups](https://techcrunch.com/2023/03/27/openview-570m-venture-capital-business-software/)
-- [&#39;All Systems Are Go&#39; Snoopy stage show debuts at NASA visitor complex](https://www.space.com/all-systems-are-go-snoopy-nasa-show)
-- [How Mindbloom’s CEO sees the future of psychedelic mental health](https://techcrunch.com/2023/03/27/mindbloom-ketamine-therapy-treatment/)
-- [Sonos Era 100 and Era 300 review: The next generation of great, reliable multi-room sound](https://techcrunch.com/2023/03/27/sonos-era-100-era-300-review/)
-- [Anycubic Photon Mono X2 review](https://www.space.com/anycubic-photon-mono-x2-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
