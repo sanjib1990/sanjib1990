@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Activist investor Elliott ditches director nomination plans for Salesforce](https://techcrunch.com/2023/03/27/activist-investor-elliott-ditches-director-nomination-plans-for-salesforce/)
 - [First Citizens to acquire failed Silicon Valley Bank](https://techcrunch.com/2023/03/26/first-citizens-to-acquire-silicon-valley-bank/)
 - [Pinterest brings shopping capabilities to Shuffles, its collage-making app](https://techcrunch.com/2023/03/26/pinterest-brings-shopping-capabilities-to-shuffles-its-collage-making-app/)
 - [Why this round of tech optimism feels different](https://techcrunch.com/2023/03/26/tech-optimism-feels-different/)
 - [Oma Fertility to speak on building a better IVF experience on TechCrunch Live](https://techcrunch.com/2023/03/26/oma-fertility-to-speak-on-building-a-better-ivf-experience-on-techcrunch-live/)
-- [The story of how Dave took the long road to become a neobank](https://techcrunch.com/2023/03/26/the-story-of-how-dave-took-the-long-road-to-become-a-neobank/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
