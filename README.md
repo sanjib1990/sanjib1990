@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Zoom’s new AI-powered features include whiteboard generation and meeting summaries](https://techcrunch.com/2023/03/28/daily-crunch-zooms-new-ai-powered-features-include-whiteboard-generation-and-meeting-summaries/)
+- [New ‘Tears of the Kingdom’ video shows Zelda doubling down on an interactive world](https://techcrunch.com/2023/03/28/new-tears-of-the-kingdom-video-shows-zelda-doubling-down-on-an-interactive-world/)
+- [All the tech and features in the all-electric Kia EV9 SUV](https://techcrunch.com/2023/03/28/all-the-tech-and-features-in-the-all-electric-kia-ev9-suv/)
+- [Brightest gamma-ray burst ever seen a 1-in-10,000-years event that&#39;s &#39;absolutely monstrous,&#39; scientists say](https://www.space.com/brightest-gamma-ray-burst-ever-results)
 - [Italy’s ban on cultivated meat could set the industry back](https://techcrunch.com/2023/03/28/italy-ban-cultivated-meat/)
-- [Lucid to lay off 1,300 employees in restructuring](https://techcrunch.com/2023/03/28/lucid-to-lay-off-1300-employees-in-restructuring/)
-- [William Shatner documentary &#39;You Can Call Me Bill&#39; will help expand access to space](https://www.space.com/william-shatner-documentary-space-for-humanity)
-- [Lockheed doubles down on lunar economy bet with new subsidiary Crescent Space Services](https://techcrunch.com/2023/03/28/lockheed-doubles-down-on-lunar-economy-bet-with-new-subsidiary-crescent-space-services/)
-- [Saildrone takes the wraps off its Voyager autonomous research vessel](https://techcrunch.com/2023/03/28/saildrone-takes-the-wraps-off-its-voyager-autonomous-research-vessel/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
