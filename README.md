@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla brings back European referral program as end of Q1 nears](https://techcrunch.com/2023/03/27/tesla-brings-back-european-referral-program-as-end-of-q1-nears/)
 - [Daily Crunch: Twitter tells GitHub to remove proprietary source code and help them ID who posted it](https://techcrunch.com/2023/03/27/daily-crunch-twitter-tells-github-to-remove-proprietary-source-code-and-help-them-id-who-posted-it/)
 - [Max Q: A lifeline](https://techcrunch.com/2023/03/27/max-q-a-lifeline/)
 - [Lyft CEO and president stepping down to be replaced by former Amazon exec](https://techcrunch.com/2023/03/27/lyft-ceo-and-president-stepping-down-to-be-replaced-by-former-amazon-exec/)
 - [Casetify launches iPhone cases that look like Crocs with Jibbtiz. Yes, for real.](https://techcrunch.com/2023/03/27/casetify-launches-iphone-cases-that-look-like-crocs-with-jibbtiz-yes-for-real/)
-- [Disrupt 2023 — we’re shipping a big new release](https://techcrunch.com/2023/03/27/disrupt-2023-were-shipping-a-big-new-release/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
