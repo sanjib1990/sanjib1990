@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Q1 VC results tread water, but that’s cold comfort for SaaS unicorns](https://techcrunch.com/2023/03/28/us-venture-capital-q1-2023/)
-- [Substack opens up a $2 million community fundraising round](https://techcrunch.com/2023/03/28/substack-opens-up-a-2-million-community-fundraising-round/)
-- [Seed funding finds fertile ground with Mate Fertility](https://techcrunch.com/2023/03/28/mate-fertility/)
-- [Laid off? Snag a free Expo+ pass to TC Disrupt 2023](https://techcrunch.com/2023/03/28/laid-off-free-expo-ticket-techcrunch-disrupt-2023/)
-- [Google Chrome and Classroom add new features for educators and students, including ‘reading mode’](https://techcrunch.com/2023/03/28/google-chrome-and-classroom-add-new-features-for-educators-and-students-including-reading-mode/)
+- [Shipments of iPhone made in India surged 162% in value terms](https://techcrunch.com/2023/03/28/shipments-of-iphone-made-in-india-surged-162-in-value-terms/)
+- [Library ebook app OverDrive to shut down on May 1st, readers directed to Libby instead](https://techcrunch.com/2023/03/28/library-ebook-app-overdrive-to-shut-down-on-may-1st-readers-directed-to-libby-instead/)
+- [After much delay, Apple finally launches Apple Pay Later](https://techcrunch.com/2023/03/28/after-much-delay-apple-finally-launches-apple-pay-later/)
+- [Alibaba splits into six in biggest overhaul in 24 years](https://techcrunch.com/2023/03/28/alibaba-splits-into-six-in-biggest-overhaul-in-24-years/)
+- [Building Generative AI before it was cool with Angela Hoover from Andi](https://techcrunch.com/2023/03/28/building-generative-ai-before-it-was-cool-with-angela-hoover-from-andi/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
