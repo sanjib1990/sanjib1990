@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [When life gives you carbon, make Carbonaide](https://techcrunch.com/2023/03/28/carbonaide-cement/)
+- [GitHub slashes engineering team in India](https://techcrunch.com/2023/03/27/github-slashes-engineering-team-in-india/)
 - [Elon Musk says Twitter will only show verified accounts on its algorithmic timeline](https://techcrunch.com/2023/03/27/elon-musk-says-twitter-will-only-show-verified-accounts-on-its-algorithmic-timeline/)
 - [‘High conviction, low volume’: Playfair launches $70M pre-seed fund for European startups](https://techcrunch.com/2023/03/27/as-part-of-the-funds-growth-henrik-wetter-sanchez-has-been-promoted-to-partner-having-joined-as-an-associate-in-2019/)
 - [Disney cuts metaverse division as part of broader restructuring](https://techcrunch.com/2023/03/27/disney-cuts-metaverse-division-as-part-of-broader-restructuring/)
-- [Tesla brings back European referral program as end of Q1 nears](https://techcrunch.com/2023/03/27/tesla-brings-back-european-referral-program-as-end-of-q1-nears/)
-- [Daily Crunch: Twitter tells GitHub to remove proprietary source code and help them ID who posted it](https://techcrunch.com/2023/03/27/daily-crunch-twitter-tells-github-to-remove-proprietary-source-code-and-help-them-id-who-posted-it/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
