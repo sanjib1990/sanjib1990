@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Krisp expands from noise canceling to on-device transcription](https://techcrunch.com/2023/03/28/krisp-expands-from-noise-canceling-to-on-device-transcription/)
+- [Locus Robotics CEO on the future of warehouse automation](https://techcrunch.com/2023/03/28/locus-robotics-ceo-on-the-future-of-warehouse-automation/)
+- [Experience the Found podcast live at TC Early Stage](https://techcrunch.com/2023/03/28/russ-wilcox-live-founder-podcast-techcrunch-early-stage-2023-2/)
+- [Virgin Orbit extends employee furlough after finance deal falls through: report](https://www.space.com/virgin-orbit-deal-collapse-employee-furlough-extended)
 - [Shipments of iPhone made in India surged 162% in value terms](https://techcrunch.com/2023/03/28/shipments-of-iphone-made-in-india-surged-162-in-value-terms/)
-- [Library ebook app OverDrive to shut down on May 1st, readers directed to Libby instead](https://techcrunch.com/2023/03/28/library-ebook-app-overdrive-to-shut-down-on-may-1st-readers-directed-to-libby-instead/)
-- [After much delay, Apple finally launches Apple Pay Later](https://techcrunch.com/2023/03/28/after-much-delay-apple-finally-launches-apple-pay-later/)
-- [Alibaba splits into six in biggest overhaul in 24 years](https://techcrunch.com/2023/03/28/alibaba-splits-into-six-in-biggest-overhaul-in-24-years/)
-- [Building Generative AI before it was cool with Angela Hoover from Andi](https://techcrunch.com/2023/03/28/building-generative-ai-before-it-was-cool-with-angela-hoover-from-andi/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
