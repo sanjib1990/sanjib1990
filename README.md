@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Children’s data feared stolen in Fortra ransomware attack](https://techcrunch.com/2023/03/28/children-data-fortra-ransomware/)
-- [Tiny Lunar Flashlight moon probe is in trouble. NASA has one month to fix it.](https://www.space.com/nasa-moon-probe-lunar-flashlight-one-month-fix)
-- [Are cryptocurrencies commodities or securities? Depends on which US agency you ask](https://techcrunch.com/2023/03/28/are-cryptocurrencies-commodities-or-securities/)
-- [Google Search is adding new ‘Perspectives’ and ‘About this author’ features to help users verify info](https://techcrunch.com/2023/03/28/google-search-is-adding-new-perspectives-and-about-this-author-features-to-help-users-verify-info/)
-- [Apple tvOS 16.4 update gives light-sensitive users a ‘Dim Flashing Lights’ feature](https://techcrunch.com/2023/03/28/apple-tvos-16-4-update-dim-flashing-lights-feature/)
+- [Italy’s ban on cultivated meat could set the industry back](https://techcrunch.com/2023/03/28/italy-ban-cultivated-meat/)
+- [Lucid to lay off 1,300 employees in restructuring](https://techcrunch.com/2023/03/28/lucid-to-lay-off-1300-employees-in-restructuring/)
+- [William Shatner documentary &#39;You Can Call Me Bill&#39; will help expand access to space](https://www.space.com/william-shatner-documentary-space-for-humanity)
+- [Lockheed doubles down on lunar economy bet with new subsidiary Crescent Space Services](https://techcrunch.com/2023/03/28/lockheed-doubles-down-on-lunar-economy-bet-with-new-subsidiary-crescent-space-services/)
+- [Saildrone takes the wraps off its Voyager autonomous research vessel](https://techcrunch.com/2023/03/28/saildrone-takes-the-wraps-off-its-voyager-autonomous-research-vessel/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
