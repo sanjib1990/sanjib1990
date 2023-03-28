@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Star Wars: Return of the Jedi&#39; 40th anniversary comics honor Jabba the Hutt and Ewoks](https://www.space.com/return-of-the-jedi-jabba-ewoks-40th-anniversary-comics)
+- [Asana launches new work intelligence tools with AI on the way](https://techcrunch.com/2023/03/28/asana-launches-new-work-intelligence-tools-with-ai-on-the-way/)
+- [Experience the Found podcast live at TC Early Stage](https://techcrunch.com/2023/03/28/russ-wilcox-live-founder-podcast-techcrunch-early-stage-2023-2/)
+- [Meta disputes it can be sued in Kenya, again](https://techcrunch.com/2023/03/28/meta-disputes-it-can-be-sued-in-kenya-again/)
 - [Cultured meat firm resurrects woolly mammoth in lab-grown meatball](https://techcrunch.com/2023/03/28/cultured-meat-firm-resurrects-woolly-mammoth-in-lab-grown-meatball/)
-- [Hackers could remotely turn off lights, honk, mess with Tesla’s infotainment system](https://techcrunch.com/2023/03/28/hackers-could-remotely-turn-off-lights-honk-mess-with-teslas-infotainment-system/)
-- [Fresh funding gives cat food brand Smalls avenue into retail for the first time](https://techcrunch.com/2023/03/28/cat-food-smalls-series-b-commerce/)
-- [Watch Mars near the first quarter moon in the night sky tonight](https://www.space.com/first-quarter-moon-march-2023)
-- [VCs continue to pour dollars into generative AI](https://techcrunch.com/2023/03/28/generative-ai-venture-capital/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
