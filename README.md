@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [Cabify, the Madrid-based Uber rival, says it’s raised $110M in new funding](https://techcrunch.com/2023/03/28/cabify-the-madrid-based-uber-rival-says-its-raised-110m-in-new-funding/)
-- [Private Japanese moon lander sends home stunning image from lunar orbit](https://www.space.com/japan-hakuto-r-moon-lander-photo-orbit)
-- [Isar Aerospace raises $165 million to bring more sovereign launch to Europe](https://techcrunch.com/2023/03/28/isar-aerospace-raises-165-million-to-bring-more-sovereign-launch-to-europe/)
-- [Apple Music Classical is now available for download to everyone](https://techcrunch.com/2023/03/28/apple-music-classical-is-now-available-for-download-to-everyone/)
+- [Venti raises $29M for autonomous vehicle tech designed for industrial and logistics hubs](https://techcrunch.com/2023/03/28/venti-raises-29m-for-autonomous-vehicle-tech-designed-for-industrial-and-logistics-hubs/)
+- [Zoom is adding new features to compete with Slack, Calendly, Google and Microsoft](https://techcrunch.com/2023/03/28/zoom-is-adding-new-features-to-compete-with-slack-calendly-google-and-microsoft/)
+- [Fusion startup Type One Energy gets $29M seed round to fast-track its reactor designs](https://techcrunch.com/2023/03/28/fusion-startup-type-one-fundraising/)
+- [Chinese lander find hidden resource of water on moon&#39;s surface](https://www.space.com/moon-water-glass-beads-change-5-reveals)
+- [Save over $300 on your next 3D printer with these Anycubic flash sales](https://www.space.com/anycubic-photon-3d-printers-spring-sale-deals)
 <!-- BLOG-POST-LIST:END -->
 
 ---
