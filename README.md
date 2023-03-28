@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Krisp expands from noise canceling to on-device transcription](https://techcrunch.com/2023/03/28/krisp-expands-from-noise-canceling-to-on-device-transcription/)
-- [Locus Robotics CEO on the future of warehouse automation](https://techcrunch.com/2023/03/28/locus-robotics-ceo-on-the-future-of-warehouse-automation/)
-- [Experience the Found podcast live at TC Early Stage](https://techcrunch.com/2023/03/28/russ-wilcox-live-founder-podcast-techcrunch-early-stage-2023-2/)
-- [Virgin Orbit extends employee furlough after finance deal falls through: report](https://www.space.com/virgin-orbit-deal-collapse-employee-furlough-extended)
-- [Shipments of iPhone made in India surged 162% in value terms](https://techcrunch.com/2023/03/28/shipments-of-iphone-made-in-india-surged-162-in-value-terms/)
+- [Microsoft lets generative AI loose on cybersecurity](https://techcrunch.com/2023/03/28/microsoft-lets-generative-ai-loose-on-cybersecurity/)
+- [Lawmakers call on USPS to combat surge in ‘change of address’ fraud](https://techcrunch.com/2023/03/28/lawmakers-bipartisan-usps-address-fraud/)
+- [Binance CFTC suit shows that ‘regulators will keep regulating, and regulate more’](https://techcrunch.com/2023/03/28/binance-lawsuit-cftc-crypto-exchange/)
+- [NASA Venus mission VERITAS becomes collateral damage amid budget pressures](https://www.space.com/nasa-veritas-venus-mission-budget-pressure)
+- [Google gets antitrust attention in Spain over news licensing](https://techcrunch.com/2023/03/28/google-gets-antitrust-attention-in-spain-over-news-licensing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
