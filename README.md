@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Venti raises $29M for autonomous vehicle tech designed for industrial and logistics hubs](https://techcrunch.com/2023/03/28/venti-raises-29m-for-autonomous-vehicle-tech-designed-for-industrial-and-logistics-hubs/)
-- [Zoom is adding new features to compete with Slack, Calendly, Google and Microsoft](https://techcrunch.com/2023/03/28/zoom-is-adding-new-features-to-compete-with-slack-calendly-google-and-microsoft/)
-- [Fusion startup Type One Energy gets $29M seed round to fast-track its reactor designs](https://techcrunch.com/2023/03/28/fusion-startup-type-one-fundraising/)
-- [Chinese lander find hidden resource of water on moon&#39;s surface](https://www.space.com/moon-water-glass-beads-change-5-reveals)
-- [Save over $300 on your next 3D printer with these Anycubic flash sales](https://www.space.com/anycubic-photon-3d-printers-spring-sale-deals)
+- [Cultured meat firm resurrects woolly mammoth in lab-grown meatball](https://techcrunch.com/2023/03/28/cultured-meat-firm-resurrects-woolly-mammoth-in-lab-grown-meatball/)
+- [Hackers could remotely turn off lights, honk, mess with Tesla’s infotainment system](https://techcrunch.com/2023/03/28/hackers-could-remotely-turn-off-lights-honk-mess-with-teslas-infotainment-system/)
+- [Fresh funding gives cat food brand Smalls avenue into retail for the first time](https://techcrunch.com/2023/03/28/cat-food-smalls-series-b-commerce/)
+- [Watch Mars near the first quarter moon in the night sky tonight](https://www.space.com/first-quarter-moon-march-2023)
+- [VCs continue to pour dollars into generative AI](https://techcrunch.com/2023/03/28/generative-ai-venture-capital/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
