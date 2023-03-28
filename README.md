@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Star Wars: Return of the Jedi&#39; 40th anniversary comics honor Jabba the Hutt and Ewoks](https://www.space.com/return-of-the-jedi-jabba-ewoks-40th-anniversary-comics)
-- [Asana launches new work intelligence tools with AI on the way](https://techcrunch.com/2023/03/28/asana-launches-new-work-intelligence-tools-with-ai-on-the-way/)
-- [Experience the Found podcast live at TC Early Stage](https://techcrunch.com/2023/03/28/russ-wilcox-live-founder-podcast-techcrunch-early-stage-2023-2/)
-- [Meta disputes it can be sued in Kenya, again](https://techcrunch.com/2023/03/28/meta-disputes-it-can-be-sued-in-kenya-again/)
-- [Cultured meat firm resurrects woolly mammoth in lab-grown meatball](https://techcrunch.com/2023/03/28/cultured-meat-firm-resurrects-woolly-mammoth-in-lab-grown-meatball/)
+- [Q1 VC results tread water, but that’s cold comfort for SaaS unicorns](https://techcrunch.com/2023/03/28/us-venture-capital-q1-2023/)
+- [Substack opens up a $2 million community fundraising round](https://techcrunch.com/2023/03/28/substack-opens-up-a-2-million-community-fundraising-round/)
+- [Seed funding finds fertile ground with Mate Fertility](https://techcrunch.com/2023/03/28/mate-fertility/)
+- [Laid off? Snag a free Expo+ pass to TC Disrupt 2023](https://techcrunch.com/2023/03/28/laid-off-free-expo-ticket-techcrunch-disrupt-2023/)
+- [Google Chrome and Classroom add new features for educators and students, including ‘reading mode’](https://techcrunch.com/2023/03/28/google-chrome-and-classroom-add-new-features-for-educators-and-students-including-reading-mode/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
