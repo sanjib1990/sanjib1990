@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple tvOS 16.4 update gives light sensitive users a ‘Dim Flashing Lights’ feature](https://techcrunch.com/2023/03/28/apple-tvos-16-4-update-dim-flashing-lights-feature/)
+- [Ask Sophie: What to do if selected/not selected in H-1B lottery?](https://techcrunch.com/2023/03/28/ask-sophie-what-to-do-if-selected-not-selected-in-h-1b-lottery/)
 - [Microsoft lets generative AI loose on cybersecurity](https://techcrunch.com/2023/03/28/microsoft-lets-generative-ai-loose-on-cybersecurity/)
 - [Lawmakers call on USPS to combat surge in ‘change of address’ fraud](https://techcrunch.com/2023/03/28/lawmakers-bipartisan-usps-address-fraud/)
 - [Binance CFTC suit shows that ‘regulators will keep regulating, and regulate more’](https://techcrunch.com/2023/03/28/binance-lawsuit-cftc-crypto-exchange/)
-- [NASA Venus mission VERITAS becomes collateral damage amid budget pressures](https://www.space.com/nasa-veritas-venus-mission-budget-pressure)
-- [Google gets antitrust attention in Spain over news licensing](https://techcrunch.com/2023/03/28/google-gets-antitrust-attention-in-spain-over-news-licensing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
