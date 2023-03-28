@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Techstars-backed Fez Delivery gets funding to scale its last-mile logistics platform](https://techcrunch.com/2023/03/28/techstars-backed-fez-delivery-gets-funding-to-scale-its-last-mile-logistics-platform/)
+- [Sequoia Capital India, GFC back 1-click payment checkout startup Nimbbl in $3.5m funding](https://techcrunch.com/2023/03/28/nimbbl-funding-sequoia-capital-india-gfc/)
 - [When life gives you carbon, make Carbonaide](https://techcrunch.com/2023/03/28/carbonaide-cement/)
 - [GitHub slashes engineering team in India](https://techcrunch.com/2023/03/27/github-slashes-engineering-team-in-india/)
 - [Elon Musk says Twitter will only show verified accounts on its algorithmic timeline](https://techcrunch.com/2023/03/27/elon-musk-says-twitter-will-only-show-verified-accounts-on-its-algorithmic-timeline/)
-- [‘High conviction, low volume’: Playfair launches $70M pre-seed fund for European startups](https://techcrunch.com/2023/03/27/as-part-of-the-funds-growth-henrik-wetter-sanchez-has-been-promoted-to-partner-having-joined-as-an-associate-in-2019/)
-- [Disney cuts metaverse division as part of broader restructuring](https://techcrunch.com/2023/03/27/disney-cuts-metaverse-division-as-part-of-broader-restructuring/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
