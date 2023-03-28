@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cabify, the Madrid-based Uber rival, says it’s raised $110M in new funding](https://techcrunch.com/2023/03/28/cabify-the-madrid-based-uber-rival-says-its-raised-110m-in-new-funding/)
+- [Private Japanese moon lander sends home stunning image from lunar orbit](https://www.space.com/japan-hakuto-r-moon-lander-photo-orbit)
+- [Isar Aerospace raises $165 million to bring more sovereign launch to Europe](https://techcrunch.com/2023/03/28/isar-aerospace-raises-165-million-to-bring-more-sovereign-launch-to-europe/)
+- [Apple Music Classical is now available for download to everyone](https://techcrunch.com/2023/03/28/apple-music-classical-is-now-available-for-download-to-everyone/)
 - [Techstars-backed Fez Delivery gets funding to scale its last-mile logistics platform](https://techcrunch.com/2023/03/28/techstars-backed-fez-delivery-gets-funding-to-scale-its-last-mile-logistics-platform/)
-- [Sequoia Capital India, GFC back 1-click payment checkout startup Nimbbl in $3.5m funding](https://techcrunch.com/2023/03/28/nimbbl-funding-sequoia-capital-india-gfc/)
-- [When life gives you carbon, make Carbonaide](https://techcrunch.com/2023/03/28/carbonaide-cement/)
-- [GitHub slashes engineering team in India](https://techcrunch.com/2023/03/27/github-slashes-engineering-team-in-india/)
-- [Elon Musk says Twitter will only show verified accounts on its algorithmic timeline](https://techcrunch.com/2023/03/27/elon-musk-says-twitter-will-only-show-verified-accounts-on-its-algorithmic-timeline/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
