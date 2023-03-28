@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Ansible in 100 Seconds](https://www.youtube.com/watch?v=xRMPKQweySE)
 - [30 Windows Commands you CAN’T live without](https://www.youtube.com/watch?v=prVHU1fLR20)
 - [I literally connected my brain to GPT-4 with JavaScript](https://www.youtube.com/watch?v=-HYbFm67Gs8)
 - [Unreal Engine 5.2 is getting too real](https://www.youtube.com/watch?v=qLGmj86-j4k)
 - [ChatGPT gets another insane new buff](https://www.youtube.com/watch?v=mpnh1YTT66w)
-- [Bing Chat Behaving Badly - Computerphile](https://www.youtube.com/watch?v=jHwHPyWkShk)
 <!-- YOUTUBE:END -->
 
 ---
