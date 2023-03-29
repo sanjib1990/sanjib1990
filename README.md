@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: After raising $3M seed, global fintech platform Payday plans to secure licensing in Canada, UK](https://techcrunch.com/2023/03/29/daily-crunch-after-raising-3m-seed-global-fintech-platform-payday-plans-to-secure-licensing-in-canada-uk/)
+- [NASA pushes back Boeing Starliner’s crewed flight test to July](https://techcrunch.com/2023/03/29/nasa-pushes-back-boeing-starliners-crewed-flight-test-to-july/)
+- [Battery sourcing guidance might slash EV tax credits](https://techcrunch.com/2023/03/29/battery-sourcing-guidance-might-slash-ev-tax-credits/)
+- [That was fast! Microsoft slips ads into AI-powered Bing Chat](https://techcrunch.com/2023/03/29/that-was-fast-microsoft-slips-ads-into-ai-powered-bing-chat/)
 - [Hampton is tech’s new membership community for chief executive officers](https://techcrunch.com/2023/03/29/hampton-is-techs-new-membership-community-for-chief-executive-officers/)
-- [Irrigreen’s precision sprinklers prevent water waste and wet legs](https://techcrunch.com/2023/03/29/irrigreens-precision-sprinklers-prevent-water-waste-and-wet-legs/)
-- [6 VCs explain why embedded insurance isn’t the only hot opportunity in insurtech](https://techcrunch.com/2023/03/29/insurtech-investor-opinion-survey-2023/)
-- [Boeing delays 1st Starliner astronaut mission again, targets July 21 liftoff](https://www.space.com/boeing-starliner-first-crewed-flight-delayed-july-2023)
-- [The largest black hole ever discovered can fit 30 billion suns. We found it with gravity and bent light.](https://www.space.com/largest-known-black-hole-discovered-through-gravitational-lensing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
