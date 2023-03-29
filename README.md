@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Spotify is testing new card-style user profiles focused on discovery](https://techcrunch.com/2023/03/29/spotify-is-testing-new-card-style-user-profiles-focused-on-discovery/)
-- [Blockchain startup Fetch.ai grabs $40M to provide monetization and other tooling for AI-generated information](https://techcrunch.com/2023/03/29/blockchain-startup-fetch-ai-grabs-40m-to-provide-monetization-and-other-tooling-for-ai-generated-information/)
-- [Salt Labs raises $10M to gamify contract work](https://techcrunch.com/2023/03/29/salt-labs-raises-10m-to-gamify-contract-work/)
-- [NASA human spaceflight chief Kathy Lueders to retire at end of April](https://www.space.com/nasa-human-spaceflight-chief-kathy-lueders-retire)
-- [U.K. competition authority moves forward with in-depth probe of $61B Broadcom-VMware deal](https://techcrunch.com/2023/03/29/u-k-competition-authority-moves-forward-with-in-depth-probe-of-61b-broadcom-vmware-deal/)
+- [WWDC returns to Apple Park June 5](https://techcrunch.com/2023/03/29/wwdc-returns-to-apple-park-june-5-9/)
+- [&#39;Baa&#39;-ck from the moon, Shaun the Sheep to go on Artemis post-flight ESA tour](https://www.space.com/shaun-the-sheep-artemis-moon-post-flight-tour)
+- [Substack takes a different tack to raise more capital](https://techcrunch.com/2023/03/29/substack-crowdfunding-extension-round/)
+- [Instagram now lets you bookmark posts with friends and store them in a dedicated space](https://techcrunch.com/2023/03/29/instagram-now-lets-you-bookmark-posts-with-friends-and-store-them-in-a-dedicated-space/)
+- [Startup founders are trying to automate the worst part of the job: fundraising](https://techcrunch.com/2023/03/29/startup-automation-fundraising-seed-checks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
