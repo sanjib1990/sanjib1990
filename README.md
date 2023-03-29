@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Boeing delays 1st Starliner astronaut mission again, targets July 21 liftoff](https://www.space.com/boeing-starliner-first-crewed-flight-delayed-july-2023)
+- [The largest black hole ever discovered can fit 30 billion suns. We found it with gravity and bent light.](https://www.space.com/largest-known-black-hole-discovered-through-gravitational-lensing)
+- [Galaxy cluster spied forming in early universe &lpar;photos, video&rpar;](https://www.space.com/galaxy-cluster-formation-early-universe-alma)
 - [Online used-car marketplace Shift cuts workforce 30% following CarLotz merger](https://techcrunch.com/2023/03/29/online-used-car-marketplace-shift-cuts-workforce-30-following-carlotz-merger/)
 - [Microgravity in space can alter human cells. We now know how](https://www.space.com/space-microgravity-cellular-adaptation-sumo)
-- [Ramp reports 4x revenue growth, says it still has ‘vast majority’ of equity funding](https://techcrunch.com/2023/03/29/ramp-reports-4x-revenue-growth-says-it-still-has-vast-majority-of-equity-funding/)
-- [A tiny Eastern European cubesat measured the monster gamma-ray burst better than NASA. Here&#39;s how](https://www.space.com/cubesat-measures-brightest-ever-gamma-ray-burst)
-- [WWDC returns to Apple Park June 5](https://techcrunch.com/2023/03/29/wwdc-returns-to-apple-park-june-5-9/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
