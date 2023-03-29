@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The Mandalorian season 3 episode 5 review: All Mandalorians can be heroes](https://www.space.com/the-mandalorian-season-3-episode-5-review)
-- [Webb telescope finds a &#39;hot Jupiter&#39; exoplanet that defies expectations](https://www.space.com/webb-telescope-hot-jupiter-exoplanet-atmosphere)
-- [Spot the half-lit moon between the Gemini twins Castor and Pollux tonight](https://www.space.com/moon-gemini-twins-castor-pollux-march-2023)
-- [Hygraph raises $30M to scale out a new, federated approach to managing digital content](https://techcrunch.com/2023/03/29/hygraph-raises-30m-to-scale-out-a-new-federated-approach-to-managing-digital-content/)
-- [1,100+ notable signatories just signed an open letter asking “all AI labs to immediately pause for at least 6 months”](https://techcrunch.com/2023/03/28/1100-notable-signatories-just-signed-an-open-letter-asking-all-ai-labs-to-immediately-pause-for-at-least-6-months/)
+- [Hackers used spyware made in Spain to target users in the UAE, Google says](https://techcrunch.com/2023/03/29/hackers-variston-spyware-uae-google/)
+- [Google’s new ad transparency center will keep track of a brand’s previous ads](https://techcrunch.com/2023/03/29/googles-new-ad-transparency-center-will-keep-track-of-a-brands-previous-ads/)
+- [Hear Oma Fertility and Root Ventures talk male IVF challenges on TechCrunch Live](https://techcrunch.com/2023/03/29/root-ventures-oma-fertility-building-startups-pandemic/)
+- [Mysterious aurora-like phenomenon &#39;STEVE&#39; appears during strongest solar storm for more than half a decade](https://www.space.com/aurora-phenomenon-steve-strongest-solar-storm-march-2023)
+- [Watch SpaceX launch 56 Starlink satellites, land rocket at sea today](https://www.space.com/spacex-starlink-group-5-10-launch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
