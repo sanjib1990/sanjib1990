@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [1,100+ notable signatories just signed an open letter asking “all AI labs to immediately pause for at least 6 months”](https://techcrunch.com/2023/03/28/1100-notable-signatories-just-signed-an-open-letter-asking-all-ai-labs-to-immediately-pause-for-at-least-6-months/)
+- [Distressed Indian startup GoMechanic acquired by Lifelong Group-led consortium](https://techcrunch.com/2023/03/28/distressed-indian-startup-gomechanic-acquired-by-lifelong-group-led-consortium/)
+- [Amazon now lets T-mobile customers make and receive calls via an Alexa-enabled device](https://techcrunch.com/2023/03/28/amazon-now-lets-t-mobile-customers-make-and-receive-calls-via-an-alexa-enabled-device/)
+- [Amazon-backed Acko nears $120 million in new funding](https://techcrunch.com/2023/03/28/amazon-backed-acko-nears-120-million-in-new-funding/)
 - [The market has changed, but super-voting shares are here to stay, says Mr. IPO](https://techcrunch.com/2023/03/28/the-market-has-changed-but-super-voting-shares-are-here-to-stay-says-mr-ipo/)
-- [StellarFi lands $15M to help people build credit by paying bills, rent on time](https://techcrunch.com/2023/03/28/stellarfi-lands-15m-to-help-people-build-credit-by-paying-bills-rent-on-time/)
-- [Covariant’s CEO on building AI that helps robots learn](https://techcrunch.com/2023/03/28/covariants-ceo-on-building-ai-that-helps-robots-learn/)
-- [Daily Crunch: Zoom’s new AI-powered features include whiteboard generation and meeting summaries](https://techcrunch.com/2023/03/28/daily-crunch-zooms-new-ai-powered-features-include-whiteboard-generation-and-meeting-summaries/)
-- [New Tears of the Kingdom video shows Zelda doubling down on an interactive world](https://techcrunch.com/2023/03/28/new-tears-of-the-kingdom-video-shows-zelda-doubling-down-on-an-interactive-world/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
