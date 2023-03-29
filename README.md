@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The market has changed, but super-voting shares are here to stay, says Mr. IPO](https://techcrunch.com/2023/03/28/the-market-has-changed-but-super-voting-shares-are-here-to-stay-says-mr-ipo/)
+- [StellarFi lands $15M to help people build credit by paying bills, rent on time](https://techcrunch.com/2023/03/28/stellarfi-lands-15m-to-help-people-build-credit-by-paying-bills-rent-on-time/)
 - [Covariant’s CEO on building AI that helps robots learn](https://techcrunch.com/2023/03/28/covariants-ceo-on-building-ai-that-helps-robots-learn/)
 - [Daily Crunch: Zoom’s new AI-powered features include whiteboard generation and meeting summaries](https://techcrunch.com/2023/03/28/daily-crunch-zooms-new-ai-powered-features-include-whiteboard-generation-and-meeting-summaries/)
 - [New Tears of the Kingdom video shows Zelda doubling down on an interactive world](https://techcrunch.com/2023/03/28/new-tears-of-the-kingdom-video-shows-zelda-doubling-down-on-an-interactive-world/)
-- [All the tech and features in the all-electric Kia EV9 SUV](https://techcrunch.com/2023/03/28/all-the-tech-and-features-in-the-all-electric-kia-ev9-suv/)
-- [Brightest gamma-ray burst ever seen a 1-in-10,000-years event that&#39;s &#39;absolutely monstrous,&#39; scientists say](https://www.space.com/brightest-gamma-ray-burst-ever-results)
 <!-- BLOG-POST-LIST:END -->
 
 ---
