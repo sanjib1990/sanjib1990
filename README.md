@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hampton is tech’s new membership community for chief executive officers](https://techcrunch.com/2023/03/29/hampton-is-techs-new-membership-community-for-chief-executive-officers/)
+- [Irrigreen’s precision sprinklers prevent water waste and wet legs](https://techcrunch.com/2023/03/29/irrigreens-precision-sprinklers-prevent-water-waste-and-wet-legs/)
+- [6 VCs explain why embedded insurance isn’t the only hot opportunity in insurtech](https://techcrunch.com/2023/03/29/insurtech-investor-opinion-survey-2023/)
 - [Boeing delays 1st Starliner astronaut mission again, targets July 21 liftoff](https://www.space.com/boeing-starliner-first-crewed-flight-delayed-july-2023)
 - [The largest black hole ever discovered can fit 30 billion suns. We found it with gravity and bent light.](https://www.space.com/largest-known-black-hole-discovered-through-gravitational-lensing)
-- [Galaxy cluster spied forming in early universe &lpar;photos, video&rpar;](https://www.space.com/galaxy-cluster-formation-early-universe-alma)
-- [Online used-car marketplace Shift cuts workforce 30% following CarLotz merger](https://techcrunch.com/2023/03/29/online-used-car-marketplace-shift-cuts-workforce-30-following-carlotz-merger/)
-- [Microgravity in space can alter human cells. We now know how](https://www.space.com/space-microgravity-cellular-adaptation-sumo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
