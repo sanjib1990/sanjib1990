@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Mandalorian season 3 episode 5 review: All Mandalorians can be heroes](https://www.space.com/the-mandalorian-season-3-episode-5-review)
 - [Webb telescope finds a &#39;hot Jupiter&#39; exoplanet that defies expectations](https://www.space.com/webb-telescope-hot-jupiter-exoplanet-atmosphere)
 - [Spot the half-lit moon between the Gemini twins Castor and Pollux tonight](https://www.space.com/moon-gemini-twins-castor-pollux-march-2023)
-- [Google wins partial relief in Android antitrust case in India](https://techcrunch.com/2023/03/29/google-wins-partial-relief-in-android-antitrust-case-in-india/)
-- [Payday wants to power the future of work for Africa with $3M seed led by Moniepoint Inc](https://techcrunch.com/2023/03/29/payday-wants-to-power-the-future-of-work-for-africa-with-3m-seed-led-by-moniepoint-inc/)
 - [Hygraph raises $30M to scale out a new, federated approach to managing digital content](https://techcrunch.com/2023/03/29/hygraph-raises-30m-to-scale-out-a-new-federated-approach-to-managing-digital-content/)
+- [1,100+ notable signatories just signed an open letter asking “all AI labs to immediately pause for at least 6 months”](https://techcrunch.com/2023/03/28/1100-notable-signatories-just-signed-an-open-letter-asking-all-ai-labs-to-immediately-pause-for-at-least-6-months/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
