@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [AI’s moral compass with a jack of all trades](https://techcrunch.com/2023/03/29/ais-moral-compass-with-a-jack-of-all-trades/)
-- [How to watch NASA&#39;s Artemis 2 moon crew reveal live online on April 3](https://www.space.com/nasa-artemis-2-moon-crew-announcement-livestream)
-- [SVB collapse spared an already muted venture deal market](https://techcrunch.com/2023/03/29/svb-venture-deal-market-impact/)
-- [Twilio Segment introduces new portable customer records with reverse ETL](https://techcrunch.com/2023/03/29/twilio-segment-introduces-new-portable-customer-records-with-reverse-etl/)
-- [Hubble telescope spies mysterious celestial object that defies classification](https://www.space.com/hubble-telescope-mystery-object-lyra-Z-229-15)
+- [Spotify is testing new card-style user profiles focused on discovery](https://techcrunch.com/2023/03/29/spotify-is-testing-new-card-style-user-profiles-focused-on-discovery/)
+- [Blockchain startup Fetch.ai grabs $40M to provide monetization and other tooling for AI-generated information](https://techcrunch.com/2023/03/29/blockchain-startup-fetch-ai-grabs-40m-to-provide-monetization-and-other-tooling-for-ai-generated-information/)
+- [Salt Labs raises $10M to gamify contract work](https://techcrunch.com/2023/03/29/salt-labs-raises-10m-to-gamify-contract-work/)
+- [NASA human spaceflight chief Kathy Lueders to retire at end of April](https://www.space.com/nasa-human-spaceflight-chief-kathy-lueders-retire)
+- [U.K. competition authority moves forward with in-depth probe of $61B Broadcom-VMware deal](https://techcrunch.com/2023/03/29/u-k-competition-authority-moves-forward-with-in-depth-probe-of-61b-broadcom-vmware-deal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
