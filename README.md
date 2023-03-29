@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Kevin Costner’s location-based audio storytelling app Autio raises $5.9M](https://techcrunch.com/2023/03/29/kevin-costners-location-based-audio-storytelling-app-autio-raises-5-6m/)
-- [Google Cloud launches AlloyDB Omni, a downloadable version of its PostgreSQL-compatible database](https://techcrunch.com/2023/03/29/google-cloud-launches-alloydb-omni-a-downloadable-version-of-its-postgresql-compatible-database/)
-- [Meditation app Simple Habit sells to wellness marketplace Ingenio, pivots the company to Sleep Reset](https://techcrunch.com/2023/03/29/meditation-app-simple-habit-sells-to-wellness-marketplace-ingenio-pivots-the-company-to-sleep-reset/)
-- [Silence gets you nowhere in a data breach](https://techcrunch.com/2023/03/29/silence-gets-you-nowhere-in-a-data-breach/)
-- [Deep Render lands $9M for its AI-powered video compression tech](https://techcrunch.com/2023/03/29/deep-render-lands-9-million-for-its-ai-powered-video-compression-tech/)
+- [AI’s moral compass with a jack of all trades](https://techcrunch.com/2023/03/29/ais-moral-compass-with-a-jack-of-all-trades/)
+- [How to watch NASA&#39;s Artemis 2 moon crew reveal live online on April 3](https://www.space.com/nasa-artemis-2-moon-crew-announcement-livestream)
+- [SVB collapse spared an already muted venture deal market](https://techcrunch.com/2023/03/29/svb-venture-deal-market-impact/)
+- [Twilio Segment introduces new portable customer records with reverse ETL](https://techcrunch.com/2023/03/29/twilio-segment-introduces-new-portable-customer-records-with-reverse-etl/)
+- [Hubble telescope spies mysterious celestial object that defies classification](https://www.space.com/hubble-telescope-mystery-object-lyra-Z-229-15)
 <!-- BLOG-POST-LIST:END -->
 
 ---
