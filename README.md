@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Microgravity in space can alter human cells. We now know how](https://www.space.com/space-microgravity-cellular-adaptation-sumo)
+- [Ramp reports 4x revenue growth, says it still has ‘vast majority’ of equity funding](https://techcrunch.com/2023/03/29/ramp-reports-4x-revenue-growth-says-it-still-has-vast-majority-of-equity-funding/)
+- [A tiny Eastern European cubesat measured the monster gamma-ray burst better than NASA. Here&#39;s how](https://www.space.com/cubesat-measures-brightest-ever-gamma-ray-burst)
 - [WWDC returns to Apple Park June 5](https://techcrunch.com/2023/03/29/wwdc-returns-to-apple-park-june-5-9/)
 - [&#39;Baa&#39;-ck from the moon, Shaun the Sheep to go on Artemis post-flight ESA tour](https://www.space.com/shaun-the-sheep-artemis-moon-post-flight-tour)
-- [Substack takes a different tack to raise more capital](https://techcrunch.com/2023/03/29/substack-crowdfunding-extension-round/)
-- [Instagram now lets you bookmark posts with friends and store them in a dedicated space](https://techcrunch.com/2023/03/29/instagram-now-lets-you-bookmark-posts-with-friends-and-store-them-in-a-dedicated-space/)
-- [Startup founders are trying to automate the worst part of the job: fundraising](https://techcrunch.com/2023/03/29/startup-automation-fundraising-seed-checks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
