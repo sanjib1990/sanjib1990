@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hackers used spyware made in Spain to target users in the UAE, Google says](https://techcrunch.com/2023/03/29/hackers-variston-spyware-uae-google/)
-- [Google’s new ad transparency center will keep track of a brand’s previous ads](https://techcrunch.com/2023/03/29/googles-new-ad-transparency-center-will-keep-track-of-a-brands-previous-ads/)
-- [Hear Oma Fertility and Root Ventures talk male IVF challenges on TechCrunch Live](https://techcrunch.com/2023/03/29/root-ventures-oma-fertility-building-startups-pandemic/)
-- [Mysterious aurora-like phenomenon &#39;STEVE&#39; appears during strongest solar storm for more than half a decade](https://www.space.com/aurora-phenomenon-steve-strongest-solar-storm-march-2023)
-- [Watch SpaceX launch 56 Starlink satellites, land rocket at sea today](https://www.space.com/spacex-starlink-group-5-10-launch)
+- [Kevin Costner’s location-based audio storytelling app Autio raises $5.9M](https://techcrunch.com/2023/03/29/kevin-costners-location-based-audio-storytelling-app-autio-raises-5-6m/)
+- [Google Cloud launches AlloyDB Omni, a downloadable version of its PostgreSQL-compatible database](https://techcrunch.com/2023/03/29/google-cloud-launches-alloydb-omni-a-downloadable-version-of-its-postgresql-compatible-database/)
+- [Meditation app Simple Habit sells to wellness marketplace Ingenio, pivots the company to Sleep Reset](https://techcrunch.com/2023/03/29/meditation-app-simple-habit-sells-to-wellness-marketplace-ingenio-pivots-the-company-to-sleep-reset/)
+- [Silence gets you nowhere in a data breach](https://techcrunch.com/2023/03/29/silence-gets-you-nowhere-in-a-data-breach/)
+- [Deep Render lands $9M for its AI-powered video compression tech](https://techcrunch.com/2023/03/29/deep-render-lands-9-million-for-its-ai-powered-video-compression-tech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
