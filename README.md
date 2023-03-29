@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Webb telescope finds a &#39;hot Jupiter&#39; exoplanet that defies expectations](https://www.space.com/webb-telescope-hot-jupiter-exoplanet-atmosphere)
+- [Spot the half-lit moon between the Gemini twins Castor and Pollux tonight](https://www.space.com/moon-gemini-twins-castor-pollux-march-2023)
+- [Google wins partial relief in Android antitrust case in India](https://techcrunch.com/2023/03/29/google-wins-partial-relief-in-android-antitrust-case-in-india/)
 - [Payday wants to power the future of work for Africa with $3M seed led by Moniepoint Inc](https://techcrunch.com/2023/03/29/payday-wants-to-power-the-future-of-work-for-africa-with-3m-seed-led-by-moniepoint-inc/)
 - [Hygraph raises $30M to scale out a new, federated approach to managing digital content](https://techcrunch.com/2023/03/29/hygraph-raises-30m-to-scale-out-a-new-federated-approach-to-managing-digital-content/)
-- [1,100+ notable signatories just signed an open letter asking “all AI labs to immediately pause for at least 6 months”](https://techcrunch.com/2023/03/28/1100-notable-signatories-just-signed-an-open-letter-asking-all-ai-labs-to-immediately-pause-for-at-least-6-months/)
-- [Distressed Indian startup GoMechanic acquired by Lifelong Group-led consortium](https://techcrunch.com/2023/03/28/distressed-indian-startup-gomechanic-acquired-by-lifelong-group-led-consortium/)
-- [Amazon now lets T-mobile customers make and receive calls via an Alexa-enabled device](https://techcrunch.com/2023/03/28/amazon-now-lets-t-mobile-customers-make-and-receive-calls-via-an-alexa-enabled-device/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
