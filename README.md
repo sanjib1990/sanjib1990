@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Pitch Deck Teardown: Northspyre’s $25 million Series B deck](https://techcrunch.com/2023/03/30/sample-series-b-pitch-deck-northspyre/)
-- [&#39;Star Trek: Picard&#39; season 3 episode 7 begins the build up to the series finale](https://www.space.com/star-trek-picard-season-3-episode-7-review)
-- [Waymo retires its self-driving Chrysler Pacifica minivan](https://techcrunch.com/2023/03/30/waymo-retires-its-self-driving-chrysler-pacifica-minivan/)
-- [Reliance-backed Dunzo nears fresh funding of $50 million](https://techcrunch.com/2023/03/30/reliance-backed-dunzo-nears-fresh-funding-of-50-million/)
-- [YouTube’s new metric shows an artist’s reach across all formats, including Shorts](https://techcrunch.com/2023/03/30/youtubes-new-metric-shows-an-artists-reach-across-all-formats-including-shorts/)
+- [Mars cave-exploring robots take inspiration from Hansel and Gretel&#39;s breadcrumb trick](https://www.space.com/breadcrumbing-rovers-could-supercharge-mars-exploration)
+- [Crypto market cap unaffected on the week amid more US lawsuits](https://techcrunch.com/2023/03/30/crypto-market-cap-unaffected-on-the-week-amid-more-u-s-regulatory-enforcement/)
+- [I played the anime dating sim that does your taxes for you](https://techcrunch.com/2023/03/30/anime-girl-tax-dating-sim-mschf/)
+- [Netflix’s ad-supported plan comes to Apple TV after months of delay](https://techcrunch.com/2023/03/30/netflixs-ad-supported-plan-comes-to-apple-tv-after-months-of-delay/)
+- [Yeah, of course, YC’s winter class is oozing with AI companies](https://techcrunch.com/2023/03/30/ai-startups-ycombinator-demo-day/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
