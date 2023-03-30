@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Twitter alternative T2 launches new verification program, hires Discord engineering head as CTO](https://techcrunch.com/2023/03/30/twitter-alternative-t2-launches-new-verification-program-hires-discord-engineering-head-as-cto/)
-- [&#39;Ant-Man&#39; star Paul Rudd quizzes NASA expert on quantum science](https://www.space.com/ant-man-paul-rudd-nasa-quantum-science)
-- [There’s a new supply chain attack targeting customers of a phone system with 12 million users](https://techcrunch.com/2023/03/30/theres-a-new-supply-chain-attack-targeting-customers-of-a-phone-system-with-12-million-users/)
-- [A look at Sweden’s startup scene as Techstars drops Stockholm program](https://techcrunch.com/2023/03/30/techstars-stockholm-sweden-startups/)
-- [NASA&#39;s Artemis 2 trailer builds excitement for moon astronaut reveal with movie flair](https://www.space.com/nasa-artemis-2-moon-astronaut-reveal-trailer)
+- [Pitch Deck Teardown: Northspyre’s $25 million Series B deck](https://techcrunch.com/2023/03/30/sample-series-b-pitch-deck-northspyre/)
+- [&#39;Star Trek: Picard&#39; season 3 episode 7 begins the build up to the series finale](https://www.space.com/star-trek-picard-season-3-episode-7-review)
+- [Waymo retires its self-driving Chrysler Pacifica minivan](https://techcrunch.com/2023/03/30/waymo-retires-its-self-driving-chrysler-pacifica-minivan/)
+- [Reliance-backed Dunzo nears fresh funding of $50 million](https://techcrunch.com/2023/03/30/reliance-backed-dunzo-nears-fresh-funding-of-50-million/)
+- [YouTube’s new metric shows an artist’s reach across all formats, including Shorts](https://techcrunch.com/2023/03/30/youtubes-new-metric-shows-an-artists-reach-across-all-formats-including-shorts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
