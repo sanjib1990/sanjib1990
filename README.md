@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [DataDome, which uses AI to protect against bot-based attacks, raises $42M](https://techcrunch.com/2023/03/30/datadome-raises-42m-series-c-bot-detection/)
-- [1st &#39;Asteroid City&#39; trailer reveals Wes Anderson&#39;s take on a space-age alien encounter](https://www.space.com/asteroid-city-trailer-wes-anderson)
-- [Web3 protocol Polytrade raises $3.8M to improve global trade](https://techcrunch.com/2023/03/30/web3-protocol-polytrade-raises-3-8m-to-improve-global-trade/)
-- [Spain establishes its own space agency](https://www.space.com/spain-starts-national-space-agency-aee)
-- [&#39;Hole&#39; in the sun unleashes powerful X1.2 solar flare, threatens space weather mayhem](https://www.space.com/solar-flare-coronal-hole-space-weather)
+- [Green Labs secures $38.4M in debt financing about a month after conducting layoff](https://techcrunch.com/2023/03/30/green-labs-secures-38-4m-in-debt-financing-about-a-month-after-conducting-layoff/)
+- [Roku announces a second set of layoffs impacting 200 employees, or 6% of its workforce](https://techcrunch.com/2023/03/30/roku-announces-a-second-set-of-layoffs-impacting-200-employees-or-6-of-its-workforce/)
+- [NASA prepping for September arrival of OSIRIS-REx asteroid sample](https://www.space.com/nasa-preparing-osiris-rex-sample-arrival-earth)
+- [Crypto wallet company Ledger raises another $108 million](https://techcrunch.com/2023/03/30/crypto-wallet-company-ledger-raises-another-108-million/)
+- [P97 fills up its tank with $40M to fuel its gas station mobile commerce services](https://techcrunch.com/2023/03/30/p97-fills-up-its-tank-with-40m-to-fuel-its-gas-station-mobile-commerce-services/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
