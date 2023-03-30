@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Fixie wants to make it easier for companies to build on top of language models](https://techcrunch.com/2023/03/30/fixie-wants-to-make-it-easier-for-companies-to-build-on-top-of-language-models/)
-- [Netflix appears to be working to bring games to TV with the iPhone as a controller](https://techcrunch.com/2023/03/30/netflix-plans-to-bring-games-to-tv-and-let-players-use-their-iphones-as-video-game-controllers/)
-- [Green Labs secures $38.4M in debt financing about a month after conducting layoff](https://techcrunch.com/2023/03/30/green-labs-secures-38-4m-in-debt-financing-about-a-month-after-conducting-layoff/)
-- [Roku announces a second set of layoffs impacting 200 employees, or 6% of its workforce](https://techcrunch.com/2023/03/30/roku-announces-a-second-set-of-layoffs-impacting-200-employees-or-6-of-its-workforce/)
-- [NASA prepping for September arrival of OSIRIS-REx asteroid sample](https://www.space.com/nasa-preparing-osiris-rex-sample-arrival-earth)
+- [There’s a new supply chain attack targeting customers of a phone system with 12 million users](https://techcrunch.com/2023/03/30/theres-a-new-supply-chain-attack-targeting-customers-of-a-phone-system-with-12-million-users/)
+- [A look at Sweden’s startup scene as Techstars drops Stockholm program](https://techcrunch.com/2023/03/30/techstars-stockholm-sweden-startups/)
+- [Meta tries to keep denying EU users a free choice over tracking — but change is coming](https://techcrunch.com/2023/03/30/meta-facebook-gdpr-ads-tracking/)
+- [We&#39;ve discovered the Celestron Nexstar 4SE is now $180 off](https://www.space.com/celestron-nexstar-4se-deal-now-amazon-lowest-price)
+- [New Twitter API tiers still miss the mark, developers say](https://techcrunch.com/2023/03/30/new-twitter-api-tiers-still-miss-the-mark-developers-say/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
