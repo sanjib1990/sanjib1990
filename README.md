@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter alternative T2 launches new verification program, hires Discord engineering head as CTO](https://techcrunch.com/2023/03/30/twitter-alternative-t2-launches-new-verification-program-hires-discord-engineering-head-as-cto/)
+- [&#39;Ant-Man&#39; star Paul Rudd quizzes NASA expert on quantum science](https://www.space.com/ant-man-paul-rudd-nasa-quantum-science)
 - [There’s a new supply chain attack targeting customers of a phone system with 12 million users](https://techcrunch.com/2023/03/30/theres-a-new-supply-chain-attack-targeting-customers-of-a-phone-system-with-12-million-users/)
 - [A look at Sweden’s startup scene as Techstars drops Stockholm program](https://techcrunch.com/2023/03/30/techstars-stockholm-sweden-startups/)
-- [Meta tries to keep denying EU users a free choice over tracking — but change is coming](https://techcrunch.com/2023/03/30/meta-facebook-gdpr-ads-tracking/)
-- [We&#39;ve discovered the Celestron Nexstar 4SE is now $180 off](https://www.space.com/celestron-nexstar-4se-deal-now-amazon-lowest-price)
-- [New Twitter API tiers still miss the mark, developers say](https://techcrunch.com/2023/03/30/new-twitter-api-tiers-still-miss-the-mark-developers-say/)
+- [NASA&#39;s Artemis 2 trailer builds excitement for moon astronaut reveal with movie flair](https://www.space.com/nasa-artemis-2-moon-astronaut-reveal-trailer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
