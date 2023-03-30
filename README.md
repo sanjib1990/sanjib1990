@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Ledger locks down another $108M to double down on hardware crypto wallets](https://techcrunch.com/2023/03/30/daily-crunch-113/)
+- [Virgin Orbit burns up in uncontrolled descent](https://techcrunch.com/2023/03/30/virgin-orbit-burns-up-in-uncontrolled-descent/)
+- [Checkout.com’s new president is bullish on US expansion, says she ‘welcomes’ comparisons to Stripe](https://techcrunch.com/2023/03/30/checkout-coms-new-president-is-bullish-on-us-expansion-says-she-welcomes-comparisons-to-stripe/)
 - [Pokémon GO will raise the price of remote raid passes](https://techcrunch.com/2023/03/30/pokemon-go-will-raise-the-price-of-remote-raid-passes/)
 - [NASA establishes &#39;Moon to Mars&#39; office to help get astronauts to Red Planet](https://www.space.com/nasa-moon-to-mars-office-artemis)
-- [Discover the Disrupt 2023 Fintech Stage](https://techcrunch.com/2023/03/30/discover-the-disrupt-2023-fintech-stage/)
-- [Audible is testing ad-supported access to select titles for non-members](https://techcrunch.com/2023/03/30/audible-testing-ad-supported-access-select-titles-non-members/)
-- [Amazon&#39;s Kuiper satellite constellation will use these sleek antennas to serve you internet](https://www.space.com/amazon-kuiper-satellite-internet)
 <!-- BLOG-POST-LIST:END -->
 
 ---
