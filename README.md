@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [host your own HelpDesk](https://www.youtube.com/watch?v=Kq0BMVhbFkA)
 - [Elon wants GPT-5 stopped NOW… 5 reasons AI kinda sucks](https://www.youtube.com/watch?v=TpZcGhYp4rw)
-- [fine….build your own SECURE browser!! &lpar;a tutorial&rpar;](https://www.youtube.com/watch?v=799uhYUxtvA)
+- [the World’s most secure browser &lpar;build it yourself&rpar;](https://www.youtube.com/watch?v=799uhYUxtvA)
 - [Acropalypse Now - Computerphile](https://www.youtube.com/watch?v=95ovjnMhUq0)
 - [Ansible in 100 Seconds](https://www.youtube.com/watch?v=xRMPKQweySE)
-- [30 Windows Commands you CAN’T live without](https://www.youtube.com/watch?v=prVHU1fLR20)
 <!-- YOUTUBE:END -->
 
 ---
