@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Oxfam Novib and Goodwell target East African startups with €20M Pepea fund](https://techcrunch.com/2023/03/30/oxfam-novib-and-goodwell-target-east-african-startups-with-e20m-pepea-fund/)
 - [After bootstrapping for 15 years, energy renovation company Effy raises $22 million](https://techcrunch.com/2023/03/29/after-bootstrapping-for-15-years-energy-renovation-company-effy-raises-22-million/)
 - [Twitter announces new API with only free, basic, and enterprise levels](https://techcrunch.com/2023/03/29/twitter-announces-new-api-with-only-free-basic-and-enterprise-levels/)
 - [Indian edtech Unacademy slashes another 12% jobs](https://techcrunch.com/2023/03/29/unacademy-layoffs-2023/)
 - [Jeep puts electrification front and center at Easter Jeep Safari](https://techcrunch.com/2023/03/29/jeep-puts-electrification-front-and-center-at-easter-jeep-safari/)
-- [Lyft might drop shared rides, stay focused on basics under new CEO](https://techcrunch.com/2023/03/29/lyft-might-drop-shared-rides-stay-focused-on-basics-under-new-ceo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
