@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jeep puts electrification front and center at Easter Jeep Safari](https://techcrunch.com/2023/03/29/jeep-puts-electrification-front-and-center-at-easter-jeep-safari/)
 - [Lyft might drop shared rides, stay focused on basics under new CEO](https://techcrunch.com/2023/03/29/lyft-might-drop-shared-rides-stay-focused-on-basics-under-new-ceo/)
 - [Daily Crunch: After raising $3M seed, global fintech platform Payday plans to secure licensing in Canada, UK](https://techcrunch.com/2023/03/29/daily-crunch-after-raising-3m-seed-global-fintech-platform-payday-plans-to-secure-licensing-in-canada-uk/)
 - [NASA pushes back Boeing Starliner’s crewed flight test to July](https://techcrunch.com/2023/03/29/nasa-pushes-back-boeing-starliners-crewed-flight-test-to-july/)
 - [Battery sourcing guidance might slash EV tax credits](https://techcrunch.com/2023/03/29/battery-sourcing-guidance-might-slash-ev-tax-credits/)
-- [That was fast! Microsoft slips ads into AI-powered Bing Chat](https://techcrunch.com/2023/03/29/that-was-fast-microsoft-slips-ads-into-ai-powered-bing-chat/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
