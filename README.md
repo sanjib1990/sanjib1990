@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fixie wants to make it easier for companies to build on top of language models](https://techcrunch.com/2023/03/30/fixie-wants-to-make-it-easier-for-companies-to-build-on-top-of-language-models/)
+- [Netflix appears to be working to bring games to TV with the iPhone as a controller](https://techcrunch.com/2023/03/30/netflix-plans-to-bring-games-to-tv-and-let-players-use-their-iphones-as-video-game-controllers/)
 - [Green Labs secures $38.4M in debt financing about a month after conducting layoff](https://techcrunch.com/2023/03/30/green-labs-secures-38-4m-in-debt-financing-about-a-month-after-conducting-layoff/)
 - [Roku announces a second set of layoffs impacting 200 employees, or 6% of its workforce](https://techcrunch.com/2023/03/30/roku-announces-a-second-set-of-layoffs-impacting-200-employees-or-6-of-its-workforce/)
 - [NASA prepping for September arrival of OSIRIS-REx asteroid sample](https://www.space.com/nasa-preparing-osiris-rex-sample-arrival-earth)
-- [Crypto wallet company Ledger raises another $108 million](https://techcrunch.com/2023/03/30/crypto-wallet-company-ledger-raises-another-108-million/)
-- [P97 fills up its tank with $40M to fuel its gas station mobile commerce services](https://techcrunch.com/2023/03/30/p97-fills-up-its-tank-with-40m-to-fuel-its-gas-station-mobile-commerce-services/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
