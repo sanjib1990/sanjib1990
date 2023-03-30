@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DataDome, which uses AI to protect against bot-based attacks, raises $42M](https://techcrunch.com/2023/03/30/datadome-raises-42m-series-c-bot-detection/)
+- [1st &#39;Asteroid City&#39; trailer reveals Wes Anderson&#39;s take on a space-age alien encounter](https://www.space.com/asteroid-city-trailer-wes-anderson)
 - [Web3 protocol Polytrade raises $3.8M to improve global trade](https://techcrunch.com/2023/03/30/web3-protocol-polytrade-raises-3-8m-to-improve-global-trade/)
 - [Spain establishes its own space agency](https://www.space.com/spain-starts-national-space-agency-aee)
 - [&#39;Hole&#39; in the sun unleashes powerful X1.2 solar flare, threatens space weather mayhem](https://www.space.com/solar-flare-coronal-hole-space-weather)
-- [How to build a sales development representative strategy that will fill your B2B pipeline](https://techcrunch.com/2023/03/30/how-to-build-a-sales-development-representative-strategy-that-will-fill-your-b2b-pipeline/)
-- [PlayStation VR 2 review: Stress-free virtual reality](https://www.space.com/playstation-vr-2-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
