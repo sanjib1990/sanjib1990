@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Qualcomm-backed Aravita wants to help Brazilian supermarkets control food waste](https://techcrunch.com/2023/03/30/qualcomm-aravita-brazil-supermarket-food-waste/)
+- [The deadly atmosphere on Venus could help us find habitable worlds. Here&#39;s how](https://www.space.com/venus-exoplanets-find-habitable-worlds)
+- [Watch SpaceX launch 10 satellites for US Space Force today](https://www.space.com/spacex-space-force-tranche-0-launch)
 - [Uber expands Comfort Electric to 14 new US, Canadian markets](https://techcrunch.com/2023/03/30/uber-expands-comfort-electric-to-14-new-us-canadian-markets/)
 - [Parloa raises $21M to add a little automation to contact centers](https://techcrunch.com/2023/03/30/parloa-raises-21m-to-add-a-little-automation-to-contact-centers/)
-- [Oxfam Novib and Goodwell target East African startups with €20M Pepea fund](https://techcrunch.com/2023/03/30/oxfam-novib-and-goodwell-target-east-african-startups-with-e20m-pepea-fund/)
-- [After bootstrapping for 15 years, energy renovation company Effy raises $22 million](https://techcrunch.com/2023/03/29/after-bootstrapping-for-15-years-energy-renovation-company-effy-raises-22-million/)
-- [Twitter announces new API with only free, basic, and enterprise levels](https://techcrunch.com/2023/03/29/twitter-announces-new-api-with-only-free-basic-and-enterprise-levels/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
