@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [EV company Canoo agrees to $1.5M settlement with SEC](https://techcrunch.com/2023/03/30/ev-company-canoo-agrees-to-1-5m-settlement-with-sec/)
+- [Watch an exclusive clip from the next-to-last episode of &#39;Hello Tomorrow!&#39; &lpar;video&rpar;](https://www.space.com/hello-tomorrow-season-one-episode-nine-clip)
+- [Virgin Orbit ceasing operations &#39;for the foreseeable future:&#39; report](https://www.space.com/virgin-orbit-ceasing-operations-foreseeable-future)
 - [Daily Crunch: Ledger locks down another $108M to double down on hardware crypto wallets](https://techcrunch.com/2023/03/30/daily-crunch-113/)
 - [Virgin Orbit burns up in uncontrolled descent](https://techcrunch.com/2023/03/30/virgin-orbit-burns-up-in-uncontrolled-descent/)
-- [Checkout.com’s new president is bullish on US expansion, says she ‘welcomes’ comparisons to Stripe](https://techcrunch.com/2023/03/30/checkout-coms-new-president-is-bullish-on-us-expansion-says-she-welcomes-comparisons-to-stripe/)
-- [Pokémon GO will raise the price of remote raid passes](https://techcrunch.com/2023/03/30/pokemon-go-will-raise-the-price-of-remote-raid-passes/)
-- [NASA establishes &#39;Moon to Mars&#39; office to help get astronauts to Red Planet](https://www.space.com/nasa-moon-to-mars-office-artemis)
 <!-- BLOG-POST-LIST:END -->
 
 ---
