@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s Apollo-era crawler, upgraded for Artemis, sets Guinness world record](https://www.space.com/nasa-crawler-transporter-guinness-world-record)
+- [Italy orders ChatGPT blocked citing data protection concerns](https://techcrunch.com/2023/03/31/chatgpt-blocked-italy/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [3 recruiting metrics that can help startups make more data-driven hiring decisions](https://techcrunch.com/2023/03/31/3-recruiting-metrics-that-can-help-startups-make-more-data-driven-hiring-decisions/)
 - [Artificial shooting star project gets 2nd life through crowdfunding](https://www.space.com/artificial-shooting-star-project-crowdfunding)
-- [See Venus meet up with Uranus in the sky tonight &lpar;March 31&rpar;](https://www.space.com/venus-uranus-conjunction-skywatching-march-2023)
-- [Read’s AI-powered summary feature squeezes a meeting into a two-minute clip](https://techcrunch.com/2023/03/31/reads-ai-powered-summary-feature-squeezes-a-meeting-into-a-two-minute-clip/)
-- [Ambani bats for cricket glory as Disney scales back in India](https://techcrunch.com/2023/03/31/ambani-bats-for-cricket-glory-as-disney-scales-back/)
-- [Helbiz stock tumbles on reverse split, rebrand to Micromobility.com](https://techcrunch.com/2023/03/30/helbiz-stock-tumbles-on-reverse-split-rebrand-to-micromobility-com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
