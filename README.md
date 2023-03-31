@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Citing data privacy concerns, Italy temporarily bans ChatGPT](https://techcrunch.com/2023/03/31/daily-crunch-citing-data-privacy-concerns-italy-temporarily-bans-chatgpt/)
+- [NASA’s Dagger could give advance warning of the next big solar storm](https://techcrunch.com/2023/03/31/nasas-dagger-could-give-advance-warning-of-the-next-big-solar-storm/)
+- [UAE Mars orbiter creates stunning new map of the Red Planet](https://www.space.com/uae-mars-hope-orbiter-new-map)
 - [A judge dismissed Phhhoto’s antitrust suit against Meta](https://techcrunch.com/2023/03/31/a-judge-dismissed-phhhotos-antitrust-suit-against-meta/)
 - [SpaceX Starship will launch this new private moon rover in 2026 &lpar;video&rpar;](https://www.space.com/moon-rover-astrolab-spacex-starship)
-- [Celebrities don’t want to pay Elon for a blue check](https://techcrunch.com/2023/03/31/celebrity-blue-check-twitter-verification/)
-- [Astronomers observe for the first time as a black hole jet changes direction](https://www.space.com/first-observation-of-black-hole-jet-direction-change)
-- [Surprise! Icy &#39;rain&#39; from Saturn&#39;s rings is heating the gas giant&#39;s atmosphere](https://www.space.com/saturn-rings-icy-rain-heating-atmosphere)
 <!-- BLOG-POST-LIST:END -->
 
 ---
