@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A judge dismissed Phhhoto’s antitrust suit against Meta](https://techcrunch.com/2023/03/31/a-judge-dismissed-phhhotos-antitrust-suit-against-meta/)
+- [SpaceX Starship will launch this new private moon rover in 2026 &lpar;video&rpar;](https://www.space.com/moon-rover-astrolab-spacex-starship)
+- [Celebrities don’t want to pay Elon for a blue check](https://techcrunch.com/2023/03/31/celebrity-blue-check-twitter-verification/)
+- [Astronomers observe for the first time as a black hole jet changes direction](https://www.space.com/first-observation-of-black-hole-jet-direction-change)
 - [Surprise! Icy &#39;rain&#39; from Saturn&#39;s rings is heating the gas giant&#39;s atmosphere](https://www.space.com/saturn-rings-icy-rain-heating-atmosphere)
-- [Twitter reveals some of its source code, including its recommendation algorithm](https://techcrunch.com/2023/03/31/twitter-reveals-some-of-its-source-code-including-its-recommendation-algorithm/)
-- [24 hours left to save $200 on TC Early Stage tickets](https://techcrunch.com/2023/03/31/24-hours-left-to-save-200-on-tc-early-stage-tickets/)
-- [Stability AI CEO has the ambition to IPO in next few years](https://techcrunch.com/2023/03/31/stability-ai-ceo-has-the-ambition-to-ipo-in-next-few-years/)
-- [Netflix restructures its film units, aiming to make fewer &lpar;but better&rpar; original movies](https://techcrunch.com/2023/03/31/netflix-restructures-its-film-units-aiming-to-make-fewer-but-better-original-movies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
