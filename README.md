@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The double stars of spring offer twice the skywatching fun this season](https://www.space.com/twin-stars-spring-sky-2023)
-- [US investors slash Byju’s and Swiggy valuation](https://techcrunch.com/2023/03/31/us-investors-slash-byjus-and-swiggy-valuation/)
-- [NASA aims to boost diversity at space agency with 2 high-ranking positions](https://www.space.com/nasa-boost-diversity-two-new-hires)
-- [Burn, community, burn](https://techcrunch.com/2023/03/31/burn-community-burn/)
-- [Pentagon won&#39;t be buying air-launched hypersonic missile after failed test: report](https://www.space.com/us-air-force-lockheed-hypersonic-missile-no-more)
+- [Curious cosmic coincidence could help explain fast radio burst mystery](https://www.space.com/fast-radio-bursts-neutron-star-mergers-link)
+- [Artie sidesteps the app stores by putting high-quality games in your browser](https://techcrunch.com/2023/03/31/artie-browser/)
+- [Investors unfazed by Q1 crypto funding decline](https://techcrunch.com/2023/03/31/crypto-q1-decline-analysis/)
+- [Review: Xbloom makes perfect pour-over so you don’t have to](https://techcrunch.com/2023/03/31/xbloom-pour-over/)
+- [France moves forward with influencer bill cracking down on risky products and more](https://techcrunch.com/2023/03/31/france-moves-forward-with-influencer-bill-cracking-down-on-risky-products-and-more/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
