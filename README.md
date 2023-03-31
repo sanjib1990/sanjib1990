@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ambani bats for cricket glory as Disney scales back](https://techcrunch.com/2023/03/31/ambani-bats-for-cricket-glory-as-disney-scales-back/)
 - [Helbiz stock tumbles on reverse split, rebrand to Micromobility.com](https://techcrunch.com/2023/03/30/helbiz-stock-tumbles-on-reverse-split-rebrand-to-micromobility-com/)
 - [Reliance-backed Dunzo nears fresh funding of $50 million](https://techcrunch.com/2023/03/30/reliance-backed-dunzo-nears-fresh-funding-of-50-million/)
 - [EV company Canoo agrees to $1.5M settlement with SEC](https://techcrunch.com/2023/03/30/ev-company-canoo-agrees-to-1-5m-settlement-with-sec/)
 - [Watch an exclusive clip from the next-to-last episode of &#39;Hello Tomorrow!&#39; &lpar;video&rpar;](https://www.space.com/hello-tomorrow-season-one-episode-nine-clip)
-- [Virgin Orbit ceasing operations &#39;for the foreseeable future:&#39; report](https://www.space.com/virgin-orbit-ceasing-operations-foreseeable-future)
 <!-- BLOG-POST-LIST:END -->
 
 ---
