@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch+ roundup: 3 key hiring metrics, building SDR teams, insurtech investor survey](https://techcrunch.com/2023/03/31/techcrunch-roundup-3-key-hiring-metrics-building-sdr-teams-insurtech-investor-survey/)
+- [The lowdown for European startups looking to raise money in 2023](https://techcrunch.com/2023/03/31/venture-fundraising-european-startups-2023/)
 - [Curious cosmic coincidence could help explain fast radio burst mystery](https://www.space.com/fast-radio-bursts-neutron-star-mergers-link)
 - [Artie sidesteps the app stores by putting high-quality games in your browser](https://techcrunch.com/2023/03/31/artie-browser/)
 - [Investors unfazed by Q1 crypto funding decline](https://techcrunch.com/2023/03/31/crypto-q1-decline-analysis/)
-- [Review: Xbloom makes perfect pour-over so you don’t have to](https://techcrunch.com/2023/03/31/xbloom-pour-over/)
-- [France moves forward with influencer bill cracking down on risky products and more](https://techcrunch.com/2023/03/31/france-moves-forward-with-influencer-bill-cracking-down-on-risky-products-and-more/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
