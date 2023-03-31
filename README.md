@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter reveals some of its source code, including its recommendation algorithm](https://techcrunch.com/2023/03/31/twitter-reveals-some-of-its-source-code-including-its-recommendation-algorithm/)
+- [24 hours left to save $200 on TC Early Stage tickets](https://techcrunch.com/2023/03/31/24-hours-left-to-save-200-on-tc-early-stage-tickets/)
+- [Stability AI CEO has the ambition to IPO in next few years](https://techcrunch.com/2023/03/31/stability-ai-ceo-has-the-ambition-to-ipo-in-next-few-years/)
+- [Netflix restructures its film units, aiming to make fewer &lpar;but better&rpar; original movies](https://techcrunch.com/2023/03/31/netflix-restructures-its-film-units-aiming-to-make-fewer-but-better-original-movies/)
 - [What’s going on with the TikTok ban?](https://techcrunch.com/2023/03/31/whats-going-on-with-the-tiktok-ban/)
-- [Hulu debuts a new interface with a vertical sidebar on Fire TV, Apple TV and Roku](https://techcrunch.com/2023/03/31/hulus-new-interface-with-a-revamped-sidebar-is-rolling-out-on-fire-tv-apple-tv-and-roku/)
-- [TechCrunch+ roundup: 3 key hiring metrics, building SDR teams, insurtech investor survey](https://techcrunch.com/2023/03/31/techcrunch-roundup-3-key-hiring-metrics-building-sdr-teams-insurtech-investor-survey/)
-- [Private Dream Chaser space plane&#39;s 1st launch slips to December: report](https://www.space.com/dream-chaser-private-space-plane-delay-december-2023)
-- [The lowdown for European startups looking to raise money in 2023](https://techcrunch.com/2023/03/31/venture-fundraising-european-startups-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
