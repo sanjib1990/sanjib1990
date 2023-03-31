@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA aims to boost diversity at space agency with 2 high-ranking positions](https://www.space.com/nasa-boost-diversity-two-new-hires)
+- [Burn, community, burn](https://techcrunch.com/2023/03/31/burn-community-burn/)
 - [Pentagon won&#39;t be buying air-launched hypersonic missile after failed test: report](https://www.space.com/us-air-force-lockheed-hypersonic-missile-no-more)
 - [24 hours left to save $200 on TC Early Stage tickets](https://techcrunch.com/2023/03/31/24-hours-left-to-save-200-on-tc-early-stage-tickets/)
 - [NASA&#39;s Apollo-era crawler, upgraded for Artemis, sets Guinness world record](https://www.space.com/nasa-crawler-transporter-guinness-world-record)
-- [Italy orders ChatGPT blocked citing data protection concerns](https://techcrunch.com/2023/03/31/chatgpt-blocked-italy/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
