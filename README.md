@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DocuSign could be suffering from a pandemic growth hangover](https://techcrunch.com/2023/04/01/docusign-slow-growth/)
+- [April delights: Mercury, Venus and the Pleiades put on a sky show this month](https://www.space.com/mercury-venus-pleiades-skywatching-april-2023)
 - [Best space pranks: From space apes to smuggled sandwiches](https://www.space.com/best-space-pranks)
 - [OpenAI geoblocks ChatGPT in Italy](https://techcrunch.com/2023/04/01/chatgpt-blocked-in-italy/)
 - [Artemis 2&#39;s Canadian astronaut got their moon mission seat with &#39;potato salad&#39;](https://www.space.com/artemis-2-moon-mission-canadian-astronaut-seat-negotiations)
-- [Son&#39;s design for astronaut dad&#39;s mission patch put into production 40 years later](https://www.space.com/astronaut-mike-mullane-signature-series-patch)
-- [Ethicists fire back at ‘AI Pause’ letter they say ‘ignores the actual harms’](https://techcrunch.com/2023/03/31/ethicists-fire-back-at-ai-pause-letter-they-say-ignores-the-actual-harms/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
