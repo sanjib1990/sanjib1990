@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Always be prompting](https://techcrunch.com/2023/04/01/how-to-prompt-ai-chat-gpt/)
+- [This Week in Apps: WWDC23, ByteDance pushes Lemon8 ahead of TikTok ban, T2 capitalizes on Twitter chaos](https://techcrunch.com/2023/04/01/this-week-in-apps-wwdc23-bytedance-pushes-lemon8-ahead-of-tiktok-ban-t2-capitalizes-on-twitter-chaos/)
 - [Krablr develops generative AI language to boost crab yields](https://techcrunch.com/2023/04/01/krablr-develops-generative-ai-language-to-boost-crab-yields/)
 - [There’s trouble in Startup Nation](https://techcrunch.com/2023/04/01/israel-startup-founder-concerns/)
 - [Generative AI’s future in enterprise could be smaller, more focused language models](https://techcrunch.com/2023/04/01/generative-ai-focused-language-models/)
-- [Who is Bo-Katan Kryze?](https://www.space.com/who-is-bo-katan-kryze)
-- [Building the space age: Acknowledging skilled workers](https://www.space.com/building-space-age-acknowledging-skilled-workers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
