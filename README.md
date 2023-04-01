@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Krablr develops generative AI language to boost crab yields](https://techcrunch.com/2023/04/01/krablr-develops-generative-ai-language-to-boost-crab-yields/)
+- [There’s trouble in Startup Nation](https://techcrunch.com/2023/04/01/israel-startup-founder-concerns/)
 - [Generative AI’s future in enterprise could be smaller, more focused language models](https://techcrunch.com/2023/04/01/generative-ai-focused-language-models/)
 - [Who is Bo-Katan Kryze?](https://www.space.com/who-is-bo-katan-kryze)
 - [Building the space age: Acknowledging skilled workers](https://www.space.com/building-space-age-acknowledging-skilled-workers)
-- [DocuSign could be suffering from a pandemic growth hangover](https://techcrunch.com/2023/04/01/docusign-slow-growth/)
-- [April delights: Mercury, Venus and the Pleiades put on a sky show this month](https://www.space.com/mercury-venus-pleiades-skywatching-april-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
