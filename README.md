@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Who is Bo-Katan Kryze?](https://www.space.com/who-is-bo-katan-kryze)
+- [Building the space age: Acknowledging skilled workers](https://www.space.com/building-space-age-acknowledging-skilled-workers)
 - [DocuSign could be suffering from a pandemic growth hangover](https://techcrunch.com/2023/04/01/docusign-slow-growth/)
 - [April delights: Mercury, Venus and the Pleiades put on a sky show this month](https://www.space.com/mercury-venus-pleiades-skywatching-april-2023)
 - [Best space pranks: From space apes to smuggled sandwiches](https://www.space.com/best-space-pranks)
-- [OpenAI geoblocks ChatGPT in Italy](https://techcrunch.com/2023/04/01/chatgpt-blocked-in-italy/)
-- [Artemis 2&#39;s Canadian astronaut got their moon mission seat with &#39;potato salad&#39;](https://www.space.com/artemis-2-moon-mission-canadian-astronaut-seat-negotiations)
 <!-- BLOG-POST-LIST:END -->
 
 ---
