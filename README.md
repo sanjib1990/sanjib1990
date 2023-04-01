@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Artemis 2&#39;s Canadian astronaut got their moon mission seat with &#39;potato salad&#39;](https://www.space.com/artemis-2-moon-mission-canadian-astronaut-seat-negotiations)
+- [Son&#39;s design for astronaut dad&#39;s mission patch put into production 40 years later](https://www.space.com/astronaut-mike-mullane-signature-series-patch)
 - [Ethicists fire back at ‘AI Pause’ letter they say ‘ignores the actual harms’](https://techcrunch.com/2023/03/31/ethicists-fire-back-at-ai-pause-letter-they-say-ignores-the-actual-harms/)
 - [Daily Crunch: Citing data privacy concerns, Italy temporarily bans ChatGPT](https://techcrunch.com/2023/03/31/daily-crunch-citing-data-privacy-concerns-italy-temporarily-bans-chatgpt/)
 - [NASA’s DAGGER could give advance warning of the next big solar storm](https://techcrunch.com/2023/03/31/nasas-dagger-could-give-advance-warning-of-the-next-big-solar-storm/)
-- [UAE Mars orbiter creates stunning new map of the Red Planet](https://www.space.com/uae-mars-hope-orbiter-new-map)
-- [A judge dismissed Phhhoto’s antitrust suit against Meta](https://techcrunch.com/2023/03/31/a-judge-dismissed-phhhotos-antitrust-suit-against-meta/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
