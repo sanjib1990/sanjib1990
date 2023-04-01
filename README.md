@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Generative AI’s future in enterprise could be smaller, more focused language models](https://techcrunch.com/2023/04/01/generative-ai-focused-language-models/)
 - [Who is Bo-Katan Kryze?](https://www.space.com/who-is-bo-katan-kryze)
 - [Building the space age: Acknowledging skilled workers](https://www.space.com/building-space-age-acknowledging-skilled-workers)
 - [DocuSign could be suffering from a pandemic growth hangover](https://techcrunch.com/2023/04/01/docusign-slow-growth/)
 - [April delights: Mercury, Venus and the Pleiades put on a sky show this month](https://www.space.com/mercury-venus-pleiades-skywatching-april-2023)
-- [Best space pranks: From space apes to smuggled sandwiches](https://www.space.com/best-space-pranks)
 <!-- BLOG-POST-LIST:END -->
 
 ---
