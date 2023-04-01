@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [AI is giving me an unfair advantage](https://www.youtube.com/watch?v=J1U1h_EjkPs)
 - [stop giving your passwords to hackers](https://www.youtube.com/watch?v=jAfQvMxcokI)
 - [AWS for the Haters in 100 Seconds](https://www.youtube.com/watch?v=ZzI9JE0i6Lc)
 - [host your own HelpDesk](https://www.youtube.com/watch?v=Kq0BMVhbFkA)
 - [Elon wants GPT-5 stopped NOW… 5 reasons AI kinda sucks](https://www.youtube.com/watch?v=TpZcGhYp4rw)
-- [the World’s most secure browser &lpar;build it yourself&rpar;](https://www.youtube.com/watch?v=799uhYUxtvA)
 <!-- YOUTUBE:END -->
 
 ---
