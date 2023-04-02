@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lyft hails new leadership, layoffs come for Lucid and Waymo retires its self-driving minivan](https://techcrunch.com/2023/04/02/lyft-hails-new-leadership-layoffs-come-for-lucid-and-waymo-retires-its-self-driving-minivan/)
 - [The shocking allegations against Daylight, an LGBTQ+ focused fintech startup](https://techcrunch.com/2023/04/02/the-shocking-allegations-against-daylight-an-lgbtq-focused-startup/)
 - [Do you need a deck to raise from VCs? Not always](https://techcrunch.com/2023/04/02/pitch-deck-optional/)
 - [Hong Kong is charting its own web3 path despite China’s anti-crypto stance](https://techcrunch.com/2023/04/02/hong-kong-web3-crypto-hub/)
 - [Netflix’s &#39;Gears of War&#39; film gains traction with &#39;Dune&#39; and &#39;Prometheus&#39; screenwriter Jon Spaihts](https://www.space.com/netflix-gears-of-war-film-jon-spaihts)
-- [How you invest your time is just as important as how you invest your money](https://techcrunch.com/2023/04/02/how-you-invest-your-time-is-just-as-important-as-how-you-invest-your-money/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
