@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The shocking allegations against Daylight, an LGBTQ+ focused startup](https://techcrunch.com/2023/04/02/the-shocking-allegations-against-daylight-an-lgbtq-focused-startup/)
+- [The shocking allegations against Daylight, an LGBTQ+ focused fintech startup](https://techcrunch.com/2023/04/02/the-shocking-allegations-against-daylight-an-lgbtq-focused-startup/)
 - [Do you need a deck to raise from VCs? Not always](https://techcrunch.com/2023/04/02/pitch-deck-optional/)
 - [Hong Kong is charting its own web3 path despite China’s anti-crypto stance](https://techcrunch.com/2023/04/02/hong-kong-web3-crypto-hub/)
 - [Netflix’s &#39;Gears of War&#39; film gains traction with &#39;Dune&#39; and &#39;Prometheus&#39; screenwriter Jon Spaihts](https://www.space.com/netflix-gears-of-war-film-jon-spaihts)
