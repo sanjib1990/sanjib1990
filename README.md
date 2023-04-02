@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Netflix’s &#39;Gears of War&#39; film gains traction with &#39;Dune&#39; and &#39;Prometheus&#39; screenwriter Jon Spaihts](https://www.space.com/netflix-gears-of-war-film-jon-spaihts)
+- [How you invest your time is just as important as how you invest your money](https://techcrunch.com/2023/04/02/how-you-invest-your-time-is-just-as-important-as-how-you-invest-your-money/)
 - [Former NASA astronaut Doug Hurley joins Busch Light&#39;s Earth Month campaign to save the planet for beer](https://www.space.com/nasa-astronaut-doug-hurley-save-earth-for-beer)
 - [Colliding Taffy Galaxies create a sweet &#39;cosmic butterfly&#39; &lpar;video&rpar;](https://www.space.com/taffy-galaxies-collision-creates-cosmic-butterfly)
 - [The eyes have it! Focus on microgravity&#39;s impact on astronaut vision](https://www.space.com/microgravity-vision-effects-astronauts)
-- [Andreessen Horowitz is now openly courting capital from Saudi Arabia, despite U.S. strains](https://techcrunch.com/2023/04/01/andreessen-horowitz-is-now-openly-courting-capital-from-saudi-arabia-despite-u-s-strains/)
-- [Virgin Orbit runs low on cash, ByteDance pushes a TikTok replacement, and Canoo settles with the SEC](https://techcrunch.com/2023/04/01/virgin-orbit-runs-low-on-cash-bytedance-pushes-a-tiktok-replacement-and-canoo-settles-with-the-sec/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
