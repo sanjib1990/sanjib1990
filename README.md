@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Twitter’s new label makes it hard to differentiate between legacy and paid verified accounts](https://techcrunch.com/2023/04/03/twitters-new-label-makes-it-hard-to-differentiate-between-legacy-and-paid-verified-accounts/)
-- [AI startup Fourthline locks down $54M to bring better ID checks and compliance tools to the finance sector](https://techcrunch.com/2023/04/03/ai-startup-fourthline-locks-down-54m-to-bring-better-id-checks-and-compliance-tools-to-the-finance-sector/)
-- [Paris votes overwhelmingly to ban shared e-scooters](https://techcrunch.com/2023/04/02/paris-votes-overwhelmingly-to-ban-shared-e-scooters/)
-- [Tesla Q1 deliveries beat expectations as China helps boost sales](https://techcrunch.com/2023/04/02/tesla-q1-deliveries-beat-expectations-as-china-helps-boost-sales/)
-- [Lyft hails new leadership, layoffs come for Lucid and Waymo retires its self-driving minivan](https://techcrunch.com/2023/04/02/lyft-hails-new-leadership-layoffs-come-for-lucid-and-waymo-retires-its-self-driving-minivan/)
+- [This robot dog can play soccer on grass, mud and sand](https://techcrunch.com/2023/04/03/this-robot-dog-can-play-soccer-and-grass-mud-and-sand/)
+- [Extremely flat cosmic explosion dubbed &#39;the Cow&#39; defies explanation](https://www.space.com/flat-cosmic-explosion-the-cow-defies-explanation)
+- [Why will NASA&#39;s Artemis 2 only fly around the moon, not orbit or land?](https://www.space.com/nasa-artemis-2-why-only-fly-around-moon)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [Sequoia backs startup making it easier for businesses to invest in US Treasury Bills](https://techcrunch.com/2023/04/03/sequoia-zamp-invest-treasury-bills-amit-jain/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
