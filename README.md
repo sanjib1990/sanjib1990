@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Post, a Twitter alternative that pays publishers via microtransactions, launches public beta](https://techcrunch.com/2023/04/03/post-a-twitter-alternative-that-pays-publishers-via-microtransactions-launches-public-beta/)
-- [Sustainability at Disrupt](https://techcrunch.com/2023/04/03/sustainability-at-disrupt/)
-- [Here&#39;s what we&#39;ve learned from NASA&#39;s DART asteroid-slamming mission so far](https://www.space.com/dart-asteroid-impact-smashing-success-scientists-say)
-- [Report: Klaviyo to IPO later this year](https://techcrunch.com/2023/04/03/report-klaviyo-to-ipo-later-this-year/)
-- [Should you post that you’re #OpenToWork? A tale of two labor markets.](https://techcrunch.com/2023/04/03/should-you-post-that-youre-opentowork-a-tale-of-two-labor-markets/)
+- [Antarctica&#39;s sea ice reaches its lowest level since records began, for the 2nd year in a row](https://www.space.com/antarcticas-sea-ice-reaches-its-lowest-level-since-records-began-for-the-2nd-year-in-a-row)
+- [Jupiter missions: Past, present and future](https://www.space.com/jupiter-missions-brief-history)
+- [A knife so sharp you don’t feel it cut](https://techcrunch.com/2023/04/03/a-knife-so-sharp-you-dont-feel-it-cut/)
+- [First drive: The 2023 Hyundai Ioniq 6 is a swoopy EV sedan that stands out in an SUV crowd](https://techcrunch.com/2023/04/03/first-drive-the-2023-hyundai-ioniq-6-is-a-swoopy-ev-sedan-that-stands-out-in-an-suv-crowd/)
+- [Netflix orders its first-ever pilot for comedy series ‘Little Sky’](https://techcrunch.com/2023/04/03/netflix-orders-its-first-ever-pilot-for-comedy-series/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
