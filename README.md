@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [These Celestron SkyMaster binoculars are up to 47% off](https://www.space.com/celestron-skymaster-20x80-deals-save-47-percent)
+- [Babylon raises $8M for its self-contained vertical farming system](https://techcrunch.com/2023/04/03/babylon-raises-8m-for-its-self-contained-vertical-farming-system/)
+- [Thousands of Gen Z creators are using Fanfix to monetize content and interact with fans](https://techcrunch.com/2023/04/03/thousands-of-gen-z-creators-are-using-fanfix-to-monetize-content-and-interact-with-fans/)
 - [Launch of private moon rover this year will kick off lunar Bitcoin treasure hunt](https://www.space.com/bitcoin-treasure-hunt-moon-lunar-rover)
 - [Acorns acquires UK’s GoHenry, a fintech focused on 6-18 year olds](https://techcrunch.com/2023/04/03/after-two-years-of-discussions-acorns-buys-u-k-based-gohenry-a-pre-paid-card-and-finance-app-for-6-18-year-olds/)
-- [Western Digital says hackers stole data in ‘network security’ breach](https://techcrunch.com/2023/04/03/western-digital-breach/)
-- [UK’s greenworkx takes aim at the domestic retrofit skills challenge](https://techcrunch.com/2023/04/03/greenworkx-pre-seed/)
-- [&#39;Return of the Jedi&#39; 40th anniversary sees Lando and Stormtroopers get their own &#39;Star Wars&#39; comics](https://www.space.com/return-of-the-jedi-lando-stormtroopers-40th-anniversary-comics)
 <!-- BLOG-POST-LIST:END -->
 
 ---
