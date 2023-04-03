@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Four for the moon! NASA names Artemis 2 astronaut crew for 1st lunar mission since Apollo](https://www.space.com/nasa-names-artemis-2-moon-crew)
+- [Warner Bros. gives DC fans an official ‘Blue Beetle’ trailer](https://techcrunch.com/2023/04/03/warner-bros-gives-dc-fans-an-official-blue-beetle-trailer/)
+- [How a fintech company handled a fintech crisis](https://techcrunch.com/2023/04/03/airbase-svb-crisis/)
+- [Meet Jeremy Hansen, the Canadian astronaut on board Artemis 2 moon mission](https://www.space.com/artemis-2-moon-mission-canadian-astronaut-jeremy-hansen)
+- [Kaszek earmarks nearly $1B in new funds for Latin American startups](https://techcrunch.com/2023/04/03/kaszek-closes-on-975m-across-two-new-funds-to-back-latin-american-startups/)
 - [NASA&#39;s Artemis 2 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-2-moon-mission-updates)
-- [Venture interest in Chinese companies remains muted after slow 2022](https://techcrunch.com/2023/04/03/venture-interest-in-chinese-companies-remains-muted-after-slow-2022/)
-- [Push Security raises $15M to help SaaS users lower their online vulnerability](https://techcrunch.com/2023/04/03/push-security-raises-15m-to-help-saas-users-lower-their-online-vulnerability/)
-- [Rivian sticks to 2023 production goal for EVs despite quarterly dip](https://techcrunch.com/2023/04/03/rivian-sticks-to-2023-production-goal-for-evs-despite-quarterly-dip/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
