@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Nintendo and mobile games company DeNA launch Nintendo Systems](https://techcrunch.com/2023/04/03/nintendo-and-mobile-games-company-dena-launch-nintendo-systems/)
-- [Google Search gets new travel features, including a ‘price guarantee’ tool for flights](https://techcrunch.com/2023/04/03/google-search-gets-new-travel-features-including-a-price-guarantee-tool-for-flights/)
-- [Welcome to Q2, Equity family](https://techcrunch.com/2023/04/03/welcome-to-q2-equity-family/)
+- [Four for the moon! NASA names Artemis 2 astronaut crew for 1st lunar mission since Apollo](https://www.space.com/nasa-names-artemis-2-moon-crew)
 - [NASA&#39;s Artemis 2 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-2-moon-mission-updates)
-- [These Celestron SkyMaster binoculars are up to 47% off](https://www.space.com/celestron-skymaster-20x80-deals-save-47-percent)
+- [Venture interest in Chinese companies remains muted after slow 2022](https://techcrunch.com/2023/04/03/venture-interest-in-chinese-companies-remains-muted-after-slow-2022/)
+- [Push Security raises $15M to help SaaS users lower their online vulnerability](https://techcrunch.com/2023/04/03/push-security-raises-15m-to-help-saas-users-lower-their-online-vulnerability/)
+- [Rivian sticks to 2023 production goal for EVs despite quarterly dip](https://techcrunch.com/2023/04/03/rivian-sticks-to-2023-production-goal-for-evs-despite-quarterly-dip/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
