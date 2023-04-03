@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spotify is shutting down its live audio app Spotify Live](https://techcrunch.com/2023/04/03/spotify-is-shutting-down-its-live-audio-app-spotify-live/)
+- [Twitter’s new homepage logo is very doge-y](https://techcrunch.com/2023/04/03/twitters-new-homepage-logo-is-very-doge-y/)
+- [The Great Pretender](https://techcrunch.com/2023/04/03/the-great-pretender/)
 - [Twitter’s new dog icon is sending dogecoin — sigh — to the moon](https://techcrunch.com/2023/04/03/twitters-new-dog-icon-is-sending-dogecoin-sigh-to-the-moon/)
 - [A decade later, this VR treadmill is finally ready to ship](https://techcrunch.com/2023/04/03/a-decade-later-this-vr-treadmill-is-finally-ready-to-ship/)
-- [AirTree backs generative AI content creation and management platform Narrato](https://techcrunch.com/2023/04/03/narrato/)
-- [YouTube will livestream all six Coachella stages across both weekends](https://techcrunch.com/2023/04/03/youtube-will-livestream-all-six-coachella-stages-across-both-weekends/)
-- [Warner Bros. gives DC fans an official ‘Blue Beetle’ trailer](https://techcrunch.com/2023/04/03/warner-bros-gives-dc-fans-an-official-blue-beetle-trailer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
