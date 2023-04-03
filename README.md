@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nintendo and mobile games company DeNA launch Nintendo Systems](https://techcrunch.com/2023/04/03/nintendo-and-mobile-games-company-dena-launch-nintendo-systems/)
+- [Google Search gets new travel features, including a ‘price guarantee’ tool for flights](https://techcrunch.com/2023/04/03/google-search-gets-new-travel-features-including-a-price-guarantee-tool-for-flights/)
+- [Welcome to Q2, Equity family](https://techcrunch.com/2023/04/03/welcome-to-q2-equity-family/)
+- [NASA&#39;s Artemis 2 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-2-moon-mission-updates)
 - [These Celestron SkyMaster binoculars are up to 47% off](https://www.space.com/celestron-skymaster-20x80-deals-save-47-percent)
-- [Babylon raises $8M for its self-contained vertical farming system](https://techcrunch.com/2023/04/03/babylon-raises-8m-for-its-self-contained-vertical-farming-system/)
-- [Thousands of Gen Z creators are using Fanfix to monetize content and interact with fans](https://techcrunch.com/2023/04/03/thousands-of-gen-z-creators-are-using-fanfix-to-monetize-content-and-interact-with-fans/)
-- [Launch of private moon rover this year will kick off lunar Bitcoin treasure hunt](https://www.space.com/bitcoin-treasure-hunt-moon-lunar-rover)
-- [Acorns acquires UK’s GoHenry, a fintech focused on 6-18 year olds](https://techcrunch.com/2023/04/03/after-two-years-of-discussions-acorns-buys-u-k-based-gohenry-a-pre-paid-card-and-finance-app-for-6-18-year-olds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
