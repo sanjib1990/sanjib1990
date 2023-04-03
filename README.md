@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter’s new dog icon is sending dogecoin — sigh — to the moon](https://techcrunch.com/2023/04/03/twitters-new-dog-icon-is-sending-dogecoin-sigh-to-the-moon/)
+- [A decade later, this VR treadmill is finally ready to ship](https://techcrunch.com/2023/04/03/a-decade-later-this-vr-treadmill-is-finally-ready-to-ship/)
+- [AirTree backs generative AI content creation and management platform Narrato](https://techcrunch.com/2023/04/03/narrato/)
+- [YouTube will livestream all six Coachella stages across both weekends](https://techcrunch.com/2023/04/03/youtube-will-livestream-all-six-coachella-stages-across-both-weekends/)
 - [Warner Bros. gives DC fans an official ‘Blue Beetle’ trailer](https://techcrunch.com/2023/04/03/warner-bros-gives-dc-fans-an-official-blue-beetle-trailer/)
-- [How a fintech company handled a fintech crisis](https://techcrunch.com/2023/04/03/airbase-svb-crisis/)
-- [Meet Jeremy Hansen, the Canadian astronaut on board Artemis 2 moon mission](https://www.space.com/artemis-2-moon-mission-canadian-astronaut-jeremy-hansen)
-- [Kaszek earmarks nearly $1B in new funds for Latin American startups](https://techcrunch.com/2023/04/03/kaszek-closes-on-975m-across-two-new-funds-to-back-latin-american-startups/)
-- [NASA&#39;s Artemis 2 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-2-moon-mission-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
