@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Paris votes overwhelmingly to ban shared e-scooters](https://techcrunch.com/2023/04/02/paris-votes-overwhelmingly-to-ban-shared-e-scooters/)
 - [Tesla Q1 deliveries beat expectations as China helps boost sales](https://techcrunch.com/2023/04/02/tesla-q1-deliveries-beat-expectations-as-china-helps-boost-sales/)
 - [Lyft hails new leadership, layoffs come for Lucid and Waymo retires its self-driving minivan](https://techcrunch.com/2023/04/02/lyft-hails-new-leadership-layoffs-come-for-lucid-and-waymo-retires-its-self-driving-minivan/)
 - [The shocking allegations against Daylight, an LGBTQ+ focused fintech startup](https://techcrunch.com/2023/04/02/the-shocking-allegations-against-daylight-an-lgbtq-focused-startup/)
 - [Do you need a deck to raise from VCs? Not always](https://techcrunch.com/2023/04/02/pitch-deck-optional/)
-- [Hong Kong is charting its own web3 path despite China’s anti-crypto stance](https://techcrunch.com/2023/04/02/hong-kong-web3-crypto-hub/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
