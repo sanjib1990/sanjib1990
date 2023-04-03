@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Spotify is shutting down its live audio app Spotify Live](https://techcrunch.com/2023/04/03/spotify-is-shutting-down-its-live-audio-app-spotify-live/)
-- [Twitter’s new homepage logo is very doge-y](https://techcrunch.com/2023/04/03/twitters-new-homepage-logo-is-very-doge-y/)
-- [The Great Pretender](https://techcrunch.com/2023/04/03/the-great-pretender/)
-- [Twitter’s new dog icon is sending dogecoin — sigh — to the moon](https://techcrunch.com/2023/04/03/twitters-new-dog-icon-is-sending-dogecoin-sigh-to-the-moon/)
-- [A decade later, this VR treadmill is finally ready to ship](https://techcrunch.com/2023/04/03/a-decade-later-this-vr-treadmill-is-finally-ready-to-ship/)
+- [Post, a Twitter alternative that pays publishers via microtransactions, launches public beta](https://techcrunch.com/2023/04/03/post-a-twitter-alternative-that-pays-publishers-via-microtransactions-launches-public-beta/)
+- [Sustainability at Disrupt](https://techcrunch.com/2023/04/03/sustainability-at-disrupt/)
+- [Here&#39;s what we&#39;ve learned from NASA&#39;s DART asteroid-slamming mission so far](https://www.space.com/dart-asteroid-impact-smashing-success-scientists-say)
+- [Report: Klaviyo to IPO later this year](https://techcrunch.com/2023/04/03/report-klaviyo-to-ipo-later-this-year/)
+- [Should you post that you’re #OpenToWork? A tale of two labor markets.](https://techcrunch.com/2023/04/03/should-you-post-that-youre-opentowork-a-tale-of-two-labor-markets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
