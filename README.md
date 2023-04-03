@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Antarctica&#39;s sea ice reaches its lowest level since records began, for the 2nd year in a row](https://www.space.com/antarcticas-sea-ice-reaches-its-lowest-level-since-records-began-for-the-2nd-year-in-a-row)
-- [Jupiter missions: Past, present and future](https://www.space.com/jupiter-missions-brief-history)
-- [A knife so sharp you don’t feel it cut](https://techcrunch.com/2023/04/03/a-knife-so-sharp-you-dont-feel-it-cut/)
-- [First drive: The 2023 Hyundai Ioniq 6 is a swoopy EV sedan that stands out in an SUV crowd](https://techcrunch.com/2023/04/03/first-drive-the-2023-hyundai-ioniq-6-is-a-swoopy-ev-sedan-that-stands-out-in-an-suv-crowd/)
-- [Netflix orders its first-ever pilot for comedy series ‘Little Sky’](https://techcrunch.com/2023/04/03/netflix-orders-its-first-ever-pilot-for-comedy-series/)
+- [Daily Crunch: Patreon rival Fanfix projects paying creators $50M by end of 2023](https://techcrunch.com/2023/04/03/daily-crunch-patreon-rival-fanfic-projects-paying-creators-50-million-by-end-of-2023/)
+- [&#39;Lost In Space&#39; at 25: How this big-budget sci-fi reboot in 1997 steered wildly off course](https://www.space.com/lost-in-space-movie-25th-anniversary)
+- [Max Q: The Starliners are not aligned](https://techcrunch.com/2023/04/03/max-q-the-starliners-are-not-aligned/)
+- [Supermassive black holes share a surprising link with subatomic gluon &#39;color glass walls&#39;](https://www.space.com/supermassive-black-holes-surprising-link-gluon)
+- [SpaceX may launch Starship orbital test flight next week: reports](https://www.space.com/spacex-starship-orbital-test-flight-april-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
