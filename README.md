@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Western Digital says hackers stole data in ‘network security’ breach](https://techcrunch.com/2023/04/03/western-digital-breach/)
+- [UK’s greenworkx takes aim at the domestic retrofit skills challenge](https://techcrunch.com/2023/04/03/greenworkx-pre-seed/)
+- [&#39;Return of the Jedi&#39; 40th anniversary sees Lando and Stormtroopers get their own &#39;Star Wars&#39; comics](https://www.space.com/return-of-the-jedi-lando-stormtroopers-40th-anniversary-comics)
 - [5 growth lessons I learned while scaling from $0 to $1M ARR](https://techcrunch.com/2023/04/03/5-growth-lessons-i-learned-while-scaling-from-0-to-1m-arr/)
 - [BrightDrop signs Ryder as customer, starts first Zevo 600 deliveries](https://techcrunch.com/2023/04/03/brightdrop-signs-ryder-as-customer-starts-first-zevo-600-deliveries/)
-- [This robot dog can play soccer on grass, mud and sand](https://techcrunch.com/2023/04/03/this-robot-dog-can-play-soccer-and-grass-mud-and-sand/)
-- [Extremely flat cosmic explosion dubbed &#39;the Cow&#39; defies explanation](https://www.space.com/flat-cosmic-explosion-the-cow-defies-explanation)
-- [Why will NASA&#39;s Artemis 2 only fly around the moon, not orbit or land?](https://www.space.com/nasa-artemis-2-why-only-fly-around-moon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
