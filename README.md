@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [5 growth lessons I learned while scaling from $0 to $1M ARR](https://techcrunch.com/2023/04/03/5-growth-lessons-i-learned-while-scaling-from-0-to-1m-arr/)
+- [BrightDrop signs Ryder as customer, starts first Zevo 600 deliveries](https://techcrunch.com/2023/04/03/brightdrop-signs-ryder-as-customer-starts-first-zevo-600-deliveries/)
 - [This robot dog can play soccer on grass, mud and sand](https://techcrunch.com/2023/04/03/this-robot-dog-can-play-soccer-and-grass-mud-and-sand/)
 - [Extremely flat cosmic explosion dubbed &#39;the Cow&#39; defies explanation](https://www.space.com/flat-cosmic-explosion-the-cow-defies-explanation)
 - [Why will NASA&#39;s Artemis 2 only fly around the moon, not orbit or land?](https://www.space.com/nasa-artemis-2-why-only-fly-around-moon)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [Sequoia backs startup making it easier for businesses to invest in US Treasury Bills](https://techcrunch.com/2023/04/03/sequoia-zamp-invest-treasury-bills-amit-jain/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
