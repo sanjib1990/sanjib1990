@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch of private moon rover this year will kick off lunar Bitcoin treasure hunt](https://www.space.com/bitcoin-treasure-hunt-moon-lunar-rover)
+- [Acorns acquires UK’s GoHenry, a fintech focused on 6-18 year olds](https://techcrunch.com/2023/04/03/after-two-years-of-discussions-acorns-buys-u-k-based-gohenry-a-pre-paid-card-and-finance-app-for-6-18-year-olds/)
 - [Western Digital says hackers stole data in ‘network security’ breach](https://techcrunch.com/2023/04/03/western-digital-breach/)
 - [UK’s greenworkx takes aim at the domestic retrofit skills challenge](https://techcrunch.com/2023/04/03/greenworkx-pre-seed/)
 - [&#39;Return of the Jedi&#39; 40th anniversary sees Lando and Stormtroopers get their own &#39;Star Wars&#39; comics](https://www.space.com/return-of-the-jedi-lando-stormtroopers-40th-anniversary-comics)
-- [5 growth lessons I learned while scaling from $0 to $1M ARR](https://techcrunch.com/2023/04/03/5-growth-lessons-i-learned-while-scaling-from-0-to-1m-arr/)
-- [BrightDrop signs Ryder as customer, starts first Zevo 600 deliveries](https://techcrunch.com/2023/04/03/brightdrop-signs-ryder-as-customer-starts-first-zevo-600-deliveries/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
