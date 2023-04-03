@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [AI is giving me an unfair advantage](https://www.youtube.com/watch?v=J1U1h_EjkPs)
-- [stop giving your passwords to hackers](https://www.youtube.com/watch?v=jAfQvMxcokI)
-- [AWS for the Haters in 100 Seconds](https://www.youtube.com/watch?v=ZzI9JE0i6Lc)
-- [host your own HelpDesk](https://www.youtube.com/watch?v=Kq0BMVhbFkA)
-- [Elon wants GPT-5 stopped NOW… 5 reasons AI kinda sucks](https://www.youtube.com/watch?v=TpZcGhYp4rw)
+- [Twitter algorithm open-sourced… Is Elon playing 5D chess?](https://www.youtube.com/watch?v=GXN34w8kju4)
+- [Lecture 18: Case Hx: Cancer Diagnostics](https://www.youtube.com/watch?v=eFX04wkGZ3Y)
+- [Lecture 20: Practical Genomic Medicine](https://www.youtube.com/watch?v=0tI1CRv-DPs)
+- [Lecture 6: Information Science at the Center of Genomic Medicine](https://www.youtube.com/watch?v=GzGed-6NIBY)
+- [Lecture 9: Machine-learning Approach](https://www.youtube.com/watch?v=_-gQchCLmXk)
 <!-- YOUTUBE:END -->
 
 ---
