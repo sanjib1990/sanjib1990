@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Niu’s latest scooter falls short on built-for-the-city promise](https://techcrunch.com/2023/04/04/niu-kqi3-max-e-scooter/)
-- [Artemis 2 commander woke up nervous before big moon announcement](https://www.space.com/artemis-2-commander-moon-announcement-nervous)
-- [Getting people to try new things IRL with Sarah Peterson from The Nudge](https://techcrunch.com/2023/04/04/getting-people-to-try-new-things-irl-with-sarah-peterson-from-the-nudge/)
-- [What’s a fair price premium for startup shares?](https://techcrunch.com/2023/04/04/whats-a-fair-price-premium-for-startup-shares/)
-- [Founders – Pitch to VCs at TC Early Stage](https://techcrunch.com/2023/04/04/founders-pitch-to-vcs-at-tc-early-stage/)
+- [James Webb Space Telescope spies most ancient galaxies ever observed](https://www.space.com/james-webb-space-telescope-most-ancient-galaxies)
+- [Amazon to shutter Book Depository, a UK-based online bookseller it acquired in 2011, on April 26](https://techcrunch.com/2023/04/04/amazon-to-shutter-book-depository-a-uk-based-online-bookseller-it-acquired-in-2011-on-april-26/)
+- [These Y Combinator-backed startups are trying to build ‘ChatGPT for X’](https://techcrunch.com/2023/04/04/these-y-combinator-startups-are-trying-to-build-chatgpt-for-x/)
+- [Netflix set to release first-ever live reunion special on April 16 with ‘Love is Blind’ cast](https://techcrunch.com/2023/04/04/netflix-set-to-release-first-ever-live-reunion-special-on-april-16-with-love-is-blind-cast/)
+- [SEC charges founder of financial aid startup Frank with defrauding JPMorgan](https://techcrunch.com/2023/04/04/sec-charges-founder-of-financial-aid-startup-frank-with-defrauding-jpmorgan/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
