@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Sepura Home raises $3.7 million to make your kitchen sink a composter](https://techcrunch.com/2023/04/04/sepura-home-raises-3-7-million-to-make-your-kitchen-sink-a-composter/)
-- [The takeaways from Stanford’s 386-page report on the state of AI](https://techcrunch.com/2023/04/04/the-takeaways-from-stanfords-386-page-report-on-the-state-of-ai/)
-- [Warner Bros. in talks about a ‘Harry Potter’ TV series for HBO Max](https://techcrunch.com/2023/04/04/warner-bros-in-talks-about-a-harry-potter-tv-series-for-hbo-max/)
-- [Woolly mammoth de-extinction is definitely not about making real-life Pokémon](https://techcrunch.com/2023/04/04/woolly-mammoth-de-extinction-is-definitely-not-about-making-real-life-pokemon/)
-- [Pinterest expands its Creator Fund for underrepresented groups to five more countries](https://techcrunch.com/2023/04/04/pinterest-expands-its-creator-fund-for-underrepresented-groups-to-five-more-countries/)
+- [Watch DC&#39;s &#39;Blue Beetle&#39; blast into space in epic 1st trailer &lpar;video&rpar;](https://www.space.com/blue-beetle-flies-in-space-first-trailer)
+- [In &#39;Star Wars: The High Republic&#39; novel &#39;Cataclysm&#39; the Path of the Open Hand strikes again](https://www.space.com/star-wars-the-high-republic-cataclysm-book)
+- [Artemis 2 moon crew announcement felt like a Canadian history time warp](https://www.space.com/artemis-2-announcement-houston-canadian-history)
+- [Gen Phoenix’s upcycled leather woos luxury brand investors](https://techcrunch.com/2023/04/04/gen-phoenixs-upcycled-leather-woos-luxury-brand-investors/)
+- [2 newfound black holes are the closest ever to Earth and like nothing seen before](https://www.space.com/newfound-black-holes-closest-to-earth-gaia)
 <!-- BLOG-POST-LIST:END -->
 
 ---
