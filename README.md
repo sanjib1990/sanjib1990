@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sepura Home raises $3.7 million to make your kitchen sink a composter](https://techcrunch.com/2023/04/04/sepura-home-raises-3-7-million-to-make-your-kitchen-sink-a-composter/)
+- [The takeaways from Stanford’s 386-page report on the state of AI](https://techcrunch.com/2023/04/04/the-takeaways-from-stanfords-386-page-report-on-the-state-of-ai/)
+- [Warner Bros. in talks about a ‘Harry Potter’ TV series for HBO Max](https://techcrunch.com/2023/04/04/warner-bros-in-talks-about-a-harry-potter-tv-series-for-hbo-max/)
 - [Woolly mammoth de-extinction is definitely not about making real-life Pokémon](https://techcrunch.com/2023/04/04/woolly-mammoth-de-extinction-is-definitely-not-about-making-real-life-pokemon/)
 - [Pinterest expands its Creator Fund for underrepresented groups to five more countries](https://techcrunch.com/2023/04/04/pinterest-expands-its-creator-fund-for-underrepresented-groups-to-five-more-countries/)
-- [Spiraling costs are killing the mobile gaming space](https://techcrunch.com/2023/04/04/costs-killing-mobile-games/)
-- [Mars helicopter Ingenuity goes faster and higher than ever before on 49th Red Planet flight](https://www.space.com/ingenuity-mars-helicopter-breaks-records-flight-49)
-- [Israel’s political crisis has activated its apolitical tech industry — and there’s no turning back](https://techcrunch.com/2023/04/04/israels-political-crisis-has-activated-its-apolitical-tech-industry-and-theres-no-turning-back/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
