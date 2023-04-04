@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple’s Weather app is down for many users](https://techcrunch.com/2023/04/04/apples-weather-app-is-down-for-many-users/)
-- [Canada&#39;s Artemis 2 astronaut was named after a 14-year-wait for space](https://www.space.com/artemis-2-canada-astronaut-long-spaceflight-wait)
-- [Samsung Galaxy Watch5 and Watch4 users can now download the Peloton Watch App](https://techcrunch.com/2023/04/04/samsung-galaxy-watch5-and-watch4-users-can-now-download-the-peloton-watch-app/)
-- [New funding helps CarmaCare accelerate its ‘healthcare-for-your-car’ service](https://techcrunch.com/2023/04/04/carmacare-car-repair-fintech/)
-- [Apply now to speak at TechCrunch Disrupt 2023](https://techcrunch.com/2023/04/04/apply-now-to-speak-at-techcrunch-disrupt-2023/)
+- [Alcohol recovery startups Monument and Tempest shared patients’ private data with advertisers](https://techcrunch.com/2023/04/04/monument-tempest-alcohol-data-breach/)
+- [This map of volcanoes on Venus is best we&#39;ve ever made &lpar;image&rpar;](https://www.space.com/most-detailed-map-venus-volcanoes-revealed)
+- [Virgin Orbit files for bankruptcy](https://techcrunch.com/2023/04/04/virgin-orbit-files-for-bankruptcy/)
+- [Covariant’s robotic picking AI nabs another $75M](https://techcrunch.com/2023/04/04/covariants-robotic-picking-at-nabs-another-75m/)
+- [Creality Ender 3 S1 Pro review: Best-in-class print quality](https://www.space.com/ender-3-s1-pro-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
