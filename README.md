@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [James Webb Space Telescope spies most ancient galaxies ever observed](https://www.space.com/james-webb-space-telescope-most-ancient-galaxies)
-- [Amazon to shutter Book Depository, a UK-based online bookseller it acquired in 2011, on April 26](https://techcrunch.com/2023/04/04/amazon-to-shutter-book-depository-a-uk-based-online-bookseller-it-acquired-in-2011-on-april-26/)
-- [These Y Combinator-backed startups are trying to build ‘ChatGPT for X’](https://techcrunch.com/2023/04/04/these-y-combinator-startups-are-trying-to-build-chatgpt-for-x/)
-- [Netflix set to release first-ever live reunion special on April 16 with ‘Love is Blind’ cast](https://techcrunch.com/2023/04/04/netflix-set-to-release-first-ever-live-reunion-special-on-april-16-with-love-is-blind-cast/)
-- [SEC charges founder of financial aid startup Frank with defrauding JPMorgan](https://techcrunch.com/2023/04/04/sec-charges-founder-of-financial-aid-startup-frank-with-defrauding-jpmorgan/)
+- [Woolly mammoth de-extinction is definitely not about making real-life Pokémon](https://techcrunch.com/2023/04/04/woolly-mammoth-de-extinction-is-definitely-not-about-making-real-life-pokemon/)
+- [Pinterest expands its Creator Fund for underrepresented groups to five more countries](https://techcrunch.com/2023/04/04/pinterest-expands-its-creator-fund-for-underrepresented-groups-to-five-more-countries/)
+- [Spiraling costs are killing the mobile gaming space](https://techcrunch.com/2023/04/04/costs-killing-mobile-games/)
+- [Mars helicopter Ingenuity goes faster and higher than ever before on 49th Red Planet flight](https://www.space.com/ingenuity-mars-helicopter-breaks-records-flight-49)
+- [Israel’s political crisis has activated its apolitical tech industry — and there’s no turning back](https://techcrunch.com/2023/04/04/israels-political-crisis-has-activated-its-apolitical-tech-industry-and-theres-no-turning-back/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
