@@ -95,7 +95,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Shuttlers raises $4M to fuel its shared mobility solution across Nigeria](https://techcrunch.com/2023/04/04/shuttlers-raises-4m-to-fuel-its-shared-mobility-solution-across-nigeria/)
-- [Walmart-backed fintech giant PhonePe makes e-commerce push](https://techcrunch.com/2023/04/04/walmart-backed-fintech-giant-phonepe-makes-e-commerce-push/)
+- [Walmart-backed payments giant PhonePe makes e-commerce push](https://techcrunch.com/2023/04/04/walmart-backed-fintech-giant-phonepe-makes-e-commerce-push/)
 - [Zealy is an achievement system for web3 communities](https://techcrunch.com/2023/04/03/zealy-is-an-achievement-system-for-web3-communities/)
 - [Dozer exits stealth to help any developer build real-time data apps ‘in minutes’](https://techcrunch.com/2023/04/03/dozer-exits-stealth-to-help-any-developer-build-real-time-data-apps-in-minutes/)
 - [Lightspeed backs Indian startup Zyod aiming to make apparel manufacturing more efficient](https://techcrunch.com/2023/04/03/zyod-funding-lightspeed/)
