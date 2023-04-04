@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Zealy is an achievement system for web3 communities](https://techcrunch.com/2023/04/03/zealy-is-an-achievement-system-for-web3-communities/)
+- [Dozer exits stealth to help any developer build real-time data apps ‘in minutes’](https://techcrunch.com/2023/04/03/dozer-exits-stealth-to-help-any-developer-build-real-time-data-apps-in-minutes/)
+- [Lightspeed backs Indian startup Zyod aiming to make apparel manufacturing more efficient](https://techcrunch.com/2023/04/03/zyod-funding-lightspeed/)
 - [Amid a boom in AI accelerators, a UC Berkeley-focused outfit, House Fund, swings open its doors](https://techcrunch.com/2023/04/03/amid-a-boom-in-ai-accelerators-a-uc-berkeley-focused-outfit-house-fund-swings-open-its-doors/)
 - [After New Zealand, Australia bans TikTok on official devices](https://techcrunch.com/2023/04/03/after-new-zealand-australia-bans-tiktok-on-official-devices/)
-- [‘There’s too much opportunity’ in Cerebral Valley](https://techcrunch.com/2023/04/03/cerebral-valley-ai-summit/)
-- [Quantexa raises $129M at a $1.8B valuation to help navigate online fraud and customer data management](https://techcrunch.com/2023/04/03/quantexa-raises-129m-at-a-1-8b-valuation-to-help-navigate-online-fraud-and-customer-data-management/)
-- [Black former Tesla worker payout for racial bias slashed from $15M to $3.2M](https://techcrunch.com/2023/04/03/black-former-tesla-worker-payout-for-racial-bias-slashed-from-15m-to-3-2m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
