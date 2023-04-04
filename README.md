@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Everstream, which applies big data to supply chain management, raises $50M](https://techcrunch.com/2023/04/04/everstream-which-applies-big-data-to-supply-chain-management-raises-50m/)
-- [Erin Foster, Sara Foster form Oversubscribed Ventures to invest in consumer brands](https://techcrunch.com/2023/04/04/erin-foster-sara-foster-oversubscribed-ventures-venture-capital/)
-- [What would happen if the asteroid Ryugu hit Earth?](https://www.space.com/if-asteroid-ryugu-were-to-hit-earth)
-- [Strivacity, which helps companies build secure login flows, nabs $20M](https://techcrunch.com/2023/04/04/strivacity-nabs-20m-to-help-companies-build-secure-log-in-flows/)
-- [China probes Micron for cybersecurity risks, urges Japan to stay out of U.S. chip export curbs](https://techcrunch.com/2023/04/04/china-probes-micron-for-cybersecurity-risks-urges-japan-to-stay-out-of-u-s-chip-export-curbs/)
+- [Tidal’s new live feature will let you host a live DJing session](https://techcrunch.com/2023/04/04/tidals-new-live-feature-will-let-you-host-a-live-djing-session/)
+- [Magnets and water net Magnotherm $6.9M seed round to kill hazardous refrigerants](https://techcrunch.com/2023/04/04/magnets-and-water-net-magnotherm-6-9m-seed-round-to-kill-hazardous-refrigerants/)
+- [Blockchain messaging protocol LayerZero raises $120M, hitting $3B valuation](https://techcrunch.com/2023/04/04/blockchain-messaging-protocol-layerzero-raises-120m-hitting-3b-valuation/)
+- [Fetcherr raises $12.5M to dynamically price airfare with algorithms](https://techcrunch.com/2023/04/04/fetcherr-raises-12-5m-to-dynamically-price-airfare-with-algorithms/)
+- [Satellite bus startup Apex Space plans first launch aboard SpaceX’s Transporter-10](https://techcrunch.com/2023/04/04/satellite-bus-startup-apex-space-plans-first-launch-aboard-spacexs-transporter-10/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
