@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amid a boom in AI accelerators, a UC Berkeley-focused outfit, House Fund, swings open its doors](https://techcrunch.com/2023/04/03/amid-a-boom-in-ai-accelerators-a-uc-berkeley-focused-outfit-house-fund-swings-open-its-doors/)
+- [After New Zealand, Australia bans TikTok on official devices](https://techcrunch.com/2023/04/03/after-new-zealand-australia-bans-tiktok-on-official-devices/)
 - [‘There’s too much opportunity’ in Cerebral Valley](https://techcrunch.com/2023/04/03/cerebral-valley-ai-summit/)
 - [Quantexa raises $129M at a $1.8B valuation to help navigate online fraud and customer data management](https://techcrunch.com/2023/04/03/quantexa-raises-129m-at-a-1-8b-valuation-to-help-navigate-online-fraud-and-customer-data-management/)
 - [Black former Tesla worker payout for racial bias slashed from $15M to $3.2M](https://techcrunch.com/2023/04/03/black-former-tesla-worker-payout-for-racial-bias-slashed-from-15m-to-3-2m/)
-- [Daily Crunch: Patreon rival Fanfix projects paying creators $50M by end of 2023](https://techcrunch.com/2023/04/03/daily-crunch-patreon-rival-fanfic-projects-paying-creators-50-million-by-end-of-2023/)
-- [&#39;Lost In Space&#39; at 25: How this big-budget sci-fi reboot in 1997 steered wildly off course](https://www.space.com/lost-in-space-movie-25th-anniversary)
 <!-- BLOG-POST-LIST:END -->
 
 ---
