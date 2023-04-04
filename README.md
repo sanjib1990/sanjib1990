@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
+- [DFC invests $25M in Novastar’s Africa People + Planet Fund](https://techcrunch.com/2023/04/04/dfc-invests-25m-in-novastars-africa-people-planet-fund/)
 - [Artemis 2 moon mission will lift companies, top Canadian space official says](https://www.space.com/artemis-2-moon-mission-canada-business)
 - [Newly named Artemis 2 crew to notch many firsts on historic moon mission](https://www.space.com/artemis-2-moon-crew-firsts-records)
 - [Amazon wants to boost ten generative AI startups around the globe](https://techcrunch.com/2023/04/04/aws-generative-ai-accelerator/)
-- [Shuttlers raises $4M to fuel its shared mobility solution across Nigeria](https://techcrunch.com/2023/04/04/shuttlers-raises-4m-to-fuel-its-shared-mobility-solution-across-nigeria/)
-- [Walmart-backed payments giant PhonePe makes e-commerce push](https://techcrunch.com/2023/04/04/walmart-backed-fintech-giant-phonepe-makes-e-commerce-push/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
