@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [DFC invests $25M in Novastar’s Africa People + Planet Fund](https://techcrunch.com/2023/04/04/dfc-invests-25m-in-novastars-africa-people-planet-fund/)
-- [Artemis 2 moon mission will lift companies, top Canadian space official says](https://www.space.com/artemis-2-moon-mission-canada-business)
-- [Newly named Artemis 2 crew to notch many firsts on historic moon mission](https://www.space.com/artemis-2-moon-crew-firsts-records)
-- [Amazon wants to boost ten generative AI startups around the globe](https://techcrunch.com/2023/04/04/aws-generative-ai-accelerator/)
+- [Everstream, which applies big data to supply chain management, raises $50M](https://techcrunch.com/2023/04/04/everstream-which-applies-big-data-to-supply-chain-management-raises-50m/)
+- [Erin Foster, Sara Foster form Oversubscribed Ventures to invest in consumer brands](https://techcrunch.com/2023/04/04/erin-foster-sara-foster-oversubscribed-ventures-venture-capital/)
+- [What would happen if the asteroid Ryugu hit Earth?](https://www.space.com/if-asteroid-ryugu-were-to-hit-earth)
+- [Strivacity, which helps companies build secure login flows, nabs $20M](https://techcrunch.com/2023/04/04/strivacity-nabs-20m-to-help-companies-build-secure-log-in-flows/)
+- [China probes Micron for cybersecurity risks, urges Japan to stay out of U.S. chip export curbs](https://techcrunch.com/2023/04/04/china-probes-micron-for-cybersecurity-risks-urges-japan-to-stay-out-of-u-s-chip-export-curbs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
