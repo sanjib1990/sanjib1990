@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: AWS now accepting applications for its new 10-week generative AI accelerator](https://techcrunch.com/2023/04/04/daily-crunch-aws-now-accepting-applications-for-its-new-10-week-generative-ai-accelerator/)
+- [Virgin Orbit files for bankruptcy after funding efforts fail](https://www.space.com/virgin-orbit-files-for-bankruptcy)
+- [Rare blood-red arc of light shines in the Scandinavian sky. What is it?](https://www.space.com/rare-blood-red-arc-of-light-shines-in-the-scandinavian-sky-what-is-it)
 - [China&#39;s Space Pioneer reaches orbit with Tianlong-2 rocket launch &lpar;video&rpar;](https://www.space.com/china-space-pioneer-launches-tianglong-2-rocket-video)
 - [Hype grows for SpaceX’s Starship orbital flight test, but barriers remain](https://techcrunch.com/2023/04/04/hype-grows-for-spacexs-starship-orbital-flight-test-but-barriers-remain/)
-- [Watch DC&#39;s &#39;Blue Beetle&#39; blast into space in epic 1st trailer &lpar;video&rpar;](https://www.space.com/blue-beetle-flies-in-space-first-trailer)
-- [In &#39;Star Wars: The High Republic&#39; novel &#39;Cataclysm&#39; the Path of the Open Hand strikes again](https://www.space.com/star-wars-the-high-republic-cataclysm-book)
-- [Artemis 2 moon crew announcement felt like a Canadian history time warp](https://www.space.com/artemis-2-announcement-houston-canadian-history)
 <!-- BLOG-POST-LIST:END -->
 
 ---
