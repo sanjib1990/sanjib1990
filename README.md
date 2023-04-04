@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [China&#39;s Space Pioneer reaches orbit with Tianlong-2 rocket launch &lpar;video&rpar;](https://www.space.com/china-space-pioneer-launches-tianglong-2-rocket-video)
+- [Hype grows for SpaceX’s Starship orbital flight test, but barriers remain](https://techcrunch.com/2023/04/04/hype-grows-for-spacexs-starship-orbital-flight-test-but-barriers-remain/)
 - [Watch DC&#39;s &#39;Blue Beetle&#39; blast into space in epic 1st trailer &lpar;video&rpar;](https://www.space.com/blue-beetle-flies-in-space-first-trailer)
 - [In &#39;Star Wars: The High Republic&#39; novel &#39;Cataclysm&#39; the Path of the Open Hand strikes again](https://www.space.com/star-wars-the-high-republic-cataclysm-book)
 - [Artemis 2 moon crew announcement felt like a Canadian history time warp](https://www.space.com/artemis-2-announcement-houston-canadian-history)
-- [Gen Phoenix’s upcycled leather woos luxury brand investors](https://techcrunch.com/2023/04/04/gen-phoenixs-upcycled-leather-woos-luxury-brand-investors/)
-- [2 newfound black holes are the closest ever to Earth and like nothing seen before](https://www.space.com/newfound-black-holes-closest-to-earth-gaia)
 <!-- BLOG-POST-LIST:END -->
 
 ---
