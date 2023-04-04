@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Alcohol recovery startups Monument and Tempest shared patients’ private data with advertisers](https://techcrunch.com/2023/04/04/monument-tempest-alcohol-data-breach/)
-- [This map of volcanoes on Venus is best we&#39;ve ever made &lpar;image&rpar;](https://www.space.com/most-detailed-map-venus-volcanoes-revealed)
-- [Virgin Orbit files for bankruptcy](https://techcrunch.com/2023/04/04/virgin-orbit-files-for-bankruptcy/)
-- [Covariant’s robotic picking AI nabs another $75M](https://techcrunch.com/2023/04/04/covariants-robotic-picking-at-nabs-another-75m/)
-- [Creality Ender 3 S1 Pro review: Best-in-class print quality](https://www.space.com/ender-3-s1-pro-review)
+- [Niu’s latest scooter falls short on built-for-the-city promise](https://techcrunch.com/2023/04/04/niu-kqi3-max-e-scooter/)
+- [Artemis 2 commander woke up nervous before big moon announcement](https://www.space.com/artemis-2-commander-moon-announcement-nervous)
+- [Getting people to try new things IRL with Sarah Peterson from The Nudge](https://techcrunch.com/2023/04/04/getting-people-to-try-new-things-irl-with-sarah-peterson-from-the-nudge/)
+- [What’s a fair price premium for startup shares?](https://techcrunch.com/2023/04/04/whats-a-fair-price-premium-for-startup-shares/)
+- [Founders – Pitch to VCs at TC Early Stage](https://techcrunch.com/2023/04/04/founders-pitch-to-vcs-at-tc-early-stage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
