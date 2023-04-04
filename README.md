@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Artemis 2 moon mission will lift companies, top Canadian space official says](https://www.space.com/artemis-2-moon-mission-canada-business)
+- [Newly named Artemis 2 crew to notch many firsts on historic moon mission](https://www.space.com/artemis-2-moon-crew-firsts-records)
+- [Amazon wants to boost ten generative AI startups around the globe](https://techcrunch.com/2023/04/04/aws-generative-ai-accelerator/)
 - [Shuttlers raises $4M to fuel its shared mobility solution across Nigeria](https://techcrunch.com/2023/04/04/shuttlers-raises-4m-to-fuel-its-shared-mobility-solution-across-nigeria/)
 - [Walmart-backed payments giant PhonePe makes e-commerce push](https://techcrunch.com/2023/04/04/walmart-backed-fintech-giant-phonepe-makes-e-commerce-push/)
-- [Zealy is an achievement system for web3 communities](https://techcrunch.com/2023/04/03/zealy-is-an-achievement-system-for-web3-communities/)
-- [Dozer exits stealth to help any developer build real-time data apps ‘in minutes’](https://techcrunch.com/2023/04/03/dozer-exits-stealth-to-help-any-developer-build-real-time-data-apps-in-minutes/)
-- [Lightspeed backs Indian startup Zyod aiming to make apparel manufacturing more efficient](https://techcrunch.com/2023/04/03/zyod-funding-lightspeed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
