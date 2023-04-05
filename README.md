@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is &#39;Star Trek&#39; First Contact Day, and why do Trekkies care?](https://www.space.com/star-trek-first-contact-day)
+- [Saudi’s Savvy Games Group to acquire mobile games company Scopely for $4.9 billion](https://techcrunch.com/2023/04/05/saudis-savvy-games-group-acquire-mobile-games-scopely-4-9-billion/)
+- [Adthos uses generative AI to completely automate audio ads](https://techcrunch.com/2023/04/05/adthos-uses-generative-ai-to-completely-automate-audio-ads/)
+- [Twitter singles NPR out with misleading state-backed media label](https://techcrunch.com/2023/04/05/twitter-singles-npr-out-with-misleading-state-backed-media-label/)
 - [Medieval lunar eclipse observations show how volcanoes affect Earth&#39;s climate](https://www.space.com/medieval-lunar-eclipse-records-volcanic-eruptions-climate)
-- [Slowly but surely, data is helping VCs look beyond networks for sourcing deals](https://techcrunch.com/2023/04/05/venture-capital-using-data-investing/)
-- [Ingredients for life discovered in Perseus molecular cloud in space 1,000 light-years from Earth](https://www.space.com/precursors-of-life-found-in-milky-way-dust-cloud)
-- [2 merging supermassive black holes spotted at &#39;cosmic noon&#39; in early universe](https://www.space.com/merging-supermassive-black-holes-cosmic-noon)
-- [Jeep is adding an even cheaper plug-in hybrid to its 4xe lineup](https://techcrunch.com/2023/04/05/jeep-is-adding-an-even-cheaper-plug-in-hybrid-to-its-4xe-lineup/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
