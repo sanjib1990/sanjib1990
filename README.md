@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Kobo Plus subscription plans are now available in the U.S.](https://techcrunch.com/2023/04/04/kobo-plus-subscription-plans-are-now-available-in-the-u-s/)
+- [Apple readies opening of its first retail store in India](https://techcrunch.com/2023/04/04/apple-readies-opening-of-its-first-retail-store-in-india/)
+- [Ronbow nabs $10M to deliver custom cabinets in as short as 3 weeks](https://techcrunch.com/2023/04/04/ronbow-customized-d2c-cabinets/)
 - [Launch startup Stoke Space rolls out software tool for complex hardware development](https://techcrunch.com/2023/04/04/launch-startup-stoke-space-rolls-out-software-tool-for-complex-hardware-development/)
 - [Founders — Pitch to VCs at TC Early Stage](https://techcrunch.com/2023/04/04/founders-pitch-to-vcs-at-tc-early-stage/)
-- [Daily Crunch: AWS now accepting applications for its new 10-week generative AI accelerator](https://techcrunch.com/2023/04/04/daily-crunch-aws-now-accepting-applications-for-its-new-10-week-generative-ai-accelerator/)
-- [Stephen Hawking&#39;s famous black hole paradox may finally have a solution](https://www.space.com/stephen-hawkings-famous-black-hole-paradox-may-finally-have-a-solution)
-- [Virgin Orbit files for bankruptcy after funding efforts fail](https://www.space.com/virgin-orbit-files-for-bankruptcy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
