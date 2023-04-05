@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Kia aims to reach $122B gross revenue by 2030](https://techcrunch.com/2023/04/05/kia-aims-to-reach-122b-gross-revenue-by-2030/)
+- [Snapchat adds new safeguards around its AI chatbot](https://techcrunch.com/2023/04/05/snapchat-adds-new-safeguards-around-its-ai-chatbot/)
 - [Morgan Stanley, BP Ventures back Indian e-mobility startup Magenta](https://techcrunch.com/2023/04/05/magenta-mobility-funding-morgan-stanley-bp-ventures/)
 - [Kobo Plus subscription plans are now available in the U.S.](https://techcrunch.com/2023/04/04/kobo-plus-subscription-plans-are-now-available-in-the-u-s/)
 - [Apple readies opening of its first retail store in India](https://techcrunch.com/2023/04/04/apple-readies-opening-of-its-first-retail-store-in-india/)
-- [Ronbow nabs $10M to deliver custom cabinets in as short as 3 weeks](https://techcrunch.com/2023/04/04/ronbow-customized-d2c-cabinets/)
-- [Launch startup Stoke Space rolls out software tool for complex hardware development](https://techcrunch.com/2023/04/04/launch-startup-stoke-space-rolls-out-software-tool-for-complex-hardware-development/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
