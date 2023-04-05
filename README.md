@@ -94,11 +94,12 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta wants to use generative AI to create ads](https://techcrunch.com/2023/04/05/meta-wants-to-use-generative-ai-to-create-ads/)
+- [Aliens could be hiding in &#39;terminator zones&#39; on planets with eternal night](https://www.space.com/aliens-could-be-hiding-in-terminator-zones-on-planets-with-eternal-night)
+- [The Mandalorian season 3 episode 6 review: An ill-timed side
+quest that goes nowhere](https://www.space.com/the-mandalorian-season-3-episode-6-review)
 - [Bob Lee, creator of Cash App and former CTO of Square, stabbed to death](https://techcrunch.com/2023/04/05/bob-lee-creator-of-cash-app-and-former-cto-of-square-stabbed-to-death/)
 - [Hubble Telescope eyes aftermath of supernova in distant galaxy &lpar;video&rpar;](https://www.space.com/hubble-space-telescope-supernova-remnant-photo)
-- [Delays to NASA&#39;s VERITAS mission a major blow for Venus exploration](https://www.space.com/veritas-mission-delay-affect-venus-exploration)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [Equator secures $40M in commitments for fund targeting climate tech startups in Africa](https://techcrunch.com/2023/04/05/equator-secures-40m-in-commitments-for-fund-targeting-climate-tech-startups-in-africa/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
