@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Substack’s new short-form ‘Notes’ feed looks a lot like Twitter](https://techcrunch.com/2023/04/05/substacks-new-short-form-notes-feed-looks-a-lot-like-twitter/)
-- [Celebrate six years of VIVE with up to £150 off HTC VR headsets](https://www.space.com/htc-vive-april-deals-sixth-birthday-uk)
-- [Many canceled HBO shows, including ‘Westworld’ and ‘Raised by Wolves,’ are now on Roku](https://techcrunch.com/2023/04/05/canceled-hbo-shows-westworld-raised-by-wolves-now-on-roku/)
-- [The 2025 all-electric Ram 1500 Rev has an absolutely massive battery](https://techcrunch.com/2023/04/05/the-2025-all-electric-ram-1500-rev-has-an-absolutely-massive-battery/)
-- [Save $320 on the Canon 6D Mark II and EF 24-105mm f/4L II lens](https://www.space.com/canon-eos-6d-mark-ii-dslr-camera-lens-bundle-save-320-dollars)
+- [Obi-Wan Kenobi Force FX Elite Lightsaber review](https://www.space.com/obi-wan-kenobi-force-fx-elite-lightsaber-review)
+- [What&#39;s next for the newly named Artemis 2 moon crew?](https://www.space.com/artemis-2-astronauts-next-steps-training)
+- [As YC launches new batch, here’s how the early-stage venture market is faring today](https://techcrunch.com/2023/04/05/early-stage-venture-market/)
+- [Forest Admin launches cloud version of its low-code internal tool builder](https://techcrunch.com/2023/04/05/forest-admin-launches-cloud-version-of-its-low-code-internal-tool-builder/)
+- [Pink Moon rises overnight tonight! Catch April&#39;s full moon in all its glory](https://www.space.com/pink-moon-april-full-moon-2023-rises)
 <!-- BLOG-POST-LIST:END -->
 
 ---
