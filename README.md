@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bob Lee, creator of Cash App and former CTO of Square, stabbed to death](https://techcrunch.com/2023/04/05/bob-lee-creator-of-cash-app-and-former-cto-of-square-stabbed-to-death/)
 - [Hubble Telescope eyes aftermath of supernova in distant galaxy &lpar;video&rpar;](https://www.space.com/hubble-space-telescope-supernova-remnant-photo)
 - [Delays to NASA&#39;s VERITAS mission a major blow for Venus exploration](https://www.space.com/veritas-mission-delay-affect-venus-exploration)
 - [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [Equator secures $40M in commitments for fund targeting climate tech startups in Africa](https://techcrunch.com/2023/04/05/equator-secures-40m-in-commitments-for-fund-targeting-climate-tech-startups-in-africa/)
-- [Kia aims to reach $122B gross revenue by 2030](https://techcrunch.com/2023/04/05/kia-aims-to-reach-122b-gross-revenue-by-2030/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
