@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Blockchain builder Ava Labs partners with Korea’s SK Planet to expand Asia footprint](https://techcrunch.com/2023/04/05/blockchain-builder-ava-labs-partners-with-koreas-sk-planet-to-expand-asia-footprint/)
-- [Hyve gets a buzz going for its new social savings app](https://techcrunch.com/2023/04/05/hyve-social-savings-app-fintech/)
-- [After losing sight of its initial pitch, Mojo Vision eyes pivot with $22.4M raise](https://techcrunch.com/2023/04/05/after-losing-sight-of-its-initial-pitch-mojo-vision-eyes-pivot-with-22-4m-raise/)
-- [Scientists may have uncovered the oldest evidence of a meteoroid hitting Earth ever](https://www.space.com/scientists-may-have-uncovered-the-oldest-evidence-of-a-meteor-hitting-earth-ever)
-- [AWS and Microsoft in UK crosshairs as Ofcom mulls cloud services market investigation](https://techcrunch.com/2023/04/05/aws-and-microsoft-in-uk-crosshairs-as-ofcom-mulls-cloud-services-market-investigation/)
+- [Perseverance Mars rover collects 1st sample of new science campaign &lpar;photos&rpar;](https://www.space.com/mars-rover-perseverance-first-sample-new-science-campaign)
+- [Mozart Data announces free tier to encourage smaller businesses to get on platform](https://techcrunch.com/2023/04/05/mozart-data-announces-free-tier-to-encourage-smaller-businesses-to-get-on-platform/)
+- [Creator CRM company Pico rebrands to Hype, raises $10 million](https://techcrunch.com/2023/04/05/creator-crm-company-pico-rebrands-to-hype-raises-10-million/)
+- [The US is losing crypto talent as blockchain devs seek safer havens](https://techcrunch.com/2023/04/05/the-us-is-losing-crypto-talent-as-blockchain-devs-seek-safer-havens/)
+- [The 2024 Hyundai Kona will be one the most affordable cars with over-the-air updates](https://techcrunch.com/2023/04/05/the-2024-hyundai-kona-will-be-one-the-most-affordable-cars-with-over-the-air-updates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
