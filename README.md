@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Acropalypse Now - Computerphile](https://www.youtube.com/watch?v=95ovjnMhUq0)
-- [Bing Chat Behaving Badly - Computerphile](https://www.youtube.com/watch?v=jHwHPyWkShk)
-- [Automata &amp; Python - Computerphile](https://www.youtube.com/watch?v=32bC33nJR3A)
-- [Glitch Tokens - Computerphile](https://www.youtube.com/watch?v=WO2X3oZEJOA)
-- [Python Automation with ChatGPT](https://www.youtube.com/watch?v=w-X_EQ2Xva4)
+- [Twitter algorithm open-sourced… Is Elon playing 5D chess?](https://www.youtube.com/watch?v=GXN34w8kju4)
+- [Lecture 18: Case Hx: Cancer Diagnostics](https://www.youtube.com/watch?v=eFX04wkGZ3Y)
+- [Lecture 20: Practical Genomic Medicine](https://www.youtube.com/watch?v=0tI1CRv-DPs)
+- [Lecture 6: Information Science at the Center of Genomic Medicine](https://www.youtube.com/watch?v=GzGed-6NIBY)
+- [Lecture 9: Machine-learning Approach](https://www.youtube.com/watch?v=_-gQchCLmXk)
 <!-- YOUTUBE:END -->
 
 ---
