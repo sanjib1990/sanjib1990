@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Our favorite startups from YC’s Winter 2022 Demo Day — Part 1](https://techcrunch.com/2023/04/05/y-combinator-demo-day-favorites-part-one/)
+- [For SUVs and EVs, subtlety is out and plundering nature is in](https://techcrunch.com/2023/04/05/for-suvs-and-evs-subtlety-is-out-and-plundering-nature-is-in/)
+- [Lux Capital ditches its opportunity fund in latest fundraise](https://techcrunch.com/2023/04/05/lux-capital-ditches-its-opportunity-fund-in-latest-fundraise/)
+- [Our favorite startups from YC’s Winter 2023 Demo Day — Part 1](https://techcrunch.com/2023/04/05/y-combinator-demo-day-favorites-part-one/)
 - [What is &#39;Star Trek&#39; First Contact Day and why do Trekkies care?](https://www.space.com/star-trek-first-contact-day)
 - [Saudi’s Savvy Games Group to acquire mobile games company Scopely for $4.9 billion](https://techcrunch.com/2023/04/05/saudis-savvy-games-group-acquire-mobile-games-scopely-4-9-billion/)
-- [Adthos uses generative AI to completely automate audio ads](https://techcrunch.com/2023/04/05/adthos-uses-generative-ai-to-completely-automate-audio-ads/)
-- [Twitter singles NPR out with misleading state-backed media label](https://techcrunch.com/2023/04/05/twitter-singles-npr-out-with-misleading-state-backed-media-label/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
