@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ingredients for life discovered in Perseus molecular cloud in space 1,000 light-years from Earth](https://www.space.com/precursors-of-life-found-in-milky-way-dust-cloud)
+- [2 merging supermassive black holes spotted at &#39;cosmic noon&#39; in early universe](https://www.space.com/merging-supermassive-black-holes-cosmic-noon)
+- [Jeep is adding an even cheaper plug-in hybrid to its 4xe lineup](https://techcrunch.com/2023/04/05/jeep-is-adding-an-even-cheaper-plug-in-hybrid-to-its-4xe-lineup/)
 - [Apple faces special antitrust abuse regime in Germany](https://techcrunch.com/2023/04/05/apple-germany-special-abuse-controls/)
 - [Portable X-ray vision is one step closer to reality with OXOS Medical](https://techcrunch.com/2023/04/05/it-can-see-right-through-you/)
-- [Construction insurance company Billy raises additional $2.5 million](https://techcrunch.com/2023/04/05/construction-insurance-company-billy-fundraise/)
-- [Scientists hail scientific legacy of NASA&#39;s Mars InSight lander](https://www.space.com/scientists-hail-science-legacy-insight-mars-lander)
-- [India opts against AI regulation](https://techcrunch.com/2023/04/05/india-opts-against-ai-regulation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
