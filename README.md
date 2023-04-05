@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Sustainability Education Across Learning Environments with Dr. Liz Potter-Nelson and Sarah Meyers](https://www.youtube.com/watch?v=Ub8E2hyNBxs)
-- [Twitter algorithm open-sourced… Is Elon playing 5D chess?](https://www.youtube.com/watch?v=GXN34w8kju4)
-- [Lecture 18: Case Hx: Cancer Diagnostics](https://www.youtube.com/watch?v=eFX04wkGZ3Y)
-- [Lecture 20: Practical Genomic Medicine](https://www.youtube.com/watch?v=0tI1CRv-DPs)
-- [Lecture 6: Information Science at the Center of Genomic Medicine](https://www.youtube.com/watch?v=GzGed-6NIBY)
+- [Lecture 19: Public Finance &lpar;Part 2&rpar;](https://www.youtube.com/watch?v=Sl4JvEXA-lw)
+- [Lecture 18: Land Markets &lpar;Part 3&rpar; / Public Finance &lpar;part 1&rpar;](https://www.youtube.com/watch?v=1N_iAJq1dU4)
+- [Lecture 4: Behavioral Development Economics: Introduction](https://www.youtube.com/watch?v=wG9h-_4xhgk)
+- [Lecture 14: Supply of Health Care &lpar;Part 2&rpar;/ Gender &lpar;Part 1&rpar;](https://www.youtube.com/watch?v=OlEM_etZCVE)
+- [Lecture 16: Land Markets &lpar;Part 1&rpar;](https://www.youtube.com/watch?v=cSgaMRF4NlY)
 <!-- YOUTUBE:END -->
 
 ---
