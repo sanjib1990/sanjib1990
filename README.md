@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Obi-Wan Kenobi Force FX Elite Lightsaber review](https://www.space.com/obi-wan-kenobi-force-fx-elite-lightsaber-review)
-- [What&#39;s next for the newly named Artemis 2 moon crew?](https://www.space.com/artemis-2-astronauts-next-steps-training)
-- [As YC launches new batch, here’s how the early-stage venture market is faring today](https://techcrunch.com/2023/04/05/early-stage-venture-market/)
-- [Forest Admin launches cloud version of its low-code internal tool builder](https://techcrunch.com/2023/04/05/forest-admin-launches-cloud-version-of-its-low-code-internal-tool-builder/)
-- [Pink Moon rises overnight tonight! Catch April&#39;s full moon in all its glory](https://www.space.com/pink-moon-april-full-moon-2023-rises)
+- [Apple faces special antitrust abuse regime in Germany](https://techcrunch.com/2023/04/05/apple-germany-special-abuse-controls/)
+- [Portable X-ray vision is one step closer to reality with OXOS Medical](https://techcrunch.com/2023/04/05/it-can-see-right-through-you/)
+- [Construction insurance company Billy raises additional $2.5 million](https://techcrunch.com/2023/04/05/construction-insurance-company-billy-fundraise/)
+- [Scientists hail scientific legacy of NASA&#39;s Mars InSight lander](https://www.space.com/scientists-hail-science-legacy-insight-mars-lander)
+- [India opts against AI regulation](https://techcrunch.com/2023/04/05/india-opts-against-ai-regulation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
