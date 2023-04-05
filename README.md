@@ -94,12 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta wants to use generative AI to create ads](https://techcrunch.com/2023/04/05/meta-wants-to-use-generative-ai-to-create-ads/)
-- [Aliens could be hiding in &#39;terminator zones&#39; on planets with eternal night](https://www.space.com/aliens-could-be-hiding-in-terminator-zones-on-planets-with-eternal-night)
-- [The Mandalorian season 3 episode 6 review: An ill-timed side
-quest that goes nowhere](https://www.space.com/the-mandalorian-season-3-episode-6-review)
-- [Bob Lee, creator of Cash App and former CTO of Square, stabbed to death](https://techcrunch.com/2023/04/05/bob-lee-creator-of-cash-app-and-former-cto-of-square-stabbed-to-death/)
-- [Hubble Telescope eyes aftermath of supernova in distant galaxy &lpar;video&rpar;](https://www.space.com/hubble-space-telescope-supernova-remnant-photo)
+- [Blockchain builder Ava Labs partners with Korea’s SK Planet to expand Asia footprint](https://techcrunch.com/2023/04/05/blockchain-builder-ava-labs-partners-with-koreas-sk-planet-to-expand-asia-footprint/)
+- [Hyve gets a buzz going for its new social savings app](https://techcrunch.com/2023/04/05/hyve-social-savings-app-fintech/)
+- [After losing sight of its initial pitch, Mojo Vision eyes pivot with $22.4M raise](https://techcrunch.com/2023/04/05/after-losing-sight-of-its-initial-pitch-mojo-vision-eyes-pivot-with-22-4m-raise/)
+- [Scientists may have uncovered the oldest evidence of a meteoroid hitting Earth ever](https://www.space.com/scientists-may-have-uncovered-the-oldest-evidence-of-a-meteor-hitting-earth-ever)
+- [AWS and Microsoft in UK crosshairs as Ofcom mulls cloud services market investigation](https://techcrunch.com/2023/04/05/aws-and-microsoft-in-uk-crosshairs-as-ofcom-mulls-cloud-services-market-investigation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
