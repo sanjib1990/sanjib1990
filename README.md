@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hubble Telescope eyes aftermath of supernova in distant galaxy &lpar;video&rpar;](https://www.space.com/hubble-space-telescope-supernova-remnant-photo)
+- [Delays to NASA&#39;s VERITAS mission a major blow for Venus exploration](https://www.space.com/veritas-mission-delay-affect-venus-exploration)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [Equator secures $40M in commitments for fund targeting climate tech startups in Africa](https://techcrunch.com/2023/04/05/equator-secures-40m-in-commitments-for-fund-targeting-climate-tech-startups-in-africa/)
 - [Kia aims to reach $122B gross revenue by 2030](https://techcrunch.com/2023/04/05/kia-aims-to-reach-122b-gross-revenue-by-2030/)
-- [Snapchat adds new safeguards around its AI chatbot](https://techcrunch.com/2023/04/05/snapchat-adds-new-safeguards-around-its-ai-chatbot/)
-- [Morgan Stanley, BP Ventures back Indian e-mobility startup Magenta](https://techcrunch.com/2023/04/05/magenta-mobility-funding-morgan-stanley-bp-ventures/)
-- [Kobo Plus subscription plans are now available in the U.S.](https://techcrunch.com/2023/04/04/kobo-plus-subscription-plans-are-now-available-in-the-u-s/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
