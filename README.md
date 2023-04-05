@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Perseverance Mars rover collects 1st sample of new science campaign &lpar;photos&rpar;](https://www.space.com/mars-rover-perseverance-first-sample-new-science-campaign)
-- [Mozart Data announces free tier to encourage smaller businesses to get on platform](https://techcrunch.com/2023/04/05/mozart-data-announces-free-tier-to-encourage-smaller-businesses-to-get-on-platform/)
-- [Creator CRM company Pico rebrands to Hype, raises $10 million](https://techcrunch.com/2023/04/05/creator-crm-company-pico-rebrands-to-hype-raises-10-million/)
-- [The US is losing crypto talent as blockchain devs seek safer havens](https://techcrunch.com/2023/04/05/the-us-is-losing-crypto-talent-as-blockchain-devs-seek-safer-havens/)
-- [The 2024 Hyundai Kona will be one the most affordable cars with over-the-air updates](https://techcrunch.com/2023/04/05/the-2024-hyundai-kona-will-be-one-the-most-affordable-cars-with-over-the-air-updates/)
+- [Substack’s new short-form ‘Notes’ feed looks a lot like Twitter](https://techcrunch.com/2023/04/05/substacks-new-short-form-notes-feed-looks-a-lot-like-twitter/)
+- [Celebrate six years of VIVE with up to £150 off HTC VR headsets](https://www.space.com/htc-vive-april-deals-sixth-birthday-uk)
+- [Many canceled HBO shows, including ‘Westworld’ and ‘Raised by Wolves,’ are now on Roku](https://techcrunch.com/2023/04/05/canceled-hbo-shows-westworld-raised-by-wolves-now-on-roku/)
+- [The 2025 all-electric Ram 1500 Rev has an absolutely massive battery](https://techcrunch.com/2023/04/05/the-2025-all-electric-ram-1500-rev-has-an-absolutely-massive-battery/)
+- [Save $320 on the Canon 6D Mark II and EF 24-105mm f/4L II lens](https://www.space.com/canon-eos-6d-mark-ii-dslr-camera-lens-bundle-save-320-dollars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
