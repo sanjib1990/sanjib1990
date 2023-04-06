@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [In a slowing market, venture investor Canaan still closes $850M across two new funds](https://techcrunch.com/2023/04/06/in-a-slowing-market-venture-investor-canaan-still-closes-850m-across-two-new-funds/)
-- [Amazon’s $1.7B iRobot acquisition scrutinized by UK on competition grounds](https://techcrunch.com/2023/04/06/amazons-1-7b-irobot-acquisition-scrutinized-by-uk-on-competition-grounds/)
-- [Launch of Europe&#39;s 1st-ever Jupiter probe is just a week away](https://www.space.com/europe-first-jupiter-mission-juice-launch-one-week)
-- [This is what would happen if scientists found an asteroid heading to Earth](https://www.space.com/nasa-models-hypothetical-asteroid-impact-scenario)
-- [Twitter’s new feature will show ‘half ads’ to Blue subscribers](https://techcrunch.com/2023/04/06/twitters-new-feature-will-show-half-ads-to-blue-subscribers/)
+- [Alternative seafood startup Aqua Cultured Foods reels in $5.5M](https://techcrunch.com/2023/04/06/alternative-seafood-aqua-cultured-foods-foodtech/)
+- [Newfound lonely galaxy is isolated because it ate all its friends &lpar;video&rpar;](https://www.space.com/lonely-galaxy-3c-297-chandra-photo)
+- [Twitter could be facing slew of fines in Germany over illegal hate speech](https://techcrunch.com/2023/04/06/elon-musk-twitter-germany-hate-speech-takedowns/)
+- [India cracks down on betting games](https://techcrunch.com/2023/04/06/india-cracks-down-on-betting-games/)
+- [6 common challenges facing cybersecurity teams and how to overcome them](https://techcrunch.com/2023/04/06/6-common-challenges-facing-cybersecurity-teams-and-how-to-overcome-them/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
