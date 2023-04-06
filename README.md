@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Alternative seafood startup Aqua Cultured Foods reels in $5.5M](https://techcrunch.com/2023/04/06/alternative-seafood-aqua-cultured-foods-foodtech/)
-- [Newfound lonely galaxy is isolated because it ate all its friends &lpar;video&rpar;](https://www.space.com/lonely-galaxy-3c-297-chandra-photo)
-- [Twitter could be facing slew of fines in Germany over illegal hate speech](https://techcrunch.com/2023/04/06/elon-musk-twitter-germany-hate-speech-takedowns/)
-- [India cracks down on betting games](https://techcrunch.com/2023/04/06/india-cracks-down-on-betting-games/)
-- [6 common challenges facing cybersecurity teams and how to overcome them](https://techcrunch.com/2023/04/06/6-common-challenges-facing-cybersecurity-teams-and-how-to-overcome-them/)
+- [Alga Biosciences wants to help climate change, one bovine burp at a time](https://techcrunch.com/2023/04/06/alga-biosciences-series-seed/)
+- [Private &#39;Jackal&#39; inspector satellites to get 1st in-space test this year](https://www.space.com/true-anomaly-jackal-inspector-satellites-launch-october-2023)
+- [True Anomaly wants to train space warfighters with spy satellites](https://techcrunch.com/2023/04/06/true-anomaly-wants-to-train-space-warfighters-with-spy-satellites/)
+- [Honeycomb scores $50M investment as observability platform thrives](https://techcrunch.com/2023/04/06/honeycomb-lands-50m-investment-to-expand-modern-observability-platform/)
+- [Climate tech tapped the brakes in Q1. Will the slowdown continue?](https://techcrunch.com/2023/04/06/climate-tech-q1-slowdown/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
