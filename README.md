@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Alga Biosciences wants to help climate change, one bovine burp at a time](https://techcrunch.com/2023/04/06/alga-biosciences-series-seed/)
-- [Private &#39;Jackal&#39; inspector satellites to get 1st in-space test this year](https://www.space.com/true-anomaly-jackal-inspector-satellites-launch-october-2023)
-- [True Anomaly wants to train space warfighters with spy satellites](https://techcrunch.com/2023/04/06/true-anomaly-wants-to-train-space-warfighters-with-spy-satellites/)
-- [Honeycomb scores $50M investment as observability platform thrives](https://techcrunch.com/2023/04/06/honeycomb-lands-50m-investment-to-expand-modern-observability-platform/)
-- [Climate tech tapped the brakes in Q1. Will the slowdown continue?](https://techcrunch.com/2023/04/06/climate-tech-q1-slowdown/)
+- [Nestle takes a big swig of Yfood in a deal that values the meal replacement startup at $469M](https://techcrunch.com/2023/04/06/nestle-takes-a-big-swig-of-yfood-in-a-deal-that-values-the-meal-replacement-startup-at-469m/)
+- [Legal powerhouse Proskauer exposed clients’ confidential M&amp;A data](https://techcrunch.com/2023/04/06/proskauer-confidential-client-data/)
+- [Forme Financial launches out of beta as Earned to help physicians manage wealth](https://techcrunch.com/2023/04/06/earned-physician-wealth-management-fintech/)
+- [This new AI-powered computer model can predict dangerous solar storms](https://www.space.com/ai-program-dagger-predicts-solar-storms)
+- [How hard was it to raise venture capital in Q1?](https://techcrunch.com/2023/04/06/how-hard-was-it-to-raise-venture-capital-in-q1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
