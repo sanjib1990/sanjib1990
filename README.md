@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: New Twitter Blue feature will reportedly squelch 50% of ads for paid members](https://techcrunch.com/2023/04/06/daily-crunch-new-twitter-blue-feature-will-reportedly-squelch-50-of-ads-for-paid-members/)
+- [Anthropic’s $5B, 4-year plan to take on OpenAI](https://techcrunch.com/2023/04/06/anthropics-5b-4-year-plan-to-take-on-openai/)
+- [Dawn Aerospace&#39;s space plane aces first rocket-powered flights &lpar;video&rpar;](https://www.space.com/dawn-aerospace-space-plane-first-rocket-powered-flights-video)
 - [T-Mobile to provide free MLB.TV subscriptions to customers through 2028](https://techcrunch.com/2023/04/06/t-mobile-to-provide-free-mlb-tv-subscriptions-to-customers-through-2028/)
 - [Our favorite startups from YC’s Winter 2023 Demo Day — Part 2](https://techcrunch.com/2023/04/06/y-combinator-demo-day-2023-favorites-part-two/)
-- [Apple &lpar;re&rpar;invents the iPod](https://techcrunch.com/2023/04/06/apple-reinvents-ipod-airpods-case-patent/)
-- [The Kia EV9’s real killer app could be its software](https://techcrunch.com/2023/04/06/the-kia-ev9s-real-killer-app-could-be-its-software/)
-- [Can AI commit libel? We’re about to find out](https://techcrunch.com/2023/04/06/can-ai-commit-libel-were-about-to-find-out/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
