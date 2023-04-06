@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Without the Stripe and OpenAI deals, global VC results would have been even worse in Q1 2023](https://techcrunch.com/2023/04/06/q1-2023-vc-performance-bad/)
+- [&#39;Potentially hazardous&#39; skyscraper-size asteroid will zip past Earth on April 6](https://www.space.com/potentially-hazardous-skyscraper-size-asteroid-will-zip-past-earth-thursday)
+- [HeatTransformers turns up the dial on heat pumps with new funding](https://techcrunch.com/2023/04/06/heattransformers-series-a/)
 - [Disney+ ad-supported plan is now available on Roku devices](https://techcrunch.com/2023/04/06/disney-ad-supported-plan-is-now-available-on-roku-devices/)
 - [Pitch Deck Teardown: Smalls’ $19M Series B deck](https://techcrunch.com/2023/04/06/sample-series-b-pitch-deck-smalls/)
-- [Discover the SaaS Stage at Disrupt 2023](https://techcrunch.com/2023/04/06/discover-the-saas-stage-at-disrupt-2023/)
-- [Pink Moon delights skywatchers around the world during April full moon 2023 &lpar;photos&rpar;](https://www.space.com/pink-moon-2023-amazing-photos)
-- [SoftBank LatAm sees past recent losses, remains bullish on region](https://techcrunch.com/2023/04/06/softbank-latam-sees-past-recent-losses-remains-bullish-on-region/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
