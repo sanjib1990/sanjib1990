@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How I became a Software Engineer and DevOps Engineer - Minidoc by @Honeypotio ​](https://www.youtube.com/watch?v=drTDBBrfqSE)
 - [Kids vs. MALWARE!!](https://www.youtube.com/watch?v=bZ7PAzrWyvc)
 - [Lecture 19: Public Finance &lpar;Part 2&rpar;](https://www.youtube.com/watch?v=Sl4JvEXA-lw)
 - [Lecture 18: Land Markets &lpar;Part 3&rpar; / Public Finance &lpar;part 1&rpar;](https://www.youtube.com/watch?v=1N_iAJq1dU4)
 - [Lecture 4: Behavioral Development Economics: Introduction](https://www.youtube.com/watch?v=wG9h-_4xhgk)
-- [Lecture 14: Supply of Health Care &lpar;Part 2&rpar;/ Gender &lpar;Part 1&rpar;](https://www.youtube.com/watch?v=OlEM_etZCVE)
 <!-- YOUTUBE:END -->
 
 ---
