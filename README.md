@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [T-Mobile to provide free MLB.TV subscriptions to customers through 2028](https://techcrunch.com/2023/04/06/t-mobile-to-provide-free-mlb-tv-subscriptions-to-customers-through-2028/)
+- [Our favorite startups from YC’s Winter 2023 Demo Day — Part 2](https://techcrunch.com/2023/04/06/y-combinator-demo-day-2023-favorites-part-two/)
 - [Apple &lpar;re&rpar;invents the iPod](https://techcrunch.com/2023/04/06/apple-reinvents-ipod-airpods-case-patent/)
 - [The Kia EV9’s real killer app could be its software](https://techcrunch.com/2023/04/06/the-kia-ev9s-real-killer-app-could-be-its-software/)
 - [Can AI commit libel? We’re about to find out](https://techcrunch.com/2023/04/06/can-ai-commit-libel-were-about-to-find-out/)
-- [Can Arbitrum’s recently formed DAO recover from its messy week?](https://techcrunch.com/2023/04/06/to-dao-or-not-to-dao/)
-- [Rings around Uranus! James Webb Space Telescope captures stunning image of ice giant &lpar;photo, video&rpar;](https://www.space.com/james-webb-space-telescope-uranus-rings-photo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
