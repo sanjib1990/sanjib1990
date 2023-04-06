@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Axiom Space targeting May 8 for launch of 2nd private crewed mission to space station](https://www.space.com/axiom-space-ax-2-astronaut-launch-may-2023)
+- [Astronauts fly replacement Soyuz capsule to new docking port at space station](https://www.space.com/soyuz-ms23-parking-spot-swap-at-space-station)
+- [Level up with our partners at TC Early Stage](https://techcrunch.com/2023/04/06/level-up-with-our-partners-at-tc-early-stage/)
+- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
 - [Messenger adds multiplayer games you can play during video calls](https://techcrunch.com/2023/04/06/messenger-adds-multiplayer-games-you-can-play-during-video-calls/)
-- [Watch SpaceX launch an Intelsat satellite with NASA&#39;s TEMPO experiment tonight](https://www.space.com/spacex-intelsat-satellite-nasa-tempo-experiment-launch)
-- [Everything that stood out to us at the 2023 New York Auto Show](https://techcrunch.com/2023/04/06/everything-that-stood-out-to-us-at-the-2023-new-york-auto-show/)
-- [Staytuned bags $34M in equity, debt to build ‘Salesforce suite for e-commerce’](https://techcrunch.com/2023/04/06/staytuned-software-e-commerce/)
-- [SpaceX stacks huge Starship vehicle ahead of orbital test flight &lpar;video&rpar;](https://www.space.com/spacex-starship-stacking-video-april-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
