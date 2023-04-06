@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple &lpar;re&rpar;invents the iPod](https://techcrunch.com/2023/04/06/apple-reinvents-ipod-airpods-case-patent/)
+- [The Kia EV9’s real killer app could be its software](https://techcrunch.com/2023/04/06/the-kia-ev9s-real-killer-app-could-be-its-software/)
+- [Can AI commit libel? We’re about to find out](https://techcrunch.com/2023/04/06/can-ai-commit-libel-were-about-to-find-out/)
 - [Can Arbitrum’s recently formed DAO recover from its messy week?](https://techcrunch.com/2023/04/06/to-dao-or-not-to-dao/)
 - [Rings around Uranus! James Webb Space Telescope captures stunning image of ice giant &lpar;photo, video&rpar;](https://www.space.com/james-webb-space-telescope-uranus-rings-photo)
-- [The robots are already here](https://techcrunch.com/2023/04/06/the-robots-are-already-here/)
-- [Throne fixes security bug that exposed creators’ private home addresses](https://techcrunch.com/2023/04/06/throne-security-bug-creators-address/)
-- [Axiom Space targeting May 8 for launch of 2nd private crewed mission to space station](https://www.space.com/axiom-space-ax-2-astronaut-launch-may-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
