@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [In a slowing market, venture investor Canaan still closes $850M across two new funds](https://techcrunch.com/2023/04/06/in-a-slowing-market-venture-investor-canaan-still-closes-850m-across-two-new-funds/)
 - [Amazon’s $1.7B iRobot acquisition scrutinized by UK on competition grounds](https://techcrunch.com/2023/04/06/amazons-1-7b-irobot-acquisition-scrutinized-by-uk-on-competition-grounds/)
 - [Launch of Europe&#39;s 1st-ever Jupiter probe is just a week away](https://www.space.com/europe-first-jupiter-mission-juice-launch-one-week)
 - [This is what would happen if scientists found an asteroid heading to Earth](https://www.space.com/nasa-models-hypothetical-asteroid-impact-scenario)
 - [Twitter’s new feature will show ‘half ads’ to Blue subscribers](https://techcrunch.com/2023/04/06/twitters-new-feature-will-show-half-ads-to-blue-subscribers/)
-- [That slowdown you’re feeling, by the numbers](https://techcrunch.com/2023/04/05/that-slowdown-youre-feeling-by-the-numbers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
