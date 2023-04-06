@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Can Arbitrum’s recently formed DAO recover from its messy week?](https://techcrunch.com/2023/04/06/to-dao-or-not-to-dao/)
+- [Rings around Uranus! James Webb Space Telescope captures stunning image of ice giant &lpar;photo, video&rpar;](https://www.space.com/james-webb-space-telescope-uranus-rings-photo)
+- [The robots are already here](https://techcrunch.com/2023/04/06/the-robots-are-already-here/)
+- [Throne fixes security bug that exposed creators’ private home addresses](https://techcrunch.com/2023/04/06/throne-security-bug-creators-address/)
 - [Axiom Space targeting May 8 for launch of 2nd private crewed mission to space station](https://www.space.com/axiom-space-ax-2-astronaut-launch-may-2023)
-- [Astronauts fly replacement Soyuz capsule to new docking port at space station](https://www.space.com/soyuz-ms23-parking-spot-swap-at-space-station)
-- [Level up with our partners at TC Early Stage](https://techcrunch.com/2023/04/06/level-up-with-our-partners-at-tc-early-stage/)
-- [Pictures from space! Our image of the day](https://www.space.com/34-image-day.html)
-- [Messenger adds multiplayer games you can play during video calls](https://techcrunch.com/2023/04/06/messenger-adds-multiplayer-games-you-can-play-during-video-calls/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
