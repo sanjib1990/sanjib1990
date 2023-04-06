@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google to prohibit personal loan apps from accessing user photos, contacts](https://techcrunch.com/2023/04/05/google-personal-loan-apps-update/)
 - [Tesla more than tripled its Austin gigafactory workforce in 2022](https://techcrunch.com/2023/04/05/tesla-more-than-tripled-its-austin-gigafactory-workforce-in-2022/)
 - [For SUVs and EVs, subtlety is out and plundering nature is in](https://techcrunch.com/2023/04/05/for-suvs-and-evs-subtlety-is-out-and-plundering-nature-is-in/)
 - [Lux Capital ditches its opportunity fund in latest fundraise](https://techcrunch.com/2023/04/05/lux-capital-ditches-its-opportunity-fund-in-latest-fundraise/)
 - [Our favorite startups from YC’s Winter 2023 Demo Day — Part 1](https://techcrunch.com/2023/04/05/y-combinator-demo-day-favorites-part-one/)
-- [What is &#39;Star Trek&#39; First Contact Day and why do Trekkies care?](https://www.space.com/star-trek-first-contact-day)
 <!-- BLOG-POST-LIST:END -->
 
 ---
