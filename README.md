@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Nestle takes a big swig of Yfood in a deal that values the meal replacement startup at $469M](https://techcrunch.com/2023/04/06/nestle-takes-a-big-swig-of-yfood-in-a-deal-that-values-the-meal-replacement-startup-at-469m/)
-- [Legal powerhouse Proskauer exposed clients’ confidential M&amp;A data](https://techcrunch.com/2023/04/06/proskauer-confidential-client-data/)
-- [Forme Financial launches out of beta as Earned to help physicians manage wealth](https://techcrunch.com/2023/04/06/earned-physician-wealth-management-fintech/)
-- [This new AI-powered computer model can predict dangerous solar storms](https://www.space.com/ai-program-dagger-predicts-solar-storms)
-- [How hard was it to raise venture capital in Q1?](https://techcrunch.com/2023/04/06/how-hard-was-it-to-raise-venture-capital-in-q1/)
+- [Disney+ ad-supported plan is now available on Roku devices](https://techcrunch.com/2023/04/06/disney-ad-supported-plan-is-now-available-on-roku-devices/)
+- [Pitch Deck Teardown: Smalls’ $19M Series B deck](https://techcrunch.com/2023/04/06/sample-series-b-pitch-deck-smalls/)
+- [Discover the SaaS Stage at Disrupt 2023](https://techcrunch.com/2023/04/06/discover-the-saas-stage-at-disrupt-2023/)
+- [Pink Moon delights skywatchers around the world during April full moon 2023 &lpar;photos&rpar;](https://www.space.com/pink-moon-2023-amazing-photos)
+- [SoftBank LatAm sees past recent losses, remains bullish on region](https://techcrunch.com/2023/04/06/softbank-latam-sees-past-recent-losses-remains-bullish-on-region/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
