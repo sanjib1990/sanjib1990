@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: ‘Copy-from-China’ social media app Lemon8 squeezes its way into US top 10](https://techcrunch.com/2023/04/07/daily-crunch-copy-from-china-social-media-app-lemon8-squeezes-its-way-into-us-top-10/)
+- [New &#39;Star Wars: Ahsoka&#39; trailer brings &#39;Rebels&#39; heroes to live action — and confirms identity of main villain &lpar;video&rpar;](https://www.space.com/ahsoka-star-wars-tv-series-1st-trailer)
 - [The AI machines are coming for thought work, and other TC news](https://techcrunch.com/2023/04/07/the-ai-machines-are-coming-for-thought-work-and-other-tc-news/)
+- [Zoom in on Mars like never before with this epic 3D map of the Red Planet](https://www.space.com/high-resolution-3d-mars-map-mro)
 - [What if Scandinavian startups don’t need Y Combinator?](https://techcrunch.com/2023/04/07/y-combinator-scandinavian-startups/)
-- [SpaceX&#39;s Starship looks amazing stacked for launch in these photos](https://www.space.com/spacex-starship-stacked-launch-photos-april-2023)
-- [Astronomers develop new AI software to sharpen photos from ground-based telescopes](https://www.space.com/ai-software-unblurs-images-ground-based-telescopes)
-- [Everything you need to know about parametric insurance](https://techcrunch.com/2023/04/07/insurtech-parametric-insurance/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
