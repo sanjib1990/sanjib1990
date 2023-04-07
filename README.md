@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [James Webb Space Telescope spots the Cosmic Seahorse through a gravitational lens &lpar;photo&rpar;](https://www.space.com/james-webb-cosmic-seahorse-gravitational-lensing-photo)
+- [Cruise recalls 300 robotaxis, issues software update after crashing into city bus](https://techcrunch.com/2023/04/07/cruise-recalls-300-robotaxis-issues-software-update-after-crashing-into-city-bus/)
 - [Europe&#39;s JUICE mission will explore the Jupiter ocean moons Callisto, Europa and Ganymede. Here&#39;s why they&#39;re so weird](https://www.space.com/juice-jupiter-moons-callisto-europa-ganymede-weird)
 - [TechCrunch’s crypto-focused podcast Chain Reaction is nominated for a Webby Award](https://techcrunch.com/2023/04/07/techcrunchs-crypto-focused-podcast-chain-reaction-is-nominated-for-a-webby-award/)
 - [NASA&#39;s asteroid-smashing DART mission revealed how battered space rock Dimorphos formed](https://www.space.com/nasa-dart-mission-asteroid-dimorphos-formation)
-- [3 takeaways from Substack’s newly released financial results](https://techcrunch.com/2023/04/07/3-takeaways-from-substacks-newly-released-financial-results/)
-- [New &#39;Guardians of the Galaxy Vol. 3&#39; teasers and poster drops as pre-order tickets go on sale](https://www.space.com/guardians-of-the-galaxy-volume-3-poster-trailers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
