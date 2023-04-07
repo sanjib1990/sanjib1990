@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Star Wars Celebration 2023: Plans, previews and launch dates for new &#39;Star Wars&#39; movies and series](https://www.space.com/star-wars-celebration-2023-plans-movies-tv-shows)
 - [Daily Crunch: ‘Copy-from-China’ social media app Lemon8 squeezes its way into US top 10](https://techcrunch.com/2023/04/07/daily-crunch-copy-from-china-social-media-app-lemon8-squeezes-its-way-into-us-top-10/)
 - [New &#39;Star Wars: Ahsoka&#39; trailer brings &#39;Rebels&#39; heroes to live action — and confirms identity of main villain &lpar;video&rpar;](https://www.space.com/ahsoka-star-wars-tv-series-1st-trailer)
 - [The AI machines are coming for thought work, and other TC news](https://techcrunch.com/2023/04/07/the-ai-machines-are-coming-for-thought-work-and-other-tc-news/)
 - [Zoom in on Mars like never before with this epic 3D map of the Red Planet](https://www.space.com/high-resolution-3d-mars-map-mro)
-- [What if Scandinavian startups don’t need Y Combinator?](https://techcrunch.com/2023/04/07/y-combinator-scandinavian-startups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
