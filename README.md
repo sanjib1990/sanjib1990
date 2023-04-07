@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [James Webb Space Telescope spots the Cosmic Seahorse through a gravitational lens &lpar;photo&rpar;](https://www.space.com/james-webb-cosmic-seahorse-gravitational-lensing-photo)
-- [Cruise recalls 300 robotaxis, issues software update after crashing into city bus](https://techcrunch.com/2023/04/07/cruise-recalls-300-robotaxis-issues-software-update-after-crashing-into-city-bus/)
-- [Europe&#39;s JUICE mission will explore the Jupiter ocean moons Callisto, Europa and Ganymede. Here&#39;s why they&#39;re so weird](https://www.space.com/juice-jupiter-moons-callisto-europa-ganymede-weird)
-- [TechCrunch’s crypto-focused podcast Chain Reaction is nominated for a Webby Award](https://techcrunch.com/2023/04/07/techcrunchs-crypto-focused-podcast-chain-reaction-is-nominated-for-a-webby-award/)
-- [NASA&#39;s asteroid-smashing DART mission revealed how battered space rock Dimorphos formed](https://www.space.com/nasa-dart-mission-asteroid-dimorphos-formation)
+- [Everything you need to know about parametric insurance](https://techcrunch.com/2023/04/07/insurtech-parametric-insurance/)
+- [TechCrunch+ roundup: YC Demo Day faves, thrift shop VCs, cybersecurity product challenges](https://techcrunch.com/2023/04/07/techcrunch-roundup-yc-demo-day-faves-thrift-shop-vcs-cybersecurity-product-challenges/)
+- [Dwarf star is surrounded by massive &#39;double ring&#39; that hints at a Saturn-size exoplanet](https://www.space.com/red-dwarf-star-double-ring-exoplanet-alma)
+- [Twitter won’t let you retweet, like or reply to Substack links](https://techcrunch.com/2023/04/07/twitter-substack-censorship-retweet/)
+- [Tesla’s strategy to fuel EV sales? Keep cutting prices](https://techcrunch.com/2023/04/07/teslas-strategy-to-fuel-ev-sales-keep-cutting-prices/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
