@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Monster black hole may have killed this galaxy&#39;s star-forming power, James Webb Space Telescope reveals](https://www.space.com/black-hole-killed-galaxy-star-formation-james-webb-telescope)
 - [Planetary Society leads the charge to save NASA&#39;s VERITAS Venus mission](https://www.space.com/planetary-society-save-nasa-veritas-venus-mission)
 - [Runaway supermassive black hole is hurtling through space followed by tail of infant stars &lpar;video&rpar;](https://www.space.com/runaway-supermassive-black-hole-hubble-telescope)
 - [With latest hit Lemon8, ByteDance again learns from the China playbook](https://techcrunch.com/2023/04/07/lemon8-bytedance-copy-from-china/)
 - [India’s central bank abandons UPI rival project](https://techcrunch.com/2023/04/06/india-central-bank-abandons-upi-rival-project-nue/)
-- [Samsung cuts memory chip production as it hits worst quarterly profit since 2009](https://techcrunch.com/2023/04/06/samsung-cuts-memory-chip-production-as-it-hits-worst-quarterly-profit-since-2009/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
