@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [With latest hit Lemon8, ByteDance again learns from the China playbook](https://techcrunch.com/2023/04/07/lemon8-bytedance-copy-from-china/)
 - [India’s central bank abandons UPI rival project](https://techcrunch.com/2023/04/06/india-central-bank-abandons-upi-rival-project-nue/)
 - [Samsung cuts memory chip production as it hits worst quarterly profit since 2009](https://techcrunch.com/2023/04/06/samsung-cuts-memory-chip-production-as-it-hits-worst-quarterly-profit-since-2009/)
 - [Tesla China boss Tom Zhu named SVP as country sales boom](https://techcrunch.com/2023/04/06/tesla-china-boss-tom-zhu-named-svp-as-country-sales-boom/)
 - [JB Straubel could return to Tesla – as a board member this time](https://techcrunch.com/2023/04/06/jb-straubel-could-return-to-tesla-as-a-board-member-this-time/)
-- [Artemis 2 moon crew lands on &#39;The Late Show with Stephen Colbert&#39; and &#39;Today&#39;](https://www.space.com/artemis-2-astronauts-late-show-colbert-today)
 <!-- BLOG-POST-LIST:END -->
 
 ---
