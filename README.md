@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Vector databases are so hot right now. WTF are they?](https://www.youtube.com/watch?v=klTvEwg3oJ4)
 - [Meet SAM… Meta’s latest AI model](https://www.youtube.com/watch?v=WrxnpxKarxU)
 - [How I became a Software Engineer and DevOps Engineer - Minidoc by @Honeypotio ​](https://www.youtube.com/watch?v=drTDBBrfqSE)
 - [Kids vs. MALWARE!!](https://www.youtube.com/watch?v=bZ7PAzrWyvc)
 - [Lecture 19: Public Finance &lpar;Part 2&rpar;](https://www.youtube.com/watch?v=Sl4JvEXA-lw)
-- [Lecture 18: Land Markets &lpar;Part 3&rpar; / Public Finance &lpar;part 1&rpar;](https://www.youtube.com/watch?v=1N_iAJq1dU4)
 <!-- YOUTUBE:END -->
 
 ---
