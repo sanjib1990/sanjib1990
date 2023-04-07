@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Europe&#39;s JUICE mission will explore the Jupiter ocean moons Callisto, Europa and Ganymede. Here&#39;s why they&#39;re so weird](https://www.space.com/juice-jupiter-moons-callisto-europa-ganymede-weird)
+- [TechCrunch’s crypto-focused podcast Chain Reaction is nominated for a Webby Award](https://techcrunch.com/2023/04/07/techcrunchs-crypto-focused-podcast-chain-reaction-is-nominated-for-a-webby-award/)
+- [NASA&#39;s asteroid-smashing DART mission revealed how battered space rock Dimorphos formed](https://www.space.com/nasa-dart-mission-asteroid-dimorphos-formation)
 - [3 takeaways from Substack’s newly released financial results](https://techcrunch.com/2023/04/07/3-takeaways-from-substacks-newly-released-financial-results/)
 - [New &#39;Guardians of the Galaxy Vol. 3&#39; teasers and poster drops as pre-order tickets go on sale](https://www.space.com/guardians-of-the-galaxy-volume-3-poster-trailers)
-- [New at Disrupt, the AI Stage](https://techcrunch.com/2023/04/07/new-at-disrupt-the-ai-stage/)
-- [Make networking work for you at TC Early Stage](https://techcrunch.com/2023/04/07/make-networking-work-for-you-at-tc-early-stage/)
-- [VCs to recommerce startups: Let’s pop some tags](https://techcrunch.com/2023/04/07/vcs-to-recommerce-startups-lets-pop-some-tags/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
