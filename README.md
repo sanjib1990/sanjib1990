@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [JB Straubel could return to Tesla – as a board member this time](https://techcrunch.com/2023/04/06/jb-straubel-could-return-to-tesla-as-a-board-member-this-time/)
 - [Artemis 2 moon crew lands on &#39;The Late Show with Stephen Colbert&#39; and &#39;Today&#39;](https://www.space.com/artemis-2-astronauts-late-show-colbert-today)
 - [Daily Crunch: New Twitter Blue feature will reportedly squelch 50% of ads for paid members](https://techcrunch.com/2023/04/06/daily-crunch-new-twitter-blue-feature-will-reportedly-squelch-50-of-ads-for-paid-members/)
 - [Anthropic’s $5B, 4-year plan to take on OpenAI](https://techcrunch.com/2023/04/06/anthropics-5b-4-year-plan-to-take-on-openai/)
 - [Dawn Aerospace&#39;s space plane aces first rocket-powered flights &lpar;video&rpar;](https://www.space.com/dawn-aerospace-space-plane-first-rocket-powered-flights-video)
-- [T-Mobile to provide free MLB.TV subscriptions to customers through 2028](https://techcrunch.com/2023/04/06/t-mobile-to-provide-free-mlb-tv-subscriptions-to-customers-through-2028/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
