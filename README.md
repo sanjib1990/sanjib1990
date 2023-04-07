@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX&#39;s Starship looks amazing stacked for launch in these photos](https://www.space.com/spacex-starship-stacked-launch-photos-april-2023)
+- [Astronomers develop new AI software to sharpen photos from ground-based telescopes](https://www.space.com/ai-software-unblurs-images-ground-based-telescopes)
 - [Everything you need to know about parametric insurance](https://techcrunch.com/2023/04/07/insurtech-parametric-insurance/)
 - [TechCrunch+ roundup: YC Demo Day faves, thrift shop VCs, cybersecurity product challenges](https://techcrunch.com/2023/04/07/techcrunch-roundup-yc-demo-day-faves-thrift-shop-vcs-cybersecurity-product-challenges/)
 - [Dwarf star is surrounded by massive &#39;double ring&#39; that hints at a Saturn-size exoplanet](https://www.space.com/red-dwarf-star-double-ring-exoplanet-alma)
-- [Twitter won’t let you retweet, like or reply to Substack links](https://techcrunch.com/2023/04/07/twitter-substack-censorship-retweet/)
-- [Tesla’s strategy to fuel EV sales? Keep cutting prices](https://techcrunch.com/2023/04/07/teslas-strategy-to-fuel-ev-sales-keep-cutting-prices/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
