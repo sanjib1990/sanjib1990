@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Don’t ever leak data, but especially if you’re building this](https://techcrunch.com/2023/04/07/dont-ever-leak-data-but-especially-if-youre-building-this/)
-- [Northrop Grumman names cargo craft for fallen Columbia astronaut Laurel Clark](https://www.space.com/northrop-grumman-ng19-laurel-clark-shuttle-columbia)
-- [Pre-orders live for three new Lego Star Wars sets coming in May, including the UCS X-Wing](https://www.space.com/new-lego-star-wars-sets-return-of-the-jedi-40th-anniversary)
-- [Eerie ring of red light flashes like a massive UFO above Italy. What was it?](https://www.space.com/ring-red-light-ufo-italy-explainer)
-- [Monster black hole may have killed this galaxy&#39;s star-forming power, James Webb Space Telescope reveals](https://www.space.com/black-hole-killed-galaxy-star-formation-james-webb-telescope)
+- [New &#39;Guardians of the Galaxy Vol. 3&#39; teasers and poster drops as pre-order tickets go on sale](https://www.space.com/guardians-of-the-galaxy-volume-3-poster-trailers)
+- [New at Disrupt, the AI Stage](https://techcrunch.com/2023/04/07/new-at-disrupt-the-ai-stage/)
+- [Make networking work for you at TC Early Stage](https://techcrunch.com/2023/04/07/make-networking-work-for-you-at-tc-early-stage/)
+- [VCs to recommerce startups: Let’s pop some tags](https://techcrunch.com/2023/04/07/vcs-to-recommerce-startups-lets-pop-some-tags/)
+- [The first group of upcoming potential unicorn IPOs is shaping up well](https://techcrunch.com/2023/04/07/the-first-cohort-of-upcoming-unicorn-ipos-is-taking-shape/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
