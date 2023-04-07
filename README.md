@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Don’t ever leak data, but especially if you’re building this](https://techcrunch.com/2023/04/07/dont-ever-leak-data-but-especially-if-youre-building-this/)
+- [Northrop Grumman names cargo craft for fallen Columbia astronaut Laurel Clark](https://www.space.com/northrop-grumman-ng19-laurel-clark-shuttle-columbia)
+- [Pre-orders live for three new Lego Star Wars sets coming in May, including the UCS X-Wing](https://www.space.com/new-lego-star-wars-sets-return-of-the-jedi-40th-anniversary)
 - [Eerie ring of red light flashes like a massive UFO above Italy. What was it?](https://www.space.com/ring-red-light-ufo-italy-explainer)
 - [Monster black hole may have killed this galaxy&#39;s star-forming power, James Webb Space Telescope reveals](https://www.space.com/black-hole-killed-galaxy-star-formation-james-webb-telescope)
-- [Planetary Society leads the charge to save NASA&#39;s VERITAS Venus mission](https://www.space.com/planetary-society-save-nasa-veritas-venus-mission)
-- [Runaway supermassive black hole is hurtling through space followed by tail of infant stars &lpar;video&rpar;](https://www.space.com/runaway-supermassive-black-hole-hubble-telescope)
-- [With latest hit Lemon8, ByteDance again learns from the China playbook](https://techcrunch.com/2023/04/07/lemon8-bytedance-copy-from-china/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
