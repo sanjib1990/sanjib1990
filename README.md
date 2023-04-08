@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Thrillseekers hunt for secret world in new &#39;Star Wars: The High Republic - Quest for Planet X&#39; novel &lpar;exclusive excerpt&rpar;](https://www.space.com/star-wars-quest-for-planet-x-novel)
-- [ESA&#39;s Jupiter mission JUICE is not &#39;strong enough&#39; to orbit potentially life-harboring Europa. Here&#39;s why](https://www.space.com/why-jupiter-juice-spacecraft-will-not-orbit-europa)
-- [The Great American Solar Eclipse of 2024 is 1 year away! Where is the best place to see it?](https://www.space.com/great-american-total-solar-eclipse-2024-weather-forecast)
-- [Star Wars Celebration 2023: Plans, previews and launch dates for new &#39;Star Wars&#39; movies and series](https://www.space.com/star-wars-celebration-2023-plans-movies-tv-shows)
-- [Daily Crunch: ‘Copy-from-China’ social media app Lemon8 squeezes its way into US top 10](https://techcrunch.com/2023/04/07/daily-crunch-copy-from-china-social-media-app-lemon8-squeezes-its-way-into-us-top-10/)
+- [a16z will ‘continue to tailor’ its multibillion-dollar crypto funds to market opportunities, GP says](https://techcrunch.com/2023/04/08/a16z-will-continue-to-tailor-its-multi-billion-dollar-crypto-funds-to-market-opportunities-gp-says/)
+- [Generative AI could transform the way we interact with enterprise software](https://techcrunch.com/2023/04/08/generative-ai-enterprise-software/)
+- [Transformers movies ranked, worst to best](https://www.space.com/transformers-movies-ranked-worst-to-best)
+- [To raise an opportunity fund this year or to not raise an opportunity fund?](https://techcrunch.com/2023/04/08/opportunity-fund-should-you-raise/)
+- [Get ready for a rare hybrid solar eclipse on April 20](https://www.space.com/hybrid-solar-eclipse-april-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
