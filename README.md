@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [YC’s latest batch sure was a lot of ‘maybe AI can do… this?’](https://techcrunch.com/2023/04/08/ycs-latest-batch-sure-was-a-lot-of-maybe-ai-can-do-this/)
+- [Pet influencers are hotter than ever. But how do dogs do taxes?](https://techcrunch.com/2023/04/08/pet-influencer-taxes/)
 - [a16z will ‘continue to tailor’ its multibillion-dollar crypto funds to market opportunities, GP says](https://techcrunch.com/2023/04/08/a16z-will-continue-to-tailor-its-multi-billion-dollar-crypto-funds-to-market-opportunities-gp-says/)
 - [Generative AI could transform the way we interact with enterprise software](https://techcrunch.com/2023/04/08/generative-ai-enterprise-software/)
 - [Transformers movies ranked, worst to best](https://www.space.com/transformers-movies-ranked-worst-to-best)
-- [To raise an opportunity fund this year or to not raise an opportunity fund?](https://techcrunch.com/2023/04/08/opportunity-fund-should-you-raise/)
-- [Get ready for a rare hybrid solar eclipse on April 20](https://www.space.com/hybrid-solar-eclipse-april-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
