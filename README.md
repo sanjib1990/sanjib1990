@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tragic killing in SF, Twitter sends dogecoin soaring, and Android gains an account deletion option](https://techcrunch.com/2023/04/08/tragic-killing-in-sf-twitter-sends-dogecoin-soaring-and-android-gains-an-account-deletion-option/)
 - [We’re still talking about Y Combinator valuations](https://techcrunch.com/2023/04/08/were-still-talking-about-y-combinator-valuations/)
 - [Selling insurance is hard, but that’s not bad news for insurtechs](https://techcrunch.com/2023/04/08/insuretech-b2b-b2c-insurance/)
 - [YC’s latest batch sure was a lot of ‘maybe AI can do… this?’](https://techcrunch.com/2023/04/08/ycs-latest-batch-sure-was-a-lot-of-maybe-ai-can-do-this/)
 - [Pet influencers are hotter than ever. But how do dogs do taxes?](https://techcrunch.com/2023/04/08/pet-influencer-taxes/)
-- [a16z will ‘continue to tailor’ its multibillion-dollar crypto funds to market opportunities, GP says](https://techcrunch.com/2023/04/08/a16z-will-continue-to-tailor-its-multi-billion-dollar-crypto-funds-to-market-opportunities-gp-says/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
