@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [It’s a xenomorph outbreak on Planet Lethe in first &#39;Aliens: Dark Descent&#39; tactical gameplay trailer](https://www.space.com/aliens-dark-descent-first-gameplay-trailer)
+- [Scientists blasted Barbies with liquid nitrogen to test a new method of moon dust cleanup — and it worked extremely well](https://www.space.com/barbies-blasted-liquid-nitrogen-moon-dust-cleanup)
 - [Tragic killing in SF, Twitter sends dogecoin soaring, and Android gains an account deletion option](https://techcrunch.com/2023/04/08/tragic-killing-in-sf-twitter-sends-dogecoin-soaring-and-android-gains-an-account-deletion-option/)
 - [We’re still talking about Y Combinator valuations](https://techcrunch.com/2023/04/08/were-still-talking-about-y-combinator-valuations/)
 - [Selling insurance is hard, but that’s not bad news for insurtechs](https://techcrunch.com/2023/04/08/insuretech-b2b-b2c-insurance/)
-- [YC’s latest batch sure was a lot of ‘maybe AI can do… this?’](https://techcrunch.com/2023/04/08/ycs-latest-batch-sure-was-a-lot-of-maybe-ai-can-do-this/)
-- [Pet influencers are hotter than ever. But how do dogs do taxes?](https://techcrunch.com/2023/04/08/pet-influencer-taxes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
