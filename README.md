@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta Verified is under fire in sex work circles for revealing users’ legal names](https://techcrunch.com/2023/04/10/meta-verified-reveals-legal-name-sex-workers-warn/)
+- [TechCrunch’s startup building podcast Found is nominated for a Webby Award](https://techcrunch.com/2023/04/10/techcrunchs-startup-building-podcast-found-is-nominated-for-a-webby-award/)
+- [Twitter Circle tweets are not that private anymore](https://techcrunch.com/2023/04/10/twitter-circle-bug-not-private/)
+- [Cosmic &#39;highway code&#39; could help combat the space junk threat](https://www.space.com/cosmic-highway-code-combat-space-junk-threat)
 - [YouTube Premium adds more perks with SharePlay support, higher quality video and more](https://techcrunch.com/2023/04/10/youtube-premium-adds-more-perks-with-shareplay-support-higher-quality-video-and-more/)
-- [The Petty Shall Inherit The Pennies](https://techcrunch.com/2023/04/10/the-petty-shall-inherit-the-pennies/)
-- [Why will it take Europe&#39;s JUICE spacecraft 8 years to get to Jupiter?](https://www.space.com/why-take-juice-spacecraft-eight-years-reach-jupiter)
-- [‘Star Wars: The Bad Batch’ final and third season will debut on Disney+ in 2024](https://techcrunch.com/2023/04/10/star-wars-the-bad-batch-final-and-third-season-will-debut-on-disney-in-2024/)
-- [Global PC shipments dropped by a third in Q1](https://techcrunch.com/2023/04/10/global-pc-shipments-dropped-by-a-third-in-q1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
