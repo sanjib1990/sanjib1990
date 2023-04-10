@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [FTC orders supplement maker to pay $600K in first case involving hijacked Amazon reviews](https://techcrunch.com/2023/04/10/ftc-orders-supplement-maker-to-pay-600k-in-first-case-involving-hijacked-amazon-reviews/)
+- [In edtech, history matters: Reach Capital just closed its largest fund to date](https://techcrunch.com/2023/04/10/in-edtech-history-matters-reach-capital-just-closed-its-largest-fund-to-date/)
 - [Uber sells $400m stake in Careem super app business](https://techcrunch.com/2023/04/10/uber-sells-400m-stake-in-careem-super-app-business/)
 - [&#39;Star Trek: Picard&#39; season 3 episode 8 reunites the TNG crew for upcoming finale](https://www.space.com/star-trek-picard-season-3-episode-8-review)
 - [UK regulators could be right about cloud portability obstacles](https://techcrunch.com/2023/04/10/cloud-portability-obstacles-uk-regulators/)
-- [1 month left to submit nominations for Startup Battlefield 200](https://techcrunch.com/2023/04/10/1-month-left-to-submit-nominations-for-startup-battlefield-200/)
-- [Have startup valuations fallen enough to feel sane again?](https://techcrunch.com/2023/04/10/have-startup-valuations-fallen-enough-to-feel-sane-again/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
