@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [As crypto startup valuations come back to Earth, big investors are bargain hunting](https://techcrunch.com/2023/04/10/crypto-valuations-falling-fund-deployment/)
+- [Lawmakers ask Department of Justice to investigate Warner Bros. Discovery merger](https://techcrunch.com/2023/04/10/lawmakers-ask-department-of-justice-to-investigate-warner-bros-discovery-merger/)
+- [Jean Schulz awarded NASA achievement medal for sending Snoopy to the moon](https://www.space.com/nasa-schulz-snoopy-exceptional-achievement-award)
 - [FTC orders supplement maker to pay $600K in first case involving hijacked Amazon reviews](https://techcrunch.com/2023/04/10/ftc-orders-supplement-maker-to-pay-600k-in-first-case-involving-hijacked-amazon-reviews/)
 - [In edtech, history matters: Reach Capital just closed its largest fund to date](https://techcrunch.com/2023/04/10/in-edtech-history-matters-reach-capital-just-closed-its-largest-fund-to-date/)
-- [Uber sells $400m stake in Careem super app business](https://techcrunch.com/2023/04/10/uber-sells-400m-stake-in-careem-super-app-business/)
-- [&#39;Star Trek: Picard&#39; season 3 episode 8 reunites the TNG crew for upcoming finale](https://www.space.com/star-trek-picard-season-3-episode-8-review)
-- [UK regulators could be right about cloud portability obstacles](https://techcrunch.com/2023/04/10/cloud-portability-obstacles-uk-regulators/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
