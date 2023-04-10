@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [YouTube Premium adds more perks with SharePlay support, higher quality video and more](https://techcrunch.com/2023/04/10/youtube-premium-adds-more-perks-with-shareplay-support-higher-quality-video-and-more/)
+- [The Petty Shall Inherit The Pennies](https://techcrunch.com/2023/04/10/the-petty-shall-inherit-the-pennies/)
+- [Why will it take Europe&#39;s JUICE spacecraft 8 years to get to Jupiter?](https://www.space.com/why-take-juice-spacecraft-eight-years-reach-jupiter)
 - [‘Star Wars: The Bad Batch’ final and third season will debut on Disney+ in 2024](https://techcrunch.com/2023/04/10/star-wars-the-bad-batch-final-and-third-season-will-debut-on-disney-in-2024/)
 - [Global PC shipments dropped by a third in Q1](https://techcrunch.com/2023/04/10/global-pc-shipments-dropped-by-a-third-in-q1/)
-- [After GoFundMe, Rob Solomon is flying a $200M Kite in the land of commerce](https://techcrunch.com/2023/04/10/gofundme-rob-solomon-kite-commerce/)
-- [Gradient Ventures backs Axle’s ‘Plaid for insurance’ approach to data verification](https://techcrunch.com/2023/04/10/gradient-ventures-axle-plaid-insurance-verification/)
-- [EV-to-grid charging is complicated, but California is gearing up to clear the way](https://techcrunch.com/2023/04/10/bidirectional-charging/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
