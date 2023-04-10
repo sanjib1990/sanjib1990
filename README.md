@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Gradient Ventures backs Axle’s ‘Plaid for insurance’ approach to data verification](https://techcrunch.com/2023/04/10/gradient-ventures-axle-plaid-insurance-verification/)
+- [EV-to-grid charging is complicated, but California is gearing up to clear the way](https://techcrunch.com/2023/04/10/bidirectional-charging/)
+- [Twitter is now resurfacing official Russian accounts in search results](https://techcrunch.com/2023/04/10/twitter-is-now-resurfacing-official-russian-accounts-in-search-results/)
+- [New kind of pulsar may explain how mysterious &#39;black widow&#39; systems evolve](https://www.space.com/new-pulsar-explain-black-widow-binary-star-system)
 - [Build a bottom-up financial model to show potential investors you’re serious](https://techcrunch.com/2023/04/10/build-a-bottom-up-financial-model-to-show-potential-investors-youre-serious/)
-- [Arrival pulls a double SPAC, Tesla keeps slashing prices and New York Auto Show highlights](https://techcrunch.com/2023/04/10/arrival-pulls-a-double-spac-tesla-keeps-slashing-prices-and-new-york-auto-show-highlights/)
-- [How are Hubble Space Telescope images made?](https://www.space.com/how-hubble-space-telescope-images-are-made)
-- [Sultan Al Neyadi to perform 1st spacewalk by an Arab astronaut this month](https://www.space.com/sultan-al-neyadi-first-spacewalk-arab-astronaut)
-- [How to manage uncertainty with Habi and Inspired Capital on TechCrunch Live](https://techcrunch.com/2023/04/09/how-to-manage-uncertainty-with-habi-and-inspired-capital-on-techcrunch-live/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
