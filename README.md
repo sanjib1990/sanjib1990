@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Build a bottom-up financial model to show potential investors you’re serious](https://techcrunch.com/2023/04/10/build-a-bottom-up-financial-model-to-show-potential-investors-youre-serious/)
 - [Arrival pulls a double SPAC, Tesla keeps slashing prices and New York Auto Show highlights](https://techcrunch.com/2023/04/10/arrival-pulls-a-double-spac-tesla-keeps-slashing-prices-and-new-york-auto-show-highlights/)
 - [How are Hubble Space Telescope images made?](https://www.space.com/how-hubble-space-telescope-images-are-made)
 - [Sultan Al Neyadi to perform 1st spacewalk by an Arab astronaut this month](https://www.space.com/sultan-al-neyadi-first-spacewalk-arab-astronaut)
 - [How to manage uncertainty with Habi and Inspired Capital on TechCrunch Live](https://techcrunch.com/2023/04/09/how-to-manage-uncertainty-with-habi-and-inspired-capital-on-techcrunch-live/)
-- [If you’ve raised venture capital, you have to pay yourself](https://techcrunch.com/2023/04/09/f-you-pay-me/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
