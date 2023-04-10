@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How are Hubble Space Telescope images made?](https://www.space.com/how-hubble-space-telescope-images-are-made)
+- [Sultan Al Neyadi to perform 1st spacewalk by an Arab astronaut this month](https://www.space.com/sultan-al-neyadi-first-spacewalk-arab-astronaut)
 - [How to manage uncertainty with Habi and Inspired Capital on TechCrunch Live](https://techcrunch.com/2023/04/09/how-to-manage-uncertainty-with-habi-and-inspired-capital-on-techcrunch-live/)
 - [If you’ve raised venture capital, you have to pay yourself](https://techcrunch.com/2023/04/09/f-you-pay-me/)
 - [In the new normal for VC, builders will win](https://techcrunch.com/2023/04/09/in-the-new-normal-for-vc-builders-will-win/)
-- [Pulverizing dangerous asteroids, building an observatory on the moon and more: 6 wild ideas catch NASA&#39;s eye](https://www.space.com/pulverize-asteroids-moon-observatory-niac-2023-funding)
-- [When your startup fails](https://techcrunch.com/2023/04/09/when-your-startup-fails/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
