@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [‘Star Wars: The Bad Batch’ final and third season will debut on Disney+ in 2024](https://techcrunch.com/2023/04/10/star-wars-the-bad-batch-final-and-third-season-will-debut-on-disney-in-2024/)
+- [Global PC shipments dropped by a third in Q1](https://techcrunch.com/2023/04/10/global-pc-shipments-dropped-by-a-third-in-q1/)
+- [After GoFundMe, Rob Solomon is flying a $200M Kite in the land of commerce](https://techcrunch.com/2023/04/10/gofundme-rob-solomon-kite-commerce/)
 - [Gradient Ventures backs Axle’s ‘Plaid for insurance’ approach to data verification](https://techcrunch.com/2023/04/10/gradient-ventures-axle-plaid-insurance-verification/)
 - [EV-to-grid charging is complicated, but California is gearing up to clear the way](https://techcrunch.com/2023/04/10/bidirectional-charging/)
-- [Twitter is now resurfacing official Russian accounts in search results](https://techcrunch.com/2023/04/10/twitter-is-now-resurfacing-official-russian-accounts-in-search-results/)
-- [New kind of pulsar may explain how mysterious &#39;black widow&#39; systems evolve](https://www.space.com/new-pulsar-explain-black-widow-binary-star-system)
-- [Build a bottom-up financial model to show potential investors you’re serious](https://techcrunch.com/2023/04/10/build-a-bottom-up-financial-model-to-show-potential-investors-youre-serious/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
