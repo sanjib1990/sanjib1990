@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [‘Drink to dust’: Startup says just smash its clay alternative to plastic cups](https://techcrunch.com/2023/04/10/drink-to-dust-startup-says-just-smash-its-clay-alternative-to-plastic-cups/)
 - [As crypto startup valuations come back to Earth, big investors are bargain hunting](https://techcrunch.com/2023/04/10/crypto-valuations-falling-fund-deployment/)
+- [The Nancy Grace Roman Space Telescope will &#39;rewind&#39; the universe. Here&#39;s how](https://www.space.com/nancy-grace-roman-space-telescope-simulation-early-universe)
 - [Lawmakers ask Department of Justice to investigate Warner Bros. Discovery merger](https://techcrunch.com/2023/04/10/lawmakers-ask-department-of-justice-to-investigate-warner-bros-discovery-merger/)
 - [Jean Schulz awarded NASA achievement medal for sending Snoopy to the moon](https://www.space.com/nasa-schulz-snoopy-exceptional-achievement-award)
-- [FTC orders supplement maker to pay $600K in first case involving hijacked Amazon reviews](https://techcrunch.com/2023/04/10/ftc-orders-supplement-maker-to-pay-600k-in-first-case-involving-hijacked-amazon-reviews/)
-- [In edtech, history matters: Reach Capital just closed its largest fund to date](https://techcrunch.com/2023/04/10/in-edtech-history-matters-reach-capital-just-closed-its-largest-fund-to-date/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
