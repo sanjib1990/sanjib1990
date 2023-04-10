@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Uber sells $400m stake in Careem super app business](https://techcrunch.com/2023/04/10/uber-sells-400m-stake-in-careem-super-app-business/)
+- [&#39;Star Trek: Picard&#39; season 3 episode 8 reunites the TNG crew for upcoming finale](https://www.space.com/star-trek-picard-season-3-episode-8-review)
+- [UK regulators could be right about cloud portability obstacles](https://techcrunch.com/2023/04/10/cloud-portability-obstacles-uk-regulators/)
+- [1 month left to submit nominations for Startup Battlefield 200](https://techcrunch.com/2023/04/10/1-month-left-to-submit-nominations-for-startup-battlefield-200/)
 - [Have startup valuations fallen enough to feel sane again?](https://techcrunch.com/2023/04/10/have-startup-valuations-fallen-enough-to-feel-sane-again/)
-- [Poe’s AI chatbot app now lets you make your own bots using prompts](https://techcrunch.com/2023/04/10/poes-ai-chatbot-app-now-lets-you-make-your-bots-using-prompts/)
-- [You can now access Snapchat Lenses during Microsoft Teams meetings](https://techcrunch.com/2023/04/10/you-can-now-access-snapchat-lenses-during-microsoft-teams-meetings/)
-- [Meta Verified is under fire in sex work circles for revealing users’ legal names](https://techcrunch.com/2023/04/10/meta-verified-reveals-legal-name-sex-workers-warn/)
-- [TechCrunch’s startup building podcast Found is nominated for a Webby Award](https://techcrunch.com/2023/04/10/techcrunchs-startup-building-podcast-found-is-nominated-for-a-webby-award/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
