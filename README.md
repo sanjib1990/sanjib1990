@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Upfront’s Kobie Fuller has designed an investment framework for modern enterprise software](https://techcrunch.com/2023/04/11/upfronts-kobie-fuller-has-designed-an-investment-framework-for-modern-enterprise-software/)
-- [Revisit a classic &#39;Guardians of the Galaxy&#39; comic arc with &#39;Annihilation: Conquest&#39; novel](https://www.space.com/guardians-of-the-galaxy-book-annihilation-conquest)
-- [Turo is blocking access to third-party services and hosts are freaking out](https://techcrunch.com/2023/04/11/turo-is-blocking-access-to-third-party-services-and-hosts-are-freaking-out/)
-- [The Security Stage debuts at Disrupt 2023](https://techcrunch.com/2023/04/11/the-security-stage-debuts-at-disrupt-2023/)
-- [SpaceX shows off shiny Falcon Heavy rocket ahead of April 18 launch &lpar;photos&rpar;](https://www.space.com/spacex-falcon-heavy-rocket-viasat-hangar)
+- [TikTok quietly launched a GIF-like ‘video stickers’ feature for direct messages](https://techcrunch.com/2023/04/11/tiktok-quietly-launched-a-gif-like-video-stickers-feature-for-direct-messages/)
+- [Prohibition of AI that ‘subverts state power’ in China may chill its nascent industry](https://techcrunch.com/2023/04/11/prohibition-of-ai-that-subverts-state-power-in-china-may-chill-its-nascent-industry/)
+- [&#39;The Marvels&#39; trailer reveals MCU&#39;s new team of intergalactic superheroes](https://www.space.com/the-marvels-trailer-first-look-intergalactic-heroes)
+- [Chinese launch company tests vertical rocket landings with jet-powered prototype &lpar;video&rpar;](https://www.space.com/chinese-company-vertical-rocket-landing-tests-video)
+- [New York’s mayor wants you to know how much he loves police robots](https://techcrunch.com/2023/04/11/new-yorks-mayor-wants-you-to-know-how-much-he-loves-police-robots/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
