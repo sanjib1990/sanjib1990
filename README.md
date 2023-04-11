@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [DBeaver takes $6M seed investment to build on growing popularity](https://techcrunch.com/2023/04/11/dbeaver-takes-6m-seed-investment-to-build-on-growing-popularity/)
-- [60,000-mile-tall &#39;plasma waterfall&#39; seen showering the sun with impossibly fast fire](https://www.space.com/sun-plasma-waterfall-polar-crown-prominence)
-- [WhatsApp users in Brazil can now pay merchants through the app](https://techcrunch.com/2023/04/11/whatsapp-users-in-brazil-can-now-pay-merchants-through-the-app/)
-- [Threading the needle: 5 questions with investor Lauren Maillian](https://techcrunch.com/2023/04/11/five-questions-investor-lauren-maillian/)
-- [Darth Vader Force FX Elite Lightsaber review](https://www.space.com/reviews/darth-vader-force-fx-elite-lightsaber-review)
+- [Google TV expands its free streaming lineup to over 800 live TV channels including Tubi, Plex, Haystack and more](https://techcrunch.com/2023/04/11/google-tv-expands-its-free-streaming-lineup-to-over-800-live-tv-channels-including-tubi-plex-haystack-and-more/)
+- [VCs still think work software is a wise investment](https://techcrunch.com/2023/04/11/vc-software-wise-investment/)
+- [Mercenary spyware hacked iPhone victims with rogue calendar invites, researchers say](https://techcrunch.com/2023/04/11/quadream-spyware-hacked-iphones-calendar-invites/)
+- [Attend Ajay Agarwal’s TechCrunch Early Stage roundtable to hear his advice to early-stage software companies](https://techcrunch.com/2023/04/11/attend-ajay-agarwals-techcrunch-early-stage-roundtable-to-hear-his-advice-to-early-stage-software-companies/)
+- [Alibaba unveils ambition for a copilot as China steps up scrutiny over generative AI](https://techcrunch.com/2023/04/11/alibaba-copilot-generative-ai-llm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
