@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Infogrid raises $90M for its AI-driven building monitoring tech](https://techcrunch.com/2023/04/11/infogrid-raises-90m-for-its-ai-driven-building-monitoring-tech/)
-- [a16z’s crypto report anticipates developer growth as blockchain scaling solutions expand](https://techcrunch.com/2023/04/11/a16z-crypto-report-blockchain-scaling/)
-- [Vice President Harris congratulates Artemis 2 astronauts &lpar;video&rpar;](https://www.space.com/artemis-2-astronauts-vice-president-kamala-harris)
-- [Visa partners with PayPal, Venmo, and others to power interoperable digital payments](https://techcrunch.com/2023/04/11/visa-partners-with-paypal-venmo-and-others-to-power-interoperable-digital-payments/)
-- [Listen to the TechCrunch Live Podcast for top founders and investors giving actionable advice](https://techcrunch.com/2023/04/11/listen-to-the-techcrunch-live-podcast-for-top-founders-and-investors-giving-actionable-advice/)
+- [Fintech startup Clear Street raises $270M at a $2B valuation](https://techcrunch.com/2023/04/11/clear-street-raises-270m-at-a-2b-valuation-to-grow-tech-enabled-independent-prime-brokerage-platform/)
+- [Watch SpaceX launch 50 small satellites, land rocket early Wednesday](https://www.space.com/spacex-transporter-7-rideshare-mission-launch)
+- [Google launches an auto-archiving feature for Android apps to save space](https://techcrunch.com/2023/04/11/google-launches-an-auto-archiving-feature-for-android-apps-to-save-space/)
+- [YouTube starts presales of NFL Sunday Ticket subscription](https://techcrunch.com/2023/04/11/youtube-starts-presales-of-nfl-sunday-ticket-subscription/)
+- [Trading-focused blockchain Sei raises $30M, bringing valuation up to $800M](https://techcrunch.com/2023/04/11/trading-focused-blockchain-sei-raises-30m-bringing-valuation-up-to-800m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
