@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Silicon Valley Bank’s chief risk officer is out, months after taking the job](https://techcrunch.com/2023/04/11/silicon-valley-banks-chief-risk-officer-is-out-months-after-taking-the-job/)
+- [GM leads $50M EnergyX deal to lock down lithium for its EVs](https://techcrunch.com/2023/04/11/gm-leads-50m-energyx-deal-to-lock-down-lithium-for-its-evs/)
 - [Daily Crunch: YouTube sets $249 starting price for NFL Sunday Ticket subscriptions](https://techcrunch.com/2023/04/11/daily-crunch-youtube-sets-249-starting-price-for-nfl-sunday-ticket-subscriptions/)
 - [Elizabeth Holmes is denied request to stay out of prison](https://techcrunch.com/2023/04/11/elizabeth-holmes-is-denied-request-to-stay-out-of-prison/)
 - [Hyundai Motor to invest $18B in South Korea’s EVs by 2030](https://techcrunch.com/2023/04/11/hyundai-motor-to-invest-18b-in-south-koreas-evs-by-2030/)
-- [Look at this awesome photo of Earth from an Indian ocean satellite](https://www.space.com/false-color-image-earth-india-satellite)
-- [Twitter, Inc. is now X Corp](https://techcrunch.com/2023/04/11/twitter-inc-is-now-x-corp/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
