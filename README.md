@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [3CX blames North Korea for supply chain mass-hack](https://techcrunch.com/2023/04/11/3cx-north-korea-cryptocurrency-hack/)
+- [TechCrunch+ roundup: 5-year business models, RevOps tactics, how much to pay founders?](https://techcrunch.com/2023/04/11/techcrunch-roundup-5-year-business-models-revops-tactics-how-much-to-pay-founders/)
+- [Satellites watch Russian volcano erupt and blanket villages in ash](https://www.space.com/volcano-eruption-russia-satellites)
+- [Artifact, the news aggregator from Instagram’s co-founders, adds a social discussions feature](https://techcrunch.com/2023/04/11/artifact-the-news-aggregator-from-instagrams-co-founders-adds-a-social-discussions-feature/)
 - [Europe&#39;s Jupiter Icy Moons Explorer is unlikely to find life. Here&#39;s why.](https://www.space.com/europe-juice-mission-life-jupiter-moons)
-- [Instagram adds new features to its creator marketplace, expands access to brand agencies](https://techcrunch.com/2023/04/11/instagram-adds-new-features-to-its-creator-marketplace-expands-access-to-brand-agencies/)
-- [Over 300 gigafactories will make tomorrow’s EVs. We mapped them all.](https://techcrunch.com/2023/04/11/gigafactory-location-map-electric-vehicles/)
-- [Darth Vader Force FX Elite Lightsaber review](https://www.space.com/darth-vader-force-fx-elite-lightsaber-review)
-- [After spinning out of IBM-acquisition NS1, open source startup NetBox Labs raises $20M](https://techcrunch.com/2023/04/11/after-spinning-out-of-ibm-acquisition-ns1-open-source-startup-netbox-labs-raises-20m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
