@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lightspeed fuels Indian workspace interiors platform OfficeBanao with 6M funding](https://techcrunch.com/2023/04/10/officebanao-funding-lightspeed/)
 - [Daily Crunch: Don’t post your darkest, deepest secrets on Twitter Circle](https://techcrunch.com/2023/04/10/daily-crunch-dont-post-your-darkest-deepest-secrets-on-twitter-circle/)
 - [Researchers populated a tiny virtual town with AI &lpar;and it was very wholesome&rpar;](https://techcrunch.com/2023/04/10/researchers-populated-a-tiny-virtual-town-with-ai-and-it-was-very-wholesome/)
 - [Max Q: This is not a drill!](https://techcrunch.com/2023/04/10/max-q-this-is-not-a-drill/)
 - [New &#39;Star Trek&#39; series &#39;Starfleet Academy&#39; officially gets the green light](https://www.space.com/star-trek-starfleet-academy-series-announced)
-- [‘Drink to dust’: Startup says just smash its clay alternative to plastic cups](https://techcrunch.com/2023/04/10/drink-to-dust-startup-says-just-smash-its-clay-alternative-to-plastic-cups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
