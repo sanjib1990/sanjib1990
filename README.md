@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jakarta-based cloud kitchen startup Legit Group gets Series A to take over the rest of Indonesia](https://techcrunch.com/2023/04/10/legit-group/)
 - [Eclipse eclipses previous fundraises with a whopping $1.23 billion across two new funds](https://techcrunch.com/2023/04/10/eclipse-eclipses-previous-fundraises-with-a-whopping-1-23-billion-across-two-new-funds/)
 - [Lightspeed fuels Indian workspace interiors platform OfficeBanao with 6M funding](https://techcrunch.com/2023/04/10/officebanao-funding-lightspeed/)
 - [Daily Crunch: Don’t post your darkest, deepest secrets on Twitter Circle](https://techcrunch.com/2023/04/10/daily-crunch-dont-post-your-darkest-deepest-secrets-on-twitter-circle/)
 - [Researchers populated a tiny virtual town with AI &lpar;and it was very wholesome&rpar;](https://techcrunch.com/2023/04/10/researchers-populated-a-tiny-virtual-town-with-ai-and-it-was-very-wholesome/)
-- [Max Q: This is not a drill!](https://techcrunch.com/2023/04/10/max-q-this-is-not-a-drill/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
