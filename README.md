@@ -82,7 +82,7 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [I built my own AutoGPT for world domination](https://www.youtube.com/watch?v=_rGXIXyNqpk)
+- [I built my own AutoGPT that makes videos](https://www.youtube.com/watch?v=_rGXIXyNqpk)
 - [Vector databases are so hot right now. WTF are they?](https://www.youtube.com/watch?v=klTvEwg3oJ4)
 - [Meet SAM… Meta’s latest AI model](https://www.youtube.com/watch?v=WrxnpxKarxU)
 - [How I became a Software Engineer and DevOps Engineer - Minidoc by @Honeypotio ​](https://www.youtube.com/watch?v=drTDBBrfqSE)
