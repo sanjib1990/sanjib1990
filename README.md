@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [South Korea fines Google $32M for blocking developers from releasing games on rival’s platform](https://techcrunch.com/2023/04/11/south-korea-fines-google-32m-for-blocking-developers-from-releasing-games-on-rivals-platform/)
+- [Graneet raises $8.7 million for its vertical SaaS for construction companies](https://techcrunch.com/2023/04/11/graneet-raises-87-million-for-its-vertical-saas-for-construction-companies/)
 - [Ex-Twitter CEO Agrawal, other execs sue firm over unpaid legal bills](https://techcrunch.com/2023/04/10/ex-twitter-ceo-agrawal-other-execs-sue-firm-over-unpaid-legal-bills/)
 - [Apple to open first India retail stores next week, signaling growth ambitions in emerging market](https://techcrunch.com/2023/04/10/apple-to-open-two-retail-stores-in-india-next-week/)
 - [Jakarta-based cloud kitchen startup Legit Group gets Series A to take over the rest of Indonesia](https://techcrunch.com/2023/04/10/legit-group/)
-- [Eclipse eclipses previous fundraises with a whopping $1.23 billion across two new funds](https://techcrunch.com/2023/04/10/eclipse-eclipses-previous-fundraises-with-a-whopping-1-23-billion-across-two-new-funds/)
-- [Lightspeed fuels Indian workspace interiors platform OfficeBanao with 6M funding](https://techcrunch.com/2023/04/10/officebanao-funding-lightspeed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
