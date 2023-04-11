@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Whoops, using crypto and cannabis don’t mix after all](https://techcrunch.com/2023/04/11/just-kidding-about-the-crypto/)
+- [New X-ray photo shows famous Crab Nebula like never before](https://www.space.com/crab-nebula-x-ray-photo-nasa-ixpe)
 - [TikTok quietly launched a GIF-like ‘video stickers’ feature for direct messages](https://techcrunch.com/2023/04/11/tiktok-quietly-launched-a-gif-like-video-stickers-feature-for-direct-messages/)
 - [Prohibition of AI that ‘subverts state power’ in China may chill its nascent industry](https://techcrunch.com/2023/04/11/prohibition-of-ai-that-subverts-state-power-in-china-may-chill-its-nascent-industry/)
 - [&#39;The Marvels&#39; trailer reveals MCU&#39;s new team of intergalactic superheroes](https://www.space.com/the-marvels-trailer-first-look-intergalactic-heroes)
-- [Chinese launch company tests vertical rocket landings with jet-powered prototype &lpar;video&rpar;](https://www.space.com/chinese-company-vertical-rocket-landing-tests-video)
-- [New York’s mayor wants you to know how much he loves police robots](https://techcrunch.com/2023/04/11/new-yorks-mayor-wants-you-to-know-how-much-he-loves-police-robots/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
