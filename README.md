@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Snowball Earth&#39; may have been more of a &#39;slushball,&#39; providing a refuge for early life](https://www.space.com/earth-slush-ball-650-million-years-ago)
-- [RevOps unleashed: 4 tips that help teams filter out the noise and focus on the big picture](https://techcrunch.com/2023/04/11/4-tips-for-revops-teams-to-filter-out-the-noise-and-focus-on-the-big-picture/)
-- [3 more countries pledge not to conduct destructive anti-satellite tests](https://www.space.com/netherlands-italy-austria-destructive-asat-pledge)
-- [See elusive planet Mercury high in the sky tonight &lpar;April 11&rpar;](https://www.space.com/planet-mercury-skywatching-april-2023)
-- [South Korea fines Google $32M for blocking developers from releasing games on rival’s platform](https://techcrunch.com/2023/04/11/south-korea-fines-google-32m-for-blocking-developers-from-releasing-games-on-rivals-platform/)
+- [Infogrid raises $90M for its AI-driven building monitoring tech](https://techcrunch.com/2023/04/11/infogrid-raises-90m-for-its-ai-driven-building-monitoring-tech/)
+- [a16z’s crypto report anticipates developer growth as blockchain scaling solutions expand](https://techcrunch.com/2023/04/11/a16z-crypto-report-blockchain-scaling/)
+- [Vice President Harris congratulates Artemis 2 astronauts &lpar;video&rpar;](https://www.space.com/artemis-2-astronauts-vice-president-kamala-harris)
+- [Visa partners with PayPal, Venmo, and others to power interoperable digital payments](https://techcrunch.com/2023/04/11/visa-partners-with-paypal-venmo-and-others-to-power-interoperable-digital-payments/)
+- [Listen to the TechCrunch Live Podcast for top founders and investors giving actionable advice](https://techcrunch.com/2023/04/11/listen-to-the-techcrunch-live-podcast-for-top-founders-and-investors-giving-actionable-advice/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
