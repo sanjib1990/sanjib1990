@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google TV expands its free streaming lineup to over 800 live TV channels including Tubi, Plex, Haystack and more](https://techcrunch.com/2023/04/11/google-tv-expands-its-free-streaming-lineup-to-over-800-live-tv-channels-including-tubi-plex-haystack-and-more/)
-- [VCs still think work software is a wise investment](https://techcrunch.com/2023/04/11/vc-software-wise-investment/)
-- [Mercenary spyware hacked iPhone victims with rogue calendar invites, researchers say](https://techcrunch.com/2023/04/11/quadream-spyware-hacked-iphones-calendar-invites/)
-- [Attend Ajay Agarwal’s TechCrunch Early Stage roundtable to hear his advice to early-stage software companies](https://techcrunch.com/2023/04/11/attend-ajay-agarwals-techcrunch-early-stage-roundtable-to-hear-his-advice-to-early-stage-software-companies/)
-- [Alibaba unveils ambition for a copilot as China steps up scrutiny over generative AI](https://techcrunch.com/2023/04/11/alibaba-copilot-generative-ai-llm/)
+- [Europe&#39;s Jupiter Icy Moons Explorer is unlikely to find life. Here&#39;s why.](https://www.space.com/europe-juice-mission-life-jupiter-moons)
+- [Instagram adds new features to its creator marketplace, expands access to brand agencies](https://techcrunch.com/2023/04/11/instagram-adds-new-features-to-its-creator-marketplace-expands-access-to-brand-agencies/)
+- [Over 300 gigafactories will make tomorrow’s EVs. We mapped them all.](https://techcrunch.com/2023/04/11/gigafactory-location-map-electric-vehicles/)
+- [Darth Vader Force FX Elite Lightsaber review](https://www.space.com/darth-vader-force-fx-elite-lightsaber-review)
+- [After spinning out of IBM-acquisition NS1, open source startup NetBox Labs raises $20M](https://techcrunch.com/2023/04/11/after-spinning-out-of-ibm-acquisition-ns1-open-source-startup-netbox-labs-raises-20m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
