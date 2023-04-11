@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [3CX blames North Korea for supply chain mass-hack](https://techcrunch.com/2023/04/11/3cx-north-korea-cryptocurrency-hack/)
-- [TechCrunch+ roundup: 5-year business models, RevOps tactics, how much to pay founders?](https://techcrunch.com/2023/04/11/techcrunch-roundup-5-year-business-models-revops-tactics-how-much-to-pay-founders/)
-- [Satellites watch Russian volcano erupt and blanket villages in ash](https://www.space.com/volcano-eruption-russia-satellites)
-- [Artifact, the news aggregator from Instagram’s co-founders, adds a social discussions feature](https://techcrunch.com/2023/04/11/artifact-the-news-aggregator-from-instagrams-co-founders-adds-a-social-discussions-feature/)
-- [Europe&#39;s Jupiter Icy Moons Explorer is unlikely to find life. Here&#39;s why.](https://www.space.com/europe-juice-mission-life-jupiter-moons)
+- [Upfront’s Kobie Fuller has designed an investment framework for modern enterprise software](https://techcrunch.com/2023/04/11/upfronts-kobie-fuller-has-designed-an-investment-framework-for-modern-enterprise-software/)
+- [Revisit a classic &#39;Guardians of the Galaxy&#39; comic arc with &#39;Annihilation: Conquest&#39; novel](https://www.space.com/guardians-of-the-galaxy-book-annihilation-conquest)
+- [Turo is blocking access to third-party services and hosts are freaking out](https://techcrunch.com/2023/04/11/turo-is-blocking-access-to-third-party-services-and-hosts-are-freaking-out/)
+- [The Security Stage debuts at Disrupt 2023](https://techcrunch.com/2023/04/11/the-security-stage-debuts-at-disrupt-2023/)
+- [SpaceX shows off shiny Falcon Heavy rocket ahead of April 18 launch &lpar;photos&rpar;](https://www.space.com/spacex-falcon-heavy-rocket-viasat-hangar)
 <!-- BLOG-POST-LIST:END -->
 
 ---
