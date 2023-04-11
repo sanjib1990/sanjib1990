@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Fintech startup Clear Street raises $270M at a $2B valuation](https://techcrunch.com/2023/04/11/clear-street-raises-270m-at-a-2b-valuation-to-grow-tech-enabled-independent-prime-brokerage-platform/)
-- [Watch SpaceX launch 50 small satellites, land rocket early Wednesday](https://www.space.com/spacex-transporter-7-rideshare-mission-launch)
-- [Google launches an auto-archiving feature for Android apps to save space](https://techcrunch.com/2023/04/11/google-launches-an-auto-archiving-feature-for-android-apps-to-save-space/)
-- [YouTube starts presales of NFL Sunday Ticket subscription](https://techcrunch.com/2023/04/11/youtube-starts-presales-of-nfl-sunday-ticket-subscription/)
-- [Trading-focused blockchain Sei raises $30M, bringing valuation up to $800M](https://techcrunch.com/2023/04/11/trading-focused-blockchain-sei-raises-30m-bringing-valuation-up-to-800m/)
+- [DBeaver takes $6M seed investment to build on growing popularity](https://techcrunch.com/2023/04/11/dbeaver-takes-6m-seed-investment-to-build-on-growing-popularity/)
+- [60,000-mile-tall &#39;plasma waterfall&#39; seen showering the sun with impossibly fast fire](https://www.space.com/sun-plasma-waterfall-polar-crown-prominence)
+- [WhatsApp users in Brazil can now pay merchants through the app](https://techcrunch.com/2023/04/11/whatsapp-users-in-brazil-can-now-pay-merchants-through-the-app/)
+- [Threading the needle: 5 questions with investor Lauren Maillian](https://techcrunch.com/2023/04/11/five-questions-investor-lauren-maillian/)
+- [Darth Vader Force FX Elite Lightsaber review](https://www.space.com/reviews/darth-vader-force-fx-elite-lightsaber-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
