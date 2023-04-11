@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Snowball Earth&#39; may have been more of a &#39;slushball,&#39; providing a refuge for early life](https://www.space.com/earth-slush-ball-650-million-years-ago)
+- [RevOps unleashed: 4 tips that help teams filter out the noise and focus on the big picture](https://techcrunch.com/2023/04/11/4-tips-for-revops-teams-to-filter-out-the-noise-and-focus-on-the-big-picture/)
 - [3 more countries pledge not to conduct destructive anti-satellite tests](https://www.space.com/netherlands-italy-austria-destructive-asat-pledge)
 - [See elusive planet Mercury high in the sky tonight &lpar;April 11&rpar;](https://www.space.com/planet-mercury-skywatching-april-2023)
 - [South Korea fines Google $32M for blocking developers from releasing games on rival’s platform](https://techcrunch.com/2023/04/11/south-korea-fines-google-32m-for-blocking-developers-from-releasing-games-on-rivals-platform/)
-- [Graneet raises $8.7 million for its vertical SaaS for construction companies](https://techcrunch.com/2023/04/11/graneet-raises-87-million-for-its-vertical-saas-for-construction-companies/)
-- [Ex-Twitter CEO Agrawal, other execs sue firm over unpaid legal bills](https://techcrunch.com/2023/04/10/ex-twitter-ceo-agrawal-other-execs-sue-firm-over-unpaid-legal-bills/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
