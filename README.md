@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple to open first retail stores in India next week](https://techcrunch.com/2023/04/10/apple-to-open-two-retail-stores-in-india-next-week/)
+- [Ex-Twitter CEO Agrawal, other execs sue firm over unpaid legal bills](https://techcrunch.com/2023/04/10/ex-twitter-ceo-agrawal-other-execs-sue-firm-over-unpaid-legal-bills/)
+- [Apple to open first India retail stores next week, signaling growth ambitions in emerging market](https://techcrunch.com/2023/04/10/apple-to-open-two-retail-stores-in-india-next-week/)
 - [Jakarta-based cloud kitchen startup Legit Group gets Series A to take over the rest of Indonesia](https://techcrunch.com/2023/04/10/legit-group/)
 - [Eclipse eclipses previous fundraises with a whopping $1.23 billion across two new funds](https://techcrunch.com/2023/04/10/eclipse-eclipses-previous-fundraises-with-a-whopping-1-23-billion-across-two-new-funds/)
 - [Lightspeed fuels Indian workspace interiors platform OfficeBanao with 6M funding](https://techcrunch.com/2023/04/10/officebanao-funding-lightspeed/)
-- [Daily Crunch: Don’t post your darkest, deepest secrets on Twitter Circle](https://techcrunch.com/2023/04/10/daily-crunch-dont-post-your-darkest-deepest-secrets-on-twitter-circle/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
