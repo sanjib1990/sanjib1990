@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [General Atlantic invests another $100 million in PhonePe](https://techcrunch.com/2023/04/12/general-atlantic-invests-another-100-million-in-phonepe/)
 - [Backed by Japanese investors, Verod-Kepple’s fund will invest in Series A and B startups across Africa](https://techcrunch.com/2023/04/12/backed-by-japanese-investors-verod-kepples-fund-will-invest-in-series-a-and-b-startups-across-africa/)
 - [Talking with Future Ventures about its new fund, AI hype, and Siri sucking &lpar;still&rpar;](https://techcrunch.com/2023/04/12/talking-with-future-ventures-about-its-new-fund-ai-hype-and-siri-sucking/)
 - [Strava launches integration with Spotify to let users listen to content while tracking activities](https://techcrunch.com/2023/04/12/strava-launches-integration-with-spotify-to-let-users-listen-to-content-while-tracking-activities/)
 - [Elon Musk says Twitter will finally remove legacy checkmarks on 4/20](https://techcrunch.com/2023/04/11/elon-musk-says-twitter-will-finally-remove-legacy-checkmarks-on-4-20/)
-- [Silicon Valley Bank’s chief risk officer is out, months after taking the job](https://techcrunch.com/2023/04/11/silicon-valley-banks-chief-risk-officer-is-out-months-after-taking-the-job/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
