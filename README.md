@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Webb Shows Areas of New Star Formation and Galactic Evolution](https://blogs.nasa.gov/webb/2023/04/12/webb-shows-areas-of-new-star-formation-and-galactic-evolution/)
-- [Device42 tunes IT infrastracture tooling to measure carbon emissions](https://techcrunch.com/2023/04/12/device42-tunes-it-infrastracture-tooling-to-measure-carbon-emissions/)
-- [This fintech startup ideally wants to be ‘a lot more boring’ than Robinhood](https://techcrunch.com/2023/04/12/ocho-seed-round/)
-- [User spending goes up by more than 4000% on AI-powered apps](https://techcrunch.com/2023/04/12/user-spending-goes-up-by-more-than-4000-on-ai-powered-apps/)
-- [How to manage uncertainty with Habi and Inspired Capital on TechCrunch Live](https://techcrunch.com/2023/04/12/how-to-manage-uncertainty-with-habi-and-inspired-capital-on-techcrunch-live/)
+- [&#39;Star Wars: Dark Droids&#39; brings robotic horror to the galaxy far, far away](https://www.space.com/star-wars-dark-droids-comic)
+- [After an investigation exposes its dangers, Pinterest announces new safety tools and parental controls](https://techcrunch.com/2023/04/12/after-an-investigation-exposes-its-dangers-pinterest-announces-new-safety-tools-and-parental-controls/)
+- [LinkedIn rolls out ways to verify your identity and employment, without a price tag](https://techcrunch.com/2023/04/12/linkedin-rolls-out-ways-to-verify-your-identity-and-employment-without-a-price-tag/)
+- [Peacock arrives on Meta Quest with plans to bring IP on Horizon Worlds later this year](https://techcrunch.com/2023/04/12/peacock-arrives-on-meta-quest-with-plans-to-bring-ip-on-horizon-worlds-later-this-year/)
+- [Secondary market trackers are lighting up a traditionally dark deal environment](https://techcrunch.com/2023/04/12/secondary-market-startups-vc-valuations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
