@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [General Atlantic invests another $100 million in PhonePe](https://techcrunch.com/2023/04/12/general-atlantic-invests-another-100-million-in-phonepe/)
-- [Backed by Japanese investors, Verod-Kepple’s fund will invest in Series A and B startups across Africa](https://techcrunch.com/2023/04/12/backed-by-japanese-investors-verod-kepples-fund-will-invest-in-series-a-and-b-startups-across-africa/)
-- [Talking with Future Ventures about its new fund, AI hype, and Siri sucking &lpar;still&rpar;](https://techcrunch.com/2023/04/12/talking-with-future-ventures-about-its-new-fund-ai-hype-and-siri-sucking/)
-- [Strava launches integration with Spotify to let users listen to content while tracking activities](https://techcrunch.com/2023/04/12/strava-launches-integration-with-spotify-to-let-users-listen-to-content-while-tracking-activities/)
-- [Elon Musk says Twitter will finally remove legacy checkmarks on 4/20](https://techcrunch.com/2023/04/11/elon-musk-says-twitter-will-finally-remove-legacy-checkmarks-on-4-20/)
+- [Best free Star Trek: TNG &amp; Picard 3D prints](https://www.space.com/best-free-star-trek-tng-and-picard-3d-prints)
+- [Elon Musk admits he only bought Twitter because he thought he’d be forced to](https://techcrunch.com/2023/04/12/elon-musk-admits-he-only-bought-twitter-because-he-thought-hed-be-forced-to/)
+- [Truecaller brings live caller ID to iPhone… but with a catch](https://techcrunch.com/2023/04/12/truecaller-live-caller-id-iphone-update/)
+- [Watch SpaceX launch a Starship to Mars in this gorgeous new animation](https://www.space.com/spacex-launch-starship-to-mars-animation)
+- [Will SpaceX&#39;s Starship go orbital for the 1st time on April 17?](https://www.space.com/spacex-starship-april-17-orbital-flight)
 <!-- BLOG-POST-LIST:END -->
 
 ---
