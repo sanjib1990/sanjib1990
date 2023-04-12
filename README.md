@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Arts Help launches $6M fundraise to build digital climate library and ESG certification program](https://techcrunch.com/2023/04/12/arts-help-digitize-climate-library/)
+- [Warner Bros. Discovery promises Max will be a more personalized, technically improved streaming service](https://techcrunch.com/2023/04/12/warner-bros-discovery-promises-max-will-be-a-more-personalized-technically-improved-streaming-service/)
+- [OpenAI looks beyond diffusion with ‘consistency’ based image generator](https://techcrunch.com/2023/04/12/openai-looks-beyond-diffusion-with-consistency-based-image-generator/)
+- [‘Game of Thrones’ fans are getting a new spinoff based on characters Dunk and Egg](https://techcrunch.com/2023/04/12/game-of-thrones-spinoff-dunk-and-egg/)
 - [Apple leads charge as India’s smartphone exports double in record surge](https://techcrunch.com/2023/04/12/apple-leads-charge-as-india-smartphone-exports-double-in-record-surge/)
-- [Google Maps is adding new features to make it easier to explore national parks](https://techcrunch.com/2023/04/12/google-maps-is-adding-new-features-to-make-it-easier-to-explore-national-parks/)
-- [So long, Terran 1: Relativity Space makes hard pivot to an even larger Terran R](https://techcrunch.com/2023/04/12/so-long-terran-1-relativity-space-makes-hard-pivot-to-an-even-larger-terran-r/)
-- [Europe&#39;s JUICE mission has to squeeze into a 1-second launch window. Here&#39;s why.](https://www.space.com/jupiter-juice-mission-one-second-launch-window)
-- [Warner Bros. Discovery to launch ‘Max’ service starting at $9.99/mo on May 23](https://techcrunch.com/2023/04/12/warner-bros-discovery-streaming-service/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
