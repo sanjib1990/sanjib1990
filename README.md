@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Europe&#39;s JUICE Jupiter mission rolls out to pad for April 13 launch &lpar;photos&rpar;](https://www.space.com/juice-jupiter-mission-esa-roll-out-launch-pad)
 - [Arts Help launches $6M fundraise to build digital climate library and ESG certification program](https://techcrunch.com/2023/04/12/arts-help-digitize-climate-library/)
 - [Warner Bros. Discovery promises Max will be a more personalized, technically improved streaming service](https://techcrunch.com/2023/04/12/warner-bros-discovery-promises-max-will-be-a-more-personalized-technically-improved-streaming-service/)
 - [OpenAI looks beyond diffusion with ‘consistency’ based image generator](https://techcrunch.com/2023/04/12/openai-looks-beyond-diffusion-with-consistency-based-image-generator/)
 - [‘Game of Thrones’ fans are getting a new spinoff based on characters Dunk and Egg](https://techcrunch.com/2023/04/12/game-of-thrones-spinoff-dunk-and-egg/)
-- [Apple leads charge as India’s smartphone exports double in record surge](https://techcrunch.com/2023/04/12/apple-leads-charge-as-india-smartphone-exports-double-in-record-surge/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
