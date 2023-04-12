@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Newfound asteroid is a long-term &#39;quasi-moon&#39; of Earth](https://www.space.com/asteroid-2023-fw13-quasi-moon-earth)
-- [The venture market may be correcting more than we think to pre-COVID times](https://techcrunch.com/2023/04/12/venture-market-reset/)
-- [Cerbos takes its open source access-control software to the cloud](https://techcrunch.com/2023/04/12/cerbos-takes-its-open-source-access-control-software-to-the-cloud/)
-- [Google’s free Assured Open Source Software service hits GA](https://techcrunch.com/2023/04/12/improving-software-supply-chain-security-googles-free-assured-open-source-software-service-hits-ga/)
-- [NPR leaves Twitter due to misleading ‘government-funded media’ label](https://techcrunch.com/2023/04/12/npr-leaves-twitter-due-to-misleading-government-funded-media-label/)
+- [Microsoft patches Windows zero-day bug used in ransomware attacks](https://techcrunch.com/2023/04/12/microsoft-windows-zero-day-ransomware/)
+- [Google launches the first public beta of Android 14](https://techcrunch.com/2023/04/12/google-launches-the-first-public-beta-of-android-14/)
+- [Opera brings its free VPN to iOS to rival Apple and Google’s paid alternatives](https://techcrunch.com/2023/04/12/opera-brings-its-free-vpn-to-ios-to-rival-apple-and-googles-paid-alternatives/)
+- [Turns out most unicorns today are more myth than reality](https://techcrunch.com/2023/04/12/turns-out-most-unicorns-today-are-more-myth-than-reality/)
+- [After a turbulent few years for home fitness, Tonal gets fresh funding and new CEO](https://techcrunch.com/2023/04/12/after-a-turbulent-few-years-for-home-fitness-tonal-gets-fresh-funding-and-new-ceo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
