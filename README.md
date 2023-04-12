@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hong Kong’s ZA Bank wants to be the go-to bank for crypto startups](https://techcrunch.com/2023/04/12/hong-kongs-za-bank-wants-to-be-the-go-to-bank-for-crypto-startups/)
-- [Best free Star Trek: TNG &amp; Picard 3D prints](https://www.space.com/best-free-star-trek-tng-and-picard-3d-prints)
-- [Elon Musk admits he only bought Twitter because he thought he’d be forced to](https://techcrunch.com/2023/04/12/elon-musk-admits-he-only-bought-twitter-because-he-thought-hed-be-forced-to/)
-- [Truecaller brings live caller ID to iPhone… but with a catch](https://techcrunch.com/2023/04/12/truecaller-live-caller-id-iphone-update/)
-- [Watch SpaceX launch a Starship to Mars in this gorgeous new animation](https://www.space.com/spacex-launch-starship-to-mars-animation)
+- [Lending startup Kala is helping Latin American banks more easily offer credit](https://techcrunch.com/2023/04/12/lending-kala-latin-america-fintech/)
+- [Researchers discover a way to make ChatGPT consistently toxic](https://techcrunch.com/2023/04/12/researchers-discover-a-way-to-make-chatgpt-consistently-toxic/)
+- [Ukrainian startup Zeely raises $1M for SMB growth app aimed at US, UK, Brazil, Mexico](https://techcrunch.com/2023/04/12/ukrainian-startup-zeely-raises-1m-for-smb-growth-app-aimed-at-us-uk-brazil-mexico/)
+- [Refer a founder to Startup Battlefield 200 at Disrupt 2023](https://techcrunch.com/2023/04/12/refer-a-founder-to-startup-battlefield-200-at-disrupt-2023/)
+- [Databricks open-sources a model like ChatGPT, flaws and all](https://techcrunch.com/2023/04/12/databricks-dolly-2-generative-ai-open-source/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
