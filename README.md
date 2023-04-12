@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Warner Bros. Discovery to launch ‘Max’ service starting at $9.99/mo on May 23](https://techcrunch.com/2023/04/12/warner-bros-discovery-streaming-service/)
+- [Earth-observing satellite captures rare photos of Jupiter and its moons](https://www.space.com/earth-observing-satellite-captures-jupiter-moons)
 - [Microsoft patches Windows zero-day bug used in ransomware attacks](https://techcrunch.com/2023/04/12/microsoft-windows-zero-day-ransomware/)
 - [Google launches the first public beta of Android 14](https://techcrunch.com/2023/04/12/google-launches-the-first-public-beta-of-android-14/)
-- [Opera brings its free VPN to iOS to rival Apple and Google’s paid alternatives](https://techcrunch.com/2023/04/12/opera-brings-its-free-vpn-to-ios-to-rival-apple-and-googles-paid-alternatives/)
-- [Turns out most unicorns today are more myth than reality](https://techcrunch.com/2023/04/12/turns-out-most-unicorns-today-are-more-myth-than-reality/)
-- [After a turbulent few years for home fitness, Tonal gets fresh funding and new CEO](https://techcrunch.com/2023/04/12/after-a-turbulent-few-years-for-home-fitness-tonal-gets-fresh-funding-and-new-ceo/)
+- [How to watch the launch of Europe&#39;s JUICE mission to Jupiter on April 13](https://www.space.com/juice-jupiter-mission-launch-april-2023-livestream)
 <!-- BLOG-POST-LIST:END -->
 
 ---
