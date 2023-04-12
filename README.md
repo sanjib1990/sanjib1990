@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Strava launches integration with Spotify to let users listen to content while tracking activities](https://techcrunch.com/2023/04/12/strava-launches-integration-with-spotify-to-let-users-listen-to-content-while-tracking-activities/)
 - [Elon Musk says Twitter will finally remove legacy checkmarks on 4/20](https://techcrunch.com/2023/04/11/elon-musk-says-twitter-will-finally-remove-legacy-checkmarks-on-4-20/)
 - [Silicon Valley Bank’s chief risk officer is out, months after taking the job](https://techcrunch.com/2023/04/11/silicon-valley-banks-chief-risk-officer-is-out-months-after-taking-the-job/)
 - [GM leads $50M EnergyX deal to lock down lithium for its EVs](https://techcrunch.com/2023/04/11/gm-leads-50m-energyx-deal-to-lock-down-lithium-for-its-evs/)
 - [Daily Crunch: YouTube sets $249 starting price for NFL Sunday Ticket subscriptions](https://techcrunch.com/2023/04/11/daily-crunch-youtube-sets-249-starting-price-for-nfl-sunday-ticket-subscriptions/)
-- [Elizabeth Holmes is denied request to stay out of prison](https://techcrunch.com/2023/04/11/elizabeth-holmes-is-denied-request-to-stay-out-of-prison/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
