@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Star Wars: Dark Droids&#39; brings robotic horror to the galaxy far, far away](https://www.space.com/star-wars-dark-droids-comic)
-- [After an investigation exposes its dangers, Pinterest announces new safety tools and parental controls](https://techcrunch.com/2023/04/12/after-an-investigation-exposes-its-dangers-pinterest-announces-new-safety-tools-and-parental-controls/)
-- [LinkedIn rolls out ways to verify your identity and employment, without a price tag](https://techcrunch.com/2023/04/12/linkedin-rolls-out-ways-to-verify-your-identity-and-employment-without-a-price-tag/)
-- [Peacock arrives on Meta Quest with plans to bring IP on Horizon Worlds later this year](https://techcrunch.com/2023/04/12/peacock-arrives-on-meta-quest-with-plans-to-bring-ip-on-horizon-worlds-later-this-year/)
-- [Secondary market trackers are lighting up a traditionally dark deal environment](https://techcrunch.com/2023/04/12/secondary-market-startups-vc-valuations/)
+- [Newfound asteroid is a long-term &#39;quasi-moon&#39; of Earth](https://www.space.com/asteroid-2023-fw13-quasi-moon-earth)
+- [The venture market may be correcting more than we think to pre-COVID times](https://techcrunch.com/2023/04/12/venture-market-reset/)
+- [Cerbos takes its open source access-control software to the cloud](https://techcrunch.com/2023/04/12/cerbos-takes-its-open-source-access-control-software-to-the-cloud/)
+- [Google’s free Assured Open Source Software service hits GA](https://techcrunch.com/2023/04/12/improving-software-supply-chain-security-googles-free-assured-open-source-software-service-hits-ga/)
+- [NPR leaves Twitter due to misleading ‘government-funded media’ label](https://techcrunch.com/2023/04/12/npr-leaves-twitter-due-to-misleading-government-funded-media-label/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
