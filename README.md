@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Twitter CEO admits he purchased platform for $44B because ‘I kind of had to’](https://techcrunch.com/2023/04/12/daily-crunch-twitter-ceo-admits-he-purchased-platform-for-44b-because-i-kind-of-had-to/)
+- [Relativity Space shelves Terran 1 rocket, focuses on bigger, reusable Terran R](https://www.space.com/relativity-space-shelves-terran-1-rocket)
+- [Space debris problem spurs a bold change in US government regulations](https://www.space.com/fcc-space-bureau-orbital-debris)
 - [Europe&#39;s JUICE Jupiter mission rolls out to pad for April 13 launch &lpar;photos&rpar;](https://www.space.com/juice-jupiter-mission-esa-roll-out-launch-pad)
 - [Arts Help launches $6M fundraise to build digital climate library and ESG certification program](https://techcrunch.com/2023/04/12/arts-help-digitize-climate-library/)
-- [Warner Bros. Discovery promises Max will be a more personalized, technically improved streaming service](https://techcrunch.com/2023/04/12/warner-bros-discovery-promises-max-will-be-a-more-personalized-technically-improved-streaming-service/)
-- [OpenAI looks beyond diffusion with ‘consistency’ based image generator](https://techcrunch.com/2023/04/12/openai-looks-beyond-diffusion-with-consistency-based-image-generator/)
-- [‘Game of Thrones’ fans are getting a new spinoff based on characters Dunk and Egg](https://techcrunch.com/2023/04/12/game-of-thrones-spinoff-dunk-and-egg/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
