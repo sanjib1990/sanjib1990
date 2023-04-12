@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Lending startup Kala is helping Latin American banks more easily offer credit](https://techcrunch.com/2023/04/12/lending-kala-latin-america-fintech/)
-- [Researchers discover a way to make ChatGPT consistently toxic](https://techcrunch.com/2023/04/12/researchers-discover-a-way-to-make-chatgpt-consistently-toxic/)
-- [Ukrainian startup Zeely raises $1M for SMB growth app aimed at US, UK, Brazil, Mexico](https://techcrunch.com/2023/04/12/ukrainian-startup-zeely-raises-1m-for-smb-growth-app-aimed-at-us-uk-brazil-mexico/)
-- [Refer a founder to Startup Battlefield 200 at Disrupt 2023](https://techcrunch.com/2023/04/12/refer-a-founder-to-startup-battlefield-200-at-disrupt-2023/)
-- [Databricks open-sources a model like ChatGPT, flaws and all](https://techcrunch.com/2023/04/12/databricks-dolly-2-generative-ai-open-source/)
+- [Webb Shows Areas of New Star Formation and Galactic Evolution](https://blogs.nasa.gov/webb/2023/04/12/webb-shows-areas-of-new-star-formation-and-galactic-evolution/)
+- [Device42 tunes IT infrastracture tooling to measure carbon emissions](https://techcrunch.com/2023/04/12/device42-tunes-it-infrastracture-tooling-to-measure-carbon-emissions/)
+- [This fintech startup ideally wants to be ‘a lot more boring’ than Robinhood](https://techcrunch.com/2023/04/12/ocho-seed-round/)
+- [User spending goes up by more than 4000% on AI-powered apps](https://techcrunch.com/2023/04/12/user-spending-goes-up-by-more-than-4000-on-ai-powered-apps/)
+- [How to manage uncertainty with Habi and Inspired Capital on TechCrunch Live](https://techcrunch.com/2023/04/12/how-to-manage-uncertainty-with-habi-and-inspired-capital-on-techcrunch-live/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
