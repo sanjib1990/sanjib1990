@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple leads charge as India’s smartphone exports double in record surge](https://techcrunch.com/2023/04/12/apple-leads-charge-as-india-smartphone-exports-double-in-record-surge/)
+- [Google Maps is adding new features to make it easier to explore national parks](https://techcrunch.com/2023/04/12/google-maps-is-adding-new-features-to-make-it-easier-to-explore-national-parks/)
+- [So long, Terran 1: Relativity Space makes hard pivot to an even larger Terran R](https://techcrunch.com/2023/04/12/so-long-terran-1-relativity-space-makes-hard-pivot-to-an-even-larger-terran-r/)
+- [Europe&#39;s JUICE mission has to squeeze into a 1-second launch window. Here&#39;s why.](https://www.space.com/jupiter-juice-mission-one-second-launch-window)
 - [Warner Bros. Discovery to launch ‘Max’ service starting at $9.99/mo on May 23](https://techcrunch.com/2023/04/12/warner-bros-discovery-streaming-service/)
-- [Earth-observing satellite captures rare photos of Jupiter and its moons](https://www.space.com/earth-observing-satellite-captures-jupiter-moons)
-- [Microsoft patches Windows zero-day bug used in ransomware attacks](https://techcrunch.com/2023/04/12/microsoft-windows-zero-day-ransomware/)
-- [Google launches the first public beta of Android 14](https://techcrunch.com/2023/04/12/google-launches-the-first-public-beta-of-android-14/)
-- [How to watch the launch of Europe&#39;s JUICE mission to Jupiter on April 13](https://www.space.com/juice-jupiter-mission-launch-april-2023-livestream)
 <!-- BLOG-POST-LIST:END -->
 
 ---
