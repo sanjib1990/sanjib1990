@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Computer or casino?](https://techcrunch.com/2023/04/13/a16z-crypto-market-report-decentralized/)
-- [SpaceX Starship shines on pad ahead of 1st orbital launch &lpar;photos&rpar;](https://www.space.com/spacex-starship-launchpad-sunrise-photos)
-- [Ring ring, Solana’s web3-focused Saga phone is calling](https://techcrunch.com/2023/04/13/ring-ring-solanas-web3-focused-saga-phone-is-calling/)
-- [Microsoft integrates Bing into its keyboard SwiftKey app on Android and iOS](https://techcrunch.com/2023/04/13/microsoft-integrates-bing-into-its-keyboard-swiftkey-app-on-android-and-ios/)
-- [Ampersand helps SaaS companies build their customer-facing integrations, raises $4.7M](https://techcrunch.com/2023/04/13/ampersand-helps-saas-companies-build-their-customer-facing-integrations-raises-4-7m/)
+- [India will start building new gravitational wave observatory](https://www.space.com/ligo-india-gravitational-wave-observatory)
+- [Pitch Deck Teardown: Diamond Standard’s $30M Series A deck](https://techcrunch.com/2023/04/13/sample-series-a-pitch-deck-diamond-standard/)
+- [Google says it just made Chrome a lot faster on both Mac and Android](https://techcrunch.com/2023/04/13/google-says-it-just-made-chrome-a-lot-faster-on-both-mac-and-android/)
+- [Hackers claim vast access to Western Digital systems](https://techcrunch.com/2023/04/13/hackers-claim-vast-access-to-western-digital-systems/)
+- [Spain’s privacy watchdog says it’s probing ChatGPT too](https://techcrunch.com/2023/04/13/chatgpt-spain-gdpr/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
