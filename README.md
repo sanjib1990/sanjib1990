@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [India will start building new gravitational wave observatory](https://www.space.com/ligo-india-gravitational-wave-observatory)
-- [Pitch Deck Teardown: Diamond Standard’s $30M Series A deck](https://techcrunch.com/2023/04/13/sample-series-a-pitch-deck-diamond-standard/)
-- [Google says it just made Chrome a lot faster on both Mac and Android](https://techcrunch.com/2023/04/13/google-says-it-just-made-chrome-a-lot-faster-on-both-mac-and-android/)
-- [Hackers claim vast access to Western Digital systems](https://techcrunch.com/2023/04/13/hackers-claim-vast-access-to-western-digital-systems/)
-- [Spain’s privacy watchdog says it’s probing ChatGPT too](https://techcrunch.com/2023/04/13/chatgpt-spain-gdpr/)
+- [At just 2.1% of all VC investment, funding for women remains ‘meh’ in Q1 2023](https://techcrunch.com/2023/04/13/q1-2023-investment-women-founders/)
+- [NASA sets sights on a next-generation Mars helicopter to return Red Planet samples](https://www.space.com/mars-sample-return-next-generation-helicopter)
+- [Call me, beep me, if you wanna reach me](https://techcrunch.com/2023/04/13/call-me-beep-me-if-you-wanna-reach-me/)
+- [Betaworks’ new ‘camp’ aims to fund transformative early-stage AI startups](https://techcrunch.com/2023/04/13/betaworks-new-camp-aims-to-fund-transformative-early-stage-ai-startups/)
+- [Survey says!](https://techcrunch.com/2023/04/13/survey-says/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
