@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Thynk wants to upgrade hotel stays with a vertical software platform](https://techcrunch.com/2023/04/12/thynk-wants-to-upgrade-hotel-stays-with-a-vertical-software-platform/)
 - [LMS365, a learning management system built into Microsoft 365 and Teams, raises $20M](https://techcrunch.com/2023/04/12/lms365-a-learning-management-system-that-integrates-with-microsoft-products-raises-20m/)
 - [Italy gives OpenAI initial to-do list for lifting ChatGPT suspension order](https://techcrunch.com/2023/04/12/chatgpt-italy-gdpr-order/)
 - [Daily Crunch: Twitter CEO admits he purchased platform for $44B because ‘I kind of had to’](https://techcrunch.com/2023/04/12/daily-crunch-twitter-ceo-admits-he-purchased-platform-for-44b-because-i-kind-of-had-to/)
 - [Relativity Space shelves Terran 1 rocket, focuses on bigger, reusable Terran R](https://www.space.com/relativity-space-shelves-terran-1-rocket)
-- [Space debris problem spurs a bold change in US government regulations](https://www.space.com/fcc-space-bureau-orbital-debris)
 <!-- BLOG-POST-LIST:END -->
 
 ---
