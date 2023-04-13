@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch the half-lit last quarter moon illuminate the night sky tonight](https://www.space.com/last-quarter-moon-april-2023)
+- [Otterize raises $11.5M to help developers securely connect software services](https://techcrunch.com/2023/04/13/otterize-raises-11-5m-to-help-developers-securely-connect-software-services/)
 - [First-ever black hole image gets a sharp new AI makeover](https://www.space.com/first-ever-black-hole-image-ai-makeover)
 - [Lego Marvel Hulkbuster: The Battle of Wakanda review](https://www.space.com/lego-marvel-hulkbuster-the-battle-of-wakanda-review)
 - [What time is the rare hybrid solar eclipse on April 20?](https://www.space.com/hybrid-solar-eclipse-what-time-april-2023)
-- [New Lego Ideas &#39;Tales of the Space Age&#39; set creates out-of-this-world displays](https://www.space.com/lego-ideas-tales-of-the-space-age)
-- [As tech slumps, SoftBank sells VC unit to Singapore-based firm led by Masayoshi Son’s brother](https://techcrunch.com/2023/04/13/as-tech-slumps-softbank-sells-vc-unit-to-singapore-based-firm-led-by-masayoshi-sons-brother/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
