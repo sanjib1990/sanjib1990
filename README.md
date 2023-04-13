@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [13 VCs talk about the state of robotics investing in 2023](https://techcrunch.com/2023/04/13/13-vcs-talk-about-the-state-of-robotics-investing-in-2023/)
-- [Comixology vets return with their own publishing company](https://techcrunch.com/2023/04/13/comixology-vets-return-with-their-own-publishing-company/)
-- [Spotify introduces an iPhone Lock Screen widget for easy access to its app](https://techcrunch.com/2023/04/13/spotify-introduces-an-iphone-lock-screen-widget-for-easy-access-to-its-app/)
-- [James Webb Space Telescope discovers oldest black hole in the universe — a cosmic monster 10 million times heavier than the sun](https://www.space.com/james-webb-space-telescope-discovers-oldest-black-hole-in-the-universe-a-cosmic-monster-ten-million-times-heavier-than-the-sun)
-- [Space pictures! See our image of the day](https://www.space.com/34-image-day.html)
+- [Computer or casino?](https://techcrunch.com/2023/04/13/a16z-crypto-market-report-decentralized/)
+- [SpaceX Starship shines on pad ahead of 1st orbital launch &lpar;photos&rpar;](https://www.space.com/spacex-starship-launchpad-sunrise-photos)
+- [Ring ring, Solana’s web3-focused Saga phone is calling](https://techcrunch.com/2023/04/13/ring-ring-solanas-web3-focused-saga-phone-is-calling/)
+- [Microsoft integrates Bing into its keyboard SwiftKey app on Android and iOS](https://techcrunch.com/2023/04/13/microsoft-integrates-bing-into-its-keyboard-swiftkey-app-on-android-and-ios/)
+- [Ampersand helps SaaS companies build their customer-facing integrations, raises $4.7M](https://techcrunch.com/2023/04/13/ampersand-helps-saas-companies-build-their-customer-facing-integrations-raises-4-7m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
