@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Amazon’s new Bedrock cloud service lets developers incorporate generative AI](https://techcrunch.com/2023/04/13/daily-crunch-amazons-new-bedrock-cloud-service-lets-developers-incorporate-generative-ai/)
+- [Track the right metrics to improve your developers’ work experience](https://techcrunch.com/2023/04/13/track-the-right-metrics-to-improve-your-developers-work-experience/)
+- [Japanese firm ispace lists on the Tokyo Stock Exchange ahead of first lunar landing](https://techcrunch.com/2023/04/13/ispace-tokyo-stock-exchange/)
+- [Elevate lands $28M to help employers better manage benefits](https://techcrunch.com/2023/04/13/elevate-lands-28m-to-help-employers-better-manage-benefits/)
 - [Redfin is laying off more workers as housing downturn persists](https://techcrunch.com/2023/04/13/redfin-is-laying-off-more-workers-as-housing-downturn-persists/)
-- [New Carl Sagan documentary in the works from National Geographic and Seth MacFarlane](https://www.space.com/carl-sagan-documentary-national-geographic-seth-macfarlane)
-- [Lucid Air Touring review: Some reservations](https://techcrunch.com/2023/04/13/lucid-air-touring-review-some-reservations/)
-- [Fortnite players are getting a new Coachella-themed destination](https://techcrunch.com/2023/04/13/fortnite-players-are-getting-a-new-coachella-themed-destination/)
-- [Chinese rocket startup bounces back from 3 straight failures with successful launch &lpar;video&rpar;](https://www.space.com/china-ispace-hyperbola-1-rocket-launch-success-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
