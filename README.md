@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Does the sun really belong in its family? Astronomers get to the bottom of stellar identity crisis](https://www.space.com/sun-identity-crisis-magnetic-activity)
-- [MassMutual launches $100 million fund to invest in diverse founders](https://techcrunch.com/2023/04/13/massmutual-diversity-mm-catalyst-fund/)
-- [This startup wants to train art-generating AI strictly on licensed images](https://techcrunch.com/2023/04/13/this-startup-wants-to-train-art-generating-ai-strictly-on-licensed-images/)
-- [With Bedrock, Amazon enters the generative AI race](https://techcrunch.com/2023/04/13/with-bedrock-amazon-enters-the-generative-ai-race/)
-- [Watch the half-lit last quarter moon illuminate the night sky tonight](https://www.space.com/last-quarter-moon-april-2023)
+- [NovoNutrients wants to turn CO2 into protein](https://techcrunch.com/2023/04/13/novonutrients-carbon-dioxide-protein/)
+- [Reef.ai is helping companies track and expand net revenue retention](https://techcrunch.com/2023/04/13/reef-ai-is-helping-companies-track-and-grow-net-revenue-retention/)
+- [&#39;Spider-Man: Across the Spider-Verse&#39; trailer sees Miles Morales clash with Spider-Man 2099](https://www.space.com/spider-man-across-the-spider-verse-trailer)
+- [All new Apple batteries will use 100% recycled cobalt by 2025](https://techcrunch.com/2023/04/13/all-new-apple-batteries-will-use-100-recycled-cobalt-by-2025/)
+- [CeFi and DeFi in the face of regulation](https://techcrunch.com/2023/04/13/cefi-and-defi-in-the-face-of-regulation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
