@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [13 VCs talk about the state of robotics investing in 2023](https://techcrunch.com/2023/04/13/13-vcs-talk-about-the-state-of-robotics-investing-in-2023/)
+- [Comixology vets return with their own publishing company](https://techcrunch.com/2023/04/13/comixology-vets-return-with-their-own-publishing-company/)
+- [Spotify introduces an iPhone Lock Screen widget for easy access to its app](https://techcrunch.com/2023/04/13/spotify-introduces-an-iphone-lock-screen-widget-for-easy-access-to-its-app/)
 - [James Webb Space Telescope discovers oldest black hole in the universe — a cosmic monster 10 million times heavier than the sun](https://www.space.com/james-webb-space-telescope-discovers-oldest-black-hole-in-the-universe-a-cosmic-monster-ten-million-times-heavier-than-the-sun)
 - [Space pictures! See our image of the day](https://www.space.com/34-image-day.html)
-- [Spotify introduces new tech for turning radio broadcasts into podcasts](https://techcrunch.com/2023/04/13/spotify-introduces-new-tech-for-turning-radio-broadcasts-into-podcasts/)
-- [NovoNutrients wants to turn CO2 into protein](https://techcrunch.com/2023/04/13/novonutrients-carbon-dioxide-protein/)
-- [Reef.ai is helping companies track and expand net revenue retention](https://techcrunch.com/2023/04/13/reef-ai-is-helping-companies-track-and-grow-net-revenue-retention/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
