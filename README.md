@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Italy gives OpenAI initial to-do list for lifting ChatGPT suspension order](https://techcrunch.com/2023/04/12/chatgpt-italy-gdpr-order/)
 - [Daily Crunch: Twitter CEO admits he purchased platform for $44B because ‘I kind of had to’](https://techcrunch.com/2023/04/12/daily-crunch-twitter-ceo-admits-he-purchased-platform-for-44b-because-i-kind-of-had-to/)
 - [Relativity Space shelves Terran 1 rocket, focuses on bigger, reusable Terran R](https://www.space.com/relativity-space-shelves-terran-1-rocket)
 - [Space debris problem spurs a bold change in US government regulations](https://www.space.com/fcc-space-bureau-orbital-debris)
 - [Europe&#39;s JUICE Jupiter mission rolls out to pad for April 13 launch &lpar;photos&rpar;](https://www.space.com/juice-jupiter-mission-esa-roll-out-launch-pad)
-- [Arts Help launches $6M fundraise to build digital climate library and ESG certification program](https://techcrunch.com/2023/04/12/arts-help-digitize-climate-library/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
