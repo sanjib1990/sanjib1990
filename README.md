@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [At just 2.1% of all VC investment, funding for women remains ‘meh’ in Q1 2023](https://techcrunch.com/2023/04/13/q1-2023-investment-women-founders/)
-- [NASA sets sights on a next-generation Mars helicopter to return Red Planet samples](https://www.space.com/mars-sample-return-next-generation-helicopter)
-- [Call me, beep me, if you wanna reach me](https://techcrunch.com/2023/04/13/call-me-beep-me-if-you-wanna-reach-me/)
-- [Betaworks’ new ‘camp’ aims to fund transformative early-stage AI startups](https://techcrunch.com/2023/04/13/betaworks-new-camp-aims-to-fund-transformative-early-stage-ai-startups/)
-- [Survey says!](https://techcrunch.com/2023/04/13/survey-says/)
+- [Chinese rocket startup bounces back from 3 straight failures with successful launch &lpar;video&rpar;](https://www.space.com/china-ispace-hyperbola-1-rocket-launch-success-video)
+- [Kepler Communications closes $92M Series C to grow real-time satellite data relay network](https://techcrunch.com/2023/04/13/kepler-communications-closes-92m-series-c-to-grow-real-time-satellite-data-relay-network/)
+- [Internet abuzz over suspected redesigned Tesla Model 3](https://techcrunch.com/2023/04/13/internet-abuzz-over-suspected-redesigned-tesla-model-3/)
+- [William Shatner is back in the captain&#39;s chair in wild new &#39;Stars on Mars&#39; TV show](https://www.space.com/william-shatner-stars-on-mars-tv-show)
+- [Classified intel leaked to Discord server leads to 21-year-old’s arrest](https://techcrunch.com/2023/04/13/classified-intel-leaked-to-discord-server-leads-to-21-year-olds-arrest/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
