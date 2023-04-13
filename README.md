@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Redfin is laying off more workers as housing downturn persists](https://techcrunch.com/2023/04/13/redfin-is-laying-off-more-workers-as-housing-downturn-persists/)
+- [New Carl Sagan documentary in the works from National Geographic and Seth MacFarlane](https://www.space.com/carl-sagan-documentary-national-geographic-seth-macfarlane)
+- [Lucid Air Touring review: Some reservations](https://techcrunch.com/2023/04/13/lucid-air-touring-review-some-reservations/)
+- [Fortnite players are getting a new Coachella-themed destination](https://techcrunch.com/2023/04/13/fortnite-players-are-getting-a-new-coachella-themed-destination/)
 - [Chinese rocket startup bounces back from 3 straight failures with successful launch &lpar;video&rpar;](https://www.space.com/china-ispace-hyperbola-1-rocket-launch-success-video)
-- [Kepler Communications closes $92M Series C to grow real-time satellite data relay network](https://techcrunch.com/2023/04/13/kepler-communications-closes-92m-series-c-to-grow-real-time-satellite-data-relay-network/)
-- [Internet abuzz over suspected redesigned Tesla Model 3](https://techcrunch.com/2023/04/13/internet-abuzz-over-suspected-redesigned-tesla-model-3/)
-- [William Shatner is back in the captain&#39;s chair in wild new &#39;Stars on Mars&#39; TV show](https://www.space.com/william-shatner-stars-on-mars-tv-show)
-- [Classified intel leaked to Discord server leads to 21-year-old’s arrest](https://techcrunch.com/2023/04/13/classified-intel-leaked-to-discord-server-leads-to-21-year-olds-arrest/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
