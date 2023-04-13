@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What time is the rare hybrid solar eclipse on April 20?](https://www.space.com/hybrid-solar-eclipse-what-time-april-2023)
+- [New Lego Ideas &#39;Tales of the Space Age&#39; set creates out-of-this-world displays](https://www.space.com/lego-ideas-tales-of-the-space-age)
+- [As tech slumps, SoftBank sells VC unit to Singapore-based firm led by Masayoshi Son’s brother](https://techcrunch.com/2023/04/13/as-tech-slumps-softbank-sells-vc-unit-to-singapore-based-firm-led-by-masayoshi-sons-brother/)
 - [Snap signs new music licensing deals to expand its Sounds library](https://techcrunch.com/2023/04/13/snap-signs-new-music-licensing-deals-to-expand-its-sounds-library/)
 - [Thynk wants to upgrade hotel stays with a vertical software platform](https://techcrunch.com/2023/04/12/thynk-wants-to-upgrade-hotel-stays-with-a-vertical-software-platform/)
-- [LMS365, a learning management system built into Microsoft 365 and Teams, raises $20M](https://techcrunch.com/2023/04/12/lms365-a-learning-management-system-that-integrates-with-microsoft-products-raises-20m/)
-- [Italy gives OpenAI initial to-do list for lifting ChatGPT suspension order](https://techcrunch.com/2023/04/12/chatgpt-italy-gdpr-order/)
-- [Daily Crunch: Twitter CEO admits he purchased platform for $44B because ‘I kind of had to’](https://techcrunch.com/2023/04/12/daily-crunch-twitter-ceo-admits-he-purchased-platform-for-44b-because-i-kind-of-had-to/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
