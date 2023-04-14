@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hardware gets its turn in the spotlight at Disrupt 2023](https://techcrunch.com/2023/04/14/hardware-gets-its-turn-in-the-spotlight-at-disrupt-2023/)
+- [Parler to be acquired by digital media company Starboard, shut down temporarily](https://techcrunch.com/2023/04/14/parler-shut-down-temporarily-acquired-digital-media-company-starboard/)
+- [JUICE Jupiter mission marks a massive milestone for European space exploration](https://www.space.com/juice-jupiter-mission-europe-space-exploration-plans)
+- [Bag a bargain: Celestron Firstscope telescope deal now under $55](https://www.space.com/celestron-firstscope-telescope-deal-under-55-dollars-save-coupon)
 - [Unicorns are rare, but what about real?](https://techcrunch.com/2023/04/14/unicorns-are-rare-but-what-about-real/)
-- [What the new EPA tailpipe regulations mean for investors](https://techcrunch.com/2023/04/14/epa-tailpipe-regulations-investors/)
-- [Zoom acquires Ireland-based employee communications platform Workvivo](https://techcrunch.com/2023/04/14/zoom-acquires-ireland-based-employee-communications-platform-workvivo/)
-- [Yeah, the data is bad, but I’m still optimistic about emerging managers](https://techcrunch.com/2023/04/14/emerging-managers-investment-optimism/)
-- [Spotify is shutting down Heardle, the Wordle-like music guessing game it bought last year](https://techcrunch.com/2023/04/14/spotify-is-shutting-down-heardle-the-wordle-like-music-guessing-game-it-bought-last-year/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
