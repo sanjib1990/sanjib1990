@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [No asteroid impacts needed: Newborn Earth made its own water, study suggests](https://www.space.com/newborn-earth-produced-its-own-water)
+- [CMU taught a robot dog to walk a balance beam](https://techcrunch.com/2023/04/14/cmu-taught-a-robot-dog-to-walk-a-balance-beam/)
+- [Apple TV rolls out multiview feature in beta to sports fans](https://techcrunch.com/2023/04/14/apple-tv-rolls-out-multiview-feature-in-beta-to-sports-fans/)
 - [How do we know how far away and early in the universe galaxies are?](https://www.space.com/how-do-we-tell-age-of-galaxies)
 - [Elon Musk reportedly rushing to assemble a rival to OpenAI](https://techcrunch.com/2023/04/14/elon-musk-reportedly-rushing-to-assemble-a-rival-to-openai/)
-- [Relive the launch of Europe&#39;s JUICE mission to Jupiter in these stunning photos](https://www.space.com/europe-juice-jupiter-mission-launch-photos)
-- [Twitter Blue vs Meta Verified and other TC news](https://techcrunch.com/2023/04/14/twitter-blue-vs-meta-verified-and-other-tc-news/)
-- [China&#39;s Shenzhou 15 astronauts quietly conduct 3rd spacewalk &lpar;video&rpar;](https://www.space.com/china-shenzhou-15-astronauts-third-spacewalk-tiangong)
 <!-- BLOG-POST-LIST:END -->
 
 ---
