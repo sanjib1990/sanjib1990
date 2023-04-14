@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Washington Uber and Lyft drivers win paid family and medical leave](https://techcrunch.com/2023/04/13/washington-uber-and-lyft-drivers-win-paid-family-and-medical-leave/)
 - [California seeks to force Tesla to comply with racial bias investigation](https://techcrunch.com/2023/04/13/california-seeks-to-force-tesla-to-comply-with-racial-bias-investigation/)
 - [Daily Crunch: Amazon’s new Bedrock cloud service lets developers incorporate generative AI](https://techcrunch.com/2023/04/13/daily-crunch-amazons-new-bedrock-cloud-service-lets-developers-incorporate-generative-ai/)
 - [Track the right metrics to improve your developers’ work experience](https://techcrunch.com/2023/04/13/track-the-right-metrics-to-improve-your-developers-work-experience/)
 - [Japanese firm ispace lists on the Tokyo Stock Exchange ahead of first lunar landing](https://techcrunch.com/2023/04/13/ispace-tokyo-stock-exchange/)
-- [Elevate lands $28M to help employers better manage benefits](https://techcrunch.com/2023/04/13/elevate-lands-28m-to-help-employers-better-manage-benefits/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
