@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [James Murdoch’s fund slashes investment in Reliance-backed Viacom18](https://techcrunch.com/2023/04/14/murdoch-fund-bodhi-cuts-investment-in-reliance-backed-viacom18/)
-- [500 Global spreads its wings across the Caucasus and Eastern Europe, via Tbilisi](https://techcrunch.com/2023/04/14/500-global-spreads-its-wings-across-the-caucasus-and-eastern-europe-via-tiblisi/)
-- [China’s Didi to dispatch robotaxis 24/7 in 2025, announces trucking service](https://techcrunch.com/2023/04/14/chinas-didi-to-dispatch-robotaxis-24-7-in-2025-announces-trucking-service/)
-- [Twitter introduces 10,000-character long tweets for Blue subscribers](https://techcrunch.com/2023/04/13/twitter-introduces-10000-character-long-tweets-for-blue-subscribers/)
-- [Washington Uber and Lyft drivers win paid family and medical leave](https://techcrunch.com/2023/04/13/washington-uber-and-lyft-drivers-win-paid-family-and-medical-leave/)
+- [Lego Star Wars Princess Leia &lpar;Boushh&rpar; Helmet review](https://www.space.com/lego-star-wars-princess-leia-boushh-helmet-review)
+- [Apple partners with Canal+ to bring Apple TV+ content to all subscribers](https://techcrunch.com/2023/04/14/apple-partners-with-canal-to-bring-apple-tv-content-to-all-subscribers/)
+- [Meta’s content review in Africa in limbo as moderation partners decry court restrictions](https://techcrunch.com/2023/04/14/metas-content-review-in-africa-in-limbo-as-moderation-partners-decry-court-restrictions/)
+- [James Webb Space Telescope finds tiny early galaxy packing big star-forming punch](https://www.space.com/james-webb-space-telescope-early-galaxy-star-formation)
+- [50 flights on Mars! Ingenuity helicopter&#39;s record-setting hop is a giant leap for exploration](https://www.space.com/mars-helicopter-ingenuity-50-flights)
 <!-- BLOG-POST-LIST:END -->
 
 ---
