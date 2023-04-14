@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [James Webb Space Telescope eyes Hubble Ultra Deep Field in stunning detail &lpar;photo&rpar;](https://www.space.com/james-webb-space-telescope-hubble-ultra-deep-field-photo)
+- [SpaceX fires up powerful Falcon Heavy rocket ahead of April 18 launch](https://www.space.com/spacex-falcon-heavy-static-fire-april-2023)
+- [&#39;Star Trek: Picard&#39; season 3 episode 9 is a predictable set up to an overkill of nostalgia](https://www.space.com/star-trek-picard-season-3-episode-9-review)
+- [Clearing the air from Apollo to Artemis, NASA tests new CO2 scrubber on space station](https://www.space.com/international-space-station-carbon-dioxide-scrubber-upgrade)
 - [TechCrunch+ roundup: VC robotics survey, Visa Bulletin update, SaaS engagement metrics](https://techcrunch.com/2023/04/14/techcrunch-roundup-vc-robotics-survey-visa-bulletin-update-saas-engagement-metrics/)
-- [Instagram Reels adds a series of creator-focused updates, including a dedicated ‘trends’ section](https://techcrunch.com/2023/04/14/instagram-reels-creator-focused-updates-dedicated-trending-section/)
-- [Tesla price cuts come for Europe](https://techcrunch.com/2023/04/14/tesla-price-cuts-come-for-europe/)
-- [Bizarre object 10 million times brighter than the sun defies physics, NASA says](https://www.space.com/object-10-million-times-brighter-than-sun-defies-physics)
-- [Creative platform EVEN raises $2.3M seed round to help artists sell directly to fans](https://techcrunch.com/2023/04/14/creative-platform-even-raises-2-3m-seed-round-to-help-artists-sell-directly-to-fans/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
