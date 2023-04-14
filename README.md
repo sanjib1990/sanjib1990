@@ -95,9 +95,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [James Murdoch’s fund slashes investment in Reliance-backed Viacom18](https://techcrunch.com/2023/04/14/murdoch-fund-bodhi-cuts-investment-in-reliance-backed-viacom18/)
-- [500 Global spreads its wings across the Caucasus and Eastern Europe, via Tiblisi](https://techcrunch.com/2023/04/14/500-global-spreads-its-wings-across-the-caucasus-and-eastern-europe-via-tiblisi/)
+- [500 Global spreads its wings across the Caucasus and Eastern Europe, via Tbilisi](https://techcrunch.com/2023/04/14/500-global-spreads-its-wings-across-the-caucasus-and-eastern-europe-via-tiblisi/)
 - [China’s Didi to dispatch robotaxis 24/7 in 2025, announces trucking service](https://techcrunch.com/2023/04/14/chinas-didi-to-dispatch-robotaxis-24-7-in-2025-announces-trucking-service/)
-- [Twitter introduces 10,000 character long tweets for Blue subscribers](https://techcrunch.com/2023/04/13/twitter-introduces-10000-character-long-tweets-for-blue-subscribers/)
+- [Twitter introduces 10,000-character long tweets for Blue subscribers](https://techcrunch.com/2023/04/13/twitter-introduces-10000-character-long-tweets-for-blue-subscribers/)
 - [Washington Uber and Lyft drivers win paid family and medical leave](https://techcrunch.com/2023/04/13/washington-uber-and-lyft-drivers-win-paid-family-and-medical-leave/)
 <!-- BLOG-POST-LIST:END -->
 
