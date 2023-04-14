@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA wants fleet of spacecraft to watch infamous Apophis asteroid approach Earth: report](https://www.space.com/nasa-apophis-asteroid-spacecraft-fleet-idea)
+- [MEPs raise concerns over draft EU-US data transfer deal](https://techcrunch.com/2023/04/14/dpf-libe-committee-concerns/)
 - [Lego Star Wars Princess Leia &lpar;Boushh&rpar; Helmet review](https://www.space.com/lego-star-wars-princess-leia-boushh-helmet-review)
 - [Apple partners with Canal+ to bring Apple TV+ content to all subscribers](https://techcrunch.com/2023/04/14/apple-partners-with-canal-to-bring-apple-tv-content-to-all-subscribers/)
 - [Meta’s content review in Africa in limbo as moderation partners decry court restrictions](https://techcrunch.com/2023/04/14/metas-content-review-in-africa-in-limbo-as-moderation-partners-decry-court-restrictions/)
-- [James Webb Space Telescope finds tiny early galaxy packing big star-forming punch](https://www.space.com/james-webb-space-telescope-early-galaxy-star-formation)
-- [50 flights on Mars! Ingenuity helicopter&#39;s record-setting hop is a giant leap for exploration](https://www.space.com/mars-helicopter-ingenuity-50-flights)
 <!-- BLOG-POST-LIST:END -->
 
 ---
