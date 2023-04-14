@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How do we know how far away and early in the universe galaxies are?](https://www.space.com/how-do-we-tell-age-of-galaxies)
+- [Elon Musk reportedly rushing to assemble a rival to OpenAI](https://techcrunch.com/2023/04/14/elon-musk-reportedly-rushing-to-assemble-a-rival-to-openai/)
+- [Relive the launch of Europe&#39;s JUICE mission to Jupiter in these stunning photos](https://www.space.com/europe-juice-jupiter-mission-launch-photos)
+- [Twitter Blue vs Meta Verified and other TC news](https://techcrunch.com/2023/04/14/twitter-blue-vs-meta-verified-and-other-tc-news/)
 - [China&#39;s Shenzhou 15 astronauts quietly conduct 3rd spacewalk &lpar;video&rpar;](https://www.space.com/china-shenzhou-15-astronauts-third-spacewalk-tiangong)
-- [CEO of Orbex, a UK small launch developer, is stepping down](https://techcrunch.com/2023/04/14/ceo-of-orbex-a-uk-small-launch-developer-is-stepping-down/)
-- [James Webb Space Telescope eyes Hubble Ultra Deep Field in stunning detail &lpar;photo&rpar;](https://www.space.com/james-webb-space-telescope-hubble-ultra-deep-field-photo)
-- [SpaceX fires up powerful Falcon Heavy rocket ahead of April 18 launch](https://www.space.com/spacex-falcon-heavy-static-fire-april-2023)
-- [&#39;Star Trek: Picard&#39; season 3 episode 9 is a predictable set up to an overkill of nostalgia](https://www.space.com/star-trek-picard-season-3-episode-9-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
