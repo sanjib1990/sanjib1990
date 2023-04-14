@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Yeah, the data is bad, but I’m still optimistic about emerging managers](https://techcrunch.com/2023/04/14/emerging-managers-investment-optimism/)
+- [Spotify is shutting down Heardle, the Wordle-like music guessing game it bought last year](https://techcrunch.com/2023/04/14/spotify-is-shutting-down-heardle-the-wordle-like-music-guessing-game-it-bought-last-year/)
+- [Europe successfully launches JUICE mission to study Jupiter&#39;s icy moons](https://www.space.com/europe-launches-juice-mission-jupiter-ocean-moons)
 - [NASA wants fleet of spacecraft to watch infamous Apophis asteroid approach Earth: report](https://www.space.com/nasa-apophis-asteroid-spacecraft-fleet-idea)
 - [MEPs raise concerns over draft EU-US data transfer deal](https://techcrunch.com/2023/04/14/dpf-libe-committee-concerns/)
-- [Lego Star Wars Princess Leia &lpar;Boushh&rpar; Helmet review](https://www.space.com/lego-star-wars-princess-leia-boushh-helmet-review)
-- [Apple partners with Canal+ to bring Apple TV+ content to all subscribers](https://techcrunch.com/2023/04/14/apple-partners-with-canal-to-bring-apple-tv-content-to-all-subscribers/)
-- [Meta’s content review in Africa in limbo as moderation partners decry court restrictions](https://techcrunch.com/2023/04/14/metas-content-review-in-africa-in-limbo-as-moderation-partners-decry-court-restrictions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
