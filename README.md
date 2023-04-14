@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hardware gets its turn in the spotlight at Disrupt 2023](https://techcrunch.com/2023/04/14/hardware-gets-its-turn-in-the-spotlight-at-disrupt-2023/)
-- [Parler to be acquired by digital media company Starboard, shut down temporarily](https://techcrunch.com/2023/04/14/parler-shut-down-temporarily-acquired-digital-media-company-starboard/)
-- [JUICE Jupiter mission marks a massive milestone for European space exploration](https://www.space.com/juice-jupiter-mission-europe-space-exploration-plans)
-- [Bag a bargain: Celestron Firstscope telescope deal now under $55](https://www.space.com/celestron-firstscope-telescope-deal-under-55-dollars-save-coupon)
-- [Unicorns are rare, but what about real?](https://techcrunch.com/2023/04/14/unicorns-are-rare-but-what-about-real/)
+- [Bizarre object 10 million times brighter than the sun defies physics, NASA says](https://www.space.com/object-10-million-times-brighter-than-sun-defies-physics)
+- [Creative platform EVEN raises $2.3M seed round to help artists sell directly to fans](https://techcrunch.com/2023/04/14/creative-platform-even-raises-2-3m-seed-round-to-help-artists-sell-directly-to-fans/)
+- [Sam Altman: Size of LLMs won’t matter as much moving forward](https://techcrunch.com/2023/04/14/sam-altman-size-of-llms-wont-matter-as-much-moving-forward/)
+- [Space pictures! See our image of the day](https://www.space.com/34-image-day.html)
+- [4 SaaS engagement metrics that attract investors](https://techcrunch.com/2023/04/14/4-saas-engagement-metrics-that-attract-investors/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
