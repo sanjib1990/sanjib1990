@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [AWS CodeWhisperer… The Copilot Killer?](https://www.youtube.com/watch?v=FJACTC9wFhU)
 - [Uh oh… AI-search engine for developers has emerged](https://www.youtube.com/watch?v=91IPJ6LFmto)
 - [Foundations of Data Visualisation - Computerphile](https://www.youtube.com/watch?v=qQ9Wu1IxsYw)
 - [Angular is back with a vengeance](https://www.youtube.com/watch?v=nQ2A30cD3Q8)
 - [I built my own AutoGPT that makes videos](https://www.youtube.com/watch?v=_rGXIXyNqpk)
-- [Vector databases are so hot right now. WTF are they?](https://www.youtube.com/watch?v=klTvEwg3oJ4)
 <!-- YOUTUBE:END -->
 
 ---
