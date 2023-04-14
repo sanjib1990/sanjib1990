@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [500 Global spreads its wings across the Caucasus and Eastern Europe, via Tiblisi](https://techcrunch.com/2023/04/14/500-global-spreads-its-wings-across-the-caucasus-and-eastern-europe-via-tiblisi/)
+- [China’s Didi to dispatch robotaxis 24/7 in 2025, announces trucking service](https://techcrunch.com/2023/04/14/chinas-didi-to-dispatch-robotaxis-24-7-in-2025-announces-trucking-service/)
 - [Twitter introduces 10,000 character long tweets for Blue subscribers](https://techcrunch.com/2023/04/13/twitter-introduces-10000-character-long-tweets-for-blue-subscribers/)
 - [Washington Uber and Lyft drivers win paid family and medical leave](https://techcrunch.com/2023/04/13/washington-uber-and-lyft-drivers-win-paid-family-and-medical-leave/)
 - [California seeks to force Tesla to comply with racial bias investigation](https://techcrunch.com/2023/04/13/california-seeks-to-force-tesla-to-comply-with-racial-bias-investigation/)
-- [Daily Crunch: Amazon’s new Bedrock cloud service lets developers incorporate generative AI](https://techcrunch.com/2023/04/13/daily-crunch-amazons-new-bedrock-cloud-service-lets-developers-incorporate-generative-ai/)
-- [Track the right metrics to improve your developers’ work experience](https://techcrunch.com/2023/04/13/track-the-right-metrics-to-improve-your-developers-work-experience/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
