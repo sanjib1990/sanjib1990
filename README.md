@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch+ roundup: VC robotics survey, Visa Bulletin update, SaaS engagement metrics](https://techcrunch.com/2023/04/14/techcrunch-roundup-vc-robotics-survey-visa-bulletin-update-saas-engagement-metrics/)
+- [Instagram Reels adds a series of creator-focused updates, including a dedicated ‘trends’ section](https://techcrunch.com/2023/04/14/instagram-reels-creator-focused-updates-dedicated-trending-section/)
+- [Tesla price cuts come for Europe](https://techcrunch.com/2023/04/14/tesla-price-cuts-come-for-europe/)
 - [Bizarre object 10 million times brighter than the sun defies physics, NASA says](https://www.space.com/object-10-million-times-brighter-than-sun-defies-physics)
 - [Creative platform EVEN raises $2.3M seed round to help artists sell directly to fans](https://techcrunch.com/2023/04/14/creative-platform-even-raises-2-3m-seed-round-to-help-artists-sell-directly-to-fans/)
-- [Sam Altman: Size of LLMs won’t matter as much moving forward](https://techcrunch.com/2023/04/14/sam-altman-size-of-llms-wont-matter-as-much-moving-forward/)
-- [Space pictures! See our image of the day](https://www.space.com/34-image-day.html)
-- [4 SaaS engagement metrics that attract investors](https://techcrunch.com/2023/04/14/4-saas-engagement-metrics-that-attract-investors/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
