@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Less than a year after buying Heardle, Spotify will shutter music game on May 5](https://techcrunch.com/2023/04/14/daily-crunch-less-than-a-year-after-buying-heardle-spotify-will-shutter-music-game-on-may-5/)
+- [FAA grants launch license to SpaceX, clearing way for Starship orbital flight test](https://techcrunch.com/2023/04/14/faa-grants-launch-license-to-spacex-clearing-way-for-starship-orbital-flight-test/)
+- [Discord leak suspect charged with stealing and sharing military secrets](https://techcrunch.com/2023/04/14/discord-leak-suspect-charged-with-stealing-and-sharing-military-secrets/)
 - [No asteroid impacts needed: Newborn Earth made its own water, study suggests](https://www.space.com/newborn-earth-produced-its-own-water)
 - [CMU taught a robot dog to walk a balance beam](https://techcrunch.com/2023/04/14/cmu-taught-a-robot-dog-to-walk-a-balance-beam/)
-- [Apple TV rolls out multiview feature in beta to sports fans](https://techcrunch.com/2023/04/14/apple-tv-rolls-out-multiview-feature-in-beta-to-sports-fans/)
-- [How do we know how far away and early in the universe galaxies are?](https://www.space.com/how-do-we-tell-age-of-galaxies)
-- [Elon Musk reportedly rushing to assemble a rival to OpenAI](https://techcrunch.com/2023/04/14/elon-musk-reportedly-rushing-to-assemble-a-rival-to-openai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
