@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Unicorns are rare, but what about real?](https://techcrunch.com/2023/04/14/unicorns-are-rare-but-what-about-real/)
+- [What the new EPA tailpipe regulations mean for investors](https://techcrunch.com/2023/04/14/epa-tailpipe-regulations-investors/)
+- [Zoom acquires Ireland-based employee communications platform Workvivo](https://techcrunch.com/2023/04/14/zoom-acquires-ireland-based-employee-communications-platform-workvivo/)
 - [Yeah, the data is bad, but I’m still optimistic about emerging managers](https://techcrunch.com/2023/04/14/emerging-managers-investment-optimism/)
 - [Spotify is shutting down Heardle, the Wordle-like music guessing game it bought last year](https://techcrunch.com/2023/04/14/spotify-is-shutting-down-heardle-the-wordle-like-music-guessing-game-it-bought-last-year/)
-- [Europe successfully launches JUICE mission to study Jupiter&#39;s icy moons](https://www.space.com/europe-launches-juice-mission-jupiter-ocean-moons)
-- [NASA wants fleet of spacecraft to watch infamous Apophis asteroid approach Earth: report](https://www.space.com/nasa-apophis-asteroid-spacecraft-fleet-idea)
-- [MEPs raise concerns over draft EU-US data transfer deal](https://techcrunch.com/2023/04/14/dpf-libe-committee-concerns/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
