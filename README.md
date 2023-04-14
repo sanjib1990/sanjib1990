@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [China&#39;s Shenzhou 15 astronauts quietly conduct 3rd spacewalk &lpar;video&rpar;](https://www.space.com/china-shenzhou-15-astronauts-third-spacewalk-tiangong)
+- [CEO of Orbex, a UK small launch developer, is stepping down](https://techcrunch.com/2023/04/14/ceo-of-orbex-a-uk-small-launch-developer-is-stepping-down/)
 - [James Webb Space Telescope eyes Hubble Ultra Deep Field in stunning detail &lpar;photo&rpar;](https://www.space.com/james-webb-space-telescope-hubble-ultra-deep-field-photo)
 - [SpaceX fires up powerful Falcon Heavy rocket ahead of April 18 launch](https://www.space.com/spacex-falcon-heavy-static-fire-april-2023)
 - [&#39;Star Trek: Picard&#39; season 3 episode 9 is a predictable set up to an overkill of nostalgia](https://www.space.com/star-trek-picard-season-3-episode-9-review)
-- [Clearing the air from Apollo to Artemis, NASA tests new CO2 scrubber on space station](https://www.space.com/international-space-station-carbon-dioxide-scrubber-upgrade)
-- [TechCrunch+ roundup: VC robotics survey, Visa Bulletin update, SaaS engagement metrics](https://techcrunch.com/2023/04/14/techcrunch-roundup-vc-robotics-survey-visa-bulletin-update-saas-engagement-metrics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
