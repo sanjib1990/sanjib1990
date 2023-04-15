@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch the moon and Saturn have a close encounter in the sky tonight](https://www.space.com/moon-saturn-close-approach-april-2023)
+- [The Lyrid meteor shower begins April 16 to light up the spring night sky](https://www.space.com/lyrid-meteor-shower-april-2023)
+- [Star Trek&#39;s bad captains: Celebrating Starfleet&#39;s less-than-perfect commanding officers](https://www.space.com/star-trek-bad-captains-are-as-important-as-the-good-ones)
+- [What&#39;s next for Europe&#39;s JUICE mission? Here&#39;s what to expect on its long journey to Jupiter](https://www.space.com/juice-mission-jupiter-whats-next)
 - [SpaceX&#39;s 1st orbital Starship launch: How it will work](https://www.space.com/spacex-starship-first-orbital-launch-explainer)
-- [Europe preps dark matter-hunting Euclid spacecraft for trip to Florida launch site &lpar;photos&rpar;](https://www.space.com/euclid-dark-matter-mission-prepped-trip-florida)
-- [Watch SpaceX Dragon cargo ship depart space station today](https://www.space.com/spacex-dragon-depart-space-station-april-2023)
-- [SpaceX will try to launch 1st Starship orbital flight on April 17](https://www.space.com/spacex-starship-first-orbital-launch-april-17)
-- [Daily Crunch: Less than a year after buying Heardle, Spotify will shutter music game on May 5](https://techcrunch.com/2023/04/14/daily-crunch-less-than-a-year-after-buying-heardle-spotify-will-shutter-music-game-on-may-5/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
