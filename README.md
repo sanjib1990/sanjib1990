@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX&#39;s 1st orbital Starship launch: How it will work](https://www.space.com/spacex-starship-first-orbital-launch-explainer)
+- [Europe preps dark matter-hunting Euclid spacecraft for trip to Florida launch site &lpar;photos&rpar;](https://www.space.com/euclid-dark-matter-mission-prepped-trip-florida)
 - [Watch SpaceX Dragon cargo ship depart space station today](https://www.space.com/spacex-dragon-depart-space-station-april-2023)
 - [SpaceX will try to launch 1st Starship orbital flight on April 17](https://www.space.com/spacex-starship-first-orbital-launch-april-17)
 - [Daily Crunch: Less than a year after buying Heardle, Spotify will shutter music game on May 5](https://techcrunch.com/2023/04/14/daily-crunch-less-than-a-year-after-buying-heardle-spotify-will-shutter-music-game-on-may-5/)
-- [FAA grants launch license to SpaceX, clearing way for Starship orbital flight test](https://techcrunch.com/2023/04/14/faa-grants-launch-license-to-spacex-clearing-way-for-starship-orbital-flight-test/)
-- [Discord leak suspect charged with stealing and sharing military secrets](https://techcrunch.com/2023/04/14/discord-leak-suspect-charged-with-stealing-and-sharing-military-secrets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
