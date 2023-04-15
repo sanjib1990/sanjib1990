@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter exposes secrets, FTC clamps down on review hijackers and Android 14 arrives](https://techcrunch.com/2023/04/15/twitter-exposes-secrets-ftc-clamps-down-on-review-hijackers-and-android-14-arrives/)
 - [Yep, ‘Learning Man’ is becoming a thing](https://techcrunch.com/2023/04/15/yep-learning-man-is-becoming-a-thing/)
 - [This Week in Apps: Newsrooms leave Twitter, Reels expands, Android 14 arrives](https://techcrunch.com/2023/04/15/this-week-in-apps-newsrooms-leave-twitter-reels-expands-android-14-arrives/)
 - [Enterprise companies and generative AI: Just looking?](https://techcrunch.com/2023/04/15/enterprise-generative-ai-cloud-investment/)
 - [Hours before NASA&#39;s Artemis 2 moon crew reveal, I saw a neat slice of space history](https://www.space.com/space-center-houston-shuttle-artemis-2-moon-announcement)
-- [The week in AI: OpenAI attracts deep-pocketed rivals in Anthropic and Musk](https://techcrunch.com/2023/04/15/the-week-in-ai-openai-attracts-deep-pocketed-rivals-in-anthropic-and-musk/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
