@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The week in AI: OpenAI attracts deep-pocketed rivals in Anthropic and Musk](https://techcrunch.com/2023/04/15/the-week-in-ai-openai-attracts-deep-pocketed-rivals-in-anthropic-and-musk/)
+- [African climate startups set to gain ground as VC funding shifts their way](https://techcrunch.com/2023/04/15/africa-climate-startups-vc-funding-trends/)
 - [International Dark Sky Week 2023 begins today to combat the light pollution crisis](https://www.space.com/international-dark-sky-week-2023-light-pollution)
 - [Grab the Celestron Travel Scope 70 for under $100](https://www.space.com/celestron-travel-scope-70-deal-save-15-dollars-coupon)
 - [How to watch SpaceX&#39;s 1st Starship orbital launch live online for free on April 17](https://www.space.com/spacex-starship-orbital-launch-test-flight-livestream)
-- [Watch the moon and Saturn have a close encounter in the sky tonight](https://www.space.com/moon-saturn-close-approach-april-2023)
-- [The Lyrid meteor shower begins April 16 to light up the spring night sky](https://www.space.com/lyrid-meteor-shower-april-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
