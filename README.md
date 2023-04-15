@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [International Dark Sky Week 2023 begins today to combat the light pollution crisis](https://www.space.com/international-dark-sky-week-2023-light-pollution)
+- [Grab the Celestron Travel Scope 70 for under $100](https://www.space.com/celestron-travel-scope-70-deal-save-15-dollars-coupon)
+- [How to watch SpaceX&#39;s 1st Starship orbital launch live online for free on April 17](https://www.space.com/spacex-starship-orbital-launch-test-flight-livestream)
 - [Watch the moon and Saturn have a close encounter in the sky tonight](https://www.space.com/moon-saturn-close-approach-april-2023)
 - [The Lyrid meteor shower begins April 16 to light up the spring night sky](https://www.space.com/lyrid-meteor-shower-april-2023)
-- [Star Trek&#39;s bad captains: Celebrating Starfleet&#39;s less-than-perfect commanding officers](https://www.space.com/star-trek-bad-captains-are-as-important-as-the-good-ones)
-- [What&#39;s next for Europe&#39;s JUICE mission? Here&#39;s what to expect on its long journey to Jupiter](https://www.space.com/juice-mission-jupiter-whats-next)
-- [SpaceX&#39;s 1st orbital Starship launch: How it will work](https://www.space.com/spacex-starship-first-orbital-launch-explainer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
