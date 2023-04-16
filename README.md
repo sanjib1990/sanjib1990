@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A nine-figure raise in fintech? Oh my](https://techcrunch.com/2023/04/16/a-nine-figure-raise-in-fintech-oh-my/)
+- [Underwater spacewalks recreate the &#39;moon&#39; in a giant NASA pool &lpar;photos&rpar;](https://www.space.com/spacewalks-moon-recreate-lunar-missions-pool)
 - [No, you’re not raising money to increase your runway](https://techcrunch.com/2023/04/16/fundraising-is-about-milestones/)
 - [What time is SpaceX&#39;s 1st Starship and Super Heavy launch on April 17?](https://www.space.com/spacex-starship-rocket-super-heavy-launch-what-time)
 - [Is there really a march from the public cloud back on-prem?](https://techcrunch.com/2023/04/16/public-cloud-back-on-prem/)
-- [Rare red asteroids around Neptune could reveal the secrets of the early solar system](https://www.space.com/rare-red-asteroids-around-neptune-could-reveal-the-secrets-of-the-early-solar-system)
-- [How long does it take to get to Jupiter?](https://www.space.com/how-long-does-it-take-to-get-to-jupiter)
 <!-- BLOG-POST-LIST:END -->
 
 ---
