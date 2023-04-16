@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hear ClassDojo and SignalFire unpack edtech’s opportunity ahead on TechCrunch Live](https://techcrunch.com/2023/04/16/hear-classdojo-and-signalfire-unpack-edtechs-opportunity-ahead-on-techcrunch-live/)
 - [Jeremy Hansen: Artemis 2 Canadian astronaut will fly around the moon](https://www.space.com/artemis-2-moon-astronaut-canada-jeremy-hansen)
 - [A nine-figure raise in fintech? Oh my](https://techcrunch.com/2023/04/16/a-nine-figure-raise-in-fintech-oh-my/)
 - [Underwater spacewalks recreate the &#39;moon&#39; in a giant NASA pool &lpar;photos&rpar;](https://www.space.com/spacewalks-moon-recreate-lunar-missions-pool)
 - [No, you’re not raising money to increase your runway](https://techcrunch.com/2023/04/16/fundraising-is-about-milestones/)
-- [What time is SpaceX&#39;s 1st Starship and Super Heavy launch on April 17?](https://www.space.com/spacex-starship-rocket-super-heavy-launch-what-time)
 <!-- BLOG-POST-LIST:END -->
 
 ---
