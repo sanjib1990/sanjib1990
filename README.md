@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [No, you’re not raising money to increase your runway](https://techcrunch.com/2023/04/16/fundraising-is-about-milestones/)
+- [What time is SpaceX&#39;s 1st Starship and Super Heavy launch on April 17?](https://www.space.com/spacex-starship-rocket-super-heavy-launch-what-time)
 - [Is there really a march from the public cloud back on-prem?](https://techcrunch.com/2023/04/16/public-cloud-back-on-prem/)
+- [Rare red asteroids around Neptune could reveal the secrets of the early solar system](https://www.space.com/rare-red-asteroids-around-neptune-could-reveal-the-secrets-of-the-early-solar-system)
 - [How long does it take to get to Jupiter?](https://www.space.com/how-long-does-it-take-to-get-to-jupiter)
-- [Strange radio signals detected from Earth-like planet could be a magnetic field necessary for life](https://www.space.com/strange-radio-signals-from-earth-like-planet-magnetic-field-necessary-for-life)
-- [The Artemis Generation: To the moon — this time to stay! &lpar;op-ed&rpar;](https://www.space.com/artemis-generation-to-the-moon-to-stay)
-- [Astrophotographer captures Vela supernova remnant in exquisite detail](https://www.space.com/vela-supernova-remnant-astrophotographer-image-from-deep-sky-chile)
 <!-- BLOG-POST-LIST:END -->
 
 ---
