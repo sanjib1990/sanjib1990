@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Artemis Generation: To the moon — this time to stay! &lpar;op-ed&rpar;](https://www.space.com/artemis-generation-to-the-moon-to-stay)
+- [Astrophotographer captures Vela supernova remnant in exquisite detail](https://www.space.com/vela-supernova-remnant-astrophotographer-image-from-deep-sky-chile)
 - [Twitter exposes secrets, FTC clamps down on review hijackers and Android 14 arrives](https://techcrunch.com/2023/04/15/twitter-exposes-secrets-ftc-clamps-down-on-review-hijackers-and-android-14-arrives/)
 - [Yep, ‘Learning Man’ is becoming a thing](https://techcrunch.com/2023/04/15/yep-learning-man-is-becoming-a-thing/)
 - [This Week in Apps: Newsrooms leave Twitter, Reels expands, Android 14 arrives](https://techcrunch.com/2023/04/15/this-week-in-apps-newsrooms-leave-twitter-reels-expands-android-14-arrives/)
-- [Enterprise companies and generative AI: Just looking?](https://techcrunch.com/2023/04/15/enterprise-generative-ai-cloud-investment/)
-- [Hours before NASA&#39;s Artemis 2 moon crew reveal, I saw a neat slice of space history](https://www.space.com/space-center-houston-shuttle-artemis-2-moon-announcement)
 <!-- BLOG-POST-LIST:END -->
 
 ---
