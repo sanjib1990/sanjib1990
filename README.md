@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The EPA goes after tailpipe emissions, Elon gets an ultimatum and Careem lands $400M for its super app](https://techcrunch.com/2023/04/17/the-epa-goes-after-tailpipe-emissions-elon-gets-an-ultimatum-and-careem-lands-400m-for-its-super-app/)
-- [Watch SpaceX try to fly a fully stacked Starship for the first time](https://techcrunch.com/2023/04/17/watch-spacexs-starship-orbital-flight-test-live/)
-- [A rare hybrid solar eclipse occurs on April 20. Here&#39;s how to watch it online for free.](https://www.space.com/hybrid-solar-eclipse-april-2023-livestream)
-- [Developers are looking for creative ways to build AI-powered chatbot assistants](https://techcrunch.com/2023/04/17/developers-are-looking-for-creative-ways-to-build-ai-powered-chatbot-assistants/)
-- [US tech giants voice concern over India’s fact-checking rule](https://techcrunch.com/2023/04/17/us-tech-giants-voice-concern-over-india-s-fact-checking-rule/)
+- [Mercedes debuts the Maybach EQS SUV with more power, range, and luxury](https://techcrunch.com/2023/04/17/mercedes-debuts-the-maybach-eqs-suv-with-more-power-range-and-luxury/)
+- [Germany’s XaaS platform Equipme secures $3.8M Seed led by La Famiglia VC](https://techcrunch.com/2023/04/17/germanys-xaas-platform-equipme-secures-3-8m-seed-led-by-la-famiglia-vc/)
+- [Innovamat tallies up $21M to reinvent math education](https://techcrunch.com/2023/04/17/innovamat-tallies-up-21m-to-reinvent-math-education/)
+- [Razor Group, an e-commerce aggregator, closes Series C at $88M at $1.2B valuation, acquires Stryze to consolidate](https://techcrunch.com/2023/04/17/razor-group-aggregator-stryze/)
+- [3 ways to step up your short-form video and TikTok growth strategy](https://techcrunch.com/2023/04/17/3-ways-to-step-up-your-short-form-video-and-tiktok-growth-strategy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
