@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Rocket Lab adds a suborbital launch option aimed at hypersonic defense customers](https://techcrunch.com/2023/04/17/rocket-lab-adds-a-suborbital-launch-option-aimed-at-hypersonic-defense-customers/)
-- [Tech investors’ obsession over profit is already waning](https://techcrunch.com/2023/04/17/tech-investors-obsession-profit-waning/)
-- [Call for content applications close Friday](https://techcrunch.com/2023/04/17/techcrunch-disrupt-2023-call-for-content-deadline-this-week/)
-- [The best SpaceX Starship merch on Amazon](https://www.space.com/best-spacex-starship-merch-on-amazon)
-- [Mercedes debuts the Maybach EQS SUV with more power, range, and luxury](https://techcrunch.com/2023/04/17/mercedes-debuts-the-maybach-eqs-suv-with-more-power-range-and-luxury/)
+- [Noya pivots to embrace modular direct air capture, lands $11M Series A](https://techcrunch.com/2023/04/17/noya-series-a-modular-direct-air-capture/)
+- [Adobe brings Firefly to its video tools](https://techcrunch.com/2023/04/17/adobe-brings-firefly-to-its-video-tools/)
+- [So you want to craft a killer pitch deck](https://techcrunch.com/2023/04/17/so-you-want-to-craft-a-killer-pitch-deck/)
+- [SpaceX scrubs 1st space launch of giant Starship rocket due to fueling issue](https://www.space.com/spacex-scrubs-first-space-launch-starship)
+- [Just how hard is it for startups to raise capital today?](https://techcrunch.com/2023/04/17/just-how-hard-is-it-for-startups-to-raise-capital-today/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
