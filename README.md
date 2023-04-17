@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Orbit Fab closes $28.5M Series A for on-orbit refueling capabilities](https://techcrunch.com/2023/04/17/orbit-fab-closes-28-5m-series-a-for-on-orbit-refueling-capabilities/)
+- [&#39;Hello Tomorrow!&#39; creators share their inspiration for Apple TV+&#39;s hit sci-fi series &lpar;exclusive&rpar;](https://www.space.com/hello-tomorrow-creators-inspiration-exclusive)
+- [Why do some James Webb Space Telescope images show warped and repeated galaxies?](https://www.space.com/james-webb-space-telescope-images-distorted-galaxies-gravitational-lensing-explained)
+- [Light this candle: SpaceX taking orders for Starship model with rocket engine torch](https://www.space.com/spacex-starship-torch-scale-models)
 - [Europe&#39;s JUICE Jupiter explorer probe takes 1st space &#39;selfies&#39; on its way to gas giant &lpar;photos&rpar;](https://www.space.com/jupiter-explorer-juice-first-space-selfies)
-- [Superchat’s new AI chatbot lets you message historical and fictional characters via ChatGPT](https://techcrunch.com/2023/04/17/superchats-new-ai-chatbot-lets-you-message-historical-and-fictional-characters-via-chatgpt/)
-- [A new Drake x The Weeknd track just blew up — but it’s an AI fake](https://techcrunch.com/2023/04/17/uh-oh-an-ai-generated-song-by-drake-and-the-weeknd-went-viral/)
-- [‘Amex-meets-SecretNYC for Gen-Z’ startup raises $15.4M equity round to expand globally](https://techcrunch.com/2023/04/17/amex-meets-secretnyc-for-gen-z-startup-raises-15-4m-equity-round-to-expand-globally/)
-- [Space pictures! See our image of the day](https://www.space.com/34-image-day.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
