@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [New dark matter map created with &#39;cosmic fossil&#39; shows Einstein was right &lpar;again&rpar;](https://www.space.com/dark-matter-map-cmb-einstein-right)
-- [Twitter to label tweets that get downranked for violating its hate speech policy](https://techcrunch.com/2023/04/17/twitter-says-it-will-label-tweets-that-violate-its-hate-speech-policy-and-get-downranked-as-a-result/)
-- [&#39;Guardians of the Galaxy Vol. 3:&#39; Fly away into the forever with Marvel Studios&#39; new featurette](https://www.space.com/guardians-of-the-galaxy-volume-3-featurette)
-- [So you want funding for your NFT project?](https://techcrunch.com/2023/04/17/so-you-want-funding-for-your-nft-project/)
-- [Hackers publish sensitive employee data stolen during CommScope ransomware attack](https://techcrunch.com/2023/04/17/hackers-publish-sensitive-employee-data-stolen-during-commscope-ransomware-attack/)
+- [Daily Crunch: Sideloaded apps coming soon to an iPhone near you in iOS 17](https://techcrunch.com/2023/04/17/daily-crunch-sideloaded-apps-coming-soon-to-an-iphone-near-you-in-ios-17/)
+- [Max Q: Starship. That’s the headline.](https://techcrunch.com/2023/04/17/max-q-so-long-terran-1/)
+- [BMW, Rivian, Hyundai, Volvo lose access to EV tax credit](https://techcrunch.com/2023/04/17/bmw-rivian-hyundai-volvo-lose-access-to-ev-tax-credit/)
+- [Giant exoplanet found, imaged directly thanks to star-mapping data &lpar;photos&rpar;](https://www.space.com/giant-exoplanet-discovered-gaia-star-mapping-data)
+- [Dead NASA satellite will crash to Earth this week](https://www.space.com/dead-nasa-satellite-rhessi-crash-earth-april-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
