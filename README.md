@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [LLMs come to workplace morale monitoring, as Loopin raises $1.9M for its platform](https://techcrunch.com/2023/04/17/llms-come-to-workplace-morale-monitoring-as-loopin-raises-1-9m-for-its-platform/)
 - [Device-as-a-service startup Fleet expands beyond laptop leasing](https://techcrunch.com/2023/04/16/device-as-a-service-startup-fleet-expands-beyond-laptop-leasing/)
 - [XPeng unveils new EV platform designed to cut production costs](https://techcrunch.com/2023/04/16/xpeng-unveils-new-ev-platform-designed-to-cut-production-costs/)
 - [Apple ‘excited to build on our long-standing history’ in India, says Tim Cook ahead of first retail stores opening](https://techcrunch.com/2023/04/16/apple-tops-1-million-developers-in-india-excited-to-build-on-our-long-standing-history-says-tim-cook/)
 - [Netflix cancels ‘Love is Blind’ livestream after technical issues and hour delay](https://techcrunch.com/2023/04/16/netflix-issues-love-is-blind-livestream-reunion/)
-- [Scan.com, which gives patients direct access to private medical imaging services, raises $12M](https://techcrunch.com/2023/04/16/scan-com-which-gives-patients-direct-access-to-private-medical-imaging-services-raises-12m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
