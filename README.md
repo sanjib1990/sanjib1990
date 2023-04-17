@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New dark matter map created with &#39;cosmic fossil&#39; shows Einstein was right &lpar;again&rpar;](https://www.space.com/dark-matter-map-cmb-einstein-right)
 - [Twitter to label tweets that get downranked for violating its hate speech policy](https://techcrunch.com/2023/04/17/twitter-says-it-will-label-tweets-that-violate-its-hate-speech-policy-and-get-downranked-as-a-result/)
 - [&#39;Guardians of the Galaxy Vol. 3:&#39; Fly away into the forever with Marvel Studios&#39; new featurette](https://www.space.com/guardians-of-the-galaxy-volume-3-featurette)
 - [So you want funding for your NFT project?](https://techcrunch.com/2023/04/17/so-you-want-funding-for-your-nft-project/)
 - [Hackers publish sensitive employee data stolen during CommScope ransomware attack](https://techcrunch.com/2023/04/17/hackers-publish-sensitive-employee-data-stolen-during-commscope-ransomware-attack/)
-- [Was I an AI all along?](https://techcrunch.com/2023/04/17/hi-mom-it-is-me-an-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
