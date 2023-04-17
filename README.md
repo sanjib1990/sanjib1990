@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Next-generation satellite network could connect Earth with bases on moon&#39;s far side](https://www.space.com/lockheed-martin-commercial-space)
-- [Orbit Fab closes $28.5M Series A for on-orbit refueling capabilities](https://techcrunch.com/2023/04/17/orbit-fab-closes-28-5m-series-a-for-on-orbit-refueling-capabilities/)
-- [&#39;Hello Tomorrow!&#39; creators share their inspiration for Apple TV+&#39;s hit sci-fi series &lpar;exclusive&rpar;](https://www.space.com/hello-tomorrow-creators-inspiration-exclusive)
-- [Why do some James Webb Space Telescope images show warped and repeated galaxies?](https://www.space.com/james-webb-space-telescope-images-distorted-galaxies-gravitational-lensing-explained)
-- [Light this candle: SpaceX taking orders for Starship model with rocket engine torch](https://www.space.com/spacex-starship-torch-scale-models)
+- [Twitter to label tweets that get downranked for violating its hate speech policy](https://techcrunch.com/2023/04/17/twitter-says-it-will-label-tweets-that-violate-its-hate-speech-policy-and-get-downranked-as-a-result/)
+- [&#39;Guardians of the Galaxy Vol. 3:&#39; Fly away into the forever with Marvel Studios&#39; new featurette](https://www.space.com/guardians-of-the-galaxy-volume-3-featurette)
+- [So you want funding for your NFT project?](https://techcrunch.com/2023/04/17/so-you-want-funding-for-your-nft-project/)
+- [Hackers publish sensitive employee data stolen during CommScope ransomware attack](https://techcrunch.com/2023/04/17/hackers-publish-sensitive-employee-data-stolen-during-commscope-ransomware-attack/)
+- [Was I an AI all along?](https://techcrunch.com/2023/04/17/hi-mom-it-is-me-an-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
