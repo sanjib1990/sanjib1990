@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The EPA goes after tailpipe emissions, Elon gets an ultimatum and Careem lands $400M for its super app](https://techcrunch.com/2023/04/17/the-epa-goes-after-tailpipe-emissions-elon-gets-an-ultimatum-and-careem-lands-400m-for-its-super-app/)
+- [Watch SpaceX try to fly a fully stacked Starship for the first time](https://techcrunch.com/2023/04/17/watch-spacexs-starship-orbital-flight-test-live/)
+- [A rare hybrid solar eclipse occurs on April 20. Here&#39;s how to watch it online for free.](https://www.space.com/hybrid-solar-eclipse-april-2023-livestream)
 - [Developers are looking for creative ways to build AI-powered chatbot assistants](https://techcrunch.com/2023/04/17/developers-are-looking-for-creative-ways-to-build-ai-powered-chatbot-assistants/)
 - [US tech giants voice concern over India’s fact-checking rule](https://techcrunch.com/2023/04/17/us-tech-giants-voice-concern-over-india-s-fact-checking-rule/)
-- [Sega to acquire Angry Birds-maker Rovio for $775M](https://techcrunch.com/2023/04/17/sega-to-acquire-angry-birds-maker-rovio-for-775m/)
-- [LLMs come to workplace morale monitoring, as Loopin raises $1.9M for its platform](https://techcrunch.com/2023/04/17/llms-come-to-workplace-morale-monitoring-as-loopin-raises-1-9m-for-its-platform/)
-- [Device-as-a-service startup Fleet expands beyond laptop leasing](https://techcrunch.com/2023/04/16/device-as-a-service-startup-fleet-expands-beyond-laptop-leasing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
