@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Developers are looking for creative ways to build AI-powered chatbot assistants](https://techcrunch.com/2023/04/17/developers-are-looking-for-creative-ways-to-build-ai-powered-chatbot-assistants/)
+- [US tech giants voice concern over India’s fact-checking rule](https://techcrunch.com/2023/04/17/us-tech-giants-voice-concern-over-india-s-fact-checking-rule/)
+- [Sega to acquire Angry Birds-maker Rovio for $775M](https://techcrunch.com/2023/04/17/sega-to-acquire-angry-birds-maker-rovio-for-775m/)
 - [LLMs come to workplace morale monitoring, as Loopin raises $1.9M for its platform](https://techcrunch.com/2023/04/17/llms-come-to-workplace-morale-monitoring-as-loopin-raises-1-9m-for-its-platform/)
 - [Device-as-a-service startup Fleet expands beyond laptop leasing](https://techcrunch.com/2023/04/16/device-as-a-service-startup-fleet-expands-beyond-laptop-leasing/)
-- [XPeng unveils new EV platform designed to cut production costs](https://techcrunch.com/2023/04/16/xpeng-unveils-new-ev-platform-designed-to-cut-production-costs/)
-- [Apple ‘excited to build on our long-standing history’ in India, says Tim Cook ahead of first retail stores opening](https://techcrunch.com/2023/04/16/apple-tops-1-million-developers-in-india-excited-to-build-on-our-long-standing-history-says-tim-cook/)
-- [Netflix cancels ‘Love is Blind’ livestream after technical issues and hour delay](https://techcrunch.com/2023/04/16/netflix-issues-love-is-blind-livestream-reunion/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
