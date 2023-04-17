@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hydration brand Cure now valued at $22M as it mixes new funding into its growth plans](https://techcrunch.com/2023/04/17/hydration-cure-beverage-foodtech-series-a/)
-- [Decentralized finance may be the answer to banking’s payment rails problem](https://techcrunch.com/2023/04/17/decentralized-finance-payment-rails/)
-- [Galaxy cluster X-ray discovery scores another win for the Big Bang theory](https://www.space.com/galaxy-cluster-confirms-standard-model-cosmology)
-- [Late-stage startups are getting the hang of spending less](https://techcrunch.com/2023/04/17/late-stage-startups-spending-less/)
-- [Buckle up before we sell out — here comes TechCrunch Early Stage 2023](https://techcrunch.com/2023/04/17/whats-happening-at-techcrunch-early-stage-2023/)
+- [Europe&#39;s JUICE Jupiter explorer probe takes 1st space &#39;selfies&#39; on its way to gas giant &lpar;photos&rpar;](https://www.space.com/jupiter-explorer-juice-first-space-selfies)
+- [Superchat’s new AI chatbot lets you message historical and fictional characters via ChatGPT](https://techcrunch.com/2023/04/17/superchats-new-ai-chatbot-lets-you-message-historical-and-fictional-characters-via-chatgpt/)
+- [A new Drake x The Weeknd track just blew up — but it’s an AI fake](https://techcrunch.com/2023/04/17/uh-oh-an-ai-generated-song-by-drake-and-the-weeknd-went-viral/)
+- [‘Amex-meets-SecretNYC for Gen-Z’ startup raises $15.4M equity round to expand globally](https://techcrunch.com/2023/04/17/amex-meets-secretnyc-for-gen-z-startup-raises-15-4m-equity-round-to-expand-globally/)
+- [Space pictures! See our image of the day](https://www.space.com/34-image-day.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
