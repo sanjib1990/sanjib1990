@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rocket Lab adds a suborbital launch option aimed at hypersonic defense customers](https://techcrunch.com/2023/04/17/rocket-lab-adds-a-suborbital-launch-option-aimed-at-hypersonic-defense-customers/)
+- [Tech investors’ obsession over profit is already waning](https://techcrunch.com/2023/04/17/tech-investors-obsession-profit-waning/)
+- [Call for content applications close Friday](https://techcrunch.com/2023/04/17/techcrunch-disrupt-2023-call-for-content-deadline-this-week/)
+- [The best SpaceX Starship merch on Amazon](https://www.space.com/best-spacex-starship-merch-on-amazon)
 - [Mercedes debuts the Maybach EQS SUV with more power, range, and luxury](https://techcrunch.com/2023/04/17/mercedes-debuts-the-maybach-eqs-suv-with-more-power-range-and-luxury/)
-- [Germany’s XaaS platform Equipme secures $3.8M Seed led by La Famiglia VC](https://techcrunch.com/2023/04/17/germanys-xaas-platform-equipme-secures-3-8m-seed-led-by-la-famiglia-vc/)
-- [Innovamat tallies up $21M to reinvent math education](https://techcrunch.com/2023/04/17/innovamat-tallies-up-21m-to-reinvent-math-education/)
-- [Razor Group, an e-commerce aggregator, closes Series C at $88M at $1.2B valuation, acquires Stryze to consolidate](https://techcrunch.com/2023/04/17/razor-group-aggregator-stryze/)
-- [3 ways to step up your short-form video and TikTok growth strategy](https://techcrunch.com/2023/04/17/3-ways-to-step-up-your-short-form-video-and-tiktok-growth-strategy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
