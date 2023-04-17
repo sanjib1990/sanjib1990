@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Noya pivots to embrace modular direct air capture, lands $11M Series A](https://techcrunch.com/2023/04/17/noya-series-a-modular-direct-air-capture/)
-- [Adobe brings Firefly to its video tools](https://techcrunch.com/2023/04/17/adobe-brings-firefly-to-its-video-tools/)
-- [So you want to craft a killer pitch deck](https://techcrunch.com/2023/04/17/so-you-want-to-craft-a-killer-pitch-deck/)
-- [SpaceX scrubs 1st space launch of giant Starship rocket due to fueling issue](https://www.space.com/spacex-scrubs-first-space-launch-starship)
-- [Just how hard is it for startups to raise capital today?](https://techcrunch.com/2023/04/17/just-how-hard-is-it-for-startups-to-raise-capital-today/)
+- [Apple launches Apple Card’s savings accounts with 4.15% interest rate](https://techcrunch.com/2023/04/17/apple-launches-apple-cards-savings-accounts-with-415-interest-rate/)
+- [Watch SpaceX Starship evolve and explode on the way to its 1st space launch &lpar;video&rpar;](https://www.space.com/spacex-starship-road-to-1st-space-launch-video)
+- [The crackdown on pixel tracking in telehealth is a warning for every startup](https://techcrunch.com/2023/04/17/pixel-tracking-hipaa-startups/)
+- [Apple Watch to see its biggest software update since its 2015 debut, report says](https://techcrunch.com/2023/04/17/apple-watch-to-see-its-biggest-software-update-since-its-2015-debut/)
+- [Twitter adds more ‘government-funded’ labels to global news outlets](https://techcrunch.com/2023/04/17/twitter-adds-more-government-funded-labels-to-global-news-outlets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
