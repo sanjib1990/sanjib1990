@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple launches Apple Card’s savings accounts with 4.15% interest rate](https://techcrunch.com/2023/04/17/apple-launches-apple-cards-savings-accounts-with-415-interest-rate/)
-- [Watch SpaceX Starship evolve and explode on the way to its 1st space launch &lpar;video&rpar;](https://www.space.com/spacex-starship-road-to-1st-space-launch-video)
-- [The crackdown on pixel tracking in telehealth is a warning for every startup](https://techcrunch.com/2023/04/17/pixel-tracking-hipaa-startups/)
-- [Apple Watch to see its biggest software update since its 2015 debut, report says](https://techcrunch.com/2023/04/17/apple-watch-to-see-its-biggest-software-update-since-its-2015-debut/)
-- [Twitter adds more ‘government-funded’ labels to global news outlets](https://techcrunch.com/2023/04/17/twitter-adds-more-government-funded-labels-to-global-news-outlets/)
+- [Hydration brand Cure now valued at $22M as it mixes new funding into its growth plans](https://techcrunch.com/2023/04/17/hydration-cure-beverage-foodtech-series-a/)
+- [Decentralized finance may be the answer to banking’s payment rails problem](https://techcrunch.com/2023/04/17/decentralized-finance-payment-rails/)
+- [Galaxy cluster X-ray discovery scores another win for the Big Bang theory](https://www.space.com/galaxy-cluster-confirms-standard-model-cosmology)
+- [Late-stage startups are getting the hang of spending less](https://techcrunch.com/2023/04/17/late-stage-startups-spending-less/)
+- [Buckle up before we sell out — here comes TechCrunch Early Stage 2023](https://techcrunch.com/2023/04/17/whats-happening-at-techcrunch-early-stage-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
