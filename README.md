@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Citizen Lab claims Apple’s ‘Lockdown Mode’ helped block spyware attack by hacker group NSO](https://techcrunch.com/2023/04/18/citizen-lab-claims-apples-lockdown-mode-helped-block-spyware-attack-by-hacker-group-nso/)
+- [Einride brings its electric trucks to U.K. freight sector in partnership with PepsiCo](https://techcrunch.com/2023/04/18/einride-brings-its-electric-trucks-to-u-k-freight-sector-in-partnership-with-pepsico/)
+- [There was just one fintech unicorn birth in the first quarter](https://techcrunch.com/2023/04/18/there-was-just-one-fintech-unicorn-birth-in-the-first-quarter/)
+- [Europe spins up AI research hub to apply accountability rules on Big Tech](https://techcrunch.com/2023/04/18/ecat/)
 - [Netflix will crack down on password sharing this summer](https://techcrunch.com/2023/04/18/netflix-will-crack-down-on-password-sharing-this-summer/)
-- [You can watch SpaceX launch 21 Starlink V2 satellites on April 19. Here&#39;s how.](https://www.space.com/spacex-starlink-satellite-launch-group-6-2)
-- [FTC warns that AI technology like ChatGPT could ‘turbocharge’ fraud](https://techcrunch.com/2023/04/18/ftc-warns-congress-that-ai-technology-like-chatgpt-could-turbocharge-fraud-and-scams/)
-- [Netflix kisses mail-order DVDs goodbye](https://techcrunch.com/2023/04/18/netflix-kisses-mail-order-dvds-goodbye/)
-- [Curing disease with CRISPR with Trevor Martin from Mammoth Biosciences](https://techcrunch.com/2023/04/18/curing-disease-with-crispr-with-trevor-martin-from-mammoth-biosciences/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
