@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Can’t watch without subtitles? Prime Video’s new feature makes dialogue easier to hear](https://techcrunch.com/2023/04/18/cant-watch-without-subtitles-prime-videos-new-feature-makes-dialogue-easier-to-hear/)
-- [7 common pitfalls for hardware startups and how to avoid them](https://techcrunch.com/2023/04/18/how-to-avoid-hardware-pitfalls/)
-- [Founded by actors, Mansa brings its free streaming service for global Black culture out of stealth](https://techcrunch.com/2023/04/18/mansa-streaming-service-black-cultural-content/)
-- [China&#39;s moon plans involve 3D printing bricks from lunar soil](https://www.space.com/china-moon-3d-printing-bricks-change-8-2028)
-- [Goodbye to the fat middle](https://techcrunch.com/2023/04/18/goodbye-to-the-fat-middle/)
+- [Rally bags $12M to build the future of e-commerce checkout](https://techcrunch.com/2023/04/18/rally-series-a-e-commerce-checkout/)
+- [Amid the AI hype, don’t forget about no-code](https://techcrunch.com/2023/04/18/ai-hype-no-code-low-code/)
+- [Let’s talk about ‘Mrs. Davis’ and the show’s wild approach to AI](https://techcrunch.com/2023/04/18/peacock-mrs-davis-review/)
+- [Merging galaxies shine with the light of a trillion suns in gorgeous James Webb Space Telescope photo](https://www.space.com/james-webb-space-telescope-merging-galaxies-arp-220-photo)
+- [AI-powered retina scanning startup Mediwhale raises $9M](https://techcrunch.com/2023/04/18/ai-powered-retina-scanning-startup-mediwhale-raises-9m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
