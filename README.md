@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX targeting April 20 for next Starship launch attempt](https://www.space.com/spacex-targeting-april-20-starship-space-launch)
 - [Daily Crunch: Sideloaded apps coming soon to an iPhone near you in iOS 17, says report](https://techcrunch.com/2023/04/17/daily-crunch-sideloaded-apps-coming-soon-to-an-iphone-near-you-in-ios-17/)
 - [Max Q: Starship. That’s the headline.](https://techcrunch.com/2023/04/17/max-q-so-long-terran-1/)
 - [BMW, Rivian, Hyundai, Volvo lose access to EV tax credit](https://techcrunch.com/2023/04/17/bmw-rivian-hyundai-volvo-lose-access-to-ev-tax-credit/)
 - [Giant exoplanet found, imaged directly thanks to star-mapping data &lpar;photos&rpar;](https://www.space.com/giant-exoplanet-discovered-gaia-star-mapping-data)
-- [Dead NASA satellite will crash to Earth this week](https://www.space.com/dead-nasa-satellite-rhessi-crash-earth-april-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
