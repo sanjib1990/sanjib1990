@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cosmonic launches its WebAssembly PaaS into open beta](https://techcrunch.com/2023/04/17/cosmonic-launches-its-webassembly-paas-into-open-beta/)
 - [Remote working means this startup can use brains in emerging markets to disrupt management consultants](https://techcrunch.com/2023/04/17/remote-working-means-this-startup-can-use-brains-in-emerging-markets-to-disrupt-management-consultants/)
 - [Slim.AI helps developers optimize and secure their containers](https://techcrunch.com/2023/04/17/slim-ai-helps-developers-optimize-and-secure-their-containers/)
 - [Apple opens its first retail store in India but customer challenges persist](https://techcrunch.com/2023/04/17/apple-opens-its-first-retail-store-in-india-but-customer-challenges-persist/)
 - [US lidar maker Luminar wants to light up China’s smart vehicles](https://techcrunch.com/2023/04/17/luminar-china-auto-shanghai/)
-- [SpaceX targeting April 20 for next Starship launch attempt](https://www.space.com/spacex-targeting-april-20-starship-space-launch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
