@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google might announce a foldable Pixel next month](https://techcrunch.com/2023/04/18/google-might-announce-a-foldable-pixel-next-month/)
+- [Meta opens up its social VR space Horizon Worlds to teens](https://techcrunch.com/2023/04/18/meta-opens-up-its-social-vr-platform-horizon-worlds-to-teens/)
+- [Paramount+ announces original movie, ‘Star Trek: Station 31,’ starring Michelle Yeoh](https://techcrunch.com/2023/04/18/paramount-plus-star-trek-station-31/)
+- [TechCrunch+ roundup: SaaS benchmarks, TikTok strategy, milestone-based fundraising](https://techcrunch.com/2023/04/18/techcrunch-roundup-saas-benchmarks-tiktok-strategy-milestone-based-fundraising/)
 - [Gogoro’s battery swapping stations in Taiwan are now virtual power plants](https://techcrunch.com/2023/04/18/gogoros-battery-swapping-stations-in-taiwan-are-now-virtual-power-plants/)
-- [Tax Day in space: How do astronauts pay taxes off Earth?](https://www.space.com/tax-day-in-space-how-do-astronauts-pay-taxes)
-- [Students set to land first robotic US rover on the moon — before NASA](https://www.space.com/student-built-moon-rover-iris-land-may-2023)
-- [Instagram takes on Linktree and others with support for up to 5 ‘links in bio’](https://techcrunch.com/2023/04/18/instagram-takes-on-linktree-and-others-with-support-for-up-to-5-links-in-bio/)
-- [Southwest Airlines resumes operations after briefly halting takeoffs due to a ‘technical issue’](https://techcrunch.com/2023/04/18/southwest-airlines-resumes-operations-after-briefly-halting-flights-due-to-technical-issue/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
