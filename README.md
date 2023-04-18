@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Alaska Airlines does away with check-in kiosks](https://techcrunch.com/2023/04/18/alaska-airlines-does-away-with-check-in-kiosks/)
+- [Avalor wants to unify cybersecurity tools by aggregating data](https://techcrunch.com/2023/04/18/avalor-wants-to-unify-cybersecurity-tools-by-aggregating-data/)
+- [Investors prefer debt over equity &lpar;but not venture debt&rpar;](https://techcrunch.com/2023/04/18/investors-prefer-debt-over-equity-but-not-venture-debt/)
+- [Apple’s high security mode blocked NSO spyware, researchers say](https://techcrunch.com/2023/04/18/apple-lockdown-mode-iphone-nso-pegasus/)
 - [Niantic is making a real-world ‘Monster Hunter’ game](https://techcrunch.com/2023/04/18/niantic-is-making-a-real-world-monster-hunter-game/)
-- [B Capital leads Odeko’s $53M Series D to help small coffee shops scale](https://techcrunch.com/2023/04/18/b-capital-odeko-restaurant-tech/)
-- [In letter to EU, open source bodies say Cyber Resilience Act could have ‘chilling effect’ on software development](https://techcrunch.com/2023/04/18/in-letter-to-european-commission-open-source-bodies-say-cyber-resilience-act-could-have-chilling-effect-on-software-development/)
-- [Shein and Temu the latest China tech targets in Congress body’s sights](https://techcrunch.com/2023/04/18/shein-temu-us-scrutiny/)
-- [NASA may build more than one moon base for Artemis lunar missions](https://www.space.com/nasa-artemis-base-camp-more-moon-bases)
 <!-- BLOG-POST-LIST:END -->
 
 ---
