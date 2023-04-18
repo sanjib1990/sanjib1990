@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Rally bags $12M to build the future of e-commerce checkout](https://techcrunch.com/2023/04/18/rally-series-a-e-commerce-checkout/)
-- [Amid the AI hype, don’t forget about no-code](https://techcrunch.com/2023/04/18/ai-hype-no-code-low-code/)
-- [Let’s talk about ‘Mrs. Davis’ and the show’s wild approach to AI](https://techcrunch.com/2023/04/18/peacock-mrs-davis-review/)
-- [Merging galaxies shine with the light of a trillion suns in gorgeous James Webb Space Telescope photo](https://www.space.com/james-webb-space-telescope-merging-galaxies-arp-220-photo)
-- [AI-powered retina scanning startup Mediwhale raises $9M](https://techcrunch.com/2023/04/18/ai-powered-retina-scanning-startup-mediwhale-raises-9m/)
+- [Instagram takes on Linktree and others with support for up to 5 ‘links in bio’](https://techcrunch.com/2023/04/18/instagram-takes-on-linktree-and-others-with-support-for-up-to-5-links-in-bio/)
+- [Southwest Airlines resumes operations after briefly halting takeoffs due to a ‘technical issue’](https://techcrunch.com/2023/04/18/southwest-airlines-resumes-operations-after-briefly-halting-flights-due-to-technical-issue/)
+- [So you want to launch an AI startup](https://techcrunch.com/2023/04/18/so-you-want-to-launch-an-ai-startup/)
+- [Chinese luxury EV brand Zeekr will expand to Europe by end of 2023](https://techcrunch.com/2023/04/18/chinese-luxury-ev-brand-zeekr-will-expand-to-europe-by-end-of-2023/)
+- [HomePods can now send a notification when your smoke alarm goes off](https://techcrunch.com/2023/04/18/homepods-can-now-send-a-notification-when-your-smoke-alarm-goes-off/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
