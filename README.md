@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Gogoro’s battery swapping stations in Taiwan are now virtual power plants](https://techcrunch.com/2023/04/18/gogoros-battery-swapping-stations-in-taiwan-are-now-virtual-power-plants/)
+- [Tax Day in space: How do astronauts pay taxes off Earth?](https://www.space.com/tax-day-in-space-how-do-astronauts-pay-taxes)
+- [Students set to land first robotic US rover on the moon — before NASA](https://www.space.com/student-built-moon-rover-iris-land-may-2023)
 - [Instagram takes on Linktree and others with support for up to 5 ‘links in bio’](https://techcrunch.com/2023/04/18/instagram-takes-on-linktree-and-others-with-support-for-up-to-5-links-in-bio/)
 - [Southwest Airlines resumes operations after briefly halting takeoffs due to a ‘technical issue’](https://techcrunch.com/2023/04/18/southwest-airlines-resumes-operations-after-briefly-halting-flights-due-to-technical-issue/)
-- [So you want to launch an AI startup](https://techcrunch.com/2023/04/18/so-you-want-to-launch-an-ai-startup/)
-- [Chinese luxury EV brand Zeekr will expand to Europe by end of 2023](https://techcrunch.com/2023/04/18/chinese-luxury-ev-brand-zeekr-will-expand-to-europe-by-end-of-2023/)
-- [HomePods can now send a notification when your smoke alarm goes off](https://techcrunch.com/2023/04/18/homepods-can-now-send-a-notification-when-your-smoke-alarm-goes-off/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
