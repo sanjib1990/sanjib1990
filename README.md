@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [FTC warns Congress that AI technology like ChatGPT could ‘turbocharge’ fraud and scams](https://techcrunch.com/2023/04/18/ftc-warns-congress-that-ai-technology-like-chatgpt-could-turbocharge-fraud-and-scams/)
+- [Netflix will crack down on password sharing this summer](https://techcrunch.com/2023/04/18/netflix-will-crack-down-on-password-sharing-this-summer/)
+- [You can watch SpaceX launch 21 Starlink V2 satellites on April 19. Here&#39;s how.](https://www.space.com/spacex-starlink-satellite-launch-group-6-2)
+- [FTC warns that AI technology like ChatGPT could ‘turbocharge’ fraud](https://techcrunch.com/2023/04/18/ftc-warns-congress-that-ai-technology-like-chatgpt-could-turbocharge-fraud-and-scams/)
 - [Netflix kisses mail-order DVDs goodbye](https://techcrunch.com/2023/04/18/netflix-kisses-mail-order-dvds-goodbye/)
 - [Curing disease with CRISPR with Trevor Martin from Mammoth Biosciences](https://techcrunch.com/2023/04/18/curing-disease-with-crispr-with-trevor-martin-from-mammoth-biosciences/)
-- [Twitter quietly removes policy against misgendering trans people](https://techcrunch.com/2023/04/18/twitter-removed-deadnaming-misgendering-policy/)
-- [Reddit will begin charging for access to its API](https://techcrunch.com/2023/04/18/reddit-will-begin-charging-for-access-to-its-api/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
