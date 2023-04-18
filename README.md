@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [I built a react app… but with a visual editor](https://www.youtube.com/watch?v=tszI9GrH1u0)
 - [S4E8: Honoring Your Native Language with Prof. Michel DeGraff](https://www.youtube.com/watch?v=jiAi2e3oil4)
 - [Music Industry on life support right now](https://www.youtube.com/watch?v=LkrI3erbUtw)
 - [AWS CodeWhisperer… The Copilot Killer?](https://www.youtube.com/watch?v=FJACTC9wFhU)
 - [Uh oh… AI-search engine for developers has emerged](https://www.youtube.com/watch?v=91IPJ6LFmto)
-- [Foundations of Data Visualisation - Computerphile](https://www.youtube.com/watch?v=qQ9Wu1IxsYw)
 <!-- YOUTUBE:END -->
 
 ---
