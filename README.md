@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SaaS retention benchmarks: How does your business stack up?](https://techcrunch.com/2023/04/18/saas-retention-benchmarks-how-does-your-business-stack-up/)
-- [Samsung’s ‘News’ app launches with custom feeds and daily briefings](https://techcrunch.com/2023/04/18/samsungs-news-app-launches-with-custom-feeds-and-daily-briefings/)
-- [Whisper Aero wants to make aviation, and the rest of the world, quieter](https://techcrunch.com/2023/04/18/whisper-aero-wants-to-make-aviation-quieter-and-the-rest-of-the-world-too/)
-- [Semgrep &lpar;formerly r2c&rpar; lands $53M investment  to grow code security platform](https://techcrunch.com/2023/04/18/semgrep-formerly-r2c-lands-53m-investment-to-grow-code-security-platform/)
-- [Adobe Lightroom adds AI-powered denoise and support for content credentials](https://techcrunch.com/2023/04/18/adobe-lightroom-adds-ai-powered-denoise-and-support-for-content-credentials/)
+- [Can’t watch without subtitles? Prime Video’s new feature makes dialogue easier to hear](https://techcrunch.com/2023/04/18/cant-watch-without-subtitles-prime-videos-new-feature-makes-dialogue-easier-to-hear/)
+- [7 common pitfalls for hardware startups and how to avoid them](https://techcrunch.com/2023/04/18/how-to-avoid-hardware-pitfalls/)
+- [Founded by actors, Mansa brings its free streaming service for global Black culture out of stealth](https://techcrunch.com/2023/04/18/mansa-streaming-service-black-cultural-content/)
+- [China&#39;s moon plans involve 3D printing bricks from lunar soil](https://www.space.com/china-moon-3d-printing-bricks-change-8-2028)
+- [Goodbye to the fat middle](https://techcrunch.com/2023/04/18/goodbye-to-the-fat-middle/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
