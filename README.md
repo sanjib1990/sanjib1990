@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA may build more than one moon base for Artemis lunar missions](https://www.space.com/nasa-artemis-base-camp-more-moon-bases)
+- [Watch Russian cosmonauts make their 3rd try at a spacewalk tonight](https://www.space.com/international-space-station-cosmonauts-spacewalk-april-2023-livestream)
+- [Ada releases new automated generative AI-driven customer service suite](https://techcrunch.com/2023/04/18/ada-announces-automated-generative-ai-driven-customer-service-suite/)
+- [30 years on, Robocop 3 still sucks](https://www.space.com/30-years-on-robocop-3-still-sucks)
 - [XPeng’s G6 SUV aims to be a premium EV for the masses](https://techcrunch.com/2023/04/18/xpengs-g6-suv-aims-to-be-a-premium-ev-for-the-masses/)
-- [Cosmonic launches its WebAssembly PaaS into open beta](https://techcrunch.com/2023/04/17/cosmonic-launches-its-webassembly-paas-into-open-beta/)
-- [Remote working means this startup can use brains in emerging markets to disrupt management consultants](https://techcrunch.com/2023/04/17/remote-working-means-this-startup-can-use-brains-in-emerging-markets-to-disrupt-management-consultants/)
-- [Slim.AI helps developers optimize and secure their containers](https://techcrunch.com/2023/04/17/slim-ai-helps-developers-optimize-and-secure-their-containers/)
-- [Apple opens its first retail store in India but customer challenges persist](https://techcrunch.com/2023/04/17/apple-opens-its-first-retail-store-in-india-but-customer-challenges-persist/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
