@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Alaska Airlines does away with check-in kiosks](https://techcrunch.com/2023/04/18/alaska-airlines-does-away-with-check-in-kiosks/)
-- [Avalor wants to unify cybersecurity tools by aggregating data](https://techcrunch.com/2023/04/18/avalor-wants-to-unify-cybersecurity-tools-by-aggregating-data/)
-- [Investors prefer debt over equity &lpar;but not venture debt&rpar;](https://techcrunch.com/2023/04/18/investors-prefer-debt-over-equity-but-not-venture-debt/)
-- [Apple’s high security mode blocked NSO spyware, researchers say](https://techcrunch.com/2023/04/18/apple-lockdown-mode-iphone-nso-pegasus/)
-- [Niantic is making a real-world ‘Monster Hunter’ game](https://techcrunch.com/2023/04/18/niantic-is-making-a-real-world-monster-hunter-game/)
+- [SaaS retention benchmarks: How does your business stack up?](https://techcrunch.com/2023/04/18/saas-retention-benchmarks-how-does-your-business-stack-up/)
+- [Samsung’s ‘News’ app launches with custom feeds and daily briefings](https://techcrunch.com/2023/04/18/samsungs-news-app-launches-with-custom-feeds-and-daily-briefings/)
+- [Whisper Aero wants to make aviation, and the rest of the world, quieter](https://techcrunch.com/2023/04/18/whisper-aero-wants-to-make-aviation-quieter-and-the-rest-of-the-world-too/)
+- [Semgrep &lpar;formerly r2c&rpar; lands $53M investment  to grow code security platform](https://techcrunch.com/2023/04/18/semgrep-formerly-r2c-lands-53m-investment-to-grow-code-security-platform/)
+- [Adobe Lightroom adds AI-powered denoise and support for content credentials](https://techcrunch.com/2023/04/18/adobe-lightroom-adds-ai-powered-denoise-and-support-for-content-credentials/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
