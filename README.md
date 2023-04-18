@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google might announce a foldable Pixel next month](https://techcrunch.com/2023/04/18/google-might-announce-a-foldable-pixel-next-month/)
-- [Meta opens up its social VR space Horizon Worlds to teens](https://techcrunch.com/2023/04/18/meta-opens-up-its-social-vr-platform-horizon-worlds-to-teens/)
-- [Paramount+ announces original movie, ‘Star Trek: Station 31,’ starring Michelle Yeoh](https://techcrunch.com/2023/04/18/paramount-plus-star-trek-station-31/)
-- [TechCrunch+ roundup: SaaS benchmarks, TikTok strategy, milestone-based fundraising](https://techcrunch.com/2023/04/18/techcrunch-roundup-saas-benchmarks-tiktok-strategy-milestone-based-fundraising/)
-- [Gogoro’s battery swapping stations in Taiwan are now virtual power plants](https://techcrunch.com/2023/04/18/gogoros-battery-swapping-stations-in-taiwan-are-now-virtual-power-plants/)
+- [Netflix kisses mail-order DVDs goodbye](https://techcrunch.com/2023/04/18/netflix-kisses-mail-order-dvds-goodbye/)
+- [Curing disease with CRISPR with Trevor Martin from Mammoth Biosciences](https://techcrunch.com/2023/04/18/curing-disease-with-crispr-with-trevor-martin-from-mammoth-biosciences/)
+- [Twitter quietly removes policy against misgendering trans people](https://techcrunch.com/2023/04/18/twitter-removed-deadnaming-misgendering-policy/)
+- [Reddit will begin charging for access to its API](https://techcrunch.com/2023/04/18/reddit-will-begin-charging-for-access-to-its-api/)
+- [April 20 hybrid solar eclipse: An observer&#39;s guide](https://www.space.com/hybrid-solar-eclipse-down-under-april-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
