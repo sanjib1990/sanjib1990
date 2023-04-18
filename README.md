@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Niantic is making a real-world ‘Monster Hunter’ game](https://techcrunch.com/2023/04/18/niantic-is-making-a-real-world-monster-hunter-game/)
+- [B Capital leads Odeko’s $53M Series D to help small coffee shops scale](https://techcrunch.com/2023/04/18/b-capital-odeko-restaurant-tech/)
+- [In letter to EU, open source bodies say Cyber Resilience Act could have ‘chilling effect’ on software development](https://techcrunch.com/2023/04/18/in-letter-to-european-commission-open-source-bodies-say-cyber-resilience-act-could-have-chilling-effect-on-software-development/)
+- [Shein and Temu the latest China tech targets in Congress body’s sights](https://techcrunch.com/2023/04/18/shein-temu-us-scrutiny/)
 - [NASA may build more than one moon base for Artemis lunar missions](https://www.space.com/nasa-artemis-base-camp-more-moon-bases)
-- [Watch Russian cosmonauts make their 3rd try at a spacewalk tonight](https://www.space.com/international-space-station-cosmonauts-spacewalk-april-2023-livestream)
-- [Ada releases new automated generative AI-driven customer service suite](https://techcrunch.com/2023/04/18/ada-announces-automated-generative-ai-driven-customer-service-suite/)
-- [30 years on, Robocop 3 still sucks](https://www.space.com/30-years-on-robocop-3-still-sucks)
-- [XPeng’s G6 SUV aims to be a premium EV for the masses](https://techcrunch.com/2023/04/18/xpengs-g6-suv-aims-to-be-a-premium-ev-for-the-masses/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
