@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cortical Labs raises $10M for its Pong-playing stem cells which eventually could power AI](https://techcrunch.com/2023/04/19/cortical-labs-raises-10m-for-its-pong-playing-stem-cells-which-eventually-could-power-ai/)
+- [Volkswagen pumps 1B euros into China electric vehicle center](https://techcrunch.com/2023/04/19/volkswagen-1-billion-euros-ev-innovation-center-in-china/)
 - [Netflix’s ad-supported plan gets support for 1080p quality and two concurrent streams](https://techcrunch.com/2023/04/18/netflixs-ad-supported-plan-gets-support-for-1080p-quality-and-two-concurrent-streams/)
 - [Tesla cuts prices for Model 3, Model Y on eve of Q1 earnings](https://techcrunch.com/2023/04/18/tesla-cuts-prices-for-model-3-model-y-on-eve-of-q1-earnings/)
 - [Another round of mass layoffs expected at Meta this week](https://techcrunch.com/2023/04/18/another-round-of-mass-layoffs-expected-at-meta-this-week/)
-- [The Polestar 4 replaces a rear window with a hi-def screen](https://techcrunch.com/2023/04/18/the-polestar-4-replaces-a-rear-window-with-a-hi-def-screen/)
-- [Daily Crunch: Citizen Lab claims Apple’s ‘Lockdown Mode’ helped block spyware attack by hacker group NSO](https://techcrunch.com/2023/04/18/citizen-lab-claims-apples-lockdown-mode-helped-block-spyware-attack-by-hacker-group-nso/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
