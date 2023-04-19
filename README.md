@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft kicks Twitter in the teeth](https://techcrunch.com/2023/04/19/microsoft-kicks-twitter-in-the-teeth/)
+- [Inside Hyundai’s plan to turn software into a profit machine](https://techcrunch.com/2023/04/19/inside-hyundais-plan-to-turn-software-into-a-profit-machine/)
+- [Another Starship explosion would be bad news for nearby park managers](https://techcrunch.com/2023/04/19/another-starship-explosion-would-be-bad-news-for-nearby-park-managers/)
 - [Daily Crunch: Meta is dismissing around 4,000 more employees this week](https://techcrunch.com/2023/04/19/daily-crunch-meta-is-dismissing-around-4000-more-employees-this-week/)
 - [Pinterest brings on Google Pixel VP to fill chief product officer position](https://techcrunch.com/2023/04/19/pinterest-brings-on-google-pixel-vp-to-fill-chief-product-officer-position/)
-- [Tesla Q1 income falls 24% as EV price cuts squeeze profits](https://techcrunch.com/2023/04/19/tesla-q1-income-falls-24-as-ev-price-cuts-squeeze-profits/)
-- [Flipboard brings editorial curation to Mastodon with ‘desks’ for news and discovery](https://techcrunch.com/2023/04/19/flipboard-brings-editorial-curation-to-mastodon-with-desks-for-news-and-discovery/)
-- [Damage from violent clashes in Sudan visible from space &lpar;satellite photos&rpar;](https://www.space.com/sudan-clashes-satellite-photos-maxar)
 <!-- BLOG-POST-LIST:END -->
 
 ---
