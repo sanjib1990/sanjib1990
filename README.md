@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla Q1 income falls 24% as EV price cuts squeeze profits](https://techcrunch.com/2023/04/19/tesla-q1-income-falls-24-as-ev-price-cuts-squeeze-profits/)
+- [Flipboard brings editorial curation to Mastodon with ‘desks’ for news and discovery](https://techcrunch.com/2023/04/19/flipboard-brings-editorial-curation-to-mastodon-with-desks-for-news-and-discovery/)
 - [Damage from violent clashes in Sudan visible from space &lpar;satellite photos&rpar;](https://www.space.com/sudan-clashes-satellite-photos-maxar)
-- [‘Oxenfree II: Lost Signals’ will launch on Netflix and other platforms on July 12](https://techcrunch.com/2023/04/19/oxenfree-ii-lost-signals-will-launch-on-netflix-and-other-platforms-on-july-12/)
+- [Oxenfree II: Lost Signals will launch on Netflix and other platforms on July 12](https://techcrunch.com/2023/04/19/oxenfree-ii-lost-signals-will-launch-on-netflix-and-other-platforms-on-july-12/)
 - [Rocket Lab to fly used engine for 1st time later this year](https://www.space.com/rocket-lab-launch-mission-used-engine)
-- [Evermile raises $6M Seed to make local deliveries more economic for small businesses](https://techcrunch.com/2023/04/19/evermile-raises-6m-seed-to-make-local-deliveries-more-economic-for-small-businesses/)
-- [We tried out Canon’s VR calling app Kokomo](https://techcrunch.com/2023/04/19/kokomo-vr-calling-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
