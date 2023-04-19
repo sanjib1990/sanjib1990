@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Climate tech VC firm closes $300M fund after LPs push for broader investment opportunities](https://techcrunch.com/2023/04/19/congruent-ventures-300m-fund/)
+- [Google offers billing choice for UK Play Store devs in bid to settle antitrust prone](https://techcrunch.com/2023/04/19/google-play-store-billing-choice-uk/)
 - [SpaceX, ULA could launch missions for Europe while it waits for its next-generation rocket: report](https://www.space.com/spacex-european-union-launch-contracts)
 - [The moon blocks the sun in a rare hybrid solar eclipse today](https://www.space.com/hybrid-solar-eclipse-moon-blocks-sun-april-2023)
 - [Coro raises $75M at a $575M valuation to grow its all-in-one cybersecurity platform](https://techcrunch.com/2023/04/19/coro-security/)
-- [Cortical Labs raises $10M for its Pong-playing stem cells which eventually could power AI](https://techcrunch.com/2023/04/19/cortical-labs-raises-10m-for-its-pong-playing-stem-cells-which-eventually-could-power-ai/)
-- [Volkswagen pumps 1B euros into China electric vehicle center](https://techcrunch.com/2023/04/19/volkswagen-1-billion-euros-ev-innovation-center-in-china/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
