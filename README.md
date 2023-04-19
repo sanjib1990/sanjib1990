@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Shuttle simulators and astronaut artifacts featured in new Lone Star &#39;Space Gallery&#39;](https://www.space.com/lone-star-flight-museum-space-gallery-opening)
-- [Netflix blames a technical bug for its ‘Love is Blind’ live stream issues, says it will try live again](https://techcrunch.com/2023/04/19/netflix-blames-a-technical-bug-for-its-love-is-blind-live-stream-issues-says-it-will-try-live-again/)
-- [Stability AI releases ChatGPT-like language models](https://techcrunch.com/2023/04/19/stability-ai-releases-chatgpt-like-language-models/)
-- [Opendoor alums raise $15M for Kindred, a home-swapping network](https://techcrunch.com/2023/04/19/opendoor-alums-raise-15m-for-kindred-a-home-swapping-network/)
-- [SpaceX working &#39;many issues&#39; ahead of Thursday Starship launch, Elon Musk says](https://www.space.com/spacex-starship-launch-many-issues-elon-musk)
+- [NationsBenefits confirms thousands had personal data stolen in Fortra breach](https://techcrunch.com/2023/04/19/nationsbenefits-confirms-thousands-had-personal-data-stolen-in-fortra-breach/)
+- [Snapchat opens its AI chatbot to global users, says the AI will later Snap you back](https://techcrunch.com/2023/04/19/snapchat-opens-its-ai-chatbot-to-global-users-says-the-ai-will-later-snap-you-back/)
+- [China&#39;s Shenzhou 15 astronauts complete record-breaking 4th spacewalk &lpar;video&rpar;](https://www.space.com/china-shenzhou-15-astronauts-fourth-spacewalk-tiangong)
+- [Snapchat launches AR Lenses powered by generative AI, starting with a new ‘Cosmic Lens’](https://techcrunch.com/2023/04/19/snapchat-launches-ar-lenses-powered-by-generative-ai-starting-with-a-new-cosmic-lens/)
+- [Snapchat’s AR technology comes to the real world with ‘AR Mirrors’](https://techcrunch.com/2023/04/19/snapchats-ar-technology-comes-to-the-real-world-with-ar-mirrors/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
