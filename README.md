@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Unagi secures Best Buy as e-scooter subscription partner](https://techcrunch.com/2023/04/19/unagi-secures-best-buy-as-e-scooter-subscription-partner/)
+- [Space pictures! See our image of the day](https://www.space.com/34-image-day.html)
+- [Qdrant, an open source vector database startup, wants to help AI developers leverage unstructured data](https://techcrunch.com/2023/04/19/qdrant-an-open-source-vector-database-startup-wants-to-help-ai-developers-leverage-unstructured-data/)
 - [BetaFPV Cetus Lite FPV kit review](https://www.space.com/betafpv-cetus-lite-fpv-kit-review)
 - [Ask Sophie: Can I launch a startup if I’m in the US on a student visa?](https://techcrunch.com/2023/04/19/ask-sophie-can-i-launch-a-startup-if-im-in-the-us-on-a-student-visa/)
-- [Stealth-mode startups: Apply to Startup Battlefield 200](https://techcrunch.com/2023/04/19/stealth-mode-startups-apply-startup-battlefield-200-disrupt-2023/)
-- [Despite regulatory concerns, the US is far from losing its venture crown](https://techcrunch.com/2023/04/19/united-states-venture-market-crown/)
-- [North Korea readying launch of nation&#39;s 1st spy satellite: report](https://www.space.com/north-korea-launch-1st-spy-satellite)
 <!-- BLOG-POST-LIST:END -->
 
 ---
