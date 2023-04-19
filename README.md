@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Unagi secures Best Buy as e-scooter subscription partner](https://techcrunch.com/2023/04/19/unagi-secures-best-buy-as-e-scooter-subscription-partner/)
-- [Space pictures! See our image of the day](https://www.space.com/34-image-day.html)
-- [Qdrant, an open source vector database startup, wants to help AI developers leverage unstructured data](https://techcrunch.com/2023/04/19/qdrant-an-open-source-vector-database-startup-wants-to-help-ai-developers-leverage-unstructured-data/)
-- [BetaFPV Cetus Lite FPV kit review](https://www.space.com/betafpv-cetus-lite-fpv-kit-review)
-- [Ask Sophie: Can I launch a startup if I’m in the US on a student visa?](https://techcrunch.com/2023/04/19/ask-sophie-can-i-launch-a-startup-if-im-in-the-us-on-a-student-visa/)
+- [Shuttle simulators and astronaut artifacts featured in new Lone Star &#39;Space Gallery&#39;](https://www.space.com/lone-star-flight-museum-space-gallery-opening)
+- [Netflix blames a technical bug for its ‘Love is Blind’ live stream issues, says it will try live again](https://techcrunch.com/2023/04/19/netflix-blames-a-technical-bug-for-its-love-is-blind-live-stream-issues-says-it-will-try-live-again/)
+- [Stability AI releases ChatGPT-like language models](https://techcrunch.com/2023/04/19/stability-ai-releases-chatgpt-like-language-models/)
+- [Opendoor alums raise $15M for Kindred, a home-swapping network](https://techcrunch.com/2023/04/19/opendoor-alums-raise-15m-for-kindred-a-home-swapping-network/)
+- [SpaceX working &#39;many issues&#39; ahead of Thursday Starship launch, Elon Musk says](https://www.space.com/spacex-starship-launch-many-issues-elon-musk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
