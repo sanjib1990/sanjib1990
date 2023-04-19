@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX, ULA could launch missions for Europe while it waits for its next-generation rocket: report](https://www.space.com/spacex-european-union-launch-contracts)
+- [The moon blocks the sun in a rare hybrid solar eclipse today](https://www.space.com/hybrid-solar-eclipse-moon-blocks-sun-april-2023)
+- [Coro raises $75M at a $575M valuation to grow its all-in-one cybersecurity platform](https://techcrunch.com/2023/04/19/coro-security/)
 - [Cortical Labs raises $10M for its Pong-playing stem cells which eventually could power AI](https://techcrunch.com/2023/04/19/cortical-labs-raises-10m-for-its-pong-playing-stem-cells-which-eventually-could-power-ai/)
 - [Volkswagen pumps 1B euros into China electric vehicle center](https://techcrunch.com/2023/04/19/volkswagen-1-billion-euros-ev-innovation-center-in-china/)
-- [Netflix’s ad-supported plan gets support for 1080p quality and two concurrent streams](https://techcrunch.com/2023/04/18/netflixs-ad-supported-plan-gets-support-for-1080p-quality-and-two-concurrent-streams/)
-- [Tesla cuts prices for Model 3, Model Y on eve of Q1 earnings](https://techcrunch.com/2023/04/18/tesla-cuts-prices-for-model-3-model-y-on-eve-of-q1-earnings/)
-- [Another round of mass layoffs expected at Meta this week](https://techcrunch.com/2023/04/18/another-round-of-mass-layoffs-expected-at-meta-this-week/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
