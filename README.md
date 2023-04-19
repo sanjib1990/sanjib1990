@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [April new moon brings rare hybrid eclipse and ends Ramadan tonight](https://www.space.com/new-moon-april-2023-ends-ramadan)
-- [The Mandalorian season 3 episode 8 review: Star Wars spirit takes over](https://www.space.com/the-mandalorian-season-3-episode-8-review)
-- [Software investors must &lpar;re&rpar;learn these 3 ideas before getting into deep tech](https://techcrunch.com/2023/04/19/software-investors-must-relearn-these-3-ideas-before-getting-into-deep-tech/)
-- [Amazon tops LinkedIn’s list of best places to work, jobseeker priorities shift to workplace culture](https://techcrunch.com/2023/04/19/amazon-tops-linkedins-list-of-best-places-to-work-jobseeker-priorities-shift-to-workplace-culture/)
-- [Climate tech VC firm closes $300M fund after LPs push for broader investment opportunities](https://techcrunch.com/2023/04/19/congruent-ventures-300m-fund/)
+- [Blank Street cracked the code on making coffee shops attractive to VC](https://techcrunch.com/2023/04/19/blank-street-venture-backed-coffee/)
+- [SpaceX Starship spotted from space ahead of historic April 20 launch](https://www.space.com/spacex-starship-satellite-photo-before-orbital-launch)
+- [Salesforce is working on a pair of new generative AI-driven workflow tools](https://techcrunch.com/2023/04/19/salesforce-is-working-on-a-pair-of-new-generative-ai-driven-workflow-tools/)
+- [Creality Sermoon V1 Pro review: Plug-and-play printing](https://www.space.com/creality-sermoon-v1-pro-review)
+- [Ditto raises $45M to help companies keep their data in sync](https://techcrunch.com/2023/04/19/ditto-raises-45m-to-help-companies-keep-their-data-in-sync/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
