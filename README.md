@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Blank Street cracked the code on making coffee shops attractive to VC](https://techcrunch.com/2023/04/19/blank-street-venture-backed-coffee/)
-- [SpaceX Starship spotted from space ahead of historic April 20 launch](https://www.space.com/spacex-starship-satellite-photo-before-orbital-launch)
-- [Salesforce is working on a pair of new generative AI-driven workflow tools](https://techcrunch.com/2023/04/19/salesforce-is-working-on-a-pair-of-new-generative-ai-driven-workflow-tools/)
-- [Creality Sermoon V1 Pro review: Plug-and-play printing](https://www.space.com/creality-sermoon-v1-pro-review)
-- [Ditto raises $45M to help companies keep their data in sync](https://techcrunch.com/2023/04/19/ditto-raises-45m-to-help-companies-keep-their-data-in-sync/)
+- [Who captures the most value after the SaaS-acre? Enterprises or startups?](https://techcrunch.com/2023/04/19/who-captures-the-most-value-after-the-saas-acre-enterprises-or-startups/)
+- [Digital identities might be the best way to prove who you are online](https://techcrunch.com/2023/04/19/digital-identities-unstoppable-domains/)
+- [Take a road trip on the mysterious moon in new trailer for Disney&#39;s &#39;Crater&#39;](https://www.space.com/crater-trailer-disney)
+- [Your BeReal posts can now include what you’re listening to on Spotify](https://techcrunch.com/2023/04/19/your-bereal-posts-can-now-include-what-youre-listening-to-on-spotify/)
+- [Russian hackers exploit six-year-old Cisco flaw to target US government agencies](https://techcrunch.com/2023/04/19/russian-hackers-exploit-six-year-old-cisco-flaw-to-target-us-government-agencies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
