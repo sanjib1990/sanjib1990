@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Who captures the most value after the SaaS-acre? Enterprises or startups?](https://techcrunch.com/2023/04/19/who-captures-the-most-value-after-the-saas-acre-enterprises-or-startups/)
-- [Digital identities might be the best way to prove who you are online](https://techcrunch.com/2023/04/19/digital-identities-unstoppable-domains/)
-- [Take a road trip on the mysterious moon in new trailer for Disney&#39;s &#39;Crater&#39;](https://www.space.com/crater-trailer-disney)
-- [Your BeReal posts can now include what you’re listening to on Spotify](https://techcrunch.com/2023/04/19/your-bereal-posts-can-now-include-what-youre-listening-to-on-spotify/)
-- [Russian hackers exploit six-year-old Cisco flaw to target US government agencies](https://techcrunch.com/2023/04/19/russian-hackers-exploit-six-year-old-cisco-flaw-to-target-us-government-agencies/)
+- [BetaFPV Cetus Lite FPV kit review](https://www.space.com/betafpv-cetus-lite-fpv-kit-review)
+- [Ask Sophie: Can I launch a startup if I’m in the US on a student visa?](https://techcrunch.com/2023/04/19/ask-sophie-can-i-launch-a-startup-if-im-in-the-us-on-a-student-visa/)
+- [Stealth-mode startups: Apply to Startup Battlefield 200](https://techcrunch.com/2023/04/19/stealth-mode-startups-apply-startup-battlefield-200-disrupt-2023/)
+- [Despite regulatory concerns, the US is far from losing its venture crown](https://techcrunch.com/2023/04/19/united-states-venture-market-crown/)
+- [North Korea readying launch of nation&#39;s 1st spy satellite: report](https://www.space.com/north-korea-launch-1st-spy-satellite)
 <!-- BLOG-POST-LIST:END -->
 
 ---
