@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Evermile raises $6M Seed to make local deliveries more economic for small businesses](https://techcrunch.com/2023/04/19/evermile-raises-6m-seed-to-make-local-deliveries-more-economic-for-small-businesses/)
+- [We tried out Canon’s VR calling app Kokomo](https://techcrunch.com/2023/04/19/kokomo-vr-calling-app/)
+- [Hear ClassDojo and SignalFire unpack edtech’s opportunity ahead on TechCrunch Live](https://techcrunch.com/2023/04/19/hear-classdojo-and-signalfire-unpack-edtechs-opportunity-ahead-on-techcrunch-live/)
 - [NationsBenefits confirms thousands had personal data stolen in Fortra breach](https://techcrunch.com/2023/04/19/nationsbenefits-confirms-thousands-had-personal-data-stolen-in-fortra-breach/)
-- [Snapchat opens its AI chatbot to global users, says the AI will later Snap you back](https://techcrunch.com/2023/04/19/snapchat-opens-its-ai-chatbot-to-global-users-says-the-ai-will-later-snap-you-back/)
-- [China&#39;s Shenzhou 15 astronauts complete record-breaking 4th spacewalk &lpar;video&rpar;](https://www.space.com/china-shenzhou-15-astronauts-fourth-spacewalk-tiangong)
-- [Snapchat launches AR Lenses powered by generative AI, starting with a new ‘Cosmic Lens’](https://techcrunch.com/2023/04/19/snapchat-launches-ar-lenses-powered-by-generative-ai-starting-with-a-new-cosmic-lens/)
-- [Snapchat’s AR technology comes to the real world with ‘AR Mirrors’](https://techcrunch.com/2023/04/19/snapchats-ar-technology-comes-to-the-real-world-with-ar-mirrors/)
+- [Snapchat’s AI chatbot is now free for all global users, says the AI will later ‘Snap’ you back](https://techcrunch.com/2023/04/19/snapchat-opens-its-ai-chatbot-to-global-users-says-the-ai-will-later-snap-you-back/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
