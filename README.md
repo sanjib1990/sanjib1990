@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Netflix’s ad-supported plan gets support for 1080p quality and two concurrent streams](https://techcrunch.com/2023/04/18/netflixs-ad-supported-plan-gets-support-for-1080p-quality-and-two-concurrent-streams/)
+- [Tesla cuts prices for Model 3, Model Y on eve of Q1 earnings](https://techcrunch.com/2023/04/18/tesla-cuts-prices-for-model-3-model-y-on-eve-of-q1-earnings/)
 - [Another round of mass layoffs expected at Meta this week](https://techcrunch.com/2023/04/18/another-round-of-mass-layoffs-expected-at-meta-this-week/)
 - [The Polestar 4 replaces a rear window with a hi-def screen](https://techcrunch.com/2023/04/18/the-polestar-4-replaces-a-rear-window-with-a-hi-def-screen/)
 - [Daily Crunch: Citizen Lab claims Apple’s ‘Lockdown Mode’ helped block spyware attack by hacker group NSO](https://techcrunch.com/2023/04/18/citizen-lab-claims-apples-lockdown-mode-helped-block-spyware-attack-by-hacker-group-nso/)
-- [Einride brings its electric trucks to UK freight sector in partnership with PepsiCo](https://techcrunch.com/2023/04/18/einride-brings-its-electric-trucks-to-u-k-freight-sector-in-partnership-with-pepsico/)
-- [There was just one fintech unicorn birth in the first quarter](https://techcrunch.com/2023/04/18/there-was-just-one-fintech-unicorn-birth-in-the-first-quarter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
