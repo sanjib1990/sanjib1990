@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Damage from violent clashes in Sudan visible from space &lpar;satellite photos&rpar;](https://www.space.com/sudan-clashes-satellite-photos-maxar)
+- [‘Oxenfree II: Lost Signals’ will launch on Netflix and other platforms on July 12](https://techcrunch.com/2023/04/19/oxenfree-ii-lost-signals-will-launch-on-netflix-and-other-platforms-on-july-12/)
+- [Rocket Lab to fly used engine for 1st time later this year](https://www.space.com/rocket-lab-launch-mission-used-engine)
 - [Evermile raises $6M Seed to make local deliveries more economic for small businesses](https://techcrunch.com/2023/04/19/evermile-raises-6m-seed-to-make-local-deliveries-more-economic-for-small-businesses/)
 - [We tried out Canon’s VR calling app Kokomo](https://techcrunch.com/2023/04/19/kokomo-vr-calling-app/)
-- [Hear ClassDojo and SignalFire unpack edtech’s opportunity ahead on TechCrunch Live](https://techcrunch.com/2023/04/19/hear-classdojo-and-signalfire-unpack-edtechs-opportunity-ahead-on-techcrunch-live/)
-- [NationsBenefits confirms thousands had personal data stolen in Fortra breach](https://techcrunch.com/2023/04/19/nationsbenefits-confirms-thousands-had-personal-data-stolen-in-fortra-breach/)
-- [Snapchat’s AI chatbot is now free for all global users, says the AI will later ‘Snap’ you back](https://techcrunch.com/2023/04/19/snapchat-opens-its-ai-chatbot-to-global-users-says-the-ai-will-later-snap-you-back/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
