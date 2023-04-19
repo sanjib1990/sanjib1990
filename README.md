@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [April new moon brings rare hybrid eclipse and ends Ramadan tonight](https://www.space.com/new-moon-april-2023-ends-ramadan)
+- [The Mandalorian season 3 episode 8 review: Star Wars spirit takes over](https://www.space.com/the-mandalorian-season-3-episode-8-review)
+- [Software investors must &lpar;re&rpar;learn these 3 ideas before getting into deep tech](https://techcrunch.com/2023/04/19/software-investors-must-relearn-these-3-ideas-before-getting-into-deep-tech/)
+- [Amazon tops LinkedIn’s list of best places to work, jobseeker priorities shift to workplace culture](https://techcrunch.com/2023/04/19/amazon-tops-linkedins-list-of-best-places-to-work-jobseeker-priorities-shift-to-workplace-culture/)
 - [Climate tech VC firm closes $300M fund after LPs push for broader investment opportunities](https://techcrunch.com/2023/04/19/congruent-ventures-300m-fund/)
-- [Google offers billing choice for UK Play Store devs in bid to settle antitrust prone](https://techcrunch.com/2023/04/19/google-play-store-billing-choice-uk/)
-- [SpaceX, ULA could launch missions for Europe while it waits for its next-generation rocket: report](https://www.space.com/spacex-european-union-launch-contracts)
-- [The moon blocks the sun in a rare hybrid solar eclipse today](https://www.space.com/hybrid-solar-eclipse-moon-blocks-sun-april-2023)
-- [Coro raises $75M at a $575M valuation to grow its all-in-one cybersecurity platform](https://techcrunch.com/2023/04/19/coro-security/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
