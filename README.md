@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Relive SpaceX&#39;s explosive 1st Starship test flight in these incredible launch photos](https://www.space.com/spacex-starship-1st-launch-april-2023-photos)
-- [Google Fi gets a rebrand, expanded smartwatch support, new free trial option and more](https://techcrunch.com/2023/04/20/google-fi-gets-a-rebrand-expanded-smartwatch-support-new-free-trial-option-and-more/)
-- [Paramount alleges Warner Bros. Discovery owes $52M for ‘South Park’ streaming rights](https://techcrunch.com/2023/04/20/paramount-alleges-warner-bros-discovery-owes-52m-for-south-park-streaming-rights/)
-- [Apple’s newest feature helps solve App Store billing issues without bugging developers](https://techcrunch.com/2023/04/20/apples-newest-feature-helps-solve-app-store-billing-issues-without-bugging-developers/)
-- [Why the $830M gaming fund Bitkraft is bullish on Asia](https://techcrunch.com/2023/04/20/gaming-vc-bitkraft-asia/)
+- [India releases space policy detailing public and private cooperation guidelines](https://techcrunch.com/2023/04/20/india-space-policy-2023/)
+- [SpaceX Starship&#39;s explosive test flight: What we saw](https://www.space.com/spacex-starship-first-space-launch-what-we-saw)
+- [SpaceX Starship&#39;s debut launch attempt seen from space &lpar;satellite photo&rpar;](https://www.space.com/spacex-starship-launch-satellite-photos)
+- [Solar eclipse from space! Watch the moon&#39;s shadow sweep across Earth in satellite footage &lpar;video&rpar;](https://www.space.com/hybrid-solar-eclipse-from-space-satellite-video)
+- [Google consolidates AI research divisions into Google DeepMind](https://techcrunch.com/2023/04/20/google-consolidates-ai-research-divisions-into-google-deepmind/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
