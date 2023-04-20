@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Vesey Ventures closes on $78M debut fund to back early-stage fintech startups](https://techcrunch.com/2023/04/20/vesey-ventures-closes-on-78m-debut-fund-to-back-early-stage-fintech-startups/)
-- [Halcyon lands large investment to defend against ransomware](https://techcrunch.com/2023/04/20/halcyon-lands-large-investment-to-defend-against-ransomware/)
-- [Threading the needle: 5 questions for National Grid Partners’ Lisa Lambert](https://techcrunch.com/2023/04/20/climate-change-investing-lisa-lambert/)
-- [Microsoft kickstarts settlement discussions with European cloud trade body over antitrust complaints](https://techcrunch.com/2023/04/20/microsoft-kickstarts-settlement-discussions-with-european-cloud-trade-body-over-antitrust-complaints/)
-- [NASA&#39;s LUCY mission snaps its asteroid targets for the first time](https://www.space.com/nasa-lucy-spots-asteroid-targets-first-time)
+- [Jailbreak tricks Discord’s new chatbot into sharing napalm and meth instructions](https://techcrunch.com/2023/04/20/jailbreak-tricks-discords-new-chatbot-into-sharing-napalm-and-meth-instructions/)
+- [TC Disrupt 2023 Call for Content ends tomorrow](https://techcrunch.com/2023/04/20/tc-disrupt-2023-call-for-content-ends-tomorrow/)
+- [Solar activity may peak 1 year earlier than thought. Here is what it means for us](https://www.space.com/sun-solar-maximum-may-arrive-early)
+- [SpaceX launches fully-stacked Starship for the first time](https://techcrunch.com/2023/04/20/spacex-launches-fully-stacked-starship-for-the-first-time/)
+- [HUSSLUP, a LinkedIn for the entertainment biz, launches web app in beta](https://techcrunch.com/2023/04/20/husslup-a-linkedin-for-the-entertainment-biz-launches-web-app-in-beta/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
