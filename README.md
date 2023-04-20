@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Headphone startup Nura gets acqui-hired by Denon parent, Masimo](https://techcrunch.com/2023/04/20/headphone-startup-nura-gets-acqui-hired-by-denon-parent-masimo/)
 - [SpaceX veterans create startup to power spacecraft with moon water](https://www.space.com/spacex-veterans-water-power-spacecraft-argo-space)
 - [Autotech Ventures’ new $230M mobility fund adds fintech, circular economy to its investment strategy](https://techcrunch.com/2023/04/20/autotech-ventures-new-230m-mobility-fund-adds-fintech-circular-economy-to-its-investment-strategy/)
 - [Coinbase continues overseas expansion amid US regulatory pressure](https://techcrunch.com/2023/04/20/coinbase-is-expanding-further-overseas-amid-us-regulatory-pressure/)
 - [Twitter’s legacy blue checkmark era is officially over](https://techcrunch.com/2023/04/20/twitters-legacy-blue-checkmark-era-is-officially-over/)
-- [Five of Sony’s ‘Spider-Man’ movies are coming to Disney+](https://techcrunch.com/2023/04/20/five-of-sonys-spider-man-movies-are-coming-to-disney-this-spring/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
