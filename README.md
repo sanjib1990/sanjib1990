@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Proton releases end-to-end encrypted password manager for desktop and mobile](https://techcrunch.com/2023/04/20/daily-crunch-proton-releases-end-to-end-encrypted-password-manager-for-desktop-and-mobile/)
+- [Dead NASA satellite crashes to Earth over the Sahara Desert](https://www.space.com/dead-nasa-satellite-rhessi-crashes-to-earth)
+- [Watching SpaceX&#39;s Starship launch as the world&#39;s largest rocket felt simply unreal &lpar;video&rpar;](https://www.space.com/spacex-starship-launch-first-person-experience)
 - [Headphone startup Nura gets acqui-hired by Denon parent, Masimo](https://techcrunch.com/2023/04/20/headphone-startup-nura-gets-acqui-hired-by-denon-parent-masimo/)
 - [SpaceX veterans create startup to power spacecraft with moon water](https://www.space.com/spacex-veterans-water-power-spacecraft-argo-space)
-- [Autotech Ventures’ new $230M mobility fund adds fintech, circular economy to its investment strategy](https://techcrunch.com/2023/04/20/autotech-ventures-new-230m-mobility-fund-adds-fintech-circular-economy-to-its-investment-strategy/)
-- [Coinbase continues overseas expansion amid US regulatory pressure](https://techcrunch.com/2023/04/20/coinbase-is-expanding-further-overseas-amid-us-regulatory-pressure/)
-- [Twitter’s legacy blue checkmark era is officially over](https://techcrunch.com/2023/04/20/twitters-legacy-blue-checkmark-era-is-officially-over/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
