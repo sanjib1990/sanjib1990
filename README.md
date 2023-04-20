@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Snap CEO Evan Spiegel on TikTok ban: ‘We’d love that’](https://techcrunch.com/2023/04/19/snap-ceo-evan-spiegel-tiktok-ban/)
 - [Microsoft kicks Twitter in the teeth](https://techcrunch.com/2023/04/19/microsoft-kicks-twitter-in-the-teeth/)
 - [Inside Hyundai’s plan to turn software into a profit machine](https://techcrunch.com/2023/04/19/inside-hyundais-plan-to-turn-software-into-a-profit-machine/)
 - [Another Starship explosion would be bad news for nearby park managers](https://techcrunch.com/2023/04/19/another-starship-explosion-would-be-bad-news-for-nearby-park-managers/)
 - [Daily Crunch: Meta is dismissing around 4,000 more employees this week](https://techcrunch.com/2023/04/19/daily-crunch-meta-is-dismissing-around-4000-more-employees-this-week/)
-- [Pinterest brings on Google Pixel VP to fill chief product officer position](https://techcrunch.com/2023/04/19/pinterest-brings-on-google-pixel-vp-to-fill-chief-product-officer-position/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
