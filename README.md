@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch SpaceX try to launch Starship to orbit for the first time… again](https://techcrunch.com/2023/04/20/watch-spacex-try-to-launch-starship-to-orbit-for-the-first-time-again/)
-- [3CX’s supply chain attack was caused by… another supply chain attack](https://techcrunch.com/2023/04/20/3cx-supply-chain-xtrader-mandiant/)
-- [Airbus unveils futuristic space station concept &lpar;photos&rpar;](https://www.space.com/airbus-unveils-space-station-concept)
-- [4 problems venture capital can’t solve](https://techcrunch.com/2023/04/20/4-problems-venture-capital-cant-solve/)
-- [Senegal’s logistics tech startup Chargel raises $2.5M seed funding](https://techcrunch.com/2023/04/20/senegals-logistics-tech-startup-chargel-raises-2-5m-seed-funding/)
+- [Vesey Ventures closes on $78M debut fund to back early-stage fintech startups](https://techcrunch.com/2023/04/20/vesey-ventures-closes-on-78m-debut-fund-to-back-early-stage-fintech-startups/)
+- [Halcyon lands large investment to defend against ransomware](https://techcrunch.com/2023/04/20/halcyon-lands-large-investment-to-defend-against-ransomware/)
+- [Threading the needle: 5 questions for National Grid Partners’ Lisa Lambert](https://techcrunch.com/2023/04/20/climate-change-investing-lisa-lambert/)
+- [Microsoft kickstarts settlement discussions with European cloud trade body over antitrust complaints](https://techcrunch.com/2023/04/20/microsoft-kickstarts-settlement-discussions-with-european-cloud-trade-body-over-antitrust-complaints/)
+- [NASA&#39;s LUCY mission snaps its asteroid targets for the first time](https://www.space.com/nasa-lucy-spots-asteroid-targets-first-time)
 <!-- BLOG-POST-LIST:END -->
 
 ---
