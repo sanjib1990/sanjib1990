@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [China launches new weather satellite after airspace closure issue with Taiwan &lpar;video&rpar;](https://www.space.com/china-weather-satellite-launch-fengyun-3g-video)
+- [The moon will appear as a tiny sliver tonight. Can you spot it?](https://www.space.com/crescent-moon-challenge-april-2023)
+- [Uber and Cartken are bringing sidewalk delivery robots to Virginia](https://techcrunch.com/2023/04/20/uber-and-cartken-are-bringing-sidewalk-delivery-robots-to-virginia/)
+- [Proton announces Proton Pass, a password manager](https://techcrunch.com/2023/04/20/proton-announces-proton-pass-a-password-manager/)
 - [Capital crunch shines a light on the importance of founders’ mental health, investors say](https://techcrunch.com/2023/04/20/capital-crunch-shines-a-light-on-the-importance-of-founders-mental-health-investors-say/)
-- [Google Meet now lets you pause video streams of individual tiles](https://techcrunch.com/2023/04/20/google-meet-now-lets-you-pause-video-streams-of-individual-tiles/)
-- [Kate raises $7.6 million for its electric micro-cars](https://techcrunch.com/2023/04/20/kate-raises-76-million-for-its-electric-micro-cars/)
-- [Singapore-based Accredify gets $7M to make sure your documents are real](https://techcrunch.com/2023/04/19/accredify/)
-- [Primo is the IT tool for companies that are too small for an IT manager](https://techcrunch.com/2023/04/19/primo-is-the-it-tool-for-companies-that-are-too-small-for-an-it-manager/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
