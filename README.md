@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Pitch Deck Teardown: Honeycomb’s $50M Series D deck](https://techcrunch.com/2023/04/20/sample-series-d-pitch-deck-honeycomb/)
-- [Robust.AI raises $20M, as it scales robot deliveries for pilot customers](https://techcrunch.com/2023/04/20/robust-ai-raises-20m-as-it-scales-robot-deliveries-for-pilot-customers/)
-- [&#39;Stargate&#39; and &#39;RoboCop&#39; reboots in the works at Amazon: report](https://www.space.com/stargate-robocop-reboot-series-amazon)
-- [Jack Dorsey-backed Twitter alternative Bluesky hits Android](https://techcrunch.com/2023/04/20/jack-dorsey-backed-twitter-alternative-bluesky-hits-android/)
-- [SpaceX&#39;s 1st Starship launches on epic test flight, explodes in &#39;rapid unscheduled disassembly&#39;](https://www.space.com/spacex-starship-first-space-launch)
+- [Google Fi gets a rebrand, expanded smartwatch support, new free trial option and more](https://techcrunch.com/2023/04/20/google-fi-gets-a-rebrand-expanded-smartwatch-support-new-free-trial-option-and-more/)
+- [Paramount alleges Warner Bros. Discovery owes $52M for ‘South Park’ streaming rights](https://techcrunch.com/2023/04/20/paramount-alleges-warner-bros-discovery-owes-52m-for-south-park-streaming-rights/)
+- [Apple’s newest feature helps solve App Store billing issues without bugging developers](https://techcrunch.com/2023/04/20/apples-newest-feature-helps-solve-app-store-billing-issues-without-bugging-developers/)
+- [Why the $830M gaming fund Bitkraft is bullish on Asia](https://techcrunch.com/2023/04/20/gaming-vc-bitkraft-asia/)
+- [Space pictures! See our image of the day](https://www.space.com/34-image-day.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
