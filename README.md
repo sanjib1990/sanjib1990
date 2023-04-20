@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Imgur will ban explicit images on its platform this month](https://techcrunch.com/2023/04/20/imgur-will-ban-explicit-images-on-its-platform-this-month/)
-- [China launches new weather satellite after airspace closure issue with Taiwan &lpar;video&rpar;](https://www.space.com/china-weather-satellite-launch-fengyun-3g-video)
-- [The moon will appear as a tiny sliver tonight. Can you spot it?](https://www.space.com/crescent-moon-challenge-april-2023)
-- [Uber and Cartken are bringing sidewalk delivery robots to Virginia](https://techcrunch.com/2023/04/20/uber-and-cartken-are-bringing-sidewalk-delivery-robots-to-virginia/)
-- [Proton announces Proton Pass, a password manager](https://techcrunch.com/2023/04/20/proton-announces-proton-pass-a-password-manager/)
+- [Watch SpaceX try to launch Starship to orbit for the first time… again](https://techcrunch.com/2023/04/20/watch-spacex-try-to-launch-starship-to-orbit-for-the-first-time-again/)
+- [3CX’s supply chain attack was caused by… another supply chain attack](https://techcrunch.com/2023/04/20/3cx-supply-chain-xtrader-mandiant/)
+- [Airbus unveils futuristic space station concept &lpar;photos&rpar;](https://www.space.com/airbus-unveils-space-station-concept)
+- [4 problems venture capital can’t solve](https://techcrunch.com/2023/04/20/4-problems-venture-capital-cant-solve/)
+- [Senegal’s logistics tech startup Chargel raises $2.5M seed funding](https://techcrunch.com/2023/04/20/senegals-logistics-tech-startup-chargel-raises-2-5m-seed-funding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
