@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Jailbreak tricks Discord’s new chatbot into sharing napalm and meth instructions](https://techcrunch.com/2023/04/20/jailbreak-tricks-discords-new-chatbot-into-sharing-napalm-and-meth-instructions/)
-- [TC Disrupt 2023 Call for Content ends tomorrow](https://techcrunch.com/2023/04/20/tc-disrupt-2023-call-for-content-ends-tomorrow/)
-- [Solar activity may peak 1 year earlier than thought. Here is what it means for us](https://www.space.com/sun-solar-maximum-may-arrive-early)
-- [SpaceX launches fully-stacked Starship for the first time](https://techcrunch.com/2023/04/20/spacex-launches-fully-stacked-starship-for-the-first-time/)
-- [HUSSLUP, a LinkedIn for the entertainment biz, launches web app in beta](https://techcrunch.com/2023/04/20/husslup-a-linkedin-for-the-entertainment-biz-launches-web-app-in-beta/)
+- [Pitch Deck Teardown: Honeycomb’s $50M Series D deck](https://techcrunch.com/2023/04/20/sample-series-d-pitch-deck-honeycomb/)
+- [Robust.AI raises $20M, as it scales robot deliveries for pilot customers](https://techcrunch.com/2023/04/20/robust-ai-raises-20m-as-it-scales-robot-deliveries-for-pilot-customers/)
+- [&#39;Stargate&#39; and &#39;RoboCop&#39; reboots in the works at Amazon: report](https://www.space.com/stargate-robocop-reboot-series-amazon)
+- [Jack Dorsey-backed Twitter alternative Bluesky hits Android](https://techcrunch.com/2023/04/20/jack-dorsey-backed-twitter-alternative-bluesky-hits-android/)
+- [SpaceX&#39;s 1st Starship launches on epic test flight, explodes in &#39;rapid unscheduled disassembly&#39;](https://www.space.com/spacex-starship-first-space-launch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
