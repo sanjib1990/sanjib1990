@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Meet now lets you pause video streams of individual tiles](https://techcrunch.com/2023/04/20/google-meet-now-lets-you-pause-video-streams-of-individual-tiles/)
 - [Kate raises $7.6 million for its electric micro-cars](https://techcrunch.com/2023/04/20/kate-raises-76-million-for-its-electric-micro-cars/)
 - [Singapore-based Accredify gets $7M to make sure your documents are real](https://techcrunch.com/2023/04/19/accredify/)
 - [Primo is the IT tool for companies that are too small for an IT manager](https://techcrunch.com/2023/04/19/primo-is-the-it-tool-for-companies-that-are-too-small-for-an-it-manager/)
 - [Snap CEO Evan Spiegel on TikTok ban: ‘We’d love that’](https://techcrunch.com/2023/04/19/snap-ceo-evan-spiegel-tiktok-ban/)
-- [Microsoft kicks Twitter in the teeth](https://techcrunch.com/2023/04/19/microsoft-kicks-twitter-in-the-teeth/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
