@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Imgur will ban explicit images on its platform this month](https://techcrunch.com/2023/04/20/imgur-will-ban-explicit-images-on-its-platform-this-month/)
 - [China launches new weather satellite after airspace closure issue with Taiwan &lpar;video&rpar;](https://www.space.com/china-weather-satellite-launch-fengyun-3g-video)
 - [The moon will appear as a tiny sliver tonight. Can you spot it?](https://www.space.com/crescent-moon-challenge-april-2023)
 - [Uber and Cartken are bringing sidewalk delivery robots to Virginia](https://techcrunch.com/2023/04/20/uber-and-cartken-are-bringing-sidewalk-delivery-robots-to-virginia/)
 - [Proton announces Proton Pass, a password manager](https://techcrunch.com/2023/04/20/proton-announces-proton-pass-a-password-manager/)
-- [Capital crunch shines a light on the importance of founders’ mental health, investors say](https://techcrunch.com/2023/04/20/capital-crunch-shines-a-light-on-the-importance-of-founders-mental-health-investors-say/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
