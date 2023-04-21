@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Chaos reigns after Twitter’s blue checks vanish](https://techcrunch.com/2023/04/20/chaos-reigns-after-twitters-blue-checks-vanish/)
 - [Watch Cygnus cargo spacecraft leave the space station Friday morning](https://www.space.com/northrop-grumman-cygnus-sally-ride-space-station-departure)
 - [Three-wheeled EV startup Arcimoto shuffles leadership again](https://techcrunch.com/2023/04/20/three-wheeled-ev-startup-arcimoto-shuffles-leadership-again/)
 - [Daily Crunch: Proton releases end-to-end encrypted password manager for desktop and mobile](https://techcrunch.com/2023/04/20/daily-crunch-proton-releases-end-to-end-encrypted-password-manager-for-desktop-and-mobile/)
 - [Dead NASA satellite crashes to Earth over the Sahara Desert](https://www.space.com/dead-nasa-satellite-rhessi-crashes-to-earth)
-- [Watching SpaceX&#39;s Starship launch as the world&#39;s largest rocket felt simply unreal &lpar;video&rpar;](https://www.space.com/spacex-starship-launch-first-person-experience)
 <!-- BLOG-POST-LIST:END -->
 
 ---
