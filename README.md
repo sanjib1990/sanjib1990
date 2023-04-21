@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Diversity will be key to Artemis moon-to-Mars push, NASA officials say](https://www.space.com/artemis-moon-mars-push-diversity-key)
-- [Coinbase’s layer-2 blockchain Base plans for 2023 mainnet launch](https://techcrunch.com/2023/04/21/coinbases-layer-2-blockchain-base-plans-for-2023-mainnet-launch/)
-- [As the UK readies its first nationwide Emergency Alerts test this Sunday, here’s everything you need to know](https://techcrunch.com/2023/04/21/uk-emergency-alerts-test-sunday-23-april-3pm/)
-- [Google’s Bard AI chatbot can now generate and debug code](https://techcrunch.com/2023/04/21/googles-bard-ai-chatbot-can-now-generate-and-debug-code/)
-- [Xaviar ‘X’ Jernigan, the voice of Spotify’s DJ, explains what it’s like to become an AI](https://techcrunch.com/2023/04/21/xaviar-x-jernigan-spotify-dj-ai/)
+- [Mid-Infrared Instrument Operations Update](https://blogs.nasa.gov/webb/2023/04/21/mid-infrared-instrument-operations-update-2/)
+- [TechCrunch+ roundup: Deep tech tips for SaaS VCs, toxic fundraising, student visa startup options](https://techcrunch.com/2023/04/21/techcrunch-roundup-deep-tech-tips-for-saas-vcs-toxic-fundraising-student-visa-startup-options/)
+- [&#39;Star Trek: Picard&#39; season 3 episode 10 is a fun but fundamentally flawed series finale](https://www.space.com/star-trek-picard-season-3-episode-10-review)
+- [Twitter removes ‘government-funded’ news labels after NPR and other flubs](https://techcrunch.com/2023/04/21/twitter-removes-government-funded-news-labels-after-npr-and-other-flubs/)
+- [UAE&#39;s 1st long-duration astronaut celebrates Eid in space to end Ramadan](https://www.space.com/uae-astronaut-ramadan-end-eid-in-space)
 <!-- BLOG-POST-LIST:END -->
 
 ---
