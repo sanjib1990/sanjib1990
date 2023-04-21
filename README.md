@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Betterdata uses synthetic data to keep real data safe](https://techcrunch.com/2023/04/20/betterdata/)
 - [Google asks court to dismiss multiple claims in Epic Games antitrust trial](https://techcrunch.com/2023/04/20/google-asks-court-to-dismiss-multiple-claims-in-epic-games-antitrust-trial/)
 - [Chaos reigns after Twitter’s blue checks vanish](https://techcrunch.com/2023/04/20/chaos-reigns-after-twitters-blue-checks-vanish/)
 - [Watch Cygnus cargo spacecraft leave the space station Friday morning](https://www.space.com/northrop-grumman-cygnus-sally-ride-space-station-departure)
 - [Three-wheeled EV startup Arcimoto shuffles leadership again](https://techcrunch.com/2023/04/20/three-wheeled-ev-startup-arcimoto-shuffles-leadership-again/)
-- [Daily Crunch: Proton releases end-to-end encrypted password manager for desktop and mobile](https://techcrunch.com/2023/04/20/daily-crunch-proton-releases-end-to-end-encrypted-password-manager-for-desktop-and-mobile/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
