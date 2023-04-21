@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Early Stage 2023: IRL is B-A-C-K](https://techcrunch.com/2023/04/21/early-stage-2023-in-person/)
+- [Everything you need to know about cloud outage insurance](https://techcrunch.com/2023/04/21/cloud-outage-insurance/)
 - [Is there a future in light-powered AI chips?](https://techcrunch.com/2023/04/21/light-powered-ai-chips-future/)
 - [Perseverance Mars rover snaps amazing shot of dusty Ingenuity helicopter &lpar;photo&rpar;](https://www.space.com/perseverance-mars-rover-ingenuity-helicopter-dusty-photo)
 - [It’s your last day to apply to speak at TC Disrupt](https://techcrunch.com/2023/04/21/last-day-apply-to-speak-disrupt-2023/)
-- [Linux Foundation launches new organization to maintain TLA+](https://techcrunch.com/2023/04/21/linux-foundation-launches-new-organization-to-maintain-tla/)
-- [The IRS is sending four investigators across the world to fight cybercrime](https://techcrunch.com/2023/04/21/the-irs-is-sending-four-investigators-across-the-world-to-fight-cybercrime/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
