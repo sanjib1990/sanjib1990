@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Black Series Bo-Katan Kryze Helmet review](https://www.space.com/black-series-bo-katan-kryze-helmet-review)
 - [Early Stage 2023: IRL is B-A-C-K](https://techcrunch.com/2023/04/21/early-stage-2023-in-person/)
 - [Everything you need to know about cloud outage insurance](https://techcrunch.com/2023/04/21/cloud-outage-insurance/)
+- [Mysterious green lasers caught on camera belong to NASA satellite &lpar;video&rpar;](https://www.space.com/nasa-green-lasers-satellite-photo)
 - [Is there a future in light-powered AI chips?](https://techcrunch.com/2023/04/21/light-powered-ai-chips-future/)
-- [Perseverance Mars rover snaps amazing shot of dusty Ingenuity helicopter &lpar;photo&rpar;](https://www.space.com/perseverance-mars-rover-ingenuity-helicopter-dusty-photo)
-- [It’s your last day to apply to speak at TC Disrupt](https://techcrunch.com/2023/04/21/last-day-apply-to-speak-disrupt-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
