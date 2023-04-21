@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta can be sued in Kenya over alleged unlawful layoffs and blacklisting of moderators, court rules](https://techcrunch.com/2023/04/20/meta-can-be-sued-in-kenya-over-alleged-unlawful-sacking-and-blacklisting-of-moderators-court-rules/)
 - [Betterdata uses synthetic data to keep real data safe](https://techcrunch.com/2023/04/20/betterdata/)
 - [Google asks court to dismiss multiple claims in Epic Games antitrust trial](https://techcrunch.com/2023/04/20/google-asks-court-to-dismiss-multiple-claims-in-epic-games-antitrust-trial/)
 - [Chaos reigns after Twitter’s blue checks vanish](https://techcrunch.com/2023/04/20/chaos-reigns-after-twitters-blue-checks-vanish/)
 - [Watch Cygnus cargo spacecraft leave the space station Friday morning](https://www.space.com/northrop-grumman-cygnus-sally-ride-space-station-departure)
-- [Three-wheeled EV startup Arcimoto shuffles leadership again](https://techcrunch.com/2023/04/20/three-wheeled-ev-startup-arcimoto-shuffles-leadership-again/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
