@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Black Series Bo-Katan Kryze Helmet review](https://www.space.com/black-series-bo-katan-kryze-helmet-review)
-- [Early Stage 2023: IRL is B-A-C-K](https://techcrunch.com/2023/04/21/early-stage-2023-in-person/)
-- [Everything you need to know about cloud outage insurance](https://techcrunch.com/2023/04/21/cloud-outage-insurance/)
-- [Mysterious green lasers caught on camera belong to NASA satellite &lpar;video&rpar;](https://www.space.com/nasa-green-lasers-satellite-photo)
-- [Is there a future in light-powered AI chips?](https://techcrunch.com/2023/04/21/light-powered-ai-chips-future/)
+- [Diversity will be key to Artemis moon-to-Mars push, NASA officials say](https://www.space.com/artemis-moon-mars-push-diversity-key)
+- [Coinbase’s layer-2 blockchain Base plans for 2023 mainnet launch](https://techcrunch.com/2023/04/21/coinbases-layer-2-blockchain-base-plans-for-2023-mainnet-launch/)
+- [As the UK readies its first nationwide Emergency Alerts test this Sunday, here’s everything you need to know](https://techcrunch.com/2023/04/21/uk-emergency-alerts-test-sunday-23-april-3pm/)
+- [Google’s Bard AI chatbot can now generate and debug code](https://techcrunch.com/2023/04/21/googles-bard-ai-chatbot-can-now-generate-and-debug-code/)
+- [Xaviar ‘X’ Jernigan, the voice of Spotify’s DJ, explains what it’s like to become an AI](https://techcrunch.com/2023/04/21/xaviar-x-jernigan-spotify-dj-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
