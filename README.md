@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Artificial intelligence to aid future exoplanet hunt](https://www.space.com/ai-exoplanet-challenge)
-- [Twitter seemingly now requires all advertisers to have a verified checkmark](https://techcrunch.com/2023/04/21/twitter-seemingly-now-requires-all-advertisers-to-have-a-verified-checkmark/)
-- [Playmobil Klingon Bird of Prey review](https://www.space.com/playmobil-klingon-bird-of-prey-review)
-- [Starship up close! See giant SpaceX rocket lift off in slo-mo launch tower video](https://www.space.com/spacex-starship-launch-tower-slo-mo-video)
-- [NASA chief hails SpaceX&#39;s 1st Starship launch despite explosion](https://www.space.com/nasa-hails-1st-spacex-starship-launch-april-2023)
+- [Is there a future in light-powered AI chips?](https://techcrunch.com/2023/04/21/light-powered-ai-chips-future/)
+- [Perseverance Mars rover snaps amazing shot of dusty Ingenuity helicopter &lpar;photo&rpar;](https://www.space.com/perseverance-mars-rover-ingenuity-helicopter-dusty-photo)
+- [It’s your last day to apply to speak at TC Disrupt](https://techcrunch.com/2023/04/21/last-day-apply-to-speak-disrupt-2023/)
+- [Linux Foundation launches new organization to maintain TLA+](https://techcrunch.com/2023/04/21/linux-foundation-launches-new-organization-to-maintain-tla/)
+- [The IRS is sending four investigators across the world to fight cybercrime](https://techcrunch.com/2023/04/21/the-irs-is-sending-four-investigators-across-the-world-to-fight-cybercrime/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
