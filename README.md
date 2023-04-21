@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Starship up close! See giant SpaceX rocket lift off in slo-mo launch tower video](https://www.space.com/spacex-starship-launch-tower-slo-mo-video)
+- [NASA chief hails SpaceX&#39;s 1st Starship launch despite explosion](https://www.space.com/nasa-hails-1st-spacex-starship-launch-april-2023)
 - [Home energy assessment startup Enter raises €19.4M Series A to expand in Germany and beyond](https://techcrunch.com/2023/04/21/home-energy-assessment-startup-enter-raises-e19-4m-series-a-to-expand-in-germany-and-beyond/)
 - [Founders Pledge launches VC arm, Pledge Ventures, to create new ‘flywheel’ in philanthropy](https://techcrunch.com/2023/04/21/founders-pledge-launches-vc-arm-pledge-ventures-to-create-new-flywheel-in-philanthropy/)
 - [Meta can be sued in Kenya over alleged unlawful layoffs and blacklisting of moderators, court rules](https://techcrunch.com/2023/04/20/meta-can-be-sued-in-kenya-over-alleged-unlawful-sacking-and-blacklisting-of-moderators-court-rules/)
-- [Betterdata uses synthetic data to keep real data safe](https://techcrunch.com/2023/04/20/betterdata/)
-- [Google asks court to dismiss multiple claims in Epic Games antitrust trial](https://techcrunch.com/2023/04/20/google-asks-court-to-dismiss-multiple-claims-in-epic-games-antitrust-trial/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
