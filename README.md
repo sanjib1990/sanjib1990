@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch Indian rocket launch 2 Singaporean satellites early Saturday](https://www.space.com/india-pslv-rocket-launch-april-2023)
+- [EU lawmakers eye tiered approach to regulating generative AI](https://techcrunch.com/2023/04/21/eu-ai-act-generative-ai/)
+- [Lyft to make ‘significant’ cuts across ride-hailing company](https://techcrunch.com/2023/04/21/lyft-to-make-significant-cuts-across-ride-hailing-company/)
 - [Mid-Infrared Instrument Operations Update](https://blogs.nasa.gov/webb/2023/04/21/mid-infrared-instrument-operations-update-2/)
 - [TechCrunch+ roundup: Deep tech tips for SaaS VCs, toxic fundraising, student visa startup options](https://techcrunch.com/2023/04/21/techcrunch-roundup-deep-tech-tips-for-saas-vcs-toxic-fundraising-student-visa-startup-options/)
-- [&#39;Star Trek: Picard&#39; season 3 episode 10 is a fun but fundamentally flawed series finale](https://www.space.com/star-trek-picard-season-3-episode-10-review)
-- [Twitter removes ‘government-funded’ news labels after NPR and other flubs](https://techcrunch.com/2023/04/21/twitter-removes-government-funded-news-labels-after-npr-and-other-flubs/)
-- [UAE&#39;s 1st long-duration astronaut celebrates Eid in space to end Ramadan](https://www.space.com/uae-astronaut-ramadan-end-eid-in-space)
 <!-- BLOG-POST-LIST:END -->
 
 ---
