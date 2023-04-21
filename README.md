@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX’s successful failure is a wake-up call for Starship’s timeline](https://techcrunch.com/2023/04/21/starship-successful-failure-wake-up-call/)
 - [Watch Indian rocket launch 2 Singaporean satellites early Saturday](https://www.space.com/india-pslv-rocket-launch-april-2023)
 - [EU lawmakers eye tiered approach to regulating generative AI](https://techcrunch.com/2023/04/21/eu-ai-act-generative-ai/)
 - [Lyft to make ‘significant’ cuts across ride-hailing company](https://techcrunch.com/2023/04/21/lyft-to-make-significant-cuts-across-ride-hailing-company/)
 - [Mid-Infrared Instrument Operations Update](https://blogs.nasa.gov/webb/2023/04/21/mid-infrared-instrument-operations-update-2/)
-- [TechCrunch+ roundup: Deep tech tips for SaaS VCs, toxic fundraising, student visa startup options](https://techcrunch.com/2023/04/21/techcrunch-roundup-deep-tech-tips-for-saas-vcs-toxic-fundraising-student-visa-startup-options/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
