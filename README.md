@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX celebrated Starship&#39;s 1st launch. Some locals called it &#39;truly terrifying&#39;](https://www.space.com/spacex-starship-launch-debris-terrifying)
 - [Daily Crunch: Starting today, Twitter says all advertisers must obtain verified accounts](https://techcrunch.com/2023/04/21/daily-crunch-starting-today-twitter-says-all-advertisers-must-obtain-verified-accounts/)
 - [What&#39;s next for SpaceX&#39;s Starship after its historic flight test?](https://www.space.com/spacex-starship-flight-test-whats-next)
 - [Tesla wins Autopilot crash case in California](https://techcrunch.com/2023/04/21/tesla-wins-autopilot-crash-case-in-california/)
 - [Starlink satellite train: How to see and track it in the night sky](https://www.space.com/starlink-satellite-train-how-to-see-and-track-it)
-- [SpaceX’s successful failure is a wake-up call for Starship’s timeline](https://techcrunch.com/2023/04/21/starship-successful-failure-wake-up-call/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
