@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mars on Earth: What months of simulated astronaut missions taught this scientist](https://www.space.com/mars-on-earth-simulated-astronaut-missions-anastasia-stepanova)
+- [What is Auto-GPT and why does it matter?](https://techcrunch.com/2023/04/22/what-is-auto-gpt-and-why-does-it-matter/)
 - [How does astronomy use the electromagnetic spectrum?](https://www.space.com/electromagnetic-spectrum-use-in-astronomy)
 - [&#39;Look what I found!&#39; SpaceX urges finders to report debris from Starship test flight](https://www.space.com/spacex-starship-test-flight-debris-hotline)
 - [Fly, and fly again: Private astronauts take to the skies on Zero-G training flights](https://www.space.com/private-astronauts-zero-g-parabolic-flights)
-- [Earth Day: The best recipe for living in space borrows ideas from our planet](https://www.space.com/earth-day-recipe-living-in-space)
-- [Catch a falling star as the Lyrid meteor shower peaks tonight](https://www.space.com/lyrid-meteor-shower-peak-april-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
