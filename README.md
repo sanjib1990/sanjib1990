@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Read the room](https://techcrunch.com/2023/04/22/understand-your-audience/)
 - [How technology unlocks business models: The story of Netflix](https://techcrunch.com/2023/04/22/netflix-history-25-years/)
 - [Space station astronauts get Earth Day call from Post Malone &lpar;video&rpar;](https://www.space.com/space-station-astronauts-post-malone-earth-day)
 - [Mars on Earth: What months of simulated astronaut missions taught this scientist](https://www.space.com/mars-on-earth-simulated-astronaut-missions-anastasia-stepanova)
 - [What is Auto-GPT and why does it matter?](https://techcrunch.com/2023/04/22/what-is-auto-gpt-and-why-does-it-matter/)
-- [How does astronomy use the electromagnetic spectrum?](https://www.space.com/electromagnetic-spectrum-use-in-astronomy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
