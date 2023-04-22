@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Week in Apps: Apple ‘sherlocks’ journaling apps, Twitter’s checkmark apocalypse, Snap summit recap](https://techcrunch.com/2023/04/22/this-week-in-apps-apple-sherlocks-journaling-apps-twitters-checkmark-apocalypse-snap-summit-recap/)
 - [Read the room](https://techcrunch.com/2023/04/22/understand-your-audience/)
 - [How technology unlocks business models: The story of Netflix](https://techcrunch.com/2023/04/22/netflix-history-25-years/)
 - [Space station astronauts get Earth Day call from Post Malone &lpar;video&rpar;](https://www.space.com/space-station-astronauts-post-malone-earth-day)
 - [Mars on Earth: What months of simulated astronaut missions taught this scientist](https://www.space.com/mars-on-earth-simulated-astronaut-missions-anastasia-stepanova)
-- [What is Auto-GPT and why does it matter?](https://techcrunch.com/2023/04/22/what-is-auto-gpt-and-why-does-it-matter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
