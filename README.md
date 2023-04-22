@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [As AI eliminates jobs, a way to keep people afloat financially &lpar;that’s not UBI&rpar;](https://techcrunch.com/2023/04/21/as-ai-eliminates-jobs-a-way-to-keep-people-afloat-financially-thats-not-ubi/)
+- [We all contribute to AI — should we get paid for that?](https://techcrunch.com/2023/04/21/as-ai-eliminates-jobs-a-way-to-keep-people-afloat-financially-thats-not-ubi/)
 - [Missouri trans ‘snitch form’ down after people spammed it with the ‘Bee Movie’ script](https://techcrunch.com/2023/04/21/missouri-trans-snitch-form-down-after-people-spammed-it-with-the-bee-movie-script/)
 - [SpaceX celebrated Starship&#39;s 1st launch. Some locals called it &#39;truly terrifying&#39;](https://www.space.com/spacex-starship-launch-debris-terrifying)
 - [Daily Crunch: Starting today, Twitter says all advertisers must obtain verified accounts](https://techcrunch.com/2023/04/21/daily-crunch-starting-today-twitter-says-all-advertisers-must-obtain-verified-accounts/)
