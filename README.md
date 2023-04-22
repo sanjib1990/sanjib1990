@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fly, and fly again: Private astronauts take to the skies on Zero-G training flights](https://www.space.com/private-astronauts-zero-g-parabolic-flights)
+- [Earth Day: The best recipe for living in space borrows ideas from our planet](https://www.space.com/earth-day-recipe-living-in-space)
+- [Catch a falling star as the Lyrid meteor shower peaks tonight](https://www.space.com/lyrid-meteor-shower-peak-april-2023)
 - [We all contribute to AI — should we get paid for that?](https://techcrunch.com/2023/04/21/as-ai-eliminates-jobs-a-way-to-keep-people-afloat-financially-thats-not-ubi/)
 - [Missouri trans ‘snitch form’ down after people spammed it with the ‘Bee Movie’ script](https://techcrunch.com/2023/04/21/missouri-trans-snitch-form-down-after-people-spammed-it-with-the-bee-movie-script/)
-- [SpaceX celebrated Starship&#39;s 1st launch. Some locals called it &#39;truly terrifying&#39;](https://www.space.com/spacex-starship-launch-debris-terrifying)
-- [Daily Crunch: Starting today, Twitter says all advertisers must obtain verified accounts](https://techcrunch.com/2023/04/21/daily-crunch-starting-today-twitter-says-all-advertisers-must-obtain-verified-accounts/)
-- [What&#39;s next for SpaceX&#39;s Starship after its historic flight test?](https://www.space.com/spacex-starship-flight-test-whats-next)
 <!-- BLOG-POST-LIST:END -->
 
 ---
