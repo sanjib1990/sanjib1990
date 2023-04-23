@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [For your pitch, last impressions count almost as much as first impressions](https://techcrunch.com/2023/04/23/last-impressions-matter/)
+- [Early-stage fintech startups just got a new funding source](https://techcrunch.com/2023/04/23/more-money-for-early-stage-fintech-startups/)
 - [How Swytch used ‘crowdshopping’ to scale without VC money](https://techcrunch.com/2023/04/23/how-sywtch-used-crowdshopping-to-scale-without-vc-money/)
 - [&#39;The Expanse: Dragon Tooth&#39; creators on how their new comic series delivers the juice &lpar;exclusive&rpar;](https://www.space.com/the-expanse-dragon-tooth-comic-series-creators)
 - [Aventurine helps early-stage founders find their footing](https://techcrunch.com/2023/04/23/aventurine-capital-group-early-stage/)
-- [&#39;Star Wars Jedi: Survivor:&#39; Cal Kestis battles a Rancor in final gameplay trailer from Star Wars Celebration](https://www.space.com/star-wars-jedi-survivor-final-gameplay-trailer)
-- [China prepping next space station cargo mission for May launch](https://www.space.com/china-preparing-tianzhou-6-cargo-mission-tiangong)
 <!-- BLOG-POST-LIST:END -->
 
 ---
