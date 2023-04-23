@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [China prepping next space station cargo mission for May launch](https://www.space.com/china-preparing-tianzhou-6-cargo-mission-tiangong)
 - [AI-generated chart toppers, Apple gets into savings, and Microsoft drops Twitter](https://techcrunch.com/2023/04/22/ai-generated-chart-toppers-apple-gets-into-savings-and-microsoft-drops-twitter/)
 - [This Week in Apps: Apple ‘sherlocks’ journaling apps, Twitter’s checkmark apocalypse, Snap summit recap](https://techcrunch.com/2023/04/22/this-week-in-apps-apple-sherlocks-journaling-apps-twitters-checkmark-apocalypse-snap-summit-recap/)
 - [Read the room](https://techcrunch.com/2023/04/22/understand-your-audience/)
 - [How technology unlocks business models: The story of Netflix](https://techcrunch.com/2023/04/22/netflix-history-25-years/)
-- [Space station astronauts get Earth Day call from Post Malone &lpar;video&rpar;](https://www.space.com/space-station-astronauts-post-malone-earth-day)
 <!-- BLOG-POST-LIST:END -->
 
 ---
