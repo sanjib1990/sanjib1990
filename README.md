@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How Swytch used ‘crowdshopping’ to scale without VC money](https://techcrunch.com/2023/04/23/how-sywtch-used-crowdshopping-to-scale-without-vc-money/)
+- [&#39;The Expanse: Dragon Tooth&#39; creators on how their new comic series delivers the juice &lpar;exclusive&rpar;](https://www.space.com/the-expanse-dragon-tooth-comic-series-creators)
 - [Aventurine helps early-stage founders find their footing](https://techcrunch.com/2023/04/23/aventurine-capital-group-early-stage/)
 - [&#39;Star Wars Jedi: Survivor:&#39; Cal Kestis battles a Rancor in final gameplay trailer from Star Wars Celebration](https://www.space.com/star-wars-jedi-survivor-final-gameplay-trailer)
 - [China prepping next space station cargo mission for May launch](https://www.space.com/china-preparing-tianzhou-6-cargo-mission-tiangong)
-- [AI-generated chart toppers, Apple gets into savings, and Microsoft drops Twitter](https://techcrunch.com/2023/04/22/ai-generated-chart-toppers-apple-gets-into-savings-and-microsoft-drops-twitter/)
-- [This Week in Apps: Apple ‘sherlocks’ journaling apps, Twitter’s checkmark apocalypse, Snap summit recap](https://techcrunch.com/2023/04/22/this-week-in-apps-apple-sherlocks-journaling-apps-twitters-checkmark-apocalypse-snap-summit-recap/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
