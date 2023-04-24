@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Vortex Crossfire HD 10x42 binoculars are now 34% off](https://www.space.com/vortex-crossfire-hd-10x42-binoculars-deal-amazon-lowest-price)
 - [Oura/Best Buy partnership brings the smart ring to 850 stores across the US](https://techcrunch.com/2023/04/24/oura-best-buy-partnership-brings-the-smart-ring-to-850-stores-across-the-us/)
 - [Constrafor, a construction procurement company, goes ‘SAFE’ route with new capital](https://techcrunch.com/2023/04/24/constrafor-construction-procurement-fintech/)
 - [Shopify adds direct bill payments in bid to be a single-stop fintech for merchants](https://techcrunch.com/2023/04/24/shopify-adds-direct-bill-payments-in-bid-to-be-a-single-stop-fintech-for-merchants/)
 - [Twitter gave a gold checkmark to a fake Disney account](https://techcrunch.com/2023/04/24/twitter-gave-a-gold-checkmark-to-a-fake-disney-account/)
-- [Woodoo is creating decarbonized wood-based materials](https://techcrunch.com/2023/04/24/woodoo-is-creating-decarbonized-wood-based-materials/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
