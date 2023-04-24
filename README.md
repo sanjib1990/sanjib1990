@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [10 years of fintech failure: 3 more ideas that failed to live up to the initial hype](https://techcrunch.com/2023/04/24/10-years-of-fintech-failure-3-more-ideas-that-failed-to-live-up-to-the-initial-hype/)
-- [Unpacking the Twitter blues](https://techcrunch.com/2023/04/24/unpacking-the-twitter-blues/)
-- [A private moon lander will make history when it touches down on April 25. Here&#39;s how to watch it live](https://www.space.com/historic-moon-private-landing-ispace-webcast)
-- [Apigee rolls out new AI-powered API protection features](https://techcrunch.com/2023/04/24/apigee-rolls-out-new-ai-powered-api-protection-features/)
-- [Volvo Cars Tech Fund invests in driver monitoring startup CorrActions](https://techcrunch.com/2023/04/24/volvo-cars-tech-fund-invests-in-driver-monitoring-startup-corractions/)
+- [Apple wins antitrust court battle with Epic Games, appeals court rules](https://techcrunch.com/2023/04/24/apple-wins-antitrust-court-battle-with-epic-games-appeals-court-rules/)
+- [Precision fermentation’s capacity craze: Have we lost the plot?](https://techcrunch.com/2023/04/24/precision-fermentations-capacity-craze-have-we-lost-the-plot/)
+- [Russian spacewalk to move airlock outside space station postponed](https://www.space.com/russian-iss-spacewalk-airlock-move-postponed)
+- [Google Authenticator can now sync 2FA codes to the cloud](https://techcrunch.com/2023/04/24/google-authenticator-can-now-sync-2fa-codes-to-the-cloud/)
+- [James Webb Space Telescope faces sensor glitch in deep space](https://www.space.com/james-webb-space-telescope-miri-sensor-glitch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
