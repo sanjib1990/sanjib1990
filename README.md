@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch NASA assemble the massive Artemis 2 rocket that will take humans back to the moon &lpar;video&rpar;](https://www.space.com/nasa-assemble-artemis-2-moon-rocket-video)
+- [GitLab’s new security feature uses AI to explain vulnerabilities to developers](https://techcrunch.com/2023/04/24/gitlabs-new-security-feature-uses-ai-to-explain-vulnerabilities-to-developers/)
 - [Apple wins antitrust court battle with Epic Games, appeals court rules](https://techcrunch.com/2023/04/24/apple-wins-antitrust-court-battle-with-epic-games-appeals-court-rules/)
 - [Precision fermentation’s capacity craze: Have we lost the plot?](https://techcrunch.com/2023/04/24/precision-fermentations-capacity-craze-have-we-lost-the-plot/)
 - [Russian spacewalk to move airlock outside space station postponed](https://www.space.com/russian-iss-spacewalk-airlock-move-postponed)
-- [Google Authenticator can now sync 2FA codes to the cloud](https://techcrunch.com/2023/04/24/google-authenticator-can-now-sync-2fa-codes-to-the-cloud/)
-- [James Webb Space Telescope faces sensor glitch in deep space](https://www.space.com/james-webb-space-telescope-miri-sensor-glitch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
