@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Teaching with MIT OpenCourseWare: Case Studies from Nigeria](https://www.youtube.com/watch?v=x_pU4g1UWIk)
 - [10 Math Concepts for Programmers](https://www.youtube.com/watch?v=bOCHTHkBoAs)
 - [I built a react app… but with a visual editor](https://www.youtube.com/watch?v=tszI9GrH1u0)
 - [S4E8: Honoring Your Native Language with Prof. Michel DeGraff](https://www.youtube.com/watch?v=jiAi2e3oil4)
 - [Music Industry on life support right now](https://www.youtube.com/watch?v=LkrI3erbUtw)
-- [AWS CodeWhisperer… The Copilot Killer?](https://www.youtube.com/watch?v=FJACTC9wFhU)
 <!-- YOUTUBE:END -->
 
 ---
