@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch NASA assemble the massive Artemis 2 rocket that will take humans back to the moon &lpar;video&rpar;](https://www.space.com/nasa-assemble-artemis-2-moon-rocket-video)
-- [GitLab’s new security feature uses AI to explain vulnerabilities to developers](https://techcrunch.com/2023/04/24/gitlabs-new-security-feature-uses-ai-to-explain-vulnerabilities-to-developers/)
-- [Apple wins antitrust court battle with Epic Games, appeals court rules](https://techcrunch.com/2023/04/24/apple-wins-antitrust-court-battle-with-epic-games-appeals-court-rules/)
-- [Precision fermentation’s capacity craze: Have we lost the plot?](https://techcrunch.com/2023/04/24/precision-fermentations-capacity-craze-have-we-lost-the-plot/)
-- [Russian spacewalk to move airlock outside space station postponed](https://www.space.com/russian-iss-spacewalk-airlock-move-postponed)
+- [SpaceX launches world&#39;s 1st 5G satellite to bring global connectivity to Internet of Things](https://www.space.com/spacex-launches-1st-5g-satellite-internet-of-things)
+- [How Aurora is navigating the bumpy road to commercial self-driving trucks](https://techcrunch.com/2023/04/24/how-aurora-is-navigating-the-bumpy-road-to-commercial-self-driving-trucks/)
+- [SEGA workers are forming a union](https://techcrunch.com/2023/04/24/sega-union-gaming/)
+- [Google brings generative AI to cybersecurity](https://techcrunch.com/2023/04/24/google-brings-generative-ai-to-cybersecurity/)
+- [AI app Petey uses ChatGPT to make Apple Music playlists for you](https://techcrunch.com/2023/04/24/ai-app-petey-uses-chatgpt-to-make-apple-music-playlists-for-you/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
