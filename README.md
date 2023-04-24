@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Super.com targets $85M equity, debt raise into new savings super app](https://techcrunch.com/2023/04/24/super-com-savings-super-app-fintech/)
+- [Why a fast-growing climate tech startup raised its second Series B in 13 months](https://techcrunch.com/2023/04/24/span-series-b2-fundraise/)
+- [Bonus BeReal comes to UK, lets users post more than once a day](https://techcrunch.com/2023/04/24/bonus-bereal-20-million-daus/)
+- [China EVs rising, Tesla loses profit ground and Lyft preps for deep cuts](https://techcrunch.com/2023/04/24/china-evs-rising-tesla-loses-profit-ground-and-lyft-preps-for-deep-cuts/)
 - [This &#39;tarantula&#39; in space could teach us the secrets of dark matter](https://www.space.com/dark-matter-secrets-nasa-balloon-images)
-- [Ethereal whirlpool of light grows into a giant, perfect spiral above Alaska. What was it?](https://www.space.com/ethereal-whirlpool-of-light-grows-into-a-giant-perfect-spiral-above-alaska-what-was-it)
-- [Twitter reinstates Blue verification mark for top accounts — even if they didn’t pay for it](https://techcrunch.com/2023/04/24/twitter-reinstates-blue-verification-mark-for-top-accounts-even-if-they-didnt-pay-for-it/)
-- [Now valued at $500M, Cosmose ditches Stripe to adopt Near’s crypto solution](https://techcrunch.com/2023/04/24/near-cosmose-ai/)
-- [Walmart-backed PhonePe set to challenge Google’s dominance with app store in India](https://techcrunch.com/2023/04/23/walmart-backed-phonepe-set-to-challenge-googles-dominance-with-app-store-in-india/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
