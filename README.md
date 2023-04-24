@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Constrafor, a construction procurement company, goes ‘SAFE’ route with new capital](https://techcrunch.com/2023/04/24/constrafor-construction-procurement-fintech/)
+- [Shopify adds direct bill payments in bid to be a single-stop fintech for merchants](https://techcrunch.com/2023/04/24/shopify-adds-direct-bill-payments-in-bid-to-be-a-single-stop-fintech-for-merchants/)
+- [Twitter gave a gold checkmark to a fake Disney account](https://techcrunch.com/2023/04/24/twitter-gave-a-gold-checkmark-to-a-fake-disney-account/)
+- [Woodoo is creating decarbonized wood-based materials](https://techcrunch.com/2023/04/24/woodoo-is-creating-decarbonized-wood-based-materials/)
 - [Shot in space, feature film &#39;The Challenge&#39; rockets at Russian box office](https://www.space.com/vyzov-the-challenge-space-station-movie-opening)
-- [Super.com targets $85M equity, debt raise into new savings super app](https://techcrunch.com/2023/04/24/super-com-savings-super-app-fintech/)
-- [Why a fast-growing climate tech startup raised its second Series B in 13 months](https://techcrunch.com/2023/04/24/span-series-b2-fundraise/)
-- [Bonus BeReal comes to UK, lets users post more than once a day](https://techcrunch.com/2023/04/24/bonus-bereal-20-million-daus/)
-- [China EVs rising, Tesla loses profit ground and Lyft preps for deep cuts](https://techcrunch.com/2023/04/24/china-evs-rising-tesla-loses-profit-ground-and-lyft-preps-for-deep-cuts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
