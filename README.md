@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Now valued at $500M, Cosmose ditches Stripe to adopt Near’s crypto solution](https://techcrunch.com/2023/04/24/near-cosmose-ai/)
 - [Walmart-backed PhonePe set to challenge Google’s dominance with app store in India](https://techcrunch.com/2023/04/23/walmart-backed-phonepe-set-to-challenge-googles-dominance-with-app-store-in-india/)
 - [For your pitch, last impressions count almost as much as first impressions](https://techcrunch.com/2023/04/23/last-impressions-matter/)
 - [Early-stage fintech startups just got a new funding source](https://techcrunch.com/2023/04/23/more-money-for-early-stage-fintech-startups/)
 - [How Swytch used ‘crowdshopping’ to scale without VC money](https://techcrunch.com/2023/04/23/how-sywtch-used-crowdshopping-to-scale-without-vc-money/)
-- [&#39;The Expanse: Dragon Tooth&#39; creators on how their new comic series delivers the juice &lpar;exclusive&rpar;](https://www.space.com/the-expanse-dragon-tooth-comic-series-creators)
 <!-- BLOG-POST-LIST:END -->
 
 ---
