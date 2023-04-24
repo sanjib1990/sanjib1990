@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This is our 1st detailed look at Mars&#39; most mysterious moon Deimos &lpar;photos&rpar;](https://www.space.com/mars-moon-deimos-image-origin-story)
+- [Haltian nabs funds to equip office buildings with smart sensors](https://techcrunch.com/2023/04/24/haltian-nabs-funds-to-equip-office-buildings-with-smart-sensors/)
+- [Why did SpaceX Starship&#39;s debut launch cause so much damage to the pad?](https://www.space.com/spacex-starship-damage-starbase-launch-pad)
 - [SpaceX launches world&#39;s 1st 5G satellite to bring global connectivity to Internet of Things](https://www.space.com/spacex-launches-1st-5g-satellite-internet-of-things)
 - [How Aurora is navigating the bumpy road to commercial self-driving trucks](https://techcrunch.com/2023/04/24/how-aurora-is-navigating-the-bumpy-road-to-commercial-self-driving-trucks/)
-- [SEGA workers are forming a union](https://techcrunch.com/2023/04/24/sega-union-gaming/)
-- [Google brings generative AI to cybersecurity](https://techcrunch.com/2023/04/24/google-brings-generative-ai-to-cybersecurity/)
-- [AI app Petey uses ChatGPT to make Apple Music playlists for you](https://techcrunch.com/2023/04/24/ai-app-petey-uses-chatgpt-to-make-apple-music-playlists-for-you/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
