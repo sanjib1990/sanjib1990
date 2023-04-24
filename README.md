@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Vortex Crossfire HD 10x42 binoculars are now 34% off](https://www.space.com/vortex-crossfire-hd-10x42-binoculars-deal-amazon-lowest-price)
-- [Oura/Best Buy partnership brings the smart ring to 850 stores across the US](https://techcrunch.com/2023/04/24/oura-best-buy-partnership-brings-the-smart-ring-to-850-stores-across-the-us/)
-- [Constrafor, a construction procurement company, goes ‘SAFE’ route with new capital](https://techcrunch.com/2023/04/24/constrafor-construction-procurement-fintech/)
-- [Shopify adds direct bill payments in bid to be a single-stop fintech for merchants](https://techcrunch.com/2023/04/24/shopify-adds-direct-bill-payments-in-bid-to-be-a-single-stop-fintech-for-merchants/)
-- [Twitter gave a gold checkmark to a fake Disney account](https://techcrunch.com/2023/04/24/twitter-gave-a-gold-checkmark-to-a-fake-disney-account/)
+- [Unpacking the Twitter blues](https://techcrunch.com/2023/04/24/unpacking-the-twitter-blues/)
+- [A private moon lander will make history when it touches down on April 25. Here&#39;s how to watch it live](https://www.space.com/historic-moon-private-landing-ispace-webcast)
+- [Apigee rolls out new AI-powered API protection features](https://techcrunch.com/2023/04/24/apigee-rolls-out-new-ai-powered-api-protection-features/)
+- [Volvo Cars Tech Fund invests in driver monitoring startup CorrActions](https://techcrunch.com/2023/04/24/volvo-cars-tech-fund-invests-in-driver-monitoring-startup-corractions/)
+- [Snapchat sees spike in 1-star reviews as users pan the ‘My AI’ feature, calling for its removal](https://techcrunch.com/2023/04/24/snapchat-sees-spike-in-1-star-reviews-as-users-pan-the-my-ai-feature-calling-for-its-removal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
