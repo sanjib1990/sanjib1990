@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [10 years of fintech failure: 3 more ideas that failed to live up to the initial hype](https://techcrunch.com/2023/04/24/10-years-of-fintech-failure-3-more-ideas-that-failed-to-live-up-to-the-initial-hype/)
 - [Unpacking the Twitter blues](https://techcrunch.com/2023/04/24/unpacking-the-twitter-blues/)
 - [A private moon lander will make history when it touches down on April 25. Here&#39;s how to watch it live](https://www.space.com/historic-moon-private-landing-ispace-webcast)
 - [Apigee rolls out new AI-powered API protection features](https://techcrunch.com/2023/04/24/apigee-rolls-out-new-ai-powered-api-protection-features/)
 - [Volvo Cars Tech Fund invests in driver monitoring startup CorrActions](https://techcrunch.com/2023/04/24/volvo-cars-tech-fund-invests-in-driver-monitoring-startup-corractions/)
-- [Snapchat sees spike in 1-star reviews as users pan the ‘My AI’ feature, calling for its removal](https://techcrunch.com/2023/04/24/snapchat-sees-spike-in-1-star-reviews-as-users-pan-the-my-ai-feature-calling-for-its-removal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
