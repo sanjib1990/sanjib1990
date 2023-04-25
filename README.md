@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [With $20M in new funding, Hydrosat preps climate-monitoring satellites for launch](https://techcrunch.com/2023/04/25/with-20m-in-new-funding-hydrosat-preps-climate-monitoring-satellites-for-launch/)
-- [Watch ispace attempt to land on the moon for the first time](https://techcrunch.com/2023/04/25/watch-ispace-attempt-to-land-on-the-moon-for-the-first-time/)
-- [How much does your company pollute? CarbonChain gets $10M Series A to help answer that.](https://techcrunch.com/2023/04/25/carbonchain-series-a-climate-disclosure/)
-- [Spotify passes 500M users, but its premium subscriber portion falls to 40%](https://techcrunch.com/2023/04/25/spotify-now-has-more-than-500m-users/)
-- [Twitter will now show labels on tweets with reduced visiblity](https://techcrunch.com/2023/04/25/twitter-will-now-show-labels-on-tweets-with-reduced-visiblity/)
+- [Summer’s student debt repayment tools continue blooming with $6M Series A extension](https://techcrunch.com/2023/04/25/summer-student-debt-repayment-fintech-6m-series-a-extension/)
+- [Nvidia releases a toolkit to make text-generating AI ‘safer’](https://techcrunch.com/2023/04/25/nvidia-releases-a-toolkit-to-make-text-generating-ai-safer/)
+- [&#39;Star Trek: Section 31&#39; spin-off finally set to warp onto our screens, but as a movie](https://www.space.com/star-trek-section-31-to-go-ahead-as-a-movie)
+- [AI assistants come to Alibaba and a16z-backed Cider](https://techcrunch.com/2023/04/25/ai-assistants-come-to-alibaba-and-a16z-backed-cider/)
+- [Netflix earmarks $2.5B for original content in South Korea](https://techcrunch.com/2023/04/25/netflix-earmarks-2-5b-for-original-content-in-south-korea/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
