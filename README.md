@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to pitch me: 5 investors discuss what they’re looking for in April 2023](https://techcrunch.com/2023/04/25/how-to-pitch-me-5-investors-discuss-what-theyre-looking-for-in-april-2023/)
-- [&#39;Star Wars: Visions Vol. 2&#39; trailer expands the Jedi galaxy with new animated anthology &lpar;video&rpar;](https://www.space.com/star-wars-visions-vol-2-trailer-anthology)
-- [At 0.69% in Q1, the dip in funding for Black founders ‘no longer evokes an emotional response’](https://techcrunch.com/2023/04/25/black-founders-funding-q12023/)
-- [WhatsApp is rolling out multi-device support](https://techcrunch.com/2023/04/25/whatsapp-is-rolling-out-multi-device-support/)
-- [Rare hybrid solar eclipse and Earthrise captured by moon lander ahead of historic landing today &lpar;photo&rpar;](https://www.space.com/moon-earth-shadow-solar-eclipse-landing-ispace)
+- [Lucid has finally started testing its all-electric Gravity SUV on public roads](https://techcrunch.com/2023/04/25/lucid-has-finally-started-testing-its-all-electric-gravity-suv-on-public-roads/)
+- [I actually had fun at Fatboy Slim’s metaverse rave](https://techcrunch.com/2023/04/25/i-actually-had-fun-at-fatboy-slims-metaverse-rave/)
+- [Robotics safety firm Veo raises $29 million, with help from Amazon](https://techcrunch.com/2023/04/25/robotics-safety-firm-veo-raises-29-million-with-help-from-amazon/)
+- [China tests heat-to-electrical power converter on Tiangong space station](https://www.space.com/china-stirling-converters-tiangong-space-station)
+- [Fintech-focused VC firm Anthemis Group lays off 28% of staff as part of restructuring](https://techcrunch.com/2023/04/25/fintech-focused-vc-firm-anthemis-group-lays-off-28-of-staff-as-part-of-restructuring/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
