@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Shifting from founder to VC with Russ Wilcox from E Ink and Pillar VC](https://techcrunch.com/2023/04/25/shifting-from-founder-to-vc-with-russ-wilcox-from-e-ink-and-pillar-vc/)
-- [Announcing the Builders Stage agenda at Disrupt 2023](https://techcrunch.com/2023/04/25/builders-stage-agenda-disrupt-2023/)
-- [Clockwork’s Cloud Deluxe platform eliminates packet drops, improves cloud network performance](https://techcrunch.com/2023/04/25/clockworks-cloud-deluxe-platform-eliminates-packet-drops-improves-cloud-network-performance/)
-- [First Republic’s results are proof that the SVB meltdown was brutal for smaller banks](https://techcrunch.com/2023/04/25/first-republic-results-svb-impact/)
-- [‘The Witcher’ season 3 will debut this summer in two parts](https://techcrunch.com/2023/04/25/the-witcher-season-3-will-debut-this-summer-in-two-parts/)
+- [It’s beyond time we started worrying about unicorn exits](https://techcrunch.com/2023/04/25/its-beyond-time-we-started-worrying-about-unicorn-exits/)
+- [Hugging Face releases its own version of ChatGPT](https://techcrunch.com/2023/04/25/hugging-face-releases-its-own-version-of-chatgpt/)
+- [Firewalla launches a web-based security portal to help its users manage multiple firewalls](https://techcrunch.com/2023/04/25/firewalla-launches-a-web-based-security-portal-to-help-its-users-manage-multiple-firewalls/)
+- [RapidAPI, valued at $1 billion last year, cuts staff by 50%](https://techcrunch.com/2023/04/25/rapidapi-valued-at-1-billion-last-year-cuts-staff-by-50/)
+- [Cruise robotaxis are now operating everywhere, all at once in San Francisco &lpar;for employees&rpar;](https://techcrunch.com/2023/04/25/cruise-robotaxis-are-now-operating-everywhere-all-at-once-in-san-francisco-for-employees/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
