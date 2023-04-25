@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India warns e-commerce giants, urges adoption of open network](https://techcrunch.com/2023/04/25/india-warns-e-commerce-giants-urges-adoption-of-open-network/)
 - [ULA&#39;s Vulcan rocket launch debut delayed by fireball during testing](https://www.space.com/ula-vulcan-rocket-testing-anomaly-launch-delay)
 - [Klarna’s latest update introduces a personal shopping assistant and new creator tools](https://techcrunch.com/2023/04/25/klarnas-latest-update-introduces-a-personal-shopping-assistant-and-new-creator-tools/)
 - [Look up and find Mars beside the thin crescent moon tonight](https://www.space.com/moon-mars-conjunction-april-2023)
 - [Watch SpaceX launch 46 Starlink satellites, land rocket at sea Tuesday morning](https://www.space.com/spacex-starlink-launch-group-3-5)
-- [UK to press ahead with long anticipated reform to tackle Big Tech’s market power](https://techcrunch.com/2023/04/25/uk-big-tech-competition-reform/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
