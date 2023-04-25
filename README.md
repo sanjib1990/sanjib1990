@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [It’s beyond time we started worrying about unicorn exits](https://techcrunch.com/2023/04/25/its-beyond-time-we-started-worrying-about-unicorn-exits/)
-- [Hugging Face releases its own version of ChatGPT](https://techcrunch.com/2023/04/25/hugging-face-releases-its-own-version-of-chatgpt/)
-- [Firewalla launches a web-based security portal to help its users manage multiple firewalls](https://techcrunch.com/2023/04/25/firewalla-launches-a-web-based-security-portal-to-help-its-users-manage-multiple-firewalls/)
-- [RapidAPI, valued at $1 billion last year, cuts staff by 50%](https://techcrunch.com/2023/04/25/rapidapi-valued-at-1-billion-last-year-cuts-staff-by-50/)
-- [Cruise robotaxis are now operating everywhere, all at once in San Francisco &lpar;for employees&rpar;](https://techcrunch.com/2023/04/25/cruise-robotaxis-are-now-operating-everywhere-all-at-once-in-san-francisco-for-employees/)
+- [News app Artifact can now summarize stories using AI, including in fun styles](https://techcrunch.com/2023/04/25/news-app-artifact-can-now-summarize-stories-using-ai-including-in-fun-styles/)
+- [Private Japanese spacecraft apparently fails on historic moon landing try](https://www.space.com/ispace-hakuto-r-moon-landing-failure)
+- [ispace loses contact with lunar lander seconds before landing](https://techcrunch.com/2023/04/25/ispace-loses-contact-with-lunar-lander-seconds-before-landing/)
+- [Spotify CEO says AI progress is both “really cool and scary,” may pose risk to creative industry](https://techcrunch.com/2023/04/25/spotify-ceo-says-ai-progress-is-both-really-cool-and-scary-may-pose-risk-to-creative-industry/)
+- [OpenAI previews business plan for ChatGPT, launches new privacy controls](https://techcrunch.com/2023/04/25/openai-previews-business-plan-for-chatgpt-launches-new-privacy-controls/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
