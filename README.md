@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch SpaceX launch 46 Starlink satellites, land rocket at sea Tuesday morning](https://www.space.com/spacex-starlink-launch-group-3-5)
+- [UK to press ahead with long anticipated reform to tackle Big Tech’s market power](https://techcrunch.com/2023/04/25/uk-big-tech-competition-reform/)
 - [Opera launches Opera One browser with a new tab grouping concept](https://techcrunch.com/2023/04/24/opera-launches-opera-one-browser-with-a-new-tab-grouping-concept/)
 - [European stock trading app Lightyear arrives on the web](https://techcrunch.com/2023/04/24/european-stock-trading-app-lightyear-arrives-on-the-web/)
 - [Crypto exchange Coinbase sues SEC over rulemaking petition](https://techcrunch.com/2023/04/24/crypto-exchange-coinbase-sues-sec-over-rulemaking-petition/)
-- [“GPT” may be trademarked soon if OpenAI has its way](https://techcrunch.com/2023/04/24/gpt-may-be-trademarked-soon-if-openai-has-its-way/)
-- [ZEBOX, an incubator for supply chain startups, launches its Asia hub in Singapore](https://techcrunch.com/2023/04/24/zebox-asia/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
