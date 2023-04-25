@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA needs sharper diversity focus to boost representation, audit finds](https://www.space.com/nasa-diversity-audit-more-representation)
+- [Apple is reportedly developing an AI-powered health coaching service](https://techcrunch.com/2023/04/25/apple-is-reportedly-developing-an-ai-powered-health-coaching-service/)
+- [Rocket engine startup Ursa Major quietly closed $100M in new funding](https://techcrunch.com/2023/04/25/rocket-engine-startup-ursa-major-quietly-closed-100m-in-new-funding/)
 - [US updates asteroid-defense strategy](https://www.space.com/us-updates-planetary-defense-strategy-asteroids)
 - [Bobsled raises $17M Series A to make cross-cloud data sharing easier](https://techcrunch.com/2023/04/25/bobsled-raises-17m-series-a-to-make-cross-cloud-data-sharing-easier/)
-- [James Webb Space Telescope reveals rich chemistry of planet-forming disks for the 1st time](https://www.space.com/james-webb-space-telescope-chemistry-planet-forming-disks)
-- [News app Artifact can now summarize stories using AI, including in fun styles](https://techcrunch.com/2023/04/25/news-app-artifact-can-now-summarize-stories-using-ai-including-in-fun-styles/)
-- [Private Japanese spacecraft apparently fails on historic moon landing try](https://www.space.com/ispace-hakuto-r-moon-landing-failure)
 <!-- BLOG-POST-LIST:END -->
 
 ---
