@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Summer’s student debt repayment tools continue blooming with $6M Series A extension](https://techcrunch.com/2023/04/25/summer-student-debt-repayment-fintech-6m-series-a-extension/)
-- [Nvidia releases a toolkit to make text-generating AI ‘safer’](https://techcrunch.com/2023/04/25/nvidia-releases-a-toolkit-to-make-text-generating-ai-safer/)
-- [&#39;Star Trek: Section 31&#39; spin-off finally set to warp onto our screens, but as a movie](https://www.space.com/star-trek-section-31-to-go-ahead-as-a-movie)
-- [AI assistants come to Alibaba and a16z-backed Cider](https://techcrunch.com/2023/04/25/ai-assistants-come-to-alibaba-and-a16z-backed-cider/)
-- [Netflix earmarks $2.5B for original content in South Korea](https://techcrunch.com/2023/04/25/netflix-earmarks-2-5b-for-original-content-in-south-korea/)
+- [How to pitch me: 5 investors discuss what they’re looking for in April 2023](https://techcrunch.com/2023/04/25/how-to-pitch-me-5-investors-discuss-what-theyre-looking-for-in-april-2023/)
+- [&#39;Star Wars: Visions Vol. 2&#39; trailer expands the Jedi galaxy with new animated anthology &lpar;video&rpar;](https://www.space.com/star-wars-visions-vol-2-trailer-anthology)
+- [At 0.69% in Q1, the dip in funding for Black founders ‘no longer evokes an emotional response’](https://techcrunch.com/2023/04/25/black-founders-funding-q12023/)
+- [WhatsApp is rolling out multi-device support](https://techcrunch.com/2023/04/25/whatsapp-is-rolling-out-multi-device-support/)
+- [Rare hybrid solar eclipse and Earthrise captured by moon lander ahead of historic landing today &lpar;photo&rpar;](https://www.space.com/moon-earth-shadow-solar-eclipse-landing-ispace)
 <!-- BLOG-POST-LIST:END -->
 
 ---
