@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Opera launches Opera One browser with a new tab grouping concept](https://techcrunch.com/2023/04/24/opera-launches-opera-one-browser-with-a-new-tab-grouping-concept/)
 - [European stock trading app Lightyear arrives on the web](https://techcrunch.com/2023/04/24/european-stock-trading-app-lightyear-arrives-on-the-web/)
 - [Crypto exchange Coinbase sues SEC over rulemaking petition](https://techcrunch.com/2023/04/24/crypto-exchange-coinbase-sues-sec-over-rulemaking-petition/)
 - [“GPT” may be trademarked soon if OpenAI has its way](https://techcrunch.com/2023/04/24/gpt-may-be-trademarked-soon-if-openai-has-its-way/)
 - [ZEBOX, an incubator for supply chain startups, launches its Asia hub in Singapore](https://techcrunch.com/2023/04/24/zebox-asia/)
-- [Ursa Major to provide engines for the upper stage of Astra’s new rocket](https://techcrunch.com/2023/04/24/ursa-major-to-provide-engines-for-the-upper-stage-of-astras-new-rocket/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
