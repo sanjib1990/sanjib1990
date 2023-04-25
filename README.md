@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Greywing’s new SeaGPT solves email overwhelm for maritime crew managers](https://techcrunch.com/2023/04/24/greywing-seagpt/)
 - [Daily Crunch: App Store reviews and social media depict user backlash against Snapchat’s new AI chatbot](https://techcrunch.com/2023/04/24/daily-crunch-app-store-reviews-and-social-media-depict-user-backlash-against-snapchats-new-ai-chatbot/)
 - [Max Q: A successful failure](https://techcrunch.com/2023/04/24/max-q-a-successful-failure/)
 - [This is our 1st detailed look at Mars&#39; most mysterious moon Deimos &lpar;photos&rpar;](https://www.space.com/mars-moon-deimos-image-origin-story)
 - [Haltian nabs funds to equip office buildings with smart sensors](https://techcrunch.com/2023/04/24/haltian-nabs-funds-to-equip-office-buildings-with-smart-sensors/)
-- [Why did SpaceX Starship&#39;s debut launch cause so much damage to the pad?](https://www.space.com/spacex-starship-damage-starbase-launch-pad)
 <!-- BLOG-POST-LIST:END -->
 
 ---
