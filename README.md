@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [India warns e-commerce giants, urges adoption of open network](https://techcrunch.com/2023/04/25/india-warns-e-commerce-giants-urges-adoption-of-open-network/)
-- [ULA&#39;s Vulcan rocket launch debut delayed by fireball during testing](https://www.space.com/ula-vulcan-rocket-testing-anomaly-launch-delay)
-- [Klarna’s latest update introduces a personal shopping assistant and new creator tools](https://techcrunch.com/2023/04/25/klarnas-latest-update-introduces-a-personal-shopping-assistant-and-new-creator-tools/)
-- [Look up and find Mars beside the thin crescent moon tonight](https://www.space.com/moon-mars-conjunction-april-2023)
-- [Watch SpaceX launch 46 Starlink satellites, land rocket at sea Tuesday morning](https://www.space.com/spacex-starlink-launch-group-3-5)
+- [With $20M in new funding, Hydrosat preps climate-monitoring satellites for launch](https://techcrunch.com/2023/04/25/with-20m-in-new-funding-hydrosat-preps-climate-monitoring-satellites-for-launch/)
+- [Watch ispace attempt to land on the moon for the first time](https://techcrunch.com/2023/04/25/watch-ispace-attempt-to-land-on-the-moon-for-the-first-time/)
+- [How much does your company pollute? CarbonChain gets $10M Series A to help answer that.](https://techcrunch.com/2023/04/25/carbonchain-series-a-climate-disclosure/)
+- [Spotify passes 500M users, but its premium subscriber portion falls to 40%](https://techcrunch.com/2023/04/25/spotify-now-has-more-than-500m-users/)
+- [Twitter will now show labels on tweets with reduced visiblity](https://techcrunch.com/2023/04/25/twitter-will-now-show-labels-on-tweets-with-reduced-visiblity/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
