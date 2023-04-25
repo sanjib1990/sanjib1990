@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Daily Crunch: Did Elon Musk unwittingly expose his alt Twitter account, or are we being trolled again?](https://techcrunch.com/2023/04/25/daily-crunch-did-elon-musk-unwittingly-expose-his-alt-twitter-account-or-are-we-being-trolled-again/)
-- [Google Cloud turns profit for the first time](https://techcrunch.com/2023/04/25/google-cloud-turns-profit-for-the-first-time/)
-- [A developer exploited an API flaw to provide free access to GPT-4](https://techcrunch.com/2023/04/25/a-developer-exploited-an-api-flaw-to-provide-free-access-to-gpt-4/)
-- [Mars helicopter Ingenuity snaps incredible aerial photo of Perseverance rover during 51st flight](https://www.space.com/mars-helicopter-ingenuity-perseverance-photo-flight-51)
-- [NASA is about to lock these 4 researchers in a simulated Mars outpost for a year](https://www.space.com/nasa-year-long-mars-simulation-chapea)
+- [AI startup Runway launches app to bring users video-to-video generative AI](https://techcrunch.com/2023/04/25/ai-startup-runway-launches-app-to-bring-users-video-to-video-generative-ai/)
+- [Big-time VCs link arms for climate coalition](https://techcrunch.com/2023/04/25/big-time-vcs-link-arms-for-climate-coalition/)
+- [Tesla expands non-Tesla Supercharger access to China](https://techcrunch.com/2023/04/25/tesla-expands-non-tesla-supercharger-access-to-china/)
+- [Hear how Cambrian BioPharma is reinventing drug &lpar;and drug company&rpar; development](https://techcrunch.com/2023/04/25/hear-how-cambrian-biopharma-is-reinventing-drug-and-drug-company-development/)
+- [YouTube continues to see ad revenue decline, 2.6% drop YOY](https://techcrunch.com/2023/04/25/youtube-q1-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
