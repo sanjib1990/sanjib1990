@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [US updates asteroid-defense strategy](https://www.space.com/us-updates-planetary-defense-strategy-asteroids)
+- [Bobsled raises $17M Series A to make cross-cloud data sharing easier](https://techcrunch.com/2023/04/25/bobsled-raises-17m-series-a-to-make-cross-cloud-data-sharing-easier/)
+- [James Webb Space Telescope reveals rich chemistry of planet-forming disks for the 1st time](https://www.space.com/james-webb-space-telescope-chemistry-planet-forming-disks)
 - [News app Artifact can now summarize stories using AI, including in fun styles](https://techcrunch.com/2023/04/25/news-app-artifact-can-now-summarize-stories-using-ai-including-in-fun-styles/)
 - [Private Japanese spacecraft apparently fails on historic moon landing try](https://www.space.com/ispace-hakuto-r-moon-landing-failure)
-- [ispace loses contact with lunar lander seconds before landing](https://techcrunch.com/2023/04/25/ispace-loses-contact-with-lunar-lander-seconds-before-landing/)
-- [Spotify CEO says AI progress is both “really cool and scary,” may pose risk to creative industry](https://techcrunch.com/2023/04/25/spotify-ceo-says-ai-progress-is-both-really-cool-and-scary-may-pose-risk-to-creative-industry/)
-- [OpenAI previews business plan for ChatGPT, launches new privacy controls](https://techcrunch.com/2023/04/25/openai-previews-business-plan-for-chatgpt-launches-new-privacy-controls/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
