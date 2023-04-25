@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Lucid has finally started testing its all-electric Gravity SUV on public roads](https://techcrunch.com/2023/04/25/lucid-has-finally-started-testing-its-all-electric-gravity-suv-on-public-roads/)
-- [I actually had fun at Fatboy Slim’s metaverse rave](https://techcrunch.com/2023/04/25/i-actually-had-fun-at-fatboy-slims-metaverse-rave/)
-- [Robotics safety firm Veo raises $29 million, with help from Amazon](https://techcrunch.com/2023/04/25/robotics-safety-firm-veo-raises-29-million-with-help-from-amazon/)
-- [China tests heat-to-electrical power converter on Tiangong space station](https://www.space.com/china-stirling-converters-tiangong-space-station)
-- [Fintech-focused VC firm Anthemis Group lays off 28% of staff as part of restructuring](https://techcrunch.com/2023/04/25/fintech-focused-vc-firm-anthemis-group-lays-off-28-of-staff-as-part-of-restructuring/)
+- [Shifting from founder to VC with Russ Wilcox from E Ink and Pillar VC](https://techcrunch.com/2023/04/25/shifting-from-founder-to-vc-with-russ-wilcox-from-e-ink-and-pillar-vc/)
+- [Announcing the Builders Stage agenda at Disrupt 2023](https://techcrunch.com/2023/04/25/builders-stage-agenda-disrupt-2023/)
+- [Clockwork’s Cloud Deluxe platform eliminates packet drops, improves cloud network performance](https://techcrunch.com/2023/04/25/clockworks-cloud-deluxe-platform-eliminates-packet-drops-improves-cloud-network-performance/)
+- [First Republic’s results are proof that the SVB meltdown was brutal for smaller banks](https://techcrunch.com/2023/04/25/first-republic-results-svb-impact/)
+- [‘The Witcher’ season 3 will debut this summer in two parts](https://techcrunch.com/2023/04/25/the-witcher-season-3-will-debut-this-summer-in-two-parts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
