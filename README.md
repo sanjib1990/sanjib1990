@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A developer exploited an API flaw to provide free access to GPT-4](https://techcrunch.com/2023/04/25/a-developer-exploited-an-api-flaw-to-provide-free-access-to-gpt-4/)
+- [Mars helicopter Ingenuity snaps incredible aerial photo of Perseverance rover during 51st flight](https://www.space.com/mars-helicopter-ingenuity-perseverance-photo-flight-51)
+- [NASA is about to lock these 4 researchers in a simulated Mars outpost for a year](https://www.space.com/nasa-year-long-mars-simulation-chapea)
 - [NASA needs sharper diversity focus to boost representation, audit finds](https://www.space.com/nasa-diversity-audit-more-representation)
 - [Apple is reportedly developing an AI-powered health coaching service](https://techcrunch.com/2023/04/25/apple-is-reportedly-developing-an-ai-powered-health-coaching-service/)
-- [Rocket engine startup Ursa Major quietly closed $100M in new funding](https://techcrunch.com/2023/04/25/rocket-engine-startup-ursa-major-quietly-closed-100m-in-new-funding/)
-- [US updates asteroid-defense strategy](https://www.space.com/us-updates-planetary-defense-strategy-asteroids)
-- [Bobsled raises $17M Series A to make cross-cloud data sharing easier](https://techcrunch.com/2023/04/25/bobsled-raises-17m-series-a-to-make-cross-cloud-data-sharing-easier/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
