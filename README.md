@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ULA&#39;s Vulcan rocket launch debut delayed by fireball during testing](https://www.space.com/ula-vulcan-rocket-testing-anomaly-launch-delay)
+- [Klarna’s latest update introduces a personal shopping assistant and new creator tools](https://techcrunch.com/2023/04/25/klarnas-latest-update-introduces-a-personal-shopping-assistant-and-new-creator-tools/)
+- [Look up and find Mars beside the thin crescent moon tonight](https://www.space.com/moon-mars-conjunction-april-2023)
 - [Watch SpaceX launch 46 Starlink satellites, land rocket at sea Tuesday morning](https://www.space.com/spacex-starlink-launch-group-3-5)
 - [UK to press ahead with long anticipated reform to tackle Big Tech’s market power](https://techcrunch.com/2023/04/25/uk-big-tech-competition-reform/)
-- [Opera launches Opera One browser with a new tab grouping concept](https://techcrunch.com/2023/04/24/opera-launches-opera-one-browser-with-a-new-tab-grouping-concept/)
-- [European stock trading app Lightyear arrives on the web](https://techcrunch.com/2023/04/24/european-stock-trading-app-lightyear-arrives-on-the-web/)
-- [Crypto exchange Coinbase sues SEC over rulemaking petition](https://techcrunch.com/2023/04/24/crypto-exchange-coinbase-sues-sec-over-rulemaking-petition/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
