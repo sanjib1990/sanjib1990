@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Did Elon Musk unwittingly expose his alt Twitter account, or are we being trolled again?](https://techcrunch.com/2023/04/25/daily-crunch-did-elon-musk-unwittingly-expose-his-alt-twitter-account-or-are-we-being-trolled-again/)
+- [Google Cloud turns profit for the first time](https://techcrunch.com/2023/04/25/google-cloud-turns-profit-for-the-first-time/)
 - [A developer exploited an API flaw to provide free access to GPT-4](https://techcrunch.com/2023/04/25/a-developer-exploited-an-api-flaw-to-provide-free-access-to-gpt-4/)
 - [Mars helicopter Ingenuity snaps incredible aerial photo of Perseverance rover during 51st flight](https://www.space.com/mars-helicopter-ingenuity-perseverance-photo-flight-51)
 - [NASA is about to lock these 4 researchers in a simulated Mars outpost for a year](https://www.space.com/nasa-year-long-mars-simulation-chapea)
-- [NASA needs sharper diversity focus to boost representation, audit finds](https://www.space.com/nasa-diversity-audit-more-representation)
-- [Apple is reportedly developing an AI-powered health coaching service](https://techcrunch.com/2023/04/25/apple-is-reportedly-developing-an-ai-powered-health-coaching-service/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
