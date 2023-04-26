@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Voyager engineers keep on tickin&#39; in new documentary &#39;It&#39;s Quieter in the Twilight&#39;](https://www.space.com/nasa-voyager-mission-engineers-documentary)
+- [UK blocks Microsoft’s planned $68.7B Activision bid, saying it would ‘substantially weaken competition’](https://techcrunch.com/2023/04/26/uk-blocks-microsofts-planned-68-7b-activision-bid-saying-it-would-substantially-weaken-competition/)
 - [Star Trek: Discovery is coming to an end: Here are 5 things season 5 needs to fix](https://www.space.com/5-things-star-trek-discovery-season-5-needs-to-fix)
 - [SpaceX sharing Starship data for NASA&#39;s Artemis 3 moon landing](https://www.space.com/nasa-spacex-starship-artemis-3-moon-landing-team)
 - [&#39;Dragon cloud&#39; holds clues about how the biggest stars in the galaxy are born](https://www.space.com/dragon-cloud-clues-giant-stars-birth)
-- [Lookout sells its consumer cybersecurity business to F-Secure for $223M and goes all-in on the enterprise](https://techcrunch.com/2023/04/26/lookout-sells-its-consumer-cybersecurity-business-to-f-secure-and-goes-all-in-on-the-enterprise/)
-- [Smile Identity expands African footprint with acquisition of Appruve to strengthen ID verification services](https://techcrunch.com/2023/04/26/smile-identity-expands-african-footprint-with-acquisition-of-appruve-to-strengthen-id-verification-services/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
