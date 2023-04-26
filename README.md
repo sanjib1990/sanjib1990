@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [What happens to your crypto when you die?](https://techcrunch.com/2023/04/26/what-happens-to-your-crypto-when-you-die/)
-- [&#39;Alien&#39; Day 2023: Marvel Comics hatches haunting new reboot of 1979 sci-fi classic](https://www.space.com/alien-day-2023-marvel-comics-reboot)
-- [The Legend of Zelda: Tears of the Kingdom preview](https://techcrunch.com/2023/04/26/the-legend-of-zelda-tears-in-the-kingdom-preview/)
-- [Crypto wallet Phantom adds public multichain support for Ethereum and Polygon](https://techcrunch.com/2023/04/26/crypto-wallet-phantom-adds-public-multichain-support-for-ethereum-and-polygon/)
-- [Watch SpaceX&#39;s powerful Falcon Heavy rocket launch on 6th mission today](https://www.space.com/spacex-falcon-heavy-sixth-mission-launch-viasat-3-americas)
+- [Joby Aviation accelerates path to market with $55M DoD contract](https://techcrunch.com/2023/04/26/joby-aviation-accelerates-path-to-market-with-55m-dod-contract/)
+- [AirOps is helping companies build AI-enabled applications on top of LLMs](https://techcrunch.com/2023/04/26/airops-is-helping-companies-build-ai-enabled-applications-on-top-of-llms/)
+- [Bosch to acquire TSI Semiconductors for $1.5B to boost US chip production](https://techcrunch.com/2023/04/26/bosch-to-acquire-tsi-semiconductors-for-1-5b-to-boost-us-chip-production/)
+- [Pococo Galaxy star projector review](https://www.space.com/pococo-galaxy-star-projector-review)
+- [Snap says its bot won’t notice instantly that you stopped sharing your location](https://techcrunch.com/2023/04/26/snap-says-its-bot-wont-notice-instantly-that-you-stopped-sharing-your-location/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
