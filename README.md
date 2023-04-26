@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Vinfast’s EV ambitions just got a $2.5B boost](https://techcrunch.com/2023/04/26/vinfasts-ev-ambitions-just-got-a-2-5b-boost/)
+- [UK’s TympaHealth sounds out $23M to expand its hearing diagnostics startup](https://techcrunch.com/2023/04/26/uks-tympahealth-sounds-out-23m-to-expand-its-hearing-diagnostics-startup/)
+- [Astronomers snap 1st-ever direct image of a black hole blasting out a powerful jet &lpar;photo, video&rpar;](https://www.space.com/black-hole-jet-first-direct-image-m87)
 - [EU warns Twitter over disinformation after Musk policy shifts found to boost Kremlin propaganda](https://techcrunch.com/2023/04/26/twitter-disinformation-dsa-risk/)
 - [Instacart rolls out new ways for users to find deals on its app](https://techcrunch.com/2023/04/26/instacart-rolls-out-new-ways-for-users-to-find-deals-on-its-app/)
-- [Ask Sophie: My STEM OPT expires in 30 days, what are my options?](https://techcrunch.com/2023/04/26/ask-sophie-my-stem-opt-expires-in-30-days-what-are-my-options/)
-- [Spend management firm Clara secures $60M amid rapid transaction growth in LatAm](https://techcrunch.com/2023/04/26/spend-management-clara-fintech-latin-america/)
-- [Workers are wary — but also optimistic — about AI](https://techcrunch.com/2023/04/26/ai-survey-workers-feelings/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
