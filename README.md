@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [EU warns Twitter over disinformation after Musk policy shifts found to boost Kremlin propaganda](https://techcrunch.com/2023/04/26/twitter-disinformation-dsa-risk/)
+- [Instacart rolls out new ways for users to find deals on its app](https://techcrunch.com/2023/04/26/instacart-rolls-out-new-ways-for-users-to-find-deals-on-its-app/)
+- [Ask Sophie: My STEM OPT expires in 30 days, what are my options?](https://techcrunch.com/2023/04/26/ask-sophie-my-stem-opt-expires-in-30-days-what-are-my-options/)
 - [Spend management firm Clara secures $60M amid rapid transaction growth in LatAm](https://techcrunch.com/2023/04/26/spend-management-clara-fintech-latin-america/)
 - [Workers are wary — but also optimistic — about AI](https://techcrunch.com/2023/04/26/ai-survey-workers-feelings/)
-- [iMessage and more finally comes to Windows with global rollout of Phone Link for iOS](https://techcrunch.com/2023/04/26/imessage-and-more-finally-comes-to-windows-with-global-rollout-of-phone-link-for-ios/)
-- [Founded by Adyen and Affirm alums, Ansa aims to help merchants create virtual wallets for customers](https://techcrunch.com/2023/04/26/founded-by-adyen-and-affirm-alums-ansa-aims-to-help-merchants-create-virtual-wallets-for-customers/)
-- [From DrakeGPT to Infinite Grimes, AI-generated music strikes a chord](https://techcrunch.com/2023/04/26/grimes-ai-generated-drake-music-legal-issues/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
