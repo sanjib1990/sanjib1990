@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Joby Aviation accelerates path to market with $55M DoD contract](https://techcrunch.com/2023/04/26/joby-aviation-accelerates-path-to-market-with-55m-dod-contract/)
-- [AirOps is helping companies build AI-enabled applications on top of LLMs](https://techcrunch.com/2023/04/26/airops-is-helping-companies-build-ai-enabled-applications-on-top-of-llms/)
-- [Bosch to acquire TSI Semiconductors for $1.5B to boost US chip production](https://techcrunch.com/2023/04/26/bosch-to-acquire-tsi-semiconductors-for-1-5b-to-boost-us-chip-production/)
-- [Pococo Galaxy star projector review](https://www.space.com/pococo-galaxy-star-projector-review)
-- [Snap says its bot won’t notice instantly that you stopped sharing your location](https://techcrunch.com/2023/04/26/snap-says-its-bot-wont-notice-instantly-that-you-stopped-sharing-your-location/)
+- [Greycroft closes on over $1 billion across new funds](https://techcrunch.com/2023/04/26/greycroft-closes-on-over-1-billion-across-new-funds/)
+- [‘Black Mirror’ Season 6 set to premiere in June](https://techcrunch.com/2023/04/26/black-mirror-season-6-set-to-premiere-in-june/)
+- [Don’t go it alone: Incubators and accelerators help build lifelong relationships](https://techcrunch.com/2023/04/26/incubators-accelerators-startups-relationships/)
+- [TikTok is testing an in-app tool that creates generative AI avatars](https://techcrunch.com/2023/04/26/tiktok-is-testing-an-in-app-tool-that-creates-generative-ai-avatars/)
+- [Operant is changing the way you secure cloud native applications](https://techcrunch.com/2023/04/26/operant-is-changing-the-way-you-secure-cloud-native-applications/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
