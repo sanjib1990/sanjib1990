@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why ChatGPT lies in some languages more than others](https://techcrunch.com/2023/04/26/why-chatgpt-lies-in-some-languages-more-than-others/)
+- [NASA updates schedule for astronaut flights to space station through 2024](https://www.space.com/nasa-commercial-crew-schedule-spacex-boeing)
 - [YouTube Music contractors win historic union vote](https://techcrunch.com/2023/04/26/youtube-music-union-google/)
 - [Amazon closing Halo health division, lays off staff while offering hardware refunds](https://techcrunch.com/2023/04/26/amazon-closing-halo-health-division-lays-off-staff-while-offering-hardware-refunds/)
 - [Mark Cuban-backed streaming app Fireside confirms $25M Series A at $138M valuation](https://techcrunch.com/2023/04/26/mark-cuban-backed-streaming-app-fireside-confirms-25m-series-a-at-138m-valuation/)
-- [Hackers are breaking into AT&amp;T email accounts to steal cryptocurrency](https://techcrunch.com/2023/04/26/hackers-are-breaking-into-att-email-accounts-to-steal-cryptocurrency/)
-- [Sisko and Worf unite to stop a crazed Klingon emperor in IDW&#39;s &#39;Star Trek: Day of Blood&#39; event](https://www.space.com/sisko-worf-unite-star-trek-day-of-blood)
 <!-- BLOG-POST-LIST:END -->
 
 ---
