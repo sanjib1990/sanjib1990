@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Voyager engineers keep on tickin&#39; in new documentary &#39;It&#39;s Quieter in the Twilight&#39;](https://www.space.com/nasa-voyager-mission-engineers-documentary)
-- [UK blocks Microsoft’s planned $68.7B Activision bid, saying it would ‘substantially weaken competition’](https://techcrunch.com/2023/04/26/uk-blocks-microsofts-planned-68-7b-activision-bid-saying-it-would-substantially-weaken-competition/)
-- [Star Trek: Discovery is coming to an end: Here are 5 things season 5 needs to fix](https://www.space.com/5-things-star-trek-discovery-season-5-needs-to-fix)
-- [SpaceX sharing Starship data for NASA&#39;s Artemis 3 moon landing](https://www.space.com/nasa-spacex-starship-artemis-3-moon-landing-team)
-- [&#39;Dragon cloud&#39; holds clues about how the biggest stars in the galaxy are born](https://www.space.com/dragon-cloud-clues-giant-stars-birth)
+- [What happens to your crypto when you die?](https://techcrunch.com/2023/04/26/what-happens-to-your-crypto-when-you-die/)
+- [&#39;Alien&#39; Day 2023: Marvel Comics hatches haunting new reboot of 1979 sci-fi classic](https://www.space.com/alien-day-2023-marvel-comics-reboot)
+- [The Legend of Zelda: Tears of the Kingdom preview](https://techcrunch.com/2023/04/26/the-legend-of-zelda-tears-in-the-kingdom-preview/)
+- [Crypto wallet Phantom adds public multichain support for Ethereum and Polygon](https://techcrunch.com/2023/04/26/crypto-wallet-phantom-adds-public-multichain-support-for-ethereum-and-polygon/)
+- [Watch SpaceX&#39;s powerful Falcon Heavy rocket launch on 6th mission today](https://www.space.com/spacex-falcon-heavy-sixth-mission-launch-viasat-3-americas)
 <!-- BLOG-POST-LIST:END -->
 
 ---
