@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenSea’s next journey is to help Web 2.0 brands get into web3](https://techcrunch.com/2023/04/26/openseas-reduce-friction-nfts/)
-- [Astronomers pull in record haul of 25 new repeating &#39;fast radio bursts&#39;](https://www.space.com/astronomers-find-25-repeating-fast-radio-bursts)
-- [Revolut’s valuation troubles signal a stormy horizon for less-profitable neobanks](https://techcrunch.com/2023/04/26/revolut-neobanks-valuation-trouble/)
-- [Google disrupts malware that steals sensitive data from Chrome users](https://techcrunch.com/2023/04/26/google-disrupts-malware-that-steals-sensitive-data-from-chrome-users/)
-- [Space pictures! See our image of the day](https://www.space.com/34-image-day.html)
+- [YouTube Music contractors win historic union vote](https://techcrunch.com/2023/04/26/youtube-music-union-google/)
+- [Amazon closing Halo health division, lays off staff while offering hardware refunds](https://techcrunch.com/2023/04/26/amazon-closing-halo-health-division-lays-off-staff-while-offering-hardware-refunds/)
+- [Mark Cuban-backed streaming app Fireside confirms $25M Series A at $138M valuation](https://techcrunch.com/2023/04/26/mark-cuban-backed-streaming-app-fireside-confirms-25m-series-a-at-138m-valuation/)
+- [Hackers are breaking into AT&amp;T email accounts to steal cryptocurrency](https://techcrunch.com/2023/04/26/hackers-are-breaking-into-att-email-accounts-to-steal-cryptocurrency/)
+- [Sisko and Worf unite to stop a crazed Klingon emperor in IDW&#39;s &#39;Star Trek: Day of Blood&#39; event](https://www.space.com/sisko-worf-unite-star-trek-day-of-blood)
 <!-- BLOG-POST-LIST:END -->
 
 ---
