@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Luup raises $30M ahead of Japan’s new micromobility rules](https://techcrunch.com/2023/04/26/luup-raises-30m-ahead-of-japans-new-micromobility-rules/)
+- [China’s central bank digital currency takes a bigger place on WeChat’s platform](https://techcrunch.com/2023/04/26/wechat-digital-currency/)
 - [China’s MG Motor launches compact hatchback EV in India for urban mobility](https://techcrunch.com/2023/04/26/mg-comet-ev-india-launch/)
 - [UniSieve’s filters use special crystals to reduce industrial emissions](https://techcrunch.com/2023/04/25/unisieve/)
 - [Tile launches a new cat tracking tag with three-year battery life](https://techcrunch.com/2023/04/25/tile-launches-a-new-cat-tracking-tag-with-three-year-battery-life/)
-- [Tinder’s verification process will now use AI and video selfies](https://techcrunch.com/2023/04/25/tinders-verification-process-will-now-use-ai-and-video-selfies/)
-- [Honda says first e:Architecture-based EV is coming sooner than planned](https://techcrunch.com/2023/04/25/honda-says-first-earchitecture-based-ev-is-coming-sooner-than-planned/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
