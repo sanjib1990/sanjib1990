@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Greycroft closes on over $1 billion across new funds](https://techcrunch.com/2023/04/26/greycroft-closes-on-over-1-billion-across-new-funds/)
-- [‘Black Mirror’ Season 6 set to premiere in June](https://techcrunch.com/2023/04/26/black-mirror-season-6-set-to-premiere-in-june/)
-- [Don’t go it alone: Incubators and accelerators help build lifelong relationships](https://techcrunch.com/2023/04/26/incubators-accelerators-startups-relationships/)
-- [TikTok is testing an in-app tool that creates generative AI avatars](https://techcrunch.com/2023/04/26/tiktok-is-testing-an-in-app-tool-that-creates-generative-ai-avatars/)
-- [Operant is changing the way you secure cloud native applications](https://techcrunch.com/2023/04/26/operant-is-changing-the-way-you-secure-cloud-native-applications/)
+- [Spend management firm Clara secures $60M amid rapid transaction growth in LatAm](https://techcrunch.com/2023/04/26/spend-management-clara-fintech-latin-america/)
+- [Workers are wary — but also optimistic — about AI](https://techcrunch.com/2023/04/26/ai-survey-workers-feelings/)
+- [iMessage and more finally comes to Windows with global rollout of Phone Link for iOS](https://techcrunch.com/2023/04/26/imessage-and-more-finally-comes-to-windows-with-global-rollout-of-phone-link-for-ios/)
+- [Founded by Adyen and Affirm alums, Ansa aims to help merchants create virtual wallets for customers](https://techcrunch.com/2023/04/26/founded-by-adyen-and-affirm-alums-ansa-aims-to-help-merchants-create-virtual-wallets-for-customers/)
+- [From DrakeGPT to Infinite Grimes, AI-generated music strikes a chord](https://techcrunch.com/2023/04/26/grimes-ai-generated-drake-music-legal-issues/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
