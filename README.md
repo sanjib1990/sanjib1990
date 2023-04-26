@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [China’s MG Motor launches compact hatchback EV in India for urban mobility](https://techcrunch.com/2023/04/26/mg-comet-ev-india-launch/)
+- [UniSieve’s filters use special crystals to reduce industrial emissions](https://techcrunch.com/2023/04/25/unisieve/)
 - [Tile launches a new cat tracking tag with three-year battery life](https://techcrunch.com/2023/04/25/tile-launches-a-new-cat-tracking-tag-with-three-year-battery-life/)
 - [Tinder’s verification process will now use AI and video selfies](https://techcrunch.com/2023/04/25/tinders-verification-process-will-now-use-ai-and-video-selfies/)
 - [Honda says first e:Architecture-based EV is coming sooner than planned](https://techcrunch.com/2023/04/25/honda-says-first-earchitecture-based-ev-is-coming-sooner-than-planned/)
-- [Hyundai, GM partner with Korean battery makers to build US plants](https://techcrunch.com/2023/04/25/hyundai-gm-partner-with-korean-battery-makers-to-build-us-plants/)
-- [Colorado’s new right-to-repair law ensures tractor and wheelchair owners get the parts they need](https://techcrunch.com/2023/04/25/colorados-new-right-to-repair-law-ensures-tractor-and-wheelchair-owners-get-the-parts-they-need/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
