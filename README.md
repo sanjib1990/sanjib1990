@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Why ChatGPT lies in some languages more than others](https://techcrunch.com/2023/04/26/why-chatgpt-lies-in-some-languages-more-than-others/)
-- [NASA updates schedule for astronaut flights to space station through 2024](https://www.space.com/nasa-commercial-crew-schedule-spacex-boeing)
-- [YouTube Music contractors win historic union vote](https://techcrunch.com/2023/04/26/youtube-music-union-google/)
-- [Amazon closing Halo health division, lays off staff while offering hardware refunds](https://techcrunch.com/2023/04/26/amazon-closing-halo-health-division-lays-off-staff-while-offering-hardware-refunds/)
-- [Mark Cuban-backed streaming app Fireside confirms $25M Series A at $138M valuation](https://techcrunch.com/2023/04/26/mark-cuban-backed-streaming-app-fireside-confirms-25m-series-a-at-138m-valuation/)
+- [Daily Crunch: Lookout sells consumer security segment for $223M to become ‘pure-play enterprise company’](https://techcrunch.com/2023/04/26/daily-crunch-lookout-sells-consumer-security-segment-for-223m-to-become-pure-play-enterprise-company/)
+- [Meta beats revenue expectations, remains committed to metaverse](https://techcrunch.com/2023/04/26/meta-beats-revenue-expectations-remains-committed-to-metaverse/)
+- [Theranos founder Elizabeth Holmes isn’t headed to jail tomorrow after all](https://techcrunch.com/2023/04/26/theranos-founder-elizabeth-holmes-isnt-headed-to-jail-tomorrow-after-all/)
+- [Roku gains 1.6 million active streaming accounts in Q1, warns of continued ad uncertainty](https://techcrunch.com/2023/04/26/roku-gains-1-6-million-active-streaming-accounts-in-q1-warns-of-continued-ad-uncertainty/)
+- [Rocket Lab to launch 2 missions for NASA hurricane-watching constellation](https://www.space.com/rocket-lab-launch-nasa-tropics-hurricane-watching-satellites)
 <!-- BLOG-POST-LIST:END -->
 
 ---
