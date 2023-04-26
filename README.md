@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Vinfast’s EV ambitions just got a $2.5B boost](https://techcrunch.com/2023/04/26/vinfasts-ev-ambitions-just-got-a-2-5b-boost/)
-- [UK’s TympaHealth sounds out $23M to expand its hearing diagnostics startup](https://techcrunch.com/2023/04/26/uks-tympahealth-sounds-out-23m-to-expand-its-hearing-diagnostics-startup/)
-- [Astronomers snap 1st-ever direct image of a black hole blasting out a powerful jet &lpar;photo, video&rpar;](https://www.space.com/black-hole-jet-first-direct-image-m87)
-- [EU warns Twitter over disinformation after Musk policy shifts found to boost Kremlin propaganda](https://techcrunch.com/2023/04/26/twitter-disinformation-dsa-risk/)
-- [Instacart rolls out new ways for users to find deals on its app](https://techcrunch.com/2023/04/26/instacart-rolls-out-new-ways-for-users-to-find-deals-on-its-app/)
+- [OpenSea’s next journey is to help Web 2.0 brands get into web3](https://techcrunch.com/2023/04/26/openseas-reduce-friction-nfts/)
+- [Astronomers pull in record haul of 25 new repeating &#39;fast radio bursts&#39;](https://www.space.com/astronomers-find-25-repeating-fast-radio-bursts)
+- [Revolut’s valuation troubles signal a stormy horizon for less-profitable neobanks](https://techcrunch.com/2023/04/26/revolut-neobanks-valuation-trouble/)
+- [Google disrupts malware that steals sensitive data from Chrome users](https://techcrunch.com/2023/04/26/google-disrupts-malware-that-steals-sensitive-data-from-chrome-users/)
+- [Space pictures! See our image of the day](https://www.space.com/34-image-day.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
