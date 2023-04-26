@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hyundai, GM partner with Korean battery makers to build US plants](https://techcrunch.com/2023/04/25/hyundai-gm-partner-with-korean-battery-makers-to-build-us-plants/)
+- [Colorado’s new right-to-repair law ensures tractor and wheelchair owners get the parts they need](https://techcrunch.com/2023/04/25/colorados-new-right-to-repair-law-ensures-tractor-and-wheelchair-owners-get-the-parts-they-need/)
 - [AI startup Runway launches app to bring users video-to-video generative AI](https://techcrunch.com/2023/04/25/ai-startup-runway-launches-app-to-bring-users-video-to-video-generative-ai/)
 - [Big-time VCs link arms for climate coalition](https://techcrunch.com/2023/04/25/big-time-vcs-link-arms-for-climate-coalition/)
 - [Tesla expands non-Tesla Supercharger access to China](https://techcrunch.com/2023/04/25/tesla-expands-non-tesla-supercharger-access-to-china/)
-- [Hear how Cambrian BioPharma is reinventing drug &lpar;and drug company&rpar; development](https://techcrunch.com/2023/04/25/hear-how-cambrian-biopharma-is-reinventing-drug-and-drug-company-development/)
-- [YouTube continues to see ad revenue decline, 2.6% drop YOY](https://techcrunch.com/2023/04/25/youtube-q1-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
