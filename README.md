@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Warner Bros. partners with James Murdoch-backed Viacom18 to bring Succession, other HBO content to India](https://techcrunch.com/2023/04/27/warner-bros-partners-with-james-murdoch-backed-viacom18-to-bring-succession-other-hbo-content-to-india/)
+- [M3ter locks in $14M to expand its usage-based pricing tools for SaaS businesses](https://techcrunch.com/2023/04/27/m3ter-locks-in-14m-to-expand-its-usage-based-pricing-tools-for-saas-businesses/)
 - [Bastion is an all-in-one cybersecurity solution for small businesses](https://techcrunch.com/2023/04/26/bastion-is-an-all-in-one-cybersecurity-solution-for-small-businesses/)
 - [Elon Musk will likely testify about his Autopilot statements](https://techcrunch.com/2023/04/26/elon-musk-will-likely-testify-about-his-autopilot-statements/)
 - [Meta says time spent on Instagram grew 24% thanks to TikTok-style AI Reel recommendations](https://techcrunch.com/2023/04/26/meta-says-time-spent-on-instagram-grew-24-thanks-to-tiktok-style-ai-reel-recommendations/)
-- [Daily Crunch: Lookout sells consumer security segment for $223M to become ‘pure-play enterprise company’](https://techcrunch.com/2023/04/26/daily-crunch-lookout-sells-consumer-security-segment-for-223m-to-become-pure-play-enterprise-company/)
-- [New tabletop game &#39;Death in Space&#39; lets you mine for precious gems in the ravaged Tenebris system](https://www.space.com/death-in-space-role-playing-game)
 <!-- BLOG-POST-LIST:END -->
 
 ---
