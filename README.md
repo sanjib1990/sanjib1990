@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Pinterest announces multi-year ads partnership with Amazon](https://techcrunch.com/2023/04/27/pinterest-announces-multi-year-ads-partnership-with-amazon/)
+- [Microsoft makes its AI-powered Designer tool available in preview](https://techcrunch.com/2023/04/27/microsoft-makes-its-ai-powered-designer-tool-available-in-preview/)
+- [Bluesky’s best shot at success is to embrace shitposting](https://techcrunch.com/2023/04/27/blueskys-best-shot-at-success-is-to-embrace-shitposting/)
+- [Pinterest announces multi-year ads partnership with Amazon alongside earnings beat](https://techcrunch.com/2023/04/27/pinterest-announces-multi-year-ads-partnership-with-amazon/)
 - [Martian dust likely preventing Chinese rover from waking up](https://www.space.com/dust-preventing-china-mars-rover-zhurong-waking-up)
 - [Brett Harrison ‘never lost faith in the business’ while at now-shuttered FTX](https://techcrunch.com/2023/04/27/ftx-crypto-exchange-collapse-lookback/)
-- [Chief, a professional network for women leaders, cuts staff amid restructuring effort](https://techcrunch.com/2023/04/27/chief-a-professional-network-for-women-leaders-cuts-staff-amid-restructuring-effort/)
-- [Hubble Telescope celebrates 33rd anniversary with gorgeous photo of nearby stellar nursery](https://www.space.com/hubble-telescope-stellar-nursery-photo-33rd-anniversary)
 <!-- BLOG-POST-LIST:END -->
 
 ---
