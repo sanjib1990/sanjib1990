@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Experiment: Filtration Lab](https://www.youtube.com/watch?v=HXwdm2DM18M)
+- [Experiment: Bluetooth Hide and Seek](https://www.youtube.com/watch?v=qfimubh_67Q)
+- [Introduction for LL EduCATE: Introduction to Engineering Concepts](https://www.youtube.com/watch?v=b9fHAZAWtFs)
+- [Experiment: Clausewitzian Chess](https://www.youtube.com/watch?v=Ed66NxfDETY)
 - [Teaching with MIT OpenCourseWare: Case Studies from Nigeria](https://www.youtube.com/watch?v=x_pU4g1UWIk)
-- [10 Math Concepts for Programmers](https://www.youtube.com/watch?v=bOCHTHkBoAs)
-- [I built a react app… but with a visual editor](https://www.youtube.com/watch?v=tszI9GrH1u0)
-- [S4E8: Honoring Your Native Language with Prof. Michel DeGraff](https://www.youtube.com/watch?v=jiAi2e3oil4)
-- [Music Industry on life support right now](https://www.youtube.com/watch?v=LkrI3erbUtw)
 <!-- YOUTUBE:END -->
 
 ---
