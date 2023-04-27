@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Warner Bros. partners with James Murdoch-backed Viacom18 to bring Succession, other HBO content to India](https://techcrunch.com/2023/04/27/warner-bros-partners-with-james-murdoch-backed-viacom18-to-bring-succession-other-hbo-content-to-india/)
+- [Korean fintech Kakao Pay to acquire majority stake in US brokerage firm Siebert](https://techcrunch.com/2023/04/27/korean-fintech-kakao-pay-to-acquire-majority-stake-in-us-brokerage-firm-siebert/)
+- [Meta says about 10% of its global ad revenue at risk from EU data flows order](https://techcrunch.com/2023/04/27/meta-warns-on-data-suspension-risk/)
+- [James Murdoch-backed Viacom18 to bring Succession, other HBO content to India](https://techcrunch.com/2023/04/27/warner-bros-partners-with-james-murdoch-backed-viacom18-to-bring-succession-other-hbo-content-to-india/)
 - [M3ter locks in $14M to expand its usage-based pricing tools for SaaS businesses](https://techcrunch.com/2023/04/27/m3ter-locks-in-14m-to-expand-its-usage-based-pricing-tools-for-saas-businesses/)
 - [Bastion is an all-in-one cybersecurity solution for small businesses](https://techcrunch.com/2023/04/26/bastion-is-an-all-in-one-cybersecurity-solution-for-small-businesses/)
-- [Elon Musk will likely testify about his Autopilot statements](https://techcrunch.com/2023/04/26/elon-musk-will-likely-testify-about-his-autopilot-statements/)
-- [Meta says time spent on Instagram grew 24% thanks to TikTok-style AI Reel recommendations](https://techcrunch.com/2023/04/26/meta-says-time-spent-on-instagram-grew-24-thanks-to-tiktok-style-ai-reel-recommendations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
