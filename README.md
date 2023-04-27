@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pinterest announces multi-year ads partnership with Amazon](https://techcrunch.com/2023/04/27/pinterest-announces-multi-year-ads-partnership-with-amazon/)
+- [Martian dust likely preventing Chinese rover from waking up](https://www.space.com/dust-preventing-china-mars-rover-zhurong-waking-up)
+- [Brett Harrison ‘never lost faith in the business’ while at now-shuttered FTX](https://techcrunch.com/2023/04/27/ftx-crypto-exchange-collapse-lookback/)
 - [Chief, a professional network for women leaders, cuts staff amid restructuring effort](https://techcrunch.com/2023/04/27/chief-a-professional-network-for-women-leaders-cuts-staff-amid-restructuring-effort/)
-- [Binance.US sailed away from its $1.3B deal with Voyager, now what?](https://techcrunch.com/2023/04/27/binance-us-sailed-away-from-its-1-3b-deal-with-voyager-now-what/)
-- [YouTube Music officially rolls out podcasts for listeners in the US](https://techcrunch.com/2023/04/27/youtube-music-officially-launches-podcasts-for-listeners-in-the-us/)
-- [Google tests a new ad slot on the Play Store ahead of its I/O developer conference](https://techcrunch.com/2023/04/27/google-tests-a-new-ad-slot-on-the-play-store-ahead-of-its-i-o-developer-conference/)
-- [Pitch Deck Teardown: Careerist’s $8M Series A deck](https://techcrunch.com/2023/04/27/sample-series-a-pitch-deck-careerist/)
+- [Hubble Telescope celebrates 33rd anniversary with gorgeous photo of nearby stellar nursery](https://www.space.com/hubble-telescope-stellar-nursery-photo-33rd-anniversary)
 <!-- BLOG-POST-LIST:END -->
 
 ---
