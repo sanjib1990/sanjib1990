@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Wow! Maxar satellite captures up-close look at NASA&#39;s Landsat 8 spacecraft in orbit](https://www.space.com/maxar-satellite-photo-nasa-landsat-8)
+- [Researchers develop tiny hydraulic haptics for touchscreen notifications you can physically feel](https://techcrunch.com/2023/04/27/tactile-push-notifications/)
+- [London’s Sturgeon Capital launches $35M fund aimed at emerging startups in Central Asia](https://techcrunch.com/2023/04/27/londons-sturgeon-capital-launches-35m-fund-aimed-at-emerging-startups-in-central-asia/)
 - [Meta updates its avatars with new body shapes, hair and clothing](https://techcrunch.com/2023/04/27/meta-updates-its-avatars-with-new-body-shops-hair-and-clothing/)
-- [Look up and see half-lit first quarter moon tonight](https://www.space.com/moon-first-quarter-april-2023)
-- [Y Combinator-backed Luca aims to optimize retail prices at enterprise scale](https://techcrunch.com/2023/04/27/luca-raises-cash-for-pricing-optimization/)
-- [NASA&#39;s TESS exoplanet-hunting satellite celebrates 5 years in space](https://www.space.com/nasa-tess-exoplanet-mission-five-year-anniversary)
-- [Sometimes you need to cut your startup’s school ties](https://techcrunch.com/2023/04/27/sometimes-you-need-to-cut-your-startups-school-ties/)
+- [Look up and see the half-lit first quarter moon buzz the Beehive Cluster tonight](https://www.space.com/moon-first-quarter-april-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
