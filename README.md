@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch an astronaut test a &#39;lunar wheelbarrow&#39; in moon-like gravity for 1st time &lpar;exclusive video&rpar;](https://www.space.com/first-test-lunar-wheelbarrow-in-moon-gravity-video)
-- [SpaceX Falcon Heavy will launch private mission to moon&#39;s south pole in 2026](https://www.space.com/spacex-falcon-heavy-moon-mission-astrobotic-2026)
-- [NBCUniversal reports higher Peacock losses as it shows CEO the door](https://techcrunch.com/2023/04/27/nbc-universal-peacock-ceo-q1-2023/)
-- [Capital efficiency is the new VC filter for startups](https://techcrunch.com/2023/04/27/capital-efficiency-is-the-new-vc-filter-for-startups/)
-- [Best Alien games of all time](https://www.space.com/best-alien-games-of-all-time)
+- [Chunk Foods close to opening factory to produce ‘millions’ of plant-based steaks](https://techcrunch.com/2023/04/27/chunk-foods-plant-based-food/)
+- [There’s a Disrupt pass for every role and budget](https://techcrunch.com/2023/04/27/six-different-pass-types-techcrunch-disrupt-2023/)
+- [Event platform POSH wants to democratize event planning](https://techcrunch.com/2023/04/27/event-management-ticketing-platform-posh-raises-5-million-seed-round/)
+- [Easyship strikes agreement to support eBay’s new International Shipping program](https://techcrunch.com/2023/04/27/easyship-ebay/)
+- [Three bittersweet &#39;Guardians of the Galaxy Vol. 3&#39; teasers promise one last space ride &lpar;videos&rpar;](https://www.space.com/guardians-of-the-galaxy-vol-3-final-promo-videos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
