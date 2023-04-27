@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Wow! Maxar satellite captures up-close look at NASA&#39;s Landsat 8 spacecraft in orbit](https://www.space.com/maxar-satellite-photo-nasa-landsat-8)
-- [Researchers develop tiny hydraulic haptics for touchscreen notifications you can physically feel](https://techcrunch.com/2023/04/27/tactile-push-notifications/)
-- [London’s Sturgeon Capital launches $35M fund aimed at emerging startups in Central Asia](https://techcrunch.com/2023/04/27/londons-sturgeon-capital-launches-35m-fund-aimed-at-emerging-startups-in-central-asia/)
-- [Meta updates its avatars with new body shapes, hair and clothing](https://techcrunch.com/2023/04/27/meta-updates-its-avatars-with-new-body-shops-hair-and-clothing/)
-- [Look up and see the half-lit first quarter moon buzz the Beehive Cluster tonight](https://www.space.com/moon-first-quarter-april-2023)
+- [Pitch Deck Teardown: Careerist’s $8M Series A deck](https://techcrunch.com/2023/04/27/sample-series-a-pitch-deck-careerist/)
+- [New MotoArt PlaneTags made from NASA aircraft used by Apollo tracking stations](https://www.space.com/motoart-planetags-nasa-tracking-station-super-constellation)
+- [Lyft layoffs to affect 26% of workforce](https://techcrunch.com/2023/04/27/lyft-layoffs-to-affect-26-of-workforce/)
+- [Replit, the web-based IDE developing a GitHub Copilot competitor, raises $100M](https://techcrunch.com/2023/04/27/replit-funding-100m-generative-ai/)
+- [Bipartisan Senate bill would ban social media algorithms for minors](https://techcrunch.com/2023/04/27/senate-bill-ban-algorithms-for-minors/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
