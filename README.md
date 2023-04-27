@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft makes its AI-powered Designer tool available in preview](https://techcrunch.com/2023/04/27/microsoft-makes-its-ai-powered-designer-tool-available-in-preview/)
-- [Bluesky’s best shot at success is to embrace shitposting](https://techcrunch.com/2023/04/27/blueskys-best-shot-at-success-is-to-embrace-shitposting/)
-- [Pinterest announces multi-year ads partnership with Amazon alongside earnings beat](https://techcrunch.com/2023/04/27/pinterest-announces-multi-year-ads-partnership-with-amazon/)
-- [Martian dust likely preventing Chinese rover from waking up](https://www.space.com/dust-preventing-china-mars-rover-zhurong-waking-up)
-- [Brett Harrison ‘never lost faith in the business’ while at now-shuttered FTX](https://techcrunch.com/2023/04/27/ftx-crypto-exchange-collapse-lookback/)
+- [Daily Crunch: Citing slow growth and desire to be ‘at the forefront of the AI era,’ Dropbox CEO lays off 500](https://techcrunch.com/2023/04/27/daily-crunch-citing-slow-growth-and-desire-to-be-at-the-forefront-of-the-ai-era-dropbox-ceo-lays-off-500/)
+- [Clubhouse needs to fix things, and today it cut more than half of staff](https://techcrunch.com/2023/04/27/clubhouse-needs-to-fix-things-and-today-it-cut-more-than-half-of-staff/)
+- [Snap stock down 24% on weak earnings, ad revenue slump](https://techcrunch.com/2023/04/27/snap-stock-down-24-on-weak-earnings-ad-revenue-slump/)
+- [Russia agrees to stay aboard International Space Station through 2028](https://www.space.com/russia-stay-international-space-station-partner-2028)
+- [Hackers steal emails, private messages from hookup websites](https://techcrunch.com/2023/04/27/hackers-steal-emails-private-messages-from-hookup-websites/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
