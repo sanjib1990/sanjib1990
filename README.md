@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Energy Dome gets $44M uplift into its CO2 battery for renewable energy storage](https://techcrunch.com/2023/04/27/energy-dome-series-b/)
-- [Intuit’s shift](https://techcrunch.com/2023/04/27/intuit-ai-shift/)
-- [Winter is coming: Artemis 2 moon mission gets boost from Canadian cold](https://www.space.com/artemis-2-moon-mission-canadian-cold)
-- [This &#39;Star Trek: Strange New Worlds&#39; teaser whets our appetite for season 2 &lpar;video&rpar;](https://www.space.com/strange-new-worlds-season-two-teaser)
-- [Korean fintech Kakao Pay to acquire majority stake in US brokerage firm Siebert](https://techcrunch.com/2023/04/27/korean-fintech-kakao-pay-to-acquire-majority-stake-in-us-brokerage-firm-siebert/)
+- [Watch an astronaut test a &#39;lunar wheelbarrow&#39; in moon-like gravity for 1st time &lpar;exclusive video&rpar;](https://www.space.com/first-test-lunar-wheelbarrow-in-moon-gravity-video)
+- [SpaceX Falcon Heavy will launch private mission to moon&#39;s south pole in 2026](https://www.space.com/spacex-falcon-heavy-moon-mission-astrobotic-2026)
+- [NBCUniversal reports higher Peacock losses as it shows CEO the door](https://techcrunch.com/2023/04/27/nbc-universal-peacock-ceo-q1-2023/)
+- [Capital efficiency is the new VC filter for startups](https://techcrunch.com/2023/04/27/capital-efficiency-is-the-new-vc-filter-for-startups/)
+- [Best Alien games of all time](https://www.space.com/best-alien-games-of-all-time)
 <!-- BLOG-POST-LIST:END -->
 
 ---
