@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Elon Musk will likely testify about his Autopilot statements](https://techcrunch.com/2023/04/26/elon-musk-will-likely-testify-about-his-autopilot-statements/)
 - [Meta says time spent on Instagram grew 24% thanks to TikTok-style AI Reel recommendations](https://techcrunch.com/2023/04/26/meta-says-time-spent-on-instagram-grew-24-thanks-to-tiktok-style-ai-reel-recommendations/)
 - [Daily Crunch: Lookout sells consumer security segment for $223M to become ‘pure-play enterprise company’](https://techcrunch.com/2023/04/26/daily-crunch-lookout-sells-consumer-security-segment-for-223m-to-become-pure-play-enterprise-company/)
 - [New tabletop game &#39;Death in Space&#39; lets you mine for precious gems in the ravaged Tenebris system](https://www.space.com/death-in-space-role-playing-game)
 - [Meta beats revenue expectations, remains committed to metaverse](https://techcrunch.com/2023/04/26/meta-beats-revenue-expectations-remains-committed-to-metaverse/)
-- [Theranos founder Elizabeth Holmes isn’t headed to jail tomorrow after all](https://techcrunch.com/2023/04/26/theranos-founder-elizabeth-holmes-isnt-headed-to-jail-tomorrow-after-all/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
