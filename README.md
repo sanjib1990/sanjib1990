@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Energy Dome gets $44M uplift into its CO2 battery for renewable energy storage](https://techcrunch.com/2023/04/27/energy-dome-series-b/)
+- [Intuit’s shift](https://techcrunch.com/2023/04/27/intuit-ai-shift/)
 - [Winter is coming: Artemis 2 moon mission gets boost from Canadian cold](https://www.space.com/artemis-2-moon-mission-canadian-cold)
 - [This &#39;Star Trek: Strange New Worlds&#39; teaser whets our appetite for season 2 &lpar;video&rpar;](https://www.space.com/strange-new-worlds-season-two-teaser)
 - [Korean fintech Kakao Pay to acquire majority stake in US brokerage firm Siebert](https://techcrunch.com/2023/04/27/korean-fintech-kakao-pay-to-acquire-majority-stake-in-us-brokerage-firm-siebert/)
-- [Meta says about 10% of its global ad revenue at risk from EU data flows order](https://techcrunch.com/2023/04/27/meta-warns-on-data-suspension-risk/)
-- [James Murdoch-backed Viacom18 to bring Succession, other HBO catalog to India](https://techcrunch.com/2023/04/27/warner-bros-partners-with-james-murdoch-backed-viacom18-to-bring-succession-other-hbo-content-to-india/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
