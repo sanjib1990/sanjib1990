@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Instagram and Facebook will force their checkout experience on Shops soon](https://techcrunch.com/2023/04/27/instagram-facebook-force-checkout-experience-shops-soon/)
+- [Dropbox lays off 500 employees, 16% of staff, CEO says due to slowing growth and ‘the era of AI’](https://techcrunch.com/2023/04/27/dropbox-lays-off-500-employees-16-of-staff-ceo-says-due-to-slowing-growth-and-the-era-of-ai/)
 - [Silva Terra Scout XT headlamp Review](https://www.space.com/silva-terra-scout-xt-headlamp-review)
 - [Without a single euro changing hands, Irish nonprofit is helping to reinvent the grid](https://techcrunch.com/2023/04/27/excess-renewable-power-energycloud-nonprofit/)
 - [Uber Freight offers carriers a fuel card powered by startup AtoB](https://techcrunch.com/2023/04/27/uber-freight-offers-carriers-a-fuel-card-powered-by-startup-atob/)
-- [The strange mystery of asteroid Phaethon&#39;s comet-like tail may have just been solved](https://www.space.com/asteroid-phaethon-sodium-tail-not-dust)
-- [Space pictures! See our image of the day](https://www.space.com/34-image-day.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
