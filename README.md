@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Winter is coming: Artemis 2 moon mission gets boost from Canadian cold](https://www.space.com/artemis-2-moon-mission-canadian-cold)
+- [This &#39;Star Trek: Strange New Worlds&#39; teaser whets our appetite for season 2 &lpar;video&rpar;](https://www.space.com/strange-new-worlds-season-two-teaser)
 - [Korean fintech Kakao Pay to acquire majority stake in US brokerage firm Siebert](https://techcrunch.com/2023/04/27/korean-fintech-kakao-pay-to-acquire-majority-stake-in-us-brokerage-firm-siebert/)
 - [Meta says about 10% of its global ad revenue at risk from EU data flows order](https://techcrunch.com/2023/04/27/meta-warns-on-data-suspension-risk/)
-- [James Murdoch-backed Viacom18 to bring Succession, other HBO content to India](https://techcrunch.com/2023/04/27/warner-bros-partners-with-james-murdoch-backed-viacom18-to-bring-succession-other-hbo-content-to-india/)
-- [M3ter locks in $14M to expand its usage-based pricing tools for SaaS businesses](https://techcrunch.com/2023/04/27/m3ter-locks-in-14m-to-expand-its-usage-based-pricing-tools-for-saas-businesses/)
-- [Bastion is an all-in-one cybersecurity solution for small businesses](https://techcrunch.com/2023/04/26/bastion-is-an-all-in-one-cybersecurity-solution-for-small-businesses/)
+- [James Murdoch-backed Viacom18 to bring Succession, other HBO catalog to India](https://techcrunch.com/2023/04/27/warner-bros-partners-with-james-murdoch-backed-viacom18-to-bring-succession-other-hbo-content-to-india/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
