@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Instagram and Facebook will force their checkout experience on Shops soon](https://techcrunch.com/2023/04/27/instagram-facebook-force-checkout-experience-shops-soon/)
-- [Dropbox lays off 500 employees, 16% of staff, CEO says due to slowing growth and ‘the era of AI’](https://techcrunch.com/2023/04/27/dropbox-lays-off-500-employees-16-of-staff-ceo-says-due-to-slowing-growth-and-the-era-of-ai/)
-- [Silva Terra Scout XT headlamp Review](https://www.space.com/silva-terra-scout-xt-headlamp-review)
-- [Without a single euro changing hands, Irish nonprofit is helping to reinvent the grid](https://techcrunch.com/2023/04/27/excess-renewable-power-energycloud-nonprofit/)
-- [Uber Freight offers carriers a fuel card powered by startup AtoB](https://techcrunch.com/2023/04/27/uber-freight-offers-carriers-a-fuel-card-powered-by-startup-atob/)
+- [Meta updates its avatars with new body shapes, hair and clothing](https://techcrunch.com/2023/04/27/meta-updates-its-avatars-with-new-body-shops-hair-and-clothing/)
+- [Look up and see half-lit first quarter moon tonight](https://www.space.com/moon-first-quarter-april-2023)
+- [Y Combinator-backed Luca aims to optimize retail prices at enterprise scale](https://techcrunch.com/2023/04/27/luca-raises-cash-for-pricing-optimization/)
+- [NASA&#39;s TESS exoplanet-hunting satellite celebrates 5 years in space](https://www.space.com/nasa-tess-exoplanet-mission-five-year-anniversary)
+- [Sometimes you need to cut your startup’s school ties](https://techcrunch.com/2023/04/27/sometimes-you-need-to-cut-your-startups-school-ties/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
