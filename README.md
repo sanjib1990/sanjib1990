@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch+ roundup: Customer personas, content that resonates, efficiency metrics VCs love](https://techcrunch.com/2023/04/28/techcrunch-roundup-customer-personas-content-that-resonates-efficiency-metrics-vcs-love/)
+- [Space pictures! See our image of the day](https://www.space.com/34-image-day.html)
 - [After initially defying the global slowdown, African startups’ first quarter venture results fall](https://techcrunch.com/2023/04/28/slowdown-african-startups/)
 - [Shares of First Republic are off 40% on reports that the government may step in](https://techcrunch.com/2023/04/28/first-republic-fdic-receivership/)
 - [Big telescope deal spotted: Unistellar eVscope 2 is $600 off](https://www.space.com/unistellar-evscope-2-deal-save-600-dollars-amazon-lowest-price)
-- [How Jack Dorsey’s Bitcoin Legal Defense Fund is fighting for the future of open source software](https://techcrunch.com/2023/04/28/jack-dorseys-bitcoin-legal-defense-fund-goes-to-court-to-protect-open-source/)
-- [Seismic waves inside Mars&#39; core hint at how it became hostile to life](https://www.space.com/mars-core-seismic-waves-life-insight-lander)
 <!-- BLOG-POST-LIST:END -->
 
 ---
