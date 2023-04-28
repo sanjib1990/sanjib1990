@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TechCrunch+ roundup: Customer personas, content that resonates, efficiency metrics VCs love](https://techcrunch.com/2023/04/28/techcrunch-roundup-customer-personas-content-that-resonates-efficiency-metrics-vcs-love/)
-- [Space pictures! See our image of the day](https://www.space.com/34-image-day.html)
-- [After initially defying the global slowdown, African startups’ first quarter venture results fall](https://techcrunch.com/2023/04/28/slowdown-african-startups/)
-- [Shares of First Republic are off 40% on reports that the government may step in](https://techcrunch.com/2023/04/28/first-republic-fdic-receivership/)
-- [Big telescope deal spotted: Unistellar eVscope 2 is $600 off](https://www.space.com/unistellar-evscope-2-deal-save-600-dollars-amazon-lowest-price)
+- [Amazon is developing an improved LLM to power Alexa](https://techcrunch.com/2023/04/28/amazon-working-improved-llm-to-power-alexa/)
+- [Curiosity rover on Mars gets a brain boost to think &lpar;and move&rpar; faster](https://www.space.com/curiosity-mars-rover-software-brain-boost)
+- [Kenyan court paves way for lawsuit alleging Facebook played role in fuelling Ethiopia’s Tigray conflict](https://techcrunch.com/2023/04/28/kenyan-court-paves-way-for-lawsuit-alleging-facebook-played-role-in-fuelling-ethiopias-tigray-conflict/)
+- [ChatGPT resumes service in Italy after adding privacy disclosures and controls](https://techcrunch.com/2023/04/28/chatgpt-resumes-in-italy/)
+- [#NotMyAI and other TC news](https://techcrunch.com/2023/04/28/notmyai-and-other-tc-news/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
