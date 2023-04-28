@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Brave Search doesn’t use Bing’s index anymore](https://techcrunch.com/2023/04/28/brave-search-doesnt-use-bings-index-anymore/)
+- [Watch SpaceX launch 2 telecom satellites, land rocket at sea today](https://www.space.com/spacex-ses-o3b-mpower-3-4-launch-2023)
+- [James Webb Space Telescope spots huge galactic protocluster in the early universe &lpar;photo&rpar;](https://www.space.com/james-webb-space-telescope-protocluster-early-universe)
 - [Reddit is testing Discord-like channels for community chat](https://techcrunch.com/2023/04/28/reddit-is-testing-discord-like-channels-for-community-chat/)
 - [Amazon omits India business in earnings, a first in years](https://techcrunch.com/2023/04/27/amazon-omits-india-business-in-earnings-a-first-in-years/)
-- [Muslims come into the frame in Southeast Asia’s fintech boom](https://techcrunch.com/2023/04/27/muslims-come-into-the-frame-in-southeast-asias-fintech-boom/)
-- [Daily Crunch: Citing slow growth and desire to be ‘at the forefront of the AI era,’ Dropbox CEO lays off 500](https://techcrunch.com/2023/04/27/daily-crunch-citing-slow-growth-and-desire-to-be-at-the-forefront-of-the-ai-era-dropbox-ceo-lays-off-500/)
-- [Clubhouse needs to fix things, and today it cut more than half of staff](https://techcrunch.com/2023/04/27/clubhouse-needs-to-fix-things-and-today-it-cut-more-than-half-of-staff/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
