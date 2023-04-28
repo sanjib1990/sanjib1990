@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Muslims come into the frame in Southeast Asia’s fintech boom](https://techcrunch.com/2023/04/27/muslims-come-into-the-frame-in-southeast-asias-fintech-boom/)
 - [Daily Crunch: Citing slow growth and desire to be ‘at the forefront of the AI era,’ Dropbox CEO lays off 500](https://techcrunch.com/2023/04/27/daily-crunch-citing-slow-growth-and-desire-to-be-at-the-forefront-of-the-ai-era-dropbox-ceo-lays-off-500/)
 - [Clubhouse needs to fix things, and today it cut more than half of staff](https://techcrunch.com/2023/04/27/clubhouse-needs-to-fix-things-and-today-it-cut-more-than-half-of-staff/)
 - [Snap stock down 24% on weak earnings, ad revenue slump](https://techcrunch.com/2023/04/27/snap-stock-down-24-on-weak-earnings-ad-revenue-slump/)
 - [Russia agrees to stay aboard International Space Station through 2028](https://www.space.com/russia-stay-international-space-station-partner-2028)
-- [Hackers steal emails, private messages from hookup websites](https://techcrunch.com/2023/04/27/hackers-steal-emails-private-messages-from-hookup-websites/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
