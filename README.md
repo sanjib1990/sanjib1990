@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How we used data-driven personas to radically improve the customer experience](https://techcrunch.com/2023/04/28/how-we-used-data-driven-personas-to-radically-improve-the-customer-experience/)
+- [China possibly adding helicopter, 6-legged robot to its Mars sample return mission](https://www.space.com/china-mars-helicopter-sample-return-plans)
 - [Brave Search doesn’t use Bing’s index anymore](https://techcrunch.com/2023/04/28/brave-search-doesnt-use-bings-index-anymore/)
-- [Watch SpaceX launch 2 telecom satellites, land rocket at sea today](https://www.space.com/spacex-ses-o3b-mpower-3-4-launch-2023)
+- [Watch SpaceX launch 2 SES communications satellites today](https://www.space.com/spacex-ses-o3b-mpower-3-4-launch-2023)
 - [James Webb Space Telescope spots huge galactic protocluster in the early universe &lpar;photo&rpar;](https://www.space.com/james-webb-space-telescope-protocluster-early-universe)
-- [Reddit is testing Discord-like channels for community chat](https://techcrunch.com/2023/04/28/reddit-is-testing-discord-like-channels-for-community-chat/)
-- [Amazon omits India business in earnings, a first in years](https://techcrunch.com/2023/04/27/amazon-omits-india-business-in-earnings-a-first-in-years/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
