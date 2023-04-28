@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New &#39;Silo&#39; trailer dives deep underground into Apple TV+&#39;s upcoming sci-fi series](https://www.space.com/silo-trailer-apple-tv-plus-sci-fi-series)
+- [Save up to $90 on the DJI Mini 3, our top-ranked drone for beginners](https://www.space.com/dji-mini-3-drone-deals-save-up-to-90-dollars)
 - [How we used data-driven personas to radically improve the customer experience](https://techcrunch.com/2023/04/28/how-we-used-data-driven-personas-to-radically-improve-the-customer-experience/)
 - [China possibly adding helicopter, 6-legged robot to its Mars sample return mission](https://www.space.com/china-mars-helicopter-sample-return-plans)
 - [Brave Search doesn’t use Bing’s index anymore](https://techcrunch.com/2023/04/28/brave-search-doesnt-use-bings-index-anymore/)
-- [Watch SpaceX launch 2 SES communications satellites today](https://www.space.com/spacex-ses-o3b-mpower-3-4-launch-2023)
-- [James Webb Space Telescope spots huge galactic protocluster in the early universe &lpar;photo&rpar;](https://www.space.com/james-webb-space-telescope-protocluster-early-universe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
