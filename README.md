@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Satellite-to-phone race heats up with voice calls and cross-Canada access](https://techcrunch.com/2023/04/28/satellite-to-phone-race-heats-up-with-voice-calls-and-cross-canada-access/)
+- [A claw machine does not a robotic gripper make](https://techcrunch.com/2023/04/28/a-claw-machine-does-not-a-robotic-gripper-make/)
 - [Europe&#39;s JUICE Jupiter probe has an antenna glitch in deep space](https://www.space.com/juice-jupiter-probe-antenna-glitch-deep-space)
 - [Amazon is developing an improved LLM to power Alexa](https://techcrunch.com/2023/04/28/amazon-working-improved-llm-to-power-alexa/)
 - [Curiosity rover on Mars gets a brain boost to think &lpar;and move&rpar; faster](https://www.space.com/curiosity-mars-rover-software-brain-boost)
-- [Kenyan court paves way for lawsuit alleging Facebook played role in fuelling Ethiopia’s Tigray conflict](https://techcrunch.com/2023/04/28/kenyan-court-paves-way-for-lawsuit-alleging-facebook-played-role-in-fuelling-ethiopias-tigray-conflict/)
-- [ChatGPT resumes service in Italy after adding privacy disclosures and controls](https://techcrunch.com/2023/04/28/chatgpt-resumes-in-italy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
