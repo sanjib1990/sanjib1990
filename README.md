@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How startups can produce social content that actually resonates](https://techcrunch.com/2023/04/28/how-startups-can-produce-social-content-that-actually-resonates/)
+- [Critical-rated security flaw in Illumina DNA sequencing tech exposes patient data](https://techcrunch.com/2023/04/28/illumina-dna-tech-fda-security-flaw/)
+- [&#39;Star Wars: Return of the Jedi&#39; returns to theaters ahead of its 40th anniversary](https://www.space.com/star-wars-return-of-the-jedi-40th-anniversary-theaters)
 - [Battle of two marketing companies](https://techcrunch.com/2023/04/28/battle-of-two-marketing-companies/)
 - [Cloud infrastructure revenue growth dips to 19% in Q1, but still hits $63B for quarter](https://techcrunch.com/2023/04/28/cloud-infrastructure-revenue-growth-dips-to-19-in-q1-but-still-hits-63b-for-quarter/)
-- [Virgin Galactic spacecraft makes first glide since historic spaceflight, aims for space](https://www.space.com/virgin-galactic-vss-unity-glide-flight-aims-space)
-- [Is First Republic just a victim of SVB’s collapse?](https://techcrunch.com/2023/04/28/is-first-republic-just-a-victim-of-svbs-collapse/)
-- [New &#39;Silo&#39; trailer dives deep underground into Apple TV+&#39;s upcoming sci-fi series](https://www.space.com/silo-trailer-apple-tv-plus-sci-fi-series)
 <!-- BLOG-POST-LIST:END -->
 
 ---
