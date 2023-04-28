@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [the END of VPNs?!](https://www.youtube.com/watch?v=IYmXPF3XUwo)
 - [Experiment: Filtration Lab](https://www.youtube.com/watch?v=HXwdm2DM18M)
 - [Experiment: Bluetooth Hide and Seek](https://www.youtube.com/watch?v=qfimubh_67Q)
 - [Introduction for LL EduCATE: Introduction to Engineering Concepts](https://www.youtube.com/watch?v=b9fHAZAWtFs)
 - [Experiment: Clausewitzian Chess](https://www.youtube.com/watch?v=Ed66NxfDETY)
-- [Teaching with MIT OpenCourseWare: Case Studies from Nigeria](https://www.youtube.com/watch?v=x_pU4g1UWIk)
 <!-- YOUTUBE:END -->
 
 ---
