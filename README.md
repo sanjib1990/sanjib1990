@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jack Dorsey thinks Elon Musk isn’t doing right by Twitter](https://techcrunch.com/2023/04/29/jack-dorsey-thinks-elon-musk-isnt-doing-right-by-twitter/)
 - [In spite of recent a downward trend, the future remains bright for cloud](https://techcrunch.com/2023/04/29/cloud-spending-future-growth/)
 - [The week in AI: ChatBots multiply and Musk wants to make a ‘maximum truth-seeking’ one](https://techcrunch.com/2023/04/29/the-week-in-ai-chatbots-multiply-and-musk-wants-to-make-a-maximum-truth-seeking-one/)
 - [SpaceX Falcon Heavy rocket aborts triple satellite launch at last minute](https://www.space.com/spacex-falcon-heavy-rocket-launch-abort-viasat-3-americas)
 - [Adobe Photoshop Review 2023](https://www.space.com/adobe-photoshop-review-2023)
-- [SpaceX Dragon debris lights up sky in bright fireball over western US during reentry &lpar;video&rpar;](https://www.space.com/spacex-dragon-fireball-debris-reentry-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
