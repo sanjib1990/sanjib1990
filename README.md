@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI closes $300M share sale at $27B-29B valuation](https://techcrunch.com/2023/04/28/openai-funding-valuation-chatgpt/)
 - [Daily Crunch: First Republic Bank stock reaches record low as feds discuss rescue plan](https://techcrunch.com/2023/04/28/daily-crunch-first-republic-bank-stock-reaches-record-low-as-feds-discuss-rescue-plan/)
 - [EV owners in Texas face $200 annual fee](https://techcrunch.com/2023/04/28/ev-owners-in-texas-face-200-annual-fee/)
 - [Satellite-to-phone race heats up with voice calls and cross-Canada access](https://techcrunch.com/2023/04/28/satellite-to-phone-race-heats-up-with-voice-calls-and-cross-canada-access/)
 - [A claw machine does not a robotic gripper make](https://techcrunch.com/2023/04/28/a-claw-machine-does-not-a-robotic-gripper-make/)
-- [Europe&#39;s JUICE Jupiter probe has an antenna glitch in deep space](https://www.space.com/juice-jupiter-probe-antenna-glitch-deep-space)
 <!-- BLOG-POST-LIST:END -->
 
 ---
