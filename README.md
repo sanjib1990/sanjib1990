@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Week in Apps: Users pan Snapchat’s AI, Bluesky has a moment, Apple wins antitrust appeal](https://techcrunch.com/2023/04/29/this-week-in-apps-users-pan-snapchats-ai-bluesky-has-a-moment-apple-wins-antitrust-appeal/)
+- [Pitch for the check you want](https://techcrunch.com/2023/04/29/pitch-for-the-check-you-want/)
 - [A pot of gold at the intersection of DevOps and generative AI?](https://techcrunch.com/2023/04/29/devops-generative-ai/)
 - [Persona and Index Ventures talk identity, and identifying a good deal](https://techcrunch.com/2023/04/29/persona-and-index-ventures-talk-identity-and-identifying-a-good-deal/)
 - [Jack Dorsey thinks Elon Musk isn’t doing right by Twitter](https://techcrunch.com/2023/04/29/jack-dorsey-thinks-elon-musk-isnt-doing-right-by-twitter/)
-- [In spite of recent a downward trend, the future remains bright for cloud](https://techcrunch.com/2023/04/29/cloud-spending-future-growth/)
-- [The week in AI: ChatBots multiply and Musk wants to make a ‘maximum truth-seeking’ one](https://techcrunch.com/2023/04/29/the-week-in-ai-chatbots-multiply-and-musk-wants-to-make-a-maximum-truth-seeking-one/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
