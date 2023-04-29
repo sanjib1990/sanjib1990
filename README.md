@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [In spite of recent a downward trend, the future remains bright for cloud](https://techcrunch.com/2023/04/29/cloud-spending-future-growth/)
+- [The week in AI: ChatBots multiply and Musk wants to make a ‘maximum truth-seeking’ one](https://techcrunch.com/2023/04/29/the-week-in-ai-chatbots-multiply-and-musk-wants-to-make-a-maximum-truth-seeking-one/)
+- [SpaceX Falcon Heavy rocket aborts triple satellite launch at last minute](https://www.space.com/spacex-falcon-heavy-rocket-launch-abort-viasat-3-americas)
 - [Adobe Photoshop Review 2023](https://www.space.com/adobe-photoshop-review-2023)
 - [SpaceX Dragon debris lights up sky in bright fireball over western US during reentry &lpar;video&rpar;](https://www.space.com/spacex-dragon-fireball-debris-reentry-video)
-- [Hubble telescope eyes galactic site of distant star explosion &lpar;video&rpar;](https://www.space.com/hubble-space-telescope-galaxy-supernova-star-explosion)
-- [As the US cracks down on crypto, Hong Kong extends a warm welcome](https://techcrunch.com/2023/04/29/hong-kong-china-crypto-east-rises/)
-- [Edtech giant Byju’s under India’s financial crime agency radar](https://techcrunch.com/2023/04/28/edtech-giant-byjus-founder-under-india-crime-fighting-agency-radar/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
