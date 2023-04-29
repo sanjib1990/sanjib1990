@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Adobe Photoshop Review 2023](https://www.space.com/adobe-photoshop-review-2023)
+- [SpaceX Dragon debris lights up sky in bright fireball over western US during reentry &lpar;video&rpar;](https://www.space.com/spacex-dragon-fireball-debris-reentry-video)
 - [Hubble telescope eyes galactic site of distant star explosion &lpar;video&rpar;](https://www.space.com/hubble-space-telescope-galaxy-supernova-star-explosion)
 - [As the US cracks down on crypto, Hong Kong extends a warm welcome](https://techcrunch.com/2023/04/29/hong-kong-china-crypto-east-rises/)
 - [Edtech giant Byju’s under India’s financial crime agency radar](https://techcrunch.com/2023/04/28/edtech-giant-byjus-founder-under-india-crime-fighting-agency-radar/)
-- [OpenAI closes $300M share sale at $27B-29B valuation](https://techcrunch.com/2023/04/28/openai-funding-valuation-chatgpt/)
-- [Daily Crunch: First Republic Bank stock reaches record low as feds discuss rescue plan](https://techcrunch.com/2023/04/28/daily-crunch-first-republic-bank-stock-reaches-record-low-as-feds-discuss-rescue-plan/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
