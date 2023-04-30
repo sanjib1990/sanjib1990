@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Acebeam X75 flashlight power bank review](https://www.space.com/acebeam-x75-flashlight-power-bank-review)
+- [Funko Games unveils new cranium-busting &#39;Star Trek Cryptic&#39; tabletop game](https://www.space.com/funko-games-unveils-new-cranium-busting-star-trek-cryptic-tabletop-game)
+- [‘Buy American’ shouldn’t block our progress toward ‘Internet for All’](https://techcrunch.com/2023/04/30/buy-american-shouldnt-block-our-progress-toward-internet-for-all/)
+- [See asteroid Iris 7 make its close approach to Earth tonight](https://www.space.com/asteroid-iris-7-earth-approach-opposition-april-2023)
 - [Zero-G announces plans for once-in-a-lifetime zero gravity musical concerts](https://www.space.com/zero-g-concerts-private-weightless-flights)
-- [Elon exposes his burner, Tile embraces the cat life, and Elizabeth Holmes avoids prison](https://techcrunch.com/2023/04/29/elon-exposes-his-burner-tile-embraces-the-cat-life-and-elizabeth-holmes-avoids-prison/)
-- [This Week in Apps: Users pan Snapchat’s AI, Bluesky has a moment, Apple wins antitrust appeal](https://techcrunch.com/2023/04/29/this-week-in-apps-users-pan-snapchats-ai-bluesky-has-a-moment-apple-wins-antitrust-appeal/)
-- [Pitch for the check you want](https://techcrunch.com/2023/04/29/pitch-for-the-check-you-want/)
-- [A pot of gold at the intersection of DevOps and generative AI?](https://techcrunch.com/2023/04/29/devops-generative-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
