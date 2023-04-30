@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The cultivated meat industry’s known struggles will take time to sort out, and maybe that’s OK](https://techcrunch.com/2023/04/30/cultivated-meat-struggles-foodtech/)
 - [Warm intros are awful for diversity, so why do investors keep insisting on them?](https://techcrunch.com/2023/04/30/warm-intros-suck-for-vc/)
 - [See Mercury&#39;s giant, comet-like tail in stunning new image as it passes close to the sun](https://www.space.com/mercury-giant-comet-tail-amateur-photo)
 - [Spend management space sees a large raise, and layoffs, in the same week](https://techcrunch.com/2023/04/30/spend-management-space-sees-a-large-raise-and-layoffs-in-the-same-week/)
 - [NASA satellite crash not source of mysterious flash of light above Ukraine capital, agency claims](https://www.space.com/nasa-satellite-crash-not-source-of-ukraine-flash)
-- [Acebeam X75 flashlight power bank review](https://www.space.com/acebeam-x75-flashlight-power-bank-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
