@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Warm intros are awful for diversity, so why do investors keep insisting on them?](https://techcrunch.com/2023/04/30/warm-intros-suck-for-vc/)
+- [See Mercury&#39;s giant, comet-like tail in stunning new image as it passes close to the sun](https://www.space.com/mercury-giant-comet-tail-amateur-photo)
+- [Spend management space sees a large raise, and layoffs, in the same week](https://techcrunch.com/2023/04/30/spend-management-space-sees-a-large-raise-and-layoffs-in-the-same-week/)
+- [NASA satellite crash not source of mysterious flash of light above Ukraine capital, agency claims](https://www.space.com/nasa-satellite-crash-not-source-of-ukraine-flash)
 - [Acebeam X75 flashlight power bank review](https://www.space.com/acebeam-x75-flashlight-power-bank-review)
-- [Funko Games unveils new cranium-busting &#39;Star Trek Cryptic&#39; tabletop game](https://www.space.com/funko-games-unveils-new-cranium-busting-star-trek-cryptic-tabletop-game)
-- [‘Buy American’ shouldn’t block our progress toward ‘Internet for All’](https://techcrunch.com/2023/04/30/buy-american-shouldnt-block-our-progress-toward-internet-for-all/)
-- [See asteroid Iris 7 make its close approach to Earth tonight](https://www.space.com/asteroid-iris-7-earth-approach-opposition-april-2023)
-- [Zero-G announces plans for once-in-a-lifetime zero gravity musical concerts](https://www.space.com/zero-g-concerts-private-weightless-flights)
 <!-- BLOG-POST-LIST:END -->
 
 ---
