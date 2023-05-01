@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Lyft layoffs arrive, GM kills off the Chevy Bolt and Tesla makes a ‘deep fake’ defense](https://techcrunch.com/2023/05/01/lyft-layoffs-arrive-gm-kills-off-the-chevy-bolt-and-tesla-makes-a-deep-fake-defense/)
-- [Once-hot photo-sharing app Poparazzi is shutting down](https://techcrunch.com/2023/05/01/once-hot-photo-sharing-social-app-poparazzi-is-shutting-down/)
-- [How this investor widens its net by refusing warm intros](https://techcrunch.com/2023/05/01/goahead-ventures-seed-funding/)
-- [SpaceX’s Starship didn’t self-destruct immediately as planned during test launch](https://techcrunch.com/2023/05/01/spacexs-starship-didnt-self-destruct-immediately-as-planned-during-test-launch/)
-- [Hey look, OpenAI is even richer now](https://techcrunch.com/2023/05/01/hey-look-openai-is-even-richer-now/)
+- [Amazon will juice its Freevee free streaming service with 100+ Amazon Originals in 2023](https://techcrunch.com/2023/05/01/amazon-will-juice-its-freevee-free-streaming-service-with-100-amazon-originals-in-2023/)
+- [Vercel brings new backend tools to its frontend cloud](https://techcrunch.com/2023/05/01/vercel-adds-new-backend-tools-to-its-frontend-cloud/)
+- [Blue checks reappear on Twitter if you update your bio, lmao](https://techcrunch.com/2023/05/01/blue-checks-reappear-on-twitter-if-you-update-your-bio-lmao/)
+- [It’s never too late to align product-market fit metrics with your company’s values](https://techcrunch.com/2023/05/01/product-market-fit-greylock-david-thacker/)
+- [Hear how Cambrian BioPharma is reinventing drug &lpar;and drug company&rpar; development](https://techcrunch.com/2023/05/01/hear-how-cambrian-biopharma-is-reinventing-drug-and-drug-company-development/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
