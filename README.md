@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Cosmic rays pose dangers to frequent flyers. This radiation detector could help.](https://www.space.com/cosmic-rays-risk-air-travel-radiation-detector)
-- [Twitter is randomly logging out users. You’re welcome.](https://techcrunch.com/2023/05/01/twitter-is-randomly-logging-out-users-youre-welcome/)
-- [FAA failed to fully assess environmental effects of Starship, lawsuit alleges](https://techcrunch.com/2023/05/01/faa-failed-to-fully-assess-environmental-effects-of-starship-lawsuit-alleges/)
-- [Only two weeks left to apply to Startup Battlefield 200 at Disrupt 2023](https://techcrunch.com/2023/05/01/two-weeks-left-apply-startup-battlefield-200-techcrunch-disrupt-2023/)
-- [China to land astronauts on the moon by 2030, lunar scientist says](https://www.space.com/china-land-astronaut-on-the-moon-2030)
+- [Daily Crunch: In United States’ second-largest bank failure, feds seize First Republic Bank and sell it to JPMorgan Chase](https://techcrunch.com/2023/05/01/daily-crunch-in-us-second-largest-bank-failure-feds-seize-first-republic-bank-and-sell-it-to-jpmorgan-chase/)
+- [China&#39;s hypersonic research to get boost from satellite startup](https://www.space.com/china-hypersonics-research-satellite-startup-galaxy-space)
+- [Max Q: Expect the worst, hope for the best](https://techcrunch.com/2023/05/01/max-q-expect-the-worst-hope-for-the-best/)
+- [Wreak havoc on your favorite streamer’s game with Crowd Control](https://techcrunch.com/2023/05/01/crowd-control-interactive-stream/)
+- [Elon Musk reportedly settles defamation suit after saying he’d never ‘surrender an unjust case’](https://techcrunch.com/2023/05/01/elon-musk-defamation-suit-tesla-hothi-tslaq/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
