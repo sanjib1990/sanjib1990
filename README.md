@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I watched the moon &#39;take a bite of the sun&#39; in a rare hybrid solar eclipse last week. Here&#39;s what I saw from Australia.](https://www.space.com/hybrid-solar-eclipse-australia-heres-what-i-saw)
+- [Spotify-owned Findaway Voices eliminates distribution fee for audiobooks on the streaming service](https://techcrunch.com/2023/05/01/spotify-owned-findaway-voices-eliminates-distribution-fee-for-audiobooks-on-the-streaming-service/)
+- [The ice-breaking IPO we’ve waited for might not come from the US after all](https://techcrunch.com/2023/05/01/arm-ipo-us-softbank-startups/)
 - [Amazon will juice its Freevee free streaming service with 100+ Amazon Originals in 2023](https://techcrunch.com/2023/05/01/amazon-will-juice-its-freevee-free-streaming-service-with-100-amazon-originals-in-2023/)
 - [Vercel brings new backend tools to its frontend cloud](https://techcrunch.com/2023/05/01/vercel-adds-new-backend-tools-to-its-frontend-cloud/)
-- [Blue checks reappear on Twitter if you update your bio, lmao](https://techcrunch.com/2023/05/01/blue-checks-reappear-on-twitter-if-you-update-your-bio-lmao/)
-- [It’s never too late to align product-market fit metrics with your company’s values](https://techcrunch.com/2023/05/01/product-market-fit-greylock-david-thacker/)
-- [Hear how Cambrian BioPharma is reinventing drug &lpar;and drug company&rpar; development](https://techcrunch.com/2023/05/01/hear-how-cambrian-biopharma-is-reinventing-drug-and-drug-company-development/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
