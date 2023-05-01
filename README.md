@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ryan Breslow’s Love health, wellness marketplace goes live](https://techcrunch.com/2023/05/01/ryan-breslow-love-health-wellness-marketplace/)
+- [Amazon debuts free, ad-supported streaming channels just for Fire TV](https://techcrunch.com/2023/05/01/amazon-debuts-free-ad-supported-streaming-channels-just-for-fire-tv/)
 - [Daily Crunch: In United States’ second-largest bank failure, feds seize First Republic Bank and sell it to JPMorgan Chase](https://techcrunch.com/2023/05/01/daily-crunch-in-us-second-largest-bank-failure-feds-seize-first-republic-bank-and-sell-it-to-jpmorgan-chase/)
 - [China&#39;s hypersonic research to get boost from satellite startup](https://www.space.com/china-hypersonics-research-satellite-startup-galaxy-space)
 - [Max Q: Expect the worst, hope for the best](https://techcrunch.com/2023/05/01/max-q-expect-the-worst-hope-for-the-best/)
-- [Wreak havoc on your favorite streamer’s game with Crowd Control](https://techcrunch.com/2023/05/01/crowd-control-interactive-stream/)
-- [Elon Musk reportedly settles defamation suit after saying he’d never ‘surrender an unjust case’](https://techcrunch.com/2023/05/01/elon-musk-defamation-suit-tesla-hothi-tslaq/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
