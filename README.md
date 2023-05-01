@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Lordstown savior Foxconn is threatening to pull funding](https://techcrunch.com/2023/05/01/lordstown-savior-foxconn-is-threatening-to-pull-funding/)
-- [A lunar eclipse happens on May 5. Here&#39;s what you need to know](https://www.space.com/lunar-eclipse-penumbral-may-2023)
-- [RTRO launches an algorithm-free social app for friends, creators and brands](https://techcrunch.com/2023/05/01/rtro-launches-an-algorithm-free-social-app-for-friends-creators-and-brands/)
-- [I watched the moon &#39;take a bite of the sun&#39; in a rare hybrid solar eclipse last week. Here&#39;s what I saw from Australia.](https://www.space.com/hybrid-solar-eclipse-australia-heres-what-i-saw)
-- [Spotify-owned Findaway Voices eliminates distribution fee for audiobooks on the streaming service](https://techcrunch.com/2023/05/01/spotify-owned-findaway-voices-eliminates-distribution-fee-for-audiobooks-on-the-streaming-service/)
+- [Only two weeks left to apply to Startup Battlefield 200 at Disrupt 2023](https://techcrunch.com/2023/05/01/two-weeks-left-apply-startup-battlefield-200-techcrunch-disrupt-2023/)
+- [China to land astronauts on the moon by 2030, lunar scientist says](https://www.space.com/china-land-astronaut-on-the-moon-2030)
+- [Apple releases first ‘rapid’ security fixes for iPhones, iPads and Macs](https://techcrunch.com/2023/05/01/apple-rapid-security-fixes/)
+- [Neato Robotics is being shut down after 18 years](https://techcrunch.com/2023/05/01/neato-robotics-is-being-shut-down-after-18-years/)
+- [Environmental groups sue FAA over SpaceX Starship rocket](https://www.space.com/spacex-starship-rocket-environmental-groups-sue-faa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
