@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Automation helps founders avoid the basis point yield trap](https://techcrunch.com/2023/05/01/automation-helps-founders-avoid-the-basis-point-yield-trap/)
-- [Vote for the roundtables you want at Disrupt 2023](https://techcrunch.com/2023/05/01/audience-choice-voting-roundtables-techcrunch-disrupt-2023/)
-- [Your site needs more than just one user onboarding experience](https://techcrunch.com/2023/05/01/your-site-needs-more-than-just-one-user-onboarding-experience/)
-- [How do you create lunar gravity in a plane? A veteran zero-G pilot explains](https://www.space.com/lunar-gravity-parabolic-flight-pilot-interview)
-- [Moonquakes could &#39;smooth out&#39; the surfaces of Jupiter and Saturn&#39;s icy moons](https://www.space.com/moonquakes-shape-surfaces-gas-giant-moons)
+- [Lyft layoffs arrive, GM kills off the Chevy Bolt and Tesla makes a ‘deep fake’ defense](https://techcrunch.com/2023/05/01/lyft-layoffs-arrive-gm-kills-off-the-chevy-bolt-and-tesla-makes-a-deep-fake-defense/)
+- [Once-hot photo-sharing app Poparazzi is shutting down](https://techcrunch.com/2023/05/01/once-hot-photo-sharing-social-app-poparazzi-is-shutting-down/)
+- [How this investor widens its net by refusing warm intros](https://techcrunch.com/2023/05/01/goahead-ventures-seed-funding/)
+- [SpaceX’s Starship didn’t self-destruct immediately as planned during test launch](https://techcrunch.com/2023/05/01/spacexs-starship-didnt-self-destruct-immediately-as-planned-during-test-launch/)
+- [Hey look, OpenAI is even richer now](https://techcrunch.com/2023/05/01/hey-look-openai-is-even-richer-now/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
