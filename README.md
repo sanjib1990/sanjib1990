@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI platform to analyze creative advertising raises $5.1M from investors, including a16z](https://techcrunch.com/2023/05/01/ai-platform-to-analyze-creative-advertising-raises-5-1m-from-investors-including-a16z/)
 - [Meet Visa, Mayfield, DuploCloud and more at Disrupt](https://techcrunch.com/2023/04/30/first-announcement-partners-techcrunch-disrupt-2023/)
 - [Everything you need to know about Lego&#39;s May the 4th Star Wars event](https://www.space.com/everything-you-need-to-know-about-legos-may-the-4th-star-wars-event)
 - [The cultivated meat industry’s known struggles will take time to sort out, and maybe that’s OK](https://techcrunch.com/2023/04/30/cultivated-meat-struggles-foodtech/)
 - [Warm intros are awful for diversity, so why do investors keep insisting on them?](https://techcrunch.com/2023/04/30/warm-intros-suck-for-vc/)
-- [See Mercury&#39;s giant, comet-like tail in stunning new image as it passes close to the sun](https://www.space.com/mercury-giant-comet-tail-amateur-photo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
