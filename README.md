@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cosmic rays pose dangers to frequent flyers. This radiation detector could help.](https://www.space.com/cosmic-rays-risk-air-travel-radiation-detector)
+- [Twitter is randomly logging out users. You’re welcome.](https://techcrunch.com/2023/05/01/twitter-is-randomly-logging-out-users-youre-welcome/)
+- [FAA failed to fully assess environmental effects of Starship, lawsuit alleges](https://techcrunch.com/2023/05/01/faa-failed-to-fully-assess-environmental-effects-of-starship-lawsuit-alleges/)
 - [Only two weeks left to apply to Startup Battlefield 200 at Disrupt 2023](https://techcrunch.com/2023/05/01/two-weeks-left-apply-startup-battlefield-200-techcrunch-disrupt-2023/)
 - [China to land astronauts on the moon by 2030, lunar scientist says](https://www.space.com/china-land-astronaut-on-the-moon-2030)
-- [Apple releases first ‘rapid’ security fixes for iPhones, iPads and Macs](https://techcrunch.com/2023/05/01/apple-rapid-security-fixes/)
-- [Neato Robotics is being shut down after 18 years](https://techcrunch.com/2023/05/01/neato-robotics-is-being-shut-down-after-18-years/)
-- [Environmental groups sue FAA over SpaceX Starship rocket](https://www.space.com/spacex-starship-rocket-environmental-groups-sue-faa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
