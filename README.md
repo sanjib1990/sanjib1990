@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Vote for the roundtables you want at Disrupt 2023](https://techcrunch.com/2023/05/01/audience-choice-voting-roundtables-techcrunch-disrupt-2023/)
 - [Your site needs more than just one user onboarding experience](https://techcrunch.com/2023/05/01/your-site-needs-more-than-just-one-user-onboarding-experience/)
 - [How do you create lunar gravity in a plane? A veteran zero-G pilot explains](https://www.space.com/lunar-gravity-parabolic-flight-pilot-interview)
 - [Moonquakes could &#39;smooth out&#39; the surfaces of Jupiter and Saturn&#39;s icy moons](https://www.space.com/moonquakes-shape-surfaces-gas-giant-moons)
 - [Regulators close First Republic Bank, JPMorgan named as the buyer of $330B assets and deposits, FDIC on the hook for $13B](https://techcrunch.com/2023/05/01/jpmorgan-chase-first-republic-bank/)
-- [AI platform to analyze creative advertising raises $5.1M from investors, including a16z](https://techcrunch.com/2023/05/01/ai-platform-to-analyze-creative-advertising-raises-5-1m-from-investors-including-a16z/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
