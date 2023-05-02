@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Viam’s robot prototyping software hits general availability](https://techcrunch.com/2023/05/02/viams-robot-prototyping-software-hits-general-availability/)
-- [Vote for the breakout sessions you want at Disrupt 2023](https://techcrunch.com/2023/05/02/vote-for-the-breakout-sessions-you-want-at-disrupt-2023/)
-- [Kodiak Robotics is adding an electric, autonomous semi truck to its fleet next year](https://techcrunch.com/2023/05/02/kodiak-robotics-is-adding-an-electric-autonomous-semi-truck-to-its-fleet-next-year/)
-- [Woven Capital, Nvidia back Foretellix’s autonomous vehicle validation tech](https://techcrunch.com/2023/05/02/woven-capital-nvidia-back-foretellixs-autonomous-vehicle-validation-tech/)
-- [The era of software-defined battery startups is here](https://techcrunch.com/2023/05/02/the-era-of-software-defined-battery-startups-is-here/)
+- [Pietra helped creators start DTC businesses; now it has a roadmap for everyone](https://techcrunch.com/2023/05/02/pietra-creators-dtc-commerce/)
+- [&#39;Hycean&#39; exoplanets may not be able to support life after all](https://www.space.com/hycean-exoplanets-may-not-support-life)
+- [Citymapper lowers the paywall for premium features but keeps monthly subscription for removing ads](https://techcrunch.com/2023/05/02/citymapper-lowers-the-paywall-for-premium-features-but-keeps-a-monthly-subscription-for-removing-ads/)
+- [Samsung bans use of generative AI tools like ChatGPT after April internal data leak](https://techcrunch.com/2023/05/02/samsung-bans-use-of-generative-ai-tools-like-chatgpt-after-april-internal-data-leak/)
+- [Augmental lets you control a computer &lpar;and sex toys&rpar; with your tongue](https://techcrunch.com/2023/05/02/augmental/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
