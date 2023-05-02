@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nextdoor launches new ‘Assistant’ feature powered by OpenAI’s ChatGPT](https://techcrunch.com/2023/05/02/nextdoor-launches-new-assistant-feature-powered-by-openais-chatgpt/)
 - [Tiny primordial black holes could have created their own Big Bang](https://www.space.com/primordial-black-holes-create-big-bang)
 - [Artemis 2 astronauts flying to the moon could phone home with ham radio](https://www.space.com/nasa-artemis-2-moon-mission-ham-radio)
 - [Mastodon now has a simpler sign up process](https://techcrunch.com/2023/05/02/mastodon-now-has-a-simpler-sign-up-process/)
 - [African payment service provider Nomba raises $30M, backed by Base10 Partners and Shopify](https://techcrunch.com/2023/05/02/african-payment-service-provider-nomba-raises-30m-backed-by-base10-partners-and-shopify/)
-- [eBay appoints new head of emerging markets, covering regions like Southeast Asia and India](https://techcrunch.com/2023/05/01/ebay-emerging-markets-head/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
