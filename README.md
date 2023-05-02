@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Expo+ passes to TechCrunch Disrupt are on sale now](https://techcrunch.com/2023/05/02/expo-plus-pass-sale-techcrunch-disrupt-2023/)
+- [See the moment lightning struck SpaceX&#39;s Falcon Heavy rocket launch pad &lpar;photo&rpar;](https://www.space.com/spacex-falcon-heavy-lightning-strike-launch-pad)
+- [Filling in the learning disability assessment gaps with Stefan Bauer form Marker Learning](https://techcrunch.com/2023/05/02/filling-in-the-learning-disability-assessment-gaps-with-stefan-bauer-form-marker-learning/)
+- [TechCrunch Live is going to Atlanta and you’re invited!](https://techcrunch.com/2023/05/02/techcrunch-live-is-going-to-atlanta-and-youre-invited/)
 - [SpaceX should be ready to launch Starship again in 6 to 8 weeks, Elon Musk says](https://www.space.com/spacex-ready-launch-starship-six-eight-weeks-musk)
-- [Sex workers explain why blue check stigma and #BlockTheBlue aren’t so straightforward](https://techcrunch.com/2023/05/02/sex-workers-explain-why-blue-check-stigma-and-blocktheblue-arent-so-straightforward/)
-- [Bluesky invites become a hot commodity as demand for the Twitter alternative outstrips access](https://techcrunch.com/2023/05/02/bluesky-invites-become-a-hot-commodity-as-demand-for-the-twitter-alternative-outstrips-access/)
-- [Guardians of the Galaxy visit &lpar;real&rpar; ISS for 3D-printed Zune and STEAM education](https://www.space.com/guardians-galaxy-space-station-3d-printed-zune)
-- [Peacock officially launches ‘Must ShopTV’ to let users shop products that appear in the content](https://techcrunch.com/2023/05/02/peacock-newfront-2023-must-shoptv-shoppable-ads/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
