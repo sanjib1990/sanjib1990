@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple and Google team up on industry spec to make Bluetooth tracking devices, like AirTag, safer](https://techcrunch.com/2023/05/02/apple-and-google-team-up-on-industry-spec-to-make-bluetooth-tracking-devices-like-airtag-safer/)
+- [3 questions CISOs expect you to answer during a security pitch](https://techcrunch.com/2023/05/02/3-questions-cisos-expect-you-to-answer-during-a-security-pitch/)
+- [Mavenir raises $100M to build more AI into its cloud-based automated network technology for telecoms services](https://techcrunch.com/2023/05/02/mavenir-raises-100m-to-build-more-ai-into-its-cloud-based-automated-network-technology-for-telecoms-services/)
 - [Pietra helped creators start DTC businesses; now it has a roadmap for everyone](https://techcrunch.com/2023/05/02/pietra-creators-dtc-commerce/)
 - [&#39;Hycean&#39; exoplanets may not be able to support life after all](https://www.space.com/hycean-exoplanets-may-not-support-life)
-- [Citymapper lowers the paywall for premium features but keeps monthly subscription for removing ads](https://techcrunch.com/2023/05/02/citymapper-lowers-the-paywall-for-premium-features-but-keeps-a-monthly-subscription-for-removing-ads/)
-- [Samsung bans use of generative AI tools like ChatGPT after April internal data leak](https://techcrunch.com/2023/05/02/samsung-bans-use-of-generative-ai-tools-like-chatgpt-after-april-internal-data-leak/)
-- [Augmental lets you control a computer &lpar;and sex toys&rpar; with your tongue](https://techcrunch.com/2023/05/02/augmental/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
