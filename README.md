@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Nextdoor launches new ‘Assistant’ feature powered by OpenAI’s ChatGPT](https://techcrunch.com/2023/05/02/nextdoor-launches-new-assistant-feature-powered-by-openais-chatgpt/)
-- [Tiny primordial black holes could have created their own Big Bang](https://www.space.com/primordial-black-holes-create-big-bang)
-- [Artemis 2 astronauts flying to the moon could phone home with ham radio](https://www.space.com/nasa-artemis-2-moon-mission-ham-radio)
-- [Mastodon now has a simpler sign up process](https://techcrunch.com/2023/05/02/mastodon-now-has-a-simpler-sign-up-process/)
-- [African payment service provider Nomba raises $30M, backed by Base10 Partners and Shopify](https://techcrunch.com/2023/05/02/african-payment-service-provider-nomba-raises-30m-backed-by-base10-partners-and-shopify/)
+- [Mixpanel moves into marketing data with its latest product](https://techcrunch.com/2023/05/02/mixpanel-is-making-product-data-available-to-marketing-too-with-latest-product/)
+- [Box is partnering with OpenAI to bring generative AI tools across the platform](https://techcrunch.com/2023/05/02/box-is-partnering-with-openai-to-bring-generative-ai-tools-across-the-platform/)
+- [Simpplr raises $70M for its AI-powered intranet platform](https://techcrunch.com/2023/05/02/simpplr-intranet-raises-70m/)
+- [Saturn&#39;s rings are disappearing. The James Webb Space Telescope may reveal how much time they have left.](https://www.space.com/saturns-rings-disappearing-james-webb-space-telescope)
+- [How to run efficient and effective early-stage board meetings](https://techcrunch.com/2023/05/02/how-to-run-efficient-and-effective-early-stage-board-meetings/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
