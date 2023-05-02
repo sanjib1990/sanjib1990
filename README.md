@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ford slashes prices on its all-electric Mustang Mach-E as it reopens orders](https://techcrunch.com/2023/05/02/ford-slashes-prices-on-its-all-electric-mustang-mach-e-as-it-reopens-orders/)
 - [Expo+ passes to TechCrunch Disrupt are on sale now](https://techcrunch.com/2023/05/02/expo-plus-pass-sale-techcrunch-disrupt-2023/)
 - [See the moment lightning struck SpaceX&#39;s Falcon Heavy rocket launch pad &lpar;photo&rpar;](https://www.space.com/spacex-falcon-heavy-lightning-strike-launch-pad)
 - [Filling in the learning disability assessment gaps with Stefan Bauer form Marker Learning](https://techcrunch.com/2023/05/02/filling-in-the-learning-disability-assessment-gaps-with-stefan-bauer-form-marker-learning/)
 - [TechCrunch Live is going to Atlanta and you’re invited!](https://techcrunch.com/2023/05/02/techcrunch-live-is-going-to-atlanta-and-youre-invited/)
-- [SpaceX should be ready to launch Starship again in 6 to 8 weeks, Elon Musk says](https://www.space.com/spacex-ready-launch-starship-six-eight-weeks-musk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
