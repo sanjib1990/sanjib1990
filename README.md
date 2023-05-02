@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to ask OpenAI for your personal data to be deleted or not used to train its AIs](https://techcrunch.com/2023/05/02/chatgpt-delete-data/)
-- [As another startup bank partner collapses, tech feels the gap](https://techcrunch.com/2023/05/02/as-another-startup-bank-partner-collapses-tech-feels-the-gap/)
-- [Meta rolls out new discovery and personalization controls for Facebook Reels](https://techcrunch.com/2023/05/02/meta-rolls-out-new-discovery-and-personalization-controls-for-facebook-reels/)
-- [Apple and Google team up on industry spec to make Bluetooth tracking devices, like AirTag, safer](https://techcrunch.com/2023/05/02/apple-and-google-team-up-on-industry-spec-to-make-bluetooth-tracking-devices-like-airtag-safer/)
-- [3 questions CISOs expect you to answer during a security pitch](https://techcrunch.com/2023/05/02/3-questions-cisos-expect-you-to-answer-during-a-security-pitch/)
+- [You can play like a &#39;Star Wars&#39; Jedi on Fortnite with Anakin Skywalker](https://www.space.com/star-wars-day-fortnite-anakin-skywalker)
+- [Snowman, the studio behind Alto’s Adventure, debuts wingsuit game Laya’s Horizon exclusively with Netflix](https://techcrunch.com/2023/05/02/snowman-altos-adventure-wingsuit-game-layas-horizon-netflix/)
+- [This could be AI’s light bulb moment](https://techcrunch.com/2023/05/02/ai-critical-light-bulb-moment/)
+- [Snap announces tests of sponsored links in My AI, new ad products for Spotlight and Stories](https://techcrunch.com/2023/05/02/snap-announces-tests-of-sponsored-links-in-my-ai-new-ad-products-for-spotlight-and-stories/)
+- [Mozilla buys Fakespot, a startup that identifies fake reviews, to bring shopping tools to Firefox](https://techcrunch.com/2023/05/02/mozilla-buys-fakespot-identifies-fake-reviews-shopping-tools-firefox/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
