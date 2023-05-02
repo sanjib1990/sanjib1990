@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [You can play like a &#39;Star Wars&#39; Jedi on Fortnite with Anakin Skywalker](https://www.space.com/star-wars-day-fortnite-anakin-skywalker)
-- [Snowman, the studio behind Alto’s Adventure, debuts wingsuit game Laya’s Horizon exclusively with Netflix](https://techcrunch.com/2023/05/02/snowman-altos-adventure-wingsuit-game-layas-horizon-netflix/)
-- [This could be AI’s light bulb moment](https://techcrunch.com/2023/05/02/ai-critical-light-bulb-moment/)
-- [Snap announces tests of sponsored links in My AI, new ad products for Spotlight and Stories](https://techcrunch.com/2023/05/02/snap-announces-tests-of-sponsored-links-in-my-ai-new-ad-products-for-spotlight-and-stories/)
-- [Mozilla buys Fakespot, a startup that identifies fake reviews, to bring shopping tools to Firefox](https://techcrunch.com/2023/05/02/mozilla-buys-fakespot-identifies-fake-reviews-shopping-tools-firefox/)
+- [Bluesky invites become a hot commodity as demand for the Twitter alternative outstrips access](https://techcrunch.com/2023/05/02/bluesky-invites-become-a-hot-commodity-as-demand-for-the-twitter-alternative-outstrips-access/)
+- [Guardians of the Galaxy visit &lpar;real&rpar; ISS for 3D-printed Zune and STEAM education](https://www.space.com/guardians-galaxy-space-station-3d-printed-zune)
+- [Peacock officially launches ‘Must ShopTV’ to let users shop products that appear in the content](https://techcrunch.com/2023/05/02/peacock-newfront-2023-must-shoptv-shoppable-ads/)
+- [Faraday Future is adding generative AI to its vaporware EV](https://techcrunch.com/2023/05/02/faraday-future-is-adding-generative-ai-to-its-vaporware-ev/)
+- [TechCrunch+ roundup: Build a better board deck, multipath onboarding tips, selling to CISOs](https://techcrunch.com/2023/05/02/techcrunch-roundup-build-a-better-board-deck-multipath-onboarding-tips-selling-to-cisos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
