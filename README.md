@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX should be ready to launch Starship again in 6 to 8 weeks, Elon Musk says](https://www.space.com/spacex-ready-launch-starship-six-eight-weeks-musk)
+- [Sex workers explain why blue check stigma and #BlockTheBlue aren’t so straightforward](https://techcrunch.com/2023/05/02/sex-workers-explain-why-blue-check-stigma-and-blocktheblue-arent-so-straightforward/)
 - [Bluesky invites become a hot commodity as demand for the Twitter alternative outstrips access](https://techcrunch.com/2023/05/02/bluesky-invites-become-a-hot-commodity-as-demand-for-the-twitter-alternative-outstrips-access/)
 - [Guardians of the Galaxy visit &lpar;real&rpar; ISS for 3D-printed Zune and STEAM education](https://www.space.com/guardians-galaxy-space-station-3d-printed-zune)
 - [Peacock officially launches ‘Must ShopTV’ to let users shop products that appear in the content](https://techcrunch.com/2023/05/02/peacock-newfront-2023-must-shoptv-shoppable-ads/)
-- [Faraday Future is adding generative AI to its vaporware EV](https://techcrunch.com/2023/05/02/faraday-future-is-adding-generative-ai-to-its-vaporware-ev/)
-- [TechCrunch+ roundup: Build a better board deck, multipath onboarding tips, selling to CISOs](https://techcrunch.com/2023/05/02/techcrunch-roundup-build-a-better-board-deck-multipath-onboarding-tips-selling-to-cisos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
