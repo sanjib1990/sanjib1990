@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Mixpanel moves into marketing data with its latest product](https://techcrunch.com/2023/05/02/mixpanel-is-making-product-data-available-to-marketing-too-with-latest-product/)
-- [Box is partnering with OpenAI to bring generative AI tools across the platform](https://techcrunch.com/2023/05/02/box-is-partnering-with-openai-to-bring-generative-ai-tools-across-the-platform/)
-- [Simpplr raises $70M for its AI-powered intranet platform](https://techcrunch.com/2023/05/02/simpplr-intranet-raises-70m/)
-- [Saturn&#39;s rings are disappearing. The James Webb Space Telescope may reveal how much time they have left.](https://www.space.com/saturns-rings-disappearing-james-webb-space-telescope)
-- [How to run efficient and effective early-stage board meetings](https://techcrunch.com/2023/05/02/how-to-run-efficient-and-effective-early-stage-board-meetings/)
+- [Viam’s robot prototyping software hits general availability](https://techcrunch.com/2023/05/02/viams-robot-prototyping-software-hits-general-availability/)
+- [Vote for the breakout sessions you want at Disrupt 2023](https://techcrunch.com/2023/05/02/vote-for-the-breakout-sessions-you-want-at-disrupt-2023/)
+- [Kodiak Robotics is adding an electric, autonomous semi truck to its fleet next year](https://techcrunch.com/2023/05/02/kodiak-robotics-is-adding-an-electric-autonomous-semi-truck-to-its-fleet-next-year/)
+- [Woven Capital, Nvidia back Foretellix’s autonomous vehicle validation tech](https://techcrunch.com/2023/05/02/woven-capital-nvidia-back-foretellixs-autonomous-vehicle-validation-tech/)
+- [The era of software-defined battery startups is here](https://techcrunch.com/2023/05/02/the-era-of-software-defined-battery-startups-is-here/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
