@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Vercel dropped a database and leaked new Next.js features](https://www.youtube.com/watch?v=Km0aNxhVuC4)
 - [the END of VPNs?!](https://www.youtube.com/watch?v=IYmXPF3XUwo)
 - [Experiment: Filtration Lab](https://www.youtube.com/watch?v=HXwdm2DM18M)
 - [Experiment: Bluetooth Hide and Seek](https://www.youtube.com/watch?v=qfimubh_67Q)
 - [Introduction for LL EduCATE: Introduction to Engineering Concepts](https://www.youtube.com/watch?v=b9fHAZAWtFs)
-- [Experiment: Clausewitzian Chess](https://www.youtube.com/watch?v=Ed66NxfDETY)
 <!-- YOUTUBE:END -->
 
 ---
