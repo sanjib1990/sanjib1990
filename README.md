@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to ask OpenAI for your personal data to be deleted or not used to train its AIs](https://techcrunch.com/2023/05/02/chatgpt-delete-data/)
+- [As another startup bank partner collapses, tech feels the gap](https://techcrunch.com/2023/05/02/as-another-startup-bank-partner-collapses-tech-feels-the-gap/)
+- [Meta rolls out new discovery and personalization controls for Facebook Reels](https://techcrunch.com/2023/05/02/meta-rolls-out-new-discovery-and-personalization-controls-for-facebook-reels/)
 - [Apple and Google team up on industry spec to make Bluetooth tracking devices, like AirTag, safer](https://techcrunch.com/2023/05/02/apple-and-google-team-up-on-industry-spec-to-make-bluetooth-tracking-devices-like-airtag-safer/)
 - [3 questions CISOs expect you to answer during a security pitch](https://techcrunch.com/2023/05/02/3-questions-cisos-expect-you-to-answer-during-a-security-pitch/)
-- [Mavenir raises $100M to build more AI into its cloud-based automated network technology for telecoms services](https://techcrunch.com/2023/05/02/mavenir-raises-100m-to-build-more-ai-into-its-cloud-based-automated-network-technology-for-telecoms-services/)
-- [Pietra helped creators start DTC businesses; now it has a roadmap for everyone](https://techcrunch.com/2023/05/02/pietra-creators-dtc-commerce/)
-- [&#39;Hycean&#39; exoplanets may not be able to support life after all](https://www.space.com/hycean-exoplanets-may-not-support-life)
 <!-- BLOG-POST-LIST:END -->
 
 ---
