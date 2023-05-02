@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [African payment service provider Nomba raises $30M, backed by Base10 Partners and Shopify](https://techcrunch.com/2023/05/02/african-payment-service-provider-nomba-raises-30m-backed-by-base10-partners-and-shopify/)
 - [eBay appoints new head of emerging markets, covering regions like Southeast Asia and India](https://techcrunch.com/2023/05/01/ebay-emerging-markets-head/)
 - [Ann Lai says she was fired from Bullpen Capital after helping deliver a $145M fund](https://techcrunch.com/2023/05/01/ann-lai-says-she-was-fired-from-bullpen-capital-after-helping-deliver-a-145m-fund/)
 - [Ryan Breslow’s Love health, wellness marketplace goes live](https://techcrunch.com/2023/05/01/ryan-breslow-love-health-wellness-marketplace/)
 - [Amazon debuts free, ad-supported streaming channels just for Fire TV](https://techcrunch.com/2023/05/01/amazon-debuts-free-ad-supported-streaming-channels-just-for-fire-tv/)
-- [Daily Crunch: In United States’ second-largest bank failure, feds seize First Republic Bank and sell it to JPMorgan Chase](https://techcrunch.com/2023/05/01/daily-crunch-in-us-second-largest-bank-failure-feds-seize-first-republic-bank-and-sell-it-to-jpmorgan-chase/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
