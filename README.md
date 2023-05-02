@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Ford slashes prices on its all-electric Mustang Mach-E as it reopens orders](https://techcrunch.com/2023/05/02/ford-slashes-prices-on-its-all-electric-mustang-mach-e-as-it-reopens-orders/)
-- [Expo+ passes to TechCrunch Disrupt are on sale now](https://techcrunch.com/2023/05/02/expo-plus-pass-sale-techcrunch-disrupt-2023/)
-- [See the moment lightning struck SpaceX&#39;s Falcon Heavy rocket launch pad &lpar;photo&rpar;](https://www.space.com/spacex-falcon-heavy-lightning-strike-launch-pad)
-- [Filling in the learning disability assessment gaps with Stefan Bauer form Marker Learning](https://techcrunch.com/2023/05/02/filling-in-the-learning-disability-assessment-gaps-with-stefan-bauer-form-marker-learning/)
-- [TechCrunch Live is going to Atlanta and you’re invited!](https://techcrunch.com/2023/05/02/techcrunch-live-is-going-to-atlanta-and-youre-invited/)
+- [For Bluesky to thrive, it needs sex workers and Black Twitter](https://techcrunch.com/2023/05/02/bluesky-black-twitter-sex-workers-culture/)
+- [Daily Crunch: Due to ‘growing concerns about security risks,’ Samsung bans workers from using generative AI](https://techcrunch.com/2023/05/02/daily-crunch-due-to-growing-concerns-about-security-risks-samsung-bans-workers-from-using-generative-ai/)
+- [New rules in Europe to curb Big Tech’s market power start to apply](https://techcrunch.com/2023/05/02/dma-applies/)
+- [Roku touts its new ad products, including an AI that matches campaigns to TV moments](https://techcrunch.com/2023/05/02/roku-touts-its-new-ad-products-including-an-ai-that-matches-campaigns-to-tv-moments/)
+- [Ford Q1 earnings rebound as trucks and fleet sales drive profits](https://techcrunch.com/2023/05/02/ford-q1-earnings-rebound-as-trucks-and-fleet-sales-drive-profits/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
