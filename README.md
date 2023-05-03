@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Musk’s The Boring Company to expand Vegas Loop to 18 new stations](https://techcrunch.com/2023/05/03/musks-the-boring-company-to-expand-vegas-loop-to-18-new-stations/)
+- [Maxar completes $6.4B sale to private equity](https://techcrunch.com/2023/05/03/maxar-completes-6-4b-sale-to-private-equity/)
 - [Daily Crunch: Starting today, personal Google Account holders can sign in without a password](https://techcrunch.com/2023/05/03/daily-crunch-starting-today-personal-google-account-holders-can-sign-in-without-a-password/)
 - [AI can’t replace human writers](https://techcrunch.com/2023/05/03/ai-replace-tv-writers-strike/)
 - [Watch SpaceX Falcon Heavy fairing make fiery re-entry to Earth&#39;s atmosphere &lpar;video&rpar;](https://www.space.com/spacex-falcon-heavy-satellite-fairing-reentry-video)
-- [Google I/O 2023 is next week; here’s what we’re expecting](https://techcrunch.com/2023/05/03/google-i-o-2023-is-next-week-heres-what-were-expecting/)
-- [Ride a giant sandworm in thrilling &#39;Dune Part 2&#39; trailer](https://www.space.com/dune-part-2-trailer-sandworm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
