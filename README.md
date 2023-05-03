@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Vice President Kamala Harris, South Korean President talk climate change in NASA visit](https://www.space.com/nasa-goddard-vice-president-kamala-harris-south-korea-president-yoon)
+- [Fandom launches new creator initiative and invests in more original video content](https://techcrunch.com/2023/05/03/fandom-launches-new-creator-initiative-and-original-video-content/)
+- [Reddit enhances link embeds and adds more sharing functions on iOS and Android](https://techcrunch.com/2023/05/03/reddit-enhances-link-embeds-sharing-functions-ios-android/)
+- [Down rounds are prevailing as power shifts to VCs again](https://techcrunch.com/2023/05/03/down-rounds-are-prevailing-as-power-shifts-to-vcs-again/)
 - [Nova is building guardrails for generative AI content to protect brand integrity](https://techcrunch.com/2023/05/03/nova-is-building-guardrails-for-generative-ai-content-to-protect-brand-integrity/)
-- [Former NBA star Rick Fox’s startup gets $10M pre-seed for concrete that removes CO2](https://techcrunch.com/2023/05/03/partanna-concrete-startup-climate-tech/)
-- [Watch bluShift Aerospace test its revamped rocket engine today](https://www.space.com/blushift-aerospace-engine-test-may-2023)
-- [Microsoft launches Pegasus program for startups, awarding up to $350,000 in credits](https://techcrunch.com/2023/05/03/microsoft-launches-pegasus-program-for-startups-awarding-up-to-350000-in-credits/)
-- [Match says it’s ‘very possible’ Apple-Epic ruling could result in App Store fee relief](https://techcrunch.com/2023/05/03/match-says-its-very-possible-apple-epic-ruling-could-result-in-app-store-fee-relief/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
