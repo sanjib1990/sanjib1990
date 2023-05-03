@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google now lets you access your account with passkeys rather than passwords](https://techcrunch.com/2023/05/03/google-now-lets-you-access-your-account-with-passkeys-rather-than-passwords/)
-- [The FinOps Foundation launches FOCUS, a new spec for sharing cloud cost data](https://techcrunch.com/2023/05/03/the-finops-foundation-launches-focus-a-new-spec-for-sharing-cloud-cost-data/)
-- [Spawning lays out plans for letting creators opt out of generative AI training](https://techcrunch.com/2023/05/03/spawning-lays-out-its-plans-for-letting-creators-opt-out-of-generative-ai-training/)
-- [Hear how Cambrian BioPharma is reinventing drug &lpar;and drug company&rpar; development](https://techcrunch.com/2023/05/03/hear-how-cambrian-biopharma-is-reinventing-drug-and-drug-company-development/)
-- [Airbnb’s average home prices have gone up, so now it’s refocusing on rooms to give users more affordable alternatives](https://techcrunch.com/2023/05/03/airbnbs-average-home-prices-have-gone-up-so-now-its-refocusing-on-rooms-to-give-users-more-affordable-alternatives/)
+- [TikTok opens up its revamped creator fund to all eligible creators in the US](https://techcrunch.com/2023/05/03/tiktok-opens-revamped-creator-fund-all-eligible-creators-us/)
+- [The outside advantage that your investor may be interested in](https://techcrunch.com/2023/05/03/classdojo-outsider-advantage/)
+- [Macrofab’s approach may be key to nearshoring PCB manufacturing in the US](https://techcrunch.com/2023/05/03/pcb-manufacturing-macrofab/)
+- [Adobe’s $20B Figma acquisition falls on UK antitrust radar](https://techcrunch.com/2023/05/03/adobes-20b-figma-acquisition-fall-on-uk-competition-radar/)
+- [Lego Star Wars Luke Skywalker &lpar;Red Five&rpar; Helmet review](https://www.space.com/lego-star-wars-luke-skywalker-red-five-helmet-75327-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
