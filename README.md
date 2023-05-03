@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bend is taking on Brex and Ramp with a green twist and a $2.5M seed round](https://techcrunch.com/2023/05/03/bend-carbon-offset-corporate-spend/)
+- [Checks, the AI-powered data protection project incubated in Area 120, officially ‘exits’ to Google](https://techcrunch.com/2023/05/03/checks-the-ai-powered-data-protection-project-incubated-in-area-120-officially-exits-to-google/)
+- [Guts of the universe&#39;s 1st stars found in distant gas clouds](https://www.space.com/universe-first-stars-graveyards-gas-clouds)
 - [FTC moves to completely prohibit Meta from monetizing kids](https://techcrunch.com/2023/05/03/ftc-moves-to-completely-prohibit-meta-from-monetizing-kids/)
 - [Four investors explain why AI ethics can’t be an afterthought](https://techcrunch.com/2023/05/03/ai-ethics-investor-survey/)
-- [Fifty+ ISPs, NGOs and broadcaster groups hit out at ‘Big Telco bias’ driving anti-competitive EU network fee proposal](https://techcrunch.com/2023/05/03/coalition-says-no-eu-network-fee-please/)
-- [Bishop Fox lays off employees days after throwing conference party](https://techcrunch.com/2023/05/03/bishop-fox-lays-off-employees-days-after-throwing-conference-party/)
-- [Scientists catch real-life Death Star devouring a planet in 1st-of-its-kind discovery](https://www.space.com/astronomers-spot-star-devouring-planet)
 <!-- BLOG-POST-LIST:END -->
 
 ---
