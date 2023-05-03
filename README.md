@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: Starting today, personal Google Account holders can sign in without a password](https://techcrunch.com/2023/05/03/daily-crunch-starting-today-personal-google-account-holders-can-sign-in-without-a-password/)
 - [AI can’t replace human writers](https://techcrunch.com/2023/05/03/ai-replace-tv-writers-strike/)
+- [Watch SpaceX Falcon Heavy fairing make fiery re-entry to Earth&#39;s atmosphere &lpar;video&rpar;](https://www.space.com/spacex-falcon-heavy-satellite-fairing-reentry-video)
 - [Google I/O 2023 is next week; here’s what we’re expecting](https://techcrunch.com/2023/05/03/google-i-o-2023-is-next-week-heres-what-were-expecting/)
 - [Ride a giant sandworm in thrilling &#39;Dune Part 2&#39; trailer](https://www.space.com/dune-part-2-trailer-sandworm)
-- [Payment software giant AvidXchange suffers its second ransomware attack of 2023](https://techcrunch.com/2023/05/03/avidxchange-second-ransomware-attack-2023/)
-- [Joby Aviation lands $180M equity investment from returning backer Baillie Gifford](https://techcrunch.com/2023/05/03/joby-aviation-lands-180m-equity-investment-from-returning-backer-ballie-gifford/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
