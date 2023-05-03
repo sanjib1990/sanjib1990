@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google now lets you access your account with passkeys rather than passwords](https://techcrunch.com/2023/05/03/google-now-lets-you-access-your-account-with-passkeys-rather-than-passwords/)
+- [The FinOps Foundation launches FOCUS, a new spec for sharing cloud cost data](https://techcrunch.com/2023/05/03/the-finops-foundation-launches-focus-a-new-spec-for-sharing-cloud-cost-data/)
+- [Spawning lays out plans for letting creators opt out of generative AI training](https://techcrunch.com/2023/05/03/spawning-lays-out-its-plans-for-letting-creators-opt-out-of-generative-ai-training/)
+- [Hear how Cambrian BioPharma is reinventing drug &lpar;and drug company&rpar; development](https://techcrunch.com/2023/05/03/hear-how-cambrian-biopharma-is-reinventing-drug-and-drug-company-development/)
 - [Airbnb’s average home prices have gone up, so now it’s refocusing on rooms to give users more affordable alternatives](https://techcrunch.com/2023/05/03/airbnbs-average-home-prices-have-gone-up-so-now-its-refocusing-on-rooms-to-give-users-more-affordable-alternatives/)
-- [Hackajob matches technical talent with companies looking to hire](https://techcrunch.com/2023/05/03/hackajobs-two-sided-marketplace-matches-technical-talent-with-companies-looking-to-hire/)
-- [Fiverr Enterprise aims to streamline managing large groups of freelancers](https://techcrunch.com/2023/05/03/fiverr-enterprise-aims-to-streamline-managing-large-groups-of-freelancers/)
-- [Twitter makes its API free for public announcement accounts](https://techcrunch.com/2023/05/03/twitter-makes-it-api-free-for-public-announcement-accounts/)
-- [Mars ice deposits could pave the way for human exploration](https://www.space.com/mars-ice-deposits-astronaut-missions)
 <!-- BLOG-POST-LIST:END -->
 
 ---
