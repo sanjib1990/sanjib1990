@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter makes it API free for public announcement accounts](https://techcrunch.com/2023/05/03/twitter-makes-it-api-free-for-public-announcement-accounts/)
+- [Mars ice deposits could pave the way for human exploration](https://www.space.com/mars-ice-deposits-astronaut-missions)
+- [What time is the lunar eclipse on May 5?](https://www.space.com/lunar-eclipse-may-2023-what-time)
 - [Where is India in the generative AI race?](https://techcrunch.com/2023/05/03/where-is-india-in-the-generative-ai-race/)
 - [African startups: Apply to Startup Battlefield 200](https://techcrunch.com/2023/05/03/africa-apply-startup-battlefield-200-disrupt-2023/)
-- [For Bluesky to thrive, it needs sex workers and Black Twitter](https://techcrunch.com/2023/05/02/bluesky-black-twitter-sex-workers-culture/)
-- [Daily Crunch: Due to ‘growing concerns about security risks,’ Samsung bans workers from using generative AI](https://techcrunch.com/2023/05/02/daily-crunch-due-to-growing-concerns-about-security-risks-samsung-bans-workers-from-using-generative-ai/)
-- [New rules in Europe to curb Big Tech’s market power start to apply](https://techcrunch.com/2023/05/02/dma-applies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
