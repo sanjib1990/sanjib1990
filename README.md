@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Vice President Kamala Harris, South Korean President talk climate change in NASA visit](https://www.space.com/nasa-goddard-vice-president-kamala-harris-south-korea-president-yoon)
-- [Fandom launches new creator initiative and invests in more original video content](https://techcrunch.com/2023/05/03/fandom-launches-new-creator-initiative-and-original-video-content/)
-- [Reddit enhances link embeds and adds more sharing functions on iOS and Android](https://techcrunch.com/2023/05/03/reddit-enhances-link-embeds-sharing-functions-ios-android/)
-- [Down rounds are prevailing as power shifts to VCs again](https://techcrunch.com/2023/05/03/down-rounds-are-prevailing-as-power-shifts-to-vcs-again/)
-- [Nova is building guardrails for generative AI content to protect brand integrity](https://techcrunch.com/2023/05/03/nova-is-building-guardrails-for-generative-ai-content-to-protect-brand-integrity/)
+- [FTC moves to completely prohibit Meta from monetizing kids](https://techcrunch.com/2023/05/03/ftc-moves-to-completely-prohibit-meta-from-monetizing-kids/)
+- [Four investors explain why AI ethics can’t be an afterthought](https://techcrunch.com/2023/05/03/ai-ethics-investor-survey/)
+- [Fifty+ ISPs, NGOs and broadcaster groups hit out at ‘Big Telco bias’ driving anti-competitive EU network fee proposal](https://techcrunch.com/2023/05/03/coalition-says-no-eu-network-fee-please/)
+- [Bishop Fox lays off employees days after throwing conference party](https://techcrunch.com/2023/05/03/bishop-fox-lays-off-employees-days-after-throwing-conference-party/)
+- [Scientists catch real-life Death Star devouring a planet in 1st-of-its-kind discovery](https://www.space.com/astronomers-spot-star-devouring-planet)
 <!-- BLOG-POST-LIST:END -->
 
 ---
