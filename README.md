@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [China to launch 1st-ever sample return mission to moon&#39;s far side in 2024](https://www.space.com/china-moon-far-side-sample-return-mission-2024)
-- [Blue verified checkmarks are coming to Gmail](https://techcrunch.com/2023/05/03/blue-verified-checkmarks-are-coming-to-gmail/)
-- [SpaceX Falcon Heavy lights up the night sky in these incredible launch photos](https://www.space.com/spacex-falcon-heavy-6th-launch-april-2023-photos)
-- [AI is just someone else’s computer](https://techcrunch.com/2023/05/03/ai-is-just-someone-elses-computer/)
-- [Ask Sophie: Will I be allowed into the US if my passport expires in 5 months?](https://techcrunch.com/2023/05/03/ask-sophie-will-i-be-allowed-into-the-u-s-if-my-passport-expires-in-5-months/)
+- [AI can’t replace human writers](https://techcrunch.com/2023/05/03/ai-replace-tv-writers-strike/)
+- [Google I/O 2023 is next week; here’s what we’re expecting](https://techcrunch.com/2023/05/03/google-i-o-2023-is-next-week-heres-what-were-expecting/)
+- [Ride a giant sandworm in thrilling &#39;Dune Part 2&#39; trailer](https://www.space.com/dune-part-2-trailer-sandworm)
+- [Payment software giant AvidXchange suffers its second ransomware attack of 2023](https://techcrunch.com/2023/05/03/avidxchange-second-ransomware-attack-2023/)
+- [Joby Aviation lands $180M equity investment from returning backer Baillie Gifford](https://techcrunch.com/2023/05/03/joby-aviation-lands-180m-equity-investment-from-returning-backer-ballie-gifford/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
