@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI is just someone else’s computer](https://techcrunch.com/2023/05/03/ai-is-just-someone-elses-computer/)
+- [Ask Sophie: Will I be allowed into the U.S. if my passport expires in 5 months?](https://techcrunch.com/2023/05/03/ask-sophie-will-i-be-allowed-into-the-u-s-if-my-passport-expires-in-5-months/)
+- [AI-powered supply chain startup Pando lands $30M investment](https://techcrunch.com/2023/05/03/ai-powered-supply-chain-startup-pando-lands-30m-investment/)
 - [Bend is taking on Brex and Ramp with a green twist and a $2.5M seed round](https://techcrunch.com/2023/05/03/bend-carbon-offset-corporate-spend/)
-- [Checks, the AI-powered data protection project incubated in Area 120, officially ‘exits’ to Google](https://techcrunch.com/2023/05/03/checks-the-ai-powered-data-protection-project-incubated-in-area-120-officially-exits-to-google/)
-- [Guts of the universe&#39;s 1st stars found in distant gas clouds](https://www.space.com/universe-first-stars-graveyards-gas-clouds)
-- [FTC moves to completely prohibit Meta from monetizing kids](https://techcrunch.com/2023/05/03/ftc-moves-to-completely-prohibit-meta-from-monetizing-kids/)
-- [Four investors explain why AI ethics can’t be an afterthought](https://techcrunch.com/2023/05/03/ai-ethics-investor-survey/)
+- [Czech Republic signs Artemis Accords for &#39;peaceful, cooperative and sustainable&#39; moon exploration](https://www.space.com/artemis-accords-czech-republic-24th-country-moon-exploration)
 <!-- BLOG-POST-LIST:END -->
 
 ---
