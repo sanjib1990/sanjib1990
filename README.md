@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [China to launch 1st-ever sample return mission to moon&#39;s far side in 2024](https://www.space.com/china-moon-far-side-sample-return-mission-2024)
+- [Blue verified checkmarks are coming to Gmail](https://techcrunch.com/2023/05/03/blue-verified-checkmarks-are-coming-to-gmail/)
+- [SpaceX Falcon Heavy lights up the night sky in these incredible launch photos](https://www.space.com/spacex-falcon-heavy-6th-launch-april-2023-photos)
 - [AI is just someone else’s computer](https://techcrunch.com/2023/05/03/ai-is-just-someone-elses-computer/)
-- [Ask Sophie: Will I be allowed into the U.S. if my passport expires in 5 months?](https://techcrunch.com/2023/05/03/ask-sophie-will-i-be-allowed-into-the-u-s-if-my-passport-expires-in-5-months/)
-- [AI-powered supply chain startup Pando lands $30M investment](https://techcrunch.com/2023/05/03/ai-powered-supply-chain-startup-pando-lands-30m-investment/)
-- [Bend is taking on Brex and Ramp with a green twist and a $2.5M seed round](https://techcrunch.com/2023/05/03/bend-carbon-offset-corporate-spend/)
-- [Czech Republic signs Artemis Accords for &#39;peaceful, cooperative and sustainable&#39; moon exploration](https://www.space.com/artemis-accords-czech-republic-24th-country-moon-exploration)
+- [Ask Sophie: Will I be allowed into the US if my passport expires in 5 months?](https://techcrunch.com/2023/05/03/ask-sophie-will-i-be-allowed-into-the-u-s-if-my-passport-expires-in-5-months/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
