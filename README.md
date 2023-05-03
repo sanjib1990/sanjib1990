@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Twitter makes it API free for public announcement accounts](https://techcrunch.com/2023/05/03/twitter-makes-it-api-free-for-public-announcement-accounts/)
+- [Airbnb’s average home prices have gone up, so now it’s refocusing on rooms to give users more affordable alternatives](https://techcrunch.com/2023/05/03/airbnbs-average-home-prices-have-gone-up-so-now-its-refocusing-on-rooms-to-give-users-more-affordable-alternatives/)
+- [Hackajob matches technical talent with companies looking to hire](https://techcrunch.com/2023/05/03/hackajobs-two-sided-marketplace-matches-technical-talent-with-companies-looking-to-hire/)
+- [Fiverr Enterprise aims to streamline managing large groups of freelancers](https://techcrunch.com/2023/05/03/fiverr-enterprise-aims-to-streamline-managing-large-groups-of-freelancers/)
+- [Twitter makes its API free for public announcement accounts](https://techcrunch.com/2023/05/03/twitter-makes-it-api-free-for-public-announcement-accounts/)
 - [Mars ice deposits could pave the way for human exploration](https://www.space.com/mars-ice-deposits-astronaut-missions)
-- [What time is the lunar eclipse on May 5?](https://www.space.com/lunar-eclipse-may-2023-what-time)
-- [Where is India in the generative AI race?](https://techcrunch.com/2023/05/03/where-is-india-in-the-generative-ai-race/)
-- [African startups: Apply to Startup Battlefield 200](https://techcrunch.com/2023/05/03/africa-apply-startup-battlefield-200-disrupt-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
