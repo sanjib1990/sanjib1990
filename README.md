@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TikTok opens up its revamped creator fund to all eligible creators in the US](https://techcrunch.com/2023/05/03/tiktok-opens-revamped-creator-fund-all-eligible-creators-us/)
-- [The outside advantage that your investor may be interested in](https://techcrunch.com/2023/05/03/classdojo-outsider-advantage/)
-- [Macrofab’s approach may be key to nearshoring PCB manufacturing in the US](https://techcrunch.com/2023/05/03/pcb-manufacturing-macrofab/)
-- [Adobe’s $20B Figma acquisition falls on UK antitrust radar](https://techcrunch.com/2023/05/03/adobes-20b-figma-acquisition-fall-on-uk-competition-radar/)
-- [Lego Star Wars Luke Skywalker &lpar;Red Five&rpar; Helmet review](https://www.space.com/lego-star-wars-luke-skywalker-red-five-helmet-75327-review)
+- [Nova is building guardrails for generative AI content to protect brand integrity](https://techcrunch.com/2023/05/03/nova-is-building-guardrails-for-generative-ai-content-to-protect-brand-integrity/)
+- [Former NBA star Rick Fox’s startup gets $10M pre-seed for concrete that removes CO2](https://techcrunch.com/2023/05/03/partanna-concrete-startup-climate-tech/)
+- [Watch bluShift Aerospace test its revamped rocket engine today](https://www.space.com/blushift-aerospace-engine-test-may-2023)
+- [Microsoft launches Pegasus program for startups, awarding up to $350,000 in credits](https://techcrunch.com/2023/05/03/microsoft-launches-pegasus-program-for-startups-awarding-up-to-350000-in-credits/)
+- [Match says it’s ‘very possible’ Apple-Epic ruling could result in App Store fee relief](https://techcrunch.com/2023/05/03/match-says-its-very-possible-apple-epic-ruling-could-result-in-app-store-fee-relief/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
