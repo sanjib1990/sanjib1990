@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [African startups: Apply to Startup Battlefield 200](https://techcrunch.com/2023/05/03/africa-apply-startup-battlefield-200-disrupt-2023/)
 - [For Bluesky to thrive, it needs sex workers and Black Twitter](https://techcrunch.com/2023/05/02/bluesky-black-twitter-sex-workers-culture/)
 - [Daily Crunch: Due to ‘growing concerns about security risks,’ Samsung bans workers from using generative AI](https://techcrunch.com/2023/05/02/daily-crunch-due-to-growing-concerns-about-security-risks-samsung-bans-workers-from-using-generative-ai/)
 - [New rules in Europe to curb Big Tech’s market power start to apply](https://techcrunch.com/2023/05/02/dma-applies/)
 - [Roku touts its new ad products, including an AI that matches campaigns to TV moments](https://techcrunch.com/2023/05/02/roku-touts-its-new-ad-products-including-an-ai-that-matches-campaigns-to-tv-moments/)
-- [Ford Q1 earnings rebound as trucks and fleet sales drive profits](https://techcrunch.com/2023/05/02/ford-q1-earnings-rebound-as-trucks-and-fleet-sales-drive-profits/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
