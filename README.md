@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Alexa’s new feature lets your Echo speaker announce your Uber Eats order updates](https://techcrunch.com/2023/05/04/alexas-new-feature-lets-your-echo-speaker-announce-your-uber-eats-order-updates/)
-- [Pitch Deck Teardown: The Perfect Pitch Deck](https://techcrunch.com/2023/05/04/the-perfect-pitch-deck/)
-- [Lordstown Motors’ Endurance EV pickup truck is dying](https://techcrunch.com/2023/05/04/lordstown-motors-endurance-ev-pickup-truck-is-dying/)
-- [Oh hey, Google just announced the Pixel Fold](https://techcrunch.com/2023/05/04/oh-hey-google-just-announced-the-pixel-fold/)
-- [Senate Banking chair urges FDIC to look into Tellus, a fintech backed by Andreessen Horowitz](https://techcrunch.com/2023/05/04/senate-banking-chair-urges-fdic-to-look-into-tellus-a-fintech-backed-by-andreessen-horowitz/)
+- [Tesla brings back the long-range Model 3 with an 18% discount](https://techcrunch.com/2023/05/04/tesla-brings-back-the-long-range-model-3-with-an-18-discount/)
+- [Developers are building out the blockchain ecosystem in Barcelona](https://techcrunch.com/2023/05/04/developers-are-building-out-the-blockchain-ecosystem-in-barcelona/)
+- [China&#39;s Tianwen 1 orbiter produces global map of Mars &lpar;video&rpar;](https://www.space.com/china-tianwen-1-global-map-mars)
+- [Acquisition, retention, expansion: Why SaaS founders must understand GDR and NDR](https://techcrunch.com/2023/05/04/acquisition-retention-expansion-why-saas-founders-must-understand-gdr-and-ndr/)
+- [Meta pitches augmented reality to advertisers with new AR Reels Ads and Facebook Stories](https://techcrunch.com/2023/05/04/meta-pitches-augmented-reality-to-advertisers-with-new-ar-reels-ads-and-facebook-stories/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
