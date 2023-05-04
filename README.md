@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Europe won&#39;t have reusable rockets for another decade: report](https://www.space.com/europe-no-reusable-rocket-until-2030s)
-- [Japan’s biggest drone maker sets its sights on the US](https://techcrunch.com/2023/05/04/japans-biggest-drone-maker-sets-its-sights-on-the-us/)
-- [Hugging Face and ServiceNow release a free code-generating model](https://techcrunch.com/2023/05/04/hugging-face-and-servicenow-release-a-free-code-generating-model/)
-- [Ransomware attack forces Dallas to shut down courts, disrupt some 911 services](https://techcrunch.com/2023/05/04/ransomware-attack-forces-dallas-to-shut-down-courts-disrupt-some-911-services/)
-- [HV Capital closes €710M fund amidst the wider European and global funding downturn](https://techcrunch.com/2023/05/04/hv-capital-closes-e710m-fund-amidst-the-wider-european-and-global-funding-downturn/)
+- [Twitter’s mobile web app is currently down for some](https://techcrunch.com/2023/05/04/twitters-mobile-web-app-is-currently-down-for-some/)
+- [TikTok partners with top publishers on its new premium and brand-safe ad slot, ‘Pulse Premiere’](https://techcrunch.com/2023/05/04/tiktok-partners-with-top-publishers-on-its-new-premium-and-brand-safe-ad-slot-pulse-premiere/)
+- [Has the seed stage come back down to earth? It depends where you look](https://techcrunch.com/2023/05/04/seed-stage-deal-valuations-soften/)
+- [Arianna Simpson talks crypto at Disrupt and why a16z bets billions](https://techcrunch.com/2023/05/04/arianna-simpson-a16z-speaker-techcrunch-disrupt-2023/)
+- [New book reveals NASA photographer&#39;s unseen Mercury astronaut archives](https://www.space.com/photographing-americas-first-astronauts-taub-book-mercury-program)
 <!-- BLOG-POST-LIST:END -->
 
 ---
