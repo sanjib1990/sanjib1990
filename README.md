@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How did Earth&#39;s continents form? The leading theory may now be in doubt](https://www.space.com/earth-continents-formation-theory)
+- [Daily Crunch: Shopify lays off 20% of staff and sells its logistics arm to Flexport](https://techcrunch.com/2023/05/04/daily-crunch-shopify-lays-off-20-of-staff-and-sells-its-logistics-arm-to-flexport/)
+- [Persona and Index Ventures talk identity, and identifying a good deal](https://techcrunch.com/2023/05/04/persona-and-index-ventures-talk-identity-and-identifying-a-good-deal/)
+- [How did Earth&#39;s continents form? Leading theory may be in doubt](https://www.space.com/earth-continents-formation-theory)
 - [Investors cheer as Coinbase beats Q1 expectations](https://techcrunch.com/2023/05/04/coinbase-earnings-q1-2023-expectations/)
 - [Lyft shares tumble as investors react to dim outlook](https://techcrunch.com/2023/05/04/lyft-shares-tumble-as-investors-react-to-dim-outlook/)
-- [iPhone sales help Apple beat revenue forecasts for Q2](https://techcrunch.com/2023/05/04/iphone-sales-help-apple-beat-revenue-forecasts-for-q2/)
-- [Google celebrates Star Wars Day with a fun Grogu easter egg](https://techcrunch.com/2023/05/04/google-celebrates-star-wars-day-fun-grogu-easter-egg/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
