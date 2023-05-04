@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA shares stunning deep space images for Black Hole Week 2023](https://www.space.com/black-hole-week-nasa-may-2023)
 - [Tesla brings back the long-range Model 3 with an 18% discount](https://techcrunch.com/2023/05/04/tesla-brings-back-the-long-range-model-3-with-an-18-discount/)
 - [Developers are building out the blockchain ecosystem in Barcelona](https://techcrunch.com/2023/05/04/developers-are-building-out-the-blockchain-ecosystem-in-barcelona/)
 - [China&#39;s Tianwen 1 orbiter produces global map of Mars &lpar;video&rpar;](https://www.space.com/china-tianwen-1-global-map-mars)
 - [Acquisition, retention, expansion: Why SaaS founders must understand GDR and NDR](https://techcrunch.com/2023/05/04/acquisition-retention-expansion-why-saas-founders-must-understand-gdr-and-ndr/)
-- [Meta pitches augmented reality to advertisers with new AR Reels Ads and Facebook Stories](https://techcrunch.com/2023/05/04/meta-pitches-augmented-reality-to-advertisers-with-new-ar-reels-ads-and-facebook-stories/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
