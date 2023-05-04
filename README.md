@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Russian cosmonauts relocate airlock on International Space Station spacewalk](https://www.space.com/iss-spacewalk-russian-airlock-move-may-2023)
 - [European startups: Apply to Startup Battlefield 200](https://techcrunch.com/2023/05/03/europe-apply-startup-battlefield-200-disrupt-2023/)
 - [Temu accelerates global expansion with parent’s new Dublin office](https://techcrunch.com/2023/05/03/temu-pinduoduo-dublin-hq/)
 - [Mercu meets deskless workers where they are](https://techcrunch.com/2023/05/03/mercu/)
 - [Musk’s The Boring Company to expand Vegas Loop to 18 new stations](https://techcrunch.com/2023/05/03/musks-the-boring-company-to-expand-vegas-loop-to-18-new-stations/)
-- [Maxar completes $6.4B sale to private equity](https://techcrunch.com/2023/05/03/maxar-completes-6-4b-sale-to-private-equity/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
