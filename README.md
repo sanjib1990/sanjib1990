@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hulu Live TV adds channels to its lineup, including PBS and Magnolia Network](https://techcrunch.com/2023/05/04/hulu-live-tv-adds-channels-pbs-and-magnolia-network/)
-- [Alibaba Cloud, Avalanche partner to deploy metaverses on the blockchain](https://techcrunch.com/2023/05/04/alibaba-cloud-avalanche-partner-to-deploy-metaverses-on-the-blockchain/)
-- [Star Wars: Visions Vol. 2 review: A braver and more consistent set of little stories](https://www.space.com/star-wars-visions-volume-2-review)
-- [NASA astronaut Reid Wiseman, commander of the Artemis 2 moon mission](https://www.space.com/nasa-astronaut-reid-wiseman-space-biography)
-- [Twitter’s mobile web app is currently down for some](https://techcrunch.com/2023/05/04/twitters-mobile-web-app-is-currently-down-for-some/)
+- [If dark matter is &#39;invisible,&#39; how do we know it exists?](https://www.space.com/if-dark-matter-invisible-how-do-we-know-it-exists)
+- [Senzai taps into AI optimization to guide LatAm companies to the right customers](https://techcrunch.com/2023/05/04/senzai-ai-latin-america-enterprise/)
+- [Slash aims to corner the Gen Z market with business-focused banking features](https://techcrunch.com/2023/05/04/slash-aims-to-corner-the-gen-z-market-with-business-focused-banking-features/)
+- [Europe’s top court clarifies GDPR compensation and data access rights](https://techcrunch.com/2023/05/04/cjeu-gdpr-damages-access-rights/)
+- [Mozilla expands its Mastodon investment with private beta launch of its own highly-moderated server](https://techcrunch.com/2023/05/04/mozilla-expands-its-mastodon-investment-with-private-beta-launch-of-its-own-highly-moderated-server/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
