@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [As generative AI finds its footing in enterprise products, how will companies charge for its use?](https://techcrunch.com/2023/05/04/hubspot-earnings-generative-ai/)
+- [WhatsApp now lets you create single-vote polls and forward media with captions](https://techcrunch.com/2023/05/04/whatsapp-create-single-vote-polls-forward-media-captions/)
+- [&#39;Star Wars: Return of the Jedi&#39; 40th anniversary sees Admiral Ackbar at the helm of his own comic series](https://www.space.com/star-wars-return-of-the-jedi-40th-anniversary-ackbar-max-rebo)
 - [If dark matter is &#39;invisible,&#39; how do we know it exists?](https://www.space.com/if-dark-matter-invisible-how-do-we-know-it-exists)
 - [Senzai taps into AI optimization to guide LatAm companies to the right customers](https://techcrunch.com/2023/05/04/senzai-ai-latin-america-enterprise/)
-- [Slash aims to corner the Gen Z market with business-focused banking features](https://techcrunch.com/2023/05/04/slash-aims-to-corner-the-gen-z-market-with-business-focused-banking-features/)
-- [Europe’s top court clarifies GDPR compensation and data access rights](https://techcrunch.com/2023/05/04/cjeu-gdpr-damages-access-rights/)
-- [Mozilla expands its Mastodon investment with private beta launch of its own highly-moderated server](https://techcrunch.com/2023/05/04/mozilla-expands-its-mastodon-investment-with-private-beta-launch-of-its-own-highly-moderated-server/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
