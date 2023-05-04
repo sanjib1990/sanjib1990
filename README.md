@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Bytedance is making its music streaming service Resso premium-only](https://techcrunch.com/2023/05/04/bytedance-is-making-its-music-streaming-service-resso-premium-only/)
-- [Meet Liquido, which aims to be the ‘Stripe of LatAm’ — but with even bigger ambitions](https://techcrunch.com/2023/05/04/fintech-liquido-stripe-of-latam-payments/)
-- [How the feds caught a notorious credit card fraudster](https://techcrunch.com/2023/05/04/try2check-credit-card-fraudster/)
-- [Carrie Fisher to finally receive her Hollywood Walk of Fame star on &#39;Star Wars&#39; Day](https://www.space.com/carrie-fisher-star-hollywood-walk-of-fame)
-- [Shopify to reduce workforce by 20%, sells logistics business to Flexport for 13% equity](https://techcrunch.com/2023/05/04/shopify-to-reduce-workforce-by-20-sells-logistics-business-to-flexport-for-13-equity/)
+- [Europe won&#39;t have reusable rockets for another decade: report](https://www.space.com/europe-no-reusable-rocket-until-2030s)
+- [Japan’s biggest drone maker sets its sights on the US](https://techcrunch.com/2023/05/04/japans-biggest-drone-maker-sets-its-sights-on-the-us/)
+- [Hugging Face and ServiceNow release a free code-generating model](https://techcrunch.com/2023/05/04/hugging-face-and-servicenow-release-a-free-code-generating-model/)
+- [Ransomware attack forces Dallas to shut down courts, disrupt some 911 services](https://techcrunch.com/2023/05/04/ransomware-attack-forces-dallas-to-shut-down-courts-disrupt-some-911-services/)
+- [HV Capital closes €710M fund amidst the wider European and global funding downturn](https://techcrunch.com/2023/05/04/hv-capital-closes-e710m-fund-amidst-the-wider-european-and-global-funding-downturn/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
