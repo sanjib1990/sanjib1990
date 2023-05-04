@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hulu Live TV adds channels to its lineup, including PBS and Magnolia Network](https://techcrunch.com/2023/05/04/hulu-live-tv-adds-channels-pbs-and-magnolia-network/)
+- [Alibaba Cloud, Avalanche partner to deploy metaverses on the blockchain](https://techcrunch.com/2023/05/04/alibaba-cloud-avalanche-partner-to-deploy-metaverses-on-the-blockchain/)
+- [Star Wars: Visions Vol. 2 review: A braver and more consistent set of little stories](https://www.space.com/star-wars-visions-volume-2-review)
+- [NASA astronaut Reid Wiseman, commander of the Artemis 2 moon mission](https://www.space.com/nasa-astronaut-reid-wiseman-space-biography)
 - [Twitter’s mobile web app is currently down for some](https://techcrunch.com/2023/05/04/twitters-mobile-web-app-is-currently-down-for-some/)
-- [TikTok partners with top publishers on its new premium and brand-safe ad slot, ‘Pulse Premiere’](https://techcrunch.com/2023/05/04/tiktok-partners-with-top-publishers-on-its-new-premium-and-brand-safe-ad-slot-pulse-premiere/)
-- [Has the seed stage come back down to earth? It depends where you look](https://techcrunch.com/2023/05/04/seed-stage-deal-valuations-soften/)
-- [Arianna Simpson talks crypto at Disrupt and why a16z bets billions](https://techcrunch.com/2023/05/04/arianna-simpson-a16z-speaker-techcrunch-disrupt-2023/)
-- [New book reveals NASA photographer&#39;s unseen Mercury astronaut archives](https://www.space.com/photographing-americas-first-astronauts-taub-book-mercury-program)
 <!-- BLOG-POST-LIST:END -->
 
 ---
