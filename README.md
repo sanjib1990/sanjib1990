@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft doubles down on AI with new Bing features](https://techcrunch.com/2023/05/04/microsoft-doubles-down-on-ai-with-new-bing-features/)
+- [Green-Got is a neobank for climate-conscious customers](https://techcrunch.com/2023/05/04/green-got-is-a-neobank-for-climate-conscious-customers/)
 - [Russian cosmonauts relocate airlock on International Space Station spacewalk](https://www.space.com/iss-spacewalk-russian-airlock-move-may-2023)
 - [European startups: Apply to Startup Battlefield 200](https://techcrunch.com/2023/05/03/europe-apply-startup-battlefield-200-disrupt-2023/)
 - [Temu accelerates global expansion with parent’s new Dublin office](https://techcrunch.com/2023/05/03/temu-pinduoduo-dublin-hq/)
-- [Mercu meets deskless workers where they are](https://techcrunch.com/2023/05/03/mercu/)
-- [Musk’s The Boring Company to expand Vegas Loop to 18 new stations](https://techcrunch.com/2023/05/03/musks-the-boring-company-to-expand-vegas-loop-to-18-new-stations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
