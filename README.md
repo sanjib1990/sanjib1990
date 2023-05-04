@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [As generative AI finds its footing in enterprise products, how will companies charge for its use?](https://techcrunch.com/2023/05/04/hubspot-earnings-generative-ai/)
-- [WhatsApp now lets you create single-vote polls and forward media with captions](https://techcrunch.com/2023/05/04/whatsapp-create-single-vote-polls-forward-media-captions/)
-- [&#39;Star Wars: Return of the Jedi&#39; 40th anniversary sees Admiral Ackbar at the helm of his own comic series](https://www.space.com/star-wars-return-of-the-jedi-40th-anniversary-ackbar-max-rebo)
-- [If dark matter is &#39;invisible,&#39; how do we know it exists?](https://www.space.com/if-dark-matter-invisible-how-do-we-know-it-exists)
-- [Senzai taps into AI optimization to guide LatAm companies to the right customers](https://techcrunch.com/2023/05/04/senzai-ai-latin-america-enterprise/)
+- [Alexa’s new feature lets your Echo speaker announce your Uber Eats order updates](https://techcrunch.com/2023/05/04/alexas-new-feature-lets-your-echo-speaker-announce-your-uber-eats-order-updates/)
+- [Pitch Deck Teardown: The Perfect Pitch Deck](https://techcrunch.com/2023/05/04/the-perfect-pitch-deck/)
+- [Lordstown Motors’ Endurance EV pickup truck is dying](https://techcrunch.com/2023/05/04/lordstown-motors-endurance-ev-pickup-truck-is-dying/)
+- [Oh hey, Google just announced the Pixel Fold](https://techcrunch.com/2023/05/04/oh-hey-google-just-announced-the-pixel-fold/)
+- [Senate Banking chair urges FDIC to look into Tellus, a fintech backed by Andreessen Horowitz](https://techcrunch.com/2023/05/04/senate-banking-chair-urges-fdic-to-look-into-tellus-a-fintech-backed-by-andreessen-horowitz/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
