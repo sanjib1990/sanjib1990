@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Waymo doubles robotaxi service area in Phoenix in bid to grow driverless trips tenfold](https://techcrunch.com/2023/05/04/waymo-doubles-robotaxi-service-area-in-phoenix-in-bid-to-grow-driverless-trips-tenfold/)
+- [Lego Star Wars Clone Commander Cody Helmet review](https://www.space.com/lego-star-wars-clone-commander-cody-helmet-75350-review)
+- [&#39;Star Wars: Young Jedi Adventures:&#39; Younglings now have an animated Disney Plus &#39;Star Wars&#39; show &lpar;exclusive&rpar;](https://www.space.com/star-wars-young-jedi-adventures-disney-plus-show)
+- [Satellite megaconstellations are threatening astronomy. What can be done?](https://www.space.com/satellite-megaconstellations-astronomy-dark-skies)
 - [Slack updates aim to put AI at the center of the user experience](https://techcrunch.com/2023/05/04/slack-updates-aim-to-put-ai-at-the-center-of-the-user-experience/)
-- [UK’s antitrust watchdog announces initial review of generative AI](https://techcrunch.com/2023/05/04/cma-generative-ai-review/)
-- [Nuview emerges from stealth with plans to map the Earth using lidar](https://techcrunch.com/2023/05/04/nuview-emerges-from-stealth-with-plans-to-map-the-earth-using-lidar/)
-- [Microsoft doubles down on AI with new Bing features](https://techcrunch.com/2023/05/04/microsoft-doubles-down-on-ai-with-new-bing-features/)
-- [Green-Got is a neobank for climate-conscious customers](https://techcrunch.com/2023/05/04/green-got-is-a-neobank-for-climate-conscious-customers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
