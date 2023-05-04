@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Waymo doubles robotaxi service area in Phoenix in bid to grow driverless trips tenfold](https://techcrunch.com/2023/05/04/waymo-doubles-robotaxi-service-area-in-phoenix-in-bid-to-grow-driverless-trips-tenfold/)
-- [Lego Star Wars Clone Commander Cody Helmet review](https://www.space.com/lego-star-wars-clone-commander-cody-helmet-75350-review)
-- [&#39;Star Wars: Young Jedi Adventures:&#39; Younglings now have an animated Disney Plus &#39;Star Wars&#39; show &lpar;exclusive&rpar;](https://www.space.com/star-wars-young-jedi-adventures-disney-plus-show)
-- [Satellite megaconstellations are threatening astronomy. What can be done?](https://www.space.com/satellite-megaconstellations-astronomy-dark-skies)
-- [Slack updates aim to put AI at the center of the user experience](https://techcrunch.com/2023/05/04/slack-updates-aim-to-put-ai-at-the-center-of-the-user-experience/)
+- [Bytedance is making its music streaming service Resso premium-only](https://techcrunch.com/2023/05/04/bytedance-is-making-its-music-streaming-service-resso-premium-only/)
+- [Meet Liquido, which aims to be the ‘Stripe of LatAm’ — but with even bigger ambitions](https://techcrunch.com/2023/05/04/fintech-liquido-stripe-of-latam-payments/)
+- [How the feds caught a notorious credit card fraudster](https://techcrunch.com/2023/05/04/try2check-credit-card-fraudster/)
+- [Carrie Fisher to finally receive her Hollywood Walk of Fame star on &#39;Star Wars&#39; Day](https://www.space.com/carrie-fisher-star-hollywood-walk-of-fame)
+- [Shopify to reduce workforce by 20%, sells logistics business to Flexport for 13% equity](https://techcrunch.com/2023/05/04/shopify-to-reduce-workforce-by-20-sells-logistics-business-to-flexport-for-13-equity/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
