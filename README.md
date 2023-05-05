@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tepid investor reaction clouds Lyft’s new strategy](https://techcrunch.com/2023/05/05/lyft-earnings-investor-reactions/)
+- [The end may be near for ice-hunting Artemis 1 moon cubesat](https://www.space.com/artemis-1-moon-cubesat-nears-mission-end)
+- [Eta Aquarid meteor shower 2023 peaking now! See pieces of Halley&#39;s Comet in the night sky](https://www.space.com/meteor-shower-eta-aquarid-peak-may-2023)
 - [Fox names Lance Armstrong, Ariel Winter among &#39;celebronauts&#39; on &#39;Stars On Mars&#39;](https://www.space.com/fox-stars-on-mars-celebronauts-crew-shatner)
 - [Down rounds are a ‘ticket to try again,’ says founder who raised 3 in a row](https://techcrunch.com/2023/05/05/down-rounds-are-not-bad/)
-- [Ex-Fin Capital general partner, who led its investment in Pipe, starts new venture firm](https://techcrunch.com/2023/05/05/ex-fin-capital-general-partner-who-led-investment-in-pipe-starts-new-venture-firm/)
-- [TechCrunch Disrupt early-bird savings end in 7 days](https://techcrunch.com/2023/05/05/early-bird-savings-end-seven-days-techcrunch-disrupt-2023/)
-- [What is Bluesky? Everything to know about the app trying to replace Twitter](https://techcrunch.com/2023/05/05/what-is-bluesky-everything-to-know-about-the-app-trying-to-replace-twitter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
