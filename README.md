@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Confusion sets in as Meta content moderators go without pay](https://techcrunch.com/2023/05/05/confusion-sets-in-as-meta-content-moderators-go-without-pay/)
+- [See Artemis 3 landing site near moon&#39;s south pole in stunning new NASA photos](https://www.space.com/moon-artemis-3-landing-site-nasa-shadowcam)
 - [Amazon quietly acquired audio content discovery engine Snackable AI to boost its podcast projects](https://techcrunch.com/2023/05/05/amazon-quietly-acquired-audio-content-discovery-engine-snackable-ai-to-boost-its-podcast-projects/)
 - [Why Halo is betting on a remote-operated car-sharing service](https://techcrunch.com/2023/05/05/why-halo-is-betting-on-a-remote-operated-car-sharing-service/)
 - [Think of the monetized children and other TC news](https://techcrunch.com/2023/05/05/think-of-the-monetized-children-and-other-tc-news/)
-- [Tour 10 mind-bending supermassive black holes in this NASA video](https://www.space.com/nasa-supermassive-black-hole-video-tour)
-- [&#39;Silo&#39; star Tim Robbins on joining Apple TV+&#39;s latest dystopian drama &lpar;exclusive&rpar;](https://www.space.com/silo-apple-tv-tim-robbins-exclusive)
 <!-- BLOG-POST-LIST:END -->
 
 ---
