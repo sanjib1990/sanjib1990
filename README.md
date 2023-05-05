@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon quietly acquired audio content discovery engine Snackable AI to boost its podcast projects](https://techcrunch.com/2023/05/05/amazon-quietly-acquired-audio-content-discovery-engine-snackable-ai-to-boost-its-podcast-projects/)
 - [Why Halo is betting on a remote-operated car-sharing service](https://techcrunch.com/2023/05/05/why-halo-is-betting-on-a-remote-operated-car-sharing-service/)
 - [Think of the monetized children and other TC news](https://techcrunch.com/2023/05/05/think-of-the-monetized-children-and-other-tc-news/)
 - [Tour 10 mind-bending supermassive black holes in this NASA video](https://www.space.com/nasa-supermassive-black-hole-video-tour)
 - [&#39;Silo&#39; star Tim Robbins on joining Apple TV+&#39;s latest dystopian drama &lpar;exclusive&rpar;](https://www.space.com/silo-apple-tv-tim-robbins-exclusive)
-- [Amazon’s TikTok-like Inspire shopping feed is now available to all customers in the US](https://techcrunch.com/2023/05/05/amazons-tiktok-like-inspire-shopping-feed-available-all-customers-us/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
