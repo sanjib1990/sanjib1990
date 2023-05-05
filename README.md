@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Warner Bros. Discovery’s streaming business set to become profitable in 2023](https://techcrunch.com/2023/05/05/warner-bros-discoverys-streaming-business-set-to-become-profitable-in-2023/)
+- [Gargantuan &#39;superflare&#39; from distant star may have launched one of the strongest solar storms ever seen](https://www.space.com/star-superflare-strongest-solar-storms-ever-seen)
+- [With DeepFloyd, generative AI art gets a text upgrade](https://techcrunch.com/2023/05/05/with-deepfloyd-generative-ai-art-gets-a-text-upgrade/)
+- [Guardians of the Galaxy Vol. 3 review: The emotional sendoff the team deserved](https://www.space.com/guardians-of-the-galaxy-vol-3-review)
 - [Security researcher finds trove of Capita data exposed online](https://techcrunch.com/2023/05/05/security-researcher-finds-trove-of-capita-data-exposed-online/)
-- [Artemis 2 astronaut to carry Canada&#39;s flag at King Charles&#39; coronation](https://www.space.com/artemis-2-moon-astronaut-jeremy-hansen-canada-flag-coronation-king-charles-iii)
-- [After bootstrapping for five years, Instruqt raises a €15M Series A from Blossom Capital](https://techcrunch.com/2023/05/05/after-bootstrapping-for-five-years-instruqt-raises-a-e15m-series-a-from-blossom-capital/)
-- [Warner Bros. Discovery CTO and CPO explain how they made Max less buggy](https://techcrunch.com/2023/05/05/warner-bros-discovery-cto-and-cpo-explain-how-they-made-max-less-buggy/)
-- [SpaceX won&#39;t launch next private astronaut crew for Axiom Space in early May after all](https://www.space.com/spacex-axiom-space-ax-2-private-astronauts-launch-delay)
 <!-- BLOG-POST-LIST:END -->
 
 ---
