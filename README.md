@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Security researcher finds trove of Capita data exposed online](https://techcrunch.com/2023/05/05/security-researcher-finds-trove-of-capita-data-exposed-online/)
+- [Artemis 2 astronaut to carry Canada&#39;s flag at King Charles&#39; coronation](https://www.space.com/artemis-2-moon-astronaut-jeremy-hansen-canada-flag-coronation-king-charles-iii)
+- [After bootstrapping for five years, Instruqt raises a €15M Series A from Blossom Capital](https://techcrunch.com/2023/05/05/after-bootstrapping-for-five-years-instruqt-raises-a-e15m-series-a-from-blossom-capital/)
 - [Warner Bros. Discovery CTO and CPO explain how they made Max less buggy](https://techcrunch.com/2023/05/05/warner-bros-discovery-cto-and-cpo-explain-how-they-made-max-less-buggy/)
 - [SpaceX won&#39;t launch next private astronaut crew for Axiom Space in early May after all](https://www.space.com/spacex-axiom-space-ax-2-private-astronauts-launch-delay)
-- [May&#39;s Full Flower Moon rises tonight after a lunar eclipse](https://www.space.com/full-flower-moon-eclipse-may-2023)
-- [Crypto, influencers targeted in Kenya’s new tax bid](https://techcrunch.com/2023/05/05/crypto-influencers-targeted-in-kenyas-new-tax-bid/)
-- [Samsung surpasses Apple in smartphone shipments by 1% amid persisting market decline](https://techcrunch.com/2023/05/05/samsung-surpasses-apple-in-smartphone-shipments-by-1-amid-persisting-market-decline/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
