@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Silo&#39; star Tim Robbins on joining Apple TV+&#39;s latest dystopian drama &lpar;exclusive&rpar;](https://www.space.com/silo-apple-tv-tim-robbins-exclusive)
+- [Amazon’s TikTok-like Inspire shopping feed is now available to all customers in the US](https://techcrunch.com/2023/05/05/amazons-tiktok-like-inspire-shopping-feed-available-all-customers-us/)
+- [Vint Cerf on the ‘exhilarating mix’ of thrill and hazard at the frontiers of tech](https://techcrunch.com/2023/05/05/vint-cerf-on-the-exhilarating-mix-of-thrill-and-hazard-at-the-frontiers-of-tech/)
+- [TechCrunch+ roundup: AI ethics investor survey, B2B SaaS KPIs, don’t frown on down rounds](https://techcrunch.com/2023/05/05/techcrunch-roundup-ai-ethics-investor-survey-b2b-saas-kpis-dont-frown-on-down-rounds/)
 - [Uranus&#39; 4 biggest moons may have buried oceans of salty water](https://www.space.com/uranus-four-biggest-moons-buried-oceans)
-- [Paytm tops $977 million revenue in a year, narrows loss](https://techcrunch.com/2023/05/05/paytm-revenue-loss-financial-year-ending-march-2023/)
-- [RapidAPI headcount down 82% from fresh layoffs less than two weeks after cutting 50% of staff](https://techcrunch.com/2023/05/05/rapidapi-headcount-down-82-from-fresh-layoffs-less-than-two-weeks-after-cutting-50-of-staff/)
-- [Hear how MinIO built a unicorn in object storage on top of Kubernetes and open source](https://techcrunch.com/2023/05/05/hear-how-minio-built-a-unicorn-in-object-storage-on-top-of-kubernetes-and-open-source/)
-- [Tepid investor reaction clouds Lyft’s new strategy](https://techcrunch.com/2023/05/05/lyft-earnings-investor-reactions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
