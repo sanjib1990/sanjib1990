@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple introduces 20 new games to Apple Arcade](https://techcrunch.com/2023/05/04/apple-introduces-20-new-games-to-apple-arcade/)
 - [Kenya’s Fingo partners with Ecobank, launches neobank on the back of $4M investment](https://techcrunch.com/2023/05/04/kenyas-fingo-partners-with-ecobank-launches-neobank-on-the-back-of-4m-investment/)
 - [India’s Meesho cuts 251 jobs](https://techcrunch.com/2023/05/04/india-meesho-cuts-251-jobs/)
 - [Praktis lands $20M to help Indonesian D2C brands handle their supply chains](https://techcrunch.com/2023/05/04/praktis/)
 - [In Europe, Accel banks on a turnaround over the next 6 to 9 months](https://techcrunch.com/2023/05/04/accels-harry-nelis-venture-capital/)
-- [Daily Crunch: Shopify lays off 20% of staff and sells its logistics arm to Flexport](https://techcrunch.com/2023/05/04/daily-crunch-shopify-lays-off-20-of-staff-and-sells-its-logistics-arm-to-flexport/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
