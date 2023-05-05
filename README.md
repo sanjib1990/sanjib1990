@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [In Europe, Accel banks on a turnaround over the next six to nine months](https://techcrunch.com/2023/05/04/accels-harry-nelis-venture-capital/)
+- [In Europe, Accel banks on a turnaround over the next 6 to 9 months](https://techcrunch.com/2023/05/04/accels-harry-nelis-venture-capital/)
 - [Daily Crunch: Shopify lays off 20% of staff and sells its logistics arm to Flexport](https://techcrunch.com/2023/05/04/daily-crunch-shopify-lays-off-20-of-staff-and-sells-its-logistics-arm-to-flexport/)
 - [Persona and Index Ventures talk identity, and identifying a good deal](https://techcrunch.com/2023/05/04/persona-and-index-ventures-talk-identity-and-identifying-a-good-deal/)
 - [How did Earth&#39;s continents form? Leading theory may be in doubt](https://www.space.com/earth-continents-formation-theory)
