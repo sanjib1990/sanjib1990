@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India’s Meesho cuts 251 jobs](https://techcrunch.com/2023/05/04/india-meesho-cuts-251-jobs/)
+- [Praktis lands $20M to help Indonesian D2C brands handle their supply chains](https://techcrunch.com/2023/05/04/praktis/)
 - [In Europe, Accel banks on a turnaround over the next 6 to 9 months](https://techcrunch.com/2023/05/04/accels-harry-nelis-venture-capital/)
 - [Daily Crunch: Shopify lays off 20% of staff and sells its logistics arm to Flexport](https://techcrunch.com/2023/05/04/daily-crunch-shopify-lays-off-20-of-staff-and-sells-its-logistics-arm-to-flexport/)
 - [Persona and Index Ventures talk identity, and identifying a good deal](https://techcrunch.com/2023/05/04/persona-and-index-ventures-talk-identity-and-identifying-a-good-deal/)
-- [How did Earth&#39;s continents form? Leading theory may be in doubt](https://www.space.com/earth-continents-formation-theory)
-- [Investors cheer as Coinbase beats Q1 expectations](https://techcrunch.com/2023/05/04/coinbase-earnings-q1-2023-expectations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
