@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is Bluesky? Everything to know about the app trying to replace Twitter](https://techcrunch.com/2023/05/05/what-is-bluesky-everything-to-know-about-the-app-trying-to-replace-twitter/)
+- [OpenAI’s ChatGPT is shaking up the edtech markets](https://techcrunch.com/2023/05/05/openai-chatgpt-chegg-edtech/)
+- [&#39;Star Wars: Visions Vol. 2&#39; director tells a ghost story in the galaxy far, far away &lpar;exclusive&rpar;](https://www.space.com/star-wars-visions-vol-2-creator-interview)
+- [Aaron Burr’s tech angle, blue skies, and no photos at this time](https://techcrunch.com/2023/05/05/aaron-burrs-tech-angle-blue-skies-and-no-photos-at-this-time/)
 - [Warner Bros. Discovery’s streaming business set to become profitable in 2023](https://techcrunch.com/2023/05/05/warner-bros-discoverys-streaming-business-set-to-become-profitable-in-2023/)
-- [Gargantuan &#39;superflare&#39; from distant star may have launched one of the strongest solar storms ever seen](https://www.space.com/star-superflare-strongest-solar-storms-ever-seen)
-- [With DeepFloyd, generative AI art gets a text upgrade](https://techcrunch.com/2023/05/05/with-deepfloyd-generative-ai-art-gets-a-text-upgrade/)
-- [Guardians of the Galaxy Vol. 3 review: The emotional sendoff the team deserved](https://www.space.com/guardians-of-the-galaxy-vol-3-review)
-- [Security researcher finds trove of Capita data exposed online](https://techcrunch.com/2023/05/05/security-researcher-finds-trove-of-capita-data-exposed-online/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
