@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX won&#39;t launch next private astronaut crew for Axiom Space in early May after all](https://www.space.com/spacex-axiom-space-ax-2-private-astronauts-launch-delay)
+- [May&#39;s Full Flower Moon rises tonight after a lunar eclipse](https://www.space.com/full-flower-moon-eclipse-may-2023)
+- [Crypto, influencers targeted in Kenya’s new tax bid](https://techcrunch.com/2023/05/05/crypto-influencers-targeted-in-kenyas-new-tax-bid/)
+- [Samsung surpasses Apple in smartphone shipments by 1% amid persisting market decline](https://techcrunch.com/2023/05/05/samsung-surpasses-apple-in-smartphone-shipments-by-1-amid-persisting-market-decline/)
 - [Apple introduces 20 new games to Apple Arcade](https://techcrunch.com/2023/05/04/apple-introduces-20-new-games-to-apple-arcade/)
-- [Kenya’s Fingo partners with Ecobank, launches neobank on the back of $4M investment](https://techcrunch.com/2023/05/04/kenyas-fingo-partners-with-ecobank-launches-neobank-on-the-back-of-4m-investment/)
-- [India’s Meesho cuts 251 jobs](https://techcrunch.com/2023/05/04/india-meesho-cuts-251-jobs/)
-- [Praktis lands $20M to help Indonesian D2C brands handle their supply chains](https://techcrunch.com/2023/05/04/praktis/)
-- [In Europe, Accel banks on a turnaround over the next 6 to 9 months](https://techcrunch.com/2023/05/04/accels-harry-nelis-venture-capital/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
