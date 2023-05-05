@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Halo is betting on a remote-operated car-sharing service](https://techcrunch.com/2023/05/05/why-halo-is-betting-on-a-remote-operated-car-sharing-service/)
+- [Think of the monetized children and other TC news](https://techcrunch.com/2023/05/05/think-of-the-monetized-children-and-other-tc-news/)
+- [Tour 10 mind-bending supermassive black holes in this NASA video](https://www.space.com/nasa-supermassive-black-hole-video-tour)
 - [&#39;Silo&#39; star Tim Robbins on joining Apple TV+&#39;s latest dystopian drama &lpar;exclusive&rpar;](https://www.space.com/silo-apple-tv-tim-robbins-exclusive)
 - [Amazon’s TikTok-like Inspire shopping feed is now available to all customers in the US](https://techcrunch.com/2023/05/05/amazons-tiktok-like-inspire-shopping-feed-available-all-customers-us/)
-- [Vint Cerf on the ‘exhilarating mix’ of thrill and hazard at the frontiers of tech](https://techcrunch.com/2023/05/05/vint-cerf-on-the-exhilarating-mix-of-thrill-and-hazard-at-the-frontiers-of-tech/)
-- [TechCrunch+ roundup: AI ethics investor survey, B2B SaaS KPIs, don’t frown on down rounds](https://techcrunch.com/2023/05/05/techcrunch-roundup-ai-ethics-investor-survey-b2b-saas-kpis-dont-frown-on-down-rounds/)
-- [Uranus&#39; 4 biggest moons may have buried oceans of salty water](https://www.space.com/uranus-four-biggest-moons-buried-oceans)
 <!-- BLOG-POST-LIST:END -->
 
 ---
