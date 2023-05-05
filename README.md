@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Uranus&#39; 4 biggest moons may have buried oceans of salty water](https://www.space.com/uranus-four-biggest-moons-buried-oceans)
+- [Paytm tops $977 million revenue in a year, narrows loss](https://techcrunch.com/2023/05/05/paytm-revenue-loss-financial-year-ending-march-2023/)
+- [RapidAPI headcount down 82% from fresh layoffs less than two weeks after cutting 50% of staff](https://techcrunch.com/2023/05/05/rapidapi-headcount-down-82-from-fresh-layoffs-less-than-two-weeks-after-cutting-50-of-staff/)
+- [Hear how MinIO built a unicorn in object storage on top of Kubernetes and open source](https://techcrunch.com/2023/05/05/hear-how-minio-built-a-unicorn-in-object-storage-on-top-of-kubernetes-and-open-source/)
 - [Tepid investor reaction clouds Lyft’s new strategy](https://techcrunch.com/2023/05/05/lyft-earnings-investor-reactions/)
-- [The end may be near for ice-hunting Artemis 1 moon cubesat](https://www.space.com/artemis-1-moon-cubesat-nears-mission-end)
-- [Eta Aquarid meteor shower 2023 peaking now! See pieces of Halley&#39;s Comet in the night sky](https://www.space.com/meteor-shower-eta-aquarid-peak-may-2023)
-- [Fox names Lance Armstrong, Ariel Winter among &#39;celebronauts&#39; on &#39;Stars On Mars&#39;](https://www.space.com/fox-stars-on-mars-celebronauts-crew-shatner)
-- [Down rounds are a ‘ticket to try again,’ says founder who raised 3 in a row](https://techcrunch.com/2023/05/05/down-rounds-are-not-bad/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
