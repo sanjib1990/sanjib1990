@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fox names Lance Armstrong, Ariel Winter among &#39;celebronauts&#39; on &#39;Stars On Mars&#39;](https://www.space.com/fox-stars-on-mars-celebronauts-crew-shatner)
+- [Down rounds are a ‘ticket to try again,’ says founder who raised 3 in a row](https://techcrunch.com/2023/05/05/down-rounds-are-not-bad/)
+- [Ex-Fin Capital general partner, who led its investment in Pipe, starts new venture firm](https://techcrunch.com/2023/05/05/ex-fin-capital-general-partner-who-led-investment-in-pipe-starts-new-venture-firm/)
+- [TechCrunch Disrupt early-bird savings end in 7 days](https://techcrunch.com/2023/05/05/early-bird-savings-end-seven-days-techcrunch-disrupt-2023/)
 - [What is Bluesky? Everything to know about the app trying to replace Twitter](https://techcrunch.com/2023/05/05/what-is-bluesky-everything-to-know-about-the-app-trying-to-replace-twitter/)
-- [OpenAI’s ChatGPT is shaking up the edtech markets](https://techcrunch.com/2023/05/05/openai-chatgpt-chegg-edtech/)
-- [&#39;Star Wars: Visions Vol. 2&#39; director tells a ghost story in the galaxy far, far away &lpar;exclusive&rpar;](https://www.space.com/star-wars-visions-vol-2-creator-interview)
-- [Aaron Burr’s tech angle, blue skies, and no photos at this time](https://techcrunch.com/2023/05/05/aaron-burrs-tech-angle-blue-skies-and-no-photos-at-this-time/)
-- [Warner Bros. Discovery’s streaming business set to become profitable in 2023](https://techcrunch.com/2023/05/05/warner-bros-discoverys-streaming-business-set-to-become-profitable-in-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
