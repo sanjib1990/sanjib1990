@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hacked verified Facebook pages impersonating Meta are buying ads from Meta](https://techcrunch.com/2023/05/05/hacked-verified-facebook-pages-impersonating-meta-are-buying-ads-from-meta/)
+- [Twitter confirms Circle tweets temporarily were not private](https://techcrunch.com/2023/05/05/twitter-confirms-circle-tweets-temporarily-were-not-private/)
 - [Daily Crunch: New AI model DeepFloyd IF offers ‘advanced text-to-image generation techniques’](https://techcrunch.com/2023/05/05/daily-crunch-new-ai-model-deepfloyd-if-offers-advanced-text-to-image-generation-techniques/)
+- [Watch astronauts relocate SpaceX Dragon capsule on space station early Saturday](https://www.space.com/spacex-dragon-capsule-move-space-station-may-2023)
 - [Scientists discover closest star-shredding black hole to Earth ever seen](https://www.space.com/black-hole-shredding-star-closest-to-earth-ever-seen)
-- [Confusion sets in as Meta content moderators go without pay](https://techcrunch.com/2023/05/05/confusion-sets-in-as-meta-content-moderators-go-without-pay/)
-- [See Artemis 3 landing site near moon&#39;s south pole in stunning new NASA photos](https://www.space.com/moon-artemis-3-landing-site-nasa-shadowcam)
-- [Amazon quietly acquired audio content discovery engine Snackable AI to boost its podcast projects](https://techcrunch.com/2023/05/05/amazon-quietly-acquired-audio-content-discovery-engine-snackable-ai-to-boost-its-podcast-projects/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
