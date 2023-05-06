@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX launch of Ax-2 private astronaut mission now targeted for May 21](https://www.space.com/spacex-ax-2-launch-space-station-may-21)
 - [Google and OpenAI are Walmarts besieged by fruit stands](https://techcrunch.com/2023/05/05/google-and-openai-are-walmarts-besieged-by-fruit-stands/)
 - [Hacked verified Facebook pages impersonating Meta are buying ads from Meta](https://techcrunch.com/2023/05/05/hacked-verified-facebook-pages-impersonating-meta-are-buying-ads-from-meta/)
 - [Twitter confirms Circle tweets temporarily were not private](https://techcrunch.com/2023/05/05/twitter-confirms-circle-tweets-temporarily-were-not-private/)
 - [Daily Crunch: New AI model DeepFloyd IF offers ‘advanced text-to-image generation techniques’](https://techcrunch.com/2023/05/05/daily-crunch-new-ai-model-deepfloyd-if-offers-advanced-text-to-image-generation-techniques/)
-- [Watch astronauts relocate SpaceX Dragon capsule on space station early Saturday](https://www.space.com/spacex-dragon-capsule-move-space-station-may-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
