@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Deal Dive: VC interest in wildfire tech grows as the world burns around us](https://techcrunch.com/2023/05/06/wildfire-startups-vc-interest/)
+- [See the moon in epic detail in stunning images taken by South Korea&#39;s lunar orbiter &lpar;photos&rpar;](https://www.space.com/moon-images-korea-pathfinder-lunar-orbiter)
 - [The best way to avoid a down round is to found an AI startup](https://techcrunch.com/2023/05/06/ai-startups-q1-investments/)
 - [Affinity Photo 2 Review 2023](https://www.space.com/affinity-photo-2-review)
-- [Artemis 2 astronaut Jeremy Hansen carries Canadian flag at coronation of King Charles III](https://www.space.com/artemis-2-astronaut-jeremy-hansen-king-charles-coronation)
-- [Samuel Durrance, astronaut who flew with telescope he built, dies at 79](https://www.space.com/astronaut-samuel-durrance-obituary)
-- [Best DC games of all time](https://www.space.com/best-dc-games-of-all-time)
+- [Artemis 2 astronaut Jeremy Hansen carries Canadian flag at coronation of King Charles](https://www.space.com/artemis-2-astronaut-jeremy-hansen-king-charles-coronation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
