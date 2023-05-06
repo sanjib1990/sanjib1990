@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Best DC games of all time](https://www.space.com/best-dc-games-of-all-time)
+- [Who is Adam Warlock? All you need to know about the &#39;Guardians of the Galaxy Vol. 3&#39; bad guy](https://www.space.com/who-is-adam-warlock-guardians-of-the-galaxy)
 - [Remember when: King Charles met NASA&#39;s space shuttle Enterprise in 1977 &lpar;video&rpar;](https://www.space.com/king-charles-nasa-space-shuttle-enterprise-video)
 - [Join the crew of the USS Cerritos in &#39;Star Trek: Lower Decks&#39; role-playing game](https://www.space.com/star-trek-lower-decks-role-playing-game)
 - [SpaceX launch of Ax-2 private astronaut mission now targeted for May 21](https://www.space.com/spacex-ax-2-launch-space-station-may-21)
-- [Google and OpenAI are Walmarts besieged by fruit stands](https://techcrunch.com/2023/05/05/google-and-openai-are-walmarts-besieged-by-fruit-stands/)
-- [Hacked verified Facebook pages impersonating Meta are buying ads from Meta](https://techcrunch.com/2023/05/05/hacked-verified-facebook-pages-impersonating-meta-are-buying-ads-from-meta/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
