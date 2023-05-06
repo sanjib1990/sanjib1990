@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The best way to avoid a down round is to found an AI startup](https://techcrunch.com/2023/05/06/ai-startups-q1-investments/)
+- [Affinity Photo 2 Review 2023](https://www.space.com/affinity-photo-2-review)
+- [Artemis 2 astronaut Jeremy Hansen carries Canadian flag at coronation of King Charles III](https://www.space.com/artemis-2-astronaut-jeremy-hansen-king-charles-coronation)
 - [Samuel Durrance, astronaut who flew with telescope he built, dies at 79](https://www.space.com/astronaut-samuel-durrance-obituary)
 - [Best DC games of all time](https://www.space.com/best-dc-games-of-all-time)
-- [Who is Adam Warlock? All you need to know about the &#39;Guardians of the Galaxy Vol. 3&#39; bad guy](https://www.space.com/who-is-adam-warlock-guardians-of-the-galaxy)
-- [Remember when: King Charles met NASA&#39;s space shuttle Enterprise in 1977 &lpar;video&rpar;](https://www.space.com/king-charles-nasa-space-shuttle-enterprise-video)
-- [Join the crew of the USS Cerritos in &#39;Star Trek: Lower Decks&#39; role-playing game](https://www.space.com/star-trek-lower-decks-role-playing-game)
 <!-- BLOG-POST-LIST:END -->
 
 ---
