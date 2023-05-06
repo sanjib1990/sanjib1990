@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon launches free channels, check marks come to Gmail and OpenAI raises more moolah](https://techcrunch.com/2023/05/06/amazon-launches-free-channels-check-marks-come-to-gmail-and-openai-raises-more-moolah/)
 - [This week in tech acronyms: FRB and GPT](https://techcrunch.com/2023/05/06/this-week-in-tech-acronyms-frb-and-gpt/)
 - [This Week in Apps: Apple and Google team up on trackers, Google I/O preview, apps hit NewFronts](https://techcrunch.com/2023/05/06/this-week-in-apps-apple-and-google-team-up-on-trackers-google-i-o-preview-apps-hit-newfronts/)
 - [The rise and changing role of chief product officers](https://techcrunch.com/2023/05/06/rise-chief-product-officers/)
 - [Everything we know about Star Wars Skeleton Crew: Plot, release window, cast &amp; crew](https://www.space.com/everything-we-know-about-star-wars-skeleton-crew)
-- [Deal Dive: VC interest in wildfire tech grows as the world burns around us](https://techcrunch.com/2023/05/06/wildfire-startups-vc-interest/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
