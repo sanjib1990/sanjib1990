@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The rise and changing role of chief product officers](https://techcrunch.com/2023/05/06/rise-chief-product-officers/)
 - [Everything we know about Star Wars Skeleton Crew: Plot, release window, cast &amp; crew](https://www.space.com/everything-we-know-about-star-wars-skeleton-crew)
 - [Deal Dive: VC interest in wildfire tech grows as the world burns around us](https://techcrunch.com/2023/05/06/wildfire-startups-vc-interest/)
 - [See the moon in epic detail in stunning images taken by South Korea&#39;s lunar orbiter &lpar;photos&rpar;](https://www.space.com/moon-images-korea-pathfinder-lunar-orbiter)
 - [The best way to avoid a down round is to found an AI startup](https://techcrunch.com/2023/05/06/ai-startups-q1-investments/)
-- [Affinity Photo 2 Review 2023](https://www.space.com/affinity-photo-2-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
