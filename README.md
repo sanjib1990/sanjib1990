@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Visit the edge of space in style with new luxury balloon tourism startup](https://www.space.com/space-balloon-luxury-tourism-french-startup)
 - [Europe wants its own satellite megaconstellation to compete with SpaceX Starlink: report](https://www.space.com/europe-satellite-megaconstellation-spacex-starlink-competitor)
 - [Watch Rocket Lab launch 2 NASA storm-watching satellites tonight](https://www.space.com/rocket-lab-first-nasa-tropics-launch-webcast)
 - [Amazon launches free channels, check marks come to Gmail and OpenAI raises more moolah](https://techcrunch.com/2023/05/06/amazon-launches-free-channels-check-marks-come-to-gmail-and-openai-raises-more-moolah/)
 - [This week in tech acronyms: FRB and GPT](https://techcrunch.com/2023/05/06/this-week-in-tech-acronyms-frb-and-gpt/)
-- [This Week in Apps: Apple and Google team up on trackers, Google I/O preview, apps hit NewFronts](https://techcrunch.com/2023/05/06/this-week-in-apps-apple-and-google-team-up-on-trackers-google-i-o-preview-apps-hit-newfronts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
