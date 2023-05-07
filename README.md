@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Space startups need to start preparing for a post-Starship world](https://techcrunch.com/2023/05/07/spacex-starship-startups-future/)
 - [Roy Bridges, Senator Mark Kelly inducted into US Astronaut Hall of Fame](https://www.space.com/astronaut-hall-fame-2023-induction)
 - [Visit the edge of space in style with new luxury balloon tourism startup](https://www.space.com/space-balloon-luxury-tourism-french-startup)
 - [Europe wants its own satellite megaconstellation to compete with SpaceX Starlink: report](https://www.space.com/europe-satellite-megaconstellation-spacex-starlink-competitor)
 - [Watch Rocket Lab launch 2 NASA storm-watching satellites tonight](https://www.space.com/rocket-lab-first-nasa-tropics-launch-webcast)
-- [Amazon launches free channels, check marks come to Gmail and OpenAI raises more moolah](https://techcrunch.com/2023/05/06/amazon-launches-free-channels-check-marks-come-to-gmail-and-openai-raises-more-moolah/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
