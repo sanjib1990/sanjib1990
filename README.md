@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [China&#39;s mysterious space plane returns to Earth after 9-month orbital mission](https://www.space.com/china-space-plane-lands-may-2023)
+- [See bright Venus climb to its highest point in the night sky tonight](https://www.space.com/venus-bright-night-sky-may-2023)
 - [Optery using its new funding to evolve from data broker opt-outs to personal info platform](https://techcrunch.com/2023/05/08/optery-using-its-new-funding-to-evolve-from-data-broker-opt-outs-to-personal-info-platform/)
 - [Western sanctions against Russia: Tips for tech companies managing compliance risk](https://techcrunch.com/2023/05/08/western-sanctions-against-russia-tips-for-tech-companies-managing-compliance-risk/)
 - [Tech workers could take labor lessons from Hollywood’s writers](https://techcrunch.com/2023/05/08/tech-workers-could-take-labor-lessons-from-hollywoods-writers/)
-- [Navier’s hydrofoiling electric cruises west coast waterways to line up first pilot programs](https://techcrunch.com/2023/05/08/naviers-hydrofoiling-electric-cruises-west-coast-waterways-to-line-up-first-pilot-programs/)
-- [Elon Musk says Twitter is purging old accounts, freeing up desired usernames](https://techcrunch.com/2023/05/08/elon-musk-says-twitter-is-purging-old-accounts-freeing-up-desired-usernames/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
