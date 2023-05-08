@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Mayfield raised just shy of $1B to avoid unicorn hype](https://techcrunch.com/2023/05/08/mayfield-new-fund-xvii/)
-- [How to find the right investors for your startup](https://techcrunch.com/2023/05/08/fundraising-process/)
-- [Western Digital tells customers that hackers stole their data](https://techcrunch.com/2023/05/08/western-digital-tells-customers-that-hackers-stole-their-data/)
-- [Samsung’s Irregular Heart Rhythm Notification feature for the Galaxy Watch receives FDA clearance](https://techcrunch.com/2023/05/08/samsungs-irregular-heart-rhythm-notification-galaxy-watch-fda-clearance/)
-- [Waymo doubles its robotaxi footprint, Joby lands $180M and the latest sign generative AI has reached peak hype](https://techcrunch.com/2023/05/08/waymo-doubles-its-robotaxi-footprint-joby-lands-180m-and-the-latest-sign-generative-ai-has-reached-peak-hype/)
+- [SoundCloud debuts a fan engagement tool for artists](https://techcrunch.com/2023/05/08/soundcloud-debuts-a-fan-engagement-tool-for-artists/)
+- [Are you spending too much on paid acquisition?](https://techcrunch.com/2023/05/08/are-you-spending-too-much-on-paid-acquisition/)
+- [Antimetal is putting AI to work to root out cloud cost inefficiencies](https://techcrunch.com/2023/05/08/antimetal-is-putting-ai-to-work-to-root-out-cloud-cost-inefficiencies/)
+- [Volkswagen shakes up software arm Cariad — again](https://techcrunch.com/2023/05/08/volkswagen-shakes-up-software-arm-cariad-again/)
+- [Virgin Galactic aims for triumphant return with crewed flight at the end of May](https://techcrunch.com/2023/05/08/virgin-galactic-aims-for-triumphant-return-with-crewed-flight-at-the-end-of-may/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
