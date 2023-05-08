@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Elizabeth Holmes, left to her own devices](https://techcrunch.com/2023/05/07/elizabeth-holmes-left-to-her-own-devices/)
 - [Rocket Lab launches 2 NASA satellites to study tropical storms and hurricanes like never before](https://www.space.com/rocket-lab-nasa-tropics-hurricane-cubesat-launch)
 - [3one4 Capital, driven by contrarian bets, raises $200 million new fund](https://techcrunch.com/2023/05/07/3one4-capital-driven-by-contrarian-bets-raises-200-million-new-fund/)
 - [Persona and Index Ventures talk identity, and identifying a good deal](https://techcrunch.com/2023/05/07/persona-and-index-ventures-talk-identity-and-identifying-a-good-deal/)
 - [Artemis 2 will use lasers to beam high-definition video from the moon &lpar;video&rpar;](https://www.space.com/nasa-artemis-2-laser-communications-video)
-- [NFX’s James Currier: Where unicorn ideas come from and why founders ‘have to keep pivoting’](https://techcrunch.com/2023/05/07/where-unicorn-ideas-come-from/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
