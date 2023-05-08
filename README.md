@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Star Trek Online&#39; grapples with a space-time rip in new episode coming on May 9](https://www.space.com/star-trek-online-unleashed-episode-space-time-rip)
+- [Will SpaceX&#39;s Starlink megaconstellation make Earth more detectable to aliens?](https://www.space.com/spacex-starlink-radio-signals-alien-visiblity)
+- [Qualcomm acquires Autotalks to boost Snapdragon’s automotive safety technology, reportedly for $350-400M](https://techcrunch.com/2023/05/08/qualcomm-autotalks-safety/)
 - [Elizabeth Holmes, left to her own devices](https://techcrunch.com/2023/05/07/elizabeth-holmes-left-to-her-own-devices/)
 - [Rocket Lab launches 2 NASA satellites to study tropical storms and hurricanes like never before](https://www.space.com/rocket-lab-nasa-tropics-hurricane-cubesat-launch)
-- [3one4 Capital, driven by contrarian bets, raises $200 million new fund](https://techcrunch.com/2023/05/07/3one4-capital-driven-by-contrarian-bets-raises-200-million-new-fund/)
-- [Persona and Index Ventures talk identity, and identifying a good deal](https://techcrunch.com/2023/05/07/persona-and-index-ventures-talk-identity-and-identifying-a-good-deal/)
-- [Artemis 2 will use lasers to beam high-definition video from the moon &lpar;video&rpar;](https://www.space.com/nasa-artemis-2-laser-communications-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
