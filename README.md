@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Look for &#39;Earthgrazers&#39; as the Eta Aquarid meteor shower overlaps the new moon on May 19](https://www.space.com/eta-aquarid-meteor-shower-poor-year-may-2023)
-- [Mastercard, PayPal and Robinhood dive deeper into crypto as industry shows ‘promise’](https://techcrunch.com/2023/05/08/mastercard-paypal-and-robinhood-dive-deeper-into-crypto-as-industry-shows-promise/)
-- [China&#39;s mysterious space plane returns to Earth after 9-month orbital mission](https://www.space.com/china-space-plane-lands-may-2023)
-- [See bright Venus climb to its highest point in the night sky tonight](https://www.space.com/venus-bright-night-sky-may-2023)
-- [Optery using its new funding to evolve from data broker opt-outs to personal info platform](https://techcrunch.com/2023/05/08/optery-using-its-new-funding-to-evolve-from-data-broker-opt-outs-to-personal-info-platform/)
+- [One week left: Apply to TC Disrupt Startup Battlefield 200](https://techcrunch.com/2023/05/08/startup-battlefield-200-applications-end-one-week-techcrunch-disrupt-2023/)
+- [This app, backed by Marissa Mayer and Peter Thiel, is making texts more expressive](https://techcrunch.com/2023/05/08/hinote-marissa-mayer-peter-thiel/)
+- [Acapela lets anyone back up their own voice for free in minutes — just in case](https://techcrunch.com/2023/05/08/acapela-lets-anyone-back-up-their-own-voice-for-free-in-minutes-just-in-case/)
+- [MWC’s organizer slapped with GDPR fine over biometrics ID checks due diligence](https://techcrunch.com/2023/05/08/gsma-mwc-aedp-gdpr-dpia-fine/)
+- [James Webb Space Telescope snaps amazing photo of alien asteroid belt](https://www.space.com/james-webb-space-telescope-fomalhaut-asteroid-belt-photo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
