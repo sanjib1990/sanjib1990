@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [EV maker Lucid misses on revenue, earnings in Q1](https://techcrunch.com/2023/05/08/ev-maker-lucid-misses-on-revenue-earnings-in-q1/)
+- [Chinese startup aims to debut new reusable rocket next year](https://www.space.com/china-galactic-energy-pallas-1-reusable-rocket)
+- [Terraform Industries wants to solve climate change by making more hydrocarbons](https://techcrunch.com/2023/05/08/terraform-industries-wants-to-solve-climate-change-by-making-more-hydrocarbons/)
 - [One week left: Apply to TC Disrupt Startup Battlefield 200](https://techcrunch.com/2023/05/08/startup-battlefield-200-applications-end-one-week-techcrunch-disrupt-2023/)
 - [This app, backed by Marissa Mayer and Peter Thiel, is making texts more expressive](https://techcrunch.com/2023/05/08/hinote-marissa-mayer-peter-thiel/)
-- [Acapela lets anyone back up their own voice for free in minutes — just in case](https://techcrunch.com/2023/05/08/acapela-lets-anyone-back-up-their-own-voice-for-free-in-minutes-just-in-case/)
-- [MWC’s organizer slapped with GDPR fine over biometrics ID checks due diligence](https://techcrunch.com/2023/05/08/gsma-mwc-aedp-gdpr-dpia-fine/)
-- [James Webb Space Telescope snaps amazing photo of alien asteroid belt](https://www.space.com/james-webb-space-telescope-fomalhaut-asteroid-belt-photo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
