@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Shopify sells 6 River Systems to new owner](https://techcrunch.com/2023/05/08/shopify-sells-6-river-systems-to-new-owner/)
 - [Daily Crunch: In its second markdown in 4 months, Invesco slashes Swiggy’s valuation to $5.5B](https://techcrunch.com/2023/05/08/daily-crunch-114/)
 - [Max Q: A lawsuit? Over Starship? I’m shocked](https://techcrunch.com/2023/05/08/max-q-lawsuit-starship/)
 - [Elon Musk teases free Tesla FSD trial in North America](https://techcrunch.com/2023/05/08/elon-musk-teases-free-tesla-fsd-trial-in-north-america/)
 - [Powerful sun storm could supercharge auroras this week](https://www.space.com/solar-storm-supercharge-auroras-may-2023)
-- [The moon&#39;s heart of iron revealed for the 1st time](https://www.space.com/moon-core-heart-of-iron-1st-look)
 <!-- BLOG-POST-LIST:END -->
 
 ---
