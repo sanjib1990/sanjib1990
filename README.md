@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Look for &#39;Earthgrazers&#39; as the Eta Aquarid meteor shower overlaps the new moon on May 19](https://www.space.com/eta-aquarid-meteor-shower-poor-year-may-2023)
+- [Mastercard, PayPal and Robinhood dive deeper into crypto as industry shows ‘promise’](https://techcrunch.com/2023/05/08/mastercard-paypal-and-robinhood-dive-deeper-into-crypto-as-industry-shows-promise/)
 - [China&#39;s mysterious space plane returns to Earth after 9-month orbital mission](https://www.space.com/china-space-plane-lands-may-2023)
 - [See bright Venus climb to its highest point in the night sky tonight](https://www.space.com/venus-bright-night-sky-may-2023)
 - [Optery using its new funding to evolve from data broker opt-outs to personal info platform](https://techcrunch.com/2023/05/08/optery-using-its-new-funding-to-evolve-from-data-broker-opt-outs-to-personal-info-platform/)
-- [Western sanctions against Russia: Tips for tech companies managing compliance risk](https://techcrunch.com/2023/05/08/western-sanctions-against-russia-tips-for-tech-companies-managing-compliance-risk/)
-- [Tech workers could take labor lessons from Hollywood’s writers](https://techcrunch.com/2023/05/08/tech-workers-could-take-labor-lessons-from-hollywoods-writers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
