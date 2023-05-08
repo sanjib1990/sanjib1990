@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [PermitFlow advances construction permitting automation with $5.5M in new capital](https://techcrunch.com/2023/05/08/permitflow-construction-permit-automation/)
+- [Strange winds blow on Saturn&#39;s moon Titan. New clues could solve this decades-old mystery](https://www.space.com/saturn-moon-titan-strange-winds-new-clues)
+- [NFT spinoff from newspaper SCMP gets funded to tokenize historical artifacts](https://techcrunch.com/2023/05/08/scmp-artifcat-funding/)
+- [Five days left to buy early-bird passes to Disrupt](https://techcrunch.com/2023/05/08/five-days-left-early-bird-passes-techcrunch-disrupt-2023/)
 - [See 1st lunar eclipse of 2023 darken the full Flower Moon in eerie photos](https://www.space.com/lunar-eclipse-full-flower-moon-may-2023-photos)
-- [Go1 snaps up speed reading app Blinkist to expand in enterprise learning](https://techcrunch.com/2023/05/08/go1-snaps-up-speed-reading-app-blinkist-to-expand-in-enterprise-learning/)
-- [Invesco cuts Swiggy valuation by half to $5.5 billion](https://techcrunch.com/2023/05/08/invesco-cuts-indian-food-delivery-giant-swiggys-valuation-to-5-5-billion/)
-- [&#39;Star Trek Online&#39; grapples with a space-time rip in new episode coming on May 9](https://www.space.com/star-trek-online-unleashed-episode-space-time-rip)
-- [Will SpaceX&#39;s Starlink megaconstellation make Earth more detectable to aliens?](https://www.space.com/spacex-starlink-radio-signals-alien-visiblity)
 <!-- BLOG-POST-LIST:END -->
 
 ---
