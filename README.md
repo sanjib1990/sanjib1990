@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NextGen Healthcare says hackers accessed personal data of more than 1 million patients](https://techcrunch.com/2023/05/08/nextgen-healthcare-data-breach/)
+- [mHub opens much bigger facility to kick Chicago startups into high gear](https://techcrunch.com/2023/05/08/mmmhub-ba-duba-dop-mmmhub/)
+- [Twitter is mulling a cheaper organizational verification plan](https://techcrunch.com/2023/05/08/twitter-is-mulling-a-cheaper-organizational-verification-plan/)
 - [PermitFlow advances construction permitting automation with $5.5M in new capital](https://techcrunch.com/2023/05/08/permitflow-construction-permit-automation/)
 - [Strange winds blow on Saturn&#39;s moon Titan. New clues could solve this decades-old mystery](https://www.space.com/saturn-moon-titan-strange-winds-new-clues)
-- [NFT spinoff from newspaper SCMP gets funded to tokenize historical artifacts](https://techcrunch.com/2023/05/08/scmp-artifcat-funding/)
-- [Five days left to buy early-bird passes to Disrupt](https://techcrunch.com/2023/05/08/five-days-left-early-bird-passes-techcrunch-disrupt-2023/)
-- [See 1st lunar eclipse of 2023 darken the full Flower Moon in eerie photos](https://www.space.com/lunar-eclipse-full-flower-moon-may-2023-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
