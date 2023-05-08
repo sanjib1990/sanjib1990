@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [EV maker Lucid misses on revenue, earnings in Q1](https://techcrunch.com/2023/05/08/ev-maker-lucid-misses-on-revenue-earnings-in-q1/)
-- [Chinese startup aims to debut new reusable rocket next year](https://www.space.com/china-galactic-energy-pallas-1-reusable-rocket)
-- [Terraform Industries wants to solve climate change by making more hydrocarbons](https://techcrunch.com/2023/05/08/terraform-industries-wants-to-solve-climate-change-by-making-more-hydrocarbons/)
-- [One week left: Apply to TC Disrupt Startup Battlefield 200](https://techcrunch.com/2023/05/08/startup-battlefield-200-applications-end-one-week-techcrunch-disrupt-2023/)
-- [This app, backed by Marissa Mayer and Peter Thiel, is making texts more expressive](https://techcrunch.com/2023/05/08/hinote-marissa-mayer-peter-thiel/)
+- [Daily Crunch: In its second markdown in 4 months, Invesco slashes Swiggy’s valuation to $5.5B](https://techcrunch.com/2023/05/08/daily-crunch-114/)
+- [Max Q: A lawsuit? Over Starship? I’m shocked](https://techcrunch.com/2023/05/08/max-q-lawsuit-starship/)
+- [Elon Musk teases free Tesla FSD trial in North America](https://techcrunch.com/2023/05/08/elon-musk-teases-free-tesla-fsd-trial-in-north-america/)
+- [Powerful sun storm could supercharge auroras this week](https://www.space.com/solar-storm-supercharge-auroras-may-2023)
+- [The moon&#39;s heart of iron revealed for the 1st time](https://www.space.com/moon-core-heart-of-iron-1st-look)
 <!-- BLOG-POST-LIST:END -->
 
 ---
