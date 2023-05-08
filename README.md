@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See 1st lunar eclipse of 2023 darken the full Flower Moon in eerie photos](https://www.space.com/lunar-eclipse-full-flower-moon-may-2023-photos)
+- [Go1 snaps up speed reading app Blinkist to expand in enterprise learning](https://techcrunch.com/2023/05/08/go1-snaps-up-speed-reading-app-blinkist-to-expand-in-enterprise-learning/)
 - [Invesco cuts Swiggy valuation by half to $5.5 billion](https://techcrunch.com/2023/05/08/invesco-cuts-indian-food-delivery-giant-swiggys-valuation-to-5-5-billion/)
 - [&#39;Star Trek Online&#39; grapples with a space-time rip in new episode coming on May 9](https://www.space.com/star-trek-online-unleashed-episode-space-time-rip)
 - [Will SpaceX&#39;s Starlink megaconstellation make Earth more detectable to aliens?](https://www.space.com/spacex-starlink-radio-signals-alien-visiblity)
-- [Qualcomm acquires Autotalks to boost Snapdragon’s automotive safety technology, reportedly for $350-400M](https://techcrunch.com/2023/05/08/qualcomm-autotalks-safety/)
-- [Elizabeth Holmes, left to her own devices](https://techcrunch.com/2023/05/07/elizabeth-holmes-left-to-her-own-devices/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
