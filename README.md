@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [3one4 Capital, driven by contrarian bets, raises $200 million new fund](https://techcrunch.com/2023/05/07/3one4-capital-driven-by-contrarian-bets-raises-200-million-new-fund/)
 - [Persona and Index Ventures talk identity, and identifying a good deal](https://techcrunch.com/2023/05/07/persona-and-index-ventures-talk-identity-and-identifying-a-good-deal/)
 - [Artemis 2 will use lasers to beam high-definition video from the moon &lpar;video&rpar;](https://www.space.com/nasa-artemis-2-laser-communications-video)
 - [NFX’s James Currier: Where unicorn ideas come from and why founders ‘have to keep pivoting’](https://techcrunch.com/2023/05/07/where-unicorn-ideas-come-from/)
 - [The fintech space continues to be competitive and drama-filled](https://techcrunch.com/2023/05/07/fintech-space-continues-to-be-competitive-and-drama-filled/)
-- [Space startups need to start preparing for a post-Starship world](https://techcrunch.com/2023/05/07/spacex-starship-startups-future/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
