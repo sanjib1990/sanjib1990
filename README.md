@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SoundCloud debuts a fan engagement tool for artists](https://techcrunch.com/2023/05/08/soundcloud-debuts-a-fan-engagement-tool-for-artists/)
-- [Are you spending too much on paid acquisition?](https://techcrunch.com/2023/05/08/are-you-spending-too-much-on-paid-acquisition/)
-- [Antimetal is putting AI to work to root out cloud cost inefficiencies](https://techcrunch.com/2023/05/08/antimetal-is-putting-ai-to-work-to-root-out-cloud-cost-inefficiencies/)
-- [Volkswagen shakes up software arm Cariad — again](https://techcrunch.com/2023/05/08/volkswagen-shakes-up-software-arm-cariad-again/)
-- [Virgin Galactic aims for triumphant return with crewed flight at the end of May](https://techcrunch.com/2023/05/08/virgin-galactic-aims-for-triumphant-return-with-crewed-flight-at-the-end-of-may/)
+- [Optery using its new funding to evolve from data broker opt-outs to personal info platform](https://techcrunch.com/2023/05/08/optery-using-its-new-funding-to-evolve-from-data-broker-opt-outs-to-personal-info-platform/)
+- [Western sanctions against Russia: Tips for tech companies managing compliance risk](https://techcrunch.com/2023/05/08/western-sanctions-against-russia-tips-for-tech-companies-managing-compliance-risk/)
+- [Tech workers could take labor lessons from Hollywood’s writers](https://techcrunch.com/2023/05/08/tech-workers-could-take-labor-lessons-from-hollywoods-writers/)
+- [Navier’s hydrofoiling electric cruises west coast waterways to line up first pilot programs](https://techcrunch.com/2023/05/08/naviers-hydrofoiling-electric-cruises-west-coast-waterways-to-line-up-first-pilot-programs/)
+- [Elon Musk says Twitter is purging old accounts, freeing up desired usernames](https://techcrunch.com/2023/05/08/elon-musk-says-twitter-is-purging-old-accounts-freeing-up-desired-usernames/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
