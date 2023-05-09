@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta reworks its Ads on Reels monetization program with a new performance-based payout model](https://techcrunch.com/2023/05/09/meta-reworks-ads-reels-monetization-program-performance-based-payout-model/)
+- [Apply now to pitch at TechCrunch Live’s Atlanta pitch-off!](https://techcrunch.com/2023/05/09/apply-now-to-pitch-at-techcrunch-lives-atlanta-pitch-off/)
+- [4 days until Disrupt early-bird pricing ends](https://techcrunch.com/2023/05/09/four-days-left-early-bird-passes-techcrunch-disrupt-2023/)
+- [Europe’s CSAM scanning plan looks unlawful, per leaked legal advice](https://techcrunch.com/2023/05/09/eu-scam-scanning-unlawful-advice/)
 - [With mandate to improve acquisitions integration, Salesforce CIO went to work](https://techcrunch.com/2023/05/09/salesforce-acquisitions-integrations/)
-- [UVeye’s ‘MRI for cars’ system lands startup $100M from GM, CarMax](https://techcrunch.com/2023/05/09/uveyes-mri-for-cars-system-lands-startup-100m-from-gm-carmax/)
-- [TikTok launches a new hub to help brands better connect with its audiences](https://techcrunch.com/2023/05/09/tiktok-hub-brands-better-connect-with-audiences/)
-- [Apple is launching Final Cut Pro and Logic Pro on iPad later this month](https://techcrunch.com/2023/05/09/apple-is-launching-final-cut-pro-and-logic-pro-on-ipad-later-this-month/)
-- [8fig gives smaller e-commerce businesses the ‘C-suite’ they’ve always wanted](https://techcrunch.com/2023/05/09/8fig-e-commerce-lending-supply-chain/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
