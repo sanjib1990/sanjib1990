@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What time is it on the moon? How a lunar clock debate led to an out-of-this-world timepiece](https://www.space.com/moon-time-lunar-clock-debate-wristwatch)
+- [Google I/O 2023 is tomorrow; here’s what we’re expecting](https://techcrunch.com/2023/05/09/google-i-o-2023-is-next-week-heres-what-were-expecting/)
+- [EV maker Rivian narrows losses in Q1, beats on revenue](https://techcrunch.com/2023/05/09/ev-maker-rivian-narrows-losses-in-q1-beats-on-revenue/)
 - [Boxed wine can be bougie with Allison Luvera and Lauren De Niro Pipher from Juliet](https://techcrunch.com/2023/05/09/boxed-wine-can-be-bougie-with-allison-luvera-and-lauren-de-niro-pipher-from-juliet/)
-- [Vote for the roundtables and breakouts you want at Disrupt](https://techcrunch.com/2023/05/09/audience-choice-vote-roundtables-breakouts-techcrunch-disrupt-2023/)
-- [How to watch the Google I/O 2023 keynote live](https://techcrunch.com/2023/05/09/watch-the-google-i-o-2023-keynote-live/)
-- [China to launch communications relay satellite to the moon in early 2024](https://www.space.com/china-moon-far-side-relay-satellite-2024-queqiao-2)
-- [Apparent meteorite strikes house in New Jersey &lpar;photos&rpar;](https://www.space.com/meteorite-strikes-house-new-jersey-photos)
+- [Bizarre object 10 million times brighter than the sun defies physics, NASA says](https://www.space.com/bizare-object-10-times-brighter-than-sun)
 <!-- BLOG-POST-LIST:END -->
 
 ---
