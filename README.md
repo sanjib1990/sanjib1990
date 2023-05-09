@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [A Day in the Life of a Proompt Engineer](https://www.youtube.com/watch?v=H1sXIUbpRCU)
 - [Cloud Engineer vs DevOps Engineer - Differences and Overlaps of tasks and responsibilities](https://www.youtube.com/watch?v=N1-mhvUghb0)
 - [Serverless was a big mistake... says Amazon](https://www.youtube.com/watch?v=qQk94CjRvIs)
 - [CPU, GPU…..DPU?](https://www.youtube.com/watch?v=pQrM5L6C-FQ)
 - [Mojo Lang… a fast futuristic Python alternative](https://www.youtube.com/watch?v=V4gGJ7XXlC0)
-- [The first casualties of AI](https://www.youtube.com/watch?v=PR_ykicOZYU)
 <!-- YOUTUBE:END -->
 
 ---
