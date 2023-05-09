@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta reworks its Ads on Reels monetization program with a new performance-based payout model](https://techcrunch.com/2023/05/09/meta-reworks-ads-reels-monetization-program-performance-based-payout-model/)
-- [Apply now to pitch at TechCrunch Live’s Atlanta pitch-off!](https://techcrunch.com/2023/05/09/apply-now-to-pitch-at-techcrunch-lives-atlanta-pitch-off/)
-- [4 days until Disrupt early-bird pricing ends](https://techcrunch.com/2023/05/09/four-days-left-early-bird-passes-techcrunch-disrupt-2023/)
-- [Europe’s CSAM scanning plan looks unlawful, per leaked legal advice](https://techcrunch.com/2023/05/09/eu-scam-scanning-unlawful-advice/)
-- [With mandate to improve acquisitions integration, Salesforce CIO went to work](https://techcrunch.com/2023/05/09/salesforce-acquisitions-integrations/)
+- [Persona and Index Ventures talk identity, and identifying a good deal](https://techcrunch.com/2023/05/09/persona-and-index-ventures-talk-identity-and-identifying-a-good-deal/)
+- [We’re close to peak pessimism around fintech](https://techcrunch.com/2023/05/09/were-close-to-peak-pessimism-around-fintech/)
+- [Anthropic thinks ‘constitutional AI’ is the best way to train models](https://techcrunch.com/2023/05/09/anthropic-thinks-constitutional-ai-is-the-best-way-to-train-models/)
+- [Ascend raises $25 million for pre-seed AI startups in the Pacific Northwest](https://techcrunch.com/2023/05/09/ascend-raises-25-million-for-pre-seed-ai-startups-in-the-pacific-northwest/)
+- [Former FTX CEO Sam Bankman-Fried seeks to dismiss most US charges against him](https://techcrunch.com/2023/05/09/former-ftx-ceo-sam-bankman-fried-seeks-to-dismiss-most-us-charges-against-him/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
