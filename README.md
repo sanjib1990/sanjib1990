@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Porsche taps Mobileye for automated driving functions in future models](https://techcrunch.com/2023/05/09/porsche-taps-mobileye-for-automated-driving-functions-in-future-models/)
+- [UK greenlights $7.3B merger between satellite rivals Viasat and Inmarsat](https://techcrunch.com/2023/05/09/uk-greenlights-7-3b-merger-between-viasat-and-inmarsat/)
 - [NASA platform used to launch Apollo 11 to the moon set for demolition](https://www.space.com/apollo-11-mobile-launch-platform-demolition)
 - [IBM intros a slew of new AI services, including generative models](https://techcrunch.com/2023/05/09/ibm-intros-a-slew-of-new-ai-services-including-generative-models/)
 - [The 1st photo of Earth from Europe&#39;s powerful new satellite is amazing](https://www.space.com/earth-1st-photo-europe-weather-satellite)
-- [Niantic’s new game Peridot is Pokémon GO meets Tamagotchi](https://techcrunch.com/2023/05/09/peridot-review-niantic/)
-- [TikTok’s parent ByteDance eyes a new chapter, in book publishing](https://techcrunch.com/2023/05/09/tiktoks-parent-bytedance-eyes-a-new-chapter-in-book-publishing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
