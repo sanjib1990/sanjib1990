@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [With mandate to improve acquisitions integration, Salesforce CIO went to work](https://techcrunch.com/2023/05/09/salesforce-acquisitions-integrations/)
+- [UVeye’s ‘MRI for cars’ system lands startup $100M from GM, CarMax](https://techcrunch.com/2023/05/09/uveyes-mri-for-cars-system-lands-startup-100m-from-gm-carmax/)
 - [TikTok launches a new hub to help brands better connect with its audiences](https://techcrunch.com/2023/05/09/tiktok-hub-brands-better-connect-with-audiences/)
 - [Apple is launching Final Cut Pro and Logic Pro on iPad later this month](https://techcrunch.com/2023/05/09/apple-is-launching-final-cut-pro-and-logic-pro-on-ipad-later-this-month/)
 - [8fig gives smaller e-commerce businesses the ‘C-suite’ they’ve always wanted](https://techcrunch.com/2023/05/09/8fig-e-commerce-lending-supply-chain/)
-- [General Motors taps Apple executive to lead software effort](https://techcrunch.com/2023/05/09/general-motors-taps-apple-executive-to-lead-software-effort/)
-- [Zomato shares plunge after Invesco cut rival Swiggy’s valuation](https://techcrunch.com/2023/05/09/zomato-shares-plunge-after-invesco-cut-rival-swiggy-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
