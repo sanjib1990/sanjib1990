@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TikTok’s parent ByteDance eyes a new chapter, in book publishing](https://techcrunch.com/2023/05/09/tiktoks-parent-bytedance-eyes-a-new-chapter-in-book-publishing/)
 - [WhatsApp now allows Singapore-based users to pay businesses within the app](https://techcrunch.com/2023/05/08/whatsapp-now-allows-singapore-based-users-to-pay-businesses-within-the-app/)
 - [Prewave pulls in $20M as supply chain tech investments remain on VC radars](https://techcrunch.com/2023/05/08/prewave-pulls-in-20m-as-supply-chain-tech-investments-remain-on-vc-radars/)
 - [LinkedIn cuts 716 jobs as it phases out its China app](https://techcrunch.com/2023/05/08/linkedin-layoffs/)
 - [Tesla’s new Texas lithium refinery to support 1M electric vehicles by 2025](https://techcrunch.com/2023/05/08/teslas-new-texas-lithium-refinery-to-support-1m-electric-vehicles-by-2025/)
-- [Shopify sells 6 River Systems to new owner](https://techcrunch.com/2023/05/08/shopify-sells-6-river-systems-to-new-owner/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
