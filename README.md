@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Persona and Index Ventures talk identity, and identifying a good deal](https://techcrunch.com/2023/05/09/persona-and-index-ventures-talk-identity-and-identifying-a-good-deal/)
-- [We’re close to peak pessimism around fintech](https://techcrunch.com/2023/05/09/were-close-to-peak-pessimism-around-fintech/)
-- [Anthropic thinks ‘constitutional AI’ is the best way to train models](https://techcrunch.com/2023/05/09/anthropic-thinks-constitutional-ai-is-the-best-way-to-train-models/)
-- [Ascend raises $25 million for pre-seed AI startups in the Pacific Northwest](https://techcrunch.com/2023/05/09/ascend-raises-25-million-for-pre-seed-ai-startups-in-the-pacific-northwest/)
-- [Former FTX CEO Sam Bankman-Fried seeks to dismiss most US charges against him](https://techcrunch.com/2023/05/09/former-ftx-ceo-sam-bankman-fried-seeks-to-dismiss-most-us-charges-against-him/)
+- [TechCrunch+ roundup: Unicorn origins, red flags for investors, generative AI meets copyright law](https://techcrunch.com/2023/05/09/techcrunch-roundup-unicorn-origins-red-flags-for-investors-generative-ai-meets-copyright-law/)
+- [OpenAI’s new tool attempts to explain language models’ behaviors](https://techcrunch.com/2023/05/09/openais-new-tool-attempts-to-explain-language-models-behaviors/)
+- [China builds simulated moon chamber to prep for crewed lunar landings &lpar;video&rpar;](https://www.space.com/china-simulated-moon-chamber-crewed-lunar-landings)
+- [Arbitrum co-founder sees DAO’s resolution to voter drama as a “testament to decentralization”](https://techcrunch.com/2023/05/09/arbitrum-dao-voter-drama-decentralization/)
+- [This new banking app wants to help with the financial woes of retirement](https://techcrunch.com/2023/05/09/charlies-new-banking-app-aims-to-help-seniors-make-the-most-of-their-limited-resources/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
