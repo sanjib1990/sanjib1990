@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Porsche taps Mobileye for automated driving functions in future models](https://techcrunch.com/2023/05/09/porsche-taps-mobileye-for-automated-driving-functions-in-future-models/)
-- [UK greenlights $7.3B merger between satellite rivals Viasat and Inmarsat](https://techcrunch.com/2023/05/09/uk-greenlights-7-3b-merger-between-viasat-and-inmarsat/)
-- [NASA platform used to launch Apollo 11 to the moon set for demolition](https://www.space.com/apollo-11-mobile-launch-platform-demolition)
-- [IBM intros a slew of new AI services, including generative models](https://techcrunch.com/2023/05/09/ibm-intros-a-slew-of-new-ai-services-including-generative-models/)
-- [The 1st photo of Earth from Europe&#39;s powerful new satellite is amazing](https://www.space.com/earth-1st-photo-europe-weather-satellite)
+- [Zomato shares plunge after Invesco cut rival Swiggy’s valuation](https://techcrunch.com/2023/05/09/zomato-shares-plunge-after-invesco-cut-rival-swiggy-valuation/)
+- [Generative AI and copyright law: What’s the future for IP?](https://techcrunch.com/2023/05/09/generative-ai-and-copyright-law-whats-the-future-for-ip/)
+- [Mandalorian Darksaber Force FX Elite Lightsaber review](https://www.space.com/mandalorian-darksaber-force-fx-elite-lightsaber-review)
+- [NASA may shift New Horizons Pluto probe to sun-studying mission](https://www.space.com/new-horizons-pluto-probe-debate)
+- [Hidden in plain sight: 5 red flags for investors](https://techcrunch.com/2023/05/09/hidden-in-plain-sight-5-red-flags-for-investors/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
