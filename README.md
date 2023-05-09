@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TikTok launches a new hub to help brands better connect with its audiences](https://techcrunch.com/2023/05/09/tiktok-hub-brands-better-connect-with-audiences/)
+- [Apple is launching Final Cut Pro and Logic Pro on iPad later this month](https://techcrunch.com/2023/05/09/apple-is-launching-final-cut-pro-and-logic-pro-on-ipad-later-this-month/)
+- [8fig gives smaller e-commerce businesses the ‘C-suite’ they’ve always wanted](https://techcrunch.com/2023/05/09/8fig-e-commerce-lending-supply-chain/)
+- [General Motors taps Apple executive to lead software effort](https://techcrunch.com/2023/05/09/general-motors-taps-apple-executive-to-lead-software-effort/)
 - [Zomato shares plunge after Invesco cut rival Swiggy’s valuation](https://techcrunch.com/2023/05/09/zomato-shares-plunge-after-invesco-cut-rival-swiggy-valuation/)
-- [Generative AI and copyright law: What’s the future for IP?](https://techcrunch.com/2023/05/09/generative-ai-and-copyright-law-whats-the-future-for-ip/)
-- [Mandalorian Darksaber Force FX Elite Lightsaber review](https://www.space.com/mandalorian-darksaber-force-fx-elite-lightsaber-review)
-- [NASA may shift New Horizons Pluto probe to sun-studying mission](https://www.space.com/new-horizons-pluto-probe-debate)
-- [Hidden in plain sight: 5 red flags for investors](https://techcrunch.com/2023/05/09/hidden-in-plain-sight-5-red-flags-for-investors/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
