@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Salesforce is betting that its own content can bring more trust to generative AI](https://techcrunch.com/2023/05/10/salesforce-generative-ai-trust/)
-- [AWS open sources fuzzing tool SnapChange and policy-based access control language Cedar](https://techcrunch.com/2023/05/10/aws-open-sources-snapchange-and-cedar-sdk/)
-- [Last call to register for today’s filming of TechCrunch Live with Persona and Index Ventures](https://techcrunch.com/2023/05/10/last-call-to-register-for-todays-filming-of-techcrunch-live-with-persona-and-index-ventures/)
-- [Kenya plans special startups’ employee-equity tax regime](https://techcrunch.com/2023/05/10/kenya-plans-special-startups-employee-equity-tax-regime/)
-- [How do you know when it’s time to shut down?](https://techcrunch.com/2023/05/10/how-do-you-know-when-its-time-to-shut-down/)
+- [Autonomous delivery startup Nuro to restructure, pause commercial expansion](https://techcrunch.com/2023/05/10/autonomous-delivery-startup-nuro-to-restructure-pause-commercial-expansion/)
+- [3 days left until Disrupt prices increase](https://techcrunch.com/2023/05/10/early-bird-savings-end-72-hours-techcrunch-disrupt-2023/)
+- [Vanguard trims Indian ride-hailing giant Ola’s valuation by 35%](https://techcrunch.com/2023/05/10/vanguard-trims-indian-ride-hailing-giant-ola-valuation-by-35/)
+- [China has its DrakeGPT moment as AI singer goes viral](https://techcrunch.com/2023/05/10/china-ai-singer-stefanie-sun/)
+- [AI2 Incubator’s new $30M fund triples down on early stage AI startups](https://techcrunch.com/2023/05/10/ai2-incubators-new-30m-fund-triples-down-on-early-stage-ai-startups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
