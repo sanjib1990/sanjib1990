@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google I/O 2023 is a wrap — here’s a list of everything announced](https://techcrunch.com/2023/05/10/heres-everything-google-has-announced-at-i-o-so-far/)
+- [Google ‘Perspectives’ integrates Reddit, YouTube, TikTok and more in search results](https://techcrunch.com/2023/05/10/google-perspectives-integrates-reddit-youtube-tiktok-and-more-in-search-results/)
+- [The Mint, started by Better Tomorrow Ventures, wants to be the accelerator fintech needs](https://techcrunch.com/2023/05/10/the-mint-started-by-better-tomorrow-ventures-wants-to-be-the-accelerator-fintech-needs/)
+- [Disney+ loses subscribers for second quarter in a row, drops 4M subs](https://techcrunch.com/2023/05/10/disney-q2-2023-results/)
 - [Google is bringing YouTube to more cars, starting with Polestar](https://techcrunch.com/2023/05/10/google-is-bringing-youtube-to-more-cars-starting-with-polestar/)
-- [Hubble Telescope gazes into the heart of a monstrous galaxy cluster &lpar;photo&rpar;](https://www.space.com/hubble-space-telescope-galaxy-cluster-photo)
-- [Google adding Cisco, Microsoft and Zoom &lpar;audio&rpar; conferencing to Android Auto](https://techcrunch.com/2023/05/10/google-adding-cisco-microsoft-and-zoom-audio-conferencing-to-android-auto/)
-- [All the ways Google is driving deeper into the automotive world](https://techcrunch.com/2023/05/10/all-the-ways-google-is-driving-deeper-into-the-automotive-world/)
-- [Google’s latest Project Starline prototype uses AI to make 3D images of people](https://techcrunch.com/2023/05/10/googles-latest-project-starline-prototype-uses-ai-to-make-3d-images-of-people/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
