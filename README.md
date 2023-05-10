@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Salesforce is betting that its own content can bring more trust to generative AI](https://techcrunch.com/2023/05/10/salesforce-generative-ai-trust/)
+- [AWS open sources fuzzing tool SnapChange and policy-based access control language Cedar](https://techcrunch.com/2023/05/10/aws-open-sources-snapchange-and-cedar-sdk/)
+- [Last call to register for today’s filming of TechCrunch Live with Persona and Index Ventures](https://techcrunch.com/2023/05/10/last-call-to-register-for-todays-filming-of-techcrunch-live-with-persona-and-index-ventures/)
 - [Kenya plans special startups’ employee-equity tax regime](https://techcrunch.com/2023/05/10/kenya-plans-special-startups-employee-equity-tax-regime/)
 - [How do you know when it’s time to shut down?](https://techcrunch.com/2023/05/10/how-do-you-know-when-its-time-to-shut-down/)
-- [‘Attack on Titan’ publisher Kodansha launches K Manga app in U.S.](https://techcrunch.com/2023/05/10/attack-on-titan-kodansha-k-manga-app/)
-- [Despite a rocky start, climate tech is in a good position to tackle the rest of 2023](https://techcrunch.com/2023/05/10/climate-tech-2023-predictions/)
-- [Cruise expands supervised self-driving ride-hailing to Houston and Dallas](https://techcrunch.com/2023/05/10/cruise-expands-supervised-self-driving-ride-hailing-to-houston-and-dallas/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
