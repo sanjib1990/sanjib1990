@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Zamp wants to give online sellers ‘freedom from sales tax’](https://techcrunch.com/2023/05/10/zamp-fintech-e-commerce-sales-tax/)
+- [Petal raises $35M, spins off data unit ‘to bring credit scores into the 21st century’](https://techcrunch.com/2023/05/10/petal-raises-35m-spins-off-data-unit-to-bring-credit-scores-into-the-21st-century/)
+- [Young star shoots out jet like a garden sprinkler in Orion Nebula &lpar;photo&rpar;](https://www.space.com/snaking-stellar-jet-binary-system-vlt-photo)
+- [3 key metrics for cybersecurity product managers](https://techcrunch.com/2023/05/10/3-key-metrics-for-cybersecurity-product-managers/)
 - [Vast and SpaceX aim to put the first commercial space station in orbit in 2025](https://techcrunch.com/2023/05/10/vast-and-spacex-aim-to-put-the-first-commercial-space-station-in-orbit-in-2025/)
-- [Clearview fined again in France for failing to comply with privacy orders](https://techcrunch.com/2023/05/10/clearview-ai-another-cnil-gspr-fine/)
-- [Watch SpaceX launch 51 Starlink satellites to orbit today](https://www.space.com/spacex-starlink-launch-group-2-9)
-- [Who is Cosmo the Spacedog? All you need to know about &#39;Guardians of the Galaxy Vol. 3&#39;s&#39; telepathic pup](https://www.space.com/cosmo-the-spacedog-guardians-of-the-galaxy-volume-3)
-- [Twitter now allows you to react to DMs with a wide range of emojis](https://techcrunch.com/2023/05/10/twitter-now-allows-you-to-react-to-dms-with-a-wide-range-of-emojis/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
