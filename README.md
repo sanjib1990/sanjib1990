@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google brings new generative models to Vertex AI, including Imagen](https://techcrunch.com/2023/05/10/google-brings-new-generative-models-to-vertex-ai-including-imagen/)
-- [Google Cloud announces new A3 supercomputer VMs built to power LLMs](https://techcrunch.com/2023/05/10/google-cloud-announces-new-a3-supercomputer-vms-built-to-power-llms/)
-- [Google launches a GitHub Copilot competitor](https://techcrunch.com/2023/05/10/google-launches-a-github-copilot-competitor/)
-- [Google is experimenting with a new AI-powered conversational mode in Search](https://techcrunch.com/2023/05/10/google-is-experimenting-with-a-new-ai-powered-conversational-mode-in-search/)
+- [Epic’s Fall Guys adds a creative mode so players can design their own levels](https://techcrunch.com/2023/05/10/epic-fall-guys-creative-mode-ugc/)
+- [Microsoft Office, Netflix, Amazon Kindle and more are tuning their apps for the new Pixel Fold](https://techcrunch.com/2023/05/10/microsoft-office-netflix-amazon-kindle-and-more-are-tuning-their-apps-for-the-new-pixel-fold/)
+- [Google’s  $1,799 Pixel Fold arrives in late-June](https://techcrunch.com/2023/05/10/googles-pixel-fold-set-for-a-late-june-release/)
 - [Here’s everything Google has announced at I/O so far](https://techcrunch.com/2023/05/10/heres-everything-google-has-announced-at-i-o-so-far/)
+- [Google’s Pixel Tablet ships with its own speaker dock](https://techcrunch.com/2023/05/10/googles-pixel-tablet-is-finally-here/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
