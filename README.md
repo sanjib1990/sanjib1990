@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Gil Strang&#39;s Final 18.06 Linear Algebra Lecture](https://www.youtube.com/watch?v=lUUte2o2Sn8)
 - [I built a smarter smart home](https://www.youtube.com/watch?v=0rIvB3LZiKA)
 - [A Day in the Life of a Proompt Engineer](https://www.youtube.com/watch?v=H1sXIUbpRCU)
 - [Cloud Engineer vs DevOps Engineer - Differences and Overlaps of tasks and responsibilities](https://www.youtube.com/watch?v=N1-mhvUghb0)
 - [Serverless was a big mistake... says Amazon](https://www.youtube.com/watch?v=qQk94CjRvIs)
-- [CPU, GPU…..DPU?](https://www.youtube.com/watch?v=pQrM5L6C-FQ)
 <!-- YOUTUBE:END -->
 
 ---
