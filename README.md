@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [American psychology group issues recommendations for kids’ social media use](https://techcrunch.com/2023/05/09/american-psychology-org-releases-guidelines-for-kids-social-media-use/)
 - [SpaceX Ax-2 private astronaut mission will grow 1st stem cells in space](https://www.space.com/spacex-axiom-space-ax-2-astronaut-mission-stem-cells)
 - [We’re disrupting TechCrunch Disrupt: 8 stages, 3 days, 1 city](https://techcrunch.com/2023/05/09/were-disrupting-techcrunch-disrupt-8-stages-3-days-1-city/)
 - [All Raise’s interim CEO is now full-time](https://techcrunch.com/2023/05/09/all-raises-interim-ceo-is-now-full-time/)
 - [Daily Crunch: IBM says its new watsonx platform is an ‘enterprise studio for AI builders’](https://techcrunch.com/2023/05/09/daily-crunch-ibm-says-its-new-watsonx-platform-is-an-enterprise-studio-for-ai-builders/)
-- [The mystery of how Mars meteorites reach Earth may finally be solved](https://www.space.com/mars-meteorites-on-earth-mystery)
 <!-- BLOG-POST-LIST:END -->
 
 ---
