@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter now allows you to react to DMs with a wide range of emojis](https://techcrunch.com/2023/05/10/twitter-now-allows-you-to-react-to-dms-with-a-wide-range-of-emojis/)
 - [With its planet-friendly protein, Farmless wants to dramatically outperform animal agriculture](https://techcrunch.com/2023/05/10/farmless-seed-funding/)
 - [Sound Ventures has already plugged half its new $240 million AI fund into three companies](https://techcrunch.com/2023/05/09/sound-ventures-has-already-plugged-half-its-new-240-million-ai-fund-into-three-companies/)
 - [Backed by Sequoia Southeast Asia, SquareX protects web users with disposable browsers](https://techcrunch.com/2023/05/09/squarex/)
 - [American psychology group issues recommendations for kids’ social media use](https://techcrunch.com/2023/05/09/american-psychology-org-releases-guidelines-for-kids-social-media-use/)
-- [SpaceX Ax-2 private astronaut mission will grow 1st stem cells in space](https://www.space.com/spacex-axiom-space-ax-2-astronaut-mission-stem-cells)
 <!-- BLOG-POST-LIST:END -->
 
 ---
