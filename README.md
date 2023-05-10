@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [With its planet-friendly protein, Farmless wants to dramatically outperform animal agriculture](https://techcrunch.com/2023/05/10/farmless-seed-funding/)
+- [Sound Ventures has already plugged half its new $240 million AI fund into three companies](https://techcrunch.com/2023/05/09/sound-ventures-has-already-plugged-half-its-new-240-million-ai-fund-into-three-companies/)
 - [Backed by Sequoia Southeast Asia, SquareX protects web users with disposable browsers](https://techcrunch.com/2023/05/09/squarex/)
 - [American psychology group issues recommendations for kids’ social media use](https://techcrunch.com/2023/05/09/american-psychology-org-releases-guidelines-for-kids-social-media-use/)
 - [SpaceX Ax-2 private astronaut mission will grow 1st stem cells in space](https://www.space.com/spacex-axiom-space-ax-2-astronaut-mission-stem-cells)
-- [We’re disrupting TechCrunch Disrupt: 8 stages, 3 days, 1 city](https://techcrunch.com/2023/05/09/were-disrupting-techcrunch-disrupt-8-stages-3-days-1-city/)
-- [All Raise’s interim CEO is now full-time](https://techcrunch.com/2023/05/09/all-raises-interim-ceo-is-now-full-time/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
