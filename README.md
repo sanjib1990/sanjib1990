@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: OpenAI, Anthropic and Stability AI receive half of Sound Ventures’ $240M AI fund](https://techcrunch.com/2023/05/10/daily-crunch-openai-anthropic-and-stability-ai-receive-half-of-sound-ventures-240m-ai-fund/)
+- [Disney+ and Hulu content to combine into one streaming app](https://techcrunch.com/2023/05/10/disney-and-hulu-content-combine-into-one-app-later-this-year/)
 - [Google I/O 2023 is a wrap — here’s a list of everything announced](https://techcrunch.com/2023/05/10/heres-everything-google-has-announced-at-i-o-so-far/)
 - [Google ‘Perspectives’ integrates Reddit, YouTube, TikTok and more in search results](https://techcrunch.com/2023/05/10/google-perspectives-integrates-reddit-youtube-tiktok-and-more-in-search-results/)
 - [The Mint, started by Better Tomorrow Ventures, wants to be the accelerator fintech needs](https://techcrunch.com/2023/05/10/the-mint-started-by-better-tomorrow-ventures-wants-to-be-the-accelerator-fintech-needs/)
-- [Disney+ loses subscribers for second quarter in a row, drops 4M subs](https://techcrunch.com/2023/05/10/disney-q2-2023-results/)
-- [Google is bringing YouTube to more cars, starting with Polestar](https://techcrunch.com/2023/05/10/google-is-bringing-youtube-to-more-cars-starting-with-polestar/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
