@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Maps is getting a new ‘Immersive View for Routes’ feature](https://techcrunch.com/2023/05/10/google-maps-new-immersive-view-for-routes-feature/)
-- [Vast Space to launch 1st private station on SpaceX rocket in 2025](https://www.space.com/vast-space-private-station-spacex-launch-2025)
-- [Hubble telescope spies &#39;peek-a-boo&#39; exoplanets amid star&#39;s tilted dust rings](https://www.space.com/hubble-telescope-exoplanets-peekaboo-tilted-rings)
-- [Jed McCaleb’s private space station venture Vast might be more than just science fiction](https://techcrunch.com/2023/05/10/jed-mccalebs-space-station-vast/)
-- [Yeah, tech growth is slowing down](https://techcrunch.com/2023/05/10/yeah-tech-growth-is-slowing-down/)
+- [Google brings new generative models to Vertex AI, including Imagen](https://techcrunch.com/2023/05/10/google-brings-new-generative-models-to-vertex-ai-including-imagen/)
+- [Google Cloud announces new A3 supercomputer VMs built to power LLMs](https://techcrunch.com/2023/05/10/google-cloud-announces-new-a3-supercomputer-vms-built-to-power-llms/)
+- [Google launches a GitHub Copilot competitor](https://techcrunch.com/2023/05/10/google-launches-a-github-copilot-competitor/)
+- [Google is experimenting with a new AI-powered conversational mode in Search](https://techcrunch.com/2023/05/10/google-is-experimenting-with-a-new-ai-powered-conversational-mode-in-search/)
+- [Here’s everything Google has announced at I/O so far](https://techcrunch.com/2023/05/10/heres-everything-google-has-announced-at-i-o-so-far/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
