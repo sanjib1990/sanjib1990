@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Epic’s Fall Guys adds a creative mode so players can design their own levels](https://techcrunch.com/2023/05/10/epic-fall-guys-creative-mode-ugc/)
-- [Microsoft Office, Netflix, Amazon Kindle and more are tuning their apps for the new Pixel Fold](https://techcrunch.com/2023/05/10/microsoft-office-netflix-amazon-kindle-and-more-are-tuning-their-apps-for-the-new-pixel-fold/)
-- [Google’s  $1,799 Pixel Fold arrives in late-June](https://techcrunch.com/2023/05/10/googles-pixel-fold-set-for-a-late-june-release/)
-- [Here’s everything Google has announced at I/O so far](https://techcrunch.com/2023/05/10/heres-everything-google-has-announced-at-i-o-so-far/)
-- [Google’s Pixel Tablet ships with its own speaker dock](https://techcrunch.com/2023/05/10/googles-pixel-tablet-is-finally-here/)
+- [Google is bringing YouTube to more cars, starting with Polestar](https://techcrunch.com/2023/05/10/google-is-bringing-youtube-to-more-cars-starting-with-polestar/)
+- [Hubble Telescope gazes into the heart of a monstrous galaxy cluster &lpar;photo&rpar;](https://www.space.com/hubble-space-telescope-galaxy-cluster-photo)
+- [Google adding Cisco, Microsoft and Zoom &lpar;audio&rpar; conferencing to Android Auto](https://techcrunch.com/2023/05/10/google-adding-cisco-microsoft-and-zoom-audio-conferencing-to-android-auto/)
+- [All the ways Google is driving deeper into the automotive world](https://techcrunch.com/2023/05/10/all-the-ways-google-is-driving-deeper-into-the-automotive-world/)
+- [Google’s latest Project Starline prototype uses AI to make 3D images of people](https://techcrunch.com/2023/05/10/googles-latest-project-starline-prototype-uses-ai-to-make-3d-images-of-people/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
