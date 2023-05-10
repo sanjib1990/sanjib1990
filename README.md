@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Vast and SpaceX aim to put the first commercial space station in orbit in 2025](https://techcrunch.com/2023/05/10/vast-and-spacex-aim-to-put-the-first-commercial-space-station-in-orbit-in-2025/)
+- [Clearview fined again in France for failing to comply with privacy orders](https://techcrunch.com/2023/05/10/clearview-ai-another-cnil-gspr-fine/)
 - [Watch SpaceX launch 51 Starlink satellites to orbit today](https://www.space.com/spacex-starlink-launch-group-2-9)
 - [Who is Cosmo the Spacedog? All you need to know about &#39;Guardians of the Galaxy Vol. 3&#39;s&#39; telepathic pup](https://www.space.com/cosmo-the-spacedog-guardians-of-the-galaxy-volume-3)
 - [Twitter now allows you to react to DMs with a wide range of emojis](https://techcrunch.com/2023/05/10/twitter-now-allows-you-to-react-to-dms-with-a-wide-range-of-emojis/)
-- [With its planet-friendly protein, Farmless wants to dramatically outperform animal agriculture](https://techcrunch.com/2023/05/10/farmless-seed-funding/)
-- [Sound Ventures has already plugged half its new $240 million AI fund into three companies](https://techcrunch.com/2023/05/09/sound-ventures-has-already-plugged-half-its-new-240-million-ai-fund-into-three-companies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
