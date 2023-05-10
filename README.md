@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How the US dismantled a malware network used by Russian spies to steal government secrets](https://techcrunch.com/2023/05/10/turla-snake-malware-network-russia-fsb/)
-- [Helion Energy will provide Microsoft with fusion power starting in 2028](https://techcrunch.com/2023/05/10/helion-microsoft-fusion-power/)
-- [Salsa dips into $10M to fire up payroll features for software companies](https://techcrunch.com/2023/05/10/salsa-fintech-10m-payroll-software/)
-- [Roku expands smart home lineup with new home monitoring system for $99](https://techcrunch.com/2023/05/10/roku-smart-home-monitoring-system-security/)
-- [&#39;Oppenheimer&#39; trailer reveals Cillian Murphy as Manhattan Project&#39;s genius bomb maker](https://www.space.com/oppenheimer-christopher-nolan-trailer-may-2023)
+- [Kenya plans special startups’ employee-equity tax regime](https://techcrunch.com/2023/05/10/kenya-plans-special-startups-employee-equity-tax-regime/)
+- [How do you know when it’s time to shut down?](https://techcrunch.com/2023/05/10/how-do-you-know-when-its-time-to-shut-down/)
+- [‘Attack on Titan’ publisher Kodansha launches K Manga app in U.S.](https://techcrunch.com/2023/05/10/attack-on-titan-kodansha-k-manga-app/)
+- [Despite a rocky start, climate tech is in a good position to tackle the rest of 2023](https://techcrunch.com/2023/05/10/climate-tech-2023-predictions/)
+- [Cruise expands supervised self-driving ride-hailing to Houston and Dallas](https://techcrunch.com/2023/05/10/cruise-expands-supervised-self-driving-ride-hailing-to-houston-and-dallas/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
