@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch SpaceX launch 51 Starlink satellites to orbit today](https://www.space.com/spacex-starlink-launch-group-2-9)
+- [Who is Cosmo the Spacedog? All you need to know about &#39;Guardians of the Galaxy Vol. 3&#39;s&#39; telepathic pup](https://www.space.com/cosmo-the-spacedog-guardians-of-the-galaxy-volume-3)
 - [Twitter now allows you to react to DMs with a wide range of emojis](https://techcrunch.com/2023/05/10/twitter-now-allows-you-to-react-to-dms-with-a-wide-range-of-emojis/)
 - [With its planet-friendly protein, Farmless wants to dramatically outperform animal agriculture](https://techcrunch.com/2023/05/10/farmless-seed-funding/)
 - [Sound Ventures has already plugged half its new $240 million AI fund into three companies](https://techcrunch.com/2023/05/09/sound-ventures-has-already-plugged-half-its-new-240-million-ai-fund-into-three-companies/)
-- [Backed by Sequoia Southeast Asia, SquareX protects web users with disposable browsers](https://techcrunch.com/2023/05/09/squarex/)
-- [American psychology group issues recommendations for kids’ social media use](https://techcrunch.com/2023/05/09/american-psychology-org-releases-guidelines-for-kids-social-media-use/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
