@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Zamp wants to give online sellers ‘freedom from sales tax’](https://techcrunch.com/2023/05/10/zamp-fintech-e-commerce-sales-tax/)
-- [Petal raises $35M, spins off data unit ‘to bring credit scores into the 21st century’](https://techcrunch.com/2023/05/10/petal-raises-35m-spins-off-data-unit-to-bring-credit-scores-into-the-21st-century/)
-- [Young star shoots out jet like a garden sprinkler in Orion Nebula &lpar;photo&rpar;](https://www.space.com/snaking-stellar-jet-binary-system-vlt-photo)
-- [3 key metrics for cybersecurity product managers](https://techcrunch.com/2023/05/10/3-key-metrics-for-cybersecurity-product-managers/)
-- [Vast and SpaceX aim to put the first commercial space station in orbit in 2025](https://techcrunch.com/2023/05/10/vast-and-spacex-aim-to-put-the-first-commercial-space-station-in-orbit-in-2025/)
+- [How the US dismantled a malware network used by Russian spies to steal government secrets](https://techcrunch.com/2023/05/10/turla-snake-malware-network-russia-fsb/)
+- [Helion Energy will provide Microsoft with fusion power starting in 2028](https://techcrunch.com/2023/05/10/helion-microsoft-fusion-power/)
+- [Salsa dips into $10M to fire up payroll features for software companies](https://techcrunch.com/2023/05/10/salsa-fintech-10m-payroll-software/)
+- [Roku expands smart home lineup with new home monitoring system for $99](https://techcrunch.com/2023/05/10/roku-smart-home-monitoring-system-security/)
+- [&#39;Oppenheimer&#39; trailer reveals Cillian Murphy as Manhattan Project&#39;s genius bomb maker](https://www.space.com/oppenheimer-christopher-nolan-trailer-may-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
