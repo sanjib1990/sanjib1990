@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Writer introduces product that could help reduce hallucinated content in its LLMs](https://techcrunch.com/2023/05/11/writer-introduces-product-that-could-help-reduce-hallucinated-content-in-its-llms/)
-- [Cable wants to help banks cut financial crime through automated assurance](https://techcrunch.com/2023/05/11/cable-bank-financial-crime-fintech/)
-- [Netflix reveals full cast and release date for new 3D anime series, &#39;Mech Cadets&#39;](https://www.space.com/news/netflix-reveals-full-cast-and-release-date-for-new-3d-anime-series-mech-cadets)
-- [Apple’s ATT faces competition probe in Italy](https://techcrunch.com/2023/05/11/apple-att-italy-antitrust/)
-- [Unlocking the M&amp;A code: 5 factors that can make &lpar;or break&rpar; a deal](https://techcrunch.com/2023/05/11/unlocking-the-ma-code-5-factors-that-can-make-or-break-a-deal/)
+- [Making foundation models accessible: The battle between closed and open source AI](https://techcrunch.com/2023/05/11/making-foundation-models-accessible-the-battle-between-closed-source-and-open-source-ai/)
+- [Mysterious dark energy is spread evenly across the cosmos](https://www.space.com/dark-energy-distributed-evenly-across-universe)
+- [Crikey! Only 48 hours left to save $800 on passes to Disrupt](https://techcrunch.com/2023/05/11/two-days-left-early-bird-passes-techcrunch-disrupt-2023/)
+- [Study says App Store revenue of small developers grew by 71% in last two years](https://techcrunch.com/2023/05/11/study-says-app-store-revenue-of-small-developers-grew-by-71-in-last-two-years/)
+- [Meta content review partner Sama told by court to pay moderators](https://techcrunch.com/2023/05/11/meta-content-review-partner-sama-told-by-court-to-pay-moderators/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
