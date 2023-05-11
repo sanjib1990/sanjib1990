@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pinterest is combining Pins and Idea Pins into a single format](https://techcrunch.com/2023/05/11/pinterest-is-combining-pins-and-idea-pins-into-a-single-format/)
+- [Capchase gets into buy now, pay later with Capchase Pay for SaaS financing](https://techcrunch.com/2023/05/11/capchase-buy-now-pay-later-saas-fintech/)
+- [AudiencePlus wants to help every company run its own media platform](https://techcrunch.com/2023/05/11/audienceplus-wants-to-help-every-company-run-its-own-media-platform/)
 - [Making foundation models accessible: The battle between closed and open source AI](https://techcrunch.com/2023/05/11/making-foundation-models-accessible-the-battle-between-closed-source-and-open-source-ai/)
 - [Mysterious dark energy is spread evenly across the cosmos](https://www.space.com/dark-energy-distributed-evenly-across-universe)
-- [Crikey! Only 48 hours left to save $800 on passes to Disrupt](https://techcrunch.com/2023/05/11/two-days-left-early-bird-passes-techcrunch-disrupt-2023/)
-- [Study says App Store revenue of small developers grew by 71% in last two years](https://techcrunch.com/2023/05/11/study-says-app-store-revenue-of-small-developers-grew-by-71-in-last-two-years/)
-- [Meta content review partner Sama told by court to pay moderators](https://techcrunch.com/2023/05/11/meta-content-review-partner-sama-told-by-court-to-pay-moderators/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
