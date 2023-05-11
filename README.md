@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SoftBank Vision Fund loses $32 billion in a year on startups valuation cut](https://techcrunch.com/2023/05/11/softbank-vision-fund-loses-32-billion-in-a-year-on-startups-valuation-cut/)
+- [Everseen raises over $70M for AI tech to spot potential retail theft](https://techcrunch.com/2023/05/11/everseen-raises-over-70m-for-ai-tech-to-spot-potential-retail-theft/)
+- [Wingcopter, Germany’s drone delivery startup, raises another $44M from the EIB](https://techcrunch.com/2023/05/10/wingcopter-drone-delivery-startup-eib/)
 - [Disney’s Hotstar loses 8.4 million subscribers as Ambani’s JioCinema ascends](https://techcrunch.com/2023/05/10/disney-hotstar-loses-8-4-million-subscribers-as-ambani-jiocinema-takes-off/)
 - [APAC startups: Apply to Startup Battlefield 200](https://techcrunch.com/2023/05/10/apac-oceania-apply-startup-battlefield-200-disrupt-2023/)
-- [Daily Crunch: OpenAI, Anthropic and Stability AI receive half of Sound Ventures’ $240M AI fund](https://techcrunch.com/2023/05/10/daily-crunch-openai-anthropic-and-stability-ai-receive-half-of-sound-ventures-240m-ai-fund/)
-- [Disney+ and Hulu content to combine into one streaming app](https://techcrunch.com/2023/05/10/disney-and-hulu-content-combine-into-one-app-later-this-year/)
-- [Google I/O 2023 is a wrap — here’s a list of everything announced](https://techcrunch.com/2023/05/10/heres-everything-google-has-announced-at-i-o-so-far/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
