@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [AI2 is developing a large language model optimized for science](https://techcrunch.com/2023/05/11/ai2-is-developing-a-large-language-model-optimized-for-science/)
-- [Australian software giant won’t say if customers affected by hack](https://techcrunch.com/2023/05/11/australia-technologyone-cyberattack/)
-- [Wellthy lands $25M to help caregivers feel less overwhelmed](https://techcrunch.com/2023/05/11/wellthy-lands-25m-to-grow-its-tech-enabled-care-concierge-business/)
-- [Higher interest rates are fostering a fintech comeback story](https://techcrunch.com/2023/05/11/fintech-interest-rate-benefits/)
-- [Pinterest is combining Pins and Idea Pins into a single format](https://techcrunch.com/2023/05/11/pinterest-is-combining-pins-and-idea-pins-into-a-single-format/)
+- [WhatsApp rolls out back-end fixes to address spam calls impacting Indian users](https://techcrunch.com/2023/05/11/whatsapp-spam-calls-india/)
+- [Last chance to root for JUICE in Kerbal Space Program 2 moon explorer challenge](https://www.space.com/kerbal-space-program-2-juice-mission)
+- [Google enables Chromebook app streaming for select Pixel and Xiaomi devices](https://techcrunch.com/2023/05/11/google-enables-chromebook-app-streaming-for-select-pixel-and-xiaomi-devices/)
+- [Hyundai Motor to invest $2.45bn in India by 2032 to boost EV ecosystem](https://techcrunch.com/2023/05/11/hyundai-motor-india-investment-ev/)
+- [Anycubic Photon Mono 2 review: An excellent entry-level 3D printer](https://www.space.com/anycubic-photon-mono-2-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
