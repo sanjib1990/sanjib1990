@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub’s Thomas Dohmke talks open source, AI and more on the Disrupt SaaS Stage](https://techcrunch.com/2023/05/11/githubs-thomas-dohmke-talks-open-source-ai-and-more-on-the-disrupt-saas-stage/)
+- [Meta announces generative AI features for advertisers](https://techcrunch.com/2023/05/11/meta-announces-generative-ai-features-for-advertisers/)
+- [Curiosity rover finds water-carved &#39;book&#39; rock on Mars &lpar;photo&rpar;](https://www.space.com/nasa-mars-curiosity-rover-book-rock-photo)
+- [Perseverance rover spies signs of ancient raging river on Mars](https://www.space.com/perseverance-rover-ancient-raging-river-mars)
+- [Anthropic’s latest model can take The Great Gatsby as input](https://techcrunch.com/2023/05/11/anthropics-latest-model-can-take-the-great-gatsby-as-input/)
 - [Elon Musk says he has found a new CEO for Twitter](https://techcrunch.com/2023/05/11/elon-musk-says-he-has-found-a-new-ceo-for-twitter/)
-- [Teenage Engineering teases the tape recorder of my dreams, only it’s digital](https://techcrunch.com/2023/05/11/teenage-engineering-tp-7-digital-tape-recorder-of-my-dreams/)
-- [Hands on with Google’s AI-powered music generator](https://techcrunch.com/2023/05/11/hands-on-with-googles-ai-powered-music-generator/)
-- [A powerful eruption on the sun could create widespread auroras tonight](https://www.space.com/sun-auroras-strong-geomagnetic-storm-watch-may-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
