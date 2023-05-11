@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Crunch: For second consecutive quarter, millions of subscribers drop Disney+ Hotstar](https://techcrunch.com/2023/05/11/daily-crunch-for-second-consecutive-quarter-millions-of-subscribers-drop-disney-hotstar/)
 - [Meta announces generative AI features for advertisers](https://techcrunch.com/2023/05/11/meta-announces-generative-ai-features-for-advertisers/)
 - [Curiosity rover finds water-carved &#39;book&#39; rock on Mars &lpar;photo&rpar;](https://www.space.com/nasa-mars-curiosity-rover-book-rock-photo)
-- [Perseverance rover spies signs of ancient raging river on Mars](https://www.space.com/perseverance-rover-ancient-raging-river-mars)
-- [Anthropic’s latest model can take The Great Gatsby as input](https://techcrunch.com/2023/05/11/anthropics-latest-model-can-take-the-great-gatsby-as-input/)
-- [Elon Musk says he has found a new CEO for Twitter](https://techcrunch.com/2023/05/11/elon-musk-says-he-has-found-a-new-ceo-for-twitter/)
+- [Perseverance rover spies signs of ancient raging rivers on Mars](https://www.space.com/perseverance-rover-ancient-raging-river-mars)
+- [Anthropic’s latest model can take ‘The Great Gatsby’ as input](https://techcrunch.com/2023/05/11/anthropics-latest-model-can-take-the-great-gatsby-as-input/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
