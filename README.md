@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch China break in new test site for giant moon rocket engines &lpar;video&rpar;](https://www.space.com/china-rocket-engine-test-site-moon-program-video)
+- [Ashlee Vance&#39;s new book unveils the mysterious world of space startups](https://www.space.com/ashlee-vance-space-startup-book-heavens-on-sale)
+- [Canon sidles up to vloggers with PowerShot V10](https://techcrunch.com/2023/05/11/canon-powershot-v10/)
+- [Twitter launches encrypted DMs for verified users with security drawbacks](https://techcrunch.com/2023/05/11/twitter-launches-encrypted-dms-for-verified-users-with-security-drawbacks/)
 - [Fairphone gets its audio groove on with repairable over-ear BT headphones](https://techcrunch.com/2023/05/11/fairbuds-xl-fairphone-headphones/)
-- [Microsoft makes strategic investment into Builder.ai, integrates its services into Teams](https://techcrunch.com/2023/05/11/microsoft-makes-strategic-investment-into-builder-ai-integrates-its-services-into-teams/)
-- [Google’s new Labs page lets you sign up for its AI experiments](https://techcrunch.com/2023/05/11/googles-new-labs-page-lets-you-sign-up-for-its-ai-experiments/)
-- [SoftBank Vision Fund yearly loss widens to $32B on startups valuation cut](https://techcrunch.com/2023/05/11/softbank-vision-fund-loses-32-billion-in-a-year-on-startups-valuation-cut/)
-- [Everseen raises over $70M for AI tech to spot potential retail theft](https://techcrunch.com/2023/05/11/everseen-raises-over-70m-for-ai-tech-to-spot-potential-retail-theft/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
