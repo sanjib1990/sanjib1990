@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Pudgy Penguin’s $9M seed round could point to a growing NFT industry](https://techcrunch.com/2023/05/11/pudgy-penguins-9m-seed-round-could-point-to-a-growing-nft-industry/)
-- [Strange sounds recorded high in Earth&#39;s atmosphere have scientists baffled](https://www.space.com/strange-sounds-stratosphere-balloon-infrasound)
-- [Project Starline is the coolest work call you’ll ever take](https://techcrunch.com/2023/05/11/project-starline-is-the-coolest-work-call-youll-ever-take/)
-- [Some mysterious &#39;fast radio bursts&#39; may erupt from two-star systems](https://www.space.com/repeating-fast-radio-burst-origin-binary-system)
-- [Keepon, carry on](https://techcrunch.com/2023/05/11/keepon-carry-on/)
+- [GitHub’s Thomas Dohmke talks open source, AI and more on the Disrupt SaaS Stage](https://techcrunch.com/2023/05/11/githubs-thomas-dohmke-talks-open-source-ai-and-more-on-the-disrupt-saas-stage/)
+- [Elon Musk says he has found a new CEO for Twitter](https://techcrunch.com/2023/05/11/elon-musk-says-he-has-found-a-new-ceo-for-twitter/)
+- [Teenage Engineering teases the tape recorder of my dreams, only it’s digital](https://techcrunch.com/2023/05/11/teenage-engineering-tp-7-digital-tape-recorder-of-my-dreams/)
+- [Hands on with Google’s AI-powered music generator](https://techcrunch.com/2023/05/11/hands-on-with-googles-ai-powered-music-generator/)
+- [A powerful eruption on the sun could create widespread auroras tonight](https://www.space.com/sun-auroras-strong-geomagnetic-storm-watch-may-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
