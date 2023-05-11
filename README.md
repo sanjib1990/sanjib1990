@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI2 is developing a large language model optimized for science](https://techcrunch.com/2023/05/11/ai2-is-developing-a-large-language-model-optimized-for-science/)
+- [Australian software giant won’t say if customers affected by hack](https://techcrunch.com/2023/05/11/australia-technologyone-cyberattack/)
+- [Wellthy lands $25M to help caregivers feel less overwhelmed](https://techcrunch.com/2023/05/11/wellthy-lands-25m-to-grow-its-tech-enabled-care-concierge-business/)
+- [Higher interest rates are fostering a fintech comeback story](https://techcrunch.com/2023/05/11/fintech-interest-rate-benefits/)
 - [Pinterest is combining Pins and Idea Pins into a single format](https://techcrunch.com/2023/05/11/pinterest-is-combining-pins-and-idea-pins-into-a-single-format/)
-- [Capchase gets into buy now, pay later with Capchase Pay for SaaS financing](https://techcrunch.com/2023/05/11/capchase-buy-now-pay-later-saas-fintech/)
-- [AudiencePlus wants to help every company run its own media platform](https://techcrunch.com/2023/05/11/audienceplus-wants-to-help-every-company-run-its-own-media-platform/)
-- [Making foundation models accessible: The battle between closed and open source AI](https://techcrunch.com/2023/05/11/making-foundation-models-accessible-the-battle-between-closed-source-and-open-source-ai/)
-- [Mysterious dark energy is spread evenly across the cosmos](https://www.space.com/dark-energy-distributed-evenly-across-universe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
