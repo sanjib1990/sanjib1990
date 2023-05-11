@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [‘Bigolas Dickolas’ is more powerful than the Pulitzer Prize](https://techcrunch.com/2023/05/11/bigolas-dickolas-time-war-booktok/)
-- [Tensor is climbing to the top of the Solana NFT marketplace totem pole](https://techcrunch.com/2023/05/11/tensor-solana-nft-market-share/)
-- [WhatsApp rolls out back-end fixes to address spam calls impacting Indian users](https://techcrunch.com/2023/05/11/whatsapp-spam-calls-india/)
-- [Last chance to root for JUICE in Kerbal Space Program 2 moon explorer challenge](https://www.space.com/kerbal-space-program-2-juice-mission)
-- [Google enables Chromebook app streaming for select Pixel and Xiaomi devices](https://techcrunch.com/2023/05/11/google-enables-chromebook-app-streaming-for-select-pixel-and-xiaomi-devices/)
+- [Remains of shredded star open new window on black hole feeding behavior](https://www.space.com/shredded-star-supermassive-black-hole-accretion-disk)
+- [How fast is the universe expanding? New supernova data could help nail it down](https://www.space.com/hubble-constant-measured-supernova-gravitational-lensing)
+- [Pitch Deck Teardown: Fibery’s $5.2M Series A deck](https://techcrunch.com/2023/05/11/sample-series-a-pitch-deck-fibery/)
+- [Meta is killing the Messenger app for Apple Watch on May 31](https://techcrunch.com/2023/05/11/meta-killing-messenger-app-apple-watch-may-31/)
+- [SLAIT pivots from translating sign language to AI-powered interactive lessons](https://techcrunch.com/2023/05/11/slait-pivots-from-translating-sign-language-to-ai-powered-interactive-lessons/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
