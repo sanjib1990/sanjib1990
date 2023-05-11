@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [‘Bigolas Dickolas’ is more powerful than the Pulitzer Prize](https://techcrunch.com/2023/05/11/bigolas-dickolas-time-war-booktok/)
+- [Tensor is climbing to the top of the Solana NFT marketplace totem pole](https://techcrunch.com/2023/05/11/tensor-solana-nft-market-share/)
 - [WhatsApp rolls out back-end fixes to address spam calls impacting Indian users](https://techcrunch.com/2023/05/11/whatsapp-spam-calls-india/)
 - [Last chance to root for JUICE in Kerbal Space Program 2 moon explorer challenge](https://www.space.com/kerbal-space-program-2-juice-mission)
 - [Google enables Chromebook app streaming for select Pixel and Xiaomi devices](https://techcrunch.com/2023/05/11/google-enables-chromebook-app-streaming-for-select-pixel-and-xiaomi-devices/)
-- [Hyundai Motor to invest $2.45bn in India by 2032 to boost EV ecosystem](https://techcrunch.com/2023/05/11/hyundai-motor-india-investment-ev/)
-- [Anycubic Photon Mono 2 review: An excellent entry-level 3D printer](https://www.space.com/anycubic-photon-mono-2-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
