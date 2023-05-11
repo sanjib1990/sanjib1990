@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MediShout wants to bring Amazon-like efficiency to hospital operations](https://techcrunch.com/2023/05/11/how-medishout-plans-to-bring-amazon-like-efficiency-to-hospital-operations/)
+- [Best Lego Star Wars Helmets 2023](https://www.space.com/best-lego-star-wars-helmets)
+- [EU lawmakers back transparency and safety rules for generative AI](https://techcrunch.com/2023/05/11/eu-ai-act-mep-committee-votes/)
 - [Watch China break in new test site for giant moon rocket engines &lpar;video&rpar;](https://www.space.com/china-rocket-engine-test-site-moon-program-video)
 - [Ashlee Vance&#39;s new book unveils the mysterious world of space startups](https://www.space.com/ashlee-vance-space-startup-book-heavens-on-sale)
-- [Canon sidles up to vloggers with PowerShot V10](https://techcrunch.com/2023/05/11/canon-powershot-v10/)
-- [Twitter launches encrypted DMs for verified users with security drawbacks](https://techcrunch.com/2023/05/11/twitter-launches-encrypted-dms-for-verified-users-with-security-drawbacks/)
-- [Fairphone gets its audio groove on with repairable over-ear BT headphones](https://techcrunch.com/2023/05/11/fairbuds-xl-fairphone-headphones/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
