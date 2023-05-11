@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [MediShout wants to bring Amazon-like efficiency to hospital operations](https://techcrunch.com/2023/05/11/how-medishout-plans-to-bring-amazon-like-efficiency-to-hospital-operations/)
-- [Best Lego Star Wars Helmets 2023](https://www.space.com/best-lego-star-wars-helmets)
-- [EU lawmakers back transparency and safety rules for generative AI](https://techcrunch.com/2023/05/11/eu-ai-act-mep-committee-votes/)
-- [Watch China break in new test site for giant moon rocket engines &lpar;video&rpar;](https://www.space.com/china-rocket-engine-test-site-moon-program-video)
-- [Ashlee Vance&#39;s new book unveils the mysterious world of space startups](https://www.space.com/ashlee-vance-space-startup-book-heavens-on-sale)
+- [Writer introduces product that could help reduce hallucinated content in its LLMs](https://techcrunch.com/2023/05/11/writer-introduces-product-that-could-help-reduce-hallucinated-content-in-its-llms/)
+- [Cable wants to help banks cut financial crime through automated assurance](https://techcrunch.com/2023/05/11/cable-bank-financial-crime-fintech/)
+- [Netflix reveals full cast and release date for new 3D anime series, &#39;Mech Cadets&#39;](https://www.space.com/news/netflix-reveals-full-cast-and-release-date-for-new-3d-anime-series-mech-cadets)
+- [Apple’s ATT faces competition probe in Italy](https://techcrunch.com/2023/05/11/apple-att-italy-antitrust/)
+- [Unlocking the M&amp;A code: 5 factors that can make &lpar;or break&rpar; a deal](https://techcrunch.com/2023/05/11/unlocking-the-ma-code-5-factors-that-can-make-or-break-a-deal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
