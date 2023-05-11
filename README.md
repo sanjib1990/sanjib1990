@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Remains of shredded star open new window on black hole feeding behavior](https://www.space.com/shredded-star-supermassive-black-hole-accretion-disk)
-- [How fast is the universe expanding? New supernova data could help nail it down](https://www.space.com/hubble-constant-measured-supernova-gravitational-lensing)
-- [Pitch Deck Teardown: Fibery’s $5.2M Series A deck](https://techcrunch.com/2023/05/11/sample-series-a-pitch-deck-fibery/)
-- [Meta is killing the Messenger app for Apple Watch on May 31](https://techcrunch.com/2023/05/11/meta-killing-messenger-app-apple-watch-may-31/)
-- [SLAIT pivots from translating sign language to AI-powered interactive lessons](https://techcrunch.com/2023/05/11/slait-pivots-from-translating-sign-language-to-ai-powered-interactive-lessons/)
+- [Pudgy Penguin’s $9M seed round could point to a growing NFT industry](https://techcrunch.com/2023/05/11/pudgy-penguins-9m-seed-round-could-point-to-a-growing-nft-industry/)
+- [Strange sounds recorded high in Earth&#39;s atmosphere have scientists baffled](https://www.space.com/strange-sounds-stratosphere-balloon-infrasound)
+- [Project Starline is the coolest work call you’ll ever take](https://techcrunch.com/2023/05/11/project-starline-is-the-coolest-work-call-youll-ever-take/)
+- [Some mysterious &#39;fast radio bursts&#39; may erupt from two-star systems](https://www.space.com/repeating-fast-radio-burst-origin-binary-system)
+- [Keepon, carry on](https://techcrunch.com/2023/05/11/keepon-carry-on/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
