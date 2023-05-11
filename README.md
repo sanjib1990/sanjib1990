@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fairphone gets its audio groove on with repairable over-ear BT headphones](https://techcrunch.com/2023/05/11/fairbuds-xl-fairphone-headphones/)
 - [Microsoft makes strategic investment into Builder.ai, integrates its services into Teams](https://techcrunch.com/2023/05/11/microsoft-makes-strategic-investment-into-builder-ai-integrates-its-services-into-teams/)
 - [Google’s new Labs page lets you sign up for its AI experiments](https://techcrunch.com/2023/05/11/googles-new-labs-page-lets-you-sign-up-for-its-ai-experiments/)
 - [SoftBank Vision Fund yearly loss widens to $32B on startups valuation cut](https://techcrunch.com/2023/05/11/softbank-vision-fund-loses-32-billion-in-a-year-on-startups-valuation-cut/)
 - [Everseen raises over $70M for AI tech to spot potential retail theft](https://techcrunch.com/2023/05/11/everseen-raises-over-70m-for-ai-tech-to-spot-potential-retail-theft/)
-- [Wingcopter, Germany’s drone delivery startup, raises another $44M from the EIB](https://techcrunch.com/2023/05/10/wingcopter-drone-delivery-startup-eib/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
