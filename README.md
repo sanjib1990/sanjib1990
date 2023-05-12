@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Save $200 on the Celestron NextStar 4SE, a top entry-level telescope](https://www.space.com/save-200-dollars-celestron-nexstar-4se-battery-bundle-deal)
+- [Saturn reclaims &#39;moon king&#39; title with 62 newfound satellites, bringing total to 145](https://www.space.com/saturn-moon-king-62-newfound-satellites)
+- [Hackers stole passwords of Worldcoin Orb operators](https://techcrunch.com/2023/05/12/hackers-stole-passwords-of-worldcoin-orb-operators/)
+- [Major decision on the legality of Facebook’s EU-US data transfers is due to be adopted today](https://techcrunch.com/2023/05/12/facebook-data-transfers-final-gdpr-decision-adoption/)
 - [Elon Musk appoints new Twitter CEO, NBCU’s Linda Yaccarino](https://techcrunch.com/2023/05/12/elon-musk-appoints-new-twitter-ceo-nbcus-linda-yaccarino/)
-- [Pale Blue Dot continues investing in its climate vision, with a second, $100M fund](https://techcrunch.com/2023/05/12/pale-blue-dot-continues-investing-in-its-climate-vision-with-a-second-100m-fund/)
-- [AWS announces new version of Aurora database that strips out I/O costs](https://techcrunch.com/2023/05/12/aws-announces-new-version-of-aurora-database-that-strips-out-i-o-costs/)
-- [Brightly says SchoolDude data breach spilled 3 million user accounts](https://techcrunch.com/2023/05/12/brightly-schooldude-data-breach/)
-- [The Mandalorian has forgotten what made us fall in love with it in the first place](https://www.space.com/the-mandalorian-has-forgotten-what-made-us-fall-in-love-with-it-in-the-first-place)
 <!-- BLOG-POST-LIST:END -->
 
 ---
