@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Save $200 on the Celestron NextStar 4SE, a top entry-level telescope](https://www.space.com/save-200-dollars-celestron-nexstar-4se-battery-bundle-deal)
-- [Saturn reclaims &#39;moon king&#39; title with 62 newfound satellites, bringing total to 145](https://www.space.com/saturn-moon-king-62-newfound-satellites)
-- [Hackers stole passwords of Worldcoin Orb operators](https://techcrunch.com/2023/05/12/hackers-stole-passwords-of-worldcoin-orb-operators/)
-- [Major decision on the legality of Facebook’s EU-US data transfers is due to be adopted today](https://techcrunch.com/2023/05/12/facebook-data-transfers-final-gdpr-decision-adoption/)
-- [Elon Musk appoints new Twitter CEO, NBCU’s Linda Yaccarino](https://techcrunch.com/2023/05/12/elon-musk-appoints-new-twitter-ceo-nbcus-linda-yaccarino/)
+- [UAE&#39;s ambitious asteroid mission will tour 7 space rocks](https://www.space.com/uae-asteroid-mission-tour-seven-space-rocks)
+- [As AI consumes search, what will be left for us humans?](https://techcrunch.com/2023/05/12/ai-search-effects-implications/)
+- [Autonomous delivery startup Nuro to lay off 30% of workforce](https://techcrunch.com/2023/05/12/autonomous-delivery-startup-nuro-to-lay-off-30-of-workforce/)
+- [TechCrunch+ roundup: Minimizing M&amp;A mayhem, cybersecurity PM checklist, open-source AI](https://techcrunch.com/2023/05/12/techcrunch-roundup-minimizing-ma-mayhem-cybersecurity-pm-checklist-open-source-ai/)
+- [James Webb Space Telescope studies mysterious exoplanet with a possible watery past](https://www.space.com/james-webb-space-telescope-mini-neptune-exoplanet)
 <!-- BLOG-POST-LIST:END -->
 
 ---
