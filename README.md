@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Elon Musk appoints new Twitter CEO, NBCU’s Linda Yaccarino](https://techcrunch.com/2023/05/12/elon-musk-appoints-new-twitter-ceo-nbcus-linda-yaccarino/)
+- [Pale Blue Dot continues investing in its climate vision, with a second, $100M fund](https://techcrunch.com/2023/05/12/pale-blue-dot-continues-investing-in-its-climate-vision-with-a-second-100m-fund/)
+- [AWS announces new version of Aurora database that strips out I/O costs](https://techcrunch.com/2023/05/12/aws-announces-new-version-of-aurora-database-that-strips-out-i-o-costs/)
+- [Brightly says SchoolDude data breach spilled 3 million user accounts](https://techcrunch.com/2023/05/12/brightly-schooldude-data-breach/)
 - [The Mandalorian has forgotten what made us fall in love with it in the first place](https://www.space.com/the-mandalorian-has-forgotten-what-made-us-fall-in-love-with-it-in-the-first-place)
-- [&#39;Silo&#39; showrunner Graham Yost on his riveting new sci-fi series and stellar cast &lpar;exclusive&rpar;](https://www.space.com/silo-apple-tv-showrunner-interview)
-- [The debate happening inside of every VC firm](https://techcrunch.com/2023/05/12/ai-venture-interest/)
-- [The Telescope Allocation Committee: Selecting What Webb Observes Next](https://blogs.nasa.gov/webb/2023/05/12/the-telescope-allocation-committee-selecting-what-webb-observes-next/)
-- [Venture-backed everything for real world problems, please](https://techcrunch.com/2023/05/12/venture-backed-everything-for-real-world-problems-please/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
