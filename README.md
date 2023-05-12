@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Don&#39;t miss Venus in the late night sky right now before it turns into a &#39;Morning Star&#39;](https://www.space.com/venus-late-night-sky-morning-star-may-2023)
+- [TechCrunch Disrupt early-bird sale ends today](https://techcrunch.com/2023/05/12/last-day-early-bird-passes-techcrunch-disrupt-2023/)
+- [TikTok turns up on the volume on its music play with NewMusic search feature](https://techcrunch.com/2023/05/12/tiktok-newmusic/)
+- [Toyota Japan exposed data on millions of vehicles for a decade](https://techcrunch.com/2023/05/12/toyota-japan-exposed-millions-locations-videos/)
 - [Save over $275 on the Anycubic Photon M3 Premium 3D printer](https://www.space.com/save-275-dollars-anycubic-photon-m3-premium-deal-amazon)
-- [Don&#39;t miss the half-lit moon during its third quarter phase today](https://www.space.com/last-quarter-moon-may-2023)
-- [Everything we know about Transformers: Rise of the Beasts](https://www.space.com/transformers-rise-of-the-beasts-release-date-how-to-watch)
-- [China’s phone giant Oppo disbands chip design unit as shipment slumps](https://techcrunch.com/2023/05/12/oppo-chip-disbands-phone-china/)
-- [Watch 2 Russian cosmonauts perform spacewalk today](https://www.space.com/russian-spacewalk-space-station-may-2023-webcast)
 <!-- BLOG-POST-LIST:END -->
 
 ---
