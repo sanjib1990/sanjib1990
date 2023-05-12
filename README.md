@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Save over $275 on the Anycubic Photon M3 Premium 3D printer](https://www.space.com/save-275-dollars-anycubic-photon-m3-premium-deal-amazon)
+- [Don&#39;t miss the half-lit moon during its third quarter phase today](https://www.space.com/last-quarter-moon-may-2023)
 - [Everything we know about Transformers: Rise of the Beasts](https://www.space.com/transformers-rise-of-the-beasts-release-date-how-to-watch)
 - [China’s phone giant Oppo disbands chip design unit as shipment slumps](https://techcrunch.com/2023/05/12/oppo-chip-disbands-phone-china/)
 - [Watch 2 Russian cosmonauts perform spacewalk today](https://www.space.com/russian-spacewalk-space-station-may-2023-webcast)
-- [2 &#39;super-Earth&#39; exoplanets spotted in habitable zone of nearby star](https://www.space.com/super-earth-exoplanets-nearby-red-dwarf-tess)
-- [Twitch’s new clip editor makes sharing vertical video on YouTube and TikTok a snap](https://techcrunch.com/2023/05/11/twitch-clip-editor-edit-vertical-video-tiktok-reels/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
