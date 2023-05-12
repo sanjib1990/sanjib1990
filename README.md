@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bird’s weak stock market performance impacts the entire e-scooter industry](https://techcrunch.com/2023/05/11/birds-weak-stock-market-performance-impacts-the-entire-e-scooter-industry/)
+- [Boom! Astronomers just watched the largest explosion in space rage for 3 years](https://www.space.com/black-hole-largest-explosion-in-universe-three-years)
 - [Intuitive Machines prepares for first lunar mission, faces challenge to NASA contract win](https://techcrunch.com/2023/05/11/intuitive-machines-prepares-for-first-lunar-mission-faces-challenge-to-nasa-contract-win/)
 - [Polestar and Volvo are the latest automakers caught in software purgatory](https://techcrunch.com/2023/05/11/polestar-and-volvo-are-the-latest-automakers-caught-in-software-purgatory/)
 - [Daily Crunch: For second consecutive quarter, millions of subscribers drop Disney+ Hotstar](https://techcrunch.com/2023/05/11/daily-crunch-for-second-consecutive-quarter-millions-of-subscribers-drop-disney-hotstar/)
-- [Meta announces generative AI features for advertisers](https://techcrunch.com/2023/05/11/meta-announces-generative-ai-features-for-advertisers/)
-- [Curiosity rover finds water-carved &#39;book&#39; rock on Mars &lpar;photo&rpar;](https://www.space.com/nasa-mars-curiosity-rover-book-rock-photo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
