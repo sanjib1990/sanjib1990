@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Mandalorian has forgotten what made us fall in love with it in the first place](https://www.space.com/the-mandalorian-has-forgotten-what-made-us-fall-in-love-with-it-in-the-first-place)
 - [&#39;Silo&#39; showrunner Graham Yost on his riveting new sci-fi series and stellar cast &lpar;exclusive&rpar;](https://www.space.com/silo-apple-tv-showrunner-interview)
 - [The debate happening inside of every VC firm](https://techcrunch.com/2023/05/12/ai-venture-interest/)
 - [The Telescope Allocation Committee: Selecting What Webb Observes Next](https://blogs.nasa.gov/webb/2023/05/12/the-telescope-allocation-committee-selecting-what-webb-observes-next/)
 - [Venture-backed everything for real world problems, please](https://techcrunch.com/2023/05/12/venture-backed-everything-for-real-world-problems-please/)
-- [Indian edtech giant Byju’s raises $250 million, on track to close another $700 million](https://techcrunch.com/2023/05/12/indian-edtech-giant-byjus-raises-250-million-on-track-to-close-another-700-million/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
