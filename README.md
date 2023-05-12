@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitch’s new clip editor makes sharing vertical video on YouTube and TikTok a snap](https://techcrunch.com/2023/05/11/twitch-clip-editor-edit-vertical-video-tiktok-reels/)
 - [Tinder will remove social handles from bios as part of its updated community guidelines](https://techcrunch.com/2023/05/11/tinder-remove-social-handles-bios-updated-community-guidelines/)
 - [Getaround aims to scale car-sharing platform with HyreCar acquisition](https://techcrunch.com/2023/05/11/getaround-aims-to-scale-car-sharing-platform-with-hyrecar-acquisition/)
 - [Nexon takes 20-year-old MapleStory into web3 with Haechi’s help](https://techcrunch.com/2023/05/11/nexon-maplestory-blockchain-crypto-haechi-web3/)
 - [Terraform’s Do Kwon pleads not guilty to fake travel documents charges](https://techcrunch.com/2023/05/11/terraform-co-founder-do-kwon-pleads-not-guilty-to-fake-travel-documents/)
-- [Bird’s weak stock market performance impacts the entire e-scooter industry](https://techcrunch.com/2023/05/11/birds-weak-stock-market-performance-impacts-the-entire-e-scooter-industry/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
