@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nexon takes 20-year-old MapleStory into web3 with Haechi’s help](https://techcrunch.com/2023/05/11/nexon-maplestory-blockchain-crypto-haechi-web3/)
 - [Terraform’s Do Kwon pleads not guilty to fake travel documents charges](https://techcrunch.com/2023/05/11/terraform-co-founder-do-kwon-pleads-not-guilty-to-fake-travel-documents/)
 - [Bird’s weak stock market performance impacts the entire e-scooter industry](https://techcrunch.com/2023/05/11/birds-weak-stock-market-performance-impacts-the-entire-e-scooter-industry/)
 - [Boom! Astronomers just watched the largest explosion in space rage for 3 years](https://www.space.com/black-hole-largest-explosion-in-universe-three-years)
 - [Intuitive Machines prepares for first lunar mission, faces challenge to NASA contract win](https://techcrunch.com/2023/05/11/intuitive-machines-prepares-for-first-lunar-mission-faces-challenge-to-nasa-contract-win/)
-- [Polestar and Volvo are the latest automakers caught in software purgatory](https://techcrunch.com/2023/05/11/polestar-and-volvo-are-the-latest-automakers-caught-in-software-purgatory/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
