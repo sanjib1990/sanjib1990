@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This snake robot could hunt alien life on icy moons like Enceladus](https://www.space.com/enceladus-snake-robot-alien-life-hunter)
 - [Europe&#39;s JUICE Jupiter probe fixes antenna glitch in deep space &lpar;video&rpar;](https://www.space.com/juice-jupiter-probe-fixes-antenna-glitch)
 - [Elon Musk appoints new Twitter CEO, NBCU’s Linda Yaccarino](https://techcrunch.com/2023/05/12/elon-musk-appoints-new-twitter-ceo-nbcus-linda-yaccarino/)
 - [Private moon lander&#39;s launch with SpaceX  delayed to this fall](https://www.space.com/private-moon-lander-launch-delay-spacex-rocket)
-- [&#39;Everspace 2&#39; trailer promises epic interstellar dogfights and deep space exploration](https://www.space.com/everspace-2-trailer-space-combat)
-- [UAE&#39;s ambitious asteroid mission will tour 7 space rocks](https://www.space.com/uae-asteroid-mission-tour-seven-space-rocks)
+- [11 investors predict a colorful, if difficult, future for psychedelic startups](https://techcrunch.com/2023/05/12/psychedelics-startups-investor-survey-trends/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
