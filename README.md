@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [11 investors predict a colorful, if difficult, future for psychedelic startups](https://techcrunch.com/2023/05/12/psychedelics-startups-investor-survey-trends/)
+- [Onboarding and automation: What fintechs can learn from big banks](https://techcrunch.com/2023/05/12/onboarding-and-automation-what-fintechs-can-learn-from-big-banks/)
+- [&#39;Everspace 2&#39; trailer promises epic interstellar dogfights and deep space exploration](https://www.space.com/everspace-2-trailer-space-combat)
+- [Netflix reportedly plans to cut spending by $300 million this year](https://techcrunch.com/2023/05/12/netflix-cut-spending-by-300-million-this-year/)
 - [UAE&#39;s ambitious asteroid mission will tour 7 space rocks](https://www.space.com/uae-asteroid-mission-tour-seven-space-rocks)
-- [As AI consumes search, what will be left for us humans?](https://techcrunch.com/2023/05/12/ai-search-effects-implications/)
-- [Autonomous delivery startup Nuro to lay off 30% of workforce](https://techcrunch.com/2023/05/12/autonomous-delivery-startup-nuro-to-lay-off-30-of-workforce/)
-- [TechCrunch+ roundup: Minimizing M&amp;A mayhem, cybersecurity PM checklist, open-source AI](https://techcrunch.com/2023/05/12/techcrunch-roundup-minimizing-ma-mayhem-cybersecurity-pm-checklist-open-source-ai/)
-- [James Webb Space Telescope studies mysterious exoplanet with a possible watery past](https://www.space.com/james-webb-space-telescope-mini-neptune-exoplanet)
 <!-- BLOG-POST-LIST:END -->
 
 ---
