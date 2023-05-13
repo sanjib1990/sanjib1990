@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Austin Russell became the youngest self-made billionaire in 2021; now he owns Forbes](https://techcrunch.com/2023/05/12/austin-russell-became-the-youngest-self-made-billionaire-in-2021-now-he-owns-forbes/)
 - [NASA gives up on tiny Lunar Flashlight probe&#39;s troubled moon ice mission](https://www.space.com/nasa-gives-up-lunar-flashlight-moon-mission)
 - [&#39;Mars Horizon 2&#39; lets players search for Red Planet life with real science](https://www.space.com/mars-horizon-2-game-planet-9-scientist)
 - [Cast your votes for the Disrupt sessions you want](https://techcrunch.com/2023/05/12/vote-audience-choice-roundtables-breakouts-techcrunch-disrupt-2023/)
 - [Russian cosmonauts move vital radiator for International Space Station in 5-hour spacewalk](https://www.space.com/international-space-station-spacewalk-russian-radiator-may-2023)
-- [This snake robot could hunt alien life on icy moons like Saturn&#39;s Enceladus](https://www.space.com/enceladus-snake-robot-alien-life-hunter)
 <!-- BLOG-POST-LIST:END -->
 
 ---
