@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The week in AI: Google goes all out at I/O as regulations creep up](https://techcrunch.com/2023/05/13/the-week-in-ai-google-goes-all-out-at-i-o-as-regulations-creep-up/)
 - [A pivot, in this market‽](https://techcrunch.com/2023/05/13/a-pivot-in-this-market%e2%80%bd/)
 - [This Week in Apps: Google I/O 2023 recap; Android, apps and AI; Twitter’s new CEO](https://techcrunch.com/2023/05/13/this-week-in-apps-google-i-o-2023-recap-android-apps-and-ai-twitters-new-ceo/)
 - [All hail the Unicorn Kingdom?](https://techcrunch.com/2023/05/13/united-kingdom-unicorn-kingdom/)
 - [Deal Dive: AI relationship coach Amorai offers more questions than answers](https://techcrunch.com/2023/05/13/ai-relationship-building-amorai/)
-- [Carl Sagan film &#39;Voyagers&#39; casts Andrew Garfield of &#39;Spider-Man&#39; fame to play beloved astronomer](https://www.space.com/carl-sagan-film-voyagers-andrew-garfield)
 <!-- BLOG-POST-LIST:END -->
 
 ---
