@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [South Korean moon probe snaps pic of fellow lunar orbiter &lpar;photo&rpar;](https://www.space.com/danuri-moon-probe-photo-lunar-reconnaissance-orbiter)
+- [ChatGPT on Mars: How AI can help scientists study the Red Planet](https://www.space.com/artificial-intelligence-chatgpt-mars)
 - [Google bets the farm on AI, Twitter gets a new CEO, and Meta contractors protest](https://techcrunch.com/2023/05/13/google-bets-the-farm-on-ai-twitter-gets-a-new-ceo-and-meta-contractors-protest/)
 - [The week in AI: Google goes all out at I/O as regulations creep up](https://techcrunch.com/2023/05/13/the-week-in-ai-google-goes-all-out-at-i-o-as-regulations-creep-up/)
 - [A pivot, in this market‽](https://techcrunch.com/2023/05/13/a-pivot-in-this-market%e2%80%bd/)
-- [This Week in Apps: Google I/O 2023 recap; Android, apps and AI; Twitter’s new CEO](https://techcrunch.com/2023/05/13/this-week-in-apps-google-i-o-2023-recap-android-apps-and-ai-twitters-new-ceo/)
-- [All hail the Unicorn Kingdom?](https://techcrunch.com/2023/05/13/united-kingdom-unicorn-kingdom/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
