@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [US tech policy must keep pace with AI innovation](https://techcrunch.com/2023/05/14/u-s-tech-policy-must-keep-pace-with-ai-innovation/)
 - [An open letter to tech workers about careers in public service](https://techcrunch.com/2023/05/14/an-open-letter-to-tech-workers-about-careers-in-public-service/)
 - [50 years ago, Skylab launched into orbit. See what it meant to an astronaut on a space station now.](https://www.space.com/skylab-space-station-50th-anniversary-astronaut-remembers)
 - [South Korean moon probe snaps picture of NASA&#39;s powerful lunar orbiter &lpar;photo&rpar;](https://www.space.com/danuri-moon-probe-photo-lunar-reconnaissance-orbiter)
 - [ChatGPT on Mars: How AI can help scientists study the Red Planet](https://www.space.com/artificial-intelligence-chatgpt-mars)
-- [Google bets the farm on AI, Twitter gets a new CEO, and Meta contractors protest](https://techcrunch.com/2023/05/13/google-bets-the-farm-on-ai-twitter-gets-a-new-ceo-and-meta-contractors-protest/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
