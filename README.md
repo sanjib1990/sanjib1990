@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [JUICE Jupiter probe spotted 1 million miles from Earth &lpar;video, image&rpar;](https://www.space.com/juice-jupiter-probe-telescope-photo)
-- [Phone Link for iOS is now available to all Windows 11 users, bringing iMessage and more to PCs](https://techcrunch.com/2023/05/15/phone-link-for-ios-is-now-available-to-all-windows-11-users/)
-- [Stratolaunch&#39;s huge Roc plane drops hypersonic test vehicle for 1st time &lpar;video&rpar;](https://www.space.com/stratolaunch-roc-hypersonic-vehicle-first-drop-test)
-- [Kevin Systrom explains why Artifact wants to treat writers like the creators they are](https://techcrunch.com/2023/05/15/kevin-systrom-explains-why-artifact-wants-to-treat-writers-like-the-creators-they-are/)
-- [Europe could be on the cusp of a golden era in robotics. Here’s why](https://techcrunch.com/2023/05/15/europe-could-be-on-the-cusp-of-a-golden-era-in-robotics-heres-why/)
+- [NASA ditches giant &#39;superpressure&#39; balloon into Pacific Ocean after anomaly](https://www.space.com/nasa-destroys-superpressure-balloon-anomaly)
+- [Max Q: Space is vast](https://techcrunch.com/2023/05/15/max-q-space-is-vast/)
+- [Alphabet’s Intrinsic launches Flowstate, a robotic app development platform](https://techcrunch.com/2023/05/15/alphabets-intrinsic-launches-flowstate-a-robotic-app-development-platform/)
+- [Axiom Space Ax-2 private spaceflight with SpaceX: Live updates](https://www.space.com/news/live/axiom-space-missions-updates)
+- [Together raises $20M to build open source generative AI models](https://techcrunch.com/2023/05/15/together-raises-20m-to-build-open-source-generative-ai-models/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
