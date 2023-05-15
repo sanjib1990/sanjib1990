@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Europe could be on the cusp of a golden era in robotics. Here’s why](https://techcrunch.com/2023/05/15/europe-could-be-on-the-cusp-of-a-golden-era-in-robotics-heres-why/)
+- [James Webb Space Telescope discovers water around a mysterious comet](https://www.space.com/james-webb-space-telescope-comet-water)
+- [Chief Twit Elon Musk loses appeal to be able to tweet about Tesla unchecked](https://techcrunch.com/2023/05/15/chief-twit-elon-musk-loses-appeal-to-be-able-to-tweet-about-tesla-unchecked/)
 - [How to avoid AI commoditization: 3 tactics for running successful pilot programs](https://techcrunch.com/2023/05/15/how-to-avoid-ai-commoditization-3-tactics-for-running-successful-pilot-programs/)
 - [WhatsApp now lets you lock and hide individual chats](https://techcrunch.com/2023/05/15/whatsapp-now-lets-you-lock-and-hide-individual-chats/)
-- [Saturn&#39;s rings are much younger than we thought](https://www.space.com/saturn-rings-younger-than-we-thought)
-- [&#39;Foundation&#39; season 2 launches July 14 on Apple TV+. Watch the new teaser &lpar;video&rpar;](https://www.space.com/foundation-season-2-apple-tv-plus-teaser-premiere-date)
-- [Active founders make good investors, but do they make good VCs?](https://techcrunch.com/2023/05/15/venture-capital-investors-active-founders/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
