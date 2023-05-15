@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [VC funding of women climate tech founders is abysmal. Here’s how it could improve](https://techcrunch.com/2023/05/15/climate-tech-women-vc-funding/)
-- [TikTok adds a new mental health awareness hub to provide users access to resources](https://techcrunch.com/2023/05/15/tiktok-new-mental-health-awareness-hub-access-resources/)
-- [Europe greenlights Microsoft’s $68.7B Activision acquisition](https://techcrunch.com/2023/05/15/europe-greenlights-microsofts-68-7b-activision-acquisition/)
-- [Vice files for bankruptcy, Foxconn’s investment in India, and two fascinating startup rounds](https://techcrunch.com/2023/05/15/vice-files-for-bankrupcy-foxconns-investment-in-india-and-two-fascinating-startup-rounds/)
-- [Binance is banking big on M&amp;A and VC deals](https://techcrunch.com/2023/05/15/binance-chief-business-officer-interview/)
+- [VCs love to talk about AI, but they aren’t writing as many checks as you might think](https://techcrunch.com/2023/05/15/ai-weak-investments/)
+- [ZestMoney founders resign as Goldman Sachs-backed fintech struggles to raise funds](https://techcrunch.com/2023/05/15/zestmoney-founders-resign-as-goldman-sachs-backed-fintech-struggles-to-raise-funds/)
+- [Chipolo brings its lost item trackers to Android’s Find My Device network](https://techcrunch.com/2023/05/15/chipolo-brings-its-lost-item-trackers-to-androids-find-my-device-network/)
+- [Cybercriminals who targeted Ukraine are actually Russian government hackers, researchers say](https://techcrunch.com/2023/05/15/cybercriminals-who-targeted-ukraine-are-actually-russian-government-hackers-researchers-say/)
+- [After a 29-year run, Vice files for bankruptcy](https://techcrunch.com/2023/05/15/after-a-29-year-run-vice-files-for-bankruptcy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
