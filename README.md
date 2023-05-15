@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to avoid AI commoditization: 3 tactics for running successful pilot programs](https://techcrunch.com/2023/05/15/how-to-avoid-ai-commoditization-3-tactics-for-running-successful-pilot-programs/)
+- [WhatsApp now lets you lock and hide individual chats](https://techcrunch.com/2023/05/15/whatsapp-now-lets-you-lock-and-hide-individual-chats/)
+- [Saturn&#39;s rings are much younger than we thought](https://www.space.com/saturn-rings-younger-than-we-thought)
+- [&#39;Foundation&#39; season 2 launches July 14 on Apple TV+. Watch the new teaser &lpar;video&rpar;](https://www.space.com/foundation-season-2-apple-tv-plus-teaser-premiere-date)
 - [Active founders make good investors, but do they make good VCs?](https://techcrunch.com/2023/05/15/venture-capital-investors-active-founders/)
-- [Watch Nick Fury return in this &#39;Secret Invasion&#39; behind-the-scenes featurette from Marvel Studios &lpar;video&rpar;](https://www.space.com/secret-invasion-nick-fury-behind-the-scenes-featurette)
-- [Ahead of next Starship launch, SpaceX hires key NASA human spaceflight head](https://techcrunch.com/2023/05/15/ahead-of-next-starship-launch-spacex-hires-key-nasa-human-spaceflight-head/)
-- [The most powerful black holes in the universe may finally have an explanation](https://www.space.com/most-powerful-black-hole-may-finally-be-explained)
-- [Amazon is developing a ‘Lord of the Rings’ MMO](https://techcrunch.com/2023/05/15/amazon-is-developing-a-lord-of-the-rings-mmo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
