@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Only hours left to apply to Startup Battlefield 200 at Disrupt](https://techcrunch.com/2023/05/15/last-day-apply-startup-battlefield-200-techcrunch-disrupt-2023/)
 - [Photographers capture the exact moment a gargantuan storm blasts out of the sun during a total solar eclipse](https://www.space.com/space/the-sun/photographers-capture-the-exact-moment-a-gargantuan-storm-blasts-out-of-the-sun-during-a-total-solar-eclipse)
 - [UK’s Space Forge debuts new reentry tech for in-space manufacturing satellites](https://techcrunch.com/2023/05/15/uks-space-forge-debuts-new-reentry-tech-for-in-space-manufacturing-satellites/)
 - [Blackstone sells IBS Software stake to Apax for $450 million](https://techcrunch.com/2023/05/15/blackstone-sells-ibs-software-stake-to-apax-for-450-million/)
 - [UK pension startup Smart banks $95M](https://techcrunch.com/2023/05/15/uk-pension-platform-smart-nabs-95m/)
-- [Alibaba’s autonomous driving lab to focus more on monetization](https://techcrunch.com/2023/05/15/alibaba-autonomous-driving/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
