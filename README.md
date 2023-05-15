@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [UK’s Space Forge debuts new reentry tech for in-space manufacturing satellites](https://techcrunch.com/2023/05/15/uks-space-forge-debuts-new-reentry-tech-for-in-space-manufacturing-satellites/)
+- [Blackstone sells IBS Software stake to Apax for $450 million](https://techcrunch.com/2023/05/15/blackstone-sells-ibs-software-stake-to-apax-for-450-million/)
 - [UK pension startup Smart banks $95M](https://techcrunch.com/2023/05/15/uk-pension-platform-smart-nabs-95m/)
 - [Alibaba’s autonomous driving lab to focus more on monetization](https://techcrunch.com/2023/05/15/alibaba-autonomous-driving/)
 - [M-KOPA snaps up $250M+ debt, equity for its asset financing platform](https://techcrunch.com/2023/05/15/m-kopa-snaps-up-250m-debt-equity-for-its-asset-financing-platform/)
-- [Apple partner Foxconn to invest $500 million in India’s Telangana](https://techcrunch.com/2023/05/14/foxconn-to-invest-500-million-in-india-telangana-state/)
-- [Cold-chain startup Figorr raises $1.5M, backs the roll out of data-driven perishables insurance](https://techcrunch.com/2023/05/14/cold-chain-startup-figorr-raises-1-5m-backs-the-roll-out-of-data-driven-perishables-insurance/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
