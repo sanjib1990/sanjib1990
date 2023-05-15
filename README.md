@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Vice files for bankrupcy, Foxconn’s investment in India, and two fascinating startup rounds](https://techcrunch.com/2023/05/15/vice-files-for-bankrupcy-foxconns-investment-in-india-and-two-fascinating-startup-rounds/)
+- [VC funding of women climate tech founders is abysmal. Here’s how it could improve](https://techcrunch.com/2023/05/15/climate-tech-women-vc-funding/)
+- [TikTok adds a new mental health awareness hub to provide users access to resources](https://techcrunch.com/2023/05/15/tiktok-new-mental-health-awareness-hub-access-resources/)
+- [Europe greenlights Microsoft’s $68.7B Activision acquisition](https://techcrunch.com/2023/05/15/europe-greenlights-microsofts-68-7b-activision-acquisition/)
+- [Vice files for bankruptcy, Foxconn’s investment in India, and two fascinating startup rounds](https://techcrunch.com/2023/05/15/vice-files-for-bankrupcy-foxconns-investment-in-india-and-two-fascinating-startup-rounds/)
 - [Binance is banking big on M&amp;A and VC deals](https://techcrunch.com/2023/05/15/binance-chief-business-officer-interview/)
-- [TechCrunch Live events, but a podcast](https://techcrunch.com/2023/05/15/techcrunch-live-events-but-a-podcast/)
-- [Hear how MinIO built a unicorn in object storage on top of Kubernetes and open source](https://techcrunch.com/2023/05/15/hear-how-minio-built-a-unicorn-in-object-storage-on-top-of-kubernetes-and-open-source/)
-- [Only hours left to apply to Startup Battlefield 200 at Disrupt](https://techcrunch.com/2023/05/15/last-day-apply-startup-battlefield-200-techcrunch-disrupt-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
