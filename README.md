@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Kevin Systrom explains why Artifact wants to treat writers like the creators they are](https://techcrunch.com/2023/05/15/kevin-systrom-explains-why-artifact-wants-to-treat-writers-like-the-creators-they-are/)
 - [Europe could be on the cusp of a golden era in robotics. Here’s why](https://techcrunch.com/2023/05/15/europe-could-be-on-the-cusp-of-a-golden-era-in-robotics-heres-why/)
 - [James Webb Space Telescope discovers water around a mysterious comet](https://www.space.com/james-webb-space-telescope-comet-water)
 - [Chief Twit Elon Musk loses appeal to be able to tweet about Tesla unchecked](https://techcrunch.com/2023/05/15/chief-twit-elon-musk-loses-appeal-to-be-able-to-tweet-about-tesla-unchecked/)
 - [How to avoid AI commoditization: 3 tactics for running successful pilot programs](https://techcrunch.com/2023/05/15/how-to-avoid-ai-commoditization-3-tactics-for-running-successful-pilot-programs/)
-- [WhatsApp now lets you lock and hide individual chats](https://techcrunch.com/2023/05/15/whatsapp-now-lets-you-lock-and-hide-individual-chats/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
