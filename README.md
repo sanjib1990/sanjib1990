@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cold-chain startup Figorr raises $1.5M, backs the roll out of data-driven perishables insurance](https://techcrunch.com/2023/05/14/cold-chain-startup-figorr-raises-1-5m-backs-the-roll-out-of-data-driven-perishables-insurance/)
+- [Apple releases satellite-based emergency SOS feature in Australia and New Zealand](https://techcrunch.com/2023/05/14/apple-releases-satellite-based-emergency-sos-feature-in-australia-and-new-zealand/)
 - [Software snafus abound, Nuro makes more cuts and VinFast takes the SPAC road](https://techcrunch.com/2023/05/14/software-snafus-abound-nuro-makes-more-cuts-and-vinfast-takes-the-spac-road/)
 - [Fintech startup Brex was among the bidders for SVB’s early-stage and growth portfolios](https://techcrunch.com/2023/05/14/fintech-startup-brex-among-the-bidders-for-svbs-early-stage-and-growth-portfolios/)
 - [US tech policy must keep pace with AI innovation](https://techcrunch.com/2023/05/14/u-s-tech-policy-must-keep-pace-with-ai-innovation/)
-- [An open letter to tech workers about careers in public service](https://techcrunch.com/2023/05/14/an-open-letter-to-tech-workers-about-careers-in-public-service/)
-- [50 years ago, Skylab launched into orbit. See what it meant to an astronaut on a space station now.](https://www.space.com/skylab-space-station-50th-anniversary-astronaut-remembers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
