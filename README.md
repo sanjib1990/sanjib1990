@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [JUICE Jupiter probe spotted 1 million miles from Earth &lpar;video, image&rpar;](https://www.space.com/juice-jupiter-probe-telescope-photo)
+- [Phone Link for iOS is now available to all Windows 11 users, bringing iMessage and more to PCs](https://techcrunch.com/2023/05/15/phone-link-for-ios-is-now-available-to-all-windows-11-users/)
+- [Stratolaunch&#39;s huge Roc plane drops hypersonic test vehicle for 1st time &lpar;video&rpar;](https://www.space.com/stratolaunch-roc-hypersonic-vehicle-first-drop-test)
 - [Kevin Systrom explains why Artifact wants to treat writers like the creators they are](https://techcrunch.com/2023/05/15/kevin-systrom-explains-why-artifact-wants-to-treat-writers-like-the-creators-they-are/)
 - [Europe could be on the cusp of a golden era in robotics. Here’s why](https://techcrunch.com/2023/05/15/europe-could-be-on-the-cusp-of-a-golden-era-in-robotics-heres-why/)
-- [James Webb Space Telescope discovers water around a mysterious comet](https://www.space.com/james-webb-space-telescope-comet-water)
-- [Chief Twit Elon Musk loses appeal to be able to tweet about Tesla unchecked](https://techcrunch.com/2023/05/15/chief-twit-elon-musk-loses-appeal-to-be-able-to-tweet-about-tesla-unchecked/)
-- [How to avoid AI commoditization: 3 tactics for running successful pilot programs](https://techcrunch.com/2023/05/15/how-to-avoid-ai-commoditization-3-tactics-for-running-successful-pilot-programs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
