@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Vice files for bankrupcy, Foxconn’s investment in India, and two fascinating startup rounds](https://techcrunch.com/2023/05/15/vice-files-for-bankrupcy-foxconns-investment-in-india-and-two-fascinating-startup-rounds/)
+- [Binance is banking big on M&amp;A and VC deals](https://techcrunch.com/2023/05/15/binance-chief-business-officer-interview/)
+- [TechCrunch Live events, but a podcast](https://techcrunch.com/2023/05/15/techcrunch-live-events-but-a-podcast/)
+- [Hear how MinIO built a unicorn in object storage on top of Kubernetes and open source](https://techcrunch.com/2023/05/15/hear-how-minio-built-a-unicorn-in-object-storage-on-top-of-kubernetes-and-open-source/)
 - [Only hours left to apply to Startup Battlefield 200 at Disrupt](https://techcrunch.com/2023/05/15/last-day-apply-startup-battlefield-200-techcrunch-disrupt-2023/)
-- [Photographers capture the exact moment a gargantuan storm blasts out of the sun during a total solar eclipse](https://www.space.com/space/the-sun/photographers-capture-the-exact-moment-a-gargantuan-storm-blasts-out-of-the-sun-during-a-total-solar-eclipse)
-- [UK’s Space Forge debuts new reentry tech for in-space manufacturing satellites](https://techcrunch.com/2023/05/15/uks-space-forge-debuts-new-reentry-tech-for-in-space-manufacturing-satellites/)
-- [Blackstone sells IBS Software stake to Apax for $450 million](https://techcrunch.com/2023/05/15/blackstone-sells-ibs-software-stake-to-apax-for-450-million/)
-- [UK pension startup Smart banks $95M](https://techcrunch.com/2023/05/15/uk-pension-platform-smart-nabs-95m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
