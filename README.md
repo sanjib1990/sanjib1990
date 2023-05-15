@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX Ax-2 private astronaut mission is &#39;go&#39; for May 21 launch](https://www.space.com/spacex-ax-2-astronaut-mission-go-for-launch)
 - [NASA ditches giant &#39;superpressure&#39; balloon into Pacific Ocean after anomaly](https://www.space.com/nasa-destroys-superpressure-balloon-anomaly)
 - [Max Q: Space is vast](https://techcrunch.com/2023/05/15/max-q-space-is-vast/)
 - [Alphabet’s Intrinsic launches Flowstate, a robotic app development platform](https://techcrunch.com/2023/05/15/alphabets-intrinsic-launches-flowstate-a-robotic-app-development-platform/)
 - [Axiom Space Ax-2 private spaceflight with SpaceX: Live updates](https://www.space.com/news/live/axiom-space-missions-updates)
-- [Together raises $20M to build open source generative AI models](https://techcrunch.com/2023/05/15/together-raises-20m-to-build-open-source-generative-ai-models/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
