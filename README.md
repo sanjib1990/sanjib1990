@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [VCs love to talk about AI, but they aren’t writing as many checks as you might think](https://techcrunch.com/2023/05/15/ai-weak-investments/)
-- [ZestMoney founders resign as Goldman Sachs-backed fintech struggles to raise funds](https://techcrunch.com/2023/05/15/zestmoney-founders-resign-as-goldman-sachs-backed-fintech-struggles-to-raise-funds/)
-- [Chipolo brings its lost item trackers to Android’s Find My Device network](https://techcrunch.com/2023/05/15/chipolo-brings-its-lost-item-trackers-to-androids-find-my-device-network/)
-- [Cybercriminals who targeted Ukraine are actually Russian government hackers, researchers say](https://techcrunch.com/2023/05/15/cybercriminals-who-targeted-ukraine-are-actually-russian-government-hackers-researchers-say/)
-- [After a 29-year run, Vice files for bankruptcy](https://techcrunch.com/2023/05/15/after-a-29-year-run-vice-files-for-bankruptcy/)
+- [Active founders make good investors, but do they make good VCs?](https://techcrunch.com/2023/05/15/venture-capital-investors-active-founders/)
+- [Watch Nick Fury return in this &#39;Secret Invasion&#39; behind-the-scenes featurette from Marvel Studios &lpar;video&rpar;](https://www.space.com/secret-invasion-nick-fury-behind-the-scenes-featurette)
+- [Ahead of next Starship launch, SpaceX hires key NASA human spaceflight head](https://techcrunch.com/2023/05/15/ahead-of-next-starship-launch-spacex-hires-key-nasa-human-spaceflight-head/)
+- [The most powerful black holes in the universe may finally have an explanation](https://www.space.com/most-powerful-black-hole-may-finally-be-explained)
+- [Amazon is developing a ‘Lord of the Rings’ MMO](https://techcrunch.com/2023/05/15/amazon-is-developing-a-lord-of-the-rings-mmo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
