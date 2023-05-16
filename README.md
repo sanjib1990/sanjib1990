@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jenfi raises more funding for its “growth capital as a service” platform](https://techcrunch.com/2023/05/15/jenfi-pre-series-b/)
 - [Japanese construction tech Aldagram nails down backing from Panasonic](https://techcrunch.com/2023/05/15/japanese-construction-tech-aldagram-nails-down-backing-from-panasonic/)
 - [TuSimple gets temporary reprieve from Nasdaq delisting](https://techcrunch.com/2023/05/15/tusimple-gets-temporary-reprieve-from-nasdaq-delisting/)
 - [SpaceX Ax-2 private astronaut mission is &#39;go&#39; for May 21 launch](https://www.space.com/spacex-ax-2-astronaut-mission-go-for-launch)
 - [NASA ditches giant &#39;superpressure&#39; balloon into Pacific Ocean after anomaly](https://www.space.com/nasa-destroys-superpressure-balloon-anomaly)
-- [Max Q: Space is vast](https://techcrunch.com/2023/05/15/max-q-space-is-vast/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
