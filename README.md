@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Star Trek Into Darkness: The sequel that took the Kelvinverse wildly off course](https://www.space.com/star-trek-into-darkness-the-sequel-where-the-kelvinverse-went-wildly-off-course)
-- [Spotify expands AI-powered DJ feature to UK and Ireland](https://techcrunch.com/2023/05/16/spotify-expands-ai-powered-dj-feature-to-uk-and-ireland/)
-- [a16z-backed Rooms.xyz lets you build interactive, 3D rooms and simple games in your browser](https://techcrunch.com/2023/05/16/a16z-backed-rooms-xyz-lets-you-build-interactive-3d-rooms-and-simple-games-in-your-browser/)
-- [SpaceX hires former NASA human spaceflight chief Kathy Lueders: report](https://www.space.com/spacex-hires-nasa-human-spaceflight-chief-kathy-lueders)
-- [New private plan to rescue Hubble Space Telescope may also target space junk](https://www.space.com/hubble-space-telescope-rescue-space-debris)
+- [Apple reveals new accessibility features, like custom text-to-speech voices](https://techcrunch.com/2023/05/16/apple-reveals-upcoming-accessibility-features-for-iphone-ipad-and-mac/)
+- [ANYBotics raises $50 million to help deploy its robot dog](https://techcrunch.com/2023/05/16/anybotics-raises-50-million-to-help-deploy-its-robot-dog/)
+- [Apollo 11 moonwalker Buzz Aldrin honored as Air Force one-star, Space Force Guardian](https://www.space.com/apollo-11-moonwalker-buzz-aldrin-honorary-promotion-brigadier-general)
+- [Spiff begins ‘massive overhaul of core sales commission engine’ following $50M Series C](https://techcrunch.com/2023/05/16/spiff-sales-commission-50m-series-c/)
+- [The Matrix sequels at 20: Are they really that bad?](https://www.space.com/the-matrix-sequels-at-20-are-they-really-that-bad)
 <!-- BLOG-POST-LIST:END -->
 
 ---
