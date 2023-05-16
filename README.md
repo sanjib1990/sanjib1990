@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Telly, the ‘free’ smart TV with ads, has privacy policy red flags](https://techcrunch.com/2023/05/16/telly-free-smart-tv-privacy-policy/)
+- [See Jupiter hide behind the moon during a lunar occultation early on May 17](https://www.space.com/jupiter-hide-behind-moon-lunar-occultation-may-2023)
+- [‘Midjourney China’ launches – then its announcement disappears](https://techcrunch.com/2023/05/16/midjourney-comes-to-china/)
+- [Motherhood, mentorship, and management with Kamakshi Sivaramakrishnan from Samooha](https://techcrunch.com/2023/05/16/motherhood-mentorship-and-management-with-kamakshi-sivaramakrishnan-from-samooha/)
 - [Self-driving cars are taking ages to become a reality, but they won’t take forever](https://techcrunch.com/2023/05/16/self-driving-tech-predictions/)
-- [TechCrunch+ roundup: Psychedelics VC survey, how to run an AI pilot, Europe’s robotics renaissance](https://techcrunch.com/2023/05/16/techcrunch-roundup-psychedelics-vc-survey-how-to-run-an-ai-pilot-europes-robotics-renaissance/)
-- [Tangible wants to scale up construction decarbonization](https://techcrunch.com/2023/05/16/tangible-seed-round/)
-- [Picsart adds interest-driven communities called ‘Spaces’ for social collaboration](https://techcrunch.com/2023/05/16/picsart-interest-driven-communities-spaces-social-collaboration/)
-- [US sanctions Russian accused of being a ‘central figure’ in major ransomware attacks](https://techcrunch.com/2023/05/16/doj-sanctions-matveev-wazawaka-ransomware/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
