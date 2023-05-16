@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Async replaces work calls with asynchronous voice messages](https://techcrunch.com/2023/05/16/async-replaces-work-calls-with-asynchronous-voice-messages/)
-- [Sanctuary AI’s new humanoid robot stands 5’7″ and lifts 55 lb](https://techcrunch.com/2023/05/16/sanctuary-ais-new-humanoid-robot-stands-57-and-lifts-55-lbs/)
-- [The Milky Way galaxy may be a different shape than we thought](https://www.space.com/milky-way-galaxy-different-shape)
-- [Hippocratic is building a large language model for healthcare](https://techcrunch.com/2023/05/16/hippocratic-is-building-a-large-language-model-for-healthcare/)
-- [Read-it-later app Pocket now you lets you create article lists](https://techcrunch.com/2023/05/16/read-it-later-app-pocket-now-you-lets-you-create-article-lists/)
+- [Apple brings concert discovery features to Apple Music and Apple Maps](https://techcrunch.com/2023/05/16/apple-brings-concert-discovery-features-to-apple-music-and-apple-maps/)
+- [How to get warm introductions to investors](https://techcrunch.com/2023/05/16/warm-and-cold-investor-introductions/)
+- [Youth mental health startup Somethings launches with a $3.2M raise led by General Catalyst](https://techcrunch.com/2023/05/16/youth-mental-health-startup-somethings-launches-with-a-3-2m-raise-led-by-general-catalyst/)
+- [Lego announce new Batcave set from the &quot;Batman Returns&quot; movie](https://www.space.com/new-lego-batman-returns-shadow-box-set)
+- [US pharmacy giant says hackers accessed personal data of almost 6 million patients](https://techcrunch.com/2023/05/16/us-pharmacy-giant-says-hackers-accessed-personal-data-of-almost-6-million-patients/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
