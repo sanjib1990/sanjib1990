@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DJI Inspire 3 review](https://www.space.com/dji-inspire-3-review)
+- [Quilt raises $9M seed round to become the Nest of heat pumps](https://techcrunch.com/2023/05/16/quilt-smart-heat-pumps-seed-funding/)
+- [Bumble users can share their favorite artists with new Spotify feature](https://techcrunch.com/2023/05/16/bumble-users-can-share-their-favorite-music-artists-with-spotify-feature/)
+- [TikTok launches Effect Creator Rewards, a new fund that pays creators for popular effects](https://techcrunch.com/2023/05/16/tiktok-effect-creator-rewards-fund-pays-creators-popular-effects/)
 - [Apple brings concert discovery features to Apple Music and Apple Maps](https://techcrunch.com/2023/05/16/apple-brings-concert-discovery-features-to-apple-music-and-apple-maps/)
-- [How to get warm introductions to investors](https://techcrunch.com/2023/05/16/warm-and-cold-investor-introductions/)
-- [Youth mental health startup Somethings launches with a $3.2M raise led by General Catalyst](https://techcrunch.com/2023/05/16/youth-mental-health-startup-somethings-launches-with-a-3-2m-raise-led-by-general-catalyst/)
-- [Lego announce new Batcave set from the &quot;Batman Returns&quot; movie](https://www.space.com/new-lego-batman-returns-shadow-box-set)
-- [US pharmacy giant says hackers accessed personal data of almost 6 million patients](https://techcrunch.com/2023/05/16/us-pharmacy-giant-says-hackers-accessed-personal-data-of-almost-6-million-patients/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
