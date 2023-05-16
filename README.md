@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How our fintech startup became SEC-compliant](https://techcrunch.com/2023/05/16/how-our-fintech-startup-became-sec-compliant/)
+- [Twitter is still vital for the space community. A former NASA astronaut explains why](https://www.space.com/nasa-astronaut-twitter-science-communication)
 - [Telly, the ‘free’ smart TV with ads, has privacy policy red flags](https://techcrunch.com/2023/05/16/telly-free-smart-tv-privacy-policy/)
 - [See Jupiter hide behind the moon during a lunar occultation early on May 17](https://www.space.com/jupiter-hide-behind-moon-lunar-occultation-may-2023)
 - [‘Midjourney China’ launches – then its announcement disappears](https://techcrunch.com/2023/05/16/midjourney-comes-to-china/)
-- [Motherhood, mentorship, and management with Kamakshi Sivaramakrishnan from Samooha](https://techcrunch.com/2023/05/16/motherhood-mentorship-and-management-with-kamakshi-sivaramakrishnan-from-samooha/)
-- [Self-driving cars are taking ages to become a reality, but they won’t take forever](https://techcrunch.com/2023/05/16/self-driving-tech-predictions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
