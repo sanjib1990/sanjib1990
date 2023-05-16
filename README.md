@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple reveals new accessibility features, like custom text-to-speech voices](https://techcrunch.com/2023/05/16/apple-reveals-upcoming-accessibility-features-for-iphone-ipad-and-mac/)
-- [ANYBotics raises $50 million to help deploy its robot dog](https://techcrunch.com/2023/05/16/anybotics-raises-50-million-to-help-deploy-its-robot-dog/)
-- [Apollo 11 moonwalker Buzz Aldrin honored as Air Force one-star, Space Force Guardian](https://www.space.com/apollo-11-moonwalker-buzz-aldrin-honorary-promotion-brigadier-general)
-- [Spiff begins ‘massive overhaul of core sales commission engine’ following $50M Series C](https://techcrunch.com/2023/05/16/spiff-sales-commission-50m-series-c/)
-- [The Matrix sequels at 20: Are they really that bad?](https://www.space.com/the-matrix-sequels-at-20-are-they-really-that-bad)
+- [Async replaces work calls with asynchronous voice messages](https://techcrunch.com/2023/05/16/async-replaces-work-calls-with-asynchronous-voice-messages/)
+- [Sanctuary AI’s new humanoid robot stands 5’7″ and lifts 55 lb](https://techcrunch.com/2023/05/16/sanctuary-ais-new-humanoid-robot-stands-57-and-lifts-55-lbs/)
+- [The Milky Way galaxy may be a different shape than we thought](https://www.space.com/milky-way-galaxy-different-shape)
+- [Hippocratic is building a large language model for healthcare](https://techcrunch.com/2023/05/16/hippocratic-is-building-a-large-language-model-for-healthcare/)
+- [Read-it-later app Pocket now you lets you create article lists](https://techcrunch.com/2023/05/16/read-it-later-app-pocket-now-you-lets-you-create-article-lists/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
