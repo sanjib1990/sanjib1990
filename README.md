@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [DJI Inspire 3 review](https://www.space.com/dji-inspire-3-review)
-- [Quilt raises $9M seed round to become the Nest of heat pumps](https://techcrunch.com/2023/05/16/quilt-smart-heat-pumps-seed-funding/)
-- [Bumble users can share their favorite artists with new Spotify feature](https://techcrunch.com/2023/05/16/bumble-users-can-share-their-favorite-music-artists-with-spotify-feature/)
-- [TikTok launches Effect Creator Rewards, a new fund that pays creators for popular effects](https://techcrunch.com/2023/05/16/tiktok-effect-creator-rewards-fund-pays-creators-popular-effects/)
-- [Apple brings concert discovery features to Apple Music and Apple Maps](https://techcrunch.com/2023/05/16/apple-brings-concert-discovery-features-to-apple-music-and-apple-maps/)
+- [Birdwatching tech startup Bird Buddy introduces an AI-powered Smart Hummingbird Feeder and Bird Bath](https://techcrunch.com/2023/05/16/birdwatching-tech-startup-bird-buddy-introduces-an-ai-powered-smart-hummingbird-feeder-and-bird-bath/)
+- [Bold proposal aims to bring NASA&#39;s deep-space Spitzer telescope back to life](https://www.space.com/nasa-spitzer-space-telescope-resurrector-mission-proposal)
+- [Without Black representation in climate tech, ‘the planet will burn’](https://techcrunch.com/2023/05/16/climate-tech-diversity-investments/)
+- [Google to delete accounts inactive for two years in security push](https://techcrunch.com/2023/05/16/google-to-delete-accounts-inactive-for-two-years-in-security-push/)
+- [Kustomer, the CRM startup acquired by Meta last year for $1B, spins out on a $250M valuation](https://techcrunch.com/2023/05/16/kustomer-meta-spin-out/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
