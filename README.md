@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How our fintech startup became SEC-compliant](https://techcrunch.com/2023/05/16/how-our-fintech-startup-became-sec-compliant/)
-- [Twitter is still vital for the space community. A former NASA astronaut explains why](https://www.space.com/nasa-astronaut-twitter-science-communication)
-- [Telly, the ‘free’ smart TV with ads, has privacy policy red flags](https://techcrunch.com/2023/05/16/telly-free-smart-tv-privacy-policy/)
-- [See Jupiter hide behind the moon during a lunar occultation early on May 17](https://www.space.com/jupiter-hide-behind-moon-lunar-occultation-may-2023)
-- [‘Midjourney China’ launches – then its announcement disappears](https://techcrunch.com/2023/05/16/midjourney-comes-to-china/)
+- [5 ways SaaS companies can level up their product-led growth](https://techcrunch.com/2023/05/16/5-ways-saas-companies-can-level-up-their-product-led-growth/)
+- [Ax-2 private astronauts can&#39;t wait for their May 21 SpaceX launch to the space station](https://www.space.com/ax-2-astronauts-excited-spacex-launch)
+- [Titanic cosmic bubbles blown by the Milky Way are surprisingly complex](https://www.space.com/milky-way-erosita-bubbles-surprisingly-complex)
+- [Even as crypto exchanges exit Canada, Coinbase intends to play the ‘long game’](https://techcrunch.com/2023/05/16/canada-binance-coinbase-crypto-regulations/)
+- [Tesla shareholders elect former CTO, co-founder JB Straubel to board](https://techcrunch.com/2023/05/16/tesla-shareholders-elect-former-cto-co-founder-jb-straubel-to-board/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
