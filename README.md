@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Star Trek Into Darkness: The sequel that took the Kelvinverse wildly off course](https://www.space.com/star-trek-into-darkness-the-sequel-where-the-kelvinverse-went-wildly-off-course)
+- [Spotify expands AI-powered DJ feature to UK and Ireland](https://techcrunch.com/2023/05/16/spotify-expands-ai-powered-dj-feature-to-uk-and-ireland/)
 - [a16z-backed Rooms.xyz lets you build interactive, 3D rooms and simple games in your browser](https://techcrunch.com/2023/05/16/a16z-backed-rooms-xyz-lets-you-build-interactive-3d-rooms-and-simple-games-in-your-browser/)
 - [SpaceX hires former NASA human spaceflight chief Kathy Lueders: report](https://www.space.com/spacex-hires-nasa-human-spaceflight-chief-kathy-lueders)
 - [New private plan to rescue Hubble Space Telescope may also target space junk](https://www.space.com/hubble-space-telescope-rescue-space-debris)
-- [This UK startup plans to radically shake-up the antiquated word of COPD measurement](https://techcrunch.com/2023/05/16/this-uk-startup-plans-to-radically-shake-up-the-antiquated-word-of-copd-measurement/)
-- [Logitech launches the Logitech G Cloud gaming handheld in Europe](https://techcrunch.com/2023/05/16/logitech-launches-the-logitech-g-cloud-gaming-handheld-in-europe/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
