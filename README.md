@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [a16z-backed Rooms.xyz lets you build interactive, 3D rooms and simple games in your browser](https://techcrunch.com/2023/05/16/a16z-backed-rooms-xyz-lets-you-build-interactive-3d-rooms-and-simple-games-in-your-browser/)
+- [SpaceX hires former NASA human spaceflight chief Kathy Lueders: report](https://www.space.com/spacex-hires-nasa-human-spaceflight-chief-kathy-lueders)
+- [New private plan to rescue Hubble Space Telescope may also target space junk](https://www.space.com/hubble-space-telescope-rescue-space-debris)
 - [This UK startup plans to radically shake-up the antiquated word of COPD measurement](https://techcrunch.com/2023/05/16/this-uk-startup-plans-to-radically-shake-up-the-antiquated-word-of-copd-measurement/)
 - [Logitech launches the Logitech G Cloud gaming handheld in Europe](https://techcrunch.com/2023/05/16/logitech-launches-the-logitech-g-cloud-gaming-handheld-in-europe/)
-- [Renowned investor Elad Gil on how the great AI race will likely shake out](https://techcrunch.com/2023/05/15/renowned-investor-elad-gil-on-how-the-great-ai-race-will-likely-shake-out/)
-- [Jenfi raises more funding for its “growth capital as a service” platform](https://techcrunch.com/2023/05/15/jenfi-pre-series-b/)
-- [Japanese construction tech Aldagram nails down backing from Panasonic](https://techcrunch.com/2023/05/15/japanese-construction-tech-aldagram-nails-down-backing-from-panasonic/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
