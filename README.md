@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This UK startup plans to radically shake-up the antiquated word of COPD measurement](https://techcrunch.com/2023/05/16/this-uk-startup-plans-to-radically-shake-up-the-antiquated-word-of-copd-measurement/)
 - [Logitech launches the Logitech G Cloud gaming handheld in Europe](https://techcrunch.com/2023/05/16/logitech-launches-the-logitech-g-cloud-gaming-handheld-in-europe/)
 - [Renowned investor Elad Gil on how the great AI race will likely shake out](https://techcrunch.com/2023/05/15/renowned-investor-elad-gil-on-how-the-great-ai-race-will-likely-shake-out/)
 - [Jenfi raises more funding for its “growth capital as a service” platform](https://techcrunch.com/2023/05/15/jenfi-pre-series-b/)
 - [Japanese construction tech Aldagram nails down backing from Panasonic](https://techcrunch.com/2023/05/15/japanese-construction-tech-aldagram-nails-down-backing-from-panasonic/)
-- [TuSimple gets temporary reprieve from Nasdaq delisting](https://techcrunch.com/2023/05/15/tusimple-gets-temporary-reprieve-from-nasdaq-delisting/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
