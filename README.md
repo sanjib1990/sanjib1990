@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Birdwatching tech startup Bird Buddy introduces an AI-powered Smart Hummingbird Feeder and Bird Bath](https://techcrunch.com/2023/05/16/birdwatching-tech-startup-bird-buddy-introduces-an-ai-powered-smart-hummingbird-feeder-and-bird-bath/)
-- [Bold proposal aims to bring NASA&#39;s deep-space Spitzer telescope back to life](https://www.space.com/nasa-spitzer-space-telescope-resurrector-mission-proposal)
-- [Without Black representation in climate tech, ‘the planet will burn’](https://techcrunch.com/2023/05/16/climate-tech-diversity-investments/)
-- [Google to delete accounts inactive for two years in security push](https://techcrunch.com/2023/05/16/google-to-delete-accounts-inactive-for-two-years-in-security-push/)
-- [Kustomer, the CRM startup acquired by Meta last year for $1B, spins out on a $250M valuation](https://techcrunch.com/2023/05/16/kustomer-meta-spin-out/)
+- [Self-driving cars are taking ages to become a reality, but they won’t take forever](https://techcrunch.com/2023/05/16/self-driving-tech-predictions/)
+- [TechCrunch+ roundup: Psychedelics VC survey, how to run an AI pilot, Europe’s robotics renaissance](https://techcrunch.com/2023/05/16/techcrunch-roundup-psychedelics-vc-survey-how-to-run-an-ai-pilot-europes-robotics-renaissance/)
+- [Tangible wants to scale up construction decarbonization](https://techcrunch.com/2023/05/16/tangible-seed-round/)
+- [Picsart adds interest-driven communities called ‘Spaces’ for social collaboration](https://techcrunch.com/2023/05/16/picsart-interest-driven-communities-spaces-social-collaboration/)
+- [US sanctions Russian accused of being a ‘central figure’ in major ransomware attacks](https://techcrunch.com/2023/05/16/doj-sanctions-matveev-wazawaka-ransomware/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
