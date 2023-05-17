@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [In a more conservative venture capital market, will big tech step up?](https://techcrunch.com/2023/05/17/in-a-more-conservative-venture-capital-market-will-big-tech-step-up/)
-- [Could the floating islands in &#39;The Legend of Zelda: Tears of the Kingdom&#39; exist?](https://www.space.com/zelda-tears-of-the-kingdom-floating-islands-in-real-life)
-- [Amazon undercuts the Echo Dot with the $40 Echo Pop](https://techcrunch.com/2023/05/17/amazon-echo-pop/)
-- [Amazon refreshes its Echo lineup, adds a Wi-Fi extender and smart speaker combo, Echo Pop](https://techcrunch.com/2023/05/17/amazon-refreshes-its-echo-lineup-adds-a-wi-fi-extender-and-smart-speaker-combo-echo-pop/)
-- [Beats launches $169 Studio Buds + with a transparent option](https://techcrunch.com/2023/05/17/beats-launches-169-studio-buds-with-a-transparent-option/)
+- [Emerging managers shouldn’t rush a first close – even in this market](https://techcrunch.com/2023/05/17/emerging-managers-first-close-downturn/)
+- [Kubernetes and sigstore founders raise $17.5M to launch software supply chain startup Stacklok](https://techcrunch.com/2023/05/17/kubernetes-and-sigstore-founders-raise-17-5m-to-launch-software-supply-chain-startup-stacklok/)
+- [LayerZero and Immunefi launch largest crypto bug bounty program with up to $15M in rewards](https://techcrunch.com/2023/05/17/layerzero-and-immunefi-launch-largest-crypto-bug-bounty-program-with-up-to-15m-in-rewards/)
+- [You can now hail an Uber by calling a number](https://techcrunch.com/2023/05/17/you-can-now-hail-an-uber-by-calling-a-number/)
+- [Uber launches private chartered boats in Mykonos](https://techcrunch.com/2023/05/17/uber-launches-private-chartered-boats-in-mykonos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
