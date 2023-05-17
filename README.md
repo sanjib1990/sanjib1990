@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Montana just banned TikTok](https://techcrunch.com/2023/05/17/montana-just-banned-tiktok/)
+- [Netflix touts nearly 5M monthly active users for ad-supported tier](https://techcrunch.com/2023/05/17/netflix-touts-successful-ad-tier-with-nearly-5m-monthly-active-users/)
 - [Zelda: Tears of the Kingdom early impressions – a feast fit for a short king](https://techcrunch.com/2023/05/17/zelda-tears-of-the-kingdom-early-impressions-a-feast-fit-for-a-short-king/)
 - [Record-breaking amateur rocket soars higher than Mt. Everest](https://www.space.com/record-breaking-amateur-rocket-flight-higher-mount-everest)
 - [Take a sneak peek at new &#39;Star Trek: The Motion Picture — Echoes&#39; comic series out May 17 &lpar;exclusive&rpar;](https://www.space.com/star-trek-motion-picture-echoes-comic-evil-twins)
-- [Artemis 2 crew begins 1st moon mission training in 50 years](https://www.space.com/artemis-2-moon-crew-mission-training)
-- [Your first look at Alliance DAO’s latest cohort of web3 startups](https://techcrunch.com/2023/05/17/your-first-look-at-alliance-daos-latest-cohort-of-web3-startups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
