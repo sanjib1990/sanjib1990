@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Entro raises $6M to for its end-to-end secrets security solution](https://techcrunch.com/2023/05/17/entro-raises-6m-to-for-its-end-to-end-secrets-security-solution/)
+- [Eagle Eye Networks and Brivo raise $192M in a joint round to boost cloud security business](https://techcrunch.com/2023/05/17/eagle-eye-networks-and-brivo-raise-192m-in-a-joint-round-to-boost-cloud-security-business/)
 - [See the moon meet up with elusive Mercury in a conjunction today](https://www.space.com/moon-meets-mercury-may-2023)
 - [Axiom Space&#39;s Ax-2: What to know about the 2nd private astronaut mission to the space station](https://www.space.com/axiom-space-ax-2-mission-explainer)
 - [Google pushes ahead with in-app billing policy in India, insists watchdog compliance](https://techcrunch.com/2023/05/17/google-pushes-ahead-with-in-app-billing-policy-in-india-insists-watchdog-compliance/)
-- [Tiger Global-backed Axis launches digital payments platform for Egyptian SMEs months after its $8.25M seed](https://techcrunch.com/2023/05/17/tiger-global-backed-axis-launches-digital-payments-platform-for-egyptian-smes-months-after-its-8-25m-seed/)
-- [Jia, a blockchain-based lender of small businesses in emerging markets, raises $4.3 million seed](https://techcrunch.com/2023/05/17/jia-a-blockchain-based-lender-of-small-businesses-in-emerging-markets-raises-4-3-million-seed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
