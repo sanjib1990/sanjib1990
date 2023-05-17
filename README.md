@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Zombie white dwarf fed on neighbor star until bursting in a thermonuclear explosion](https://www.space.com/supernova-exploding-star-cosmic-vampire)
+- [Pew: 60% of U.S. Twitter users have ‘taken a break’ from the platform in the past year](https://techcrunch.com/2023/05/17/pew-60-of-u-s-twitter-users-have-taken-a-break-from-the-platform-in-the-past-year/)
+- [5 investors discuss what’s in store for venture debt following SVB’s collapse](https://techcrunch.com/2023/05/17/venture-debt-svb-investor-survey/)
 - [Comedian Hasan Minhaj can now direct you through traffic on Waze](https://techcrunch.com/2023/05/17/comedian-hasan-minhaj-new-waze-partnership/)
-- [Ask Sophie: Which visas are best for U.S. startup accelerators?](https://techcrunch.com/2023/05/17/ask-sophie-which-visas-are-best-for-u-s-startup-accelerators/)
-- [Greenwood’s Ryan Glover to speak on the economics of building a Black business at TechCrunch Live’s Atlanta event](https://techcrunch.com/2023/05/17/greenwoods-ryan-glover-to-speak-on-the-economics-of-building-a-black-business-at-techcrunch-lives-atlanta-event/)
-- [Are rising seed-stage valuations a poisoned gift for startups?](https://techcrunch.com/2023/05/17/rising-seed-stage-valuations/)
-- [Stratolaunch submits $17M bid for some of Virgin Orbit’s assets](https://techcrunch.com/2023/05/17/stratolaunch-submits-17m-bid-for-some-of-virgin-orbits-assets/)
+- [Volcanoes may carpet surface of newfound Earth-size exoplanet](https://www.space.com/earth-size-exoplanet-volcanoes-nasa-tess)
 <!-- BLOG-POST-LIST:END -->
 
 ---
