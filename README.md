@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How Seedcamp’s networked approach to Europe helped it secure new $180M fund](https://techcrunch.com/2023/05/17/how-seedcamps-networked-approach-to-europe-helped-it-secure-new-180m-fund/)
-- [Insurtech bolttech gets $196M at $1.6B valuation from investors like MetLife](https://techcrunch.com/2023/05/17/bolttech/)
-- [Radiation belt seen beyond our solar system for the 1st time](https://www.space.com/dwarf-star-radiation-belt-first-outside-solar-system)
-- [France’s privacy watchdog eyes protection against data-scraping in AI action plan](https://techcrunch.com/2023/05/17/cnil-ai-action-plan/)
-- [Entro raises $6M to for its end-to-end secrets security solution](https://techcrunch.com/2023/05/17/entro-raises-6m-to-for-its-end-to-end-secrets-security-solution/)
+- [Register for upcoming TechCrunch Live events right here](https://techcrunch.com/2023/05/17/register-for-upcoming-techcrunch-live-events-right-here/)
+- [Disrupt 2023 Audience Choice voting ends today](https://techcrunch.com/2023/05/17/disrupt-2023-audience-choice-voting-ends-today/)
+- [Building telescopes on the moon could transform astronomy – and it&#39;s becoming an achievable goal](https://www.space.com/building-telescopes-on-the-moon)
+- [Instagram starts supporting GIFs in comments and collaborators in broadcast channels](https://techcrunch.com/2023/05/17/instagram-starts-supporting-gifs-in-comments-and-collaborators-in-broadcast-channels/)
+- [India introduces a $2B program to boost local IT hardware production](https://techcrunch.com/2023/05/17/india-it-hardware-pli-scheme/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
