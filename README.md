@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [From root to crown, Mast Reforestation is regrowing the tree economy for the 21st century](https://techcrunch.com/2023/05/17/from-root-to-crown-mast-reforestation-is-regrowing-the-tree-economy-for-the-21st-century/)
-- [Traefik Labs launches Traefik Hub, a Kubernetes-native API management service](https://techcrunch.com/2023/05/17/traefik-labs-launches-traefik-hub-a-kubernetes-native-api-management-service/)
-- [AI touches everything, everywhere all at once at Disrupt](https://techcrunch.com/2023/05/17/ai-touches-everything-everywhere-all-at-once-at-disrupt/)
-- [Union AI raises $19.1M Series A to simplify AI and data workflows with Flyte](https://techcrunch.com/2023/05/17/union-ai-raises-19-1m-series-a-to-simplify-ai-and-data-workflows-with-flyte/)
-- [Audio journalism app Curio can now create personalized episodes using AI](https://techcrunch.com/2023/05/17/audio-journalism-app-curio-can-now-create-personalized-episodes-using-ai/)
+- [Stratolaunch submits $17M bid for some of Virgin Orbit’s assets](https://techcrunch.com/2023/05/17/stratolaunch-submits-17m-bid-for-some-of-virgin-orbits-assets/)
+- [Freshly shareholders, including Insight Partners, sue Nestlé for ‘failing to make earnout payments’](https://techcrunch.com/2023/05/17/freshly-shareholders-including-insight-partners-sue-nestle-for-failing-to-make-earnout-payments/)
+- [Years after its Audm acquisition, The New York Times launches its own audio app](https://techcrunch.com/2023/05/17/years-after-its-audm-acquisition-the-new-york-times-launches-its-own-audio-app/)
+- [Varda Space raising new tranche of funding at $500M post-money valuation](https://techcrunch.com/2023/05/17/varda-space-raising-new-tranche-of-funding-at-500m-post-money-valuation/)
+- [Violent origins of gravitational waves probed by new telescope array](https://www.space.com/gravitational-wave-origins-blackgem-telescope-array)
 <!-- BLOG-POST-LIST:END -->
 
 ---
