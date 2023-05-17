@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Comedian Hasan Minhaj can now direct you through traffic on Waze](https://techcrunch.com/2023/05/17/comedian-hasan-minhaj-new-waze-partnership/)
+- [Ask Sophie: Which visas are best for U.S. startup accelerators?](https://techcrunch.com/2023/05/17/ask-sophie-which-visas-are-best-for-u-s-startup-accelerators/)
+- [Greenwood’s Ryan Glover to speak on the economics of building a Black business at TechCrunch Live’s Atlanta event](https://techcrunch.com/2023/05/17/greenwoods-ryan-glover-to-speak-on-the-economics-of-building-a-black-business-at-techcrunch-lives-atlanta-event/)
+- [Are rising seed-stage valuations a poisoned gift for startups?](https://techcrunch.com/2023/05/17/rising-seed-stage-valuations/)
 - [Stratolaunch submits $17M bid for some of Virgin Orbit’s assets](https://techcrunch.com/2023/05/17/stratolaunch-submits-17m-bid-for-some-of-virgin-orbits-assets/)
-- [Freshly shareholders, including Insight Partners, sue Nestlé for ‘failing to make earnout payments’](https://techcrunch.com/2023/05/17/freshly-shareholders-including-insight-partners-sue-nestle-for-failing-to-make-earnout-payments/)
-- [Years after its Audm acquisition, The New York Times launches its own audio app](https://techcrunch.com/2023/05/17/years-after-its-audm-acquisition-the-new-york-times-launches-its-own-audio-app/)
-- [Varda Space raising new tranche of funding at $500M post-money valuation](https://techcrunch.com/2023/05/17/varda-space-raising-new-tranche-of-funding-at-500m-post-money-valuation/)
-- [Violent origins of gravitational waves probed by new telescope array](https://www.space.com/gravitational-wave-origins-blackgem-telescope-array)
 <!-- BLOG-POST-LIST:END -->
 
 ---
