@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta’s paid verification program is now available in the UK](https://techcrunch.com/2023/05/16/metas-paid-verification-program-is-now-available-in-the-uk/)
 - [Wefox secures new funding at $4.5 billion valuation as it aims for profitability](https://techcrunch.com/2023/05/16/wefox-secures-new-funding-at-45-billion-valuation-as-it-aims-for-profitability/)
 - [Singapore’s Ora takes a vertically-integrated approach to telehealth](https://techcrunch.com/2023/05/16/ora/)
 - [Tesla shareholders meeting: no succession plan, a co-founder returns and two EVs teased](https://techcrunch.com/2023/05/16/tesla-shareholders-meeting-no-succession-plan-a-co-founder-returns-and-two-evs-teased/)
 - [Tesla Roadster production has been pushed back again](https://techcrunch.com/2023/05/16/tesla-roadster-production-has-been-pushed-back-again/)
-- [Elon Musk teases two new EVs, says Tesla is already building one](https://techcrunch.com/2023/05/16/elon-musk-teases-two-new-evs-says-tesla-is-already-building-one/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
