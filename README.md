@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla shareholders meeting: no succession plan, a co-founder returns and two EVs teased](https://techcrunch.com/2023/05/16/tesla-shareholders-meeting-no-succession-plan-a-co-founder-returns-and-two-evs-teased/)
 - [Tesla Roadster production has been pushed back again](https://techcrunch.com/2023/05/16/tesla-roadster-production-has-been-pushed-back-again/)
 - [Elon Musk teases two new EVs, says Tesla is already building one](https://techcrunch.com/2023/05/16/elon-musk-teases-two-new-evs-says-tesla-is-already-building-one/)
 - [Elon Musk says Tesla will ‘try a little advertising’](https://techcrunch.com/2023/05/16/elon-musk-says-tesla-will-try-a-little-advertising/)
 - [5 ways SaaS companies can level up their product-led growth](https://techcrunch.com/2023/05/16/5-ways-saas-companies-can-level-up-their-product-led-growth/)
-- [Meet the 4 astronauts of SpaceX&#39;s Ax-2 mission for Axiom Space](https://www.space.com/axiom-space-ax-2-meet-the-crew)
 <!-- BLOG-POST-LIST:END -->
 
 ---
