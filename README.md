@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Register for upcoming TechCrunch Live events right here](https://techcrunch.com/2023/05/17/register-for-upcoming-techcrunch-live-events-right-here/)
-- [Disrupt 2023 Audience Choice voting ends today](https://techcrunch.com/2023/05/17/disrupt-2023-audience-choice-voting-ends-today/)
-- [Building telescopes on the moon could transform astronomy – and it&#39;s becoming an achievable goal](https://www.space.com/building-telescopes-on-the-moon)
-- [Instagram starts supporting GIFs in comments and collaborators in broadcast channels](https://techcrunch.com/2023/05/17/instagram-starts-supporting-gifs-in-comments-and-collaborators-in-broadcast-channels/)
-- [India introduces a $2B program to boost local IT hardware production](https://techcrunch.com/2023/05/17/india-it-hardware-pli-scheme/)
+- [In a more conservative venture capital market, will big tech step up?](https://techcrunch.com/2023/05/17/in-a-more-conservative-venture-capital-market-will-big-tech-step-up/)
+- [Could the floating islands in &#39;The Legend of Zelda: Tears of the Kingdom&#39; exist?](https://www.space.com/zelda-tears-of-the-kingdom-floating-islands-in-real-life)
+- [Amazon undercuts the Echo Dot with the $40 Echo Pop](https://techcrunch.com/2023/05/17/amazon-echo-pop/)
+- [Amazon refreshes its Echo lineup, adds a Wi-Fi extender and smart speaker combo, Echo Pop](https://techcrunch.com/2023/05/17/amazon-refreshes-its-echo-lineup-adds-a-wi-fi-extender-and-smart-speaker-combo-echo-pop/)
+- [Beats launches $169 Studio Buds + with a transparent option](https://techcrunch.com/2023/05/17/beats-launches-169-studio-buds-with-a-transparent-option/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
