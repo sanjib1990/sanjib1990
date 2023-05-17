@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tiger Global-backed Axis launches digital payments platform for Egyptian SMEs months after its $8.25M seed](https://techcrunch.com/2023/05/17/tiger-global-backed-axis-launches-digital-payments-platform-for-egyptian-smes-months-after-its-8-25m-seed/)
+- [Jia, a blockchain-based lender of small businesses in emerging markets, raises $4.3 million seed](https://techcrunch.com/2023/05/17/jia-a-blockchain-based-lender-of-small-businesses-in-emerging-markets-raises-4-3-million-seed/)
 - [Finnish VC firm Lifeline Ventures closes $163M fund for early-stage startups](https://techcrunch.com/2023/05/17/finnish-vc-firm-lifeline-ventures-closes-164m-fund-for-early-stage-startups/)
 - [Meta’s paid verification program is now available in the UK](https://techcrunch.com/2023/05/16/metas-paid-verification-program-is-now-available-in-the-uk/)
 - [Wefox secures new funding at $4.5 billion valuation as it aims for profitability](https://techcrunch.com/2023/05/16/wefox-secures-new-funding-at-45-billion-valuation-as-it-aims-for-profitability/)
-- [Singapore’s Ora takes a vertically-integrated approach to telehealth](https://techcrunch.com/2023/05/16/ora/)
-- [Tesla shareholders meeting: no succession plan, a co-founder returns and two EVs teased](https://techcrunch.com/2023/05/16/tesla-shareholders-meeting-no-succession-plan-a-co-founder-returns-and-two-evs-teased/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
