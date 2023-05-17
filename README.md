@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Take a sneak peek at new &#39;Star Trek: The Motion Picture — Echoes&#39; comic series out May 17 &lpar;exclusive&rpar;](https://www.space.com/star-trek-motion-picture-echoes-comic-evil-twins)
 - [Artemis 2 crew begins 1st moon mission training in 50 years](https://www.space.com/artemis-2-moon-crew-mission-training)
 - [Your first look at Alliance DAO’s latest cohort of web3 startups](https://techcrunch.com/2023/05/17/your-first-look-at-alliance-daos-latest-cohort-of-web3-startups/)
-- [Zombie white dwarf fed on neighbor star until bursting in a thermonuclear explosion](https://www.space.com/supernova-exploding-star-cosmic-vampire)
+- [Zombie white dwarf fed on neighbor star until exploding in a thermonuclear blast](https://www.space.com/supernova-exploding-star-cosmic-vampire)
 - [Pew: 60% of U.S. Twitter users have ‘taken a break’ from the platform in the past year](https://techcrunch.com/2023/05/17/pew-60-of-u-s-twitter-users-have-taken-a-break-from-the-platform-in-the-past-year/)
-- [5 investors discuss what’s in store for venture debt following SVB’s collapse](https://techcrunch.com/2023/05/17/venture-debt-svb-investor-survey/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
