@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [100 black hole jets aimed at Earth unleash controversial physics theory](https://www.space.com/black-hole-discovery-100-blazars-physics)
-- [Turns out Ledger can hold some of your crypto wallet’s keys, if you agree to it](https://techcrunch.com/2023/05/18/turns-out-ledger-can-hold-some-of-your-crypto-wallets-keys-if-you-agree-to-it/)
-- [Pudgy Penguins wants to use its NFT-inspired toys to bring IP to the real world](https://techcrunch.com/2023/05/18/pudgy-penguins-nft-toys-ip/)
-- [Save 15% with this Celestron StarSense Explorer DX 102AZ telescope deal](https://www.space.com/celestron-starsense-explorer-dx-102-az-deal-save-15-percent-may-2023)
-- [SpaceX rolls next Starship prototype out to pad for engine test &lpar;photo&rpar;](https://www.space.com/spacex-starship-ship-25-rollout-testing-photo)
+- [The new rules of venture debt are already being written](https://techcrunch.com/2023/05/18/the-new-rules-of-venture-debt-are-already-being-written/)
+- [SpaceX rolls rocket to pad for Sunday&#39;s Ax-2 private astronaut launch &lpar;photos&rpar;](https://www.space.com/spacex-ax-2-falcon-9-dragon-rollout-photos)
+- [Google’s podcast search results can now open shows directly in Apple Podcasts](https://techcrunch.com/2023/05/18/googles-podcast-search-results-can-now-open-shows-directly-in-your-preferred-app/)
+- [Consulting firm Krebs Stamos Group lays off six employees](https://techcrunch.com/2023/05/18/consulting-firm-krebs-stamos-group-lays-off-six-employees/)
+- [Okay, but how about a Raspberry Pi device with a BlackBerry keyboard designed for Beeper?](https://techcrunch.com/2023/05/18/okay-but-how-about-a-raspberry-pi-device-with-a-blackberry-keyboard-designed-for-beeper/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
