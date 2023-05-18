@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What happened to the missing stars at the heart of our Milky Way galaxy?](https://www.space.com/milky-way-missing-binary-stars-supermassive-black-hole)
+- [Can NASA&#39;s Artemis moon missions count on using lunar water ice?](https://www.space.com/moon-lunar-ice-poles-artemis-program)
+- [Micron to invest $3.6B in Japan for next-gen memory chips](https://techcrunch.com/2023/05/18/micron-to-invest-3-6b-in-japan-for-next-gen-memory-chips/)
 - [Swiggy’s food delivery business reaches profitability](https://techcrunch.com/2023/05/18/swiggy-food-delivery-business-reaches-profitability/)
 - [Apple launches its online store in Vietnam](https://techcrunch.com/2023/05/17/apple-launches-its-online-store-in-vietnam/)
-- [Climate risk startup Mitiga gets $14.4M to help businesses face an uncertain future](https://techcrunch.com/2023/05/17/mitiga-series-a/)
-- [Pale Blue Dot backs Amini, an African climate tech startup solving environmental data scarcity](https://techcrunch.com/2023/05/17/pale-blue-dot-backs-amini-an-african-climate-tech-startup-solving-environmental-data-scarcity/)
-- [AWS to invest $12.7 billion in India](https://techcrunch.com/2023/05/17/aws-to-invest-12-7-billion-in-india/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
