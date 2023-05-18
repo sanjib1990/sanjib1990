@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS to invest $12.7 billion in India](https://techcrunch.com/2023/05/17/aws-to-invest-12-7-billion-in-india/)
 - [Elon Musk used to say he put $100M in OpenAI, but now it’s $50M: Here are the receipts](https://techcrunch.com/2023/05/17/elon-musk-used-to-say-he-put-100m-in-openai-but-now-its-50m-here-are-the-receipts/)
 - [Montana just banned TikTok](https://techcrunch.com/2023/05/17/montana-just-banned-tiktok/)
 - [Netflix touts nearly 5M monthly active users for ad-supported tier](https://techcrunch.com/2023/05/17/netflix-touts-successful-ad-tier-with-nearly-5m-monthly-active-users/)
 - [Zelda: Tears of the Kingdom early impressions – a feast fit for a short king](https://techcrunch.com/2023/05/17/zelda-tears-of-the-kingdom-early-impressions-a-feast-fit-for-a-short-king/)
-- [Record-breaking amateur rocket soars higher than Mt. Everest](https://www.space.com/record-breaking-amateur-rocket-flight-higher-mount-everest)
 <!-- BLOG-POST-LIST:END -->
 
 ---
