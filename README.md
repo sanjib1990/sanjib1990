@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [DESTROYING my server room wall!!](https://www.youtube.com/watch?v=VILQd424Kq0)
 - [Discussing PDF@30 Years Old - Computerphile](https://www.youtube.com/watch?v=Bffm1Ie66gM)
 - [AI regulation is coming...](https://www.youtube.com/watch?v=CDokUdux0rc)
 - [Gil Strang&#39;s Final 18.06 Linear Algebra Lecture](https://www.youtube.com/watch?v=lUUte2o2Sn8)
 - [10 crazy announcements from Google I/O](https://www.youtube.com/watch?v=nmfRDRNjCnM)
-- [I built a smarter smart home](https://www.youtube.com/watch?v=0rIvB3LZiKA)
 <!-- YOUTUBE:END -->
 
 ---
