@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pale Blue Dot backs Amini, an African climate tech startup solving environmental data scarcity](https://techcrunch.com/2023/05/17/pale-blue-dot-backs-amini-an-african-climate-tech-startup-solving-environmental-data-scarcity/)
 - [AWS to invest $12.7 billion in India](https://techcrunch.com/2023/05/17/aws-to-invest-12-7-billion-in-india/)
 - [Elon Musk used to say he put $100M in OpenAI, but now it’s $50M: Here are the receipts](https://techcrunch.com/2023/05/17/elon-musk-used-to-say-he-put-100m-in-openai-but-now-its-50m-here-are-the-receipts/)
 - [Montana just banned TikTok](https://techcrunch.com/2023/05/17/montana-just-banned-tiktok/)
 - [Netflix touts nearly 5M monthly active users for ad-supported tier](https://techcrunch.com/2023/05/17/netflix-touts-successful-ad-tier-with-nearly-5m-monthly-active-users/)
-- [Zelda: Tears of the Kingdom early impressions – a feast fit for a short king](https://techcrunch.com/2023/05/17/zelda-tears-of-the-kingdom-early-impressions-a-feast-fit-for-a-short-king/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
