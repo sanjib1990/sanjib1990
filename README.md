@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bird stock dips 11% on news of reverse stock split](https://techcrunch.com/2023/05/18/bird-stock-dips-11-on-news-of-reverse-stock-split/)
 - [Senate Republicans criticize NASA for its climate change and diversity efforts](https://www.space.com/senate-republicans-criticize-nasa-climate-change-diversity)
 - [Cruise, Waymo near approval to charge for 24/7 robotaxis in San Francisco](https://techcrunch.com/2023/05/18/cruise-waymo-near-approval-to-charge-for-24-7-robotaxis-in-san-francisco/)
 - [Supreme Court rules in favor of Twitter and Google, avoiding the issue of Section 230 for now](https://techcrunch.com/2023/05/18/supreme-court-rules-in-favor-of-twitter-and-google-avoiding-the-issue-of-section-230-for-now/)
 - [YouTube will no longer be deleting videos from inactive accounts](https://techcrunch.com/2023/05/18/youtube-will-no-longer-be-deleting-videos-from-inactive-accounts/)
-- [The new rules of venture debt are already being written](https://techcrunch.com/2023/05/18/the-new-rules-of-venture-debt-are-already-being-written/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
