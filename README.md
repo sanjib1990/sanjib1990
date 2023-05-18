@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI launches an official ChatGPT app for iOS](https://techcrunch.com/2023/05/18/openai-launches-an-official-chatgpt-app-for-ios/)
-- [How Uber is trying to create ‘stickiness’ for its app](https://techcrunch.com/2023/05/18/how-uber-is-trying-to-create-stickiness-for-its-app/)
-- [Mackie finally takes on the Rodecaster with its own podcasting board](https://techcrunch.com/2023/05/18/2529758/)
-- [Apple TV officially launches its multiview feature for sports fans](https://techcrunch.com/2023/05/18/apple-tv-officially-launches-its-multiview-feature-for-sports-fans/)
-- [Earth is safe from a devastating asteroid impact for 1,000 years &lpar;probably&rpar;](https://www.space.com/earth-probably-safe-devastating-asteroid-impact-thousand-years)
+- [‘Infinite recycling’ startup Samsara Eco partners with Lululemon](https://techcrunch.com/2023/05/18/samsara-eco-lululemon/)
+- [Popular Android TV boxes sold on Amazon are laced with malware](https://techcrunch.com/2023/05/18/popular-android-tv-boxes-sold-on-amazon-are-laced-with-malware/)
+- [Night sweats to climate tech: Kelvin eyes heat pumps and nabs $30M](https://techcrunch.com/2023/05/18/night-sweats-to-climate-tech-kelvin-eyes-heat-pumps-and-nabs-30m/)
+- [Peloton and the CPSC finally agree on a fix for recalled treadmills](https://techcrunch.com/2023/05/18/peloton-and-the-cpsc-finally-agree-on-a-fix-for-recalled-treadmills/)
+- [Supernova explosion&#39;s weird leftovers may contain a super-dense star](https://www.space.com/cassiopeia-a-supernova-remnant-magnetar-neutron-star)
 <!-- BLOG-POST-LIST:END -->
 
 ---
