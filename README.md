@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [1Password’s new service lets businesses quickly adopt passkeys](https://techcrunch.com/2023/05/18/1passwords-new-service-lets-businesses-quickly-adopt-passkeys/)
-- [Google will disable third-party cookies for 1% of Chrome users in Q1 2024](https://techcrunch.com/2023/05/18/google-will-disable-third-party-cookies-for-1-of-chrome-users-in-q1-2024/)
-- [China launches BeiDou navigation satellite to orbit &lpar;video&rpar;](https://www.space.com/china-launches-beidou-navigation-satellite-may-2023)
-- [FTC says popular fertility tracking app Premom shared sensitive data with Chinese analytics firms](https://techcrunch.com/2023/05/18/ftc-premom-fertility-tracking-shared-data-google/)
-- [Percent lands $30M investment to connect investors with private credit](https://techcrunch.com/2023/05/18/percent-lands-30m-investment-to-connect-investors-with-private-credit/)
+- [Move over Apple, Step launches 5% savings account](https://techcrunch.com/2023/05/18/apple-step-savings-account-fintech/)
+- [Figure’s humanoid robot takes its first steps](https://techcrunch.com/2023/05/18/figures-humanoid-robot-takes-its-first-steps/)
+- [Watch SpaceX launch 22 next-gen Starlink satellites to orbit early Friday](https://www.space.com/spacex-starlink-launch-group-6-3)
+- [SoftBank rebrands Opportunity Fund, will invest $150 million in Black and Latino-led startups](https://techcrunch.com/2023/05/18/softbanks-opportunity-fund-rebrands-taps-paul-judge-to-lead/)
+- [Twitter now allows paid users to upload two-hour long videos](https://techcrunch.com/2023/05/18/twitter-now-allows-paid-users-to-upload-two-hour-long-videos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
