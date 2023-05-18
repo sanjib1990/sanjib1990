@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Senate Republicans criticize NASA for its climate change and diversity efforts](https://www.space.com/senate-republicans-criticize-nasa-climate-change-diversity)
+- [Cruise, Waymo near approval to charge for 24/7 robotaxis in San Francisco](https://techcrunch.com/2023/05/18/cruise-waymo-near-approval-to-charge-for-24-7-robotaxis-in-san-francisco/)
+- [Supreme Court rules in favor of Twitter and Google, avoiding the issue of Section 230 for now](https://techcrunch.com/2023/05/18/supreme-court-rules-in-favor-of-twitter-and-google-avoiding-the-issue-of-section-230-for-now/)
+- [YouTube will no longer be deleting videos from inactive accounts](https://techcrunch.com/2023/05/18/youtube-will-no-longer-be-deleting-videos-from-inactive-accounts/)
 - [The new rules of venture debt are already being written](https://techcrunch.com/2023/05/18/the-new-rules-of-venture-debt-are-already-being-written/)
-- [SpaceX rolls rocket to pad for Sunday&#39;s Ax-2 private astronaut launch &lpar;photos&rpar;](https://www.space.com/spacex-ax-2-falcon-9-dragon-rollout-photos)
-- [Google’s podcast search results can now open shows directly in Apple Podcasts](https://techcrunch.com/2023/05/18/googles-podcast-search-results-can-now-open-shows-directly-in-your-preferred-app/)
-- [Consulting firm Krebs Stamos Group lays off six employees](https://techcrunch.com/2023/05/18/consulting-firm-krebs-stamos-group-lays-off-six-employees/)
-- [Okay, but how about a Raspberry Pi device with a BlackBerry keyboard designed for Beeper?](https://techcrunch.com/2023/05/18/okay-but-how-about-a-raspberry-pi-device-with-a-blackberry-keyboard-designed-for-beeper/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
