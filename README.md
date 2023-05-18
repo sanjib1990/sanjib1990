@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [FTC says popular fertility tracking app Premom shared sensitive data with Chinese analytics firms](https://techcrunch.com/2023/05/18/ftc-premom-fertility-tracking-shared-data-google/)
+- [Percent lands $30M investment to connect investors with private credit](https://techcrunch.com/2023/05/18/percent-lands-30m-investment-to-connect-investors-with-private-credit/)
+- [Don&#39;t mess with Mars. It has a crust made of &#39;heavy armor,&#39; scientists say](https://www.space.com/nasa-insight-mars-planet-crust-interior)
+- [Retail media targeting on the AI maturity curve](https://techcrunch.com/2023/05/18/retail-media-targeting-on-the-ai-maturity-curve/)
 - [Beijing calls on cloud providers to support AI firms](https://techcrunch.com/2023/05/18/beijing-china-ai-support-cloud/)
-- [Thrasio cuts stake, loses control in Indian house of brands in likely market retreat](https://techcrunch.com/2023/05/18/thrasio-cuts-stake-loses-control-in-indian-house-of-brands-in-likely-market-retreat/)
-- [What happened to the missing stars at the heart of our Milky Way galaxy?](https://www.space.com/milky-way-missing-binary-stars-supermassive-black-hole)
-- [Can NASA&#39;s Artemis moon missions count on using lunar water ice?](https://www.space.com/moon-lunar-ice-poles-artemis-program)
-- [Micron to invest $3.6B in Japan for next-gen memory chips](https://techcrunch.com/2023/05/18/micron-to-invest-3-6b-in-japan-for-next-gen-memory-chips/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
