@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple still has a diversity problem](https://techcrunch.com/2023/05/18/apple-still-has-a-diversity-problem/)
-- [Meta bets big on AI with custom chips — and a supercomputer](https://techcrunch.com/2023/05/18/meta-bets-big-on-ai-with-custom-chips-and-a-supercomputer/)
-- [Meta built a code-generating AI model similar to Copilot](https://techcrunch.com/2023/05/18/meta-built-a-code-generating-ai-model-similar-to-copilot/)
-- [With government backing, Ireland’s Elkstone closes first VC fund at $108M for early-stage startups](https://techcrunch.com/2023/05/18/with-government-backing-irelands-elkstone-closes-first-vc-fund-at-108m-for-early-stage-startups/)
-- [TuSimple to lay off 30% of US workforce, keep China business](https://techcrunch.com/2023/05/18/tusimple-to-lay-off-30-of-u-s-workforce-keep-china-business/)
+- [OpenAI launches an official ChatGPT app for iOS](https://techcrunch.com/2023/05/18/openai-launches-an-official-chatgpt-app-for-ios/)
+- [How Uber is trying to create ‘stickiness’ for its app](https://techcrunch.com/2023/05/18/how-uber-is-trying-to-create-stickiness-for-its-app/)
+- [Mackie finally takes on the Rodecaster with its own podcasting board](https://techcrunch.com/2023/05/18/2529758/)
+- [Apple TV officially launches its multiview feature for sports fans](https://techcrunch.com/2023/05/18/apple-tv-officially-launches-its-multiview-feature-for-sports-fans/)
+- [Earth is safe from a devastating asteroid impact for 1,000 years &lpar;probably&rpar;](https://www.space.com/earth-probably-safe-devastating-asteroid-impact-thousand-years)
 <!-- BLOG-POST-LIST:END -->
 
 ---
