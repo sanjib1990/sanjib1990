@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pitch Deck Teardown: Ageras’ $36M Private Equity deck](https://techcrunch.com/2023/05/18/sample-private-equity-pitch-deck-ageras/)
+- [Alibaba to take its cloud, AI and business messenger unit public](https://techcrunch.com/2023/05/18/alibaba-to-take-its-cloud-ai-and-business-messenger-unit-public/)
+- [YouTube is bringing 30-second unskippable ads to TVs](https://techcrunch.com/2023/05/18/youtube-is-bringing-30-second-unskippable-ads-to-tvs/)
 - [Move over Apple, Step launches 5% savings account](https://techcrunch.com/2023/05/18/apple-step-savings-account-fintech/)
 - [Figure’s humanoid robot takes its first steps](https://techcrunch.com/2023/05/18/figures-humanoid-robot-takes-its-first-steps/)
-- [Watch SpaceX launch 22 next-gen Starlink satellites to orbit early Friday](https://www.space.com/spacex-starlink-launch-group-6-3)
-- [SoftBank rebrands Opportunity Fund, will invest $150 million in Black and Latino-led startups](https://techcrunch.com/2023/05/18/softbanks-opportunity-fund-rebrands-taps-paul-judge-to-lead/)
-- [Twitter now allows paid users to upload two-hour long videos](https://techcrunch.com/2023/05/18/twitter-now-allows-paid-users-to-upload-two-hour-long-videos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
