@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Beijing calls on cloud providers to support AI firms](https://techcrunch.com/2023/05/18/beijing-china-ai-support-cloud/)
+- [Thrasio cuts stake, loses control in Indian house of brands in likely market retreat](https://techcrunch.com/2023/05/18/thrasio-cuts-stake-loses-control-in-indian-house-of-brands-in-likely-market-retreat/)
 - [What happened to the missing stars at the heart of our Milky Way galaxy?](https://www.space.com/milky-way-missing-binary-stars-supermassive-black-hole)
 - [Can NASA&#39;s Artemis moon missions count on using lunar water ice?](https://www.space.com/moon-lunar-ice-poles-artemis-program)
 - [Micron to invest $3.6B in Japan for next-gen memory chips](https://techcrunch.com/2023/05/18/micron-to-invest-3-6b-in-japan-for-next-gen-memory-chips/)
-- [Swiggy’s food delivery business reaches profitability](https://techcrunch.com/2023/05/18/swiggy-food-delivery-business-reaches-profitability/)
-- [Apple launches its online store in Vietnam](https://techcrunch.com/2023/05/17/apple-launches-its-online-store-in-vietnam/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
