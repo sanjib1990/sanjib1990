@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [‘Infinite recycling’ startup Samsara Eco partners with Lululemon](https://techcrunch.com/2023/05/18/samsara-eco-lululemon/)
-- [Popular Android TV boxes sold on Amazon are laced with malware](https://techcrunch.com/2023/05/18/popular-android-tv-boxes-sold-on-amazon-are-laced-with-malware/)
-- [Night sweats to climate tech: Kelvin eyes heat pumps and nabs $30M](https://techcrunch.com/2023/05/18/night-sweats-to-climate-tech-kelvin-eyes-heat-pumps-and-nabs-30m/)
-- [Peloton and the CPSC finally agree on a fix for recalled treadmills](https://techcrunch.com/2023/05/18/peloton-and-the-cpsc-finally-agree-on-a-fix-for-recalled-treadmills/)
-- [Supernova explosion&#39;s weird leftovers may contain a super-dense star](https://www.space.com/cassiopeia-a-supernova-remnant-magnetar-neutron-star)
+- [100 black hole jets aimed at Earth unleash controversial physics theory](https://www.space.com/black-hole-discovery-100-blazars-physics)
+- [Turns out Ledger can hold some of your crypto wallet’s keys, if you agree to it](https://techcrunch.com/2023/05/18/turns-out-ledger-can-hold-some-of-your-crypto-wallets-keys-if-you-agree-to-it/)
+- [Pudgy Penguins wants to use its NFT-inspired toys to bring IP to the real world](https://techcrunch.com/2023/05/18/pudgy-penguins-nft-toys-ip/)
+- [Save 15% with this Celestron StarSense Explorer DX 102AZ telescope deal](https://www.space.com/celestron-starsense-explorer-dx-102-az-deal-save-15-percent-may-2023)
+- [SpaceX rolls next Starship prototype out to pad for engine test &lpar;photo&rpar;](https://www.space.com/spacex-starship-ship-25-rollout-testing-photo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
