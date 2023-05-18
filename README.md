@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Pitch Deck Teardown: Ageras’ $36M Private Equity deck](https://techcrunch.com/2023/05/18/sample-private-equity-pitch-deck-ageras/)
-- [Alibaba to take its cloud, AI and business messenger unit public](https://techcrunch.com/2023/05/18/alibaba-to-take-its-cloud-ai-and-business-messenger-unit-public/)
-- [YouTube is bringing 30-second unskippable ads to TVs](https://techcrunch.com/2023/05/18/youtube-is-bringing-30-second-unskippable-ads-to-tvs/)
-- [Move over Apple, Step launches 5% savings account](https://techcrunch.com/2023/05/18/apple-step-savings-account-fintech/)
-- [Figure’s humanoid robot takes its first steps](https://techcrunch.com/2023/05/18/figures-humanoid-robot-takes-its-first-steps/)
+- [Apple still has a diversity problem](https://techcrunch.com/2023/05/18/apple-still-has-a-diversity-problem/)
+- [Meta bets big on AI with custom chips — and a supercomputer](https://techcrunch.com/2023/05/18/meta-bets-big-on-ai-with-custom-chips-and-a-supercomputer/)
+- [Meta built a code-generating AI model similar to Copilot](https://techcrunch.com/2023/05/18/meta-built-a-code-generating-ai-model-similar-to-copilot/)
+- [With government backing, Ireland’s Elkstone closes first VC fund at $108M for early-stage startups](https://techcrunch.com/2023/05/18/with-government-backing-irelands-elkstone-closes-first-vc-fund-at-108m-for-early-stage-startups/)
+- [TuSimple to lay off 30% of US workforce, keep China business](https://techcrunch.com/2023/05/18/tusimple-to-lay-off-30-of-u-s-workforce-keep-china-business/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
