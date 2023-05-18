@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [1Password’s new service lets businesses quickly adopt passkeys](https://techcrunch.com/2023/05/18/1passwords-new-service-lets-businesses-quickly-adopt-passkeys/)
+- [Google will disable third-party cookies for 1% of Chrome users in Q1 2024](https://techcrunch.com/2023/05/18/google-will-disable-third-party-cookies-for-1-of-chrome-users-in-q1-2024/)
+- [China launches BeiDou navigation satellite to orbit &lpar;video&rpar;](https://www.space.com/china-launches-beidou-navigation-satellite-may-2023)
 - [FTC says popular fertility tracking app Premom shared sensitive data with Chinese analytics firms](https://techcrunch.com/2023/05/18/ftc-premom-fertility-tracking-shared-data-google/)
 - [Percent lands $30M investment to connect investors with private credit](https://techcrunch.com/2023/05/18/percent-lands-30m-investment-to-connect-investors-with-private-credit/)
-- [Don&#39;t mess with Mars. It has a crust made of &#39;heavy armor,&#39; scientists say](https://www.space.com/nasa-insight-mars-planet-crust-interior)
-- [Retail media targeting on the AI maturity curve](https://techcrunch.com/2023/05/18/retail-media-targeting-on-the-ai-maturity-curve/)
-- [Beijing calls on cloud providers to support AI firms](https://techcrunch.com/2023/05/18/beijing-china-ai-support-cloud/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
