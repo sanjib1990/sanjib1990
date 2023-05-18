@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Swiggy’s food delivery business reaches profitability](https://techcrunch.com/2023/05/18/swiggy-food-delivery-business-reaches-profitability/)
+- [Apple launches its online store in Vietnam](https://techcrunch.com/2023/05/17/apple-launches-its-online-store-in-vietnam/)
 - [Climate risk startup Mitiga gets $14.4M to help businesses face an uncertain future](https://techcrunch.com/2023/05/17/mitiga-series-a/)
 - [Pale Blue Dot backs Amini, an African climate tech startup solving environmental data scarcity](https://techcrunch.com/2023/05/17/pale-blue-dot-backs-amini-an-african-climate-tech-startup-solving-environmental-data-scarcity/)
 - [AWS to invest $12.7 billion in India](https://techcrunch.com/2023/05/17/aws-to-invest-12-7-billion-in-india/)
-- [Elon Musk used to say he put $100M in OpenAI, but now it’s $50M: Here are the receipts](https://techcrunch.com/2023/05/17/elon-musk-used-to-say-he-put-100m-in-openai-but-now-its-50m-here-are-the-receipts/)
-- [Montana just banned TikTok](https://techcrunch.com/2023/05/17/montana-just-banned-tiktok/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
