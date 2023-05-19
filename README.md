@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [From seed to Series A in 7 months: Why and how Odyssey Energy Solutions moved quickly](https://techcrunch.com/2023/05/19/odyssey-energy-solutions-series-a-seven-months/)
+- [African B2B e-commerce startup Sabi tops $300M valuation in new funding](https://techcrunch.com/2023/05/19/african-b2b-e-commerce-startup-sabi-tops-300m-valuation-in-new-funding/)
+- [&#39;Do what scares you:&#39; 3 tips to succeed from Artemis 2 moon astronaut Christina Koch](https://www.space.com/artemis-2-astronaut-tips-for-success-christina-koch-nasa)
+- [SpaceX&#39;s Ax-2 mission for Axiom Space in photos &lpar;gallery&rpar;](https://www.space.com/axiom-space-ax-2-mission-photos)
 - [Watch SpaceX launch its 2nd mission of the day this morning](https://www.space.com/spacex-iridium-oneweb-launch-may-2023)
-- [Gary Marcus is happy to help regulate AI for U.S. government: “I’m interested”](https://techcrunch.com/2023/05/18/psst-gary-marcus-is-happy-to-help-regulate-ai-on-behalf-of-the-u-s-government/)
-- [Apple releases iOS 16.5 with a new sports tab in Apple News](https://techcrunch.com/2023/05/18/apple-releases-ios-16-5-with-a-new-sports-tab-in-apple-news/)
-- [Krafton to relaunch BGMI mobile game in India, a year after ban](https://techcrunch.com/2023/05/18/krafton-to-relaunch-bgmi-mobile-game-in-india-a-year-after-ban/)
-- [Big sauce wants your condiment data](https://techcrunch.com/2023/05/18/heinz-remix-sauce-machine/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
