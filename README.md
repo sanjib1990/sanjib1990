@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Restaurant365 gobbles up $135M to supersize its software for the food service industry](https://techcrunch.com/2023/05/19/restaurant365-gobbles-up-135m-to-supersize-its-software-for-the-food-service-industry/)
+- [To secure early-stage funding, entrepreneurs should build ESG into their business models](https://techcrunch.com/2023/05/19/to-secure-early-stage-funding-entrepreneurs-should-build-esg-into-their-business-models/)
+- [How to watch Shazam! Fury of the Gods](https://www.space.com/how-to-watch-shazam-fury-of-the-gods)
 - [From seed to Series A in 7 months: Why and how Odyssey Energy Solutions moved quickly](https://techcrunch.com/2023/05/19/odyssey-energy-solutions-series-a-seven-months/)
 - [African B2B e-commerce startup Sabi tops $300M valuation in new funding](https://techcrunch.com/2023/05/19/african-b2b-e-commerce-startup-sabi-tops-300m-valuation-in-new-funding/)
-- [&#39;Do what scares you:&#39; 3 tips to succeed from Artemis 2 moon astronaut Christina Koch](https://www.space.com/artemis-2-astronaut-tips-for-success-christina-koch-nasa)
-- [SpaceX&#39;s Ax-2 mission for Axiom Space in photos &lpar;gallery&rpar;](https://www.space.com/axiom-space-ax-2-mission-photos)
-- [Watch SpaceX launch its 2nd mission of the day this morning](https://www.space.com/spacex-iridium-oneweb-launch-may-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
