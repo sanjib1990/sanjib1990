@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This episode is just an excuse to talk about Zelda and other TC news](https://techcrunch.com/2023/05/19/this-episode-is-just-an-excuse-to-talk-about-zelda-and-other-tc-news/)
+- [Watch SpaceX blast a new Starship launch pad plate with rocket fire &lpar;video&rpar;](https://www.space.com/spacex-starship-steel-plate-rocket-fire-video)
+- [Virgin Orbit receives $17 million bid from Stratolaunch for carrier plane and related aircraft assets](https://www.space.com/virgin-orbit-assets-carrier-plane-stratolaunch-bid)
 - [Procedural justice can address generative AI’s trust/legitimacy problem](https://techcrunch.com/2023/05/19/procedural-justice-can-address-generative-ais-trust-legitimacy-problem/)
 - [Everything we know about Instagram’s Twitter clone, due this summer](https://techcrunch.com/2023/05/19/everything-we-know-about-instagrams-twitter-clone-due-this-summer/)
-- [Magic Leap’s CEO will discuss the future of AR at Disrupt’s hardware stage](https://techcrunch.com/2023/05/19/magic-leap-peggy-johnson-hardware-stage-techcrunch-disrupt-2023/)
-- [What you should know about internal developer portals](https://techcrunch.com/2023/05/19/internal-developer-portals-explained/)
-- [&#39;Avatar: The Way of Water&#39; splashes down on Disney+ and Max in June](https://www.space.com/avatar-way-of-water-disney-plus-max-streaming)
 <!-- BLOG-POST-LIST:END -->
 
 ---
