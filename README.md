@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Stoke Space has received repeated investments from the CIA’s venture arm](https://techcrunch.com/2023/05/19/stoke-space-cias-venture-arm/)
-- [This Austin accelerator made big claims; employees and customers say it didn’t deliver](https://techcrunch.com/2023/05/19/this-austin-accelerator-made-big-claims-employees-and-customers-say-it-didnt-deliver/)
-- [Nuwa Pen launches with misleading Kickstarter campaign](https://techcrunch.com/2023/05/19/nuwa-pen/)
-- [Check out these Boston Dynamics promo LEGO kits](https://techcrunch.com/2023/05/19/check-out-these-boston-dynamics-promo-lego-kits/)
-- [TechCrunch+ roundup: Venture debt VC survey, PLG boosting tactics, bootstrapping to $40M ARR](https://techcrunch.com/2023/05/19/techcrunch-roundup-venture-debt-vc-survey-plg-boosting-tactics-bootstrapping-to-40m-arr/)
+- [Procedural justice can address generative AI’s trust/legitimacy problem](https://techcrunch.com/2023/05/19/procedural-justice-can-address-generative-ais-trust-legitimacy-problem/)
+- [Everything we know about Instagram’s Twitter clone, due this summer](https://techcrunch.com/2023/05/19/everything-we-know-about-instagrams-twitter-clone-due-this-summer/)
+- [Magic Leap’s CEO will discuss the future of AR at Disrupt’s hardware stage](https://techcrunch.com/2023/05/19/magic-leap-peggy-johnson-hardware-stage-techcrunch-disrupt-2023/)
+- [What you should know about internal developer portals](https://techcrunch.com/2023/05/19/internal-developer-portals-explained/)
+- [&#39;Avatar: The Way of Water&#39; splashes down on Disney+ and Max in June](https://www.space.com/avatar-way-of-water-disney-plus-max-streaming)
 <!-- BLOG-POST-LIST:END -->
 
 ---
