@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Stoke Space has received repeated investments from the CIA’s venture arm](https://techcrunch.com/2023/05/19/stoke-space-cias-venture-arm/)
 - [This Austin accelerator made big claims; employees and customers say it didn’t deliver](https://techcrunch.com/2023/05/19/this-austin-accelerator-made-big-claims-employees-and-customers-say-it-didnt-deliver/)
 - [Nuwa Pen launches with misleading Kickstarter campaign](https://techcrunch.com/2023/05/19/nuwa-pen/)
 - [Check out these Boston Dynamics promo LEGO kits](https://techcrunch.com/2023/05/19/check-out-these-boston-dynamics-promo-lego-kits/)
 - [TechCrunch+ roundup: Venture debt VC survey, PLG boosting tactics, bootstrapping to $40M ARR](https://techcrunch.com/2023/05/19/techcrunch-roundup-venture-debt-vc-survey-plg-boosting-tactics-bootstrapping-to-40m-arr/)
-- [Saudi Arabia&#39;s 1st female astronaut hopes kids follow in her footsteps](https://www.space.com/first-saudi-woman-in-space-rayyanah-barnawi-inspiration)
 <!-- BLOG-POST-LIST:END -->
 
 ---
