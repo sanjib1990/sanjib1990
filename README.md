@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple reportedly limits internal use of AI-powered tools like ChatGPT and GitHub Copilot](https://techcrunch.com/2023/05/19/apple-reportedly-limits-internal-use-of-ai-powered-tools-like-chatgpt-and-github-copilot/)
+- [Apple is on the hunt for generative AI talent](https://techcrunch.com/2023/05/19/apple-generative-ai-jobs/)
 - [Watch the moon, Venus and Mars engage in a celestial dance next week](https://www.space.com/moon-between-venus-mars-skywatching-may-2023)
 - [Scientists just grew a black hole disk in a lab to better understand how they feed](https://www.space.com/black-hole-disk-created-lab)
 - [Restaurant365 gobbles up $135M to supersize its software for the food service industry](https://techcrunch.com/2023/05/19/restaurant365-gobbles-up-135m-to-supersize-its-software-for-the-food-service-industry/)
-- [To secure early-stage funding, entrepreneurs should build ESG into their business models](https://techcrunch.com/2023/05/19/to-secure-early-stage-funding-entrepreneurs-should-build-esg-into-their-business-models/)
-- [How to watch Shazam! Fury of the Gods](https://www.space.com/how-to-watch-shazam-fury-of-the-gods)
 <!-- BLOG-POST-LIST:END -->
 
 ---
