@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch the moon, Venus and Mars engage in a celestial dance next week](https://www.space.com/moon-between-venus-mars-skywatching-may-2023)
+- [Scientists just grew a black hole disk in a lab to better understand how they feed](https://www.space.com/black-hole-disk-created-lab)
 - [Restaurant365 gobbles up $135M to supersize its software for the food service industry](https://techcrunch.com/2023/05/19/restaurant365-gobbles-up-135m-to-supersize-its-software-for-the-food-service-industry/)
 - [To secure early-stage funding, entrepreneurs should build ESG into their business models](https://techcrunch.com/2023/05/19/to-secure-early-stage-funding-entrepreneurs-should-build-esg-into-their-business-models/)
 - [How to watch Shazam! Fury of the Gods](https://www.space.com/how-to-watch-shazam-fury-of-the-gods)
-- [From seed to Series A in 7 months: Why and how Odyssey Energy Solutions moved quickly](https://techcrunch.com/2023/05/19/odyssey-energy-solutions-series-a-seven-months/)
-- [African B2B e-commerce startup Sabi tops $300M valuation in new funding](https://techcrunch.com/2023/05/19/african-b2b-e-commerce-startup-sabi-tops-300m-valuation-in-new-funding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
