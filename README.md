@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Gary Marcus is happy to help regulate AI for the U.S. government](https://techcrunch.com/2023/05/18/psst-gary-marcus-is-happy-to-help-regulate-ai-on-behalf-of-the-u-s-government/)
+- [Watch SpaceX launch its 2nd mission of the day this morning](https://www.space.com/spacex-iridium-oneweb-launch-may-2023)
+- [Gary Marcus is happy to help regulate AI for U.S. government: “I’m interested”](https://techcrunch.com/2023/05/18/psst-gary-marcus-is-happy-to-help-regulate-ai-on-behalf-of-the-u-s-government/)
 - [Apple releases iOS 16.5 with a new sports tab in Apple News](https://techcrunch.com/2023/05/18/apple-releases-ios-16-5-with-a-new-sports-tab-in-apple-news/)
 - [Krafton to relaunch BGMI mobile game in India, a year after ban](https://techcrunch.com/2023/05/18/krafton-to-relaunch-bgmi-mobile-game-in-india-a-year-after-ban/)
 - [Big sauce wants your condiment data](https://techcrunch.com/2023/05/18/heinz-remix-sauce-machine/)
-- [Bird stock dips 11% on news of reverse stock split](https://techcrunch.com/2023/05/18/bird-stock-dips-11-on-news-of-reverse-stock-split/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
