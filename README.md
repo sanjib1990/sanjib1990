@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [help me build my coffee shop network](https://www.youtube.com/watch?v=B1vqKQIPxr0)
 - [How to get rich as a solo software developer - The Ultimate Guide](https://www.youtube.com/watch?v=A4_TFHzqAAg)
 - [DESTROYING my server room wall!!](https://www.youtube.com/watch?v=VILQd424Kq0)
 - [Discussing PDF@30 Years Old - Computerphile](https://www.youtube.com/watch?v=Bffm1Ie66gM)
 - [AI regulation is coming...](https://www.youtube.com/watch?v=CDokUdux0rc)
-- [Gil Strang&#39;s Final 18.06 Linear Algebra Lecture](https://www.youtube.com/watch?v=lUUte2o2Sn8)
 <!-- YOUTUBE:END -->
 
 ---
