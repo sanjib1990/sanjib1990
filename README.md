@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Disney is reportedly preparing a standalone ESPN streaming service](https://techcrunch.com/2023/05/19/disney-is-reportedly-preparing-a-standalone-espn-streaming-service/)
+- [Watch this giant sunspot erupt in barrage of powerful solar flares as it turns to face Earth &lpar;video&rpar;](https://www.space.com/sun-unleashes-powerful-solar-flares-barrage-giant-sunspot-video)
+- [The billionaires are trying to live longer… again](https://techcrunch.com/2023/05/19/the-billionaires-are-trying-to-live-longer-again/)
 - [NASA picks Blue Origin-led team to build second human landing system on the moon, joining SpaceX](https://techcrunch.com/2023/05/19/nasa-picks-blue-origin-led-team-to-build-second-human-landing-system-on-the-moon-joining-spacex/)
-- [UK Court tosses class-action style health data misuse claim against Google DeepMind](https://techcrunch.com/2023/05/19/uk-court-tosses-class-action-style-health-data-misuse-claim-against-google-deepmind/)
-- [Apple reportedly limits internal use of AI-powered tools like ChatGPT and GitHub Copilot](https://techcrunch.com/2023/05/19/apple-reportedly-limits-internal-use-of-ai-powered-tools-like-chatgpt-and-github-copilot/)
-- [Apple is on the hunt for generative AI talent](https://techcrunch.com/2023/05/19/apple-generative-ai-jobs/)
-- [Watch the moon, Venus and Mars engage in a celestial dance next week](https://www.space.com/moon-between-venus-mars-skywatching-may-2023)
+- [UK court tosses class-action style health data misuse claim against Google DeepMind](https://techcrunch.com/2023/05/19/uk-court-tosses-class-action-style-health-data-misuse-claim-against-google-deepmind/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
