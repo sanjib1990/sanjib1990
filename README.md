@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Improving developer experience is now a priority](https://techcrunch.com/2023/05/20/improving-developer-experience/)
+- [Watch SpaceX&#39;s Ax-2 private astronaut launch for Axiom Space in this free livestream on May 21](https://www.space.com/spacex-ax-2-private-astronaut-launch-livestreams)
 - [Deal Dive: Gradiant is the new kind of unicorn worth getting excited about](https://techcrunch.com/2023/05/20/deal-dive-gradiant-unicorn/)
 - [Chainlink co-founder wants web3 to provide cryptographic guarantees to the world](https://techcrunch.com/2023/05/20/chainlink-co-founder-wants-web3-to-provide-cryptographic-guarantees-to-the-world/)
 - [Global warming will likely cross dangerous 1.5 C threshold within 5 years, UN report warns](https://www.space.com/climate-change-cross-dangerous-threshold-5-years-un-report)
-- [Axiom Space Ax-2 private spaceflight with SpaceX: Live updates](https://www.space.com/news/live/axiom-space-missions-updates)
-- [Dream on! AI runs amok in 1st trailer for director Gareth Edwards&#39; &#39;The Creator&#39;](https://www.space.com/gareth-edwards-the-creator-first-trailer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
