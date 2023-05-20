@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dream on! AI runs amok in 1st trailer for director Gareth Edwards&#39; &#39;The Creator&#39;](https://www.space.com/gareth-edwards-the-creator-first-trailer)
+- [Excitement builds for Ax-2 SpaceX launch that will send 1st Saudi woman to space](https://www.space.com/ax-2-spacex-launch-excitement-builds)
 - [This episode is just an excuse to talk about Zelda and other TC news](https://techcrunch.com/2023/05/19/this-episode-is-just-an-excuse-to-talk-about-zelda-and-other-tc-news/)
 - [Watch SpaceX blast a new Starship launch pad plate with rocket fire &lpar;video&rpar;](https://www.space.com/spacex-starship-steel-plate-rocket-fire-video)
 - [Virgin Orbit receives $17 million bid from Stratolaunch for carrier plane and related aircraft assets](https://www.space.com/virgin-orbit-assets-carrier-plane-stratolaunch-bid)
-- [Procedural justice can address generative AI’s trust/legitimacy problem](https://techcrunch.com/2023/05/19/procedural-justice-can-address-generative-ais-trust-legitimacy-problem/)
-- [Everything we know about Instagram’s Twitter clone, due this summer](https://techcrunch.com/2023/05/19/everything-we-know-about-instagrams-twitter-clone-due-this-summer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
