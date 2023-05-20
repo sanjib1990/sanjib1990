@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A young billionaire buys Forbes, a startup offers free TVs and ChatGPT goes mobile](https://techcrunch.com/2023/05/20/a-young-billionaire-buys-forbes-a-startup-offers-free-tvs-and-chatgpt-goes-mobile/)
 - [Well that’s one way to hire a new CEO](https://techcrunch.com/2023/05/20/well-thats-one-way-to-hire-a-new-ceo/)
 - [This Week in Apps: ChatGPT comes to iPhone, Bing AI efforts expand, Instagram’s Twitter clone](https://techcrunch.com/2023/05/20/this-week-in-apps-chatgpt-comes-to-iphone-bing-ai-efforts-expand-instagrams-twitter-clone/)
 - [Improving developer experience is now a priority](https://techcrunch.com/2023/05/20/improving-developer-experience/)
 - [Watch SpaceX&#39;s Ax-2 private astronaut launch for Axiom Space in this free livestream on May 21](https://www.space.com/spacex-ax-2-private-astronaut-launch-livestreams)
-- [Deal Dive: Gradiant is the new kind of unicorn worth getting excited about](https://techcrunch.com/2023/05/20/deal-dive-gradiant-unicorn/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
