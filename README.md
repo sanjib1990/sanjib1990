@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Week in Apps: ChatGPT comes to iPhone, Bing AI efforts expand, Instagram’s Twitter clone](https://techcrunch.com/2023/05/20/this-week-in-apps-chatgpt-comes-to-iphone-bing-ai-efforts-expand-instagrams-twitter-clone/)
 - [Improving developer experience is now a priority](https://techcrunch.com/2023/05/20/improving-developer-experience/)
 - [Watch SpaceX&#39;s Ax-2 private astronaut launch for Axiom Space in this free livestream on May 21](https://www.space.com/spacex-ax-2-private-astronaut-launch-livestreams)
 - [Deal Dive: Gradiant is the new kind of unicorn worth getting excited about](https://techcrunch.com/2023/05/20/deal-dive-gradiant-unicorn/)
 - [Chainlink co-founder wants web3 to provide cryptographic guarantees to the world](https://techcrunch.com/2023/05/20/chainlink-co-founder-wants-web3-to-provide-cryptographic-guarantees-to-the-world/)
-- [Global warming will likely cross dangerous 1.5 C threshold within 5 years, UN report warns](https://www.space.com/climate-change-cross-dangerous-threshold-5-years-un-report)
 <!-- BLOG-POST-LIST:END -->
 
 ---
