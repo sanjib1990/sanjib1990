@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A Tesla co-founder returns, TuSimple restructures again and Uber’s stickiness strategy](https://techcrunch.com/2023/05/21/tesla-tusimple-restructures-again-and-ubers-stickiness-strategy/)
 - [Executives say they’re committed to ESG, but data shows otherwise](https://techcrunch.com/2023/05/21/executives-say-theyre-committed-to-esg-but-data-shows-otherwise/)
 - [For startups, how many clouds to use may be the wrong question to ask](https://techcrunch.com/2023/05/21/startups-cloud-strategy-founder-survey/)
 - [What time is the SpaceX Ax-2 private astronaut launch for Axiom Space?](https://www.space.com/spacex-ax-2-private-axiom-space-launch-what-time)
 - [This fintech segment saw a flurry of fundraises](https://techcrunch.com/2023/05/21/this-fintech-segment-saw-a-flurry-of-fundraises/)
-- [The government can’t seize your data — but it can buy it](https://techcrunch.com/2023/05/21/the-government-cant-seize-your-data-but-it-can-buy-it/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
