@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google challenger Neeva gives up on consumer search, goes all in on AI and the enterprise](https://techcrunch.com/2023/05/21/google-challenger-neeva-gives-up-on-consumer-search-goes-all-in-on-ai-and-the-enterprise/)
+- [Yellowstone volcano super-eruptions appear to have multiple explosive events](https://www.space.com/yellowstone-volcano-super-eruptions-appear-to-involve-multiple-explosive-events)
+- [NASA spots El Niño precursor from space: &#39;If it’s a big one, the globe will see record warming&#39;](https://www.space.com/nasa-spots-sign-of-el-nino-from-space-2023)
 - [Axiom crews to use custom Fisher space pens on private missions](https://www.space.com/fisher-space-pen-axiom-ax-2-mission)
 - [Unlocking the trillion-dollar female economy](https://techcrunch.com/2023/05/21/unlocking-the-trillion-dollar-female-economy/)
-- [SpaceX rocket &#39;go&#39; to launch four private astronauts on Ax-2, a mission filled with 1sts, on Sunday](https://www.space.com/spacex-ax-2-private-astronaut-launch-ready-axiom-space)
-- [Axiom Space Ax-2 private spaceflight with SpaceX: Live updates](https://www.space.com/news/live/axiom-space-missions-updates)
-- [A young billionaire buys Forbes, a startup offers free TVs and ChatGPT goes mobile](https://techcrunch.com/2023/05/20/a-young-billionaire-buys-forbes-a-startup-offers-free-tvs-and-chatgpt-goes-mobile/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
