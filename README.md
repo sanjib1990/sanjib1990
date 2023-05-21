@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Executives say they’re committed to ESG, but data shows otherwise](https://techcrunch.com/2023/05/21/executives-say-theyre-committed-to-esg-but-data-shows-otherwise/)
 - [For startups, how many clouds to use may be the wrong question to ask](https://techcrunch.com/2023/05/21/startups-cloud-strategy-founder-survey/)
 - [What time is the SpaceX Ax-2 private astronaut launch for Axiom Space?](https://www.space.com/spacex-ax-2-private-axiom-space-launch-what-time)
 - [This fintech segment saw a flurry of fundraises](https://techcrunch.com/2023/05/21/this-fintech-segment-saw-a-flurry-of-fundraises/)
 - [The government can’t seize your data — but it can buy it](https://techcrunch.com/2023/05/21/the-government-cant-seize-your-data-but-it-can-buy-it/)
-- [Google challenger Neeva gives up on consumer search, goes all in on AI and the enterprise](https://techcrunch.com/2023/05/21/google-challenger-neeva-gives-up-on-consumer-search-goes-all-in-on-ai-and-the-enterprise/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
