@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX launch of private Ax-2 astronauts just put the 600th person in orbit](https://www.space.com/spacex-ax-2-launch-600th-person-earth-orbit)
+- [SpaceX launches Ax-2 private astronaut mission to station, 1st Saudi woman in space on board &lpar;video&rpar;](https://www.space.com/spacex-ax-2-private-astronaut-mission-launch)
 - [Build-A-Bear creates fluffy &#39;zero-g indicator&#39; for Axiom Space Ax-2 crew](https://www.space.com/build-a-bear-axiom-space-ax-2-zero-g-indicator)
 - [A Tesla co-founder returns, TuSimple restructures again and Uber’s stickiness strategy](https://techcrunch.com/2023/05/21/tesla-tusimple-restructures-again-and-ubers-stickiness-strategy/)
 - [Executives say they’re committed to ESG, but data shows otherwise](https://techcrunch.com/2023/05/21/executives-say-theyre-committed-to-esg-but-data-shows-otherwise/)
-- [For startups, how many clouds to use may be the wrong question to ask](https://techcrunch.com/2023/05/21/startups-cloud-strategy-founder-survey/)
-- [What time is the SpaceX Ax-2 private astronaut launch for Axiom Space?](https://www.space.com/spacex-ax-2-private-axiom-space-launch-what-time)
 <!-- BLOG-POST-LIST:END -->
 
 ---
