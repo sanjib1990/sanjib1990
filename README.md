@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX rocket &#39;go&#39; to launch four private astronauts on Ax-2, a mission filled with 1sts, on Sunday](https://www.space.com/spacex-ax-2-private-astronaut-launch-ready-axiom-space)
 - [Axiom Space Ax-2 private spaceflight with SpaceX: Live updates](https://www.space.com/news/live/axiom-space-missions-updates)
 - [A young billionaire buys Forbes, a startup offers free TVs and ChatGPT goes mobile](https://techcrunch.com/2023/05/20/a-young-billionaire-buys-forbes-a-startup-offers-free-tvs-and-chatgpt-goes-mobile/)
 - [Well that’s one way to hire a new CEO](https://techcrunch.com/2023/05/20/well-thats-one-way-to-hire-a-new-ceo/)
 - [This Week in Apps: ChatGPT comes to iPhone, Bing AI efforts expand, Instagram’s Twitter clone](https://techcrunch.com/2023/05/20/this-week-in-apps-chatgpt-comes-to-iphone-bing-ai-efforts-expand-instagrams-twitter-clone/)
-- [Improving developer experience is now a priority](https://techcrunch.com/2023/05/20/improving-developer-experience/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
