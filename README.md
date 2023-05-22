@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How would we decode a message from ET? New project will give us a trial run](https://www.space.com/seti-decode-message-aliens-practice-sign-in-space)
-- [Relive SpaceX launch of Ax-2 private astronaut mission with these stunning photos](https://www.space.com/spacex-ax-2-astronaut-mission-launch-photos)
-- [CRO: Why startups should prioritize conversion rate optimization early](https://techcrunch.com/2023/05/22/cro-why-startups-should-prioritize-conversion-rate-optimization-early/)
-- [SpaceX&#39;s Crew Dragon capsule is now a Matchbox die-cast model](https://www.space.com/matchbox-spacex-dragon-die-cast-capsule)
-- [Dish says ransomware gang stole almost 300,000 employee records](https://techcrunch.com/2023/05/22/dish-says-ransomware-gang-stole-almost-300000-employee-records/)
+- [See Jupiter&#39;s volcanic moon Io glow red-hot in incredible images from NASA&#39;s Juno probe](https://www.space.com/nasa-juno-jupiter-io-volcanic-moon-images)
+- [Australian clean-tech Endua fixes renewable energy’s intermittency problem](https://techcrunch.com/2023/05/22/endua-funding/)
+- [Netflix updates My List feature so users can find content they have yet to watch](https://techcrunch.com/2023/05/22/netflix-updates-my-list-feature-so-users-can-find-content-they-have-yet-to-watch/)
+- [OpenAI leaders propose international regulatory body for AI](https://techcrunch.com/2023/05/22/openai-leaders-propose-international-regulatory-body-for-ai/)
+- [Discord is testing parental controls that allow for monitoring of friends and servers](https://techcrunch.com/2023/05/22/discord-is-testing-parental-controls-that-allow-for-monitoring-of-friends-and-servers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
