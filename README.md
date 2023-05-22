@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [LinkedIn brings its verification tools to job posts, adds new message warnings for potential scams](https://techcrunch.com/2023/05/22/linkedin-verification-tools-job-posts-adds-message-warnings-potential-scams/)
-- [Volition wants to be DigiKey for industrial parts](https://techcrunch.com/2023/05/22/volition-funding/)
-- [Firmbase raises $12M to modernize financial planning for startups](https://techcrunch.com/2023/05/22/firmbase-raises-12m-to-modernize-financial-planning-for-startups/)
-- [&#39;It feels amazing!&#39; Private Ax-2 astronauts thrilled by zero gravity and Earth views after SpaceX launch &lpar;video&rpar;](https://www.space.com/spacex-ax-2-private-astronaut-reactions-zero-gravity)
-- [Hear from top Atlanta VCs at TechCrunch Live’s Atlanta event](https://techcrunch.com/2023/05/22/hear-from-top-atlanta-vcs-at-techcrunch-lives-atlanta-event/)
+- [Will startups have a shot in the enterprise AI race?](https://techcrunch.com/2023/05/22/startups-enterprise-ai-race/)
+- [Meet the Disrupt Audience Choice roundtable winners](https://techcrunch.com/2023/05/22/audience-choice-roundtable-winners-techcrunch-disrupt-2023/)
+- [Meta and data, chips and dips, crypto and meltdowns](https://techcrunch.com/2023/05/22/meta-and-data-chips-and-dips-crypto-and-meltdowns/)
+- [India’s Chalo raises $45 million in fresh funding to digitize bus commutes](https://techcrunch.com/2023/05/22/india-chalo-raises-45-million-in-fresh-funding-to-digitize-bus-commutes/)
+- [How to write the perfect cold email to investors](https://techcrunch.com/2023/05/22/the-perfect-cold-email/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
