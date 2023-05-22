@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Max Q: Double the fun](https://techcrunch.com/2023/05/22/max-q-double-the-fun/)
 - [Some black holes may actually be tangles in the fabric of space-time, new research suggests](https://www.space.com/black-holes-may-actually-be-tangles-in-space-time)
 - [Fake Pentagon attack hoax shows perils of Twitter’s paid verification](https://techcrunch.com/2023/05/22/pentagon-explosion-misinformation-ai/)
 - [TikTok sues Montana over its controversial new law banning the app](https://techcrunch.com/2023/05/22/tiktok-sues-montana-over-a-controversial-new-law-banning-the-app-in-the-state/)
 - [&#39;Prehistoric Planet&#39; Season 2 explores Earth&#39;s history with a 5-night Apple TV+ adventure](https://www.space.com/prehistoric-planet-season-two-science)
-- [NASA&#39;s tiny CAPSTONE probe snaps 1st photo of the moon, begins extended mission](https://www.space.com/capstone-cubesat-first-moon-photo-extended-mission)
 <!-- BLOG-POST-LIST:END -->
 
 ---
