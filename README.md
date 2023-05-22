@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX&#39;s Crew Dragon capsule is now a Matchbox die-cast model](https://www.space.com/matchbox-spacex-dragon-die-cast-capsule)
+- [Dish says ransomware gang stole almost 300,000 employee records](https://techcrunch.com/2023/05/22/dish-says-ransomware-gang-stole-almost-300000-employee-records/)
 - [Will startups have a shot in the enterprise AI race?](https://techcrunch.com/2023/05/22/startups-enterprise-ai-race/)
 - [Meet the Disrupt Audience Choice roundtable winners](https://techcrunch.com/2023/05/22/audience-choice-roundtable-winners-techcrunch-disrupt-2023/)
 - [Meta and data, chips and dips, crypto and meltdowns](https://techcrunch.com/2023/05/22/meta-and-data-chips-and-dips-crypto-and-meltdowns/)
-- [India’s Chalo raises $45 million in fresh funding to digitize bus commutes](https://techcrunch.com/2023/05/22/india-chalo-raises-45-million-in-fresh-funding-to-digitize-bus-commutes/)
-- [How to write the perfect cold email to investors](https://techcrunch.com/2023/05/22/the-perfect-cold-email/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
