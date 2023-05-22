@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Romania’s FlowX.ai raises $35M for its AI-based approach to application integration](https://techcrunch.com/2023/05/22/romanias-flowx-ai-raises-35m-for-its-ai-based-approach-to-application-integration/)
+- [Venmo targets young consumers and parents with new teen accounts and debit card](https://techcrunch.com/2023/05/22/venmo-targets-young-users-parents-new-teen-account-debit-card/)
+- [Opentrons aims to democratize lab access with its Flex robot](https://techcrunch.com/2023/05/22/opentrons-aims-to-democratize-lab-access-with-its-flex-robot/)
+- [Fetch founder Melonee Wise joins Agility Robotics at CTO](https://techcrunch.com/2023/05/22/fetch-founder-melonee-wise-joins-agility-robotics-at-cto/)
+- [FlowX.ai raises $35M for its AI-based approach to application integration](https://techcrunch.com/2023/05/22/romanias-flowx-ai-raises-35m-for-its-ai-based-approach-to-application-integration/)
 - [How Artemis 2 moon astronaut Jeremy Hansen helped find a rare crater on Earth](https://www.space.com/artemis-2-astronaut-jeremy-hansen-rare-earth-crater)
-- [Meta ordered to suspend Facebook EU data flows as it’s hit with record €1.2BN privacy fine under GDPR](https://techcrunch.com/2023/05/22/facebook-eu-us-data-flows-decision/)
-- [Tiger Global backs Indian industrial IoT startup Infinite Uptime in $18.8M funding round](https://techcrunch.com/2023/05/22/tiger-global-india-infinite-uptime-funding/)
-- [PhonePe expands new funding to $850 million](https://techcrunch.com/2023/05/21/phonepe-secures-additional-100-million-from-general-atlantic/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
