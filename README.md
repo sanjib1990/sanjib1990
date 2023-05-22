@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How would we decode a message from ET? New project will give us a trial run](https://www.space.com/seti-decode-message-aliens-practice-sign-in-space)
+- [Relive SpaceX launch of Ax-2 private astronaut mission with these stunning photos](https://www.space.com/spacex-ax-2-astronaut-mission-launch-photos)
+- [CRO: Why startups should prioritize conversion rate optimization early](https://techcrunch.com/2023/05/22/cro-why-startups-should-prioritize-conversion-rate-optimization-early/)
 - [SpaceX&#39;s Crew Dragon capsule is now a Matchbox die-cast model](https://www.space.com/matchbox-spacex-dragon-die-cast-capsule)
 - [Dish says ransomware gang stole almost 300,000 employee records](https://techcrunch.com/2023/05/22/dish-says-ransomware-gang-stole-almost-300000-employee-records/)
-- [Will startups have a shot in the enterprise AI race?](https://techcrunch.com/2023/05/22/startups-enterprise-ai-race/)
-- [Meet the Disrupt Audience Choice roundtable winners](https://techcrunch.com/2023/05/22/audience-choice-roundtable-winners-techcrunch-disrupt-2023/)
-- [Meta and data, chips and dips, crypto and meltdowns](https://techcrunch.com/2023/05/22/meta-and-data-chips-and-dips-crypto-and-meltdowns/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
