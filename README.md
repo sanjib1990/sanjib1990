@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch SpaceX Dragon carrying private Ax-2 astronauts dock with the space station Monday morning](https://www.space.com/spacex-dragon-ax-2-space-station-docking)
+- [China bans Micron chips in key infrastructure over ‘national security’ risks](https://techcrunch.com/2023/05/21/china-bans-micron/)
 - [Patient21, a digital healthcare startup with brick-and-mortar clinics, raises $108M to grow beyond Germany](https://techcrunch.com/2023/05/21/patient21-a-digital-healthcare-startup-with-brick-and-mortar-clinics-raises-108m-to-expand-beyond-germany/)
 - [SpaceX launch of private Ax-2 astronauts just put the 600th person in orbit](https://www.space.com/spacex-ax-2-launch-600th-person-earth-orbit)
 - [SpaceX launches Ax-2 private astronaut mission to station, 1st Saudi woman in space on board &lpar;video&rpar;](https://www.space.com/spacex-ax-2-private-astronaut-mission-launch)
-- [Build-A-Bear creates fluffy &#39;zero-g indicator&#39; for Axiom Space Ax-2 crew](https://www.space.com/build-a-bear-axiom-space-ax-2-zero-g-indicator)
-- [A Tesla co-founder returns, TuSimple restructures again and Uber’s stickiness strategy](https://techcrunch.com/2023/05/21/tesla-tusimple-restructures-again-and-ubers-stickiness-strategy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
