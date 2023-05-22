@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [subnetting my coffee shop](https://www.youtube.com/watch?v=B1vqKQIPxr0)
-- [How to get rich as a solo software developer - The Ultimate Guide](https://www.youtube.com/watch?v=A4_TFHzqAAg)
-- [DESTROYING my server room wall!!](https://www.youtube.com/watch?v=VILQd424Kq0)
-- [Discussing PDF@30 Years Old - Computerphile](https://www.youtube.com/watch?v=Bffm1Ie66gM)
-- [AI regulation is coming...](https://www.youtube.com/watch?v=CDokUdux0rc)
+- [Lecture 1: Motivation, Intuition, and Examples](https://www.youtube.com/watch?v=YQQOfK3ZLRU)
+- [Lecture 4: Compact Metric Spaces](https://www.youtube.com/watch?v=Rv3xYk85Lq0)
+- [Lecture 5: Complete Metric Spaces](https://www.youtube.com/watch?v=6bPEZYhh1P4)
+- [Lecture 2: General Theory](https://www.youtube.com/watch?v=uS-w4yl35vc)
+- [Lecture 3: Compact Sets in Rⁿ](https://www.youtube.com/watch?v=RdrCzc3DxLg)
 <!-- YOUTUBE:END -->
 
 ---
