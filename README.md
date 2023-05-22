@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Romania’s FlowX.ai raises $35M for its AI-based approach to application integration](https://techcrunch.com/2023/05/22/romanias-flowx-ai-raises-35m-for-its-ai-based-approach-to-application-integration/)
 - [How Artemis 2 moon astronaut Jeremy Hansen helped find a rare crater on Earth](https://www.space.com/artemis-2-astronaut-jeremy-hansen-rare-earth-crater)
-- [Meta ordered to suspend Facebook EU data flows as it’s hit with €1.2BN privacy fine](https://techcrunch.com/2023/05/22/facebook-eu-us-data-flows-decision/)
+- [Meta ordered to suspend Facebook EU data flows as it’s hit with record €1.2BN privacy fine under GDPR](https://techcrunch.com/2023/05/22/facebook-eu-us-data-flows-decision/)
 - [Tiger Global backs Indian industrial IoT startup Infinite Uptime in $18.8M funding round](https://techcrunch.com/2023/05/22/tiger-global-india-infinite-uptime-funding/)
 - [PhonePe expands new funding to $850 million](https://techcrunch.com/2023/05/21/phonepe-secures-additional-100-million-from-general-atlantic/)
-- [Watch SpaceX Dragon carrying private Ax-2 astronauts dock with the space station Monday morning](https://www.space.com/spacex-dragon-ax-2-space-station-docking)
 <!-- BLOG-POST-LIST:END -->
 
 ---
