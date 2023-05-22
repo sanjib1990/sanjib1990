@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [WhatsApp now lets you edit messages with a 15-minute time limit](https://techcrunch.com/2023/05/22/whatsapp-now-lets-you-edit-messages-with-a-15-minute-time-limit/)
-- [Anycubic Kobra 2 review: Fast &amp; easy printing for beginners](https://www.space.com/anycubic-kobra-2-review)
-- [Onyx Private believes affluent professionals need their own bank, so it’s building one](https://techcrunch.com/2023/05/22/onyx-private-affluent-bank-fintech/)
-- [Venmo targets young consumers and parents with new teen accounts and debit card](https://techcrunch.com/2023/05/22/venmo-targets-young-users-parents-new-teen-account-debit-card/)
-- [Opentrons aims to democratize lab access with its Flex robot](https://techcrunch.com/2023/05/22/opentrons-aims-to-democratize-lab-access-with-its-flex-robot/)
+- [LinkedIn brings its verification tools to job posts, adds new message warnings for potential scams](https://techcrunch.com/2023/05/22/linkedin-verification-tools-job-posts-adds-message-warnings-potential-scams/)
+- [Volition wants to be DigiKey for industrial parts](https://techcrunch.com/2023/05/22/volition-funding/)
+- [Firmbase raises $12M to modernize financial planning for startups](https://techcrunch.com/2023/05/22/firmbase-raises-12m-to-modernize-financial-planning-for-startups/)
+- [&#39;It feels amazing!&#39; Private Ax-2 astronauts thrilled by zero gravity and Earth views after SpaceX launch &lpar;video&rpar;](https://www.space.com/spacex-ax-2-private-astronaut-reactions-zero-gravity)
+- [Hear from top Atlanta VCs at TechCrunch Live’s Atlanta event](https://techcrunch.com/2023/05/22/hear-from-top-atlanta-vcs-at-techcrunch-lives-atlanta-event/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
