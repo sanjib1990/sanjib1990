@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tiger Global backs Indian industrial IoT startup Infinite Uptime in $18.8M funding round](https://techcrunch.com/2023/05/22/tiger-global-india-infinite-uptime-funding/)
 - [PhonePe expands new funding to $850 million](https://techcrunch.com/2023/05/21/phonepe-secures-additional-100-million-from-general-atlantic/)
 - [Watch SpaceX Dragon carrying private Ax-2 astronauts dock with the space station Monday morning](https://www.space.com/spacex-dragon-ax-2-space-station-docking)
 - [China bans Micron chips in key infrastructure over ‘national security’ risks](https://techcrunch.com/2023/05/21/china-bans-micron/)
 - [Patient21, a digital healthcare startup with brick-and-mortar clinics, raises $108M to grow beyond Germany](https://techcrunch.com/2023/05/21/patient21-a-digital-healthcare-startup-with-brick-and-mortar-clinics-raises-108m-to-expand-beyond-germany/)
-- [SpaceX launch of private Ax-2 astronauts just put the 600th person in orbit](https://www.space.com/spacex-ax-2-launch-600th-person-earth-orbit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
