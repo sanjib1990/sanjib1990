@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Jupiter&#39;s lightning is strikingly similar to Earth&#39;s](https://www.space.com/jupiter-lightning-similar-earth-nasa-juno-spacecraft)
-- [These beginner-friendly Celestron telescopes are over 30% off](https://www.space.com/celestron-telescope-deals-amazon-save-over-30-percent-may)
-- [See the crescent moon have a close encounter with Mars tonight](https://www.space.com/moon-mars-conjunction-appulse-may-2023)
-- [&#39;Star Trek: Resurgence&#39; video game warps out for Trek gamers today](https://www.space.com/star-trek-resurgence-video-game-release-may-23)
-- [This new supernova is the closest to Earth in a decade. It&#39;s visible in the night sky right now.](https://www.space.com/supernova-closest-earth-m101-galaxy)
+- [Introducing the Disrupt Audience Choice breakout winners](https://techcrunch.com/2023/05/23/audience-choice-breakout-winners-techcrunch-disrupt-2023/)
+- [TechCrunch+ roundup: Make your CRO fly, cut cloud costs correctly, how to write a cold email](https://techcrunch.com/2023/05/23/techcrunch-roundup-make-your-cro-fly-cut-cloud-costs-correctly-how-to-write-a-cold-email/)
+- [Spotify may use AI to make host-read podcast ads that sound like real people](https://techcrunch.com/2023/05/23/spotify-may-use-ai-to-make-host-read-podcast-ads-that-sound-like-real-people/)
+- [Apple invites media to WWDC 2023 keynote, where AR headset is expected to debut](https://techcrunch.com/2023/05/23/apple-invites-media-to-wwdc-2023-keynote-where-ar-headset-is-expected-to-debut/)
+- [Lego to roll out Mars rover Perseverance as new Technic set on August 1](https://www.space.com/lego-technic-nasa-mars-rover-perseverance)
 <!-- BLOG-POST-LIST:END -->
 
 ---
