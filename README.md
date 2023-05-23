@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Adobe brings Firefly’s generative AI to Photoshop](https://techcrunch.com/2023/05/23/adobe-brings-fireflys-generative-ai-to-photoshop/)
-- [Sequoia India’s Surge backs AI-powered video creation platform Gan.ai in $5.2M funding](https://techcrunch.com/2023/05/23/sequoia-indias-surge-backs-ai-powered-video-creation-platform-gan-ai-in-5-2m-funding/)
-- [E3 Capital and Lion’s Head climate fund hits first close at $48M to back African startups](https://techcrunch.com/2023/05/23/e3-capital-and-lions-head-climate-fund-hits-first-close-at-48m-to-back-african-startups/)
-- [Watch SpaceX launch big telecom satellite to orbit tonight](https://www.space.com/spacex-arabsat-badr-8-launch)
-- [South African challenger bank TymeBank raises $77.8M from Norrsken22 and Blue Earth Capital](https://techcrunch.com/2023/05/23/south-african-challenger-bank-tymebank-raises-77-8m-from-norrsken22-and-blue-earth-capital/)
+- [Proton launches family subscription plan for privacy app suite starting at $20 per month](https://techcrunch.com/2023/05/23/proton-launches-family-subscription-plan-for-privacy-app-suite-starting-at-20-per-month/)
+- [Ballerine brings open source to banks’ risk and identity decision-making](https://techcrunch.com/2023/05/23/ballerine-brings-open-source-to-banks-risk-and-identity-decision-making/)
+- [This new supernova is the closest to Earth in a decade. It&#39;s visible in the night sky right now.](https://www.space.com/supernova-closest-earth-m101-galaxy)
+- [Solana launches ChatGPT plugin to help users interact with its network](https://techcrunch.com/2023/05/23/solana-chatgpt-blockchain/)
+- [Waymo’s self-driving cars will be available on Uber’s app, starting in Phoenix](https://techcrunch.com/2023/05/23/waymos-self-driving-cars-will-be-available-on-ubers-app-starting-in-phoenix/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
