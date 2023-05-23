@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Modular app-building platform Buildier.ai raises $250 million Series D funding](https://techcrunch.com/2023/05/23/modular-app-building-platform-buildier-ai-raises-250-million-series-d-funding/)
 - [Cutting your cloud spend? Consider sharing your bill data internally](https://techcrunch.com/2023/05/23/cutting-your-cloud-spend-consider-sharing-your-bill-data-internally/)
 - [The Shein-Reliance India alliance could offer inspiration for Chinese startups](https://techcrunch.com/2023/05/22/shein-reliance-partnership-india/)
 - [Artifact news app introduces emoji reactions and flagging articles as clickbait](https://techcrunch.com/2023/05/22/artifact-news-app-introduces-emoji-reactions-and-flagging-articles-as-clickbait/)
-- [Reliance JioMart to cut 11,000 jobs, report says](https://techcrunch.com/2023/05/22/reliance-jiomart-to-cut-11000-jobs-report-says/)
-- [Dyson upgrades its vacuums and air purifiers](https://techcrunch.com/2023/05/22/dyson-upgrades-its-vacuums-and-air-purifiers/)
+- [Reliance JioMart cuts 1,000 jobs and to eliminate thousands more, report says](https://techcrunch.com/2023/05/22/reliance-jiomart-to-cut-11000-jobs-report-says/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
