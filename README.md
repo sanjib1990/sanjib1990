@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX joining FAA to fight environmental groups&#39; Starship lawsuit: report](https://www.space.com/spacex-joins-faa-starship-environmental-lawsuit)
-- [TikTok’s lead privacy regulator in Europe takes heat from MEPs](https://techcrunch.com/2023/05/23/tiktok-helen-dixon-libe-committee/)
-- [Space pictures! See our image of the day](https://www.space.com/34-image-day.html)
-- [The other DWI: Driving while immersed](https://techcrunch.com/2023/05/23/the-other-dwi-driving-while-immersed/)
-- [Peloton relaunches its workout app with new free and pricer subscription tiers](https://techcrunch.com/2023/05/23/peloton-relaunches-workout-app-free-pricer-tiers/)
+- [28 years later, Windows finally supports RAR files](https://techcrunch.com/2023/05/23/28-years-later-windows-finally-supports-rar-files/)
+- [Virgin Orbit’s launch business sold for parts to Vast, Stratolaunch, and Rocket Lab](https://techcrunch.com/2023/05/23/virgin-orbits-launch-business-sold-for-parts-to-vast-stratolaunch-and-rocket-lab/)
+- [Netflix begins its password sharing crackdown in the U.S.](https://techcrunch.com/2023/05/23/netflix-begins-its-password-sharing-crackdown-in-the-u-s/)
+- [A spaceport startup launched the 1st rocket from a floating launch pad in US waters](https://www.space.com/rocket-launch-us-territorial-waters-floating-pad)
+- [Apple confirms iMessage is currently experiencing issues](https://techcrunch.com/2023/05/23/apple-confirms-imessage-is-currently-experiencing-issues/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
