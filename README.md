@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Chrome is removing the lock icon!?](https://www.youtube.com/watch?v=7sV532RHBqA)
+- [Why did my side-hustle fail? How to validate business ideas](https://www.youtube.com/watch?v=4_MDP6TcHwU)
 - [Lecture 1: Motivation, Intuition, and Examples](https://www.youtube.com/watch?v=YQQOfK3ZLRU)
 - [Lecture 4: Compact Metric Spaces](https://www.youtube.com/watch?v=Rv3xYk85Lq0)
 - [Lecture 5: Complete Metric Spaces](https://www.youtube.com/watch?v=6bPEZYhh1P4)
-- [Lecture 2: General Theory](https://www.youtube.com/watch?v=uS-w4yl35vc)
-- [Lecture 3: Compact Sets in Rⁿ](https://www.youtube.com/watch?v=RdrCzc3DxLg)
 <!-- YOUTUBE:END -->
 
 ---
