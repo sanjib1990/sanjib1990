@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Chrome makes it easier to customize the appearance of your browser](https://techcrunch.com/2023/05/23/chrome-makes-it-easier-to-customize-the-appearance-of-your-browser/)
+- [Moon crash site found! NASA orbiter spots grave of private Japanese lander &lpar;photos&rpar;](https://www.space.com/japan-hakuto-r-moon-lander-crash-site-found)
 - [28 years later, Windows finally supports RAR files](https://techcrunch.com/2023/05/23/28-years-later-windows-finally-supports-rar-files/)
 - [Virgin Orbit’s launch business sold for parts to Vast, Stratolaunch, and Rocket Lab](https://techcrunch.com/2023/05/23/virgin-orbits-launch-business-sold-for-parts-to-vast-stratolaunch-and-rocket-lab/)
 - [Netflix begins its password sharing crackdown in the U.S.](https://techcrunch.com/2023/05/23/netflix-begins-its-password-sharing-crackdown-in-the-u-s/)
-- [A spaceport startup launched the 1st rocket from a floating launch pad in US waters](https://www.space.com/rocket-launch-us-territorial-waters-floating-pad)
-- [Apple confirms iMessage is currently experiencing issues](https://techcrunch.com/2023/05/23/apple-confirms-imessage-is-currently-experiencing-issues/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
