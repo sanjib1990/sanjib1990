@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apptronik readies its humanoid robot for a summer unveil](https://techcrunch.com/2023/05/23/apptronik-readies-its-humanoid-robot-for-a-summer-unveil/)
 - [Ford to keep AM radio in cars after pressure from lawmakers](https://techcrunch.com/2023/05/23/ford-to-keep-am-radio-in-cars-after-pressure-from-lawmakers/)
 - [You can grab the Celestron PowerSeeker 50AZ for $50](https://www.space.com/celestron-powerseeker-50-az-50-dollars-may-2023)
 - [Suborbital explorers: Meet Virgin Galactic&#39;s test pilots in this new video](https://www.space.com/virgin-galactic-test-pilots-video-may-2023)
 - [Ford tries zagging in the EV arms race](https://techcrunch.com/2023/05/23/ford-tries-zagging-in-the-ev-arms-race/)
-- [Chrome makes it easier to customize the appearance of your browser](https://techcrunch.com/2023/05/23/chrome-makes-it-easier-to-customize-the-appearance-of-your-browser/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
