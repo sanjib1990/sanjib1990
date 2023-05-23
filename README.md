@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Proton launches family subscription plan for privacy app suite starting at $20 per month](https://techcrunch.com/2023/05/23/proton-launches-family-subscription-plan-for-privacy-app-suite-starting-at-20-per-month/)
-- [Ballerine brings open source to banks’ risk and identity decision-making](https://techcrunch.com/2023/05/23/ballerine-brings-open-source-to-banks-risk-and-identity-decision-making/)
-- [This new supernova is the closest to Earth in a decade. It&#39;s visible in the night sky right now.](https://www.space.com/supernova-closest-earth-m101-galaxy)
-- [Solana launches ChatGPT plugin to help users interact with its network](https://techcrunch.com/2023/05/23/solana-chatgpt-blockchain/)
-- [Waymo’s self-driving cars will be available on Uber’s app, starting in Phoenix](https://techcrunch.com/2023/05/23/waymos-self-driving-cars-will-be-available-on-ubers-app-starting-in-phoenix/)
+- [Datasembly grabs $16M to give brick-and-mortar retail a big data pricing intel boost](https://techcrunch.com/2023/05/23/datasembly-grabs-16m-to-give-brick-and-mortar-retail-a-big-data-pricing-intel-boost/)
+- [Amazon launches its biggest tablet, the $230 Fire Max 11](https://techcrunch.com/2023/05/23/amazon-launches-its-biggest-tablet-the-230-fire-max-11/)
+- [Nab two-for-one Disrupt passes at our weeklong Memorial Day sale](https://techcrunch.com/2023/05/23/memorial-day-two-for-one-passes-techcrunch-disrupt-2023/)
+- [Red Hat brings generative AI to IT automation with Ansible Lightspeed](https://techcrunch.com/2023/05/23/red-hat-is-bringing-generative-ai-to-it-operations-with-ansible-lightspeed/)
+- [&#39;Star Trek: Resurgence&#39; video game comes out today](https://www.space.com/star-trek-resurgence-video-game-release-may-23)
 <!-- BLOG-POST-LIST:END -->
 
 ---
