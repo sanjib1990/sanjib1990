@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ford to keep AM radio in cars after pressure from lawmakers](https://techcrunch.com/2023/05/23/ford-to-keep-am-radio-in-cars-after-pressure-from-lawmakers/)
+- [You can grab the Celestron PowerSeeker 50AZ for $50](https://www.space.com/celestron-powerseeker-50-az-50-dollars-may-2023)
+- [Suborbital explorers: Meet Virgin Galactic&#39;s test pilots in this new video](https://www.space.com/virgin-galactic-test-pilots-video-may-2023)
+- [Ford tries zagging in the EV arms race](https://techcrunch.com/2023/05/23/ford-tries-zagging-in-the-ev-arms-race/)
 - [Chrome makes it easier to customize the appearance of your browser](https://techcrunch.com/2023/05/23/chrome-makes-it-easier-to-customize-the-appearance-of-your-browser/)
-- [Moon crash site found! NASA orbiter spots grave of private Japanese lander &lpar;photos&rpar;](https://www.space.com/japan-hakuto-r-moon-lander-crash-site-found)
-- [28 years later, Windows finally supports RAR files](https://techcrunch.com/2023/05/23/28-years-later-windows-finally-supports-rar-files/)
-- [Virgin Orbit’s launch business sold for parts to Vast, Stratolaunch, and Rocket Lab](https://techcrunch.com/2023/05/23/virgin-orbits-launch-business-sold-for-parts-to-vast-stratolaunch-and-rocket-lab/)
-- [Netflix begins its password sharing crackdown in the U.S.](https://techcrunch.com/2023/05/23/netflix-begins-its-password-sharing-crackdown-in-the-u-s/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
