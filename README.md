@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Reliance JioMart to cut 11,000 jobs, report says](https://techcrunch.com/2023/05/22/reliance-jiomart-to-cut-11000-jobs-report-says/)
 - [Dyson upgrades its vacuums and air purifiers](https://techcrunch.com/2023/05/22/dyson-upgrades-its-vacuums-and-air-purifiers/)
 - [Daylight, the LGBTQ+ neobank, calls it quits](https://techcrunch.com/2023/05/22/daylight-the-lgbtq-neobank-calls-it-quits/)
 - [Anthemis targets $200M for new fund after layoffs and canceled SPAC](https://techcrunch.com/2023/05/22/anthemis-targets-200m-for-new-fund-after-layoffs-and-terminating-spac/)
 - [Going for a walk with Shift’s Moonwalker electric shoe-skates](https://techcrunch.com/2023/05/22/going-for-a-walk-with-shifts-moonwalker-electric-shoe-skates/)
-- [Max Q: Double the fun](https://techcrunch.com/2023/05/22/max-q-double-the-fun/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
