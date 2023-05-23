@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft launches an AI tool to take the pain out of building websites](https://techcrunch.com/2023/05/23/microsoft-launches-an-ai-tool-to-take-the-pain-out-of-building-websites/)
-- [Microsoft’s Azure AI Studio lets developers build their own AI ‘copilots’](https://techcrunch.com/2023/05/23/microsoft-debuts-azure-ai-studio-to-let-developers-build-their-own-ai-copilots/)
-- [Microsoft goes all in on plugins for AI apps](https://techcrunch.com/2023/05/23/microsoft-goes-all-in-on-plugins-for-ai-apps/)
-- [Microsoft wants to make Windows a better place for developers](https://techcrunch.com/2023/05/23/microsoft-wants-to-make-windows-a-better-place-for-developers/)
-- [Microsoft launches Fabric, a new end-to-end data and analytics platform](https://techcrunch.com/2023/05/23/microsoft-launches-fabric-a-new-end-to-end-data-and-analytics-platform/)
+- [Jupiter&#39;s lightning is strikingly similar to Earth&#39;s](https://www.space.com/jupiter-lightning-similar-earth-nasa-juno-spacecraft)
+- [These beginner-friendly Celestron telescopes are over 30% off](https://www.space.com/celestron-telescope-deals-amazon-save-over-30-percent-may)
+- [See the crescent moon have a close encounter with Mars tonight](https://www.space.com/moon-mars-conjunction-appulse-may-2023)
+- [&#39;Star Trek: Resurgence&#39; video game warps out for Trek gamers today](https://www.space.com/star-trek-resurgence-video-game-release-may-23)
+- [This new supernova is the closest to Earth in a decade. It&#39;s visible in the night sky right now.](https://www.space.com/supernova-closest-earth-m101-galaxy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
