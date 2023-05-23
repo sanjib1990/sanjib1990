@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Datasembly grabs $16M to give brick-and-mortar retail a big data pricing intel boost](https://techcrunch.com/2023/05/23/datasembly-grabs-16m-to-give-brick-and-mortar-retail-a-big-data-pricing-intel-boost/)
-- [Amazon launches its biggest tablet, the $230 Fire Max 11](https://techcrunch.com/2023/05/23/amazon-launches-its-biggest-tablet-the-230-fire-max-11/)
-- [Nab two-for-one Disrupt passes at our weeklong Memorial Day sale](https://techcrunch.com/2023/05/23/memorial-day-two-for-one-passes-techcrunch-disrupt-2023/)
-- [Red Hat brings generative AI to IT automation with Ansible Lightspeed](https://techcrunch.com/2023/05/23/red-hat-is-bringing-generative-ai-to-it-operations-with-ansible-lightspeed/)
-- [&#39;Star Trek: Resurgence&#39; video game comes out today](https://www.space.com/star-trek-resurgence-video-game-release-may-23)
+- [Dispersion Capital launches $40M fund focused on decentralized infrastructure](https://techcrunch.com/2023/05/23/dispersion-capital-launches-40m-fund-focused-on-decentralized-infrastructure/)
+- [Looking Glass taps ChatGPT for holographic cartoon animals](https://techcrunch.com/2023/05/23/looking-glass-taps-chatgpt-for-holograms-you-can-talk-to/)
+- [Anthropic raises $450M to build next-gen AI assistants](https://techcrunch.com/2023/05/23/anthropic-raises-350m-to-build-next-gen-ai-assistants/)
+- [Flipboard becomes first to support Bluesky, Mastodon and Pixelfed all in one app](https://techcrunch.com/2023/05/23/flipboard-becomes-first-to-support-bluesky-mastodon-and-pixelfed-all-in-one-app/)
+- [Singapore-based BandLab Technologies raises $25M at $415M valuation](https://techcrunch.com/2023/05/23/bandlab-b1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
