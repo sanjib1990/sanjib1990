@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing the Disrupt Audience Choice breakout winners](https://techcrunch.com/2023/05/23/audience-choice-breakout-winners-techcrunch-disrupt-2023/)
-- [TechCrunch+ roundup: Make your CRO fly, cut cloud costs correctly, how to write a cold email](https://techcrunch.com/2023/05/23/techcrunch-roundup-make-your-cro-fly-cut-cloud-costs-correctly-how-to-write-a-cold-email/)
-- [Spotify may use AI to make host-read podcast ads that sound like real people](https://techcrunch.com/2023/05/23/spotify-may-use-ai-to-make-host-read-podcast-ads-that-sound-like-real-people/)
-- [Apple invites media to WWDC 2023 keynote, where AR headset is expected to debut](https://techcrunch.com/2023/05/23/apple-invites-media-to-wwdc-2023-keynote-where-ar-headset-is-expected-to-debut/)
-- [Lego to roll out Mars rover Perseverance as new Technic set on August 1](https://www.space.com/lego-technic-nasa-mars-rover-perseverance)
+- [SpaceX joining FAA to fight environmental groups&#39; Starship lawsuit: report](https://www.space.com/spacex-joins-faa-starship-environmental-lawsuit)
+- [TikTok’s lead privacy regulator in Europe takes heat from MEPs](https://techcrunch.com/2023/05/23/tiktok-helen-dixon-libe-committee/)
+- [Space pictures! See our image of the day](https://www.space.com/34-image-day.html)
+- [The other DWI: Driving while immersed](https://techcrunch.com/2023/05/23/the-other-dwi-driving-while-immersed/)
+- [Peloton relaunches its workout app with new free and pricer subscription tiers](https://techcrunch.com/2023/05/23/peloton-relaunches-workout-app-free-pricer-tiers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
