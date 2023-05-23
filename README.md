@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Adobe brings Firefly’s generative AI to Photoshop](https://techcrunch.com/2023/05/23/adobe-brings-fireflys-generative-ai-to-photoshop/)
+- [Sequoia India’s Surge backs AI-powered video creation platform Gan.ai in $5.2M funding](https://techcrunch.com/2023/05/23/sequoia-indias-surge-backs-ai-powered-video-creation-platform-gan-ai-in-5-2m-funding/)
 - [E3 Capital and Lion’s Head climate fund hits first close at $48M to back African startups](https://techcrunch.com/2023/05/23/e3-capital-and-lions-head-climate-fund-hits-first-close-at-48m-to-back-african-startups/)
+- [Watch SpaceX launch big telecom satellite to orbit tonight](https://www.space.com/spacex-arabsat-badr-8-launch)
 - [South African challenger bank TymeBank raises $77.8M from Norrsken22 and Blue Earth Capital](https://techcrunch.com/2023/05/23/south-african-challenger-bank-tymebank-raises-77-8m-from-norrsken22-and-blue-earth-capital/)
-- [Collaborative Fund and the Wyss Institute partner to bridge the climate tech ‘valley of death’](https://techcrunch.com/2023/05/23/collaborative-fund-wyss-institute-partnership/)
-- [Max makes its debut in the U.S. to give subscribers 35K hours of content](https://techcrunch.com/2023/05/23/max-makes-its-debut-in-the-us-warner-bros-discovery-launch/)
-- [Matrix Partners expands new India fund to $525 million](https://techcrunch.com/2023/05/23/matrix-partners-expands-new-india-fund-to-525-million/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
