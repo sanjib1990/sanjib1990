@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Dispersion Capital launches $40M fund focused on decentralized infrastructure](https://techcrunch.com/2023/05/23/dispersion-capital-launches-40m-fund-focused-on-decentralized-infrastructure/)
-- [Looking Glass taps ChatGPT for holographic cartoon animals](https://techcrunch.com/2023/05/23/looking-glass-taps-chatgpt-for-holograms-you-can-talk-to/)
-- [Anthropic raises $450M to build next-gen AI assistants](https://techcrunch.com/2023/05/23/anthropic-raises-350m-to-build-next-gen-ai-assistants/)
-- [Flipboard becomes first to support Bluesky, Mastodon and Pixelfed all in one app](https://techcrunch.com/2023/05/23/flipboard-becomes-first-to-support-bluesky-mastodon-and-pixelfed-all-in-one-app/)
-- [Singapore-based BandLab Technologies raises $25M at $415M valuation](https://techcrunch.com/2023/05/23/bandlab-b1/)
+- [Microsoft launches an AI tool to take the pain out of building websites](https://techcrunch.com/2023/05/23/microsoft-launches-an-ai-tool-to-take-the-pain-out-of-building-websites/)
+- [Microsoft’s Azure AI Studio lets developers build their own AI ‘copilots’](https://techcrunch.com/2023/05/23/microsoft-debuts-azure-ai-studio-to-let-developers-build-their-own-ai-copilots/)
+- [Microsoft goes all in on plugins for AI apps](https://techcrunch.com/2023/05/23/microsoft-goes-all-in-on-plugins-for-ai-apps/)
+- [Microsoft wants to make Windows a better place for developers](https://techcrunch.com/2023/05/23/microsoft-wants-to-make-windows-a-better-place-for-developers/)
+- [Microsoft launches Fabric, a new end-to-end data and analytics platform](https://techcrunch.com/2023/05/23/microsoft-launches-fabric-a-new-end-to-end-data-and-analytics-platform/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
