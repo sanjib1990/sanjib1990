@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dyson upgrades its vacuums and air purifiers](https://techcrunch.com/2023/05/22/dyson-upgrades-its-vacuums-and-air-purifiers/)
 - [Daylight, the LGBTQ+ neobank, calls it quits](https://techcrunch.com/2023/05/22/daylight-the-lgbtq-neobank-calls-it-quits/)
 - [Anthemis targets $200M for new fund after layoffs and canceled SPAC](https://techcrunch.com/2023/05/22/anthemis-targets-200m-for-new-fund-after-layoffs-and-terminating-spac/)
 - [Going for a walk with Shift’s Moonwalker electric shoe-skates](https://techcrunch.com/2023/05/22/going-for-a-walk-with-shifts-moonwalker-electric-shoe-skates/)
 - [Max Q: Double the fun](https://techcrunch.com/2023/05/22/max-q-double-the-fun/)
-- [Some black holes may actually be tangles in the fabric of space-time, new research suggests](https://www.space.com/black-holes-may-actually-be-tangles-in-space-time)
 <!-- BLOG-POST-LIST:END -->
 
 ---
