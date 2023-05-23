@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Modular app-building platform Buildier.ai raises $250 million Series D funding](https://techcrunch.com/2023/05/23/modular-app-building-platform-buildier-ai-raises-250-million-series-d-funding/)
-- [Cutting your cloud spend? Consider sharing your bill data internally](https://techcrunch.com/2023/05/23/cutting-your-cloud-spend-consider-sharing-your-bill-data-internally/)
-- [The Shein-Reliance India alliance could offer inspiration for Chinese startups](https://techcrunch.com/2023/05/22/shein-reliance-partnership-india/)
-- [Artifact news app introduces emoji reactions and flagging articles as clickbait](https://techcrunch.com/2023/05/22/artifact-news-app-introduces-emoji-reactions-and-flagging-articles-as-clickbait/)
-- [Reliance JioMart cuts 1,000 jobs and to eliminate thousands more, report says](https://techcrunch.com/2023/05/22/reliance-jiomart-to-cut-11000-jobs-report-says/)
+- [E3 Capital and Lion’s Head climate fund hits first close at $48M to back African startups](https://techcrunch.com/2023/05/23/e3-capital-and-lions-head-climate-fund-hits-first-close-at-48m-to-back-african-startups/)
+- [South African challenger bank TymeBank raises $77.8M from Norrsken22 and Blue Earth Capital](https://techcrunch.com/2023/05/23/south-african-challenger-bank-tymebank-raises-77-8m-from-norrsken22-and-blue-earth-capital/)
+- [Collaborative Fund and the Wyss Institute partner to bridge the climate tech ‘valley of death’](https://techcrunch.com/2023/05/23/collaborative-fund-wyss-institute-partnership/)
+- [Max makes its debut in the U.S. to give subscribers 35K hours of content](https://techcrunch.com/2023/05/23/max-makes-its-debut-in-the-us-warner-bros-discovery-launch/)
+- [Matrix Partners expands new India fund to $525 million](https://techcrunch.com/2023/05/23/matrix-partners-expands-new-india-fund-to-525-million/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
