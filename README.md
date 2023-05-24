@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [40 years on, &#39;Return of the Jedi&#39; is still up there with the best of &#39;Star Wars&#39;](https://www.space.com/40-years-on-return-of-the-jedi-is-still-up-there-with-the-best-of-star-wars)
+- [Meet the tiny, wireless sleep apnea diagnostic wearable headed for the US](https://techcrunch.com/2023/05/24/acurable-acupebble-us-clearance/)
 - [Space pictures! See our image of the day](https://www.space.com/34-image-day.html)
 - [Figure raises $70M to build its humanoid robots](https://techcrunch.com/2023/05/24/2546360/)
 - [What’s getting funded in climate tech: Managing ESG data, supplying fusion startups and removing carbon](https://techcrunch.com/2023/05/24/climate-tech-funding-esg-carbon-removal-fusion/)
-- [Meet the 8 people flying on Virgin Galactic&#39;s 5th spaceflight on Thursday](https://www.space.com/virgin-galactic-unity-25-meet-the-crew)
-- [Hubble Space Telescope reveals a rare black hole lurking in our cosmic backyard &lpar;video&rpar;](https://www.space.com/hubble-space-telescope-black-hole-cosmic-backyard)
 <!-- BLOG-POST-LIST:END -->
 
 ---
