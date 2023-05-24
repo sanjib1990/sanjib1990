@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta conducts yet another round of layoffs](https://techcrunch.com/2023/05/24/meta-conducts-yet-another-round-of-layoffs/)
+- [Ten months after promotion, Red Hat CEO Matt Hicks navigates layoffs and AI’s rise](https://techcrunch.com/2023/05/24/red-hat-ceo-layoffs-ai/)
+- [NASA serves up $750,000 to Deep Space Food Challenge winners in cook-off for astronaut eats](https://www.space.com/nasa-deep-space-food-challenge-2023)
+- [Don’t miss your last chance to pitch on the TC Disrupt stage](https://techcrunch.com/2023/05/24/one-week-left-apply-pitch-on-stage-techcrunch-disrupt-2023/)
 - [Watch Rocket Lab launch 2 tiny NASA hurricane-watching probes early Thursday](https://www.space.com/rocket-lab-second-tropics-hurricane-launch-may-2023)
-- [DataOps.live gets $17.5M from Snowflake, others for DevOps-style tools aimed at data experts](https://techcrunch.com/2023/05/24/dataops-live-gets-17-5m-from-snowflake-others-for-devops-style-tools-aimed-at-data-experts/)
-- [SoundCloud lays off 8% of staff as it aims to reach profitability this year](https://techcrunch.com/2023/05/24/soundcloud-lays-off-8-of-staff-as-it-aims-to-reach-profitability-this-year/)
-- [40 years on, &#39;Return of the Jedi&#39; is still up there with the best of &#39;Star Wars&#39;](https://www.space.com/40-years-on-return-of-the-jedi-is-still-up-there-with-the-best-of-star-wars)
-- [Meet the tiny, wireless sleep apnea diagnostic wearable headed for the US](https://techcrunch.com/2023/05/24/acurable-acupebble-us-clearance/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
