@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch a new supernova explode on May 25 with free telescope livestream](https://www.space.com/new-supernova-pinwheel-galaxy-livestream-may-2023)
-- [Paramount+ to increase in price when it combines with Showtime on June 27](https://techcrunch.com/2023/05/24/paramount-to-increase-in-price-when-it-combines-with-showtime-on-june-27/)
-- [Mastercard sees ‘a lot of promise’ in blockchain tech if safety and simplicity are prioritized](https://techcrunch.com/2023/05/24/mastercard-blockchain-crypto/)
-- [The north pole of Uranus has a stormy vortex and we&#39;ve just seen it for the 1st time &lpar;photo&rpar;](https://www.space.com/uranus-north-pole-polar-vortex-discovery)
-- [Gitai wants to build a robotic labor force for the moon and Mars](https://techcrunch.com/2023/05/24/gitai-wants-to-build-the-robotic-labor-force-for-the-moon-and-mars/)
+- [Arc launches HireAI to make finding software developers easier](https://techcrunch.com/2023/05/24/arc-launches-hireai/)
+- [Astranis’ novel approach to internet satellites is starting to pay off](https://techcrunch.com/2023/05/24/astranis-novel-approach-to-internet-satellites-is-starting-to-pay-off/)
+- [Memcyco raises $10M to protect businesses from brandjacking](https://techcrunch.com/2023/05/24/memcyco-raises-10m-to-protect-businesses-from-brandjacking/)
+- [Virgin Orbit shuts down after selling key assets to 3 aerospace companies](https://www.space.com/virgin-orbit-ceases-operations-sells-assets)
+- [Opera launches new integrated AI sidebar powered by OpenAI’s ChatGPT](https://techcrunch.com/2023/05/24/opera-launches-new-integrated-ai-sidebar-powered-by-openais-chatgpt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
