@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [EBANX: We will be operating in 11 African countries by the end of the year](https://techcrunch.com/2023/05/24/ebanx-we-will-be-operating-in-11-african-countries-by-the-end-of-the-year/)
-- [DouxMatok takes sweet journey to become Incredo after securing $30M](https://techcrunch.com/2023/05/24/douxmatok-incredo-sugar-foodtech-30m/)
-- [Microsoft’s AI reaches Indian villages](https://techcrunch.com/2023/05/24/microsoft-ai-chatgpt-reaches-rural-india/)
-- [What is this? A car for ants? Volvo hypes EX30’s ‘smaller’ CO2 footprint](https://techcrunch.com/2023/05/24/what-is-this-a-car-for-ants-volvo-hypes-the-ex30s-carbon-footprint/)
-- [The Backbone One: PlayStation Edition mobile controller is now available for Android](https://techcrunch.com/2023/05/23/the-backbone-one-playstation-edition-mobile-controller-is-now-available-for-android/)
+- [Space pictures! See our image of the day](https://www.space.com/34-image-day.html)
+- [Figure raises $70M to build its humanoid robots](https://techcrunch.com/2023/05/24/2546360/)
+- [What’s getting funded in climate tech: Managing ESG data, supplying fusion startups and removing carbon](https://techcrunch.com/2023/05/24/climate-tech-funding-esg-carbon-removal-fusion/)
+- [Meet the 8 people flying on Virgin Galactic&#39;s 5th spaceflight on Thursday](https://www.space.com/virgin-galactic-unity-25-meet-the-crew)
+- [Hubble Space Telescope reveals a rare black hole lurking in our cosmic backyard &lpar;video&rpar;](https://www.space.com/hubble-space-telescope-black-hole-cosmic-backyard)
 <!-- BLOG-POST-LIST:END -->
 
 ---
