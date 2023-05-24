@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [iOS 17 will turn locked iPhones into smart home-style displays, report says](https://techcrunch.com/2023/05/24/apples-ios-17-turn-locked-iphones-smart-home-style-displays/)
-- [Netflix tests its staying power with global password crackdown](https://techcrunch.com/2023/05/24/netflix-tests-its-staying-power-with-global-password-crackdown/)
-- [Ask Sophie: What are my options if a company rescinds my OPT job offer?](https://techcrunch.com/2023/05/24/ask-sophie-what-are-my-options-if-a-company-rescinds-my-opt-job-offer/)
-- [NASA&#39;s asteroid-hopping Lucy probe on course for 1st space rock flyby in November](https://www.space.com/nasa-lucy-asteroid-probe-on-course-flyby-november)
-- [Jumia reaches lowest losses in four years under new management](https://techcrunch.com/2023/05/24/jumia-reaches-lowest-losses-in-four-years-under-new-management/)
+- [&#39;Alien&#39; signal beamed to Earth from Mars in SETI test](https://www.space.com/seti-alien-message-decoding-practice)
+- [New Vulcan Centaur rocket may test-fire its engines on the launch pad for 1st time on May 25](https://www.space.com/ula-vulcan-centaur-rocket-first-static-fire)
+- [A comprehensive list of 2023 tech layoffs](https://techcrunch.com/2023/05/24/tech-industry-layoffs-2023/)
+- [No tears, only launches now: Virgin Galactic heads back to space as Virgin Orbit goes under](https://techcrunch.com/2023/05/24/no-tears-only-launches-now-virgin-galactic-heads-back-to-space-as-virgin-orbit-goes-under/)
+- [Thermal imaging startup Satellite Vu closes $15.8 million ahead of first launch](https://techcrunch.com/2023/05/24/thermal-imaging-startup-satellite-vu-closes-15-8-million-ahead-of-first-launch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
