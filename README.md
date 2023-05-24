@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Arc launches HireAI to make finding software developers easier](https://techcrunch.com/2023/05/24/arc-launches-hireai/)
-- [Astranis’ novel approach to internet satellites is starting to pay off](https://techcrunch.com/2023/05/24/astranis-novel-approach-to-internet-satellites-is-starting-to-pay-off/)
-- [Memcyco raises $10M to protect businesses from brandjacking](https://techcrunch.com/2023/05/24/memcyco-raises-10m-to-protect-businesses-from-brandjacking/)
-- [Virgin Orbit shuts down after selling key assets to 3 aerospace companies](https://www.space.com/virgin-orbit-ceases-operations-sells-assets)
-- [Opera launches new integrated AI sidebar powered by OpenAI’s ChatGPT](https://techcrunch.com/2023/05/24/opera-launches-new-integrated-ai-sidebar-powered-by-openais-chatgpt/)
+- [Elon thinks AI could become humanity’s uber-nanny: excerpts from a dinner convo](https://techcrunch.com/2023/05/24/elon-thinks-ai-could-become-humanitys-uber-nanny-excerpts-from-a-dinner-convo/)
+- [Elementl raises $33M Series B for its data orchestration platform based on Dagster](https://techcrunch.com/2023/05/24/elementl-raises-33m-series-b-for-its-data-orchestration-platform-based-on-dagster/)
+- [Why aren’t venture capitalists flocking to fund cybersecurity startups?](https://techcrunch.com/2023/05/24/venture-capital-funding-cybersecurity-startups/)
+- [Save a stellar $500 on the Nikon D850: One of the best DSLRs ever made](https://www.space.com/nikon-d850-500-dollar-saving-may-2023)
+- [Comcast announces $20 streaming service ‘NOW TV’ with Peacock included](https://techcrunch.com/2023/05/24/comcast-now-tv-streaming-service-with-peacock-included/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
