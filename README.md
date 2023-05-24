@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [EBANX: We will be operating in 11 African countries by the end of the year](https://techcrunch.com/2023/05/24/ebanx-we-will-be-operating-in-11-african-countries-by-the-end-of-the-year/)
+- [DouxMatok takes sweet journey to become Incredo after securing $30M](https://techcrunch.com/2023/05/24/douxmatok-incredo-sugar-foodtech-30m/)
+- [Microsoft’s AI reaches Indian villages](https://techcrunch.com/2023/05/24/microsoft-ai-chatgpt-reaches-rural-india/)
+- [What is this? A car for ants? Volvo hypes EX30’s ‘smaller’ CO2 footprint](https://techcrunch.com/2023/05/24/what-is-this-a-car-for-ants-volvo-hypes-the-ex30s-carbon-footprint/)
 - [The Backbone One: PlayStation Edition mobile controller is now available for Android](https://techcrunch.com/2023/05/23/the-backbone-one-playstation-edition-mobile-controller-is-now-available-for-android/)
-- [Watch Russian cargo craft launch toward space station Wednesday morning](https://www.space.com/russia-progress-84-cargo-launch-international-space-station)
-- [UK’s Moonfire VC raises its second fund at $115M to aim at early stage startups](https://techcrunch.com/2023/05/23/uks-moonfire-vc-raises-its-second-fund-at-115m-to-aim-at-early-stage-startups/)
-- [Indonesia’s Skorlife gets funding to give Indonesians power over their credit scores](https://techcrunch.com/2023/05/23/skorlife-seed/)
-- [OpenFin’s attack on the ‘toggle tax’ in financial apps secures it a $35M Series D round](https://techcrunch.com/2023/05/23/openfins-attack-on-the-toggle-tax-in-financial-apps-secures-it-a-35m-series-d-round/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
