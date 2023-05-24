@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Elon thinks AI could become humanity’s uber-nanny: excerpts from a dinner convo](https://techcrunch.com/2023/05/24/elon-thinks-ai-could-become-humanitys-uber-nanny-excerpts-from-a-dinner-convo/)
-- [Elementl raises $33M Series B for its data orchestration platform based on Dagster](https://techcrunch.com/2023/05/24/elementl-raises-33m-series-b-for-its-data-orchestration-platform-based-on-dagster/)
-- [Why aren’t venture capitalists flocking to fund cybersecurity startups?](https://techcrunch.com/2023/05/24/venture-capital-funding-cybersecurity-startups/)
-- [Save a stellar $500 on the Nikon D850: One of the best DSLRs ever made](https://www.space.com/nikon-d850-500-dollar-saving-may-2023)
-- [Comcast announces $20 streaming service ‘NOW TV’ with Peacock included](https://techcrunch.com/2023/05/24/comcast-now-tv-streaming-service-with-peacock-included/)
+- [Ask Sophie: What are my options if a company rescinds my OPT job offer?](https://techcrunch.com/2023/05/24/ask-sophie-what-are-my-options-if-a-company-rescinds-my-opt-job-offer/)
+- [NASA&#39;s asteroid-hopping Lucy probe on course for 1st space rock flyby in November](https://www.space.com/nasa-lucy-asteroid-probe-on-course-flyby-november)
+- [Jumia reaches lowest losses in four years under new management](https://techcrunch.com/2023/05/24/jumia-reaches-lowest-losses-in-four-years-under-new-management/)
+- [The surgeon general’s advisory on risks of youth social media use could shift the conversation](https://techcrunch.com/2023/05/24/the-surgeon-generals-advisory-on-risks-of-youth-social-media-use-could-shift-the-conversation/)
+- [Private Ax-2 astronauts get warm welcome from space station crew &lpar;video&rpar;](https://www.space.com/ax-2-astronauts-welcome-ceremony-space-station-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
