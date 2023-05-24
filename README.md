@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Indonesia’s Skorlife gets funding to give Indonesians power over their credit scores](https://techcrunch.com/2023/05/23/skorlife-seed/)
+- [OpenFin’s attack on the ‘toggle tax’ in financial apps secures it a $35M Series D round](https://techcrunch.com/2023/05/23/openfins-attack-on-the-toggle-tax-in-financial-apps-secures-it-a-35m-series-d-round/)
+- [Reliance’s Zivame customers say their accounts were hacked](https://techcrunch.com/2023/05/23/zivame-customers-data-exposed/)
 - [California urges EPA to approve ban on new gas-powered car sales by 2035](https://techcrunch.com/2023/05/23/california-urges-epa-to-approve-ban-on-new-gas-powered-car-sales-by-2035/)
 - [Apptronik readies its humanoid robot for a summer unveil](https://techcrunch.com/2023/05/23/apptronik-readies-its-humanoid-robot-for-a-summer-unveil/)
-- [Ford to keep AM radio in cars after pressure from lawmakers](https://techcrunch.com/2023/05/23/ford-to-keep-am-radio-in-cars-after-pressure-from-lawmakers/)
-- [You can grab the Celestron PowerSeeker 50AZ for $50](https://www.space.com/celestron-powerseeker-50-az-50-dollars-may-2023)
-- [Suborbital explorers: Meet Virgin Galactic&#39;s test pilots in this new video](https://www.space.com/virgin-galactic-test-pilots-video-may-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
