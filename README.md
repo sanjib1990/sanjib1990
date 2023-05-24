@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Snowflake acquires Neeva to bring intelligent search to its cloud data management solution](https://techcrunch.com/2023/05/24/snowflake-acquires-neeva-to-bring-intelligent-search-to-its-cloud-data-management-solution/)
+- [Sony’s PS5 streaming Project Q handheld will launch this year](https://techcrunch.com/2023/05/24/sonys-ps5-streaming-project-q-handheld-will-launch-this-year/)
+- [Solar &#39;superflares&#39; millions of times stronger than anything today may have sparked life on Earth](https://www.space.com/sun-superflares-life-on-earth)
 - [&#39;Alien&#39; signal beamed to Earth from Mars in SETI test](https://www.space.com/seti-alien-message-decoding-practice)
 - [New Vulcan Centaur rocket may test-fire its engines on the launch pad for 1st time on May 25](https://www.space.com/ula-vulcan-centaur-rocket-first-static-fire)
-- [A comprehensive list of 2023 tech layoffs](https://techcrunch.com/2023/05/24/tech-industry-layoffs-2023/)
-- [No tears, only launches now: Virgin Galactic heads back to space as Virgin Orbit goes under](https://techcrunch.com/2023/05/24/no-tears-only-launches-now-virgin-galactic-heads-back-to-space-as-virgin-orbit-goes-under/)
-- [Thermal imaging startup Satellite Vu closes $15.8 million ahead of first launch](https://techcrunch.com/2023/05/24/thermal-imaging-startup-satellite-vu-closes-15-8-million-ahead-of-first-launch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
