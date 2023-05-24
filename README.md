@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Marvel’s Spider-Man 2 features Miles with web wings and Peter in symbiote suit](https://techcrunch.com/2023/05/24/marvel-spider-man-2-playstation-5/)
+- [Technical issues plague Ron DeSantis’s campaign announcement on Twitter](https://techcrunch.com/2023/05/24/ron-desantis-elon-musk-twitter-spaces-crashed/)
+- [Elon Musk ushers in DeSantis’s 2024 campaign, signaling a new era for Twitter](https://techcrunch.com/2023/05/24/elon-musk-ron-desantis-2024-campaign-twitter-announcement/)
+- [What time is Virgin Galactic&#39;s Unity 25 spaceflight on May 25?](https://www.space.com/virgin-galactic-unity-25-spaceflight-what-time)
 - [Snowflake acquires Neeva to bring intelligent search to its cloud data management solution](https://techcrunch.com/2023/05/24/snowflake-acquires-neeva-to-bring-intelligent-search-to-its-cloud-data-management-solution/)
-- [Sony’s PS5 streaming Project Q handheld will launch this year](https://techcrunch.com/2023/05/24/sonys-ps5-streaming-project-q-handheld-will-launch-this-year/)
-- [Solar &#39;superflares&#39; millions of times stronger than anything today may have sparked life on Earth](https://www.space.com/sun-superflares-life-on-earth)
-- [&#39;Alien&#39; signal beamed to Earth from Mars in SETI test](https://www.space.com/seti-alien-message-decoding-practice)
-- [New Vulcan Centaur rocket may test-fire its engines on the launch pad for 1st time on May 25](https://www.space.com/ula-vulcan-centaur-rocket-first-static-fire)
 <!-- BLOG-POST-LIST:END -->
 
 ---
