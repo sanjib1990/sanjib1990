@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [iOS 17 will turn locked iPhones into smart home-style displays, report says](https://techcrunch.com/2023/05/24/apples-ios-17-turn-locked-iphones-smart-home-style-displays/)
+- [Netflix tests its staying power with global password crackdown](https://techcrunch.com/2023/05/24/netflix-tests-its-staying-power-with-global-password-crackdown/)
 - [Ask Sophie: What are my options if a company rescinds my OPT job offer?](https://techcrunch.com/2023/05/24/ask-sophie-what-are-my-options-if-a-company-rescinds-my-opt-job-offer/)
 - [NASA&#39;s asteroid-hopping Lucy probe on course for 1st space rock flyby in November](https://www.space.com/nasa-lucy-asteroid-probe-on-course-flyby-november)
 - [Jumia reaches lowest losses in four years under new management](https://techcrunch.com/2023/05/24/jumia-reaches-lowest-losses-in-four-years-under-new-management/)
-- [The surgeon general’s advisory on risks of youth social media use could shift the conversation](https://techcrunch.com/2023/05/24/the-surgeon-generals-advisory-on-risks-of-youth-social-media-use-could-shift-the-conversation/)
-- [Private Ax-2 astronauts get warm welcome from space station crew &lpar;video&rpar;](https://www.space.com/ax-2-astronauts-welcome-ceremony-space-station-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
