@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta conducts yet another round of layoffs](https://techcrunch.com/2023/05/24/meta-conducts-yet-another-round-of-layoffs/)
-- [Ten months after promotion, Red Hat CEO Matt Hicks navigates layoffs and AI’s rise](https://techcrunch.com/2023/05/24/red-hat-ceo-layoffs-ai/)
-- [NASA serves up $750,000 to Deep Space Food Challenge winners in cook-off for astronaut eats](https://www.space.com/nasa-deep-space-food-challenge-2023)
-- [Don’t miss your last chance to pitch on the TC Disrupt stage](https://techcrunch.com/2023/05/24/one-week-left-apply-pitch-on-stage-techcrunch-disrupt-2023/)
-- [Watch Rocket Lab launch 2 tiny NASA hurricane-watching probes early Thursday](https://www.space.com/rocket-lab-second-tropics-hurricane-launch-may-2023)
+- [Gitai wants to build a robotic labor force for the moon and Mars](https://techcrunch.com/2023/05/24/gitai-wants-to-build-the-robotic-labor-force-for-the-moon-and-mars/)
+- [WireMock lands $6.5M to help developers build and test on mock APIs](https://techcrunch.com/2023/05/24/wiremock-lands-6-5m-to-help-developers-build-and-test-on-mock-apis/)
+- [When will the paper unicorns fold?](https://techcrunch.com/2023/05/24/when-will-the-paper-unicorns-fold/)
+- [Atlanta startups: Last call to apply to pitch at TechCrunch Live’s Atlanta event](https://techcrunch.com/2023/05/24/atlanta-startups-last-call-to-apply-to-pitch-at-techcrunch-lives-atlanta-event/)
+- [Amazon backs Indian kids fashion brand Hopscotch in $20M funding](https://techcrunch.com/2023/05/24/amazon-hopscotch-funding-india/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
