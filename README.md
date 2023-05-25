@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Arrington Capital-backed group to acquire Celsius assets](https://techcrunch.com/2023/05/25/arrington-capital-backed-group-to-acquire-celsius-assets/)
-- [Meteorites and volcanoes may have helped jump-start life on Earth](https://www.space.com/meteorites-volcanoes-origin-life-on-earth)
-- [On the internet, nobody knows you’re a bot](https://techcrunch.com/2023/05/25/well-2024-will-not-be-boring/)
-- [Elon Musk’s Twitter: Everything you need to know, from layoffs to verification](https://techcrunch.com/2023/05/25/elon-musk-twitter-everything-you-need-to-know/)
-- [Celebrity investors pile into consumer savings startup Checkmate](https://techcrunch.com/2023/05/25/celebrity-investors-pile-into-consumer-savings-startup-checkmate/)
+- [Strange star system may hold first evidence of an ultra-rare &#39;dark matter star&#39;](https://www.space.com/dark-matter-strange-star-system)
+- [Starling’s results are more proof that high interest rates could be a boon for fintech](https://techcrunch.com/2023/05/25/starlings-results-interest-rates-fintech/)
+- [DJI Mavic 3 Pro review](https://www.space.com/dji-mavic-3-pro-review)
+- [Researchers uncover Russia-linked malware that could immobilize electric grids](https://techcrunch.com/2023/05/25/mandiant-russia-malware-immobilize-electric-grids/)
+- [The revamped MoviePass goes nationwide](https://techcrunch.com/2023/05/25/the-revamped-moviepass-goes-nationwide/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
