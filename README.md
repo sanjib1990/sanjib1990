@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Following successful mission, Virgin Galactic targeting June for first commercial spaceflight](https://techcrunch.com/2023/05/25/following-successful-mission-virgin-galactic-targeting-june-for-first-commercial-spaceflight/)
+- [Electric truck maker Nikola at risk of being delisted from Nasdaq](https://techcrunch.com/2023/05/25/electric-truck-maker-nikola-at-risk-of-being-delisted-from-nasdaq/)
 - [With new grant program, OpenAI aims to crowdsource AI regulation](https://techcrunch.com/2023/05/25/when-new-grant-program-openai-aims-to-crowdsources-ai-regulation/)
 - [Sam Altman’s crypto project Worldcoin got more coin in latest $115M raise](https://techcrunch.com/2023/05/25/sam-altmans-crypto-project-worldcoin-got-more-coin-in-latest-115m-raise/)
 - [Milky Way&#39;s cosmic neighbors help bring ancient galaxies into focus](https://www.space.com/milky-way-neighbors-ancient-galaxies-insights)
-- [Twitter introduces a new $5,000 per month API tier](https://techcrunch.com/2023/05/25/twitter-introduces-a-new-5000-per-month-api-tier/)
-- [Motor City mechatronics](https://techcrunch.com/2023/05/25/motor-city-mechatronics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
