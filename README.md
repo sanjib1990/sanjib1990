@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [YouTube Stories are shutting down June 26 as company focuses on Shorts](https://techcrunch.com/2023/05/25/youtube-stories-are-shutting-down-june-26-as-company-focuses-on-shorts/)
-- [&#39;Return of the Jedi&#39; at 40: How &#39;Star Wars&#39; legend Phil Tippett crafted special effects magic &lpar;exclusive&rpar;](https://www.space.com/star-wars-return-of-the-jedi-phil-tippett-interview)
-- [Google starts opening up access to its new generative AI capabilities in Search](https://techcrunch.com/2023/05/25/google-starts-opening-up-access-to-its-new-generative-ai-capabilities-in-search/)
-- [Vinfast recalls EVs sent to U.S. over a software glitch](https://techcrunch.com/2023/05/25/vinfast-recalls-evs-sent-to-u-s-over-a-software-glitch/)
-- [Strange star system may hold first evidence of an ultra-rare &#39;dark matter star&#39;](https://www.space.com/dark-matter-strange-star-system)
+- [Today is Towel Day! Salute the legacy of &#39;The Hitchhiker&#39;s Guide to the Galaxy&#39; author Douglas Adams](https://www.space.com/towel-day-hitchhikers-guide-to-the-galaxy)
+- [Space pictures! See our image of the day](https://www.space.com/34-image-day.html)
+- [Virgin Galactic aces final test spaceflight, eyes start of commercial service in June](https://www.space.com/virgin-galactic-unity-25-test-flight-suborbital-space)
+- [Profitability over growth: 5 investors explain their mantra for South Korean startups](https://techcrunch.com/2023/05/25/south-korea-investor-survey/)
+- [ChatGPT’s new app comes out of the gate hot, tops half a million installs in first 6 days](https://techcrunch.com/2023/05/25/chatgpts-new-app-comes-out-of-the-gate-hot-tops-half-a-million-installs-in-first-6-days/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
