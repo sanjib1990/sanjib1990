@@ -95,7 +95,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Marvel’s Spider-Man 2 features Miles with web wings and Peter in symbiote suit](https://techcrunch.com/2023/05/24/marvel-spider-man-2-playstation-5/)
-- [Technical issues plague Ron DeSantis’s campaign announcement on Twitter](https://techcrunch.com/2023/05/24/ron-desantis-elon-musk-twitter-spaces-crashed/)
+- [Twitter technical issues crash Ron DeSantis’s 2024 campaign announcement](https://techcrunch.com/2023/05/24/ron-desantis-elon-musk-twitter-spaces-crashed/)
 - [Elon Musk ushers in DeSantis’s 2024 campaign, signaling a new era for Twitter](https://techcrunch.com/2023/05/24/elon-musk-ron-desantis-2024-campaign-twitter-announcement/)
 - [What time is Virgin Galactic&#39;s Unity 25 spaceflight on May 25?](https://www.space.com/virgin-galactic-unity-25-spaceflight-what-time)
 - [Snowflake acquires Neeva to bring intelligent search to its cloud data management solution](https://techcrunch.com/2023/05/24/snowflake-acquires-neeva-to-bring-intelligent-search-to-its-cloud-data-management-solution/)
