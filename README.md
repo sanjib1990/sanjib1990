@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Play Games for PC is now rolling out to Europe and New Zealand](https://techcrunch.com/2023/05/24/google-play-games-for-pc-is-now-rolling-out-to-europe-and-new-zealand/)
 - [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2023/05/24/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/)
 - [Marvel’s Spider-Man 2 features Miles with web wings and Peter in symbiote suit](https://techcrunch.com/2023/05/24/marvel-spider-man-2-playstation-5/)
 - [Twitter technical issues crash Ron DeSantis’s 2024 campaign announcement](https://techcrunch.com/2023/05/24/ron-desantis-elon-musk-twitter-spaces-crashed/)
 - [Elon Musk ushers in DeSantis’s 2024 campaign, signaling a new era for Twitter](https://techcrunch.com/2023/05/24/elon-musk-ron-desantis-2024-campaign-twitter-announcement/)
-- [What time is Virgin Galactic&#39;s Unity 25 spaceflight on May 25?](https://www.space.com/virgin-galactic-unity-25-spaceflight-what-time)
 <!-- BLOG-POST-LIST:END -->
 
 ---
