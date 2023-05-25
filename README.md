@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Axiom Space Ax-2 private spaceflight with SpaceX: Live updates](https://www.space.com/news/live/axiom-space-missions-updates)
+- [Nymbus lands $70M to help banks digitally transform](https://techcrunch.com/2023/05/25/nymbus-lands-70m-to-help-banks-digitally-transform/)
+- [Rare green fireball explodes over Australia, creating bright flash visible for hundreds of miles](https://www.space.com/meteorite-australia-green-fireball-may-2023)
+- [3 things businesses must do to secure applications in the AI era](https://techcrunch.com/2023/05/25/3-things-businesses-must-do-to-secure-applications-in-the-ai-era/)
 - [BBy device turns breast milk into powder, helps NICU nurses avoid lengthy ‘milk shift’](https://techcrunch.com/2023/05/25/bby-breast-milk-powder-nicu-health/)
-- [On This Day In Space: May 25, 2008: NASA&#39;s Phoenix spacecraft lands on Mars](https://www.space.com/39251-on-this-day-in-space.html)
-- [Super Typhoon Mawar swirls menacingly near Guam in satellite views &lpar;video&rpar;](https://www.space.com/satellites-guam-super-typhoon-mawar)
-- [Researchers say they found spyware used in war for the first time](https://techcrunch.com/2023/05/25/researchers-say-they-found-spyware-used-in-war-for-the-first-time/)
-- [The official ChatGPT app is now available in 11 more countries](https://techcrunch.com/2023/05/25/the-official-chatgpt-app-is-now-available-in-11-more-countries/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
