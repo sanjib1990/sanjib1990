@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Super Typhoon Mawar swirls menacingly near Guam in satellite views &lpar;video&rpar;](https://www.space.com/satellites-guam-super-typhoon-mawar)
+- [Researchers say they found spyware used in war for the first time](https://techcrunch.com/2023/05/25/researchers-say-they-found-spyware-used-in-war-for-the-first-time/)
+- [The official ChatGPT app is now available in 11 more countries](https://techcrunch.com/2023/05/25/the-official-chatgpt-app-is-now-available-in-11-more-countries/)
+- [Anne Boden, founder of UK’s Starling Bank, steps down as CEO](https://techcrunch.com/2023/05/25/anne-boden-founder-of-uks-starling-bank-steps-down-as-ceo/)
 - [Montenegro court overturns Terraform founder Do Kwon’s bail](https://techcrunch.com/2023/05/25/montenegro-court-overturns-terraform-founder-do-kwons-bail/)
-- [This Stanford grad is taking on pawn shops with a new credit card startup](https://techcrunch.com/2023/05/24/this-stanford-grad-is-taking-on-pawn-shops-with-a-new-credit-card-startup/)
-- [Top Indian tech advocacy group replaces Big Tech execs following criticism](https://techcrunch.com/2023/05/24/iamai-india-big-tech/)
-- [NFT avatar enabler GoodGang has the blessings of Korean giants Kakao and Naver](https://techcrunch.com/2023/05/24/korean-kakao-nft-avatar-goodgang-labs/)
-- [Google Play Games for PC is now rolling out to Europe and New Zealand](https://techcrunch.com/2023/05/24/google-play-games-for-pc-is-now-rolling-out-to-europe-and-new-zealand/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
