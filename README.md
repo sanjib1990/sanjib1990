@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Montenegro court overturns Terraform founder Do Kwon’s bail](https://techcrunch.com/2023/05/25/montenegro-court-overturns-terraform-founder-do-kwons-bail/)
 - [This Stanford grad is taking on pawn shops with a new credit card startup](https://techcrunch.com/2023/05/24/this-stanford-grad-is-taking-on-pawn-shops-with-a-new-credit-card-startup/)
 - [Top Indian tech advocacy group replaces Big Tech execs following criticism](https://techcrunch.com/2023/05/24/iamai-india-big-tech/)
 - [NFT avatar enabler GoodGang has the blessings of Korean giants Kakao and Naver](https://techcrunch.com/2023/05/24/korean-kakao-nft-avatar-goodgang-labs/)
 - [Google Play Games for PC is now rolling out to Europe and New Zealand](https://techcrunch.com/2023/05/24/google-play-games-for-pc-is-now-rolling-out-to-europe-and-new-zealand/)
-- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2023/05/24/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
