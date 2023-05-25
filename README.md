@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [WhatsApp is working on introducing usernames to the app](https://techcrunch.com/2023/05/25/whatsapp-is-working-on-introducing-usernames-to-the-app/)
+- [Why does Jupiter change its stripes? Scientists may finally have the answer](https://www.space.com/jupiter-stripes-color-change-mystery)
+- [Sam Altman’s big European tour](https://techcrunch.com/2023/05/25/sam-altman-european-tour/)
 - [Kapital gets more of its own capital to help LatAm businesses monitor cash flow](https://techcrunch.com/2023/05/25/kapital-business-cash-flow-latam-fintech/)
 - [Arc browser’s new tool lets you remove some elements from a website](https://techcrunch.com/2023/05/25/arc-browsers-new-tool-lets-you-remove-some-elements-from-a-website/)
-- [Generation Prime launches to make fertility services more accessible in Asia](https://techcrunch.com/2023/05/25/generation-prime/)
-- [DeepMind’s CEO will discuss research, Google and more on Disrupt’s AI Stage](https://techcrunch.com/2023/05/25/demis-hassabis-deepmind-ai-stage-techcrunch-dissrupt-2023/)
-- [Virgin Galactic&#39;s Unity 25 spaceflight in photos &lpar;gallery&rpar;](https://www.space.com/virgin-galactic-unity-25-spaceflight-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
