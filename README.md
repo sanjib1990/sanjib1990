@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sam Altman’s crypto project Worldcoin got more coin in latest $115M raise](https://techcrunch.com/2023/05/25/sam-altmans-crypto-project-worldcoin-got-more-coin-in-latest-115m-raise/)
+- [Milky Way&#39;s cosmic neighbors help bring ancient galaxies into focus](https://www.space.com/milky-way-neighbors-ancient-galaxies-insights)
+- [Twitter introduces a new $5,000 per month API tier](https://techcrunch.com/2023/05/25/twitter-introduces-a-new-5000-per-month-api-tier/)
+- [Motor City mechatronics](https://techcrunch.com/2023/05/25/motor-city-mechatronics/)
 - [Today is Towel Day! Salute the legacy of &#39;The Hitchhiker&#39;s Guide to the Galaxy&#39; author Douglas Adams](https://www.space.com/towel-day-hitchhikers-guide-to-the-galaxy)
-- [Space pictures! See our image of the day](https://www.space.com/34-image-day.html)
-- [Virgin Galactic aces final test spaceflight, eyes start of commercial service in June](https://www.space.com/virgin-galactic-unity-25-test-flight-suborbital-space)
-- [Profitability over growth: 5 investors explain their mantra for South Korean startups](https://techcrunch.com/2023/05/25/south-korea-investor-survey/)
-- [ChatGPT’s new app comes out of the gate hot, tops half a million installs in first 6 days](https://techcrunch.com/2023/05/25/chatgpts-new-app-comes-out-of-the-gate-hot-tops-half-a-million-installs-in-first-6-days/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
