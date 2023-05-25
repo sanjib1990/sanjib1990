@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [WhatsApp is working on introducing usernames to the app](https://techcrunch.com/2023/05/25/whatsapp-is-working-on-introducing-usernames-to-the-app/)
-- [Why does Jupiter change its stripes? Scientists may finally have the answer](https://www.space.com/jupiter-stripes-color-change-mystery)
-- [Sam Altman’s big European tour](https://techcrunch.com/2023/05/25/sam-altman-european-tour/)
-- [Kapital gets more of its own capital to help LatAm businesses monitor cash flow](https://techcrunch.com/2023/05/25/kapital-business-cash-flow-latam-fintech/)
-- [Arc browser’s new tool lets you remove some elements from a website](https://techcrunch.com/2023/05/25/arc-browsers-new-tool-lets-you-remove-some-elements-from-a-website/)
+- [Arrington Capital-backed group to acquire Celsius assets](https://techcrunch.com/2023/05/25/arrington-capital-backed-group-to-acquire-celsius-assets/)
+- [Meteorites and volcanoes may have helped jump-start life on Earth](https://www.space.com/meteorites-volcanoes-origin-life-on-earth)
+- [On the internet, nobody knows you’re a bot](https://techcrunch.com/2023/05/25/well-2024-will-not-be-boring/)
+- [Elon Musk’s Twitter: Everything you need to know, from layoffs to verification](https://techcrunch.com/2023/05/25/elon-musk-twitter-everything-you-need-to-know/)
+- [Celebrity investors pile into consumer savings startup Checkmate](https://techcrunch.com/2023/05/25/celebrity-investors-pile-into-consumer-savings-startup-checkmate/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
