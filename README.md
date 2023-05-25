@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [YouTube Stories are shutting down June 26 as company focuses on Shorts](https://techcrunch.com/2023/05/25/youtube-stories-are-shutting-down-june-26-as-company-focuses-on-shorts/)
+- [&#39;Return of the Jedi&#39; at 40: How &#39;Star Wars&#39; legend Phil Tippett crafted special effects magic &lpar;exclusive&rpar;](https://www.space.com/star-wars-return-of-the-jedi-phil-tippett-interview)
+- [Google starts opening up access to its new generative AI capabilities in Search](https://techcrunch.com/2023/05/25/google-starts-opening-up-access-to-its-new-generative-ai-capabilities-in-search/)
+- [Vinfast recalls EVs sent to U.S. over a software glitch](https://techcrunch.com/2023/05/25/vinfast-recalls-evs-sent-to-u-s-over-a-software-glitch/)
 - [Strange star system may hold first evidence of an ultra-rare &#39;dark matter star&#39;](https://www.space.com/dark-matter-strange-star-system)
-- [Starling’s results are more proof that high interest rates could be a boon for fintech](https://techcrunch.com/2023/05/25/starlings-results-interest-rates-fintech/)
-- [DJI Mavic 3 Pro review](https://www.space.com/dji-mavic-3-pro-review)
-- [Researchers uncover Russia-linked malware that could immobilize electric grids](https://techcrunch.com/2023/05/25/mandiant-russia-malware-immobilize-electric-grids/)
-- [The revamped MoviePass goes nationwide](https://techcrunch.com/2023/05/25/the-revamped-moviepass-goes-nationwide/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
