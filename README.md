@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Axiom Space Ax-2 private spaceflight with SpaceX: Live updates](https://www.space.com/news/live/axiom-space-missions-updates)
-- [Nymbus lands $70M to help banks digitally transform](https://techcrunch.com/2023/05/25/nymbus-lands-70m-to-help-banks-digitally-transform/)
-- [Rare green fireball explodes over Australia, creating bright flash visible for hundreds of miles](https://www.space.com/meteorite-australia-green-fireball-may-2023)
-- [3 things businesses must do to secure applications in the AI era](https://techcrunch.com/2023/05/25/3-things-businesses-must-do-to-secure-applications-in-the-ai-era/)
-- [BBy device turns breast milk into powder, helps NICU nurses avoid lengthy ‘milk shift’](https://techcrunch.com/2023/05/25/bby-breast-milk-powder-nicu-health/)
+- [Kapital gets more of its own capital to help LatAm businesses monitor cash flow](https://techcrunch.com/2023/05/25/kapital-business-cash-flow-latam-fintech/)
+- [Arc browser’s new tool lets you remove some elements from a website](https://techcrunch.com/2023/05/25/arc-browsers-new-tool-lets-you-remove-some-elements-from-a-website/)
+- [Generation Prime launches to make fertility services more accessible in Asia](https://techcrunch.com/2023/05/25/generation-prime/)
+- [DeepMind’s CEO will discuss research, Google and more on Disrupt’s AI Stage](https://techcrunch.com/2023/05/25/demis-hassabis-deepmind-ai-stage-techcrunch-dissrupt-2023/)
+- [Virgin Galactic&#39;s Unity 25 spaceflight in photos &lpar;gallery&rpar;](https://www.space.com/virgin-galactic-unity-25-spaceflight-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
