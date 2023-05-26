@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pitch Deck Teardown: Faye’s $10M Series A deck](https://techcrunch.com/2023/05/26/sample-series-a-pitch-deck-faye/)
+- [James Webb Space Telescope teams up with NASA X-ray observatory for a stunning look at the universe &lpar;photos&rpar;](https://www.space.com/james-webb-space-telescope-chandra-x-ray-observatory)
+- [Daylight’s sunset and Meta’s year of focus](https://techcrunch.com/2023/05/26/daylights-sunset-and-metas-year-of-focus/)
 - [AI is helping astronomers make new discoveries about the universe faster than ever before](https://www.space.com/ai-is-helping-astronomers-make-new-discoveries-faster-than-ever-before)
 - [Info Edge, reeling from Rahul Yadav’s startup loss, now writes off Bijnis](https://techcrunch.com/2023/05/26/info-edge-reeling-from-rahul-yadavs-startup-loss-now-writes-off-bijnis/)
-- [How to see the new supernova in the Pinwheel Galaxy](https://www.space.com/new-supernova-pinwheel-galaxy-how-to-see)
-- [Venture leasing: The unsung hero for hardware startups struggling to raise capital](https://techcrunch.com/2023/05/26/venture-leasing-the-unsung-hero-for-hardware-startups-struggling-to-raise-capital/)
-- [South American startups: Apply to Startup Battlefield 200](https://techcrunch.com/2023/05/26/south-america-apply-startup-battlefield-200-disrupt-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
