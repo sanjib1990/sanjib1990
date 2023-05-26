@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The brightest supernova in years could help astronomers forecast future star explosions](https://www.space.com/brightest-supernova-help-forecast-star-explosions)
+- [Ambani’s Reliance targets Indian fashion e-commerce with low-cost model](https://techcrunch.com/2023/05/26/ambani-india-ajio-street-shein-reliance/)
 - [Beyond networking: What immigrant founders in the UK want from VC office hours](https://techcrunch.com/2023/05/26/beyond-networking-what-immigrant-founders-in-the-uk-want-from-vc-office-hours/)
 - [How SeaTable navigates the China backlash as it goes West](https://techcrunch.com/2023/05/26/seatable-seafile-profile/)
 - [Bernstein pegs Reliance as India’s eventual e-commerce kingpin](https://techcrunch.com/2023/05/25/bernstein-pegs-reliance-as-india-eventual-e-commerce-kingpin/)
-- [OpenAI’s ChatGPT iOS app now available in Canada, India, Brazil and 30 more countries](https://techcrunch.com/2023/05/25/openai-chatgpt-ios-app-india-download/)
-- [Elon Musk says Tesla might ‘open source more code’ to other automakers](https://techcrunch.com/2023/05/25/elon-musk-says-tesla-might-open-source-more-code-to-other-automakers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
