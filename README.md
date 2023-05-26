@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Beyond networking: What immigrant founders in the UK want from VC office hours](https://techcrunch.com/2023/05/26/beyond-networking-what-immigrant-founders-in-the-uk-want-from-vc-office-hours/)
 - [How SeaTable navigates the China backlash as it goes West](https://techcrunch.com/2023/05/26/seatable-seafile-profile/)
 - [Bernstein pegs Reliance as India’s eventual e-commerce kingpin](https://techcrunch.com/2023/05/25/bernstein-pegs-reliance-as-india-eventual-e-commerce-kingpin/)
 - [OpenAI’s ChatGPT iOS app now available in Canada, India, Brazil and 30 more countries](https://techcrunch.com/2023/05/25/openai-chatgpt-ios-app-india-download/)
 - [Elon Musk says Tesla might ‘open source more code’ to other automakers](https://techcrunch.com/2023/05/25/elon-musk-says-tesla-might-open-source-more-code-to-other-automakers/)
-- [Ford to bring Tesla’s charging tech into its future EVs](https://techcrunch.com/2023/05/25/ford-to-bring-teslas-charging-tech-into-its-future-evs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
