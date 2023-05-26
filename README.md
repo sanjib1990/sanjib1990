@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [To avert more UK antitrust woes, Meta to limit how it uses ad data to boost Facebook Marketplace](https://techcrunch.com/2023/05/26/to-avert-more-uk-antitrust-woes-meta-to-limit-how-it-uses-ad-data-to-boost-facebook-marketplace/)
 - [Pitch Deck Teardown: Faye’s $10M Series A deck](https://techcrunch.com/2023/05/26/sample-series-a-pitch-deck-faye/)
-- [James Webb Space Telescope teams up with NASA X-ray observatory for a stunning look at the universe &lpar;photos&rpar;](https://www.space.com/james-webb-space-telescope-chandra-x-ray-observatory)
+- [The universe looks amazing in new photos from the James Webb Space Telescope and famed X-ray observatory](https://www.space.com/james-webb-space-telescope-chandra-x-ray-observatory)
 - [Daylight’s sunset and Meta’s year of focus](https://techcrunch.com/2023/05/26/daylights-sunset-and-metas-year-of-focus/)
 - [AI is helping astronomers make new discoveries about the universe faster than ever before](https://www.space.com/ai-is-helping-astronomers-make-new-discoveries-faster-than-ever-before)
-- [Info Edge, reeling from Rahul Yadav’s startup loss, now writes off Bijnis](https://techcrunch.com/2023/05/26/info-edge-reeling-from-rahul-yadavs-startup-loss-now-writes-off-bijnis/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
