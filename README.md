@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Skyflow expands its regional footprint as it adds generative AI support to its data privacy tooling](https://techcrunch.com/2023/05/26/skyflow-generative-ai-support/)
+- [Sam Altman shares his optimistic view of our AI future](https://techcrunch.com/2023/05/26/sam-altman-shares-his-optimistic-view-of-our-ai-future/)
 - [To avert more UK antitrust woes, Meta to limit how it uses ad data to boost Facebook Marketplace](https://techcrunch.com/2023/05/26/to-avert-more-uk-antitrust-woes-meta-to-limit-how-it-uses-ad-data-to-boost-facebook-marketplace/)
 - [Pitch Deck Teardown: Faye’s $10M Series A deck](https://techcrunch.com/2023/05/26/sample-series-a-pitch-deck-faye/)
 - [The universe looks amazing in new photos from the James Webb Space Telescope and famed X-ray observatory](https://www.space.com/james-webb-space-telescope-chandra-x-ray-observatory)
-- [Daylight’s sunset and Meta’s year of focus](https://techcrunch.com/2023/05/26/daylights-sunset-and-metas-year-of-focus/)
-- [AI is helping astronomers make new discoveries about the universe faster than ever before](https://www.space.com/ai-is-helping-astronomers-make-new-discoveries-faster-than-ever-before)
 <!-- BLOG-POST-LIST:END -->
 
 ---
