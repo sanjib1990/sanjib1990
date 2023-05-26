@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch+ roundup: South Korea investor survey, 1-hour board meetings, venture leasing basics](https://techcrunch.com/2023/05/26/techcrunch-roundup-south-korea-investor-survey-1-hour-board-meetings-venture-leasing-basics/)
+- [AI might be the least of edtech’s worries](https://techcrunch.com/2023/05/26/edtech-ai-worries/)
+- [Watch 1,000 Lego astronauts fly near the edge of space &lpar;video&rpar;](https://www.space.com/lego-astronauts-fly-to-near-space-video)
 - [Skyflow expands its regional footprint as it adds generative AI support to its data privacy tooling](https://techcrunch.com/2023/05/26/skyflow-generative-ai-support/)
-- [Sam Altman shares his optimistic view of our AI future](https://techcrunch.com/2023/05/26/sam-altman-shares-his-optimistic-view-of-our-ai-future/)
-- [To avert more UK antitrust woes, Meta to limit how it uses ad data to boost Facebook Marketplace](https://techcrunch.com/2023/05/26/to-avert-more-uk-antitrust-woes-meta-to-limit-how-it-uses-ad-data-to-boost-facebook-marketplace/)
-- [Pitch Deck Teardown: Faye’s $10M Series A deck](https://techcrunch.com/2023/05/26/sample-series-a-pitch-deck-faye/)
-- [The universe looks amazing in new photos from the James Webb Space Telescope and famed X-ray observatory](https://www.space.com/james-webb-space-telescope-chandra-x-ray-observatory)
+- [Space pictures! See our image of the day](https://www.space.com/34-image-day.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
