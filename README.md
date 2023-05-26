@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [South American startups: Apply to Startup Battlefield 200](https://techcrunch.com/2023/05/26/south-america-apply-startup-battlefield-200-disrupt-2023/)
+- [South Korea&#39;s homegrown Nuri rocket launches 8 satellites on 3rd-ever mission &lpar;photo&rpar;](https://www.space.com/south-korea-nuri-rocket-launch-may-2023)
 - [The brightest supernova in years could help astronomers forecast future star explosions](https://www.space.com/brightest-supernova-help-forecast-star-explosions)
 - [Ambani’s Reliance targets Indian fashion e-commerce with low-cost model](https://techcrunch.com/2023/05/26/ambani-india-ajio-street-shein-reliance/)
 - [Beyond networking: What immigrant founders in the UK want from VC office hours](https://techcrunch.com/2023/05/26/beyond-networking-what-immigrant-founders-in-the-uk-want-from-vc-office-hours/)
-- [How SeaTable navigates the China backlash as it goes West](https://techcrunch.com/2023/05/26/seatable-seafile-profile/)
-- [Bernstein pegs Reliance as India’s eventual e-commerce kingpin](https://techcrunch.com/2023/05/25/bernstein-pegs-reliance-as-india-eventual-e-commerce-kingpin/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
