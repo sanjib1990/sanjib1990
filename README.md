@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Star Wars: Return of the Jedi&#39; at 40: What it was like seeing Darth Vader&#39;s death scene for the 1st time](https://www.space.com/star-wars-return-of-the-jedi)
 - [Private Japanese moon lander crashed after being confused by a crater](https://www.space.com/moon-lander-ispace-hakuto-r-crash-lunar-terrain)
 - [NASA&#39;s Artemis moon rocket will cost $6 billion more than planned: report](https://www.space.com/nasa-sls-megarocket-cost-delays-report)
 - [TechCrunch+ roundup: South Korea investor survey, 1-hour board meetings, venture leasing basics](https://techcrunch.com/2023/05/26/techcrunch-roundup-south-korea-investor-survey-1-hour-board-meetings-venture-leasing-basics/)
 - [AI might be the least of edtech’s worries](https://techcrunch.com/2023/05/26/edtech-ai-worries/)
-- [Watch 1,000 Lego astronauts fly near the edge of space &lpar;video&rpar;](https://www.space.com/lego-astronauts-fly-to-near-space-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
