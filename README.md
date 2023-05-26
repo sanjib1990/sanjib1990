@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI’s ChatGPT iOS app now available in Canada, India, Brazil and 30 more countries](https://techcrunch.com/2023/05/25/openai-chatgpt-ios-app-india-download/)
 - [Elon Musk says Tesla might ‘open source more code’ to other automakers](https://techcrunch.com/2023/05/25/elon-musk-says-tesla-might-open-source-more-code-to-other-automakers/)
 - [Ford to bring Tesla’s charging tech into its future EVs](https://techcrunch.com/2023/05/25/ford-to-bring-teslas-charging-tech-into-its-future-evs/)
 - [Applied Intuition to buy autonomous trucking SPAC Embark for $71M](https://techcrunch.com/2023/05/25/applied-intuition-to-buy-autonomous-trucking-spac-embark-for-71m/)
 - [Following successful mission, Virgin Galactic targeting June for first commercial spaceflight](https://techcrunch.com/2023/05/25/following-successful-mission-virgin-galactic-targeting-june-for-first-commercial-spaceflight/)
-- [Electric truck maker Nikola at risk of being delisted from Nasdaq](https://techcrunch.com/2023/05/25/electric-truck-maker-nikola-at-risk-of-being-delisted-from-nasdaq/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
