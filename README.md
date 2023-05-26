@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to see the new supernova in the Pinwheel Galaxy](https://www.space.com/new-supernova-pinwheel-galaxy-how-to-see)
+- [Venture leasing: The unsung hero for hardware startups struggling to raise capital](https://techcrunch.com/2023/05/26/venture-leasing-the-unsung-hero-for-hardware-startups-struggling-to-raise-capital/)
 - [South American startups: Apply to Startup Battlefield 200](https://techcrunch.com/2023/05/26/south-america-apply-startup-battlefield-200-disrupt-2023/)
 - [South Korea&#39;s homegrown Nuri rocket launches 8 satellites on 3rd-ever mission &lpar;photo&rpar;](https://www.space.com/south-korea-nuri-rocket-launch-may-2023)
 - [The brightest supernova in years could help astronomers forecast future star explosions](https://www.space.com/brightest-supernova-help-forecast-star-explosions)
-- [Ambani’s Reliance targets Indian fashion e-commerce with low-cost model](https://techcrunch.com/2023/05/26/ambani-india-ajio-street-shein-reliance/)
-- [Beyond networking: What immigrant founders in the UK want from VC office hours](https://techcrunch.com/2023/05/26/beyond-networking-what-immigrant-founders-in-the-uk-want-from-vc-office-hours/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
