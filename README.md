@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Non-Deterministic Automata - Computerphile](https://www.youtube.com/watch?v=NhWDVqR4tZc)
 - [Why did my side-hustle fail? How to validate business ideas](https://www.youtube.com/watch?v=4_MDP6TcHwU)
 - [Lecture 1: Motivation, Intuition, and Examples](https://www.youtube.com/watch?v=YQQOfK3ZLRU)
 - [Lecture 4: Compact Metric Spaces](https://www.youtube.com/watch?v=Rv3xYk85Lq0)
 - [Lecture 5: Complete Metric Spaces](https://www.youtube.com/watch?v=6bPEZYhh1P4)
-- [Lecture 2: General Theory](https://www.youtube.com/watch?v=uS-w4yl35vc)
 <!-- YOUTUBE:END -->
 
 ---
