@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI is helping astronomers make new discoveries about the universe faster than ever before](https://www.space.com/ai-is-helping-astronomers-make-new-discoveries-faster-than-ever-before)
+- [Info Edge, reeling from Rahul Yadav’s startup loss, now writes off Bijnis](https://techcrunch.com/2023/05/26/info-edge-reeling-from-rahul-yadavs-startup-loss-now-writes-off-bijnis/)
 - [How to see the new supernova in the Pinwheel Galaxy](https://www.space.com/new-supernova-pinwheel-galaxy-how-to-see)
 - [Venture leasing: The unsung hero for hardware startups struggling to raise capital](https://techcrunch.com/2023/05/26/venture-leasing-the-unsung-hero-for-hardware-startups-struggling-to-raise-capital/)
 - [South American startups: Apply to Startup Battlefield 200](https://techcrunch.com/2023/05/26/south-america-apply-startup-battlefield-200-disrupt-2023/)
-- [South Korea&#39;s homegrown Nuri rocket launches 8 satellites on 3rd-ever mission &lpar;photo&rpar;](https://www.space.com/south-korea-nuri-rocket-launch-may-2023)
-- [The brightest supernova in years could help astronomers forecast future star explosions](https://www.space.com/brightest-supernova-help-forecast-star-explosions)
 <!-- BLOG-POST-LIST:END -->
 
 ---
