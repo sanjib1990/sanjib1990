@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s Artemis moon rocket will cost $6 billion more than planned: report](https://www.space.com/nasa-sls-megarocket-cost-delays-report)
 - [TechCrunch+ roundup: South Korea investor survey, 1-hour board meetings, venture leasing basics](https://techcrunch.com/2023/05/26/techcrunch-roundup-south-korea-investor-survey-1-hour-board-meetings-venture-leasing-basics/)
 - [AI might be the least of edtech’s worries](https://techcrunch.com/2023/05/26/edtech-ai-worries/)
 - [Watch 1,000 Lego astronauts fly near the edge of space &lpar;video&rpar;](https://www.space.com/lego-astronauts-fly-to-near-space-video)
 - [Skyflow expands its regional footprint as it adds generative AI support to its data privacy tooling](https://techcrunch.com/2023/05/26/skyflow-generative-ai-support/)
-- [Space pictures! See our image of the day](https://www.space.com/34-image-day.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
