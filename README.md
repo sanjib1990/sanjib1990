@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Building 100 Rooms for Mr. Beast](https://www.youtube.com/watch?v=3JYCjXdW38s)
 - [Yo mama so FAT32...](https://www.youtube.com/watch?v=0xnuhmqRvVQ)
 - [Non-Deterministic Automata - Computerphile](https://www.youtube.com/watch?v=NhWDVqR4tZc)
 - [Why did my side-hustle fail? How to validate business ideas](https://www.youtube.com/watch?v=4_MDP6TcHwU)
 - [Lecture 1: Motivation, Intuition, and Examples](https://www.youtube.com/watch?v=YQQOfK3ZLRU)
-- [Lecture 4: Compact Metric Spaces](https://www.youtube.com/watch?v=Rv3xYk85Lq0)
 <!-- YOUTUBE:END -->
 
 ---
