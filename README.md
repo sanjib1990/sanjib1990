@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Solving problems is better than fearmongering](https://techcrunch.com/2023/05/27/cybersecurity-2022/)
-- [AI scares the bejesus out of me](https://techcrunch.com/2023/05/27/ai-scares-the-bejesus-out-of-me/)
-- [Deal Dive: Why this startup chose to sell itself over raising a Series A](https://techcrunch.com/2023/05/27/heroes-jobs-series-a-decision/)
-- [This week in AI: AI heavyweights try to tip the regulatory scales](https://techcrunch.com/2023/05/27/this-week-in-ai-ai-heavyweights-try-to-tip-the-regulatory-scales/)
-- [Elon Musk takes Twitter out of the EU’s Disinformation Code of Practice](https://techcrunch.com/2023/05/27/elon-musk-twitter-eu-disinformation-code/)
+- [Antarctic currents supplying 40% of world&#39;s deep ocean with nutrients and oxygen slowing dramatically](https://www.space.com/antarctic-ocean-currents-slowing-dramatically)
+- [Saudi Arabia has ambitious plans for space. Its astronauts on SpaceX&#39;s private Ax-2 mission are just the start, official says](https://www.space.com/saudi-arabia-space-plans-ax-2-mishaal-ashemimry-interview)
+- [China&#39;s mysterious space plane released an unidentified &#39;object&#39; in orbit, US intelligence reveals](https://www.space.com/china-mysterious-space-plane-released-unidentified-object-in-orbit)
+- [Watch the half moon of May shine by Leo the Lion in the night sky tonight](https://www.space.com/half-moon-first-quarter-leo-may-2023)
+- [Explaining Blockchain Capital’s Big Bet on an Eyeball-Scanning Orb](https://techcrunch.com/2023/05/26/explaining-blockchain-capitals-big-bet-on-an-eyeball-scanning-orb/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
