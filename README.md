@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [QED Investors says pace of investing from new funds will be ‘extremely disciplined’](https://techcrunch.com/2023/05/28/qed-investors-says-pace-of-investing-from-new-funds-will-be-extremely-disciplined/)
+- [3 Views on a16z’s latest reported early-stage effort](https://techcrunch.com/2023/05/28/a16z-early-stage-effort/)
 - [Climate change could trigger gigantic deadly tsunamis from Antarctica, new study warns](https://www.space.com/climate-change-could-trigger-gigantic-deadly-tsunamis-from-antarctica)
 - [James Webb telescope discovers gargantuan geyser on Saturn&#39;s moon, blasting water hundreds of miles into space](https://www.space.com/james-webb-telescope-discovers-gargantuan-geyser-on-saturn-moon)
 - [The Euclid spacecraft will transform how we view the &#39;dark universe&#39;](https://www.space.com/the-euclid-spacecraft-will-transform-how-we-view-the-dark-universe)
-- [10 everyday NASA inventions and spin-offs you can find in your home](https://www.space.com/10-everyday-nasa-inventions-spin-offs-in-you-home)
-- [Princess Leia&#39;s original &#39;Star Wars&#39; ceremonial dress could fetch $2 million at auction &lpar;exclusive&rpar;](https://www.space.com/princess-leia-ceremonial-dress-star-wars-auction)
 <!-- BLOG-POST-LIST:END -->
 
 ---
