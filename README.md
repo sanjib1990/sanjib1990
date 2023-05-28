@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Taking the pulse on the Northeast seed market with Techstars’ Kerty Levy](https://techcrunch.com/2023/05/28/northeast-seed-market/)
 - [QED Investors says pace of investing from new funds will be ‘extremely disciplined’](https://techcrunch.com/2023/05/28/qed-investors-says-pace-of-investing-from-new-funds-will-be-extremely-disciplined/)
 - [3 Views on a16z’s latest reported early-stage effort](https://techcrunch.com/2023/05/28/a16z-early-stage-effort/)
 - [Climate change could trigger gigantic deadly tsunamis from Antarctica, new study warns](https://www.space.com/climate-change-could-trigger-gigantic-deadly-tsunamis-from-antarctica)
 - [James Webb telescope discovers gargantuan geyser on Saturn&#39;s moon, blasting water hundreds of miles into space](https://www.space.com/james-webb-telescope-discovers-gargantuan-geyser-on-saturn-moon)
-- [The Euclid spacecraft will transform how we view the &#39;dark universe&#39;](https://www.space.com/the-euclid-spacecraft-will-transform-how-we-view-the-dark-universe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
