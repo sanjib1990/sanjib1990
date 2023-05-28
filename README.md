@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [UAE to land a probe on an asteroid between Mars and Jupiter in 2034](https://www.space.com/uae-asteroid-mission-details-landing-2034)
 - [Windows adds support for RAR, Netflix cracks down on passwords, and Meta lays off workers](https://techcrunch.com/2023/05/27/windows-adds-support-for-rar-netflix-cracks-down-on-passwords-and-meta-lays-off-workers/)
 - [Solving problems is better than fearmongering](https://techcrunch.com/2023/05/27/cybersecurity-2022/)
 - [AI scares the bejesus out of me](https://techcrunch.com/2023/05/27/ai-scares-the-bejesus-out-of-me/)
 - [Deal Dive: Why this startup chose to sell itself over raising a Series A](https://techcrunch.com/2023/05/27/heroes-jobs-series-a-decision/)
-- [This week in AI: AI heavyweights try to tip the regulatory scales](https://techcrunch.com/2023/05/27/this-week-in-ai-ai-heavyweights-try-to-tip-the-regulatory-scales/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
