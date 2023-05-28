@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [10 everyday NASA inventions and spin-offs you can find in your home](https://www.space.com/10-everyday-nasa-inventions-spin-offs-in-you-home)
+- [Princess Leia&#39;s original &#39;Star Wars&#39; ceremonial dress could fetch $2 million at auction &lpar;exclusive&rpar;](https://www.space.com/princess-leia-ceremonial-dress-star-wars-auction)
 - [Startups should absolutely work with governments to support defense projects](https://techcrunch.com/2023/05/28/startups-should-absolutely-work-with-governments-to-support-defense-projects/)
 - [UAE to land a probe on an asteroid between Mars and Jupiter in 2034](https://www.space.com/uae-asteroid-mission-details-landing-2034)
 - [Windows adds support for RAR, Netflix cracks down on passwords, and Meta lays off workers](https://techcrunch.com/2023/05/27/windows-adds-support-for-rar-netflix-cracks-down-on-passwords-and-meta-lays-off-workers/)
-- [Solving problems is better than fearmongering](https://techcrunch.com/2023/05/27/cybersecurity-2022/)
-- [AI scares the bejesus out of me](https://techcrunch.com/2023/05/27/ai-scares-the-bejesus-out-of-me/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
