@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ford EVs will have Tesla DNA and Waymo’s robotaxis are coming to Uber](https://techcrunch.com/2023/05/28/ford-evs-will-have-tesla-dna-and-waymos-robotaxis-are-coming-to-uber/)
 - [Taking the pulse on the Northeast seed market with Techstars’ Kerty Levy](https://techcrunch.com/2023/05/28/northeast-seed-market/)
 - [QED Investors says pace of investing from new funds will be ‘extremely disciplined’](https://techcrunch.com/2023/05/28/qed-investors-says-pace-of-investing-from-new-funds-will-be-extremely-disciplined/)
 - [3 Views on a16z’s latest reported early-stage effort](https://techcrunch.com/2023/05/28/a16z-early-stage-effort/)
 - [Climate change could trigger gigantic deadly tsunamis from Antarctica, new study warns](https://www.space.com/climate-change-could-trigger-gigantic-deadly-tsunamis-from-antarctica)
-- [James Webb telescope discovers gargantuan geyser on Saturn&#39;s moon, blasting water hundreds of miles into space](https://www.space.com/james-webb-telescope-discovers-gargantuan-geyser-on-saturn-moon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
