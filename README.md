@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch Apollo astronauts lead National Memorial Day Parade 2023 in US Capital today](https://www.space.com/memorial-day-parade-apollo-astronaut-legends-2023)
 - [Best space settlement games: Manage bases &amp; build cities on other worlds](https://www.space.com/best-space-colonization-games)
 - [Scientists discover giant crater from ice age explosion that has methane-spewing mud volcano inside it](https://www.space.com/scientists-discover-giant-crater-ice-age-explosion-methane-mud-spewing-volcano-inside)
 - [Ambani’s JioCinema secures NBCUniversal titles, escalates Netflix and Disney rivalry](https://techcrunch.com/2023/05/29/jiocinema-nbcuniversal-viacom18/)
 - [Arm launches new chips for faster smartphone performance during Computex](https://techcrunch.com/2023/05/29/arm-new-mobile-chips/)
-- [All the Nvidia news announced by Jensen Huang at Computex](https://techcrunch.com/2023/05/28/nvidia-computex-jensen-huang/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
