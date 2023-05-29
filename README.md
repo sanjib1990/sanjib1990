@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Arm launches new chips for faster smartphone performance during Computex](https://techcrunch.com/2023/05/29/arm-new-mobile-chips/)
 - [All the Nvidia news announced by Jensen Huang at Computex](https://techcrunch.com/2023/05/28/nvidia-computex-jensen-huang/)
 - [Krafton’s popular Battlegrounds Mobile India, successor to PUBG, returns](https://techcrunch.com/2023/05/28/bgmi-battlegrounds-mobile-india-pubg-download/)
 - [Ford EVs will have Tesla DNA and Waymo’s robotaxis are coming to Uber](https://techcrunch.com/2023/05/28/ford-evs-will-have-tesla-dna-and-waymos-robotaxis-are-coming-to-uber/)
 - [Taking the pulse on the Northeast seed market with Techstars’ Kerty Levy](https://techcrunch.com/2023/05/28/northeast-seed-market/)
-- [QED Investors says pace of investing from new funds will be ‘extremely disciplined’](https://techcrunch.com/2023/05/28/qed-investors-says-pace-of-investing-from-new-funds-will-be-extremely-disciplined/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
