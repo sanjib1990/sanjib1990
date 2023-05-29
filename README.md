@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Worldcoin… the sh*tcoin for humanity?](https://www.youtube.com/watch?v=V4qrvoFodmo)
 - [MrBeast asked me to build 100 Rooms](https://www.youtube.com/watch?v=3JYCjXdW38s)
 - [Yo mama so FAT32...](https://www.youtube.com/watch?v=0xnuhmqRvVQ)
 - [Non-Deterministic Automata - Computerphile](https://www.youtube.com/watch?v=NhWDVqR4tZc)
 - [Why did my side-hustle fail? How to validate business ideas](https://www.youtube.com/watch?v=4_MDP6TcHwU)
-- [Lecture 1: Motivation, Intuition, and Examples](https://www.youtube.com/watch?v=YQQOfK3ZLRU)
 <!-- YOUTUBE:END -->
 
 ---
