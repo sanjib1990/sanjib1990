@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Solana’s co-founder sees potential for its blockchain to be the ‘Apple of crypto’](https://techcrunch.com/2023/05/29/solanas-crypto-raj-gokal-interview/)
 - [TechCrunch+’s holiday reading list](https://techcrunch.com/2023/05/29/techcrunch-memorial-day-reading-list/)
 - [NASA&#39;s UFO task force meets on May 31 and you can watch it online with this free livestream](https://www.space.com/nasa-ufo-study-livestream-may-2023)
 - [Watch China launch Shenzhou 16 astronauts to Tiangong space station tonight](https://www.space.com/china-shenzhou-16-astronauts-launch-tiangong-space-station)
 - [Watch Apollo astronauts lead National Memorial Day Parade 2023 in US Capital today](https://www.space.com/memorial-day-parade-apollo-astronaut-legends-2023)
-- [Best space settlement games: Manage bases &amp; build cities on other worlds](https://www.space.com/best-space-colonization-games)
 <!-- BLOG-POST-LIST:END -->
 
 ---
