@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A popular Android app began secretly spying on its users months after it was approved on Google Play](https://techcrunch.com/2023/05/29/popular-android-app-microphone-spying-google-play/)
 - [Max Q: Galactic](https://techcrunch.com/2023/05/29/max-q-galactic/)
 - [Reliance’s JioCinema breaks world record with free cricket streaming](https://techcrunch.com/2023/05/29/jiocinema-concurrent-global-record/)
 - [Solana’s co-founder sees potential for its blockchain to be the ‘Apple of crypto’](https://techcrunch.com/2023/05/29/solanas-crypto-raj-gokal-interview/)
 - [TechCrunch+’s holiday reading list](https://techcrunch.com/2023/05/29/techcrunch-memorial-day-reading-list/)
-- [NASA&#39;s UFO task force meets on May 31 and you can watch it online with this free livestream](https://www.space.com/nasa-ufo-study-livestream-may-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
