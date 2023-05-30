@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [RaidForums user data leaked online a year after DOJ takedown](https://techcrunch.com/2023/05/30/raidforums-data-leaked-after-justice-department-takedown/)
+- [Startup Battlefield 200 applications close tomorrow](https://techcrunch.com/2023/05/30/applications-close-tomorrow-startup-battlefield-200-techcrunch-disrupt-2023/)
+- [OpenAI’s Altman and other AI giants back warning of advanced AI as ‘extinction’ risk](https://techcrunch.com/2023/05/30/ai-extiction-risk-statement/)
 - [Serve Robotics to deploy up to 2,000 sidewalk delivery bots on Uber Eats](https://techcrunch.com/2023/05/30/serve-robotics-to-deploy-up-to-2000-sidewalk-delivery-bots-on-uber-eats/)
 - [Portal’s Mac app helps users focus with immersive backgrounds and audio](https://techcrunch.com/2023/05/30/portals-mac-app-helps-users-focus-with-immersive-backgrounds-and-audio/)
-- [Hungry black hole shoots out bright X-ray jet 60,000 times hotter than the sun](https://www.space.com/supermassive-black-hole-brightest-quasar)
-- [Space pictures! See our image of the day](https://www.space.com/34-image-day.html)
-- [Wellplaece wants to put a smile on dentists’ face with new supply procurement marketplace](https://techcrunch.com/2023/05/30/wellplaece-dental-marketplace-commerce/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
