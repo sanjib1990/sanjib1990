@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [UpCodes launches Copilot, an AI-based research assistant for building codes](https://techcrunch.com/2023/05/30/upcodes-copilot-series-a/)
+- [AI can do everything, but can crypto do something?](https://techcrunch.com/2023/05/30/ai-can-do-everything-but-can-crypto-do-something/)
 - [Three climate technologies every investor should have in their portfolio](https://techcrunch.com/2023/05/30/three-climate-technologies-for-investors/)
 - [Scientists may be able to put Mars-bound astronauts into &#39;suspended animation&#39; using sound waves, mouse study suggests](https://www.space.com/mars-astronauts-suspended-animation-sound-waves)
 - [RaidForums user data leaked online a year after DOJ takedown](https://techcrunch.com/2023/05/30/raidforums-data-leaked-after-justice-department-takedown/)
-- [Startup Battlefield 200 applications close tomorrow](https://techcrunch.com/2023/05/30/applications-close-tomorrow-startup-battlefield-200-techcrunch-disrupt-2023/)
-- [OpenAI’s Altman and other AI giants back warning of advanced AI as ‘extinction’ risk](https://techcrunch.com/2023/05/30/ai-extiction-risk-statement/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
