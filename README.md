@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch China&#39;s Shenzhou 16 astronauts enter Tiangong space station &lpar;video&rpar;](https://www.space.com/shenzhou-16-astronauts-enter-tiangong-space-station-video)
+- [Coupang says no plans to enter India](https://techcrunch.com/2023/05/30/coupang-india/)
+- [Watch SpaceX launch 52 Starlink satellites to orbit early Wednesday](https://www.space.com/spacex-starlink-launch-group-2-10)
+- [Have enterprise buyers finally soured on ‘bottoms-up’ tech sales?](https://techcrunch.com/2023/05/30/have-enterprise-buyers-finally-soured-on-bottoms-up-tech-sales/)
 - [Watch SpaceX Dragon carrying private Ax-2 astronauts return to Earth tonight](https://www.space.com/ax-2-astronauts-spacex-dragon-splash-down)
-- [Meet the Aerospace Corporation, AMD, Torc and more at Disrupt](https://techcrunch.com/2023/05/30/second-announcement-partners-techcrunch-disrupt-2023/)
-- [SEC settles with former Coinbase employee over insider trading charges](https://techcrunch.com/2023/05/30/sec-settles-with-former-coinbase-employee-over-insider-trading-charges/)
-- [Relive SpaceX Starship&#39;s epic launch with these amazing highlights &lpar;video&rpar;](https://www.space.com/spacex-starships-launch-highlights-video)
-- [Google DeepMind introduces Barkour, a benchmark for quadrupedal robots](https://techcrunch.com/2023/05/30/google-deepmind-introduces-barkour-a-benchmark-for-quadrupedal-robots/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
