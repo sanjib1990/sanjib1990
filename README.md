@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla cleared by NHTSA for in-car gaming feature](https://techcrunch.com/2023/05/30/tesla-cleared-by-nhtsa-for-in-car-gaming-feature/)
-- [Welcome to the trillion-dollar club, Nvidia](https://techcrunch.com/2023/05/30/welcome-to-the-trillion-dollar-club-nvidia/)
-- [SpaceX could launch this origami-inspired folding heat shield later this year](https://www.space.com/spacex-space-forge-origami-heatshield)
-- [Pluton Biosciences takes its carbon-fixing microbes to market with a fresh $16.6M](https://techcrunch.com/2023/05/30/pluton-biosciences-takes-its-carbon-fixing-microbes-to-market-with-a-fresh-16-6m/)
-- [New record! 17 people are in Earth orbit right now](https://www.space.com/record-17-people-in-earth-orbit-at-once)
+- [A massive sunspot is currently visible to the unaided eye. Here&#39;s how to see it  safely before it&#39;s gone](https://www.space.com/sun-sunspot-unaided-eye-how-to-see-safely)
+- [The academic to founder pipeline with Dr. Stacy Blain from Concarlo Therapeutics](https://techcrunch.com/2023/05/30/the-academic-to-founder-pipeline-with-dr-stacy-blain-from-concarlo-therapeutics/)
+- [Apple WWDC 2023 is next week — here’s what we expect](https://techcrunch.com/2023/05/30/apple-wwdc-2023-is-next-week-heres-what-we-expect/)
+- [Apple Music Classical is now available on Android](https://techcrunch.com/2023/05/30/apple-music-classical-is-now-available-on-android/)
+- [HackCapital launches investment platform competitor to Odin, Vauban](https://techcrunch.com/2023/05/30/hackcapital-investment-platform-angel/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
