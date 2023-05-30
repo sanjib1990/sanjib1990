@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Elizabeth Holmes is now behind bars: how we got here](https://techcrunch.com/2023/05/30/elizabeth-holmes-is-now-behind-bars-how-we-got-here/)
+- [Elizabeth Holmes is now behind bars: How we got here](https://techcrunch.com/2023/05/30/elizabeth-holmes-is-now-behind-bars-how-we-got-here/)
 - [Watch China&#39;s Shenzhou 16 astronauts enter Tiangong space station &lpar;video&rpar;](https://www.space.com/shenzhou-16-astronauts-enter-tiangong-space-station-video)
 - [Coupang says no plans to enter India](https://techcrunch.com/2023/05/30/coupang-india/)
 - [Watch SpaceX launch 52 Starlink satellites to orbit early Wednesday](https://www.space.com/spacex-starlink-launch-group-2-10)
