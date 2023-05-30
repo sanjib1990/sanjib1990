@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Wellplaece wants to put a smile on dentists’ face with new supply procurement marketplace](https://techcrunch.com/2023/05/30/wellplaece-dental-marketplace-commerce/)
+- [Blackrock, a minority investor in Byju’s, cuts startup valuation to $8.4 billion](https://techcrunch.com/2023/05/30/blackrock-a-minority-investor-in-byjus-cuts-startup-valuation-to-8-4-billion/)
+- [First they worked in tandem, now they’re in an e-bike patent suit](https://techcrunch.com/2023/05/30/cowboys-latest-e-bike-feature-leads-to-a-legal-showdown/)
+- [The ultimate guide to planning epic stargazing road trips in the US southwest](https://www.space.com/stargazing-road-trip-guide-us-southwest)
 - [OMERS Growth Equity leads Carrum Health’s $45M Series C to expand cancer care](https://techcrunch.com/2023/05/30/omers-growth-carrum-health-45m-cancer-care/)
-- [Amazon is testing dine-in payments in India](https://techcrunch.com/2023/05/30/amazon-is-testing-dine-in-payments-in-india/)
-- [A popular Android app began secretly spying on its users months after it was listed on Google Play](https://techcrunch.com/2023/05/29/popular-android-app-microphone-spying-google-play/)
-- [Max Q: Galactic](https://techcrunch.com/2023/05/29/max-q-galactic/)
-- [Reliance’s JioCinema breaks world record with free cricket streaming](https://techcrunch.com/2023/05/29/jiocinema-concurrent-global-record/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
