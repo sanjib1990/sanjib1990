@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sorry, but Alexa can no longer talk like Samuel L Jackson](https://techcrunch.com/2023/05/30/amazon-shuts-down-alexa-celebrity-voice-feature/)
+- [Arcimoto’s latest teeny-tiny EV is all work and no play](https://techcrunch.com/2023/05/30/arcimotos-latest-teeny-tiny-ev-is-all-work-and-no-play/)
+- [Instacart’s new feature lets you ‘favorite’ shoppers to have future orders fulfilled by them](https://techcrunch.com/2023/05/30/instacarts-favorite-shoppers-have-future-orders-fulfilled-by-them/)
+- [Web Roulette is an addictive, ‘swipeable’ web browser for the TikTok era](https://techcrunch.com/2023/05/30/web-roulette-launches-an-addictive-swipeable-web-browser-for-the-tiktok-era/)
 - [Europe&#39;s JUICE Jupiter probe finishes deploying its instruments](https://www.space.com/juice-jupiter-spacecraft-finishes-deploying-instruments)
-- [Antimatter uses memes to turn C students into C+ students](https://techcrunch.com/2023/05/30/antimatter-uses-memes-to-turn-c-students-into-c-students/)
-- [Qflow raises $9.1M to track construction receipts, making it easier to de-carbonize](https://techcrunch.com/2023/05/30/qflow-raises-9-1m-to-track-construction-receipts-making-it-easier-to-de-carbonize/)
-- [Klarna’s Q1 results show that the fintech unicorn’s turnaround is in full swing](https://techcrunch.com/2023/05/30/klarna-q1-results-analysis-ai/)
-- [UpCodes launches Copilot, an AI-based research assistant for building codes](https://techcrunch.com/2023/05/30/upcodes-copilot-series-a/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
