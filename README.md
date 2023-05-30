@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OMERS Growth Equity leads Carrum Health’s $45M Series C to expand cancer care](https://techcrunch.com/2023/05/30/omers-growth-carrum-health-45m-cancer-care/)
+- [Amazon is testing dine-in payments in India](https://techcrunch.com/2023/05/30/amazon-is-testing-dine-in-payments-in-india/)
 - [A popular Android app began secretly spying on its users months after it was listed on Google Play](https://techcrunch.com/2023/05/29/popular-android-app-microphone-spying-google-play/)
 - [Max Q: Galactic](https://techcrunch.com/2023/05/29/max-q-galactic/)
 - [Reliance’s JioCinema breaks world record with free cricket streaming](https://techcrunch.com/2023/05/29/jiocinema-concurrent-global-record/)
-- [Solana’s co-founder sees potential for its blockchain to be the ‘Apple of crypto’](https://techcrunch.com/2023/05/29/solanas-crypto-raj-gokal-interview/)
-- [TechCrunch+’s holiday reading list](https://techcrunch.com/2023/05/29/techcrunch-memorial-day-reading-list/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
