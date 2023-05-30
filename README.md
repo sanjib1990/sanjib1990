@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Europe&#39;s JUICE Jupiter probe finishes deploying its instruments](https://www.space.com/juice-jupiter-spacecraft-finishes-deploying-instruments)
+- [Antimatter uses memes to turn C students into C+ students](https://techcrunch.com/2023/05/30/antimatter-uses-memes-to-turn-c-students-into-c-students/)
+- [Qflow raises $9.1M to track construction receipts, making it easier to de-carbonize](https://techcrunch.com/2023/05/30/qflow-raises-9-1m-to-track-construction-receipts-making-it-easier-to-de-carbonize/)
+- [Klarna’s Q1 results show that the fintech unicorn’s turnaround is in full swing](https://techcrunch.com/2023/05/30/klarna-q1-results-analysis-ai/)
 - [UpCodes launches Copilot, an AI-based research assistant for building codes](https://techcrunch.com/2023/05/30/upcodes-copilot-series-a/)
-- [AI can do everything, but can crypto do something?](https://techcrunch.com/2023/05/30/ai-can-do-everything-but-can-crypto-do-something/)
-- [Three climate technologies every investor should have in their portfolio](https://techcrunch.com/2023/05/30/three-climate-technologies-for-investors/)
-- [Scientists may be able to put Mars-bound astronauts into &#39;suspended animation&#39; using sound waves, mouse study suggests](https://www.space.com/mars-astronauts-suspended-animation-sound-waves)
-- [RaidForums user data leaked online a year after DOJ takedown](https://techcrunch.com/2023/05/30/raidforums-data-leaked-after-justice-department-takedown/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
