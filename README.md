@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Serve Robotics to deploy up to 2,000 sidewalk delivery bots on Uber Eats](https://techcrunch.com/2023/05/30/serve-robotics-to-deploy-up-to-2000-sidewalk-delivery-bots-on-uber-eats/)
+- [Portal’s Mac app helps users focus with immersive backgrounds and audio](https://techcrunch.com/2023/05/30/portals-mac-app-helps-users-focus-with-immersive-backgrounds-and-audio/)
+- [Hungry black hole shoots out bright X-ray jet 60,000 times hotter than the sun](https://www.space.com/supermassive-black-hole-brightest-quasar)
+- [Space pictures! See our image of the day](https://www.space.com/34-image-day.html)
 - [Wellplaece wants to put a smile on dentists’ face with new supply procurement marketplace](https://techcrunch.com/2023/05/30/wellplaece-dental-marketplace-commerce/)
-- [Blackrock, a minority investor in Byju’s, cuts startup valuation to $8.4 billion](https://techcrunch.com/2023/05/30/blackrock-a-minority-investor-in-byjus-cuts-startup-valuation-to-8-4-billion/)
-- [First they worked in tandem, now they’re in an e-bike patent suit](https://techcrunch.com/2023/05/30/cowboys-latest-e-bike-feature-leads-to-a-legal-showdown/)
-- [The ultimate guide to planning epic stargazing road trips in the US southwest](https://www.space.com/stargazing-road-trip-guide-us-southwest)
-- [OMERS Growth Equity leads Carrum Health’s $45M Series C to expand cancer care](https://techcrunch.com/2023/05/30/omers-growth-carrum-health-45m-cancer-care/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
