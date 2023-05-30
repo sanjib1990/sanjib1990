@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Sorry, but Alexa can no longer talk like Samuel L Jackson](https://techcrunch.com/2023/05/30/amazon-shuts-down-alexa-celebrity-voice-feature/)
-- [Arcimoto’s latest teeny-tiny EV is all work and no play](https://techcrunch.com/2023/05/30/arcimotos-latest-teeny-tiny-ev-is-all-work-and-no-play/)
-- [Instacart’s new feature lets you ‘favorite’ shoppers to have future orders fulfilled by them](https://techcrunch.com/2023/05/30/instacarts-favorite-shoppers-have-future-orders-fulfilled-by-them/)
-- [Web Roulette is an addictive, ‘swipeable’ web browser for the TikTok era](https://techcrunch.com/2023/05/30/web-roulette-launches-an-addictive-swipeable-web-browser-for-the-tiktok-era/)
-- [Europe&#39;s JUICE Jupiter probe finishes deploying its instruments](https://www.space.com/juice-jupiter-spacecraft-finishes-deploying-instruments)
+- [Tesla cleared by NHTSA for in-car gaming feature](https://techcrunch.com/2023/05/30/tesla-cleared-by-nhtsa-for-in-car-gaming-feature/)
+- [Welcome to the trillion-dollar club, Nvidia](https://techcrunch.com/2023/05/30/welcome-to-the-trillion-dollar-club-nvidia/)
+- [SpaceX could launch this origami-inspired folding heat shield later this year](https://www.space.com/spacex-space-forge-origami-heatshield)
+- [Pluton Biosciences takes its carbon-fixing microbes to market with a fresh $16.6M](https://techcrunch.com/2023/05/30/pluton-biosciences-takes-its-carbon-fixing-microbes-to-market-with-a-fresh-16-6m/)
+- [New record! 17 people are in Earth orbit right now](https://www.space.com/record-17-people-in-earth-orbit-at-once)
 <!-- BLOG-POST-LIST:END -->
 
 ---
