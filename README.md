@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Futurama&#39; fuels up for Season 8 as Hulu&#39;s reboot blasts off this summer](https://www.space.com/futurama-season-eight-hulu-debut-july-2023)
-- [The first episode of ‘Black Mirror’ S6 is a subscriber’s worst nightmare](https://techcrunch.com/2023/05/31/black-mirror-season-6-official-trailer-netflix/)
-- [Blink launches Blink Copilot to bring generative AI to security operations](https://techcrunch.com/2023/05/31/blink-brings-generative-ai-to-security-operations-with-blink-copilot/)
-- [Social mapping platform Atly launches with $18M to be a Reddit for real-world locations](https://techcrunch.com/2023/05/31/social-mapping-platform-atly-launches-with-18m-to-be-a-reddit-for-real-world-locations/)
-- [Vartana lands a $20M investment to scale its sales closing platform](https://techcrunch.com/2023/05/31/vartana-lands-a-20m-investment-to-scale-its-sales-closing-platform/)
+- [Hyro secures $30M for its AI-powered, healthcare-focused conversational platform](https://techcrunch.com/2023/05/31/hyro-secures-30m-for-its-ai-powered-healthcare-focused-conversational-platform/)
+- [Boeing faces &#39;emerging issues&#39; ahead of Starliner capsule&#39;s 1st crewed flight in July, NASA says](https://www.space.com/boeing-starliner-crew-flight-test-flight-review-may-2023)
+- [SecureSave’s secret weapon: Suze Orman](https://techcrunch.com/2023/05/31/securesaves-secret-weapon-suze-orman/)
+- [Snapchat launches a new generative AI feature, ‘My AI Snaps,’ for paid subscribers](https://techcrunch.com/2023/05/31/snapchat-launches-a-new-generative-ai-feature-my-ai-snaps-for-paid-subscribers/)
+- [India kicks off a pilot to become electronics repair capital of the world](https://techcrunch.com/2023/05/31/india-electronics-repair-outsourcing-pilot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
