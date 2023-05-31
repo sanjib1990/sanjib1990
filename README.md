@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Ethernet &lpar;50th Birthday&rpar; - Computerphile](https://www.youtube.com/watch?v=TkOVgkcrvbg)
 - [21 Awesome Web Features you’re not using yet](https://www.youtube.com/watch?v=q1fsBWLpYW4)
 - [Worldcoin… the sh*tcoin for humanity?](https://www.youtube.com/watch?v=V4qrvoFodmo)
 - [MrBeast asked me to build 100 Rooms](https://www.youtube.com/watch?v=3JYCjXdW38s)
 - [Yo mama so FAT32...](https://www.youtube.com/watch?v=0xnuhmqRvVQ)
-- [Non-Deterministic Automata - Computerphile](https://www.youtube.com/watch?v=NhWDVqR4tZc)
 <!-- YOUTUBE:END -->
 
 ---
