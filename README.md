@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lightmatter’s photonic AI hardware is ready to shine with $154M in new funding](https://techcrunch.com/2023/05/31/lightmatters-photonic-ai-hardware-is-ready-to-shine-with-154m-in-new-funding/)
+- [Amazon settles with FTC for $25M after ‘flouting’ kids’ privacy and deletion requests](https://techcrunch.com/2023/05/31/amazon-settles-with-ftc-for-25m-after-flouting-kids-privacy-and-deletion-requests/)
+- [New technique could probe the heart of powerful solar storms](https://www.space.com/solar-flares-cme-particle-acceleration-mystery)
 - [Toyota adds $2.1B to its US battery factory expansion plans](https://techcrunch.com/2023/05/31/toyota-adds-2-1b-to-its-battery-factory-expansion-plans/)
 - [Popular Reddit app Apollo may go out of business over Reddit’s new, unaffordable API pricing](https://techcrunch.com/2023/05/31/popular-reddit-app-apollo-may-go-out-of-business-over-reddits-new-unaffordable-api-pricing/)
-- [Atlanta Mayor Andre Dickens to speak at TechCrunch Live’s Atlanta event](https://techcrunch.com/2023/05/31/atlanta-mayor-andre-dickens-to-speak-at-techcrunch-lives-atlanta-event/)
-- [Six tips for getting the most out of your SIEM investment](https://techcrunch.com/2023/05/31/six-tips-for-getting-the-most-out-of-your-siem-investment/)
-- [Amazon’s Ring to pay $5.8M after staff and contractors caught snooping on customer videos, FTC says](https://techcrunch.com/2023/05/31/amazon-ring-ftc-settlement-lax-security/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
