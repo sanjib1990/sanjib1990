@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Flighty’s tool will help you connect with fellow WWDC attendees](https://techcrunch.com/2023/05/31/flightys-tool-will-help-you-connect-with-fellow-wwdc-attendees/)
-- [Final &#39;Strange New Worlds&#39; trailer reminds us why it&#39;s the best &#39;Star Trek&#39; on TV](https://www.space.com/star-trek-strange-new-worlds-season-two-final-teaser)
-- [Hostaway unlocks $175M to expand its vacation rental management platform](https://techcrunch.com/2023/05/31/hostaway-unlocks-175m-to-expand-its-vacation-rental-management-platform/)
-- [Babylon 5: The Road Home — Everything we know about the Babylon 5 animated movie](https://www.space.com/everything-we-know-about-babylon-5-the-road-home-animated-movie)
-- [Strive Health grabs $166M to provide end-to-end kidney care](https://techcrunch.com/2023/05/31/strive-health-166m-kidney-care-healthcare/)
+- [&#39;Futurama&#39; fuels up for Season 8 as Hulu&#39;s reboot blasts off this summer](https://www.space.com/futurama-season-eight-hulu-debut-july-2023)
+- [The first episode of ‘Black Mirror’ S6 is a subscriber’s worst nightmare](https://techcrunch.com/2023/05/31/black-mirror-season-6-official-trailer-netflix/)
+- [Blink launches Blink Copilot to bring generative AI to security operations](https://techcrunch.com/2023/05/31/blink-brings-generative-ai-to-security-operations-with-blink-copilot/)
+- [Social mapping platform Atly launches with $18M to be a Reddit for real-world locations](https://techcrunch.com/2023/05/31/social-mapping-platform-atly-launches-with-18m-to-be-a-reddit-for-real-world-locations/)
+- [Vartana lands a $20M investment to scale its sales closing platform](https://techcrunch.com/2023/05/31/vartana-lands-a-20m-investment-to-scale-its-sales-closing-platform/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
