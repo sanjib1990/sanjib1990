@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New regulation in India seeks to stub out tobacco glorification on streaming platforms](https://techcrunch.com/2023/05/31/new-regulation-in-india-seeks-to-stub-out-tobacco-glorification-on-streaming-platforms/)
 - [Volvo’s new small EV tries to optimize space with Scandinavian design](https://techcrunch.com/2023/05/31/volvos-new-small-ev-ex30-scandinavian-design/)
 - [NXP unveils its latest processor, the i.MX 91, during Computex](https://techcrunch.com/2023/05/30/nxp-i-mx91/)
 - [Uber drops ride discounts for subscribers, switches to cash back](https://techcrunch.com/2023/05/30/uber-drops-ride-discounts-for-subscribers-switches-to-cash-back/)
 - [Block Party’s anti-harassment tool for Twitter is going on hiatus](https://techcrunch.com/2023/05/30/block-partys-anti-harassment-tool-for-twitter-is-going-on-hiatus/)
-- [Taxfix, the $1B German accounting startup, slashes 120 jobs amid funding crunch](https://techcrunch.com/2023/05/30/taxfix-layoffs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
