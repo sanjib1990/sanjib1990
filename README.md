@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Flighty’s tool will help you connect with fellow WWDC attendees](https://techcrunch.com/2023/05/31/flightys-tool-will-help-you-connect-with-fellow-wwdc-attendees/)
+- [Final &#39;Strange New Worlds&#39; trailer reminds us why it&#39;s the best &#39;Star Trek&#39; on TV](https://www.space.com/star-trek-strange-new-worlds-season-two-final-teaser)
+- [Hostaway unlocks $175M to expand its vacation rental management platform](https://techcrunch.com/2023/05/31/hostaway-unlocks-175m-to-expand-its-vacation-rental-management-platform/)
+- [Babylon 5: The Road Home — Everything we know about the Babylon 5 animated movie](https://www.space.com/everything-we-know-about-babylon-5-the-road-home-animated-movie)
 - [Strive Health grabs $166M to provide end-to-end kidney care](https://techcrunch.com/2023/05/31/strive-health-166m-kidney-care-healthcare/)
-- [Twitter launches Community Notes for images](https://techcrunch.com/2023/05/31/twitter-launches-community-notes-for-images/)
-- [Hubble Space Telescope hunts for a black hole among a brilliant field of stars &lpar;photo&rpar;](https://www.space.com/black-hole-hubble-space-telescope-star-cluster-intermediate-mass)
-- [China plans to put astronauts on the moon before 2030](https://www.space.com/china-moon-landing-before-2030)
-- [Ask Sophie: How long until I can travel while waiting for my green card?](https://techcrunch.com/2023/05/31/ask-sophie-how-long-until-i-can-travel-while-waiting-for-my-green-card/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
