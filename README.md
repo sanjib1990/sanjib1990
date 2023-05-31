@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hubble Space Telescope hunts for a black hole among a brilliant field of stars &lpar;photo&rpar;](https://www.space.com/black-hole-hubble-space-telescope-star-cluster-intermediate-mass)
+- [China plans to put astronauts on the moon before 2030](https://www.space.com/china-moon-landing-before-2030)
 - [Ask Sophie: How long until I can travel while waiting for my green card?](https://techcrunch.com/2023/05/31/ask-sophie-how-long-until-i-can-travel-while-waiting-for-my-green-card/)
 - [NomuPay, formed from pieces of failed fintech Wirecard, says it’s raised $53.6M for cross-border payments](https://techcrunch.com/2023/05/31/nomupay-funding/)
 - [New regulation in India seeks to stub out tobacco glorification on streaming platforms](https://techcrunch.com/2023/05/31/new-regulation-in-india-seeks-to-stub-out-tobacco-glorification-on-streaming-platforms/)
-- [Volvo’s new small EV tries to optimize space with Scandinavian design](https://techcrunch.com/2023/05/31/volvos-new-small-ev-ex30-scandinavian-design/)
-- [NXP unveils its latest processor, the i.MX 91, during Computex](https://techcrunch.com/2023/05/30/nxp-i-mx91/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
