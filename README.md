@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple touts $1.1 trillion in App Store commerce in 2022, with $104B in digital sales](https://techcrunch.com/2023/05/31/apple-touts-1-1-trillion-in-app-store-commerce-in-2022-with-104b-in-digital-sales/)
+- [A cosmic magnifying glass: What is gravitational lensing?](https://www.space.com/gravitational-lensing-explained)
+- [SellerX acquires US e-commerce roll-up rival Elevate Brands in an all-share deal, raises $64M+](https://techcrunch.com/2023/05/31/sellerx-acquires-us-e-commerce-roll-up-rival-elevate-brands-in-an-all-share-deal-raises-64m/)
 - [Low-code ML platform Predibase raises another $12.2M](https://techcrunch.com/2023/05/31/low-code-ml-platform-predibase-raises-another-12-2m/)
 - [Neobanks should take heart from Monzo’s performance in 2022](https://techcrunch.com/2023/05/31/monzo-2022-results-analysis-neobanks/)
-- [The Linux Foundation Europe launches RISE, the RISC-V Software Ecosystem project](https://techcrunch.com/2023/05/31/the-linux-foundation-europe-launches-rise-the-risc-v-software-ecosystem-project/)
-- [DistroKid releases new iPhone app, says Android launch coming soon](https://techcrunch.com/2023/05/31/distrokid-releases-new-iphone-app-says-android-launch-coming-soon/)
-- [Welcome home, Ax-2 crew: Axiom Space concludes second private mission to ISS](https://techcrunch.com/2023/05/31/welcome-home-ax-2-crew-axiom-space-concludes-second-private-mission-to-iss/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
