@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NXP unveils its latest processor, the i.MX 91, during Computex](https://techcrunch.com/2023/05/30/nxp-i-mx91/)
 - [Uber drops ride discounts for subscribers, switches to cash back](https://techcrunch.com/2023/05/30/uber-drops-ride-discounts-for-subscribers-switches-to-cash-back/)
 - [Block Party’s anti-harassment tool for Twitter is going on hiatus](https://techcrunch.com/2023/05/30/block-partys-anti-harassment-tool-for-twitter-is-going-on-hiatus/)
 - [Taxfix, the $1B German accounting startup, slashes 120 jobs amid funding crunch](https://techcrunch.com/2023/05/30/taxfix-layoffs/)
 - [No ChatGPT in my court: Judge orders all AI-generated content must be declared and checked](https://techcrunch.com/2023/05/30/no-chatgpt-in-my-court-judge-orders-all-ai-generated-content-must-be-declared-and-checked/)
-- [Elizabeth Holmes is now behind bars: How we got here](https://techcrunch.com/2023/05/30/elizabeth-holmes-is-now-behind-bars-how-we-got-here/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
