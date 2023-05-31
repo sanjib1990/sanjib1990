@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Toyota confirms another years-long data leak, this time exposing at least 260,000 car owners](https://techcrunch.com/2023/05/31/toyota-customer-data-leak-years/)
-- [Cortex raises $35M Series B for its internal developer portal](https://techcrunch.com/2023/05/31/cortex-raises-35m-series-b-for-its-internal-developer-portal/)
-- [Okay, which analyzes engineers’ productivity, sells to Stripe](https://techcrunch.com/2023/05/31/okay-which-analyzes-engineers-productivity-sells-to-stripe/)
-- [Instacart launches new in-app AI search tool powered by ChatGPT](https://techcrunch.com/2023/05/31/instacart-in-app-ai-search-tool-powered-by-chatgpt/)
-- [Hyro secures $30M for its AI-powered, healthcare-focused conversational platform](https://techcrunch.com/2023/05/31/hyro-secures-30m-for-its-ai-powered-healthcare-focused-conversational-platform/)
+- [Low-code ML platform Predibase raises another $12.2M](https://techcrunch.com/2023/05/31/low-code-ml-platform-predibase-raises-another-12-2m/)
+- [Neobanks should take heart from Monzo’s performance in 2022](https://techcrunch.com/2023/05/31/monzo-2022-results-analysis-neobanks/)
+- [The Linux Foundation Europe launches RISE, the RISC-V Software Ecosystem project](https://techcrunch.com/2023/05/31/the-linux-foundation-europe-launches-rise-the-risc-v-software-ecosystem-project/)
+- [DistroKid releases new iPhone app, says Android launch coming soon](https://techcrunch.com/2023/05/31/distrokid-releases-new-iphone-app-says-android-launch-coming-soon/)
+- [Welcome home, Ax-2 crew: Axiom Space concludes second private mission to ISS](https://techcrunch.com/2023/05/31/welcome-home-ax-2-crew-axiom-space-concludes-second-private-mission-to-iss/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
