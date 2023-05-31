@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Toyota confirms another years-long data leak, this time exposing at least 260,000 car owners](https://techcrunch.com/2023/05/31/toyota-customer-data-leak-years/)
+- [Cortex raises $35M Series B for its internal developer portal](https://techcrunch.com/2023/05/31/cortex-raises-35m-series-b-for-its-internal-developer-portal/)
+- [Okay, which analyzes engineers’ productivity, sells to Stripe](https://techcrunch.com/2023/05/31/okay-which-analyzes-engineers-productivity-sells-to-stripe/)
+- [Instacart launches new in-app AI search tool powered by ChatGPT](https://techcrunch.com/2023/05/31/instacart-in-app-ai-search-tool-powered-by-chatgpt/)
 - [Hyro secures $30M for its AI-powered, healthcare-focused conversational platform](https://techcrunch.com/2023/05/31/hyro-secures-30m-for-its-ai-powered-healthcare-focused-conversational-platform/)
-- [Boeing faces &#39;emerging issues&#39; ahead of Starliner capsule&#39;s 1st crewed flight in July, NASA says](https://www.space.com/boeing-starliner-crew-flight-test-flight-review-may-2023)
-- [SecureSave’s secret weapon: Suze Orman](https://techcrunch.com/2023/05/31/securesaves-secret-weapon-suze-orman/)
-- [Snapchat launches a new generative AI feature, ‘My AI Snaps,’ for paid subscribers](https://techcrunch.com/2023/05/31/snapchat-launches-a-new-generative-ai-feature-my-ai-snaps-for-paid-subscribers/)
-- [India kicks off a pilot to become electronics repair capital of the world](https://techcrunch.com/2023/05/31/india-electronics-repair-outsourcing-pilot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
