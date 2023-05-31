@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Taxfix, the $1B German accounting startup, slashes 120 jobs amid funding crunch](https://techcrunch.com/2023/05/30/taxfix-layoffs/)
+- [No ChatGPT in my court: Judge orders all AI-generated content must be declared and checked](https://techcrunch.com/2023/05/30/no-chatgpt-in-my-court-judge-orders-all-ai-generated-content-must-be-declared-and-checked/)
 - [Elizabeth Holmes is now behind bars: How we got here](https://techcrunch.com/2023/05/30/elizabeth-holmes-is-now-behind-bars-how-we-got-here/)
 - [Watch China&#39;s Shenzhou 16 astronauts enter Tiangong space station &lpar;video&rpar;](https://www.space.com/shenzhou-16-astronauts-enter-tiangong-space-station-video)
 - [Coupang says no plans to enter India](https://techcrunch.com/2023/05/30/coupang-india/)
-- [Watch SpaceX launch 52 Starlink satellites to orbit early Wednesday](https://www.space.com/spacex-starlink-launch-group-2-10)
-- [Have enterprise buyers finally soured on ‘bottoms-up’ tech sales?](https://techcrunch.com/2023/05/30/have-enterprise-buyers-finally-soured-on-bottoms-up-tech-sales/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
