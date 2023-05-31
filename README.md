@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Monster black hole burps out hot gas in bright &#39;H&#39; shape &lpar;photos&rpar;](https://www.space.com/supermassive-black-hole-image-chandra-m84)
-- [Space pictures! See our image of the day](https://www.space.com/34-image-day.html)
-- [How to photograph SpaceX Starlink satellites in the night sky](https://www.space.com/how-to-photograph-spacex-starlink-satellites)
-- [Infant stars burst out of their cosmic cribs in a violent stellar nursery &lpar;photo&rpar;](https://www.space.com/infant-stars-burst-from-stellar-nursery-nebula-lupus-3-photo)
-- [Fiat’s new Topolino EV is so cute I could scream](https://techcrunch.com/2023/05/31/fiats-new-topolino-ev-is-so-cute-i-could-scream/)
+- [Toyota adds $2.1B to its US battery factory expansion plans](https://techcrunch.com/2023/05/31/toyota-adds-2-1b-to-its-battery-factory-expansion-plans/)
+- [Popular Reddit app Apollo may go out of business over Reddit’s new, unaffordable API pricing](https://techcrunch.com/2023/05/31/popular-reddit-app-apollo-may-go-out-of-business-over-reddits-new-unaffordable-api-pricing/)
+- [Atlanta Mayor Andre Dickens to speak at TechCrunch Live’s Atlanta event](https://techcrunch.com/2023/05/31/atlanta-mayor-andre-dickens-to-speak-at-techcrunch-lives-atlanta-event/)
+- [Six tips for getting the most out of your SIEM investment](https://techcrunch.com/2023/05/31/six-tips-for-getting-the-most-out-of-your-siem-investment/)
+- [Amazon’s Ring to pay $5.8M after staff and contractors caught snooping on customer videos, FTC says](https://techcrunch.com/2023/05/31/amazon-ring-ftc-settlement-lax-security/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
