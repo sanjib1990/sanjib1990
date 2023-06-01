@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ford pilot program offers Uber drivers in California flexible Mach-E leases](https://techcrunch.com/2023/06/01/ford-pilot-program-offers-uber-drivers-in-california-flexible-mach-e-leases/)
+- [Saturn&#39;s moon Enceladus is blasting a plume of water 6,000 miles high. Could life be lurking under its icy shell?](https://www.space.com/saturn-moon-enceladus-water-plume-james-webb-space-telescope)
+- [Hubble captures starry tentacles of faraway &#39;jellyfish galaxy&#39; in stunning detail &lpar;photo&rpar;](https://www.space.com/hubble-space-telescope-jellyfish-galaxy-photo)
 - [New New York-meets-Warsaw VC fund brings in Japan partner to hunt for European startups](https://techcrunch.com/2023/06/01/new-new-york-meets-warsaw-vc-fund-brings-in-japan-partner-to-hunt-for-european-startups/)
 - [Baidu’s $145M AI fund signals China’s push for AI self-reliance](https://techcrunch.com/2023/06/01/baidu-generative-ai-fund-china/)
-- [As part of AI push, Chinese tech giant Baidu is now rolling out an AI venture fund](https://techcrunch.com/2023/05/31/as-part-of-ai-push-chinese-tech-giant-baidu-is-now-rolling-out-an-ai-venture-fund/)
-- [The elephants in the room at Computex](https://techcrunch.com/2023/05/31/the-elephants-in-the-room-at-computex/)
-- [Measurabl, an ESG platform for real estate, raises $93M](https://techcrunch.com/2023/05/31/measurabl-an-esg-platform-for-real-estate-raises-93m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
