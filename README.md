@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Stranger Things game developer BonusXP is shutting down](https://techcrunch.com/2023/06/01/stranger-things-game-developer-bonusxp-shut-down/)
+- [NASA&#39;s Kepler telescope discovered 2 mini-Neptune exoplanets just before dying](https://www.space.com/kepler-space-telescope-final-discovery-mini-neptune-exoplanets)
 - [Monthly crypto exchange volume tumbled in May, hitting 32-month low](https://techcrunch.com/2023/06/01/monthly-crypto-exchange-volume-tumbled-in-may-hitting-32-month-low/)
 - [Drive times app ETA brings its handy location dashboard to CarPlay](https://techcrunch.com/2023/06/01/drive-times-app-eta-brings-its-handy-location-dashboard-to-carplay/)
 - [Meet me at the dog run](https://techcrunch.com/2023/06/01/meet-me-at-the-dog-run/)
-- [More SpaceX Starlink terminals will go to Ukraine following new order from Pentagon](https://techcrunch.com/2023/06/01/more-spacex-starlink-terminals-will-go-to-ukraine-following-new-order-from-pentagon/)
-- [James Webb Space Telescope finds water in super-hot exoplanet&#39;s atmosphere](https://www.space.com/james-webb-water-atmosphere-hot-jupiter-exoplanet-wasp-18b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
