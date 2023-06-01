@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Startups may have room to innovate as enterprise providers puzzle out how to price AI tools](https://techcrunch.com/2023/06/01/enterprise-ai-tools-pricing-analysis/)
+- [Developers of third-party Reddit apps fear shutdown because of API pricing changes](https://techcrunch.com/2023/06/01/developers-of-third-party-reddit-apps-fear-shutdown-because-of-api-pricing-changes/)
 - [Microsoft’s AI-powered Designer tool comes to Teams](https://techcrunch.com/2023/06/01/microsofts-ai-powered-designer-tool-comes-to-teams/)
 - [Google’s Parisa Tabriz to discuss keeping a billion users safe and more on Disrupt’s Security Stage](https://techcrunch.com/2023/06/01/parisa-tabriz-google-chrome-security-stage-techcrunch-disrupt-2023/)
 - [Meta’s $499 Quest 3 headset arrives this fall](https://techcrunch.com/2023/06/01/metas-499-quest-3-headset-arrives-this-fall/)
-- [Walmart to drop plastic mailers, let customers bring their own bags to order pickup](https://techcrunch.com/2023/06/01/walmart-to-drop-plastic-mailers-let-customers-bring-their-own-bags-to-order-pickup/)
-- [AMC and Vudu score big with new on-demand streaming partnership](https://techcrunch.com/2023/06/01/amc-and-vudu-score-big-with-new-on-demand-streaming-partnership/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
