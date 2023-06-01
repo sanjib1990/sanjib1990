@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [California lawmakers and AV industry battle for future of self-driving trucks](https://techcrunch.com/2023/05/31/california-lawmakers-and-av-industry-battle-for-future-of-self-driving-trucks/)
+- [Indian SaaS startup Capillary Technologies grabs $45M to expand globally](https://techcrunch.com/2023/05/31/capillary-technologies-funding-series-d/)
 - [Lightmatter’s photonic AI hardware is ready to shine with $154M in new funding](https://techcrunch.com/2023/05/31/lightmatters-photonic-ai-hardware-is-ready-to-shine-with-154m-in-new-funding/)
 - [Amazon settles with FTC for $25M after ‘flouting’ kids’ privacy and deletion requests](https://techcrunch.com/2023/05/31/amazon-settles-with-ftc-for-25m-after-flouting-kids-privacy-and-deletion-requests/)
 - [New technique could probe the heart of powerful solar storms](https://www.space.com/solar-flares-cme-particle-acceleration-mystery)
-- [Toyota adds $2.1B to its US battery factory expansion plans](https://techcrunch.com/2023/05/31/toyota-adds-2-1b-to-its-battery-factory-expansion-plans/)
-- [Popular Reddit app Apollo may go out of business over Reddit’s new, unaffordable API pricing](https://techcrunch.com/2023/05/31/popular-reddit-app-apollo-may-go-out-of-business-over-reddits-new-unaffordable-api-pricing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
