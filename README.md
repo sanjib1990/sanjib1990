@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Revolut alums raise millions for Vault, a startup offering banking services to Canadian SMBs](https://techcrunch.com/2023/06/01/revolut-alums-raise-millions-for-vault-which-offers-banking-services-to-canadian-smbs/)
-- [Match Group debuts Archer, a new face-first gay dating app for men](https://techcrunch.com/2023/06/01/match-group-debuts-archer-a-new-face-first-gay-dating-app-for-men/)
-- [Olé Life wants to make buying life insurance for Latin Americans easier](https://techcrunch.com/2023/06/01/ole-life-life-insurance-latin-america/)
-- [Space pictures! See our image of the day](https://www.space.com/34-image-day.html)
-- [Enzo Biochem says ransomware attack exposed clinical test data of 2.5 million patients](https://techcrunch.com/2023/06/01/enzo-biochem-says-ransomware-attack-exposed-clinical-test-data-of-2-5-million-patients/)
+- [Wattpad is revamping its creator program and making it more accessible](https://techcrunch.com/2023/06/01/wattpad-is-revamping-its-creator-program-and-making-it-more-accessible/)
+- [Google Wallet adds support for QR-based cards and insurance cards](https://techcrunch.com/2023/06/01/google-wallet-announces-feature-that-converts-qr-codes-into-passes/)
+- [Back-end development platform Platformatic raises $3.5M](https://techcrunch.com/2023/06/01/backend-development-platform-platformatic-raises-3-5m/)
+- [Zany new trailer for Fox&#39;s &#39;Stars on Mars&#39; reality show counts us down to launch &lpar;video&rpar;](https://www.space.com/stars-on-mars-trailer-fox)
+- [Ariga is helping developers define database schema as code](https://techcrunch.com/2023/06/01/ariga-is-helping-developers-define-database-schema-as-code/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
