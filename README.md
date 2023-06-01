@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [As part of AI push, Chinese tech giant Baidu is now rolling out an AI venture fund](https://techcrunch.com/2023/05/31/as-part-of-ai-push-chinese-tech-giant-baidu-is-now-rolling-out-an-ai-venture-fund/)
+- [The elephants in the room at Computex](https://techcrunch.com/2023/05/31/the-elephants-in-the-room-at-computex/)
 - [Measurabl, an ESG platform for real estate, raises $93M](https://techcrunch.com/2023/05/31/measurabl-an-esg-platform-for-real-estate-raises-93m/)
 - [GetYourGuide books $194M at a $2B valuation with travel experiences back in business](https://techcrunch.com/2023/05/31/getyourguide-books-194m-at-a-2b-valuation-with-travel-experiences-back-in-business/)
 - [California lawmakers and AV industry battle for future of self-driving trucks](https://techcrunch.com/2023/05/31/california-lawmakers-and-av-industry-battle-for-future-of-self-driving-trucks/)
-- [Indian SaaS startup Capillary Technologies grabs $45M to expand globally](https://techcrunch.com/2023/05/31/capillary-technologies-funding-series-d/)
-- [Lightmatter’s photonic AI hardware is ready to shine with $154M in new funding](https://techcrunch.com/2023/05/31/lightmatters-photonic-ai-hardware-is-ready-to-shine-with-154m-in-new-funding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
