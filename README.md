@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Monthly crypto exchange volume tumbled in May, hitting 32-month low](https://techcrunch.com/2023/06/01/monthly-crypto-exchange-volume-tumbled-in-may-hitting-32-month-low/)
+- [Drive times app ETA brings its handy location dashboard to CarPlay](https://techcrunch.com/2023/06/01/drive-times-app-eta-brings-its-handy-location-dashboard-to-carplay/)
+- [Meet me at the dog run](https://techcrunch.com/2023/06/01/meet-me-at-the-dog-run/)
+- [More SpaceX Starlink terminals will go to Ukraine following new order from Pentagon](https://techcrunch.com/2023/06/01/more-spacex-starlink-terminals-will-go-to-ukraine-following-new-order-from-pentagon/)
 - [James Webb Space Telescope finds water in super-hot exoplanet&#39;s atmosphere](https://www.space.com/james-webb-water-atmosphere-hot-jupiter-exoplanet-wasp-18b)
-- [Tech investment portfolios suffer write-downs amid global economic slowdown](https://techcrunch.com/2023/06/01/vc-pe-returns-slowdown/)
-- [Fintech giant Stripe is getting into the credit game](https://techcrunch.com/2023/06/01/fintech-giant-stripe-is-getting-into-the-credit-game/)
-- [Germany’s antitrust watchdog questions the future of behavioral advertising](https://techcrunch.com/2023/06/01/fco-programmatic-ad-market-report/)
-- [Meta announces over 20 new games for Quest headsets](https://techcrunch.com/2023/06/01/meta-announces-over-20-new-games-for-quest-headsets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
