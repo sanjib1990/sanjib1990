@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [BeReal is adding a messaging feature called RealChat](https://techcrunch.com/2023/06/01/bereal-is-adding-a-messaging-feature-called-realchat/)
-- [Pixxel’s hyperspectral orbital imagery attracts investment from Google](https://techcrunch.com/2023/06/01/pixxels-hyperspectral-orbital-imagery-attracts-google-cash/)
-- [Factors to consider before pricing AI-enabled SaaS](https://techcrunch.com/2023/06/01/factors-to-consider-before-pricing-ai-enabled-saas/)
-- [Legal tech firm Casepoint investigates breach after hackers claim theft of government data](https://techcrunch.com/2023/06/01/legal-tech-casepoint-investigates-breach-hackers-theft/)
-- [Elon Musk’s pivotal China visit: Diplomacy, supply chain and beyond](https://techcrunch.com/2023/06/01/elon-musks-pivotal-china-visit-diplomacy-supply-chain-and-beyond/)
+- [Revolut alums raise millions for Vault, a startup offering banking services to Canadian SMBs](https://techcrunch.com/2023/06/01/revolut-alums-raise-millions-for-vault-which-offers-banking-services-to-canadian-smbs/)
+- [Match Group debuts Archer, a new face-first gay dating app for men](https://techcrunch.com/2023/06/01/match-group-debuts-archer-a-new-face-first-gay-dating-app-for-men/)
+- [Olé Life wants to make buying life insurance for Latin Americans easier](https://techcrunch.com/2023/06/01/ole-life-life-insurance-latin-america/)
+- [Space pictures! See our image of the day](https://www.space.com/34-image-day.html)
+- [Enzo Biochem says ransomware attack exposed clinical test data of 2.5 million patients](https://techcrunch.com/2023/06/01/enzo-biochem-says-ransomware-attack-exposed-clinical-test-data-of-2-5-million-patients/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
