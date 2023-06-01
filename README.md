@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Wattpad is revamping its creator program and making it more accessible](https://techcrunch.com/2023/06/01/wattpad-is-revamping-its-creator-program-and-making-it-more-accessible/)
-- [Google Wallet adds support for QR-based cards and insurance cards](https://techcrunch.com/2023/06/01/google-wallet-announces-feature-that-converts-qr-codes-into-passes/)
-- [Back-end development platform Platformatic raises $3.5M](https://techcrunch.com/2023/06/01/backend-development-platform-platformatic-raises-3-5m/)
-- [Zany new trailer for Fox&#39;s &#39;Stars on Mars&#39; reality show counts us down to launch &lpar;video&rpar;](https://www.space.com/stars-on-mars-trailer-fox)
-- [Ariga is helping developers define database schema as code](https://techcrunch.com/2023/06/01/ariga-is-helping-developers-define-database-schema-as-code/)
+- [Walmart to drop plastic mailers, let customers bring their own bags to order pickup](https://techcrunch.com/2023/06/01/walmart-to-drop-plastic-mailers-let-customers-bring-their-own-bags-to-order-pickup/)
+- [AMC and Vudu score big with new on-demand streaming partnership](https://techcrunch.com/2023/06/01/amc-and-vudu-score-big-with-new-on-demand-streaming-partnership/)
+- [Xonai looks to reduce cloud bills by optimizing data infrastructure](https://techcrunch.com/2023/06/01/xonai-looks-to-reduce-cloud-bills-by-optimizing-data-infrastructure/)
+- [The Expanse: A Telltale Series preview — Trust your gut before your head gets in the way](https://www.space.com/the-expanse-a-telltale-series-preview)
+- [Odd supergiant star Betelgeuse is brightening up. Is it about to go supernova?](https://www.space.com/is-betelgeuse-going-supernova)
 <!-- BLOG-POST-LIST:END -->
 
 ---
