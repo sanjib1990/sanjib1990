@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Measurabl, an ESG platform for real estate, raises $93M](https://techcrunch.com/2023/05/31/measurabl-an-esg-platform-for-real-estate-raises-93m/)
 - [GetYourGuide books $194M at a $2B valuation with travel experiences back in business](https://techcrunch.com/2023/05/31/getyourguide-books-194m-at-a-2b-valuation-with-travel-experiences-back-in-business/)
 - [California lawmakers and AV industry battle for future of self-driving trucks](https://techcrunch.com/2023/05/31/california-lawmakers-and-av-industry-battle-for-future-of-self-driving-trucks/)
 - [Indian SaaS startup Capillary Technologies grabs $45M to expand globally](https://techcrunch.com/2023/05/31/capillary-technologies-funding-series-d/)
 - [Lightmatter’s photonic AI hardware is ready to shine with $154M in new funding](https://techcrunch.com/2023/05/31/lightmatters-photonic-ai-hardware-is-ready-to-shine-with-154m-in-new-funding/)
-- [Amazon settles with FTC for $25M after ‘flouting’ kids’ privacy and deletion requests](https://techcrunch.com/2023/05/31/amazon-settles-with-ftc-for-25m-after-flouting-kids-privacy-and-deletion-requests/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
