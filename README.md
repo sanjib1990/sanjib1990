@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA, Boeing delay the first crewed flight test of the Starliner capsule…again](https://techcrunch.com/2023/06/01/nasa-boeing-delay-the-first-crewed-flight-test-of-the-starliner-capsuleagain/)
+- [Turncoat drone story shows why we should fear people, not AIs](https://techcrunch.com/2023/06/01/turncoat-drone-story-shows-why-we-should-fear-people-not-ais/)
+- [Fidelity has cut Reddit valuation by 41% since 2021 investment](https://techcrunch.com/2023/06/01/fidelity-reddit-valuation/)
 - [Rocket Lab’s private mission to Venus slips to 2025](https://techcrunch.com/2023/06/01/rocket-labs-private-mission-to-venus-slips-to-2025/)
 - [Salesforce could be repositioning itself as a data company](https://techcrunch.com/2023/06/01/salesforce-earnings-data-company/)
-- [‘Stranger Things’ game developer BonusXP is shutting down](https://techcrunch.com/2023/06/01/stranger-things-game-developer-bonusxp-shut-down/)
-- [NASA&#39;s Kepler telescope discovered 2 mini-Neptune exoplanets just before dying](https://www.space.com/kepler-space-telescope-final-discovery-mini-neptune-exoplanets)
-- [Monthly crypto exchange volume tumbled in May, hitting 32-month low](https://techcrunch.com/2023/06/01/monthly-crypto-exchange-volume-tumbled-in-may-hitting-32-month-low/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
