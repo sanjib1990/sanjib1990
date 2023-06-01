@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Mars helicopter Ingenuity went silent for &#39;agonizing&#39; 6 days in April](https://www.space.com/mars-helicopter-ingenuity-communications-blackout-april-2023)
-- [WordPress.com challenges Substack with launch of paid newsletters](https://techcrunch.com/2023/06/01/wordpress-com-challenges-substack-with-launch-of-paid-newsletters/)
-- [Google Play Books adds new practice feature to help kids learn how to read](https://techcrunch.com/2023/06/01/google-play-books-practice-feature-help-kids-learn-read/)
-- [Many startups are built off research, so why don’t more scientists become founders?](https://techcrunch.com/2023/06/01/startups-need-scientist-founders/)
-- [8Flow.ai raises $6.6M to automate customer support workflows](https://techcrunch.com/2023/06/01/8flow-ai-raises-6-6m-to-automate-customer-support-workflows/)
+- [James Webb Space Telescope finds water in super-hot exoplanet&#39;s atmosphere](https://www.space.com/james-webb-water-atmosphere-hot-jupiter-exoplanet-wasp-18b)
+- [Tech investment portfolios suffer write-downs amid global economic slowdown](https://techcrunch.com/2023/06/01/vc-pe-returns-slowdown/)
+- [Fintech giant Stripe is getting into the credit game](https://techcrunch.com/2023/06/01/fintech-giant-stripe-is-getting-into-the-credit-game/)
+- [Germany’s antitrust watchdog questions the future of behavioral advertising](https://techcrunch.com/2023/06/01/fco-programmatic-ad-market-report/)
+- [Meta announces over 20 new games for Quest headsets](https://techcrunch.com/2023/06/01/meta-announces-over-20-new-games-for-quest-headsets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
