@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla says all new Model 3s now qualify for full $7,500 tax credit](https://techcrunch.com/2023/06/02/tesla-says-all-new-model-3s-now-qualify-for-full-7500-tax-credit/)
 - [T. Rowe Price has marked down its stake in Canva by 67.6%](https://techcrunch.com/2023/06/02/t-rowe-price-has-marked-down-its-stake-in-canva-by-67-6/)
 - [Competition concerns in the age of AI](https://techcrunch.com/2023/06/02/competition-concerns-in-the-age-of-ai/)
 - [Ice clouds high in Earth&#39;s atmosphere could help predict climate change. NASA wants a closer look](https://www.space.com/nasa-polsir-satellites-ice-clouds)
 - [Meta found liable as court blocks firing of moderators](https://techcrunch.com/2023/06/02/meta-found-liable-as-court-blocks-firing-of-moderators/)
-- [This AI used GPT-4 to become an expert Minecraft player](https://techcrunch.com/2023/06/02/this-ai-used-gpt-4-to-become-an-expert-minecraft-player/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
