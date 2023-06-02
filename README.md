@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See Mars buzz the dense stars of the Beehive Cluster tonight](https://www.space.com/mars-beehive-cluster-m44-june-2023)
 - [Hackers launch another wave of mass-hacks targeting company file transfer tools](https://techcrunch.com/2023/06/02/hackers-launch-another-wave-of-mass-hacks-targeting-company-file-transfer-tools/)
 - [Meta reveals the new Quest 3 VR headset with a $499.99 price tag](https://www.space.com/meta-announces-quest-3-vr-headset)
 - [Artifact news app now uses AI to rewrite headline of a clickbait article](https://techcrunch.com/2023/06/02/artifact-news-app-now-uses-ai-to-rewrite-headline-of-a-clickbait-article/)
 - [&#39;I&#39;m ready. Let&#39;s go!&#39; Record-breaking astronaut Peggy Whitson eager for next flight after private Ax-2 mission](https://www.space.com/ax-2-astronaut-peggy-whitson-ready-next-flight)
-- [AI-generated hate is rising: 3 things leaders should consider before adopting this new tech](https://techcrunch.com/2023/06/02/ai-generated-hate-is-rising-3-things-leaders-should-consider-before-adopting-intelligent-technologies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
