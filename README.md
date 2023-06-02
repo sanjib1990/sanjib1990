@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Zendure Superbase Pro Power Station Review](https://www.space.com/zendure-super-base-pro-power-station-review)
+- [Mickey Mouse celebrates the Space Age as astronaut on Disney100 Citizen watch](https://www.space.com/citizen-disney100-moon-astronaut-mickey-mouse-watch)
+- [Okay startup names and why fintech is rebounding](https://techcrunch.com/2023/06/02/okay-startup-names-and-why-fintech-is-rebounding/)
+- [NASA&#39;s James Webb Space Telescope mission — Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
 - [See Mars buzz the dense stars of the Beehive Cluster tonight](https://www.space.com/mars-beehive-cluster-m44-june-2023)
-- [Hackers launch another wave of mass-hacks targeting company file transfer tools](https://techcrunch.com/2023/06/02/hackers-launch-another-wave-of-mass-hacks-targeting-company-file-transfer-tools/)
-- [Meta reveals the new Quest 3 VR headset with a $499.99 price tag](https://www.space.com/meta-announces-quest-3-vr-headset)
-- [Artifact news app now uses AI to rewrite headline of a clickbait article](https://techcrunch.com/2023/06/02/artifact-news-app-now-uses-ai-to-rewrite-headline-of-a-clickbait-article/)
-- [&#39;I&#39;m ready. Let&#39;s go!&#39; Record-breaking astronaut Peggy Whitson eager for next flight after private Ax-2 mission](https://www.space.com/ax-2-astronaut-peggy-whitson-ready-next-flight)
 <!-- BLOG-POST-LIST:END -->
 
 ---
