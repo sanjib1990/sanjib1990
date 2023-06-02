@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch Mars livestream from European Red Planet orbiter today](https://www.space.com/mars-express-livestream-esa-june-2023)
+- [Shopify’s Shop app introduces a new ‘Shop Cash’ rewards program](https://techcrunch.com/2023/06/02/shopifys-shop-app-introduces-a-new-shop-cash-rewards-program/)
+- [World&#39;s 1st &#39;hacking sandbox&#39; satellite and more to ride on SpaceX&#39;s next NASA cargo launch](https://www.space.com/spacex-cargo-crs-28-international-space-station-science)
 - [NestAway, once valued at over $225 million, sells for $11 million](https://techcrunch.com/2023/06/02/nestaway-aurum/)
 - [Volkswagen targets cool with a new American-sized ID.Buzz](https://techcrunch.com/2023/06/02/volkswagen-targets-cool-with-a-new-american-sized-id-buzz/)
-- [Puneet Chandok, AWS India and South Asia head, has resigned](https://techcrunch.com/2023/06/01/puneet-chandok-aws-india-and-south-asia-head-has-resigned/)
-- [Gig workers in California to receive millions for unpaid vehicle expenses](https://techcrunch.com/2023/06/01/gig-workers-in-california-to-receive-millions-for-unpaid-vehicle-expenses/)
-- [A poem for Europa Clipper: US Poet Laureate Ada Limón reveals ode to fly on NASA Jupiter moon mission](https://www.space.com/europa-clipper-jupiter-poet-laureate-poem-message-bottle)
 <!-- BLOG-POST-LIST:END -->
 
 ---
