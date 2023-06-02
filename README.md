@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lumari is a new social sandbox game with cute creatures, building capabilities and more](https://techcrunch.com/2023/06/02/lumari-social-sandbox-game-proxima/)
+- [Spain signs the Artemis Accords for peaceful moon exploration](https://www.space.com/spain-signs-artemis-accords-moon-exploration)
+- [Get this party started! Host your own After Hours event at Disrupt](https://techcrunch.com/2023/06/02/announcing-after-hours-events-techcrunch-disrupt-2023/)
 - [Amazon in talks to offer low-cost or free mobile service to Prime customers, report says](https://techcrunch.com/2023/06/02/amazon-offer-low-cost-free-mobile-service-prime-customers-report/)
 - [SigmaOS launches a contextual AI assistant for its browser](https://techcrunch.com/2023/06/02/sigmaos-launches-a-contextual-ai-assistant-for-its-browser/)
-- [Pitch Deck Teardown: Oii.ai’s $1.9M Seed deck](https://techcrunch.com/2023/06/02/sample-seed-pitch-deck-oii-ai/)
-- [Zendure Superbase Pro Power Station Review](https://www.space.com/zendure-super-base-pro-power-station-review)
-- [Mickey Mouse celebrates the Space Age as astronaut on Disney100 Citizen watch](https://www.space.com/citizen-disney100-moon-astronaut-mickey-mouse-watch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
