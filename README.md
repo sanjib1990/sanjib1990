@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon in talks to offer low-cost or free mobile service to Prime customers, report says](https://techcrunch.com/2023/06/02/amazon-offer-low-cost-free-mobile-service-prime-customers-report/)
+- [SigmaOS launches a contextual AI assistant for its browser](https://techcrunch.com/2023/06/02/sigmaos-launches-a-contextual-ai-assistant-for-its-browser/)
+- [Pitch Deck Teardown: Oii.ai’s $1.9M Seed deck](https://techcrunch.com/2023/06/02/sample-seed-pitch-deck-oii-ai/)
 - [Zendure Superbase Pro Power Station Review](https://www.space.com/zendure-super-base-pro-power-station-review)
 - [Mickey Mouse celebrates the Space Age as astronaut on Disney100 Citizen watch](https://www.space.com/citizen-disney100-moon-astronaut-mickey-mouse-watch)
-- [Okay startup names and why fintech is rebounding](https://techcrunch.com/2023/06/02/okay-startup-names-and-why-fintech-is-rebounding/)
-- [NASA&#39;s James Webb Space Telescope mission — Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
-- [See Mars buzz the dense stars of the Beehive Cluster tonight](https://www.space.com/mars-beehive-cluster-m44-june-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
