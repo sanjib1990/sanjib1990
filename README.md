@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Lumari is a new social sandbox game with cute creatures, building capabilities and more](https://techcrunch.com/2023/06/02/lumari-social-sandbox-game-proxima/)
-- [Spain signs the Artemis Accords for peaceful moon exploration](https://www.space.com/spain-signs-artemis-accords-moon-exploration)
-- [Get this party started! Host your own After Hours event at Disrupt](https://techcrunch.com/2023/06/02/announcing-after-hours-events-techcrunch-disrupt-2023/)
-- [Amazon in talks to offer low-cost or free mobile service to Prime customers, report says](https://techcrunch.com/2023/06/02/amazon-offer-low-cost-free-mobile-service-prime-customers-report/)
-- [SigmaOS launches a contextual AI assistant for its browser](https://techcrunch.com/2023/06/02/sigmaos-launches-a-contextual-ai-assistant-for-its-browser/)
+- [UFOs worth investigating despite lack of &#39;real evidence,&#39; former astronaut Scott Kelly says](https://www.space.com/nasa-astronaut-scott-kelly-ufos-uap-worth-investigating)
+- [YC-backed Dumme raises $3.4M for its AI video editor that turns long-form YouTube videos into Shorts](https://techcrunch.com/2023/06/02/yc-backed-dumme-raises-3-4m-for-its-ai-video-editor-turns-long-form-youtube-videos-into-shorts/)
+- [YouTube TV brings the Tennis Channel back three years after removing it](https://techcrunch.com/2023/06/02/youtube-tv-brings-back-the-tennis-channel-sinclair-deal/)
+- [The web3 winter isn’t going to thaw anytime soon](https://techcrunch.com/2023/06/02/the-web3-winter-isnt-going-to-warm-up-anytime-soon/)
+- [Mysterious cosmic threads are reaching out from the Milky Way&#39;s monster black hole](https://www.space.com/milky-way-black-hole-filaments)
 <!-- BLOG-POST-LIST:END -->
 
 ---
