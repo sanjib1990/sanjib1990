@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to prepare a hardware startup for raising a Series A](https://techcrunch.com/2023/06/02/how-to-prepare-a-hardware-startup-for-raising-a-series-a/)
+- [Private lenders won’t fill the venture debt gap left by SVB](https://techcrunch.com/2023/06/02/private-lenders-venture-debt-svb/)
+- [Marvel&#39;s new &#39;Micronauts&#39; comic collection dives into inner space](https://www.space.com/marvel-micronauts-comic-omnibus)
+- [Live from Mars! European probe beams Red Planet views to Earth in 1st-ever video feat](https://www.space.com/mars-express-livestream-20-year-launch-anniversary)
 - [Lenovo’s Yoga Book 9i realizes the full potential of a dual-screen laptop](https://techcrunch.com/2023/06/02/lenovo-yoga-book-9i-review/)
-- [Snapchat’s AI bot isn’t very smart, but at least it won’t send nudes](https://techcrunch.com/2023/06/02/snapchat-ai-nudes/)
-- [TechCrunch+ roundup: Rethinking PLG, AI-enabled SaaS pricing, traveling with a green card](https://techcrunch.com/2023/06/02/techcrunch-roundup-rethinking-plg-ai-enabled-saas-pricing-traveling-with-a-green-card/)
-- [After Stratasys and Desktop Metal announce merger plans, 3D Systems proposes acquisition](https://techcrunch.com/2023/06/02/after-stratasys-and-desktop-metal-announce-merger-plans-3d-systems-proposes-acquisition/)
-- [Scammers publish ads for hacking services on government websites](https://techcrunch.com/2023/06/02/scammers-publish-ads-for-hacking-services-on-government-websites/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
