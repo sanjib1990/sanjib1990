@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [UFOs worth investigating despite lack of &#39;real evidence,&#39; former astronaut Scott Kelly says](https://www.space.com/nasa-astronaut-scott-kelly-ufos-uap-worth-investigating)
-- [YC-backed Dumme raises $3.4M for its AI video editor that turns long-form YouTube videos into Shorts](https://techcrunch.com/2023/06/02/yc-backed-dumme-raises-3-4m-for-its-ai-video-editor-turns-long-form-youtube-videos-into-shorts/)
-- [YouTube TV brings the Tennis Channel back three years after removing it](https://techcrunch.com/2023/06/02/youtube-tv-brings-back-the-tennis-channel-sinclair-deal/)
-- [The web3 winter isn’t going to thaw anytime soon](https://techcrunch.com/2023/06/02/the-web3-winter-isnt-going-to-warm-up-anytime-soon/)
-- [Mysterious cosmic threads are reaching out from the Milky Way&#39;s monster black hole](https://www.space.com/milky-way-black-hole-filaments)
+- [Lenovo’s Yoga Book 9i realizes the full potential of a dual-screen laptop](https://techcrunch.com/2023/06/02/lenovo-yoga-book-9i-review/)
+- [Snapchat’s AI bot isn’t very smart, but at least it won’t send nudes](https://techcrunch.com/2023/06/02/snapchat-ai-nudes/)
+- [TechCrunch+ roundup: Rethinking PLG, AI-enabled SaaS pricing, traveling with a green card](https://techcrunch.com/2023/06/02/techcrunch-roundup-rethinking-plg-ai-enabled-saas-pricing-traveling-with-a-green-card/)
+- [After Stratasys and Desktop Metal announce merger plans, 3D Systems proposes acquisition](https://techcrunch.com/2023/06/02/after-stratasys-and-desktop-metal-announce-merger-plans-3d-systems-proposes-acquisition/)
+- [Scammers publish ads for hacking services on government websites](https://techcrunch.com/2023/06/02/scammers-publish-ads-for-hacking-services-on-government-websites/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
