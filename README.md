@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [T. Rowe Price has marked down its stake in Canva by 67.6%](https://techcrunch.com/2023/06/02/t-rowe-price-has-marked-down-its-stake-in-canva-by-67-6/)
+- [Competition concerns in the age of AI](https://techcrunch.com/2023/06/02/competition-concerns-in-the-age-of-ai/)
 - [Ice clouds high in Earth&#39;s atmosphere could help predict climate change. NASA wants a closer look](https://www.space.com/nasa-polsir-satellites-ice-clouds)
 - [Meta found liable as court blocks firing of moderators](https://techcrunch.com/2023/06/02/meta-found-liable-as-court-blocks-firing-of-moderators/)
 - [This AI used GPT-4 to become an expert Minecraft player](https://techcrunch.com/2023/06/02/this-ai-used-gpt-4-to-become-an-expert-minecraft-player/)
-- [This tiny probe the size of your cell phone could measure asteroid gravity in a space 1st](https://www.space.com/asteroid-gravity-european-space-agency-grass-satellite)
-- [No one has done AR or VR well. Can Apple?](https://techcrunch.com/2023/06/02/no-one-has-done-ar-or-vr-well-can-apple/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
