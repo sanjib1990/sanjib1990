@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Puneet Chandok, AWS India and South Asia head, has resigned](https://techcrunch.com/2023/06/01/puneet-chandok-aws-india-and-south-asia-head-has-resigned/)
 - [Gig workers in California to receive millions for unpaid vehicle expenses](https://techcrunch.com/2023/06/01/gig-workers-in-california-to-receive-millions-for-unpaid-vehicle-expenses/)
 - [A poem for Europa Clipper: US Poet Laureate Ada Limón reveals ode to fly on NASA Jupiter moon mission](https://www.space.com/europa-clipper-jupiter-poet-laureate-poem-message-bottle)
 - [Twitter’s trust and safety lead Ella Irwin resigns](https://techcrunch.com/2023/06/01/twitters-trust-and-safety-lead-ella-irwin-resigns/)
 - [Boeing delays 1st Starliner astronaut launch for NASA indefinitely over parachute, wiring safety issues](https://www.space.com/boeing-starliner-nasa-astronaut-launch-delayed-indefinitely)
-- [NASA, Boeing delay the first crewed flight test of the Starliner capsule…again](https://techcrunch.com/2023/06/01/nasa-boeing-delay-the-first-crewed-flight-test-of-the-starliner-capsuleagain/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
