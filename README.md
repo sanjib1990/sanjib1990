@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This tiny probe the size of your cell phone could measure asteroid gravity in a space 1st](https://www.space.com/asteroid-gravity-european-space-agency-grass-satellite)
+- [No one has done AR or VR well. Can Apple?](https://techcrunch.com/2023/06/02/no-one-has-done-ar-or-vr-well-can-apple/)
 - [How to prepare a hardware startup for raising a Series A](https://techcrunch.com/2023/06/02/how-to-prepare-a-hardware-startup-for-raising-a-series-a/)
 - [Private lenders won’t fill the venture debt gap left by SVB](https://techcrunch.com/2023/06/02/private-lenders-venture-debt-svb/)
 - [Marvel&#39;s new &#39;Micronauts&#39; comic collection dives into inner space](https://www.space.com/marvel-micronauts-comic-omnibus)
-- [Live from Mars! European probe beams Red Planet views to Earth in 1st-ever video feat](https://www.space.com/mars-express-livestream-20-year-launch-anniversary)
-- [Lenovo’s Yoga Book 9i realizes the full potential of a dual-screen laptop](https://techcrunch.com/2023/06/02/lenovo-yoga-book-9i-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
