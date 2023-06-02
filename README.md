@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ice clouds high in Earth&#39;s atmosphere could help predict climate change. NASA wants a closer look](https://www.space.com/nasa-polsir-satellites-ice-clouds)
+- [Meta found liable as court blocks firing of moderators](https://techcrunch.com/2023/06/02/meta-found-liable-as-court-blocks-firing-of-moderators/)
+- [This AI used GPT-4 to become an expert Minecraft player](https://techcrunch.com/2023/06/02/this-ai-used-gpt-4-to-become-an-expert-minecraft-player/)
 - [This tiny probe the size of your cell phone could measure asteroid gravity in a space 1st](https://www.space.com/asteroid-gravity-european-space-agency-grass-satellite)
 - [No one has done AR or VR well. Can Apple?](https://techcrunch.com/2023/06/02/no-one-has-done-ar-or-vr-well-can-apple/)
-- [How to prepare a hardware startup for raising a Series A](https://techcrunch.com/2023/06/02/how-to-prepare-a-hardware-startup-for-raising-a-series-a/)
-- [Private lenders won’t fill the venture debt gap left by SVB](https://techcrunch.com/2023/06/02/private-lenders-venture-debt-svb/)
-- [Marvel&#39;s new &#39;Micronauts&#39; comic collection dives into inner space](https://www.space.com/marvel-micronauts-comic-omnibus)
 <!-- BLOG-POST-LIST:END -->
 
 ---
