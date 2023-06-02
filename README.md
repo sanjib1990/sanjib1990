@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch Mars livestream from European Red Planet orbiter today](https://www.space.com/mars-express-livestream-esa-june-2023)
-- [Shopify’s Shop app introduces a new ‘Shop Cash’ rewards program](https://techcrunch.com/2023/06/02/shopifys-shop-app-introduces-a-new-shop-cash-rewards-program/)
-- [World&#39;s 1st &#39;hacking sandbox&#39; satellite and more to ride on SpaceX&#39;s next NASA cargo launch](https://www.space.com/spacex-cargo-crs-28-international-space-station-science)
-- [NestAway, once valued at over $225 million, sells for $11 million](https://techcrunch.com/2023/06/02/nestaway-aurum/)
-- [Volkswagen targets cool with a new American-sized ID.Buzz](https://techcrunch.com/2023/06/02/volkswagen-targets-cool-with-a-new-american-sized-id-buzz/)
+- [Hackers launch another wave of mass-hacks targeting company file transfer tools](https://techcrunch.com/2023/06/02/hackers-launch-another-wave-of-mass-hacks-targeting-company-file-transfer-tools/)
+- [Meta reveals the new Quest 3 VR headset with a $499.99 price tag](https://www.space.com/meta-announces-quest-3-vr-headset)
+- [Artifact news app now uses AI to rewrite headline of a clickbait article](https://techcrunch.com/2023/06/02/artifact-news-app-now-uses-ai-to-rewrite-headline-of-a-clickbait-article/)
+- [&#39;I&#39;m ready. Let&#39;s go!&#39; Record-breaking astronaut Peggy Whitson eager for next flight after private Ax-2 mission](https://www.space.com/ax-2-astronaut-peggy-whitson-ready-next-flight)
+- [AI-generated hate is rising: 3 things leaders should consider before adopting this new tech](https://techcrunch.com/2023/06/02/ai-generated-hate-is-rising-3-things-leaders-should-consider-before-adopting-intelligent-technologies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
