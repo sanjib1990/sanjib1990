@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Deal Dive: Doing venture math on the non-alcoholic spirits industry](https://techcrunch.com/2023/06/03/aplos-drink-venture-investments/)
 - [Gary Vaynerchuk expects NFTs to expand beyond digital collectibles long term](https://techcrunch.com/2023/06/03/gary-vee-nfts-collectibles/)
 - [Watch SpaceX launch 22 Starlink &#39;V2 mini&#39; satellites early Sunday](https://www.space.com/spacex-starlink-launch-group-6-4)
 - [See the Full Strawberry Moon of June share the sky with Mars and a half Venus tonight](https://www.space.com/full-moon-june-2023-half-venus)
 - [Watch SpaceX launch Dragon cargo mission to space station Sunday after one-day delay](https://www.space.com/spacex-crs-28-cargo-mission-june-2023)
-- [Watch China&#39;s Shenzhou 15 astronauts  return to Earth tonight in this free livestream](https://www.space.com/china-shenzhou-15-return-to-earth-june-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
