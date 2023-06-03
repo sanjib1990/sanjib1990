@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch SpaceX launch Dragon cargo mission to space station today](https://www.space.com/spacex-crs-28-cargo-mission-june-2023)
+- [China&#39;s Shenzhou 15 astronauts set to return to Earth tonight](https://www.space.com/china-shenzhou-15-return-to-earth-june-2023)
 - [Tesla says all new Model 3s now qualify for full $7,500 tax credit](https://techcrunch.com/2023/06/02/tesla-says-all-new-model-3s-now-qualify-for-full-7500-tax-credit/)
 - [T. Rowe Price has marked down its stake in Canva by 67.6%](https://techcrunch.com/2023/06/02/t-rowe-price-has-marked-down-its-stake-in-canva-by-67-6/)
 - [Competition concerns in the age of AI](https://techcrunch.com/2023/06/02/competition-concerns-in-the-age-of-ai/)
-- [Ice clouds high in Earth&#39;s atmosphere could help predict climate change. NASA wants a closer look](https://www.space.com/nasa-polsir-satellites-ice-clouds)
-- [Meta found liable as court blocks firing of moderators](https://techcrunch.com/2023/06/02/meta-found-liable-as-court-blocks-firing-of-moderators/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
