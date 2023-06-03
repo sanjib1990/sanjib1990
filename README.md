@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See the Full Strawberry Moon of June share the sky with Mars and a half Venus tonight](https://www.space.com/full-moon-june-2023-half-venus)
 - [Watch SpaceX launch Dragon cargo mission to space station today](https://www.space.com/spacex-crs-28-cargo-mission-june-2023)
 - [China&#39;s Shenzhou 15 astronauts set to return to Earth tonight](https://www.space.com/china-shenzhou-15-return-to-earth-june-2023)
 - [Tesla says all new Model 3s now qualify for full $7,500 tax credit](https://techcrunch.com/2023/06/02/tesla-says-all-new-model-3s-now-qualify-for-full-7500-tax-credit/)
 - [T. Rowe Price has marked down its stake in Canva by 67.6%](https://techcrunch.com/2023/06/02/t-rowe-price-has-marked-down-its-stake-in-canva-by-67-6/)
-- [Competition concerns in the age of AI](https://techcrunch.com/2023/06/02/competition-concerns-in-the-age-of-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
