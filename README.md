@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Elon goes to China, Rivian is selling stock for $3 billion, and Fiat’s cutest tiny EV](https://techcrunch.com/2023/06/04/elon-goes-to-china-rivian-is-selling-stock-for-3-billion-and-fiats-cutest-tiny-ev/)
 - [After investing $28B in Slack, Salesforce bets on one of its own as new CEO](https://techcrunch.com/2023/06/04/slack-ceo-interview/)
 - [For startups, growth still trumps cloud cost control](https://techcrunch.com/2023/06/04/startups-cloud-cost-control/)
 - [Inside Stripe’s latest moves](https://techcrunch.com/2023/06/04/inside-stripes-latest-moves/)
 - [China&#39;s Shenzhou 15 capsule lands safely with 3 Tiangong space station astronauts &lpar;video&rpar;](https://www.space.com/china-shenzhou-15-astronauts-land-safely)
-- [A peek into China’s stance on web3](https://techcrunch.com/2023/06/04/chinas-vision-of-web-3/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
