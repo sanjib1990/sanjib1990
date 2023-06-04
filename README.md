@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A peek into China’s stance on web3](https://techcrunch.com/2023/06/04/chinas-vision-of-web-3/)
 - [YouTube rolls back its rules against election misinformation](https://techcrunch.com/2023/06/03/youtube-rolls-back-its-rules-against-election-misinformation/)
 - [Gig workers get paid, Fidelity slashes Reddit’s valuation and AI conquers Minecraft](https://techcrunch.com/2023/06/03/gig-workers-get-paid-fidelity-slashes-reddits-valuation-and-ai-conquers-minecraft/)
 - [Is AI ever too much AI?](https://techcrunch.com/2023/06/03/artificial-intelligence-vc-portfolio/)
 - [Deal Dive: Doing venture math on the non-alcoholic spirits industry](https://techcrunch.com/2023/06/03/aplos-drink-venture-investments/)
-- [Gary Vaynerchuk expects NFTs to expand beyond digital collectibles long term](https://techcrunch.com/2023/06/03/gary-vee-nfts-collectibles/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
