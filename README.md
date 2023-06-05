@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to watch Apple unveil its AR/VR headset , iOS 17 and more at WWDC 2023](https://techcrunch.com/2023/06/04/how-to-watch-apple-unveil-its-ar-vr-headset-ios-17-and-more-at-wwdc-2023/)
+- [How to watch Apple unveil its AR/VR headset, iOS 17 and more at WWDC 2023](https://techcrunch.com/2023/06/04/how-to-watch-apple-unveil-its-ar-vr-headset-ios-17-and-more-at-wwdc-2023/)
 - [Elon goes to China, Lucid is selling stock for $3 billion, and Fiat’s cutest tiny EV](https://techcrunch.com/2023/06/04/elon-goes-to-china-rivian-is-selling-stock-for-3-billion-and-fiats-cutest-tiny-ev/)
 - [After investing $28B in Slack, Salesforce bets on one of its own as new CEO](https://techcrunch.com/2023/06/04/slack-ceo-interview/)
 - [For startups, growth still trumps cloud cost control](https://techcrunch.com/2023/06/04/startups-cloud-cost-control/)
