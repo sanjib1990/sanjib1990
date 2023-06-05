@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple TV gets FaceTime, a new control center, findable remote and more](https://techcrunch.com/2023/06/05/apple-tv-gets-facetime-a-new-control-center-findable-remote-and-more/)
-- [The Apple Vision Pro headset will cost $3,499, out early 2024](https://techcrunch.com/2023/06/05/the-apple-vision-pro-headset-will-cost-3499-out-early-2024/)
-- [To reduce motion sickness in VR, Apple developed new R1 chip](https://techcrunch.com/2023/06/05/apple-r1-chip-apple-vision-pro/)
-- [Apple’s $3,499 Vision Pro AR headset is finally here](https://techcrunch.com/2023/06/05/apple-headset/)
-- [Strawberry Moon of June 2023 sweetens the night sky in these amazing photos](https://www.space.com/strawberry-moon-june-2023-photos)
+- [Giant robots defend Earth against alien attacks in new &#39;Robotech&#39; comic series](https://www.space.com/robotech-rick-hunter-comic-miniseries-august-2023)
+- [Apple’s new headset fails to excite investors, but sends shares of Unity soaring](https://techcrunch.com/2023/06/05/apple-vr-headset-wwdc-stock/)
+- [Apple’s Vision Pro headset seems too good to be real — because it basically is](https://techcrunch.com/2023/06/05/apples-vision-pro-headset-seems-too-good-to-be-real-because-it-basically-is/)
+- [New iPhone feature warns about unwanted nudes](https://techcrunch.com/2023/06/05/new-iphone-feature-warns-about-unwanted-nudes/)
+- [A closer look at Apple’s $3,499 Vision Pro headset](https://techcrunch.com/2023/06/05/a-closer-look-at-apples-3499-vision-pro-headset/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
