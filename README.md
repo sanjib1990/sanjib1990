@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch SpaceX Dragon cargo capsule dock with space station early Tuesday](https://www.space.com/spacex-dragon-crs-28-cargo-mission-docking)
 - [NASA&#39;s new moon car for Artemis astronauts will be inspired by Mars rovers](https://www.space.com/nasa-moon-rover-lunar-terrain-vehicle-proposals)
-- [iOS 17 can suggest recipes for similar dishes from a photo on your iPhone](https://techcrunch.com/2023/06/05/ios-17-can-suggest-recipes-for-similar-dishes-from-a-photo-on-your-iphone/)
 - [Giant robots defend Earth against alien attacks in new &#39;Robotech&#39; comic series](https://www.space.com/robotech-rick-hunter-comic-miniseries-august-2023)
-- [Apple’s new headset fails to excite investors, but sends shares of Unity soaring](https://techcrunch.com/2023/06/05/apple-vr-headset-wwdc-stock/)
-- [Apple’s Vision Pro headset seems too good to be real — because it basically is](https://techcrunch.com/2023/06/05/apples-vision-pro-headset-seems-too-good-to-be-real-because-it-basically-is/)
+- [SEC claims BNB and BUSD are securities, including major tokens like SOL, ADA and MATIC](https://techcrunch.com/2023/06/05/sec-crypto-securities-binance/)
+- [Apple WWDC 2023: Everything announced from the Apple Vision Pro headset, iOS 17, MacBook Air and more](https://techcrunch.com/2023/06/05/apple-wwdc-2023-everything-announced-so-far-including-ios-17-macbook-air-and-more/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
