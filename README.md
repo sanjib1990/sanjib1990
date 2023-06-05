@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [6 investors explain why they are bullish about Japan’s startup scene despite an uncertain economy](https://techcrunch.com/2023/06/05/japan-investor-survey/)
+- [Microsoft says Clop ransomware gang is behind MOVEit mass-hacks, as first victims come forward](https://techcrunch.com/2023/06/05/microsoft-clop-moveit-hacks-victims/)
+- [Revenge of the mutual funds](https://techcrunch.com/2023/06/05/revenge-of-the-mutual-funds/)
 - [Google Workspace and Cloud get support for passkeys](https://techcrunch.com/2023/06/05/google-workspace-and-cloud-get-support-for-passkeys/)
 - [Multiple subreddits and moderators are protesting Reddit’s API changes](https://techcrunch.com/2023/06/05/multiple-subreddits-and-moderators-are-now-protesting-reddits-api-changes/)
-- [Spotify will cut 200 jobs in its podcast unit](https://techcrunch.com/2023/06/05/spotify-will-cut-200-jobs-in-its-podcast-unit/)
-- [As Deeptech and AI explodes, European Deeptech VC IQ Capital closes new $200M fund](https://techcrunch.com/2023/06/05/as-deeptech-and-ai-explodes-european-deeptech-vc-iq-capital-closes-new-200m-fund/)
-- [How long will the new supernova visible in the night sky last?](https://www.space.com/new-supernova-how-long-will-it-last)
 <!-- BLOG-POST-LIST:END -->
 
 ---
