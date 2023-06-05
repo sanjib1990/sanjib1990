@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How long will the new supernova visible in the night sky last?](https://www.space.com/new-supernova-how-long-will-it-last)
 - [Helium Health gets $30M, backed by AXA IM Alts and 23andMe’s Anne Wojcicki](https://techcrunch.com/2023/06/05/helium-health-gets-30m-backed-by-axa-im-and-23andmes-anne-wojcicki/)
 - [NASA&#39;s James Webb Space Telescope mission — Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
 - [How to watch Apple unveil its AR/VR headset, iOS 17 and more at WWDC 2023](https://techcrunch.com/2023/06/04/how-to-watch-apple-unveil-its-ar-vr-headset-ios-17-and-more-at-wwdc-2023/)
 - [Elon goes to China, Lucid is selling stock for $3 billion, and Fiat’s cutest tiny EV](https://techcrunch.com/2023/06/04/elon-goes-to-china-rivian-is-selling-stock-for-3-billion-and-fiats-cutest-tiny-ev/)
-- [After investing $28B in Slack, Salesforce bets on one of its own as new CEO](https://techcrunch.com/2023/06/04/slack-ceo-interview/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
