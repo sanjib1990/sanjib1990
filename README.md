@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Workspace and Cloud get support for passkeys](https://techcrunch.com/2023/06/05/google-workspace-and-cloud-get-support-for-passkeys/)
+- [Multiple subreddits and moderators are protesting Reddit’s API changes](https://techcrunch.com/2023/06/05/multiple-subreddits-and-moderators-are-now-protesting-reddits-api-changes/)
 - [Spotify will cut 200 jobs in its podcast unit](https://techcrunch.com/2023/06/05/spotify-will-cut-200-jobs-in-its-podcast-unit/)
 - [As Deeptech and AI explodes, European Deeptech VC IQ Capital closes new $200M fund](https://techcrunch.com/2023/06/05/as-deeptech-and-ai-explodes-european-deeptech-vc-iq-capital-closes-new-200m-fund/)
 - [How long will the new supernova visible in the night sky last?](https://www.space.com/new-supernova-how-long-will-it-last)
-- [Helium Health gets $30M, backed by AXA IM Alts and 23andMe’s Anne Wojcicki](https://techcrunch.com/2023/06/05/helium-health-gets-30m-backed-by-axa-im-and-23andmes-anne-wojcicki/)
-- [NASA&#39;s James Webb Space Telescope mission — Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
