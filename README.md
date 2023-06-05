@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [6 investors explain why they are bullish about Japan’s startup scene despite an uncertain economy](https://techcrunch.com/2023/06/05/japan-investor-survey/)
-- [Microsoft says Clop ransomware gang is behind MOVEit mass-hacks, as first victims come forward](https://techcrunch.com/2023/06/05/microsoft-clop-moveit-hacks-victims/)
-- [Revenge of the mutual funds](https://techcrunch.com/2023/06/05/revenge-of-the-mutual-funds/)
-- [Google Workspace and Cloud get support for passkeys](https://techcrunch.com/2023/06/05/google-workspace-and-cloud-get-support-for-passkeys/)
-- [Multiple subreddits and moderators are protesting Reddit’s API changes](https://techcrunch.com/2023/06/05/multiple-subreddits-and-moderators-are-now-protesting-reddits-api-changes/)
+- [Apple WWDC 2023 Liveblog: Watch as Apple unveils its AR/VR headset, iOS 17 and more](https://techcrunch.com/2023/06/05/watch-live-as-apple-unveils-its-ar-vr-headset-and-more-at-wwdc-2023/)
+- [Super Bowl champ Richard Sherman on suiting up for Fox TV show &#39;Stars on Mars&#39; &lpar;exclusive&rpar;](https://www.space.com/richard-sherman-stars-on-mars-interview-exclusive)
+- [SEC sues Binance and CEO Zhao over alleged mishandling funds, lying to regulators](https://techcrunch.com/2023/06/05/sec-sues-binance-and-ceo-zhao-over-alleged-mishandling-funds-lying-to-regulators/)
+- [Space pictures! See our image of the day](https://www.space.com/34-image-day.html)
+- [India’s open e-commerce network expands to B2B transactions](https://techcrunch.com/2023/06/05/india-ondc-b2b-transactions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
