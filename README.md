@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple WWDC 2023: Everything announced so far including iOS 17, MacBook Air and more](https://techcrunch.com/2023/06/05/apple-wwdc-2023-everything-announced-so-far-including-ios-17-macbook-air-and-more/)
-- [Apple unveils Adaptive Audio and says it’ll improve AirPods’ automatic switching](https://techcrunch.com/2023/06/05/apple-unveils-adaptive-audio-and-says-itll-improve-airpods-automatic-switching/)
-- [Apple WWDC 2023 Liveblog: Live updates as Apple unveils its AR/VR headset, iOS 17 and more](https://techcrunch.com/2023/06/05/watch-live-as-apple-unveils-its-ar-vr-headset-and-more-at-wwdc-2023/)
-- [iPadOS 17 adds upgraded widgets, customizable Home Screen, and new native apps](https://techcrunch.com/2023/06/05/ipados-17-adds-upgraded-widgets-customizable-home-screen-and-new-native-apps/)
-- [AirDrop in iOS 17 will let you share contact info by bringing two iPhones close together](https://techcrunch.com/2023/06/05/airdrop-in-ios-17-will-let-you-share-contact-info-by-bringing-two-iphones-close-together/)
+- [Apple TV gets FaceTime, a new control center, findable remote and more](https://techcrunch.com/2023/06/05/apple-tv-gets-facetime-a-new-control-center-findable-remote-and-more/)
+- [The Apple Vision Pro headset will cost $3,499, out early 2024](https://techcrunch.com/2023/06/05/the-apple-vision-pro-headset-will-cost-3499-out-early-2024/)
+- [To reduce motion sickness in VR, Apple developed new R1 chip](https://techcrunch.com/2023/06/05/apple-r1-chip-apple-vision-pro/)
+- [Apple’s $3,499 Vision Pro AR headset is finally here](https://techcrunch.com/2023/06/05/apple-headset/)
+- [Strawberry Moon of June 2023 sweetens the night sky in these amazing photos](https://www.space.com/strawberry-moon-june-2023-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
