@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s new moon car for Artemis astronauts will be inspired by Mars rovers](https://www.space.com/nasa-moon-rover-lunar-terrain-vehicle-proposals)
+- [iOS 17 can suggest recipes for similar dishes from a photo on your iPhone](https://techcrunch.com/2023/06/05/ios-17-can-suggest-recipes-for-similar-dishes-from-a-photo-on-your-iphone/)
 - [Giant robots defend Earth against alien attacks in new &#39;Robotech&#39; comic series](https://www.space.com/robotech-rick-hunter-comic-miniseries-august-2023)
 - [Apple’s new headset fails to excite investors, but sends shares of Unity soaring](https://techcrunch.com/2023/06/05/apple-vr-headset-wwdc-stock/)
 - [Apple’s Vision Pro headset seems too good to be real — because it basically is](https://techcrunch.com/2023/06/05/apples-vision-pro-headset-seems-too-good-to-be-real-because-it-basically-is/)
-- [New iPhone feature warns about unwanted nudes](https://techcrunch.com/2023/06/05/new-iphone-feature-warns-about-unwanted-nudes/)
-- [A closer look at Apple’s $3,499 Vision Pro headset](https://techcrunch.com/2023/06/05/a-closer-look-at-apples-3499-vision-pro-headset/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
