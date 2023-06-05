@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple’s 15-inch MacBook Air is its largest to date](https://techcrunch.com/2023/06/05/apples-15-inch-macbook-air-is-its-largest-to-date/)
-- [How far have Twitter’s advertising revenues fallen?](https://techcrunch.com/2023/06/05/twitters-ad-revenues-loss/)
-- [NASA&#39;s James Webb Space Telescope mission — Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
-- [Apple WWDC 2023 Liveblog: Watch as Apple unveils its AR/VR headset, iOS 17 and more](https://techcrunch.com/2023/06/05/watch-live-as-apple-unveils-its-ar-vr-headset-and-more-at-wwdc-2023/)
-- [Ten questions early-stage founders should be asking investors](https://techcrunch.com/2023/06/05/ten-questions-early-stage-founders-should-be-asking-investors/)
+- [Apple WWDC 2023: Everything announced so far including iOS 17, MacBook Air and more](https://techcrunch.com/2023/06/05/apple-wwdc-2023-everything-announced-so-far-including-ios-17-macbook-air-and-more/)
+- [Apple unveils Adaptive Audio and says it’ll improve AirPods’ automatic switching](https://techcrunch.com/2023/06/05/apple-unveils-adaptive-audio-and-says-itll-improve-airpods-automatic-switching/)
+- [Apple WWDC 2023 Liveblog: Live updates as Apple unveils its AR/VR headset, iOS 17 and more](https://techcrunch.com/2023/06/05/watch-live-as-apple-unveils-its-ar-vr-headset-and-more-at-wwdc-2023/)
+- [iPadOS 17 adds upgraded widgets, customizable Home Screen, and new native apps](https://techcrunch.com/2023/06/05/ipados-17-adds-upgraded-widgets-customizable-home-screen-and-new-native-apps/)
+- [AirDrop in iOS 17 will let you share contact info by bringing two iPhones close together](https://techcrunch.com/2023/06/05/airdrop-in-ios-17-will-let-you-share-contact-info-by-bringing-two-iphones-close-together/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
