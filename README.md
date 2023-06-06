@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple redesigns its Shortcuts app in iOS 17 to be easier to use](https://techcrunch.com/2023/06/06/apple-redesigns-its-shortcuts-app-in-ios-17-to-be-easier-to-use/)
+- [SEC Chair Gensler lambasts crypto industry after agency charges Binance, Coinbase](https://techcrunch.com/2023/06/06/sec-chair-gensler-binance-coinbase/)
 - [Loud launches: Researchers study how rocket noise affects endangered wildlife](https://www.space.com/rocket-launch-noise-endangered-wildlife-study)
 - [Life insurance startup Getlife becomes Life5 and raises $10.7 million](https://techcrunch.com/2023/06/06/life-insurance-startup-getlife-becomes-life5-and-raises-107-million/)
 - [Watch Space.com experience moon gravity at 30,000 feet in new mini-documentary out June 7](https://www.space.com/moon-gravity-parabolic-flight-space-documentary-premiere)
-- [NASA&#39;s James Webb Space Telescope mission — Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
-- [Curing physician burnout with Eli Ben-Joseph from Regard](https://techcrunch.com/2023/06/06/curing-physician-burnout-with-eli-ben-joseph-form-regard/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
