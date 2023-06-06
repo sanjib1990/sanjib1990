@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple redesigns its Shortcuts app in iOS 17 to be easier to use](https://techcrunch.com/2023/06/06/apple-redesigns-its-shortcuts-app-in-ios-17-to-be-easier-to-use/)
-- [SEC Chair Gensler lambasts crypto industry after agency charges Binance, Coinbase](https://techcrunch.com/2023/06/06/sec-chair-gensler-binance-coinbase/)
-- [Loud launches: Researchers study how rocket noise affects endangered wildlife](https://www.space.com/rocket-launch-noise-endangered-wildlife-study)
-- [Life insurance startup Getlife becomes Life5 and raises $10.7 million](https://techcrunch.com/2023/06/06/life-insurance-startup-getlife-becomes-life5-and-raises-107-million/)
-- [Watch Space.com experience moon gravity at 30,000 feet in new mini-documentary out June 7](https://www.space.com/moon-gravity-parabolic-flight-space-documentary-premiere)
+- [Space pictures! See our image of the day](https://www.space.com/34-image-day.html)
+- [Gravitational waves may come from &#39;cocoons&#39; of debris around dying stars &lpar;video&rpar;](https://www.space.com/star-cocoons-gravitational-waves)
+- [70% of HBO Max subs have moved over to rebranded Max service](https://techcrunch.com/2023/06/06/70-of-hbo-max-subs-have-moved-over-to-rebranded-max-service/)
+- [TechCrunch+ roundup: 10 questions to ask a VC, AI and antitrust, Japan investor survey](https://techcrunch.com/2023/06/06/techcrunch-roundup-10-questions-to-ask-a-vc-ai-and-antitrust-japan-investor-survey/)
+- [Microsoft to pay $20M settlement for illegally collecting children’s personal data](https://techcrunch.com/2023/06/06/microsoft-settle-ftc-collecting-childrens-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
