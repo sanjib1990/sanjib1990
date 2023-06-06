@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Should future Mars missions have all-female crews?](https://www.space.com/mars-astronauts-all-female-crew)
+- [The Native American night sky: 7 starry sights to see](https://www.space.com/native-american-night-sky)
+- [Europe wants platforms to label AI-generated content to fight disinformation](https://techcrunch.com/2023/06/06/eu-disinformation-code-generative-ai-labels/)
 - [OurX adds tech spin to Black hair care regimen](https://techcrunch.com/2023/06/06/ourx-adds-tech-spin-to-black-hair-care-regimen/)
 - [Greycroft co-founder Ian Sigalow on investing $1B in this market](https://techcrunch.com/2023/06/05/greycroft-co-founder-ian-sigalow-on-investing-1b-in-this-market/)
-- [How Evroc plans to build sovereign, hyperscale data centers in Europe](https://techcrunch.com/2023/06/05/how-evroc-plans-to-build-sovereign-hyperscale-data-centers-in-europe/)
-- [Escape dynamically scans APIs to find security flaws](https://techcrunch.com/2023/06/05/escape-dynamically-scans-apis-to-find-security-flaws/)
-- [Byju’s sues ‘predatory’ lenders on $1.2B term loan, won’t make further payments](https://techcrunch.com/2023/06/05/byjus-files-suit-challenging-acceleration-of-1-2b-loan-seeks-to-disqualify-redwood-for-predatory-tactics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
