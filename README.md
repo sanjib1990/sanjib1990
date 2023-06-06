@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GetHarley, a skincare telehealth and consultation platform, raises $52M](https://techcrunch.com/2023/06/06/getharley-a-skincare-telehealth-consultation-platform-raises-52m/)
 - [Apple’s AR headset is a game-changer for startups](https://techcrunch.com/2023/06/06/apple-vision-pro-startup-opportunity/)
-- [Nuview’s lidar satellites hit $15M in funding as Leonardo DiCaprio joins latest round](https://techcrunch.com/2023/06/06/nuview-hit-15m-leonardo-dicaprio/)
+- [Nuview’s lidar satellites hit $15M in funding with Leonardo DiCaprio among investors](https://techcrunch.com/2023/06/06/nuview-hit-15m-leonardo-dicaprio/)
 - [As SEC files motion to freeze Binance assets, crypto market remains green](https://techcrunch.com/2023/06/06/as-sec-files-motion-to-freeze-binance-assets-crypto-market-remains-green/)
 - [Sorry, but Apple’s Vision Pro isn’t for you](https://techcrunch.com/2023/06/06/sorry-but-apples-vision-pro-isnt-for-you/)
-- [Apple acquires Mira, a startup building lightweight AR hardware](https://techcrunch.com/2023/06/06/apple-acquires-mira-a-startup-building-lightweight-ar-hardware/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
