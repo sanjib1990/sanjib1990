@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How Evroc plans to build sovereign, hyperscale data centers in Europe](https://techcrunch.com/2023/06/05/how-evroc-plans-to-build-sovereign-hyperscale-data-centers-in-europe/)
 - [Escape dynamically scans APIs to find security flaws](https://techcrunch.com/2023/06/05/escape-dynamically-scans-apis-to-find-security-flaws/)
 - [Byju’s sues ‘predatory’ lenders](https://techcrunch.com/2023/06/05/byjus-files-suit-challenging-acceleration-of-1-2b-loan-seeks-to-disqualify-redwood-for-predatory-tactics/)
 - [First impressions: Yes, Apple Vision Pro works and yes, it’s good.](https://techcrunch.com/2023/06/05/first-impressions-yes-apple-vision-pro-works-and-yes-its-good/)
 - [Apple Vision Pro: Here’s everything you need to know](https://techcrunch.com/2023/06/05/apple-vision-pro-everything-you-need-to-know/)
-- [Sensi.AI and Flint Capital speak on developing and deploying AI solutions in healthcare](https://techcrunch.com/2023/06/05/sensi-ai-and-flint-capital-speak-on-developing-and-deploying-ai-solutions-in-healthcare/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
