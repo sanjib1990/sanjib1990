@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Space pictures! See our image of the day](https://www.space.com/34-image-day.html)
-- [Gravitational waves may come from &#39;cocoons&#39; of debris around dying stars &lpar;video&rpar;](https://www.space.com/star-cocoons-gravitational-waves)
-- [70% of HBO Max subs have moved over to rebranded Max service](https://techcrunch.com/2023/06/06/70-of-hbo-max-subs-have-moved-over-to-rebranded-max-service/)
-- [TechCrunch+ roundup: 10 questions to ask a VC, AI and antitrust, Japan investor survey](https://techcrunch.com/2023/06/06/techcrunch-roundup-10-questions-to-ask-a-vc-ai-and-antitrust-japan-investor-survey/)
-- [Microsoft to pay $20M settlement for illegally collecting children’s personal data](https://techcrunch.com/2023/06/06/microsoft-settle-ftc-collecting-childrens-data/)
+- [Netflix announces LEGO mobile game and a daily version of Cut the Rope](https://techcrunch.com/2023/06/06/netflix-announces-lego-mobile-game-and-a-daily-version-of-cut-the-rope/)
+- [1st-ever private Venus mission delayed until at least 2025](https://www.space.com/rocket-lab-private-venus-mission-delayed-2025)
+- [Instagram might be working on an AI chatbot](https://techcrunch.com/2023/06/06/instagram-might-be-working-on-an-ai-chatbot/)
+- [You need to add some friction to your growth funnel](https://techcrunch.com/2023/06/06/you-need-to-add-some-friction-to-your-growth-funnel/)
+- [Apple’s new TipKit will help developers teach people how to use their apps](https://techcrunch.com/2023/06/06/apples-new-tipkit-will-help-developers-teach-people-how-to-use-their-apps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
