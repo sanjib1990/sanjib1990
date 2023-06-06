@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Acura’s first EV will feature Google apps for navigation and voice control](https://techcrunch.com/2023/06/06/acuras-first-ev-will-feature-google-apps-for-navigation-and-voice-control/)
-- [North Korean hackers impersonated journalists to gather intel from academics and think tanks](https://techcrunch.com/2023/06/06/north-korea-hackers-kimsuky-strategic-intelligence/)
-- [Wisconsin has quietly become a hotbed of fusion power startups. Will it last?](https://techcrunch.com/2023/06/06/wisconsin-fusion-power-hub/)
-- [After Binance, US SEC sues Coinbase for securities laws violations](https://techcrunch.com/2023/06/06/after-binance-us-sec-sues-coinbase-for-securities-laws-violations/)
-- [Apple WWDC 2023: Everything announced from the Apple Vision Pro to iOS 17, MacBook Air and more](https://techcrunch.com/2023/06/06/apple-wwdc-2023-everything-announced-so-far-including-ios-17-macbook-air-and-more/)
+- [Announcing the final agenda for the Builders Stage at TechCrunch Disrupt](https://techcrunch.com/2023/06/06/announcing-the-final-agenda-for-the-builders-stage-at-techcrunch-disrupt-23/)
+- [Virtual Nightmare is the anti-Matrix movie you&#39;ve never seen](https://www.space.com/virtual-nightmare-is-the-anti-matrix-movie-youve-never-seen)
+- [Yes, interactive widgets are coming to iPhone, too, in iOS 17](https://techcrunch.com/2023/06/06/yes-interactive-widgets-are-coming-to-iphone-too-in-ios-17/)
+- [LlamaIndex adds private data to large language models](https://techcrunch.com/2023/06/06/llamaindex-adds-private-data-to-large-language-models/)
+- [Linda Yaccarino is officially on the job as Twitter CEO](https://techcrunch.com/2023/06/06/linda-yaccarino-is-officially-on-the-job-as-twitter-ceo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
