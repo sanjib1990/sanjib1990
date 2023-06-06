@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sequoia splits into three entities](https://techcrunch.com/2023/06/06/sequoia-rebrands-china-india-and-southeast-asia-units/)
+- [SpaceX Dragon cargo capsule docks with space station early Tuesday](https://www.space.com/spacex-dragon-crs-28-cargo-mission-docking)
 - [Should future Mars missions have all-female crews?](https://www.space.com/mars-astronauts-all-female-crew)
 - [The Native American night sky: 7 starry sights to see](https://www.space.com/native-american-night-sky)
 - [Europe wants platforms to label AI-generated content to fight disinformation](https://techcrunch.com/2023/06/06/eu-disinformation-code-generative-ai-labels/)
-- [OurX adds tech spin to Black hair care regimen](https://techcrunch.com/2023/06/06/ourx-adds-tech-spin-to-black-hair-care-regimen/)
-- [Greycroft co-founder Ian Sigalow on investing $1B in this market](https://techcrunch.com/2023/06/05/greycroft-co-founder-ian-sigalow-on-investing-1b-in-this-market/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
