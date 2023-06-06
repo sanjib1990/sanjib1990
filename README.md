@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Here are the iOS 17 features Apple didn’t announce on stage](https://techcrunch.com/2023/06/06/here-are-the-ios-17-features-apple-didnt-announce-on-stage/)
-- [Eric Schmidt backs Keeta, a startup working to make cross-border payments ‘as easy as Venmo’](https://techcrunch.com/2023/06/06/eric-schmidt-keeta-cross-border-payments-fintech/)
-- [Curri nabs $42M for its construction-focused last-mile logistics platform](https://techcrunch.com/2023/06/06/curri-nabs-42m-for-its-construction-focused-last-mile-logistics-platform/)
-- [Hello’s founder is back with Config to make hardware development simpler](https://techcrunch.com/2023/06/06/config/)
-- [James Webb Space Telescope peers behind bars to reveal a cosmic &#39;treasure trove&#39; &lpar;video&rpar;](https://www.space.com/james-webb-space-telescope-behind-bars-star-formation)
+- [Acura’s first EV will feature Google apps for navigation and voice control](https://techcrunch.com/2023/06/06/acuras-first-ev-will-feature-google-apps-for-navigation-and-voice-control/)
+- [North Korean hackers impersonated journalists to gather intel from academics and think tanks](https://techcrunch.com/2023/06/06/north-korea-hackers-kimsuky-strategic-intelligence/)
+- [Wisconsin has quietly become a hotbed of fusion power startups. Will it last?](https://techcrunch.com/2023/06/06/wisconsin-fusion-power-hub/)
+- [After Binance, US SEC sues Coinbase for securities laws violations](https://techcrunch.com/2023/06/06/after-binance-us-sec-sues-coinbase-for-securities-laws-violations/)
+- [Apple WWDC 2023: Everything announced from the Apple Vision Pro to iOS 17, MacBook Air and more](https://techcrunch.com/2023/06/06/apple-wwdc-2023-everything-announced-so-far-including-ios-17-macbook-air-and-more/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
