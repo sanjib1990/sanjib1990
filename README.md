@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Incube wants to bring ‘daylight’ to apartment buildings](https://techcrunch.com/2023/06/06/incube-daylight/)
-- [Netflix announces LEGO mobile game and a daily version of Cut the Rope](https://techcrunch.com/2023/06/06/netflix-announces-lego-mobile-game-and-a-daily-version-of-cut-the-rope/)
-- [1st-ever private Venus mission delayed until at least 2025](https://www.space.com/rocket-lab-private-venus-mission-delayed-2025)
-- [Instagram might be working on an AI chatbot](https://techcrunch.com/2023/06/06/instagram-might-be-working-on-an-ai-chatbot/)
-- [You need to add some friction to your growth funnel](https://techcrunch.com/2023/06/06/you-need-to-add-some-friction-to-your-growth-funnel/)
+- [As SEC files motion to freeze Binance assets, crypto market remains green](https://techcrunch.com/2023/06/06/as-sec-files-motion-to-freeze-binance-assets-crypto-market-remains-green/)
+- [Sorry, but Apple’s Vision Pro isn’t for you](https://techcrunch.com/2023/06/06/sorry-but-apples-vision-pro-isnt-for-you/)
+- [Apple acquires Mira, a startup building lightweight AR hardware](https://techcrunch.com/2023/06/06/apple-acquires-mira-a-startup-building-lightweight-ar-hardware/)
+- [Instabase lands $45M investment to help companies automate document processing](https://techcrunch.com/2023/06/06/instabase-lands-45m-investment-to-help-companies-automate-document-processing/)
+- [A Waymo self-driving car killed a dog in ‘unavoidable’ accident](https://techcrunch.com/2023/06/06/a-waymo-self-driving-car-killed-a-dog-in-unavoidable-accident/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
