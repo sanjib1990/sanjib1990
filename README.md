@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [BOND brings inspirational-driven approach to livestream shopping, raises $2M](https://techcrunch.com/2023/06/06/bond-inspirational-driven-livestream-shopping-2m/)
-- [NASA&#39;s Psyche asteroid probe on track for October launch after 1-year delay](https://www.space.com/nasa-psyche-on-target-october-2023-launch)
-- [Zoom brings local data storage to paying European customers](https://techcrunch.com/2023/06/06/zoom-brings-local-data-storage-to-paying-european-customers/)
-- [Creality CR-M4 review: Industrial size, quality, and price](https://www.space.com/creality-cr-m4-review)
-- [Sequoia splits China and India arms from US mothership](https://techcrunch.com/2023/06/06/sequoia-rebrands-china-india-and-southeast-asia-units/)
+- [Here are the iOS 17 features Apple didn’t announce on stage](https://techcrunch.com/2023/06/06/here-are-the-ios-17-features-apple-didnt-announce-on-stage/)
+- [Eric Schmidt backs Keeta, a startup working to make cross-border payments ‘as easy as Venmo’](https://techcrunch.com/2023/06/06/eric-schmidt-keeta-cross-border-payments-fintech/)
+- [Curri nabs $42M for its construction-focused last-mile logistics platform](https://techcrunch.com/2023/06/06/curri-nabs-42m-for-its-construction-focused-last-mile-logistics-platform/)
+- [Hello’s founder is back with Config to make hardware development simpler](https://techcrunch.com/2023/06/06/config/)
+- [James Webb Space Telescope peers behind bars to reveal a cosmic &#39;treasure trove&#39; &lpar;video&rpar;](https://www.space.com/james-webb-space-telescope-behind-bars-star-formation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
