@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Byju’s files suit challenging acceleration of $1.2B loan, seeks to disqualify Redwood for ‘predatory’ tactics](https://techcrunch.com/2023/06/05/byjus-files-suit-challenging-acceleration-of-1-2b-loan-seeks-to-disqualify-redwood-for-predatory-tactics/)
+- [First impressions: Yes, Apple Vision Pro works and yes, it’s good.](https://techcrunch.com/2023/06/05/first-impressions-yes-apple-vision-pro-works-and-yes-its-good/)
 - [Apple Vision Pro: Here’s everything you need to know](https://techcrunch.com/2023/06/05/apple-vision-pro-everything-you-need-to-know/)
 - [Sensi.AI and Flint Capital speak on developing and deploying AI solutions in healthcare](https://techcrunch.com/2023/06/05/sensi-ai-and-flint-capital-speak-on-developing-and-deploying-ai-solutions-in-healthcare/)
 - [Max Q: Another day, another delay](https://techcrunch.com/2023/06/05/max-q-another-day-another-delay/)
-- [Aux 2.0: Apple’s SharePlay lets everyone queue up a song in the car](https://techcrunch.com/2023/06/05/apple-shareplay-to-cars-carplay-wwdc-2023/)
-- [Watch SpaceX Dragon cargo capsule dock with space station early Tuesday](https://www.space.com/spacex-dragon-crs-28-cargo-mission-docking)
 <!-- BLOG-POST-LIST:END -->
 
 ---
