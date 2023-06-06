@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Announcing the final agenda for the Builders Stage at TechCrunch Disrupt](https://techcrunch.com/2023/06/06/announcing-the-final-agenda-for-the-builders-stage-at-techcrunch-disrupt-23/)
-- [Virtual Nightmare is the anti-Matrix movie you&#39;ve never seen](https://www.space.com/virtual-nightmare-is-the-anti-matrix-movie-youve-never-seen)
-- [Yes, interactive widgets are coming to iPhone, too, in iOS 17](https://techcrunch.com/2023/06/06/yes-interactive-widgets-are-coming-to-iphone-too-in-ios-17/)
-- [LlamaIndex adds private data to large language models](https://techcrunch.com/2023/06/06/llamaindex-adds-private-data-to-large-language-models/)
-- [Linda Yaccarino is officially on the job as Twitter CEO](https://techcrunch.com/2023/06/06/linda-yaccarino-is-officially-on-the-job-as-twitter-ceo/)
+- [Loud launches: Researchers study how rocket noise affects endangered wildlife](https://www.space.com/rocket-launch-noise-endangered-wildlife-study)
+- [Life insurance startup Getlife becomes Life5 and raises $10.7 million](https://techcrunch.com/2023/06/06/life-insurance-startup-getlife-becomes-life5-and-raises-107-million/)
+- [Watch Space.com experience moon gravity at 30,000 feet in new mini-documentary out June 7](https://www.space.com/moon-gravity-parabolic-flight-space-documentary-premiere)
+- [NASA&#39;s James Webb Space Telescope mission — Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
+- [Curing physician burnout with Eli Ben-Joseph from Regard](https://techcrunch.com/2023/06/06/curing-physician-burnout-with-eli-ben-joseph-form-regard/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
