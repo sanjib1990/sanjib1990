@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Sequoia splits into three entities](https://techcrunch.com/2023/06/06/sequoia-rebrands-china-india-and-southeast-asia-units/)
-- [SpaceX Dragon cargo capsule docks with space station early Tuesday](https://www.space.com/spacex-dragon-crs-28-cargo-mission-docking)
-- [Should future Mars missions have all-female crews?](https://www.space.com/mars-astronauts-all-female-crew)
-- [The Native American night sky: 7 starry sights to see](https://www.space.com/native-american-night-sky)
-- [Europe wants platforms to label AI-generated content to fight disinformation](https://techcrunch.com/2023/06/06/eu-disinformation-code-generative-ai-labels/)
+- [BOND brings inspirational-driven approach to livestream shopping, raises $2M](https://techcrunch.com/2023/06/06/bond-inspirational-driven-livestream-shopping-2m/)
+- [NASA&#39;s Psyche asteroid probe on track for October launch after 1-year delay](https://www.space.com/nasa-psyche-on-target-october-2023-launch)
+- [Zoom brings local data storage to paying European customers](https://techcrunch.com/2023/06/06/zoom-brings-local-data-storage-to-paying-european-customers/)
+- [Creality CR-M4 review: Industrial size, quality, and price](https://www.space.com/creality-cr-m4-review)
+- [Sequoia splits China and India arms from US mothership](https://techcrunch.com/2023/06/06/sequoia-rebrands-china-india-and-southeast-asia-units/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
