@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Vision Pro: Here’s everything you need to know](https://techcrunch.com/2023/06/05/apple-vision-pro-everything-you-need-to-know/)
 - [Sensi.AI and Flint Capital speak on developing and deploying AI solutions in healthcare](https://techcrunch.com/2023/06/05/sensi-ai-and-flint-capital-speak-on-developing-and-deploying-ai-solutions-in-healthcare/)
 - [Max Q: Another day, another delay](https://techcrunch.com/2023/06/05/max-q-another-day-another-delay/)
 - [Aux 2.0: Apple’s SharePlay lets everyone queue up a song in the car](https://techcrunch.com/2023/06/05/apple-shareplay-to-cars-carplay-wwdc-2023/)
 - [Watch SpaceX Dragon cargo capsule dock with space station early Tuesday](https://www.space.com/spacex-dragon-crs-28-cargo-mission-docking)
-- [NASA&#39;s new moon car for Artemis astronauts will be inspired by Mars rovers](https://www.space.com/nasa-moon-rover-lunar-terrain-vehicle-proposals)
 <!-- BLOG-POST-LIST:END -->
 
 ---
