@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Businesses will be able to accept IDs in Apple Wallet with iOS 17, among other changes](https://techcrunch.com/2023/06/07/business-will-be-able-to-accept-ids-in-apple-wallet-with-ios-17-among-other-changes/)
-- [Contextual AI launches from stealth to build enterprise-focused language models](https://techcrunch.com/2023/06/07/contextual-ai-launches-from-stealth-to-build-enterprise-focused-language-models/)
-- [Apple’s new toolkit makes it easier for developers to bring Windows games to Mac](https://techcrunch.com/2023/06/07/apples-new-toolkit-easier-developers-bring-windows-games-mac/)
-- [Cava’s sensible IPO ambitions could spur more companies to go public](https://techcrunch.com/2023/06/07/cava-ipo-pricing-analysis/)
-- [NASA&#39;s sun-kissing Parker Solar Probe finds source of &#39;fast&#39; solar wind](https://www.space.com/parker-solar-probe-fast-solar-wind-source)
+- [‘Star Wars: Ahsoka’ will debut on Disney+ on August 23](https://techcrunch.com/2023/06/07/star-wars-ahsoka-will-debut-on-disney-on-august-23/)
+- [NASA spends $45M to seed tech from hundreds of space businesses](https://techcrunch.com/2023/06/07/nasa-spends-45m-to-seed-tech-from-hundreds-of-space-businesses/)
+- [Watch ULA test-fire new Vulcan Centaur rocket on the launch pad today](https://www.space.com/ula-vulcan-centaur-test-fire-june-2023)
+- [Amazon Pay taps Affirm to be its first buy now, pay later player](https://techcrunch.com/2023/06/07/amazon-pay-taps-affirm-to-be-its-first-buy-now-pay-later-player/)
+- [Antler branches out from pre-seed to later stage investing with $285M fund](https://techcrunch.com/2023/06/07/antler-branches-out-from-pre-seed-to-later-stage-investing-with-285m-fund/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
