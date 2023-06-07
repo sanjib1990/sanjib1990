@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Edtech giant Byju’s launches transformer models in AI push](https://techcrunch.com/2023/06/06/edtech-giant-byjus-launches-transformer-models-in-ai-push/)
 - [GetHarley, a skincare telehealth and consultation platform, raises $52M](https://techcrunch.com/2023/06/06/getharley-a-skincare-telehealth-consultation-platform-raises-52m/)
 - [Apple’s AR headset is a game-changer for startups](https://techcrunch.com/2023/06/06/apple-vision-pro-startup-opportunity/)
 - [Nuview’s lidar satellites hit $15M in funding with Leonardo DiCaprio among investors](https://techcrunch.com/2023/06/06/nuview-hit-15m-leonardo-dicaprio/)
 - [As SEC files motion to freeze Binance assets, crypto market remains green](https://techcrunch.com/2023/06/06/as-sec-files-motion-to-freeze-binance-assets-crypto-market-remains-green/)
-- [Sorry, but Apple’s Vision Pro isn’t for you](https://techcrunch.com/2023/06/06/sorry-but-apples-vision-pro-isnt-for-you/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
