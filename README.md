@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [‘Star Wars: Ahsoka’ will debut on Disney+ on August 23](https://techcrunch.com/2023/06/07/star-wars-ahsoka-will-debut-on-disney-on-august-23/)
-- [NASA spends $45M to seed tech from hundreds of space businesses](https://techcrunch.com/2023/06/07/nasa-spends-45m-to-seed-tech-from-hundreds-of-space-businesses/)
-- [Watch ULA test-fire new Vulcan Centaur rocket on the launch pad today](https://www.space.com/ula-vulcan-centaur-test-fire-june-2023)
-- [Amazon Pay taps Affirm to be its first buy now, pay later player](https://techcrunch.com/2023/06/07/amazon-pay-taps-affirm-to-be-its-first-buy-now-pay-later-player/)
-- [Antler branches out from pre-seed to later stage investing with $285M fund](https://techcrunch.com/2023/06/07/antler-branches-out-from-pre-seed-to-later-stage-investing-with-285m-fund/)
+- [Atlanta Mayor Andre Dickens explains why tech companies are moving to the city](https://techcrunch.com/2023/06/07/atlanta-mayor-andre-dickens-explains-why-tech-companies-are-moving-to-the-city/)
+- [James Webb Space Telescope spots faintest galaxy yet in the infant universe &lpar;photo&rpar;](https://www.space.com/james-webb-space-telescope-faintest-galaxy-infant-universe)
+- [Google claims that Bard is improving at math and programming](https://techcrunch.com/2023/06/07/google-claims-that-bard-is-improving-at-math-and-programming/)
+- [Need to charge your EV? Apple Maps will show open spots near you](https://techcrunch.com/2023/06/07/need-to-charge-your-ev-apple-maps-will-show-open-spots-near-you/)
+- [Satellite photos show US East Coast engulfed by smoke from Canadian wildfires](https://www.space.com/satellite-photos-canada-wildfire-smoke-us-east-coast)
 <!-- BLOG-POST-LIST:END -->
 
 ---
