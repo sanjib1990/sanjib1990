@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Positive Ventures’ new impact fund will be triple its flagship fund](https://techcrunch.com/2023/06/07/positive-ventures-impact-fund-venture-capital/)
-- [How I learned to &#39;walk on the moon&#39; while flying at 30,000 feet on a stomach-churning airplane ride &lpar;video&rpar;](https://www.space.com/lunar-gravity-parabolic-flight-experience)
-- [Automattic launches an AI writing assistant for WordPress](https://techcrunch.com/2023/06/07/automattic-launches-an-ai-writing-assistant-for-wordpress/)
-- [Twitter increases window to edit tweets to one hour for Blue subscribers](https://techcrunch.com/2023/06/07/twitter-increases-window-to-edit-tweets-to-one-hour-for-blue-subscribers/)
-- [Strange star holds &#39;holy grail&#39; clues about unique supernova explosions in the early universe](https://www.space.com/strange-star-pair-instability-supernova-early-universe)
+- [Apple is making developer betas free and accesible to everyone](https://techcrunch.com/2023/06/07/apple-is-making-developer-betas-free-and-accesible-to-everyone/)
+- [Dark matter atoms may form shadowy galaxies with rapid star formation](https://www.space.com/dark-matter-atoms-form-stars-galaxies-simulations)
+- [Blush, the AI lover from the same team as Replika, is more than just a sexbot](https://techcrunch.com/2023/06/07/blush-ai-dating-sim-replika-sexbot/)
+- [Space pictures! See our image of the day](https://www.space.com/34-image-day.html)
+- [New Milky Way map reveals the magnificent messiness of our galaxy](https://www.space.com/map-milky-way-spiral-arms-gaia)
 <!-- BLOG-POST-LIST:END -->
 
 ---
