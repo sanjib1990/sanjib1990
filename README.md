@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Payrails banks $14.4M for its OS for complex payments flows](https://techcrunch.com/2023/06/06/payrails-banks-14-4m-for-its-os-for-complex-payments-flows/)
 - [How SaaS sales platform Minoa meets growing need for remote collaboration](https://techcrunch.com/2023/06/06/how-saas-sales-platform-minoa-meets-growing-need-for-remote-collaboration/)
 - [TuSimple has started testing its self-driving truck tech in Japan](https://techcrunch.com/2023/06/06/tusimple-has-started-testing-its-self-driving-truck-tech-in-japan/)
 - [Edtech giant Byju’s launches transformer models in AI push](https://techcrunch.com/2023/06/06/edtech-giant-byjus-launches-transformer-models-in-ai-push/)
 - [GetHarley, a skincare telehealth and consultation platform, raises $52M](https://techcrunch.com/2023/06/06/getharley-a-skincare-telehealth-consultation-platform-raises-52m/)
-- [Apple’s AR headset is a game-changer for startups](https://techcrunch.com/2023/06/06/apple-vision-pro-startup-opportunity/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
