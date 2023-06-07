@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bonside launches with $4.35M to provide growth capital to brick-and-mortar businesses](https://techcrunch.com/2023/06/07/bonside-growth-capital-brick-and-mortar-fintech/)
+- [Mosaic raises $26M to help inform companies’ financial decisions](https://techcrunch.com/2023/06/07/mosaic-raises-26m-to-help-companies-make-financial-decisions/)
+- [Google launches new learning and consulting offers help enterprises on their AI journey](https://techcrunch.com/2023/06/07/google-launches-new-learning-and-consulting-offers-help-enterprises-on-their-ai-journey/)
+- [Google’s generative AI support in Vertex AI is now generally available](https://techcrunch.com/2023/06/07/googles-generative-ai-support-in-vertex-ai-is-now-generally-available/)
 - [Apple is making developer betas free and accesible to everyone](https://techcrunch.com/2023/06/07/apple-is-making-developer-betas-free-and-accesible-to-everyone/)
-- [Dark matter atoms may form shadowy galaxies with rapid star formation](https://www.space.com/dark-matter-atoms-form-stars-galaxies-simulations)
-- [Blush, the AI lover from the same team as Replika, is more than just a sexbot](https://techcrunch.com/2023/06/07/blush-ai-dating-sim-replika-sexbot/)
-- [Space pictures! See our image of the day](https://www.space.com/34-image-day.html)
-- [New Milky Way map reveals the magnificent messiness of our galaxy](https://www.space.com/map-milky-way-spiral-arms-gaia)
 <!-- BLOG-POST-LIST:END -->
 
 ---
