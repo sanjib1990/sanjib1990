@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Bonside launches with $4.35M to provide growth capital to brick-and-mortar businesses](https://techcrunch.com/2023/06/07/bonside-growth-capital-brick-and-mortar-fintech/)
-- [Mosaic raises $26M to help inform companies’ financial decisions](https://techcrunch.com/2023/06/07/mosaic-raises-26m-to-help-companies-make-financial-decisions/)
-- [Google launches new learning and consulting offers help enterprises on their AI journey](https://techcrunch.com/2023/06/07/google-launches-new-learning-and-consulting-offers-help-enterprises-on-their-ai-journey/)
-- [Google’s generative AI support in Vertex AI is now generally available](https://techcrunch.com/2023/06/07/googles-generative-ai-support-in-vertex-ai-is-now-generally-available/)
-- [Apple is making developer betas free and accesible to everyone](https://techcrunch.com/2023/06/07/apple-is-making-developer-betas-free-and-accesible-to-everyone/)
+- [Real estate is facing a climate crisis, but there might be a way through](https://techcrunch.com/2023/06/07/real-estate-climate-crisis/)
+- [&#39;The Expanse&#39; actor Cara Gee talks playing Drummer again in the upcoming The Expanse: A Telltale Series &lpar;Exclusive&rpar;](https://www.space.com/the-expanse-telltale-series-cara-gee-interview)
+- [OpenAI still not training GPT-5, Sam Altman says](https://techcrunch.com/2023/06/07/openai-gpt5-sam-altman/)
+- [Apple updates its App Store rules to crackdown on clones](https://techcrunch.com/2023/06/07/apple-updates-its-app-store-rules-to-crackdown-on-clones/)
+- [Google Cloud and Salesforce team up to bolster AI offerings](https://techcrunch.com/2023/06/07/google-cloud-and-salesforce-team-up-to-bolster-ai-offerings/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
