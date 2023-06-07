@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Atlanta Mayor Andre Dickens explains why tech companies are moving to the city](https://techcrunch.com/2023/06/07/atlanta-mayor-andre-dickens-explains-why-tech-companies-are-moving-to-the-city/)
-- [James Webb Space Telescope spots faintest galaxy yet in the infant universe &lpar;photo&rpar;](https://www.space.com/james-webb-space-telescope-faintest-galaxy-infant-universe)
-- [Google claims that Bard is improving at math and programming](https://techcrunch.com/2023/06/07/google-claims-that-bard-is-improving-at-math-and-programming/)
-- [Need to charge your EV? Apple Maps will show open spots near you](https://techcrunch.com/2023/06/07/need-to-charge-your-ev-apple-maps-will-show-open-spots-near-you/)
-- [Satellite photos show US East Coast engulfed by smoke from Canadian wildfires](https://www.space.com/satellite-photos-canada-wildfire-smoke-us-east-coast)
+- [What are Series A VCs looking for? Many seed investors aren’t so sure anymore](https://techcrunch.com/2023/06/07/series-a-venture-capital-rounds/)
+- [Atlanta investors are bullish on where the city’s startup scene is headed](https://techcrunch.com/2023/06/07/atlanta-investors-are-bullish-on-where-the-citys-startup-scene-is-headed/)
+- [Five fundamentals for creating an effective OKR process](https://techcrunch.com/2023/06/07/five-fundamentals-for-creating-an-effective-okr-process/)
+- [Why the economics of equality is key to Atlanta’s future](https://techcrunch.com/2023/06/07/why-the-economics-of-equality-is-key-to-atlantas-future/)
+- [Amazon is reportedly planning to launch an ad-supported tier on Prime Video](https://techcrunch.com/2023/06/07/amazon-prime-video-reportedly-plans-ad-supported-tier/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
