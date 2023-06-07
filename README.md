@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple’s new toolkit makes it easier for developers to bring Windows games to Mac](https://techcrunch.com/2023/06/07/apples-new-toolkit-easier-developers-bring-windows-games-mac/)
 - [Cava’s sensible IPO ambitions could spur more companies to go public](https://techcrunch.com/2023/06/07/cava-ipo-pricing-analysis/)
 - [NASA&#39;s sun-kissing Parker Solar Probe finds source of &#39;fast&#39; solar wind](https://www.space.com/parker-solar-probe-fast-solar-wind-source)
 - [DeepMind repurposes game-playing AIs to optimize code and infrastructure](https://techcrunch.com/2023/06/07/deepmind-repurposes-game-playing-ais-to-optimize-code-and-infrastructure/)
 - [Minecraft is releasing a new version for Chromebooks](https://techcrunch.com/2023/06/07/minecraft-is-releasing-a-new-version-for-chromebooks/)
-- [How I learned to &#39;walk on the moon&#39; while flying at 30,000 feet on a stomach-churning airplane ride &lpar;video&rpar;](https://www.space.com/lunar-gravity-parabolic-flight-experience)
 <!-- BLOG-POST-LIST:END -->
 
 ---
