@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitch backtracks on branded content changes after streamer backlash](https://techcrunch.com/2023/06/07/twitch-backtracks-on-changes-to-branded-content-rules-after-streamer-backlash/)
+- [Digibee raises $60M to help companies integrate their software apps](https://techcrunch.com/2023/06/07/digibee-raises-60m-to-help-companies-integrate-their-software-apps/)
+- [Nikola’s bid to increase shares stalls after failing to get enough shareholders to vote](https://techcrunch.com/2023/06/07/nikolas-bid-to-increase-shares-stalls-after-failing-to-get-enough-shareholders-to-vote/)
 - [Coinbase chief legal officer expects new crypto laws to come in wake of SEC lawsuits](https://techcrunch.com/2023/06/07/coinbase-crypto-laws-sec/)
 - [iOS 17 will connect your content subscriptions from apps to Apple Podcasts for exclusive benefits](https://techcrunch.com/2023/06/07/ios-17-will-connect-your-content-subscriptions-from-apps-to-apple-podcasts-for-exclusive-benefits/)
-- [Earth&#39;s highest, coldest, rarest clouds are back. How to see the eerie &#39;noctilucent clouds&#39; this summer.](https://www.space.com/noctilucent-clouds-night-shining-visibility-summer-2023)
-- [What are Series A VCs looking for? Many seed investors aren’t so sure anymore](https://techcrunch.com/2023/06/07/series-a-venture-capital-rounds/)
-- [Atlanta investors are bullish on where the city’s startup scene is headed](https://techcrunch.com/2023/06/07/atlanta-investors-are-bullish-on-where-the-citys-startup-scene-is-headed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
