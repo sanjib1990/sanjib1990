@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Coinbase chief legal officer expects new crypto laws to come in wake of SEC lawsuits](https://techcrunch.com/2023/06/07/coinbase-crypto-laws-sec/)
+- [iOS 17 will connect your content subscriptions from apps to Apple Podcasts for exclusive benefits](https://techcrunch.com/2023/06/07/ios-17-will-connect-your-content-subscriptions-from-apps-to-apple-podcasts-for-exclusive-benefits/)
+- [Earth&#39;s highest, coldest, rarest clouds are back. How to see the eerie &#39;noctilucent clouds&#39; this summer.](https://www.space.com/noctilucent-clouds-night-shining-visibility-summer-2023)
 - [What are Series A VCs looking for? Many seed investors aren’t so sure anymore](https://techcrunch.com/2023/06/07/series-a-venture-capital-rounds/)
 - [Atlanta investors are bullish on where the city’s startup scene is headed](https://techcrunch.com/2023/06/07/atlanta-investors-are-bullish-on-where-the-citys-startup-scene-is-headed/)
-- [Five fundamentals for creating an effective OKR process](https://techcrunch.com/2023/06/07/five-fundamentals-for-creating-an-effective-okr-process/)
-- [Why the economics of equality is key to Atlanta’s future](https://techcrunch.com/2023/06/07/why-the-economics-of-equality-is-key-to-atlantas-future/)
-- [Amazon is reportedly planning to launch an ad-supported tier on Prime Video](https://techcrunch.com/2023/06/07/amazon-prime-video-reportedly-plans-ad-supported-tier/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
