@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [What is Platform Engineering and how it fits into DevOps and Cloud world](https://www.youtube.com/watch?v=ghzsBm8vOms)
 - [Apple makes risky bet on VR/AR future](https://www.youtube.com/watch?v=Uc6lM1Aig9c)
 - [Java is mounting a huge comeback](https://www.youtube.com/watch?v=Ibjm2KHfymo)
 - [Ethernet &lpar;50th Birthday&rpar; - Computerphile](https://www.youtube.com/watch?v=TkOVgkcrvbg)
 - [21 Awesome Web Features you’re not using yet](https://www.youtube.com/watch?v=q1fsBWLpYW4)
-- [Worldcoin… the sh*tcoin for humanity?](https://www.youtube.com/watch?v=V4qrvoFodmo)
 <!-- YOUTUBE:END -->
 
 ---
