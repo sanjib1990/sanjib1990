@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Businesses will be able to accept IDs in Apple Wallet with iOS 17, among other changes](https://techcrunch.com/2023/06/07/business-will-be-able-to-accept-ids-in-apple-wallet-with-ios-17-among-other-changes/)
+- [Contextual AI launches from stealth to build enterprise-focused language models](https://techcrunch.com/2023/06/07/contextual-ai-launches-from-stealth-to-build-enterprise-focused-language-models/)
 - [Apple’s new toolkit makes it easier for developers to bring Windows games to Mac](https://techcrunch.com/2023/06/07/apples-new-toolkit-easier-developers-bring-windows-games-mac/)
 - [Cava’s sensible IPO ambitions could spur more companies to go public](https://techcrunch.com/2023/06/07/cava-ipo-pricing-analysis/)
 - [NASA&#39;s sun-kissing Parker Solar Probe finds source of &#39;fast&#39; solar wind](https://www.space.com/parker-solar-probe-fast-solar-wind-source)
-- [DeepMind repurposes game-playing AIs to optimize code and infrastructure](https://techcrunch.com/2023/06/07/deepmind-repurposes-game-playing-ais-to-optimize-code-and-infrastructure/)
-- [Minecraft is releasing a new version for Chromebooks](https://techcrunch.com/2023/06/07/minecraft-is-releasing-a-new-version-for-chromebooks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
