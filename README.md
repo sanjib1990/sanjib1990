@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Positive Ventures’ new impact fund will be triple its flagship fund](https://techcrunch.com/2023/06/07/positive-ventures-impact-fund-venture-capital/)
+- [How I learned to &#39;walk on the moon&#39; while flying at 30,000 feet on a stomach-churning airplane ride &lpar;video&rpar;](https://www.space.com/lunar-gravity-parabolic-flight-experience)
 - [Automattic launches an AI writing assistant for WordPress](https://techcrunch.com/2023/06/07/automattic-launches-an-ai-writing-assistant-for-wordpress/)
 - [Twitter increases window to edit tweets to one hour for Blue subscribers](https://techcrunch.com/2023/06/07/twitter-increases-window-to-edit-tweets-to-one-hour-for-blue-subscribers/)
 - [Strange star holds &#39;holy grail&#39; clues about unique supernova explosions in the early universe](https://www.space.com/strange-star-pair-instability-supernova-early-universe)
-- [Benchmark’s view on the AI race: talking with Miles Grimshaw](https://techcrunch.com/2023/06/06/benchmarks-view-on-the-ai-race-talking-with-miles-grimshaw/)
-- [Payrails banks $14.4M for its OS for complex payments flows](https://techcrunch.com/2023/06/06/payrails-banks-14-4m-for-its-os-for-complex-payments-flows/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
