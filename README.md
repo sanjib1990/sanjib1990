@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [EvenUp wants to automate personal injury settlements — to a point](https://techcrunch.com/2023/06/08/evenup-wants-to-automate-personal-injury-settlements-to-a-point/)
-- [Night Sky stargazing app review](https://www.space.com/night-sky-stargazing-app-review)
-- [Charting the future of the early-stage venture market with Carta’s CEO](https://techcrunch.com/2023/06/08/charting-the-future-of-the-early-stage-venture-market-with-cartas-ceo/)
-- [Aave’s Lens Protocol raises $15M to build the decentralized social web](https://techcrunch.com/2023/06/08/aaves-lens-protocol-raises-15m-to-build-the-decentralized-social-web/)
-- [Green Coffee Co. percolates on $25M to expand in Colombia, launch alcoholic beverages](https://techcrunch.com/2023/06/08/green-coffee-co-25m-colombia-foodtech/)
+- [Long space missions take a toll on astronaut brains, study finds](https://www.space.com/spaceflight-enlarge-cavities-astronaut-brains)
+- [Cloudflare co-founders will talk growth, changing markets and more on Disrupt’s SaaS Stage](https://techcrunch.com/2023/06/08/cloudfare-williams-zatlyn-saas-stage-techcrunch-disrupt-2023/)
+- [Transformers movies in order: Chronological and release](https://www.space.com/transformer-movies-in-order)
+- [Reddit makes an exception for accessibility apps under new API terms](https://techcrunch.com/2023/06/08/reddit-makes-an-exception-for-accessibility-apps-under-new-api-terms/)
+- [European startups on track to raise $51B this year, down 39% from 2022](https://techcrunch.com/2023/06/08/european-startup-funding-2023-trends/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
