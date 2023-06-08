@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Investors take note: Wildfire smoke will spark a surge in East Coast climate tech startups](https://techcrunch.com/2023/06/08/climate-investors-canada-wildfires/)
+- [Popular third-party Reddit app Apollo is shutting down as a result of Reddit’s new API pricing](https://techcrunch.com/2023/06/08/popular-third-party-reddit-app-apollo-is-shutting-down-as-a-result-of-reddits-new-api-pricing/)
+- [Mercedes first to sell vehicles in California with hands-free, eyes-off automated driving](https://techcrunch.com/2023/06/08/mercedes-first-to-sell-vehicles-in-california-with-hands-free-eyes-off-automated-driving/)
+- [Boeing sued for allegedly stealing intellectual property related to NASA&#39;s Artemis moon rocket](https://www.space.com/artemis-sls-boeing-intellectual-property-lawsuit)
 - [Bluesky’s growing pains strain its relationship with Black users](https://techcrunch.com/2023/06/08/blueskys-growing-pains-strain-relationship-with-its-black-community-moderation/)
-- [Toyota to spend $48M on new US-based EV battery lab](https://techcrunch.com/2023/06/08/toyota-to-spend-48m-on-new-us-based-ev-battery-lab/)
-- [North Korean hackers linked to Atomic Wallet crypto hack](https://techcrunch.com/2023/06/08/north-korean-hackers-linked-to-atomic-wallet-crypto-hack/)
-- [ChatGPT comes to iPad, adds support for Siri and Shortcuts](https://techcrunch.com/2023/06/08/chatgpt-comes-to-ipad-adds-support-for-siri-and-shortcuts/)
-- [How one software company is beating the SaaS growth blues](https://techcrunch.com/2023/06/08/samsara-earnings-analysis-saas/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
