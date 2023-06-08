@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GM follows Ford’s lead and adopts Tesla chargers](https://techcrunch.com/2023/06/08/gm-follows-fords-lead-and-adopts-tesla-chargers/)
+- [‘The Witcher’ Season 3 drops full trailer](https://techcrunch.com/2023/06/08/the-witcher-season-3-drops-full-trailer/)
+- [James Webb Space Telescope discovers 717 ancient galaxies that flooded the universe with 1st light](https://www.space.com/james-webb-space-telescope-galaxies-early-universe-first-light)
+- [Firefly buys Spaceflight Inc. to boost on-orbit services](https://techcrunch.com/2023/06/08/firefly-buys-spaceflight-inc-to-boost-on-orbit-services/)
 - [Pentagon confirms it&#39;s buying SpaceX Starlink services for Ukraine](https://www.space.com/pentagon-buying-spacex-starlink-services-ukraine)
-- [The Porsche Mission X dreams of a faster, electric sports car future](https://techcrunch.com/2023/06/08/the-porsche-mission-x-dreams-of-a-faster-electric-sports-car-future/)
-- [AI startup Cohere, now valued at over $2.1B, raises $270M](https://techcrunch.com/2023/06/08/ai-startup-cohere-now-valued-at-over-2-1b-raises-270m/)
-- [Canadian wildfire smoke dims the vision of Earth-observing satellites &lpar;photos&rpar;](https://www.space.com/canadian-wildfire-smoke-dim-vision-earth-observing-satellites)
-- [The SEC’s situationship with Binance and Coinbase keeps getting messier](https://techcrunch.com/2023/06/08/sec-situationship-binance-coinbase/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
