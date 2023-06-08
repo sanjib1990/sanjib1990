@@ -95,7 +95,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [How curbside pickup caused Wing to rethink its approach to drone delivery](https://techcrunch.com/2023/06/08/how-curbside-pickup-caused-wing-to-rethink-its-approach-to-drone-delivery/)
-- [How well are SaaS, e-commerce, fintech and healthtech startups doing in 2023?](https://techcrunch.com/2023/06/08/2555604/)
+- [How well are SaaS, e-commerce, fintech and health tech startups doing in 2023?](https://techcrunch.com/2023/06/08/2555604/)
 - [Galaxy group blasts out record-breaking tail of hot gas after gobbling up neighbor &lpar;video&rpar;](https://www.space.com/galaxy-hot-gas-tail-record-chandra)
 - [Carvana nirvana? Shorted stock surges 56% as company predicts record profits](https://techcrunch.com/2023/06/08/carvana-nirvana-shorted-stock-surges-56-as-company-predicts-record-profits/)
 - [GM follows Ford’s lead and adopts Tesla chargers](https://techcrunch.com/2023/06/08/gm-follows-fords-lead-and-adopts-tesla-chargers/)
