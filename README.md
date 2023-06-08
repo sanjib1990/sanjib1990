@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Space pictures! See our image of the day](https://www.space.com/34-image-day.html)
 - [Adobe brings Firefly to the enterprise](https://techcrunch.com/2023/06/08/adobe-brings-firefly-to-the-enterprise/)
 - [Brightest gamma-ray burst ever seen, the largest known explosion since Big Bang, has a unique jet structure unlike any other](https://www.space.com/boat-gamma-ray-burst-unique-structure)
 - [Repeated signals from the center of the Milky Way could be aliens saying hello, new study claims](https://www.space.com/signals-from-milky-way-center-breakthrough-listen-aliens-search)
 - [Nigeria’s Haul247 raises funding to scale its logistics platform](https://techcrunch.com/2023/06/08/nigerias-haul247-wants-to-be-africas-airbnb-for-trucks-and-warehouses/)
-- [Uber is taking its car-sharing service to North America](https://techcrunch.com/2023/06/08/uber-is-taking-its-car-sharing-service-to-north-america/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
