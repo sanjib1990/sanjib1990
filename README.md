@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [WhatsApp launches Channels feature for broadcast messages](https://techcrunch.com/2023/06/08/whatsapp-launches-channels-feature-for-broadcast-messages/)
 - [Segway partners with Drover AI, Luna to bring computer vision to e-scooters](https://techcrunch.com/2023/06/07/segway-partners-with-drover-ai-luna-to-bring-computer-vision-to-e-scooters/)
 - [Insify raises another $10.7 million for its business insurance startup](https://techcrunch.com/2023/06/07/insify-raises-another-107-million-for-its-business-insurance-startup/)
 - [Julie Wainwright is back with a new, venture-backed startup](https://techcrunch.com/2023/06/07/julie-wainwright-is-back-with-a-new-venture-backed-startup/)
 - [Layoffs hit rocket engine maker Ursa Major](https://techcrunch.com/2023/06/07/layoffs-hit-rocket-engine-maker-ursa-major/)
-- [Twitch backtracks on branded content changes after streamer backlash](https://techcrunch.com/2023/06/07/twitch-backtracks-on-changes-to-branded-content-rules-after-streamer-backlash/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
