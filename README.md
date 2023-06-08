@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [EvenUp wants to automate personal injury settlements — to a point](https://techcrunch.com/2023/06/08/evenup-wants-to-automate-personal-injury-settlements-to-a-point/)
+- [Night Sky stargazing app review](https://www.space.com/night-sky-stargazing-app-review)
+- [Charting the future of the early-stage venture market with Carta’s CEO](https://techcrunch.com/2023/06/08/charting-the-future-of-the-early-stage-venture-market-with-cartas-ceo/)
+- [Aave’s Lens Protocol raises $15M to build the decentralized social web](https://techcrunch.com/2023/06/08/aaves-lens-protocol-raises-15m-to-build-the-decentralized-social-web/)
 - [Green Coffee Co. percolates on $25M to expand in Colombia, launch alcoholic beverages](https://techcrunch.com/2023/06/08/green-coffee-co-25m-colombia-foodtech/)
-- [Oura launches new ‘Circles’ social feature to share your personal health journey](https://techcrunch.com/2023/06/08/oura-launches-new-circles-social-feature-to-share-your-personal-health-journey/)
-- [VC-backed boba chain Ume wants to pour into mainstream with surprise plushies](https://techcrunch.com/2023/06/08/vc-backed-boba-chain-ume-aims-to-pour-into-mainstream-with-plushies/)
-- [LinkedIn is the next social network to offer AI-powered tools for ad copies](https://techcrunch.com/2023/06/08/linkedin-is-the-next-social-network-to-offer-ai-powered-tools-for-ad-copies/)
-- [Pigment secures $88 million for its business planning tool that will make you forget about Excel](https://techcrunch.com/2023/06/08/pigment-secures-88-million-for-its-business-planning-tool-that-will-make-you-forget-about-excel/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
