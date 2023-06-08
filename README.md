@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pentagon confirms it&#39;s buying SpaceX Starlink services for Ukraine](https://www.space.com/pentagon-buying-spacex-starlink-services-ukraine)
+- [The Porsche Mission X dreams of a faster, electric sports car future](https://techcrunch.com/2023/06/08/the-porsche-mission-x-dreams-of-a-faster-electric-sports-car-future/)
+- [AI startup Cohere, now valued at over $2.1B, raises $270M](https://techcrunch.com/2023/06/08/ai-startup-cohere-now-valued-at-over-2-1b-raises-270m/)
+- [Canadian wildfire smoke dims the vision of Earth-observing satellites &lpar;photos&rpar;](https://www.space.com/canadian-wildfire-smoke-dim-vision-earth-observing-satellites)
 - [The SEC’s situationship with Binance and Coinbase keeps getting messier](https://techcrunch.com/2023/06/08/sec-situationship-binance-coinbase/)
-- [Winging it](https://techcrunch.com/2023/06/08/winging-it/)
-- [Investors take note: Wildfire smoke will spark a surge in East Coast climate tech startups](https://techcrunch.com/2023/06/08/climate-investors-canada-wildfires/)
-- [Popular third-party Reddit app Apollo is shutting down as a result of Reddit’s new API pricing](https://techcrunch.com/2023/06/08/popular-third-party-reddit-app-apollo-is-shutting-down-as-a-result-of-reddits-new-api-pricing/)
-- [Mercedes first to sell vehicles in California with hands-free, eyes-off automated driving](https://techcrunch.com/2023/06/08/mercedes-first-to-sell-vehicles-in-california-with-hands-free-eyes-off-automated-driving/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
