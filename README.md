@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Green Coffee Co. percolates on $25M to expand in Colombia, launch alcoholic beverages](https://techcrunch.com/2023/06/08/green-coffee-co-25m-colombia-foodtech/)
+- [Oura launches new ‘Circles’ social feature to share your personal health journey](https://techcrunch.com/2023/06/08/oura-launches-new-circles-social-feature-to-share-your-personal-health-journey/)
+- [VC-backed boba chain Ume wants to pour into mainstream with surprise plushies](https://techcrunch.com/2023/06/08/vc-backed-boba-chain-ume-aims-to-pour-into-mainstream-with-plushies/)
 - [LinkedIn is the next social network to offer AI-powered tools for ad copies](https://techcrunch.com/2023/06/08/linkedin-is-the-next-social-network-to-offer-ai-powered-tools-for-ad-copies/)
 - [Pigment secures $88 million for its business planning tool that will make you forget about Excel](https://techcrunch.com/2023/06/08/pigment-secures-88-million-for-its-business-planning-tool-that-will-make-you-forget-about-excel/)
-- [New tool &#39;cleans&#39; ever-increasing satellite trails from Hubble photos](https://www.space.com/new-tool-erase-satellite-trails-hubble-photos)
-- [UK’s AI safety summit gets thumbs up from tech giants](https://techcrunch.com/2023/06/08/uks-ai-safety-summit-gets-thumbs-up-from-tech-giants/)
-- [Space pictures! See our image of the day](https://www.space.com/34-image-day.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
