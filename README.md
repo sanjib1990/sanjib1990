@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Adobe brings Firefly to the enterprise](https://techcrunch.com/2023/06/08/adobe-brings-firefly-to-the-enterprise/)
+- [Brightest gamma-ray burst ever seen, the largest known explosion since Big Bang, has a unique jet structure unlike any other](https://www.space.com/boat-gamma-ray-burst-unique-structure)
+- [Repeated signals from the center of the Milky Way could be aliens saying hello, new study claims](https://www.space.com/signals-from-milky-way-center-breakthrough-listen-aliens-search)
+- [Nigeria’s Haul247 raises funding to scale its logistics platform](https://techcrunch.com/2023/06/08/nigerias-haul247-wants-to-be-africas-airbnb-for-trucks-and-warehouses/)
 - [Uber is taking its car-sharing service to North America](https://techcrunch.com/2023/06/08/uber-is-taking-its-car-sharing-service-to-north-america/)
-- [Uber toots its eco horn and gears up for big sustainability drive](https://techcrunch.com/2023/06/08/uber-toots-its-eco-horn-and-gears-up-for-major-sustainability-drive/)
-- [NASA&#39;s James Webb Space Telescope mission — Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
-- [WhatsApp launches Channels feature for broadcast messages](https://techcrunch.com/2023/06/08/whatsapp-launches-channels-feature-for-broadcast-messages/)
-- [Segway partners with Drover AI, Luna to bring computer vision to e-scooters](https://techcrunch.com/2023/06/07/segway-partners-with-drover-ai-luna-to-bring-computer-vision-to-e-scooters/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
