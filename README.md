@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta warned it faces ‘heavy sanctions’ in EU if it fails to fix child protection issues on Instagram](https://techcrunch.com/2023/06/08/meta-child-protection-dsa-warning/)
-- [Google’s Password Manager gains biometric authentication on desktop](https://techcrunch.com/2023/06/08/googles-password-manager-gains-biometric-authentication-on-desktop/)
-- [Long space missions take a toll on astronaut brains, study finds](https://www.space.com/spaceflight-enlarge-cavities-astronaut-brains)
-- [Cloudflare co-founders will talk growth, changing markets and more on Disrupt’s SaaS Stage](https://techcrunch.com/2023/06/08/cloudfare-williams-zatlyn-saas-stage-techcrunch-disrupt-2023/)
-- [Transformers movies in order: Chronological and release](https://www.space.com/transformer-movies-in-order)
+- [Bluesky’s growing pains strain its relationship with Black users](https://techcrunch.com/2023/06/08/blueskys-growing-pains-strain-relationship-with-its-black-community-moderation/)
+- [Toyota to spend $48M on new US-based EV battery lab](https://techcrunch.com/2023/06/08/toyota-to-spend-48m-on-new-us-based-ev-battery-lab/)
+- [North Korean hackers linked to Atomic Wallet crypto hack](https://techcrunch.com/2023/06/08/north-korean-hackers-linked-to-atomic-wallet-crypto-hack/)
+- [ChatGPT comes to iPad, adds support for Siri and Shortcuts](https://techcrunch.com/2023/06/08/chatgpt-comes-to-ipad-adds-support-for-siri-and-shortcuts/)
+- [How one software company is beating the SaaS growth blues](https://techcrunch.com/2023/06/08/samsara-earnings-analysis-saas/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
