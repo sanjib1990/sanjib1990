@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta warned it faces ‘heavy sanctions’ in EU if it fails to fix child protection issues on Instagram](https://techcrunch.com/2023/06/08/meta-child-protection-dsa-warning/)
+- [Google’s Password Manager gains biometric authentication on desktop](https://techcrunch.com/2023/06/08/googles-password-manager-gains-biometric-authentication-on-desktop/)
 - [Long space missions take a toll on astronaut brains, study finds](https://www.space.com/spaceflight-enlarge-cavities-astronaut-brains)
 - [Cloudflare co-founders will talk growth, changing markets and more on Disrupt’s SaaS Stage](https://techcrunch.com/2023/06/08/cloudfare-williams-zatlyn-saas-stage-techcrunch-disrupt-2023/)
 - [Transformers movies in order: Chronological and release](https://www.space.com/transformer-movies-in-order)
-- [Reddit makes an exception for accessibility apps under new API terms](https://techcrunch.com/2023/06/08/reddit-makes-an-exception-for-accessibility-apps-under-new-api-terms/)
-- [European startups on track to raise $51B this year, down 39% from 2022](https://techcrunch.com/2023/06/08/european-startup-funding-2023-trends/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
