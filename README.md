@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How curbside pickup caused Wing to rethink its approach to drone delivery](https://techcrunch.com/2023/06/08/how-curbside-pickup-caused-wing-to-rethink-its-approach-to-drone-delivery/)
+- [How well are SaaS, e-commerce, fintech and healthtech startups doing in 2023?](https://techcrunch.com/2023/06/08/2555604/)
+- [Galaxy group blasts out record-breaking tail of hot gas after gobbling up neighbor &lpar;video&rpar;](https://www.space.com/galaxy-hot-gas-tail-record-chandra)
+- [Carvana nirvana? Shorted stock surges 56% as company predicts record profits](https://techcrunch.com/2023/06/08/carvana-nirvana-shorted-stock-surges-56-as-company-predicts-record-profits/)
 - [GM follows Ford’s lead and adopts Tesla chargers](https://techcrunch.com/2023/06/08/gm-follows-fords-lead-and-adopts-tesla-chargers/)
-- [‘The Witcher’ Season 3 drops full trailer](https://techcrunch.com/2023/06/08/the-witcher-season-3-drops-full-trailer/)
-- [James Webb Space Telescope discovers 717 ancient galaxies that flooded the universe with 1st light](https://www.space.com/james-webb-space-telescope-galaxies-early-universe-first-light)
-- [Firefly buys Spaceflight Inc. to boost on-orbit services](https://techcrunch.com/2023/06/08/firefly-buys-spaceflight-inc-to-boost-on-orbit-services/)
-- [Pentagon confirms it&#39;s buying SpaceX Starlink services for Ukraine](https://www.space.com/pentagon-buying-spacex-starlink-services-ukraine)
 <!-- BLOG-POST-LIST:END -->
 
 ---
