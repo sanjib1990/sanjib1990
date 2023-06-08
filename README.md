@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Uber is taking its car-sharing service to North America](https://techcrunch.com/2023/06/08/uber-is-taking-its-car-sharing-service-to-north-america/)
+- [Uber toots its eco horn and gears up for big sustainability drive](https://techcrunch.com/2023/06/08/uber-toots-its-eco-horn-and-gears-up-for-major-sustainability-drive/)
+- [NASA&#39;s James Webb Space Telescope mission — Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
 - [WhatsApp launches Channels feature for broadcast messages](https://techcrunch.com/2023/06/08/whatsapp-launches-channels-feature-for-broadcast-messages/)
 - [Segway partners with Drover AI, Luna to bring computer vision to e-scooters](https://techcrunch.com/2023/06/07/segway-partners-with-drover-ai-luna-to-bring-computer-vision-to-e-scooters/)
-- [Insify raises another $10.7 million for its business insurance startup](https://techcrunch.com/2023/06/07/insify-raises-another-107-million-for-its-business-insurance-startup/)
-- [Julie Wainwright is back with a new, venture-backed startup](https://techcrunch.com/2023/06/07/julie-wainwright-is-back-with-a-new-venture-backed-startup/)
-- [Layoffs hit rocket engine maker Ursa Major](https://techcrunch.com/2023/06/07/layoffs-hit-rocket-engine-maker-ursa-major/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
