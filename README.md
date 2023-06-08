@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Segway partners with Drover AI, Luna to bring computer vision to e-scooters](https://techcrunch.com/2023/06/07/segway-partners-with-drover-ai-luna-to-bring-computer-vision-to-e-scooters/)
+- [Insify raises another $10.7 million for its business insurance startup](https://techcrunch.com/2023/06/07/insify-raises-another-107-million-for-its-business-insurance-startup/)
 - [Julie Wainwright is back with a new, venture-backed startup](https://techcrunch.com/2023/06/07/julie-wainwright-is-back-with-a-new-venture-backed-startup/)
 - [Layoffs hit rocket engine maker Ursa Major](https://techcrunch.com/2023/06/07/layoffs-hit-rocket-engine-maker-ursa-major/)
 - [Twitch backtracks on branded content changes after streamer backlash](https://techcrunch.com/2023/06/07/twitch-backtracks-on-changes-to-branded-content-rules-after-streamer-backlash/)
-- [Digibee raises $60M to help companies integrate their software apps](https://techcrunch.com/2023/06/07/digibee-raises-60m-to-help-companies-integrate-their-software-apps/)
-- [Nikola’s bid to increase shares stalls after failing to get enough shareholders to vote](https://techcrunch.com/2023/06/07/nikolas-bid-to-increase-shares-stalls-after-failing-to-get-enough-shareholders-to-vote/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
