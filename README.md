@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Julie Wainwright is back with a new, venture-backed startup](https://techcrunch.com/2023/06/07/julie-wainwright-is-back-with-a-new-venture-backed-startup/)
 - [Layoffs hit rocket engine maker Ursa Major](https://techcrunch.com/2023/06/07/layoffs-hit-rocket-engine-maker-ursa-major/)
 - [Twitch backtracks on branded content changes after streamer backlash](https://techcrunch.com/2023/06/07/twitch-backtracks-on-changes-to-branded-content-rules-after-streamer-backlash/)
 - [Digibee raises $60M to help companies integrate their software apps](https://techcrunch.com/2023/06/07/digibee-raises-60m-to-help-companies-integrate-their-software-apps/)
 - [Nikola’s bid to increase shares stalls after failing to get enough shareholders to vote](https://techcrunch.com/2023/06/07/nikolas-bid-to-increase-shares-stalls-after-failing-to-get-enough-shareholders-to-vote/)
-- [Coinbase chief legal officer expects new crypto laws to come in wake of SEC lawsuits](https://techcrunch.com/2023/06/07/coinbase-crypto-laws-sec/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
