@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The SEC’s situationship with Binance and Coinbase keeps getting messier](https://techcrunch.com/2023/06/08/sec-situationship-binance-coinbase/)
+- [Winging it](https://techcrunch.com/2023/06/08/winging-it/)
 - [Investors take note: Wildfire smoke will spark a surge in East Coast climate tech startups](https://techcrunch.com/2023/06/08/climate-investors-canada-wildfires/)
 - [Popular third-party Reddit app Apollo is shutting down as a result of Reddit’s new API pricing](https://techcrunch.com/2023/06/08/popular-third-party-reddit-app-apollo-is-shutting-down-as-a-result-of-reddits-new-api-pricing/)
 - [Mercedes first to sell vehicles in California with hands-free, eyes-off automated driving](https://techcrunch.com/2023/06/08/mercedes-first-to-sell-vehicles-in-california-with-hands-free-eyes-off-automated-driving/)
-- [Boeing sued for allegedly stealing intellectual property related to NASA&#39;s Artemis moon rocket](https://www.space.com/artemis-sls-boeing-intellectual-property-lawsuit)
-- [Bluesky’s growing pains strain its relationship with Black users](https://techcrunch.com/2023/06/08/blueskys-growing-pains-strain-relationship-with-its-black-community-moderation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
