@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Another huge US medical data breach confirmed after Fortra mass-hack](https://techcrunch.com/2023/06/09/intellihartx-data-breach-fortra-ransomware/)
 - [Will Artemis astronauts look for life on the moon?](https://www.space.com/artemis-astronauts-search-life-on-moon)
 - [Nanoblock reveals new space model kits created with astronaut&#39;s advice](https://www.space.com/nanoblock-space-series-astronaut-naoko-yamazaki)
 - [Meta to appeal court ruling declaring content moderators as its employees](https://techcrunch.com/2023/06/09/meta-to-appeal-court-ruling-declaring-content-moderatos-as-its-employees/)
 - [Spotify is officially testing an offline mix](https://techcrunch.com/2023/06/09/spotify-is-officially-testing-an-offline-mix/)
-- [NASA&#39;s James Webb Space Telescope mission — Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
