@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Sol Reader is a VR headset exclusively for reading books](https://techcrunch.com/2023/06/09/sol-reader/)
-- [Space pictures! See our image of the day](https://www.space.com/34-image-day.html)
-- [What’s being built in generative AI today?](https://techcrunch.com/2023/06/09/whats-being-built-in-generative-ai-today/)
-- [Hear how Chronosphere is reinventing cloud observability on TechCrunch Live](https://techcrunch.com/2023/06/09/hear-how-chronosphere-is-reinventing-cloud-observability-on-techcrunch-live/)
-- [Meta previews generative AI tools coming to WhatsApp, Messenger and Instagram, plus internal AI tools](https://techcrunch.com/2023/06/09/meta-previews-generative-ai-tools-coming-to-whatsapp-messenger-and-instagram-plus-internal-ai-tools/)
+- [Age of AI: Everything you need to know about artificial intelligence](https://techcrunch.com/2023/06/09/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/)
+- [GM and Ford could help spark a charging standards war by teaming up with Tesla](https://techcrunch.com/2023/06/09/gm-tesla-charging-standard/)
+- [US DoJ charges two Russians for hacking crypto exchange Mt. Gox](https://techcrunch.com/2023/06/09/us-doj-charges-two-russians-for-hacking-crypto-exchange-mt-gox/)
+- [See new supernova shine bright in stunning Pinwheel Galaxy photo](https://www.space.com/new-supernova-photo-pinwheel-galaxy-noirlab)
+- [Lordstown Motors plans to sue its one-time savior Foxconn](https://techcrunch.com/2023/06/09/lordstown-motors-plans-to-sue-its-one-time-savior-foxconn/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
