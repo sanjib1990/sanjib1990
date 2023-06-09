@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla’s Supercharger network will strain under the weight of GM and Ford deals](https://techcrunch.com/2023/06/09/tesla-supercharger-network-strain/)
-- [Netflix sees jump in subs as it begins to curb password sharing in US, says report](https://techcrunch.com/2023/06/09/netflix-sees-jump-in-subs-as-it-begins-to-curb-password-sharing-in-u-s-says-report/)
-- [Age of AI: Everything you need to know about artificial intelligence](https://techcrunch.com/2023/06/09/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/)
-- [GM and Ford could help spark a charging standards war by teaming up with Tesla](https://techcrunch.com/2023/06/09/gm-tesla-charging-standard/)
-- [US DoJ charges two Russians for hacking crypto exchange Mt. Gox](https://techcrunch.com/2023/06/09/us-doj-charges-two-russians-for-hacking-crypto-exchange-mt-gox/)
+- [Carvana crashes back down to earth](https://techcrunch.com/2023/06/09/carvana-crashes-back-down-to-earth/)
+- [FIS acquires fintech infrastructure startup Bond](https://techcrunch.com/2023/06/09/fis-acquires-fintech-infrastructure-startup-bond/)
+- [&#39;Marvel Anatomy&#39; takes you inside your favorite aliens and superheroes](https://www.space.com/marvel-anatomy-book-superhero-insides)
+- [NASA astronauts deploy 5th roll-out solar array on spacewalk outside space station &lpar;video&rpar;](https://www.space.com/astronauts-spacewalk-international-space-station-fifth-solar-array-deployed)
+- [Blue owned the consumer podcast mic market – now the brand is being phased out](https://techcrunch.com/2023/06/09/blue-owned-the-consumer-podcast-mic-market-now-the-brand-is-being-phased-out/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
