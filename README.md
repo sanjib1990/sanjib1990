@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sol Reader is a VR headset exclusively for reading books](https://techcrunch.com/2023/06/09/sol-reader/)
+- [Space pictures! See our image of the day](https://www.space.com/34-image-day.html)
 - [What’s being built in generative AI today?](https://techcrunch.com/2023/06/09/whats-being-built-in-generative-ai-today/)
 - [Hear how Chronosphere is reinventing cloud observability on TechCrunch Live](https://techcrunch.com/2023/06/09/hear-how-chronosphere-is-reinventing-cloud-observability-on-techcrunch-live/)
 - [Meta previews generative AI tools coming to WhatsApp, Messenger and Instagram, plus internal AI tools](https://techcrunch.com/2023/06/09/meta-previews-generative-ai-tools-coming-to-whatsapp-messenger-and-instagram-plus-internal-ai-tools/)
-- [Pitch Deck Teardown: CulturePulse’s $1M seed deck](https://techcrunch.com/2023/06/09/sample-seed-pitch-deck-culturepulse/)
-- [Downsized? Get a free Expo Pass to TechCrunch Disrupt 2023](https://techcrunch.com/2023/06/09/free-expo-plus-pass-laid-off-downsized-techcrunch-disrupt-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
