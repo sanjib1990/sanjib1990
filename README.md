@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What’s being built in generative AI today?](https://techcrunch.com/2023/06/09/whats-being-built-in-generative-ai-today/)
+- [Hear how Chronosphere is reinventing cloud observability on TechCrunch Live](https://techcrunch.com/2023/06/09/hear-how-chronosphere-is-reinventing-cloud-observability-on-techcrunch-live/)
+- [Meta previews generative AI tools coming to WhatsApp, Messenger and Instagram, plus internal AI tools](https://techcrunch.com/2023/06/09/meta-previews-generative-ai-tools-coming-to-whatsapp-messenger-and-instagram-plus-internal-ai-tools/)
 - [Pitch Deck Teardown: CulturePulse’s $1M seed deck](https://techcrunch.com/2023/06/09/sample-seed-pitch-deck-culturepulse/)
 - [Downsized? Get a free Expo Pass to TechCrunch Disrupt 2023](https://techcrunch.com/2023/06/09/free-expo-plus-pass-laid-off-downsized-techcrunch-disrupt-2023/)
-- [Sequoia does to itself what the Biden administration wants to do with Google](https://techcrunch.com/2023/06/09/sequoia-does-to-itself-what-the-biden-administration-wants-to-do-with-google/)
-- [Putting the ‘Pro’ in Apple Vision Pro and other TC news](https://techcrunch.com/2023/06/09/putting-the-pro-in-apple-vision-pro-and-other-tc-news/)
-- [Disney’s Hotstar to offer free mobile cricket streaming in India to take on Reliance’s JioCinema](https://techcrunch.com/2023/06/09/disney-hotstar-free-mobile-cricket-streaming-jiocinema/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
