@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Runway’s Gen-2 shows the limitations of today’s text-to-video tech](https://techcrunch.com/2023/06/09/runways-gen-2-shows-the-limitations-of-todays-text-to-video-tech/)
+- [Watch the moon snuggle up to Saturn in the night sky late tonight](https://www.space.com/moon-saturn-conjunction-june-2023)
+- [Barracuda urges customers to remove and replace vulnerable hardware exploited by hackers](https://techcrunch.com/2023/06/09/barracuda-rip-out-replace-hardware-exploited-by-hackers/)
 - [Another huge US medical data breach confirmed after Fortra mass-hack](https://techcrunch.com/2023/06/09/intellihartx-data-breach-fortra-ransomware/)
 - [Will Artemis astronauts look for life on the moon?](https://www.space.com/artemis-astronauts-search-life-on-moon)
-- [Nanoblock reveals new space model kits created with astronaut&#39;s advice](https://www.space.com/nanoblock-space-series-astronaut-naoko-yamazaki)
-- [Meta to appeal court ruling declaring content moderators as its employees](https://techcrunch.com/2023/06/09/meta-to-appeal-court-ruling-declaring-content-moderatos-as-its-employees/)
-- [Spotify is officially testing an offline mix](https://techcrunch.com/2023/06/09/spotify-is-officially-testing-an-offline-mix/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
