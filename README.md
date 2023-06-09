@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Disney’s Hotstar to offer free mobile cricket streaming in India to take on Reliance’s JioCinema](https://techcrunch.com/2023/06/09/disney-hotstar-free-mobile-cricket-streaming-jiocinema/)
+- [Nocnoc opens door to quicker setup of cross-border e-commerce in Latin America](https://techcrunch.com/2023/06/09/nocnoc-cross-border-e-commerce-latin-america/)
+- [SpaceX Dragon breaks 2 space shuttle orbital records](https://www.space.com/spacex-dragon-breaks-space-shuttle-records)
+- [Apple’s Vision Pro reignites excitement in China’s XR world](https://techcrunch.com/2023/06/09/apples-vision-pro-launch-reignites-excitement-in-chinas-xr-world/)
 - [Runway’s Gen-2 shows the limitations of today’s text-to-video tech](https://techcrunch.com/2023/06/09/runways-gen-2-shows-the-limitations-of-todays-text-to-video-tech/)
-- [Watch the moon snuggle up to Saturn in the night sky late tonight](https://www.space.com/moon-saturn-conjunction-june-2023)
-- [Barracuda urges customers to remove and replace vulnerable hardware exploited by hackers](https://techcrunch.com/2023/06/09/barracuda-rip-out-replace-hardware-exploited-by-hackers/)
-- [Another huge US medical data breach confirmed after Fortra mass-hack](https://techcrunch.com/2023/06/09/intellihartx-data-breach-fortra-ransomware/)
-- [Will Artemis astronauts look for life on the moon?](https://www.space.com/artemis-astronauts-search-life-on-moon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
