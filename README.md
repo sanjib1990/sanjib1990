@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sequoia does to itself what the Biden administration wants to do with Google](https://techcrunch.com/2023/06/09/sequoia-does-to-itself-what-the-biden-administration-wants-to-do-with-google/)
+- [Putting the ‘Pro’ in Apple Vision Pro and other TC news](https://techcrunch.com/2023/06/09/putting-the-pro-in-apple-vision-pro-and-other-tc-news/)
 - [Disney’s Hotstar to offer free mobile cricket streaming in India to take on Reliance’s JioCinema](https://techcrunch.com/2023/06/09/disney-hotstar-free-mobile-cricket-streaming-jiocinema/)
 - [Nocnoc opens door to quicker setup of cross-border e-commerce in Latin America](https://techcrunch.com/2023/06/09/nocnoc-cross-border-e-commerce-latin-america/)
 - [SpaceX Dragon breaks 2 space shuttle orbital records](https://www.space.com/spacex-dragon-breaks-space-shuttle-records)
-- [Apple’s Vision Pro reignites excitement in China’s XR world](https://techcrunch.com/2023/06/09/apples-vision-pro-launch-reignites-excitement-in-chinas-xr-world/)
-- [Runway’s Gen-2 shows the limitations of today’s text-to-video tech](https://techcrunch.com/2023/06/09/runways-gen-2-shows-the-limitations-of-todays-text-to-video-tech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
