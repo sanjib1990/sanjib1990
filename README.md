@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Shell Recharge security lapse exposed EV drivers’ data](https://techcrunch.com/2023/06/09/shell-recharge-security-lapse-exposed-drivers-data/)
-- [Peakview, a U.S. LP once solely backed by a Chinese firm, further diversifies its investor base](https://techcrunch.com/2023/06/08/china_funds_venture_peakview/)
-- [Cultured meat startup Higher Steaks nabs $30M and rebrands as Uncommon](https://techcrunch.com/2023/06/08/higher-steaks-rebrands-as-uncommon-and-nabs-30m/)
-- [How curbside pickup caused Wing to rethink its approach to drone delivery](https://techcrunch.com/2023/06/08/how-curbside-pickup-caused-wing-to-rethink-its-approach-to-drone-delivery/)
-- [How well are SaaS, e-commerce, fintech and health tech startups doing in 2023?](https://techcrunch.com/2023/06/08/2555604/)
+- [Will Artemis astronauts look for life on the moon?](https://www.space.com/artemis-astronauts-search-life-on-moon)
+- [Nanoblock reveals new space model kits created with astronaut&#39;s advice](https://www.space.com/nanoblock-space-series-astronaut-naoko-yamazaki)
+- [Meta to appeal court ruling declaring content moderators as its employees](https://techcrunch.com/2023/06/09/meta-to-appeal-court-ruling-declaring-content-moderatos-as-its-employees/)
+- [Spotify is officially testing an offline mix](https://techcrunch.com/2023/06/09/spotify-is-officially-testing-an-offline-mix/)
+- [NASA&#39;s James Webb Space Telescope mission — Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
