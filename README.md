@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Peakview, a U.S. LP once backed by a Chinese firm, diversifies its own investor base](https://techcrunch.com/2023/06/08/china_funds_venture_peakview/)
+- [Peakview, a U.S. LP once solely backed by a Chinese firm, further diversifies its investor base](https://techcrunch.com/2023/06/08/china_funds_venture_peakview/)
 - [Cultured meat startup Higher Steaks nabs $30M and rebrands as Uncommon](https://techcrunch.com/2023/06/08/higher-steaks-rebrands-as-uncommon-and-nabs-30m/)
 - [How curbside pickup caused Wing to rethink its approach to drone delivery](https://techcrunch.com/2023/06/08/how-curbside-pickup-caused-wing-to-rethink-its-approach-to-drone-delivery/)
 - [How well are SaaS, e-commerce, fintech and health tech startups doing in 2023?](https://techcrunch.com/2023/06/08/2555604/)
