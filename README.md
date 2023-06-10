@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Can AI make older adults feel less lonely?](https://techcrunch.com/2023/06/10/ai-older-adults-loneliness/)
 - [Secure your startup’s future by watching the big corporations](https://techcrunch.com/2023/06/10/secure-your-startups-future-by-watching-the-big-corporations/)
 - [Deal Dive: Finally, a startup building a network for those who could benefit the most](https://techcrunch.com/2023/06/10/deal-dive-2045-community-startups/)
 - [This week in foodtech: Cultivated meat is still a sizzling topic](https://techcrunch.com/2023/06/10/foodtech-cultivated-meat-coffee-nutrition/)
 - [A chaotic star is inching toward a violent death as astronomers watch in real-time](https://www.space.com/chaotic-star-wolf-rayet-supernova)
-- [Catch a glimpse of the half-lit moon in its third quarter phase today](https://www.space.com/third-quarter-moon-june-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
