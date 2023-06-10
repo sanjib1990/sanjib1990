@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A chaotic star is inching toward a violent death as astronomers watch in real-time](https://www.space.com/chaotic-star-wolf-rayet-supernova)
+- [Catch a glimpse of the half-lit moon in its third quarter phase today](https://www.space.com/third-quarter-moon-june-2023)
+- [How do Mars rocks and riverbeds get their names? NASA explains &lpar;video&rpar;](https://www.space.com/how-nasa-names-mars-features-curiosity-perseverance-video)
+- [China breaks its rideshare record with 26-satellite launch &lpar;video&rpar;](https://www.space.com/china-lijian-1-rocket-26-satellite-launch)
 - [NASA begins 60th round of space artifact awards for schools, museums](https://www.space.com/nasa-space-artifacts-museums-schools)
-- [Reddit CEO doubles down on attack on Apollo developer in drama-filled AMA](https://techcrunch.com/2023/06/09/reddit-ceo-doubles-down-on-attack-on-apollo-developer-in-drama-filled-ama/)
-- [China wants to launch a moon-orbiting telescope array as soon as 2026](https://www.space.com/china-moon-orbiting-radio-telescope-2026)
-- [Carvana crashes back down to earth](https://techcrunch.com/2023/06/09/carvana-crashes-back-down-to-earth/)
-- [FIS acquires banking-as-a-service startup Bond](https://techcrunch.com/2023/06/09/fis-acquires-fintech-infrastructure-startup-bond/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
