@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA begins 60th round of space artifact awards for schools, museums](https://www.space.com/nasa-space-artifacts-museums-schools)
 - [Reddit CEO doubles down on attack on Apollo developer in drama-filled AMA](https://techcrunch.com/2023/06/09/reddit-ceo-doubles-down-on-attack-on-apollo-developer-in-drama-filled-ama/)
 - [China wants to launch a moon-orbiting telescope array as soon as 2026](https://www.space.com/china-moon-orbiting-radio-telescope-2026)
 - [Carvana crashes back down to earth](https://techcrunch.com/2023/06/09/carvana-crashes-back-down-to-earth/)
 - [FIS acquires banking-as-a-service startup Bond](https://techcrunch.com/2023/06/09/fis-acquires-fintech-infrastructure-startup-bond/)
-- [&#39;Marvel Anatomy&#39; takes you inside your favorite aliens and superheroes](https://www.space.com/marvel-anatomy-book-superhero-insides)
 <!-- BLOG-POST-LIST:END -->
 
 ---
