@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla fuels an EV charging standards war](https://techcrunch.com/2023/06/11/tesla-fuels-an-ev-charging-standards-war/)
 - [Here are the most richly valued startup types in today’s early-stage venture market](https://techcrunch.com/2023/06/11/valued-startups-in-venture-market/)
 - [FIS acquires, and Better.com lays off](https://techcrunch.com/2023/06/11/consolidation-continues-in-world-of-fintech/)
 - [Ethereal &#39;halo&#39; and light arcs around the sun captured in photos of ultra-rare phenomena](https://www.space.com/ethereal-halo-sun-light-arcs-photos)
 - [&#39;Star Wars&#39; spinoff &#39;Ahsoka&#39; to premiere on Disney Plus on Aug. 23](https://www.space.com/ahsoka-star-wars-tv-show-premiere-date)
-- [See the stars of the Spring Triangle reach high in the sky this month](https://www.space.com/spring-triangle-stars-realm-of-the-galaxies)
 <!-- BLOG-POST-LIST:END -->
 
 ---
