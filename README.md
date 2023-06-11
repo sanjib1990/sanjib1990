@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New Pentagon-funded hypersonic test vehicle could fly in summer 2024](https://www.space.com/new-hypersonic-test-vehicle-2024-flight-pentagon-funding)
+- [Watch SpaceX launch 53 Starlink satellites early Monday](https://www.space.com/spacex-starlink-launch-group-5-11)
 - [Tiki, a popular short video app in India, to shut down](https://techcrunch.com/2023/06/11/tiki-india/)
 - [Apple unveils the Vision Pro, iOS 17 brings new features, and WhatsApp launches Channels](https://techcrunch.com/2023/06/10/apple-unveils-the-vision-pro-ios-17-brings-new-features-and-whatsapp-launches-channels/)
 - [Can AI make older adults feel less lonely?](https://techcrunch.com/2023/06/10/ai-older-adults-loneliness/)
-- [Secure your startup’s future by watching the big corporations](https://techcrunch.com/2023/06/10/secure-your-startups-future-by-watching-the-big-corporations/)
-- [Deal Dive: Finally, a startup building a network for those who could benefit the most](https://techcrunch.com/2023/06/10/deal-dive-2045-community-startups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
