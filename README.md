@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloud cost management startup CloudZero lands $32M investment](https://techcrunch.com/2023/06/12/cloud-cost-management-startup-cloudzero-lands-32m-investment/)
-- [Salesforce launches AI Cloud to bring models to the enterprise](https://techcrunch.com/2023/06/12/salesforce-launches-ai-cloud-to-bring-models-to-the-enterprise/)
-- [Navan takes a swipe at expense management startups with new Mastercard and Visa partnerships](https://techcrunch.com/2023/06/12/navan-takes-a-swipe-at-expense-management-startups-with-new-mastercard-and-visa-partnerships/)
-- [Stephen Hawking&#39;s most famous prediction could mean that everything in the universe is doomed to evaporate, new study says](https://www.space.com/stephen-hawking-famous-prediction-universe-doomed-evaporate)
-- [Nasdaq to acquire financial services software company Adenza from Thoma Bravo for $10.5B](https://techcrunch.com/2023/06/12/nasdaq-to-acquire-financial-services-software-company-adenza-from-thoma-bravo-for-10-5b/)
+- [Apple 15-inch M2 MacBook Air review](https://techcrunch.com/2023/06/12/apple-15-inch-m2-macbook-air-review/)
+- [OpenAI, DeepMind and Anthropic to give UK early access to foundational models for AI safety research](https://techcrunch.com/2023/06/12/uk-ai-safety-research-pledge/)
+- [Slack’s Cal Henderson and Sir Richard Branson back firstminute Capital’s third fund](https://techcrunch.com/2023/06/12/slacks-cal-henderson-and-sir-richard-branson-back-firstminute-capitals-third-fund/)
+- [Oova grabs another $10.3M, unveils membership model for at-home fertility testing](https://techcrunch.com/2023/06/12/oova-10-3m-at-home-fertility-testing-healthcare/)
+- [All the things Apple Sherlocked at WWDC 2023](https://techcrunch.com/2023/06/12/all-the-things-apple-sherlocked-at-wwdc-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
