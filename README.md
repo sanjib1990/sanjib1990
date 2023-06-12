@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Reddit goes down just as a site-wide protest against its unpopular new API policy kicks off](https://techcrunch.com/2023/06/12/reddit-goes-down-just-as-a-site-wide-protest-against-its-unpopular-new-api-policy-kicks-off/)
+- [You can now share music on Instagram Notes, plus view translations](https://techcrunch.com/2023/06/12/you-can-now-share-music-on-instagram-notes-plus-view-translations/)
+- [VCs remain confident alternative protein has a real future despite public-market woes](https://techcrunch.com/2023/06/12/alt-protein-survey/)
 - [Scientists beam solar power to Earth from space for 1st time ever](https://www.space.com/space-solar-power-satellite-beams-energy-1st-time)
 - [Rex’s new app makes it easy to discover and share recommended places with friends](https://techcrunch.com/2023/06/12/rexs-new-app-makes-it-easy-to-discover-and-share-recommended-places-with-friends/)
-- [NASA app review](https://www.space.com/nasa-app-review)
-- [ABB buys smart home device maker, Eve Systems](https://techcrunch.com/2023/06/12/abb-buys-smart-home-device-maker-eve-systems/)
-- [Space pictures! See our image of the day](https://www.space.com/34-image-day.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
