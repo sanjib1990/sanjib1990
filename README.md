@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Percepto flies high with $67M for its industrial drones](https://techcrunch.com/2023/06/12/percepto-flies-high-with-67m-for-its-industrial-drones/)
-- [Former Samsung exec accused of stealing data to build copycat chip plant in China](https://techcrunch.com/2023/06/12/former-samsung-exec-accused-of-stealing-data-to-build-copycat-chip-plant-in-china/)
-- [Watch SpaceX launch its 2nd mission of the day this afternoon](https://www.space.com/spacex-transporter-8-launch-72-satellites)
-- [Brilliant gamma-ray flare 100 times brighter than our entire galaxy reveals 1 monster black hole is actually 2](https://www.space.com/gamma-ray-flare-monster-black-holes-oj-287)
-- [London lures a16z’s first international office with ‘predictable’ crypto regs](https://techcrunch.com/2023/06/12/london-lures-a16zs-first-international-office-with-predictable-crypto-regs/)
+- [Cloud cost management startup CloudZero lands $32M investment](https://techcrunch.com/2023/06/12/cloud-cost-management-startup-cloudzero-lands-32m-investment/)
+- [Salesforce launches AI Cloud to bring models to the enterprise](https://techcrunch.com/2023/06/12/salesforce-launches-ai-cloud-to-bring-models-to-the-enterprise/)
+- [Navan takes a swipe at expense management startups with new Mastercard and Visa partnerships](https://techcrunch.com/2023/06/12/navan-takes-a-swipe-at-expense-management-startups-with-new-mastercard-and-visa-partnerships/)
+- [Stephen Hawking&#39;s most famous prediction could mean that everything in the universe is doomed to evaporate, new study says](https://www.space.com/stephen-hawking-famous-prediction-universe-doomed-evaporate)
+- [Nasdaq to acquire financial services software company Adenza from Thoma Bravo for $10.5B](https://techcrunch.com/2023/06/12/nasdaq-to-acquire-financial-services-software-company-adenza-from-thoma-bravo-for-10-5b/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
