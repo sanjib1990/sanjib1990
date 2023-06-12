@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [New Tatooine-like exoplanet found orbiting twin suns](https://www.space.com/tatooine-exoplanet-binary-systeim-twin-suns)
-- [Paid acquisition: The #1 way to find product-market fit](https://techcrunch.com/2023/06/12/paid-acquisition-the-1-way-to-find-product-market-fit/)
-- [Apple M2 Ultra Mac Studio: Same shell, more firepower](https://techcrunch.com/2023/06/12/apple-m2-ultra-mac-studio-same-shell-far-more-firepower/)
-- [Hyper raises $3.6M from Amazon and more for its iPhone-based, VTuber-friendly avatar platform](https://techcrunch.com/2023/06/12/hyper-raises-3-6m-from-amazon-and-more-for-its-iphone-based-vtuber-friendly-avatar-platform/)
-- [Cava boosts its IPO price range, highlighting appetite for growth stories](https://techcrunch.com/2023/06/12/cava-hikes-ipo-price-range/)
+- [See where six crypto whales’ wallets are putting their assets](https://techcrunch.com/2023/06/12/crypto-whales-wallets-assets/)
+- [Amazon Freevee to get 23 free ad-supported TV channels, including ‘Cake Boss,’ ‘Say Yes to the Dress’ and more](https://techcrunch.com/2023/06/12/amazon-freevee-to-get-23-free-ad-supported-tv-channels/)
+- [EV charger networks are turning to Tesla standard as support accelerates](https://techcrunch.com/2023/06/12/ev-charger-networks-are-turning-to-tesla-standard-as-support-accelerates/)
+- [Earth is getting hotter at a faster rate despite pledges of government action](https://www.space.com/climate-warming-speeding-up-despite-pledges)
+- [Wow! Amazing video shows ISS crossing the sun&#39;s face during a spacewalk](https://www.space.com/space-station-crossing-sun-during-spacewalk-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
