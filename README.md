@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New Tatooine-like exoplanet found orbiting twin suns](https://www.space.com/tatooine-exoplanet-binary-systeim-twin-suns)
+- [Paid acquisition: The #1 way to find product-market fit](https://techcrunch.com/2023/06/12/paid-acquisition-the-1-way-to-find-product-market-fit/)
 - [Apple M2 Ultra Mac Studio: Same shell, more firepower](https://techcrunch.com/2023/06/12/apple-m2-ultra-mac-studio-same-shell-far-more-firepower/)
 - [Hyper raises $3.6M from Amazon and more for its iPhone-based, VTuber-friendly avatar platform](https://techcrunch.com/2023/06/12/hyper-raises-3-6m-from-amazon-and-more-for-its-iphone-based-vtuber-friendly-avatar-platform/)
 - [Cava boosts its IPO price range, highlighting appetite for growth stories](https://techcrunch.com/2023/06/12/cava-hikes-ipo-price-range/)
-- [Meta open sources an AI-powered music generator](https://techcrunch.com/2023/06/12/meta-open-sources-an-ai-powered-music-generator/)
-- [Reddit goes down just as a site-wide protest against its unpopular new API policy kicks off](https://techcrunch.com/2023/06/12/reddit-goes-down-just-as-a-site-wide-protest-against-its-unpopular-new-api-policy-kicks-off/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
