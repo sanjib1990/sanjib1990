@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Space Force chooses SpaceX, ULA for 12 military launches in 2025](https://www.space.com/space-force-spacex-ula-launch-contracts-2025)
+- [Space food: Why Mars astronauts won&#39;t have to hold the fries &lpar;video&rpar;](https://www.space.com/space-food-frying-works-microgravity)
 - [See where six crypto whales’ wallets are putting their assets](https://techcrunch.com/2023/06/12/crypto-whales-wallets-assets/)
 - [Amazon Freevee to get 23 free ad-supported TV channels, including ‘Cake Boss,’ ‘Say Yes to the Dress’ and more](https://techcrunch.com/2023/06/12/amazon-freevee-to-get-23-free-ad-supported-tv-channels/)
-- [EV charger networks are turning to Tesla standard as support accelerates](https://techcrunch.com/2023/06/12/ev-charger-networks-are-turning-to-tesla-standard-as-support-accelerates/)
-- [Earth is getting hotter at a faster rate despite pledges of government action](https://www.space.com/climate-warming-speeding-up-despite-pledges)
-- [Wow! Amazing video shows ISS crossing the sun&#39;s face during a spacewalk](https://www.space.com/space-station-crossing-sun-during-spacewalk-video)
+- [Hubble telescope reels in gorgeous, star-spawning cosmic jellyfish &lpar;photo&rpar;](https://www.space.com/hubble-telescope-jellyfish-galaxy-star-formation-photo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
