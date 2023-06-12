@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple 15-inch M2 MacBook Air review](https://techcrunch.com/2023/06/12/apple-15-inch-m2-macbook-air-review/)
-- [OpenAI, DeepMind and Anthropic to give UK early access to foundational models for AI safety research](https://techcrunch.com/2023/06/12/uk-ai-safety-research-pledge/)
-- [Slack’s Cal Henderson and Sir Richard Branson back firstminute Capital’s third fund](https://techcrunch.com/2023/06/12/slacks-cal-henderson-and-sir-richard-branson-back-firstminute-capitals-third-fund/)
-- [Oova grabs another $10.3M, unveils membership model for at-home fertility testing](https://techcrunch.com/2023/06/12/oova-10-3m-at-home-fertility-testing-healthcare/)
-- [All the things Apple Sherlocked at WWDC 2023](https://techcrunch.com/2023/06/12/all-the-things-apple-sherlocked-at-wwdc-2023/)
+- [Scientists beam solar power to Earth from space for 1st time ever](https://www.space.com/space-solar-power-satellite-beams-energy-1st-time)
+- [Rex’s new app makes it easy to discover and share recommended places with friends](https://techcrunch.com/2023/06/12/rexs-new-app-makes-it-easy-to-discover-and-share-recommended-places-with-friends/)
+- [NASA app review](https://www.space.com/nasa-app-review)
+- [ABB buys smart home device maker, Eve Systems](https://techcrunch.com/2023/06/12/abb-buys-smart-home-device-maker-eve-systems/)
+- [Space pictures! See our image of the day](https://www.space.com/34-image-day.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
