@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Max Q: Firefly Aerospace is making moves](https://techcrunch.com/2023/06/12/max-q-firefly-aerospace-is-making-moves/)
+- [Marvel&#39;s new &#39;Predator vs Wolverine&#39; miniseries pits alien against mutant in a clawed showdown](https://www.space.com/marvel-predator-versus-wolverine-comic)
+- [Artemis 2 astronaut goes on vision quest to prepare for moon mission](https://www.space.com/artemis-2-astronaut-moon-mission-vision-quest)
 - [FTC reportedly seeks injunction to stop Microsoft’s Activision Blizzard deal](https://techcrunch.com/2023/06/12/ftc-reportedly-seeks-injunction-to-stop-microsofts-activision-blizzard-deal/)
 - [Space Force chooses SpaceX, ULA for 12 military launches in 2025](https://www.space.com/space-force-spacex-ula-launch-contracts-2025)
-- [Space food: Why Mars astronauts won&#39;t have to hold the fries &lpar;video&rpar;](https://www.space.com/space-food-frying-works-microgravity)
-- [See where six crypto whales’ wallets are putting their assets](https://techcrunch.com/2023/06/12/crypto-whales-wallets-assets/)
-- [Amazon Freevee to get 23 free ad-supported TV channels, including ‘Cake Boss,’ ‘Say Yes to the Dress’ and more](https://techcrunch.com/2023/06/12/amazon-freevee-to-get-23-free-ad-supported-tv-channels/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
