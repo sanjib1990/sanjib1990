@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nigeria’s Termii to launch mobile app and scale customer engagement business with new funding](https://techcrunch.com/2023/06/12/nigerias-termii-to-launch-mobile-app-and-scale-customer-engagement-business-with-new-funding/)
 - [HSBC rebrands, expands its SVB UK buy as HSBC Innovation Banking](https://techcrunch.com/2023/06/11/hsbc-rebrands-expands-its-svb-uk-buy-as-hsbc-innovation-banking/)
 - [Djust is a new commerce platform focused exclusively on B2B transactions](https://techcrunch.com/2023/06/11/djust-is-a-new-commerce-platform-focused-exclusively-on-b2b-transactions/)
 - [Nio said not to join China’s EV price war. Now it’s cutting $4K across all models](https://techcrunch.com/2023/06/11/nio-price-cut-china/)
 - [Tesla fuels an EV charging standards war](https://techcrunch.com/2023/06/11/tesla-fuels-an-ev-charging-standards-war/)
-- [Here are the most richly valued startup types in today’s early-stage venture market](https://techcrunch.com/2023/06/11/valued-startups-in-venture-market/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
