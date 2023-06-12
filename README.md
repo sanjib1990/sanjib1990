@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch SpaceX launch its 2nd mission of the day this afternoon](https://www.space.com/spacex-transporter-8-launch-72-satellites)
+- [Brilliant gamma-ray flare 100 times brighter than our entire galaxy reveals 1 monster black hole is actually 2](https://www.space.com/gamma-ray-flare-monster-black-holes-oj-287)
+- [London lures a16z’s first international office with ‘predictable’ crypto regs](https://techcrunch.com/2023/06/12/london-lures-a16zs-first-international-office-with-predictable-crypto-regs/)
 - [Nigeria’s Termii to launch mobile app and scale customer engagement business with new funding](https://techcrunch.com/2023/06/12/nigerias-termii-to-launch-mobile-app-and-scale-customer-engagement-business-with-new-funding/)
 - [HSBC rebrands, expands its SVB UK buy as HSBC Innovation Banking](https://techcrunch.com/2023/06/11/hsbc-rebrands-expands-its-svb-uk-buy-as-hsbc-innovation-banking/)
-- [Djust is a new commerce platform focused exclusively on B2B transactions](https://techcrunch.com/2023/06/11/djust-is-a-new-commerce-platform-focused-exclusively-on-b2b-transactions/)
-- [Nio said not to join China’s EV price war. Now it’s cutting $4K across all models](https://techcrunch.com/2023/06/11/nio-price-cut-china/)
-- [Tesla fuels an EV charging standards war](https://techcrunch.com/2023/06/11/tesla-fuels-an-ev-charging-standards-war/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
