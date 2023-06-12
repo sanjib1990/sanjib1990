@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Reddit’s API rug pull](https://www.youtube.com/watch?v=Ch6zNEq9fwM)
 - [High-school student makes React a million times faster](https://www.youtube.com/watch?v=VkezQMb1DHw)
 - [Chrome is removing the lock icon!?](https://www.youtube.com/watch?v=YFKhcnMjliI)
 - [Four Principles of Quantum - Computerphile](https://www.youtube.com/watch?v=m5A_oupZOCE)
 - [What is Platform Engineering and how it fits into DevOps and Cloud world](https://www.youtube.com/watch?v=ghzsBm8vOms)
-- [Apple makes risky bet on VR/AR future](https://www.youtube.com/watch?v=Uc6lM1Aig9c)
 <!-- YOUTUBE:END -->
 
 ---
