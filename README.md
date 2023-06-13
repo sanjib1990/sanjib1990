@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Turo’s Q1 2023 results indicate it may be a while until we see its IPO](https://techcrunch.com/2023/06/13/turos-q1-2023-results-ipo-analysis/)
+- [Netflix reportedly plans first live sports event with celebrities playing golf](https://techcrunch.com/2023/06/13/netflix-reportedly-plans-first-live-sports-event-with-celebrities-playing-golf/)
+- [You can now share music on Instagram Notes, plus view translations](https://techcrunch.com/2023/06/13/you-can-now-share-music-on-instagram-notes-plus-view-translations/)
+- [Announcing the Security Stage agenda at TechCrunch Disrupt](https://techcrunch.com/2023/06/13/announcing-the-security-stage-agenda-at-techcrunch-disrupt/)
 - [Paul McCartney used AI to make a new Beatles song](https://techcrunch.com/2023/06/13/paul-mccartney-used-ai-to-make-a-new-beatles-song/)
-- [The ‘AI arms race’ is about more than who will lead the industry](https://techcrunch.com/2023/06/13/the-ai-arms-race-is-about-more-than-who-will-lead-the-industry/)
-- [DxO PhotoLab 6 review 2023](https://www.space.com/dxo-photolab-review-2023)
-- [The 2024 Polestar 2 features more power and range](https://techcrunch.com/2023/06/13/the-2024-polestar-2-features-more-power-and-range/)
-- [Zero-Error Systems raises $7.5M for its radiation-hardened semiconductor integrated circuits](https://techcrunch.com/2023/06/13/zero-error-systems-raises-7-5m-for-its-radiation-hardened-semiconductor-integrated-circuits/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
