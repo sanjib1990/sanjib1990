@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google’s June Pixel drop brings new safety and health features](https://techcrunch.com/2023/06/13/googles-june-pixel-drop-brings-critical-safety-features/)
-- [Itoka wants to license AI-generated music via the blockchain](https://techcrunch.com/2023/06/13/itoka-wants-to-license-ai-generated-music-via-the-blockchain/)
-- [Watch Venus swarm the Beehive Cluster today in free telescope livestream](https://www.space.com/venus-beehive-cluster-m44-livestream-june-2023)
-- [Nobody is happy with NYC’s $18 delivery worker minimum wage](https://techcrunch.com/2023/06/13/nobody-is-happy-with-nycs-18-delivery-worker-minimum-wage/)
-- [Vectara lands $28.5M to supercharge enterprise search](https://techcrunch.com/2023/06/13/vectara-lands-28-5m-to-supercharge-enterprise-search/)
+- [Space training contest opens during Pride Month for LGBTQ+ individuals](https://www.space.com/pride-month-lgbtq-space-training-contest-out-astronaut)
+- [Fan fiction writers are trolling AIs with omegaverse stories](https://techcrunch.com/2023/06/13/fan-fiction-writers-are-trolling-ais-with-omegaverse-stories/)
+- [Watch SpaceX&#39;s historic 200th rocket landing in this super-sharp video](https://www.space.com/spacex-200th-rocket-landing-video)
+- [Google delays EU launch of its AI chatbot after privacy regulator raises concerns](https://techcrunch.com/2023/06/13/google-delays-eu-launch-of-its-ai-chatbot-after-privacy-regulator-raises-concerns/)
+- [TechCrunch+ roundup: Paid acquisition basics, most-valued startups, 10 investors open to pitches](https://techcrunch.com/2023/06/13/techcrunch-roundup-paid-acquisition-basics-most-valued-startups-10-investors-open-to-pitches/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
