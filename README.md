@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nordic VC Voima Ventures launches €90M fund for deep tech startups](https://techcrunch.com/2023/06/13/nordic-vc-voima-ventures-launches-e90m-fund-for-deep-tech-startups/)
 - [Indifi raises $35M to expand digital lending to more small businesses](https://techcrunch.com/2023/06/12/indifi-series-e-funding/)
 - [India threatened to shut down Twitter and raid employees’ homes, Jack Dorsey says](https://techcrunch.com/2023/06/12/india-twitter-jack-dorsey/)
 - [Thousands of subreddits go dark to protest Reddit’s API pricing](https://techcrunch.com/2023/06/12/reddit-blackout-8000-subreddits-went-dark-protest-api/)
 - [Venture firm Black Seed raises £5M inaugural fund to invest in Black founders](https://techcrunch.com/2023/06/12/venture-firm-black-seed-5m-fund/)
-- [Max Q: Firefly Aerospace is making moves](https://techcrunch.com/2023/06/12/max-q-firefly-aerospace-is-making-moves/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
