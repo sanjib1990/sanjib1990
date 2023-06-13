@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [France’s Mistral AI blows in with a $113M seed round at a $260M valuation to take on OpenAI](https://techcrunch.com/2023/06/13/frances-mistral-ai-blows-in-with-a-113m-seed-round-at-a-260m-valuation-to-take-on-openai/)
-- [&#39;Cosmic magnifying glass&#39; reveals super-rare warped supernova with gravitational lens. &lpar;Thanks, Einstein!&rpar;](https://www.space.com/supernova-gravitational-lens-sn-zwicky)
-- [GM and partner Samsung SDI pick Indiana for $3B battery factory](https://techcrunch.com/2023/06/13/gm-and-partner-samsung-sdi-pick-indiana-for-3b-battery-factory/)
-- [Turo’s Q1 2023 results indicate it may be a while until we see its IPO](https://techcrunch.com/2023/06/13/turos-q1-2023-results-ipo-analysis/)
-- [Netflix reportedly plans first live sports event with celebrities playing golf](https://techcrunch.com/2023/06/13/netflix-reportedly-plans-first-live-sports-event-with-celebrities-playing-golf/)
+- [Google’s June Pixel drop brings new safety and health features](https://techcrunch.com/2023/06/13/googles-june-pixel-drop-brings-critical-safety-features/)
+- [Itoka wants to license AI-generated music via the blockchain](https://techcrunch.com/2023/06/13/itoka-wants-to-license-ai-generated-music-via-the-blockchain/)
+- [Watch Venus swarm the Beehive Cluster today in free telescope livestream](https://www.space.com/venus-beehive-cluster-m44-livestream-june-2023)
+- [Nobody is happy with NYC’s $18 delivery worker minimum wage](https://techcrunch.com/2023/06/13/nobody-is-happy-with-nycs-18-delivery-worker-minimum-wage/)
+- [Vectara lands $28.5M to supercharge enterprise search](https://techcrunch.com/2023/06/13/vectara-lands-28-5m-to-supercharge-enterprise-search/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
