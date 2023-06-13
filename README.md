@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [US intelligence confirms it buys Americans’ personal data](https://techcrunch.com/2023/06/13/us-intelligence-report-purchase-americans-personal-data/)
+- [Space pictures! See our image of the day](https://www.space.com/34-image-day.html)
+- [How to pitch me: 10 investors discuss what they’re looking for in June 2023](https://techcrunch.com/2023/06/13/how-to-pitch-me-10-investors-discuss-what-theyre-looking-for-in-june-2023/)
 - [Sally&#39;s Night events mark 40 years since 1st US woman flew in space](https://www.space.com/sallys-night-40-years-women-in-space)
-- [NASA, US Air Force unveil new X-plane — the X-66A — to test wild wing design for fuel-efficient flight](https://www.space.com/nasa-us-air-force-new-x-plane-x66a-named)
 - [Watch these One Sky Project films to explore Indigenous astronomy from home for free &lpar;videos&rpar;](https://www.space.com/indigenous-astronomy-videos-award-winning-download-free)
-- [Hong Kong eyes stablecoin regulatory regime by 2024](https://techcrunch.com/2023/06/13/hong-kong-eyes-stablecoin-regulatory-regime-by-2024/)
-- [Nordic VC Voima Ventures launches €90M fund for deep tech startups](https://techcrunch.com/2023/06/13/nordic-vc-voima-ventures-launches-e90m-fund-for-deep-tech-startups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
