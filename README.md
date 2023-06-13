@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Thousands of subreddits go dark to protest Reddit’s API pricing](https://techcrunch.com/2023/06/12/reddit-blackout-8000-subreddits-went-dark-protest-api/)
 - [Venture firm Black Seed raises £5M inaugural fund to invest in Black founders](https://techcrunch.com/2023/06/12/venture-firm-black-seed-5m-fund/)
 - [Max Q: Firefly Aerospace is making moves](https://techcrunch.com/2023/06/12/max-q-firefly-aerospace-is-making-moves/)
 - [Marvel&#39;s new &#39;Predator vs Wolverine&#39; miniseries pits alien against mutant in a clawed showdown](https://www.space.com/marvel-predator-versus-wolverine-comic)
 - [Artemis 2 astronaut goes on vision quest to prepare for moon mission](https://www.space.com/artemis-2-astronaut-moon-mission-vision-quest)
-- [FTC reportedly seeks injunction to stop Microsoft’s Activision Blizzard deal](https://techcrunch.com/2023/06/12/ftc-reportedly-seeks-injunction-to-stop-microsofts-activision-blizzard-deal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
