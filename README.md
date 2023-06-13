@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Nuxt in 100 Seconds](https://www.youtube.com/watch?v=dCxSsr5xuL8)
 - [Reddit’s API rug pull](https://www.youtube.com/watch?v=Ch6zNEq9fwM)
 - [High-school student makes React a million times faster](https://www.youtube.com/watch?v=VkezQMb1DHw)
 - [Chrome is removing the lock icon!?](https://www.youtube.com/watch?v=YFKhcnMjliI)
 - [Four Principles of Quantum - Computerphile](https://www.youtube.com/watch?v=m5A_oupZOCE)
-- [What is Platform Engineering and how it fits into DevOps and Cloud world](https://www.youtube.com/watch?v=ghzsBm8vOms)
 <!-- YOUTUBE:END -->
 
 ---
