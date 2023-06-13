@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Kodem comes out of stealth with $25M to tackle application security](https://techcrunch.com/2023/06/13/kodem-comes-out-of-stealth-with-25m-to-tackle-application-security/)
-- [To boost greenhouse productivity, Skytree is using space station CO2 scrubbers](https://techcrunch.com/2023/06/13/greenhouse-productivity-carbon-dioxide-scrubbers/)
-- [YouTube is lowering the barrier to be eligible for its monetization program](https://techcrunch.com/2023/06/13/youtube-is-lowering-the-barrier-to-be-eligible-for-its-monetization-program/)
-- [Party planning platform Punchbowl’s owner is acquiring Timehop](https://techcrunch.com/2023/06/13/party-planning-platform-punchbowl-is-acquiring-timehop/)
-- [Canonical’s Sunbeam makes OpenStack more viable for small-scale deployments](https://techcrunch.com/2023/06/13/canonicals-sunbeam-makes-openstack-more-viable-for-small-scale-deployments/)
+- [Paul McCartney used AI to make a new Beatles song](https://techcrunch.com/2023/06/13/paul-mccartney-used-ai-to-make-a-new-beatles-song/)
+- [The ‘AI arms race’ is about more than who will lead the industry](https://techcrunch.com/2023/06/13/the-ai-arms-race-is-about-more-than-who-will-lead-the-industry/)
+- [DxO PhotoLab 6 review 2023](https://www.space.com/dxo-photolab-review-2023)
+- [The 2024 Polestar 2 features more power and range](https://techcrunch.com/2023/06/13/the-2024-polestar-2-features-more-power-and-range/)
+- [Zero-Error Systems raises $7.5M for its radiation-hardened semiconductor integrated circuits](https://techcrunch.com/2023/06/13/zero-error-systems-raises-7-5m-for-its-radiation-hardened-semiconductor-integrated-circuits/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
