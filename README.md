@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Striveworks snaps up first funding of $33M to build tools for machine learning operations](https://techcrunch.com/2023/06/13/striveworks-snaps-up-first-funding-of-33m-to-build-tools-for-machine-learning-operations/)
+- [Pollen’s approach to setting freelancers up for success is nothing to sneeze at](https://techcrunch.com/2023/06/13/pollens-freelancer-network-4-m/)
+- [Don&#39;t miss Jupiter and its 5 Galilean satellites shine near the crescent moon tonight](https://www.space.com/jupiter-moon-june-2023)
+- [Match launches new live in-app event called ’72 Hours’](https://techcrunch.com/2023/06/13/match-launches-new-live-in-app-event-called-72-hours/)
 - [US intelligence confirms it buys Americans’ personal data](https://techcrunch.com/2023/06/13/us-intelligence-report-purchase-americans-personal-data/)
-- [Space pictures! See our image of the day](https://www.space.com/34-image-day.html)
-- [How to pitch me: 10 investors discuss what they’re looking for in June 2023](https://techcrunch.com/2023/06/13/how-to-pitch-me-10-investors-discuss-what-theyre-looking-for-in-june-2023/)
-- [Sally&#39;s Night events mark 40 years since 1st US woman flew in space](https://www.space.com/sallys-night-40-years-women-in-space)
-- [Watch these One Sky Project films to explore Indigenous astronomy from home for free &lpar;videos&rpar;](https://www.space.com/indigenous-astronomy-videos-award-winning-download-free)
 <!-- BLOG-POST-LIST:END -->
 
 ---
