@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Striveworks snaps up first funding of $33M to build tools for machine learning operations](https://techcrunch.com/2023/06/13/striveworks-snaps-up-first-funding-of-33m-to-build-tools-for-machine-learning-operations/)
-- [Pollen’s approach to setting freelancers up for success is nothing to sneeze at](https://techcrunch.com/2023/06/13/pollens-freelancer-network-4-m/)
-- [Don&#39;t miss Jupiter and its 5 Galilean satellites shine near the crescent moon tonight](https://www.space.com/jupiter-moon-june-2023)
-- [Match launches new live in-app event called ’72 Hours’](https://techcrunch.com/2023/06/13/match-launches-new-live-in-app-event-called-72-hours/)
-- [US intelligence confirms it buys Americans’ personal data](https://techcrunch.com/2023/06/13/us-intelligence-report-purchase-americans-personal-data/)
+- [Kodem comes out of stealth with $25M to tackle application security](https://techcrunch.com/2023/06/13/kodem-comes-out-of-stealth-with-25m-to-tackle-application-security/)
+- [To boost greenhouse productivity, Skytree is using space station CO2 scrubbers](https://techcrunch.com/2023/06/13/greenhouse-productivity-carbon-dioxide-scrubbers/)
+- [YouTube is lowering the barrier to be eligible for its monetization program](https://techcrunch.com/2023/06/13/youtube-is-lowering-the-barrier-to-be-eligible-for-its-monetization-program/)
+- [Party planning platform Punchbowl’s owner is acquiring Timehop](https://techcrunch.com/2023/06/13/party-planning-platform-punchbowl-is-acquiring-timehop/)
+- [Canonical’s Sunbeam makes OpenStack more viable for small-scale deployments](https://techcrunch.com/2023/06/13/canonicals-sunbeam-makes-openstack-more-viable-for-small-scale-deployments/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
