@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI intros new generative text features while reducing pricing](https://techcrunch.com/2023/06/13/openai-intros-new-generative-text-features-while-reducing-pricing/)
 - [Space training contest opens during Pride Month for LGBTQ+ individuals](https://www.space.com/pride-month-lgbtq-space-training-contest-out-astronaut)
-- [Fan fiction writers are trolling AIs with omegaverse stories](https://techcrunch.com/2023/06/13/fan-fiction-writers-are-trolling-ais-with-omegaverse-stories/)
+- [Fan fiction writers are trolling AIs with Omegaverse stories](https://techcrunch.com/2023/06/13/fan-fiction-writers-are-trolling-ais-with-omegaverse-stories/)
 - [Watch SpaceX&#39;s historic 200th rocket landing in this super-sharp video](https://www.space.com/spacex-200th-rocket-landing-video)
 - [Google delays EU launch of its AI chatbot after privacy regulator raises concerns](https://techcrunch.com/2023/06/13/google-delays-eu-launch-of-its-ai-chatbot-after-privacy-regulator-raises-concerns/)
-- [TechCrunch+ roundup: Paid acquisition basics, most-valued startups, 10 investors open to pitches](https://techcrunch.com/2023/06/13/techcrunch-roundup-paid-acquisition-basics-most-valued-startups-10-investors-open-to-pitches/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
