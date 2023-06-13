@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Japan&#39;s Astroscale has a new robot tug to clean up space junk. Here&#39;s how it works &lpar;video&rpar;](https://www.space.com/space-junk-astroscale-elsa-m-spacecraft-video)
 - [Pebble Mobility wants to build the iPhone of electric RVs](https://techcrunch.com/2023/06/13/pebble-mobility-wants-to-build-the-iphone-of-electric-rvs/)
 - [&#39;Transformers: Rise of the Beasts&#39; review: Barely more than meets the eye](https://www.space.com/transformers-rise-of-the-beasts-review)
 - [OpenAI intros new generative text features while reducing pricing](https://techcrunch.com/2023/06/13/openai-intros-new-generative-text-features-while-reducing-pricing/)
 - [Space training contest opens during Pride Month for LGBTQ+ individuals](https://www.space.com/pride-month-lgbtq-space-training-contest-out-astronaut)
-- [Fan fiction writers are trolling AIs with Omegaverse stories](https://techcrunch.com/2023/06/13/fan-fiction-writers-are-trolling-ais-with-omegaverse-stories/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
