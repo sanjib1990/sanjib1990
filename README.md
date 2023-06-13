@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [France’s Mistral AI blows in with a $113M seed round at a $260M valuation to take on OpenAI](https://techcrunch.com/2023/06/13/frances-mistral-ai-blows-in-with-a-113m-seed-round-at-a-260m-valuation-to-take-on-openai/)
+- [&#39;Cosmic magnifying glass&#39; reveals super-rare warped supernova with gravitational lens. &lpar;Thanks, Einstein!&rpar;](https://www.space.com/supernova-gravitational-lens-sn-zwicky)
+- [GM and partner Samsung SDI pick Indiana for $3B battery factory](https://techcrunch.com/2023/06/13/gm-and-partner-samsung-sdi-pick-indiana-for-3b-battery-factory/)
 - [Turo’s Q1 2023 results indicate it may be a while until we see its IPO](https://techcrunch.com/2023/06/13/turos-q1-2023-results-ipo-analysis/)
 - [Netflix reportedly plans first live sports event with celebrities playing golf](https://techcrunch.com/2023/06/13/netflix-reportedly-plans-first-live-sports-event-with-celebrities-playing-golf/)
-- [You can now share music on Instagram Notes, plus view translations](https://techcrunch.com/2023/06/13/you-can-now-share-music-on-instagram-notes-plus-view-translations/)
-- [Announcing the Security Stage agenda at TechCrunch Disrupt](https://techcrunch.com/2023/06/13/announcing-the-security-stage-agenda-at-techcrunch-disrupt/)
-- [Paul McCartney used AI to make a new Beatles song](https://techcrunch.com/2023/06/13/paul-mccartney-used-ai-to-make-a-new-beatles-song/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
