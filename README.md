@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Informatica acquires Privitar, once valued at $400M, to expand its data management stack](https://techcrunch.com/2023/06/14/informatica-acquires-privitar-once-valued-at-400m-to-expand-its-data-management-stack/)
+- [OctoML launches OctoAI, a self-optimizing compute service for AI](https://techcrunch.com/2023/06/14/octoml-launches-octoai-a-self-optimizing-compute-service-for-ai/)
+- [Europe warns it might break up Google’s adtech empire](https://techcrunch.com/2023/06/14/europe-warns-it-might-break-up-googles-adtech-empire/)
 - [See 1st trailer for new open-world &#39;Star Wars Outlaws&#39; video game &lpar;video&rpar;](https://www.space.com/star-wars-outlaws-video-game-first-trailer)
 - [Hundreds of subreddits plan to go dark indefinitely after Reddit CEO’s internal memo](https://techcrunch.com/2023/06/14/hundreds-of-subreddits-plan-to-go-dark-indefinitely-after-reddit-ceos-internal-memo/)
-- [Vodafone and Three plan to merge in the UK in a $19B deal &lpar;if regulators approve&rpar;](https://techcrunch.com/2023/06/14/vodafone-and-three-plan-to-merge-in-the-uk-in-a-19b-deal-if-regulators-approve/)
-- [Truecaller reintroduces call recording for premium users](https://techcrunch.com/2023/06/14/truecaller-reintroduces-call-recording-for-premium-users/)
-- [With Equifax in its sights, TransUnion invests $24M in income verification platform Truework](https://techcrunch.com/2023/06/14/with-equifax-in-its-sights-transunion-invests-24m-in-income-verification-platform-truework/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
