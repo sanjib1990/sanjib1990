@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Uber leads $20M round in India’s Everest Fleet for EV expansion](https://techcrunch.com/2023/06/14/uber-leads-20m-round-in-indias-everest-fleet-for-ev-expansion/)
+- [Lee Fixel’s Addition raising $1.5 billion for its fifth fund in four years](https://techcrunch.com/2023/06/14/lee-fixel-addition-fund/)
 - [Backed by Google’s Gradient, Versed wants to help storytellers create video games using generative AI](https://techcrunch.com/2023/06/14/backed-by-googles-gradient-versed-wants-to-help-storytellers-create-video-games-using-generative-ai/)
 - [One Future Football’s virtual worldwide soccer league launches with backing from Blackbird](https://techcrunch.com/2023/06/14/one-future-footballs-virtual-worldwide-soccer-league-launches-with-backing-from-blackbird/)
 - [EV laggard Toyota says its next-gen EVs will have over 600 miles range](https://techcrunch.com/2023/06/13/ev-laggard-toyota-says-its-next-gen-evs-will-have-over-600-miles-range/)
-- [Kaya Founders backs Philippines startups from “Day 0”](https://techcrunch.com/2023/06/13/kaya-founders/)
-- [Finfra lets Indonesian businesses add embedded finance to their platforms](https://techcrunch.com/2023/06/13/finfra/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
