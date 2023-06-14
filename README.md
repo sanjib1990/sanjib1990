@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Europe takes another big step towards agreeing an AI rulebook](https://techcrunch.com/2023/06/14/europe-takes-another-big-step-towards-agreeing-an-ai-rulebook/)
-- [Rejoice, for startup valuations are slowly recovering](https://techcrunch.com/2023/06/14/software-valuations-continue-trending-upwards/)
-- [This collapsed star is turning into an gigantic diamond before our eyes](https://www.space.com/collapsed-star-gigantic-diamond)
-- [Majority, a digital bank for US migrants, grabs $9.75M amid expansion in Texas](https://techcrunch.com/2023/06/14/majority-digital-bank-migrants-9-75m-fintech/)
-- [Backstrapped to 800,000 users, online programming community JDoodle lands funding](https://techcrunch.com/2023/06/14/jdoodle/)
+- [Space pictures! See our image of the day](https://www.space.com/34-image-day.html)
+- [EVs are going backwards](https://techcrunch.com/2023/06/14/why-are-they-getting-bigger/)
+- [Google Lens can now search for skin conditions](https://techcrunch.com/2023/06/14/google-lens-can-now-search-for-skin-conditions/)
+- [Google intros new AI-powered travel and product search features](https://techcrunch.com/2023/06/14/google-intros-new-ai-powered-travel-and-product-search-features/)
+- [Google Maps gains glanceable directions and an expanded Immersive View](https://techcrunch.com/2023/06/14/google-maps-gains-glanceable-directions-and-an-expanded-immersive-view/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
