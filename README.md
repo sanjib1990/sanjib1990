@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Kaya Founders backs Philippines startups from “Day 0”](https://techcrunch.com/2023/06/13/kaya-founders/)
 - [Finfra lets Indonesian businesses add embedded finance to their platforms](https://techcrunch.com/2023/06/13/finfra/)
 - [OpenInfra Foundation opens regional hubs in Europe and Asia](https://techcrunch.com/2023/06/13/openinfra-foundation-opens-regional-hubs-in-europe-and-asia/)
 - [This new Mars map archive puts the entire Red Planet in the palm of your hand &lpar;video&rpar;](https://www.space.com/mars-map-archive-usgs-mro-video)
 - [Japan&#39;s Astroscale has a new robot tug to clean up space junk. Here&#39;s how it works &lpar;video&rpar;](https://www.space.com/space-junk-astroscale-elsa-m-spacecraft-video)
-- [Pebble Mobility wants to build the iPhone of electric RVs](https://techcrunch.com/2023/06/13/pebble-mobility-wants-to-build-the-iphone-of-electric-rvs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
