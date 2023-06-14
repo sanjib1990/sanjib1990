@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Truecaller reintroduces call recording for premium users](https://techcrunch.com/2023/06/14/truecaller-reintroduces-call-recording-for-premium-users/)
+- [With Equifax in its sights, TransUnion invests $24M in income verification platform Truework](https://techcrunch.com/2023/06/14/with-equifax-in-its-sights-transunion-invests-24m-in-income-verification-platform-truework/)
+- [Flipboard introduces a custom feed for Bluesky](https://techcrunch.com/2023/06/14/flipboard-introduces-a-custom-feed-for-bluesky/)
+- [SpaceX aims to launch Starship again in 6 to 8 weeks, Elon Musk says](https://www.space.com/spacex-starship-next-test-flight-summer-2023)
 - [4 elusive &#39;mini-Neptune&#39; exoplanets discovered in a cosmic game of hide-and-seek](https://www.space.com/exoplanets-mini-neptunes-cheops)
-- [Uber leads $20M round in India’s Everest Fleet for EV expansion](https://techcrunch.com/2023/06/14/uber-leads-20m-round-in-indias-everest-fleet-for-ev-expansion/)
-- [Lee Fixel’s Addition raising $1.5 billion for its fifth fund in four years](https://techcrunch.com/2023/06/14/lee-fixel-addition-fund/)
-- [Backed by Google’s Gradient, Versed wants to help storytellers create video games using generative AI](https://techcrunch.com/2023/06/14/backed-by-googles-gradient-versed-wants-to-help-storytellers-create-video-games-using-generative-ai/)
-- [One Future Football’s virtual worldwide soccer league launches with backing from Blackbird](https://techcrunch.com/2023/06/14/one-future-footballs-virtual-worldwide-soccer-league-launches-with-backing-from-blackbird/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
