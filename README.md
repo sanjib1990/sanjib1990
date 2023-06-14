@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why every EV charging network combined can’t compete with Tesla](https://techcrunch.com/2023/06/14/why-every-ev-charging-network-combined-cant-compete-with-tesla/)
+- [Ultra-hot exoplanet has an atmosphere of vaporized rock](https://www.space.com/exoplanet-hot-atmosphere-vaporized-rock)
+- [Saturn&#39;s moon Enceladus has all the ingredients for life in its icy oceans. But is life there?](https://www.space.com/saturn-moon-enceladus-phosphorus-found)
+- [Mechanical Turk workers are using AI to automate being human](https://techcrunch.com/2023/06/14/mechanical-turk-workers-are-using-ai-to-automate-being-human/)
 - [James Webb Space Telescope reveals how galaxies made the early universe transparent](https://www.space.com/early-galaxies-transparent-universe-james-webb-space-telescope)
-- [Strange radio emissions from a feeding star puzzle astronomers](https://www.space.com/radio-emissions-fastest-nova-v1674-hercules)
-- [Pentagon gearing up to launch 1st experimental navigation satellite in 50 years &lpar;video&rpar;](https://www.space.com/pentagon-experimental-navigation-satellite-nts-3-launch-preparations)
-- [&#39;Star Trek: Strange New Worlds&#39; Season 2 warps onto Paramount Plus tomorrow](https://www.space.com/star-trek-strange-new-worlds-season-2-june-15)
-- [Friendless &#39;hot Jupiter&#39; exoplanets may not be so lonely after all](https://www.space.com/hot-jupiters-may-have-planetary-companions)
 <!-- BLOG-POST-LIST:END -->
 
 ---
