@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [EV startup Telo bets America is ready for a dreamy little pickup](https://techcrunch.com/2023/06/14/ev-startup-telo-america-small-pickup-truck/)
+- [&#39;Starfield&#39; offers players a massive space odyssey in new gameplay footage](https://www.space.com/starfield-gameplay-trailer-june-2023)
+- [TrueCar lays off 102 employees, taps new CEO amid restructure](https://techcrunch.com/2023/06/14/truecar-lays-off-102-employees-taps-new-ceo-amid-restructure/)
 - [Watch 2 NASA astronauts spacewalk outside space station on June 15 in this free livestream](https://www.space.com/nasa-spacewalk-june-2023-webcast)
-- [Fernride nudges yard trucks towards full autonomy with $31M in new funds](https://techcrunch.com/2023/06/14/fernride-nudges-yard-trucks-towards-full-autonomy-with-31m-in-new-funds/)
-- [Why every EV charging network combined can’t compete with Tesla](https://techcrunch.com/2023/06/14/why-every-ev-charging-network-combined-cant-compete-with-tesla/)
-- [Ultra-hot exoplanet has an atmosphere of vaporized rock](https://www.space.com/exoplanet-hot-atmosphere-vaporized-rock)
-- [Saturn&#39;s moon Enceladus has all the ingredients for life in its icy oceans. But is life there?](https://www.space.com/saturn-moon-enceladus-phosphorus-found)
+- [Fernride nudges yard trucks toward full autonomy with $31M in new funds](https://techcrunch.com/2023/06/14/fernride-nudges-yard-trucks-towards-full-autonomy-with-31m-in-new-funds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
