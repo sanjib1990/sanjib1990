@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Friendless &#39;hot Jupiter&#39; exoplanets may not be so lonely after all](https://www.space.com/hot-jupiters-may-have-planetary-companions)
-- [Former SEC chair Jay Clayton feels ‘vast majority’ of crypto tokens are securities](https://techcrunch.com/2023/06/14/former-sec-chairman-jay-clayton-crypto-securities/)
-- [Synthesia secures $90M for AI that generates custom avatars](https://techcrunch.com/2023/06/14/synthesia-secures-90m-for-ai-that-generates-custom-avatars/)
-- [Space pictures! See our image of the day](https://www.space.com/34-image-day.html)
-- [EVs are going backwards](https://techcrunch.com/2023/06/14/why-are-they-getting-bigger/)
+- [Canva introduces new developer tools and $50M investment fund](https://techcrunch.com/2023/06/14/canva-introduces-new-developer-tools-and-50m-investment-fund/)
+- [Ask Sophie: How much time and money will we need for an H-1B transfer?](https://techcrunch.com/2023/06/14/ask-sophie-how-much-time-and-money-will-we-need-for-an-h-1b-transfer/)
+- [Pentagon gearing up to launch 1st experimental navigation satellite in 50 years &lpar;video&rpar;](https://www.space.com/pentagon-experimental-navigation-satellite-nts-3-launch-preparations)
+- [Sony readies PS5 game streaming for PlayStation Plus Premium members](https://techcrunch.com/2023/06/14/sony-readies-ps5-game-streaming-for-playstation-plus-premium-members/)
+- [&#39;Star Trek: Strange New Worlds&#39; Season 2 warps onto Paramount Plus tomorrow](https://www.space.com/star-trek-strange-new-worlds-season-2-june-15)
 <!-- BLOG-POST-LIST:END -->
 
 ---
