@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch 2 NASA astronauts spacewalk outside space station on June 15 in this free livestream](https://www.space.com/nasa-spacewalk-june-2023-webcast)
+- [Fernride nudges yard trucks towards full autonomy with $31M in new funds](https://techcrunch.com/2023/06/14/fernride-nudges-yard-trucks-towards-full-autonomy-with-31m-in-new-funds/)
 - [Why every EV charging network combined can’t compete with Tesla](https://techcrunch.com/2023/06/14/why-every-ev-charging-network-combined-cant-compete-with-tesla/)
 - [Ultra-hot exoplanet has an atmosphere of vaporized rock](https://www.space.com/exoplanet-hot-atmosphere-vaporized-rock)
 - [Saturn&#39;s moon Enceladus has all the ingredients for life in its icy oceans. But is life there?](https://www.space.com/saturn-moon-enceladus-phosphorus-found)
-- [Mechanical Turk workers are using AI to automate being human](https://techcrunch.com/2023/06/14/mechanical-turk-workers-are-using-ai-to-automate-being-human/)
-- [James Webb Space Telescope reveals how galaxies made the early universe transparent](https://www.space.com/early-galaxies-transparent-universe-james-webb-space-telescope)
 <!-- BLOG-POST-LIST:END -->
 
 ---
