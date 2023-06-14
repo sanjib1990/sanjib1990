@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Europe takes another big step towards agreeing an AI rulebook](https://techcrunch.com/2023/06/14/europe-takes-another-big-step-towards-agreeing-an-ai-rulebook/)
+- [Rejoice, for startup valuations are slowly recovering](https://techcrunch.com/2023/06/14/software-valuations-continue-trending-upwards/)
+- [This collapsed star is turning into an gigantic diamond before our eyes](https://www.space.com/collapsed-star-gigantic-diamond)
 - [Majority, a digital bank for US migrants, grabs $9.75M amid expansion in Texas](https://techcrunch.com/2023/06/14/majority-digital-bank-migrants-9-75m-fintech/)
 - [Backstrapped to 800,000 users, online programming community JDoodle lands funding](https://techcrunch.com/2023/06/14/jdoodle/)
-- [New &#39;warm Jupiter&#39; exoplanet has a weird orbit and another planet may be to blame](https://www.space.com/hot-jupiter-exoplanet-messy-orbit-nasa-tess)
-- [Mitigating AI biases in healthcare with Amy Brown from Authenticx](https://techcrunch.com/2023/06/14/mitigating-ai-biases-in-healthcare-with-amy-brown-from-authenticx/)
-- [Paro raises $25M to match freelance financial experts with firms](https://techcrunch.com/2023/06/14/paro-raises-25m-to-match-freelance-financial-experts-with-firms/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
