@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Friendless &#39;hot Jupiter&#39; exoplanets may not be so lonely after all](https://www.space.com/hot-jupiters-may-have-planetary-companions)
+- [Former SEC chair Jay Clayton feels ‘vast majority’ of crypto tokens are securities](https://techcrunch.com/2023/06/14/former-sec-chairman-jay-clayton-crypto-securities/)
+- [Synthesia secures $90M for AI that generates custom avatars](https://techcrunch.com/2023/06/14/synthesia-secures-90m-for-ai-that-generates-custom-avatars/)
 - [Space pictures! See our image of the day](https://www.space.com/34-image-day.html)
 - [EVs are going backwards](https://techcrunch.com/2023/06/14/why-are-they-getting-bigger/)
-- [Google Lens can now search for skin conditions](https://techcrunch.com/2023/06/14/google-lens-can-now-search-for-skin-conditions/)
-- [Google intros new AI-powered travel and product search features](https://techcrunch.com/2023/06/14/google-intros-new-ai-powered-travel-and-product-search-features/)
-- [Google Maps gains glanceable directions and an expanded Immersive View](https://techcrunch.com/2023/06/14/google-maps-gains-glanceable-directions-and-an-expanded-immersive-view/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
