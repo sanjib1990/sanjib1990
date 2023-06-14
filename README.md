@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Backed by Google’s Gradient, Versed wants to help storytellers create video games using generative AI](https://techcrunch.com/2023/06/14/backed-by-googles-gradient-versed-wants-to-help-storytellers-create-video-games-using-generative-ai/)
+- [One Future Football’s virtual worldwide soccer league launches with backing from Blackbird](https://techcrunch.com/2023/06/14/one-future-footballs-virtual-worldwide-soccer-league-launches-with-backing-from-blackbird/)
 - [EV laggard Toyota says its next-gen EVs will have over 600 miles range](https://techcrunch.com/2023/06/13/ev-laggard-toyota-says-its-next-gen-evs-will-have-over-600-miles-range/)
 - [Kaya Founders backs Philippines startups from “Day 0”](https://techcrunch.com/2023/06/13/kaya-founders/)
 - [Finfra lets Indonesian businesses add embedded finance to their platforms](https://techcrunch.com/2023/06/13/finfra/)
-- [OpenInfra Foundation opens regional hubs in Europe and Asia](https://techcrunch.com/2023/06/13/openinfra-foundation-opens-regional-hubs-in-europe-and-asia/)
-- [This new Mars map archive puts the entire Red Planet in the palm of your hand &lpar;video&rpar;](https://www.space.com/mars-map-archive-usgs-mro-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
