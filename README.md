@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Learn about the next wave of industrial robotics at Disrupt’s Hardware Stage](https://techcrunch.com/2023/06/15/industrial-robots-hardware-stage-techcrunch-disrupt-2023/)
+- [Out of this world accommodation: What sci-fi gets right &lpar;and wrong&rpar; about life beyond Earth](https://www.space.com/out-of-this-world-accommodation-what-sci-fi-gets-right-and-wrong-about-life-beyond-earth)
+- [Glystn lets creators mass reply to multiple followers across social media platforms](https://techcrunch.com/2023/06/15/glystn-enables-creators-to-mass-reply-to-multiple-followers-across-social-media-platforms/)
+- [&#39;Star Trek: Strange New Worlds&#39; season 2 premiere is a solid but subdued affair](https://www.space.com/star-trek-strange-new-worlds-s02e01-review)
 - [NASA&#39;s Artemis 2 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-2-moon-mission-updates)
-- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
-- [Mandiant says China-backed hackers exploited Barracuda zero-day to spy on governments](https://techcrunch.com/2023/06/15/mandiant-china-hackers-barracuda-espionage-governments/)
-- [With backing from Thiel, Recharge Capital launches $200M women’s health investment vehicle](https://techcrunch.com/2023/06/15/recharge-capital-womens-health-investment-vehicle/)
-- [Blackbird lands $20M investment to expand its risk management tools](https://techcrunch.com/2023/06/15/blackbird-lands-20m-investment-to-expand-its-risk-management-tools/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
