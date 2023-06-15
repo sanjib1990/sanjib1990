@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [VCs joining the climate race should scare the daylights out of you](https://techcrunch.com/2023/06/15/this-is-fine-burning-house-gif/)
+- [Space pictures! See our image of the day](https://www.space.com/34-image-day.html)
+- [YC-backed Eze raises new capital for its secondhand electronics marketplace](https://techcrunch.com/2023/06/15/yc-backed-eze-raises-new-capital-for-its-secondhand-electronics-marketplace/)
+- [Final launch of Europe&#39;s powerful Ariane 5 rocket delayed indefinitely](https://www.space.com/ariane-5-rocket-final-launch-delay)
 - [Luminoah’s quest to reinvent tube feeding attracts new funding](https://techcrunch.com/2023/06/15/luminoahs-quest-to-reinvent-tube-feeding-attracts-new-funding/)
-- [New guidance from the US Treasury could unleash billions in renewable energy investment](https://techcrunch.com/2023/06/15/us-treasury-renewable-energy-investment/)
-- [ChatGPT prompts: How to optimize for sales, marketing, writing, and more](https://techcrunch.com/2023/06/15/chatgpt-prompts-how-to-optimize-for-sales-marketing-writing-and-more/)
-- [Instagram is rolling out its Channels feature for broadcasting messages globally](https://techcrunch.com/2023/06/15/instagram-is-rolling-out-its-channels-feature-for-broadcasting-messages-globally/)
-- [Psychedelics startup NUE Life Health rolls out free version of its ketamine therapy tracking app](https://techcrunch.com/2023/06/15/psychedelics-startup-nue-life-health-rolls-out-free-version-of-its-ketamine-therapy-tracking-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
