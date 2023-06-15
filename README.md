@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Virgin Galactic starts commercial spaceflights in two weeks](https://techcrunch.com/2023/06/15/virgin-galactic-starts-commercial-spaceflights-in-two-weeks/)
+- [Post, a publisher-focused Twitter alternative, launches on iOS](https://techcrunch.com/2023/06/15/post-a-publisher-focused-twitter-alternative-launches-on-ios/)
+- [Twitter competitor Spill launches in beta on iOS](https://techcrunch.com/2023/06/15/twitter-competitor-spill-launches-in-beta-on-ios/)
+- [The week in AI: Apple makes machine learning moves](https://techcrunch.com/2023/06/15/the-week-in-ai-apple-makes-machine-learning-moves/)
 - [&#39;Weird&#39; game of cosmic tug-of-war in the Tarantula Nebula weaves up new stars](https://www.space.com/star-formation-tug-of-war-tarantula-nebula-magnetic-fields)
-- [The moon and Mercury meet in the bright red &#39;eye of the bull&#39; early Friday morning](https://www.space.com/moon-mercury-taurus-june-2023)
-- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
-- [How two founders approach building ethical AI startups in health care](https://techcrunch.com/2023/06/15/ethical-ai-health-care-startups/)
-- [Geminid meteor shower spawned by violent asteroid smashup](https://www.space.com/geminid-meteor-shower-asteroid-high-speed-collision)
 <!-- BLOG-POST-LIST:END -->
 
 ---
