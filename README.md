@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Luminoah’s quest to reinvent tube feeding attracts new funding](https://techcrunch.com/2023/06/15/luminoahs-quest-to-reinvent-tube-feeding-attracts-new-funding/)
 - [New guidance from the US Treasury could unleash billions in renewable energy investment](https://techcrunch.com/2023/06/15/us-treasury-renewable-energy-investment/)
 - [ChatGPT prompts: How to optimize for sales, marketing, writing, and more](https://techcrunch.com/2023/06/15/chatgpt-prompts-how-to-optimize-for-sales-marketing-writing-and-more/)
 - [Instagram is rolling out its Channels feature for broadcasting messages globally](https://techcrunch.com/2023/06/15/instagram-is-rolling-out-its-channels-feature-for-broadcasting-messages-globally/)
 - [Psychedelics startup NUE Life Health rolls out free version of its ketamine therapy tracking app](https://techcrunch.com/2023/06/15/psychedelics-startup-nue-life-health-rolls-out-free-version-of-its-ketamine-therapy-tracking-app/)
-- [Learn about the next wave of industrial robotics at Disrupt’s Hardware Stage](https://techcrunch.com/2023/06/15/industrial-robots-hardware-stage-techcrunch-disrupt-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
