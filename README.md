@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [VCs joining the climate race should scare the daylights out of you](https://techcrunch.com/2023/06/15/this-is-fine-burning-house-gif/)
-- [Space pictures! See our image of the day](https://www.space.com/34-image-day.html)
-- [YC-backed Eze raises new capital for its secondhand electronics marketplace](https://techcrunch.com/2023/06/15/yc-backed-eze-raises-new-capital-for-its-secondhand-electronics-marketplace/)
-- [Final launch of Europe&#39;s powerful Ariane 5 rocket delayed indefinitely](https://www.space.com/ariane-5-rocket-final-launch-delay)
-- [Luminoah’s quest to reinvent tube feeding attracts new funding](https://techcrunch.com/2023/06/15/luminoahs-quest-to-reinvent-tube-feeding-attracts-new-funding/)
+- [How two founders approach building ethical AI startups in health care](https://techcrunch.com/2023/06/15/ethical-ai-health-care-startups/)
+- [Geminid meteor shower spawned by violent asteroid smashup](https://www.space.com/geminid-meteor-shower-asteroid-high-speed-collision)
+- [It’s a bird, it’s a plane, no, it’s a crypto whale](https://techcrunch.com/2023/06/15/its-a-bird-its-a-plane-no-its-a-crypto-whale/)
+- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
+- [Astronauts unfurl final &lpar;for now&rpar; roll-out solar array on record-tying spacewalk outside space station](https://www.space.com/astronauts-spacewalk-international-space-station-sixth-solar-array-deployed)
 <!-- BLOG-POST-LIST:END -->
 
 ---
