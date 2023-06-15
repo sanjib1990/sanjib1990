@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rocket Lab is set to launch a mystery mission from Virginia. What could it be?](https://www.space.com/rocket-lab-mystery-mission-virginia-june-2023)
+- [This &#39;postcard&#39; of a Mars day from NASA&#39;s Curiosity rover is gorgeous &lpar;photo&rpar;](https://www.space.com/curiosity-mars-rover-morning-afternoon-postcard)
+- [Ransomware gang lists first victims of MOVEit mass-hacks, including US banks and universities](https://techcrunch.com/2023/06/15/moveit-clop-mass-hacks-banks-universities/)
+- [BYD is overtaking Tesla, but its EV dream skips the US for now](https://techcrunch.com/2023/06/15/byd-is-overtaking-tesla-but-its-ev-dream-skips-the-us-for-now/)
 - [Deepchecks snags $14M seed to continuously validate ML models](https://techcrunch.com/2023/06/15/deepchecks-snags-14m-seed-to-continuously-validate-ml-models/)
-- [NASA&#39;s James Webb Space Telescope mission — Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
-- [An investor, an operator, and their plan to upskill Africa’s workforce](https://techcrunch.com/2023/06/15/an-investor-an-operator-and-their-plan-to-upskill-africas-workforce/)
-- [Lightspeed says India not for the faint-hearted amid Sequoia split](https://techcrunch.com/2023/06/14/lightspeed-says-india-not-for-the-faint-hearted-amid-sequoia-split/)
-- [ChrysCapital invests $100 million in India’s Lenskart](https://techcrunch.com/2023/06/14/chryscapital-invests-100-million-in-lenskart/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
