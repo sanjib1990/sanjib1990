@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lightspeed says India not for the faint-hearted amid Sequoia split](https://techcrunch.com/2023/06/14/lightspeed-says-india-not-for-the-faint-hearted-amid-sequoia-split/)
+- [ChrysCapital invests $100 million in India’s Lenskart](https://techcrunch.com/2023/06/14/chryscapital-invests-100-million-in-lenskart/)
 - [GM’s BrightDrop makes first commercial EVs delivery outside US](https://techcrunch.com/2023/06/14/gms-brightdrop-makes-first-commercial-evs-delivery-outside-us/)
 - [Radio station gets part-time AI DJ based on its midday host](https://techcrunch.com/2023/06/14/radio-station-gets-part-time-ai-dj-based-on-its-midday-host/)
 - [EV startup Telo bets America is ready for a dreamy little pickup](https://techcrunch.com/2023/06/14/ev-startup-telo-america-small-pickup-truck/)
-- [&#39;Starfield&#39; offers players a massive space odyssey in new gameplay footage](https://www.space.com/starfield-gameplay-trailer-june-2023)
-- [TrueCar lays off 102 employees, taps new CEO amid restructure](https://techcrunch.com/2023/06/14/truecar-lays-off-102-employees-taps-new-ceo-amid-restructure/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
