@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s Artemis 2 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-2-moon-mission-updates)
+- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
 - [Mandiant says China-backed hackers exploited Barracuda zero-day to spy on governments](https://techcrunch.com/2023/06/15/mandiant-china-hackers-barracuda-espionage-governments/)
 - [With backing from Thiel, Recharge Capital launches $200M women’s health investment vehicle](https://techcrunch.com/2023/06/15/recharge-capital-womens-health-investment-vehicle/)
 - [Blackbird lands $20M investment to expand its risk management tools](https://techcrunch.com/2023/06/15/blackbird-lands-20m-investment-to-expand-its-risk-management-tools/)
-- [Amazon’s ‘Hey Disney!’ voice assistant is now available](https://techcrunch.com/2023/06/15/amazons-hey-disney-voice-assistant-is-now-available/)
-- [Private space station: How Axiom Space plans to build its orbital outpost](https://www.space.com/axiom-space-private-station-iss-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
