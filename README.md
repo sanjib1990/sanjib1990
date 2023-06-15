@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Apollo moon landing was real, but NASA&#39;s quarantine procedure was not](https://www.space.com/apollo-11-moon-landing-nasa-quarantine-procedures)
+- [Wargraphs, a gaming startup with only one employee and no outside funding, sells for $54M](https://techcrunch.com/2023/06/15/wargraphs-a-gaming-startup-with-only-one-employee-and-no-outside-funding-sells-for-54m/)
+- [Twitter is facing a $250 million lawsuit filed by major music publishers](https://techcrunch.com/2023/06/15/twitter-is-facing-a-250-million-lawsuit-filed-by-major-music-publishers/)
 - [Stellantis has invested about one-third of its 300M euro fund into 10 startups](https://techcrunch.com/2023/06/15/stellantis-has-invested-about-one-third-of-its-300m-euro-fund-into-10-startups/)
-- [Peach Cars, a Kenyan used-car marketplace, raises $5M in seed investment](https://techcrunch.com/2023/06/15/peach-cars-a-kenyan-used-car-marketplace-raises-5m-in-seed-investment/)
-- [Don’t rush generative AI apps to market without tackling privacy risks, says UK watchdog](https://techcrunch.com/2023/06/15/uk-ico-generative-ai-warning/)
-- [European startups still have a long way to go to achieve gender parity](https://techcrunch.com/2023/06/15/european-startups-still-have-a-long-way-to-go-to-achieve-gender-parity/)
-- [Rocket Lab is set to launch a mystery mission from Virginia. What could it be?](https://www.space.com/rocket-lab-mystery-mission-virginia-june-2023)
+- [Best Love, Death + Robots episodes](https://www.space.com/best-love-death-and-robots-episodes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
