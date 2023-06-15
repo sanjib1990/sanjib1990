@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The Apollo moon landing was real, but NASA&#39;s quarantine procedure was not](https://www.space.com/apollo-11-moon-landing-nasa-quarantine-procedures)
-- [Wargraphs, a gaming startup with only one employee and no outside funding, sells for $54M](https://techcrunch.com/2023/06/15/wargraphs-a-gaming-startup-with-only-one-employee-and-no-outside-funding-sells-for-54m/)
-- [Twitter is facing a $250 million lawsuit filed by major music publishers](https://techcrunch.com/2023/06/15/twitter-is-facing-a-250-million-lawsuit-filed-by-major-music-publishers/)
-- [Stellantis has invested about one-third of its 300M euro fund into 10 startups](https://techcrunch.com/2023/06/15/stellantis-has-invested-about-one-third-of-its-300m-euro-fund-into-10-startups/)
-- [Best Love, Death + Robots episodes](https://www.space.com/best-love-death-and-robots-episodes)
+- [Mandiant says China-backed hackers exploited Barracuda zero-day to spy on governments](https://techcrunch.com/2023/06/15/mandiant-china-hackers-barracuda-espionage-governments/)
+- [With backing from Thiel, Recharge Capital launches $200M women’s health investment vehicle](https://techcrunch.com/2023/06/15/recharge-capital-womens-health-investment-vehicle/)
+- [Blackbird lands $20M investment to expand its risk management tools](https://techcrunch.com/2023/06/15/blackbird-lands-20m-investment-to-expand-its-risk-management-tools/)
+- [Amazon’s ‘Hey Disney!’ voice assistant is now available](https://techcrunch.com/2023/06/15/amazons-hey-disney-voice-assistant-is-now-available/)
+- [Private space station: How Axiom Space plans to build its orbital outpost](https://www.space.com/axiom-space-private-station-iss-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
