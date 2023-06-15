@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Weird&#39; game of cosmic tug-of-war in the Tarantula Nebula weaves up new stars](https://www.space.com/star-formation-tug-of-war-tarantula-nebula-magnetic-fields)
+- [The moon and Mercury meet in the bright red &#39;eye of the bull&#39; early Friday morning](https://www.space.com/moon-mercury-taurus-june-2023)
+- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
 - [How two founders approach building ethical AI startups in health care](https://techcrunch.com/2023/06/15/ethical-ai-health-care-startups/)
 - [Geminid meteor shower spawned by violent asteroid smashup](https://www.space.com/geminid-meteor-shower-asteroid-high-speed-collision)
-- [It’s a bird, it’s a plane, no, it’s a crypto whale](https://techcrunch.com/2023/06/15/its-a-bird-its-a-plane-no-its-a-crypto-whale/)
-- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
-- [Astronauts unfurl final &lpar;for now&rpar; roll-out solar array on record-tying spacewalk outside space station](https://www.space.com/astronauts-spacewalk-international-space-station-sixth-solar-array-deployed)
 <!-- BLOG-POST-LIST:END -->
 
 ---
