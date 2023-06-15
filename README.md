@@ -82,7 +82,7 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Quantum: Current State 2023 - Computerphile](https://www.youtube.com/watch?v=JqHVs5zhD5g)
+- [Quantum: Current State 2023 &lpar;Quantum pt2&rpar; - Computerphile](https://www.youtube.com/watch?v=JqHVs5zhD5g)
 - [Lecture 6: Cities and Transport Systems](https://www.youtube.com/watch?v=IdG07-Ga4BM)
 - [Lecture 14: Cities and Renewable Energy, part 2: Solar](https://www.youtube.com/watch?v=3WXWESx6jWY)
 - [Lecture 15: Cities and the Grid](https://www.youtube.com/watch?v=pCR98Hv-HUk)
