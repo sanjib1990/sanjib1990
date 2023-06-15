@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Stellantis has invested about one-third of its 300M euro fund into 10 startups](https://techcrunch.com/2023/06/15/stellantis-has-invested-about-one-third-of-its-300m-euro-fund-into-10-startups/)
+- [Peach Cars, a Kenyan used-car marketplace, raises $5M in seed investment](https://techcrunch.com/2023/06/15/peach-cars-a-kenyan-used-car-marketplace-raises-5m-in-seed-investment/)
+- [Don’t rush generative AI apps to market without tackling privacy risks, says UK watchdog](https://techcrunch.com/2023/06/15/uk-ico-generative-ai-warning/)
+- [European startups still have a long way to go to achieve gender parity](https://techcrunch.com/2023/06/15/european-startups-still-have-a-long-way-to-go-to-achieve-gender-parity/)
 - [Rocket Lab is set to launch a mystery mission from Virginia. What could it be?](https://www.space.com/rocket-lab-mystery-mission-virginia-june-2023)
-- [This &#39;postcard&#39; of a Mars day from NASA&#39;s Curiosity rover is gorgeous &lpar;photo&rpar;](https://www.space.com/curiosity-mars-rover-morning-afternoon-postcard)
-- [Ransomware gang lists first victims of MOVEit mass-hacks, including US banks and universities](https://techcrunch.com/2023/06/15/moveit-clop-mass-hacks-banks-universities/)
-- [BYD is overtaking Tesla, but its EV dream skips the US for now](https://techcrunch.com/2023/06/15/byd-is-overtaking-tesla-but-its-ev-dream-skips-the-us-for-now/)
-- [Deepchecks snags $14M seed to continuously validate ML models](https://techcrunch.com/2023/06/15/deepchecks-snags-14m-seed-to-continuously-validate-ml-models/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
