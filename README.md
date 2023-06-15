@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [An investor, an operator, and their plan to upskill Africa’s workforce](https://techcrunch.com/2023/06/15/an-investor-an-operator-and-their-plan-to-upskill-africas-workforce/)
 - [Lightspeed says India not for the faint-hearted following Sequoia split](https://techcrunch.com/2023/06/14/lightspeed-says-india-not-for-the-faint-hearted-amid-sequoia-split/)
 - [ChrysCapital invests $100 million in India’s Lenskart](https://techcrunch.com/2023/06/14/chryscapital-invests-100-million-in-lenskart/)
 - [GM’s BrightDrop makes first commercial EVs delivery outside US](https://techcrunch.com/2023/06/14/gms-brightdrop-makes-first-commercial-evs-delivery-outside-us/)
 - [Radio station gets part-time AI DJ based on its midday host](https://techcrunch.com/2023/06/14/radio-station-gets-part-time-ai-dj-based-on-its-midday-host/)
-- [EV startup Telo bets America is ready for a dreamy little pickup](https://techcrunch.com/2023/06/14/ev-startup-telo-america-small-pickup-truck/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
