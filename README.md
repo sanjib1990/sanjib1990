@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lyft co-founder Logan Green retains board seat despite shareholder opposition](https://techcrunch.com/2023/06/15/lyft-co-founder-logan-green-retains-board-seat-despite-shareholder-opposition/)
+- [Virgin Galactic will launch its 1st commercial spaceflight on June 27](https://www.space.com/virgin-galactic-first-commercial-spaceflight-june-2023)
 - [Virgin Galactic starts commercial spaceflights in two weeks](https://techcrunch.com/2023/06/15/virgin-galactic-starts-commercial-spaceflights-in-two-weeks/)
 - [Post, a publisher-focused Twitter alternative, launches on iOS](https://techcrunch.com/2023/06/15/post-a-publisher-focused-twitter-alternative-launches-on-ios/)
 - [Twitter competitor Spill launches in beta on iOS](https://techcrunch.com/2023/06/15/twitter-competitor-spill-launches-in-beta-on-ios/)
-- [The week in AI: Apple makes machine learning moves](https://techcrunch.com/2023/06/15/the-week-in-ai-apple-makes-machine-learning-moves/)
-- [&#39;Weird&#39; game of cosmic tug-of-war in the Tarantula Nebula weaves up new stars](https://www.space.com/star-formation-tug-of-war-tarantula-nebula-magnetic-fields)
 <!-- BLOG-POST-LIST:END -->
 
 ---
