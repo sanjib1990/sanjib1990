@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Viral YouTube video explains NASA&#39;s search for alien life](https://www.space.com/search-for-alien-life-with-nasa-video)
+- [Here’s why it’s scary that investors believe they can monetize the climate crisis](https://techcrunch.com/2023/06/16/heres-why-its-scary-that-investors-believe-they-can-monetize-the-climate-crisis/)
 - [Large Hadron Collider may be closing in on the universe&#39;s missing antimatter](https://www.space.com/large-hadron-collider-matter-antimatter-mystery)
 - [NASA hits up 7 space companies to take on orbital squad goals](https://techcrunch.com/2023/06/16/nasa-hits-up-7-space-companies-to-take-on-orbital-squad-goals/)
 - [BuzzCutt steers the sober curious toward booze-free bar and restaurant options](https://techcrunch.com/2023/06/16/buzzcutt-app-sober-alcohol-free-local-options/)
-- [Record breaker! New fastest star zooms through Milky Way at 5 million mph](https://www.space.com/fastest-runaway-stars-milky-way)
-- [Surprise! Jupiter&#39;s ocean moon Europa may not have a fully formed core](https://www.space.com/jupiter-ocean-moon-europa-no-fully-formed-core)
 <!-- BLOG-POST-LIST:END -->
 
 ---
