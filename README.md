@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Pitch Deck Teardown: Netmaker’s $2.3M seed deck](https://techcrunch.com/2023/06/16/sample-seed-pitch-deck-netmaker/)
-- [See latest configuration of China&#39;s Tiangong space station in stunning new video](https://www.space.com/china-tiangong-space-station-new-configuration-video)
-- [PhotoPills app review](https://www.space.com/photopills-app-review)
-- [Smaller VCs are having an impact on diverse investors and founders](https://techcrunch.com/2023/06/16/smaller-vcs-diversity-investment/)
-- [James Webb Space Telescope gets satellite sidekick to aid search for habitable planets](https://www.space.com/james-webb-space-telescope-satellite-sidekick-habitable-exoplanets)
+- [Ticketmaster, SeatGeek, Live Nation agree to disclose fees upfront &lpar;thanks, Biden&rpar;](https://techcrunch.com/2023/06/16/ticketmaster-seatgeek-live-nation-agree-to-disclose-fees-up-front/)
+- [Mistral AI’s mega fundraise is a red flag for many concerned about inclusivity](https://techcrunch.com/2023/06/16/mistral-ai-funding-diversity-problems/)
+- [Space pictures! See our image of the day](https://www.space.com/34-image-day.html)
+- [US confirms federal agencies hit by MOVEit breach, as hackers list more victims](https://techcrunch.com/2023/06/16/us-confirms-federal-agencies-hit-by-moveit-breach-as-hackers-list-more-victims/)
+- [A simple bug exposed access to thousands of smart security alarm systems](https://techcrunch.com/2023/06/16/eaton-secureconnect-security-alarm-vulnerability/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
