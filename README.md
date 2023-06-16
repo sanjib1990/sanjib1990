@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is Picard Day? &#39;Star Trek&#39; fans make it so on June 16](https://www.space.com/star-trek-picard-day-june-16-2023)
+- [Feds catch another LockBit hacker, Justice Department announces](https://techcrunch.com/2023/06/16/feds-catch-another-lockbit-hacker-justice-department-announces/)
+- [Star Wars: Visions season 2 episodes ranked, worst to best](https://www.space.com/star-wars-visions-season-2-episodes-ranked-worst-to-best)
+- [Amazon’s $1.7B iRobot acquisition greenlighted by UK antitrust regulator](https://techcrunch.com/2023/06/16/uk-approves-amazon-irobot-acquisition/)
 - [Reddit CEO lashes out on protests, moderators and third-party apps](https://techcrunch.com/2023/06/16/reddit-ceo-lashes-out-on-protests-moderators-and-third-party-apps/)
-- [When Johnny met Sally: &#39;The first woman in space&#39; and a Skylab strip](https://www.space.com/tereshkova-sally-ride-skylab-hart-comic-strip)
-- [Inflatable moon telescope could peer into universe&#39;s Dark Ages](https://www.space.com/inflatable-moon-telescope-universe-dark-ages)
-- [Bill Gates meets with President Xi Jinping in Beijing](https://techcrunch.com/2023/06/15/bill-gates-meets-with-president-xi-jinping-in-beijing/)
-- [Socar’s ride-hailing platform Tada adds to growing list of tech layoffs](https://techcrunch.com/2023/06/15/socars-ride-hailing-platform-tada-adds-to-growing-list-of-tech-layoffs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
