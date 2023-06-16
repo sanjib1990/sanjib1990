@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch+ roundup: SaaS valuations up, clean energy tax credits, H-1B transfer options](https://techcrunch.com/2023/06/16/techcrunch-roundup-saas-valuations-up-clean-energy-tax-credits-h-1b-transfer-options/)
+- [It’s not just hype, corporate America is making huge bets on AI transforming their businesses](https://techcrunch.com/2023/06/16/ai-transformating-corporate-america/)
+- [Astronaut watches Cyclone Biparjoy swirl over the Arabian Sea from space &lpar;video&rpar;](https://www.space.com/international-space-station-cyclone-biparjoy-arabian-sea-video)
+- [Make way for a new vegan protein on the menu](https://techcrunch.com/2023/06/16/solein-chociolate-gelato/)
 - [Ticketmaster, SeatGeek, Live Nation agree to disclose fees upfront &lpar;thanks, Biden&rpar;](https://techcrunch.com/2023/06/16/ticketmaster-seatgeek-live-nation-agree-to-disclose-fees-up-front/)
-- [Mistral AI’s mega fundraise is a red flag for many concerned about inclusivity](https://techcrunch.com/2023/06/16/mistral-ai-funding-diversity-problems/)
-- [Space pictures! See our image of the day](https://www.space.com/34-image-day.html)
-- [US confirms federal agencies hit by MOVEit breach, as hackers list more victims](https://techcrunch.com/2023/06/16/us-confirms-federal-agencies-hit-by-moveit-breach-as-hackers-list-more-victims/)
-- [A simple bug exposed access to thousands of smart security alarm systems](https://techcrunch.com/2023/06/16/eaton-secureconnect-security-alarm-vulnerability/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
