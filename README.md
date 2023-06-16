@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pitch Deck Teardown: Netmaker’s $2.3M seed deck](https://techcrunch.com/2023/06/16/sample-seed-pitch-deck-netmaker/)
+- [See latest configuration of China&#39;s Tiangong space station in stunning new video](https://www.space.com/china-tiangong-space-station-new-configuration-video)
+- [PhotoPills app review](https://www.space.com/photopills-app-review)
 - [Smaller VCs are having an impact on diverse investors and founders](https://techcrunch.com/2023/06/16/smaller-vcs-diversity-investment/)
 - [James Webb Space Telescope gets satellite sidekick to aid search for habitable planets](https://www.space.com/james-webb-space-telescope-satellite-sidekick-habitable-exoplanets)
-- [&#39;Foundation&#39; Season 2 trailer teases &#39;despair, death and destruction&#39; for Apple TV+&#39;s epic space drama](https://www.space.com/foundation-season-two-trailer-apple-tv-plus)
-- [What is Picard Day? &#39;Star Trek&#39; fans make it so on June 16](https://www.space.com/star-trek-picard-day-june-16-2023)
-- [Feds catch another LockBit hacker, Justice Department announces](https://techcrunch.com/2023/06/16/feds-catch-another-lockbit-hacker-justice-department-announces/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
