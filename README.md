@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Reddit CEO lashes out on protests, moderators and third-party apps](https://techcrunch.com/2023/06/16/reddit-ceo-lashes-out-on-protests-moderators-and-third-party-apps/)
+- [When Johnny met Sally: &#39;The first woman in space&#39; and a Skylab strip](https://www.space.com/tereshkova-sally-ride-skylab-hart-comic-strip)
+- [Inflatable moon telescope could peer into universe&#39;s Dark Ages](https://www.space.com/inflatable-moon-telescope-universe-dark-ages)
 - [Bill Gates meets with President Xi Jinping in Beijing](https://techcrunch.com/2023/06/15/bill-gates-meets-with-president-xi-jinping-in-beijing/)
 - [Socar’s ride-hailing platform Tada adds to growing list of tech layoffs](https://techcrunch.com/2023/06/15/socars-ride-hailing-platform-tada-adds-to-growing-list-of-tech-layoffs/)
-- [LockBit claims ransomware attack on pharma giant Granules India](https://techcrunch.com/2023/06/15/lockbit-ransomware-granules-india/)
-- [Lyft co-founder Logan Green retains board seat despite shareholder opposition](https://techcrunch.com/2023/06/15/lyft-co-founder-logan-green-retains-board-seat-despite-shareholder-opposition/)
-- [Virgin Galactic will launch its 1st commercial spaceflight on June 27](https://www.space.com/virgin-galactic-first-commercial-spaceflight-june-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
