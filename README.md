@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Large Hadron Collider may be closing in on the universe&#39;s missing antimatter](https://www.space.com/large-hadron-collider-matter-antimatter-mystery)
+- [NASA hits up 7 space companies to take on orbital squad goals](https://techcrunch.com/2023/06/16/nasa-hits-up-7-space-companies-to-take-on-orbital-squad-goals/)
+- [BuzzCutt steers the sober curious toward booze-free bar and restaurant options](https://techcrunch.com/2023/06/16/buzzcutt-app-sober-alcohol-free-local-options/)
+- [Record breaker! New fastest star zooms through Milky Way at 5 million mph](https://www.space.com/fastest-runaway-stars-milky-way)
 - [Surprise! Jupiter&#39;s ocean moon Europa may not have a fully formed core](https://www.space.com/jupiter-ocean-moon-europa-no-fully-formed-core)
-- [Revolut sees its valuation reconsidered as public markets stir the fintech pot](https://techcrunch.com/2023/06/16/revolut-sees-its-valuation-reconsidered-as-public-markets-stir-the-fintech-pot/)
-- [TechCrunch+ roundup: SaaS valuations up, clean energy tax credits, H-1B transfer options](https://techcrunch.com/2023/06/16/techcrunch-roundup-saas-valuations-up-clean-energy-tax-credits-h-1b-transfer-options/)
-- [It’s not just hype, corporate America is making huge bets on AI transforming their businesses](https://techcrunch.com/2023/06/16/ai-transformating-corporate-america/)
-- [Astronaut watches Cyclone Biparjoy swirl over the Arabian Sea from space &lpar;video&rpar;](https://www.space.com/international-space-station-cyclone-biparjoy-arabian-sea-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
