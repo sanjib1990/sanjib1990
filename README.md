@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Surprise! Jupiter&#39;s ocean moon Europa may not have a fully formed core](https://www.space.com/jupiter-ocean-moon-europa-no-fully-formed-core)
+- [Revolut sees its valuation reconsidered as public markets stir the fintech pot](https://techcrunch.com/2023/06/16/revolut-sees-its-valuation-reconsidered-as-public-markets-stir-the-fintech-pot/)
 - [TechCrunch+ roundup: SaaS valuations up, clean energy tax credits, H-1B transfer options](https://techcrunch.com/2023/06/16/techcrunch-roundup-saas-valuations-up-clean-energy-tax-credits-h-1b-transfer-options/)
 - [It’s not just hype, corporate America is making huge bets on AI transforming their businesses](https://techcrunch.com/2023/06/16/ai-transformating-corporate-america/)
 - [Astronaut watches Cyclone Biparjoy swirl over the Arabian Sea from space &lpar;video&rpar;](https://www.space.com/international-space-station-cyclone-biparjoy-arabian-sea-video)
-- [Make way for a new vegan protein on the menu](https://techcrunch.com/2023/06/16/solein-chociolate-gelato/)
-- [Ticketmaster, SeatGeek, Live Nation agree to disclose fees upfront &lpar;thanks, Biden&rpar;](https://techcrunch.com/2023/06/16/ticketmaster-seatgeek-live-nation-agree-to-disclose-fees-up-front/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
