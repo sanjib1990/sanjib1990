@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Electric truck maker Nikola to cut 23% of workforce](https://techcrunch.com/2023/06/16/electric-truck-maker-nikola-to-cut-23-of-workforce/)
 - [Viral YouTube video explains NASA&#39;s search for alien life](https://www.space.com/search-for-alien-life-with-nasa-video)
 - [Here’s why it’s scary that investors believe they can monetize the climate crisis](https://techcrunch.com/2023/06/16/heres-why-its-scary-that-investors-believe-they-can-monetize-the-climate-crisis/)
 - [Large Hadron Collider may be closing in on the universe&#39;s missing antimatter](https://www.space.com/large-hadron-collider-matter-antimatter-mystery)
 - [NASA hits up 7 space companies to take on orbital squad goals](https://techcrunch.com/2023/06/16/nasa-hits-up-7-space-companies-to-take-on-orbital-squad-goals/)
-- [BuzzCutt steers the sober curious toward booze-free bar and restaurant options](https://techcrunch.com/2023/06/16/buzzcutt-app-sober-alcohol-free-local-options/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
