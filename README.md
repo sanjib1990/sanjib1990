@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [China launches national-record 41 satellites on single rocket &lpar;video&rpar;](https://www.space.com/china-single-launch-record-41-satellites-video)
+- [El Niño is officially here, scientists say](https://www.space.com/el-nino-is-officially-here-2023)
 - [Alien green flash: Lightning crackles in vortex near Jupiter&#39;s north pole &lpar;photo&rpar;](https://www.space.com/jupiter-lightning-north-pole-juno-photo)
 - [Where did Earth get its water? It was sucked up from space, new theory says](https://www.space.com/earth-formation-few-million-years)
 - [New parachute system could ease some of China&#39;s rocket-debris issues &lpar;video&rpar;](https://www.space.com/china-rocket-debris-issues-parachute-system)
-- [Use the dark new moon of June to see 5 visible planets in the sky tonight](https://www.space.com/new-moon-planet-parade-june-2023)
-- [Look up and see Saturn as it changes directions in the sky tonight](https://www.space.com/saturn-retrograde-june-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
