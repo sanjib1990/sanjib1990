@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Use the dark new moon of June to see 5 visible planets in the sky tonight](https://www.space.com/new-moon-planet-parade-june-2023)
+- [Look up and see Saturn as it changes directions in the sky tonight](https://www.space.com/saturn-retrograde-june-2023)
 - [Meta says it’s totally fine for 10-year-olds to wear its VR headset, probably](https://techcrunch.com/2023/06/16/meta-says-its-totally-fine-for-10-year-olds-to-wear-its-vr-headset-probably/)
 - [Electric truck maker Nikola to cut 23% of workforce](https://techcrunch.com/2023/06/16/electric-truck-maker-nikola-to-cut-23-of-workforce/)
 - [Viral YouTube video explains NASA&#39;s search for alien life](https://www.space.com/search-for-alien-life-with-nasa-video)
-- [Here’s why it’s scary that investors believe they can monetize the climate crisis](https://techcrunch.com/2023/06/16/heres-why-its-scary-that-investors-believe-they-can-monetize-the-climate-crisis/)
-- [Large Hadron Collider may be closing in on the universe&#39;s missing antimatter](https://www.space.com/large-hadron-collider-matter-antimatter-mystery)
 <!-- BLOG-POST-LIST:END -->
 
 ---
