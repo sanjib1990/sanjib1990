@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Where did Earth get its water? It was sucked up from space, new theory says](https://www.space.com/earth-formation-few-million-years)
+- [New parachute system could ease some of China&#39;s rocket-debris issues &lpar;video&rpar;](https://www.space.com/china-rocket-debris-issues-parachute-system)
 - [Use the dark new moon of June to see 5 visible planets in the sky tonight](https://www.space.com/new-moon-planet-parade-june-2023)
 - [Look up and see Saturn as it changes directions in the sky tonight](https://www.space.com/saturn-retrograde-june-2023)
 - [Meta says it’s totally fine for 10-year-olds to wear its VR headset, probably](https://techcrunch.com/2023/06/16/meta-says-its-totally-fine-for-10-year-olds-to-wear-its-vr-headset-probably/)
-- [Electric truck maker Nikola to cut 23% of workforce](https://techcrunch.com/2023/06/16/electric-truck-maker-nikola-to-cut-23-of-workforce/)
-- [Viral YouTube video explains NASA&#39;s search for alien life](https://www.space.com/search-for-alien-life-with-nasa-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
