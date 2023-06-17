@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Deal Dive: Maybe venture debt works for asset managers after all](https://techcrunch.com/2023/06/17/blackrock-venture-debt-asset-managers/)
 - [China launches national-record 41 satellites on single rocket &lpar;video&rpar;](https://www.space.com/china-single-launch-record-41-satellites-video)
 - [El Niño is officially here, scientists say](https://www.space.com/el-nino-is-officially-here-2023)
 - [Alien green flash: Lightning crackles in vortex near Jupiter&#39;s north pole &lpar;photo&rpar;](https://www.space.com/jupiter-lightning-north-pole-juno-photo)
 - [Where did Earth get its water? It was sucked up from space, new theory says](https://www.space.com/earth-formation-few-million-years)
-- [New parachute system could ease some of China&#39;s rocket-debris issues &lpar;video&rpar;](https://www.space.com/china-rocket-debris-issues-parachute-system)
 <!-- BLOG-POST-LIST:END -->
 
 ---
