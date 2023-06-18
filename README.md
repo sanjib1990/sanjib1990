@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pixar&#39;s &#39;Elio&#39; trailer reveals Earth&#39;s pint-sized leader in new cosmic adventure](https://www.space.com/pixar-elio-trailer-earth-leader)
+- [US Space Force wants private companies to help it counter &#39;emerging threats&#39; in space](https://www.space.com/space-force-cosmic-office-emerging-threats)
 - [Watch SpaceX launch Indonesian satellite this evening](https://www.space.com/spacex-psn-satria-indonesian-satellite-launch)
 - [Astronaut Sally Ride brought women and the LGBTQ+ community to the final frontier 40 years ago](https://www.space.com/nasa-astronaut-sally-ride-women-lgbtq-40-years)
 - [Reddit’s CEO lashes out, Twitter gets evicted, and NYC delivery workers get a pay raise](https://techcrunch.com/2023/06/17/reddits-ceo-lashes-out-twitter-gets-evicted-and-nyc-delivery-workers-get-a-pay-raise/)
-- [The UK hasn’t lost its appeal for venture capital](https://techcrunch.com/2023/06/17/uk-venture-capital-leader/)
-- [Deal Dive: Maybe venture debt works for asset managers after all](https://techcrunch.com/2023/06/17/blackrock-venture-debt-asset-managers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
