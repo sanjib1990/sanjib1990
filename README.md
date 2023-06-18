@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [You.com looks to innovation to chip away at Google’s search dominance](https://techcrunch.com/2023/06/18/you-search-browser-google-ai/)
 - [Disney&#39;s new Tron Lightcycle Run ride immerses fans in high-speed sci-fi action](https://www.space.com/disney-tron-lightcycle-run-ride)
 - [Humans are pumping out so much groundwater that it&#39;s changing Earth&#39;s tilt](https://www.space.com/earth-tilt-changed-by-groundwater-pumping)
 - [Mojocare investors uncover financial irregularities, unsustainable business model](https://techcrunch.com/2023/06/18/mojocare-investors-uncover-financial-irregularities-unsustainable-business-model/)
 - [Pixar&#39;s &#39;Elio&#39; trailer reveals Earth&#39;s pint-sized leader in new cosmic adventure](https://www.space.com/pixar-elio-trailer-earth-leader)
-- [US Space Force wants private companies to help it counter &#39;emerging threats&#39; in space](https://www.space.com/space-force-cosmic-office-emerging-threats)
 <!-- BLOG-POST-LIST:END -->
 
 ---
