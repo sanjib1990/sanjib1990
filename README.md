@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch SpaceX launch Indonesian satellite this evening](https://www.space.com/spacex-psn-satria-indonesian-satellite-launch)
+- [Astronaut Sally Ride brought women and the LGBTQ+ community to the final frontier 40 years ago](https://www.space.com/nasa-astronaut-sally-ride-women-lgbtq-40-years)
 - [Reddit’s CEO lashes out, Twitter gets evicted, and NYC delivery workers get a pay raise](https://techcrunch.com/2023/06/17/reddits-ceo-lashes-out-twitter-gets-evicted-and-nyc-delivery-workers-get-a-pay-raise/)
 - [The UK hasn’t lost its appeal for venture capital](https://techcrunch.com/2023/06/17/uk-venture-capital-leader/)
 - [Deal Dive: Maybe venture debt works for asset managers after all](https://techcrunch.com/2023/06/17/blackrock-venture-debt-asset-managers/)
-- [China launches national-record 41 satellites on single rocket &lpar;video&rpar;](https://www.space.com/china-single-launch-record-41-satellites-video)
-- [El Niño is officially here, scientists say](https://www.space.com/el-nino-is-officially-here-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
