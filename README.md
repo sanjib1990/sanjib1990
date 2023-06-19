@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A dynamic form of dark energy may explain strange radiation signal from the early universe](https://www.space.com/dark-energy-strange-dynamic-form-early-universe-signals)
 - [What are kyber crystals?](https://www.space.com/what-are-kyber-crystals)
 - [How do lightsabers work?](https://www.space.com/how-do-lightsabers-work)
 - [Europe&#39;s BepiColombo spacecraft to zoom within 150 miles of Mercury in close flyby today](https://www.space.com/mercury-flyby-bepicolombo-spacecraft-june-2023)
 - [NASA recognizes Juneteenth with ceremonial flag-raising &lpar;photos&rpar;](https://www.space.com/nasa-flag-raising-juneteenth-holiday-2023)
-- [PayGo solar startup Yellow raises $14 million to scale in africa](https://techcrunch.com/2023/06/19/paygo-solar-startup-yellow-raises-14-million-to-scale-in-africa/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
