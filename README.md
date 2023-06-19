@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Y Combinator-backed Rever aims to modernize refunds and returns](https://techcrunch.com/2023/06/19/y-combinator-backed-rever-aims-to-modernize-refunds-and-returns/)
 - [Seedstars, Fondation Botnar launch new fund to back African startups focused on youth wellbeing](https://techcrunch.com/2023/06/18/seedstars-fondation-botnar-launch-new-fund-to-back-african-startups-focused-on-youth-wellbeing/)
 - [Mercedes jumps into the ChatGPT fray and Toyota plays catch-up](https://techcrunch.com/2023/06/18/mercedes-jumps-into-the-chatgpt-fray-and-toyota-plays-catch-up/)
 - [We should all be worried about AI infiltrating crowdsourced work](https://techcrunch.com/2023/06/18/i-robot/)
 - [The moon, Venus, Mars and bright stars shine in a summer celestial gathering this week. Here&#39;s how to see it.](https://www.space.com/moon-venus-mars-stars-summer-night-sky-june-2023)
-- [You.com looks to innovation to chip away at Google’s search dominance](https://techcrunch.com/2023/06/18/you-search-browser-google-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
