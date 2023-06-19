@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rocket Lab&#39;s modified Electron rocket HASTE achieves first suborbital launch](https://www.space.com/rocket-lab-haste-first-suborbital-launch)
 - [Parallel Domain’s API lets customers use generative AI to build synthetic datasets](https://techcrunch.com/2023/06/19/parallel-domains-api-lets-customers-use-generative-ai-to-build-synthetic-datasets/)
 - [Reddit communities adopt alternative forms of protest as the company threats action on moderators](https://techcrunch.com/2023/06/19/reddit-communities-adopt-alternative-forms-of-protest-as-the-company-threats-action-on-moderators/)
 - [What happens to the smaller VC firms in a more conservative market?](https://techcrunch.com/2023/06/19/small-vc-firms-bear-market/)
 - [Astrophoto of the month: New supernova SN 2023ixf in the Pinwheel Galaxy](https://www.space.com/astrophoto-of-the-month-astrophotography)
-- [India’s Byju’s to cut up to 1,000 more jobs](https://techcrunch.com/2023/06/19/byjus-layoff/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
