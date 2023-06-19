@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What are kyber crystals?](https://www.space.com/what-are-kyber-crystals)
+- [How do lightsabers work?](https://www.space.com/how-do-lightsabers-work)
+- [Europe&#39;s BepiColombo spacecraft to zoom within 150 miles of Mercury in close flyby today](https://www.space.com/mercury-flyby-bepicolombo-spacecraft-june-2023)
+- [NASA recognizes Juneteenth with ceremonial flag-raising &lpar;photos&rpar;](https://www.space.com/nasa-flag-raising-juneteenth-holiday-2023)
 - [PayGo solar startup Yellow raises $14 million to scale in africa](https://techcrunch.com/2023/06/19/paygo-solar-startup-yellow-raises-14-million-to-scale-in-africa/)
-- [Fisker to enter China’s hotly contested EV market with local production plans](https://techcrunch.com/2023/06/19/fisker-enter-chinas-hotly-contested-ev-market-local-production-plans/)
-- [Hackers threaten to leak 80GB of confidential data stolen from Reddit](https://techcrunch.com/2023/06/19/hackers-threaten-to-leak-80gb-of-confidential-data-stolen-from-reddit/)
-- [Y Combinator-backed Rever aims to modernize refunds and returns](https://techcrunch.com/2023/06/19/y-combinator-backed-rever-aims-to-modernize-refunds-and-returns/)
-- [Seedstars, Fondation Botnar launch new fund to back African startups focused on youth wellbeing](https://techcrunch.com/2023/06/18/seedstars-fondation-botnar-launch-new-fund-to-back-african-startups-focused-on-youth-wellbeing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
