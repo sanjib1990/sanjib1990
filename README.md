@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Parallel Domain’s API lets customers use generative AI to build synthetic datasets](https://techcrunch.com/2023/06/19/parallel-domains-api-lets-customers-use-generative-ai-to-build-synthetic-datasets/)
+- [Reddit communities adopt alternative forms of protest as the company threats action on moderators](https://techcrunch.com/2023/06/19/reddit-communities-adopt-alternative-forms-of-protest-as-the-company-threats-action-on-moderators/)
 - [What happens to the smaller VC firms in a more conservative market?](https://techcrunch.com/2023/06/19/small-vc-firms-bear-market/)
+- [Astrophoto of the month: New supernova SN 2023ixf in the Pinwheel Galaxy](https://www.space.com/astrophoto-of-the-month-astrophotography)
 - [India’s Byju’s to cut up to 1,000 more jobs](https://techcrunch.com/2023/06/19/byjus-layoff/)
-- [Radiant is a no-frills iOS client for Mastodon](https://techcrunch.com/2023/06/19/radiant-is-a-no-frills-ios-client-for-mastodon/)
-- [A dynamic form of dark energy may explain strange radiation signal from the early universe](https://www.space.com/dark-energy-strange-dynamic-form-early-universe-signals)
-- [What are kyber crystals?](https://www.space.com/what-are-kyber-crystals)
 <!-- BLOG-POST-LIST:END -->
 
 ---
