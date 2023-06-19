@@ -94,10 +94,10 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What happens to the smaller VC firms in a more conservative market?](https://techcrunch.com/2023/06/19/small-vc-firms-bear-market/)
 - [India’s Byju’s to cut up to 1,000 more jobs](https://techcrunch.com/2023/06/19/byjus-layoff/)
 - [Radiant is a no-frills iOS client for Mastodon](https://techcrunch.com/2023/06/19/radiant-is-a-no-frills-ios-client-for-mastodon/)
 - [A dynamic form of dark energy may explain strange radiation signal from the early universe](https://www.space.com/dark-energy-strange-dynamic-form-early-universe-signals)
-- [How do lightsabers work?](https://www.space.com/how-do-lightsabers-work)
 - [What are kyber crystals?](https://www.space.com/what-are-kyber-crystals)
 <!-- BLOG-POST-LIST:END -->
 
