@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Europe&#39;s most dangerous &#39;supervolcano&#39; could be creeping toward eruption, scientists warn](https://www.space.com/europes-most-dangerous-supervolcano-could-be-creeping-toward-eruption-scientists-warn)
 - [Quantum computers could overtake classical ones within 2 years, IBM &#39;benchmark&#39; experiment shows](https://www.space.com/quantum-computers-could-overtake-classical-ones-within-2-years-ibm-benchmark-experiment-shows)
 - [Stephen Hawking wanted scientists to &#39;make black holes&#39; on Earth. Physics says it&#39;s possible.](https://www.space.com/stephen-hawking-wanted-scientists-to-make-black-holes-on-earth-physics-says-its-possible)
 - [Rocket Lab&#39;s modified Electron rocket HASTE achieves first suborbital launch](https://www.space.com/rocket-lab-haste-first-suborbital-launch)
 - [Parallel Domain’s API lets customers use generative AI to build synthetic datasets](https://techcrunch.com/2023/06/19/parallel-domains-api-lets-customers-use-generative-ai-to-build-synthetic-datasets/)
-- [Reddit communities adopt alternative forms of protest as the company threats action on moderators](https://techcrunch.com/2023/06/19/reddit-communities-adopt-alternative-forms-of-protest-as-the-company-threats-action-on-moderators/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
