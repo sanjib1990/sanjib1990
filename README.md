@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Stephen Hawking wanted scientists to &#39;make black holes&#39; on Earth. Physics says it&#39;s possible.](https://www.space.com/stephen-hawking-wanted-scientists-to-make-black-holes-on-earth-physics-says-its-possible)
 - [Rocket Lab&#39;s modified Electron rocket HASTE achieves first suborbital launch](https://www.space.com/rocket-lab-haste-first-suborbital-launch)
 - [Parallel Domain’s API lets customers use generative AI to build synthetic datasets](https://techcrunch.com/2023/06/19/parallel-domains-api-lets-customers-use-generative-ai-to-build-synthetic-datasets/)
 - [Reddit communities adopt alternative forms of protest as the company threats action on moderators](https://techcrunch.com/2023/06/19/reddit-communities-adopt-alternative-forms-of-protest-as-the-company-threats-action-on-moderators/)
 - [What happens to the smaller VC firms in a more conservative market?](https://techcrunch.com/2023/06/19/small-vc-firms-bear-market/)
-- [Astrophoto of the month: New supernova SN 2023ixf in the Pinwheel Galaxy](https://www.space.com/astrophoto-of-the-month-astrophotography)
 <!-- BLOG-POST-LIST:END -->
 
 ---
