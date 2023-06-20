@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Volkswagen’s breakthrough could spark a battery manufacturing gold rush](https://techcrunch.com/2023/06/20/volkswagens-battery-lithium-ion-breakthrough/)
-- [Chrome on iOS to get built-in Lens support, along with new Maps and Calendar integrations](https://techcrunch.com/2023/06/20/chrome-on-ios-to-get-built-in-lens-support-along-with-new-maps-and-calendar-integrations/)
-- [Twitch’s new Partner Plus tier strains an already tense relationship with creators](https://techcrunch.com/2023/06/20/twitch-revenue-split-partner-plus-angers-creators/)
-- [Netflix launches website based on the fictional streaming service from ‘Black Mirror’](https://techcrunch.com/2023/06/20/netflix-launches-website-based-on-the-fictional-streaming-service-from-black-mirror/)
-- [Watch Delta IV Heavy rocket launch US spy satellite on penultimate mission early Wednesday](https://www.space.com/delta-iv-heavy-rocket-nrol-68-launch)
+- [A whistleblower raised safety concerns about OceanGate’s submersible in 2018. Then he was fired.](https://techcrunch.com/2023/06/20/a-whistleblower-raised-safety-concerns-about-oceangates-submersible-in-2018-then-he-was-fired/)
+- [European probe captures stunning up-close views of planet Mercury during brief flyby &lpar;video, photos&rpar;](https://www.space.com/bepicolombo-mercury-flyby-photos-june-2023)
+- [New European+LatAm VC fund Boost Capital Partners takes aim at startups with games-level UX](https://techcrunch.com/2023/06/20/new-europeanlatam-vc-fund-boost-capital-partners-takes-aim-at-startups-with-games-level-ux/)
+- [The loneliest monster black holes may also be the hungriest](https://www.space.com/black-holes-hungry-lonely-galaxies)
+- [Space pictures! See our image of the day](https://www.space.com/34-image-day.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
