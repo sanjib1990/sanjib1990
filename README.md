@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Aurora myths, legends and misconceptions](https://www.space.com/aurora-northern-lights-myths-legends-misconceptions)
-- [Unistellar&#39;s Father&#39;s Day telescope deals will save you $500](https://www.space.com/unistellar-fathers-day-deal-500-dollars-cashback)
-- [Peak XV Partners backs India’s Digantara to propel space situational awareness](https://techcrunch.com/2023/06/20/digantara-funding-peak-xv-partners/)
-- [Cosmic-ray &#39;GPS&#39; system that tracks underground movement could change the way we respond to disasters](https://www.space.com/cosmic-ray-gps-system-that-tracks-underground-movement-could-change-the-way-we-respond-to-disasters)
-- [Fast-spinning white dwarf pulsar, the 2nd we&#39;ve ever discovered, sheds light on how stars evolve](https://www.space.com/second-white-dwarf-pulsar-discovered)
+- [Tongan undersea volcano created most intense lightning storm ever recorded](https://www.space.com/tonga-undersea-volcano-eruption-record-breaking-lightning)
+- [Diabetes management startup Clivi wants to be ‘Livongo of Latin America’](https://techcrunch.com/2023/06/20/diabetes-management-clivi-livongo-latin-america-healthcare/)
+- [Cloudflare launches Observability, a tool to beef up web monitoring](https://techcrunch.com/2023/06/20/cloudflare-launches-observability-a-tool-to-beef-up-web-monitoring/)
+- [Rose Rocket, whose platform helps transportation companies communicate, raises $38M](https://techcrunch.com/2023/06/20/rose-rocket-whose-platform-helps-transportation-companies-communicate-raises-38m/)
+- [Parrot AI, a transcription platform that turns speech into text, raises $11M Series A](https://techcrunch.com/2023/06/20/parrot-ai-a-transcription-platform-that-turns-speech-into-text-raises-11m-series-a/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
