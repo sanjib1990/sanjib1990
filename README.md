@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Swedish astronaut &#39;fast-tracked&#39; to join crew of upcoming private Axiom Space mission](https://www.space.com/swedish-astronaut-joins-crew-axiom-space-private-space-mission)
+- [How high can we jump on other worlds?](https://www.space.com/how-high-can-jump-on-other-worlds)
 - [Tiger Global’s search for liquidity illustrates how busted the late-stage market is](https://techcrunch.com/2023/06/20/tiger-global-liquidity-latestage/)
 - [Olx Group cuts 800 jobs as it shuts down some markets](https://techcrunch.com/2023/06/20/olx-group-layoffs/)
 - [Upgrading AI-powered travel products to first class](https://techcrunch.com/2023/06/20/upgrading-ai-powered-travel-products-to-first-class/)
-- [These are the first Denon-branded Nura headphones](https://techcrunch.com/2023/06/20/these-are-the-first-denon-branded-nura-headphones/)
-- [Shaquille O’Neal will discuss investing in Edsoma, life as a mogul and more at Disrupt](https://techcrunch.com/2023/06/20/shaquille-oneal-will-discuss-investing-in-edsoma-life-as-a-mogul-and-more-at-disrupt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
