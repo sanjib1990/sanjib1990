@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cosmic-ray &#39;GPS&#39; system that tracks underground movement could change the way we respond to disasters](https://www.space.com/cosmic-ray-gps-system-that-tracks-underground-movement-could-change-the-way-we-respond-to-disasters)
+- [Discovery of 2nd ever white dwarf pulsar sheds light on how stars evolve](https://www.space.com/second-white-dwarf-pulsar-discovered)
 - [Consumer group calls on EU to urgently investigate ‘the risks of generative AI’](https://techcrunch.com/2023/06/20/consumer-group-calls-on-eu-to-urgently-investigate-the-risks-of-generative-ai/)
 - [Oracle launches its ‘sovereign cloud’ for EU customers](https://techcrunch.com/2023/06/20/oracle-launches-its-sovereign-cloud-for-eu-customers/)
 - [Google Pixel Tablet review: It’s all about the dock](https://techcrunch.com/2023/06/20/google-pixel-tablet-review-its-all-about-the-dock/)
-- [Voice-generating platform ElevenLabs raises $19M, launches detection tool](https://techcrunch.com/2023/06/20/voice-generating-platform-elevenlabs-raises-19m-launches-detection-tool/)
-- [Hyperline is a billing platform for SaaS products](https://techcrunch.com/2023/06/20/hyperline-is-a-billing-platform-for-saas-products/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
