@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Consumer group calls on EU to urgently investigate ‘the risks of generative AI’](https://techcrunch.com/2023/06/20/consumer-group-calls-on-eu-to-urgently-investigate-the-risks-of-generative-ai/)
+- [Oracle launches its ‘sovereign cloud’ for EU customers](https://techcrunch.com/2023/06/20/oracle-launches-its-sovereign-cloud-for-eu-customers/)
 - [Google Pixel Tablet review: It’s all about the dock](https://techcrunch.com/2023/06/20/google-pixel-tablet-review-its-all-about-the-dock/)
 - [Voice-generating platform ElevenLabs raises $19M, launches detection tool](https://techcrunch.com/2023/06/20/voice-generating-platform-elevenlabs-raises-19m-launches-detection-tool/)
 - [Hyperline is a billing platform for SaaS products](https://techcrunch.com/2023/06/20/hyperline-is-a-billing-platform-for-saas-products/)
-- [WhatsApp introduces feature to automatically silence call from unknown numbers](https://techcrunch.com/2023/06/19/whatsapp-introduces-feature-to-automatically-silence-call-from-unknown-numbers/)
-- [Southeast Asia-focused Go-Ventures closes $240M second fund, rebrands as Argor Capital](https://techcrunch.com/2023/06/19/southeast-asia-focused-go-ventures-closes-240m-second-fund-rebrands-as-argor-capital/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
