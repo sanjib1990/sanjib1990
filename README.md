@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Alibaba CEO Daniel Zhang to pass the torch and focus on cloud](https://techcrunch.com/2023/06/19/alibaba-ceo-daniel-zhang-to-step-down-and-focus-on-cloud/)
 - [Vimeo intros a trio of AI-powered editing features](https://techcrunch.com/2023/06/19/vimeo-introduces-a-trio-of-ai-powered-editing-features/)
 - [TuSimple tests removing human driver from self-driving truck in China](https://techcrunch.com/2023/06/19/tusimple-tests-removing-human-driver-from-self-driving-truck-in-china/)
 - [Philippines startup Shoppable Business smooths bumps in the business procurement process](https://techcrunch.com/2023/06/19/shoppable-business/)
 - [Polestar and Xingji Meizu join forces to create tailored OS for Chinese EVs](https://techcrunch.com/2023/06/19/polestar-and-xingji-meizu-join-forces-to-create-tailored-os-for-chinese-evs/)
-- [Ethereal ice swirls dance around Arctic peninsula in stunning new satellite image](https://www.space.com/ethereal-ice-swirls-dance-around-arctic-peninsula-in-stunning-new-satellite-image)
 <!-- BLOG-POST-LIST:END -->
 
 ---
