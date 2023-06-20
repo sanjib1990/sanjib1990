@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Unistellar&#39;s Father&#39;s Day telescope deals will save you $500](https://www.space.com/unistellar-fathers-day-deal-500-dollars-cashback)
+- [Peak XV Partners backs India’s Digantara to propel space situational awareness](https://techcrunch.com/2023/06/20/digantara-funding-peak-xv-partners/)
 - [Cosmic-ray &#39;GPS&#39; system that tracks underground movement could change the way we respond to disasters](https://www.space.com/cosmic-ray-gps-system-that-tracks-underground-movement-could-change-the-way-we-respond-to-disasters)
 - [Discovery of 2nd ever white dwarf pulsar sheds light on how stars evolve](https://www.space.com/second-white-dwarf-pulsar-discovered)
 - [Consumer group calls on EU to urgently investigate ‘the risks of generative AI’](https://techcrunch.com/2023/06/20/consumer-group-calls-on-eu-to-urgently-investigate-the-risks-of-generative-ai/)
-- [Oracle launches its ‘sovereign cloud’ for EU customers](https://techcrunch.com/2023/06/20/oracle-launches-its-sovereign-cloud-for-eu-customers/)
-- [Google Pixel Tablet review: It’s all about the dock](https://techcrunch.com/2023/06/20/google-pixel-tablet-review-its-all-about-the-dock/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
