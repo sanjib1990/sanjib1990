@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Startup Battlefield winner Render raises $50M series B led by Bessemer Venture Partners](https://techcrunch.com/2023/06/20/render-bessemer-ventures-startup-cloud/)
-- [A 79-year-old mathematician may have just solved an infinite dimension puzzle that&#39;s vexed theorists for decades](https://www.space.com/79-year-old-mathematician-may-have-just-solved-an-infinite-dimension-puzzle-thats-vexed-theorists-for-decades)
-- [Spotify’s revamped desktop app lets you browse and organize your libraries like you do on mobile](https://techcrunch.com/2023/06/20/spotifys-revamped-desktop-app-browse-organize-libraries-like-you-do-mobile/)
-- [Jane Technologies launches innovative point-of-sale platform for cannabis dispensaries](https://techcrunch.com/2023/06/20/jane-technologies-launches-innovative-point-of-sale-platform-for-cannabis-dispensaries/)
-- [Rivian to adopt Tesla’s NACS charging standard](https://techcrunch.com/2023/06/20/rivian-to-adopt-teslas-nacs-charging-standard/)
+- [These are the first Denon-branded Nura headphones](https://techcrunch.com/2023/06/20/these-are-the-first-denon-branded-nura-headphones/)
+- [Shaquille O’Neal will discuss investing in Edsoma, life as a mogul and more at Disrupt](https://techcrunch.com/2023/06/20/shaquille-oneal-will-discuss-investing-in-edsoma-life-as-a-mogul-and-more-at-disrupt/)
+- [Crew of missing submersible near Titanic includes space tourist Hamish Harding, SETI trustee Shahzada Dawood](https://www.space.com/titanic-missing-submersible-space-tourist-hamish-harding-seti-trustee-shahzada-dawood)
+- [Alibaba shakes up its leadership, OpenAI lobbies EU regulators, and the late-stage market is a mess](https://techcrunch.com/2023/06/20/alibaba-shakes-up-its-leadership-openai-lobbies-eu-regulators-and-the-late-stage-market-is-a-mess/)
+- [Abu Dhabi pours $738.5M into China’s Tesla challenger Nio](https://techcrunch.com/2023/06/20/abu-dhabi-738m-china-tesla-challenger-nio/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
