@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tiger Global’s search for liquidity illustrates how busted the late-stage market is](https://techcrunch.com/2023/06/20/tiger-global-liquidity-latestage/)
+- [Olx Group cuts 800 jobs as it shuts down some markets](https://techcrunch.com/2023/06/20/olx-group-layoffs/)
+- [Upgrading AI-powered travel products to first class](https://techcrunch.com/2023/06/20/upgrading-ai-powered-travel-products-to-first-class/)
 - [These are the first Denon-branded Nura headphones](https://techcrunch.com/2023/06/20/these-are-the-first-denon-branded-nura-headphones/)
 - [Shaquille O’Neal will discuss investing in Edsoma, life as a mogul and more at Disrupt](https://techcrunch.com/2023/06/20/shaquille-oneal-will-discuss-investing-in-edsoma-life-as-a-mogul-and-more-at-disrupt/)
-- [Crew of missing submersible near Titanic includes space tourist Hamish Harding, SETI trustee Shahzada Dawood](https://www.space.com/titanic-missing-submersible-space-tourist-hamish-harding-seti-trustee-shahzada-dawood)
-- [Alibaba shakes up its leadership, OpenAI lobbies EU regulators, and the late-stage market is a mess](https://techcrunch.com/2023/06/20/alibaba-shakes-up-its-leadership-openai-lobbies-eu-regulators-and-the-late-stage-market-is-a-mess/)
-- [Abu Dhabi pours $738.5M into China’s Tesla challenger Nio](https://techcrunch.com/2023/06/20/abu-dhabi-738m-china-tesla-challenger-nio/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
