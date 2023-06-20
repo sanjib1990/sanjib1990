@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cruise rolls out Android app for robotaxi service](https://techcrunch.com/2023/06/20/cruise-rolls-out-android-app-for-robotaxi-service/)
+- [Building a map of the U.S. healthcare system with Web Sun from Komodo Health](https://techcrunch.com/2023/06/20/building-a-map-of-the-u-s-healthcare-system-with-web-sun-from-komodo-health/)
 - [Missing Titanic submersible built with NASA help](https://www.space.com/missing-titanic-submersible-built-nasa-help)
 - [&#39;Babylon 5: The Road Home&#39; trailer for the new animated drops](https://www.space.com/babylon-5-the-road-home-trailer)
 - [Apple Podcasts gets upgraded search functionality](https://techcrunch.com/2023/06/20/apple-podcasts-gets-upgraded-search-functionality/)
-- [Twitch will require new labels for streams with sexual themes, gambling and M-rated games](https://techcrunch.com/2023/06/20/twitch-mature-content-labels/)
-- [SEC director says “nothing has changed” for enforcement even as the crypto industry rumbles](https://techcrunch.com/2023/06/20/sec-director-enforcement-crypto/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
