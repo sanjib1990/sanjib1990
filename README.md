@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Swedish astronaut &#39;fast-tracked&#39; to join crew of upcoming private Axiom Space mission](https://www.space.com/swedish-astronaut-joins-crew-axiom-space-private-space-mission)
-- [How high can we jump on other worlds?](https://www.space.com/how-high-can-jump-on-other-worlds)
-- [Tiger Global’s search for liquidity illustrates how busted the late-stage market is](https://techcrunch.com/2023/06/20/tiger-global-liquidity-latestage/)
-- [Olx Group cuts 800 jobs as it shuts down some markets](https://techcrunch.com/2023/06/20/olx-group-layoffs/)
-- [Upgrading AI-powered travel products to first class](https://techcrunch.com/2023/06/20/upgrading-ai-powered-travel-products-to-first-class/)
+- [Volkswagen’s breakthrough could spark a battery manufacturing gold rush](https://techcrunch.com/2023/06/20/volkswagens-battery-lithium-ion-breakthrough/)
+- [Chrome on iOS to get built-in Lens support, along with new Maps and Calendar integrations](https://techcrunch.com/2023/06/20/chrome-on-ios-to-get-built-in-lens-support-along-with-new-maps-and-calendar-integrations/)
+- [Twitch’s new Partner Plus tier strains an already tense relationship with creators](https://techcrunch.com/2023/06/20/twitch-revenue-split-partner-plus-angers-creators/)
+- [Netflix launches website based on the fictional streaming service from ‘Black Mirror’](https://techcrunch.com/2023/06/20/netflix-launches-website-based-on-the-fictional-streaming-service-from-black-mirror/)
+- [Watch Delta IV Heavy rocket launch US spy satellite on penultimate mission early Wednesday](https://www.space.com/delta-iv-heavy-rocket-nrol-68-launch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
