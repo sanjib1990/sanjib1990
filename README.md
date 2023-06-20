@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Tongan undersea volcano created most intense lightning storm ever recorded](https://www.space.com/tonga-undersea-volcano-eruption-record-breaking-lightning)
-- [Diabetes management startup Clivi wants to be ‘Livongo of Latin America’](https://techcrunch.com/2023/06/20/diabetes-management-clivi-livongo-latin-america-healthcare/)
-- [Cloudflare launches Observability, a tool to beef up web monitoring](https://techcrunch.com/2023/06/20/cloudflare-launches-observability-a-tool-to-beef-up-web-monitoring/)
-- [Rose Rocket, whose platform helps transportation companies communicate, raises $38M](https://techcrunch.com/2023/06/20/rose-rocket-whose-platform-helps-transportation-companies-communicate-raises-38m/)
-- [Parrot AI, a transcription platform that turns speech into text, raises $11M Series A](https://techcrunch.com/2023/06/20/parrot-ai-a-transcription-platform-that-turns-speech-into-text-raises-11m-series-a/)
+- [Startup Battlefield winner Render raises $50M series B led by Bessemer Venture Partners](https://techcrunch.com/2023/06/20/render-bessemer-ventures-startup-cloud/)
+- [A 79-year-old mathematician may have just solved an infinite dimension puzzle that&#39;s vexed theorists for decades](https://www.space.com/79-year-old-mathematician-may-have-just-solved-an-infinite-dimension-puzzle-thats-vexed-theorists-for-decades)
+- [Spotify’s revamped desktop app lets you browse and organize your libraries like you do on mobile](https://techcrunch.com/2023/06/20/spotifys-revamped-desktop-app-browse-organize-libraries-like-you-do-mobile/)
+- [Jane Technologies launches innovative point-of-sale platform for cannabis dispensaries](https://techcrunch.com/2023/06/20/jane-technologies-launches-innovative-point-of-sale-platform-for-cannabis-dispensaries/)
+- [Rivian to adopt Tesla’s NACS charging standard](https://techcrunch.com/2023/06/20/rivian-to-adopt-teslas-nacs-charging-standard/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
