@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [PHP will make you poor? StackOverflow 2023 Results](https://www.youtube.com/watch?v=3Ay6qZ88boI)
 - [SST in 100 seconds](https://www.youtube.com/watch?v=JY_d0vf-rfw)
 - [build your own cloud](https://www.youtube.com/watch?v=xBIowQ0WaR8)
 - [RIP Google Domains… and 5 big tech stories this week](https://www.youtube.com/watch?v=1GSq7Je32iw)
 - [Quantum: Current State 2023 &lpar;Quantum pt2&rpar; - Computerphile](https://www.youtube.com/watch?v=JqHVs5zhD5g)
-- [Lecture 6: Cities and Transport Systems](https://www.youtube.com/watch?v=IdG07-Ga4BM)
 <!-- YOUTUBE:END -->
 
 ---
