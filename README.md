@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [BetterBrand’s new dough raises company’s valuation to over $170M](https://techcrunch.com/2023/06/21/betterbrand-valuation-170m-better-bagel-foodtech/)
-- [Notarize launches Proof to ensure safe online transactions](https://techcrunch.com/2023/06/21/notarize-launches-proof/)
-- [NASA astronaut Leland Melvin talks Black history, education and dogs &lpar;exclusive&rpar;](https://www.space.com/nasa-astronaut-leland-melvin-black-history-education-dogs-course)
-- [Stonehenge&#39;s summer solstice orientation is seen in monuments all over the UK in amazing photos](https://www.space.com/stonehenge-summer-solstice-sun-monuments-uk-amazing-photos)
-- [Chinese astronauts install radiation-exposure experiment outside Tiangong space station &lpar;video&rpar;](https://www.space.com/astronauts-install-radiation-experiment-china-tiangong-space-station)
+- [Dropbox launches $50M AI-focused venture fund, intros AI features](https://techcrunch.com/2023/06/21/dropbox-launches-50m-ai-focused-venture-fund-intros-new-ai-features/)
+- [Otter is introducing a meeting-oriented AI chatbot](https://techcrunch.com/2023/06/21/otter-is-introducing-a-meeting-oriented-ai-chatbot/)
+- [Mysterious flare a trillion times brighter than our sun could be a &#39;disc inferno&#39; ripping a baby planet apart](https://www.space.com/disc-infero-supiter-jupiter-stellar-flare)
+- [Harness releases generative AI assistant to help increase developer efficiency](https://techcrunch.com/2023/06/21/harness-releases-generative-ai-assistant-to-help-ease-developer-workloads/)
+- [Danti uses natural language processing to make searching Earth data simple](https://techcrunch.com/2023/06/21/danti-uses-natural-language-processing-to-build-a-search-engine-for-earth-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
