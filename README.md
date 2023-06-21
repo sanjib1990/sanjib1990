@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Launcher’s Orbiter glitches in orbit, forcing emergency deployment of space startups’ payloads](https://techcrunch.com/2023/06/21/launchers-orbiter-glitches-in-orbit-forcing-emergency-deployment-of-space-startups-payloads/)
-- [Cosmonaut rounds out SpaceX&#39;s Crew-7 mission to the space station](https://www.space.com/cosmonaut-spacex-crew-7-mission-space-station)
-- [Bumble is testing a separate BFF app for finding friends](https://techcrunch.com/2023/06/21/bumble-is-testing-a-separate-bff-app-for-finding-friends/)
-- [Artists are rightfully upset that ‘Secret Invasion’ used AI Art for opening credits](https://techcrunch.com/2023/06/21/marvel-secret-invasion-ai-art-opening-credits/)
-- [Sun unleashes giant X-flare in outburst that could spark auroras on Mars &lpar;video&rpar;](https://www.space.com/sun-x-flare-cme-auroras-on-mars-video)
+- [With $10T on the line, 6 fusion investors explain why they’re all in](https://techcrunch.com/2023/06/21/fusion-investors-survey/)
+- [Insight cutting its fundraising target isn’t reason to panic](https://techcrunch.com/2023/06/21/insight-cutting-fundraising-target-panic/)
+- [Watch SpaceX launch 47 Starlink satellites early Thursday](https://www.space.com/spacex-starlink-launch-group-5-7)
+- [We’ve officially entered a new era of ‘cultivated’ meat production](https://techcrunch.com/2023/06/21/new-era-of-cultivated-meat-production-foodtech/)
+- [Dyson’s Gen5outsize is an excellent home vacuum](https://techcrunch.com/2023/06/21/dysons-gen5outsize-is-an-excellent-home-vacuum/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
