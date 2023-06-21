@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple’s Vision Pro SDK is now available, in-person developer labs launch next month](https://techcrunch.com/2023/06/21/apples-vision-pro-sdk-is-now-available-in-person-developer-labs-launch-next-month/)
 - [&#39;Star Trek: Infinite&#39; lets gamers explore strange new worlds and wage epic space battles](https://www.space.com/star-trek-infinite-game-trailer)
 - [Downey’s Dream Cars: Robert Downey Jr. targets EV skeptics in new series](https://techcrunch.com/2023/06/21/downeys-dream-cars-robert-downey-jr-targets-ev-skeptics-in-new-series/)
 - [Rivian’s latest acquisition aims to make EV route planning better](https://techcrunch.com/2023/06/21/rivians-latest-acquisition-aims-to-make-ev-route-planning-better/)
 - [Watch sunlight dance across Earth from solstice to solstice in this gorgeous video](https://www.space.com/earth-sunlight-dance-solstice-video)
-- [With $10T on the line, 6 fusion investors explain why they’re all in](https://techcrunch.com/2023/06/21/fusion-investors-survey/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
