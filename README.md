@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [DeepMind’s RoboCat learns to perform a range of robotics tasks](https://techcrunch.com/2023/06/21/deepminds-robocat-learns-to-perform-a-range-of-robotics-tasks/)
-- [Acryl Data raises $21M to grow its enterprise data catalog platform](https://techcrunch.com/2023/06/21/acryl-data-raises-21m-to-grow-its-enterprise-data-catalog-platform/)
-- [Patreon adds e-commerce tools, free fan membership](https://techcrunch.com/2023/06/21/patreon-adds-e-commerce-tools-free-fan-membership/)
-- [Microsoft expects to build a quantum supercomputer within 10 years](https://techcrunch.com/2023/06/21/microsoft-expects-to-build-a-quantum-supercomputer-within-10-years/)
-- [Climate change hits Antarctica hard, sparking concerns about irreversible tipping points](https://www.space.com/Antarctic-sea-ice-extent-low-climate-change)
+- [Rocket Factory Augsburg aims to launch from French Guiana in 2025](https://techcrunch.com/2023/06/21/rocket-factory-augsburg-aims-to-launch-from-french-guiana-in-2025/)
+- [Quick commerce startup Getir plans to exit France amid regulatory issues](https://techcrunch.com/2023/06/21/quick-commerce-startup-getir-plans-to-exit-france/)
+- [Beehiiv, a newsletter platform, gets $12.5M in its inbox](https://techcrunch.com/2023/06/21/beehiiv-a-newsletter-platform-gets-12-5m-in-its-inbox/)
+- [Warner Bros. Discovery reportedly considers licensing HBO titles to Netflix](https://techcrunch.com/2023/06/21/warner-bros-discovery-reportedly-considers-licensing-hbo-titles-to-netflix/)
+- [Canon EOS R8 review](https://www.space.com/canon-eos-r8-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
