@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Instagram now finally allows users to download public Reels](https://techcrunch.com/2023/06/20/instagram-now-finally-allows-users-to-download-public-reels/)
 - [Musk says looking to bring Tesla and Starlink to India after meeting with PM Modi](https://techcrunch.com/2023/06/20/elon-musk-modi-india-tesla-starlink/)
 - [Texas says state-funded EV chargers must include Tesla plugs](https://techcrunch.com/2023/06/20/texas-says-state-funded-ev-chargers-must-include-tesla-plugs/)
 - [Cruise rolls out Android app for robotaxi service](https://techcrunch.com/2023/06/20/cruise-rolls-out-android-app-for-robotaxi-service/)
 - [Building a map of the U.S. healthcare system with Web Sun from Komodo Health](https://techcrunch.com/2023/06/20/building-a-map-of-the-u-s-healthcare-system-with-web-sun-from-komodo-health/)
-- [Missing Titanic submersible built with NASA help](https://www.space.com/missing-titanic-submersible-built-nasa-help)
 <!-- BLOG-POST-LIST:END -->
 
 ---
