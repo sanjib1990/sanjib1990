@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How Amazon beat Walmart — and who might beat Amazon: talking with reporter Jason Del Rey](https://techcrunch.com/2023/06/20/how-amazon-beat-walmart-and-who-might-beat-amazon-talking-with-reporter-jason-del-rey/)
+- [Roblox invites its community to build mature experiences for 17+ users](https://techcrunch.com/2023/06/20/roblox-invites-its-community-to-build-mature-experiences-for-17-users/)
 - [Instagram now finally allows users to download public Reels](https://techcrunch.com/2023/06/20/instagram-now-finally-allows-users-to-download-public-reels/)
 - [Musk says looking to bring Tesla and Starlink to India after meeting with PM Modi](https://techcrunch.com/2023/06/20/elon-musk-modi-india-tesla-starlink/)
 - [Texas says state-funded EV chargers must include Tesla plugs](https://techcrunch.com/2023/06/20/texas-says-state-funded-ev-chargers-must-include-tesla-plugs/)
-- [Cruise rolls out Android app for robotaxi service](https://techcrunch.com/2023/06/20/cruise-rolls-out-android-app-for-robotaxi-service/)
-- [Building a map of the U.S. healthcare system with Web Sun from Komodo Health](https://techcrunch.com/2023/06/20/building-a-map-of-the-u-s-healthcare-system-with-web-sun-from-komodo-health/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
