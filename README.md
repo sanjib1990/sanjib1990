@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [There’s a growing desire in the UK for more Black specialty venture funds](https://techcrunch.com/2023/06/21/specialty-venture-funds-uk/)
-- [Elon Musk triples down on making Twitter terrible for trans people](https://techcrunch.com/2023/06/21/elon-musk-triples-down-on-making-twitter-terrible-for-trans-people/)
-- [Rocket Factory Augsburg aims to launch from French Guiana in 2025](https://techcrunch.com/2023/06/21/rocket-factory-augsburg-aims-to-launch-from-french-guiana-in-2025/)
-- [Quick commerce startup Getir plans to exit France amid regulatory issues](https://techcrunch.com/2023/06/21/quick-commerce-startup-getir-plans-to-exit-france/)
-- [beehiiv, a newsletter platform, gets $12.5M in its inbox](https://techcrunch.com/2023/06/21/beehiiv-a-newsletter-platform-gets-12-5m-in-its-inbox/)
+- [Launcher’s Orbiter glitches in orbit, forcing emergency deployment of space startups’ payloads](https://techcrunch.com/2023/06/21/launchers-orbiter-glitches-in-orbit-forcing-emergency-deployment-of-space-startups-payloads/)
+- [Cosmonaut rounds out SpaceX&#39;s Crew-7 mission to the space station](https://www.space.com/cosmonaut-spacex-crew-7-mission-space-station)
+- [Bumble is testing a separate BFF app for finding friends](https://techcrunch.com/2023/06/21/bumble-is-testing-a-separate-bff-app-for-finding-friends/)
+- [Artists are rightfully upset that ‘Secret Invasion’ used AI Art for opening credits](https://techcrunch.com/2023/06/21/marvel-secret-invasion-ai-art-opening-credits/)
+- [Sun unleashes giant X-flare in outburst that could spark auroras on Mars &lpar;video&rpar;](https://www.space.com/sun-x-flare-cme-auroras-on-mars-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
