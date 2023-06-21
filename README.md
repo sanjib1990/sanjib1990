@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [There’s a growing desire in the UK for more Black specialty venture funds](https://techcrunch.com/2023/06/21/specialty-venture-funds-uk/)
+- [Elon Musk triples down on making Twitter terrible for trans people](https://techcrunch.com/2023/06/21/elon-musk-triples-down-on-making-twitter-terrible-for-trans-people/)
 - [Rocket Factory Augsburg aims to launch from French Guiana in 2025](https://techcrunch.com/2023/06/21/rocket-factory-augsburg-aims-to-launch-from-french-guiana-in-2025/)
 - [Quick commerce startup Getir plans to exit France amid regulatory issues](https://techcrunch.com/2023/06/21/quick-commerce-startup-getir-plans-to-exit-france/)
-- [Beehiiv, a newsletter platform, gets $12.5M in its inbox](https://techcrunch.com/2023/06/21/beehiiv-a-newsletter-platform-gets-12-5m-in-its-inbox/)
-- [Warner Bros. Discovery reportedly considers licensing HBO titles to Netflix](https://techcrunch.com/2023/06/21/warner-bros-discovery-reportedly-considers-licensing-hbo-titles-to-netflix/)
-- [Canon EOS R8 review](https://www.space.com/canon-eos-r8-review)
+- [beehiiv, a newsletter platform, gets $12.5M in its inbox](https://techcrunch.com/2023/06/21/beehiiv-a-newsletter-platform-gets-12-5m-in-its-inbox/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
