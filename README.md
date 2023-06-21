@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Chinese astronauts install radiation-exposure experiment outside Tiangong space station &lpar;video&rpar;](https://www.space.com/astronauts-install-radiation-experiment-china-tiangong-space-station)
+- [Europe hands Artemis 2 moon mission&#39;s service module over to NASA](https://www.space.com/artemis-2-orion-service-module-handed-over-nasa)
+- [Volt, an open banking fintech for payments and more, raises $60M at a $350M+ valuation](https://techcrunch.com/2023/06/21/volt-open-banking-60-million/)
 - [Amazon will hold its Prime Day shopping event on July 11-12](https://techcrunch.com/2023/06/20/amazon-will-hold-the-prime-day-shopping-event-on-july-11-12/)
 - [How Amazon beat Walmart — and who might beat Amazon: talking with reporter Jason Del Rey](https://techcrunch.com/2023/06/20/how-amazon-beat-walmart-and-who-might-beat-amazon-talking-with-reporter-jason-del-rey/)
-- [Roblox invites its community to build mature experiences for 17+ users](https://techcrunch.com/2023/06/20/roblox-invites-its-community-to-build-mature-experiences-for-17-users/)
-- [Instagram now finally allows users to download public Reels](https://techcrunch.com/2023/06/20/instagram-now-finally-allows-users-to-download-public-reels/)
-- [Musk says planning Tesla and Starlink India debut after meeting with PM Modi](https://techcrunch.com/2023/06/20/elon-musk-modi-india-tesla-starlink/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
