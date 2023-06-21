@@ -98,7 +98,7 @@
 - [Cruise rolls out Android app for robotaxi service](https://techcrunch.com/2023/06/20/cruise-rolls-out-android-app-for-robotaxi-service/)
 - [Building a map of the U.S. healthcare system with Web Sun from Komodo Health](https://techcrunch.com/2023/06/20/building-a-map-of-the-u-s-healthcare-system-with-web-sun-from-komodo-health/)
 - [Missing Titanic submersible built with NASA help](https://www.space.com/missing-titanic-submersible-built-nasa-help)
-- [&#39;Babylon 5: The Road Home&#39; trailer for the new animated drops](https://www.space.com/babylon-5-the-road-home-trailer)
+- [&#39;Babylon 5: The Road Home&#39; trailer for the new animated movie drops](https://www.space.com/babylon-5-the-road-home-trailer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
