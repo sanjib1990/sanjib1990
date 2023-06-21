@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [BetterBrand’s new dough raises company’s valuation to over $170M](https://techcrunch.com/2023/06/21/betterbrand-valuation-170m-better-bagel-foodtech/)
+- [Notarize launches Proof to ensure safe online transactions](https://techcrunch.com/2023/06/21/notarize-launches-proof/)
+- [NASA astronaut Leland Melvin talks Black history, education and dogs &lpar;exclusive&rpar;](https://www.space.com/nasa-astronaut-leland-melvin-black-history-education-dogs-course)
+- [Stonehenge&#39;s summer solstice orientation is seen in monuments all over the UK in amazing photos](https://www.space.com/stonehenge-summer-solstice-sun-monuments-uk-amazing-photos)
 - [Chinese astronauts install radiation-exposure experiment outside Tiangong space station &lpar;video&rpar;](https://www.space.com/astronauts-install-radiation-experiment-china-tiangong-space-station)
-- [Europe hands Artemis 2 moon mission&#39;s service module over to NASA](https://www.space.com/artemis-2-orion-service-module-handed-over-nasa)
-- [Volt, an open banking fintech for payments and more, raises $60M at a $350M+ valuation](https://techcrunch.com/2023/06/21/volt-open-banking-60-million/)
-- [Amazon will hold its Prime Day shopping event on July 11-12](https://techcrunch.com/2023/06/20/amazon-will-hold-the-prime-day-shopping-event-on-july-11-12/)
-- [How Amazon beat Walmart — and who might beat Amazon: talking with reporter Jason Del Rey](https://techcrunch.com/2023/06/20/how-amazon-beat-walmart-and-who-might-beat-amazon-talking-with-reporter-jason-del-rey/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
