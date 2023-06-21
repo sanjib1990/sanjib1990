@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The expansion of the universe could be a mirage, new theoretical study suggests](https://www.space.com/universe-expansion-could-be-a-mirage)
-- [20SALES closes $5M inaugural fund to invest in early-stage B2B SaaS startups](https://techcrunch.com/2023/06/21/20sales-closes-5m-inaugural-fund-to-invest-in-early-stage-b2b-saas-startups/)
-- [Apple will automatically assign an Apple ID passkey for users with iOS 17 and macOS Sonoma](https://techcrunch.com/2023/06/21/apple-will-automatically-assign-an-apple-id-passkey-for-users-with-ios-17-and-macos-sonoma/)
-- [Summer solstice 2023 marks longest day in the Northern Hemisphere as Earth&#39;s seasons change](https://www.space.com/summer-solstice-2023-longest-day-seasons-change)
-- [Dropbox launches $50M AI-focused venture fund, intros AI features](https://techcrunch.com/2023/06/21/dropbox-launches-50m-ai-focused-venture-fund-intros-new-ai-features/)
+- [DeepMind’s RoboCat learns to perform a range of robotics tasks](https://techcrunch.com/2023/06/21/deepminds-robocat-learns-to-perform-a-range-of-robotics-tasks/)
+- [Acryl Data raises $21M to grow its enterprise data catalog platform](https://techcrunch.com/2023/06/21/acryl-data-raises-21m-to-grow-its-enterprise-data-catalog-platform/)
+- [Patreon adds e-commerce tools, free fan membership](https://techcrunch.com/2023/06/21/patreon-adds-e-commerce-tools-free-fan-membership/)
+- [Microsoft expects to build a quantum supercomputer within 10 years](https://techcrunch.com/2023/06/21/microsoft-expects-to-build-a-quantum-supercomputer-within-10-years/)
+- [Climate change hits Antarctica hard, sparking concerns about irreversible tipping points](https://www.space.com/Antarctic-sea-ice-extent-low-climate-change)
 <!-- BLOG-POST-LIST:END -->
 
 ---
