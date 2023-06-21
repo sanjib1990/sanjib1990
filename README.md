@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The expansion of the universe could be a mirage, new theoretical study suggests](https://www.space.com/universe-expansion-could-be-a-mirage)
+- [20SALES closes $5M inaugural fund to invest in early-stage B2B SaaS startups](https://techcrunch.com/2023/06/21/20sales-closes-5m-inaugural-fund-to-invest-in-early-stage-b2b-saas-startups/)
+- [Apple will automatically assign an Apple ID passkey for users with iOS 17 and macOS Sonoma](https://techcrunch.com/2023/06/21/apple-will-automatically-assign-an-apple-id-passkey-for-users-with-ios-17-and-macos-sonoma/)
+- [Summer solstice 2023 marks longest day in the Northern Hemisphere as Earth&#39;s seasons change](https://www.space.com/summer-solstice-2023-longest-day-seasons-change)
 - [Dropbox launches $50M AI-focused venture fund, intros AI features](https://techcrunch.com/2023/06/21/dropbox-launches-50m-ai-focused-venture-fund-intros-new-ai-features/)
-- [Otter is introducing a meeting-oriented AI chatbot](https://techcrunch.com/2023/06/21/otter-is-introducing-a-meeting-oriented-ai-chatbot/)
-- [Mysterious flare a trillion times brighter than our sun could be a &#39;disc inferno&#39; ripping a baby planet apart](https://www.space.com/disc-infero-supiter-jupiter-stellar-flare)
-- [Harness releases generative AI assistant to help increase developer efficiency](https://techcrunch.com/2023/06/21/harness-releases-generative-ai-assistant-to-help-ease-developer-workloads/)
-- [Danti uses natural language processing to make searching Earth data simple](https://techcrunch.com/2023/06/21/danti-uses-natural-language-processing-to-build-a-search-engine-for-earth-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
