@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch 2 Russian cosmonauts perform spacewalk outside space station today](https://www.space.com/russian-cosmonauts-spacewalk-webcast-june-2023)
+- [James Webb Space Telescope spies on rocky TRAPPIST-1 exoplanet, finds bad news for life](https://www.space.com/trappist-1-exoplanet-lacks-atmosphere-james-webb-space-telescope)
+- [Everything we know about Blue Beetle: Release date, plot, cast &amp; more](https://www.space.com/everything-we-know-about-blue-beetle)
+- [Adtech giant Criteo hit with revised €40M fine by French data privacy body over GDPR breaches](https://techcrunch.com/2023/06/22/adtech-giant-criteo-his-with-revised-e40m-fine-by-french-data-privacy-body-over-gdpr-breaches/)
 - [Robin Haak launches Robin Capital, the latest fund to join the Solo GP trend in Europe](https://techcrunch.com/2023/06/22/robin-haak-launches-robin-capital-the-latest-fund-to-join-the-solo-gp-trend-in-europe/)
-- [Plastic upcycling startup Kubik closes $3.34M seed to scale production in Ethiopia](https://techcrunch.com/2023/06/22/kubik/)
-- [Sequoia debuts Atlas, an interactive guide to the European tech talent landscape](https://techcrunch.com/2023/06/21/sequoia-debuts-atlas-an-interactive-guide-to-the-european-tech-talent-landscape/)
-- [Supercritical, a carbon removal marketplace aimed at tech firms, raises $13M Series A led by Lightspeed](https://techcrunch.com/2023/06/21/supercritical-a-carbon-removal-marketplace-aimed-at-tech-firms-raises-13m-series-a-led-by-lightspeed/)
-- [Apple’s Vision Pro SDK is now available, in-person developer labs launch next month](https://techcrunch.com/2023/06/21/apples-vision-pro-sdk-is-now-available-in-person-developer-labs-launch-next-month/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
