@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Byju’s refutes claims of key board members’ resignation](https://techcrunch.com/2023/06/22/byjus-board/)
-- [Reddit is battling against moderators marking their communities NSFW](https://techcrunch.com/2023/06/22/reddit-is-battling-against-moderators-marking-their-communities-nsfw/)
-- [Earthquakes seem more intense after cosmic ray strikes. Scientists say this is why.](https://www.space.com/earthquakes-cosmic-radiation-link-found)
-- [Bridge 2 Technologies is making it easier for companies to find diverse vendors](https://techcrunch.com/2023/06/22/bridge-2-technologies-is-making-it-easier-for-companies-to-find-diverse-vendors/)
-- [Watch 2 Russian cosmonauts perform spacewalk outside space station today](https://www.space.com/russian-cosmonauts-spacewalk-webcast-june-2023)
+- [SoulCycle to offer trainer-guided virtual work sessions with the FLOWN startup](https://techcrunch.com/2023/06/22/soulcycle-to-offer-trainer-guided-virtual-work-sessions-with-the-flown-startup/)
+- [Kodiak, Loadsmith to put 800 trucks on new autonomous freight network](https://techcrunch.com/2023/06/22/kodiak-loadsmith-to-put-800-trucks-on-new-autonomous-freight-network/)
+- [Avatar startup Genies launches $1M fund for developers building AR experiences](https://techcrunch.com/2023/06/22/avatar-startup-genies-launches-1m-fund-for-developers-building-ar-experiences/)
+- [Salty &#39;peanut&#39; asteroid may reveal where Earth got its water](https://www.space.com/asteroids-sun-hayabusa-itokawa-earth-water)
+- [Deloitte quits as auditor of Indian edtech giant Byju’s](https://techcrunch.com/2023/06/22/byjus-board/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
