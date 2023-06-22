@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bridge 2 Technologies is making it easier for companies to find diverse vendors](https://techcrunch.com/2023/06/22/bridge-2-technologies-is-making-it-easier-for-companies-to-find-diverse-vendors/)
 - [Watch 2 Russian cosmonauts perform spacewalk outside space station today](https://www.space.com/russian-cosmonauts-spacewalk-webcast-june-2023)
 - [James Webb Space Telescope spies on rocky TRAPPIST-1 exoplanet, finds bad news for life](https://www.space.com/trappist-1-exoplanet-lacks-atmosphere-james-webb-space-telescope)
 - [Everything we know about Blue Beetle: Release date, plot, cast &amp; more](https://www.space.com/everything-we-know-about-blue-beetle)
 - [Adtech giant Criteo hit with revised €40M fine by French data privacy body over GDPR breaches](https://techcrunch.com/2023/06/22/adtech-giant-criteo-his-with-revised-e40m-fine-by-french-data-privacy-body-over-gdpr-breaches/)
-- [Robin Haak launches Robin Capital, the latest fund to join the Solo GP trend in Europe](https://techcrunch.com/2023/06/22/robin-haak-launches-robin-capital-the-latest-fund-to-join-the-solo-gp-trend-in-europe/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
