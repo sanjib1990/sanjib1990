@@ -96,7 +96,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Rocket Lab doubles down on marine booster recovery with next Electron launch](https://techcrunch.com/2023/06/22/rocket-lab-doubles-down-on-marine-booster-recovery-with-next-electron-launch/)
 - [Continuum Space Systems wants to make space mission management easy](https://techcrunch.com/2023/06/22/continuum-space-systems-space-mission-management/)
-- [Russian cosmonauts toss old equipment overboard on International Space Station spacewalk](https://www.space.com/iss-spacewalk-russian-equipment-jettison-june-2023)
+- [Russian cosmonauts toss old equipment overboard on ISS spacewalk](https://www.space.com/iss-spacewalk-russian-equipment-jettison-june-2023)
 - [TikTok looks to challenge Amazon and Shein with new e-commerce initiative](https://techcrunch.com/2023/06/22/tiktok-challenge-amazon-shein-with-new-e-commerce-initiative/)
 - [Debris from missing submersible found near Titanic, crew of 5 — including space tourist — presumed dead](https://www.space.com/titanic-submersible-debris-found-crew-presumed-dead)
 <!-- BLOG-POST-LIST:END -->
