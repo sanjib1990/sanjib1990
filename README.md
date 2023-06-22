@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Omeat emerges from stealth with beefy tech approach to cultivated meat growth media](https://techcrunch.com/2023/06/22/omeat-beef-cultivated-meat-foodtech/)
-- [Sony FE 70-200mm f/2.8 GM OSS II lens review](https://www.space.com/sony-fe-70-200-f28-gm-oss-ii-lens-review)
-- [Acryl Data raises $21M to grow its enterprise data catalog platform](https://techcrunch.com/2023/06/22/acryl-data-raises-21m-to-grow-its-enterprise-data-catalog-platform/)
-- [TechCrunch Disrupt’s Security Stage highlights the risks of spyware, government surveillance](https://techcrunch.com/2023/06/22/techcrunch-disrupts-security-stage-highlights-the-risks-of-spyware-government-surveillance/)
-- [MotherDuck launches its DuckDB-based cloud analytics platform](https://techcrunch.com/2023/06/22/motherduck-launches-its-duckdb-based-cloud-analytics-platform/)
+- [MongoDB readies its Atlas database service for new workloads](https://techcrunch.com/2023/06/22/mongodb-readies-its-atlas-database-service-for-new-workloads/)
+- [Plaid unveils new collaboration network aimed at sharing fraud intelligence](https://techcrunch.com/2023/06/22/plaid-unveils-new-collaboration-network-aimed-at-sharing-fraud-intelligence/)
+- [DuckDuckGo’s Windows browser is now available in open beta](https://techcrunch.com/2023/06/22/duckduckgos-windows-browser-is-now-available-in-open-beta/)
+- [What is Rebel Moon? Everything we know about Zack Snyder&#39;s new Netflix space opera](https://www.space.com/everything-we-know-about-rebel-moon)
+- [Powerful cosmic explosion points to novel &#39;demolition derby&#39; death for faraway stars](https://www.space.com/gamma-ray-burst-demolition-derby-star-death)
 <!-- BLOG-POST-LIST:END -->
 
 ---
