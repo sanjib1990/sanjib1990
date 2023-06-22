@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Robin Haak launches Robin Capital, the latest fund to join the Solo GP trend in Europe](https://techcrunch.com/2023/06/22/robin-haak-launches-robin-capital-the-latest-fund-to-join-the-solo-gp-trend-in-europe/)
+- [Plastic upcycling startup Kubik closes $3.34M seed to scale production in Ethiopia](https://techcrunch.com/2023/06/22/kubik/)
 - [Sequoia debuts Atlas, an interactive guide to the European tech talent landscape](https://techcrunch.com/2023/06/21/sequoia-debuts-atlas-an-interactive-guide-to-the-european-tech-talent-landscape/)
 - [Supercritical, a carbon removal marketplace aimed at tech firms, raises $13M Series A led by Lightspeed](https://techcrunch.com/2023/06/21/supercritical-a-carbon-removal-marketplace-aimed-at-tech-firms-raises-13m-series-a-led-by-lightspeed/)
 - [Apple’s Vision Pro SDK is now available, in-person developer labs launch next month](https://techcrunch.com/2023/06/21/apples-vision-pro-sdk-is-now-available-in-person-developer-labs-launch-next-month/)
-- [&#39;Star Trek: Infinite&#39; lets gamers explore strange new worlds and wage epic space battles](https://www.space.com/star-trek-infinite-game-trailer)
-- [Downey’s Dream Cars: Robert Downey Jr. targets EV skeptics in new series](https://techcrunch.com/2023/06/21/downeys-dream-cars-robert-downey-jr-targets-ev-skeptics-in-new-series/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
