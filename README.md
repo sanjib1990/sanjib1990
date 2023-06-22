@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [India joins NASA’s Artemis Accords for collaborative lunar exploration](https://techcrunch.com/2023/06/22/india-nasa-artemis-accords/)
-- [Brian Armstrong thinks Coinbase could become a ‘superapp’](https://techcrunch.com/2023/06/22/coinbase-crypto-superapp/)
-- [SpaceX&#39;s next Starship prototype spins up engines ahead of test fire &lpar;photo&rpar;](https://www.space.com/spacex-starship-25-engine-test-photo)
-- [If the ‘Secret Invasion’ title credits aren’t an ethical use of AI art, what is?](https://techcrunch.com/2023/06/22/if-the-secret-invasion-title-credits-arent-an-ethical-use-of-ai-art-what-is/)
-- [Fidelity, Schwab, Citadel backing new crypto exchange EDX signals TradFi’s deeper dive into digital assets](https://techcrunch.com/2023/06/22/fidelity-schwab-citadel-backing-new-crypto-exchange-edx-signals-tradfis-deeper-dive-into-digital-assets/)
+- [TikTok looks to challenge Amazon and Shein with new e-commerce initiative](https://techcrunch.com/2023/06/22/tiktok-challenge-amazon-shein-with-new-e-commerce-initiative/)
+- [Pieces of missing Titanic submersible found, crew of 5 presumed dead](https://www.space.com/titanic-submersible-debris-found-crew-presumed-dead)
+- [Why Europe and Israel’s unicorns are producing the next generation of tech founders](https://techcrunch.com/2023/06/22/why-europe-and-israels-unicorns-are-producing-the-next-generation-of-tech-founders/)
+- [Kaitlyn Glancy, long Flexport’s VP of North America, just joined the world of VC](https://techcrunch.com/2023/06/22/kaitlyn-glancy-long-flexports-vp-of-north-america-just-joined-the-world-of-vc/)
+- [Watch SpaceX launch 56 Starlink satellites on June 23](https://www.space.com/spacex-starlink-launch-group-5-12)
 <!-- BLOG-POST-LIST:END -->
 
 ---
