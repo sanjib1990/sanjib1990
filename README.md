@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SoulCycle to offer trainer-guided virtual work sessions with the FLOWN startup](https://techcrunch.com/2023/06/22/soulcycle-to-offer-trainer-guided-virtual-work-sessions-with-the-flown-startup/)
-- [Kodiak, Loadsmith to put 800 trucks on new autonomous freight network](https://techcrunch.com/2023/06/22/kodiak-loadsmith-to-put-800-trucks-on-new-autonomous-freight-network/)
-- [Avatar startup Genies launches $1M fund for developers building AR experiences](https://techcrunch.com/2023/06/22/avatar-startup-genies-launches-1m-fund-for-developers-building-ar-experiences/)
-- [Salty &#39;peanut&#39; asteroid may reveal where Earth got its water](https://www.space.com/asteroids-sun-hayabusa-itokawa-earth-water)
-- [Deloitte quits as auditor of Indian edtech giant Byju’s](https://techcrunch.com/2023/06/22/byjus-board/)
+- [Omeat emerges from stealth with beefy tech approach to cultivated meat growth media](https://techcrunch.com/2023/06/22/omeat-beef-cultivated-meat-foodtech/)
+- [Sony FE 70-200mm f/2.8 GM OSS II lens review](https://www.space.com/sony-fe-70-200-f28-gm-oss-ii-lens-review)
+- [Acryl Data raises $21M to grow its enterprise data catalog platform](https://techcrunch.com/2023/06/22/acryl-data-raises-21m-to-grow-its-enterprise-data-catalog-platform/)
+- [TechCrunch Disrupt’s Security Stage highlights the risks of spyware, government surveillance](https://techcrunch.com/2023/06/22/techcrunch-disrupts-security-stage-highlights-the-risks-of-spyware-government-surveillance/)
+- [MotherDuck launches its DuckDB-based cloud analytics platform](https://techcrunch.com/2023/06/22/motherduck-launches-its-duckdb-based-cloud-analytics-platform/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
