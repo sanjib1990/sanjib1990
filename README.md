@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rocket Lab doubles down on marine booster recovery with next Electron launch](https://techcrunch.com/2023/06/22/rocket-lab-doubles-down-on-marine-booster-recovery-with-next-electron-launch/)
+- [Continuum Space Systems wants to make space mission management easy](https://techcrunch.com/2023/06/22/continuum-space-systems-space-mission-management/)
+- [Russian cosmonauts toss old equipment overboard on International Space Station spacewalk](https://www.space.com/iss-spacewalk-russian-equipment-jettison-june-2023)
 - [TikTok looks to challenge Amazon and Shein with new e-commerce initiative](https://techcrunch.com/2023/06/22/tiktok-challenge-amazon-shein-with-new-e-commerce-initiative/)
-- [Pieces of missing Titanic submersible found, crew of 5 presumed dead](https://www.space.com/titanic-submersible-debris-found-crew-presumed-dead)
-- [Why Europe and Israel’s unicorns are producing the next generation of tech founders](https://techcrunch.com/2023/06/22/why-europe-and-israels-unicorns-are-producing-the-next-generation-of-tech-founders/)
-- [Kaitlyn Glancy, long Flexport’s VP of North America, just joined the world of VC](https://techcrunch.com/2023/06/22/kaitlyn-glancy-long-flexports-vp-of-north-america-just-joined-the-world-of-vc/)
-- [Watch SpaceX launch 56 Starlink satellites on June 23](https://www.space.com/spacex-starlink-launch-group-5-12)
+- [Debris from missing submersible found near Titanic, crew of 5 — including space tourist — presumed dead](https://www.space.com/titanic-submersible-debris-found-crew-presumed-dead)
 <!-- BLOG-POST-LIST:END -->
 
 ---
