@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Falling into these 3 traps means you will never raise VC funding](https://techcrunch.com/2023/06/22/how-to-raise-vc-funding/)
+- [Fearless Fund raises multi-million-dollar follow-on round from Bank of America, Costco and Mastercard](https://techcrunch.com/2023/06/22/fearless-fund-raises-multi-million-dollar-follow-on-round-from-bank-of-america-costco-and-mastercard/)
+- [&#39;Firefly: The Fall Guys&#39; comic brings the Serenity crew back for one more job gone wrong &lpar;exclusive&rpar;](https://www.space.com/firefly-comic-miniseries-the-fall-guys)
+- [AWS launches $100M program to fund generative AI initiatives](https://techcrunch.com/2023/06/22/aws-launches-100m-program-to-fund-generative-ai-initiatives/)
 - [Robots learn to perform chores by watching YouTube](https://techcrunch.com/2023/06/22/robots-learn-to-perform-chores-by-watching-youtube/)
-- [Watch Mercury roll by in a stunning sequence from BepiColombo probe](https://www.space.com/bepi-colombo-mercury-flyby-june-2023-video)
-- [Kibsi raises $9.3M for its no-code computer vision platform](https://techcrunch.com/2023/06/22/kibsi-raises-9-3m-for-its-no-code-computer-vision-platform/)
-- [Warming public markets are boosting the secondary market for startup shares](https://techcrunch.com/2023/06/22/secondary-market-startup-shares/)
-- [NASA&#39;s James Webb Space Telescope mission — Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
