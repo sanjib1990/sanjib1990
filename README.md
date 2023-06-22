@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Falling into these 3 traps means you will never raise VC funding](https://techcrunch.com/2023/06/22/how-to-raise-vc-funding/)
-- [Fearless Fund raises multi-million-dollar follow-on round from Bank of America, Costco and Mastercard](https://techcrunch.com/2023/06/22/fearless-fund-raises-multi-million-dollar-follow-on-round-from-bank-of-america-costco-and-mastercard/)
-- [&#39;Firefly: The Fall Guys&#39; comic brings the Serenity crew back for one more job gone wrong &lpar;exclusive&rpar;](https://www.space.com/firefly-comic-miniseries-the-fall-guys)
-- [AWS launches $100M program to fund generative AI initiatives](https://techcrunch.com/2023/06/22/aws-launches-100m-program-to-fund-generative-ai-initiatives/)
-- [Robots learn to perform chores by watching YouTube](https://techcrunch.com/2023/06/22/robots-learn-to-perform-chores-by-watching-youtube/)
+- [High fashion! Mountain of discarded clothes in Chilean desert is visible from space &lpar;satellite photo&rpar;](https://www.space.com/mountain-discarded-clothes-chile-satellite-photo)
+- [Andreessen Horowitz creates ‘Perennial’ evergreen fund amid market slowdown](https://techcrunch.com/2023/06/22/andreessen-horowitz-a16z-perennial-evergreen-fund/)
+- [TikTok’s COO is leaving the company](https://techcrunch.com/2023/06/22/tiktok-coo-v-pappas-leaves/)
+- [Inflection debuts its own foundation AI model to rival Google and OpenAI LLMs](https://techcrunch.com/2023/06/22/inflection-debuts-its-own-foundation-ai-model-to-rival-google-and-openai-llms/)
+- [Space pictures! See our image of the day](https://www.space.com/34-image-day.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
