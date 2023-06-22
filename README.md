@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [MongoDB readies its Atlas database service for new workloads](https://techcrunch.com/2023/06/22/mongodb-readies-its-atlas-database-service-for-new-workloads/)
-- [Plaid unveils new collaboration network aimed at sharing fraud intelligence](https://techcrunch.com/2023/06/22/plaid-unveils-new-collaboration-network-aimed-at-sharing-fraud-intelligence/)
-- [DuckDuckGo’s Windows browser is now available in open beta](https://techcrunch.com/2023/06/22/duckduckgos-windows-browser-is-now-available-in-open-beta/)
-- [What is Rebel Moon? Everything we know about Zack Snyder&#39;s new Netflix space opera](https://www.space.com/everything-we-know-about-rebel-moon)
-- [Powerful cosmic explosion points to novel &#39;demolition derby&#39; death for faraway stars](https://www.space.com/gamma-ray-burst-demolition-derby-star-death)
+- [Robots learn to perform chores by watching YouTube](https://techcrunch.com/2023/06/22/robots-learn-to-perform-chores-by-watching-youtube/)
+- [Watch Mercury roll by in a stunning sequence from BepiColombo probe](https://www.space.com/bepi-colombo-mercury-flyby-june-2023-video)
+- [Kibsi raises $9.3M for its no-code computer vision platform](https://techcrunch.com/2023/06/22/kibsi-raises-9-3m-for-its-no-code-computer-vision-platform/)
+- [Warming public markets are boosting the secondary market for startup shares](https://techcrunch.com/2023/06/22/secondary-market-startup-shares/)
+- [NASA&#39;s James Webb Space Telescope mission — Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
