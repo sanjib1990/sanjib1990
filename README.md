@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India joins NASA’s Artemis Accords for collaborative lunar exploration](https://techcrunch.com/2023/06/22/india-nasa-artemis-accords/)
+- [Brian Armstrong thinks Coinbase could become a ‘superapp’](https://techcrunch.com/2023/06/22/coinbase-crypto-superapp/)
+- [SpaceX&#39;s next Starship prototype spins up engines ahead of test fire &lpar;photo&rpar;](https://www.space.com/spacex-starship-25-engine-test-photo)
+- [If the ‘Secret Invasion’ title credits aren’t an ethical use of AI art, what is?](https://techcrunch.com/2023/06/22/if-the-secret-invasion-title-credits-arent-an-ethical-use-of-ai-art-what-is/)
 - [Fidelity, Schwab, Citadel backing new crypto exchange EDX signals TradFi’s deeper dive into digital assets](https://techcrunch.com/2023/06/22/fidelity-schwab-citadel-backing-new-crypto-exchange-edx-signals-tradfis-deeper-dive-into-digital-assets/)
-- [Life after logistics](https://techcrunch.com/2023/06/22/life-after-logistics/)
-- [High fashion! Mountain of discarded clothes in Chilean desert is visible from space &lpar;satellite photo&rpar;](https://www.space.com/mountain-discarded-clothes-chile-satellite-photo)
-- [Andreessen Horowitz creates ‘Perennial’ evergreen fund amid market slowdown](https://techcrunch.com/2023/06/22/andreessen-horowitz-a16z-perennial-evergreen-fund/)
-- [TikTok’s COO is leaving the company](https://techcrunch.com/2023/06/22/tiktok-coo-v-pappas-leaves/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
