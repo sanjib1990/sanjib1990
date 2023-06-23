@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI and crypto integration is going to happen, whether you want it or not](https://techcrunch.com/2023/06/23/ai-crypto-integration/)
 - [Meta to pull news from Facebook and Instagram in Canada](https://techcrunch.com/2023/06/23/meta-to-pull-news-from-facebook-and-instagram-in-canada/)
 - [Russian space agency Roscosmos recruiting fighters for war against Ukraine: report](https://www.space.com/russian-space-agency-roscosmos-recruiting-fighters-ukraine-war)
 - [EV truck maker Nikola suspects foul play in headquarters fire](https://techcrunch.com/2023/06/23/ev-truck-maker-nikola-suspects-foul-play-in-headquarters-fire/)
 - [Atmos Space Cargo is building return capsules for in-space research and manufacturing](https://techcrunch.com/2023/06/23/atmos-space-cargo-return-capsules-for-in-space-research/)
-- [YouTube integrates AI-powered dubbing tool](https://techcrunch.com/2023/06/23/youtube-integrates-ai-powered-dubbing-tool/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
