@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Students: Disrupt offers affordable passes and big benefits](https://techcrunch.com/2023/06/23/affordable-student-passes-big-benefits-techcrunch-disrupt-2023/)
-- [Prosus and Sequoia confirm execs resignation from Byju’s board](https://techcrunch.com/2023/06/23/prosus-and-sequoia-confirm-execs-resignation-from-byjus-board/)
-- [Final launch of Europe&#39;s Ariane 5 rocket set for July 4 after delay](https://www.space.com/ariane-5-rocket-final-launch-july-4)
-- [Reddit vs Redditors and other TC news](https://techcrunch.com/2023/06/23/techcrunch-podcast-reddit-vs-redditors-and-other-tc-news/)
-- [While everyone keeps talking about AI, HRtech startups are quietly building toward a $24B market](https://techcrunch.com/2023/06/23/hr-tech-remote-work/)
+- [Meta to pull news from Facebook and Instagram in Canada](https://techcrunch.com/2023/06/23/meta-to-pull-news-from-facebook-and-instagram-in-canada/)
+- [Russian space agency Roscosmos recruiting fighters for war against Ukraine: report](https://www.space.com/russian-space-agency-roscosmos-recruiting-fighters-ukraine-war)
+- [EV truck maker Nikola suspects foul play in headquarters fire](https://techcrunch.com/2023/06/23/ev-truck-maker-nikola-suspects-foul-play-in-headquarters-fire/)
+- [Atmos Space Cargo is building return capsules for in-space research and manufacturing](https://techcrunch.com/2023/06/23/atmos-space-cargo-return-capsules-for-in-space-research/)
+- [YouTube integrates AI-powered dubbing tool](https://techcrunch.com/2023/06/23/youtube-integrates-ai-powered-dubbing-tool/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
