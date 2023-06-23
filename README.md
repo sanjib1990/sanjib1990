@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Students: Disrupt offers affordable passes and big benefits](https://techcrunch.com/2023/06/23/affordable-student-passes-big-benefits-techcrunch-disrupt-2023/)
+- [Prosus and Sequoia confirm execs resignation from Byju’s board](https://techcrunch.com/2023/06/23/prosus-and-sequoia-confirm-execs-resignation-from-byjus-board/)
+- [Final launch of Europe&#39;s Ariane 5 rocket set for July 4 after delay](https://www.space.com/ariane-5-rocket-final-launch-july-4)
+- [Reddit vs Redditors and other TC news](https://techcrunch.com/2023/06/23/techcrunch-podcast-reddit-vs-redditors-and-other-tc-news/)
 - [While everyone keeps talking about AI, HRtech startups are quietly building toward a $24B market](https://techcrunch.com/2023/06/23/hr-tech-remote-work/)
-- [Space pictures! See our image of the day](https://www.space.com/34-image-day.html)
-- [Feds seize notorious and shuttered hacking site BreachForums](https://techcrunch.com/2023/06/23/feds-seize-notorious-and-shuttered-hacking-site-breachforums/)
-- [UK touts £21M fund to extend AI deeper into the National Health Service](https://techcrunch.com/2023/06/23/uk-touts-21m-fund-to-bring-ai-to-the-national-health-service/)
-- [Astronaut Story Musgrave&#39;s Apollo-flown medallions, shuttle toiletries up for auction](https://www.space.com/astronaut-story-musgrave-apollo-shuttle-mementos-auction)
 <!-- BLOG-POST-LIST:END -->
 
 ---
