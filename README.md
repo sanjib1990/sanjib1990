@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch a house-size asteroid zoom past Earth live on June 25](https://www.space.com/asteroid-2023-mu2-livestream-june-25)
+- [Hacker responsible for 2020 Twitter breach sentenced to prison](https://techcrunch.com/2023/06/23/twitter-hacker-sentenced-prison/)
+- [What happens if regulators nix the $20B Adobe-Figma deal?](https://techcrunch.com/2023/06/23/adobe-figma-deal-regulators/)
+- [You&#39;ve never seen Mars like this. Amazing NASA photos reveal Red Planet in ultraviolet light](https://www.space.com/mars-nasa-maven-mission-ultraviolet-photos)
 - [Why smart AI regulation is vital for innovation and U.S. leadership](https://techcrunch.com/2023/06/23/why-smart-ai-regulation-is-vital-for-innovation-and-u-s-leadership/)
-- [Rocket Lab to recover booster from ocean after July 14 launch](https://www.space.com/rocket-lab-booster-recovery-ocean-july-2023)
-- [Washington could be the next state to require Tesla charging standard](https://techcrunch.com/2023/06/23/washington-latest-state-require-teslas-nacs-ev-charging-standard/)
-- [When AI bots pose as humans](https://techcrunch.com/2023/06/23/when-ai-bots-pose-as-humans/)
-- [The 3 stages of building world-class growth funnels](https://techcrunch.com/2023/06/23/the-3-stages-of-building-world-class-growth-funnels/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
