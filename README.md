@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s Parker Solar Probe starts summer with 16th swoop by the sun](https://www.space.com/nasa-parker-solar-probe-16th-sun-flyby)
 - [Watch a house-size asteroid zoom past Earth live on June 25](https://www.space.com/asteroid-2023-mu2-livestream-june-25)
 - [Hacker responsible for 2020 Twitter breach sentenced to prison](https://techcrunch.com/2023/06/23/twitter-hacker-sentenced-prison/)
 - [What happens if regulators nix the $20B Adobe-Figma deal?](https://techcrunch.com/2023/06/23/adobe-figma-deal-regulators/)
 - [You&#39;ve never seen Mars like this. Amazing NASA photos reveal Red Planet in ultraviolet light](https://www.space.com/mars-nasa-maven-mission-ultraviolet-photos)
-- [Why smart AI regulation is vital for innovation and U.S. leadership](https://techcrunch.com/2023/06/23/why-smart-ai-regulation-is-vital-for-innovation-and-u-s-leadership/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
