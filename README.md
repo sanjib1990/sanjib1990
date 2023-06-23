@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google introduces new accessibility and collaboration features for classrooms](https://techcrunch.com/2023/06/23/google-introduces-new-accessibility-and-collaboration-features-for-classrooms/)
-- [Planeteer launches new pre-seed and seed-stage climate fund](https://techcrunch.com/2023/06/23/planeteer-launches-new-pre-seed-and-seed-stage-climate-fund/)
-- [Satellites observe record-breaking marine heatwave hit North Atlantic](https://www.space.com/climate-change-extreme-marine-heatwave-north-atlantic)
-- [Crypto startup Pillow, backed by Accel and Quona, to discontinue all services](https://techcrunch.com/2023/06/23/pillow-discontinue/)
-- [NASA will study the Great American Solar Eclipse of 2024 with these 5 experiments](https://www.space.com/nasa-experiments-great-american-solar-eclipse-2024)
+- [Terraform Labs founder Do Kown jailed to four months in Montenegro](https://techcrunch.com/2023/06/23/terraform-labs-founder-do-kown-jailed-to-four-months-in-montenegro/)
+- [Dropbox hearts AI, the creator-platform wars and why we’re bullish on fake booze](https://techcrunch.com/2023/06/23/dropbox-hearts-ai-the-creator-platform-wars-and-why-were-bullish-on-fake-booze/)
+- [&#39;The Walking Dead&#39; creator Robert Kirkman unveils new sci-fi comic &#39;Void Rivals&#39; &lpar;exclusive&rpar;](https://www.space.com/void-rivals-comic-robert-kirkman)
+- [Forcite seeks the smart helmet success that Skully squandered](https://techcrunch.com/2023/06/23/forcite-seeks-the-smart-helmet-success-that-skully-squandered/)
+- [Singapore’s ride-hailing firm Grab lays off over 1,100 employees](https://techcrunch.com/2023/06/23/singapores-ride-hailing-firm-grab-lays-off-over-1100-employees/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
