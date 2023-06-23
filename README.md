@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [AI and crypto integration is going to happen, whether you want it or not](https://techcrunch.com/2023/06/23/ai-crypto-integration/)
-- [Meta to pull news from Facebook and Instagram in Canada](https://techcrunch.com/2023/06/23/meta-to-pull-news-from-facebook-and-instagram-in-canada/)
-- [Russian space agency Roscosmos recruiting fighters for war against Ukraine: report](https://www.space.com/russian-space-agency-roscosmos-recruiting-fighters-ukraine-war)
-- [EV truck maker Nikola suspects foul play in headquarters fire](https://techcrunch.com/2023/06/23/ev-truck-maker-nikola-suspects-foul-play-in-headquarters-fire/)
-- [Atmos Space Cargo is building return capsules for in-space research and manufacturing](https://techcrunch.com/2023/06/23/atmos-space-cargo-return-capsules-for-in-space-research/)
+- [Why smart AI regulation is vital for innovation and U.S. leadership](https://techcrunch.com/2023/06/23/why-smart-ai-regulation-is-vital-for-innovation-and-u-s-leadership/)
+- [Rocket Lab to recover booster from ocean after July 14 launch](https://www.space.com/rocket-lab-booster-recovery-ocean-july-2023)
+- [Washington could be the next state to require Tesla charging standard](https://techcrunch.com/2023/06/23/washington-latest-state-require-teslas-nacs-ev-charging-standard/)
+- [When AI bots pose as humans](https://techcrunch.com/2023/06/23/when-ai-bots-pose-as-humans/)
+- [The 3 stages of building world-class growth funnels](https://techcrunch.com/2023/06/23/the-3-stages-of-building-world-class-growth-funnels/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
