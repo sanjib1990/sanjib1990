@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India ordered an investigation into Byju’s days before auditor and board members resigned, report says](https://techcrunch.com/2023/06/22/india-ordered-an-investigation-into-byjus-days-before-auditor-and-board-members-resigned-report-says/)
 - [Get a clue, says panel about buzzy AI tech: it’s being “deployed as surveillance”](https://techcrunch.com/2023/06/22/get-a-clue-says-panel-about-generative-ai-its-being-deployed-as-surveillance-devices/)
 - [Lithuania’s capital Vilnius to get ‘Europe’s largest tech campus,’ costing €100M](https://techcrunch.com/2023/06/22/lithuania-vilnius-tech-zity-campus/)
 - [Rocket Lab doubles down on marine booster recovery with next Electron launch](https://techcrunch.com/2023/06/22/rocket-lab-doubles-down-on-marine-booster-recovery-with-next-electron-launch/)
 - [Continuum Space Systems wants to make space mission management easy](https://techcrunch.com/2023/06/22/continuum-space-systems-space-mission-management/)
-- [Russian cosmonauts toss old equipment overboard on ISS spacewalk](https://www.space.com/iss-spacewalk-russian-equipment-jettison-june-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
