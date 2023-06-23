@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple looks to resume talks for Apple Pay launch in India](https://techcrunch.com/2023/06/22/apple-looks-to-resume-talks-for-apple-pay-launch-in-india/)
+- [Apple restarts talks for Apple Pay launch in India](https://techcrunch.com/2023/06/22/apple-looks-to-resume-talks-for-apple-pay-launch-in-india/)
 - [India ordered an investigation into Byju’s days before auditor and board members resigned, report says](https://techcrunch.com/2023/06/22/india-ordered-an-investigation-into-byjus-days-before-auditor-and-board-members-resigned-report-says/)
 - [Get a clue, says panel about buzzy AI tech: it’s being “deployed as surveillance”](https://techcrunch.com/2023/06/22/get-a-clue-says-panel-about-generative-ai-its-being-deployed-as-surveillance-devices/)
 - [Lithuania’s capital Vilnius to get ‘Europe’s largest tech campus,’ costing €100M](https://techcrunch.com/2023/06/22/lithuania-vilnius-tech-zity-campus/)
