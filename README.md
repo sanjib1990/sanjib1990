@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Terraform Labs founder Do Kown jailed to four months in Montenegro](https://techcrunch.com/2023/06/23/terraform-labs-founder-do-kown-jailed-to-four-months-in-montenegro/)
-- [Dropbox hearts AI, the creator-platform wars and why we’re bullish on fake booze](https://techcrunch.com/2023/06/23/dropbox-hearts-ai-the-creator-platform-wars-and-why-were-bullish-on-fake-booze/)
-- [&#39;The Walking Dead&#39; creator Robert Kirkman unveils new sci-fi comic &#39;Void Rivals&#39; &lpar;exclusive&rpar;](https://www.space.com/void-rivals-comic-robert-kirkman)
-- [Forcite seeks the smart helmet success that Skully squandered](https://techcrunch.com/2023/06/23/forcite-seeks-the-smart-helmet-success-that-skully-squandered/)
-- [Singapore’s ride-hailing firm Grab lays off over 1,100 employees](https://techcrunch.com/2023/06/23/singapores-ride-hailing-firm-grab-lays-off-over-1100-employees/)
+- [UK touts £21M fund to extend AI deeper into the National Health Service](https://techcrunch.com/2023/06/23/uk-touts-21m-fund-to-bring-ai-to-the-national-health-service/)
+- [Astronaut Story Musgrave&#39;s Apollo-flown medallions, shuttle toiletries up for auction](https://www.space.com/astronaut-story-musgrave-apollo-shuttle-mementos-auction)
+- [EvaluAgent raises $20M to build out software that evaluates call center agents](https://techcrunch.com/2023/06/23/evaluagent-raises-20m-to-build-out-software-to-evaluate-call-center-agents/)
+- [YouTube’s updated guidelines require channels to disclose if they are fan accounts](https://techcrunch.com/2023/06/23/youtubes-guidelines-require-channels-disclose-they-are-fan-accounts/)
+- [Terraform Labs founder Do Kwon jailed to four months in Montenegro](https://techcrunch.com/2023/06/23/terraform-labs-founder-do-kown-jailed-to-four-months-in-montenegro/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
