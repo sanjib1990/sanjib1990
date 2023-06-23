@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google introduces new accessibility and collaboration features for classrooms](https://techcrunch.com/2023/06/23/google-introduces-new-accessibility-and-collaboration-features-for-classrooms/)
 - [Planeteer launches new pre-seed and seed-stage climate fund](https://techcrunch.com/2023/06/23/planeteer-launches-new-pre-seed-and-seed-stage-climate-fund/)
 - [Satellites observe record-breaking marine heatwave hit North Atlantic](https://www.space.com/climate-change-extreme-marine-heatwave-north-atlantic)
 - [Crypto startup Pillow, backed by Accel and Quona, to discontinue all services](https://techcrunch.com/2023/06/23/pillow-discontinue/)
 - [NASA will study the Great American Solar Eclipse of 2024 with these 5 experiments](https://www.space.com/nasa-experiments-great-american-solar-eclipse-2024)
-- [India and Ecuador sign Artemis Accords for peaceful moon exploration](https://www.space.com/artemis-accords-india-ecuador-peaceful-moon-exploration)
 <!-- BLOG-POST-LIST:END -->
 
 ---
