@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Planeteer launches new pre-seed and seed-stage climate fund](https://techcrunch.com/2023/06/23/planeteer-launches-new-pre-seed-and-seed-stage-climate-fund/)
+- [Satellites observe record-breaking marine heatwave hit North Atlantic](https://www.space.com/climate-change-extreme-marine-heatwave-north-atlantic)
 - [Crypto startup Pillow, backed by Accel and Quona, to discontinue all services](https://techcrunch.com/2023/06/23/pillow-discontinue/)
 - [NASA will study the Great American Solar Eclipse of 2024 with these 5 experiments](https://www.space.com/nasa-experiments-great-american-solar-eclipse-2024)
 - [India and Ecuador sign Artemis Accords for peaceful moon exploration](https://www.space.com/artemis-accords-india-ecuador-peaceful-moon-exploration)
-- [Apple restarts talks for Apple Pay launch in India](https://techcrunch.com/2023/06/22/apple-looks-to-resume-talks-for-apple-pay-launch-in-india/)
-- [India ordered an investigation into Byju’s days before auditor and board members resigned, report says](https://techcrunch.com/2023/06/22/india-ordered-an-investigation-into-byjus-days-before-auditor-and-board-members-resigned-report-says/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
