@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Keeping tabs on dry powder and university spinouts](https://techcrunch.com/2023/06/24/venture-capital-university-spinouts/)
 - [Deal Dive: Caraway shows what else digital health can do](https://techcrunch.com/2023/06/24/caraway-digital-health-fundraising/)
 - [This week in AI: Big tech bets billions on machine learning tools](https://techcrunch.com/2023/06/24/this-week-in-ai-big-tech-bets-billions-on-machine-learning-tools/)
 - [How one software engineer is turning Silicon Valley Bank’s collapse story into a musical](https://techcrunch.com/2023/06/24/silicon-valley-bank-musical/)
 - [New monument will honor Florida&#39;s role in space exploration](https://www.space.com/florida-space-exploration-monument-enacted)
-- [Earth&#39;s thermosphere reaches highest temperature in 20 years after being bombarded by solar storms](https://www.space.com/earths-thermosphere-highest-temperature-solar-storms)
 <!-- BLOG-POST-LIST:END -->
 
 ---
