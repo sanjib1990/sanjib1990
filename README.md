@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Earth&#39;s thermosphere reaches highest temperature in 20 years after being bombarded by solar storms](https://www.space.com/earths-thermosphere-highest-temperature-solar-storms)
 - [What causes the strange green flash at sunset and sunrise on Earth?](https://www.space.com/green-flash-earth-sunrise-sunset)
 - [Space explorers mourn the loss of Titan submersible&#39;s 5 crewmates](https://www.space.com/space-explorers-mourn-deaths-titan-submersible-crew)
 - [SpaceX to launch Europe’s Euclid dark energy probe 1 week from today](https://www.space.com/dark-energy-euclid-spacex-rocket-launch-one-week-away)
 - [Amazon plans to invest another $15 billion in India by 2030](https://techcrunch.com/2023/06/23/amazon-investment-india-jassy-modi/)
-- [NASA&#39;s Parker Solar Probe starts summer with 16th swoop by the sun](https://www.space.com/nasa-parker-solar-probe-16th-sun-flyby)
 <!-- BLOG-POST-LIST:END -->
 
 ---
