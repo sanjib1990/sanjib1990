@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This week in AI: Big tech bets billions on machine learning tools](https://techcrunch.com/2023/06/24/this-week-in-ai-big-tech-bets-billions-on-machine-learning-tools/)
 - [How one software engineer is turning Silicon Valley Bank’s collapse story into a musical](https://techcrunch.com/2023/06/24/silicon-valley-bank-musical/)
 - [New monument will honor Florida&#39;s role in space exploration](https://www.space.com/florida-space-exploration-monument-enacted)
 - [Earth&#39;s thermosphere reaches highest temperature in 20 years after being bombarded by solar storms](https://www.space.com/earths-thermosphere-highest-temperature-solar-storms)
 - [What causes the strange green flash at sunset and sunrise on Earth?](https://www.space.com/green-flash-earth-sunrise-sunset)
-- [Space explorers mourn the loss of Titan submersible&#39;s 5 crewmates](https://www.space.com/space-explorers-mourn-deaths-titan-submersible-crew)
 <!-- BLOG-POST-LIST:END -->
 
 ---
