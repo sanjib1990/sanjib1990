@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Space explorers mourn the loss of Titan submersible&#39;s 5 crewmates](https://www.space.com/space-explorers-mourn-deaths-titan-submersible-crew)
+- [SpaceX to launch Europe’s Euclid dark energy probe 1 week from today](https://www.space.com/dark-energy-euclid-spacex-rocket-launch-one-week-away)
 - [Amazon plans to invest another $15 billion in India by 2030](https://techcrunch.com/2023/06/23/amazon-investment-india-jassy-modi/)
 - [NASA&#39;s Parker Solar Probe starts summer with 16th swoop by the sun](https://www.space.com/nasa-parker-solar-probe-16th-sun-flyby)
 - [Watch a house-size asteroid zoom past Earth live on June 25](https://www.space.com/asteroid-2023-mu2-livestream-june-25)
-- [Hacker responsible for 2020 Twitter breach sentenced to prison](https://techcrunch.com/2023/06/23/twitter-hacker-sentenced-prison/)
-- [What happens if regulators nix the $20B Adobe-Figma deal?](https://techcrunch.com/2023/06/23/adobe-figma-deal-regulators/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
