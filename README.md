@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rivian adopts Tesla charging standard, Cruise adds Android and Ford lands a $9.2B loan](https://techcrunch.com/2023/06/25/rivian-adopts-tesla-charging-standard-cruise-adds-android-and-ford-lands-a-9-2b-loan/)
+- [The 2023 Asus Zenbook S 13 OLED is a pint-sized powerhouse with a gorgeous display](https://techcrunch.com/2023/06/25/2023-asus-zenbook-s-13-oled-review/)
 - [There are signs that it will be a hot secondaries summer](https://techcrunch.com/2023/06/25/hot-secondaries-summer/)
 - [Designers hated Figma’s collaborative design tool at first, but grew to love it](https://techcrunch.com/2023/06/25/figma-design-tool-history/)
 - [Did this one feature entice Robinhood to acquire X1?](https://techcrunch.com/2023/06/25/did-robinhood-acquire-x1-because-of-this-one-feature/)
-- [NASA just recycled 98% of all astronaut pee and sweat on the ISS &lpar;engineers are thrilled&rpar;](https://www.space.com/astronaut-pee-iss-water-recycling-98-percent-milestone)
-- [NASA&#39;s Jet Propulsion Laboratory and DARPA want to fix your PDFs. Here&#39;s how.](https://www.space.com/nasa-jet-propulsion-laboratory-pdf-cybersecurity)
 <!-- BLOG-POST-LIST:END -->
 
 ---
