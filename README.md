@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [1 year on &#39;Mars:&#39; NASA analog astronauts begin mock Red Planet mission today](https://www.space.com/chapea-yearlong-mars-analog-mission-begins)
 - [OceanGate fires a whistleblower, hackers threaten to leak Reddit data, and Marvel embraces AI art](https://techcrunch.com/2023/06/24/oceangate-fires-a-whistleblower-hackers-threaten-to-leak-reddit-data-and-marvel-embraces-ai-art/)
 - [Keeping tabs on dry powder and university spinouts](https://techcrunch.com/2023/06/24/venture-capital-university-spinouts/)
 - [Deal Dive: Caraway shows what else digital health can do](https://techcrunch.com/2023/06/24/caraway-digital-health-fundraising/)
 - [This week in AI: Big tech bets billions on machine learning tools](https://techcrunch.com/2023/06/24/this-week-in-ai-big-tech-bets-billions-on-machine-learning-tools/)
-- [How one software engineer is turning Silicon Valley Bank’s collapse story into a musical](https://techcrunch.com/2023/06/24/silicon-valley-bank-musical/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
