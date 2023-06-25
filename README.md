@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Designers hated Figma’s collaborative design tool at first, but grew to love it](https://techcrunch.com/2023/06/25/figma-design-tool-history/)
+- [Did this one feature entice Robinhood to acquire X1?](https://techcrunch.com/2023/06/25/did-robinhood-acquire-x1-because-of-this-one-feature/)
+- [NASA just recycled 98% of all astronaut pee and sweat on the ISS &lpar;engineers are thrilled&rpar;](https://www.space.com/astronaut-pee-iss-water-recycling-98-percent-milestone)
 - [NASA&#39;s Jet Propulsion Laboratory and DARPA want to fix your PDFs. Here&#39;s how.](https://www.space.com/nasa-jet-propulsion-laboratory-pdf-cybersecurity)
 - [10 best events across the US to celebrate the Oct. 14 annular solar eclipse](https://www.space.com/10-event-celebrations-for-annular-solar-eclipse-october-2023)
-- [Bizarre object hotter than the sun is orbiting a distant star at breakneck speed](https://www.space.com/object-hotter-than-sun-orbiting-distant-star)
-- [1 year on &#39;Mars:&#39; NASA analog astronauts begin mock Red Planet mission today](https://www.space.com/chapea-yearlong-mars-analog-mission-begins)
-- [OceanGate fires a whistleblower, hackers threaten to leak Reddit data, and Marvel embraces AI art](https://techcrunch.com/2023/06/24/oceangate-fires-a-whistleblower-hackers-threaten-to-leak-reddit-data-and-marvel-embraces-ai-art/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
