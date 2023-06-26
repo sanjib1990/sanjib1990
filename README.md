@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TreasurySpring raises $29M to expand its investment platform aimed at businesses with excess cash](https://techcrunch.com/2023/06/25/treasuryspring/)
 - [Rivian adopts Tesla charging standard, Cruise adds Android and Ford lands a $9.2B loan](https://techcrunch.com/2023/06/25/rivian-adopts-tesla-charging-standard-cruise-adds-android-and-ford-lands-a-9-2b-loan/)
 - [The 2023 Asus Zenbook S 13 OLED is a pint-sized powerhouse with a gorgeous display](https://techcrunch.com/2023/06/25/2023-asus-zenbook-s-13-oled-review/)
 - [There are signs that it will be a hot secondaries summer](https://techcrunch.com/2023/06/25/hot-secondaries-summer/)
 - [Designers hated Figma’s collaborative design tool at first, but grew to love it](https://techcrunch.com/2023/06/25/figma-design-tool-history/)
-- [Did this one feature entice Robinhood to acquire X1?](https://techcrunch.com/2023/06/25/did-robinhood-acquire-x1-because-of-this-one-feature/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
