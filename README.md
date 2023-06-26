@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Max Q: Welcome to the era of MaaS &lpar;microgravity-as-a-service&rpar;](https://techcrunch.com/2023/06/26/max-q-welcome-to-the-era-of-maas-microgravity-as-a-service/)
+- [Decentralized social networking app Damus to be removed from App Store, will appeal decision](https://techcrunch.com/2023/06/26/decentralized-social-networking-app-damus-to-be-removed-from-app-store-will-appeal-decision/)
 - [SignalFire’s State of Talent report 2023](https://techcrunch.com/2023/06/26/signalfires-state-of-talent-report-2023/)
 - [Unicorn social app IRL to shut down after admitting 95% of its users were fake](https://techcrunch.com/2023/06/26/irl-shut-down-fake-users/)
 - [Telegram is adding Stories next month](https://techcrunch.com/2023/06/26/telegram-is-adding-stories-next-month/)
-- [Private space tug spins out of control after recent SpaceX launch](https://www.space.com/orbiter-sn3-space-tug-lost-spacex)
-- [New laser communications system arrives at NASA for Artemis 2 moon mission](https://www.space.com/artemis-2-laser-communication-system-o2o-ksc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
