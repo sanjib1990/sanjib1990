@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Exotic new state of matter discovered by squishing subatomic particles into an ultradense crystal](https://www.space.com/exotic-new-state-of-matter-discovered-from-ultradense-crystal)
+- [IBM acquires Apptio from Vista for $4.6B in cash to double down on hybrid cloud services](https://techcrunch.com/2023/06/26/ibm-acquires-apptio-from-vista-for-4-6b-in-cash-to-double-down-on-hybrid-cloud-services/)
 - [Adobe indemnity clause designed to ease enterprise fears about AI-generated art](https://techcrunch.com/2023/06/26/adobe-indemnity-clause-designed-to-ease-enterprise-fears-about-ai-generated-art/)
 - [SpaceShipOne pilot&#39;s M&amp;Ms, other mementos go on museum display](https://www.space.com/melvill-collection-eaa-aviation-museum-spaceshipone)
 - [Aston Martin taps Lucid to help develop electric vehicles](https://techcrunch.com/2023/06/26/aston-martin-taps-lucid-to-help-develop-electric-vehicles/)
-- [French VC firm Frst reaches $80 million first close for its new seed fund](https://techcrunch.com/2023/06/25/french-vc-firm-frst-reaches-80-million-first-close-for-its-new-seed-fund/)
-- [UTU raises $33M to help travelers get more from tax-free shopping](https://techcrunch.com/2023/06/25/utu/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
