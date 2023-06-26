@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Glean operational advice from Airbnb and Instacart at TC Disrupt 2023’s Builders Stage](https://techcrunch.com/2023/06/26/airbnb-instacart-operations-scale-builder-stage-techcrunch-disrupt-2023/)
-- [Netflix quietly axes its basic plan in Canada](https://techcrunch.com/2023/06/26/netflix-quietly-axes-its-basic-plan-in-canada/)
-- [Irish government criticized over proposed law-change that would ‘muzzle’ Big Tech critics](https://techcrunch.com/2023/06/26/ireland-big-tech-gdpr-dpc-critics/)
-- [Crypto ticks higher, fintech gets interesting again, and fraud is still bad](https://techcrunch.com/2023/06/26/crypto-ticks-higher-fintech-gets-interesting-again-and-fraud-is-still-bad/)
-- [BentoML scores $9M funding to expedite AI app development](https://techcrunch.com/2023/06/26/bentoml-scores-9m-funding-to-expedite-ai-app-development/)
+- [Q2 failed to bring a funding reprieve for web3 startups and unicorns](https://techcrunch.com/2023/06/26/q2-failed-to-bring-a-funding-reprieve-for-web3-startups-and-unicorns/)
+- [ThoughtSpot acquires Mode Analytics, a BI platform, for $200M in cash and stock](https://techcrunch.com/2023/06/26/thoughtspot-acquires-mode-analytics-a-bi-platform-for-200m-in-cash-and-stock/)
+- [Meta launches new VR subscription ‘Meta Quest+’ for $7.99](https://techcrunch.com/2023/06/26/meta-quest-launches-vr-subscription/)
+- [Amazon wants to turn small shops into delivery partners](https://techcrunch.com/2023/06/26/amazon-wants-to-turn-small-shops-into-delivery-partners/)
+- [As the generative AI craze rages on, Ramp acquires customer support startup Cohere.io](https://techcrunch.com/2023/06/26/as-the-generative-ai-craze-rages-on-fintech-ramp-acquires-ai-powered-customer-support-startup-cohere-io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
