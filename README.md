@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceShipOne pilot&#39;s M&amp;Ms, other mementos go on museum display](https://www.space.com/melvill-collection-eaa-aviation-museum-spaceshipone)
 - [Aston Martin taps Lucid to help develop electric vehicles](https://techcrunch.com/2023/06/26/aston-martin-taps-lucid-to-help-develop-electric-vehicles/)
 - [French VC firm Frst reaches $80 million first close for its new seed fund](https://techcrunch.com/2023/06/25/french-vc-firm-frst-reaches-80-million-first-close-for-its-new-seed-fund/)
 - [UTU raises $33M to help travelers get more from tax-free shopping](https://techcrunch.com/2023/06/25/utu/)
 - [TreasurySpring raises $29M to expand its investment platform aimed at businesses with excess cash](https://techcrunch.com/2023/06/25/treasuryspring/)
-- [Rivian adopts Tesla charging standard, Cruise adds Android and Ford lands a $9.2B loan](https://techcrunch.com/2023/06/25/rivian-adopts-tesla-charging-standard-cruise-adds-android-and-ford-lands-a-9-2b-loan/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
