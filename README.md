@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The 2024 Silverado EV WT impresses with a 450-mile range and outstanding towing](https://techcrunch.com/2023/06/26/the-2024-silverado-ev-wt-impresses-with-a-450-mile-range-and-outstanding-towing/)
-- [Watch the world choke on CO2 in eerie NASA videos of manmade emissions](https://www.space.com/world-chokes-on-co2-in-eerie-nasa-videos)
-- [Is dark matter fuzzy? Ultracold state of matter sheds light on dark matter candidate](https://www.space.com/dark-matter-fuzzy-ultracold-state-of-matter)
-- [Databricks picks up MosaicML, an OpenAI competitor, for $1.3B](https://techcrunch.com/2023/06/26/databricks-picks-up-mosaicml-an-openai-competitor-for-1-3b/)
-- [SnapCalorie taps AI to estimate the caloric content of food from photos](https://techcrunch.com/2023/06/26/snapcalorie-computer-vision-health-app-raises-3m/)
+- [Netflix quietly axes its basic plan in Canada](https://techcrunch.com/2023/06/26/netflix-quietly-axes-its-basic-plan-in-canada/)
+- [Irish government criticized over proposed law-change that would ‘muzzle’ Big Tech critics](https://techcrunch.com/2023/06/26/ireland-big-tech-gdpr-dpc-critics/)
+- [Crypto ticks higher, fintech gets interesting again, and fraud is still bad](https://techcrunch.com/2023/06/26/crypto-ticks-higher-fintech-gets-interesting-again-and-fraud-is-still-bad/)
+- [BentoML scores $9M funding to expedite AI app development](https://techcrunch.com/2023/06/26/bentoml-scores-9m-funding-to-expedite-ai-app-development/)
+- [James Webb Space Telescope could determine if nearby exoplanet is habitable](https://www.space.com/nearby-exoplanet-habitable-james-webb-space-telescope)
 <!-- BLOG-POST-LIST:END -->
 
 ---
