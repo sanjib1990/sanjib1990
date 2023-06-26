@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New laser communications system arrives at NASA for Artemis 2 moon mission](https://www.space.com/artemis-2-laser-communication-system-o2o-ksc)
+- [DeepMind claims its next chatbot will rival ChatGPT](https://techcrunch.com/2023/06/26/deepmind-claims-its-next-chatbot-will-rival-chatgpt/)
+- [Lilz brings its gauge-watching smart cameras to the US and raises $4M](https://techcrunch.com/2023/06/26/lilz-brings-its-gauge-watching-smart-cameras-to-the-us-and-raises-4m/)
 - [Wes Anderson&#39;s &#39;Asteroid City&#39; is a love letter to UFO culture](https://www.space.com/asteroid-city-wes-anderson-review)
 - [SpaceX making &#39;well over 1,000&#39; changes to Starship ahead of next launch](https://www.space.com/spacex-starship-design-changes-second-test-flight)
-- [Coinbase execs: As global crypto policy grows, US has urgent need for legislation](https://techcrunch.com/2023/06/26/coinbase-global-crypto-policy-urgency/)
-- [Watch house-size asteroid 2023 MU2 fly by Earth at over 2,000 mph &lpar;video&rpar;](https://www.space.com/asteroid-flyby-video-june-2023)
-- [Russian hacking device on track to make $80 million worth of sales](https://techcrunch.com/2023/06/26/flipper-sales/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
