@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Glean operational advice from Airbnb and Instacart at TC Disrupt 2023’s Builders Stage](https://techcrunch.com/2023/06/26/airbnb-instacart-operations-scale-builder-stage-techcrunch-disrupt-2023/)
 - [Netflix quietly axes its basic plan in Canada](https://techcrunch.com/2023/06/26/netflix-quietly-axes-its-basic-plan-in-canada/)
 - [Irish government criticized over proposed law-change that would ‘muzzle’ Big Tech critics](https://techcrunch.com/2023/06/26/ireland-big-tech-gdpr-dpc-critics/)
 - [Crypto ticks higher, fintech gets interesting again, and fraud is still bad](https://techcrunch.com/2023/06/26/crypto-ticks-higher-fintech-gets-interesting-again-and-fraud-is-still-bad/)
 - [BentoML scores $9M funding to expedite AI app development](https://techcrunch.com/2023/06/26/bentoml-scores-9m-funding-to-expedite-ai-app-development/)
-- [James Webb Space Telescope could determine if nearby exoplanet is habitable](https://www.space.com/nearby-exoplanet-habitable-james-webb-space-telescope)
 <!-- BLOG-POST-LIST:END -->
 
 ---
