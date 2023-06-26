@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [YouTube reportedly experimenting with online games](https://techcrunch.com/2023/06/26/youtube-reportedly-experimenting-with-online-games/)
-- [Space tourism companies might learn a lesson from the Titan sub disaster. But are they ready to listen?](https://www.space.com/titan-submersible-tragedy-lessons-space-tourism)
-- [Hacktivists steal government files from Texas city Fort Worth](https://techcrunch.com/2023/06/26/hacktivists-steal-government-files-from-texas-city-fort-worth/)
-- [Virgin Galactic to launch its 1st commercial spaceflight on June 29](https://www.space.com/virgin-galactic-sets-date-1st-commercial-spaceflight)
-- [Q2 failed to bring a funding reprieve for web3 startups and unicorns](https://techcrunch.com/2023/06/26/q2-failed-to-bring-a-funding-reprieve-for-web3-startups-and-unicorns/)
+- [Russian hacking device on track to make $80 million worth of sales](https://techcrunch.com/2023/06/26/flipper-sales/)
+- [Don’t wait to identify your startup’s ideal customer personas](https://techcrunch.com/2023/06/26/dont-wait-to-identify-your-startups-ideal-customer-personas/)
+- [Schwank’s Portable Infrared Grill will massively elevate your cook-out game](https://techcrunch.com/2023/06/26/schwank-infrared-grill-review/)
+- [Lynk connects Palau’s off-grid islands with satellite texting](https://techcrunch.com/2023/06/26/lynk-connects-palaus-off-grid-islands-with-satellite-texting/)
+- [North Korea&#39;s 1st spy satellite has been pulled from the sea after launch failure: report](https://www.space.com/north-korea-1st-spy-satellite-salvaged)
 <!-- BLOG-POST-LIST:END -->
 
 ---
