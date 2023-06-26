@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [YouTube reportedly experimenting with online games](https://techcrunch.com/2023/06/26/youtube-reportedly-experimenting-with-online-games/)
+- [Space tourism companies might learn a lesson from the Titan sub disaster. But are they ready to listen?](https://www.space.com/titan-submersible-tragedy-lessons-space-tourism)
+- [Hacktivists steal government files from Texas city Fort Worth](https://techcrunch.com/2023/06/26/hacktivists-steal-government-files-from-texas-city-fort-worth/)
+- [Virgin Galactic to launch its 1st commercial spaceflight on June 29](https://www.space.com/virgin-galactic-sets-date-1st-commercial-spaceflight)
 - [Q2 failed to bring a funding reprieve for web3 startups and unicorns](https://techcrunch.com/2023/06/26/q2-failed-to-bring-a-funding-reprieve-for-web3-startups-and-unicorns/)
-- [ThoughtSpot acquires Mode Analytics, a BI platform, for $200M in cash and stock](https://techcrunch.com/2023/06/26/thoughtspot-acquires-mode-analytics-a-bi-platform-for-200m-in-cash-and-stock/)
-- [Meta launches new VR subscription ‘Meta Quest+’ for $7.99](https://techcrunch.com/2023/06/26/meta-quest-launches-vr-subscription/)
-- [Amazon wants to turn small shops into delivery partners](https://techcrunch.com/2023/06/26/amazon-wants-to-turn-small-shops-into-delivery-partners/)
-- [As the generative AI craze rages on, Ramp acquires customer support startup Cohere.io](https://techcrunch.com/2023/06/26/as-the-generative-ai-craze-rages-on-fintech-ramp-acquires-ai-powered-customer-support-startup-cohere-io/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
