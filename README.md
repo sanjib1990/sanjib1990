@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SignalFire’s State of Talent report 2023](https://techcrunch.com/2023/06/26/signalfires-state-of-talent-report-2023/)
+- [Unicorn social app IRL to shut down after admitting 95% of its users were fake](https://techcrunch.com/2023/06/26/irl-shut-down-fake-users/)
+- [Telegram is adding Stories next month](https://techcrunch.com/2023/06/26/telegram-is-adding-stories-next-month/)
+- [Private space tug spins out of control after recent SpaceX launch](https://www.space.com/orbiter-sn3-space-tug-lost-spacex)
 - [New laser communications system arrives at NASA for Artemis 2 moon mission](https://www.space.com/artemis-2-laser-communication-system-o2o-ksc)
-- [DeepMind claims its next chatbot will rival ChatGPT](https://techcrunch.com/2023/06/26/deepmind-claims-its-next-chatbot-will-rival-chatgpt/)
-- [Lilz brings its gauge-watching smart cameras to the US and raises $4M](https://techcrunch.com/2023/06/26/lilz-brings-its-gauge-watching-smart-cameras-to-the-us-and-raises-4m/)
-- [Wes Anderson&#39;s &#39;Asteroid City&#39; is a love letter to UFO culture](https://www.space.com/asteroid-city-wes-anderson-review)
-- [SpaceX making &#39;well over 1,000&#39; changes to Starship ahead of next launch](https://www.space.com/spacex-starship-design-changes-second-test-flight)
 <!-- BLOG-POST-LIST:END -->
 
 ---
