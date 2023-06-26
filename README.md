@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Wes Anderson&#39;s &#39;Asteroid City&#39; is a love letter to UFO culture](https://www.space.com/asteroid-city-wes-anderson-review)
+- [SpaceX making &#39;well over 1,000&#39; changes to Starship ahead of next launch](https://www.space.com/spacex-starship-design-changes-second-test-flight)
+- [Coinbase execs: As global crypto policy grows, US has urgent need for legislation](https://techcrunch.com/2023/06/26/coinbase-global-crypto-policy-urgency/)
+- [Watch house-size asteroid 2023 MU2 fly by Earth at over 2,000 mph &lpar;video&rpar;](https://www.space.com/asteroid-flyby-video-june-2023)
 - [Russian hacking device on track to make $80 million worth of sales](https://techcrunch.com/2023/06/26/flipper-sales/)
-- [Don’t wait to identify your startup’s ideal customer personas](https://techcrunch.com/2023/06/26/dont-wait-to-identify-your-startups-ideal-customer-personas/)
-- [Schwank’s Portable Infrared Grill will massively elevate your cook-out game](https://techcrunch.com/2023/06/26/schwank-infrared-grill-review/)
-- [Lynk connects Palau’s off-grid islands with satellite texting](https://techcrunch.com/2023/06/26/lynk-connects-palaus-off-grid-islands-with-satellite-texting/)
-- [North Korea&#39;s 1st spy satellite has been pulled from the sea after launch failure: report](https://www.space.com/north-korea-1st-spy-satellite-salvaged)
 <!-- BLOG-POST-LIST:END -->
 
 ---
