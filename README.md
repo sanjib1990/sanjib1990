@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Exotic new state of matter discovered by squishing subatomic particles into an ultradense crystal](https://www.space.com/exotic-new-state-of-matter-discovered-from-ultradense-crystal)
-- [IBM acquires Apptio from Vista for $4.6B in cash to double down on hybrid cloud services](https://techcrunch.com/2023/06/26/ibm-acquires-apptio-from-vista-for-4-6b-in-cash-to-double-down-on-hybrid-cloud-services/)
-- [Adobe indemnity clause designed to ease enterprise fears about AI-generated art](https://techcrunch.com/2023/06/26/adobe-indemnity-clause-designed-to-ease-enterprise-fears-about-ai-generated-art/)
-- [SpaceShipOne pilot&#39;s M&amp;Ms, other mementos go on museum display](https://www.space.com/melvill-collection-eaa-aviation-museum-spaceshipone)
-- [Aston Martin taps Lucid to help develop electric vehicles](https://techcrunch.com/2023/06/26/aston-martin-taps-lucid-to-help-develop-electric-vehicles/)
+- [The 2024 Silverado EV WT impresses with a 450-mile range and outstanding towing](https://techcrunch.com/2023/06/26/the-2024-silverado-ev-wt-impresses-with-a-450-mile-range-and-outstanding-towing/)
+- [Watch the world choke on CO2 in eerie NASA videos of manmade emissions](https://www.space.com/world-chokes-on-co2-in-eerie-nasa-videos)
+- [Is dark matter fuzzy? Ultracold state of matter sheds light on dark matter candidate](https://www.space.com/dark-matter-fuzzy-ultracold-state-of-matter)
+- [Databricks picks up MosaicML, an OpenAI competitor, for $1.3B](https://techcrunch.com/2023/06/26/databricks-picks-up-mosaicml-an-openai-competitor-for-1-3b/)
+- [SnapCalorie taps AI to estimate the caloric content of food from photos](https://techcrunch.com/2023/06/26/snapcalorie-computer-vision-health-app-raises-3m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
