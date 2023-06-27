@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Months after its last raise, Realtime Robotics drums up another $9.5 million](https://techcrunch.com/2023/06/27/months-after-its-last-raise-realtime-robotics-drums-up-another-9-5-million/)
-- [Virgin Galactic&#39;s 1st commercial spaceflight launches this week. Meet the 6-person crew of Galactic 01](https://www.space.com/virgin-galactic-first-commercial-spaceflight-meet-crew)
-- [Redpanda nabs $100M Series C as streaming service experiences significant growth](https://techcrunch.com/2023/06/27/redpanda-nabs-100m-series-c-as-streaming-service-gains-traction/)
-- [Twitter now allows subscribers to post 25,000-character-long tweets](https://techcrunch.com/2023/06/27/twitter-now-allows-subscribers-to-post-25000-character-long-tweets/)
-- [CalypsoAI raises $23M to add guardrails to generative AI models](https://techcrunch.com/2023/06/27/calypsoai-raises-23m-to-add-guardrails-to-generative-ai-models/)
+- [Augmedics snaps up $82.5M to advance spinal surgery using AR and AI](https://techcrunch.com/2023/06/27/augmedics-snaps-up-82-5m-advance-spinal-surgery-navigation-using-ar-and-ai/)
+- [Joyful Ventures debuts with $23M focused on investment in sustainable protein startups](https://techcrunch.com/2023/06/27/joyful-ventures-23m-alternative-protein-startups-foodtech/)
+- [Unshackled Ventures secures another $35M to invest in immigrant founders](https://techcrunch.com/2023/06/27/unshackled-ventures-35m-immigrant-founders/)
+- [Y Combinator-backed 0pass seeks to replace passwords in the enterprise](https://techcrunch.com/2023/06/27/y-combinator-backed-0pass-seeks-to-replace-passwords-in-the-enterprise/)
+- [What will astronauts on deep space missions eat? &#39;Neurogastronomy&#39; may have the answer.](https://www.space.com/space-food-for-astronauts-chef)
 <!-- BLOG-POST-LIST:END -->
 
 ---
