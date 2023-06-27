@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple uploads entire first episode of ‘Silo’ on Twitter ahead of season finale](https://techcrunch.com/2023/06/27/apple-uploads-entire-first-episode-of-silo-on-twitter-ahead-of-season-finale/)
+- [ULA Delta IV Heavy rocket puts on a show on its next-to-last launch &lpar;photos&rpar;](https://www.space.com/ula-delta-heavy-nrol-68-photos)
 - [An encryption exodus looms over UK’s Online Safety Bill](https://techcrunch.com/2023/06/27/an-encryption-exodus-looms-over-uks-online-safety-bill/)
 - [Airmo combines space and climate tech with emissions monitoring satellites](https://techcrunch.com/2023/06/27/airmo-combines-space-and-climate-tech-with-emissions-monitoring-satellites/)
 - [Vertical AI: The next logical iteration of vertical SaaS](https://techcrunch.com/2023/06/27/vertical-ai-the-next-logical-iteration-of-vertical-saas/)
-- [Reka emerges from stealth to build custom AI models for the enterprise](https://techcrunch.com/2023/06/27/reka-emerges-from-stealth-to-build-custom-ai-models-for-the-enterprise/)
-- [Virgin Galactic&#39;s 1st commercial spaceflight launches on June 29. Here&#39;s how to watch](https://www.space.com/virgin-galactic-1st-commercial-spaceflight-livestream)
 <!-- BLOG-POST-LIST:END -->
 
 ---
