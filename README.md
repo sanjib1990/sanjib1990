@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NoTraffic raises $50M to tackle congestion and enhance road safety](https://techcrunch.com/2023/06/27/notraffic-raises-50m-to-tackle-congestion-and-enhance-road-safety/)
+- [Star Trek: Strange New Worlds: Augments, Illyrians and the Eugenics Wars](https://www.space.com/star-trek-strange-new-worlds-augments-illyrians-and-the-eugenics-wars)
 - [SpaceX fires up Starship spacecraft ahead of 2nd test flight &lpar;video&rpar;](https://www.space.com/starship-ship-25-first-static-fire-video)
 - [Listen to the eerie sounds of distant galaxies in breathtaking NASA video](https://www.space.com/galaxies-eerie-sounds-nasa-sonification-video)
 - [Meta is rolling out new parental control tools for Instagram and Messenger](https://techcrunch.com/2023/06/27/meta-is-rolling-out-new-parental-control-tools-for-instagram-and-messenger/)
-- [ShopZetu raises pre-seed funding to fuel growth of its fashion marketplace beyond Kenya](https://techcrunch.com/2023/06/27/shopzetu-raises-pre-seed-funding-to-fuel-growth-of-its-fashion-marketplace-beyond-kenya/)
-- [How Greenlyte is going from zero to 1,000 metric tons of captured CO2 in a year](https://techcrunch.com/2023/06/27/greenlyte-carbon-capture-fundraise/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
