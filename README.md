@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ShopZetu raises pre-seed funding to fuel growth of its fashion marketplace beyond Kenya](https://techcrunch.com/2023/06/27/shopzetu-raises-pre-seed-funding-to-fuel-growth-of-its-fashion-marketplace-beyond-kenya/)
+- [How Greenlyte is going from zero to 1,000 metric tons of captured CO2 in a year](https://techcrunch.com/2023/06/27/greenlyte-carbon-capture-fundraise/)
+- [Dust uses large language models on internal data to improve team productivity](https://techcrunch.com/2023/06/27/dust-use-large-language-models-on-internal-data-to-improve-team-productivity/)
+- [Lordstown Motors sues Foxconn, files for bankruptcy](https://techcrunch.com/2023/06/27/lordstown-motors-sues-foxconn-files-for-bankruptcy/)
 - [Dexory nabs $19M to bring visibility to warehouses through analytics and autonomous robots](https://techcrunch.com/2023/06/27/dexory-nabs-19m-to-bring-visibility-to-warehouses-through-analytics-and-autonomous-robots/)
-- [WhatsApp Business crosses 200M MAUs, introduces personlized messages feature](https://techcrunch.com/2023/06/27/whatsapp-business-crosses-200m-maus-introduces-personlized-messages-feature/)
-- [TikTok’s Family Pairing tool now gives parents personalized control over the content their teens see](https://techcrunch.com/2023/06/27/tiktoks-family-pairing-gives-parents-personalized-control-over-content-teens-see/)
-- [DePoly keeps hard to recycle plastic from ending up in landfills](https://techcrunch.com/2023/06/26/depoly/)
-- [Supply chain startup Baskit supports Indonesia’s middlemen](https://techcrunch.com/2023/06/26/baskit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
