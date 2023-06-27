@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Khosla Ventures just doubled down on this handyman-on-demand service for homeowners](https://techcrunch.com/2023/06/27/khosla-ventures-just-doubled-down-on-this-suscription-based-handyman-on-demand-service/)
-- [Astropad returns with a $120 iPad drawing stand](https://techcrunch.com/2023/06/27/astropad-returns-with-a-120-ipad-drawing-stand/)
-- [HashiCorp acquires code security startup BluBracket](https://techcrunch.com/2023/06/27/hashicorp-acquires-code-security-startup-blubracket/)
-- [Snowflake-Nvidia partnership could make it easier to build generative AI applications](https://techcrunch.com/2023/06/27/snowflake-nvidia-partnership-could-make-it-easier-to-build-generative-ai-applications/)
-- [Gusto reaches $500M in trailing revenue, teams up with Remote to support international hires](https://techcrunch.com/2023/06/27/gusto-remote-deal-500m-revenue/)
+- [Amazon launches AWS AppFabric to help customers connect their SaaS apps](https://techcrunch.com/2023/06/27/amazon-launches-aws-appfabric-to-help-customers-connect-their-saas-apps/)
+- [The quest for better AI recommendation engines](https://techcrunch.com/2023/06/27/rubber-ducky-labs-keeps-ai-engines-afloat/)
+- [TechCrunch+ roundup: Building growth funnels, HR tech bonanza, secondary market signals](https://techcrunch.com/2023/06/27/techcrunch-roundup-building-growth-funnels-hr-tech-bonanza-secondary-market-signals/)
+- [Volvo becomes latest automaker to adopt Tesla EV charging standard](https://techcrunch.com/2023/06/27/volvo-becomes-latest-automaker-to-adopt-tesla-ev-charging-standard/)
+- [TikTok’s new monetization feature invites creators to make video ads for a chance to earn money](https://techcrunch.com/2023/06/27/tiktoks-new-monetization-feature-invites-creators-to-make-video-ads-for-a-chance-to-earn-money/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
