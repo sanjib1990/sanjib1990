@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dexory nabs $19M to bring visibility to warehouses through analytics and autonomous robots](https://techcrunch.com/2023/06/27/dexory-nabs-19m-to-bring-visibility-to-warehouses-through-analytics-and-autonomous-robots/)
+- [WhatsApp Business crosses 200M MAUs, introduces personlized messages feature](https://techcrunch.com/2023/06/27/whatsapp-business-crosses-200m-maus-introduces-personlized-messages-feature/)
+- [TikTok’s Family Pairing tool now gives parents personalized control over the content their teens see](https://techcrunch.com/2023/06/27/tiktoks-family-pairing-gives-parents-personalized-control-over-content-teens-see/)
 - [DePoly keeps hard to recycle plastic from ending up in landfills](https://techcrunch.com/2023/06/26/depoly/)
 - [Supply chain startup Baskit supports Indonesia’s middlemen](https://techcrunch.com/2023/06/26/baskit/)
-- [Thomson Reuters buys Casetext, an AI legal tech startup, for $650M in cash](https://techcrunch.com/2023/06/26/thomson-reuters-buys-casetext-an-ai-legal-tech-startup-for-650m-in-cash/)
-- [Arkam Ventures targets $180 million to tap ‘middle India’ opportunity with second fund](https://techcrunch.com/2023/06/26/arkam-ventures-targets-180-million-to-tap-middle-india-opportunity-with-second-fund/)
-- [Kindred Ventures foresees a ‘massive explosion of startups’ courtesy of AI](https://techcrunch.com/2023/06/26/kindred-ventures-foresees-a-massive-explosion-of-startups-courtesy-of-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
