@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [An encryption exodus looms over UK’s Online Safety Bill](https://techcrunch.com/2023/06/27/an-encryption-exodus-looms-over-uks-online-safety-bill/)
+- [Airmo combines space and climate tech with emissions monitoring satellites](https://techcrunch.com/2023/06/27/airmo-combines-space-and-climate-tech-with-emissions-monitoring-satellites/)
+- [Vertical AI: The next logical iteration of vertical SaaS](https://techcrunch.com/2023/06/27/vertical-ai-the-next-logical-iteration-of-vertical-saas/)
+- [Reka emerges from stealth to build custom AI models for the enterprise](https://techcrunch.com/2023/06/27/reka-emerges-from-stealth-to-build-custom-ai-models-for-the-enterprise/)
 - [Virgin Galactic&#39;s 1st commercial spaceflight launches on June 29. Here&#39;s how to watch](https://www.space.com/virgin-galactic-1st-commercial-spaceflight-livestream)
-- [How Shein’s influencer trip to a Chinese factory backfired](https://techcrunch.com/2023/06/27/how-sheins-influencer-trip-to-a-chinese-factory-backfired/)
-- [Apple Arcade is adding Stardew Valley, Ridiculous Fishing and more in July](https://techcrunch.com/2023/06/27/apple-arcade-is-adding-stardew-valley-ridiculous-fishing-and-more-in-july/)
-- [Amazon launches AWS AppFabric to help customers connect their SaaS apps](https://techcrunch.com/2023/06/27/amazon-launches-aws-appfabric-to-help-customers-connect-their-saas-apps/)
-- [The quest for better AI recommendation engines](https://techcrunch.com/2023/06/27/rubber-ducky-labs-keeps-ai-engines-afloat/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
