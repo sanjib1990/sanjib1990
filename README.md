@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Augmedics snaps up $82.5M to advance spinal surgery using AR and AI](https://techcrunch.com/2023/06/27/augmedics-snaps-up-82-5m-advance-spinal-surgery-navigation-using-ar-and-ai/)
-- [Joyful Ventures debuts with $23M focused on investment in sustainable protein startups](https://techcrunch.com/2023/06/27/joyful-ventures-23m-alternative-protein-startups-foodtech/)
-- [Unshackled Ventures secures another $35M to invest in immigrant founders](https://techcrunch.com/2023/06/27/unshackled-ventures-35m-immigrant-founders/)
-- [Y Combinator-backed 0pass seeks to replace passwords in the enterprise](https://techcrunch.com/2023/06/27/y-combinator-backed-0pass-seeks-to-replace-passwords-in-the-enterprise/)
-- [What will astronauts on deep space missions eat? &#39;Neurogastronomy&#39; may have the answer.](https://www.space.com/space-food-for-astronauts-chef)
+- [Prosus slashes edtech giant Byju’s valuation to $5.1 billion](https://techcrunch.com/2023/06/27/prosus-byjus-markdown/)
+- [See 1,900 galaxies light up the night in gorgeous deep-sky photo](https://www.space.com/galaxies-virgo-cluster-deep-sky-image)
+- [Announcing the Fintech Stage agenda at TechCrunch Disrupt](https://techcrunch.com/2023/06/27/announcing-the-fintech-stage-agenda-at-techcrunch-disrupt/)
+- [Paramount+ with Showtime launches at $11.99 per month](https://techcrunch.com/2023/06/27/paramount-with-showtime-launches-at-11-99-month/)
+- [Cart.com has $1.2B valuation after $60M Series C](https://techcrunch.com/2023/06/27/cart-com-1-2b-valuation-60m-series-c-e-commerce/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
