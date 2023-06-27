@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Prosus slashes edtech giant Byju’s valuation to $5.1 billion](https://techcrunch.com/2023/06/27/prosus-byjus-markdown/)
-- [See 1,900 galaxies light up the night in gorgeous deep-sky photo](https://www.space.com/galaxies-virgo-cluster-deep-sky-image)
-- [Announcing the Fintech Stage agenda at TechCrunch Disrupt](https://techcrunch.com/2023/06/27/announcing-the-fintech-stage-agenda-at-techcrunch-disrupt/)
-- [Paramount+ with Showtime launches at $11.99 per month](https://techcrunch.com/2023/06/27/paramount-with-showtime-launches-at-11-99-month/)
-- [Cart.com has $1.2B valuation after $60M Series C](https://techcrunch.com/2023/06/27/cart-com-1-2b-valuation-60m-series-c-e-commerce/)
+- [Sandwich, known for its commercials, looks to help younger startups in exchange for equity](https://techcrunch.com/2023/06/27/sandwich-known-for-its-commercials-looks-to-help-younger-startups-in-exchange-for-equity/)
+- [4 VCs illustrate why there’s good reason to be optimistic about the machine learning startup market](https://techcrunch.com/2023/06/27/machine-learning-startup-investor-survey/)
+- [Brilliant Labs puts AI in front of your eye with its tiny open-source AR lens](https://techcrunch.com/2023/06/27/brilliant-labs-puts-ai-in-front-of-your-eye-with-its-tiny-open-source-ar-lens/)
+- [How human &#39;computers&#39; Annie Jump Cannon and Henrietta Swan Leavitt revolutionized astronomy](https://www.space.com/annie-jump-cannon-henrietta-swan-leavitt-revolutionized-astronomy)
+- [Roku announces its first live sports deal](https://techcrunch.com/2023/06/27/roku-announces-its-first-live-sports-deal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
