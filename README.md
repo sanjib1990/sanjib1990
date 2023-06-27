@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Virgin Galactic&#39;s 1st commercial spaceflight launches on June 29. Here&#39;s how to watch](https://www.space.com/virgin-galactic-1st-commercial-spaceflight-livestream)
+- [How Shein’s influencer trip to a Chinese factory backfired](https://techcrunch.com/2023/06/27/how-sheins-influencer-trip-to-a-chinese-factory-backfired/)
+- [Apple Arcade is adding Stardew Valley, Ridiculous Fishing and more in July](https://techcrunch.com/2023/06/27/apple-arcade-is-adding-stardew-valley-ridiculous-fishing-and-more-in-july/)
 - [Amazon launches AWS AppFabric to help customers connect their SaaS apps](https://techcrunch.com/2023/06/27/amazon-launches-aws-appfabric-to-help-customers-connect-their-saas-apps/)
 - [The quest for better AI recommendation engines](https://techcrunch.com/2023/06/27/rubber-ducky-labs-keeps-ai-engines-afloat/)
-- [TechCrunch+ roundup: Building growth funnels, HR tech bonanza, secondary market signals](https://techcrunch.com/2023/06/27/techcrunch-roundup-building-growth-funnels-hr-tech-bonanza-secondary-market-signals/)
-- [Volvo becomes latest automaker to adopt Tesla EV charging standard](https://techcrunch.com/2023/06/27/volvo-becomes-latest-automaker-to-adopt-tesla-ev-charging-standard/)
-- [TikTok’s new monetization feature invites creators to make video ads for a chance to earn money](https://techcrunch.com/2023/06/27/tiktoks-new-monetization-feature-invites-creators-to-make-video-ads-for-a-chance-to-earn-money/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
