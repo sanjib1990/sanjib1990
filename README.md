@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX fires up Starship spacecraft ahead of 2nd test flight &lpar;video&rpar;](https://www.space.com/starship-ship-25-first-static-fire-video)
+- [Listen to the eerie sounds of distant galaxies in breathtaking NASA video](https://www.space.com/galaxies-eerie-sounds-nasa-sonification-video)
+- [Meta is rolling out new parental control tools for Instagram and Messenger](https://techcrunch.com/2023/06/27/meta-is-rolling-out-new-parental-control-tools-for-instagram-and-messenger/)
 - [ShopZetu raises pre-seed funding to fuel growth of its fashion marketplace beyond Kenya](https://techcrunch.com/2023/06/27/shopzetu-raises-pre-seed-funding-to-fuel-growth-of-its-fashion-marketplace-beyond-kenya/)
 - [How Greenlyte is going from zero to 1,000 metric tons of captured CO2 in a year](https://techcrunch.com/2023/06/27/greenlyte-carbon-capture-fundraise/)
-- [Dust uses large language models on internal data to improve team productivity](https://techcrunch.com/2023/06/27/dust-use-large-language-models-on-internal-data-to-improve-team-productivity/)
-- [Lordstown Motors sues Foxconn, files for bankruptcy](https://techcrunch.com/2023/06/27/lordstown-motors-sues-foxconn-files-for-bankruptcy/)
-- [Dexory nabs $19M to bring visibility to warehouses through analytics and autonomous robots](https://techcrunch.com/2023/06/27/dexory-nabs-19m-to-bring-visibility-to-warehouses-through-analytics-and-autonomous-robots/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
