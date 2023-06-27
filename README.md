@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DePoly keeps hard to recycle plastic from ending up in landfills](https://techcrunch.com/2023/06/26/depoly/)
 - [Supply chain startup Baskit supports Indonesia’s middlemen](https://techcrunch.com/2023/06/26/baskit/)
 - [Thomson Reuters buys Casetext, an AI legal tech startup, for $650M in cash](https://techcrunch.com/2023/06/26/thomson-reuters-buys-casetext-an-ai-legal-tech-startup-for-650m-in-cash/)
 - [Arkam Ventures targets $180 million to tap ‘middle India’ opportunity with second fund](https://techcrunch.com/2023/06/26/arkam-ventures-targets-180-million-to-tap-middle-india-opportunity-with-second-fund/)
 - [Kindred Ventures foresees a ‘massive explosion of startups’ courtesy of AI](https://techcrunch.com/2023/06/26/kindred-ventures-foresees-a-massive-explosion-of-startups-courtesy-of-ai/)
-- [Max Q: Welcome to the era of MaaS &lpar;microgravity-as-a-service&rpar;](https://techcrunch.com/2023/06/26/max-q-welcome-to-the-era-of-maas-microgravity-as-a-service/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
