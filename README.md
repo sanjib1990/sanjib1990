@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NoTraffic raises $50M to tackle congestion and enhance road safety](https://techcrunch.com/2023/06/27/notraffic-raises-50m-to-tackle-congestion-and-enhance-road-safety/)
-- [Star Trek: Strange New Worlds: Augments, Illyrians and the Eugenics Wars](https://www.space.com/star-trek-strange-new-worlds-augments-illyrians-and-the-eugenics-wars)
-- [SpaceX fires up Starship spacecraft ahead of 2nd test flight &lpar;video&rpar;](https://www.space.com/starship-ship-25-first-static-fire-video)
-- [Listen to the eerie sounds of distant galaxies in breathtaking NASA video](https://www.space.com/galaxies-eerie-sounds-nasa-sonification-video)
-- [Meta is rolling out new parental control tools for Instagram and Messenger](https://techcrunch.com/2023/06/27/meta-is-rolling-out-new-parental-control-tools-for-instagram-and-messenger/)
+- [Months after its last raise, Realtime Robotics drums up another $9.5 million](https://techcrunch.com/2023/06/27/months-after-its-last-raise-realtime-robotics-drums-up-another-9-5-million/)
+- [Virgin Galactic&#39;s 1st commercial spaceflight launches this week. Meet the 6-person crew of Galactic 01](https://www.space.com/virgin-galactic-first-commercial-spaceflight-meet-crew)
+- [Redpanda nabs $100M Series C as streaming service experiences significant growth](https://techcrunch.com/2023/06/27/redpanda-nabs-100m-series-c-as-streaming-service-gains-traction/)
+- [Twitter now allows subscribers to post 25,000-character-long tweets](https://techcrunch.com/2023/06/27/twitter-now-allows-subscribers-to-post-25000-character-long-tweets/)
+- [CalypsoAI raises $23M to add guardrails to generative AI models](https://techcrunch.com/2023/06/27/calypsoai-raises-23m-to-add-guardrails-to-generative-ai-models/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
