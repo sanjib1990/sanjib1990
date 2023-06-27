@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple uploads entire first episode of ‘Silo’ on Twitter ahead of season finale](https://techcrunch.com/2023/06/27/apple-uploads-entire-first-episode-of-silo-on-twitter-ahead-of-season-finale/)
-- [ULA Delta IV Heavy rocket puts on a show on its next-to-last launch &lpar;photos&rpar;](https://www.space.com/ula-delta-heavy-nrol-68-photos)
-- [An encryption exodus looms over UK’s Online Safety Bill](https://techcrunch.com/2023/06/27/an-encryption-exodus-looms-over-uks-online-safety-bill/)
-- [Airmo combines space and climate tech with emissions monitoring satellites](https://techcrunch.com/2023/06/27/airmo-combines-space-and-climate-tech-with-emissions-monitoring-satellites/)
-- [Vertical AI: The next logical iteration of vertical SaaS](https://techcrunch.com/2023/06/27/vertical-ai-the-next-logical-iteration-of-vertical-saas/)
+- [Google’s Pixel Fold is a well-rounded take on the foldable form factor](https://techcrunch.com/2023/06/27/googles-pixel-fold-is-a-well-rounded-take-on-the-foldable-form-factor/)
+- [Kick lures disenchanted Twitch streamers, for now](https://techcrunch.com/2023/06/27/kick-lures-disenchanted-twitch-streamers-for-now-explained/)
+- [Among Us is getting an animated TV series](https://techcrunch.com/2023/06/27/among-us-animated-tv-series/)
+- [Mars donut! Perseverance rover spots holey Red Planet rock &lpar;photo&rpar;](https://www.space.com/mars-rover-perseverance-donut-rock-photo)
+- [UAE astronaut spies Mecca from space station during Hajj &lpar;photo&rpar;](https://www.space.com/uae-long-duration-astronaut-mecca-hajj-photo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
