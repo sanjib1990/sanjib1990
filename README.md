@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google’s Pixel Fold is a well-rounded take on the foldable form factor](https://techcrunch.com/2023/06/27/googles-pixel-fold-is-a-well-rounded-take-on-the-foldable-form-factor/)
-- [Kick lures disenchanted Twitch streamers, for now](https://techcrunch.com/2023/06/27/kick-lures-disenchanted-twitch-streamers-for-now-explained/)
-- [Among Us is getting an animated TV series](https://techcrunch.com/2023/06/27/among-us-animated-tv-series/)
-- [Mars donut! Perseverance rover spots holey Red Planet rock &lpar;photo&rpar;](https://www.space.com/mars-rover-perseverance-donut-rock-photo)
-- [UAE astronaut spies Mecca from space station during Hajj &lpar;photo&rpar;](https://www.space.com/uae-long-duration-astronaut-mecca-hajj-photo)
+- [OpenAI’s ChatGPT app can now search the web — but only via Bing](https://techcrunch.com/2023/06/27/openais-chatgpt-app-can-now-search-the-web-but-only-via-bing/)
+- [Mercedes brings F1 technology to the AMG S 63 E Performance](https://techcrunch.com/2023/06/27/mercedes-f1-technology-to-the-amg-s-63-e-performance-hybrid/)
+- [Despite EV delivery delays, Faraday Future raises $90M to stay afloat](https://techcrunch.com/2023/06/27/despite-ev-delivery-delays-faraday-future-raises-90m-to-stay-afloat/)
+- [GitHub CEO: AI and software development are now inextricably linked](https://techcrunch.com/2023/06/27/github-ceo-ai-and-software-development-are-now-inextricably-linked/)
+- [Dark nebula dominates gorgeous new view of Orion constellation &lpar;photo&rpar;](https://www.space.com/dark-nebula-orion-constellation-photo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
