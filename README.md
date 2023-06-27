@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Sandwich, known for its commercials, looks to help younger startups in exchange for equity](https://techcrunch.com/2023/06/27/sandwich-known-for-its-commercials-looks-to-help-younger-startups-in-exchange-for-equity/)
-- [4 VCs illustrate why there’s good reason to be optimistic about the machine learning startup market](https://techcrunch.com/2023/06/27/machine-learning-startup-investor-survey/)
-- [Brilliant Labs puts AI in front of your eye with its tiny open-source AR lens](https://techcrunch.com/2023/06/27/brilliant-labs-puts-ai-in-front-of-your-eye-with-its-tiny-open-source-ar-lens/)
-- [How human &#39;computers&#39; Annie Jump Cannon and Henrietta Swan Leavitt revolutionized astronomy](https://www.space.com/annie-jump-cannon-henrietta-swan-leavitt-revolutionized-astronomy)
-- [Roku announces its first live sports deal](https://techcrunch.com/2023/06/27/roku-announces-its-first-live-sports-deal/)
+- [Khosla Ventures just doubled down on this handyman-on-demand service for homeowners](https://techcrunch.com/2023/06/27/khosla-ventures-just-doubled-down-on-this-suscription-based-handyman-on-demand-service/)
+- [Astropad returns with a $120 iPad drawing stand](https://techcrunch.com/2023/06/27/astropad-returns-with-a-120-ipad-drawing-stand/)
+- [HashiCorp acquires code security startup BluBracket](https://techcrunch.com/2023/06/27/hashicorp-acquires-code-security-startup-blubracket/)
+- [Snowflake-Nvidia partnership could make it easier to build generative AI applications](https://techcrunch.com/2023/06/27/snowflake-nvidia-partnership-could-make-it-easier-to-build-generative-ai-applications/)
+- [Gusto reaches $500M in trailing revenue, teams up with Remote to support international hires](https://techcrunch.com/2023/06/27/gusto-remote-deal-500m-revenue/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
