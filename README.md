@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Arkam Ventures targets $180 million to tap ‘middle India’ opportunity with second fund](https://techcrunch.com/2023/06/26/arkam-ventures-targets-180-million-to-tap-middle-india-opportunity-with-second-fund/)
 - [Kindred Ventures foresees a ‘massive explosion of startups’ courtesy of AI](https://techcrunch.com/2023/06/26/kindred-ventures-foresees-a-massive-explosion-of-startups-courtesy-of-ai/)
 - [Max Q: Welcome to the era of MaaS &lpar;microgravity-as-a-service&rpar;](https://techcrunch.com/2023/06/26/max-q-welcome-to-the-era-of-maas-microgravity-as-a-service/)
 - [Decentralized social networking app Damus to be removed from App Store, will appeal decision](https://techcrunch.com/2023/06/26/decentralized-social-networking-app-damus-to-be-removed-from-app-store-will-appeal-decision/)
 - [SignalFire’s State of Talent report 2023](https://techcrunch.com/2023/06/26/signalfires-state-of-talent-report-2023/)
-- [Unicorn social app IRL to shut down after admitting 95% of its users were fake](https://techcrunch.com/2023/06/26/irl-shut-down-fake-users/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
