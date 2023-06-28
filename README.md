@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Bitpanda’s crypto exchange separates from Bitpanda and secures $33 million](https://techcrunch.com/2023/06/28/bitpandas-crypto-exchange-separates-from-bitpanda-and-secures-33-million/)
-- [Fairphone CEO Eva Gouwens to step down](https://techcrunch.com/2023/06/28/fairphone-ceo-eva-gouwens-to-step-down/)
-- [NASA&#39;s James Webb Space Telescope mission — Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
-- [Gleamer, which provides AI software for radiologists, raises $29.5M](https://techcrunch.com/2023/06/28/gleamer-which-provides-ai-software-for-radiologists-raises-29-5m/)
-- [Supermassive black holes grow surprisingly quickly, study suggests](https://www.space.com/supermassive-black-holes-grow-surprisingly-quickly)
+- [Carl Pei’s Nothing raises something – $96M – ahead of the launch of its Phone &lpar;2&rpar;](https://techcrunch.com/2023/06/28/much-ado-about-nothing/)
+- [Ramon.Space wants to take on-orbit computing infrastructure to the next level](https://techcrunch.com/2023/06/28/ramon-space-wants-to-take-on-orbit-computing-infrastructure-to-the-next-level/)
+- [Joby Aviation receives permit to fly first eVTOL built on production line](https://techcrunch.com/2023/06/28/joby-aviation-receives-permit-to-fly-first-evtol-built-on-production-line/)
+- [DoorDash introduces a slew of new features, including an ‘Earn by Time’ option for delivery people](https://techcrunch.com/2023/06/28/doordash-introduces-a-slew-of-new-features-including-an-earn-by-time-option-for-delivery-people/)
+- [Mars rover Perseverance sets new record for making oxygen on Red Planet](https://www.space.com/mars-perseverance-rover-oxygen-experiment-moxie-record)
 <!-- BLOG-POST-LIST:END -->
 
 ---
