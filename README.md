@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Marvel powers up &#39;Star Wars: Dark Droids&#39; miniseries with 5 new &#39;Scourged&#39; covers](https://www.space.com/marvel-dark-droids-five-new-scourged-covers)
-- [Legacy automakers suffer another blow as Aston Martin spurns Mercedes-AMG’s electrified tech](https://techcrunch.com/2023/06/28/aston-martin-lucid-deal/)
-- [TikTok could soon bring its new e-commerce store to the U.S.](https://techcrunch.com/2023/06/28/tiktok-could-soon-bring-its-new-e-commerce-store-to-the-u-s/)
-- [Secret Invasion season 1 episode 2 review: Nick Fury exposes his humanity and tensions rise](https://www.space.com/secret-invasion-season-1-episode-2-review)
-- [Nubank’s CEO explains what the US could learn from LatAm fintech](https://techcrunch.com/2023/06/28/nubanks-ceo-explains-what-the-us-could-learn-from-latam-fintech/)
+- [Google introduces a new shop tab for rentals and purchases on Android TV](https://techcrunch.com/2023/06/28/google-introdues-a-new-shop-tab-for-rentals-and-purchases-on-android-tv/)
+- [Quandri raises $8.5M Series A to bring process automation to insurance brokers and agencies](https://techcrunch.com/2023/06/28/quandri-raises-8-5m-series-a-to-bring-process-automation-to-insurance-brokers-and-agencies/)
+- [Second statue of first US woman in space to be unveiled at Reagan Library](https://www.space.com/astronaut-sally-ride-statue-reagan-library)
+- [Lego Star Wars Endor Speeder Chase Diorama review](https://www.space.com/lego-star-wars-endor-speeder-chase-diorama-75353-review)
+- [Shadow revamps its cloud computing offerings in Europe](https://techcrunch.com/2023/06/28/shadow-revamps-its-cloud-computing-offerings-in-europe/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
