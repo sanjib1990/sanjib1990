@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bitpanda’s crypto exchange separates from Bitpanda and secures $33 million](https://techcrunch.com/2023/06/28/bitpandas-crypto-exchange-separates-from-bitpanda-and-secures-33-million/)
+- [Fairphone CEO Eva Gouwens to step down](https://techcrunch.com/2023/06/28/fairphone-ceo-eva-gouwens-to-step-down/)
+- [NASA&#39;s James Webb Space Telescope mission — Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
 - [Gleamer, which provides AI software for radiologists, raises $29.5M](https://techcrunch.com/2023/06/28/gleamer-which-provides-ai-software-for-radiologists-raises-29-5m/)
 - [Supermassive black holes grow surprisingly quickly, study suggests](https://www.space.com/supermassive-black-holes-grow-surprisingly-quickly)
-- [Saturn looks incredible in these raw James Webb Space Telescope images &lpar;photos&rpar;](https://www.space.com/saturn-james-webb-space-telescope-images-1st-observation)
-- [Ask Sophie: How do we relocate Ukrainian and Russian team members to the U.S.?](https://techcrunch.com/2023/06/28/ask-sophie-how-do-we-relocate-ukrainian-and-russian-team-members-to-the-u-s/)
-- [Proton launches its password manager Proton Pass](https://techcrunch.com/2023/06/28/proton-launches-its-password-manager-proton-pass/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
