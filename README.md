@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Flowie wants to make invoices flow freely](https://techcrunch.com/2023/06/27/flowie-wants-to-make-invoices-flow-freely/)
 - [Zoox begins testing robotaxis on public roads in Las Vegas](https://techcrunch.com/2023/06/27/zoox-begins-testing-robotaxis-on-public-roads-in-las-vegas/)
 - [‘Only human creators’ can win a Grammy, but AI isn’t totally forbidden](https://techcrunch.com/2023/06/27/only-human-creators-can-win-a-grammy-but-ai-isnt-totally-forbidden/)
 - [OpenAI’s ChatGPT app can now search the web — but only via Bing](https://techcrunch.com/2023/06/27/openais-chatgpt-app-can-now-search-the-web-but-only-via-bing/)
 - [Mercedes brings F1 technology to the AMG S 63 E Performance](https://techcrunch.com/2023/06/27/mercedes-f1-technology-to-the-amg-s-63-e-performance-hybrid/)
-- [Despite EV delivery delays, Faraday Future raises $90M to stay afloat](https://techcrunch.com/2023/06/27/despite-ev-delivery-delays-faraday-future-raises-90m-to-stay-afloat/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
