@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Carl Pei’s Nothing raises something – $96M – ahead of the launch of its Phone &lpar;2&rpar;](https://techcrunch.com/2023/06/28/much-ado-about-nothing/)
-- [Ramon.Space wants to take on-orbit computing infrastructure to the next level](https://techcrunch.com/2023/06/28/ramon-space-wants-to-take-on-orbit-computing-infrastructure-to-the-next-level/)
-- [Joby Aviation receives permit to fly first eVTOL built on production line](https://techcrunch.com/2023/06/28/joby-aviation-receives-permit-to-fly-first-evtol-built-on-production-line/)
-- [DoorDash introduces a slew of new features, including an ‘Earn by Time’ option for delivery people](https://techcrunch.com/2023/06/28/doordash-introduces-a-slew-of-new-features-including-an-earn-by-time-option-for-delivery-people/)
-- [Mars rover Perseverance sets new record for making oxygen on Red Planet](https://www.space.com/mars-perseverance-rover-oxygen-experiment-moxie-record)
+- [Hello Alice, Global Entrepreneurship Network unveil $70M Equitable Access Fund](https://techcrunch.com/2023/06/28/hello-alice-global-entrepreneurship-network-70m-equitable-access-fund/)
+- [No SSN, no problem, says Maza, a fintech startup aimed at undocumented immigrants](https://techcrunch.com/2023/06/28/no-social-security-number-no-problem-says-maza-a-fintech-startup-that-just-raised-8m-led-by-andreessen-horowitz/)
+- [PayPal launches support for tap to pay on Android for merchants using Venmo and Zettle in the U.S.](https://techcrunch.com/2023/06/28/paypal-launches-support-for-tap-to-pay-on-android-for-merchants-using-venmo-and-zettle-in-the-u-s/)
+- [Watch dark matter-hunting Euclid probe launch on SpaceX rocket on July 1](https://www.space.com/euclid-spacex-launch-dark-matter-webcast)
+- [Workflow automation startup Parabola raises $24M](https://techcrunch.com/2023/06/28/parabola-workflow-automation-startup/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
