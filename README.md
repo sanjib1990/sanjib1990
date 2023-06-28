@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Marvel powers up &#39;Star Wars: Dark Droids&#39; miniseries with 5 new &#39;Scourged&#39; covers](https://www.space.com/marvel-dark-droids-five-new-scourged-covers)
+- [Legacy automakers suffer another blow as Aston Martin spurns Mercedes-AMG’s electrified tech](https://techcrunch.com/2023/06/28/aston-martin-lucid-deal/)
+- [TikTok could soon bring its new e-commerce store to the U.S.](https://techcrunch.com/2023/06/28/tiktok-could-soon-bring-its-new-e-commerce-store-to-the-u-s/)
+- [Secret Invasion season 1 episode 2 review: Nick Fury exposes his humanity and tensions rise](https://www.space.com/secret-invasion-season-1-episode-2-review)
 - [Nubank’s CEO explains what the US could learn from LatAm fintech](https://techcrunch.com/2023/06/28/nubanks-ceo-explains-what-the-us-could-learn-from-latam-fintech/)
-- [NASA wants ideas for Artemis 3 moon landing experiments. But time&#39;s running out.](https://www.space.com/nasa-requests-experiment-ideas-artemis-3-moon-mission)
-- [Hello Alice, Global Entrepreneurship Network unveil $70M Equitable Access Fund](https://techcrunch.com/2023/06/28/hello-alice-global-entrepreneurship-network-70m-equitable-access-fund/)
-- [No SSN, no problem, says Maza, a fintech startup aimed at undocumented immigrants](https://techcrunch.com/2023/06/28/no-social-security-number-no-problem-says-maza-a-fintech-startup-that-just-raised-8m-led-by-andreessen-horowitz/)
-- [PayPal launches support for tap to pay on Android for merchants using Venmo and Zettle in the U.S.](https://techcrunch.com/2023/06/28/paypal-launches-support-for-tap-to-pay-on-android-for-merchants-using-venmo-and-zettle-in-the-u-s/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
