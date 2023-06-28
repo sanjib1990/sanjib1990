@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nubank’s CEO explains what the US could learn from LatAm fintech](https://techcrunch.com/2023/06/28/nubanks-ceo-explains-what-the-us-could-learn-from-latam-fintech/)
+- [NASA wants ideas for Artemis 3 moon landing experiments. But time&#39;s running out.](https://www.space.com/nasa-requests-experiment-ideas-artemis-3-moon-mission)
 - [Hello Alice, Global Entrepreneurship Network unveil $70M Equitable Access Fund](https://techcrunch.com/2023/06/28/hello-alice-global-entrepreneurship-network-70m-equitable-access-fund/)
 - [No SSN, no problem, says Maza, a fintech startup aimed at undocumented immigrants](https://techcrunch.com/2023/06/28/no-social-security-number-no-problem-says-maza-a-fintech-startup-that-just-raised-8m-led-by-andreessen-horowitz/)
 - [PayPal launches support for tap to pay on Android for merchants using Venmo and Zettle in the U.S.](https://techcrunch.com/2023/06/28/paypal-launches-support-for-tap-to-pay-on-android-for-merchants-using-venmo-and-zettle-in-the-u-s/)
-- [Watch dark matter-hunting Euclid probe launch on SpaceX rocket on July 1](https://www.space.com/euclid-spacex-launch-dark-matter-webcast)
-- [Workflow automation startup Parabola raises $24M](https://techcrunch.com/2023/06/28/parabola-workflow-automation-startup/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
