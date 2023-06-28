@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Crypto losses halved in Q2 2023 to $204M](https://techcrunch.com/2023/06/28/crypto-hack-scam-losses/)
+- [As $100M+ venture rounds evaporate, IPOs might have to carry the weight](https://techcrunch.com/2023/06/28/venture-mega-rounds-ipo/)
+- [July 4th weeklong sale on passes to TechCrunch Disrupt 2023](https://techcrunch.com/2023/06/28/july-sale-earlybird-price-passes-techcrunch-disrupt-2023/)
+- [House GOP discusses use of robot dogs to patrol US borders](https://techcrunch.com/2023/06/28/house-gop-discusses-use-of-robot-dogs-to-patrol-us-borders/)
 - [Reddit protest plunges user engagement, site activity and ad portal visits](https://techcrunch.com/2023/06/28/reddit-protest-user-engagements-site-activity-impact/)
-- [Techstars raising $150 million for new accelerator fund](https://techcrunch.com/2023/06/28/techstars/)
-- [How many people can fly on Virgin Galactic&#39;s SpaceShipTwo space plane?](https://www.space.com/virgin-galactic-spaceshiptwo-how-many-astronauts)
-- [OpenAI brings the competition to DeepMind’s doorstep with new London office](https://techcrunch.com/2023/06/28/openai-brings-the-competition-to-deepminds-doorstep-with-new-london-office/)
-- [&#39;Forbidden planet&#39; narrowly escaped becoming a snack for a dying star &lpar;video&rpar;](https://www.space.com/forbidden-planet-escapes-dying-star)
 <!-- BLOG-POST-LIST:END -->
 
 ---
