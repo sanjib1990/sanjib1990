@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [China’s AI firms might further lose chip access in new US ban](https://techcrunch.com/2023/06/28/chinas-ai-firms-might-further-lose-chip-access-in-new-us-ban/)
-- [Bluu Seafood reels in $17.5M to bring cultivated fish products to market](https://techcrunch.com/2023/06/28/bluu-seafood-reels-in-17-5m-to-bring-cultivated-fish-products-to-market/)
-- [Flowie wants to make invoices flow freely](https://techcrunch.com/2023/06/27/flowie-wants-to-make-invoices-flow-freely/)
-- [Zoox begins testing robotaxis on public roads in Las Vegas](https://techcrunch.com/2023/06/27/zoox-begins-testing-robotaxis-on-public-roads-in-las-vegas/)
-- [‘Only human creators’ can win a Grammy, but AI isn’t totally forbidden](https://techcrunch.com/2023/06/27/only-human-creators-can-win-a-grammy-but-ai-isnt-totally-forbidden/)
+- [Gleamer, which provides AI software for radiologists, raises $29.5M](https://techcrunch.com/2023/06/28/gleamer-which-provides-ai-software-for-radiologists-raises-29-5m/)
+- [Supermassive black holes grow surprisingly quickly, study suggests](https://www.space.com/supermassive-black-holes-grow-surprisingly-quickly)
+- [Saturn looks incredible in these raw James Webb Space Telescope images &lpar;photos&rpar;](https://www.space.com/saturn-james-webb-space-telescope-images-1st-observation)
+- [Ask Sophie: How do we relocate Ukrainian and Russian team members to the U.S.?](https://techcrunch.com/2023/06/28/ask-sophie-how-do-we-relocate-ukrainian-and-russian-team-members-to-the-u-s/)
+- [Proton launches its password manager Proton Pass](https://techcrunch.com/2023/06/28/proton-launches-its-password-manager-proton-pass/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
