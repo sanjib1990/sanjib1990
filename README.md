@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See SpaceX&#39;s new Starship fire up in these stunning engine test photos](https://www.space.com/spacex-starship-ship-25-engine-test-fire-photos)
+- [Space pictures! See our image of the day](https://www.space.com/34-image-day.html)
+- [Snowflake and Databricks are putting the data stored in their services to work](https://techcrunch.com/2023/06/28/snowflake-databricks-data-machine-learning/)
 - [Google introduces a new shop tab for rentals and purchases on Android TV](https://techcrunch.com/2023/06/28/google-introdues-a-new-shop-tab-for-rentals-and-purchases-on-android-tv/)
 - [Quandri raises $8.5M Series A to bring process automation to insurance brokers and agencies](https://techcrunch.com/2023/06/28/quandri-raises-8-5m-series-a-to-bring-process-automation-to-insurance-brokers-and-agencies/)
-- [Second statue of first US woman in space to be unveiled at Reagan Library](https://www.space.com/astronaut-sally-ride-statue-reagan-library)
-- [Lego Star Wars Endor Speeder Chase Diorama review](https://www.space.com/lego-star-wars-endor-speeder-chase-diorama-75353-review)
-- [Shadow revamps its cloud computing offerings in Europe](https://techcrunch.com/2023/06/28/shadow-revamps-its-cloud-computing-offerings-in-europe/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
