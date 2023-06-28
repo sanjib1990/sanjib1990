@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [China’s AI firms might further lose chip access in new US ban](https://techcrunch.com/2023/06/28/chinas-ai-firms-might-further-lose-chip-access-in-new-us-ban/)
 - [Bluu Seafood reels in $17.5M to bring cultivated fish products to market](https://techcrunch.com/2023/06/28/bluu-seafood-reels-in-17-5m-to-bring-cultivated-fish-products-to-market/)
 - [Flowie wants to make invoices flow freely](https://techcrunch.com/2023/06/27/flowie-wants-to-make-invoices-flow-freely/)
 - [Zoox begins testing robotaxis on public roads in Las Vegas](https://techcrunch.com/2023/06/27/zoox-begins-testing-robotaxis-on-public-roads-in-las-vegas/)
 - [‘Only human creators’ can win a Grammy, but AI isn’t totally forbidden](https://techcrunch.com/2023/06/27/only-human-creators-can-win-a-grammy-but-ai-isnt-totally-forbidden/)
-- [OpenAI’s ChatGPT app can now search the web — but only via Bing](https://techcrunch.com/2023/06/27/openais-chatgpt-app-can-now-search-the-web-but-only-via-bing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
