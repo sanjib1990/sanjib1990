@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TuSimple may sell US business as it turns attention to Asia](https://techcrunch.com/2023/06/28/tusimple-may-sell-us-business-as-it-turns-attention-to-asia/)
+- [Spire and OroraTech will launch a fleet of wildfire-monitoring satellites](https://techcrunch.com/2023/06/28/spire-and-ororatech-will-launch-a-fleet-of-wildfire-monitoring-satellites/)
+- [Virgin Galactic set to launch crucial 1st commercial SpaceShipTwo mission on Thursday](https://www.space.com/virgin-galactic-first-commercial-mission-importance)
 - [Visa acquires Brazilian fintech startup Pismo in $1B blockbuster deal](https://techcrunch.com/2023/06/28/visa-acquires-brazilian-fintech-startup-pismo-in-1b-blockbuster-deal/)
 - [James Webb Space Telescope sees 1st starlight from ancient quasars in groundbreaking discovery](https://www.space.com/james-webb-space-telescope-quasar-early-universe)
-- [Brex refocuses on startups with hire of SVB veteran, ex-a16z partner](https://techcrunch.com/2023/06/28/brex-hires-ex-a16z-partner-svb-veteran-to-lead-its-renewed-focus-on-startups/)
-- [Celestial AI raises $100M to transfer data using light-based interconnects](https://techcrunch.com/2023/06/28/celestial-ai-raises-100m-to-transfer-data-using-light-based-interconnects/)
-- [Crypto losses halved in Q2 2023 to $204M](https://techcrunch.com/2023/06/28/crypto-hack-scam-losses/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
