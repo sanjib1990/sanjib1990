@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [See SpaceX&#39;s new Starship fire up in these stunning engine test photos](https://www.space.com/spacex-starship-ship-25-engine-test-fire-photos)
-- [Space pictures! See our image of the day](https://www.space.com/34-image-day.html)
-- [Snowflake and Databricks are putting the data stored in their services to work](https://techcrunch.com/2023/06/28/snowflake-databricks-data-machine-learning/)
-- [Google introduces a new shop tab for rentals and purchases on Android TV](https://techcrunch.com/2023/06/28/google-introdues-a-new-shop-tab-for-rentals-and-purchases-on-android-tv/)
-- [Quandri raises $8.5M Series A to bring process automation to insurance brokers and agencies](https://techcrunch.com/2023/06/28/quandri-raises-8-5m-series-a-to-bring-process-automation-to-insurance-brokers-and-agencies/)
+- [Reddit protest plunges user engagement, site activity and ad portal visits](https://techcrunch.com/2023/06/28/reddit-protest-user-engagements-site-activity-impact/)
+- [Techstars raising $150 million for new accelerator fund](https://techcrunch.com/2023/06/28/techstars/)
+- [How many people can fly on Virgin Galactic&#39;s SpaceShipTwo space plane?](https://www.space.com/virgin-galactic-spaceshiptwo-how-many-astronauts)
+- [OpenAI brings the competition to DeepMind’s doorstep with new London office](https://techcrunch.com/2023/06/28/openai-brings-the-competition-to-deepminds-doorstep-with-new-london-office/)
+- [&#39;Forbidden planet&#39; narrowly escaped becoming a snack for a dying star &lpar;video&rpar;](https://www.space.com/forbidden-planet-escapes-dying-star)
 <!-- BLOG-POST-LIST:END -->
 
 ---
