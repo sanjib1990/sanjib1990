@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Visa acquires Brazilian fintech startup Pismo in $1B blockbuster deal](https://techcrunch.com/2023/06/28/visa-acquires-brazilian-fintech-startup-pismo-in-1b-blockbuster-deal/)
+- [James Webb Space Telescope sees 1st starlight from ancient quasars in groundbreaking discovery](https://www.space.com/james-webb-space-telescope-quasar-early-universe)
+- [Brex refocuses on startups with hire of SVB veteran, ex-a16z partner](https://techcrunch.com/2023/06/28/brex-hires-ex-a16z-partner-svb-veteran-to-lead-its-renewed-focus-on-startups/)
+- [Celestial AI raises $100M to transfer data using light-based interconnects](https://techcrunch.com/2023/06/28/celestial-ai-raises-100m-to-transfer-data-using-light-based-interconnects/)
 - [Crypto losses halved in Q2 2023 to $204M](https://techcrunch.com/2023/06/28/crypto-hack-scam-losses/)
-- [As $100M+ venture rounds evaporate, IPOs might have to carry the weight](https://techcrunch.com/2023/06/28/venture-mega-rounds-ipo/)
-- [July 4th weeklong sale on passes to TechCrunch Disrupt 2023](https://techcrunch.com/2023/06/28/july-sale-earlybird-price-passes-techcrunch-disrupt-2023/)
-- [House GOP discusses use of robot dogs to patrol US borders](https://techcrunch.com/2023/06/28/house-gop-discusses-use-of-robot-dogs-to-patrol-us-borders/)
-- [Reddit protest plunges user engagement, site activity and ad portal visits](https://techcrunch.com/2023/06/28/reddit-protest-user-engagements-site-activity-impact/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
