@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft brings new AI-powered shopping tools to Bing and Edge](https://techcrunch.com/2023/06/29/microsoft-brings-new-ai-powered-shopping-tools-to-bing-and-edge/)
+- [Snapchat+ reaches 4 million paid subscribers since launching a year ago](https://techcrunch.com/2023/06/29/snapchat-reaches-4-million-paid-subscribers-in-its-first-year-since-launch/)
+- [High school changes every student’s password to ‘Ch@ngeme!’](https://techcrunch.com/2023/06/29/high-school-changes-every-students-password-to-chngeme/)
+- [Plex lays off 20% of its workforce amid advertising slowdown](https://techcrunch.com/2023/06/29/plex-layoffs-advertising-slowdown/)
 - [When companies have more influence than countries](https://techcrunch.com/2023/06/29/so-who-watches-the-watchmen/)
-- [Inflection lands $1.3B investment to build more ‘personal’ AI](https://techcrunch.com/2023/06/29/inflection-ai-lands-1-3b-investment-to-build-more-personal-ai/)
-- [Moonquake-hunting &#39;SPIDER&#39; probes could detect lunar temblors on NASA Artemis missions](https://www.space.com/moon-moonquake-seismic-station-mission-funding)
-- [Level wants to back your fund — and your portfolio companies too](https://techcrunch.com/2023/06/29/level-wants-to-back-your-fund-and-your-portfolio-companies-too/)
-- [After aperitif ambitions sour, Haus is back on virtual shelves via The Naked Market](https://techcrunch.com/2023/06/29/aperitif-haus-the-naked-market/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
