@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Material Evolution raises $19M to decarbonise the cement industry](https://techcrunch.com/2023/06/29/material-evolution-raises-19m-to-decarbonise-the-cement-industry/)
-- [Typeface, which is building generative AI for brands, raises $100M at a $1B valuation](https://techcrunch.com/2023/06/29/typeface-which-is-building-generative-ai-for-brands-raises-100m-at-a-1b-valuation/)
-- [India startup funding slides 68% after Tiger and SoftBank make virtually no deals](https://techcrunch.com/2023/06/29/india-startup-funding-slides-after-tiger-and-softbank-make-virtually-no-deals/)
-- [DoorDash offers delivery workers hourly rate, but there’s a catch](https://techcrunch.com/2023/06/28/doordash-offers-delivery-workers-hourly-rate-but-theres-a-catch/)
-- [The gravitational wave background of the universe has been heard for the 1st time](https://www.space.com/gravitational-wave-background-universe-1st-detection)
+- [Meta expects recommendation models ‘orders of magnitude’ bigger than GPT-4. Why?](https://techcrunch.com/2023/06/29/metas-behavior-analysis-model-is-orders-of-magnitude-bigger-than-gpt-4-why/)
+- [Watch SpaceX Dragon cargo capsule depart the ISS today in this free livestream](https://www.space.com/spacex-dragon-cargo-ship-return-to-earth-iss-june-2023)
+- [Cyware lands $30M to modernize cybersecurity operations](https://techcrunch.com/2023/06/29/cyware-lands-30m-to-modernize-cybersecurity-operations/)
+- [Meta really wants to explain its AI recommendation algorithms to you](https://techcrunch.com/2023/06/29/meta-really-wants-to-explain-its-ai-recommendation-algorithms-to-you/)
+- [B Garage raises $20M for its warehouse inventory drones](https://techcrunch.com/2023/06/29/b-garage-raises-20m-for-its-warehouse-inventory-drones/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
