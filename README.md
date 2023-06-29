@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DoorDash offers delivery workers hourly rate, but there’s a catch](https://techcrunch.com/2023/06/28/doordash-offers-delivery-workers-hourly-rate-but-theres-a-catch/)
 - [The gravitational wave background of the universe has been heard for the 1st time](https://www.space.com/gravitational-wave-background-universe-1st-detection)
 - [TuSimple may sell US business as it turns attention to Asia](https://techcrunch.com/2023/06/28/tusimple-may-sell-us-business-as-it-turns-attention-to-asia/)
 - [Spire and OroraTech will launch a fleet of wildfire-monitoring satellites](https://techcrunch.com/2023/06/28/spire-and-ororatech-will-launch-a-fleet-of-wildfire-monitoring-satellites/)
 - [Virgin Galactic set to launch crucial 1st commercial SpaceShipTwo mission on Thursday](https://www.space.com/virgin-galactic-first-commercial-mission-importance)
-- [Visa acquires Brazilian fintech startup Pismo in $1B blockbuster deal](https://techcrunch.com/2023/06/28/visa-acquires-brazilian-fintech-startup-pismo-in-1b-blockbuster-deal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
