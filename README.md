@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [FTC reportedly finalizing its biggest Amazon antitrust case yet](https://techcrunch.com/2023/06/29/ftc-reportedly-finalizing-its-biggest-amazon-antitrust-case-yet/)
+- [How confidential computing could secure generative AI adoption](https://techcrunch.com/2023/06/29/how-confidential-computing-could-secure-generative-ai-adoption/)
 - [11 VCs reveal how hard it was for their startups to fundraise in H1 2023](https://techcrunch.com/2023/06/29/startups-fundraising-trends-2023-h1/)
 - [Smoke from Canadian wildfires chokes US midwest, reaches Europe &lpar;satellite photos&rpar;](https://www.space.com/smoke-canadian-wildfires-midwest-europe-satellite-photos)
 - [Fund of funds are starting to play a different role for venture LPs](https://techcrunch.com/2023/06/29/fund-of-funds-lps/)
-- [Scientists find &#39;ghost particles&#39; spewing from our Milky Way galaxy in landmark discovery &lpar;video&rpar;](https://www.space.com/high-energy-neutrinos-milky-way-galaxy-icecube)
-- [Say goodbye to Q2 and the crypto hacks, scams and rug pulls that came with it](https://techcrunch.com/2023/06/29/say-goodbye-to-q2-and-the-crypto-hacks-scams-and-rug-pulls-that-came-with-it/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
