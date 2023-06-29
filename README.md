@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A &#39;captured&#39; alien planet may be hiding at the edge of our solar system — and it&#39;s not &#39;Planet X&#39;](https://www.space.com/captured-alien-planet-hiding-edge-of-solar-system)
+- [Millions affected by MOVEit mass-hacks as list of casualties continues to grow](https://techcrunch.com/2023/06/29/millions-affected-moveit-mass-hacks/)
+- [Meituan buys founder’s months-old ‘OpenAI for China’ for $234M](https://techcrunch.com/2023/06/29/meituan-buys-founders-months-old-openai-for-china-for-234m/)
+- [Virgin Galactic aces its 1st-ever commercial launch of suborbital space plane &lpar;video&rpar;](https://www.space.com/virgin-galactic-first-commercial-mission-success)
 - [Speakeasy is using AI to automate API creation and distribution](https://techcrunch.com/2023/06/29/speakeasy-is-using-ai-to-automate-api-creation-and-distribution/)
-- [Satellites spy on human trafficking &#39;compounds&#39; &lpar;photo&rpar;](https://www.space.com/human-trafficking-compound-maxar-satellite-photo)
-- [How Porsche plans to grow margins with luxury and speed](https://techcrunch.com/2023/06/29/how-porsche-plans-to-grow-margins-with-luxury-and-speed/)
-- [Batteries beat oil and gas as AI startup pivots to critical minerals exploration](https://techcrunch.com/2023/06/29/geologicai-minerals-exploration-series-a/)
-- [Microsoft brings new AI-powered shopping tools to Bing and Edge](https://techcrunch.com/2023/06/29/microsoft-brings-new-ai-powered-shopping-tools-to-bing-and-edge/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
