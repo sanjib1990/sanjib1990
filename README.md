@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [A &#39;captured&#39; alien planet may be hiding at the edge of our solar system — and it&#39;s not &#39;Planet X&#39;](https://www.space.com/captured-alien-planet-hiding-edge-of-solar-system)
-- [Millions affected by MOVEit mass-hacks as list of casualties continues to grow](https://techcrunch.com/2023/06/29/millions-affected-moveit-mass-hacks/)
-- [Meituan buys founder’s months-old ‘OpenAI for China’ for $234M](https://techcrunch.com/2023/06/29/meituan-buys-founders-months-old-openai-for-china-for-234m/)
-- [Virgin Galactic aces its 1st-ever commercial launch of suborbital space plane &lpar;video&rpar;](https://www.space.com/virgin-galactic-first-commercial-mission-success)
-- [Speakeasy is using AI to automate API creation and distribution](https://techcrunch.com/2023/06/29/speakeasy-is-using-ai-to-automate-api-creation-and-distribution/)
+- [James Webb Space Telescope will help Euclid spacecraft investigate dark energy and dark matter](https://www.space.com/james-webb-space-telescope-Euclid-hunt-dark-energy-matter)
+- [VW subsidiary Electrify America to add Tesla connectors to EV charging network](https://techcrunch.com/2023/06/29/vw-subsidiary-electrify-america-to-add-tesla-connectors-to-ev-charging-network/)
+- [Scriptic scores $5.7M as it expands its phone-first generative AI content library](https://techcrunch.com/2023/06/29/scriptic-phone-first-ai-generated-content-mobile-games/)
+- [Runway, a startup building generative AI for content creators, raises $141M](https://techcrunch.com/2023/06/29/runway-a-startup-building-generative-ai-for-content-creators-raises-141m/)
+- [Signal talks privacy, encryption, AI and more at TechCrunch Disrupt 2023’s Security Stage](https://techcrunch.com/2023/06/29/signal-talks-privacy-encryption-ai-and-more-at-techcrunch-disrupt-2023-security-stage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
