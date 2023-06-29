@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Speakeasy is using AI to automate API creation and distribution](https://techcrunch.com/2023/06/29/speakeasy-is-using-ai-to-automate-api-creation-and-distribution/)
+- [Satellites spy on human trafficking &#39;compounds&#39; &lpar;photo&rpar;](https://www.space.com/human-trafficking-compound-maxar-satellite-photo)
+- [How Porsche plans to grow margins with luxury and speed](https://techcrunch.com/2023/06/29/how-porsche-plans-to-grow-margins-with-luxury-and-speed/)
+- [Batteries beat oil and gas as AI startup pivots to critical minerals exploration](https://techcrunch.com/2023/06/29/geologicai-minerals-exploration-series-a/)
 - [Microsoft brings new AI-powered shopping tools to Bing and Edge](https://techcrunch.com/2023/06/29/microsoft-brings-new-ai-powered-shopping-tools-to-bing-and-edge/)
-- [Snapchat+ reaches 4 million paid subscribers since launching a year ago](https://techcrunch.com/2023/06/29/snapchat-reaches-4-million-paid-subscribers-in-its-first-year-since-launch/)
-- [High school changes every student’s password to ‘Ch@ngeme!’](https://techcrunch.com/2023/06/29/high-school-changes-every-students-password-to-chngeme/)
-- [Plex lays off 20% of its workforce amid advertising slowdown](https://techcrunch.com/2023/06/29/plex-layoffs-advertising-slowdown/)
-- [When companies have more influence than countries](https://techcrunch.com/2023/06/29/so-who-watches-the-watchmen/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
