@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Halo Car launches remotely piloted rental car deliveries in Las Vegas](https://techcrunch.com/2023/06/29/halo-car-launches-remotely-piloted-rental-car-deliveries-in-las-vegas/)
+- [Social trading app Shares receives EU stock trading license](https://techcrunch.com/2023/06/29/social-trading-app-shares-receives-eu-stock-trading-license/)
+- [Lightspeed makes first investment in Africa, backing Ghana’s Berry Health](https://techcrunch.com/2023/06/29/lightspeed-makes-first-investment-in-africa-backing-ghanas-berry-health/)
 - [Meta expects recommendation models ‘orders of magnitude’ bigger than GPT-4. Why?](https://techcrunch.com/2023/06/29/metas-behavior-analysis-model-is-orders-of-magnitude-bigger-than-gpt-4-why/)
 - [Watch SpaceX Dragon cargo capsule depart the ISS today in this free livestream](https://www.space.com/spacex-dragon-cargo-ship-return-to-earth-iss-june-2023)
-- [Cyware lands $30M to modernize cybersecurity operations](https://techcrunch.com/2023/06/29/cyware-lands-30m-to-modernize-cybersecurity-operations/)
-- [Meta really wants to explain its AI recommendation algorithms to you](https://techcrunch.com/2023/06/29/meta-really-wants-to-explain-its-ai-recommendation-algorithms-to-you/)
-- [B Garage raises $20M for its warehouse inventory drones](https://techcrunch.com/2023/06/29/b-garage-raises-20m-for-its-warehouse-inventory-drones/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
