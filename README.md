@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [After aperitif ambitions sour, Haus is back on virtual shelves via The Naked Market](https://techcrunch.com/2023/06/29/aperitif-haus-the-naked-market/)
+- [Virgin Galactic’s first commercial flight set to lift off this morning](https://techcrunch.com/2023/06/29/virgin-galactics-first-commercial-flight-set-to-lift-off-this-morning/)
+- [&#39;Star Trek: Strange New Worlds&#39; season 2 episode 3 is filled with twists, turns and Toronto](https://www.space.com/star-trek-strange-new-worlds-S02-E03-review)
 - [How to see comet E1 ATLAS high in the night sky in July near the Little Dipper](https://www.space.com/comet-c2023-e1-atlas-little-dipper-how-to-see)
 - [Halo Car launches remotely piloted rental car deliveries in Las Vegas](https://techcrunch.com/2023/06/29/halo-car-launches-remotely-piloted-rental-car-deliveries-in-las-vegas/)
-- [Social trading app Shares receives EU stock trading license](https://techcrunch.com/2023/06/29/social-trading-app-shares-receives-eu-stock-trading-license/)
-- [Lightspeed makes first investment in Africa, backing Ghana’s Berry Health](https://techcrunch.com/2023/06/29/lightspeed-makes-first-investment-in-africa-backing-ghanas-berry-health/)
-- [Meta expects recommendation models ‘orders of magnitude’ bigger than GPT-4. Why?](https://techcrunch.com/2023/06/29/metas-behavior-analysis-model-is-orders-of-magnitude-bigger-than-gpt-4-why/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
