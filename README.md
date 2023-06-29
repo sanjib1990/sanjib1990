@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Say goodbye to Q2 and the crypto hacks, scams and rug pulls that came with it](https://techcrunch.com/2023/06/29/say-goodbye-to-q2-and-the-crypto-hacks-scams-and-rug-pulls-that-came-with-it/)
+- [Major League Baseball embraces 3D motion tracking to scout players](https://techcrunch.com/2023/06/29/major-league-baseball-embraces-3d-motion-tracking-to-scout-players/)
+- [Niantic lays off 230 employees, cancels NBA and Marvel games](https://techcrunch.com/2023/06/29/niantic-lays-off-230-employees-cancels-nba-and-marvel-games/)
 - [James Webb Space Telescope will help Euclid spacecraft investigate dark energy and dark matter](https://www.space.com/james-webb-space-telescope-Euclid-hunt-dark-energy-matter)
 - [VW subsidiary Electrify America to add Tesla connectors to EV charging network](https://techcrunch.com/2023/06/29/vw-subsidiary-electrify-america-to-add-tesla-connectors-to-ev-charging-network/)
-- [Scriptic scores $5.7M as it expands its phone-first generative AI content library](https://techcrunch.com/2023/06/29/scriptic-phone-first-ai-generated-content-mobile-games/)
-- [Runway, a startup building generative AI for content creators, raises $141M](https://techcrunch.com/2023/06/29/runway-a-startup-building-generative-ai-for-content-creators-raises-141m/)
-- [Signal talks privacy, encryption, AI and more at TechCrunch Disrupt 2023’s Security Stage](https://techcrunch.com/2023/06/29/signal-talks-privacy-encryption-ai-and-more-at-techcrunch-disrupt-2023-security-stage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
