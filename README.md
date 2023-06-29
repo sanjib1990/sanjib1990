@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Power LED Attack - Computerphile](https://www.youtube.com/watch?v=vXe8pe18MNk)
 - [you NEED to learn Windows RIGHT NOW!!](https://www.youtube.com/watch?v=X1CM3rZwGn8)
 - [How to watch Star Wars the right way!!](https://www.youtube.com/watch?v=pMb0hyUqxvw)
 - [PHP will make you poor? StackOverflow 2023 Results](https://www.youtube.com/watch?v=3Ay6qZ88boI)
 - [SST in 100 seconds](https://www.youtube.com/watch?v=JY_d0vf-rfw)
-- [build your own cloud](https://www.youtube.com/watch?v=xBIowQ0WaR8)
 <!-- YOUTUBE:END -->
 
 ---
