@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fund of funds are starting to play a different role for venture LPs](https://techcrunch.com/2023/06/29/fund-of-funds-lps/)
+- [Scientists find high-energy neutrinos spewing from our Milky Way galaxy in landmark discovery &lpar;video&rpar;](https://www.space.com/high-energy-neutrinos-milky-way-galaxy-icecube)
 - [Say goodbye to Q2 and the crypto hacks, scams and rug pulls that came with it](https://techcrunch.com/2023/06/29/say-goodbye-to-q2-and-the-crypto-hacks-scams-and-rug-pulls-that-came-with-it/)
 - [Major League Baseball embraces 3D motion tracking to scout players](https://techcrunch.com/2023/06/29/major-league-baseball-embraces-3d-motion-tracking-to-scout-players/)
 - [Niantic lays off 230 employees, cancels NBA and Marvel games](https://techcrunch.com/2023/06/29/niantic-lays-off-230-employees-cancels-nba-and-marvel-games/)
-- [James Webb Space Telescope will help Euclid spacecraft investigate dark energy and dark matter](https://www.space.com/james-webb-space-telescope-Euclid-hunt-dark-energy-matter)
-- [VW subsidiary Electrify America to add Tesla connectors to EV charging network](https://techcrunch.com/2023/06/29/vw-subsidiary-electrify-america-to-add-tesla-connectors-to-ev-charging-network/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
