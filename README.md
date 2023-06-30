@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Space pictures! See our image of the day](https://www.space.com/34-image-day.html)
-- [UK readies in-depth investigation into Adobe’s $20B Figma acquisition](https://techcrunch.com/2023/06/30/uk-readies-in-depth-investigation-into-adobes-20b-figma-acquisition/)
-- [Mars, Venus and Neptune put on a summer skywatching show tonight. Here&#39;s how to see it.](https://www.space.com/mars-venus-neptune-june-2023)
-- [Happy Asteroid Day! You can celebrate with this free webcast](https://www.space.com/asteroid-day-2023-webcast-events)
-- [Fidelity deepens valuation cut for Reddit and Discord](https://techcrunch.com/2023/06/30/fidelity-deepens-valuation-cut-for-reddit-and-discord/)
+- [TSMC confirms data breach after LockBit cyberattack on third-party supplier](https://techcrunch.com/2023/06/30/tsmc-confirms-data-breach-after-lockbit-cyberattack-on-third-party-supplier/)
+- [WhatsApp introduces new QR-code-based local data transfer method](https://techcrunch.com/2023/06/30/whatsapp-introduces-new-qr-code-based-local-data-transfer-method/)
+- [TikTok parent ByteDance launches music creation and audio editing app in closed beta in the US](https://techcrunch.com/2023/06/30/tiktok-parent-bytedance-launches-music-creation-audio-editing-app/)
+- [You can see a huge sunspot 7 times wider than Earth right now — but be careful!](https://www.space.com/see-huge-sunspot-ar-3354-june-2023)
+- [How will Europe&#39;s Euclid space telescope see into the dark universe?](https://www.space.com/euclid-solving-mystery-dark-universe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
