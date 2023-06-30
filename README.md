@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [YouTube limits ad blocker usage in new test](https://techcrunch.com/2023/06/30/youtube-limits-ad-blocker-usage-in-new-test/)
+- [Fertifa enables companies to offer fertility and reproductive health benefits](https://techcrunch.com/2023/06/30/fertifa/)
 - [India court rejects Twitter’s lawsuit against gov’t challenging block orders](https://techcrunch.com/2023/06/29/court-dismisses-twitter-plea-against-india-government/)
 - [Korea’s Alwayz aims to make online shopping fun again with $46M in funding](https://techcrunch.com/2023/06/29/koreas-alwayz-aims-to-make-online-shopping-fun-again-with-46m-in-funding/)
 - [FTC reportedly finalizing its biggest Amazon antitrust case yet](https://techcrunch.com/2023/06/29/ftc-reportedly-finalizing-its-biggest-amazon-antitrust-case-yet/)
-- [How confidential computing could secure generative AI adoption](https://techcrunch.com/2023/06/29/how-confidential-computing-could-secure-generative-ai-adoption/)
-- [11 VCs reveal how hard it was for their startups to fundraise in H1 2023](https://techcrunch.com/2023/06/29/startups-fundraising-trends-2023-h1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
