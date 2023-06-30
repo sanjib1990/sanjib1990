@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [GM buys software startup that predicts EV battery fires](https://techcrunch.com/2023/06/30/gm-buys-software-startup-that-predicts-ev-battery-fires/)
-- [Schools say US teachers’ retirement fund was breached by MOVEit hackers](https://techcrunch.com/2023/06/30/tiaa-teachers-retirement-fund-moveit/)
-- [Why automakers are rushing to adopt Tesla’s NACS plug and what it means to drivers](https://techcrunch.com/2023/06/30/electrify-america-nacs/)
-- [Voice.ai raises $6M as its real-time voice changer approaches 500k users](https://techcrunch.com/2023/06/30/voice-ai-raises-6m-as-its-real-time-voice-changer-approaches-500k-users/)
-- [Apple’s market cap hits $3 trillion once again](https://techcrunch.com/2023/06/30/apples-market-cap-hits-3-trillion-once-again/)
+- [European VCs &amp; tech firms sign open letter warning against over-regulation of AI in draft EU laws](https://techcrunch.com/2023/06/30/european-vcs-tech-firms-sign-open-letter-warning-against-over-regulation-of-ai-in-draft-eu-laws/)
+- [AI is not a panacea for software development](https://techcrunch.com/2023/06/30/ai-is-not-a-panacea-for-software-development/)
+- [Watch this new &#39;Dune: Part 2&#39; trailer to see Christopher Walken as Emperor of the Known Universe &lpar;video&rpar;](https://www.space.com/dune-part-two-new-trailer-june-2023)
+- [TechCrunch+ roundup: Vertical AI, crypto losses decline, machine learning investor survey](https://techcrunch.com/2023/06/30/techcrunch-roundup-vertical-ai-crypto-losses-down-ml-investor-survey/)
+- [As Apple reaches $3T, it’s time to shake up the Big Tech club](https://techcrunch.com/2023/06/30/apple-3trillion-big-tech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
