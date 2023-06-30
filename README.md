@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TSMC confirms data breach after LockBit cyberattack on third-party supplier](https://techcrunch.com/2023/06/30/tsmc-confirms-data-breach-after-lockbit-cyberattack-on-third-party-supplier/)
 - [WhatsApp introduces new QR-code-based local data transfer method](https://techcrunch.com/2023/06/30/whatsapp-introduces-new-qr-code-based-local-data-transfer-method/)
-- [TikTok parent ByteDance launches music creation and audio editing app in closed beta in the US](https://techcrunch.com/2023/06/30/tiktok-parent-bytedance-launches-music-creation-audio-editing-app/)
-- [You can see a huge sunspot 7 times wider than Earth right now — but be careful!](https://www.space.com/see-huge-sunspot-ar-3354-june-2023)
-- [How will Europe&#39;s Euclid space telescope see into the dark universe?](https://www.space.com/euclid-solving-mystery-dark-universe)
+- [Well done, Pismo and Visa! You gave SoftBank a win](https://techcrunch.com/2023/06/30/well-done-pismo-and-visa-you-gave-softbank-a-win/)
+- [Pitch Deck Teardown: Super.com’s $60M Series C deck](https://techcrunch.com/2023/06/30/sample-series-c-pitch-deck-super-com/)
+- [&#39;Mars rover&#39; is the new &#39;moonshot&#39; in Fall Out Boy&#39;s update to Billy Joel&#39;s &#39;We Didn&#39;t Start the Fire&#39;](https://www.space.com/fall-out-boy-billy-joel-start-fire-space-history)
+- [Magic Eden CEO talks multi-chain expansion and what’s next for the NFT platform](https://techcrunch.com/2023/06/30/magic-eden-ceo-nft-marketplace/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
