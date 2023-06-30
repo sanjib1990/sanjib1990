@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Space pictures! See our image of the day](https://www.space.com/34-image-day.html)
+- [UK readies in-depth investigation into Adobe’s $20B Figma acquisition](https://techcrunch.com/2023/06/30/uk-readies-in-depth-investigation-into-adobes-20b-figma-acquisition/)
 - [Mars, Venus and Neptune put on a summer skywatching show tonight. Here&#39;s how to see it.](https://www.space.com/mars-venus-neptune-june-2023)
 - [Happy Asteroid Day! You can celebrate with this free webcast](https://www.space.com/asteroid-day-2023-webcast-events)
 - [Fidelity deepens valuation cut for Reddit and Discord](https://techcrunch.com/2023/06/30/fidelity-deepens-valuation-cut-for-reddit-and-discord/)
-- [YouTube limits ad blocker usage in new test](https://techcrunch.com/2023/06/30/youtube-limits-ad-blocker-usage-in-new-test/)
-- [Fertifa enables companies to offer fertility and reproductive health benefits](https://techcrunch.com/2023/06/30/fertifa/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
