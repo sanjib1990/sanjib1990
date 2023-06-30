@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [WhatsApp introduces new QR-code-based local data transfer method](https://techcrunch.com/2023/06/30/whatsapp-introduces-new-qr-code-based-local-data-transfer-method/)
-- [Well done, Pismo and Visa! You gave SoftBank a win](https://techcrunch.com/2023/06/30/well-done-pismo-and-visa-you-gave-softbank-a-win/)
-- [Pitch Deck Teardown: Super.com’s $60M Series C deck](https://techcrunch.com/2023/06/30/sample-series-c-pitch-deck-super-com/)
-- [&#39;Mars rover&#39; is the new &#39;moonshot&#39; in Fall Out Boy&#39;s update to Billy Joel&#39;s &#39;We Didn&#39;t Start the Fire&#39;](https://www.space.com/fall-out-boy-billy-joel-start-fire-space-history)
-- [Magic Eden CEO talks multi-chain expansion and what’s next for the NFT platform](https://techcrunch.com/2023/06/30/magic-eden-ceo-nft-marketplace/)
+- [Apple’s market cap hits $3 trillion once again](https://techcrunch.com/2023/06/30/apples-market-cap-hits-3-trillion-once-again/)
+- [Can you see the cosmic &#39;cat&#39; grinning into one of the world&#39;s largest telescopes in this photo? &lpar;video&rpar;](https://www.space.com/nebula-grinning-cosmic-cat-a-distant-stellar-nursery)
+- [Saturn’s Rings Shine in Webb’s Observations of Ringed Planet](https://blogs.nasa.gov/webb/2023/06/30/saturns-rings-shine-in-webbs-observations-of-ringed-planet/)
+- [Meet Discover, Qualcomm, Wonder Women Tech and more at TechCrunch Disrupt 2023](https://techcrunch.com/2023/06/30/meet-discover-qualcomm-wonder-women-tech-and-more-at-techcrunch-disrupt-2023/)
+- [Indiana Jones weaves his way into Apollo 11 history in &#39;Indiana Jones and the Dial of Destiny&#39;](https://www.space.com/indiana-jones-and-the-dial-destiny-apollo-11-space-history)
 <!-- BLOG-POST-LIST:END -->
 
 ---
