@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Europe&#39;s &#39;dark universe&#39; Euclid spacecraft ready for July 1 SpaceX launch](https://www.space.com/euclid-spacecraft-dark-universe-ready-launch-spacex)
+- [Are corporations too influential?](https://techcrunch.com/2023/06/30/are-corporations-too-influential/)
+- [Saturn&#39;s rings look gorgeous in 1st James Webb Space Telescope photo of the gas giant](https://www.space.com/saturn-rings-james-webb-space-telescope-photo-june-2023)
+- [FTC finally proposes ban on fake reviews](https://techcrunch.com/2023/06/30/ftc-finally-proposes-ban-on-fake-reviews/)
 - [Secretive hardware startup Humane’s first product is the Ai Pin](https://techcrunch.com/2023/06/30/secretive-hardware-startup-humanes-first-product-is-the-ai-pin/)
-- [James Webb Space Telescope spots intriguing carbon molecule in planet-forming disk](https://www.space.com/james-webb-space-telescope-carbon-molecule-protoplanetary-disk)
-- [Police want robotaxi video footage to help solve crimes](https://techcrunch.com/2023/06/30/police-want-robotaxi-video-footage-to-help-solve-crimes/)
-- [Twitter now requires an account to view tweets](https://techcrunch.com/2023/06/30/twitter-now-requires-an-account-to-view-tweets/)
-- [July&#39;s Full Buck Moon is the 1st of 4 supermoons this summer](https://www.space.com/july-full-buck-moon-supermoons-summer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
