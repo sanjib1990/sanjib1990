@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Twitter’s plea against India government dismissed](https://techcrunch.com/2023/06/29/court-dismisses-twitter-plea-against-india-government/)
+- [India court rejects Twitter’s lawsuit against gov’t challenging block orders](https://techcrunch.com/2023/06/29/court-dismisses-twitter-plea-against-india-government/)
 - [Korea’s Alwayz aims to make online shopping fun again with $46M in funding](https://techcrunch.com/2023/06/29/koreas-alwayz-aims-to-make-online-shopping-fun-again-with-46m-in-funding/)
 - [FTC reportedly finalizing its biggest Amazon antitrust case yet](https://techcrunch.com/2023/06/29/ftc-reportedly-finalizing-its-biggest-amazon-antitrust-case-yet/)
 - [How confidential computing could secure generative AI adoption](https://techcrunch.com/2023/06/29/how-confidential-computing-could-secure-generative-ai-adoption/)
