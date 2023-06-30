@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mars, Venus and Neptune put on a summer skywatching show tonight. Here&#39;s how to see it.](https://www.space.com/mars-venus-neptune-june-2023)
+- [Happy Asteroid Day! You can celebrate with this free webcast](https://www.space.com/asteroid-day-2023-webcast-events)
+- [Fidelity deepens valuation cut for Reddit and Discord](https://techcrunch.com/2023/06/30/fidelity-deepens-valuation-cut-for-reddit-and-discord/)
 - [YouTube limits ad blocker usage in new test](https://techcrunch.com/2023/06/30/youtube-limits-ad-blocker-usage-in-new-test/)
 - [Fertifa enables companies to offer fertility and reproductive health benefits](https://techcrunch.com/2023/06/30/fertifa/)
-- [India court rejects Twitter’s lawsuit against gov’t challenging block orders](https://techcrunch.com/2023/06/29/court-dismisses-twitter-plea-against-india-government/)
-- [Korea’s Alwayz aims to make online shopping fun again with $46M in funding](https://techcrunch.com/2023/06/29/koreas-alwayz-aims-to-make-online-shopping-fun-again-with-46m-in-funding/)
-- [FTC reportedly finalizing its biggest Amazon antitrust case yet](https://techcrunch.com/2023/06/29/ftc-reportedly-finalizing-its-biggest-amazon-antitrust-case-yet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
