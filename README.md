@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [One of the longest solar eclipses on Earth darkened the sky 50 years ago. Here&#39;s how it happened.](https://www.space.com/solar-eclipse-1973)
 - [Europe&#39;s &#39;dark universe&#39; Euclid spacecraft ready for July 1 SpaceX launch](https://www.space.com/euclid-spacecraft-dark-universe-ready-launch-spacex)
 - [Are corporations too influential?](https://techcrunch.com/2023/06/30/are-corporations-too-influential/)
 - [Saturn&#39;s rings look gorgeous in 1st James Webb Space Telescope photo of the gas giant](https://www.space.com/saturn-rings-james-webb-space-telescope-photo-june-2023)
 - [FTC finally proposes ban on fake reviews](https://techcrunch.com/2023/06/30/ftc-finally-proposes-ban-on-fake-reviews/)
-- [Secretive hardware startup Humane’s first product is the Ai Pin](https://techcrunch.com/2023/06/30/secretive-hardware-startup-humanes-first-product-is-the-ai-pin/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
