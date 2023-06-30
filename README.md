@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GM buys software startup that predicts EV battery fires](https://techcrunch.com/2023/06/30/gm-buys-software-startup-that-predicts-ev-battery-fires/)
+- [Schools say US teachers’ retirement fund was breached by MOVEit hackers](https://techcrunch.com/2023/06/30/tiaa-teachers-retirement-fund-moveit/)
+- [Why automakers are rushing to adopt Tesla’s NACS plug and what it means to drivers](https://techcrunch.com/2023/06/30/electrify-america-nacs/)
+- [Voice.ai raises $6M as its real-time voice changer approaches 500k users](https://techcrunch.com/2023/06/30/voice-ai-raises-6m-as-its-real-time-voice-changer-approaches-500k-users/)
 - [Apple’s market cap hits $3 trillion once again](https://techcrunch.com/2023/06/30/apples-market-cap-hits-3-trillion-once-again/)
-- [Can you see the cosmic &#39;cat&#39; grinning into one of the world&#39;s largest telescopes in this photo? &lpar;video&rpar;](https://www.space.com/nebula-grinning-cosmic-cat-a-distant-stellar-nursery)
-- [Saturn’s Rings Shine in Webb’s Observations of Ringed Planet](https://blogs.nasa.gov/webb/2023/06/30/saturns-rings-shine-in-webbs-observations-of-ringed-planet/)
-- [Meet Discover, Qualcomm, Wonder Women Tech and more at TechCrunch Disrupt 2023](https://techcrunch.com/2023/06/30/meet-discover-qualcomm-wonder-women-tech-and-more-at-techcrunch-disrupt-2023/)
-- [Indiana Jones weaves his way into Apollo 11 history in &#39;Indiana Jones and the Dial of Destiny&#39;](https://www.space.com/indiana-jones-and-the-dial-destiny-apollo-11-space-history)
 <!-- BLOG-POST-LIST:END -->
 
 ---
