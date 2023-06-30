@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [European VCs &amp; tech firms sign open letter warning against over-regulation of AI in draft EU laws](https://techcrunch.com/2023/06/30/european-vcs-tech-firms-sign-open-letter-warning-against-over-regulation-of-ai-in-draft-eu-laws/)
-- [AI is not a panacea for software development](https://techcrunch.com/2023/06/30/ai-is-not-a-panacea-for-software-development/)
-- [Watch this new &#39;Dune: Part 2&#39; trailer to see Christopher Walken as Emperor of the Known Universe &lpar;video&rpar;](https://www.space.com/dune-part-two-new-trailer-june-2023)
-- [TechCrunch+ roundup: Vertical AI, crypto losses decline, machine learning investor survey](https://techcrunch.com/2023/06/30/techcrunch-roundup-vertical-ai-crypto-losses-down-ml-investor-survey/)
-- [As Apple reaches $3T, it’s time to shake up the Big Tech club](https://techcrunch.com/2023/06/30/apple-3trillion-big-tech/)
+- [Secretive hardware startup Humane’s first product is the Ai Pin](https://techcrunch.com/2023/06/30/secretive-hardware-startup-humanes-first-product-is-the-ai-pin/)
+- [James Webb Space Telescope spots intriguing carbon molecule in planet-forming disk](https://www.space.com/james-webb-space-telescope-carbon-molecule-protoplanetary-disk)
+- [Police want robotaxi video footage to help solve crimes](https://techcrunch.com/2023/06/30/police-want-robotaxi-video-footage-to-help-solve-crimes/)
+- [Twitter now requires an account to view tweets](https://techcrunch.com/2023/06/30/twitter-now-requires-an-account-to-view-tweets/)
+- [July&#39;s Full Buck Moon is the 1st of 4 supermoons this summer](https://www.space.com/july-full-buck-moon-supermoons-summer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
