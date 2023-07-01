@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter limits the number of tweets users can read amid extended outage](https://techcrunch.com/2023/07/01/twitter-imposes-limits-on-the-number-of-tweets-users-can-read-amid-extended-outage/)
 - [What do FinOps and parametric insurance have in common?](https://techcrunch.com/2023/07/01/finops-parametric-insurance-rise/)
-- [The week in robotics: Teaching robots chores from YouTube, robot dogs at the border and drone consolidation](https://techcrunch.com/2023/07/01/the-week-in-robotics-teaching-robots-chores-from-youtube-robot-dogs-at-the-border-and-drone-consolidation/)
+- [This week in robotics: Teaching robots chores from YouTube, robot dogs at the border and drone consolidation](https://techcrunch.com/2023/07/01/the-week-in-robotics-teaching-robots-chores-from-youtube-robot-dogs-at-the-border-and-drone-consolidation/)
 - [Deal Dive: Betting on the sports betting market](https://techcrunch.com/2023/07/01/betr-sports-betting/)
 - [This week in food tech: Upside Foods wastes no time debuting its cultivated chicken](https://techcrunch.com/2023/07/01/foodtech-upside-foods-cultivated-chicken/)
-- [SpaceX rocket launches Euclid space telescope to map the &#39;dark universe&#39; like never before &lpar;video&rpar;](https://www.space.com/space-rocket-launches-euclid-dark-universe-telescope)
 <!-- BLOG-POST-LIST:END -->
 
 ---
