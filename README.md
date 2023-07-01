@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Netflix axes its basic plan in Canada, IRL shuts down and Shein’s influencer stunt backfires](https://techcrunch.com/2023/07/01/netflix-axes-its-basic-plan-in-canada-irl-shuts-down-and-sheins-influencer-stunt-backfires/)
 - [Twitter limits the number of tweets users can read amid extended outage](https://techcrunch.com/2023/07/01/twitter-imposes-limits-on-the-number-of-tweets-users-can-read-amid-extended-outage/)
 - [What do FinOps and parametric insurance have in common?](https://techcrunch.com/2023/07/01/finops-parametric-insurance-rise/)
 - [This week in robotics: Teaching robots chores from YouTube, robot dogs at the border and drone consolidation](https://techcrunch.com/2023/07/01/the-week-in-robotics-teaching-robots-chores-from-youtube-robot-dogs-at-the-border-and-drone-consolidation/)
 - [Deal Dive: Betting on the sports betting market](https://techcrunch.com/2023/07/01/betr-sports-betting/)
-- [This week in food tech: Upside Foods wastes no time debuting its cultivated chicken](https://techcrunch.com/2023/07/01/foodtech-upside-foods-cultivated-chicken/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
