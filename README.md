@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Goldman may be trying to bail on Apple Card](https://techcrunch.com/2023/06/30/goldman-may-be-trying-to-bail-on-apple-card/)
 - [Bird founder Travis VanderZanden officially leaves the nest](https://techcrunch.com/2023/06/30/bird-founder-travis-vanderzanden-steps-down-board/)
 - [Mars helicopter Ingenuity phones home, breaking 63-day silence](https://www.space.com/mars-helicopter-ingenuity-breaks-63-day-silence)
 - [Apple is now the first publicly traded company to close above a $3 trillion market value](https://techcrunch.com/2023/06/30/apples-market-cap-hits-3-trillion-once-again/)
 - [One of the longest solar eclipses on Earth darkened the sky 50 years ago. Here&#39;s how it happened.](https://www.space.com/solar-eclipse-1973)
-- [Europe&#39;s &#39;dark universe&#39; Euclid spacecraft ready for July 1 SpaceX launch](https://www.space.com/euclid-spacecraft-dark-universe-ready-launch-spacex)
 <!-- BLOG-POST-LIST:END -->
 
 ---
