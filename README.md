@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The week in robotics: Teaching robots chores from YouTube, robot dogs at the border and drone consolidation](https://techcrunch.com/2023/07/01/the-week-in-robotics-teaching-robots-chores-from-youtube-robot-dogs-at-the-border-and-drone-consolidation/)
+- [Deal Dive: Betting on the sports betting market](https://techcrunch.com/2023/07/01/betr-sports-betting/)
+- [This week in food tech: Upside Foods wastes no time debuting its cultivated chicken](https://techcrunch.com/2023/07/01/foodtech-upside-foods-cultivated-chicken/)
+- [SpaceX rocket launches Euclid space telescope to map the &#39;dark universe&#39; like never before &lpar;video&rpar;](https://www.space.com/space-rocket-launches-euclid-dark-universe-telescope)
 - [Who is the Euclid &#39;dark universe&#39; space telescope named after?](https://www.space.com/euclid-spacecraft-named-after-mathematician)
-- [We have never seen dark matter and dark energy. Why do we think they exist?](https://www.space.com/what-if-dark-energy-does-not-exist)
-- [Goldman may be trying to bail on Apple Card](https://techcrunch.com/2023/06/30/goldman-may-be-trying-to-bail-on-apple-card/)
-- [Bird founder Travis VanderZanden officially leaves the nest](https://techcrunch.com/2023/06/30/bird-founder-travis-vanderzanden-steps-down-board/)
-- [Mars helicopter Ingenuity phones home, breaking 63-day silence](https://www.space.com/mars-helicopter-ingenuity-breaks-63-day-silence)
 <!-- BLOG-POST-LIST:END -->
 
 ---
