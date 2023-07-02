@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla delivers record EVs amid federal tax credits, price cuts](https://techcrunch.com/2023/07/02/tesla-delivers-record-evs-amid-federal-tax-credits-price-cuts/)
 - [Lucid scores a win, Bird’s founder leaves the nest and Zoox robotaxis roll out in Vegas](https://techcrunch.com/2023/07/02/lucid-scores-a-win-birds-founder-leaves-the-nest-and-zoox-robotaxis-roll-out-in-vegas/)
 - [15 investors talk about their investment cadence in H1 2023](https://techcrunch.com/2023/07/02/investors-investment-cadence-2023/)
 - [Fintech M&amp;A gets a big boost with Visa-Pismo deal](https://techcrunch.com/2023/07/02/fintech-ma-gets-a-big-boost-with-visa-pismo-deal/)
 - [What&#39;s next for Europe&#39;s Euclid &#39;dark universe&#39; telescope after stunning SpaceX launch?](https://www.space.com/euclid-dark-matter-universe-what-next-after-launch)
-- [An intergalactic treasure hunt unfolds in new &#39;Alliances: Orphans&#39; graphic novel from the mind of Stan Lee](https://www.space.com/stan-lee-alliances-comic)
 <!-- BLOG-POST-LIST:END -->
 
 ---
