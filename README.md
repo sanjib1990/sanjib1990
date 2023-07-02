@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s next for Europe&#39;s Euclid &#39;dark universe&#39; telescope after stunning SpaceX launch?](https://www.space.com/euclid-dark-matter-universe-what-next-after-launch)
+- [An intergalactic treasure hunt unfolds in new &#39;Alliances: Orphans&#39; graphic novel from the mind of Stan Lee](https://www.space.com/stan-lee-alliances-comic)
+- [Hello there! &#39;Star Wars: Obi-Wan Kenobi&#39; TV series scores Marvel Comics adaptation](https://www.space.com/star-wars-obi-wan-kenobi-comic-adaptation)
 - [Artemis 2 astronaut Jeremy Hansen says a Canadian will walk on the moon one day](https://www.space.com/artemis-2-jeremy-hansen-canada-on-moon)
-- [See Europe&#39;s powerful new Ariane 6 rocket on launch pad &lpar;photo&rpar;](https://www.space.com/europe-ariane-6-on-launch-pad)
-- [Netflix axes its basic plan in Canada, IRL shuts down and Shein’s influencer stunt backfires](https://techcrunch.com/2023/07/01/netflix-axes-its-basic-plan-in-canada-irl-shuts-down-and-sheins-influencer-stunt-backfires/)
-- [Twitter limits the number of tweets users can read amid extended outage](https://techcrunch.com/2023/07/01/twitter-imposes-limits-on-the-number-of-tweets-users-can-read-amid-extended-outage/)
-- [What do FinOps and parametric insurance have in common?](https://techcrunch.com/2023/07/01/finops-parametric-insurance-rise/)
+- [See Europe&#39;s powerful new Ariane 6 rocket on launch pad &lpar;photos&rpar;](https://www.space.com/europe-ariane-6-on-launch-pad)
 <!-- BLOG-POST-LIST:END -->
 
 ---
