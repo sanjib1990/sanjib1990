@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [15 investors talk about their investment cadence in H1 2023](https://techcrunch.com/2023/07/02/investors-investment-cadence-2023/)
+- [Fintech M&amp;A gets a big boost with Visa-Pismo deal](https://techcrunch.com/2023/07/02/fintech-ma-gets-a-big-boost-with-visa-pismo-deal/)
 - [What&#39;s next for Europe&#39;s Euclid &#39;dark universe&#39; telescope after stunning SpaceX launch?](https://www.space.com/euclid-dark-matter-universe-what-next-after-launch)
 - [An intergalactic treasure hunt unfolds in new &#39;Alliances: Orphans&#39; graphic novel from the mind of Stan Lee](https://www.space.com/stan-lee-alliances-comic)
 - [Hello there! &#39;Star Wars: Obi-Wan Kenobi&#39; TV series scores Marvel Comics adaptation](https://www.space.com/star-wars-obi-wan-kenobi-comic-adaptation)
-- [Artemis 2 astronaut Jeremy Hansen says a Canadian will walk on the moon one day](https://www.space.com/artemis-2-jeremy-hansen-canada-on-moon)
-- [See Europe&#39;s powerful new Ariane 6 rocket on launch pad &lpar;photos&rpar;](https://www.space.com/europe-ariane-6-on-launch-pad)
 <!-- BLOG-POST-LIST:END -->
 
 ---
