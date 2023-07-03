@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [The sad truth about Twitter’s rate limit](https://www.youtube.com/watch?v=3AS5x05XIyg)
 - [how to HACK a password // Windows Edition](https://www.youtube.com/watch?v=L26Xq7m0uQ0)
 - [How Safe are Short Links?](https://www.youtube.com/watch?v=ElQxbbNBayI)
 - [This unicorn startup faked 95% of its users](https://www.youtube.com/watch?v=M_wZpSEvOkc)
 - [Power LED Attack - Computerphile](https://www.youtube.com/watch?v=vXe8pe18MNk)
-- [you NEED to learn Windows RIGHT NOW!!](https://www.youtube.com/watch?v=X1CM3rZwGn8)
 <!-- YOUTUBE:END -->
 
 ---
