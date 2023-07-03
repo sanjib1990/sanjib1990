@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TweetDeck suffers as Musk enforces read limits on Twitter](https://techcrunch.com/2023/07/03/tweetdeck-suffers-as-musk-enforces-read-limits-on-twitter/)
+- [The universe is humming with gravitational waves. Here&#39;s why scientists are so excited about the discovery](https://www.space.com/gravitational-waves-astronomers-why-so-excited)
+- [Trying to close a Series B in 2023? Read this first.](https://techcrunch.com/2023/07/03/trying-to-close-a-series-b-in-2023-read-this-first/)
+- [Distortions in space-time could put Einstein&#39;s theory of relativity to the ultimate test](https://www.space.com/distortions-in-space-time-put-einstein-theory-to-test)
 - [Tesla delivers record EVs amid federal tax credits, price cuts](https://techcrunch.com/2023/07/02/tesla-delivers-record-evs-amid-federal-tax-credits-price-cuts/)
-- [Lucid scores a win, Bird’s founder leaves the nest and Zoox robotaxis roll out in Vegas](https://techcrunch.com/2023/07/02/lucid-scores-a-win-birds-founder-leaves-the-nest-and-zoox-robotaxis-roll-out-in-vegas/)
-- [15 investors talk about their investment cadence in H1 2023](https://techcrunch.com/2023/07/02/investors-investment-cadence-2023/)
-- [Fintech M&amp;A gets a big boost with Visa-Pismo deal](https://techcrunch.com/2023/07/02/fintech-ma-gets-a-big-boost-with-visa-pismo-deal/)
-- [What&#39;s next for Europe&#39;s Euclid &#39;dark universe&#39; telescope after stunning SpaceX launch?](https://www.space.com/euclid-dark-matter-universe-what-next-after-launch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
